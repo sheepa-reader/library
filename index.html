@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sheepa Library — Tủ Sách Tự Dịch</title>
+  <meta name="description" content="Thư viện sách dịch tối giản, thanh lịch. Đọc trực tuyến và tải về miễn phí các tác phẩm văn học, triết lý kinh điển.">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="public/assets/cuu-logo.png">
+
+  <!-- Google Fonts: Inter & Merriweather -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="src/css/style.css">
+</head>
+<body>
+
+  <!-- Sticky Site Header -->
+  <header class="site-header">
+    <div class="header-container">
+      <a href="#/" class="brand-link">
+        <img src="public/assets/cuu-logo.png" alt="Sheepa Logo" class="brand-logo" onerror="this.src='public/icons/01_sheep_reading.png'">
+        <div class="brand-text">
+          <span class="brand-title">Sheepa Library</span>
+          <span class="brand-subtitle">Tủ Sách Tự Dịch</span>
+        </div>
+      </a>
+
+      <div class="nav-actions">
+        <!-- Theme Switcher (Light / Dark) -->
+        <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Đổi giao diện Sáng / Tối" title="Đổi giao diện">
+          <svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Dynamic Application Container -->
+  <div id="app">
+    <!-- Populated by src/js/app.js based on URL Hash -->
+  </div>
+
+  <!-- Minimalist Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <img src="public/icons/glyph_06_sheep_profile_smile.png" alt="Sheepa mascot" style="width: 28px; height: 28px; opacity: 0.7;">
+      <p class="footer-quote">"Những điều cốt yếu thì vô hình đối với mắt trần. Chỉ có trái tim mới thấy rõ."</p>
+      <p>© Sheepa Library — Dự án dịch thuật và lưu trữ sách phi lợi nhuận trên GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <!-- Application Script -->
+  <script src="src/js/app.js"></script>
+</body>
+</html>
