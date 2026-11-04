@@ -638,5 +638,249 @@
         "path": "content/books/mam-mong-tha-hoa/chuong-57.md"
       }
     ]
+  },
+  {
+    "id": "thuong-vu-mau",
+    "title": "Thương Vụ Máu",
+    "originalTitle": "A Trade of Blood",
+    "series": "Bí Ẩn Của Ana & Din",
+    "volume": "Tập 3",
+    "author": "Robert Jackson Bennett",
+    "translator": "Sheepa Translator",
+    "year": "2026",
+    "category": "Trinh thám & Bí ẩn",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/thuong-vu-mau/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Nối tiếp những chấn động dữ dội sau các sự kiện của Chiếc Chén Hoen Ố và Mầm Mống Tha Hóa, tác phẩm tiếp tục theo chân cặp bài trùng điều tra viên kỳ lạ của Tòa nhà Bộ Tư Pháp: nữ thanh tra mù lập dị Ana Dolabra và trợ lý sở hữu trí nhớ khắc sâu Din. Lần này, bức màn bí mật dẫn họ dấn sâu vào tâm chấn của quyền lực đế chế, nơi ranh giới giữa ma thuật công nghệ sinh học và sự tha hóa chính trị bị đẩy lên mức đỉnh điểm. Một vụ án mạng mới với những dấu hiệu huyết thuật và sự biến đổi cơ thể dị thường đe dọa làm sụp đổ toàn bộ hệ thống phòng thủ trước thảm họa Thủy quái Leviathan. Đứng trước những kẻ thù giấu mặt sẵn sàng đem máu và sinh mạng ra làm món hàng trao đổi, Ana và Din buộc phải bước vào một ván cờ sinh tử khốc liệt hơn bao giờ hết.",
+    "downloads": {
+      "epub": "content/downloads/thuong-vu-mau.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "GIỚI THIỆU",
+        "part": "Nội Dung Tác Phẩm",
+        "path": "content/books/thuong-vu-mau/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "CHƯƠNG 1",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "CHƯƠNG 2",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "CHƯƠNG 3",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "CHƯƠNG 4",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "CHƯƠNG 5",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "CHƯƠNG 6",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "CHƯƠNG 7",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "CHƯƠNG 8",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "CHƯƠNG 9",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "CHƯƠNG 10",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "CHƯƠNG 11",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "CHƯƠNG 12",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "CHƯƠNG 13",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "CHƯƠNG 14",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "CHƯƠNG 15",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "CHƯƠNG 16",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "CHƯƠNG 17",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "CHƯƠNG 18",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "CHƯƠNG 19",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "CHƯƠNG 20",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "CHƯƠNG 21",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "CHƯƠNG 22",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "CHƯƠNG 23",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "CHƯƠNG 24",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "CHƯƠNG 25",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "CHƯƠNG 26",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "CHƯƠNG 27",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "CHƯƠNG 28",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "CHƯƠNG 29",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "CHƯƠNG 30",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "CHƯƠNG 31",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "CHƯƠNG 32",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "CHƯƠNG 33",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "CHƯƠNG 34",
+        "part": "VĨ THANH: CHÉN THIÊN ĐƯỜNG",
+        "path": "content/books/thuong-vu-mau/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "CHƯƠNG 35",
+        "part": "VĨ THANH: CHÉN THIÊN ĐƯỜNG",
+        "path": "content/books/thuong-vu-mau/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "LỜI CẢM ƠN",
+        "part": "Nội Dung Tác Phẩm",
+        "path": "content/books/thuong-vu-mau/chuong-37.md"
+      }
+    ]
   }
 ]
