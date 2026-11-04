@@ -48,12 +48,6 @@
   --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.3);
 }
 
-/* Base Styles */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 /* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode */
 [data-theme="dark"] .brand-logo,
 [data-theme="dark"] .hero-badge-img,
@@ -72,6 +66,14 @@
   background: #252730;
   border-color: #383b48;
 }
+
+/* Base Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 html {
   scroll-behavior: smooth;
   font-size: 16px;
