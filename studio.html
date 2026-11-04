@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sheepa Publisher Studio — Nền Tảng Tự Động Hóa Sách Dịch</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="public/assets/cuu-logo.png">
+
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- JSZip CDN for creating in-browser zip bundles -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+  <!-- Studio Stylesheet -->
+  <link rel="stylesheet" href="src/css/studio.css">
+</head>
+<body>
+
+  <!-- Studio Top Navigation -->
+  <header class="studio-header">
+    <div class="studio-brand">
+      <img src="public/assets/cuu-logo.png" alt="Sheepa Studio" class="studio-logo" onerror="this.src='public/icons/01_sheep_reading.png'">
+      <div class="studio-title">
+        <h1>Sheepa Publisher Studio</h1>
+        <p>Hệ thống tự động hóa chuyển đổi sách TXT, phân tích AI & xuất bản GitHub Pages</p>
+      </div>
+    </div>
+
+    <div class="studio-top-actions">
+      <a href="index.html" class="btn btn-sm btn-outline">← Về Thư Viện Web</a>
+      <button id="studio-theme-toggle" class="btn btn-sm btn-outline" title="Đổi giao diện Sáng / Tối">🌓 Giao diện</button>
+    </div>
+  </header>
+
+  <!-- Studio Main Layout -->
+  <div class="studio-layout">
+
+    <!-- Left Tab Sidebar -->
+    <aside class="studio-nav">
+      <button class="nav-tab-btn active" data-tab="convert">
+        <img src="public/icons/09_quill_inkwell.png" class="nav-icon-img" alt="icon">
+        Nạp File & Biên Tập
+      </button>
+      <button class="nav-tab-btn" data-tab="keys">
+        <img src="public/icons/14_sheep_lightbulb.png" class="nav-icon-img" alt="icon">
+        Kho API Key AI
+      </button>
+      <button class="nav-tab-btn" data-tab="projects">
+        <img src="public/icons/glyph_10_bookshelf.png" class="nav-icon-img" alt="icon">
+        Dự Án Trong Thư Viện
+      </button>
+      <button class="nav-tab-btn" data-tab="export">
+        <img src="public/icons/04_book_stack_horizontal.png" class="nav-icon-img" alt="icon">
+        Xuất Gói GitHub
+      </button>
+    </aside>
+
+    <!-- Main Content Panels -->
+    <main class="studio-content">
+
+      <!-- ================= TAB 1: NẠP FILE & BIÊN TẬP ================= -->
+      <section id="tab-convert" class="tab-panel active">
+        
+        <!-- Step 1: Upload TXT & Cover -->
+        <div class="studio-card">
+          <div class="card-title-row">
+            <h2>
+              <img src="public/icons/15_document_magnifier.png" style="width: 24px; height: 24px;" alt="icon">
+              Bước 1: Nạp Bản Thảo (.TXT) & Bìa Sách
+            </h2>
+          </div>
+
+          <div class="form-row">
+            <!-- Dropzone TXT -->
+            <div>
+              <label>Tệp bản dịch văn bản thuần (.txt):</label>
+              <div class="dropzone" id="txt-dropzone">
+                <input type="file" id="txt-file-input" accept=".txt,.md">
+                <img src="public/icons/glyph_05_book_open.png" class="dropzone-icon" alt="doc">
+                <div style="font-weight: 600; font-size: 0.95rem;">Kéo thả file sách .TXT vào đây</div>
+                <div class="hint-text">hoặc bấm vào để chọn từ máy tính</div>
+                <div id="txt-filename-display" style="margin-top: 0.75rem; font-weight: 700; color: var(--studio-accent);"></div>
+              </div>
+            </div>
+
+            <!-- Choose Cover -->
+            <div>
+              <label>Ảnh bìa sách (khuyên dùng tỷ lệ 2:3):</label>
+              <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+                <input type="file" id="cover-file-input" accept="image/*" class="form-control">
+                <div style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span style="font-size: 0.8rem; color: var(--studio-muted);">hoặc link URL:</span>
+                  <input type="text" id="cover-url-input" placeholder="https://.../anh-bia.jpg" style="flex: 1;">
+                </div>
+                <div class="cover-preview-wrapper">
+                  <img id="cover-preview-img" class="cover-preview-img" style="display: none;" alt="Preview bìa">
+                  <div class="hint-text">Ảnh bìa sẽ được tự động lưu chuẩn vào <code>content/books/&lt;tên-sách&gt;/cover.jpg</code> khi xuất bản.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Process Actions -->
+          <div style="margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid var(--studio-border); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
+            <div style="display: flex; align-items: center; gap: 0.75rem;">
+              <label style="margin: 0;">API Key đang dùng:</label>
+              <select id="active-key-select" style="width: auto; min-width: 220px;"></select>
+            </div>
+
+            <div style="display: flex; gap: 0.75rem;">
+              <button class="btn btn-outline" id="btn-process-regex" title="Không tốn token, hoạt động tức thì">
+                ⚡ Tách Chương Bằng Regex (Offline)
+              </button>
+              <button class="btn btn-accent" id="btn-process-ai" title="Tự động trích xuất tác giả, tựa đề, tóm tắt và tách chương">
+                🤖 Phân Tích Thông Minh Bằng AI
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 2: Metadata & Chapters Editor -->
+        <div class="studio-card">
+          <div class="card-title-row">
+            <h2>
+              <img src="public/icons/03_sheep_editor_glasses.png" style="width: 24px; height: 24px;" alt="icon">
+              Bước 2: Hiệu Đính Thông Tin & Các Chương
+            </h2>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Tựa đề sách tiếng Việt:</label>
+              <input type="text" id="meta-title" placeholder="Ví dụ: Hoàng Tử Bé, Chiếc Chén Hoen Ố...">
+            </div>
+            <div class="form-group">
+              <label>Tựa đề gốc (nếu có):</label>
+              <input type="text" id="meta-original-title" placeholder="Ví dụ: The Tainted Cup">
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Bộ sách / Series (nếu có):</label>
+              <input type="text" id="meta-series" placeholder="Ví dụ: Bí Ẩn Của Ana và Din">
+            </div>
+            <div class="form-group">
+              <label>Tập / Quyển trong Series:</label>
+              <input type="text" id="meta-volume" placeholder="Ví dụ: Tập 1, Quyển 2...">
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Tác giả gốc:</label>
+              <input type="text" id="meta-author" placeholder="Ví dụ: Antoine de Saint-Exupéry">
+            </div>
+            <div class="form-group">
+              <label>Người dịch:</label>
+              <input type="text" id="meta-translator" value="Sheepa Translator">
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Thể loại sách:</label>
+              <select id="meta-category">
+                <option value="Văn học cổ điển">Văn học cổ điển</option>
+                <option value="Tiểu thuyết triết lý">Tiểu thuyết triết lý</option>
+                <option value="Triết lý sống">Triết lý sống</option>
+                <option value="Khoa học & Đời sống">Khoa học & Đời sống</option>
+                <option value="Trinh thám & Bí ẩn">Trinh thám & Bí ẩn</option>
+                <option value="Kinh tế & Kỹ năng">Kinh tế & Kỹ năng</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Tình trạng bản dịch:</label>
+              <select id="meta-status">
+                <option value="ongoing">Đang dịch (Đang cập nhật)</option>
+                <option value="completed">Hoàn thành trọn vẹn</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Giới thiệu tóm tắt / Lời tựa cuốn sách:</label>
+            <textarea id="meta-description" rows="3" placeholder="Đoạn giới thiệu ngắn về tác phẩm..."></textarea>
+          </div>
+
+          <!-- Chapters Accordion -->
+          <div style="margin-top: 1.5rem;">
+            <label style="font-size: 1rem; margin-bottom: 0.75rem;">Mục lục & Nội dung các chương đã phân tách:</label>
+            <div id="editor-chapters-list">
+              <div style="text-align: center; color: var(--studio-muted); padding: 2rem; border: 1px dashed var(--studio-border); border-radius: 8px;">
+                Nạp file .txt ở Bước 1 và bấm phân tích để danh sách các chương hiện ra tại đây.
+              </div>
+            </div>
+          </div>
+
+          <!-- Action Export Button -->
+          <div style="margin-top: 2rem; text-align: right;">
+            <button class="btn btn-primary" id="btn-export-zip" style="font-size: 1rem; padding: 0.85rem 1.75rem;">
+              📦 Đóng Gói & Tải File ZIP Cập Nhật GitHub
+            </button>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- ================= TAB 2: KHO API KEY AI ================= -->
+      <section id="tab-keys" class="tab-panel">
+        <div class="studio-card">
+          <div class="card-title-row">
+            <h2>
+              <img src="public/icons/14_sheep_lightbulb.png" style="width: 24px; height: 24px;" alt="icon">
+              Kho Quản Lý API Key (AI Key Vault)
+            </h2>
+          </div>
+          <p style="font-size: 0.9rem; color: var(--studio-muted); margin-bottom: 1.5rem;">
+            Các API Key được lưu trữ an toàn ngay trong trình duyệt của bạn (Local Storage). Hệ thống hỗ trợ độc quyền các thế hệ mô hình <strong>Google Gemini 3.5, 3.6, 3.7 và 3.8</strong>.
+          </p>
+
+          <!-- Add Key Form -->
+          <form id="add-key-form" style="background: var(--studio-bg); padding: 1.25rem; border-radius: 8px; border: 1px solid var(--studio-border); margin-bottom: 1.5rem;">
+            <h3 style="font-size: 1rem; margin-bottom: 1rem;">+ Thêm API Key Gemini Mới</h3>
+            <div class="form-row">
+              <div class="form-group">
+                <label>Tên gợi nhớ cho Key:</label>
+                <input type="text" id="key-name" placeholder="Ví dụ: Key Gemini 3.8 Cá Nhân, Key Dự Án Sách...">
+              </div>
+              <div class="form-group">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.4rem;">
+                  <label style="margin: 0;">Mô hình Gemini (chọn từ danh sách):</label>
+                  <button type="button" id="btn-fetch-models-live" class="btn btn-sm btn-outline" style="padding: 0.2rem 0.5rem; font-size: 0.75rem;">🔄 Tải model từ Key</button>
+                </div>
+                <select id="key-model">
+                  <option value="gemini-3.8-flash" selected>Gemini 3.8 Flash (Mới nhất — Siêu tốc)</option>
+                  <option value="gemini-3.8-pro">Gemini 3.8 Pro (Mới nhất — Chuyên sâu)</option>
+                  <option value="gemini-3.8">Gemini 3.8</option>
+                  <option value="gemini-3.7-flash">Gemini 3.7 Flash</option>
+                  <option value="gemini-3.7-pro">Gemini 3.7 Pro</option>
+                  <option value="gemini-3.7">Gemini 3.7</option>
+                  <option value="gemini-3.6-flash">Gemini 3.6 Flash</option>
+                  <option value="gemini-3.6-pro">Gemini 3.6 Pro</option>
+                  <option value="gemini-3.6">Gemini 3.6</option>
+                  <option value="gemini-3.5-flash">Gemini 3.5 Flash</option>
+                  <option value="gemini-3.5-pro">Gemini 3.5 Pro</option>
+                  <option value="gemini-3.5">Gemini 3.5</option>
+                </select>
+                <div class="hint-text">Toàn bộ thế hệ <strong>Gemini 3.8, 3.7, 3.6, 3.5</strong> (Flash & Pro). Bấm nút <code>🔄 Tải model từ Key</code> để tự đồng bộ với tài khoản.</div>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label>Mã API Key Google Gemini:</label>
+              <input type="password" id="key-val" placeholder="Dán mã API Key (AIzaSy...) vào đây">
+              <div class="hint-text">API Key lấy miễn phí tại Google AI Studio (aistudio.google.com)</div>
+            </div>
+
+            <input type="hidden" id="key-provider" value="gemini">
+
+            <button type="submit" class="btn btn-accent">+ Lưu Key Vào Kho</button>
+          </form>
+
+          <!-- Key Table -->
+          <table class="key-list-table">
+            <thead>
+              <tr>
+                <th>Tên Key</th>
+                <th>Nhà cung cấp</th>
+                <th>Model</th>
+                <th>Mã Key</th>
+                <th>Thao tác</th>
+              </tr>
+            </thead>
+            <tbody id="key-table-body">
+              <!-- Rendered by studio.js -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ================= TAB 3: DỰ ÁN TRONG THƯ VIỆN ================= -->
+      <section id="tab-projects" class="tab-panel">
+        <div class="studio-card">
+          <div class="card-title-row">
+            <h2>
+              <img src="public/icons/glyph_10_bookshelf.png" style="width: 24px; height: 24px;" alt="icon">
+              Danh Mục Toàn Bộ Dự Án Sách
+            </h2>
+          </div>
+          <p style="font-size: 0.9rem; color: var(--studio-muted); margin-bottom: 1.5rem;">
+            Tự động đồng bộ với tệp <code>data/books.json</code> của thư viện. Bấm vào "Chỉnh sửa" để tải thông tin cuốn sách đó vào bảng biên tập.
+          </p>
+
+          <div id="projects-container">
+            <!-- Rendered by studio.js -->
+          </div>
+        </div>
+      </section>
+
+      <!-- ================= TAB 4: HƯỚNG DẪN XUẤT BẢN GITHUB ================= -->
+      <section id="tab-export" class="tab-panel">
+        <div class="studio-card">
+          <div class="card-title-row">
+            <h2>
+              <img src="public/icons/04_book_stack_horizontal.png" style="width: 24px; height: 24px;" alt="icon">
+              Quy Trình Đồng Bộ Lên GitHub Pages (2 Phút)
+            </h2>
+          </div>
+
+          <div style="line-height: 1.8; font-size: 0.95rem;">
+            <p style="margin-bottom: 1rem;">Mỗi khi bạn nạp sách mới hoặc cập nhật chương từ Studio, quy trình đẩy lên GitHub chỉ gồm 2 bước:</p>
+            
+            <ol style="padding-left: 1.5rem; margin-bottom: 1.5rem;">
+              <li style="margin-bottom: 0.75rem;">
+                <strong>Bấm nút "Đóng Gói & Tải File ZIP":</strong> Studio sẽ tự động tạo file ZIP chứa chuẩn cấu trúc thư mục gồm file <code>data/books.json</code> đã gộp, thư mục <code>content/books/&lt;tên-sách&gt;/</code> (gồm ảnh bìa và các file chương <code>.md</code>), cùng file <code>content/downloads/&lt;tên-sách&gt;.txt</code>.
+              </li>
+              <li style="margin-bottom: 0.75rem;">
+                <strong>Giải nén và kéo thả vào GitHub:</strong> Bạn giải nén file ZIP ra thư mục dự án máy tính hoặc kéo thả trực tiếp vào kho lưu trữ trên web GitHub (nút <code>Add file</code> -> <code>Upload files</code>) rồi bấm <code>Commit changes</code>.
+              </li>
+              <li>
+                <strong>Trang web tự động cập nhật:</strong> Trong vòng 30 giây, GitHub Pages sẽ tự động xuất bản cuốn sách mới lên web đọc online toàn cầu!
+              </li>
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <!-- Output Console Log -->
+      <div class="studio-card" style="padding: 1rem 1.5rem;">
+        <div style="font-size: 0.82rem; font-weight: 700; color: var(--studio-muted); text-transform: uppercase;">
+          Nhật ký hoạt động hệ thống (Console Log):
+        </div>
+        <div class="log-console" id="studio-log"></div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- Studio Script -->
+  <script src="src/js/studio.js"></script>
+</body>
+</html>

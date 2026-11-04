@@ -208,7 +208,7 @@
             <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
               <div class="card-top">
                 ${book.cover ? `
-                  <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}">
+                  <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
                 ` : `
                   <div class="card-icon-frame">
                     <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
@@ -217,6 +217,7 @@
                 <div class="card-meta">
                   <div class="card-badge-row">
                     <span class="badge-tag">${escapeHtml(book.category)}</span>
+                    ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                     <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
                   </div>
                   <h3 class="card-title">${escapeHtml(book.title)}</h3>
@@ -303,13 +304,18 @@
         <div class="book-detail-header">
           <div class="detail-cover-box">
             ${book.cover ? `
-              <img src="${book.cover}" class="detail-cover-real" alt="${escapeHtml(book.title)}">
+              <img src="${book.cover}" class="detail-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
             ` : `
               <img src="${book.icon || 'public/icons/01_sheep_reading.png'}" alt="${escapeHtml(book.title)}">
               <span style="font-size: 0.75rem; font-weight: 700; color: var(--text-tertiary);">${book.year || ''}</span>
             `}
           </div>
           <div class="detail-info">
+            ${book.series ? `
+              <div class="detail-series-banner">
+                📖 Bộ sách: <strong>${escapeHtml(book.series)}</strong> ${book.volume ? '— ' + escapeHtml(book.volume) : ''}
+              </div>
+            ` : ''}
             <div class="detail-badges">
               <span class="badge-tag">${escapeHtml(book.category)}</span>
               <span class="badge-status ${book.status}">${book.statusText || 'Đang dịch'}</span>
@@ -361,15 +367,7 @@
             Mục lục các chương (${book.chapters.length})
           </h2>
           <div class="toc-list">
-            ${book.chapters.map((chap, idx) => `
-              <a href="#/read/${book.id}/${chap.id}" class="toc-item-link">
-                <div>
-                  <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-                  <span>${escapeHtml(chap.title)}</span>
-                </div>
-                <span class="toc-arrow">→</span>
-              </a>
-            `).join('')}
+            ${renderHierarchicalToc(book)}
           </div>
         </div>
       </div>
@@ -587,7 +585,44 @@
     window.addEventListener('keydown', handleKeyNav, { once: true });
   }
 
-  // --- DOWNLOAD MODAL ---
+  // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters) ---
+  function renderHierarchicalToc(book, currentChapId = null, isDrawer = false) {
+    const hasParts = book.chapters.some(c => c.part);
+    if (!hasParts) {
+      return book.chapters.map((chap, idx) => `
+        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : ''}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+          <div>
+            <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+            <span>${escapeHtml(chap.title)}</span>
+          </div>
+          <span class="toc-arrow">→</span>
+        </a>
+      `).join('');
+    }
+
+    let currentPart = null;
+    let html = '';
+    book.chapters.forEach((chap, idx) => {
+      const part = chap.part || 'Các chương';
+      if (part !== currentPart) {
+        currentPart = part;
+        html += `<div class="toc-group-header">📂 ${escapeHtml(part)}</div>`;
+      }
+      const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
+      html += `
+        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+          <div>
+            <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+            <span>${escapeHtml(chap.title)}</span>
+          </div>
+          <span class="toc-arrow">→</span>
+        </a>
+      `;
+    });
+    return html;
+  }
+
+  // --- DOWNLOAD MODAL (EPUB & PDF ONLY) ---
   function openDownloadModal(book) {
     let modal = document.getElementById('download-modal');
     if (!modal) {
@@ -597,6 +632,9 @@
       document.body.appendChild(modal);
     }
 
+    const hasEpub = Boolean(book.downloads?.epub);
+    const hasPdf = Boolean(book.downloads?.pdf);
+
     modal.innerHTML = `
       <div class="modal-content">
         <div class="modal-header">
@@ -604,32 +642,46 @@
           <button class="icon-btn" id="btn-close-modal" style="width: 32px; height: 32px;">✕</button>
         </div>
         <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
-          Chọn định dạng phù hợp với máy đọc sách hoặc thiết bị của bạn:
+          Chọn định dạng sách điện tử hoặc tài liệu đọc offline:
         </p>
 
-        <a href="${book.downloads?.txt || 'content/downloads/hoang-tu-be.txt'}" download="${book.id}.txt" class="download-option-btn">
-          <div>
-            <div style="font-weight: 600;">Văn bản thuần (.TXT)</div>
-            <div style="font-size: 0.78rem; color: var(--text-tertiary);">Phù hợp mọi máy tính, điện thoại, máy đọc sách</div>
+        <!-- EPUB Option -->
+        ${hasEpub ? `
+          <a href="${book.downloads.epub}" download="${book.id}.epub" class="download-option-btn">
+            <div>
+              <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
+              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+            </div>
+            <span class="download-badge">TẢI VỀ</span>
+          </a>
+        ` : `
+          <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
+            <div>
+              <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
+              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang được biên tập và xuất bản</div>
+            </div>
+            <span class="badge-tag">SẮP CÓ</span>
           </div>
-          <span class="download-badge">TẢI VỀ</span>
-        </a>
+        `}
 
-        <a href="${book.chapters[0]?.path || '#'}" download="${book.id}-chuong-1.md" class="download-option-btn">
-          <div>
-            <div style="font-weight: 600;">Tệp Markdown (.MD)</div>
-            <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn dùng cho Obsidian, Notion, GitHub</div>
+        <!-- PDF Option -->
+        ${hasPdf ? `
+          <a href="${book.downloads.pdf}" download="${book.id}.pdf" class="download-option-btn">
+            <div>
+              <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
+              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+            </div>
+            <span class="download-badge">TẢI VỀ</span>
+          </a>
+        ` : `
+          <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
+            <div>
+              <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
+              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang hoàn thiện định dạng trang in</div>
+            </div>
+            <span class="badge-tag">SẮP CÓ</span>
           </div>
-          <span class="download-badge">TẢI VỀ</span>
-        </a>
-
-        <div class="download-option-btn" style="opacity: 0.6; cursor: not-allowed;" title="Đang biên tập hoàn thiện">
-          <div>
-            <div style="font-weight: 600;">Ebook (.EPUB / Kindle)</div>
-            <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang hoàn thiện biên tập trang bìa & mục lục số</div>
-          </div>
-          <span class="badge-tag">SẮP CÓ</span>
-        </div>
+        `}
       </div>
     `;
 
@@ -658,19 +710,11 @@
     modal.innerHTML = `
       <div class="modal-content" style="max-height: 80vh; display: flex; flex-direction: column;">
         <div class="modal-header">
-          <h3>Mục lục các chương</h3>
+          <h3>Mục lục các chương (${book.chapters.length})</h3>
           <button class="icon-btn" id="btn-close-toc" style="width: 32px; height: 32px;">✕</button>
         </div>
         <div class="toc-list" style="overflow-y: auto; flex: 1;">
-          ${book.chapters.map((chap, idx) => `
-            <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${chap.id === currentChapId ? 'background: var(--bg-hover); font-weight: 700;' : ''}" onclick="document.getElementById('toc-modal').classList.remove('active');">
-              <div>
-                <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-                <span>${escapeHtml(chap.title)}</span>
-              </div>
-              <span class="toc-arrow">→</span>
-            </a>
-          `).join('')}
+          ${renderHierarchicalToc(book, currentChapId, true)}
         </div>
       </div>
     `;

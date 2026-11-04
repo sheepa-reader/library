@@ -3,44 +3,373 @@
     "id": "chiec-chen-hoen-o",
     "title": "Chiếc Chén Hoen Ố",
     "originalTitle": "The Tainted Cup",
+    "series": "Bí Ẩn Của Ana và Din",
+    "volume": "Tập 1",
     "author": "Robert Jackson Bennett",
-    "translator": "sheepa",
-    "year": "2026",
-    "category": "Văn học cổ điển",
+    "translator": "Sheepa Translator",
+    "year": "2024",
+    "category": "Trinh thám & Bí ẩn",
     "status": "ongoing",
     "statusText": "Đang dịch",
     "cover": "content/books/chiec-chen-hoen-o/cover.jpg",
-    "icon": "public/icons/01_sheep_reading.png",
-    "description": "Mở đầu cho loạt truyện điều tra kỳ ảo ly kỳ, 'Chiếc Chén Hoen Ố' theo chân cặp đôi điều tra viên dị biệt Ana và Din trong hành trình bóc tách một vụ án mạng tàn độc đầy uẩn khúc. Giữa một thế giới biến dị sinh học ngột ngạt và luôn bị rình rập bởi loài thủy quái Leviathan khổng lồ, tác phẩm đem lại cuộc săn lùng nghẹt thở với những âm mưu xảo quyệt và nút thắt mở đầy mê hoặc.",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "badge": "public/icons/badge_11_sheep_magnifier.png",
+    "accentColor": "#8b5cf6",
+    "description": "Mở đầu cho loạt truyện điều tra kỳ ảo ly kỳ, theo chân cặp đôi điều tra viên dị biệt Ana Dolabra và Dinios Kol trong vụ án một quan chức cấp cao của Đế quốc chết kỳ dị khi một cái cây mọc xuyên qua cơ thể ông ta.",
     "downloads": {
-      "txt": "content/downloads/chiec-chen-hoen-o.txt"
+      "epub": "content/downloads/chiec-chen-hoen-o.epub",
+      "pdf": ""
     },
     "chapters": [
       {
         "id": "chuong-1",
-        "title": "PHẦN I: XÁC CHẾT TRÊN CÂY 1",
+        "title": "Chương 1",
+        "part": "Phần I: Xác Chết Trên Cây",
         "path": "content/books/chiec-chen-hoen-o/chuong-1.md"
       },
       {
         "id": "chuong-2",
-        "title": "PHẦN II: SỤP ĐỔ 7",
+        "title": "Chương 2",
+        "part": "Phần I: Xác Chết Trên Cây",
         "path": "content/books/chiec-chen-hoen-o/chuong-2.md"
       },
       {
         "id": "chuong-3",
-        "title": "PHẦN III: BA CHIẾC CHÌA KHOÁ, MƯỜI XÁC CÔNG BINH 13",
+        "title": "Chương 3",
+        "part": "Phần I: Xác Chết Trên Cây",
         "path": "content/books/chiec-chen-hoen-o/chuong-3.md"
       },
       {
         "id": "chuong-4",
-        "title": "PHẦN IV: ĐỊA NGỤC CHỐN HÀO MÔN 25",
+        "title": "Chương 4",
+        "part": "Phần I: Xác Chết Trên Cây",
         "path": "content/books/chiec-chen-hoen-o/chuong-4.md"
       },
       {
         "id": "chuong-5",
-        "title": "PHẦN V: BÓNG HÌNH THỦY QUÁI 34",
+        "title": "Chương 5",
+        "part": "Phần I: Xác Chết Trên Cây",
         "path": "content/books/chiec-chen-hoen-o/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 6",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 7",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 8",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 9",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 10",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 11",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 12",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 13",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 14",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 15",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 16",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 17",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 18",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 19",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 20",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 21",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 22",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 23",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 24",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 25",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 26",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 27",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 28",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương 29",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 30",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 31",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 32",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 33",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương 34",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương 35",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương 36",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương 37",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương 38",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương 39",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương 40",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương 41",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương 42",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-42.md"
       }
     ]
+  },
+  {
+    "id": "hoang-tu-be",
+    "title": "Hoàng Tử Bé",
+    "originalTitle": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "translator": "Sheepa Translator",
+    "year": "1943",
+    "category": "Văn học cổ điển",
+    "status": "ongoing",
+    "statusText": "Đang dịch",
+    "cover": "content/books/hoang-tu-be/cover.jpg",
+    "icon": "public/icons/01_sheep_reading.png",
+    "badge": "public/icons/badge_01_sheep_reading.png",
+    "accentColor": "#6366f1",
+    "description": "Một tác phẩm kinh điển giàu chất thơ và triết lý sâu xa về tình bạn, tình yêu, sự cô đơn và cái nhìn trong trẻo của trẻ thơ đối với thế giới người lớn.",
+    "downloads": {
+      "epub": "",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương I: Bức tranh con trăn và chiếc mũ",
+        "path": "content/books/hoang-tu-be/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương II: Xin hãy vẽ cho tôi một con cừu",
+        "path": "content/books/hoang-tu-be/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương III: Hành tinh xa xôi của cậu bé",
+        "path": "content/books/hoang-tu-be/chuong-3.md"
+      }
+    ],
+    "series": "",
+    "volume": ""
+  },
+  {
+    "id": "nha-gia-kim",
+    "title": "Nhà Giả Kim",
+    "originalTitle": "The Alchemist",
+    "author": "Paulo Coelho",
+    "translator": "Sheepa Translator",
+    "year": "1988",
+    "category": "Tiểu thuyết triết lý",
+    "status": "ongoing",
+    "statusText": "Đang dịch",
+    "cover": "content/books/nha-gia-kim/cover.jpg",
+    "icon": "public/icons/02_sheep_scholar.png",
+    "badge": "public/icons/badge_02_sheep_scholar.png",
+    "accentColor": "#f59e0b",
+    "description": "Hành trình theo đuổi 'Vận Mệnh' của chàng chăn cừu Santiago qua sa mạc mênh mông, nhắc nhở chúng ta rằng kho báu đích thực luôn nằm ngay trong chính trái tim mình.",
+    "downloads": {
+      "epub": "",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương I: Cậu bé chăn cừu Santiago",
+        "path": "content/books/nha-gia-kim/chuong-1.md"
+      }
+    ],
+    "series": "",
+    "volume": ""
+  },
+  {
+    "id": "loi-song-toi-gian",
+    "title": "Lối Sống Tối Giản",
+    "originalTitle": "The Minimalist Mindset",
+    "author": "Fumio Sasaki",
+    "translator": "Sheepa Translator",
+    "year": "2015",
+    "category": "Triết lý sống",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/loi-song-toi-gian/cover.jpg",
+    "icon": "public/icons/10_bookshelf.png",
+    "badge": "public/icons/badge_10_bookshelf.png",
+    "accentColor": "#10b981",
+    "description": "Bớt đi đồ đạc để thêm vào tự do. Cuốn sách chia sẻ cách từ bỏ những áp lực vật chất để tìm thấy sự an tĩnh nội tâm và tự do đích thực.",
+    "downloads": {
+      "epub": "",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương I: Dọn Dẹp Để Tìm Lại Chính Mình",
+        "path": "content/books/loi-song-toi-gian/chuong-1.md"
+      }
+    ],
+    "series": "",
+    "volume": ""
   }
 ]

@@ -1,0 +1,441 @@
+/* ==========================================================================
+   SHEEPA PUBLISHER STUDIO - CSS DESIGN SYSTEM
+   ========================================================================== */
+
+:root {
+  --studio-bg: #f8f9fa;
+  --studio-card: #ffffff;
+  --studio-border: #e2e8f0;
+  --studio-text: #0f172a;
+  --studio-muted: #64748b;
+  --studio-primary: #0f172a;
+  --studio-primary-hover: #334155;
+  --studio-accent: #3b82f6;
+  --studio-success: #10b981;
+  --studio-warning: #f59e0b;
+  --studio-danger: #ef4444;
+  --studio-radius: 10px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+[data-theme="dark"] {
+  --studio-bg: #0f1117;
+  --studio-card: #181b24;
+  --studio-border: #262b3a;
+  --studio-text: #f1f5f9;
+  --studio-muted: #94a3b8;
+  --studio-primary: #f8fafc;
+  --studio-primary-hover: #e2e8f0;
+  --studio-accent: #60a5fa;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--studio-bg);
+  color: var(--studio-text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* Studio Header */
+.studio-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: var(--studio-card);
+  border-bottom: 1px solid var(--studio-border);
+  padding: 0.85rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.studio-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.studio-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+[data-theme="dark"] .studio-logo,
+[data-theme="dark"] .nav-icon-img {
+  filter: brightness(0) invert(0.92);
+}
+
+.studio-title h1 {
+  font-size: 1.15rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.studio-title p {
+  font-size: 0.75rem;
+  color: var(--studio-muted);
+}
+
+.studio-top-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* Layout */
+.studio-layout {
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 4rem;
+  gap: 2rem;
+}
+
+/* Sidebar Navigation */
+.studio-nav {
+  width: 250px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.nav-tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.8rem 1rem;
+  border-radius: var(--studio-radius);
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--studio-muted);
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.nav-tab-btn:hover {
+  background: var(--studio-card);
+  color: var(--studio-text);
+  border-color: var(--studio-border);
+}
+
+.nav-tab-btn.active {
+  background: var(--studio-card);
+  color: var(--studio-accent);
+  border-color: var(--studio-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.nav-icon-img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+/* Main Container */
+.studio-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}
+
+/* Common Card */
+.studio-card {
+  background: var(--studio-card);
+  border: 1px solid var(--studio-border);
+  border-radius: var(--studio-radius);
+  padding: 1.75rem;
+  margin-bottom: 1.75rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.card-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.card-title-row h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Form Controls */
+.form-group {
+  margin-bottom: 1.25rem;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--studio-text);
+}
+
+.hint-text {
+  font-size: 0.78rem;
+  color: var(--studio-muted);
+  margin-top: 0.25rem;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+select,
+textarea {
+  width: 100%;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  border: 1px solid var(--studio-border);
+  background: var(--studio-bg);
+  color: var(--studio-text);
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--studio-accent);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+textarea {
+  resize: vertical;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.65rem 1.25rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: var(--studio-primary);
+  color: var(--studio-card);
+}
+
+.btn-primary:hover {
+  background: var(--studio-primary-hover);
+}
+
+[data-theme="dark"] .btn-primary {
+  background: #f1f5f9;
+  color: #0f172a;
+}
+
+.btn-accent {
+  background: var(--studio-accent);
+  color: #ffffff;
+}
+
+.btn-accent:hover {
+  opacity: 0.9;
+}
+
+.btn-outline {
+  border-color: var(--studio-border);
+  background: var(--studio-card);
+  color: var(--studio-text);
+}
+
+.btn-outline:hover {
+  background: var(--studio-bg);
+  border-color: var(--studio-muted);
+}
+
+.btn-danger {
+  background: var(--studio-danger);
+  color: #ffffff;
+}
+
+.btn-sm {
+  padding: 0.4rem 0.75rem;
+  font-size: 0.8rem;
+}
+
+/* Key Management Table */
+.key-list-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.key-list-table th, .key-list-table td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--studio-border);
+  font-size: 0.88rem;
+  text-align: left;
+}
+
+.key-list-table th {
+  color: var(--studio-muted);
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge-model {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2rem 0.55rem;
+  border-radius: 6px;
+  background: rgba(59, 130, 246, 0.1);
+  color: var(--studio-accent);
+}
+
+.badge-active {
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--studio-success);
+}
+
+/* Drag & Drop Upload Zone */
+.dropzone {
+  border: 2px dashed var(--studio-border);
+  border-radius: var(--studio-radius);
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  background: var(--studio-bg);
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.dropzone:hover, .dropzone.dragover {
+  border-color: var(--studio-accent);
+  background: rgba(59, 130, 246, 0.04);
+}
+
+.dropzone input[type="file"] {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.dropzone-icon {
+  width: 52px;
+  height: 52px;
+  margin-bottom: 0.75rem;
+  opacity: 0.8;
+}
+
+/* Book Cover Preview */
+.cover-preview-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.cover-preview-img {
+  width: 90px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid var(--studio-border);
+  box-shadow: var(--shadow-sm);
+  background: var(--studio-bg);
+}
+
+/* Chapter Splitter List */
+.chapter-accordion {
+  border: 1px solid var(--studio-border);
+  border-radius: 8px;
+  margin-bottom: 0.65rem;
+  overflow: hidden;
+  background: var(--studio-card);
+}
+
+.chapter-accordion-header {
+  padding: 0.75rem 1rem;
+  background: var(--studio-bg);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.chapter-accordion-body {
+  padding: 1rem;
+  display: none;
+  border-top: 1px solid var(--studio-border);
+}
+
+.chapter-accordion.open .chapter-accordion-body {
+  display: block;
+}
+
+/* Output Console */
+.log-console {
+  background: #0f172a;
+  color: #38bdf8;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+  padding: 1rem;
+  border-radius: 8px;
+  max-height: 220px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  margin-top: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .studio-layout {
+    flex-direction: column;
+    padding: 1rem;
+  }
+  .studio-nav {
+    width: 100%;
+    flex-direction: row;
+    overflow-x: auto;
+  }
+}
