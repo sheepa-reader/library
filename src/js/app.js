@@ -207,9 +207,13 @@
           ${filteredBooks.length > 0 ? filteredBooks.map(book => `
             <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
               <div class="card-top">
-                <div class="card-icon-frame">
-                  <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
-                </div>
+                ${book.cover ? `
+                  <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}">
+                ` : `
+                  <div class="card-icon-frame">
+                    <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+                  </div>
+                `}
                 <div class="card-meta">
                   <div class="card-badge-row">
                     <span class="badge-tag">${escapeHtml(book.category)}</span>
@@ -298,8 +302,12 @@
         <!-- Header Card -->
         <div class="book-detail-header">
           <div class="detail-cover-box">
-            <img src="${book.icon || 'public/icons/01_sheep_reading.png'}" alt="${escapeHtml(book.title)}">
-            <span style="font-size: 0.75rem; font-weight: 700; color: var(--text-tertiary);">${book.year || ''}</span>
+            ${book.cover ? `
+              <img src="${book.cover}" class="detail-cover-real" alt="${escapeHtml(book.title)}">
+            ` : `
+              <img src="${book.icon || 'public/icons/01_sheep_reading.png'}" alt="${escapeHtml(book.title)}">
+              <span style="font-size: 0.75rem; font-weight: 700; color: var(--text-tertiary);">${book.year || ''}</span>
+            `}
           </div>
           <div class="detail-info">
             <div class="detail-badges">
