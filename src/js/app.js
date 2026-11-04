@@ -70,7 +70,19 @@
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
   function parseMarkdown(mdText) {
     if (!mdText) return '';
-    let html = mdText
+
+    // 1. Tự động sửa lỗi ngắt rơi số chương (e.g. "CHƯƠNG\n2" hoặc "## CHƯƠNG\n2" -> "CHƯƠNG 2")
+    let cleanText = mdText
+      .replace(/^(?:#*\s*)(CHƯƠNG|HỒI|CHAPTER)\s*[\r\n]+\s*(\d+)/gim, '## $1 $2')
+      .replace(/<h[1-6][^>]*>\s*(CHƯƠNG|HỒI|CHAPTER)\s*<br\s*\/?>\s*(?:<span[^>]*>)?\s*(\d+)\s*(?:<\/span>)?\s*<\/h[1-6]>/gi, '<h2>$1 $2</h2>');
+
+    // 2. Tự động loại bỏ tiêu đề chương bị lặp lại 2 lần liên tiếp (e.g. "# CHƯƠNG 2" rồi lại "## CHƯƠNG 2")
+    cleanText = cleanText.replace(/(#\s*(?:CHƯƠNG|HỒI|CHAPTER)\s+\d+[^\n]*\n+(?:\*[^\n]+\*\n+)?)\s*(?:##\s*(?:CHƯƠNG|HỒI|CHAPTER)\s+\d+\s*\n+)/gi, '$1\n');
+
+    // 3. Tự động xóa bỏ hoàn toàn dòng chữ thừa "Nội Dung Tác Phẩm"
+    cleanText = cleanText.replace(/^[\s\*_]*(?:Nội\s+Dung\s+Tác\s+Phẩm|N\?i\s+Dung\s+T[aá]c\s+Ph[aẩ]m)[\s\*_]*$/gim, '');
+
+    let html = cleanText
       // Headers
       .replace(/^### (.*$)/gim, '<h3>$1</h3>')
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
@@ -93,21 +105,37 @@
     return lines.map(line => {
       line = line.trim();
       if (!line) return '';
+      // Loại bỏ nếu là đoạn thừa "Nội Dung Tác Phẩm"
+      if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung\s+Tác\s+Phẩm|N\?i\s+Dung\s+T[aá]c\s+Ph[aẩ]m)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
+        return '';
+      }
       if (/^<(h1|h2|h3|blockquote|ul|ol|li|hr)/i.test(line)) {
         return line;
       }
       return `<p>${line.replace(/\n/g, '<br/>')}</p>`;
-    }).join('\n');
+    }).filter(Boolean).join('\n');
   }
 
-  // --- DATA LOADER ---
+  // --- DATA LOADER (VỚI CƠ CHẾ TỰ CHỮA LỖI CÚ PHÁP AUTO-RECOVERY) ---
   async function loadBooks() {
     try {
       const res = await fetch('data/books.json');
       if (!res.ok) throw new Error('Cannot load books');
-      booksData = await res.json();
+      const text = await res.text();
+      try {
+        booksData = JSON.parse(text);
+      } catch (parseErr) {
+        console.warn('Phát hiện lỗi cú pháp nhẹ trong books.json, đang tự động khắc phục...', parseErr);
+        // Tự động sửa lỗi phổ biến: thừa dấu ngoặc vuông ở cuối, thiếu dấu phẩy giữa các sách
+        const fixedText = text
+          .replace(/\]\s*\]\s*\}\s*\]\s*$/, ']\n  }\n]')
+          .replace(/\]\s*\]\s*$/g, ']')
+          .replace(/\}\s*\{/g, '},\n{');
+        booksData = JSON.parse(fixedText);
+        console.log('Tự động phục hồi thành công! Đã nạp', booksData.length, 'cuốn sách.');
+      }
     } catch (e) {
-      console.warn('Cannot load books.json:', e);
+      console.warn('Lỗi tải books.json:', e);
       booksData = [];
     }
   }
@@ -569,7 +597,7 @@
 
   // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters) ---
   function renderHierarchicalToc(book, currentChapId = null, isDrawer = false) {
-    const hasParts = book.chapters.some(c => c.part);
+    const hasParts = book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung'));
     if (!hasParts) {
       return book.chapters.map((chap, idx) => `
         <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : ''}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
@@ -585,14 +613,15 @@
     let currentPart = null;
     let html = '';
     book.chapters.forEach((chap, idx) => {
-      const part = chap.part || 'Các chương';
-      if (part !== currentPart) {
-        currentPart = part;
-        html += `<div class="toc-group-header">📂 ${escapeHtml(part)}</div>`;
+      const rawPart = chap.part || '';
+      const isFakePart = !rawPart || rawPart === 'Nội Dung Tác Phẩm' || rawPart.toLowerCase().includes('nội dung');
+      if (!isFakePart && rawPart !== currentPart) {
+        currentPart = rawPart;
+        html += `<div class="toc-group-header">📂 ${escapeHtml(rawPart)}</div>`;
       }
       const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
       html += `
-        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link ${!isFakePart ? 'toc-sub-item' : ''}" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
           <div>
             <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
             <span>${escapeHtml(chap.title)}</span>
