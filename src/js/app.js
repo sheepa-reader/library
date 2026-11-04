@@ -107,28 +107,8 @@
       if (!res.ok) throw new Error('Cannot load books');
       booksData = await res.json();
     } catch (e) {
-      console.warn('Fallback loading inline data:', e);
-      booksData = [
-        {
-          id: "hoang-tu-be",
-          title: "Hoàng Tử Bé",
-          originalTitle: "Le Petit Prince",
-          author: "Antoine de Saint-Exupéry",
-          translator: "Sheepa Translator",
-          year: "1943",
-          category: "Văn học cổ điển",
-          status: "ongoing",
-          statusText: "Đang dịch",
-          icon: "public/icons/01_sheep_reading.png",
-          description: "Một tác phẩm kinh điển giàu chất thơ và triết lý sâu xa về tình bạn, tình yêu và sự cô đơn.",
-          downloads: { txt: "content/downloads/hoang-tu-be.txt" },
-          chapters: [
-            { id: "chuong-1", title: "Chương I: Bức tranh con trăn và chiếc mũ", path: "content/books/hoang-tu-be/chuong-1.md" },
-            { id: "chuong-2", title: "Chương II: Xin hãy vẽ cho tôi một con cừu", path: "content/books/hoang-tu-be/chuong-2.md" },
-            { id: "chuong-3", title: "Chương III: Hành tinh xa xôi của cậu bé", path: "content/books/hoang-tu-be/chuong-3.md" }
-          ]
-        }
-      ];
+      console.warn('Cannot load books.json:', e);
+      booksData = [];
     }
   }
 
@@ -215,14 +195,16 @@
                   </div>
                 `}
                 <div class="card-meta">
-                  <div class="card-badge-row">
-                    <span class="badge-tag">${escapeHtml(book.category)}</span>
-                    ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
-                    <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
-                  </div>
                   <h3 class="card-title">${escapeHtml(book.title)}</h3>
                   <div class="card-author">${escapeHtml(book.author)}</div>
                 </div>
+              </div>
+
+              <!-- Badges Row Underneath (Full Width, Horizontal) -->
+              <div class="card-badges-row">
+                <span class="badge-tag">${escapeHtml(book.category)}</span>
+                ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
+                <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
               </div>
 
               <p class="card-desc">${escapeHtml(book.description)}</p>
