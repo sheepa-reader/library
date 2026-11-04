@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 17
-
-  
-
 Gặp mặt vị hôn phu của em gái mình vào đêm hôm trước mà không có bất kỳ sự chuẩn bị nào vốn đã là một tình huống vô cùng ngượng ngập, thế nhưng cảm giác đó vẫn chưa thấm tháp vào đâu so với việc áp giải chàng trai trẻ Ippeas Armenta đến Lực lượng Chấp pháp Tổng khu. Chúng tôi dẫn giải cậu ta qua biết bao lớp tường phong tỏa cùng những cánh cửa song sắt kiên cố, rồi cuối cùng ấn cậu ta ngồi xuống chiếc bàn nhỏ đơn sơ trong căn phòng tiếp nhận đơn điệu. Nơi đây là chốn phân loại những kẻ tội phạm thông thường, những tên móc túi và những kẻ say rượu lảo đảo trước khi tống bọn họ vào phòng giam.
 
   

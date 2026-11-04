@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-7
-
-  
-
 Đêm đó, Seriv chọn một quán trọ khác cho chúng tôi nghỉ lại, nơi mang tên Quán Người Chăn Bò Xanh mà ông ấy quả quyết là một trong những chốn hảo hạng nhất thị trấn.
 
   

@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 16
-
-  
-
 Dù trong những lần chạm mặt trước đây, Chỉ huy Tauri có vẻ là một kẻ khá hài hước và gàn dở, nhưng khi ông cùng đội của mình đặt chân đến trang viện Burav, họ hoàn toàn không còn vẻ ngoài ấy nữa. Họ trao đổi ngắn gọn, cộc lốc, rồi tản ra khắp khuôn viên trang viện với thái độ năng nổ đến mức gắt gỏng, hệt như những lính Quân đoàn đang gấp rút dựng một trận địa hỏa thương trước khi màn đêm buông xuống.
 
   

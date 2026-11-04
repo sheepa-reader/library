@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-4
-
-  
-
 Dù phần lớn thị trấn Lacanthim đã vắng bóng những gã chăn gia súc mang vẻ mặt hầm hố, nhưng tại khu nhà ngục thì hoàn toàn trái ngược. Một đám đông tụ tập ở đó, ai nấy đều lăm lăm vũ khí và đồng loạt hướng mắt về phía lối vào. Khi chật vật chen qua đám đông, tôi nhận ra lại thêm một thế giằng co khác giữa người nhà Burav và gia tộc Armenta đang diễn ra, song cục diện lần này chênh lệch hơn rất nhiều: chỉ duy nhất một người nhà Armenta đối đầu với cả toán người Burav đông đảo.
 
   

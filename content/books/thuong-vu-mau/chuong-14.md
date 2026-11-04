@@ -2,10 +2,6 @@
 
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
-## CHƯƠNG 13
-
-  
-
 Dù Velona Armenta từng ca ngợi những đồng cỏ và đồi nương của Lãnh hạt Sapirdad bằng giọng điệu đầy lãng mạn, nhưng khi thúc con ngựa già cỗi thuê tạm để bám theo người của Viện Orbiis, tôi nhận ra đây là vùng đất đơn điệu và tẻ nhạt nhất mình từng đi qua. Mặt đất phẳng lì, bụi bặm, phủ kín những ruộng đậu trải dài. Cảnh tượng ấy giống như một bức tranh phong cảnh được vẽ bởi họa sĩ đã cạn kiệt màu sắc, chỉ đang cố hoàn thành cho xong nghĩa vụ.
 
   

@@ -2,10 +2,6 @@
 
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
-## CHƯƠNG 12
-
-  
-
 Đôi mắt Velona khẽ liếc về phía Osumlik đang đứng khuất sau những dải rêu rủ. “Ta còn bao nhiêu thời gian?”
 
   

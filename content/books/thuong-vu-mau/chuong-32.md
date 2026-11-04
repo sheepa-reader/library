@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 31
-
-  
-
 Ana ngồi bệt trên sàn phòng ngủ, mảnh giấy da màu cam kẹp chặt giữa ngón trỏ và ngón cái, như thể nó đang mang theo một mật điệp viết bằng mực vô hình. Tôi đứng trước mặt bà, kể lại tường tận giấc mộng kỳ quái của mình, trong khi Tauri rảo bước qua lại phía sau lưng tôi, hai tay chắp sau lưng. Tối hôm đó, chúng tôi chẳng buồn che giấu hành tung. Dù hai người hoàn toàn có thể dựng lên một câu chuyện nào đó rồi xuất hiện vào những thời điểm khác nhau, nhưng việc phát hiện tôi đã trúng độc và bị cài cắm ám thị tâm trí rõ ràng hệ trọng hơn nhiều so với bất kỳ sự cẩn trọng nào.
 
   

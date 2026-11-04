@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 32
-
-  
-
 Màn đêm dần buông xuống Lacanthim.
 
   

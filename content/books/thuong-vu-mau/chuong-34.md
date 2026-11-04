@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 33
-
-  
-
 Tôi ngồi trong văn phòng của Lực lượng Chấp pháp Tổng khu, khom người và cố không rên rỉ vì những thớ cơ căng rách khắp tay chân. Tauri đã đi lấy cho tôi vài viên thuốc giảm đau, nhưng dù đã nuốt chúng, tôi vẫn chưa thấy thuốc phát huy tác dụng. Chỉ một nhịp thở nhẹ cũng đủ khiến tôi đau đớn rên rỉ. Thế nhưng, nỗi đau thể xác của tôi chẳng thấm tháp gì so với nỗi lòng của Ippeas và Fotia. Họ đang ngồi lặng đi bên bàn, bàng hoàng và khiếp đảm khi nghe Ana thuật lại những sự kiện diễn ra trong đêm.
 
   

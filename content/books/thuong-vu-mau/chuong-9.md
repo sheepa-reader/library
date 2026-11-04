@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-8
-
-  
-
 Seriv báo cho tôi biết Trikao Armenta đang ở một quán rượu tên là Sừng Cong, một địa điểm khác mà ông ấy nói người nhà Armenta thường lui tới. Tôi liền lên đường tới đó. Bất chấp muôn vàn nỗi lo âu trĩu nặng, tôi vẫn không thể kìm lòng trước vẻ quyến rũ của thị trấn Lacanthim: những ngôi nhà và cửa tiệm hình vòm dựng bằng khung Dây leo Fretvine nằm san sát, xếp lớp dọc theo các con hẻm lát đá cuội, với những dải khói mỏng uốn lượn bay lên từ mái nhà, nơi vô số gia đình đang chuẩn bị bữa cơm chiều. Những chiếc đèn sâu mai khổng lồ treo lơ lửng trên các cột đèn dọc khắp đường phố, tỏa ra vầng hào quang mỏng như lụa, lung linh sắc lam ngọc nhạt nhòa trong làn mưa êm đềm.
 
   

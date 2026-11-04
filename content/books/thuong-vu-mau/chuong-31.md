@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 30
-
-  
-
 Có một trạng thái ngủ say còn sâu thẳm hơn cả giấc nồng bình thường, vượt lên trên mọi giấc chợp mắt hằng đêm. Tôi thỉnh thoảng có được những khoảng nghỉ ngơi như thế trong những năm tháng phục vụ: một cơn mộng mị mê man, sâu thẳm, nơi ta nhận được điều gì đó lớn lao hơn cả sự thỏa mãn thể xác thuần túy, một trạng thái tiệm cận với sự biến đổi bản thể. Nếu có một trạng thái mơ màng mà loài bướm đêm được hưởng khi nằm trong kén chờ ngày chào đời, thì đó chính là giấc ngủ mà tôi đang nói đến, và cũng là sự nghỉ ngơi tôi được ban cho trong đêm ấy.
 
   

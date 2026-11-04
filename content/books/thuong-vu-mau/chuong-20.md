@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 19
-
-  
-
 Nhiều năm qua, tôi vẫn tự cho mình là kẻ có duyên với loài ngựa và ngỡ rằng khả năng cưỡi ngựa của bản thân khá cừ. Thế nhưng, ngay khoảnh khắc trèo lên lưng con chiến mã của Fotia, một sinh vật mảnh dẻ, thần kinh nhạy cảm, mình đầy đốm và đã thể hiện rõ mồn một rằng nó chẳng ưa gì tôi, rồi ôm chặt lấy eo em gái tôi khi chúng tôi phóng đi, tôi lập tức bừng tỉnh khỏi mọi ảo tưởng đó.
 
   

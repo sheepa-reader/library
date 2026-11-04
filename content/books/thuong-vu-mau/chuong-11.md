@@ -2,10 +2,6 @@
 
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
-## CHƯƠNG 10
-
-  
-
 “Em gái cậu là người của gia tộc Armenta sao?” Ana hỏi. Sự kinh ngạc lớn đến mức bà giật phăng chiếc băng bịt mắt, trố mắt nhìn tôi. Đôi mắt màu vàng nhạt của bà chớp liên hồi trong ánh sáng lờ mờ nơi phòng ngủ.
 
   

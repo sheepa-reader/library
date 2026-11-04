@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-3
-
-  
-
 Cuộc bộ hành hướng về khu giam giữ của nhà ngục Lacanthim trôi qua trong bầu không khí ảm đạm, u uất. Dĩ nhiên, một phần của sự u ám ấy đến từ những bóng người chập chờn xung quanh tôi: dù đại bộ phận quân đội quý tộc đã rút khỏi thị trấn, lực lượng tàn dư vẫn còn rất đông đảo. Bọn chúng trừng mắt hằn học nhìn bất kỳ ai bước lại gần, và tôi cũng không phải ngoại lệ.
 
   

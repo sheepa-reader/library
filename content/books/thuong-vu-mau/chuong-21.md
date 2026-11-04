@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 20
-
-  
-
 Tôi cùng Chỉ huy Tauri bước vào Quán Người Chăn Bò Xanh rồi lê bước lên cầu thang, hướng về phòng của Ana. Chúng tôi di chuyển trong sự im lặng chán chường. Dù việc phát hiện ra “mạch đất” trong rừng ban đầu mang lại sự kinh ngạc, nhưng sau đó chúng tôi chẳng tìm thêm được gì khác. Mạch đất ấy kết thúc cách trang viên Burav khoảng hai dặm đường mà không để lại bất kỳ dấu vết tiếp nối nào. Khẽ thở dài, tôi gõ ba tiếng lên cửa phòng Ana, chờ tiếng hát cho phép bước vào của bà rồi đẩy cửa ra.
 
   

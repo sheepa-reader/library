@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 29
-
-  
-
 Trong suốt chuyến hành trình dài ngày của chúng tôi băng qua khu rừng biến dạng, Ana đã trở về phòng nghỉ tại Quán Người Chăn Bò Xanh, mang theo phần lớn thư tịch từ thư viện của gia tộc Burav. Hàng tá bản thảo da dê cổ xưa, quý giá được treo khắp các bức tường xung quanh bà, tạo nên một bức thảm màu nâu xỉn sột soạt, thi thoảng lại lóe lên sắc cam rực rỡ từ những nét vẽ minh họa. Khi tôi bước qua cánh cửa, người vẫn còn ẩm ướt và nồng nặc mùi dung dịch tẩy độc từ đợt tẩy rửa bắt buộc của Viện Orbiis, bởi Tauri đã dặn tôi: “Phải thật triệt để, Kol”, bà hầu như không thèm ngẩng đầu lên khỏi thứ đang thu hút toàn bộ sự chú ý của mình: một cuốn thư tịch cổ mốc meo, đang phân rã có tựa đề *Lịch sử Bi thương của Rừng Daljen*.
 
   

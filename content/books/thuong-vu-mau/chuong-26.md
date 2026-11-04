@@ -2,10 +2,6 @@
 
 *PHẦN IV: TRÁI TIM MỤC NÁT*
 
-## CHƯƠNG 25
-
-  
-
 Chúng tôi nhanh chóng cho gọi các y sĩ tới. Vừa đến nơi, họ đã khẳng định người phụ nữ nọ “say xỉn ở mức nguy hiểm”. Một người thậm chí còn thốt lên: “Bà ấy còn say khướt hơn cả gã phu đánh xe tệ nhất mà tôi từng cứu chữa, tính cả cái gã suýt chết đuối trong máng nước!”
 
   

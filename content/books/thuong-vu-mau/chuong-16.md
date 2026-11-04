@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 15
-
-  
-
 Phải mất gần như cả đêm để khống chế đám cháy tại trang viên Burav. Tôi dốc hết sức mình cùng mọi người chuyền tay nhau từng xô nước lẫn bùn cặn múc từ con suối gần dinh thự chính. Khói bám dày trên vai, quấn chặt lấy cổ và làm chúng tôi ngột ngạt, nhưng xung quanh chỉ có những lời động viên khẽ khàng, tuyệt nhiên không một tiếng oán thán. Tay và lưng tôi đau nhức, mặt mũi đen nhẻm muội than, nhưng tất cả vẫn cật lực làm việc vì ngôi nhà vẫn còn âm ỉ cháy. Cuối cùng, công việc dập lửa cũng chuyển từ dập tắt sang khoanh vùng cô lập: tòa nhà coi như đã bị thiêu rụi hoàn toàn cùng mọi thứ bên trong, và giờ đây chúng tôi phải ngăn ngọn lửa lan rộng.
 
   

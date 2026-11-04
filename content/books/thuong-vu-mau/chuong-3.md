@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-2
-
-  
-
 Tôi từng hy vọng lực lượng của gia tộc Armenta sẽ dạt ra khi chúng tôi tiến lại gần. Nhưng không, chúng dàn thành hàng ngang, dán mắt vào chúng tôi bằng vẻ thờ ơ đầy hung hãn. Người đánh xe của chúng tôi lo lắng giật mạnh dây cương khi không thể tiến thêm được nữa, buộc cỗ xe phải dừng hẳn lại.
 
   

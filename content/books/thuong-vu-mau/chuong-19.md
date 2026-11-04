@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 18
-
-  
-
 Chiếc giường gấp trong buồng giam của Seriv thuộc loại tốt hơn cả, ông ấy đã cam đoan với tôi như thế. “Chúng tôi có những buồng giam riêng dành cho bọn say xỉn,” ông ấy tâm sự, “bởi chúng chẳng bao giờ nhận ra mình đã tè dầm ra giường hay kẻ nằm trước đã làm thế, và tôi sẽ không tống ngài vào đó đâu, thưa ngài.” Khi nằm sải dài trên đó, tôi tự nhủ mình từng ngủ ở những nơi còn tồi tệ hơn nhiều.
 
   

@@ -2,10 +2,6 @@
 
 *PHẦN IV: TRÁI TIM MỤC NÁT*
 
-## CHƯƠNG 24
-
-  
-
 Dù suốt cả ngày hôm đó tôi đã vã mồ hôi như tắm trong bộ đồ phòng hộ nặng nề, nhưng khi đứng báo cáo trước Ana, mồ hôi hột lại càng túa ra nhiều hơn. Việc quy kết toàn bộ một vụ trọng án giết người vào một vết thương li ti duy nhất trên tử thi đã chôn vùi nhiều năm vốn dĩ đã vô cùng khó khăn, nhưng tôi thừa hiểu phản ứng của bà sẽ ra sao khi biết tin nghi phạm mới nhất vừa biến mất ngay khoảnh khắc bằng chứng buộc tội gã được tìm thấy. Chắc chắn sắc mặt bà sẽ chẳng dễ chịu chút nào.
 
   

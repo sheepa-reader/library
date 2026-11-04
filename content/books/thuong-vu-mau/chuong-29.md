@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 28
-
-  
-
 Trên chiếc xe kéo của Viện Orbiis, chúng tôi lọc cọc di chuyển về hướng bắc dọc theo những con đường mòn thôn quê. Rồi cánh rừng sắc tím lung linh hiện ra nơi đường chân trời, tựa như một đại dương thạch anh tím đang kỳ triều cường, tràn qua và cuộn đổ xuống những rặng đá. Tôi đăm đăm nhìn về phía ngọn cây. Thấp thoáng đó đây, tôi có thể nhận ra bóng dáng của những công trình kiến trúc, những đền miếu và những pho tượng cổ. Những lời cảnh báo đầy thận trọng của Ana vẫn lẩn khuất trong tâm trí, khiến tôi phải cố kìm nén một cơn rùng mình chực trào.
 
   

@@ -2,10 +2,6 @@
 
 *VĨ THANH: CHÉN THIÊN ĐƯỜNG*
 
-## CHƯƠNG 35
-
-  
-
 Tôi phải mất một khoảng thời gian rất lâu mới đi bộ hết quãng đường dằng dặc để đến được đền thờ của Đại sư Gaddar. Toàn thân tôi đau nhức rã rời sau một ngày dài di chuyển liên miên, và cũng bởi sức nặng khủng khiếp từ những gì tôi vừa chứng kiến, cùng với sự khiển trách nặng nề từ Tauri.
 
   

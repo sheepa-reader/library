@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-5
-
-  
-
 Nằm ngoài dự liệu của tôi, khu rừng cổ đại chỉ cách Lacanthim vỏn vẹn một giờ phi ngựa. “Tàn tích của cánh rừng vẫn bám chặt lấy những dòng nước nơi đây,” Seriv giải thích khi tôi đề cập đến điều này. “Người ta đã đốt một phần lớn diện tích để lấy đất canh tác. Nhưng dọc theo các con suối và sông ngòi, cánh rừng kiên quyết không chịu lụi tàn. Phần bờ cõi rộng lớn hơn của nó nằm về phía bắc.” Đoạn, ông ấy dừng lại một nhịp. “Tôi đồ rằng ngài chưa từng tận mắt chứng kiến bất kỳ dải rừng nào thuộc hệ thống này, thưa Hiệu úy?”
 
   

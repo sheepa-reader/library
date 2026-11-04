@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-6
-
-  
-
 Khi tôi trở lại Quán trọ Mắt Mèo, cảnh tượng chẳng mấy thay đổi: Zansay vẫn nằm trên sàn nhà, chìm trong vũng máu loang, còn Ana vẫn thu mình trong tủ quần áo như một sinh vật bước ra từ những câu chuyện ma quái. Cảm giác có phần không phải khi cứ để mặc Zansay nằm đấy như vậy, cứ như thể cô ta là một món đồ bài trí trong căn phòng, nhưng tôi đã quá quen với câu trả lời của Ana mỗi khi bày tỏ những mối bận tâm tương tự trước đây:
 
   

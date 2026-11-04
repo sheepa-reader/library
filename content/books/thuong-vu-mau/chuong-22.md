@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 21
-
-  
-
 Tôi bước xuống cầu thang và thấy Fotia đang vỗ về ông Trikao Armenta kiệt quệ ngay sảnh vào của Quán Người Chăn Bò Xanh. Dù trước đó Trikao trông đã mệt mỏi, nhưng giờ đây ông như vừa già đi nửa thế kỷ so với lần cuối tôi gặp, khi ông còn sục sôi phẫn nộ và uy nghiêm trước cánh cổng Aimafall. Đôi mắt ông trũng sâu, làn da nhợt nhạt mỏng dính như tờ giấy, còn thân hình thì lảo đảo ngay tại chỗ đứng.
 
   

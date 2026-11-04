@@ -2,11 +2,6 @@
 
 *PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
 
-## CHƯƠNG 
-1
-
-  
-
 “Đó là một chân lý không thể chối cãi, cậu biết đấy,” Ana nói, “rằng phần lớn thiên hạ đều bị mê hoặc bởi những cô gái đã chết.”
 
   

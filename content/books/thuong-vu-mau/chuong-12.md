@@ -2,10 +2,6 @@
 
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
-## CHƯƠNG 11
-
-  
-
 Chuyến xe ngựa hướng về phía đông, đi về phía những vùng đất của gia tộc Armenta, chỉ dễ chịu hơn đôi chút so với cuộc hành trình đến Lacanthim ngày hôm trước. Dù tôi đã được nghỉ ngơi dưỡng sức đầy đủ, nhưng cả bữa tối lẫn bữa sáng tại Quán Người Chăn Bò Xanh đều ngập tràn thịt bò và mỡ động vật béo ngậy. Dẫu hương vị của chúng rất tuyệt hảo, tôi vẫn chưa thể thích nghi nổi với sự nặng nề của những món ăn ấy. Tại các Bộ, chúng tôi chủ yếu dùng bữa với gạo và đậu lăng, bởi chúng vừa giàu dinh dưỡng, giá thành rẻ, dễ vận chuyển, lại vừa được cải tạo sinh học để phù hợp với khẩu vị con người. Lượng thịt động vật lớn đến nhường này là một trải nghiệm hoàn toàn mới mẻ đối với hệ tiêu hóa của tôi, để lại những dư chấn âm ỉ. Cứ mỗi lần cỗ xe xóc nảy, một luồng khí ứ nghẹn đầy dầu mỡ lại từ trong ruột gan tôi ợ ngược lên, ngay lập tức kéo theo một lời quở trách từ Ana: “Giữ cái thứ khí uế tạp của cậu ở yên trong cái thân xác chết tiệt của mình đi, nhóc!”
 
   

@@ -2,10 +2,6 @@
 
 *Nội Dung Tác Phẩm*
 
-## Lời Cảm Ơn
-
-  
-
 Khi nhen nhóm ý tưởng cho bộ truyện này, điều tôi hằng ấp ủ là đặt hai điều tra viên Ana và Din vào những vị thế cho phép họ phanh phui từng ngóc ngách cơ quan nội tạng của Đế quốc. Rốt cuộc thì những con người dị biệt ấy đã tạo dựng nên các kỳ tích sinh học bằng cách nào? Họ trang bị vũ khí, định hình luật pháp, thao túng tâm trí, và có lẽ quan trọng hơn cả: họ làm sao để tự nuôi sống chính mình?
 
   

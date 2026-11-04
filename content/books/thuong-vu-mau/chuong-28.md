@@ -2,10 +2,6 @@
 
 *PHẦN V: VỊ CỦA LƯỠI DAO*
 
-## CHƯƠNG 27
-
-  
-
 Tôi thức dậy từ rất lâu trước khi hừng đông ló rạng, rửa mặt qua loa rồi rảo bước tới văn phòng Viện Orbiis. Tại đó, tôi bắt gặp Tauri cùng các đồng sự đang hối hả xếp đồ lên xe kéo. Trong ánh sáng xám mờ của buổi sớm mai, trông họ chẳng khác nào những tín đồ hành hương đang chuẩn bị cho một sứ mệnh kiên định. Thế nhưng, có một món trang bị khiến tôi nhận ra ngay lập tức và không khỏi dấy lên nỗi lo ngại sâu sắc: một bộ hỏa thương bánh xe được xếp gọn bên hông xe kéo.
 
   

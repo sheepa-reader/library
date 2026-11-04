@@ -2,10 +2,6 @@
 
 *PHẦN IV: TRÁI TIM MỤC NÁT*
 
-## CHƯƠNG 26
-
-  
-
 Chuyến xe ngựa quay trở lại Lacanthim ngập tràn không khí căng thẳng. Tôi đã cắt cử bốn viên sĩ quan chấp pháp canh gác bên ngoài căn hầm cùng mệnh lệnh nghiêm ngặt, tuyệt đối không cho phép bất kỳ ai tiếp cận, sau vụ đào tẩu của Jalin, tôi quyết không để xảy ra thêm một sơ suất nào nữa, thế nhưng Tauri vẫn khăng khăng đòi chúng tôi phải quay về sớm.
 
   

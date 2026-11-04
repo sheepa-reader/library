@@ -2,10 +2,6 @@
 
 *Phần III: BÌNH TĨNH, BÌNH TĨNH*
 
-## CHƯƠNG 22
-
-  
-
 Lối vào khu phòng giam Lacanthim quả là một nơi không thể tồi tệ hơn để thực hiện buổi báo cáo tình hình. Không chỉ bởi tôi vừa phải trút bỏ bộ đồng phục đẫm máu để khoác lên mình bộ quần áo tù nhân tiêu chuẩn, dù tôi đã cẩn thận ghim lại những phù hiệu của Bộ Tư pháp lên trước ngực. Ngoài hành lang ngục giam, Tauri cùng đội của ông ấy đang ra sức làm việc, vừa thu dọn phần thi thể còn lại của Castus, vừa phun hóa chất khử trùng để tiêu diệt bất kỳ bào tử nào phát tán từ những thân nấm. Bên phải tôi, Trikao Armenta, Ippeas Armenta và Fotia ngồi run rẩy, gương mặt nhợt nhạt như sáp nến dưới thứ ánh sáng tù mù tỏa ra từ chiếc đèn sâu mai. Tôi đã cố gắng cẩn trọng hết mức để bản báo cáo của mình không gieo rắc thêm nỗi khiếp sợ không đáng có cho họ.
 
   

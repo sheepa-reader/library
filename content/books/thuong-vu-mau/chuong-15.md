@@ -2,10 +2,6 @@
 
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
-## CHƯƠNG 14
-
-  
-
 Văn phòng của Viện Orbiis tại Lacanthim không chỉ dừng lại ở mức “sơ sài”, mà trên thực tế chỉ là một dãy chuồng ngựa nhếch nhác, phía sau khuất lấp một gian y sĩ và giải phẫu nhỏ hẹp. Theo đúng quy chuẩn bắt buộc đối với các cơ sở y tế của Đế quốc, một phòng trong gian giải phẫu được thiết kế theo dạng “phong tỏa cách ly”, nằm sau những bức vách kính dày cộp và cong vênh. Nhìn vẻ ngoài sạch sẽ đến tẻ nhạt của căn phòng, tôi lập tức nhận ra nơi này đã không được sử dụng suốt nhiều tuần qua.
 
   
