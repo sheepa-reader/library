@@ -54,7 +54,24 @@
   margin: 0;
   padding: 0;
 }
+/* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode */
+[data-theme="dark"] .brand-logo,
+[data-theme="dark"] .hero-badge-img,
+[data-theme="dark"] .search-icon-img,
+[data-theme="dark"] .card-icon-frame img,
+[data-theme="dark"] .detail-cover-box img,
+[data-theme="dark"] .chapter-count img,
+[data-theme="dark"] .section-heading img,
+[data-theme="dark"] .site-footer img {
+  filter: brightness(0) invert(0.92);
+  transition: filter var(--transition-normal);
+}
 
+[data-theme="dark"] .card-icon-frame,
+[data-theme="dark"] .detail-cover-box {
+  background: #252730;
+  border-color: #383b48;
+}
 html {
   scroll-behavior: smooth;
   font-size: 16px;
