@@ -1,95 +1,45 @@
 [
   {
-    "id": "hoang-tu-be",
-    "title": "Hoàng Tử Bé",
-    "originalTitle": "Le Petit Prince",
-    "author": "Antoine de Saint-Exupéry",
-    "translator": "Sheepa Translator",
-    "year": "1943",
+    "id": "chiec-chen-hoen-o",
+    "title": "Chiếc Chén Hoen Ố",
+    "originalTitle": "The Tainted Cup",
+    "author": "Robert Jackson Bennett",
+    "translator": "sheepa",
+    "year": "2026",
     "category": "Văn học cổ điển",
     "status": "ongoing",
     "statusText": "Đang dịch",
-    "cover": "content/books/hoang-tu-be/cover.jpg",
+    "cover": "content/books/chiec-chen-hoen-o/cover.jpg",
     "icon": "public/icons/01_sheep_reading.png",
-    "badge": "public/icons/badge_01_sheep_reading.png",
-    "accentColor": "#6366f1",
-    "description": "Một tác phẩm kinh điển giàu chất thơ và triết lý sâu xa về tình bạn, tình yêu, sự cô đơn và cái nhìn trong trẻo của trẻ thơ đối với thế giới người lớn.",
+    "description": "Mở đầu cho loạt truyện điều tra kỳ ảo ly kỳ, 'Chiếc Chén Hoen Ố' theo chân cặp đôi điều tra viên dị biệt Ana và Din trong hành trình bóc tách một vụ án mạng tàn độc đầy uẩn khúc. Giữa một thế giới biến dị sinh học ngột ngạt và luôn bị rình rập bởi loài thủy quái Leviathan khổng lồ, tác phẩm đem lại cuộc săn lùng nghẹt thở với những âm mưu xảo quyệt và nút thắt mở đầy mê hoặc.",
     "downloads": {
-      "txt": "content/downloads/hoang-tu-be.txt",
-      "epub": "",
-      "pdf": ""
+      "txt": "content/downloads/chiec-chen-hoen-o.txt"
     },
     "chapters": [
       {
         "id": "chuong-1",
-        "title": "Chương I: Bức tranh con trăn và chiếc mũ",
-        "path": "content/books/hoang-tu-be/chuong-1.md"
+        "title": "PHẦN I: XÁC CHẾT TRÊN CÂY 1",
+        "path": "content/books/chiec-chen-hoen-o/chuong-1.md"
       },
       {
         "id": "chuong-2",
-        "title": "Chương II: Xin hãy vẽ cho tôi một con cừu",
-        "path": "content/books/hoang-tu-be/chuong-2.md"
+        "title": "PHẦN II: SỤP ĐỔ 7",
+        "path": "content/books/chiec-chen-hoen-o/chuong-2.md"
       },
       {
         "id": "chuong-3",
-        "title": "Chương III: Hành tinh xa xôi của cậu bé",
-        "path": "content/books/hoang-tu-be/chuong-3.md"
-      }
-    ]
-  },
-  {
-    "id": "nha-gia-kim",
-    "title": "Nhà Giả Kim",
-    "originalTitle": "The Alchemist",
-    "author": "Paulo Coelho",
-    "translator": "Sheepa Translator",
-    "year": "1988",
-    "category": "Tiểu thuyết triết lý",
-    "status": "ongoing",
-    "statusText": "Đang dịch",
-    "cover": "content/books/nha-gia-kim/cover.jpg",
-    "icon": "public/icons/02_sheep_scholar.png",
-    "badge": "public/icons/badge_02_sheep_scholar.png",
-    "accentColor": "#f59e0b",
-    "description": "Hành trình theo đuổi 'Vận Mệnh' của chàng chăn cừu Santiago qua sa mạc mênh mông, nhắc nhở chúng ta rằng kho báu đích thực luôn nằm ngay trong chính trái tim mình.",
-    "downloads": {
-      "txt": "content/downloads/hoang-tu-be.txt",
-      "epub": "",
-      "pdf": ""
-    },
-    "chapters": [
+        "title": "PHẦN III: BA CHIẾC CHÌA KHOÁ, MƯỜI XÁC CÔNG BINH 13",
+        "path": "content/books/chiec-chen-hoen-o/chuong-3.md"
+      },
       {
-        "id": "chuong-1",
-        "title": "Chương I: Cậu bé chăn cừu Santiago",
-        "path": "content/books/nha-gia-kim/chuong-1.md"
-      }
-    ]
-  },
-  {
-    "id": "loi-song-toi-gian",
-    "title": "Lối Sống Tối Giản",
-    "originalTitle": "The Minimalist Mindset",
-    "author": "Fumio Sasaki",
-    "translator": "Sheepa Translator",
-    "year": "2015",
-    "category": "Triết lý sống",
-    "status": "completed",
-    "statusText": "Hoàn thành",
-    "cover": "content/books/loi-song-toi-gian/cover.jpg",
-    "icon": "public/icons/10_bookshelf.png",
-    "badge": "public/icons/badge_10_bookshelf.png",
-    "accentColor": "#10b981",
-    "description": "Bớt đi đồ đạc để thêm vào tự do. Cuốn sách chia sẻ cách từ bỏ những áp lực vật chất để tìm thấy sự an tĩnh nội tâm và tự do đích thực.",
-    "downloads": {
-      "txt": "content/downloads/hoang-tu-be.txt",
-      "epub": "",
-      "pdf": ""
-    },
-    "chapters": [
+        "id": "chuong-4",
+        "title": "PHẦN IV: ĐỊA NGỤC CHỐN HÀO MÔN 25",
+        "path": "content/books/chiec-chen-hoen-o/chuong-4.md"
+      },
       {
-        "id": "chuong-1",
-        "title": "Chương I: Dọn Dẹp Để Tìm Lại Chính Mình",
-        "path": "content/books/loi-song-toi-gian/chuong-1.md"
+        "id": "chuong-5",
+        "title": "PHẦN V: BÓNG HÌNH THỦY QUÁI 34",
+        "path": "content/books/chiec-chen-hoen-o/chuong-5.md"
       }
     ]
   }
