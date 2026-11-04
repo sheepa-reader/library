@@ -70,17 +70,54 @@
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
   function parseMarkdown(mdText) {
     if (!mdText) return '';
+    let text = mdText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 
-    // 1. Tự động sửa lỗi ngắt rơi số chương (e.g. "CHƯƠNG\n2" hoặc "## CHƯƠNG\n2" -> "CHƯƠNG 2")
-    let cleanText = mdText
-      .replace(/^(?:#*\s*)(CHƯƠNG|HỒI|CHAPTER)\s*[\r\n]+\s*(\d+)/gim, '## $1 $2')
-      .replace(/<h[1-6][^>]*>\s*(CHƯƠNG|HỒI|CHAPTER)\s*<br\s*\/?>\s*(?:<span[^>]*>)?\s*(\d+)\s*(?:<\/span>)?\s*<\/h[1-6]>/gi, '<h2>$1 $2</h2>');
+    // 1. Tự động khắc phục lỗi ngắt rơi số chương (ví dụ 'CHƯƠNG\n2' -> 'CHƯƠNG 2')
+    text = text.replace(/((?:^|\n)[#\*_]*[ \t]*(?:CHƯƠNG|HỒI|CHAPTER|Phần)[ \t]*)[ \t]*\n+[ \t]*(\d+)/gi, '$1 $2')
+               .replace(/<h[1-6][^>]*>\s*(CHƯƠNG|HỒI|CHAPTER)\s*<br\s*\/?>\s*(?:<span[^>]*>)?\s*(\d+)\s*(?:<\/span>)?\s*<\/h[1-6]>/gi, '<h2>$1 $2</h2>');
 
-    // 2. Tự động loại bỏ tiêu đề chương bị lặp lại 2 lần liên tiếp (e.g. "# CHƯƠNG 2" rồi lại "## CHƯƠNG 2")
-    cleanText = cleanText.replace(/(#\s*(?:CHƯƠNG|HỒI|CHAPTER)\s+\d+[^\n]*\n+(?:\*[^\n]+\*\n+)?)\s*(?:##\s*(?:CHƯƠNG|HỒI|CHAPTER)\s+\d+\s*\n+)/gi, '$1\n');
+    // 2. Tự động xóa hoàn toàn dòng chữ thừa 'Nội Dung Tác Phẩm' hoặc 'Nội Dung'
+    text = text.replace(/^[ \t]*[\*_]*[ \t]*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)[ \t]*[\*_]*[ \t]*$/gim, '');
 
-    // 3. Tự động xóa bỏ hoàn toàn dòng chữ thừa "Nội Dung Tác Phẩm"
-    cleanText = cleanText.replace(/^[\s\*_]*(?:Nội\s+Dung\s+Tác\s+Phẩm|N\?i\s+Dung\s+T[aá]c\s+Ph[aẩ]m)[\s\*_]*$/gim, '');
+    // 3. Tách các dòng để loại bỏ tiêu đề chương bị lặp lại hoặc số chương mồ côi ở đầu nội dung
+    const rawLines = text.split('\n');
+    let firstHeadingTitle = '';
+    const cleanedLines = [];
+    let foundFirstHeading = false;
+
+    for (let i = 0; i < rawLines.length; i++) {
+      const rawLine = rawLines[i];
+      const trimmed = rawLine.trim();
+
+      if (!trimmed && cleanedLines.length === 0) continue;
+
+      if (/^[\*_]*[ \t]*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)[ \t]*[\*_]*$/i.test(trimmed)) {
+        continue;
+      }
+
+      if (!foundFirstHeading && trimmed.startsWith('# ')) {
+        firstHeadingTitle = trimmed.replace(/^#+\s*/, '').trim().toLowerCase();
+        cleanedLines.push(rawLine);
+        foundFirstHeading = true;
+        continue;
+      }
+
+      if (foundFirstHeading && cleanedLines.length < 6) {
+        const lineWithoutMd = trimmed.replace(/^[#\*_\s]+|[#\*_\s]+$/g, '').trim().toLowerCase();
+        // Bỏ qua nếu là tiêu đề bị lặp lại (e.g. '## CHƯƠNG 2' ngay dưới '# CHƯƠNG 2')
+        if (lineWithoutMd && (lineWithoutMd === firstHeadingTitle || (firstHeadingTitle.startsWith('chương ') && lineWithoutMd === firstHeadingTitle))) {
+          continue;
+        }
+        // Bỏ qua nếu là số thứ tự mồ côi (e.g. '2' đứng một mình ngay sau header)
+        if (/^\d{1,3}$/.test(lineWithoutMd) && /chương\s*\d+/i.test(firstHeadingTitle)) {
+          continue;
+        }
+      }
+
+      cleanedLines.push(rawLine);
+    }
+
+    let cleanText = cleanedLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 
     let html = cleanText
       // Headers
@@ -101,12 +138,11 @@
       .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr/>');
 
     // Paragraph wrapping for loose lines
-    const lines = html.split(/\n\s*\n/);
-    return lines.map(line => {
+    const pLines = html.split(/\n\s*\n/);
+    return pLines.map(line => {
       line = line.trim();
       if (!line) return '';
-      // Loại bỏ nếu là đoạn thừa "Nội Dung Tác Phẩm"
-      if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung\s+Tác\s+Phẩm|N\?i\s+Dung\s+T[aá]c\s+Ph[aẩ]m)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
+      if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
         return '';
       }
       if (/^<(h1|h2|h3|blockquote|ul|ol|li|hr)/i.test(line)) {
@@ -148,6 +184,10 @@
     window.scrollTo(0, 0);
 
     if (hash === '#/' || hash === '' || hash.startsWith('#/?')) {
+      if (hash.includes('?tag=')) {
+        const tagParam = decodeURIComponent(hash.split('?tag=')[1] || '').split('&')[0];
+        if (tagParam) activeFilter = tagParam;
+      }
       renderLibraryView();
     } else if (hash.startsWith('#/book/')) {
       const bookId = hash.replace('#/book/', '').split('?')[0];
@@ -167,18 +207,24 @@
     // Show main header
     document.querySelector('.site-header').style.display = 'block';
 
-    const categories = ['all', 'Văn học cổ điển', 'Tiểu thuyết triết lý', 'Triết lý sống'];
+    // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách
+    const allTags = Array.from(new Set(
+      booksData.flatMap(b => Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []))
+    )).filter(Boolean);
     
     // Filter books
     const filteredBooks = booksData.filter(b => {
+      const bTags = Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
       const matchFilter = activeFilter === 'all' || 
-        b.category === activeFilter || 
+        bTags.includes(activeFilter) || 
+        (b.category && b.category.toLowerCase().includes(activeFilter.toLowerCase())) ||
         (activeFilter === 'completed' && b.status === 'completed') ||
         (activeFilter === 'ongoing' && b.status === 'ongoing');
 
       const matchSearch = !searchQuery || 
         b.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
         b.author.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        bTags.some(t => t.toLowerCase().includes(searchQuery.toLowerCase())) ||
         b.originalTitle.toLowerCase().includes(searchQuery.toLowerCase());
 
       return matchFilter && matchSearch;
@@ -197,14 +243,14 @@
         <div class="search-filter-section">
           <div class="search-box-wrapper">
             <img src="public/icons/glyph_11_sheep_magnifier.png" class="search-icon-img" alt="search" onerror="this.style.display='none'">
-            <input type="text" id="library-search" class="search-input" placeholder="Tìm theo tên sách, tác giả, tựa gốc..." value="${escapeHtml(searchQuery)}">
+            <input type="text" id="library-search" class="search-input" placeholder="Tìm theo tên sách, tác giả, thể loại, tựa gốc..." value="${escapeHtml(searchQuery)}">
           </div>
 
           <div class="filter-tags">
             <button class="filter-btn ${activeFilter === 'all' ? 'active' : ''}" data-filter="all">Tất cả sách</button>
-            <button class="filter-btn ${activeFilter === 'Văn học cổ điển' ? 'active' : ''}" data-filter="Văn học cổ điển">Văn học cổ điển</button>
-            <button class="filter-btn ${activeFilter === 'Tiểu thuyết triết lý' ? 'active' : ''}" data-filter="Tiểu thuyết triết lý">Tiểu thuyết triết lý</button>
-            <button class="filter-btn ${activeFilter === 'Triết lý sống' ? 'active' : ''}" data-filter="Triết lý sống">Triết lý sống</button>
+            ${allTags.map(tag => `
+              <button class="filter-btn ${activeFilter === tag ? 'active' : ''}" data-filter="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
+            `).join('')}
             <button class="filter-btn ${activeFilter === 'ongoing' ? 'active' : ''}" data-filter="ongoing">Đang dịch</button>
             <button class="filter-btn ${activeFilter === 'completed' ? 'active' : ''}" data-filter="completed">Hoàn thành</button>
           </div>
@@ -212,7 +258,9 @@
 
         <!-- Books Grid -->
         <div class="books-grid">
-          ${filteredBooks.length > 0 ? filteredBooks.map(book => `
+          ${filteredBooks.length > 0 ? filteredBooks.map(book => {
+            const bTags = Array.isArray(book.tags) && book.tags.length > 0 ? book.tags : (book.category ? book.category.split(/[•,&/]/).map(s => s.trim()) : ['Văn học']);
+            return `
             <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
               <div class="card-top">
                 ${book.cover ? `
@@ -228,9 +276,11 @@
                 </div>
               </div>
 
-              <!-- Badges Row Underneath (Full Width, Horizontal) -->
+              <!-- Badges Row Underneath (Full Width, Horizontal Tags) -->
               <div class="card-badges-row">
-                <span class="badge-tag">${escapeHtml(book.category)}</span>
+                ${bTags.map(t => `
+                  <span class="badge-tag" onclick="event.stopPropagation(); window.location.hash = '#/?tag=' + encodeURIComponent('${escapeHtml(t)}');" title="Lọc các sách theo tag '${escapeHtml(t)}'">${escapeHtml(t)}</span>
+                `).join('')}
                 ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                 <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
               </div>
@@ -248,7 +298,8 @@
                 </div>
               </div>
             </div>
-          `).join('') : `
+            `;
+          }).join('') : `
             <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem; color: var(--text-tertiary);">
               <img src="public/icons/15_document_magnifier.png" style="width: 54px; margin-bottom: 1rem; opacity: 0.5;">
               <p>Không tìm thấy cuốn sách nào phù hợp với từ khóa "${escapeHtml(searchQuery)}".</p>
@@ -327,7 +378,9 @@
               </div>
             ` : ''}
             <div class="detail-badges">
-              <span class="badge-tag">${escapeHtml(book.category)}</span>
+              ${(Array.isArray(book.tags) && book.tags.length > 0 ? book.tags : (book.category ? book.category.split(/[•,&/]/).map(s => s.trim()) : ['Văn học'])).map(t => `
+                <span class="badge-tag" style="cursor: pointer;" onclick="window.location.hash = '#/?tag=' + encodeURIComponent('${escapeHtml(t)}');" title="Xem các sách có tag '${escapeHtml(t)}'">${escapeHtml(t)}</span>
+              `).join('')}
               <span class="badge-status ${book.status}">${book.statusText || 'Đang dịch'}</span>
             </div>
             <h1 class="detail-title">${escapeHtml(book.title)}</h1>
