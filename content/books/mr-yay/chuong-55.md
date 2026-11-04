@@ -1,0 +1,47 @@
+# KÝ ỨC ÙA VỀ
+
+*Nội Dung Tác Phẩm*
+
+## KHÚC ĐỆM
+
+## KÝ ỨC ÙA VỀ
+
+**BRATTY**
+
+**BRATTY MỚI MƯỜI BẢY TUỔI** khi anh bắt đầu xem chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay*. Ừ thì, thuở ấu thơ anh từng xem cùng Tommy rồi. Nhưng lúc ấy anh chưa bao giờ thực sự *ngẫm* về nó. Anh chưa thể nào thấu hiểu, cho tới khi anh bắt đầu vỡ lẽ ra mình *không phải* là ai. Chính cái chất lung linh đầy tính siêu thực ấy đã hớp hồn anh: sự dập dềnh đều đặn của những con sóng, sắc màu rực rỡ đến kỳ quặc của bộ trang phục đã tơi tả sau bao tháng ngày dầm mưa dãi nắng cùng muối biển, và cả những bài học thông thái được đúc kết từ người bạn thuyền trưởng bốn chân có sở thích tự đuổi theo cái đuôi của chính mình (hết vòng này đến vòng khác, chỉ đơn giản là để cho vui).
+
+“Cá mập sao có thể ngoảnh mặt làm ngơ trước đại dương,” vị thuyền trưởng dõng dạc tuyên bố, và viên thuyền phó lập tức phiên dịch lại. Cả hai cùng đứng nơi mũi tàu. Chiếc lưỡi của chú chó phấp phới trong ngọn gió biển. Chú ta cất tiếng sủa, từng dòng phụ đề hiện lên trên màn hình, chạy đè trên một đoạn phim tài liệu quen thuộc cứ lặp đi lặp lại:
+
+*Thế nhưng, hãy để*
+
+*Dù là bạch tuộc, cá hề, hay cá đuối, mọi sinh linh ngớ ngẩn nơi trần thế này.*
+
+*Lạc lối đôi chút cũng chẳng sao đâu, miễn là trên đường đi, con tìm lại được bản ngã đích thực của đời mình.*
+
+Anh vẫn dán mắt vào màn hình, mặc cho việc bản thân, ừ thì, đã quá tuổi xem cái này từ lâu, hoặc đại loại thế.
+
+*Con lớn tướng rồi đấy, Bradford.*
+
+*Bao giờ con mới chịu đứng đắn lên hả, Bradford?*
+
+*Cuộc đời này ngắn ngủi lắm, đừng có phung phí thời gian vào một chương trình truyền hình ngớ ngẩn.*
+
+*Con phải nghĩ đến tương lai chứ.*
+
+Được rồi, được rồi, *anh nghe thấy hết cả rồi*. Bài tập về nhà thì anh cũng làm xong xuôi rồi còn gì.
+
+Chỉ có điều, xong việc là anh lại phê pha rồi cắm đầu xem chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay*. Thuyền trưởng Barksford, chú hươu cao cổ, chú chuột túi, chú báo hoa cùng toàn thể cư dân muông thú chẳng mảy may bận lòng xem liệu Bradford Pierson III đã cày đủ số lượng đề thi thử SAT ngẫu hứng mang tính cưỡng bách hay chưa, thứ mà người bố kính yêu cam đoan sẽ tặng kèm cho anh một cuộc đời thành đạt và viên mãn. Gặp trường hợp này, ắt hẳn Mr. Yay sẽ *úi chà!* một tiếng rồi quẳng phăng cuốn cẩm nang luyện thi xuống biển sâu. Học hành đâu phải là cái thứ đó. Học hành là phải biết đủ tiếng Thái để không lỡ mồm gọi nhầm món côn trùng chiên giòn từ một gánh hàng rong ở Bangkok. Học hành là phải biết cách định vị hải trình từ Eritrea sang Istanbul, kết hợp vài chuyến du ngoạn ẩm thực và văn hóa ghé qua Athens cùng Damascus. Học
+
+“Bradford Pierson!”
+
+“Ơ… dạ, sao cơ ạ?”
+
+Bài học đầu tiên: đừng bao giờ cất giọng bằng cái tông lơ mơ nghe là biết ngay đang phê thuốc.
+
+“Cái gì cơ? Cậu còn dám hỏi tôi là cái gì cơ à? Tôi chịu hết nổi rồi. Thật tình… Tôi cạn lời với cái thói vô giáo dục của cậu rồi đấy. Chúa ơi, chỉ cần nghĩ đến thôi là chứng đau nửa đầu của tôi lại tái phát rồi. Cậu đang bóp nghẹt thái dương tôi đấy, có biết không? Tôi không thể nào chịu đựng nổi cậu thêm một giây nào nữa!”
+
+Dứt lời, bà ta ngoắt ngoắt quay lưng bỏ đi. Cần một khoảng thời gian dài vô định trôi qua thì đầu óc anh mới dần định thần lại xem rốt cuộc mình đã phạm phải tội tày đình gì. Nếu quả thực anh hiểu được.
+
+Hóa ra là hàng xóm đã trông thấy anh ngoài sân sau. Và không, họ chẳng ngửi thấy mùi thuốc lá đâu. Những dinh cơ ở khu này rộng đến nỗi, và nằm cách xa nhau đến mức, thứ duy nhất người ta có thể ngửi thấy thoang thoảng giữa các khoảng sân chỉ có thể là mùi tiền. Họ cũng chẳng thể nào *tận mắt nhìn thấy* anh phì phèo thứ gì, bởi vì thực tế là anh có hút đâu. Anh thừa
+
+Nhưng tội trạng đích thực lại bắt nguồn từ việc anh đã quá cẩu thả khi gọi đồ ăn Trung Hoa giao tận nhà. Trước đó, bà mẹ kế Helena Pierson từng cất giọng thé, tuyên bố rành rọt từng từ về nỗi kinh tởm tột cùng của bà ta đối với những món ăn dầu mỡ, mặn mòi và ngon lành. Nếu là một đứa con ra hồn, anh phải tự khắc ghi nhớ bà ta thích gì, ghét gì để mà liệu đường chiều chuộng. Đằng này, món mì xào lo mein lại ngập ngụa muối, chả giò thì đẫm dầu, hại bà ta mới cắn dở một miếng mà dạ dày đã cồn cào biểu tình, buổi tối xem như tan tành mây khói, còn sức khỏe thì ngàn cân treo sợi tóc không thuốc nào cứu vãn. Chưa hết, lại còn vụ mấy lon bia anh đã *chôm chỉa* trong tủ lạnh. Ừ thì, điểm này anh xin cúi đầu nhận tội. Cả một lốc sáu lon nguyên vẹn. Cơ mà từ trước tới nay, anh chưa từng nghĩ việc rút bia từ tủ lạnh nhà mình lại bị khép vào tội *ăn cắp*. Với anh, hành vi đó mang dáng dấp của một chiến dịch giải cứu hơn. Ấy thế mà phi vụ Bia Giải Cứu lại
