@@ -957,15 +957,24 @@ button {
   margin-bottom: 0.5rem;
 }
 
-/* Reader Bottom Navigation */
+/* Reader Top & Bottom Navigation */
+.reader-header-nav,
 .reader-footer-nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   border-top: 1px solid var(--border-color);
-  padding: 2rem 0;
-  margin-top: 3rem;
+  padding: 1.5rem 0;
+  margin-top: 2rem;
   gap: 1rem;
+}
+
+.reader-header-nav {
+  border-top: none;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.8rem 0 1.25rem 0;
+  margin-top: 0;
+  margin-bottom: 1.75rem;
 }
 
 .reader-nav-btn {
