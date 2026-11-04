@@ -274,102 +274,369 @@
         "path": "content/books/chiec-chen-hoen-o/chuong-42.md"
       }
     ]
-  },
+  }
   {
-    "id": "hoang-tu-be",
-    "title": "Hoàng Tử Bé",
-    "originalTitle": "Le Petit Prince",
-    "author": "Antoine de Saint-Exupéry",
+    "id": "mam-mong-tha-hoa",
+    "title": "Mầm Mống Tha Hóa",
+    "originalTitle": "A Drop of Corruption",
+    "series": "Bí Ẩn Của Ana & Din",
+    "volume": "Tập 2",
+    "author": "Robert Jackson Bennett",
     "translator": "Sheepa Translator",
-    "year": "1943",
-    "category": "Văn học cổ điển",
-    "status": "ongoing",
-    "statusText": "Đang dịch",
-    "cover": "content/books/hoang-tu-be/cover.jpg",
-    "icon": "public/icons/01_sheep_reading.png",
-    "badge": "public/icons/badge_01_sheep_reading.png",
-    "accentColor": "#6366f1",
-    "description": "Một tác phẩm kinh điển giàu chất thơ và triết lý sâu xa về tình bạn, tình yêu, sự cô đơn và cái nhìn trong trẻo của trẻ thơ đối với thế giới người lớn.",
+    "year": "2026",
+    "category": "Trinh thám & Bí ẩn",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/mam-mong-tha-hoa/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Là phần tiếp theo của Chiếc Chén Hoen Ố, cuốn sách đưa bộ đôi điều tra viên Ana và Din đến vùng biên viễn Yarrowdale để giải mã vụ án phòng kín: một viên chức ngân khố Bộ Tài Chính bốc hơi không dấu vết. Truy theo tàn tích sinh học dị thường và đường dây buôn lậu tủy xương Thủy Quáu Leviathan, cả hai đối mặt với âm mưu nhắm thẳng vào Tấm Màn Chắn. Lần đầu tiên, Ana đứng trước một đối thủ nguy hiểm đủ sức bẻ gãy mọi suy luận logic sắc bén của bà.",
     "downloads": {
-      "epub": "",
+      "epub": "content/downloads/mam-mong-tha-hoa.epub",
       "pdf": ""
     },
     "chapters": [
       {
         "id": "chuong-1",
-        "title": "Chương I: Bức tranh con trăn và chiếc mũ",
-        "path": "content/books/hoang-tu-be/chuong-1.md"
+        "title": "GIỚI THIỆU",
+        "part": "Nội Dung Tác Phẩm",
+        "path": "content/books/mam-mong-tha-hoa/chuong-1.md"
       },
       {
         "id": "chuong-2",
-        "title": "Chương II: Xin hãy vẽ cho tôi một con cừu",
-        "path": "content/books/hoang-tu-be/chuong-2.md"
+        "title": "CHƯƠNG 1",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-2.md"
       },
       {
         "id": "chuong-3",
-        "title": "Chương III: Hành tinh xa xôi của cậu bé",
-        "path": "content/books/hoang-tu-be/chuong-3.md"
-      }
-    ],
-    "series": "",
-    "volume": ""
-  },
-  {
-    "id": "nha-gia-kim",
-    "title": "Nhà Giả Kim",
-    "originalTitle": "The Alchemist",
-    "author": "Paulo Coelho",
-    "translator": "Sheepa Translator",
-    "year": "1988",
-    "category": "Tiểu thuyết triết lý",
-    "status": "ongoing",
-    "statusText": "Đang dịch",
-    "cover": "content/books/nha-gia-kim/cover.jpg",
-    "icon": "public/icons/02_sheep_scholar.png",
-    "badge": "public/icons/badge_02_sheep_scholar.png",
-    "accentColor": "#f59e0b",
-    "description": "Hành trình theo đuổi 'Vận Mệnh' của chàng chăn cừu Santiago qua sa mạc mênh mông, nhắc nhở chúng ta rằng kho báu đích thực luôn nằm ngay trong chính trái tim mình.",
-    "downloads": {
-      "epub": "",
-      "pdf": ""
-    },
-    "chapters": [
+        "title": "CHƯƠNG 2",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-3.md"
+      },
       {
-        "id": "chuong-1",
-        "title": "Chương I: Cậu bé chăn cừu Santiago",
-        "path": "content/books/nha-gia-kim/chuong-1.md"
-      }
-    ],
-    "series": "",
-    "volume": ""
-  },
-  {
-    "id": "loi-song-toi-gian",
-    "title": "Lối Sống Tối Giản",
-    "originalTitle": "The Minimalist Mindset",
-    "author": "Fumio Sasaki",
-    "translator": "Sheepa Translator",
-    "year": "2015",
-    "category": "Triết lý sống",
-    "status": "completed",
-    "statusText": "Hoàn thành",
-    "cover": "content/books/loi-song-toi-gian/cover.jpg",
-    "icon": "public/icons/10_bookshelf.png",
-    "badge": "public/icons/badge_10_bookshelf.png",
-    "accentColor": "#10b981",
-    "description": "Bớt đi đồ đạc để thêm vào tự do. Cuốn sách chia sẻ cách từ bỏ những áp lực vật chất để tìm thấy sự an tĩnh nội tâm và tự do đích thực.",
-    "downloads": {
-      "epub": "",
-      "pdf": ""
-    },
-    "chapters": [
+        "id": "chuong-4",
+        "title": "CHƯƠNG 3",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-4.md"
+      },
       {
-        "id": "chuong-1",
-        "title": "Chương I: Dọn Dẹp Để Tìm Lại Chính Mình",
-        "path": "content/books/loi-song-toi-gian/chuong-1.md"
+        "id": "chuong-5",
+        "title": "CHƯƠNG 4",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "CHƯƠNG 5",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "CHƯƠNG 6",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "CHƯƠNG 7",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "CHƯƠNG 8",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "CHƯƠNG 9",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "CHƯƠNG 10",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "CHƯƠNG 11",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "CHƯƠNG 12",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "CHƯƠNG 13",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "CHƯƠNG 14",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "CHƯƠNG 15",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "CHƯƠNG 16",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "CHƯƠNG 17",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "CHƯƠNG 18",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "CHƯƠNG 19",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "CHƯƠNG 20",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "CHƯƠNG 21",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "CHƯƠNG 22",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "CHƯƠNG 23",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "CHƯƠNG 24",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "CHƯƠNG 25",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "CHƯƠNG 26",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "CHƯƠNG 27",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "CHƯƠNG 28",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "CHƯƠNG 29",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "CHƯƠNG 30",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "CHƯƠNG 31",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "CHƯƠNG 32",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "CHƯƠNG 33",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "CHƯƠNG 34",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "CHƯƠNG 35",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "CHƯƠNG 36",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "CHƯƠNG 37",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "CHƯƠNG 38",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "CHƯƠNG 39",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "CHƯƠNG 40",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "CHƯƠNG 41",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "CHƯƠNG 42",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "CHƯƠNG 43",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "CHƯƠNG 44",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "CHƯƠNG 46",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "CHƯƠNG 46",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "CHƯƠNG 47",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "CHƯƠNG 48",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "CHƯƠNG 49",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "CHƯƠNG 50",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "CHƯƠNG 51",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "CHƯƠNG 52",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "CHƯƠNG 53",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "CHƯƠNG 54",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "CHƯƠNG 55",
+        "part": "VĨ THANH: NGƯỜI CANH GÁC",
+        "path": "content/books/mam-mong-tha-hoa/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "Lời tác giả",
+        "part": "Nội Dung Tác Phẩm",
+        "path": "content/books/mam-mong-tha-hoa/chuong-57.md"
       }
-    ],
-    "series": "",
-    "volume": ""
+    ]
   }
 ]
