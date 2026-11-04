@@ -1,4 +1,904 @@
 [
+   {
+    "id": "chiec-chen-hoen-o",
+    "title": "Chiếc Chén Hoen Ố",
+    "originalTitle": "The Tainted Cup",
+    "series": "Bí Ẩn Của Ana và Din",
+    "volume": "Tập 1",
+    "author": "Robert Jackson Bennett",
+    "translator": "Sheepa Translator",
+    "year": "2024",
+    "category": "Trinh thám • Bí ẩn • Kỳ ảo",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/chiec-chen-hoen-o/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "badge": "public/icons/badge_11_sheep_magnifier.png",
+    "accentColor": "#8b5cf6",
+    "description": "Mở đầu cho loạt truyện điều tra kỳ ảo ly kỳ, theo chân cặp đôi điều tra viên dị biệt Ana Dolabra và Dinios Kol trong vụ án một quan chức cấp cao của Đế quốc chết kỳ dị khi một cái cây mọc xuyên qua cơ thể ông ta.",
+    "downloads": {
+      "epub": "content/downloads/chiec-chen-hoen-o.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương 1",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương 2",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương 3",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 4",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 5",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 6",
+        "part": "Phần I: Xác Chết Trên Cây",
+        "path": "content/books/chiec-chen-hoen-o/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 7",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 8",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 9",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 10",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 11",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 12",
+        "part": "Phần II: Sụp Đổ",
+        "path": "content/books/chiec-chen-hoen-o/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 13",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 14",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 15",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 16",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 17",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 18",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 19",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 20",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 21",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 22",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 23",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 24",
+        "part": "Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh",
+        "path": "content/books/chiec-chen-hoen-o/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 25",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 26",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 27",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 28",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương 29",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 30",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 31",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 32",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 33",
+        "part": "Phần IV: Địa Ngục Chốn Hào Môn",
+        "path": "content/books/chiec-chen-hoen-o/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương 34",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương 35",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương 36",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương 37",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương 38",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương 39",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương 40",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương 41",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương 42",
+        "part": "Phần V: Bóng Hình Thủy Quái",
+        "path": "content/books/chiec-chen-hoen-o/chuong-42.md"
+      }
+    ],
+    "tags": [
+      "Trinh thám",
+      "Bí ẩn",
+      "Kỳ ảo"
+    ]
+  },
+  {
+    "id": "mam-mong-tha-hoa",
+    "title": "Mầm Mống Tha Hóa",
+    "originalTitle": "A Drop of Corruption",
+    "series": "Bí Ẩn Của Ana & Din",
+    "volume": "Tập 2",
+    "author": "Robert Jackson Bennett",
+    "translator": "Sheepa Translator",
+    "year": "2026",
+    "category": "Trinh thám • Bí ẩn • Kỳ ảo • Chính trị",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/mam-mong-tha-hoa/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Là phần tiếp theo của Chiếc Chén Hoen Ố, cuốn sách đưa bộ đôi điều tra viên Ana và Din đến vùng biên viễn Yarrowdale để giải mã vụ án phòng kín: một viên chức ngân khố Bộ Tài Chính bốc hơi không dấu vết. Truy theo tàn tích sinh học dị thường và đường dây buôn lậu tủy xương Thủy Quáu Leviathan, cả hai đối mặt với âm mưu nhắm thẳng vào Tấm Màn Chắn. Lần đầu tiên, Ana đứng trước một đối thủ nguy hiểm đủ sức bẻ gãy mọi suy luận logic sắc bén của bà.",
+    "downloads": {
+      "epub": "content/downloads/mam-mong-tha-hoa.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "GIỚI THIỆU",
+        "part": "",
+        "path": "content/books/mam-mong-tha-hoa/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "CHƯƠNG 1",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "CHƯƠNG 2",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "CHƯƠNG 3",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "CHƯƠNG 4",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "CHƯƠNG 5",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "CHƯƠNG 6",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "CHƯƠNG 7",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "CHƯƠNG 8",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "CHƯƠNG 9",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "CHƯƠNG 10",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "CHƯƠNG 11",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "CHƯƠNG 12",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "CHƯƠNG 13",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "CHƯƠNG 14",
+        "part": "PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT",
+        "path": "content/books/mam-mong-tha-hoa/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "CHƯƠNG 15",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "CHƯƠNG 16",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "CHƯƠNG 17",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "CHƯƠNG 18",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "CHƯƠNG 19",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "CHƯƠNG 20",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "CHƯƠNG 21",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "CHƯƠNG 22",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "CHƯƠNG 23",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "CHƯƠNG 24",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "CHƯƠNG 25",
+        "part": "PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI",
+        "path": "content/books/mam-mong-tha-hoa/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "CHƯƠNG 26",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "CHƯƠNG 27",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "CHƯƠNG 28",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "CHƯƠNG 29",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "CHƯƠNG 30",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "CHƯƠNG 31",
+        "part": "PHẦN III: TỦY CỰ THÚ",
+        "path": "content/books/mam-mong-tha-hoa/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "CHƯƠNG 32",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "CHƯƠNG 33",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "CHƯƠNG 34",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "CHƯƠNG 35",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "CHƯƠNG 36",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "CHƯƠNG 37",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "CHƯƠNG 38",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "CHƯƠNG 39",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "CHƯƠNG 40",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "CHƯƠNG 41",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "CHƯƠNG 42",
+        "part": "PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH",
+        "path": "content/books/mam-mong-tha-hoa/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "CHƯƠNG 43",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "CHƯƠNG 44",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "CHƯƠNG 46",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "CHƯƠNG 46",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "CHƯƠNG 47",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "CHƯƠNG 48",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "CHƯƠNG 49",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "CHƯƠNG 50",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "CHƯƠNG 51",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "CHƯƠNG 52",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "CHƯƠNG 53",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "CHƯƠNG 54",
+        "part": "PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG",
+        "path": "content/books/mam-mong-tha-hoa/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "CHƯƠNG 55",
+        "part": "VĨ THANH: NGƯỜI CANH GÁC",
+        "path": "content/books/mam-mong-tha-hoa/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "Lời tác giả",
+        "part": "",
+        "path": "content/books/mam-mong-tha-hoa/chuong-57.md"
+      }
+    ],
+    "tags": [
+      "Trinh thám",
+      "Bí ẩn",
+      "Kỳ ảo",
+      "Chính trị"
+    ]
+  },
+  {
+    "id": "thuong-vu-mau",
+    "title": "Thương Vụ Máu",
+    "originalTitle": "A Trade of Blood",
+    "series": "Bí Ẩn Của Ana & Din",
+    "volume": "Tập 3",
+    "author": "Robert Jackson Bennett",
+    "translator": "Sheepa Translator",
+    "year": "2026",
+    "category": "Kỳ ảo • Trinh thám • Hành động",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/thuong-vu-mau/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Nối tiếp những chấn động dữ dội sau các sự kiện của Chiếc Chén Hoen Ố và Mầm Mống Tha Hóa, tác phẩm tiếp tục theo chân cặp bài trùng điều tra viên kỳ lạ của Tòa nhà Bộ Tư Pháp: nữ thanh tra mù lập dị Ana Dolabra và trợ lý sở hữu trí nhớ khắc sâu Din. Lần này, bức màn bí mật dẫn họ dấn sâu vào tâm chấn của quyền lực đế chế, nơi ranh giới giữa ma thuật công nghệ sinh học và sự tha hóa chính trị bị đẩy lên mức đỉnh điểm. Một vụ án mạng mới với những dấu hiệu huyết thuật và sự biến đổi cơ thể dị thường đe dọa làm sụp đổ toàn bộ hệ thống phòng thủ trước thảm họa Thủy quái Leviathan. Đứng trước những kẻ thù giấu mặt sẵn sàng đem máu và sinh mạng ra làm món hàng trao đổi, Ana và Din buộc phải bước vào một ván cờ sinh tử khốc liệt hơn bao giờ hết.",
+    "downloads": {
+      "epub": "content/downloads/thuong-vu-mau.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "GIỚI THIỆU",
+        "part": "",
+        "path": "content/books/thuong-vu-mau/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "CHƯƠNG 1",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "CHƯƠNG 2",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "CHƯƠNG 3",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "CHƯƠNG 4",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "CHƯƠNG 5",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "CHƯƠNG 6",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "CHƯƠNG 7",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "CHƯƠNG 8",
+        "part": "PHẦN I: NGHỆ THUẬT ĐỒ TỀ",
+        "path": "content/books/thuong-vu-mau/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "CHƯƠNG 9",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "CHƯƠNG 10",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "CHƯƠNG 11",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "CHƯƠNG 12",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "CHƯƠNG 13",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "CHƯƠNG 14",
+        "part": "PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN",
+        "path": "content/books/thuong-vu-mau/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "CHƯƠNG 15",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "CHƯƠNG 16",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "CHƯƠNG 17",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "CHƯƠNG 18",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "CHƯƠNG 19",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "CHƯƠNG 20",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "CHƯƠNG 21",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "CHƯƠNG 22",
+        "part": "Phần III: BÌNH TĨNH, BÌNH TĨNH",
+        "path": "content/books/thuong-vu-mau/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "CHƯƠNG 23",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "CHƯƠNG 24",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "CHƯƠNG 25",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "CHƯƠNG 26",
+        "part": "PHẦN IV: TRÁI TIM MỤC NÁT",
+        "path": "content/books/thuong-vu-mau/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "CHƯƠNG 27",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "CHƯƠNG 28",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "CHƯƠNG 29",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "CHƯƠNG 30",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "CHƯƠNG 31",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "CHƯƠNG 32",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "CHƯƠNG 33",
+        "part": "PHẦN V: VỊ CỦA LƯỠI DAO",
+        "path": "content/books/thuong-vu-mau/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "CHƯƠNG 34",
+        "part": "VĨ THANH: CHÉN THIÊN ĐƯỜNG",
+        "path": "content/books/thuong-vu-mau/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "CHƯƠNG 35",
+        "part": "VĨ THANH: CHÉN THIÊN ĐƯỜNG",
+        "path": "content/books/thuong-vu-mau/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "LỜI CẢM ƠN",
+        "part": "",
+        "path": "content/books/thuong-vu-mau/chuong-37.md"
+      }
+    ],
+    "tags": [
+      "Kỳ ảo",
+      "Trinh thám",
+      "Hành động"
+    ]
+  },
   {
     "id": "mr-yay",
     "title": "Mr. Yay",
@@ -519,7 +1419,7 @@
     "statusText": "Hoàn thành",
     "cover": "content/books/bay-cong-thuc-lam-nen-cach-mang/cover.jpg",
     "icon": "public/icons/11_sheep_magnifier.png",
-    "description": "Bản dịch tác phẩm phát hành bởi Sheepa.",
+    "description": "Tại một thế giới nơi thịt của các quái thú khổng lồ được giới đầu bếp thượng lưu chế biến thành các món ăn ban phát ma thuật cho tầng lớp quý tộc, cậu thiếu niên 17 tuổi Paprick chỉ là một gã đồ tể quèn ngày ngày xẻ thịt thuê. Ôm ấp đam mê nấu nướng và khát khao giải phóng người dân khỏi ách thống trị, Paprick liều mạng đánh cắp nguyên liệu quý hiếm và săn lùng một loại gia vị chợ đen để thử nghiệm công thức bí mật tại nhà. Thế nhưng, món ăn dị thường ấy lại gây ra phản ứng phụ kinh hoàng: biến Paprick thành một thực thể khổng lồ tựa quái thú kaiju, khiến tin đồn về sức mạnh của cậu lan truyền khắp nơi. Bị giới cầm quyền bắt giữ, Paprick khôn khéo mặc cả để trở thành phụ bếp học việc nhằm đổi lấy công thức món ăn, nhưng chính tại chốn ẩm thực đỉnh cao này, cậu nhận ra sự mục ruỗng tột cùng của giới tinh hoa và nhận ra ngọn lửa cách mạng đã sẵn sàng bùng cháy chỉ sau vài công thức nấu nướng tiếp theo.",
     "downloads": {
       "epub": "content/downloads/bay-cong-thuc-lam-nen-cach-mang.epub",
       "pdf": ""

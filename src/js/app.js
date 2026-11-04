@@ -486,9 +486,20 @@
         <!-- Sticky Reader Nav -->
         <div class="reader-nav">
           <div class="reader-nav-inner">
-            <a href="#/book/${book.id}" class="icon-btn" title="Quay lại mục lục sách">
-              <svg viewBox="0 0 24 24"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
-            </a>
+            <div style="display: flex; align-items: center; gap: 0.35rem;">
+              <a href="#/book/${book.id}" class="icon-btn" title="Quay lại mục lục sách">
+                <svg viewBox="0 0 24 24"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+              </a>
+              ${prevChapter ? `
+                <a href="#/read/${book.id}/${prevChapter.id}" class="icon-btn" title="Chương trước: ${escapeHtml(prevChapter.title)}">
+                  <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                </a>
+              ` : `
+                <button class="icon-btn" disabled style="opacity: 0.3; cursor: not-allowed;" title="Đã là chương đầu tiên">
+                  <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                </button>
+              `}
+            </div>
 
             <div class="reader-title-info">
               <span class="reader-book-name">${escapeHtml(book.title)}</span>
@@ -496,6 +507,15 @@
             </div>
 
             <div class="reader-tools">
+              ${nextChapter ? `
+                <a href="#/read/${book.id}/${nextChapter.id}" class="icon-btn" title="Chương sau: ${escapeHtml(nextChapter.title)}">
+                  <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                </a>
+              ` : `
+                <button class="icon-btn" disabled style="opacity: 0.3; cursor: not-allowed;" title="Đã là chương cuối cùng">
+                  <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                </button>
+              `}
               <button class="icon-btn" id="reader-toc-toggle-btn" title="Mục lục chương">
                 <svg viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
               </button>
@@ -511,6 +531,29 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth};">
+          <!-- Top Chapter Navigation (Chương trước / Mục lục / Chương sau) -->
+          <div class="reader-header-nav">
+            ${prevChapter ? `
+              <a href="#/read/${book.id}/${prevChapter.id}" class="reader-nav-btn" title="Chương trước: ${escapeHtml(prevChapter.title)}">
+                ← Chương trước
+              </a>
+            ` : `
+              <button class="reader-nav-btn" disabled>← Chương trước</button>
+            `}
+
+            <a href="#/book/${book.id}" class="reader-nav-btn btn-outline" style="font-size: 0.85rem;">
+              Mục lục sách
+            </a>
+
+            ${nextChapter ? `
+              <a href="#/read/${book.id}/${nextChapter.id}" class="reader-nav-btn btn-primary" title="Chương sau: ${escapeHtml(nextChapter.title)}">
+                Chương sau →
+              </a>
+            ` : `
+              <button class="reader-nav-btn" disabled>Hết chương</button>
+            `}
+          </div>
+
           <article class="reader-content" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px;">
             ${contentHtml}
           </article>
