@@ -448,6 +448,16 @@
   // --- ROUTER & VIEW RENDERING ---
   const app = document.getElementById('app');
 
+  function trackPageView(path, title) {
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', 'page_view', {
+        page_path: path || window.location.hash || '#/',
+        page_title: title || document.title,
+        page_location: window.location.href
+      });
+    }
+  }
+
   async function handleRoute() {
     const hash = window.location.hash || '#/';
     window.scrollTo(0, 0);
@@ -458,17 +468,23 @@
         const tagParam = decodeURIComponent(hash.split('?tag=')[1] || '').split('&')[0];
         if (tagParam) activeTagFilter = tagParam;
       }
+      document.title = 'Sheepa Library — Tủ Sách Tự Dịch';
       renderLibraryView();
+      trackPageView(hash, document.title);
     } else if (hash.startsWith('#/book/')) {
       const bookId = hash.replace('#/book/', '').split('?')[0];
       renderBookDetailView(bookId);
+      trackPageView(hash, document.title);
     } else if (hash.startsWith('#/read/')) {
       const parts = hash.replace('#/read/', '').split('/');
       const bookId = parts[0];
       const chapterId = parts[1];
       await renderReaderView(bookId, chapterId);
+      trackPageView(hash, document.title);
     } else {
+      document.title = 'Sheepa Library — Tủ Sách Tự Dịch';
       renderLibraryView();
+      trackPageView(hash, document.title);
     }
   }
 
@@ -831,6 +847,7 @@
 
     const book = booksData.find(b => b.id === bookId);
     if (!book) {
+      document.title = 'Không tìm thấy sách — Sheepa Library';
       app.innerHTML = `
         <div class="page-container" style="text-align: center; padding: 5rem 1rem;">
           <h2>Không tìm thấy cuốn sách này</h2>
@@ -842,6 +859,7 @@
     }
 
     currentBook = book;
+    document.title = `${book.title} — Sheepa Library`;
     const firstChapterId = book.chapters[0]?.id || 'chuong-1';
 
     app.innerHTML = `
@@ -955,6 +973,8 @@
     const chapterIndex = book.chapters.findIndex(c => c.id === chapterId);
     const chapter = chapterIndex !== -1 ? book.chapters[chapterIndex] : book.chapters[0];
     currentChapter = chapter;
+    document.title = `${chapter.title} — ${book.title} | Sheepa Reader`;
+    trackPageView(window.location.hash, document.title);
 
     const prevChapter = chapterIndex > 0 ? book.chapters[chapterIndex - 1] : null;
     const nextChapter = chapterIndex < book.chapters.length - 1 ? book.chapters[chapterIndex + 1] : null;
