@@ -942,10 +942,17 @@
 
         <!-- Chapters Table of Contents -->
         <div class="detail-toc-box">
-          <h2 class="section-heading">
-            <img src="public/icons/glyph_10_bookshelf.png" alt="TOC">
-            Mục lục các chương (${book.chapters.length})
-          </h2>
+          <div class="detail-toc-header-bar">
+            <h2 class="section-heading" style="margin: 0;">
+              <img src="public/icons/glyph_10_bookshelf.png" alt="TOC">
+              Mục lục các chương (${book.chapters.length})
+            </h2>
+            ${book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung')) ? `
+              <button type="button" class="btn-toggle-all-parts" onclick="window.toggleAllTocParts(this)">
+                Thu gọn tất cả
+              </button>
+            ` : ''}
+          </div>
           <div class="toc-list">
             ${renderHierarchicalToc(book)}
           </div>
@@ -1304,7 +1311,7 @@
     window.addEventListener('keydown', handleKeyNav, { once: true });
   }
 
-  // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters) ---
+  // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters with Collapse / Expand) ---
   function renderHierarchicalToc(book, currentChapId = null, isDrawer = false) {
     const hasParts = book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung'));
     if (!hasParts) {
@@ -1319,27 +1326,111 @@
       `).join('');
     }
 
-    let currentPart = null;
-    let html = '';
+    // Nhóm các chương theo Phần lớn (Part)
+    const groups = [];
+    let curGroup = null;
+
     book.chapters.forEach((chap, idx) => {
       const rawPart = chap.part || '';
       const isFakePart = !rawPart || rawPart === 'Nội Dung Tác Phẩm' || rawPart.toLowerCase().includes('nội dung');
-      if (!isFakePart && rawPart !== currentPart) {
-        currentPart = rawPart;
-        html += `<div class="toc-group-header">📂 ${escapeHtml(rawPart)}</div>`;
+      const partKey = isFakePart ? null : rawPart.trim();
+
+      if (!curGroup || curGroup.part !== partKey) {
+        curGroup = { part: partKey, items: [] };
+        groups.push(curGroup);
       }
-      const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
-      html += `
-        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link ${!isFakePart ? 'toc-sub-item' : ''}" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
-          <div>
-            <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-            <span>${escapeHtml(chap.title)}</span>
-          </div>
-          <span class="toc-arrow">→</span>
-        </a>
-      `;
+      curGroup.items.push({ chap, idx });
     });
+
+    let html = '';
+    let partIdx = 0;
+
+    groups.forEach((g) => {
+      if (!g.part) {
+        // Các chương không thuộc phần lớn nào (như Lời nói đầu, Giới thiệu...) hiển thị ngay ở trên cùng
+        g.items.forEach(({ chap, idx }) => {
+          const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
+          html += `
+            <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+              <div>
+                <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+                <span>${escapeHtml(chap.title)}</span>
+              </div>
+              <span class="toc-arrow">→</span>
+            </a>
+          `;
+        });
+      } else {
+        partIdx++;
+        const hasActiveChapter = g.items.some(({ chap }) => chap.id === currentChapId);
+        const groupId = `toc-part-${book.id}-${partIdx}`;
+
+        html += `
+          <div class="toc-part-group open" id="${groupId}">
+            <div class="toc-group-header" role="button" tabindex="0" onclick="window.toggleTocPart('${groupId}')" onkeydown="if(event.key==='Enter'||event.key===' ')window.toggleTocPart('${groupId}')" title="Bấm để thu gọn hoặc mở rộng phần này">
+              <div class="toc-group-title">
+                <span class="toc-folder-open">📂</span>
+                <span class="toc-folder-closed">📁</span>
+                <span class="toc-part-name">${escapeHtml(g.part)}</span>
+                <span class="toc-part-count">${g.items.length} chương</span>
+              </div>
+              <div class="toc-group-actions">
+                <svg class="toc-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </div>
+            </div>
+            <div class="toc-group-content">
+              ${g.items.map(({ chap, idx }) => {
+                const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
+                return `
+                  <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+                    <div>
+                      <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+                      <span>${escapeHtml(chap.title)}</span>
+                    </div>
+                    <span class="toc-arrow">→</span>
+                  </a>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }
+    });
+
     return html;
+  }
+
+  function toggleTocPart(groupId) {
+    const el = document.getElementById(groupId);
+    if (!el) return;
+    el.classList.toggle('open');
+    updateToggleAllPartsButton();
+  }
+  window.toggleTocPart = toggleTocPart;
+
+  function toggleAllTocParts(btn) {
+    const groups = document.querySelectorAll('.toc-part-group');
+    if (groups.length === 0) return;
+    const anyOpen = Array.from(groups).some(g => g.classList.contains('open'));
+    if (anyOpen) {
+      groups.forEach(g => g.classList.remove('open'));
+      document.querySelectorAll('.btn-toggle-all-parts').forEach(b => b.textContent = 'Mở rộng tất cả');
+    } else {
+      groups.forEach(g => g.classList.add('open'));
+      document.querySelectorAll('.btn-toggle-all-parts').forEach(b => b.textContent = 'Thu gọn tất cả');
+    }
+  }
+  window.toggleAllTocParts = toggleAllTocParts;
+
+  function updateToggleAllPartsButton() {
+    const groups = document.querySelectorAll('.toc-part-group');
+    if (groups.length === 0) return;
+    const anyOpen = Array.from(groups).some(g => g.classList.contains('open'));
+    document.querySelectorAll('.btn-toggle-all-parts').forEach(b => {
+      b.textContent = anyOpen ? 'Thu gọn tất cả' : 'Mở rộng tất cả';
+    });
   }
 
   // --- DOWNLOAD PASSCODE CONFIGURATION ---
@@ -1580,7 +1671,14 @@
     modal.innerHTML = `
       <div class="modal-content" style="max-height: 80vh; display: flex; flex-direction: column;">
         <div class="modal-header">
-          <h3>Mục lục các chương (${book.chapters.length})</h3>
+          <div style="display: flex; align-items: center; gap: 0.75rem;">
+            <h3 style="margin: 0;">Mục lục (${book.chapters.length} chương)</h3>
+            ${book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung')) ? `
+              <button type="button" class="btn-toggle-all-parts" onclick="window.toggleAllTocParts(this)" style="font-size: 0.75rem; padding: 0.2rem 0.6rem;">
+                Thu gọn tất cả
+              </button>
+            ` : ''}
+          </div>
           <button class="icon-btn" id="btn-close-toc" style="width: 32px; height: 32px;">✕</button>
         </div>
         <div class="toc-list" style="overflow-y: auto; flex: 1;">

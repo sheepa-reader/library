@@ -1134,24 +1134,127 @@ button {
   flex-direction: column;
 }
 
+/* --- HIERARCHICAL TOC ACCORDION (PARTS & CHAPTERS) --- */
+.detail-toc-header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.btn-toggle-all-parts {
+  background: var(--bg-hover);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.btn-toggle-all-parts:hover {
+  background: var(--bg-card);
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.toc-part-group {
+  margin-top: 0.6rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--bg-card);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.toc-part-group:first-child {
+  margin-top: 0;
+}
+
+.toc-part-group:hover {
+  border-color: var(--border-dark);
+}
+
 .toc-group-header {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 800;
   color: var(--text-main);
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  padding: 1.25rem 0.75rem 0.5rem;
-  margin-top: 0.75rem;
-  border-bottom: 2px solid var(--border-color);
-  background: var(--bg-card);
+  padding: 0.85rem 1rem;
+  background: var(--bg-hover);
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  gap: 0.5rem;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s ease;
 }
 
-.toc-group-header:first-child {
-  margin-top: 0;
-  padding-top: 0.25rem;
+.toc-group-header:hover {
+  background: var(--border-light);
+}
+
+.toc-group-title {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  flex: 1;
+}
+
+.toc-part-name {
+  font-weight: 700;
+}
+
+.toc-part-group:not(.open) .toc-folder-open { display: none; }
+.toc-part-group:not(.open) .toc-folder-closed { display: inline; }
+.toc-part-group.open .toc-folder-open { display: inline; }
+.toc-part-group.open .toc-folder-closed { display: none; }
+
+.toc-part-count {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--border-light);
+  text-transform: none;
+  letter-spacing: normal;
+  margin-left: 0.25rem;
+}
+
+.toc-group-actions {
+  display: flex;
+  align-items: center;
+  padding-left: 0.5rem;
+}
+
+.toc-chevron {
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--text-secondary);
+}
+
+.toc-part-group:not(.open) .toc-chevron {
+  transform: rotate(-90deg);
+}
+
+.toc-part-group.open .toc-chevron {
+  transform: rotate(0deg);
+}
+
+.toc-group-content {
+  border-top: 1px solid var(--border-light);
+}
+
+.toc-part-group:not(.open) .toc-group-content {
+  display: none;
 }
 
 .toc-item-link.toc-sub-item {
