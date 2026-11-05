@@ -2437,5 +2437,398 @@
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-98.md"
       }
     ]
+  },
+  {
+    "id": "cua-anh-cua-em",
+    "title": "Của Anh & Của Em",
+    "originalTitle": "His & Her",
+    "series": "",
+    "volume": "",
+    "author": "Alice Feeney",
+    "translator": "Sheepa Translator",
+    "year": "2026",
+    "category": "Trinh thám • Tâm lý • Giật gân",
+    "tags": [
+      "Trinh thám",
+      "Tâm lý",
+      "Giật gân"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/cua-anh-cua-em/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Tại ngôi làng Blackdown u ám và ngột ngạt ở vùng thôn quê nước Anh, một người phụ nữ được phát hiện bị sát hại dã man với những vết thương kỳ lạ. Anna Andrews – một cựu phóng viên đài truyền hình đang chật vật tìm lại sự nghiệp sau biến cố hôn nhân – bất đắc dĩ phải trở về quê nhà để đưa tin về vụ án mạng. Trong khi đó, Thanh tra Jack Harper – chồng cũ của Anna – là người trực tiếp chỉ huy đội điều tra hiện trường nhưng bản thân anh lại đang che giấu một bí mật chết người: anh chính là người cuối cùng nhìn thấy nạn nhân còn sống. Khi một vụ án mạng thứ hai tiếp tục xảy ra và cả hai nạn nhân đều là bạn học cũ thời niên thiếu của họ, cuộc đối đầu giữa Anna và Jack biến thành một ván cờ tâm lý rùng rợn. Với hai góc nhìn song song đan xen những lời tự thuật giấu mặt của kẻ thủ ác, cuốn sách bóc tách một chân lý cay đắng: luôn có hai mặt cho một câu chuyện: phiên bản của anh, phiên bản của em, và sự thật nằm ở khoảng giữa.",
+    "downloads": {
+      "epub": "content/downloads/cua-anh-cua-em.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "ĐÁNH GIÁ",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "His & Hers",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "MỞ ĐẦU",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "Anh",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "Em",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "Anh",
+        "part": "SÁU THÁNG SAU",
+        "path": "content/books/cua-anh-cua-em/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "Em",
+        "part": "SÁU THÁNG SAU",
+        "path": "content/books/cua-anh-cua-em/chuong-57.md"
+      },
+      {
+        "id": "chuong-58",
+        "title": "Anh",
+        "part": "SÁU THÁNG SAU",
+        "path": "content/books/cua-anh-cua-em/chuong-58.md"
+      },
+      {
+        "id": "chuong-59",
+        "title": "Em",
+        "part": "SÁU THÁNG SAU",
+        "path": "content/books/cua-anh-cua-em/chuong-59.md"
+      },
+      {
+        "id": "chuong-60",
+        "title": "LỜI CẢM ƠN",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-60.md"
+      },
+      {
+        "id": "chuong-61",
+        "title": "CÂU HỎI THẢO LUẬN",
+        "part": "",
+        "path": "content/books/cua-anh-cua-em/chuong-61.md"
+      }
+    ]
   }
 ]

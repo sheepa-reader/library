@@ -1206,6 +1206,74 @@ button {
   line-height: inherit;
 }
 
+.reader-content .chapter-subtitle {
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  margin-top: -0.75rem;
+  margin-bottom: 1.75rem;
+  font-weight: 500;
+  opacity: 0.9;
+  text-align: left;
+}
+
+/* --- TEXT ALIGNMENT IN READER & MARKDOWN --- */
+.reader-content p[align="center"],
+.reader-content div[align="center"],
+.reader-content h1[align="center"],
+.reader-content h2[align="center"],
+.reader-content h3[align="center"],
+.reader-content center,
+.reader-content .text-center {
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.reader-content p[align="right"],
+.reader-content div[align="right"],
+.reader-content h1[align="right"],
+.reader-content h2[align="right"],
+.reader-content h3[align="right"],
+.reader-content .text-right {
+  text-align: right !important;
+  margin-left: auto;
+}
+
+.reader-content p[align="justify"],
+.reader-content .text-justify {
+  text-align: justify !important;
+}
+
+/* --- DROP CAP (CHỮ HOA ĐẦU CHƯƠNG NGHỆ THUẬT) --- */
+.reader-content.enable-dropcap p.has-dropcap::first-letter {
+  font-family: var(--font-playfair), 'Merriweather', 'Lora', Georgia, serif;
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-top: 4px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  font-weight: 700;
+  color: var(--primary-accent);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.05);
+  font-style: normal;
+}
+
+[data-theme="sepia"] .reader-content.enable-dropcap p.has-dropcap::first-letter {
+  color: #8f3d1b;
+}
+
+[data-theme="dark"] .reader-content.enable-dropcap p.has-dropcap::first-letter {
+  color: #ffaa5b;
+}
+
+.reader-content.enable-dropcap p.has-dropcap::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .reader-content blockquote {
   border-left: 3px solid var(--text-tertiary);
   padding-left: 1.25rem;

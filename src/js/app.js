@@ -44,7 +44,8 @@
     fontFamily: localStorage.getItem('sheepa_reader_font') || 'serif',
     fontSize: parseInt(localStorage.getItem('sheepa_reader_size') || '18', 10),
     lineHeight: parseFloat(localStorage.getItem('sheepa_reader_line_height') || '1.8'),
-    maxWidth: parseInt(savedWidth || '740', 10)
+    maxWidth: parseInt(savedWidth || '740', 10),
+    dropCap: localStorage.getItem('sheepa_reader_dropcap') !== 'false'
   };
 
   // --- THEME ENGINE (3 CHẾ ĐỘ: SÁNG - GIẤY CŨ - TỐI) ---
@@ -340,6 +341,8 @@
     let cleanText = cleanedLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 
     let html = cleanText
+      // Centered shorthand: -> Text <-
+      .replace(/^->\s*(.+?)\s*<-$/gim, '<p align="center">$1</p>')
       // Headers
       .replace(/^### (.*$)/gim, '<h3>$1</h3>')
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
@@ -357,17 +360,32 @@
       // Horizontal rules
       .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr/>');
 
-    // Paragraph wrapping for loose lines
+    // Paragraph wrapping for loose lines with smart Drop Cap assignment
     const pLines = html.split(/\n\s*\n/);
+    let hasAssignedDropCap = false;
+
     return pLines.map(line => {
       line = line.trim();
       if (!line) return '';
       if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
         return '';
       }
-      if (/^<(h1|h2|h3|blockquote|ul|ol|li|hr)/i.test(line)) {
+      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|p|div|center)/i.test(line)) {
         return line;
       }
+
+      // Check if this line is a short subtitle/part header (e.g. <em>Món Thứ Tư • Bít Tết Bão Tố Tăng Cường</em>)
+      const isSubtitle = /^<em>[^<]+<\/em>$/i.test(line) && line.length < 180;
+      if (isSubtitle) {
+        return `<p class="chapter-subtitle">${line}</p>`;
+      }
+
+      // First narrative body paragraph gets drop cap
+      if (!hasAssignedDropCap) {
+        hasAssignedDropCap = true;
+        return `<p class="has-dropcap">${line.replace(/\n/g, '<br/>')}</p>`;
+      }
+
       return `<p>${line.replace(/\n/g, '<br/>')}</p>`;
     }).filter(Boolean).join('\n');
   }
@@ -862,7 +880,7 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
-          <article class="reader-content" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
+          <article class="reader-content ${readerSettings.dropCap ? 'enable-dropcap' : ''}" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
             ${contentHtml}
           </article>
 
@@ -929,6 +947,13 @@
               <button class="btn-group-item" id="width-dec-btn" title="Thu hẹp khung đọc">↔ -</button>
               <span style="padding: 0.35rem 0.6rem; font-size: 0.82rem; font-weight: 600;" id="width-label">${readerSettings.maxWidth}px</span>
               <button class="btn-group-item" id="width-inc-btn" title="Mở rộng khung đọc">↔ +</button>
+            </div>
+          </div>
+          <div class="setting-row">
+            <span>Đầu chương:</span>
+            <div class="btn-group">
+              <button class="btn-group-item ${readerSettings.dropCap ? 'active' : ''}" id="dropcap-on-btn" title="Bật chữ hoa đầu chương phóng to nghệ thuật">Drop Cap</button>
+              <button class="btn-group-item ${!readerSettings.dropCap ? 'active' : ''}" id="dropcap-off-btn" title="Chữ thường chuẩn">Thường</button>
             </div>
           </div>
         </div>
@@ -1043,6 +1068,26 @@
           if (readerContainer) readerContainer.style.maxWidth = `${readerSettings.maxWidth}px`;
           widthLabel.textContent = `${readerSettings.maxWidth}px`;
         }
+      });
+    }
+
+    // Drop Cap Controls
+    const dropCapOnBtn = document.getElementById('dropcap-on-btn');
+    const dropCapOffBtn = document.getElementById('dropcap-off-btn');
+    if (dropCapOnBtn && dropCapOffBtn && readerBody) {
+      dropCapOnBtn.addEventListener('click', () => {
+        readerSettings.dropCap = true;
+        localStorage.setItem('sheepa_reader_dropcap', 'true');
+        dropCapOnBtn.classList.add('active');
+        dropCapOffBtn.classList.remove('active');
+        readerBody.classList.add('enable-dropcap');
+      });
+      dropCapOffBtn.addEventListener('click', () => {
+        readerSettings.dropCap = false;
+        localStorage.setItem('sheepa_reader_dropcap', 'false');
+        dropCapOffBtn.classList.add('active');
+        dropCapOnBtn.classList.remove('active');
+        readerBody.classList.remove('enable-dropcap');
       });
     }
 
