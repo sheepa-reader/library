@@ -1438,11 +1438,12 @@
   }
 
   // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters with Collapse / Expand) ---
-  function renderHierarchicalToc(book, currentChapId = null, isDrawer = false) {
+  // Áp dụng độc quyền cho trang Chi tiết thông tin sách (#/book/:id)
+  function renderHierarchicalToc(book) {
     const hasParts = book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung'));
     if (!hasParts) {
       return book.chapters.map((chap, idx) => `
-        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : ''}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link">
           <div>
             <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
             <span>${escapeHtml(chap.title)}</span>
@@ -1475,9 +1476,8 @@
       if (!g.part) {
         // Các chương không thuộc phần lớn nào (như Lời nói đầu, Giới thiệu...) hiển thị ngay ở trên cùng
         g.items.forEach(({ chap, idx }) => {
-          const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
           html += `
-            <a href="#/read/${book.id}/${chap.id}" class="toc-item-link" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+            <a href="#/read/${book.id}/${chap.id}" class="toc-item-link">
               <div>
                 <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
                 <span>${escapeHtml(chap.title)}</span>
@@ -1488,7 +1488,6 @@
         });
       } else {
         partIdx++;
-        const hasActiveChapter = g.items.some(({ chap }) => chap.id === currentChapId);
         const groupId = `toc-part-${book.id}-${partIdx}`;
 
         html += `
@@ -1508,9 +1507,8 @@
             </div>
             <div class="toc-group-content">
               ${g.items.map(({ chap, idx }) => {
-                const isActive = currentChapId === chap.id ? 'background: var(--bg-hover); font-weight: 700;' : '';
                 return `
-                  <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item" style="${isActive}" ${isDrawer ? 'onclick="document.getElementById(\'toc-modal\').classList.remove(\'active\');"' : ''}>
+                  <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item">
                     <div>
                       <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
                       <span>${escapeHtml(chap.title)}</span>
@@ -1526,6 +1524,26 @@
     });
 
     return html;
+  }
+
+  // --- FLAT TOC RENDERER FOR READER MODAL ---
+  // Hiển thị danh sách chương thẳng, liên tục, trực quan khi đang đọc sách
+  function renderReaderToc(book, currentChapId) {
+    return book.chapters.map((chap, idx) => {
+      const isActive = currentChapId === chap.id;
+      return `
+        <a href="#/read/${book.id}/${chap.id}" 
+           class="toc-item-link ${isActive ? 'active-chapter' : ''}" 
+           style="${isActive ? 'background: var(--bg-hover); font-weight: 700;' : ''}" 
+           onclick="document.getElementById('toc-modal').classList.remove('active');">
+          <div>
+            <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+            <span>${escapeHtml(chap.title)}</span>
+          </div>
+          <span class="toc-arrow">→</span>
+        </a>
+      `;
+    }).join('');
   }
 
   function toggleTocPart(groupId) {
@@ -1797,18 +1815,11 @@
     modal.innerHTML = `
       <div class="modal-content" style="max-height: 80vh; display: flex; flex-direction: column;">
         <div class="modal-header">
-          <div style="display: flex; align-items: center; gap: 0.75rem;">
-            <h3 style="margin: 0;">Mục lục (${book.chapters.length} chương)</h3>
-            ${book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung')) ? `
-              <button type="button" class="btn-toggle-all-parts" onclick="window.toggleAllTocParts(this)" style="font-size: 0.75rem; padding: 0.2rem 0.6rem;">
-                Thu gọn tất cả
-              </button>
-            ` : ''}
-          </div>
+          <h3 style="margin: 0;">Mục lục (${book.chapters.length} chương)</h3>
           <button class="icon-btn" id="btn-close-toc" style="width: 32px; height: 32px;">✕</button>
         </div>
         <div class="toc-list" style="overflow-y: auto; flex: 1;">
-          ${renderHierarchicalToc(book, currentChapId, true)}
+          ${renderReaderToc(book, currentChapId)}
         </div>
       </div>
     `;
@@ -1819,6 +1830,14 @@
     modal.addEventListener('click', (e) => {
       if (e.target === modal) modal.classList.remove('active');
     });
+
+    // Tự động cuộn đến chương đang đọc trong mục lục
+    setTimeout(() => {
+      const activeEl = modal.querySelector('.toc-item-link.active-chapter');
+      if (activeEl) {
+        activeEl.scrollIntoView({ block: 'center', behavior: 'smooth' });
+      }
+    }, 60);
   }
 
   // --- UTILS ---
