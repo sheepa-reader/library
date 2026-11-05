@@ -485,7 +485,7 @@
       if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
         return '';
       }
-      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center)/i.test(line)) {
+      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
         return line;
       }
       if (/^<p\b[^>]*\balign=/i.test(line)) {

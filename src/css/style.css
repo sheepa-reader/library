@@ -1693,6 +1693,92 @@ button {
   display: inline !important;
 }
 
+/* --- DIALOGUE & INTERVIEW TABLES (BẢNG HỘI THOẠI TRONG EBOOK) --- */
+.dialogue-table {
+  width: 100%;
+  max-width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: separate;
+  border-spacing: 0 0.4rem;
+  border: none !important;
+  background: transparent !important;
+}
+
+.dialogue-table tr {
+  background: transparent !important;
+  border: none !important;
+}
+
+.dialogue-table td {
+  border: none !important;
+  padding: 0.3rem 0.5rem;
+  line-height: 1.7;
+  font-size: inherit;
+}
+
+.dialogue-table td.dialogue-speaker,
+.dialogue-table td.ask {
+  width: 1%;
+  white-space: nowrap;
+  vertical-align: top;
+  text-align: right;
+  font-weight: 700;
+  color: var(--text-main);
+  padding-right: 1.25rem;
+  padding-left: 0.25rem;
+  letter-spacing: -0.01em;
+}
+
+.dialogue-table td.dialogue-speaker::first-letter,
+.dialogue-table td.ask::first-letter,
+.dialogue-table td.dialogue-text::first-letter,
+.dialogue-table td.reply::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  color: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-shadow: none !important;
+}
+
+.dialogue-table td.dialogue-text,
+.dialogue-table td.reply {
+  vertical-align: top;
+  text-align: justify;
+  color: var(--text-main);
+  padding-right: 0.5rem;
+}
+
+[data-theme="dark"] .dialogue-table td.dialogue-speaker {
+  color: #f3f4f6;
+}
+
+[data-theme="sepia"] .dialogue-table td.dialogue-speaker {
+  color: #382b1a;
+}
+
+/* Bảng nội dung thông thường */
+.content-table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+
+.content-table th,
+.content-table td {
+  padding: 0.6rem 0.85rem;
+  border: 1px solid var(--border-color);
+  text-align: left;
+}
+
+.content-table th {
+  background: var(--bg-secondary);
+  font-weight: 700;
+}
+
 .reader-content blockquote {
   border-left: 3px solid var(--text-tertiary);
   padding-left: 1.25rem;
