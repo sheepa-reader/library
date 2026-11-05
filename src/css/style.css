@@ -28,6 +28,13 @@
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
   --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.05);
   --reader-max-width: 720px;
+
+  /* Goodreads & Awards */
+  --gr-star-fill: #e87a15;
+  --gr-star-empty: #e2e0d8;
+  --award-bg: rgba(234, 150, 20, 0.08);
+  --award-border: rgba(234, 150, 20, 0.28);
+  --award-text: #92400e;
 }
 
 [data-theme="dark"] {
@@ -46,6 +53,13 @@
   --accent-badge: #272932;
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
   --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.3);
+
+  /* Goodreads & Awards Dark */
+  --gr-star-fill: #f59e0b;
+  --gr-star-empty: #333640;
+  --award-bg: rgba(245, 158, 11, 0.12);
+  --award-border: rgba(245, 158, 11, 0.35);
+  --award-text: #fcd34d;
 }
 
 [data-theme="sepia"] {
@@ -64,6 +78,13 @@
   --accent-badge: #e6d7b4;
   --shadow-sm: 0 1px 3px rgba(56, 43, 26, 0.08);
   --shadow-md: 0 4px 14px rgba(56, 43, 26, 0.12);
+
+  /* Goodreads & Awards Sepia */
+  --gr-star-fill: #c66f12;
+  --gr-star-empty: #d8c49a;
+  --award-bg: rgba(198, 111, 18, 0.1);
+  --award-border: rgba(198, 111, 18, 0.3);
+  --award-text: #6b3805;
 }
 
 /* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode (trừ ảnh bìa sách thật và mã QR) */
@@ -639,6 +660,66 @@ button {
   color: var(--text-secondary);
 }
 
+/* Goodreads Star Rating in Cards (Grid & List) */
+.card-gr-rating {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.gr-stars-container {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.gr-stars-base,
+.gr-stars-fill {
+  display: flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.gr-stars-base {
+  color: var(--gr-star-empty);
+}
+
+.gr-stars-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  color: var(--gr-star-fill);
+  pointer-events: none;
+}
+
+.gr-star-svg {
+  flex-shrink: 0;
+  display: block;
+  fill: currentColor;
+}
+
+.gr-score-val {
+  font-weight: 700;
+  font-size: 0.82rem;
+  color: var(--text-main);
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.gr-count-val {
+  font-size: 0.74rem;
+  color: var(--text-tertiary);
+  white-space: nowrap;
+}
+
 /* Horizontal Badges Row Across Full Card Width */
 .card-badges-row {
   display: flex;
@@ -1044,6 +1125,92 @@ button {
   color: var(--text-tertiary);
   font-style: italic;
   margin-bottom: 0.85rem;
+}
+
+/* Goodreads Rating & Awards in Book Detail */
+.detail-rating-awards-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin-bottom: 1.15rem;
+}
+
+.detail-rating-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.detail-gr-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.85rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  line-height: 1;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-fast);
+}
+
+.detail-gr-badge .gr-brand-tag {
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+}
+
+.detail-gr-badge .gr-score-bold {
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--text-main);
+  margin-left: 0.15rem;
+}
+
+.detail-gr-badge .gr-max-score {
+  font-size: 0.76rem;
+  color: var(--text-tertiary);
+}
+
+.detail-gr-badge .gr-votes-detail {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  margin-left: 0.2rem;
+}
+
+.detail-awards-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.detail-award-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.85rem;
+  background: var(--award-bg);
+  border: 1px solid var(--award-border);
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--award-text);
+  line-height: 1.35;
+}
+
+.detail-award-badge .award-trophy {
+  font-size: 0.95rem;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.detail-award-badge .award-text {
+  letter-spacing: -0.01em;
 }
 
 .detail-specs-grid {

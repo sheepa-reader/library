@@ -279,7 +279,15 @@
       "Bí ẩn",
       "Kỳ ảo"
     ],
-    "publishedAt": "2026-11-03"
+    "publishedAt": "2026-11-03",
+    "rating": {
+      "score": 4.28,
+      "count": 42000
+    },
+    "awards": [
+      "Chiến thắng giải Goodreads Choice Award 2024 — Kỳ ảo xuất sắc nhất",
+      "Sách bán chạy nhất New York Times (Bestseller)"
+    ]
   },
   {
     "id": "mam-mong-tha-hoa",
@@ -650,7 +658,14 @@
       "Kỳ ảo",
       "Chính trị"
     ],
-    "publishedAt": "2026-11-03"
+    "publishedAt": "2026-11-03",
+    "rating": {
+      "score": 4.35,
+      "count": 12500
+    },
+    "awards": [
+      "Tác phẩm Kỳ ảo & Trinh thám được mong đợi nhất của năm"
+    ]
   },
   {
     "id": "thuong-vu-mau",
@@ -900,7 +915,14 @@
       "Trinh thám",
       "Hành động"
     ],
-    "publishedAt": "2026-11-03"
+    "publishedAt": "2026-11-03",
+    "rating": {
+      "score": 4.21,
+      "count": 8900
+    },
+    "awards": [
+      "Đề cử Series Trinh thám Kỳ ảo xuất sắc"
+    ]
   },
   {
     "id": "mr-yay",
@@ -1402,7 +1424,14 @@
         "path": "content/books/mr-yay/chuong-79.md"
       }
     ],
-    "publishedAt": "2026-11-04"
+    "publishedAt": "2026-11-04",
+    "rating": {
+      "score": 4.02,
+      "count": 2400
+    },
+    "awards": [
+      "Sách Hài hước & Kỳ ảo được yêu thích trên Amazon"
+    ]
   },
   {
     "id": "bay-cong-thuc-lam-nen-cach-mang",
@@ -1826,7 +1855,14 @@
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-66.md"
       }
     ],
-    "publishedAt": "2026-11-04"
+    "publishedAt": "2026-11-04",
+    "rating": {
+      "score": 4.25,
+      "count": 5600
+    },
+    "awards": [
+      "Series Thực Đơn Sinh Tồn — Top sách Phiêu lưu Kỳ ảo thịnh hành"
+    ]
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
@@ -2442,7 +2478,14 @@
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-98.md"
       }
     ],
-    "publishedAt": "2026-11-05"
+    "publishedAt": "2026-11-05",
+    "rating": {
+      "score": 4.18,
+      "count": 3400
+    },
+    "awards": [
+      "Series Thực Đơn Sinh Tồn Tập 2 — Độc giả bình chọn xuất sắc"
+    ]
   },
   {
     "id": "cua-anh-cua-em",
@@ -2836,7 +2879,15 @@
         "path": "content/books/cua-anh-cua-em/chuong-61.md"
       }
     ],
-    "publishedAt": "2026-11-04"
+    "publishedAt": "2026-11-04",
+    "rating": {
+      "score": 4.05,
+      "count": 98000
+    },
+    "awards": [
+      "Đề cử Goodreads Choice Award — Thể loại Trinh thám & Giật gân",
+      "Bestseller New York Times & Sunday Times"
+    ]
   },
   {
     "id": "vong-lap-ky-uc",
@@ -3140,6 +3191,14 @@
         "path": "content/books/vong-lap-ky-uc/chuong-46.md"
       }
     ],
-    "publishedAt": "2026-11-05"
+    "publishedAt": "2026-11-05",
+    "rating": {
+      "score": 4.16,
+      "count": 185000
+    },
+    "awards": [
+      "Chiến thắng Goodreads Choice Award — Khoa học Viễn tưởng xuất sắc nhất",
+      "Sách hay nhất năm của Amazon, Time Magazine & NPR"
+    ]
   }
 ]

@@ -28,6 +28,78 @@
     return dateStr;
   }
 
+  // Format vote count: 185000 -> 185k, 42000 -> 42k, 12500 -> 12.5k, 2400 -> 2.4k
+  function formatVoteCount(count) {
+    if (!count) return '';
+    if (typeof count === 'string') {
+      if (/[kmb]/i.test(count)) return count;
+      const num = parseInt(count.replace(/,/g, ''), 10);
+      if (isNaN(num)) return count;
+      count = num;
+    }
+    if (count >= 1000000) {
+      return (count / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+    }
+    if (count >= 1000) {
+      return (count / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
+    }
+    return count.toLocaleString('vi-VN');
+  }
+
+  // Render Goodreads Star Rating (Supports exact pixel-perfect fractional/partial stars)
+  function renderGoodreadsRating(rating, options = {}) {
+    if (!rating) return '';
+    const score = typeof rating === 'object' ? parseFloat(rating.score) : parseFloat(rating);
+    if (isNaN(score) || score <= 0) return '';
+
+    const clampedScore = Math.max(0, Math.min(5, score));
+    const size = options.size || 13;
+    const gap = options.gap || 2;
+
+    // Exact pixel calculation so partial star is mathematically accurate
+    const fullStars = Math.floor(clampedScore);
+    const fraction = clampedScore - fullStars;
+    const filledPx = fullStars === 5
+      ? (5 * size + 4 * gap)
+      : (fullStars * (size + gap) + fraction * size);
+    const totalWidthPx = 5 * size + 4 * gap;
+
+    const formattedScore = score.toFixed(score % 1 === 0 ? 1 : 2);
+    const countVal = typeof rating === 'object' ? rating.count : (options.count || null);
+    const compactCount = formatVoteCount(countVal);
+    const fullCount = countVal ? (typeof countVal === 'number' ? countVal.toLocaleString('vi-VN') : countVal) : '';
+
+    const starSvg = `<svg class="gr-star-svg" viewBox="0 0 24 24" style="width:${size}px; height:${size}px;"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>`;
+    const fiveStars = starSvg + starSvg + starSvg + starSvg + starSvg;
+
+    if (options.layout === 'detail') {
+      return `
+        <div class="detail-gr-badge" title="${formattedScore} / 5 trên Goodreads${fullCount ? ` (${fullCount} lượt đánh giá)` : ''}">
+          <span class="gr-brand-tag">Goodreads</span>
+          <div class="gr-stars-container" style="width: ${totalWidthPx}px; height: ${size}px;">
+            <div class="gr-stars-base" style="gap: ${gap}px;">${fiveStars}</div>
+            <div class="gr-stars-fill" style="width: ${filledPx.toFixed(2)}px; gap: ${gap}px;">${fiveStars}</div>
+          </div>
+          <span class="gr-score-bold">${formattedScore}</span>
+          <span class="gr-max-score">/ 5</span>
+          ${compactCount ? `<span class="gr-votes-detail">(${compactCount} đánh giá)</span>` : ''}
+        </div>
+      `;
+    }
+
+    // Default: Card layout (Library Grid & List View)
+    return `
+      <div class="card-gr-rating" title="${formattedScore} / 5 trên Goodreads${fullCount ? ` (${fullCount} lượt đánh giá)` : ''}">
+        <div class="gr-stars-container" style="width: ${totalWidthPx}px; height: ${size}px;">
+          <div class="gr-stars-base" style="gap: ${gap}px;">${fiveStars}</div>
+          <div class="gr-stars-fill" style="width: ${filledPx.toFixed(2)}px; gap: ${gap}px;">${fiveStars}</div>
+        </div>
+        <span class="gr-score-val">${formattedScore}</span>
+        ${compactCount ? `<span class="gr-count-val">(${compactCount})</span>` : ''}
+      </div>
+    `;
+  }
+
   // Quotes Repository State
   let quotesData = [
     { quote: "Những điều cốt yếu thì vô hình đối với mắt trần. Chỉ có trái tim mới thấy rõ.", author: "Antoine de Saint-Exupéry", work: "Hoàng Tử Bé" },
@@ -694,6 +766,7 @@
                     <div class="card-meta">
                       <h3 class="card-title">${escapeHtml(book.title)}</h3>
                       <div class="card-author">${escapeHtml(book.author)}</div>
+                      ${renderGoodreadsRating(book.rating)}
                     </div>
 
                     <div class="card-badges-row">
@@ -735,6 +808,7 @@
                   <div class="card-meta">
                     <h3 class="card-title">${escapeHtml(book.title)}</h3>
                     <div class="card-author">${escapeHtml(book.author)}</div>
+                    ${renderGoodreadsRating(book.rating)}
                   </div>
                 </div>
 
@@ -898,6 +972,27 @@
             </div>
             <h1 class="detail-title">${escapeHtml(book.title)}</h1>
             <div class="detail-original-title">${escapeHtml(book.originalTitle)}</div>
+
+            <!-- Goodreads Rating & Awards Showcase -->
+            ${(book.rating || (Array.isArray(book.awards) && book.awards.length > 0)) ? `
+              <div class="detail-rating-awards-box">
+                ${book.rating ? `
+                  <div class="detail-rating-line">
+                    ${renderGoodreadsRating(book.rating, { layout: 'detail', size: 16, gap: 2.5 })}
+                  </div>
+                ` : ''}
+                ${(Array.isArray(book.awards) && book.awards.length > 0) ? `
+                  <div class="detail-awards-wrap">
+                    ${book.awards.map(award => `
+                      <div class="detail-award-badge" title="${escapeHtml(award)}">
+                        <span class="award-trophy">🏆</span>
+                        <span class="award-text">${escapeHtml(award)}</span>
+                      </div>
+                    `).join('')}
+                  </div>
+                ` : ''}
+              </div>
+            ` : ''}
 
             <div class="detail-specs-grid">
               <div class="spec-item">
