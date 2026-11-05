@@ -279,7 +279,7 @@
       "Bí ẩn",
       "Kỳ ảo"
     ],
-    "publishedAt": "2024-10-15"
+    "publishedAt": "2026-11-03"
   },
   {
     "id": "mam-mong-tha-hoa",
@@ -650,7 +650,7 @@
       "Kỳ ảo",
       "Chính trị"
     ],
-    "publishedAt": "2026-10-20"
+    "publishedAt": "2026-11-03"
   },
   {
     "id": "thuong-vu-mau",
@@ -900,7 +900,7 @@
       "Trinh thám",
       "Hành động"
     ],
-    "publishedAt": "2026-10-28"
+    "publishedAt": "2026-11-03"
   },
   {
     "id": "mr-yay",
@@ -1402,7 +1402,7 @@
         "path": "content/books/mr-yay/chuong-79.md"
       }
     ],
-    "publishedAt": "2026-10-31"
+    "publishedAt": "2026-11-04"
   },
   {
     "id": "bay-cong-thuc-lam-nen-cach-mang",
@@ -1826,7 +1826,7 @@
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-66.md"
       }
     ],
-    "publishedAt": "2026-11-02"
+    "publishedAt": "2026-11-04"
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
