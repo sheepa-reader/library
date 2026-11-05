@@ -4309,5 +4309,371 @@
     "awards": [
       "Đề cử Goodreads Choice Award - Hạng mục Kỳ Ảo"
     ]
+  },
+  {
+    "id": "dom-lua-trong-bong-dem",
+    "title": "Đốm Lửa Trong Bóng Đêm",
+    "originalTitle": "A Flicker in the Dark",
+    "series": "",
+    "volume": "",
+    "author": "Stacy Willingham",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Trinh thám • Bí ẩn • Giật gân",
+    "tags": [
+      "Trinh thám",
+      "Bí ẩn",
+      "Giật gân"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/dom-lua-trong-bong-dem/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Năm Chloe Davis mới mười hai tuổi, thị trấn nhỏ của cô ở Louisiana rung chuyển khi sáu bé gái tuổi teen mất tích và chính cha cô đã thú nhận mình là kẻ sát nhân hàng loạt phải lãnh án tù chung thân. Hai mươi năm sau, Chloe đã trở thành một chuyên gia tâm lý học lâm sàng tại Baton Rouge, chuẩn bị kết hôn và ngỡ như đã chôn chặt được bóng ma quá khứ bằng thuốc an thần cùng rượu. Thế nhưng, bi kịch một lần nữa tái diễn khi một cô gái vị thành niên ở địa phương biến mất với những dấu hiệu tương đồng kỳ lạ đến rợn người so với các vụ án năm xưa của cha cô. Liệu có một kẻ bắt chước bệnh hoạn đang rình rập, hay Chloe thực sự đang mất dần khả năng phân biệt giữa thực và ảo do chứng hoang tưởng đeo bám? Từng trang sách cuốn người đọc vào mê cung của sự hoài nghi, nơi không một ai — kể cả bản thân Chloe — là hoàn toàn vô tội.",
+    "downloads": {
+      "epub": "content/downloads/dom-lua-trong-bong-dem.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Introduction",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời đề tặng",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Introduction",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "MỞ ĐẦU",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-4.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-5",
+        "title": "CHƯƠNG 1",
+        "part": "THÁNG NĂM, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "CHƯƠNG 2",
+        "part": "THÁNG NĂM, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "CHƯƠNG 3",
+        "part": "THÁNG NĂM, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "CHƯƠNG 4",
+        "part": "THÁNG NĂM, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "CHƯƠNG 5",
+        "part": "THÁNG NĂM, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "CHƯƠNG 6",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "CHƯƠNG 7",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "CHƯƠNG 8",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "CHƯƠNG 9",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "CHƯƠNG 10",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "CHƯƠNG 11",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "CHƯƠNG 12",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "CHƯƠNG 13",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "CHƯƠNG 14",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "CHƯƠNG 15",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "CHƯƠNG 16",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "CHƯƠNG 17",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "CHƯƠNG 18",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "CHƯƠNG 19",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "CHƯƠNG 20",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "CHƯƠNG 21",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "CHƯƠNG 22",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "CHƯƠNG 23",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "CHƯƠNG 24",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "CHƯƠNG 25",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "CHƯƠNG 26",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "CHƯƠNG 27",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "CHƯƠNG 28",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "CHƯƠNG 29",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "CHƯƠNG 30",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "CHƯƠNG 31",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "CHƯƠNG 32",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "CHƯƠNG 33",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "CHƯƠNG 34",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "CHƯƠNG 35",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "CHƯƠNG 36",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "CHƯƠNG 37",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "CHƯƠNG 38",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "CHƯƠNG 39",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "CHƯƠNG 40",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "CHƯƠNG 41",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "CHƯƠNG 42",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "CHƯƠNG 43",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "CHƯƠNG 44",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "CHƯƠNG 45",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "CHƯƠNG 46",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "CHƯƠNG 47",
+        "part": "THÁNG SÁU, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "CHƯƠNG 48",
+        "part": "THÁNG BẢY, 2019",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "LỜI CẢM ƠN",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-53.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-54",
+        "title": "CHÚ THÍCH",
+        "part": "",
+        "path": "content/books/dom-lua-trong-bong-dem/chuong-54.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-05",
+    "rating": {
+      "score": 3.96,
+      "count": "657.7k"
+    },
+    "awards": [
+      "Đề cử Goodreads Choice Award ◈ Hạng mục Bí Ẩn & Giật Gân",
+      "Đề cử Goodreads Choice Award cho tiểu thuyết đầu tay"
+    ]
   }
 ]
