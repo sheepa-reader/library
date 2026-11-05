@@ -1676,6 +1676,23 @@ button {
   clear: both;
 }
 
+/* Khóa cứng Drop Cap cho các chương đặc biệt (Lời đề tặng, Giới thiệu, Lời bạt, Ghi chú...) */
+.reader-content.dropcap-locked p.has-dropcap::first-letter,
+.reader-content.dropcap-locked ::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-shadow: none !important;
+  color: inherit !important;
+}
+
+.reader-content.dropcap-locked p.has-dropcap::after {
+  display: inline !important;
+}
+
 .reader-content blockquote {
   border-left: 3px solid var(--text-tertiary);
   padding-left: 1.25rem;

@@ -380,9 +380,31 @@
     }
   }
 
+  // --- DROP CAP LOCK HELPER ---
+  // Kiểm tra xem chương này có bị khóa cứng không dùng Drop Cap hay không
+  function isChapterDropCapLocked(chapter) {
+    if (!chapter) return false;
+    // 1. Cài đặt tường minh theo metadata của chương
+    if (chapter.noDropcap !== undefined) return Boolean(chapter.noDropcap);
+    if (chapter.dropCap !== undefined) return !chapter.dropCap;
+
+    // 2. Tự động nhận diện các trang đặc biệt: Lời đề tặng, Giới thiệu, Lời bạt, Ghi chú, Đánh giá...
+    const title = (chapter.title || '').trim().toLowerCase();
+    const lockedPatterns = [
+      /lời\s*đề\s*tặng/i,
+      /^đề\s*tặng/i,
+      /lời\s*(?:nói\s*đầu|tựa|mở\s*đầu|bạt|cảm\s*ơn|khen\s*tặng)/i,
+      /^(?:giới\s*thiệu|đánh\s*giá|review|thành\s*tích|về\s*tác\s*giả|tác\s*giả|đôi\s*nét\s*về\s*tác\s*giả)/i,
+      /^(?:ghi\s*chú|bản\s*đồ|mục\s*lục|nhân\s*vật|dramatis)/i,
+      /^(?:dedication|acknowledg|preface|foreword|epigraph|about\s+the\s+author)/i
+    ];
+    return lockedPatterns.some(regex => regex.test(title));
+  }
+
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
-  function parseMarkdown(mdText) {
+  function parseMarkdown(mdText, chapter = null) {
     if (!mdText) return '';
+    const isDropCapLocked = isChapterDropCapLocked(chapter);
     let text = mdText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 
     // 1. Tự động khắc phục lỗi ngắt rơi số chương (ví dụ 'CHƯƠNG\n2' -> 'CHƯƠNG 2')
@@ -483,10 +505,10 @@
         }
       }
 
-      // First narrative body paragraph gets drop cap
+      // First narrative body paragraph gets drop cap (trừ khi chương bị khóa cứng không dropcap)
       foundFirstNarrative = true;
 
-      if (!hasAssignedDropCap) {
+      if (!hasAssignedDropCap && !isDropCapLocked) {
         hasAssignedDropCap = true;
         return `<p class="has-dropcap">${line.replace(/\n/g, '<br/>')}</p>`;
       }
@@ -1082,6 +1104,7 @@
 
     const prevChapter = chapterIndex > 0 ? book.chapters[chapterIndex - 1] : null;
     const nextChapter = chapterIndex < book.chapters.length - 1 ? book.chapters[chapterIndex + 1] : null;
+    const isDropCapLocked = isChapterDropCapLocked(chapter);
 
     // Load Chapter Markdown Content
     let contentHtml = '<p>Đang tải nội dung chương...</p>';
@@ -1089,7 +1112,7 @@
       const res = await fetch(chapter.path);
       if (res.ok) {
         const mdText = await res.text();
-        contentHtml = parseMarkdown(mdText);
+        contentHtml = parseMarkdown(mdText, chapter);
       } else {
         contentHtml = `<p>Không thể tải nội dung file ${chapter.path}. Vui lòng thử lại sau.</p>`;
       }
@@ -1154,7 +1177,7 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
-          <article class="reader-content ${readerSettings.dropCap ? 'enable-dropcap' : ''}" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
+          <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''}" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
             ${contentHtml}
           </article>
 
@@ -1225,10 +1248,18 @@
           </div>
           <div class="setting-row">
             <span>Đầu chương:</span>
-            <div class="btn-group">
-              <button class="btn-group-item ${readerSettings.dropCap ? 'active' : ''}" id="dropcap-on-btn" title="Bật chữ hoa đầu chương phóng to nghệ thuật">Drop Cap</button>
-              <button class="btn-group-item ${!readerSettings.dropCap ? 'active' : ''}" id="dropcap-off-btn" title="Chữ thường chuẩn">Thường</button>
-            </div>
+            ${isDropCapLocked ? `
+              <div class="btn-group" title="Chương này đã được khóa cố định: không sử dụng Drop Cap">
+                <span class="btn-group-item disabled active" style="font-size: 0.76rem; opacity: 0.88; cursor: not-allowed; display: inline-flex; align-items: center; gap: 0.3rem; background: var(--bg-hover);">
+                  🔒 Khóa (Không Drop Cap)
+                </span>
+              </div>
+            ` : `
+              <div class="btn-group">
+                <button class="btn-group-item ${readerSettings.dropCap ? 'active' : ''}" id="dropcap-on-btn" title="Bật chữ hoa đầu chương phóng to nghệ thuật">Drop Cap</button>
+                <button class="btn-group-item ${!readerSettings.dropCap ? 'active' : ''}" id="dropcap-off-btn" title="Chữ thường chuẩn">Thường</button>
+              </div>
+            `}
           </div>
         </div>
       </div>
@@ -1348,7 +1379,7 @@
     // Drop Cap Controls
     const dropCapOnBtn = document.getElementById('dropcap-on-btn');
     const dropCapOffBtn = document.getElementById('dropcap-off-btn');
-    if (dropCapOnBtn && dropCapOffBtn && readerBody) {
+    if (!isDropCapLocked && dropCapOnBtn && dropCapOffBtn && readerBody) {
       dropCapOnBtn.addEventListener('click', () => {
         readerSettings.dropCap = true;
         localStorage.setItem('sheepa_reader_dropcap', 'true');
