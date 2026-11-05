@@ -1,171 +1,185 @@
-# Bày biện bàn ăn
+# 1 Xưởng Của Nhà Vua
 
-Trước khi trở thành Paprick Đồ Tể, anh chỉ là Paprick, một người thợ xẻ thịt. Chưa phải thợ chính thức, anh vẫn chỉ là kẻ học việc - một cậu bé nông thôn bình thường ký khế ước bán thân cho xưởng mổ, ngày ngày xẻ những tảng sườn quái thú bò mộng emphon to như bò rừng thành từng dải thịt và miếng bít tết. Chẳng trách anh lại trở thành Đồ Tể. Xưởng mổ của Nhà Vua vốn chỉ làm ra duy nhất một thứ: thịt.
+*Món Thứ Nhất • Hương Vị Đầu Tiên*
 
-  
-
-Và Paprick đã đoạt lấy phần xương thịt của riêng mình.
+Những sinh vật khổng lồ quái dị mà giới Thượng Phẩm gọi là quái thú bò mộng Emphon, còn tầng lớp Thứ Phẩm gọi là quái thú Bò sát Carnephon, cho ra bảy phần thịt chính khi còn sống, và tám phần khi đã chết.
 
   
 
-Dù điều đó chẳng mang lại kết cục tốt đẹp gì.
+Với thân phận đồ tể tập sự, tôi bị phân công xử lý phần bắp chân. Đó là một tảng thịt dai nhách, tồi tệ nằm ngay phía trước phần ức. Vừa khô khốc, vừa chằng chịt gân guốc, thứ thịt ấy hầu như chẳng thể nuốt nổi nếu không đem ninh hầm thật kỹ. Thế nhưng, các đồ tể bậc thầy tống tôi vào vị trí đó không phải vì tảng thịt ấy cứng cựa như vỏ cây còn tôi thì thạo dùng rìu. Vinh dự xẻ phần bắp chân thuộc về tôi đơn giản chỉ vì con quái thú này là sinh vật ăn thịt nặng bốn mươi tấn, dài đến hai mươi mét tính từ bộ móng vảy cho tới bờ vai phủ lông vũ, và việc xẻ thịt phần cẳng chân trước của nó chẳng khiến những chiếc răng nanh dài như lưỡi kiếm kia dễ chịu chút nào. Thà để một thằng nhóc Thứ Phẩm gầy gò mười sáu tuổi vừa ký khế ước lao dịch bị nuốt chửng, còn hơn là mất đi một kẻ biết cách pha tảng thăn ngoại hảo hạng.
 
   
 
-“Các tội danh gồm có,” tên đao phủ đứng cạnh vị nữ hoàng trẻ tuổi dõng dạc đọc lớn, giọng gã vang rền trước biển người đặc quánh. “Ba tội phản quốc, bốn trăm tội giết người, một tội báng bổ, bảy tội gián điệp, một tội thí quân, và…” Nụ cười khinh bỉ của gã hướng lên xà treo cổ, nơi gã Đồ Tể đang bị trói chặt hai cổ tay và treo lơ lửng, giãy giụa như con cá mắc câu trên đường phố cách đó hơn hai mươi mét. “Hai tội ăn thịt đồng loại.”
+Vào cái ngày chị Meg nghỉ việc, tôi leo lên chiếc thang gắn chặt vào bộ khung xương của quái thú Bò sát Carnephon, nhọc nhằn kéo theo cây đao cưa đồ tể sau lưng. Đó là một công cụ xẻ thịt dài bằng cả chân tôi và nặng gấp đôi thế. Đây chẳng phải con dao bếp tinh tế gì, mà là một sự lai tạp quái gở giữa gươm và rìu, chỉ còn gợi chút nét tương đồng với dao phay đồ tể nhờ phiến lưỡi hình chữ nhật. Chiều dài của nó giữ cho phần lưỡi đang bọc trong bao cách xa tay cầm cưa tôi đang nắm, nhưng vóc dáng cao kều của tôi lại khiến khối kim loại nặng trịch cứ đập liên hồi vào bắp chân tôi theo từng bậc thang. Trải qua một mùa làm việc ở đây, những vết bầm tím cứ đau nhức khôn nguôi mỗi khi tôi dồn trọng lượng cơ thể để trèo lên. Dẫu vậy, thà chịu đựng nỗi đau ấy còn hơn là để roi vọt quất vào lưng, một mục tiêu quá lộ liễu và dễ nhắm tới, hoặc tệ hơn là bị phạt cộng thêm thời hạn vào khế ước lao dịch vì tội lười biếng.
 
   
 
-Lưu trữ viên Pháp luật mẫn cán ghi chép các tội danh vào sổ, trong khi đám đông bên dưới không ngừng la ó, gầm rú trong một cuộc xung đột gay gắt về tư tưởng. Theo nhận định của nữ lưu trữ viên, có quá nhiều kẻ chống đối gã Đồ Tể đã trà trộn cùng phe hoàng gia trên quảng trường, khiến phán quyết của Nữ hoàng khó lòng được bảo đảm tuyệt đối. Nhưng bản chất của đám đông muôn đời vẫn vậy, và kẻ nắm quyền cai trị khi ấy chưa đủ uy thế để cấm cản họ.
+Bệ làm việc của tôi nằm phía trên vòng đai trước của bộ dây treo, thứ giữ cho con quái thú lơ lửng bên trên mặt đất bằng loại da thuộc lấy từ một trong những tổ tiên đã chết từ lâu của nó. Đến khi lên tới nơi, hơi thở hổn hển của tôi đã làm mờ cả khe hở ở miệng trên bộ đồ đồ tể trùm kín từ đầu đến chân. Nhiệt độ nơi đây lạnh buốt bởi những khối băng nhập khẩu đang tan chậm dọc theo các bức tường xưởng. Tôi hít không khí qua mũi, lập tức ngửi thấy mùi tanh tưởi của kim loại hòa lẫn nội tạng. Nhiều tháng làm việc đã bào mòn các giác quan, khiến tôi dần tê dại, nhưng vào vài tuần đầu tiên, nơi này từng là một cuộc chiến dai dẳng nhằm kìm nén cơn buồn nôn chực trào khỏi dạ dày.
 
   
 
-“Đồ Tể,” Nữ hoàng lên tiếng khi đám đông dần trật tự, “ngươi nhận tội thế nào?”
+Mấy gã đồ tể tập sự được lòng cấp trên đang xẻ vào phần ức ở phía bên trái tôi, cách tôi chỉ chừng một tầm ném đá bên dưới, khiến máu tươi bắn tung tóe xuống mặt sàn. Bessa, phải, tôi đã đặt tên cho nó như thế, khẽ run rẩy trong cơn đau đớn cùng cực khi lưỡi cưa của họ ngập sâu vào thân thể nó. Trời vẫn còn sớm nên tiếng gầm của nó còn yếu ớt, nghẹn lại tận đáy phổi, nhưng vị trí đứng ở phần bắp chân giúp tôi cảm nhận rất rõ sự đau đớn của nó, ngay sát bên nhịp đập hoảng loạn từ lồng ngực sinh vật này.
 
   
 
-Hàng ngàn con mắt đổ dồn lên tầng cao nhất của tòa nhà bốn tầng, nơi gã Đồ Tể gầy gò đang bị treo lơ lửng. Anh vốn dĩ luôn gầy guộc, nhưng chuỗi ngày bị giam cầm đã vắt kiệt sức lực, biến anh thành một bộ xương khô quắt tựa sợi dây thừng. Mái tóc anh rũ rượi vì lâu ngày không được cắt tỉa, hoàn toàn trái ngược với kiểu đầu gọn gàng anh thường thích. Lồng ngực để trần hằn lên những mảng bầm tím và sẹo chằng chịt, đan xen dữ dội chẳng khác nào những hình xăm trên cánh tay. Thiếu đi chiếc tạp dề cùng thanh đao cưa đồ tể quen thuộc, anh gần như trần trụi. Thế nhưng, giọng nói của anh cất lên vẫn vang dội như sấm truyền:
+“Tao xin lỗi mày,” tôi thì thầm, đặt bàn tay rảnh rỗi lên lớp vảy của nó trong lúc lấy lại nhịp thở.
 
   
 
-“Đó không phải là danh xưng của tôi.”
+Nếu bật nhảy lên, tôi đã có thể chạm tới những sợi lông vũ ánh sắc hồng lẫn xanh lục vẫn đang khẽ rung giật trên mảng vảy vai của nó. Thế nhưng, đám thợ nhổ lông đã dọn sạch lông khỏi lớp da bên ngoài để thợ xẻ thịt dễ dàng nhận ra hướng đi của thớ vảy. Khi bị vặt sạch lông, trông nó giống loài bò hơn là bò sát, dù thực tế nó chẳng thuộc về giống loài nào trong hai loài đó. Dù sở hữu hình dáng tổng thể tương tự như bò ở Olearth, nhưng sữa của nó lại tiết ra từ các túi nằm phía trên cặp răng nanh nhọn hoắt thay vì từ bầu vú. Bà ngoại từng bảo tôi rằng loài bò làm gì có móng vuốt dài bằng cả người thật ở chân trước, chúng chỉ có móng guốc giống như móng ở chân sau của Bessa mà thôi.
 
   
 
-Cơn ớn lạnh vì kinh ngạc chạy dọc sống lưng nữ lưu trữ viên. Tiếng nói của gã Đồ Tể rung chuyển cùng Sức bền ma thuật, bất chấp việc anh đang bị những kẻ giam cầm bỏ đói. Đối với bầy đàn trung thành của anh, thứ ma thuật ấy là một bữa tiệc đầy cảm hứng. Những tiếng hô vang dội truyền qua đám đông tựa tiếng vó guốc rầm rập của loài bò đực Emphon, làm rung chuyển cả những dãy nhà chung cư xung quanh khi những người ủng hộ cùng dậm chân tỏ lòng đồng thuận:
+Một bàn tay vỗ nhẹ vào chân tôi, thế là tôi nhích người nhường chỗ cho người hướng dẫn bước lên giàn giáo. Trong bộ đồ đồ tể kín mít, chị Meg trông chẳng khác nào một con búp bê cao su không rõ nét mặt. Chị thấp hơn tôi hai cái đầu nhưng vai và hông lại nở nang, lực lưỡng. Chị sở hữu sức mạnh đáng kinh ngạc, vung vẩy chiếc cưa phẳng nhẹ tựa lông hồng. Thứ công cụ này tương tự như đao cưa đồ tể của tôi, nhưng mỏng hơn và được vát góc tựa như một con dao gọt hoa quả cỡ lớn. Nó vô cùng hoàn hảo để lách xuống dưới lớp vảy không thể ăn được và lạng sạch chúng ra khỏi phần cơ. Theo lời mọi người, chị là người thợ đồ tể giỏi nhất Vương quốc Panchon ở độ tuổi của mình, nhưng điều đó chỉ càng khiến đám giám sát thêm phần ghét bỏ chị, và đó cũng là lý do vì sao chị bị phân công kèm cặp một kẻ như tôi.
 
   
 
-“Vua Đầu Bếp! Vua Đầu Bếp! Vua Đầu Bếp!”
+“Mày còn chờ gì nữa?” Chị hỏi.
 
   
 
-“Đủ rồi!” Nữ hoàng quát lớn, lời nói của cô mang theo Sức bền ma thuật còn áp đảo hơn cả anh.
+Tôi nhăn mặt, thừa biết chị chẳng thể nhìn thấy biểu cảm của mình sau lớp mặt nạ. *Xuống dao xẻ thịt Bessa chưa bao giờ là việc tôi làm qua quýt.* Nghe có vẻ báng bổ, tôi biết chứ, nhưng tôi không muốn quái thú Emphon nghĩ rằng tôi cố tình làm tổn thương nó vì ác ý. Tôi luôn dành ra một khoảnh khắc tĩnh lặng bên nó, thầm cảm tạ nguồn thịt dồi dào mà nó sắp ban tặng.
 
   
 
-Những tiếng hô lịm dần rồi tắt hẳn; mệnh lệnh ma thuật sắc bén tựa nanh vuốt của cô lập tức đè bẹp tất cả. Ngay cả bàn chân đang nhịp nhịp đầy sốt ruột của nữ lưu trữ viên cũng phải khựng lại trong thoáng chốc trước uy quyền tối thượng. Nhưng vẫn còn một giọng nói không chịu khuất phục trước mệnh lệnh ấy.
+“Em biết chị thích nhát xẻ đầu tiên mà,” tôi nói đùa.
 
   
 
-“Tôi chấp nhận các tội danh này,” gã Đồ Tể cất tiếng, “nhưng không chấp nhận căn cứ hay những kẻ buộc tội tôi. Tôi yêu cầu được thực hiện Nghi lễ.”
+“Mau vào vị trí đi, trước khi chúng ta bị trừ lương.”
 
   
 
-Ngòi bút của nữ lưu trữ viên sững lại. Cô không ngờ gã Đồ Tể lại am tường những bộ luật mà chính anh từng đứng lên tiêu diệt đến thế. Hàng loạt cái đầu trên bục cao ngoảnh qua ngoảnh lại giữa Nữ hoàng và gã Đồ Tể. Làn sóng bất bình theo cơn gió xuân ẩm ướt lan rộng khi những kẻ ủng hộ, như được tiếp thêm dũng khí, bắt đầu buông lời báng bổ vị quân chủ của mình, gào thét cổ vũ cho thần tượng.
+Tôi còn chưa kịp nhúc nhích, chị Meg đã nhấc chiếc cưa phẳng lên, đặt vuông góc với thớ vảy. Chị khẽ càu nhàu một tiếng rồi bắt đầu lách lưỡi cưa vào giữa lớp vảy và thớ cơ. Máu bắn tung tóe qua khe hở của lớp mặt nạ, tràn cả vào miệng tôi.
 
   
 
-“Hãy chấp thuận yêu cầu của anh ấy đi, đồ đạo đức giả ăn thịt đồng loại!” một người thuộc tầng lớp Thứ Phẩm lẻn vào giữa hàng ghế đầu của giới quý tộc Thượng Phẩm hét lớn. Cô ta lập tức bị lôi xềnh xệch đi một cách tàn nhẫn.
+“Thằng lính mới chết tiệt,” chị Meg chửi thề khi tôi nhổ bớt ngụm máu tanh ra ngoài.
 
   
 
-“Ngươi vin vào thẩm quyền của ai mà dám thốt ra lời ngu xuẩn đó?” tên đao phủ gắt gỏng, tiếng hắn lấn át cả làn sóng ủng hộ đang cuộn trào trong đám đông. “Ngươi chẳng còn bằng chứng nào để chứng minh dòng máu Thượng Phẩm của mình nữa đâu!”
+Suốt mấy tuần qua, người hướng dẫn ngày càng đánh mất dáng dấp người bạn tôi từng ngưỡng mộ thuở thiếu thời. Chị càng lúc càng gắt gỏng khi ngày sinh nhật mười tám tuổi đang cận kề, mang theo tất cả những gánh nặng và hệ lụy của nó. Thế nhưng, việc cố tình để máu bắn vào người tôi thì lại chẳng giống tính cách của chị chút nào.
 
   
 
-Đó là câu trả lời mà Đồ Tể không thể đưa ra, và ai nấy đều hiểu rõ điều đó. Ngọn lửa nhiệt huyết của đám đông lụi tàn dần theo từng khắc trôi qua, trong khi những nụ cười đắc thắng trên bục cao lại bắt đầu rạng rỡ.
+“Có chuyện gì vậy chị?” Tôi gặng hỏi trong lúc lách người vào vị trí, nắm lấy mảng vảy chị đang xẻ nhằm kéo nó tách dần khỏi thân Bessa theo từng đường cưa lấn sâu. Khi chị cưa được nửa tấm vảy, tôi sẽ phải đỡ lấy trọng lượng của nó để mảng sừng không bị bửa ra đột ngột làm nát phần thịt bên dưới.
 
   
 
-“Vậy thì…” tên đao phủ cất lời.
+“Có chuyện gì ư?” Giọng chị sặc mùi mỉa mai khi lưỡi cưa lách sâu hơn và nhanh hơn. Quy chuẩn đòi hỏi chị phải lạng từng đường thật chậm rãi thay vì nghiến cưa thô bạo, cốt để bóc mảng vảy ra một cách êm thuận. Tiếp đó, tôi sẽ thế chỗ chị cùng chiếc đao cưa đồ tể, rạch sâu vào các mô cơ từ bên ngoài rồi lách sát tận xương để cả hai có thể nương theo đó lột sạch khối thịt thăn vận động, giữ trọn vẹn hương vị đậm đà nơi từng thớ gân.
 
   
 
-“Của tôi,” nữ lưu trữ viên ngắt lời một cách yếu ớt, gượng gạo ép từng chữ thoát ra khỏi cần cổ ngập ngừng.
+*Róc ngọt và chuẩn xác, cứ như thể công việc ấy chẳng hề rút kiệt hàng lít máu từ một sinh mạng còn đang thở.*
 
   
 
-Hàng ngàn ánh nhìn mang theo sức nặng tựa cú húc của một con Emphon đực hung hãn giáng thẳng vào bụng nữ lưu trữ viên, khiến hơi thở âu lo của cô như bị vắt kiệt. Dưới muôn vàn ánh mắt dò xét ấy, cô chỉ muốn chui tọt xuống gầm bàn mà biến mất; để bảo toàn khối gia sản cùng cuộc sống an yên mà sự phục tùng đã mang lại suốt một thập kỷ qua. Thế nhưng, sự thật phát ra từ Đồ Tể lại là một mỹ vị chưa từng có tiền lệ.
+Thế nhưng chị Meg đang nổi giận, và chị chẳng buồn bận tâm đến quy trình.
 
   
 
-“Tôi muốn nghe trực tiếp từ miệng Đồ tể.” Giọng nữ Lưu trữ viên chỉ vừa đủ để những hàng đầu của đám đông, Hội Đồng Phán Quyết, tên đao phủ và chính Nữ hoàng nghe thấy, nhưng âm hưởng của lời phản bội ấy lại vang dội tới tận những đứa trẻ đang đứng trên các thùng thịt thối rữa tít phía sau cùng. Những tiếng reo hò bùng lên, tức thì và chấn động như một cơn địa chấn.
+Chị Meg dồn sức đôi vai, tống mạnh lưỡi cưa xuyên qua lớp biểu bì vảy cứng như đá của Bessa, găm sâu vào thớ thịt chân bì bên dưới. Máu động mạch tươi rói rít lên xé gió, trút xuống như mưa lên người chúng tôi, lên giàn giáo và hàng chục thợ mổ khác đang xẻ dọc xẻ ngang thân xác khổng lồ của con thú. Hàng lít máu tuôn trào từ cơ thể nó mỗi khoảnh khắc cũng chỉ tựa như vết đốt của lũ côn trùng ký sinh. Lượng máu đủ để tước đoạt mạng sống của bất kỳ ai trong chúng tôi chỉ trong chớp mắt lại chẳng mảy may khiến nó bận lòng. Thế nhưng, tình trạng mất máu dồn dập rồi cũng sẽ quật ngã cả một sinh thể bán thần cao hai mươi mét, nếu lượng máu thất thoát không được bù đắp chuẩn xác bằng hỗn hợp giả kim thuật mà các đốc công đang liên tục bơm thẳng vào cột sống, dạ dày và thận của nó.
 
   
 
-Đám đông đã trông đợi kết cục này. Đó là một niềm tin kỳ lạ đến khó tin, bởi chỉ vài giây trước đó, nữ Lưu trữ viên vẫn chưa hề đưa ra quyết định, và cả Đồ tể lẫn những kẻ cùng hội cùng thuyền với anh cũng chẳng thể biết liệu cô có làm vậy hay không. Hoàn toàn không có gì chắc chắn, nhất là khi phán quyết ấy lại đến từ chính kẻ từng kết án tử cho gia đình Đồ tể.
+Đường cưa sai phạm của chị Meg đã phá vỡ thế cân bằng mong manh ấy. Toàn thân Bessa rung chuyển dữ dội, giật căng những khung giàn giáo đang neo chặt vào xương nó. Tiếng gỗ nứt toác vang lên rợn người ngay dưới chân chúng tôi. Tôi vội chộp lấy thanh lan can, nhưng lớp máu trơn nhẫy khiến tôi trượt chân, đầu gối khuỵu xuống đau nhói. Bàn tay chị Meg kịp lao tới, nắm chặt lấy cẳng tay tôi trước khi tôi rơi tõm qua gờ vực.
 
   
 
-Dẫu vậy.
+Bất thình lình, Bessa nằm im trở lại; đội ngũ giả kim thuật đã kịp thời gia giảm liều lượng dung dịch để kiểm soát sự cố. Từ giàn giáo cao hai mươi mét phía trên, một tên giám thị rọi luồng đèn sáng quắc vào vòi máu đang tuôn trào rồi lao vụt tới như chim kền kền đánh hơi thấy xác chết.
 
   
 
-Khi những tiếng hô đồng thanh dâng lên đến đỉnh điểm, hiếm ai nghe thấy lời phân trần tiếp theo của nữ Lưu trữ viên: “Hắn biết thứ đó ở đâu.” Nhưng Nữ hoàng thì nghe thấy, và cơn thịnh nộ của cô ta bốc lên đỏ rực tựa thứ ớt bột paprika được dùng để đặt tên cho Đồ tể Paprick. Ánh nhìn tràn ngập ma thuật của bà ta tưởng chừng có thể thiêu rụi cả bục cao trong ngọn lửa giận dữ tột cùng. “Được thôi.”
+“Làm đứt động mạch rồi!” Tên giám thị gầm lên. “Trừ lương thợ mổ Meg và học việc Paprick!”
 
   
 
-Một làn sóng sức mạnh quét qua, xô mạnh khiến nữ Lưu trữ viên ngã dúi dụi vào chiếc ghế chực sụp đổ.
+“Đã ghi nhận, trừ ba phần trăm!” Một giọng khác vọng lại từ đằng xa.
 
   
 
-Một quý tộc Thượng Phẩm cao tuổi ở hàng đầu, vốn đã bị ép chặt giữa đám Thứ Phẩm sau lưng và hàng rào chắn tì sát mạn sườn, thở hắt ra rồi gục xuống lan can khi cùng một luồng sức mạnh ấy đánh trúng ông ta.
+Một khối bùn đen nhầy nhụa bắn phụt lên miệng vết thương. Ngay khoảnh khắc sau, một luồng hỏa lực bùng lên thiêu rụi khối bùn, hàn kín miệng vết cắt lại. Dấu vết này chứng tỏ trong hàng ngũ giám thị có cả Lính Mổ Xẻ thuộc Cục Phòng vệ Sức bền, lực lượng mật thám của nhà vua, đang thi triển ma thuật Sức bền.
 
   
 
-Đã cả chục lần nữ Lưu trữ viên ngồi vào bàn tiệc với tư cách khách mời của Nữ hoàng, và cả chục lần ấy cô đều có thể thề rằng người phụ nữ kia chẳng thể nào nuốt nổi lượng thức ăn khổng lồ cần thiết để thi triển nhiều ma thuật Bền Bỉ đến thế. Việc Nữ hoàng chè chén no say giữa nạn đói hiện tại chính là một lời tuyên bố vượt lên trên mọi ngôn từ.
+“Xem mày gây ra trò gì kìa!” Chị Meg hét lên, át cả tiếng gầm đớn đau của Bessa.
 
   
 
-Thế nhưng nữ Lưu trữ viên vẫn gượng dậy được, và tiếng gầm của đám đông bỗng trở nên cuồng loạn như thể quốc gia tráo trở này đã thực sự giành chiến thắng trong cuộc chiến. Giờ đây Nữ hoàng chẳng còn cách nào thoái thác, cơn giận dữ của cô dần chuyển thành nỗi thất vọng khôn nguôi: “Ngươi luôn đặt Chúa tể lên trên tổ quốc, và hôm nay điều đó sẽ hủy hoại ngươi. Khi tội trạng của hắn được chứng minh, ngươi sẽ phải chết cùng hắn.”
+“Em á? Em đã làm cái quái gì đâu!”
 
   
 
-“Hạ hắn xuống,” nữ Lưu trữ viên ra lệnh, làm như dửng dưng trước lời đe dọa.
+“Mày thì lúc nào chả thế! Mày có biết ba phần trăm đó đáng giá thế nào với tao không?”
 
   
 
-Đôi mắt nâu ti hí của tên đao phủ dõi tìm sắc vàng rực của ma thuật Bền Bỉ trong mắt Nữ hoàng. Không hề rời ánh nhìn khỏi nữ Lưu trữ viên, bà ta gật đầu. Dây ròng rọc rít lên kèn kẹt, và Đồ tể được hạ xuống với vẻ khoan thai chậm rãi tựa những thiên thần xứ Olearth. Mọi nỗi sợ từng len lỏi vào tâm can tầng lớp Thứ Phẩm đều bị thổi bùng tan biến. Đám đông vỡ òa trong cơn hân hoan tột cùng, xô đẩy tràn lên phía trước, chèn gãy xương sườn của hàng chục kẻ Thượng Phẩm đang bị ép chặt vào hàng rào.
+Tôi biết thừa. Nhưng tôi chẳng hơi đâu đi xin lỗi, nhất là cho một sai sót mà bản thân không hề gây ra. “Em đâu phải kẻ cầm cưa,” tôi đáp trả rồi gồng sức ghìm lại đường cưa khỏi tay chị, dồn toàn bộ trọng lượng cơ thể lên tấm vảy rồi bẩy ngược lên, ép lưỡi cưa trở về đúng góc độ tiêu chuẩn.
 
   
 
-Hỗn loạn bùng nổ.
+Lưỡi cưa phẳng lách nốt một mét cuối cùng về phía cổ chân tôi. Chị Meg hầm hừ giật phắt lưỡi cưa ra, nhường chỗ để tôi hất tấm vảy vừa tách rời rơi thẳng xuống hố phế phẩm và chất thải nhung nhúc phía dưới. Khi lớp vảy bong ra, khoảng một phần ba bắp chân trước của Bessa lộ ra, ướt đẫm sắc đỏ tươi của máu dưới ánh sáng tù mù từ những chùm đèn đỏ đục trong xưởng. Từng bó cơ to bằng cả bắp tay tôi đan chéo chằng chịt vào nhau, khẽ giật giật theo từng nhịp đập của hệ mao mạch.
 
   
 
-Người ta giẫm đạp, la hét. Tầng lớp Thứ Phẩm mở đường máu xông thẳng lên bục vinh danh của Nữ hoàng để châm lửa thiêu rụi. Khi được hộ tống đến nơi an toàn, người từng là nhà sử học và nay trở thành quan chấp pháp thầm tự hỏi liệu các sử gia tương lai sẽ nhìn nhận khoảnh khắc này như khởi đầu của cuộc nội chiến thứ hai, hay chỉ đơn thuần là hồi kết của một giai đoạn chuyển giao tăm tối.
+Lần đầu tiên chứng kiến cảnh tượng này, khối cơ bắp phô bày của Bessa đã khiến tôi hoàn toàn choáng ngợp. Cứ nghĩ đến thứ áp lực kinh hoàng từ trái tim nó đang bơm chuyển chừng ấy lượng máu, cái cách dòng máu ầm ầm cuộn trào, khựng lại rồi lại sục sôi gầm thét, tôi không khỏi rùng mình. Thế rồi, một thợ mổ bậc thầy trót làm rách một nhánh động mạch chỉ nhỏ cỡ bàn tay tôi, khiến máu phun xối xả lên đầu tất cả mọi người. Tôi nôn thốc nôn tháo ngay bên trong bộ đồ bảo hộ, dẫu đó là khi thao tác ở vùng thăn ngoại, nơi thớ thịt mềm mại đan xen những vệt mỡ cẩm thạch do ít phải vận động. Còn chiếc bắp chân trước này, dù đang bị trói chặt trong hệ thống dây da khổng lồ dùng để gông treo nó lên, vẫn là khối cơ bắp săn chắc, cuồn cuộn vì đã quen hoạt động không ngừng.
 
   
 
-Nhiều giờ sau, trong phòng giam bụi bặm nhuộm đỏ bởi ánh lửa ngùn ngụt bên ngoài cung điện, nữ Lưu trữ viên khẽ nhịp mũi chân, trĩu nặng mặc cảm trách nhiệm và thắc thỏm âu lo trước Nghi Lễ sắp sửa định đoạt sinh mạng của hai con người. Ngồi thẳng lưng trong tư thế mực thước chuẩn mực, cô cố tỏ ra tự tin rồi nhấc quản bút lên để bắt đầu.
+Chúng tôi còn phải gỡ thêm năm chiếc vảy nữa mới có thể róc được khúc bắp chân. Toàn bộ khối thịt này, nếu được mổ xẻ đúng quy chuẩn, sẽ đủ nuôi sống cả một đội quân trong một đến hai ngày. Và tôi nhất định sẽ đảm bảo đường cắt thật chuẩn xác. Chúng tôi vốn đã bị phạt trừ lương; nếu muốn có chút cơ hội trả bớt món nợ truyền kiếp đè nặng trên lưng từ thuở lọt lòng, khúc bắp này bắt buộc phải được xẻ ra thật sạch sẽ và nguyên vẹn.
 
   
 
-Về phần mình, Đồ tể uể oải tựa người sau chấn song sắt ngăn cách đôi bên, vẫn ngạo nghễ như mọi khi trong vẻ thản nhiên coi thường cái chết. Nữ Lưu trữ viên căm ghét thái độ ấy; hay đúng hơn, cô vẫn căm ghét anh: kẻ nồng nặc mùi ký ức, mùi mồ hôi, rau diếp xoăn và khói lửa.
+“Cưa đồ tể dính đầy máu rồi,” tôi cằn nhằn khi thấy lớp máu đông bết dính trong các đường rãnh nơi tay cầm. Tôi không phải kẻ mê dao đến mức ám ảnh việc giữ lưỡi cưa sạch bong hay đòi hỏi nhát cắt chuẩn xác tuyệt đối, nhưng tôi đủ khôn ngoan để hiểu rằng không nên cầm một dụng cụ xẻ thịt khổng lồ khi nó đang trơn tuột vì máu tươi. Trong lúc tôi còn đang lau chùi, chị Meg đã nhanh tay rút ra một con dao gấp nhỏ rồi lẹ làng xẻ ba lát thịt từ khối bắp khổng lồ. Không lát nào dài hay rộng hơn bàn tay tôi, nhưng mỗi miếng đều đáng giá vài trăm đồng vàng knuckle ngoài chợ đen, thậm chí còn đắt hơn nữa nếu biết cách tuồn cho quân phiến loạn.
 
   
 
-“Tôi biết cô sẽ cắn câu mà,” Đồ tể lên tiếng. Tính hiếu kỳ xưa nay vốn là điểm yếu của cô.
+“Em đã bảo là em không dính líu vào chuyện này rồi mà!” Tôi hạ giọng thì thầm, vội vã đứng chắn ngang tầm mắt của bất kỳ tên giám sát nào, hoặc tệ hơn là đám Lính Mổ Xẻ, những kẻ có thể nhìn thấy hành động của chị. “Làm sao chị mang được con dao đó vào đây thế hả?”
 
   
 
-“Tôi chẳng mấy bận tâm anh nghĩ gì về tôi đâu, Đồ tể.” Đó là một lời nói dối, và cả hai đều hiểu rõ. Nhưng đúng với bản tính của một đứa con được hai người mẹ nuôi nấng, Đồ tể mở ra một lối thoát cho nữ Lưu trữ viên thay vì vạch trần lời nói ấy.
+Chị Meg phớt lờ tôi, thản nhiên nhét lát thịt thứ tư vào chiếc túi bên trong tạp dề.
 
   
 
-“Đó không phải danh xưng của tôi,” anh tuyên bố.
+“Chúng sẽ phát hiện ra mất!” Tôi chộp lấy cổ tay chị Meg, nhưng chị đã chĩa thẳng mũi dao vào bụng tôi, giữ lưỡi dao ở tầm thấp khuất khỏi tầm mắt của đám người xung quanh.
 
   
 
-“Anh từng rất thích thú với danh xưng ấy, nhưng giờ anh lại tự xưng là Vua Đầu Bếp. Có điều gì thay đổi sao? Tôi nhớ anh từng ghét cay ghét đắng ý nghĩ mình có thể mang dòng máu hoàng gia.”
+“Meg,” tôi thận trọng nói, “chị giải thích cho em nghe xem nào. Mấy miếng thịt này chẳng bõ bèn gì so với món nợ khế ước lao dịch của chị đâu.”
 
   
 
-Đôi mắt ánh sắc vàng rực của ma thuật Bền Bỉ khẽ chớp dưới ánh đèn chép sách leo lét khi Đồ tể rướn người về phía trước. “Có hai loại người thuộc dòng dõi vương quyền: những kẻ sinh ra đã gánh chịu lời nguyền, và những kẻ dùng bạo lực để đoạt lấy vương quyền. Tôi chẳng thuộc loại nào cả.” Bóng tối phủ tràn lên những đường nét trên gương mặt đầy sẹo của Đồ tể khi màn đêm trong phòng giam lại nuốt trọn lấy anh, chỉ còn sót lại thứ ánh sáng vàng rực từ đôi mắt. “Và tôi cũng là cả hai.”
+“Tao lấy chúng đâu phải vì chuyện đó.”
 
   
 
-Nữ lưu trữ viên ngắm nhìn cái bóng của người đàn ông mà vài kẻ tin rằng đã gần chạm tới thần linh. Lời tuyên bố của anh có lẽ chứa đựng đôi phần chân lý, và thông qua Nghi Lễ, điều đó sẽ được chứng thực hoặc bị bác bỏ khi tất cả ngã ngũ. Thế nhưng còn có một điều trọng đại hơn nhiều ẩn chứa trong câu chuyện của gã Đồ Tể: bí mật về chính Sức bền ma thuật, và bí mật về nơi ngự trị của Đấng Tối Cao. Chẳng có mấy điều mà cô không dám mạo hiểm đánh đổi để ghi chép lại sự thật ấy, dẫu phải xới lại những vết thương chưa lành, dẫu phải đối diện với cái chết của những người mà cả hai từng yêu thương, hay thậm chí là một buổi hành quyết cận kề nếu gã Đồ Tể không thể chứng minh được sự vô tội của mình.
+“Thế thì tại sao? Chúng sẽ không chỉ phạt trừ tiền đâu, chị sẽ bị treo cổ trên xà thép đấy.”
 
   
 
-Song dẫn dụ gã Đồ Tể chịu tiết lộ điều đó sẽ chẳng phải chuyện dễ dàng; bởi thừa nhận điều ấy cũng đồng nghĩa với việc anh tự tay đóng dấu ấn tội lỗi lên chính bản thân.
+Chị không trả lời, chỉ lặng lẽ gập lưỡi dao lại rồi nhét vào đường rạch chị đã tạo sẵn trên chiếc găng tay cao su dày cộp.
 
   
 
-Phải, đây sẽ là một màn đấu trí xứng tầm giữa hai người từng là bạn hữu, cô tự nhủ, một cuộc đấu không thể phân định thắng thua trong chốc lát. Khi một tiếng nổ rền vang làm rung chuyển những bức tường phòng giam, như lời nhắc nhở rằng xung đột giữa hai người chỉ là một trong muôn vàn cuộc chiến ngoài kia, cô mở cuốn Sách Nghi Lễ ra một trang giấy trắng tinh.
+“Mày có muốn trở thành Đầu Bếp hay không hả, Pap?”
 
   
 
-“Vậy thì, bắt đầu từ những ngày đầu tiên,” cô cất giọng yêu cầu. “Xưởng của Nhà Vua. Cả Meg nữa.”
+Một luồng đèn rọi quét qua chỗ chúng tôi. “Ngừng việc! Trừ không phẩy không hai phần trăm!”
+
+  
+
+“Đã xác nhận, trừ không phẩy không hai, Meg và Paprick!”
+
+  
+
+Tôi nghiến răng gầm gừ trong cổ họng rồi vội vàng quay lại với chiếc cưa đồ tể của mình, lúng túng giơ nó lên vị trí cũ và vung bừa vài nhát xẻ để luồng đèn rọi dời đi chỗ khác. Muốn chạm tới xương một cách gọn gàng, tôi phải rướn người lên phần cao nhất của mảng vảy vừa bóc rồi đâm vào theo một góc chín mươi độ chuẩn xác. Máu tươi trút xối xả xuống người chúng tôi với lưu lượng và áp lực khủng khiếp đến mức tôi loạng choạng, trượt mất tay cầm. Chiếc cưa đồ tể rơi thẳng vào tảng cơ trần của Bessa, ngọt ngào xẻ đứt lớp thịt tựa như xắn qua một miếng phô mai dê.
+
+  
+
+*Và con quái thú rống lên.*
+
+  
+
+Quái thú Bò sát Carnephon khi ấy và cho đến tận bây giờ vẫn là niềm kiêu hãnh của người dân chúng tôi. Cặp đùi hộ pháp nâng đỡ một khung thân đồ sộ tựa bò rừng cùng chiếc cổ ngắn ken dày những thớ cơ vững chãi không kém. Mỗi bàn chân trước linh hoạt có bốn ngón, móng vuốt cứng như Endurium và sắc bén đủ để xé toạc cả những tấm thép dày. Cặp vó sau nặng trịch như những khối chì đúc. Một cú giẫm của nó không chỉ cướp đi sinh mạng một người mà còn nghiền nát xương tủy, dồn ép áp lực khiến máu vọt tung qua da như bong bóng nổ tung. Nhưng dù là móng vuốt hay guốc sắt, chẳng thứ gì đáng sợ đến mức khiếp hãi bằng cái đầu của nó: cặp sừng húc dài đủ để xiên cọc năm người đàn ông cùng lúc, cùng bốn chiếc răng nanh sắc hơn cả một chiếc cưa phẳng.
