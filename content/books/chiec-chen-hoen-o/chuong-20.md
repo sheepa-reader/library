@@ -20,7 +20,7 @@ Anh liếc nhìn, khóe môi nhếch lên. “Mệt rồi à?”
 
 “Vậy thì ghé vào trạm gác phía trước đi. Tôi cũng cần một ly ‘sốc nhiệt’ để tỉnh táo.”
 
-Anh dẫn tôi đến góc phố tiếp theo. Một chiếc lều bạt đen khổng lồ án ngữ ngay giữa lòng đường. Lính Quân đoàn kẻ mặc giáp chỉnh tề, kẻ xộc xệch, đi lại vật vờ trước lều. Dù tôi có vóc dáng cao ráo, nhưng đám lính này còn hộ pháp và đô con hơn nhiều, những kẻ được dung hợp sinh học cường hóa, đủ sức xé xác tôi bằng tay không. Nhưng khi Strovi đi qua, tất cả đều khựng lại, cúi đầu, áp tay lên xương quai xanh[11] chào đầy cung kính.
+Anh dẫn tôi đến góc phố tiếp theo. Một chiếc lều bạt đen khổng lồ án ngữ ngay giữa lòng đường. Lính Quân đoàn kẻ mặc giáp chỉnh tề, kẻ xộc xệch, đi lại vật vờ trước lều. Dù tôi có vóc dáng cao ráo, nhưng đám lính này còn hộ pháp và đô con hơn nhiều, những kẻ được dung hợp sinh học cường hóa, đủ sức xé xác tôi bằng tay không. Nhưng khi Strovi đi qua, tất cả đều khựng lại, cúi đầu, áp tay lên xương quai xanh chào đầy cung kính.
 
 Phía sau lều, một lò than rực đỏ tỏa hơi nóng hầm hập. Ba đứa trẻ ngồi xổm canh ngọn lửa và những ấm nước sôi sùng sục. Strovi giơ hai ngón tay. Lũ trẻ nhanh nhẹn rót hai tách trà, rồi từ hũ đất nung, chúng đong thêm một lượng rượu sot mạnh bằng đốt ngón tay vào mỗi tách.
 

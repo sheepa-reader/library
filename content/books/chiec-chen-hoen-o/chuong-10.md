@@ -30,13 +30,13 @@ Cuối cùng, cỗ xe bẻ lái vào một khúc cua gắt. Tôi nhoài người
 
 Cỗ xe nghiến bánh lọc cọc lao về phía trước. Cánh rừng già lùi dần ra sau tựa bức màn sân khấu kéo ra, phơi bày một bình nguyên xanh ngắt chìm trong màn sương mù dày đặc; và phía chân trời xa xăm kia chính là bờ biển.
 
-Tôi rút ống kính viễn vọng[6] bên hông, áp sát vào mắt rồi hướng thẳng về phía đông.
+Tôi rút ống kính viễn vọng bên hông, áp sát vào mắt rồi hướng thẳng về phía đông.
 
 Một vách đá màu xám phiến sừng sững xé toạc nền trời đỏ quạch như viền khung của một bức tranh tử khí. Mặt đá ướt sũng, bóng nhẫy, chằng chịt rêu phong và dây leo; và dọc theo một vết nứt thẳng đứng chẻ đôi vách đá, có thứ gì đó đang dịch chuyển. Thoạt nhìn, nó giống một sinh vật bò sát gớm ghiếc đang nhích từng tấc từ chân lên đỉnh đá một cách nặng nề.
 
 Tôi siết tiêu cự ống kính. Hình ảnh lập tức rõ nét: không phải côn trùng, mà là một lồng gỗ nâng đang được hệ thống ròng rọc kéo thẳng lên. Khi lồng chạm vào gờ đá kế tiếp, nó khựng lại, và những bóng người tí hon túa ra.
 
-Bốn con ngựa kéo gồng mình lôi một khẩu pháo cối[7] bằng thép sáng lạnh ra khỏi khoang lồng.
+Bốn con ngựa kéo gồng mình lôi một khẩu pháo cối bằng thép sáng lạnh ra khỏi khoang lồng.
 
 Tôi nheo mắt, khóa chặt tầm nhìn vào ống kính. Cái lồng nâng kia chẳng hề nhỏ bé: đó là hệ thống vận chuyển hạng nặng được thiết kế để đưa quân nhu và khí giới khổng lồ lên đỉnh tường biển cao ngút ngàn.
 

@@ -64,7 +64,7 @@ Tôi nhìn xuống bàn tay Ana. Các khớp ngón siết gắt đến trắng b
 
 Bà gật đầu dứt khoát. “Được rồi. Vậy hiện tại, thi thể của cha cô đang ở đâu?”
 
-“Ông ấy đã được hỏa táng[12] theo phong tục của chúng tôi,” Fayazi nói. “Tro cốt đang đặt tại sảnh đường, chờ đưa về nghĩa trang tổ tiên ở vòng thành thứ nhất. Tôi sẽ đi cùng để cử hành tang lễ trong vòng một tuần tới.”
+“Ông ấy đã được hỏa táng theo phong tục của chúng tôi,” Fayazi nói. “Tro cốt đang đặt tại sảnh đường, chờ đưa về nghĩa trang tổ tiên ở vòng thành thứ nhất. Tôi sẽ đi cùng để cử hành tang lễ trong vòng một tuần tới.”
 
 “Cô đã thiêu xác ông ta. Ngay lập tức.”
 

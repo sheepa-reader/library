@@ -50,6 +50,6 @@ Bà nhận ra sự thất vọng hiện rõ trên gương mặt tôi. “Có chu
 
 “Một đoàn… đoàn gì cơ, thưa Trưởng quan?”
 
-“Vũ công plaizaier,” bà gằn giọng. “Vũ công hoàng cung. Những kẻ được cường hóa pheromone[5] mà chỉ sự xuất hiện của chúng thôi cũng đủ khiến người ta phát điên vì khao khát. Nhân danh Thánh điện, cái lãnh hạt này thực sự kém văn minh đến thế sao? Dù sao đi nữa, Din à, chúng ta vẫn chưa khép lại vụ án này đâu. Nói đúng hơn là chỉ mới bắt đầu. Và chúng ta sẽ giậm chân tại chỗ nếu cậu không chịu tống bức thư quái đản này đi!”
+“Vũ công plaizaier,” bà gằn giọng. “Vũ công hoàng cung. Những kẻ được cường hóa pheromone mà chỉ sự xuất hiện của chúng thôi cũng đủ khiến người ta phát điên vì khao khát. Nhân danh Thánh điện, cái lãnh hạt này thực sự kém văn minh đến thế sao? Dù sao đi nữa, Din à, chúng ta vẫn chưa khép lại vụ án này đâu. Nói đúng hơn là chỉ mới bắt đầu. Và chúng ta sẽ giậm chân tại chỗ nếu cậu không chịu tống bức thư quái đản này đi!”
 
 Bà ấn bức thư vào tay tôi. Tôi cầm lấy rồi bước đi, tự nhủ mọi chuyện tạm thời êm đẹp, ít nhất là trong vài ngày tới.

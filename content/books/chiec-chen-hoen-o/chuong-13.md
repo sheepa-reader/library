@@ -229,7 +229,7 @@ Con mồi đã cắn câu.
 
 “Cô ta về đó làm gì?” Tôi truy vấn.
 
-“Cô ấy… đang làm một dự án nào đó. Một thứ liên quan đến các trận địa chấn[9]. Tường biển đã mất ổn định nghiêm trọng. Cô ấy… cô ấy quay lại thị trấn để dự một cuộc họp. Nhưng cô ấy không thể tiết lộ nội dung cuộc họp đó cho tôi. Cô ấy nói đó là lệnh bảo mật tuyệt đối.”
+“Cô ấy… đang làm một dự án nào đó. Một thứ liên quan đến các trận địa chấn. Tường biển đã mất ổn định nghiêm trọng. Cô ấy… cô ấy quay lại thị trấn để dự một cuộc họp. Nhưng cô ấy không thể tiết lộ nội dung cuộc họp đó cho tôi. Cô ấy nói đó là lệnh bảo mật tuyệt đối.”
 
 “Tại sao lại phải giấu?” Tôi gặng hỏi.
 

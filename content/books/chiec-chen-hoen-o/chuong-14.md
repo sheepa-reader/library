@@ -371,7 +371,7 @@ Miljin khựng lại. Gã cúi sát vết chém vừa khoét trên sàn. Bằng 
 
 “Bẫy cơ quan sao?” tôi hỏi.
 
-“Bào tử[10] nấm hay độc chất cài trong khe hở. Mở trật gờ một cái là dính chấu…” Gã gõ cộp cộp lên nắp hộp. “Chỉ là hộp thường. Nhưng thứ nằm bên trong…”
+“Bào tử nấm hay độc chất cài trong khe hở. Mở trật gờ một cái là dính chấu…” Gã gõ cộp cộp lên nắp hộp. “Chỉ là hộp thường. Nhưng thứ nằm bên trong…”
 
 Gã bật nắp. Trên lót rêu xanh là một thiết bị kỳ quái đến dị dạng.
 

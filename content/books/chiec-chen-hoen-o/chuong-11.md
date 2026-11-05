@@ -286,7 +286,7 @@ Miljin nhìn xoáy vào tôi như thể tôi là kiện hàng nặng nề chất
 
 “Vậy chúng ta sẽ phải cấy thêm các mảnh sinh học của Lãnh hạt Tala vào cơ thể cậu,” cô thở dài. “Để bảo vệ cậu khỏi bất kỳ loại sâu thối, sâu cổ, sâu xương, hay sâu khe nứt nào đang rình rập ngoài kia. Và hiển nhiên là cả sâu má nữa.”
 
-Tôi trố mắt nhìn cô khi tiếp nhận danh mục hiểm họa đa dạng của những loài ký sinh trùng[8] chực chờ ngoài hoang dã xâu xé thân xác mình.
+Tôi trố mắt nhìn cô khi tiếp nhận danh mục hiểm họa đa dạng của những loài ký sinh trùng chực chờ ngoài hoang dã xâu xé thân xác mình.
 
 Miljin nhếch môi, ném ra một nụ cười đầy ác ý: “Cô ấy không ám chỉ đôi má trên mặt cậu đâu, nhóc.”
 

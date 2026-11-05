@@ -4,7 +4,7 @@
 
 Tôi không kịp nhìn rõ Quỷ Ảnh ra tay bằng cách nào. Chuyển động của ả nhanh đến mức nhòe đi, chớp nhoáng như bóng ma vút qua khoảng tối. Nhưng rồi một tiếng thét xé ruột vang lên. Khi tôi ngoảnh lại, máu đã lênh láng khắp mặt sàn.
 
-Nữ binh sĩ Quân đoàn đứng bên trái ả gục xuống, máu từ cuống họng phun xối xả. Binh sĩ bên phải hớp lấy hớp để những luồng khí tàn héo, ho sặc sụa khi vết sẫm màu lan rộng trên ngực rồi quỵ sụp bằng cả hai đầu gối. Qua màn mưa máu, tôi thấy ả, một bóng đen với đôi mắt lạnh ngắt, chiếc còng tay tổ hợp của tôi vẫn đung đay ở một bên cổ tay. Tay còn lại lăm lăm thanh dao găm stiletto[13] lưỡi mỏng như sợi tóc. Tôi không rõ ả giấu vũ khí ở đâu; ả di chuyển quá nhanh, vượt ngoài tầm mắt.
+Nữ binh sĩ Quân đoàn đứng bên trái ả gục xuống, máu từ cuống họng phun xối xả. Binh sĩ bên phải hớp lấy hớp để những luồng khí tàn héo, ho sặc sụa khi vết sẫm màu lan rộng trên ngực rồi quỵ sụp bằng cả hai đầu gối. Qua màn mưa máu, tôi thấy ả, một bóng đen với đôi mắt lạnh ngắt, chiếc còng tay tổ hợp của tôi vẫn đung đay ở một bên cổ tay. Tay còn lại lăm lăm thanh dao găm stiletto lưỡi mỏng như sợi tóc. Tôi không rõ ả giấu vũ khí ở đâu; ả di chuyển quá nhanh, vượt ngoài tầm mắt.
 
 Miljin vung lưỡi kiếm xanh thẫm bổ gắt xuống, chém rạch mặt sàn làm bằng dây leo Fretvine dễ như cắt rơm rạ. Nhưng ả đã biến mất. Ả phóng người nhảy vọt, vạt áo dài uốn lượn theo cú né tránh hoàn hảo. Một ánh thép lóe lên. Binh sĩ Quân đoàn thứ ba gục xuống, ghim trên thân thể là hàng loạt lỗ thủng phun máu xối xả. Khắc Ký Sư của Fayazi gào lên điên loạn, nhoài người chui rúc tìm chỗ nấp, hai tay bịt chặt lấy tai.
 

@@ -26,7 +26,7 @@ Tôi nuốt ngược cảm giác bất an đang dâng lên. Tôi không lạ gì
 
 “Học sĩ quyết định điều tra… mà không cần đến hiện trường sao?” Gã hỏi, giọng đầy hoài nghi. “Liệu tôi có thể mạn phép hỏi lý do, Hiệu úy Kol?”
 
-Tôi lạnh lùng quan sát gã. Chiếc áo giáp lưới[1] ngắn lấp lánh trong ánh sáng mờ ảo, từng khoen sắt đọng sương li ti như những hạt ngọc trai đắt đỏ. Thắt lưng nạm hoa văn cầu kỳ, siết lấy vòng bụng phệ trề xuống phía trên mặt khóa, dấu hiệu rõ ràng của tuổi trung niên. Chòm râu điểm bạc củng cố thêm điều đó. Đôi ủng đen bóng lộn, viền may bằng da nhuộm rong biển thượng hạng. Thứ duy nhất đúng chuẩn quân trang trên người gã là thanh trường kiếm và chiếc áo choàng đỏ sẫm của Bộ Sinh dược, sĩ quan phụ trách quản lý các dạng biến đổi sinh học của Đế quốc. Những thứ còn lại đều là đồ tự sắm, và cái giá của chúng chắc chắn không hề rẻ.
+Tôi lạnh lùng quan sát gã. Chiếc áo giáp lưới ngắn lấp lánh trong ánh sáng mờ ảo, từng khoen sắt đọng sương li ti như những hạt ngọc trai đắt đỏ. Thắt lưng nạm hoa văn cầu kỳ, siết lấy vòng bụng phệ trề xuống phía trên mặt khóa, dấu hiệu rõ ràng của tuổi trung niên. Chòm râu điểm bạc củng cố thêm điều đó. Đôi ủng đen bóng lộn, viền may bằng da nhuộm rong biển thượng hạng. Thứ duy nhất đúng chuẩn quân trang trên người gã là thanh trường kiếm và chiếc áo choàng đỏ sẫm của Bộ Sinh dược, sĩ quan phụ trách quản lý các dạng biến đổi sinh học của Đế quốc. Những thứ còn lại đều là đồ tự sắm, và cái giá của chúng chắc chắn không hề rẻ.
 
 Những chi tiết đó tố cáo một thực tế: dù tôi mang quân hàm hiệu úy và có cấp bậc cao hơn trên danh nghĩa, gã đàn ông này vẫn vượt trội tôi về cả tuổi đời, tiền bạc lẫn kinh nghiệm thực tế. Tôi không thể trách gã hoài nghi khi thấy học sĩ điều tra lại cử một thằng nhóc hai mươi tuổi, mang đôi ủng rách rưới, một mình đến phong tỏa hiện trường án mạng.
 
@@ -160,7 +160,7 @@ Hay chính xác hơn, đâm xuyên qua một xác người.
 
 Tử thi lơ lửng giữa phòng, bị găm chặt bởi vô số thân cây mảnh dẻ. Đúng như Otirios nói, thoạt nhìn khó mà nhận ra đó là cơ thể người. Thân trên và chân trái lấp ló trong bụi lá rậm rạp. Nạn nhân là một người đàn ông trung niên, mặc sắc phục tím của Bộ Công Binh Đế quốc. Cánh tay phải đã biến mất hoàn toàn. Chân phải bị nuốt chửng bởi búi rễ tua tủa đâm ra từ thân cây, cắm sâu vào sàn gỗ đá.
 
-Tôi nhìn đăm đăm vào búi rễ. Giữa những cuộn rễ uốn éo, tôi nhận ra mấu xương đùi[2] nham nhở màu hồng nhạt.
+Tôi nhìn đăm đăm vào búi rễ. Giữa những cuộn rễ uốn éo, tôi nhận ra mấu xương đùi nham nhở màu hồng nhạt.
 
 Dưới sàn, một vũng máu khổng lồ loang rộng, phẳng lặng và phản chiếu như một tấm gương kính đen.
 
@@ -170,7 +170,7 @@ Tập trung. Thở đều. Phải kiểm soát và bình tĩnh. Đây là nghề
 
 “Lại gần đi, thưa Hiệu úy, an toàn rồi,” Otirios lên tiếng, giọng hồ hởi đến gai người. “Chúng tôi đã kiểm tra toàn bộ căn phòng. Đừng lo.”
 
-Tôi bước lại gần, quan sát đám thực vật xanh rì. Chúng không phải thân gỗ, mà là một loại cỏ dài, dẻo dai, giống cỏ ống rỗng ruột cứng như gỗ chuyên dùng làm đường ống và giàn giáo. Bụi cỏ dại bung nở dữ dội từ khoảng giữa vai và cổ Blas. Thoáng thấy vài đốt sống[3] mắc kẹt bên trong thớ cỏ, tôi phải nén chặt cơn buồn nôn đang dâng lên cổ họng.
+Tôi bước lại gần, quan sát đám thực vật xanh rì. Chúng không phải thân gỗ, mà là một loại cỏ dài, dẻo dai, giống cỏ ống rỗng ruột cứng như gỗ chuyên dùng làm đường ống và giàn giáo. Bụi cỏ dại bung nở dữ dội từ khoảng giữa vai và cổ Blas. Thoáng thấy vài đốt sống mắc kẹt bên trong thớ cỏ, tôi phải nén chặt cơn buồn nôn đang dâng lên cổ họng.
 
 Kinh hãi nhất là khuôn mặt nạn nhân. Những nhánh cỏ tủa ra khi trồi khỏi thân trên của Blas, một nhánh phóng xiên qua hộp sọ, bẻ gập đầu ông theo một góc độ biến dạng. Nhánh cây bao bọc trọn vẹn phần sọ phía trên hàm, nuốt chửng cả khuôn mặt, mũi và tai. Tất cả những gì còn lại là phần hàm dưới há hốc trong một tiếng thét câm lặng. Ngay phía trên, cắm sâu vào thớ gỗ, nửa hàm răng cùng vòm miệng đang chìm dần vào lớp vỏ cây gợn sóng.
 
@@ -237,7 +237,7 @@ Tôi nhìn gã một thoáng. “Cho tôi vài phút, Thủ lĩnh,” tôi nói.
 
 Otirios để tôi lại một mình với cái xác bị rễ cây xé toạc rồi khép cửa. Tôi với tay vào chiếc túi tinh dầu khai tâm bên hông. Bên trong xếp đầy những lọ thủy tinh nhỏ đậy nút bần, mỗi lọ chứa vài giọt chất lỏng: lọ màu cam nhạt, lọ ánh sắc xanh le lói. Tôi rút một lọ tinh dầu khai tâm, bật nút bần, đưa lên mũi hít mạnh.
 
-Mùi nồng hắc của nước tro kiềm[4] xộc thẳng vào phế quản, mắt tôi cay xè. Tôi hít thêm hơi nữa, ép mùi hương ngấm sâu vào tâm trí, rồi nhắm mắt lại.
+Mùi nồng hắc của nước tro kiềm xộc thẳng vào phế quản, mắt tôi cay xè. Tôi hít thêm hơi nữa, ép mùi hương ngấm sâu vào tâm trí, rồi nhắm mắt lại.
 
 Cảm giác nhồn nhột râm ran xuất hiện phía sau hốc mắt, tựa như hộp sọ biến thành một bát nước đầy những con cá đang quẫy đạp điên cuồng. Tôi bắt đầu khơi gợi ký ức.
 
