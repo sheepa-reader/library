@@ -2838,4 +2838,309 @@
     ],
     "publishedAt": "2026-11-04"
   }
+  {
+    "id": "vong-lap-ky-uc",
+    "title": "Vòng Lặp Ký Ức",
+    "originalTitle": "Recursion",
+    "series": "",
+    "volume": "",
+    "author": "Blake Crouch",
+    "translator": "Sheepa Translator",
+    "year": "2026",
+    "category": "Khoa Học Viễn Tưởng • Bí ẩn • Tâm lý",
+    "tags": [
+      "Khoa Học Viễn Tưởng",
+      "Bí ẩn",
+      "Tâm lý"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/vong-lap-ky-uc/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Một hiện tượng tâm thần bí ẩn mang tên Hội chứng Ký ức Giả bất ngờ bùng phát trên toàn cầu, khiến hàng triệu người phát điên và tự sát khi mang trong đầu hai dòng ký ức hoàn toàn trái ngược về chính cuộc đời mình. Thanh tra cảnh sát Barry Sutton tại New York trong lúc điều tra vụ nhảy lầu của một nạn nhân đã vô tình dấn sâu vào một âm mưu vượt quá tầm hiểu biết của nhân loại. Trong khi đó, nhà thần kinh học Helena Smith đang phát triển một công nghệ cho phép ghi lại và tái hiện sống động những ký ức quý giá của bệnh nhân Alzheimer nhằm cứu người mẹ mắc chứng mất trí nhớ. Thế nhưng, cỗ máy của Helena vô tình biến ký ức thành cánh cổng viết lại quá khứ, kéo thế giới vào nguy cơ sụp đổ khi các dòng thời gian liên tục bị xóa bỏ và ghi đè. Barry và Helena buộc phải bắt tay nhau trong một cuộc chạy đua sinh tử xuyên qua vô số kiếp sống để ngăn chặn hồi kết diệt vong của thực tại.",
+    "downloads": {
+      "epub": "content/downloads/vong-lap-ky-uc.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "GIỚI THIỆU TÁC GIẢ",
+        "part": "",
+        "path": "content/books/vong-lap-ky-uc/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "REVIEW",
+        "part": "",
+        "path": "content/books/vong-lap-ky-uc/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "THÀNH TÍCH",
+        "part": "",
+        "path": "content/books/vong-lap-ky-uc/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "PHẦN MỘT",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "HELENA",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "BARRY",
+        "part": "PHẦN MỘT",
+        "path": "content/books/vong-lap-ky-uc/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "PHẦN HAI",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "HELENA",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "BARRY",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "HELENA",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "BARRY",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "HELENA",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "BARRY",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "HELENA",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "BARRY",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "HELENA",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "BARRY",
+        "part": "PHẦN HAI",
+        "path": "content/books/vong-lap-ky-uc/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "PHẦN BA",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "BARRY",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "HELENA",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "BARRY",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "HELENA",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "BARRY",
+        "part": "PHẦN BA",
+        "path": "content/books/vong-lap-ky-uc/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "PHẦN BỐN",
+        "part": "PHẦN BỐN",
+        "path": "content/books/vong-lap-ky-uc/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "HELENA",
+        "part": "PHẦN BỐN",
+        "path": "content/books/vong-lap-ky-uc/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "HELENA",
+        "part": "PHẦN BỐN",
+        "path": "content/books/vong-lap-ky-uc/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "PHẦN NĂM",
+        "part": "PHẦN NĂM",
+        "path": "content/books/vong-lap-ky-uc/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "BARRY",
+        "part": "PHẦN NĂM",
+        "path": "content/books/vong-lap-ky-uc/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "BARRY",
+        "part": "PHẦN NĂM",
+        "path": "content/books/vong-lap-ky-uc/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "VĨ THANH",
+        "part": "VĨ THANH",
+        "path": "content/books/vong-lap-ky-uc/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "BARRY",
+        "part": "VĨ THANH",
+        "path": "content/books/vong-lap-ky-uc/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "BARRY",
+        "part": "VĨ THANH",
+        "path": "content/books/vong-lap-ky-uc/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "LỜI CẢM ƠN",
+        "part": "",
+        "path": "content/books/vong-lap-ky-uc/chuong-46.md"
+      }
+    ],
+	"publishedAt": "2026-11-05"
+  }
+  }
 ]
