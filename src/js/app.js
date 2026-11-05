@@ -221,9 +221,21 @@
   function formatQuoteHtml(item) {
     if (!item) return '';
     if (item.author === 'Sheepa Library' && item.work === 'Tủ Sách Tự Dịch') {
-      return escapeHtml(item.quote);
+      return `<span class="tagline-quote tagline-intro">${escapeHtml(item.quote)}</span>`;
     }
-    return `"${escapeHtml(item.quote)}"${item.author ? ` <span class="tagline-author">— ${escapeHtml(item.author)}${item.work ? ` (${escapeHtml(item.work)})` : ''}</span>` : ''}`;
+
+    let meta = '';
+    if (item.author && item.work) {
+      meta = `${escapeHtml(item.author)} • ${escapeHtml(item.work)}`;
+    } else if (item.author) {
+      meta = escapeHtml(item.author);
+    } else if (item.work) {
+      meta = escapeHtml(item.work);
+    }
+
+    const quoteHtml = `<span class="tagline-quote">"${escapeHtml(item.quote)}"</span>`;
+    const metaHtml = meta ? `<span class="tagline-author">${meta}</span>` : '';
+    return `${quoteHtml}${metaHtml}`;
   }
 
   async function loadQuotes() {
@@ -483,7 +495,7 @@
         <div class="library-hero">
           <img src="public/icons/glyph_01_sheep_reading.png" alt="Sheepa Reading" class="hero-badge-img" id="hero-mascot-btn" title="Bấm để đổi câu trích dẫn / tagline ngẫu nhiên" style="cursor: pointer;">
           <h1>Tủ Sách Tự Dịch Sheepa</h1>
-          <p class="hero-tagline" id="hero-dynamic-tagline" title="Bấm để đổi câu ngẫu nhiên" style="cursor: pointer;">${heroQuoteHtml}</p>
+          <div class="hero-tagline" id="hero-dynamic-tagline" title="Bấm để đổi câu ngẫu nhiên" style="cursor: pointer;">${heroQuoteHtml}</div>
         </div>
 
         <!-- Search & Filter Controls -->

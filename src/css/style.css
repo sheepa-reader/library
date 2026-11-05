@@ -342,10 +342,13 @@ button {
 .hero-tagline {
   color: var(--text-secondary);
   font-size: 1.05rem;
-  max-width: 680px;
+  max-width: 720px;
   margin: 0 auto;
   line-height: 1.6;
-  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
   transition: opacity 0.3s ease, transform 0.3s ease, color var(--transition-fast);
   cursor: pointer;
   user-select: none;
@@ -360,7 +363,17 @@ button {
   transform: translateY(4px);
 }
 
+.tagline-quote {
+  font-style: italic;
+  display: block;
+}
+
+.tagline-quote.tagline-intro {
+  font-style: normal;
+}
+
 .tagline-author {
+  display: block;
   font-style: normal;
   font-weight: 600;
   font-size: 0.92rem;

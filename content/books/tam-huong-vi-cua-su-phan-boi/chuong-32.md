@@ -1,93 +1,144 @@
-# Năm 51 N.K.
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*NIÊN BIỂU SỰ KIỆN*
+*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
-## NIÊN BIỂU SỰ KIỆN
+*Dù bản thân nó đã là một bữa ăn thịnh soạn và cân bằng dưỡng chất, món bánh enchilada này vẫn an toàn nhất khi được thưởng thức cùng một lượng lớn rượu nồng hoặc các thức uống say sưa khác nhằm làm phân tâm khỏi những hiệu ứng ma thuật của chúng, chí ít là khi bạn đang ngồi giữa những người mà mình muốn trao trọn niềm tin.*
 
-  
+  **Nguyên liệu** (khẩu phần cho 3 đến 4 người):
 
-## BIÊN NIÊN SỬ THẾ GIỚI ẨM THỰC
+    - 450g nấm tươi (dùng nấm đùi gà cho kết cấu và hương vị hoàn hảo nhất)
 
-  
+      
+- **Hỗn hợp ướp nấm:** 
+- Nước cốt 1 quả chanh
+        
+- ½ cốc bia đen
+        
+- 1 thìa canh dầu quả bơ
+        
+- 2 thìa cà phê bột ớt paprika
+        
+- 1 thìa cà phê bột tỏi
+        
+- 1 thìa cà phê bột thì là Ai Cập
+        
+- ½ thìa cà phê bột ớt
+        
+- ½ thìa cà phê lá oregano khô
+        
+- 1 thìa cà phê muối biển
 
-## **Năm 21 N.K. (Năm Khai Sáng)**
+      
+- 400g thịt xông khói quái thú lợn rừng Badgeboar
 
-  - Sarah Shepherd lần đầu tiên chạm tay vào quyền năng tối thượng của **Cội Nguồn**.
+      
+- **Hỗn hợp ướp thịt xông khói:** 
+- Nước cốt 2 quả chanh
+        
+- ¼ cốc bia đen
+        
+- ¼ cốc nước cam tươi
+        
+- 1 thìa canh dầu quả bơ
+        
+- 1 thìa cà phê bột ớt paprika
+        
+- 1 thìa cà phê bột tỏi
+        
+- 1 thìa cà phê bột thì là Ai Cập
+        
+- ½ thìa cà phê bột ớt
+        
+- ½ thìa cà phê lá oregano khô
+        
+- 2 thìa cà phê muối biển
 
-  
+      
+- 1 thìa canh dầu ô liu
 
-## **Năm 28 N.K.**
+      
+- 1 củ hành tây vàng, thái hạt lựu
 
-  - Cửa tiệm dụng cụ bếp Cutler được thành lập trên một cao nguyên đá vô danh.
+      
+- 3 ½ cốc nước xốt enchilada đỏ
 
-  
+      
+- Dầu thực vật (dùng để rán sơ vỏ bánh)
 
-## **Năm 51 N.K.**
+      
+- 12 vỏ bánh ngô tortilla
 
-  - Đại đô thị Ranch chính thức được khai sinh và đặt nền móng bởi gia tộc Herdon.
+      
+- 2 cốc phô mai Jack vân cẩm thạch, bào sợi
 
-  
-
-## **Năm 343 N.K.**
-
-  - Meg thuộc Khu Thứ Phẩm Số 3 chấp nhận con đường lưu đày viễn xứ.
-
-    
-- Paprick thuộc Khu Thứ Phẩm Số 3 dũng cảm chiến đấu chống lại cự thú Bessa tại **Trận Chiến Cánh Đồng Cỏ Cao lần thứ nhất**.
-
-    
-- Làn sóng khởi nghĩa đẫm máu bùng nổ tại **Lễ Duyệt Binh Trên Không**, mở màn cho thời kỳ lịch sử được định danh là Cuộc Cách Mạng.
-
-    
-- Lực lượng khởi nghĩa **Bầy Đàn** kịch chiến cùng Quân đội Hoàng gia Panchon tại **Trận Chiến Cánh Đồng Cỏ Cao lần thứ hai**.
-
-    
-- Paprick Bessa tự tay hạ sát tên bạo chúa Vua Fennel III Panchon.
-
-    
-- Tân Panchon đơn phương tuyên bố thành lập quốc gia độc lập ly khai dưới sự trị vì của Nữ hoàng Zesta Panchon.
-
-  
-
-## **Năm 344 N.K.**
-
-  - Mahogani thuộc gia tộc Vicson được bổ nhiệm làm Quyền Chủ tịch lâm thời của quốc gia Herdland.
-
-    
-- Herdland chính thức tuyên chiến với Tân Panchon.
-
-    
-- Quốc gia viễn xứ Semoli tuyên chiến với Herdland.
-
-    
-- Hội đồng Nội các cùng Cơ quan Hành pháp được thành lập khi gia tộc Vicson chính thức mất quyền thống trị tuyệt đối.
-
-  
-
-## **Năm 345 N.K.**
-
-  - Paprick Bessa được vinh thăng lên cấp bậc **Đầu Bếp Chiến Trận**.
-
-  
-
-## **Năm 347 N.K.**
-
-  - Lệnh ngừng bắn chính thức được ký kết, đình chỉ chiến sự giữa Herdland và Tân Panchon. Thời kỳ lịch sử Cuộc Cách Mạng chính thức khép lại.
-
-    
-- Chiến binh lính khẩu lệnh trẻ tuổi Hili Duelon bị mưu sát bí ẩn tại **khu Trại Nhốt Pen**.
-
-  
-
-## **Năm 348 N.K.**
-
-  - Paprick Bessa bị áp giải dẫn độ sang Mangtier để hầu tòa vì các cáo buộc tội ác ma thuật.
+      
+- Rau mùi tươi, dùng để trang trí
 
     
-- Giai đoạn lịch sử được biết đến dưới danh xưng **Cuộc Trở Về** chính thức bùng nổ, mở màn bằng cuộc xâm lăng của Đế quốc Badgeboar vào thành phố Ranch cùng **Trận Chiến Giành Lại Ranch** do Bếp trưởng Paprick Bessa thống lĩnh.
 
-  
+**Các bước thực hiện:**
 
-## **Năm 354 N.K.**
+    - Cắt bỏ phần mũ nấm, dùng nĩa tước nhỏ phần thân nấm thành từng sợi dài. Dùng khăn sạch ấn nhẹ lên các sợi nấm để ép ráo bớt lượng nước thừa.
 
-  - **Vua Đầu Bếp**, Paprick “Kẻ Sát Thần” Bessa-Herdon, Chúa Tể Xương, Hiện Thân Thần Chết chính thức tuyên cáo và ban hành **Bộ Luật Nghi Lễ** trước toàn cõi nhân gian.
+      
+- Làm nóng sẵn lò nướng ở nhiệt độ 175°C.
+
+      
+- Khuấy đều toàn bộ nguyên liệu của phần nước xốt ướp nấm trong một chiếc bát lớn rồi trút phần nấm đã xé sợi vào. Ướp trong 15 phút để sợi nấm ngấm đẫm gia vị.
+
+      
+- Dùng muôi thủng vớt nấm ra khỏi nước xốt, rải đều thành một lớp duy nhất trên khay nướng. Nướng trong khoảng 30 phút hoặc cho đến khi nấm ráo kiệt nước, lưu ý lật mặt nấm một lần giữa chừng.
+
+      
+- Trong lúc nướng nấm, thái thịt xông khói quái thú lợn rừng Badgeboar thành các dải mỏng cỡ 5cm x 1cm, sau đó trộn đều cùng hỗn hợp nước xốt ướp thịt tương tự.
+
+      
+- Dùng muôi thủng vớt thịt xông khói ra khỏi nước ướp rồi trút vào chảo nguội cùng 1 thìa canh dầu ô liu và hành tây thái hạt lựu. Bật lửa vừa và đảo đều tay cho đến khi thịt xông khói xém cạnh chuyển màu caramen, còn hành tây chín mềm và trong suốt.
+
+      
+- Lấy nấm nướng ra khỏi lò, trút cùng thịt xông khói và hành tây xào, chắt bỏ toàn bộ phần mỡ và nước tiết dư thừa, sau đó trộn chung tất cả vào một chiếc bát lớn.
+
+      
+- Quét đều một lớp nước xốt enchilada đỏ tráng kín đáy khay nướng thủy tinh chịu nhiệt.
+
+      
+- Rót một lớp mỏng dầu thực vật tráng đáy chảo rồi đun nóng trên lửa vừa. Khi dầu lăn tăn sủi bọt, thả từng lá bánh ngô tortilla vào rán sơ chừng 5 giây cho mỗi mặt để vỏ bánh mềm dẻo mà không bị gãy vụn khi cuộn.
+
+      
+- Đặt từng chiếc vỏ bánh tortilla mềm lên mặt phẳng, múc một muỗng đầy hỗn hợp nhân nấm, thịt xông khói và hành tây đặt vào chính giữa. Cuộn tròn chặt tay rồi xếp ngay ngắn vào khay nướng đã tráng nước xốt, úp mép gấp của vỏ bánh xuống đáy. Lặp lại thao tác cho đến khi cuốn hết 12 chiếc bánh.
+
+      
+- Rưới đều phần nước xốt enchilada còn lại phủ kín mặt bánh, sau đó rải đều lớp phô mai bào sợi lên trên cùng.
+
+      
+- Cho khay vào lò nướng trong 10 phút đến khi phô mai tan chảy béo ngậy. Chuyển lò sang chế độ nướng lửa trên ở mức nhiệt thấp thêm khoảng 2 phút cho đến khi bề mặt xém vàng giòn rụm theo ý muốn.
+
+      
+- Cẩn thận nhấc khay bánh ra khỏi lò và rắc rau mùi tươi thái nhỏ lên trên để trang trí. Dùng nóng.
+
+    
+
+**Hiệu ứng Sức bền ma thuật dự kiến:**
+
+    - Cường hóa Sức bền ma thuật, duy trì tác dụng liên tục từ 2 đến 4 giờ.
+
+      
+- Khai mở năng lực thấu thị trực giác: Nhận biết chuẩn xác khi ai đó đang nói dối, che giấu sự thật, cảm thấy bất an hay nuôi dã tâm dối trá, duy trì tác dụng từ 2 đến 4 giờ.
+
+    
+
+**Hiệu ứng Sự tăng cường phép thuật:**
+
+    - Chưa xác định
+
+    
+
+**Hiệu ứng Quy luật biến thể:**
+
+    - Chưa xác định
+
+    
+
+**Hiệu ứng quái thú Emphon:**
+
+    - Chưa xác định

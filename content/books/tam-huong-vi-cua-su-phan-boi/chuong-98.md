@@ -1,0 +1,3 @@
+# VỀ TÁC GIẢ
+
+Sau khi trốn khỏi quê nhà ở miền trung Florida, Ryan bắt đầu theo học ngành kỹ sư hóa học. Anh chắc mẩm rằng có ngày mình sẽ trở thành một thợ mỏ tiểu hành tinh. Kể từ đó, anh đã thử sức qua lĩnh vực thiết kế trò chơi bàn cờ, sản xuất nhạc kịch Broadway, và thậm chí từng dạy tiếng Anh cho học sinh trung học cơ sở. Ngày nay, Ryan sống ở Oakland cùng bạn đời và chú chó cưng có vẻ ngoài giống một con quỷ. Hiện tại, anh đang làm việc để bảo vệ nền dân chủ tại Đại học UC Berkeley, công việc mà cho đến nay vẫn chẳng dính líu gì đến kỹ sư hóa học. Bạn có thể tìm thấy Ryan trên các nền tảng mạng xã hội tử tế, giả sử là vẫn còn mạng nào tồn tại vào thời điểm cuốn sách này được ấn hành.

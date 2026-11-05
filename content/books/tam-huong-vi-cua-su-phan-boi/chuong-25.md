@@ -1,337 +1,109 @@
-# HỆ THỐNG ĐẠI CÔNG THỨC
+# 18 CHUẨN BỊ
 
-*GHI CHÚ CỦA YENNE*
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-## GHI CHÚ CỦA YENNE
-
-  
-
-## HỆ THỐNG ĐẠI CÔNG THỨC
+Đúng như đã hứa, buổi sáng hôm đó tôi đã làm cho Cori món ăn yêu thích của em: trứng chuẩn phong cách Ranch với lòng đỏ sóng sánh ăn kèm bánh ngô tortilla giòn rụm. Tôi đã phải nhờ đến sự trợ giúp từ người của hoàng cung mới tìm đủ nguyên liệu phù hợp, nhưng giờ đây họ hoàn toàn sẵn lòng giúp đỡ khi chúng tôi không còn là tù nhân nữa. Bữa ăn mang lại cho tôi chút thiện cảm từ em, và tôi bắt đầu giải thích những gì mình đã lên kế hoạch. Em chẳng thích thú gì, nhưng vẫn chấp nhận làm theo.
 
   
 
-## Ngày 1: 7 Đại Công Thức Cổ Điển
-
-  - **Đại công thức 1: Hương Vị Đầu Tiên:** Kích hoạt Sức bền ma thuật cơ bản.
-
-    
-- **Đại công thức 2: Salad tỉnh táo:** Triệt tiêu nhu cầu ngủ, duy trì sự tỉnh táo liên tục.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Gia tăng tốc độ phản xạ xuất thần song hành cùng trạng thái thức trắng không mệt mỏi.
-
-    
-- **Đại công thức 3: Thịt băm Emphon (quái thú bò mộng Emphon):** Gia cường nắm đấm cơ bắp bọc thép.
-
-    
-- **Đại công thức 4: Bít tết khoai tây chiên:** Mở rộng năng lực quan sát thị giác siêu nhiên.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Biến thể Khẩu vị Tăng cường (khoai tây chiên đậu Zensu):* Kích phát nhận thức siêu nhạy bén về các trạng thái chuyển hóa hoàn mỹ của nguyên liệu và không gian.
-
-    
-- **Đại công thức 5: ớt ma thuật kiểm soát tâm trí:** Năng lực thao túng, kiểm soát hành vi của quái thú Emphon và những con người mang thể xác khổng lồ tương đương quái thú Emphon.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Năng lực cưỡng chế, điều khiển quái thú Emphon xác sống hồi sinh. *(Liệu có thể thao túng cả những con người mang thể xác khổng lồ đã chết chăng? Cần tiến hành thực nghiệm kiểm chứng).*
-
-    
-- **Đại công thức 6: Gia vị ướp Emphon (quái thú bò mộng Emphon):** Phóng đại thể xác người dùng tăng trưởng lên tới chiều cao hai mươi mét, tương đương với kích thước thực tế của quái thú bò mộng Emphon đã hấp thụ.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (bánh taco Emphon):* Kéo dài thời gian duy trì hiệu ứng ma thuật, biến đổi khung xương ngấm năng lượng ma thuật Endurium siêu cứng.
-
-      
-- *Các Biến thể Khẩu vị:* Gia vị ướp hoặc bánh taco biến thể lợn rừng Badgeboar, biến thể rắn biển Dolphon, biến thể Điểu sư.
-
-      
-- *Kỹ thuật Dung Hợp Đại Công Thức:* Bánh taco **Thực phẩm Hành Trình** (kết hợp cùng trứng Điểu sư, vừa phóng đại kích thước vừa mang trọng lượng nhẹ bẫng tựa lông hồng).
-
-    
-- **Đại công thức 7: Súp bắp bò phóng hỏa:** Thao túng và phóng hỏa ngọn lửa ma thuật cực hạn.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (Súp bắp bò phóng hỏa của Mẹ Sesa):* Khởi tạo những cột lửa cuồng nộ thiêu rụi vòm trời.
+Việc đầu tiên Rish làm là câu cho chúng tôi thêm một ngày. Tôi không biết ông ấy đã làm điều đó bằng cách nào, và thành thật mà nói tôi cũng chẳng bận tâm. Khoảng thời gian ấy giúp Laven nguôi đi cơn giận dữ dữ dội về kế hoạch của tôi, giúp Cori tìm ra cách để mọi chuyện không kết thúc bằng chiến tranh, và cho tôi thời gian để nhớ lại tất cả những gì Dì Gyn từng dạy về quái thú Gryphon.
 
   
 
-## Ngày 2: Các Đại Công Thức Mới & Bí Thuật Phương Tây
-
-  - **Bánh enchilada Thấu thị:** Năng lực trực giác phát hiện và lật tẩy mọi lời dối trá.
-
-    
-- **Cà ri khô Điểu sư:** Thao túng sự sống của cây cỏ và cành lá đại ngàn.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Cưỡng ép sự sinh trưởng thần tốc hoặc làm khô héo thảm thực vật theo ý muốn.
-
-      
-- *Hiệu ứng Emphon (Điểu sư):* Tác dụng tương tự như trên kèm theo sự cường hóa khung xương. *(Chắc hẳn tên Đồ Tể đang nói dối mình nhằm che đậy điều gì đó?)*
-
-    
-- **Bít tết Cuồng Phong Bão Tố:** Ban phát sức bật nhảy xa ở khoảng cách phi thường, thao túng sấm chớp cuồng nộ.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (Bít tết Bão Tố của Cutler):* Biến đổi toàn bộ cơ thể người dùng hòa vào một cơn bão sấm sét khổng lồ.
-
-      
-- *Các Biến thể Khẩu vị:* Điều chỉnh linh hoạt phạm vi và quy mô của vùng bão ma thuật.
-
-    
-- **Cà ri Tiếng Nói Vindaloo:** Ra lệnh cưỡng chế phục tùng tuyệt đối bằng giọng nói nhắm vào con người.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Hiệu ứng Emphon (Điểu sư):* Ban phát khả năng thấu hiểu và cất tiếng nói bằng ngôn ngữ loài người cho quái thú Emphon.
-
-    
-- **Bánh cuộn người hóa thú Werephon (quái thú bò mộng Emphon):** Biến đổi thể xác thành dạng người hóa thú bước đi bằng hai chân, kết hợp sức mạnh giữa người và quái thú Emphon.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Các Biến thể Khẩu vị:* Hình thái sinh vật hai chân biến đổi linh hoạt tương ứng với nguồn gốc bơ thực vật chế biến.
-
-    
-- **Sữa chua lassi Sinh Mệnh:** Tái tạo và biến đổi vĩnh viễn các đặc tính thể chất bên trong cơ thể theo đúng bản ngã sâu kín.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - Được định danh là *Đại công thức Tối thượng*, bản nâng cấp tối hậu của phép Tăng cường sữa Emphon.
-
-    
-- **Bánh Cưới:** Triệt tiêu, thanh tẩy và loại bỏ hoàn toàn mọi tàn dư năng lượng ma thuật Endurium cùng Sức bền ma thuật hiện hữu bên trong cơ thể.
+Chúng tôi đã ở Đầm lầy Crel được hai tuần thì Dì tìm đến tôi. Cho đến lúc đó, chúng tôi hoàn toàn tập trung vào việc xây dựng căn cứ chỉ huy và tổ chức lực lượng quân đội. Nhưng cuộc chiến có thể nổ ra bất cứ ngày nào, và đã đến lúc phải chuẩn bị.
 
   
 
-## Những Món Ăn & Phép Thuật Khác Được Ghi Nhận
+“Mổ thịt một con quái thú Gryphon không giống như lợn rừng Badgeboar, và chắc chắn lại càng không giống quái thú Bò sát Carnephon,” Dì từng nói khi tôi bước vào “chuồng nuôi” của chúng tôi ở Tiền tuyến. Hầu hết những người lính khẩu lệnh đều gọi nơi đó là nhà thể xác, bởi vì chẳng có sinh vật nào đưa vào đó mà còn sống sót. Mảnh đầm lầy bên dưới tấm lều làm mát bằng băng từ lâu đã biến thành một đống bùn tuyết đỏ ngầu làm cỏ chết rụi, và mùi hôi thối ấy vẫn còn vẩn vương trong mũi tôi mỗi khi nghĩ về cuộc chiến.
 
-  - **Mì Ý sốt thịt Bolognese Tầm Nhìn Chim Trời:** Quan sát toàn cảnh một khu vực rộng lớn từ góc nhìn trên cao của loài chim.
+  
 
-    
-- **Súp óc (Brain Bisque):** Thao túng và kiểm soát tâm trí của hàng trăm con người cùng lúc bằng sóng thần giao cách cảm. *(Đạt được hiệu ứng tương tự như sự kết hợp hoàn hảo giữa ớt ma thuật kiểm soát tâm trí và cà ri Tiếng Nói Vindaloo. Liệu đây có phải là một dạng Dung Hợp Đại Công Thức cổ xưa của Hoàng gia?)*
+Trong suốt ba ngày, Dì chậm rãi dẫn tôi đi xung quanh cái xác mua lại từ Đế quốc, hướng dẫn tôi từng đường dao xẻ thịt. Khi Meg dạy tôi các đường xẻ thịt quái thú Bò sát Carnephon, đó là một thử thách nghiệt ngã: lưỡi cưa của chúng tôi phải vừa cắt vừa nghe chị giải thích, bởi chỉ cần sai sót là sẽ bị trừ tiền vào khế ước lao dịch. Nhưng với Dì, sự giáo dục dành cho tôi lại bài bản và mang tính học thuật chẳng kém gì các lớp Ẩm thực Giả kim của Bếp trưởng Chikor. Dì không cho phép tôi thực hiện dù chỉ một đường cắt cho đến khi tôi có thể vẽ lại hình dáng của nó trên bảng đen, giải thích lý do vì sao các bó cơ lại đan xen và mỡ tích tụ thành vệt ra sao.
 
-    
-- **Bánh quesadilla Hỗn Loạn (Chaosadilla):** Kỹ thuật Dung Hợp Đại Công Thức đỉnh cao, bẻ gãy mọi quy luật đoán định tương lai, tái tạo ngẫu nhiên các Đại công thức đã biết *(độc nhất vô nhị, biến số ma thuật không thể tiên đoán)*.
+  
 
-    
-- **Sữa Emphon nguyên chất:** Chữa lành ngoại thương và hàn gắn xương cốt thần tốc.
-      
+Tại Mangtier, khi nhớ lại những lời Dì dạy, tôi ước sao Cutler có ở đây để bổ sung thêm kiến thức đó, nhưng ông đã giữ đúng lời hứa của mình. Ngay khoảnh khắc chúng tôi đến Mangtier, ông liền tiếp tục lên đường tới Ryespur, một trong những vương quốc phía bắc, nhằm thuyết phục các Nguyên thuật sư không ra tay kết liễu tôi. Không có ông bên cạnh, tôi buộc phải trông cậy vào sự giúp đỡ của Feng.
 
-    
+  
 
-    
+“Cũng như mọi loài quái thú Emphon khác,” cô giải thích, “quái thú Gryphon đẻ trứng, nuôi con bằng sữa và cực kỳ thích ăn thịt người. Nhưng không giống như họ hàng của mình, chúng nổi tiếng là loài ăn thịt đồng loại. Một trong số ít loài quái thú Emphon thích xâu xé chính giống loài của mình.”
 
-    
+  
 
-    
+Feng dám chắc lựa chọn tối ưu nhất của chúng tôi là chế biến món gì đó từ quái thú Gryphon. Trong suốt cuộc chiến, tôi đã hoàn thiện Gia vị ướp quái thú Gryphon cùng vài Đại công thức chế biến từ Gryphon mà Dì từng biết, nhưng vẫn chưa làm được món tôi thực sự mong muốn: Điểu sư chiên Thấu thị. Dù vậy, việc hoàn thiện một Đại công thức chưa bao giờ là thử thách thực sự khi muốn giành chiến thắng trong những trận đấu như thế này.
 
-    
+  
 
-    
+“Mấu chốt của ván cờ này là kiểm soát khẩu phần ăn,” Feng chia sẻ. “Gryphon ăn nhiều hơn con người, và vị giám khảo ấy sẽ muốn được no nê. Nhưng cũng như chúng ta, ả chỉ có thể chịu đựng được một lượng năng lượng ma thuật Endurium nhất định. Quá nhiều, ả cũng sẽ phát cuồng vì bội thực ma thuật. Đây là một trò chơi hết sức tinh tế, nếu làm sai thì cái giá phải trả là giết chết Nữ hoàng Gryphon. Bên tố cáo được quyền dâng món trước, nên Mẹ sẽ cố nhồi nhét vào bụng ả càng no càng tốt. Điều đó khiến công việc của anh càng thêm khó khăn.”
 
-    
+  
 
-    - *Phép Tăng cường (sữa Emphon xám):* Tái tạo tế bào thần tốc và vô hiệu hóa hoàn toàn cảm giác đau đớn.
+Tôi không nói cho Feng biết, nhưng tôi chẳng mảy may bận tâm về điều đó. Thực ra, tôi hoàn toàn không mấy lo lắng về chuyện chấm điểm trận đấu ẩm thực. Tôi cần Rish kiềm chế một con bò mộng đang giận dữ theo nghĩa bóng, và đó mới là điều khiến tôi lo ngại.
 
-    
-- **Điểu sư chiên Thấu thị:** Khởi phát năng lực Tiên tri Thấu thị nhìn thấy trước các ngã rẽ tương lai.
-      
+  
 
-    
+Có những chuyện tôi vẫn chưa thực sự đi sâu vào. Đầu tiên là vị hôn thê cũ của Feng, Glayd Eto. Cũng như Rivern Engi, cha dượng của Feng, Glayd đến từ phương bắc của Đế quốc, là người con gái thứ hai của một Bậc thầy ẩm thực Apicius đáng kính của loài quái thú Tusktooth từ thành phố Herrinpol vô cùng xa xôi hẻo lánh.
 
-    
+  
 
-    
+✦  ✦  ✦
 
-    
+  
 
-    
+“Con quái thú Tusktooth trông như thế nào ạ?” Musta ngắt lời. Theo những gì nữ lưu trữ viên có thể quan sát, cô bé đã vẽ được nửa chừng bức phác họa một con quái thú Caprishell sa mạc đang trong tư thế phun dịch. Cô bé đã không hề hỏi xin lời miêu tả khi sinh vật ấy được nhắc tới, nhưng dĩ nhiên, cô bé chẳng cần điều đó. Khi nữ lưu trữ viên tìm thấy cô bé đang lang thang giữa sa mạc, cô bé đã nấp sau một đàn Caprishell để ẩn thân. Cô bé hẳn đã quá quen thuộc với cái cách mà những sinh vật tương đối nhỏ bé này nhổ những khối chất nhầy có tính axit lên đá để làm tan chảy chúng thành thứ hồ nhão có thể tiêu hóa được. Cô bé rõ ràng đã dành thời gian ngắm nghía những bộ hàm bập bập dữ tợn, cặp sừng cùng đôi chân giống loài dê, và những lớp vảy nặng nề như mai rùa che chở cho lưng chúng. Nét vẽ của cô bé thậm chí còn thể hiện rõ cách những con cái cõng bọc trứng đã thụ tinh trên lưng để giữ ấm dưới ánh mặt trời sa mạc, một tập tính vốn không mấy ai hay biết.
 
-    
+  
 
-    
+Cô bé đã trải qua bao nhiêu thời gian ngoài kia cùng chúng chứ?
 
-    - *Biến thể Khẩu vị (thuần chay):* Chưa xác định.
+  
 
-    
-- **Iron Cal:** Chưa xác định công năng và cơ chế.
+Paprick thở dài: “Bé con à, nếu em cứ ngắt lời mãi thì anh sẽ chẳng bao giờ kể xong được chuyện này đâu.”
 
-    
-- **Thư gửi trong chai:** Truyền tải thông điệp tâm linh bằng thần giao cách cảm tầm xa dưới dạng quả cầu ma thuật.
-      
+  
 
-    
+“Anh đã hứa một ngày nào đó sẽ chỉ cho em thấy cả mười hai loài mà. Từ dạo đó đến giờ loài quái thú Kangaphon xem như đã tuyệt chủng, còn con Empheron thì đang lăm le giết sạch tất cả chúng ta. Đây có thể là cơ hội gần nhất để em được biết rồi.”
 
-    
+  
 
-    
+“Anh sẽ không để chuyện đó xảy ra đâu,” anh quả quyết, nhưng dù vậy vẫn chịu nhượng bộ. “Anh cũng mới chỉ nhìn thấy một con quái thú Tusktooth duy nhất, mà lại từ đằng xa. Trông nó cứ như một hòn đảo nhỏ, bồng bềnh trên vùng nước băng giá phía bắc Đế quốc, gần dãy Thạch Trụ, cái bụng phủ đầy vảy phơi ngược lên nền trời khi nó sưởi nắng. Chắc nó dài khoảng năm mươi mét, tính từ chiếc mào gai nhọn trên đầu đến tận chóp chiếc đuôi ngấn mỡ. Nó có cái tên đó là nhờ hai chiếc ngà bằng tinh thể Endurmite khổng lồ uốn cong từ môi trên, vươn dài qua cái cổ ngắn cũn và che phủ chiếc bụng tròn trịa. Theo những gì anh thấy thì nó có ít nhất bốn con mắt, cùng hai chiếc càng nặng nề hệt như tôm hùm.”
 
-    
+  
 
-    
+✦  ✦  ✦
 
-    
+  
 
-    
+Vị hoàng đế mà tôi từng gặp đến từ các Vương quốc phương Nam, nơi nắm quyền kiểm soát thương mại, nông nghiệp và phần lớn các đền đài. Nhưng phương Bắc chẳng phải là không có sự thịnh vượng riêng, chủ yếu là những kỳ tích về công nghệ và giả kim thuật. Món đó hợp với Laven hơn là tôi. Chuyện đó rất quan trọng, bởi bất chấp điều ấy, phương Nam vẫn đối xử với phương Bắc như cỏ rác. Một mối thâm thù lâu đời về tính thượng đẳng tôn giáo bắt nguồn từ tận thuở xa xưa mà không ai còn nhớ rõ. Tệ hại. Và đang ngày một tồi tệ hơn.
 
-    - *Các Biến thể Khẩu vị:* Định vị và xác lập cự ly truyền tin tương ứng.
+  
 
-    
-- **Trứng cuộn Quan Sát:** Nhìn lại và tái hiện toàn bộ một sự kiện trong quá khứ từ đa chiều góc độ.
+Điều này đưa chúng ta quay trở lại với vị hôn thê của Feng, Glayd. Nhờ sự hậu thuẫn của phong trào thanh niên, cô đã giành chiến thắng sít sao trong cuộc bầu cử để kế vị ngai vàng khi hoàng đế thoái vị hoặc băng hà, mà chuyện nào thì cũng sẽ diễn ra sớm thôi. Đó là một thắng lợi chính trị vang dội cho các Vương quốc phương Bắc, những kẻ đã qua bao thế hệ chưa từng đưa được ai lên ngôi hoàng đế.
 
-    
-- **Panna Cotta Ân Huệ:** Chữa khỏi dứt điểm một căn bệnh nan y cụ thể. *(Cơ chế chữa lành này khác biệt căn bản thế nào so với tác dụng sinh học của sữa Emphon?)*
+  
 
-    
-- **Bánh trà của Nguyên thuật sư:** Đọc suy nghĩ và thấu thị tâm can đối phương ở cự ly gần.
+Theo mạng lưới tin đồn của Rish, bất kỳ ai ở phương Nam cũng muốn làm vui lòng Glayd Eto, và tốt nhất là gả cô êm đẹp cho một người phương Nam, nhằm tránh một cuộc nội chiến. Cuộc hôn nhân êm ấm ấy đã tan thành mây khói khi Feng biến mất. Vấn đề là, Glayd thực sự yêu Feng, nên khi nghe tin Feng đã được tìm thấy, cô nhắc cho tất cả nhớ rằng theo luật pháp Đế quốc, trên danh nghĩa hai người vẫn đang đính ước. Feng thừa hiểu mẹ cô không đời nào chịu bỏ lỡ cơ hội ngăn chặn một cuộc nội chiến. Cô dự đoán mẹ mình sẽ tung hết mọi chiêu bài để chiến thắng và giữ lại mối hôn sự cho con gái.
 
-    
-- **Các bí thuật cổ xưa chưa rõ công thức định danh:** 
+  
 
-    - *Thuật phóng cầu lửa ma thuật:* Khác biệt với cơ chế của Súp bắp bò phóng hỏa.
+Và điều đó đồng nghĩa với việc gian lận.
 
-      
-- *Thuật chữa lành cho người khác:* Bí thuật hồi sinh của Sarah Shepherd.
+  
 
-      
-- *Thuật sấm sét hủy diệt:* Laven và Scalen thi triển, liệu có liên quan tới Bít tết Cuồng Phong Bão Tố không?
+“Có một cuộc đấu tâm lý ngầm không ai nói ra,” Feng cất lời, vừa chữa cơn say nguội bằng một ly sinh tố sủi bọt có mùi kinh khủng gần bằng ớt ma thuật kiểm soát tâm trí - Đại công thức 5. “Từ cuộc chạm mặt đầu tiên nơi hành lang bên ngoài gian bếp cùng nghi thức chào hỏi, cho tới lúc trình bày các Đại công thức, bà ta sẽ tìm mọi cách làm chúng ta rối loạn tâm lý.”
 
-      
-- *Thuật chưởng lực tâm linh:* Khả năng dùng ý niệm hất văng người khác từ xa của Sarah Shepherd.
+  
+
+“Nghi thức chào hỏi?” Tôi hỏi.
+
+  
+
+“Đúng vậy, Chef, anh phải thể hiện sự tôn trọng trang trọng bên ngoài gian bếp, bằng không sẽ làm ô uế tính thiêng liêng của cuộc tỉ thí. Nếu tôi hiểu rõ tính bà ta, bà ta sẽ giở trò khôn khéo để chắc chắn chúng ta thấy khó chịu ngay trước cả khi bước chân vào phòng. Rồi sau đó bà ta sẽ càng lấn tới. Phá hoại các khu vực bếp, làm hỏng nguyên liệu dùng chung, thậm chí còn thao túng để con Gryphon dùng bữa sớm hơn. Bà ta là bậc thầy về những trò đó.”
+
+  
+
+Sau chuyện đó, tôi thấy an tâm hơn hẳn về kế hoạch của Rish. Ngày được trì hoãn thêm cũng giúp trò học việc của tôi có thời gian làm quen với các khu chợ trong thành phố, thu thập toàn bộ những thứ tôi yêu cầu. Nếu có ai xứng đáng nhận công lao cho tất cả những việc này, thì đó chính là cậu ta. Dù vậy, tôi cũng đành miễn cưỡng thừa nhận rằng đóng góp khác của Rish đã đảo lộn mọi thứ. Tôi thậm chí còn chẳng hề hay biết Tân Panchon lại cài cắm gián điệp tại Mangtier.
+
+  
+
+Được rồi, thế là đủ rồi. Chúng ta hãy…

@@ -1,241 +1,122 @@
-# MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-Dì Gynger cùng bốn người Thứ Phẩm khác rảo bước vén tấm bạt bước vào lều chỉ huy, khiến Yenne khẽ hít một hơi bàng hoàng nghẹt thở. Crooked Rish sải bước tiến vào ngay giữa hàng ngũ của họ. Khác hẳn với những viên chỉ huy dạn dày trận mạc đang khoác lên mình chiếc áo choàng quân vụ đẫm mùi khói súng của lực lượng Đồ Tể, Rish vẫn trung thành với bộ trang phục xuề xòa quen thuộc: chiếc áo vải thụng thùng thình cùng chiếc quần ống rộng đã sờn rách gấu, mái tóc dài lượn sóng buông xõa dẫu đã thưa thớt nhiều phần. Thế nhưng tuyệt nhiên chẳng có nét gì là giản dị ở một người đàn ông mang vết sẹo chém vắt ngang cổ họng ngoằn ngoèo và lồi cộm đến mức gần như ánh lên sắc hồng ma quái dưới ánh đèn măng-sông.
+*Là một trong những món ăn cay nồng bậc nhất Đế quốc, món thịt quái thú Gryphon băm này ngon nhất khi dùng kèm với cơm trắng, một đĩa rau củ xào giòn và sinh tố sữa chua nhằm xoa dịu vị cay tổng thể.*
 
-  
+  **Nguyên liệu** (phần 2 người ăn):
 
-“Ô - Ông đã bỏ mạng trong cuộc Hồi hương rồi cơ mà,” cô lắp bắp kinh hãi.
+    - Phần xốt cà ri:
 
-  
+      - 15 đến 16g ớt hiểm khô, ngắt cuống (và bỏ hạt nếu muốn giảm độ cay nồng cùng hương vị)
 
-Người đàn ông lách người vào khoảng trống bên cạnh cô rồi khẽ nháy mắt tinh quái. “Cõi vĩnh hằng lạnh lẽo quá đỗi tẻ nhạt so với cái thói lông bông của Crooked Rish này, thế nên lão già này đành mò về lại dương gian. Bất ngờ chưa cô bé!”
+        
+- 1 thìa cà phê muối biển
 
-  
+        
+- 4 tép tỏi, băm nhỏ
 
-Paprick chỉ khẽ khịt mũi cười nhạt.
+        
+- 12g củ riềng tươi, cạo vỏ và thái lát mỏng (càng mỏng càng tốt)
 
-  
+        
+- ½ củ hành khô, thái lát mỏng
 
-“Rõ ràng ông từng bị chặt đầu lìa khỏi cổ,” Yenne gặng hỏi tiếp, và Crooked Rish quả quyết gật đầu lia lịa, làm hằn rõ thêm vết sẹo lồi đỏ quấn quanh cuống họng lão.
+        
+- 20g sả cây, thái lát mỏng từ phần gốc, bỏ phần lá phía trên
 
-  
+        
+- Vỏ bào của 1 quả chanh và ½ thìa cà phê nước cốt chanh
 
-“Một trải nghiệm chẳng mấy êm ái gì, đúng không nào?”
+        
+- 1 thìa cà phê tương miso đỏ
 
-  
+        
+- 2 thìa cà phê tiêu sọ trắng, xay thành bột
 
-Những người Thứ Phẩm còn lại trong phòng chỉ huy đều là những gương mặt hoàn toàn xa lạ với cô. Một người mang dáng lưng còng gập cùng đôi mắt trũng sâu đặc trưng của kẻ cả đời vùi đầu vào đống sổ sách và văn kiện hành chính. (Nếu trên đời này có ai nhận diện chuẩn xác mẫu người ấy chỉ qua một ánh nhìn, thì đó chắc chắn phải là cô.) Hai người còn lại toát lên phong thái tương đồng với Gynger hơn, với khí chất quân nhân kỷ luật thép cùng uy quyền sắc sảo khi họ chụm đầu trao đổi thì thầm to nhỏ.
+        
+- ½ thìa cà phê bột rễ trời Skyroot
 
-  
+        
+- ½ thìa cà phê bột rau mùi
 
-Một tiểu đội binh lính nối đuôi nhau bước vào tiếp tế thêm đồ ăn, chiếc bàn gỗ dã chiến trong chốc lát đã chất đầy những món ăn nóng hổi: một tô lớn quả bơ dầm tươi mát, vài đĩa salad rau đồng giòn rụm, hai giỏ bánh ngô nướng nóng hổi nghi ngút khói, các âu xốt salsa đỏ rực, cơm chiên thảo mộc cùng đậu hầm đậm đà, song tuyệt nhiên chẳng có món nào mang dáng dấp của một món thịt chính trong mắt Yenne. Cô nín thở chờ đợi có thêm lính hầu khiêng vào một con lợn quay béo ngậy hay vài tảng thịt quái thú Emphon tươi sống, thế nhưng đám lính đã lặng lẽ rút lui, để mặc nhóm chỉ huy bắt đầu múc đầy thức ăn vào đĩa phần của mình.
+      
+- 1 thìa cà phê dầu thực vật (tùy chọn)
 
-  
+      
+- 250g thịt đùi quái thú Gryphon, băm nhỏ
 
-Khẽ nhăn trán vẻ bận tâm, bé Musta chuyền một chiếc đĩa chất đầy thức ăn sang trước mặt Yenne. “Mẹ cháu bảo cô cũng được quyền ăn đấy.”
+      
+- 2 thìa canh nước tương tamari
 
-  
+      
+- ¼ thìa cà phê mật mía
 
-Yenne dè dặt nhấm nháp từng mẩu nhỏ, không hẳn vì lo sợ độc dược ám hại mà bởi cô e rằng tiếng nhai rau củ giòn tan nơi kẽ răng sẽ làm phân tâm khả năng lắng nghe những bí mật sống còn đang được bàn thảo.
+      
+- 10g sả cây, thái lát mỏng từ phần gốc, bỏ phần lá phía trên
 
-  
+      
+- 10 lá chanh thái tươi, thái chỉ mỏng
 
-“Cục diện chiến trường lúc này đang giằng co ở đâu rồi?” Paprick lên tiếng hỏi sau vài phút dùng bữa.
+      
+- 1 đến 3g ớt hiểm tươi, ngắt cuống và thái lát dày
 
-  
+      
+- 1 nhánh hành lá, thái nhỏ từ ngọn, dùng để trang trí
 
-Một người đàn ông da ngăm vạm vỡ bị cụt hai ngón tay trên bàn tay trái đứng bật dậy, sải bước tiến lại gần tấm bản đồ thành phố Ranch trải rộng trên bàn. “Khu Trại Nhốt Pen cùng các phân khu lân cận đã hoàn toàn thuộc quyền kiểm soát của chúng ta. Chừng một nửa Phố Mây cùng khu Cư Xá Ổ Chuột bên ngoài tường thành cũng đã được giải phóng.” Ngữ điệu của ông ta không hề mang vẻ kiểu cách của tầng lớp Thượng Phẩm, nhưng cũng chẳng hẳn là thanh âm mộc mạc của giới Thứ Phẩm. Rất có thể là âm sắc phương ngữ Spurian.
+    
 
-  
+**Các bước thực hiện**:
 
-Musta nhanh nhảu nhảy tót khỏi ghế, chìa một mẩu than chì sang cho người đàn ông. Khẽ gật đầu thay cho lời cảm ơn, ông ta dứt khoát vạch một vòng tròn đậm nét khoanh vùng các khu vực đó.
+    - Để bắt đầu làm phần xốt cà ri, ngâm ớt trong nước khoảng 5 phút cho nở mềm đôi chút. Ớt cần đạt độ mềm xốp nhẹ nhưng vẫn giữ được độ chắc. Thấm khô rồi thái lát càng mỏng càng tốt nhằm tiết kiệm thời gian. (Nếu thấy nước ớt chảy ra quá nhiều trong lúc thái, bạn nên tăng độ dày của các lát cắt).
 
-  
+      
+- Mỗi lần chia khoảng 3g ớt đã thái cho vào cối cùng với muối và tỏi. Giã trong 1 đến 2 phút. Khi giã được nửa chừng, tăng thời gian lên 2 đến 3 phút cho mỗi mẻ (tổng thời gian giã khoảng 20 phút) cho đến khi thu được hỗn hợp xốt thật mịn, hầu như không còn thấy vỏ ớt vụn.
 
-“Quân ta cũng đã làm chủ hoàn toàn Cổng Nam và Vùng Khô Hạn.” Ông ta vạch tiếp một hình bầu dục lớn bao trùm phần lớn các phân khu cực nam thành phố. “Bè lũ Thượng Phẩm tàn dư đang cố thủ điên cuồng ở đây, ở đây, và chốt chặn này, điều đó khiến Nhà Kính cùng Chợ Gia Vị Hắc Ám tạm thời vẫn nằm ngoài tầm kiểm soát của chúng ta.”
+      
+- Lần lượt cho củ riềng, hành khô, sả và vỏ chanh bào vào từng thứ một, giã đều cho đến khi tất cả hòa quyện hoàn toàn.
 
-  
+      
+- Cho toàn bộ nước cốt chanh, miso đỏ và phần bột gia vị còn lại vào cùng một lúc, dùng phới lồng nhỏ khuấy đều đến khi hỗn hợp xốt trở nên sánh mịn, đồng nhất về màu sắc và nước cốt chanh đã ngấm hoàn toàn.
 
-“Còn Học viện Ẩm thực thì sao?” Paprick truy vấn.
+      
+- Làm nóng chảo sâu lòng trên mức lửa vừa cao cho đến khi đủ nhiệt. Tùy chọn, bạn có thể cho thêm dầu khi chảo đã nóng, dẫu việc này không thực sự cần thiết trừ phi hỗn hợp xốt cà ri bị mất quá nhiều nước. Khi chảo đã nóng, cho trực tiếp xốt cà ri vào chảo. Nếu chưa dậy mùi thơm ngay lập tức, hãy thêm chút dầu. Đun nóng trong 30 giây.
 
-  
+      
+- Cho thịt Gryphon băm vào, liên tục đảo vét xốt cà ri cùng thịt Gryphon bám trên lòng chảo trong 3 đến 4 phút, tùy thuộc vào độ mịn của thịt băm.
 
-“Báo cáo trinh sát từ cứ điểm đó mang lại những bất ngờ lớn đấy, thưa Bếp trưởng,” người lính chỉ huy kia cất giọng đáp lời. Giới tính của người này có phần mơ hồ trong mắt Yenne, nhưng chất giọng Thứ Phẩm thì rõ mồn một không thể nhầm lẫn. “Tòa tháp Học viện hoàn toàn rơi vào cảnh hoang tàn đổ nát. Bị bỏ hoang hoàn toàn.”
+      
+- Trong khi vẫn đảo đều tay thịt Gryphon, thêm nước tương tamari và mật mía vào. Đảo thêm 30 giây cho đến khi gia vị ngấm đều và mật mía bắt đầu chuyển màu caramen, phủ bóng lên lớp xốt cà ri bao quanh thịt Gryphon.
 
-  
+      
+- Hạ lửa xuống mức vừa, cho các nguyên liệu còn lại vào (trừ phần hành lá trang trí), rồi đảo đều trong khoảng một phút nữa cho đến khi tất cả hòa quyện hoàn toàn.
 
-Paprick quay ngoắt sang nhìn Yenne, ánh mắt xoáy sâu: “Cô không hề hạ lệnh tu sửa nó sao?”
+      
+- Nhấc chảo ra khỏi bếp, bày lên đĩa cơm trắng nếu dùng kèm, rồi rắc hành lá trang trí.
 
-  
+    
 
-“Tôi không được trao quyền hạn đó.”
+**Hiệu ứng Sức bền ma thuật dự kiến:**
 
-  
+    - Sức bền ma thuật, duy trì trong 4 đến 6 giờ
 
-“Crooked Rish cũng từng nghe phong thanh những lời đồn đại tương tự ngoài chợ đen,” chính lão già có vết sẹo quanh cổ lên tiếng xác nhận.
+      
+- Khả năng thao túng tán cây lá và thực vật lân cận, bao gồm cả hệ thống rễ cây, biến chúng thành các hình dạng và cấu trúc xác định, duy trì trong 4 đến 6 giờ
 
-  
+    
 
-“Và nơi đó hoàn toàn không có lính canh gác sao? Tuyệt đối không có lấy nửa vết tích nào của Dyl ư?”
+**Hiệu ứng Sức bền ma thuật tăng cường:**
 
-  
+    - Khả năng thúc đẩy sinh trưởng hoặc làm khô héo thảm thực vật chịu thao túng, duy trì trong 4 đến 6 giờ
 
-“Nếu họ từng lẩn trốn ở đó, đội trinh sát vẫn chưa lần ra manh mối, thưa Bếp trưởng.” Người lính chỉ huy ngập ngừng đôi chút, tựa như đang gom góp hết can đảm để thốt ra điều trăn trở. “Nếu tôi mạn phép được bày tỏ thắc mắc, Chef?”
+    
 
-  
+**Hiệu ứng Biến thể:**
 
-“Cậu đang bận tâm điều gì thế, Đầu Bếp Chiến Trận?”
+    - Chưa xác định
 
-  
+    
 
-“Liệu việc dốc cạn nhân lực để lùng sục Viện trưởng Dyl có thực sự đáng giá vào lúc này không?” Ánh mắt người đó kín đáo lướt sang phía Yenne đầy cảnh giác. “Tôi tuyệt đối không dám nghi ngờ phán đoán chiến lược của anh, nhưng anh đang phân tán quá nhiều nguồn lực tinh nhuệ cho cuộc tìm kiếm này. Đáng lẽ chúng ta phải tập trung toàn lực đập tan tuyến phòng thủ kiên cố của Zesta tại hoàng cung mới phải.”
+**Hiệu ứng từ quái thú Emphon:**
 
-  
-
-Người đàn ông mang dáng dấp học giả khẽ lắc đầu phản bác, cất giọng Thứ Phẩm trầm ổn: “Dyl Corzon nắm giữ những bí mật thông tin vô giá đối với sự sinh tồn của chúng ta.”
-
-  
-
-“Mỗi một khắc thành phố này chìm trong loạn lạc là thêm biết bao đồng bào Thứ Phẩm phải ngã xuống oan uổng!” vị Đầu Bếp Chiến Trận gay gắt phản biện. “Cánh Đồng Cỏ Cao lại một lần nữa biến thành cơn ác mộng tắm máu lần thứ một nghìn trong suốt mười hai năm qua rồi!”
-
-  
-
-Paprick điềm tĩnh nhai nốt miếng bánh trên tay rồi chậm rãi hớp một ngụm nước lớn. “Tôi sẽ tự tay thanh toán món nợ với Zesta sau. Bè lũ tàn dư Thượng Phẩm lúc này chỉ là chướng ngại vật ngáng đường giữa chúng ta và kẻ thù diệt thế thực sự. Tôi thấu hiểu nỗi sốt ruột của cậu, Chef à, nhưng sẽ chẳng còn lấy một người Thứ Phẩm nào sống sót trên cõi đời này nếu chúng ta không tìm ra giải pháp tối thượng để đối đầu với quái thú Empheron.”
-
-  
-
-Người đàn ông đang đứng trước bản đồ tác chiến khẽ hất cằm về phía các bức ký họa quái thú Emphon của Musta treo kín trên vách lều. “Ai đã vẽ nên những bức tranh này thế?”
-
-  
-
-Trong một khoảnh khắc ngập ngừng hiếm hoi, Musta tròn mắt nhìn sang mẹ mình để xin phép trước khi rụt rè giơ cánh tay nhỏ xíu lên. “Dạ là cháu vẽ ạ.”
-
-  
-
-Người đàn ông bị cụt hai ngón tay nở một nụ cười rạng rỡ đầy thán phục, rồi quay phắt sang phía Paprick: “Bếp trưởng, hay là chúng ta…”
-
-  
-
-“Không được,” Paprick dứt khoát ngắt lời. “Chưa phải là thời điểm thích hợp.”
-
-  
-
-Gynger khựng lại, miếng thức ăn vẫn còn ngậm nguyên trong khóe môi. “Chưa phải lúc ư?” bà ngạc nhiên hỏi lại.
-
-  
-
-Crooked Rish húng hắng hắng giọng, tiếng thở rít qua vết sẹo cổ họng nghe thật rợn người. “Bầy quái thú Gryphon phục vụ quái thú Empheron đã tung cánh bay rợp trời rồi đấy, Pappy cưng à. Đôi tai thính nhạy của ta mách bảo rằng lũ quái điểu ấy sẽ giáng xuống thành phố này trước khi mặt trời lặn. Chắc chắn bọn chúng sẽ đòi đàm phán với bất kỳ kẻ nào đang nắm quyền kiểm soát Ranch. Nếu lúc ấy chúng ta vẫn đang sa lầy trong cảnh huynh đệ tương tàn, Crooked Rish này e rằng những gì bọn chúng bẩm báo lại cho chủ nhân sẽ chẳng tốt đẹp gì đâu.”
-
-  
-
-“Dyl hiện đang ẩn náu ở đâu?” Paprick quay ngoắt sang truy vấn nữ lưu trữ viên, ánh mắt rực lửa.
-
-  
-
-“Làm sao tôi có thể biết được chứ?” cô lạnh lùng đáp trả. “Tôi đã bị anh giam lỏng suốt gần ba ngày trời tại đây rồi cơ mà! Anh còn muốn bức bách điều gì ở họ nữa?”
-
-  
-
-“Đừng ép tôi phải dùng đến quyền năng mệnh lệnh để cạy miệng cô ra.”
-
-  
-
-Nữ lưu trữ viên nhếch mép cười khẩy đầy thách thức. “Ồ, tôi hiểu tỏng dã tâm của anh rồi. Đó là lý do vì sao lúc trước anh lại dùng thứ quyền năng giọng nói ma thuật quái ác đó để ép tôi phải khai báo về chứng bệnh của mình. Anh nuôi mộng khiến tôi ngộ nhận rằng bản thân sẽ buộc phải đầu hàng thú nhận mọi chuyện. Chà, tôi đã nhìn thấu tim đen của anh rồi đấy! Thứ ma thuật cưỡng chế tâm trí đó chỉ phát huy tác dụng một khi mục tiêu nắm chắc một trăm phần trăm sự thật trong đầu mà thôi! Tôi hoàn toàn có thể đoán già đoán non về nơi Pare Dyl đang ẩn náu, nhưng tôi thừa sức phán đoán sai lệch vì trăm ngàn nguyên do khác nhau. Lần này anh đừng hòng moi móc được nửa lời từ miệng tôi.”
-
-  
-
-Một miếng bánh ngô giòn rụm vỡ nát dưới hàm răng nghiến chặt của Paprick. “Thế nếu tôi nói cho cô biết tường tận lý do vì sao tôi bắt buộc phải tìm ra họ thì sao?”
-
-  
-
-“Tôi không nghĩ trên cõi đời này còn tồn tại điều gì đủ sức thuyết phục tôi giao nộp cha mình vào tay một kẻ đồ tể như anh đâu.”
-
-  
-
-“Đừng tốn công hao sức đôi co với con ả đó nữa, cháu ạ,” Gynger nghiêm giọng chen ngang. “Nó cùng bè lũ thân thích nhà nó xưa nay đều là những kẻ ngoan cố hết thuốc chữa rồi.”
-
-  
-
-Khóe môi Paprick khẽ giật giật vẻ không cam lòng, nhưng rồi anh dằn lòng dời sự chú ý trở lại phía người chỉ huy tác chiến. “Hãy chuyển hướng cuộc lùng sục các đường hầm ngầm phụ về phía Cánh Đồng Cỏ Cao ngay lập tức. Nếu tình thế bắt buộc, hãy trích số bột rễ trời Skyroot còn lại trong kho dự trữ ra làm vài chiếc bánh taco cường hóa. Nhưng tối đa chỉ được làm ba chiếc thôi đấy! Chúng ta chỉ cần dọn sạch một hành lang an toàn dẫn thẳng tới cung điện hoàng gia là đủ.”
-
-  
-
-“Thế nhỡ Zesta đích thân xuất đầu lộ diện nghênh chiến thì sao, thưa Bếp trưởng?” người chỉ huy lo lắng hỏi. “Rish nắm được tin mật rằng mụ ta đang vung tay dốc sạch kho báu ma thuật cuối cùng của mình để tự tay nổi lửa chuẩn bị một đại yến tiệc đấy.”
-
-  
-
-“Vài tin đồn trinh sát khiến tôi lo ngại rằng ả ta đang nắm trong tay thứ quyền năng…” Anh khựng lại, thận trọng liếc mắt nhìn nữ lưu trữ viên. “Thứ mà anh bạn Laven từng khai phá ra từ trong lòng cây đại thụ Ygminsul, Pappy à.”
-
-  
-
-“Nếu ả ta thực sự chiếm đoạt được quyền năng Ovatry ấy, thì quả là một sự lãng phí tột cùng khi ả không chịu đứng chung chiến tuyến với chúng ta. Dẫu vậy, nếu tình thế vượt ngoài tầm kiểm soát, hãy lập tức báo động cho tôi. Tôi đích thân sẽ ra tay hạ gục ả.”
-
-  
-
-Gynger và Rish kín đáo trao nhau một ánh nhìn đầy ẩn ý khi nghe câu khẳng định chắc nịch ấy.
-
-  
-
-“Tôi có một phương án tác chiến thay thế mang tính đột phá, Chef,” người đàn ông đang chấm bản đồ bất ngờ lên tiếng đề xuất.
-
-  
-
-“Tôi đang lắng nghe đây.”
-
-  
-
-“Chúng ta hoàn toàn có thể cho con quái thú Wolphon Fenrir nuốt trọn Gia vị ướp Drakephon để khổng lồ hóa nó lên kích thước cực hạn.”
-
-  
-
-“Cậu phát điên rồi à?” Gynger quát lên giận dữ. “Lần trước có kẻ dại dột thử nghiệm trò dung hợp điên rồ tương tự, chúng ta đã phải trả cái giá…”
-
-  
-
-“Đủ rồi!” Paprick nhanh chóng cất giọng đanh thép ngắt lời. “Hãy nhớ rõ trong căn lều này đang có mặt vị khách nào.”
-
-  
-
-Ánh mắt Gynger lập tức đảo qua nữ lưu trữ viên rồi quay lại nhìn người cháu trai của mình bằng vẻ ân hận: “Dì xin lỗi nhé, nhóc con.”
-
-  
-
-“Đó quả thực là một sáng kiến táo bạo, nhưng nước cờ liều lĩnh ấy sẽ ngốn sạch toàn bộ số bột rễ trời Skyroot quý giá cùng nguồn dự trữ bột tro lửa của rồng Drakephon Ignis cuối cùng của chúng ta. Chúng ta không tài nào lường trước được biến dị sinh học khủng khiếp nào sẽ xảy ra. Nếu quân ta có thể thu thập thêm nguyên liệu ma thuật, tôi có thể sẽ cân nhắc phương án đó, nhưng là để dành đối phó với hiểm họa quái thú Empheron mà thôi. Tôi tuyệt đối không bao giờ đem thứ ma thuật hủy diệt ấy ra tàn phá chính cái thành phố đang oằn mình trong đói khát này đâu.”
-
-  
-
-“Tuân lệnh, Chef,” người đàn ông giữ bản đồ trầm giọng đáp, dẫu sự hụt hẫng hiện rõ mồn một trong từng âm tiết.
-
-  
-
-“Còn báo cáo nào khẩn cấp nữa không?”
-
-  
-
-“Cho lão già này xin vài phút đàm đạo riêng được chứ, Pappy cưng?” Rish bất ngờ lên tiếng.
-
-  
-
-“Tất cả mọi người lui ra ngoài hết đi. Musta, nếu em ở lại, nhớ giữ trật tự và hạn chế tối đa việc chen ngang lời người lớn.”
-
-  
-
-“Dạ vâng ạ!” cô bé ngoan ngoãn đáp.
-
-  
-
-Khi các chỉ huy lần lượt vén bạt bước ra ngoài, Rish đẩy chiếc xe lăn tiến sát lại gần bàn của Paprick và thì thầm điều gì đó rất khẽ. Khi Paprick gật đầu đồng thuận, Rish bèn đặt một bàn tay chai sần đầy chân tình lên vai anh, trầm giọng nói: “Cảm ơn cậu nhé.”
-
-  
-
-Dựa trên những ân oán đẫm máu mà tai nghe mắt thấy trong quá khứ, nữ lưu trữ viên thầm đinh ninh rằng cử chỉ thân mật ấy sẽ khiến Paprick nổi trận lôi đình, thế nhưng anh lại điềm đạm đáp lại một cách tôn trọng: “Không có chi, ông già.”
-
-  
-
-“Màn bàn thảo tác chiến vừa rồi quả thực đã khai sáng cho tôi khối điều đấy chứ,” nữ lưu trữ viên mỉa mai lên tiếng khi bóng dáng Rish vừa khuất sau tấm bạt lều.
-
-  
-
-“Ừ, tôi biết cô thông tuệ lắm, và hẳn là cô đã tự mình chắp vá ra cả mớ dữ kiện đắt giá đủ để giúp cô tiến xa khi cứ phải giam mình trong căn lều dã chiến này cùng tôi suốt mấy ngày qua nhỉ. Nào, câu chuyện hồi ức của chúng ta vừa dừng lại ở đoạn nào rồi ấy nhỉ?” Anh khẽ mỉm cười, có lẽ đó là nụ cười chân thành và nhẹ nhõm nhất mà nữ lưu trữ viên từng chứng kiến ở người đàn ông này. “Phải rồi…”
+    - Gryphon: khả năng tương tự, nhưng dường như còn tác động lên cả xương người (rất may là chỉ tác dụng với người đã khuất)

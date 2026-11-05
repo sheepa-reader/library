@@ -1,337 +1,101 @@
-# Ngày 1: 7 Đại Công Thức Cổ Điển
+# MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ
 
-*GHI CHÚ CỦA YENNE*
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-## GHI CHÚ CỦA YENNE
-
-  
-
-## HỆ THỐNG ĐẠI CÔNG THỨC
+NGƯỜI LÍNH KHĂN VÀNG đảm nhiệm việc áp giải các tù nhân ra vào để dùng “bữa ăn” thò đầu qua tấm rèm cửa vào. “Có một kẻ đã chịu mở miệng rồi, thưa chỉ huy.”
 
   
 
-## Ngày 1: 7 Đại Công Thức Cổ Điển
-
-  - **Đại công thức 1: Hương Vị Đầu Tiên:** Kích hoạt Sức bền ma thuật cơ bản.
-
-    
-- **Đại công thức 2: Salad tỉnh táo:** Triệt tiêu nhu cầu ngủ, duy trì sự tỉnh táo liên tục.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Gia tăng tốc độ phản xạ xuất thần song hành cùng trạng thái thức trắng không mệt mỏi.
-
-    
-- **Đại công thức 3: Thịt băm Emphon (quái thú bò mộng Emphon):** Gia cường nắm đấm cơ bắp bọc thép.
-
-    
-- **Đại công thức 4: Bít tết khoai tây chiên:** Mở rộng năng lực quan sát thị giác siêu nhiên.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Biến thể Khẩu vị Tăng cường (khoai tây chiên đậu Zensu):* Kích phát nhận thức siêu nhạy bén về các trạng thái chuyển hóa hoàn mỹ của nguyên liệu và không gian.
-
-    
-- **Đại công thức 5: ớt ma thuật kiểm soát tâm trí:** Năng lực thao túng, kiểm soát hành vi của quái thú Emphon và những con người mang thể xác khổng lồ tương đương quái thú Emphon.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Năng lực cưỡng chế, điều khiển quái thú Emphon xác sống hồi sinh. *(Liệu có thể thao túng cả những con người mang thể xác khổng lồ đã chết chăng? Cần tiến hành thực nghiệm kiểm chứng).*
-
-    
-- **Đại công thức 6: Gia vị ướp Emphon (quái thú bò mộng Emphon):** Phóng đại thể xác người dùng tăng trưởng lên tới chiều cao hai mươi mét, tương đương với kích thước thực tế của quái thú bò mộng Emphon đã hấp thụ.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (bánh taco Emphon):* Kéo dài thời gian duy trì hiệu ứng ma thuật, biến đổi khung xương ngấm năng lượng ma thuật Endurium siêu cứng.
-
-      
-- *Các Biến thể Khẩu vị:* Gia vị ướp hoặc bánh taco biến thể lợn rừng Badgeboar, biến thể rắn biển Dolphon, biến thể Điểu sư.
-
-      
-- *Kỹ thuật Dung Hợp Đại Công Thức:* Bánh taco **Thực phẩm Hành Trình** (kết hợp cùng trứng Điểu sư, vừa phóng đại kích thước vừa mang trọng lượng nhẹ bẫng tựa lông hồng).
-
-    
-- **Đại công thức 7: Súp bắp bò phóng hỏa:** Thao túng và phóng hỏa ngọn lửa ma thuật cực hạn.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (Súp bắp bò phóng hỏa của Mẹ Sesa):* Khởi tạo những cột lửa cuồng nộ thiêu rụi vòm trời.
+“Đưa ả vào,” Đồ Tể ra lệnh.
 
   
 
-## Ngày 2: Các Đại Công Thức Mới & Bí Thuật Phương Tây
-
-  - **Bánh enchilada Thấu thị:** Năng lực trực giác phát hiện và lật tẩy mọi lời dối trá.
-
-    
-- **Cà ri khô Điểu sư:** Thao túng sự sống của cây cỏ và cành lá đại ngàn.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường:* Cưỡng ép sự sinh trưởng thần tốc hoặc làm khô héo thảm thực vật theo ý muốn.
-
-      
-- *Hiệu ứng Emphon (Điểu sư):* Tác dụng tương tự như trên kèm theo sự cường hóa khung xương. *(Chắc hẳn tên Đồ Tể đang nói dối mình nhằm che đậy điều gì đó?)*
-
-    
-- **Bít tết Cuồng Phong Bão Tố:** Ban phát sức bật nhảy xa ở khoảng cách phi thường, thao túng sấm chớp cuồng nộ.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Phép Tăng cường (Bít tết Bão Tố của Cutler):* Biến đổi toàn bộ cơ thể người dùng hòa vào một cơn bão sấm sét khổng lồ.
-
-      
-- *Các Biến thể Khẩu vị:* Điều chỉnh linh hoạt phạm vi và quy mô của vùng bão ma thuật.
-
-    
-- **Cà ri Tiếng Nói Vindaloo:** Ra lệnh cưỡng chế phục tùng tuyệt đối bằng giọng nói nhắm vào con người.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Hiệu ứng Emphon (Điểu sư):* Ban phát khả năng thấu hiểu và cất tiếng nói bằng ngôn ngữ loài người cho quái thú Emphon.
-
-    
-- **Bánh cuộn người hóa thú Werephon (quái thú bò mộng Emphon):** Biến đổi thể xác thành dạng người hóa thú bước đi bằng hai chân, kết hợp sức mạnh giữa người và quái thú Emphon.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - *Các Biến thể Khẩu vị:* Hình thái sinh vật hai chân biến đổi linh hoạt tương ứng với nguồn gốc bơ thực vật chế biến.
-
-    
-- **Sữa chua lassi Sinh Mệnh:** Tái tạo và biến đổi vĩnh viễn các đặc tính thể chất bên trong cơ thể theo đúng bản ngã sâu kín.
-      
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    - Được định danh là *Đại công thức Tối thượng*, bản nâng cấp tối hậu của phép Tăng cường sữa Emphon.
-
-    
-- **Bánh Cưới:** Triệt tiêu, thanh tẩy và loại bỏ hoàn toàn mọi tàn dư năng lượng ma thuật Endurium cùng Sức bền ma thuật hiện hữu bên trong cơ thể.
+Tấm rèm vén rộng hơn khi một người phụ nữ Thượng Phẩm lảo đảo bước vào phòng. Nữ lưu trữ viên vốn đinh ninh đó sẽ là gã đàn ông đang sụt sùi, nhỏ dãi vì bị ép nuốt thịt người, nhưng cô không khỏi kinh ngạc khi nhìn thấy người phụ nữ tóc vàng từng tỏ ra bất khuất nhất. Toàn bộ vẻ kiên cường ngút trời ấy nay đã tan biến sạch trơn; mái tóc ả bết lại vì mồ hôi, còn làn da thì chùng xuống, tái nhợt và xám ngoét một màu xanh xao bệnh tật.
 
   
 
-## Những Món Ăn & Phép Thuật Khác Được Ghi Nhận
+Nữ lưu trữ viên lục lọi lại trong ký ức xem người phụ nữ này đã nuốt phải thứ thịt gì. Quái thú Wolphon. Thảo nào. Dù trong điều kiện hoàn hảo nhất, thịt của loài đó vốn dĩ đã có độc. Để lâu ngày thì càng chỉ có tệ hại hơn.
 
-  - **Mì Ý sốt thịt Bolognese Tầm Nhìn Chim Trời:** Quan sát toàn cảnh một khu vực rộng lớn từ góc nhìn trên cao của loài chim.
+  
 
-    
-- **Súp óc (Brain Bisque):** Thao túng và kiểm soát tâm trí của hàng trăm con người cùng lúc bằng sóng thần giao cách cảm. *(Đạt được hiệu ứng tương tự như sự kết hợp hoàn hảo giữa ớt ma thuật kiểm soát tâm trí và cà ri Tiếng Nói Vindaloo. Liệu đây có phải là một dạng Dung Hợp Đại Công Thức cổ xưa của Hoàng gia?)*
+Gã lính khăn vàng ấn ả ngồi xuống một cách thô bạo, đối diện với Musta, cô bé chỉ ngước lên khỏi bức vẽ trong thoáng chốc.
 
-    
-- **Bánh quesadilla Hỗn Loạn (Chaosadilla):** Kỹ thuật Dung Hợp Đại Công Thức đỉnh cao, bẻ gãy mọi quy luật đoán định tương lai, tái tạo ngẫu nhiên các Đại công thức đã biết *(độc nhất vô nhị, biến số ma thuật không thể tiên đoán)*.
+  
 
-    
-- **Sữa Emphon nguyên chất:** Chữa lành ngoại thương và hàn gắn xương cốt thần tốc.
-      
+“Tôi sẽ khai tất cả những gì các người muốn biết,” người phụ nữ Thượng Phẩm cất giọng tuyệt vọng. “Làm ơn khiến nó dừng lại đi.”
 
-    
+  
 
-    
+“Cô có biết vì sao ta cho cô ăn thịt quái thú Wolphon không?” Đồ Tể hỏi.
 
-    
+  
 
-    
+“Tôi không biết. Xin anh đấy.” Mắt người phụ nữ nhắm nghiền lại, quai hàm ả siết chặt khi một cơn đau thấu xương dội lên mặt.
 
-    
+  
 
-    
+“Ta nghĩ là cô biết đấy,” Đồ Tể nói.
 
-    
+  
 
-    - *Phép Tăng cường (sữa Emphon xám):* Tái tạo tế bào thần tốc và vô hiệu hóa hoàn toàn cảm giác đau đớn.
+“Bây giờ điều đó còn quan trọng sao?” Người phụ nữ gắt lên, giọng đầy phẫn nộ. Ả vẫn chưa mở mắt ra.
 
-    
-- **Điểu sư chiên Thấu thị:** Khởi phát năng lực Tiên tri Thấu thị nhìn thấy trước các ngã rẽ tương lai.
-      
+  
 
-    
+Lần đầu tiên kể từ khi ngồi vào bàn cùng cô bé, Đồ Tể đứng dậy khỏi ghế. Dáng vẻ gần như thư thái, anh gấp chiếc khăn ăn thành một hình tam giác gọn gàng rồi đặt nó bên cạnh đĩa của mình. Những ngón tay anh lướt qua bộ đồ ăn bằng bạc khi vòng qua góc bàn tiến lại gần người phụ nữ, móng tay khẽ chạm phát ra tiếng lanh lảnh dịu nhẹ từ bộ dao dĩa tinh xảo. Không nói một lời, anh đặt cả hai tay lên vai người phụ nữ, khiến ả giật nảy mình hít vào một hơi gấp gáp.
 
-    
+  
 
-    
+“Parslee, Parslee, Parslee à,” Đồ Tể vừa nói vừa bóp nhẹ gáy ả. “Điều đó quan trọng với ta.”
 
-    
+  
 
-    
+Bất chợt, nữ lưu trữ viên nhận ra ả: Trung úy Parslee Addisoan. Nếu cô nhớ không lầm, Addisoan chính là kẻ từng giám sát chiến dịch đoạt lấy một cây rễ trời tại vùng tây bắc tranh chấp cách đây vài tháng.
 
-    
+  
 
-    
+“Làm ơn, cứ nói cho tôi biết các người muốn biết điều gì về quái thú Empheron đi. Nếu tôi biết chuyện đó… Á!” Parslee không thể nói hết câu khi một cơn quặn thắt dữ dội khác cắn mạnh vào đầu lưỡi ả. Máu rỉ ra nơi khóe miệng khi ả cố gắng thở dốc qua cơn đau.
 
-    - *Biến thể Khẩu vị (thuần chay):* Chưa xác định.
+  
 
-    
-- **Iron Cal:** Chưa xác định công năng và cơ chế.
+“Ta đã hỏi điều ta muốn biết rồi,” Đồ Tể nói, tay vẫn xoa bóp vai ả. “Cô có biết vì sao ta lại cho cô ăn thịt quái thú Wolphon không?”
 
-    
-- **Thư gửi trong chai:** Truyền tải thông điệp tâm linh bằng thần giao cách cảm tầm xa dưới dạng quả cầu ma thuật.
-      
+  
 
-    
+Parslee ngập ngừng một thoáng trước khi sự kiên cố cuối cùng bên trong ả đổ sụp. “Bởi vì tôi đã dâng thịt quái thú Wolphon cho nó.”
 
-    
+  
 
-    
+“Bởi vì cô đã dâng thịt quái thú Wolphon cho nó,” Đồ Tể lặp lại. Vừa nói, anh vừa quay trở lại chỗ ngồi của mình và cầm lấy lọ thuốc giải độc mà anh đã đưa ra lúc trước. Bằng động tác tỉ mỉ, anh rót chất lỏng trong lọ vào một chiếc thìa rồi bước lại gần viên trung úy. Anh vờ đưa nó ra cho ả nhưng liền rụt tay lại ngay khi ả chồm tới định với lấy.
 
-    
+  
 
-    
+“Anh còn muốn gì nữa?” Ả hỏi, giọng giờ đây mang vẻ suy sụp nhiều hơn là tuyệt vọng.
 
-    
+  
 
-    
+“Quái thú Empheron đã giao tiếp với các người bằng cách nào? Các người lấy đâu ra quái thú Bò sát Carnephon cần thiết để dùng ớt ma thuật kiểm soát tâm trí - Đại công thức 5 lên lũ quái thú Wolphon đủ lâu nhằm đưa chúng về phương nam cho quái thú Empheron? Các người đã chuyển giao bao nhiêu con cả thảy?”
 
-    - *Các Biến thể Khẩu vị:* Định vị và xác lập cự ly truyền tin tương ứng.
+  
 
-    
-- **Trứng cuộn Quan Sát:** Nhìn lại và tái hiện toàn bộ một sự kiện trong quá khứ từ đa chiều góc độ.
+Parslee chỉ mất một phút để khai ra cho anh những câu trả lời anh tìm kiếm, nhưng khoảng thời gian đó cũng đủ khiến nữ lưu trữ viên chết lặng vì bàng hoàng. Cô từng không thực sự tin Đồ Tể chỉ dọa suông khi anh nói Chỉ huy Wensoan đã ngả sang phe Empheron, nhưng khi tận tai nghe viên trung úy thuật lại… Wensoan đã ngấm ngầm phá hoại các kho quái thú Bò sát Carnephon của Tân Panchon rồi điều viên trung úy này từ vùng cực bắc của Đế quốc xuống tận sa mạc phương nam, nhồi nhét vào người cô ta món ớt ma thuật kiểm soát tâm trí - Đại công thức 5. Nữ lưu trữ viên không hề hay biết mọi chuyện đã diễn ra từ lâu đến thế.
 
-    
-- **Panna Cotta Ân Huệ:** Chữa khỏi dứt điểm một căn bệnh nan y cụ thể. *(Cơ chế chữa lành này khác biệt căn bản thế nào so với tác dụng sinh học của sữa Emphon?)*
+  
 
-    
-- **Bánh trà của Nguyên thuật sư:** Đọc suy nghĩ và thấu thị tâm can đối phương ở cự ly gần.
+“Đó là tất cả những gì tôi biết. Xin anh,” Parslee van nài. “Thuốc giải.”
 
-    
-- **Các bí thuật cổ xưa chưa rõ công thức định danh:** 
+  
 
-    - *Thuật phóng cầu lửa ma thuật:* Khác biệt với cơ chế của Súp bắp bò phóng hỏa.
+“Không,” Đồ Tể đáp, ném chiếc thìa xuống đất. “Kẻ phản bội phải chết vì chính vết thương của mình.”
 
-      
-- *Thuật chữa lành cho người khác:* Bí thuật hồi sinh của Sarah Shepherd.
+  
 
-      
-- *Thuật sấm sét hủy diệt:* Laven và Scalen thi triển, liệu có liên quan tới Bít tết Cuồng Phong Bão Tố không?
+Trong lúc Musta cười khoái chí, Đồ Tể cất tiếng gọi lính khẩu lệnh bên ngoài: “Hãy phơi ả Thượng Phẩm này dưới nắng trong lúc độc phát tác. Ta muốn ả nếm trải cái nóng thiêu đốt khi bỏ mạng.”
 
-      
-- *Thuật chưởng lực tâm linh:* Khả năng dùng ý niệm hất văng người khác từ xa của Sarah Shepherd.
+  
+
+“Không! Xin tha cho tôi!” Ả gào khóc khi người lính khẩu lệnh giật phắt ả ra khỏi ghế. “Tôi đâu còn lựa chọn nào khác. Hắn ép tôi phải làm thế!”
+
+  
+
+“Tất cả chúng ta đều có lựa chọn,” Đồ Tể nói, ánh mắt vẫn găm chặt vào nữ lưu trữ viên khi anh ngồi xuống. “Chỉ là ta có chịu nhận ra chúng hay không thôi.”

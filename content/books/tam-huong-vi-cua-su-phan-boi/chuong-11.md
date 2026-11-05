@@ -1,177 +1,113 @@
-# MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN
+# 6 MỘT CUỘC TẮM MÁU NGOẠI GIAO
 
 *Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-TRƯỚC KHI ĐỒ TỂ kịp tiếp tục, tấm màn lều được vén lên và một người đàn ông da trắng bầm dập khắp người, bị trói bằng xích sắt, bị một người lính gác vạm vỡ đẩy về phía trước. Đó là một lính khăn vàng, nếu nữ lưu trữ viên hiểu đúng ý nghĩa của chiếc khăn rằn màu vàng quấn dưới cằm rậm rạp của hắn. Nhưng đôi mắt hắn không hề phát sáng ánh vàng kim của Sức bền ma thuật.
+“Bánh enchilada lên quầy chuyển món!” Laven hô lớn với cả đội bếp. “Phần chay trứng sữa và thuần chay ở đằng kia, Vanil,” cậu nói thêm, đưa tay chỉ.
 
   
 
-“Vào đi,” gã lính khăn vàng cất giọng, ấn tù nhân ngồi xuống chiếc ghế gần sát bên tay phải của Đồ Tể. “Đưa những kẻ còn lại vào.”
+Một vài người trong phái đoàn Đế quốc Badgeboar đã từ chối dùng thịt quái thú Emphon, điều khiến tôi suýt chút nữa ghen tị. Cuộc đời tôi từng đơn giản hơn biết bao khi bản thân không cảm thấy cần phải tiêu thụ thứ thịt ấy ở mọi ngã rẽ. Và biết đâu chừng, những đĩa chay đó còn ngon hơn. Tôi thực sự chưa có cơ hội nếm thử trọn vẹn món bánh enchilada thịt xông khói của mình, mà chỉ thử riêng từng thành phần trong lúc nấu nướng; nhưng tôi đã làm phiên bản nấm vô số lần bên cạnh các mẹ, chú Macen và Dì Gynger suốt thời thơ ấu, còn món phô mai hạt điều của Laven thì ngon đến mức báng bổ cả thần thánh.
 
   
 
-Thêm năm người nữa bị xích bước lảo đảo đi vào. Gã lính khăn vàng sắp xếp chỗ ngồi cho họ quanh bàn ăn, dường như theo những vị trí đã định sẵn.
+Tôi hít một hơi thật sâu. Sẽ ổn thôi. Chúng tôi có thể xoay xở được phong cách ẩm thực bất tận này.
 
   
 
-“Xin ngài,” tù nhân đầu tiên cất lời bằng chất giọng của người Thượng Phẩm. “Xin đừng giết chúng tôi.” Người đàn ông này có nét gì đó quen thuộc mơ hồ. Bất chấp vị trí từng nắm giữ trong chính quyền Thượng Phẩm của nữ lưu trữ viên, chẳng mấy gương mặt xứng đáng để cô phải ghi nhớ.
+“Món tráng miệng thế nào rồi, Chef?” Tôi hỏi Laven.
 
   
 
-“Giết các người ư?” Đồ Tể lặp lại. “Tại sao ta lại phải giết các người?”
+“Chúng ta sẽ làm ngon ơ thôi,” cậu đáp. “Tôi lo việc Cori vẫn chưa tới hơn.”
 
   
 
-“Đừng chế giễu chúng tôi nữa,” một phụ nữ Thượng Phẩm khác lên tiếng, mái tóc vàng bết bát, máu khô đọng dưới móng tay và một bên mắt bầm tím.
+Tôi cũng lo, nhưng không muốn thừa nhận điều đó. “Em ấy sẽ tới thôi.” Đúng lúc ấy, tôi nghe thấy tiếng dây đàn guitar đang chỉnh âm. “Thấy chưa, chẳng có gì phải lo cả. Em ấy sẽ cất tiếng đàn trước khi các món ăn được bưng lên bàn.”
 
   
 
-“Cũng có lý,” Đồ Tể đáp. “Ngươi nói đúng. Ta có hàng trăm, nếu không muốn nói là hàng ngàn lý do để tước mạng sống của từng kẻ trong số các ngươi, nhưng ta sẽ không giết các ngươi trên bàn ăn của mình. Nếu muốn, ta chỉ việc búng tay một cái.”
+“Cậu đã nếm thử món này chưa?” Laven hỏi, chỉ vào đĩa enchilada để dành của tôi. Một đĩa để tôi và cậu cùng chia sẻ, và ba đĩa khác dự phòng trường hợp người phục vụ làm rơi hoặc có món bị trả lại. Lẽ ra chúng tôi phải nếm phần của mình trước khi chuyển món đi, nhưng cả đội đã bị trễ giờ, món bánh samosa tốn nhiều thời gian hơn dự tính ban đầu cho một món khai vị.
 
   
 
-Nói đoạn, Đồ Tể búng tay, và đám người Thượng Phẩm giật nảy mình co rúm lại. Trong lúc anh cười khúc khích vẻ khoái trá, gã lính khăn vàng nhấc chiếc nắp đậy đĩa bằng bạc của Đồ Tể lên, để lộ một món ăn đỏ ửng mà nữ lưu trữ viên dù căng mắt nhìn từ xa cũng khó lòng nhận biết.
+Tôi cầm lấy một chiếc nĩa rồi xắn qua tuyệt phẩm xốp mềm mang sắc đỏ và vàng kim. Hương vị ập vào tôi như một cơn chấn động. Tôi vốn kỳ vọng một chuỗi hương vị đậm chất Ranch đầy chủ ý, tăng dần từ vị phô mai béo ngậy dịu nhẹ đến xốt salsa đỏ ngọt ngào, cay nồng; độ giòn cùng vị ngô của vỏ bánh tortilla; tất cả cuối cùng được tôn lên bằng sự hòa quyện mặn mòi, ngập tràn vị umami trực diện giữa nấm, hành tây và thịt xông khói. Thế nhưng, thứ tôi nhận được lại là một cuộc tra vấn hương vị đầy tinh tế. Một làn khói thăm dò tựa như hậu vị đọng lại sau một ngụm rượu mezcal. Từng thành phần giống như một câu hỏi thì thầm lướt qua đầu lưỡi tôi: *đây có phải ý của ngươi không? Ngươi có thực là kẻ như thế này? Ngươi có dám để lộ bản thân cho ta thấy?*
 
   
 
-“Trứng kiểu Ranch,” Đồ Tể thông báo.
+Món ăn rất ngon, đừng hiểu lầm, đó là một trong những món tuyệt nhất của tôi, nhưng lại không phải thứ tôi mong muốn cho buổi tối hôm nay. Sức bền ma thuật lập tức giáng một đòn nhói buốt phía sau tròng mắt tôi. “Chết tiệt.”
 
   
 
-Tù nhân ngồi sát Đồ Tể hít vào một hơi đầy thèm khát và bắt đầu chảy nước dãi. Nữ lưu trữ viên nhếch mép khinh bỉ trước hành vi của người đàn ông. Hắn không biết rằng kẻ khôn ngoan tuyệt đối không được để lộ điểm yếu trước kẻ săn mồi hay sao? Rốt cuộc những kẻ này là ai?
+“Một Đại công thức ư?” Laven phỏng đoán. Chiếc nĩa của cậu va lách cách vào đĩa khi cậu vội vàng xúc một miếng đưa vào miệng. “Ồ, bất ngờ thật đấy,” cậu lầm bầm khi đang nhai. Một khóe mắt của cậu khẽ giật giật lúc buông lời thì thào, một chi tiết mà trong trạng thái tự nhiên tôi không bao giờ có thể nhận ra.
 
   
 
-Một toán lính gác bước vào lều, mỗi người đứng sau một tù nhân. Đồng loạt, họ nhấc các nắp đậy đĩa lên, và nữ lưu trữ viên thầm cảm thấy may mắn vì Đồ Tể đã để cô dùng bữa trước. Dù phần ăn của cô vẫn còn thừa lại một chút, nhưng cô sẽ chẳng đụng tới nữa. Trên đĩa của mỗi tù nhân là một tảng thịt sống to bằng quả thận. Thậm chí có đĩa còn có ruồi nhặng vo ve bu quanh.
+“Cậu không hề nghĩ vậy,” tôi buột miệng nói, chẳng hề có chủ ý. “Cậu đã đoán được chuyện này khi nhìn vào mắt tôi.”
 
   
 
-Đồ Tể chỉ tay vào từng chiếc đĩa khi gọi tên phần thịt bày trên đó, bắt đầu từ tù nhân bên tay trái và lần lượt theo chiều kim đồng hồ: “Quái thú Bò sát Carnephon, quái thú Gryphon, quái thú Dolphon, lợn rừng Badgeboar, quái thú Wolphon.” Anh ngập ngừng một thoáng trước chiếc đĩa cuối cùng, thuộc về người đàn ông vừa mới chảy nước dãi thèm thuồng lúc nãy. “Thịt người. Ta tin chắc các ngươi có thể đoán ra đó là ai.”
+Cậu chăm chú nhìn đôi bàn tay bất động của tôi. “Cậu chắc chắn về điều đó lắm đấy, anh bạn.”
 
   
 
-Đột nhiên, một trong những tù nhân, người ngồi trước đĩa thịt quái thú Gryphon, nôn thốc nôn tháo lên đĩa của mình.
+*Cậu cũng vậy mà…*
 
   
 
-Vài kẻ khác bắt đầu ho sặc sụa cùng một lúc, tất cả đều tuyệt vọng van nài chút lòng thương xót.
+“Nói dối tôi xem nào,” cậu đột ngột bảo.
 
   
 
-“Câm miệng và ăn đi,” Đồ Tể ra lệnh, dẫu cho chính anh vẫn chưa nuốt một mẩu thức ăn chứa năng lượng ma thuật Endurium nào.
+“Tôi không coi trọng cậu hay bất cứ điều gì cậu đã làm cho tôi.”
 
   
 
-Và vì thế, họ buộc phải nuốt. Nhưng nữ lưu trữ viên chẳng việc gì phải nhìn cảnh tượng ấy. Thay vào đó, cô tự làm mình bận rộn bằng cách lật qua các trang sách, tìm kiếm bất kỳ manh mối nào giải thích lý do cô có mặt ở nơi đây trong khi ghi thêm vào những dòng nhật ký. Cô vờ như không nghe thấy những âm thanh ghê rợn phát ra từ đám tù nhân, vờ như không ngửi thấy mùi xú uế đang bốc lên nồng nặc của dịch mật, thịt thối rữa và máu tanh.
+Nét mặt cậu nói cho tôi biết cậu có thể nhìn thấu lời nói dối của tôi. Đúng như cách tôi đã nhận ra khi cậu cất lời.
 
   
 
-Rốt cuộc, các tù nhân cũng nuốt xong thứ khó lòng coi là bữa ăn kia. Kẻ bị ép ăn thịt người trông chẳng còn giống người mà tựa như một ma nơ canh vô hồn, rỗng tuếch và đờ đẫn. Chẳng ai trông có vẻ còn nói năng nổi. Mặt mày họ xanh như tàu lá chuối, mồ hôi vã ra như tắm. Nữ lưu trữ viên thậm chí không chắc người phụ nữ bị ép ăn thịt quái thú Wolphon có còn tỉnh táo hay không, dẫu mắt ả vẫn mở trừng trừng.
+“Món này cho chúng ta biết khi nào có ai đó đang nói dối,” tôi nhận ra. “Nhưng tôi đâu có định làm ra thứ này. Chuyện này lẽ ra không thể xảy ra.”
 
   
 
-“Các người có biết vì sao con người phải nấu chín thịt không?” Đồ Tể thong thả hỏi, vừa chọc chọc vào quả trứng của mình vừa nhai khi chẳng ai đáp lời. “Chúng ta đâu nhất thiết phải làm vậy. Phần lớn chúng ta đều có thể tiêu hóa thịt sống lúc ngặt nghèo nếu nó còn tươi. Chính những sinh vật chui rúc bên trong thớ thịt mới thường gây rắc rối cho chúng ta. Nấu chín sẽ giết chết chúng. Nhưng vấn đề là thế này: để thịt ngoài trời càng lâu thì càng dễ có thứ chui vào. Ta đã để phần thịt của các người ở ngoài một hồi lâu rồi đấy. Các người có thể sẽ bình an vô sự. Mà cũng có thể không.” Anh chộp lấy một chiếc chai nơi góc bàn. “Nhưng chỉ cần một ngụm thứ này thôi là mọi thứ sẽ trào ngược ra hết. Không cần phải lo.”
+“Chef?” Tiếng của Vanil vọng vào gian bếp, nỗi âu lo lơ lửng như làn hơi nước bốc lên dưới trần nhà.
 
   
 
-Từng người một, Paprick gặng hỏi xem họ có điều gì muốn khai với anh không, nhưng dường như anh đã dồn ép họ quá giới hạn. Chỉ duy nhất một kẻ là có vẻ nhận thức được câu hỏi. Anh thở dài, phẩy tay, và đám lính khẩu lệnh lôi những tù nhân bệnh hoạn dặt dẹo ra khỏi phòng. “Báo cho ta ngay khi có kẻ chịu mở miệng.”
+“Các thực khách.” Liệu có thứ gì nguy hiểm đối với một đám chính trị gia hơn là sự thật chứ? Tôi vội vã lao ra khỏi bếp.
 
   
 
-“Họ là ai thế?” Yenne hỏi khi bọn họ đã đi khuất.
+Khu vực dùng bữa chính phần lớn vẫn như thời Ilantra để lại, dẫu tôi đã thực hiện vài thay đổi. Những chiếc bàn vẫn bao quanh sân khấu hòa nhạc ở tầng một, và ban công tầng hai vẫn hướng tầm nhìn xuống bên dưới, nhưng Cori đã cho chạm khắc hình ảnh Mười Hai Vị vào phần gờ phía trước sân khấu. Nơi từng có những ô cửa sổ lớn nhìn ra khúc sông phía sau tòa tháp ở tầng một, giờ đây đã dựng lên một sàn hiên nhô ra mặt nước, mở rộng không gian hòa quyện giữa trong nhà với ngoài trời, đồng thời tăng thêm chỗ ngồi: điều chúng tôi đang vô cùng cần đến khi cả căn phòng đã chật ních như nhân bánh empanada với các đại biểu Badgeboar cùng những thành viên Nội các.
 
   
 
-Paprick cắn giòn rụm một miếng bánh tortilla chip, khẩu vị của anh dường như chẳng hề suy suyển trước cảnh tượng vừa rồi. “Gián điệp của Empheron, cài cắm ngay trong chính quyền của cô.”
+Trên sân khấu, Cori ôm chặt cây đàn guitar để che chắn, bộ âu phục màu tím thẫm em chọn đã hơi nhàu nhĩ như thể vừa bị xô đẩy nhẹ, dẫu chẳng ai nhận ra điều đó qua nét mặt điềm đạm của em. Trong cơn giận dữ sục sôi, một người đàn ông Badgeboar da ngăm, mặc chiếc quần culotte ống loe truyền thống bên dưới tấm áo choàng dệt từ lông vũ quái thú Emphon phanh ngực, đang vươn tay chộp lấy cây đàn guitar của Cori, đôi mắt gã bừng sáng Sức bền ma thuật.
 
   
 
-“Empheron thuê gián điệp là con người từ bao giờ vậy?”
+“Cô đang nói dối! Con gái tôi đâu?”
 
   
 
-“Xưa nay vẫn thế,” anh đáp.
+Khắp căn phòng, các đại biểu Badgeboar đang trong trạng thái Sức bền ma thuật gào thét và chỉ trỏ vào nhau, những lời cáo buộc vang lên tứ phía. Và họ không phải những kẻ duy nhất. Vài thành viên trong Nội các cũng đang lớn tiếng tranh cãi lẫn nhau. Những người duy nhất không can dự là những ai chưa ăn món bánh enchilada thịt quái thú Emphon, đội ngũ nhân viên của Vanil, và những người ăn chay, một người trong số họ đã lọt vào tầm mắt tôi. Một người đàn ông sở hữu làn da màu caramen cùng bờ vai rộng, kẻ vừa đứng dậy khỏi đĩa bánh enchilada chay của mình rồi quay người hướng ra cửa như thể chuẩn bị rời đi. Chẳng một ai được phép bỏ dở thức ăn của tôi khi chưa dùng hết.
 
   
 
-“Tại sao lại là những loại thịt khác nhau?”
+“Ngươi là kẻ gây ra chuyện này sao?” Một người phụ nữ Badgeboar cất tiếng hỏi, ngón tay chỉ thẳng vào mắt mình khi ả sấn sổ bước về phía tôi.
 
   
 
-“Đó không phải chuyện cô cần bận tâm.”
+“Đó chỉ là tai nạn ngoài ý muốn,” tôi đáp, nhưng ngay khoảnh khắc thốt ra những lời ấy, một phần trong tôi lại cảm thấy điều đó không thể là sự thật. Tôi tin lý thuyết về ý đồ của mình là hoàn toàn chuẩn xác, điều đó đồng nghĩa với việc đây tuyệt đối chẳng phải một tai nạn.
 
   
 
-“Chuyện đó có thể lấy mạng họ đấy.”
+Và tất cả mọi người trong căn phòng đột ngột nhận ra tôi đang nghĩ như vậy. Nửa căn phòng lập tức lao thục mạng về phía tôi. Họ nhảy qua mặt bàn, xô đổ ghế và rút vũ khí ra. Vài người thậm chí còn ùa vào từ phía sàn hiên.
 
   
 
-“Và chúng xứng đáng phải nhận lấy điều đó.”
+Điều đó hóa ra lại may. Bởi hai bóng đen khổng lồ vừa đổ sập xuống sàn hiên.
 
   
 
-“Như cái cách Chỉ huy Wensoan đáng bị trừng phạt ư? Như cái cách tôi đáng phải chịu nếu không thú nhận lý do giúp anh trong bữa tiệc mừng chiến thắng của nhà vua sao?”
-
-  
-
-Paprick dùng khăn ăn lau khóe miệng, ánh mắt khóa chặt lấy nữ lưu trữ viên. “Cô thật sự không biết.”
-
-  
-
-“Biết chuyện gì?”
-
-  
-
-“Wensoan cũng làm gián điệp cho Empheron. Hắn đã bán đứng tất cả các người để đổi lấy mạng sống. Tôi cứ ngỡ cô cũng nhúng tay vào.”
-
-  
-
-Yenne cười khẩy. “Thôi đi. Wensoan là kẻ dâm dật và cố chấp, nhưng ông ta tuyệt đối trung thành với giới Thượng Phẩm. Sau khi anh giết Fennel, ông ta đã nuôi nấng Zesta ở Tân Panchon như thể con gái ruột. Ông ta sẽ không đời nào phản bội chúng tôi, lại càng không bao giờ phản bội để theo một thực thể đối nghịch hoàn toàn với Phái Tiêu Thụ đến mức đáng bị xếp riêng vào hàng báng bổ.”
-
-  
-
-“Empheron đã tuyên bố đầy dõng dạc và ngạo mạn rằng không kẻ nào chống lại giáo lý của nó có thể sống sót qua cuộc thanh trừng. Cô thật sự nghĩ Wensoan dám mạo hiểm sao? Lão chỉ là một lão già khiếp nhược từng tận mắt chứng kiến những người bạn duy nhất của mình bỏ mạng. Con đỉa đó đã dâng cả đất nước mình để đổi lấy cơ hội được gặm những mẩu vụn thừa thãi từ bàn tiệc của kẻ chiến thắng.”
-
-  
-
-“Anh đã hứa sẽ cho tôi thông tin về Cội Nguồn,” Yenne nhắc nhở anh, “nhưng cho đến giờ tôi chỉ toàn phải chịu đựng những chi tiết thừa thãi mà tôi vốn đã biết tỏng về phái đoàn Đế quốc Badgeboar, rồi chứng kiến anh tra tấn những kẻ bị coi là đồng lõa với kẻ thù. Tôi chẳng có lý do gì để tin anh, tin rằng đó là sự thật. Đi thẳng vào chuyện Cội Nguồn đi, hoặc là giết tôi luôn đi. Âm mưu này tôi đã quá rõ rồi.”
-
-  
-
-“Cô chưa biết hết đâu, nếu như cô vẫn nghĩ câu chuyện này chẳng hề liên quan gì đến Cội Nguồn.”
-
-  
-
-“Tha cho tôi đi, Paprick. Lúc nào anh chẳng nói được câu đó, rồi mong tôi sẽ ngoan ngoãn nghe theo như một con chó chực chờ khúc xương. Hôm qua, phận sự của tôi là ghi chép, và tôi đã làm tròn. Nhưng hôm nay thì sự kiên nhẫn của tôi chẳng còn nổi một nửa đâu.”
-
-  
-
-Anh gật đầu, một nụ cười kín đáo thoáng hiện trên gương mặt. “Xem ra được ăn uống đã giúp cô tìm lại được chút sắc sảo đấy, nhưng đừng có đắc ý quá sớm. Dù cô muốn hay không, tôi vẫn sẽ ra lệnh cho cô viết tiếp. Cô không muốn tin tôi, được thôi, nhưng hãy tự hỏi xem tại sao ngay từ đầu tôi lại mất công kể cho cô nghe những chuyện này, tại sao tôi lại để cô ngồi đây trong lúc tôi, nói như cách của cô là gì nhỉ, tra tấn người khác. Tôi không cần những cái lườm nguýt hay thái độ đạo đức thượng đẳng của cô trên bàn ăn của mình. Tôi từng nếm trải cảm giác bị khống chế bởi mệnh lệnh rồi. Cô có thể thấy, cảm nhận, thậm chí nhớ rõ những gì đang diễn ra, nhưng lại rất khó để suy nghĩ. Tôi muốn cô phải suy nghĩ, Yenne à. Đừng phá hỏng cơ hội này chỉ vì cô nghĩ rằng tôi đang hả hê đắc thắng.”
-
-  
-
-“Biết được tôi nên nghĩ về điều gì thì may ra mới có ích đấy, Paprick, hay thậm chí là nghĩ để làm gì.”
-
-  
-
-“Nếu tôi hiểu tường tận cách cô suy nghĩ đến mức trả lời được câu hỏi đó, tôi đã chẳng cần cô ngồi ở đây. Cứ là chính mình đi. Cô sẽ tìm ra câu trả lời thôi.”
-
-  
-
-Yenne nhìn tấm bản đồ trên tường, nhìn chiếc bàn trống không, cuốn Sách Nghi lễ, và cuối cùng là cây bút của mình. Cô căm ghét nỗi mơ hồ bất định đang bao trùm lên tất thảy. Cô chưa bao giờ cảm thấy dễ chịu với những điều không chắc chắn. Sự bất an khó chịu ấy chính là nguồn cơn cho tính hiếu kỳ của cô. Chỉ có sự chắc chắn mới đem lại an toàn. Chỉ có tri thức mới đem lại quyền năng. Liệu Paprick có đang lợi dụng sự khó chịu ấy để thao túng, hạ bệ cô theo một cách nào đó, hay anh thực sự muốn cô tìm ra câu trả lời?
-
-  
-
-*Câu trả lời gì cơ chứ?*
-
-  
-
-*Tại sao?*
-
-  
-
-“Được rồi,” cuối cùng cô lên tiếng. “Kể tiếp đi.”
-
-  
-
-“Tôi sẽ không làm cô phát chán với hàng giờ tranh cãi, những lời hoa mỹ sáo rỗng và mớ rác rưởi nhảm nhí xoay quanh nguy cơ chiến tranh cận kề. Mọi chuyện đã quá rõ ràng: phía Badgeboar muốn tôi cùng ‘đồng bọn’ phải chịu xét xử tại Đế quốc của bọn chúng vì các vụ tấn công. Để chấm dứt tất cả, tôi đã đứng dậy và xung phong đi.”
+Những con quái thú Bò sát Carnephon mất tích của khu Trại Nhốt Pen đã nhảy vọt qua khúc sông và sắp sửa đâm sầm vào tháp Học viện.

@@ -1832,17 +1832,17 @@
     "author": "Ryan Rose",
     "translator": "Sheepa Translator",
     "year": "2026",
-    "category": "Hành động • Kỳ ảo • Phiêu lưu",
+    "category": "Kỳ ảo • Hành động • Phiêu lưu",
     "tags": [
-      "Hành động",
       "Kỳ ảo",
+      "Hành động",
       "Phiêu lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
     "cover": "content/books/tam-huong-vi-cua-su-phan-boi/cover.jpg",
     "icon": "public/icons/11_sheep_magnifier.png",
-    "description": "Ba năm sau các sự kiện chiến tranh, Đầu bếp Paprick Bessa (được mệnh danh là Đồ Tể) mở một nhà hàng trong thời kỳ đình chiến với Giới Thượng Phẩm. Khi một âm mưu đen tối từ Đế chế Badgeboar phá hỏng đêm khai trương, Paprick cùng người bạn đời Cori và Bầy Đàn phải dấn thân về phía tây để ngăn chặn một cuộc chiến tranh mới.",
+    "description": "Nối tiếp những biến động chấn động sau khi Paprick phơi bày sự mục ruỗng của giới ẩm thực cung đình, Tám Hương Vị Của Sự Phản Bội đẩy cuộc nổi dậy lên một quy mô khốc liệt hơn bao giờ hết. Khi bí mật về các công thức ma thuật cổ xưa bắt đầu rò rỉ ra ngoài bức tường hoàng thành, giới Thượng Phẩm và những bang hội đầu bếp tinh hoa đã phát động một chiến dịch thanh trừng tàn bạo. Paprick cùng các đồng minh buộc phải dấn thân vào những vùng đất hoang dã chưa từng được khai phá để săn lùng tám nguyên liệu cấm – tương ứng với tám phong vị ma thuật có thể xoay chuyển cục diện cuộc chiến. Không chỉ đối mặt với những quái thú khổng lồ hung bạo bậc nhất, anh còn phải đương đầu với sự phản bội rình rập ngay trong hàng ngũ những kẻ cùng chung chí hướng. Mỗi món ăn giờ đây không còn đơn thuần là sự sáng tạo nghệ thuật, mà chính là lằn ranh sinh tử định đoạt tự do của toàn bộ nhân dân.",
     "downloads": {
       "epub": "content/downloads/tam-huong-vi-cua-su-phan-boi.epub",
       "pdf": ""
@@ -1856,237 +1856,585 @@
       },
       {
         "id": "chuong-2",
-        "title": "KHÔNG GIAN",
+        "title": "Lời đề tặng",
         "part": "",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-2.md"
       },
       {
         "id": "chuong-3",
-        "title": "SỬA SOẠN BÀN ĂN",
+        "title": "KHÔNG GIAN",
         "part": "",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-3.md"
       },
       {
         "id": "chuong-4",
-        "title": "1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH",
-        "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
+        "title": "SỬA SOẠN BÀN ĂN",
+        "part": "",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-4.md"
       },
       {
         "id": "chuong-5",
-        "title": "2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN",
+        "title": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-5.md"
       },
       {
         "id": "chuong-6",
-        "title": "3 MỤC ĐÍCH VÀ LỜI CẦU HÔN",
+        "title": "1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-6.md"
       },
       {
         "id": "chuong-7",
-        "title": "4 THỰC ĐƠN CỦA TÔI",
+        "title": "2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-7.md"
       },
       {
         "id": "chuong-8",
-        "title": "5 LẠI LÀ MỘT GÃ ĐỒ TỂ",
+        "title": "3 MỤC ĐÍCH VÀ LỜI CẦU HÔN",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-8.md"
       },
       {
         "id": "chuong-9",
-        "title": "6 MỘT CUỘC TẮM MÁU NGOẠI GIAO",
+        "title": "4 THỰC ĐƠN CỦA TÔI",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-9.md"
       },
       {
         "id": "chuong-10",
-        "title": "7 VA CHẠM",
+        "title": "5 LẠI LÀ MỘT GÃ ĐỒ TỂ",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-10.md"
       },
       {
         "id": "chuong-11",
-        "title": "MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN",
+        "title": "6 MỘT CUỘC TẮM MÁU NGOẠI GIAO",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-11.md"
       },
       {
         "id": "chuong-12",
-        "title": "8 MÓN NACHO CHIẾN LƯỢC",
+        "title": "7 VA CHẠM",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-12.md"
       },
       {
         "id": "chuong-13",
-        "title": "9 HẦM NHÀ CUTLER",
+        "title": "MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-13.md"
       },
       {
         "id": "chuong-14",
-        "title": "10 NHỮNG VÙNG ĐẤT MỚI",
+        "title": "8 MÓN NACHO CHIẾN LƯỢC",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-14.md"
       },
       {
         "id": "chuong-15",
-        "title": "11 HOA TRÁI VÀ LAO ĐỘNG",
+        "title": "9 HẦM NHÀ CUTLER",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-15.md"
       },
       {
         "id": "chuong-16",
-        "title": "12 CARAMEL ĐẮNG",
+        "title": "10 NHỮNG VÙNG ĐẤT MỚI",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-16.md"
       },
       {
         "id": "chuong-17",
-        "title": "13 CẢN TRỞ CÔNG LÝ",
+        "title": "11 HOA TRÁI VÀ LAO ĐỘNG",
         "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-17.md"
       },
       {
         "id": "chuong-18",
-        "title": "MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ",
-        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
+        "title": "12 CARAMEL ĐẮNG",
+        "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-18.md"
       },
       {
         "id": "chuong-19",
-        "title": "MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "title": "13 CẢN TRỞ CÔNG LÝ",
+        "part": "Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-19.md"
       },
       {
         "id": "chuong-20",
-        "title": "MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG",
-        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "title": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-20.md"
       },
       {
         "id": "chuong-21",
-        "title": "MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ",
-        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "title": "14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-21.md"
       },
       {
         "id": "chuong-22",
-        "title": "MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH",
-        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "title": "15 MANGTIER",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-22.md"
       },
       {
         "id": "chuong-23",
-        "title": "MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC",
-        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "title": "16 BỮA ĂN HOÀNG GIA",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-23.md"
       },
       {
         "id": "chuong-24",
-        "title": "MÓN CHUYỂN VỊ VIII LỜI BẠT",
-        "part": "Món Thứ Tám • Bánh Cưới",
+        "title": "17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-24.md"
       },
       {
         "id": "chuong-25",
-        "title": "HỆ THỐNG ĐẠI CÔNG THỨC",
-        "part": "GHI CHÚ CỦA YENNE",
+        "title": "18 CHUẨN BỊ",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-25.md"
       },
       {
         "id": "chuong-26",
-        "title": "Ngày 1: 7 Đại Công Thức Cổ Điển",
-        "part": "GHI CHÚ CỦA YENNE",
+        "title": "MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-26.md"
       },
       {
         "id": "chuong-27",
-        "title": "Ngày 2: Các Đại Công Thức Mới & Bí Thuật Phương Tây",
-        "part": "GHI CHÚ CỦA YENNE",
+        "title": "19 LẮM ĐẦU BẾP",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-27.md"
       },
       {
         "id": "chuong-28",
-        "title": "Những Món Ăn & Phép Thuật Khác Được Ghi Nhận",
-        "part": "GHI CHÚ CỦA YENNE",
+        "title": "20 NHỮNG LƯỠI DAO QUYẾT ĐẤU",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-28.md"
       },
       {
         "id": "chuong-29",
-        "title": "BIÊN NIÊN SỬ THẾ GIỚI ẨM THỰC",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "21 KẺ THÙ BỦA VÂNG",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-29.md"
       },
       {
         "id": "chuong-30",
-        "title": "Năm 21 N.K. (Năm Khai Sáng)",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "22 THÀNH PHỐ TỰ DO",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-30.md"
       },
       {
         "id": "chuong-31",
-        "title": "Năm 28 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "23 ĐỒNG CỐT",
+        "part": "Món Thứ Hai • Cà ri khô Điểu sư Gryphon",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-31.md"
       },
       {
         "id": "chuong-32",
-        "title": "Năm 51 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-32.md"
       },
       {
         "id": "chuong-33",
-        "title": "Năm 343 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "24 GIA TỘC ENGI",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-33.md"
       },
       {
         "id": "chuong-34",
-        "title": "Năm 344 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "25 HIỆN TRƯỜNG VỤ ÁN",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-34.md"
       },
       {
         "id": "chuong-35",
-        "title": "Năm 345 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "26 TIN TỨC",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-35.md"
       },
       {
         "id": "chuong-36",
-        "title": "Năm 347 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-36.md"
       },
       {
         "id": "chuong-37",
-        "title": "Năm 348 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "28 SHEPHERD VÀ TERRY",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-37.md"
       },
       {
         "id": "chuong-38",
-        "title": "Năm 354 N.K.",
-        "part": "NIÊN BIỂU SỰ KIỆN",
+        "title": "29 BẢN THỂ KHÁC",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-38.md"
       },
       {
         "id": "chuong-39",
-        "title": "LỜI CẢM ƠN",
-        "part": "",
+        "title": "30 TÔN TRỌNG BẬC TRÊN",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-39.md"
       },
       {
         "id": "chuong-40",
+        "title": "31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "32 LỊCH SỬ TỪ CỘI NGUỒN",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI",
+        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "34 NỮ HOÀNG BÁO THÙ",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "35 TỘC NGƯỜI THẢO MỘC DRUE",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "36 GIA ĐÌNH",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "37 NGUYÊN THUẬT",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "38 CĂNG THẲNG LÊN MEN",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "39 ĐẬU ZENSU",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "40 ANH HÙNG CHIẾN TRƯỜNG",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "41 XE ĐIỆN VÀ CƠN ĐẠI NÁO",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "42 CHIẾN TRANH",
+        "part": "Món Thứ Tư • Bít Tết Bão Tố Tăng Cường",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "43 HIỂU RÕ THỰC KHÁCH",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-57.md"
+      },
+      {
+        "id": "chuong-58",
+        "title": "44 ĂN GÌ THÌ DÙNG ĐÓ",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-58.md"
+      },
+      {
+        "id": "chuong-59",
+        "title": "45 HIỂU VỀ NĂNG LƯỢNG",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-59.md"
+      },
+      {
+        "id": "chuong-60",
+        "title": "46 CÁI GIÁ PHẢI TRẢ",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-60.md"
+      },
+      {
+        "id": "chuong-61",
+        "title": "47 OÁN THÙ TRẢ XONG",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-61.md"
+      },
+      {
+        "id": "chuong-62",
+        "title": "48 GIAO TIẾP CỞI MỞ",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-62.md"
+      },
+      {
+        "id": "chuong-63",
+        "title": "49 MỘT SỰ THẬT BẤT TIỆN",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-63.md"
+      },
+      {
+        "id": "chuong-64",
+        "title": "50 YGMINSUL",
+        "part": "Món Thứ Năm • Vọng Âm Vindaloo",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-64.md"
+      },
+      {
+        "id": "chuong-65",
+        "title": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-65.md"
+      },
+      {
+        "id": "chuong-66",
+        "title": "51 GIỮA LÒNG TỘC DRUE",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-66.md"
+      },
+      {
+        "id": "chuong-67",
+        "title": "52 NHỮNG SỰ THẬT PHƠI BÀY",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-67.md"
+      },
+      {
+        "id": "chuong-68",
+        "title": "53 SỰ BÁO THÙ NGỌT NGÀO",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-68.md"
+      },
+      {
+        "id": "chuong-69",
+        "title": "54 OVATE THƯỢNG PHẨM",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-69.md"
+      },
+      {
+        "id": "chuong-70",
+        "title": "MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-70.md"
+      },
+      {
+        "id": "chuong-71",
+        "title": "55 QUYỀN LỰC VÀ NHÂN DUYÊN",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-71.md"
+      },
+      {
+        "id": "chuong-72",
+        "title": "56 NIỀM TIN VÀ CÚ CHẠM",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-72.md"
+      },
+      {
+        "id": "chuong-73",
+        "title": "57 OVATE TỐI CAO",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-73.md"
+      },
+      {
+        "id": "chuong-74",
+        "title": "58 FENG TRÊN RĂNG CƯA",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-74.md"
+      },
+      {
+        "id": "chuong-75",
+        "title": "59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-75.md"
+      },
+      {
+        "id": "chuong-76",
+        "title": "60 VÙNG ẢNH HƯỞNG",
+        "part": "Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-76.md"
+      },
+      {
+        "id": "chuong-77",
+        "title": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-77.md"
+      },
+      {
+        "id": "chuong-78",
+        "title": "61 CÚ GIÁNG TRỜI TRỜI",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-78.md"
+      },
+      {
+        "id": "chuong-79",
+        "title": "62 GIẢI PHÁP HIỂN NHIÊN",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-79.md"
+      },
+      {
+        "id": "chuong-80",
+        "title": "63 GIẢI PHÁP BẤT NGỜ",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-80.md"
+      },
+      {
+        "id": "chuong-81",
+        "title": "MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-81.md"
+      },
+      {
+        "id": "chuong-82",
+        "title": "64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-82.md"
+      },
+      {
+        "id": "chuong-83",
+        "title": "65 RANCH",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-83.md"
+      },
+      {
+        "id": "chuong-84",
+        "title": "66 SQUIRT",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-84.md"
+      },
+      {
+        "id": "chuong-85",
+        "title": "67 RỜI KHỎI LƯNG NÚI",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-85.md"
+      },
+      {
+        "id": "chuong-86",
+        "title": "68 TRỞ VỀ NHÀ",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-86.md"
+      },
+      {
+        "id": "chuong-87",
+        "title": "69 TƯƠNG LAI ĐƯỢC TÌM THẤY",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-87.md"
+      },
+      {
+        "id": "chuong-88",
+        "title": "70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-88.md"
+      },
+      {
+        "id": "chuong-89",
+        "title": "71 Ý ĐỒ HỖN LẠN",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-89.md"
+      },
+      {
+        "id": "chuong-90",
+        "title": "72 QUESADILLA HỖN LOẠN",
+        "part": "Món Thứ Bảy • Sữa chua lassi Sinh Mệnh",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-90.md"
+      },
+      {
+        "id": "chuong-91",
+        "title": "Món Thứ Tám • Bánh Cưới",
+        "part": "Món Thứ Tám • Bánh Cưới",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-91.md"
+      },
+      {
+        "id": "chuong-92",
+        "title": "73 LÊN LỊCH NGÀY CƯỚI",
+        "part": "Món Thứ Tám • Bánh Cưới",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-92.md"
+      },
+      {
+        "id": "chuong-93",
+        "title": "74 CHO CHÚNG ĂN BÁNH",
+        "part": "Món Thứ Tám • Bánh Cưới",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-93.md"
+      },
+      {
+        "id": "chuong-94",
+        "title": "MÓN CHUYỂN VỊ VIII LỜI BẠT",
+        "part": "Món Thứ Tám • Bánh Cưới",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-94.md"
+      },
+      {
+        "id": "chuong-95",
+        "title": "GHI CHÚ CỦA YENNE",
+        "part": "GHI CHÚ CỦA YENNE",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-95.md"
+      },
+      {
+        "id": "chuong-96",
+        "title": "NIÊN BIỂU SỰ KIỆN",
+        "part": "NIÊN BIỂU SỰ KIỆN",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-96.md"
+      },
+      {
+        "id": "chuong-97",
+        "title": "LỜI CẢM ƠN",
+        "part": "",
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-97.md"
+      },
+      {
+        "id": "chuong-98",
         "title": "VỀ TÁC GIẢ",
         "part": "",
-        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-40.md"
+        "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-98.md"
       }
     ]
   }

@@ -1,429 +1,226 @@
-# 8 MÓN NACHO CHIẾN LƯỢC
+# 7 VA CHẠM
 
 *Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-“Chàng sát thủ, anh biết em tin anh mà,” Cori nói khi ngồi xuống chiếc ghế đẩu cạnh quầy bar. “Anh biết em yêu anh. Nhưng rốt cuộc quái quỷ gì đang diễn ra trong đầu anh thế?”
+“TẤT CẢ NẰM XUỐNG!”
+Tôi hét lên, vội ôm đầu lao mình xuống sàn.
 
   
 
-Tôi ngồi xuống chiếc ghế bên cạnh em. “Tân Panchon có thể tái vũ trang bất cứ ngày nào. Chúng ta không thể để Đế quốc trở thành bất cứ điều gì ngoài một đồng minh. Nếu điều đó đồng nghĩa với việc anh phải ra đầu thú, anh sẵn sàng chấp nhận sự hy sinh đó.”
+Angus Đệ Tam không bay qua hết khoảng cách, rơi tùm xuống sông và tạo nên một con sóng đập dữ dội vào những cây cột chống đỡ sàn hiên ngoài trời. Tiếng răng rắc của những thanh xà gãy vụn kéo tôi ngược về Xưởng của Nhà Vua, cái ngày Bessa trốn thoát và phá hủy toàn bộ giàn giáo. Những chiếc bàn hiên tuyệt đẹp của tôi trượt khỏi sàn nghiêng rồi lao thẳng xuống nước, chiếc này nối tiếp chiếc kia tựa như đĩa trượt khỏi chiếc kệ gãy.
 
   
 
-Cuộc họp Nội các vừa mới kết thúc, và bình minh đang ngái ngủ rục rịch nhô đầu lên, những vệt hồng đầu tiên rọi qua dãy ghế kim loại dọc theo quầy bar ngoài trời. Người pha chế nhìn chúng tôi bằng nét mặt pha trộn giữa vẻ *tôi vừa định đóng cửa* và *lạy Chúa tôi, toàn những nhân vật lừng danh*. Trong khi phần lớn cư dân Ranch đang thức giấc và rượu tequila là thứ cuối cùng họ nghĩ đến, thì Cori, Laven và tôi lại chẳng giống phần lớn cư dân Ranch.
+Chucky tông vào bờ sông một cách vụng về rồi đâm sầm vào chính tòa tháp, làm rung chuyển cả nền móng. Dao nĩa và người ngợm bay tứ tung khắp phòng ăn. Thân hình đồ sộ của quái thú Bò sát Carnephon nghiền nát những mảnh tàn tích của sàn hiên, và chiếc sừng bên trái của nó đâm toạc qua khoảng trống nơi tôi từng dỡ bỏ cửa sổ cùng bức tường. Dao bít tết cắm phập xuống sàn. Đĩa vỡ tan tành. Nến bén vào khăn trải bàn bốc cháy ngùn ngụt.
 
   
 
-“Cho ba ly tequila và một đĩa nacho,” tôi bảo người pha chế.
+Khi Chucky gượng rút mình ra khỏi cái lỗ thủng trên nhà hàng của tôi rồi lùi lại, lắc lắc đầu, thì Angus đã trèo lên bờ và rũ sạch lông vũ. Những giọt nước to bằng tảng đá trút xuống ngọn lửa, kìm hãm đám cháy lan rộng nhưng cũng gây thiệt hại do ngập nước chẳng kém gì hỏa hoạn.
 
   
 
-“Ít đậu thôi nhé,” Laven bồi thêm. Dù cả cậu ấy lẫn tôi đều bị cáo buộc gần như mọi trọng tội mà bên Badgeboar đưa ra, chúng tôi đã dần trấn tĩnh lại sau cú sốc ban đầu. Xét trên mọi phương diện, Laven đang xử lý chuyện này khá ổn. Thậm chí có lẽ còn tốt hơn cả tôi.
+Người của phái đoàn Badgeboar, Nội các lẫn nhân viên đều cuống cuồng bật dậy và tháo chạy tán loạn đến bất cứ nơi nào có thể. Dù sao thì đó cũng là phản ứng của những kẻ còn giữ được lý trí. Cori xuất hiện bên vai tôi, đỡ tôi dậy: “Kho dự trữ khẩn cấp chứ?”
 
   
 
-Cori thì không.
+Trước khi trả lời, tôi đưa mắt tìm kiếm Laven qua làn khói, lòng đầy lo lắng bảo bọc cậu ấy vì những thương tích mà chính tôi đã gây ra. Nhưng cậu ấy đã trên đường thoát ra ngoài. Tôi chỉ tay về phía một trong ba ngăn tủ bí mật, và Cori liền lao đi, rõ ràng là không hề hấn gì.
 
   
 
-“Hãy nhìn nhận từ góc độ của anh xem,” tôi nói. “Bất kể họ nghĩ anh đã làm điều gì, anh đều không làm. Lần hiếm hoi này, anh vô tội. Việc anh tự nộp mình cho một phiên tòa sẽ giúp chúng ta có thêm thời gian để chứng minh điều đó, đồng thời bảo vệ người dân của chúng ta khỏi một cuộc chiến mà vào lúc này chúng ta tuyệt đối không thể thắng nổi. Anh cứ ngỡ em sẽ vui cơ chứ. Rốt cuộc em cũng được đến thủ đô của họ như em hằng mong muốn, lại còn với tư cách chính thức nữa.”
+Lúc ấy, lũ quái thú Bò sát Carnephon đang liên tục húc những cái đầu cứng như gang vào tòa tháp như thể muốn xô đổ nó, điều đó chẳng hề dễ dàng và giúp chúng tôi có chút thời gian. Tôi bước vội nửa bước đuổi theo Cori trước khi buông tiếng chửi thề. Tôi đã chịu tác dụng của một Đại công thức rồi. Tôi hoặc phải nôn tháo ra và liều mình chịu đựng cơn thèm ăn ngấu nghiến, hoặc đành để việc thuần phục lại cho Cori.
 
   
 
-“Chàng sát thủ của em, em là cai ngục của anh đấy!” Em mân mê chiếc lót ly, giọng trầm xuống. “Ngay cả khi làm đại sứ là điều em muốn, chuyện này cũng chẳng hề đúng đắn. Anh không thể nào làm những việc mà họ đang rêu rao. Anh có bằng chứng ngoại phạm, có cả nhân chứng.”
+“Chef, tôi không tìm thấy Sincera!” Feng gọi với qua những đám mây bụi dày đặc, ngăn không cho tôi chọn phương án đầu.
 
   
 
-Giả vờ như không nghe thấy gì, người pha chế lướt cổ chai qua ba chiếc ly nhỏ, dòng chất lỏng ánh vàng rót đều đặn rồi đẩy chúng về phía trước. Mỗi người chúng tôi nốc cạn phần của mình rồi cắn ngay miếng chanh mà anh ta đưa kèm sau đó. Hương vị khá ổn, nốt hương thùa chỉ xếp sau cảm giác cay nồng rát bỏng cuộn xuống vòm họng.
+Chúng tôi tìm thấy chuyên gia nếm rượu bị kẹt cứng dưới một chiếc bàn. Tôi cố nhấc nó lên. Khi chiếc bàn chẳng hề nhúc nhích, Feng liền bước lên trước mặt tôi. Tôi ngỡ cô ấy sẽ phụ tôi một tay, nhưng cô ấy tự mình nhấc bổng phiến gỗ lên, gương mặt căng thẳng nhưng vững vàng đến kinh ngạc. Tôi nhanh chóng kéo Sincera ra. Khi Feng buông tay, chiếc bàn đổ ầm xuống với lực mạnh đủ làm rung chuyển cả đống đổ nát gần đó.
 
   
 
-“Tôi đi lấy nacho đây,” anh ta nói rồi biến mất vào phía sau cỗ xe ngựa đậu cạnh quầy bar bằng gỗ. Trong khoảng thời gian tôi chinh chiến nơi tiền tuyến, Nội các đã dỡ bỏ các hạn chế đối với nhà hàng và địa điểm mở quán. Trước đây, các xe bán đồ ăn và quán bar chỉ được giới hạn trong các khu nhà hoặc ở Chợ Cánh Đồng Cỏ Cao, cùng một vài quán rượu được cấp phép rải rác quanh thành phố. Thế nhưng Chợ Cánh Đồng Cỏ Cao luôn đóng cửa khi trời tối. Giờ đây, các xe rượu kéo dài khắp các con phố ở mọi quận, vài quán còn hoạt động thâu đêm suốt sáng như những quán cà phê. Phần lớn trở nên cố định đến mức họ chẳng buồn di dời xe đi đâu nữa.
+Đến lúc ấy, những người duy nhất còn sót lại trong phòng ăn đều đã chết. Hai người lính Đế quốc Badgeboar ngã đè lên nhau. Một kẻ vòng tay qua người kia, như thể muốn che chắn cho cô khỏi cú va đập. Y hệt cái cách hai người mẹ của tôi từng rơi xuống từ cung điện.
 
   
 
-“Đúng vậy,” tôi nói, “chúng ta có bằng chứng ngoại phạm, nhưng hãy giả định rằng tất cả những chuyện này không phải một mưu hèn kế bẩn nhảm nhí nào đó đi.”
+Tôi chết lặng không thể cất bước cho đến khi Feng kéo giật tôi về phía trước.
 
   
 
-“Mà rất có thể chính là như thế đấy,” Laven bồi thêm.
+Khi chúng tôi lao qua làn khói, Cori từ trong bếp phóng vụt ra, cơ thể khổng lồ dần lên theo từng bước chạy. Phía bên kia sông, ba người khổng lồ khác đang sải bước rầm rập về phía chúng tôi, tay cầm những sợi thòng lọng khổng lồ, sẵn sàng quây bắt lũ quái thú Bò sát Carnephon, những con thú vẫn đang mải mê tập trung một cách kỳ lạ vào các tầng giữa phía trên của tòa tháp.
 
   
 
-“Không thể phủ nhận đó chính là biểu trưng của anh. Ba thành viên khác nhau của Nội các, bao gồm cả mẹ của em, đã xác nhận rằng phiến đá ma thuật của họ không thể bị làm giả. Điều đó có nghĩa là bức hình đó có thật. Anh không rõ tại sao biểu trưng của anh lại xuất hiện ở Đế quốc một tháng trước, nhưng anh dám chắc như đinh đóng cột rằng chuyện này có liên quan đến cái chết của người lính khẩu lệnh của anh.”
+Đây không còn là Ranch của ngày xưa. Cái thời quái thú Emphon có thể tàn phá những mảng lớn của thành phố đã vãng bóng từ lâu. Món taco của tôi, đặc biệt là biến thể lợn rừng Badgeboar ba mươi mét, đã cân bằng thế trận quá đỗi dễ dàng. Lực lượng lính khẩu lệnh tuần tra chẳng thể ngay lập tức có mặt ở khắp mọi nơi, song họ di chuyển nhanh hơn tôi hồi còn cưỡi Bessa rất nhiều.
 
   
 
-Laven gõ nhẹ vào ly rượu nhỏ của mình, vẻ đầy hiểu biết: “Thời điểm xảy ra vụ việc cũng đáng chú ý đấy chứ? Vụ tấn công đầu tiên diễn ra ngay sau khi phái đoàn của họ rời Mangtier. Rồi một vụ khác lại ập đến ở khu Trại Nhốt Pen, ngay sau khi đoàn người vừa tới nơi. Một đoàn tùy tùng đông đúc dường ấy di chuyển rất chậm, nên chẳng khó khăn gì để lũ thủ phạm đuổi kịp rồi vượt lên trước. Có thể kẻ đó nằm ngay trong phái đoàn.”
+Khi tôi cùng Feng khiêng Sincera ra ngoài, tôi quan sát kỹ từng chuyển động của lũ quái thú Bò sát Carnephon, tìm kiếm những dấu hiệu của ớt ma thuật kiểm soát tâm trí. Vào thời điểm ấy, tôi vốn đã nghi ngờ Tân Panchon đứng sau vụ tấn công. Còn ai khác lại muốn tập kích Ranch giữa lúc phái đoàn Badgeboar đang có mặt tại đây? Món ớt ma thuật kiểm soát tâm trí chính là phương thức hành động quen thuộc của chúng.
 
   
 
-“Hai người đang đói đến mụ mẫm rồi đấy à?” Cori nói. “Hai người có nghe xem mình đang nói cái gì không? Hai người đang đánh cược vào việc kẻ này sẽ quay về cùng họ. Lỡ như hắn ở lại đây thì sao?”
+Nhưng tôi biết rõ Angus và Chucky. Chúng không hề bị thao túng; từng chuyển động của chúng đều hoàn toàn tự nhiên: tấn công không hề có sự phối hợp, va vào nhau rồi cản trở đường đi của nhau, ngay cả nhịp thở cũng vậy. Một kẻ điều khiển bằng tâm trí sẽ phải tập trung cao độ đến nghẹt thở mới có thể bắt chước chuẩn xác từng chi tiết ấy. Với việc tên vua cũ đã chết và nhiều kẻ cầm đầu tối cao của Thượng Phẩm bỏ mạng trong chiến tranh, tôi tự thấy mình là chuyên gia hàng đầu về cả giải phẫu học quái thú Bò sát Carnephon lẫn việc sử dụng ớt ma thuật kiểm soát tâm trí. Tôi không nghĩ ngay cả bản thân mình có thể làm được điều đó.
 
   
 
-“Dì Gyn sẽ lo liệu chuyện đó.”
+Rốt cuộc thì lũ quái thú muốn gì ở tòa tháp chứ?
 
   
 
-Cori hạ giọng: “Dân chúng không muốn thấy quân đội tràn ra đường phố đâu, chàng sát thủ à. Nếu phe Lịch sử nghe thấy anh dù chỉ ám chỉ điều đó thôi, họ sẽ lợi dụng nó để khiến cả thành phố quay lưng lại với anh.” Nỗi hoảng loạn khác thường dâng lên trong giọng em khi em nói ngày một nhanh hơn: “Chết tiệt, phe Lương Tri có lẽ sẽ lợi dụng sự vắng mặt của anh để tranh giành quyền lực với phe Bầy Đàn Cũ. Họ có thể mất thế đa số. Mẹ có thể mất quyền phủ quyết. Rồi còn phải tính đến đám binh lính nữa. Và cả…”
+Và bấy lâu nay chúng đã trốn ở đâu?
 
   
 
-“Bình tĩnh nào,” tôi nói, với tay qua quầy bar lấy chai rượu rồi rót đầy vào mấy chiếc ly cối của chúng tôi. “Mấy chuyện đó chẳng có gì quan trọng cả.”
+Những câu hỏi ấy lại được xới lên vài giờ sau đó tại cuộc họp Nội các khẩn cấp. Tôi rất muốn kể lại cho bạn nghe về lòng quả cảm của Cori cùng những chuyện tương tự, nhưng chúng ta đơn giản là không có thời gian. Lũ quái thú Bò sát Carnephon đã được áp giải về lại khu Trại Nhốt Pen và không còn ai khác bị thương. Hơn nữa, cuộc tàn sát thực sự lại diễn ra ngay trong buổi họp ấy.
 
   
 
-“Dĩ nhiên là quan trọng chứ! Anh… chờ một chút.” Nét mặt Cori nhăn lại như thể em sắp thái hành tây vậy. “Anh tưởng anh có thể khiến em thao thao bất tuyệt về chính trị sao. Anh không muốn em tập trung vào việc hai người đã tự nguyện nộp mình cho đám lính Badgeboar vì một tội ác mà các anh không đời nào có thể phạm phải.”
+Chúng tôi dựng phòng họp Nội các từ đống đổ nát của Khu Thứ Phẩm Số 5, một đấu trường bán phế tích lọt thỏm giữa những khu chung cư cũ kỹ, với những mảng tường và móng gạch nguyên bản được tận dụng làm hàng ghế khán thính giả. Ngay cả tôi cũng hiểu được tính biểu tượng của vết máu dưới chân cùng vòm trời rộng mở trên đầu. Khi chúng tôi nhóm họp vào ban ngày, cái nóng gay gắt giữ cho các phiên họp không kéo dài quá lê thê. Đêm ấy, bóng tối, những vì sao và mùi máu ẩm ướt đã tác động kỳ lạ lên tất cả mọi người, dù chẳng ai nói rõ được đó là điều gì.
 
   
 
-“Để hầu tòa,” Laven đính chính. “Và Pap có thể tận dụng điều đó làm lợi thế cho mình.”
+Tại trung tâm đấu trường là một bục cao, không mấy khác biệt so với sân khấu trong nhà hàng nay đã tan tành của tôi. Nơi nhà hàng tôi từng chạm khắc hình tượng Mười Hai Vị, thì nơi này lại khắc tên của từng người, từ Thứ Phẩm cho tới Thượng Phẩm, những người đã ngã xuống trong cuộc Cách mạng. Một số cái tên, như tên của tên bạo chúa, bị cào xước và bôi xóa biến dạng. Những cái tên khác, như tên của các mẹ tôi, được viền hoa văn trang trí bằng chỉ kim loại hoặc được tôn kính bằng những bông hoa đóng đinh cẩn thận vào thớ gỗ bên cạnh. Tôi lại cảm thấy một cơn thịnh nộ bùng lên mỗi khi nhìn vào tên của họ. Đêm ấy, tôi thậm chí chẳng nỡ nhìn về hướng đó.
 
   
 
-“Đừng có đứng về phe anh ấy.”
+Tôi bồn chồn cựa quậy trên ghế trên bục cao cạnh Cori. Em ngồi đó với tàn tro vẫn còn bám trên bộ âu phục, ngay bên cạnh mẹ mình. Dù khoác trên người bộ đồ y tế lấm lem, ánh mắt của Mahogani vẫn phóng thẳng vào khoảng không sắc lẹm như thanh kiếm dẹt của Cori. Tôi có thể cảm nhận rõ cơn thịnh nộ của bà trước sự sỉ nhục giáng xuống thành phố của mình. Bà chính là người đầu tiên quay trở lại bên trong tòa tháp khi lũ quái thú Bò sát Carnephon bị dẹp yên, và bà đã buộc phải thừa nhận rằng chẳng còn cách nào cứu vãn những vị khách được tìm thấy bên trong.
 
   
 
-Cậu giơ hai tay lên đầu hàng.
+Thế nhưng Arjoram lại chớp chớp đôi mắt mệt mỏi bên cạnh vợ mình. Trông như thể ông chưa hề chợp mắt lấy một phút kể từ lần cuối tôi gặp ông ở buổi lễ tưởng niệm, và với những gì tôi biết về quá khứ chiến trận của ông, rất có thể điều đó hoàn toàn là sự thật.
 
   
 
-“Ta vừa rời mắt khỏi lũ nhóc các ngươi có một phút,” một giọng nói vang lên từ phía sau tôi.
+Nữ Hành pháp quan quan sát đám đông đang hò hét ầm ĩ bằng sự cảnh giác điềm tĩnh. Bà vốn đã trải qua hai cuộc họp kín với phái đoàn Đế quốc Badgeboar, và tôi dám chắc chẳng ai thèm ghen tị với vai trò của bà trong những gì sắp sửa diễn ra.
 
   
 
-Tôi rên rỉ thở dài vì đã đoán trước được, nhưng một phần trong tôi lại phấn chấn hẳn lên. Đây rất có thể chính là quân át chủ bài mà chúng tôi đang cần lúc này. “Ông chọn đúng lúc này mới chịu mò về đấy à, ông già?”
+Dẫu trời đã nửa đêm, những nhân vật cộm cán còn lại vẫn có mặt đầy đủ. Rish và Semary đại diện cho phe trung lập, phe Bầy Đàn Cũ, chiếm khoảng một trăm ghế trong Nội các. Soryl và Dì Gyn thuộc phe cấp tiến, thường được gọi đơn giản là phe Lương Tri, với tám mươi ghế; còn phe bảo thủ mà tôi quen gọi là phe Cảm tình Panchon, nhưng họ lại thích được gọi là phe Lịch sử hơn, chiếm trọn bảy mươi ghế còn lại. Trên thực tế, dù chiếm đa số, phe Bầy Đàn Cũ lại cãi vã triền miên với phe Lương Tri đến mức trao cho phe Lịch sử quá nhiều quyền lực. Tôi căm ghét từng giây từng phút của những cuộc họp như thế này.
 
   
 
-Hồn ma của Jives Cutler đã xuất hiện bên cạnh Cori nơi quầy bar, tỏa ra sắc xanh mòng két nhạt nhòa và khó lòng nhìn rõ trong bóng tối mờ ảo trước bình minh.
+Thế nhưng lần này thì khác. Một nửa thành viên Nội các đại diện cho các thành phố và thị trấn trên khắp đất nước, và hàng chục người trong số họ vẫn chưa kịp về tới thủ đô. Chỗ ngồi của họ đã được nhường lại cho các nhà ngoại giao Đế quốc Badgeboar; ít nhất là những kẻ còn sống sót mà không hề hấn gì. Và họ đang giận dữ tột cùng.
 
   
 
-“Ông làm gì ở đây thế?” Cori hỏi.
+“Nghị viên Scalen Ladwait,” Chủ tọa, về cơ bản là thư ký của Nội các, cất tiếng giới thiệu. “Mời ngài phát biểu.”
 
   
 
-“Ai đó có thể nhìn thấy ông đấy,” Laven nói.
+Gã đàn ông từng chộp lấy cây đàn của Cori đứng dậy từ một vị trí trong hàng ghế của phe Lịch sử. Cách cư xử của Scalen với Cori khiến máu trong người tôi sôi sục. Giống như hầu hết các nhà ngoại giao khác, gã khoác chiếc áo mở tà làm từ lông vũ quái thú Emphon, nhiều khả năng là loài lợn rừng Badgeboar dựa trên sắc xanh dương và vàng óng, cùng chiếc quần ống loe. Tôi chưa từng tận mắt thấy Đế quốc Badgeboar, nhưng lời Feng miêu tả về thời tiết nơi đó khiến nó nghe như thể biến đổi khôn lường đến rối rắm, và tôi có thể hiểu tại sao lớp lông vũ nhẹ tênh chống thấm nước này vẫn phát huy tác dụng ngay cả giữa cái nóng khô hanh của xứ chúng tôi.
 
   
 
-“Đây là thành phố của ta,” Cutler nói. “Ta muốn đi hay về lúc nào là quyền của ta. Đừng lo chuyện ta bị nhìn thấy.”
+Toàn bộ đấu trường dường như nín thở chờ đợi những lời của Scalen. Lúc mở đầu đã có vài lời đãi bôi mang tính chính trị. Nữ Hành pháp quan phát biểu bày tỏ lòng biết ơn vì sự hiện diện của họ, sự nhẹ nhõm khi họ bình an vô sự, vân vân và mây mây. Nhưng giờ là lúc làm rõ lý do tại sao người Đế quốc Badgeboar lại đến đây ngay từ đầu, và thảm họa này đã khiến họ phẫn nộ đến mức nào.
 
   
 
-Gã pha chế chọn đúng lúc đó để quay lại với đĩa bánh nacho ngập trong lớp xốt phô mai queso tuyệt đẹp, sắc trắng ngà điểm xuyết ớt xanh cùng những lát cà chua ngập một nửa. Một tiếng thở dài thất vọng bật ra từ gã khi nhìn thấy mấy chiếc ly cối và chai rượu. Gã chỉ buông một câu: “Mấy người phải trả tiền chỗ đó đấy,” rồi quay lưng bước về phía xe đẩy. Sự nổi tiếng quả thực cũng có những đặc quyền riêng.
+“Không thể chấp nhận được,” gã mở lời, chất giọng thậm chí còn vang dội hơn cả Feng. “Không, thể, chấp, nhận, được. Các người mời chúng tôi đến đây, rời xa vùng biên giới an toàn của chúng tôi, bằng những lời hứa hẹn về hòa bình và thiện chí. Rồi chúng tôi nhận lại được gì? Bạo lực và phá hoại ngầm. Bảy đồng bào của tôi đã bỏ mạng. Bảy người! Nếu có đủ thẩm quyền, tôi đã đòi bồi thường, nhưng tôi không có. Tôi chỉ có thể đòi hỏi những câu trả lời. Làm sao chuyện này lại xảy ra? Đây là hành vi có chủ đích chăng? Nếu đúng thế, thì do ai làm, và họ sẽ bị đưa ra công lý bằng cách nào? Hơn nữa, công lý của ai? Của quốc gia các người? Hay của chúng tôi? Tôi chẳng thấy người Ranch nào chết cả.” Gã quan sát khán đài một thoáng, trừng mắt nhìn thẳng vào tôi. Chờ đợi.
 
   
 
-“Gã không nhìn thấy ông,” Laven nhận xét. Vừa nói, cậu vừa thò tay vào trong áo khoác rút ra một cuốn sổ tay để thực sự ghi chép lại điều đó. “Tại sao lại thế?”
+Khi không nhận được lời hồi đáp nào, ông ta lắc đầu: “Hóa ra cung cách ở đây là vậy. Các người thần thánh hóa những kẻ được gọi là anh hùng của mình, dung thứ cho chúng những tội ác tày trời, rồi phó thác cho chúng hành vi thiêng liêng là dâng đồ ăn thức uống cho lữ khách. Có lẽ chúng tôi chẳng nên lấy làm kinh ngạc khi bị hạ độc bởi kẻ mà các người gọi là Đầu Bếp. Đó vốn dĩ là thói quen của các người!”
 
   
 
-Cutler phớt lờ cậu. “Soryl đã kể cho ta nghe những gì đã xảy ra. Khi nào chúng ta lên đường?”
+“Xin hãy bớt lời!” Soryl Cutler chen ngang. “Các vị không hề bị trúng độc. Các vị vừa được thưởng thức một Đại công thức nguyên bản. Hầu hết mọi người chẳng bao giờ có được diễm phúc ấy đâu.”
 
   
 
-“*Chúng ta* ư?” Cori nhấn mạnh. “Ông biến mất biền biệt cả mấy tháng trời, giờ lại muốn đi cùng chúng tôi đến Đế quốc sao?”
+“Và đó chỉ là một tai nạn ngẫu nhiên,” Rish bồi thêm, “nếu lời của Đầu Bếp Paprick cùng các phụ bếp của anh ta đáng tin.”
 
   
 
-“Ta có lý do của mình.”
+“Thế tại sao ta phải tin họ?” Scalen vặn lại. “Đây là kẻ sẵn sàng giết chết một vị vua chỉ vì bất đồng chính kiến. Cớ sao ta phải chấp nhận sự thật từ miệng hắn?”
 
   
 
-Tôi với tay lấy khay bánh nachos. Kết cấu mịn màng của xốt phô mai queso khiến hai gò má tôi dâng lên một luồng khoái chí râm ran. Cái cách lớp phô mai tan chảy trên đầu lưỡi rồi đọng lại chút dư vị thoang thoảng của rượu tequila cùng chanh xanh thật tuyệt diệu. Những miếng bánh giòn rụm cũng vậy, được rắc một lớp muối ớt paprika ngay sau khi vớt khỏi chảo dầu, chúng hòa quyện xuất sắc cùng đậu nghiền, hành ngâm và ớt jalapeño. Tôi nhất định phải quay lại quán bar này. Đây là nơi duy nhất còn mở cửa vào lúc đêm muộn (hoặc sáng sớm) thế này, nhưng mà ngon đến phát hờn.
+“Vì chính con gái của cha nói vậy!” Feng nhoài người qua lan can của đài quan sát, nơi các chủ trại đang dõi theo diễn biến từ trên đỉnh đấu trường. Nhờ ngọn đèn sáng ngay cạnh, không ai có thể nhầm lẫn bộ đồng phục của cô cùng mối liên hệ của nó với nhà hàng của tôi. Laven, người cũng nổi tiếng gần bằng tôi, khéo léo kéo cô lùi xa khỏi lan can, càng khẳng định rõ ràng hơn mối gắn kết giữa cô với tôi.
 
   
 
-“Anh ấy sẽ không đi đâu hết,” Cori nói, búng chiếc lót ly xuyên qua bóng ma của Cutler. “*Chúng tôi* sẽ không đi!”
+Vị thượng nghị sĩ lắp bắp trong nỗi bàng hoàng lộ rõ rồi quay sang người ngồi cạnh. Tiếng xì xào lan nhanh khắp đám đông, và tôi bất chợt cảm thấy một niềm cảm phục sâu sắc dành cho Feng. Cô đã ẩn mình ở nơi này. Việc cô chịu lộ diện trước cha mình chỉ để mang lại tính xác thực cho lời khai của tôi đã chứng minh lòng trung thành mà tôi chưa từng nghĩ mình xứng đáng nhận được.
 
   
 
-“Lý do gì thế?” tôi hỏi.
+“Tôi xin nhắc nhở,” Nữ Hành pháp quan lên tiếng, cất giọng lấn át sự ồn ào náo động, “đài quan sát chỉ dùng cho việc theo dõi. Hãy để quyền bình luận cho Nghị viên của cô, tiểu thư Ladwait.”
 
   
 
-“Chúng ta có thể bàn chuyện đó sau,” ông liếc nhìn Laven và Cori. “Riêng tư.”
+Điều đó, tôi phải thừa nhận, được xử lý vô cùng thỏa đáng. Ngay cả phe Lịch sử cũng không thể phủ nhận tác động to lớn từ việc Nữ Hành pháp quan chính thức xác nhận thân phận của Feng.
 
   
 
-“Ông nói gì với anh ấy thì anh ấy cũng sẽ kể lại cho bọn tôi thôi,” Cori cằn nhằn. “Đỡ mất công đi.”
+Sau khi bàn bạc với vài người khác, Scalen đứng dậy và giận dữ tiếp tục: “Dù là tai nạn hay không, các người từng khẳng định với chúng tôi rằng hắn là người giỏi nhất. Rằng món ăn của hắn sẽ là một món quà dành cho phái đoàn chúng tôi. Món quà duy nhất mà chúng tôi nhận được chính là sự tỉnh ngộ. Buổi tiếp đón này và cả quốc gia này chỉ là một trò hề lố bịch. Tạ ơn Garuda vì công chúa đã về phòng nghỉ sớm, nếu không có lẽ ngài ấy cũng nằm trong danh sách những người thiệt mạng rồi! Ta hỏi lại một lần nữa, công lý ở đâu?”
 
   
 
-Cutler và Cori có một mối quan hệ, khá thú vị. Em dường như là người duy nhất ở Ranch được ông tôn trọng, chắc chắn là hơn hẳn tôi. Ông cũng từng buột miệng kể rằng mình từng rất thân thiết với những người thuộc dòng họ Herdon đầu tiên. Nhưng Cori không hề tin tưởng ông, cũng chẳng tin Sức bền ma thuật cùng quyền năng gần như vô hạn của ông; phần lớn là vì ông kiên quyết không hé răng về nguồn gốc của thứ sức mạnh đó cho bất kỳ ai ngoại trừ tôi.
+“Ngài mong muốn điều gì, thưa Thượng nghị sĩ?” Nữ Hành pháp quan hỏi lại, giọng vẫn điềm tĩnh như mọi khi.
 
   
 
-Sau một hồi im lặng, Cutler đành nhượng bộ. “Mấy đứa biết ta đã đi chu du từ khi chiến tranh nổ ra rồi đấy. Một phần là để bảo vệ thằng ngố Pap khỏi những kẻ thù mạnh hơn lũ nhãi ranh Panchon rất nhiều. Ở Đế quốc có những nguyên thuật sư giống như ta, và họ đang lo ngại về nó cùng những Đại công thức của nó. Ta đã cầm chân họ suốt ba năm qua trong lúc nó bận rộn chiến đấu, nhưng thời gian chẳng chờ đợi ai. Họ đã nghe phong phanh về những tội danh vô lý mà nó đang bị cáo buộc. Nó cần phải diện kiến và thuyết phục họ thay đổi ý định trước khi họ không còn thèm nghe lời ta nữa.”
+“Chúng tôi rời Đế quốc với chủ ý đề nghị một hôn ước, như một minh chứng cho sự tôn trọng và đồng thuận giữa đôi bên: Đầu Bếp Bessa của các người kết duyên cùng một công chúa của Đế quốc.”
 
   
 
-“Còn có những nguyên thuật sư khác sao?” Laven hỏi. “Họ cũng chết rồi à?”
+“Cái gì cơ?” Tôi và Cori đồng thanh thốt lên, cả hai đều sững sờ. Nhưng chúng tôi hoàn toàn bị phớt lờ.
 
   
 
-“Có ai muốn ăn chút không?” tôi hỏi, chìa khay nachos ra. Nếu trông tôi có vẻ chẳng coi trọng chuyện này cho lắm, thì hãy nhớ rằng tôi vừa phải tận mắt chứng kiến nhà hàng cùng bao công sức của mình tan tành tro bụi chỉ trong năm phút, bàng hoàng vì hôn ước bị hủy bỏ, lại còn phải gánh chịu hàng tá tội danh để ngăn chặn một cuộc chiến tranh. Thứ tôi cần lúc này là thêm nhiều nachos và bớt bận tâm về mọi thứ khác.
+“Đó lẽ ra đã có thể trở thành một liên minh vững chắc, đồng lòng chống lại Tân Panchon và Semoli,” ông ta nói tiếp. “Nhưng sau cuộc tấn công này, chúng tôi biết điều đó sẽ chẳng bao giờ xảy ra. Các người là một quốc gia của những kẻ khủng bố, và đây chính là một hành vi tuyên chiến.”
 
   
 
-“Tại sao bọn tôi phải bận tâm xem các nguyên thuật sư ở Đế quốc nghĩ gì về anh ấy?” Cori hỏi, giọng điệu chân thành và điềm tĩnh bất chấp mọi cơn bực tức lúc trước.
+Những tiếng phản đối vang dội khắp đấu trường, hàng chục người đứng phắt dậy để khẳng định chắc nịch rằng không phải như vậy.
 
   
 
-“Bởi vì họ rất hùng mạnh, hỡi cô nàng nẹp ngực, và họ có thể sẽ tìm cách ngăn nó chạm vào Cội Nguồn đấy.”
+“Các người định chối bỏ sao?” Scalen bật cười. “Chúng tôi từng sẵn lòng bỏ qua cuộc tấn công đầu tiên vì tình hình mơ hồ, nhưng lần thứ hai này ư? Thật là một sự sỉ nhục. Hẳn các người nghĩ chúng tôi là lũ ngốc.”
 
   
 
-“Gọi tôi là nẹp ngực một lần nữa xem.”
+“Ý ngài là sao, cuộc tấn công đầu tiên?” Nữ Hành pháp quan cất tiếng hỏi.
 
   
 
-Cutler cũng biết điều mà lầm bầm một lời xin lỗi. Lạ lùng là ông chưa từng làm thế với tôi bao giờ.
+Một đại sứ khác của Đế quốc Badgeboar đứng dậy: “Vài ngày trước khi đặt chân tới Ranch, chúng tôi đã nhận được mật thư từ hoàng đế của mình, trình bày chi tiết về một cuộc tấn công tàn độc, có phối hợp diễn ra ngay trong biên giới của chúng tôi. Tại các khu bảo tồn trên khắp đế quốc, loài lợn rừng Badgeboar và quái thú Gryphon đã bị cướp đi, thường dân lẫn lực lượng kiểm lâm làm việc tại các khu bảo tồn đều bị tàn sát, và những giáo lý chống đế quốc mang tính kích động đã bị rải khắp các thành phố. Những tài liệu tuyên truyền ấy xúi giục luận điệu cách mạng, đòi quyền tự do cho quái thú Emphon, đồng thời rêu rao rằng cuộc bầu cử vừa qua của chúng tôi là bất hợp pháp. Giờ đây, chúng tôi có cơ sở để tin rằng những cuộc tấn công này là do bàn tay của quý quốc, và cụ thể hơn, là tác phẩm của kẻ mà các người gọi là người hùng, Paprick Bessa.”
 
   
 
-“Tại sao họ lại bận tâm chuyện anh ấy chạm vào một *tảng đá* chứ?” Cori hỏi, vẻ bực bội vẫn chưa nguôi.
+“Tôi thậm chí còn chưa từng đặt chân đến Đế quốc,” tôi phản bác. “Nói gì đến việc làm ra ngần ấy chuyện.”
 
   
 
-“Nó giống một vị thần hơn là một tảng đá,” Cutler nói. “Ta già khọm như đất trời rồi nhưng ta biết chắc chúng ta đã từng nói về chuyện này.”
+“Vậy thì ngươi giải thích chuyện này thế nào?” Vị đại sứ cất giọng gặng hỏi rồi ném một vật xuống bục giảng đàn, phát ra tiếng cộp khô khốc. “Thứ này được ghi lại tại thủ đô Mangtier của chúng tôi, chỉ hai ngày sau khi phái đoàn này khởi hành.”
 
   
 
-“Chúng ta đã nói về rất nhiều thứ,” em đáp. “Một trong số đó là việc hồn ma của ông không được xuất hiện mà chẳng báo trước. Hay là ông quên rồi?”
+Họ đã ném ra một phiến đá ma thuật mỏng, kích thước cỡ chừng cẳng tay tôi, một mặt hoàn toàn bình thường, nhưng mặt còn lại thì vô cùng kỳ dị. Nhờ vào ma thuật của một Đại công thức mà mãi sau này tôi mới biết, bề mặt phiến đá đã ghi lại một hình ảnh hoàn hảo, chân thực đến từng chi tiết về một bức tường. Tương tự như cảnh tượng tại khu Trại Nhốt Pen, một lỗ hổng lởm chởm choán gần hết khung hình, và bên trong, thi thể của cả chục người thuộc phe đế quốc nằm la liệt trong vũng máu. Đầu của từng người đều bị cạo trọc, còn da đầu thì bị khắc một hình vẽ mà tôi càng nhìn càng thấy bất an: biểu tượng nhà hàng của tôi. Cạnh những xác chết là những xấp truyền đơn, nhiều khả năng là tài liệu tuyên truyền, tất cả đều được đóng dấu biểu tượng đó.
 
   
 
-“Ta hơn ba trăm tuổi rồi đấy! Tên của mình ta còn chẳng nhớ nổi, huống chi là mấy cuộc trò chuyện với lũ con nít tự cho mình là đặc biệt.”
+“Không thể có sự nhầm lẫn nào ở đây cả, Đồ Tể. Ngươi đã cố tình tạo ra hỗn loạn bằng những món Đại công thức độc hại và toan sát hại chúng tôi bằng năng lực kiểm soát quái thú Emphon, chớ có nghĩ chúng tôi ngây thơ trước những giai thoại chiến tranh của ngươi. Chúng tôi yêu cầu công lý, và chúng tôi sẽ không từ bất cứ thủ đoạn nào để đạt được điều đó. Kể cả việc này đồng nghĩa với chiến tranh.”
 
   
 
-Việc Cutler nhắc đến con cái khiến tâm trí tôi trôi dạt về tuần lễ tôi trở về Ranch từ Tiền tuyến. Vừa đúng lúc để dự bữa tiệc tang của Lão Banan. Tuổi già rốt cuộc đã bắt kịp lão già ấy. Tôi nắm chặt ly rượu tequila của mình. Lão chưa từng tha thứ cho tôi vì những chuyện tôi đã làm ở Chợ Gia Vị Hắc Ám cùng với Ruda, hay vì việc tôi lún quá sâu vào chiến tranh, và tôi chẳng tìm thấy được sự thanh thản nào trong bữa tiệc tang của lão.
+Dù quân số ít ỏi, phái đoàn Badgeboar vẫn gầm thét dữ dội hơn cả loài quái thú mang tên đế chế của họ. Phe Lịch sử bắt đầu nghiêng về phía ủng hộ những yêu sách của phái đoàn. Phe Bầy Đàn Cũ thì cố gắng bảo vệ tôi. Không một ai thực sự nghe thấy tiếng của người khác giữa mớ âm thanh hỗn loạn ấy.
 
   
 
-Suốt thời kỳ Cách mạng, Cutler đã khiến tôi tin rằng Banan là người anh em cùng cha khác mẹ của ông. Tại bữa tiệc tang, tôi mới vỡ lẽ sự thật: Lão từng là anh em cùng cha khác mẹ của Soryl. Một trong mười tám đứa con mà Cutler đã chuyền tay nuôi nấng khắp nơi suốt nhiều thế kỷ chỉ để che giấu tuổi thật của mình.
+Các đốt ngón tay tôi siết chặt đến trắng bệch nơi đầu tay vịn của chiếc ghế. Tôi lại sắp phải ra chiến trường. Tôi lại sắp phải giết chóc. Và trong lúc tôi làm điều đó, Herdland sẽ hoàn toàn sơ hở trước những đòn tấn công từ Tân Panchon.
 
   
 
-“Mấy nguyên thuật sư này là ai thế?” Laven lên tiếng, cắt ngang dòng suy nghĩ của tôi. “Họ thực sự có thể ngăn Paprick chạm vào Cội Nguồn sao? Và nếu anh ấy không chạm vào đó thì có thực sự là vấn đề không?”
+Cori ghé sát lại, nắm chặt lấy tay tôi. Thì thầm chỉ đủ cho một mình tôi nghe thấy, em bảo: “Nghĩ kỹ đi, chàng sát thủ. Có điều gì đó không đúng trong tất cả những chuyện này. Nếu họ thực sự muốn chiến tranh, họ sẽ chẳng đứng đây diễn thuyết đâu. Họ đã rời đi và chuẩn bị tấn công từ lâu rồi.”
 
   
 
-“Ta đã nói quá đủ rồi, và ta có khối việc tử tế hơn để làm thay vì ngồi đây cho lũ con nít thẩm vấn. Thằng nhãi biết tìm ta ở đâu rồi đấy.”
+Lời em nói rất có lý, và nắm đấm của tôi dần thả lỏng.
 
   
 
-“Làm ơn cho thêm bánh nacho được không?” Tôi gào lên về phía người pha chế. “Hoặc có khi cho thẳng một âu xốt phô mai này luôn cũng được!”
+“Vậy họ muốn gì?”
 
   
 
-Cutler biến mất lặng lẽ hệt như lúc ông xuất hiện.
-
-  
-
-Laven cầm lấy một miếng khoai tây rồi cặm cụi ghi chép vào cuốn sổ tay. Trước khi tôi kịp hỏi cậu đang ghi gì, một người bán báo đạp xe tấp vào quầy bar và mời chúng tôi mua tờ báo buổi sáng. Lúc này, rạng đông đã tràn ngập đường chân trời, và nhịp sống bắt đầu khuấy động thành phố, lác đác vài bóng người bước ra đường phố. “Thành thật chia buồn vì tin dữ nhé,” người đó buông một câu rồi đạp xe rời đi.
-
-  
-
-NHÀ HÀNG CHÌM TRONG BIỂN LỬA. BỊ CÁO BUỘC GIẾT NGƯỜI VÀ MƯU PHẢN, LIỆU ĐỒ TỂ CÓ THỂ NÀO THOÁT KHỎI QUÁ KHỨ VẤY MÁU CỦA MÌNH?
-
-  
-
-Cori đọc xong, vò nát tờ báo thành một cục rồi ném thẳng vào thùng rác gần nhất.
-
-  
-
-Có lẽ do cồn bắt đầu ngấm vào người, nhưng cơn giận của em thực sự khiến tôi chạnh lòng. Em đang lo lắng, thậm chí là sợ hãi. Tôi cũng cần phải như thế, dẫu cho bản thân có muốn chối bỏ cảm xúc đến nhường nào.
-
-  
-
-“Được rồi, nghe này!” Tôi lớn tiếng. “Em nói đúng. Tình hình tồi tệ thật! Đáng lẽ chúng ta phải ở lại đây, sẵn sàng bảo vệ Ranch nếu có kẻ tấn công, chứ không phải đi đến Đế quốc. Nhưng anh không thể cứ đấm thẳng vào mặt Ban Điều hành rồi muốn làm gì thì làm như trước nữa. Đây không còn là thời Cách mạng. Anh phải làm điều khôn ngoan. Và ngay cả anh cũng biết điều khôn ngoan lúc này là tìm cách để chúng ta liên minh với Đế quốc.”
-
-  
-
-“Hãy cùng suy nghĩ theo hướng chiến thuật xem nào,” Laven nhanh chóng gợi ý. “Đế quốc sẽ thu được lợi ích gì khi khơi mào một cuộc chiến?”
-
-  
-
-“Cậu nghe cha của Feng nói rồi đấy,” tôi đáp. “Họ muốn công lý.”
-
-  
-
-“Lão già đó thèm vào quan tâm đến công lý,” Cori càu nhàu. “Họ đến để gả anh cho một nàng công chúa. Điều đó đồng nghĩa với việc họ từng muốn liên minh với chúng ta, thứ mà suốt ba năm qua họ chưa từng ngó ngàng tới, bất kể chúng ta có đưa ra điều kiện gì đi nữa. Câu hỏi đặt ra là, tại sao họ lại quay ngoắt một trăm tám mươi độ từ hôn nhân liên minh sang chiến tranh toàn diện như thế?”
-
-  
-
-Laven chỉ tay về phía Cori từ sau ly tequila của mình. “Đó là một câu hỏi sắc bén hơn đấy. Và câu trả lời thì quá rõ ràng rồi: Quyền lực, các Đại công thức, hay bất cứ thứ gì tương tự. Chắc hẳn ban đầu họ nghĩ mình có thể bòn rút được chúng trên giường ngủ. Nhưng có lẽ điều gì đó, thậm chí là chính những vụ tấn công này, đã khiến họ bất an đến mức muốn đoạt lấy chúng sớm hơn.”
-
-  
-
-“Tra tấn tù nhân chẳng phải chuyện Đế quốc không dám làm đâu,” Cori bồi thêm.
-
-  
-
-Tôi cau mày. “Nhưng tại sao lại đòi toàn bộ phụ bếp của anh sau khi anh đầu hàng? Họ muốn Feng quay về thì anh còn hiểu được, nhưng hầu hết nhân viên của anh thậm chí còn chẳng tham chiến trong cuộc chiến tranh vừa rồi. Họ chỉ là dân thường thôi mà.”
-
-  
-
-“Chúng ta thực sự biết được bao nhiêu về Feng?” Cori hỏi.
-
-  
-
-“Không nhiều lắm,” Laven thừa nhận. “Khi cô ấy nộp đơn xin việc, cô ấy bảo mình đang tìm kiếm một khởi đầu mới sau khi Nhà cũ đóng cửa. Cô ấy đã ở thành phố này được khoảng năm năm rồi.”
-
-  
-
-“Có lần cô ấy từng nhắc rằng Đế quốc quá ngột ngạt và cô ấy không đồng tình với thể chế chính trị ở đó,” tôi nói. “Hình như còn có chuyện gì đó liên quan đến một cô người yêu cũ nữa thì phải?”
-
-  
-
-“Em sẽ cùng Mẹ đào sâu tìm hiểu chuyện này,” Cori đề nghị. “Dù sao thì chúng ta cũng đâu có rời đi ngay hôm nay. Em nghĩ mình vẫn còn đủ thời gian.”
-
-  
-
-Laven hắng giọng. “Chúng ta cũng nên tự hỏi xem tại sao lại xuất hiện những cái xác mang biểu tượng nhà hàng của cậu ở cả đây lẫn bên ngoài biên giới.”
-
-  
-
-“Là nhà hàng của *chúng ta*,” tôi sửa lại cho cậu ấy lần thứ một nghìn. “Nhân tiện nhắc đến mẹ em, em đã tìm ra người lính khẩu lệnh đó là ai chưa, Cori?”
-
-  
-
-Đến lượt Cori ngửa cổ nốc cạn ly rượu. “Rồi. Đó là lý do vì sao em đến muộn trong buổi khai trương.”
-
-  
-
-Ruột gan tôi thắt lại. “Sao mặt em lại biến sắc như thế?”
-
-  
-
-“Là Hili.”
-
-  
-
-“Mặt trời thiêu đốt,” Laven thở dài thườn thượt.
-
-  
-
-Tôi đã biết trước. Lại một lần nữa, một phần trong tôi đã lờ mờ đoán được em sẽ thốt ra cái tên ấy. Thật nực cười khi con người ta cứ cố tự thuyết phục bản thân rằng chỉ một điểm bất thường lẻ loi có thể phủ nhận toàn bộ những sự thật rành rành khác. Như thể sự thật thèm đoái hoài đến việc nó có khớp với nhận thức của chúng ta về thế giới này hay không vậy.
-
-  
-
-Nếu người pha chế không bước ra khỏi chiếc xe kéo vào đúng khoảnh khắc đó, hẳn tôi đã nghiền nát chiếc ly thủy tinh xuống mặt đường lát đá. Thay vào đó, tôi ngồi chết lặng, máu trong huyết quản sôi sục khi anh ta chậm rãi mang đến cho tôi một đĩa nachos khác. Tôi chẳng còn chút tâm trí nào để nuốt trôi thứ này. Cả mọi thứ khác cũng vậy. Khi anh ta quay lưng rời đi, cơn thịnh nộ trong tôi dần rút cạn, nhường chỗ cho ký ức về hình ảnh Hili đang ngồi ăn những chiếc bánh taco kia.
-
-  
-
-“Em… em có chắc chắn đó là cậu ấy không?” Giọng tôi lạc đi khi cất lời hỏi.
-
-  
-
-“Bọn em chắc chắn, Paprick.”
-
-  
-
-Một tiếng thở dài não nề trào ra từ lồng ngực, tôi ngước nhìn lên vòm trời đang dần bừng sáng. “Vanil đã biết chuyện chưa?”
-
-  
-
-“Chắc lúc này ông ấy cũng vừa hay tin thôi,” Cori đáp.
-
-  
-
-“Ông ấy từng cầu xin anh đuổi cậu ấy đi,” tôi nghẹn ngào, nước mắt lưng tròng. “Khi Hili được chọn làm lính khẩu lệnh, anh đã đến gặp Vanil ngay lập tức. Ông ấy đã van nài anh hãy cho cậu ấy giải ngũ. ‘Nó là đứa con trai duy nhất của tôi,’ ông ấy đã nói như thế. Khốn kiếp!” Tôi đập mạnh tay xuống đĩa bánh nachos, hất tung những mẩu bánh bay văng ra khắp mặt đường phía sau lưng. “Đáng lẽ anh phải nghe lời ông ấy.”
-
-  
-
-“Mọi chuyện vẫn ổn chứ?” người pha chế hỏi vọng lại trong lúc ngừng tay lau những chiếc ly, nhưng Laven đã nhanh chóng khoát tay ra hiệu bảo anh ta lui đi.
-
-  
-
-Cori đặt một bàn tay ấm áp lên lưng tôi. “Đó không phải lỗi của anh đâu, Paprick.”
-
-  
-
-“Vậy thì lỗi của ai đây?” Tôi gặng hỏi. “Họ là lính canh dưới trướng của anh. Cậu ấy từng ngưỡng mộ anh. Cậu ấy gia nhập hàng ngũ này chỉ vì anh!”
-
-  
-
-“Em biết,” em đáp, bàn tay dịu dàng xoa nhẹ lưng tôi.
-
-  
-
-“Tôi sẽ giết sạch bọn chúng,” tôi gằn giọng. “Bất kể kẻ đứng sau chuyện này là ai. Tôi sẽ bổ thẳng đao cưa vào sọ não của hắn. Tôi lấy cơn đói cồn cào này ra mà thề độc.”
-
-  
-
-“Chúng ta sẽ tìm ra bọn chúng,” Laven cam đoan.
-
-  
-
-Đến khi tôi gom lại được chút bình tĩnh cuối cùng, giọng tôi đã trở nên đanh thép, lạnh lùng như sắt đá: “Nếu tôi phải lấy mạng tên khốn kiếp này, tôi cần có câu trả lời rõ ràng. Làm thế quái nào mà biểu tượng của tôi lại xuất hiện nhan nhản khắp Đế quốc trước cả khi chúng ta kịp thiết kế ra nó cơ chứ?”
-
-  
-
-“Tôi cũng đang nghĩ đúng về chuyện đó đây, Paprick.” Laven lật mở cuốn sổ tay, quay ngược về những trang đầu rồi chỉ vào một danh sách. Tôi nhận ra nó. Chúng tôi đã lập danh sách ấy không lâu sau khi Nội các thông qua Đạo luật Tự do Công thức. Dù có biết cách nấu hay không cũng chẳng quan trọng, chỉ cần một cái tên là đủ. Laven và tôi từng ngồi xuống, ghi lại từng cái tên một mà cả hai có thể nghĩ ra.
-
-  
-
-“Điểu sư chiên Thấu thị,” tôi đọc thành tiếng. “Đại công thức tiên tri của nhà vua?”
-
-  
-
-“Chỉ có điều đó mới giải thích được thôi, đúng không. Chắc chắn đã có kẻ nhìn thấy biểu tượng của anh khi ngó vào tương lai.”
-
-  
-
-Người pha chế quay lại chỗ chúng tôi với vẻ mặt đầy áy náy. “Nghe này, tôi thực sự xin lỗi. Mọi người đã cống hiến quá nhiều cho chúng tôi, nhưng ca trực của tôi đã hết từ lúc nãy rồi.” Ánh mắt anh ta lướt qua đống bánh nacho vương vãi khắp mặt đất sau lưng tôi. “Tôi gói cho mọi người một hộp mới mang về nhé?”
-
-  
-
-Tôi gật đầu và cảm ơn anh ta bằng một khoản tiền boa hào phóng.
-
-  
-
-Trong lúc chờ hộp bánh, tôi cất lời: “Tôi muốn đấm thứ gì đó quá.”
-
-  
-
-“Tôi cũng vậy, Paprick.”
-
-  
-
-Cori siết nhẹ tay tôi. “Em cũng có cảm giác đó kể từ khi chúng ta đến khu Trại Nhốt Pen.”
-
-  
-
-“Tôi sẽ đi nói chuyện với Cutler,” tôi quyết định. “Đã đến lúc chúng ta phải tìm hiểu chính xác xem Điểu sư chiên Thấu thị có tác dụng gì, và tôi có thể đối mặt với những gì ở Đế quốc.”
-
-  
-
-“Anh vẫn nghĩ chúng ta nên đi sao?” Cori hỏi.
-
-  
-
-“Anh cần câu trả lời nếu muốn trả thù cho Hili. Nếu tên khốn này thuộc phái đoàn Badgeboar, anh sẽ không để hắn thoát khỏi tầm mắt, ngay cả khi điều đó đồng nghĩa với việc phải trải qua một phiên tòa vớ vẩn.”
-
-  
-
-“Tôi sẽ nói chuyện với các nhân viên,” Laven chủ động nhận việc. “Đảm bảo mọi người đều sẵn sàng cho chuyến đi. Anh nên tránh gặp Vanil đi thì hơn. Tôi sẽ gửi cho ông ấy một con chim đưa thư để đảm bảo ông ấy không phải bận tâm gì khi chúng ta vắng mặt, nhưng đừng làm mọi chuyện tồi tệ hơn bằng cách đến gặp ông ấy.”
-
-  
-
-“Ừ,” tôi đồng ý. “Được rồi.”
-
-  
-
-“Còn em sẽ nói chuyện với Mẹ,” Cori tiếp lời.
-
-  
-
-Người pha chế quay lại với hộp bánh của tôi. “Trông mọi người như sắp ngã quỵ đến nơi rồi. Hãy vững vàng lên nhé, được chứ?”
-
-  
-
-Bằng một tiếng cảm ơn nghẹn ngào, tôi đưa chiếc hộp cho Cori cầm về nhà giúp chúng tôi rồi ngước nhìn lên Cao nguyên Fen. Điều tôi ít muốn làm nhất lúc này là cuốc bộ lên chỗ Cutler, và điều tôi khao khát nhất là dùng cây đao cưa đồ tể của mình xẻ toang một lỗ hổng ngấu nghiến xuyên qua mấy con nộm tập luyện. Nhưng tôi chưa bao giờ có được những gì mình muốn. Ngày hôm ấy cũng không phải ngoại lệ.
+Cori nháy mắt: “Cứ để mọi người hạ hỏa đôi phút đã. Rồi em hứa, em sẽ tìm ra chân tướng.”

@@ -1,205 +1,337 @@
-# MÓN CHUYỂN VỊ VIII LỜI BẠT
+# 17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH
 
-*Món Thứ Tám • Bánh Cưới*
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-KHI ĐỒ TỂ VỪA DỨT LỜI, toàn bộ tòa tháp Học viện bỗng rung chuyển dữ dội tựa như một trận động đất kinh hoàng.
-
-  
-
-Một chiếc đầu quái thú đồ sộ to bằng cả một khối nhà tầng bất ngờ hiện ra sừng sững bên ngoài ô cửa sổ vỡ nát. Nữ lưu trữ viên chưa từng có cơ hội tận mắt diện kiến cự quái Atlas, thế nhưng không một ai có thể nhầm lẫn được ánh mắt sắc sảo, đượm vẻ thông thái cổ xưa ấy, chưa kể trên cõi đời này chẳng thể tồn tại một con cự quái Caprishell khổng lồ thứ hai nào đủ tầm vóc vươn tới tận tầng mười bảy của ngọn tháp này. Đứng vững chãi trên đỉnh chiếc mai sừng hộ pháp của nó là Laven Florento, Feng, cùng thể hồn hư ảo phát sáng của Jives Cutler. Con cự quái huyền thoại đã chính thức thức tỉnh sau một giấc ngủ đông dài đằng đẵng.
+Cori ném mạnh thanh kiếm dẹt của mình vào bức tường của căn hộ bài trí sơ sài mà chúng tôi được cấp trong cung điện. “Em phải đại diện cho anh cơ mà! Làm sao em làm được điều đó khi anh đồng ý tham gia đấu ẩm thực sinh tử trước cả khi các điều khoản được ấn định hả?”
 
   
 
-“Các cậu xuất hiện đúng thời khắc sinh tử thật đấy,” Đồ Tể điềm tĩnh nhận xét trong khi mũi đao cưa vẫn kề sát vào cuống họng của Dyl.
+Vào thời điểm này của buổi tối, tôi nhận thức rõ rằng mình đã tự làm hỏng chuyện. Cori có thể e thẹn và tươi cười với Hoàng hậu Oshin, nhưng mỗi quãng lặng trong cuộc trò chuyện đều bắt đầu và kết thúc bằng một cái lườm sắc lẹm về phía tôi, làm tôi nhớ lại những Lính Mổ Xẻ từng tăng thêm phần trăm vào khế ước lao dịch của mình trước cuộc Cách mạng.
 
   
 
-Trước sự ngạc nhiên tột độ của nữ lưu trữ viên, chính bản thân cô mới là tâm điểm thu hút toàn bộ sự chú ý của anh: “Đã đến thời khắc cô buộc phải đưa ra sự lựa chọn sống còn của đời mình rồi đấy, Yenne. Cô đã lắng nghe trọn vẹn toàn bộ câu chuyện lịch sử này. Cô thấu suốt những gì tôi khao khát ở cô, dẫu có thể lúc này cô chưa thể hiểu hết được căn nguyên sâu xa. Cô có chấp nhận đứng chung chiến tuyến với phe chúng tôi hay không?” Anh khẽ hất cằm về phía Laven, đôi mắt rực sáng lên những tia chớp ma thuật xé toạc màn đêm u tối, hòa cùng ánh sáng đồng điệu tỏa ra từ linh hồn của Cutler: “Hay là cô vẫn khăng khăng muốn đứng về phe của lũ phản trắc bọn chúng?” Lưỡi đao cưa lạnh ngắt lại khẽ ấn sâu thêm một tấc vào cổ họng Dyl.
+“Có bao giờ anh nghĩ rằng có lẽ *em* đã có kế hoạch không? Rằng em có thể đã dành suốt hai tuần qua, trong khi anh bị khóa trên bức tường bỏ đói, để sắp đặt mọi chuyện chuyển động? Có lẽ, chỉ là có lẽ thôi, anh từng thắc mắc rốt cuộc lão Cutler ở cái xó xỉnh nào khi lão chẳng thèm đoái hoài đến thăm anh chưa? Hử? Hay tại sao trong tất cả mọi người, Rish lại là kẻ ngồi cùng bàn với chúng ta?”
 
   
 
-“Anh thực sự đang muốn mở miệng xin phép tôi để hạ sát phụ thân nuôi của tôi đấy à?”
+“Anh có thắc mắc chuyện đó, thật đấy,” tôi thừa nhận.
 
   
 
-“Tôi cần thu hoạch một nguyên liệu sinh học thượng hạng phục vụ cho Đại công thức dịch chuyển không gian tức thời,” anh lạnh lùng giải thích. “Điều tôi đang gặng hỏi là liệu cô có sẵn lòng tiếp tục phò tá giúp sức cho tôi một khi tôi đoạt được nó hay không. Bất kể cái giá nghiệt ngã phải trả là gì.”
+Cori nhặt thanh kiếm lên rồi lại ném vào tường một lần nữa. “Anh đã nghĩ cái quái gì thế?”
 
   
 
-“Tôi…” Cổ họng Yenne nghẹn đắng. *Liệu bản thân cô có thể chấp nhận điều phi lý ấy không?* Người đàn ông trước mặt chính là kẻ đã ra tay sát hại vị Thần linh tối cao trong đức tin của cô. Anh ta chính là cội nguồn của chuỗi biến cố đẫm máu đã cướp đi sinh mạng, hoặc đày đọa người đàn ông Terry yêu dấu của cô. Thế nhưng Dyl năm xưa đã cứu vớt cô thoát khỏi kiếp sống bần hàn nơi đầu đường xó chợ, trao cho cô mọi tri thức và danh phận mà cô từng mơ ước. “Sẽ ra sao nếu tôi dứt khoát tuyên bố rằng bản thân đứng về phe bọn họ?”
+“Rằng anh có thể nấu ăn giỏi hơn bất kỳ ai!”
 
   
 
-“Vậy thì cô sẽ phải trải qua phần đời còn lại, bất kể phải tiêu tốn bao nhiêu năm tháng để hạ gục quái thú Empheron diệt thế, dưới sự thao túng kiểm soát tâm trí của món cà ri Vindaloo.”
+“Ở Ranch thôi!” em vặn lại. “Nhưng ở đây thì sao? Anh chẳng biết một tí gì về họ hay ẩm thực của họ cả.”
 
   
 
-“Anh định nhẫn tâm biến tôi thành một nô lệ mất đi ý chí sao?”
+“Feng…” tôi mở lời.
 
   
 
-“Cô đã nghe tôi kể lại đủ nhiều câu chuyện để tự thấu suốt xem bản thân tôi đủ bản lĩnh đi xa đến giới hạn tàn khốc nào rồi đấy.”
+“Quên Feng đi! Chuyện này là về *anh* đấy.”
 
   
 
-*Trở thành một nô lệ phục tùng mọi mệnh lệnh mù quáng của Đồ Tể ư? Thế nhưng liệu sâu thẳm trong lòng cô lúc này có thực sự bận tâm đến những hậu quả nghiệt ngã ấy nữa không?*
+Chính vào lúc đó, tôi nhận ra chuyện này thực chất chẳng phải về mình. “Anh đã phá hỏng kế hoạch của em.”
 
   
 
-Ánh mắt của Dyl khẽ dịu lại khi nhìn thấy đứa con gái nuôi đang rơi vào một thế tiến thoái lưỡng nan giằng xé tâm can. Đây rõ ràng không phải là một quyết định dễ dàng đối với một con người, và họ hoàn toàn thấu hiểu được điều đó.
+“Đúng thế đấy, anh làm hỏng bét rồi.” Em nhìn tôi lần đầu tiên kể từ khi chúng tôi bước vào phòng. “Mọi chuyện đã không ra nông nỗi này nếu anh giữ được cái đầu lạnh trên đường tới đây. Anh tưởng người Đế quốc Badgeboar không biết lợn rừng của họ sống ở đâu sao? Anh nghĩ *Scalen vô tình chọn một con đường nguy hiểm mà không có kiểm lâm viên hay lính lê dương nào bảo vệ à*?” Em giật mạnh chiếc áo khoác blazer ra rồi ném vào tường. Những chiếc huy hiệu tuột ra rơi vãi khắp sàn nhà.
 
   
 
-“Ta sẽ tự nguyện giao nộp công thức bí truyền ấy cho cậu,” Dyl khàn giọng cất lời thương lượng cùng Đồ Tể.
+“Họ dàn dựng cuộc tấn công đó ư?”
 
   
 
-“Ồ, chắc chắn là ngươi sẽ phải giao nộp nó rồi, thế nhưng trước tiên con gái nuôi của ngươi buộc phải dứt khoát đưa ra sự lựa chọn của mình.”
+“Tất nhiên là họ dàn dựng rồi! Và nếu anh cho em một khoảnh khắc trước khi lao vào đóng vai người hùng, em đã nhận ra điều đó. Nhưng lúc nào anh cũng nhảy bổ vào quá nhanh.”
 
   
 
-“Thành phần cốt lõi của công thức ấy thực chất là…”
+Như cái cách tôi đã làm khi đinh ninh em chia tay với mình. Có lẽ chuyện này đúng là về tôi thật.
 
   
 
-“IM LẶNG NÀO, DYL,” Laven dõng dạc cất tiếng thị uy khi bước chân qua khung cửa sổ đổ nát, “con gái của ông lúc này đang cần sự tĩnh tâm để suy nghĩ.”
+“Anh sẽ bù đắp lại. Anh sẽ làm món khoái khẩu của em cho bữa sáng.”
 
   
 
-Mồ hôi vốn chẳng phải là thứ gì đó quá đỗi xa lạ đối với một người từng lớn lên tại đại đô thị chăn nuôi Ranch, thế nhưng dẫu cho tiết trời có oi ả khắc nghiệt đến nhường nào đi chăng nữa, Yenne chưa bao giờ là kiểu người dễ dàng vã mồ hôi. Giờ đây, từng giọt mồ hôi lạnh ngắt đang túa ra ròng ròng, lăn dài trên đôi gò má tái nhợt của cô.
+“Món trứng kiểu Ranch không cứu nổi anh khỏi vụ này đâu, chàng sát thủ. Giờ thì cởi đồ ra và lên giường ngay!”
 
   
 
-“Tôi lựa chọn,” cô run rẩy cất tiếng, và đôi mắt Đồ Tể lập tức bừng sáng lên sắc vàng hoàng kim rực rỡ của thuật Thấu thị. “Tôi chọn…” Giờ đây trước đôi mắt nhìn thấu chân tướng ấy, mọi lời dối trá đều trở nên vô nghĩa.
+Tôi ấp úng: “Ơ? Để…?”
 
   
 
-Cô nhìn thấu được trọn vẹn những nỗi đau xé lòng mà người đàn ông này từng phải oằn mình nếm trải. Cô hiểu rõ nguồn cơn vì đâu và vào thời khắc định mệnh nào anh đã buộc phải lột xác biến thành một Đồ Tể khát máu. Vì cớ gì mà muôn dân lại đồng lòng suy tôn anh là Vua Đầu Bếp thực thụ của thời đại. Dù lúc này cô vẫn chưa thể hiểu thấu trọn vẹn vì sao thiên hạ lại run rẩy thì thầm hai tiếng Kẻ Sát Thần mỗi khi bóng hình anh bước qua, thế nhưng sau tất cả những biến cố kinh thiên động địa này, chắc chắn sâu xa phải ẩn chứa một lý do vô cùng chính đáng.
+“Anh bị nhốt trong lồng suốt hai tuần mà người anh thơm phức thế này! Mùi hương gì thế nà… Em không việc gì phải giải thích cả. Lên giường mau!”
 
   
 
-“Tôi lựa chọn sẽ kề vai sát cánh giúp anh tiêu diệt quái thú Empheron,” cô ngẩng cao đầu dứt khoát đáp lời.
+“Rõ rồi, thưa Đại sứ của anh,” tôi mỉm cười đáp.
 
   
 
-Đồ Tể khẽ gật đầu một cái đầy lạnh lùng. Anh dùng một tay bóp mạnh giật tung khoang miệng của Dyl ra, tay kia phóng thẳng lưỡi dao cưa sắc bén xuyên qua chiếc lưỡi của cựu Viện trưởng ngọt xớt tựa như đang rạch qua một khối bơ mềm.
+“Thu cái nụ cười toe toét đó lại ngay. Em mới là người duy nhất được tận hưởng chuyện này.”
 
   
 
-Nữ lưu trữ viên há hốc mồm thở dốc trong nỗi kinh hoàng tột độ, hai tay run rẩy nhoài người về phía phụ thân nuôi.
+“Đó là một lời đe dọa hay một lời hứa hẹn thế?”
 
   
 
-Cô ôm chầm lấy thân thể gầy guộc của họ. Máu tươi trào ra xối xả ngập ngụa khiến Dyl nghẹn ứ nơi cổ họng, không thể thở nổi.
+✦  ✦  ✦
 
   
 
-Phớt lờ hoàn toàn tiếng khóc của cô, Đồ Tể thản nhiên nuốt chửng chiếc lưỡi tươi sống vào bụng. Sắc mặt anh thoắt chốc tái mét đi trong giây lát trước khi đôi mắt một lần nữa lóe lên luồng ánh sáng vàng kim chói lòa.
+“Eo, anh họ, dừng lại đi,” Musta lên tiếng. Cô bé đang dở tay treo bức tranh mới nhất của mình, một con quái thú Dolphon, lại là một tác phẩm vẽ rất khéo, và lần đầu tiên nữ lưu trữ viên cảm thấy chút đồng cảm với con bé. Cô không thể chịu nổi đứa nhóc ranh này, nhưng ít nhất trong chuyện cỏn con này, cô đã tìm được một đồng minh.
 
   
 
-“Tôi cứ ngỡ anh sẽ dùng đòn tra tấn để ép họ khai ra cơ mà!” Nữ lưu trữ viên gào thét lên trong tuyệt vọng.
+Đồ Tể chỉ cười khẩy: “Được rồi, được rồi. Đêm muộn hôm đó, cánh cửa phòng tôi suýt gãy vụn dưới lực đấm như trời giáng của Feng. Vừa lúc tôi mở chốt, cô đã đẩy mạnh tôi lùi vào trong rồi tự tiện xộc thẳng vào phòng mà chẳng thèm chờ mời mọc. Cô mang đầy đủ vũ khí trên người, cảnh tượng ấy lập tức kéo tôi thoát khỏi cơn mê ngủ lúc nửa đêm. ‘Có chuyện gì thế?’”
 
   
 
-“Tôi biết anh nhất định sẽ làm tổn thương họ, thế nhưng ít nhất anh phải cho họ cơ hội được tự miệng nói ra chứ!” Cô nghẹn ngào quay sang nhìn những thành viên còn lại trong đội ngũ của Bếp trưởng: “Làm ơn, có ai cứu lấy họ với!”
+“Chúng ta phải quyết đấu vào lúc bình minh!” Feng hét lên. “Tôi đến để giúp đây.”
 
   
 
-Dyl dùng bàn tay lành lặn còn lại run rẩy nắm lấy cổ tay của nữ lưu trữ viên, rồi khẽ lắc đầu từ tốn.
+✦  ✦  ✦
 
   
 
-“Không! Con nhất định sẽ không để cha phải chết như thế này đâu!” cô nấc nghẹn.
+“Giúp ư?” Tôi ngoái nhìn về phía giường, nơi Cori đang cuộn tròn thành một khối dưới lớp ga trải, bất chấp thời tiết oi bức. “Tôi ổn mà. Bọn tôi đang ngủ.”
 
   
 
-Laven bước tới, chậm rãi quỳ một gối xuống trước mặt Dyl: “Viện trưởng, ông có hối hận vì năm xưa đã lựa chọn đứng về phe Thượng Phẩm phản trắc hay không?”
+“Ngủ nghê cái nỗi gì?” Feng vừa nói vừa xô tôi lùi lại lần nữa. “Anh đem nướng não cho thánh thần ăn rồi đấy à?”
 
   
 
-“Chọn đứng về phe bọn chúng ư?” nữ lưu trữ viên hoang mang hỏi lại. “Ý anh là sao…”
+“Biến đi,” Cori rên rỉ càu nhàu.
 
   
 
-Sau một thoáng ngập ngừng giằng xé, cơ mặt của Dyl từ từ chùng xuống, rồi họ lặng lẽ gật đầu thừa nhận.
+“Chẳng lẽ tôi phải làm chuyện gì khác?” Tôi hỏi, gạt tay né khỏi cô rồi tiến về phía cửa sổ để xem chừng mấy giờ rồi. Từ bên dưới vòm lá cây rậm rạp, tôi chẳng tài nào tìm thấy bóng trăng.
 
   
 
-“Nếu đã như vậy, HÃY NÍN THỞ ĐI, THƯA VIỆN TRƯỞNG DYL, và hãy thành tâm biết ơn vì chúng tôi đã ban cho ông một cơ hội cuối cùng để chuộc lại lỗi lầm.”
+“Chúng ta phải lên thực đơn cho trận quyết đấu,” Feng tuyên bố.
 
   
 
-“Dừng tay lại đi! Xin các người… Tôi cầu xin các người đấy…”
+Giờ đây khi các giác quan đã tỉnh táo trở lại, tôi ngửi thấy mùi rượu nồng nặc trong hơi thở của cô cùng mùi mồ hôi chua loét của một chầu nhậu nhẹt kéo dài. “Đi ngủ cho giã rượu đi, Chef,” tôi khuyên. “Sáng mai chúng ta tính tiếp.”
 
   
 
-Thế nhưng mọi sự đã an bài, chẳng còn phép màu nào có thể cứu vãn được nữa. Tuyệt đối không một ai ra tay cứu giúp họ. Khuôn mặt gầy gò của Dyl tím tái dần đi vì ngạt thở. Đôi chân họ vùng vẫy quẫy đạp điên cuồng trên sàn đá trong cơn giãy giụa cuối cùng, rồi từ từ mềm nhũn buông xuôi.
+“Anh chẳng hiểu lấy một mảy may về cách vận hành của chuyện này đâu,” Feng đáp trả.
 
   
 
-Dyl trút hơi thở tàn cuối cùng ngay trong vòng tay ấm áp của cô. Điều duy nhất mà người con gái nuôi có thể làm lúc này chỉ là ôm chặt lấy thân xác bất động ấy vào lòng.
+Đó chẳng phải một câu hỏi.
 
   
 
-“Tôi đã trao cho cô toàn quyền lựa chọn ngay từ đầu,” Đồ Tể lạnh lùng lên tiếng khi tấn bi kịch đã hoàn tất. “Giờ đây cô có cảm thấy hối hận vì quyết định của mình không?”
+“Phải, anh ta chẳng biết gì thật,” một giọng nói vọng vào từ phía cửa.
 
   
 
-“Tôi…” Cô nghẹn lời, dừng lại một nhịp để tự lắng nghe tiếng nói sâu thẳm nơi tâm can. Nỗi đau đớn tột cùng và cơn chấn động kinh hoàng đang giằng xé từng thớ cơ bắp trên cơ thể cô, khiến trái tim cô đập dồn dập loạn nhịp và dâng lên một vị chua xót đắng ngắt nơi cuống họng. Thế nhưng: “Không,” cô thành thật thừa nhận.
+Ôi, tuyệt thật đấy. Laven và Crooked Rish cũng mò đến đây rồi. Giờ tôi chỉ cần Cutler xuất hiện nữa thôi là đủ bộ để bị tất cả mọi người cùng xúm vào mắng mỏ một lượt.
 
   
 
-“Rất tốt.”
+“Cứ tự nhiên xông vào,” Cori mỉa mai. “Tôi sẽ cứ nằm trơ ở đây, trần như nhộng, trong lúc mấy người tha hồ chiếm dụng phòng của tôi. Tôi chẳng bận tâm đâu mà.” Em vùi đầu xuống dưới gối.
 
   
 
-“Anh đã đoạt được Đại công thức ấy chưa?” Feng cất tiếng hỏi Đồ Tể từ phía gờ ban công ngoài cửa sổ. Yenne cảm thấy bản thân dường như nên ngước mắt nhìn người phụ nữ vừa lên tiếng kia, thế nhưng ánh nhìn của cô hoàn toàn bất lực không thể rời khỏi thi thể của phụ thân nuôi.
+Tôi ra hiệu đuổi tất cả ra ngoài, và hiếm hoi thay, lần này họ chịu nghe theo, ngầm đồng thuận chọn căn hộ của Laven làm điểm hẹn. Trên đường đi, Feng túm cổ lôi sạch những người còn lại trong đội bếp ra khỏi giường, thành thử đến lúc chúng tôi thực sự bước vào đó, căn phòng không còn đủ chỗ chứa. Một người hầu với đôi mắt ngái ngủ đã dẫn đường cho chúng tôi băng qua một mê cung hành lang, tiến lên cao hơn giữa vòm cây rậm rạp.
 
   
 
-“Tôi đã nắm trọn công thức trong tay rồi. Chắc chỉ mất chút ít thời gian để tôi kích hoạt dịch chuyển đến đó thôi. Mọi người đã chuẩn bị sẵn sàng chưa?”
+Chúng tôi đi qua một cây cầu dây để tới một vọng lâu treo lơ lửng giữa hai cành cây to lớn bằng những sợi dây thừng, trông hệt như một chiếc tổ chim. Bên trong kê đầy ghế dài và bàn gỗ, được thắp sáng bằng đèn lồng, nhưng lại hoàn toàn không có lan can bảo vệ. Mỗi khi chúng tôi cử động đột ngột hoặc có cơn gió thổi qua, sàn gỗ lại đung đưa theo cái cách khiến tôi vừa thót tim lại vừa thấy sảng khoái đến lạ kỳ. Chỉ cần một bước sẩy chân, chúng tôi sẽ rơi từ độ cao khủng khiếp đến mức việc ngã khỏi lưng một quái thú Bò sát Carnephon trông còn dễ chịu hơn nhiều.
 
   
 
-Ngay khi Feng gật đầu quả quyết, Laven nhún mình nhảy vút ra khỏi khung cửa sổ đổ nát, đáp gọn gàng xuống chiếc mai sừng của cự quái Atlas: “Lên đường thôi!”
+“Chúng ta quay về căn hộ của anh được không, Chef?” trò học việc của tôi cất tiếng hỏi.
 
   
 
-Bằng những sải bước dứt khoát, Paprick một tay cầm chắc cuốn Sách Nghi Lễ đẫm máu, tay kia nắm chặt lấy cổ tay của nữ lưu trữ viên kéo đứng dậy: “Cô có thể sẽ cảm thấy hơi nhói buốt một chút đấy.”
+Tôi thận trọng tiến lại gần mép sàn. “Độ cao này rơi xuống chẳng thấm tháp gì so với cơn thịnh nộ của Cori đâu.”
 
   
 
-Vừa một khoảnh khắc trước, nữ lưu trữ viên hãy còn đau đớn nhìn trân trân vào đôi mắt mở to vô hồn của phụ thân nuôi. Thì ngay khoảnh khắc tiếp theo, dạ dày cô bỗng cuộn lộn nhào dữ dội tựa như vừa bị hất văng qua một vòng xoáy không gian, và khi mở mắt ra, cô bàng hoàng nhận thấy bản thân đã đứng sừng sững giữa một bình nguyên sa mạc mênh mông, được chiếu rọi bởi những vì tinh tú lộng lẫy và rực rỡ nhất mà cô từng được chiêm ngưỡng trong đời. “Anh thực sự có thể vận dụng Đại công thức dịch chuyển ấy một cách thuần thục đến dường này sao?” cô thì thào kinh ngạc. “Tôi cứ ngỡ là…”
+Phần còn lại của thành phố, ngoại trừ thân cây đại thụ nâng đỡ ngôi đền, đều trải rộng bên dưới chân chúng tôi. Cảnh tượng nhìn xuống màn đêm nhộn nhịp nơi đây đẹp đến ngây ngất lòng người. Những chiếc đèn lồng đủ sắc màu tỏa sáng từ thân cây và các mái nhà tựa như một chòm sao lung linh, trong khi bầu trời phía trên khiêu vũ cùng những sắc tím huyền ảo dưới ánh trăng. Dù đã quá nửa đêm, tiếng nhạc vẫn văng vẳng đưa lại từ một tán cây bên trái tôi. Những buồng thang nâng hạ liên tục, các cỗ xe do thú moose kéo vẫn duy trì dòng xe cộ tấp nập qua lại trên những cây cầu. Bất chấp môi trường xa lạ, những ngọn cây ướt đẫm sương đêm hay bầu không khí ẩm ướt, hơi thở đô thị nơi đây vẫn mang lại một cảm giác thân thuộc lạ lùng. Chẳng khác gì cái thuở tôi đứng trên đỉnh tháp Học viện và phóng tầm mắt nhìn xuống Ranch.
 
   
 
-Thế nhưng khi cô vừa ngửa đầu lên trời ngắm nhìn, một bóng đen khổng lồ che khuất dải ngân hà đang lướt ngang qua tầng mây đen. Một con rồng Drakephon cổ đại, hay là thứ sinh vật quái dị nào khác…
+Laven hắng giọng, lùi xa khỏi mép vực chừng mười bước chân. Không phải ai trong chúng tôi cũng đã vượt qua được nỗi sợ rơi xuống vực sâu.
 
   
 
-Hình dáng của nó chuẩn xác hệt như những gì cô từng miêu tả cho bé Musta năm nào: một quái thai khổng lồ mang dáng dấp của loài vượn hộ pháp lai tạp cùng loài rết nghìn chân gớm ghiếc, to lớn hơn gấp triệu lần một sinh vật thông thường. Tấm lưng gai góc đen kịt của nó đang quay về phía họ, và chí ít, chính vì chi tiết ấy mà cô cảm thấy may mắn tột cùng.
+“Được rồi,” tôi nói, quay lại những dãy ghế băng nơi mọi người đang tụ tập với đủ mức độ kiên nhẫn khác nhau, mà Feng là kẻ thiếu kiên nhẫn nhất trong số chúng tôi. “Ngày mai chúng ta sẽ thách đấu với một gian bếp khác trong một nghi lễ Badgeboar để chứng minh sự vô tội của mình.”
 
   
 
-Và rồi Đồ Tể gạt phăng mọi sự chần chừ, cất tiếng gầm gọi một cái tên khiến một luồng buốt giá thấu xương lập tức phóng thẳng dọc sống lưng cô: “Terrago!”
+“Đấu với một gian bếp là đấu thế nào vậy, Chef?” trò học việc của tôi hỏi.
 
   
 
-Trong cơn hoảng loạn cùng cực, Yenne quay ngoắt người lại bốn phía để tìm kiếm bóng dáng của người thương. Thế nhưng đập vào mắt cô chỉ là thân hình sừng sững của quái thú Empheron. *Liệu anh ấy có đang ẩn nấp phía sau khối thân xác hộ pháp kia chăng?*
+“Cô có phiền giải thích giúp không, Feng?” tôi hỏi.
 
   
 
-Đúng vào thời khắc nghẹt thở ấy, một cặp mắt khổng lồ trên đỉnh đầu quái thú từ từ quay lại. Con quái thú Empheron cúi gập chiếc đầu gớm ghiếc xuống nhìn từ trên chín tầng mây, ánh nhìn sắc lẹm, u buồn và sâu thẳm tựa lưỡi dao cau. Nữ lưu trữ viên bàng hoàng nhận ra bản thân quá đỗi thân thuộc với đôi mắt chan chứa tình yêu ấy.
+Cô trừng mắt nhìn tôi, thừa biết tôi hoàn toàn mù tịt câu trả lời. “Chuyện này thường chỉ diễn ra giữa các đền thờ, nhưng nó cũng tương tự như một cuộc thi nấu ăn của dân chăn quái thú. Giống như cuộc thi ớt cay mà anh đã tham gia vào mùa thu năm ngoái vậy. Ở đây, cả hai phe đều nấu một Đại công thức, và giám khảo sẽ quyết định món ăn nào làm hài lòng mình hơn.”
 
   
 
-“Yenne,” Đồ Tể trầm giọng cất lời, đưa tay chỉ thẳng về phía con cự thú diệt thế đang lừng lững ngự trị trước mắt cô. “Để tôi trân trọng giới thiệu lại với cô: Hoàng đế đương triều Terrago Panchon, hay còn được nhân gian biết đến dưới danh xưng quái thú Empheron.”
+“Một Đại công thức thôi sao? Nghe có vẻ đủ đơn giản đấy,” Laven nhận xét.
 
   
 
----
+Crooked Rish chậc lưỡi. “À, nhưng các cậu vẫn chưa hỏi câu quan trọng nhất đâu.”
 
   
 
-KẾT THÚC QUYỂN HAI
+“Là câu gì?” tôi bực bội hỏi.
+
+  
+
+“Loại giám khảo nào có thể nuốt trôi hai Đại công thức mà không bị bội thực?”
+
+  
+
+Tôi chờ đợi Feng, người đang ngượng ngùng nhìn ra xa trước khi trả lời. “Một nữ hoàng Gryphon.”
+
+  
+
+“Một con gì cơ?” tôi hỏi, chắc mẩm mình vừa nghe nhầm.
+
+  
+
+“Là một quái thú Emphon từng biết đến Những Kẻ Khởi Nguyên, lại mang dòng máu hoàng tộc, ả hoàn toàn công tâm,” Feng nói thêm, cứ như thể lời giải thích đó có chút hợp lý nào vậy.
+
+  
+
+“Làm sao chúng ta cho một quái thú Emphon đang chết đói ăn một Đại công thức được?” người đầu bếp phụ trách món chiên của tôi hỏi.
+
+  
+
+“Làm sao biết được nó thích món nào hơn?” người đầu bếp món nguội của tôi hỏi.
+
+  
+
+“Gryphon mà cũng có nữ hoàng sao?” trò học việc của tôi thắc mắc, nghe có vẻ là câu hỏi kém quan trọng nhất, nhưng thành thực mà nói đó cũng là điều tôi tò mò nhất.
+
+  
+
+“Theo lời người bạn mới của tôi là hoàng đế,” Rish nói, “nó sẽ cố ăn thịt cả gian bếp thua cuộc. Tiện lợi quá, nhỉ? Chẳng ai phải bận tâm về những kẻ thua cuộc cay cú nữa.” Khi thấy không ai cười, ông nhún vai. “Crooked Rish nghe nói phía Badgeboar đã thiết lập các biện pháp bảo vệ để ngăn chặn điều đó từ một thời gian trước rồi. Không cần phải lo lắng đâu. Dù sao thì, nếu các cậu bị kết tội, đằng nào các cậu cũng phải chết thôi. Không biết liệu họ có…”
+
+  
+
+“Cảm ơn nhé, Rish, thế là đủ rồi,” Laven nói.
+
+  
+
+Tôi quay lại chú ý đến Feng. “Gryphon thích ăn gì, Chef?”
+
+  
+
+“Chủ yếu là người,” cô trả lời.
+
+  
+
+“Câu trả lời đó chẳng giúp ích được gì cả.”
+
+  
+
+“Anh hỏi mà.” Dường như cô không còn tự tin như lúc đem cuộc hôn ước của mình ra đánh cược nữa.
+
+  
+
+Tôi dành một thoáng để phóng tầm mắt nhìn khắp thành phố và suy ngẫm.
+
+  
+
+Crooked Rish lăn xe đến cạnh tôi và hạ giọng: “Nếu cậu muốn, Crooked Rish có thể giúp cậu thoát khỏi chuyện này. Tôi có tai mắt ở thành phố này, và họ truyền tai nhau rất nhiều bí mật. Mới một giờ trước thôi, hoàng đế đã lỡ miệng nói ra những điều mà có lẽ sáng mai ngài ấy sẽ phải hối hận đấy.”
+
+  
+
+“Tôi không cần sự giúp đỡ của ông.”
+
+  
+
+“Biết chứ,” ông thừa nhận. “Nhiều năm nay cậu đâu có muốn. Tôi biết điều đó, và tôi đã cố để cho cậu không gian riêng. Nhưng đêm nay, Pappy à, đêm nay tôi nghĩ cậu cần tôi đấy, nhỉ? Crooked Rish này rất sành sỏi mấy trò mưu mẹo.”
+
+  
+
+Tôi ngập ngừng, nghĩ về những sai lầm mình đã phạm phải. “Nếu ông giúp, liệu việc đó có phá hỏng các cuộc đàm phán của Cori với hoàng đế không? Hôn ước đã bị loại khỏi bàn đàm phán, nhưng chúng ta cần đảm bảo một thỏa thuận cũng như họ cần vậy.”
+
+  
+
+Rish lăn bánh xe tới lui trong trầm ngâm, tiến sát mép rìa vọng lâu đến thót tim. “Ta sẽ trực tiếp bàn chuyện này với Cori để đảm bảo mọi sự không phải như thế. Con bé xứng đáng được tôn trọng chừng đó.”
+
+  
+
+Tôi chẳng lấy làm ngạc nhiên khi Rish biết rõ đại từ nhân xưng của Cori. “Chúng ta không gánh nổi một cuộc chiến với những kẻ này đâu. Ẩn tình đằng sau chuyện này còn nhiều hơn thế nữa.”
+
+  
+
+“À, huyền thoại nhỏ bé của ta đây rồi,” Rish tự hào nói. “Cuối cùng cũng bắt đầu nhìn thấy cả khu rừng thay vì chỉ chăm chăm vào mấy cái cây rồi hả? Tốt lắm. Cutler có thể muốn nhóc lo lắng về một hòn đá nào đó, và lão ta có lý do chính đáng, nhưng Đế quốc cùng kẻ khủng bố này, dù chúng là ai đi chăng nữa, mới là nỗi bận tâm của Crooked Rish ngày hôm nay, ngày mai, và xa chừng nào lão già này còn nhìn thấu được tương lai. Nhóc không phải người duy nhất để tang Hili đâu. Ta biết thằng bé trước nhóc từ lâu lắm rồi. Hãy cùng nhau trả mối thù này và đảm bảo một đồng minh để chống lại Panchon, chịu chứ?”
+
+  
+
+Cái tên Hili mang lại một cơn nhói buốt bất ngờ nơi lồng ngực tôi. Liệu Vanil có tổ chức một bữa tiệc tang lễ không? Mọi người đang làm gì với thi thể anh ấy, xét đến kích thước khổng lồ đó? Tôi cố gạt bỏ điều này sang một bên và tập trung vào từng lời của Rish. Tôi chẳng lạ gì nếu ông ta cố tình nhắc đến Hili chỉ để đánh lạc hướng.
+
+  
+
+“Tôi đoán là ông và Laven đã nối lại quan hệ thân tình rồi nhỉ, nếu ông đã biết về Cutler và Cội Nguồn.”
+
+  
+
+“Pappy, cưng à,” ông nói, khóe miệng méo xệch còn hơn cả cái biệt danh của mình. “Chẳng có ai giận Crooked Rish mãi được đâu.”
+
+  
+
+“Để rồi xem.”
+
+  
+
+Câu đáp trả ấy dễ dàng xóa sạch nụ cười khẩy của Rish. Nhìn nụ cười ấy biến mất, lòng tôi quặn thắt. Rất lâu trước khi căm ghét người đàn ông này, tôi từng yêu quý ông. Ông luôn có mặt bên tôi. Hiện diện trong cuộc đời tôi nhiều chẳng kém gì Dì Gyn hay Chú Macen. Nhưng nhiều năm sau, tôi vẫn không sao ngăn mình đay nghiến ông hay cảm thấy một niềm khoái trá nhỏ nhoi khi làm tổn thương ông, cứ như thể tôi đang sửa chữa một lỗi lầm vậy. Mỗi lần nhìn vào ông, ký ức lại khiến mắt tôi cay xè rực cháy. Tôi lại thấy hai người mẹ của mình như mọi khi: những thân xác vỡ vụn cuộn tròn vào nhau, máu thấm đẫm vào vườn xương rồng của tên bạo chúa.
+
+  
+
+Biết bao điều tồi tệ xảy ra đều là lỗi của Rish. Ông ta rêu rao rằng yêu thương hai người họ, nhưng làm sao ông ta có thể tiếp tục nhếch mép cười đùa được chứ? Tôi sẽ không bao giờ được nhìn thấy nụ cười của mẹ thêm một lần nào nữa. Họ sẽ chẳng bao giờ được chiêm ngưỡng ánh đèn của Mangtier hay nếm thử thứ quả cùng tên với mảnh đất này. Độ cao của chòi ngắm cảnh bỗng chốc trở nên kinh tởm tột cùng, gợi nhớ đến nóc cung điện hoàng gia, và bụng dạ tôi cồn cào buồn nôn. “Chúng ta đang lãng phí thời gian đấy. Tôi cần phải lên kế hoạch.”
+
+  
+
+“Sesa và Asabi không nuôi dạy nên một kẻ ngu xuẩn. Hãy dùng…”
+
+  
+
+“Đừng có thốt ra tên của họ trước mặt tôi.”
+
+  
+
+Ông khựng lại, nhìn xuống, rồi gật đầu. “Pappy, chỉ cần dùng những gì họ đã đặt vào trong đầu nhóc thôi. Hãy cứ lo liệu mọi việc như thể ta chẳng có phần nước dùng nào trong nồi súp này. Nếu nhóc gặp rắc rối trên đường đi, cứ việc nói ra, và bất kỳ khó khăn cụ thể nào cũng sẽ chẳng còn là trở ngại. Sự trợ giúp của ta sẽ đến đúng lúc đúng chỗ.”
+
+  
+
+Lũ chính trị gia chết đói. Những kẻ hoàng tộc chết đói. Tất cả rốt cuộc luôn quy về cùng một nơi, luôn luôn là vậy.
+
+  
+
+Tôi đã từng trải qua chuyện này trước đây. Nhưng lần này, tôi sẽ không lặp lại những sai lầm mình từng phạm phải năm mười bảy tuổi.
+
+  
+
+Tôi đưa mắt nhìn thành phố một lần cuối, nơi đang sục sôi sức sống. Mẹ chắc chắn sẽ yêu nơi này biết bao.
+
+  
+
+Tôi bước lại nhập hội cùng các nhân viên của mình. “Kế hoạch của chúng ta là thế này.”

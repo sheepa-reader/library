@@ -1,69 +1,265 @@
-# 5 LẠI LÀ MỘT GÃ ĐỒ TỂ
+# 3 MỤC ĐÍCH VÀ LỜI CẦU HÔN
 
 *Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-Hỏi ba người thợ mổ khác nhau, bạn sẽ nhận được ba câu trả lời khác nhau, nhưng nếu hỏi tôi, loài lợn rừng Badgeboar cho ra mười hai phần thịt riêng biệt. Dưới sự chỉ dạy của Dì, tôi đã học được cách nấu từng phần một trong số đó. Cũng giống như cách tôi thuần thục tám phần thịt của quái thú Gryphon, bốn phần thịt của quái thú linh dương Emphalope, và mười phần thịt của quái thú Dolphon. Tất cả đều là một phần trong khóa huấn luyện mà tôi đã hoàn thành suốt cuộc chiến tranh, vào những ngày tính mạng tôi chao đảo nơi lằn ranh sinh tử, hệt như những tảng thịt lơ lửng trên móc treo.
+Laven và Cori vừa bước ra ngoài đã muốn bàn luận ngay về những gì chúng tôi vừa chứng kiến, nhưng tôi đã ra hiệu cho cả hai im lặng. Thừa hiểu tính Rish, lão ắt hẳn đã bố trí tai mắt dọc từng mét đường lát đá giữa khu Trại Nhốt Pen và Nhà hàng Học viện để nghe lén. Dù rằng có rình rập thì bọn họ cũng chẳng moi móc được gì nhiều từ chúng tôi. Bản thân tôi cũng chẳng hiểu bằng cách nào hay vì sao biểu tượng nhà hàng của mình lại bị khắc lên da đầu của người lính khẩu lệnh đó. Tôi cũng hoàn toàn mù tịt việc tại sao người lính gác kia lại bị phanh thây, hay làm thế nào mà thể xác anh ta vẫn giữ nguyên kích thước khổng lồ như vậy.
 
   
 
-Đôi lúc tôi từng muốn bỏ cuộc, khi máu me, sự kiệt quệ và thậm chí cả hương vị của những chiếc bánh taco do chính tay mình làm ra cũng khiến tôi phát ngấy. Nhưng mỗi lần như thế, tôi lại nhớ về hai người mẹ của mình, và lòng căm thù liền thiêu rụi mọi nỗi dao động. Tựa như lưỡi kiếm nằm trong lò rèn, với Dì là thợ rèn tôi luyện cho mình, tôi mài giũa bản thân thành con dao sắc bén của Đầu Bếp Ilantra. Mùi vị tôi nêm nếm phải chuẩn xác, ký ức về các Đại công thức phải uyên bác như một cuốn bách khoa toàn thư. Tôi nắm rõ từng bữa ăn cần bao nhiêu thời gian để chuẩn bị, nơi nào tôi có thể ứng phó cho một nhiệm vụ phòng thủ bất ngờ ập đến, và những gì tôi cần phải chuẩn bị từ rất sớm trước một chiến dịch đã lên kế hoạch. Mọi sự đều bắt nguồn từ nghề mổ xẻ. Có những thứ, và có những con quái thú Emphon, bạn không tài nào xẻ thịt cho đủ nhanh.
+Tôi ngờ rằng đây là một thông điệp nhắm vào mình. Thế nhưng nó lại chẳng hề giống những lời đe dọa mà tôi thường xuyên nhận được từ Tân Panchon suốt nhiều năm qua. Thông thường, những trò đó chỉ xoay quanh đám sát thủ phiền toái mò đến giữa đêm khuya, mà để đối phó với lũ người đó thì tôi đã giấu sẵn các Đại công thức cùng vũ khí trong mọi ngóc ngách tại căn hộ của tôi và Cori ở Phố Mây. Tôi thậm chí còn cất vài món ở nhà hàng.
 
   
 
-Thần dân của Đế quốc thường ăn ít thịt hơn nhiều so với cư dân Ranch, khá giống với người Thứ Phẩm trước thời Cách mạng. Rất nhiều cư dân Ranch là những tín đồ tôn sùng Emphon, nhưng triều đình Đế quốc lại nghiêm cấm việc giết mổ quái thú Emphon ngoài các mục đích được cho phép theo Thượng Cổ giáo của họ, điều mà chúng ta sẽ bàn tới sau. Khi họ ăn thịt, đó hầu như luôn là những phần cắt nông ngoài thân quái thú như phần bụng, đó chính là thứ tôi sẽ dọn lên cho họ tối nay, theo gợi ý của Feng.
+Nhưng tôi không dám chắc thứ này rốt cuộc đang đe dọa điều gì: sự tàn sát, chiến tranh, hay một âm mưu nhằm hủy hoại danh tiếng của nhà hàng tôi trước khi phái đoàn của Đế quốc Badgeboar đặt chân tới?
 
   
 
-Không giống như quái thú Bò sát Carnephon, bụng của loài lợn rừng Badgeboar không có vảy sừng. Việc xẻ những lát cắt nông không tốn quá nhiều công sức. Miễn là bạn có một con dao đủ dày để xuyên qua lớp biểu bì, việc xẻ một miếng thịt bụng từ lợn rừng Badgeboar cũng chẳng xâm lấn hơn việc rạch một mẩu da mỏng trên bụng người là bao. Nói chung, tôi không khuyên bạn nên thử làm một trong hai điều đó. Nhưng khi những con lợn rừng Badgeboar húc nhau, cặp ngà của chúng xé toạc từng tảng thịt ra một cách dễ dàng.
+Hoặc có lẽ đó là lời cảnh cáo dành cho Đế quốc Badgeboar. Nếu họ hay tin chuyện khủng khiếp này xảy ra ngay trong thành phố, có khả năng họ sẽ rút khỏi các cuộc đàm phán. Thành phố Ranch thực sự không thể gánh nổi hậu quả ấy. Chúng tôi có quá ít lương thực và quá ít thời gian để bổ sung dự trữ nếu Tân Panchon lại cất quân tấn công lần nữa.
 
   
 
-Ẩm thực Đế quốc phát triển từ việc tận dụng những mảnh thịt bị xé toạc đó và nhanh chóng bảo quản thịt từ những con quái thú Emphon đã chết. Tôi sẽ không nấu một bữa ăn thuần túy kiểu Đế quốc. Họ chẳng lặn lội tới Ranch để ăn lại những món họ vốn có ở quê nhà; ngay cả Feng cũng nói rằng món bánh samosa chỉ có thể coi là một sự tri ân. Nhưng Nội các nhất quyết yêu cầu tôi phải dọn thịt quái thú Emphon như một lời khẳng định về sức mạnh quân sự của chúng tôi, đồng thời cũng đã cảnh báo trước với họ để không một ai ăn phải Đại công thức trước khi tới dự, tránh việc vô tình bị bội thực ma thuật. Tôi không muốn làm họ bị choáng ngợp, vì thế với sự hỗ trợ từ đội bếp của mình, tôi quyết định chọn một bữa ăn truyền thống của giới Thứ Phẩm, thay thế một nửa lượng nấm từ công thức chay nguyên bản bằng thịt xông khói lợn rừng Badgeboar, phần thịt mà tôi bắt đầu xắt lát.
+Cori phá vỡ bầu không khí tĩnh lặng khi chúng tôi cách Trại Nhốt Pen chừng vài dãy nhà. “Em có thể nghe thấy tiếng sỏi đá va lọc cọc bên trong cái đầu rỗng tuếch của anh đấy,” em dịu dàng nhận xét rồi nắm lấy tay tôi. “Không đời nào anh lại đang toan tính kế hoạch trả thù ngay lúc này đấy chứ, chàng sát thủ?”
 
   
 
-✦  ✦  ✦
+“Lẽ ra anh phải đến thẳng doanh trại để tìm hiểu xem người chết là ai và an ủi những lính khẩu lệnh khác, chứ không phải đi gửi một giao liên. Nhưng đoàn người Đế quốc Badgeboar sắp đến nơi rồi, anh chẳng còn chút thời gian rảnh rỗi nào cả.”
 
   
 
-Đồ Tể dừng lại khi tấm rèm lều đột ngột mở ra, và một vài người lính bước vào cùng những chiếc xe đẩy chất đầy đĩa thức ăn đậy nắp chụp kim loại. Khi họ bắt đầu bày biện chúng quanh bàn, Đồ Tể ngắt quãng nhịp điệu quen thuộc trong lời trần thuật của mình, tựa lưng ra sau để quay trở lại cuộc trò chuyện.
+“Họ biết anh bận rộn mà, Đồ Tể. Chẳng ai phiền lòng khi anh phải ưu tiên cho bữa tiệc tối nay đâu. Đừng tự dằn vặt mình vì chuyện đó. Dù sao thì trước buổi tối, em cũng cần nói chuyện với *Mẹ* một chuyến.” Đã ba năm trôi qua, vậy mà từ ngữ ấy vẫn nhói buốt tâm can.
 
   
 
-“Tôi không hề có ý định sáng tạo ra một Đại công thức nào vào đêm hôm đó. Trời đất chứng giám là tôi thực sự không hề muốn.”
+*Mẹ*. Tôi không thể trách Cori vì đã dùng từ đó, nhưng trời đất ơi, nó luôn khơi dậy ký ức về cái ngày định mệnh ấy. “Có lẽ bà ấy có thể làm điều gì đó cho họ. Một bữa tiệc tưởng niệm đặc biệt chẳng hạn.”
 
   
 
-Một chiếc nắp đậy đĩa bằng kim loại được hạ xuống trước mặt nữ lưu trữ viên, đọng màng hơi nước lấm tấm. Mùi hương bốc lên từ bên trong, ngào ngạt hương quế cùng đường ngọt, cào cấu cái dạ dày trống rỗng của cô, nhưng nữ lưu trữ viên chỉ trừng mắt giận dữ nhìn anh qua bàn ăn.
+“Miễn là cậu kịp quay lại trước lúc mở cửa đón khách,” Laven nói thêm. “Cậu còn phải tiếp đón ngoại giao nữa.”
 
   
 
-“Tôi biết,” anh nói, giơ hai tay lên làm bộ như đang van nài. “Tôi vừa dành trọn cả ngày để nói với cô rằng mọi điều tôi làm đều dẫn tới lý thuyết về ý niệm. Rằng cô không thể tạo ra một Đại công thức nếu không có chủ ý từ trước. Nhưng tôi đã sai. Có quá nhiều thứ quái quỷ về các Đại công thức mà tôi còn chưa thấu tỏ. Câu chuyện này là về những hậu quả từ sự ngu muội của tôi. Về những điều tôi đã học được trên con đường tìm về Cội Nguồn, về những vụ sát hại xảy ra giữa chừng. Về Cori và tôi, về Feng cùng cuộc đời mà cô ấy đã bỏ lại phía sau, về tình yêu, thêm một lần nữa. Luôn luôn là thế. Đó là câu chuyện về lão Jives Cutler cùng những nguyên thuật sư khác, những kẻ quyết tâm tận diệt tất cả chúng tôi bằng mọi giá. Và về quái thú Emphon. Đừng bao giờ lãng quên loài Emphon. Chắc chắn bọn chúng cũng chẳng đời nào quên chúng ta đâu.”
+“Em biết tìm sân khấu ở đâu mà,” Cori bật cười, đưa mắt nhìn tôi đầy vẻ gợi tình. “Bọn em đã tận dụng nó chán chê rồi.”
 
   
 
-“Nghe vĩ đại làm sao,” nữ lưu trữ viên mỉa mai. “Thế Cutler ở đâu trong toàn bộ mớ hỗn độn này? Anh thật sự nghĩ tôi sẽ tin rằng anh đã phớt lờ ảo ảnh về Cội Nguồn sao? Ngay cả sau khi đã giết Fennel và theo dì của anh khổ luyện suốt ba năm trời?”
+“*Ý tôi là*,” Laven khăng khăng nhấn mạnh, vẻ ngượng ngùng vẫn lộ rõ bất chấp việc Cori thoải mái nói về chuyện giường chiếu của chúng tôi đến nhường nào, “rằng cậu sẽ là người tiếp đón phái đoàn Đế quốc Badgeboar. Cậu biết đấy, với tư cách chính thức là… rốt cuộc tước vị hiện tại của cậu là gì nhỉ? Mọi người vẫn gọi Pap là ‘princeps’ đấy thôi.”
 
   
 
-Anh nhún vai. “Cô biết rõ là tôi đã làm vậy mà. Suốt ngần ấy thời gian tôi đều ở ngoài Tiền tuyến. Vả lại, Cutler đã rời Bầy Đàn ngay sau khi cuộc chiến nổ ra. Lão bảo mình có nơi cần phải đến. Thỉnh thoảng lão có ghé thăm tôi ở Tiền tuyến, nhưng lão vẫn chưa chịu bàn về Nguồn thuật. Kể cả khi tôi nhắc lại chuyện từng tận mắt thấy lão thi triển nó với món Trứng cuộn Quan sát. Mãi đến yến tiệc tưởng niệm Banan, lão mới bắt đầu giải đáp những thắc mắc của tôi về Cội Nguồn, mà dẫu vậy cũng chỉ dừng lại ở việc thừa nhận rằng có một Cội Nguồn tồn tại, và những kẻ chạm tay vào đó được gọi là nguyên thuật sư.
+“Cậu là người bảo hộ của anh ấy, Lavy à, chứ không phải của em.” Cori trao cho tôi một nụ hôn, lộ liễu né tránh trả lời câu hỏi của anh. “Em sẽ có mặt ở nơi em cần phải đến.”
 
   
 
-Nhưng chúng ta rồi sẽ bàn tới chuyện đó, cô không phải lo. Cứ ăn đi. Tôi chẳng việc gì phải bỏ độc cô, vả lại tôi đã bảo họ làm riêng một phần đặc biệt cho cô đấy.”
+“Bọn anh nói nghiêm túc đấy,” tôi bảo. “Chúng ta không thể để buổi phục vụ bị gián đoạn chỉ vì một nhà ngoại giao nào đó muốn hỏi anh đã dùng loại giấm trộn nào cho món salad. Nhất là khi em hoàn toàn có thể ở đó để dùng sức hút của mình quyến rũ họ.”
 
   
 
-Cầu mong bản thân có thể kiềm chế tốt hơn, nữ lưu trữ viên mở nắp đĩa ra, để lộ một đĩa bánh mì nướng phết đẫm bơ, bột quế và đường nâu, điểm xuyết thêm những quả mâm xôi cùng việt quất. Đôi mắt cô suýt nữa rưng rưng lệ. Đã bao lâu rồi cô chưa được nếm quả mọng, kể từ khi…
+“Anh phải nói chuyện với phái đoàn đó đấy, chàng sát thủ của em. Anh đã hứa rồi. Tối nay họ đến đó chỉ vì muốn gặp anh thôi. Mọi thứ còn lại chỉ là thủ tục xã giao chính thức. Họ đến để thưởng thức món ăn của anh.” Thấy tôi không đáp lời, em bồi thêm: “Nếu cần, cứ coi đó là mệnh lệnh từ vị Thân vương của anh đi.”
 
   
 
-“Tôi học được tiểu công thức đó ở Ryespur,” anh nói, cắt ngang dòng suy nghĩ của cô. “Từ một người đàn ông tên là Terry.”
+“Không chắc là cô còn cái quyền hạn đó đâu,” Laven nửa đùa nửa thật.
 
   
 
-Cái tên ấy khiến bàn tay nữ lưu trữ viên khựng lại, gần như chấn động tận tâm can, nhưng cô nhanh chóng giấu đi bằng vẻ bối rối hướng sang chuyện khác: “Sao anh không ăn?”
+“Cả hai người sẽ thấy tôi có quyền hạn gì ngay nếu không chịu nhấc chân lên đấy.” Em quay người chuẩn bị rời đi, nhưng rồi ngoái đầu gọi với lại, trong giọng nói thoáng chút ngập ngừng: “À, chàng sát thủ này, có… ừm, có chuyện này em muốn nói với anh một thời gian rồi. Lát nữa chúng ta nói chuyện nhé.”
 
   
 
-Anh ra hiệu về phía những chiếc nắp đậy đĩa khác bày xung quanh họ. “Tôi đang đợi các vị khách của mình, nhưng cô cứ tự nhiên. Khi nào cô ăn xong, tôi sẽ kể tiếp.”
+Laven liếc nhìn tôi bằng ánh mắt như muốn bảo: *Cậu sắp gặp rắc rối to rồi đấy.*
+
+  
+
+“Mình nói chuyện bây giờ luôn được không?” Tôi hỏi.
+
+  
+
+“Thôi, để sau cũng được. Chúc anh có một buổi tối thuận lợi. Chúc gian bếp luôn rực lửa, hay gì gì đó đại loại vậy.”
+
+  
+
+Laven và tôi đi thêm một dãy nhà trước khi cậu ấy tách ra để gửi chim đưa tin roadrunner về doanh trại. Chẳng mấy khi tôi được ở một mình giữa thành phố này. Giữa danh tiếng, hay tai tiếng, cùng hàng đống nghĩa vụ đè nặng, lúc nào cũng có những người dân Ranch cần tôi giúp một việc gì đó, dẫu đôi khi chỉ là để nán lại một khoảnh khắc nói lời cảm ơn. Nhưng hôm nay, cả thành phố dường như đang mòn mỏi trong nỗi hồi hộp đợi chờ.
+
+  
+
+Suốt thời Cách mạng, Đế quốc gần như phớt lờ chúng tôi. Họ sẵn lòng nhập khẩu nguồn cung gia vị và ớt đang cạn kiệt dần của chúng tôi, vui vẻ xuất khẩu vỏ cây xám Greybark cùng những chuyến hàng gỗ hoặc thép lẻ tẻ, nhưng họ thẳng thừng ngó lơ mọi lời đề nghị liên minh chống lại Thượng Phẩm mà chúng tôi đưa ra. Thế rồi trong sáu tháng qua, họ chính thức công nhận chúng tôi là một quốc gia độc lập và gửi tặng một cây non vỏ cây xám Greybark để chúng tôi có thể gầy dựng một vườn ươm như một minh chứng cho thiện chí, dù vậy vị hoàng đế của họ vẫn từ chối lời thỉnh cầu của Cori về việc sang thủ đô của ông ta làm đại sứ. Đùng một cái, giờ đây họ lại phái tới năm mươi nghị viên cùng một công chúa đến dùng bữa tại nhà hàng của tôi.
+
+  
+
+Cori bảo đó là vì họ muốn ký kết một hiệp định thương mại. Dì Gyn lại cho rằng họ đang bắt đầu cân nhắc một liên minh quân sự thực sự: lo ngại Semoli có thể sáp nhập với Tân Panchon và rời bỏ bán đảo của mình. Còn Laven thì tự hỏi liệu có phải họ chỉ muốn đến xem chúng tôi đã đủ độ chín muồi để thôn tính hay chưa.
+
+  
+
+Tôi chẳng biết mình nên nghĩ gì nữa.
+
+  
+
+Tôi không hề thích thời điểm này chút nào.
+
+  
+
+Nhưng tôi vẫn cố gắng tận hưởng sự tĩnh lặng của thành phố. Cảm giác cô độc ở một nơi rộng lớn có thể mang lại nỗi quạnh quẽ hoặc sự an ủi tùy thuộc vào tâm trạng của tôi, và khi nhìn những người từng thuộc giới Thứ Phẩm đang tản bộ hay đạp xe qua thành phố với sự tự chủ thực sự, một sự tự do mà tôi đã giành về cho họ, tôi tự thúc ép bản thân phải làm như những gì hai người mẹ của tôi từng làm: tìm kiếm sự an ủi, dẫu cho giờ đây tôi đã không còn là người đàn ông mà các mẹ từng nuôi nấng nên người.
+
+  
+
+Tôi không thể làm ngơ trước nhịp bước chân và tốc độ đạp xe đầy bồn chồn của họ.
+
+  
+
+Tôi cảm nhận được hơi nóng bốc lên từ mặt đường lát đá, sự khô khốc bao trùm trong không khí. Đã bao lâu rồi nơi này chưa có một cơn mưa? Liệu hoa màu có chống chịu nổi không? Tôi có thể nhìn thấy nỗi âu lo y hệt như thế hằn rõ trên gương mặt của những người dân Ranch kia.
+
+  
+
+Học viện Ẩm thực Hoàng gia hiện ra trước mắt khi tôi tiến lại gần, những ống khói của tòa nhà đang phả khói nghi ngút. Một phần nỗi tức giận và âu lo trong lòng tôi dần tan biến. Nghĩ mà xem, tôi sẽ đứng lớp dạy Kỹ nghệ Dùng dao còn Laven sẽ phụ trách môn Ẩm thực Giả kim, chỉ một năm rưỡi sau thời điểm lẽ ra chúng tôi đã tốt nghiệp nếu như trường không phải đóng cửa trong thời chiến. Ít nhất thì Bếp trưởng Sagen vẫn còn ở đây để duy trì bộ môn Lý thuyết Hương vị và giúp đỡ hai giáo sư trẻ tuổi như chúng tôi tìm ra lối đi cho mình. Xét về mọi lẽ, theo hồ sơ của Học viện thì tôi vẫn chỉ là một học viên năm hai kiêm thực tập sinh, nhưng tôi đã học hỏi được rất nhiều điều khi làm việc dưới trướng của Dì trong cuộc chiến. Ngoài Ilantra và Cutler ra, có lẽ bà chính là Bếp trưởng xuất sắc nhất mà thành phố này từng chứng kiến trước khi có tôi và Laven. Không một ai bàn tán về việc liệu tôi có xứng đáng với vị trí giảng dạy này hay không, dù cảm giác ấy quả thực vẫn có chút kỳ lạ.
+
+  
+
+“Chào Bếp trưởng,” một học viên cất tiếng gọi khi tôi bước qua cánh cửa chính, giọng nói đậm đặc chất phát âm kéo dài của người Thứ Phẩm. Một trong những lính khẩu lệnh của tôi vừa bị tàn sát dã man, nhưng giờ đây tôi mang trên vai trách nhiệm đối với biết bao con người đang ngước nhìn mình. Tôi cần phải giữ một nét mặt niềm nở. “Ngẩng cao đầu lên,” tôi đáp lại.
+
+  
+
+Gian bếp của tôi đang vô cùng bận rộn khi tôi bước vào, nhưng tất cả mọi người đều đồng loạt dừng tay với sự chuẩn xác như trong quân đội để kiểm tra xem liệu tôi có phải là người được phép có mặt ở nơi này hay không. Hai trong số bảy nhân viên lập tức rời khỏi vị trí của mình và rảo bước về phía tôi, trong khi những người còn lại quay trở lại công việc chuẩn bị cho ca phục vụ buổi tối, cố tỏ ra như thể họ không hề để tai nghe ngóng. Tôi thầm rên rỉ trong bụng, bởi vốn đã quen để Laven trực tiếp xử lý công việc với nhân viên trong vai trò Bếp phó của tôi. Cậu bạn chết tiệt đó đã bỏ mặc tôi cho bầy quái thú sói Wolphon xâu xé rồi.
+
+  
+
+Tôi lấy lại bình tĩnh khi người đầu tiên, chuyên gia nếm rượu của tôi, Sincera, sải bước tiến tới. Cô mặc một bộ âu phục sọc nhỏ rộng rãi, gần như thùng thình, phối cùng chiếc áo ghilê vừa che giấu đi những đường nét nữ tính nơi lồng ngực, vừa giấu kín số lượng khăn tay trắng muốt dường như vô tận. Nếu một giọt rượu vang có lỡ rớt xuống bờ bên này của Vịnh Semoli, nơi cô đã vượt qua để di cư tới đây sau cuộc Cách mạng, cô sẽ lau sạch nó trong tích tắc, và một trong những chiếc khăn ấy sẽ biến mất nhanh trước khi người ta kịp chớp mắt. Tôi không thể kể ra một ai sạch sẽ và chuẩn xác hơn cô ấy. Không một sợi tóc nào lệch khỏi nếp trong mái tóc ngắn ngang cằm của cô. Không một phân tấc nào trên làn da màu ô liu của cô bị vấy bẩn bởi mồ hôi hay bụi bặm, bất kể tình huống có ra sao. Chẳng bao giờ phí phạm lấy nửa lời.
+
+  
+
+Thế nhưng, trước khi cô kịp thốt ra một lời nào, đầu bếp bánh ngọt của tôi đã chen lên phía trước và chọc thẳng một ngón tay vào ngực tôi. Feng Ladwait hoàn toàn là phiên bản đối lập tuyệt đối với Sincera. Bột mì phủ kín gần như từng phân tấc trên làn da màu gỗ gụ để trần của cô và bám chặt dưới những móng tay nứt nẻ. Vài vệt bột thậm chí còn làm trắng bợt đôi hàng mi dài, và vẻ ngớ ngẩn đó đã phần nào làm dịu đi nét gay gắt trong đôi mắt màu hổ phách đang bừng bừng giận dữ của cô. Những lọn tóc tết của cô rối bù thành một búi lộn xộn quanh gáy, dù may mắn không bị bột phủ lên, nhưng chúng, và cả chính bản thân cô nữa, đều toát ra cảm giác như sắp sửa bung bét hết cả ra.
+
+  
+
+Dù Laven luôn khăng khăng bắt nhân viên bếp phải mặc đồng phục đầu bếp, Feng đã lột phăng áo khoác, chỉ để lại chiếc áo cộc tay mỏng tương tự như của Cori nhằm che chắn từ xương quai xanh đến rốn. Bên hông cô lủng lẳng hai chiếc chày cán bột mà nói theo kinh nghiệm của tôi thì chẳng ai muốn bị gõ trúng bao giờ. Và khác với Sincera, cô di cư đến Ranch từ trước cuộc Cách mạng, rời khỏi Đế quốc Badgeboar. Chuyện đó chúng ta sẽ bàn sau.
+
+  
+
+Không hề bối rối trước vẻ hung hăng của Feng, Sincera né sang một bên rồi phủi sạch vệt bột mì bám vào bộ âu phục, có vẻ bằng lòng đứng chờ.
+
+  
+
+“Chef, anh đến muộn đấy,” Feng gắt gỏng, dù ngay cả khi tức giận, chất giọng của cô vẫn mang một âm hưởng gần như ngân nga với những nguyên âm kéo dài. Vừa quở trách tôi, cô vừa ấn một viên kẹo truffle sôcôla vào lòng bàn tay tôi, và tôi lập tức nuốt chửng ngay. Có muốn tôi cũng chẳng thể kìm lòng nổi. Những món quà chào hỏi đó chẳng khác nào thuốc gây nghiện. “Tôi đã nói rất rõ ràng…”
+
+  
+
+“Đừng có bắt đầu,” tôi nói, giọng đanh thép. “Nội các triệu tập tôi, và một trong những lính khẩu lệnh của tôi vừa bị sát hại. Giờ không phải lúc…”
+
+  
+
+“Không phải lúc? Anh định bao giờ mới nói cho tôi biết chuyện chúng ta sẽ tiếp đón phái đoàn Đế quốc Badgeboar? Tôi là dân tị nạn chính trị đấy!”
+
+  
+
+“Đó không phải mối bận tâm của tôi, Chef,” tôi nạt lại. “Mối bận tâm của tôi là tay nghề nấu nướng của cô, và chúng tôi không muốn cô phải chịu áp lực quá mức. Rõ ràng là chúng tôi đã thất bại rồi. Mà làm sao cô biết được thế?”
+
+  
+
+“Cha ruột tôi là một thượng nghị sĩ! Nếu ông ấy ở đây, nếu ông ấy thấy tôi… Tất cả cha mẹ tôi đều vô cùng…”
+
+  
+
+“Tức giận vì cô đến đây thay vì nối nghiệp gia đình,” tôi tiếp lời. “Tôi biết, nhưng ngay cả khi cha ruột cô có mặt, ông ta cũng chẳng đời nào được phép bước chân vào tận gian bếp này đâu. Sẽ không ai phát hiện ra cô cả. Giờ thì quay về vị trí làm việc đi. Nếu cô chịu để tôi vào gian bếp của mình, tôi có thể bắt đầu chuẩn bị cho họ và phần còn lại của phái đoàn.”
+
+  
+
+Cô dường như nhận ra điều bản thân thực sự muốn là tôi phải bắt tay vào làm việc, trong khi chính cô lúc này lại đang làm trì hoãn chuyện đó, nên cô rít lên một câu chửi thề bằng tiếng Badgeboar rồi quay trở lại vị trí của mình. Với đôi cánh tay khỏe hơn bất kỳ ai tôi từng gặp, cô nhồi khối bột với lực mạnh đến mức mặt bàn gỗ phải rên xiết.
+
+  
+
+“Paprick,” Sincera cất tiếng. Chất giọng của cô luôn khiến cái tên nghe tựa như Papa Rick. Cô chào tôi theo phong tục Semoli: nâng một chiếc ly tưởng tượng về phía tôi.
+
+  
+
+Tôi toan đưa cho cô một mẩu bánh quy giòn làm từ men chua để đáp lễ, nhưng cô phẩy tay từ chối. “Không được làm phân tâm. Vị giác của tôi phải luôn ở trạng thái hoàn hảo nhất.”
+
+  
+
+Tôi đút mẩu bánh vào túi. “Tôi có thể giúp gì cho cô đây, chuyên gia nếm rượu?”
+
+  
+
+Cô xoay người tôi tránh khỏi tầm mắt của những người còn lại trong bếp. “Một Nghị viên tên là Soryl Cutler vừa ghé qua ban nãy. Họ định cầu hôn bạn đời tối nay và yêu cầu một sự sắp xếp đặc biệt. Tôi đã từ chối, nhưng Trưởng phục vụ của anh lại khăng khăng rằng ở đây điều đó là cần thiết, rồi yêu cầu một chai vang sủi hảo hạng nhất của tôi. Ông ta thậm chí còn muốn tôi rót rượu vào ly sâm panh dù trong mỗi chiếc ly đã đặt sẵn một chiếc nhẫn. Thật là lố bịch. Hãy bảo ông ta từ bỏ ý định đó đi.”
+
+  
+
+“Soryl là một người bạn tốt, và đây chắc chắn là việc chúng ta có thể cũng như nên làm. Khi cầu hôn, người ta phải chuẩn bị sẵn đồ ăn hoặc thức uống. Ở Semoli các người không làm vậy à?”
+
+  
+
+“Làm vấy bẩn rượu ngon bằng kim loại ư?”
+
+  
+
+Tôi chưa từng nghĩ theo hướng đó bao giờ. “Ở đây chúng tôi vẫn làm thế đấy thôi. Người ta trao nhẫn cho đối phương cùng với thức ăn hoặc đồ uống. Nếu chấp nhận lời cầu hôn, họ sẽ nhận lấy chiếc nhẫn. Còn nếu từ chối, họ sẽ ăn hoặc uống món đi kèm. Đó là một cử chỉ tôn trọng và bớt ngượng ngùng hơn nhiều so với việc thẳng thừng nói lời từ chối.”
+
+  
+
+“Thậm chí họ còn chẳng thèm uống sao? Thật đê tiện.” Cô chỉnh lại vạt áo vốn dĩ đã phẳng phiu của mình rồi gật đầu. “Được thôi. Ranch là một nơi lạc hậu, nơi mà thức ăn dẫn đường và anh là Bếp trưởng.”
+
+  
+
+Như mọi khi, cô thốt ra cái danh xưng ấy như thể một lời chửi thề. “Tôi sẽ làm cái việc khủng khiếp này.”
+
+  
+
+Kìm nén sự thôi thúc muốn tiếp tục cuộc tranh cãi không hồi kết về hệ thống phân cấp nhà hàng ưu việt hơn của Semoli, tôi chỉ khẽ gật đầu. “Cảm ơn cô, chuyên gia nếm rượu. Cần giúp gì cứ bảo tôi.”
+
+  
+
+Khi cô bước đi, tâm trí tôi lại trôi dạt về phía Cori. Một năm sau khi chiến tranh nổ ra, em từng đến thăm tiền tuyến. Thời điểm đó tôi đang rơi vào tình cảnh tồi tệ, và mọi chuyện đã kết thúc chẳng mấy êm đẹp. Chúng tôi mới chỉ quay lại bên nhau kể từ khi tôi trở về. Sáu tháng qua thực sự chẳng hề dễ dàng gì, nhưng tôi yêu em. Em cũng yêu tôi. Dẫu vậy, mẹ em cứ liên tục cằn nhằn về việc cần có một người thừa kế, ngay cả khi người thừa kế đó sẽ chẳng bao giờ được trị vì. Mỗi lần tôi tiến gần đến ý nghĩ về hôn nhân và con cái, tôi lại nhìn thấy bản thân ngồi bên chiếc bàn thành hôn, cha mẹ em ngồi cạnh em, còn những chiếc ghế bên cạnh tôi thì trống hoác. Cùng miếng bánh ngọt tưởng tượng đắng ngắt như tro tàn trong miệng.
+
+  
+
+“Chef,” Laven cất tiếng khi bước vào bếp, cắt ngang dòng suy nghĩ của tôi. “Tin nhắn đã được gửi đi rồi.”
+
+  
+
+“Cảm ơn cậu, Chef.”
+
+  
+
+“Lúc nào cũng sẵn lòng, anh bạn. Giờ thì, nếu chúng ta định làm điều đã bàn, chúng ta phải làm ngay thôi.”
+
+  
+
+Tôi thở dài. “Tối nay Soryl định cầu hôn. Tôi đang thấy đắn đo.”
+
+  
+
+“Đó chẳng giống cậu chút nào.” Laven chống cây gậy xuống nền sàn lát gạch, trầm ngâm suy tính, còn tôi thì cố kìm một cái nhăn mặt. Âm thanh ấy cào xé hệt như móng tay cạo vào xương tôi. Nhưng tôi đã chịu đựng được. Trời đất ơi, cậu ấy còn phải chịu đựng tôi cơ mà. “Đó là đêm khai trương của cậu đấy, anh bạn.”
+
+  
+
+“Tôi vẫn chưa muốn mở nhà hàng đâu,” tôi thì thầm. Cái chết của người lính khẩu lệnh kia đang đè nặng lên tâm trí tôi vào thời điểm tồi tệ nhất. Tôi chỉ muốn biến mất cho xong.
+
+  
+
+Laven trao cho tôi một viên kẹo bạc hà từ chiếc túi chào khách với vẻ đầy thấu hiểu. “Tôi biết chứ, anh bạn, và người ta lại giao cho cậu nơi này với biết bao gánh nặng của nó.”
+
+  
+
+Ánh mắt tôi dừng lại nơi đống củi cạnh lối vào phía sau gian bếp của Nhà hàng Học viện. “Thỉnh thoảng tôi vẫn nhìn thấy bà ấy, mỗi khi đứng bên cạnh lò nướng. Tôi với tay lấy củi và đột nhiên, cảm giác như Bếp trưởng đang ở ngay đó, treo lơ lửng trước mặt tôi như cái ngày hôm ấy.” Tôi nhắm nghiền mắt lại rồi buông lời nguyền rủa. Laven cũng từng có mặt ở đó vào ngày định mệnh ấy. Khi chúng tôi cùng chung phòng trên chiến tuyến, tôi đã nghe thấy những cơn ác mộng của cậu ấy, cái cách cậu ấy lặp đi lặp lại lời tiên tri mà người ta nói với cậu về việc tôi sẽ chặt đứt tay chân cậu trong lúc ngủ. Lời nguyền ấy đã trở thành sự thật, theo cách riêng của nó. “Xin lỗi, tôi không nên nhắc lại chuyện đó.”
+
+  
+
+Cậu ấy nhìn đi chỗ khác, nhưng giọng điệu vẫn điềm tĩnh: “Nội các cần phải chứng minh rằng những cựu binh có thể trở về và tái hòa nhập cuộc sống, Pap à. Tôi biết việc nấu nướng giờ đây chẳng còn như trước, nhưng anh vẫn là người giỏi nhất. Những cựu binh khác đều đang trông cậy vào anh. Chúng ta không biết lệnh ngừng bắn sẽ kéo dài bao lâu. Nếu họ thấy anh chật vật, họ cũng sẽ chật vật theo, và chẳng mấy chốc chúng ta sẽ quay trở lại Đầm lầy Crel, ủ dột chẳng khác gì lúc vừa rời đi. Chúng ta không thể chiến thắng theo cách đó được.”
+
+  
+
+Cậu ấy nói đúng. Tôi biết cậu ấy nói đúng.
+
+  
+
+“Cậu mới là người nên điều hành gian bếp này.”
+
+  
+
+Cậu ấy cười khẩy: “Thôi xin tha, tôi chẳng muốn bị bỏng đâu, người anh em. Tôi thà cứ tiếp tục càm ràm chọc ngoáy anh cho lành. Còn bây giờ, nếu anh thực sự nghiêm túc muốn định hình bản thân và nền ẩm thực của mình vượt ra khỏi cái danh tiếng hão kia, thì tôi chẳng thấy có con đường nào khác. Chúng ta phải bắt đầu ngay tối nay.”
+
+  
+
+Tôi còn chưa chính thức mở cửa, vậy mà các mặt báo đã gọi tôi là gã đồ tể thô bạo, kẻ tấn công vòm họng thực khách như một Đầu Bếp Chiến Trận đầy thực dụng. Suốt thời chiến, ngọn lửa đam mê nấu nướng trong tôi đã dần lụi tàn. Tôi nấu chỉ vì sự hiệu quả và tính thực dụng thuần túy. Cộng thêm việc chưa từng tốt nghiệp trường lớp nào, tất cả hợp thành một công thức hoàn hảo cho lời đàm tiếu: *Hắn ta có được Nhà Học viện chỉ vì hắn là một anh hùng.* Tôi cần phải chứng minh mình thuộc về nơi này.
+
+  
+
+“Mười Hai Vị phù hộ cho con,” tôi thở hắt ra. Rồi giọng tôi cất lên vang dội, át cả tiếng dao thớt băm chặt và tiếng đập bột chan chát: “Các đầu bếp, dừng tay lại. Tôi đã nói dối mọi người.”
