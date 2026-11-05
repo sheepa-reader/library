@@ -1341,4 +1341,27 @@ button {
 .footer-quote {
   font-style: italic;
   color: var(--text-tertiary);
+  max-width: 720px;
+  line-height: 1.6;
+  transition: opacity 0.3s ease, transform 0.3s ease, color var(--transition-fast);
+  cursor: pointer;
+  user-select: none;
+}
+
+.footer-quote:hover {
+  color: var(--text-main);
+}
+
+.footer-quote.fade-out {
+  opacity: 0;
+  transform: translateY(4px);
+}
+
+.footer-mascot {
+  transition: transform var(--transition-fast), opacity var(--transition-fast);
+}
+
+.footer-mascot:hover {
+  transform: scale(1.15) rotate(-6deg);
+  opacity: 1 !important;
 }

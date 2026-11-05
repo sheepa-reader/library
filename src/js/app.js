@@ -15,6 +15,28 @@
   let viewMode = localStorage.getItem('sheepa_view_mode') || 'grid'; // 'grid' | 'list'
   let searchQuery = '';
 
+  // Quotes Repository State
+  let quotesData = [
+    { quote: "Những điều cốt yếu thì vô hình đối với mắt trần. Chỉ có trái tim mới thấy rõ.", author: "Antoine de Saint-Exupéry", work: "Hoàng Tử Bé" },
+    { quote: "Một người đọc sách sống cả ngàn cuộc đời trước khi chết. Người không bao giờ đọc chỉ sống một cuộc đời.", author: "George R.R. Martin" },
+    { quote: "Sách là phép màu di động độc nhất vô nhị.", author: "Stephen King" },
+    { quote: "Không có người bạn nào trung thành và kiên nhẫn như một cuốn sách.", author: "Ernest Hemingway" },
+    { quote: "Đọc sách là trò chuyện với những bộ óc kiệt xuất nhất của các thế kỷ đã qua.", author: "René Descartes" },
+    { quote: "Thiên đường, tôi luôn thầm tưởng tượng, chắc chắn sẽ là một thư viện vô tận.", author: "Jorge Luis Borges" },
+    { quote: "Chúng ta đọc để biết rằng tâm hồn mình không hề cô độc giữa thế gian.", author: "C.S. Lewis" },
+    { quote: "Căn phòng không có sách giống như một thân thể thiếu vắng linh hồn.", author: "Cicero" },
+    { quote: "Dịch thuật là chiếc cầu nối bằng ánh sáng, mang con chữ vượt qua khoảng cách của ngôn từ và thời gian.", author: "Sheepa Library" },
+    { quote: "Nếu bạn chỉ đọc những cuốn sách mọi người đang đọc, bạn chỉ có thể nghĩ những gì mọi người đang nghĩ.", author: "Haruki Murakami" },
+    { quote: "Thế giới là một cuốn sách mở, và người không đi chỉ đọc được đúng một trang.", author: "Thánh Augustin" },
+    { quote: "Một cuốn sách hay trên kệ là người bạn hiền lặng lẽ chờ ta mở lòng.", author: "Tục ngữ Hy Lạp" },
+    { quote: "Chữ nghĩa là con thuyền không đáy chở ước mơ con người qua những đại dương của thời gian.", author: "Francis Bacon" },
+    { quote: "Mỗi trang sách mở ra là một bầu trời mới thức giấc trong tâm tưởng.", author: "Victor Hugo" },
+    { quote: "Đọc một cuốn sách hay giống như tìm được một bến đỗ bình yên giữa dòng đời cuộn chảy.", author: "Lâm Ngữ Đường" },
+    { quote: "Khi một cuốn sách khép lại, câu chuyện thực ra chỉ mới bắt đầu sống trong lòng người đọc.", author: "Neil Gaiman" },
+    { quote: "Không có chiếc tàu nào đưa ta đi xa như một trang sách, cũng không có chiến mã nào phi nhanh bằng những vần thơ.", author: "Emily Dickinson" }
+  ];
+  let currentQuoteIndex = -1;
+
   // Reader Settings State
   const readerSettings = {
     fontFamily: localStorage.getItem('sheepa_reader_font') || 'serif',
@@ -78,6 +100,7 @@
     if (tagSelect) {
       tagSelect.addEventListener('change', (e) => {
         activeTagFilter = e.target.value;
+        randomizeQuote();
         const currentHash = window.location.hash || '';
         if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
           window.location.hash = '#/';
@@ -90,6 +113,7 @@
     if (statusSelect) {
       statusSelect.addEventListener('change', (e) => {
         activeStatusFilter = e.target.value;
+        randomizeQuote();
         const currentHash = window.location.hash || '';
         if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
           window.location.hash = '#/';
@@ -105,6 +129,7 @@
         viewMode = viewMode === 'grid' ? 'list' : 'grid';
         localStorage.setItem('sheepa_view_mode', viewMode);
         updateViewToggleUI();
+        randomizeQuote();
         const currentHash = window.location.hash || '';
         if (currentHash === '' || currentHash === '#/' || currentHash.startsWith('#/?')) {
           renderLibraryView();
@@ -131,6 +156,7 @@
 
   function setTagFilter(tagName) {
     activeTagFilter = tagName;
+    randomizeQuote();
     const headerTagSelect = document.getElementById('header-tag-filter');
     if (headerTagSelect) headerTagSelect.value = tagName;
     const currentHash = window.location.hash || '';
@@ -146,6 +172,7 @@
     activeTagFilter = 'all';
     activeStatusFilter = 'all';
     searchQuery = '';
+    randomizeQuote();
     const headerTagSelect = document.getElementById('header-tag-filter');
     if (headerTagSelect) headerTagSelect.value = 'all';
     const headerStatusSelect = document.getElementById('header-status-filter');
@@ -155,6 +182,54 @@
     renderLibraryView();
   }
   window.resetAllFilters = resetAllFilters;
+
+  // --- QUOTES ENGINE (KHO LƯU TRỮ & ĐỔI TRÍCH DẪN NGẪU NHIÊN) ---
+  async function loadQuotes() {
+    try {
+      const res = await fetch('data/quotes.json');
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data) && data.length > 0) {
+          quotesData = data;
+        }
+      }
+    } catch (e) {
+      console.warn('Dùng danh sách trích dẫn mặc định:', e);
+    }
+  }
+
+  function randomizeQuote() {
+    const quoteEl = document.getElementById('site-footer-quote');
+    if (!quoteEl || quotesData.length === 0) return;
+
+    let nextIndex;
+    if (quotesData.length === 1) {
+      nextIndex = 0;
+    } else {
+      do {
+        nextIndex = Math.floor(Math.random() * quotesData.length);
+      } while (nextIndex === currentQuoteIndex);
+    }
+    currentQuoteIndex = nextIndex;
+    const item = quotesData[nextIndex];
+
+    quoteEl.classList.add('fade-out');
+    setTimeout(() => {
+      quoteEl.innerHTML = `"${escapeHtml(item.quote)}"${item.author ? ` <span style="font-style: normal; opacity: 0.85;">— ${escapeHtml(item.author)}${item.work ? ` (${escapeHtml(item.work)})` : ''}</span>` : ''}`;
+      quoteEl.classList.remove('fade-out');
+    }, 250);
+  }
+
+  function initQuoteEvents() {
+    const quoteEl = document.getElementById('site-footer-quote');
+    const mascotBtn = document.getElementById('footer-mascot-btn');
+    if (quoteEl) {
+      quoteEl.addEventListener('click', randomizeQuote);
+    }
+    if (mascotBtn) {
+      mascotBtn.addEventListener('click', randomizeQuote);
+    }
+  }
 
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
   function parseMarkdown(mdText) {
@@ -271,6 +346,7 @@
   async function handleRoute() {
     const hash = window.location.hash || '#/';
     window.scrollTo(0, 0);
+    randomizeQuote();
 
     if (hash === '#/' || hash === '' || hash.startsWith('#/?')) {
       if (hash.includes('?tag=')) {
@@ -1035,7 +1111,9 @@
   async function init() {
     initTheme();
     initHeaderControls();
-    await loadBooks();
+    initQuoteEvents();
+    await Promise.all([loadBooks(), loadQuotes()]);
+    randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
   }
