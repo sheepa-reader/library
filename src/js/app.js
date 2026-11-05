@@ -363,6 +363,7 @@
     // Paragraph wrapping for loose lines with smart Drop Cap assignment
     const pLines = html.split(/\n\s*\n/);
     let hasAssignedDropCap = false;
+    let foundFirstNarrative = false;
 
     return pLines.map(line => {
       line = line.trim();
@@ -370,17 +371,29 @@
       if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
         return '';
       }
-      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|p|div|center)/i.test(line)) {
+      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center)/i.test(line)) {
+        return line;
+      }
+      if (/^<p\b[^>]*\balign=/i.test(line)) {
         return line;
       }
 
-      // Check if this line is a short subtitle/part header (e.g. <em>Món Thứ Tư • Bít Tết Bão Tố Tăng Cường</em>)
-      const isSubtitle = /^<em>[^<]+<\/em>$/i.test(line) && line.length < 180;
-      if (isSubtitle) {
-        return `<p class="chapter-subtitle">${line}</p>`;
+      // Check for chapter subtitle / metadata BEFORE hitting the first narrative paragraph
+      if (!foundFirstNarrative) {
+        const plainText = line.replace(/<[^>]+>/g, '').trim();
+        // Regex detecting timestamp / day of week / chapter metadata
+        const isDateTimePattern = /^(?:(?:Thứ\s+(?:Hai|Ba|Tư|Năm|Sáu|Bảy)|Chủ\s*nhật|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Ngày|Tháng)\b[\w\s,.:\/-]*|\d{1,2}[:h]\d{2}(?:[:\s]\d{2})?(?:\s*(?:AM|PM|am|pm|phút|giờ))?|.*(?:giờ\s*\d+\s*phút).*)$/i.test(plainText);
+        const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(plainText) && plainText.length < 120;
+        const isItalicSubtitle = /^<em>[^<]+<\/em>$/i.test(line) && plainText.length < 150;
+
+        if (isDateTimePattern || isPartOrCourse || isItalicSubtitle) {
+          return `<p class="chapter-subtitle">${line}</p>`;
+        }
       }
 
       // First narrative body paragraph gets drop cap
+      foundFirstNarrative = true;
+
       if (!hasAssignedDropCap) {
         hasAssignedDropCap = true;
         return `<p class="has-dropcap">${line.replace(/\n/g, '<br/>')}</p>`;
