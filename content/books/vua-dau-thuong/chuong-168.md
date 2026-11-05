@@ -1,0 +1,7 @@
+# 6.
+
+Vào mùa hè năm 2018, một trận đại hỏa hoạn đã càn quét qua những đồng cỏ vàng óng, khô khốc ở vùng chăn nuôi nằm về phía bắc Hopland thuộc hạt Mendocino, California. Những rặng thông đỏ bắt lửa rồi bùng cháy dữ dội như những ngọn đuốc. Ngọn gió nóng và khô thổi thốc, liên tục đẩy ngọn lửa lấn dần về phía nam và phía tây. Đám cháy nuốt chửng cả những con đường đất, suối nước lẫn đường cao tốc. Một cột mây dông khói lửa đen ngòm khổng lồ, rộng tới vài dặm, cuồn cuộn dâng lên bầu trời ngay phía trên những chiếc trực thăng đang xả bọt chữa cháy và nước xuống biển lửa. Khi nhiệt độ ngày càng tăng cao, những cây thông đỏ bắt đầu phát nổ ầm ầm như những thỏi thuốc nổ dynamite, nhựa bên trong sôi bùng lên khiến thớ gỗ nứt toác. Đêm hôm ấy, bầu trời ngập tràn hàng tỷ đom đóm lửa xoáy vòng, tựa như một chòm sao quái dị chao lượn giữa màn đêm mịt mùng khói lửa. Ngọn lửa cứ thế thiêu đốt suốt cả mùa hè cho đến tận tháng Chín, nuốt chửng hơn sáu trăm dặm vuông đất nông nghiệp và rừng rậm, hết ngọn đồi này đến ngọn đồi khác, biến hàng ngàn con thú cùng vô số người dân California kém may mắn không kịp sơ tán thành tro bụi.
+
+  
+
+Nguyên nhân gây ra vụ hỏa hoạn chưa bao giờ được xác định rõ.

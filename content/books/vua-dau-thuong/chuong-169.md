@@ -1,0 +1,7 @@
+# 7.
+
+Vào tháng Mười hai năm 2018, một vụ hỏa hoạn với quy mô nhỏ hơn nhiều đã xảy ra ở bờ biển đối diện. Dù không tạo nên cơn chấn động truyền thông như Đại hỏa hoạn Mendocino Complex, vụ cháy thiêu rụi Dinh thự The Briars (nơi ở của cố tỷ phú công nghệ Colin Wren) vẫn xuất hiện trên tờ *Boston Globe*, kênh truyền hình NECN cùng hầu hết các hãng thông tấn trong vùng. Tàn lửa bắt nguồn từ dưới tầng hầm, nơi hệ thống dây điện cũ kỹ sờn tróc đã chập cháy, bén vào lớp vật liệu cách nhiệt nguy hại được chèn kín trong các hốc tường từ tận năm 1973. Sở cứu hỏa lập tức điều xe ứng cứu, nhưng trận bão tuyết mịt mùng cùng lớp tuyết rơi dày đặc đã làm chậm bước tiến của họ, khiến lực lượng chức năng mất khá nhiều thời gian mới tiếp cận được hiện trường. Chưa dừng lại ở đó, họ không thể tiến vào con đường dẫn lên nhà vì sự cố chập mạch đã làm tê liệt toàn bộ hệ thống điện của cánh cổng chính. Các lính cứu hỏa phải mất gần mười phút chật vật dùng kìm cộng lực cắt phá khóa mới mở tung được cánh cổng sắt, rồ ga lao xe tiến về phía tòa dinh thự lúc này đã chìm ngập trong biển lửa rực đỏ.
+
+  
+
+Khi bóng dáng những chiếc xe cứu hỏa vừa mất hút sau khúc cua của con đường dẫn vào dinh thự, chiếc xe bán tải đang lặng lẽ ẩn mình giữa rặng cây bên kia đường bỗng bật sáng đèn pha. Gwen nhấn ga, xé toạc màn tuyết lạnh buốt rồi quay đầu xe trở về nhà.
