@@ -1,159 +1,127 @@
-# ROXSTER VÀ CON HƯƠU
+# THÁNG TƯ
 
-**HỌ KHÔNG HỀ NÓI VỚI NHAU** về thói quen hút thuốc lén lút mà cả hai mới tập tành gần đây. Hoặc về công việc mới của Jack. Hay về cô nàng tóc vàng. Cả ngày Chủ nhật trôi qua trong bầu không khí lặng thinh tuyệt đối. Jack ngủ nướng tới tận giữa trưa, rồi nhảy lên ô tô phóng đi mất.
+# BÓI CHỈ TAY
 
-“Đi làm đây!” - anh tuyên bố gọn lỏn như thế.
+**MIRIAM BƯỚC VÀO XE** rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI CẢM, HUYỀN BÍ, BÓI TOÁN sơn màu cam chóe ngay phía trên cửa ra vào. Một mảnh bìa cứng treo lủng lẳng bên dưới, hệt như có ai đó từng cố che tấm biển đi nhưng không thành.
 
-Miriam hứng chịu một trận đau đầu nôn nao kinh khủng sau cơn say. Đã vậy, cô còn phải vật lộn dọn dẹp đống đồ chơi slime dính kim tuyến rơi vãi trong kẽ đệm sofa, rồi lại gỡ đống bết dính đó ra khỏi tóc Lindsey. Đống keo dính đã đông cứng thành một búi rối bùi nhùi không thể cứu vãn, đành phải lấy kéo cắt phăng đi. Hành động ấy khiến Lindsey khóc thét lên, và tiếng khóc của con bé lại kích hoạt Rory khóc hùa theo, đơn giản vì chú nhóc cũng đòi được cắt tóc như chị. Thế là cả hai đứa cùng được khuyến mại một kiểu tóc mới.
+Cô đỗ xe bên lề đường ngay phía trước. Cô vặn thử tay nắm, nhưng cửa đã khóa chặt. Tấm biển bói chỉ tay bên ô cửa sổ vẫn phát ra ánh huỳnh quang màu hồng nhè nhẹ, nhưng tấm rèm mây đã kéo kín bưng. Cô gõ cửa. Có tiếng động lạch cạch phát ra từ bên trong. Cô gõ lại lần nữa. Vẫn không một ai trả lời.
 
-“Nhưng đống chất dẻo này ở đâu ra thế không biết?” Cô đời nào lại mua thứ này. Cô thừa tỉnh táo để không bao giờ rước cái thứ kim tuyến bết dính ấy vào nhà.
+Miriam đành đi vòng qua bên hông tòa nhà. Ngay dưới ô cửa sổ, một con chim chết nằm rũ rượi trên mặt đất. Cô bước qua nó rồi ghé sát mắt nhìn vào trong. Nữ thầy bói đang ở đó, đứng ngay sát cửa sổ phía trước dòm ngó ra ngoài đường.
 
-“Tụi con lấy nó ở…”
+Miriam lập tức vội vã chạy quay lại cửa trước. Cô đập cửa rầm rầm. “Tôi biết cô đang ở trong nhà!”
 
-“Suỵt! Tụi mình không được nói cho mẹ biết!”
+“Đi đi!” Nữ thầy bói hét lớn qua khe cửa. “Ở đây không mua bán gì hết!”
 
-“Ồ, ừm…”
+“Nhưng tôi cần cô giúp! Tôi cần cô nói cho tôi biết…”
 
-“Không sao đâu. Bố mua cho các con, đúng không?”
+“Tôi chẳng biết cái quái gì để nói cho cô đâu! Tôi đếch phải thầy bói!”
 
-“Ừm, hình như vậy ạ?”
+“Nhưng cô từng biết mọi chuyện mà! Những chuyện về tôi và cuộc hôn nhân của tôi…”
 
-Đúng là phong cách điển hình của Jack: giăng ra một cái bẫy chất dẻo bết dính rồi phủi tay quất ngựa truy phong. Cô chẳng buồn mở lời với anh. Ngay cả khi anh trở về sau chuyến đi đâu đó không rõ, hai người vẫn cố tình tránh né ánh mắt của nhau. Họ lén lút ra
+“Chuyện đó qua lâu rồi!” Rosy gằn giọng từng từ. “Tôi không làm thầy bói nữa. Đi đi!”
 
-*“Suốt thời gian bên nhau, mọi chuyện lúc nào cũng chỉ xoay quanh cảm giác lên đỉnh của anh ta. Không phải là tôi không có khoái cảm, thỉnh thoảng vẫn có chứ. Nhưng mỗi lần xảy ra, anh ta lại thốt ra mấy câu kiểu như: ‘Anh đã làm em sướng mê ly rồi đúng không?’”*
+Miriam thở dài, buông xuôi ngồi gập gối xuống bậc hiên trước cửa. Rốt cuộc cô cũng chẳng hiểu tại sao mình lại mò đến đây. (Thực ra cô không nên đến thì hơn.) Làm gì có thầy bói nào sở hữu phép thuật ngoại cảm, bởi đơn giản là trên đời này làm gì tồn tại nhà ngoại cảm thực sự. Cô ta giỏi lắm cũng chỉ là một dạng chuyên viên trị liệu tâm lý theo trường phái dị biệt mà thôi. Thế nhưng, đó lại chính là thứ mà Miriam đang khát khao nhất vào lúc này.
 
-*“Cứ như thể ngay cả việc tôi đạt cực khoái cũng là nhờ công ơn của anh ta vậy.”*
+Ngay phía sau cô, tiếng ổ khóa lạch cạch vang lên. Cánh cửa hé mở. Nữ thầy bói Rosy thò đầu ra ngoài, trừng mắt nhìn Miriam đầy cảnh giác. “Tôi đã bảo rồi, tôi đếch phải nhà ngoại cảm.”
 
-*“Những lúc cô thực sự đạt cực khoái.”*
+“Tôi biết rồi. Xin lỗi cô. Tôi đi ngay đây.”
 
-*“Đúng, chuẩn luôn. Còn khi tôi không thể? Đó tuyệt đối không phải lỗi của anh ta. Đó chỉ là một thất bại khác đến từ cơ thể tôi mà thôi.”*
+“Thế cô mò đến đây làm gì?”
 
-*“Thế còn chuyện ngoại tình?”*
+“Tôi… tôi đoán là mình đang thấy vô định. Với lại, lần trước khi tôi đến đây…”
 
-*“Ồ, hoàn toàn là lỗi của tôi. Đáng ra tôi không nên già đi.”*
+“Cô từng đến đây rồi sao?”
 
-*“Được rồi, nhưng cô đâu có già.”*
+“Cô bảo cuộc hôn nhân của tôi đã chấm hết. Rồi ngay sau đó cô lại bảo chưa. Cô còn mời tôi uống nước xá xị nữa.”
 
-*“Ý tôi là già theo kiểu ‘không còn mới mẻ với anh ta’ nữa. Mặc dù tôi đúng là vũ công burlesque già nhất trong đoàn thật.”*
+“Hừm.” Rosy hé mở cửa rộng thêm một chút rồi nhăn mũi. “Là cô à. Tôi nhớ ra rồi. Được rồi, tốt thôi. Muốn thì vào nhà đi.”
 
-*“Vậy rốt cuộc điều gì đã khiến cô đánh đổi người chồng của mình để lấy burlesque?”*
+Miriam thực ra cũng chẳng biết mình muốn gì. Cô chỉ khao khát ai đó nói với mình rằng mọi chuyện rồi sẽ ổn. Cô chỉ muốn mọi thứ quay trở về quỹ đạo yên bình.
 
-*“Tôi đoán… tôi chỉ đơn giản là đã quá mệt mỏi với việc giả vờ. Tôi đã giả vờ suốt nhiều năm trời, từ rất lâu trước lần ngoại tình đầu tiên của anh ta. Tôi không hạnh phúc, nhưng lại tự nhủ rằng mọi chuyện vẫn ổn. Tôi không được thỏa mãn về tình dục, nhưng tự nhủ rằng đó là số phận của mình, số phận của một*
+Cô bước theo nữ thầy bói vào trong. Căn tiệm bốc mùi ẩm mốc xen lẫn vị chua nồng bết rít. Trên quầy chất đống hộp đồ ăn mang về cùng vô số vỏ bánh may mắn đã bóc. Những búi lông mèo cuộn tròn như cỏ lăn hoang mạc vần vũ khắp sàn nhà. Bụi bặm phủ một lớp dày lên mọi vật dụng. Bản thân nữ thầy bói trông nhợt nhạt và hốc hác thấy rõ. Mái tóc vàng của cô ta bết dính, rối xù như tổ chim. Cô ta vẫn mặc đúng chiếc chân váy boho cùng áo phông của đội bóng Cincinnati Reds như ngày đầu Miriam gặp - chỉ khác là lần này, bộ đồ trông hệt như chưa từng trải qua một lần giặt giũ nào. Tuy vậy, đôi mắt cô ta vẫn xanh thăm thẳm, sâu đến khó lường.
 
-*“Đúng vậy.”*
+Cô ta chằm chằm nhìn Miriam. “Cô vừa bị đắm tàu.”
 
-*“Rồi… tôi chẳng biết điều gì đã xui khiến mình nữa. Tôi chỉ đơn giản là bỏ đi. Ngay trước Giáng sinh. Đúng vào dịp đông chí. Tôi xếp đồ vào vali, đặt một phòng khách sạn rồi rời đi. Tối hôm đó, cô bạn gọi điện hỏi tôi: ‘Này, cậu có muốn đi xem show burlesque này không?’ và tôi kiểu: ‘Ừ, sao lại không nhỉ?’ Tôi chưa bao giờ xem bộ môn đó trước đây. Và khi đến nơi, tôi… tôi đã mê mẩn nó. Sự giải phóng mà nó mang lại. Sự tự do. Mọi đường nét cơ thể đều được tôn vinh. Cảm giác như có một đập nước vừa vỡ tung bên trong tôi vậy. Ngay khoảnh khắc đó, tôi biết đây chính là điều mình sẽ làm. Burlesque. Đây chính là tôi. Bản thể thực sự của tôi. Và dẹp mẹ cái trò vờ vịt đi.”*
+“Tôi… đúng vậy. Cảm giác đúng là như thế.”
 
-Miriam giả vờ như không nhìn thấy Jack lén rót rượu whiskey vào ly cà phê. Cô giả vờ không nhận ra anh nhanh tay chuyển màn hình vi tính mỗi khi cô đi ngang qua. Cô không hề đối chất với anh về đống chất dẻo kim tuyến, chuyến đi sở thú, hay giấc ngủ trưa trong ô tô vào sáng sớm. Cô sợ những gì mình sẽ làm một khi bản thân ngừng giả vờ.
+“Cô muốn biết điềm báo đó có nghĩa là gì chứ gì. Đó là lý do cô có mặt ở đây.”
 
-Cô bịa ra lý do cơn đau đầu tái phát để đi ngủ sớm một mình, không có anh. Khi anh leo lên giường, cô vờ như đã ngủ say. Cô nằm lặng lẽ trong bóng tối, mắt mở trừng trừng, suy nghĩ xáo trộn ngổn ngang. Từng câu chữ cứ vang vọng mãi trong bộ não mỏi mệt của cô:
+“Điềm báo gì cơ?”
 
-*Bản thể thực sự. Con người thật của mình. Dẹp mẹ cái trò vờ vịt đi.*
+“Chú chó của cô bị chiếc xe đó đâm phải.”
 
-Khi cô thức dậy, anh đã không còn ở đó. Anh để lại một mảnh giấy nhắn trên quầy bếp: *Anh đi làm sớm.* Dĩ nhiên rồi. *Mong là em thấy khá*
+“Khoan đã… sao cô lại biết…”
 
-Cô chẳng thấy khá hơn chút nào. Cô gọi lũ trẻ dậy, cho chúng ăn sáng, mặc quần áo rồi đưa tới trường. Cô trở về căn nhà trống, úp mặt vào gối và gào lên thật to. Sau đó, cô tra Google về cô vũ công múa thoát y burlesque kia. Đó là đoàn múa nào thế nhỉ? Liệu cô có thể gia nhập không? Liệu cô có thể trút bỏ toàn bộ trang phục trên người để tìm lại bản thể đích thực của mình?
+“Nó là con dao hai lưỡi đấy. Đã là điềm báo thì xoay chuyển theo hướng nào mà chẳng được.”
 
-Nhưng thay vì lột đồ hay bỏ đi, cô tống một mẻ quần áo vào máy giặt, bật máy rửa bát và cho chó ăn.
+Một tiếng *rầm* lớn đột ngột nện thẳng vào mặt kính cửa sổ.
 
-“Muốn đi chạy bộ không, bé Roxy? Muốn không nào?”
+“Cái gì thế?”
 
-Roxster ngoáy tít cái đuôi, móng chân gãi sột soạt vào cánh cửa. Miriam móc dây xích vào cổ nó rồi dắt ra ngoài. Cả hai rảo bước dọc con phố, cố tình chọn lề đường đối diện nhà Kate và Fred chỉ để né mấy con thỏ (vốn dĩ chẳng biết từ đâu chui ra). Roxster ra sức kéo cô đi. Nói là ra sức chứ nó chẳng còn sung sức như xưa nữa. Chú chó đã già rồi. Thông thường, chỉ cần vượt qua vài dãy nhà là nó đã thở không ra hơi, và cô lại phải vừa đi vừa kéo lê cái thân hình nặng trịch của nó theo.
+“Mấy con chim đấy mà.” Nhà ngoại cảm lắc đầu ngao ngán. “Mấy tháng nay lũ chim ngu ngốc đó cứ lao rầm rập vào cửa sổ. Thế nên tôi mới phải kéo rèm che lại, nhưng xem chừng chẳng ăn thua gì.”
 
-Thế nhưng, đó vẫn là một chú chó to lớn, và chút sinh lực tiềm tàng còn sót lại trong nó bỗng dưng bùng lên khi cả hai chạy ngang qua đôi hươu đang đứng ở sân trước nhà Holly và Tom. Tiếng vòng cổ lách cách của nó làm đôi hươu giật mình hoảng sợ. Chúng phóng vút đi, lao thẳng về phía ngã tư. Roxster ngay lập tức chồm lên đuổi theo. Miriam dồn hết sức bình sinh ghì dây xích lại. Nhưng chú chó đã dồn trọn trọng lượng cơ thể để kéo lao về phía trước, trong khi cô lại
+“Cô nghĩ con chim chết rồi sao?”
 
-“Áaaaa!”
+“Dễ là thế lắm. Hoặc giãy giụa sắp chết đến nơi. Mèo nhà tôi cứ thấy con nào rơi xuống là mò ra tha đi liền. Chẳng công bằng tí nào. Nhưng mà thôi, đời làm gì có chuyện công bằng. Uống chút nước xá xị không?”
 
-Sợi dây xích tuột khỏi tay cô.
+“Ừm, vâng. Cho tôi xin một ít.”
 
-Roxster lao đi như một mũi tên.
+Miriam đi theo Rosy vào một gian phòng kho chất đống bừa bộn những thùng carton, các mô hình bìa cứng kích thước thật của cầu thủ bóng chày, đá cuội, thạch anh cùng hàng đống tấm gương đủ mọi hình dáng, kích cỡ. Ở góc phòng đứng lù lù một chiếc tủ lạnh cổ lỗ sĩ dán kín các miếng nam châm in hình đội bóng Cincinnati Reds. Nữ thầy bói mở cửa tủ. Mấy miếng nam châm lập tức rơi lạch cạch xuống sàn. Miriam cúi xuống nhặt lên. Cô thử dán chúng trở lại, nhưng chúng quyết chẳng chịu hít vào vỏ tủ nữa.
 
-Nó lao theo bầy hươu, phóng dọc con phố rồi đâm thẳng ra ngã tư. Miriam không nhìn thấy cảnh tượng đó (hai lòng bàn tay cô đang rát bỏng và đôi đầu gối thì nhói lên từng cơn đau đớn). Cô không nhìn thấy, nhưng cô nghe thấy rất rõ.
+“Đừng tốn công.” Rosy đưa cho cô một lon nước xá xị giả dược Diet Fizz Wizard kèm chiếc ống hút nhựa xoắn ngoằn ngoèo.
 
-Một tiếng *bốp* trầm đục.
+“Sao cô lại biết chuyện về chú chó của tôi?” Miriam thắc mắc.
 
-Một tiếng ẳng nghẹn ngào.
+“Tôi đâu có biết.”
 
-Một tiếng *rắc* khô khốc.
+“Nhưng cô vừa nói…”
 
-Xương thịt vỡ nát dưới bánh xe ô tô.
+“Tôi *nói* thế. Nhưng tôi đâu có *biết*. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”
 
-Cô gượng dậy, nửa chạy nửa tập tễnh lao về phía giao lộ. Bầy hươu đã biến mất. Chiếc xe gây tai nạn cũng đã nhấn ga mất hút - một cú nhấn ga bỏ trốn khỏi hiện trường vô cùng hoàn hảo. Và hiện trường lúc này chỉ còn lại Roxster, nằm mềm rũ rượi giữa lòng đường.
+“Lần trước cô xem chỉ tay cho tôi cũng xảy ra chuyện tương tự sao?”
 
-“Chết tiệt!”
+“Ai mà biết được. Thế chỉ tay của cô bảo sao?”
 
-Một chiếc xe khác đang phóng tới. Tài xế kịp thời đánh lái lạng sang một bên trong chớp mắt. Miriam bất chấp tất cả lao bổ ra giữa đường.
+“Lần trước đến đây, cô bảo cuộc hôn nhân của tôi đã chấm hết. Nhưng rồi ngay sau đó cô lại bảo không phải. Cô cứ nói năng bất nhất như thế. Tôi cần biết ý cô thực sự là gì. Rốt cuộc cô đã nhìn thấy điều gì?”
 
-“Mẹ kiếp, chết tiệt, chết tiệt! Làm ơn đừng sao mà. Làm ơn đi!”
+Rosy lắc đầu tỉnh rụi. “Tôi chịu. Chẳng nhớ tẹo nào.”
 
-Ít nhất cô phải đưa nó ra khỏi lòng đường cái đã.
+“Cô xem lại chỉ tay cho tôi lần nữa được không?”
 
-Cô gồng mình bế bổng chú chó lên. Cơ thể cô gần như không còn đủ sức gánh nổi trọng lượng của nó. Đôi đầu gối cô run rẩy, run tới mức đứng không vững, trong khi cơn đau nhói buốt chạy dọc sống lưng. Máu từ lòng bàn tay trầy xước của cô thấm đẫm vào lớp lông chú chó. Cô khệnh khạng lê từng bước đưa nó về phía góc đường, nhẹ nhàng đặt nó nằm xuống bãi cỏ
+“Cô biết đấy, ngày trước tôi cứ ngỡ mình là một nhà ngoại cảm đích thực,” nữ thầy bói nói. “Hồi nhỏ, ai cũng đinh ninh tôi có giác quan thứ sáu. Mẹ tôi cứ bảo: ‘Destinia Amber Rose, con có giác quan thứ sáu đấy!’ Nhưng thực tế đời nào lại vận hành theo kiểu đó. Tôi có nhìn thấy cái gì đâu. Mấy lời phán ấy cứ tự động tuôn ra khỏi miệng tôi, y như hôm nay vậy. Rồi sau khi trót nói ra miệng, tôi mới lờ mờ hình dung được đôi chút. Hoặc ít nhất trước đây từng là thế. Cơ mà từ bận cô mò tới đây lần đầu tiên, mọi thứ cứ rối tung rối mù cả lên.”
 
-“Chết tiệt thật chứ.”
+“Ý cô là sao?”
 
-Cô ngồi sụp xuống bãi cỏ, run rẩy kiểm tra mạch đập của nó. Cô cảm nhận được nhịp tim vẫn đang thoi thóp. Chú chó he hé mở mắt, phát ra tiếng rên rỉ khe khẽ. Được rồi, nó chưa chết. Vẫn chưa. Nhưng cô làm sao biết được nội tạng bên trong của nó bị tổn thương nghiêm trọng đến mức nào. Một bên chân sau của nó đã dập nát be bét. Chẳng một sinh vật nào trên đời có thể đi lại với một chiếc chân nát vụn như thế cả.
+“Đại loại là, tôi vừa buột miệng nói một đằng, liền sau đó lại phán một nẻo hoàn toàn trái ngược, rồi tôi thấy cả hai điều ấy cùng tồn tại song song. Hệt như một chiếc la bàn bị hỏng kim vậy. Nhưng làm quái nào mà như thế được cơ chứ. Việc này khiến tôi phải tự vấn xem có khi nào bấy lâu nay mình chỉ tự huyễn hoặc ra việc sở hữu giác quan thứ sáu hay không. Thế nên tôi dẹp tiệm vụ xem chỉ tay rồi. Giờ thì cô nốc cho xong lon nước xá xị đó rồi về giùm cho. Mà sao cô chui tọt vào đây được hay vậy? Chỗ này đóng cửa rồi. Biển hiệu ghi rành rành là đóng cửa mà.”
 
-Nước mắt cô bắt đầu trào ra ướt đẫm hai má.
+Làm gì có cái biển nào như thế. “Chính cô vừa mở cửa cho tôi vào mà.”
 
-“Chết tiệt thật chứ…”
+“Thì giờ đóng rồi đây này.”
 
-Cô cần phải đưa nó đến phòng khám thú y lập tức. Nhưng cô e rằng mình chẳng thể nào nhấc bổng nó lên thêm một lần nào nữa, ngay cả việc bế nó vào băng ghế sau xe hơi. Cô cần người giúp đỡ. Cô cần Jack.
+“Xin cô đấy, tôi chỉ…”
 
-*Mẹ kiếp cái con người này!*
+“Phiền thật chứ! Đấy! Trong đầu tôi vừa lóe lên một viễn cảnh đây này: cô sẽ bám riết lấy tôi mà quấy rầy mãi, trừ phi tôi chịu bấm bụng xem chỉ tay cho cô.”
 
-Trớ trêu và cay đắng thay, cô lại vừa cần anh, vừa yêu anh, vừa căm ghét anh; trong khi con chó của anh thì vừa bị xe đâm nát chân và có thể trút hơi thở cuối cùng bất cứ lúc nào, vậy mà rốt cuộc cái người chết tiệt ấy đang ở cái xó xỉnh nào cơ chứ?
+“Không, tôi đi ngay đây,” Miriam nói. “Tôi xin lỗi vì đã làm phiền cô.”
 
-Cô gọi vào điện thoại di động của anh. Anh không bắt máy.
+“Thôi khỏi đi. Tôi xem cho là được chứ gì.” Nữ thầy bói chộp lấy tay Miriam, kéo sát lên mặt soi thật kỹ. Đầu ngón tay cô ta miết dọc theo từng đường chỉ tay. “Hừm. Kỳ lạ thật đấy.”
 
-Cô bấm số gọi tới văn phòng luật của anh. Cô thư ký nhấc máy.
+“Có chuyện gì vậy?”
 
-“Chị Doreen, em là Miriam đây.” Giọng cô run rẩy không khống chế nổi. “Em cần nói chuyện với Jack.”
+“Có thứ gì đó ở chỗ này. Từ quá khứ gần của cô. Một sự đứt đoạn. Hoặc một sự hợp nhất. Hoặc một sự chuyển giao. Tôi chẳng tài nào đoán đích xác được… Dạo gần đây cô có chuyển giao hay cải đạo sang thứ gì không?”
 
-“Ừm, hiện giờ Jack không có ở đây em ơi.”
+“Ý cô là, cải đạo sang tôn giáo mới ư? Không hề.”
 
-“Anh ấy đang ở đâu hả chị?”
+“Không. Không, không phải cái đó. Phải là một thứ gì khác cơ.”
 
-“Chị không…”
+“Thế còn tương lai của tôi thì sao? Tôi biết chuyện gì đã xảy ra trong quá khứ rồi. Cô nhìn thấy gì về tương lai của tôi?”
 
-“Nghe này chị, em cần nói chuyện với Jack. Ngay bây giờ! Bảo anh ấy gọi lại cho em ngay!”
+“Tương lai xưa nay có bao giờ chắc chắn đâu. Chẳng một ai biết trước chuyện gì sẽ xảy đến cả.”
 
-Cô cúp máy. Cô ngồi sụp xuống bãi cỏ, áp trán mình vào đầu chú chó rồi thầm cầu nguyện: *Làm ơn, làm ơn, làm ơn đừng chết mà.*
+“Vậy là cô không thể nói cho tôi biết đường chỉ tay này báo trước điều gì về tương lai sao?”
 
-Cô
+“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có *một điều gì đó*.”
 
-Cô bấm số gọi lại cho văn phòng của Jack một lần nữa.
+“Là cái gì thế?”
 
-“Chị Doreen, chị đã tìm thấy Jack chưa?”
-
-“Ơ, vẫn chưa em…”
-
-“Làm ơn hãy tìm anh ấy ngay đi chị! Bất kể anh ấy đang làm gì, cứ tìm bằng được, ngắt lời anh ấy cũng được! Bảo anh ấy gọi lại cho em *ngay bây giờ*!”
-
-Cô gọi tiếp cho phòng khám thú y. Không một ai nhấc máy (đơn giản vì họ còn chưa đến giờ mở cửa). Cô vội vã để lại lời nhắn. Gương mặt cô nóng bừng và nhớp nháp mồ hôi. Cô nhẹ nhàng vuốt ve đầu chú chó. *Nơi đây an nghỉ Roxster.* Trong đầu cô bỗng nhiên dội về hình ảnh nó khi còn là một chú cún con, ngơ ngác đứng trước cửa căn hộ của cô với chiếc nhẫn cầu hôn được buộc quanh cổ.
-
-Cô lại nhấn số gọi tới văn phòng của Jack, dù thừa biết anh chẳng hề có ở đó.
-
-“Chị đã tìm thấy anh ấy chưa?”
-
-“Ơ…”
-
-“Jack ấy! Chị đã tìm thấy anh ấy chưa?”
-
-“Chưa, chị…”
-
-“Rốt cuộc anh ấy đang ở đâu?”
-
-“Chị cũng không chắc lắm, nhưng…”
-
-“Hôm nay anh ấy có đến làm không đấy? Anh ấy có còn làm việc ở đó nữa không vậy? Chết tiệt thật, em cần anh ấy! Ngay bây giờ!”
-
-“Ừm, đây có phải… một việc khẩn cấp không em?”
-
-“Phải! Khẩn cấp chết tiệt đi được đấy!”
-
-“Miriam này, chị… ừm, đáng lẽ chị không được phép nói ra đâu, nhưng…”
-
-“Nhưng sao? Có chuyện gì hả chị?”
-
-“Chị hoàn toàn không biết Jack đang ở đâu cả. Cậu ấy đã nghỉ việc ở đây nhiều tháng nay rồi.”
+“Nói cho chuẩn xác thì khó lắm. Tôi thấy… một đám đông khổng lồ. Phải rồi. Rất nhiều người, cơ man nào là người tụ tập lại với nhau. Rồi họ đang… họ đang phẫn nộ. Hoặc là, không phải, hình như họ đang hạnh phúc? Có lẽ thế chăng? Họ đồng thanh hô vang điều gì đó. Lại còn có cả những quầng sáng rực rỡ. Đèn chớp nháy liên hồi. Tôi thấy khói. Và… cả động vật nữa ư? Mọi thứ hỗn loạn hết cả lên. Thế nhưng cô lại ở đó. Cô đang đứng ngay chính giữa khung cảnh ấy. Và cả Jack nữa.”

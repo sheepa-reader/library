@@ -1,163 +1,211 @@
-# THÚ TỘI
+# BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU
 
-***ĐỪNG CHẾT***, *xin mày xin mày xin mày đừng chết xin mày.*
+          Miriam:
+        
 
-Một câu thần chú.
+*Tôi hỏi cậu một câu được không?*
 
-Một lời cầu nguyện.
+          Bratty:
+        
 
-Một bài hát.
+*Dạ, sao cơ ạ?*
 
-Miriam ôm chặt chú chó trong tay. Nó là chính nó, nhưng đồng thời cũng đại diện cho tất cả những gì nó từng mang
+          Miriam:
+        
 
-Mọi thứ trên đời đều có khởi đầu và kết thúc. Và giờ đây, Cái Kết đang chảy máu đầm đìa lên bộ đồ tập thể dục của cô. Cái Kết không thể tự đứng dậy. Cái Kết chẳng thể mở nổi mắt. Cô không còn đủ sức bế nó đi xa hơn được nữa. Cô gọi hết cuộc điện thoại này đến cuộc điện thoại khác để cầu cứu. Cuối cùng, Fred bắt máy.
+*Tôi biết hỏi thế này hơi kỳ quặc, nhưng nếu cậu không phiền… cậu bạn thân nhất của cậu ấy…*
 
-Fred xuất hiện trước mặt cô trong tình trạng cởi trần. Anh mặc chiếc quần vải rủ mềm mại, đeo sợi dây chuyền thạch anh quấn dây kim loại cân bằng luân xa và khoác chiếc áo gile may ghép mảnh (trông như thể chính tay anh tự khâu lấy).
+          Bratty:
+        
 
-Anh đỡ lấy chú chó.
+*Tommy ạ?*
 
-“Anh có thể lái xe, nếu em muốn. Anh có thể đi cùng. Nói cho anh biết em cần gì.”
+          Miriam:
+        
 
-“Em chỉ cần…”
+*Cậu rapper đó.*
 
-Cô cần chú chó không chết.
+          Bratty:
+        
 
-Cô cần Jack, thế nhưng Jack đã lùi sâu vào tận xó xỉnh trong tâm trí cô. Anh gần như không còn tồn tại ở đó nữa.
+*Vâng, chính là Tommy đấy ạ.*
 
-Fred bế chú chó đi xuống đường rồi cẩn thận đặt nó vào trong xe cô. Anh quấn chú chó trong một tấm chăn, tháo sợi dây thạch anh của mình ra quàng qua cổ nó để bảo vệ năng lượng. Nếu là phiên bản khỏe mạnh thường ngày, hẳn nó đã gặm đứt dây và biết đâu chừng nuốt chửng luôn viên thạch anh, nhưng phiên bản tả tơi lúc này chỉ nằm im bất động.
+          Miriam:
+        
 
-“Anh muốn tin rằng trên đời này có phép thuật,” Fred nói.
+*Và cậu ấy tự xưng là Mr. Yay.*
 
-“Có thật không anh?”
+          Bratty:
+        
 
-“Có những ngày, anh nghĩ mình có thể cảm nhận được nó. Mọi tần số rung động của vũ trụ. Anh hy vọng thế. Nhưng làm sao chúng ta biết chắc được
+*Dạ, chuẩn luôn ạ.*
 
-Cô trèo vào xe. Cô nhấn ga lao đến phòng khám thú y gần nhất, nhưng nơi đó chưa mở cửa. Tấm biển treo trước cổng lạnh lùng thông báo họ chỉ tiếp nhận bệnh nhân từ giữa trưa: GIỜ MỚI 12:00–17:00, TỪ THỨ HAI ĐẾN THỨ SÁU. Giữa cơn cuồng phong của một tình huống cấp cứu, quy định này tưởng như một trò đùa nực cười. Thế là cô vội vã gọi cho một phòng khám thú y khác, rồi lại một phòng khám khác, rồi thêm một phòng khám khác nữa, cho tới khi có người bắt máy và bảo: *“Đến ngay đi!”*
+          Miriam:
+        
 
-Cô nhấn ga phi thẳng vào trung tâm thành phố. Hơi thở của chú chó nhọc nhằn và khè khè. Cô đỗ tấp xe song song bên ngoài Phòng khám Thú y Happy Paws. Bước vội ra ngoài, cô lao đến trước cửa rồi hét lớn: “Xin hãy giúp tôi! Chó của tôi! Cứu nó với!”
+*Tại sao lại như thế?*
 
-*Xin mày đừng chết xin mày xin mày đừng chết*
+          Bratty:
+        
 
-Cô nhân viên lễ tân hốt hoảng chạy ra, rồi chạy vào, rồi lại chạy ra cùng một bác sĩ thú y và chiếc cáng cấp cứu. Họ cẩn thận đặt Roxster lên cáng, rồi vội vã khiêng chú chó vào bên trong.
+*Ý cô là sao cơ ạ?*
 
-Miriam đỗ lại xe cho chỉnh tề. Cô bước vào phòng chờ. Cô ngồi chờ. Cô gọi điện cho Jack, nhắn tin cho Jack, rồi lại tiếp tục chờ đợi suốt một khoảng thời gian dài đằng đẵng tưởng như vô tận. Và trong lúc chờ đợi đó, trái tim cô vỡ vụn.
+          Miriam:
+        
 
-Liệu ở các vũ trụ khác, chuyện có luôn xảy ra theo cách thế này không?
+*Tại sao cậu ấy lại lấy cái tên đó? Làm thế nào cậu ấy nghĩ ra được cái nghệ danh ấy nhỉ?*
 
-Cô chờ, chờ, rồi lại chờ. Và rồi, hai điều bất ngờ xảy ra cùng một lúc: Jack lao xộc qua cửa, và toàn bộ lũ động vật trong phòng chờ đồng loạt phát điên.
+          Bratty:
+        
 
-Lúc ấy có bốn chú chó trong phòng chờ: một chú chó săn mồi Golden Retriever,
+*Cháu cũng chịu. Cái tên đó cứ thế tự nhiên buột ra khỏi miệng cậu ấy thôi ạ.*
 
-“Miriam! Miriam! Nó đâu rồi? Roxster đâu rồi?”
+          Miriam:
+        
 
-Cô nhìn Jack chằm chằm, ánh mắt lạnh băng. “Chú chó đang ở chỗ bác sĩ thú y.”
+*Và cậu chưa bao giờ hỏi lý do ư?*
 
-“Nó có…”
+          Bratty:
+        
 
-“Nó vẫn sống. Tính đến lúc này.”
+*Hỏi làm gì cơ chứ ạ?*
 
-“Nó có… em có… chuyện gì đã xảy ra thế?”
+          Miriam:
+        
 
-Chú chó Golden Retriever rên ẳng lên từng hồi dài dằng dặc. Chú corgi sủa ầm ĩ tới mức tưởng chừng sắp đứt hơi. Chú husky phi như điên hết vòng này đến vòng khác quanh phòng, còn lũ mèo vừa gầm gừ vừa kêu gào thảm thiết. Ở các phòng phía sau, những con vật khác cũng đồng loạt hòa vào mớ âm thanh hỗn loạn ấy bằng đủ loại tiếng sủa, tiếng rên rỉ, tiếng khè, tiếng nẩy thình thịch và tiếng cào cấu tuyệt vọng tìm đường thoát thân. Những người chủ thì cuống quýt dỗ dành, quát mắng, hoặc chỉ biết đứng chết trân trố mắt nhìn. Con Chihuahua phóng qua hết bàn này đến ghế nọ với ánh mắt hoảng loạn hoang dại. Ngay ngoài đường, một con chó khác lao vụt qua kéo lê sợi dây xích phía sau, theo sau là người chủ đang hớt hơ hớt hải đuổi theo. Bên trong phòng khám, tiếng sủa, tiếng meo meo và tiếng la hét càng lúc càng dữ dội - một chú heo bụng phệ xổng ra thậm chí đang phi nước đại dọc
+*Bởi vì… thôi, bỏ đi.*
 
-Trái tim ấy đã từng vỡ tan.
+          Bratty:
+        
 
-Trái tim ấy chưa từng vỡ bao giờ.
+*Có điều kỳ lạ là, hình như cháu đã nghe thấy cái tên đó trong đầu ngay trước khi cậu ấy thốt ra cơ.*
 
-Đó vẫn là trái tim ấy, nhưng đồng thời cũng là một trái tim hoàn toàn khác. Và cô không tài nào hiểu nổi rốt cuộc chuyện gì đang xảy ra. Chẳng một ai hiểu cả.
+          Miriam:
+        
 
-“Chuyện gì đang xảy ra thế?” Jack gặng hỏi. “Nói cho anh nghe…”
+*Thật thế sao?*
 
-“Em không thể…”
+          Bratty:
+        
 
-Tiếng sủa, tiếng meo meo cùng nhịp cào cấu điên cuồng quanh phòng càng lúc càng leo thang. Chú chó Husky nhảy tót lên bàn lễ tân, xoay vài vòng như chong chóng cho đến khi chiếc máy tính rơi bộp xuống sàn. Chú heo bụng phệ nện móng liên hồi vào cánh cửa kính. Còn con Chihuahua thì ngã ngửa ra sàn, bốn chân chĩa thẳng lên trời như một con bọ lật ngửa.
+*Vâng. Cháu nghe thấy cái tên Mr. Yay vang lên trong đầu, rồi cậu ấy bật ra từ “Mr. Yay”, thế là cháu kiểu, hả? Nhưng chắc lúc đó cháu đang ngáo cần tây. Với lại chúng cháu cũng thức trắng cả đêm nữa. Nên cô biết đấy, thật khó nói chính xác chuyện gì đã thực sự xảy ra.*
 
-“Miriam…”
+          Miriam:
+        
 
-“Có mà anh phải nói cho em biết ấy!” Cuối cùng cô cũng thốt ra được thành lời. “Lẽ ra giờ này anh phải ở công ty chứ!”
+*Chuyện đó… ừm. Vậy… dạo này mọi thứ của cậu thế nào rồi?*
 
-“Thì anh đã ở công ty mà.”
+          Bratty:
+        
 
-“Đừng có dối trá.”
+*Cháu muốn nói là… Được rồi, mọi chuyện kiểu như… tuyệt diệu? Ngoạn mục đến mức điên rồ không thể tin nổi. Nhưng xui xẻo thay, cháu lại không muốn nói trước bước không qua. Vớớới cả… cháu vẫn đang lảng tránh các cuộc gọi của bố. Ông ấy tưởng cháu đã thu xếp xong một suất thực tập tại Ngân hàng First Bank of Lake Orange.*
 
-“Anh thật sự…”
+          Miriam:
+        
 
-“Thôi ngay cái trò dối trá đó đi! Em đã gọi điện đấy, Jack. Em gọi đến văn phòng của anh và người ta đã nói cho em biết rồi. Anh đâu còn làm ở đó nữa! Anh đã nghỉ việc cả mấy tháng nay rồi! Anh đi đâu? Anh làm cái gì? Anh đang ngoại tình đấy à? Anh *thực sự là ai* hả Jack?”
+*Cớ sao ông ấy lại nghĩ như thế?*
 
-“Anh…”
+          Bratty:
+        
 
-“Rốt cuộc anh là cái quái gì chứ?”
+*Ừm, thì kiểu như, Tommy cho rằng sẽ vui lắm nếu ngứa tay nghịch Photoshop, rồi cậu ấy đăng một đống ảnh lên UniTab với mấy tình huống cắt ghép lộ liễu vô cùng. Kiểu như Tommy đang dắt một con khủng long bạo chúa đi dạo chẳng hạn. Mấy trò ngớ ngẩn kiểu thế. Nhưng cậu ấy lại làm một tấm ghép cháu và cậu ấy mặc vest công sở, đứng chễm chệ trước cái ngân hàng đó, trông lố bịch không tả nổi. Rõ ràng nhìn qua là biết ảnh ghép giả tạo. Thế mà chẳng hiểu sao bố cháu lại mò thấy bài đăng của Tommy, rồi ông ấy cứ thế tự đinh ninh rằng cháu đã kiếm được việc ở đó.*
 
-Cô gào lên, nước mắt giàn giụa trên mặt. Quần áo cô vẫn còn ẩm ướt vết máu. Lũ thú cưng gầm gừ, rú lên
+          Miriam:
+        
 
-“Miriam, anh…”
+*Và cậu đã không đính chính lại với ông ấy?*
 
-“Anh có đang ngoại tình không?”
+          Bratty:
+        
 
-“Gì cơ? Không,” anh đáp.
+*Trời ơi, dại gì mà đính chính ạ. Ý cháu là, đáng lẽ cháu cũng phải nói thật. Nhưng mà thôi kệ đi, ít nhất ông ấy cũng ngưng cằn nhằn cháu được một thời gian.*
 
-“Nhưng em đã tìm thấy bao diêm này trong túi quần anh. Của một khu spa lãng mạn…”
+          Miriam:
+        
 
-“Ồ, cái đó… cái đó chỉ là do có người đưa cho anh thôi. Lúc anh cần mồi lửa. Anh chưa từng đến đó bao giờ.”
+*Tôi biết cậu nghĩ ông ấy sẽ phản đối những gì cậu đang theo đuổi…*
 
-“Và em đã nhìn thấy anh. Đi cùng một cô gái tóc vàng…”
+          Bratty:
+        
 
-“Em ‘nhìn thấy’ anh ư?”
+*Nói thế còn là nhẹ nhàng chán đấy ạ.*
 
-“Em… em đã đi theo anh. Anh đến một quán cà phê, rồi đứng bên ngoài đong đưa với cô gái tóc vàng đó.”
+          Miriam:
+        
 
-“Ồ.” Hai má anh ửng đỏ.
+*Nhưng có lẽ nếu hiểu ra, ông ấy sẽ thay đổi suy nghĩ. Hoặc ít nhất, cậu cũng biết bản thân đã trao cho ông ấy một cơ hội để thấu hiểu.*
 
-“Cô ta quá trẻ trung xinh đẹp, và cái cách anh nhìn cô ta…”
+          Bratty:
+        
 
-“Anh không ngoại tình. Anh thề đấy.”
+*Vâng, thôi được rồi, cháu hiểu ý cô mà.*
 
-“Cô ta là ai?”
+          Miriam:
+        
 
-“Cô ấy là…”
+*Nói thật lòng thì, nếu cậu là con của tôi, tôi sẽ cảm thấy vô cùng tự hào.*
 
-“CÔ TA LÀ AI?”
+          Bratty:
+        
 
-Chú heo bụng phệ đang giãy giụa bị người chủ bế xóc đi. Chú chó Husky thì chạy vòng quanh rồi nhảy tót qua cả bàn lễ tân.
+*Cháu… Cháu cảm ơn cô.*
 
-“Cô ấy, ừ thì, xét về mặt lý thuyết… là sếp của anh.”
+          Miriam:
+        
 
-“Sếp của anh? Cô ta mới tầm hai mươi tuổi đấy, Jack! Anh định đứng đây nói dối trắng trợn trước mặt em sao?”
+*Cần rất nhiều dũng khí để rẽ khỏi con đường cha mẹ đã vạch sẵn cho cậu, đuổi theo ước mơ riêng. Và để đạt được từng ấy thành tựu…*
 
-“Không, không, ý anh là… ở, ừm, công việc mới của anh.”
+          Bratty:
+        
 
-“Công việc mới của anh.”
+*Tommy mới là người làm nên tất cả. Cháu chỉ, cô biết đấy, đứng đằng sau hỗ trợ thôi.*
 
-Một con mèo rít lên ghê rợn. Con vẹt sổng chuồng vỗ cánh phạch phạch bay ngang qua phòng.
+          Miriam:
+        
 
-“Đúng vậy, nên là…” Jack nhún nhẩy người đầy vẻ lo âu. “Anh rời khỏi hãng luật rồi. Anh không thể chịu đựng nổi nữa. Anh ghét nơi đó. Anh ghét chính bản thân mình vì đã mắc kẹt ở đó, và em cũng ghét anh, rồi…”
+*Cậu đang tự đánh giá thấp bản thân đấy. Lần trước trò chuyện, cậu đã nói với tôi hai người là một đội cơ mà.*
 
-“Em chưa bao giờ nói là em ghét anh.”
+          Bratty:
+        
 
-“Nhưng em có ghét anh. Em
+*Vâng, cô nói đúng rồi. Chỉ là… cháu vẫn chưa thể tin nổi cháu lại đang ở vị trí này.*
 
-“Bằng cách nói dối ư?”
+          Miriam:
+        
 
-“Anh không cố ý nói dối, anh chỉ… anh đã không mở lời, rồi anh sợ hãi nên cứ tiếp tục giấu giếm, và rồi…”
+*Tại sao lại như thế?*
 
-“Anh bảo anh đi làm mà! Rốt cuộc anh đã đi đâu cơ chứ? *ANH LÀ AI VẬY?*”
+          Bratty:
+        
 
-Anh nhìn cô. Người đàn ông này sở hữu đôi mắt của Jack, gương mặt của Jack, giọng nói của Jack, vóc dáng của Jack, nhưng cô lại chẳng hề quen biết. Người tên Jack mà cô kết hôn đã biến mất, vùi lấp đâu đó dưới ngọn núi công việc ngập đầu không hồi kết, và kẻ bước ra ở bờ bên kia lại là một người hoàn toàn xa lạ.
+*Thì kiểu như, với Tommy, cháu hoàn toàn hình dung ra được viễn cảnh đó. Cháu luôn thấy cậu ấy đọc rap, chơi nhạc, khuấy động lễ hội hay làm điều gì đó kỳ diệu như phép thuật. Cậu ấy chính là phép thuật đấy. Ý cháu là, cháu biết trên đời làm gì có phép thuật. Nhưng nếu có thật… thì Tommy cực kỳ khác biệt. Cậu ấy đặc biệt lắm. Còn cháu thì chỉ là một người bình thường không hơn.*
 
-“Anh… anh làm việc ở quán cà phê đó. Bán thời gian thôi. Chỉ làm ca sáng. Nhưng thực ra…” Anh nghiêm mặt nói, vẻ phớt tỉnh. “Anh là một thám tử tư.”
+          Miriam:
+        
 
-“Anh là… cái gì cơ?”
+*Cậu và Tommy đã làm bạn gần như cả cuộc đời rồi. Cậu ấy sẽ không thể trở thành người như bây giờ nếu thiếu vắng cậu.*
 
-Một tiếng cười bật ra xé tan lồng ngực cô.
+          Bratty:
+        
 
-Không phải vì điều đó buồn cười.
+*Cậu ấy vẫn sẽ đặc biệt thôi. Nhưng ngoài ra, kiểu như khi cháu bảo “cháu không thể tin nổi cháu lại đang ở đây,” ý cháu là mọi thứ… giống hệt một giấc mơ. Cháu vẫn nhìn thấy và nghe thấy mọi thứ diễn ra xung quanh, nhưng có cái gì đó không ổn. Có cái gì đó khang khác. Cháu chẳng biết đó là gì hay tại sao nữa, không sao chỉ đích danh ra được. Và mỗi lần cháu cố thử… Cô có bao giờ rơi vào trạng thái kiểu như bị ảo giác rồi bắt đầu thấy mấy cái đuôi mèo ở khóe mắt chưa?*
 
-“Anh nghiêm túc đấy. Anh là thám tử.”
+          Miriam:
+        
 
-“Không đời nào.”
+*Chưa từng.*
 
-“Có mà.”
+          Bratty:
+        
 
-“Không.”
+*Có thật đấy cô. Cứ như thể có một cái đuôi xuất hiện ngay ở góc mắt. Nhưng đến khi cô ngoảnh lại nhìn thì chẳng có con mèo nào ở đó cả. Chuyện đang xảy ra giống hệt như thế. Nhưng… quy mô lớn hơn. Hoặc nghiêm trọng hơn. Cháu cũng chẳng biết nữa. Cháu nói nhảm quá rồi, xin lỗi cô. Đáng lẽ cháu không nên cắn miếng kẹo cần sa đó trước cuộc gọi của chúng ta. Nhưng mà cô ơi, cháu yếu đuối quá.*
 
-“Có chứ. Chà. Đại loại thế. Có điều anh chưa có nhiều mối làm ăn lắm, thế nên anh mới phải làm ở quán cà phê. Với lại anh đang viết một cuốn tiểu thuyết thám tử. Để lấy cảm hứng.”
+          Miriam:
+        
+
+*Không sao đâu, cậu đừng bận tâm.*
+
+          Bratty:
+        
+
+*Cháu… đang hạnh phúc hơn bao giờ hết. Nhưng đồng thời cũng hoảng sợ đến phát điên. Và cháu biết chứ, có lẽ ai cũng sẽ như vậy khi cuộc sống biến đổi quá dữ dội. Khi người ta, cô biết đấy, dấn thân vào những gì Tommy… những gì cháu và Tommy đang làm. Làm sao cháu có thể không hoảng loạn cho được? Nhưng chuyện này còn vượt xa khỏi điều đó. Nó siêu thực vô cùng. Cháu có thể cảm nhận rõ ràng. Trong ruột gan cháu, trong từng khúc xương tủy. Cô hiểu ý cháu chứ? Cô hiểu mà, phải không?*

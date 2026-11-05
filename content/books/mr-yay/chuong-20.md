@@ -1,115 +1,159 @@
-# MIRIAM VÀ CON CÁO
+# NGƯỜI CHA MẪU MỰC VÀ ĐÁNG YÊU VỀ NHÀ ĂN TỐI
 
-**HẲN LÀ JACK ĐÃ VỀ NHÀ** lúc nửa đêm, bởi lẽ anh đang
+**MIRIAM ĐỨNG BÊN BẾP,** tay khuấy một nồi mì Ý. Lũ trẻ nhà Shipley nổi tiếng với gu ẩm thực vô cùng khắt khe. Lindsey chỉ chịu ăn mì Ý sốt cà chua với điều kiện tiên quyết là nước sốt không được dính lấy một lợn cợn miếng cà chua nào. Rory thì lại chỉ trung thành với mì Ý trộn bơ rắc muối. Riêng chú chó Roxster sẽ sẵn sàng chén sạch cả nồi mì lẫn cái bếp nếu cô cho phép. Còn Jack nghĩ sao về món mì Ý ư? Miriam chẳng buồn bận tâm. Đơn giản vì Jack sẽ không về nhà ăn tối. Anh bận làm việc rồi.
 
-Miriam rời khỏi giường và trút người vào bộ đồ chạy bộ. Cô thắt dây giày thể thao. Cô chẳng buồn đi rón rén (đằng nào thì cũng có ai thèm dậy đâu). Ấy thế mà cô vẫn ra khỏi nhà mà không làm thức giấc bất kỳ ai, ngoại trừ chú chó, sinh thể duy nhất trong nhà tỏ ra khao khát cuộc chạy thể dục đến điên cuồng. Nó bám gót cô qua từng căn phòng, rên ừ ừ trong cổ họng, cho đến khi cô chịu móc dây xích vào cổ nó.
+Thế nhưng, thật bất ngờ, Jack lại về nhà.
 
-Khi cô bước ra bầu không khí mờ sương ảm đạm bên ngoài, Roxster đột ngột chồm lên. Cô giật mạnh dây xích, tay lóng ngóng chật vật với chùm chìa khóa, ban đầu còn chưa hiểu nổi vì sao chú chó lại lên cơn phấn khích đến vậy. Nhưng vừa khóa xong cửa, cô quay người lại và lập tức nhìn thấy nguyên do.
+Roxster lập tức chồm dậy. Chú chó phát ra một tiếng gầm trầm đục và đầy vẻ đe dọa (như thể vừa nhìn thấy một hồn ma quấy phá chực chờ thó mất bữa tối mì Ý của nó). Nó lao bổ ra hành lang. Cánh cửa bật mở, Jack bước vào, và Roxster lập tức chồm thẳng lên người anh.
 
-Một con cáo.
+“Dừng lại! Dừng lại mau!” Jack hét lớn.
 
-Roxster sủa ầm ĩ và cào móng cuống cuồng xuống mặt đất, cố giật đứt dây xích để lao về phía trước.
+Anh ngã ngửa ra sau, tựa lưng vào cánh cửa đóng kín. Chú chó trèo cả hai chân trước lên người anh, đớp loạn xạ và sủa om sòm. Miriam vội chạy tới kéo chú chó ra. Jack lảo đảo đứng dậy, phủi bụi trên quần áo.
 
-“Roxster, ngoan nào. Chỉ là một con cáo thôi mà.”
+“Nó bị dại hay sao thế?” Jack cằn nhằn. “Anh thề đấy, dạo này cứ hễ gặp anh là nó lại phát điên. Rốt cuộc nó bị cái quái gì vậy?”
 
-Có điều, sinh thể này sở hữu một thần thái khiến cô rợn sống lưng.
+“Trước khi anh bước qua cánh cửa đó thì nó vẫn ngoan ngoãn bình thường,” Miriam đáp.
 
-Nó đứng chễm chệ trên thảm cỏ nhà cô, bất động và phớt tỉnh một cách kỳ quái trước một con chó đang sủa inh ỏi đến mức sùi cả bọt mép. Nó nhìn cô chằm chằm. Đôi mắt đen láy của nó chiếu vào cô như thể đang mở một cuộc thẩm vấn sắc bén.
+Lũ trẻ cũng lập tức nhào tới ôm chầm lấy bố.
 
-*Anh ta đã đi đâu rồi?* con cáo dường như đang chất vấn như vậy.
+“Bố! Bố! Bố đã về rồi!”
 
-*Đâu rồi?*
+“Bố ơi! Đố bố hôm nay bọn con đã đi đâu đấy? Đi công viên đấy ạ!”
 
-Miriam lắc đầu.
+“Bố ơi! Đố bố tối nay nhà mình ăn gì nào? Mì Ý đấy ạ!”
 
-*Anh ta đã đi đâu rồi?*
+“Bố ơi, người bố có mùi lạ lắm.” Rory áp mặt vào ống quần Jack, chun mũi lại.
 
-Tất nhiên, nó chẳng hỏi han gì hết. Đơn giản vì cáo thì không biết nói tiếng
+“Rory, nói thế là không ngoan đâu con,” Miriam nhắc nhở.
 
-“Roxster, trật tự nào,” cô bảo. Thế nhưng Roxster chẳng chịu ngừng lại, mà con cáo cũng chẳng buồn nhúc nhích. Nó vẫn đứng trân trân giữa bãi cỏ, ngay cả khi cô dắt chó đi ngang qua, và ngay cả khi tiếng sủa của chú chó ngày càng trở nên dữ tợn. Ánh mắt nó vẫn đăm đăm dán chặt vào Miriam.
+“Nhưng người bố có mùi lạ *thật* mà!”
 
-Cô cố lờ nó đi và bắt đầu chạy bước nhỏ dọc theo vỉa hè. Thời tiết hôm nay thật tồi tệ cho việc chạy bộ, sương mù giăng kín và u uất. Cô chạy ngang qua nhà Kate và Fred, rồi qua nhà Holly và Tom. Đều là những người bạn của cô, những tổ ấm có cuộc hôn nhân có vẻ tốt đẹp hơn cô gấp bội, những cặp đôi cùng nhau nuôi dạy con cái, cùng nhau hẹn hò tối thứ Bảy, và cùng thức dậy chung một giường vào mỗi sáng Chủ nhật. Trong khi đó, hầu như mọi buổi sáng và phần lớn các dịp cuối tuần, mỗi khi cô mở mắt ra thì Jack đã bốc hơi đi đâu mất từ đời nào.
+“Thế cũng là bất lịch sự,” Miriam bảo, tiện tay đỡ lấy chiếc áo khoác của Jack rồi tranh thủ hít một hơi để xác thực.
 
-Cô cảm thấy cô độc đến trần trụi.
+Rory nói đúng. Chiếc áo khoác có mùi rất lạ. Không hề là mùi nước hoa hay mùi đồ ăn thông thường, chỉ là Miriam không tài nào đoán ra đó là mùi gì.
 
-Cô không còn nhớ nổi liệu bố mẹ mình từng cãi vã trước khi ly hôn hay chưa. Cô chỉ nhớ họ từng tồn tại trên hai quỹ đạo hoàn toàn riêng biệt, di chuyển quanh căn nhà mà chẳng bao giờ cắt nhau. Bố cô lọt thỏm trên chiếc ghế tựa bọc da. Mẹ cô ở trong bếp hăng hái băm hành tây. Bố cô xơi món bò hầm rượu vang hâm bằng lò vi sóng đựng trong khay giấy. Mẹ cô nằm rên hừ hừ trên sàn tập gập bụng, hai chân đạp tròn trong không khí. Họ không bao giờ đánh răng cùng một lúc. Mẹ cô đi ngủ từ sớm. Bố cô thức rất khuya. Rồi ông bắt đầu đi chơi về muộn. Và rồi, tầm vài tháng trước ngày họ dắt nhau ra tòa, ông bỗng dưng đổi khác.
+“Chúng ta không nói những lời như vậy, kể cả khi đó là sự thật,” cô chấn chỉnh con trai. “Sao con không ôm bố một cái và nói rằng con rất vui vì bố đã về nhà đi nào?”
 
-Trong
+Rory dang rộng hai tay ôm chặt lấy chân Jack. “Con rất vui vì bố đã về nhà!”
 
-*Ông* vẫn luôn ở đây, làm một người cha mẫu mực; chỉ có *bà vợ* là kẻ hẹp hòi muốn xua đuổi ông đi.
+“Con cũng thế!” Lindsey sà vào ôm nốt chân còn lại.
 
-Hoặc ít nhất Miriam đã từng tin sái cổ như thế, cho đến khi cô đủ lớn và mẹ cô huỵch toẹt toàn bộ sự thật.
+Miriam khoanh tay đứng nhìn viễn cảnh gia đình ấm áp ấy. Đáng lý ra cô *nên* ôm anh. Thế nhưng, sự xuất hiện đột ngột của anh lại chỉ đem đến cho cô một cảm giác bất an khó tả.
 
-*Con còn nhớ mấy “chuyến đi tĩnh tâm công tác cuối tuần” đó không? Con nhớ cái mặt ông ấy trông thế nào lúc vần xác về nhà chứ? Sảng khoáaaaai làm sao. Hừ!*
+“Hôm nay anh về sớm thế,” cô lên tiếng. “Có chuyện gì vậy?”
 
-Cái kịch bản mẫu mực ấy cứ thế tái diễn với những người vợ tiếp theo của ông. Ông kết hôn. Ông chán ngấy. Và rồi một chuỗi “những chuyến đi tĩnh tâm công tác cuối tuần bắt buộc” diễn ra, nạp đầy sự sảng khoái để ông sẵn sàng bước vào một vụ ly hôn mới.
+“Hôm nay sáu giờ anh đã tan làm rồi,” Jack đáp. Anh không nhìn thẳng vào mắt cô.
 
-Miriam chạy hai dặm đầy khổ ải lượt đi rồi lại hai dặm lượt về, trong khi Roxster cứ thế giật phăng dây xích kéo cô đi suốt quãng đường. Nó sủa inh ỏi vào bất kỳ sinh vật nào trong tầm mắt, từ sóc, thỏ cho tới mèo, bất kể trong nhà hay ngoài sân. Cô chưa từng nhận ra cái khu ngoại ô này lại nhung nhúc động vật đến
+“Sớm thật đấy. Chắc đường sá không bị tắc nhỉ?”
 
-Cô rảo bước trên đoạn đường cuối cùng của phố Ravenswood Drive. Cô đinh ninh rằng khi về đến nhà, chồng mình đã tắm rửa thơm tho và chưng diện chỉnh tề để chuẩn bị đi làm, thắt cà vạt, khoác áo vest chỉn chu dù văn phòng ngày Chủ nhật chẳng có ai quy định trang phục. Hẳn anh lại tranh thủ ngấu nghiến vài phút tin tức trên truyền hình, rồi bỏ mặc đống bát đĩa bẩn cùng hai đứa trẻ, những đứa nhóc chỉ chực nhào ra bấu lấy cô ngay khoảnh khắc cô vừa mở cửa.
+“Không,” Jack vừa đáp vừa dán chặt ánh mắt vào lũ trẻ. “Thông suốt từ đầu đến cuối.”
 
-Mẹ kiếp, cô thèm một điếu thuốc đến phát rồ.
+“Vậy tối nay anh sẽ ăn tối cùng cả nhà chứ?”
 
-Miriam chẳng hề chuẩn bị tâm lý cho việc con cáo vẫn còn trơ trơ ở đó, ngay trong sân nhà mình. Vẫn nguyên xi là con cáo ấy. Ngay đúng vị trí cũ. Nó trố mắt nhìn cô khi cô tiến lại gần.
+(Hầu hết mọi buổi tối, Miriam chỉ để sẵn một đĩa thức ăn thừa trên bàn bếp để Jack tự bỏ vào lò vi sóng quay lại khi mò về đến nhà.)
 
-*Người đó đã đi đâu rồi?*
+“Tất nhiên rồi. Mì Ý nghe tuyệt đấy. Nhưng cho anh xin vài phút xem thời sự trước được không?”
 
-Roxster phát ra một tiếng gầm gừ đe dọa.
+Miriam tự nhắc nhở bản thân phải thật kiềm chế. Cô không phàn nàn về tiếng lải nhải đều đều phát ra từ bản tin thời sự trên tivi. Cô cũng không hề “vô tình” làm rơi đĩa mì Ý của Jack xuống sàn rồi xúc lại vào đĩa đưa cho anh. Cô ngoan ngoãn để hai đứa trẻ ngồi cạnh bố chúng - người phụ huynh hiện lên lấp lánh như một người hùng trong mắt con trẻ. Lũ trẻ nằng nặc đòi như thế. Vậy là bố và hai đứa con chễm chệ một bên bàn, còn Miriam ngồi phía đối diện, lẻ loi và trơ trọi một mình.
 
-“Này! Biến khỏi sân mau!”
+Lindsey nhặt từng sợi mì spaghetti lên ăn. Con bé cẩn trọng săm soi từng tí một xem có bị lợn cợn vón cục hay không. Rory thì hành xử hệt như một cỗ máy ngốn mì sợi công suất cao. Cậu bé nhét những miếng mì to quá cỡ vào miệng trước cả khi kịp nuốt chửng phần trước đó. Đơn giản vì cỗ máy thỉnh thoảng sẽ bị quá tải, khiến đống mì thừa trượt khỏi khuôn miệng, rơi thẳng xuống sàn nhà - nơi chú chó Roxster đã túc trực sẵn để dọn dẹp sạch sành sanh.
 
-Con cáo không hề nhúc nhích. Nó chỉ chằm chằm nhìn cô qua hai hốc mắt trống rỗng. Cô bước lại gần hơn, đinh ninh Roxster sẽ dọa cho nó khiếp vía mà bỏ chạy. Nhưng nó không chạy. Dường như có thừa thời gian, nó thong thả rảo bước về phía ngôi nhà, ung dung trèo lên từng bậc thềm rồi chễm chệ ngay giữa hàng hiên (đúng cái vị trí ngăn cách giữa cô và cánh cửa chính).
+“Em nghe tin về vị thượng nghị sĩ đến từ bang Georgia chưa?” Jack vừa hỏi vừa nhồm nhoàm thức ăn đầy miệng. Anh ăn mì hệt như Rory, trông không khác gì một con vật đang cúi đầu ăn trong máng.
 
-“Này! Cáo kia! Đi chỗ khác ngay!”
+“Chưa,” Miriam đáp.
 
-Cô
+Cô vốn chẳng mảy may bận tâm đến vị thượng nghị sĩ bang Georgia nào.
 
-*Ở đâu? Người đó đã đi đâu rồi?*
+“Thượng nghị sĩ Johnston ấy,” Jack nói. “Tin tức tràn ngập khắp nơi rồi.”
 
-Cô còn có thể đi đâu được cơ chứ? Cô chẳng đời nào dại dột để Roxster vồ lấy sinh vật kia rồi banh thây nó ra ngay tại chỗ. Cảnh tượng đó hẳn sẽ cực kỳ nhếch nhác và tanh bưởi. Bản thân cô cũng không muốn lại quá gần (hành vi bất thường cỡ này rất có thể là biểu hiện của bệnh dại, biến thể protein gây bệnh prion, hoặc một căn bệnh truyền nhiễm mới nổi đáng sợ nào đó). Thế là cô lịch sự nhường lại hàng hiên trước cho con cáo, rồi đi vòng ra cửa sau.
+Cô cũng chẳng thèm quan tâm đến tin tức.
 
-Cô gõ gõ lên cánh cửa sau. Đèn bên trong vẫn sáng. Tiếng trẻ con líu ríu vọng ra.
+“Em chưa xem.”
 
-“Này! Có ai mở cửa cho mẹ vào không nào!”
+“Ông ta vừa bị bắt. Ngay tại sân bay.”
 
-Cô gõ thêm lần nữa. Vẫn chẳng có ai ra. Cô đập cửa rầm rầm.
+“Thế à.”
 
-Cuối cùng, cô cũng nghe thấy tiếng bước chân lạch bạch rộn rã của trẻ nhỏ. Rory mở cửa. Roxster lập tức phi vụt vào nhà. Nó sủa inh ỏi đầy vẻ dữ tợn, cứ làm như có kẻ cướp xông nhà. Nhưng kẻ đột nhập ấy hóa ra lại là Jack.
+“Ngay tại trạm kiểm soát an ninh luôn.”
 
-Anh đang túc trực trong bếp cùng cô con gái Lindsey.
+“Ừ hử.”
 
-*Gâu gâu gâu gâu gâu!*
-
-“Roxster, trật tự nào!”
-
-“Mẹ ơi!” Lindsey reo lên hào hứng. “Bố con con đang làm bánh mì nướng kiểu Pháp này!”
-
-*Gâu gâu gâu gâu gâu!*
-
-Jack đang đứng tựa bên quầy bếp trong chiếc áo choàng tắm. Trước mặt anh là một vỉ trứng, một chồng bánh mì lát cùng túi bánh thưởng vị cá hồi. Anh ném cho
-
-“Tốt nhất là ngậm miệng lại đi nhé,” anh bảo. “Gớm thật. Dạo này nó bị làm sao thế không biết?”
-
-“Em tưởng giờ này anh phải đi làm rồi chứ,” Miriam cất tiếng.
-
-“À, ừm, đâu có,” Jack đáp. “Ý anh là chiều nay anh mới cần tạt qua văn phòng vài tiếng. Từ giờ đến lúc đó luật sư cấp cao Jessica cũng chưa cần anh xử lý việc.”
+“Nhân viên an ninh hàng không kiểm tra cặp của ông ta và phát hiện cả một đống cocaine. Mấy bánh liền đấy. Thêm ba mươi nghìn đô tiền mặt. Và…” Dẫu cho lũ trẻ chẳng hề để ý (và nếu có nghe thì chúng cũng chẳng hiểu đó là cái gì), Jack vẫn cẩn thận đánh vần từng chữ: “Một chiếc D, I, L, D, O.”
 
 “Ồ.”
 
-“Em ăn bánh mì nướng kiểu Pháp nhé?” Jack hỏi. “Thêm cả cà phê nữa chứ? Nếu em muốn đi tắm trước thì lúc tắm xong là bánh vừa chín tới luôn.” Anh nở một nụ cười hiền lành, có phần bẽn lẽn.
+Suốt mấy tháng trời Jack chẳng thèm mở miệng nhắc đến bất kỳ điều gì dù chỉ dính dáng một chút tới T, Ì, N, H D, Ụ, C, thế mà giờ đây anh lại tự nhiên khơi mào chủ đề đầy khêu gợi về chiếc máy rung của vị thượng nghị sĩ.
 
-“Thế thì tốt quá,” cô đáp. Quả thực cô rất thèm được đắm mình trong làn nước nóng và xơi một đĩa bánh mì nướng kiểu Pháp. Dù vậy, trong lòng cô vẫn trỗi dậy một nỗi hoài nghi nhẹ. “Tuy nhiên, trước tiên em cần kiểm tra một chuyện đã.”
+“Thượng nghị sĩ Johnston,” Miriam nhếch môi. “Chẳng phải ông ta từng tuyên bố phụ nữ không nên làm những nghề căng thẳng như luật hay y tế vì lợi ích của họ sao?”
 
-“Cứ tự nhiên,” Jack nói. “Lúc nào em sẵn sàng thì cứ bảo để anh bắt đầu bật bếp rán bánh.”
+“Chính là ông ta đấy.”
 
-Miriam đi thẳng vào phòng khách. Cô vén nhẹ tấm rèm cửa sổ để nhòm ra hàng hiên trước nhà. Con cáo vẫn còn trơ trơ ở đó, đứng lảng vảng ngay sát cửa ra vào.
+“Đúng là đồ ngốc. Ai lại tìm cách chui qua cửa an ninh sân bay với một chiếc cặp đầy ắp ma túy và tiền mặt cơ chứ?”
 
-“Lindsey ơi, lại đây mẹ bảo!” cô gọi. Lindsey lon ton chạy lại. “Con nhìn ra ngoài cửa sổ xem. Có cái con gì đang ở ngoài kia thế?”
+“Ông ta khăng khăng rằng mình không hiểu sao đống đó lại chui vào cặp, chắc chắn có ai đó đã gài bẫy ông ta,” Jack nói. “Nhưng dĩ nhiên dấu vân tay của ông ta in hằn trên khắp mọi thứ, và…”
 
-“Một con chó ạ?”
+“Mẹ ơi!” Lindsey hét tướng lên. “Có cục vón này!”
 
-“Một con cáo đấy. Con có nhìn thấy nó không?”
+“Thì con ăn vòng quanh nó đi,” Miriam đáp.
 
-Hóa ra trong trường hợp cụ thể này, cô hoàn toàn không bị phát điên.
+“Nhưng mẹ ơi, con còn phải ăn thêm mấy miếng nữa?”
 
-“Dĩ nhiên là con thấy rồi,” Lindsey đáp. “Nhưng trông nó cứ rờn rợn kiểu gì ấy. Nó đang làm gì ở đó vậy mẹ?”
+“Mẹ ơi, con ăn món tráng miệng được không?” Rory nài nỉ. Cậu bé miết ngón tay lên chiếc đĩa trống trơn nhằm vét sạch vệt bơ cuối cùng còn sót lại.
+
+“Mười miếng nữa. Mới lại không được đâu Rory, hôm nay con đã ăn một chiếc kẹo rồi, nhớ không?”
+
+“Nhưng mười miếng thì nhiều quá!”
+
+“Nhưng mẹ ơi, con muốn ăn tráng miệng cơ!”
+
+“Sáu miếng thì sao nào?”
+
+“Đi mà mẹeeeeee?”
+
+Thời gian như ngừng trôi. Quai hàm Miriam bặm chặt, các cơ cổ căng cứng. Cuộc đời cô hiện lên hệt như một trận cuồng phong xoay quanh những từ *con*, *muốn*, những câu *còn*, *mấy*, *miếng* và vô số lời *sao*, *con*, *không*, *được*. Thế nhưng, ngay tại trung tâm mắt bão lặng gió ấy (nơi được miễn trừ hoàn toàn khỏi nhiệm vụ từ chối, răn đe hay đối phó với hai sinh linh bướng bỉnh do chính mình tạo ra, nhờ vào những giờ làm việc tăng ca triền miên) chính là Jack.
+
+“Mấy đứa, bình tĩnh nào,” Jack lên tiếng. “Ăn thêm bốn miếng nữa, rồi cả hai đứa đều sẽ được ăn tráng miệng.”
+
+“Hoan hô!”
+
+“Lát nữa bố đọc sách cho tụi con nhé?” Lindsey hỏi.
+
+“Con muốn cuốn một trăm chiếc xe tải!”
+
+“Con muốn mấy cuốn Chú Khỉ George Tò Mò! Con chọn ba cuốn được không bố?”
+
+“Được chứ,” Jack nói. “Các con muốn đọc cuốn nào cũng được hết.”
+
+“Tối nay anh không phải làm việc à?” Miriam hỏi.
+
+“Thật ra thì… ừm, không,” Jack đáp. Anh dùng dĩa chọc chọc vào đống mì trên đĩa. “Nhưng này, nếu tối nay em không muốn nhận ca ru con ngủ thì anh lo được. Anh sẽ chơi với tụi nhỏ để em có thời gian nghỉ ngơi thư giãn.”
+
+“Em cứ tưởng anh đang hỗ trợ phiên tòa đó chứ.”
+
+“Ừ thì, chị Jessica bảo chị ấy không cần anh làm thêm muộn, nên anh về nhà.”
+
+Trong lúc Jack đọc sách cho bọn trẻ, Miriam lẻn ra ngoài. Cô bước vào xe hơi của mình rồi lái đi, chẳng mấy chắc chắn về nơi mình muốn tới cho đến khi tấp vào bãi đỗ xe của một trạm xăng. Cô ngồi lại trong xe một hồi lâu, tự hỏi rốt cuộc mình đến đây làm gì.
+
+Nhưng cô biết tỏng lý do.
+
+Cô biết chính xác mình sẽ mua nhãn hiệu thuốc lá nào.
+
+“Cho tôi một bao Mt. Airy Spirits,” cô nói với nhân viên thu ngân.
+
+Cô sẽ chỉ mua đúng một bao này thôi, bởi hút thuốc là một thói quen xấu xa (đặc biệt là với một bà mẹ đang nuôi dạy những đứa trẻ vốn cực kỳ dễ bị tiêm nhiễm). Nhưng trong cô cũng nảy sinh một linh cảm mơ hồ (chẳng dựa trên chút cơ sở thực tế nào) rằng hút xong bao này rồi, cô sẽ lại lập tức quay lại mua tiếp bao nữa.
+
+Cô trả tiền cho người thu ngân, lấy một bao diêm quẹt rồi bước ngược ra ngoài, vòng qua góc tường nơi không ai có thể nhìn thấy.
+
+Cô bóc lớp màng bọc nilon khỏi bao thuốc lá đầu tiên trong đời. Nó gợi cô nhớ đến bọt biển: những điếu thuốc trắng muốt nằm gọn trong chiếc bao màu xanh mòng két, nhẹ bẫng trên tay. Cô rút ra một điếu, lộn ngược đầu lại rồi nhét trở vào bao. Điếu thuốc may mắn. Cô sẽ hút nó sau cùng. Cô biết nghi thức này, dẫu chẳng hiểu vì đâu hay tại sao mình lại biết. Cô biết cách ngậm nó giữa hai bờ môi. Cô biết cách châm lửa.
+
+Cô quẹt diêm. Cô châm thuốc. Một cơn cắn rứt ùa lên trong lòng. Cảm giác tội lỗi vốn chẳng bao giờ thực sự biến mất; nó chỉ chìm xuống rồi lại dâng trào, hệt như những con sóng ngoài biển khơi.
+
+Nối tiếp sau cảm giác tội lỗi là một cơn sảng khoái do nicotine mang lại. Chết tiệt, sao mà đê mê đến thế! Cô đang ở một mình, đang hành xử vô trách nhiệm, và sẽ chẳng có một ai khác trên đời này hay biết. Cô đang ở một mình, và cô có thể buông thả. Cơ hàm cô có thể thôi nghiến chặt. Đôi vai cô có thể thả lỏng. Tâm trí cô có thể dịu lại.
+
+Chỉ trừ một điều: đầu óc cô chẳng chịu dịu đi chút nào. Nó cứ liên tục quay cuồng trôi về những ngòi nổ căng thẳng ban nãy trong buổi tối. Chú chó Roxster cư xử như phát dại. Bọn trẻ chí chóe tranh cãi về bữa tối và món tráng miệng. Jack cho chúng răm rắp mọi thứ chúng vòi vĩnh. Jack đi làm về sớm.
+
+*Mọi chuyện thuận buồm xuôi gió cả*, anh từng bảo thế. *Jessica bảo chị ấy không cần anh phải làm muộn.*
+
+Anh đã không nhìn thẳng vào mắt cô.
+
+Đã có một sự ngập ngừng giữa câu hỏi của cô và câu trả lời của anh (một khoảng khựng lại chỉ chừng một phần tích tắc, nhưng chừng ấy đã là quá dài).

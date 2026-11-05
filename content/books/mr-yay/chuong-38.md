@@ -1,141 +1,225 @@
-# KÝ ỨC ÙA VỀ
+# RĂNG HÀM VÀ HẠT ĐẬU CÔ VE
 
-**MIRIAM + JACK**
+**JACK NGỒI BÊN BÀN ĂN** trong bếp cùng chiếc máy tính xách tay. Anh gõ mổ cò từng ngón trỏ lên bàn phím. Rồi anh ngả người ra lưng ghế, cầm lấy chiếc cốc sứ trắng in logo của Hãng luật Rufus Mather. Anh nhấc cốc, nhấp một ngụm, đọc lại bất cứ thứ gì mình vừa gõ, rồi gật đầu tỏ vẻ hết sức hài lòng.
 
-**NGƯỜI ĐÀN ÔNG NÊN** tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu.
+Đó là chín giờ rưỡi tối thứ Tư. Giờ làm việc đã đến.
 
-Một món quà cũng có thể giúp ích đấy. Như một chú chó con chẳng hạn.
+Có điều, liệu đó có thực sự là làm việc?
 
-“Thế một con dê thì sao?” người đàn ông hỏi.
+Miriam cố tỏ ra tự nhiên hết mức có thể khi lén liếc nhìn màn hình của anh. Nhưng cô không thể nhìn rõ. Đến khi cô nhích lại gần hơn, bất cứ nội dung gì từng xuất hiện trên đó đã lập tức được thay thế bằng trang chủ của Hãng luật Rufus Mather.
 
-“Em biết nuôi con dê đó ở
+*Sự thấu hiểu và Tận tụy: Phong cách Rufus Mather. Hãy trở thành một phần của Đại gia đình Rufus Mather. Hãy bỏ mặc Gia đình riêng của bạn vì Đại gia đình Rufus Mather. Lòng trung thành của chúng tôi đối với Số giờ làm việc tính phí mang lại cho bạn Sự tự do để Làm việc đến Kiệt sức mà chết.*
 
-“Một đàn gà thì thế nào?”
+Miriam giả vờ như mình không hề rình mò. Cô mở cửa tủ bếp, giả vờ tìm kiếm thứ gì đó bên trong. Jack lại giả vờ như anh không hề mong cô đi khỏi. Dù vậy, cô vẫn cảm nhận rõ sự sốt ruột của anh. Anh cựa quậy đầy vẻ thiếu kiên nhẫn (và rõ ràng chỉ muốn cô biến đi cho xong).
 
-“Đó là quà cho mẹ em. Còn cho em, phải là một chú chó con.”
+Khi cô bước lùi ra xa, Jack lại tiếp tục mổ cò bàn phím bằng hai ngón trỏ. Thật là một ẩn số vũ trụ: làm thế nào mà anh có thể sống đến chừng này tuổi đầu mà chưa bao giờ học cách gõ phím cho tử tế.
 
-“Ghi nhận.”
+Cô cảm thấy một khao khát mãnh liệt muốn chọc ngoáy anh. Muốn tống cổ anh ra khỏi nhà. Muốn bóc trần cái cớ “tôi phải làm việc” tráo trở của anh (thứ cớ trông vô lý đùng đùng sau những gì vị thành viên góp vốn kia đã nói).
 
-Và rồi người đàn ông nên quỳ sụp xuống. Anh nên ngước nhìn lên, đầy sùng bái, khi những giọt nước mắt tình yêu hạnh phúc tuôn rơi đầm đìa trên khóe mắt anh.
+*Tất cả chúng tôi đều hy vọng mọi chuyện vẫn tốt đẹp với anh ấy.* Miriam đã không gặng hỏi lại. Đáng lẽ cô nên thắc mắc: *Ý chị là sao?* Nhưng thay vào đó, cô chỉ gật đầu bảo: *Chắc chắn rồi ạ*. Để rồi giờ đây, cô phải đứng đây đóng vai gián điệp.
 
-“Đoạn cuối nghe hơi quá đà rồi đấy.”
+Cô mở cửa tủ chạn rồi sập mạnh lại. Cô lôi hết chén đĩa trong máy rửa bát ra ngoài, làm chúng va vào nhau loảng xoảng cùng đống dao nĩa. Cô bật máy xay rác kêu ken két. Cô ho hắng, thở dài. Nói chung là tìm mọi cách gián đoạn công việc của anh.
 
-“Sao cơ? Tại sao chứ?”
+“Anh đang uống gì đấy?”
 
-“Chà, trước hết, anh không nghĩ mình có thể ứa ra nước mắt tình yêu. Mà cho dù có làm được, anh cũng không nghĩ chúng sẽ tuôn rơi đầm đìa. Rỉ ra vài giọt thì may ra, chứ tuôn rơi thì không đời nào.”
+“Ôi, chút cà phê thôi.”
 
-“Anh có thể tự nhỏ vài giọt nước cốt chanh vào mắt. Cách đó chắc cũng tạo ra hiệu ứng tương tự đấy.”
+“Vào giờ này sao?”
 
-“Tuyệt vời. Đúng là chuyện nên làm ngay trước khi cầu hôn: nhỏ nước chanh vào mắt mình. Nhưng em biết gì không?”
+“Anh phải giữ tỉnh táo để làm việc.”
+
+“Em đâu thấy anh pha cà phê.”
+
+“Cà phê thừa ấy mà.”
+
+“Thế cơ đấy.”
+
+Cô giậm chân bước ra khỏi phòng, rồi lập tức quay ngược lại phía cửa. Cô lắng nghe tiếng gõ bàn phím mổ cò lạch cạch. Thế này thì không đời nào xem được màn hình của anh. Cô cần một mưu kế.
+
+“Jack!” Cô nhanh trí ứng biến. “Jack! Có con nhện!”
+
+“Cái gì cơ?”
+
+“Một con nhện!”
+
+“Cái gì?”
+
+“Một con nhện trong phòng tắm!” Cô bước ngược vào bếp. “Anh bắt nó giúp em được không? Năn nỉ đấy. Nó to đùng mà gớm ghiếc lắm.”
+
+“Được rồi.” Jack cằn nhằn đứng dậy rời khỏi phòng.
+
+Miriam lao ngay lại kiểm tra máy tính. Anh đã khóa màn hình.
+
+“Anh có thấy con nhện nào đâu!” Jack vọng ra.
+
+“Anh tìm kỹ lại xem! Nó ở ngay trong bồn tắm mà.”
+
+Cô cố đoán mật khẩu của anh nhưng bất thành. Cô nhấc chiếc cốc sứ lên, nhấp thử một ngụm. Có thoáng vị cà phê thật, nhưng phần lớn là rượu whiskey.
+
+Ngày hôm sau, Jack đi làm sớm (anh nói vậy), còn Miriam dành hẳn hai tiếng đồng hồ kỳ công tạo hình một chiếc răng khổng lồ bằng giấy bồi cho buổi diễn kịch ở trường tiểu học. Chiếc răng có các lỗ chừa sẵn cho tay chân chui qua, cùng một cái lỗ trên đỉnh để con gái cô nhô đầu ra. Lindsey đã được giao thủ vai Răng Hàm trong vở kịch vệ sinh răng miệng của lớp mẫu giáo.
+
+*Các phụ huynh không BẮT BUỘC phải tự làm trang phục đâu*, cô giáo đã dặn dò như thế. Một câu nói mà dịch ra tiếng người có nghĩa là: *Phải tự làm trang phục đấy, bằng không sẽ bị xã hội phán xét tới cùng.*
+
+Rory đã tranh thủ thời cơ nước sôi lửa bỏng này. Hôm trước, ngay khi cô vừa phác thảo xong bộ trang phục, xé đống báo cũ thành từng dải nhỏ làm giấy bồi, lại còn bận túi bụi vừa dọn bãi nôn của chó, vừa làm hộp cơm trưa rồi lỡ tay làm cháy cả bữa tối, Rory mới ra tay. Trong một thời điểm “thuận lợi” đến thế, chú nhóc đã vòi vĩnh được một lời hứa mà một người mẹ tỉnh táo rảnh rỗi sẽ chẳng bao giờ gật đầu: một bộ trang phục chiếc răng thiết kế riêng, để cậu bé cũng có thể hóa trang thành một chiếc răng đi xem kịch ở trường tiểu học.
+
+“Mẹ ơi, giờ con mặc trang phục chiếc dăng được chưa?” Rory hỏi ngay khi cô đến đón chú nhóc ở trường mầm non.
+
+“Cái gì, bây giờ ư? Ngồi trên xe ô tô luôn sao?”
+
+“Mẹ ơi, con mặc trang phục chiếc dăng đi học được không?” Rory lại hỏi lúc về đến nhà và xỏ bộ đồ vào.
+
+“Mẹ ơi, con mặc chiếc dăng đi ngủ được không?” Chú nhóc tiếp tục hỏi khi hai mẹ con nối gót mọi người bước vào hội trường. Bộ trang phục quá rộng khiến hai cánh tay cậu bé chĩa thẳng ra hai bên, hệt như hình người que trong tranh vẽ thiếu nhi.
+
+Cô tìm chỗ ngồi trống cho mình và Rory (lúc này đã biến thành một chiếc răng). Lindsey đang ở hậu trường. Còn Jack thì không xứng đáng có ghế ngồi, đơn giản vì anh đâu có đến. Mà cô cũng chẳng buồn nhắc anh.
+
+Ngay khi vừa an tọa, cô liền nhìn thấy Holly. Holly vẫy tay rồi vội vã rảo bước lại gần, ngồi xuống ngay bên cạnh Miriam.
+
+“Mong sao đây là show diễn của thế kỷ,” Holly vặn nắp chiếc bình giữ nhiệt du lịch rồi uống một ngụm rõ to. “Làm một ngụm không?”
+
+“Ờ, thôi khỏi, cảm ơn cậu.”
+
+“Ừ, cũng chẳng ngon lành gì đâu. Mấy món nước chanh Fizz Wizard pha rượu vodka ấy mà. Tớ vội quá. Thề có Chúa, may cái bộ trang phục chết tiệt đó tốn công tốn sức khủng khiếp.”
+
+“Chuẩn luôn.”
+
+Cậu nhóc Rory trong bộ dạng một chiếc răng cứ cựa quậy không yên trên ghế.
+
+“Sau cái kiếp nạn may vá đó, tớ phải uống chút cho đỡ sốc,” Holly thở dài.
+
+Đèn hội trường mờ dần, khán giả bắt đầu giữ trật tự. Đèn sân khấu bật sáng. Một dàn răng có kích thước bằng trẻ mẫu giáo diễu hành ra sân khấu rồi xếp thành hình bán nguyệt, mô phỏng lại một vòm miệng. Lindsey - trong vai chiếc răng hàm - đứng ở mép ngoài cùng của vòng tròn. Ngay khi toàn bộ dàn răng đã an vị, thêm ba bé mẫu giáo nữa hóa trang thành bàn chải đánh răng, chỉ nha khoa và bác sĩ nha khoa tung tăng chạy ra. Tiếng nhạc cất lên. Bọn trẻ bắt đầu xướng ca một bài hát về việc đánh răng, dùng chỉ nha khoa, cùng những hiểm họa khôn lường từ sâu răng và mảng bám. Đúng đến khúc cao trào về mảng bám, hai nhóc mẫu giáo mặc đồ đen toàn tập với vẻ mặt cực kỳ hung tợn xông ra sân khấu, gầm gừ đe dọa những chiếc răng.
+
+“Lần sau, con muốn làm sâu răng,” Rory ghé tai mẹ thì thầm.
+
+Bài hát kết thúc, dàn diễn viên mẫu giáo nắm tay nhau cúi chào. Khán giả vỗ tay reo hò nồng nhiệt. Lindsey đảo mắt rà soát khắp các hàng ghế để tìm mẹ. Miriam giơ tay vẫy. Rạng rỡ hẳn lên, cô bé mỉm cười và vẫy tay đáp lại. Nhưng không phải vẫy Miriam. Miriam quay người lại, đảo mắt qua đám đông phía sau.
+
+Đứng ở tận cuối hội trường chính là Jack.
+
+Nối tiếp tiết mục mẫu giáo, các học sinh lớp một và lớp hai khoác trên mình đủ loại trang phục rau củ quả tiến ra sân khấu. Lũ trẻ cất giọng hát một bài ca tuyên truyền việc ăn hoa quả và rau xanh. Chúng lần lượt xoay vòng ra giữa sân khấu, từng đứa tự xướng tên loại nông sản mà mình đang hóa thân. Vì số lượng học sinh vượt quá danh mục các loại rau củ quen thuộc của nước Mỹ, ban tổ chức đành phải bổ sung thêm những giống loài phương xa lạ lẫm, chẳng hạn như thanh long, sầu riêng, vải thiều và rong biển. Phần lớn lũ trẻ đều khoác những bộ trang phục bằng giấy bồi trông chỉ hơi nhang nhác loại nông sản được phân công. (Ít nhất một phần ba số nhóc tì trông chẳng khác gì những củ khoai tây).
+
+Đến giữa bài hát, Rory chỉ tay reo lên thật to: “Anh Chad kìa! Mẹ nhìn xem, là anh Chad! Anh ấy làm con sâu!”
+
+“Sâu đâu phải rau củ,” Miriam thì thầm. “Thôi suỵt nào.”
+
+“Thế sao con không được làm sâu?”
+
+Chad lê bước ra giữa sân khấu. Cậu bé chui mình trong một cái ống vải dạ màu xanh lá cây - thứ vốn dĩ dùng để biến cậu thành một quả đậu que, nhưng thực tế lại khiến cậu trông giống một con rắn cụt lủn hơn. Cậu nhóc hét tướng lên: “Đậu que!” Cậu cố nhảy lên, tung cú đá rồi xoay người một vòng. Đáng tiếc, ý đồ nghệ thuật đó đã thất bại thảm hại khi cả tay lẫn chân cậu đều bị bó chặt bên trong vỏ quả đậu. Cậu tiếp đất một cách vụng về. Bàn chân trượt đi. Cậu lảo đảo chúi người về phía mép sân khấu, khiến Miriam trong một giây ngắn ngủi đã đinh ninh cậu bé sẽ cắm đầu rơi thẳng xuống sàn trải nhựa linoleum bên dưới.
+
+Thế nhưng cậu bé đã lấy lại được thăng bằng. Cậu đứng thẳng người dậy rồi lại gào lên: “Đậu! Que!”
+
+Khán giả đồng loạt thở phào nhẹ nhõm vì một thảm họa đã được ngăn chặn kịp thời. Ngoại trừ Holly, người vừa phát ra một âm thanh kỳ lạ: tiếng thút thít nghẹn ngào. Khi Miriam quay sang, nước mắt đã chảy ròng ròng trên má cô bạn.
+
+Tất nhiên, Holly không muốn nhắc đến chuyện đó.
+
+Cô lau khô khóe mắt, tu ừng ực ngụm nước chanh pha vodka, và đến cuối buổi diễn thì trông cô có vẻ đã hoàn toàn bình ổn.
+
+“Tớ ổn mà! Thật đấy. Chỉ là tớ mệt quá thôi. Tớ đã phải thức đến hai giờ sáng để khâu cái quả đậu que chết tiệt đó, mà nói thẳng ra trông nó chẳng khác gì một của nợ to béo màu xanh. Tớ đã nghĩ ngay như thế khi vừa nhìn thấy nó. Đứa con bảy tuổi của tớ trông giống hệt một cái của nợ màu xanh! Rồi thế nào cũng có ai đó chụp ảnh thằng bé, bức ảnh sẽ trôi nổi trên Internet và bám theo nó suốt phần đời còn lại…” Holly ngập ngừng, nuốt nước bọt như kìm nén một tiếng nấc nghẹn. “Dù gì thì mẹ con tớ cũng phải về thôi. Cuối tuần gặp lại nhé.”
+
+Cô rảo bước đi thẳng. Miriam đón Lindsey rồi dắt hai đứa trẻ bước ra bãi đỗ xe. Cô cúi gầm mặt, định bụng sẽ lái xe thẳng về nhà và vờ như chưa từng nhìn thấy Jack. Dù sao thì, chẳng phải Jack cũng đang giả vờ rằng anh phải có mặt ở chỗ làm đó sao?
+
+“Bố!”
+
+Rõ ràng anh không hề ở chỗ làm. Anh đang đứng sừng sững ngay trước xe của cô, chặn đứng mọi đường lui.
+
+Lũ trẻ lao bổ về phía anh, ôm chầm lấy hai chân bố. Những bộ trang phục hình răng cọ xát vào nhau sột soạt khi chúng chen chúc giành chỗ.
+
+“Bố ơi! Bố ơi!”
+
+“Bố có thấy con không? Ở trên sân khấu ấy?”
+
+“Bố ơi! Con có bộ đồ hóa trang này!”
+
+“Bố có nghe thấy con hát không?”
+
+“Con là một chiếc răng! Con là một chiếc răng nhọn hoắt!”
+
+Jack vỗ nhẹ lên đôi vai bằng giấy bồi báo cũ của lũ trẻ. “Ừ, bố nghe con hát rồi, Lindsey. Còn Rory thì nhọn lắm đấy. Hai đứa đóng vai những chiếc răng xuất sắc thật sự. Mà biết gì không, vốn dĩ bố đã lên kế hoạch cho một việc… nhưng cả hai đứa đều là những chiếc răng sạch sẽ, xinh xắn thế này, nên bố cũng chẳng biết nữa…”
+
+“Chuyện gì thế bố?”
 
 “Gì cơ?”
 
-“Anh sẵn sàng nhỏ nước chanh vào mắt vì em.”
+“Thì, bố cũng không rõ nữa…” Jack ngập ngừng, cố tạo vẻ bí hiểm.
 
-Jack bật dậy. Anh lao tới tủ lạnh. Anh chộp lấy một chai nhựa nặn hình quả chanh.
+“Bố!”
 
-“Không!” Miriam giật phắt chai nước chanh khỏi tay anh.
+“Thôi được rồi… Bố đang nghĩ không biết mấy chiếc răng nhỏ của bố có muốn ăn… kem không nhỉ!”
 
-Jack quỳ sụp xuống. Anh van xin: “Xin em, ôi nữ thần xinh đẹp nhất, người nắm giữ trái tim tôi, kẻ thiêu đốt tâm can tôi. Xin hãy để tôi nhỏ thứ nước chanh này vào mắt vì em!”
+“Hoan hô!”
 
-Anh thà chịu mù lòa, miễn là có thể khắc sâu vào tâm trí hình ảnh vẻ đẹp của cô. Điều này là sự thật.
+Miriam cảm thấy một làn sóng bực bội len nhẹ qua người. Cô đã phải còng lưng suốt hàng giờ đồng hồ để đánh vật với đống giấy bồi bẩn thỉu, trong khi Jack chỉ việc tạt qua rồi nghiễm nhiên trở thành đấng cứu thế đãi chúng một chầu kem. Cô đứng đó, lòng đầy hậm hực, nhìn lũ trẻ nhảy tưng tưng quanh người cha vừa bỗng dưng hóa thành vị thần mang phép màu kem ngọt. Cô thậm chí còn chẳng buồn bận tâm khi Jack đan những ngón tay vào tay cô rồi khẽ đặt một nụ hôn lên má.
 
-Một sự thật khác cũng đúng không kém: Đôi mắt anh đã bắt đầu tơ tưởng nghía sang nơi khác.
+Jack lái xe chở cả nhà đến tiệm kem. Miriam ngồi ở ghế phụ phía trước, lửa giận bốc ngùn ngụt. Đáng lẽ cô phải thấy mừng vì Jack đã mò về nhà. Thế nhưng Jack đâu có bị vẹo cổ sau hàng giờ cặm cụi làm đồ thủ công. Jack đâu phải đưa lũ trẻ đến trường rồi lại tất tả đón về. Jack đâu phải vật lộn ép chúng ăn cà rốt (với Lindsey là mất đứt ba mươi phút chỉ để giải quyết một củ cà rốt bi, còn Rory thì nhất quyết phải chấm đẫm sốt mayonaise mới chịu nuốt), rồi tắm rửa, chải tóc cho từng đứa. Jack chỉ việc đùng một cái xuất hiện vào phút chót và biến kem thành bữa tối.
 
-Đó không phải là hông, môi hay ngực của ai khác, mà là những chiếc ghế bọc da sang trọng trong phòng họp của Hãng luật Rufus Mather LLP, những hàng ghế VIP của công ty tại sân vận động, những bữa trưa trải khăn bàn
+Jack đang dối gạt cô.
 
-Kỳ thực tập đó chỉ mới là nếm chút hương vị ban đầu.
+“Con sẽ ăn vị sô-cô-la bạc hà!” Lindsey reo lên.
 
-Người đàn ông về nhà vào đúng năm giờ chiều: “Chỉ vài năm nữa thôi, nếu anh lên chức thành viên góp vốn, chúng ta có thể sở hữu một căn nhà nghỉ dưỡng bên bờ biển.”
+“Con ăn vị truyền thống!” Rory hô to.
 
-Người đàn ông ngủ nướng vào thứ Bảy: “Dĩ nhiên chúng ta sẽ thuê một người giúp việc. Và cả một bảo mẫu để chăm sóc các con.”
+Cô đang mải bực tức, nên chẳng hề nhận ra bàn tay Jack đang len qua hộc để đồ ở giữa rồi đặt lên đùi mình. Cô cũng chẳng để ý đến người phụ nữ Thuyết Âm Mưu đứng nơi góc phố bên ngoài quán Diggity Hot, Doggery đang hăng hái vẫy tấm biển “CONSPIRACY!”. Ban đầu, cô thậm chí còn không nhận ra bài hát đang cất lên từ radio, với nút dò đài đã bị một bàn tay nào đó chuyển sang kênh KISS 95 FM.
 
-Người đàn ông thong thả đạp xe vào một chiều Chủ nhật: “Nhưng chẳng phải sẽ tuyệt vời lắm sao nếu ta dành những buổi chiều nắng đẹp du ngoạn quanh dòng sông trên chiếc thuyền của riêng mình?”
+“Bật to lên đi bố!” Lũ trẻ gào lên. Ông bố lập tức chiều lòng ngay. Tiếng bass dồn dập vang lên từ dàn loa. Các cửa kính ô tô rung bần bật. Những âm thanh điện tử sủi tăm cuộn trào từ dải âm trầm sub-bass, vừa kỳ quặc vừa chao đảo, nhưng giai điệu lại êm tai đến lạ kỳ. Thứ âm thanh gợi nhớ đến một hải trình băng qua vùng biển lấp lánh ánh bạc, cách thật xa cái thực tại đầy điên rồ mang tên Jack này.
 
-Người phụ nữ, chỉ một mình cô, vẫn giữ được sự thực tế: “Anh thừa biết mọi chuyện sẽ không đời nào diễn ra như thế này nếu anh nhận công việc ở hãng luật đó. Anh biết bây giờ họ chiêu đãi, tiệc tùng săn đón anh, nhưng sau này, anh sẽ chẳng có gì ngoài công việc và công việc.”
+Thế nhưng, cùng lúc đó, có điều gì đó trong bài hát lại khiến một làn sóng lạnh bất giác chạy dọc sống lưng cô.
 
-Anh gật đầu, nhún vai.
+Nó không hề khó chịu. Cảm giác ấy giống như một công tắc vừa bật tanh tách bên trong đầu cô. Nếu như vài khoảnh khắc trước, cô vẫn còn bị giam cầm trong cơn thịnh nộ và hoàn toàn tách biệt khỏi thế giới xung quanh, thì giờ đây cô cảm nhận rõ mồn một từng chuyển động của cơ thể mình trên chiếc ghế này, trong chiếc xe này, trên mặt đường, đang vun vút lao qua không gian và thời gian; vệt hơi ấm từ bàn tay chồng in hằn trên đùi; hai sinh linh bé nhỏ ở hàng ghế sau, trong bộ trang phục hình chiếc răng, đang lắc lư và đung đưa chân theo từng nhịp điệu. Cả hai đứa dường như đều thuộc làu bài hát này.
 
-*Dĩ* anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.
+“Thằng này điên thật rồi!” — tụi nó nói thế
 
-Dù vậy, anh đã nếm trải được hương vị ấy.
+Thấy tao say nghiêng đất trời gục ở góc ghế
 
-Nhưng anh đã luôn chú tâm. Dẫu ánh mắt có lang thang đâu đó, cuối cùng anh vẫn luôn nhìn về cô.
+Dốc cạn như rồng cuốn, chẳng buồn nếm vị
 
-Anh chỉ là một luật sư doanh nghiệp mới vào nghề, chẳng phải thi sĩ. Ấy thế mà anh vẫn sáng tác một bài thơ rồi để lại trên bàn bếp:
+Bay vút…
 
-Gửi người phụ nữ anh yêu,
+“Khoan, khoan, dừng lại!” Jack giật mình tắt phụt radio.
 
-Tình anh dâng tựa sóng triều biển khơi,
+“…bay vút như phi thuyền không gian!” Rory hào hứng hát nốt câu cuối.
 
-Yêu em, trời đất chòng chành,
+“Kìa!” Lindsey gầm gừ. “Bật lại đi bố!”
 
-Hồn anh rung chuyển, tan tành như sương.
+“Không,” Jack cương quyết. “Cái đó… ngôn từ đó không phù hợp cho trẻ con.”
 
-Tình anh cuộn xiết lũ dâng,
+“Nhưng bố vẫn chửi thề đấy thôi. Con nghe thấy suốt. Cả mẹ nữa.”
 
-Tựa như cơn bão xoay vần biển khơi.
+“Thì, đúng thế, nhưng… nhưng không phải ở trên radio.”
 
-Dẫu cho vạn vật đổi dời,
+“Nhưng con *thích* bài đó mà!” Lindsey phản đối kịch liệt.
 
-Tình anh vẫn cháy muôn đời chẳng phai.
+Jack càng tỏ ra kiên quyết: “Không được. Ca từ bài đó không hề thích hợp.”
 
-Đem so tình ấy trần ai,
+“Nhưng *BỐ* ơi!” Lindsey rên rỉ. “*Mọi người* ai cũng thuộc bài đó mà. Tất cả đám trẻ đều thuộc. Nó…”
 
-Mọi điều thế tục *doth* phai sắc màu.
+“Bố không cần biết đó là ai,” Jack nói, “hay đám trẻ khác đang làm gì. Kìa, Miriam, em bênh anh một tiếng đi chứ.”
 
-Chỉ riêng em, chỉ em thôi,
+“Bài hát đó…” cô bắt đầu lên tiếng. Nhưng cô chẳng thể tìm đâu ra từ ngữ tiếp theo. Các giác quan của cô như tràn ngập trong một sự ức chế mơ hồ trên nền cơn giận cũ. Về mặt nguyên tắc, cô đồng ý với Jack về việc chỉ nên mở những ca khúc phù hợp trên đài. Nhưng cô không hiểu sao anh lại phải phản ứng thái quá đến thế, để rồi vô tình thu hút sự chú ý của bọn trẻ vào chính những từ chửi thề mà anh đang cố bảo vệ chúng khỏi nghe thấy. Mặt khác, cô cũng âm thầm khoái chí khi thấy uy tín của anh sụt giảm không phanh trong mắt các con - từ một vị thần phát kem biến thành một kẻ cấm nhạc độc đoán.
 
-Là cơn giông bão, là trời bình yên.
+Mà thực ra, bản thân cô cũng muốn nghe tiếp bài hát đó.
 
-Cô bật cười vì cái từ *doth* cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.
+Họ im lặng lái xe cho đến khi Jack bật lại đài rồi chuyển sang Kênh Tin tức.
 
-Vào khoảnh khắc đó, trong mùa hè vàng ươm lười biếng ấy, cô đã có trong tay hai điều mà trái tim mình khao khát nhất: cô có Jack, và cô có thời gian.
+“Chán chết!”
 
-Cô tự làm cho mình một phần trứng cuộn cùng một tách cà phê, rồi ngồi đọc cuốn tiểu thuyết dở dang, cho đến khi có tiếng gõ cửa vang lên.
+“Bố!”
 
-Dịch vụ giao hoa.
+“Các con, trật tự nào! Thế có còn muốn ăn kem nữa hay không?”
 
-Một ôm đầy ắp hoa hồng đỏ thắm, kèm theo mảnh giấy nhắn từ Jack:
+*… cựu Thượng nghị sĩ bang Georgia, Roland Johnston, đã từ chối thỏa thuận nhận tội và phải ra tòa vào tháng tới với các cáo buộc buôn bán ma túy và rửa tiền.*
 
-*Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.*
+*Cựu Thượng nghị sĩ Johnston vẫn quả quyết mình vô tội trước mọi cáo buộc, bất chấp những bằng chứng đanh thép chống lại ông.*
 
-Anh quả là một nhà thơ dở tệ. Cô bật cười, lúi húi đi tìm một chiếc bình để cắm hoa, nhưng còn chưa kịp tỉa tót cành lá
+*Vợ của Johnston đã công khai lên tiếng bảo vệ chồng. Trong cuộc phỏng vấn với đài CNN ngày hôm qua, bà khẳng định người đàn ông mình kết hôn tuyệt đối không bao giờ dính dáng đến bất kỳ hoạt động bất hợp pháp nào.*
 
-Lại thêm một đợt giao hoa hồng nữa.
+*Ở một diễn biến khác, cơ quan chức năng vẫn chưa thể xác nhận danh tính của Kẻ Xả Súng ở Hồ Snail, người đã bị bắt giữ hơn một tháng trước. Nghi phạm không mang theo giấy tờ tùy thân, không có dữ liệu vân tay lưu trữ, không dùng thẻ tín dụng hay sở hữu bất kỳ hồ sơ lý lịch nào. Cái tên ban đầu gã khai với cảnh sát hóa ra thuộc về một đứa trẻ đã qua đời trong vụ lật thuyền ở Hồ Snail từ hai mươi năm trước. Tên xả súng hiện bị cáo buộc tội…*
 
-Lại một mảnh giấy nhắn khác.
+Miriam dằn tay tắt phụt đài.
 
-*Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.*
+“Này!” Jack cất tiếng. “Anh đang nghe mà!”
 
-Lời lẽ ấy quả thực linh ứng như sấm truyền, bởi chuyến giao hoa tiếp theo có đèo thêm một vị khách quá cảnh không mời mà đến: một chú ong. Nó phóng vút ra từ bó hoa, lao thẳng vào mặt cô. Miriam hốt hoảng vung tay xua đuổi. Cô co giò chạy thục mạng vào phòng tắm rồi đóng sầm cửa lại.
+“Nhưng bọn trẻ đâu cần nghe mấy thứ đó,” Miriam đáp. “Chẳng thích hợp tẹo nào. Thà để chúng nghe lại bài hát lúc nãy còn hơn.”
 
-Cô ngồi thụp trong đó, phân vân chẳng biết phải làm sao, cho đến khi lại có tiếng gõ cửa nữa vọng vào. Thế là cô đánh liều mở toang cửa lao ra. Con ong vo ve lướt qua đầu cô, bay tót ra ngoài hành lang.
+“Thế nghĩa là bọn con được nghe bài đó ạ?” Lindsey tò mò hỏi.
 
-“Tuyệt thật đấy,” cô lẩm bẩm với ôm hoa vừa nhận.
+“Không.”
 
-Hoa hồng cứ thế tiếp tục dồn dập ập đến. Cô cạn kiệt bình cắm hoa. Cô cạn kiệt cả những thứ đồ vật có thể trưng dụng tạm làm bình hoa. Bồn tắm ngập ngụa hoa hồng. Cả căn hộ nồng nặc mùi hoa hồng. Rốt cuộc, cô đành trèo ra cầu thang thoát hiểm ngồi lánh nạn cùng một cuốn sách và ly trà đá.
-
-Dưới vỉa hè, Jack bất ngờ xuất hiện. Anh khệ nệ vác theo một chiếc máy cassette màu đen to tướng như chiếc cặp tài liệu, rồi giơ cao nó quá đầu.
-
-“Anh không biết hát đâu!” anh gào tướng lên.
-
-Cô bật cười rạng rỡ.
-
-Anh nhép miệng theo một danh sách toàn những khúc tình ca sến súa nhất trần đời. Anh nhảy múa. Trình độ khiêu vũ của anh tệ hại chẳng kém gì
-
-Anh gửi những nụ hôn gió. Anh cúi gập người chào. Anh khẽ nghiêng vành mũ. Rồi chỉ trong một cái chớp mắt ngắn ngủi, anh biến mất tăm.
-
-*Bụp một cái!*
-
-Rồi có tiếng gõ cửa vang lên. Kế đó là tiếng cào móng sàn sạt, kèm một tiếng rên ư ử.
-
-Cô mở cửa, và đập vào mắt cô là chú chó Roxster.
-
-Dĩ nhiên khi ấy nó vẫn chưa được đặt tên là Roxster. Nó chỉ là một chú cún con, một chú chó Border Collie lông xù hai màu đen trắng. Quanh cổ nó thắt một chiếc nơ ruy băng đỏ chót. Chú cún khịt mũi hít hà cô, rồi âu yếm liếm láp cẳng chân cô. Cô cúi xuống xoa đầu nó. Một tia sáng lấp lánh chợt lọt vào tầm mắt. Cô gỡ dải ruy băng đỏ ra. Một chiếc nhẫn tuột xuống, rơi leng keng trên sàn. Viên kim cương trên mặt nhẫn sáng lấp lánh đến ngỡ ngàng. Cô nhặt nó lên rồi lồng vào ngón tay mình.
-
-Từ sau ô cửa kính thang máy, Jack dõi theo từng cử chỉ. Những giọt nước mắt hạnh phúc rưng rưng nơi khóe mắt anh. Anh đẩy cửa thang máy bước ra ngoài, rồi quỳ một bên gối xuống sàn.
-
-“Miriam…”
-
-Anh nắm lấy bàn tay cô. Và anh chẳng cần phải thốt thêm bất cứ lời nào nữa.
+Chiếc xe lại tiếp tục lăn bánh trong im lặng. Miriam đăm đăm nhìn qua cửa kính. Họ lướt qua những ngôi nhà ngăn nắp với thảm cỏ xanh mướt và những bụi thủy tiên vàng vừa chớm nở. Những ngôi nhà nơi các cặp vợ chồng cùng nhau nấu bữa tối, cãi vã, ngó lơ nhau, hoặc tống đám trẻ ngồi trước màn hình tivi rồi lén lút chuồn lên phòng ngủ cho một cuộc mây mưa chớp nhoáng. Những ngôi nhà nơi lũ trẻ mải mê vẽ tranh khủng long, làm đổ sữa ra sàn, làm chủ trì cho lễ kết hôn của hai con thú bông yêu thích, hoặc chui rúc trốn trong tủ quần áo trong khi ông bố say khướt đang nổi giận đùng đùng. Họ vượt qua những chiếc xe chở đầy các gia đình đang trên đường ra ngoài ăn tối, ghé cửa hàng tạp hóa, hoặc thả con ở nhà trẻ qua đêm để kịp ca làm việc. Tất cả bọn họ vẫn mải miết tiến bước theo một quỹ đạo tưởng chừng đã định sẵn, nhưng thực chất có thể vỡ vụn bất cứ lúc nào. Định sẵn như hành trình của một con cá heo. Nhưng bất ổn tựa sự hiện diện của một con nhím biển. Tất cả đều đang vùng vẫy trong món súp cuộc đời kỳ quặc, cố vờ như mình có toàn quyền tự chủ, cho đến khi các dòng hải lưu bất ngờ chuyển hướng. Hệt như tập phim truyền hình mà Miriam chợt nhớ lại từ thời thơ ấu kể về con tàu SS *Deliverance*. Tàu nhổ neo rời cảng vào một ngày trời xanh không chút gió, nhưng rồi một cơn giông đột ngột đã bẻ ngoặt hướng đi, tống nó đâm sầm vào một hòn đảo ở Nam Thái Bình Dương. Để rồi chú rùa hoa tiêu (vốn dĩ định giương buồm đến Ấn Độ) lại quyết định từ bỏ chương trình, ở lại hòn đảo ấy trong suốt những ngày tháng còn lại ngập tràn nắng cháy của đời mình.

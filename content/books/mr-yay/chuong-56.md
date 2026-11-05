@@ -1,43 +1,175 @@
-# KHÚC ĐỆM
+# HỐ BÙN
 
-## KÝ ỨC ÙA VỀ
+**HỌ NHẬN RA,** sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.
 
-**BRATTY**
+Nhân vật ấy khiến Jack thức trắng cả đêm. Rồi thêm đêm tiếp theo. Và cả đêm thứ ba, chìm ngập trong tiếng nhạc bass rền vang. Tiếng nhạc làm những ô cửa sổ rung bần bật và khiến sàn gỗ kêu lên ken kẹt.
 
-**BRATTY MỚI MƯỜI BẢY TUỔI** khi anh bắt đầu xem chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay*. Ừ thì, thuở ấu thơ anh từng xem cùng Tommy rồi. Nhưng lúc ấy anh chưa bao giờ thực sự *ngẫm* về nó. Anh chưa thể nào thấu hiểu, cho tới khi anh bắt đầu vỡ lẽ ra mình *không phải* là ai. Chính cái chất lung linh đầy tính siêu thực ấy đã hớp hồn anh: sự dập dềnh đều đặn của những con sóng, sắc màu rực rỡ đến kỳ quặc của bộ trang phục đã tơi tả sau bao tháng ngày dầm mưa dãi nắng cùng muối biển, và cả những bài học thông thái được đúc kết từ người bạn thuyền trưởng bốn chân có sở thích tự đuổi theo cái đuôi của chính mình (hết vòng này đến vòng khác, chỉ đơn giản là để cho vui).
+“Jack!”
 
-“Cá mập sao có thể ngoảnh mặt làm ngơ trước đại dương,” vị thuyền trưởng dõng dạc tuyên bố, và viên thuyền phó lập tức phiên dịch lại. Cả hai cùng đứng nơi mũi tàu. Chiếc lưỡi của chú chó phấp phới trong ngọn gió biển. Chú ta cất tiếng sủa, từng dòng phụ đề hiện lên trên màn hình, chạy đè trên một đoạn phim tài liệu quen thuộc cứ lặp đi lặp lại:
+“Sao thế em?”
 
-*Thế nhưng, hãy để*
+“Jack! Vặn nhỏ lại mau!”
 
-*Dù là bạch tuộc, cá hề, hay cá đuối, mọi sinh linh ngớ ngẩn nơi trần thế này.*
+“Nhưng anh cần cảm hứng!”
 
-*Lạc lối đôi chút cũng chẳng sao đâu, miễn là trên đường đi, con tìm lại được bản ngã đích thực của đời mình.*
+“Thứ anh cần là một cái tai nghe thì có!”
 
-Anh vẫn dán mắt vào màn hình, mặc cho việc bản thân, ừ thì, đã quá tuổi xem cái này từ lâu, hoặc đại loại thế.
+Anh cần cảm hứng để phá giải Bí Ẩn Về Sự Mất Tích Của Mr. Yay. Việc tự huyễn hoặc rằng những giai điệu của chàng Rapper Mr. Yay có thể mang lại manh mối thực ra chỉ là một cái cớ vụng về. Kết quả là sáng hôm sau, Miriam bắt gặp Jack nằm bất tỉnh nhân sự trên ghế sofa, bên cạnh là một chai Hennessy rỗng tuếch.
 
-*Con lớn tướng rồi đấy, Bradford.*
+“Thế này thì đúng là dạt dào cảm hứng thật đấy,” cô bảo.
 
-*Bao giờ con mới chịu đứng đắn lên hả, Bradford?*
+“Cái gì cơ?” Anh dụi mắt. “Ôi trời đất ơi, sao ngoài trời lại sáng chói chang thế kia? Tắt bớt nắng đi hộ anh với.”
 
-*Cuộc đời này ngắn ngủi lắm, đừng có phung phí thời gian vào một chương trình truyền hình ngớ ngẩn.*
+Chú chó đưa mắt nhìn anh đầy vẻ cảnh giác.
 
-*Con phải nghĩ đến tương lai chứ.*
+Trong lúc anh ngủ say, bọn trẻ đã kịp thời “xăm trổ” cho bố bằng loại bút dạ không thể xóa. Trên trán anh chễm chệ một hình đầu lâu xương chéo (dù trông méo mó chẳng khác nào một con gián dị dạng). Dọc theo cẳng tay phải, nổi bật bằng những chữ in hoa to tướng, là khẩu hiệu:
 
-Được rồi, được rồi, *anh nghe thấy hết cả rồi*. Bài tập về nhà thì anh cũng làm xong xuôi rồi còn gì.
+ĐỜI GIANG HỒ - THUG LIFE.
 
-Chỉ có điều, xong việc là anh lại phê pha rồi cắm đầu xem chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay*. Thuyền trưởng Barksford, chú hươu cao cổ, chú chuột túi, chú báo hoa cùng toàn thể cư dân muông thú chẳng mảy may bận lòng xem liệu Bradford Pierson III đã cày đủ số lượng đề thi thử SAT ngẫu hứng mang tính cưỡng bách hay chưa, thứ mà người bố kính yêu cam đoan sẽ tặng kèm cho anh một cuộc đời thành đạt và viên mãn. Gặp trường hợp này, ắt hẳn Mr. Yay sẽ *úi chà!* một tiếng rồi quẳng phăng cuốn cẩm nang luyện thi xuống biển sâu. Học hành đâu phải là cái thứ đó. Học hành là phải biết đủ tiếng Thái để không lỡ mồm gọi nhầm món côn trùng chiên giòn từ một gánh hàng rong ở Bangkok. Học hành là phải biết cách định vị hải trình từ Eritrea sang Istanbul, kết hợp vài chuyến du ngoạn ẩm thực và văn hóa ghé qua Athens cùng Damascus. Học
+“Bố ơi! Bố tìm thấy chú ấy chưa?”
 
-“Bradford Pierson!”
+“Cái gì? Ai cơ?”
 
-“Ơ… dạ, sao cơ ạ?”
+“Mr. Yay ấy!”
 
-Bài học đầu tiên: đừng bao giờ cất giọng bằng cái tông lơ mơ nghe là biết ngay đang phê thuốc.
+“Tụi con dán hết đống tờ rơi rồi.”
 
-“Cái gì cơ? Cậu còn dám hỏi tôi là cái gì cơ à? Tôi chịu hết nổi rồi. Thật tình… Tôi cạn lời với cái thói vô giáo dục của cậu rồi đấy. Chúa ơi, chỉ cần nghĩ đến thôi là chứng đau nửa đầu của tôi lại tái phát rồi. Cậu đang bóp nghẹt thái dương tôi đấy, có biết không? Tôi không thể nào chịu đựng nổi cậu thêm một giây nào nữa!”
+“Nhưng mẹ lại vừa in thêm một đống nữa kìa.”
 
-Dứt lời, bà ta ngoắt ngoắt quay lưng bỏ đi. Cần một khoảng thời gian dài vô định trôi qua thì đầu óc anh mới dần định thần lại xem rốt cuộc mình đã phạm phải tội tày đình gì. Nếu quả thực anh hiểu được.
+“Chưa… À thì, bố có tìm thấy chút manh mối, nhưng mà…”
 
-Hóa ra là hàng xóm đã trông thấy anh ngoài sân sau. Và không, họ chẳng ngửi thấy mùi thuốc lá đâu. Những dinh cơ ở khu này rộng đến nỗi, và nằm cách xa nhau đến mức, thứ duy nhất người ta có thể ngửi thấy thoang thoảng giữa các khoảng sân chỉ có thể là mùi tiền. Họ cũng chẳng thể nào *tận mắt nhìn thấy* anh phì phèo thứ gì, bởi vì thực tế là anh có hút đâu. Anh thừa
+“Ra ngoài rồi nói,” Miriam cắt lời. “Nào, dậy đi thôi. Bọn trẻ muốn đi trượt xe scooter.”
 
-Nhưng tội trạng đích thực lại bắt nguồn từ việc anh đã quá cẩu thả khi gọi đồ ăn Trung Hoa giao tận nhà. Trước đó, bà mẹ kế Helena Pierson từng cất giọng thé, tuyên bố rành rọt từng từ về nỗi kinh tởm tột cùng của bà ta đối với những món ăn dầu mỡ, mặn mòi và ngon lành. Nếu là một đứa con ra hồn, anh phải tự khắc ghi nhớ bà ta thích gì, ghét gì để mà liệu đường chiều chuộng. Đằng này, món mì xào lo mein lại ngập ngụa muối, chả giò thì đẫm dầu, hại bà ta mới cắn dở một miếng mà dạ dày đã cồn cào biểu tình, buổi tối xem như tan tành mây khói, còn sức khỏe thì ngàn cân treo sợi tóc không thuốc nào cứu vãn. Chưa hết, lại còn vụ mấy lon bia anh đã *chôm chỉa* trong tủ lạnh. Ừ thì, điểm này anh xin cúi đầu nhận tội. Cả một lốc sáu lon nguyên vẹn. Cơ mà từ trước tới nay, anh chưa từng nghĩ việc rút bia từ tủ lạnh nhà mình lại bị khép vào tội *ăn cắp*. Với anh, hành vi đó mang dáng dấp của một chiến dịch giải cứu hơn. Ấy thế mà phi vụ Bia Giải Cứu lại
+Hai đứa nhóc đã sẵn sàng với mũ bảo hiểm trên đầu: chiếc màu xanh lá có dán gai lưng khủng long bọc vảy vàng dành cho Rory, và chiếc màu tím kim tuyến lấp lánh dành cho Lindsey. Jack thều thào rên rỉ một tiếng, nhưng rồi cũng đành gượng dậy. Anh rót cho mình một ly cà phê, đeo kính râm, đội mũ xụp xuống che đi hình xăm con gián trên trán, rồi lủi thủi đi theo gia đình ra phố.
+
+“Thế anh đã tìm thấy gì rồi?” Miriam hỏi khi hai người thong thả bước đằng sau lũ trẻ trên đường Ravenswood Drive.
+
+“Anh có được một cái tên: Ricardo Merman.”
+
+“Khoan đã, em tưởng anh đã biết cái tên đó từ chủ tiệm cho thuê băng đĩa rồi chứ?”
+
+“Thì đúng vậy, nhưng bây giờ anh có tới năm mươi hoặc sáu mươi email xác nhận điều đó.”
+
+“Nhanh thế cơ à? Ghê thật đấy.”
+
+“Phần lớn chẳng giúp ích được gì mấy. Chỉ toàn những người hoài niệm về việc từng xem chương trình Mr. Yay, hoặc trích dẫn lại lời ông ấy, hay càu nhàu về việc tại sao người khác lại không nhớ nổi Mr. Yay trong khi đáng lẽ phải nhớ.”
+
+“Chà. Vậy là có rất nhiều người khác cũng nhớ…”
+
+“Và cũng có từng ấy người chẳng nhớ gì sất,” Jack đáp. “Tuy nhiên, có ít nhất năm hay sáu người khẳng định tên ông ấy là Ricardo Merman. Thế nên chúng ta có thể xác nhận đó chắc chắn là tên của ông ấy. Cho dù đó không phải tên khai sinh đi chăng nữa.”
+
+“Thế *ông ấy* có thật sự tồn tại không? Ricardo Merman ấy?”
+
+“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: *The Treacherous Ten, Shotgun Solstice, Connie at Crossroads*, và dĩ nhiên là cả *Peregrine* nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”
+
+Rory cắt ngang bằng một tiếng reo phấn khích: “Bố ơi! Bố!”
+
+Cậu nhóc cùng Lindsey đã quay đầu xe scooter, bon bon trượt xuống dốc.
+
+“Bố ơi!” Lindsey gọi với lên. “Tụi con nhảy vào nghịch bùn được không?”
+
+“Được không bố?” Rory hùa theo.
+
+“Bùn á?”
+
+Lưng chừng đồi, nơi Kate và Fred từng duy trì một thảm cỏ không một cọng cỏ dại - vốn được tưới tắm hóa chất chuẩn chỉnh đến mức hoàn hảo và cắt tỉa gọn gàng như sân golf - giờ đây đã biến thành một bãi bùn lầy lội lúc nhúc thỏ. Lũ trẻ nhà Kate và Fred, Nicky và Mabel, đang nhảy chân sáo băng qua sân với những nắm bùn nhão bét trong tay. Cả hai đứa đều lem luốc từ đầu đến chân và… hoàn toàn trần như nhộng.
+
+“Con muốn làm một chú thỏ bằng bùn!” Lindsey reo lên.
+
+“Ờ…” Jack liếc sang Miriam. “Cảnh tượng này… hình như chưa từng có tiền lệ trong khu nhà mình.”
+
+“Này, đừng có nhìn em,” cô phớt tỉnh đáp. “Rõ ràng lũ trẻ đang xin phép anh mà.”
+
+Jack nhún vai rồi quay sang nhìn cô con gái lớn. “Không được.”
+
+“Nhưng bố ơi, Nicky và Mabel bảo tụi con được phép mà!”
+
+“Nhưng bùn đất thì… bẩn lắm. Con có muốn bị lôi vào nhà tắm không? Con có muốn bị gội đầu không?”
+
+Lũ trẻ chùn bước trước viễn cảnh bị gội đầu. (Tất nhiên rồi, với trẻ con thì đó là hình phạt khủng khiếp nhất trên đời). Chừng đó là quá đủ để dập tắt ngọn lửa đam mê bùn đất. Hai đứa lập tức quay đầu xe và phóng đi trên chiếc scooter.
+
+Mabel và Nicky vẫn đứng quan sát từ phía sau một pháo đài bằng bùn. Khi Miriam và Jack bước lại gần, Nicky trườn người bò ra ngoài.
+
+“Chào các cháu,” Miriam cất lời. “Hố bùn… ừm, cũng ấn tượng đấy chứ. Quần áo của cháu đâu hết rồi?”
+
+“Cháu là một con rắn,” Nicky đáp bằng giọng thản nhiên. “Rắn thì làm gì mặc quần áo.”
+
+“Mẹ cháu bảo chúng cháu nên giải phóng bản thân khỏi quần áo,” Mabel vừa chăm chú nặn một quả bóng bùn vừa bổ sung.
+
+“Vậy bố mẹ các cháu có biết hai đứa đang làm trò này ngoài này không?”
+
+“Dạ biết chứ. Ban đầu chúng cháu đòi chơi điện tử, thế là bố mẹ bắt chúng cháu phải ra ngoài này chơi.”
+
+“Chơi trong bùn đấy hả?”
+
+“Nó đâu phải bùn cho tới khi mẹ cháu lôi vòi xịt ra xịt ạ. Trước đó thì chỉ là đất thôi.”
+
+“Em thấy chưa?” Jack hào hứng nói khi rời khỏi nhà Kate và Fred, rảo bước theo sau các con dọc con phố. Sự phấn khích dường như đã giúp anh đẩy lùi sạch sẽ cảm giác nôn nao sau cơn say. “Đó chính xác là những gì anh muốn nói: Có một thế lực to lớn hơn đang vận hành!”
+
+“Một thứ gì đó… khiến người ta dính đầy bùn đất sao?”
+
+“Đó là một sự, ừm, gia tăng cường độ. Và bằng cách nào đó, theo một ngả đường nào đó, nó có liên hệ tới Mr. Yay.”
+
+“Hừm. Nghe đậm chất khoa học đấy nhỉ.”
+
+“Nhưng quay lại chuyện Mr. Yay,” Jack nói, “hay Ricardo Merman. Anh vẫn chưa tìm ra ông ấy. Ít nhất là chưa. Nhưng anh đã nhận được phản hồi từ nhà đài từng được cho là phát sóng chương trình đó.”
+
+“Đài nào thế, PBS à?”
+
+“Những người liên lạc với anh dường như đều nghĩ vậy. Thế nên anh đã liên hệ với nhà đài và nối máy được với một phụ nữ có quyền truy cập vào toàn bộ kho lưu trữ các chương trình cũ. Kiểu như, những thứ từ thời trước khi có truyền hình trực tuyến ấy.”
+
+“Bởi vì rõ ràng là bây giờ nó chẳng hề được chiếu trực tuyến ở bất cứ đâu.”
+
+“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình *The Adventures of Mr. Yay* không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”
+
+“Cô ấy không tìm thấy chúng à?”
+
+“Cô ấy không tài nào tìm thấy,” Jack nói. “Nên anh mới hỏi liệu cô ấy có thể rà soát bất cứ thứ gì khác liên quan đến Mr. Yay trong kho lưu trữ của nhà đài hay không, nhưng kết quả y như cũ.”
+
+“Không một dấu vết.”
+
+“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất *The Adventures of Mr. Yay*.”
+
+Lũ trẻ trượt xe scooter dẫn hai người đến công viên, rồi tạt qua quán cà phê, sau đó quay trở lại đường Ravenswood Drive - nơi Kate và Fred đã nhập bọn cùng các con lăn lộn trong bùn. Nhưng chí ít thì họ không trần như nhộng. Fred để ngực trần, nhưng anh mặc một chiếc quần đay rộng thùng thình. Kate mặc bộ bikini lấm lem bùn đất và đeo một viên thạch anh quanh cổ. Một vòng hoa cài ngay ngắn trên mái tóc bết chưa gội của cô. Cả hai trông thon gọn và rám nắng hơn nhiều so với những gì Miriam từng nhớ.
+
+“Hai người đang làm gì với cái sân nhà mình thế?” Miriam hỏi.
+
+Kate ngồi xổm xuống, dùng những ngón tay dính đầy bùn đất vuốt ve đầu một chú thỏ con. “Bọn tớ đang xây dựng một khu bảo tồn động vật hoang dã.”
+
+“Toàn bộ đều là hoa và cỏ bản địa,” Fred nói thêm.
+
+“Lũ thỏ, gấu mèo và mấy con thú nhỏ cuối cùng cũng có một ngôi nhà tử tế.”
+
+*Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao*, Miriam thầm nghĩ.
+
+Nhưng cô chỉ gật đầu và nói: “Tuyệt thật đấy!”
+
+“Bọn tôi sẽ không bao giờ phải cắt cỏ nữa,” Fred nói với Jack. “Mọi thứ sẽ phát triển tự do, theo đúng trạng thái tự nhiên của nó.”
+
+Jack nhìn Miriam. Ánh mắt anh như muốn nói:
+
+*Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?*
+
+Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.
+
+“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên *The Adventures of Mr. Yay* không?”
+
+“Ồ, có chứ,” Fred nói. “Hồi đó tôi xem suốt. Sao thế?”
+
+“Tôi chỉ… đang tiến hành một cuộc điều tra.”
+
+“Chuyện này có liên quan gì đến mấy tờ rơi đó không?” Kate hỏi. “Tớ cũng đang thắc mắc về chúng. Mr. Yay là ai thế?”
+
+“Mẹ ơi, chú ấy là rapper đó mà,” Mabel nói. “Chú ấy bị mất tích ạ?”
+
+“Không phải Mr. Yay đó,” Jack nói. “Là người kia cơ. Trong chương trình truyền hình ấy.”
+
+“Thế thì tớ chưa bao giờ nghe nói đến rồi,” Kate nói.
+
+“Anh nói thật đấy à?” Fred cất lời với vợ. “Sao em lại chưa bao giờ nghe nói đến cơ chứ?”
+
+Kate nhún vai. “Em chịu.”
+
+“Thời chúng ta lớn lên, chương trình đó đâu đâu cũng có mà.”
+
+“Và giờ đây,” Miriam nói, “nó chẳng còn ở đâu nữa.”

@@ -1,141 +1,123 @@
-# MIRIAM VÀ CÁC THÁM TỬ
+# THUYẾT ÂM MƯU!
 
-**HOLLY NGÂM VIỆT QUẤT** với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên
+Trong lúc Jack mải mê bận rộn với bất kỳ việc gì - hay chính xác hơn là với bất kỳ ai mà anh đang quấn quýt - Miriam đành một mình dắt lũ trẻ đi siêu thị. Cô phải kiên nhẫn chịu đựng tiếng cằn nhằn cùng những gương mặt xị xuống của chúng trong lúc nhét những bàn chân mềm nhũn vào giày, rồi giục giã cả hai bước ra khỏi cửa. Hai đứa trẻ cãi cọ chí chóe gần như suốt toàn bộ quãng đường lái xe, cho đến khi chúng chợt nhớ ra rằng đến siêu thị, chúng sẽ được ngồi trên chiếc xe đẩy hình ô tô đầy vi khuẩn và tha hồ chọn những hộp ngũ cốc ăn sáng phủ đầy đường. Lindsey thích ngũ cốc gạo giòn vị socola. Con bé nhấm nháp tỉ mẩn từng hạt gạo giòn, cho đến khi độ giòn rụm đó nhão ra thành thứ bột sền sệt. Rory thì mê ngũ cốc bắp nở phủ đường, ngọt nhạt nhẽo và màu sắc nhợt nhạt.
 
-Thế rồi, một tiếng mèo gào thất thanh dội lên từ ngoài sân. Tiếp đến là một tiếng rầm trầm đục. Rồi tiếng la hét. Rồi tiếng khóc lóc sụt sùi.
+Miriam đỗ xe. Rory lập tức luồn lách thoát khỏi dây an toàn rồi lao tọt lên ghế trước. Cậu bé thích chui ra ngoài qua cửa bên ghế tài xế, cốt để tiện tay bấm còi bíp bíp trên đường ra. Chú nhóc đập tay bôm bốp vào vô lăng, không quên để lại những vết chân bẩn nhỏ xíu trên mặt ghế da.
 
-Holly vội lao ra ngoài. Cậu nhóc Chad đang ngồi bệt giữa đống bùn dưới gầm hiên nhà. Một vết cào rớm máu dài ngoẵng vắt ngang má chú nhóc. Máu, nước mắt và nước mũi lem luốc chảy dài trên mặt, nhỏ từng giọt xuống cổ chiếc áo sơ mi trắng.
+Lindsey thong thả chờ dây an toàn tự nhả ra. Con bé bước xuống xe chậm rãi như một phi hành gia đang đặt những bước chân đầu tiên lên bề mặt Mặt Trăng xám xịt như đường nhựa.
 
-“Chad! Có chuyện gì thế này!”
+“Mẹ ơi, giục chị nhanh lên đi!” Rory mè nheo. “Nếu chị lề mề quá, người ta lấy mất xe đẩy ô tô mất!”
 
-Chad ủ dột ngước nhìn mẹ, vừa nấc vừa sụt sịt: “Con mèo cào mặt con.”
+Gần lối vào siêu thị Value Valley, một người phụ nữ đang đứng cầm tấm biển viết tay màu xanh dạ quang. Tấm biển ghi vắn tắt:
 
-Thực ra, cậu nhóc chỉ đơn giản muốn con mèo cùng nhảy xuống khi mình gieo mình từ trên hiên nhà. Cậu đang chơi trò nhảy dù, y hệt như bố. Đã là nhảy dù thì cẩn tắc vô áy náy, cậu bắt buộc phải có một người đồng đội kinh nghiệm, mà con mèo lại là sinh thể duy nhất trong nhà sở hữu kỹ năng đỉnh cao đó. Dù sao thì cậu cũng từng thấy nó nhảy từ trên hiên xuống vài lần rồi mà.
+**THUYẾT ÂM MƯU!**
 
-Holly rửa sạch rồi cẩn thận băng bó vết thương còn rỉ máu trên má Chad. Cô lột bộ đồ dính đầm đìa máu lẫn bùn đất của chú nhóc ra, thay bằng một bộ quần áo tối màu lịch thiệp (để đỡ lộ vết bẩn, nếu chẳng may có thêm sự cố). Xong xuôi, cô ực một hơi cạn sạch ly cocktail việt quất húng tây thứ hai. Đến lúc Jack, Miriam, Kate, Fred cùng lũ trẻ kéo tới, Holly đã bình thản nhấp sang ly thứ ba.
+Xung quanh chữ “THUYẾT ÂM MƯU!” có vẽ một vòng tròn với các tia nắng chĩa ra ngoài, trông hệt như bức vẽ mặt trời của một đứa trẻ.
 
-“Nhưng tớ bắt buộc phải uống thôi,” Holly phân trần. “Sau từng ấy chuyện phi lý.”
+Người phụ nữ Thuyết Âm Mưu mặc chiếc áo nỉ chui đầu màu đen có in logo màu hồng của một công ty dược phẩm. Bà nở nụ cười tươi rói với Miriam khi cô tiến lại gần lối vào. Răng bà trắng muốt và hoàn hảo đến lạ kỳ. Sau khi mấy mẹ con đi qua, Miriam ngoái lại nhìn bà. Mặt bên kia tấm biển lại mang một thông điệp hoàn toàn khác:
 
-Cô rót một ly rồi chuyền cho Miriam. Miriam nhấp thử một ngụm nhỏ.
+**GÀ CỦA TÔI ĐÂU RỒI?**
 
-“Ôi, ngon thật đấy.”
+Chiếc xe đẩy ô tô đầu tiên - loại hai chỗ ngồi bằng nhựa màu đỏ vàng có gắn giỏ mua hàng ở phía sau - bị dính rít một cách hết thuốc chữa. Dù đã lau qua bằng mấy tờ khăn giấy kháng khuẩn, nó vẫn bị phủ một lớp màng bết dính.
 
-“Còn Kate thì sao?”
+Rory cằn nhằn: “Nhưng con muốn đi xe đẩy ô tô cơ!”
 
-“Chắc tối nay tớ xin kiêng vậy.”
+*Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò*, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.
 
-“Cái gì cơ? Tối thứ Sáu rồi mà! Đợi
+Miriam lặng lẽ kéo chiếc xe đẩy ô tô tiếp theo ra khỏi khu vực tập kết rồi lau sạch nó.
 
-“Không, tớ đang trong liệu trình thanh lọc cơ thể bằng trà kombucha,” Kate phớt tỉnh đáp. Cô mở chiếc thùng giữ nhiệt nho nhỏ mang theo, lôi ra một chai nước màu xanh lục đục ngầu, rồi điềm nhiên rót chút chất lỏng đó vào ly cocktail của mình.
+“Con làm tài xế!” Rory trèo tọt vào xe.
 
-“Đó là trà kombucha ư? Nó là cái thứ gì thế?”
+“Lần trước em lái rồi!” Lindsey đẩy em trai sang một bên.
 
-“Đây là loại trà lên men bằng cộng sinh khuẩn và nấm men,” Kate từ tốn giải thích. “Tớ tự ủ ở nhà đấy.”
+Người phụ nữ Thuyết Âm Mưu đăm đăm nhìn họ. Bà xoay qua xoay lại tấm biển của mình. Bà mỉm cười, vẻ mặt chẳng biết là thương hại hay coi thường. Răng bà trắng một cách phi lý.
 
-“Nghe… kỳ quặc thật đấy,” Holly nhận xét, không quên liếc nhìn Miriam một cái đầy ngụ ý. “Uống thứ đó có say được không?”
+Miriam đẩy chiếc xe ô tô cồng kềnh qua các gian hàng trong khi lũ trẻ cãi lộn chí chóe ở ghế trước. Chúng mặc cả để mua bằng được bốn hộp ngũ cốc: hai hộp in hình các con vật hoạt hình trên vỏ, hai hộp được quảng cáo là thuần tự nhiên và bổ sung dưỡng chất. Cô lái chiếc xe đẩy vào khu vực bánh mì. Trong lúc chọn bánh mì, cô nhận ra người phụ nữ Thuyết Âm Mưu đang lảng vảng gần bàn bày các loại bánh nướng phủ đường trong bao bì nhựa trong suốt. Bà cũng đẩy một chiếc xe ô tô, chỉ có điều chẳng có đứa trẻ nào ngồi cãi nhau ở ghế trước.
 
-“Có lẽ là không đâu.”
+“Mẹ ơi, mua bánh cupcake được không?” Rory hỏi.
 
-“Chán chết đi được. Ôi, xin lỗi nhé, tớ chỉ là…” Holly hớp thêm một ngụm cocktail thật to. “Tớ đang căng thẳng thần kinh muốn điên lên đây. Toàn bộ cái vụ Chad nhảy từ trên hiên xuống cùng con mèo ấy…”
+“Con cũng muốn ăn bánh cupcake!” Lindsey bồi thêm.
 
-“Dù sao thì mọi chuyện vẫn còn có thể tồi tệ hơn nhiều mà,” Miriam vỗ về.
+Miriam đành để lũ trẻ chọn một hộp bánh cupcake màu vàng phủ kem trắng.
 
-Thực ra, Chad vẫn hoàn toàn ổn. Cậu nhóc đang ở trên tầng, dậm chân thình thịch chạy dọc hành lang và gào thét hết cỡ bình sinh.
+*Bổ sung dưỡng chất*, nhãn dán trên bao bì tuyên bố xanh rờn như thế.
 
-“Tớ biết chứ. Rõ ràng là vậy rồi. Tớ…” Holly lại nhấp thêm một hớp rượu nữa. “Vấn đề là, ngay sau khi chuyện đó xảy ra, tớ… tớ hoàn toàn hoảng loạn. Tớ tự nhốt mình trong nhà vệ sinh rồi khóc nức nở. Kiểu khóc dữ dội đến mức tớ bắt đầu thở gấp luôn ấy.”
+“Nó chẳng thực sự ‘bổ dưỡng’ gì đâu,” người phụ nữ Thuyết Âm Mưu tiến lại gần lên tiếng khi Miriam đang xếp mấy chiếc bánh cupcake vào xe đẩy. “Ai mà biết nó thực chất là cái giống gì. Có khi là bất cứ thứ gì trên đời không chừng.”
 
-“Ôi, Holly…”
+“Ừm, hừm.” Miriam gật đầu. Cô chẳng có tâm trạng đâu mà dây vào một kẻ điên.
 
-“Tớ biết chứ.” Một giọt nước mắt chực trào nơi khóe mắt Holly, nhưng cô đã nhanh tay gạt đi. “Thậm chí chuyện đó còn chẳng liên quan gì đến lý trí cả. Ý tớ là, Chad vẫn ổn đấy thôi.”
+“Tôi thấy cách cô nhìn tôi ngoài kia rồi,” người phụ nữ Thuyết Âm Mưu nói. “Tôi hiểu chứ. Cô nghĩ tôi điên chẳng khác gì một con cá hề.”
 
-“Ừ, Chad vẫn hoàn toàn ổn.”
+“Tôi, ừm…” Miriam muốn rời đi ngay lập tức, nhưng chiếc xe đẩy hình ô tô của người phụ nữ nọ đã tạo thành một chướng ngại vật gây tắc nghẽn lối đi.
 
-“Lỗi là ở tớ đấy,” Holly than thở. “Cảm xúc của tớ dạo này
+“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, *bốc hơi!* Cứ thế mà biến mất không để lại một dấu vết.”
 
-“Tớ nhớ mình cũng từng rơi vào cảnh tương tự sau khi sinh bé Mabel,” Kate đồng cảm lên tiếng. “Trầm cảm sau sinh đấy.”
+Một hình ảnh của Jack chợt lóe lên trong tâm trí Miriam. Jack với nụ cười rạng rỡ. Jack với đôi mắt dán chặt vào cô. Bàn tay anh. Bờ môi anh. Dáng hình cơ thể anh trong bóng tối phòng ngủ của hai người, khi anh kéo cô nằm đè lên người anh.
 
-“Ừ, tớ cũng từng nếm trải trò đó rồi,” Holly bảo. “Nhưng lần này thì khác hẳn. Nó mãnh liệt hơn nhiều. Giống như… giống như có một nỗi buồn ngấu nghiến nuốt chửng lấy tớ rồi lại nhè tớ ra vậy. Tớ chẳng biết phải giải thích thế nào cho phải nữa. Cậu có nghĩ… Miriam này, tớ có nên đi gặp bác sĩ không? Cậu có nghĩ tớ bị rối loạn lưỡng cực hay hội chứng gì tương tự thế không?”
+Một tiếng nấc nghẹn bất ngờ cuộn trào trong lồng ngực cô. “Tôi…” Cô nhìn người phụ nữ trước mặt, nhưng trong tâm trí lại chỉ thấy Jack. Cô ấp úng ngập ngừng: “Tôi… tôi chắc chắn… mọi thứ không thể tự nhiên biến mất… ý tôi là, chẳng vì lý do gì…”
 
-“Đi gặp chuyên viên trị liệu tâm lý chưa bao giờ là một lựa chọn tồi cả,” Miriam ôn tồn đáp. “Nhưng những gì cậu vừa mô tả không hề giống biểu hiện của hội chứng rối loạn lưỡng cực. Và tớ cũng chưa thấy điểm nào ở cậu khiến tớ phải nghĩ cậu mắc bệnh đó cả.”
+“Tôi không biết lý do. Nhưng tôi biết chuyện đó đang xảy ra. Cô có thể cảm nhận được mà. Giống như tiếng lách tách trong không khí, ngay trước khi tia sét giội xuống.”
 
-“Ừ, nghe vậy thì mừng quá.” Holly ực một hơi cạn sạch ly cocktail, rồi lại thản nhiên rót thêm ly nữa. “Nhưng thế thì tớ bị làm sao cơ chứ? Ý tớ là, ngoại trừ việc có lẽ tớ đã nỡ uống quá nhiều rượu ra.”
+Người phụ nữ Thuyết Âm Mưu thả một hộp bánh cupcake vào chiếc xe đẩy hình ô tô của mình, rồi quay gót bước đi. Miriam lại bắt gặp bà ở quầy thu ngân ngay làn bên cạnh. Chiếc xe đẩy ô tô của bà chất đầy ắp nhu yếu phẩm. Bà đĩnh đạc thanh toán bằng thẻ tín dụng, rồi cất gọn chiếc thẻ vào ví nằm trong một chiếc túi xách bằng da sang trọng.
 
-Từ phòng khách,
+Miriam tò mò đi theo người phụ nữ Thuyết Âm Mưu ra tận bãi đỗ xe. Người phụ nữ mở cốp một chiếc Rolls-Royce mới tinh, bóng lộn không một tì vết. Bà xếp gọn ghẽ đống đồ tạp hóa cùng tấm biển màu xanh dạ quang của mình vào xe, khẽ vỗ nhẹ lên thành xe đầy âu yếm, rồi trèo vào ghế lái và phóng vút đi.
 
-“Tớ đoán chuyện này cũng liên quan đến lão chồng tớ nữa,” Holly thở dài. “Dạo này lão ấy thật không thể chịu nổi. Kể từ khi đi nhảy dù về, suốt ngày lão chỉ biết ‘nhảy dù thế này’ với ‘nhảy dù thế kia’. Tớ thề đấy, nếu còn phải nghe thêm một câu nào về chuyện đó nữa… Đã thế lão còn xị mặt hờn dỗi chỉ vì tớ không chịu đi nhảy dù cùng.”
+Chiếc xe của Jack đã nằm chễm chệ trên lối vào nhà khi ba mẹ con về đến nơi. Rory thoan thoắt tự gỡ dây an toàn, nhào người qua hàng ghế sau rồi ngụp lặn giữa các túi đồ tạp hóa hòng săn tìm kho báu. Miriam vội giật mấy chiếc bánh cupcake khỏi tay cậu nhóc rồi cắp nách bế thốc vào nhà, mặc cho cậu bé không ngừng giãy giụa và vung chân đạp loạn xạ. Xong xuôi, cô quay lại lấy nốt số đồ còn lại cùng cô con gái lớn, đứa trẻ vẫn đang kiên nhẫn tháo dây an toàn ở hàng ghế sau.
 
-“Ít ra thì anh ấy vẫn bình an vô sự,” Miriam cất lời.
+“Lindsey, nào con, nhanh chân lên,” cô giục, có lẽ là lần thứ một tỷ trong đời.
 
-“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng
+Jack ngồi trong nhà, dán mắt vào màn hình tivi trên ghế sofa. Thấy bóng vợ con, anh vội tắt tivi rồi bước lại giúp cô xách túi đồ tạp hóa vào bếp.
 
-“Cũng ổn, tớ đoán thế…” Miriam trả lời.
+“Anh đi làm về sớm thế.” Mới sáu giờ tối.
 
-“Đó là một chiếc mũ mới à?” Holly hỏi.
+“Ừm, phải rồi…” Jack đáp, giọng điệu đầy vẻ khả nghi.
 
-“Đúng vậy.”
+“Nhưng chắc tối nay anh lại ôm việc về nhà làm chứ gì?”
 
-“Trông anh ấy bảnh đấy. Mà như thế tức là…”
+“Cũng một chút, ừm… Mà em, ừm, có nhận được bó hoa anh gửi không?”
 
-“Cái gì cơ?”
+Bó hoa đang nằm chễm chệ trên bàn ăn trong bếp ngay trước mặt anh, trông vừa đáng yêu lại vừa đầy nghi vấn.
 
-“Thì, tớ mà là cậu tớ sẽ cẩn thận đấy, nếu chồng tớ đột nhiên ăn mặc bảnh bao hẳn lên,” Holly nói.
+“Em thấy rồi. Cảm ơn anh. Nhưng hôm nay nhân dịp gì thế?”
 
-“Mờ ám thật đấy,” Kate gật đầu đồng tình. “Mặc dù chồng tớ trông cũng cực kỳ bảnh bao trong đôi tất đi cùng dép sandal kia kìa.”
+“Chẳng nhân dịp gì cả. Chẳng lẽ anh cứ phải có dịp mới được tặng hoa cho vợ sao?”
 
-“Hà! Chuẩn đấy.”
+Miriam không biết phải đáp lại thế nào, đành lẳng lặng bước ra ban công phía sau để hút một điếu thuốc, nhường lại sàn diễn cho “Jack Kẻ Đáng Nghi” cất đồ tạp hóa vào tủ (có lẽ là lần đầu tiên trong suốt cả nhiệm kỳ làm bố của anh). Dĩ nhiên, anh xếp mọi thứ sai bét nhè vị trí. Nhưng trong lúc cặm cụi dọn dẹp lại bãi chiến trường mà anh vừa bày ra trong tủ lạnh, Miriam đành tự an ủi bản thân rằng dù sao có lòng cũng là tốt rồi. Trừ phi cái “lòng tốt” đột xuất ấy lại chỉ nhằm mục đích che đậy một phi vụ ngoại tình.
 
-“Trong lớp yoga của tớ có một chị này,” Kate kể, “chồng chị ấy - à thì giờ hai người ly hôn rồi - nhưng chị ấy bảo trước khi chuyện đó xảy ra, ông chồng bắt đầu ăn mặc đẹp hơn, xịt nước hoa, chăm tập thể dục hơn hẳn. Mấy cậu biết đấy, vì gã đang cố gây ấn tượng với cô nào đó.”
+Cả gia đình quây quần ăn tối. Chú nhóc Rory ngốn sạch bách phần thịt gà và khoai tây, nhưng dứt khoát không chịu đụng một hạt ngô nào cho tới khi nhận được chiếc bánh cupcake của mình. Thế rồi, cậu bé khoét một lỗ ngay chính giữa chiếc bánh ngọt lịm và nhồi đầy ngô nghiền vào đó.
 
-Miriam liếc nhìn sang chồng mình. Trông anh phong độ hơn, vui vẻ hơn và thư thái hơn hẳn. Trên mặt anh luôn thường trực một nụ cười cùng ánh mắt lấp lánh rạng rỡ.
+“Gớm chết đi được.” Con bé Lindsey bình phẩm, tay tỉ mẩn xếp một con sâu bằng hạt ngô trên đĩa của mình rồi thong thả nhai dần từng chiếc chân ngô một.
 
-“Dạo này Jack cư xử cứ kỳ kỳ thế nào ấy,” Miriam nói. “Và dạo gần đây mùi trên người anh ấy đúng là có khác thật. Tớ chưa từng nghĩ đến nước hoa, nhưng chắc chuẩn là nó rồi. Chúa ơi, anh ấy chưa từng xịt nước hoa kể từ trước khi bọn tớ kết hôn cơ đấy.”
+Jack hào hứng cập nhật cho cả nhà đủ mọi tin tức giật gân trên đời: “Có một thành phố ở Texas vừa chính thức tuyên bố sẽ ly khai khỏi nước Mỹ đấy.”
 
-“Cậu có hỏi anh ấy về chuyện đó không?” Kate
+“Thế cơ à.”
 
-“Chưa…”
+“Người ta phải điều động cả Vệ binh Quốc gia đến.”
 
-“Cậu phải đối chất với anh ấy đi chứ,” Holly nói, giọng hào hứng quá đà (đơn giản vì cô đã uống đến ly cocktail thứ tư rồi). “Cậu nên thẳng thắn yêu cầu anh ấy nói rõ xem có phải đang ngoại tình hay không.”
+“Ồ?”
 
-“Ôi không, cậu không thể làm thế được,” Kate ngắt lời. “Lỡ anh ấy không ngoại tình thì sao? Khi đó cậu sẽ trông giống hệt một kẻ ghen tuông mù quáng.”
+“Lại vừa xảy ra một chuỗi các vụ cướp ngân hàng kỳ quặc nữa.”
 
-“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại *khiến* anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”
+“Vâng.”
 
-“Thế anh ấy có nhắc đến người phụ nữ nào không?” Kate hỏi. “Cô Jessica hay ai đó đại loại thế?”
+“Bọn cướp đều cải trang thành cảnh sát. Có điều lại là kiểu cảnh sát G, Ợ, I, C, Ả, M. Mặc quần soóc siêu ngắn và đi bốt cao tận đùi.”
 
-“Chị ấy là thành viên góp vốn ở công ty luật của anh ấy,” Miriam giải thích. “Dạo này Jack làm việc cho chị ấy rất nhiều. Chiều mai anh ấy còn phải xử lý một vụ việc cho chị ấy nữa.”
+Được rồi, chi tiết này nghe chừng có vẻ thú vị đấy.
 
-“Nhưng nhỡ anh ấy không thực sự đến chỗ làm thì sao?” Holly vặn lại.
+“Nhiều người còn nhìn thấy một con tàu ngoài khơi bờ biển Hy Lạp, một con tàu mà trên thực tế vốn dĩ không hề tồn tại.”
 
-“Đáng nghi cực kỳ nhé,” Kate hùa vào. “Ý tớ là, ai lại đi làm vào chiều thứ Bảy cơ chứ?”
+Miriam khẽ rùng mình: “Sao người ta lại nhìn thấy một thứ không tồn tại được chứ?”
 
-“Jack chứ ai,” Miriam đáp. “Jack lúc nào chẳng làm việc.”
+“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì *con tàu đó* vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là *tại sao*…”
 
-“Thế lại càng đáng nghi hơn đấy,” Holly phán trong cơn say.
+Sau khi đã dỗ dành các con yên giấc, Miriam lại lén ra ngoài làm thêm một điếu thuốc nữa. Cô châm lửa rồi rón rén đi vòng qua hông nhà, tiến về phía cửa sổ phòng bếp, nơi cô có thể kín đáo quan sát Jack. Anh mở máy tính xách tay. Trong lúc chờ máy khởi động, anh bước về phía tủ rượu, với lấy chai whiskey rồi ngửa cổ tu ừng ực một ngụm thẳng từ miệng chai. Gương mặt anh nhăn nhó lại đầy vẻ ghê tởm. Anh vội nhét trả chai rượu vào tủ, móc từ trong túi quần ra một phong kẹo bạc hà rồi tống ngay một viên vào miệng. Xong đâu đấy, anh ngồi xuống trước màn hình máy tính và bắt đầu gõ phím thoăn thoắt.
 
-“Làm sao cậu biết chắc anh ấy thực sự đi làm?”
+Miriam châm tiếp điếu thuốc thứ hai. Hút xong, cô cẩn thận xịt lên người một chút nước hoa từ chai xịt giấu sẵn trong bụi cây rồi ung dung bước vào nhà, hướng thẳng về phía phòng bếp. Vừa thấy bóng cô tiến lại gần, Jack lập tức gập thấp màn hình máy tính xách tay xuống để vợ không nhìn thấy.
 
-“Cậu nên bám theo anh ấy để tìm hiểu xem sao.”
+“Em thơm quá,” anh tấm tắc khen.
 
-“Nhưng cậu phải cẩn thận kẻo bị anh ấy phát hiện đấy.”
+Dẫu vậy, mùi hương ấy cũng chẳng đủ nồng nàn để cứu vãn một đêm mặn nồng giữa hai người.
 
-“Bọn mình có thể đi xe của tớ,” Holly đề xuất.
+“Anh đang bận làm việc à?” Miriam hỏi.
 
-“Để Fred trông đám trẻ cho,” Kate tán thành. “Bọn mình sẽ bảo với họ là đi mua sắm.”
-
-“Cậu có ống nhòm không? Bọn mình sẽ cần đến nó đấy.”
-
-“Nên mang theo cả bộ
-
-“Và máy ảnh nữa chứ.”
-
-“Cả ba còn phải cải trang nữa.”
-
-“Kiểu như đội tóc giả với đội mũ ấy.”
-
-“Và đeo kính mát nữa.”
-
-“Để anh ấy không nhận ra bọn mình.”
-
-Miriam ừng ực uống cạn phần cocktail còn lại, coi đó như liều thuốc xoa dịu trước sự nhiệt tình đáng sợ của hai cô bạn.
-
-Holly nheo mắt cười toe toét. “Bọn mình sẽ giống như những thám tử thực thụ vậy!”
+“Ồ ừ, rất bận,” anh đáp lại, vẫn với vẻ mặt đầy khả nghi.

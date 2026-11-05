@@ -12,7 +12,7 @@ Xa hơn nữa, anh muốn cô nhảy phắt khỏi chiếc xe đạp, trèo tót
 
 Nhưng đời không như mơ. Thực tế phũ phàng hơn nhiều: đúng lúc người phụ nữ thả trôi xe vào giao lộ, lướt ngang trước đầu xe anh, vẻ đẹp kiều diễm bừng sáng dưới ánh đèn pha, thì một tiếng rầm chát chúa vang lên. Một chiếc xe khác đâm sầm vào đuôi xe anh. Chiếc xe của anh chồm mạnh về phía trước, húc trúng cô. Anh nghe thấy một tiếng uỵch nặng nề khi cơ thể cô đập vào nắp ca-pô. Rồi tiếng kim loại rít lên ken két đầy thương tổn khi chiếc xe đạp văng qua giao lộ, nằm bẹp dí dưới bánh của một chiếc xe khác.
 
-Anh lao ra khỏi xe, tim đập như trống ráo. Đây chính là khoảnh khắc cuộc đời anh kết thúc, hoặc
+Anh lao ra khỏi xe, tim đập như trống ráo. Đây chính là khoảnh khắc cuộc đời anh kết thúc, hoặc bắt đầu, hoặc rẽ sang một hướng hoàn toàn không thể đảo ngược.
 
 Cô đang nằm bẹp trên mặt đất. Anh hốt hoảng chạy vội đến bên cô.
 
@@ -44,7 +44,7 @@ Và qua lăng kính hoài niệm, thật khó mà phân định liệu tia lửa
 
 Đến lúc này, gã tài xế gây tai nạn mới lồm ngồm bước ra khỏi xe, lảo đảo tiến lại gần và miệng không ngừng cằn nhằn điều gì đó. Nhưng cả anh lẫn cô đều chẳng buồn bận tâm. Một chiếc bong bóng vô hình dường như đã bao bọc lấy hai người, cách ly họ hoàn toàn với nhân gian náo nhiệt xung quanh.
 
-“Cô thực sự không sao chứ?” anh ân cần hỏi. “Không
+“Cô thực sự không sao chứ?” anh ân cần hỏi. “Không trầy xước hay bầm tím chỗ nào thật sao?”
 
 “Chiếc xe đạp của tôi. Nó nát bét rồi.”
 
@@ -80,7 +80,7 @@ Khung cảnh chuyển dịch. Họ vẫn ở bên trong chiếc bong bóng ấy,
 
 Cô bật cười: “Thám tử kiểu gì cơ?”
 
-“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh *Peregrine* chẳng hạn. Anh mặc áo vest, đội mũ
+“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh *Peregrine* chẳng hạn. Anh mặc áo vest, đội mũ fedora, dắt súng sau thắt lưng và phì phèo thuốc lá trong văn phòng. Thân chủ của anh toàn những kẻ nhếch nhác, nguy hiểm hoặc cực kỳ quyến rũ. Thỉnh thoảng anh còn tham gia đấu súng nữa.”
 
 “Nghe cứ như tiểu thuyết viễn tưởng ấy,” cô tủm tỉm. “Anh hoàn toàn có thể tự nhận mình là cao bồi, diễn viên xiếc, hoặc một rapper chuyên nghiệp cơ mà.”
 

@@ -1,135 +1,127 @@
-# HỒI TƯỞNG
+# ĐỘNG VẬT LINH HÒA
 
-**MIRIAM + JACK**
+**SÂN TRƯỚC** vẫn còn nhem nhuốc bùn đất và nhung nhúc thỏ, nhưng một tấm biển vẽ tay đã hứa hẹn về một tương lai tươi sáng ngập tràn hoa dại cùng cỏ bản địa. Ở sân sau, bữa tiệc sinh nhật lần thứ sáu của Mabel đã bắt đầu từ đời nào rồi. Lindsey ôm chặt món quà của con bé: một bộ bút chì màu làm từ gỗ tái chế với phẩm màu tự nhiên chiết xuất từ thực vật.
 
-**MỘT NGƯỜI PHỤ NỮ ĐANG YÊU,** và thế là đủ rồi, đúng chứ?
+“Không dùng đồ nhựa nhé,” Kate từng dặn khi Miriam hỏi về quà sinh nhật. “Tất nhiên rồi.”
 
-Tình yêu là tất cả những gì ta cần, phim ảnh và các khúc ca vẫn luôn bảo thế. Tình yêu căng tràn đến mức lấp đầy trái tim, tâm hồn, dạ dày, cùng từng ý nghĩ mỗi sớm mai thức giấc.
+Kate đã mời một lượng trẻ con đông đến mức phi lý, chắc phải tầm ba bốn mươi đứa. Sân sau biến thành một bãi chiến trường ngập tràn tiếng la hét. Kate đang hân hoan bày những khay ô liu, chả đậu falafel và lá nho cuộn dolmades lên bàn dã ngoại. Cô bạn trông rạng rỡ trong chiếc áo tunic màu be, đôi chân trần và một vòng hoa mẫu đơn hồng rực rỡ đội trên mái đầu chưa gội. Cô bạn vẫy tay. Miriam lách người tiến về phía cô, băng qua một trò chơi “vịt, vịt, ngỗng”, lướt qua những “họa sĩ nhí nổi loạn” đang bận rộn tân trang đống đồ nội thất sân vườn bằng loại sơn vẽ tay chiết xuất từ thực vật không thể tẩy rửa.
 
-Tựa như một quả bóng bay, chỉ khác là nó được bơm căng bằng hormone oxytocin.
+“Ừm, thế này đúng là… hoành tráng đấy,” Miriam nói. “Cậu có biết loại sơn đó không rửa sạch được không?”
 
-Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng *bịch, rắc* khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút
+“Tớ biết chứ. Nhưng thế mới tràn đầy năng lượng làm sao!” Kate reo lên. “Được bao bọc bởi tất cả những tâm hồn sáng tạo trẻ trung, tươi sáng này thật tuyệt.”
 
-*Đàn gà của mình đâu rồi nhỉ?*
+“Được rồi…”
 
-Nhưng rồi cô cũng quên béng luôn cả điều đó. Bởi lẽ cô còn bao mối hoài nghi khác cần bận tâm suy xét.
+Ngay lúc đó, một trong số các họa sĩ nhí dùng kéo an toàn xẻm một lỗ trên tấm đệm ghế rồi tò mò móc ra một nhúm mút xốp.
 
-Dù sao đi nữa, dẫu mọi chuyện có tiến triển theo chiều hướng nào, tình yêu vẫn là quá đủ. Và cô đang say đắm trong men tình. Cô là một cô dâu mới cưới. Cô là bà Miriam Shipley, và cô vẫn còn run lên vì sung sướng mỗi khi nhìn thấy tên mình được in trên giấy tờ. Mỗi khi lắng nghe danh xưng ấy:
+“Vợ chồng tớ mời cả lớp của Mabel,” Kate nói. “Nhưng để công bằng thì tụi tớ mời luôn cả lớp của Nicky. Rồi tất nhiên là cả đám trẻ trong xóm, anh chị em họ, rồi đội bóng đá nhí của Mabel nữa. Thế mà chẳng ai chịu nghe khi tớ dặn là không được xài đồ nhựa cả. Mấy ông bà nội ngoại hai bên đều gửi đồ nhựa tới. Nhưng cậu cứ chờ mà xem món quà tụi tớ tặng con bé!”
 
-*Nhà Shipley. Ông bà Shipley.*
+Miriam đi loanh quanh trò chuyện. Cô tìm thấy Holly, người đang cầm sẵn một chai sâm panh cùng chiếc ly phụ dành riêng cho Miriam. Chiếc ly được lấy ra một cách thần kỳ ngay khi cô vừa đến, cứ như thể Holly sở hữu một ngăn giấu rượu bí mật trong giày, đúng chuẩn phiên bản James Bond nữ chuyên làm cho hàng xóm say khướt. Người đàn ông đứng cạnh Holly nhiệt tình vỗ tay. Người ấy mặc một chiếc áo poncho dệt (dù thời tiết bên ngoài oi nóng đến mức người ta chỉ muốn cởi trần mặc quần đùi), trên ngực cài tấm bảng tên ghi chữ GONZAGO.
 
-Cộng thêm một chú cún cưng đáng yêu hết nấc. Và còn gì nữa nhỉ?
+“Anh Gonzago đây vừa mới giải thích về việc Trái Đất đang bước vào chu kỳ tái sinh đấy,” Holly lè nhè nói. “Hôm nay chính là sinh nhật tái sinh của Trái Đất!”
 
-Cô yêu ngôi nhà của họ.
+“Đó là lý do chúng ta uống sâm panh sao?” Miriam hỏi.
 
-Ngôi nhà của *họ*. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.
+“Sự thay đổi đã hiện diện quanh đây rồi,” Gonzago nói. “Nếu cô nhắm mắt lại và lắng nghe, cô sẽ nghe thấy nó.”
 
-Cô yêu tất cả
+Người đàn ông nhắm mắt lại rồi chìm vào lắng nghe. Nhưng tất cả những gì Miriam nghe thấy chỉ là tiếng la hét thất thanh của đám trẻ.
 
-Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng *lạo xạo, lạo xạo, lạo xạo* dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.
+Holly ừng ực nốc một ngụm sâm panh trực tiếp từ chai. “Thế, anh Gonzago,” cô hỏi, “làm sao anh quen Kate và Fred vậy?”
 
-Có lẽ cô sẽ phải bớt chạy bộ lại và chuyển sang đi bơi nhiều hơn. Có lẽ cô sẽ mất thêm một năm nữa mới hoàn thành xong chương trình cao học. Có lẽ cô sẽ sơn lại phòng ngủ thành màu xanh lam hoặc màu vàng. Hoặc có lẽ cô sẽ sắm một chiếc xe đẩy trẻ em chuyên dụng để chạy bộ.
+“Biết… theo nghĩa ăn nằm trong Kinh Thánh ấy hả?”
 
-Có lẽ cô nên gọi điện cho Jack ngay lúc này. Nhưng không, đó chỉ là trái tim đang thổn thức của cô cất lời át đi lý trí. Jack còn bận túi bụi với công việc. Jack mới chỉ là một luật sư cộng sự cấp thấp tại Hãng luật Rufus Mather LLP, và chỉ khi nỗ lực cống hiến hết mình, anh mới có hy vọng từng bước leo lên vị trí thành viên góp vốn. Cô không nên làm phiền anh chỉ vì một linh cảm mơ hồ.
+“Ừm…”
 
-Cô chạy bộ đến tiệm thuốc và mua một hộp bốn que thử thai. Rồi cô chạy bộ trở về nhà. Trên đường về, cô đi ngang qua nhà người hàng xóm Holly. Vợ chồng Holly và Tom Waters vừa mới tậu căn nhà ở đầu phố Ravenswood Drive. Holly đang ngồi xổm trong vườn với một chiếc xẻng nhỏ và cái
+“*Ồ, đúng rồi*, ý cô là làm sao tôi quen họ chứ gì? Tôi với Fred từng làm chung ở ngân hàng. Nhưng rồi tôi bỏ việc ngân hàng và bán nhà, sau đó đi cắm trại ở công viên. Cơ mà hóa ra công viên lại đóng cửa lúc chín giờ tối. Thế nên giờ tôi sống ở đây.”
 
-“Khu vườn nhìn thích mắt quá cậu!” Miriam nói.
+“Ở đây… ý anh là căn nhà này sao?” Miriam hỏi. “Cùng với Kate và Fred ư?”
 
-“Cũng tàm tạm rồi.” Holly đứng dậy, lấy mu bàn tay lau mồ hôi rịn trên trán. “Mấy con hươu chết tiệt đó lại mò vào xơi tái mấy bụi ngọc trâm của tớ rồi. Chim chóc thì thi nhau phóng uế bừa bãi lên bậc thềm. Cỏ dại mọc nhanh như thể có ai trả tiền công cho chúng vậy. Đã thế, lần nào cúi xuống nhổ cỏ, tớ cũng có cảm giác cái bụng này sắp kéo mình ngã chúi nhủi về phía trước. Rồi nhìn chân tớ mà xem! Nó sưng vù lên, chẳng xỏ vừa nổi đôi giày nào nữa. Mang thai đúng là một cực hình tra tấn.”
+“Ồ, không phải bên trong nhà,” Gonzago bảo. “Tôi cắm trại ở sân sau nhà họ. Tôi thích ngủ ngoài trời hơn nhiều.”
 
-“Cậu còn bao lâu nữa thì sinh?”
+“Ôi chao.” Holly véo cái má xồm xoàm của Gonzago rồi rót đầy tràn ly cho anh chàng. “Ngủ ngoài trời cơ đấy. Trông người này đáng yêu chưa kìa?”
 
-“Hai tuần và ba ngày nữa. Đó là nếu cu cậu chịu chào đời đúng hạn.”
+Rồi cũng đến lúc đập piñata. Con piñata trông giống như một con gấu ba chân có cặp ngà dài. Nó mang màu hạt dẻ, được nhuộm bằng thứ thuốc nhuộm mà Kate tự tay chiết xuất từ củ dền. Con vật bằng giấy này khổng lồ một cách quá đáng, to bằng cả chiếc ghế bành. Phải cần đến sức mạnh tổng hợp của cả Fred lẫn Tom mới kéo nổi nó vắt qua cành cây.
 
-“Cầu trời là vậy.”
+Mấy chục đứa trẻ lần lượt thay phiên nhau vung gậy đập. Con piñata vẫn trơ trơ bất khả xâm phạm. Fred và Tom đành phải xắn tay áo nhảy vào trợ lực bằng đôi tay nam giới cuồn cuộn cơ bắp, nhưng cả hai cũng chẳng thể làm nó móp méo nổi một phân. Cuối cùng, Fred đành vác rìu ra bổ toác con piñata. Chiến lợi phẩm tuôn tràn ra ngoài: ngót nghét ba mươi pound bánh vụn mầm đậu carob, que mật ong, kẹo cam thảo hữu cơ và kỷ tử bọc sô-cô-la thương mại công bằng. Cả đám trẻ nháo nhào lao vào tranh cướp. Chúng xô đẩy, giật giũ, véo nhau rồi khóc toáng lên. Kate cố gắng can thiệp. Cô bạn điều hướng mấy đứa nhóc đang gào khóc về phía quầy đồ ăn trải đầy món chả falafel và lá nho cuộn dolmades, nơi bọn trẻ vừa nhìn thấy đã càng gào khóc thảm thiết hơn.
 
-“Nó mà không chịu ra đúng hạn thì tớ phát điên mất. Tớ chịu đựng đủ lắm rồi. Giờ tớ chỉ thèm một cốc bia mát lạnh đến phát khóc, thế mà ngay cả một hớp cũng chẳng được đụng vào.”
+“Tớ chẳng hiểu sao tụi nhỏ lại buồn bực thế nữa,” Kate than thở. Một hàng kiến bò ra khỏi vòng hoa mẫu đơn trên đầu cô rồi lũ lượt hành quân ngang qua trán. “Trẻ con thích dolmades lắm mà!”
 
-Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là *không có thai*, còn một vạch lượn sóng xoăn tít nghĩa là *có thai*. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay
+“Trẻ con chỉ thích siro ngô thôi,” Holly bồi một câu tỉnh rụi.
 
-Thế nhưng cùng lúc đó, cô lại muốn khoảnh khắc trọng đại này phải diễn ra thật hoàn hảo và trang trọng. Cô muốn tận mắt ngắm nhìn biểu cảm trên gương mặt anh, muốn cảm nhận hơi ấm từ vòng tay, bàn tay cùng bờ môi anh, và lắng nghe nhịp đập rộn ràng của hai trái tim cùng hòa làm một.
+“Ít ra cậu cũng bổ được con piñata ra rồi,” Miriam bảo. “Rory trông như sắp phát rồ đến nơi. Còn Chad…”
 
-Thế là cô quyết định cúp buổi học, dành trọn cả ngày thong thả lướt mạng, ngắm nghía vô số quần áo sơ sinh, phụ kiện trẻ em và chăm chú đọc các mẹo vặt giúp thai phụ luôn giữ được tâm trạng phơi phới. Cô đi siêu thị sắm sửa đồ ăn, rồi tự tay vào bếp chuẩn bị bữa tối gồm toàn những món Jack mê mẩn nhất: ngô ngọt luộc nguyên bắp, bánh quy bơ sữa xốp mềm, cùng món chả thịt nướng meatloaf thơm nức mũi. Cô bày biện lại bàn ăn, thắp nến lung linh và cẩn thận rót một ly vang đỏ sóng sánh cho Jack, còn phần mình thì tuyệt đối không đụng một giọt. Theo đúng kế hoạch, anh sẽ về nhà vào lúc bảy giờ. Cô đã tính toán thời gian chuẩn xác đến từng giây.
+“Suỵt!” Holly huých mạnh vào người cô làm sâm panh sóng sánh trào cả ra khỏi ly.
 
-Đúng 6 giờ 55 phút, chuông điện thoại reo vang, đầu dây bên kia là Jack. “Em yêu à, tối nay anh phải ở lại làm muộn rồi.”
+“Sao thế?”
 
-“Thế sao? Muộn đến mức nào cơ anh?”
+“Tụi mình không nói về Chad nữa. Đang uống rượu cơ mà. Thế thôi!”
 
-“*Rất* muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”
+“Được rồi…”
 
-“Vâng… nhưng chỉ tối nay thôi đúng không? Tối mai anh sẽ về ăn tối chứ?”
+“Nhưng cái con piñata đó…”
 
-“Ừ, anh nghĩ là được.”
+“Tớ với lũ trẻ tự làm đấy,” Kate hãnh diện khoe.
 
-Thế là cô đành tắt lò nướng, rồi lẳng lặng thổi tắt những ngọn nến vừa thắp. Cô giấu đĩa thịt
+“Cậu đúc nó bằng xi măng đấy à?” Holly châm chọc.
 
-Tối hôm sau, cô quyết định thử vận may lần nữa. Lần này, cô bắt anh phải xác nhận chắc nịch từ trước.
+“Nó chắc chắn lắm đúng không? Tụi tớ muốn làm cho nó thật kiên cố, để đại diện cho sức mạnh nội tâm của Mabel.”
 
-“Bảy giờ đúng chứ anh?”
+Dường như Kate đã hoàn toàn phớt lờ sự mỉa mai cay đắng về việc con piñata rốt cuộc đã bị đập nát vụn ra sao.
 
-“Ừ, ừ, anh chắc chắn sẽ về nhà.”
+“Thế rốt cuộc nó là con vật gì vậy?” Miriam tò mò hỏi.
 
-“Anh thật sự chắc chứ?”
+“Nó là sự kết hợp của những loài vật mà Mabel cảm thấy đang rung động cùng tần số với con bé. Động vật Linh hòa của nó đấy. Ít nhất cũng phải bốn loài. Dù có khi còn nhiều hơn thế nữa.”
 
-“Anh thề danh dự đấy.”
+*Nhưng trong số đó, rốt cuộc loài nào lại chỉ có ba chân cơ chứ?*
 
-Cô lại thắp nến, lại rót rượu vang, rồi kiên nhẫn hâm nóng lại món thịt nướng meatloaf. Cô bật một điệu nhạc êm dịu và thoa chút son môi. Đúng lúc ấy, Jack lại gọi tới.
+“Thế thì… tuyệt thật đấy.”
 
-“Chuyện là thế này…”
+“Kỳ quặc thì có,” Holly buột miệng. Màng lọc ngôn từ của cô bạn đã hoàn toàn biến mất, nhường chỗ cho sự bộc bạch trần trụi của một kẻ ngà ngà say. Dù vậy, Kate chẳng buồn để ý. Cô bạn thoải mái choàng tay ôm lấy cả hai người.
 
-“Sao thế anh?”
+“Tiện thể hai cậu đang ở đây,” Kate nói, “tớ có tin này muốn khoe!”
 
-“Anh biết mình đã hứa sẽ có mặt ở nhà lúc bảy giờ, nhưng đùng một cái lại có việc khẩn cấp phát sinh.”
+“Đừng bảo vợ chồng cậu vừa rủ thêm người thứ ba vào cuộc hôn nhân đấy nhé,” Holly chặn họng.
 
-“Ồ.”
+“Ờ, ừm, chuyện đó thì đâu còn là tin mới.”
 
-“Mọi người đang vắt chân lên cổ để hoàn tất một thương vụ triệu đô, ngặt nỗi con của một thành viên góp vốn lại lăn ra ốm, thành thử ra, ừm…”
+“Thế tin gì nào?”
 
-“Anh lại về muộn.”
+“Fred vừa nghỉ việc ở ngân hàng rồi, và…” Kate ngập ngừng, nở nụ cười rạng rỡ. Toàn bộ cơ thể cô dường như đang rung lên ở một tần số kỳ lạ nào đó. Một con kiến bò ra khỏi vương miện hoa mẫu đơn, lao vụt qua trán cô rồi nhảy tót vào không trung.
 
-“Ừ. Đúng vậy đấy em.”
+“Và sao nữa? Nói mau đi chứ!”
 
-“Muộn như tối qua sao?”
+“Tụi tớ chuẩn bị mở một phòng tập yoga và thiền! Thực ra là một trung tâm chăm sóc sức khỏe toàn diện. Tụi tớ cũng sẽ mở thêm các lớp học khác ở đó nữa. Các cậu biết đấy, ủ phân hữu cơ, tự nấu bia tại nhà, thanh tẩy tâm linh, chữa lành bằng pha lê. Tụi tớ đã mua lại tòa nhà ngay đầu phố, bên cạnh tiệm kem rồi. Tụi tớ muốn gắn bó ngay trong khu phố này để giảm bớt sự phụ thuộc vào ô tô. Tụi tớ có thể đạp xe đến đó. Dù Fred đang tính tậu một chiếc xe đạp một bánh cơ. Thế chẳng phải quá tuyệt sao! Tớ phấn khích đến phát điên lên được!”
 
-“Ừ. Anh thật sự xin lỗi nhé, em yêu. Đến ngày mai là mọi việc sẽ êm xuôi cả thôi. Anh cũng chỉ mong được phi ngay về nhà với em. Anh nhớ em nhiều lắm.”
+Kate huyên thuyên không dứt. Thêm vài con kiến nữa vội vã rời khỏi con thuyền đắm trên đầu cô. Holly ngửa cổ nốc cạn phần sâm panh còn lại trong ly.
 
-Đĩa thịt nướng meatloaf tội nghiệp lại một lần nữa bị tống ngược vào tủ lạnh. Cô tự nấu cho mình một hộp mì ống phô mai ăn liền. Và cô ăn luôn trong chảo cho đỡ phải rửa thêm bát đĩa.
+“Tuyệt thật đấy,” Miriam nói. “Mừng cho hai cậu.”
 
-Ngày mai. Dù sao thì ngày mai chắc chắn sẽ khá khẩm hơn.
+“Điên rồ hết chỗ nói,” Holly thốt lên. “Nào, cạn ly vì sự điên rồ!” Cô giơ cao chiếc ly rỗng tuếch.
 
-Thế nhưng ngày mai rồi cũng tới, và ít nhất thì lần này anh đã kịp gọi điện báo trước khi cô kịp bật lò hâm nóng lại món thịt nướng meatloaf thêm một lần nữa.
+“Tớ đang trở thành đúng con người thật của mình,” Kate tuyên bố.
 
-“Anh xin lỗi. Bọn anh
+“Vậy cậu bảo Fred đã nghỉ việc ở ngân hàng,” Miriam tiếp lời. “Thế còn cậu…”
 
-“Nên là…”
+“Ôi không. Tớ cũng ước gì được vậy.” Kate vốn làm việc ở bộ phận tiếp thị của một công ty dược phẩm. “Nhưng tụi tớ không thể vay tiền mở trung tâm chăm sóc sức khỏe trừ khi một trong hai đứa giữ lại công việc công sở. Và tụi tớ quyết định tớ là người có khả năng thuyết phục ngân hàng tốt hơn Fred.” Một hàng kiến kiên trì bò qua mái tóc cô. “Mặt mũi Fred nhìn trông đúng là *rất* hippie.”
 
-“Nên là… tối nay anh lại phải cày muộn rồi.”
+Rồi cũng đến lúc bóc quà. Mabel hào hứng mở những món đồ chơi bằng nhựa, búp bê nhựa, dụng cụ vẽ bằng nhựa, kẹo dẻo làm từ phẩm màu đỏ số 40, súng bắn bong bóng phun ra những đám bọt độc hại, thú bông rỉ ra hóa chất nguy hiểm… Tất cả đều bị Kate nhanh tay chộp khỏi tay cô bé rồi chuyền cho Fred để tống vào một chiếc hộp đặt ở khu vực cách ly trong sân, nơi lũ trẻ, vốn hấp thụ mọi thứ như bọt biển, bị nghiêm cấm bén mảng tới.
 
-“Nghe này Jack, em thật sự có chuyện rất quan trọng cần nói với anh…”
+Cuối cùng, món quà lớn nhất và tuyệt vời nhất cũng xuất hiện. Kate và Fred cùng nhau khiêng nó ra: một chú dê cảnh. Mabel reo lên sung sướng: “Động vật Linh hòa của con!” Chú dê màu trắng, đeo một chiếc nơ đỏ quanh cổ. Nó sở hữu bộ lông xoăn mềm mại cùng đôi mắt lờ đờ ngơ ngác. Mabel chồm tới ôm chầm lấy nó.
 
-“Ôi chết tiệt, thư ký vừa báo anh có một cuộc gọi nối máy gấp. Chuyện đó để sau được không em?”
+“Chẳng phải nó…”
 
-“Ờ, được thôi. Sao cũng được, Jack.”
+Thế rồi nó không còn ở đó nữa.
 
-“Cảm ơn em vì đã luôn thấu hiểu cho anh nhé, em yêu.”
+Nó biến mất hoàn toàn.
 
-Cô cúp máy. Cô lẳng lặng dời đĩa thịt nướng meatloaf ra mép ngoài tủ lạnh, vị trí đập ngay vào mắt để Jack có thể tự tìm thấy và tự cho vào lò vi sóng mà hâm lấy. Cô mở một gói khoai tây chiên giòn rụm rồi chấm đẫm sốt phô mai béo ngậy. Cô dùng thêm một que thử thai nữa cho chắc ăn, rồi đặt ngay ngắn trên bàn bếp cạnh một mẩu giấy ghi chú, phòng trường hợp hai cái vạch xoăn tít kia vẫn chưa đủ rõ ràng đối với một bộ óc luật sư:
+Vòng tay Mabel chỉ còn ôm trọn lấy khoảng không vô định.
 
-*Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.*
+Cô bé thét lên. Kate kinh ngạc há hốc miệng. Holly đánh rơi cả ly sâm panh. Mấy đứa trẻ khúc khắc cười, trong khi vài đứa khác bắt đầu òa khóc. Lindsey vội thụp đầu tự vệ. Rory tự sờ khắp người mình như để xác nhận bản thân vẫn chưa bị bốc hơi. Jack nhanh tay rút điện thoại ra bấm quay. Và anh vẫn đang ghi hình thì chỉ một khoảnh khắc sau, chú dê lại sủi bọt hiện hình trở lại.
 
-Một lát sau, cô buồn tay ăn sạch bách chỗ bánh quy bơ sữa. Rồi cô leo lên chiếc giường trống trải, chìm sâu vào giấc ngủ mà chẳng buồn đợi ai.
+Trong một khoảnh khắc, chú dê chỉ hiện diện một nửa - một đốm sáng lung linh mang hình dáng con dê - khiến Miriam chợt hoảng sợ nghĩ rằng vòng tay của cô bé chủ nhân bữa tiệc sinh nhật có thể bị kẹt cứng bên trong nó. Nó có thể nuốt chửng cô bé. Biết đâu nó lại là một loài nhai lại mang sức mạnh hố đen, một kẻ nuốt chửng các hành tinh, hay một vết rách mang sừng đâm thấu cấu trúc không - thời gian.
 
-Cô thức giấc trong vòng tay ấm áp của Jack. Vài vệt nắng ban mai rọi xiên qua những khe rèm cửa khép hờ. Đồng hồ điện tử nhấp nháy chỉ 9 giờ 17 phút. Bàn tay Jack nhẹ nhàng luồn qua mái tóc cô, trượt khẽ xuống ngực, rồi dịu dàng dừng lại, bao trọn lấy vùng bụng dưới của cô.
+Thế nhưng Fred đã kịp giật Mabel lại trước khi chú dê vật thể hóa hoàn toàn, dù vẫn không đủ nhanh để ngăn cái đầu của nó húc thẳng vào mặt cô bé. Máu mũi cô bé phun ra. Chú dê đứng ngơ ngác. Gonzago có vẻ như vừa được giải oan nhờ biến cố kỳ dị này. Holly loạng choạng bước ra khỏi sân, bỏ mặc cậu con trai Chad ở lại đằng sau. Miriam siết chặt lấy tay Jack.
 
-“Anh về rồi đấy à.”
+Cảm giác chạm vào tay anh lúc này… thật kỳ lạ làm sao.
 
-“Anh về rồi đây.”
-
-“Hôm nay
-
-“Anh vừa gọi điện báo ốm xin nghỉ rồi.”
-
-“Ồ, tốt quá. Nhưng liệu có ổn không đấy? Em không muốn anh gặp rắc rối ở văn phòng đâu.”
-
-“Làm sao họ biết được anh không ốm thật cơ chứ,” Jack nói. “Mà vả lại, chuyện đó cũng chẳng quan trọng. Điều duy nhất quan trọng trong ngày hôm nay đang ở ngay trên chiếc giường này rồi.”
+“Không sao đâu,” anh nói, “đó là một manh mối.” Trên người anh tỏa ra một mùi hương y hệt con hẻm tối vào đêm không trăng. “Đôi khi, một thứ cứ phải biến mất thì em mới có thể nhìn thấy những gì thực sự tồn tại ở đó.”

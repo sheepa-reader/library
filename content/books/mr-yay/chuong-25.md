@@ -1,133 +1,110 @@
-# GÓC HOÀI NIỆM
+# THÁNG HAI
 
-**MIRIAM + JACK**
+# THANH VÁN TRƯỢT SHOT-SKI
 
-**VÀO MỘT BUỔI TỐI THÁNG MƯỜI MỘT TRỜI SE LẠNH,** chín năm về trước, một
+**MR. YAY MUỐN TÌM CHÚT VUI VẺ.**
+“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”
 
-Anh mặc áo khoác nhung kẻ, đội mũ fedora và châm một điếu thuốc. Dáng hình anh in thành một vệt đen sẫm trên nền trời khu trung tâm. Xung quanh anh, thành phố gầm rống trong mớ âm thanh hỗn độn của tiếng còi xe, tiếng động cơ, vỏ chai vỡ, chó sủa cùng tiếng bass dồn dập. Gương mặt anh chìm trong bóng tối. Làn khói mỏng lãng đãng quanh anh.
+“Lúc nào tao cũng xì hơi ra khói à? Hay tao kiểm soát được?”
 
-*Người đàn ông này là ai?*
+“Lúc nào cũng thế.”
 
-Biết đâu anh là tài tử của một bộ phim noir thập niên 1940. Biết đâu trong gấu áo anh có giắt một khẩu súng. Biết đâu anh từng đem lòng yêu một cô nàng nguy hiểm sở hữu đôi môi đỏ như máu, người sẽ chẳng bao giờ thèm đáp lại tình cảm của anh.
+“Ít nhất với mồ hôi bia, tao có thể làm cho cơ thể lạnh đi để khỏi đổ mồ hôi.”
 
-Biết đâu anh chỉ là một kẻ thích trầm ngâm đăm chiêu nhìn qua những mái nhà. Thế nhưng ánh mắt anh lại bị hút về căn phòng bên trong: chiếc bàn bếp, cốc cà phê trống rỗng, bút viết, bút nhớ dòng cùng những mảnh giấy ghi nhớ rực rỡ sắc màu, máy tính xách tay và một đống sách luật. Anh là kiểu người rồi sẽ làm nên trò trống, nhất quyết không chịu sống cuộc đời mòn mẫn, lại càng không chấp nhận lụi tàn hay chìm vào quên lãng. Anh sở hữu trọn vẹn sự tự tin đến mức quyết đoán của tuổi trẻ.
+“Trừ khi mày lo lắng. Lúc đó nách mày sẽ đầm đìa bia.”
 
-Bên trong, một người phụ nữ trẻ bước qua căn bếp. Cô mở cửa sổ, ghé đầu ra ngoài. Tóc cô buộc cao kiểu đuôi ngựa, đôi mắt lấp lánh. Cô là người phụ nữ xinh đẹp nhất mà anh từng thấy trong đời, và cô sống ở đó, trong căn hộ
+“Đằng nào thì cũng khó mà giữ nổi một công việc.”
 
-“Jack,” cô gọi. “Anh xong chưa đấy?”
+“Trừ khi mày làm rapper,” Tommy nói. “Hoặc làm DJ cho rapper đó.”
 
-“Rồi.”
+Mr. Yay đi sắm đồ. Anh mua cần sa dạng búp, thuốc lá điện tử, bánh kẹo cần sa và tinh dầu. Anh tậu thêm một tấm thảm treo tường in hình đầu người ngoài hành tinh phát sáng, kèm theo một chiếc đèn dạ quang ánh tím. Anh mua một sợi dây chuyền vàng cùng một cái bọc răng vàng. Chẳng phải vàng thật, nhưng ai mà biết được cơ chứ? Anh mua một thùng rượu Fireball, một thùng rum và năm mươi pound thức ăn cho chó.
 
-“Anh có mang đống đồ trên bàn đi không?”
+Anh nướng nốt những đồng tiền bán xe cuối cùng vào một cái loa to chềnh ễnh. Rồi trong suốt một tuần, hoặc ba hay bốn tuần gì đó, anh và Bratty phê pha ngập ngụa, cày vô số trò điện tử và tra tấn màng nhĩ bằng những nhịp rung động âm trầm Sub-bass rung trời chuyển đất.
 
-“Anh nghĩ…” Anh ngẫm nghĩ. Về ý nghĩa của việc tự trói buộc bản thân, về lời cam kết trọn vẹn, về một cú nhảy sinh tử để trở thành một con người hoàn toàn khác khi chạm đất. “Anh nghĩ anh sẽ để lại đây. Dù sao cũng chỉ là mấy ngày cuối tuần. Anh đâu cần phải học trong mấy ngày này.”
+Thế nhưng, đâu đó giữa làn sương mờ mịt của những tuần lễ ấy, Bratty vẫn làm được vài việc có ích. Hoặc ít nhất, anh cũng phóng vài mũi tiêu vào bóng tối. Anh chẳng biết mũi nào sẽ trúng đích. Anh tự tạo một trang web. Anh tải nhạc lên mọi nền tảng phát nhạc trực tuyến. Anh gửi các bản phối đến các phòng thu và công ty đại diện. Anh thậm chí còn tự dựng hẳn một video ca nhạc. Video đó thực ra chỉ là vài đoạn phim ngắn quay cảnh chú chó Tux đội chiếc mũ cướp biển, còn Tommy thì đeo miếng che mắt, miệng phì phèo hai điếu cần cùng lúc. Tommy đã tự vẽ miếng che mắt đó bằng bút dạ không xóa.
 
-Anh rít hơi thuốc cuối cùng. Anh bước vào trong, xách chiếc vali kéo ra hành lang, khóa cửa, bấm gọi thang máy, rồi mở ra đóng lại cánh cổng sắt xộc xệch của nó.
+“Nhìn tao ngầu phết đấy chứ,” Tommy bảo, khi miếng che mắt mờ dần thành một vệt mực lem nhem màu xanh xám. “Trông như tao vừa sống sót qua một trận ẩu đả ra trò vậy.”
 
-“Này, nhỡ chúng mình bị kẹt trong này thì sao?” Cô từng hỏi câu đó không biết bao nhiêu lần.
+Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ.
 
-Chiếc thang máy giật nảy lên một cái rồi kêu lạch cạch. Nó trông như thể đã tồn tại cả nghìn năm, một ẩn số kỳ quái làm từ cần gạt và bánh răng.
+Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, *“Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,”* nhưng những gì bố Bratty nghe được lại là, *“Con trai ông đúng là một kẻ thất bại vô dụng.”* Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.
 
-“Ai mà quan tâm chứ,” anh nói. “Miễn là chúng ta bị kẹt cùng nhau.”
+Thế nên anh không hé răng với Tommy, cũng chẳng buồn kiểm tra xem có ai ngó ngàng tới cái video ngớ ngẩn của mình hay lắng nghe những bản nhạc ấy hay chưa. Thay vào đó, anh phê pha quên trời đất rồi chạy bộ cùng chú chó của mình, tiện tay nhặt nhạnh những thứ người ta vứt đi bên đống rác. Chú chó thì bới tìm xương gà cùng những miếng pizza rơi vãi trên đường. Còn Bratty thì nhặt được một hồng tâm phi tiêu, dẫu chẳng có lấy một mũi tiêu nào. Rồi anh tìm thấy một tấm ván trượt tuyết lẻ loi. Anh cùng Tommy lấy keo dán bốn cái ly uống rượu mạnh lên đó, biến nó thành một thanh ván trượt Shot-Ski.
 
-Anh hôn cô, cắn nhẹ lên môi cô, ép chặt cô vào bức tường gỗ cổ kính. Biết đâu họ nên bị kẹt trong thang máy thật. Biết đâu một cuộc đời bị kẹt lại ở đó lại là một cuộc đời tuyệt vời hơn.
+“Giờ thì tụi mình chỉ cần kiếm thêm hai em gái nóng bỏng để cùng chơi trò Shot-Ski này nữa thôi,” Tommy nói.
 
-Thế nhưng, chiếc thang máy lại đưa họ xuống tận sảnh, dẫn thẳng ra con phố, nơi chiếc ô tô sẵn sàng chở họ vượt ranh giới tiểu bang để tới căn nhà thuộc một thị trấn nhỏ nơi bố mẹ Jack sinh sống. Đó là một ngôi nhà gạch kiểu nhà tầng trệt, có gara hai chỗ đỗ xe cùng một con gà tây bơm hơi khổng lồ dựng ngay trên bãi cỏ trước sân. Con gà tây đội chiếc mũ của người hành hương, tay lăm lăm khẩu súng kíp. Đối với đôi trẻ đang ngước nhìn nó, nó mang một thông
+Mỗi tội họ đã cạn sạch rượu rum, và chai Fireball cũng chỉ còn trơ đáy.
 
-Thị trấn nhỏ ấy là giao điểm của những cánh đồng ngô, những bãi khoai tây, các khu trung tâm thương mại trải dài và vài nhà máy xí nghiệp. Nó có tên là Kernville, mà ngoại trừ dân bản địa hoặc người ở vùng phụ cận, chẳng ai từng nghe thấy cái tên này bao giờ. “Cả cái thị trấn Kernville này chỉ có đúng năm con gà tây khổng lồ bơm hơi biết phát sáng thôi đấy,” mẹ của Jack tự hào tuyên bố trong lúc cán bột làm vỏ bánh nướng. Nhưng sang năm chắc chắn sẽ còn nhiều hơn thế. Dù sao thì gia đình Shipley cũng luôn là những người tiên phong dẫn đầu xu hướng.
+“Có khi chúng mình phải kiếm việc làm thôi,” Bratty nói.
 
-Nhà Shipley dựng cây thông Noel từ trước cả Lễ Tạ ơn. Họ phục vụ món rượu trứng pha cồn trong một chiếc tô pha lê đựng đồ uống tiệc tùng. Họ ăn trứng và thịt muối vào bữa sáng. Mọi lát bánh mì nướng, bánh kếp hay bánh quy bơ đều được trét sẵn một lớp bơ dày khụ.
+Mr. Yay đời nào chịu đi làm.
 
-Chàng trai trẻ cảm thấy bồn chồn. Anh lo sợ lượng bơ khổng lồ này sẽ phản ánh điều gì đó về bản ngã của mình.
+“Chán chết đi được. Mày nhìn cái răng vàng này xem. Thế nào, mày muốn tao nhe cái răng này ra đứng bỏ đồ vào túi cho khách ở siêu thị chắc?”
 
-Cô gái trẻ thì lại tò mò. Cô muốn thấu hiểu chàng trai và mọi yếu tố đã nhào nặn nên con người anh.
+Mr. Yay chỉ muốn ngủ nướng đến tận chiều muộn rồi thức suốt đêm thâu.
 
-Bậc phụ huynh thì hách dịch, cố chấp và cứng nhắc. Họ đã định hình lối sống như thế và sẽ vĩnh viễn chẳng bao giờ thay đổi.
+Mr. Yay muốn nhảy múa.
 
-Người bố ngồi trên chiếc ghế sofa ngả lưng bọc giả da để xem tin tức
+Mr. Yay muốn làm nhạc. Và họ đã làm thế thật, Tommy cùng với Bratty, mải miết sáng tác và phiêu bồng theo từng nhịp phách qua những đêm muộn. Nhưng họ tuyệt nhiên chẳng bao giờ đụng đến chuyện hậu cần tính toán.
 
-Mẹ Jack dọn ra những bát hạt thập cẩm, phô mai viên và mấy đĩa xúc xích cuộn bột nướng nhỏ nhắn cho giờ khai vị. Bà rót đầy rượu trứng pha cồn vào các ly pha lê, mặc định rằng ai nấy đều thèm thuồng món này. Bà chẳng buồn hỏi ý kiến ai trước. Cô dì chú bác cùng anh chị em họ đều được dúi vào tay một ly rượu trứng pha cồn khi lần lượt kéo nhau vào nhà Shipley, tay xách nách mang đủ loại nồi ninh điện, khuôn thạch rau câu và các khay đồ ăn đút lò. Riêng em gái của Jack được ưu tiên một ly rượu trứng không cồn, vì cô đang mang thai một cặp song sinh.
+“Tao là kiểu người hướng tới bức tranh toàn cảnh,” Mr. Yay tuyên bố. “Tao tràn ngập tâm hồn và chất thơ, chẳng khác gì Jack Kerouac, hoặc giả như Lord Byron vậy. Chỉ có điều cơ bụng tao chuẩn hơn, và hàng họ cũng khủng hơn thôi.”
 
-“Này Audrey,” người mẹ lên tiếng, “con định xin nghỉ thai sản bao lâu ấy nhỉ?”
+Anh hừng hực tính dục, ngập ngụa khói thuốc và tràn trề lòng kiêu hãnh, đúng bản chất của một rapper, đúng chất Mr. Yay. Còn khi trở về làm Tommy, anh lại có phần dè dặt hơn. Nhưng ẩn sâu trong mắt anh luôn có một tia sáng mang màu sắc tiên tri, như thể anh linh cảm được điều gì sắp sửa xảy đến.
 
-“Con vẫn chưa biết nữa mẹ.”
+Cơn gió đã bắt đầu đổi chiều.
 
-Bốn tháng, cô từng nói riêng với Jack như vậy.
+“Nhưng bọn mình cần tiền trả tiền nhà.” Bratty vẫn là kẻ thực tế. “Hay là chúng mình tìm việc gì đó, tao cũng không biết nữa, đại loại giông giống việc làm? Nhưng không phải một công việc gò bó thực sự.”
 
-“Đừng có nghỉ lâu quá đấy,” bà mẹ căn dặn. “Chẳng ai muốn cấp trên lại nghĩ mình không tận tụy với công việc đâu.”
+“Cái gì, kiểu như đi bán huyết tương hả?”
 
-Người bố cố lén lút lách ra xem TV. Ông cố đọc tin tức trên điện thoại. Bà mẹ liền lôi xềnh xệch ông trở lại thực tại.
+“Cũng được chứ sao. Nhưng tao đang nghĩ đến cái gì đó kiểu như, kiểu như…”
 
-“Ông Richard! Cất cái đó đi ngay! Giờ là thời gian dành cho gia đình! Nhiệm vụ của ông là phải trò chuyện để tìm hiểu bạn gái của Jack đấy.”
+Cách căn hộ ba dặm là một dải các quán bar, nhà hàng và hộp đêm, nơi một rapper sở hữu chiếc răng vàng cùng con mắt thâm tím đang mờ dần có thể tìm được một thứ gì đó tàm tạm gọi là công việc. Tommy từng quen một người, người đó quen một người khác, và người này lại quen một cô nàng quản lý hộp đêm đang cần người đi phát tờ rơi. Thù lao gồm có: vé vào cửa miễn phí, hai ly đồ uống miễn phí, cộng thêm hai mươi đô la cho một xấp tờ rơi. Chưa hết, họ còn có thể bỏ túi thêm mười đô nữa nếu chịu khoác tấm bảng quảng cáo hai mặt kẹp trước kẹp sau đi diễu hành dọc khu phố.
 
-“Tôi biết rồi, biết rồi mà,” ông cằn nhằn rồi nhấp một ngụm rượu. Ông quay sang cặp đôi trẻ: “Vậy đây là cô gái đó hả? Người mà bố mẹ nghe kể nhiều lắm đúng
+Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: *Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư?* Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.
 
-Cô rõ ràng là một *người phụ nữ* trưởng thành. Và Jack cũng kể cho bố mẹ về cô nhiều ngang ngửa với cách anh kể về bất kỳ điều gì khác trên đời: gần như chẳng có gì.
+“Trông phấp phới hiên ngang phết đấy chứ,” anh bảo. “Nó giống như cánh buồm, còn cơ thể tao chính là một con tàu lướt sóng.”
 
-Anh không kể nhiều với họ về trường luật, đơn giản vì họ chẳng hề bận tâm đến những khía cạnh thú vị. Họ chỉ muốn biết kết quả thực dụng sau cùng.
+Tommy tống một viên kẹo dẻo vào miệng rồi đội chiếc mũ cướp biển lên đầu. Thế là cả hai khoác tấm bảng quảng cáo kẹp người, lững thững cuốc bộ ba dặm tới con phố sầm uất. Họ rảo bước trên vỉa hè, chia phát tờ rơi cho từng người qua đường. Tommy phớt tỉnh huýt sáo một khúc hải tặc ca.
 
-“Thế Jack này,” mẹ anh lên tiếng hỏi, “con đã quyết định sẽ làm gì với tấm bằng luật đó chưa?”
+Bratty bỗng cảm nhận được một cơn gió lạ đột ngột thổi qua vạt áo. Anh cố không nghĩ ngợi xem nó báo hiệu điều gì, nhưng nỗi bất an quen thuộc vẫn chực trào dâng. Hội chứng rối loạn lo âu, chuyên viên trị liệu tâm lý của anh từng đặt tên cho nó như thế. Có điều, cảm giác lần này lại cuồng nhiệt và dữ dội hơn nhiều, tựa hồ anh đang cưỡi trên đỉnh một ngọn sóng thần sắp sửa vỡ tung xé toạc không gian quanh mình, vừa đáng sợ lại vừa choáng ngợp đến tận cùng. Cơn gió mỗi lúc một lồng lộn thổi mạnh.
 
-“Chưa ạ. Ý con là, con mới chỉ bắt đầu học thôi mà.”
+Anh nheo mắt nhìn về phía cuối đường, tim đập thình thịch từng hồi liên tiếp. Cách đó không xa là hai cô gái tóc nâu tầm ngoài đôi mươi đang rảo bước về phía họ. Ừ thì trông họ cũng nóng bỏng thật đấy, nhưng chỉ là kiểu nóng bỏng làm nền trong một khung hình đông đúc mà thôi. Thứ thực sự nổi bật ở tiền cảnh chính là đôi mắt. Một trong hai cô gái, người có vóc dáng thấp hơn, sở hữu đôi mắt to tròn biểu cảm đang dán chặt vào Tommy không rời. Đôi mắt ấy nheo lại. Đầu cô hơi nghiêng sang một bên. Cô thì thầm điều gì đó vào tai cô bạn cao kều đi cạnh rồi giơ tay chỉ trỏ. Cô bạn gật đầu lia lịa, mắt sáng rực lên. Một cô hét toáng vì phấn khích, cô nàng thấp hơn cũng ré lên theo, và rồi cả hai vừa hú hét vừa vồn vã lao xé gió tới chỗ Tommy.
 
-“Con cần một kế hoạch thực tế. Đừng có mơ mộng viển vông. Giống như cái kế hoạch đòi làm thám tử hồi đó của con ấy. Jack có từng kể cho cháu nghe về chuyện này chưa?” bà quay sang hỏi Miriam. “Nó từng *ám ảnh* với trò đó lắm đấy.”
+“CHÚA ƠI!”
 
-“Con đâu có ám ảnh.”
+“Đúng là anh ấy thật rồi!”
 
-“Nó từng ám ảnh phát cuồng lên được. Hồi đó nó cứ diễu võ dương oai khắp nhà với cái ống nhòm. Nó còn có bộ trang phục ngớ ngẩn đó nữa chứ. Trông như Sherlock Holmes, ngoại trừ việc đó chỉ là một chiếc áo khoác nilon bằng nhựa. Cả mấy tháng trời nó nhất quyết không chịu cởi ra.”
+“Đúng là anh rồi!”
 
-“Con chỉ là một đứa trẻ thôi mà. Trẻ con đứa nào chẳng làm thế.”
+“Mr. Yay!”
 
-“Đâu phải đứa nào cũng làm thế. Audrey có bao giờ giở trò như vậy đâu. Con bé từng mê mẩn mấy con ngựa nhỏ My Little Pony, nhưng nó chưa bao giờ nghĩ mình là một con ngựa cả.”
+“Có thật là…”
 
-“Con chỉ đóng vai giả vờ thôi.”
+Mr. Yay nở một nụ cười rạng rỡ hết cỡ. Chiếc răng bọc vàng của anh lập tức lóe sáng lấp lánh dưới ánh mặt trời.
 
-“Trẻ con ‘chỉ giả vờ’ thì không cố tình tháo xích thả chó ra để bố mẹ phải thuê chúng đi lùng bắt về đâu.”
+“Á á á!”
 
-“Mẹ, con đã nói với mẹ cả ngàn lần rồi, đó chỉ là trò chơi đóng vai. Lúc đó con mới năm tuổi. Trí tưởng tượng của con phong phú mà.
+“Em không thể tin nổi vào mắt mình nữa!”
 
-Tất nhiên, người mẹ có sẵn hình ảnh làm bằng chứng không thể chối cãi. Bà tập hợp cả gia đình lại để cùng lật giở cuốn album ảnh. Trong đó là Jack năm tuổi diện áo măng tô cùng mũ fedora. Jack mặc chiếc áo khoác thám tử bằng nhựa, mồm ngậm điếu xì gà kẹo cao su. Jack đang ghé mắt dòm qua kính lúp. Jack đứng cạnh một tấm biển vẽ bằng màu sáp nguệch ngoạc:
+“Bọn em mê anh chết đi được!”
 
-JACK SHIPLEY, THÁM TỬ TƯ.
+“Đỉnh thực sự!”
 
-Sau màn phát cuồng vì những bức ảnh gia đình ngượng chín mặt, người mẹ quay trở lại với câu hỏi ban đầu: “Jack, con định làm gì với tấm bằng luật của mình đây?”
+“Anh làm gì ở chốn này thế?”
 
-“Con cũng chưa chắc nữa.”
+“Tối nay anh có biểu diễn ở câu lạc bộ này không?”
 
-“Con phải có dự định gì rồi chứ.”
+“Bảo có đi mà, em sẽ phát điên lên vì sướng mất!”
 
-“Chà… con thực sự thích luật hình sự. Con đang cân nhắc trở thành một luật sư công quyền.”
+“Chúa ơi, anh cho em xin chữ ký được không?”
 
-“Ôi, cái đó… chà, lý tưởng của con thật đáng khen đấy.” Mẹ Jack bĩu môi. “Nhưng nghề đó đâu có kiếm được nhiều tiền, đúng không? Con đã tính đến chuyện làm sao để nuôi sống một gia đình với mức lương như thế chưa?”
+“Cho em nữa với! Nha?”
 
-“Cháu nghĩ nếu sau này anh Jack có gia đình,” Miriam lên tiếng, “anh ấy sẽ không phải là người duy nhất gánh vác tài chính đâu bác.”
+“Còn phải hỏi nữa à, chuẩn luôn,” Mr. Yay đáp tưng tửng. “Hai em muốn ký vào đâu nào?”
 
-Sau giờ giao tế tiệc tùng vui vẻ, cặp đôi trẻ lén dắt nhau ra ngoài hiên nhà. Trời đã tối om, ngoại trừ dải đèn Giáng sinh màu trắng giăng quanh tay vịn cầu thang cùng ánh sáng cam le lói phát ra từ con gà tây bơm hơi. Jack châm một điếu thuốc.
+“Ừm… ngay đây này.” Cô gái thấp hơn kéo áo phông lên rồi chỉ tay vào thềm ngực. “Nhưng nhớ ký thẳng lên áo ngực của em nhé. Em không muốn chữ ký bị trôi mất lúc tắm đâu.”
 
-“Anh thực sự nên bỏ thuốc đi đấy,” Miriam nói.
+Mr. Yay ung dung thò tay vào túi quần. Anh rút ra một cây bút dạ dầu ngòi to tướng, cứ như thể bản thân đã dự liệu trước được tình huống ngàn năm có một này từ lâu lắm rồi, đoạn nắn nót đặt bút ký tên.
 
-“Anh biết rồi.”
-
-“Nó không tốt cho sức khỏe của anh đâu.”
-
-“Có vô số thứ trên đời không tốt cho sức
-
-“Giống như về thăm bố mẹ anh nhân dịp Tạ ơn chẳng hạn.”
-
-“Chuẩn đấy, kiểu thế.”
-
-“Nhưng em thích nhìn những bức ảnh hồi nhỏ của anh.”
-
-“Anh đâu có bị ám ảnh.”
-
-“Ôi, dĩ nhiên là không rồi.”
-
-“Anh chỉ là, em biết đấy, một đứa trẻ bình thường thôi. Giả vờ đóng vai. Giống như mọi đứa trẻ khác.”
-
-“Hồi đó anh đáng yêu lắm. Với chiếc mũ nhỏ xíu và cái ống nhòm của anh nữa. Anh nên hỏi xin mẹ vài tấm ảnh đó đi. Hoặc mượn về để quét lưu lại. Ở căn hộ của mình, chúng ta đâu có tấm ảnh nào đâu.”
-
-“Biết đâu anh lại là kiểu người cần phải chôn vùi quá khứ tăm tối và đầy hiểm nguy của mình thì sao.”
-
-“Ừ hứ. Những hiểm họa khôn lường ở thị trấn Kernville.”
-
-“Có khi anh sẽ chôm luôn mấy bức ảnh đó,” Jack đùa. “Để rồi mẹ lại thuê anh điều tra xem rốt cuộc chúng đã bốc hơi đi đâu mất.”
+“Vậy thì,” anh chớp mắt, chất giọng sang sảng cất lên, “hai người đẹp có hứng thú làm một chầu rượu trên thanh ván trượt Shot-Ski không nào?”

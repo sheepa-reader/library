@@ -1,181 +1,135 @@
-# NGƯỜI NHỆN
+# HỒI TƯỞNG
 
-**NẾU MỘT ĐỨA TRẺ ĐỦ RANH MA** chồng một chiếc
+**MIRIAM + JACK**
 
-Tất nhiên, đó là khi các bậc phụ huynh trong nhà còn bận chuốc nhau say mèm.
+**MỘT NGƯỜI PHỤ NỮ ĐANG YÊU,** và thế là đủ rồi, đúng chứ?
 
-“Thế Tom đâu rồi?” Miriam hỏi.
+Tình yêu là tất cả những gì ta cần, phim ảnh và các khúc ca vẫn luôn bảo thế. Tình yêu căng tràn đến mức lấp đầy trái tim, tâm hồn, dạ dày, cùng từng ý nghĩ mỗi sớm mai thức giấc.
 
-“Anh ấy đến ngay thôi,” Holly đáp. “Nghe đâu bảo có chút việc bận phải chạy đi xử lý.”
+Tựa như một quả bóng bay, chỉ khác là nó được bơm căng bằng hormone oxytocin.
 
-“Việc bận cơ đấy. Cậu tin tưởng chồng mình gớm nhỉ, tốt thật.”
+Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng *bịch, rắc* khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút lên cao. Đó là một bóng chim đen tuyền giữa nền trời rực sắc neon. Đó là một giấc mơ mà người phụ nữ đã lãng quên đúng vào thời điểm nó trở nên quan trọng. Cả trong mơ lẫn lúc vừa choàng tỉnh, cô đều nghĩ:
 
-“Tớ chẳng tin chút nào. Ý tớ là, tớ lạ gì cái nết của Tom. Tớ chỉ không tin là anh ấy sẽ không làm tớ đau tim thôi. Cứ chờ mà xem, thể nào anh ấy cũng vác về một cái thảm nhún lò xo đặt sau vườn, hoặc vài ba thứ đồ nguy hiểm chết người chẳng ai cần đến.”
+*Đàn gà của mình đâu rồi nhỉ?*
 
-Holly pha một bình rượu tequila với nước chanh dâu, rượu mùi cam triple sec và nước cốt chanh. Cô rót đầy năm ly, phớt tỉnh nốc cạn một hơi hết sạch một ly rồi lại rót đầy tiếp.
+Nhưng rồi cô cũng quên béng luôn cả điều đó. Bởi lẽ cô còn bao mối hoài nghi khác cần bận tâm suy xét.
 
-“Nhanh gọn thật,” Miriam bảo.
+Dù sao đi nữa, dẫu mọi chuyện có tiến triển theo chiều hướng nào, tình yêu vẫn là quá đủ. Và cô đang say đắm trong men tình. Cô là một cô dâu mới cưới. Cô là bà Miriam Shipley, và cô vẫn còn run lên vì sung sướng mỗi khi nhìn thấy tên mình được in trên giấy tờ. Mỗi khi lắng nghe danh xưng ấy:
 
-“Thì cẩn tắc vô áy náy mà,” Holly đáp.
+*Nhà Shipley. Ông bà Shipley.*
 
-“Cậu nên ăn chút gì đi,” Kate chen vào. “Uống rượu lúc bụng rỗng là…”
+Cộng thêm một chú cún cưng đáng yêu hết nấc. Và còn gì nữa nhỉ?
 
-“Cực kỳ hiệu quả.”
+Cô yêu ngôi nhà của họ.
 
-“Tớ định nói là, rất hại cho hệ vi sinh đường ruột của cậu.”
+Ngôi nhà của *họ*. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.
 
-“Hệ vi sinh quỷ quái gì cơ?”
+Cô yêu tất cả những điều này chỉ vì cô yêu Jack, yêu nhiều đến mức ngỡ như một quả bom neutron vừa phát nổ, tạo thành một đám mây nấm tình yêu khổng lồ bao trùm lấy vạn vật xung quanh.
 
-“Đây. Ăn một chiếc bánh quy đi.” Kate đưa cho Holly một mẩu bánh hình thù méo mó, lấm tấm hạt đen.
+Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng *lạo xạo, lạo xạo, lạo xạo* dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.
 
-“Cái này mà gọi là bánh quy á?”
+Có lẽ cô sẽ phải bớt chạy bộ lại và chuyển sang đi bơi nhiều hơn. Có lẽ cô sẽ mất thêm một năm nữa mới hoàn thành xong chương trình cao học. Có lẽ cô sẽ sơn lại phòng ngủ thành màu xanh lam hoặc màu vàng. Hoặc có lẽ cô sẽ sắm một chiếc xe đẩy trẻ em chuyên dụng để chạy bộ.
 
-“Bánh quy sốt táo hạt chia đấy. Hoàn toàn hữu cơ nhé. Tự tay Fred nướng đấy.”
+Có lẽ cô nên gọi điện cho Jack ngay lúc này. Nhưng không, đó chỉ là trái tim đang thổn thức của cô cất lời át đi lý trí. Jack còn bận túi bụi với công việc. Jack mới chỉ là một luật sư cộng sự cấp thấp tại Hãng luật Rufus Mather LLP, và chỉ khi nỗ lực cống hiến hết mình, anh mới có hy vọng từng bước leo lên vị trí thành viên góp vốn. Cô không nên làm phiền anh chỉ vì một linh cảm mơ hồ.
 
-“Không có chút đường nào đâu,” Fred nói bồi vào. “Tôi đã thay toàn bộ bằng cỏ ngọt stevia rồi.”
+Cô chạy bộ đến tiệm thuốc và mua một hộp bốn que thử thai. Rồi cô chạy bộ trở về nhà. Trên đường về, cô đi ngang qua nhà người hàng xóm Holly. Vợ chồng Holly và Tom Waters vừa mới tậu căn nhà ở đầu phố Ravenswood Drive. Holly đang ngồi xổm trong vườn với một chiếc xẻng nhỏ và cái xô. Cô bạn đang lúi húi nhổ cỏ dại, trên đầu đội chiếc mũ rộng vành chống nắng. Chiếc bụng bầu của cô to vượt mặt, trông tròn ủng như thể vừa nuốt chửng cả một quả dưa hấu.
 
-“Ờ…” Holly nhìn mảnh bánh quy bằng ánh mắt đầy nghi ngại lẫn kinh tởm.
+“Khu vườn nhìn thích mắt quá cậu!” Miriam nói.
 
-“Ăn thử đi!”
+“Cũng tàm tạm rồi.” Holly đứng dậy, lấy mu bàn tay lau mồ hôi rịn trên trán. “Mấy con hươu chết tiệt đó lại mò vào xơi tái mấy bụi ngọc trâm của tớ rồi. Chim chóc thì thi nhau phóng uế bừa bãi lên bậc thềm. Cỏ dại mọc nhanh như thể có ai trả tiền công cho chúng vậy. Đã thế, lần nào cúi xuống nhổ cỏ, tớ cũng có cảm giác cái bụng này sắp kéo mình ngã chúi nhủi về phía trước. Rồi nhìn chân tớ mà xem! Nó sưng vù lên, chẳng xỏ vừa nổi đôi giày nào nữa. Mang thai đúng là một cực hình tra tấn.”
 
-“Ừm, cậu biết đấy, tớ nghĩ mình nên ra kiểm tra lũ trẻ thì hơn.”
+“Cậu còn bao lâu nữa thì sinh?”
 
-Cả Holly lẫn Miriam cùng lách về phía cửa
+“Hai tuần và ba ngày nữa. Đó là nếu cu cậu chịu chào đời đúng hạn.”
 
-“Tụi nó trông đáng yêu thật đấy,” Miriam nói (tất nhiên là cô chỉ đang ám chỉ đứa con của mình, chứ chẳng mấy mặn mà với lũ nhóc do bạn bè sinh ra).
+“Cầu trời là vậy.”
 
-“Hầu như là vậy. Hoặc thỉnh thoảng thôi,” Holly thở dài. “Rồi chúng sẽ lớn lên, biến thành những Tom, những Jack và những Fred. Đấy là nếu cậu may mắn nhé. Còn nếu không…” Holly bỗng khựng lại.
+“Nó mà không chịu ra đúng hạn thì tớ phát điên mất. Tớ chịu đựng đủ lắm rồi. Giờ tớ chỉ thèm một cốc bia mát lạnh đến phát khóc, thế mà ngay cả một hớp cũng chẳng được đụng vào.”
 
-“Nếu không thì sao?”
+Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là *không có thai*, còn một vạch lượn sóng xoăn tít nghĩa là *có thai*. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay lấy điện thoại gọi cho Jack, muốn gào tướng lên qua ống nghe: *Jack! Jack Jack Jack Jack ơi, chúng ta sắp có em bé rồi!!!*
 
-“Nếu…” Giọng Holly run rẩy. Khóe mắt cô rơm rớm nước mắt.
+Thế nhưng cùng lúc đó, cô lại muốn khoảnh khắc trọng đại này phải diễn ra thật hoàn hảo và trang trọng. Cô muốn tận mắt ngắm nhìn biểu cảm trên gương mặt anh, muốn cảm nhận hơi ấm từ vòng tay, bàn tay cùng bờ môi anh, và lắng nghe nhịp đập rộn ràng của hai trái tim cùng hòa làm một.
 
-“Cậu có làm sao không đấy?”
+Thế là cô quyết định cúp buổi học, dành trọn cả ngày thong thả lướt mạng, ngắm nghía vô số quần áo sơ sinh, phụ kiện trẻ em và chăm chú đọc các mẹo vặt giúp thai phụ luôn giữ được tâm trạng phơi phới. Cô đi siêu thị sắm sửa đồ ăn, rồi tự tay vào bếp chuẩn bị bữa tối gồm toàn những món Jack mê mẩn nhất: ngô ngọt luộc nguyên bắp, bánh quy bơ sữa xốp mềm, cùng món chả thịt nướng meatloaf thơm nức mũi. Cô bày biện lại bàn ăn, thắp nến lung linh và cẩn thận rót một ly vang đỏ sóng sánh cho Jack, còn phần mình thì tuyệt đối không đụng một giọt. Theo đúng kế hoạch, anh sẽ về nhà vào lúc bảy giờ. Cô đã tính toán thời gian chuẩn xác đến từng giây.
 
-“Không. À có chứ, tớ… Chỉ là bị dị ứng thôi. Chúa ơi, năm nay tớ bị dị ứng thời tiết nặng quá. Nào, quay lại uống tiếp thôi.”
+Đúng 6 giờ 55 phút, chuông điện thoại reo vang, đầu dây bên kia là Jack. “Em yêu à, tối nay anh phải ở lại làm muộn rồi.”
 
-Họ quay lại căn bếp để nhập hội với Kate, Fred và Jack. Jack lúc này đã ăn đến chiếc bánh quy thứ hai, vừa nhai vừa chiêu thêm ngụm whiskey từ chiếc bình kẹp hông kim loại để cưỡng ép nuốt trôi. Mặt anh nhăn lại đầy đau khổ.
+“Thế sao? Muộn đến mức nào cơ anh?”
 
-“May quá, hai cậu quay lại rồi,” Kate đon đả. “Bây giờ thì mọi người có thể nếm thử bánh quy được rồi đấy.” Cô chìa chiếc đĩa ra.
+“*Rất* muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”
 
-Mỗi người đành cầm lấy một chiếc. Holly tống tọt cả chiếc bánh vào miệng, rồi lập tức tống thêm nửa ly margarita để nuốt chửng.
+“Vâng… nhưng chỉ tối nay thôi đúng không? Tối mai anh sẽ về ăn tối chứ?”
 
-Kate nhấm nháp một góc chiếc bánh xốp mềm. “Các cậu có thể cảm nhận trọn vẹn sự lành mạnh trong từng miếng bánh, đúng không nào!”
+“Ừ, anh nghĩ là được.”
 
-“Ừm, chắc
+Thế là cô đành tắt lò nướng, rồi lẳng lặng thổi tắt những ngọn nến vừa thắp. Cô giấu đĩa thịt nướng meatloaf vào tận góc khuất nhất trong tủ lạnh, nơi Jack sẽ chẳng đời nào vô tình nhìn thấy. Đoạn, cô gọi một chiếc pizza giao tận nhà rồi trải qua cả buổi tối lủi thủi trước màn hình máy tính và chiếc tivi rù rì.
 
-“Tớ còn chúc phúc cho chúng nữa đấy,” Kate hào hứng khoe.
+Tối hôm sau, cô quyết định thử vận may lần nữa. Lần này, cô bắt anh phải xác nhận chắc nịch từ trước.
 
-“Cậu chúc phúc cho… đống bánh á?”
+“Bảy giờ đúng chứ anh?”
 
-“Đúng thế, bằng một lời cầu nguyện. Để nguồn năng lượng an lành chảy vào bất kỳ ai thưởng thức chúng.”
+“Ừ, ừ, anh chắc chắn sẽ về nhà.”
 
-Holly nheo mắt nhìn chằm chằm vào cô bạn từng mang dáng vẻ điển hình của một cô gái trong hội nữ sinh đại học, nhưng giờ đây lại đang cài một vòng hoa trên mái tóc bết dính lâu ngày chưa gội. Cô bạn ấy bắt đầu thao thao bất tuyệt một tràng độc thoại lên án ngành công nghiệp thực phẩm chế biến sẵn.
+“Anh thật sự chắc chứ?”
 
-*Cậu ta điên thật rồi*, Holly mấp máy môi với Miriam, rất vừa vặn đúng lúc không ai khác chú ý.
+“Anh thề danh dự đấy.”
 
-Miriam thầm thắc mắc không biết cô bạn mình đã biến thành dân hippie sống xanh tự bao giờ và bằng cách nào. Ngay trên cửa tủ lạnh nhà Holly và Tom vẫn còn dán tấm ảnh chụp cả sáu người bọn họ từ mùa hè năm ngoái. Khi ấy, họ từng tham gia chuyến dã ngoại tập thể đến Hocking Hills, tận hưởng kỳ nghỉ cuối tuần dài để uống rượu vang, đi bộ đường dài và hồn nhiên thưởng thức những món ăn bình thường lấy ra từ đồ hộp, túi ni lông hay hộp giấy. Dạo đó, Kate vẫn dùng bột kem sữa có hương vị pha vào cà phê và bôi gel tạo kiểu lên mái tóc được gội sấy mỗi ngày. Trong ảnh, cô chải tóc phồng tướng, nhuộm vàng óng, mắt chuốt mascara và móng tay sơn màu bóng bẩy. Cô đứng cạnh Fred, người khi ấy còn mặc áo sơ mi kẻ sọc và đi đôi giày xỏ đi biển y hệt Tom. Trông ai nấy đều hoàn toàn bình thường và hạnh phúc, ngoại trừ Miriam và Jack: những kẻ bị gượng ép phải tạm gác mớ công việc
+Cô lại thắp nến, lại rót rượu vang, rồi kiên nhẫn hâm nóng lại món thịt nướng meatloaf. Cô bật một điệu nhạc êm dịu và thoa chút son môi. Đúng lúc ấy, Jack lại gọi tới.
 
-Jack của hiện tại trông lại vui vẻ hơn nhiều. Anh thản nhiên đội chiếc mũ fedora ngay trong nhà, chân xỏ dép tông, trên mặt rạng rỡ nụ cười thong dong của một kẻ vừa đánh một giấc ngủ trưa đẫy đà suốt cả buổi chiều. Fred cũng thay đổi rõ rệt, không hẳn về thần thái mà chủ yếu ở diện mạo. Anh diện chiếc quần sợi đay kết hợp với áo sơ mi rộng thùng thình thêu hoa văn quanh cổ áo, toàn thân toát lên vẻ tràn trề sinh lực. Holly trông vẫn như mọi khi, ngoại trừ nét mặt lộ rõ sự căng thẳng. Các đốt ngón tay cô nứt nẻ, dưới mắt trũng sâu quầng thâm đen. Lớp sơn móng tay đã bong tróc nham nhở nhưng cô chẳng còn tâm trí đâu mà dặm lại. Trông cô bồn chồn, thỉnh thoảng lại giật thót mình.
+“Chuyện là thế này…”
 
-Mức độ bồn chồn càng tăng lên khi bên ngoài đột nhiên vang lên một tiếng gầm rú dữ dội.
+“Sao thế anh?”
 
-“Cái gì thế nhỉ?”
+“Anh biết mình đã hứa sẽ có mặt ở nhà lúc bảy giờ, nhưng đùng một cái lại có việc khẩn cấp phát sinh.”
 
-Holly nốc cạn phần cocktail margarita còn lại trong ly. Tiếng động cơ gầm rú bên ngoài bỗng dịu xuống thành một tiếng gầm gừ đanh gọn. Ngay ngoài kia. Ngay trên lối vào nhà xe.
+“Ồ.”
 
-Thứ mà Tom vừa đem về nhà, nếu xét theo lý thuyết xác suất thống kê, còn nguy hiểm hơn đường trượt zipline sau sân vườn gấp nhiều lần.
+“Mọi người đang vắt chân lên cổ để hoàn tất một thương vụ triệu đô, ngặt nỗi con của một thành viên góp vốn lại lăn ra ốm, thành thử ra, ừm…”
 
-Điện thoại của Holly reo lên. Cô nhìn xuống màn hình.
+“Anh lại về muộn.”
 
-*Reng… reng… reng…*
+“Ừ. Đúng vậy đấy em.”
 
-Màn hình hiện tên:
+“Muộn như tối qua sao?”
 
-*Tom*.
+“Ừ. Anh thật sự xin lỗi nhé, em yêu. Đến ngày mai là mọi việc sẽ êm xuôi cả thôi. Anh cũng chỉ mong được phi ngay về nhà với em. Anh nhớ em nhiều lắm.”
 
-“Cậu không nghe máy à?”
+Đĩa thịt nướng meatloaf tội nghiệp lại một lần nữa bị tống ngược vào tủ lạnh. Cô tự nấu cho mình một hộp mì ống phô mai ăn liền. Và cô ăn luôn trong chảo cho đỡ phải rửa thêm bát đĩa.
 
-*Reng… reng…*
+Ngày mai. Dù sao thì ngày mai chắc chắn sẽ khá khẩm hơn.
 
-“A-lô?”
+Thế nhưng ngày mai rồi cũng tới, và ít nhất thì lần này anh đã kịp gọi điện báo trước khi cô kịp bật lò hâm nóng lại món thịt nướng meatloaf thêm một lần nữa.
 
-“Holly!” Tom hét tướng lên qua điện thoại, át cả tiếng động cơ đang gầm gừ phía sau, vang vọng đến mức tất cả mọi người trong phòng đều nghe thấy. “Ra ngoài này đi! Ra mà xem này!”
+“Anh xin lỗi. Bọn anh vừa chốt xong cái thương vụ lớn đó rồi, nhưng một vị thành viên góp vốn lại nhờ anh chấp bút gấp một bài phát biểu cho buổi hội thảo ở đoàn luật sư vào sáng mai. Tận chiều muộn anh mới nhận được chỉ thị này.”
 
-Holly ngắt cuộc gọi. Khóe mắt cô
+“Nên là…”
 
-“Cậu định…”
+“Nên là… tối nay anh lại phải cày muộn rồi.”
 
-“Bọn mình có nên…”
+“Nghe này Jack, em thật sự có chuyện rất quan trọng cần nói với anh…”
 
-Holly ực một hớp lớn rồi quay ngoắt người sải bước ra cửa. Cả nhóm lục tục nối gót theo cô, bước ra hàng hiên, đi xuống bậc thềm rồi tiến ra khoảng sân trước. Tom đang ở ngay lối vào nhà xe, hai chân dạng rộng, ngồi chễm chệ trên một chiếc mô tô mới toanh.
+“Ôi chết tiệt, thư ký vừa báo anh có một cuộc gọi nối máy gấp. Chuyện đó để sau được không em?”
 
-Anh nở nụ cười rạng rỡ đến tận mang tai. “Tuyệt đỉnh đúng không!”
+“Ờ, được thôi. Sao cũng được, Jack.”
 
-“Cái quái quỷ gì thế kia hả?!” Holly gào lên.
+“Cảm ơn em vì đã luôn thấu hiểu cho anh nhé, em yêu.”
 
-“Xe mô tô mà…”
+Cô cúp máy. Cô lẳng lặng dời đĩa thịt nướng meatloaf ra mép ngoài tủ lạnh, vị trí đập ngay vào mắt để Jack có thể tự tìm thấy và tự cho vào lò vi sóng mà hâm lấy. Cô mở một gói khoai tây chiên giòn rụm rồi chấm đẫm sốt phô mai béo ngậy. Cô dùng thêm một que thử thai nữa cho chắc ăn, rồi đặt ngay ngắn trên bàn bếp cạnh một mẩu giấy ghi chú, phòng trường hợp hai cái vạch xoăn tít kia vẫn chưa đủ rõ ràng đối với một bộ óc luật sư:
 
-“À hay nhỉ! Tôi thừa biết nó *là cái gì* rồi, Tom ạ. Nhưng tại sao nó lại *ở đây*? Ôi lạy Chúa, đừng nói với tôi là anh mới mua nó đấy nhé!”
+*Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.*
 
-“Anh mua thật đấy!” Anh hớn hở đáp, bằng một năng lực siêu nhiên nào đó vẫn hoàn toàn mù tịt trước cơn thịnh nộ đang bốc hỏa ngùn ngụt của vợ.
+Một lát sau, cô buồn tay ăn sạch bách chỗ bánh quy bơ sữa. Rồi cô leo lên chiếc giường trống trải, chìm sâu vào giấc ngủ mà chẳng buồn đợi ai.
 
-“Tại sao chứ?! Đầu óc anh có bị dở hơi không thế hả?”
+Cô thức giấc trong vòng tay ấm áp của Jack. Vài vệt nắng ban mai rọi xiên qua những khe rèm cửa khép hờ. Đồng hồ điện tử nhấp nháy chỉ 9 giờ 17 phút. Bàn tay Jack nhẹ nhàng luồn qua mái tóc cô, trượt khẽ xuống ngực, rồi dịu dàng dừng lại, bao trọn lấy vùng bụng dưới của cô.
 
-“Anh vẫn luôn muốn có một chiếc mô tô mà. Với lại anh nghĩ…”
+“Anh về rồi đấy à.”
 
-“Tắt máy ngay, Tom!”
+“Anh về rồi đây.”
 
-Tom âu yếm vuốt ve bình xăng chiếc mô tô.
+“Hôm nay anh không phải đi làm sao?”
 
-*Biết rồi, em đây quyến rũ chết người mà*, cỗ máy như rù rì đáp lời.
+“Anh vừa gọi điện báo ốm xin nghỉ rồi.”
 
-“Em có muốn chạy thử một vòng không?” Anh hỏi.
+“Ồ, tốt quá. Nhưng liệu có ổn không đấy? Em không muốn anh gặp rắc rối ở văn phòng đâu.”
 
-“Cái gì cơ?”
-
-“Anh nghĩ hai đứa mình có thể cùng nhau vi vu, rồi…”
-
-“Anh bị *điên* rồi sao, Tom? *Thật đấy à?*” Holly thét lên lanh lảnh. “Anh thật sự nghĩ mình cứ thế xách mông ra ngoài tậu một chiếc mô tô về là xong đấy ư? Anh có biết cái thứ quỷ này nguy hiểm đến mức nào không hả? Rốt cuộc trong đầu anh đang chứa cái giống gì thế?”
-
-“Anh chỉ…”
-
-“Làm ơn tắt máy giùm cái!”
-
-Tom ngoan ngoãn tắt máy. “Anh vẫn luôn muốn có một chiếc mà…”
-
-“Anh nghĩ cái quái gì trong đầu thế
-
-“Đừng để thủy triều cuốn trôi mình chứ,” Tom đáp, ánh mắt lấp lánh vẻ hoài niệm mơ màng. “Em phải… em phải tóm ngay lấy mõm con cá mập bò rồi cưỡi nó ra khơi!”
-
-Các ngón tay của Holly siết chặt thành nắm đấm. Cổ họng cô phát ra thứ âm thanh nửa như rên rỉ, nửa như gầm gừ. “Đồ khốn nạn!” cô hét lên. “Để tôi cho anh biết thế nào là cá mập!”
-
-Nói rồi, cô tung một cú thụi thẳng vào mũi anh.
-
-Đám trẻ (ít nhất là bốn đứa trong số chúng) đã lững thững bò từ sân sau ra xem. Khi Holly đấm trúng mặt chồng, Rory reo lên đầy thích thú. Lindsey co rúm người lại. Hai đứa con nhà Marino thì vội nắm chặt lấy những viên thạch anh cân bằng Luân xa đeo trên cổ.
-
-Đứa trẻ thứ năm - đứa tháo vát nhất, liều lĩnh nhất và hiện đang trùm kín người trong bộ đồ Người Nhện - đã âm thầm xếp chồng những chiếc ghế gấp ngoài sân thành một tòa tháp ở phía sau. Cậu bé thoăn thoắt trèo lên tận mái nhà xe. Cậu mang theo vài cuộn ruy băng (thứ mà theo logic của một đứa trẻ năm tuổi chính là tơ nhện). Cậu đã lên kế hoạch tỉ mỉ - như sau này cậu tự hào kể lại với mẹ trên xe cứu thương - là bắn tơ quấn quanh ống khói rồi đu người từ mái nhà xe vọt thẳng lên mái nhà chính. Tuy nhiên, khi cậu ném cuộn ruy băng vào ống khói, nó lại chẳng chịu dính tẹo nào. Cuộn ruy băng lăn lông lốc rồi rơi thẳng xuống đất. Mất đi tơ nhện, kế hoạch đu dây phá sản, cậu đành tìm cách trèo xuống bằng tòa tháp ghế gấp.
-
-Cậu nhóc bước một chân khỏi mép mái nhà, đầy cẩn trọng nhưng cũng thừa tự tin, chỉ tiếc là vị trí đặt chân
-
-Cậu thét lên: “A A A A A A A!”
-
-Ở sân trước, giữa lúc Tom đang để máu mũi chảy ròng ròng xuống chiếc mô tô mới toanh còn Holly vung tay chuẩn bị bồi thêm cú nữa, tất cả mọi người đồng loạt ngoái đầu về hướng tiếng thét.
-
-“A A A A A! Á! A A A A A A!”
-
-Lũ trẻ cùng Fred, Kate và Jack đồng loạt cắm đầu chạy về phía phát ra tiếng động, duy chỉ có Holly đứng sững như trời trồng.
-
-Miriam nhìn cô bạn thân, nhận ra nỗi hoảng loạn tột cùng đang chiếm trọn gương mặt cô. “Holly?”
-
-“Không…” Holly lắc đầu nguầy nguậy. “Không, không, không, không, không, KHÔÔÔÔÔNGGGGG!”
-
-Tom lảo đảo tiến lại gần vợ. Một tay anh bóp chặt chiếc mũi đang be bét máu, tay kia với về phía cô. Holly vung tay hất văng anh ra.
-
-“Là thằng bé Chad!” Jack cất tiếng gọi lớn từ sân sau. Thực ra ai nấy đều đã đoán ra từ trước. Dĩ nhiên là Chad chứ còn ai vào đây nữa.
-
-“Á! Á! A A A A A!”
-
-“Thằng bé… Thằng bé không sao đâu!” Jack hét lên. “Tôi nghĩ nó chỉ bị gãy tay thôi.”
-
-Theo đúng lẽ thường, Holly phải lao ngay tới chỗ con trai. Lẽ ra cô phải cảm thấy thở phào nhẹ nhõm mới phải. Thế nhưng cô vẫn đứng chôn chân tại chỗ, chết lặng trong nỗi kinh hoàng khôn xiết, để rồi từ cổ họng bật ra một tiếng thét nguyên thủy, xé tan không gian.
+“Làm sao họ biết được anh không ốm thật cơ chứ,” Jack nói. “Mà vả lại, chuyện đó cũng chẳng quan trọng. Điều duy nhất quan trọng trong ngày hôm nay đang ở ngay trên chiếc giường này rồi.”

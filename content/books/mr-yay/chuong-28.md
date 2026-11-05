@@ -1,112 +1,141 @@
-# THANH VÁN TRƯỢT SHOT-SKI
+# MIRIAM VÀ CÁC THÁM TỬ
 
-## THÁNG HAI
+**HOLLY NGÂM VIỆT QUẤT** với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên rồi).
 
-## THANH VÁN TRƯỢT SHOT-SKI
+Thế rồi, một tiếng mèo gào thất thanh dội lên từ ngoài sân. Tiếp đến là một tiếng rầm trầm đục. Rồi tiếng la hét. Rồi tiếng khóc lóc sụt sùi.
 
-**MR. YAY MUỐN TÌM CHÚT VUI VẺ.**
-“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”
+Holly vội lao ra ngoài. Cậu nhóc Chad đang ngồi bệt giữa đống bùn dưới gầm hiên nhà. Một vết cào rớm máu dài ngoẵng vắt ngang má chú nhóc. Máu, nước mắt và nước mũi lem luốc chảy dài trên mặt, nhỏ từng giọt xuống cổ chiếc áo sơ mi trắng.
 
-“Lúc nào tao cũng xì hơi ra khói à? Hay tao kiểm soát được?”
+“Chad! Có chuyện gì thế này!”
 
-“Lúc nào cũng thế.”
+Chad ủ dột ngước nhìn mẹ, vừa nấc vừa sụt sịt: “Con mèo cào mặt con.”
 
-“Ít nhất với mồ hôi bia, tao có thể làm cho cơ thể lạnh đi để khỏi đổ mồ hôi.”
+Thực ra, cậu nhóc chỉ đơn giản muốn con mèo cùng nhảy xuống khi mình gieo mình từ trên hiên nhà. Cậu đang chơi trò nhảy dù, y hệt như bố. Đã là nhảy dù thì cẩn tắc vô áy náy, cậu bắt buộc phải có một người đồng đội kinh nghiệm, mà con mèo lại là sinh thể duy nhất trong nhà sở hữu kỹ năng đỉnh cao đó. Dù sao thì cậu cũng từng thấy nó nhảy từ trên hiên xuống vài lần rồi mà.
 
-“Trừ khi mày lo lắng. Lúc đó nách mày sẽ đầm đìa bia.”
+Holly rửa sạch rồi cẩn thận băng bó vết thương còn rỉ máu trên má Chad. Cô lột bộ đồ dính đầm đìa máu lẫn bùn đất của chú nhóc ra, thay bằng một bộ quần áo tối màu lịch thiệp (để đỡ lộ vết bẩn, nếu chẳng may có thêm sự cố). Xong xuôi, cô ực một hơi cạn sạch ly cocktail việt quất húng tây thứ hai. Đến lúc Jack, Miriam, Kate, Fred cùng lũ trẻ kéo tới, Holly đã bình thản nhấp sang ly thứ ba.
 
-“Đằng nào thì cũng khó mà giữ nổi một công việc.”
+“Nhưng tớ bắt buộc phải uống thôi,” Holly phân trần. “Sau từng ấy chuyện phi lý.”
 
-“Trừ khi mày làm rapper,” Tommy nói. “Hoặc làm DJ cho rapper đó.”
+Cô rót một ly rồi chuyền cho Miriam. Miriam nhấp thử một ngụm nhỏ.
 
-Mr. Yay đi sắm đồ. Anh mua cần sa dạng búp, thuốc lá điện tử, bánh kẹo cần sa và tinh dầu. Anh tậu thêm một tấm thảm treo tường in hình đầu người ngoài hành tinh phát sáng, kèm theo một chiếc đèn dạ quang ánh tím. Anh mua một sợi dây chuyền vàng cùng một cái bọc răng vàng. Chẳng phải vàng thật, nhưng ai mà biết được cơ chứ? Anh mua một thùng rượu Fireball, một thùng rum và năm mươi pound thức ăn cho chó.
+“Ôi, ngon thật đấy.”
 
-Anh nướng nốt những đồng tiền bán xe cuối cùng vào một cái loa to chềnh ễnh. Rồi trong suốt một tuần, hoặc ba hay bốn tuần gì đó, anh và Bratty phê pha ngập ngụa, cày vô số trò điện tử và tra tấn màng nhĩ bằng những nhịp rung động âm trầm Sub-bass rung trời chuyển đất.
+“Còn Kate thì sao?”
 
-Thế nhưng, đâu đó giữa làn sương mờ mịt của những tuần lễ ấy, Bratty vẫn làm được vài việc có ích. Hoặc ít nhất, anh cũng phóng vài mũi tiêu vào bóng tối. Anh chẳng biết mũi nào sẽ trúng đích. Anh tự tạo một trang web. Anh tải nhạc lên mọi nền tảng phát nhạc trực tuyến. Anh gửi các bản phối đến các phòng thu và công ty đại diện. Anh thậm chí còn tự dựng hẳn một video ca nhạc. Video đó thực ra chỉ là vài đoạn phim ngắn quay cảnh chú chó Tux đội chiếc mũ cướp biển, còn Tommy thì đeo miếng che mắt, miệng phì phèo hai điếu cần cùng lúc. Tommy đã tự vẽ miếng che mắt đó bằng bút dạ không xóa.
+“Chắc tối nay tớ xin kiêng vậy.”
 
-“Nhìn tao ngầu phết đấy chứ,” Tommy bảo, khi miếng che mắt mờ dần thành một vệt mực lem nhem màu xanh xám. “Trông như tao vừa sống sót qua một trận ẩu đả ra trò vậy.”
+“Cái gì cơ? Tối thứ Sáu rồi mà! Đợi đã, không lẽ cậu… đang có bầu?”
 
-Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ.
+“Không, tớ đang trong liệu trình thanh lọc cơ thể bằng trà kombucha,” Kate phớt tỉnh đáp. Cô mở chiếc thùng giữ nhiệt nho nhỏ mang theo, lôi ra một chai nước màu xanh lục đục ngầu, rồi điềm nhiên rót chút chất lỏng đó vào ly cocktail của mình.
 
-Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, *“Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,”* nhưng những gì bố Bratty nghe được lại là, *“Con trai ông đúng là một kẻ thất bại vô dụng.”* Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.
+“Đó là trà kombucha ư? Nó là cái thứ gì thế?”
 
-Thế nên anh không hé răng với Tommy, cũng chẳng buồn kiểm tra xem có ai ngó ngàng tới cái video ngớ ngẩn của mình hay lắng nghe những bản nhạc ấy hay chưa. Thay vào đó, anh phê pha quên trời đất rồi chạy bộ cùng chú chó của mình, tiện tay nhặt nhạnh những thứ người ta vứt đi bên đống rác. Chú chó thì bới tìm xương gà cùng những miếng pizza rơi vãi trên đường. Còn Bratty thì nhặt được một hồng tâm phi tiêu, dẫu chẳng có lấy một mũi tiêu nào. Rồi anh tìm thấy một tấm ván trượt tuyết lẻ loi. Anh cùng Tommy lấy keo dán bốn cái ly uống rượu mạnh lên đó, biến nó thành một thanh ván trượt Shot-Ski.
+“Đây là loại trà lên men bằng cộng sinh khuẩn và nấm men,” Kate từ tốn giải thích. “Tớ tự ủ ở nhà đấy.”
 
-“Giờ thì tụi mình chỉ cần kiếm thêm hai em gái nóng bỏng để cùng chơi trò Shot-Ski này nữa thôi,” Tommy nói.
+“Nghe… kỳ quặc thật đấy,” Holly nhận xét, không quên liếc nhìn Miriam một cái đầy ngụ ý. “Uống thứ đó có say được không?”
 
-Mỗi tội họ đã cạn sạch rượu rum, và chai Fireball cũng chỉ còn trơ đáy.
+“Có lẽ là không đâu.”
 
-“Có khi chúng mình phải kiếm việc làm thôi,” Bratty nói.
+“Chán chết đi được. Ôi, xin lỗi nhé, tớ chỉ là…” Holly hớp thêm một ngụm cocktail thật to. “Tớ đang căng thẳng thần kinh muốn điên lên đây. Toàn bộ cái vụ Chad nhảy từ trên hiên xuống cùng con mèo ấy…”
 
-Mr. Yay đời nào chịu đi làm.
+“Dù sao thì mọi chuyện vẫn còn có thể tồi tệ hơn nhiều mà,” Miriam vỗ về.
 
-“Chán chết đi được. Mày nhìn cái răng vàng này xem. Thế nào, mày muốn tao nhe cái răng này ra đứng bỏ đồ vào túi cho khách ở siêu thị chắc?”
+Thực ra, Chad vẫn hoàn toàn ổn. Cậu nhóc đang ở trên tầng, dậm chân thình thịch chạy dọc hành lang và gào thét hết cỡ bình sinh.
 
-Mr. Yay chỉ muốn ngủ nướng đến tận chiều muộn rồi thức suốt đêm thâu.
+“Tớ biết chứ. Rõ ràng là vậy rồi. Tớ…” Holly lại nhấp thêm một hớp rượu nữa. “Vấn đề là, ngay sau khi chuyện đó xảy ra, tớ… tớ hoàn toàn hoảng loạn. Tớ tự nhốt mình trong nhà vệ sinh rồi khóc nức nở. Kiểu khóc dữ dội đến mức tớ bắt đầu thở gấp luôn ấy.”
 
-Mr. Yay muốn nhảy múa.
+“Ôi, Holly…”
 
-Mr. Yay muốn làm nhạc. Và họ đã làm thế thật, Tommy cùng với Bratty, mải miết sáng tác và phiêu bồng theo từng nhịp phách qua những đêm muộn. Nhưng họ tuyệt nhiên chẳng bao giờ đụng đến chuyện hậu cần tính toán.
+“Tớ biết chứ.” Một giọt nước mắt chực trào nơi khóe mắt Holly, nhưng cô đã nhanh tay gạt đi. “Thậm chí chuyện đó còn chẳng liên quan gì đến lý trí cả. Ý tớ là, Chad vẫn ổn đấy thôi.”
 
-“Tao là kiểu người hướng tới bức tranh toàn cảnh,” Mr. Yay tuyên bố. “Tao tràn ngập tâm hồn và chất thơ, chẳng khác gì Jack Kerouac, hoặc giả như Lord Byron vậy. Chỉ có điều cơ bụng tao chuẩn hơn, và hàng họ cũng khủng hơn thôi.”
+“Ừ, Chad vẫn hoàn toàn ổn.”
 
-Anh hừng hực tính dục, ngập ngụa khói thuốc và tràn trề lòng kiêu hãnh, đúng bản chất của một rapper, đúng chất Mr. Yay. Còn khi trở về làm Tommy, anh lại có phần dè dặt hơn. Nhưng ẩn sâu trong mắt anh luôn có một tia sáng mang màu sắc tiên tri, như thể anh linh cảm được điều gì sắp sửa xảy đến.
+“Lỗi là ở tớ đấy,” Holly than thở. “Cảm xúc của tớ dạo này cứ loạn cào cào lên. Như hôm thứ Hai nhé, tớ bảo Chad dọn mấy con khủng long chơi dở trên sàn nhà đi, và dĩ nhiên là nó đâu có dọn. Rồi tớ suýt nữa thì vấp phải con khủng long ba sừng, thế là tớ bộc phát khóc rống lên. Tớ cứ đứng trố mắt nhìn chằm chằm vào cái con khủng long ba sừng ngớ ngẩn đó mà khóc hết cả nước mắt. Tớ cảm thấy buồn bã sâu sắc, buồn hơn bất cứ lúc nào trong đời. Thế rồi, đùng một cái, nỗi buồn đó bốc hơi sạch bách. Tớ lại ngơ ngác đứng đấy, tự hỏi rốt cuộc cớ làm sao mà mình lại khóc lóc gào thét như thế.”
 
-Cơn gió đã bắt đầu đổi chiều.
+“Tớ nhớ mình cũng từng rơi vào cảnh tương tự sau khi sinh bé Mabel,” Kate đồng cảm lên tiếng. “Trầm cảm sau sinh đấy.”
 
-“Nhưng bọn mình cần tiền trả tiền nhà.” Bratty vẫn là kẻ thực tế. “Hay là chúng mình tìm việc gì đó, tao cũng không biết nữa, đại loại giông giống việc làm? Nhưng không phải một công việc gò bó thực sự.”
+“Ừ, tớ cũng từng nếm trải trò đó rồi,” Holly bảo. “Nhưng lần này thì khác hẳn. Nó mãnh liệt hơn nhiều. Giống như… giống như có một nỗi buồn ngấu nghiến nuốt chửng lấy tớ rồi lại nhè tớ ra vậy. Tớ chẳng biết phải giải thích thế nào cho phải nữa. Cậu có nghĩ… Miriam này, tớ có nên đi gặp bác sĩ không? Cậu có nghĩ tớ bị rối loạn lưỡng cực hay hội chứng gì tương tự thế không?”
 
-“Cái gì, kiểu như đi bán huyết tương hả?”
+“Đi gặp chuyên viên trị liệu tâm lý chưa bao giờ là một lựa chọn tồi cả,” Miriam ôn tồn đáp. “Nhưng những gì cậu vừa mô tả không hề giống biểu hiện của hội chứng rối loạn lưỡng cực. Và tớ cũng chưa thấy điểm nào ở cậu khiến tớ phải nghĩ cậu mắc bệnh đó cả.”
 
-“Cũng được chứ sao. Nhưng tao đang nghĩ đến cái gì đó kiểu như, kiểu như…”
+“Ừ, nghe vậy thì mừng quá.” Holly ực một hơi cạn sạch ly cocktail, rồi lại thản nhiên rót thêm ly nữa. “Nhưng thế thì tớ bị làm sao cơ chứ? Ý tớ là, ngoại trừ việc có lẽ tớ đã nỡ uống quá nhiều rượu ra.”
 
-Cách căn hộ ba dặm là một dải các quán bar, nhà hàng và hộp đêm, nơi một rapper sở hữu chiếc răng vàng cùng con mắt thâm tím đang mờ dần có thể tìm được một thứ gì đó tàm tạm gọi là công việc. Tommy từng quen một người, người đó quen một người khác, và người này lại quen một cô nàng quản lý hộp đêm đang cần người đi phát tờ rơi. Thù lao gồm có: vé vào cửa miễn phí, hai ly đồ uống miễn phí, cộng thêm hai mươi đô la cho một xấp tờ rơi. Chưa hết, họ còn có thể bỏ túi thêm mười đô nữa nếu chịu khoác tấm bảng quảng cáo hai mặt kẹp trước kẹp sau đi diễu hành dọc khu phố.
+Từ phòng khách, các cô có thể nhìn thấy mấy ông chồng đang cùng nhau lo liệu bữa tối. Chồng của Miriam đang diện một chiếc mũ fedora mới toanh. Anh đã khăng khăng từ chối bia để chọn cho mình một ly thủy tinh đế dày đựng whiskey (rất đúng chuẩn thám tử tư), nhưng nhìn cái cách mũi và môi anh nhăn nhúm lại, rõ ràng là anh ghét đắng ghét cay thứ đồ uống này. Chồng của Holly thì mặc chiếc áo sơ mi kẻ sọc xanh cắm thùng cẩn thận trong chiếc quần jean phẳng tắp. Cơ thể anh vạm vỡ gân guốc cùng làn da nâu bóng giòn - thành quả của việc chăm chỉ bôi ké kem nhuộm da nhân tạo của vợ. Chồng của Kate cũng khoác lên mình bộ đồng phục y hệt: sơ mi kẻ sọc nhét trong quần jean là nếp thẳng tắp. Điểm khác biệt duy nhất là thay vì đi đôi giày lười như mọi khi, anh lại xỏ chân vào đôi dép Birkenstocks đi kèm tất, còn mái tóc vốn ngắn củn thường ngày giờ trông đã hơi xù xì, bờm xờm.
 
-Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: *Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư?* Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.
+“Tớ đoán chuyện này cũng liên quan đến lão chồng tớ nữa,” Holly thở dài. “Dạo này lão ấy thật không thể chịu nổi. Kể từ khi đi nhảy dù về, suốt ngày lão chỉ biết ‘nhảy dù thế này’ với ‘nhảy dù thế kia’. Tớ thề đấy, nếu còn phải nghe thêm một câu nào về chuyện đó nữa… Đã thế lão còn xị mặt hờn dỗi chỉ vì tớ không chịu đi nhảy dù cùng.”
 
-“Trông phấp phới hiên ngang phết đấy chứ,” anh bảo. “Nó giống như cánh buồm, còn cơ thể tao chính là một con tàu lướt sóng.”
+“Ít ra thì anh ấy vẫn bình an vô sự,” Miriam cất lời.
 
-Tommy tống một viên kẹo dẻo vào miệng rồi đội chiếc mũ cướp biển lên đầu. Thế là cả hai khoác tấm bảng quảng cáo kẹp người, lững thững cuốc bộ ba dặm tới con phố sầm uất. Họ rảo bước trên vỉa hè, chia phát tờ rơi cho từng người qua đường. Tommy phớt tỉnh huýt sáo một khúc hải tặc ca.
+“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng với lão: ‘Anh Tom, anh mà còn dám hó hé câu nào về trượt zipline nữa, thì anh biết thừa thằng Chad sẽ buộc dây thừng từ mái nhà sang cái cây đằng kia rồi trượt xuống cho xem. Anh có muốn thế không?’ Thề luôn, tớ sắp chạm đến giới hạn chịu đựng *của tớ* rồi. Nhưng thôi, nói về tớ thế đủ rồi.” Holly quay sang nhìn Miriam. “Thế mọi chuyện với Ngài Casablanca đằng kia ra sao rồi?”
 
-Bratty bỗng cảm nhận được một cơn gió lạ đột ngột thổi qua vạt áo. Anh cố không nghĩ ngợi xem nó báo hiệu điều gì, nhưng nỗi bất an quen thuộc vẫn chực trào dâng. Hội chứng rối loạn lo âu, chuyên viên trị liệu tâm lý của anh từng đặt tên cho nó như thế. Có điều, cảm giác lần này lại cuồng nhiệt và dữ dội hơn nhiều, tựa hồ anh đang cưỡi trên đỉnh một ngọn sóng thần sắp sửa vỡ tung xé toạc không gian quanh mình, vừa đáng sợ lại vừa choáng ngợp đến tận cùng. Cơn gió mỗi lúc một lồng lộn thổi mạnh.
+“Cũng ổn, tớ đoán thế…” Miriam trả lời.
 
-Anh nheo mắt nhìn về phía cuối đường, tim đập thình thịch từng hồi liên tiếp. Cách đó không xa là hai cô gái tóc nâu tầm ngoài đôi mươi đang rảo bước về phía họ. Ừ thì trông họ cũng nóng bỏng thật đấy, nhưng chỉ là kiểu nóng bỏng làm nền trong một khung hình đông đúc mà thôi. Thứ thực sự nổi bật ở tiền cảnh chính là đôi mắt. Một trong hai cô gái, người có vóc dáng thấp hơn, sở hữu đôi mắt to tròn biểu cảm đang dán chặt vào Tommy không rời. Đôi mắt ấy nheo lại. Đầu cô hơi nghiêng sang một bên. Cô thì thầm điều gì đó vào tai cô bạn cao kều đi cạnh rồi giơ tay chỉ trỏ. Cô bạn gật đầu lia lịa, mắt sáng rực lên. Một cô hét toáng vì phấn khích, cô nàng thấp hơn cũng ré lên theo, và rồi cả hai vừa hú hét vừa vồn vã lao xé gió tới chỗ Tommy.
+“Đó là một chiếc mũ mới à?” Holly hỏi.
 
-“CHÚA ƠI!”
+“Đúng vậy.”
 
-“Đúng là anh ấy thật rồi!”
+“Trông anh ấy bảnh đấy. Mà như thế tức là…”
 
-“Đúng là anh rồi!”
+“Cái gì cơ?”
 
-“Mr. Yay!”
+“Thì, tớ mà là cậu tớ sẽ cẩn thận đấy, nếu chồng tớ đột nhiên ăn mặc bảnh bao hẳn lên,” Holly nói.
 
-“Có thật là…”
+“Mờ ám thật đấy,” Kate gật đầu đồng tình. “Mặc dù chồng tớ trông cũng cực kỳ bảnh bao trong đôi tất đi cùng dép sandal kia kìa.”
 
-Mr. Yay nở một nụ cười rạng rỡ hết cỡ. Chiếc răng bọc vàng của anh lập tức lóe sáng lấp lánh dưới ánh mặt trời.
+“Hà! Chuẩn đấy.”
 
-“Á á á!”
+“Trong lớp yoga của tớ có một chị này,” Kate kể, “chồng chị ấy - à thì giờ hai người ly hôn rồi - nhưng chị ấy bảo trước khi chuyện đó xảy ra, ông chồng bắt đầu ăn mặc đẹp hơn, xịt nước hoa, chăm tập thể dục hơn hẳn. Mấy cậu biết đấy, vì gã đang cố gây ấn tượng với cô nào đó.”
 
-“Em không thể tin nổi vào mắt mình nữa!”
+Miriam liếc nhìn sang chồng mình. Trông anh phong độ hơn, vui vẻ hơn và thư thái hơn hẳn. Trên mặt anh luôn thường trực một nụ cười cùng ánh mắt lấp lánh rạng rỡ.
 
-“Bọn em mê anh chết đi được!”
+“Dạo này Jack cư xử cứ kỳ kỳ thế nào ấy,” Miriam nói. “Và dạo gần đây mùi trên người anh ấy đúng là có khác thật. Tớ chưa từng nghĩ đến nước hoa, nhưng chắc chuẩn là nó rồi. Chúa ơi, anh ấy chưa từng xịt nước hoa kể từ trước khi bọn tớ kết hôn cơ đấy.”
 
-“Đỉnh thực sự!”
+“Cậu có hỏi anh ấy về chuyện đó không?” Kate hỏi.
 
-“Anh làm gì ở chốn này thế?”
+“Chưa…”
 
-“Tối nay anh có biểu diễn ở câu lạc bộ này không?”
+“Cậu phải đối chất với anh ấy đi chứ,” Holly nói, giọng hào hứng quá đà (đơn giản vì cô đã uống đến ly cocktail thứ tư rồi). “Cậu nên thẳng thắn yêu cầu anh ấy nói rõ xem có phải đang ngoại tình hay không.”
 
-“Bảo có đi mà, em sẽ phát điên lên vì sướng mất!”
+“Ôi không, cậu không thể làm thế được,” Kate ngắt lời. “Lỡ anh ấy không ngoại tình thì sao? Khi đó cậu sẽ trông giống hệt một kẻ ghen tuông mù quáng.”
 
-“Chúa ơi, anh cho em xin chữ ký được không?”
+“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại *khiến* anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”
 
-“Cho em nữa với! Nha?”
+“Thế anh ấy có nhắc đến người phụ nữ nào không?” Kate hỏi. “Cô Jessica hay ai đó đại loại thế?”
 
-“Còn phải hỏi nữa à, chuẩn luôn,” Mr. Yay đáp tưng tửng. “Hai em muốn ký vào đâu nào?”
+“Chị ấy là thành viên góp vốn ở công ty luật của anh ấy,” Miriam giải thích. “Dạo này Jack làm việc cho chị ấy rất nhiều. Chiều mai anh ấy còn phải xử lý một vụ việc cho chị ấy nữa.”
 
-“Ừm… ngay đây này.” Cô gái thấp hơn kéo áo phông lên rồi chỉ tay vào thềm ngực. “Nhưng nhớ ký thẳng lên áo ngực của em nhé. Em không muốn chữ ký bị trôi mất lúc tắm đâu.”
+“Nhưng nhỡ anh ấy không thực sự đến chỗ làm thì sao?” Holly vặn lại.
 
-Mr. Yay ung dung thò tay vào túi quần. Anh rút ra một cây bút dạ dầu ngòi to tướng, cứ như thể bản thân đã dự liệu trước được tình huống ngàn năm có một này từ lâu lắm rồi, đoạn nắn nót đặt bút ký tên.
+“Đáng nghi cực kỳ nhé,” Kate hùa vào. “Ý tớ là, ai lại đi làm vào chiều thứ Bảy cơ chứ?”
 
-“Vậy thì,” anh chớp mắt, chất giọng sang sảng cất lên, “hai người đẹp có hứng thú làm một chầu rượu trên thanh ván trượt Shot-Ski không nào?”
+“Jack chứ ai,” Miriam đáp. “Jack lúc nào chẳng làm việc.”
+
+“Thế lại càng đáng nghi hơn đấy,” Holly phán trong cơn say.
+
+“Làm sao cậu biết chắc anh ấy thực sự đi làm?”
+
+“Cậu nên bám theo anh ấy để tìm hiểu xem sao.”
+
+“Nhưng cậu phải cẩn thận kẻo bị anh ấy phát hiện đấy.”
+
+“Bọn mình có thể đi xe của tớ,” Holly đề xuất.
+
+“Để Fred trông đám trẻ cho,” Kate tán thành. “Bọn mình sẽ bảo với họ là đi mua sắm.”
+
+“Cậu có ống nhòm không? Bọn mình sẽ cần đến nó đấy.”
+
+“Nên mang theo cả bộ đàm nữa.”
+
+“Và máy ảnh nữa chứ.”
+
+“Cả ba còn phải cải trang nữa.”
+
+“Kiểu như đội tóc giả với đội mũ ấy.”
+
+“Và đeo kính mát nữa.”
+
+“Để anh ấy không nhận ra bọn mình.”
+
+Miriam ừng ực uống cạn phần cocktail còn lại, coi đó như liều thuốc xoa dịu trước sự nhiệt tình đáng sợ của hai cô bạn.
+
+Holly nheo mắt cười toe toét. “Bọn mình sẽ giống như những thám tử thực thụ vậy!”

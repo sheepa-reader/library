@@ -1,53 +1,61 @@
-# PHÓ CHỦ TỊCH
+# HỒI TƯỞNG
 
-## NGOẠI TRUYỆN
+**BRATTY**
 
-## PHÓ CHỦ TỊCH
+**CẬU BÉ ĐANG ĐÓI.** Cậu mới tám tuổi.
 
-**HÃY TƯỞNG TƯỢNG BẠN** *không phải* là Phó Chủ tịch Marketing của tập đoàn công nghệ đa quốc gia Machsai Inc. có trụ sở chính tại Tokyo, Nhật Bản.
+Cậu đói, đói, đói, đói khủng khiếp. Cơn đói tựa như một hố đen thăm thẳm, và cho dù cậu có tống bao nhiêu thức ăn vào cái hố không đáy ấy thì nó vẫn cứ chực chờ ở đó, rỗng hoác.
 
-Hãy tưởng tượng bạn chỉ là một kẻ hoàn toàn vô danh.
+Bradford Pierson đứng trong phòng chứa đồ ăn giữa bóng tối mịt mùng.
 
-Bạn là một nhân viên văn thư. Bạn đã cần mẫn xử lý giấy tờ suốt một thập kỷ, và bạn sẽ chẳng bao giờ trở thành bất cứ thứ gì khác ngoài một nhân viên văn thư.
+Cậu không dám bật đèn.
 
-Đây tất nhiên không phải là cuộc sống bạn ước mơ, nhưng đời mà, đâu phải lúc nào ta cũng ước sao được vậy. Hay ít nhất thì những bài hát trên đài vẫn thường ngân nga như thế.
+Cậu là đồ đần độn, bà ta từng bảo thế. Chẳng có chút gan dạ hay tính tò mò nào. Thế nên hai bàn tay cậu chỉ biết quờ quạng trong bóng tối, lần mò bất cứ thứ gì có thể nhét vào miệng.
 
-Đã từng có thời bạn tràn đầy hoài vọng. Bạn làm việc cật lực để giành lấy vị trí nhân viên văn thư trong mơ tại tập đoàn Machsai. Phòng văn thư nằm chót vót dưới tầng hầm của tòa nhà ba mươi tầng, nhưng bạn tự hứa với lòng rằng mình sẽ leo từng nấc thang danh vọng, tiến thẳng lên tầng cao nhất.
+Lần trước, cậu lén nhét một hộp mì capellini vào túi. Cậu thích cái cảm giác nằng nặng của nó, cùng âm thanh lạo xạo phát ra từ bên trong. Cậu từng tưởng tượng đó là những thanh bánh quy giòn rụm nhưng chắc bụng hơn nhiều, đại loại như bánh mì Lembas của tộc tiên. Thế nhưng rốt cuộc, thứ cậu nhận được lại là những que mì sống cứng ngắc, mỏng dính. Cậu nhai chúng trèo trẹo giữa hai hàm răng rồi nuốt ực, nhưng dạ dày thì vẫn hoàn toàn trống rỗng.
 
-Cơ hội cuối cùng cũng tìm đến dưới dạng một buổi phỏng vấn: Trưởng phòng Văn thư. Một bước tiến thực sự, dù chỉ là nấc đầu tiên trong số hàng ngàn nấc phía trước. Bạn ôn luyện miệt mài. Bạn tập phỏng vấn thử trước gương phòng tắm. Bạn khoác lên mình bộ vest lịch lãm nhất. Vào buổi sáng ngày phỏng vấn, bạn quyết định đi thang máy xuống từ căn hộ bé như hộp diêm của mình thay vì đi cầu thang bộ, chỉ để cơ thể không đổ dù một giọt mồ hôi.
+Lần này tội vạ bắt đầu từ việc cậu có nghĩa vụ phải đi đổ rác. Gom các túi rác lại. Lồng túi mới vào. Nhét rác vào thùng. Rồi kéo thùng rác ra ngoài lề đường. Cậu đã hoàn thành xuất sắc tất cả các khâu, ngoại trừ khâu cuối cùng, khâu mà cậu trót quên khuấy mất. Thế là những thùng rác sẽ nằm chình ình trong gara suốt cả tuần trời, rồi gara sẽ bốc mùi, rồi cái mùi ấy sẽ len lỏi xộc vào tận trong nhà. Mà làm sao bà ta có thể nuốt nổi miếng cơm nào với cái mùi kinh khủng ấy trong nhà cơ chứ? Và tại sao cậu lại được phép ăn tối, một khi bà ta đã không thể nuốt trôi?
 
-Bạn vẫn nhớ như in khoảnh khắc đưa ra lựa chọn ấy tại tầng mười của tòa chung cư (nơi bạn vẫn đang trú ngụ cho đến tận bây giờ). Mười tầng lầu. Một buổi sáng mùa hè oi ả không điều hòa. Bộ não xui khiến bạn nhấn nút gọi thang. Đó là lựa chọn hoàn toàn đúng đắn, bộ não bạn khăng khăng khẳng định, mặc cho trái tim bất giác đập lên những nhịp vô cùng bồn chồn.
+Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim *Deadhand Diego* trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.
 
-Bạn nhớ khoảnh khắc chiếc thang máy chập chớp rồi mất điện hoàn toàn. Bạn chìm ngập trong bóng tối bao la. Bạn nhớ cả nỗi hoảng loạn khi quờ tay vào túi tìm điện thoại nhưng chẳng thấy đâu.
+Bradford Pierson đã mò về được đến phòng ngủ của mình dưới tầng hầm. Tạm thời an toàn. Cậu trút sạch chiến lợi phẩm trong túi ra giường: một hộp bánh quy lạt, một hũ ô liu xanh nhồi nhân, một chai tương cà, cùng một thanh đạm vị sô-cô-la.
 
-Phải, bạn có một lý do bào chữa hoàn hảo, nhưng sự muộn mằn của bạn lại thể hiện một tác phong cẩu thả đi ngược lại sứ mệnh của tập đoàn Machsai. Một sai lầm vặt vãnh cũng đủ trả giá bằng cả một sự nghiệp.
+Cậu ngấu nghiến thanh đạm trước tiên, giải quyết gọn gàng chỉ sau hai miếng cắn. Cậu tự chế vài cái bánh kẹp bằng cách phết tương cà vào giữa hai miếng bánh quy lạt. Rồi cậu bốc một vốc ô liu tống thẳng vào miệng. Bỗng nhiên, có tiếng gõ cộc cộc vang lên trên ô cửa sổ tầng hầm. Cậu ngẩng đầu lên và nhìn thấy Tommy. Tommy đang vẫy tay. Cậu bạn gí sát mặt vào tấm kính ướt đẫm nước mưa rồi phồng hai má lên như một quả bóng.
 
-Và thế là.
+Bradford đẩy then mở cửa sổ. Một luồng gió lạnh buốt ùa vào phòng, mang theo những giọt mưa rơi lất phất từ các cành cây đã rụng trơ trụi một nửa lá. Từng vệt lá phong màu đỏ vàng rực rỡ lấp lánh như ánh đèn sòng bạc, nổi bật trên nền trời tháng Mười đen thẫm.
 
-Một thập kỷ dài đằng đẵng trôi qua. Những thế hệ trẻ trung, tràn đầy hoài vọng như chính bạn năm xưa lần lượt đặt chân xuống phòng văn thư dưới tầng hầm rồi lại vươn lên thoát khỏi nơi đó, còn bạn thì vẫn dậm chân tại chỗ. Bạn làm việc chăm chỉ, nhưng rốt cuộc vẫn chẳng tìm thấy lối thoát cho mình.
+“Giày của mày kìa,” Bradford thì thầm nhắc nhở, miệng vẫn còn nhét đầy ô liu. Mặt đất dưới chân Tommy lúc này chỉ toàn bùn nhão và lá mục ẩm ướt.
 
-Hãy tưởng tượng một ngày nọ, bạn ngủ gục ngay trên bàn làm việc, trong phòng văn thư nơi bạn sẽ vĩnh viễn là một nhân viên văn thư. Cho đến khi có ai đó lay bạn dậy.
+“Ồ, ừ nhỉ.” Tommy cởi phăng đôi giày thể thao Spider-Man dính đầy bùn đất rồi đặt ngay ngắn lên bậu cửa sổ. Cậu trườn người chui tọt vào trong. Đôi bàn chân đi tất của cậu lập tức để lại những vệt bẩn lem luốc trên tấm thảm len màu trắng muốt. Cậu vội lấy tay áo khoác chùi lấy chùi để, nhưng hành động đó chỉ khiến vết bẩn loang lổ rộng hơn. “Xin lỗi nhé,” cậu nói, giọng hơi to quá mức cần thiết.
 
-“Họ đã sẵn sàng gặp ông rồi,” người đó cất lời.
+“Suỵt! Họ nghe thấy bây giờ.”
 
-Bạn nhận ra gã. Gã từng là nhân viên văn thư mới vào nghề cách đây bảy năm, nhưng rồi gã đã luồn lách leo lên từng nấc thang công sở, để giờ đây trở thành trợ lý cho Phó Chủ tịch Marketing.
+Tommy gật đầu lia lịa. “Im lặng như một con sao biển.”
 
-Bạn hoàn toàn không nhận ra căn phòng mình đang đứng. Đây không phải là phòng văn thư. Nơi này phủ những tấm thảm êm ái, đèn tường mạ vàng, cùng những ô cửa kính đồ sộ thu trọn toàn cảnh Tokyo hoa lệ ở độ cao ba mươi tầng lầu.
+“Ăn chút gì không?” Bradford hỏi, tay hất về phía đống đồ ăn vặt trên giường. “Mấy cái bánh quy này ăn cũng được lắm, nếu mày chịu khó phết thêm tương cà.”
 
-Bạn nhận ra cái tên trên biển danh thiếp đặt trên bàn làm việc sang trọng. Cái tên ấy thuộc về bạn. Còn chức danh? Phó Chủ tịch Marketing.
+“Thôi khỏi, tao ăn cơm rồi.”
 
-“Thưa sếp, trông sếp mệt mỏi quá. Sếp có sao không ạ?” người trợ lý của Phó Chủ tịch Marketing hỏi bạn.
+“Mấy quả ô liu này kỳ lạ cực. Chúng được nhồi nhân bằng nấm và ớt chuông.”
 
-Bạn chẳng hiểu bằng cách thần kỳ nào mà điều này lại xảy ra. Nhưng thành thật mà nói, bạn cũng chẳng buồn bận tâm. Nó đã xảy ra rồi. Mọi chi tiết vụn vặt khác đều không còn quan trọng nữa. Bạn nhanh chóng đáp lời.
+“Bố mẹ tao ở nhà cũng toàn tích trữ mấy thứ kỳ quặc kiểu này. Chẳng hiểu có phải cứ hễ già đi là người ta tự khắc biến thành như thế không nữa. Người lớn quên sạch mấy món ăn bình thường rồi chỉ toàn nấu nướng mấy thứ quái đản.”
 
-“Tôi ổn. Tôi rất khỏe. Cậu sẽ đảm nhận buổi thuyết trình hôm nay.”
+“Mẹ kế tao thì gần như chỉ uống mấy món sữa lắc ăn kiêng thôi. Nhưng chúng thậm chí còn chẳng phải sữa lắc đàng hoàng nữa cơ. Cứ lợn cợn lạo xạo như bột phấn ấy.” Cậu bốc thêm một nắm ô liu nữa. Giờ đây khi cơn cồn cào đã tạm lắng xuống, cậu bắt đầu nhai chậm rãi hơn.
 
-“Cảm ơn sếp ạ.”
+Tommy bò ngang như cua qua tấm thảm. Mặt thảm nổi bật một màu trắng toát không tì vết, nếu không tính đến những dấu chân lấm lem của cậu bạn. Tường phòng cũng trắng xóa và trơ trụi không một khung hình. Cả căn phòng bốc lên mùi thuốc tẩy amoniac nồng nặc.
 
-Bạn đã đoán đúng.
+“Hôm nay tao không được ăn tối,” Bradford kể với người bạn thân nhất của mình.
 
-Bạn từng phạm sai lầm một lần trong đời. Bạn sẽ không bao giờ mắc lại sai lầm nữa.
+“Sao lại thế?”
 
-“Đây sẽ là một cơ hội quan trọng,” bạn nói với người trợ lý của mình.
+“Tao quên không kéo thùng rác ra lề đường.”
 
-“Tôi tin rằng cậu sẽ không làm chúng tôi thất vọng.”
+“Thế là họ bắt mày nhịn đói luôn?” Tommy cau mày, nét mặt sa sầm lại. Cậu nhìn Bradford, nhìn cái bánh quy kẹp tương cà trên tay bạn mình, rồi nhìn sang tấm thảm trắng ngột ngạt cùng những bức tường trắng toát vô hồn của căn phòng.
+
+Đây lại là một ngày thứ Ba đói lả nữa trong cuộc đời của thằng bạn thân nhất của cậu.
+
+Chính tại nơi này, một bước ngoặt vô hình đã âm thầm diễn ra. Hạt giống của sự phản kháng bắt đầu đâm chồi nảy lộc. Một lời thề sâu sắc trỗi dậy trong lòng Tommy: kiên quyết khước từ sự nhạt nhẽo tàn nhẫn cùng nỗi bất công nghiệt ngã này.
+
+“Bà ấy bảo tao là một đứa trẻ hư,” Bradford cất lời. Cậu trầm ngâm, nghiêm túc ngẫm nghĩ về khả năng đó. “Này Tommy, mày có nghĩ tao là đứa hư hỏng thật không?”
+
+Hàng mày của Tommy càng nhíu chặt hơn nữa. Cậu lắc đầu dứt khoát. “Không,” cậu nói. Cậu bé tám tuổi chưa từng nói tục một lần nào trong đời, nhưng kể từ chính khoảnh khắc định mệnh này trở đi, cậu sẽ không bao giờ ngừng chửi thề nữa. “Không đời nào. Mẹ kiếp bà ta.”

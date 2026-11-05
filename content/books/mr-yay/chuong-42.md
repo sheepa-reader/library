@@ -1,225 +1,57 @@
-# RĂNG HÀM VÀ HẠT ĐẬU CÔ VE
+# XUÂN PHÂN: CẦU NỐI
 
-**JACK NGỒI BÊN BÀN ĂN** trong bếp cùng chiếc máy tính xách tay. Anh gõ mổ cò từng ngón trỏ lên bàn phím. Rồi anh ngả người ra lưng ghế, cầm lấy chiếc cốc sứ trắng in logo của Hãng luật Rufus Mather. Anh nhấc cốc, nhấp một ngụm, đọc lại bất cứ thứ gì mình vừa gõ, rồi gật đầu tỏ vẻ hết sức hài lòng.
+# TOÁN HỌC
 
-Đó là chín giờ rưỡi tối thứ Tư. Giờ làm việc đã đến.
+**HÃY TƯỞNG TƯỢNG BẠN** là một nhà vật lý thiên văn.
 
-Có điều, liệu đó có thực sự là làm việc?
+Hãy tưởng tượng tên bạn là Robert Kai. Rằng bạn là một người nổi tiếng lẫy lừng. Rằng ngoài kia, có hẳn ba mặt trăng đang miệt mài quay quanh một hành tinh xa xôi, và chiếc nào cũng được trân trọng đặt theo tên bạn: Kai-1, Kai-2, Kai-3. Biết đâu chừng, trên mớ đất đá lơ lửng ấy lại đang có sự sống.
 
-Miriam cố tỏ ra tự nhiên hết mức có thể khi lén liếc nhìn màn hình của anh. Nhưng cô không thể nhìn rõ. Đến khi cô nhích lại gần hơn, bất cứ nội dung gì từng xuất hiện trên đó đã lập tức được thay thế bằng trang chủ của Hãng luật Rufus Mather.
+Nhưng đó cũng chỉ là mẩu chuyện phiếm xã giao dùng để đãi bôi trong mấy bữa tiệc cocktail. Mấy thứ vụn vặt xa xôi ấy chẳng mấy ai trên Trái Đất này thực sự bận tâm. Điều cốt yếu lúc này, ngay tại đây, lại là mớ xà lách thủy canh bạn đang lén trồng dưới tầng hầm. Bộ sưu tập đĩa than của bạn. Cả chú chó corgi của bạn nữa. Nó tên là Samwise, và nó nghiễm nhiên chiếm một góc trên giường bạn mỗi đêm. Nó sẽ ngồi gọn lỏn trong lòng bạn bên bậu cửa sổ, trong lúc bạn cặm cụi ngắm nhìn những vì sao thoắt ẩn thoắt hiện qua chiếc kính viễn vọng cá nhân - món quà sinh nhật bố mẹ tặng bạn dạo nọ, khi bạn vừa tròn mười tuổi. Một con số nhỏ bé đến thảm hại nếu so với tuổi đời hàng tỷ năm của mớ tinh tú trên trời.
 
-*Sự thấu hiểu và Tận tụy: Phong cách Rufus Mather. Hãy trở thành một phần của Đại gia đình Rufus Mather. Hãy bỏ mặc Gia đình riêng của bạn vì Đại gia đình Rufus Mather. Lòng trung thành của chúng tôi đối với Số giờ làm việc tính phí mang lại cho bạn Sự tự do để Làm việc đến Kiệt sức mà chết.*
+Xét cho cùng, mấy vì sao ấy thực chất chỉ là những khối cầu khí bốc cháy ngùn ngụt, những ngọn núi lửa lơ lửng giữa bầu trời, hoặc mấy quả cầu gương disco trôi dạt vô định trong khoảng không vô tận.
 
-Miriam giả vờ như mình không hề rình mò. Cô mở cửa tủ bếp, giả vờ tìm kiếm thứ gì đó bên trong. Jack lại giả vờ như anh không hề mong cô đi khỏi. Dù vậy, cô vẫn cảm nhận rõ sự sốt ruột của anh. Anh cựa quậy đầy vẻ thiếu kiên nhẫn (và rõ ràng chỉ muốn cô biến đi cho xong).
+Hoặc, chúng chính là toán học.
 
-Khi cô bước lùi ra xa, Jack lại tiếp tục mổ cò bàn phím bằng hai ngón trỏ. Thật là một ẩn số vũ trụ: làm thế nào mà anh có thể
+Tất cả rốt cuộc đều là toán học.
 
-Cô cảm thấy một khao khát mãnh liệt muốn chọc ngoáy anh. Muốn tống cổ anh ra khỏi nhà. Muốn bóc trần cái cớ “tôi phải làm việc” tráo trở của anh (thứ cớ trông vô lý đùng đùng sau những gì vị thành viên góp vốn kia đã nói).
+Bởi toán học là thứ duy nhất trên đời này luôn luôn hợp lý.
 
-*Tất cả chúng tôi đều hy vọng mọi chuyện vẫn tốt đẹp với anh ấy.* Miriam đã không gặng hỏi lại. Đáng lẽ cô nên thắc mắc: *Ý chị là sao?* Nhưng thay vào đó, cô chỉ gật đầu bảo: *Chắc chắn rồi ạ*. Để rồi giờ đây, cô phải đứng đây đóng vai gián điệp.
+Bây giờ, hãy tưởng tượng bạn quay ngược thời gian về khoảng ba mươi năm trước, khi bạn còn là cậu bé Robert Kai vừa tròn mười tuổi. Bạn đang ở nhà. Bạn an toàn. Mẹ bạn an toàn, bố bạn an toàn, cả nhà vừa chén xong bánh pizza cùng bánh kem sinh nhật. Giờ đây, bạn đang đứng ngoài sân, cặm cụi lắp ráp chiếc kính viễn vọng mới tinh và ngước nhìn bầu trời đêm. Thế rồi, bạn chợt bắt gặp một thứ gì đó ở cự ly gần hơn rất nhiều. Một thứ đang lao đi vun vút. Nhanh đến mức bạn chưa kịp định hình. Đó chỉ là một vệt lửa xé gió lóe lên. Rồi nó đâm sầm xuống. Mọi thứ nổ tung. Mặt đất chao đảo rung chuyển. Không khí như bốc cháy ngùn ngụt. Gỗ vụn, ngói lợp cùng gạch đá trút xuống ào ạt như mưa. Khói bụi mù mịt đi kèm những tiếng gào thét xé lòng. Bạn gào thét. Mẹ bạn gào thét, bố bạn gào thét, rồi cả hai cùng nhào về phía bạn. Họ ôm ghì bạn ở giữa như hai lát bánh mì kẹp lấy một cậu bé. Mặt mũi bê bết tro bụi lẫn máu, họ ghì chặt lấy bạn mà nức nở, trong khi bạn vẫn chưa tài nào hiểu nổi rốt cuộc mình đang cực kỳ may mắn hay xui xẻo đến tận cùng.
 
-Cô mở cửa tủ chạn rồi sập mạnh lại. Cô lôi hết chén đĩa trong máy rửa bát ra ngoài, làm chúng va vào nhau loảng xoảng cùng đống dao nĩa. Cô bật máy xay rác kêu ken két. Cô ho hắng, thở dài. Nói chung là tìm mọi cách gián đoạn công việc của anh.
+Khối thiên thạch đã san phẳng hoàn toàn ngôi nhà cùng mọi tài sản bên trong.
 
-“Anh đang uống gì đấy?”
+Thế nhưng, chỉ vì hôm đó là sinh nhật bạn, và vì bạn vừa nhận được chiếc kính viễn vọng kia, nên *bạn* mới không có mặt ở trong nhà. Lúc ấy, bạn đang đứng ngoài sân, mải mê suy tính xác suất xem liệu chiếc kính của mình có thể phát hiện ra tàu vũ trụ ngoài hành tinh, những nỗi kinh hoàng cổ xưa ma quái, hay những siêu đô thị ngập tràn sự sống ở cõi thiên hà xa xôi nào đó hay không. Bố mẹ bạn cũng đang ở ngoài sân, mải mê dõi theo bạn - kỳ quan lớn nhất đời họ, kiệt tác tuyệt mỹ mà chính họ tạo ra.
 
-“Ôi, chút cà phê thôi.”
+Nếu khối thiên thạch kia rơi trúng vào bất kỳ ngày nào khác trong năm, có lẽ cả bạn, bố bạn lẫn mẹ bạn đều đã bỏ mạng; đổi lại, thiệt hại duy nhất chỉ là bảy tháng dài ngán ngẩm ở trong khách sạn để chờ ngôi nhà được xây lại. Căn nhà mới rốt cuộc lại đẹp hơn hẳn căn nhà cũ. Giờ đây, về mặt toán học, xác suất để một khối thiên thạch khác tiếp tục rơi trúng nhà bạn vẫn hoàn toàn y hệt như trước khi khối thiên thạch đầu tiên lao xuống - dẫu rằng cảm giác nội tâm của bạn thì không hề giống như vậy. Bạn thấy mình hoàn toàn an toàn.
 
-“Vào giờ này sao?”
+Suốt cả cuộc đời, bạn luôn cảm thấy bất an trước sự đứt gãy giữa nhận thức cá nhân và các quy luật toán học. Bạn khao khát sự chắc chắn. Bạn thèm khát những câu trả lời. Bạn bước chân vào đại học. Bạn nộp đơn làm nghiên cứu sinh tiến sĩ. Bạn đối mặt với lựa chọn sinh tử: vật lý thuần túy hay vật lý thiên văn. Bạn tốt nghiệp. Một tập đoàn công nghệ nano chìa ra hợp đồng với mức lương hậu hĩnh, nhưng bạn lại từ chối để đâm đầu vào con đường học thuật. Bạn mua một căn nhà ở Raleigh. Bạn quyết định nhận nuôi một chú chó. Có vô số giống chó trên đời để lựa chọn. Thế nhưng, liệu bạn có thể giải thích nổi vì sao mình lại chọn đúng một chú chó corgi?
 
-“Anh phải giữ tỉnh táo để làm việc.”
+Toán học có thể giải thích.
 
-“Em đâu thấy anh pha cà phê.”
+Hoặc đúng hơn, toán học hoàn toàn có thể giải thích - miễn là bạn nắm trong tay mọi biến số. Miễn là bạn nhét từng biến số ấy vào một phương trình chuẩn xác. Tất cả những con số sẽ tự động cộng dồn lại để cho ra kết quả cuối cùng: một chú chó corgi, hay pitbull, hay chó tha mồi retriever, hoặc một chú chó cỏ lai tạp. Chỉ cần một biến thiên nhỏ xíu chệch đi, kết quả có thể sẽ là một giống chó khác, một con mèo, hay thậm chí là một nhà vật lý thiên văn suốt ngày cưng nựng một chú kỳ nhông râu gai.
 
-“Cà phê thừa ấy mà.”
+Dẫu vậy, phép toán ấy đã sinh ra bạn, cùng chú chó corgi của bạn. Cả hai dắt díu nhau đến Đài thiên văn Green Creek. Bạn ngồi phân tích nguồn dữ liệu do hệ thống kính viễn vọng thu thập được. Bạn chìm vào giấc ngủ giữa tiếng vo ve rì rào từ một ngôi sao xa xôi tít tắp. Bạn cùng chú chó Samwise ngắm bình minh trên sa mạc, rồi xắn tay áo lao vào cuộc chiến tháo gỡ những điểm bất thường trong các chỉ số đo đạc tốc độ giãn nở vũ trụ. Năng lượng tối, suy cho cùng, cũng chỉ là một dạng toán học (mà toán học thì làm sao làm khó được bạn, ít nhất là trên lý thuyết). Đôi lúc, trong những giờ khắc vắng lặng của một đêm đầy sao, bạn mơ hồ cảm thấy mình đã chạm tới chân lý. Những con số nhấp nháy bên khóe mắt. Phương trình ấy gần như hiện hữu ngay trước mặt, một thực thể hữu hình mà bạn tưởng như chỉ cần vươn tay là có thể nắm chặt, thách thức cả khoảng không vô tận ngoài kia.
 
-“Thế cơ đấy.”
+Bạn đã ở rất gần đích đến, đúng cái khoảnh khắc chú chó Samwise cất tiếng sủa vang. Nó sủa vào hư không. Rõ ràng chẳng có gì ở đó, nhưng dường như lại có một cái gì đó. Bạn cũng cảm nhận được. Thế nhưng đó là thứ gì, xuất hiện ra sao, hay tại sao lại như vậy, thì bạn chịu chết (và toán học cũng đành bó tay). Nó mờ nhạt tựa một sợi lông tơ, êm đềm như làn gió thoảng. Nó vừa là hư vô, lại vừa là tất cả. Rồi khi bạn quay lại nhìn những con số, chúng đã chẳng còn chút ý nghĩa nào.
 
-Cô giậm chân bước ra khỏi phòng, rồi lập tức quay ngược lại phía cửa. Cô lắng nghe tiếng gõ bàn phím mổ cò lạch cạch. Thế này thì không đời nào xem được màn hình của anh. Cô cần một mưu kế.
+*Cái gì thế này? Quái quỷ gì vậy?*
 
-“Jack!” Cô nhanh trí ứng biến. “Jack! Có con nhện!”
+Samwise lại cất tiếng sủa thêm một tiếng.
 
-“Cái gì cơ?”
+Những con số trên màn hình như đang gào thét.
 
-“Một con nhện!”
+Các con số vốn dĩ hiển thị tốc độ giãn nở vũ trụ ở mức 73,3 kilômét mỗi giây trên một megaparsec giờ đây tụt xuống 67,1, rồi 58,9, tiếp tục hạ xuống 52,7, rồi cán mốc 49,8. Chúng lao dốc không phanh, rơi tự do như gạch đá, và trong cả cuộc đời làm khoa học của bạn, chưa từng có điều gì lại phi lý đến mức này như phép toán trước mắt.
 
-“Cái gì?”
+*Không, không thể nào, chuyện này là bất khả thi…*
 
-“Một con nhện trong phòng tắm!” Cô bước ngược vào bếp. “Anh bắt nó giúp em được không? Năn nỉ đấy. Nó to đùng mà gớm ghiếc lắm.”
+Bạn rà soát đi rà soát lại. Các con số dần trở về với tốc độ bình thường trước đó, nhưng lòng bạn vẫn không nguôi bứt rứt. Nhiều ngày liền, bạn lảng vảng như bóng ma bên các dãy siêu máy tính. Bạn đi đi lại lại, miệng lẩm bẩm một mình, tính toán rồi lại quay ra tính toán lại từ đầu. Bạn cuống cuồng gọi điện liên tục cho các nhà vật lý thiên văn ở những đài quan sát khác. Vài người trong số họ thừa nhận có nhận thấy đôi chút bất thường, nhưng tuyệt nhiên không một ai ghi nhận được dữ liệu chuẩn xác đến mức điên rồ như bạn.
 
-“Được rồi.” Jack cằn nhằn đứng dậy rời khỏi phòng.
+*Hẳn là có lỗi đo đạc gì đó rồi*, họ tóm tắt ngắn gọn như thế.
 
-Miriam lao ngay lại kiểm tra máy tính. Anh đã khóa màn hình.
+Nhưng làm gì có lỗi nào! Bạn nắm trong tay bản ghi chép rành rành rõ ràng. Toán học thì đời nào biết nói dối.
 
-“Anh có thấy con nhện nào đâu!” Jack vọng ra.
+Dẫu vậy, bạn vẫn miệt mài kiểm tra, kiểm tra lại rồi lại kiểm tra lần nữa. Bạn cố gắng tái hình dung cả vũ trụ này. Phương trình vĩ đại ấy. Bạn quên cả ăn. Giấc ngủ của bạn bị xới tung bởi những bài toán ma quái. Cho đến khi chú chó của bạn cuối cùng cũng nằng nặc đưa ra yêu cầu (bằng một cú hếch mõm dứt khoát): Đã đến lúc phải về nhà rồi.
 
-“
+Bởi lẽ giờ đây, chẳng còn việc gì khác để làm ngoài việc để mọi thứ tự lắng đọng trong tâm trí, thầm hy vọng bộ não to lớn kia của bạn có thể tìm ra ý nghĩa từ những điều hoàn toàn phi lý. Dù sao thì não bộ con người cũng vốn cực kỳ cừ khôi ở khoản đó: gom nhặt những dữ liệu ngẫu nhiên, những con số lạc lối cùng các sự kiện kỳ dị, rồi dệt nên một câu chuyện hợp lý để giải thích, hoặc đơn giản là để tự vỗ về bản thân.
 
-Cô cố đoán mật khẩu của anh nhưng bất thành. Cô nhấc chiếc cốc sứ lên, nhấp thử một ngụm. Có thoáng vị cà phê thật, nhưng phần lớn là rượu whiskey.
-
-Ngày hôm sau, Jack đi làm sớm (anh nói vậy), còn Miriam dành hẳn hai tiếng đồng hồ kỳ công tạo hình một chiếc răng khổng lồ bằng giấy bồi cho buổi diễn kịch ở trường tiểu học. Chiếc răng có các lỗ chừa sẵn cho tay chân chui qua, cùng một cái lỗ trên đỉnh để con gái cô nhô đầu ra. Lindsey đã được giao thủ vai Răng Hàm trong vở kịch vệ sinh răng miệng của lớp mẫu giáo.
-
-*Các phụ huynh không BẮT BUỘC phải tự làm trang phục đâu*, cô giáo đã dặn dò như thế. Một câu nói mà dịch ra tiếng người có nghĩa là: *Phải tự làm trang phục đấy, bằng không sẽ bị xã hội phán xét tới cùng.*
-
-Rory đã tranh thủ thời cơ nước sôi lửa bỏng này. Hôm trước, ngay khi cô vừa phác thảo xong bộ trang phục, xé đống báo cũ thành từng dải nhỏ làm giấy bồi, lại còn bận túi bụi vừa dọn bãi nôn của chó, vừa làm hộp cơm trưa rồi lỡ tay làm cháy cả bữa tối, Rory mới ra tay. Trong một thời điểm “thuận lợi” đến thế, chú nhóc đã vòi vĩnh được một lời hứa mà một người mẹ tỉnh táo rảnh rỗi sẽ chẳng bao giờ gật đầu: một bộ trang phục chiếc răng thiết kế riêng, để cậu bé cũng có thể hóa trang thành một chiếc răng đi xem kịch ở trường tiểu học.
-
-“Mẹ ơi, giờ con mặc trang phục chiếc dăng được chưa?” Rory hỏi ngay khi cô đến đón chú nhóc ở trường mầm non.
-
-“Cái gì, bây giờ ư? Ngồi trên xe ô tô luôn sao?”
-
-“Mẹ ơi, con mặc trang phục chiếc dăng đi
-
-“Mẹ ơi, con mặc chiếc dăng đi ngủ được không?” Chú nhóc tiếp tục hỏi khi hai mẹ con nối gót mọi người bước vào hội trường. Bộ trang phục quá rộng khiến hai cánh tay cậu bé chĩa thẳng ra hai bên, hệt như hình người que trong tranh vẽ thiếu nhi.
-
-Cô tìm chỗ ngồi trống cho mình và Rory (lúc này đã biến thành một chiếc răng). Lindsey đang ở hậu trường. Còn Jack thì không xứng đáng có ghế ngồi, đơn giản vì anh đâu có đến. Mà cô cũng chẳng buồn nhắc anh.
-
-Ngay khi vừa an tọa, cô liền nhìn thấy Holly. Holly vẫy tay rồi vội vã rảo bước lại gần, ngồi xuống ngay bên cạnh Miriam.
-
-“Mong sao đây là show diễn của thế kỷ,” Holly vặn nắp chiếc bình giữ nhiệt du lịch rồi uống một ngụm rõ to. “Làm một ngụm không?”
-
-“Ờ, thôi khỏi, cảm ơn cậu.”
-
-“Ừ, cũng chẳng ngon lành gì đâu. Mấy món nước chanh Fizz Wizard pha rượu vodka ấy mà. Tớ vội quá. Thề có Chúa, may cái bộ trang phục chết tiệt đó tốn công tốn sức khủng khiếp.”
-
-“Chuẩn luôn.”
-
-Cậu nhóc Rory trong bộ dạng một chiếc răng cứ cựa quậy không yên trên ghế.
-
-“Sau cái kiếp nạn may vá đó, tớ phải uống chút cho đỡ sốc,” Holly thở dài.
-
-Đèn hội trường mờ dần, khán giả bắt đầu giữ trật tự. Đèn sân khấu bật sáng. Một dàn răng có kích thước bằng trẻ mẫu giáo diễu hành ra sân khấu rồi xếp thành hình bán nguyệt, mô phỏng lại một vòm miệng. Lindsey - trong vai chiếc răng hàm - đứng ở mép ngoài cùng của vòng tròn. Ngay khi toàn bộ dàn răng đã an vị, thêm ba bé mẫu giáo nữa hóa trang thành bàn chải đánh răng,
-
-“Lần sau, con muốn làm sâu răng,” Rory ghé tai mẹ thì thầm.
-
-Bài hát kết thúc, dàn diễn viên mẫu giáo nắm tay nhau cúi chào. Khán giả vỗ tay reo hò nồng nhiệt. Lindsey đảo mắt rà soát khắp các hàng ghế để tìm mẹ. Miriam giơ tay vẫy. Rạng rỡ hẳn lên, cô bé mỉm cười và vẫy tay đáp lại. Nhưng không phải vẫy Miriam. Miriam quay người lại, đảo mắt qua đám đông phía sau.
-
-Đứng ở tận cuối hội trường chính là Jack.
-
-Nối tiếp tiết mục mẫu giáo, các học sinh lớp một và lớp hai khoác trên mình đủ loại trang phục rau củ quả tiến ra sân khấu. Lũ trẻ cất giọng hát một bài ca tuyên truyền việc ăn hoa quả và rau xanh. Chúng lần lượt xoay vòng ra giữa sân khấu, từng đứa tự xướng tên loại nông sản mà mình đang hóa thân. Vì số lượng học sinh vượt quá danh mục các loại rau củ quen thuộc của nước Mỹ, ban tổ chức đành phải bổ sung thêm những giống loài phương xa lạ lẫm, chẳng hạn như thanh long, sầu riêng, vải thiều và rong biển. Phần lớn lũ trẻ đều khoác những bộ trang phục bằng giấy bồi trông chỉ hơi nhang nhác loại nông sản được phân công. (Ít nhất một phần ba số nhóc tì trông chẳng khác gì những củ khoai tây).
-
-Đến giữa bài hát, Rory chỉ tay reo lên thật
-
-“Sâu đâu phải rau củ,” Miriam thì thầm. “Thôi suỵt nào.”
-
-“Thế sao con không được làm sâu?”
-
-Chad lê bước ra giữa sân khấu. Cậu bé chui mình trong một cái ống vải dạ màu xanh lá cây - thứ vốn dĩ dùng để biến cậu thành một quả đậu que, nhưng thực tế lại khiến cậu trông giống một con rắn cụt lủn hơn. Cậu nhóc hét tướng lên: “Đậu que!” Cậu cố nhảy lên, tung cú đá rồi xoay người một vòng. Đáng tiếc, ý đồ nghệ thuật đó đã thất bại thảm hại khi cả tay lẫn chân cậu đều bị bó chặt bên trong vỏ quả đậu. Cậu tiếp đất một cách vụng về. Bàn chân trượt đi. Cậu lảo đảo chúi người về phía mép sân khấu, khiến Miriam trong một giây ngắn ngủi đã đinh ninh cậu bé sẽ cắm đầu rơi thẳng xuống sàn trải nhựa linoleum bên dưới.
-
-Thế nhưng cậu bé đã lấy lại được thăng bằng. Cậu đứng thẳng người dậy rồi lại gào lên: “Đậu! Que!”
-
-Khán giả đồng loạt thở phào nhẹ nhõm vì một thảm họa đã được ngăn chặn kịp thời. Ngoại trừ Holly, người vừa phát ra một âm thanh kỳ lạ: tiếng thút thít nghẹn ngào. Khi Miriam quay sang, nước mắt đã chảy ròng ròng trên má cô bạn.
-
-Tất nhiên, Holly không muốn nhắc đến chuyện đó.
-
-Cô lau khô khóe mắt, tu ừng ực ngụm nước chanh pha vodka, và đến cuối buổi diễn thì trông cô có vẻ đã hoàn toàn bình ổn.
-
-“Tớ ổn mà! Thật đấy. Chỉ là tớ mệt quá thôi. Tớ đã phải thức đến hai giờ sáng để khâu cái quả đậu que chết tiệt đó, mà nói thẳng ra trông nó chẳng khác gì một của nợ to béo màu xanh. Tớ đã nghĩ ngay như thế khi vừa nhìn thấy nó. Đứa
-
-Cô rảo bước đi thẳng. Miriam đón Lindsey rồi dắt hai đứa trẻ bước ra bãi đỗ xe. Cô cúi gầm mặt, định bụng sẽ lái xe thẳng về nhà và vờ như chưa từng nhìn thấy Jack. Dù sao thì, chẳng phải Jack cũng đang giả vờ rằng anh phải có mặt ở chỗ làm đó sao?
-
-“Bố!”
-
-Rõ ràng anh không hề ở chỗ làm. Anh đang đứng sừng sững ngay trước xe của cô, chặn đứng mọi đường lui.
-
-Lũ trẻ lao bổ về phía anh, ôm chầm lấy hai chân bố. Những bộ trang phục hình răng cọ xát vào nhau sột soạt khi chúng chen chúc giành chỗ.
-
-“Bố ơi! Bố ơi!”
-
-“Bố có thấy con không? Ở trên sân khấu ấy?”
-
-“Bố ơi! Con có bộ đồ hóa trang này!”
-
-“Bố có nghe thấy con hát không?”
-
-“Con là một chiếc răng! Con là một chiếc răng nhọn hoắt!”
-
-Jack vỗ nhẹ lên đôi vai bằng giấy bồi báo cũ của lũ trẻ. “Ừ, bố nghe con hát rồi, Lindsey. Còn Rory thì nhọn lắm đấy. Hai đứa đóng vai những chiếc răng xuất sắc thật sự. Mà biết gì không, vốn dĩ bố đã lên kế hoạch cho một việc… nhưng cả hai đứa đều là những chiếc răng sạch sẽ, xinh xắn thế này, nên bố cũng chẳng biết nữa…”
-
-“Chuyện gì thế bố?”
-
-“Gì cơ?”
-
-“Thì, bố cũng không rõ nữa…” Jack ngập ngừng, cố tạo vẻ bí hiểm.
-
-“Bố!”
-
-“Thôi được rồi… Bố đang nghĩ không biết mấy chiếc răng nhỏ của bố có muốn ăn… kem không nhỉ!”
-
-“Hoan
-
-Miriam cảm thấy một làn sóng bực bội len nhẹ qua người. Cô đã phải còng lưng suốt hàng giờ đồng hồ để đánh vật với đống giấy bồi bẩn thỉu, trong khi Jack chỉ việc tạt qua rồi nghiễm nhiên trở thành đấng cứu thế đãi chúng một chầu kem. Cô đứng đó, lòng đầy hậm hực, nhìn lũ trẻ nhảy tưng tưng quanh người cha vừa bỗng dưng hóa thành vị thần mang phép màu kem ngọt. Cô thậm chí còn chẳng buồn bận tâm khi Jack đan những ngón tay vào tay cô rồi khẽ đặt một nụ hôn lên má.
-
-Jack lái xe chở cả nhà đến tiệm kem. Miriam ngồi ở ghế phụ phía trước, lửa giận bốc ngùn ngụt. Đáng lẽ cô phải thấy mừng vì Jack đã mò về nhà. Thế nhưng Jack đâu có bị vẹo cổ sau hàng giờ cặm cụi làm đồ thủ công. Jack đâu phải đưa lũ trẻ đến trường rồi lại tất tả đón về. Jack đâu phải vật lộn ép chúng ăn cà rốt (với Lindsey là mất đứt ba mươi phút chỉ để giải quyết một củ cà rốt bi, còn Rory thì nhất quyết phải chấm đẫm sốt mayonaise mới chịu nuốt), rồi tắm rửa, chải tóc cho từng đứa. Jack chỉ việc đùng một cái xuất hiện vào phút chót và biến kem thành bữa tối.
-
-Jack đang dối gạt cô.
-
-“Con sẽ ăn vị sô-cô-la bạc hà!” Lindsey reo lên.
-
-“Con ăn vị truyền thống!” Rory hô to.
-
-Cô đang mải bực tức, nên chẳng hề nhận ra bàn tay Jack đang len qua hộc để đồ ở giữa rồi đặt lên đùi mình. Cô cũng chẳng để ý đến người phụ nữ Thuyết Âm Mưu đứng nơi góc phố bên ngoài quán Diggity Hot, Doggery đang hăng hái vẫy tấm biển “CONSPIRACY!”. Ban đầu, cô thậm chí còn không nhận ra bài hát đang cất lên từ radio, với nút dò đài đã bị một bàn
-
-“Bật to lên đi bố!” Lũ trẻ gào lên. Ông bố lập tức chiều lòng ngay. Tiếng bass dồn dập vang lên từ dàn loa. Các cửa kính ô tô rung bần bật. Những âm thanh điện tử sủi tăm cuộn trào từ dải âm trầm sub-bass, vừa kỳ quặc vừa chao đảo, nhưng giai điệu lại êm tai đến lạ kỳ. Thứ âm thanh gợi nhớ đến một hải trình băng qua vùng biển lấp lánh ánh bạc, cách thật xa cái thực tại đầy điên rồ mang tên Jack này.
-
-Thế nhưng, cùng lúc đó, có điều gì đó trong bài hát lại khiến một làn sóng lạnh bất giác chạy dọc sống lưng cô.
-
-Nó không hề khó chịu. Cảm giác ấy giống như một công tắc vừa bật tanh tách bên trong đầu cô. Nếu như vài khoảnh khắc trước, cô vẫn còn bị giam cầm trong cơn thịnh nộ và hoàn toàn tách biệt khỏi thế giới xung quanh, thì giờ đây cô cảm nhận rõ mồn một từng chuyển động của cơ thể mình trên chiếc ghế này, trong chiếc xe này, trên mặt đường, đang vun vút lao qua không gian và thời gian; vệt hơi ấm từ bàn tay chồng in hằn trên đùi; hai sinh linh bé nhỏ ở hàng ghế sau, trong bộ trang phục hình chiếc răng, đang lắc lư và đung đưa chân theo từng nhịp điệu. Cả hai đứa dường như đều thuộc làu bài hát này.
-
-“Thằng này điên thật rồi!” — tụi nó nói thế
-
-Thấy tao say nghiêng đất trời gục ở góc ghế
-
-Dốc cạn như rồng cuốn, chẳng buồn nếm vị
-
-Bay vút…
-
-“Khoan, khoan, dừng lại!” Jack giật mình tắt phụt radio.
-
-“…bay vút như phi thuyền không gian!” Rory hào hứng hát nốt câu cuối.
-
-“Kìa!” Lindsey gầm gừ. “Bật lại đi bố!”
-
-“Không,” Jack cương quyết. “Cái đó… ngôn từ đó
-
-“Nhưng bố vẫn chửi thề đấy thôi. Con nghe thấy suốt. Cả mẹ nữa.”
-
-“Thì, đúng thế, nhưng… nhưng không phải ở trên radio.”
-
-“Nhưng con *thích* bài đó mà!” Lindsey phản đối kịch liệt.
-
-Jack càng tỏ ra kiên quyết: “Không được. Ca từ bài đó không hề thích hợp.”
-
-“Nhưng *BỐ* ơi!” Lindsey rên rỉ. “*Mọi người* ai cũng thuộc bài đó mà. Tất cả đám trẻ đều thuộc. Nó…”
-
-“Bố không cần biết đó là ai,” Jack nói, “hay đám trẻ khác đang làm gì. Kìa, Miriam, em bênh anh một tiếng đi chứ.”
-
-“Bài hát đó…” cô bắt đầu lên tiếng. Nhưng cô chẳng thể tìm đâu ra từ ngữ tiếp theo. Các giác quan của cô như tràn ngập trong một sự ức chế mơ hồ trên nền cơn giận cũ. Về mặt nguyên tắc, cô đồng ý với Jack về việc chỉ nên mở những ca khúc phù hợp trên đài. Nhưng cô không hiểu sao anh lại phải phản ứng thái quá đến thế, để rồi vô tình thu hút sự chú ý của bọn trẻ vào chính những từ chửi thề mà anh đang cố bảo vệ chúng khỏi nghe thấy. Mặt khác, cô cũng âm thầm khoái chí khi thấy uy tín của anh sụt giảm không phanh trong mắt các con - từ một vị thần phát kem biến thành một kẻ cấm nhạc độc đoán.
-
-Mà thực ra, bản thân cô cũng muốn nghe tiếp bài hát đó.
-
-Họ im lặng lái xe cho đến khi Jack bật lại đài rồi chuyển sang Kênh Tin tức.
-
-“Chán chết!”
-
-“Bố!”
-
-“Các con, trật tự nào! Thế có còn muốn ăn kem nữa hay không?”
-
-*… cựu Thượng nghị sĩ bang Georgia, Roland Johnston, đã từ chối thỏa thuận nhận tội và phải ra tòa vào tháng tới với các cáo buộc buôn bán ma túy và rửa tiền.*
-
-*Cựu Thượng nghị sĩ Johnston vẫn quả quyết mình vô*
-
-*Vợ của Johnston đã công khai lên tiếng bảo vệ chồng. Trong cuộc phỏng vấn với đài CNN ngày hôm qua, bà khẳng định người đàn ông mình kết hôn tuyệt đối không bao giờ dính dáng đến bất kỳ hoạt động bất hợp pháp nào.*
-
-*Ở một diễn biến khác, cơ quan chức năng vẫn chưa thể xác nhận danh tính của Kẻ Xả Súng ở Hồ Snail, người đã bị bắt giữ hơn một tháng trước. Nghi phạm không mang theo giấy tờ tùy thân, không có dữ liệu vân tay lưu trữ, không dùng thẻ tín dụng hay sở hữu bất kỳ hồ sơ lý lịch nào. Cái tên ban đầu gã khai với cảnh sát hóa ra thuộc về một đứa trẻ đã qua đời trong vụ lật thuyền ở Hồ Snail từ hai mươi năm trước. Tên xả súng hiện bị cáo buộc tội…*
-
-Miriam dằn tay tắt phụt đài.
-
-“Này!” Jack cất tiếng. “Anh đang nghe mà!”
-
-“Nhưng bọn trẻ đâu cần nghe mấy thứ đó,” Miriam đáp. “Chẳng thích hợp tẹo nào. Thà để chúng nghe lại bài hát lúc nãy còn hơn.”
-
-“Thế nghĩa là bọn con được nghe bài đó ạ?” Lindsey tò mò hỏi.
-
-“Không.”
-
-Chiếc xe lại tiếp tục lăn bánh trong im lặng. Miriam đăm đăm nhìn qua cửa kính. Họ lướt qua những ngôi nhà ngăn nắp với thảm cỏ xanh mướt và những bụi thủy tiên vàng vừa chớm nở. Những ngôi nhà nơi các cặp vợ chồng cùng nhau nấu bữa tối, cãi vã, ngó lơ nhau, hoặc tống đám trẻ ngồi trước màn hình tivi rồi lén lút chuồn lên phòng ngủ cho một cuộc mây mưa chớp nhoáng. Những ngôi nhà nơi lũ trẻ mải mê vẽ tranh khủng long, làm đổ sữa ra sàn, làm chủ trì cho lễ kết hôn của hai con thú bông yêu thích, hoặc
+Giờ thì bạn chẳng còn gì để làm ngoài việc buông bỏ. Để *thu mình như một con ốc mượn hồn*, giống như lời người ta từng dạy trong chương trình truyền hình thiếu nhi cũ rích mà bạn yêu thích đến thế. Để lắng nghe chú chó của mình, bước vào xe, rồi lái xe đi mãi, đi mãi.

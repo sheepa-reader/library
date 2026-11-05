@@ -4,13 +4,13 @@
 
 Ổ BÁNH THỊT NÔN MỬA, con bé Lindsey đã trìu mến đặt tên cho món ăn như thế. Bản thân Miriam chưa bao giờ ưa nổi món đó, nhưng Jack thì mê tít. Thịt cuộn nướng vốn là biểu tượng kinh điển trong ký ức tuổi thơ kiểu Mỹ của Jack: thời kỳ thảnh thơi rong ruổi đạp xe và quây quần bên bữa tối gia đình. Thịt cuộn nướng ăn kèm khoai tây nghiền và ngô ngọt nguyên bắp. Nước sốt thịt sánh mịn rót ra từ chiếc âu bạc sang trọng. Liệu có bánh quy bơ xốp không nhỉ? Dĩ nhiên là phải có rồi: từng lớp bánh giòn rụm, thơm nức mùi bơ, rồi lại được phết thêm một lớp bơ béo ngậy nữa cho cẩn tắc vô áy náy.
 
-Miriam chẳng mấy khi nấu những món như thế. Thực đơn ưa thích của cô là món gà xào với ức gà nạc không da, bánh taco nhân đậu phụ và súp đậu lăng. Toàn những món lành mạnh, thanh đạm và bảo đảm tuyệt đối không làm tắc nghẽn
+Miriam chẳng mấy khi nấu những món như thế. Thực đơn ưa thích của cô là món gà xào với ức gà nạc không da, bánh taco nhân đậu phụ và súp đậu lăng. Toàn những món lành mạnh, thanh đạm và bảo đảm tuyệt đối không làm tắc nghẽn động mạch vành. Jack vẫn luôn miệng khẳng định mình chẳng hề phiền lòng. Thế nhưng thi thoảng, vào những lúc ngỡ cô không để ý, anh lại lén đút đám hạt đậu và súp lơ xanh cho con chó giải quyết giùm.
 
 Jack chẳng bao giờ nấu nướng, đơn giản vì anh bận làm việc. Anh không giặt giũ quần áo, chẳng buồn nhặt nhạnh mấy chiếc ô tô mô hình Hot Wheels vương vãi khắp cầu thang, và càng không bao giờ cạo sạch đám kẹo dẻo hình sâu ăn dở trộn lẫn bã cà phê espresso bị giẫm bẹp dí vào thảm mỗi bận lũ trẻ bày trò chơi “làm vườn”. Lịch trình của anh gói gọn trong chuỗi hoạt động: thức dậy, đi làm, về nhà, rồi lại ngồi làm việc tại nhà. Vào những dịp hiếm hoi chịu dừng tay trò chuyện cùng vợ, anh cũng chẳng có chủ đề nào khác ngoài điệp khúc *công việc, công việc, công việc và công việc*, điểm xuyết thêm vài mẩu tin tức u ám ủ dột mà anh vừa nghe lỏm được trên bản tin thời sự.
 
 Thế nhưng, biết đâu cô nên bao dung và thấu hiểu hơn một chút? Đó chính xác là những gì Miriam Chuyên viên Trị liệu tâm lý đang nhỏ nhẹ khuyên nhủ Miriam Người Vợ Bất Mãn: *Dĩ nhiên là cô có quyền bực bội. Đây đâu phải cuộc sống màu hồng mà cô từng kỳ vọng khi bước chân vào hôn nhân. Nhưng hãy thử nhìn nhận sự tình từ góc độ của chồng cô xem sao.*
 
-Jack phải cày cuốc cả ngày thứ Bảy. Anh lại phải nai lưng làm việc vào Chủ nhật. Hãng luật Rufus Mather nơi anh làm việc luôn muốn anh có mặt túc trực tại văn phòng. Bù lại, anh được đặc ân làm việc tại nhà vào Đêm Giáng sinh. Đã nhiều tháng trôi qua anh chưa từng có nổi một kỳ nghỉ
+Jack phải cày cuốc cả ngày thứ Bảy. Anh lại phải nai lưng làm việc vào Chủ nhật. Hãng luật Rufus Mather nơi anh làm việc luôn muốn anh có mặt túc trực tại văn phòng. Bù lại, anh được đặc ân làm việc tại nhà vào Đêm Giáng sinh. Đã nhiều tháng trôi qua anh chưa từng có nổi một kỳ nghỉ cuối tuần trọn vẹn, và mỗi bận anh lê bước về đến nhà, cô vợ lại trưng ra bộ mặt cáu kỉnh (điều này âu cũng dễ hiểu thôi). Rồi sau đó, cô dọn ra cho anh một tảng đạm lúa mì seitan kẹp bánh mì nguyên cám, kèm theo một phần rau chân vịt luộc nhạt phèo.
 
 Chính nỗ lực học cách cảm thông ấy đã thôi thúc cô xắn tay chuẩn bị Bữa Tối Bất Ngờ Với Thịt Cuộn Nướng. Cô nướng hẳn hai ổ lớn, chu đáo tính sẵn phần thức ăn thừa để anh mang theo ăn trưa tại công ty vào hôm sau. Cô hào phóng cho thêm thật nhiều bơ vào bắp ngô. Cô làm món khoai tây nghiền béo ngậy. Cô thậm chí còn cẩn thận nhắn tin cho Jack tới hai lần nhằm bảo đảm chắc chắn anh sẽ về ăn tối. Anh quả quyết khẳng định rằng có, anh nhất định sẽ về.
 
@@ -30,7 +30,7 @@ Miriam hít một hơi thật sâu, cố nén cơn thịnh nộ đang chực b�
 
 *Mày đâu có* thực sự *muốn đấm thẳng vào mặt anh ấy đâu*, nhà trị liệu nội tâm bên trong cô lên tiếng nhắc nhở đầy lý trí.
 
-Cô cất thức ăn lại vào lò nướng, bật chế độ giữ ấm. Cô cho lũ trẻ lót dạ tạm bằng bánh quy mặn saltine. Cô kiên nhẫn đọc truyện cho chúng nghe rồi đắp chăn dỗ hai đứa ngủ. Xong xuôi, cô đi đi lại lại trong gian bếp, lòng ngập tràn nỗi ấm ức nghẹn ứ nơi cổ họng. Cô nhai hết cả một thanh bánh quy mặn và tự thưởng
+Cô cất thức ăn lại vào lò nướng, bật chế độ giữ ấm. Cô cho lũ trẻ lót dạ tạm bằng bánh quy mặn saltine. Cô kiên nhẫn đọc truyện cho chúng nghe rồi đắp chăn dỗ hai đứa ngủ. Xong xuôi, cô đi đi lại lại trong gian bếp, lòng ngập tràn nỗi ấm ức nghẹn ứ nơi cổ họng. Cô nhai hết cả một thanh bánh quy mặn và tự thưởng cho mình một ly rượu vang sóng sánh. Đúng lúc ấy, tiếng động cơ xe quen thuộc của Jack vang lên ngoài lối lái xe trước nhà.
 
 Chú chó Roxster lập tức sủa ầm ĩ.
 
@@ -64,7 +64,7 @@ Cửa chính bật mở. Roxster gầm gừ dữ tợn từ tận đáy họng. 
 
 Roxster đớp tới tấp, bọt dãi trắng xóa bắn tung tóe lên người Jack.
 
-“Ké
+“Kéo nó ra! Kéo nó ra mau!” Jack hét toáng lên, tay chân luống cuống đẩy chú chó ra xa. Miriam kịp thời chộp lấy vòng cổ của nó rồi giật mạnh lùi lại, ghì chặt nó xuống sàn nhà.
 
 “Anh có sao không?” Cô hỏi Jack, ánh mắt đảo qua đảo lại giữa người chồng và chú chó với vẻ cẩn trọng tuyệt đối dành cho cả hai. Từ thuở cha sinh mẹ đẻ đến giờ, chưa bao giờ cô thấy Roxster phản ứng dữ dội đến mức ấy với bất kỳ ai.
 
@@ -78,7 +78,7 @@ Tất nhiên, đó chẳng phải là một ý nghĩ giàu lòng trắc ẩn cho
 
 Miriam quay vào bếp chuẩn bị bữa tối. Cô cho thêm chút bơ vào món khoai tây nghiền, rót một ly rượu vang cho mình và một ly cho Jack, rồi bày biện bàn ăn. Mắt cô vẫn không rời chú chó. Lúc này nó đang đứng chôn chân nơi ngưỡng cửa, ánh mắt găm chặt vào người đàn ông trong phòng khách với vẻ đầy ngờ vực.
 
-Jack ngả lưng trên ghế sô pha cùng chương trình thời sự ưa thích. Anh xem nó đầy ám ảnh
+Jack ngả lưng trên ghế sô pha cùng chương trình thời sự ưa thích. Anh xem nó đầy ám ảnh vào bất cứ khoảnh khắc nào không bị công việc nuốt chửng. Miriam không tài nào hiểu nổi vì sao anh chẳng chịu đọc báo trên điện thoại như một công dân của thế kỷ hai mươi mốt. Nhưng không, Jack thích dán mắt vào màn hình ti vi hơn.
 
 Miriam ghét cay ghét đắng tiếng rì rầm đơn điệu phát ra từ các bản tin thời sự. Thứ âm thanh buồn tẻ ấy chỉ tổ làm cô thèm hút một điếu thuốc.
 
@@ -110,7 +110,7 @@ Jack quét sạch từng hạt ngô. Anh tọng từng nĩa khoai tây nghiền 
 
 “Sao hả?”
 
-“Là bánh thịt cuộn.” Jack dùng nĩa chọc
+“Là bánh thịt cuộn.” Jack dùng nĩa chọc chọc vào miếng thịt.
 
 “Anh không hào hứng sao? Em xin công thức từ chị gái anh đấy.”
 
@@ -140,7 +140,7 @@ Jack cười khẽ, đoạn đẩy cái đĩa thịt cuộn nướng ủ rũ ra 
 
 “Sao em?”
 
-“Thì, có
+“Thì, có khi bây giờ mọi chuyện đã khác rồi,” cô gợi ý, “đã bao nhiêu năm trôi qua rồi cơ mà. Biết đâu giờ khẩu vị đổi thay, anh lại thích thì sao.”
 
 “Gì cơ, em muốn anh *thử ăn* đấy à?”
 
@@ -162,7 +162,7 @@ Jack thở dài thườn thượt. Anh dùng nĩa xắn một mẩu thịt cuộ
 
 “Được thôi,” cô bảo. Cô lấy nĩa xiên một miếng thịt cuộn nướng rồi bỏ tọt vào miệng. Mùi vị quả thực kinh khủng khôn tả. Cô nôn ọe rồi nhổ ngay thứ đó trở lại đĩa.
 
-“Ôi trời đất ơi, kinh khủng thật.” Cô hớp một ngụm rượu vang thật lớn để tẩy sạch khoang miệng. “Đúng là thứ tệ hại
+“Ôi trời đất ơi, kinh khủng thật.” Cô hớp một ngụm rượu vang thật lớn để tẩy sạch khoang miệng. “Đúng là thứ tệ hại nhất trần đời mà em từng nếm thử.”
 
 “Thấy chưa? Anh đã bảo rồi mà.”
 

@@ -1,90 +1,77 @@
-# KÝ ỨC QUÁ KHỨ
+# VƯỜN THÚ
 
-**BRATTY**
+**VÀO BUỔI SÁNG THỨ SÁU,** Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: *Anh đi làm sớm. Yêu em, Jack.*
 
-**CẬU IM LẶNG** như một con sao biển.
-Cậu phẳng lặng như mặt hồ không một gợn sóng.
+Miriam lo cho lũ trẻ ăn uống, tắm rửa rồi sửa sang quần áo gọn gàng cho chúng. Cô đưa hai đứa đến trường. Hôm đó cô chỉ có hai lịch hẹn tư vấn, mà cả hai đều rơi vào cuối buổi chiều. Thế là cô dắt Roxster đi chạy bộ. Trên bãi cỏ trước sân nhà Kate và Fred, chen giữa những mảng sương giá dính trên ngọn cỏ và đám hoa giọt tuyết đang nở rộ, có tầm năm mươi con thỏ. Roxster chồm tới. Cô vội giật mạnh dây xích kéo nó lại. Vài con thỏ giật mình tản ra, nhưng mấy con còn lại chỉ ngồi yên, trơ mắt nhìn chú chó ngốc nghếch.
 
-Cậu không được phép xem tivi. Không được phép ngồi lên ghế sofa. Không được phép ăn vặt trước bữa tối. Càng không được phép đi tất trong nhà nếu đôi tất ấy đã từng xỏ vào giày dù chỉ một giây. Tóm lại, cậu không được phép tồn tại.
+Trên đường về, cô thấy Holly đang dỡ đồ tạp hóa từ trên xe xuống. Holly vẫy tay chào.
 
-Khi một người chịu khó giữ im lặng, khi người ta tập cho mình vẻ ngoài phẳng lặng đến mức vô
+“Tớ nghĩ Kate đang gặp rắc rối lớn với lũ thỏ rồi đấy,” Miriam vừa chạy chậm lại khi tiến đến gần vừa nói.
 
-*Chúng ta vẫn đang phải trả giá cho sai lầm của con đấy.* Mà xét trong ngữ cảnh của câu *“Nhìn vết ố trên áo của Bradford này! Giờ thì phải vứt cái áo đi rồi”*, điều đó có nghĩa là chính cậu, Bradford, mới là cái sai lầm tai hại và tốn kém ấy.
+“Cậu ấy *bảo* làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.
 
-Cậu không hề ngu ngốc, bất chấp những lời bà ta ra rả hằng ngày. Cậu biết suy luận. Cậu biết bày mưu tính kế. Cậu quyết định không đi hỏi bố mình, đơn giản vì bố cậu đã bị phe đối phương vô hiệu hóa hoàn toàn từ lâu.
+“Hai hay ba con thì không sao. Đằng này những…”
 
-Thay vào đó, cậu nhờ Tommy đi dò la tin tức từ mẹ cậu ấy. Mẹ của Tommy vốn là một trạm trung chuyển tin đồn xuyên lục địa. Đã vậy, bà còn nướng món bánh quy sô-cô-la chip ngon tuyệt đỉnh, và những chiếc bánh quý giá ấy luôn tìm được đường chu du sang tận phòng ngủ của Brad, nơi cậu giấu tiệt chúng dưới đáy tủ quần áo.
+“Năm mươi tư con. Cậu ấy đếm rồi. Cậu ấy vẫn đang miệt mài cho chúng ăn đấy.”
 
-Giờ thì cậu đang nhồm nhoàm nhai một chiếc, đầy lộ liễu và ngang nhiên ngay trên chiếc sofa màu trắng. Vụn bánh rơi lả tả xuống tấm thảm cũng màu trắng muốt. Cậu sẽ phải tự vác máy hút bụi ra dọn sạch trước giờ giới nghiêm, bởi nhà cậu chẳng đời nào nuôi chó để liếm láp đám vụn ấy (theo quy chuẩn bất di bất dịch của gia đình thì loài chó là lũ sinh vật bẩn thỉu).
+“Lũ thỏ ở đâu ra mà lắm thế?”
 
-*Mà có nuôi cũng chẳng khác quái gì*, mẹ kế cậu từng phán như đinh đóng cột. *Sống chung với Bradford thì có khác gì sống chung với một con chó đâu, chỉ có điều nó kém ngoan ngoãn hơn và còn biết cãi lại.*
+“Tớ nghĩ chúng ra đời theo cách tự nhiên thôi.”
 
-Tận sâu trong lòng, cậu biết mình giống loài sói hơn là giống chó, nhưng cậu vẫn chọn cách im lặng. Phớt
+“Thế thì, ừm, nhanh thật đấy.”
 
-Cậu bật tivi lên. Cậu gác chân lên bàn trà. Đôi tất của cậu bám đầy bụi bẩn. Đôi tai cậu căng ra như ra-đa, đón bắt từng âm thanh nhỏ nhất phát ra từ phía cửa garage. Cậu sẽ nghe thấy tiếng cửa cuốn rục rịch mở ra, nghe thấy tiếng xe của bà ta tiến vào, rồi tiếng cửa xe đóng sầm khô khốc. Nếu lúc đó mà cậu chưa kịp chuồn lẹ, bà ta sẽ bắt quả tang cậu ngay tại phòng khách, bắt quả tang ngay tại khoảnh khắc cậu đang ngang nhiên tồn tại.
+“Người ta chẳng phải tự nhiên mà có câu so sánh ‘nhanh như thỏ đẻ’ đâu. Cậu ấy còn cho cả gấu mèo ăn nữa cơ.”
 
-Cậu vặn nhỏ âm lượng tivi xuống mức cẩn tắc vô áy náy. Cậu bật một bộ phim lên xem.
+“Thật sao?”
 
-Phim điện ảnh *Peregrine*, với sự tham gia của Ricardo Merman trong vai Thám tử Eddie Tides.
+“Thật mà. Nhưng nói nghiêm túc nhé… tớ có chuyện này nhất định phải nói với cậu.”
 
-*“Tôi chẳng hiểu nổi làm sao cậu có thể xem đi xem lại cái bộ phim ngớ ngẩn đó mãi thế không biết,”* Helena lần nào bắt gặp cũng buông lời xỉa xói. Cậu đã cày nát bộ phim này ít nhất cả trăm lần. Cậu thuộc làu từng câu thoại. Cậu mường tượng xem cảm giác sẽ ra sao khi được làm một thám tử bí mật, được xâu chuỗi manh mối, phá án và tháo gỡ từng nút thắt của những điều bí ẩn. Cảm giác được bước lên con tàu hai thân cũ kỹ rồi giong buồm ra khơi, hệt như viên thám tử đã làm ở cảnh kết, hướng thẳng về phía chân trời rực rỡ. Để bỏ lại sau lưng tất cả những năm tháng ngột ngạt này, trong chính ngôi nhà này, cùng những tấm thảm trắng tinh, những bức tường trắng toát và chiếc sofa trắng muốt vốn tồn tại chẳng phải để ngồi mà chỉ để làm màu, cho đến khi tất cả bọn họ phai nhạt dần rồi chìm hẳn vào hậu cảnh cuộc đời cậu. Chúng sẽ ngày càng trở nên vô nghĩa, cho tới một
+“Chuyện gì thế?”
 
-Cậu chẳng buồn bận tâm đến những gì Helena nói, bởi bà ta chẳng qua chỉ là một cơn giông bão sầu thảm, một trận ngập lụt, một cơn lốc xoáy rồi cũng sẽ sớm quét qua đời cậu mà thôi. Một ngày nào đó, bà ta sẽ bốc hơi khỏi tâm trí cậu.
+Holly thở dài: “Sáng nay, trên đường từ siêu thị Value Valley về, tớ thấy Jack. Tớ nghĩ là vậy. Tớ không xuống xe nói chuyện, nhưng tớ thề đúng là Jack.”
 
-Và ngay hôm nay, bà ta đã chẳng đáng để cậu bận tâm rồi.
+“Ở đâu?”
 
-Bà ta đã không bắt quả tang được cậu. Bộ phim vừa vặn khép lại. Cậu nghe thấy một tiếng động. Tiếng gõ cửa lộc cộc. Cậu giật thót mình, tim nảy lên một nhịp. Nhưng hóa ra chỉ là Tommy đang đứng lù lù ngoài hiên.
+“Trong xe của anh ấy. Nhưng trông như thể anh ấy đang ngủ.”
 
-“Này bạn hiền.” Tommy mang sang một đĩa bánh quy mới ra lò, hãy còn bốc khói ấm sực. “Đang xem trò gì đấy?”
+“Anh ấy ngủ trong xe sao? Cậu có chắc đó là anh ấy không?”
 
-“*Peregrine.* Nhưng hết mất rồi.”
+“Gần như chắc chắn. Tớ nhận ra chiếc xe của Jack mà. Với lại anh ấy còn đội cái mũ fedora đó nữa. Suýt nữa tớ đã tấp xe vào gõ cửa kính. Nhưng tớ không muốn anh ấy biết là tớ dòm thấy.”
 
-Tommy thản nhiên giật lấy điều khiển, bấm chuyển kênh liên tục cho đến khi dừng lại ở chương trình truyền hình yêu thích của cậu: bộ phim kể về một con tàu viễn du khắp địa cầu với vị thuyền trưởng chó cùng đoàn thủy thủ toàn là muông thú. Tập đang chiếu trên màn hình là bản phát lại của mùa thứ bảy, trích từ chuỗi năm tập phim kinh điển khi con tàu SS *Deliverance* bị mất tích giữa biển khơi. Thuyền trưởng Barksford đã bẻ lái tàu về hướng nam để tránh một cơn bão nhiệt đới, nhưng cơn bão quái ác lại đổi hướng và tóm gọn lấy họ. Nó đánh sập toàn bộ hệ thống định vị, liên lạc lẫn mạng lưới điện trên tàu. Viên hoa tiêu (khi ấy là một chú rùa cẩn trọng) đành vạch lộ trình mò mẫm theo các vì sao. Con hươu cao cổ thì hai lần trượt chân lộn cổ xuống biển. Chú sư tử, do suy sụp vì thực đơn toàn cá sống tanh tưởi, đã quay
+“Xe của anh ấy đỗ ở đâu?”
 
-“Tao mê tập này dã man,” Tommy nói. “Mày thà bị kẹt trong thân xác một con hươu cao cổ hay một con sư tử? Chỉ tính riêng trong tập này thôi nhé.”
+“Ngay gần đây thôi. Gần cái quán cà phê hôm nọ bọn mình bám theo anh ấy đấy. Anh ấy đỗ ở bên kia đường. Chắc giờ vẫn còn ở đó. Tớ sẽ đi cùng cậu nếu cậu muốn kiểm tra xem sao, nhưng tớ phải ở nhà đợi thợ sửa cửa sổ.” Cô chỉ tay về phía cửa sổ trước nhà mình (nơi đang được dán kín bằng bìa các tông cùng băng dính xám).
 
-“Sư tử. Tao thà chịu đói còn hơn suýt chết đuối.”
+“Có chuyện gì xảy ra thế?”
 
-“Tao cũng thế.” Tommy với tay lấy thêm một chiếc bánh quy. Một mẩu sô-cô-la vụn rơi xuống sàn. Cậu nhặt nó lên, nhưng mẩu bánh đã kịp để lại một vệt ố màu nâu nhạt. “Ôi. Xin lỗi…”
+“Chỉ là… tai nạn lúc chơi golf thôi.”
 
-“Không sao đâu,” Bradford đáp.
+Miriam chạy thục mạng về nhà. Cô gọi vào điện thoại di động của Jack, nhưng anh không bắt máy. Bỏ cả tắm rửa, cô vội vàng lao lên xe rồi phóng thẳng tới quán cà phê nơi Jack từng gặp cô nàng tóc vàng hoe hoạt bát nọ. Đúng như lời Holly, chiếc xe của Jack đang đỗ ngay vị trí được miêu tả.
 
-“Bọn mình có thể đi lấy thuốc tẩy. Hoặc…”
+Nếu ban nãy Jack có ngủ gật thì bây giờ anh đã thức. Cửa kính xe đang hạ xuống. Động cơ vẫn nổ rì rào. Những làn khói khí thải carbon monoxide phả ra lững lờ từ ống xả. Radio trên xe đang phát nhạc jazz (đoạn dạo nhạc ngắt quãng giữa bản tin mười giờ và mười một giờ). Lúc này là mười giờ năm mươi chín phút. Jack ném thứ gì đó ra ngoài cửa sổ xe. Ngay sau đó, anh kéo kính lên rồi nhấn ga phóng đi.
 
-“Kệ đi.”
+Cô không kịp nhìn xem anh vừa vứt thứ gì, đành vội vã bám đuôi theo anh. Có vẻ như anh chẳng hề để ý. Cô theo chân chiếc xe qua ba khúc rẽ phải, quay trở lại Đường Ravenswood, vòng qua một khúc quay đầu và đi qua hai giao lộ khi đèn đang vàng. Rồi anh tấp xe vào lề, dừng lại trước Trung tâm Phát triển Trẻ thơ Toddlin’ Tots. Trường mẫu giáo của Rory.
 
-“Tao xin lỗi nhé. Tao không muốn mày bị mắng đâu.”
+Jack đỗ xe. Anh bước ra. Anh đi vào trong. Rồi anh trở ra cùng Rory. Anh thắt dây an toàn cho Rory ở ghế sau rồi nhấn ga đi tiếp. Miriam bám theo anh qua thêm vài vạch đèn vàng nữa. Nhưng cô biết thừa anh đang đi đâu. Anh đi đón Lindsey. Anh rẽ vào bãi đỗ xe của Trường Tiểu học Pleasant View. Anh cùng Rory đi vào trong. Rồi cả hai trở ra cùng Lindsey.
 
-“Tao làm gì thì cũng thế thôi. Đằng nào tao chẳng bị mắng.”
+Anh đang bắt trộm các con.
 
-“Chán òm thật đấy.”
+Một viễn cảnh kinh hoàng hiện lên trong đầu cô: Jack lái xe đưa bọn trẻ đi mất, đến một nơi cô chẳng thể nào tìm thấy. Anh sẽ bắt các con phải chịu đựng cuộc sống với những chiếc giường nhà nghỉ mốc meo bọc chăn nỉ cứng ngắc, những món bánh mì kẹp ăn sáng hâm bằng lò vi sóng mua ở trạm xăng, những trò chơi đấm xe bọ rùa punch-buggy bất tận, cùng một khoảng trống không gì lấp đầy được nơi lẽ ra phải có Mẹ. Còn cô thì chịu cảnh cô độc một mình.
 
-“Mày biết không, một ngày nào đó… một ngày nào đó tao sẽ trét bùn kín cả cái nhà này. Trét khắp các tấm thảm, lên tường, lên toàn bộ đồ đạc. Chỗ nào cũng
+Cô nhấn ga phóng vụt đi bám sát họ. Xuyên qua thành phố suốt mấy dặm đường, cô liên tục bám theo. Cô tự dặn lòng hết lần này đến lần khác rằng viễn cảnh đó hoàn toàn vô căn cứ. Jack sẽ không bao giờ làm thế. Anh không đời nào làm vậy. Cô hiểu anh mà. Cô hiểu Jack.
 
-Tommy bật cười. “Tao mong là tao sẽ được đứng xem.”
+Cô *đã từng* hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?
 
-“Ừ… tao cũng mong thế.”
+Anh lái xe hướng về phía trung tâm thành phố. Cô có thể nhìn thấy bọn trẻ qua kính chắn gió phía sau: đầu chúng nhún nhảy, tay chân vung vẫy như thể đang nhảy múa. Chúng trông vô cùng hào hứng.
 
-“À, này, Brad?”
+Jack ngoặt gấp sang phải, đi theo hướng ngược lại với trung tâm. Anh lái xe qua vài dãy nhà dân cư. Rồi anh rẽ vào bãi đỗ xe của sở thú.
 
-“Sao thế?”
+Miriam giảm tốc độ rồi rẽ vào sau anh. Jack đỗ xe. Cô cũng đỗ lại, khoảng cách đủ xa để anh không nhận ra nếu không cố tình ngoái nhìn xung quanh. Rồi Jack đưa bọn trẻ ra khỏi xe và dẫn chúng đi vào sở thú.
 
-“Có chuyện này tao phải nói với mày.”
+Cô không đi theo họ vào trong. Thay vào đó, cô tiến lại gần chiếc xe của anh.
 
-“Chuyện gì?”
+Cô thử mở cửa. Anh đã khóa xe, mà cô lại không mang theo chìa khóa dự phòng. Cô ghé mắt nhìn qua lớp kính vào bên trong. Bộ vest của anh treo trong túi nilon giặt khô ở ghế sau. Mấy ly cà phê rỗng chất đống trên sàn xe phía ghế phụ. Và trên ghế xuất hiện một cuốn tiểu thuyết.
 
-“Mày nhớ chuyện mày nhờ tao hỏi mẹ tao về bố mẹ mày không, và, ừ thì…?”
+*Cái chết lịch lãm.*
 
-“Nhớ.”
-
-“Mẹ tao kể rồi,” Tommy nói. “Mẹ dặn tao không được nói cho mày biết. Nhưng mẹ bảo mẹ mày từng… Mẹ bảo mẹ mày không hẳn hòa nhập được ở câu lạc bộ đồng quê. Vớ vẩn thật sự, vì hòa nhập hay không hòa nhập ở cái câu lạc bộ đồng quê chết tiệt đó thì có gì quan trọng chứ? Trừ phi mày là mẹ tao, người coi chuyện đó là cả thế giới. Nhưng mẹ bảo bố mẹ mày chưa từng kết hôn.”
-
-“Chuyện đó tao biết rồi.”
-
-“Và họ không hề lên kế hoạch sinh ra mày. Mày chỉ tình cờ xuất hiện thôi.”
-
-Bradford trầm ngâm ngẫm nghĩ về điều đó. Trên màn hình vô tuyến, Thuyền trưởng Barksford đã nắm lấy bánh lái. Viên thuyền phó phóng tầm mắt nhìn ra mặt biển đang cuộn sóng dữ dội. Khung cảnh ấy gợi cho Bradford nhớ về một điều gì đó, nhưng cậu không chắc là điều gì. Cảm giác vừa thân thuộc lại vừa hoàn toàn mới lạ.
-
-Rồi sẽ có một ngày, mây đen tan biến, sóng biển sẽ lại êm đềm xanh biếc và chẳng còn điều gì trong số này đáng bận tâm nữa. Nhưng chưa phải lúc này. Hôm nay, Bradford vẫn đang mắc kẹt giữa cơn giông bão. “Vậy ra… tao đoán tao chỉ là… một sự cố ngoài ý muốn.”
-
-“Không,” Tommy nói. “Không, không phải thế đâu. Mày đang tồn tại. Điều đó có nghĩa là mày vốn dĩ phải tồn tại. Không, tao nghĩ chuyện này giống như… như một phép màu thì đúng hơn.”
+Trông qua trang bìa, đó có vẻ là một cuốn tiểu thuyết trinh thám.

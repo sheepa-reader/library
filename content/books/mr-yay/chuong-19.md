@@ -1,231 +1,115 @@
-# HỘI BẠN TIỆC TÙNG CỦA MIRIAM
+# MIRIAM VÀ CON CÁO
 
-**MIRIAM BƯỚC RA** bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.
+**HẲN LÀ JACK ĐÃ VỀ NHÀ** lúc nửa đêm, bởi lẽ anh đang nằm chình ình ngay cạnh cô trên giường, ngáy pho pho với cái miệng há hốc và một vệt nước dãi uốn lượn xuống cằm. Lúc này là bảy giờ sáng Chủ nhật.
 
-“Ăn đòn này!” Rory hét lớn về phía những hàng cây.
+Miriam rời khỏi giường và trút người vào bộ đồ chạy bộ. Cô thắt dây giày thể thao. Cô chẳng buồn đi rón rén (đằng nào thì cũng có ai thèm dậy đâu). Ấy thế mà cô vẫn ra khỏi nhà mà không làm thức giấc bất kỳ ai, ngoại trừ chú chó, sinh thể duy nhất trong nhà tỏ ra khao khát cuộc chạy thể dục đến điên cuồng. Nó bám gót cô qua từng căn phòng, rên ừ ừ trong cổ họng, cho đến khi cô chịu móc dây xích vào cổ nó.
 
-Jack đứng trên hiên trước quan sát với vẻ bồn chồn thấy rõ. Anh cứ nhấp nhổm đổi chân qua lại, hết bên này sang bên kia. Quãng thời gian tạm rời xa công việc dẫu chỉ trong chớp mắt thế này cũng đủ khiến anh ngứa ngáy không yên.
+Khi cô bước ra bầu không khí mờ sương ảm đạm bên ngoài, Roxster đột ngột chồm lên. Cô giật mạnh dây xích, tay lóng ngóng chật vật với chùm chìa khóa, ban đầu còn chưa hiểu nổi vì sao chú chó lại lên cơn phấn khích đến vậy. Nhưng vừa khóa xong cửa, cô quay người lại và lập tức nhìn thấy nguyên do.
 
-“Anh sẵn sàng chưa?” cô hỏi, tay vặn chìa khóa cửa.
+Một con cáo.
 
-Jack gật đầu. “Mấy đứa ơi! Đi nào, chúng ta xuất phát thôi!”
+Roxster sủa ầm ĩ và cào móng cuống cuồng xuống mặt đất, cố giật đứt dây xích để lao về phía trước.
 
-Họ rảo bước dọc theo con đường Ravenswood Drive. Rory và Lindsey ton ton chạy trước.
+“Roxster, ngoan nào. Chỉ là một con cáo thôi mà.”
 
-“Tụi con là chuột!” Lindsey vừa giải thích vừa lắc lư cái đuôi tưởng tượng rồi ngúng nguẩy bộ râu vô hình. “Tụi con
+Có điều, sinh thể này sở hữu một thần thái khiến cô rợn sống lưng.
 
-Miriam và Jack rảo bước qua những căn nhà gỗ thủ công mộc mạc cổ kính trên đường Ravenswood Drive, ngang qua những mái hiên trước rộng thênh thang (nơi vào những tháng ngày ấm áp hơn, hàng xóm láng giềng vẫn thường ngồi nhâm nhi bia bọt và ngắm lũ trẻ đạp xe). Họ đi qua ngôi nhà của đôi bạn Kate và Fred Marino, hai đứa con nhà ấy từ thuở lọt lòng đã luôn chơi đùa cùng hai đứa nhỏ nhà cô. Cả hai cứ thế cất bước trong im lặng, bởi lẽ Miriam đã dặn trước với Jack rằng cô không muốn bàn chuyện công việc của anh, cũng chẳng hứng thú với tin tức thời sự. Và dường như ngoài mấy thứ đó ra thì anh cũng chẳng còn gì để nói, cho đến khi anh cất tiếng:
+Nó đứng chễm chệ trên thảm cỏ nhà cô, bất động và phớt tỉnh một cách kỳ quái trước một con chó đang sủa inh ỏi đến mức sùi cả bọt mép. Nó nhìn cô chằm chằm. Đôi mắt đen láy của nó chiếu vào cô như thể đang mở một cuộc thẩm vấn sắc bén.
 
-“Dừng lại đã.”
+*Anh ta đã đi đâu rồi?* con cáo dường như đang chất vấn như vậy.
 
-“Sao thế?”
+*Đâu rồi?*
 
-“Nhìn kìa.” Anh chỉ tay về phía khoảng sân nhà Kate và Fred. Ở đó có một con thỏ béo tròn với đôi mắt long lanh ngơ ngác. Có lẽ chính là con thỏ từng bám theo Miriam dọc con phố hồi tháng trước. Cô đã hoàn toàn quên bẵng con thú nhỏ ấy giữa mớ hỗn độn của đợt nghỉ lễ. Dạo đó nó chỉ đi có một mình, còn con này thì dắt theo cả một bầy.
+Miriam lắc đầu.
 
-“Chỗ đó… nhiều thỏ thật đấy,” cô nói. Cô thử đếm nhưng đông quá đếm không xuể. Ít nhất cũng phải mười lăm con, có khi tới hai mươi con. Tất cả đều mềm mại, xù bông, nhưng với số lượng áp đảo nhường này thì trông chúng lại có phần rờn rợn đầy đe dọa.
+*Anh ta đã đi đâu rồi?*
 
-“Lẽ ra tụi nó phải ở dưới hang hốc nào đó chứ
+Tất nhiên, nó chẳng hỏi han gì hết. Đơn giản vì cáo thì không biết nói tiếng người.
 
-“Quả là một bí ẩn lớn. Chao ôi, giá như anh là một thám tử…”
+“Roxster, trật tự nào,” cô bảo. Thế nhưng Roxster chẳng chịu ngừng lại, mà con cáo cũng chẳng buồn nhúc nhích. Nó vẫn đứng trân trân giữa bãi cỏ, ngay cả khi cô dắt chó đi ngang qua, và ngay cả khi tiếng sủa của chú chó ngày càng trở nên dữ tợn. Ánh mắt nó vẫn đăm đăm dán chặt vào Miriam.
 
-“Thôi đi tiếp nào. Lũ trẻ chạy trước xa quá rồi kìa.”
+Cô cố lờ nó đi và bắt đầu chạy bước nhỏ dọc theo vỉa hè. Thời tiết hôm nay thật tồi tệ cho việc chạy bộ, sương mù giăng kín và u uất. Cô chạy ngang qua nhà Kate và Fred, rồi qua nhà Holly và Tom. Đều là những người bạn của cô, những tổ ấm có cuộc hôn nhân có vẻ tốt đẹp hơn cô gấp bội, những cặp đôi cùng nhau nuôi dạy con cái, cùng nhau hẹn hò tối thứ Bảy, và cùng thức dậy chung một giường vào mỗi sáng Chủ nhật. Trong khi đó, hầu như mọi buổi sáng và phần lớn các dịp cuối tuần, mỗi khi cô mở mắt ra thì Jack đã bốc hơi đi đâu mất từ đời nào.
 
-Hai đứa nhỏ đã gần tới nơi: ngôi nhà của Holly và Tom Waters nằm ở trên đỉnh dốc phía bên kia đường. Chúng đứng ngoan ngoãn chờ bố mẹ băng qua, y hệt hai chú chuột con biết nghe lời. Ngay sau đó, chúng phóng vội qua bãi cỏ, bước lên mấy bậc tam cấp rồi dùng tay cào cào vào cánh cửa. Cửa bật mở.
+Cô cảm thấy cô độc đến trần trụi.
 
-“Gừ gừ gừ!” Một chú nhóc bất thình lình chồm ra từ sau cánh cửa. Thằng nhóc lao vụt qua hai đứa trẻ giả chuột, phóng thẳng về phía Jack. Nó gầm gừ rồi giương vuốt cào cào trong không khí.
+Cô không còn nhớ nổi liệu bố mẹ mình từng cãi vã trước khi ly hôn hay chưa. Cô chỉ nhớ họ từng tồn tại trên hai quỹ đạo hoàn toàn riêng biệt, di chuyển quanh căn nhà mà chẳng bao giờ cắt nhau. Bố cô lọt thỏm trên chiếc ghế tựa bọc da. Mẹ cô ở trong bếp hăng hái băm hành tây. Bố cô xơi món bò hầm rượu vang hâm bằng lò vi sóng đựng trong khay giấy. Mẹ cô nằm rên hừ hừ trên sàn tập gập bụng, hai chân đạp tròn trong không khí. Họ không bao giờ đánh răng cùng một lúc. Mẹ cô đi ngủ từ sớm. Bố cô thức rất khuya. Rồi ông bắt đầu đi chơi về muộn. Và rồi, tầm vài tháng trước ngày họ dắt nhau ra tòa, ông bỗng dưng đổi khác.
 
-“Chad!” Holly quát lớn. “Chad, mẹ dạy con mở cửa đón khách như thế đấy à?”
+Trong suy nghĩ ngây thơ của một đứa trẻ như cô lúc ấy, ông đột nhiên trở nên vui tính lạ thường và luôn sẵn sàng ở bên con gái. Ông luôn miệng huýt sáo, đập tay ăn mừng, mua đủ thứ quà bánh cho cô. Ông đưa cô đi ăn kem, chơi golf mini, xem phim ở rạp. Cô muốn ăn bỏng ngô hay kẹo? Ông chẳng bắt cô phải chọn lựa. Cứ việc lấy cả hai! Ông học những bài hát cô yêu thích, đọc những cuốn sách cô say mê, mua đúng những món cô khoái khẩu. Ông dày công gọt giũa một hình tượng hoàn hảo về bản thân, một người cha tuyệt vời và hết mực gắn kết, cốt để củng cố cho kịch bản của riêng mình:
 
-“Nhưng mẹ ơi, con là khủng long velociraptor mà!” Chad gầm gừ đáp lại để chứng minh thân phận.
+*Ông* vẫn luôn ở đây, làm một người cha mẫu mực; chỉ có *bà vợ* là kẻ hẹp hòi muốn xua đuổi ông đi.
 
-“Chad!” Mẹ cậu bé khẽ lắc đầu, nhưng cũng chẳng buồn ngăn thằng nhóc tiếp tục lượn lờ quanh Jack rồi nhe răng đớp đớp. “Mừng quá, cuối cùng cả nhà cũng sang được! Vào đi mọi người! Tớ pha cocktail rồi đấy!”
+Hoặc ít nhất Miriam đã từng tin sái cổ như thế, cho đến khi cô đủ lớn và mẹ cô huỵch toẹt toàn bộ sự thật.
 
-Miriam ngồi thưởng thức cocktail trong phòng khách cùng Holly và Kate. Lũ trẻ thì thi nhau rượt đuổi, vừa xoay tròn vừa la hét ầm ĩ khắp các ngóc ngách trong nhà.
+*Con còn nhớ mấy “chuyến đi tĩnh tâm công tác cuối tuần” đó không? Con nhớ cái mặt ông ấy trông thế nào lúc vần xác về nhà chứ? Sảng khoáaaaai làm sao. Hừ!*
 
-“Bọn nó chẳng bao giờ biết chán cái trò này thì phải,” Miriam nhận xét khi bầy nhóc vừa rầm rập chạy vụt qua.
+Cái kịch bản mẫu mực ấy cứ thế tái diễn với những người vợ tiếp theo của ông. Ông kết hôn. Ông chán ngấy. Và rồi một chuỗi “những chuyến đi tĩnh tâm công tác cuối tuần bắt buộc” diễn ra, nạp đầy sự sảng khoái để ông sẵn sàng bước vào một vụ ly hôn mới.
 
-“Trông mê mẩn như bị thôi miên ấy,” Kate nói.
+Miriam chạy hai dặm đầy khổ ải lượt đi rồi lại hai dặm lượt về, trong khi Roxster cứ thế giật phăng dây xích kéo cô đi suốt quãng đường. Nó sủa inh ỏi vào bất kỳ sinh vật nào trong tầm mắt, từ sóc, thỏ cho tới mèo, bất kể trong nhà hay ngoài sân. Cô chưa từng nhận ra cái khu ngoại ô này lại nhung nhúc động vật đến thế, cho tới khi Roxster nghĩ ra cái trò tiêu khiển là sủa vào *tất cả bọn chúng*. Trước đây nó đâu có sủa lắm thế. Nó chưa từng ồn ào hay bồn chồn như vậy, mãi cho đến khoảng dịp Giáng sinh. Có lẽ chú chó này đã linh cảm được sự rạn nứt sắp xảy ra của cái “đàn” này. Hoặc đơn giản là nó đang cần một liều Prozac dành cho chó.
 
-“Đúng hơn là phát kiệt sức thì có,” Holly than thở.
+Cô rảo bước trên đoạn đường cuối cùng của phố Ravenswood Drive. Cô đinh ninh rằng khi về đến nhà, chồng mình đã tắm rửa thơm tho và chưng diện chỉnh tề để chuẩn bị đi làm, thắt cà vạt, khoác áo vest chỉn chu dù văn phòng ngày Chủ nhật chẳng có ai quy định trang phục. Hẳn anh lại tranh thủ ngấu nghiến vài phút tin tức trên truyền hình, rồi bỏ mặc đống bát đĩa bẩn cùng hai đứa trẻ, những đứa nhóc chỉ chực nhào ra bấu lấy cô ngay khoảnh khắc cô vừa mở cửa.
 
-“Nhìn vệt dãi lòng thòng trên cằm Rory kìa,” Miriam nói. Rory có đeo yếm, nhưng nước dãi đã thấm ướt đẫm cả vạt áo cậu bé.
+Mẹ kiếp, cô thèm một điếu thuốc đến phát rồ.
 
-“Tớ chỉ mong mọi
+Miriam chẳng hề chuẩn bị tâm lý cho việc con cáo vẫn còn trơ trơ ở đó, ngay trong sân nhà mình. Vẫn nguyên xi là con cáo ấy. Ngay đúng vị trí cũ. Nó trố mắt nhìn cô khi cô tiến lại gần.
 
-Miriam nhấp một ngụm cocktail: rượu vodka mật ong hoa atiso đỏ pha với dâu tây tươi nghiền nhuyễn, điểm xuyết một nhánh bạc hà.
+*Người đó đã đi đâu rồi?*
 
-“Món này tuyệt thật đấy,” cô khen.
+Roxster phát ra một tiếng gầm gừ đe dọa.
 
-“Nó gợi nhớ đến mùa xuân.” Holly trông có vẻ đăm chiêu. Bên ngoài, mưa lạnh bắt đầu rơi. “Tớ uống hết một ly rồi, nên cậu phải uống đuổi theo đấy.”
+“Này! Biến khỏi sân mau!”
 
-Miriam hẳn cũng đã nốc cạn một ly từ lâu, nếu như trong nhà cô có một đứa trẻ như Chad thả rông chạy nhảy.
+Con cáo không hề nhúc nhích. Nó chỉ chằm chằm nhìn cô qua hai hốc mắt trống rỗng. Cô bước lại gần hơn, đinh ninh Roxster sẽ dọa cho nó khiếp vía mà bỏ chạy. Nhưng nó không chạy. Dường như có thừa thời gian, nó thong thả rảo bước về phía ngôi nhà, ung dung trèo lên từng bậc thềm rồi chễm chệ ngay giữa hàng hiên (đúng cái vị trí ngăn cách giữa cô và cánh cửa chính).
 
-Chad chạy vụt qua, gầm gừ sùi bọt mép, rồi tung ra một đòn tấn công kiểu khủng long velociraptor nhắm thẳng vào các ông chồng hoàn toàn mất cảnh giác. Mấy người đàn ông tụ tập trong bếp, vừa uống bia vừa thong thả thái rau củ.
+“Này! Cáo kia! Đi chỗ khác ngay!”
 
-Nhìn từ xa, Fred Marino và Tom Waters trông chẳng khác nào hai anh em sinh đôi cùng một bọc. Cả hai đều sở hữu khuôn hàm vuông vức góc cạnh cùng mái tóc nâu cắt ngắn chuẩn chỉ. Họ cạo râu nhẵn nhụi, đội mũ lưỡi trai và diện áo sơ mi kẻ sọc có cổ, cẩn thận đóng thùng trong những chiếc quần jean đắt tiền. Ngay cả tiếng cười của họ cũng giống nhau đến kỳ lạ, vang rền, nam tính và ngập tràn vẻ tự tin. Họ từng chơi bóng bầu dục cùng nhau hồi trung học, học chung ngành kinh doanh ở đại học, rồi tiếp tục say sưa sát cánh trong cùng một hội nam sinh (nơi có lẽ họ đã dành trọn thời thanh xuân cho những đêm ném bóng vào cốc bia, chơi bi lắc, rồi đập tay ăn mừng hay thúc ngực nhau chan
+Cô dắt con chó tiến lên được nửa chừng bậc thềm. Roxster táp đớp vào không khí và sủa vang dội. Con cáo nhất quyết không nhúc nhích dù chỉ một phân. Nó cứ đứng đó lảng vảng, hoàn toàn phớt lờ sự tồn tại của một con chó đang sủa ầm ĩ, đôi mắt vẫn dán chặt vào cô.
 
-Con khủng long velociraptor (vốn dĩ là chú nhóc Chad) nhổ nước bọt vào Jack. Miriam thậm chí còn chẳng buồn bận tâm xem chuyện gì sẽ diễn ra tiếp theo. Cô thản nhiên quay lại với hai cô bạn của mình.
+*Ở đâu? Người đó đã đi đâu rồi?*
 
-“Muốn nghe tin sốt dẻo nhất khu không?” Holly hào hứng mở lời, vẻ mặt rạng rỡ hẳn lên. “Các cậu có thấy chiếc xe cảnh sát đậu trước cửa nhà Elliot tối qua không đấy?”
+Cô còn có thể đi đâu được cơ chứ? Cô chẳng đời nào dại dột để Roxster vồ lấy sinh vật kia rồi banh thây nó ra ngay tại chỗ. Cảnh tượng đó hẳn sẽ cực kỳ nhếch nhác và tanh bưởi. Bản thân cô cũng không muốn lại quá gần (hành vi bất thường cỡ này rất có thể là biểu hiện của bệnh dại, biến thể protein gây bệnh prion, hoặc một căn bệnh truyền nhiễm mới nổi đáng sợ nào đó). Thế là cô lịch sự nhường lại hàng hiên trước cho con cáo, rồi đi vòng ra cửa sau.
 
-“Thấy chứ.” Kate khẽ cau mày. “Ánh đèn nhấp nháy làm lũ thỏ ngoài vườn sợ chạy mất dép.”
+Cô gõ gõ lên cánh cửa sau. Đèn bên trong vẫn sáng. Tiếng trẻ con líu ríu vọng ra.
 
-“À, đầu đuôi là thế này,” Holly hào hứng tiếp tục, “thằng nhóc nhà Elliot… tên nó là gì nhỉ?”
+“Này! Có ai mở cửa cho mẹ vào không nào!”
 
-“Buster.”
+Cô gõ thêm lần nữa. Vẫn chẳng có ai ra. Cô đập cửa rầm rầm.
 
-“Đúng rồi, Buster! Thằng nhóc Buster bị bắt quả tang ăn cắp vặt ở siêu thị Value Valley.”
+Cuối cùng, cô cũng nghe thấy tiếng bước chân lạch bạch rộn rã của trẻ nhỏ. Rory mở cửa. Roxster lập tức phi vụt vào nhà. Nó sủa inh ỏi đầy vẻ dữ tợn, cứ làm như có kẻ cướp xông nhà. Nhưng kẻ đột nhập ấy hóa ra lại là Jack.
 
-“Ồ. Tệ thật đấy… Tội nghiệp thằng bé,” Kate chép miệng.
+Anh đang túc trực trong bếp cùng cô con gái Lindsey.
 
-“Tội gì mà tội! Ai bảo nó táy máy đi ăn cắp cơ chứ,” Holly gạt đi.
+*Gâu gâu gâu gâu gâu!*
 
-“Nó lấy trộm cái gì thế?” Miriam hỏi.
+“Roxster, trật tự nào!”
 
-“Ừ, chuyện nực cười chính là ở chỗ đó,” Holly nói. “Thịt bò khô. Mà không phải chỉ một gói đâu nhé, cả một đống luôn! Thằng bé nhét đầy túi áo, túi quần, nhét chặt cả hai bên ống tay áo. Thậm chí nó còn nhồi cả vào trong tất chân nữa cơ.”
+“Mẹ ơi!” Lindsey reo lên hào hứng. “Bố con con đang làm bánh mì nướng kiểu Pháp này!”
 
-“Sao nó lại đi ăn cắp ngần ấy thịt bò khô làm gì nhỉ?”
+*Gâu gâu gâu gâu gâu!*
 
-“Thằng bé bình thường trông ngoan ngoãn, đứng đắn thế cơ mà…”
+Jack đang đứng tựa bên quầy bếp trong chiếc áo choàng tắm. Trước mặt anh là một vỉ trứng, một chồng bánh mì lát cùng túi bánh thưởng vị cá hồi. Anh ném cho con chó một mẩu bánh thưởng.
 
-“Thì trước giờ vẫn thế! Nhưng ở đời ai mà biết được một đứa trẻ lớn lên sẽ đổi tính đổi nết ra sao,” Holly tặc lưỡi. “Dù
+“Tốt nhất là ngậm miệng lại đi nhé,” anh bảo. “Gớm thật. Dạo này nó bị làm sao thế không biết?”
 
-Một tiếng va đập chát chúa bất thình lình vang lên từ phòng ăn, nối tiếp ngay sau là tiếng khóc ré xé lòng.
+“Em tưởng giờ này anh phải đi làm rồi chứ,” Miriam cất tiếng.
 
-“Chad!” Holly thét lên. Cô gần như bật phắt khỏi ghế. Phản ứng hoảng hốt ấy có phần hơi lạ lùng đối với một người mẹ mà đứa con trai vốn dĩ là một cơn lốc chuyên gây tai họa đổ vỡ.
+“À, ừm, đâu có,” Jack đáp. “Ý anh là chiều nay anh mới cần tạt qua văn phòng vài tiếng. Từ giờ đến lúc đó luật sư cấp cao Jessica cũng chưa cần anh xử lý việc.”
 
-“Không phải con đâu mẹ!” Chad gào tướng lên thanh minh. “Không phải lỗi tại con đâu! Là Nicky đấy chứ, cậu ấy làm đổ ghế đè trúng Mabel rồi!”
+“Ồ.”
 
-Kate, người mẹ mẫu mực của Nicky và Mabel, lập tức lao nhanh vào phòng ăn để thi hành cùng lúc hai nhiệm vụ: vừa dỗ dành vừa răn đe. Holly cũng lật đật chạy theo sau để tận mắt kiểm chứng xem liệu vụ này có thực sự vô can với con trai mình hay không. Miriam đứng dậy đi kiểm tra hai đứa con của mình. Cô thấy Lindsey đang ngồi thảnh thơi ở hành lang tầng trên, cạnh một lâu đài đồ chơi bằng nhựa chứa đầy những chú ngựa pony sặc sỡ.
+“Em ăn bánh mì nướng kiểu Pháp nhé?” Jack hỏi. “Thêm cả cà phê nữa chứ? Nếu em muốn đi tắm trước thì lúc tắm xong là bánh vừa chín tới luôn.” Anh nở một nụ cười hiền lành, có phần bẽn lẽn.
 
-“Rory đâu rồi con?”
+“Thế thì tốt quá,” cô đáp. Quả thực cô rất thèm được đắm mình trong làn nước nóng và xơi một đĩa bánh mì nướng kiểu Pháp. Dù vậy, trong lòng cô vẫn trỗi dậy một nỗi hoài nghi nhẹ. “Tuy nhiên, trước tiên em cần kiểm tra một chuyện đã.”
 
-Lindsey chỉ tay về phía phòng ngủ của Chad. Cánh cửa đang đóng im ỉm. Miriam thử vặn tay nắm nhưng cửa đã bị chốt chặt từ bên trong.
+“Cứ tự nhiên,” Jack nói. “Lúc nào em sẵn sàng thì cứ bảo để anh bắt đầu bật bếp rán bánh.”
 
-“Rory?” Cô gõ cửa. “Rory, con có ở trong đó không?”
+Miriam đi thẳng vào phòng khách. Cô vén nhẹ tấm rèm cửa sổ để nhòm ra hàng hiên trước nhà. Con cáo vẫn còn trơ trơ ở đó, đứng lảng vảng ngay sát cửa ra vào.
 
-Không một tiếng hồi đáp.
+“Lindsey ơi, lại đây mẹ bảo!” cô gọi. Lindsey lon ton chạy lại. “Con nhìn ra ngoài cửa sổ xem. Có cái con gì đang ở ngoài kia thế?”
 
-Cô gõ thêm lần nữa, dứt khoát hơn.
+“Một con chó ạ?”
 
-“Rory! Mở cửa ra cho mẹ nào!”
+“Một con cáo đấy. Con có nhìn thấy nó không?”
 
-Vẫn hoàn toàn im lặng. Cô lại lay mạnh nắm đấm cửa.
+Hóa ra trong trường hợp cụ thể này, cô hoàn toàn không bị phát điên.
 
-“Rory này…” Chợt có tiếng cạch nhẹ vang lên. Cánh cửa hé mở. Rory đứng sững giữa phòng, hai bàn tay trống trơn. Chú nhóc nhìn mẹ với vẻ mặt đầy thất
-
-“Mẹ! Mẹ làm con mất đồ chơi rồi đấy!”
-
-“Đồ chơi gì cơ con?”
-
-“Con khủng long ấy! Của anh Chad, nhưng anh ấy cho con mượn chơi cùng. Thế mà giờ nó biến mất tiêu rồi!”
-
-Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề *Escape Intensityville*, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.
-
-“Mẹ có thấy con khủng long nào đâu.”
-
-“Vừa nãy nó ở ngay đây mà.”
-
-“Thôi nào… Mọi thứ khác vẫn ổn cả chứ con?”
-
-Rory bĩu môi hờn dỗi: “Nhưng con thích con khủng long đó cơ.”
-
-“Mẹ tin là lát nữa con sẽ tìm thấy thôi,” cô dịu dàng an ủi. “Mẹ xuống dưới nhà nhé, nếu cần gì thì cứ gọi mẹ, được không?”
-
-Rory gật đầu. Cô cúi xuống hôn nhẹ lên trán con trai rồi quay bước ra ngoài hành lang. Ngay tắp lự, một tiếng reo đầy phấn khích vang lên sau lưng, rồi Rory hét toáng: “Đóng cửa lại đi mẹ!”
-
-Miriam ngoảnh đầu nhìn lại. Rory đã nắm gọn một con khủng long bạo chúa đồ chơi trong tay tự lúc nào. Chú nhóc nhoẻn miệng cười toe toét với mẹ. Cô mỉm cười đáp lại rồi nhẹ nhàng khép cửa phòng. Mãi về sau, khi từng bước chân đã đưa cô xuống đến tầng dưới, não bộ của Miriam mới sực nhận ra một chi tiết kỳ quặc: chiếc giường trong phòng Chad ban nãy trông khác hẳn. Nó đã được dọn dẹp phẳng phiu, ngăn nắp đến tinh tươm, dẫu cho chỉ
-
-“May quá, cậu xuống rồi,” Holly nói, nét âu lo vẫn chưa chịu tan biến khỏi khuôn mặt.
-
-“Cậu ổn chứ?” Miriam hỏi.
-
-“Không hẳn. Ý tớ là, có chứ, tớ vẫn ổn. Chỉ là dạo này tớ phải xoay xở với quá nhiều thứ cùng lúc. Hết công việc lại đến chuyện nhà cửa… Thật khó để giữ cho mọi thứ đâu vào đấy.”
-
-“Ừ, tớ hiểu cảm giác đó mà.”
-
-“Trừ việc cậu *thực sự* đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”
-
-“Tớ sẽ không kể đâu. Dù tớ chẳng nghĩ Kate lại đi phán xét chuyện đó.”
-
-“Cậu ấy sẽ phán xét đấy chứ. Cậu ấy…” Holly nhích người lại gần Miriam hơn một chút. “Dạo gần đây cậu có thấy cậu ấy khang khác không?”
-
-“Ừm, không hẳn. Trông vẫn thế mà. Sao vậy?”
-
-“Cậu có để ý cái vòng cổ cậu ấy đang đeo không?”
-
-“À, có chứ.” Một viên thạch anh cân bằng luân xa quấn dây kim loại treo lủng lẳng trên chuỗi hạt cườm. “Đồ mới sắm à?”
-
-“Tớ đoán thế. Trước tuần rồi tớ chưa từng thấy bao giờ. Cả mấy đứa nhóc nhà cậu ấy cũng đeo nữa. Cậu ấy bảo mấy viên đá đó sẽ giúp cân bằng luân xa của tụi nhỏ, hay đại loại thế.”
-
-“Nghe chuyện đó… thật ra cũng chẳng
-
-“Đúng là thế, nhưng trước giờ cậu ấy đâu có chưng diện cái chất hippie ấy tơ hơ ngay trước ngực như vậy. Lại còn dưới dạng một viên pha lê phong thủy to tổ bố nữa chứ.”
-
-Xét về diện mạo, chừng nào Miriam còn quen biết Kate, thì cô bạn này trông vẫn cứ như thể bước ra từ cùng một hội nữ sinh đại học với Holly. Cả hai đều sở hữu bộ móng tay cắt tỉa tỉ mỉ, mái tóc dài sấy bồng bềnh chuẩn mực. Họ diện những chiếc áo sơ mi kiểu cách đi cùng quần jean và giày cao gót, má dặm phấn hồng, môi thoa son tươi tắn và lông mi luôn được chuốt mascara cong vút. Đến cả gu chọn túi xách của họ cũng giống hệt nhau.
-
-“Cũng phải,” Miriam thừa nhận.
-
-“Và cậu biết gì nữa không?”
-
-“Gì thế?”
-
-“Sáng hôm nọ,” Holly hạ giọng thì thào, “lúc tớ đang chạy bộ, tớ bắt gặp cậu ấy đang đứng tập thái cực quyền.”
-
-“Thế á?”
-
-“Trước đây cậu đã bao giờ nghe Kate nhắc nửa lời về chuyện tập thái cực quyền chưa?”
-
-“Tớ không nghĩ là có đâu.”
-
-Đúng lúc đó, Kate bước trở lại phòng khách. Miriam và Holly lập tức ngồi tách nhau ra trong tích tắc, đồng loạt với lấy ly cocktail của mình với vẻ mặt thản nhiên đầy khả nghi.
-
-“Mọi chuyện ổn cả chứ?” Miriam cất tiếng hỏi.
-
-“Ổn cả rồi,” Kate mỉm cười đáp. “Chỉ là chút lệch lạc năng lượng tạm thời thôi mà. Bọn mình vừa làm bài tập hít thở sâu, rồi cùng tưởng tượng cơn đau đang bồng bềnh trôi đi mất.”
-
-Miriam thậm chí còn chưa uống hết nổi nửa ly cocktail đầu tiên thì chuông điện thoại của Jack
-
-Một phút sau, Jack ngượng ngùng lách mình bước vào phòng khách, nơi Miriam đang ngồi túm tụm cùng hội bạn.
-
-“À thì,” anh gãi đầu, vẻ mặt lúng túng thấy rõ, “vừa rồi là cô Jessica ở văn phòng gọi đấy.”
-
-“Jessica nào cơ?”
-
-“Ồ, cô ấy chỉ là… ừm, một trong các luật sư cấp cao của công ty thôi. Dù sao thì, cô ấy có một vụ kiện tụng lớn sắp ra tòa vào tuần tới và đang rất cần thêm người hỗ trợ, ngặt nỗi một luật sư cộng sự khác lại vừa lăn đùng ra ốm cúm, cho nên là…”
-
-“Cho nên sao?”
-
-“Cho nên anh bắt buộc phải đến văn phòng.”
-
-“Cái gì, ngay bây giờ luôn á?”
-
-“Ừ, đúng vậy. Chỉ… ừm, mất vài tiếng tối nay thôi. Và có lẽ là cả ngày mai nữa.”
-
-“Hôm nay là tối thứ Bảy đấy, Jack.”
-
-“Anh biết, anh biết chứ.”
-
-“Cả tuần vừa rồi đêm nào anh cũng cắm mặt làm việc tăng ca. Cả dịp cuối tuần trước cũng thế.”
-
-“Anh biết chứ, nhưng chuyện này *thực sự rất quan trọng*, Miriam à. Jessica là luật sư cấp cao, và…”
-
-Miriam đứng bật dậy. Cô dốc cạn phần cocktail còn lại trong ly vào họng. Lạy Chúa, ngay lúc này cô thèm một điếu thuốc lá đến phát điên, chỉ để có thể dí đốm tàn thuốc đỏ rực ấy dập tắt ngay trên những ngón tay gõ phím cặm cụi của chồng mình.
-
-“Cảm giác như…” Cô trừng mắt nhìn
-
-“Em nói thế là hoàn toàn không công bằng chút nào, Miriam.”
-
-“Điều không công bằng ở đây là anh bị réo đầu đến chỗ làm việc mà không hề báo trước vào một tối thứ Bảy! Đây là điều anh mong muốn đấy ư, Jack? Anh thèm khát đi làm đến mức đấy cơ à?”
-
-“Anh bắt buộc phải đi mà. Anh lỡ hứa là sẽ đến rồi, nên anh… anh…” Jack lắp bắp, câu chữ nghẽn lại nơi cổ họng.
-
-“Nên anh cứ thế mà xách mông đi chứ gì. Anh đã đưa ra lựa chọn của mình rồi đấy. Được thôi, Jack. Tốt lắm. Cứ việc đi đi. Nhưng một khi anh đã bước chân ra khỏi đây, thì đừng bao giờ thèm quay về nữa.”
-
-“Ý em là… ý em bảo là quay lại… quay lại bữa tiệc nhà Tom và Holly ấy hả?”
-
-Sắc mặt Jack bỗng chốc xám ngoét, không còn lấy một giọt máu. Anh đứng chôn chân, bối rối đến cùng cực. Giờ phút này, Miriam nhận ra mình gần như đã có thể căm ghét người đàn ông này. Chỉ cần tiến thêm một bước ngắn ngủi nữa thôi, một cơn sóng căm hờn cuộn trào sẽ cuốn phăng cô đi, nhấn chìm cô ra thật xa giữa đại dương tăm tối khôn cùng, nơi cô sẽ vĩnh viễn chẳng thể nào bơi ngược trở lại được nữa.
-
-Holly lặng lẽ chìa ly cocktail còn vơi một nửa của mình sang. Miriam đón lấy không chút do dự, rồi nốc cạn sạch chỉ trong một ngụm duy nhất.
-
-“Anh vốn dĩ là kẻ thông minh cơ mà, Jack,” cô lạnh lùng buông một câu. “Tự đi mà tìm câu trả lời.”
+“Dĩ nhiên là con thấy rồi,” Lindsey đáp. “Nhưng trông nó cứ rờn rợn kiểu gì ấy. Nó đang làm gì ở đó vậy mẹ?”

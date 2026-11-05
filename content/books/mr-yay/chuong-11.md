@@ -2,7 +2,7 @@
 
 **“CỨ ĐẾN ĂN TRƯA VỚI BỐ MẸ ĐI,”** bố anh từng nói. “Dù sao cũng là Giáng sinh.”
 
-Bratty vốn chẳng tha thiết gì chuyện đi ăn trưa. Thực ra, anh đã quên bẵng luôn cả dịp Giáng sinh. Với số dư tài khoản là một con số không tròn trĩnh, số quà anh mua
+Bratty vốn chẳng tha thiết gì chuyện đi ăn trưa. Thực ra, anh đã quên bẵng luôn cả dịp Giáng sinh. Với số dư tài khoản là một con số không tròn trĩnh, số quà anh mua được dĩ nhiên cũng tròn trĩnh bằng không. Toàn bộ số tiền lẽ ra phải dành để trả tiền thuê nhà đã bị anh nướng sạch vào chú chó.
 
 Tuxerson Max. Tux, đại diện ưu tú nhất của toàn thể loài chó. Tux cùng chiếc lưỡi dài ngoẵng và đơn độc.
 
@@ -14,7 +14,7 @@ Chiếc xe anh sở hữu là một con Toyota hatchback đời 1996 - loại ph
 
 *Trông nó chẳng khác nào xe của kẻ vô gia cư*, bố anh từng buông lời như thế, lặp lại y nguyên câu nói của mẹ kế Helena.
 
-Anh đỗ xe tít tận góc phố.
+Anh đỗ xe tít tận góc phố. Anh đến tay không, chẳng có lấy một gói quà. Anh đứng ngoài hiên nhà một hồi lâu, đắn đo giữa việc bấm chuông hay là quay đầu chuồn lẹ. Văng vẳng từ bên trong là tiếng tivi, bản nhạc nền réo rắt tiếng đàn guitar hòa quyện cùng vĩ cầm của bộ phim *Shotgun Solstice*. Bố anh chẳng bao giờ biết chán mấy bộ phim viễn tây xưa cũ ấy. Trong một khoảnh khắc ngắn ngủi, anh suýt nữa đã cảm thấy mừng vì mình được về nhà.
 
 Hẳn là hệ thống an ninh đã phát hiện ra anh, bởi cánh cửa lập tức bật mở.
 
@@ -38,7 +38,7 @@ Bữa trưa Giáng sinh bao gồm thịt giăm bông, khoai tây đút lò phủ
 
 “Dạ vâng.”
 
-“Lẽ ra
+“Lẽ ra cậu nên học một trường đại học danh giá hơn,” mẹ kế Helena cất giọng. Bà ta làm bộ cắn một mẩu khoai tây be bé. “Thay vì an phận với cái trường công lập bang hạng xoàng đó. Đáng lẽ bây giờ cậu đã có nhiều lựa chọn tốt hơn rồi.”
 
 Cuộc trò chuyện cứ thế tiếp diễn, hơn hai mươi phút đồng hồ toàn những kỳ vọng của người bố về tương lai ngành ngân hàng, chứng khoán rồi luật sư, đan xen cùng những lời xỉa xói trịch thượng của người mẹ kế. Còn anh chỉ biết gật gù phụ họa, cố gắng ăn mà vẫn phải tránh tạo cảm giác mình đang ăn thùng uống vại, bụng bảo dạ chỉ ước gì được chuồn ngay về căn hộ tồi tàn của mình với Chú Chó Bất Kỳ Ấy, nơi họ có thể yên ổn đón mừng Ngày Tuxmas. Thật khó chịu, nhưng dù sao vẫn còn ráng nhịn được, cho đến khi bố anh thốt lên: “Giá như con tham gia vài hoạt động ngoại khóa thực thụ, như thể thao, hay câu lạc bộ tranh biện chẳng hạn. Thay vì phung phí ngần ấy thời gian với Tommy.”
 
@@ -52,7 +52,7 @@ Thế rồi một thứ gì đó vỡ vụn bên trong Bratty. Có lẽ nó đã
 
 “Đủ rồi đấy, con xong rồi,” anh nói. Anh đẩy chiếc đĩa thức ăn còn đang dở ra xa, rồi đứng dậy.
 
-“Con nói vậy là có ý gì? Bữa trưa
+“Con nói vậy là có ý gì? Bữa trưa còn chưa xong mà.”
 
 Mẹ kế nhìn anh đầy vẻ khinh miệt: “Áo cậu bị đứt mất một cái cúc kìa.”
 
@@ -86,7 +86,7 @@ Anh chưa kịp suy tính thấu đáo. Anh chẳng có kế hoạch nào cả. 
 
 Sau tất cả những gì họ đã làm.
 
-Anh
+Anh xỏ vào đôi giày tồi tàn của mình. Bố mẹ bàn tán về anh như thể anh đã rời khỏi phòng từ lâu lắm rồi.
 
 “Đúng là một đứa hư đốn.”
 
@@ -110,27 +110,44 @@ Anh nhún nhảy rồi xoay một vòng, và khi vừa chạm chân xuống lòn
 
 Nếu anh thực sự ăn hại, thì ít nhất anh cũng sẽ cháy hết mình trong một chuỗi những quyết định bồng bột sai lầm. Anh sẽ chuyển đến L.A. để hội ngộ cùng Tommy. Để làm nhạc.
 
-Tommy viết lời rap. Cậu ta sở hữu chất giọng quý giá tựa vàng lỏng. Cậu ta có phong thái làm chủ sân khấu. Nhưng cậu ta cũng rất dễ bị xao lãng, lạc lối, say xỉn tối tăm mặt mũi. Cậu ta như con thiêu thân, luôn bị
+Tommy viết lời rap. Cậu ta sở hữu chất giọng quý giá tựa vàng lỏng. Cậu ta có phong thái làm chủ sân khấu. Nhưng cậu ta cũng rất dễ bị xao lãng, lạc lối, say xỉn tối tăm mặt mũi. Cậu ta như con thiêu thân, luôn bị cám dỗ bởi ánh đèn rực rỡ và những cú drop bass cuồng say. Còn Bratty là hậu phương thầm lặng. Anh viết nên các beat nhạc. Anh phối âm và cắt mẫu sample. Anh đan dệt lời rap của Tommy thành những bài hát trọn vẹn. Ít nhất thì trước đây anh vẫn làm thế, cho đến khi trường đại học và khoảng cách địa lý khiến mọi chuyện trở nên trắc trở.
 
 Anh nhắn tin cho Tommy: *đang tới L.A. đây*
 
 *Tommy:*
+
 *Cái giề cơ?!!!!!*
+
 *Bratty:*
+
 *Tao đang tới LA.*
+
 *Tommy:*
+
 *Mẹ kiếp ông bạn ơi!!!!!*
+
 *Tommy:*
+
 *Tao đang làm dở cái này*
+
 *Tommy:*
+
 *Điên rồ vãi chưởng*
+
 *Tommy:*
+
 *Kỳ diệu cực*
+
 *Tommy:*
+
 *Đếch biết phải tả thế nào nữa*
+
 *Tommy:*
+
 *Hóng cho mày nghe quá*
+
 *Bratty:*
+
 *Tao cũng thế. Đang tới.*
 
 Bratty leo lên xe, lái thẳng về căn hộ của mình. Về tới nhà, anh bắt tay vào thu dọn đồ đạc. Anh chẳng có thùng carton nào, nhưng anh cũng đâu có nhiều của nả. Anh nhét mọi thứ vào vali, túi giấy, túi rác. Anh gói ghém một bọc quần áo vào trong tấm ga trải giường. Anh khệ nệ khuân từng đợt đồ xuống xe cho đến khi chất đầy ắp. Anh bỏ lại chiếc ghế sofa. Anh để lại một mẩu giấy nhắn cho chủ nhà:
@@ -141,7 +158,7 @@ Anh lên cầu thang chuyến cuối cùng để đón chú chó. Khi anh vừa 
 
 “Gửi cho cậu đấy,” ông ta nói. “Người đưa thư vứt nó ở bậc thềm ngoài cửa. Tôi nhặt vào hộ kẻo có đứa thó mất.”
 
-Nhìn địa chỉ người gửi, Bratty nhận ra kiện
+Nhìn địa chỉ người gửi, Bratty nhận ra kiện hàng chứa đôi giày của mình.
 
 “Cảm ơn bác nhé.”
 
@@ -169,6 +186,6 @@ Trông chú chó có vẻ đã sẵn sàng lắm rồi.
 
 Cả hai bước ra ngoài hành lang. Họ sải bước xuống cầu thang rồi tiến ra khỏi sảnh lớn. Mưa phùn lạnh buốt lất phất rơi ngoài trời. Những ngọn đèn đường chớp nháy vài nhịp rồi bừng sáng. Lúc này trời đã chập choạng tối giữa đêm Giáng sinh. Tại dinh thự tít đằng xa của gia tộc Pierson, bố của Bratty đang ngồi đơ người trên chiếc ghế sofa màu trắng với ly Cognac trên tay, đôi mắt dán chặt vào màn hình. Thế rồi mẹ kế Helena cất giọng: *Em chẳng hiểu nổi sao năm nào anh cũng dán mắt vào cái bộ phim viễn tây ngớ ngẩn này được*, đoạn bà ta dứt khoát tắt phụt TV. Bratty không hề có mặt ở đó, nhưng anh thấy rõ mồn một cảnh tượng ấy trong tâm trí mình. Dù gì thì kịch bản y hệt như vậy vẫn cứ lặp đi lặp lại từ năm này qua năm khác. Họ ở trong căn nhà rộng lớn ấm cúng, có rượu ngon và ánh lửa chập chờn từ lò sưởi, nhưng cõi lòng thì hoàn toàn rỗng tuếch.
 
-Bratty thấy lạnh buốt. Đôi tất đã ẩm ướt, còn
+Bratty thấy lạnh buốt. Đôi tất đã ẩm ướt, còn những ngón tay thì tê cóng. Anh ân cần bế chú chó đặt vào ghế trước chiếc xe của mình rồi trèo vào ngồi sau tay lái. Thế là anh giương buồm hướng về tương lai. Vượt qua những ngọn đồi. Băng qua những đồng bằng tăm tối. Anh rẽ về phương nam, xuyên qua những vùng đất bằng phẳng và khô cằn. Tiếng nhạc rộn rã cất lên trên đài phát thanh, rồi thi thoảng lại rè nhiễu sóng, trước khi âm nhạc quay trở lại.
 
 “Có thể một ngày nào đó,” anh cất lời với chú chó, khi vầng thái dương đỏ ối ngoi lên đằng đông, ngay phía sau lưng anh. “Có thể một ngày nào đó, giọng hát vang lên trên đài sẽ là của Tommy. Tommy và tao.”

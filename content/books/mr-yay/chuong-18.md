@@ -1,207 +1,231 @@
-# MIRIAM VÀ CHUYÊN VIÊN TƯ VẤN HÔN NHÂN
+# HỘI BẠN TIỆC TÙNG CỦA MIRIAM
 
-**MIRIAM ĐÃ HẸN TRƯỚC** với một chuyên viên tư vấn hôn nhân vào lúc bốn giờ ba mươi chiều ngày thứ Ba. Jack hứa sẽ gặp cô ở đó. Anh bảo mình sẽ lái xe thẳng từ chỗ làm sang.
+**MIRIAM BƯỚC RA** bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.
 
-Cô xuất phát sớm cho thong thả. Bản thân cô cứ ngỡ mình rành đường, chí ít là nắm rõ khu vực xung quanh. Vả lại, cô còn có cả hệ thống định vị GPS hướng dẫn.
+“Ăn đòn này!” Rory hét lớn về phía những hàng cây.
 
-Thế nhưng cô vẫn lạc. Hệ thống GPS dẫn cô vào một con đường hai làn ngoằn ngoèo, hai bên chen chúc những dãy nhà cũ kỹ, nhà thờ, mấy cửa tiệm đóng ván kín mít, tiệm cầm đồ, điểm đổi séc thành tiền mặt, đại lý mạng di động, cùng vài quán ăn bán cá chiên và gà rán. Xen kẽ giữa chúng là những bãi đất hoang mọc đầy cỏ dại cùng vài khoảnh rừng nhỏ ngoan cường thách thức sự bủa vằn của đô thị. Cây cối khẳng khiu, trơ trọi cành lá. Cả thế giới nhuốm một màu nâu ẩm ướt, trần trụi lá mục và bùn lầy, tuyệt nhiên không có lấy một hạt tuyết. Suốt cả mùa đông năm nay đều tệ hại như thế. Chỉ độc sương mù và mưa phùn buốt giá.
+Jack đứng trên hiên trước quan sát với vẻ bồn chồn thấy rõ. Anh cứ nhấp nhổm đổi chân qua lại, hết bên này sang bên kia. Quãng thời gian tạm rời xa công việc dẫu chỉ trong chớp mắt thế này cũng đủ khiến anh ngứa ngáy không yên.
 
-Hệ thống định vị chẳng hề nhắc cô rẽ đâu cả. Có vẻ như đây đúng là hướng đi chuẩn xác rồi. Tư vấn hôn nhân. Cô và Jack sẽ cùng nhau giải quyết những khúc mắc giữa hai vợ chồng, hoặc nói thẳng ra là vấn đề của riêng Jack: chứng nghiện công việc của anh.
+“Anh sẵn sàng chưa?” cô hỏi, tay vặn chìa khóa cửa.
 
-Miriam bật radio lên rồi rà qua các kênh. Chán ngắt. Vô vị. Nhạt nhẽo. Lại tin tức thời sự. Rồi đến một bài hát đã nghe mòn cả tai.
+Jack gật đầu. “Mấy đứa ơi! Đi nào, chúng ta xuất phát thôi!”
 
-Đúng lúc ấy, một luồng điện giật bất thình lình xoáy qua ngón tay cô.
+Họ rảo bước dọc theo con đường Ravenswood Drive. Rory và Lindsey ton ton chạy trước.
 
-“Á!”
+“Tụi con là chuột!” Lindsey vừa giải thích vừa lắc lư cái đuôi tưởng tượng rồi ngúng nguẩy bộ râu vô hình. “Tụi con đang dẫn đầu đường đua! Nhưng thật ra thì con mới là người chiến thắng. Con là một con chuột giỏi hơn Rory nhiều.” Nói đoạn, con bé vọt qua mặt cậu em trai để chứng minh cho lời mình vừa khẳng định.
 
-Cô giật phắt tay lại. Chiếc xe chệch hướng lảo đảo, buộc cô phải tấp
+Miriam và Jack rảo bước qua những căn nhà gỗ thủ công mộc mạc cổ kính trên đường Ravenswood Drive, ngang qua những mái hiên trước rộng thênh thang (nơi vào những tháng ngày ấm áp hơn, hàng xóm láng giềng vẫn thường ngồi nhâm nhi bia bọt và ngắm lũ trẻ đạp xe). Họ đi qua ngôi nhà của đôi bạn Kate và Fred Marino, hai đứa con nhà ấy từ thuở lọt lòng đã luôn chơi đùa cùng hai đứa nhỏ nhà cô. Cả hai cứ thế cất bước trong im lặng, bởi lẽ Miriam đã dặn trước với Jack rằng cô không muốn bàn chuyện công việc của anh, cũng chẳng hứng thú với tin tức thời sự. Và dường như ngoài mấy thứ đó ra thì anh cũng chẳng còn gì để nói, cho đến khi anh cất tiếng:
 
-“Kỳ quặc thật,” cô lẩm bẩm, rồi lại cho xe hòa trở lại dòng đường.
+“Dừng lại đã.”
 
-Kênh radio đó đang phát nhạc rap. Miriam vốn chẳng mấy khi nghe rap - thể loại này có lẽ hợp với gu của cô bạn Kate hơn - nhưng lúc này cô lại chẳng dại gì chạm vào cái núm vặn để chuyển kênh. Hơn nữa, chất giọng của rapper này lại có điều gì đó thật đặc biệt. Nó khiến cô bất giác liên tưởng đến những ly kem soda rễ cây cùng những buổi chiều hè bên hồ bơi, làn nước lấp lánh dưới ánh nắng rực rỡ, và cái cách cơ thể cô trôi đi nhẹ nhõm giữa dòng nước mát rượi.
+“Sao thế?”
 
-Dẻo dai, mềm mại như cá mút đá,
+“Nhìn kìa.” Anh chỉ tay về phía khoảng sân nhà Kate và Fred. Ở đó có một con thỏ béo tròn với đôi mắt long lanh ngơ ngác. Có lẽ chính là con thỏ từng bám theo Miriam dọc con phố hồi tháng trước. Cô đã hoàn toàn quên bẵng con thú nhỏ ấy giữa mớ hỗn độn của đợt nghỉ lễ. Dạo đó nó chỉ đi có một mình, còn con này thì dắt theo cả một bầy.
 
-Đàn hồi cực độ, phê pha thăng hoa.
+“Chỗ đó… nhiều thỏ thật đấy,” cô nói. Cô thử đếm nhưng đông quá đếm không xuể. Ít nhất cũng phải mười lăm con, có khi tới hai mươi con. Tất cả đều mềm mại, xù bông, nhưng với số lượng áp đảo nhường này thì trông chúng lại có phần rờn rợn đầy đe dọa.
 
-Con tóc vàng giăng bẫy, tao sập ngay mà,
+“Lẽ ra tụi nó phải ở dưới hang hốc nào đó chứ nhỉ?” Jack thắc mắc.
 
-Nàng gọi DeLeón, tao gật đầu: “Quất nha!”
+“Quả là một bí ẩn lớn. Chao ôi, giá như anh là một thám tử…”
 
-Nàng gọi Patrón, tao chẳng buông ly,
+“Thôi đi tiếp nào. Lũ trẻ chạy trước xa quá rồi kìa.”
 
-Bảo khỏa thân, lướt ván, xuống biển mà đi!
+Hai đứa nhỏ đã gần tới nơi: ngôi nhà của Holly và Tom Waters nằm ở trên đỉnh dốc phía bên kia đường. Chúng đứng ngoan ngoãn chờ bố mẹ băng qua, y hệt hai chú chuột con biết nghe lời. Ngay sau đó, chúng phóng vội qua bãi cỏ, bước lên mấy bậc tam cấp rồi dùng tay cào cào vào cánh cửa. Cửa bật mở.
 
-Cả đại dương hóa vodka, sóng cuốn li bì,
+“Gừ gừ gừ!” Một chú nhóc bất thình lình chồm ra từ sau cánh cửa. Thằng nhóc lao vụt qua hai đứa trẻ giả chuột, phóng thẳng về phía Jack. Nó gầm gừ rồi giương vuốt cào cào trong không khí.
 
-Yo! Tao say sập sàn, chẳng biết đường đi!
+“Chad!” Holly quát lớn. “Chad, mẹ dạy con mở cửa đón khách như thế đấy à?”
 
-Đỏ mặt! Bốc lửa! Tan tành!
+“Nhưng mẹ ơi, con là khủng long velociraptor mà!” Chad gầm gừ đáp lại để chứng minh thân phận.
 
-Tóc vàng gọi hội, cuộc vui thêm nhanh.
+“Chad!” Mẹ cậu bé khẽ lắc đầu, nhưng cũng chẳng buồn ngăn thằng nhóc tiếp tục lượn lờ quanh Jack rồi nhe răng đớp đớp. “Mừng quá, cuối cùng cả nhà cũng sang được! Vào đi mọi người! Tớ pha cocktail rồi đấy!”
 
-Bạn nàng sành sỏi, gu chơi cực chất,
+Miriam ngồi thưởng thức cocktail trong phòng khách cùng Holly và Kate. Lũ trẻ thì thi nhau rượt đuổi, vừa xoay tròn vừa la hét ầm ĩ khắp các ngóc ngách trong nhà.
 
-Tao liếm đến mức muốn lao vào quất! Yo!
+“Bọn nó chẳng bao giờ biết chán cái trò này thì phải,” Miriam nhận xét khi bầy nhóc vừa rầm rập chạy vụt qua.
 
-Gái tơ mê tao, vây kín chẳng buông,
+“Trông mê mẩn như bị thôi miên ấy,” Kate nói.
 
-Mấy mẹ thấy tao, ngoảnh mặt tìm đường?
+“Đúng hơn là phát kiệt sức thì có,” Holly than thở.
 
-Không đời nào! Tao chửi thề luôn miệng,
+“Nhìn vệt dãi lòng thòng trên cằm Rory kìa,” Miriam nói. Rory có đeo yếm, nhưng nước dãi đã thấm ướt đẫm cả vạt áo cậu bé.
 
-Tao bảo: “Các mẹ, dạng chân cho tiện,
+“Tớ chỉ mong mọi chuyện không lặp lại như lần trước,” Holly nói. Lần tụ tập trước, Chad đã tung một cú nhảy xoay vòng đâm sầm vào tủ chén đĩa. “May mà thằng bé không gãy mất cái răng nào.”
 
-Để tao liếm thật sâu… tê như giật điện”
+Miriam nhấp một ngụm cocktail: rượu vodka mật ong hoa atiso đỏ pha với dâu tây tươi nghiền nhuyễn, điểm xuyết một nhánh bạc hà.
 
-Yo!
+“Món này tuyệt thật đấy,” cô khen.
 
-*Khoan đã, cái quái gì thế này?*
+“Nó gợi nhớ đến mùa xuân.” Holly trông có vẻ đăm chiêu. Bên ngoài, mưa lạnh bắt đầu rơi. “Tớ uống hết một ly rồi, nên cậu phải uống đuổi theo đấy.”
 
-Họ
+Miriam hẳn cũng đã nốc cạn một ly từ lâu, nếu như trong nhà cô có một đứa trẻ như Chad thả rông chạy nhảy.
 
-Liệu Miriam có cảm thấy phật ý không? Chính cô cũng chẳng rõ nữa. Cô là một bà mẹ bỉm sữa, và lần cuối cùng Jack từng… Thôi bỏ đi, cô sẽ không thèm nghĩ về chuyện đó nữa. Thật vô ích khi cứ hoài công tơ tưởng về một điều mà Jack thậm chí còn chẳng buồn bỏ ra chút thời gian để ân ái.
+Chad chạy vụt qua, gầm gừ sùi bọt mép, rồi tung ra một đòn tấn công kiểu khủng long velociraptor nhắm thẳng vào các ông chồng hoàn toàn mất cảnh giác. Mấy người đàn ông tụ tập trong bếp, vừa uống bia vừa thong thả thái rau củ.
 
-Cô còn chẳng nhớ nổi lần gần đây nhất anh trao cho cô một nụ hôn nồng cháy là từ bao giờ. Ham muốn tình dục của anh nghèo nàn y như một bản tóm tắt vụ án, còn niềm đam mê ở anh thì nguội ngắt chẳng khác nào một tờ khai quyết toán thuế.
+Nhìn từ xa, Fred Marino và Tom Waters trông chẳng khác nào hai anh em sinh đôi cùng một bọc. Cả hai đều sở hữu khuôn hàm vuông vức góc cạnh cùng mái tóc nâu cắt ngắn chuẩn chỉ. Họ cạo râu nhẵn nhụi, đội mũ lưỡi trai và diện áo sơ mi kẻ sọc có cổ, cẩn thận đóng thùng trong những chiếc quần jean đắt tiền. Ngay cả tiếng cười của họ cũng giống nhau đến kỳ lạ, vang rền, nam tính và ngập tràn vẻ tự tin. Họ từng chơi bóng bầu dục cùng nhau hồi trung học, học chung ngành kinh doanh ở đại học, rồi tiếp tục say sưa sát cánh trong cùng một hội nam sinh (nơi có lẽ họ đã dành trọn thời thanh xuân cho những đêm ném bóng vào cốc bia, chơi bi lắc, rồi đập tay ăn mừng hay thúc ngực nhau chan chát). Đứng cạnh hai hình mẫu hoàn hảo của hội nam sinh ấy, chồng của Miriam, với cặp kính cận, chiếc áo khoác nhung kẻ cùng bộ râu lơ thơ lởm chởm chưa buồn cạo, trông chẳng khác nào một sinh vật lạ lọt thỏm giữa đám đông.
 
-Hoặc biết đâu, lỗi lại nằm ở chính bản thân cô.
+Con khủng long velociraptor (vốn dĩ là chú nhóc Chad) nhổ nước bọt vào Jack. Miriam thậm chí còn chẳng buồn bận tâm xem chuyện gì sẽ diễn ra tiếp theo. Cô thản nhiên quay lại với hai cô bạn của mình.
 
-Cô kéo tay áo trùm kín bàn tay để tắt đài radio mà không để núm vặn đụng vào da thịt. Cô tiếp tục lái xe trong im lặng. Dừng lại trước một cột đèn đỏ, cô liếc nhìn gương mặt mình phản chiếu qua gương chiếu hậu: những nếp nhăn nơi khóe cằm đang dần lộ rõ (báo hiệu cho đôi gò má rồi sẽ chảy xệ), những quầng thâm mệt mỏi dưới mắt, và đôi môi mím chặt của một người đàn bà đã lâu không… đúng hơn là một người đàn bà quyết định sẽ không thèm bận tâm nghĩ về chuyện đó nữa.
+“Muốn nghe tin sốt dẻo nhất khu không?” Holly hào hứng mở lời, vẻ mặt rạng rỡ hẳn lên. “Các cậu có thấy chiếc xe cảnh sát đậu trước cửa nhà Elliot tối qua không đấy?”
 
-Cô cứ thế lái đi xa hơn vài dặm so với lộ trình dự định, phó mặc hoàn toàn cho hệ thống định vị GPS vốn nãy giờ chẳng thèm cất lấy một lời, cho đến khi buộc phải thừa nhận rằng có lẽ mình đã thực sự đi lạc. Cô từng lái xe qua con đường này rồi, cô thầm nghĩ. Thế nhưng giờ đây, cảnh vật quanh cô trông lại xa lạ
+“Thấy chứ.” Kate khẽ cau mày. “Ánh đèn nhấp nháy làm lũ thỏ ngoài vườn sợ chạy mất dép.”
 
-Cô tấp xe vào lề rồi rút điện thoại ra kiểm tra định vị.
+“À, đầu đuôi là thế này,” Holly hào hứng tiếp tục, “thằng nhóc nhà Elliot… tên nó là gì nhỉ?”
 
-*Không có dịch vụ*, chiếc điện thoại thông báo. Cô nhẫn nại lái thêm một đoạn ngắn nữa, tấp xe vào lề và kiểm tra lại lần nữa.
+“Buster.”
 
-*Không có dịch vụ.*
+“Đúng rồi, Buster! Thằng nhóc Buster bị bắt quả tang ăn cắp vặt ở siêu thị Value Valley.”
 
-Mọi chuyện thật quá đỗi phi lý, nhất là khi nó đang xảy ra ngay giữa lòng thành phố. Miriam tắt máy xe rồi bước ra ngoài. Có lẽ cô phải tự tìm đường theo phương cách cổ điển thôi: trông chờ vào bản đồ giấy và các biển báo đường phố.
+“Ồ. Tệ thật đấy… Tội nghiệp thằng bé,” Kate chép miệng.
 
-Cô rảo bước đến một ngã tư. Con phố nhánh bên cạnh chẳng hề có biển tên, chỉ trơ trọi chiếc cột rỗng vốn là nơi cắm tấm biển chỉ đường. Miriam dáo dác nhìn quanh tìm một trạm xăng, một nhà hàng, hay bất kỳ nơi nào có bóng người để hỏi xem rốt cuộc mình đang ở xó xỉnh nào. Rốt cuộc, cô chỉ thấy một quán cà phê phục vụ bữa sáng đến hai giờ chiều (và hiện đã đóng cửa nghỉ), một dãy cửa hiệu bỏ trống, cùng một tiệm bói toán với tấm biển uốn lượn những nét chữ màu cam rực rỡ ngay trên cửa ra vào: NHÀ NGOẠI CẢM, THẦN BÍ, XEM BÓI.
+“Tội gì mà tội! Ai bảo nó táy máy đi ăn cắp cơ chứ,” Holly gạt đi.
 
-Miriam đẩy cửa bước vào. Nơi đây sở hữu đầy đủ nét phô trương điển hình của một tiệm bói toán (hoặc ít nhất là theo hình dung của cô): rèm kết hạt cườm, ghế bọc nhung êm ái, tấm biển đèn huỳnh quang màu hồng rực rỡ ghi chữ XEM CHỈ TAY kèm một biển hiệu nhỏ hơn ghi THÔI MIÊN, chiếc đèn dung nham chập chờn và mùi hương trầm nồng đậm ngây ngất. Tuy nhiên, những thứ còn lại lại chẳng liên quan gì đến thuật thần bí: bức tranh đóng khung vẽ chú mèo con lủng lẳng bám cành cây, cỗ máy bằng nhựa màu đỏ xanh mà Miriam nhận ra ngay là
+“Nó lấy trộm cái gì thế?” Miriam hỏi.
 
-Trong lúc cô còn đang đứng trân trân nhìn cỗ máy làm kem tuyết và tự hỏi liệu nó có còn chạy được hay không, một người phụ nữ trẻ tuổi vén rèm hạt cườm bước ra. Người phụ nữ sở hữu mái tóc vàng mỏng, đôi mắt xanh lơ mơ màng, mặc chiếc váy boho phóng khoáng bên ngoài chiếc áo phông đội Cincinnati Reds và đội chiếc mũ nồi màu đỏ xù lông. Người phụ nữ nở nụ cười toe toét khoe trọn hàm răng với Miriam.
+“Ừ, chuyện nực cười chính là ở chỗ đó,” Holly nói. “Thịt bò khô. Mà không phải chỉ một gói đâu nhé, cả một đống luôn! Thằng bé nhét đầy túi áo, túi quần, nhét chặt cả hai bên ống tay áo. Thậm chí nó còn nhồi cả vào trong tất chân nữa cơ.”
 
-“Ồ, cô đến xem chỉ tay hả?” Người phụ nữ cất giọng Kentucky đặc sệt. “Chờ chút xíu nhé darlin’, tôi cần nạp lại năng lượng đã.”
+“Sao nó lại đi ăn cắp ngần ấy thịt bò khô làm gì nhỉ?”
 
-“Thực ra thì,” Miriam lên tiếng, “tôi chỉ hơi lạc đường chút thôi. Tôi mong…”
+“Thằng bé bình thường trông ngoan ngoãn, đứng đắn thế cơ mà…”
 
-“Đúng rồi darlin’ à, cô đang lạc lối mà. Chuyện đó rõ mười mươi như dòng suối ngày hè vậy.”
+“Thì trước giờ vẫn thế! Nhưng ở đời ai mà biết được một đứa trẻ lớn lên sẽ đổi tính đổi nết ra sao,” Holly tặc lưỡi. “Dù sao thì cảnh sát cũng chỉ nhắc nhở cảnh cáo rồi tha cho về, vì dẫu sao nó vẫn còn con nít. Cơ mà mẹ nó thì hoảng loạn phát khiếp lên được. Tớ thấy…”
 
-“Thế nên tôi mong cô có thể chỉ giúp…”
+Một tiếng va đập chát chúa bất thình lình vang lên từ phòng ăn, nối tiếp ngay sau là tiếng khóc ré xé lòng.
 
-“Được chứ, cứ ngồi xuống ghế đã nào.”
+“Chad!” Holly thét lên. Cô gần như bật phắt khỏi ghế. Phản ứng hoảng hốt ấy có phần hơi lạ lùng đối với một người mẹ mà đứa con trai vốn dĩ là một cơn lốc chuyên gây tai họa đổ vỡ.
 
-“Tôi chỉ muốn hỏi xem con phố kia tên là gì thôi.” Miriam đưa tay chỉ về phía sau lưng. “Ngoài kia chẳng có biển tên đường nào cả, và…”
+“Không phải con đâu mẹ!” Chad gào tướng lên thanh minh. “Không phải lỗi tại con đâu! Là Nicky đấy chứ, cậu ấy làm đổ ghế đè trúng Mabel rồi!”
 
-“Khoan đã nào.” Người phụ nữ tiến lại gần Miriam hơn, nheo mắt nhìn cô chằm chằm. “Ý cô là cô *không* đến đây để xem chỉ tay đấy hả?”
+Kate, người mẹ mẫu mực của Nicky và Mabel, lập tức lao nhanh vào phòng ăn để thi hành cùng lúc hai nhiệm vụ: vừa dỗ dành vừa răn đe. Holly cũng lật đật chạy theo sau để tận mắt kiểm chứng xem liệu vụ này có thực sự vô can với con trai mình hay không. Miriam đứng dậy đi kiểm tra hai đứa con của mình. Cô thấy Lindsey đang ngồi thảnh thơi ở hành lang tầng trên, cạnh một lâu đài đồ chơi bằng nhựa chứa đầy những chú ngựa pony sặc sỡ.
 
-“Ờ, không. Phải rồi. Ý tôi là, tôi không cần xem chỉ tay.”
+“Rory đâu rồi con?”
 
-“Có chứ. Cô cần đấy. Cô đến đây là để xem chỉ tay. Tôi biết chứ, cô đang lạc đường
+Lindsey chỉ tay về phía phòng ngủ của Chad. Cánh cửa đang đóng im ỉm. Miriam thử vặn tay nắm nhưng cửa đã bị chốt chặt từ bên trong.
 
-“Ơ, tôi, cái gì…”
+“Rory?” Cô gõ cửa. “Rory, con có ở trong đó không?”
 
-“Thế nên sao cô không ngồi xuống đây một lát trong lúc tôi nạp lại năng lượng nhỉ? Chúng ta có thể uống chung cốc nước xá xị. Thứ này luôn giúp tôi hồi sức nhanh hơn hẳn.” Điều đó quả thực kỳ lạ, bởi Miriam vừa mới chợt nghĩ đến nước xá xị xong.
+Không một tiếng hồi đáp.
 
-Thế là giờ đây, cô đang ngồi trên chiếc ghế sofa bọc nhung tím, tay cầm chiếc cốc nhựa in hình đội bóng Cincinnati Reds đựng nửa cốc nước xá xị ăn kiêng, ngồi đối diện với nhà ngoại cảm vùng Kentucky tự xưng là Destinia Amber Rose.
+Cô gõ thêm lần nữa, dứt khoát hơn.
 
-“Nhưng ai cũng gọi tôi là Rosy,” nhà ngoại cảm nói rồi nhấp một ngụm nước xá xị qua chiếc ống hút xoắn ốc. “Còn cô… cô mang nhiều danh xưng lắm. Người vợ. Người mẹ. Và cô cũng đi làm nữa, tôi thấy rõ điều đó.”
+“Rory! Mở cửa ra cho mẹ nào!”
 
-“Vâng,” Miriam đáp. “Tôi làm việc tự do. Tôi là chuyên viên trị liệu tâm lý.”
+Vẫn hoàn toàn im lặng. Cô lại lay mạnh nắm đấm cửa.
 
-“Phải rồi, phải rồi,” Rosy nói. “Tôi cũng thế. Dành cho những kẻ thậm chí còn chẳng nhận ra mình đang cần trị liệu. Nhưng cô biết là cô cần mà, đúng không darlin’.”
+“Rory này…” Chợt có tiếng cạch nhẹ vang lên. Cánh cửa hé mở. Rory đứng sững giữa phòng, hai bàn tay trống trơn. Chú nhóc nhìn mẹ với vẻ mặt đầy thất vọng.
 
-“À, vâng, tôi…”
+“Mẹ! Mẹ làm con mất đồ chơi rồi đấy!”
 
-“Bởi vì gia đình cô đang xảy ra xung đột… Không, không, bỏ qua câu đó đi. Là do chồng cô.”
+“Đồ chơi gì cơ con?”
 
-“Ừm, vâng, tôi đoán vậy.”
+“Con khủng long ấy! Của anh Chad, nhưng anh ấy cho con mượn chơi cùng. Thế mà giờ nó biến mất tiêu rồi!”
 
-“Mối quan hệ của hai người…” Nhà ngoại cảm nhắm nghiền mắt lại, đầu ngoẹo sang một bên. “Nó… đang rạn nứt. Cô đang… tức giận. Tôi nhìn thấy rồi. Vừa nãy, cô đang trên đường đi gặp một ai đó…”
+Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề *Escape Intensityville*, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.
 
-“Khoan đã, sao cô biết được tất cả những chuyện này?” Miriam hỏi.
+“Mẹ có thấy con khủng long nào đâu.”
 
-Đôi
+“Vừa nãy nó ở ngay đây mà.”
 
-“Tôi là nhà ngoại cảm mà, rõ rành rành rồi còn gì. Nào, đưa bàn tay cô đây tôi xem.”
+“Thôi nào… Mọi thứ khác vẫn ổn cả chứ con?”
 
-Thường thì Miriam chẳng bao giờ tin vào mấy trò bói toán ngoại cảm (mấy rắc rối hôn nhân thì đoán bừa cũng dễ trúng). Thế nhưng cô đã lỡ ngồi đây, và tính tò mò đã chiến thắng lý trí. Cô xòe bàn tay ra.
+Rory bĩu môi hờn dỗi: “Nhưng con thích con khủng long đó cơ.”
 
-Nhà ngoại cảm dán mắt vào lòng bàn tay cô suốt mấy phút dài dằng dặc. Rosy rít một hơi nước xá xị qua ống hút. Cuối cùng, cất lời:
+“Mẹ tin là lát nữa con sẽ tìm thấy thôi,” cô dịu dàng an ủi. “Mẹ xuống dưới nhà nhé, nếu cần gì thì cứ gọi mẹ, được không?”
 
-“Chồng cô, anh ta làm việc tối ngày. Cô cảm thấy anh ta chẳng hề coi trọng mình. Có một thứ gì đó đang âm ỉ lớn dần bên dưới vẻ ngoài của cô. Sự căm hận. Không, chưa hẳn là vậy. Nhưng cũng ngấp nghé rồi. Nó đang gặm nhấm cô. Cuộc hôn nhân của cô,” nhà ngoại cảm bỗng ngưng bặt chừng một phút, dán mắt vào lòng bàn tay cô với vẻ chăm chú đến nghẹt thở, “nó… chấm dứt rồi.”
+Rory gật đầu. Cô cúi xuống hôn nhẹ lên trán con trai rồi quay bước ra ngoài hành lang. Ngay tắp lự, một tiếng reo đầy phấn khích vang lên sau lưng, rồi Rory hét toáng: “Đóng cửa lại đi mẹ!”
 
-Đây tuyệt đối không phải câu trả lời Miriam mong đợi. Đáng lẽ các nhà ngoại cảm phải phán mấy lời mơ hồ, kiểu nói trúng ai cũng được (bởi suy cho cùng, sự nước đôi luôn là lớp bảo hiểm an toàn nhất trần đời). Trong thế giới duy lý của khoa học, các nhà ngoại cảm đâu có *thực sự* sở hữu năng lực tâm linh. Họ chẳng qua chỉ là những chuyên viên trị liệu thời đại mới với nhiều đá thạch anh hơn và ít bằng cấp hơn mà thôi. Họ cũng là con người cần kiếm tiền nuôi miệng, và chẳng ai dại gì liều mạng đánh đổi uy tín làm ăn bằng những lời tuyên bố gở miệng về sự chấm dứt của một cuộc hôn nhân.
+Miriam ngoảnh đầu nhìn lại. Rory đã nắm gọn một con khủng long bạo chúa đồ chơi trong tay tự lúc nào. Chú nhóc nhoẻn miệng cười toe toét với mẹ. Cô mỉm cười đáp lại rồi nhẹ nhàng khép cửa phòng. Mãi về sau, khi từng bước chân đã đưa cô xuống đến tầng dưới, não bộ của Miriam mới sực nhận ra một chi tiết kỳ quặc: chiếc giường trong phòng Chad ban nãy trông khác hẳn. Nó đã được dọn dẹp phẳng phiu, ngăn nắp đến tinh tươm, dẫu cho chỉ một tích tắc trước đó, nơi ấy vẫn còn là một mớ bừa bộn không hơn không kém.
 
-Hơn nữa, người này chắc
+“May quá, cậu xuống rồi,” Holly nói, nét âu lo vẫn chưa chịu tan biến khỏi khuôn mặt.
 
-*Không, mình sẽ không bao giờ*, cô tự nhủ với bản thân, và với cả Captain
+“Cậu ổn chứ?” Miriam hỏi.
 
-Ngay cả khi đã phán xong dấu chấm hết cho cuộc hôn nhân của Miriam, nhà ngoại cảm vẫn không chịu buông tay cô ra, tiếp tục nhìn chằm chằm, gương mặt lộ rõ vẻ kỳ quặc lẫn tò mò tột độ. Miriam cảm thấy một luồng tê rần kỳ lạ truyền qua bàn tay, không khác mấy cảm giác bị điện giật nhẹ từ núm xoay radio từng khiến cô giật mình lúc trước, nhưng dai dẳng và âm ỉ hơn nhiều. Đầu óc cô bắt đầu quay cuồng, chuếnh choáng.
+“Không hẳn. Ý tớ là, có chứ, tớ vẫn ổn. Chỉ là dạo này tớ phải xoay xở với quá nhiều thứ cùng lúc. Hết công việc lại đến chuyện nhà cửa… Thật khó để giữ cho mọi thứ đâu vào đấy.”
 
-*Biển đời đôi khi nổi sóng gió ba đào, nhưng con tàu vẫn phải tiếp tục giương buồm rẽ sóng*, cô thầm nghĩ, bằng một giọng nói nghe chừng chẳng phải của chính mình.
+“Ừ, tớ hiểu cảm giác đó mà.”
 
-Rồi giọng nói ấy bỗng hét lên:
+“Trừ việc cậu *thực sự* đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”
 
-*Bỏ tàu! Mau bỏ tàu!*
+“Tớ sẽ không kể đâu. Dù tớ chẳng nghĩ Kate lại đi phán xét chuyện đó.”
 
-Đúng khoảnh khắc đó, nhà ngoại cảm buông phắt tay Miriam ra, giật nảy người lùi lại vì hoảng hốt.
+“Cậu ấy sẽ phán xét đấy chứ. Cậu ấy…” Holly nhích người lại gần Miriam hơn một chút. “Dạo gần đây cậu có thấy cậu ấy khang khác không?”
 
-“Không!” Rosy kêu to. “Không phải! Mọi chuyện vẫn chưa chấm dứt!”
+“Ừm, không hẳn. Trông vẫn thế mà. Sao vậy?”
 
-“Chưa… kết thúc sao?”
+“Cậu có để ý cái vòng cổ cậu ấy đang đeo không?”
 
-“Là… tôi cần phải xem lại lần nữa.” Rosy chộp lấy tay Miriam rồi chăm chú dòm vào lòng bàn tay cô.
+“À, có chứ.” Một viên thạch anh cân bằng luân xa quấn dây kim loại treo lủng lẳng trên chuỗi hạt cườm. “Đồ mới sắm à?”
 
-“Khoan đã, đúng rồi! Hôn nhân của cô chấm hết thật rồi!”
+“Tớ đoán thế. Trước tuần rồi tớ chưa từng thấy bao giờ. Cả mấy đứa nhóc nhà cậu ấy cũng đeo nữa. Cậu ấy bảo mấy viên đá đó sẽ giúp cân bằng luân xa của tụi nhỏ, hay đại loại thế.”
 
-“Nhưng cô vừa bảo…”
+“Nghe chuyện đó… thật ra cũng chẳng giống tính Kate chút nào,” Miriam nhận xét. “Dù sao thì cậu ấy lúc nào cũng có chút hơi hướng hippie lập dị mà.”
 
-“Không, chưa đâu. Hoặc là, đợi chút…” Rosy kéo tay Miriam lại gần hơn, dí sát rạt tận mắt mình. “Không! Đúng rồi! Không phải! Nó, nó…”
+“Đúng là thế, nhưng trước giờ cậu ấy đâu có chưng diện cái chất hippie ấy tơ hơ ngay trước ngực như vậy. Lại còn dưới dạng một viên pha lê phong thủy to tổ bố nữa chứ.”
 
-“Cái gì cơ? Rốt cuộc là sao!”
+Xét về diện mạo, chừng nào Miriam còn quen biết Kate, thì cô bạn này trông vẫn cứ như thể bước ra từ cùng một hội nữ sinh đại học với Holly. Cả hai đều sở hữu bộ móng tay cắt tỉa tỉ mỉ, mái tóc dài sấy bồng bềnh chuẩn mực. Họ diện những chiếc áo sơ mi kiểu cách đi cùng quần jean và giày cao gót, má dặm phấn hồng, môi thoa son tươi tắn và lông mi luôn được chuốt mascara cong vút. Đến cả gu chọn túi xách của họ cũng giống hệt nhau.
 
-“Tôi không thể… trừ khi…” Rosy lấy ngón tay trỏ chọc chọc vào lòng bàn tay Miriam.
+“Cũng phải,” Miriam thừa nhận.
 
-“Ái, cô làm cái trò gì đấy?” Miriam rụt phắt tay lại.
+“Và cậu biết gì nữa không?”
 
-“Ít nhất thì mật độ vật chất vẫn đúng. Vậy nên…”
+“Gì thế?”
 
-“Nên cái
+“Sáng hôm nọ,” Holly hạ giọng thì thào, “lúc tớ đang chạy bộ, tớ bắt gặp cậu ấy đang đứng tập thái cực quyền.”
 
-Nhà ngoại cảm lắc đầu nguầy nguậy. “Thôi khỏi. Tôi nghĩ tốt nhất cô nên về đi. Tôi không lấy tiền đâu, được chưa? Cả tiền nước xá xị cũng miễn phí luôn. Cô cứ cầm luôn cái cốc về cũng được. Nào đi đi, mau ra ngoài giùm tôi.” Người phụ nữ vừa nói vừa đẩy Miriam về phía cửa ra vào.
+“Thế á?”
 
-“Được rồi, sao cũng được. Dù sao thì tôi cũng chẳng thèm tin cô,” Miriam nói khi nhà ngoại cảm mở toang cánh cửa, xô cô ra ngoài rồi đóng sầm cửa lại ngay sau lưng cô.
+“Trước đây cậu đã bao giờ nghe Kate nhắc nửa lời về chuyện tập thái cực quyền chưa?”
 
-Cô nghe thấy tiếng ổ khóa kêu cạch một tiếng dứt khoát. Toàn bộ đèn đóm trong tiệm phụt tắt.
+“Tớ không nghĩ là có đâu.”
 
-Miriam quay trở lại xe. Cô vẫn chẳng biết mình đang đi đâu, đành cứ lái ngược lại con đường vừa đi qua cho đến khi cảnh vật bắt đầu có vẻ quen mắt hơn và hệ thống định vị GPS rốt cuộc cũng chịu cất tiếng.
+Đúng lúc đó, Kate bước trở lại phòng khách. Miriam và Holly lập tức ngồi tách nhau ra trong tích tắc, đồng loạt với lấy ly cocktail của mình với vẻ mặt thản nhiên đầy khả nghi.
 
-*Hãy quay đầu xe*, giọng máy móc vang lên.
+“Mọi chuyện ổn cả chứ?” Miriam cất tiếng hỏi.
 
-Vào lúc đó, cô đã trễ hẹn mất rồi.
+“Ổn cả rồi,” Kate mỉm cười đáp. “Chỉ là chút lệch lạc năng lượng tạm thời thôi mà. Bọn mình vừa làm bài tập hít thở sâu, rồi cùng tưởng tượng cơn đau đang bồng bềnh trôi đi mất.”
 
-Cô gọi điện cho Jack. “Này, anh đã đến đó chưa?” cô hỏi ngay khi anh vừa nhấc máy. “Em đang bị muộn.”
+Miriam thậm chí còn chưa uống hết nổi nửa ly cocktail đầu tiên thì chuông điện thoại của Jack đã đổ dồn dập. Cô dõi mắt nhìn chồng rút điện thoại ra khỏi túi quần, ngập ngừng đắn đo mất vài giây, rồi lại nhét tọt vào túi mà không bắt máy. Nhưng chẳng được mấy phút sau, chuông lại reo vang. Lần này thì anh nghe máy. Miriam không tài nào nghe rõ đầu dây bên kia nói gì từ phòng bên cạnh, nhưng cô thấy anh liên tục gật đầu đầy vẻ thuần phục.
 
-“À, thực ra thì… anh vẫn đang ở chỗ làm.”
+Một phút sau, Jack ngượng ngùng lách mình bước vào phòng khách, nơi Miriam đang ngồi túm tụm cùng hội bạn.
 
-“Anh đang ở chỗ làm đấy à?” Khi thốt ra, câu nói nghe như một lời gặng hỏi bình thản, nhưng cảm giác bên trong lại hệt một tiếng thét xung trận ngập tràn phẫn nộ: *ANH ĐANG Ở CHỖ LÀM ĐẤY À!!!*
+“À thì,” anh gãi đầu, vẻ mặt lúng túng thấy rõ, “vừa rồi là cô Jessica ở văn phòng gọi đấy.”
 
-“Có một dự án đột xuất nảy sinh,” Jack phân trần. “Anh đã gọi điện cho chuyên viên trị liệu tâm lý và hủy hẹn rồi.”
+“Jessica nào cơ?”
 
-“Ồ. Thế anh có định báo cho em một tiếng không?”
+“Ồ, cô ấy chỉ là… ừm, một trong các luật sư cấp cao của công ty thôi. Dù sao thì, cô ấy có một vụ kiện tụng lớn sắp ra tòa vào tuần tới và đang rất cần thêm người hỗ trợ, ngặt nỗi một luật sư cộng sự khác lại vừa lăn đùng ra ốm cúm, cho nên là…”
 
-“Anh có gọi cho em đấy chứ, nhưng máy em chuyển thẳng vào hộp thư thoại. Anh gọi tận hai cuộc liền.”
+“Cho nên sao?”
 
-“Ồ.” Cô tấp xe dừng lại sau một hàng dài ô tô đang chờ đèn đỏ.
+“Cho nên anh bắt buộc phải đến văn phòng.”
 
-“Anh đã
+“Cái gì, ngay bây giờ luôn á?”
 
-“Chúng ta cũng quan trọng mà, Jack. Chúng ta. Anh và em. Cuộc hôn nhân của chúng mình. Ít nhất thì một trong hai đứa mình vẫn còn nghĩ thế.”
+“Ừ, đúng vậy. Chỉ… ừm, mất vài tiếng tối nay thôi. Và có lẽ là cả ngày mai nữa.”
 
-“Anh cũng nghĩ vậy mà. Chỉ là…”
+“Hôm nay là tối thứ Bảy đấy, Jack.”
 
-Chiếc xe phía sau bóp còi inh ỏi, dẫu đèn giao thông vẫn đang đỏ lòm. “Sao cũng được, Jack. Sao cũng được hết. Anh yêu công việc đến thế cơ mà? Anh muốn ở bên cô bồ công việc yêu dấu của anh suốt ngày chứ gì? Sao anh không đi mà cưới quách lấy công việc luôn đi?”
+“Anh biết, anh biết chứ.”
+
+“Cả tuần vừa rồi đêm nào anh cũng cắm mặt làm việc tăng ca. Cả dịp cuối tuần trước cũng thế.”
+
+“Anh biết chứ, nhưng chuyện này *thực sự rất quan trọng*, Miriam à. Jessica là luật sư cấp cao, và…”
+
+Miriam đứng bật dậy. Cô dốc cạn phần cocktail còn lại trong ly vào họng. Lạy Chúa, ngay lúc này cô thèm một điếu thuốc lá đến phát điên, chỉ để có thể dí đốm tàn thuốc đỏ rực ấy dập tắt ngay trên những ngón tay gõ phím cặm cụi của chồng mình.
+
+“Cảm giác như…” Cô trừng mắt nhìn anh, cơn giận bốc lên ngùn ngụt. “Cảm giác như anh chẳng còn là chồng em nữa rồi. Anh chỉ như một người dưng nước lã nào đó đang sống trọ nhờ trong nhà em thôi.”
+
+“Em nói thế là hoàn toàn không công bằng chút nào, Miriam.”
+
+“Điều không công bằng ở đây là anh bị réo đầu đến chỗ làm việc mà không hề báo trước vào một tối thứ Bảy! Đây là điều anh mong muốn đấy ư, Jack? Anh thèm khát đi làm đến mức đấy cơ à?”
+
+“Anh bắt buộc phải đi mà. Anh lỡ hứa là sẽ đến rồi, nên anh… anh…” Jack lắp bắp, câu chữ nghẽn lại nơi cổ họng.
+
+“Nên anh cứ thế mà xách mông đi chứ gì. Anh đã đưa ra lựa chọn của mình rồi đấy. Được thôi, Jack. Tốt lắm. Cứ việc đi đi. Nhưng một khi anh đã bước chân ra khỏi đây, thì đừng bao giờ thèm quay về nữa.”
+
+“Ý em là… ý em bảo là quay lại… quay lại bữa tiệc nhà Tom và Holly ấy hả?”
+
+Sắc mặt Jack bỗng chốc xám ngoét, không còn lấy một giọt máu. Anh đứng chôn chân, bối rối đến cùng cực. Giờ phút này, Miriam nhận ra mình gần như đã có thể căm ghét người đàn ông này. Chỉ cần tiến thêm một bước ngắn ngủi nữa thôi, một cơn sóng căm hờn cuộn trào sẽ cuốn phăng cô đi, nhấn chìm cô ra thật xa giữa đại dương tăm tối khôn cùng, nơi cô sẽ vĩnh viễn chẳng thể nào bơi ngược trở lại được nữa.
+
+Holly lặng lẽ chìa ly cocktail còn vơi một nửa của mình sang. Miriam đón lấy không chút do dự, rồi nốc cạn sạch chỉ trong một ngụm duy nhất.
+
+“Anh vốn dĩ là kẻ thông minh cơ mà, Jack,” cô lạnh lùng buông một câu. “Tự đi mà tìm câu trả lời.”

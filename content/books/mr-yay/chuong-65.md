@@ -1,105 +1,133 @@
-# VÁN TRƯỢT
+# THÁNG SÁU
 
-**ĐOẠN VIDEO** quay cảnh con dê thoắt ẩn thoắt hiện vừa tung lên mạng, thế là lũ người quái gở liền lũ lượt kéo ra. Hòm thư điện tử của thám tử Jack Shipley ngập chìm trong hàng tá thuyết âm mưu, vô số lời rủ rê từ các giáo phái kỳ bí, lời mời tham gia Trại huấn luyện Deepfake hay gia nhập Lực lượng Dân quân Giải phóng Khỏi Vật lý, thậm chí là kêu gọi hiến máu cho dự án Quần chắp vá định hình thực tại. Thứ trang phục sau khi gọi vốn cộng đồng sẽ được bán với giá 1.299,99 đô la một chiếc, kèm lời cam kết chắc nịch rằng sẽ bảo vệ người mặc khỏi hiện tượng phân rã dưới nguyên tử tự phát. Đó là còn chưa kể hàng ngàn thư điện tử dồn dập hỏi han về sự biến mất của Mr. Yay.
+# CHƠI GOLF TRÊN PHỐ
 
-“Em có biết từng có cả một phần phim hoạt hình ngoại truyện không?” Jack hỏi trong lúc lướt nhanh qua các hòm thư. Anh ngồi trên sàn hiên gỗ, ngay cạnh chiếc võng với chiếc máy tính xách tay mở sẵn, xung quanh rải rác những tấm thẻ ghi chú phá án chằng chịt dấu chấm hỏi.
+**NẾU TOM KHÔNG** thò chân ra, nếu anh không cố dùng bàn chân quệt xuống mặt đường rồi mất thăng bằng, quặt gấp vào lối dẫn vào nhà xe, bay vút qua khoảng sân xi măng rồi đâm sầm xuống bãi cỏ nhà hàng xóm, thì hẳn anh đã cắm thẳng đầu vào rặng cây đằng kia. Cú va chạm đó sẽ khiến anh ngất lịm ngay lập tức (âu cũng là một diễm phúc), bởi anh sẽ chẳng kịp nghe thấy tiếng cổ mình gãy rắc hay cảm nhận cái chết đang cận kề.
 
-“Em biết chứ,” Miriam đáp từ trên võng. “Nhưng em chỉ xem qua vài lần thôi. Chẳng thể nào sánh được với bản gốc.”
+Anh sẽ nằm yên dưới ba tấc đất, thay vì nằm trong bệnh viện với hai cánh tay bó bột, sống mũi gãy gập, cùng hàng tá bộ phận bầm dập nát tan khác - bao gồm cả chút tình nghĩa còn sót lại từ cô vợ.
 
-“Ý tưởng cốt lõi y hệt nhau. Chỉ khác là toàn bộ nhân vật đều là động vật.”
+Cô nhất quyết không chịu đến đón anh.
 
-“Và Thuyền trưởng Barksford lại là một chú chó Chihuahua. Xin lỗi nhé, nhưng việc đó trông sai trái hết sức (dù em chẳng có ý xúc phạm loài Chihuahua đâu).”
+“Cô ấy bảo nếu tôi muốn về nhà,” Tom nói với Jack qua điện thoại, “thì cứ việc trượt ván mà về. Và tôi cũng tính làm thế thật rồi đấy, nếu như, ông biết đấy…”
 
-“Em có biết Mr. Yay từng phát hành một album ca nhạc không?” Jack hỏi.
+Holly thì vẫn đang tì tì nốc rượu ngay giữa ban ngày ban mặt, điều đó biến việc lái xe đi bất cứ đâu thành một ý tưởng vô cùng tồi tệ.
 
-“Khoan đã, ý anh là…”
+“Với lại tớ còn đang bận đánh golf,” cô nói khi Biệt đội Tiếp tế Bữa ăn gồm Miriam và Kate xuất hiện trước hiên nhà, tay bưng những khay lasagna nóng hổi. Cô cầm cây gậy sắt số chín, bên cạnh là chiếc xe rùa chở đầy bóng golf. Cô thả một quả bóng xuống cỏ rồi vung gậy. Quả bóng bay vút lên rồi đáp ngay giữa lòng đường.
 
-“Bản chính hiệu cơ. Không phải tay
+“Có lẽ cậu… không nên đánh golf giữa đường thế đâu,” Kate lên tiếng khi hai người đặt các khay lasagna xuống bậc hiên.
 
-“Thế à. Nhạc gì vậy?”
+“Tớ phải đánh golf ở đâu đó chứ.” Holly rút chai rượu vang từ trong chiếc xe rùa ra, ngửa cổ tu một ngụm lớn. “Giờ bọn tớ rút khỏi câu lạc bộ đồng quê rồi còn đâu. Tiền viện phí ngập đầu thế này thì đào đâu ra ngân sách mà duy trì.”
 
-“Khoan, phải sửa lại là hai album,” Jack bảo. “Một đĩa là… nhạc synth-pop thể nghiệm thì phải? Còn đĩa kia là album mừng mùa lễ hội.”
+Điều này đúng một phần. Phần còn lại, theo lời đồn đại khắp khu phố, là do những chầu margarita bốc đồng lúc giữa trưa, một vụ nôn mửa trong bể bơi khiến người ta phải đóng cửa khử trùng, cùng màn lái xe điện chơi golf phi thẳng xuống bẫy cát.
 
-“Ồ, em nhớ ra rồi!” Miriam có thể mường tượng rõ mồn một hình ảnh ông Mr. Yay đội chiếc mũ Noel, Thuyền trưởng Barksford với chiếc mũi tô đỏ như tuần lộc Rudolph cùng cặp sừng nai buộc trên đầu; rồi hươu cao cổ, sư tử và rùa đều khoác lên mình những bộ đồ sọc đỏ xanh lá, cỗ xe trượt hình con thuyền lướt trên mặt biển băng giá, cùng những bông tuyết nhân tạo bay lững lờ rơi xuống.
+“Cậu sẽ còn phải gánh thêm đống hóa đơn nữa nếu cứ tiếp tục phang bóng golf ra đường đấy,” Miriam nói, thầm thấy may mắn vì cô cùng Kate đã gửi lũ trẻ cho Gonzago trông coi bên nhà Kate, nơi chúng không lo bị một quả bóng lạc bay vỡ đầu.
 
-“Hoặc này, em có biết Mr. Yay vốn là một điệp viên ngầm ngoài hành tinh, và chương trình của ông ta là âm mưu của George Soros nhằm tẩy não trẻ con chấp nhận chủ nghĩa xã hội thông qua các công nghệ hình ảnh hạ ngưỡng tinh vi không?”
+“Tom có thể trả chúng mà.” Holly thả một quả bóng khác xuống. Cô vung gậy và đánh trượt. “Cứ để anh ấy ẵm trọn đống hóa đơn đó đi. Tớ sẽ lấy căn nhà, xe cộ và rượu vang. Anh ấy cứ việc ôm lấy hóa đơn. Thế là quá sòng phẳng, đúng không?” Cô vung gậy lần nữa. Quả bóng bay sạt qua một chiếc xe hơi đang chạy ngang qua trong gang tấc.
 
-“Em đã luôn nghi ngờ điều đó mà…”
+Miriam liếc nhìn Kate. Kate nhún vai. Cả hai đều chẳng biết phải nói gì trước phiên bản này của cô bạn mình, cùng thái độ phớt tỉnh ráo hoảnh của cô dành cho - ừ thì - mọi thứ trên đời. Holly nhặt một quả bóng golf khác, tung lên không trung rồi vung cây gậy như thể đang cầm gậy bóng chày. Cú vung hụt cùng lực quán tính kéo giật cô ngã nhào. Cô chống cả hai tay và đầu gối xuống đất. May thay, những kẻ say xỉn thường có cơ thể dẻo dai đến kinh ngạc. Cô bật dậy ngay tức khắc, chẳng mảy may bận tâm đến bờ môi rướm máu do chính mình vừa cắn phải. Cô phủi sạch cỏ bám trên tay.
 
-“Nghe đâu thú nhồi bông Thuyền trưởng Barksford đều gắn camera giấu kín bên trong, theo lời một tài khoản tên Bezercher76821.”
+“Tớ thậm chí sẽ cho phép anh ấy ngủ trên mái nhà,” cô nói. “Thế là quá tử tế rồi. Bộ không công bằng sao?”
 
-“Nghe ra dáng một chuyên gia đấy chứ.”
+“Chuyện này…”
 
-“Ồ, đợi đã…” Jack nhìn trừng trừng vào màn hình máy tính, đọc chăm chú.
+“Ý tớ là…”
 
-“Sao thế?”
+“Rõ ràng anh ấy đã làm hỏng bét…”
 
-“Gã này…” Anh ngập ngừng khi đọc hết mẩu tin. “Gã này bảo gã nghĩ mình biết chuyện gì đã xảy ra với Mr. Yay.”
+“Dĩ nhiên là cậu có quyền nổi giận…”
 
-“Chẳng phải ai cũng nói thế à?”
+“Cậu bực mình là phải thôi, nhưng… cậu cũng phải…”
 
-“Phải, nhưng *gã này* là một nhà vật lý thiên văn. Gã có bằng tiến sĩ hẳn hoi. Và tên gã là *SherLok Ohms*.”
+*“Phải cái gì?”*
 
-“Được rồi, nhưng đó là tên giả, đúng không?”
+Holly gào lên. Cô vung tít cây gậy golf trong tay. “Tớ *phải làm gì* cơ chứ? Vì các cậu biết gì không? Tớ phát ốm với cái mớ sắp đặt ngớ ngẩn, bất công và vô lý đùng đùng này rồi! Nơi Tom cứ việc là chính Tom. Hoan hô Tom vĩ đại! Nào mọi người ơi, hãy tổ chức diễu hành để tung hô chồng tớ đi, ngài Tom Waters, người được sống thật với bản ngã của mình! Bởi vì đó mới là điều quan trọng nhất trần đời, đúng không? Đi tìm bản ngã đích thực, theo đuổi ước mơ của bạn, vân vân và mây mây. Tốt cho thằng cha Tom quá nhỉ! Tuyệt vời cho Tom làm sao! Bởi vì Tom có phải trả cái giá nào đâu. Ồ không, anh ấy cứ việc tận hưởng niềm vui và theo đuổi đam mê của mình, bởi vì đã có tớ ở đây dọn dẹp cái đống tàn cuộc mỗi khi mọi thứ vỡ vụn. Tom được đi nhảy dù vì đã có Holly ở nhà lo đưa đón con đi tập bóng đá. Tom cứ việc gãy tay gãy chân vì đã có Holly ở đây nấu nướng, dọn dẹp và hầu hạ anh ấy! Tom có tiền mua xe mô tô phân khối lớn vì Holly đã chắt bóp từng đồng bằng cách tự tay làm lấy mọi thứ. Như việc tự cắt tóc cho cả nhà chẳng hạn. Các cậu có biết ai cắt tóc cho tớ không? Chính tớ đấy! Tớ là thợ cắt tóc của cái nhà này!”
 
-“Rõ rành rành rồi. Nhưng gã bảo muốn gặp mặt. Trực tiếp ngoài đời. Gã nói sẽ tự tìm đến chỗ anh. Anh nên…”
+Holly vốn đang đội tóc giả, nhưng cô giật phắt nó ra rồi quẳng xuống lòng đường. Mái tóc thật bên dưới đã mọc thành kiểu tém pixie, nhuộm màu vàng bạch kim.
 
-Jack chưa kịp nói hết câu thì hai đứa trẻ đã
+“Tôi vừa là thợ cắt tóc, vừa là lao công dọn dẹp. Tôi là người làm vườn, đầu bếp, người lên kế hoạch, tài xế lái xe, bên cạnh công việc chết tiệt ban ngày của tôi. Thế rồi giờ đây tôi được vinh dự làm kẻ chùi đít chính thức, bên lau người bằng bọt biển, con khốn phải cắt từng miếng lasagna nhỏ xíu rồi lượn máy bay vù vù đút vào miệng chồng, chỉ vì anh ta sống chết muốn được sống thật với bản ngã của mình.
 
-“Để lát nữa được không?” Miriam bảo. “Bố mẹ đang bận.” Chiếc võng đu đưa nhè nhẹ trong làn gió cuối xuân.
+*Mẹ kiếp!*”
 
-“Nhưng cuộc đua đang diễn ra rồi ạ!” Lindsey nói. “Họ sắp đua rồi!”
+Một giọt nước mắt ứa ra nơi khóe mắt Holly, và có vẻ như chính sự yếu đuối ấy càng làm cô sôi máu. Cô túm lấy hai tay cầm chiếc xe rùa, giật phắt sang một bên, hất tung toàn bộ đống bóng golf tích trữ xuống bãi cỏ.
 
-“Mau đến xem đi ạ!”
+“Holly…”
 
-“Ai sắp đua cơ chứ?”
+“Bọn mình xin lỗi…”
 
-“Bố bạn Chad với bố bạn Mabel ạ.”
+“Nếu có bất cứ điều gì…”
 
-“Ồ… họ tính…”
+Holly gầm lên một tiếng. “Còn cả hai cậu nữa!” Cô vung gậy. Bóng golf văng tung tóe khắp nơi. “Các cậu tưởng mình khá hơn chắc? Cậu đấy, Kate!”
 
-“Đi thôi mà!”
+“Tớ á?” Kate thốt lên bằng giọng thé.
 
-“Miriam?” Jack đứng dậy. “Chúng ta có nên…”
+“Nhìn cậu mà xem, vác cái khay lasagna kia sang đây. Ai nướng cái món đó? Cá là chẳng phải anh Fred nhà cậu rồi!”
 
-“Chiếc võng này chẳng muốn em ngồi dậy tí nào đâu,” Miriam đáp.
+“Thì… nó có phô mai hạt lên men với cải xoăn tự trồng…”
 
-Nhưng cô vẫn nắm lấy tay Jack, để anh kéo mình đứng dậy. Họ đi theo lũ trẻ vòng qua ngôi nhà, ra tận vỉa hè. Tom và Fred đang đứng ở đầu con dốc, tay cả hai đều lăm lăm chiếc ván trượt. Tom nhảy lên ván, trượt đi vài bước rồi dừng lại. Anh nhấc chiếc ván lên, quay lại đứng cạnh Fred rồi chỉ tay về phía cuối con đường. Fred gật đầu tâm đắc.
+“Mà là do *cậu* trồng.”
 
-“Ôi không, điềm chẳng lành rồi,” Miriam nói. “Anh không nghĩ là hai người họ thực sự định…”
+“Nhưng Fred thì… ý tớ là, anh ấy vẫn đưa đón bọn trẻ đi học, rồi còn cho dê ăn, và…”
 
-“Không đâu,” Jack đáp. “Không đời nào, làm thế thì điên rồ quá.”
+“Và anh ấy thật hoàn hảo, đúng không? Nhưng ai trong hai người được thong thả tập yoga suốt ngày, còn ai phải nai lưng gánh công việc văn phòng mà *cậu căm ghét tột cùng*? Hả, Kate? Còn cậu nữa…” Holly chĩa gậy sang Miriam. “Cậu phải đi làm để thanh toán đủ loại hóa đơn, trong khi Jack nghiễm nhiên bỏ việc để chạy theo giấc mơ làm thám tử tư!”
 
-“Thế anh có biết họ biết trượt ván không đấy?”
+“Dù gì thì anh ấy cũng đã làm việc cật lực suốt một thời gian dài rồi mà…” Miriam lên tiếng, bất giác đứng ra bênh vực chồng và thói nghiện công việc của anh.
 
-“Anh chịu, chẳng biết tí gì.”
+“Bởi vì đó là điều *anh ta* muốn! Nhưng còn điều *cậu* muốn thì sao? Cậu muốn cái gì hả, Miriam? Còn Kate? Rốt cuộc các cậu muốn cái quái gì hả?”
 
-“Có khi chúng ta nên…” *cố ngăn họ lại*, Miriam thầm nghĩ. Nhưng đã quá muộn rồi.
+Holly trừng trừng nhìn hai người bạn, và họ cũng trừng mắt nhìn lại cô, rồi quay sang nhìn nhau. Cả hai đều sững sờ trước sự thật vừa bị phơi bày - một sự thật mà bấy lâu nay họ thừa biết nhưng chưa từng dám đối diện một cách rõ ràng. Đơn giản vì họ làm gì có thời gian. Giữa những buổi tập bóng đá, những chuyến xe đưa đón con cái, bài tập về nhà, lịch khám bác sĩ, lịch hẹn thú y, nha sĩ, mua sắm quà cáp mỗi dịp lễ tết, những đôi giày tự nhiên chật ních chỉ sau một đêm, rồi những con thú nhồi bông yêu thích bị rách tai cần “Bác sĩ Mẹ” phẫu thuật khẩn cấp (vì các ông bố thì đời nào chịu học khâu vá); giữa vô vàn chén bát, giặt giũ, nấu nướng, lên kế hoạch, và cả những ông chồng. Những người đàn ông tốt bụng, đáng tin cậy chỉ cần cảm thấy mình được ủng hộ, được thử thách, được coi là quan trọng, nhưng trên hết lại luôn mặc định bản thân có quyền được ưu tiên thỏa mãn mọi nhu cầu cá nhân. Chẳng còn lấy một giây để các bà vợ tự hỏi xem bản thân thực sự muốn gì. Tất cả những gì họ có thể làm là kìm nén và bộc phát phản kháng: bằng vài ly rượu, bằng vài điếu thuốc lá lén lút, bằng cơn cuồng tự ủ trà kombucha, hay bằng một chiếc máy ủi san phẳng sân trước. Và bằng một cây gậy đánh golf.
 
-Tom và Fred cụng tay nhau một cái đầy khí thế. Họ nhảy lên ván trượt, bắt đầu đạp chân lấy đà.
+Thế rồi, hai chuyện xảy ra cùng một lúc.
 
-Ban đầu họ trượt khá chậm. Cả hai lướt qua một ngôi nhà, rồi ngôi nhà tiếp theo, với tốc độ từ tốn đến mức Miriam bắt đầu tự hoài nghi sự thái quá của chính mình. Tom và Fred vẫn ổn mà. Dù sao họ cũng là những gã đàn ông đã
+Đầu tiên, cửa chính nhà Holly bật mở, chú nhóc Chad bước ra ngoài với hai cánh tay vẫn còn nguyên nẹp bó bột.
 
-Thế rồi, chiếc ván bắt đầu lao đi nhanh hơn.
+“Mẹ ơi?” Cậu bé bước qua hiên nhà, chập chững đi xuống các bậc thang. “Mẹ… ơ, mẹ ơi? Phòng ngủ của con lại dở chứng kỳ quặc nữa rồi, mọi thứ cứ sủi bọt lăn tăn rồi đảo lộn tùng phèo cả lên…” Thằng bé khựng lại, dường như vừa kịp nhận ra quang cảnh trước mắt: mẹ nó đang lăm lăm cây gậy sắt số chín trên tay với ánh mắt lóe lên vẻ liều mạng cảm tử.
 
-“Này!” Miriam hét lên. “Này, chậm lại chút đi!”
+Vừa lúc Chad lùi lại một bước, một chiếc ô tô rẽ vào đường Ravenswood Drive. Xe của Jack. Chiếc xe đỗ xịch ngay trước nhà. Jack và Fred bước xuống. Jack lấy chiếc xe lăn ra từ cốp sau, còn Fred thì đỡ Tom ngồi vào đó. Tom giơ tay vẫy (đại khái là cố vẫy), vì hai cánh tay anh, y hệt như đứa con trai, đều đang bị bó bột trắng xóa từ bàn tay lên tới tận vai.
 
-Họ không nghe thấy cô, hoặc cố tình giả điếc. Vợ của hai gã đâu rồi nhỉ? Mabel, Nicky và Chad vẫn đang đứng nhìn từ khoảng sân bùn lầy trước nhà. Nhưng Kate không có ở đó cùng lũ trẻ. Còn Holly…
+“Chào em yêu! Anh về rồi đây!”
 
-Họ lao xuống đường ngày một nhanh hơn. Con dốc càng xuống dưới càng trở nên dốc đứng. Rồi khi trượt được khoảng một phần ba quãng đường, Fred bắt đầu hoảng loạn. Gã nhảy tót ra khỏi ván trượt. Chiếc ván phi thẳng vào gờ vỉa hè vỡ tan tành. Gã loạng choạng vài bước nhưng không ngã. Gã vẫn bình an vô sự.
+Holly hoàn toàn phớt lờ lời chào. “Các cậu có biết tớ muốn gì không?” cô hỏi hai người bạn, nhưng chẳng buồn đợi họ trả lời. Cô quay người, thong thả bước về phía chiếc xe mô tô đang đỗ ở lối vào nhà xe. Cô giơ cao cây gậy golf. Và vung xuống.
 
-Thế nhưng Tom vẫn tiếp tục lao đi. Độ dốc mỗi lúc một gắt hơn, còn chiếc ván trượt của anh thì xé gió lao băng băng. Anh tiến sát tới điểm giữa con dốc với vẻ mặt vô cùng hăng máu, ánh mắt hệt như một kẻ đang lao thẳng vào cơn lốc xoáy.
+“Holly!” Tom thét lên. “Đừng…”
 
-Cậu nhóc Chad chạy tót ra vỉa hè, hò reo cổ vũ nhiệt tình: “Cố lên bố ơi! Nhanh nữa lên! Nhanh nữa lên!”
+Holly vung gậy thêm lần nữa. Chiếc đèn pha vỡ tan tành.
 
-Tom lại càng tăng tốc. Anh cán mốc nửa quãng đường trong tư thế hai tay dang rộng để giữ thăng bằng. Anh chẳng buồn hãm phanh, cũng không thèm trượt uốn lượn để giảm tốc. Anh cứ thế lao thẳng tắp xuống chân đồi, mỗi lúc một nhanh hơn, nhanh nữa và nhanh khủng khiếp.
+“Holly! Dừng lại đi!”
 
-Anh vút qua Chad, lướt qua khoảng sân nhà Fred và Kate (nơi những mầm cây nhỏ xíu vừa mới nhú lên trong vũng bùn), rồi ngày một nhanh hơn. Ở phía xa đằng sau, ngay tại vạch xuất phát của cuộc đua độc mã này, cánh cửa nhà anh bật mở. Holly lao ra ngoài, tay
+Cô tiếp tục vung gậy, vang lên một tiếng rôm rốp cùng một tiếng rắc sắc lẹm.
 
-“Tom! Dừng lại! Dừng lại ngay!”
+“Dừng lại đi! Làm ơn! Holly! Ai đó cản cô ấy lại giúp tôi với!” Tom thảm thiết van nài. Tất nhiên, anh chẳng thể tự mình ngăn vợ lại với đôi tay bó bột cùng hai xương bánh chè bị rạn. Holly tiếp tục nện liên tiếp vào phần chắn bùn, rồi đập nát vụn chiếc đèn hậu. Fred và Jack dè dặt tiến lại vài bước.
 
-Cô guồng chân đuổi theo anh dọc con phố, vừa chạy vừa gào thét liên hồi. Thế nhưng anh không dừng lại. Anh làm sao có thể dừng lại cơ chứ? Làm sao anh nghe thấy tiếng cô giữa âm thanh rít gầm của bánh xe trên mặt đường nhựa, tiếng gió vù vù bên tai và ngọn lửa adrenaline đang cuồn cuộn chảy rần rật trong huyết quản. Lúc này, anh chính là hiện thân thuần khiết của tốc độ.
+Miriam giơ tay ngăn lại. “Hai người đừng có dại!”
 
-Giờ đây Miriam đã có thể nhìn rõ gương mặt anh: ánh mắt lóe lên tia sáng cuồng tín, vệt nước bọt kéo thành sợi nơi khóe miệng, cùng hai hàm răng nghiến chặt để chịu đựng áp lực tốc độ. Anh đang tiến gần đến chân dốc, nơi con đường kết thúc ở một ngõ cụt. Đó chính là vạch đích.
+“Sẽ bị thương đấy!” Kate nói bồi vào.
 
-Anh đã thắng! Tom toe toét cười rồi giơ hai tay lên trời đầy đắc thắng. Mỗi tội, anh lại chẳng biết làm cách nào để giảm tốc. Anh duỗi chân ra (một nỗ lực vụng về nhằm chà đế giày xuống mặt đường), song điều đó chẳng giúp anh hãm lại chút nào mà chỉ khiến anh mất thăng bằng. Anh cố bẻ lái rẽ vào lối dẫn xe vào nhà, nhưng rốt cuộc chiếc ván trượt lại đâm sầm vào gờ vỉa hè rồi khựng lại. Còn Tom thì vẫn tiếp tục lao đi. Anh bay vút lên không trung, hai tay dang rộng về phía trước hệt như một chiếc phi thuyền tên lửa đơn độc. Rồi anh rơi tự do. Kèm theo một tiếng *rắc* rợn người, xương cốt anh vỡ vụn ngay khi va chạm với mặt đất. Anh cất lên một tiếng thét duy nhất xé toạc không gian, để rồi sau đó chìm vào sự im lặng đến đáng sợ. Giờ đây chỉ còn lại những âm thanh dịu
+“Holly! Dừng lại!” Tom lại gào lên, và anh cứ gào như thế. Trong khi đó, Holly điềm nhiên nện tơi bời lớp mạ crom, làm móp méo các mảng kim loại, đập nát bình xăng, bẻ cong ống xả, nện nát bét ổ khóa khởi động rồi đạp đổ chềnh ềnh chiếc mô tô xuống đất. Xong xuôi, cô tiếp tục vung gậy phang tới tấp, hết cú này đến cú khác.
+
+Cứ mỗi lần vung gậy, cô lại hét lên, trút sạch toàn bộ nỗi thịnh nộ và sợ hãi vào tiếng thét xung trận. Gương mặt cô khi ấy là một bức tranh hoàn hảo của sự cuồng giận dữ dội (mà lại hoàn toàn chính đáng). Cô không hề điên. Thậm chí cô còn chưa say đến mức ấy. Đơn giản là cô đã bị dồn tới giới hạn bởi một người đàn ông vốn coi việc thách thức mọi giới hạn làm lẽ sống. Cô đang kẹt trong một thứ gì đó lớn lao hơn, một thứ mà chính cô cũng chẳng thể giải thích. Thật ra, tất cả bọn họ đều đang như thế.
+
+Và khi cô đập nát vụn chiếc mô tô của Tom, khi Tom rốt cuộc cũng từ bỏ những lời van xin vô vọng rồi chìm vào lặng câm, Kate lặng lẽ ngồi thụp xuống bãi cỏ, vẫy vẫy tay gọi Fred lại ngồi cạnh mình. Còn Jack thì bước qua đống bóng golf rải rác để tới bên Miriam. Cánh tay anh khẽ chạm vào tay cô, cô liền siết chặt lấy bàn tay anh. Cả hai cùng đứng đó, lặng lẽ dõi nhìn.
+
+Trên hiên nhà, Chad bắt đầu reo hò cổ vũ đầy hào hứng: “Cố lên mẹ ơi! Phá nát nó đi! Cho nó biết tay đi mẹ!”
+
+Và Holly đã làm thế thật. Cô vung gậy, bồi thêm vài cú đạp rồi nhổ một bãi nước bọt, cho tới khi hoàn toàn kiệt sức. Cô ngã quỵ xuống bên đống xác xe vụn nát và bật khóc nức nở.
+
+Miriam quay sang Jack:
+
+“Em sẽ đưa cậu ấy đi. Em và Kate sẽ đưa cậu ấy đi cùng.”
+
+“Đi đâu?”
+
+“Em cũng chưa biết. Một nơi nào đó… miễn không phải nơi này. Anh với Fred có thể chăm sóc lũ trẻ. Cả Tom nữa.”
+
+“Nhưng…”
+
+“Không nhưng nhị gì hết. Chuyện này bắt buộc phải làm.”
+
+“Em sẽ đi bao lâu?”
+
+Miriam nhún vai:
+
+“Cần bao lâu thì bấy lâu.”
+
+Rồi cô đặt một nụ hôn lên má Jack, quay lưng bước lại để nhặt nhạnh những mảnh vụn vỡ từ người bạn thân đang tan nát của mình.

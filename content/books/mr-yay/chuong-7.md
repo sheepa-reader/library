@@ -2,7 +2,7 @@
 
 **ANH LÀ KẺ DỄ BỊ LÃNG QUÊN.**
 
-Lại còn hay quên. Bừa bãi. Thiếu động lực. Lười biếng. Tham ăn. Bất kính. Hoang tưởng. Chẳng lẽ anh không biết rằng cuộc sống tốt đẹp chưa
+Lại còn hay quên. Bừa bãi. Thiếu động lực. Lười biếng. Tham ăn. Bất kính. Hoang tưởng. Chẳng lẽ anh không biết rằng cuộc sống tốt đẹp chưa từng được dâng sẵn trên đĩa bạc hay sao? Người ta phải nai lưng ra làm việc. Phải tuân thủ luật chơi. Phải biết phấn đấu chứ không thể cứ tà tà lướt qua mọi chuyện. Một điểm vừa đủ qua môn cũng chẳng khác gì điểm F trừ trừ trừ, chừng nào nó chưa phải là một điểm A cộng.
 
 Bratty chẳng tin vào bất kỳ điều nào trong số đó.
 
@@ -16,7 +16,7 @@ Anh từng làm đúng trò đó với những mẩu bột bánh quy sô-cô-la 
 
 Thế nhưng *bà ta* đâu có ăn kem, và bố anh cũng chẳng bao giờ đụng tới, vậy cớ sao hộp kem lại nằm trong ngăn đá? Lẽ nào nó được gài ở đó như một bài kiểm tra?
 
-Giờ đây anh nghĩ về chuyện ấy khi lê bước dọc vỉa hè nhớp nháp vào một buổi chiều đông giá buốt, chú chó được địu sau lưng, bụng thì
+Giờ đây anh nghĩ về chuyện ấy khi lê bước dọc vỉa hè nhớp nháp vào một buổi chiều đông giá buốt, chú chó được địu sau lưng, bụng thì đói meo. Anh đã cho chó ăn, nhưng bản thân thì chưa có hạt nào bỏ bụng, và một giọng nói mỉa mai trong đầu cất lên: *Có khi mày chẳng xứng đáng được ăn đâu, đồ béo ục ịch.*
 
 Có lẽ anh nên gọi điện cho chuyên viên trị liệu tâm lý của mình.
 
@@ -40,7 +40,7 @@ Anh đã thui thủi một mình kể từ khi người bạn thân nhất, Tomm
 
 *Cậu ấy xin bảo lưu một năm.*
 
-*Đó là hành động ngu xuẩn và thiển cận nhất trần đời! Thế còn hồ sơ xin việc thì*
+*Đó là hành động ngu xuẩn và thiển cận nhất trần đời! Thế còn hồ sơ xin việc thì sao? Còn những kỳ thực tập thì tính thế nào? Làm sao sau này nó kiếm nổi một công việc tử tế ở ngân hàng đầu tư nữa? Hãng nào thèm tuyển nó cơ chứ? J. P. Morgan? Hay Barrington Equity? Nó sẽ chẳng có lấy một cơ hội! Nó đang PHÍ HOÀI TƯƠNG LAI CỦA MÌNH! (Các mạch máu nổ tung trong mắt ông.) (Khói bốc nghi ngút ra từ hai lỗ tai.)*
 
 *Helena:*
 
@@ -70,13 +70,13 @@ Anh đã thui thủi một mình kể từ khi người bạn thân nhất, Tomm
 
 Chỉ có điều, anh đã làm đúng cái trò ngu xuẩn đó vào tuần trước. Khi chỉ còn thiếu vài tín chỉ nữa là nhận bằng. Tommy thì đã ở cách xa nhóm trường Ivy League những ba nghìn dặm. Còn Bratty thì kẹt lại ở trường công lập bang sau kỳ thi cuối kỳ. Anh nộp bài tiểu luận kết thúc môn kinh tế học vi mô, và vị giáo sư cất tiếng hỏi: “*Cậu Pierson, cậu có tham gia hội chợ việc làm không đấy?*”
 
-Thế là anh đáp, *“Dạ có chứ ạ, dĩ nhiên rồi thầy,”* dẫu cho trong đầu anh chẳng hề có lấy nửa phần trăm ý định sẽ vác xác đến đó. Nhưng rồi rốt cuộc anh vẫn đi. Anh khoác lên
+Thế là anh đáp, *“Dạ có chứ ạ, dĩ nhiên rồi thầy,”* dẫu cho trong đầu anh chẳng hề có lấy nửa phần trăm ý định sẽ vác xác đến đó. Nhưng rồi rốt cuộc anh vẫn đi. Anh khoác lên mình bộ âu phục, thắt chiếc cà vạt nghiêm chỉnh, để rồi mồ hôi bắt đầu biểu tình: chúng túa ra loang lổ dưới nách áo, nở rộ thành từng mảng sau lưng và lấm tấm đọng giọt trên trán. Anh đưa tay ra bắt với mọi người, một bàn tay nhớp nháp mồ hôi, mềm oặt như một con cá chết đang ngoe nguẩy gắn hờ nơi cổ tay. Đôi bàn tay thảm hại ấy đã gom về hàng đống tờ rơi quảng cáo cùng cơ man mã QR để quét. Anh hoàn toàn có thể trông đợi một tương lai xán lạn đầy hứa hẹn trong ngành nhập liệu văn phòng, dịch vụ chăm sóc điều dưỡng tại gia, hoặc chân lon ton làm tờ khai thuế. Thậm chí, anh còn có cơ hội leo lên đỉnh kim tự tháp bán hàng đa cấp của các dòng dụng cụ nhà bếp cao cấp.
 
 *Đó không phải một cơn hoảng loạn,* anh đã phân trần với chuyên viên trị liệu tâm lý của mình như thế khi thuật lại những gì xảy ra tiếp theo.
 
 *Nhưng nó cũng chẳng hẳn là* không *phải một cơn hoảng loạn.*
 
-Nói đúng hơn, nó giống như một màn rã đám toàn diện của bộ máy sinh học. Đôi chân anh bỗng hóa thành hai sợi bún nhũn. Mặt sàn nhà thi đấu thể thao lao vút về phía anh với vận tốc chóng mặt. Hai cánh tay hoàn toàn mất khả năng điều khiển. Thế là anh đổ ụp xuống, phần thân trên tiếp đất đĩnh đạc trước tiên. Cú va chạm nặng ký của anh làm rung chuyển cả sàn gỗ. Mọi người lập tức xúm đông xúm đỏ quanh anh, ánh mắt ngập tràn vẻ âu lo, nhưng dĩ nhiên không thể thiếu vài phần ái ngại, thương hại xen lẫn chút ghê tởm kín đáo. Hơi thở anh đứt quãng từng cơn. Mọi lỗ chân lông đều biến thành vòi phun nước. Trái tim anh đập dồn dập
+Nói đúng hơn, nó giống như một màn rã đám toàn diện của bộ máy sinh học. Đôi chân anh bỗng hóa thành hai sợi bún nhũn. Mặt sàn nhà thi đấu thể thao lao vút về phía anh với vận tốc chóng mặt. Hai cánh tay hoàn toàn mất khả năng điều khiển. Thế là anh đổ ụp xuống, phần thân trên tiếp đất đĩnh đạc trước tiên. Cú va chạm nặng ký của anh làm rung chuyển cả sàn gỗ. Mọi người lập tức xúm đông xúm đỏ quanh anh, ánh mắt ngập tràn vẻ âu lo, nhưng dĩ nhiên không thể thiếu vài phần ái ngại, thương hại xen lẫn chút ghê tởm kín đáo. Hơi thở anh đứt quãng từng cơn. Mọi lỗ chân lông đều biến thành vòi phun nước. Trái tim anh đập dồn dập cỡ một nghìn nhịp mỗi phút, nhưng không, anh vẫn quả quyết rằng mình cực kỳ ổn. Anh chỉ cần chuồn lẹ khỏi cái chốn này càng nhanh càng tốt.
 
 Anh gượng dậy.
 
@@ -86,11 +86,11 @@ Và anh cắm đầu cắm cổ chạy.
 
 Anh ngoái nhìn qua vai về phía chú chó. Tux. Kẻ Hủy Diệt Tux. Cỗ Máy Tux Tự Động. Tux Não Chó, Đấng Bảo Hộ Lãnh Địa.
 
-Khu vực này dường như đã đổi khác đôi chút kể từ lúc anh rời phòng khám thú y. Anh vẫn chưa dám vác mặt về nhà, đơn giản vì bộ não anh vẫn chưa tìm ra lời giải cho bài toán hóc búa: Một Con Chó cộng với Quy Định CẤM NUÔI THÚ CƯNG. Anh chẳng có điểm đến cụ thể nào cả. Thế là anh cứ thế cắm gót lang thang, để mặc đôi chân tự dẫn lối xuôi theo con dốc, băng qua những quán rượu nhỏ giăng đầy dây đèn lấp lánh và các mặt tiền cửa hiệu rực rỡ không khí mùa lễ hội
+Khu vực này dường như đã đổi khác đôi chút kể từ lúc anh rời phòng khám thú y. Anh vẫn chưa dám vác mặt về nhà, đơn giản vì bộ não anh vẫn chưa tìm ra lời giải cho bài toán hóc búa: Một Con Chó cộng với Quy Định CẤM NUÔI THÚ CƯNG. Anh chẳng có điểm đến cụ thể nào cả. Thế là anh cứ thế cắm gót lang thang, để mặc đôi chân tự dẫn lối xuôi theo con dốc, băng qua những quán rượu nhỏ giăng đầy dây đèn lấp lánh và các mặt tiền cửa hiệu rực rỡ không khí mùa lễ hội nơi trung tâm thị trấn. Anh lướt qua những khung cửa kính trưng bày tuyết giả lóng lánh, qua cây thông Giáng sinh khổng lồ cao chín mét do Ngân hàng Đệ nhất Lake Orange tài trợ, đang bừng sáng rực rỡ và lấp la lấp lánh giữa ánh ngày ảm đạm của cái ngày ngắn nhất trong năm. Khắp nơi toàn là ánh sáng lấp lánh. Nhưng khi anh nhìn thấy nó - không, khi anh nhìn thấy chú chó nổi bật trên phông nền rực rỡ ấy, thần thái còn rạng ngời hơn bất kỳ bóng đèn điện nào gắn trên cây thông của tập đoàn tư bản, anh bỗng cảm nhận được một thôi thúc mãnh liệt muốn bứt tung ra khỏi chính cái vỏ bọc này. Anh muốn lột bỏ lớp da ngột ngạt này. Muốn gột sạch từng lớp mỡ thừa nhão nhoét bên dưới, cho đến khi chỉ còn lại bản ngã chân thật nhất của mình.
 
 Thôi thúc bừng tỉnh ấy lập tức biến thành một màn chạy nước rút vụng về nhắm thẳng hướng bờ sông. Anh nhấc bổng chú chó ra khỏi ba lô, quấn chặt dây xích quanh cổ tay rồi co cẳng chạy hết tốc lực. Chú chó phi nước đại bên cạnh anh, lưỡi thè dài phì phò thở, phấn khởi ra mặt. Với nó, đây ắt hẳn là một trò chơi vô cùng kỳ thú. Đây chính là tự do: được sải chân lao vút giữa làn sương giá buốt mà chẳng mảy may bận tâm đến bất kỳ đích đến nào trên đời.
 
-Thế là một người một chó cùng nhau băng qua đường cao tốc, chạy ngang qua những sân vận động, xuyên thẳng qua công viên rồi rẽ vào lối mòn ven sông. Dòng sông Ohio trôi lờ đờ, đục ngầu sắc nâu xỉn, một minh chứng điển hình cho tình trạng ô nhiễm hóa chất lâu năm. Hàng cây hai bên bờ trơ trụi cành lá và ủ rũ rầu
+Thế là một người một chó cùng nhau băng qua đường cao tốc, chạy ngang qua những sân vận động, xuyên thẳng qua công viên rồi rẽ vào lối mòn ven sông. Dòng sông Ohio trôi lờ đờ, đục ngầu sắc nâu xỉn, một minh chứng điển hình cho tình trạng ô nhiễm hóa chất lâu năm. Hàng cây hai bên bờ trơ trụi cành lá và ủ rũ rầu rĩ. Họ cứ thế miệt mài chạy. Vạn vật xung quanh đều ẩm ướt, thê lương và xám xịt, chỉ trừ vệt sáng tuyệt đẹp đang thoăn thoắt lao đi của chú chó, cùng dòng máu đang đập rộn rã trong lồng ngực Bratty, bỗng chốc bùng lên một nguồn sống dạt dào.
 
 Anh đã chạy một quãng đường quá xa, xa đến mức hai bắp chân rốt cuộc phải gào lên phản đối: *Thôi xin lạy bố, làm ơn dừng lại nghỉ giùm con cái!*
 
@@ -112,7 +112,7 @@ Anh gửi cho Tommy một tấm ảnh chụp chú chó, không kèm một lời 
 
 “Cháu… hình như có điều gì đó không ổn với cháu. Mọi thứ cứ sai sai…”
 
-“Được rồi. Cậu có đang ở một
+“Được rồi. Cậu có đang ở một nơi an toàn không? Hiện tại cậu có…”
 
 “Ý cháu là, vâng, cháu chẳng gặp nguy hiểm hay gì đại loại thế đâu ạ.” Anh nhìn sang Tux. Chú chó nở một nụ cười toe toét hết cỡ. “Chỉ là… cháu thực sự không biết phải diễn tả thế nào. Rắc rối lắm ạ.”
 
@@ -140,7 +140,7 @@ Tiếng trẻ con rúc rích cười đùa vang lên từ đầu dây bên kia.
 
 Anh cúp máy. Thế rồi, anh cùng chú chó bắt đầu cuộc cuốc bộ trường chinh về nhà, rời xa bờ sông, ngược lên con dốc, băng qua ranh giới của những khu phố đang dần được chỉnh trang đô thị hóa, để về tới căn hộ tồi tàn mà chính Bratty đã phải tự cắn răng bỏ tiền túi ra thuê. Anh lủi qua con hẻm dẫn ra phía sau tòa nhà, nhét Tux gọn gàng vào lại trong ba lô rồi bắt đầu công cuộc leo thang thoát hiểm.
 
-Đôi chân anh lập tức biểu tình dữ dội. Toàn bộ cơ thể anh đồng lòng dấy lên
+Đôi chân anh lập tức biểu tình dữ dội. Toàn bộ cơ thể anh đồng lòng dấy lên nỗi căm ghét tột cùng dành cho cái thang này, chiếc lối thoát hiểm này, cả tòa nhà này cùng những quy định thuê nhà bất công của nó (cứ như thể sự hiện diện của một con thú cưng lại có đủ khả năng làm cho cái khu ổ chuột này tồi tệ hơn được nữa vậy). Thế nhưng, con người sâu kín bên trong Bratty vẫn bền bỉ thôi thúc anh tiếp tục leo, leo mãi không ngừng. Lên tới tận tầng ba. Đúng lúc đó, một ô cửa sổ bật mở, và một người đàn ông với chòm râu muối tiêu xồm xoàm thò đầu ra ngoài.
 
 Người đàn ông chằm chằm nhìn Bratty đang đứng bám víu ngoài thang thoát hiểm, mồ hôi nhễ nhại, đầu tóc bù xù, trên lưng còn cõng một chú pitbull.
 

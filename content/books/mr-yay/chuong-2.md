@@ -4,7 +4,7 @@
 
 ━ Edgar Cantero, tác giả có sách bán chạy nhất theo bình chọn của *The New York Times* với tác phẩm *Meddling Kids*
 
-“Chân thành, hóm hỉnh và lãng mạn một cách kín đáo… Một câu chuyện thú vị và thấm thía về ý nghĩa thực sự của việc làm người, cùng những gì
+“Chân thành, hóm hỉnh và lãng mạn một cách kín đáo… Một câu chuyện thú vị và thấm thía về ý nghĩa thực sự của việc làm người, cùng những gì chúng ta mắc nợ lẫn nhau.”
 
 ━ Christina Lauren, tác giả có sách bán chạy nhất theo bình chọn của *The New York Times* với tác phẩm *Love và Other Words*
 

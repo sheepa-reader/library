@@ -10,7 +10,7 @@
 
 Định mức số giờ tính phí cho Thân chủ của hãng luật vốn dĩ chẳng nể nang gì những buổi tối đầm ấm hay ngày cuối tuần thảnh thơi.
 
-Lũ trẻ cuối cùng cũng dứt cơn nôn nao và được nâng cấp thực đơn lên món mì ống nguội ngắt,
+Lũ trẻ cuối cùng cũng dứt cơn nôn nao và được nâng cấp thực đơn lên món mì ống nguội ngắt, không nước sốt, bốc ăn bằng tay. Chú chó Roxster đi đi lại lại đầy bồn chồn bên cửa chính. Ngoài trời, cơn mưa lạnh ngắt như muốn dập tắt mọi niềm hy vọng le lói về một mùa Giáng sinh ấm áp. Miriam cảm thấy bồn chồn, bất an. Cô nhận ra một điều gì đó sai lệch, nhưng chẳng thể chỉ đích danh là vì sao hay điều gì. Ừ thì hiển nhiên một phần là do Jack rồi. Thế nhưng vẫn còn một thứ gì khác nữa, một cảm giác nhồn nhột khó chịu cứ dấy lên dưới làn da cô. Cô sực nhớ lại cuộc gọi từ thân chủ của mình, Bradford.
 
 *Có điều gì đó không ổn với cháu*, cậu từng nói vậy. *Có gì đó rất không ổn.*
 
@@ -22,7 +22,7 @@ Lẽ ra một chuyên viên trị liệu tâm lý như cô phải thấy lo ng�
 
 Thế nhưng cả người lẫn chó vẫn cứ tiếp tục đi đi lại lại quanh nhà.
 
-Kim đồng hồ nhích dần về giờ đi ngủ. Chú chó buồn bực gặm những dải tua rua của tấm thảm. Nó
+Kim đồng hồ nhích dần về giờ đi ngủ. Chú chó buồn bực gặm những dải tua rua của tấm thảm. Nó gặm cả chiếc giày chạy bộ mà Jack chẳng bao giờ có thời gian xỏ vào. Nó gõ móng lóc cóc qua lại khắp gian bếp. Nó lẽo đẽo theo chân cô dỗ lũ trẻ vào giường ngủ, rồi lại phóng vụt ra sủa ầm ĩ trước cửa sau.
 
 “Nó bị làm sao thế mẹ?” Lindsey hỏi. “Đáng lẽ nó phải thấy vui sau chừng ấy bơ con cho nó ăn chứ.”
 
@@ -44,7 +44,7 @@ Ngủ say như chết.
 
 Cô nằm trơ trọi ở đó, bực bội với người đàn ông vừa đánh thức mình dậy và giờ đây đang ngáy o o ngay bên cạnh.
 
-“Jack!” cô rít lên.
+“Jack!” cô rít lên. Anh khịt mũi một tiếng, nhưng không hề tỉnh giấc.
 
 Cô quay lưng lại với người chồng đáng ghét. Anh ngáy khò khò. Anh thở phì phò bằng miệng. Anh trở mình, tiện tay kéo phăng cả tấm chăn về phía mình.
 
@@ -82,7 +82,7 @@ Cô nằm đó suốt hàng giờ dài đằng đẵng, bồn chồn và ấm �
 
 “Trời đất quỷ thần ơi!” Jack gắt gỏng thốt lên. “Ở cái nhà này tôi chẳng bao giờ được yên thân nghỉ ngơi lấy một phút!”
 
-Jack bực dọc hất tung người ra khỏi giường. Anh bế bổng cậu con trai lên rồi nện gót chân
+Jack bực dọc hất tung người ra khỏi giường. Anh bế bổng cậu con trai lên rồi nện gót chân thình thịch dọc hành lang.
 
 Vài phút sau anh quay lại. Anh khép cửa, không hẳn là sập rầm một cái nhưng đủ nặng nề, rồi quăng cả người lên nệm.
 
@@ -106,7 +106,7 @@ Jack cũng ngồi bật dậy, trừng mắt nhìn cô: “Cuối tuần rồi a
 
 “Cuối tuần nào mà anh chẳng làm việc. Lúc nào anh cũng găm sẵn một cái cớ. ‘Ôi, anh không trông con được đâu,’” cô nhại lại bằng cái giọng đầy mỉa mai, “‘anh bận làm việc rồi. Ôi, anh không rửa bát được đâu, anh bận làm việc rồi. Ôi, anh không dọn bãi nôn được đâu, anh bận làm việc rồi. Nhưng ôi chao, Fred với Tom rủ đi đánh golf này, thế thì đương nhiên rồi! Chiều nay anh nghỉ việc đi chơi được!’”
 
-“Hóa ra tất cả chuyện này chỉ vì một buổi đánh golf?” Jack gắt lên, bắt đầu chuyển sang thế phòng thủ. “Đúng một lần
+“Hóa ra tất cả chuyện này chỉ vì một buổi đánh golf?” Jack gắt lên, bắt đầu chuyển sang thế phòng thủ. “Đúng một lần duy nhất thôi đấy nhé. Một lần! Chẳng lẽ anh không được phép làm cái gì để giải khuây sao?”
 
 “Không, chuyện này chẳng can hệ gì đến việc đánh golf cả. Vấn đề nằm ở anh đấy, Jack. Anh mặc định em phải ôm đồm tất tần tật mọi thứ. Cứ như em là cô vợ nội trợ bé nhỏ ngoan hiền đảm đang vậy. Anh quên rồi sao Jack, em cũng có sự nghiệp của mình đấy? Anh quên khuấy rằng sáng mai em có một đống ca hẹn với thân chủ à? Rằng em cũng chỉ còn chưa đầy năm tiếng đồng hồ nữa là phải thức dậy rồi sao?”
 
@@ -132,7 +132,7 @@ Cô giật phắt chiếc chăn lại, lôi tuột nó ra khỏi người chồn
 
 “Biết chứ, em là một… một…”
 
-“Em là chuyên viên trị liệu tâm lý đấy, Jack!” Cô bắt đầu cao giọng, đủ to để Rory có thể nghe thấy
+“Em là chuyên viên trị liệu tâm lý đấy, Jack!” Cô bắt đầu cao giọng, đủ to để Rory có thể nghe thấy nếu cậu bé còn thức. “Nó phức tạp hơn cái chuyện ngồi ườn một chỗ nhiều! Anh tưởng thiên hạ trả tiền cho em chỉ để ngồi không đấy à? Anh nghĩ em còng lưng học cao học chỉ để đến đó ngồi chơi xơi nước sao? Hay anh quên mất là em từng phải dùi mài kinh sử hả Jack? Mà đằng nào thì anh cũng có thèm bận tâm đến bất cứ thứ gì diễn ra trong cái nhà này đâu!”
 
 “Bởi vì anh phải làm việc! Anh phải cày cuốc, Miriam à, tối mắt tối mũi suốt ngày lẫn đêm. Em tưởng anh muốn mọi sự ra nông nỗi này lắm chắc?”
 
@@ -148,7 +148,7 @@ Cô giật phắt chiếc chăn lại, lôi tuột nó ra khỏi người chồn
 
 Jack hậm hực hất đôi chân dê lông lá qua mép giường. Anh chộp lấy chiếc gối của mình rồi sải bước ra khỏi phòng, không quên dằn mạnh cánh cửa đánh sầm một tiếng sau lưng.
 
-Thế là cuối cùng
+Thế là cuối cùng Miriam cũng độc chiếm trọn vẹn cả tấm chăn một mình.
 
 Cô nhìn chằm chằm vào khoảng nệm trống hoác bên cạnh. Trong lòng dấy lên đôi chút ân hận vì những lời cay nghiệt vừa buông ra, nhưng mặt khác, cô lại ấm ức nhận thấy mình vẫn chưa trút cạn được cơn giận.
 
@@ -170,7 +170,7 @@ Dưới phòng khách, Jack đang nằm co ro trên ghế sô pha. Trông chừn
 
 “Jack,” cô thì thào vào màn đêm. “Em… em nghĩ chúng ta nên đi gặp chuyên viên tư vấn hôn nhân thôi.”
 
-Jack chẳng hề nghe thấy cô, hoặc cũng có thể anh đang giả vờ như không nghe. Cô kéo chăn phủ kín chân chồng rồi mặc kệ anh nằm còng queo trên chiếc đi văng. Cô rảo bước về phía tủ quần áo cạnh cửa trước. Lúc này cô muốn ra ngoài. Không, cô bắt buộc phải ra ngoài. Dù bên trong vẫn đang bận đồ ngủ (nhưng thây kệ, vào cái giờ này thì
+Jack chẳng hề nghe thấy cô, hoặc cũng có thể anh đang giả vờ như không nghe. Cô kéo chăn phủ kín chân chồng rồi mặc kệ anh nằm còng queo trên chiếc đi văng. Cô rảo bước về phía tủ quần áo cạnh cửa trước. Lúc này cô muốn ra ngoài. Không, cô bắt buộc phải ra ngoài. Dù bên trong vẫn đang bận đồ ngủ (nhưng thây kệ, vào cái giờ này thì ai thèm bận tâm chứ), cô vẫn khoác thêm chiếc áo ấm. Đôi chân trần xỏ vội vào ủng đi mưa. Cô mở cửa khẽ khàng hết mức có thể, êm ru như một con sao biển lướt trên cát, rồi bước ra màn đêm.
 
 Bên ngoài trời ẩm ướt và khó chịu cùng cực. Màn sương đêm phả vào mặt từng luồng lạnh buốt. Xung quanh, những ngôi nhà láng giềng đều đã chìm vào bóng tối, dẫu dưới mái hiên vẫn còn lấp lánh ánh đèn Giáng sinh muộn. Miriam rảo bước qua khoảng sân, rẽ xuống vỉa hè rồi lững thững dọc theo con phố. Cô đi qua nhà Kate và Fred, nơi dải đèn năng lượng mặt trời chỉ còn tỏa ra thứ ánh sáng mờ căm sau chuỗi ngày u ám; rồi tiếp tục ngang qua nhà Holly và Tom với những hình nộm bơm hơi khổng lồ đứng sừng sững cùng cơ man dây đèn nhấp nháy ken đặc từng ô cửa sổ. Chú tuần lộc Rudolph bơm hơi dường như đang dõi mắt trông theo từng bước chân cô, trố đôi mắt bằng vải nylon đen sì vô hồn nhưng lại đầy vẻ tò mò phán xét. Rốt cuộc thì cô đang làm cái quái gì ngoài này giữa đêm hôm khuya khoắt thế này?
 
@@ -180,7 +180,7 @@ Thế mà giờ đây cô đã đứng ở đây, ngay trên đỉnh con dốc c
 
 Con thỏ đang ngồi chồm hổm ngay giữa làn đường hướng về phía bắc. Nó béo tròn múp míp, bộ lông trắng muốt cùng đôi mắt sáng loáng. Trừ cái mũi thi thoảng khẽ giật giật, nó hoàn toàn bất động.
 
-Nó vẫn ngồi im phăng phắc khi một chiếc ô tô lao qua đỉnh đồi, phóng vút về hướng
+Nó vẫn ngồi im phăng phắc khi một chiếc ô tô lao qua đỉnh đồi, phóng vút về hướng bắc với tốc độ chẳng khác nào trên đường cao tốc. Nó vẫn chẳng buồn nhúc nhích khi chiếc xe đang ầm ầm lao thẳng tới chỗ mình.
 
 “Này! Thỏ kia!” Miriam gọi với sang, cứ như thể nó hiểu được tiếng người. “Tránh ra khỏi đường mau!”
 
@@ -200,7 +200,7 @@ Thế nhưng, ngay trên mặt đường, con thỏ vẫn ngồi nguyên ở đ�
 
 Nó không đơn thuần là chạy về hướng cô. Nó đang lao thẳng vào cô: đầu cúi gập, đôi tai cụp sát về sau, cắm đầu phi như bay vào người cô.
 
-Mi
+Miriam chẳng rảnh rỗi đâu mà đứng chờ xem phân cảnh tiếp theo của *Cuộc Tấn Công Của Thỏ Báo Hiệu Đứt Gãy Thực Tại Vùng Ngoại Ô*. Thế là cô co giò, ba chân bốn cẳng tháo chạy ngược xuống phố, nhắm thẳng hướng nhà mình mà phóng. Cô chạy một cách vụng về trong đôi ủng đi mưa lòe xòe, và cứ qua từng bước chân, cô lại càng thấm thía bản thân nực cười đến mức nào khi phải phát khiếp trước một sinh vật bé nhỏ, nhiều lông và vốn dĩ vô cùng đáng yêu.
 
 Bước chân cô chậm dần lại. Cô cảnh giác liếc qua vai. Con thỏ vẫn lẵng đẽo bám sát ngay phía sau, giữ khoảng cách đều đặn và nom có vẻ hoàn toàn vô hại.
 

@@ -1,189 +1,105 @@
-# CÁI QUÁI GÌ THẾ, CON HƯƠU?
+# NHỮNG DÒNG THƯ TÌNH
 
-**ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP** Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng *bịch* rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.
+**MIRIAM THỨC GIẤC TRONG CƠN LẠNH GIÁ.** Toàn bộ chăn màn đều bị vun thành một đống bên phía giường của Jack, còn chủ nhân của nó thì đã bốc hơi từ bao giờ. Cô khoác tạm chiếc áo choàng tắm, xỏ đôi dép đi trong nhà rồi bước xuống cầu thang. Trên mặt bàn bếp có tờ ghi chú nằm chễm chệ.
 
-“Có một con hươu trên bãi cỏ kìa,” Jack thông báo.
+*Anh đi làm sớm.*
 
-Lũ trẻ ùa ra. “Đâu ạ? Đâu hả bố?”
+*Yêu em, Jack*
 
-Mấy đứa nhỏ chạy vụt qua Jack, dí sát mặt vào cánh cửa kính chống bão.
+Đương nhiên rồi (thế thì mới phải chứ).
 
-“Mẹ ơi, chúng con ra xoa đầu nó được không?” Rory hỏi.
+Cô quơ lấy tờ ghi chú của chồng trên bàn bếp rồi thả tọt vào thùng rác. Tiếp theo là quy trình quen thuộc: gọi các con thức dậy và sửa soạn bữa sáng. Dâu tây kèm bánh muffin kiểu Anh dành cho Lindsey (con bé cứ thong thả liếm từng quả dâu như thể liếm kẹo mút, và hẳn là vẫn sẽ còn thừa nguyên nửa chiếc bánh muffin khi hai mẹ con cập bến trường học). Chuối và ngũ cốc Cheerios dành cho Rory (chú nhóc đang bước vào giai đoạn ẩm thực “chỉ chịu ăn một màu,” kiên quyết bài trừ mọi món ăn không mang màu kem).
 
-“Mẹ ơi!” Lindsey thốt lên. “Con hươu đang cố đột nhập vào xe kìa!”
+Chuẩn bị xong bữa sáng, cô vào nhà vệ sinh đánh răng. Bàn chải của Jack vẫn còn ẩm ướt.
 
-Miriam ghé mắt nhìn ra ngoài. Con hươu đứng bằng ba chân, còn cái móng của chân thứ tư thì đang cào cào vào tay cầm cửa bên ghế phụ chiếc xe của cô.
+Dù gì thì cũng không thể để hơi thở buổi sáng ảnh hưởng đến một ngày “làm việc” *vất vả* của anh được.
 
-“Cái quái… cái quỷ gì thế! Nó đang làm xước be bét cái xe của em rồi!”
+Không, không đời nào cô lại đi tự dằn xé bản thân nữa. Cô nhất quyết không làm thế. Bây giờ cô chỉ cần một điếu thuốc lá. Hoặc giả là một trận ân ái cuồng nhiệt, nhưng Jack đã dồn toàn bộ sức lực cho cái gọi là “công việc” mất rồi. Anh chẳng còn sót lại chút ham muốn nào dành cho cô nữa.
 
-“Để anh xử lý cho,” Jack bảo. Anh nhặt chiếc cặp táp lên, thủ sẵn như một thứ vũ khí
+Cô sẽ không tự biến mình thành kẻ hoài nghi vô cớ, trừ phi tìm thấy bằng chứng mười mươi: một vết son môi trên cổ áo, chiếc quần lót dây nhăn nhúm giấu trong túi áo khoác, hay vài lá thư tình vụn vặt trong ngăn kéo bàn làm việc.
 
-“Này! Hươu kia!” Jack hét lên. “Tránh xa khỏi đó mau!” Anh xua xua chiếc cặp táp trông vẻ vô cùng đáng sợ của mình.
+*Hôn anh thật nhiều.*
 
-Con hươu chẳng hề tỏ ra sợ hãi trước anh chàng luật sư mang chiếc cặp táp này. Nó phi quanh chiếc xe, chồm lên bằng hai chân sau rồi thúc hai móng trước vào ô cửa kính bên ghế lái. Mặt kính không vỡ, bởi con hươu này cũng chẳng quá to lớn, nhưng nó nhất quyết không chịu từ bỏ. Nó tiếp tục đứng bằng hai chân sau rồi dậm hai móng trước vào mặt kính lần nữa.
+*Em không thể chờ nổi đến tối nay đâu, người đàn ông vĩ đại của em!*
 
-Miriam lách qua anh chồng vô dụng của mình. Cô lao về phía con hươu, vung vẩy hai tay.
+Miriam từng nhìn thấy một mảnh giấy với những dòng chữ hệt như thế trong ngăn kéo bàn làm việc của bố cô. Nét chữ mềm mại uốn lượn đó tuyệt nhiên không phải của vợ ông (dù vào thời điểm ấy, người giữ vị trí “vợ” của ông là ai đi chăng nữa).
 
-“Này!” cô hét lên. “Tránh xa khỏi đó mau! Đi ra!”
+Người vợ thời kỳ đó mang vẻ đẹp rực rỡ với làn da rám nắng và mái tóc vàng óng, hệt như người phụ nữ mà cô từng vô tình bắt gặp đi bên cạnh chồng mình. Nó khác xa với Miriam của hiện tại, một phụ nữ sở hữu nước da vàng vọt nhợt nhạt đặc trưng của tháng Hai, những nếp nhăn ngày một hằn sâu cùng mái tóc nâu đã điểm vài sợi bạc sớm. Cô tự ngắm mình trong gương, nhìn những vết chân chim giăng như mạng nhện nơi đuôi mắt, những đường hằn lo âu trên trán và lớp da gà trần trụi trên cổ. Cô nhẹ nhàng cởi dải thắt lưng áo choàng tắm bằng vải bông. Cô đăm đăm nhìn xuống bộ ngực đã sệ xuống, những vệt rạn da, chiếc bụng nhăn nhúm cùng những đường tĩnh mạch nổi ngoằn ngoèo. Đôi chân cô trông chẳng khác nào bức phông bạt hứng chịu những nét vẽ nguệch ngoạc bằng bút dạ xanh tím của lũ trẻ. Chính những đứa con đã để lại các vết gân hằn ấy, khi chúng lớn dần lên trong tử cung cô và âm thầm nhào nặn lại vóc dáng người mẹ.
 
-Con hươu vẫn đứng nguyên tại chỗ, hai móng trước ấn chặt vào cửa kính. Nó giương đôi mắt đen to tròn nhìn chằm chằm vào cô.
+Cô đâu có mang diện mạo này vào cái ngày đầu tiên gặp Jack.
 
-“Cái gì? Mày muốn cái gì hả?”
+Hồi ấy, trong mắt anh, cô là người phụ nữ tuyệt mỹ nhất trên đời. Anh từng say đắm cô đến điên cuồng.
 
-Con hươu vẫn nhìn chằm chằm.
+Còn giờ đây, anh trở nên cộc lốc đến lạ. Anh ký tên dưới tờ ghi chú ngắn ngủn bằng một dòng kết nhạt phèo:
 
-*Anh ta đã đi đâu rồi?* - dường như nó đang hỏi như vậy.
+*Yêu em, Jack.*
 
-Con hươu này thật chẳng ra làm sao cả.
+Một lời nhắn đơn giản đến mức người ta viết ra chỉ theo phản xạ. Bởi lẽ qua thời gian, sự cuồng nhiệt đã thoái hóa thành niềm mến thương hết sức bình thường. Sự sùng bái dần lắng xuống thành một thói quen. Những biểu hiện yêu thương bị gọt giũa bớt nhằm tối giản hóa các thủ tục sinh hoạt hằng ngày.
 
-*Anh ta là ai mà đi đâu cơ chứ?*
+Lời nhắn *“Em yêu anh”* biến thành
 
-Với lại, hươu thì làm sao biết nói.
+*“Chúc anh một ngày tốt lành”*, rồi lại hạ cấp thành
 
-*Anh ta đã đi đâu rồi?*
+*“Đừng quên ghé qua bưu điện đấy.”*
 
-Miriam mở cửa bên ghế phụ. Cô nhảy tót vào trong rồi bóp còi inh ỏi.
+Chuyện chăn gối mặn nồng trước khi đi ngủ teo nhỏ lại thành một nụ hôn chúc ngủ ngon vội vã dễ dàng bị lãng quên; ban đầu chỉ thỉnh thoảng, rồi xuất hiện thường xuyên hơn, cho đến khi chẳng còn nụ hôn nào ở đó để mà quên nữa.
 
-Giật bắn mình, con hươu nhảy dựng về phía sau rồi bỏ chạy thục mạng.
+Miriam gần như ước gì Jack làm mọi chuyện đơn giản hơn. Thà anh cứ công khai ngoại tình một cách trắng trợn, còn hơn là cứ giả vờ đóng vai người mẫu mực kiệt sức vì “công việc.”
 
-Trong hộc để cốc có một hộp khoai tây chiên ăn dở. Mồi nhử hươu đây mà. Có lẽ thế. Nếu như hươu cũng ăn khoai tây chiên. Cô bước ra khỏi xe và kiểm tra mức độ thiệt hại: sơn xước vài chỗ, thêm mấy vết móp nho nhỏ.
+Cô chuẩn bị cho các con rồi đưa chúng tới trường: Rory đến lớp mầm non, còn Lindsey đến lớp mẫu giáo. Xong xuôi, cô hủy cuộc hẹn trị liệu đầu tiên trong ngày và dành trọn vẹn thời gian còn lại của buổi sáng để làm cái việc mà bản thân biết thừa là không nên. Nhưng rõ ràng Jack là kẻ đã dồn cô vào bước đường này.
 
-“Rốt cuộc nó muốn gì nhỉ?” Jack hỏi, như thể đó mới là câu hỏi quan trọng nhất lúc này.
+Cô ra hiên sau nhà rít một điếu thuốc. Rồi quay vào, chính thức bắt tay vào chiến dịch lục tung đồ đạc của chồng.
 
-Cả hai quay trở vào nhà.
+Trong các ngăn kéo tủ, cô tìm thấy những chiếc áo sơ mi gấp nếp ngăn nắp, những đôi tất cuộn tròn như quả bóng, cùng mấy chiếc quần jeans mà Jack hầu như chẳng bao giờ chạm tới (đơn giản vì anh không thể mặc quần jeans đi làm, khi mà quần jeans luôn tỷ lệ nghịch với số giờ làm việc tính phí của một luật sư). Cô sục sạo khắp các túi quần âu nhưng chẳng thu được kết quả gì. Cô thậm chí còn đưa đũng từng chiếc quần lên mũi ngửi để truy tìm manh mối. Chúng phảng phất mùi xà phòng giặt cùng mùi bút sáp màu. Rất đặc trưng của Jack, nhưng lại thiếu đi một chút tính chất thực sự của anh.
 
-“Bố ơi,”
+Cô đốt thêm một điếu thuốc nữa rồi chuyển sang lục soát bàn làm việc của chồng. Anh vốn hiếm khi đụng tới cái bàn này, bởi anh thích phô trương đống hồ sơ ngay tại bàn ăn trong bếp hơn, như một cách nhắc nhở cô đầy lộ liễu rằng công việc mới là ưu tiên hàng đầu. Cô tiếp tục lục lọi các ngăn kéo tủ đầu giường. Cô soi tỉ mỉ từng chiếc áo khoác và áo len để truy tìm những sợi tóc vàng khả nghi vương lại. Cô cúi rạp người xuống soi dưới gầm giường, và trong khoảnh khắc luồn tay vào khe hẹp giữa đệm cùng khung giường, cô chợt tự nhận thức được trông bản thân lúc này mới nực cười và đáng thương làm sao.
 
-Jack đang đội chiếc mũ fedora màu nâu, món đồ anh đã sở hữu nhiều năm nhưng hiếm khi đội đi làm.
+Jack đời nào chịu giấu mấy lá thư tình viết tay dưới nệm. Anh hẳn sẽ gửi chúng qua tin nhắn SMS, hoặc qua một ứng dụng bảo mật nào đó, đúng chuẩn một người đàn ông hiện đại.
 
-“Sao con lại *không* đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”
+Tất nhiên, điều đó chẳng thể ngăn cô tiện tay lục lọi chiếc áo khoác Jack vắt tạm trên ghế ăn, dưới cái cớ rất chính đáng là treo nó lên giúp anh. Và ngay trong túi áo, cô tìm thấy một bao diêm. Bìa bao diêm in dòng chữ *Khách sạn & Spa Mossy Glen* nằm ngay trên hình ảnh một cái cây có tán lá hình trái tim. Hầu hết các que diêm bên trong đều đã bị quẹt sạch.
 
-Rory rên lên thích thú. Jack bế bổng cậu bé lên rồi thọc lét tới tấp.
+Cô chưa từng đặt chân đến Khách sạn & Spa Mossy Glen. Nhưng nhìn qua phong cách thiết kế, nơi này có vẻ rất hợp cho những cuộc hẹn hò vụng trộm (tất nhiên là của ai đó, chứ không phải cô). Mà cơ hội dành cho Jack thì lại thừa mứa. Mới tháng trước, anh vừa có một buổi “lấy lời khai qua đêm,” còn tháng trước nữa thì có hẳn hai đêm “phỏng vấn nhân chứng.”
 
-“Bố ơi! Éccc!”
+Miriam bấm số điện thoại in trên bao diêm.
 
-“Rory, chạy mau!”
+“Xin chào buổi sáng, Khách sạn & Spa Mossy Glen xin nghe. Tôi có thể giúp gì cho quý khách?”
 
-“Áhhhhhh!”
+“Ừm, chồng tôi có thể đã lưu trú ở đó cách đây không lâu, và… ừm, anh ấy nghĩ mình trót bỏ quên cục sạc điện thoại.”
 
-Tuyệt vời làm sao. Những âm thanh thật dễ chịu. Tiếng trẻ con la hét. Tiếng trẻ con cười đùa, quây quần cùng người bố bằng xương bằng thịt xuất hiện ở nhà vào giờ ăn tối. Chúng yêu anh đến thế cơ mà. Dĩ nhiên rồi. Anh là kiểu phụ huynh tỏa sáng rực rỡ. Bố chơi trò đuổi bắt, cù lét và chẳng bao giờ phải bắt hai đứa quỷ nhỏ đi tắm, hay nấu bữa tối cho chúng, hay đưa chúng đi bác sĩ, hay cạo sạch đống rỉ mũi mà chúng trét lên thành giường, hay ép chúng ăn những món ghét đắng ghét cay nhân danh dinh dưỡng hợp lý. Và trong khi cô cặm cụi nấu bữa tối, “Bố Tỏa Sáng” lại thả mình xuống ghế sofa để thỏa cơn nghiện tin tức hằng đêm.
+“Chuyện đó xảy ra suốt ấy mà. Để tôi kiểm tra xem chúng tôi có giữ nó không. Chị có nhớ anh nhà ở đây vào khoảng thời gian nào không ạ?”
 
-“Nhưng Bố ơi, bố phải đuổi theo tụi con chứ!”
+“Tôi không nhớ chính xác.”
 
-“Không phải lúc này đâu, Rory. Bố mệt lắm rồi. Bố cần thư giãn. Bố đã có một ngày dài làm việc vất vả.”
+“Tên của chồng chị là gì ạ?”
 
-Miriam cũng đã có một ngày dài vất vả ở chỗ làm, và cô cần một ly rượu vang cùng một điếu thuốc lá. Nhưng thay vào đó, cô lại nhận về một cái chuông báo khói báo động inh ỏi vì một mẩu phô mai cháy, một chú chó phản ứng thái quá với cái chuông báo khói, và hai đứa trẻ dậm chân thình thịch bước vào bếp để mè nheo, phàn nàn.
+“Jack Shipley.”
 
-“Con
+“Để xem nào…” Tiếng bàn phím lách cách vang lên ở đầu dây bên kia. “Có vẻ như chúng tôi không lưu lịch sử ở lại nào của anh ấy tại đây.”
 
-*BÍP BÍP BÍP BÍP*
+“Ồ, vâng, cảm ơn cô.”
 
-“Bữa tối sắp xong rồi con.”
+Miriam cúp máy. Có lẽ Jack đã dùng tên giả. Hoặc có lẽ cô nên gọi điện thẳng cho Jack để đối chất, thay vì cứ âm thầm lục túi áo anh như thế này.
 
-“Mẹ ơi, tắt cái tiếng bíp bíp đi!”
+Cô gọi vào số di động của anh, bản thân cũng không chắc mình nên lột trần sự thật hay tiếp tục vờ như mọi chuyện vẫn êm đẹp. Cuộc gọi chuyển thẳng vào hộp thư thoại. Cô bèn gọi tới số văn phòng anh. Thư ký của anh nhấc máy.
 
-*BÍP BÍP BÍP BÍP*
+“Xin chào buổi sáng, Hãng luật Rufus Mather xin nghe.”
 
-“Mẹ đang cố đây!” Cô bật quạt, mở cửa sổ.
+“Chào Doreen, Miriam đây ạ.”
 
-“Nhưng mà giờ lạnh quá!”
+“Miriam…?”
 
-*BÍP*
+“Vợ Jack đây chị. Jack có ở đó không chị?”
 
-*BÍ…*
+“Ồ, chào em, *Miriam*. Ừm, không, anh ấy không có ở đây. Anh ấy… Ồ, chờ chút, ừm, có chứ. Anh ấy đang ở đây. Nhưng anh ấy đang bận họp rồi.”
 
-“Eo ôi, nhà mình ăn bông cải xanh đấy hả mẹ?”
+“Chị có biết khi nào anh ấy họp xong không?”
 
-“Con muốn ăn món khác cơ!”
+“Ừm, khoảng giữa trưa chăng? Chị có cần nhắn lại là em đã gọi không?”
 
-“Con ghééét bông cải xanh!”
+“Không sao đâu chị, chút nữa em sẽ gọi lại.”
 
-“Con muốn ăn bánh xốp waffle!”
+Vừa cúp máy thì chuông cửa nhà cô vang lên.
 
-“Nếu em ấy được ăn bánh xốp waffle thì con cũng muốn ăn bánh xốp waffle!”
+“Dịch vụ giao hoa đây ạ, dành cho… Bà Miriam Shipley,” người giao hàng cất lời khi cô mở cửa. Anh ta trao cho cô một bình hoa lớn cắm đầy những bông hồng đỏ và hồng phấn rực rỡ. Một chiếc phong bì nhỏ xíu được dán cẩn thận trên thân bình. Miriam mở phong bì ra và đọc tấm thiệp bên trong.
 
-“Mẹ muốn sự yên lặng!” Miriam gắt lên. “Và chẳng ai được ăn bánh xốp waffle hết!”
-
-Hai đứa trẻ rút lui về phòng khách. Nơi đây, chúng có thể chí chóe tranh giành xem ai nhặt mấy con khủng long nhựa trước, hoặc ai được quyền đụng vào khẩu súng laser (món đồ mà bình thường chẳng đứa nào thèm ngó ngàng, cho đến khi thấy đứa kia cầm lên). Miriam lén đi ra ban công phía sau nhà. Cô châm một điếu thuốc. Một điếu thuốc có hại cho sức khỏe, đáng bị lên án về mặt đạo đức, nhưng lại mang đến hương vị ngon lành tuyệt diệu.
-
-Nếu cuộc hôn nhân này tan vỡ, nếu cuộc đời cô tuột khỏi tầm kiểm soát, nếu cô chẳng thể gắn kết lại những mảnh vỡ, nếu cô thấy mình cô độc, chìm ngập trong khủng hoảng và bị đè bẹp dưới sức nặng của thất bại, cô sẽ hút thuốc lá.
-
-Cô sẽ bắt đầu bằng thuốc lá, rồi tiến lên dùng các loại thuốc kê đơn như Adderall và Lexapro. Tiếp theo là kẹo dẻo cần sa để mong có một giấc ngủ trọn vẹn qua đêm.
-
-Cô tự hiểu rất rõ bản thân. Cô thậm chí có thể hình dung ra trước cả quỹ đạo ấy: Miriam Shipley, một con tàu sắp đắm. Rò rỉ thì đã bắt đầu rò rỉ thật rồi, nhưng tình hình chưa hẳn là hết
-
-Mà mặc kệ chứ. Nếu trung thực với lòng mình, cô thích hút thuốc. Nó gợi cô nhớ về thời thơ ấu, cái thời cô thường trộn lẫn đủ loại nước ngọt với nhau, hoặc kẹp mấy con kẹo dẻo hình sâu vào giữa hai lát bánh mì bơ đậu phộng. Cô thích cảm giác chuếnh choáng lâng lâng, thích cái vị gắt nhẹ nơi cổ họng. Cô thích cả việc có một lý do hợp cảnh hợp tình để bước ra ngoài và khép cửa lại sau lưng. Đứng ở ban công sau nhà, cô không còn phải nghe tiếng tin tức rì rào từ chiếc ti vi, hay những tiếng mè nheo đòi hỏi của lũ trẻ. Cô cũng sẽ không phải đối mặt với những câu hỏi không tài nào đáp nổi, kiểu như:
-
-*Mẹ ơi, sao trên người bố lại có mùi lạ thế?*
-
-Anh đúng là có mùi lạ thật. Cô đã ngửi thấy vệt mùi ấy ngay khoảnh khắc anh bước qua cửa nhà. Một thứ hương thoang thoảng ngai ngái của đất, thơm ngậy của sữa, vừa xa lạ lại vừa quen thuộc. Một thứ mùi chỉ càng làm cô thèm hút thêm vài điếu thuốc nữa.
-
-“Miriam!” Jack gọi với ra từ bên trong. “Em đang ở đâu đấy?”
-
-Cô giẫm nát tàn thuốc. Rồi cẩn thận nhét phần đầu lọc vào chiếc chai thủy tinh đã giấu sẵn trong bụi cây.
-
-“Em đây!” cô nói lớn. “Em vào ngay đây!”
-
-“Vậy là tối nay nhà mình ăn điểm tâm thay bữa tối à?” Jack hỏi khi cô bước vào.
-
-“Cái gì cơ?”
-
-“Bọn trẻ bảo tối nay nhà mình ăn bánh xốp waffle.”
-
-“Không có bánh xốp waffle nào hết.”
-
-“Thật tiếc quá. Anh chẳng biết em nấu món gì, nhưng tự dưng anh lại thèm bánh xốp cực kỳ. Hay là em có thể…”
-
-“Chúng ta
-
-“Ồ. Em việc gì phải gắt gỏng thế.”
-
-“Em không hề gắt gỏng.”
-
-“Chỉ là anh và bọn trẻ muốn ăn bánh xốp thôi mà. Nhưng em làm gì ngoài đó thế?”
-
-“Em… em chỉ…” Dĩ nhiên là cô nói dối. “Xem con hươu lúc nãy còn quanh quẩn đâu đây không thôi. Để đảm bảo nó không quay lại ấy mà.”
-
-Miriam dọn món khoai tây nướng, bông cải xanh và thịt gà ra bàn. Lindsey tỉ mỉ tách từng búp bông cải xanh ra thành những nụ nhỏ xíu rồi nhâm nhi từng nụ một. Con bé xé thịt gà thành từng sợi mảnh như sợi phô mai. Con bé ăn khoai tây nướng, nhưng chỉ chọn những chỗ ruột khoai chưa từng tiếp xúc với phần vỏ.
-
-Rory thì giã nát thịt gà với khoai tây rồi dầm bẹt ra thành một miếng chả dẹt. Chú nhóc đòi lấy bằng được hũ siro phong.
-
-“Bánh xốp waffle nè mẹ,” cậu bé dềnh dàng giải thích.
-
-“Đó không phải là bánh xốp waffle,” Miriam kiên nhẫn. “Con không thể cứ nghiền nát mọi thứ lại với nhau rồi gọi đại nó là bánh xốp waffle đâu.”
-
-“Nhưng con muốn ăn bánh xốp mà.”
-
-“Thế nhưng tối nay nhà mình không ăn món đó.”
-
-Khuôn mặt Rory nhăn nhúm lại. Cậu bé bắt đầu mếu máo.
-
-“Nhưng mà… nhưng mà bánh xốp…”
-
-Chú nhóc kiên trì khóc ròng rã suốt một phút đồng hồ. Và thế là cô nhượng bộ.
-
-“Được rồi,” cô thở dài, lấy hũ siro phong rưới đều lên ngọn đồi khoai tây trộn thịt gà trên đĩa của Rory. “Đó, bánh xốp của con đấy.”
-
-Rory nhe răng cười khoái chí rồi ngấu nghiến ăn sạch. Lindsey nhìn em trai bằng ánh mắt kinh tởm. Trong lúc đó, Jack tiếp tục làm cả nhà chán ngán bằng việc điểm lại tin tức buổi tối.
-
-“Thị trường chứng khoán đang
-
-*Vâng. Ôi, thế cơ à? Gật đầu.*
-
-“Quốc hội lại trì hoãn việc bổ nhiệm các thẩm phán,” anh tiếp.
-
-*Ừm, hừm. Ừm, hừm.*
-
-“Hy Lạp đang mở cửa biên giới đón thêm hàng nghìn người tị nạn,” anh cập nhật.
-
-*Ôi, tốt quá. Gật đầu. Mỉm cười.*
-
-“Một đàn chim thuộc loài có nguy cơ tuyệt chủng rất cao trên một hòn đảo hẻo lánh ở Thái Bình Dương vừa biến mất một cách bí ẩn.”
-
-“Chúng đi đâu rồi ạ?” Lindsey hỏi.
-
-“Không ai biết cả,” Jack trả lời. “Theo lý thuyết, loài chim này dành một nửa thời gian trong năm ở đâu đó tại Nam Mỹ, nửa còn lại sẽ sống trên hòn đảo ở Thái Bình Dương. Thế nhưng năm nay, chúng rời Nam Mỹ mà chẳng bao giờ tới được hòn đảo. Chúng cứ thế bốc hơi. Rõ ràng là có đeo thiết bị định vị, nhưng giờ thì hoàn toàn mất dấu.”
-
-“Nhưng tại sao hả bố?”
-
-Jack mỉm cười khoái chí. Đôi mắt anh lóe lên ánh nhìn của một thám tử sừng sỏ. “Chà, một giả thuyết cho rằng đàn chim vẫn ở đó, chỉ là thiết bị định vị của chúng đã bị hỏng. Giống như bị tác động bởi xung điện từ, hoặc do bọn khủng bố sinh thái giở trò. Bố cũng đọc được một bài báo nhắc tới hiện tượng tự bốc cháy. Thế nhưng, nếu không tiến hành một cuộc điều tra kỹ lưỡng, sẽ chẳng ai biết được lý do thực sự.”
+*Tặng vợ yêu của anh, người phụ nữ đẹp nhất mà anh từng gặp trên đời. Vì em, anh sẵn sàng châm lửa đốt tóc mình. Anh sẵn sàng nhảy xuống từ trên cầu. Anh sẵn sàng nuốt chửng những bông hoa hồng này, ăn trọn cả gai không chừa một mẩu. Anh sẵn sàng vứt bỏ lại đằng sau tất cả những gì anh từng dốc sức gây dựng.*

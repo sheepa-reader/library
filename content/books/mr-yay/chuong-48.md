@@ -1,161 +1,259 @@
-# CHUYẾN PHIÊU LƯU CUỐI CÙNG CỦA MR. YAY NGUYÊN BẢN
+# BÍ ẨN ĐÁNG ĐỂ PHÁ GIẢI
 
-**CHẲNG MỘT AI NÓI CHO ÔNG BIẾT** chuyện họ đã mời một chú chó đến buổi ghi hình.
+**JACK THÁM TỬ** rơi vào cảnh thất nghiệp. Đến nay, anh mới chỉ nhận được vỏn vẹn vài vụ có trả thù lao. Trang web cá nhân của anh vẫn nằm ở trạng thái “đang trong quá trình xây dựng” vô thời hạn. Ba ca làm thêm mỗi tuần tại tiệm cà phê cũng chỉ vừa đủ bù đắp một phần nhỏ hóa đơn viện phí thú y của chú chó Roxster. Nói một cách chính xác, nghề nghiệp chính của anh là nhàn rỗi, kèm theo một nghề tay trái hoàn toàn miễn phí: viết tiểu thuyết.
 
-“Lẽ ra đó phải là một bất ngờ chứ,” người đại diện phân trần. “Ông cứ diễn như thể mình bất ngờ lắm đi.”
+Anh thường viết văn vào buổi tối, bên chiếc bàn ăn trong bếp, sau khi lũ trẻ đã ngoan ngoãn lên giường đi ngủ. Anh mổ cò từng phím bằng hai ngón tay trỏ. Thi thoảng, anh ngả người ra sau ghế, khẽ xoa chiếc cằm lởm chởm râu. Anh thậm chí còn đội cả chiếc mũ fedora (cốt để tăng thêm phong thái thám tử). Đôi mắt sẫm màu của anh lấp lánh bên dưới vành mũ.
 
-“Tôi không diễn được. Tôi là một diễn viên tồi tệ.”
+“Tên quán bar nào thì hợp cho một gã thám tử ngồi uống rượu nhỉ?” anh hỏi.
 
-“Ricky này, ông thuộc hàng những nghệ sĩ biểu diễn vĩ đại nhất lịch sử truyền hình thiếu nhi đấy. Tôi tin ông thừa sức làm tốt.”
+“Em chịu. Quán Smitty thì sao? Không phải hồi trước chúng mình từng đến một quán bar tên là Smitty à? Em dở tệ cái khoản đặt tên.”
 
-Ông không thể. Không còn có thể nữa. Kể từ sau series phim thám tử noir *Peregrine*, ông đã thề từ bỏ thói giả vờ.
+Hồi sáu tuổi, Miriam từng nuôi một con mèo. Cô đặt tên nó là Brownie chỉ vì lông nó màu nâu. Cô hào hứng mang ảnh nó đến buổi thuyết trình chia sẻ trước lớp.
 
-Ngay cả khi sự lựa chọn nghiệt ngã đến mức: hoặc phải diễn kịch, hoặc bị buộc bước ra ván gỗ rồi lao xuống biển cho cá mập xơi tái. Dù có bị trói gô và treo lơ lửng ngay trên hàm răng tua tủa đang chực đớp của một con cá mập trắng khổng lồ, ông cũng sẽ lắc đầu. Ông đã đánh cược cả sự nghiệp lẫn cuộc đời mình vào sự chân thật tuyệt đối. Nhiều thập kỷ
+*Đó là cái tên ngớ ngẩn*, một đứa nhóc cùng lớp từng phán thế. Cô giận tím mặt. Cô đã muốn hét toáng lên rồi đấm thẳng vào bản mặt đáng ghét của thằng nhóc ngu xuẩn đó. Thế nhưng, cô đã không làm vậy. Cô tự nhủ với lòng mình:
 
-Giờ đây, ông đã thuộc diện giàu có bậc trung, dù nhìn vẻ ngoài thì chẳng ai đoán ra nổi. Ông khoác trên mình chiếc áo len cổ lọ màu đen trơn cùng đôi giày Converse đen đã thủng cả mũi. Chiếc quần may ghép mảnh Patchwork Pants trứ danh của ông đã được nâng cấp (các ô vuông đa sắc từng rách bươm và bạc thếch suốt những năm tháng lênh đênh trên biển giờ đây đã phẳng phiu, tươi tắn). Ông để bộ râu dài xồm xoàm bạc trắng. Gương mặt ông trông vẫn trẻ hơn cái tuổi bảy mươi tám, bất chấp nửa đời người phơi mình dưới nắng gió đại dương. Ông sống an nhàn trong căn cabin gỗ trên rặng núi Blue Ridge. Khu rừng quanh nhà nhung nhúc gấu, thỏ, gà tây hoang cùng lũ hươu nai. Bầu trời nơi đây bao la vô tận. Thỉnh thoảng, ông lại cuốc bộ lên đỉnh ngọn núi nhỏ của mình, phóng tầm mắt ngắm nhìn thế giới bao la, rồi cảm nhận mặt đất dưới chân dập dềnh chao đảo hệt như trên con tàu năm xưa - con tàu SS *Deliverance*.
+*Em là cánh buồm trên mặt biển phẳng lặng. Lời nói chỉ là những con sóng trôi tuột đi. Im lặng như một con sao biển.*
 
-Ông chưa từng trang điểm khi ở trên tàu, ngoại trừ một đường viền mắt đen tuyền nhằm giảm độ chói của ánh nắng. Thế nhưng tại đây, trong phòng hậu trường của trường quay *The Whimsy Hour*, ông đành ngồi im lìm để chuyên viên trang điểm mặc sức chấm phấn, dặm cọ và bôi trét lên mặt mình.
+Cô từng nghe thấy những lời này trên tivi, trong chương trình *The Adventures of Mr. Yay*. Ngay lúc này, một thôi thúc mãnh liệt trỗi dậy trong cô: cô muốn xem lại chương trình ấy, muốn nhìn người thủy thủ kỳ quặc nọ ngắm qua kính viễn vọng về những vùng đất bí ẩn nơi chân trời đại dương, giữa tiếng sóng biển làm nhạc nền văng vẳng lặp đi lặp lại. Cô ngồi xuống cạnh Jack (không quá gần để khiến anh ảo tưởng rằng cô ngồi đó vì anh, nhưng vừa đủ gần để thấy anh đang kiên trì gõ từng chữ *S, M, I, T, T, Y-’-S* bằng hai ngón tay).
 
-“Tôi nhớ ra bác từ trước cả khi bác làm chương trình này đấy,”
+Cô mở cửa sổ trình duyệt trên điện thoại và gõ từ khóa *Mr. Yay*.
 
-“Cũng là phim ruột của tôi đấy,” ông đáp. Nhưng thực ra ông chưa từng ưa nổi nó. Ông toàn phải đóng vai phản diện thô bạo - một kẻ chuyên khơi mào ẩu đả, kẻ nổ súng trước rồi mới hỏi sau. Ông luôn cảm thấy ngột ngạt, tù túng, bất chấp những đồng cỏ mênh mông cùng bầu trời lồng lộng trên màn ảnh.
+Một chàng rapper trẻ tuổi hiện ra. Cậu có vẻ ngoài nhẵn nhụi, tinh nghịch tựa một chú rái cá biển con. Cô lướt qua hết bức ảnh này đến bức ảnh khác; ở trang nào, chàng rapper cũng cười rạng rỡ. Cậu cởi trần tạo dáng. Cậu phơi mình trên bãi biển California bên cạnh cả bầy phụ nữ tuyệt mỹ diện bikini dây. Cậu lăm lăm hai tay hai chai rượu mạch nha cỡ lớn. Cậu khoe hình xăm con rắn uốn lượn quanh cánh tay. Dưới ánh đèn sân khấu, khuôn mặt cậu lấp lánh những giọt mồ hôi tựa ngọc trai và kim cương.
 
-Chuyên viên trang điểm chải một lớp sáp dưỡng chống xơ rối lên tóc và râu của ông. Bà lùi lại một bước, ngắm nghía vẻ hài lòng: “Rất bảnh bao. Trông bác trẻ ra đến hai mươi tuổi đấy.”
+Được rồi, chàng rapper này quả thật rất cuốn hút (dẫu có phần quá trẻ trung và hoang dại đối với một bà mẹ ngoại ô đang cần giải quyết mớ bòng bong với người chồng bí ẩn, cuồng việc nhưng lại ăn bám của mình); thế nhưng cậu không phải là *chính* Mr. Yay ấy. Không phải người mà cô hằng nhớ.
 
-Và tất nhiên, cũng giả tạo bấy nhiêu.
+Cô thử tìm kiếm với cụm từ *Mr. Yay* và *truyền hình thiếu nhi*. Mạng Internet lại nhả ra thêm nhiều bức ảnh về chàng rapper Mr. Yay. Cô thử gõ *The Adventures of Mr. Yay*. Mạng Internet liền hiển thị một đoạn video quay cảnh Mr. Yay tiệc tùng trên du thuyền. Cô lướt mãi, lướt mãi nhưng chẳng thấy bóng dáng người đàn ông Mr. Yay thời thơ ấu đâu cả.
 
-Một Ricardo Merman chân thật vốn chẳng màng đến vẻ bề ngoài. Điều ông quan tâm duy nhất là lướt đi êm ả qua dòng đời, vốn đòi hỏi ông phải điềm nhiên chấp nhận những thứ bản thân không thể thay đổi. Chẳng hạn như việc trang điểm trước giờ lên sóng.
+Cô thở dài: “Chuyện này thật vô lý.”
 
-Hoặc như căn bệnh ung thư đã tự tiện định đoạt rằng đã đến lúc phải khai tử chương trình truyền hình thiếu nhi *The Adventures of Mr. Yay*.
+Jack cũng buông tiếng thở dài: “Sao cơ?”
 
-Bởi lẽ, làm sao ai đó có thể hóa trị giữa biển khơi?
+“Ôi, em xin lỗi, em làm phiền anh à?”
 
-*Ông có muốn sống tiếp không, ông Merman?*
+“Cũng đại loại thế. Nhưng em cũng góp phần tạo nên bầu không khí đấy chứ. Liếc qua góc mắt, nhìn em cứ như một *femme fatale* quyến rũ chết người vậy.”
 
-Ông muốn chứ. Khao khát đến cháy bỏng là đằng khác.
+“Em rót cho anh một ly whiskey nhé?” Cô cất giọng đầy khiêu gợi. “Ngài Shipley?”
 
-Bây giờ ông đã thấy khỏe hơn nhiều. Nhờ nhiều năm trôi qua kể từ đợt hóa trị cuối cùng, ông dường như đã lấy lại sức vóc tráng kiện. Khối u đã teo nhỏ lại.
+“Em không phiền chứ?”
 
-*Về cơ bản là biến mất hoàn toàn rồi. Ông*
+“Em đùa đấy. Với lại, anh ghét whiskey mà. Bầu không khí quan trọng đến thế cơ à?”
 
-Ông đã đặt tên cho khối u là *Boris*, cốt để bản thân bớt căm ghét nó. Đơn giản vì ông không muốn thù ghét những gì mình chẳng thể đổi thay. Ông không thể nào ghét bỏ nó nếu nó sở hữu một cái tên, nếu nó chính là một phần cơ thể ông.
+“Thực ra thì, có đấy.”
 
-Thế nhưng *Boris* không hề biến mất.
+“Hay anh uống chút rượu vang đi?”
 
-*Boris* chỉ vừa chìm vào giấc ngủ đông (một giấc ngủ kéo dài hàng tháng, hàng năm, hoặc có khi hàng thập kỷ). Tương lai quả là một thứ khó nắm bắt, tựa như dòng nước trôi tuột khỏi kẽ tay.
+“Anh *đoán* thế cũng được. Nếu là vang đỏ. Nhưng có chuyện gì không hợp lý cơ?”
 
-Trở lại với thực tại rộn ràng náo nhiệt, ai đó cài một chiếc micro nhỏ lên áo sơ mi của ông. Ông thử giọng. Ông uống một ngụm nước chanh. Ông rảo bước đi qua đi lại. Bàn tay bắt đầu rịn mồ hôi và nhịp tim đập dồn như muốn mách bảo rằng ông đang vô cùng căng thẳng. Đáng lẽ ông không nên lo lắng như thế sau hơn năm thập kỷ gắn bó với phim ảnh lẫn truyền hình. Ấy thế mà ông vẫn cảm thấy bất an khôn nguôi, tựa hồ cơ thể đã linh cảm được điều gì đó bất thường sắp sửa xảy đến.
+“Anh có nhớ ngôi sao truyền hình thiếu nhi Mr. Yay không?”
 
-“Ngài Merman đã sẵn sàng chưa?”
+“Người mà anh đã bảo là không nhớ ấy hả?”
 
-“Sẵn sàng như một con cá đá.”
+“Đúng thế. Chà, trên Internet cũng chẳng ai nhớ đến ông ấy cả,” Miriam nói.
 
-Ricardo Merman sải bước ra sân khấu. Ban nhạc ngẫu hứng lập tức tấu lên giai điệu chào sân - bản phối đậm chất jazz lấy từ khúc dạo đầu của chương trình *The Adventures of Mr. Yay*, một trong những chương trình truyền hình thiếu nhi được yêu thích nhất mọi thời đại.
+“Hả?”
 
-Ricardo Merman vốn định học theo kiểu chào sân của mấy vị khách mời talkshow mà ông vẫn xem trên tivi. Thế nhưng, một sự thôi thúc bất chợt bỗng xâm chiếm tâm trí ông. Ông xoay người một vòng, lắc lư đôi vai, nhảy chân
+“Khi em tìm kiếm, em chỉ nhận được toàn ảnh của chàng rapper thôi.”
 
-“Ngài Ricardo Merman.” Người dẫn chương trình ôm đáp lại ông. Cậu chàng này kém ông tới bốn mươi tuổi. Hồi còn bé, cậu từng xem ông trên tivi, và nguồn cảm hứng ấy từng thôi thúc cậu nuôi ước mơ trở thành một huấn luyện viên cá heo (một mục tiêu nghề nghiệp mà cha mẹ cậu nhất quyết cho là hão huyền). Thế là cậu đành rẽ hướng sang làm truyền hình. “Thật là một vinh hạnh lớn lao khi được đón tiếp ngài tại *The Whimsy Hour*.”
+“Thế thì hợp lý rồi còn gì. Ý anh là, anh từng nghe về chàng rapper đó trên đài NPR, còn nhân vật kia thì anh chưa từng nghe danh bao giờ.”
 
-“Được có mặt ở đây là một phước lành đối với tôi.”
+“Nhưng người kia - ngôi sao truyền hình ấy - ông ấy nổi tiếng hơn nhiều chứ. Phải nổi tiếng hơn cả ngàn lần.”
 
-“Tôi nghe nói dạo này ngài đã trở thành một người chỉ quen sống trên đất liền rồi.”
+“Hay em thử gõ: ‘Mr. Yay đang ở đâu?’ xem sao,” Jack gợi ý.
 
-“Trái tim tôi thì vẫn luôn thuộc về biển cả.”
+“Gì cơ?”
 
-“Thưa quý vị khán giả, xin nhiệt liệt chào đón vị khách mời đầu tiên của chúng ta hôm nay, ngài Ricardo Merman! Hầu hết quý vị đều biết đến ngài qua danh xưng Mr. Yay trong chương trình truyền hình thiếu nhi đã gắn bó suốt nhiều năm trời mang tên *The Adventures of Mr. Yay*.”
+“Chẳng phải em đang tìm Mr. Yay *của em* sao?”
 
-Người dẫn chương trình bắt đầu điểm lại những chuyến phiêu lưu kỳ thú: các bến cảng, hải đảo, đô thị cho đến tận miệng núi lửa mà con tàu SS *Deliverance* cùng thủy thủ đoàn từng kinh qua; một đoàn thuyền viên muông thú liên tục thay đổi dưới sự dẫn dắt của chàng thuyền phó Mr. Yay đầy bí ẩn và Thuyền trưởng Barksford lừng danh; những món ăn kỳ lạ họ từng nếm thử; những cơn bão tố họ từng kiên cường vượt qua; cùng niềm đam mê bất tận dành cho sự vui vẻ, tính phiêu lưu, lòng chân thật và
+“Đúng thế.”
 
-Trên màn hình hiện ra những đoạn trích cũ: bữa tiệc luộc tôm hùm nơi chú báo đốm đột nhiên quyết định ăn chay; vụ đắm tàu ở quần đảo Galápagos; hay tập phim chú hươu cao cổ tập bơi. Trái tim Ricardo Merman đập rộn ràng hơn, chính ông cũng chẳng hiểu tại sao. Nhưng đó quả là một chuỗi ký ức hoang dại và mờ ảo xiết bao. Một cuộc đời thật đáng sống.
+“Vậy nên hãy gõ là: ‘Mr. Yay đang ở đâu?’.”
 
-“Nhưng trước khi trở thành Mr. Yay,” người dẫn chương trình quay sang hỏi, “ngài từng là một diễn viên điện ảnh. Ngài từng tham gia các tác phẩm như *Canyon of Arrows, Outlaw Forever, With Love, Deadhand Diego*, đấy là mới chỉ kể sơ sơ vài tên tuổi. Rồi đùng một cái, ngài lại tạo ra một bước ngoặt quyết liệt đến vậy. Điều gì đã truyền cảm hứng cho ngài? Liệu có biến cố nào chăng? Ngài có thể chỉ ra chính xác khoảnh khắc ngài quyết định: *Được rồi, mình sẽ dứt áo với phim viễn Tây. Mình sẽ làm chương trình này. Mình chính là Mr. Yay* không?”
+Miriam hỏi Internet: *Mr. Yay đang ở đâu?*
 
-Ricardo Merman vuốt chòm râu của mình. Cử chỉ ấy khiến ông trông như thể đang trầm ngâm suy tư dữ dội. Nhưng thực ra, ông nhớ lại khoảnh khắc ấy rõ mồn một.
+Internet trả lời:
 
-Hồi bé, ai nấy đều bảo ông là đứa trẻ kỳ quặc (như thể đó là tật xấu đáng chê trách). Ông toàn nuôi những con thú cưng lập dị: một con nhện, một con sóc, một chú chó mù và một con chuột cống chỉ có hai chân. Lên đại học, ông chọn học hai ngành chẳng mấy liên quan là triết học và sân khấu. Kế đó, ông khăn gói chuyển đến Los Angeles để thử vận may đóng phim, đồng thời kiếm thêm bằng công việc tại một xưởng chế biến hải sản.
+*Mr. Yay ở Las Vegas.*
 
-Thế nhưng, chính ông lại luôn cảm thấy lúng túng và vụng về trong cái vỏ bọc kỳ quặc ấy của bản thân.
+*Mr. Yay bị phạt cảnh cáo nhẹ sau một đêm say sưa đồi trụy.*
 
-Rồi ông cũng có một vai diễn bước ngoặt: gã phản diện trong *Sundown Saddle*. Suốt một thập kỷ sau đó, ông chuyên trị các vai thổ phỉ, cướp đường và những gã bặm trợn, tàn nhẫn. Ông tự ép bản thân phải trở nên gai góc. Ông hút hai bao thuốc mỗi ngày, nốc rượu whiskey như nốc nước lọc, và gương mặt thì liên tục ăn đấm đến tím tái. Ông tự nhủ đây chính là con người mà mình cần trở thành. Người đại diện, đồng nghiệp lẫn người hâm mộ đều gật gù đồng tình.
+*Mr. Yay biểu diễn tại Bữa tiệc Bãi biển Nổi loạn.*
 
-Cho đến một ngày, thị hiếu thị trường xoay vần. Các hãng phim đồng loạt quay lưng với thể loại viễn Tây, túi tiền của ông cạn sạch, và ông đành nhận vai diễn cuối cùng trong sự nghiệp, một dạng vai hoàn toàn khác biệt: Thám tử Eddie Tides trong bộ phim *Peregrine*.
+*Mr. Yay Không Tồn Tại.*
 
-Nhiều thập kỷ sau, tác phẩm ấy trở thành một bộ phim kinh điển được giới mộ điệu hết lời tôn sùng. Dĩ nhiên, đó là chuyện của vài mươi năm sau, chứ vào thời điểm mới công chiếu, *Peregrine* lại là một quả bom xịt
+“Khoan đã, cái gì thế này?” Cô nhấp vào kết quả cuối cùng.
 
-Đến tuần tiếp theo, một chuỗi biến cố bi kịch lẫn cơ hội dồn dập ập xuống đầu ông cùng một lúc: một tờ giấy thông báo đuổi khỏi nhà trọ, một lời mời làm diễn viên đóng thế, một chiếc ắc quy ô tô chết ngắc, một giấy báo trúng tuyển chương trình thạc sĩ kịch nghệ, và một chuyến ghé thăm bất ngờ từ người bạn cũ vừa chân ướt chân ráo vào làm cho đài truyền hình PBS.
+“Sao thế?”
 
-Dù sao thì ông vẫn còn quyền lựa chọn. Đơn giản vì đó quả là một ân huệ lớn lao - thứ mà không phải diễn viên hết thời nào cũng có may mắn sở hữu.
+“Thuyết âm mưu về Mr. Yay,” cô đọc.
 
-Ông lỡ làm mất ví. Ròng rã ba ngày trời, thực đơn duy nhất của ông là cá ngừ đóng hộp trong lúc khắc khoải chờ thẻ ngân hàng mới gửi tới. Sang ngày thứ ba, ông cảm thấy kiệt sức trước áp lực của sự do dự. Ông ước gì mình có thể quay trở lại với *Peregrine*, quay về khoảnh khắc lơ lửng giữa *lúc đó* và *bây giờ*, cái thời điểm mà hiện tại vẫn còn cơ hội biến chuyển thành một điều gì đó khác biệt. Ông nhìn chằm chằm vào bóng mình trong gương. Đôi mắt ông bị lác một bên. Ông mường tượng ra bộ râu xồm xoàm mà mình có thể nuôi dài, dính đét cát biển và nước muối mặn chát. Ông vốn có những lựa chọn vô cùng an toàn, khôn ngoan và vững chãi: một công việc ổn định hoặc tiếp tục đi học. Thế nhưng, ông lại đèo bồng thêm cả cái giấc mơ điên rồ chết tiệt này.
+“Thuyết âm mưu?” Jack hỏi, tay chỉnh lại chiếc mũ fedora.
 
-Ông tiếp tục nhìn trân trân vào chính mình trong gương, và suốt một hồi lâu, nỗi sợ hãi tột cùng bủa vây lấy ông. Ông cảm nhận rõ sức kéo cuộn trào từ những lựa chọn an toàn hơn. Bên tai ông văng vẳng lời lẽ của
+Bài viết nằm trên một trang web rõ ràng là kỳ quặc có tên Mạng lưới Săn tin Thuyết Âm mưu, ngay bên dưới bài báo về thuyết âm mưu người sói bị cáo buộc dưới thời chính quyền Nixon.
 
-*Cứ bám sát kịch bản.*
+*Bạn có nhớ Mr. Yay không? Không phải chàng rapper hay nói tục với hàm răng bọc vàng cùng những nhịp bass dồn dập, người bước ra từ làn khói cần sa mờ ảo rồi cưỡi trên thanh ván trượt Shot-Ski băng băng tiến thẳng đến đài danh vọng đâu. Mà là người kia cơ. Ngôi sao truyền hình thiếu nhi biểu tượng, người từng giương buồm đi khắp thế giới cùng thủy thủ đoàn động vật, người đã giới thiệu cho bạn biết đến món hummus, kim chi và sashimi, người đã dạy bạn hãy ôm trọn lấy sự quái gở bên trong mình, hãy sống tử tế và tự do, hãy giương buồm đến bất kỳ nơi đâu mà trái tim mách bảo. Chính là Mr. Yay đó.*
 
-Tất cả những lời thông thái từng trải ấy, chắc chắn là phải đúng.
+*Bạn nhớ ông ấy, đúng không?*
 
-Đúng chứ?
+*Bạn không cô đơn đâu.*
 
-Ông nhìn sâu vào đôi mắt lác đang cố đảo cho thẳng của mình. Thế rồi, ngay chính khoảnh khắc ấy, ông đã đưa ra lựa chọn. Sự thật rằng mỗi một khoảnh khắc trong đời đều ngập tràn những lựa chọn giờ đây tan biến hết, nhường chỗ cho một thực tế trần trụi: chỉ có khoảnh khắc này mới là điều duy nhất đáng bận tâm. Giữ nguyên vị trí hay dấn thân nhảy vọt. Kịch bản định sẵn hay giấc mơ tự do.
+*Tôi cũng nhớ Mr. Yay đó. Nhiều người khác trên Mạng lưới Săn tin Thuyết Âm mưu này cũng vậy. Tôi nhớ mình đã xem Mr. Yay trên tivi gần như mỗi buổi chiều suốt ba năm tròn của cuộc đời. Nhưng Mr. Yay ấy đã biến mất rồi.*
 
-Ông đã vô cùng sợ hãi. Bởi lẽ, một kẻ kỳ quặc nửa thủy thủ, nửa thợ may, nửa triết gia kiêm diễn viên nghiện rượu nặng, nghiện thuốc lá với chiếc quần may ghép vụng về thì có thể cống hiến được gì cho cái thế giới vốn đã quá chật chội này?
+*Nghiêm túc đấy. Ngay lúc tôi đang viết những dòng này, chẳng có lấy một dấu vết nào của Mr. Yay trên khắp cõi Internet, ngoại trừ bài viết bạn đang đọc. Bạn cứ tự mình tìm kiếm mà xem. Cứ như thể chương trình đó chưa từng tồn tại trên đời. Giờ thì, theo bạn tại sao lại xảy ra cớ sự này?*
 
-Ông đã suýt nữa quay lưng bỏ cuộc.
+*Sự biến mất của Mr. Yay chỉ là một bước đi tưởng như nhỏ bé của bè lũ phát xít lắm tiền nhiều của trên con đường thống trị địa chính trị toàn cầu. Mr. Yay từng truyền giảng về tư duy cởi mở và sự đón nhận mọi nền văn hóa. Mr. Yay đại diện cho tinh thần phiêu lưu, khám phá và tự lực cánh sinh. Mr. Yay khuyến khích chúng ta tự suy nghĩ bằng cái đầu của chính mình, đừng để cuộc đời trôi qua vô nghĩa, hãy túm lấy lũ cá mập mắt trắng bằng cái mũi tham lam hám lợi của chúng rồi quẳng trả về biển khơi. Lẽ dĩ nhiên, bè lũ phát xít muốn tống khứ ông đi, quyết liệt đến mức xóa sạch vết dấu tồn tại của ông.*
 
-Nhưng rồi, nơi con mắt trong gương, ông nhìn thấy một tia sáng lóe lên mà ông ngỡ như một chú cá heo đang rẽ sóng vút mình.
+*Mr. Yay thời thơ ấu của bạn từ đó đã bị thay thế bởi một chàng rapper trùng tên Mr. Yay, người rao giảng những thông điệp bề ngoài tưởng như tương tự. Nhưng cậu ấy hiển nhiên lúc nào cũng phê pha ngập ngụa, và đám thính giả của cậu ấy cũng chẳng kém cạnh. Mà biết đâu đấy mới chính là mục đích: một khi ai nấy đều đủ say xỉn và đủ ngơ ngác, họ sẽ chẳng còn nhận ra lũ tài phiệt công nghệ đang bòn rút tiền túi của mình, hay giới lập pháp đang gặm nhấm dần các quyền dân sự. Mối băn khoăn thực sự ở đây là liệu Mr. Yay mới này chỉ là một tay rapper tầm thường điển hình, hay chính cậu ta mới là tòng phạm đắc lực trong phi vụ xóa sổ người tiền nhiệm trùng tên.*
 
-*Dũng cảm như một chú cá heo*, ông thì thầm với chính mình. Và phần còn lại của câu chuyện đã trở thành lịch sử.
+“Vậy là người đó điên rồi,” Jack nói, vừa ghé mắt đọc bài viết qua vai cô.
 
-“Tôi có thể nhìn thấy khoảnh khắc ấy,” ông nói với người dẫn chương trình. “Khoảnh khắc đó. Tôi nghĩ đó là giây phút mà bất kỳ ai cũng phải đối mặt. Bạn có thể chọn trở thành phiên bản được lên sẵn kịch bản của chính mình, diễn đúng vai diễn mà mọi người kỳ vọng ở bạn. Như tôi từng làm trong những năm đầu sự nghiệp. Và tôi đồ rằng, đó cũng có thể là một lựa chọn tốt. Ít nhất thì nó dễ dàng hơn đối với một vài người trong chúng ta.
+“Anh nghĩ thế à?”
 
-Người dẫn chương trình hỏi về quá trình phát triển của chương trình, những tập phát sóng yêu thích của ông, cùng cuộc sống của ông sau khi nó khép lại. Liệu ông có nhớ nó không?
+“Anh nghĩ bè lũ ‘phát xít’ có những biện pháp hữu hiệu hơn để đạt được quyền thống trị địa chính trị, thay vì nhọc công xóa sạch dấu vết của một ngôi sao truyền hình thiếu nhi lập dị khỏi Internet.”
 
-“Dĩ nhiên rồi.”
+“Nhưng thật kỳ lạ khi chẳng có lấy một dấu vết nào của ông ấy trên mạng. Ý em là, *mọi thứ* đều có trên Internet mà.”
 
-“Còn đoàn làm phim thì sao?”
+“Thế thì có lẽ ông ấy được gọi bằng một cái tên khác,” Jack gợi ý. “Còn em chỉ đang nhớ nhầm thôi.”
 
-“Có chứ.”
+“Cùng với một lô xích xông người khác nữa sao? Em không nghĩ vậy đâu.”
 
-“Thế còn thuyền trưởng?”
+“Chuyện đó vẫn xảy ra được mà. Em biết đấy, hiệu ứng Mandela? Người ta lúc nào chẳng nhớ nhầm.”
 
-“Một chú chó vô cùng ngoan. Tất cả bọn chúng đều thế.”
+“Em không hề nhớ nhầm. Em đã xem hàng trăm tập của chương trình đó. Tên ông ấy chính xác là Mr. Yay.”
 
-“Ông có chú chó yêu thích nhất nào không?”
+Cô tiếp tục lùng sục khắp Internet để tìm kiếm dấu vết của Mr. Yay. Cô tìm thấy các đường dẫn trỏ về Mạng lưới Săn tin Thuyết Âm mưu cùng vô số bài viết lật tẩy trang blog này. Cô còn phát hiện thêm một Mr. Yay thứ ba chẳng liên quan gì, làm nghề chú hề ở Buffalo, New York, cùng một quán karaoke ở Nhật Bản cũng mang tên Mr. Yay. Rồi cô lướt qua hết bức ảnh bảnh bao này đến bức ảnh bảnh bao khác của chàng rapper Mr. Yay.
 
-“Có lẽ là chú chó husky mà chúng tôi để lạc ở Singapore. Nhưng thành thực mà nói… tôi không tài nào chọn ra được.”
+Cô cứ ngỡ Jack đã quay lại với công việc nghiên cứu tiểu thuyết trinh thám, nhưng rồi anh bất thình lình chộp lấy cánh tay cô, thốt lên như thể vừa giác ngộ ra chân lý vĩ đại: “Mọi thứ đều có trên Internet!”
 
-“Nếu tôi nói rằng hôm nay chúng tôi đã mang đến chương trình một vị khách đặc biệt ngoan ngoãn khác thì sao?”
+“Đó… chính là điều em vừa nói mà.”
 
-“Tôi sẽ nói là… chà. Thế thì tuyệt quá.”
+“Nhưng là tất cả mọi thứ đấy!” Anh nhìn cô, mắt mở to hoang dại, chẳng còn chút dáng vẻ phớt tỉnh thường ngày của một thám tử.
 
-Ông không tài nào giả vờ ngạc nhiên cho được. Thế nhưng, nụ cười của ông là hoàn toàn chân thành khi chú chó Thuyền trưởng Barksford thứ mười một, cũng là cuối cùng, lon ton chạy ra sân khấu. Vừa nhìn thấy ông, chú chó liền lao tới đón. Ông chạy lại ôm lấy vị thuyền trưởng của mình. Họ ôm chầm lấy nhau. Thuyền trưởng Barksford liếm lên gò má bờm xờm râu ria của ông. Ricardo Merman bế bổng chú chó lên rồi xoay một vòng. Ông cảm thấy hạnh phúc vô ngần trong giây phút này của cuộc đời.
+“Internet vốn vận hành như thế mà.”
 
-Khoảnh khắc cuối cùng trước khi mọi chuyện trở nên thực sự kỳ quặc.
+“Nhưng ông ấy đáng lẽ phải ở đó… trừ phi… chà, ai mà biết được chứ? Có phải do bè lũ phát xít không? Hay là một thứ gì đó hiểm độc hơn, một hiện tượng tự nhiên, hay ảo giác tập thể? Và chẳng có lấy một ai thèm điều tra chuyện này ngoại trừ cái trang blog thuyết âm mưu kia! Nhưng họ đâu phải thám tử thực thụ. Một vụ án tầm cỡ thế này cần phải…”
 
-Khán giả vỗ tay tán thưởng, người dẫn chương trình cảm ơn ông đã đến tham gia và hứa rằng ông có thể
+Lời Jack bị cắt ngang bởi hai đứa trẻ đeo mặt nạ làm bằng đĩa giấy. Chúng ùa vào phòng bếp như một cơn lốc.
 
-Người đàn ông đeo một chiếc thẻ tên có dây đeo quanh cổ, nhưng Ricardo Merman không thể nhìn rõ trên thẻ viết gì. Những con chữ cứ mờ nhòe đi một cách kỳ lạ mỗi khi ông nhìn vào chúng.
+“Mẹ ơi!”
 
-Người đàn ông để mái tóc dài chấm vai óng ả như bờm của một huấn luyện viên xiếc sư tử. Người ấy vạm vỡ, cường tráng, mặc một bộ jumpsuit bằng vải jean bó sát, với miếng phù hiệu thêu dòng chữ SVEN BRAWNSON.
+“Mẹ ơi! Bố ơi!”
 
-Khi người đàn ông bước ngang qua, Ricardo Merman nghe thấy tiếng leng keng hoàng kim của một chiếc chuông. Ông không thể nhìn hay nghe ra âm thanh ấy phát ra từ đâu. Có lẽ từ chính bên trong ông. Có lẽ từ khắp mọi nơi xung quanh ông. Âm thanh ấy tựa như những hạt mưa rơi trên thân tàu SS *Deliverance*, nhưng cũng giống như tiếng vọng dưới làn nước của một chú cá heo.
+“Ra xem này!”
 
-Mọi thứ nhòa đi.
+Lindsey đeo mặt nạ sư tử với cái bờm màu hồng tím. Rory đeo mặt nạ khủng long (hoặc cá sấu) vẽ nguệch ngoạc màu xanh lá cây, có hai khe hở ti hí kiểu loài bò sát để nhìn ra ngoài.
 
-Đầu óc Ricardo Merman quay cuồng chếnh choáng. Đôi mắt ông nhòe nước. Ông chớp mắt liên tục, cố vắt nốt mấy giọt lệ ra ngoài. Ông đảo tròng mắt liếc dọc liếc ngang rồi xoay phắt người lại. Người đàn ông mặc bộ áo liền quần bằng vải bò đã biến mất từ lúc nào. Thay vào đó, ngay giữa hành lang trống huơ trống hoác lại hiện ra một cái hố xoáy cuộn tròn. Xuyên qua miệng hố ấy, ông nhìn thấy một người đàn ông khác. Một người đàn ông sở hữu bộ râu tỉa tót gọn gàng, khoác trên mình chiếc áo sơ
+“Có hươu trong sân kìa!” Lindsey reo lên.
 
-Ông chẳng hiểu vì sao mình lại biết chính xác cần phải làm gì.
+“Chúng đang xì bọt xèo xèo,” Rory bồi thêm.
 
-Nhưng quả thực ông biết rõ mười mươi.
+“Hay đấy,” Miriam nói cho qua chuyện.
 
-Ông không hề sợ hãi. Dù gì thì ông cũng đã dành trọn bốn mươi năm qua của cuộc đời mình chỉ để sống mà chẳng biết sợ hãi là cái gì.
+“Nhưng *mẹ* ơi, có nhiều hươu lắm. Con nào cũng xì bọt xèo xèo hết. Bố mẹ phải ra xem đi!”
 
-“Cậu không cần phải sợ đâu,” ông cất lời với người đàn ông kia (vốn cũng chính là bản thân mình). Ông vươn tay ra, tiến thẳng vào lòng cái hố xoáy cuộn. Vô số chú cá bạc bé li ti bơi lượn quanh ông như một đàn sao lấp lánh.
+Miriam và Jack theo chân hai đứa trẻ vào phòng khách. Họ nhìn qua cửa sổ ra bãi cỏ lúc này đã bị một đàn hươu vây kín. Có ít nhất một tá hươu, đồng nghĩa với hai tá con mắt đen láy tựa thủy tinh đang chằm chằm dán chặt vào ngôi nhà.
 
-“Cậu hoàn toàn có thể là chính mình,” ông lại nói. Xung quanh ông, tiếng sóng vỗ bờ gầm gào, tiếng hải âu réo rắt, cùng từng luồng gió rít xoáy cuồn cuộn vây lấy bên tai.
+“Trông rợn cả người,” Miriam nói.
 
-“Nắm lấy tay tôi nào,” ông nhắn nhủ với chính bản thân.
+“Chúng đang làm gì thế?” Jack hỏi.
 
-Ricardo Merman gật đầu. Cả hai bàn tay vươn ra, rồi đan chặt vào nhau. Một luồng sáng chói lòa bùng nổ - rực rỡ đến lóa mắt tựa vụ nổ siêu tân tinh - diễn ra nhanh tới mức chẳng một ai kịp trông thấy.
+“Có khi chúng đang mở tiệc đấy ạ,” Lindsey suy đoán.
 
-Thế rồi tất cả: vầng sáng chói lọi, cái hố xoáy cuộn, và cả Ricardo Merman, đều hoàn toàn bốc hơi.
+“Không đâu,” Rory lắc đầu tỏ vẻ nghiêm trọng. “Không có bánh kem thì sao gọi là tiệc được.”
+
+Jack đập tay lên mặt kính. Lũ hươu chẳng mảy may giật mình. Miriam mở cửa chính rồi bước ra ngoài, theo sau là toàn bộ gia đình. Lẽ ra cô phải cảm thấy sợ hãi mới đúng. Chúng hoàn toàn có thể lao tới húc, hoặc tệ hơn là tràn vào nhà. Jack thì đang cầm lăm lăm chiếc que cời lò sưởi. Nhưng chẳng hiểu vì lý do gì, lũ hươu không hề khiến cô thấy e sợ.
+
+Cô nhìn chằm chằm lũ hươu. Lũ hươu cũng giương mắt nhìn trừng trừng lại cô.
+
+“Sao nào? Các ngươi muốn gì?”
+
+“Mẹ ơi, mình mời chúng vào nhà được không?”
+
+“Ờ…”
+
+“Không,” Jack cắt ngang.
+
+“Ta đang nói chuyện với các ngươi đấy, lũ hươu kia!” Miriam quát to. “Các ngươi rốt cuộc muốn gì?”
+
+Một con hươu đực trẻ tuổi thong thả hạ mình xuống tư thế ngồi. Chân nó choãi ra trên thảm cỏ, trông gượng gạo và phi tự nhiên chẳng khác nào một chú chó đang cố nhập vai thuyền trưởng chỉ huy tàu. Hươu đâu có thực sự *ngồi* bao giờ, đúng không? Chẳng phải chúng vốn ngủ trong tư thế cả bốn móng đều chạm đất sao?
+
+Miriam bước xuống các bậc thềm, đi thẳng vào giữa bầy hươu. Một con cúi đầu ngay bên cạnh cô, thong dong ngoạm một búi cỏ lớn trên bãi. Nó nhai chầm chậm, đôi mắt vẫn dán chặt vào cô.
+
+Cô gần như có thể nghe thấy giọng nói của nó vang lên trong đầu.
+
+*Chia buồn về chú chó của cô nhé.*
+
+*Thật lòng chia buồn.*
+
+Đôi mắt nó đen như than củi, mịn màng tựa mảnh thủy tinh biển.
+
+*Ông ấy đâu rồi?*
+
+*Mr. Yay đâu rồi?*
+
+“Chương trình biến mất hoàn toàn khỏi mạng Internet rồi,” Jack cất tiếng. Trong thoáng chốc, Miriam cứ ngỡ anh cũng nghe thấy giọng nói của con hươu, trước khi cô nhận ra tâm trí anh vẫn còn mắc kẹt ở cuộc trò chuyện dở dang vừa rồi. Tay anh đưa ra định vuốt ve con hươu.
+
+“Đừng sờ vào nó. Anh chẳng biết trên người nó mang mầm bệnh gì đâu.”
+
+Động tác của Jack khựng lại. “Nhưng vẫn còn manh mối…” anh nói. “Và vẫn còn *ông ấy*. Hay nói đúng hơn là người diễn viên đóng vai đó. Ông ấy tên gì nhỉ?”
+
+“Em không nhớ.”
+
+“Em biết anh dám cá ai sẽ nhớ không? Người làm việc ở cửa hàng băng đĩa ấy.”
+
+“Vẫn còn cửa hàng băng đĩa cơ à?”
+
+“Ừ, dưới đường Auburn.”
+
+Con hươu dúi đầu vào tay Jack. Nó tỏ rõ ý muốn anh vuốt ve mình.
+
+“Jack…”
+
+“Không sao đâu.” Anh gãi nhẹ sau tai nó, như thể đó là con mèo chứ chẳng phải sinh vật nhung nhúc mầm bệnh.
+
+“Làm thế nào mà một cửa hàng băng đĩa vẫn trụ nổi đến giờ nhỉ?”
+
+“Nhờ hoài niệm.”
+
+“Thế là sao, ở đó cho thuê băng VHS à?”
+
+“Thuê được chứ. Nhưng quan trọng là chủ quán, người đó biết tuốt tuột mọi thứ về truyền hình và phim ảnh,” Jack nói. “Biết đâu hãng phim chỉ tạm thời thu hồi chương trình thôi. Người này chắc chắn sẽ biết.”
+
+“Tại sao họ lại thu hồi chương trình làm gì?”
+
+“Có khi để chuẩn bị cho một màn tái xuất hoành tráng thì sao. Kèm theo một đống đồ lưu niệm ăn theo nữa. Nào, mình đi hỏi thôi!”
+
+“Ý anh là ngay bây giờ ư?”
+
+“Em cũng muốn biết mà, đúng không?”
+
+Năm phút sau, Miriam đã ngồi chễm chệ trong xe. Hai đứa trẻ với đồ ăn vặt trên tay đã thắt dây an toàn ngay ngắn ở hàng ghế sau. Lũ hươu vẫn thơ thẩn ngoài lối ra vào, chặn cứng đường đi. Jack cố dọn đường, thoạt tiên bằng một cây chổi, rồi sau đó đổi sang thanh kiếm Pháp Sư Vũ Trụ™ của Rory - món đồ chơi gắn đèn nhấp nháy phát ra những âm thanh bíp bíp vút vút. Rõ ràng đối với lũ hươu, thanh kiếm ấy có phép thuật thật. Jack xoay xở dụ được vài con rời khỏi lối đi. Đoạn anh nhảy tót lên xe, rồi cả nhà bắt đầu tiến ra đường.
+
+Họ lái xe ngang qua nhà Kate và Fred. Một chiếc máy ủi màu vàng chễm chệ ngay giữa sân trước, đậu trên một ụ đất cao. Thảm cỏ xanh mướt trước kia đã biến sạch không còn lấy một cọng.
+
+Tới gần nhà Holly và Tom, họ rơi vào thế bế tắc hoàn toàn. Hàng chục con hươu tụ tập ngay giữa lòng đường Ravenswood Drive. Vài con đứng trơ ra, nhìn xa xăm bằng đôi mắt đen bình thản. Vài con khác lại ngồi thụp xuống, co cả bốn móng dưới thân. Chiếc xe trườn chầm chậm về phía chúng, nhưng chúng chẳng buồn nhúc nhích lấy một phân.
+
+Jack với tay sang bóp còi inh ỏi.
+
+Miriam hạ cửa sổ xe xuống. “Tránh ra khỏi đường đi!”
+
+“Chúng nó cứ lì ra ở đấy suốt cả buổi chiều rồi!” Holly gào lên. Cô bước xuống các bậc thềm trước hiên, rảo bước qua bãi cỏ tiến về phía họ. Chad lủi thủi theo sau mẹ. Hai cánh tay cậu bé đều bị bó bột kín mít từ vai xuống tận bàn tay. Holly đeo một cặp kính râm đen sì và đội bộ tóc giả bới cao màu vàng hoe từ hồi cùng Miriam rình mò theo dõi Jack. Trên tay cô là một đĩa pizza đã cắt thành từng miếng nhỏ vừa ăn. Cô dùng nĩa cắm một miếng rồi ấn thẳng vào mồm Chad. “Điên hết cả người! Và *dĩ nhiên* là Tom lại lấy cớ đó để phóng xe máy đi lượn rồi. Anh ấy vít ga leo tót lên vỉa hè để lách qua bọn hươu. Trong khi đó, anh chàng *Người Nhện* ở đây thì phải có người đút tận mồm vì đôi tay chẳng dùng được vào việc gì nữa.”
+
+Các lớp bột bó kín cả ngón tay cái cùng các khớp ngón của Chad, chỉ thò ra ngoài đúng đầu các ngón tay.
+
+“Mẹ bảo hai cái tay bó bột của cháu trông hệt như hai cái giò heo ấy!” Chad tự hào khoe.
+
+“Mọi chuyện… thế nào rồi?” Miriam ngập ngừng hỏi.
+
+“Ôi, tuyệt đỉnh luôn cô ơi!” Chad hớn hở đáp. “Cháu còn được đi cả xe cứu thương cơ đấy!”
+
+“Tệ hại đến mức không lời nào tả xiết,” Holly thở dài. Cô lại xiên thêm một miếng pizza nữa rồi chĩa thẳng về phía miệng Chad. Cậu bé nhanh nhảu dùng răng ngoạm gọn miếng bánh khỏi đầu nĩa. “Sáu tuần trời ròng rã như thế này rồi. Thằng bé chẳng tự làm nổi cái trò trống gì cả.”
+
+“Còn vụ tóc giả này là sao đây?” Miriam hỏi.
+
+“Tớ thích thì tớ đội thôi,” Holly thản nhiên bảo. Cô tiến lại gần xe hơn một chút, đủ để Miriam ngửi thấy thoang thoảng mùi rượu vodka vị chanh. “Tớ thấy bộ này còn đẹp hơn tóc thật của mình. Thế nên tớ tự nhủ, kệ đời chứ! Tom có thể nhảy dù từ máy bay xuống. Tom có thể cưỡi xe máy phóng bạt mạng. Thì tớ cũng có quyền đội tóc giả, miễn là tớ thích!”
+
+“Cậu hoàn toàn nên làm thế. Tuyệt lắm,” Jack gật gù tán thưởng. Anh chạm nhẹ vào vành chiếc mũ fedora của mình. “Dù bản thân tôi thì vẫn chuộng một chiếc mũ fedora xịn hơn.”
+
+“Ngặt một nỗi,” Holly nói, “nếu vẫn còn tóc bên dưới thì đội bộ tóc giả này sẽ nóng điên lên được. Cho nên tớ cạo trọc lóc luôn rồi!”
+
+Holly giật phăng bộ tóc giả ra. Bên dưới, cái đầu cô trọc lốc, nhẵn thín không còn lấy một cọng tóc.

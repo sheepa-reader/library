@@ -1,6 +1,6 @@
-# ĐÔNG CHÍ - BRADFORD VÀ CHÚ CHÓ
+# ĐÔNG CHÍ
 
-## BRADFORD VÀ CHÚ CHÓ
+# BRADFORD VÀ CHÚ CHÓ
 
 **CÓ LẼ CHÚ CHÓ TỪ TRÊN TRỜI RƠI XUỐNG NÀY** chính là lý do khiến anh nằm mơ thấy một con chó. Trong mơ, anh cùng chú chó lênh đênh trên một con thuyền, sóng nước vỗ bì bõm xung quanh, mặt nước mang màu xanh ngắt như món đá bào siro mâm xôi xanh. Một đàn cá heo bơi lội tung tăng bên mạn thuyền, có điều bầy cá heo đó lại là những chú chó. Chó heo. Một người đàn ông cưỡi trên lưng một trong những con chó heo ấy. Gã diện bộ jumpsuit bò kèm một sợi dây chuyền vàng to bản. Gã vẫy tay rồi cất tiếng: *Chúng ta đang làm cho nó mạnh mẽ hơn đấy!*
 

@@ -1,61 +1,116 @@
-# HỒI TƯỞNG
+# BRATTY VÀ BÁC SĨ TRỊ LIỆU
 
-**BRATTY**
+          Miriam:
+        
 
-**CẬU BÉ ĐANG ĐÓI.** Cậu mới tám tuổi.
+*Cậu đã nói với bố mẹ chưa?*
 
-Cậu đói, đói, đói, đói khủng khiếp. Cơn đói tựa như một hố đen thăm thẳm, và cho dù cậu có tống bao nhiêu thức ăn vào cái hố không đáy ấy thì nó vẫn cứ chực chờ ở đó, rỗng hoác.
+          Bratty:
+        
 
-Bradford Pierson đứng trong phòng chứa đồ ăn giữa bóng tối mịt mùng.
+*Cháu… cháu có kể với họ về một chú chó… hay đúng hơn là khả năng cháu sẽ nuôi một chú chó. Rồi bố cháu bảo kiểu: ‘Bây giờ không phải lúc nuôi chó đâu con. Đến kỳ đi thực tập thì con định tính sao với nó? Con sẽ phải làm việc túi bụi. Con làm gì có thời gian’, vân vân và mây mây.*
 
-Cậu không dám bật đèn.
+          Miriam:
+        
 
-Cậu là đồ đần độn, bà ta từng bảo thế. Chẳng có chút gan dạ hay tính tò mò nào. Thế nên hai bàn tay cậu chỉ biết quờ quạng trong bóng tối, lần mò bất cứ thứ gì có thể nhét vào miệng.
+*Tôi hiểu rồi. Vậy là cậu vẫn chưa nói với bố mẹ rằng cậu đã chuyển đến Los Angeles?*
 
-Lần trước, cậu lén nhét một hộp mì capellini vào túi. Cậu thích cái cảm giác nằng nặng của nó, cùng âm thanh lạo xạo phát ra từ bên trong. Cậu từng tưởng tượng đó là những thanh bánh quy giòn rụm nhưng chắc bụng hơn nhiều, đại
+          Bratty:
+        
 
-Lần này tội vạ bắt đầu từ việc cậu có nghĩa vụ phải đi đổ rác. Gom các túi rác lại. Lồng túi mới vào. Nhét rác vào thùng. Rồi kéo thùng rác ra ngoài lề đường. Cậu đã hoàn thành xuất sắc tất cả các khâu, ngoại trừ khâu cuối cùng, khâu mà cậu trót quên khuấy mất. Thế là những thùng rác sẽ nằm chình ình trong gara suốt cả tuần trời, rồi gara sẽ bốc mùi, rồi cái mùi ấy sẽ len lỏi xộc vào tận trong nhà. Mà làm sao bà ta có thể nuốt nổi miếng cơm nào với cái mùi kinh khủng ấy trong nhà cơ chứ? Và tại sao cậu lại được phép ăn tối, một khi bà ta đã không thể nuốt trôi?
+*À thì, ừm, kiểu như… ý cháu là cháu biết mình nên nói với họ. Kiểu gì rồi cháu cũng sẽ nói thôi. Nhưng… được rồi, có khi họ sẽ gạch tên cháu khỏi bảo hiểm y tế ngay giây phút biết cháu bỏ học. Thế nên nếu cháu nói toẹt ra với họ, cháu sẽ chẳng bao giờ có thể quay lại đây để bảo với cô là cháu đã thú nhận, đơn giản vì cháu đào đâu ra tiền mà đến gặp chuyên viên trị liệu nữa.*
 
-Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim *Deadhand Diego* trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.
+          Miriam:
+        
 
-Bradford Pierson đã mò về được đến phòng ngủ của mình dưới tầng hầm. Tạm thời an toàn. Cậu trút sạch chiến lợi phẩm trong túi ra giường: một hộp bánh quy lạt, một hũ ô liu xanh nhồi nhân, một chai tương cà, cùng một thanh đạm vị sô-cô-la.
+*Bradford, tôi… Cậu đừng bận tâm về chuyện đó, được chứ? Chúng ta luôn có cách giải quyết, bất kể cậu có bảo hiểm hay không.*
 
-Cậu ngấu nghiến thanh đạm trước tiên, giải quyết gọn gàng chỉ
+          Bratty:
+        
 
-Bradford đẩy then mở cửa sổ. Một luồng gió lạnh buốt ùa vào phòng, mang theo những giọt mưa rơi lất phất từ các cành cây đã rụng trơ trụi một nửa lá. Từng vệt lá phong màu đỏ vàng rực rỡ lấp lánh như ánh đèn sòng bạc, nổi bật trên nền trời tháng Mười đen thẫm.
+*Cô…*
 
-“Giày của mày kìa,” Bradford thì thầm nhắc nhở, miệng vẫn còn nhét đầy ô liu. Mặt đất dưới chân Tommy lúc này chỉ toàn bùn nhão và lá mục ẩm ướt.
+          Miriam:
+        
 
-“Ồ, ừ nhỉ.” Tommy cởi phăng đôi giày thể thao Spider-Man dính đầy bùn đất rồi đặt ngay ngắn lên bậu cửa sổ. Cậu trườn người chui tọt vào trong. Đôi bàn chân đi tất của cậu lập tức để lại những vệt bẩn lem luốc trên tấm thảm len màu trắng muốt. Cậu vội lấy tay áo khoác chùi lấy chùi để, nhưng hành động đó chỉ khiến vết bẩn loang lổ rộng hơn. “Xin lỗi nhé,” cậu nói, giọng hơi to quá mức cần thiết.
+*Cậu đã theo tôi trị liệu suốt sáu năm rồi. Đời nào tôi lại đem con bỏ chợ như thế.*
 
-“Suỵt! Họ nghe thấy bây giờ.”
+          Bratty:
+        
 
-Tommy gật đầu lia lịa. “Im lặng như một con sao biển.”
+*Cháu… ừm, cảm ơn cô.*
 
-“Ăn chút gì không?” Bradford hỏi, tay hất về phía đống đồ ăn vặt trên giường. “Mấy cái bánh quy này ăn cũng được lắm, nếu mày chịu khó phết thêm tương cà.”
+          Miriam:
+        
 
-“Thôi khỏi, tao ăn cơm rồi.”
+*Nhưng cậu vẫn bắt buộc phải nói với họ. Cậu không thể giấu gia đình một bí mật tày đình như thế này mãi được.*
 
-“Mấy quả ô liu này kỳ lạ cực. Chúng được nhồi nhân bằng nấm và ớt
+          Bratty:
+        
 
-“Bố mẹ tao ở nhà cũng toàn tích trữ mấy thứ kỳ quặc kiểu này. Chẳng hiểu có phải cứ hễ già đi là người ta tự khắc biến thành như thế không nữa. Người lớn quên sạch mấy món ăn bình thường rồi chỉ toàn nấu nướng mấy thứ quái đản.”
+*Kể cả khi cháu ghét họ sao?*
 
-“Mẹ kế tao thì gần như chỉ uống mấy món sữa lắc ăn kiêng thôi. Nhưng chúng thậm chí còn chẳng phải sữa lắc đàng hoàng nữa cơ. Cứ lợn cợn lạo xạo như bột phấn ấy.” Cậu bốc thêm một nắm ô liu nữa. Giờ đây khi cơn cồn cào đã tạm lắng xuống, cậu bắt đầu nhai chậm rãi hơn.
+          Miriam:
+        
 
-Tommy bò ngang như cua qua tấm thảm. Mặt thảm nổi bật một màu trắng toát không tì vết, nếu không tính đến những dấu chân lấm lem của cậu bạn. Tường phòng cũng trắng xóa và trơ trụi không một khung hình. Cả căn phòng bốc lên mùi thuốc tẩy amoniac nồng nặc.
+*Cậu có thực sự ghét họ không?*
 
-“Hôm nay tao không được ăn tối,” Bradford kể với người bạn thân nhất của mình.
+          Bratty:
+        
 
-“Sao lại thế?”
+*Cháu… Từng có một thời, sau khi mẹ mất… cô biết đấy… nhưng là trước khi bố gặp dì Helena, hồi ấy chỉ có hai bố con cháu với nhau. Khi đó cháu đâu chừng sáu tuổi thì phải? Rồi vào một ngày nọ, trong giờ ra chơi, có thằng nhóc thách cháu ăn một con ve sầu.*
 
-“Tao quên không kéo thùng rác ra lề đường.”
+          Miriam:
+        
 
-“Thế là họ bắt mày nhịn đói luôn?” Tommy cau mày, nét mặt sa sầm lại. Cậu nhìn Bradford, nhìn cái bánh quy kẹp tương cà trên tay bạn mình, rồi nhìn sang tấm thảm trắng ngột ngạt cùng những bức tường trắng toát vô hồn của căn phòng.
+*Cậu có ăn không?*
 
-Đây lại là một ngày thứ Ba đói lả nữa trong cuộc đời của thằng bạn thân nhất của cậu.
+          Bratty:
+        
 
-Chính tại nơi này, một bước ngoặt vô hình đã âm thầm diễn ra. Hạt giống của sự phản kháng bắt đầu đâm chồi nảy lộc. Một lời thề sâu sắc trỗi dậy trong lòng Tommy: kiên quyết khước từ sự nhạt nhẽo tàn nhẫn cùng nỗi bất công nghiệt ngã này.
+*Trời đất ơi, cháu tống một lèo năm con luôn ấy chứ. Kiểu như cháu cố chứng tỏ mình là dân chơi thứ thiệt bằng cách xơi tái mấy con bọ vậy. Nhưng rồi vừa về đến nhà là cháu đổ bệnh liền. Cháu thậm chí còn chẳng kịp lết tới bồn cầu. Thế là cháu nôn thốc nôn tháo ra khắp tấm thảm phòng tắm. Toàn bộ đống nội tạng bọ kinh tởm chết tiệt. Mà cháu thì đời nào chịu đi dọn cái bãi nhầy nhụa đó. Thế là cháu cuộn tròn tấm thảm lại rồi tống thẳng vào thùng rác. Cháu giấu tiệt bố cháu. Cháu cứ đinh ninh là ông sẽ nổi trận lôi đình vì vụ mấy con ve sầu, nên cháu im thin thít, còn ông thì cũng chẳng buồn hỏi han gì về tấm thảm. Chuyện đó cứ như một bí mật động trời gặm nhấm tâm can cháu suốt mấy tuần liền. Cháu cảm tưởng như cả thế kỷ trôi qua, bởi cô biết đấy, khái niệm thời gian của một đứa trẻ vốn dĩ dài lê thê thế nào rồi. Nhưng rồi đến một ngày, bố cháu đi làm về với một tấm thảm mới toanh trên tay. Ông trải nó vào phòng tắm, rồi quay sang nhìn cháu với ánh mắt kiểu: ‘Bố biết tỏng những gì con đã làm rồi nhé.’*
 
-“Bà ấy bảo tao là một đứa trẻ hư,” Bradford cất
+          Bratty:
+        
 
-Hàng mày của Tommy càng nhíu chặt hơn nữa. Cậu lắc đầu dứt khoát. “Không,” cậu nói. Cậu bé tám tuổi chưa từng nói tục một lần nào trong đời, nhưng kể từ chính khoảnh khắc định mệnh này trở đi, cậu sẽ không bao giờ ngừng chửi thề nữa. “Không đời nào. Mẹ kiếp bà ta.”
+*Và cháu không thể chịu đựng thêm được nữa, cháu đành khai ra hết sạch.*
+
+          Miriam:
+        
+
+*Ông ấy đã phản ứng thế nào?*
+
+          Bratty:
+        
+
+*Ông ấy… ông ấy ôm lấy cháu. Cháu cũng không rõ nữa, có lẽ ông ấy cũng nói điều gì đó, nhưng cháu chẳng còn nhớ nổi. Cháu chỉ nhớ là ông ấy đã ôm cháu thật chặt. Và rồi mọi chuyện như thể… đó là lần cuối cùng ông ấy ôm cháu trong đời. Bởi vì ngay sau đó, ông ấy gặp bà ta. Và kể từ dạo ấy, cháu chính thức trở thành Bratty Kẻ Ăn Hại.*
+
+          Miriam:
+        
+
+*Nhưng cậu đâu phải vậy. Cậu hiểu rõ điều đó mà.*
+
+          Bratty:
+        
+
+*Cháu… Những gì cháu biết là, từng có một khoảng thời gian ngắn ngủi bố cháu thực sự là… chính con người ông. Khi cháu được sống thật với bản ngã của mình, không hề có kẻ nào như Gríma Lưỡi Giun rỉ rả những lời xảo quyệt vào tai, và cháu cũng chẳng cần gồng mình đóng vai hình mẫu hoàn hảo mà ai đó áp đặt. Cháu chỉ đơn thuần là chính cháu thôi. Khỉ thật. Cháu vẫn nhớ ngày xưa cháu từng nhảy múa. Cháu còn chơi cả nhạc nữa. Đàn banjo, guitar, kèn harmonica. Mấy giai điệu nhạc quê hương cổ điển ấy. Thế rồi bà ta xuất hiện, và những ngày tháng nhảy múa vui vẻ của cháu chấm dứt hoàn toàn. Cháu sẽ chẳng bao giờ nhảy nữa đâu. Trừ khi cô trả cho cháu một triệu đồng tiền vàng doubloon. Giờ đây dường như cháu chỉ còn bận tâm mỗi việc trở thành một kẻ nhà giàu chán ngắt và hợm hĩnh.*
+
+          Miriam:
+        
+
+*Nhưng đó là lựa chọn của ông ấy.*
+
+          Bratty:
+        
+
+*Thật nhảm nhí. Ông ấy đâu có hạnh phúc.*
+
+          Miriam:
+        
+
+*Rất nhiều người cũng đâu có hạnh phúc.*
+
+          Bratty:
+        
+
+*Cháu không thể nào hiểu nổi… Cháu chưa từng hiểu được. Tại sao họ lại ở bên nhau cơ chứ? Đâu phải mẹ kế cháu hạnh phúc gì cho cam. Bà ta lúc nào cũng cằn nhằn về cháu và ông ấy, về chuyện cả hai chúng cháu vô tích sự đến nhường nào. Bà ta khốn khổ thấy rõ. Còn ông ấy cũng bẽ bàng chẳng kém. Bố cháu hoàn toàn có thể bỏ bà ta rồi đi trượt tuyết ở dãy Alps, hay vi vu trên du thuyền và làm mấy trò hưởng thụ của giới siêu giàu cơ mà. Thế nhưng không hề, họ cứ tự giam cầm nhau trong căn nhà ngột ngạt đó, chẳng đi đâu, chẳng làm gì ngoài việc tiếp diễn cái vòng lặp thống khổ vô tận này. Rốt cuộc là tại sao chứ? Để làm cái quái gì cơ chứ?*

@@ -20,4 +20,6 @@
 
 *Thắp lên ánh sáng, gieo rắc yêu thương,*
 
+*Thứ thanh âm khiến chúng hóa điên cuồng…*
+
 *Bởi chính giai điệu đó tạc nên một Tôi kiên cường.*

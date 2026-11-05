@@ -1,123 +1,141 @@
-# THUYẾT ÂM MƯU!
+# KÝ ỨC ÙA VỀ
 
-Trong lúc Jack mải mê bận rộn với bất kỳ việc gì - hay chính xác hơn là với bất kỳ ai mà anh đang quấn quýt - Miriam đành một mình dắt lũ trẻ đi siêu thị. Cô phải kiên nhẫn chịu đựng tiếng cằn nhằn cùng những gương mặt xị xuống của chúng trong lúc nhét những bàn chân mềm nhũn vào giày, rồi
+**MIRIAM + JACK**
 
-Miriam đỗ xe. Rory lập tức luồn lách thoát khỏi dây an toàn rồi lao tọt lên ghế trước. Cậu bé thích chui ra ngoài qua cửa bên ghế tài xế, cốt để tiện tay bấm còi bíp bíp trên đường ra. Chú nhóc đập tay bôm bốp vào vô lăng, không quên để lại những vết chân bẩn nhỏ xíu trên mặt ghế da.
+**NGƯỜI ĐÀN ÔNG NÊN** tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu.
 
-Lindsey thong thả chờ dây an toàn tự nhả ra. Con bé bước xuống xe chậm rãi như một phi hành gia đang đặt những bước chân đầu tiên lên bề mặt Mặt Trăng xám xịt như đường nhựa.
+Một món quà cũng có thể giúp ích đấy. Như một chú chó con chẳng hạn.
 
-“Mẹ ơi, giục chị nhanh lên đi!” Rory mè nheo. “Nếu chị lề mề quá, người ta lấy mất xe đẩy ô tô mất!”
+“Thế một con dê thì sao?” người đàn ông hỏi.
 
-Gần lối vào siêu thị Value Valley, một người phụ nữ đang đứng cầm tấm biển viết tay màu xanh dạ quang. Tấm biển ghi vắn tắt:
+“Em biết nuôi con dê đó ở đâu cơ chứ?”
 
-**THUYẾT ÂM MƯU!**
+“Một đàn gà thì thế nào?”
 
-Xung quanh chữ “THUYẾT ÂM MƯU!” có vẽ một vòng tròn với các tia nắng chĩa ra ngoài, trông hệt như bức vẽ mặt trời của một đứa trẻ.
+“Đó là quà cho mẹ em. Còn cho em, phải là một chú chó con.”
 
-Người phụ nữ Thuyết Âm Mưu mặc chiếc áo nỉ chui đầu màu đen có in logo màu hồng của một công ty dược phẩm. Bà nở nụ cười tươi rói với Miriam khi cô tiến lại gần lối vào. Răng bà trắng muốt
+“Ghi nhận.”
 
-**GÀ CỦA TÔI ĐÂU RỒI?**
+Và rồi người đàn ông nên quỳ sụp xuống. Anh nên ngước nhìn lên, đầy sùng bái, khi những giọt nước mắt tình yêu hạnh phúc tuôn rơi đầm đìa trên khóe mắt anh.
 
-Chiếc xe đẩy ô tô đầu tiên - loại hai chỗ ngồi bằng nhựa màu đỏ vàng có gắn giỏ mua hàng ở phía sau - bị dính rít một cách hết thuốc chữa. Dù đã lau qua bằng mấy tờ khăn giấy kháng khuẩn, nó vẫn bị phủ một lớp màng bết dính.
+“Đoạn cuối nghe hơi quá đà rồi đấy.”
 
-Rory cằn nhằn: “Nhưng con muốn đi xe đẩy ô tô cơ!”
+“Sao cơ? Tại sao chứ?”
 
-*Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò*, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.
+“Chà, trước hết, anh không nghĩ mình có thể ứa ra nước mắt tình yêu. Mà cho dù có làm được, anh cũng không nghĩ chúng sẽ tuôn rơi đầm đìa. Rỉ ra vài giọt thì may ra, chứ tuôn rơi thì không đời nào.”
 
-Miriam lặng lẽ kéo chiếc xe đẩy ô tô tiếp theo ra khỏi khu vực tập kết rồi lau sạch nó.
+“Anh có thể tự nhỏ vài giọt nước cốt chanh vào mắt. Cách đó chắc cũng tạo ra hiệu ứng tương tự đấy.”
 
-“Con làm tài xế!” Rory trèo tọt vào xe.
+“Tuyệt vời. Đúng là chuyện nên làm ngay trước khi cầu hôn: nhỏ nước chanh vào mắt mình. Nhưng em biết gì không?”
 
-“Lần trước em lái rồi!” Lindsey đẩy em trai sang một bên.
+“Gì cơ?”
 
-Người phụ nữ Thuyết Âm Mưu đăm đăm nhìn họ. Bà xoay qua xoay lại tấm biển của mình. Bà mỉm cười, vẻ mặt chẳng biết là thương hại hay coi thường. Răng bà trắng một cách phi lý.
+“Anh sẵn sàng nhỏ nước chanh vào mắt vì em.”
 
-Miriam đẩy chiếc xe ô tô cồng kềnh qua các gian hàng trong khi lũ trẻ cãi lộn chí chóe ở ghế trước. Chúng mặc cả để mua bằng được bốn hộp ngũ cốc: hai hộp in hình các con vật hoạt hình trên vỏ, hai hộp được quảng cáo là thuần tự nhiên và bổ sung dưỡng chất. Cô lái chiếc xe đẩy vào khu vực bánh mì. Trong lúc chọn bánh mì, cô nhận ra người phụ nữ Thuyết Âm Mưu đang lảng vảng gần bàn bày các loại bánh nướng phủ đường trong bao bì nhựa trong suốt. Bà cũng đẩy một chiếc xe ô tô, chỉ có điều chẳng có đứa trẻ nào ngồi cãi nhau ở ghế trước.
+Jack bật dậy. Anh lao tới tủ lạnh. Anh chộp lấy một chai nhựa nặn hình quả chanh.
 
-“Mẹ ơi, mua bánh cupcake được không?” Rory hỏi.
+“Không!” Miriam giật phắt chai nước chanh khỏi tay anh.
 
-“Con cũng muốn ăn
+Jack quỳ sụp xuống. Anh van xin: “Xin em, ôi nữ thần xinh đẹp nhất, người nắm giữ trái tim tôi, kẻ thiêu đốt tâm can tôi. Xin hãy để tôi nhỏ thứ nước chanh này vào mắt vì em!”
 
-Miriam đành để lũ trẻ chọn một hộp bánh cupcake màu vàng phủ kem trắng.
+Anh thà chịu mù lòa, miễn là có thể khắc sâu vào tâm trí hình ảnh vẻ đẹp của cô. Điều này là sự thật.
 
-*Bổ sung dưỡng chất*, nhãn dán trên bao bì tuyên bố xanh rờn như thế.
+Một sự thật khác cũng đúng không kém: Đôi mắt anh đã bắt đầu tơ tưởng nghía sang nơi khác.
 
-“Nó chẳng thực sự ‘bổ dưỡng’ gì đâu,” người phụ nữ Thuyết Âm Mưu tiến lại gần lên tiếng khi Miriam đang xếp mấy chiếc bánh cupcake vào xe đẩy. “Ai mà biết nó thực chất là cái giống gì. Có khi là bất cứ thứ gì trên đời không chừng.”
+Đó không phải là hông, môi hay ngực của ai khác, mà là những chiếc ghế bọc da sang trọng trong phòng họp của Hãng luật Rufus Mather LLP, những hàng ghế VIP của công ty tại sân vận động, những bữa trưa trải khăn bàn trắng muốt, những dạ tiệc quyên góp thắt nơ đen lịch lãm. Khung cảnh từ văn phòng tầng hai mươi ba lúc hoàng hôn, khi mọi ánh đèn thành phố bừng sáng và dòng sông ánh lên sắc bạc, lấp lánh những gợn sóng mùa hè như đính kim cương. Anh nhìn xuống với đôi mắt mơ mộng của một thực tập sinh. Anh đi du thuyền trên sông cùng các thực tập sinh khác. Anh bắt tay với các thẩm phán, các giám đốc điều hành, các nghị sĩ, tranh giành vị trí với những thực tập sinh còn lại. Không phải ai trong số họ cũng sẽ giành được một văn phòng góc sang trọng. Không phải ai cũng sẽ nỗ lực hết mình, và chẳng ai trong số họ bắt buộc phải gồng mình phấn đấu trong suốt kỳ thực tập mùa hè.
 
-“Ừm, hừm.” Miriam gật đầu. Cô chẳng có tâm trạng đâu mà dây vào một kẻ điên.
+Kỳ thực tập đó chỉ mới là nếm chút hương vị ban đầu.
 
-“Tôi thấy cách cô nhìn tôi ngoài kia rồi,” người phụ nữ Thuyết Âm Mưu nói. “Tôi hiểu chứ. Cô nghĩ tôi điên chẳng khác gì một con cá hề.”
+Người đàn ông về nhà vào đúng năm giờ chiều: “Chỉ vài năm nữa thôi, nếu anh lên chức thành viên góp vốn, chúng ta có thể sở hữu một căn nhà nghỉ dưỡng bên bờ biển.”
 
-“Tôi, ừm…” Miriam muốn rời đi ngay lập tức, nhưng chiếc xe đẩy hình ô tô của người phụ nữ nọ đã tạo thành một chướng ngại vật gây tắc nghẽn lối đi.
+Người đàn ông ngủ nướng vào thứ Bảy: “Dĩ nhiên chúng ta sẽ thuê một người giúp việc. Và cả một bảo mẫu để chăm sóc các con.”
 
-“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, *bốc hơi!* Cứ thế mà biến mất không để lại một dấu vết.”
+Người đàn ông thong thả đạp xe vào một chiều Chủ nhật: “Nhưng chẳng phải sẽ tuyệt vời lắm sao nếu ta dành những buổi chiều nắng đẹp du ngoạn quanh dòng sông trên chiếc thuyền của riêng mình?”
 
-Một hình ảnh của Jack chợt lóe lên trong tâm trí Miriam. Jack với nụ cười rạng rỡ. Jack với đôi mắt dán chặt vào cô. Bàn tay anh. Bờ môi anh. Dáng hình cơ thể anh trong bóng tối phòng ngủ của hai người, khi anh kéo cô nằm đè lên người anh.
+Người phụ nữ, chỉ một mình cô, vẫn giữ được sự thực tế: “Anh thừa biết mọi chuyện sẽ không đời nào diễn ra như thế này nếu anh nhận công việc ở hãng luật đó. Anh biết bây giờ họ chiêu đãi, tiệc tùng săn đón anh, nhưng sau này, anh sẽ chẳng có gì ngoài công việc và công việc.”
 
-Một tiếng nấc nghẹn bất ngờ cuộn trào trong lồng ngực cô. “Tôi…” Cô nhìn người phụ nữ trước mặt, nhưng trong tâm trí lại chỉ thấy Jack. Cô ấp úng ngập ngừng: “Tôi… tôi chắc chắn… mọi thứ không thể tự nhiên biến mất… ý tôi là, chẳng vì
+Anh gật đầu, nhún vai.
 
-“Tôi không biết lý do. Nhưng tôi biết chuyện đó đang xảy ra. Cô có thể cảm nhận được mà. Giống như tiếng lách tách trong không khí, ngay trước khi tia sét giội xuống.”
+*Dĩ nhiên* anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.
 
-Người phụ nữ Thuyết Âm Mưu thả một hộp bánh cupcake vào chiếc xe đẩy hình ô tô của mình, rồi quay gót bước đi. Miriam lại bắt gặp bà ở quầy thu ngân ngay làn bên cạnh. Chiếc xe đẩy ô tô của bà chất đầy ắp nhu yếu phẩm. Bà đĩnh đạc thanh toán bằng thẻ tín dụng, rồi cất gọn chiếc thẻ vào ví nằm trong một chiếc túi xách bằng da sang trọng.
+Dù vậy, anh đã nếm trải được hương vị ấy.
 
-Miriam tò mò đi theo người phụ nữ Thuyết Âm Mưu ra tận bãi đỗ xe. Người phụ nữ mở cốp một chiếc Rolls-Royce mới tinh, bóng lộn không một tì vết. Bà xếp gọn ghẽ đống đồ tạp hóa cùng tấm biển màu xanh dạ quang của mình vào xe, khẽ vỗ nhẹ lên thành xe đầy âu yếm, rồi trèo vào ghế lái và phóng vút đi.
+Nhưng anh đã luôn chú tâm. Dẫu ánh mắt có lang thang đâu đó, cuối cùng anh vẫn luôn nhìn về cô.
 
-Chiếc xe của Jack đã nằm chễm chệ trên lối vào nhà khi ba mẹ con về đến nơi. Rory thoan thoắt tự gỡ dây an toàn, nhào người qua hàng ghế sau rồi ngụp lặn giữa các túi đồ tạp hóa hòng săn tìm kho báu. Miriam vội giật mấy chiếc bánh cupcake khỏi tay cậu nhóc rồi cắp nách bế thốc vào nhà, mặc cho cậu bé không ngừng giãy giụa và vung chân đạp loạn xạ. Xong xuôi, cô quay lại lấy nốt số đồ còn lại cùng cô con gái lớn, đứa trẻ vẫn đang kiên nhẫn tháo dây an toàn ở hàng ghế sau.
+Anh chỉ là một luật sư doanh nghiệp mới vào nghề, chẳng phải thi sĩ. Ấy thế mà anh vẫn sáng tác một bài thơ rồi để lại trên bàn bếp:
 
-“Lindsey, nào con, nhanh chân lên,” cô giục, có lẽ là lần thứ một tỷ trong đời.
+Gửi người phụ nữ anh yêu,
 
-Jack ngồi trong nhà, dán mắt vào màn hình tivi trên ghế sofa. Thấy bóng vợ con, anh vội tắt tivi rồi bước lại giúp cô xách túi đồ
+Tình anh dâng tựa sóng triều biển khơi,
 
-“Anh đi làm về sớm thế.” Mới sáu giờ tối.
+Yêu em, trời đất chòng chành,
 
-“Ừm, phải rồi…” Jack đáp, giọng điệu đầy vẻ khả nghi.
+Hồn anh rung chuyển, tan tành như sương.
 
-“Nhưng chắc tối nay anh lại ôm việc về nhà làm chứ gì?”
+Tình anh cuộn xiết lũ dâng,
 
-“Cũng một chút, ừm… Mà em, ừm, có nhận được bó hoa anh gửi không?”
+Tựa như cơn bão xoay vần biển khơi.
 
-Bó hoa đang nằm chễm chệ trên bàn ăn trong bếp ngay trước mặt anh, trông vừa đáng yêu lại vừa đầy nghi vấn.
+Dẫu cho vạn vật đổi dời,
 
-“Em thấy rồi. Cảm ơn anh. Nhưng hôm nay nhân dịp gì thế?”
+Tình anh vẫn cháy muôn đời chẳng phai.
 
-“Chẳng nhân dịp gì cả. Chẳng lẽ anh cứ phải có dịp mới được tặng hoa cho vợ sao?”
+Đem so tình ấy trần ai,
 
-Miriam không biết phải đáp lại thế nào, đành lẳng lặng bước ra ban công phía sau để hút một điếu thuốc, nhường lại sàn diễn cho “Jack Kẻ Đáng Nghi” cất đồ tạp hóa vào tủ (có lẽ là lần đầu tiên trong suốt cả nhiệm kỳ làm bố của anh). Dĩ nhiên, anh xếp mọi thứ sai bét nhè vị trí. Nhưng trong lúc cặm cụi dọn dẹp lại bãi chiến trường mà anh vừa bày ra trong tủ lạnh, Miriam đành tự an ủi bản thân rằng dù sao có lòng cũng là tốt rồi. Trừ phi cái “lòng tốt” đột xuất ấy lại chỉ nhằm mục đích che đậy một phi vụ ngoại tình.
+Mọi điều thế tục *doth* phai sắc màu.
 
-Cả gia đình quây quần ăn tối. Chú nhóc Rory ngốn sạch bách phần thịt gà và khoai tây, nhưng dứt khoát không chịu đụng một hạt ngô nào cho tới khi nhận được chiếc bánh cupcake của mình. Thế rồi, cậu bé khoét một lỗ ngay chính giữa chiếc bánh ngọt lịm và nhồi đầy ngô nghiền vào đó.
+Chỉ riêng em, chỉ em thôi,
 
-“Gớm chết đi được.” Con bé Lindsey bình phẩm, tay tỉ mẩn xếp một con sâu bằng hạt ngô trên đĩa của mình rồi thong thả nhai dần từng chiếc chân ngô một.
+Là cơn giông bão, là trời bình yên.
 
-Jack hào hứng cập nhật cho cả nhà đủ mọi tin tức giật gân trên đời: “Có
+Cô bật cười vì cái từ *doth* cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.
 
-“Thế cơ à.”
+Vào khoảnh khắc đó, trong mùa hè vàng ươm lười biếng ấy, cô đã có trong tay hai điều mà trái tim mình khao khát nhất: cô có Jack, và cô có thời gian.
 
-“Người ta phải điều động cả Vệ binh Quốc gia đến.”
+Cô tự làm cho mình một phần trứng cuộn cùng một tách cà phê, rồi ngồi đọc cuốn tiểu thuyết dở dang, cho đến khi có tiếng gõ cửa vang lên.
 
-“Ồ?”
+Dịch vụ giao hoa.
 
-“Lại vừa xảy ra một chuỗi các vụ cướp ngân hàng kỳ quặc nữa.”
+Một ôm đầy ắp hoa hồng đỏ thắm, kèm theo mảnh giấy nhắn từ Jack:
 
-“Vâng.”
+*Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.*
 
-“Bọn cướp đều cải trang thành cảnh sát. Có điều lại là kiểu cảnh sát G, Ợ, I, C, Ả, M. Mặc quần soóc siêu ngắn và đi bốt cao tận đùi.”
+Anh quả là một nhà thơ dở tệ. Cô bật cười, lúi húi đi tìm một chiếc bình để cắm hoa, nhưng còn chưa kịp tỉa tót cành lá thì tiếng gõ cửa lại vang lên lần nữa.
 
-Được rồi, chi tiết này nghe chừng có vẻ thú vị đấy.
+Lại thêm một đợt giao hoa hồng nữa.
 
-“Nhiều người còn nhìn thấy một con tàu ngoài khơi bờ biển Hy Lạp, một con tàu mà trên thực tế vốn dĩ không hề tồn tại.”
+Lại một mảnh giấy nhắn khác.
 
-Miriam khẽ rùng mình: “Sao người ta lại nhìn thấy một thứ không tồn tại được chứ?”
+*Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.*
 
-“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì *con tàu đó* vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là *tại sao*…”
+Lời lẽ ấy quả thực linh ứng như sấm truyền, bởi chuyến giao hoa tiếp theo có đèo thêm một vị khách quá cảnh không mời mà đến: một chú ong. Nó phóng vút ra từ bó hoa, lao thẳng vào mặt cô. Miriam hốt hoảng vung tay xua đuổi. Cô co giò chạy thục mạng vào phòng tắm rồi đóng sầm cửa lại.
 
-Sau khi đã dỗ dành các con yên giấc, Miriam lại lén ra ngoài làm thêm một điếu thuốc nữa. Cô châm lửa rồi rón rén đi vòng qua hông nhà, tiến về phía cửa sổ phòng bếp, nơi cô có thể kín đáo quan sát Jack. Anh mở máy tính xách tay. Trong lúc chờ máy khởi động, anh bước về phía tủ rượu, với lấy chai whiskey rồi ngửa cổ tu ừng
+Cô ngồi thụp trong đó, phân vân chẳng biết phải làm sao, cho đến khi lại có tiếng gõ cửa nữa vọng vào. Thế là cô đánh liều mở toang cửa lao ra. Con ong vo ve lướt qua đầu cô, bay tót ra ngoài hành lang.
 
-Miriam châm tiếp điếu thuốc thứ hai. Hút xong, cô cẩn thận xịt lên người một chút nước hoa từ chai xịt giấu sẵn trong bụi cây rồi ung dung bước vào nhà, hướng thẳng về phía phòng bếp. Vừa thấy bóng cô tiến lại gần, Jack lập tức gập thấp màn hình máy tính xách tay xuống để vợ không nhìn thấy.
+“Tuyệt thật đấy,” cô lẩm bẩm với ôm hoa vừa nhận.
 
-“Em thơm quá,” anh tấm tắc khen.
+Hoa hồng cứ thế tiếp tục dồn dập ập đến. Cô cạn kiệt bình cắm hoa. Cô cạn kiệt cả những thứ đồ vật có thể trưng dụng tạm làm bình hoa. Bồn tắm ngập ngụa hoa hồng. Cả căn hộ nồng nặc mùi hoa hồng. Rốt cuộc, cô đành trèo ra cầu thang thoát hiểm ngồi lánh nạn cùng một cuốn sách và ly trà đá.
 
-Dẫu vậy, mùi hương ấy cũng chẳng đủ nồng nàn để cứu vãn một đêm mặn nồng giữa hai người.
+Dưới vỉa hè, Jack bất ngờ xuất hiện. Anh khệ nệ vác theo một chiếc máy cassette màu đen to tướng như chiếc cặp tài liệu, rồi giơ cao nó quá đầu.
 
-“Anh đang bận làm việc à?” Miriam hỏi.
+“Anh không biết hát đâu!” anh gào tướng lên.
 
-“Ồ ừ, rất bận,” anh đáp lại, vẫn với vẻ mặt đầy khả nghi.
+Cô bật cười rạng rỡ.
+
+Anh nhép miệng theo một danh sách toàn những khúc tình ca sến súa nhất trần đời. Anh nhảy múa. Trình độ khiêu vũ của anh tệ hại chẳng kém gì tài làm thơ. Nhưng chuyện đó thì có hề gì.
+
+Anh gửi những nụ hôn gió. Anh cúi gập người chào. Anh khẽ nghiêng vành mũ. Rồi chỉ trong một cái chớp mắt ngắn ngủi, anh biến mất tăm.
+
+*Bụp một cái!*
+
+Rồi có tiếng gõ cửa vang lên. Kế đó là tiếng cào móng sàn sạt, kèm một tiếng rên ư ử.
+
+Cô mở cửa, và đập vào mắt cô là chú chó Roxster.
+
+Dĩ nhiên khi ấy nó vẫn chưa được đặt tên là Roxster. Nó chỉ là một chú cún con, một chú chó Border Collie lông xù hai màu đen trắng. Quanh cổ nó thắt một chiếc nơ ruy băng đỏ chót. Chú cún khịt mũi hít hà cô, rồi âu yếm liếm láp cẳng chân cô. Cô cúi xuống xoa đầu nó. Một tia sáng lấp lánh chợt lọt vào tầm mắt. Cô gỡ dải ruy băng đỏ ra. Một chiếc nhẫn tuột xuống, rơi leng keng trên sàn. Viên kim cương trên mặt nhẫn sáng lấp lánh đến ngỡ ngàng. Cô nhặt nó lên rồi lồng vào ngón tay mình.
+
+Từ sau ô cửa kính thang máy, Jack dõi theo từng cử chỉ. Những giọt nước mắt hạnh phúc rưng rưng nơi khóe mắt anh. Anh đẩy cửa thang máy bước ra ngoài, rồi quỳ một bên gối xuống sàn.
+
+“Miriam…”
+
+Anh nắm lấy bàn tay cô. Và anh chẳng cần phải thốt thêm bất cứ lời nào nữa.

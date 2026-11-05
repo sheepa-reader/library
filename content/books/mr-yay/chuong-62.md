@@ -1,175 +1,97 @@
-# HỐ BÙN
+# KHÚC ĐỆM
 
-**HỌ NHẬN RA,** sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi
+# KÝ ỨC ÙA VỀ
 
-Nhân vật ấy khiến Jack thức trắng cả đêm. Rồi thêm đêm tiếp theo. Và cả đêm thứ ba, chìm ngập trong tiếng nhạc bass rền vang. Tiếng nhạc làm những ô cửa sổ rung bần bật và khiến sàn gỗ kêu lên ken kẹt.
+**BRATTY**
 
-“Jack!”
+**MỘT TUẦN TRƯỚC ĐÓ**, bố anh từng bảo: “Bradford, con nên về ăn Lễ Tạ ơn. Điều đó có ý nghĩa rất lớn đấy.”
 
-“Sao thế em?”
+Có điều, thực tế lại chẳng có chút ý nghĩa quái nào. Lúc anh có mặt đúng mười một giờ trưa, chuẩn xác theo lời họ dặn, thì trong nhà lại chẳng có lấy một ai.
 
-“Jack! Vặn nhỏ lại mau!”
+Xe của họ không ở trên lối đi. Cửa khóa then cài. Anh từng có một chiếc chìa khóa, nhưng họ đã thay sạch ổ khóa mà chẳng thèm cho anh một lý do chính đáng.
 
-“Nhưng anh cần cảm hứng!”
+Anh gọi điện cho bố. Bố không bắt máy. Anh đã cất công làm một khay đậu que đút lò (lúc mang rời khỏi căn hộ thì vẫn còn ấm nóng), nhưng nhiệt độ ngoài trời đang tụt dốc không phanh. Trời xám xịt, ảm đạm, mùa đông đã chực chờ ngay ngưỡng cửa. Bình xăng thì chẳng còn đủ để anh nổ máy sưởi ấm trong lúc đỗ chờ. Mà anh lại chẳng muốn quay xe đi về. Anh chỉ muốn có một bữa tiệc Lễ Tạ ơn đúng nghĩa.
 
-“Thứ anh cần là một cái tai nghe thì có!”
+Anh ngồi co ro trên bậc tam cấp, ôm khư khư khay đậu que đang nguội lạnh dần. Các đầu ngón chân tê cóng. Nước mũi thò lò. Ngay khi anh chạm đến ngưỡng *kệ mẹ nó, biến thôi* và vừa đứng dậy định rời đi, chiếc xe của họ mới chịu rẽ vào lối đi trước sân.
 
-Anh cần cảm hứng để phá giải Bí Ẩn Về Sự Mất Tích Của Mr. Yay. Việc tự huyễn hoặc rằng những giai điệu của chàng Rapper Mr. Yay có thể mang lại manh mối thực ra chỉ là một cái cớ vụng về. Kết quả là sáng hôm sau, Miriam bắt gặp Jack nằm bất tỉnh nhân sự trên ghế sofa, bên cạnh là một chai Hennessy rỗng tuếch.
+“Bradford. Cậu đến sớm thế,” mẹ kế của anh cất giọng. Bất ngờ chưa, bà ta chẳng hề có vẻ gì là vui mừng khi thấy mặt anh. “Đáng lẽ hai giờ chiều cậu mới phải có mặt chứ.”
 
-“Thế này thì đúng là dạt dào cảm hứng thật đấy,” cô bảo.
+Đây là một lời dối trá trắng trợn.
 
-“Cái gì cơ?” Anh dụi mắt. “Ôi trời đất ơi, sao ngoài trời lại sáng chói chang thế kia? Tắt bớt nắng đi hộ anh với.”
+Đích thị là chiêu trò thao túng tâm lý. Dù vậy, thao túng tâm lý chỉ phát huy tác dụng khi mọi chuyện cứ mập mờ, khiến nạn nhân không nhìn nhận tường minh. Bạn sẽ bắt đầu tự nghi ngờ chính trí nhớ của mình. Và Bradford đã sập cái bẫy đó không lệch một ly.
 
-Chú chó đưa mắt nhìn anh đầy vẻ cảnh giác.
+“Ồ. Chắc cháu nghe nhầm.”
 
-Trong lúc anh ngủ say, bọn trẻ đã kịp thời “xăm trổ” cho bố bằng loại bút dạ không thể xóa. Trên trán anh chễm chệ một hình đầu lâu xương chéo (dù trông méo mó chẳng khác nào một con gián dị dạng). Dọc
+“Chà, tôi cho là cậu vào nhà được rồi đấy.”
 
-ĐỜI GIANG HỒ - THUG LIFE.
+Thế là xong. Giống hệt một chú chó hoang đáng thương, anh lủi thủi theo sau họ bước vào nhà.
 
-“Bố ơi! Bố tìm thấy chú ấy chưa?”
+Bên trong sực nức mùi xịt phòng và amoniac. Tuyệt nhiên không có mùi bơ thơm, chẳng có gà tây, không có sốt thịt, cũng chẳng có bất cứ thứ gì đang nằm trên bếp. Họ hoàn toàn không có ý định nấu nướng.
 
-“Cái gì? Ai cơ?”
+Thế mà Bradford lại ngây ngô rơi tọt vào cái bẫy xưa như Trái Đất.
 
-“Mr. Yay ấy!”
+“Nhà mình nấu món gì thế ạ?”
 
-“Tụi con dán hết đống tờ rơi rồi.”
+“Ồ, chúng ta chỉ ăn salad thôi,” bố anh đáp.
 
-“Nhưng mẹ lại vừa in thêm một đống nữa kìa.”
+“Chỉ mỗi salad thôi sao bố?”
 
-“Chưa… À thì, bố có tìm thấy chút manh mối, nhưng mà…”
+“Helena phải kiêng khem ăn uống. Sẽ chẳng công bằng chút nào nếu những người còn lại được thưởng thức đồ ăn béo ngậy ngập bơ, trong khi cô ấy chỉ có thể ngồi nhìn rồi chịu đói.”
 
-“Ra ngoài rồi nói,” Miriam cắt lời. “Nào, dậy đi thôi. Bọn trẻ muốn đi trượt xe scooter.”
+“Nhưng hôm nay là Lễ Tạ ơn mà bố.”
 
-Hai đứa nhóc đã sẵn sàng với mũ bảo hiểm trên đầu: chiếc màu xanh lá có dán gai lưng khủng long bọc vảy vàng dành cho Rory, và chiếc màu tím kim tuyến lấp lánh dành cho Lindsey. Jack thều thào rên rỉ một tiếng, nhưng rồi cũng đành gượng dậy. Anh rót cho mình một ly cà phê, đeo kính râm, đội mũ xụp xuống che đi hình xăm con gián trên trán, rồi lủi thủi đi theo gia đình ra phố.
+“Con nên học cách tỏ ra có chút lòng trắc ẩn đi, Bradford.”
 
-“Thế anh đã tìm thấy gì rồi?” Miriam hỏi khi hai người thong thả bước đằng sau lũ trẻ trên đường Ravenswood Drive.
+Mẹ kế của anh đã lui về phòng ngủ, thế nên bà ta chẳng nghe thấy cuộc trò chuyện này. Bà ta cần nghỉ ngơi. Và biết đâu đấy, ở một vũ trụ khác tử tế hơn, sự vắng mặt của bà ta đồng nghĩa với việc Bradford sẽ có khoảng thời gian ý nghĩa bên bố mình. Hai người sẽ cùng nhau trò chuyện, chơi bài, ném bóng bầu dục hoặc bật tivi lên xem một bộ phim viễn Tây cũ kỹ.
 
-“Anh có được một cái tên: Ricardo Merman.”
+Thế nhưng, người bố ở thực tại này lại chỉ buông một câu: “Bố còn chừng một tiếng làm việc nữa mới xong, trước bữa tối Lễ Tạ ơn” (cứ làm như cái đĩa salad tẻ ngắt kia cũng được tính là một bữa tối thịnh soạn vậy), rồi vội vã lủi vào phòng làm việc riêng. Ông bỏ mặc Bradford đứng trơ trọi một mình trong phòng khách. Xung quanh anh toàn là đồ nội thất cấm sờ và những tấm thảm tuyệt đối không được giẫm lên; những bức tường trống trơn và những khung cửa sổ cởi rèm mở ra cảnh sắc xám xịt; những cành cây trơ trụi cùng bãi cỏ rộng thênh thang chẳng ai buồn đặt chân tới. Mục đích tồn tại duy nhất của nơi này, cũng như mọi thứ khác trong ngôi nhà, chỉ là để phô trương sự giàu có một cách kệch cỡm.
 
-“Khoan đã, em tưởng anh đã biết cái tên đó từ chủ tiệm cho thuê băng đĩa rồi chứ?”
+Anh đứng chết lặng giữa muôn vàn đắn đo. Ở lại hay rời đi? Nhẫn nhịn làm vừa lòng người khác hay đứng lên đối đầu trực diện? Ráng nuốt đĩa salad Lễ Tạ ơn vì sự hòa thuận gia đình, hay chuồn thật nhanh tới một bữa tiệc buffet bánh nướng đẫm sốt thịt? (Nếu anh có thể tìm được một quán còn mở cửa).
 
-“Thì đúng vậy, nhưng bây giờ anh có tới năm mươi hoặc sáu mươi email xác nhận điều đó.”
+Anh kiểm tra điện thoại và phát hiện ra một lựa chọn còn tuyệt vời hơn: suất chiếu lúc hai giờ của bộ phim *Peregrine* tại rạp chiếu bóng nghệ thuật trên đường Ludlow. Nơi đó nằm ngay sát vách quán Cheezy Mac Shack mở cửa 24/7, nơi phục vụ những viên mì phô mai kẹp gà tây chiên giòn đỉnh nhất trần đời.
 
-“Nhanh thế cơ à? Ghê thật đấy.”
+*Kệ xác món salad.*
 
-“Phần lớn chẳng giúp ích được gì mấy. Chỉ toàn những người hoài niệm về việc từng xem chương trình Mr. Yay, hoặc trích dẫn lại lời ông ấy, hay càu nhàu về việc tại sao người khác lại không nhớ nổi Mr. Yay trong khi đáng lẽ phải nhớ.”
+Việc gì phải bận tâm nói lời từ biệt? Dù sao họ cũng chẳng thực sự muốn anh có mặt ở đây. Bratty phớt tỉnh rảo bước ra cửa. Nhưng trước khi anh kịp trốn thoát, bố anh đã bước ra khỏi phòng làm việc.
 
-“Chà. Vậy là có rất nhiều người khác cũng nhớ…”
+“Con đi đâu đấy, Bradford?”
 
-“Và cũng có từng ấy người chẳng nhớ gì sất,” Jack đáp. “Tuy nhiên, có ít nhất năm hay sáu người khẳng
+“Con… con đi xem phim.”
 
-“Thế *ông ấy* có thật sự tồn tại không? Ricardo Merman ấy?”
+“Xem phim ư?” Bố anh cau mày. “Ồ. Ừ thì, bố đang định ra bảo con, Helena thực sự không được khỏe lắm. Mấy dịp lễ tết làm xáo trộn đủ thứ quá. Thế nên bố mẹ nghĩ, chắc đành hủy…”
 
-“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: *The Treacherous Ten, Shotgun Solstice, Connie at Crossroads*, và dĩ nhiên là cả *Peregrine* nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”
+“Vâng.”
 
-Rory cắt ngang bằng một tiếng reo phấn khích: “Bố ơi! Bố!”
+“Ừm… Bố mong sớm gặp lại con, Bradford.”
 
-Cậu nhóc cùng Lindsey đã quay đầu xe scooter, bon bon trượt xuống dốc.
+Bratty vốn định cứ thế một mình rời đi, nhưng có lẽ vẻ thất vọng trên gương mặt bố đã khiến anh mủi lòng. Hoặc có thể anh vẫn ôm ấp một niềm tin mù quáng và tuyệt vọng vào cái vũ trụ tử tế hơn kia. Hoặc giả, anh nghĩ mình đủ sức tái tạo lại thực tại này.
 
-“Bố ơi!” Lindsey gọi với lên. “Tụi con nhảy vào nghịch bùn được không?”
+“Bố nên đi cùng con,” Bratty nói.
 
-“Được không bố?” Rory hùa theo.
+“Gì cơ?”
 
-“Bùn á?”
+“Đi xem phim ấy.”
 
-Lưng chừng đồi, nơi Kate và Fred từng duy trì một thảm cỏ không một cọng cỏ dại - vốn được tưới tắm hóa chất chuẩn chỉnh đến mức hoàn hảo và cắt tỉa gọn gàng như sân golf - giờ đây đã biến thành một bãi bùn lầy lội lúc nhúc thỏ. Lũ trẻ nhà Kate và Fred, Nicky và Mabel, đang nhảy chân sáo băng qua sân với những nắm bùn nhão bét trong tay. Cả hai đứa đều lem luốc từ đầu đến chân và… hoàn toàn trần như nhộng.
+“Nhưng bố… ừm…”
 
-“Con muốn làm một chú thỏ bằng bùn!” Lindsey reo lên.
+“Nếu dì Helena bị ốm, rồi bố mẹ phải hủy tiệc Lễ Tạ ơn, thì bố định làm gì chứ? Ngồi đây một mình sao? Bố nên đi cùng con thì hơn. Rạp đang chiếu *Peregrine* đấy. Bố biết mà, bộ phim trinh thám noir kinh điển ấy? Vui lắm cho xem.”
 
-“Ờ…” Jack liếc sang Miriam. “Cảnh tượng này… hình như chưa từng có tiền lệ trong khu nhà mình.”
+Bố anh muốn đi. Trong mắt ông ánh lên một vẻ khao khát xa xăm.
 
-“Này, đừng có nhìn em,” cô phớt tỉnh đáp. “Rõ ràng lũ trẻ đang xin phép anh mà.”
+Nhưng ông đã quá, quá, quá, quá, quá thành thục trong việc từ chối những điều mình khao khát, đến mức liệu ông còn biết cái quái gì mới là thứ mình thực sự muốn nữa hay không?
 
-Jack nhún vai rồi quay sang nhìn cô con gái lớn. “Không được.”
+Đời nào ông lại đi thật.
 
-“Nhưng bố ơi, Nicky và Mabel bảo tụi
+Ông nói: “Bố phải hỏi qua ý kiến Helena đã.” Một người mà chắc chắn chẳng đời nào đồng ý, bởi lẽ làm sao công bằng cho được nếu hai bố con tung tăng đi xem phim thỏa thích, trong khi bà ta lại phải nằm nhà chịu trận vì ốm đau.
 
-“Nhưng bùn đất thì… bẩn lắm. Con có muốn bị lôi vào nhà tắm không? Con có muốn bị gội đầu không?”
+Trong lúc bố vào hỏi, Bratty đứng đợi bên cửa, chẳng buồn nuôi lấy chút hy vọng mỏng manh.
 
-Lũ trẻ chùn bước trước viễn cảnh bị gội đầu. (Tất nhiên rồi, với trẻ con thì đó là hình phạt khủng khiếp nhất trên đời). Chừng đó là quá đủ để dập tắt ngọn lửa đam mê bùn đất. Hai đứa lập tức quay đầu xe và phóng đi trên chiếc scooter.
+Ấy thế mà chỉ một phút sau, bố anh đã quay trở lại, trang bị tận răng với áo khoác, mũ, găng tay len và khăn quàng cổ. Rồi một tiếng sau, họ đã đứng mua bỏng ngô, rưới đẫm bơ lên trên, chăm chú nhìn tấm màn nhung kéo sang hai bên, màn ảnh đen tuyền chuyển sang màu xanh đại dương, và dòng chữ giới thiệu đầu phim hiện lên tên Ricardo Merman trong vai Thám tử Eddie Tides. Và ba tiếng sau đó, hai người đang chễm chệ trong góc một quán ăn gia đình, bụng căng tròn sau những viên mì ống phô mai chiên giòn, vừa nhâm nhi bia vừa rôm rả bàn luận về những ngã rẽ của cuộc đời.
 
-Mabel và Nicky vẫn đứng quan sát từ phía sau một pháo đài bằng bùn. Khi Miriam và Jack bước lại gần, Nicky trườn người bò ra ngoài.
+“Nếu bố có thể quay ngược thời gian,” Bratty hỏi, “nếu bố có thể thay đổi điều gì đó, bố sẽ làm khác đi ở điểm nào?”
 
-“Chào các cháu,” Miriam cất lời. “Hố bùn… ừm, cũng ấn tượng đấy chứ. Quần áo của cháu đâu hết rồi?”
+“Việc quái gì bố phải làm khác đi chứ?” bố anh đáp, bởi lẽ ông đã lún quá sâu vào cái tôi cố định của mình, khăng khăng bám chặt lấy niềm tin về tính độc nhất không thể lay chuyển của bản thân.
 
-“Cháu là một con rắn,” Nicky đáp bằng giọng thản nhiên. “Rắn thì làm gì mặc quần áo.”
+“Thì bởi vì… chỉ là để xem mọi thứ sẽ chuyển biến ra sao thôi. Hoặc biết đâu chừng, từng có điều gì đó bố luôn khao khát, nhưng vì trông có vẻ viển vông phi thực tế nên bố chưa bao giờ dám thực hiện.”
 
-“Mẹ cháu bảo chúng cháu nên giải phóng bản thân khỏi quần áo,” Mabel vừa chăm chú nặn một quả bóng bùn vừa bổ sung.
-
-“Vậy bố mẹ các cháu có biết hai đứa đang làm trò này ngoài này không?”
-
-“Dạ biết chứ. Ban đầu chúng cháu đòi chơi điện tử, thế là bố mẹ bắt chúng cháu phải ra ngoài này chơi.”
-
-“Chơi trong bùn đấy hả?”
-
-“Nó đâu phải bùn cho tới khi mẹ cháu lôi vòi xịt ra xịt ạ. Trước đó thì chỉ là đất thôi.”
-
-“Em thấy chưa?” Jack hào hứng nói khi rời khỏi nhà Kate và Fred, rảo bước theo sau các con dọc con phố. Sự phấn khích dường như đã giúp anh đẩy lùi sạch sẽ cảm giác nôn nao sau cơn say. “Đó chính xác là những gì anh muốn nói: Có một thế lực to lớn hơn đang vận hành!”
-
-“Một thứ gì đó… khiến người ta dính đầy bùn đất sao?”
-
-“Đó là một sự, ừm, gia tăng cường độ. Và bằng cách nào đó, theo một ngả đường nào đó, nó có liên hệ tới Mr. Yay.”
-
-“
-
-“Nhưng quay lại chuyện Mr. Yay,” Jack nói, “hay Ricardo Merman. Anh vẫn chưa tìm ra ông ấy. Ít nhất là chưa. Nhưng anh đã nhận được phản hồi từ nhà đài từng được cho là phát sóng chương trình đó.”
-
-“Đài nào thế, PBS à?”
-
-“Những người liên lạc với anh dường như đều nghĩ vậy. Thế nên anh đã liên hệ với nhà đài và nối máy được với một phụ nữ có quyền truy cập vào toàn bộ kho lưu trữ các chương trình cũ. Kiểu như, những thứ từ thời trước khi có truyền hình trực tuyến ấy.”
-
-“Bởi vì rõ ràng là bây giờ nó chẳng hề được chiếu trực tuyến ở bất cứ đâu.”
-
-“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình *The Adventures of Mr. Yay* không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”
-
-“Cô ấy không tìm thấy chúng à?”
-
-“Cô ấy không tài nào tìm thấy,” Jack nói. “Nên anh mới hỏi liệu cô ấy có thể rà soát bất cứ thứ gì khác liên quan đến Mr. Yay trong kho lưu trữ của nhà đài hay không, nhưng kết quả y như cũ.”
-
-“Không một dấu vết.”
-
-“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất *The Adventures of Mr. Yay*.”
-
-Lũ trẻ trượt xe scooter dẫn hai người đến công viên, rồi tạt qua quán cà phê, sau đó quay trở lại đường Ravenswood Drive - nơi Kate và Fred đã nhập bọn cùng các con lăn lộn trong bùn. Nhưng chí ít thì họ không trần như nhộng. Fred để ngực trần, nhưng anh mặc một chiếc quần đay rộng
-
-“Hai người đang làm gì với cái sân nhà mình thế?” Miriam hỏi.
-
-Kate ngồi xổm xuống, dùng những ngón tay dính đầy bùn đất vuốt ve đầu một chú thỏ con. “Bọn tớ đang xây dựng một khu bảo tồn động vật hoang dã.”
-
-“Toàn bộ đều là hoa và cỏ bản địa,” Fred nói thêm.
-
-“Lũ thỏ, gấu mèo và mấy con thú nhỏ cuối cùng cũng có một ngôi nhà tử tế.”
-
-*Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao*, Miriam thầm nghĩ.
-
-Nhưng cô chỉ gật đầu và nói: “Tuyệt thật đấy!”
-
-“Bọn tôi sẽ không bao giờ phải cắt cỏ nữa,” Fred nói với Jack. “Mọi thứ sẽ phát triển tự do, theo đúng trạng thái tự nhiên của nó.”
-
-Jack nhìn Miriam. Ánh mắt anh như muốn nói:
-
-*Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?*
-
-Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.
-
-“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên *The Adventures of Mr. Yay* không?”
-
-“Ồ, có chứ,” Fred nói. “Hồi đó tôi xem suốt. Sao thế?”
-
-“Tôi chỉ… đang tiến hành một cuộc điều tra.”
-
-“Chuyện này có liên quan gì đến mấy tờ rơi đó không?” Kate hỏi. “Tớ cũng đang thắc mắc về chúng. Mr. Yay
-
-“Mẹ ơi, chú ấy là rapper đó mà,” Mabel nói. “Chú ấy bị mất tích ạ?”
-
-“Không phải Mr. Yay đó,” Jack nói. “Là người kia cơ. Trong chương trình truyền hình ấy.”
-
-“Thế thì tớ chưa bao giờ nghe nói đến rồi,” Kate nói.
-
-“Anh nói thật đấy à?” Fred cất lời với vợ. “Sao em lại chưa bao giờ nghe nói đến cơ chứ?”
-
-Kate nhún vai. “Em chịu.”
-
-“Thời chúng ta lớn lên, chương trình đó đâu đâu cũng có mà.”
-
-“Và giờ đây,” Miriam nói, “nó chẳng còn ở đâu nữa.”
+“Hừm.” Bố anh nhấp một ngụm bia. “Được rồi. Nhưng chỉ một điều thôi nhé. Mà chuyện đó cũng chẳng bao giờ thành hiện thực đâu, vì Helena, ừ thì… Nhưng nếu mọi sự khác đi, bố đã luôn muốn nuôi một chú chó.”

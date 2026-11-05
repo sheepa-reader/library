@@ -1,77 +1,161 @@
-# VƯỜN THÚ
+# CHUYẾN PHIÊU LƯU CUỐI CÙNG CỦA MR. YAY NGUYÊN BẢN
 
-**VÀO BUỔI SÁNG THỨ SÁU,** Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: *Anh đi làm sớm. Yêu em, Jack.*
+**CHẲNG MỘT AI NÓI CHO ÔNG BIẾT** chuyện họ đã mời một chú chó đến buổi ghi hình.
 
-Miriam lo cho lũ trẻ ăn uống, tắm rửa rồi sửa sang quần áo gọn gàng cho chúng. Cô đưa hai đứa đến trường. Hôm đó cô chỉ có hai lịch hẹn tư vấn, mà cả hai đều rơi vào cuối buổi chiều. Thế là cô dắt Roxster đi chạy bộ. Trên bãi cỏ trước sân nhà Kate và Fred, chen giữa những mảng sương giá dính trên ngọn cỏ
+“Lẽ ra đó phải là một bất ngờ chứ,” người đại diện phân trần. “Ông cứ diễn như thể mình bất ngờ lắm đi.”
 
-Trên đường về, cô thấy Holly đang dỡ đồ tạp hóa từ trên xe xuống. Holly vẫy tay chào.
+“Tôi không diễn được. Tôi là một diễn viên tồi tệ.”
 
-“Tớ nghĩ Kate đang gặp rắc rối lớn với lũ thỏ rồi đấy,” Miriam vừa chạy chậm lại khi tiến đến gần vừa nói.
+“Ricky này, ông thuộc hàng những nghệ sĩ biểu diễn vĩ đại nhất lịch sử truyền hình thiếu nhi đấy. Tôi tin ông thừa sức làm tốt.”
 
-“Cậu ấy *bảo* làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.
+Ông không thể. Không còn có thể nữa. Kể từ sau series phim thám tử noir *Peregrine*, ông đã thề từ bỏ thói giả vờ.
 
-“Hai hay ba con thì không sao. Đằng này những…”
+Ngay cả khi sự lựa chọn nghiệt ngã đến mức: hoặc phải diễn kịch, hoặc bị buộc bước ra ván gỗ rồi lao xuống biển cho cá mập xơi tái. Dù có bị trói gô và treo lơ lửng ngay trên hàm răng tua tủa đang chực đớp của một con cá mập trắng khổng lồ, ông cũng sẽ lắc đầu. Ông đã đánh cược cả sự nghiệp lẫn cuộc đời mình vào sự chân thật tuyệt đối. Nhiều thập kỷ trước, ông từng nhìn vào cái bản mặt tàn tạ, rỗng túi đến thảm hại của mình trong gương và tự nhủ: *Ừ, một gã kỳ quặc đấy, nhưng ít ra đó là chính mình.* Thế là ông quyết định chơi tất tay. Và kỳ lạ làm sao, canh bạc liều lĩnh ấy lại thắng lớn.
 
-“Năm mươi tư con. Cậu ấy đếm rồi. Cậu ấy vẫn đang miệt mài cho chúng ăn đấy.”
+Giờ đây, ông đã thuộc diện giàu có bậc trung, dù nhìn vẻ ngoài thì chẳng ai đoán ra nổi. Ông khoác trên mình chiếc áo len cổ lọ màu đen trơn cùng đôi giày Converse đen đã thủng cả mũi. Chiếc quần may ghép mảnh Patchwork Pants trứ danh của ông đã được nâng cấp (các ô vuông đa sắc từng rách bươm và bạc thếch suốt những năm tháng lênh đênh trên biển giờ đây đã phẳng phiu, tươi tắn). Ông để bộ râu dài xồm xoàm bạc trắng. Gương mặt ông trông vẫn trẻ hơn cái tuổi bảy mươi tám, bất chấp nửa đời người phơi mình dưới nắng gió đại dương. Ông sống an nhàn trong căn cabin gỗ trên rặng núi Blue Ridge. Khu rừng quanh nhà nhung nhúc gấu, thỏ, gà tây hoang cùng lũ hươu nai. Bầu trời nơi đây bao la vô tận. Thỉnh thoảng, ông lại cuốc bộ lên đỉnh ngọn núi nhỏ của mình, phóng tầm mắt ngắm nhìn thế giới bao la, rồi cảm nhận mặt đất dưới chân dập dềnh chao đảo hệt như trên con tàu năm xưa - con tàu SS *Deliverance*.
 
-“Lũ thỏ ở đâu ra mà lắm thế?”
+Ông chưa từng trang điểm khi ở trên tàu, ngoại trừ một đường viền mắt đen tuyền nhằm giảm độ chói của ánh nắng. Thế nhưng tại đây, trong phòng hậu trường của trường quay *The Whimsy Hour*, ông đành ngồi im lìm để chuyên viên trang điểm mặc sức chấm phấn, dặm cọ và bôi trét lên mặt mình.
 
-“Tớ nghĩ chúng ra đời theo cách tự nhiên thôi.”
+“Tôi nhớ ra bác từ trước cả khi bác làm chương trình này đấy,” chuyên viên trang điểm lên tiếng. Bà đã đứng tuổi, cũng xấp xỉ tuổi ông. “Phim *The Treacherous Ten*. Phim *Shotgun Solstice*. Cả phim *Connie at Crossroads* nữa. Anh trai tôi mê phim viễn tây lắm. À, còn phim *The Lucky and Unlucky*, đấy là bộ phim ruột của anh ấy.”
 
-“Thế thì, ừm, nhanh thật đấy.”
+“Cũng là phim ruột của tôi đấy,” ông đáp. Nhưng thực ra ông chưa từng ưa nổi nó. Ông toàn phải đóng vai phản diện thô bạo - một kẻ chuyên khơi mào ẩu đả, kẻ nổ súng trước rồi mới hỏi sau. Ông luôn cảm thấy ngột ngạt, tù túng, bất chấp những đồng cỏ mênh mông cùng bầu trời lồng lộng trên màn ảnh.
 
-“Người ta chẳng phải tự nhiên mà có câu so sánh ‘nhanh như thỏ đẻ’ đâu. Cậu ấy còn cho cả gấu mèo ăn nữa cơ.”
+Chuyên viên trang điểm chải một lớp sáp dưỡng chống xơ rối lên tóc và râu của ông. Bà lùi lại một bước, ngắm nghía vẻ hài lòng: “Rất bảnh bao. Trông bác trẻ ra đến hai mươi tuổi đấy.”
 
-“Thật sao?”
+Và tất nhiên, cũng giả tạo bấy nhiêu.
 
-“Thật mà. Nhưng nói nghiêm túc nhé… tớ có chuyện này nhất định phải nói với cậu.”
+Một Ricardo Merman chân thật vốn chẳng màng đến vẻ bề ngoài. Điều ông quan tâm duy nhất là lướt đi êm ả qua dòng đời, vốn đòi hỏi ông phải điềm nhiên chấp nhận những thứ bản thân không thể thay đổi. Chẳng hạn như việc trang điểm trước giờ lên sóng.
 
-“Chuyện gì thế?”
+Hoặc như căn bệnh ung thư đã tự tiện định đoạt rằng đã đến lúc phải khai tử chương trình truyền hình thiếu nhi *The Adventures of Mr. Yay*.
 
-Holly thở dài: “Sáng nay, trên đường từ siêu thị Value Valley về, tớ thấy Jack. Tớ nghĩ là vậy. Tớ không xuống xe nói chuyện, nhưng tớ thề đúng là Jack.”
+Bởi lẽ, làm sao ai đó có thể hóa trị giữa biển khơi?
 
-“Ở đâu?”
+*Ông có muốn sống tiếp không, ông Merman?*
 
-“Trong xe của anh ấy. Nhưng trông như thể anh ấy đang ngủ.”
+Ông muốn chứ. Khao khát đến cháy bỏng là đằng khác.
 
-“Anh ấy ngủ trong xe sao? Cậu có chắc đó là anh ấy không?”
+Bây giờ ông đã thấy khỏe hơn nhiều. Nhờ nhiều năm trôi qua kể từ đợt hóa trị cuối cùng, ông dường như đã lấy lại sức vóc tráng kiện. Khối u đã teo nhỏ lại.
 
-“Gần như chắc chắn. Tớ nhận ra chiếc xe của Jack mà. Với lại anh ấy còn đội cái mũ fedora đó nữa. Suýt nữa tớ đã tấp xe vào gõ cửa kính. Nhưng tớ không muốn anh ấy biết là tớ dòm thấy.”
+*Về cơ bản là biến mất hoàn toàn rồi. Ông thấy chưa? Xin chúc mừng ông.*
 
-“Xe của anh ấy đỗ ở đâu?”
+Ông đã đặt tên cho khối u là *Boris*, cốt để bản thân bớt căm ghét nó. Đơn giản vì ông không muốn thù ghét những gì mình chẳng thể đổi thay. Ông không thể nào ghét bỏ nó nếu nó sở hữu một cái tên, nếu nó chính là một phần cơ thể ông.
 
-“Ngay gần đây thôi. Gần cái quán cà phê hôm nọ bọn mình bám theo anh
+Thế nhưng *Boris* không hề biến mất.
 
-“Có chuyện gì xảy ra thế?”
+*Boris* chỉ vừa chìm vào giấc ngủ đông (một giấc ngủ kéo dài hàng tháng, hàng năm, hoặc có khi hàng thập kỷ). Tương lai quả là một thứ khó nắm bắt, tựa như dòng nước trôi tuột khỏi kẽ tay.
 
-“Chỉ là… tai nạn lúc chơi golf thôi.”
+Trở lại với thực tại rộn ràng náo nhiệt, ai đó cài một chiếc micro nhỏ lên áo sơ mi của ông. Ông thử giọng. Ông uống một ngụm nước chanh. Ông rảo bước đi qua đi lại. Bàn tay bắt đầu rịn mồ hôi và nhịp tim đập dồn như muốn mách bảo rằng ông đang vô cùng căng thẳng. Đáng lẽ ông không nên lo lắng như thế sau hơn năm thập kỷ gắn bó với phim ảnh lẫn truyền hình. Ấy thế mà ông vẫn cảm thấy bất an khôn nguôi, tựa hồ cơ thể đã linh cảm được điều gì đó bất thường sắp sửa xảy đến.
 
-Miriam chạy thục mạng về nhà. Cô gọi vào điện thoại di động của Jack, nhưng anh không bắt máy. Bỏ cả tắm rửa, cô vội vàng lao lên xe rồi phóng thẳng tới quán cà phê nơi Jack từng gặp cô nàng tóc vàng hoe hoạt bát nọ. Đúng như lời Holly, chiếc xe của Jack đang đỗ ngay vị trí được miêu tả.
+“Ngài Merman đã sẵn sàng chưa?”
 
-Nếu ban nãy Jack có ngủ gật thì bây giờ anh đã thức. Cửa kính xe đang hạ xuống. Động cơ vẫn nổ rì rào. Những làn khói khí thải carbon monoxide phả ra lững lờ từ ống xả. Radio trên xe đang phát nhạc jazz (đoạn dạo nhạc ngắt quãng giữa bản tin mười giờ và mười một giờ). Lúc này là mười giờ năm mươi chín phút. Jack ném thứ gì đó ra ngoài cửa sổ xe. Ngay sau đó, anh kéo kính lên rồi nhấn ga phóng đi.
+“Sẵn sàng như một con cá đá.”
 
-Cô không kịp nhìn xem anh vừa vứt thứ gì, đành vội vã bám đuôi theo anh. Có vẻ như anh chẳng hề để ý. Cô theo chân chiếc xe qua ba khúc rẽ phải, quay trở lại Đường Ravenswood, vòng qua một khúc quay đầu và đi qua hai giao lộ khi đèn đang vàng. Rồi anh tấp xe vào lề, dừng lại trước Trung tâm Phát triển Trẻ thơ Toddlin’ Tots. Trường mẫu giáo của Rory.
+Ricardo Merman sải bước ra sân khấu. Ban nhạc ngẫu hứng lập tức tấu lên giai điệu chào sân - bản phối đậm chất jazz lấy từ khúc dạo đầu của chương trình *The Adventures of Mr. Yay*, một trong những chương trình truyền hình thiếu nhi được yêu thích nhất mọi thời đại.
 
-Jack đỗ xe. Anh bước ra. Anh đi vào trong. Rồi anh trở ra cùng Rory. Anh thắt dây an toàn cho Rory ở ghế sau rồi nhấn ga đi tiếp. Miriam bám theo
+Ricardo Merman vốn định học theo kiểu chào sân của mấy vị khách mời talkshow mà ông vẫn xem trên tivi. Thế nhưng, một sự thôi thúc bất chợt bỗng xâm chiếm tâm trí ông. Ông xoay người một vòng, lắc lư đôi vai, nhảy chân sáo tiến về phía người dẫn chương trình rồi cúi đầu chào. Tiếp đến là một cái bắt tay, và sau cùng là một cái ôm vô cùng nồng nhiệt.
 
-Anh đang bắt trộm các con.
+“Ngài Ricardo Merman.” Người dẫn chương trình ôm đáp lại ông. Cậu chàng này kém ông tới bốn mươi tuổi. Hồi còn bé, cậu từng xem ông trên tivi, và nguồn cảm hứng ấy từng thôi thúc cậu nuôi ước mơ trở thành một huấn luyện viên cá heo (một mục tiêu nghề nghiệp mà cha mẹ cậu nhất quyết cho là hão huyền). Thế là cậu đành rẽ hướng sang làm truyền hình. “Thật là một vinh hạnh lớn lao khi được đón tiếp ngài tại *The Whimsy Hour*.”
 
-Một viễn cảnh kinh hoàng hiện lên trong đầu cô: Jack lái xe đưa bọn trẻ đi mất, đến một nơi cô chẳng thể nào tìm thấy. Anh sẽ bắt các con phải chịu đựng cuộc sống với những chiếc giường nhà nghỉ mốc meo bọc chăn nỉ cứng ngắc, những món bánh mì kẹp ăn sáng hâm bằng lò vi sóng mua ở trạm xăng, những trò chơi đấm xe bọ rùa punch-buggy bất tận, cùng một khoảng trống không gì lấp đầy được nơi lẽ ra phải có Mẹ. Còn cô thì chịu cảnh cô độc một mình.
+“Được có mặt ở đây là một phước lành đối với tôi.”
 
-Cô nhấn ga phóng vụt đi bám sát họ. Xuyên qua thành phố suốt mấy dặm đường, cô liên tục bám theo. Cô tự dặn lòng hết lần này đến lần khác rằng viễn cảnh đó hoàn toàn vô căn cứ. Jack sẽ không bao giờ làm thế. Anh không đời nào làm vậy. Cô hiểu anh mà. Cô hiểu Jack.
+“Tôi nghe nói dạo này ngài đã trở thành một người chỉ quen sống trên đất liền rồi.”
 
-Cô *đã từng* hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?
+“Trái tim tôi thì vẫn luôn thuộc về biển cả.”
 
-Anh lái xe hướng về phía trung tâm thành phố. Cô có thể
+“Thưa quý vị khán giả, xin nhiệt liệt chào đón vị khách mời đầu tiên của chúng ta hôm nay, ngài Ricardo Merman! Hầu hết quý vị đều biết đến ngài qua danh xưng Mr. Yay trong chương trình truyền hình thiếu nhi đã gắn bó suốt nhiều năm trời mang tên *The Adventures of Mr. Yay*.”
 
-Jack ngoặt gấp sang phải, đi theo hướng ngược lại với trung tâm. Anh lái xe qua vài dãy nhà dân cư. Rồi anh rẽ vào bãi đỗ xe của sở thú.
+Người dẫn chương trình bắt đầu điểm lại những chuyến phiêu lưu kỳ thú: các bến cảng, hải đảo, đô thị cho đến tận miệng núi lửa mà con tàu SS *Deliverance* cùng thủy thủ đoàn từng kinh qua; một đoàn thuyền viên muông thú liên tục thay đổi dưới sự dẫn dắt của chàng thuyền phó Mr. Yay đầy bí ẩn và Thuyền trưởng Barksford lừng danh; những món ăn kỳ lạ họ từng nếm thử; những cơn bão tố họ từng kiên cường vượt qua; cùng niềm đam mê bất tận dành cho sự vui vẻ, tính phiêu lưu, lòng chân thật và đức kiên trì bất khuất.
 
-Miriam giảm tốc độ rồi rẽ vào sau anh. Jack đỗ xe. Cô cũng đỗ lại, khoảng cách đủ xa để anh không nhận ra nếu không cố tình ngoái nhìn xung quanh. Rồi Jack đưa bọn trẻ ra khỏi xe và dẫn chúng đi vào sở thú.
+Trên màn hình hiện ra những đoạn trích cũ: bữa tiệc luộc tôm hùm nơi chú báo đốm đột nhiên quyết định ăn chay; vụ đắm tàu ở quần đảo Galápagos; hay tập phim chú hươu cao cổ tập bơi. Trái tim Ricardo Merman đập rộn ràng hơn, chính ông cũng chẳng hiểu tại sao. Nhưng đó quả là một chuỗi ký ức hoang dại và mờ ảo xiết bao. Một cuộc đời thật đáng sống.
 
-Cô không đi theo họ vào trong. Thay vào đó, cô tiến lại gần chiếc xe của anh.
+“Nhưng trước khi trở thành Mr. Yay,” người dẫn chương trình quay sang hỏi, “ngài từng là một diễn viên điện ảnh. Ngài từng tham gia các tác phẩm như *Canyon of Arrows, Outlaw Forever, With Love, Deadhand Diego*, đấy là mới chỉ kể sơ sơ vài tên tuổi. Rồi đùng một cái, ngài lại tạo ra một bước ngoặt quyết liệt đến vậy. Điều gì đã truyền cảm hứng cho ngài? Liệu có biến cố nào chăng? Ngài có thể chỉ ra chính xác khoảnh khắc ngài quyết định: *Được rồi, mình sẽ dứt áo với phim viễn Tây. Mình sẽ làm chương trình này. Mình chính là Mr. Yay* không?”
 
-Cô thử mở cửa. Anh đã khóa xe, mà cô lại không mang theo chìa khóa dự phòng. Cô ghé mắt nhìn qua lớp kính vào bên trong. Bộ vest của anh treo trong túi nilon giặt khô ở ghế sau. Mấy ly cà phê rỗng chất đống trên sàn xe phía ghế phụ. Và trên ghế xuất hiện một cuốn tiểu thuyết.
+Ricardo Merman vuốt chòm râu của mình. Cử chỉ ấy khiến ông trông như thể đang trầm ngâm suy tư dữ dội. Nhưng thực ra, ông nhớ lại khoảnh khắc ấy rõ mồn một.
 
-*Cái chết lịch lãm.*
+Hồi bé, ai nấy đều bảo ông là đứa trẻ kỳ quặc (như thể đó là tật xấu đáng chê trách). Ông toàn nuôi những con thú cưng lập dị: một con nhện, một con sóc, một chú chó mù và một con chuột cống chỉ có hai chân. Lên đại học, ông chọn học hai ngành chẳng mấy liên quan là triết học và sân khấu. Kế đó, ông khăn gói chuyển đến Los Angeles để thử vận may đóng phim, đồng thời kiếm thêm bằng công việc tại một xưởng chế biến hải sản. Những lúc rảnh rỗi, ông lại cặm cụi bên chiếc máy may. Ông tự tay may cho mình một chiếc quần ống rộng chắp vá từ vô số mảnh vải sặc sỡ, trông chẳng khác nào một tấm chăn chùm quanh hai chân. Đã có lần ông mơ thấy mình đang nhảy múa dọc khắp boong tàu, vạt quần rực rỡ tung bay theo từng nhịp bước, rồi ông chuyện trò với lũ trẻ và dặn chúng rằng lớn lên cứ việc sống đúng là mình, chỉ cần là chính mình thôi, bởi trên đời này chẳng có ai tuyệt vời hơn bản thân chúng cả.
 
-Trông qua trang bìa, đó có vẻ là một cuốn tiểu thuyết trinh thám.
+Thế nhưng, chính ông lại luôn cảm thấy lúng túng và vụng về trong cái vỏ bọc kỳ quặc ấy của bản thân.
+
+Rồi ông cũng có một vai diễn bước ngoặt: gã phản diện trong *Sundown Saddle*. Suốt một thập kỷ sau đó, ông chuyên trị các vai thổ phỉ, cướp đường và những gã bặm trợn, tàn nhẫn. Ông tự ép bản thân phải trở nên gai góc. Ông hút hai bao thuốc mỗi ngày, nốc rượu whiskey như nốc nước lọc, và gương mặt thì liên tục ăn đấm đến tím tái. Ông tự nhủ đây chính là con người mà mình cần trở thành. Người đại diện, đồng nghiệp lẫn người hâm mộ đều gật gù đồng tình.
+
+Cho đến một ngày, thị hiếu thị trường xoay vần. Các hãng phim đồng loạt quay lưng với thể loại viễn Tây, túi tiền của ông cạn sạch, và ông đành nhận vai diễn cuối cùng trong sự nghiệp, một dạng vai hoàn toàn khác biệt: Thám tử Eddie Tides trong bộ phim *Peregrine*.
+
+Nhiều thập kỷ sau, tác phẩm ấy trở thành một bộ phim kinh điển được giới mộ điệu hết lời tôn sùng. Dĩ nhiên, đó là chuyện của vài mươi năm sau, chứ vào thời điểm mới công chiếu, *Peregrine* lại là một quả bom xịt thảm hại tại các phòng vé.
+
+Đến tuần tiếp theo, một chuỗi biến cố bi kịch lẫn cơ hội dồn dập ập xuống đầu ông cùng một lúc: một tờ giấy thông báo đuổi khỏi nhà trọ, một lời mời làm diễn viên đóng thế, một chiếc ắc quy ô tô chết ngắc, một giấy báo trúng tuyển chương trình thạc sĩ kịch nghệ, và một chuyến ghé thăm bất ngờ từ người bạn cũ vừa chân ướt chân ráo vào làm cho đài truyền hình PBS.
+
+Dù sao thì ông vẫn còn quyền lựa chọn. Đơn giản vì đó quả là một ân huệ lớn lao - thứ mà không phải diễn viên hết thời nào cũng có may mắn sở hữu.
+
+Ông lỡ làm mất ví. Ròng rã ba ngày trời, thực đơn duy nhất của ông là cá ngừ đóng hộp trong lúc khắc khoải chờ thẻ ngân hàng mới gửi tới. Sang ngày thứ ba, ông cảm thấy kiệt sức trước áp lực của sự do dự. Ông ước gì mình có thể quay trở lại với *Peregrine*, quay về khoảnh khắc lơ lửng giữa *lúc đó* và *bây giờ*, cái thời điểm mà hiện tại vẫn còn cơ hội biến chuyển thành một điều gì đó khác biệt. Ông nhìn chằm chằm vào bóng mình trong gương. Đôi mắt ông bị lác một bên. Ông mường tượng ra bộ râu xồm xoàm mà mình có thể nuôi dài, dính đét cát biển và nước muối mặn chát. Ông vốn có những lựa chọn vô cùng an toàn, khôn ngoan và vững chãi: một công việc ổn định hoặc tiếp tục đi học. Thế nhưng, ông lại đèo bồng thêm cả cái giấc mơ điên rồ chết tiệt này.
+
+Ông tiếp tục nhìn trân trân vào chính mình trong gương, và suốt một hồi lâu, nỗi sợ hãi tột cùng bủa vây lấy ông. Ông cảm nhận rõ sức kéo cuộn trào từ những lựa chọn an toàn hơn. Bên tai ông văng vẳng lời lẽ của mọi người lớn, mọi nhà phê bình, mọi đạo diễn từng bước qua cuộc đời ông:
+
+*Cứ bám sát kịch bản.*
+
+Tất cả những lời thông thái từng trải ấy, chắc chắn là phải đúng.
+
+Đúng chứ?
+
+Ông nhìn sâu vào đôi mắt lác đang cố đảo cho thẳng của mình. Thế rồi, ngay chính khoảnh khắc ấy, ông đã đưa ra lựa chọn. Sự thật rằng mỗi một khoảnh khắc trong đời đều ngập tràn những lựa chọn giờ đây tan biến hết, nhường chỗ cho một thực tế trần trụi: chỉ có khoảnh khắc này mới là điều duy nhất đáng bận tâm. Giữ nguyên vị trí hay dấn thân nhảy vọt. Kịch bản định sẵn hay giấc mơ tự do.
+
+Ông đã vô cùng sợ hãi. Bởi lẽ, một kẻ kỳ quặc nửa thủy thủ, nửa thợ may, nửa triết gia kiêm diễn viên nghiện rượu nặng, nghiện thuốc lá với chiếc quần may ghép vụng về thì có thể cống hiến được gì cho cái thế giới vốn đã quá chật chội này?
+
+Ông đã suýt nữa quay lưng bỏ cuộc.
+
+Nhưng rồi, nơi con mắt trong gương, ông nhìn thấy một tia sáng lóe lên mà ông ngỡ như một chú cá heo đang rẽ sóng vút mình.
+
+*Dũng cảm như một chú cá heo*, ông thì thầm với chính mình. Và phần còn lại của câu chuyện đã trở thành lịch sử.
+
+“Tôi có thể nhìn thấy khoảnh khắc ấy,” ông nói với người dẫn chương trình. “Khoảnh khắc đó. Tôi nghĩ đó là giây phút mà bất kỳ ai cũng phải đối mặt. Bạn có thể chọn trở thành phiên bản được lên sẵn kịch bản của chính mình, diễn đúng vai diễn mà mọi người kỳ vọng ở bạn. Như tôi từng làm trong những năm đầu sự nghiệp. Và tôi đồ rằng, đó cũng có thể là một lựa chọn tốt. Ít nhất thì nó dễ dàng hơn đối với một vài người trong chúng ta. Hoặc bạn có thể liều mình đặt trọn niềm tin vào bản thân. Bạn có thể đón nhận phiên bản đậm chất *chính mình* nhất. Cho dù, giống như tôi, bạn là một kẻ lập dị. Mọi chuyện đã diễn ra như thế đấy. Đó là cách mà chương trình ra đời.”
+
+Người dẫn chương trình hỏi về quá trình phát triển của chương trình, những tập phát sóng yêu thích của ông, cùng cuộc sống của ông sau khi nó khép lại. Liệu ông có nhớ nó không?
+
+“Dĩ nhiên rồi.”
+
+“Còn đoàn làm phim thì sao?”
+
+“Có chứ.”
+
+“Thế còn thuyền trưởng?”
+
+“Một chú chó vô cùng ngoan. Tất cả bọn chúng đều thế.”
+
+“Ông có chú chó yêu thích nhất nào không?”
+
+“Có lẽ là chú chó husky mà chúng tôi để lạc ở Singapore. Nhưng thành thực mà nói… tôi không tài nào chọn ra được.”
+
+“Nếu tôi nói rằng hôm nay chúng tôi đã mang đến chương trình một vị khách đặc biệt ngoan ngoãn khác thì sao?”
+
+“Tôi sẽ nói là… chà. Thế thì tuyệt quá.”
+
+Ông không tài nào giả vờ ngạc nhiên cho được. Thế nhưng, nụ cười của ông là hoàn toàn chân thành khi chú chó Thuyền trưởng Barksford thứ mười một, cũng là cuối cùng, lon ton chạy ra sân khấu. Vừa nhìn thấy ông, chú chó liền lao tới đón. Ông chạy lại ôm lấy vị thuyền trưởng của mình. Họ ôm chầm lấy nhau. Thuyền trưởng Barksford liếm lên gò má bờm xờm râu ria của ông. Ricardo Merman bế bổng chú chó lên rồi xoay một vòng. Ông cảm thấy hạnh phúc vô ngần trong giây phút này của cuộc đời.
+
+Khoảnh khắc cuối cùng trước khi mọi chuyện trở nên thực sự kỳ quặc.
+
+Khán giả vỗ tay tán thưởng, người dẫn chương trình cảm ơn ông đã đến tham gia và hứa rằng ông có thể dành thêm thời gian chơi với Thuyền trưởng Barksford ở sau cánh gà. Ông đi vào hậu trường. Lòng ông bồn chồn, lo âu lẫn ngập tràn hân hoan. Rồi ông giật nảy mình khi suýt đâm sầm vào một người đàn ông bên ngoài phòng thay đồ của mình.
+
+Người đàn ông đeo một chiếc thẻ tên có dây đeo quanh cổ, nhưng Ricardo Merman không thể nhìn rõ trên thẻ viết gì. Những con chữ cứ mờ nhòe đi một cách kỳ lạ mỗi khi ông nhìn vào chúng.
+
+Người đàn ông để mái tóc dài chấm vai óng ả như bờm của một huấn luyện viên xiếc sư tử. Người ấy vạm vỡ, cường tráng, mặc một bộ jumpsuit bằng vải jean bó sát, với miếng phù hiệu thêu dòng chữ SVEN BRAWNSON.
+
+Khi người đàn ông bước ngang qua, Ricardo Merman nghe thấy tiếng leng keng hoàng kim của một chiếc chuông. Ông không thể nhìn hay nghe ra âm thanh ấy phát ra từ đâu. Có lẽ từ chính bên trong ông. Có lẽ từ khắp mọi nơi xung quanh ông. Âm thanh ấy tựa như những hạt mưa rơi trên thân tàu SS *Deliverance*, nhưng cũng giống như tiếng vọng dưới làn nước của một chú cá heo.
+
+Mọi thứ nhòa đi.
+
+Đầu óc Ricardo Merman quay cuồng chếnh choáng. Đôi mắt ông nhòe nước. Ông chớp mắt liên tục, cố vắt nốt mấy giọt lệ ra ngoài. Ông đảo tròng mắt liếc dọc liếc ngang rồi xoay phắt người lại. Người đàn ông mặc bộ áo liền quần bằng vải bò đã biến mất từ lúc nào. Thay vào đó, ngay giữa hành lang trống huơ trống hoác lại hiện ra một cái hố xoáy cuộn tròn. Xuyên qua miệng hố ấy, ông nhìn thấy một người đàn ông khác. Một người đàn ông sở hữu bộ râu tỉa tót gọn gàng, khoác trên mình chiếc áo sơ mi dạ kẻ ô cùng quần kaki. Một người đàn ông đang sống trong căn nhà tăm tối và quạnh quẽ (loại nhà cửa kiểu gì cũng khiến người ta cảm thấy chạnh lòng). Một người đàn ông có làn da trông trẻ trung hơn, nhưng đôi mắt lại đơm đầy vẻ phờ phạc, rệu rã. Một người đàn ông - vốn dĩ chính là bản thân ông.
+
+Ông chẳng hiểu vì sao mình lại biết chính xác cần phải làm gì.
+
+Nhưng quả thực ông biết rõ mười mươi.
+
+Ông không hề sợ hãi. Dù gì thì ông cũng đã dành trọn bốn mươi năm qua của cuộc đời mình chỉ để sống mà chẳng biết sợ hãi là cái gì.
+
+“Cậu không cần phải sợ đâu,” ông cất lời với người đàn ông kia (vốn cũng chính là bản thân mình). Ông vươn tay ra, tiến thẳng vào lòng cái hố xoáy cuộn. Vô số chú cá bạc bé li ti bơi lượn quanh ông như một đàn sao lấp lánh.
+
+“Cậu hoàn toàn có thể là chính mình,” ông lại nói. Xung quanh ông, tiếng sóng vỗ bờ gầm gào, tiếng hải âu réo rắt, cùng từng luồng gió rít xoáy cuồn cuộn vây lấy bên tai.
+
+“Nắm lấy tay tôi nào,” ông nhắn nhủ với chính bản thân.
+
+Ricardo Merman gật đầu. Cả hai bàn tay vươn ra, rồi đan chặt vào nhau. Một luồng sáng chói lòa bùng nổ - rực rỡ đến lóa mắt tựa vụ nổ siêu tân tinh - diễn ra nhanh tới mức chẳng một ai kịp trông thấy.
+
+Thế rồi tất cả: vầng sáng chói lọi, cái hố xoáy cuộn, và cả Ricardo Merman, đều hoàn toàn bốc hơi.

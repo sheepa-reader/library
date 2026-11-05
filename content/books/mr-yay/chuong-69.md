@@ -1,87 +1,97 @@
-# HỒI TƯỞNG
+# SẮP ĐẾN GIỜ DIỄN
 
-**M**
+**CHIẾC XE BUÝT LƯU DIỄN** bon bon về hướng đông từ Los Angeles, băng qua Las Vegas, Salt Lake, Denver, luồn sâu xuống tận ruột gan Texas, rồi ngược lên phía bắc đến Milwaukee, Chicago. Và thế là họ đã về đến nhà.
 
-**MỘT ĐỨA BÉ** là một phép màu.
+Dọc đường, họ gom thêm đủ mọi thành phần lang thang: vài chú chó, mấy anh chàng rapper, mấy DJ, các fan hâm mộ cuồng nhiệt, YouTuber, người chơi KlipSwatch, cùng các bậc phụ huynh và ông bà của những đứa trẻ mà ước mơ duy nhất trong đời là trở thành Thuyền trưởng Barksford. Đó là chưa kể đám bạn-của-bạn-của-bạn Tommy đi nhờ xe buýt, hoặc lẳng lặng bám đuôi lướt theo sau. Mọi sinh linh đều được chào đón (hệt như trong chương trình truyền hình thiếu nhi *The Adventures of Mr. Yay*). Họ gặp một người phụ nữ vẽ chân dung họ trên boong tàu SS *Deliverance*. Họ gặp một đoàn kịch diễn lại những tiểu phẩm còn sót lại trong ký ức từ show truyền hình vốn đã bốc hơi không dấu vết. Họ ghé qua một bữa tiệc hậu lưu diễn chật ních những “Mr. Yay” - hàng trăm con người cùng diện chiếc quần nhung may ghép ô vuông sặc sỡ và dán râu giả. Họ chơi một buổi nhạc ngẫu hứng ngập tràn tinh thần nổi loạn trên con thuyền do một người đàn ông mặc bộ đồ chó làm thuyền trưởng. Họ gom thêm vô số chú chó: những chú cún rong ruổi từ thành phố này sang thành phố khác, từ buổi diễn này sang buổi diễn khác, lẫn những chú chó chỉ xuất hiện chớp nhoáng với tư cách khách mời đặc biệt đúng một lần rồi lại tung tăng về nhà. Cuối cùng, họ dừng lại tại một ngã tư ở quê nhà, đơn giản vì Tommy nhìn thấy một tấm biển dán trên cột điện thoại ngoài cửa sổ.
 
-Một đứa bé là món quà đến từ Thượng đế.
+**CÓ AI THẤY MR. YAY KHÔNG?**
 
-Một đứa bé chính là lớp vữa hồ: cha mẹ là những viên gạch, và nhờ có nó, họ được gắn chặt vào nhau.
+Tấm biển hỏi như thế. Trông nó chẳng khác nào tờ rơi tìm thú cưng thất lạc, có điều thay vì in hình một chú chó hay mèo, nó lại in bức vẽ Mr. Yay và Thuyền trưởng Barksford đang lênh đênh trên con thuyền của họ.
 
-Một đứa bé là niềm vui thuần khiết, cho đến khi nó thức giấc giữa đêm và bắt đầu gào khóc. Đó là thứ âm thanh lập tức châm ngòi cho sự hoảng loạn, chứng hoang tưởng, cùng nỗi sợ hãi ngày một ngấm sâu rằng từ nay trở đi, sẽ chẳng còn đêm nào bạn được trọn giấc bình yên.
+Chiếc xe buýt lưu diễn đỗ xịch trước căn biệt thự đồ sộ — nơi lạnh lẽo, thênh thang như hang động và trống trải vô hồn, nơi Bradford Pierson thời thơ ấu từng thấm thía sâu sắc rằng mình là một đứa trẻ hư đốn đến nhường nào. (Đúng nghĩa một thằng nhãi ranh). Trời đã về đêm, đường phố tối om. Những cành cây đen thẫm của khu nhà giàu vươn dài về phía bầu trời lốm đốm ánh vàng. Mặt trăng trắng ngời như một viên kim cương. Sau cả ngày trời mưa như trút, giờ đây chỉ còn vài hạt mưa rả rích rơi xuống từ một đám mây đi ngang qua.
 
-Nhưng tiếng khóc ấy chẳng hề đánh thức Jack. Ồ không, tuyệt nhiên không. Khi chiếc máy báo khóc rè rè rồi bùng lên những tiếng gầm nheo nhéo đầy tuyệt vọng, anh thậm chí còn chẳng buồn nhúc nhích. Anh nằm ngủ với hai tay giang rộng quá đầu, trong tư thế kiêu hãnh của một kẻ chiến thắng.
+Đèn pha rực sáng. Đâu đó, tiếng chuông báo động rú lên rền rĩ. Một người hàng xóm cẩn tắc vô áy náy đã gọi điện cho cảnh sát, cốt để trình báo về sự xuất hiện bất ngờ tại khu phố thanh bình và khuôn phép đến tẻ nhạt của họ: một chiếc xe buýt lưu diễn, cả đoàn ô tô nối đuôi, cùng hàng chục thanh niên trai gái diện những chiếc quần thùng thình lòe loẹt giống hệt nhau. Lúc này, cả hội đang tụ tập ngay giữa con đường nội khu, vừa chuyền tay nhau những chai rượu bọc trong túi giấy nâu, vừa đá qua đá lại một vật thể trông giống quả bóng vải một cách vô cùng đáng quan ngại.
 
-Miriam tắt máy báo khóc. Cô khó khăn lăn người rời giường. Mỗi cử động nhỏ nhất đều giằng xé vào vết khâu, một đường rạch thẳng tắp gọn gàng nơi người ta rạch bụng cô lôi đứa bé ra. Từng cử động đều là một sự đày ải đúng nghĩa.
+Trong khi đám tùy tùng hào hứng chơi đùa, uống rượu, dắt chó đi dạo và duỗi thẳng đôi chân mỏi nhừ sau chuyến đi dài, Bratty và Tommy vẫn ngồi lại uống bia trên xe buýt.
 
-Nhưng đó là một đứa bé cơ mà!
+*Rượu tăng dũng khí*, Tommy gọi món đồ uống ấy như thế.
 
-Rory sở hữu một chỏm tóc đen nhánh, kiểu tóc mohawk tự nhiên của trẻ sơ sinh. Cậu bé có đôi chân tí xíu luôn miệt mài đạp đạp như đang đua xe, đôi tay vung vẩy trong bộ đồ ngủ gắn liền bao tay để tránh tự cào vào mặt. Và đặc biệt, cậu nhóc có năng khiếu la hét. Cậu có thể gào khóc liên tục mười, hai mươi, ba mươi phút liền không cần nghỉ lấy hơi. Đúng là niềm vui thuần khiết.
+Tất nhiên, Bratty vẫn chưa sẵn sàng.
 
-Cậu bé cứ gào khóc cho đến khi cô nhét đầu ngực đang đau nhức của mình vào miệng con. Như một phép thuật, cậu nín bặt. Đôi chân cậu
+“Này bạn già. Lỡ như tao cứ thế… kiểu như không bao giờ nói chuyện với họ nữa thì sao?”
 
-*Bao lâu thì trẻ sơ sinh mới ngủ xuyên đêm?* Cô gõ dòng tìm kiếm trên mạng, lòng sốt ruột muốn cái giai đoạn ngắn ngủi trong kiếp sống ấu thơ của Rory mau chóng khép lại. Cô muốn nhảy cóc thời gian về phía trước. Thế nhưng, nhảy tới đâu mới được cơ chứ?
+“Mày hoàn toàn có thể làm thế. Có khi mày nên làm thế thật. Nhưng giờ mày đã ở đây rồi.”
 
-Cậu nhóc bú xong. Cô thay tã, đung đưa, hôn con, quấn chăn ủ ấm rồi đặt cậu bé vào nôi.
+“Mẹ kiếp.” Anh ực một hơi cạn sạch lon bia rồi vứt vỏ lon đi. Anh móc dây xích vào cổ chú chó của mình. Anh, Tommy cùng chú chó sải bước xuống xe buýt, đi băng qua bãi cỏ ướt sũng.
 
-*Cứ để con khóc cho đã đời*, cô thầm nghĩ, sẵn sàng tinh thần mặc kệ con gào lên. Thế nhưng cậu bé lại không khóc. Thậm chí chẳng thút thít lấy một tiếng.
+Cửa chính căn nhà bật mở. Bố của Bratty bước ra ngoài.
 
-Cậu bé thật ngoan. Lindsey cũng từng ngoan như thế. Con bé chưa từng chọc ngón tay vào ổ điện hay nhét hạt đậu vào mũi. Lindsey có thể ngủ liền một mạch mười hai tiếng, say sưa lướt qua cả những trận gào khóc kinh thiên động địa của Rory. Dù vậy, Miriam vẫn quyết định bước sang phòng kiểm tra con gái, chỉ để nhìn thấy lồng ngực con bé nhấp nhô phập phồng theo từng nhịp thở, và để tự nhắc nhở bản thân rằng những điều tốt đẹp trên đời này có thể tuyệt vời đến nhường nào.
+“Bradford? Bradford đấy phải không?”
 
-Khi Miriam quay
+“Chào bố!”
 
-Cô cảm thấy một cơn hoảng loạn trào dâng.
+Bố anh để cửa mở toang, chậm rãi tiến lại gần với đôi tay khoanh trước ngực và cặp chân mày chau lại.
 
-“Anh đang làm gì thế? Có chuyện gì vậy?”
+“Bố đã dặn con thế nào về việc đột ngột ghé qua mà không báo trước rồi?”
 
-“Công việc.”
+“Con biết rồi. Dì Helena không thích điều đó. Nhưng mà…”
 
-Lại hoảng loạn.
+“Thế còn con chó kia ở đâu ra? Rồi tất cả mớ hỗn độn này rốt cuộc là có ý gì?” Bố anh chỉ tay về phía đoàn xe.
 
-“Cái gì? Không thể được.”
+Phía sau, dàn Mr. Yay đã lôi trống bongo ra gõ tưng bừng. Một chiếc xe cảnh sát vừa tấp vào lề, hai viên sĩ quan bước xuống, và ngay lập tức có ai đó chìa chiếc mũ thuyền trưởng ra mời họ đội.
 
-“Văn phòng vừa gọi cho anh. Anh phải qua đó.”
+“Cái trò nhốn nháo này…”
 
-“Họ gọi cho anh á?”
+“Thì… th, thế nên…” Bratty lắp bắp. Nỗi sợ hãi ngày cũ lại cuồn cuộn trào dâng khắp người anh.
 
-“Luật pháp có bao giờ ngủ đâu.”
+Anh nhắm mắt lại, tự dặn lòng sẽ không để nó nuốt chửng mình thêm lần nào nữa.
 
-“Mới năm giờ rưỡi sáng thôi đấy.”
+Đâu đó trong tâm trí anh, một giọng nói vang lên:
 
-“Về mặt kỹ thuật thì rõ ràng là buổi sáng rồi còn gì.”
+*Căng buồm lên hỡi chàng thủy thủ! Vượt qua muôn trùng biển mặn!*
 
-“Không. Tuyệt đối không. Thật bệnh hoạn! Anh dừng ngay cái trò bênh vực họ đi.”
+Bratty mở mắt, đứng thẳng người. Anh nhìn thẳng vào mắt bố mình, ánh nhìn kiên định: “Con đang đi lưu diễn.”
 
-“Miriam…”
+“Lưu diễn?”
 
-“Đáng lẽ anh đang trong kỳ nghỉ phép chăm con cơ mà. Hay anh quên mất rồi?”
+“Với Tommy.”
 
-“Anh không quên. Nhưng có một thương vụ lớn cả nhóm đang cố chốt, mà anh lại là người theo sát từ đầu đến cuối. Họ cần anh.”
+“Bố không hiểu nổi.”
 
-“*Mẹ con em* cần anh. *Em* cần anh.”
+“Đúng vậy. Bố chưa bao giờ hiểu cả,” Bratty nói. “Bố chỉ luôn phán xét, chứ chưa bao giờ thử thấu hiểu. Nhưng con vẫn sẽ nói cho bố biết. Tommy là Mr. Yay, rapper chính. Còn con làm nhà sản xuất, tạo nhịp beat. Bố có thể hiểu đơn giản là… cả hai chúng con đều là Mr. Yay.”
 
-“Anh biết chứ,” Jack nói. “Anh cũng đâu có ham hố gì. Nhưng nếu muốn giữ cơ hội lên làm thành viên góp vốn, anh phải tỏ ra linh hoạt và đáng tin cậy. Thế nên anh bắt buộc phải đi. Vì tương lai của chúng ta. Vì gia đình chúng ta.”
+Anh nhìn chằm chằm vào bố mình: ông Brian Pierson. Một người đàn ông già nua đáng thương với mái tóc bạc phơ, những nếp nhăn ủ rũ hằn sâu trên vầng trán, cùng bọng mắt thâm quầng phía dưới đôi mắt mệt mỏi. Người đàn ông này từng khiến anh căm ghét chính bản thân mình suốt thời thơ ấu. Thế nhưng giờ đây, khi đã trưởng thành, thứ duy nhất còn lại trong lòng anh chỉ là sự thương hại.
 
-Giọng anh đầy vẻ thuyết phục. Đến mức cô suýt nữa đã tin lời anh. Chính anh cũng tự tin vào bản thân mình như thế. Còn cô thì đã quá mệt mỏi. Đằng sau cơn hoảng loạn bùng phát ban nãy là cả một vực sâu kiệt sức thăm thẳm.
+“Nhưng Tommy là… Đó đâu phải một sự nghiệp tử tế. Thế còn việc học ở trường thì sao?”
 
-Cô chật vật trườn lại vào giường (*ôi, đau quá, đau quá*). Cô quấn chặt chăn quanh người như một chiếc kén. Cô nhìn chồng lần cuối, nhìn hình bóng anh đang hiện hữu trong khoảnh khắc này của cuộc hôn nhân. Họ vẫn bền vững mà, phải không? Cô hoàn toàn có thể lựa chọn tin vào điều đó.
+“Con bỏ học rồi. Để làm nhạc.”
 
-“Thôi được. Được rồi, Jack. Em biết việc này rất quan trọng. Nhưng
+“Cái gì? Con không thể cứ thế… Chuyện này hoàn toàn không thể chấp nhận được!”
 
-Anh cúi xuống, hôn nhẹ lên trán cô rồi tắt đèn. Cô dõi mắt nhìn anh bước ra khỏi phòng, và trong bóng tối tịch mịch, dáng hình anh bỗng trở nên thật xa lạ. Chiếc bóng đổ dài của anh trông chẳng khác nào bóng dáng của một kẻ lạ hoắc nào đó.
+“Đằng nào thì bố cũng có trả tiền học cho con đâu.”
 
-Cô nhắm mắt lại. Cô tự nhủ rằng rồi mọi chuyện sẽ ổn thôi. Anh làm mọi điều chỉ vì gia đình, đó là câu chuyện hợp lý nhất được dựng lên. Dù vậy, đôi khi một câu chuyện được vẽ ra quá thuyết phục, quá lấn át, đến mức nó che mờ đi cả sự thật trần trụi.
+“Con thật là… Bố thậm chí còn chẳng biết phải nói gì nữa! Con làm *nhạc rap* ư?”
 
-Cô cố dỗ dành giấc ngủ, nhưng khoảng trống vắng lạnh nơi vị trí của Jack vẫn hiện lên mồn một. Cô lăn người rời khỏi giường, *ôi, đau quá, đau quá*. Cô bước xuống nhà, pha một tách trà nóng rồi bật tivi lên. Chú chó Roxster ngoan ngoãn tiến lại ngồi nép bên chân cô, rồi nhẹ nhàng tựa đầu lên gối chủ. Nó thật vững chãi, bình yên và lúc nào cũng vô cùng dễ đoán. Dù thế giới ngoài kia có xoay chuyển ra sao, nó vẫn luôn là chính nó - một chú chó trung thành không bao giờ bị trói buộc bởi bất kỳ câu chuyện thêu dệt nào. Dù gì thì cô cũng yêu chú chó này, và cô cũng yêu Jack. Phải mất nhiều năm tháng nữa câu chuyện về cuộc hôn nhân hạnh phúc của họ mới rạn nứt rồi sụp đổ hoàn toàn, và cô chỉ có thể hy vọng rằng giữa đống hoang tàn ấy, vẫn còn sót lại một điều gì đó đủ kiên cường để đứng vững.
+Rap đâu phải là một kế hoạch cuộc đời. Âm nhạc, cùng lắm, chỉ nên là một thú vui tiêu khiển lúc rảnh rỗi (theo đúng quy chuẩn của gia đình Pierson). Gương mặt người bố già bừng bừng lên vì phẫn nộ. Rồi ngay phía sau ông, nơi bậc cửa, mẹ kế Helena xuất hiện. Bà ta chẳng buồn cất lời chào Bradford, chẳng ôm lấy anh, thậm chí còn chẳng thèm đoái hoài thừa nhận sự tồn tại của đứa con cừu đen trong nhà.
 
-Cô uể oải bấm qua các bộ phim và chương trình giải trí, cho đến khi một hình ảnh bất ngờ đập vào mắt: khung cảnh một chú chó
+Bà ta chỉ buông một câu ráo hoảnh: “Rap thậm chí còn chẳng phải là âm nhạc. Nó chỉ là trò lãng phí thời gian.”
 
-“Hãy là chính mình, sống thật với chính mình,” ông từng nói thế. Lại thêm một câu thơ vần vè ngô nghê như bao câu từ khác của ông - thứ có thể chẳng mang chút ý nghĩa nào, hoặc biết đâu lại chính là chiếc bình rỗng chờ người nghe tự đong đầy hàm ý của riêng mình.
+Lời bà ta lập tức nhắc ông bố nhớ ra mình vẫn còn cả một kho từ vựng để nhiếc móc: “Bà ấy nói đúng! Helena nói rất đúng. Con từng có những cơ hội thực sự, thế mà con lại chọn vứt bỏ tất cả. Để đổi lấy cái gì chứ? Rap chỉ là thứ rác rưởi thô thiển và nguy hại, với mấy tiếng bass làm nổ tung màng nhĩ người ta. Con không thể bỏ học vì một trò ngớ ngẩn đến thế được! Bố đã dặn con thế nào hả Bradford? Con bỏ đại học sao? Con nghĩ chuyện gì sẽ xảy ra hả? Cả đời con sẽ chẳng làm nên trò trống gì đâu!”
 
-“Hãy là chính mình, sống thật với chính mình.” Cô nhẩm đi nhẩm lại từng con chữ ấy trong tâm trí.
+Đúng khoảnh khắc căng thẳng ấy, chú chó Tux (hay Tux Kẻ Báo Thù, Tux Kẻ Hủy Diệt, Tux Cơn Lốc) - nãy giờ vẫn ngồi yên lành, nhẫn nại bên cạnh Bratty - hẳn đã ngửi thấy mùi đe dọa, hoặc giả tiếng trống bongo đâu đó đã khuấy động tâm trí, hay chính số phận đã thôi thúc cu cậu. Nó bật dậy, lao vụt tới nhanh đến mức dây dắt tuột khỏi tay Bratty. Nó phóng như bay qua bãi cỏ ướt sũng, băng qua một vũng bùn lớn, xông thẳng về phía Helena, miệng há to, dãi rớt lòng thòng, cất lên tiếng gầm gừ nguyên thủy tưởng như có thể làm rúng động cả căn biệt thự.
 
-Cô khơi gợi lại một mảng ký ức.
+Thế nhưng, nó không tấn công.
 
-Đó chính là Mr. Yay trên màn hình tivi thời thơ ấu của cô.
+Có lẽ bà ta chưa đủ tầm để nó ra tay.
 
-Khi ấy, ông đã nắn nót viết những dòng chữ đó lên một mảnh giấy nhỏ, rồi cẩn thận bỏ vào chiếc chai thủy tinh và niêm phong lại. Đoạn, ông ném chiếc chai xuống dòng nước dập dềnh, để nó vượt qua đại dương xa xăm và tìm đến tay người thực sự cần lắng nghe.
+Nó lách qua người bà ta, lao thẳng vào bên trong nhà.
+
+“Không! Mau ngăn nó lại! Làm gì đi chứ! Dừng lại ngay!” Helena gào thét thất thanh. Nhưng người chồng già nua, vô dụng và đáng thương của bà ta chỉ đứng chôn chân tại chỗ, chìm trong nỗi hoang mang tột độ. Vẻ mặt ông bắt đầu lộ rõ sự hối hận vì những lời cay nghiệt vừa buông ra, đành trơ mắt nhìn thảm kịch đang từng bước diễn ra trước mắt.
+
+Bratty và Tommy - với đôi giày ẩm ướt, vương vất mùi bia, mùi mồ hôi cùng mùi khói cần sa, chưa kể cái vẻ ngổ ngáo thô ráp - vốn dĩ đã là những người hoàn toàn không được chào đón tại chốn cư ngụ thanh tao của ông bà Pierson. Khi họ tiến lại gần cửa, người phụ nữ kia đã bước tới chắn đường, dù miệng bà ta vẫn không ngừng gào thét: “Dừng lại! Ngăn con chó quái quỷ đó lại ngay!”
+
+Về phần chú chó (Tux Hân Hoan, Nàng Tiên Tux Vui Nhộn, Kẻ Hủy Diệt Tuxy), cu cậu trông mãn nguyện hơn bất kỳ khoảnh khắc nào từng có trong đời. Miệng ngoác ra như đang cười rạng rỡ, lưỡi thè dài, đôi mắt ánh lên niềm phấn khích tột độ, nó phi như bay khắp căn nhà. Nó lao qua những tấm thảm trắng muốt, phóng qua lớp nệm bọc ghế tinh tươm, hào phóng đóng dấu từng vết chân bùn lấm lem lên bất cứ bề mặt nào có thể. Sau vài vòng lượn lờ dạo mát, nó lại phóng vút ra ngoài cửa, lách qua đám người, lao thẳng vào một vũng nước lớn để lăn lộn thỏa thuê, trát kín một lớp bùn tươi mới lên từng bàn chân và khắp bộ lông, rồi lại hăm hở phi ngược vào nhà lần nữa. Bratty giả vờ tìm cách bắt cu cậu lại, nhưng quỷ tha ma bắt, chú chó hớn hở ấy cứ thế luồn lách né tránh cú tóm của anh một cách cực kỳ điệu nghệ. Tommy chỉ biết đứng trố mắt rồi cười sặc sụa khi chú chó húc đổ cây đèn sàn, cắn xé nát bươm chiếc gối tựa lưng, nhai rôm rốp chiếc điều khiển từ xa bằng bộ hàm đáng nể, đoạn nhuộm bùn sình lên từng tấc không gian từ lối vào cho tới tận phòng khách.
+
+Cuối cùng, khi Tux đã quậy phá chán chê, cu cậu bèn phi nước đại ra ngoài, cẩn thận lau sạch móng trên thảm cỏ rồi trèo tót lên chiếc xe buýt lưu diễn.
+
+Nó quả là một chú chó vô cùng ngoan ngoãn (ít nhất là theo tiêu chuẩn của một nhóm nhạc rap). Và dù sao thì ngày mai, tất cả bọn họ cũng có một buổi biểu diễn lớn đang chờ đón.

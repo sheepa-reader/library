@@ -6,7 +6,7 @@
 
 “Không…”
 
-“Ông già Noel gọi hả
+“Ông già Noel gọi hả mẹ?” Rory hỏi.
 
 “Không đâu. Chỉ là một thân chủ của mẹ thôi,” Miriam đáp.
 
@@ -24,7 +24,7 @@ Miriam: *Gần đến giờ ăn tối rồi đấy.*
 
 Miriam: *Truyền thống Giáng sinh mới bắt đầu từ tối nay. Anh không được bỏ lỡ đâu đấy.*
 
-Rõ
+Rõ ràng là anh hoàn toàn có thể bỏ lỡ. Rất đỗi thản nhiên là đằng khác.
 
 Miriam cùng hai đứa con và chú chó, một con Border Collie già lông đen trắng tên là Roxster, ngồi xử lý bữa tối toàn bánh quy trước màn hình ti vi. Chúng xem tập phim đặc biệt mùa lễ hội của một bộ phim hoạt hình lũ trẻ mê mẩn, kể về một sinh vật kỳ dị trông như con mực có tài du hành xuyên không gian và thời gian. Sinh vật nọ chỉ có ba chi gắn liền vào một khối thân kiêm đầu dị hợm, điểm xuyết một con mắt to tròn đầy biểu cảm. Nó đội mũ ông già Noel, chui qua ống khói tụt xuống nhà và được ba đứa trẻ hoạt hình thết đãi bánh quy. Mấy chiếc bánh quy khiến nó phình to tới mức có thể nôn ọe ra cả những cây thông Noel cùng vô số hộp quà bọc giấy lộng lẫy: nào xe đạp, nào máy chơi bắn bóng pinball, toàn những thứ gieo vào đầu con trẻ niềm kỳ vọng hão huyền về những gì ông già Noel có thể nhét vừa túi quà.
 
@@ -38,7 +38,7 @@ Trên màn hình, con mực ông già Noel nôn ra một cây gậy nhún pogo.
 
 Cô nhắn cho chồng mình, Jack: *Mẹ con em ăn trước rồi đấy*.
 
-Khoảng một tiếng sau thì anh mò về đến nhà. Anh đẩy cửa bước nhanh vào, túi đựng laptop đeo chéo vai, cặp tài liệu xách bên tay. Anh diện một bộ âu phục chỉn chu thắt cà vạt đàng hoàng, nhưng đã không còn đội chiếc mũ fedora quen thuộc thời trai trẻ
+Khoảng một tiếng sau thì anh mò về đến nhà. Anh đẩy cửa bước nhanh vào, túi đựng laptop đeo chéo vai, cặp tài liệu xách bên tay. Anh diện một bộ âu phục chỉn chu thắt cà vạt đàng hoàng, nhưng đã không còn đội chiếc mũ fedora quen thuộc thời trai trẻ nữa. Giờ đây anh đã quá nghiêm túc để bận tâm đến dăm ba cái mũ nón phong trần.
 
 “Anh bỏ lỡ bữa tối rồi đấy.”
 
@@ -66,7 +66,7 @@ Jack chẳng buồn để tâm. Anh đặt chiếc máy tính xách tay lên bà
 
 Cô xúc đầy một đĩa bánh quy. Cô dằn mạnh đĩa bánh xuống mặt bàn ngay trước mũi anh. Anh chẳng mảy may chú ý. Cô thèm tát thẳng vào mặt anh một cái cho hả giận. Thèm hét tướng lên: *Jack! Jack! Tỉnh lại đi xem nào!*
 
-Dẫu vậy, thay vì làm thế, cô quay sang dọn máy rửa chén. Cô va đĩa bát vào nhau loảng xoảng thật to. Jack buông một tiếng thở dài. Cô gõ xoong chạm vào chảo bôm bốp. Cô đóng sầm các cánh cửa tủ bếp. Cô bật
+Dẫu vậy, thay vì làm thế, cô quay sang dọn máy rửa chén. Cô va đĩa bát vào nhau loảng xoảng thật to. Jack buông một tiếng thở dài. Cô gõ xoong chạm vào chảo bôm bốp. Cô đóng sầm các cánh cửa tủ bếp. Cô bật chiếc máy hút bụi cầm tay, hút sạch những mẩu kẹo rắc vương vãi cùng mấy túm lông chó rụng.
 
 Jack bực dọc khịt mũi. Anh chép miệng đầy vẻ khó chịu. Thế nhưng anh còn bận tối mắt tối mũi với đống công việc trọng đại, bận đến mức chẳng dứt ra nổi một giây để mà cằn nhằn về mớ tiếng ồn đinh tai nhức óc ấy.
 
@@ -78,7 +78,7 @@ Miriam tự rót cho mình một ly vang. Cô nhấp một ngụm, rồi đưa m
 
 Oái oăm thay, đối với một kẻ tôn thờ công việc đến quên ăn quên ngủ, tài nghệ gõ bàn phím của anh lại vụng về đến thảm hại. Anh chỉ dùng đúng hai ngón tay trỏ mổ lấy mổ để xuống từng phím bấm, trong khi các ngón còn lại buông thõng một cách vô dụng. Lối gõ phím ngô nghê học đòi chẳng khác nào học sinh tiểu học ấy phát ra những thanh âm lạo xạo vô trật tự. Hộp thư điện tử của anh chốc chốc lại kêu “tinh” một tiếng. Hễ cứ ngừng gõ là anh lại gõ lách cách móng tay xuống mặt bàn, chán chê rồi thì cắn nát bét mấy cây bút bi nhựa. Quả là một tấm gương mẫu mực cho lũ trẻ noi theo.
 
-Hai đứa con của họ lững thững bước vào
+Hai đứa con của họ lững thững bước vào bếp. Rory trông nhợt nhạt khác thường, còn Lindsey thì khẽ chọc chọc vào tay bố.
 
 “Không phải lúc này. Bố đang bận việc, con yêu,” Jack làu bàu mà chẳng buồn ngẩng đầu lên. Các thành viên ban điều hành đang cần anh chốt hạ thương vụ này. Anh từng giải thích như thế bằng cái giọng ráo hoảnh, tự mãn và quan trọng hóa vấn đề suốt từ hai tháng trước, khi Thương Vụ Lớn đột ngột hạ cánh xuống bàn làm việc của anh.
 
@@ -92,7 +92,7 @@ Người ta chẳng thể nào vặn lại nổi cái bình phong muôn thuở �
 
 “Chắc tại con xơi đẫm bánh quy quá rồi đấy,” Miriam bảo. Nhưng nhìn sang Lindsey, cô bé trông cũng xanh xao chẳng kém cạnh gì em trai, vầng trán lấm tấm một lớp mồ hôi lạnh.
 
-“Con đã kịp ăn cái bánh nào đâu,” Lindsey thanh minh. “Bụng con
+“Con đã kịp ăn cái bánh nào đâu,” Lindsey thanh minh. “Bụng con đói meo, có được mẩu bánh quy nào vào người đâu ạ.”
 
 “Thế thì có lẽ con không nên lén vét sạch cái âu bột bánh sống lúc nãy,” Miriam vừa dứt lời thì cô con gái lớn đã chúi nhào người về phía trước, nôn thốc nôn tháo lênh láng khắp sàn bếp.
 

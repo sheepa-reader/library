@@ -1,125 +1,90 @@
-# NGƯỜI ĐÀN BÀ KHÁC
+# KÝ ỨC QUÁ KHỨ
 
-**SÁNG HÔM SAU,** Miriam thức dậy từ sớm trên chiếc giường trống trải. Jack lại để lại một mẩu giấy nhắn:
+**BRATTY**
 
-*Lại phải đi làm sớm rồi. Tối nay anh về ăn cơm nhé. Yêu em, Jack.*
+**CẬU IM LẶNG** như một con sao biển.
+Cậu phẳng lặng như mặt hồ không một gợn sóng.
 
-Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi thủ tục quen thuộc: đánh thức lũ trẻ, thay quần áo, cho chúng ăn sáng rồi đưa đến trường. Cô hoàn thành một ca trị liệu trực tuyến qua video với thân chủ. Ca hẹn thứ hai sau đó bị hủy, thế là cô tranh thủ đi cà phê sáng với Holly và Kate.
+Cậu không được phép xem tivi. Không được phép ngồi lên ghế sofa. Không được phép ăn vặt trước bữa tối. Càng không được phép đi tất trong nhà nếu đôi tất ấy đã từng xỏ vào giày dù chỉ một giây. Tóm lại, cậu không được phép tồn tại.
 
-“Mấy bông hoa đó rõ ràng là có vấn đề,” Kate nhận định sau khi nghe Miriam kể về lẵng hoa vừa được gửi tới. “Anh ấy đang tìm cách che đậy điều gì đó thôi.”
+Khi một người chịu khó giữ im lặng, khi người ta tập cho mình vẻ ngoài phẳng lặng đến mức vô hình, người ta sẽ nghe thấy những lời đại loại như:
 
-“Hoặc là muốn chuộc lỗi,” Holly tiếp lời. Cô rút chiếc bình rượu kim loại bỏ túi ra
+*Chúng ta vẫn đang phải trả giá cho sai lầm của con đấy.* Mà xét trong ngữ cảnh của câu *“Nhìn vết ố trên áo của Bradford này! Giờ thì phải vứt cái áo đi rồi”*, điều đó có nghĩa là chính cậu, Bradford, mới là cái sai lầm tai hại và tốn kém ấy.
 
-“Cảm ơn nhé,” Kate thản nhiên đáp. “Tớ đang quay về với lối sống thuận tự nhiên. Không nhuộm tóc nữa. Tớ cũng cạch mặt tất cả các loại hóa mỹ phẩm rồi.” Mái tóc nhuộm vàng của cô ánh lên một lớp dầu bết dính. Ở chân tóc, những sợi tóc nguyên bản màu nâu xen lẫn vài sợi hoa râm đang thi nhau trồi lên.
+Cậu không hề ngu ngốc, bất chấp những lời bà ta ra rả hằng ngày. Cậu biết suy luận. Cậu biết bày mưu tính kế. Cậu quyết định không đi hỏi bố mình, đơn giản vì bố cậu đã bị phe đối phương vô hiệu hóa hoàn toàn từ lâu.
 
-“Ý cậu là sao cơ, *toàn bộ* mỹ phẩm ấy hả? Thế còn dầu gội thì sao?”
+Thay vào đó, cậu nhờ Tommy đi dò la tin tức từ mẹ cậu ấy. Mẹ của Tommy vốn là một trạm trung chuyển tin đồn xuyên lục địa. Đã vậy, bà còn nướng món bánh quy sô-cô-la chip ngon tuyệt đỉnh, và những chiếc bánh quý giá ấy luôn tìm được đường chu du sang tận phòng ngủ của Brad, nơi cậu giấu tiệt chúng dưới đáy tủ quần áo.
 
-“Dầu gội sẽ tẩy sạch lớp vi khuẩn có lợi tự nhiên,” Kate giải thích rành rẽ. “Cậu có thấy con chó con mèo nào dùng dầu gội bao giờ không?”
+Giờ thì cậu đang nhồm nhoàm nhai một chiếc, đầy lộ liễu và ngang nhiên ngay trên chiếc sofa màu trắng. Vụn bánh rơi lả tả xuống tấm thảm cũng màu trắng muốt. Cậu sẽ phải tự vác máy hút bụi ra dọn sạch trước giờ giới nghiêm, bởi nhà cậu chẳng đời nào nuôi chó để liếm láp đám vụn ấy (theo quy chuẩn bất di bất dịch của gia đình thì loài chó là lũ sinh vật bẩn thỉu).
 
-“Ờ thì…”
+*Mà có nuôi cũng chẳng khác quái gì*, mẹ kế cậu từng phán như đinh đóng cột. *Sống chung với Bradford thì có khác gì sống chung với một con chó đâu, chỉ có điều nó kém ngoan ngoãn hơn và còn biết cãi lại.*
 
-“Tất nhiên là phải chấp nhận đầu tóc hơi tệ hại mất vài hôm thì hệ vi sinh mới cân bằng lại được.”
+Tận sâu trong lòng, cậu biết mình giống loài sói hơn là giống chó, nhưng cậu vẫn chọn cách im lặng. Phớt tỉnh là thượng sách.
 
-“Thôi, tớ xin kiếu.” Holly nhấp một ngụm cà phê. Cô khẽ nhăn mặt rồi hào phóng rót thêm chút rượu nữa vào tách. “Thêm chút hương vị cho đời thôi mà.”
+Cậu bật tivi lên. Cậu gác chân lên bàn trà. Đôi tất của cậu bám đầy bụi bẩn. Đôi tai cậu căng ra như ra-đa, đón bắt từng âm thanh nhỏ nhất phát ra từ phía cửa garage. Cậu sẽ nghe thấy tiếng cửa cuốn rục rịch mở ra, nghe thấy tiếng xe của bà ta tiến vào, rồi tiếng cửa xe đóng sầm khô khốc. Nếu lúc đó mà cậu chưa kịp chuồn lẹ, bà ta sẽ bắt quả tang cậu ngay tại phòng khách, bắt quả tang ngay tại khoảnh khắc cậu đang ngang nhiên tồn tại.
 
-“Nên tớ đang tính hay là cứ thẳng thắn đối chất với Jack,” Miriam thở dài. “Nếu anh ấy thực sự có người khác, tớ thà biết rõ sự thật còn hơn.”
+Cậu vặn nhỏ âm lượng tivi xuống mức cẩn tắc vô áy náy. Cậu bật một bộ phim lên xem.
 
-“Triển luôn đi, sợ gì,” Holly ủng hộ nhiệt tình.
+Phim điện ảnh *Peregrine*, với sự tham gia của Ricardo Merman trong vai Thám tử Eddie Tides.
 
-“Tớ lại thấy không nên,” Kate ngập ngừng. “Nhỡ đâu anh ấy không…”
+*“Tôi chẳng hiểu nổi làm sao cậu có thể xem đi xem lại cái bộ phim ngớ ngẩn đó mãi thế không biết,”* Helena lần nào bắt gặp cũng buông lời xỉa xói. Cậu đã cày nát bộ phim này ít nhất cả trăm lần. Cậu thuộc làu từng câu thoại. Cậu mường tượng xem cảm giác sẽ ra sao khi được làm một thám tử bí mật, được xâu chuỗi manh mối, phá án và tháo gỡ từng nút thắt của những điều bí ẩn. Cảm giác được bước lên con tàu hai thân cũ kỹ rồi giong buồm ra khơi, hệt như viên thám tử đã làm ở cảnh kết, hướng thẳng về phía chân trời rực rỡ. Để bỏ lại sau lưng tất cả những năm tháng ngột ngạt này, trong chính ngôi nhà này, cùng những tấm thảm trắng tinh, những bức tường trắng toát và chiếc sofa trắng muốt vốn tồn tại chẳng phải để ngồi mà chỉ để làm màu, cho đến khi tất cả bọn họ phai nhạt dần rồi chìm hẳn vào hậu cảnh cuộc đời cậu. Chúng sẽ ngày càng trở nên vô nghĩa, cho tới một ngày chẳng còn mảy may quan trọng nữa.
 
-“Nhưng ngộ nhỡ anh ấy có thì sao…”
+Cậu chẳng buồn bận tâm đến những gì Helena nói, bởi bà ta chẳng qua chỉ là một cơn giông bão sầu thảm, một trận ngập lụt, một cơn lốc xoáy rồi cũng sẽ sớm quét qua đời cậu mà thôi. Một ngày nào đó, bà ta sẽ bốc hơi khỏi tâm trí cậu.
 
-“Còn nếu anh ấy không có bồ bịch gì thật, trông cậu sẽ chẳng khác nào một bà vợ lén lút và ghen tuông bệnh hoạn.”
+Và ngay hôm nay, bà ta đã chẳng đáng để cậu bận tâm rồi.
 
-“Thì tớ vốn lén lút và hay ghen thật mà.”
+Bà ta đã không bắt quả tang được cậu. Bộ phim vừa vặn khép lại. Cậu nghe thấy một tiếng động. Tiếng gõ cửa lộc cộc. Cậu giật thót mình, tim nảy lên một nhịp. Nhưng hóa ra chỉ là Tommy đang đứng lù lù ngoài hiên.
 
-“Nhưng Jack đâu nhất thiết phải *biết* là cậu lén lút và ghen tuông đến mức ấy. Tớ vẫn giữ quan điểm là cậu phải nắm chắc bằng chứng trong
+“Này bạn hiền.” Tommy mang sang một đĩa bánh quy mới ra lò, hãy còn bốc khói ấm sực. “Đang xem trò gì đấy?”
 
-“Khổ nỗi nếu anh ấy trong sạch thì đào đâu ra bằng chứng ngoại tình mà tìm,” Miriam phân bua. “Và tớ sẽ chẳng bao giờ biết chắc được chuyện gì nếu không ba mặt một lời hỏi cho ra nhẽ.”
+“*Peregrine.* Nhưng hết mất rồi.”
 
-“Dù sao thì tớ nghĩ vẫn nên bới lông tìm vết thêm chút nữa xem sao,” Kate gợi ý. “Cậu đã lén kiểm tra điện thoại xem tin nhắn của anh ấy chưa?”
+Tommy thản nhiên giật lấy điều khiển, bấm chuyển kênh liên tục cho đến khi dừng lại ở chương trình truyền hình yêu thích của cậu: bộ phim kể về một con tàu viễn du khắp địa cầu với vị thuyền trưởng chó cùng đoàn thủy thủ toàn là muông thú. Tập đang chiếu trên màn hình là bản phát lại của mùa thứ bảy, trích từ chuỗi năm tập phim kinh điển khi con tàu SS *Deliverance* bị mất tích giữa biển khơi. Thuyền trưởng Barksford đã bẻ lái tàu về hướng nam để tránh một cơn bão nhiệt đới, nhưng cơn bão quái ác lại đổi hướng và tóm gọn lấy họ. Nó đánh sập toàn bộ hệ thống định vị, liên lạc lẫn mạng lưới điện trên tàu. Viên hoa tiêu (khi ấy là một chú rùa cẩn trọng) đành vạch lộ trình mò mẫm theo các vì sao. Con hươu cao cổ thì hai lần trượt chân lộn cổ xuống biển. Chú sư tử, do suy sụp vì thực đơn toàn cá sống tanh tưởi, đã quay sang gầm gừ đe dọa nuốt chửng cả đoàn thủy thủ. Thuyền phó thì mắc bệnh scorbut (căn bệnh khốc liệt ấy dĩ nhiên đã được ban biên tập nói giảm nói tránh cho khán giả nhỏ tuổi khỏi hoảng sợ). Đó rõ ràng chẳng phải chuỗi ngày êm ả gì trên con tàu SS *Deliverance*. Nhưng bằng một phép màu kỳ lạ nào đó, nỗi đau buồn và sự vật lộn dường như chỉ đóng vai trò làm phông nền. Nổi bật ở tiền cảnh, tương phản rõ rệt với bầu trời lặng ngắt cùng mặt biển xám xịt, chính là tình bằng hữu, sự cơ trí và lòng kiên định. Là sự trưởng thành. Chú sư tử hoàn toàn có thể ra tay xé xác rồi xơi tái con hươu cao cổ, nhưng chú đã chọn cứu mạng nó. Con hươu cao cổ cũng có thể để nỗi sợ nước nhấn chìm rồi bỏ cuộc khỏi chương trình, nhưng sang đến mùa thứ tám, cô nàng đã tự tin học bơi.
 
-“Chưa, tớ chưa từng…”
+“Tao mê tập này dã man,” Tommy nói. “Mày thà bị kẹt trong thân xác một con hươu cao cổ hay một con sư tử? Chỉ tính riêng trong tập này thôi nhé.”
 
-“Thế còn cô Jessica kia thì sao?” Holly chen ngang. “Cái cô tự xưng là ‘luật sư cấp cao’ ấy. Sao chúng mình không thử lần mò tung tích cô ta xem?”
+“Sư tử. Tao thà chịu đói còn hơn suýt chết đuối.”
 
-“Tớ cũng chẳng biết nữa,” Miriam chần chừ. “Ý tớ là, tớ không muốn khuấy đảo khiến mọi chuyện ở chỗ làm của anh ấy trở nên khó xử.”
+“Tao cũng thế.” Tommy với tay lấy thêm một chiếc bánh quy. Một mẩu sô-cô-la vụn rơi xuống sàn. Cậu nhặt nó lên, nhưng mẩu bánh đã kịp để lại một vệt ố màu nâu nhạt. “Ôi. Xin lỗi…”
 
-Thực tâm thì cô cũng hơi muốn quậy cho mọi chuyện ở chỗ làm của anh trở nên khó xử thật.
+“Không sao đâu,” Bradford đáp.
 
-“Chúng mình có thể tra cứu cô ta trên trang web của hãng luật,” Kate hào hứng đề xuất.
+“Bọn mình có thể đi lấy thuốc tẩy. Hoặc…”
 
-Holly thoăn thoắt mở trang web của công ty luật trên điện thoại. “Ở đây chỉ có duy nhất một Jessica thôi này.” Cô chìa màn hình ra cho cả hội cùng nghía. Jessica Scriber, luật sư cấp cao. Trang web có một đoạn tiểu sử vắn tắt về người phụ nữ này, nhưng tuyệt nhiên không đính kèm ảnh chân dung.
+“Kệ đi.”
 
-“Chốt hạ thế nhé,” Holly tuyên bố dứt khoát. “Chúng ta phải làm một chuyến do thám thực địa thôi.”
+“Tao xin lỗi nhé. Tao không muốn mày bị mắng đâu.”
 
-“Ủa, chính xác thì ý cậu *trinh sát* là làm cái gì cơ?” Miriam ngơ ngác.
+“Tao làm gì thì cũng thế thôi. Đằng nào tao chẳng bị mắng.”
 
-“Chúng mình sẽ mò tới tận văn phòng của Jack để tăm tia mặt mũi cô ta.”
+“Chán òm thật đấy.”
 
-“Nhưng người ở đó sẽ nhận ra tớ mất.”
+“Mày biết không, một ngày nào đó… một ngày nào đó tao sẽ trét bùn kín cả cái nhà này. Trét khắp các tấm thảm, lên tường, lên toàn bộ đồ đạc. Chỗ nào cũng sẽ chỉ có đất cát và bùn lầy.”
 
-“Cậu cứ ngồi yên trong xe mà chờ. Tớ với Kate sẽ đột nhập vào trong.”
+Tommy bật cười. “Tao mong là tao sẽ được đứng xem.”
 
-“Không phải lát nữa các cậu đều phải
+“Ừ… tao cũng mong thế.”
 
-“Lịch làm việc của tớ linh hoạt mà,” Kate tỉnh bơ.
+“À, này, Brad?”
 
-“Còn tớ sẽ báo ốm xin nghỉ một hôm,” Holly tiếp lời tắp lự.
+“Sao thế?”
 
-“Nhưng nhỡ đâu Jack đang ở đó thì sao? Nhỡ anh ấy bắt gặp hai cậu thì tính thế nào?”
+“Có chuyện này tao phải nói với mày.”
 
-“Thì chúng ta cải trang.”
+“Chuyện gì?”
 
-Miriam đội một chiếc mũ lưỡi trai có gắn sẵn lọn tóc giả đuôi ngựa màu vàng hoe, quẹt son đỏ chót và đeo thêm một cặp kính không độ. Cô ngồi đợi một mình trong xe của Holly, ngay cạnh cột thu phí đỗ xe bên ngoài tòa nhà văn phòng của Jack, thấp thỏm ngóng hai cô bạn đang làm nhiệm vụ do thám bên trong. Bất giác, cô nhớ lại những lời người phụ nữ Thuyết Âm Mưu từng cảnh báo: Mọi thứ đang biến mất. Mọi thứ cứ thế *biến mất không dấu vết!*
+“Mày nhớ chuyện mày nhờ tao hỏi mẹ tao về bố mẹ mày không, và, ừ thì…?”
 
-Một tiếng lách tách khe khẽ đột ngột râm ran trong không khí, phảng phất mùi khét lẹt mơ hồ, quyện cùng một luồng hương vị xa xôi thoang thoảng tựa gió biển.
+“Nhớ.”
 
-Miriam giật mình khi một người đàn ông rảo bước ngang qua cửa kính, trông hao hao giống Jack. Nhưng người đó không phải anh. Tất cả những người đàn ông đang tất bật qua lại trên vỉa hè kia, trong những bộ âu phục phẳng phiu, thắt cà vạt chỉn chu và xỏ chân vào những đôi giày da bóng lộn, ai nấy đều có thể là Jack. Nhưng họ đều không phải. Lẽ ra Jack đã có thể trở thành một con người hoàn toàn khác. Anh hoàn toàn có thể quay lưng lại và giơ ngón tay giữa vào cái gọi là Công Việc. Anh hoàn toàn có thể yêu thương cô say đắm đến mức cô chẳng bao giờ phải gợn lên một tia hoài nghi.
+“Mẹ tao kể rồi,” Tommy nói. “Mẹ dặn tao không được nói cho mày biết. Nhưng mẹ bảo mẹ mày từng… Mẹ bảo mẹ mày không hẳn hòa nhập được ở câu lạc bộ đồng quê. Vớ vẩn thật sự, vì hòa nhập hay không hòa nhập ở cái câu lạc bộ đồng quê chết tiệt đó thì có gì quan trọng chứ? Trừ phi mày là mẹ tao, người coi chuyện đó là cả thế giới. Nhưng mẹ bảo bố mẹ mày chưa từng kết hôn.”
 
-Cánh cửa xoay tròn ở sảnh tòa nhà bỗng chuyển động. Holly và Kate hớt hải ùa ra
+“Chuyện đó tao biết rồi.”
 
-“Có chuyện gì thế?” Miriam sốt ruột hỏi ngay khi hai cô bạn vừa chui tọt vào bên trong.
+“Và họ không hề lên kế hoạch sinh ra mày. Mày chỉ tình cờ xuất hiện thôi.”
 
-“Có một lão già ve vãn Kate ra mặt ngay trong thang máy đấy,” Holly hào hứng kể.
+Bradford trầm ngâm ngẫm nghĩ về điều đó. Trên màn hình vô tuyến, Thuyền trưởng Barksford đã nắm lấy bánh lái. Viên thuyền phó phóng tầm mắt nhìn ra mặt biển đang cuộn sóng dữ dội. Khung cảnh ấy gợi cho Bradford nhớ về một điều gì đó, nhưng cậu không chắc là điều gì. Cảm giác vừa thân thuộc lại vừa hoàn toàn mới lạ.
 
-Kate bật cười. “Ông ta rủ tớ đi khiêu vũ. Chắc là chấm bộ tóc giả này rồi.”
+Rồi sẽ có một ngày, mây đen tan biến, sóng biển sẽ lại êm đềm xanh biếc và chẳng còn điều gì trong số này đáng bận tâm nữa. Nhưng chưa phải lúc này. Hôm nay, Bradford vẫn đang mắc kẹt giữa cơn giông bão. “Vậy ra… tao đoán tao chỉ là… một sự cố ngoài ý muốn.”
 
-“Không, ý tớ là chuyện với Jessica cơ,” Miriam gặng hỏi cho ra nhẽ.
-
-“Ồ, cô ta có ở đó đâu,” Holly đáp, giọng tỉnh rụi. “Nhưng cậu biết không, ngay góc phố có một nhà hàng mới mở mà tớ nhắm mãi rồi đấy. Nghe đồn đồ ăn ở đó xuất sắc lắm. Đi ăn trưa thôi.”
-
-Nhà hàng trải khăn bàn trắng tinh tươm và phục vụ thực đơn theo suất cố định. Ba người họ tháo tóc giả cùng kính râm ra để chuẩn bị dùng bữa.
-
-“Mấy bộ tóc giả này toàn làm từ sợi nhân tạo thôi,” Kate lên tiếng cảnh báo (vốn dĩ chẳng bao giờ bỏ lỡ cơ hội nói về độc tố). “Đừng đội lâu hơn mức cần thiết. Cậu đâu có muốn hạt vi nhựa ngấm vào người đâu chứ.”
-
-Holly đảo tròn mắt. “Thứ duy nhất tớ muốn nạp vào người lúc này là ly cocktail này thôi.”
-
-Miriam đưa mắt nhìn khắp nhà hàng để tìm Jack. Một Jack đi cùng cô gái tóc vàng hoe bốc lửa nào đó. Một Jack với bàn tay đặt hờ lên vòng ba của một cô nàng diện chân váy bút chì bó sát. Miriam chưa từng mặc chân váy bút chì bao giờ. Có khi cội nguồn bi kịch của cô lại nằm ở chính cái váy ấy cũng nên.
-
-Cô chẳng thấy Jack đâu, và đương nhiên cũng không có cô
-
-Khí chất của người phụ nữ này toát lên đúng một chữ: luật sư.
-
-Chị đứng dậy, sải bước tiến về phía bàn của Miriam.
-
-“Bà Shipley? Miriam… tôi nhớ đúng chứ?”
-
-“Dạ vâng, đúng rồi ạ.”
-
-“Tôi cứ sợ mình nhận nhầm. Không rõ cô còn nhớ tôi từ bữa tiệc liên hoan đợt nghỉ lễ không nhỉ. Tôi là luật sư cấp cao ở Rufus Mather. Jessica Scriber.”
-
-Miriam ngồi thẳng tắp trên ghế. Kate kín đáo siết nhẹ tay cô. Còn Holly thì nốc một ngụm cocktail rõ to.
-
-*Jessica.*
-
-Ánh mắt chị hằn rõ nét mỏi mệt và đượm buồn. Đôi môi mím chặt. Đôi bàn tay khẽ run rẩy.
-
-“Ôi, đúng rồi ạ! Chị Jessica. Em vốn dĩ nhớ tên người khác tệ lắm. Rất vui được gặp lại chị.”
-
-“Chị cũng thế. Em biết đấy, mọi người ở công ty thực sự rất nhớ Jack. Em với Jack có hai cháu rồi đúng không? Dạo này bọn trẻ thế nào rồi em?”
-
-“Dạ, các cháu đều khỏe cả ạ.”
-
-“Được thế thì tốt quá… Chị thì chưa từng có một mái ấm cho riêng mình. Có lẽ vì cả đời cứ mải miết lao vào công việc… Dù sao đi nữa, cho chị gửi lời chào tới Jack nhé. Và nhắn với cậu ấy rằng mọi người ở đây đều mong mọi điều tốt đẹp nhất sẽ đến với cậu ấy.”
+“Không,” Tommy nói. “Không, không phải thế đâu. Mày đang tồn tại. Điều đó có nghĩa là mày vốn dĩ phải tồn tại. Không, tao nghĩ chuyện này giống như… như một phép màu thì đúng hơn.”

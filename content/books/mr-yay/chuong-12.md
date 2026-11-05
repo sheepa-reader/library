@@ -4,7 +4,7 @@
 
 Bratty chẳng hiểu nổi cậu bạn thân nhất của mình đang muốn ám chỉ điều gì, nhưng nghe qua thì có vẻ cũng chí lý lắm.
 
-Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên *Peregrine*, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên
+Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên *Peregrine*, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên do. Bratty cũng không rõ tại sao mình lại mê mẩn bộ phim đến thế. Nhưng mỗi lần xem lại, anh đều có cảm giác như vừa trải qua một cuộc lột xác. Các nhân vật cùng quỹ đạo đời họ dường như chuyển dịch còn nhanh hơn cả dòng hải lưu, một trải nghiệm vừa gây bồn chồn bất an, lại vừa tiếp thêm sinh lực.
 
 “Chúng ta làm được hết mọi thứ,” Bratty bảo chú chó khi hai thầy trò vượt qua ranh giới bang Arizona, lúc này vẫn còn cách biển cả ngàn dặm. “Chỉ tao với mày thôi, Tux. Hai đứa mình nhất định sẽ vượt qua.”
 
@@ -12,7 +12,7 @@ Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn c�
 
 “Chúng ta sẽ làm được thôi,” Bratty lặp lại lần nữa, dù lời nói thốt ra nghe rỗng tuếch.
 
-Dù vậy, anh vẫn giữ tinh thần lạc quan cho tới tận khi chạm đến vùng ngoại ô Las Vegas, thời điểm động cơ xe bắt đầu
+Dù vậy, anh vẫn giữ tinh thần lạc quan cho tới tận khi chạm đến vùng ngoại ô Las Vegas, thời điểm động cơ xe bắt đầu khục khặc rồi xì khói mù mịt.
 
 Anh tấp xe vào lề đường cao tốc. Khói bốc ngùn ngụt từ dưới nắp capo. Từng đoàn xe vun vút lao qua với vận tốc cỡ một tỷ dặm một giờ. Chú chó quay sang nhìn anh, đôi mắt mở to tròn xoe với nét mặt như muốn hỏi: *Giờ tính sao đây hả ông bạn, cái quái gì thế này?*
 
@@ -26,7 +26,7 @@ Anh chẳng có tiền mặt để gọi xe cứu hộ, sửa xe, hay thuê nổ
 
 Anh xích chú chó lại, bước ra khỏi xe rồi rảo vài bước tiến vào sa mạc, giữ khoảng cách an toàn phòng trường hợp chiếc xe nổi hứng phát nổ. Lớp sương giá lạo xạo vỡ vụn dưới chân anh. Vầng trăng lơ lửng sà thấp ngay phía trên dải ánh sáng rực rỡ của thành phố Vegas.
 
-“Nghe này,” anh bảo chú chó, “nếu mày thấy bọ cạp thì cứ việc cắm đầu mà chạy, rõ chưa? Đừng có dại mà nhảy vào đánh nhau với nó
+“Nghe này,” anh bảo chú chó, “nếu mày thấy bọ cạp thì cứ việc cắm đầu mà chạy, rõ chưa? Đừng có dại mà nhảy vào đánh nhau với nó đấy.”
 
 Anh rút điện thoại gọi cho Tommy. Hai cuộc đầu tiên, Tommy không bắt máy. Đến lần thứ ba, đầu dây bên kia mới vang lên tiếng Tommy: “Ê, chờ chút.”
 
@@ -44,7 +44,7 @@ Tiếng nhạc đập thình thịch làm nền ở phía sau. Bratty rùng mìn
 
 Bốn tiếng đồng hồ trôi qua.
 
-Tommy lái xe như điên, không thèm dừng lại lấy một giây dọc đường. Nhịp bass dập rền vang lồng ngực. Một tay cậu gõ nhịp liên hồi lên vô lăng, tay kia liên tục châm những điếu cần sa - thứ nhiên liệu tạo nên chất giọng khàn đặc đầy ma mị cho giọng hát như vàng như ngọc của cậu. Lao vun vút về hướng đông, cậu phóng vụt qua chỗ Bratty, quay ngoắt đầu xe chữ U
+Tommy lái xe như điên, không thèm dừng lại lấy một giây dọc đường. Nhịp bass dập rền vang lồng ngực. Một tay cậu gõ nhịp liên hồi lên vô lăng, tay kia liên tục châm những điếu cần sa - thứ nhiên liệu tạo nên chất giọng khàn đặc đầy ma mị cho giọng hát như vàng như ngọc của cậu. Lao vun vút về hướng đông, cậu phóng vụt qua chỗ Bratty, quay ngoắt đầu xe chữ U ngay giữa xa lộ, rồi phanh cháy lốp ken két ngay sau chiếc xe chết máy của Bratty. Cậu lao ra khỏi xe. Đôi mắt mở to hoang dại. Rồi cậu dang rộng hai tay ôm chầm lấy Bratty.
 
 Cậu buông người bạn thân ra rồi chăm chú nhìn anh: “Mẹ kiếp, chuẩn luôn rồi! Bạn tôi ơi, mày tới nơi rồi!” Cậu lại ôm siết lấy Bratty thêm lần nữa.
 
@@ -54,7 +54,7 @@ Cậu buông người bạn thân ra rồi chăm chú nhìn anh: “Mẹ kiếp,
 
 Bratty gật đầu: “Thế tao là con khỉ đầu chó à?”
 
-“Chuẩn cmn luôn! Này, tao nóng lòng muốn cho mày xem những thứ tao đang làm lắm rồi. Tao… tao thậm chí còn chẳng biết giải thích thế nào nữa. Dạo này tao cứ như bị hưng cảm ấy. Âm nhạc tuôn trào không ngừng nghỉ. Tao cứ viết mãi, viết hoài, đến mức cảm giác như ngay cả giấc mơ của tao cũng toàn là âm nhạc. Đủ để khiến tao phải tự hỏi liệu đây có phải một cơn hưng cảm không? Có phải tao sắp phát điên rồi không? Nhưng không, anh bạn à, tao không nghĩ là thế đâu. Nó là…” Cậu liến thoắng với tốc độ chóng mặt rồi đột ngột khựng lại. Cậu ngước nhìn lên bầu trời, tựa hồ trên đó đang ẩn giấu một câu trả lời nào đó nằm ngoài vòng xoáy hỗn độn của các vì sao. “Nó là… một thứ gì đó rất khác. Giống như một sự chuyển dịch trong
+“Chuẩn cmn luôn! Này, tao nóng lòng muốn cho mày xem những thứ tao đang làm lắm rồi. Tao… tao thậm chí còn chẳng biết giải thích thế nào nữa. Dạo này tao cứ như bị hưng cảm ấy. Âm nhạc tuôn trào không ngừng nghỉ. Tao cứ viết mãi, viết hoài, đến mức cảm giác như ngay cả giấc mơ của tao cũng toàn là âm nhạc. Đủ để khiến tao phải tự hỏi liệu đây có phải một cơn hưng cảm không? Có phải tao sắp phát điên rồi không? Nhưng không, anh bạn à, tao không nghĩ là thế đâu. Nó là…” Cậu liến thoắng với tốc độ chóng mặt rồi đột ngột khựng lại. Cậu ngước nhìn lên bầu trời, tựa hồ trên đó đang ẩn giấu một câu trả lời nào đó nằm ngoài vòng xoáy hỗn độn của các vì sao. “Nó là… một thứ gì đó rất khác. Giống như một sự chuyển dịch trong dòng chảy vậy. Mày hiểu ý tao không?”
 
 Bratty gật đầu. Anh không thực sự hiểu chính xác những gì Tommy muốn nói, nhưng bản thân anh cũng cảm nhận được điều gì đó. Mới hôm nào anh vẫn còn ở Ohio, cô độc trong căn hộ tồi tàn túng quẫn, lững thững bước đi trên lộ trình định sẵn để lấy cho xong tấm bằng đại học. Giờ đây anh đã ở chốn này, trên dải xa lộ liên bang xuyên qua Nevada, bên cạnh người bạn chí cốt và chú chó cưng của mình. Một điều gì đó quả thực đã dịch chuyển.
 

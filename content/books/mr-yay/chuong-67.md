@@ -1,151 +1,197 @@
-# XE BUÝT TIỆC TÙNG
+# MERMAN
 
-**ANH NÓI CHUYỆN** với chuyên viên trị liệu tâm lý của mình qua điện thoại khi đang ở trong tiệm giặt tự động, đơn giản vì căn hộ giờ đây đã ngập ngụa những thùng carton. Chúng chất
+**KHI MIRIAM VỀ ĐẾN NHÀ** ba ngày sau đó, nhóm của cô bị thiếu mất một cô bạn (Holly đã phải bước vào trại cai nghiện - không phải vì thói nghiện ngập mà cô bạn thề sống thề chết là mình chẳng hề mắc, mà vì cô cần một khoảng không gian an toàn để giải tỏa cơn thịnh nộ dành cho người chồng liều mạng của mình). Bù lại, nhóm thu hoạch thêm một cô bạn vừa tậu bộ bài tarot đầu tiên, một viên thạch anh tình bạn (Kate và Holly sở hữu hai viên giống hệt nhau), một niềm yêu thích mới dành cho trà kombucha, cùng lòng quyết tâm tìm ra điều bản thân thực sự mong muốn để theo đuổi một cách có trách nhiệm - chứ tuyệt đối không bốc đồng bạt mạng như *những ông chồng*, những người vừa được mua cho mấy viên thạch anh tình bạn đồng bộ. Và đúng lúc ấy, cô bắt gặp chính ông chồng mình đang đứng ngoài hiên trước với dáng vẻ đậm chất thám tử.
 
-Trên những chiếc áo phông ấy in hình Tux với dòng nước dãi xoáy màu neon chảy dài rồi tan chảy thành những chữ cái uốn lượn rực rỡ ghép thành từ MR. YAY. Tux đeo một sợi dây chuyền vàng lớn như một chú chó rap thực thụ, bịt một bên mắt đúng kiểu cướp biển thứ thiệt, và nếu nhìn thật kỹ vào miếng che mắt ấy, người ta có thể nhận ra cái bóng mờ của một con tàu. Con tàu SS *Deliverance*.
+Cứ như thể anh đã tạo sẵn một tư thế thám tử tư rồi giữ nguyên dáng điệu ấy để đợi cô quay về: lưng tựa vào tường, đầu cúi thấp, vành mũ kéo sụp che khuất nửa dưới khuôn mặt, điếu thuốc ngậm hờ giữa hai làn môi. Tất cả đều chuẩn chỉnh phong thái một thám tử đích thực, ngoại trừ đôi dép tông xỏ ngón và phản ứng của anh ngay khi xe cô vừa rẽ vào lối đi. Anh chạy bổ tới, hai tay dang rộng, vừa chạy vừa la lớn:
 
-Bratty vốn là người thiết kế mẫu áo phông ấy, bởi lẽ làm quái nào một rapper có thể kiếm bộn tiền trong thời đại phát nhạc trực tuyến cơ chứ?
+“Miriam! Miriam!” Gương mặt anh rạng rỡ niềm hân hoan tột độ.
 
-Bratty từng bảo:
+Cô bước ra khỏi xe. Anh ôm chầm lấy cô.
 
-“*Chúng ta cần bán đồ lưu niệm.*”
+“Anh ở nhà với Fred và Tom có vui không?” cô hỏi.
 
-Và Tommy đã đáp:
+“Mệt phờ cả người. Nhưng đoán xem chuyện gì nào?”
 
-“*Chúng ta cần rít boong cần.*”
+“Chuyện gì thế?”
 
-Thế là Bratty rít một hơi cần thật sâu rồi ngồi thiết kế chiếc áo phông. Sau đó, Tommy lại làm cái trò mà cậu ta vẫn luôn giỏi nhất: chơi tới bến, dốc cạn hầu bao. Một đêm nọ, trong khi Bratty đang ngủ thiếp đi trên ghế sofa còn Tux cuộn tròn dưới chân anh mơ những giấc mơ phê pha về đại dương sâu thẳm, Tommy đã bấm đặt mua năm trăm triệu tỷ chiếc áo phông. Cậu ta tiện tay tạo thêm một đường link mua hàng trên trang web để
+“Anh tìm thấy ông ấy rồi!”
 
-Cho đến khi mấy anh chàng giao hàng xuất hiện trước cửa căn hộ với gương mặt ngơ ngác đần thối, đánh hẳn một chiếc xe tải đầu kéo chất kín những thùng carton đựng áo phông.
+“Ai cơ?”
 
-“Ờ… đây có phải… ờ, tư gia của Ngài AssMaster không?”
+“Mr. Yay chứ ai nữa!”
 
-“Không hẳn là… *không phải*.”
+“Nhưng trên giấy tờ thì ông ấy đâu có thật, thế nên…”
 
-“Anh ký tên vào đúng cái dòng chỗ kia giùm tôi được không?”
+“Anh biết, anh biết rồi. Không phải ông ấy, mà là người đóng vai ông ấy: Ricardo Merman.”
 
-Bratty ký.
+“Anh tìm thấy Ricardo Merman á?”
 
-“Vậy các anh muốn dỡ đống thùng này vào đâu? Bọn anh có nhà kho hay chỗ nào đại loại thế không?”
+“Anh tìm ra nơi ông ấy sống rồi. Chỉ cách đây vài tiếng chạy xe thôi. Anh đã đặt xong khách sạn và thu dọn hành lý của hai đứa mình rồi, vậy nên…”
 
-“Ờ… Tommy! Này, Tommy!”
+“Khoan, khoan đã. Anh vừa làm gì cơ?”
 
-Tommy bước ra, ngơ ngác chẳng kém. “Tôi không phải Tommy. Tôi là Link.”
+“Anh đặt khách sạn, rồi…”
 
-“Link AssMaster?”
+“Không, em nghe rõ những gì anh nói rồi. Chỉ là, anh muốn hai chúng ta đến đó ư? Kiểu như cứ thế xông thẳng đến nhà người ta sao?”
 
-“Ôi… ôi chết tiệt… các anh là… mình đã… hả?”
+“Miriam à, anh là thám tử mà. Thám tử thì phải làm thế chứ.”
 
-Thế đấy, cậu ta đã làm ra cái trò đó thật. Phải mất hơn một tiếng đồng hồ, cậu ta, Bratty cùng mấy anh chàng giao hàng mới khuân hết đống thùng vào trong căn hộ. Việc này cũng chính thức đặt dấu chấm hết cho tham vọng cày game *Truyền thuyết Zelda* của Tommy, bởi lẽ cậu ta chẳng còn chỗ mà ngồi lên sofa, chứ đừng nói đến chuyện với tới chiếc tivi.
+“Được rồi, nhưng anh biết đây chỉ là trò chơi bời thôi mà, đúng không, Jack? Ý em là, anh đâu có kiếm ra xu nào từ công việc thám tử của mình…”
 
-Dù sao thì ít nhất họ vẫn có thể mở được cửa tủ lạnh, nơi cất giữ toàn bộ số bia. Họ cũng có thể lách người vào phòng tắm, hoặc túm tụm ngồi nép bên ngưỡng cửa.
+“Có chứ sao không,” Jack đáp, nụ cười đầy tự hào bừng nở trên môi. “Anh được cộng đồng tài trợ đấy!”
 
-“Nhưng mày muốn nghe tin tốt trước, hay tin xấu trước?” Tommy hỏi, sau khi cả hai đã ngồi bệt xuống bậc thềm ngoài trời lúc bốc dỡ xong xuôi mọi thứ. Họ phải hút thuốc ở bên ngoài để khói không ám mùi khét lẹt vào đống áo phông.
+“Anh được gọi vốn cộng đồng á?”
 
-“Kia không phải là tin xấu sao?” Bratty hất cằm về phía đống
+“Fred đã giúp anh thiết lập chiến dịch. Tụi anh gom được hơn hai mươi nghìn đô la để phục vụ việc tìm kiếm Mr. Yay rồi đấy. Mà đó mới chỉ là từ đêm qua thôi nhé!”
 
-“Ừm… không hẳn. Tin xấu là, trừ khi muốn chọc điên người hâm mộ, còn không thì tụi mình phải khui đống thùng đó ra, đóng vào các hộp mới, dán địa chỉ lên từng gói rồi gửi qua bưu điện tầm… ừm, bảy nghìn chiếc áo phông.”
+“Được rồi, chuyện đó… thật lố bịch. Nhưng còn bọn trẻ thì sao? Cả chú chó nữa?”
 
-“Ồ.”
+“Tụi nó đang ở bên nhà Fred cả rồi. Tụi nó đang đóng một ngôi nhà nhỏ cho lũ gấu mèo của Gonzago.”
 
-“Trước khi tụi mình lên đường đi lưu diễn.”
+“Được rồi, chuyện đó cũng lố bịch không kém.”
 
-“Cái quái gì cơ…”
+“Nhưng anh đã bảo với họ là em sẽ ghé qua chào tạm biệt một tiếng. Rồi sau đó chúng ta lên đường!”
 
-“Mày hiểu cảm giác của tao rồi đấy.”
+Một tiếng sau, cô đã ngồi trong xe cùng Jack, nhong nhong về hướng đông, cửa sổ hạ xuống, tiếng nhạc jazz phát ra từ dàn âm thanh để tạo bầu không khí. Thành phố dần mở rộng ra thành những vùng ngoại ô với dãy trung tâm thương mại san sát, các đại lý ô tô, những nhà thờ ven đường cao tốc, dãy nhà nghỉ và quán ăn nhanh cùng trạm xăng nằm kẹp giữa vô số biển quảng cáo: món thịt xông khói Double-Wubble-Bacon đáng đồng tiền bát gạo nhất, chương trình mua một tặng một kem Frosty Freeze, Whip, Sự Trừng Phạt Đời Đời dành cho những kẻ không chịu sám hối, và chàng rapper mang nghệ danh Mr. Yay, biểu diễn trực tiếp trong đêm hòa nhạc ngày 21 tháng Sáu.
 
-“Thằng quỷ này.”
+“Em đổi nhạc đây,” Miriam nói.
 
-“Biết rồi, biết rồi. Nhưng tin tốt là mày vừa trả sạch bách nợ sinh viên rồi đấy. Thậm chí còn dư ra một mớ.”
+“Gì cơ? Đừng! Đây là nhạc nền dành riêng cho thám tử mà!”
 
-“Nếu tụi mình gửi đi được bảy nghìn chiếc áo.”
+“Nhưng kia là một dấu hiệu đấy. Mr. Yay. Đêm hòa nhạc trực tiếp. Chúng ta có nên đến đó không? Biết đâu cậu ta lại có câu trả lời.”
 
-“Có khi phải gần tám nghìn chiếc đấy.”
+Cô đổi nhạc, vặn to âm lượng. Cả chiếc xe rung lên bần bật bởi tiếng bass. Tiếng rap dội ầm ầm ra từ loa:
 
-“Này bạn già, chỉ khoảng ba ngày nữa là tụi mình lên đường rồi đấy.”
+Này ông bố, này bà mẹ, đã đến lúc xả hơi
 
-Giờ thì thời gian chỉ còn chừng hai ngày. Trong khi Tommy ra ngoài thi triển phép thuật giao tế để tự giải cứu, Bratty phải chật vật dọn dẹp một lối đi dẫn tới tủ quần áo để cả hai có thể thu dọn hành lý.
+Cày cuốc quá kham khổ, hỏi hạnh phúc ở đâu rồi?
 
-Có quá nhiều thùng hộp chết tiệt.
+Công việc đâu phải lối dẫn đến an lạc bình tâm
 
-Nếu xảy ra động đất (dù chỉ là một cơn dư chấn nhẹ), những tòa tháp thùng hộp kia cũng có thể đổ sập xuống và đè nghiến Bratty bên dưới. Chúng có thể nghiền nát anh. Anh có thể chết.
+Muốn chạm vào cảm xúc, hãy thả lỏng cho linh thần
 
-*Giá như nó không phải là một thằng ăn hại như thế,* bố anh sẽ tặc lưỡi nói vậy. Còn bà mẹ kế sẽ gật gù, cười nhếch mép bảo: *Ít ra thế giới này cũng đỡ chật đất hơn.* Lúc đó, anh thậm chí chẳng thể đấm vào mặt bà ta được nữa, đơn giản vì anh đã chết quách rồi. Không. Anh sẽ không sợ hãi. Anh nhất quyết không chịu thua mấy cái thùng này.
+Đọc một cuốn sách hay, chợp mắt một chút thôi
 
-Khi trò chuyện với chuyên viên trị liệu tâm lý của mình, anh đã nói như thể bản thân đã hoàn toàn rũ bỏ được cái ách sợ hãi. Như thể anh
+Say ngất ngưởng lắc mông, rít một hơi thuốc rồi
 
-Thế nhưng, mọi chuyện lại không diễn ra một cách thơ mộng như vậy. Nó tựa như sự lên xuống của thủy triều. Nỗi sợ rút đi chầm chậm, và luôn gắn liền với âm nhạc. Nhưng đôi khi, giữa bầu không khí tĩnh lặng, nỗi sợ ấy lại lẳng lặng ùa về.
+Cắn một viên nấm ảo, ghì chặt lấy một nháy
 
-Anh đứng nơi ngưỡng cửa căn hộ, thầm nghĩ: *Làm quái nào để xếp đống thùng hộp này như trò xếp hình Tetris đây?*
+Tao đâu muốn thô lỗ, chỉ tử tế cho hay
 
-Đột nhiên, một tiếng ầm vang dội cất lên. Anh rùng mình, liếc nhìn ra sau lưng hướng về phía bầu trời. Chỉ có một màu xanh lam mờ mịt. Chẳng có lấy một gợn mây mưa, cũng chẳng hề có tiếng sấm sét. Ánh mắt anh quay trở lại bên trong căn hộ, và đây chính là khoảnh khắc kiểu chuyện “cái quái gì thế này”, hay đúng hơn là khoảnh khắc “mình đã nuốt bao nhiêu viên kẹo dẻo rồi ấy nhỉ”. Đó là lúc nỗi sợ tóm chặt lấy tâm trí anh rồi tát cho vài phát lật mặt. Bởi lẽ những gì đôi mắt anh đang trông thấy không hề thực sự diễn ra (hoặc ít nhất là không nên diễn ra ngay tại đây), nhưng nó lại đang diễn ra rõ mồn một như bầu trời Los Angeles. Anh đứng nơi ngưỡng cửa căn hộ của mình, có điều đó lại chẳng phải là căn hộ của anh. Nó trông y hệt như cái dạo anh mới chuyển đến: chiếc ghế sofa của Tommy, chiếc tivi cũ kỹ của Tommy, tuyệt nhiên không có chiếc loa khổng lồ nào. Vỏ lon bia vứt la liệt trên sàn, hộp bánh pizza nằm chỏng chơ trên quầy bếp. Không có bóng dáng chú chó nào. Hoàn toàn không. Không có Bratty.
+Chuyện cũ thì đã qua, tao chỉ muốn chỉ ra
 
-Và đó mới là điều tồi tệ nhất: không có âm nhạc. Sự im lặng tuyệt đối.
+Một góc của cuộc đời tuyệt vời đến kỳ lạ
 
-Cho tới khi Tommy bước dọc hành lang rồi đứng sững ở đó. Cậu mang một vẻ mặt suy sụp hoàn toàn. Đầu cậu gục xuống, rồi một âm thanh u uất nghẹn ngào bật ra từ cổ họng. Tựa như một tiếng nấc, nhưng tồi tệ hơn nhiều.
+Khi chúng mày thật sự sống thay vì cắm đầu kiếm tiền
 
-Tommy rẽ vào bếp, móc từ túi quần ra một chiếc túi zip nhỏ đựng bột màu trắng. Cậu dốc thứ bột đó lên mặt quầy, kẻ thành một đường dài rồi cúi xuống hít một hơi sâu. Cậu nhắm nghiền mắt lại. Lồng ngực cậu phập phồng, một tiếng nấc nghẹn khác lại trào ra, và Bratty đã hiểu.
+Mua một thứ viển vông rồi cày bục mặt triền miên!
 
-Anh đã hiểu. Anh - Bratty - không hề có mặt ở đó. Không chỉ đơn thuần là vắng mặt trong căn hộ, anh đã biến mất hoàn toàn. Dù cảnh tượng quái đản này có mang ý nghĩa gì đi chăng nữa, nó cũng đồng nghĩa với một thực tế phũ phàng: không hề tồn tại một Fatty Bratty nào cả. Anh đặt hai bàn tay lên ngực mình. May quá, da thịt anh vẫn còn nguyên vẹn. Trái tim anh vẫn đập thình thịch từng nhịp chưa chết, chưa chết, chưa chết. Nhưng Tommy lại không thể nhìn thấy anh.
+“Cậu ta đang nói anh đấy, Jack,” Miriam bảo, rồi cô liếc nhìn sang ông chồng đang ngồi ở ghế lái và thấy môi anh mấp máy nhép theo từng lời ca, đầu gật gù theo điệu nhạc. Anh thuộc lòng bài hát này. Cô bật cười thầm. Cô lặng ngắm anh, và phía sau lưng anh, khung cảnh bê tông thô ráp dần dịu lại, nhường chỗ cho những cánh đồng bát ngát cùng những rặng cây xanh mướt.
 
-Suốt một phút, hai phút, rồi năm phút trôi qua, Bratty cứ đứng lấp ló nơi ngưỡng cửa quan sát trong khi Tommy nức nở, hít thêm một đường thuốc, khui lon bia, sụt sùi rồi châm thuốc lá. Khi làn khói lãng đãng tản ra, Bratty thoáng thấy những bóng hình mờ ảo phía sau, những đường viền chập chờn như bóng ma, hình
+Quá khứ đã lùi xa, đâu còn là quá khứ
 
-Chỉ đến khi vang lên tiếng động bên ngoài (một tiếng huýt sáo mơ hồ lẫn trong tiếng chim hót), chân mày Tommy mới nhíu lại. Bàn tay cậu vươn ra định chạm vào một chiếc thùng nhưng chỉ chụp vào khoảng không trống rỗng. Cậu thử lại lần nữa. Một giọt nước mắt lăn dài trên má. Cậu lắc đầu, rồi quay người nhìn thẳng về phía Bratty.
+Mặc cho miệng đời rủa xả những lời cay độc hung dữ
 
-Cậu đã nhìn thấy Bratty.
+Chê mày xấu, chê mày béo, bảo mày là thứ phế thải
 
-Ánh mắt Tommy sáng bừng lên. Cái quái gì thế này? Bratty chẳng biết phải nói gì. Anh không hiểu tất cả những chuyện này rốt cuộc có ý nghĩa gì, anh chỉ biết Tommy là người bạn thân nhất của mình. Tommy đã luôn và sẽ mãi mãi là người bạn thân nhất, là người anh em vào sinh ra tử, là tri kỷ tâm giao trong những trò trác táng, trong âm nhạc và những cuộc vui bất tận.
+Coi mày như tượng lùn giữ vườn, ôm lấy cỏ cây mệt nhoài
 
-“Bratty…”
+Thì kệ mẹ chúng nó đi, mặc xác đời phán xét
 
-Những lời nói cứ thế tự động tuôn trào khỏi miệng Bratty: “Tụi mình đang làm cho nó mạnh mẽ hơn đấy.” Anh cất lời, dẫu bản thân cũng chẳng hiểu tại sao mình lại nói vậy.
+Đống rác rưởi mày chịu đựng đến lúc phải chấm hết
 
-Tommy gật đầu: “Mày đúng là mày thật rồi.”
+Quay lưng bước đi thôi, vượt lên trên tất cả
 
-Bratty giơ ngón tay cái lên: “Là nhờ âm nhạc đấy…”
+Nâng cao ly của mày, rũ sạch mọi vất vả
 
-Và rồi, toàn bộ khung cảnh sủi bọt xèo xèo.
+Nâng ly lên, thả lỏng nào, tận hưởng cuộc đời thôi!
 
-Xung quanh chỉ toàn *thùng, thùng, thùng*, tuyệt nhiên chẳng thấy bóng dáng Tommy đâu nữa.
+Sắc xanh của cây cỏ nhòe đi khi những cánh đồng dần nhường chỗ cho các cánh rừng bạt ngàn, và Jack thì hát theo không sót một ca khúc nào.
 
-Rồi Tommy lại hiện ra giữa những bọt khí ngập tràn. Một Tommy trong suốt như ảo ảnh với những mẩu bong bóng nhỏ li ti ánh bạc. Mọi thứ đều sủi bọt lăn tăn.
+“Anh là ai thế?” cô hỏi. “Sao anh lại thuộc lòng những bài hát này?”
 
-“Bratty!” Tommy hét lên, nhưng âm thanh lại vọng ra từ một nơi nào khác. “Bratty…”
+“Chúng đã cất lời với anh. Anh nghe thấy và hiểu ra ngay: một điều gì đó buộc phải thay đổi.”
 
-“Tommy… là
+“Anh có thấy hạnh phúc hơn không? Ý em là, với tư cách một thám tử tư ấy?”
 
-Âm thanh vụt tắt. Tommy biến mất. Những bong bóng bọt khí hay bất cứ thứ của nợ quái quỷ gì đó tan biến sạch trơn. Khung cảnh bị bóp méo rồi tái định hình trở lại thành một căn hộ ngập tràn những thùng carton.
+“Trong đời mình, anh chưa từng hạnh phúc đến thế. Ít nhất là kể từ trước những năm tháng học trường luật. Hoặc kể từ ngày anh gặp em. Ngoại trừ…”
 
-Bratty nghe thấy tiếng nhạc: bài “Gin and Juice” - nhạc chuông điện thoại của anh. Anh rút điện thoại ra khỏi túi quần. Màn hình hiện lên cái tên *AssMaster*.
+“Em mừng cho anh. Nhưng em không biết liệu…”
 
-Anh bắt máy: “Yo.”
+“Anh biết.”
 
-“Bratty, tụi tao tìm thấy…” Giọng Tommy nhỏ dần rồi ngập ngừng.
+“…liệu em có còn yêu anh nữa hay không.”
 
-“Cái gì?”
+Hoặc liệu cô có còn *muốn* yêu anh nữa hay không. Cô ngắm nhìn chồng mình: đôi bàn tay rậm lông đặt trên vô lăng, đôi cẳng chân gầy guộc như chân dê, lớp râu lún phún được chăm chút tỉ mỉ, cùng ánh mắt dán chặt vào mặt đường đầy cẩn trọng. Trông anh hệt như người đàn ông cô từng trao trọn cuộc đời trong ngày cưới. Thế nhưng anh sẽ chẳng bao giờ còn là con người ấy nữa (nếu như trước đây anh từng thực sự là người như thế). Anh chỉ là một hóa thân, một phiên bản Jack của riêng không gian và thời gian này, một thực thể phù du thoảng qua tựa những con sóng đan cài chắp vá trên một đại dương không ngừng biến chuyển. Dù vậy, ở nơi anh, nơi đường góc cạnh quai hàm nghiêng nghiêng, sự an ủi trong ánh nhìn, hay đôi môi mím lại trong nỗi chờ mong giằng xé, vẫn le lói bóng hình người đàn ông từng làm rung động trái tim cô.
 
-“Tao… bạn già ơi, tao vừa có một cảm giác quái dị kinh khủng. Mày có sao không đấy?”
+Cả hai lại chìm vào im lặng. Thế nhưng khi album vừa kết thúc, cô liền bấm phát lại, và Jack lại tiếp tục cất giọng rap theo. Xa lộ lớn biến thành con đường uốn lượn, lòng đường ngày càng thu hẹp giữa những rặng cây vươn cao sừng sững. Dưới bóng râm của các cành cây cổ thụ, ánh nắng nhảy múa thành những mảng hoa văn sặc sỡ. Miriam lờ mờ cảm nhận được họ đã đến rất gần. Họ chạy xe ngang qua một ngôi nhà đồng quê có chiếc nhà kho màu đỏ cũ kỹ. Phía trên ngôi nhà, một con chim cắt lớn chao liệng thành từng vòng. Cảnh tượng ấy khiến một cơn ớn lạnh chạy dọc sống lưng cô. Ánh sáng ở nơi này mang một sắc thái kỳ dị: mờ ảo và đầy điềm gở. Tuy nhiên, Jack vẫn bình thản lái xe, vượt lên một con dốc, lao xuống thung lũng, rồi lại lầm lũi leo dốc thêm một lần nữa. Ngay khi chiếc xe vừa chạm tới đỉnh đồi, một khoảng đất trống hiện ra với một ngôi nhà nằm đơn độc.
 
-“Tao…”
+Ngôi nhà sở hữu hộp thư gỗ đẽo hình con thuyền. Jack dừng xe ngay bên cạnh. Anh nhảy phắt xuống, bật mở nắp hòm thư rồi thản nhiên rút ra một xấp thư từ.
 
-Được rồi, công bằng mà nói thì anh vừa chứng kiến vài trò quái đản đến mức điên rồ. Nhưng Tommy đang ở đó, ngay tại Los Angeles. Cậu ấy đang ở L.A. Cả hai kết nối với nhau qua sóng âm cùng vệ tinh viễn thông, cùng chung sống trong giấc mơ trở thành ngôi sao nhạc rap. Phía bên kia đầu dây, Tux cất tiếng sủa gâu gâu. Ở hậu cảnh, tiếng nhạc xập xình phát ra từ dàn loa xe hơi, kèm theo tiếng *tách* nho nhỏ của chiếc bật lửa. Tommy thong thả phả một làn khói vào ống nghe. Một làn sóng cảm xúc dâng trào cuốn qua người Bratty (một cảm giác anh chưa từng nếm trải bao giờ). Cứ gọi đó là sự bình yên, hay sức mạnh cũng được. Nó quét sạch những tàn dư sợ hãi cuối cùng, để lại trong lòng anh sự kiên cường, nhuệ khí bừng bừng và âm nhạc. “Tao ổn. Tao tuyệt vời ông mặt trời luôn. Mày tìm thấy cái gì thế?”
+“Jack, dừng lại đi!” cô gọi với ra. “Anh không thể cứ thế lục lọi hòm thư của người khác đâu.”
 
-“Tụi tao kiếm được một cái nhà kho rồi.”
+*(Tất nhiên rồi, việc xâm phạm thư từ là một tội liên bang, nhưng nguyên tắc ấy dường như chẳng có chút trọng lượng nào trong Môn Nghệ Thuật Thám Tử hoàn toàn tự phát của anh.)*
 
-“Đỉnh chóp.”
+“Đúng là ông ấy rồi!” Jack hân hoan giơ cao một phong bì gửi cho Ricardo Merman.
 
-“Với lại một chiếc xe tải to tổ bố nữa. Mười phút nữa xe tới nơi. Mày phải ra ngoài chỉ cho
+“Nhìn cái hòm thư hình con thuyền là em cũng đoán ra được rồi.”
 
-“Biết rồi, để tao lo.”
+Jack lật giở xấp thư. “Nhìn mấy cái dấu bưu điện này xem. Vài bức trong số này đã được gửi từ nhiều tháng trước. Tháng Ba, tháng Ba, rồi tháng Tư. Chẳng có ai buồn đến lấy thư cả.”
 
-“Và tụi tao gom được khoảng một trăm người, họ bảo sẽ đến giúp đóng gói đống áo phông.”
+“Có thể Ricardo Merman không còn sống ở đây nữa.”
 
-“Sao mày xoay xở được hay thế?”
+“Có lẽ mọi chuyện không đơn giản như thế đâu,” Jack nói. “Đi nào, chúng ta cùng vào điều tra ngôi nhà thôi.”
 
-“Tặng áo miễn phí chứ sao,” Tommy đáp. “Với lại, tụi mình chuẩn bị quẩy một bữa tiệc tưng bừng ở nhà kho.”
+Anh gõ cửa trước. Khi không nghe tiếng ai đáp lại, Jack liền rút ra một bộ đồ nghề bẻ khóa.
 
-Bữa tiệc nhà kho khai màn một ngày trước chuyến lưu diễn, mười lăm tiếng trước khi chiếc xe buýt tiệc tùng đỗ xịch trước cửa căn hộ của họ, và hai mươi tư tiếng trước buổi diễn mở màn ở Santa Barbara. Họ lùi chiếc xe tải to đùng vào bến bốc dỡ hàng, khiêng các thùng carton xuống, rồi dựng lên một sân khấu. Một người quen biết Tommy xuất hiện cùng dàn đèn laser, một người khác vần tới vài thùng bia rồi dựng luôn một quầy bar đầy đủ thức uống. Thế rồi, thêm nhiều người nữa trờ tới trên chiếc xe van trông y hệt một con cá mập, mang theo đèn cực tím, các dải đèn neon, thêm hàng loạt dàn laser khác, cùng các DJ và rapper đến chơi những set nhạc mở màn. Kế đó là cả một đám đông rầm rộ kéo đến. Hơn một trăm con người. Ai nấy đều lăm lăm bút viết, bảng kẹp hồ sơ cùng các bản sao danh sách đơn đặt hàng. Khi âm nhạc bắt đầu nổi lên, họ tạo thành một dây chuyền làm việc nhịp nhàng (bao gồm Bratty, Tommy cùng hơn một trăm người bạn mới kết giao). Họ phân loại áo phông, ghi địa chỉ, dán tem bưu chính, nốc rượu liên hoàn từ thanh ván trượt Shot-Ski; và đến hai giờ sáng thì mọi thứ đã được dán nhãn đóng gói tươm tất. Để rồi nhân vật tâm điểm của đêm diễn, Mr. Yay, chính thức bước lên sân khấu.
+“Nghiêm túc đấy à?” Miriam tròn mắt.
 
-Họ cuồng nhiệt chơi nhạc cho tới
+“Anh học lỏm trên YouTube đấy.”
 
-Và khi anh về tới nhà, chiếc xe buýt lưu diễn (hay đúng hơn là chiếc xe buýt tiệc tùng) đã chực chờ sẵn từ bao giờ.
+“Anh biết đột nhập gia cư bất hợp pháp là phạm tội hình sự, đúng chứ?”
+
+“Chỉ phạm tội nếu bị bắt thôi,” anh phớt tỉnh đáp. “Vả lại, không thế thì vào bằng cách nào? Mà không vào trong, khéo chúng ta chẳng phá nổi vụ án này mất.”
+
+Họ bước vào trong. Miriam cẩn thận khép cửa lại sau lưng. Jack bấm công tắc đèn. Chẳng có gì xảy ra cả.
+
+“Mất điện rồi.”
+
+Không khí trong nhà ẩm mốc và tù đọng. Chiếc áo khoác mùa đông treo cô đơn trên móc cạnh cửa, ngay phía trên đôi ủng đi tuyết. Rõ ràng đã nhiều tháng nay không có ai sinh sống ở căn nhà này.
+
+Căn nhà nhỏ và trống trải. Không bóng dáng trẻ con hay vật nuôi, không đồ trang trí vụn vặt, và tuyệt nhiên chẳng có lấy một chiếc tivi. Mấy tấm áp phích phim cũ kỹ treo trên tường: *Canyon of Arrows, The Lucky & Unlucky, The Last Train to Topeka*. Tận cùng phía sau là một phòng ngủ đơn độc. Cảm giác ngột ngạt và buồn bã bủa vây khắp gian phòng. Trong lúc cả hai lùng sục từng ngăn kéo và chạn bát để tìm kiếm manh mối về Mr. Yay đích thực, Miriam bất giác nhớ lại hình ảnh Mr. Yay thời tuổi trẻ của cô: sự nhiệt huyết, vẻ rực rỡ tràn đầy sức sống của ông hoàn toàn đối lập gay gắt với Ricardo Merman từng sống ở nơi này. Ricardo Merman này sở hữu một cuốn hộ chiếu đã hết hạn mà không hề có lấy một con dấu xuất nhập cảnh. Ricardo Merman này chất đầy gian bếp bằng cá ngừ đóng hộp, ngô đóng hộp, đậu cô ve đóng hộp, bánh quy mặn saltine, yến mạch ăn liền và bánh mì gối trắng đã ngả sang màu xanh phấn vì mốc meo. Ricardo Merman này cất giữ một cuốn album lưu giữ những bức ảnh chụp đám thú cưng thời thơ ấu: một con nhện, một con sóc, cùng một chú chó mù. Nơi đây còn có tấm ảnh Merman thuở thiếu niên đứng bên một con chuột hai chân. Gương mặt ông khi ấy vẫn đong đầy hy vọng, và tương lai của ông vào khoảnh khắc đó vẫn chưa hề ngã ngũ. Đáng lẽ ông đã có thể trở thành người mang danh Mr. Yay mà cô hằng biết, nhưng thực tế thì không.
+
+Miriam thong thả bước vào phòng ngủ, tiến về phía tủ quần áo của Ricardo Merman. Tủ đồ của ông là một bản trường ca đơn sắc: áo len xanh tím than, áo len xám, áo len nâu, vài chiếc sơ mi cài cúc chân phương cùng quần kaki và quần âu gập nếp phẳng tắp, tuyệt nhiên không có nổi một món đồ màu mè. Ngoại trừ một đốm đỏ lấp ló ở tận góc sâu cùng.
+
+Miriam gạt đống phục trang ảm đạm sang một bên. Sắc đỏ ấy thò ra từ vết rách của chiếc túi bọc giặt khô bằng nilon. Cô xé toàn bộ lớp bọc dọc theo đường may cho đến khi nó tuột hẳn xuống sàn. Lộ ra bên dưới là một chiếc quần ống rộng bằng nhung tuyết may ghép từ nhiều mảnh vải được khâu tay chỉn chu, mỗi ô vuông vải lại mang một sắc màu rực rỡ. Chiếc quần may ghép mảnh Patchwork Pants huyền thoại của Mr. Yay.
+
+Cô gỡ chiếc quần khỏi móc treo. Chạm tay vào chất vải, cô nhận ra món đồ này dường như chưa từng được mặc lấy một lần. Gấu quần phẳng phiu, chẳng hề sờn rách. Lớp nhung đã cứng lại sau hàng thập kỷ nằm im lìm trong bóng tối. Những chiếc cúc kim loại vẫn sáng bóng, chưa nhuốm chút hoen gỉ nào.
+
+Cô ôm chiếc quần vào lòng. Một giọt nước mắt lặng lẽ trào ra, lăn chậm trên má rồi rớt xuống nền nhung nguyên sơ như một hạt muối mặn mòi. Rồi cô siết chặt món đồ vào ngực, vỡ òa trong những dòng lệ tuôn rơi như suối lũ (dồn ứ biết bao mùa mưa nắng nghẹn ngào). Cô khóc cho tất cả những ký ức mình còn ghi nhớ nhưng đã tan biến vào hư không, khóc cho những điều chưa từng tồn tại nhưng đáng lẽ đã có thể xảy ra. Đáng lẽ cô đã có thể cùng các con xem *The Adventures of Mr. Yay*, nơi cô, hai đứa nhỏ và Jack quây quần ấm áp bên nhau. Đáng lẽ cô đã có thể thì thầm khi dém chăn cho con: “*Im lặng như một con sao biển*”, và lũ trẻ sẽ hiểu trọn vẹn ý nghĩa của câu nói ấy. Cô bật khóc cay đắng khi nghĩ về cuộc hôn nhân rạn nứt, về vô số lựa chọn cô từng đứng trước: mỗi lựa chọn tạo nên một làn sóng lan tỏa, định hình nên những quyết định tiếp theo, cho tới khi mọi con sóng va đập xô xát vào nhau, quay cuồng đến mức chẳng ai còn phân định nổi đâu là nguyên nhân, đâu là kết quả.
+
+Cô bật khóc, và Jack nghe thấy tiếng cô liền bước tới. Anh giơ tay định ôm lấy cô, nhưng rồi khựng lại giữa chừng.
+
+“Em có muốn…”
+
+Cô ngước nhìn anh. Giờ đây cô có quyền lựa chọn: ngả vào lòng anh, hoặc đẩy anh ra. Rốt cuộc cô muốn điều gì?
+
+Miriam nhìn xuống tấm vải nhung giờ đã lấm tấm những vệt nước mắt.
+
+Cơ duyên cô gặp Jack vốn khởi đầu bằng một vụ tai nạn: một chiếc xe khác tông vào xe anh, rồi xe anh đâm sầm vào xe cô. Mọi thứ ngay từ thuở ban đầu vốn đã đổ vỡ. Thế nhưng, một thứ đã vỡ vụn vẫn có thể được cứu vãn, được chắp nối từng mảnh và khâu lại thành một tác phẩm chắp vá rực rỡ, đẹp đẽ hơn rất nhiều so với tổng các mảnh ghép rời rạc.
+
+Cô gật đầu: “Em muốn.”
+
+Anh vòng tay ôm trọn lấy cô. Anh ghì chặt cô vào lòng, chiếc quần kẹp lại ở giữa hai người.
+
+*Đúng vậy*, cô muốn người đàn ông Jack *này*. Người kia - người đàn ông cuồng công việc - có lẽ cô đã bỏ lại phía sau. Người này dẫu mang đầy khuyết điểm, nhưng anh xứng đáng có một cơ hội. Bản thân họ xứng đáng với cơ hội đó. Miriam + Jack. Có thể chẳng phải là mãi mãi, nhưng ít nhất là cho khoảnh khắc này.
+
+Anh ôm lấy cô, và cô tiếp tục khóc. Cho đến khi những giọt lệ cuối cùng ngừng rơi, anh mới nhẹ nhàng cất lời: “Anh tìm thấy thứ này.”
+
+Anh đưa ra một cuốn sổ tay có dòng kẻ giản dị, giấy đã ố vàng và sờn gáy theo thời gian, vẻ ngoài chẳng có gì nổi bật ngoại trừ những dòng chữ ghi bên trong.
+
+“Cái gì vậy?”
+
+Jack lật mở từng trang. Những nét chữ nguệch ngoạc li ti phủ kín khắp mặt giấy. Mỗi trang đều ghi rõ một mốc thời gian. Những ngày tháng ấy kéo dài suốt nhiều thập kỷ, cho tới tận năm hiện tại, đúng ngày 21 tháng Ba - ngày Xuân phân - nơi lưu lại dòng nhật ký cuối cùng:
+
+*Tôi sợ rằng mình đã đánh mất chính bản thân. Tôi từng có một giấc mơ, một lần, nơi tôi khoác lên mình chiếc quần chắp vá nhiều mảnh cũ kỹ tự tay may lấy rồi khiêu vũ trên boong tàu, muôn vàn sắc màu tuôn chảy quanh tôi, và ở đó có muôn loài động vật cùng những đứa trẻ. Tôi đã bảo với chúng rằng chúng có thể lớn lên để trở thành chính mình, chỉ riêng mình thôi, bởi chẳng có ai tuyệt vời hơn thế. Tôi thấy lòng tràn ngập cảm hứng, và tôi đã truyền cảm hứng cho người khác. Nhưng đó chỉ là một giấc mơ - tôi từng nghĩ vậy. Và tôi đã sợ hãi. Ước gì tôi có thể vươn tay với tới chính mình. Đừng sợ, tôi sẽ nói với cậu ấy như thế. Cứ kỳ dị theo cách cậu muốn đi. Với tôi lúc này thì đã quá muộn rồi. Nhưng với cậu ấy, mọi chuyện vẫn…*
+
+Và rồi, dòng nhắn gửi đột ngột dừng lại.

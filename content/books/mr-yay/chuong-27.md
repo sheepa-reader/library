@@ -1,110 +1,189 @@
-# THÁNG HAI
+# CÁI QUÁI GÌ THẾ, CON HƯƠU?
 
-## THANH VÁN TRƯỢT SHOT-SKI
+**ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP** Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng *bịch* rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.
 
-**MR. YAY MUỐN TÌM CHÚT VUI VẺ.**
-“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”
+“Có một con hươu trên bãi cỏ kìa,” Jack thông báo.
 
-“Lúc nào tao cũng xì hơi ra khói à? Hay tao kiểm soát được?”
+Lũ trẻ ùa ra. “Đâu ạ? Đâu hả bố?”
 
-“Lúc nào cũng thế.”
+Mấy đứa nhỏ chạy vụt qua Jack, dí sát mặt vào cánh cửa kính chống bão.
 
-“Ít nhất với mồ hôi bia, tao có thể làm cho cơ thể lạnh đi để khỏi đổ mồ hôi.”
+“Mẹ ơi, chúng con ra xoa đầu nó được không?” Rory hỏi.
 
-“Trừ khi mày lo lắng. Lúc đó nách mày sẽ đầm đìa bia.”
+“Mẹ ơi!” Lindsey thốt lên. “Con hươu đang cố đột nhập vào xe kìa!”
 
-“Đằng nào thì cũng khó mà giữ nổi một công việc.”
+Miriam ghé mắt nhìn ra ngoài. Con hươu đứng bằng ba chân, còn cái móng của chân thứ tư thì đang cào cào vào tay cầm cửa bên ghế phụ chiếc xe của cô.
 
-“Trừ khi mày làm rapper,” Tommy nói. “Hoặc làm DJ cho rapper đó.”
+“Cái quái… cái quỷ gì thế! Nó đang làm xước be bét cái xe của em rồi!”
 
-Mr. Yay đi sắm đồ. Anh mua cần sa dạng búp, thuốc lá điện tử, bánh kẹo cần sa và tinh dầu. Anh tậu thêm một tấm thảm treo tường in hình đầu người ngoài hành tinh phát sáng, kèm theo một chiếc đèn dạ quang ánh tím. Anh mua một sợi dây chuyền vàng cùng một cái bọc răng vàng. Chẳng phải vàng thật, nhưng ai mà biết được cơ chứ? Anh mua một thùng rượu Fireball, một thùng rum và năm mươi pound thức ăn cho chó.
+“Để anh xử lý cho,” Jack bảo. Anh nhặt chiếc cặp táp lên, thủ sẵn như một thứ vũ khí thô sơ rồi bước ra ngoài. Miriam xỏ vội đôi ủng, lao ra theo anh.
 
-Anh nướng nốt những đồng tiền bán xe cuối cùng vào một cái loa to chềnh ễnh. Rồi trong suốt một tuần, hoặc ba hay bốn tuần gì đó, anh và Bratty phê pha ngập ngụa, cày vô số trò điện tử và tra tấn màng nhĩ bằng những nhịp rung động âm trầm Sub-bass rung trời chuyển đất.
+“Này! Hươu kia!” Jack hét lên. “Tránh xa khỏi đó mau!” Anh xua xua chiếc cặp táp trông vẻ vô cùng đáng sợ của mình.
 
-Thế nhưng, đâu đó giữa làn sương mờ mịt của những tuần lễ ấy, Bratty vẫn làm được vài việc có ích. Hoặc ít nhất, anh cũng phóng vài mũi tiêu vào bóng tối. Anh chẳng biết mũi nào sẽ trúng đích. Anh tự tạo một trang web. Anh tải nhạc lên mọi nền tảng phát nhạc trực tuyến. Anh gửi các bản phối đến các phòng thu và công ty đại diện. Anh thậm chí còn tự dựng hẳn một video ca nhạc. Video đó thực ra chỉ là vài đoạn phim ngắn quay cảnh chú chó Tux đội chiếc mũ cướp biển, còn Tommy thì đeo miếng che mắt, miệng phì phèo hai điếu cần cùng lúc. Tommy đã tự vẽ miếng che mắt đó bằng bút dạ không xóa.
+Con hươu chẳng hề tỏ ra sợ hãi trước anh chàng luật sư mang chiếc cặp táp này. Nó phi quanh chiếc xe, chồm lên bằng hai chân sau rồi thúc hai móng trước vào ô cửa kính bên ghế lái. Mặt kính không vỡ, bởi con hươu này cũng chẳng quá to lớn, nhưng nó nhất quyết không chịu từ bỏ. Nó tiếp tục đứng bằng hai chân sau rồi dậm hai móng trước vào mặt kính lần nữa.
 
-“Nhìn tao ngầu phết đấy chứ,” Tommy bảo, khi miếng che mắt mờ dần thành một vệt mực lem nhem màu xanh xám. “Trông như tao vừa sống sót qua một trận ẩu đả ra trò vậy.”
+Miriam lách qua anh chồng vô dụng của mình. Cô lao về phía con hươu, vung vẩy hai tay.
 
-Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ.
+“Này!” cô hét lên. “Tránh xa khỏi đó mau! Đi ra!”
 
-Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, *“Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,”* nhưng những gì bố Bratty nghe được lại là, *“Con trai ông đúng là một kẻ thất bại vô dụng.”* Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.
+Con hươu vẫn đứng nguyên tại chỗ, hai móng trước ấn chặt vào cửa kính. Nó giương đôi mắt đen to tròn nhìn chằm chằm vào cô.
 
-Thế nên anh không hé răng với Tommy, cũng chẳng buồn kiểm tra xem có ai ngó ngàng tới cái video ngớ ngẩn của mình hay lắng nghe những bản nhạc ấy hay chưa. Thay vào đó, anh phê pha quên trời đất rồi chạy bộ cùng chú chó của mình, tiện tay nhặt nhạnh những thứ người ta vứt đi bên đống rác. Chú chó thì bới tìm xương gà cùng những miếng pizza rơi vãi trên đường. Còn Bratty thì nhặt được một hồng tâm phi tiêu, dẫu chẳng có lấy một mũi tiêu nào. Rồi anh tìm thấy một tấm ván trượt tuyết lẻ loi. Anh cùng Tommy lấy keo dán bốn cái ly uống rượu mạnh lên đó, biến nó thành một thanh ván trượt Shot-Ski.
+“Cái gì? Mày muốn cái gì hả?”
 
-“Giờ thì tụi mình chỉ cần kiếm thêm hai em gái nóng bỏng để cùng chơi trò Shot-Ski này nữa thôi,” Tommy nói.
+Con hươu vẫn nhìn chằm chằm.
 
-Mỗi tội họ đã cạn sạch rượu rum, và chai Fireball cũng chỉ còn trơ đáy.
+*Anh ta đã đi đâu rồi?* - dường như nó đang hỏi như vậy.
 
-“Có khi chúng mình phải kiếm việc làm thôi,” Bratty nói.
+Con hươu này thật chẳng ra làm sao cả.
 
-Mr. Yay đời nào chịu đi làm.
+*Anh ta là ai mà đi đâu cơ chứ?*
 
-“Chán chết đi được. Mày nhìn cái răng vàng này xem. Thế nào, mày muốn tao nhe cái răng này ra đứng bỏ đồ vào túi cho khách ở siêu thị chắc?”
+Với lại, hươu thì làm sao biết nói.
 
-Mr. Yay chỉ muốn ngủ nướng đến tận chiều muộn rồi thức suốt đêm thâu.
+*Anh ta đã đi đâu rồi?*
 
-Mr. Yay muốn nhảy múa.
+Miriam mở cửa bên ghế phụ. Cô nhảy tót vào trong rồi bóp còi inh ỏi.
 
-Mr. Yay muốn làm nhạc. Và họ đã làm thế thật, Tommy cùng với Bratty, mải miết sáng tác và phiêu bồng theo từng nhịp phách qua những đêm muộn. Nhưng họ tuyệt nhiên chẳng bao giờ đụng đến chuyện hậu cần tính toán.
+Giật bắn mình, con hươu nhảy dựng về phía sau rồi bỏ chạy thục mạng.
 
-“Tao là kiểu người hướng tới bức tranh toàn cảnh,” Mr. Yay tuyên bố. “Tao tràn ngập tâm hồn và chất thơ, chẳng khác gì Jack Kerouac, hoặc giả như Lord Byron vậy. Chỉ có điều cơ bụng tao chuẩn hơn, và hàng họ cũng khủng hơn thôi.”
+Trong hộc để cốc có một hộp khoai tây chiên ăn dở. Mồi nhử hươu đây mà. Có lẽ thế. Nếu như hươu cũng ăn khoai tây chiên. Cô bước ra khỏi xe và kiểm tra mức độ thiệt hại: sơn xước vài chỗ, thêm mấy vết móp nho nhỏ.
 
-Anh hừng hực tính dục, ngập ngụa khói thuốc và tràn trề lòng kiêu hãnh, đúng bản chất của một rapper, đúng chất Mr. Yay. Còn khi trở về làm Tommy, anh lại có phần dè dặt hơn. Nhưng ẩn sâu trong mắt anh luôn có một tia sáng mang màu sắc tiên tri, như thể anh linh cảm được điều gì sắp sửa xảy đến.
+“Rốt cuộc nó muốn gì nhỉ?” Jack hỏi, như thể đó mới là câu hỏi quan trọng nhất lúc này.
 
-Cơn gió đã bắt đầu đổi chiều.
+Cả hai quay trở vào nhà.
 
-“Nhưng bọn mình cần tiền trả tiền nhà.” Bratty vẫn là kẻ thực tế. “Hay là chúng mình tìm việc gì đó, tao cũng không biết nữa, đại loại giông giống việc làm? Nhưng không phải một công việc gò bó thực sự.”
+“Bố ơi,” Rory hỏi, “sao bố lại đội một cái mũ thế?”
 
-“Cái gì, kiểu như đi bán huyết tương hả?”
+Jack đang đội chiếc mũ fedora màu nâu, món đồ anh đã sở hữu nhiều năm nhưng hiếm khi đội đi làm.
 
-“Cũng được chứ sao. Nhưng tao đang nghĩ đến cái gì đó kiểu như, kiểu như…”
+“Sao con lại *không* đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”
 
-Cách căn hộ ba dặm là một dải các quán bar, nhà hàng và hộp đêm, nơi một rapper sở hữu chiếc răng vàng cùng con mắt thâm tím đang mờ dần có thể tìm được một thứ gì đó tàm tạm gọi là công việc. Tommy từng quen một người, người đó quen một người khác, và người này lại quen một cô nàng quản lý hộp đêm đang cần người đi phát tờ rơi. Thù lao gồm có: vé vào cửa miễn phí, hai ly đồ uống miễn phí, cộng thêm hai mươi đô la cho một xấp tờ rơi. Chưa hết, họ còn có thể bỏ túi thêm mười đô nữa nếu chịu khoác tấm bảng quảng cáo hai mặt kẹp trước kẹp sau đi diễu hành dọc khu phố.
+Rory rên lên thích thú. Jack bế bổng cậu bé lên rồi thọc lét tới tấp.
 
-Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: *Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư?* Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.
+“Bố ơi! Éccc!”
 
-“Trông phấp phới hiên ngang phết đấy chứ,” anh bảo. “Nó giống như cánh buồm, còn cơ thể tao chính là một con tàu lướt sóng.”
+“Rory, chạy mau!”
 
-Tommy tống một viên kẹo dẻo vào miệng rồi đội chiếc mũ cướp biển lên đầu. Thế là cả hai khoác tấm bảng quảng cáo kẹp người, lững thững cuốc bộ ba dặm tới con phố sầm uất. Họ rảo bước trên vỉa hè, chia phát tờ rơi cho từng người qua đường. Tommy phớt tỉnh huýt sáo một khúc hải tặc ca.
+“Áhhhhhh!”
 
-Bratty bỗng cảm nhận được một cơn gió lạ đột ngột thổi qua vạt áo. Anh cố không nghĩ ngợi xem nó báo hiệu điều gì, nhưng nỗi bất an quen thuộc vẫn chực trào dâng. Hội chứng rối loạn lo âu, chuyên viên trị liệu tâm lý của anh từng đặt tên cho nó như thế. Có điều, cảm giác lần này lại cuồng nhiệt và dữ dội hơn nhiều, tựa hồ anh đang cưỡi trên đỉnh một ngọn sóng thần sắp sửa vỡ tung xé toạc không gian quanh mình, vừa đáng sợ lại vừa choáng ngợp đến tận cùng. Cơn gió mỗi lúc một lồng lộn thổi mạnh.
+Tuyệt vời làm sao. Những âm thanh thật dễ chịu. Tiếng trẻ con la hét. Tiếng trẻ con cười đùa, quây quần cùng người bố bằng xương bằng thịt xuất hiện ở nhà vào giờ ăn tối. Chúng yêu anh đến thế cơ mà. Dĩ nhiên rồi. Anh là kiểu phụ huynh tỏa sáng rực rỡ. Bố chơi trò đuổi bắt, cù lét và chẳng bao giờ phải bắt hai đứa quỷ nhỏ đi tắm, hay nấu bữa tối cho chúng, hay đưa chúng đi bác sĩ, hay cạo sạch đống rỉ mũi mà chúng trét lên thành giường, hay ép chúng ăn những món ghét đắng ghét cay nhân danh dinh dưỡng hợp lý. Và trong khi cô cặm cụi nấu bữa tối, “Bố Tỏa Sáng” lại thả mình xuống ghế sofa để thỏa cơn nghiện tin tức hằng đêm.
 
-Anh nheo mắt nhìn về phía cuối đường, tim đập thình thịch từng hồi liên tiếp. Cách đó không xa là hai cô gái tóc nâu tầm ngoài đôi mươi đang rảo bước về phía họ. Ừ thì trông họ cũng nóng bỏng thật đấy, nhưng chỉ là kiểu nóng bỏng làm nền trong một khung hình đông đúc mà thôi. Thứ thực sự nổi bật ở tiền cảnh chính là đôi mắt. Một trong hai cô gái, người có vóc dáng thấp hơn, sở hữu đôi mắt to tròn biểu cảm đang dán chặt vào Tommy không rời. Đôi mắt ấy nheo lại. Đầu cô hơi nghiêng sang một bên. Cô thì thầm điều gì đó vào tai cô bạn cao kều đi cạnh rồi giơ tay chỉ trỏ. Cô bạn gật đầu lia lịa, mắt sáng rực lên. Một cô hét toáng vì phấn khích, cô nàng thấp hơn cũng ré lên theo, và rồi cả hai vừa hú hét vừa vồn vã lao xé gió tới chỗ Tommy.
+“Nhưng Bố ơi, bố phải đuổi theo tụi con chứ!”
 
-“CHÚA ƠI!”
+“Không phải lúc này đâu, Rory. Bố mệt lắm rồi. Bố cần thư giãn. Bố đã có một ngày dài làm việc vất vả.”
 
-“Đúng là anh ấy thật rồi!”
+Miriam cũng đã có một ngày dài vất vả ở chỗ làm, và cô cần một ly rượu vang cùng một điếu thuốc lá. Nhưng thay vào đó, cô lại nhận về một cái chuông báo khói báo động inh ỏi vì một mẩu phô mai cháy, một chú chó phản ứng thái quá với cái chuông báo khói, và hai đứa trẻ dậm chân thình thịch bước vào bếp để mè nheo, phàn nàn.
 
-“Đúng là anh rồi!”
+“Con đóiii quáaa!” Rory giật giật ống quần cô.
 
-“Mr. Yay!”
+*BÍP BÍP BÍP BÍP*
 
-“Có thật là…”
+“Bữa tối sắp xong rồi con.”
 
-Mr. Yay nở một nụ cười rạng rỡ hết cỡ. Chiếc răng bọc vàng của anh lập tức lóe sáng lấp lánh dưới ánh mặt trời.
+“Mẹ ơi, tắt cái tiếng bíp bíp đi!”
 
-“Á á á!”
+*BÍP BÍP BÍP BÍP*
 
-“Em không thể tin nổi vào mắt mình nữa!”
+“Mẹ đang cố đây!” Cô bật quạt, mở cửa sổ.
 
-“Bọn em mê anh chết đi được!”
+“Nhưng mà giờ lạnh quá!”
 
-“Đỉnh thực sự!”
+*BÍP*
 
-“Anh làm gì ở chốn này thế?”
+*BÍ…*
 
-“Tối nay anh có biểu diễn ở câu lạc bộ này không?”
+“Eo ôi, nhà mình ăn bông cải xanh đấy hả mẹ?”
 
-“Bảo có đi mà, em sẽ phát điên lên vì sướng mất!”
+“Con muốn ăn món khác cơ!”
 
-“Chúa ơi, anh cho em xin chữ ký được không?”
+“Con ghééét bông cải xanh!”
 
-“Cho em nữa với! Nha?”
+“Con muốn ăn bánh xốp waffle!”
 
-“Còn phải hỏi nữa à, chuẩn luôn,” Mr. Yay đáp tưng tửng. “Hai em muốn ký vào đâu nào?”
+“Nếu em ấy được ăn bánh xốp waffle thì con cũng muốn ăn bánh xốp waffle!”
 
-“Ừm… ngay đây này.” Cô gái thấp hơn kéo áo phông lên rồi chỉ tay vào thềm ngực. “Nhưng nhớ ký thẳng lên áo ngực của em nhé. Em không muốn chữ ký bị trôi mất lúc tắm đâu.”
+“Mẹ muốn sự yên lặng!” Miriam gắt lên. “Và chẳng ai được ăn bánh xốp waffle hết!”
 
-Mr. Yay ung dung thò tay vào túi quần. Anh rút ra một cây bút dạ dầu ngòi to tướng, cứ như thể bản thân đã dự liệu trước được tình huống ngàn năm có một này từ lâu lắm rồi, đoạn nắn nót đặt bút ký tên.
+Hai đứa trẻ rút lui về phòng khách. Nơi đây, chúng có thể chí chóe tranh giành xem ai nhặt mấy con khủng long nhựa trước, hoặc ai được quyền đụng vào khẩu súng laser (món đồ mà bình thường chẳng đứa nào thèm ngó ngàng, cho đến khi thấy đứa kia cầm lên). Miriam lén đi ra ban công phía sau nhà. Cô châm một điếu thuốc. Một điếu thuốc có hại cho sức khỏe, đáng bị lên án về mặt đạo đức, nhưng lại mang đến hương vị ngon lành tuyệt diệu.
 
-“Vậy thì,” anh chớp mắt, chất giọng sang sảng cất lên, “hai người đẹp có hứng thú làm một chầu rượu trên thanh ván trượt Shot-Ski không nào?”
+Nếu cuộc hôn nhân này tan vỡ, nếu cuộc đời cô tuột khỏi tầm kiểm soát, nếu cô chẳng thể gắn kết lại những mảnh vỡ, nếu cô thấy mình cô độc, chìm ngập trong khủng hoảng và bị đè bẹp dưới sức nặng của thất bại, cô sẽ hút thuốc lá.
+
+Cô sẽ bắt đầu bằng thuốc lá, rồi tiến lên dùng các loại thuốc kê đơn như Adderall và Lexapro. Tiếp theo là kẹo dẻo cần sa để mong có một giấc ngủ trọn vẹn qua đêm.
+
+Cô tự hiểu rất rõ bản thân. Cô thậm chí có thể hình dung ra trước cả quỹ đạo ấy: Miriam Shipley, một con tàu sắp đắm. Rò rỉ thì đã bắt đầu rò rỉ thật rồi, nhưng tình hình chưa hẳn là hết phương cứu chữa. Chưa đến nông nỗi ấy. Đơn giản là cô đang đứng ở ban công sau nhà và hút một điếu thuốc.
+
+Mà mặc kệ chứ. Nếu trung thực với lòng mình, cô thích hút thuốc. Nó gợi cô nhớ về thời thơ ấu, cái thời cô thường trộn lẫn đủ loại nước ngọt với nhau, hoặc kẹp mấy con kẹo dẻo hình sâu vào giữa hai lát bánh mì bơ đậu phộng. Cô thích cảm giác chuếnh choáng lâng lâng, thích cái vị gắt nhẹ nơi cổ họng. Cô thích cả việc có một lý do hợp cảnh hợp tình để bước ra ngoài và khép cửa lại sau lưng. Đứng ở ban công sau nhà, cô không còn phải nghe tiếng tin tức rì rào từ chiếc ti vi, hay những tiếng mè nheo đòi hỏi của lũ trẻ. Cô cũng sẽ không phải đối mặt với những câu hỏi không tài nào đáp nổi, kiểu như:
+
+*Mẹ ơi, sao trên người bố lại có mùi lạ thế?*
+
+Anh đúng là có mùi lạ thật. Cô đã ngửi thấy vệt mùi ấy ngay khoảnh khắc anh bước qua cửa nhà. Một thứ hương thoang thoảng ngai ngái của đất, thơm ngậy của sữa, vừa xa lạ lại vừa quen thuộc. Một thứ mùi chỉ càng làm cô thèm hút thêm vài điếu thuốc nữa.
+
+“Miriam!” Jack gọi với ra từ bên trong. “Em đang ở đâu đấy?”
+
+Cô giẫm nát tàn thuốc. Rồi cẩn thận nhét phần đầu lọc vào chiếc chai thủy tinh đã giấu sẵn trong bụi cây.
+
+“Em đây!” cô nói lớn. “Em vào ngay đây!”
+
+“Vậy là tối nay nhà mình ăn điểm tâm thay bữa tối à?” Jack hỏi khi cô bước vào.
+
+“Cái gì cơ?”
+
+“Bọn trẻ bảo tối nay nhà mình ăn bánh xốp waffle.”
+
+“Không có bánh xốp waffle nào hết.”
+
+“Thật tiếc quá. Anh chẳng biết em nấu món gì, nhưng tự dưng anh lại thèm bánh xốp cực kỳ. Hay là em có thể…”
+
+“Chúng ta không ăn bánh xốp waffle!”
+
+“Ồ. Em việc gì phải gắt gỏng thế.”
+
+“Em không hề gắt gỏng.”
+
+“Chỉ là anh và bọn trẻ muốn ăn bánh xốp thôi mà. Nhưng em làm gì ngoài đó thế?”
+
+“Em… em chỉ…” Dĩ nhiên là cô nói dối. “Xem con hươu lúc nãy còn quanh quẩn đâu đây không thôi. Để đảm bảo nó không quay lại ấy mà.”
+
+Miriam dọn món khoai tây nướng, bông cải xanh và thịt gà ra bàn. Lindsey tỉ mỉ tách từng búp bông cải xanh ra thành những nụ nhỏ xíu rồi nhâm nhi từng nụ một. Con bé xé thịt gà thành từng sợi mảnh như sợi phô mai. Con bé ăn khoai tây nướng, nhưng chỉ chọn những chỗ ruột khoai chưa từng tiếp xúc với phần vỏ.
+
+Rory thì giã nát thịt gà với khoai tây rồi dầm bẹt ra thành một miếng chả dẹt. Chú nhóc đòi lấy bằng được hũ siro phong.
+
+“Bánh xốp waffle nè mẹ,” cậu bé dềnh dàng giải thích.
+
+“Đó không phải là bánh xốp waffle,” Miriam kiên nhẫn. “Con không thể cứ nghiền nát mọi thứ lại với nhau rồi gọi đại nó là bánh xốp waffle đâu.”
+
+“Nhưng con muốn ăn bánh xốp mà.”
+
+“Thế nhưng tối nay nhà mình không ăn món đó.”
+
+Khuôn mặt Rory nhăn nhúm lại. Cậu bé bắt đầu mếu máo.
+
+“Nhưng mà… nhưng mà bánh xốp…”
+
+Chú nhóc kiên trì khóc ròng rã suốt một phút đồng hồ. Và thế là cô nhượng bộ.
+
+“Được rồi,” cô thở dài, lấy hũ siro phong rưới đều lên ngọn đồi khoai tây trộn thịt gà trên đĩa của Rory. “Đó, bánh xốp của con đấy.”
+
+Rory nhe răng cười khoái chí rồi ngấu nghiến ăn sạch. Lindsey nhìn em trai bằng ánh mắt kinh tởm. Trong lúc đó, Jack tiếp tục làm cả nhà chán ngán bằng việc điểm lại tin tức buổi tối.
+
+“Thị trường chứng khoán đang biến động cực kỳ thất thường,” anh phán.
+
+*Vâng. Ôi, thế cơ à? Gật đầu.*
+
+“Quốc hội lại trì hoãn việc bổ nhiệm các thẩm phán,” anh tiếp.
+
+*Ừm, hừm. Ừm, hừm.*
+
+“Hy Lạp đang mở cửa biên giới đón thêm hàng nghìn người tị nạn,” anh cập nhật.
+
+*Ôi, tốt quá. Gật đầu. Mỉm cười.*
+
+“Một đàn chim thuộc loài có nguy cơ tuyệt chủng rất cao trên một hòn đảo hẻo lánh ở Thái Bình Dương vừa biến mất một cách bí ẩn.”
+
+“Chúng đi đâu rồi ạ?” Lindsey hỏi.
+
+“Không ai biết cả,” Jack trả lời. “Theo lý thuyết, loài chim này dành một nửa thời gian trong năm ở đâu đó tại Nam Mỹ, nửa còn lại sẽ sống trên hòn đảo ở Thái Bình Dương. Thế nhưng năm nay, chúng rời Nam Mỹ mà chẳng bao giờ tới được hòn đảo. Chúng cứ thế bốc hơi. Rõ ràng là có đeo thiết bị định vị, nhưng giờ thì hoàn toàn mất dấu.”
+
+“Nhưng tại sao hả bố?”
+
+Jack mỉm cười khoái chí. Đôi mắt anh lóe lên ánh nhìn của một thám tử sừng sỏ. “Chà, một giả thuyết cho rằng đàn chim vẫn ở đó, chỉ là thiết bị định vị của chúng đã bị hỏng. Giống như bị tác động bởi xung điện từ, hoặc do bọn khủng bố sinh thái giở trò. Bố cũng đọc được một bài báo nhắc tới hiện tượng tự bốc cháy. Thế nhưng, nếu không tiến hành một cuộc điều tra kỹ lưỡng, sẽ chẳng ai biết được lý do thực sự.”

@@ -1,127 +1,411 @@
-# THÁNG TƯ - BÓI CHỈ TAY
+# BẬC THẦY MÔNG ĐÍT
 
-## BÓI CHỈ TAY
+**MR. YAY ĐANG Ở ĐÂU?**
 
-**MIRIAM BƯỚC VÀO XE** rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI
+Mr. Yay đang ngồi bên bờ hồ bơi. Chiếc ghế dài của anh trông giống như một vỏ sò khổng lồ. Anh mở sẵn một bản tạp chí đặt trên đùi nhưng chẳng buồn đọc, chỉ mải ngắm nhìn những bộ bikini lướt qua lướt lại.
 
-Cô đỗ xe bên lề đường ngay phía trước. Cô vặn thử tay nắm, nhưng cửa đã khóa chặt. Tấm biển bói chỉ tay bên ô cửa sổ vẫn phát ra ánh huỳnh quang màu hồng nhè nhẹ, nhưng tấm rèm mây đã kéo kín bưng. Cô gõ cửa. Có tiếng động lạch cạch phát ra từ bên trong. Cô gõ lại lần nữa. Vẫn không một ai trả lời.
+Nơi này chẳng giống đời thực chút nào.
 
-Miriam đành đi vòng qua bên hông tòa nhà. Ngay dưới ô cửa sổ, một con chim chết nằm rũ rượi trên mặt đất. Cô bước qua nó rồi ghé sát mắt nhìn vào trong. Nữ thầy bói đang ở đó, đứng ngay sát cửa sổ phía trước dòm ngó ra ngoài đường.
+Fatty Bratty, ẩn dưới lớp mỡ mềm phúng phính ở vùng bụng, lờ mờ lộ ra vài đường nét thoắt ẩn thoắt hiện của một cơ bụng sáu múi. Anh ngậm một điếu cần, tay cầm lon bia nhẹ, dâng trào một cảm giác kỳ lạ trong từng thớ thịt ruột gan: rằng mình vừa đi lạc vào một thực tại song song nào đó, hoặc lỡ nuốt chửng cả viên thuốc đỏ lẫn viên thuốc xanh cùng một lúc. Hiệu ứng tạo ra chẳng khác nào một giấc mơ tỉnh táo. Thế nhưng đôi chân anh vẫn gắn chặt với Trái Đất. Một chú thằn lằn nhỏ màu xanh lá phóng vụt qua, trèo qua các ngón chân anh, chui qua gầm chiếc ghế dài rồi bốc hơi mất dạng.
 
-Miriam lập tức vội vã chạy quay lại cửa trước. Cô đập cửa rầm rầm. “Tôi biết cô đang ở trong nhà!”
+Hồ bơi khách sạn đang bị thằn lằn hoành hành.
 
-“Đi đi!” Nữ thầy bói hét lớn qua khe cửa. “Ở đây không mua bán gì hết!”
+“Mẹ kiếp, tao sẽ đập chết tươi đứa nào dám đuổi mấy con thằn lằn này đi,” Tommy nói. “Tao sẽ quậy nát cái phòng này. Tao sẽ hủy diệt chúng nó trên internet.”
 
-“Nhưng tôi cần cô giúp! Tôi cần cô nói cho tôi biết…”
+Sáu hay bảy con thằn lằn đang thong dong tắm nắng trên chiếc ghế vỏ sò của Tommy. Chúng trông thật hạnh phúc bên nhau trong khoảnh khắc này.
 
-“Tôi chẳng biết cái quái gì để nói cho cô đâu! Tôi đếch phải thầy bói!”
+“Mày có thấy kỳ kỳ không?” Bratty hỏi.
 
-“Nhưng cô từng biết mọi chuyện mà! Những chuyện về tôi và cuộc hôn nhân của tôi…”
+“Cái gì cơ?”
 
-“Chuyện đó qua lâu rồi!” Rosy gằn giọng từng từ. “Tôi không làm thầy bói nữa. Đi đi!”
+“Mày biết đấy. Cái cảnh này này.”
 
-Miriam thở dài, buông xuôi ngồi gập gối xuống bậc hiên trước cửa. Rốt cuộc cô cũng chẳng hiểu tại sao mình lại mò đến đây. (Thực ra cô không nên đến thì hơn.) Làm gì có thầy bói nào sở hữu phép thuật ngoại cảm, bởi đơn giản là trên đời này làm gì tồn tại nhà ngoại cảm thực sự. Cô ta giỏi lắm cũng chỉ là một dạng chuyên viên trị liệu tâm
+Trớ trêu thay, Tommy vừa có khả năng thấu thị lại vừa cực kỳ ngốc nghếch. Cậu dường như cảm nhận được điều gì đó dị thường, thấu hiểu vấn đề ở mức độ sâu sắc hơn những gì Bratty có thể hình dung. Thế nhưng mỗi khi bị gặng hỏi, cậu lại thốt ra một câu chẳng liên quan gì, kiểu như: “Mày thà lắp chân gỗ hay lắp tay móc câu?”
 
-Ngay phía sau cô, tiếng ổ khóa lạch cạch vang lên. Cánh cửa hé mở. Nữ thầy bói Rosy thò đầu ra ngoài, trừng mắt nhìn Miriam đầy cảnh giác. “Tôi đã bảo rồi, tôi đếch phải nhà ngoại cảm.”
+Bài báo trên trang tạp chí đang mở in hình một người đàn ông mang chân gỗ, nạn nhân của làn sóng tư nhân hóa nhà tù tại Mỹ. Nhà tù hoạt động vì lợi nhuận này đã ngó lơ việc điều trị vết thương ở chân người đàn ông cho đến khi nó hoại tử và buộc phải cưa bỏ, để rồi sau đó lại mặc kệ, không thèm cung cấp một chi giả tử tế.
 
-“Tôi biết rồi. Xin lỗi cô. Tôi đi ngay đây.”
+“Chắc chắn là chân gỗ rồi,” Bratty nói.
 
-“Thế cô mò đến đây làm gì?”
+“Chuẩn luôn. Chứ tay móc câu thì làm được cái quái gì?”
 
-“Tôi… tôi đoán là mình đang thấy vô định. Với lại, lần trước khi tôi đến đây…”
+Mr. Yay lật sang trang khác. Bài báo tiếp theo viết về nạn ma cũ bắt nạt ma mới trong các hội nam sinh đại học và những người trẻ bị nó cướp đi mạng sống. Bài tiếp theo nữa bàn về các cuốn sách bị cấm, chủ nghĩa phát xít và sự đàn áp tư tưởng có hệ thống. Mr. Yay gấp tờ tạp chí lại rồi ném xuống đất bên ngoài chiếc ghế vỏ sò. Đầy trớ trêu, tờ tạp chí khi chạm đất lại lật ngửa ra đúng bức hình người đàn ông mang chân gỗ.
 
-“Cô từng đến đây rồi sao?”
+“Cái quái gì thế này?” Tommy trừng mắt nhìn tờ tạp chí. “Tao cứ tưởng tờ báo này phải viết về rock và roll cơ đấy.”
 
-“Cô bảo cuộc hôn nhân của tôi đã chấm hết. Rồi ngay sau đó cô lại bảo chưa. Cô còn mời tôi uống nước xá xị nữa.”
+“Cả rap nữa chứ. Ý tao là, họ đang phỏng vấn mày đấy thôi…”
 
-“Hừm.” Rosy hé mở cửa rộng thêm một chút rồi nhăn mũi. “Là cô à. Tôi nhớ ra rồi. Được rồi, tốt thôi. Muốn thì vào nhà đi.”
+“Nhưng phần còn lại của cái thứ này, mẹ kiếp, u ám vô cùng.”
 
-Miriam thực ra cũng chẳng biết mình muốn gì. Cô chỉ khao khát ai đó nói với mình rằng mọi chuyện rồi sẽ ổn. Cô chỉ muốn mọi thứ quay trở về quỹ đạo yên bình.
+“Nhưng thế giới vốn dĩ thế mà.”
 
-Cô bước theo nữ thầy bói vào trong. Căn tiệm bốc mùi ẩm mốc xen lẫn vị chua nồng bết rít. Trên quầy chất đống hộp đồ ăn mang về cùng vô số vỏ bánh may mắn đã bóc. Những búi lông mèo cuộn tròn như cỏ lăn hoang mạc vần vũ khắp sàn nhà. Bụi bặm phủ một lớp dày lên mọi vật dụng. Bản thân nữ thầy bói trông nhợt nhạt và hốc hác thấy rõ. Mái tóc vàng của cô ta bết dính, rối xù như tổ chim. Cô ta vẫn mặc đúng chiếc chân váy boho cùng áo phông của đội bóng Cincinnati Reds như ngày đầu Miriam gặp - chỉ khác là lần này, bộ đồ trông hệt như chưa từng trải qua một lần giặt giũ nào. Tuy vậy, đôi mắt cô ta vẫn xanh thăm thẳm, sâu đến khó lường.
+“Ừ thì đúng. Nhưng đâu nhất thiết phải thế. Mẹ kiếp, nó hoàn toàn có thể rực rỡ cơ mà.”
 
-Cô
+Tommy vung chân ra khỏi chiếc ghế vỏ sò, đá tờ tạp chí ra khỏi tầm mắt. Một cú đá như thế sẽ là điều bất khả thi nếu cậu mang chân gỗ. Cậu đứng dậy, thong thả bước về phía hồ bơi. Ở đó có bốn hồ bơi hình vỏ sò được nối với nhau bằng các hào nước, trung tâm là một hòn đảo nhỏ. Trên đảo sừng sững một quán bar tiki cùng những cây dừa thật trông giống hệt dừa giả, kèm theo các loài cây nhiệt đới tươi tốt có những chiếc lá trông như làm bằng nhựa.
 
-“Tôi… đúng vậy. Cảm giác đúng là như thế.”
+Tommy lội nước tiến về phía quán bar. Cậu gọi một ly piña colada đựng trong vỏ quả dứa.
 
-“Cô muốn biết điềm báo đó có nghĩa là gì chứ gì. Đó là lý do cô có mặt ở đây.”
+Mr. Yay đang ở đâu?
 
-“Điềm báo gì cơ?”
+Mr. Yay chỉ còn cách buổi diễn cháy vé tại một hộp đêm ở Las Vegas đúng hai ngày.
 
-“Chú chó của cô bị chiếc xe đó đâm phải.”
+Mr. Yay chỉ còn bốn ngày nữa là tới buổi phỏng vấn với…
 
-“Khoan đã… sao cô lại biết…”
+Mr. Yay đang đứng trên ván nhảy. Cậu lao mình xuống nước. Với hai bàn tay móc câu hay đôi chân gỗ, đáng lẽ cậu sẽ chẳng bao giờ nổi lên nổi. Thế nhưng cậu đã trồi lên, đầy vẻ đắc thắng, bởi giấc mơ này chính là giấc mơ tuyệt vời nhất mà cậu hay Bratty từng kinh qua.
 
-“Nó là con dao hai lưỡi đấy. Đã là điềm báo thì xoay chuyển theo hướng nào mà chẳng được.”
+Bratty ngả lưng trên chiếc ghế nằm hình vỏ sò, ngước nhìn bầu trời. Bầu trời mang một sắc xanh giả tạo, hệt như vòm trời nhân tạo bên trong các khách sạn ở Vegas, nơi ánh ban ngày ngự trị vĩnh hằng.
 
-Một tiếng *rầm* lớn đột ngột nện thẳng vào mặt kính cửa sổ.
+Biết đâu bầu trời này cũng là đồ giả. Chẳng có cách nào kiểm chứng được. Anh nhắm mắt lại, lắng nghe những âm thanh bên bể bơi: tiếng lách cách của đá lạnh trong bình lắc cocktail, những trang tạp chí ai đó bỏ lại đang phần phật bay trong làn gió biển nhân tạo. Anh nghe thấy tiếng *cộp cộp* như tiếng chân gỗ nện trên sàn hồ bơi.
 
-“Cái gì thế?”
+*Đất liền kia rồi!*
 
-“Mấy con chim đấy mà.” Nhà ngoại cảm lắc đầu ngao ngán. “Mấy tháng nay lũ chim ngu ngốc đó cứ lao rầm rập vào cửa sổ. Thế nên tôi mới phải kéo rèm che lại, nhưng xem chừng chẳng ăn thua gì.”
+Chiếc ghế vỏ sò của anh bồng bềnh trôi dưới vòm trời giả tạo. Có phải anh đang mơ không?
 
-“Cô nghĩ con chim chết rồi sao?”
+“Này, này.” Tommy lay anh. “Dậy đi, anh bạn.”
 
-“Dễ là thế lắm. Hoặc giãy giụa sắp chết đến nơi. Mèo nhà tôi cứ thấy con nào rơi xuống là mò ra tha đi liền. Chẳng công bằng tí nào. Nhưng mà thôi, đời làm gì có chuyện công bằng. Uống chút nước xá xị không?”
+Bratty mở mắt. “Tao ngủ bao lâu rồi?”
 
-“Ừm, vâng. Cho tôi xin một ít.”
+“Ai mà biết, chắc cũng một lúc rồi đấy? Tao có thèm đeo cái đồng hồ chết tiệt nào đâu.”
 
-Miriam đi theo Rosy vào một gian phòng kho chất đống bừa bộn những thùng carton, các mô hình bìa cứng kích thước thật của cầu thủ bóng chày, đá cuội, thạch anh cùng hàng đống tấm gương đủ mọi hình dáng, kích cỡ. Ở góc phòng đứng lù lù một chiếc tủ lạnh cổ lỗ sĩ dán kín các miếng nam châm in hình đội bóng Cincinnati Reds. Nữ thầy bói mở cửa tủ. Mấy miếng nam châm lập tức rơi lạch cạch xuống sàn. Miriam cúi xuống nhặt lên. Cô thử dán chúng trở lại, nhưng chúng quyết chẳng chịu hít vào vỏ tủ nữa.
+Đúng lúc đó, một người bồi bàn bước tới với hai phần khoai tây chiên cỡ lớn và hai lon soda Diet Fizz Wizard.
 
-“Đừng tốn công.” Rosy đưa cho cô một lon nước xá xị giả dược Diet Fizz Wizard kèm chiếc ống hút nhựa xoắn ngoằn ngoèo.
+“Chắc tới giờ ăn khoai tây chiên rồi,” Bratty nói.
 
-“Sao cô
+“Đến giờ xơi khoai rồi. Giờ mày thích lúc nào người cũng nhơm nhớp dầu với mằn mặn như một cọng khoai tây chiên, hay lúc nào cũng ướt sũng dính dính như một lon soda?”
 
-“Tôi đâu có biết.”
+“Cả quần áo hay chỉ mỗi da thôi?”
 
-“Nhưng cô vừa nói…”
+“Cả hai.”
 
-“Tôi *nói* thế. Nhưng tôi đâu có *biết*. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”
+“Rồi vĩnh viễn không bao giờ tắm sạch được à?”
 
-“Lần trước cô xem chỉ tay cho tôi cũng xảy ra chuyện tương tự sao?”
+“Ừ. Không bao giờ.”
 
-“Ai mà biết được. Thế chỉ tay của cô bảo sao?”
+“Tao nghĩ tao chọn nhờn dầu.”
 
-“Lần trước đến đây, cô bảo cuộc hôn nhân của tôi đã chấm hết. Nhưng rồi ngay sau đó cô lại bảo không phải. Cô cứ nói năng bất nhất như thế. Tôi cần biết ý cô thực sự là gì. Rốt cuộc cô đã nhìn thấy điều gì?”
+“Chuẩn đấy. Lướt gió tốt hơn. Với lại mày tính xem, nếu lúc nào người cũng dính nhếch nhác thì làm sao mà tán gái? Ít ra nhờn dầu thì mày còn có cơ hội gặp một cô nàng cũng nhơm nhớp mỡ, rồi hai đứa tha hồ dính lấy nhau.”
 
-Rosy lắc đầu tỉnh rụi. “Tôi chịu. Chẳng nhớ tẹo nào.”
+Sau giờ ăn khoai tây chiên là tới giờ uống bia, rồi đến giờ tiệc cocktail. Kế đó, Mr. Yay và Fatty Bratty khoác lên mình những chiếc áo phông cùng mũ nón ưa thích, bắn vài hơi tinh dầu cần sa rồi kéo nhau đến hộp đêm.
 
-“Cô xem lại chỉ tay cho tôi lần nữa được không?”
+Hộp đêm của khách sạn có tên Vương quốc Titan, một ảo cảnh dưới đáy nước kết hợp giữa ánh đèn neon và những đàn cá phát quang. Những chú sứa dập dờn phát sáng dưới ánh đèn cực tím ngay bên dưới sàn khiêu vũ lát kính. Trên đầu thực khách, các nghệ sĩ nhào lộn hóa trang thành nàng tiên cá với chiếc đuôi lấp lánh đang lướt đi vô cùng uyển chuyển. Hệ thống đèn chiếu rọi những làn sóng, những rạn san hô và rong biển. Đèn laser vẽ nên từng đàn cá, cá mập cùng những chú bạch tuộc đang uốn lượn nhảy múa. Các nhân viên pha chế trong bộ váy vảy cá óng ánh liên tục rót rượu vào những chiếc ly cocktail hình vỏ sò.
 
-“Cô biết đấy, ngày trước tôi cứ ngỡ mình là một nhà ngoại cảm đích thực,” nữ thầy bói nói. “Hồi nhỏ, ai cũng đinh ninh tôi có giác quan thứ sáu. Mẹ tôi cứ bảo: ‘Destinia Amber Rose, con có giác quan thứ sáu đấy!’ Nhưng thực tế đời nào lại vận hành theo kiểu đó. Tôi có nhìn thấy cái gì đâu. Mấy lời phán ấy cứ tự động tuôn ra khỏi miệng tôi, y như hôm nay vậy. Rồi sau khi trót nói ra miệng, tôi mới lờ mờ hình dung được đôi chút. Hoặc ít nhất trước đây từng là thế. Cơ mà từ bận cô mò tới đây lần đầu tiên, mọi thứ cứ rối tung rối mù cả lên.”
+“Mày thà suốt phần đời còn lại chẳng ăn gì ngoài cá,” Bratty hỏi, “hay là có một đôi mắt cá lồi tròn xoe?”
 
-“Ý cô là sao?”
+“Tao chỉ có độc đôi mắt cá thôi, hay vẫn giữ được đôi mắt bình thường?”
 
-“Đại loại là, tôi vừa buột miệng nói một đằng, liền sau đó lại phán một nẻo hoàn toàn trái ngược, rồi tôi thấy cả hai điều ấy cùng tồn tại song song. Hệt như một chiếc la bàn bị hỏng kim vậy. Nhưng làm quái nào mà như thế được cơ chứ. Việc này khiến tôi phải tự vấn xem có khi nào bấy lâu nay mình chỉ tự huyễn hoặc ra việc sở hữu giác quan
+“Chỉ có mắt cá thôi.”
 
-Làm gì có cái biển nào như thế. “Chính cô vừa mở cửa cho tôi vào mà.”
+“Thế tao chọn mắt cá. Như thế mới chất chứ.” Tommy gọi hai ly mai tai. Trong lúc chờ đồ uống, những người phụ nữ bắt đầu lượn lờ tiến về phía anh. Họ mặc váy ngắn, mí mắt lấp lánh kim tuyến, đính đá trên mặt, môi bóng bẩy, ánh mắt sắc sảo. Họ nhận ra anh. Hoặc đơn giản là họ bị hút về phía anh. Mr. Yay, một vệt sáng rực rỡ giữa bóng tối mịt mù dưới đáy nước. Mr. Yay mang sức quyến rũ chết người. Anh gọi thêm hai ly mai tai nữa. Rồi bốn ly nữa. Rồi một chầu bia.
 
-“Thì giờ đóng rồi đây này.”
+“Các em thà mang cái đầu mực ống,” anh cất giọng hỏi, “hay mang thân xác của một con hải mã?”
 
-“Xin cô đấy, tôi chỉ…”
+“Đầu mực ống, chắc chắn luôn,” Bratty đáp.
 
-“Phiền thật chứ! Đấy! Trong đầu tôi vừa lóe lên một viễn cảnh đây này: cô sẽ bám riết lấy tôi mà quấy rầy mãi, trừ phi tôi chịu bấm bụng xem chỉ tay cho cô.”
+“Đầu mực ống!” Tất cả các quý cô đồng thanh tán thành.
 
-“Không, tôi đi ngay đây,” Miriam nói. “Tôi xin lỗi vì đã làm phiền cô.”
+Họ chọn một bàn trong ô ghế riêng, gọi thêm mấy chầu rượu, và Tommy trong cơn say ngất ngây bắt đầu muốn nghe câu chuyện cuộc đời của tất cả mọi người. Cậu muốn biết làm thế nào họ lại đến được đây, ở hộp đêm này, giữa xứ Vegas này, vào đúng khoảnh khắc này của cuộc đời. Cậu muốn biết làm sao các cô lại xinh đẹp đến thế, bởi vì tất cả vẻ đẹp tràn ngập này đang khiến cậu ngợp thở.
 
-“Thôi khỏi đi. Tôi xem cho là được chứ gì.” Nữ thầy bói chộp lấy tay Miriam, kéo sát lên mặt soi thật kỹ. Đầu ngón tay cô ta miết dọc theo từng đường chỉ tay. “Hừm. Kỳ lạ thật đấy.”
+“Kiểu như, thế giới này đẹp đến mức xé lòng ấy.” Cậu đăm đăm nhìn ra sàn nhảy, mắt ánh lên vẻ trầm tư. “Thử nghĩ mà xem. Sự ngẫu nhiên kỳ diệu của nó. Cái xác suất kỳ khôi để các em tồn tại, lại còn nóng bỏng quyến rũ thế này nữa. Rồi tất cả những thứ này.” Cậu quơ quơ hai tay. “Vegas này. Hộp đêm này. Âm nhạc này. Làm sao mà có thể tồn tại tất cả thứ âm nhạc này, tất cả vẻ đẹp này, vậy mà bao nhiêu người lại không nhìn ra? Hoặc họ nghĩ nó chẳng quan trọng. Hoặc họ quá bận rộn đấu đá, lo âu hay cày cuốc. Rốt cuộc chúng ta có mặt trên đời này để làm cái quái gì cơ chứ?”
 
-“Có chuyện gì vậy?”
+“Để tiệc tùng?”
 
-“Có thứ gì đó ở chỗ này. Từ quá khứ gần của cô. Một sự đứt đoạn. Hoặc một sự hợp nhất. Hoặc một sự chuyển giao. Tôi chẳng tài nào đoán đích xác được… Dạo gần đây cô có chuyển giao hay cải đạo sang thứ gì không?”
+“Chính xác.”
 
-“Ý cô là, cải đạo sang tôn giáo mới ư? Không hề.”
+“Và để yêu thương, làm nghệ thuật các thứ.”
 
-“Không. Không, không phải cái đó. Phải là một thứ gì khác cơ.”
+“Để làm cho thế giới tốt đẹp hơn. Xinh đẹp hơn.”
 
-“Thế còn tương lai của tôi thì sao? Tôi biết chuyện gì đã xảy ra trong quá khứ rồi. Cô nhìn thấy gì về tương lai của tôi?”
+“Anh hay nghĩ về bố anh,” Tommy nói. “Ông ấy là một người tốt. Một người bố tuyệt vời. Nhưng này, thứ tự ưu tiên của ông ấy bị lệch lạc hết cả. Như hồi anh còn nhỏ, ông ấy mua một chiếc thuyền. Một chiếc ca-nô cao tốc sáng bóng xịn xò lắm. Anh còn giúp ông ấy chọn nữa chứ. Rồi ông ấy bảo: ‘Tommy, chúng ta sẽ dành cả mùa hè trên sông, câu cá, bơi lội rồi lướt sóng. Sẽ tuyệt vời lắm con ạ.’ Ông ấy hứa thế. Nhưng các em biết ông ấy đã đưa anh ra sông bằng chiếc thuyền đó bao nhiêu lần không?”
 
-“Tương lai xưa nay có bao giờ chắc chắn đâu. Chẳng một ai biết trước chuyện gì sẽ xảy đến cả.”
+“Bao nhiêu lần?”
 
-“Vậy là cô không thể nói cho tôi biết đường chỉ tay này báo trước điều gì về tương lai sao?”
+“Chắc chừng mười hai lần. Trong suốt… anh chẳng biết nữa, mười năm trời. Tính ra mỗi năm đi thuyền chưa nổi một lần. Còn toàn bộ thời gian còn lại, chiếc thuyền cứ nằm xó dầm mưa nắng rồi bám đầy rêu. Mùa hè nào ông ấy cũng bảo đây sẽ là mùa hè cả nhà đi chèo thuyền, nhưng rốt cuộc có đi đâu đâu. Ông ấy lúc nào cũng quá bận rộn với công việc. Cuối tuần, buổi tối, cứ như thể trên đời này chẳng còn gì tồn tại ngoài mấy cái quỹ đầu cơ, thị trường chứng khoán cùng đống chuyện tài chính nhảm nhí đó. Chiếc thuyền giống như một cơn mộng mị. Còn bố anh thì chỉ là một cái vỏ bọc hoạt động liên tục không ngừng. Đúng thế, thỉnh thoảng ông ấy cũng có những khoảnh khắc ngắn ngủi không phải làm việc, và ông ấy sẽ nhìn xung quanh với đôi mắt lờ đờ mệt mỏi, cứ như vừa mới tỉnh giấc. Để rồi công việc lại ập đến và đánh gục ông ấy một cú đau đớn.”
 
-“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có *một điều gì đó*.”
+“Chuyện đó… buồn thật đấy.”
 
-“Là cái gì
+“Ừ, buồn chết đi được ấy chứ. Điều đáng buồn là ông ấy lại được xem như một hình mẫu thành công. Ông ấy là chuẩn mực mà chúng ta được kỳ vọng sẽ trở thành. Người ta coi đó là hạnh phúc. Ông ấy thậm chí còn chẳng biết mình khổ sở đến mức nào. Ông ấy muốn anh nối nghiệp. Và anh cũng từng bắt đầu làm theo. Nhưng rồi anh nghĩ: không đời nào. Mẹ kiếp trường kinh doanh. Mẹ kiếp cái ngành đó.”
 
-“Nói cho chuẩn xác thì khó lắm. Tôi thấy… một đám đông khổng lồ. Phải rồi. Rất nhiều người, cơ man nào là người tụ tập lại với nhau. Rồi họ đang… họ đang phẫn nộ. Hoặc là, không phải, hình như họ đang hạnh phúc? Có lẽ thế chăng? Họ đồng thanh hô vang điều gì đó. Lại còn có cả những quầng sáng rực rỡ. Đèn chớp nháy liên hồi. Tôi thấy khói. Và… cả động vật nữa ư? Mọi thứ hỗn loạn hết cả lên. Thế nhưng cô lại ở đó. Cô đang đứng ngay chính giữa khung cảnh ấy. Và cả Jack nữa.”
+“Nên anh đã bỏ học sao?” Một cô nàng quyến rũ cất tiếng hỏi.
+
+Mr. Yay lập tức cất giọng rap bùng nổ:
+
+***’Cause I’m a rebel, like Luke Skywalker***
+
+***Smokin’ weed that looks like a green Chewbacca***
+
+***’Cause that bud’s so hairy, got me scary stoned***
+
+***The kind of weed that you nervous to smoke alone, yo…***
+
+*(Vì ta là kẻ nổi loạn, hệt như Luke Skywalker*
+
+*Hút thứ cỏ trông như một chú Chewbacca xanh rì*
+
+*Vì búp cỏ rậm rạp đó khiến ta phê ngất ngưởng*
+
+*Cái loại cỏ khiến ngươi phải run rẩy nếu dám phê một mình, yo…)*
+
+Cậu nhấp một ngụm mai tai đầy phớt tỉnh. “Ừ, anh bỏ học rồi. Mẹ kiếp cái đại học. Nhưng không phải ở khía cạnh học hành đâu nhé. Ý anh là, học hỏi rất tuyệt. Sách vở cũng rất tuyệt. Giá mà anh theo học ngành Ngữ văn hay Tâm lý học, thay vì chui vào trường kinh doanh như bố anh muốn… Thế nhưng vấn đề nằm ở chỗ này: Cậu bước chân vào đại học…”
+
+“Mày phải trả cả đống tiền vỡ mặt để chui vào cái chốn đó,” Bratty bồi thêm.
+
+“Chính xác. *Cả một đống* tiền chết tiệt. Rồi cậu cày như trâu, cậu tốt nghiệp, và rồi sao nữa? Cậu đi học tiếp lấy cái bằng MBA hay cái của nợ gì đó. Rồi cậu kiếm một công việc. Rồi cậu cày bục mặt. Để rồi rốt cuộc nhận lại cái gì?”
+
+“Nhưng ai chẳng phải đi làm,” một cô nàng trong nhóm cất lời. “Dù gì thì có bằng đại học vẫn dễ kiếm việc ngon hơn chứ.”
+
+“Đó là câu chuyện cổ tích người ta hay thêu dệt. Thế nhưng toàn bộ tiền đề đó chỉ là một lời dối trá. Nó giống như lời dối trá do cả hệ thống bịa ra để duy trì sự tồn tại của chính mình. Đâu nhất thiết con người ta phải sống như thế. Đáng ra mọi thứ có thể tốt đẹp hơn. Cuộc đời đâu chỉ có cắm đầu làm việc. Đâu chỉ có mỗi tiền tài,” Mr. Yay nói. Ngay lúc đó, một phục vụ hóa trang thành chàng tiên cá màu bạc thoăn thoắt dọn ly rỗng của anh đi, và anh hào hứng gọi thêm một chầu nữa cho cả bàn.
+
+Đâu chỉ có mỗi tiền tài - nhưng Bratty thừa hiểu, tiền nong lại là một thực tại không thể chối cãi ở dòng thời gian này. Và Tommy thì chưa từng phải sống thiếu thốn lấy một ngày. Đặc quyền sẵn có cho phép Tommy mơ mộng về những lý tưởng xa xôi. Đơn giản vì cậu ta có đủ điều kiện để làm việc đó.
+
+“Tôi mệt rồi,” Bratty cất lời. Anh đã say khướt. Và anh nhớ chú chó của mình. “Tôi lên phòng đây.”
+
+“Bratty, ở lại quẩy tiếp đi chứ!”
+
+“Thôi đủ rồi. Với lại, còn chú chó…”
+
+Mấy cô nàng lập tức reo lên: “Ôi trời, anh có cún cưng á?”
+
+“Trời đất ơi, có phải bé Tux không? Em thấy bé trên KlipSwatch rồi nè!”
+
+“Cho em xem ảnh với!”
+
+Tommy sẵn lòng giơ điện thoại khoe ảnh. Nhờ thế, Bratty liền tranh thủ lách người chuồn lẹ khỏi bàn tiệc. Anh lướt qua hộp đêm, băng qua sòng bạc rực rỡ, rồi bước vào thang máy. Anh bồng bềnh trôi lên trên hai mươi ba tầng lầu. Anh tưng tửng bước dọc hành lang mang phong cách thủy cung, nơi lớp thảm nhung êm ái tựa như cát dưới chân, còn những bức tường dập dềnh làn sóng xanh biếc từ ánh đèn chiếu. Âm thanh đại dương róc rách vọng lại từ chốn xa xăm. Cánh cửa phòng suite cao cấp của họ hiện ra hệt như một ảo ảnh sinh vật biển. Anh quẹt thẻ khóa. Thế rồi anh “bơi” vào trong.
+
+Chú chó của anh lập tức lao ra đón mừng.
+
+Tuxy Luxy. Đại đế Tuxander. Lãnh chúa Tux của tòa tháp khách sạn.
+
+“Chào cu cậu!”
+
+Bratty dắt chú chó ra ngoài đi vệ sinh. Anh gãi lưng cho nó, cho nó ăn, rồi chơi trò kéo co cùng nó. Sau đó, cả hai cùng ngồi bên nhau trên chiếc ghế sofa.
+
+Bên ngoài khung cửa sổ kính là cả một vùng rực sáng của ánh đèn khách sạn, các sòng bạc, những câu lạc bộ thoát y cùng các chùm đèn pha quét sáng liên hồi. Nơi đó có những đài phun nước bảy sắc cầu vồng, những chàng cao bồi bằng đèn neon, các bảng quảng cáo đồ sộ, và cả khối cầu khổng lồ (một ốc đảo phát sáng đến chói lòa). Đại lộ Strip nhạt nhòa trong ánh đèn pha và đèn hậu ô tô, tạo thành những dải sáng uốn cong xuyên qua thành phố cùng vùng ngoại ô, lao về phía các xa lộ tít tắp rồi tan biến vào cõi hư vô tối tăm của sa mạc hoang vắng - cho tới khi chúng chạm tới Los Angeles hay Ohio. Nơi ấy, bố của Bratty và bố của Tommy vẫn cặm cụi làm việc đến tận đêm muộn, an phận bên trong những dinh thự to lớn đượm buồn, nơi bao nhiêu tiền của tích trữ cũng trở nên vô nghĩa.
+
+Cả hai ông bố đều chẳng có nổi một chú chó.
+
+“Nhưng tao có mày,” Bratty thì thầm với Tux. “Và mày có tao.”
+
+*Gâu.*
+
+“Nhưng rốt cuộc mày từ đâu chui ra vậy?”
+
+Dù sao thì anh vẫn chấp nhận được thực tại về chú chó này - sự hiện diện chẳng hề có lời giải thích của nó ngay trong căn hộ của anh. Cả đống thức ăn cho chó, phụ kiện chăm sóc cún cưng và cả hồ sơ bệnh án thú y nữa. Tất cả đều khẳng định đây là chó của anh. Và đúng là như thế thật. Thế nhưng anh đâu có bị điên chết tiệt.
+
+“Mày sẽ nói cho tao biết chứ? Nếu mày biết được sự thật?”
+
+*Gâu.*
+
+Anh đứng dậy, áp bàn tay lên mặt kính. Anh nửa mong bàn tay mình sẽ xuyên thấu qua, như thể mặt kính này vốn xốp rỗng và chỉ là một làn nước chập chờn.
+
+“Nhưng phần lớn mọi thứ chỉ là khoảng trống rỗng. Khung cửa sổ này. Mày. Cả tao nữa. Phần lớn cấu tạo của chúng ta chỉ toàn là khoảng trống rỗng mà thôi. Nghĩ kỹ thì đúng là quái đản thật. Làm sao một thứ về cơ bản là ‘chẳng có gì’ lại có thể trở nên quan trọng đến thế chứ?”
+
+Nằm giữa chiếc ghế sofa và khung cửa sổ là một chiếc bàn nhỏ. Trên mặt bàn đặt tập giấy ghi chép của khách sạn. Tờ giấy chi chít những ca từ được Tommy viết ngoáy vào những khoảnh khắc tàn cuộc của đêm Vegas, khi nơi rìa trời đang âm ỉ một sắc đỏ rực.
+
+***Yo, bài rap này dành tặng những kẻ***
+
+***Từng bảo rằng tao chẳng thể làm nên***
+
+***Bảo tao hãy quay đầu về***
+
+***Với hai bàn tay trắng trơn vì***
+
+***Rap đâu phải là kế sinh nhai***
+
+***Họ bảo tao nên khôn lớn trưởng thành***
+
+***Tìm lấy một việc làm ổn định***
+
+***Sống cho ra dáng đàn ông***
+
+***Rằng mục đích đời này là chất đống tiền giả tạo***
+
+***Nhưng tao đời nào thèm nuốt trôi***
+
+***Thấy chưa, tao phải là chính tao***
+
+***Phải đuổi theo giấc mơ đời mình***
+
+***Tiền bạc chẳng là cái thá gì***
+
+***Khi tao tự làm chủ bản thân***
+
+***Tao nắm chắc một kế hoạch đỉnh cao***
+
+***Sẽ làm ra thêm nhiều bản nhạc,***
+
+***Sẽ nhâm nhi từng ngụm cognac***
+
+***Cùng thằng anh em Bratty và con chó***
+
+***Yo, tụi tao là một bầy sói***
+
+***Mày muốn chơi trò xì dách xì lát***
+
+***Thì tao đây chẳng đời nào bỏ bài***
+
+***Mày muốn ra đòn với tao***
+
+***Tao sẽ đấm trả thẳng tay***
+
+***Và tao tất tay tới bến***
+
+***Một khi đã chạm tới rap, bởi vì thấy không***
+
+***Tao sẽ làm bá chủ trò chơi ấy***
+
+***Tao sẽ làm bậc thầy của rap***
+
+Bratty có thể nghe thấy đoạn rap ấy vang lên mồn một trong tâm trí. Anh mở máy tính xách tay, bắt đầu nhào nặn những đoạn beat. Anh lơ đãng nghịch ngợm vài thanh âm và tiết tấu, trong khi chú chó lười nhác nằm bên cạnh, bình thản gác cái đầu nặng trịch lên đùi anh. Thế rồi, ừ thì, anh thong thả nhai một viên kẹo dẻo cần sa, lục lọi quầy minibar và tự hỏi cái quái quỷ gì đang diễn ra ở đây. Hình bóng phản chiếu của anh trông chẳng khác nào một bóng ma lướt nhẹ trên kính, với đôi mắt thẫn thờ nhìn xuống khung cảnh Vegas tráng lệ ngoài cửa sổ (nơi người ta tưởng chừng các vị thần từng ngồi xổm giữa sa mạc rồi xả ra hàng tỷ hạt đá quý lấp lánh, từ kim cương, hồng ngọc, lam ngọc cho đến vàng bạc và mấy thứ của nợ linh tinh). Thật choáng ngợp chết tiệt. Và kỳ quặc đến phát điên.
+
+Anh chìm đắm hoàn toàn vào trong âm nhạc.
+
+Bẵng đi vài giờ sau, cánh cửa phát ra tiếng cạch rồi mở ra. Tommy lảo đảo bước vào.
+
+“Bạn hiền ơi, mày… Mày đã bỏ lỡ…”
+
+“Đừng nói cho tao biết.”
+
+“Nó bắt đầu bằng chữ F, O, U, R…”
+
+“Nhưng nghe này.” Bratty bật một đoạn beat ngắn.
+
+“Đỉnh vãi.” Tommy toét miệng cười. Nụ cười của cậu toát lên vẻ đều tăm tắp, óng ánh như ngọc trai nhờ khoản đầu tư niềng răng chỉnh nha không hề nhỏ (và tất nhiên là cả đống miếng dán làm trắng răng nữa). Cậu luôn chối đây đẩy mỗi khi ai đó nhắc tới, nhưng Bratty đã tận mắt thấy bằng chứng rành rành nằm chễm chệ trong thùng rác phòng tắm.
+
+“Tao viết cho đoạn này này.” Bratty đưa cho cậu tờ giấy chép lời rap. “Thử đi.”
+
+Anh bấm nút phát beat.
+
+Tommy hắng giọng. Cậu vớ lấy chai tequila từ quầy minibar, tu một ngụm lớn, rồi bắt đầu nhả chữ.
+
+Ừ thì họ bảo tao thô bỉ, mở mồm là chửi thề
+
+Tán gái với điếu cần phì phèo, sống theo kiểu bất trị
+
+Đâu chỉ là mấy đường ke, hay men say chất ngất
+
+Hay vài ba em đào nóng bỏng khiến bao thằng mất chất
+
+Ừ nghe thì sướng tai đấy, nhưng đếch phải lý do
+
+Để tao ngông như Al Capone, trùm tội ác tự do
+
+Tuồn ra từng vần thơ lậu, bắn chữ nhanh như Tia Chớp
+
+Flow siêu tốc như súng liên thanh, nhắm mục tiêu là bắn phớt
+
+Nhưng tao đâu có vội vã khi phê pha ngọn cỏ
+
+Tay vỗ bôm bốp vào mông nàng, ghì chặt thân thịt đó
+
+Bật con beat này căng đét, giục cả sàn nhún nhảy
+
+Cả đám đông lắc lư vòng ba, phát cuồng lên như vậy
+
+Vì tao đứng đây cai trị, làm chủ từng con sóng
+
+Biến mình thành gã bậc thầy của những cặp mông cong!
+
+“Thế nào?” Tommy nốc thêm ngụm tequila nữa. Giọng cậu trôi chảy và mượt mà hệt như món bánh kem trứng béo ngậy.
+
+“Nghe ổn đấy. Có điều, mày phải chèn thêm từ ‘yo’ vào. Kiểu như, ‘Tao sẽ là ông trùm cái khoản đó, yo.’”
+
+“‘Tao sẽ là ông trùm cái khoản đó, yo. Tao sẽ là ông trùm mông đít.’ Kiểu thế hả?”
+
+“Ừ. Chính xác là kiểu đấy.”
+
+“Thế nên đặt tên bài này là gì đây?”
+
+“‘Ông Trùm Rap’ nhé?”
+
+“‘Ông Trùm Mông Đít’?”
+
+“‘AssMaster’?”
+
+Cả Bratty lẫn Tommy đều bật cười phì. Đúng lúc đó, tiếng gõ cửa cộc cộc vang lên.
+
+“Cái quái gì thế nhỉ?”
+
+“Ai đấy, yo?”
+
+“Dịch vụ chăm sóc khách hàng đây ạ.”
+
+“Ồ, chết thật, quên mất,” Tommy nói. “Tao có đặt chút rượu uống trước khi ngủ.”
+
+Cậu ra mở cửa. Phía bên kia ngưỡng cửa là một nhân viên mặc bộ suit tuxedo vô cùng lịch lãm, trên tay bưng chiếc khay bạc đựng chai sâm panh thượng hạng.
+
+“Chào buổi sáng, ngài Fischer.”
+
+“Thực ra thì,” Tommy phớt tỉnh đáp, “anh cứ gọi tôi là ‘AssMaster’ cũng được.”
+
+Bratty nghe thấy thế liền bật cười hô hố.
+
+“Tùy ngài muốn ạ, thưa Ông…”
+
+“AssMaster.”
+
+“Thưa Ngài AssMaster. Nếu các quý ông còn cần thêm bất kỳ dịch vụ nào khác, xin vui lòng nhấn phím ‘8’ trên điện thoại để kết nối với bộ phận chăm sóc khách hàng đặc biệt.”
+
+“Bất cứ thứ gì ư?”
+
+“Bất kể thứ gì, thưa ngài.”
+
+“Thế còn ít khoai tây chiên xoắn thì sao?” Tommy hỏi. “Anh mang lên cho chúng tôi một ít khoai tây chiên xoắn được chứ?”
+
+“Được chứ, thưa ngài.”
+
+“Thế còn một con mèo?”
+
+“Ngài muốn loại mèo nào ạ, thưa ngài?”
+
+“Ồ, tôi cũng chịu. Tôi chỉ muốn biết liệu anh có thể mang lên một con mèo không, ngộ nhỡ tôi lại hứng lên muốn có một con mèo ấy mà.”
+
+“Vâng, xin ngài cứ báo cho tôi biết ngay khi ngài có nhu cầu ạ.”
+
+“Đỉnh vãi. Thế còn một con ngựa vằn thì sao? Hay một con lừa?”
+
+“Vâng, thưa ngài. Ngài muốn một con ngựa vằn, một con lừa, hay là cả hai ạ?”
+
+“Ồ, chắc là chẳng chọn con nào đâu. Nhưng ý tôi là, chúng tôi hoàn toàn có thể có một con nếu chúng tôi muốn, đúng chứ?”
+
+“Vâng, chuẩn xác là như vậy, thưa ngài.”
+
+“Ồ, thế còn…” Tommy chợt khựng lại. Anh trố mắt nhìn Bratty, rồi lại nhìn xuống chú chó đang nằm ngoan ngoãn bên chân bạn mình. Chú chó vẫn là chính nó như mọi khi: đôi mắt tròn xoe đầy vẻ háo hức, cái lưỡi thè ra ngoài, chiếc đuôi ngoáy tít mù; thế rồi nó nhấp nháy. Đúng vậy, toàn bộ thân hình chú chó bắt đầu chập chờn nhấp nháy. Nó bỗng sáng rực lên, rực rỡ và chân thực hơn cả căn phòng xung quanh. Rồi ánh sáng ấy mờ dần, chuyển từ vẻ u ám sang trạng thái mỏng manh trong suốt. Đôi mắt nó tựa như phủ một màn tơ mờ ảo, còn chiếc đuôi chỉ còn là một vệt sáng chập chờn. Bratty thậm chí có thể nhìn xuyên thấu qua thân hình vạm vỡ của nó. Trông cu cậu lúc này chẳng khác nào bóng ma của một chú chó, một ảo ảnh, hay một giấc mơ thoáng qua. Có một âm thanh cất lên, nhỏ đến mức gần như vô thanh, nhưng đôi tai của chú chó bóng ma lập tức vểnh ngược lên nghe ngóng. Âm thanh ấy nghe tựa như tiếng rột rẹt của một chiếc khóa kéo; lại giống như tiếng gió rít qua khoảng không vô định; hay tiếng huýt sáo của một giai điệu xưa cũ từng rất đỗi quen thuộc nhưng nay đã trôi vào quên lãng. Tiếng động khẽ khàng tới mức người ta phải tự hỏi liệu đôi tai mình có thực sự nghe thấy, hay đó chỉ là trò bịp bợm do trí não tự biên tự diễn. Âm thanh ấy dường như phát ra từ sâu thẳm bên trong cơ thể trong suốt của chú chó, nhưng biết đâu đấy, cũng có thể do chính bộ não của Bratty vừa tự ý nhào nặn ra.
+
+Rồi âm thanh ấy bặt tăm. Chú chó ngừng nhấp nháy và lập tức đặc lại thành khối cơ thể vững chãi. Chú chó đã trở về làm một chú chó bình thường bằng xương bằng thịt, duy chỉ có đôi tai là vẫn dựng đứng đầy vẻ cảnh giác.
+
+“Ngài còn yêu cầu gì nữa không ạ, thưa ngài?” Người đàn ông vận bộ tuxedo lịch thiệp cất giọng hỏi. Gương mặt người phục vụ tuyệt nhiên không để lộ một gợn sóng cảm xúc. Rõ ràng là người đó chẳng nhìn thấy hiện tượng kỳ quặc vừa rồi, và cũng chẳng buồn bận tâm tới bất cứ điều gì ngoài những yêu cầu oái oăm về thú cưng của một chàng rapper đang say khướt và phê pha.
+
+“Thế còn… anh biết đấy, tôi nghĩ… thôi, thế là ổn rồi,” Tommy ngập ngừng đáp.
+
+“Ngài vẫn muốn lấy món khoai tây chiên xoắn chứ ạ, thưa ngài?”
+
+“Tôi… ừ. Có chứ. Cảm ơn anh.”
+
+Tommy dúi vào tay người đàn ông tờ hai mươi đô la tiền tip. Anh khép cửa lại, rồi đưa mắt nhìn Bratty, nhìn xuống chú chó, rồi lại ngước lên nhìn Bratty.
+
+“Mày có thấy cái trò vừa rồi không?” Bratty cất tiếng hỏi.
+
+“Có,” Tommy gật đầu, ráo hoảnh. “Chết tiệt thật.”
+
+“Cái quái gì thế nhỉ?”
+
+“Tao chịu chết. Trông nó có làm sao không đấy?”
+
+Cả hai liền ngồi thụp xuống cạnh chú chó. Họ xoa đầu, vuốt ve rồi ôm chầm lấy nó. Chú chó khi chạm vào vẫn chắc nịch, ấm sực và hoàn toàn có thật. Về phần mình, cu cậu có vẻ chẳng mảy may bận lòng.
+
+“Tao nghĩ nó ổn rồi đấy.”
+
+“Còn mày thì sao?”
+
+“Tao á?”
+
+“Ừ. Tay mày ban nãy cứ như thể…”
+
+“Như thế nào cơ?” Bratty gặng hỏi.
+
+“Trong suốt.”
+
+“Tao á? Tay tao mà trong suốt á?” Hai cánh tay anh nom vẫn bình thường như muôn ngày khác. Anh chẳng cảm thấy có gì sai trật ở bản thân cả.
+
+“Chỉ trong một cái chớp mắt thôi,” Tommy nhún vai. “Nhưng tao cũng chẳng dám chắc. Vừa nãy tao có nhai mấy viên kẹo dẻo. Biết đâu lại do đầu óc tao đang phê pha lú lẫn.”
+
+Thế nhưng, ánh mắt cậu lại ngầm thừa nhận điều hoàn toàn ngược lại. Đôi mắt ấy phản chiếu tia lấp lánh của một sự thật phi lý đến rợn ngợp mà chính Bratty cũng đang cảm nhận rõ mồn một: cảm giác ấy quặn thắt nơi ruột gan, buốt lạnh vào tận tủy xương, và rung chuyển cả tâm can.
