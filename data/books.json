@@ -2536,9 +2536,10 @@
       },
       {
         "id": "chuong-2",
-        "title": "His & Hers",
+        "title": "Intro",
         "part": "",
-        "path": "content/books/cua-anh-cua-em/chuong-2.md"
+        "path": "content/books/cua-anh-cua-em/chuong-2.md",
+		"noDropcap": true
       },
       {
         "id": "chuong-3",
