@@ -12,8 +12,21 @@
   let currentChapter = null;
   let activeTagFilter = 'all';
   let activeStatusFilter = 'all';
+  let currentSort = 'date-desc'; // 'date-desc' | 'date-asc' | 'title-asc' | 'author-asc'
+  let currentPage = 1;
+  const BOOKS_PER_PAGE = 9;
+  let randomizedTags = [];
   let viewMode = localStorage.getItem('sheepa_view_mode') || 'grid'; // 'grid' | 'list'
   let searchQuery = '';
+
+  function formatDisplayDate(dateStr) {
+    if (!dateStr) return '05/11/2026';
+    const parts = String(dateStr).split('-');
+    if (parts.length === 3) {
+      return `${parts[2]}/${parts[1]}/${parts[0]}`;
+    }
+    return dateStr;
+  }
 
   // Quotes Repository State
   let quotesData = [
@@ -126,15 +139,17 @@
     }
   }
 
-  // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, VIEW MODE TOGGLE) ---
+  // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, SORT, VIEW MODE TOGGLE) ---
   function initHeaderControls() {
     const tagSelect = document.getElementById('header-tag-filter');
     const statusSelect = document.getElementById('header-status-filter');
+    const sortSelect = document.getElementById('header-sort-select');
     const viewToggleBtn = document.getElementById('header-view-toggle-btn');
 
     if (tagSelect) {
       tagSelect.addEventListener('change', (e) => {
         activeTagFilter = e.target.value;
+        currentPage = 1;
         randomizeQuote();
         const currentHash = window.location.hash || '';
         if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
@@ -148,6 +163,7 @@
     if (statusSelect) {
       statusSelect.addEventListener('change', (e) => {
         activeStatusFilter = e.target.value;
+        currentPage = 1;
         randomizeQuote();
         const currentHash = window.location.hash || '';
         if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
@@ -155,6 +171,14 @@
         } else {
           renderLibraryView();
         }
+      });
+    }
+
+    if (sortSelect) {
+      sortSelect.addEventListener('change', (e) => {
+        currentSort = e.target.value;
+        currentPage = 1;
+        renderLibraryView();
       });
     }
 
@@ -191,6 +215,7 @@
 
   function setTagFilter(tagName) {
     activeTagFilter = tagName;
+    currentPage = 1;
     randomizeQuote();
     const headerTagSelect = document.getElementById('header-tag-filter');
     if (headerTagSelect) headerTagSelect.value = tagName;
@@ -207,11 +232,15 @@
     activeTagFilter = 'all';
     activeStatusFilter = 'all';
     searchQuery = '';
+    currentSort = 'date-desc';
+    currentPage = 1;
     randomizeQuote();
     const headerTagSelect = document.getElementById('header-tag-filter');
     if (headerTagSelect) headerTagSelect.value = 'all';
     const headerStatusSelect = document.getElementById('header-status-filter');
     if (headerStatusSelect) headerStatusSelect.value = 'all';
+    const headerSortSelect = document.getElementById('header-sort-select');
+    if (headerSortSelect) headerSortSelect.value = 'date-desc';
     const searchInput = document.getElementById('library-search');
     if (searchInput) searchInput.value = '';
     renderLibraryView();
@@ -454,6 +483,44 @@
     }
   }
 
+  function renderPagination(curPage, totalP) {
+    if (totalP <= 1) return '';
+
+    let pages = [];
+    if (totalP <= 7) {
+      for (let i = 1; i <= totalP; i++) pages.push(i);
+    } else {
+      if (curPage <= 4) {
+        pages = [1, 2, 3, 4, 5, '...', totalP];
+      } else if (curPage >= totalP - 3) {
+        pages = [1, '...', totalP - 4, totalP - 3, totalP - 2, totalP - 1, totalP];
+      } else {
+        pages = [1, '...', curPage - 1, curPage, curPage + 1, '...', totalP];
+      }
+    }
+
+    return `
+      <div class="pagination-container">
+        <button class="pagination-btn pagination-prev" ${curPage === 1 ? 'disabled' : ''} data-page="${curPage - 1}" title="Trang trước" aria-label="Trang trước">
+          ‹
+        </button>
+        ${pages.map(p => {
+          if (p === '...') {
+            return `<span class="pagination-ellipsis">…</span>`;
+          }
+          return `
+            <button class="pagination-btn ${p === curPage ? 'active' : ''}" data-page="${p}" aria-label="Trang ${p}">
+              ${p}
+            </button>
+          `;
+        }).join('')}
+        <button class="pagination-btn pagination-next" ${curPage === totalP ? 'disabled' : ''} data-page="${curPage + 1}" title="Trang sau" aria-label="Trang sau">
+          ›
+        </button>
+      </div>
+    `;
+  }
+
   // --- VIEW 1: LIBRARY CATALOG ---
   function renderLibraryView() {
     // Show main header
@@ -479,6 +546,12 @@
     const headerStatusSelect = document.getElementById('header-status-filter');
     if (headerStatusSelect) {
       headerStatusSelect.value = activeStatusFilter;
+    }
+
+    // Đồng bộ dropdown sắp xếp trên header
+    const headerSortSelect = document.getElementById('header-sort-select');
+    if (headerSortSelect) {
+      headerSortSelect.value = currentSort;
     }
 
     // Đồng bộ trạng thái nút chuyển Grid / List
@@ -515,6 +588,42 @@
       return matchTag && matchStatus && matchSearch;
     });
 
+    // Sắp xếp sách theo tiêu chí đã chọn
+    filteredBooks.sort((a, b) => {
+      if (currentSort === 'date-desc') {
+        const dateA = a.publishedAt || a.createdAt || '2020-01-01';
+        const dateB = b.publishedAt || b.createdAt || '2020-01-01';
+        return dateB.localeCompare(dateA);
+      }
+      if (currentSort === 'date-asc') {
+        const dateA = a.publishedAt || a.createdAt || '2020-01-01';
+        const dateB = b.publishedAt || b.createdAt || '2020-01-01';
+        return dateA.localeCompare(dateB);
+      }
+      if (currentSort === 'title-asc') {
+        return a.title.localeCompare(b.title, 'vi');
+      }
+      if (currentSort === 'author-asc') {
+        return a.author.localeCompare(b.author, 'vi');
+      }
+      return 0;
+    });
+
+    // Phân trang 9 cuốn mỗi trang
+    const totalPages = Math.ceil(filteredBooks.length / BOOKS_PER_PAGE) || 1;
+    if (currentPage > totalPages) currentPage = 1;
+    const pagedBooks = filteredBooks.slice((currentPage - 1) * BOOKS_PER_PAGE, currentPage * BOOKS_PER_PAGE);
+
+    // Hàng tag dưới thanh tìm kiếm: chỉ bố trí 1 hàng duy nhất, random các tag
+    if (randomizedTags.length === 0) {
+      const shuffled = [...allTags].sort(() => 0.5 - Math.random());
+      randomizedTags = shuffled.slice(0, 6);
+    }
+    let displayTags = [...randomizedTags];
+    if (activeTagFilter !== 'all' && !displayTags.includes(activeTagFilter)) {
+      displayTags.unshift(activeTagFilter);
+    }
+
     const currentQuote = currentQuoteIndex >= 0 && quotesData[currentQuoteIndex]
       ? quotesData[currentQuoteIndex]
       : quotesData[0];
@@ -536,19 +645,34 @@
             <input type="text" id="library-search" class="search-input" placeholder="Tìm theo tên sách, tác giả, thể loại, tựa gốc..." value="${escapeHtml(searchQuery)}">
           </div>
 
+          <!-- Single-row randomized tags -->
           <div class="filter-tags">
             <button class="filter-btn ${activeTagFilter === 'all' && activeStatusFilter === 'all' ? 'active' : ''}" data-filter-tag="all">Tất cả sách</button>
-            ${allTags.map(tag => `
+            ${displayTags.map(tag => `
               <button class="filter-btn ${activeTagFilter === tag ? 'active' : ''}" data-filter-tag="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
             `).join('')}
-            <button class="filter-btn ${activeStatusFilter === 'ongoing' ? 'active' : ''}" data-filter-status="ongoing">Đang dịch</button>
-            <button class="filter-btn ${activeStatusFilter === 'completed' ? 'active' : ''}" data-filter-status="completed">Hoàn thành</button>
+          </div>
+        </div>
+
+        <!-- Toolbar (Count & Sort) -->
+        <div class="library-toolbar">
+          <div class="toolbar-info">
+            Hiển thị <strong>${filteredBooks.length > 0 ? (currentPage - 1) * BOOKS_PER_PAGE + 1 : 0} - ${Math.min(currentPage * BOOKS_PER_PAGE, filteredBooks.length)}</strong> trên tổng số <strong>${filteredBooks.length}</strong> cuốn
+          </div>
+          <div class="sort-select-wrapper">
+            <span class="sort-label">Sắp xếp:</span>
+            <select id="library-sort-select" class="sort-select" aria-label="Sắp xếp sách">
+              <option value="date-desc" ${currentSort === 'date-desc' ? 'selected' : ''}>Ngày đăng tải (Mới nhất)</option>
+              <option value="date-asc" ${currentSort === 'date-asc' ? 'selected' : ''}>Ngày đăng tải (Cũ nhất)</option>
+              <option value="title-asc" ${currentSort === 'title-asc' ? 'selected' : ''}>Tên sách (A → Z)</option>
+              <option value="author-asc" ${currentSort === 'author-asc' ? 'selected' : ''}>Tên tác giả (A → Z)</option>
+            </select>
           </div>
         </div>
 
         <!-- Books Container (Grid or List View) -->
         <div class="books-grid ${viewMode === 'list' ? 'list-view' : ''}">
-          ${filteredBooks.length > 0 ? filteredBooks.map(book => {
+          ${pagedBooks.length > 0 ? pagedBooks.map(book => {
             const bTags = Array.isArray(book.tags) && book.tags.length > 0 ? book.tags : (book.category ? book.category.split(/[•,&/]/).map(s => s.trim()) : ['Văn học']);
             
             // Chế độ xem Danh sách (List View)
@@ -644,6 +768,9 @@
             </div>
           `}
         </div>
+
+        <!-- Pagination Controls (< 1 2 ... >) -->
+        ${renderPagination(currentPage, totalPages)}
       </div>
     `;
 
@@ -652,6 +779,7 @@
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
         searchQuery = e.target.value;
+        currentPage = 1;
         renderLibraryView();
         // Keep focus
         const nextInput = document.getElementById('library-search');
@@ -661,6 +789,30 @@
         }
       });
     }
+
+    // Sort listener in toolbar
+    const librarySortSelect = document.getElementById('library-sort-select');
+    if (librarySortSelect) {
+      librarySortSelect.addEventListener('change', (e) => {
+        currentSort = e.target.value;
+        currentPage = 1;
+        const headerSortSelect = document.getElementById('header-sort-select');
+        if (headerSortSelect) headerSortSelect.value = currentSort;
+        renderLibraryView();
+      });
+    }
+
+    // Pagination Click Listeners
+    document.querySelectorAll('.pagination-btn[data-page]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const p = parseInt(btn.dataset.page, 10);
+        if (!isNaN(p) && p >= 1 && p <= totalPages && p !== currentPage) {
+          currentPage = p;
+          renderLibraryView();
+          document.querySelector('.search-filter-section')?.scrollIntoView({ behavior: 'smooth' });
+        }
+      });
+    });
 
     document.querySelectorAll('[data-filter-tag]').forEach(btn => {
       btn.addEventListener('click', () => {
@@ -748,7 +900,7 @@
 
             <div class="detail-specs-grid">
               <div class="spec-item">
-                <strong>Tác giả gốc</strong>
+                <strong>Tác giả</strong>
                 <span>${escapeHtml(book.author)}</span>
               </div>
               <div class="spec-item">
@@ -758,6 +910,10 @@
               <div class="spec-item">
                 <strong>Quy mô</strong>
                 <span>${book.chapters.length} chương</span>
+              </div>
+              <div class="spec-item">
+                <strong>Ngày đăng tải</strong>
+                <span>${formatDisplayDate(book.publishedAt || book.createdAt)}</span>
               </div>
             </div>
 
