@@ -1059,7 +1059,7 @@
             <div class="detail-actions">
               <a href="#/read/${book.id}/${firstChapterId}" class="btn-lg btn-primary">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                Bắt đầu đọc (Chương 1)
+                Bắt đầu đọc
               </a>
               <button class="btn-lg btn-outline" id="btn-open-download-modal">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
