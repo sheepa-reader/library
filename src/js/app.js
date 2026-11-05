@@ -1184,7 +1184,25 @@
   }
 
   // --- DOWNLOAD PASSCODE CONFIGURATION ---
-  const DEFAULT_DOWNLOAD_PASSCODES = ['thesheepa', 'sheepa', 'sheepa2024', 'sheepa2025', 'sheepa2026'];
+  let downloadPasscodes = ['thesheepa', 'sheepa', 'sheepa2024', 'sheepa2025', 'sheepa2026'];
+  let libraryTelegramUrl = 'https://t.me/thesheepa';
+
+  async function loadLibrarySettings() {
+    try {
+      const res = await fetch('data/settings.json');
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data.downloadPasscodes) && data.downloadPasscodes.length > 0) {
+          downloadPasscodes = data.downloadPasscodes.map(c => String(c).trim().toLowerCase());
+        }
+        if (data.telegramUrl) {
+          libraryTelegramUrl = data.telegramUrl;
+        }
+      }
+    } catch (e) {
+      // Dùng danh sách mã mặc định
+    }
+  }
 
   function isDownloadUnlocked(book) {
     if (localStorage.getItem('sheepa_download_unlocked') === 'true') return true;
@@ -1226,7 +1244,7 @@
           </form>
           <div id="passcode-error-msg" class="passcode-error-msg" style="display: none;"></div>
           <div class="passcode-hint">
-            Chưa có mã khóa? Nhận mã mở khóa miễn phí tại <a href="https://t.me/thesheepa" target="_blank" rel="noopener">Telegram @thesheepa</a>
+            Chưa có mã khóa? Nhận mã mở khóa miễn phí tại <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a>
           </div>
         </div>
       `;
@@ -1348,7 +1366,7 @@
         }
 
         const bookCode = (book.downloadPasscode || '').trim().toLowerCase();
-        const isMatch = DEFAULT_DOWNLOAD_PASSCODES.includes(entered) || (bookCode && entered === bookCode);
+        const isMatch = downloadPasscodes.includes(entered) || (bookCode && entered === bookCode);
 
         if (isMatch) {
           localStorage.setItem('sheepa_download_unlocked', 'true');
@@ -1436,7 +1454,7 @@
     initTheme();
     initHeaderControls();
     initQuoteEvents();
-    await Promise.all([loadBooks(), loadQuotes()]);
+    await Promise.all([loadBooks(), loadQuotes(), loadLibrarySettings()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
