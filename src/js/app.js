@@ -10,7 +10,9 @@
   let booksData = [];
   let currentBook = null;
   let currentChapter = null;
-  let activeFilter = 'all';
+  let activeTagFilter = 'all';
+  let activeStatusFilter = 'all';
+  let viewMode = localStorage.getItem('sheepa_view_mode') || 'grid'; // 'grid' | 'list'
   let searchQuery = '';
 
   // Reader Settings State
@@ -66,6 +68,93 @@
       btn.setAttribute('title', 'Chuyển sang giao diện tối (Dark)');
     }
   }
+
+  // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, VIEW MODE TOGGLE) ---
+  function initHeaderControls() {
+    const tagSelect = document.getElementById('header-tag-filter');
+    const statusSelect = document.getElementById('header-status-filter');
+    const viewToggleBtn = document.getElementById('header-view-toggle-btn');
+
+    if (tagSelect) {
+      tagSelect.addEventListener('change', (e) => {
+        activeTagFilter = e.target.value;
+        const currentHash = window.location.hash || '';
+        if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
+          window.location.hash = '#/';
+        } else {
+          renderLibraryView();
+        }
+      });
+    }
+
+    if (statusSelect) {
+      statusSelect.addEventListener('change', (e) => {
+        activeStatusFilter = e.target.value;
+        const currentHash = window.location.hash || '';
+        if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
+          window.location.hash = '#/';
+        } else {
+          renderLibraryView();
+        }
+      });
+    }
+
+    if (viewToggleBtn) {
+      updateViewToggleUI();
+      viewToggleBtn.addEventListener('click', () => {
+        viewMode = viewMode === 'grid' ? 'list' : 'grid';
+        localStorage.setItem('sheepa_view_mode', viewMode);
+        updateViewToggleUI();
+        const currentHash = window.location.hash || '';
+        if (currentHash === '' || currentHash === '#/' || currentHash.startsWith('#/?')) {
+          renderLibraryView();
+        }
+      });
+    }
+  }
+
+  function updateViewToggleUI() {
+    const viewToggleBtn = document.getElementById('header-view-toggle-btn');
+    const viewToggleIcon = document.getElementById('header-view-toggle-icon');
+    if (!viewToggleBtn || !viewToggleIcon) return;
+
+    if (viewMode === 'list') {
+      viewToggleIcon.src = 'public/icons/glyph_10_bookshelf.png';
+      viewToggleBtn.setAttribute('title', 'Chuyển sang chế độ Lưới (Grid view)');
+      viewToggleBtn.setAttribute('aria-label', 'Chuyển sang chế độ Lưới');
+    } else {
+      viewToggleIcon.src = 'public/icons/glyph_12_sheep_book_lines.png';
+      viewToggleBtn.setAttribute('title', 'Chuyển sang chế độ Danh sách (List view)');
+      viewToggleBtn.setAttribute('aria-label', 'Chuyển sang chế độ Danh sách');
+    }
+  }
+
+  function setTagFilter(tagName) {
+    activeTagFilter = tagName;
+    const headerTagSelect = document.getElementById('header-tag-filter');
+    if (headerTagSelect) headerTagSelect.value = tagName;
+    const currentHash = window.location.hash || '';
+    if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
+      window.location.hash = '#/';
+    } else {
+      renderLibraryView();
+    }
+  }
+  window.setTagFilter = setTagFilter;
+
+  function resetAllFilters() {
+    activeTagFilter = 'all';
+    activeStatusFilter = 'all';
+    searchQuery = '';
+    const headerTagSelect = document.getElementById('header-tag-filter');
+    if (headerTagSelect) headerTagSelect.value = 'all';
+    const headerStatusSelect = document.getElementById('header-status-filter');
+    if (headerStatusSelect) headerStatusSelect.value = 'all';
+    const searchInput = document.getElementById('library-search');
+    if (searchInput) searchInput.value = '';
+    renderLibraryView();
+  }
+  window.resetAllFilters = resetAllFilters;
 
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
   function parseMarkdown(mdText) {
@@ -186,7 +275,7 @@
     if (hash === '#/' || hash === '' || hash.startsWith('#/?')) {
       if (hash.includes('?tag=')) {
         const tagParam = decodeURIComponent(hash.split('?tag=')[1] || '').split('&')[0];
-        if (tagParam) activeFilter = tagParam;
+        if (tagParam) activeTagFilter = tagParam;
       }
       renderLibraryView();
     } else if (hash.startsWith('#/book/')) {
@@ -211,23 +300,56 @@
     const allTags = Array.from(new Set(
       booksData.flatMap(b => Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []))
     )).filter(Boolean);
-    
-    // Filter books
-    const filteredBooks = booksData.filter(b => {
-      const bTags = Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
-      const matchFilter = activeFilter === 'all' || 
-        bTags.includes(activeFilter) || 
-        (b.category && b.category.toLowerCase().includes(activeFilter.toLowerCase())) ||
-        (activeFilter === 'completed' && b.status === 'completed') ||
-        (activeFilter === 'ongoing' && b.status === 'ongoing');
 
+    // Đồng bộ dropdown thể loại trên header
+    const headerTagSelect = document.getElementById('header-tag-filter');
+    if (headerTagSelect) {
+      const currentSelected = activeTagFilter;
+      headerTagSelect.innerHTML = `
+        <option value="all">Tất cả thể loại</option>
+        ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
+      `;
+      headerTagSelect.value = currentSelected;
+    }
+
+    // Đồng bộ dropdown trạng thái trên header
+    const headerStatusSelect = document.getElementById('header-status-filter');
+    if (headerStatusSelect) {
+      headerStatusSelect.value = activeStatusFilter;
+    }
+
+    // Đồng bộ trạng thái nút chuyển Grid / List
+    updateViewToggleUI();
+
+    // Lọc sách client-side: Tags + Trạng thái + Tìm kiếm
+    const filteredBooks = booksData.filter(b => {
+      const bTags = Array.isArray(b.tags) && b.tags.length > 0 
+        ? b.tags 
+        : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
+
+      // 1. Lọc theo thể loại (tag)
+      const matchTag = activeTagFilter === 'all' || 
+        bTags.some(t => t.toLowerCase() === activeTagFilter.toLowerCase()) || 
+        (b.category && b.category.toLowerCase().includes(activeTagFilter.toLowerCase()));
+
+      // 2. Lọc theo trạng thái
+      let matchStatus = true;
+      if (activeStatusFilter === 'completed') {
+        matchStatus = b.status === 'completed' || (b.statusText && b.statusText.toLowerCase().includes('hoàn thành'));
+      } else if (activeStatusFilter === 'ongoing') {
+        matchStatus = b.status === 'ongoing' || (b.statusText && b.statusText.toLowerCase().includes('đang'));
+      } else if (activeStatusFilter === 'new') {
+        matchStatus = b.status === 'new' || b.status === 'new_project' || b.status === 'planned' || (b.statusText && b.statusText.toLowerCase().includes('mới'));
+      }
+
+      // 3. Lọc theo từ khóa tìm kiếm
       const matchSearch = !searchQuery || 
         b.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
         b.author.toLowerCase().includes(searchQuery.toLowerCase()) ||
         bTags.some(t => t.toLowerCase().includes(searchQuery.toLowerCase())) ||
-        b.originalTitle.toLowerCase().includes(searchQuery.toLowerCase());
+        (b.originalTitle && b.originalTitle.toLowerCase().includes(searchQuery.toLowerCase()));
 
-      return matchFilter && matchSearch;
+      return matchTag && matchStatus && matchSearch;
     });
 
     app.innerHTML = `
@@ -247,62 +369,110 @@
           </div>
 
           <div class="filter-tags">
-            <button class="filter-btn ${activeFilter === 'all' ? 'active' : ''}" data-filter="all">Tất cả sách</button>
+            <button class="filter-btn ${activeTagFilter === 'all' && activeStatusFilter === 'all' ? 'active' : ''}" data-filter-tag="all">Tất cả sách</button>
             ${allTags.map(tag => `
-              <button class="filter-btn ${activeFilter === tag ? 'active' : ''}" data-filter="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
+              <button class="filter-btn ${activeTagFilter === tag ? 'active' : ''}" data-filter-tag="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
             `).join('')}
-            <button class="filter-btn ${activeFilter === 'ongoing' ? 'active' : ''}" data-filter="ongoing">Đang dịch</button>
-            <button class="filter-btn ${activeFilter === 'completed' ? 'active' : ''}" data-filter="completed">Hoàn thành</button>
+            <button class="filter-btn ${activeStatusFilter === 'ongoing' ? 'active' : ''}" data-filter-status="ongoing">Đang dịch</button>
+            <button class="filter-btn ${activeStatusFilter === 'completed' ? 'active' : ''}" data-filter-status="completed">Hoàn thành</button>
           </div>
         </div>
 
-        <!-- Books Grid -->
-        <div class="books-grid">
+        <!-- Books Container (Grid or List View) -->
+        <div class="books-grid ${viewMode === 'list' ? 'list-view' : ''}">
           ${filteredBooks.length > 0 ? filteredBooks.map(book => {
             const bTags = Array.isArray(book.tags) && book.tags.length > 0 ? book.tags : (book.category ? book.category.split(/[•,&/]/).map(s => s.trim()) : ['Văn học']);
-            return `
-            <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
-              <div class="card-top">
-                ${book.cover ? `
-                  <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
-                ` : `
-                  <div class="card-icon-frame">
-                    <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+            
+            // Chế độ xem Danh sách (List View)
+            if (viewMode === 'list') {
+              return `
+                <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
+                  <div class="card-top">
+                    ${book.cover ? `
+                      <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
+                    ` : `
+                      <div class="card-icon-frame">
+                        <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+                      </div>
+                    `}
                   </div>
-                `}
-                <div class="card-meta">
-                  <h3 class="card-title">${escapeHtml(book.title)}</h3>
-                  <div class="card-author">${escapeHtml(book.author)}</div>
+
+                  <div class="card-content-wrap">
+                    <div class="card-meta">
+                      <h3 class="card-title">${escapeHtml(book.title)}</h3>
+                      <div class="card-author">${escapeHtml(book.author)}</div>
+                    </div>
+
+                    <div class="card-badges-row">
+                      ${bTags.map(t => `
+                        <span class="badge-tag" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(t)}');" title="Lọc theo '${escapeHtml(t)}'">${escapeHtml(t)}</span>
+                      `).join('')}
+                      ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
+                      <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                    </div>
+
+                    <p class="card-desc">${escapeHtml(book.description)}</p>
+                  </div>
+
+                  <div class="card-footer" onclick="event.stopPropagation();">
+                    <span class="chapter-count">
+                      <img src="public/icons/glyph_05_book_open.png" alt="chapters">
+                      ${book.chapters.length} chương
+                    </span>
+                    <div class="card-actions">
+                      <a href="#/read/${book.id}/${book.chapters[0]?.id || 'chuong-1'}" class="btn-sm btn-primary">Đọc ngay</a>
+                      <a href="#/book/${book.id}" class="btn-sm btn-outline">Chi tiết</a>
+                    </div>
+                  </div>
+                </div>
+              `;
+            }
+
+            // Chế độ xem Lưới (Grid View - Mặc định)
+            return `
+              <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
+                <div class="card-top">
+                  ${book.cover ? `
+                    <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
+                  ` : `
+                    <div class="card-icon-frame">
+                      <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+                    </div>
+                  `}
+                  <div class="card-meta">
+                    <h3 class="card-title">${escapeHtml(book.title)}</h3>
+                    <div class="card-author">${escapeHtml(book.author)}</div>
+                  </div>
+                </div>
+
+                <!-- Badges Row Underneath (Full Width, Horizontal Tags) -->
+                <div class="card-badges-row">
+                  ${bTags.map(t => `
+                    <span class="badge-tag" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(t)}');" title="Lọc các sách theo tag '${escapeHtml(t)}'">${escapeHtml(t)}</span>
+                  `).join('')}
+                  ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
+                  <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                </div>
+
+                <p class="card-desc">${escapeHtml(book.description)}</p>
+
+                <div class="card-footer">
+                  <span class="chapter-count">
+                    <img src="public/icons/glyph_05_book_open.png" alt="chapters">
+                    ${book.chapters.length} chương
+                  </span>
+                  <div class="card-actions" onclick="event.stopPropagation();">
+                    <a href="#/read/${book.id}/${book.chapters[0]?.id || 'chuong-1'}" class="btn-sm btn-primary">Đọc ngay</a>
+                    <a href="#/book/${book.id}" class="btn-sm btn-outline">Chi tiết</a>
+                  </div>
                 </div>
               </div>
-
-              <!-- Badges Row Underneath (Full Width, Horizontal Tags) -->
-              <div class="card-badges-row">
-                ${bTags.map(t => `
-                  <span class="badge-tag" onclick="event.stopPropagation(); window.location.hash = '#/?tag=' + encodeURIComponent('${escapeHtml(t)}');" title="Lọc các sách theo tag '${escapeHtml(t)}'">${escapeHtml(t)}</span>
-                `).join('')}
-                ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
-                <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
-              </div>
-
-              <p class="card-desc">${escapeHtml(book.description)}</p>
-
-              <div class="card-footer">
-                <span class="chapter-count">
-                  <img src="public/icons/glyph_05_book_open.png" alt="chapters">
-                  ${book.chapters.length} chương
-                </span>
-                <div class="card-actions" onclick="event.stopPropagation();">
-                  <a href="#/read/${book.id}/${book.chapters[0]?.id || 'chuong-1'}" class="btn-sm btn-primary">Đọc ngay</a>
-                  <a href="#/book/${book.id}" class="btn-sm btn-outline">Chi tiết</a>
-                </div>
-              </div>
-            </div>
             `;
           }).join('') : `
             <div style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem; color: var(--text-tertiary);">
               <img src="public/icons/15_document_magnifier.png" style="width: 54px; margin-bottom: 1rem; opacity: 0.5;">
-              <p>Không tìm thấy cuốn sách nào phù hợp với từ khóa "${escapeHtml(searchQuery)}".</p>
+              <p>Không tìm thấy cuốn sách nào phù hợp với bộ lọc hiện tại.</p>
+              <button class="btn-sm btn-outline" style="margin-top: 1rem;" onclick="resetAllFilters()">Xóa bộ lọc & Xem tất cả</button>
             </div>
           `}
         </div>
@@ -324,9 +494,25 @@
       });
     }
 
-    document.querySelectorAll('.filter-btn').forEach(btn => {
+    document.querySelectorAll('[data-filter-tag]').forEach(btn => {
       btn.addEventListener('click', () => {
-        activeFilter = btn.dataset.filter;
+        activeTagFilter = btn.dataset.filterTag;
+        const headerTagSelect = document.getElementById('header-tag-filter');
+        if (headerTagSelect) headerTagSelect.value = activeTagFilter;
+        if (activeTagFilter === 'all') {
+          activeStatusFilter = 'all';
+          const headerStatusSelect = document.getElementById('header-status-filter');
+          if (headerStatusSelect) headerStatusSelect.value = 'all';
+        }
+        renderLibraryView();
+      });
+    });
+
+    document.querySelectorAll('[data-filter-status]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeStatusFilter = btn.dataset.filterStatus;
+        const headerStatusSelect = document.getElementById('header-status-filter');
+        if (headerStatusSelect) headerStatusSelect.value = activeStatusFilter;
         renderLibraryView();
       });
     });
@@ -848,6 +1034,7 @@
   // --- BOOTSTRAP ---
   async function init() {
     initTheme();
+    initHeaderControls();
     await loadBooks();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
