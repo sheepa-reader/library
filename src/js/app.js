@@ -1001,7 +1001,7 @@
               </div>
               <div class="spec-item">
                 <strong>Người dịch</strong>
-                <span>${escapeHtml(book.translator)}</span>
+                <span>${escapeHtml(book.translator || 'Sheepa')}</span>
               </div>
               <div class="spec-item">
                 <strong>Quy mô</strong>

@@ -32,6 +32,11 @@
   /* Goodreads & Awards */
   --gr-star-fill: #e87a15;
   --gr-star-empty: #e2e0d8;
+  --gr-badge-bg: #fdfaf3;
+  --gr-badge-border: #ebdcb8;
+  --gr-badge-tag: #92400e;
+  --gr-badge-score: #451a03;
+  --gr-badge-votes: #78350f;
   --award-bg: rgba(234, 150, 20, 0.08);
   --award-border: rgba(234, 150, 20, 0.28);
   --award-text: #92400e;
@@ -57,6 +62,11 @@
   /* Goodreads & Awards Dark */
   --gr-star-fill: #f59e0b;
   --gr-star-empty: #333640;
+  --gr-badge-bg: #222019;
+  --gr-badge-border: #4d3d25;
+  --gr-badge-tag: #fbbf24;
+  --gr-badge-score: #fef3c7;
+  --gr-badge-votes: #d97706;
   --award-bg: rgba(245, 158, 11, 0.12);
   --award-border: rgba(245, 158, 11, 0.35);
   --award-text: #fcd34d;
@@ -82,6 +92,11 @@
   /* Goodreads & Awards Sepia */
   --gr-star-fill: #c66f12;
   --gr-star-empty: #d8c49a;
+  --gr-badge-bg: #f4e7cc;
+  --gr-badge-border: #dec292;
+  --gr-badge-tag: #78350f;
+  --gr-badge-score: #451a03;
+  --gr-badge-votes: #92400e;
   --award-bg: rgba(198, 111, 18, 0.1);
   --award-border: rgba(198, 111, 18, 0.3);
   --award-text: #6b3805;
@@ -1051,7 +1066,8 @@ button {
 
 .book-detail-header {
   display: flex;
-  gap: 2.25rem;
+  align-items: stretch;
+  gap: 2.5rem;
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: 16px;
@@ -1065,13 +1081,14 @@ button {
     align-items: center;
     text-align: center;
     padding: 1.5rem;
+    gap: 1.5rem;
   }
 }
 
 .detail-cover-box {
-  width: 140px;
-  height: 190px;
-  border-radius: 10px;
+  flex: 0 0 250px;
+  width: 250px;
+  border-radius: 12px;
   background: var(--bg-secondary);
   display: flex;
   flex-direction: column;
@@ -1079,21 +1096,31 @@ button {
   justify-content: center;
   gap: 0.5rem;
   border: 1px solid var(--border-light);
-  flex-shrink: 0;
-  box-shadow: var(--shadow-sm);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
   overflow: hidden;
+  align-self: stretch;
 }
 
 .detail-cover-real {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
 }
 
 .detail-cover-box img:not(.detail-cover-real) {
   width: 72px;
   height: 72px;
   object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .detail-cover-box {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 300px;
+    align-self: center;
+  }
 }
 
 .detail-info {
@@ -1146,40 +1173,41 @@ button {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.4rem 0.85rem;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
+  padding: 0.45rem 0.95rem;
+  background: var(--gr-badge-bg);
+  border: 1px solid var(--gr-badge-border);
   border-radius: 999px;
   font-size: 0.85rem;
   white-space: nowrap;
   line-height: 1;
-  box-shadow: var(--shadow-sm);
-  transition: border-color var(--transition-fast);
+  box-shadow: 0 1px 4px rgba(146, 64, 14, 0.08);
+  transition: all var(--transition-fast);
 }
 
 .detail-gr-badge .gr-brand-tag {
-  font-size: 0.75rem;
+  font-size: 0.76rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--text-tertiary);
+  color: var(--gr-badge-tag);
 }
 
 .detail-gr-badge .gr-score-bold {
   font-weight: 800;
   font-size: 0.95rem;
-  color: var(--text-main);
+  color: var(--gr-badge-score);
   margin-left: 0.15rem;
 }
 
 .detail-gr-badge .gr-max-score {
   font-size: 0.76rem;
-  color: var(--text-tertiary);
+  color: var(--gr-badge-votes);
+  opacity: 0.8;
 }
 
 .detail-gr-badge .gr-votes-detail {
   font-size: 0.78rem;
-  color: var(--text-secondary);
+  color: var(--gr-badge-votes);
   margin-left: 0.2rem;
 }
 
