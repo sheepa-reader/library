@@ -323,6 +323,23 @@ button {
   opacity: 0.85;
 }
 
+.inline-glyph-icon {
+  width: 17px;
+  height: 17px;
+  vertical-align: -2px;
+  margin-right: 5px;
+  object-fit: contain;
+  display: inline-block;
+}
+
+[data-theme="dark"] .inline-glyph-icon {
+  filter: brightness(0) invert(0.92);
+}
+
+[data-theme="sepia"] .inline-glyph-icon {
+  filter: sepia(0.35) contrast(0.95);
+}
+
 .theme-toggle-btn svg, .icon-btn svg {
   width: 18px;
   height: 18px;
@@ -1236,34 +1253,29 @@ button {
   margin-left: 0.2rem;
 }
 
-.detail-awards-wrap {
+.detail-awards-quote {
+  border-left: 3.5px solid var(--accent);
+  padding: 0.2rem 0 0.2rem 0.95rem;
+  margin-top: 0.15rem;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
-.detail-award-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-  padding: 0.4rem 0.85rem;
-  background: var(--award-bg);
-  border: 1px solid var(--award-border);
-  border-radius: 999px;
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: var(--award-text);
-  line-height: 1.35;
+.award-quote-item {
+  font-size: 0.83rem;
+  line-height: 1.45;
+  color: var(--text-secondary);
+  font-style: italic;
+  letter-spacing: -0.005em;
 }
 
-.detail-award-badge .award-trophy {
-  font-size: 0.95rem;
-  flex-shrink: 0;
-  line-height: 1;
+[data-theme="dark"] .detail-awards-quote {
+  border-left-color: var(--accent);
 }
 
-.detail-award-badge .award-text {
-  letter-spacing: -0.01em;
+[data-theme="sepia"] .detail-awards-quote {
+  border-left-color: #c27803;
 }
 
 .detail-specs-grid {
@@ -1432,10 +1444,10 @@ button {
   font-weight: 700;
 }
 
-.toc-part-group:not(.open) .toc-folder-open { display: none; }
-.toc-part-group:not(.open) .toc-folder-closed { display: inline; }
-.toc-part-group.open .toc-folder-open { display: inline; }
-.toc-part-group.open .toc-folder-closed { display: none; }
+.toc-part-group:not(.open) .toc-folder-open { display: none !important; }
+.toc-part-group:not(.open) .toc-folder-closed { display: inline-block !important; }
+.toc-part-group.open .toc-folder-open { display: inline-block !important; }
+.toc-part-group.open .toc-folder-closed { display: none !important; }
 
 .toc-part-count {
   font-size: 0.72rem;

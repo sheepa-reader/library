@@ -1,0 +1,674 @@
+[
+  {
+    "id": 1,
+    "code": "01",
+    "name": "sheep_sleep",
+    "title": "Cừu ngủ thư thái / Avatar",
+    "tags": [
+      "avatar",
+      "sleep",
+      "relax"
+    ],
+    "badge": "public/icons/badge_01_sheep_sleep.png",
+    "glyph": "public/icons/glyph_01_sheep_sleep.png",
+    "glyph_alias": "public/icons/glyph_sheep_sleep.png"
+  },
+  {
+    "id": 2,
+    "code": "02",
+    "name": "sheep_read_front",
+    "title": "Cừu đọc sách chính diện",
+    "tags": [
+      "read",
+      "book",
+      "front"
+    ],
+    "badge": "public/icons/badge_02_sheep_read_front.png",
+    "glyph": "public/icons/glyph_02_sheep_read_front.png",
+    "glyph_alias": "public/icons/glyph_sheep_read_front.png"
+  },
+  {
+    "id": 3,
+    "code": "03",
+    "name": "sheep_glasses_read",
+    "title": "Cừu đeo kính đọc sách",
+    "tags": [
+      "glasses",
+      "scholar",
+      "read"
+    ],
+    "badge": "public/icons/badge_03_sheep_glasses_read.png",
+    "glyph": "public/icons/glyph_03_sheep_glasses_read.png",
+    "glyph_alias": "public/icons/glyph_sheep_glasses_read.png"
+  },
+  {
+    "id": 4,
+    "code": "04",
+    "name": "sheep_smile_read",
+    "title": "Cừu mỉm cười đọc sách",
+    "tags": [
+      "smile",
+      "happy",
+      "read"
+    ],
+    "badge": "public/icons/badge_04_sheep_smile_read.png",
+    "glyph": "public/icons/glyph_04_sheep_smile_read.png",
+    "glyph_alias": "public/icons/glyph_sheep_smile_read.png"
+  },
+  {
+    "id": 5,
+    "code": "05",
+    "name": "sheep_crosslegged_read",
+    "title": "Cừu ngồi khoanh chân đọc",
+    "tags": [
+      "zen",
+      "sit",
+      "read"
+    ],
+    "badge": "public/icons/badge_05_sheep_crosslegged_read.png",
+    "glyph": "public/icons/glyph_05_sheep_crosslegged_read.png",
+    "glyph_alias": "public/icons/glyph_sheep_crosslegged_read.png"
+  },
+  {
+    "id": 6,
+    "code": "06",
+    "name": "sheep_lying_read",
+    "title": "Cừu nằm đọc sách",
+    "tags": [
+      "lie",
+      "bed",
+      "relax"
+    ],
+    "badge": "public/icons/badge_06_sheep_lying_read.png",
+    "glyph": "public/icons/glyph_06_sheep_lying_read.png",
+    "glyph_alias": "public/icons/glyph_sheep_lying_read.png"
+  },
+  {
+    "id": 7,
+    "code": "07",
+    "name": "sheep_sparkle_read",
+    "title": "Cừu đọc sách say mê / Khám phá",
+    "tags": [
+      "sparkle",
+      "wonder",
+      "discover"
+    ],
+    "badge": "public/icons/badge_07_sheep_sparkle_read.png",
+    "glyph": "public/icons/glyph_07_sheep_sparkle_read.png",
+    "glyph_alias": "public/icons/glyph_sheep_sparkle_read.png"
+  },
+  {
+    "id": 8,
+    "code": "08",
+    "name": "sheep_question",
+    "title": "Cừu thắc mắc / Trợ giúp / Hỏi đáp",
+    "tags": [
+      "help",
+      "question",
+      "faq"
+    ],
+    "badge": "public/icons/badge_08_sheep_question.png",
+    "glyph": "public/icons/glyph_08_sheep_question.png",
+    "glyph_alias": "public/icons/glyph_sheep_question.png"
+  },
+  {
+    "id": 9,
+    "code": "09",
+    "name": "sheep_lightbulb_idea",
+    "title": "Cừu nảy ý tưởng / Sáng tạo",
+    "tags": [
+      "idea",
+      "lightbulb",
+      "creative"
+    ],
+    "badge": "public/icons/badge_09_sheep_lightbulb_idea.png",
+    "glyph": "public/icons/glyph_09_sheep_lightbulb_idea.png",
+    "glyph_alias": "public/icons/glyph_sheep_lightbulb_idea.png"
+  },
+  {
+    "id": 10,
+    "code": "10",
+    "name": "sheep_laptop",
+    "title": "Cừu làm việc trên laptop",
+    "tags": [
+      "laptop",
+      "tech",
+      "work"
+    ],
+    "badge": "public/icons/badge_10_sheep_laptop.png",
+    "glyph": "public/icons/glyph_10_sheep_laptop.png",
+    "glyph_alias": "public/icons/glyph_sheep_laptop.png"
+  },
+  {
+    "id": 11,
+    "code": "11",
+    "name": "sheep_pen_write",
+    "title": "Cừu cầm bút viết / Sáng tác",
+    "tags": [
+      "write",
+      "pen",
+      "author"
+    ],
+    "badge": "public/icons/badge_11_sheep_pen_write.png",
+    "glyph": "public/icons/glyph_11_sheep_pen_write.png",
+    "glyph_alias": "public/icons/glyph_sheep_pen_write.png"
+  },
+  {
+    "id": 12,
+    "code": "12",
+    "name": "sheep_glasses_write",
+    "title": "Cừu biên tập viên / Hiệu đính",
+    "tags": [
+      "editor",
+      "review",
+      "correct"
+    ],
+    "badge": "public/icons/badge_12_sheep_glasses_write.png",
+    "glyph": "public/icons/glyph_12_sheep_glasses_write.png",
+    "glyph_alias": "public/icons/glyph_sheep_glasses_write.png"
+  },
+  {
+    "id": 13,
+    "code": "13",
+    "name": "sheep_laptop_happy",
+    "title": "Cừu lập trình / Studio / AI",
+    "tags": [
+      "studio",
+      "code",
+      "ai"
+    ],
+    "badge": "public/icons/badge_13_sheep_laptop_happy.png",
+    "glyph": "public/icons/glyph_13_sheep_laptop_happy.png",
+    "glyph_alias": "public/icons/glyph_sheep_laptop_happy.png"
+  },
+  {
+    "id": 14,
+    "code": "14",
+    "name": "sheep_stack_books",
+    "title": "Cừu ôm chồng sách / Kho sách",
+    "tags": [
+      "inventory",
+      "stack",
+      "collection"
+    ],
+    "badge": "public/icons/badge_14_sheep_stack_books.png",
+    "glyph": "public/icons/glyph_14_sheep_stack_books.png",
+    "glyph_alias": "public/icons/glyph_sheep_stack_books.png"
+  },
+  {
+    "id": 15,
+    "code": "15",
+    "name": "sheep_run_delivery",
+    "title": "Cừu chạy giao sách / Tải nhanh",
+    "tags": [
+      "fast",
+      "download",
+      "delivery"
+    ],
+    "badge": "public/icons/badge_15_sheep_run_delivery.png",
+    "glyph": "public/icons/glyph_15_sheep_run_delivery.png",
+    "glyph_alias": "public/icons/glyph_sheep_run_delivery.png"
+  },
+  {
+    "id": 16,
+    "code": "16",
+    "name": "sheep_walk_backpack",
+    "title": "Cừu du lịch / Ba lô / Học sinh",
+    "tags": [
+      "journey",
+      "adventure",
+      "backpack"
+    ],
+    "badge": "public/icons/badge_16_sheep_walk_backpack.png",
+    "glyph": "public/icons/glyph_16_sheep_walk_backpack.png",
+    "glyph_alias": "public/icons/glyph_sheep_walk_backpack.png"
+  },
+  {
+    "id": 17,
+    "code": "17",
+    "name": "book_stack_three",
+    "title": "Chồng 3 cuốn sách",
+    "tags": [
+      "series",
+      "bundle",
+      "pack"
+    ],
+    "badge": "public/icons/badge_17_book_stack_three.png",
+    "glyph": "public/icons/glyph_17_book_stack_three.png",
+    "glyph_alias": "public/icons/glyph_book_stack_three.png"
+  },
+  {
+    "id": 18,
+    "code": "18",
+    "name": "book_open_flat",
+    "title": "Sách mở phẳng",
+    "tags": [
+      "reading",
+      "open",
+      "chapter"
+    ],
+    "badge": "public/icons/badge_18_book_open_flat.png",
+    "glyph": "public/icons/glyph_18_book_open_flat.png",
+    "glyph_alias": "public/icons/glyph_book_open_flat.png"
+  },
+  {
+    "id": 19,
+    "code": "19",
+    "name": "book_ribbon_closed",
+    "title": "Sách có ruy băng",
+    "tags": [
+      "bookmark",
+      "saved",
+      "favorite"
+    ],
+    "badge": "public/icons/badge_19_book_ribbon_closed.png",
+    "glyph": "public/icons/glyph_19_book_ribbon_closed.png",
+    "glyph_alias": "public/icons/glyph_book_ribbon_closed.png"
+  },
+  {
+    "id": 20,
+    "code": "20",
+    "name": "book_open_curved",
+    "title": "Sách mở uốn lượn",
+    "tags": [
+      "story",
+      "literature",
+      "novel"
+    ],
+    "badge": "public/icons/badge_20_book_open_curved.png",
+    "glyph": "public/icons/glyph_20_book_open_curved.png",
+    "glyph_alias": "public/icons/glyph_book_open_curved.png"
+  },
+  {
+    "id": 21,
+    "code": "21",
+    "name": "book_stand_ribbon",
+    "title": "Sách đứng cao cấp",
+    "tags": [
+      "edition",
+      "hardcover",
+      "special"
+    ],
+    "badge": "public/icons/badge_21_book_stand_ribbon.png",
+    "glyph": "public/icons/glyph_21_book_stand_ribbon.png",
+    "glyph_alias": "public/icons/glyph_book_stand_ribbon.png"
+  },
+  {
+    "id": 22,
+    "code": "22",
+    "name": "books_shelf_row",
+    "title": "Hàng sách trên kệ",
+    "tags": [
+      "bookshelf",
+      "library",
+      "category"
+    ],
+    "badge": "public/icons/badge_22_books_shelf_row.png",
+    "glyph": "public/icons/glyph_22_books_shelf_row.png",
+    "glyph_alias": "public/icons/glyph_books_shelf_row.png"
+  },
+  {
+    "id": 23,
+    "code": "23",
+    "name": "bookshelf_cabinet",
+    "title": "Tủ sách thư viện",
+    "tags": [
+      "archive",
+      "shelf",
+      "catalog"
+    ],
+    "badge": "public/icons/badge_23_bookshelf_cabinet.png",
+    "glyph": "public/icons/glyph_23_bookshelf_cabinet.png",
+    "glyph_alias": "public/icons/glyph_bookshelf_cabinet.png"
+  },
+  {
+    "id": 24,
+    "code": "24",
+    "name": "desk_lamp",
+    "title": "Đèn bàn đọc sách / Ban đêm",
+    "tags": [
+      "lamp",
+      "night",
+      "theme"
+    ],
+    "badge": "public/icons/badge_24_desk_lamp.png",
+    "glyph": "public/icons/glyph_24_desk_lamp.png",
+    "glyph_alias": "public/icons/glyph_desk_lamp.png"
+  },
+  {
+    "id": 25,
+    "code": "25",
+    "name": "newspaper_flat",
+    "title": "Tờ báo mở rộng / Báo chí",
+    "tags": [
+      "press",
+      "journal",
+      "article"
+    ],
+    "badge": "public/icons/badge_25_newspaper_flat.png",
+    "glyph": "public/icons/glyph_25_newspaper_flat.png",
+    "glyph_alias": "public/icons/glyph_newspaper_flat.png"
+  },
+  {
+    "id": 26,
+    "code": "26",
+    "name": "newspaper_folded",
+    "title": "Tờ báo gấp / Bản tin tóm tắt",
+    "tags": [
+      "newsletter",
+      "brief",
+      "digest"
+    ],
+    "badge": "public/icons/badge_26_newspaper_folded.png",
+    "glyph": "public/icons/glyph_26_newspaper_folded.png",
+    "glyph_alias": "public/icons/glyph_newspaper_folded.png"
+  },
+  {
+    "id": 27,
+    "code": "27",
+    "name": "newspaper_news",
+    "title": "Báo tin tức NEWS",
+    "tags": [
+      "news",
+      "updates",
+      "release"
+    ],
+    "badge": "public/icons/badge_27_newspaper_news.png",
+    "glyph": "public/icons/glyph_27_newspaper_news.png",
+    "glyph_alias": "public/icons/glyph_newspaper_news.png"
+  },
+  {
+    "id": 28,
+    "code": "28",
+    "name": "microphone_podcast",
+    "title": "Microphone / Sách nói / Podcast",
+    "tags": [
+      "audio",
+      "podcast",
+      "voice"
+    ],
+    "badge": "public/icons/badge_28_microphone_podcast.png",
+    "glyph": "public/icons/glyph_28_microphone_podcast.png",
+    "glyph_alias": "public/icons/glyph_microphone_podcast.png"
+  },
+  {
+    "id": 29,
+    "code": "29",
+    "name": "sheep_magnifier",
+    "title": "Cừu cầm kính lúp / Tìm kiếm",
+    "tags": [
+      "search",
+      "inspect",
+      "detail"
+    ],
+    "badge": "public/icons/badge_29_sheep_magnifier.png",
+    "glyph": "public/icons/glyph_29_sheep_magnifier.png",
+    "glyph_alias": "public/icons/glyph_sheep_magnifier.png"
+  },
+  {
+    "id": 30,
+    "code": "30",
+    "name": "camera_photo",
+    "title": "Máy ảnh / Bìa ảnh / Thư viện ảnh",
+    "tags": [
+      "photo",
+      "cover",
+      "image"
+    ],
+    "badge": "public/icons/badge_30_camera_photo.png",
+    "glyph": "public/icons/glyph_30_camera_photo.png",
+    "glyph_alias": "public/icons/glyph_camera_photo.png"
+  },
+  {
+    "id": 31,
+    "code": "31",
+    "name": "video_camera_tripod",
+    "title": "Máy quay phim / Giới thiệu sách",
+    "tags": [
+      "video",
+      "trailer",
+      "movie"
+    ],
+    "badge": "public/icons/badge_31_video_camera_tripod.png",
+    "glyph": "public/icons/glyph_31_video_camera_tripod.png",
+    "glyph_alias": "public/icons/glyph_video_camera_tripod.png"
+  },
+  {
+    "id": 32,
+    "code": "32",
+    "name": "megaphone_announcement",
+    "title": "Loa phóng thanh / Thông báo",
+    "tags": [
+      "announce",
+      "broadcast",
+      "bell"
+    ],
+    "badge": "public/icons/badge_32_megaphone_announcement.png",
+    "glyph": "public/icons/glyph_32_megaphone_announcement.png",
+    "glyph_alias": "public/icons/glyph_megaphone_announcement.png"
+  },
+  {
+    "id": 33,
+    "code": "33",
+    "name": "tablet_touch_read",
+    "title": "Tablet cảm ứng đọc sách",
+    "tags": [
+      "ebook",
+      "ereader",
+      "touch"
+    ],
+    "badge": "public/icons/badge_33_tablet_touch_read.png",
+    "glyph": "public/icons/glyph_33_tablet_touch_read.png",
+    "glyph_alias": "public/icons/glyph_tablet_touch_read.png"
+  },
+  {
+    "id": 34,
+    "code": "34",
+    "name": "tablet_book_screen",
+    "title": "Tablet hiển thị trang sách",
+    "tags": [
+      "tablet",
+      "kindle",
+      "screen"
+    ],
+    "badge": "public/icons/badge_34_tablet_book_screen.png",
+    "glyph": "public/icons/glyph_34_tablet_book_screen.png",
+    "glyph_alias": "public/icons/glyph_tablet_book_screen.png"
+  },
+  {
+    "id": 35,
+    "code": "35",
+    "name": "phone_book_screen",
+    "title": "Điện thoại đọc sách di động",
+    "tags": [
+      "mobile",
+      "phone",
+      "app"
+    ],
+    "badge": "public/icons/badge_35_phone_book_screen.png",
+    "glyph": "public/icons/glyph_35_phone_book_screen.png",
+    "glyph_alias": "public/icons/glyph_phone_book_screen.png"
+  },
+  {
+    "id": 36,
+    "code": "36",
+    "name": "laptop_book_screen",
+    "title": "Laptop đọc sách trên web",
+    "tags": [
+      "web",
+      "laptop",
+      "pc"
+    ],
+    "badge": "public/icons/badge_36_laptop_book_screen.png",
+    "glyph": "public/icons/glyph_36_laptop_book_screen.png",
+    "glyph_alias": "public/icons/glyph_laptop_book_screen.png"
+  },
+  {
+    "id": 37,
+    "code": "37",
+    "name": "desktop_book_screen",
+    "title": "Màn hình PC / Máy tính để bàn",
+    "tags": [
+      "desktop",
+      "monitor",
+      "display"
+    ],
+    "badge": "public/icons/badge_37_desktop_book_screen.png",
+    "glyph": "public/icons/glyph_37_desktop_book_screen.png",
+    "glyph_alias": "public/icons/glyph_desktop_book_screen.png"
+  },
+  {
+    "id": 38,
+    "code": "38",
+    "name": "two_books_stacked",
+    "title": "Hai cuốn sách xếp chồng",
+    "tags": [
+      "duology",
+      "volumes",
+      "pair"
+    ],
+    "badge": "public/icons/badge_38_two_books_stacked.png",
+    "glyph": "public/icons/glyph_38_two_books_stacked.png",
+    "glyph_alias": "public/icons/glyph_two_books_stacked.png"
+  },
+  {
+    "id": 39,
+    "code": "39",
+    "name": "reading_glasses",
+    "title": "Kính đọc sách / Cỡ chữ / Hiển thị",
+    "tags": [
+      "glasses",
+      "font",
+      "display"
+    ],
+    "badge": "public/icons/badge_39_reading_glasses.png",
+    "glyph": "public/icons/glyph_39_reading_glasses.png",
+    "glyph_alias": "public/icons/glyph_reading_glasses.png"
+  },
+  {
+    "id": 40,
+    "code": "40",
+    "name": "quill_inkwell_feather",
+    "title": "Bút lông ngỗng & Bình mực / Bản dịch",
+    "tags": [
+      "translator",
+      "quill",
+      "write"
+    ],
+    "badge": "public/icons/badge_40_quill_inkwell_feather.png",
+    "glyph": "public/icons/glyph_40_quill_inkwell_feather.png",
+    "glyph_alias": "public/icons/glyph_quill_inkwell_feather.png"
+  },
+  {
+    "id": 41,
+    "code": "41",
+    "name": "library_classical_building",
+    "title": "Tòa nhà thư viện / Học viện",
+    "tags": [
+      "institution",
+      "academy",
+      "home"
+    ],
+    "badge": "public/icons/badge_41_library_classical_building.png",
+    "glyph": "public/icons/glyph_41_library_classical_building.png",
+    "glyph_alias": "public/icons/glyph_library_classical_building.png"
+  },
+  {
+    "id": 42,
+    "code": "42",
+    "name": "bookshelf_sheep_peeking",
+    "title": "Cừu lấp ló trong giá sách",
+    "tags": [
+      "peek",
+      "shelf",
+      "mascot"
+    ],
+    "badge": "public/icons/badge_42_bookshelf_sheep_peeking.png",
+    "glyph": "public/icons/glyph_42_bookshelf_sheep_peeking.png",
+    "glyph_alias": "public/icons/glyph_bookshelf_sheep_peeking.png"
+  },
+  {
+    "id": 43,
+    "code": "43",
+    "name": "sheep_picking_bookshelf",
+    "title": "Cừu chọn sách trên kệ",
+    "tags": [
+      "browse",
+      "pick",
+      "select"
+    ],
+    "badge": "public/icons/badge_43_sheep_picking_bookshelf.png",
+    "glyph": "public/icons/glyph_43_sheep_picking_bookshelf.png",
+    "glyph_alias": "public/icons/glyph_sheep_picking_bookshelf.png"
+  },
+  {
+    "id": 44,
+    "code": "44",
+    "name": "sheep_stack_question",
+    "title": "Cừu băn khoăn trước đống sách",
+    "tags": [
+      "recommend",
+      "choice",
+      "filter"
+    ],
+    "badge": "public/icons/badge_44_sheep_stack_question.png",
+    "glyph": "public/icons/glyph_44_sheep_stack_question.png",
+    "glyph_alias": "public/icons/glyph_sheep_stack_question.png"
+  },
+  {
+    "id": 45,
+    "code": "45",
+    "name": "sheep_desk_lamp",
+    "title": "Cừu học bài dưới đèn",
+    "tags": [
+      "study",
+      "focus",
+      "desk"
+    ],
+    "badge": "public/icons/badge_45_sheep_desk_lamp.png",
+    "glyph": "public/icons/glyph_45_sheep_desk_lamp.png",
+    "glyph_alias": "public/icons/glyph_sheep_desk_lamp.png"
+  },
+  {
+    "id": 46,
+    "code": "46",
+    "name": "sheep_sleeping_book",
+    "title": "Cừu ngủ quên trên sách (zzz)",
+    "tags": [
+      "night",
+      "sleep",
+      "finish"
+    ],
+    "badge": "public/icons/badge_46_sheep_sleeping_book.png",
+    "glyph": "public/icons/glyph_46_sheep_sleeping_book.png",
+    "glyph_alias": "public/icons/glyph_sheep_sleeping_book.png"
+  },
+  {
+    "id": 47,
+    "code": "47",
+    "name": "sheep_love_book",
+    "title": "Cừu ôm sách hình tim / Yêu thích",
+    "tags": [
+      "favorite",
+      "heart",
+      "like"
+    ],
+    "badge": "public/icons/badge_47_sheep_love_book.png",
+    "glyph": "public/icons/glyph_47_sheep_love_book.png",
+    "glyph_alias": "public/icons/glyph_sheep_love_book.png"
+  },
+  {
+    "id": 48,
+    "code": "48",
+    "name": "book_magic_sparkles",
+    "title": "Cuốn sách ma thuật kỳ ảo",
+    "tags": [
+      "fantasy",
+      "magic",
+      "sparkle"
+    ],
+    "badge": "public/icons/badge_48_book_magic_sparkles.png",
+    "glyph": "public/icons/glyph_48_book_magic_sparkles.png",
+    "glyph_alias": "public/icons/glyph_book_magic_sparkles.png"
+  }
+]

@@ -983,7 +983,7 @@
           <div class="detail-info">
             ${book.series ? `
               <div class="detail-series-banner">
-                📖 Bộ sách: <strong>${escapeHtml(book.series)}</strong> ${book.volume ? '— ' + escapeHtml(book.volume) : ''}
+                <img src="public/icons/glyph_18_book_open_flat.png" class="inline-glyph-icon" alt="series"> Bộ sách: <strong>${escapeHtml(book.series)}</strong> ${book.volume ? '— ' + escapeHtml(book.volume) : ''}
               </div>
             ` : ''}
             <div class="detail-badges">
@@ -1004,12 +1004,9 @@
                   </div>
                 ` : ''}
                 ${(Array.isArray(book.awards) && book.awards.length > 0) ? `
-                  <div class="detail-awards-wrap">
+                  <div class="detail-awards-quote">
                     ${book.awards.map(award => `
-                      <div class="detail-award-badge" title="${escapeHtml(award)}">
-                        <span class="award-trophy">🏆</span>
-                        <span class="award-text">${escapeHtml(award)}</span>
-                      </div>
+                      <div class="award-quote-item">${escapeHtml(award)}</div>
                     `).join('')}
                   </div>
                 ` : ''}
@@ -1494,8 +1491,8 @@
           <div class="toc-part-group open" id="${groupId}">
             <div class="toc-group-header" role="button" tabindex="0" onclick="window.toggleTocPart('${groupId}')" onkeydown="if(event.key==='Enter'||event.key===' ')window.toggleTocPart('${groupId}')" title="Bấm để thu gọn hoặc mở rộng phần này">
               <div class="toc-group-title">
-                <span class="toc-folder-open">📂</span>
-                <span class="toc-folder-closed">📁</span>
+                <img src="public/icons/glyph_22_books_shelf_row.png" class="inline-glyph-icon toc-folder-open" alt="open" style="width: 18px; height: 18px;">
+                <img src="public/icons/glyph_23_bookshelf_cabinet.png" class="inline-glyph-icon toc-folder-closed" alt="closed" style="width: 18px; height: 18px;">
                 <span class="toc-part-name">${escapeHtml(g.part)}</span>
                 <span class="toc-part-count">${g.items.length} chương</span>
               </div>

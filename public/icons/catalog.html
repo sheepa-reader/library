@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kho Biểu Tượng Sheepa Library (48 Icons)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #0f172a;
+      --muted: #64748b;
+      --border: #e2e8f0;
+      --accent: #e87a15;
+      --accent-light: #fff7ed;
+    }
+    body.dark {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --border: #334155;
+      --accent-light: rgba(232, 122, 21, 0.15);
+    }
+    body.sepia {
+      --bg: #f5edd6;
+      --card-bg: #fdfaf2;
+      --text: #3d3122;
+      --muted: #7d6b53;
+      --border: #dfcfb2;
+      --accent-light: #fae4c8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Plus Jakarta Sans', sans-serif; }
+    body { background: var(--bg); color: var(--text); padding: 2rem 1.5rem; transition: all 0.2s; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    .header { text-align: center; margin-bottom: 2rem; }
+    .header h1 { font-size: 1.85rem; font-weight: 800; margin-bottom: 0.5rem; display: flex; align-items: center; justify-content: center; gap: 0.75rem; }
+    .header p { color: var(--muted); font-size: 0.95rem; }
+    .toolbar { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; margin-bottom: 2rem; background: var(--card-bg); padding: 1rem 1.25rem; border-radius: 12px; border: 1px solid var(--border); }
+    .search-input { flex: 1; min-width: 260px; padding: 0.6rem 1rem; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font-size: 0.9rem; outline: none; }
+    .theme-buttons { display: flex; gap: 0.5rem; }
+    .btn { padding: 0.5rem 0.85rem; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+    .btn:hover { border-color: var(--accent); }
+    .btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.25rem; }
+    .icon-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 14px; padding: 1.25rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 0.85rem; transition: transform 0.15s, box-shadow 0.15s; }
+    .icon-card:hover { transform: translateY(-3px); box-shadow: 0 10px 20px rgba(0,0,0,0.06); border-color: var(--accent); }
+    .icon-preview-row { display: flex; align-items: center; justify-content: center; gap: 1rem; width: 100%; padding: 0.5rem 0; }
+    .preview-box { width: 72px; height: 72px; display: flex; align-items: center; justify-content: center; border-radius: 10px; background: var(--bg); border: 1px dashed var(--border); }
+    .preview-box img { max-width: 54px; max-height: 54px; object-fit: contain; }
+    body.dark .preview-box img.glyph { filter: brightness(0) invert(0.95); }
+    body.sepia .preview-box img.glyph { filter: sepia(0.4) contrast(0.95); }
+    .icon-meta { width: 100%; }
+    .icon-title { font-weight: 700; font-size: 0.92rem; margin-bottom: 0.25rem; }
+    .icon-code { font-size: 0.75rem; color: var(--accent); font-weight: 700; text-transform: uppercase; margin-bottom: 0.5rem; }
+    .icon-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; justify-content: center; margin-bottom: 0.75rem; }
+    .tag { font-size: 0.72rem; padding: 2px 7px; border-radius: 4px; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+    .copy-btn { width: 100%; padding: 0.45rem; font-size: 0.78rem; font-weight: 600; border-radius: 6px; border: 1px solid var(--border); background: var(--card-bg); color: var(--text); cursor: pointer; transition: all 0.15s; }
+    .copy-btn:hover { background: var(--accent-light); color: var(--accent); border-color: var(--accent); }
+    .toast { position: fixed; bottom: 2rem; right: 2rem; background: #0f172a; color: white; padding: 0.75rem 1.25rem; border-radius: 8px; font-size: 0.85rem; font-weight: 600; box-shadow: 0 10px 25px rgba(0,0,0,0.2); opacity: 0; pointer-events: none; transition: opacity 0.2s; z-index: 999; }
+    .toast.show { opacity: 1; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>
+        <img src="glyph_01_sheep_sleep.png" style="width: 36px; height: 36px;" alt="logo">
+        Kho Biểu Tượng Nhãn Hiệu Sheepa Library
+      </h1>
+      <p>Trọn bộ 48 biểu tượng thương hiệu Sheepa nguyên bản — Đầy đủ 2 phiên bản: Khung Bo Tròn (Badge) và Không Khung (Glyph)</p>
+    </div>
+
+    <div class="toolbar">
+      <input type="text" id="search-input" class="search-input" placeholder="🔍 Tìm kiếm theo tên (ví dụ: book, sheep, laptop, write, read...)...">
+      <div class="theme-buttons">
+        <button type="button" class="btn active" onclick="setTheme('light', this)">☀️ Sáng</button>
+        <button type="button" class="btn" onclick="setTheme('dark', this)">🌙 Tối</button>
+        <button type="button" class="btn" onclick="setTheme('sepia', this)">📜 Giấy Cũ</button>
+      </div>
+    </div>
+
+    <div id="icons-grid" class="grid"></div>
+  </div>
+
+  <div id="toast" class="toast">Đã sao chép đường dẫn!</div>
+
+  <script>
+    let iconsData = [];
+
+    async function loadIcons() {
+      try {
+        const res = await fetch('icons.json');
+        iconsData = await res.json();
+        renderIcons(iconsData);
+      } catch (err) {
+        console.error('Lỗi nạp icons.json:', err);
+      }
+    }
+
+    function renderIcons(list) {
+      const grid = document.getElementById('icons-grid');
+      if (!list || list.length === 0) {
+        grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--muted); padding: 3rem;">Không tìm thấy biểu tượng phù hợp.</div>';
+        return;
+      }
+      grid.innerHTML = list.map(item => `
+        <div class="icon-card">
+          <div class="icon-preview-row">
+            <div class="preview-box" title="Bản Badge (Khung bo tròn viền đen)">
+              <img src="${item.badge}" alt="${item.title}">
+            </div>
+            <div class="preview-box" title="Bản Glyph (Trong suốt, dùng cho nút/menu)">
+              <img src="${item.glyph}" class="glyph" alt="${item.title}">
+            </div>
+          </div>
+          <div class="icon-meta">
+            <div class="icon-code">#${item.code} • ${item.name}</div>
+            <div class="icon-title">${item.title}</div>
+            <div class="icon-tags">
+              ${item.tags.map(t => `<span class="tag">${t}</span>`).join('')}
+            </div>
+          </div>
+          <div style="display: flex; gap: 0.4rem; width: 100%;">
+            <button type="button" class="copy-btn" onclick="copyPath('${item.glyph}')">📋 Copy Glyph</button>
+            <button type="button" class="copy-btn" onclick="copyPath('${item.badge}')">📋 Copy Badge</button>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      if (!q) {
+        renderIcons(iconsData);
+        return;
+      }
+      const filtered = iconsData.filter(i => 
+        i.name.toLowerCase().includes(q) || 
+        i.title.toLowerCase().includes(q) || 
+        i.code.includes(q) ||
+        i.tags.some(t => t.toLowerCase().includes(q))
+      );
+      renderIcons(filtered);
+    });
+
+    function setTheme(theme, btn) {
+      document.body.className = theme === 'light' ? '' : theme;
+      document.querySelectorAll('.theme-buttons .btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+
+    function copyPath(path) {
+      navigator.clipboard.writeText(path).then(() => {
+        showToast('Đã copy đường dẫn: ' + path);
+      }).catch(() => {
+        showToast('Đã copy: ' + path);
+      });
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2000);
+    }
+
+    loadIcons();
+  </script>
+</body>
+</html>
