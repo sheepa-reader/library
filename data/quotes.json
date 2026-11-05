@@ -10,16 +10,6 @@
     "work": "Hoàng Tử Bé"
   },
   {
-    "quote": "Một người đọc sách sống cả ngàn cuộc đời trước khi chết. Người không bao giờ đọc chỉ sống một cuộc đời.",
-    "author": "George R.R. Martin",
-    "work": "A Dance with Dragons"
-  },
-  {
-    "quote": "Sách là phép màu di động độc nhất vô nhị.",
-    "author": "Stephen King",
-    "work": "On Writing"
-  },
-  {
     "quote": "Không có người bạn nào trung thành và kiên nhẫn như một cuốn sách.",
     "author": "Ernest Hemingway"
   },
@@ -65,16 +55,8 @@
     "author": "Victor Hugo"
   },
   {
-    "quote": "Sách không chỉ lưu giữ tư tưởng, sách mở ra những cánh cửa bí mật mà chính ta cũng chưa từng biết tới.",
-    "author": "Sheepa Translator"
-  },
-  {
     "quote": "Đọc một cuốn sách hay giống như tìm được một bến đỗ bình yên giữa dòng đời cuộn chảy.",
     "author": "Lâm Ngữ Đường"
-  },
-  {
-    "quote": "Có những ngày ta chỉ cần một tách trà thơm, một góc nhỏ và những trang sách đang chờ lật giở.",
-    "author": "Sheepa Sanctuary"
   },
   {
     "quote": "Văn chương cho ta khả năng sống thêm nhiều kiếp sống, thấu hiểu nhiều nỗi đau và sẻ chia nhiều tình yêu hơn.",
@@ -91,5 +73,155 @@
   {
     "quote": "Cứ lật trang sách tiếp theo đi, cuộc đời đẹp nhất đang chờ bạn ở chương kế tiếp.",
     "author": "Sheepa Reader"
+  },
+  {
+    "quote": "Tất cả những người lớn đều từng là trẻ con... nhưng rất ít người trong số họ nhớ được điều đó.",
+    "author": "Antoine de Saint-Exupéry",
+    "work": "Hoàng Tử Bé"
+  },
+  {
+    "quote": "Khi bạn thực sự khao khát một điều gì đó, cả vũ trụ sẽ hợp lực giúp bạn đạt được nó.",
+    "author": "Paulo Coelho",
+    "work": "Nhà Giả Kim"
+  },
+  {
+    "quote": "Cho đến khi tôi sợ mình sẽ mất nó, tôi chưa bao giờ yêu thích việc đọc. Người ta không yêu thích việc hít thở.",
+    "author": "Harper Lee",
+    "work": "Giết Con Chim Nhại"
+  },
+  {
+    "quote": "Những cuốn sách hay nhất là những cuốn nói cho bạn biết điều mà bạn vốn đã biết.",
+    "author": "George Orwell",
+    "work": "1984"
+  },
+  {
+    "quote": "Nếu bạn chỉ đọc những cuốn sách mà mọi người đang đọc, bạn chỉ có thể nghĩ những gì mọi người đang nghĩ.",
+    "author": "Haruki Murakami",
+    "work": "Rừng Na Uy"
+  },
+  {
+    "quote": "Người đọc sách sống ngàn cuộc đời trước khi chết. Kẻ không bao giờ đọc chỉ sống duy nhất một lần.",
+    "author": "George R.R. Martin",
+    "work": "Vũ Điệu Của Rồng"
+  },
+  {
+    "quote": "Sách là phép thuật kỳ diệu và di động bậc nhất trần đời.",
+    "author": "Stephen King",
+    "work": "Về Lối Viết"
+  },
+  {
+    "quote": "Cuộc đời này ngắn ngủi đến mức ta không có đủ thời gian để đọc những cuốn sách tồi.",
+    "author": "James Joyce",
+    "work": "Chân Dung Một Chàng Trai Trẻ"
+  },
+  {
+    "quote": "Không có con tàu nào đưa ta đi xa như một cuốn sách, cũng chẳng có chiến mã nào phi nhanh bằng một trang thơ.",
+    "author": "Emily Dickinson",
+    "work": "Thơ Emily Dickinson"
+  },
+  {
+    "quote": "Việc đọc sách đối với trí tuệ cũng giống như việc tập thể dục đối với cơ thể.",
+    "author": "Joseph Addison",
+    "work": "Người Quan Sát"
+  },
+  {
+    "quote": "Có những vết thương mà chỉ có thời gian và những trang sách mới có thể làm dịu lại.",
+    "author": "Carlos Ruiz Zafón",
+    "work": "Bóng Hình Của Gió"
+  },
+  {
+    "quote": "Một cuốn sách phải là cây rìu phá tan tảng băng đóng băng bên trong tâm hồn chúng ta.",
+    "author": "Franz Kafka",
+    "work": "Thư Gửi Bố"
+  },
+  {
+    "quote": "Hôm nay là người đọc, ngày mai là người dẫn đầu.",
+    "author": "Margaret Fuller",
+    "work": "Phụ Nữ Thế Kỷ Mười Chín"
+  },
+  {
+    "quote": "Sách không làm thay đổi thế giới, nhưng sách làm thay đổi con người, và con người sẽ thay đổi thế giới.",
+    "author": "Astrid Lindgren",
+    "work": "Pippi Tất Dài"
+  },
+  {
+    "quote": "Bạn không bao giờ cô đơn khi bạn đang đọc một cuốn sách hay.",
+    "author": "C.S. Lewis",
+    "work": "Biên Niên Sử Narnia"
+  },
+  {
+    "quote": "Những cuốn sách giống như những tấm gương: bạn chỉ thấy trong đó những gì bạn đã mang sẵn trong tâm hồn mình.",
+    "author": "Carlos Ruiz Zafón",
+    "work": "Trò Chơi Của Thiên Thần"
+  },
+  {
+    "quote": "Không có sự giải trí nào rẻ hơn việc đọc sách, cũng không có niềm vui nào lâu bền hơn thế.",
+    "author": "Mary Wortley Montagu",
+    "work": "Những Bức Thư Thổ Nhĩ Kỳ"
+  },
+  {
+    "quote": "Cái chết không phải là điều mất mát lớn nhất trong cuộc đời. Sự mất mát lớn nhất là những gì chết đi bên trong bạn khi bạn còn đang sống.",
+    "author": "Norman Cousins",
+    "work": "Giải phẫu một căn bệnh"
+  },
+  {
+    "quote": "Bạn có thể bẻ gãy một bông hoa, nhưng bạn không thể ngăn chặn mùa xuân đến.",
+    "author": "Pablo Neruda",
+    "work": "Hai Mươi Bài Thơ Tình Và Một Bản Tuyệt Vọng Ca"
+  },
+  {
+    "quote": "Yêu thương một người là chấp nhận cùng họ già đi.",
+    "author": "Albert Camus",
+    "work": "Kẻ Xa Lạ"
+  },
+  {
+    "quote": "Hạnh phúc của cuộc đời phụ thuộc vào chất lượng của những suy nghĩ trong đầu bạn.",
+    "author": "Marcus Aurelius",
+    "work": "Suy Tưởng"
+  },
+  {
+    "quote": "Thế giới này không được tạo ra một lần duy nhất, mà mỗi khi một người nghệ sĩ độc đáo xuất hiện, một thế giới mới lại ra đời.",
+    "author": "Marcel Proust",
+    "work": "Đi Tìm Thời Gian Đã Mất"
+  },
+  {
+    "quote": "Chúng ta đọc để biết rằng mình không hề đơn độc.",
+    "author": "C.S. Lewis",
+    "work": "Vùng Đất Bóng Tối"
+  },
+  {
+    "quote": "Chỉ khi ta đánh mất tất cả, ta mới hoàn toàn tự do để làm bất cứ điều gì.",
+    "author": "Chuck Palahniuk",
+    "work": "Sàn Đấu Sinh Tử"
+  },
+  {
+    "quote": "Người chịu đựng được chữ Nhẫn là người có thể đạt được bất cứ điều gì họ mong muốn.",
+    "author": "Benjamin Franklin",
+    "work": "Tự Truyện Benjamin Franklin"
+  },
+  {
+    "quote": "Cuộc đời vốn dĩ không công bằng, hãy tập quen dần với điều đó.",
+    "author": "Bill Gates",
+    "work": "Con Đường Phía Trước"
+  },
+  {
+    "quote": "Nỗi đau là không thể tránh khỏi, nhưng chịu đựng nó lại là sự lựa chọn.",
+    "author": "Haruki Murakami",
+    "work": "Tôi Nói Gì Khi Nói Về Chạy Bộ"
+  },
+  {
+    "quote": "Chừng nào ký ức về một người bạn yêu dấu còn sống trong trái tim bạn, người đó sẽ không bao giờ thực sự mất đi.",
+    "author": "Fredrik Backman",
+    "work": "Người Đàn Ông Mang Tên Ove"
+  },
+  {
+    "quote": "Con người sinh ra không phải để dành cho sự thất bại. Con người có thể bị hủy diệt, nhưng không thể bị đánh bại.",
+    "author": "Ernest Hemingway",
+    "work": "Ông Già Và Biển Cả"
+  },
+  {
+    "quote": "Bất cứ ai từng trải qua những giông bão lớn đều biết rằng chiếc mỏ neo vững chắc nhất đôi khi chỉ là một trang sách.",
+    "author": "Victor Hugo",
+    "work": "Những Người Khốn Khổ"
   }
 ]
