@@ -1183,7 +1183,16 @@
     return html;
   }
 
-  // --- DOWNLOAD MODAL (EPUB & PDF ONLY) ---
+  // --- DOWNLOAD PASSCODE CONFIGURATION ---
+  const DEFAULT_DOWNLOAD_PASSCODES = ['thesheepa', 'sheepa', 'sheepa2024', 'sheepa2025', 'sheepa2026'];
+
+  function isDownloadUnlocked(book) {
+    if (localStorage.getItem('sheepa_download_unlocked') === 'true') return true;
+    if (book && localStorage.getItem(`sheepa_unlocked_${book.id}`) === 'true') return true;
+    return false;
+  }
+
+  // --- DOWNLOAD MODAL (EPUB & PDF WITH PASSCODE LOCK) ---
   function openDownloadModal(book) {
     let modal = document.getElementById('download-modal');
     if (!modal) {
@@ -1195,6 +1204,43 @@
 
     const hasEpub = Boolean(book.downloads?.epub);
     const hasPdf = Boolean(book.downloads?.pdf);
+    const isUnlocked = isDownloadUnlocked(book);
+
+    let lockBoxHtml = '';
+    if (!isUnlocked) {
+      lockBoxHtml = `
+        <div class="download-lock-box">
+          <div class="lock-icon-badge">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+              <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+            </svg>
+          </div>
+          <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem;">Khu vực tải sách có mã khóa</div>
+          <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem; line-height: 1.5;">
+            Vui lòng nhập mã mở khóa để tải toàn bộ tài liệu (.EPUB & .PDF) của cuốn sách này:
+          </div>
+          <form id="download-passcode-form" class="passcode-input-group" onsubmit="return false;">
+            <input type="password" id="download-passcode-input" placeholder="Nhập mã truy cập..." autocomplete="off">
+            <button type="submit" class="btn-primary" id="btn-unlock-download">Mở khóa</button>
+          </form>
+          <div id="passcode-error-msg" class="passcode-error-msg" style="display: none;"></div>
+          <div class="passcode-hint">
+            Chưa có mã khóa? Nhận mã mở khóa miễn phí tại <a href="https://t.me/thesheepa" target="_blank" rel="noopener">Telegram @thesheepa</a>
+          </div>
+        </div>
+      `;
+    } else {
+      lockBoxHtml = `
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.1rem; background: var(--bg-secondary); padding: 0.6rem 0.9rem; border-radius: 8px; border: 1px solid var(--border-color);">
+          <div class="unlocked-status-badge">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            Đã mở khóa tải sách thành viên
+          </div>
+          <button class="btn-relock" id="btn-relock-downloads" title="Khóa lại chức năng tải để bảo mật">Khóa lại</button>
+        </div>
+      `;
+    }
 
     modal.innerHTML = `
       <div class="modal-content">
@@ -1202,20 +1248,33 @@
           <h3>Tải sách "${escapeHtml(book.title)}"</h3>
           <button class="icon-btn" id="btn-close-modal" style="width: 32px; height: 32px;">✕</button>
         </div>
-        <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.25rem;">
+
+        ${lockBoxHtml}
+
+        <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">
           Chọn định dạng sách điện tử hoặc tài liệu đọc offline:
         </p>
 
         <!-- EPUB Option -->
-        ${hasEpub ? `
-          <a href="${book.downloads.epub}" download="${book.id}.epub" class="download-option-btn">
-            <div>
-              <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
-              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+        ${hasEpub ? (
+          isUnlocked ? `
+            <a href="${book.downloads.epub}" download="${book.id}.epub" class="download-option-btn">
+              <div>
+                <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+              </div>
+              <span class="download-badge">TẢI VỀ</span>
+            </a>
+          ` : `
+            <div class="download-option-btn download-locked-btn" id="btn-locked-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+              <div>
+                <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+              </div>
+              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
-            <span class="download-badge">TẢI VỀ</span>
-          </a>
-        ` : `
+          `
+        ) : `
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
               <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
@@ -1226,15 +1285,25 @@
         `}
 
         <!-- PDF Option -->
-        ${hasPdf ? `
-          <a href="${book.downloads.pdf}" download="${book.id}.pdf" class="download-option-btn">
-            <div>
-              <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+        ${hasPdf ? (
+          isUnlocked ? `
+            <a href="${book.downloads.pdf}" download="${book.id}.pdf" class="download-option-btn">
+              <div>
+                <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+              </div>
+              <span class="download-badge">TẢI VỀ</span>
+            </a>
+          ` : `
+            <div class="download-option-btn download-locked-btn" id="btn-locked-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+              <div>
+                <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+              </div>
+              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
-            <span class="download-badge">TẢI VỀ</span>
-          </a>
-        ` : `
+          `
+        ) : `
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
               <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
@@ -1256,6 +1325,69 @@
     modal.addEventListener('click', (e) => {
       if (e.target === modal) modal.classList.remove('active');
     });
+
+    // Passcode Form Submit & Validation
+    const passForm = document.getElementById('download-passcode-form');
+    const passInput = document.getElementById('download-passcode-input');
+    const passError = document.getElementById('passcode-error-msg');
+    const relockBtn = document.getElementById('btn-relock-downloads');
+    const lockedEpub = document.getElementById('btn-locked-epub');
+    const lockedPdf = document.getElementById('btn-locked-pdf');
+
+    if (passForm && passInput) {
+      passForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const entered = (passInput.value || '').trim().toLowerCase();
+        if (!entered) {
+          if (passError) {
+            passError.textContent = 'Vui lòng nhập mã khóa.';
+            passError.style.display = 'block';
+          }
+          passInput.focus();
+          return;
+        }
+
+        const bookCode = (book.downloadPasscode || '').trim().toLowerCase();
+        const isMatch = DEFAULT_DOWNLOAD_PASSCODES.includes(entered) || (bookCode && entered === bookCode);
+
+        if (isMatch) {
+          localStorage.setItem('sheepa_download_unlocked', 'true');
+          // Refresh modal to unlocked state immediately
+          openDownloadModal(book);
+        } else {
+          if (passError) {
+            passError.textContent = 'Mã khóa không chính xác. Hãy kiểm tra lại hoặc liên hệ Telegram @thesheepa.';
+            passError.style.display = 'block';
+          }
+          passInput.style.borderColor = '#e53e3e';
+          passInput.select();
+        }
+      });
+    }
+
+    if (relockBtn) {
+      relockBtn.addEventListener('click', () => {
+        localStorage.removeItem('sheepa_download_unlocked');
+        openDownloadModal(book);
+      });
+    }
+
+    if (lockedEpub) {
+      lockedEpub.addEventListener('click', () => {
+        if (passInput) {
+          passInput.focus();
+          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    }
+    if (lockedPdf) {
+      lockedPdf.addEventListener('click', () => {
+        if (passInput) {
+          passInput.focus();
+          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    }
   }
 
   // --- TOC DRAWER FOR READER ---

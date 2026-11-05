@@ -1417,6 +1417,114 @@ button {
   border-radius: 4px;
 }
 
+/* --- PASSCODE LOCK FOR DOWNLOAD MODAL --- */
+.download-lock-box {
+  background: var(--bg-secondary);
+  border: 1px dashed var(--border-color);
+  border-radius: 10px;
+  padding: 1.25rem 1.1rem;
+  margin-bottom: 1.25rem;
+  text-align: center;
+}
+
+.lock-icon-badge {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--bg-hover);
+  color: var(--primary-accent);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.6rem;
+}
+
+.passcode-input-group {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 340px;
+  margin: 0 auto;
+}
+
+.passcode-input-group input {
+  flex: 1;
+  padding: 0.6rem 0.85rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background: var(--bg-main);
+  color: var(--text-main);
+  font-size: 0.92rem;
+  outline: none;
+  transition: border-color var(--transition-fast);
+}
+
+.passcode-input-group input:focus {
+  border-color: var(--primary-accent);
+}
+
+.passcode-input-group button {
+  padding: 0.6rem 1rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.passcode-error-msg {
+  color: #e53e3e;
+  font-size: 0.82rem;
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+
+.passcode-hint {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+  margin-top: 0.75rem;
+  line-height: 1.4;
+}
+
+.passcode-hint a {
+  color: var(--primary-accent);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.unlocked-status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #2e7d32;
+  background: rgba(46, 125, 50, 0.1);
+  padding: 0.25rem 0.6rem;
+  border-radius: 20px;
+}
+
+[data-theme="dark"] .unlocked-status-badge {
+  color: #81c784;
+  background: rgba(129, 199, 132, 0.15);
+}
+
+.btn-relock {
+  background: none;
+  border: none;
+  color: var(--text-tertiary);
+  font-size: 0.75rem;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.btn-relock:hover {
+  color: var(--text-main);
+}
+
+.download-locked-btn:hover {
+  border-color: var(--primary-accent);
+  background: var(--bg-hover);
+}
+
 /* Settings Drawer (Font size, family, line-height, width, theme) */
 .settings-drawer {
   position: fixed;
