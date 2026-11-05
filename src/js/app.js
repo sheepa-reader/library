@@ -139,11 +139,10 @@
     }
   }
 
-  // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, SORT, VIEW MODE TOGGLE) ---
+  // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, VIEW MODE TOGGLE) ---
   function initHeaderControls() {
     const tagSelect = document.getElementById('header-tag-filter');
     const statusSelect = document.getElementById('header-status-filter');
-    const sortSelect = document.getElementById('header-sort-select');
     const viewToggleBtn = document.getElementById('header-view-toggle-btn');
 
     if (tagSelect) {
@@ -171,14 +170,6 @@
         } else {
           renderLibraryView();
         }
-      });
-    }
-
-    if (sortSelect) {
-      sortSelect.addEventListener('change', (e) => {
-        currentSort = e.target.value;
-        currentPage = 1;
-        renderLibraryView();
       });
     }
 
@@ -239,8 +230,6 @@
     if (headerTagSelect) headerTagSelect.value = 'all';
     const headerStatusSelect = document.getElementById('header-status-filter');
     if (headerStatusSelect) headerStatusSelect.value = 'all';
-    const headerSortSelect = document.getElementById('header-sort-select');
-    if (headerSortSelect) headerSortSelect.value = 'date-desc';
     const searchInput = document.getElementById('library-search');
     if (searchInput) searchInput.value = '';
     renderLibraryView();
@@ -548,12 +537,6 @@
       headerStatusSelect.value = activeStatusFilter;
     }
 
-    // Đồng bộ dropdown sắp xếp trên header
-    const headerSortSelect = document.getElementById('header-sort-select');
-    if (headerSortSelect) {
-      headerSortSelect.value = currentSort;
-    }
-
     // Đồng bộ trạng thái nút chuyển Grid / List
     updateViewToggleUI();
 
@@ -796,8 +779,6 @@
       librarySortSelect.addEventListener('change', (e) => {
         currentSort = e.target.value;
         currentPage = 1;
-        const headerSortSelect = document.getElementById('header-sort-select');
-        if (headerSortSelect) headerSortSelect.value = currentSort;
         renderLibraryView();
       });
     }
