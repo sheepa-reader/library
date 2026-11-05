@@ -72,6 +72,15 @@
     const starSvg = `<svg class="gr-star-svg" viewBox="0 0 24 24" style="width:${size}px; height:${size}px;"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>`;
     const fiveStars = starSvg + starSvg + starSvg + starSvg + starSvg;
 
+    if (options.layout === 'raw-stars') {
+      return `
+        <div class="gr-stars-container" style="width: ${totalWidthPx}px; height: ${size}px;">
+          <div class="gr-stars-base" style="gap: ${gap}px;">${fiveStars}</div>
+          <div class="gr-stars-fill" style="width: ${filledPx.toFixed(2)}px; gap: ${gap}px;">${fiveStars}</div>
+        </div>
+      `;
+    }
+
     if (options.layout === 'detail') {
       return `
         <div class="detail-gr-badge" title="${formattedScore} / 5 trên Goodreads${fullCount ? ` (${fullCount} lượt đánh giá)` : ''}">
@@ -995,18 +1004,33 @@
             <h1 class="detail-title">${escapeHtml(book.title)}</h1>
             <div class="detail-original-title">${escapeHtml(book.originalTitle)}</div>
 
-            <!-- Goodreads Rating & Awards Showcase -->
+            <!-- Unified Rating & Awards Showcase Card -->
             ${(book.rating || (Array.isArray(book.awards) && book.awards.length > 0)) ? `
-              <div class="detail-rating-awards-box">
+              <div class="detail-showcase-card">
                 ${book.rating ? `
-                  <div class="detail-rating-line">
-                    ${renderGoodreadsRating(book.rating, { layout: 'detail', size: 16, gap: 2.5 })}
+                  <div class="showcase-rating-row">
+                    <span class="showcase-brand">GOODREADS</span>
+                    ${renderGoodreadsRating(book.rating, { layout: 'raw-stars', size: 15, gap: 2.5 })}
+                    <div class="showcase-score-group">
+                      <span class="showcase-score">${(parseFloat(book.rating.score) || 0).toFixed((parseFloat(book.rating.score) || 0) % 1 === 0 ? 1 : 2)}</span>
+                      <span class="showcase-max">/ 5</span>
+                    </div>
+                    ${book.rating.count ? `<span class="showcase-count">(${formatVoteCount(book.rating.count)} đánh giá)</span>` : ''}
                   </div>
                 ` : ''}
                 ${(Array.isArray(book.awards) && book.awards.length > 0) ? `
-                  <div class="detail-awards-quote">
+                  <div class="showcase-awards-list ${book.rating ? 'has-rating-divider' : ''}">
                     ${book.awards.map(award => `
-                      <div class="award-quote-item">${escapeHtml(award)}</div>
+                      <div class="showcase-award-item">
+                        <svg class="showcase-trophy" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                          <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                          <path d="M4 22h16"></path>
+                          <path d="M10 14.66V17c0 .55-.45 1-1 1H7v4h10v-4h-2c-.55 0-1-.45-1-1v-2.34"></path>
+                          <path d="M6 4h12a2 2 0 0 1 2 2v3a6 6 0 0 1-6 6h0a6 6 0 0 1-6-6V6a2 2 0 0 1 2-2Z"></path>
+                        </svg>
+                        <span>${escapeHtml(award)}</span>
+                      </div>
                     `).join('')}
                   </div>
                 ` : ''}
