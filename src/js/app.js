@@ -38,13 +38,16 @@
   let currentQuoteIndex = -1;
 
   // Reader Settings State
+  let savedWidth = localStorage.getItem('sheepa_reader_width') || '740';
+  if (typeof savedWidth === 'string') savedWidth = savedWidth.replace('px', '');
   const readerSettings = {
     fontFamily: localStorage.getItem('sheepa_reader_font') || 'serif',
     fontSize: parseInt(localStorage.getItem('sheepa_reader_size') || '18', 10),
-    maxWidth: localStorage.getItem('sheepa_reader_width') || '720px'
+    lineHeight: parseFloat(localStorage.getItem('sheepa_reader_line_height') || '1.8'),
+    maxWidth: parseInt(savedWidth || '740', 10)
   };
 
-  // --- THEME ENGINE ---
+  // --- THEME ENGINE (3 CHẾ ĐỘ: SÁNG - GIẤY CŨ - TỐI) ---
   const themeToggleBtn = document.getElementById('theme-toggle-btn');
   
   function initTheme() {
@@ -57,7 +60,10 @@
     if (themeToggleBtn) {
       themeToggleBtn.addEventListener('click', () => {
         const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
-        const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        let nextTheme = 'sepia';
+        if (currentTheme === 'light') nextTheme = 'sepia';
+        else if (currentTheme === 'sepia') nextTheme = 'dark';
+        else nextTheme = 'light';
         setTheme(nextTheme);
       });
     }
@@ -76,18 +82,46 @@
     document.documentElement.setAttribute('data-theme', theme);
     localStorage.setItem('sheepa_theme', theme);
     updateThemeIcon(theme);
+    updateReaderDrawerTheme(theme);
   }
 
   function updateThemeIcon(theme) {
     const btn = document.getElementById('theme-toggle-btn');
-    if (!btn) return;
-    if (theme === 'dark') {
-      // Moon / Sun icon
-      btn.innerHTML = `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>`;
-      btn.setAttribute('title', 'Chuyển sang giao diện sáng (Light)');
-    } else {
-      btn.innerHTML = `<svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>`;
-      btn.setAttribute('title', 'Chuyển sang giao diện tối (Dark)');
+    const readerBtn = document.getElementById('reader-theme-btn');
+    const icons = {
+      light: {
+        html: `<svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>`,
+        title: 'Giao diện Sáng (Bấm để đổi sang Giấy Cũ)'
+      },
+      sepia: {
+        html: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>`,
+        title: 'Giao diện Giấy Cũ (Bấm để đổi sang Nền Tối)'
+      },
+      dark: {
+        html: `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>`,
+        title: 'Giao diện Nền Tối (Bấm để đổi sang Nền Sáng)'
+      }
+    };
+
+    const cur = icons[theme] || icons.light;
+    if (btn) {
+      btn.innerHTML = cur.html;
+      btn.setAttribute('title', cur.title);
+    }
+    if (readerBtn) {
+      readerBtn.innerHTML = cur.html;
+      readerBtn.setAttribute('title', cur.title);
+    }
+  }
+
+  function updateReaderDrawerTheme(theme) {
+    const lightBtn = document.getElementById('reader-theme-light-btn');
+    const sepiaBtn = document.getElementById('reader-theme-sepia-btn');
+    const darkBtn = document.getElementById('reader-theme-dark-btn');
+    if (lightBtn && sepiaBtn && darkBtn) {
+      lightBtn.classList.toggle('active', theme === 'light');
+      sepiaBtn.classList.toggle('active', theme === 'sepia');
+      darkBtn.classList.toggle('active', theme === 'dark');
     }
   }
 
@@ -759,6 +793,8 @@
       contentHtml = `<p>Nội dung chương đang được chuẩn bị.</p>`;
     }
 
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+
     app.innerHTML = `
       <div class="reader-view">
         <!-- Scroll Progress Bar -->
@@ -802,10 +838,10 @@
               <button class="icon-btn" id="reader-toc-toggle-btn" title="Mục lục chương">
                 <svg viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
               </button>
-              <button class="icon-btn" id="reader-settings-btn" title="Tùy chỉnh cỡ chữ / font">
+              <button class="icon-btn" id="reader-settings-btn" title="Tùy chỉnh cỡ chữ / font / dãn dòng">
                 <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
               </button>
-              <button class="icon-btn" id="reader-theme-btn" title="Đổi màu nền ngày/đêm">
+              <button class="icon-btn" id="reader-theme-btn" title="Đổi màu nền ngày/đêm/giấy cũ">
                 <svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
               </button>
             </div>
@@ -813,31 +849,8 @@
         </div>
 
         <!-- Reading Article -->
-        <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth};">
-          <!-- Top Chapter Navigation (Chương trước / Mục lục / Chương sau) -->
-          <div class="reader-header-nav">
-            ${prevChapter ? `
-              <a href="#/read/${book.id}/${prevChapter.id}" class="reader-nav-btn" title="Chương trước: ${escapeHtml(prevChapter.title)}">
-                ← Chương trước
-              </a>
-            ` : `
-              <button class="reader-nav-btn" disabled>← Chương trước</button>
-            `}
-
-            <a href="#/book/${book.id}" class="reader-nav-btn btn-outline" style="font-size: 0.85rem;">
-              Mục lục sách
-            </a>
-
-            ${nextChapter ? `
-              <a href="#/read/${book.id}/${nextChapter.id}" class="reader-nav-btn btn-primary" title="Chương sau: ${escapeHtml(nextChapter.title)}">
-                Chương sau →
-              </a>
-            ` : `
-              <button class="reader-nav-btn" disabled>Hết chương</button>
-            `}
-          </div>
-
-          <article class="reader-content" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px;">
+        <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
+          <article class="reader-content" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
             ${contentHtml}
           </article>
 
@@ -868,6 +881,14 @@
         <!-- Quick Settings Drawer -->
         <div class="settings-drawer" id="reader-settings-drawer">
           <div class="setting-row">
+            <span>Nền đọc:</span>
+            <div class="btn-group">
+              <button class="btn-group-item ${currentTheme === 'light' ? 'active' : ''}" id="reader-theme-light-btn" title="Nền trắng sáng">Sáng</button>
+              <button class="btn-group-item ${currentTheme === 'sepia' ? 'active' : ''}" id="reader-theme-sepia-btn" title="Nền giấy cũ dịu mắt">Giấy cũ</button>
+              <button class="btn-group-item ${currentTheme === 'dark' ? 'active' : ''}" id="reader-theme-dark-btn" title="Nền tối ban đêm">Tối</button>
+            </div>
+          </div>
+          <div class="setting-row">
             <span>Font chữ:</span>
             <div class="btn-group">
               <button class="btn-group-item ${readerSettings.fontFamily === 'serif' ? 'active' : ''}" id="font-serif-btn">Serif</button>
@@ -877,9 +898,25 @@
           <div class="setting-row">
             <span>Cỡ chữ:</span>
             <div class="btn-group">
-              <button class="btn-group-item" id="font-decrease-btn">A -</button>
+              <button class="btn-group-item" id="font-decrease-btn" title="Giảm cỡ chữ">A -</button>
               <span style="padding: 0.35rem 0.6rem; font-size: 0.82rem; font-weight: 600;" id="font-size-label">${readerSettings.fontSize}px</span>
-              <button class="btn-group-item" id="font-increase-btn">A +</button>
+              <button class="btn-group-item" id="font-increase-btn" title="Tăng cỡ chữ">A +</button>
+            </div>
+          </div>
+          <div class="setting-row">
+            <span>Dãn dòng:</span>
+            <div class="btn-group">
+              <button class="btn-group-item" id="line-height-dec-btn" title="Giảm khoảng cách dòng">↕ -</button>
+              <span style="padding: 0.35rem 0.6rem; font-size: 0.82rem; font-weight: 600;" id="line-height-label">${readerSettings.lineHeight.toFixed(1)}</span>
+              <button class="btn-group-item" id="line-height-inc-btn" title="Tăng khoảng cách dòng">↕ +</button>
+            </div>
+          </div>
+          <div class="setting-row">
+            <span>Độ rộng:</span>
+            <div class="btn-group">
+              <button class="btn-group-item" id="width-dec-btn" title="Thu hẹp khung đọc">↔ -</button>
+              <span style="padding: 0.35rem 0.6rem; font-size: 0.82rem; font-weight: 600;" id="width-label">${readerSettings.maxWidth}px</span>
+              <button class="btn-group-item" id="width-inc-btn" title="Mở rộng khung đọc">↔ +</button>
             </div>
           </div>
         </div>
@@ -948,12 +985,76 @@
       });
     }
 
-    // Reader theme button
+    // Line Height Controls
+    const lineDecBtn = document.getElementById('line-height-dec-btn');
+    const lineIncBtn = document.getElementById('line-height-inc-btn');
+    const lineHeightLabel = document.getElementById('line-height-label');
+
+    if (lineDecBtn && lineIncBtn && lineHeightLabel) {
+      lineDecBtn.addEventListener('click', () => {
+        if (readerSettings.lineHeight > 1.45) {
+          readerSettings.lineHeight = Math.round((readerSettings.lineHeight - 0.1) * 10) / 10;
+          localStorage.setItem('sheepa_reader_line_height', readerSettings.lineHeight);
+          readerBody.style.lineHeight = readerSettings.lineHeight;
+          lineHeightLabel.textContent = readerSettings.lineHeight.toFixed(1);
+        }
+      });
+      lineIncBtn.addEventListener('click', () => {
+        if (readerSettings.lineHeight < 2.35) {
+          readerSettings.lineHeight = Math.round((readerSettings.lineHeight + 0.1) * 10) / 10;
+          localStorage.setItem('sheepa_reader_line_height', readerSettings.lineHeight);
+          readerBody.style.lineHeight = readerSettings.lineHeight;
+          lineHeightLabel.textContent = readerSettings.lineHeight.toFixed(1);
+        }
+      });
+    }
+
+    // Reading Width Controls
+    const widthDecBtn = document.getElementById('width-dec-btn');
+    const widthIncBtn = document.getElementById('width-inc-btn');
+    const widthLabel = document.getElementById('width-label');
+    const readerContainer = document.querySelector('.reader-article-container');
+
+    if (widthDecBtn && widthIncBtn && widthLabel) {
+      widthDecBtn.addEventListener('click', () => {
+        if (readerSettings.maxWidth > 580) {
+          readerSettings.maxWidth -= 60;
+          localStorage.setItem('sheepa_reader_width', readerSettings.maxWidth);
+          if (readerContainer) readerContainer.style.maxWidth = `${readerSettings.maxWidth}px`;
+          widthLabel.textContent = `${readerSettings.maxWidth}px`;
+        }
+      });
+      widthIncBtn.addEventListener('click', () => {
+        if (readerSettings.maxWidth < 1060) {
+          readerSettings.maxWidth += 60;
+          localStorage.setItem('sheepa_reader_width', readerSettings.maxWidth);
+          if (readerContainer) readerContainer.style.maxWidth = `${readerSettings.maxWidth}px`;
+          widthLabel.textContent = `${readerSettings.maxWidth}px`;
+        }
+      });
+    }
+
+    // Drawer Theme Selection Buttons
+    const drawerThemeLight = document.getElementById('reader-theme-light-btn');
+    const drawerThemeSepia = document.getElementById('reader-theme-sepia-btn');
+    const drawerThemeDark = document.getElementById('reader-theme-dark-btn');
+
+    if (drawerThemeLight && drawerThemeSepia && drawerThemeDark) {
+      drawerThemeLight.addEventListener('click', () => setTheme('light'));
+      drawerThemeSepia.addEventListener('click', () => setTheme('sepia'));
+      drawerThemeDark.addEventListener('click', () => setTheme('dark'));
+    }
+
+    // Reader theme button (cycles through light -> sepia -> dark)
     const readerThemeBtn = document.getElementById('reader-theme-btn');
     if (readerThemeBtn) {
       readerThemeBtn.addEventListener('click', () => {
         const cur = document.documentElement.getAttribute('data-theme') || 'light';
-        setTheme(cur === 'dark' ? 'light' : 'dark');
+        let nextTheme = 'sepia';
+        if (cur === 'light') nextTheme = 'sepia';
+        else if (cur === 'sepia') nextTheme = 'dark';
+        else nextTheme = 'light';
+        setTheme(nextTheme);
       });
     }
 

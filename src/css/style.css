@@ -48,6 +48,24 @@
   --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.3);
 }
 
+[data-theme="sepia"] {
+  /* Vintage Warm Paper - Nền nâu vàng giấy cũ cổ điển, dịu nhẹ thư thái cho mắt */
+  --bg-primary: #f5eed9;
+  --bg-secondary: #ebdcb9;
+  --bg-card: #fbf4e2;
+  --bg-hover: #e2d2ab;
+  --border-color: #d8c49a;
+  --border-light: #e4d4b1;
+  --text-main: #382b1a;
+  --text-secondary: #6e583c;
+  --text-tertiary: #967f60;
+  --accent: #4d3822;
+  --accent-contrast: #fcf7e8;
+  --accent-badge: #e6d7b4;
+  --shadow-sm: 0 1px 3px rgba(56, 43, 26, 0.08);
+  --shadow-md: 0 4px 14px rgba(56, 43, 26, 0.12);
+}
+
 /* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode (trừ ảnh bìa sách thật và mã QR) */
 [data-theme="dark"] .brand-logo,
 [data-theme="dark"] .hero-badge-img,
@@ -67,6 +85,26 @@
 [data-theme="dark"] .detail-cover-box {
   background: #252730;
   border-color: #383b48;
+}
+
+/* Tông màu vintage dịu mắt cho chế độ Giấy Cũ */
+[data-theme="sepia"] .card-icon-frame,
+[data-theme="sepia"] .detail-cover-box {
+  background: #faefd6;
+  border-color: #d8c49a;
+}
+
+[data-theme="sepia"] .brand-logo,
+[data-theme="sepia"] .hero-badge-img,
+[data-theme="sepia"] .search-icon-img,
+[data-theme="sepia"] .header-filter-icon,
+[data-theme="sepia"] .header-btn-icon,
+[data-theme="sepia"] .card-icon-frame img,
+[data-theme="sepia"] .detail-cover-box img:not(.detail-cover-real),
+[data-theme="sepia"] .chapter-count img,
+[data-theme="sepia"] .section-heading img,
+[data-theme="sepia"] .site-footer img:not(.footer-qr-img) {
+  filter: sepia(0.35) contrast(0.95);
 }
 
 /* Base Styles */
@@ -1121,8 +1159,9 @@ button {
 .reader-article-container {
   max-width: var(--reader-max-width);
   margin: 0 auto;
-  padding: 3rem 1.5rem 5rem;
+  padding: 2rem 1.5rem 5rem;
   width: 100%;
+  transition: max-width var(--transition-fast);
 }
 
 .reader-content {
@@ -1151,6 +1190,7 @@ button {
 .reader-content p {
   margin-bottom: 1.35rem;
   text-align: justify;
+  line-height: inherit;
 }
 
 .reader-content blockquote {
@@ -1159,6 +1199,7 @@ button {
   margin: 1.5rem 0;
   color: var(--text-secondary);
   font-style: italic;
+  line-height: inherit;
 }
 
 .reader-content ul, .reader-content ol {
@@ -1168,6 +1209,7 @@ button {
 
 .reader-content li {
   margin-bottom: 0.5rem;
+  line-height: inherit;
 }
 
 /* Reader Top & Bottom Navigation */
@@ -1294,7 +1336,7 @@ button {
   border-radius: 4px;
 }
 
-/* Settings Drawer (Font size, family) */
+/* Settings Drawer (Font size, family, line-height, width, theme) */
 .settings-drawer {
   position: fixed;
   bottom: 1.5rem;
@@ -1305,10 +1347,10 @@ button {
   padding: 1.25rem;
   box-shadow: var(--shadow-md);
   z-index: 100;
-  width: 280px;
+  width: 310px;
   display: none;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.85rem;
 }
 
 .settings-drawer.active {
