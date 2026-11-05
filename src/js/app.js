@@ -239,7 +239,7 @@
   // --- QUOTES & TAGLINES ENGINE (KHO LƯU TRỮ & RANDOM TAGLINE DƯỚI HERO) ---
   function formatQuoteHtml(item) {
     if (!item) return '';
-    if (item.author === 'Sheepa Library' && item.work === 'Tủ Sách Tự Dịch') {
+    if (item.author === 'Sheepa Library' && item.work === 'Tủ Sách Tự Dịch' && item.quote && item.quote.includes('Không gian lưu trữ')) {
       return `<span class="tagline-quote tagline-intro">${escapeHtml(item.quote)}</span>`;
     }
 
@@ -252,7 +252,9 @@
       meta = escapeHtml(item.work);
     }
 
-    const quoteHtml = `<span class="tagline-quote">"${escapeHtml(item.quote)}"</span>`;
+    let qText = item.quote ? item.quote.trim() : '';
+    qText = qText.replace(/^["“”\s]+/, '').replace(/["“”\s]+$/, '').trim();
+    const quoteHtml = `<span class="tagline-quote">“${escapeHtml(qText)}”</span>`;
     const metaHtml = meta ? `<span class="tagline-author">${meta}</span>` : '';
     return `${quoteHtml}${metaHtml}`;
   }
