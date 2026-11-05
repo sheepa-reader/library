@@ -1,5 +1,10 @@
 [
   {
+    "quote": "Không gian lưu trữ và chia sẻ những tác phẩm văn học, triết lý kinh điển do Sheepa chuyển ngữ với tình yêu con chữ.",
+    "author": "Sheepa Library",
+    "work": "Tủ Sách Tự Dịch"
+  },
+  {
     "quote": "Những điều cốt yếu thì vô hình đối với mắt trần. Chỉ có trái tim mới thấy rõ.",
     "author": "Antoine de Saint-Exupéry",
     "work": "Hoàng Tử Bé"
@@ -82,5 +87,9 @@
   {
     "quote": "Không có chiếc tàu nào đưa ta đi xa như một trang sách, cũng không có chiến mã nào phi nhanh bằng những vần thơ.",
     "author": "Emily Dickinson"
+  },
+  {
+    "quote": "Cứ lật trang sách tiếp theo đi, cuộc đời đẹp nhất đang chờ bạn ở chương kế tiếp.",
+    "author": "Sheepa Reader"
   }
 ]

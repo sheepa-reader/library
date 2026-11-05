@@ -48,7 +48,7 @@
   --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.3);
 }
 
-/* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode (trừ ảnh bìa sách thật) */
+/* Tự động làm sáng toàn bộ bộ Icon và Logo khi bật Dark Mode (trừ ảnh bìa sách thật và mã QR) */
 [data-theme="dark"] .brand-logo,
 [data-theme="dark"] .hero-badge-img,
 [data-theme="dark"] .search-icon-img,
@@ -58,7 +58,7 @@
 [data-theme="dark"] .detail-cover-box img:not(.detail-cover-real),
 [data-theme="dark"] .chapter-count img,
 [data-theme="dark"] .section-heading img,
-[data-theme="dark"] .site-footer img {
+[data-theme="dark"] .site-footer img:not(.footer-qr-img) {
   filter: brightness(0) invert(0.92);
   transition: filter var(--transition-normal);
 }
@@ -287,20 +287,46 @@ button {
   height: 64px;
   object-fit: contain;
   margin-bottom: 1rem;
+  transition: transform var(--transition-fast);
+}
+
+.hero-badge-img:hover {
+  transform: scale(1.1) rotate(-4deg);
 }
 
 .library-hero h1 {
   font-size: 2.25rem;
   font-weight: 800;
   letter-spacing: -0.03em;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.65rem;
 }
 
-.library-hero p {
+.hero-tagline {
   color: var(--text-secondary);
   font-size: 1.05rem;
-  max-width: 600px;
+  max-width: 680px;
   margin: 0 auto;
+  line-height: 1.6;
+  font-style: italic;
+  transition: opacity 0.3s ease, transform 0.3s ease, color var(--transition-fast);
+  cursor: pointer;
+  user-select: none;
+}
+
+.hero-tagline:hover {
+  color: var(--text-main);
+}
+
+.hero-tagline.fade-out {
+  opacity: 0;
+  transform: translateY(4px);
+}
+
+.tagline-author {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.92rem;
+  opacity: 0.85;
 }
 
 .search-filter-section {
@@ -1335,33 +1361,107 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.75rem;
+  gap: 1.25rem;
 }
 
-.footer-quote {
-  font-style: italic;
+/* Footer Contact & Telegram QR */
+.footer-contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  padding: 1rem 1.5rem;
+  border-radius: 16px;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.footer-contact:hover {
+  border-color: var(--text-secondary);
+  box-shadow: var(--shadow-md);
+}
+
+.footer-qr-link {
+  display: inline-block;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #ffffff;
+  padding: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.footer-qr-link:hover {
+  transform: scale(1.05);
+}
+
+.footer-qr-img {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  display: block;
+  border-radius: 8px;
+}
+
+.footer-contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
+  text-align: left;
+}
+
+.footer-telegram-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #229ED9;
+  background: rgba(34, 158, 217, 0.08);
+  border: 1px solid rgba(34, 158, 217, 0.25);
+  padding: 0.45rem 1rem;
+  border-radius: 8px;
+  transition: all var(--transition-fast);
+}
+
+.footer-telegram-link:hover {
+  background: #229ED9;
+  color: #ffffff;
+  border-color: #229ED9;
+  transform: translateY(-1px);
+}
+
+.telegram-icon {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.footer-contact-sub {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.footer-copyright {
+  font-size: 0.82rem;
   color: var(--text-tertiary);
-  max-width: 720px;
-  line-height: 1.6;
-  transition: opacity 0.3s ease, transform 0.3s ease, color var(--transition-fast);
-  cursor: pointer;
-  user-select: none;
 }
 
-.footer-quote:hover {
-  color: var(--text-main);
-}
-
-.footer-quote.fade-out {
-  opacity: 0;
-  transform: translateY(4px);
-}
-
-.footer-mascot {
-  transition: transform var(--transition-fast), opacity var(--transition-fast);
-}
-
-.footer-mascot:hover {
-  transform: scale(1.15) rotate(-6deg);
-  opacity: 1 !important;
+@media (max-width: 600px) {
+  .footer-contact {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.85rem;
+    padding: 1.15rem 1.25rem;
+  }
+  .footer-contact-info {
+    align-items: center;
+    text-align: center;
+  }
 }

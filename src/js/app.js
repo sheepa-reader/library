@@ -183,7 +183,15 @@
   }
   window.resetAllFilters = resetAllFilters;
 
-  // --- QUOTES ENGINE (KHO LƯU TRỮ & ĐỔI TRÍCH DẪN NGẪU NHIÊN) ---
+  // --- QUOTES & TAGLINES ENGINE (KHO LƯU TRỮ & RANDOM TAGLINE DƯỚI HERO) ---
+  function formatQuoteHtml(item) {
+    if (!item) return '';
+    if (item.author === 'Sheepa Library' && item.work === 'Tủ Sách Tự Dịch') {
+      return escapeHtml(item.quote);
+    }
+    return `"${escapeHtml(item.quote)}"${item.author ? ` <span class="tagline-author">— ${escapeHtml(item.author)}${item.work ? ` (${escapeHtml(item.work)})` : ''}</span>` : ''}`;
+  }
+
   async function loadQuotes() {
     try {
       const res = await fetch('data/quotes.json');
@@ -199,8 +207,7 @@
   }
 
   function randomizeQuote() {
-    const quoteEl = document.getElementById('site-footer-quote');
-    if (!quoteEl || quotesData.length === 0) return;
+    if (quotesData.length === 0) return;
 
     let nextIndex;
     if (quotesData.length === 1) {
@@ -213,18 +220,21 @@
     currentQuoteIndex = nextIndex;
     const item = quotesData[nextIndex];
 
-    quoteEl.classList.add('fade-out');
-    setTimeout(() => {
-      quoteEl.innerHTML = `"${escapeHtml(item.quote)}"${item.author ? ` <span style="font-style: normal; opacity: 0.85;">— ${escapeHtml(item.author)}${item.work ? ` (${escapeHtml(item.work)})` : ''}</span>` : ''}`;
-      quoteEl.classList.remove('fade-out');
-    }, 250);
+    const taglineEl = document.getElementById('hero-dynamic-tagline');
+    if (taglineEl) {
+      taglineEl.classList.add('fade-out');
+      setTimeout(() => {
+        taglineEl.innerHTML = formatQuoteHtml(item);
+        taglineEl.classList.remove('fade-out');
+      }, 250);
+    }
   }
 
   function initQuoteEvents() {
-    const quoteEl = document.getElementById('site-footer-quote');
-    const mascotBtn = document.getElementById('footer-mascot-btn');
-    if (quoteEl) {
-      quoteEl.addEventListener('click', randomizeQuote);
+    const taglineEl = document.getElementById('hero-dynamic-tagline');
+    const mascotBtn = document.getElementById('hero-mascot-btn');
+    if (taglineEl) {
+      taglineEl.addEventListener('click', randomizeQuote);
     }
     if (mascotBtn) {
       mascotBtn.addEventListener('click', randomizeQuote);
@@ -428,13 +438,18 @@
       return matchTag && matchStatus && matchSearch;
     });
 
+    const currentQuote = currentQuoteIndex >= 0 && quotesData[currentQuoteIndex]
+      ? quotesData[currentQuoteIndex]
+      : quotesData[0];
+    const heroQuoteHtml = formatQuoteHtml(currentQuote);
+
     app.innerHTML = `
       <div class="page-container">
-        <!-- Hero Minimalist -->
+        <!-- Hero Minimalist with Dynamic Quote / Tagline -->
         <div class="library-hero">
-          <img src="public/icons/glyph_01_sheep_reading.png" alt="Sheepa Reading" class="hero-badge-img" onerror="this.style.display='none'">
+          <img src="public/icons/glyph_01_sheep_reading.png" alt="Sheepa Reading" class="hero-badge-img" id="hero-mascot-btn" title="Bấm để đổi câu trích dẫn / tagline ngẫu nhiên" style="cursor: pointer;">
           <h1>Tủ Sách Tự Dịch Sheepa</h1>
-          <p>Không gian lưu trữ và chia sẻ những tác phẩm văn học, triết lý kinh điển do Sheepa chuyển ngữ với tình yêu con chữ.</p>
+          <p class="hero-tagline" id="hero-dynamic-tagline" title="Bấm để đổi câu ngẫu nhiên" style="cursor: pointer;">${heroQuoteHtml}</p>
         </div>
 
         <!-- Search & Filter Controls -->
@@ -592,6 +607,12 @@
         renderLibraryView();
       });
     });
+
+    // Click on Hero Tagline or Mascot to randomize quote
+    const heroTagline = document.getElementById('hero-dynamic-tagline');
+    const heroMascot = document.getElementById('hero-mascot-btn');
+    if (heroTagline) heroTagline.addEventListener('click', randomizeQuote);
+    if (heroMascot) heroMascot.addEventListener('click', randomizeQuote);
   }
 
   // --- VIEW 2: BOOK DETAIL ---

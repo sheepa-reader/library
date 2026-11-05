@@ -14,8 +14,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
-  <!-- Main Stylesheet (v4: Header Filters, List View & EPUB Support) -->
-  <link rel="stylesheet" href="src/css/style.css?v=4">
+  <!-- Main Stylesheet (v5: Hero Random Taglines & Telegram Contact Footer) -->
+  <link rel="stylesheet" href="src/css/style.css?v=5">
 </head>
 <body>
 
@@ -68,16 +68,28 @@
     <!-- Populated by src/js/app.js based on URL Hash -->
   </div>
 
-  <!-- Minimalist Site Footer -->
+  <!-- Minimalist Site Footer with Telegram Contact & QR -->
   <footer class="site-footer">
     <div class="footer-inner">
-      <img src="public/icons/glyph_06_sheep_profile_smile.png" alt="Sheepa mascot" class="footer-mascot" id="footer-mascot-btn" title="Bấm để đổi câu trích dẫn ngẫu nhiên" style="width: 28px; height: 28px; opacity: 0.7; cursor: pointer;">
-      <p class="footer-quote" id="site-footer-quote" title="Bấm để đổi câu trích dẫn ngẫu nhiên">"Những điều cốt yếu thì vô hình đối với mắt trần. Chỉ có trái tim mới thấy rõ."</p>
-      <p>© Sheepa Library — Dự án dịch thuật và lưu trữ sách phi lợi nhuận trên GitHub Pages.</p>
+      <div class="footer-contact">
+        <a href="https://t.me/thesheepa" target="_blank" rel="noopener noreferrer" class="footer-qr-link" title="Quét mã QR hoặc bấm để vào kênh Telegram @thesheepa">
+          <img src="public/assets/telegram-qr.jpg" alt="Telegram QR @thesheepa" class="footer-qr-img">
+        </a>
+        <div class="footer-contact-info">
+          <a href="https://t.me/thesheepa" target="_blank" rel="noopener noreferrer" class="footer-telegram-link">
+            <svg class="telegram-icon" viewBox="0 0 24 24">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+            </svg>
+            <span>t.me/thesheepa</span>
+          </a>
+          <span class="footer-contact-sub">Kênh thông báo & giao lưu dịch thuật Sheepa</span>
+        </div>
+      </div>
+      <p class="footer-copyright">© Sheepa Library — Dự án dịch thuật và lưu trữ sách phi lợi nhuận trên GitHub Pages.</p>
     </div>
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=4"></script>
+  <script src="src/js/app.js?v=5"></script>
 </body>
 </html>
