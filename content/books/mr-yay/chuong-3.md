@@ -20,6 +20,4 @@
 
 *Thắp lên ánh sáng, gieo rắc yêu thương,*
 
-*T*
-
 *Bởi chính giai điệu đó tạc nên một Tôi kiên cường.*
