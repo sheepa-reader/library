@@ -1475,11 +1475,18 @@
                 <button class="btn-group-item ${currentMode === 'bilingual' ? 'active' : ''}" id="setting-mode-bilingual" title="Đọc song ngữ liên tục">Song Ngữ</button>
               </div>
             </div>
-            <div class="setting-row" id="setting-row-en-visibility" style="${currentMode === 'bilingual' ? '' : 'display: none;'}">
-              <span>Tiếng Anh:</span>
+            <div class="setting-row" id="setting-row-bilingual-order" style="${currentMode === 'bilingual' ? '' : 'display: none;'}">
+              <span>Thứ tự:</span>
               <div class="btn-group">
-                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'show-all' ? 'active' : ''}" id="setting-en-show-all" title="Luôn hiển thị đoạn tiếng Anh bên dưới đoạn tiếng Việt">Hiện tất cả</button>
-                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'tap-reveal' ? 'active' : ''}" id="setting-en-tap-reveal" title="Ẩn tiếng Anh, bấm vào để mở bản gốc">Chạm để mở</button>
+                <button class="btn-group-item ${readerSettings.bilingualOrder === 've' ? 'active' : ''}" id="setting-order-ve" title="Tiếng Việt trước, Tiếng Anh sau">VI → EN</button>
+                <button class="btn-group-item ${readerSettings.bilingualOrder === 'ev' ? 'active' : ''}" id="setting-order-ev" title="Tiếng Anh trước, Tiếng Việt sau">EN → VI</button>
+              </div>
+            </div>
+            <div class="setting-row" id="setting-row-en-visibility" style="${currentMode === 'bilingual' ? '' : 'display: none;'}">
+              <span>Đối chiếu:</span>
+              <div class="btn-group">
+                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'show-all' ? 'active' : ''}" id="setting-en-show-all" title="Luôn hiển thị cả 2 thứ tiếng song song">Hiện tất cả</button>
+                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'tap-reveal' ? 'active' : ''}" id="setting-en-tap-reveal" title="Ẩn đoạn đối chiếu, chạm vào để mở">Chạm để mở</button>
               </div>
             </div>
           ` : ''}
@@ -1621,6 +1628,41 @@
     const settingModeBiBtn = document.getElementById('setting-mode-bilingual');
     if (settingModeViBtn) settingModeViBtn.addEventListener('click', () => updateReaderMode('vi'));
     if (settingModeBiBtn) settingModeBiBtn.addEventListener('click', () => updateReaderMode('bilingual'));
+
+    // Bilingual Order Controls (VI -> EN vs EN -> VI)
+    const updateBilingualOrder = (newOrder) => {
+      readerSettings.bilingualOrder = newOrder;
+      localStorage.setItem('sheepa_bilingual_order', newOrder);
+      if (readerBody) readerBody.setAttribute('data-bilingual-order', newOrder);
+
+      const btnOrderVe = document.getElementById('setting-order-ve');
+      const btnOrderEv = document.getElementById('setting-order-ev');
+      if (btnOrderVe && btnOrderEv) {
+        btnOrderVe.classList.toggle('active', newOrder === 've');
+        btnOrderEv.classList.toggle('active', newOrder === 'ev');
+      }
+
+      const quickOrderBtn = document.getElementById('btn-bilingual-order');
+      if (quickOrderBtn) {
+        quickOrderBtn.innerHTML = `<span class="order-badge">${newOrder === 've' ? 'VI → EN' : 'EN → VI'}</span>`;
+        quickOrderBtn.title = newOrder === 've'
+          ? 'Thứ tự song ngữ: Đang là Tiếng Việt trước, Tiếng Anh sau (Bấm để đổi sang Tiếng Anh trước)'
+          : 'Thứ tự song ngữ: Đang là Tiếng Anh trước, Tiếng Việt sau (Bấm để đổi sang Tiếng Việt trước)';
+      }
+    };
+
+    const quickOrderBtn = document.getElementById('btn-bilingual-order');
+    if (quickOrderBtn) {
+      quickOrderBtn.addEventListener('click', () => {
+        const nextOrder = readerSettings.bilingualOrder === 've' ? 'ev' : 've';
+        updateBilingualOrder(nextOrder);
+      });
+    }
+
+    const settingOrderVe = document.getElementById('setting-order-ve');
+    const settingOrderEv = document.getElementById('setting-order-ev');
+    if (settingOrderVe) settingOrderVe.addEventListener('click', () => updateBilingualOrder('ve'));
+    if (settingOrderEv) settingOrderEv.addEventListener('click', () => updateBilingualOrder('ev'));
 
     // English Visibility Controls (Hiện tất cả vs Chạm để mở)
     const updateEnVisibility = (newVis) => {
