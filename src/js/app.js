@@ -313,7 +313,10 @@
     currentPage = 1;
     randomizeQuote();
     const headerTagSelect = document.getElementById('header-tag-filter');
-    if (headerTagSelect) headerTagSelect.value = tagName;
+    if (headerTagSelect) {
+      const hasOpt = Array.from(headerTagSelect.options).some(opt => opt.value === tagName);
+      headerTagSelect.value = hasOpt ? tagName : 'all';
+    }
     const currentHash = window.location.hash || '';
     if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
       window.location.hash = tagName === 'all' ? '#/' : '#/?tag=' + encodeURIComponent(tagName);
@@ -772,27 +775,26 @@
     // Show main header
     document.querySelector('.site-header').style.display = 'block';
 
-    // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách
+    // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách (chỉ lấy thể loại thực, loại trừ series và song ngữ)
     const allTags = Array.from(new Set(
       booksData.flatMap(b => {
-        const tags = Array.isArray(b.tags) && b.tags.length > 0 ? [...b.tags] : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
-        if (b.series) tags.push(b.series);
-        return tags;
+        return Array.isArray(b.tags) && b.tags.length > 0 
+          ? [...b.tags] 
+          : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
       })
-    )).filter(Boolean);
-    if (booksData.some(b => checkBookHasBilingual(b)) && !allTags.includes('Song Ngữ')) {
-      allTags.push('Song Ngữ');
-    }
+    ))
+    .filter(t => t && t.toLowerCase() !== 'song ngữ' && !booksData.some(b => b.series && b.series.toLowerCase() === t.toLowerCase()))
+    .sort((a, b) => a.localeCompare(b, 'vi'));
 
-    // Đồng bộ dropdown thể loại trên header
+    // Đồng bộ dropdown thể loại trên header (chỉ thể loại thực, không series/song ngữ)
     const headerTagSelect = document.getElementById('header-tag-filter');
     if (headerTagSelect) {
-      const currentSelected = activeTagFilter;
+      const hasSelected = allTags.includes(activeTagFilter);
       headerTagSelect.innerHTML = `
         <option value="all">Tất cả thể loại</option>
         ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
       `;
-      headerTagSelect.value = currentSelected;
+      headerTagSelect.value = hasSelected ? activeTagFilter : 'all';
     }
 
     // Đồng bộ dropdown trạng thái trên header
@@ -1088,7 +1090,10 @@
           activeTagFilter = clickedTag;
         }
         const headerTagSelect = document.getElementById('header-tag-filter');
-        if (headerTagSelect) headerTagSelect.value = activeTagFilter;
+        if (headerTagSelect) {
+          const hasOpt = Array.from(headerTagSelect.options).some(opt => opt.value === activeTagFilter);
+          headerTagSelect.value = hasOpt ? activeTagFilter : 'all';
+        }
         if (activeTagFilter === 'all') {
           activeStatusFilter = 'all';
           const headerStatusSelect = document.getElementById('header-status-filter');
