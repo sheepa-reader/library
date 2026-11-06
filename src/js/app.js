@@ -1812,11 +1812,13 @@
     const queryStr = mode === 'bilingual' ? '?mode=bilingual' : '';
     return book.chapters.map((chap, idx) => {
       const isActive = currentChapId === chap.id;
+      const targetHash = `#/read/${book.id}/${chap.id}${queryStr}`;
       return `
-        <a href="#/read/${book.id}/${chap.id}${queryStr}" 
+        <a href="${targetHash}" 
+           data-target-hash="${targetHash}"
+           data-chap-id="${chap.id}"
            class="toc-item-link ${isActive ? 'active-chapter' : ''}" 
-           style="${isActive ? 'background: var(--bg-hover); font-weight: 700;' : ''}" 
-           onclick="document.getElementById('toc-modal').classList.remove('active');">
+           style="${isActive ? 'background: var(--bg-hover); font-weight: 700;' : ''}">
           <div>
             <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
             <span>${escapeHtml(chap.title)}</span>
@@ -2219,6 +2221,28 @@
     if (closeBtn) closeBtn.addEventListener('click', () => modal.classList.remove('active'));
     modal.addEventListener('click', (e) => {
       if (e.target === modal) modal.classList.remove('active');
+    });
+
+    // Lắng nghe click chọn chương: chặn mọi hành vi download của trình duyệt, đóng modal an toàn và chuyển chương
+    const tocLinks = modal.querySelectorAll('.toc-item-link');
+    tocLinks.forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        modal.classList.remove('active');
+
+        const targetHash = link.getAttribute('data-target-hash') || link.getAttribute('href');
+        const chapId = link.getAttribute('data-chap-id');
+
+        if (targetHash) {
+          if (window.location.hash === targetHash) {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            if (chapId) renderReaderView(book.id, chapId, mode);
+          } else {
+            window.location.hash = targetHash;
+          }
+        }
+      });
     });
 
     // Tự động cuộn đến chương đang đọc trong mục lục
