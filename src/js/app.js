@@ -446,8 +446,15 @@
   }
 
   // --- DROP CAP LOCK HELPER ---
-  // Kiểm tra xem chương này có bị khóa cứng không dùng Drop Cap hay không
-  function isChapterDropCapLocked(chapter) {
+  // Kiểm tra xem chương hoặc sách này có bị khóa cứng không dùng Drop Cap hay không
+  function isChapterDropCapLocked(chapter, book = null) {
+    const targetBook = book || currentBook;
+    // 0. Cài đặt toàn bộ sách (Book-level setting): noDropcap: true hoặc dropCap: false
+    if (targetBook) {
+      if (targetBook.noDropcap !== undefined && Boolean(targetBook.noDropcap)) return true;
+      if (targetBook.dropCap !== undefined && !Boolean(targetBook.dropCap)) return true;
+    }
+
     if (!chapter) return false;
     // 1. Cài đặt tường minh theo metadata của chương
     if (chapter.noDropcap !== undefined) return Boolean(chapter.noDropcap);
@@ -467,9 +474,10 @@
   }
 
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
-  function parseMarkdown(mdText, chapter = null) {
+  function parseMarkdown(mdText, chapter = null, book = null) {
     if (!mdText) return '';
-    const isDropCapLocked = isChapterDropCapLocked(chapter);
+    const targetBook = book || currentBook;
+    const isDropCapLocked = isChapterDropCapLocked(chapter, targetBook);
     let text = mdText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 
     // 1. Tự động khắc phục lỗi ngắt rơi số chương (ví dụ 'CHƯƠNG\n2' -> 'CHƯƠNG 2')
@@ -564,8 +572,9 @@
         const isDateTimePattern = /^(?:(?:Thứ\s+(?:Hai|Ba|Tư|Năm|Sáu|Bảy)|Chủ\s*nhật|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Ngày|Tháng)\b[\w\s,.:\/-]*|\d{1,2}[:h]\d{2}(?:[:\s]\d{2})?(?:\s*(?:AM|PM|am|pm|phút|giờ))?|.*(?:giờ\s*\d+\s*phút).*)$/i.test(plainText);
         const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(plainText) && plainText.length < 120;
         const isItalicSubtitle = /^<em>[^<]+<\/em>$/i.test(line) && plainText.length < 150;
+        const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(line) || /^<p class="p-name">/i.test(line)) && plainText.length < 40;
 
-        if (isDateTimePattern || isPartOrCourse || isItalicSubtitle) {
+        if (isDateTimePattern || isPartOrCourse || isItalicSubtitle || isCharacterNamePOV) {
           return `<p class="chapter-subtitle">${line}</p>`;
         }
       }
@@ -1312,7 +1321,7 @@
 
     const prevChapter = chapterIndex > 0 ? book.chapters[chapterIndex - 1] : null;
     const nextChapter = chapterIndex < book.chapters.length - 1 ? book.chapters[chapterIndex + 1] : null;
-    const isDropCapLocked = isChapterDropCapLocked(chapter);
+    const isDropCapLocked = isChapterDropCapLocked(chapter, book);
     const hasBilingual = checkBookHasBilingual(book);
 
     let currentMode = initialMode;
@@ -1342,13 +1351,13 @@
       const res = await fetch(chapterPath);
       if (res.ok) {
         const mdText = await res.text();
-        contentHtml = parseMarkdown(mdText, chapter);
+        contentHtml = parseMarkdown(mdText, chapter, book);
       } else {
         const fallbackTarget = rawChapterPath || chapter.path || chapter.file || '';
         const fbRes = fallbackTarget ? await fetch(fallbackTarget) : { ok: false };
         if (fbRes.ok) {
           const mdText = await fbRes.text();
-          contentHtml = parseMarkdown(mdText, chapter);
+          contentHtml = parseMarkdown(mdText, chapter, book);
         } else {
           contentHtml = `<p>Không thể tải nội dung file ${fallbackTarget || 'chương'}. Vui lòng thử lại sau.</p>`;
         }
@@ -1538,7 +1547,7 @@
           <div class="setting-row">
             <span>Đầu chương:</span>
             ${isDropCapLocked ? `
-              <div class="btn-group" title="Chương này đã được khóa cố định: không sử dụng Drop Cap">
+              <div class="btn-group" title="${(book && (book.noDropcap || book.dropCap === false)) ? 'Sách này đã được khóa: không sử dụng Drop Cap' : 'Chương này đã được khóa: không sử dụng Drop Cap'}">
                 <span class="btn-group-item disabled active" style="font-size: 0.76rem; opacity: 0.88; cursor: not-allowed; display: inline-flex; align-items: center; gap: 0.3rem; background: var(--bg-hover);">
                   🔒 Khóa (Không Drop Cap)
                 </span>
