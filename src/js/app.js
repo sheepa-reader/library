@@ -151,6 +151,7 @@
   }
 
   // Helper check if book has bilingual edition
+  const BILINGUAL_BOOK_IDS = ['bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay'];
   function checkBookHasBilingual(book) {
     if (!book) return false;
     return Boolean(
@@ -159,7 +160,7 @@
       book.downloads?.bilingual ||
       book.downloads?.bilingualEpub ||
       book.bilingualChapters ||
-      book.id === 'bay-cong-thuc-lam-nen-cach-mang'
+      BILINGUAL_BOOK_IDS.includes(book.id)
     );
   }
 
@@ -646,7 +647,7 @@
   // --- DATA LOADER (VỚI CƠ CHẾ TỰ CHỮA LỖI CÚ PHÁP AUTO-RECOVERY) ---
   async function loadBooks() {
     try {
-      const res = await fetch('data/books.json');
+      const res = await fetch('data/books.json?v=' + Date.now());
       if (!res.ok) throw new Error('Cannot load books');
       const text = await res.text();
       try {
@@ -1306,7 +1307,13 @@
       if (chapter.bilingualPath) {
         chapterPath = chapter.bilingualPath;
       } else if (rawChapterPath) {
-        chapterPath = rawChapterPath.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
+        if (rawChapterPath.includes('/bilingual/')) {
+          chapterPath = rawChapterPath;
+        } else {
+          const parts = rawChapterPath.split('/');
+          const fileName = parts.pop();
+          chapterPath = parts.join('/') + '/bilingual/' + fileName;
+        }
       }
     }
 
@@ -1968,7 +1975,11 @@
     const hasEpub = Boolean(book.downloads?.epub);
     const hasPdf = Boolean(book.downloads?.pdf);
     const hasBilingual = checkBookHasBilingual(book);
-    const bilingualEpub = book.downloads?.bilingual?.epub || book.downloads?.bilingualEpub || (book.id === 'bay-cong-thuc-lam-nen-cach-mang' ? 'content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub' : null);
+    const bilingualEpub = book.downloads?.bilingual?.epub || book.downloads?.bilingualEpub || (
+      book.id === 'bay-cong-thuc-lam-nen-cach-mang' ? 'content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub' :
+      book.id === 'cua-anh-cua-em' ? 'content/downloads/cua-anh-cua-em-song-ngu.epub' :
+      book.id === 'mr-yay' ? 'content/downloads/mr-yay-song-ngu.epub' : null
+    );
     const bilingualPdf = book.downloads?.bilingual?.pdf || book.downloads?.bilingualPdf || null;
     const hasBilingualEpub = Boolean(bilingualEpub);
     const hasBilingualPdf = Boolean(bilingualPdf);
