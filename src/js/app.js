@@ -750,6 +750,9 @@
     const allTags = Array.from(new Set(
       booksData.flatMap(b => Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []))
     )).filter(Boolean);
+    if (booksData.some(b => checkBookHasBilingual(b)) && !allTags.includes('Song Ngữ')) {
+      allTags.push('Song Ngữ');
+    }
 
     // Đồng bộ dropdown thể loại trên header
     const headerTagSelect = document.getElementById('header-tag-filter');
@@ -780,7 +783,8 @@
       // 1. Lọc theo thể loại (tag)
       const matchTag = activeTagFilter === 'all' || 
         bTags.some(t => t.toLowerCase() === activeTagFilter.toLowerCase()) || 
-        (b.category && b.category.toLowerCase().includes(activeTagFilter.toLowerCase()));
+        (b.category && b.category.toLowerCase().includes(activeTagFilter.toLowerCase())) ||
+        (activeTagFilter.toLowerCase() === 'song ngữ' && checkBookHasBilingual(b));
 
       // 2. Lọc theo trạng thái
       let matchStatus = true;
@@ -888,6 +892,7 @@
         <div class="books-grid ${viewMode === 'list' ? 'list-view' : ''}">
           ${pagedBooks.length > 0 ? pagedBooks.map(book => {
             const bTags = Array.isArray(book.tags) && book.tags.length > 0 ? book.tags : (book.category ? book.category.split(/[•,&/]/).map(s => s.trim()) : ['Văn học']);
+            const hasBilingual = checkBookHasBilingual(book);
             
             // Chế độ xem Danh sách (List View)
             if (viewMode === 'list') {
@@ -916,6 +921,11 @@
                       `).join('')}
                       ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                       <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                      ${hasBilingual ? `
+                        <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
+                          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Song Ngữ
+                        </span>
+                      ` : ''}
                     </div>
 
                     <p class="card-desc">${escapeHtml(book.description)}</p>
@@ -960,6 +970,11 @@
                   `).join('')}
                   ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                   <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                  ${hasBilingual ? `
+                    <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
+                      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Song Ngữ
+                    </span>
+                  ` : ''}
                 </div>
 
                 <p class="card-desc">${escapeHtml(book.description)}</p>
