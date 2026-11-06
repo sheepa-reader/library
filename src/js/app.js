@@ -139,8 +139,23 @@
     fontSize: parseInt(localStorage.getItem('sheepa_reader_size') || '18', 10),
     lineHeight: parseFloat(localStorage.getItem('sheepa_reader_line_height') || '1.8'),
     maxWidth: parseInt(savedWidth || '740', 10),
-    dropCap: localStorage.getItem('sheepa_reader_dropcap') !== 'false'
+    dropCap: localStorage.getItem('sheepa_reader_dropcap') !== 'false',
+    bilingualVisibility: localStorage.getItem('sheepa_bilingual_visibility') || 'show-all', // 'show-all' or 'tap-reveal'
+    readerMode: localStorage.getItem('sheepa_reader_mode') || 'vi' // 'vi' or 'bilingual'
   };
+
+  // Helper check if book has bilingual edition
+  function checkBookHasBilingual(book) {
+    if (!book) return false;
+    return Boolean(
+      book.hasBilingual ||
+      book.bilingual ||
+      book.downloads?.bilingual ||
+      book.downloads?.bilingualEpub ||
+      book.bilingualChapters ||
+      book.id === 'bay-cong-thuc-lam-nen-cach-mang'
+    );
+  }
 
   // --- THEME ENGINE (3 CHẾ ĐỘ: SÁNG - GIẤY CŨ - TỐI) ---
   const themeToggleBtn = document.getElementById('theme-toggle-btn');
@@ -488,7 +503,7 @@
     let hasAssignedDropCap = false;
     let foundFirstNarrative = false;
 
-    return pLines.map(line => {
+    const renderedHtml = pLines.map(line => {
       line = line.trim();
       if (!line) return '';
       if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
@@ -497,7 +512,7 @@
       if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
         return line;
       }
-      if (/^<p\b[^>]*\balign=/i.test(line)) {
+      if (/^<p\b/i.test(line)) {
         return line;
       }
 
@@ -524,6 +539,72 @@
 
       return `<p>${line.replace(/\n/g, '<br/>')}</p>`;
     }).filter(Boolean).join('\n');
+
+    return normalizeBilingualContent(renderedHtml, isDropCapLocked);
+  }
+
+  // --- BILINGUAL NORMALIZER (CHUẨN HÓA CẶP ĐOẠN ANH - VIỆT) ---
+  function normalizeBilingualContent(html, isDropCapLocked) {
+    if (!html.includes('para-en') && !html.includes('para-vi-sub') && !html.includes('bilingual-pair') && !html.includes('[VI]')) {
+      return html;
+    }
+
+    let idx = 0;
+    let hasDropCap = false;
+
+    // A. Alternating <p class="para-en"> and <p class="para-vi-sub">
+    const pairRegex = /(?:<p class="para-en">([\s\S]*?)<\/p>\s*<p class="para-vi-sub">([\s\S]*?)<\/p>|<p class="para-vi-sub">([\s\S]*?)<\/p>\s*<p class="para-en">([\s\S]*?)<\/p>)/gi;
+
+    let transformed = html.replace(pairRegex, (match, en1, vi1, vi2, en2) => {
+      idx++;
+      const enText = (en1 !== undefined ? en1 : en2).trim();
+      const viText = (vi1 !== undefined ? vi1 : vi2).trim();
+
+      let dropCapClass = '';
+      if (!hasDropCap && !isDropCapLocked && idx === 1) {
+        dropCapClass = ' has-dropcap';
+        hasDropCap = true;
+      }
+
+      return `
+<div class="bilingual-pair" data-pair-idx="${idx}">
+  <div class="bilingual-vi${dropCapClass}">${viText}</div>
+  <div class="bilingual-en">
+    <button class="bilingual-toggle-pill" type="button" title="Chạm để ẩn/hiện tiếng Anh">
+      <span class="pill-badge">EN</span>
+      <span class="pill-text">Xem bản gốc</span>
+      <svg class="pill-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+    <div class="bilingual-en-content">${enText}</div>
+  </div>
+</div>`;
+    });
+
+    // B. Shorthand [VI] and [EN] in markdown
+    if (transformed.includes('[VI]') && transformed.includes('[EN]')) {
+      transformed = transformed.replace(/\[VI\]\s*([\s\S]*?)\s*\[EN\]\s*([\s\S]*?)(?=\n\s*\[VI\]|$)/gi, (m, vi, en) => {
+        idx++;
+        let dropCapClass = '';
+        if (!hasDropCap && !isDropCapLocked && idx === 1) {
+          dropCapClass = ' has-dropcap';
+          hasDropCap = true;
+        }
+        return `
+<div class="bilingual-pair" data-pair-idx="${idx}">
+  <div class="bilingual-vi${dropCapClass}">${vi.trim()}</div>
+  <div class="bilingual-en">
+    <button class="bilingual-toggle-pill" type="button" title="Chạm để ẩn/hiện tiếng Anh">
+      <span class="pill-badge">EN</span>
+      <span class="pill-text">Xem bản gốc</span>
+      <svg class="pill-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+    </button>
+    <div class="bilingual-en-content">${en.trim()}</div>
+  </div>
+</div>`;
+      });
+    }
+
+    return transformed;
   }
 
   // --- DATA LOADER (VỚI CƠ CHẾ TỰ CHỮA LỖI CÚ PHÁP AUTO-RECOVERY) ---
@@ -581,10 +662,13 @@
       renderBookDetailView(bookId);
       trackPageView(hash, document.title);
     } else if (hash.startsWith('#/read/')) {
-      const parts = hash.replace('#/read/', '').split('/');
+      const [routePath, queryString] = hash.replace('#/read/', '').split('?');
+      const parts = routePath.split('/');
       const bookId = parts[0];
       const chapterId = parts[1];
-      await renderReaderView(bookId, chapterId);
+      const params = new URLSearchParams(queryString || '');
+      const mode = params.get('mode') || localStorage.getItem('sheepa_reader_mode') || 'vi';
+      await renderReaderView(bookId, chapterId, mode);
       trackPageView(hash, document.title);
     } else {
       document.title = 'Sheepa Library — Tủ Sách Tự Dịch';
@@ -968,6 +1052,7 @@
     currentBook = book;
     document.title = `${book.title} — Sheepa Library`;
     const firstChapterId = book.chapters[0]?.id || 'chuong-1';
+    const hasBilingual = checkBookHasBilingual(book);
 
     app.innerHTML = `
       <div class="page-container">
@@ -1057,10 +1142,21 @@
             </div>
 
             <div class="detail-actions">
-              <a href="#/read/${book.id}/${firstChapterId}" class="btn-lg btn-primary">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                Bắt đầu đọc
-              </a>
+              ${hasBilingual ? `
+                <a href="#/read/${book.id}/${firstChapterId}?mode=vi" class="btn-lg btn-primary" title="Đọc bản dịch tiếng Việt">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                  Bắt đầu đọc (Tiếng Việt)
+                </a>
+                <a href="#/read/${book.id}/${firstChapterId}?mode=bilingual" class="btn-lg btn-bilingual" title="Đọc bản song ngữ Anh - Việt liên tục">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                  Đọc Song Ngữ
+                </a>
+              ` : `
+                <a href="#/read/${book.id}/${firstChapterId}" class="btn-lg btn-primary">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                  Bắt đầu đọc
+                </a>
+              `}
               <button class="btn-lg btn-outline" id="btn-open-download-modal">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                 Tải sách về
@@ -1106,7 +1202,7 @@
   }
 
   // --- VIEW 3: ZEN READER ---
-  async function renderReaderView(bookId, chapterId) {
+  async function renderReaderView(bookId, chapterId, initialMode = 'vi') {
     // Hide standard site header to create ultra-clean reading immersion
     document.querySelector('.site-header').style.display = 'none';
 
@@ -1126,20 +1222,52 @@
     const prevChapter = chapterIndex > 0 ? book.chapters[chapterIndex - 1] : null;
     const nextChapter = chapterIndex < book.chapters.length - 1 ? book.chapters[chapterIndex + 1] : null;
     const isDropCapLocked = isChapterDropCapLocked(chapter);
+    const hasBilingual = checkBookHasBilingual(book);
+
+    let currentMode = initialMode;
+    if (!hasBilingual && currentMode === 'bilingual') {
+      currentMode = 'vi';
+    }
 
     // Load Chapter Markdown Content
+    let chapterPath = chapter.path;
+    if (currentMode === 'bilingual') {
+      if (chapter.bilingualPath) {
+        chapterPath = chapter.bilingualPath;
+      } else {
+        const biCand = chapter.path.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
+        try {
+          const testRes = await fetch(biCand, { method: 'HEAD' });
+          if (testRes.ok) chapterPath = biCand;
+        } catch (_) {}
+      }
+    }
+
     let contentHtml = '<p>Đang tải nội dung chương...</p>';
     try {
-      const res = await fetch(chapter.path);
+      const res = await fetch(chapterPath);
       if (res.ok) {
         const mdText = await res.text();
         contentHtml = parseMarkdown(mdText, chapter);
       } else {
-        contentHtml = `<p>Không thể tải nội dung file ${chapter.path}. Vui lòng thử lại sau.</p>`;
+        const fbRes = await fetch(chapter.path);
+        if (fbRes.ok) {
+          const mdText = await fbRes.text();
+          contentHtml = parseMarkdown(mdText, chapter);
+        } else {
+          contentHtml = `<p>Không thể tải nội dung file ${chapter.path}. Vui lòng thử lại sau.</p>`;
+        }
       }
     } catch (e) {
       contentHtml = `<p>Nội dung chương đang được chuẩn bị.</p>`;
     }
+
+    const hasBilingualContent = contentHtml.includes('bilingual-pair');
+    if (hasBilingualContent && currentMode !== 'vi') {
+      currentMode = 'bilingual';
+    }
+    const isBilingualActive = hasBilingual || hasBilingualContent;
+    const queryStr = currentMode === 'bilingual' ? '?mode=bilingual' : '';
 
     const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
 
@@ -1158,7 +1286,7 @@
                 <svg viewBox="0 0 24 24"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
               </a>
               ${prevChapter ? `
-                <a href="#/read/${book.id}/${prevChapter.id}" class="icon-btn" title="Chương trước: ${escapeHtml(prevChapter.title)}">
+                <a href="#/read/${book.id}/${prevChapter.id}${queryStr}" class="icon-btn" title="Chương trước: ${escapeHtml(prevChapter.title)}">
                   <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"></polyline></svg>
                 </a>
               ` : `
@@ -1173,9 +1301,25 @@
               <span class="reader-chapter-name">${escapeHtml(chapter.title)}</span>
             </div>
 
+            ${isBilingualActive ? `
+              <div class="reader-mode-switch" id="reader-mode-switch" title="Chuyển chế độ đọc Tiếng Việt hoặc Song Ngữ">
+                <button class="mode-tab-btn ${currentMode === 'vi' ? 'active' : ''}" data-mode="vi" title="Chỉ đọc tiếng Việt">Tiếng Việt</button>
+                <button class="mode-tab-btn ${currentMode === 'bilingual' ? 'active' : ''}" data-mode="bilingual" title="Đọc song ngữ liên tục (Anh - Việt)">Song Ngữ</button>
+              </div>
+            ` : ''}
+
             <div class="reader-tools">
+              ${isBilingualActive ? `
+                <button class="icon-btn bilingual-visibility-toggle ${currentMode === 'bilingual' ? '' : 'hidden'}" id="btn-bilingual-visibility" title="${readerSettings.bilingualVisibility === 'show-all' ? 'Chế độ tiếng Anh: Đang hiện tất cả (Bấm để Chạm để mở)' : 'Chế độ tiếng Anh: Đang chạm để mở (Bấm để Hiện tất cả)'}">
+                  ${readerSettings.bilingualVisibility === 'show-all' ? `
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+                  ` : `
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line></svg>
+                  `}
+                </button>
+              ` : ''}
               ${nextChapter ? `
-                <a href="#/read/${book.id}/${nextChapter.id}" class="icon-btn" title="Chương sau: ${escapeHtml(nextChapter.title)}">
+                <a href="#/read/${book.id}/${nextChapter.id}${queryStr}" class="icon-btn" title="Chương sau: ${escapeHtml(nextChapter.title)}">
                   <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></svg>
                 </a>
               ` : `
@@ -1198,14 +1342,18 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
-          <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''}" id="reader-body" style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
+          <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''} ${isBilingualActive ? 'has-bilingual-pairs' : ''}" 
+                   id="reader-body" 
+                   data-reader-mode="${currentMode}" 
+                   data-en-visibility="${readerSettings.bilingualVisibility}" 
+                   style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
             ${contentHtml}
           </article>
 
           <!-- Footer Navigation (Prev / Next Chapter) -->
           <div class="reader-footer-nav">
             ${prevChapter ? `
-              <a href="#/read/${book.id}/${prevChapter.id}" class="reader-nav-btn">
+              <a href="#/read/${book.id}/${prevChapter.id}${queryStr}" class="reader-nav-btn">
                 ← Chương trước
               </a>
             ` : `
@@ -1217,7 +1365,7 @@
             </a>
 
             ${nextChapter ? `
-              <a href="#/read/${book.id}/${nextChapter.id}" class="reader-nav-btn btn-primary">
+              <a href="#/read/${book.id}/${nextChapter.id}${queryStr}" class="reader-nav-btn btn-primary">
                 Chương sau →
               </a>
             ` : `
@@ -1228,6 +1376,22 @@
 
         <!-- Quick Settings Drawer -->
         <div class="settings-drawer" id="reader-settings-drawer">
+          ${isBilingualActive ? `
+            <div class="setting-row">
+              <span>Chế độ đọc:</span>
+              <div class="btn-group">
+                <button class="btn-group-item ${currentMode === 'vi' ? 'active' : ''}" id="setting-mode-vi" title="Chỉ đọc văn bản tiếng Việt">Tiếng Việt</button>
+                <button class="btn-group-item ${currentMode === 'bilingual' ? 'active' : ''}" id="setting-mode-bilingual" title="Đọc song ngữ liên tục">Song Ngữ</button>
+              </div>
+            </div>
+            <div class="setting-row" id="setting-row-en-visibility" style="${currentMode === 'bilingual' ? '' : 'display: none;'}">
+              <span>Tiếng Anh:</span>
+              <div class="btn-group">
+                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'show-all' ? 'active' : ''}" id="setting-en-show-all" title="Luôn hiển thị đoạn tiếng Anh bên dưới đoạn tiếng Việt">Hiện tất cả</button>
+                <button class="btn-group-item ${readerSettings.bilingualVisibility === 'tap-reveal' ? 'active' : ''}" id="setting-en-tap-reveal" title="Ẩn tiếng Anh, bấm vào để mở bản gốc">Chạm để mở</button>
+              </div>
+            </div>
+          ` : ''}
           <div class="setting-row">
             <span>Nền đọc:</span>
             <div class="btn-group">
@@ -1305,6 +1469,103 @@
     }
 
     const readerBody = document.getElementById('reader-body');
+
+    // Bilingual Interactive Listeners
+    const initBilingualListeners = () => {
+      document.querySelectorAll('.bilingual-toggle-pill').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          const enBox = btn.closest('.bilingual-en');
+          if (enBox) {
+            enBox.classList.toggle('is-revealed');
+          }
+        });
+      });
+    };
+    initBilingualListeners();
+
+    // Mode Switch Controls (Tiếng Việt vs Song Ngữ)
+    const modeSwitchTabs = document.querySelectorAll('.mode-tab-btn');
+    const updateReaderMode = (newMode) => {
+      currentMode = newMode;
+      localStorage.setItem('sheepa_reader_mode', newMode);
+      if (readerBody) readerBody.setAttribute('data-reader-mode', newMode);
+
+      modeSwitchTabs.forEach(tab => {
+        tab.classList.toggle('active', tab.dataset.mode === newMode);
+      });
+
+      const settingModeVi = document.getElementById('setting-mode-vi');
+      const settingModeBi = document.getElementById('setting-mode-bilingual');
+      if (settingModeVi && settingModeBi) {
+        settingModeVi.classList.toggle('active', newMode === 'vi');
+        settingModeBi.classList.toggle('active', newMode === 'bilingual');
+      }
+
+      const enVisRow = document.getElementById('setting-row-en-visibility');
+      if (enVisRow) {
+        enVisRow.style.display = newMode === 'bilingual' ? 'flex' : 'none';
+      }
+
+      const quickVisBtn = document.getElementById('btn-bilingual-visibility');
+      if (quickVisBtn) {
+        quickVisBtn.classList.toggle('hidden', newMode !== 'bilingual');
+      }
+
+      // Update URL hash without full reload
+      const newQuery = newMode === 'bilingual' ? '?mode=bilingual' : '';
+      const newHash = `#/read/${book.id}/${chapter.id}${newQuery}`;
+      if (window.location.hash !== newHash) {
+        history.replaceState(null, '', newHash);
+      }
+    };
+
+    modeSwitchTabs.forEach(tab => {
+      tab.addEventListener('click', () => updateReaderMode(tab.dataset.mode));
+    });
+
+    const settingModeViBtn = document.getElementById('setting-mode-vi');
+    const settingModeBiBtn = document.getElementById('setting-mode-bilingual');
+    if (settingModeViBtn) settingModeViBtn.addEventListener('click', () => updateReaderMode('vi'));
+    if (settingModeBiBtn) settingModeBiBtn.addEventListener('click', () => updateReaderMode('bilingual'));
+
+    // English Visibility Controls (Hiện tất cả vs Chạm để mở)
+    const updateEnVisibility = (newVis) => {
+      readerSettings.bilingualVisibility = newVis;
+      localStorage.setItem('sheepa_bilingual_visibility', newVis);
+      if (readerBody) readerBody.setAttribute('data-en-visibility', newVis);
+
+      const btnShowAll = document.getElementById('setting-en-show-all');
+      const btnTapReveal = document.getElementById('setting-en-tap-reveal');
+      if (btnShowAll && btnTapReveal) {
+        btnShowAll.classList.toggle('active', newVis === 'show-all');
+        btnTapReveal.classList.toggle('active', newVis === 'tap-reveal');
+      }
+
+      const quickVisBtn = document.getElementById('btn-bilingual-visibility');
+      if (quickVisBtn) {
+        quickVisBtn.title = newVis === 'show-all' ? 'Chế độ tiếng Anh: Đang hiện tất cả (Bấm để Chạm để mở)' : 'Chế độ tiếng Anh: Đang chạm để mở (Bấm để Hiện tất cả)';
+        quickVisBtn.innerHTML = newVis === 'show-all' ? `
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+        ` : `
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line></svg>
+        `;
+      }
+    };
+
+    const quickVisBtn = document.getElementById('btn-bilingual-visibility');
+    if (quickVisBtn) {
+      quickVisBtn.addEventListener('click', () => {
+        const nextVis = readerSettings.bilingualVisibility === 'show-all' ? 'tap-reveal' : 'show-all';
+        updateEnVisibility(nextVis);
+      });
+    }
+
+    const settingEnShowAll = document.getElementById('setting-en-show-all');
+    const settingEnTapReveal = document.getElementById('setting-en-tap-reveal');
+    if (settingEnShowAll) settingEnShowAll.addEventListener('click', () => updateEnVisibility('show-all'));
+    if (settingEnTapReveal) settingEnTapReveal.addEventListener('click', () => updateEnVisibility('tap-reveal'));
     const fontSerifBtn = document.getElementById('font-serif-btn');
     const fontSansBtn = document.getElementById('font-sans-btn');
     const fontIncBtn = document.getElementById('font-increase-btn');
@@ -1444,7 +1705,7 @@
     // Reader TOC Drawer
     const tocBtn = document.getElementById('reader-toc-toggle-btn');
     if (tocBtn) {
-      tocBtn.addEventListener('click', () => openTocDrawer(book, chapter.id));
+      tocBtn.addEventListener('click', () => openTocDrawer(book, chapter.id, currentMode));
     }
 
     // Keyboard Arrow Navigation (Left = Prev, Right = Next)
@@ -1549,11 +1810,12 @@
 
   // --- FLAT TOC RENDERER FOR READER MODAL ---
   // Hiển thị danh sách chương thẳng, liên tục, trực quan khi đang đọc sách
-  function renderReaderToc(book, currentChapId) {
+  function renderReaderToc(book, currentChapId, mode = 'vi') {
+    const queryStr = mode === 'bilingual' ? '?mode=bilingual' : '';
     return book.chapters.map((chap, idx) => {
       const isActive = currentChapId === chap.id;
       return `
-        <a href="#/read/${book.id}/${chap.id}" 
+        <a href="#/read/${book.id}/${chap.id}${queryStr}" 
            class="toc-item-link ${isActive ? 'active-chapter' : ''}" 
            style="${isActive ? 'background: var(--bg-hover); font-weight: 700;' : ''}" 
            onclick="document.getElementById('toc-modal').classList.remove('active');">
@@ -1637,6 +1899,11 @@
 
     const hasEpub = Boolean(book.downloads?.epub);
     const hasPdf = Boolean(book.downloads?.pdf);
+    const hasBilingual = checkBookHasBilingual(book);
+    const bilingualEpub = book.downloads?.bilingual?.epub || book.downloads?.bilingualEpub || (book.id === 'bay-cong-thuc-lam-nen-cach-mang' ? 'content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub' : null);
+    const bilingualPdf = book.downloads?.bilingual?.pdf || book.downloads?.bilingualPdf || null;
+    const hasBilingualEpub = Boolean(bilingualEpub);
+    const hasBilingualPdf = Boolean(bilingualPdf);
     const isUnlocked = isDownloadUnlocked(book);
 
     let lockBoxHtml = '';
@@ -1687,6 +1954,13 @@
         <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">
           Chọn định dạng sách điện tử hoặc tài liệu đọc offline:
         </p>
+
+        ${hasBilingual ? `
+          <div class="download-section-heading">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+            BẢN DỊCH TIẾNG VIỆT
+          </div>
+        ` : ''}
 
         <!-- EPUB Option -->
         ${hasEpub ? (
@@ -1745,6 +2019,84 @@
             <span class="badge-tag">SẮP CÓ</span>
           </div>
         `}
+
+        ${hasBilingual ? `
+          <div class="download-section-heading bilingual-heading" style="margin-top: 1.35rem;">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+            BẢN SONG NGỮ LIÊN TỤC (ANH - VIỆT)
+            <span class="badge-bilingual-pill">Bilingual Edition</span>
+          </div>
+
+          <!-- Bilingual EPUB -->
+          ${hasBilingualEpub ? (
+            isUnlocked ? `
+              <a href="${bilingualEpub}" download="${book.id}-song-ngu.epub" class="download-option-btn download-bilingual-option">
+                <div>
+                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
+                    Sách Điện Tử Song Ngữ (.EPUB)
+                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                  </div>
+                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh gốc chuẩn xác</div>
+                </div>
+                <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
+              </a>
+            ` : `
+              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+                <div>
+                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
+                    Sách Điện Tử Song Ngữ (.EPUB)
+                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                  </div>
+                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh gốc chuẩn xác</div>
+                </div>
+                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+              </div>
+            `
+          ) : `
+            <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
+              <div>
+                <div style="font-weight: 700;">Sách Điện Tử Song Ngữ (.EPUB)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang được biên tập và xuất bản</div>
+              </div>
+              <span class="badge-tag">SẮP CÓ</span>
+            </div>
+          `}
+
+          <!-- Bilingual PDF -->
+          ${hasBilingualPdf ? (
+            isUnlocked ? `
+              <a href="${bilingualPdf}" download="${book.id}-song-ngu.pdf" class="download-option-btn download-bilingual-option">
+                <div>
+                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
+                    Tài Liệu Song Ngữ (.PDF)
+                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                  </div>
+                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng trang in song ngữ đối chiếu song song</div>
+                </div>
+                <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
+              </a>
+            ` : `
+              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+                <div>
+                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
+                    Tài Liệu Song Ngữ (.PDF)
+                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                  </div>
+                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng trang in song ngữ đối chiếu song song</div>
+                </div>
+                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+              </div>
+            `
+          ) : `
+            <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
+              <div>
+                <div style="font-weight: 700;">Tài Liệu Song Ngữ (.PDF)</div>
+                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang hoàn thiện định dạng trang in song ngữ</div>
+              </div>
+              <span class="badge-tag">SẮP CÓ</span>
+            </div>
+          `}
+        ` : ''}
       </div>
     `;
 
@@ -1821,10 +2173,29 @@
         }
       });
     }
+
+    const lockedBiEpub = document.getElementById('btn-locked-bilingual-epub');
+    const lockedBiPdf = document.getElementById('btn-locked-bilingual-pdf');
+    if (lockedBiEpub) {
+      lockedBiEpub.addEventListener('click', () => {
+        if (passInput) {
+          passInput.focus();
+          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    }
+    if (lockedBiPdf) {
+      lockedBiPdf.addEventListener('click', () => {
+        if (passInput) {
+          passInput.focus();
+          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    }
   }
 
   // --- TOC DRAWER FOR READER ---
-  function openTocDrawer(book, currentChapId) {
+  function openTocDrawer(book, currentChapId, mode = 'vi') {
     let modal = document.getElementById('toc-modal');
     if (!modal) {
       modal = document.createElement('div');
@@ -1840,7 +2211,7 @@
           <button class="icon-btn" id="btn-close-toc" style="width: 32px; height: 32px;">✕</button>
         </div>
         <div class="toc-list" style="overflow-y: auto; flex: 1;">
-          ${renderReaderToc(book, currentChapId)}
+          ${renderReaderToc(book, currentChapId, mode)}
         </div>
       </div>
     `;

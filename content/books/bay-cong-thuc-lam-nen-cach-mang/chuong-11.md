@@ -1,181 +1,109 @@
-# 9 Chăm sóc Thượng Phẩm
+# 6 Cơn cuồng nộ tột cùng của con quái thú bò mộng
 
-*Món Thứ Nhất • Hương Vị Đầu Tiên*
+<p class="para-en">As Cori shouted at me, Bessa leveled four grain silos. She charged through each like a godly hammer striking anvil. Screams rang across the crowded avenue, bison-drivers risking charges of treason as they frantically abandoned the long multi-axle carts that left the factory each day with Bessa’s spoils and waste. Common and Rare alike ran in every direction.</p>
+<p class="para-vi-sub">Ngay khi Cori vừa hét lên cảnh báo tôi, Bessa đã san phẳng bốn hầm chứa ngũ cốc. Nó húc bay từng khối kiến trúc tựa như chiếc búa tạ giáng xuống đe sắt. Tiếng la hét kinh hoàng vang vọng khắp đại lộ đông đúc. Những gã xà ích lùa bò bison thà chịu tội phản quốc còn hơn bỏ mạng, điên cuồng vứt lại những cỗ xe nhiều trục dài ngoằng vốn hằng ngày vẫn chở thịt thô và phế phẩm của Bessa ra khỏi xưởng. Cả người Thứ Phẩm lẫn Thượng Phẩm đều tháo chạy tán loạn về khắp ngả.</p>
 
-Tôi tỉnh dậy trong tình trạng bị trói chặt trên giường. Điều đó đồng nghĩa với hai khả năng: hoặc ai đó đã làm ra tấm nệm lớn nhất vùng Ranch, hoặc tôi đã thu nhỏ trở lại kích thước bình thường. Đầu óc mê man, tôi mất vài phút ngỡ rằng khả năng đầu tiên mới là sự thật.
+<p class="para-en">Smelling the stolen flesh, Bessa lowered her neck, charged back toward me, and crushed a four-axle wagon into splinters with her forepaws, reducing her severed flesh to pulp. I barely dove off the road in time, and Cori was nowhere to be seen. I hoped she was okay. A score of people weren’t, groaning or dead in Bessa’s wake.</p>
+<p class="para-vi-sub">Đánh hơi thấy mùi máu thịt bị cắt xẻ cướp đoạt, Bessa hạ thấp cổ rồi lao ngược trở lại phía tôi. Hai chân trước của nó nghiền nát một cỗ xe bốn trục thành muôn mảnh vụn, giẫm nát chính phần thịt bị cắt rời của mình thành một bãi bùn nhão nhoét. Tôi chỉ vừa kịp quăng mình thoát khỏi mặt đường, còn Cori thì đã bặt vô âm tín. Tôi thầm mong cô ấy vẫn bình an vô sự. Nhưng hai mươi con người khác thì không có được may mắn ấy; họ nằm rên rỉ trong đau đớn hoặc đã chết rạp dưới bước chân càn quét tàn bạo của Bessa.</p>
 
-  
+<p class="para-en">Horns raking to her left, Bessa pierced through the back of another wagon and lifted it over her head. The vehicle and its bison flung across the cobblestone street and into a fifth silo, which crumpled on impact. Grain spilled into the street, and despite Bessa’s threatening presence, dozens of common flocked to scoop rice into their bags and pockets, desperate for that next meal.</p>
+<p class="para-vi-sub">Vung cặp sừng quật mạnh sang bên trái, Bessa đâm toạc đuôi một cỗ xe khác rồi hất tung nó lên quá đầu. Cả cỗ xe lẫn con bò bison bị hất văng qua mặt đường lát đá cuội, đâm sầm vào hầm chứa thứ năm khiến công trình đổ sụp ngay tức khắc. Lương thảo ngũ cốc tuôn trào ra mặt đường. Bất chấp sự hiện diện hung bạo đầy chết chóc của Bessa, hàng chục người Thứ Phẩm vẫn liều mạng lao vào vơ vét, nhét đầy túi áo và bao tải, tuyệt vọng bấu víu lấy cơ hội cho bữa ăn ngày mai.</p>
 
-Rốt cuộc, tôi dùng hết sức gượng ngồi dậy dù vẫn bị trói chặt. Dù băng gạc quấn kín ngực, cổ họng và tai phải, tôi lại chẳng hề thấy đau đớn. Một bóng người cúi xuống nhìn rồi kiểm tra mắt tôi, vạch rộng mi mắt tôi ra.
+<p class="para-en">Bessa roared, her yellow eyes glaring over fleeing humans. There was disgust there. Rage. She stamped and snorted, let out a bellow and ran.</p>
+<p class="para-vi-sub">Bessa gầm lên một tiếng xé lòng. Đôi mắt vàng hoe vằn đỏ của nó trừng trừng nhìn đoàn người đang tháo chạy. Trong ánh nhìn ấy ánh lên nỗi ghê tởm, cùng cơn thịnh nộ ngút trời. Nó dậm chân, khịt mũi, rống lên dữ dội rồi quay đầu phi nước đại.</p>
 
-  
+<p class="para-en">The King’s Factory, now crumbling as everyone hurried out, was in the south of Ranch, just inside the forty-meter-tall wall that circled the city and kept out all twelve breeds of emphon. If we were lucky, Bessa would head for the wall. She couldn’t get over it or through it, and when the military scrambled to take her down or subdue her, she’d be penned in by its height.</p>
+<p class="para-vi-sub">Xưởng của Nhà Vua, giờ đã hóa thành đống đổ nát hoang tàn khi dòng người xô đẩy nhau chạy thoát thân, tọa lạc ở mạn nam thành phố Ranch, ngay sát bên trong bức tường thành cao bốn mươi mét bao quanh đô thị nhằm ngăn chặn toàn bộ mười hai chủng tộc quái thú bò mộng Emphon. Nếu may mắn mỉm cười, Bessa sẽ lao về phía chân tường. Nó chẳng thể nào trèo qua hay húc thủng bức tường kiên cố ấy; và khi quân đội ồ ạt kéo đến để trấn áp hay tiêu diệt nó, bức tường sừng sững sẽ giữ chân nó lại.</p>
 
-“Tôi là Bác sĩ Veroan,” cô ta lên tiếng và chìa tay ra, nhưng tôi chỉ biết trố mắt nhìn ngơ ngác. Chẳng chút lúng túng, cô ta rụt tay lại, ghi chú vào tập hồ sơ kẹp bảng rồi gõ nhẹ chiếc bút hai lần.
+<p class="para-en">She wasn’t that stupid. She ran west toward the river.</p>
+<p class="para-vi-sub">Thế nhưng nó đâu có ngu ngốc đến thế. Nó rẽ ngoắt sang hướng tây, lao thẳng về phía con sông.</p>
 
-  
+<p class="para-en">I struggled to keep up, sprinting through her wake of screaming children and silent corpses. Cracked water towers slicked the street alongside her dripping blood. A crowd called for me to stop and help pull a man from an overturned cart, but I didn’t. I couldn’t. I had to follow. I felt responsible.</p>
+<p class="para-vi-sub">Tôi chật vật bám theo sau, gắng sức băng qua đống gạch đá vụn vỡ, nơi đầy rẫy tiếng gào khóc của lũ trẻ thơ và những xác người nằm im lìm mà con quái thú bỏ lại sau lưng. Những bồn nước vỡ toác làm ướt sũng mặt đường, hòa lẫn với vệt máu tươi rỉ ra từ thân thể nó. Trong đám đông hoảng loạn, có tiếng người gọi giật bảo tôi dừng lại để giúp kéo một người đàn ông kẹt dưới cỗ xe lật, nhưng tôi không thể dừng bước. Tôi không thể làm vậy. Tôi phải đuổi theo nó, bởi sâu thẳm trong lòng, tôi hiểu bản thân phải chịu trách nhiệm cho chuyện này.</p>
 
-Tôi đang ở trong một gian phòng bệnh nào đó, hoặc ít nhất tôi đoán vậy. Tôi chưa bao giờ được nhìn thấy bên trong một bệnh viện. Vị “bác sĩ” ở tầng ba Khu Thứ Phẩm Số 3 của tôi vốn chỉ biết sắc thảo mộc và các loài hoa thành thuốc bổ. *Bệnh viện là đặc quyền của riêng giới Thượng Phẩm*, dẫu vậy căn phòng của Bác sĩ Veroan lại khá nhỏ, chỉ vỏn vẹn một chiếc giường cho tôi, một bàn làm việc cho bác sĩ và một chiếc tủ.
+<p class="para-en">Where was the Rare military? The carvers? The king? Within a minute, the king should’ve used his magic to assert control over her or the EDB should have swarmed her. But in eight minutes, she’d already gone over two kilometers. Rumors always spread of the war effort thinning the guard, but the war had raged for years. Nothing seemed any different. Why today?</p>
+<p class="para-vi-sub">Quân đội Thượng Phẩm đang ở đâu? Lính Mổ Xẻ đâu rồi? Còn Nhà vua nữa? Đáng lẽ chỉ trong vòng một phút, Nhà vua đã phải dùng ma thuật để khống chế nó, hoặc lực lượng Cục Phòng vệ Sức bền phải kéo đến bủa vây trùng điệp. Tính đến giờ đã tám phút trôi qua, con quái thú đã càn quét được hơn hai cây số. Người ta vẫn đồn rằng chiến tranh đã bào mòn lực lượng vệ binh, nhưng cuộc chiến này đã kéo dài ròng rã suốt bao năm qua, mọi sự xưa nay đâu có gì khác biệt. Tại sao lại trễ nải đúng vào ngày hôm nay?</p>
 
-  
+<p class="para-en">Bessa’s path took her to the river that bordered Common-1 and Common-2. Each was like my own, an enormous block of connected four-story tenement buildings. Ten thousand apartments each, and uncountable common within, including my Uncle Macen in Common-1. I hoped without reason that Bessa would turn north at the river rather than cross it. Make for the palace or the Rare districts.</p>
+<p class="para-vi-sub">Đường chạy của Bessa dẫn nó tới khúc sông phân chia ranh giới giữa Khu Thứ Phẩm Số 1 và Khu Thứ Phẩm Số 2. Mỗi khu đều giống hệt khu vực tôi sống: một khối cư xá bốn tầng khổng lồ nằm san sát nối liền nhau. Mỗi khối nhà có tới mười ngàn căn hộ, dung nạp số lượng dân Thứ Phẩm đông đúc không sao đếm xuể, trong đó có cả Chú Macen của tôi ở Khu Thứ Phẩm Số 1. Tôi nuôi một tia hy vọng mong manh rằng khi tới bờ sông, Bessa sẽ ngoặt lên phía bắc chứ không vượt sông qua bên kia, để hướng về phía hoàng cung hoặc các khu hoa lệ của giới Thượng Phẩm.</p>
 
-Cổ họng tôi khô khốc như sa mạc phương nam, còn cái lưỡi thì vô dụng chẳng khác nào lần tôi lỡ hớp phải ngụm trà nóng bỏng năm bốn tuổi. Khi cố cất tiếng, tôi chỉ thốt ra được những tiếng thều thào.
+<p class="para-en">She stopped at the river, allowing me to catch up as she lapped water like she hadn’t drank in days. Then, finally, six carvers wearing bull-scale mail armor and helms dropped out of the sky wielding their customary war spears—two prongs at the end like a carving fork. It was my first time seeing the military in action, and it slowed my sprint to a jog.</p>
+<p class="para-vi-sub">Nó dừng bước bên bờ sông, như thể đang chờ tôi đuổi kịp trong lúc cúi đầu liếm láp những ngụm nước mát, tựa hồ đã chịu cơn khát khô cháy suốt chuỗi ngày dài. Rồi cuối cùng, sáu tên Lính Mổ Xẻ mặc giáp vảy quái thú bò mộng Emphon và đội mũ giáp sắt từ trên cao đáp thẳng xuống. Bọn chúng lăm lăm trong tay những ngọn thương chiến trận quen thuộc, với mũi thương tách làm hai ngạnh sắc lẹm hệt như chiếc nĩa xẻ thịt khổng lồ. Đây là lần đầu tiên tôi tận mắt chứng kiến quân chính quy xuất trận, và cảnh tượng ấy khiến bước chân đang phi hết tốc lực của tôi bất giác phải chậm lại.</p>
 
-  
+<p class="para-en">The second the boots hit her back, Bessa bucked and spun. Three carvers tumbled into the river, but the others held on. One stabbed straight into Bessa, ignoring the scales by using one of the holes Cori and I had cut at the rib. Blue lightning—from some greater recipe—arced down the polearm and into her. She screamed and twitched uncontrollably, tripping at the riverbank and slamming into the water.</p>
+<p class="para-vi-sub">Khoảnh khắc những đôi ủng chiến vừa giẫm lên lưng, Bessa lập tức chồm dậy rồi xoay tít toàn thân. Ba tên Lính Mổ Xẻ trượt chân ngã nhào xuống sông, song những kẻ còn lại vẫn ngoan cường bám trụ. Một tên đâm thẳng ngọn thương vào mình Bessa, lách qua lớp vảy cứng bằng cách nhắm chuẩn vào vết rạch hở ở mạn sườn mà Cori và tôi đã xẻ toạc từ trước. Một luồng sét xanh lam, thứ sức mạnh phát ra từ Đại công thức ma thuật, phóng dọc theo cán thương rồi đánh thẳng vào cơ thể nó. Con quái thú rống lên đau đớn, toàn thân co giật dữ dội mất kiểm soát, sẩy chân bên bờ rồi ngã nhào xuống dòng nước.</p>
 
-“Tôi khuyên cậu không nên nói chuyện cho tới khi uống xong thứ này.” Cô ta đưa cho tôi chiếc cốc chứa chất lỏng màu trắng đục. “Uống đi.”
+<p class="para-en">The carver tried to wrench the spear away, but it was stuck below the waterline. Lightning webbed away across the waves. The carvers yelled and jumped away, but the one holding the pole was too slow. The Endurance shocked back into them, running tremors through their body until their scream was swallowed by the water.</p>
+<p class="para-vi-sub">Tên Lính Mổ Xẻ ra sức giằng mạnh ngọn thương ra, nhưng mũi thương đã kẹt cứng dưới dòng nước. Mạng lưới tia sét xanh chằng chịt lan nhanh trên từng gợn sóng. Mấy tên lính còn lại hét lớn rồi vội vã nhảy tản ra xa, nhưng kẻ ghì chặt cán thương lại quá chậm chạp. Luồng Sức bền ma thuật giật ngược trở lại thân thể hắn, trút xuống những cơn chấn động kinh hoàng khắp tứ chi cho đến khi tiếng gào thét nghẹn lại, bị dòng nước lạnh ngắt nuốt chửng hoàn toàn.</p>
 
-  
+<p class="para-en">The three carvers that had been bucked regained their feet on the riverbank and jumped incredible distances in a single bound, floating like feathers on their descent. In unison, they landed on Bessa’s back as she picked herself up.</p>
+<p class="para-vi-sub">Ba tên Lính Mổ Xẻ vừa bị hất văng đã gượng dậy trên bờ sông. Chỉ trong một nhịp thở, chúng thực hiện một cú bật nhảy xa đến khó tin rồi nhẹ nhàng đáp xuống tựa lông hồng. Cả ba đồng loạt giáng xuống lưng Bessa ngay khi nó đang gượng dậy. Nước bắn tung tóe từ những chiếc lông vũ còn sót lại trên mình nó, lớp dầu phủ trên lông khiến dòng nước trôi tuột đi khi nó vươn mình đứng thẳng.</p>
 
-Dù vẫn đang bị một kẻ thuộc tầng lớp Thượng Phẩm trói chặt, tôi sẵn sàng đánh đổi bất cứ giá nào chỉ để lấy một giọt nước. Thứ chất lỏng đặc hơn tôi tưởng, giống kem sữa béo ngậy hơn là sữa bò rừng tách béo. Nó không ngọt ngào như sữa thông thường mà hơi đắng tựa sô-cô-la đen, phảng phất hương vị cam chanh. Vừa nuốt xuống, tôi lập tức cảm nhận được Sức bền ma thuật bùng lên dữ dội, cổ họng tôi rung lên cùng nguồn năng lượng dạt dào.
+<p class="para-en">Water sloshed from her remaining feathers, their oil slicking it away as she stood fully.</p>
+<p class="para-vi-sub">Thêm ba ngọn thương phóng điện nữa lại cắm phập vào da thịt nó.</p>
 
-  
+<p class="para-en">Three more lightning prods speared into her. Foreboding knotted my stomach.</p>
+<p class="para-vi-sub">Một dự cảm chẳng lành bóp nghẹt lấy ruột gan tôi.</p>
 
-“Cái gì...?” Tôi không thể cất hết câu hỏi, nhưng Bác sĩ Veroan hẳn đã hiểu ý.
+<p class="para-en">Bessa continued to twitch. Two of the three remaining carvers returned to her back and unspooled a long, braided robe from a bag. With inhuman strength, one of them began to lasso the rope in a large, sweeping circle overhead, larger and larger until it was ten or eleven meters across, a loop sizeable enough to wrangle even Bessa. All the while, the other carvers used lightning to stun her still.</p>
+<p class="para-vi-sub">Bessa vẫn không ngừng co giật. Hai trong số ba tên Lính Mổ Xẻ còn lại nhảy trở lại lưng nó và rút từ túi ra một sợi dây thừng bện dài. Bằng sức mạnh phi thường, một tên bắt đầu quay tròn sợi dây trên đỉnh đầu. Vòng dây cứ thế mở rộng dần cho đến khi đạt đường kính mười hoặc mười một mét, tạo thành một chiếc thòng lọng đủ khổng lồ để khống chế ngay cả một sinh vật như Bessa. Suốt lúc đó, những tên Lính Mổ Xẻ khác liên tục phóng điện khiến nó tê liệt, đứng chết trân tại chỗ.</p>
 
-  
+<p class="para-en">Then five figures ran past me and hurled themselves onto Bessa’s back as the carvers had. They weren’t wearing tactical armor or the livery of the king but common clothes. My mouth hung open as the one at the head, a tall, black man with multicolored cornrows, dropkicked the carver with the lasso. Endurance must’ve flowed through him because the target of the kick rocketed into the water. The lasso fell limp around Bessa and slid into the waves as the rebels—even then, I knew it had to be the rebels attacking the carvers—brandished hammers, spears, and even one sword. Squaring up atop Bessa’s back, the carvers removed their spears and engaged.</p>
+<p class="para-vi-sub">Thế rồi, năm bóng người vụt lướt qua tôi, lao thẳng lên lưng Bessa hệt như cách lũ Lính Mổ Xẻ vừa làm. Họ không mặc giáp chiến thuật hay sắc phục của nhà vua, mà chỉ khoác lên mình những bộ thường phục Thứ Phẩm giản dị. Tôi sững sờ kinh ngạc khi người dẫn đầu, một gã đàn ông da đen cao lớn với mái tóc tết nhiều màu, tung cú song phi trúng đích tên Lính Mổ Xẻ đang cầm thòng lọng. Nguồn ma lực cường hóa ắt hẳn đang cuộn trào trong người gã, bởi kẻ trúng đòn bị hất văng thẳng xuống nước nhanh như một quả tên lửa. Chiếc thòng lọng tuột khỏi thân Bessa rồi chìm nghỉm giữa những con sóng. Cùng lúc ấy, nhóm người mới đến (ngay khoảnh khắc đó, tôi dám chắc những kẻ đang tấn công lũ Lính Mổ Xẻ chính là quân phiến loạn) vung búa, thương, và thậm chí cả một thanh gươm. Vào thế phòng thủ ngay trên lưng Bessa, những tên Lính Mổ Xẻ còn lại tuốt thương ra, lao vào một trận giáp lá cà.</p>
 
-“Sữa Emphon đấy. Uống hết đi.”
+<p class="para-en">Bessa took the distraction’s opening. Scrambling in the waves, she righted herself and sniffed the air. Something caught her nose and she hurried to the opposite shore. Toward Common-1. Eight tenement buildings, each five stories tall, shaped into a square around a stone courtyard. Half dilapidated, wood replacing some windows, but all full of life.</p>
+<p class="para-vi-sub">Bessa chớp ngay lấy thời cơ giữa cơn hỗn loạn. Vùng vẫy giữa làn sóng nước, nó gượng dậy vươn thẳng mình rồi hít hà bầu không khí. Dường như bắt được một mùi hương nào đó, nó lập tức lao như điên về phía bờ bên kia, hướng thẳng tới Khu Thứ Phẩm Số 1. Nơi đó có tám tòa nhà tập thể cũ kỹ cao năm tầng, xếp thành hình vuông vây quanh một khoảng sân lát đá. Dù phân nửa đã xuống cấp xập xệ, vài ô cửa sổ phải chắp vá tạm bợ bằng những tấm ván gỗ, nhưng tất cả đều tràn ngập hơi thở của sự sống.</p>
 
-  
+<p class="para-en">Terrified, I ran to the bridge at my right and sprinted with the madness of a boy sure he could stop a hurricane if he tried hard enough.</p>
+<p class="para-vi-sub">Kinh hoàng tột độ, tôi lao về phía cây cầu bên tay phải, cắm đầu chạy trong nỗi tuyệt vọng điên cuồng của một đứa trẻ ngây thơ tin rằng chỉ cần cố gắng hết sức, nó có thể ngăn nổi một cơn bão.</p>
 
-Tôi uống cạn mà không chút thắc mắc. Chỉ đến khi ma thuật ngấm vào người, tôi mới nhận ra mình dại dột đến nhường nào. Tầng lớp Thượng Phẩm xử tử dân Thứ Phẩm chỉ vì dám ăn thịt quái thú bò mộng Emphon hay uống sữa của chúng. Trừ khi tôi là phù thủy xứ Olearth, bằng không việc tôi từng ăn thịt Emphon để hóa thành khổng lồ vốn đã là trọng tội đủ để bị treo cổ trên xà nhà. Mặc cho nạn đói và tai họa châu chấu hoành hành, tôi lại đang nạp thêm thứ ma thuật này vào người. Ngay trước mặt cô ta.
+<p class="para-en">Bessa lowered her head and bulldozed Common-1.</p>
+<p class="para-vi-sub">Bessa hạ thấp đầu, húc sập Khu Thứ Phẩm Số 1.</p>
 
-  
+<p class="para-en">I felt the splintering columns like spurs in my own bones. Windows shattered. Screams silenced as half the building collapsed in an instant. Fire leaped from the wake.</p>
+<p class="para-vi-sub">Tiếng cột kèo gãy vụn dội vào tai buốt nhói như cựa sắt đâm thấu xương tủy tôi. Cửa kính vỡ toang. Những tiếng la hét tắt lịm khi phân nửa tòa nhà đổ sụp chỉ trong nháy mắt. Lửa đỏ ngùn ngụt bùng lên từ đống hoang tàn phía sau.</p>
 
-Nhưng khốn nạn thật, cảm giác ấy sảng khoái đến vô cùng. Những làn sóng mát lạnh râm ran lan dọc theo mạch máu theo từng nhịp đập của tim. Cổ họng tôi không chỉ dịu cơn khát, mà còn ngứa râm ran khi các vết rách và vết bầm tím bắt đầu tự lành. Những chiếc xương sườn bị gãy giật nhẹ rồi khớp trở lại đúng vị trí, một cơn tê dại mát lành đang chữa lành từng phần xương thịt.
+<p class="para-en">Bessa turned round and kicked her hooves, spinning into a bucking tornado of carnage. Horns smashed into the building as if it had been stabbing her and cutting her, not the carvers, not me.</p>
+<p class="para-vi-sub">Bessa quay quắt, tung vó, xoay tròn thành một cơn lốc tàn sát cuồng loạn. Cặp sừng đồ sộ của nó húc thẳng vào các tòa nhà như thể chính nơi đây đã đâm chém và xẻ thịt nó, chứ không phải những Lính Mổ Xẻ, cũng chẳng phải tôi.</p>
 
-  
+<p class="para-en">By the time I reached the end of the bridge, Common-1 was a smoldering ruin. Bessa continued her assault, sending bodies into the air like sand beneath a digging dog. She filled her mouth with common blood and bellowed proudly.</p>
+<p class="para-vi-sub">Đến khi tôi chạy sang đầu cầu bên kia, Khu Thứ Phẩm Số 1 chỉ còn lại một đống gạch vụn ngún khói. Bessa vẫn không ngừng tàn phá, hất tung những thi thể lên không trung tựa hồ đất cát bị bầy chó bới cào. Nó ngoạm đầy máu của những cư dân Thứ Phẩm trong miệng rồi cất tiếng gầm rống đầy kiêu hãnh.</p>
 
-Trong lúc tôi uống, cô ta nới thả dây trói trên cổ tay tôi.
+<p class="para-en">My face went numb. Maybe most weren’t home yet. The day shifts only got out ten or fifteen minutes ago. Maybe, maybe Uncle Macen was with Mother in Common-3… I pretended they were fine, these common who believed that while the king didn’t care for them, he’d at least value their labor enough to protect their lives. I pretended even as I stared at a mass grave.</p>
+<p class="para-vi-sub">Gương mặt tôi tê dại đi. Có lẽ phần lớn mọi người vẫn chưa về nhà. Ca làm ban ngày mới chỉ tan chừng mười hay mười lăm phút trước. Có lẽ... có lẽ Chú Macen đang ở cùng Mẹ tại Khu Thứ Phẩm Số 3... Tôi tự dối lòng rằng họ vẫn bình an vô sự. Những người Thứ Phẩm chúng tôi luôn ngây thơ tin rằng, dù nhà vua chẳng mảy may bận tâm đến mình, chí ít hắn vẫn cần sức lao động của chúng tôi đủ để bảo bọc lấy mạng sống này. Tôi vẫn mù quáng tự lừa dối bản thân ngay cả khi hai mắt đang trừng trừng nhìn vào một nấm mồ tập thể.</p>
 
-  
+<p class="para-en">For five minutes, I stood motionless in my butcher’s suit. The sky grew sanguine with evening and fire. People I loved were dead. Last conversations had without knowing. Had I left a sour taste in any of them? Did my uncle kiss my cousin this morning? I would never know.</p>
+<p class="para-vi-sub">Suốt năm phút ròng, tôi đứng chết trân trong bộ đồ đồ tể của mình. Bầu trời bị hoàng hôn và khói lửa nhuộm thành một màu đỏ quạch như máu. Những người tôi yêu thương nhất đã chết. Những cuộc chuyện trò cuối cùng đã trôi qua mà không ai hay biết. Liệu tôi có trót để lại dư vị đắng cay nào trong lòng họ? Sáng nay chú tôi có kịp hôn tạm biệt cô em họ bé nhỏ của tôi không?</p>
 
-“Thêm nữa được không?” Tôi hỏi khi đã uống cạn cốc sữa cô ta đưa.
+<p class="para-en">Four of the five rebels leaped over me.</p>
+<p class="para-vi-sub">Tôi vĩnh viễn chẳng bao giờ biết được nữa.</p>
 
-  
+<p class="para-en">One landed only a handful of paces away. Clad in a black suit like mine. Gone before I could identify them, jumping again to land on Bessa’s back. The carvers lay behind me, unconscious or dead.</p>
+<p class="para-vi-sub">Bốn trong số năm người của phe phiến loạn nhảy vọt qua đầu tôi. Một bóng người đáp xuống chỉ cách tôi chừng vài bước chân. Người ấy mặc một bộ đồ đen y hệt như tôi. Chưa kịp để tôi nhận diện khuôn mặt, người đó đã thoăn thoắt bật nhảy trở lại lên lưng Bessa. Lũ Lính Mổ Xẻ nằm la liệt lại phía sau lưng tôi, kẻ thì ngất lịm, kẻ đã bỏ mạng.</p>
 
-Cô ta trố mắt nhìn như thể tôi đang mê sảng, bàn tay tháo dây trói chợt khựng lại trong giây lát, có vẻ e ngại tôi vẫn cần bị kiềm chế. Rồi cô ta bật cười. “Cậu cũng hài hước ra phết đấy chứ?” Cô ta lại cười, cởi nốt dây trói cho tôi rồi bước về phía chiếc bàn làm việc kê bên góc phòng. “Đùa về chuyện bội thực ma thuật trước mặt một bác sĩ cơ đấy! Tôi thích cậu rồi đấy, anh hùng.”
+<p class="para-en">I wiped ash from my face as two rebels attempted to get ahold of Bessa’s horns, one on each side. As she bucked, they yanked her horns back with their enhanced strength, slowing her chaos. She strained and fell immobile, unable to move her neck. For a moment, a twinge of hope. They’d done what the carvers couldn’t. They’d stopped her.</p>
+<p class="para-vi-sub">Tôi gạt lớp tro bụi bám trên mặt khi hai người của phe phiến loạn đang cố gắng ghìm chặt hai bên sừng của Bessa. Giữa lúc con quái thú lồng lộn điên cuồng, họ dồn ma lực cường hóa để bẻ gập cặp sừng nó về phía sau, chặn đứng cơn cuồng sát tàn phá. Con thú gồng cứng người rồi khựng lại bất động, chiếc cổ không sao nhúc nhích nổi. Trong một khoảnh khắc ngắn ngủi, một tia hy vọng bỗng lóe lên. Họ đã làm được điều mà đám Lính Mổ Xẻ chịu bó tay. Họ đã chặn đứng được nó.</p>
 
-  
+<p class="para-en">But then she bucked them all and charged off back across the bridge toward the center of the city.</p>
+<p class="para-vi-sub">Thế nhưng nó đã hất văng tất cả bọn họ rồi lao thẳng ngược lại qua cây cầu, nhắm về phía trung tâm thành phố.</p>
 
-Tôi chẳng biết bội thực ma thuật là cái quái gì, nhưng tôi nhận ra cô ta hoàn toàn đinh ninh tôi là người thuộc tầng lớp Thượng Phẩm. Bởi lẽ, *chẳng một kẻ Thứ Phẩm nào có thể trở thành anh hùng trong mắt họ.*
+<p class="para-en">Rage replaced the numb spreading across my chest. Every moment of compassion that I’d nursed for Bessa bubbled into self-loathing.</p>
+<p class="para-vi-sub">Cơn thịnh nộ choán lấy nỗi tê dại đang lan rộng khắp lồng ngực tôi. Mọi lòng trắc ẩn tôi từng dành cho Bessa giờ đây sục sôi biến thành sự tự ghê tởm chính mình.</p>
 
-  
+<p class="para-en">I should’ve made her suffer. I should’ve bled her like a starving pig and used her blood to drown her hatchlings. I wanted her to feel pain for the dead in Common-1.</p>
+<p class="para-vi-sub">Đáng lẽ tôi phải bắt nó chịu muôn phần đớn đau. Đáng lẽ tôi phải chọc tiết nó như chọc tiết một con lợn đói, rồi dùng chính dòng máu ấy dìm chết lũ con mới nở của nó. Tôi muốn nó phải nếm trải nỗi đau đớn vì những sinh mạng đã khuất ở Khu Thứ Phẩm Số 1.</p>
 
-“Cậu có nhớ chuyện gì đã xảy ra không?” Cô ta hỏi.
+<p class="para-en">I started to run after her. Stopped.</p>
+<p class="para-vi-sub">Tôi toan lao theo nó, rồi khựng lại.</p>
 
-  
+<p class="para-en">No. She didn’t engineer these deaths. She was escaping her prison. Lazy carvers hadn’t shown up. The rebels didn’t stop her. The king let this happen.</p>
+<p class="para-vi-sub">Không. Nó không phải kẻ chủ mưu gây ra những cái chết này. Nó chỉ đang trốn chạy khỏi ngục tù giam hãm mình. Đám Lính Mổ Xẻ lười biếng đã không hề xuất hiện. Lực lượng phiến quân đã không thể ngăn được nó. Còn nhà vua thì để mặc cho mọi chuyện xảy ra.</p>
 
-Tôi giữ cho lời khai của mình thật ngắn gọn, không quên bắt chước chất giọng trịch thượng của tầng lớp Thượng Phẩm. Mặt trời thiêu đốt chứng giám! Tôi đã vật lộn với con quái thú Emphon ở Cánh Đồng Cỏ Cao, đúng chứ?
+<p class="para-en">Unnoticed by dozens of soot-covered common milling about, I hustled after the bull. If no one would stop her, I would. Then I’d find the carvers who couldn’t do their starving jobs and I’d avenge Common-1. I was convinced to my marrow that I was the hand of its justice.</p>
+<p class="para-vi-sub">Không để hàng chục người Thứ Phẩm lấm lem muội than đang nháo nhào xung quanh chú ý, tôi vội vã đuổi theo con quái thú bò mộng Emphon. Nếu không ai ngăn cản nó, tôi sẽ làm. Sau đó, tôi sẽ lùng ra những tên Lính Mổ Xẻ không hoàn thành nổi công việc kiếm cơm của mình, và tôi sẽ báo thù cho Khu Thứ Phẩm Số 1. Tôi tin đến tận xương tủy rằng mình chính là bàn tay thực thi công lý cho nơi này.</p>
 
-  
+<p class="para-en">Not the king. Not the Rare.</p>
+<p class="para-vi-sub">Không phải nhà vua. Cũng chẳng phải tầng lớp Thượng Phẩm.</p>
 
-“Nói thế còn là nhẹ đấy. Thế lúc cậu quật ngã được nó thì sao?”
-
-  
-
-*Nó.*
-
-  
-
-Dù vậy, tôi vẫn phải giữ cho khuôn mặt mình thản nhiên. *Bessa là một sinh vật sống, chứ không phải một món đồ vật.*
-
-  
-
-“Tôi không thở nổi.”
-
-  
-
-Cô ta lại khẽ cười khúc khích. “Cậu bị gãy ba xương sườn và thủng một bên phổi. Xương ức của cậu cũng bị nứt nữa. Nếu không nhờ Sức bền ma thuật cùng thứ quái quỷ gì đó làm cậu phình to ra như thế, cậu đã mất mạng từ lâu. Nếu Trung Úy Vyson không xẻ con quái thú bò mộng đó ra khỏi người cậu trước khi cậu co nhỏ trở lại, cậu cũng đã chết rồi. Mặt trời thiêu đốt, nếu chuyện này xảy ra ở bất kỳ nơi nào xa hoàng cung hơn một chút, cậu chắc chắn không còn sống. Cậu hiểu ý tôi muốn nói gì rồi chứ, chàng trai?”
-
-  
-
-“Tôi may mắn mạng lớn, đúng không?”
-
-  
-
-“May mắn?” Cô ta nhíu mày. “Người thuộc tầng lớp Thượng Phẩm không bao giờ chỉ ăn may. Cậu đã được Đấng Tiêu Thụ ban phước đấy.”
-
-  
-
-Tôi cố lục lọi trong trí nhớ chút kiến thức ít ỏi về tôn giáo của tầng lớp Thượng Phẩm và vị thần của họ: Đấng Tiêu Thụ. Tôi nhớ mang máng điều gì đó về việc con người được tạo ra theo hình mẫu của Ngài, sở hữu quai hàm chắc khỏe cùng dạ dày sâu không đáy. Như vậy sẽ thuận tiện hơn nhiều cho việc ngấu nghiến thịt quái thú bò mộng Emphon, đại loại thế.
-
-  
-
-Tôi bạnh quai hàm, bắt chước điệu bộ của những kẻ giám sát ở xưởng mổ. Nếu tôi làm hỏng chuyện này, tính mạng của các mẹ có thể sẽ gặp nguy hiểm. “Vâng, thưa bà. Tôi được ban cho một cái dạ dày không đáy đấy. Thứ lỗi, đầu óc tôi lúc này hơi rối bời.”
-
-  
-
-“Cậu tên là gì?”
-
-  
-
-Tôi giả vờ ho khan một tiếng rồi với tay lấy chiếc ly như muốn xin thêm sữa, nhưng dù có cố khéo léo đến đâu, tôi vốn chẳng bao giờ giỏi nói dối. Những lời dối trá của tôi chỉ có thể trót lọt khi được tập dượt kỹ càng từ trước. Cô ta lập tức cất tiếng gọi lớn. Ba tên Lính Mổ Xẻ liền bước vào phòng, tay lăm lăm những ngọn thương chiến trận.
-
-  
-
-Tôi giơ hai tay lên. “Tôi...”
-
-  
-
-“Lui ra.”
-
-  
-
-Một bóng người thứ tư bước vào phòng với tiếng nện ủng dứt khoát và vang dội. Hắn có mái tóc vàng cắt ngắn phía trên đôi mắt xanh lam, làn da nhợt nhạt cùng đôi môi mỏng. Trên ve áo hắn cài gia huy của nhà vua kèm một dải ruy băng rực rỡ sắc màu. Những tên lính gác lập tức đứng nghiêm trang và giơ tay chào.
-
-  
-
-“Paprick thuộc Khu Thứ Phẩm Số 3, phải không?” Hắn nhìn tôi không chút thù hằn, nhưng tôi có cảm giác như mình đang hoàn toàn trần trụi trước mắt hắn. Dẫu sự thực là lúc này tôi chẳng mảnh vải che thân, nhưng cảm giác ấy lại rất khác; cứ như thể dưới ánh nhìn sắc sảo của hắn, tôi chẳng thể giấu giếm bất kỳ bí mật nào. Và dường như cũng chẳng còn tương lai nào đợi tôi phía trước. Liệu bọn họ có biết về các mẹ không? Các mẹ có được an toàn?
-
-  
-
-Phía sau hắn, vẻ mặt của Bác sĩ Veroan trông như thể cô ta vừa nuốt phải một con nhện.
-
-  
-
-“Phải,” tôi thừa nhận, thầm hy vọng sự thật sẽ giúp các mẹ giữ được mạng sống.
-
-  
-
-“Tôi xin thề trước Đấng Tiêu Thụ,” Bác sĩ Veroan nói, “tôi không hề biết chuyện đó, thưa Trung Úy! Tôi sẽ không bao giờ đưa cho hắn...”
-
-  
-
-“Im lặng đi, Bác sĩ. Bà làm thế là đủ rồi.” Hắn quay lại phía tôi. “Đứng dậy và mặc quần áo vào. Mày phải ra hầu Hội đồng Phán quyết.”
-
-  
-
-“Cái gì cơ?”
-
-  
-
-“Ta không thích nhắc lại lần thứ hai đâu, tên Thứ Phẩm.”
-
-  
-
-Một tên lính gác ném cho tôi một xấp quần áo đẹp hơn bất kỳ bộ đồ nào tôi từng sở hữu từ trước đến nay. Cả áo lẫn quần đều trắng muốt như kem chua và được dệt bằng vải lanh. Tôi ngập ngừng một lát, tự hỏi liệu mình có thể trốn thoát được không, nhưng tình thế một chọi ba xem ra chẳng mấy khả quan. Tôi nhanh chóng mặc đồ vào rồi đứng chân trần trên nền gạch men lạnh ngắt.
-
-  
-
-Gã lính canh xô tôi về phía cửa, nhưng có chết tôi cũng không bỏ qua cơ hội chọc tức nữ bác sĩ cuồng tín kia. “May mà tôi đã kịp uống chỗ sữa đó đấy,” tôi nói với lại. Tôi thề là cô ta vừa rít lên một tiếng đầy giận dữ.
-
-  
-
-Hành lang này rộng hơn nhiều so với những lối đi chật hẹp ở Khu Thứ Phẩm Số 3, được lát bằng những phiến gạch men trắng muốt. Biểu tượng của nhà vua, một con quái thú Bò sát Carnephon ba mắt với con mắt thứ ba đỏ rực nằm ngay giữa trán, bên trên là một bàn tay lơ lửng như đang dẫn dắt nó, được chạm khắc ngay chính giữa mỗi ô gạch.
-
-  
-
-Gã lính canh lại đẩy mạnh một cái khi tôi đang quan sát hành lang, khiến tôi lảo đảo bước theo sau người lính dẫn đầu. Tôi suýt nữa đã quay phắt lại để đấm thẳng vào quai hàm gã, nhưng lý trí mách bảo rằng tôi vẫn còn sống và tốt nhất là nên biết điều. Trừ phi cho đến tận một phút trước họ vẫn chưa biết tôi là ai, và cái chết của tôi đang cận kề.
-
-  
-
-Tôi tự nhủ nếu có phải chết, tôi cũng muốn chọc tức vài kẻ thuộc tầng lớp Thượng Phẩm trên đường đi. Tôi siết chặt nắm tay, hy vọng mình sẽ có thêm một cơ hội.
-
-  
-
-Nhưng trước khi cơ hội ấy xuất hiện, tôi đã bị dẫn vào một đại sảnh lộng lẫy ngập tràn ánh sáng từ bức tường kính khổng lồ. Bình minh rọi qua mang theo sắc hồng phớt khi vầng thái dương vừa thức giấc phía trên Cao nguyên Fen ở hướng đông, đổ những vệt bóng dài về phía dòng sông. Khu vườn xương rồng được cắt tỉa tỉ mỉ nằm giữa cung điện và bờ sông như bừng tỉnh, những cánh hoa bung nở rực rỡ dưới ánh mặt trời.
-
-  
-
-*“Hãy hành quyết hắn, để chúng ta rũ sạch trách nhiệm khỏi chuyện này,” một giọng trầm mang ngữ điệu đặc trưng của tầng lớp Thượng Phẩm cất lên ra lệnh ngay khi tôi vừa bước vào.*
+<p class="para-en">But a common that knew the pain of their boots and the hurt of their inaction.</p>
+<p class="para-vi-sub">Mà phải là một kẻ Thứ Phẩm, người thấu hiểu nỗi đau dưới gót giày áp bức và niềm cay đắng đến từ sự câm lặng bất lực của chính họ.</p>

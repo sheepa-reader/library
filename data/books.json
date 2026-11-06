@@ -1461,7 +1461,8 @@
     "description": "Tại một thế giới nơi thịt của các quái thú khổng lồ được giới đầu bếp thượng lưu chế biến thành các món ăn ban phát ma thuật cho tầng lớp Thượng Phẩm, cậu thiếu niên 17 tuổi Paprick chỉ là một gã đồ tể quèn ngày ngày xẻ thịt thuê. Ôm ấp đam mê nấu nướng và khát khao giải phóng người dân Thứ Phẩm khỏi ách thống trị, Paprick liều mạng đánh cắp nguyên liệu quý hiếm và săn lùng một loại gia vị hắc ám để thử nghiệm công thức bí mật tại nhà. Thế nhưng, món ăn dị thường ấy lại gây ra phản ứng phụ kinh hoàng: biến Paprick thành một thực thể khổng lồ tựa quái thú, khiến tin đồn về sức mạnh của cậu lan truyền khắp nơi. Bị giới cầm quyền bắt giữ, Paprick khôn khéo mặc cả để trở thành phụ bếp học việc nhằm đổi lấy công thức món ăn, nhưng chính tại chốn ẩm thực đỉnh cao này, cậu nhận ra sự mục ruỗng tột cùng của giới tinh hoa và nhận ra ngọn lửa cách mạng đã sẵn sàng bùng cháy chỉ sau vài công thức nấu nướng tiếp theo.",
     "downloads": {
       "epub": "content/downloads/bay-cong-thuc-lam-nen-cach-mang.epub",
-      "pdf": ""
+      "pdf": "",
+      "bilingualEpub": "content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub"
     },
     "chapters": [
       {
@@ -1473,394 +1474,450 @@
       },
       {
         "id": "chuong-2",
-        "title": "Bày biện bàn ăn",
+        "title": "Bản quyền & Xuất bản",
         "part": "",
-        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-2.md"
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-2.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-3",
-        "title": "1 Xưởng Của Nhà Vua",
-        "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
-        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-3.md"
+        "title": "Lời đề tặng",
+        "part": "",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-3.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-4",
-        "title": "2 Hương vị của Sức bền ma thuật",
-        "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
+        "title": "Bày biện bàn ăn",
+        "part": "",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-4.md"
       },
       {
         "id": "chuong-5",
-        "title": "3 Người bạn đồng hành mới",
+        "title": "Công thức: Hương Vị Đầu Tiên",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-5.md"
       },
       {
         "id": "chuong-6",
-        "title": "4 Gia Vị Hắc Ám",
+        "title": "1 Xưởng Của Nhà Vua",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-6.md"
       },
       {
         "id": "chuong-7",
-        "title": "5 Đối mặt với Cori",
+        "title": "2 Hương vị của Sức bền ma thuật",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-7.md"
       },
       {
         "id": "chuong-8",
-        "title": "6 Cơn cuồng nộ tột cùng của con quái thú bò mộng",
+        "title": "3 Người bạn đồng hành mới",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-8.md"
       },
       {
         "id": "chuong-9",
-        "title": "7 Trận chiến đầu tiên tại Cánh Đồng Cỏ Cao",
+        "title": "4 Gia Vị Hắc Ám",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-9.md"
       },
       {
         "id": "chuong-10",
-        "title": "8 Cặp Sừng",
+        "title": "5 Đối mặt với Cori",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-10.md"
       },
       {
         "id": "chuong-11",
-        "title": "9 Chăm sóc Thượng Phẩm",
+        "title": "6 Cơn cuồng nộ tột cùng của con quái thú bò mộng",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-11.md"
       },
       {
         "id": "chuong-12",
-        "title": "10 Nơi Hội Đồng phán quyết",
+        "title": "7 Trận chiến đầu tiên tại Cánh Đồng Cỏ Cao",
         "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-12.md"
       },
       {
         "id": "chuong-13",
-        "title": "11 Tên và Dao",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "8 Cặp Sừng",
+        "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-13.md"
       },
       {
         "id": "chuong-14",
-        "title": "12 Những vị khách dùng bữa tối",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "9 Chăm sóc Thượng Phẩm",
+        "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-14.md"
       },
       {
         "id": "chuong-15",
-        "title": "13 Thợ Chế Tác",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "10 Nơi Hội Đồng phán quyết",
+        "part": "Món Thứ Nhất • Hương Vị Đầu Tiên",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-15.md"
       },
       {
         "id": "chuong-16",
-        "title": "14 Phố Mây",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "Công thức: Xà Lách Mất Ngủ",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-16.md"
       },
       {
         "id": "chuong-17",
-        "title": "15 Kỹ năng dùng dao",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "11 Tên và Dao",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-17.md"
       },
       {
         "id": "chuong-18",
-        "title": "16 Laven Florento",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "12 Những vị khách dùng bữa tối",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-18.md"
       },
       {
         "id": "chuong-19",
-        "title": "17 Nhà hàng Học viện",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "13 Thợ Chế Tác",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-19.md"
       },
       {
         "id": "chuong-20",
-        "title": "18 Món salad đã cứu rỗi biết bao mạng sống",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "14 Phố Mây",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-20.md"
       },
       {
         "id": "chuong-21",
-        "title": "19 Nhà",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "15 Kỹ năng dùng dao",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-21.md"
       },
       {
         "id": "chuong-22",
-        "title": "20 Chợ Gia Vị Hắc Ám mới",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "16 Laven Florento",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-22.md"
       },
       {
         "id": "chuong-23",
-        "title": "21 Gỗ Phong và Hoa Hồng",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "17 Nhà hàng Học viện",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-23.md"
       },
       {
         "id": "chuong-24",
-        "title": "22 Một món súp kem chết chóc",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "18 Món salad đã cứu rỗi biết bao mạng sống",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-24.md"
       },
       {
         "id": "chuong-25",
-        "title": "23 Tìm kiếm gia vị",
-        "part": "Món Thứ Hai • Salad Tỉnh Táo",
+        "title": "19 Nhà",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-25.md"
       },
       {
         "id": "chuong-26",
-        "title": "24 Tìm kiếm những câu hỏi",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "20 Chợ Gia Vị Hắc Ám mới",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-26.md"
       },
       {
         "id": "chuong-27",
-        "title": "25 Tin tưởng",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "21 Gỗ Phong và Hoa Hồng",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-27.md"
       },
       {
         "id": "chuong-28",
-        "title": "26 Kỹ Thuật",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "22 Một món súp kem chết chóc",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-28.md"
       },
       {
         "id": "chuong-29",
-        "title": "27 Nhanh",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "23 Tìm kiếm gia vị",
+        "part": "Món Thứ Hai • Xà Lách Mất Ngủ",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-29.md"
       },
       {
         "id": "chuong-30",
-        "title": "28 Vua Consommé",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "Công thức: Thịt Tái Emphon",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-30.md"
       },
       {
         "id": "chuong-31",
-        "title": "29 Những gì Cutler biết",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "24 Tìm kiếm những câu hỏi",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-31.md"
       },
       {
         "id": "chuong-32",
-        "title": "30 Lễ hội",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "25 Tin tưởng",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-32.md"
       },
       {
         "id": "chuong-33",
-        "title": "31 Mất tích",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "26 Kỹ Thuật",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-33.md"
       },
       {
         "id": "chuong-34",
-        "title": "32 Hậu quả",
-        "part": "Món Thứ Ba • Thịt Băm Emphon",
+        "title": "27 Nhanh",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-34.md"
       },
       {
         "id": "chuong-35",
-        "title": "33 Thật là một tình thế khó khăn",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "28 Vua Consommé",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-35.md"
       },
       {
         "id": "chuong-36",
-        "title": "34 Bài học",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "29 Những gì Cutler biết",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-36.md"
       },
       {
         "id": "chuong-37",
-        "title": "35 Đơn độc",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "30 Lễ hội",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-37.md"
       },
       {
         "id": "chuong-38",
-        "title": "36 Quà sinh nhật",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "31 Mất tích",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-38.md"
       },
       {
         "id": "chuong-39",
-        "title": "37 Học trò cưng của ban giảng huấn",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "32 Hậu quả",
+        "part": "Món Thứ Ba • Thịt Tái Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-39.md"
       },
       {
         "id": "chuong-40",
-        "title": "38 Hương vị panna cotta",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "Công thức: Khoai Tây Chiên Bít Tết Nướng",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-40.md"
       },
       {
         "id": "chuong-41",
-        "title": "39 Huyền thoại",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "33 Thật là một tình thế khó khăn",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-41.md"
       },
       {
         "id": "chuong-42",
-        "title": "40 Ngăn kéo bị kẹt",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "34 Bài học",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-42.md"
       },
       {
         "id": "chuong-43",
-        "title": "41 Bước ngoặt",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "35 Đơn độc",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-43.md"
       },
       {
         "id": "chuong-44",
-        "title": "42 Vương quốc quỷ quyệt",
-        "part": "Món Thứ Tư • Bít Tết Khoai Tây Chiên",
+        "title": "36 Quà sinh nhật",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-44.md"
       },
       {
         "id": "chuong-45",
-        "title": "43 Tương lai của một quốc gia",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "37 Học trò cưng của ban giảng huấn",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-45.md"
       },
       {
         "id": "chuong-46",
-        "title": "44 Cuốn sách bọc da",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "38 Hương vị panna cotta",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-46.md"
       },
       {
         "id": "chuong-47",
-        "title": "45 Loại dao",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "39 Huyền thoại",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-47.md"
       },
       {
         "id": "chuong-48",
-        "title": "46 Chốn đắng cay",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "40 Ngăn kéo bị kẹt",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-48.md"
       },
       {
         "id": "chuong-49",
-        "title": "47 Lạnh buốt",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "41 Bước ngoặt",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-49.md"
       },
       {
         "id": "chuong-50",
-        "title": "48 Cuộc diễu hành",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "42 Vương quốc quỷ quyệt",
+        "part": "Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-50.md"
       },
       {
         "id": "chuong-51",
-        "title": "49 Đồ Tể, Binh Lính, Đầu Bếp",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "Công thức: Kiểm Soát Ớt Cay",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-51.md"
       },
       {
         "id": "chuong-52",
-        "title": "50 Hoang tàn",
-        "part": "Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí",
+        "title": "43 Tương lai của một quốc gia",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-52.md"
       },
       {
         "id": "chuong-53",
-        "title": "51 Trống rỗng",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "44 Cuốn sách bọc da",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-53.md"
       },
       {
         "id": "chuong-54",
-        "title": "52 Lời hiệu triệu",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "45 Loại dao",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-54.md"
       },
       {
         "id": "chuong-55",
-        "title": "53 Gian bếp hoàng cung",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "46 Chốn đắng cay",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-55.md"
       },
       {
         "id": "chuong-56",
-        "title": "54 Bếp lửa đỏ dao sắc nhọn",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "47 Lạnh buốt",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-56.md"
       },
       {
         "id": "chuong-57",
-        "title": "55 Bày biện đồ ăn",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "48 Cuộc diễu hành",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-57.md"
       },
       {
         "id": "chuong-58",
-        "title": "56 Một bữa ăn đáng nhớ",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "49 Đồ Tể, Binh Lính, Đầu Bếp",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-58.md"
       },
       {
         "id": "chuong-59",
-        "title": "57 Phép lịch sự trên bàn ăn",
-        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "title": "50 Hoang tàn",
+        "part": "Món Thứ Năm • Kiểm Soát Ớt Cay",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-59.md"
       },
       {
         "id": "chuong-60",
-        "title": "58 Những đội quân",
+        "title": "Công thức: Thịt Ướp Emphon",
         "part": "Món Thứ Sáu • Thịt Ướp Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-60.md"
       },
       {
         "id": "chuong-61",
-        "title": "59 Người mà chúng tôi yêu thương",
+        "title": "51 Trống rỗng",
         "part": "Món Thứ Sáu • Thịt Ướp Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-61.md"
       },
       {
         "id": "chuong-62",
-        "title": "60 Paprick Đồ Tể",
+        "title": "52 Lời hiệu triệu",
         "part": "Món Thứ Sáu • Thịt Ướp Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-62.md"
       },
       {
         "id": "chuong-63",
-        "title": "61 Hoàng Tộc",
-        "part": "Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa",
+        "title": "53 Gian bếp hoàng cung",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-63.md"
       },
       {
         "id": "chuong-64",
-        "title": "62 Những giải pháp tình thế",
-        "part": "Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa",
+        "title": "54 Bếp lửa đỏ dao sắc nhọn",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
         "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-64.md"
       },
       {
         "id": "chuong-65",
-        "title": "Lời cảm ơn",
-        "part": "",
-        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-65.md",
-        "noDropcap": true
+        "title": "55 Bày biện đồ ăn",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-65.md"
       },
       {
         "id": "chuong-66",
+        "title": "56 Một bữa ăn đáng nhớ",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-66.md"
+      },
+      {
+        "id": "chuong-67",
+        "title": "57 Phép lịch sự trên bàn ăn",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-67.md"
+      },
+      {
+        "id": "chuong-68",
+        "title": "58 Những đội quân",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-68.md"
+      },
+      {
+        "id": "chuong-69",
+        "title": "59 Người mà chúng tôi yêu thương",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-69.md"
+      },
+      {
+        "id": "chuong-70",
+        "title": "60 Paprick Đồ Tể",
+        "part": "Món Thứ Sáu • Thịt Ướp Emphon",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-70.md"
+      },
+      {
+        "id": "chuong-71",
+        "title": "Công thức: Súp Bắp Bò Phóng Hỏa",
+        "part": "Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-71.md"
+      },
+      {
+        "id": "chuong-72",
+        "title": "61 Hoàng Tộc",
+        "part": "Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-72.md"
+      },
+      {
+        "id": "chuong-73",
+        "title": "62 Những giải pháp tình thế",
+        "part": "Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-73.md"
+      },
+      {
+        "id": "chuong-74",
+        "title": "Lời cảm ơn",
+        "part": "",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-74.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-75",
         "title": "Đôi nét về tác giả",
         "part": "",
-        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-66.md",
+        "path": "content/books/bay-cong-thuc-lam-nen-cach-mang/chuong-75.md",
         "noDropcap": true
       }
     ],
@@ -1871,7 +1928,8 @@
     },
     "awards": [
       "Series Thực Đơn Sinh Tồn — Top sách Phiêu lưu Kỳ ảo thịnh hành"
-    ]
+    ],
+    "hasBilingual": true
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
@@ -2536,10 +2594,9 @@
       },
       {
         "id": "chuong-2",
-        "title": "Intro",
+        "title": "His & Hers",
         "part": "",
-        "path": "content/books/cua-anh-cua-em/chuong-2.md",
-		"noDropcap": true
+        "path": "content/books/cua-anh-cua-em/chuong-2.md"
       },
       {
         "id": "chuong-3",

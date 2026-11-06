@@ -1,398 +1,148 @@
-# 7 Trận chiến đầu tiên tại Cánh Đồng Cỏ Cao
+# 4 Gia Vị Hắc Ám
 
-*Món Thứ Nhất • Hương Vị Đầu Tiên*
+<p class="para-en">If Cori reported me and I was still carrying slices the overseers could use as evidence, I only had myself to blame. I could’ve cooked them, sure, but that meant walking around with Enduring eyes and going home to risk my moms as accomplices. I needed to offload them and quick—to people I could trust.</p>
+<p class="para-vi-sub">Nếu Cori tố cáo tôi trong khi tôi vẫn còn mang theo những lát thịt mà đám giám sát có thể dùng làm bằng chứng, tôi chỉ còn nước tự trách mình. Dĩ nhiên tôi có thể nấu chín chúng, nhưng điều đó đồng nghĩa với việc tôi phải đi lại với đôi mắt rực sáng trạng thái Sức bền ma thuật, để rồi khi trở về nhà lại đẩy hai người mẹ vào vòng hiểm nguy với tư cách đồng phạm. Tôi cần phải tống khứ số thịt này đi thật nhanh, giao cho những người mà tôi có thể tin cậy.</p>
 
-“Tôi không còn nhớ nhiều về những gì nằm giữa tôi và nơi tôi dừng chân,” Đồ Tể thừa nhận. “Ngoại trừ đống đổ nát, rõ ràng là vậy. Sử sách của cô có thể ghi rõ những con phố nào đã bị san phẳng, nhưng gần hai ngàn người Thứ Phẩm đã bỏ mạng vào ngày hôm đó. Tôi nhớ từng người trong số họ.”
+<p class="para-en">There were two common markets in Ranch: one everyone knew in Tall Grass, and the one most didn’t.</p>
+<p class="para-vi-sub">Có hai khu chợ dành cho tầng lớp Thứ Phẩm ở Ranch: một khu nằm tại Cánh Đồng Cỏ Cao mà ai ai cũng biết, và một khu khác thì hầu như chẳng mấy ai hay.</p>
 
-  
+<p class="para-en">Tall Grass Market was a sprawling mosaic of competitive flavors and dazzling speed, serving seemingly anything before you could get your gold knuckles out of your purse to pay. There wasn’t a cuisine you couldn’t find, from local empanadas to semoli pastas from across the bay, or a product you couldn’t buy—except emphon. Only Chefs in the Rare districts could prepare or sell emphon. Still, the place was beautiful. The moment the opening bell rang, hundreds of vendors rushed through its gates. Wagons would collide as merchants shoved them—and the bison that pulled them—into each other, trying to edge the competition out of coveted corners. At least once a year, a wagon flipped, someone died, and the market closed until the merchants learned how to “behave.” But in a city where god is in the food and capitalism is as powerful as god, there’s no stopping Tall Grass for long. Not without the king stepping in. And he didn’t do shit.</p>
+<p class="para-vi-sub">Chợ Cánh Đồng Cỏ Cao là một bức tranh ghép khổng lồ của những phong vị cạnh tranh khốc liệt cùng nhịp sống chóng mặt, sẵn sàng dọn ra cho thực khách hầu như bất kỳ món gì trước cả khi người ta kịp móc những đồng tiền vàng ra khỏi túi để thanh toán. Chẳng có nền ẩm thực nào mà bạn không thể tìm thấy ở nơi đây, từ những chiếc bánh gối empanada bản địa cho đến món mì ống Semoli từ tít bên kia vịnh; cũng chẳng có món hàng nào mà bạn không thể mua, ngoại trừ quái thú bò mộng Emphon. Chỉ những Đầu Bếp ở các khu Thượng Phẩm mới được phép chế biến hay mua bán quái thú bò mộng Emphon. Dù vậy, khu chợ vẫn mang một vẻ đẹp cuốn hút. Ngay khoảnh khắc tiếng chuông mở chợ vang lên, hàng trăm tiểu thương liền ùa qua cổng. Những cỗ xe bò va quẹt vào nhau dưới sự thúc giục của giới thương buôn, cùng đám bò bizon kéo xe chen lấn xô đẩy nhằm hất cẳng đối thủ khỏi các vị trí bán hàng đắc địa. Hầu như năm nào cũng có ít nhất một vụ lật xe khiến người thiệt mạng, rồi khu chợ lại bị đóng cửa cho tới khi đám thương nhân học được cách “hành xử đúng mực”. Nhưng tại một thành phố nơi ẩm thực được tôn sùng như thánh thần và đồng tiền cũng quyền uy chẳng kém, không gì có thể khiến Cánh Đồng Cỏ Cao ngừng hoạt động quá lâu. Trừ phi đích thân nhà vua can thiệp. Mà lão thì đời nào thèm bận tâm đến những chuyện như thế.</p>
 
-“Thôi đi. ‘Tôi nhớ từng người trong số họ’ ư? Cuốn Sách Nghi Lễ này không phải là nơi để anh thêu dệt nên huyền thoại của mình đâu, Đồ Tể. Nó dùng để ghi lại sự thật trước Đấng Tiêu Thụ và định đoạt tội trạng của anh. Anh định bắt tôi tin rằng anh đã bám theo quái thú Emphon đến tận Khu Thứ Phẩm Số 1, rồi từ đó đi bộ đến Cánh Đồng Cỏ Cao mà không cần chút Sức bền ma thuật nào, trong khi vẫn khoác trên mình bộ đồ da đồ tể nặng nề sao? Quãng đường đó dài gần mười cây số chỉ trong vòng một giờ đồng hồ, chưa kể những lúc anh phải dừng chân.”
+<p class="para-en">The other market was better.</p>
+<p class="para-vi-sub">Khu chợ còn lại thì tuyệt vời hơn nhiều.</p>
 
-  
+<p class="para-en">That evening, I ascended a rickety staircase. Several common kept me silent company, none of us uttering so much as a grunt for fear of being kicked out. At the top, a guard examined the person ahead of me for weapons, and a second guard tapped a rolling pin against his palm threateningly. Mom had vouched for me years before, and I had the tattoo to prove it. Showing it earned me entrance, but not without the standard threat.</p>
+<p class="para-vi-sub">Tối hôm đó, tôi bước lên một cầu thang gỗ ọp ẹp. Vài người Thứ Phẩm lặng lẽ bước đi cùng tôi, chẳng một ai trong chúng tôi dám hé răng than vãn nửa lời vì sợ bị tống cổ ra ngoài. Ở trên đỉnh cầu thang, một tên lính gác đang khám xét vũ khí của người đi ngay trước tôi, trong khi gã lính gác thứ hai thong thả gõ cây cán bột vào lòng bàn tay đầy vẻ đe dọa. Mẹ đã bảo lãnh cho tôi từ nhiều năm trước, và tôi có một hình xăm để chứng minh điều đó. Việc để lộ hình xăm giúp tôi thuận lợi bước vào trong, nhưng vẫn không tránh khỏi lời răn đe quen thuộc:</p>
 
-“‘Trước Đấng Tiêu Thụ’,” Đồ Tể cười khẩy. “Ngay cả cô còn chẳng tin vào vị thần linh của nữ hoàng mình nữa là.”
+<p class="para-en">“Whatever you buy, you got from Tall Grass.”</p>
+<p class="para-vi-sub">“Bất cứ thứ gì mày mua ở đây, mày đều lấy từ Cánh Đồng Cỏ Cao đấy nhé.”</p>
 
-  
+<p class="para-en">“Or you die, to feed the mass,” I responded.</p>
+<p class="para-vi-sub">“Bằng không mày sẽ chết, để nuôi sống muôn dân,” tôi đáp lời.</p>
 
-“Anh đang lảng tránh đấy.”
+<p class="para-en">As melodramatic as it was, it was important to all who had the tattoo. To us, that market’s secrecy was as sacred as greater recipes are to Chefs. As far as we knew, that market was the one place the Rare didn’t know about, that the king couldn’t touch. The king could usurp his God by halting trade in Tall Grass, but even he couldn’t bring his wrath down upon Black Spice.</p>
+<p class="para-vi-sub">Dù nghe có phần khoa trương sáo rỗng, điều đó lại mang ý nghĩa sống còn với bất cứ ai mang dấu ấn này. Đối với chúng tôi, sự bí mật của khu chợ thiêng liêng chẳng kém gì các Đại công thức ma thuật đối với các Đầu Bếp. Theo những gì chúng tôi biết, đây là nơi duy nhất mà tầng lớp Thượng Phẩm hoàn toàn mù tịt, và bàn tay của nhà vua cũng không tài nào vươn tới. Lão có thể đóng vai Thần linh bằng cách đình chỉ hoạt động giao thương ở Cánh Đồng Cỏ Cao, nhưng ngay cả lão cũng chẳng thể trút cơn thịnh nộ lên Chợ Gia Vị Hắc Ám.</p>
 
-  
+<p class="para-en">Black Spice Market thrived inside a derelict tenement building, the whole fourth floor gutted save its doorframes. Around those, produce crates and spice barrels rose halfway to the ceiling to create low walls for each stall. Dusk’s light slithered through the narrow gaps in the blocked-up windows, adding with a thousand candles to color the stalls turmeric, and from each stall came smells. Paprika, cayenne, chili powder. Cilantro, oregano, basil.</p>
+<p class="para-vi-sub">Chợ Gia Vị Hắc Ám hoạt động nhộn nhịp bên trong một khu nhà tập thể cũ nát hoang tàn, nơi toàn bộ tầng bốn đã bị dỡ bỏ hoàn toàn và chỉ còn trơ lại các khung cửa. Quanh những khung cửa ấy, các thùng gỗ đựng nông sản và gia vị được chất cao đến nửa trần nhà, tạo thành những bức vách thấp phân chia từng gian hàng. Ánh hoàng hôn len lỏi qua khe hẹp của những ô cửa sổ bị bịt kín, hòa cùng ánh sáng của hàng ngàn ngọn nến nhuộm vàng các sạp hàng như sắc nghệ, tỏa ra ngào ngạt muôn vàn hương thơm đặc trưng: ớt bột paprika, ớt bột cayenne, ớt khô nghiền nhỏ; rau mùi, lá kinh giới cay và cỏ xạ hương.</p>
 
-“Tại sao tôi phải nói dối về chuyện này, ngay cả trước khi chúng ta đi vào những cáo buộc chứ?”
+<p class="para-en">Breathing was tasting and sight was salivation. Despite its name, Black Spice was the most colorful place in Ranch, thanks to its wares and to the personalities who sold them.</p>
+<p class="para-vi-sub">Ở đây, chỉ hít thở thôi cũng là một sự thưởng thức, và chỉ cần ngắm nhìn cũng đủ khiến người ta ứa nước miếng. Bất chấp cái tên u tối của mình, Gia Vị Hắc Ám lại là nơi rực rỡ sắc màu nhất tại Ranch, nhờ vào sự phong phú của các mặt hàng lẫn nét cá tính độc đáo của những người bày bán chúng.</p>
 
-  
+<p class="para-en">In stark contrast to the chaos of Tall Grass, Black Spice was order incarnate. The first rule was given when you entered. Never tell anyone where you got your supplies. The rest were easier: No bartering. No stealing. No tasting without permission.</p>
+<p class="para-vi-sub">Trái ngược hoàn toàn với khung cảnh hỗn loạn ở Cánh Đồng Cỏ Cao, Chợ Gia Vị Hắc Ám lại là hiện thân của trật tự. Quy tắc đầu tiên được quán triệt ngay khoảnh khắc bạn đặt chân vào: Tuyệt đối không được tiết lộ cho bất kỳ ai biết bạn lấy nguồn hàng từ đâu. Những quy tắc còn lại thì đơn giản hơn: Không mặc cả. Không trộm cắp. Không nếm thử khi chưa được sự cho phép.</p>
 
-Lưu Trữ Viên khịt mũi: “Anh chỉ là một tượng đài được dựng lên bằng những lời tuyên truyền. Cả tôi và anh đều biết rõ anh vẫn giữ khư khư miếng thịt đã trộm được. Anh có thể giả vờ rằng mình bám theo nó đến Cánh Đồng Cỏ Cao, nhưng tôi chưa bao giờ tìm thấy bằng chứng nào cho thấy anh từng đặt chân đến Khu Thứ Phẩm Số 1. Các nhân chứng chỉ nhớ đã thấy anh xuất hiện tại Cánh Đồng Cỏ Cao. Chỉ duy nhất ở đó mà thôi. Điều này khiến người ta không khỏi hoài nghi liệu đó có phải là toan tính ngay từ đầu của anh hay không.”
+<p class="para-en">Rushed as I was to get rid of the evidence, I walked the hall as slowly as I would hallowed ground. For all the learning I did in my mothers’ kitchen, I became a cook here. When I was six, Halapen taught me the capsaicin scale. At eight, Old Man Banan explained the difference between kebab and satay. At ten, Cinna tested me on kitchen measurements in exchange for sweets.</p>
+<p class="para-vi-sub">Dù đang nóng lòng phi tang chứng cứ, tôi vẫn cất bước chậm rãi dọc theo hành lang như thể đang sải bước trên vùng đất thánh. Dù đã học hỏi được bao điều trong gian bếp của hai người mẹ, nhưng chính nơi đây mới là nơi tôi thực sự tôi luyện để trở thành một đầu bếp. Năm tôi lên sáu, Halapen đã dạy tôi về thang độ cay capsaicin. Tám tuổi, Lão Banan giảng giải cho tôi sự khác biệt giữa thịt xiên nướng kebab và satay. Mười tuổi, Cinna kiểm tra kiến thức của tôi về các đơn vị đo lường làm bếp để đổi lấy những viên kẹo ngọt.</p>
 
-  
+<p class="para-en">That night, I needed Crooked Rish, a man that took what he was—a crag of a man, all elbows, knees, and sharp angles—and made it a moniker first and a profession second. As a child, he’d fallen from Common-4’s third floor and struck his back against a cart. By sheer luck, he’d survived, but his injury left him forever bent sideways and forward, requiring a wheelchair to move. To the bigoted Rare, he was unsightly, never worth attention. That made him lethal.</p>
+<p class="para-vi-sub">Đêm đó, tôi cần tìm Crooked Rish, người đàn ông đã lấy chính vóc dáng dị thường của mình, một thân hình gầy guộc gập ghềnh toàn khuỷu tay, đầu gối cùng những góc cạnh sắc nhọn, để biến thành biệt danh trước cả khi gây dựng nghề nghiệp. Thuở nhỏ, ông từng ngã từ tầng ba của Khu Thứ Phẩm Số 4 xuống một chiếc xe kéo. Nhờ may mắn hy hữu, ông giữ được mạng sống, nhưng cú va chạm khiến sống lưng vĩnh viễn vẹo sang một bên và còng gập về phía trước, buộc ông phải gắn đời mình với chiếc xe lăn. Đối với đám Thượng Phẩm hẹp hòi, ông chỉ là một kẻ tàn tật chướng mắt, chẳng đáng bận tâm. Thế nhưng, chính sự xem thường ấy lại khiến ông trở nên vô cùng nguy hiểm.</p>
 
-“Đừng có lên giọng nói về sự dối trá. Đừng nhắm vào tôi, nhất là sau tất cả những gì cô đã làm.”
+<p class="para-en">“Pappy, baby!” he shouted as I approached, handing me a candied lemon wedge. “What brings you to the most crooked stall in Black Spice?”</p>
+<p class="para-vi-sub">“Pappy cưng ơi!” Ông reo lên khi tôi tiến lại gần, tay chìa ra một lát chanh ngâm đường. “Cơn gió nào đưa cháu đến quầy hàng xiêu vẹo nhất Chợ Gia Vị Hắc Ám thế này?”</p>
 
-  
+<p class="para-en">He always spoke like that, ridiculously and dramatically. I loved him for it.</p>
+<p class="para-vi-sub">Lúc nào ông cũng nói chuyện bằng cái giọng điệu vừa lố bịch vừa đậm kịch tính như thế. Nhưng tôi quý ông cũng chính vì điều ấy.</p>
 
-Vốn là người không bao giờ dễ dàng sập bẫy khiêu khích, Lưu Trữ Viên lấy lại vẻ bình thản rồi đưa mắt nhìn xuống cuốn sách. “Theo những gì sử sách của tôi ghi chép, quân kháng chiến đã lùa con quái thú về phía hoàng cung hòng phá hủy nơi đó, nhưng đường đi của nó lại chệch hướng qua Cánh Đồng Cỏ Cao, đâm sầm vào cả một trung đội Lính Mổ Xẻ. Anh có thừa nhận điều đó không?”
+<p class="para-en">And his stall was crooked. Literally. The wooden door was intentionally slanted so he could pull a tarp closed at a moment’s notice. When I gave him “the look,” he raised a hand to do exactly that, leaving us in a private pocket of a secret market.</p>
+<p class="para-vi-sub">Quầy hàng của ông đúng là xiêu vẹo thật, theo nghĩa đen trần trụi nhất. Cánh cửa gỗ được cố ý dựng nghiêng để ông có thể kéo bạt che kín lại chỉ trong chớp mắt. Khi tôi trao cho ông ánh mắt ngầm hiểu quen thuộc, ông liền giơ tay làm đúng như vậy, nhốt hai chúng tôi vào một khoảng không gian riêng tư giữa lòng khu chợ ngầm bí mật.</p>
 
-  
+<p class="para-en">When I produced my shank strips, he didn’t show surprise or reproach me for doing something illegal. He simply wheeled forward and gave one a tentative lick. “You’re a butcher in earnest, now, eh? I can give you three hundred gold knuckles, but no more. This is a lot to relocate even for Crooked Rish. Especially with these attacks.”</p>
+<p class="para-vi-sub">Khi tôi lấy ra những dải thịt bắp bò, ông không hề tỏ ra kinh ngạc hay trách mắng tôi vì đã làm một việc phạm pháp. Ông chỉ đơn giản lăn xe về phía trước rồi cẩn trọng nếm thử một miếng. “Bây giờ cháu thực sự trở thành thợ đồ tể rồi đấy hả? Chú có thể trả cho cháu ba trăm đồng vàng knuckle, nhưng không thể hơn được đâu. Chừng này thịt là quá nhiều để tuồn đi, ngay cả với Crooked Rish này. Nhất là giữa lúc các vụ tấn công dạo gần đây liên tục nổ ra.”</p>
 
-Vẫn như mọi khi, Đồ Tể chỉ nhún vai rồi tiếp tục câu chuyện của mình; dù thực hư ra sao, Lưu Trữ Viên chắc chắn cũng sẽ tìm ra câu trả lời.
+<p class="para-en">It was more wealth than I’d ever had—almost a year of indenture—but I was sullen to part with the meat. I wanted to cook, to find that flavor dancing ahead of my grasp. “I’ll take it.”</p>
+<p class="para-vi-sub">Đó là số tiền lớn hơn bất kỳ khoản nào tôi từng sở hữu, tương đương gần một năm lao dịch chuộc thân, nhưng tôi vẫn thấy tiếc nuối khi phải rời tay khỏi tảng thịt. Tôi khao khát được nấu nướng, muốn tìm lại hương vị đang nhảy múa ngay trước tầm với của mình. “Cháu đồng ý bán.”</p>
 
-  
+<p class="para-en">With the transaction complete, he pulled a string behind the wood counter and the flap opened the stall to everyone.</p>
+<p class="para-vi-sub">Giao dịch hoàn tất, ông giật một sợi dây phía sau quầy gỗ, tấm bạt được kéo lên, mở toang sạp hàng ra trước mắt mọi người.</p>
 
-Khi tôi đến Cánh Đồng Cỏ Cao, hàng chục người đang giao tranh ác liệt trên những cỗ xe ngựa bốc cháy ngùn ngụt giữa làn khói mù mịt. Dấu vết tàn phá hằn sâu khắp chiến trường khi Bessa giày xéo qua khu chợ. Tôi không nán lại mà cắm đầu chạy thẳng về phía Chợ Gia Vị Hắc Ám. Crooked Rish đang thận trọng bước xuống cầu thang khi tôi lao tới. Cinna và Lão Banan đang khiêng chiếc xe lăn, còn Rish thì chậm rãi nhích từng bậc một. “Pappy? Gió nào đưa cháu đến đây vào lúc này thế?” Ngay cả trong hoàn cảnh ấy, ông vẫn cố chìa ra cho tôi một quả chanh ngâm đường.
+<p class="para-en">“How are your moms?” he asked, flowing right back into conversation as if nothing had happened.</p>
+<p class="para-vi-sub">“Hai người mẹ của cháu dạo này thế nào?” Ông hỏi, tự nhiên quay trở lại câu chuyện thường nhật như thể chưa từng có thương vụ mờ ám nào vừa diễn ra.</p>
 
-  
+<p class="para-en">“Nervous about the increased rebel activity,” I said, “but good.”</p>
+<p class="para-vi-sub">“Họ hơi lo lắng trước những động thái ngày một gia tăng của phe phiến quân,” tôi đáp, “nhưng cả hai vẫn khỏe.”</p>
 
-“Cháu đến tìm chú,” tôi thở dốc. “Chú có sao không?”
+<p class="para-en">He double-tapped his chair arm. “Give Sesa my best.”</p>
+<p class="para-vi-sub">Ông gõ nhẹ hai lần lên tay vịn xe lăn. “Cho chú gửi lời hỏi thăm Mẹ Sesa nhé.”</p>
 
-  
+<p class="para-en">For the hundredth time, I played into our little ritual. “But not Asabi?”</p>
+<p class="para-vi-sub">Lần thứ hàng trăm, tôi tiếp tục hưởng ứng nghi thức quen thuộc giữa hai chúng tôi. “Thế còn Má Asabi thì sao?”</p>
 
-“Chú ổn, nhưng ở đây không an toàn đâu.”
+<p class="para-en">“Never.” He winked.</p>
+<p class="para-vi-sub">“Không đời nào.” Ông nháy mắt.</p>
 
-  
+<p class="para-en">It was like that with everyone. Black Spice was my community, my place of self-care and confidence, my people. Starving good people who cared about your mother’s sister’s brother’s uncle way out in Plateaubrugh’s pepper fields.</p>
+<p class="para-vi-sub">Ở chốn này, ai đối với ai cũng đều như vậy cả. Chợ Gia Vị Hắc Ám là cộng đồng của tôi, là nơi tôi tìm thấy sự chở che và lòng tin cậy, là chốn thuộc về những con người của tôi. Những con người tử tế đang mấp mé bên bờ vực chết đói, nhưng vẫn luôn bận lòng hỏi han đến tận người chú của người anh em của người chị em bên họ ngoại nhà bạn, tuốt tận những cánh đồng ớt xa xôi ngoài Cao nguyên Fen.</p>
 
-“Còn ai ở trên đó nữa không?”
+<p class="para-en">As I turned to leave, Rish caught my sleeve and pulled me back in closer. “And Pappy. Something is stewing, eh? Keep your nose up.”</p>
+<p class="para-vi-sub">Khi tôi quay người bước đi, Rish níu lấy tay áo tôi kéo giật lại. “Này Pappy. Có điều gì đó đang âm ỉ nhen nhóm đấy. Hãy giữ cho cái mũi của cháu luôn thật thính.”</p>
 
-  
+<p class="para-en">I thought he meant the rebel attacks until I followed his gaze to the one stall rarely filled. Not because there wasn’t a handful of merchants that wouldn’t have filled it, but because it belonged to a traveling merchant named Ruda. She was away from Ranch more often than not, but the respect her stall had earned laid her claim to the space in iron. Nations could rise and fall, and Ruda would be allowed that spot. Just as no one could take Rish’s or Banan’s. A dozen people loaded boxes and crates into its space.</p>
+<p class="para-vi-sub">Tôi cứ ngỡ ông muốn ám chỉ các cuộc tấn công của phe phiến quân, cho đến khi dõi theo ánh nhìn của ông hướng về gian hàng duy nhất hiếm khi nào mở cửa. Không phải vì thiếu những thương nhân khao khát chen chân vào đó, mà bởi nơi ấy thuộc về một nữ thương buôn lữ hành tên là Ruda. Bà vắng bóng khỏi Ranch nhiều hơn là có mặt, nhưng uy tín mà gian hàng ấy tạo dựng đã khiến quyền sở hữu vị trí đó của bà vững chắc như bàn thạch. Các quốc gia có thể hưng thịnh rồi suy tàn, nhưng Ruda sẽ luôn giữ được góc sạp ấy. Cũng giống như việc không một ai có thể tước đoạt vị trí của Rish hay Banan. Lúc này, cả chục người đang tất bật khuân những thùng gỗ cùng các kiện hàng chất vào khoảng trống đó.</p>
 
-“Ruda,” Lão Banan lên tiếng, cùng lúc Rish buột miệng: “Không còn ai.”
+<p class="para-en">“She’s back?”</p>
+<p class="para-vi-sub">“Bà ấy quay lại rồi ư?”</p>
 
-  
+<p class="para-en">“Looks that way,” Rish replied. “After two years.”</p>
+<p class="para-vi-sub">“Có vẻ là vậy,” Rish đáp. “Sau hai năm trời biệt tăm.”</p>
 
-Lão Banan liếc nhìn Rish, nhưng tôi đã vội vã lách người qua họ.
+<p class="para-en">I had only just received permission to enter Black Spice alone then, and I couldn’t afford to think about her stall, let alone shop there. She trafficked in spices from countries we were forbidden to know existed. Her cart had crossed the deserts of the south, entered and exited the jungle mountains riddled with the deadly badgeboar emphon to the west, and gone farther north through rebel territory than anyone else who lived.</p>
+<p class="para-vi-sub">Khi bà rời đi, tôi mới chỉ vừa được phép một mình bước chân vào Chợ Gia Vị Hắc Ám, và bản thân thậm chí còn chẳng dám mơ tưởng đến gian hàng của bà, nói chi đến chuyện mua sắm tại đó. Bà buôn bán những loại gia vị đến từ các xứ sở mà những kẻ như chúng tôi còn bị cấm không được phép biết đến sự tồn tại. Cỗ xe của bà từng băng qua những sa mạc phương nam, ra vào những rặng rừng rậm bạt ngàn loài quái thú lợn lòi badgeboar Emphon chết chóc ở phía tây, và tiến sâu về phương bắc qua lãnh địa phiến quân hơn bất kỳ người sống sót nào từng làm được.</p>
 
-  
+<p class="para-en">“How long until she’s open?”</p>
+<p class="para-vi-sub">“Bao lâu nữa thì bà ấy mở quầy?”</p>
 
-Chợ Gia Vị Hắc Ám hoàn toàn vắng bóng khách hàng. Rõ ràng toàn bộ giới thương nhân đều đã vội vã bỏ lại sạp hàng, chẳng buồn màng tới việc bảo vệ của cải trước những kẻ hôi của (điều mà chẳng người Thứ Phẩm nào thèm làm). Thế nhưng, vẫn có một người đứng chôn chân tại quầy hàng của mình. Giống như tôi, Ruda sở hữu mái tóc, làn da cùng đôi mắt màu nâu, những nét đặc trưng giúp bà dễ dàng hòa lẫn vào dòng người ở Ranch cũng như phần còn lại của Vương quốc Panchon, dù bà vốn đến từ Semoli, một trong những xứ láng giềng của chúng tôi. Tôi thầm ngưỡng mộ những hình xăm quái thú Emphon đầy màu sắc trên cánh tay bà: hai con quái thú bò mộng Emphon, một con quái thú lợn lòi badgeboar Emphon, một quái long Drakephon, cùng những sinh vật huyền bí khác mà tôi chỉ biết lõm bõm qua kinh sách tôn giáo. Nhưng hơn cả, tôi ghen tị với quá khứ phong trần đầy bí ẩn của bà dưới danh nghĩa một thương nhân, chuyến hành trình buôn bán đã đưa bà chu du khắp cùng trời cuối đất.
+<p class="para-en">“Some things even Crooked Rish does not know,” he answered, a hint of bitterness in his tone. “They arrived but an hour ago with her seal and order, but no sign yet. It smells wrong.”</p>
+<p class="para-vi-sub">“Có những điều ngay cả Crooked Rish này cũng chịu,” ông đáp, giọng thoáng chút cay đắng. “Bọn họ mới tới cách đây một giờ cùng con dấu và lệnh xuất hàng của bà ấy, nhưng bóng dáng Ruda thì vẫn bặt tăm. Mùi này nghe chừng không ổn chút nào.”</p>
 
-  
+<p class="para-en">“I’ll be back in a day or so,” I decided. “If Ruda pops up, don’t let me miss her, yeah?”</p>
+<p class="para-vi-sub">“Một hai ngày nữa cháu sẽ quay lại,” tôi quyết định. “Nếu Ruda xuất hiện, chú nhớ giữ chân bà ấy giúp cháu đấy.”</p>
 
-“Ánh mắt của ngươi trông quen lắm,” người phụ nữ cất tiếng nhận xét khi bước chân tôi chậm lại. Bà chẳng hề nhúc nhích khỏi chiếc ghế đặt giữa gian hàng, cũng không buồn nhấc đôi ủng đang gác trên chiếc hòm gỗ xuống.
+<p class="para-en">Rish tilted his head sideways. “Eager to buy?”</p>
+<p class="para-vi-sub">Rish nghiêng đầu sang một bên: “Háo hức mua sắm đến thế cơ à?”</p>
 
-  
+<p class="para-en">I lowered my voice. “There’s this… flavor I can feel. It’s… I don’t know how to explain. It’s when I smell the emph—meat,” I self-corrected, “I can feel it daring me to make it.”</p>
+<p class="para-vi-sub">Tôi hạ thấp giọng: “Có một... hương vị mà cháu có thể cảm nhận được. Nó... cháu chẳng biết phải giải thích thế nào nữa. Cứ mỗi khi ngửi thấy mùi thịt quái thú Emph... mùi thịt,” tôi vội sửa lời, “cháu lại cảm thấy như nó đang thách thức cháu chế biến nên món ăn đó.”</p>
 
-“Chúng ta chưa từng gặp nhau,” tôi đáp, thoáng chút ngỡ ngàng, nhưng vẫn kịp nhớ lại phép tắc lịch sự mà rút từ túi đồ chào hỏi ra một hạt hạnh nhân ướp gia vị đưa về phía bà. “Lần trước tôi có thấy bà, nhưng chỉ nhìn từ đằng xa. Tôi là Paprick, chúng ta phải rời khỏi đây ngay trước khi Be... con bò mộng ấy san phẳng tòa nhà này.”
+<p class="para-en">“And you think Ruda can help with this?”</p>
+<p class="para-vi-sub">“Và nhóc nghĩ Ruda có thể giúp được việc này sao?”</p>
 
-  
+<p class="para-en">“I don’t know,” I said truthfully. “This taste, this thing I’m feeling, it’s different than things I’ve had. Sweet in its spiciness, but nutty and citrussy hints to it?” I shrugged. “I sound raving.”</p>
+<p class="para-vi-sub">“Cháu không biết,” tôi thành thật thú nhận. “Mùi vị này, thứ cảm giác cháu đang cảm nhận được, nó khác hẳn những gì cháu từng ăn trước đây. Vừa ngọt ngào trong vị cay nồng, lại vừa phảng phất chút bùi béo cùng hương vị thanh nhẹ của quả mọng có múi?” Tôi nhún vai. “Nghe cháu nói cứ như một kẻ mê sảng ấy nhỉ.”</p>
 
-Bà ngoắc ngoắc ngón tay rồi chỉ thẳng vào mắt tôi, hoàn toàn phớt lờ hạt hạnh nhân. “Không, không. Không phải chuyện đó.” Giọng nói của bà chậm rãi tựa dòng mật ngọt đang chảy, trái ngược hoàn toàn với nỗi gấp gáp đang bủa vây lấy tôi. “Cái chết,” bà phán. “Nó đang bám chặt lấy đôi mắt ngươi.”
+<p class="para-en">He turned me about, looking at me seriously. “There are stories, Pappy, of those who invented greaters, back when it was allowed. A feeling on their tongue like you describe. I know of no spice like that, and I know most. Like cumin but not, eh?” He eyed me closely. “Yes, if someone is to have it, it is Ruda. I will ask if you cannot.”</p>
+<p class="para-vi-sub">Ông xoay người tôi lại, nhìn tôi bằng ánh mắt nghiêm túc: “Có những câu chuyện truyền lại đấy, Pappy à, về những người từng sáng tạo ra các Đại công thức ma thuật vào cái thuở việc đó còn được cho phép. Một cảm giác trên đầu lưỡi đúng hệt như lời nhóc vừa miêu tả. Chú chưa từng biết loại gia vị nào như thế, mà chú thì rành rẽ hầu hết mọi loại trên đời rồi. Tựa như thì là Ai Cập nhưng lại chẳng phải, đúng chứ?” Ông chăm chú quan sát tôi. “Đúng vậy, nếu có ai sở hữu được thứ đó, thì chỉ có thể là Ruda. Chú sẽ hỏi giúp nếu cháu không tiện mở lời.”</p>
 
-  
+<p class="para-en">“Thank you, Rish. You’re a good friend.”</p>
+<p class="para-vi-sub">“Cảm ơn chú, Rish. Chú đúng là một người bạn tốt.”</p>
 
-Tôi nhíu mày, bực bội: “Tôi vừa tận mắt chứng kiến cả ngàn người ngã xuống, nên đúng vậy, chắc chắn là thế rồi.”
+<p class="para-en">His smile faltered for a moment. Touched or displeased, I couldn’t tell. But it returned quickly. “I owe Sesa my life for rescuing me from that accursed wagon. Least I can do.”</p>
+<p class="para-vi-sub">Nụ cười của ông thoáng ngập ngừng trong giây lát. Cảm động hay phật ý, tôi cũng chẳng thể đoán nổi. Nhưng nét cười nhanh chóng trở lại trên gương mặt ông: “Chú nợ Sesa mạng sống này vì bà ấy đã cứu chú ra khỏi cỗ xe chết tiệt đó. Đây là điều tối thiểu chú có thể làm.”</p>
 
-  
+<p class="para-en">That night we returned to our regular staples: root vegetables, spiced to all hell so we could feel something, rice, and beans. I barely stomached it, thinking about Cori.</p>
+<p class="para-vi-sub">Tối hôm đó, chúng tôi quay trở lại với những món ăn đạm bạc thường nhật: các loại củ nêm nếm cay xé họng để chúng tôi còn cảm nhận được chút mùi vị, cùng với cơm và đậu. Tôi nuốt chẳng trôi nổi mấy miếng, tâm trí cứ quẩn quanh nghĩ về Cori.</p>
 
-Như thể ứng nghiệm lời báo trước, tòa nhà bỗng rung chuyển dữ dội, khiến lớp bụi bặm tích tụ cả thế kỷ trong gian phòng rào rào rơi rụng. Bụi trút xuống quanh chúng tôi tựa hồ lớp tàn tro vừa phủ kín Khu Thứ Phẩm Số 1.
+<p class="para-en">“Why not go to Common-5?” the archivist asks. “You knew Cori lived there from her surname.”</p>
+<p class="para-vi-sub">“Tại sao anh không đến Khu Thứ Phẩm Số 5?” Lưu Trữ Viên cất tiếng hỏi. “Nhìn vào họ của Cori là anh thừa biết cô ấy sống ở đó rồi mà.”</p>
 
-  
+<p class="para-en">“Maybe I was too scared to remember. What’re you after? Famines, you were there for most of this story.”</p>
+<p class="para-vi-sub">“Có lẽ vì tôi quá sợ hãi nên chẳng dám nhớ lại. Rốt cuộc cô muốn đào bới điều gì chứ? Mẹ kiếp, phần lớn câu chuyện này cô đều tận mắt chứng kiến cơ mà.”</p>
 
-“Đúng thế,” bà khẽ gật đầu đồng tình, chất giọng quá đỗi ung dung, lại quá đỗi... thỏa mãn. “Và điều đó đã dẫn ngươi đến tìm ta sao, Đôi Mắt Tử Thần?”
+<p class="para-en">“I want the truth.”</p>
+<p class="para-vi-sub">“Tôi muốn sự thật.”</p>
 
-  
+<p class="para-en">He snorts. “No, I think it’s the same as before. You want the Source, and you’ve heard I touched it. Tell me, old friend, do you think I touched it before you left? Is that why you’re here?”</p>
+<p class="para-vi-sub">Tôi khịt mũi: “Không, tôi nghĩ mọi chuyện vẫn như trước thôi. Cô muốn Cội Nguồn, và cô nghe nói tôi đã chạm vào nó. Nói tôi nghe xem, người bạn cũ, cô có nghĩ tôi đã chạm vào nó trước khi cô rời đi không? Có phải vì thế mà cô ở đây?”</p>
 
-“Tôi đến đây để giúp, để...” Câu nói của tôi khựng lại khi một làn hương đầy quyến rũ, vừa quen thuộc lại vừa xa lạ, bất ngờ níu giữ tâm trí tôi. Lướt mắt qua mớ hàng hóa của bà, cánh mũi tôi bắt được một mùi thơm ngọt ngào ẩn sau vị cay nồng, phảng phất chút bùi bùi của các loại hạt và nét tươi mát của cam chanh. Đó chính xác là hương vị tôi đã cất công tìm kiếm trong lúc trò chuyện với chú Rish. Bên cạnh những thùng gia vị xếp chồng chất là một chiếc túi chỉ nhỏ bằng lòng bàn tay, miệng túi mở he hé để lộ lớp bột màu nâu đỏ trầm ấm.
+<p class="para-en">“You’re delaying,” the archivist counters. “You think you can distract from the verdict of your guilt by pushing me? I’ll call a Defense Branch officer in here and have you whipped, Butcher.”</p>
+<p class="para-vi-sub">“Anh đang trì hoãn đấy,” Nữ Lưu Trữ Viên phản bác. “Anh nghĩ mình có thể đánh lạc hướng khỏi bản án tội lỗi bằng cách dồn ép tôi sao? Tôi sẽ gọi một sĩ quan của Cục Phòng vệ Sức bền vào đây và cho người quất roi anh đấy, Đồ Tể.”</p>
 
-  
+<p class="para-en">“Oh, my very own EDB carver? Is that a promise? Don’t tease me, scribbler.”</p>
+<p class="para-vi-sub">“Ồ, một Lính Mổ Xẻ của Cục Phòng vệ Sức bền dành riêng cho tôi sao? Liệu đó có phải là một lời hứa không? Đừng trêu tôi thế chứ, cô thợ viết.”</p>
 
-Ruda tặc lưỡi đầy ẩn ý khi dõi theo ánh mắt của tôi: “Mũi của ngươi thính đấy, Đôi Mắt Tử Thần.”
+<p class="para-en">“Enough with your games!”</p>
+<p class="para-vi-sub">“Đủ rồi với mấy trò đùa của anh!”</p>
 
-  
-
-“Đó là thứ gì vậy?”
-
-  
-
-Bà chậm rãi đứng dậy khỏi ghế rồi bước tới đối diện với tôi. Toàn thân bà tỏa ra mùi bụi đường quyện cùng hương mật ong, từng cử động đều cẩn trọng hệt như một con rắn đang cuộn mình.
-
-  
-
-“Ngôn ngữ của các ngươi không có tên gọi cho thứ này đâu,” bà đáp, dùng đầu ngón tay nhón lấy một ít bột rồi đưa lên cho tôi ngửi kỹ. “Hầu hết các ngôn ngữ đều không có. Ngươi sẽ gọi bộ rễ của một thân cây cao đến mức khiến những khu nhà tập thể của các ngươi trở nên bé nhỏ là gì? Một thân cây với những chiếc lá vươn chạm tới mặt trăng khi nở hoa dưới ánh trăng rằm?”
-
-  
-
-Cơn giận trong tôi tan biến. Dù đã quần quật làm việc suốt cả ngày dài, đã vắt chân lên cổ chạy hàng cây số, đã tận mắt chứng kiến quê hương mình bị tàn phá và cảm nhận cái chết của đồng bào mình, ấy vậy mà lúc này, tôi lại tràn trề sinh lực chỉ để được nếm thử hương vị ấy. Tôi đưa tay với lấy chiếc túi.
-
-  
-
-Ruda gạt phắt tay tôi ra: “Không, không được.”
-
-  
-
-“Bao nhiêu tiền?” Tôi rút túi đựng những đồng vàng knuckle ra.
-
-  
-
-“Thứ này không bán.”
-
-  
-
-“Vậy thì sao bà lại bày nó ra?” Tôi bực bội gắt lên. “Bà nán lại đây làm gì nếu không phải để bán hàng?”
-
-  
-
-Dù đã quá thuần thục vẻ bí ẩn của một thương buôn, bà vẫn giật mình trước cơn bộc phát của tôi. Nhưng rồi bà nhanh chóng lấy lại vẻ tự chủ, ánh mắt chuyển sang hằn học. Tất cả diễn ra ngay khoảnh khắc tôi chới với đưa tay về phía chiếc túi.
-
-  
-
-“*Paprick!*” Lão Banan khóa chặt cổ tay tôi rồi giật mạnh, ép tôi phải quay lại nhìn ông. “Ở đây chúng ta không hành xử kiểu đó.”
-
-  
-
-Crooked Rish chau mày ở phía sau. Liệu họ có quay lại để kiểm tra tôi không? Tôi cảm thấy như bị phản bội và quở trách, như thể cả thế giới đang chống lại mình. Tôi giật tay ra khỏi cái nắm của Lão Banan như một đứa trẻ bị bắt quả tang đang thò tay vào lọ ăn trộm bánh quy.
-
-  
-
-“Cháu bị cái quái gì thế hả?” Ông gặng hỏi. “Con trai của Sesa không được phép hành xử như vậy.”
-
-  
-
-Tôi không cố ý xô ông mạnh đến thế, nhưng lời của ông đã châm ngòi cho một ngọn lửa bùng lên bên trong tôi: “Cũng chẳng có người Thứ Phẩm nào nên giương mắt nhìn một người Thứ Phẩm khác ngã xuống cả. Nhưng chúng ta vẫn đang trơ mắt ra đấy thôi, ông già.”
-
-  
-
-Lão Banan há hốc mồm kinh ngạc. Tôi chưa bao giờ nói chuyện với ông bằng giọng điệu ấy. Khốn khiếp, tôi chỉ nhớ nổi một người duy nhất từng ăn nói với Lão Banan như thế, và người đó là người trong nhà. Nhưng tôi chẳng bận tâm nữa. Tôi quay phắt lại phía Ruda: “Tôi muốn thứ...”
-
-  
-
-Mảng tường gạch đổ sập xuống cùng một tiếng răng rắc dữ dội. Mọi thứ phía sau Ruda bị xé toạc khi Bessa đâm sầm qua một bên vách tòa nhà. Hàng hóa của bốn gian hàng đổ ập xuống mép vực vừa toác ra, cả sàn nhà nghiêng hẳn đi như một cây cầu bị đứt một bên mố. Ruda, chú Rish và Lão Banan ngã nhào xuống đất, đồ đạc trong hàng tá thùng gia vị đổ tung tóe khắp nơi. Thế nhưng tôi vẫn đứng vững nhờ đã quen giữ thăng bằng trên những giàn giáo đung đưa chông chênh.
-
-  
-
-Những tia nắng chiều tà muộn màng rọi qua đống đổ nát cùng một cơn gió thốc bụi gia vị tạt rát mặt tôi. Bên ngoài, trận chiến vẫn đang tiếp diễn ác liệt. Các chiến sĩ phiến quân vung những món vũ khí khổng lồ nhờ vào Sức bền ma thuật của mình, trong khi những người khác phóng sét, ném lửa, hoặc lướt đi với tốc độ khôn lường. Lính Mổ Xẻ chống trả bằng thứ sức mạnh quái dị của riêng chúng. Một ả đàn bà nhấc bổng cả cỗ xe ngựa ném thẳng vào quân phiến loạn. Kẻ khác chỉ việc giơ tay ra, điều khiển ngọn gió hất văng một chiến sĩ vào đống lửa trại. Bessa lồng lộn giữa mớ hỗn độn ấy, không một ai cản nổi.
-
-  
-
-Chẳng cần đắn đo, tôi chộp lấy chiếc túi từ gian hàng đổ nát của Ruda rồi trút vào lòng bàn tay một lượng nhiều hơn một nhúm nhưng chưa đầy một thìa cà phê. Bà lồm cồm bò dậy nhưng đã quá muộn. Trải qua bao phen đào tẩu và cưỡi thú, leo trèo lẫn hỗn loạn, tôi chỉ đánh mất một trong ba dẻ sườn của Bessa mà mình lấy được. Tôi chà xát thứ gia vị màu đỏ đất không tên ấy vào hai dẻ sườn còn lại.
-
-  
-
-Một tay Ruda giằng lấy túi gia vị cùng túi đồng vàng knuckle của tôi, tay kia giáng một cái tát trời giáng vào mặt tôi. Tôi lảo đảo lùi lại.
-
-  
-
-“Gian hàng của bà kìa!” Chú Rish hét lên khi rướn người trên chiếc xe lăn.
-
-  
-
-Bà quay lại đúng lúc một cây nến đổ làm bén lửa vào một chiếc thùng gỗ. Quên bẵng mất tôi, bà vơ lấy một tấm biểu ngữ để dập lửa. Lão Banan và chú Rish cũng xúm vào giúp bà, bỏ mặc tôi đứng trơ trọi với những dẻ sườn trên tay.
-
-  
-
-Hàng tá đám cháy nhỏ bùng lên từ những tàn tích của khu chợ khi có thêm nhiều cây nến bị đổ. Khói đặc tràn ngập Chợ Gia Vị Hắc Ám, mang theo mùi gỗ táo và tro tàn. Mùi khét lẹt đặc trưng tựa như lớp váng khói bám trên chảo gang, một thứ hương vị độc nhất không gì sánh nổi. Miệng tôi ứa nước miếng, tâm trí vẫn vương vấn thứ phong vị xa lạ của loại gia vị không tên kia.
-
-  
-
-Mùi gỗ táo đánh thức một ký ức trong tôi: Chú Macen đang nướng bánh taco nấm trên đốm lửa củi táo. Lớp bột gia vị mơn trớn nơi đầu lưỡi: ớt, hành, tỏi. Sắc đỏ rực của bột ớt paprika. Sự gia cường ma thuật từ muối và tiêu. Vị chua thanh kích thích của chanh. Và rồi cả thì là nữa, làm đậm đà thêm phong vị nồng ấm của đất. Tôi ngỡ như mình có thể ngửi thấy mùi những chiếc bánh taco ấy phảng phất trong không gian. Miếng thịt như reo ca trên đầu ngón tay tôi, phập phồng theo từng nhịp tim đập mạnh mẽ của Bessa, khát khao thứ phong vị ấy.
-
-  
-
-Tôi va phải một thùng ớt bột paprika. Vừa bốc từng nhúm gia vị từ thùng này sang thùng khác, tôi vừa nhào trộn chúng thành một hỗn hợp gia vị ướp khô ngay trong lòng bàn tay. Cuối cùng, tôi tiến đến thùng thì là, nhớ lại công thức gia giảm của Chú Macen, nhưng khi ngửi thấy mùi của nó bên cạnh thứ bột không tên kia, tôi không tài nào chịu nổi ý nghĩ phải trộn hai thứ này lại với nhau.
-
-  
-
-Tôi chuyển sang muối, và hỗn hợp ướp trên tay lập tức tỏa ra mùi hương gợi nhắc đến chất giọng trầm ấm, nồng hậu của chú, cùng nụ cười của đứa em họ thuở còn ẵm ngửa. Tôi với tay về phía chiếc thùng cuối cùng: bánh ngô tortilla. Thế nhưng một cây cột nứt toác ra, rồi sàn nhà đổ sụp xuống ngay dưới chân tôi.
-
-  
-
-Tôi rụt rè nếm thử một mẩu thịt sườn. Tạ ơn trời đất vì tôi đã không cho thì là vào. Bánh taco nấm cần vị nồng ấm của đất từ nấm để tạo độ cân bằng, nhưng quái thú bò mộng Emphon lại không có tầng hương nền đó. Thịt của nó đòi hỏi một thứ gì đó đậm đà hơn. Loại gia vị mới này cũng mang phong vị nồng ấm của đất như thì là, nhưng lại sâu lắng hơn và độc đáo theo cách riêng. Vị ngon lan tỏa khắp đầu lưỡi, gần như đã đạt tới độ hoàn hảo. Lồng ngực tôi phập phồng trong nỗi mong chờ khôn xiết. Vẫn còn thiếu một thứ nữa.
-
-  
-
-Một chút nước cốt chanh tươi mát.
-
-  
-
-Chú Rish cố gắng lôi tôi ra ngoài. Lửa bốc lên hừng hực quanh chúng tôi, đến cả những mảng bê tông cũng bắt đầu loang lổ vết muội than. “Phổi của cháu không chịu nổi thêm nữa đâu, Pappy!” Ông nài nỉ, nhưng những lời ấy chỉ lướt qua tâm trí tôi như bột lọt qua rây. Ông cùng Lão Banan và Ruda nán lại thêm chốc lát, trước khi Lão Banan ho sặc sụa đến mức suýt ngã quỵ.
-
-  
-
-Ruda rít lên một tiếng nguyền rủa: “Tôi không ở lại đây để chết chùm với hắn đâu!”
-
-  
-
-“Bảo trọng nhé, Pappy,” chú Rish nói rồi quay lưng bước đi. Tôi gần như chẳng còn nghe thấy tiếng ông nữa.
-
-  
-
-*Những phong vị lởn vởn trong tâm trí tôi như men bia rẻ tiền, chuốc say mọi giác quan và thì thầm lời hứa hẹn về một nguồn sức mạnh vô song.* Trong cơn mê muội mông lung, tôi tìm thấy một quả chanh dập đã vắt dở, rồi bóp nốt những giọt nước cốt còn sót lại lên miếng thịt. Vài hạt gia vị bị dòng nước chanh cuốn trôi, nhưng cảm giác cận kề thắng lợi vẫn vẹn nguyên trong tôi. Cảm giác ấy giống hệt như khoảnh khắc mùi bánh mì nướng cùng hương súp nóng hổi quyện hòa vào nhau trong gió. Tôi đã ở rất gần đích đến rồi.
-
-  
-
-Tôi chỉ cần nướng chín nó nữa thôi.
-
-  
-
-Những ngọn lửa trần nhảy múa tứ phía quanh tôi, nhưng tôi cần tìm cách kiểm soát mức độ tiếp xúc với lửa của cả miếng thịt lẫn bản thân mình. Trước đó, tôi đã tuột nửa trên của bộ đồ da thợ mổ xuống để dễ bề chạy qua đây, để chúng lòng thòng như chiếc quần yếm, nhưng giờ tôi kéo áo lên lại, che kín hai cánh tay ướt đẫm mồ hôi.
-
-  
-
-Gian hàng của Lão Banan có tên Ngọn Thương và Bạc Hà vẫn còn tương đối nguyên vẹn ở gần lối ra vào, dẫu một vòng lửa đang bủa vây lấy nó. Được lớp áo da thợ mổ che chở, tôi lao mình qua biển lửa, bình an vô sự ngoại trừ làn khói cay xè xộc thẳng vào lồng ngực. Những chiếc que xiên nằm la liệt, cháy âm ỉ dưới mặt đất, nhưng tất cả đều quá ngắn. Cầm vào chúng lúc này đồng nghĩa với việc đôi găng tay sẽ bén lửa bùng cháy.
-
-  
-
-Đáng lẽ tôi phải ngăn chặn cơn điên loạn đó lại. Thế nhưng cứ chốc chốc, Bessa lại gầm lên. Đã bao lâu trôi qua rồi nhỉ, một tiếng, hay lâu hơn thế, kể từ khi nó xổng chuồng? Làm sao người ta có thể để mặc nó lồng lộn điên cuồng như thế chứ? Phải có ai đó quây bắt nó lại. Sao người đó không thể là tôi? Điều đó ngỡ như bất khả thi, nhưng trong tay tôi lúc này là thịt của quái thú bò mộng Emphon, đồng nghĩa với Sức bền ma thuật và quyền năng tột bậc. Có lẽ chừng ấy là đủ để tôi tìm cách quật ngã nó xuống đất, ngăn không cho nó làm tổn thương chính mình hay bất kỳ ai khác.
-
-  
-
-Tôi xiên cả hai miếng thịt sườn quái thú bò mộng Emphon đã tẩm ướp vào que, rồi tìm thấy một chiếc thùng đang bùng cháy thành cột lửa rực sáng. Mùi hương bốc lên từ ngọn lửa tựa như thỏi nam châm hút chặt lấy tôi.
-
-  
-
-Đôi tay nôn nóng đưa xiên thịt quái thú bò mộng Emphon vào ngọn lửa. Tôi suýt ngất lịm đi trước tiếng xèo xèo lách tách của miếng thịt bắt đầu xém cạnh. Một luồng gió xoáy cuộn quanh tôi, thổi bạt làn khói đen đi và để lại hương thơm ngào ngạt đến nghẹt thở. Đầu gối tôi mềm nhũn. Miệng tôi ứa đầy nước miếng. Và đôi bàn tay tôi bắt đầu bốc cháy.
-
-  
-
-Lớp da thuộc tan chảy, co quắt lại rồi bám chặt vào lòng bàn tay tôi chỉ sau một phút đầu tiên. Những vết phồng rộp nứt toác trên các ngón tay, khiến hai bàn tay tôi run rẩy dữ dội vượt quá ngưỡng chịu đựng. Đáng lẽ mùi của xiên thịt phải bị lấn át bởi mùi găng tay cháy thành tro và mùi da thịt khét lẹt, nhưng hương thơm tỏa ra lại tươi mát tựa làn hương chanh vương vấn trong không khí, say đắm lòng người như thứ rượu vang hảo hạng nhất.
-
-  
-
-Tôi không nướng lâu. Chỉ ba phút, hoặc có lẽ là bốn phút. Tôi thậm chí còn chẳng nhớ nổi mình có xoay trở xiên thịt hay không.
-
-  
-
-Cơn đau đớn tột cùng khiến tôi nửa mê nửa tỉnh. Tôi rụt tay lại để nhìn phần thịt đang run rẩy cùng lớp da cháy đen. Thế nhưng, trong tôi không hề có chút sợ hãi. *Tôi biết rõ miếng thịt này sẽ cứu rỗi mình.*
-
-  
-
-Tôi từng trông đợi một sự bùng nổ hương vị dữ dội, nhưng thay vào đó lại là một khúc ca opera tinh tế bằng thứ ngôn ngữ tôi chưa từng được biết. Từng nụ vị giác như biến thành sàn diễn cho vũ điệu ba lê của hương cam chanh và vị chua thanh khiết. Vị cay nồng không hề cắn xé hay khiến người ta rơi lệ, nó chỉ râm ran trên môi tôi như tiếng ong rỉ rả. Vị béo ngậy cùng sắc thái mằn mặn ngòn ngọt phủ kín cuống lưỡi khi làn nước thịt ứa ra ngập tràn dưới chân răng. Một dư vị sâu lắng đọng lại khi tôi nuốt xuống: làn khói mờ ảo của một thành phố đổ nát, đang cất lời vĩnh biệt sau cùng.
-
-  
-
-Sức bền ma thuật va mạnh vào hai lá phổi, làm vỡ tung các mạch máu trong mắt tôi. Cơn đau nơi bàn tay biến thành một cơn rung chấn dữ dội rồi chuyển hóa thành sức mạnh cuồn cuộn của những thớ cơ đang tái sinh. Nỗi sợ hãi, niềm đau buồn cùng sự âu lo đều tan biến sạch trơn khỏi tâm trí, chỉ để lại trong tôi một thôi thúc duy nhất: ăn.
-
-  
-
-*Nó mãnh liệt gấp ngàn lần món súp. Tôi cảm thấy bản thân trở nên bất biến, bất tử và không gì có thể đánh bại.* Trong khi đó, tôi còn chưa kịp ăn đến miếng thứ hai.
-
-  
-
-Tôi giật phắt miếng thịt khỏi que xiên một cách dữ dội. Ngay khoảnh khắc nuốt trọn, đôi chân đã đưa tôi lao qua biển lửa, tiến thẳng ra rìa của tòa nhà đã bị xé toạc.
-
-  
-
-Trận chiến tại Cánh Đồng Cỏ Cao vẫn tiếp diễn khốc liệt. Quân phiến loạn và Lính Mổ Xẻ giao tranh dữ dội. Bessa lồng lộn tàn phá. Lửa đỏ ngút trời khắp muôn nơi.
-
-  
-
-Một cơn quặn thắt tựa nỗi đói cào xé ruột gan bất thần giáng thẳng vào bụng, quật ngã tôi quỳ rạp xuống bằng cả hai tay hai chân. Cơn đau đớn chưa từng trải qua trong đời bùng cháy dữ dội trong từng khúc xương. Ý thức tỉnh táo còn sót lại dán chặt vào ngọn lửa đang gầm thét trong cơ thể, trong tận tủy xương, và tôi không thể tưởng tượng nổi một cái chết nào tồi tệ hơn thế. Người ta đồn rằng nuốt phải thịt Emphon kém chất lượng có thể mất mạng. Nhưng tôi dám chắc mình không hề làm điều đó. Hương vị ban nãy rõ ràng là tuyệt mỹ khôn cùng.
-
-  
-
-Tòa nhà rung chuyển dữ dội bên dưới thân mình, và tôi trượt khỏi mép tường.
-
-  
-
-*Rơi tự do.*
-
-  
-
-Tôi nhắm nghiền mắt lại, tự rủa xả bản thân vì phải bỏ mạng vì một con số không vô nghĩa.
-
-  
-
-Thế nhưng, quãng đường rơi dường như ngắn hơn một nửa so với thực tế.
-
-  
-
-Tôi tiếp đất trong tư thế khum người, nhận ra một sức nặng khủng khiếp đang đè chặt lên hai chân mình, nhưng đồng thời cơ thể cũng được tiếp thêm một nguồn sức mạnh chưa từng cảm nhận trước đây. Đầu óc tôi quay mòng mòng khi mở mắt ra, đối mặt với một tầm nhìn hoàn toàn phi lý.
-
-  
-
-Tôi đã đáp xuống giữa một hố sâu hoắm. Hai bàn tay tôi chống giữa hai chân, đặt lên trên tàn tích bẹp dúm của một chiếc xe ngựa. Tôi nhấc bổng nó lên bằng một tay, sững sờ khi đứng thẳng dậy theo bản năng. Cỗ xe giờ đây chẳng khác nào một món đồ chơi nằm gọn trong lòng bàn tay tôi.
-
-  
-
-Khi tôi vươn thẳng người, bờ vai tôi đã ngang hàng với nóc của tòa nhà chung cư.
-
-  
-
-*Tôi đã cao tới hai mươi mét.*
-
-  
-
-**Món chuyển vị I
-Sự hoài nghi**
-
-  
-
-“Anh tưởng tôi là kẻ ngốc chắc?” Lưu Trữ Viên ngắt lời.
-
-  
-
-“Cô từng tận mắt thấy tôi trong trạng thái đó rồi mà,” tôi đáp, khẽ nghiêng đầu sang một bên.
-
-  
-
-“Sự hoài nghi của tôi không nằm ở chiều cao của anh. Tôi phản đối trình tự của các sự kiện, phản đối những sự trùng hợp ngẫu nhiên và mớ cảm xúc quá đỗi thuận tiện đã đưa anh tới cái gọi là phát hiện của mình. Chẳng lẽ tôi phải nhắm mắt làm ngơ trước việc anh không hề mảy may nghĩ đến hai người mẹ giữa toàn bộ mớ hỗn loạn đó sao? Má Asabi hẳn chỉ cách Xưởng của Nhà Vua có ba dãy nhà khi Bessa xổng chuồng. Anh không hề nghĩ đến bà ấy? Không lao ngay về Khu Thứ Phẩm Số 3 để xem hai người họ có an toàn hay không?”
-
-  
-
-Một tia giận dữ bùng lên, truyền thêm Sức bền ma thuật vào đôi mắt tôi, khiến chúng rực sáng trong bóng tối mịt mùng của phòng giam. “Nhịn đói đi, đồ châu chấu. Có thể tôi không muốn nhắc tới các mẹ của mình. Tôi không có nghĩa vụ phải giải thích nỗi đau của bản thân cho cô.”
-
-  
-
-“Được thôi, nhưng câu chuyện của anh lại bỏ qua việc tìm kiếm tàn tích, và cũng chẳng hề có hồ sơ nào ghi chép về việc Chú Macen Khu Thứ Phẩm Số 1 qua đời vào ngày hôm đó hay bất kỳ ngày nào sau đó. Hết điểm bất hợp lý này lại đến điểm bất hợp lý khác!”
-
-  
-
-“Chính cô là người đã đòi nghe câu chuyện này. Và chính cô cũng đã đem cả mạng sống của mình ra đặt cược vào tính chân thực của nó.”
-
-  
-
-“Và tôi phản đối những lời dối trá trắng trợn này!” Nữ Lưu Trữ Viên phải hét lên để át đi một tiếng nổ lớn vừa làm rung chuyển các ô cửa sổ bọc sắt. “Tôi sẽ không để bản thân bị lôi lên tận xà nhà chỉ để làm bàn đạp cho huyền thoại của anh đâu. Tôi muốn *sự thật*. Cội Nguồn đã truyền dạy Đại công thức ma thuật cho anh như thế nào?”
-
-  
-
-Tôi ngước đôi mắt vàng óng lên nhìn cô cùng một nụ cười: “Cô nghĩ mọi chuyện diễn ra như thế sao?”
-
-  
-
-“Anh muốn tôi tin rằng chỉ bằng cảm xúc và hương vị, đúng vào thời khắc then chốt đó, anh đã tự mình khám phá ra một Đại công thức mà hoàn toàn phớt lờ những tiếng thì thầm ư? Có phải Cội Nguồn đã trò chuyện với anh bằng cách nào đó, đúng không?”
-
-  
-
-Chậm rãi, tôi gượng người rời khỏi bức tường, bước lại gần những chấn song sắt đang ngăn cách mình với người viết tiểu sử. “Nói tiếp đi, rõ ràng cô đã dựng sẵn một giả thuyết cho mình rồi.”
-
-  
-
-“Tôi xin trích lại nguyên văn: ‘Các hương vị cuộn trào qua tâm trí tôi như thứ bia rẻ tiền, làm tê liệt mọi giác quan, thì thầm một lời hứa hẹn về sức mạnh.’” Nữ Lưu Trữ Viên gõ mạnh những đầu ngón tay lên từng trang sách.
-
-  
-
-“Chẳng có từ nào nhắc đến Cội Nguồn cả.” Nụ cười của tôi càng mở rộng hơn. “Đó hoàn toàn là bản năng.”
-
-  
-
-“Ai đã trao cho anh Đại công thức? Rish? Hay Ruda?”
-
-  
-
-Ánh mắt tôi lóe lên sự ghê tởm: “Cô ta nằm mơ đi.”
-
-  
-
-“Vậy thì là Mẹ anh? Chú Macen từng làm món bánh taco nấm. Liệu bí thuật này cũng được kế thừa từ gia đình họ sao?”
-
-  
-
-“Khó tin đến thế sao khi chính tôi là người đã sáng tạo ra nó? Tôi cứ ngỡ đó là điều duy nhất mà cô cùng đồng loại của cô thực sự công nhận ở tôi chứ.”
-
-  
-
-“Anh đi quá trớn rồi đấy, Đồ Tể.”
-
-  
-
-“Còn cô thì đang thêu dệt quá đà. Tôi đã bảo với cô rằng đây là câu chuyện của tôi, chứ không phải cuốn sách chứa toàn những lời cuồng tín nhảm nhí của cô. Nếu cô thực sự muốn có câu trả lời, cô nên thử tập trung lắng nghe xem sao. Xưa nay cô vốn rất giỏi việc đó mà.”
-
-  
-
-Trừng mắt nhìn tôi trước lời mỉa mai ấy, Nữ Lưu Trữ Viên nhấc cây bút lên. “Có thể anh vẫn còn nhớ, tôi cũng từng hiện diện trong một vài sự kiện sắp tới. Lịch sử sẽ không phải là công cụ duy nhất mà tôi có để vạch trần những lời dối trá của anh đâu. Trải nghiệm thực tế cũng có cái lợi của nó.”
-
-  
-
-*Và cả những lời nguyền của nó nữa.*
-
-  
-
-Tôi mỉm cười. “Khi ấy tôi cao tới hai mươi mét cơ đấy.”
+<p class="para-en">He leans back. “You always were so dull. Fine.”</p>
+<p class="para-vi-sub">Tôi ngả người ra sau: “Cô lúc nào cũng tẻ nhạt như vậy. Được rồi.”</p>

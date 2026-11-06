@@ -2247,3 +2247,297 @@ button {
     text-align: center;
   }
 }
+
+/* ==========================================================================
+   BILINGUAL READER & INTERLINEAR TRANSLATION STYLES
+   ========================================================================== */
+
+/* Bilingual CTA Button on Book Detail */
+.btn-bilingual {
+  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  color: #ffffff;
+  border: none;
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.28);
+  transition: all var(--transition-fast);
+}
+
+.btn-bilingual:hover {
+  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(99, 102, 241, 0.38);
+}
+
+.btn-bilingual svg {
+  color: #ffffff;
+}
+
+[data-theme="dark"] .btn-bilingual {
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.45);
+}
+
+/* Bilingual Switcher in Reader Sticky Header */
+.reader-mode-switch {
+  display: inline-flex;
+  align-items: center;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  padding: 2px;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.mode-tab-btn {
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.32rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.mode-tab-btn:hover {
+  color: var(--text-main);
+}
+
+.mode-tab-btn.active {
+  background: var(--accent);
+  color: var(--accent-contrast);
+  font-weight: 700;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="dark"] .mode-tab-btn.active {
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Quick English Visibility Toggle Button */
+.bilingual-visibility-toggle {
+  color: var(--text-secondary);
+  position: relative;
+}
+
+.bilingual-visibility-toggle:hover {
+  color: var(--accent);
+}
+
+.bilingual-visibility-toggle.hidden {
+  display: none !important;
+}
+
+/* Interlinear Bilingual Paragraph Pairs */
+.bilingual-pair {
+  margin-bottom: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  border-radius: 8px;
+  transition: background var(--transition-fast);
+}
+
+.bilingual-vi {
+  text-align: justify;
+  line-height: inherit;
+  color: var(--text-main);
+  word-break: break-word;
+}
+
+.bilingual-en {
+  margin-top: 0.2rem;
+  padding-left: 0.95rem;
+  border-left: 2px solid rgba(99, 102, 241, 0.5);
+  transition: all 0.2s ease-out;
+}
+
+.bilingual-en-content {
+  font-size: 0.93em;
+  line-height: 1.65;
+  color: var(--text-secondary);
+  text-align: justify;
+  word-break: break-word;
+}
+
+[data-theme="sepia"] .bilingual-en {
+  border-left-color: rgba(143, 61, 27, 0.45);
+}
+
+[data-theme="dark"] .bilingual-en {
+  border-left-color: rgba(139, 92, 246, 0.6);
+}
+
+/* Drop Cap Support for Bilingual Vietnamese Paragraph */
+.reader-content.enable-dropcap .bilingual-vi.has-dropcap::first-letter {
+  font-family: var(--font-playfair), 'Merriweather', 'Lora', Georgia, serif;
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-top: 4px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  font-weight: 700;
+  color: #8f3d1b;
+}
+
+[data-theme="dark"] .reader-content.enable-dropcap .bilingual-vi.has-dropcap::first-letter {
+  color: #ffaa5b;
+}
+
+.reader-content.enable-dropcap .bilingual-vi.has-dropcap::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Toggle Pill for "Chạm để mở" Mode */
+.bilingual-toggle-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.22rem 0.65rem;
+  border-radius: 999px;
+  border: 1px dashed var(--border-color);
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  font-size: 0.74rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+  margin-bottom: 0.35rem;
+}
+
+.bilingual-toggle-pill:hover {
+  background: var(--bg-hover);
+  color: var(--text-main);
+  border-color: #6366f1;
+  border-style: solid;
+}
+
+.pill-badge {
+  display: inline-block;
+  padding: 0.05rem 0.32rem;
+  border-radius: 4px;
+  background: rgba(99, 102, 241, 0.15);
+  color: #6366f1;
+  font-weight: 800;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+}
+
+.pill-arrow {
+  transition: transform 0.25s ease;
+  stroke-width: 2.5;
+}
+
+/* Visibility Control Rules */
+/* 1. Mode = 'vi' (Pure Vietnamese: Hide all English elements) */
+[data-reader-mode="vi"] .bilingual-en {
+  display: none !important;
+}
+
+/* 2. Mode = 'bilingual' & Visibility = 'show-all' */
+[data-reader-mode="bilingual"][data-en-visibility="show-all"] .bilingual-toggle-pill {
+  display: none !important;
+}
+
+[data-reader-mode="bilingual"][data-en-visibility="show-all"] .bilingual-en-content {
+  display: block !important;
+}
+
+/* 3. Mode = 'bilingual' & Visibility = 'tap-reveal' */
+[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en:not(.is-revealed) .bilingual-en-content {
+  display: none !important;
+}
+
+[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .bilingual-en-content {
+  display: block !important;
+  animation: biFadeIn 0.22s ease-out;
+}
+
+[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .pill-arrow {
+  transform: rotate(180deg);
+}
+
+[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .bilingual-toggle-pill {
+  background: var(--bg-hover);
+  border-color: var(--border-color);
+}
+
+@keyframes biFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Download Modal Bilingual Section */
+.download-section-heading {
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: var(--text-tertiary);
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.65rem;
+}
+
+.download-section-heading.bilingual-heading {
+  color: #6366f1;
+}
+
+.badge-bilingual-pill {
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: rgba(99, 102, 241, 0.12);
+  color: #6366f1;
+  margin-left: auto;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.badge-bilingual-tag {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.18), rgba(139, 92, 246, 0.18));
+  color: #6366f1;
+  border: 1px solid rgba(99, 102, 241, 0.3);
+  font-weight: 700;
+  font-size: 0.68rem;
+  padding: 0.12rem 0.4rem;
+}
+
+.badge-bilingual-download {
+  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%) !important;
+  color: #ffffff !important;
+}
+
+.download-bilingual-option:hover {
+  border-color: #6366f1;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(99, 102, 241, 0.18);
+}
+
+/* Mobile Responsive Tweaks for Reader Navigation */
+@media (max-width: 680px) {
+  .reader-nav-inner {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.5rem 0.85rem;
+  }
+  .reader-mode-switch {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+    margin-top: 0.25rem;
+  }
+}

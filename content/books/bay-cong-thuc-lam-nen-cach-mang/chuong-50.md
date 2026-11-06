@@ -1,377 +1,265 @@
-# 48 Cuộc diễu hành
+# 42 Vương quốc quỷ quyệt
 
-*Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí*
+<p class="para-en">“Before we get to Rish,” the archivist interjects. “I’d like to share where I really went while I used the facilities.”</p>
+<p class="para-vi-sub">“Trước khi chúng ta bàn đến Rish,” Nữ Lưu Trữ Viên chen vào. “Tôi muốn chia sẻ nơi mình thực sự đã đến trong lúc vắng mặt.”</p>
 
-Tôi sẽ không làm phiền cô bằng những chi tiết tỉ mỉ về vụ đào tẩu của chúng tôi. Chúng tôi chẳng phải sát hại bất kỳ ai, nên điều đó sẽ không làm tăng thêm số người chết trong sổ sách của cô, và cả hai ta đều thừa hiểu lũ Thợ Săn Mặt Nạ bắt tôi chỉ nhằm loại tôi khỏi cuộc chơi trong lúc nhà vua kích động Bầy Đàn.
+<p class="para-en">Suspicion creases the Butcher’s brow.</p>
+<p class="para-vi-sub">Sự hoài nghi hằn rõ trên vầng trán tôi.</p>
 
-  
+<p class="para-en">“Earlier, you asked about the Empheron. A few weeks ago, several Tribunal members, myself included, journeyed into the Southern Desert to observe it from a distance. During our journey, I found a young girl, no more than twelve, her throat drier than a sponge. For just a bit of water, she told me her name, Musta, and all about her father. She was a nice—”</p>
+<p class="para-vi-sub">“Lúc nãy, anh có hỏi về quái thú bò mộng Emphon. Vài tuần trước, một số thành viên của Hội đồng Phán quyết, bao gồm cả tôi, đã hành trình vào Sa mạc phía Nam để quan sát nó từ xa. Trong chuyến đi, tôi tìm thấy một cô bé, chắc chưa quá mười hai tuổi, cổ họng khô khốc như miếng bọt biển. Chỉ để đổi lấy một ít nước, con bé đã nói cho tôi biết tên mình là Musta, và kể hết mọi điều về người cha của nó. Con bé là một đứa trẻ rất...”</p>
 
-Laven đã cùng Aniss đến Tòa nhà Học viện tìm chúng tôi, đúng như lời tôi nhờ vả. Khi thấy máu me vương vãi khắp nơi mà chẳng thấy bóng dáng tôi hay Cori, cậu ấy liền biết chúng tôi chỉ có thể ở một nơi duy nhất. Bằng cách nào cậu ấy thuyết phục được Aniss hộ tống xuống tận dãy hầm chứa bên dưới, tôi cũng chẳng rõ, nhưng khi cánh cửa phòng giam bật mở và tôi lao vụt ra, dùng một khúc xương đùi làm vũ khí tạm bợ, tôi suýt nữa đã đập nát đầu gối trái của Aniss. Tôi không hề biết bọn Thợ Săn Mặt Nạ đã đi đâu hay tại sao chúng lại bỏ mặc chúng tôi ở đó, dù trong lòng tôi đã dấy lên những mối hoài nghi.
+<p class="para-en">“Was?”</p>
+<p class="para-vi-sub">“Đã từng là?”</p>
 
-  
+<p class="para-en">The archivist smiles. “Sorry, is. Anyway, it just so happens that her father’s name was Macen. Quite the coincidence if you ask me.”</p>
+<p class="para-vi-sub">Nữ Lưu Trữ Viên mỉm cười. “Xin lỗi, phải là vẫn là. Dù sao đi nữa, tình cờ thay, cha của con bé lại tên là Macen. Quả là một sự trùng hợp thú vị, anh không thấy thế sao?”</p>
 
-Những hoài nghi ấy phần nào được xác nhận khi chúng tôi quay trở lại Tòa nhà Học viện. Toàn bộ nguyên liệu của tôi, bao gồm cả bột rễ trời và hai nguồn năng lượng ma thuật Endurium khác, đều đã không cánh mà bay. Hẳn là chúng đang trên đường được chuyển tới hoàng cung, điều đó khiến kế hoạch Cường hóa Ma thuật cho Gia vị ướp Emphon của tôi hoàn toàn phá sản.
+<p class="para-en">With some effort, the Butcher retakes his seat. “There are only so many spices for common to name themselves after. It was bound to happen.”</p>
+<p class="para-vi-sub">Phải tốn chút sức lực, tôi mới ngồi lại xuống ghế. “Có biết bao nhiêu loại gia vị để đám người Thứ Phẩm lấy làm tên cơ chứ. Chuyện trùng tên này sớm muộn gì cũng xảy ra thôi.”</p>
 
-  
+<p class="para-en">“Right, well, I could have her brought here, if you want?”</p>
+<p class="para-vi-sub">“Phải rồi, ừm, tôi có thể cho người đưa cô bé đến đây, nếu anh muốn?”</p>
 
-Chúng tôi quyết định sẽ vừa đi đến chỗ đoàn diễu hành vừa tìm cách xoay xở. Nói là vậy, chứ thực ra chúng tôi chẳng nghĩ ra được kế sách gì. Đến lúc chúng tôi bước chân ra khỏi Học viện, mặt trời đã lặn khuất sau những bức tường thành, đổ xuống những vệt bóng dài thăm thẳm và nhuộm cả bầu trời phía tây một sắc đỏ đầy điềm gở.
+<p class="para-en">The Butcher waves a hand, nonchalant. “It’s a coincidence. Besides, it’s what Rish said next that clarified the whole Chili Control situation. You still want to know about the Source, don’t you?”</p>
+<p class="para-vi-sub">Tôi xua tay, tỏ vẻ dửng dưng. “Đó chỉ là sự trùng hợp thôi. Hơn nữa, chính những gì chú Rish nói tiếp theo mới làm sáng tỏ toàn bộ tình hình về món Ớt ma thuật kiểm soát tâm trí. Cô vẫn muốn biết về Cội Nguồn, đúng không?”</p>
 
-  
+<p class="para-en">“If you insist.”</p>
+<p class="para-vi-sub">“Nếu anh khăng khăng muốn kể.”</p>
 
-“Vanil sẽ tấn công ở đâu?” Tôi hỏi Cori.
+<p class="para-en">N</p>
+<p class="para-vi-sub">✦ ✦ ✦</p>
 
-  
+<p class="para-en">Rish led us out of earshot before pressing candied lemons into our palms. “You have recovered payment for services rendered, no?”</p>
+<p class="para-vi-sub">Chú Rish dẫn chúng tôi ra ngoài tầm nghe của mọi người trước khi nhét mấy viên kẹo chanh vào lòng bàn tay chúng tôi. “Các cháu đã thu đủ khoản thù lao cho những việc mình làm rồi chứ?”</p>
 
-Em đáp không chút ngập ngừng: “Cánh Đồng Cỏ Cao. Đó là không gian mở, mang tính biểu tượng, lại nằm ngay chính giữa khu Trại Nhốt Pen và Cổng Nam.”
+<p class="para-en">“This is the important thing we needed to hear?” I complained as I reached into the bag.</p>
+<p class="para-vi-sub">“Đây là điều quan trọng mà chúng cháu cần phải nghe sao?” Tôi cằn nhằn khi thò tay vào túi.</p>
 
-  
+<p class="para-en">“Don’t give it to him,” Yenne said, staying my hand.</p>
+<p class="para-vi-sub">“Đừng đưa nó cho chú ấy,” Yenne nói, giữ tay tôi lại.</p>
 
-“Nếu đây là một cái bẫy, Vanil có thể hủy hoại tất cả những gì phong trào khởi nghĩa đã dày công gây dựng,” tôi nói.
+<p class="para-en">“Why not?”</p>
+<p class="para-vi-sub">“Tại sao không?”</p>
 
-  
+<p class="para-en">Rish narrowed his gaze upon Yenne. “What is it you know, Yenne the Brain?”</p>
+<p class="para-vi-sub">Chú Rish nheo mắt nhìn chằm chằm vào Yenne. “Cô biết những gì rồi, Yenne Bộ Óc?”</p>
 
-“Thế thì bớt nói lại và chạy nhanh lên, sát thủ của em. Chúng ta phải báo cho ông ấy biết kế hoạch của anh.”
+<p class="para-en">After a long moment, she removed two pieces of paper from the seemingly endless abyss of her skirt folds. One appeared to have been ripped from a book… or ledger. I recalled her knocking that ledger off his desk after her dramatic outburst. She must have used it to cover her ripping a page out. The other was a crumbled piece of excessively white paper that I recognized immediately.</p>
+<p class="para-vi-sub">Sau một thoáng im lặng kéo dài, cô lấy ra hai mảnh giấy từ tầng tầng lớp lớp nếp váy sâu hun hút của mình. Một mảnh trông như bị xé ra từ một cuốn sách, hoặc một cuốn sổ cái. Tôi chợt nhớ đến cảnh cô gạt rơi cuốn sổ cái khỏi bàn làm việc của chú ấy sau cơn thịnh nộ kịch tính lúc nãy. Chắc hẳn cô đã nhân lúc đó để xé trộm một trang. Mảnh còn lại là một mẩu giấy nhàu nát trắng phau bất thường mà tôi nhận ra ngay lập tức.</p>
 
-  
+<p class="para-en">“Where’d you get that?” I asked.</p>
+<p class="para-vi-sub">“Cô lấy mẩu giấy đó ở đâu ra?” Tôi hỏi.</p>
 
-Trước khi chúng tôi kịp cất bước, Aniss đã chộp lấy cổ tay Laven.
+<p class="para-en">“Your trash,” she said.</p>
+<p class="para-vi-sub">“Thùng rác của anh đấy,” cô đáp.</p>
 
-  
+<p class="para-en">Crooked Rish smiled as laughed. “Brain, indeed.”</p>
+<p class="para-vi-sub">Chú Rish nhoẻn miệng rồi bật cười lớn. “Đúng là Bộ Óc có khác.”</p>
 
-“Cậu chủ, tôi không thể cho phép chuyện này,” gã nói. “Tình hình lúc này, cha cậu sẽ giết tôi nếu ông ấy phát hiện tôi đưa cậu trở lại nơi đó. Nếu sắp có một cuộc tập kích, chúng ta cần phải về nhà ngay.”
+<p class="para-en">“What’s going on?” Cori asked.</p>
+<p class="para-vi-sub">“Chuyện gì đang xảy ra vậy?” Cori hỏi.</p>
 
-  
+<p class="para-en">“The handwriting matches,” Yenne said, ignoring Cori and showing me the papers.</p>
+<p class="para-vi-sub">“Nét chữ hoàn toàn trùng khớp,” Yenne nói, phớt lờ Cori rồi đưa hai tờ giấy cho tôi.</p>
 
-“Không đời nào, bạn hiền,” Laven nói. “Tuyệt đối không. Anh đã đi theo tôi suốt mấy tháng trời, đã từng ngồi chung bàn với Paprick. Anh định trơ mắt để những kẻ gây ra chuyện này cho cậu ấy nhởn nhơ ngoài vòng pháp luật sao? Cả những kẻ đã làm chuyện này với tôi nữa?”
+<p class="para-en">I frowned over the note and looked to Rish. “But why?”</p>
+<p class="para-vi-sub">Tôi cau mày nhìn mẩu giấy rồi ngước lên nhìn chú Rish. “Nhưng tại sao?”</p>
 
-  
+<p class="para-en">“Y’all need to explain what’s going on before I stop asking questions,” Cori threatened.</p>
+<p class="para-vi-sub">“Mọi người phải giải thích rõ chuyện gì đang diễn ra trước khi em mất hết kiên nhẫn đấy,” Cori gằn giọng.</p>
 
-“Nhiệm vụ của tôi không phải là trả thù, và chắc chắn càng không phải là ngăn chặn một cuộc tập kích nhắm vào những kẻ phiến quân Thứ Phẩm. Trách nhiệm của tôi là bảo vệ cậu. Chúng ta đi.”
+<p class="para-en">I handed the two papers to Cori. “I got a message the day I moved into my apartment, threatening me if I told anyone the recipe for Emphon Rub. Apparently, Rish wrote it.”</p>
+<p class="para-vi-sub">Tôi đưa hai mảnh giấy cho Cori. “Anh nhận được một bức thư đe dọa vào ngày chuyển đến căn hộ của mình, cảnh cáo anh không được tiết lộ công thức Gia vị ướp Emphon cho bất kỳ ai. Rõ ràng là chú Rish đã viết nó.”</p>
 
-  
+<p class="para-en">Rish smiled, a crooked thing that was less guilty than sincere.</p>
+<p class="para-vi-sub">Chú Rish mỉm cười, một nụ cười méo mó mang vẻ chân thành nhiều hơn là chối tội. “Chú bại lộ rồi.”</p>
 
-Gã vặn mạnh cánh tay Laven đến mức người bạn thân nhất của tôi phải bật ra tiếng kêu đau đớn, và trước khi kịp nhận thức được mình đang làm gì, tôi đã vung nắm đấm giáng thẳng vào gã hộ pháp sừng sững trước mặt.
+<p class="para-en">“I am revealed.”</p>
+<p class="para-vi-sub">“Tại sao chú làm thế?”</p>
 
-  
+<p class="para-en">“Why?” He shrugged. “It is neither as nefarious nor as self-important as you are likely to think. I didn’t send that so I could take what I remembered of that night—the spices you smeared upon that meat—and recreate the greater for sale. But if Crooked Rish is honest—a very strange thing, eh?—you will not believe me.”</p>
+<p class="para-vi-sub">Chú nhún vai. “Chuyện đó chẳng hề độc ác hay xuất phát từ lòng tham như mọi người nghĩ đâu. Chú không gửi thứ đó để chắp vá lại những gì mình nhớ từ đêm hôm ấy, những loại gia vị mà cháu đã trét lên tảng thịt kia, rồi mày mò chế lại công thức đem bán kiếm lời. Nhưng nếu chú Rish này mà nói thật, một chuyện hiếm có trên đời, phải không, thì các cháu cũng chẳng đời nào tin chú.”</p>
 
-Aniss sững sờ đến mức trong một thoáng, không một ai nhúc nhích. Đoạn, gã thúc vai hất văng tôi ra rồi quay lại chộp lấy Laven, nhưng Laven đâu chịu đứng yên. Ngay khoảnh khắc Aniss vừa xoay người, Laven đã thúc cùi chỏ vào hạ bộ gã. Sau cú đá bồi vào khoeo chân khiến gã ngã rạp xuống đất trong tiếng gầm rú đau đớn, Laven vung chiếc chảo sâu lòng khổng lồ của mình táng thẳng một cú trời giáng vào cằm đối phương.
+<p class="para-en">“Try me,” I said.</p>
+<p class="para-vi-sub">“Chú cứ nói thử xem,” tôi đáp.</p>
 
-  
+<p class="para-en">“I feared for the son of Sesa, and I did not want him to have a loose tongue in a place that would so readily cut it free and dine on it.”</p>
+<p class="para-vi-sub">“Chú lo cho con trai của Sesa. Chú không muốn thằng bé dài lưỡi ở cái nơi sẵn sàng cắt phăng lưỡi nó ra làm mồi nhậu.”</p>
 
-“Cái đồ của nợ!” Laven vừa lùi lại vừa hét lên.
+<p class="para-en">He was right, I didn’t believe him.</p>
+<p class="para-vi-sub">Chú ấy nói đúng, tôi không tin chú.</p>
 
-  
+<p class="para-en">And Cori didn’t either. “Then why do you want the powder?” she asked, returning to the point. “If you know Paprick’s greater, it’s pretty suspicious to ask for it if you ain’t trying to recreate it.”</p>
+<p class="para-vi-sub">Và Cori cũng vậy. “Thế sao chú lại đòi chỗ bột rễ trời đó?” Em hỏi, quay trở lại vấn đề chính. “Nếu chú đã biết công thức của Paprick, việc đòi hỏi món đó trông rất đáng ngờ, trừ phi chú đang cố tìm cách chế lại nó.”</p>
 
-“Chết tiệt thật,” tôi và Cori đồng thanh thốt lên.
+<p class="para-en">“Is it so incredible to believe I merely want to interrupt Ruda’s monopoly?”</p>
+<p class="para-vi-sub">“Chuyện chú chỉ muốn phá vỡ thế độc quyền của Ruda khó tin đến thế sao?”</p>
 
-  
+<p class="para-en">“Probably,” I decided. “But I don’t care. Vanil is going to murder people to use Chili Control.”</p>
+<p class="para-vi-sub">“Có lẽ vậy,” tôi ngắt lời. “Nhưng cháu mặc kệ. Vanil chuẩn bị giết người để chiếm đoạt Ớt ma thuật kiểm soát tâm trí rồi kìa.”</p>
 
-Rồi chúng tôi cắm đầu chạy.
+<p class="para-en">I handed Rish a small portion of the skyroot powder and turned to head back to Vanil’s gathering.</p>
+<p class="para-vi-sub">Tôi đưa cho chú Rish một nhúm nhỏ bột rễ trời rồi quay người định bước về chỗ tập hợp của Vanil.</p>
 
-  
+<p class="para-en">“I would not be so quick to return,” Rish said, halting me.</p>
+<p class="para-vi-sub">“Chú khuyên cháu đừng vội quay lại làm gì,” chú Rish nói, cản tôi lại.</p>
 
-Chúng tôi đến Cánh Đồng Cỏ Cao đúng lúc đoàn diễu hành tiến vào. Cảnh tượng hỗn loạn thường ngày của khu chợ đã hoàn toàn biến mất. Thay vào đó, những cỗ xe chở đồ ăn cùng đống lửa trại được sắp xếp thành hàng lối ngay ngắn, nhộn nhịp hối hả.
+<p class="para-en">“Why not?”</p>
+<p class="para-vi-sub">“Sao lại không ạ?”</p>
 
-  
+<p class="para-en">“Because there are more cooks in this kitchen than anyone knows.”</p>
+<p class="para-vi-sub">“Bởi vì gian bếp này lắm đầu bếp hơn người ta tưởng đấy.”</p>
 
-Dọc theo lối đi trung tâm rộng gấp ba lần các ngả đường khác, tầng lớp Thượng Phẩm đứng reo hò từ phía sau các hàng rào chắn song song, dọn sẵn một con đường cho đàn quái thú bò mộng Emphon đang nối đuôi nhau tiến tới.
+<p class="para-en">“Anyone but you?” Yenne grumbled.</p>
+<p class="para-vi-sub">“Lắm hơn mỗi mình chú thôi à?” Yenne lầm bầm.</p>
 
-  
+<p class="para-en">“Indeed,” Rish answered soberly. “I have it on very good authority that the king was not in fact with those who attacked the Front.”</p>
+<p class="para-vi-sub">“Quả thật,” chú Rish điềm tĩnh đáp. “Chú có nguồn tin cực kỳ đáng tin cậy rằng nhà vua thực ra không hề có mặt cùng toán quân tấn công Tiền Tuyến.”</p>
 
-Angus, con quái thú bò mộng Emphon đực to lớn nhất đàn mà tôi từng xẻ thịt một phần khi mới bắt đầu chuỗi ngày làm việc theo khế ước lao dịch, đang sải bước dẫn đầu hàng ngũ. Từ chiếc bành đặt trên cổ nó, hai tên Lính Mổ Xẻ điều khiển con thú bằng những sợi thừng tết lỏng tay. Hai sợi thừng khác kéo dài từ chóp đuôi nó buộc vào sừng của con cái đi sau tên là Heffa để dắt nó nối gót theo hàng, rồi lại hai sợi nữa nối từ con Heffa sang con kế tiếp, cứ thế tiếp diễn. Angus phi nước kiệu với nhịp điệu hoàn hảo, đều đặn, chẳng mảy may cưỡng lại sự dẫn dắt của những kẻ cầm cương. Những con thú đực tự do không bao giờ di chuyển như vậy; rõ ràng nó cùng những con còn lại đều đang chịu tác động từ Đại công thức Ớt ma thuật kiểm soát tâm trí - Đại công thức 5.
+<p class="para-en">“Whose authority?” Cori asked.</p>
+<p class="para-vi-sub">“Nguồn tin nào cơ?” Cori hỏi.</p>
 
-  
+<p class="para-en">“For once, my own,” he said.</p>
+<p class="para-vi-sub">“Chính là chú,” chú đáp.</p>
 
-“Em thấy những gì?” Tôi hỏi khi cả nhóm tiến lại gần đám đông.
+<p class="para-en">I ached to return to the gathering, but curiosity got the better of me. After all, of everyone, I’d known Rish the longest. Rish who my moms trusted and loved. Rish who’d once promised to buy me skyroot powder before we even knew its value because I wanted to taste it.</p>
+<p class="para-vi-sub">Tôi rất nóng lòng muốn quay lại chỗ tập hợp, nhưng sự tò mò đã lấn át tất cả. Dù sao đi nữa, trong số mọi người ở đây, tôi là người quen biết chú Rish lâu nhất. Chú Rish, người mà các mẹ tôi từng hết mực tin tưởng và yêu quý. Chú Rish, người từng hứa sẽ mua cho tôi bột rễ trời từ trước cả khi chúng tôi biết đến giá trị thật của nó, chỉ đơn giản vì tôi tò mò muốn nếm thử xem mùi vị ra sao.</p>
 
-  
+<p class="para-en">“Then he sent someone else with the greater recipe,” Yenne suggested. “Why does Vanil think that we three need to hear this from you?”</p>
+<p class="para-vi-sub">“Thế thì hẳn hắn đã cử kẻ khác mang theo Đại công thức,” Yenne suy đoán. “Tại sao Vanil lại nghĩ rằng cả ba chúng tôi cần phải nghe chuyện này từ chính miệng chú?”</p>
 
-“Toàn bộ Lính Mổ Xẻ trên lưng con thú đực dẫn đầu đều đang kích hoạt Sức bền ma thuật,” Cori nhận xét. “Có vài tên trà trộn trong đám đông nữa.” Em kín đáo chỉ tay. “Em không thấy người của Bầy Đàn hay bất cứ ai quen mặt cả.”
+<p class="para-en">I can’t know if she wanted the answer because she was naturally curious or for a snippy need to one-up Rish, who seemed to constantly outsmart her, but I sometimes wonder what would’ve happened if she’d not asked. I know I didn’t think to ask it.</p>
+<p class="para-vi-sub">Tôi không tài nào biết được liệu cô muốn có câu trả lời vì bản tính tò mò, hay chỉ vì thói hiếu thắng muốn lấn lướt chú Rish, người dường như lúc nào cũng tỏ ra thông minh hơn cô. Thế nhưng đôi khi tôi lại tự hỏi, chuyện gì sẽ xảy ra nếu lúc ấy cô không cất lời? Bản thân tôi biết rõ mình chưa từng mảy may nghĩ đến việc gặng hỏi điều đó.</p>
 
-  
+<p class="para-en">Rish reached into a bag hanging on his chair and produced a stack of papers. “I broke the code on Vyson’s notes earlier this day.” He handed them to Cori, who quickly began leafing through them. “The lieutenant kept notes on you, Pappy. Your grades. Your skill with the cleaversaw. Your comings and goings, the people with whom you spent time. Your mothers, your friend Laven, even Jives Cutler. They attacked Laven, Ilantra, and Jives, purposefully.”</p>
+<p class="para-vi-sub">Chú Rish với tay vào chiếc túi treo bên hông xe lăn, rút ra một tập tài liệu. “Chú đã giải mã được những ghi chép của Vyson từ đầu ngày hôm nay.” Chú đưa tập hồ sơ cho Cori, em lập tức đón lấy rồi nhanh chóng lật giở từng trang. “Viên trung úy ấy đã ghi chép về cháu vô cùng tỉ mỉ đấy, Pappy. Từ điểm số của cháu, kỹ năng sử dụng thanh đao cưa đồ tể, cho đến những nơi cháu từng đặt chân tới và những kẻ cháu từng giao du. Cả hai mẹ của cháu, người bạn Laven, thậm chí là chú Cutler nữa. Bọn chúng nhắm vào Laven, Đầu Bếp Ilantra và chú Cutler đều có mục đích cả.”</p>
 
-“Ôi, thế này thì nguy to rồi!” Laven hét lên khi cậu xô mạnh cả hai chúng tôi sang một bên.
+<p class="para-en">“We knew that,” Yenne said. “For revenge.”</p>
+<p class="para-vi-sub">“Chúng tôi biết điều đó rồi,” Yenne nói. “Là để trả thù.”</p>
 
-  
+<p class="para-en">“In fact, no,” Rish said. “Well, not in entirety. You see, these notes detail darker tidings. First, that they knew Cori’s song, your place amongst the rioters, and your comings and goings within these walls. Things he could not have known without having a mole within the Herd.”</p>
+<p class="para-vi-sub">“Thực chất không hẳn vậy,” chú Rish đáp. “Chà, không hoàn toàn như thế. Cháu thấy đấy, những ghi chép này chi tiết hơn nhiều. Trước hết, chúng nắm được bài ca của Cori, vị trí của cháu trong đám đông bạo loạn, và cả tung tích của cháu đằng sau những bức tường này. Hắn tuyệt đối không thể nào biết được ngần ấy chuyện nếu trong nội bộ Bầy Đàn không có kẻ làm gián điệp.”</p>
 
-Cả ba chúng tôi ngã nhào xuống đất đúng lúc một cỗ xe lao ầm qua hàng rào chắn, chỉ cách chỗ chúng tôi vừa đứng chừng gang tấc, rồi trượt thẳng vào lộ trình diễu hành. Một tiếng nổ đinh tai nhức óc khiến Angus chồm đứng lên bằng hai chân sau. Khói đen bốc lên cuồn cuộn từ cỗ xe ấy cùng ba cỗ xe bốc cháy khác đang chắn ngang đường. Gần như tất cả mọi người đều bắt đầu hoảng loạn tháo chạy.
+<p class="para-en">That froze everyone.</p>
+<p class="para-vi-sub">Bầu không khí trong phòng chợt sững lại sau câu nói ấy.</p>
 
-  
+<p class="para-en">Rish rolled closer.</p>
+<p class="para-vi-sub">Chú Rish khẽ đẩy bánh xe lăn nhích lại gần hơn.</p>
 
-Lại thêm một tiếng nổ nữa gầm vang từ phía sau đàn quái thú bò mộng Emphon.
+<p class="para-en">“Secondly, they mention a prophecy seen with Foresight Fried Gryphon, a greater recipe to glimpse a person’s future. The king saw your future after the Tribunal. You destroy the Commons and kill your friends. Pappy, they have spared you so that they can use you to destroy the will of the common. To turn their symbol against them. But they also saw that you would touch the Source—whatever that is—and it would be their undoing.”</p>
+<p class="para-vi-sub">“Thứ hai, chúng nhắc đến một lời tiên tri được nhìn thấy qua món salad Gà đồng tương lai, một Đại công thức ma thuật dùng để thoáng trông thấy tương lai của một người. Nhà vua đã nhìn thấy tương lai của cháu sau phiên tòa. Cháu tiêu diệt tầng lớp Thứ Phẩm và xuống tay sát hại chính những người bạn của mình. Pappy, chúng tha mạng cho cháu chỉ để lợi dụng cháu bẻ gãy ý chí của những người thuộc tầng lớp Thứ Phẩm, biến biểu tượng của họ thành vũ khí chống lại chính họ. Nhưng chúng cũng nhìn thấy cháu sẽ chạm tới Cội Nguồn, dẫu đó là thứ gì đi nữa, và điều ấy sẽ đặt dấu chấm hết cho triều đại của chúng.”</p>
 
-  
+<p class="para-en">“I wouldn’t,” I insist. “I’d never do that. And I haven’t touched the Source. I told the king that!”</p>
+<p class="para-vi-sub">“Cháu không đời nào làm chuyện đó,” tôi quả quyết. “Cháu sẽ không bao giờ làm thế! Và cháu cũng chưa từng chạm vào Cội Nguồn. Cháu đã nói rõ với nhà vua rồi!”</p>
 
-Laven nắm lấy bàn tay đang chìa ra của tôi, rồi cả ba chúng tôi hòa vào dòng người hỗn loạn.
+<p class="para-en">“What is that?” Cori asked. “This Source?”</p>
+<p class="para-vi-sub">“Đó là thứ gì vậy?” Cori hỏi. “Cái gọi là Cội Nguồn ấy?”</p>
 
-  
+<p class="para-en">“It is the subject of myth,” Yenne answered. “To some, a god. Anyone who touches it learns all greater recipes, or so the myths indicate.”</p>
+<p class="para-vi-sub">“Đó là điều chỉ có trong thần thoại,” Yenne đáp. “Đối với một số người, đó là một đấng tối cao. Bất kỳ ai chạm vào nó đều sẽ lĩnh hội được toàn bộ các Đại công thức ma thuật, ít nhất thì các câu chuyện truyền thuyết đều ám chỉ như vậy.”</p>
 
-“Kế hoạch thế nào đây?” Laven hỏi.
+<p class="para-en">“Well, I sure as hell don’t know all greater recipes!” I yelled, my anger getting the better of me. “So clearly this Foresight recipe is bullshit. Maybe it’s misunderstood, like Observant Omelet.”</p>
+<p class="para-vi-sub">“Chà, tôi dám chắc đến lúc chết mình cũng chẳng thể nào biết hết mọi Đại công thức ma thuật đâu!” Tôi gằn giọng, cơn giận dần lấn át lý trí. “Thế nên cái công thức tiên tri quái quỷ này rõ ràng chỉ là điều nhảm nhí. Có lẽ nó đã bị diễn giải sai lệch, hệt như Món trứng Toàn tri vậy.”</p>
 
-  
+<p class="para-en">“There’s more,” Rish said, removing two more pieces of parchment. “I finished decoding this as news broke about the Front.”</p>
+<p class="para-vi-sub">“Vẫn còn nữa,” chú Rish lên tiếng, rút thêm hai mảnh da cừu ra. “Chú vừa giải mã xong những thứ này ngay khi tin tức từ Tiền Tuyến ập đến.”</p>
 
-Bất thình lình, một bàn chân to bằng cả cỗ xe giáng mạnh xuống, tạo thành một hố sâu hoắm ngay trước mặt chúng tôi, khiến mặt đất rung chuyển dữ dội. Nửa tá chiến binh Bầy Đàn, do chính Vanil dẫn đầu, rầm rộ xông vào Cánh Đồng Cỏ Cao từ phía sau những dãy nhà quanh quảng trường. Mỗi người bọn họ đều cao tới hai mươi mét, khoác trên mình những bộ giáp vảy khổng lồ chế tác từ thứ mà tôi đoan chắc là da quái thú Bò sát Carnephon. Trang bị tác chiến của họ gồm đủ loại vũ khí bằng xương, từ thương chiến trận, trường kiếm cho đến rìu lớn. Dù quân số lép vế trước đàn thú đực cùng lũ Lính Mổ Xẻ cưỡi trên lưng, tôi không nghĩ đây sẽ là một trận chiến áp đảo một chiều, nhất là khi họ nắm trong tay những vũ khí uy lực dường ấy.
+<p class="para-en">He handed me the first, which was dated a couple weeks before the Flyover Festival.</p>
+<p class="para-vi-sub">Chú đưa cho tôi mảnh đầu tiên, đề ngày từ vài tuần trước lễ Duyệt binh trên không.</p>
 
-  
+<p class="para-en">“ ‘Almon’s notes mention Enhancing a greater recipe,’ ” I read aloud. “ ‘Dyl thinks they figured out what that means. I’ll need time, but we’re closer to the recipe for control than ever. But first I need to see what he knows. Set up the demonstration with Ilantra and prepare some collateral as distraction. Friends, family, I don’t care who. Find me some targets. Maybe something that destabilizes the Herd as well. Talk to my servant about options.’ ”</p>
+<p class="para-vi-sub">“‘Ghi chú của Almon có đề cập đến việc Cường hóa một Đại công thức ma thuật,’” tôi đọc to từng chữ. “‘Dyl cho rằng bọn họ đã tìm ra ý nghĩa thực sự của điều đó. Tôi sẽ cần thêm thời gian, nhưng chúng ta đang tiến gần đến công thức kiểm soát hơn bao giờ hết. Dẫu vậy, trước tiên tôi cần phải biết hắn nắm giữ những gì. Hãy sắp xếp cuộc thử nghiệm với Ilantra và chuẩn bị vài thứ làm mồi ngụy trang. Bạn bè, gia đình, tôi không quan tâm là ai. Hãy tìm cho tôi vài mục tiêu thích hợp. Có lẽ là thứ gì đó đủ sức làm lung lay Bầy Đàn. Hãy bàn bạc với người hầu của tôi để đưa ra lựa chọn.’”</p>
 
-“Đó là Đại công thức ma thuật của cậu!” Laven thán phục thốt lên.
+<p class="para-en">The second was immediately familiar. The parchment I’d seen the king write after interrogating me. “ ‘The roach’s memories were the final piece. I know how to make the greater recipe. Start with that bitch, Ilantra, and lure in the Florento boy. Both have proven disloyal, but we can’t have his father thinking he was taken intentionally. Kill the old man, after. His family has always irked us. We’ll save his mums for now.’ ” I faltered momentarily but continued. “ ‘No telling what trouble killing them will have. We can’t have him touching the Source before he destroys the Commons.’ ”</p>
+<p class="para-vi-sub">Mảnh da thứ hai mang lại cảm giác quen thuộc đến rùng mình. Đó chính là mảnh da cừu mà tôi đã tận mắt thấy nhà vua cặm cụi viết sau buổi thẩm vấn tôi. “‘Ký ức của tên gián điệp chính là mảnh ghép cuối cùng. Ta đã biết cách tạo ra Đại công thức ma thuật. Hãy bắt đầu với con mụ Ilantra đó, rồi dụ tên nhóc nhà Florento vào tròng. Cả hai đều đã lộ rõ bản chất phản bội, nhưng chúng ta không thể để cha hắn nghi ngờ rằng con trai mình bị bắt cóc có chủ đích. Cứ giết lão già đó sau. Gia đình hắn từ trước đến nay luôn là cái gai trong mắt chúng ta. Tạm thời hãy tha mạng cho hai mẹ của hắn.’” Tôi khựng lại giây lát, lồng ngực thắt nghẹn, nhưng rồi vẫn nghiến răng đọc tiếp. “‘Chưa thể lường trước việc giết bọn chúng sẽ châm ngòi cho rắc rối gì. Tuyệt đối không được để hắn chạm vào Cội Nguồn trước khi hắn tự tay tiêu diệt tầng lớp Thứ Phẩm.’”</p>
 
-  
+<p class="para-en">I looked at the people around me, as I took all that in.</p>
+<p class="para-vi-sub">Tôi đưa mắt nhìn những người xung quanh khi tâm trí đã thấu suốt toàn bộ sự thật tàn nhẫn ấy.</p>
 
-“Tôi biết rồi,” tôi càu nhàu, mắt vẫn đảo quanh tìm kiếm lối thoát khỏi mớ hỗn độn này.
+<p class="para-en">Cori spoke first. “So the king thinks Paprick knows something about Enhancing a greater recipe? Am I getting that right? What’s that mean?”</p>
+<p class="para-vi-sub">Cori lên tiếng trước: “Vậy là nhà vua nghĩ rằng anh biết điều gì đó về việc Cường hóa một Đại công thức ma thuật sao? Em hiểu như vậy có đúng không? Rốt cuộc điều đó có nghĩa là gì?”</p>
 
-  
+<p class="para-en">“That was my reading as well,” Rish confirmed.</p>
+<p class="para-vi-sub">“Tôi cũng hiểu theo cách đó,” chú Rish gật đầu xác nhận.</p>
 
-Khi lũ Lính Mổ Xẻ cắt đứt những sợi thừng liên kết đàn thú đực với nhau, Trận chiến thứ hai tại Cánh Đồng Cỏ Cao chính thức bùng nổ ác liệt. Angus lao thẳng về phía Vanil, trong khi những kẻ bé nhỏ như chúng tôi cuống cuồng tháo chạy tìm nơi an toàn. Lửa trại và xe cộ bị san phẳng chỉ trong chớp mắt. Một ngọn lao xương cắm phập vào mông bên trái của con thú đực nhỏ nhất, khiến nó quằn quại ngã vật xuống đất ngay trước mặt chúng tôi. Chúng tôi ngoặt gấp sang hướng khác, nhưng rồi phải khựng lại khi hai con thú đực cùng lúc húc vào một nữ chiến binh Bầy Đàn từ hai phía, hất văng bà ngã sầm xuống ngay lối đi phía trước.
+<p class="para-en">“And the king has a servant,” I repeated. I turned back to Yenne. “You were telling Dyl about me. Dyl had the Chili Control recipe.”</p>
+<p class="para-vi-sub">“Và nhà vua có một người hầu,” tôi lặp lại, rồi quay sang nhìn chằm chằm vào Yenne. “Cô từng kể với Dyl về tôi. Trong khi Dyl lại nắm giữ công thức Ớt ma thuật kiểm soát tâm trí.”</p>
 
-  
+<p class="para-en">“Paprick,” she said, very gently. “I only told them about how you were acclimating to school. That’s all they ever asked about! I swear. I can’t believe they had that greater.” She paused. “I’m disgusted.”</p>
+<p class="para-vi-sub">“Paprick,” cô cất lời, giọng điệu dịu dàng đến bất ngờ. “Tôi thề là mình chỉ kể với họ về việc anh hòa nhập ở học viện ra sao thôi. Đó là tất cả những gì họ từng hỏi tôi! Tôi không thể tin nổi họ lại sở hữu Đại công thức ấy.” Cô nghẹn lời, ánh mắt chùng xuống. “Tôi thấy thật ghê tởm.”</p>
 
-“Đằng kia!” Laven chỉ tay về phía một tòa nhà hành chính của Thượng Phẩm nằm gần lối vào Cánh Đồng Cỏ Cao.
+<p class="para-en">Rish looked characteristically skeptical. Cori spoke up in Yenne’s defense.</p>
+<p class="para-vi-sub">Chú Rish lộ rõ vẻ hoài nghi thường thấy trên gương mặt. Cori lập tức lên tiếng bênh vực Yenne:</p>
 
-  
+<p class="para-en">“Yenne’s had plenty of opportunities to betray us. She just helped up break into Dyl’s office. Let it go, killer. A witch hunt’s only going to play into the king’s hands right now.”</p>
+<p class="para-vi-sub">“Yenne có thừa cơ hội để phản bội chúng ta. Cô ấy vừa mới giúp chúng ta đột nhập vào văn phòng của Dyl đấy thôi. Bỏ qua đi, sát thủ của em. Cuộc săn lùng phù thủy lúc này chỉ có lợi cho nhà vua mà thôi.”</p>
 
-Đến khi chúng tôi chạy tới nơi, máu của con người lẫn quái thú bò mộng Emphon đã nhuộm đỏ khắp khu chợ. Tôi không tài nào phân biệt nổi lồng ngực mình đang phập phồng vì vừa phải tháo chạy qua bãi chiến trường của những gã khổng lồ điên cuồng, hay vì nỗi kinh hoàng tột độ. Những cánh cửa đều bị khóa chặt, nên chúng tôi đành nép sau các cột đá cẩm thạch ngay sảnh vào tòa nhà để thở dốc lấy lại sức.
+<p class="para-en">“Thank you, Cori.” Yenne sighed, seemingly with more exasperation than contempt. “I don’t blame you, but Paprick, this is weeks old. The mole could already be gone. We need to focus on the now. Do you have any idea what Enhancing is?”</p>
+<p class="para-vi-sub">“Cảm ơn Cori.” Yenne thở dài, nét mặt tỏ vẻ bực bội hơn là phật ý. “Tôi không trách anh đâu, nhưng Paprick, chuyện này đã kéo dài suốt mấy tuần rồi. Kẻ phản bội có lẽ đã cao chạy xa bay từ lâu. Chúng ta cần tập trung vào thực tại. Anh có biết Cường hóa Ma thuật là gì không?”</p>
 
-  
+<p class="para-en">I bit my lip.</p>
+<p class="para-vi-sub">Tôi cắn môi:</p>
 
-“Được rồi,” Cori nói. “Bước đầu tiên để khống chế lũ quái thú bò mộng Emphon là phải trèo lên lưng chúng. Ở Tiền Tuyến, chúng ta có các Đại công thức ma thuật để làm việc đó. Nhưng trừ phi trong ba lô của Laven có Thịt bò khô Bật nhảy hay Bít tết Giông bão, bằng không chúng ta buộc phải tìm đường trèo lên mái nhà.”
+<p class="para-en">“I—I’ve been wondering about what happens when you add more endurium to a greater.”</p>
+<p class="para-vi-sub">“Tôi... tôi vẫn luôn băn khoăn điều gì sẽ xảy ra nếu cho thêm Endurium vào một Đại công thức.”</p>
 
-  
+<p class="para-en">“You gorge?” Cori said, as if that was obvious.</p>
+<p class="para-vi-sub">“Thì anh bị bội thực chứ sao?” Cori đáp, giọng điệu như thể đó là lẽ hiển nhiên trên đời.</p>
 
-“Rồi sau đó làm gì?” Laven hỏi, vẻ mặt đầy hoài nghi.
+<p class="para-en">“If that’s the case, why did Emphon Rub work at all?” I asked. “It has more endurium than anything I can think of, with both carnephon rib and skyroot powder.” I held up a hand to stop further argument. “Gorge, as far as I know, only happens when you eat more than one greater recipe.”</p>
+<p class="para-vi-sub">“Nếu vậy, tại sao món Thịt băm Emphon lại có tác dụng?” Tôi hỏi lại. “Lượng Endurium trong đó nhiều hơn bất cứ thứ gì anh từng tưởng tượng, vừa có sườn quái thú Bò sát Carnephon, lại vừa có bột rễ trời.” Tôi giơ một tay lên ngăn không cho cuộc tranh cãi đi xa hơn. “Theo những gì tôi biết, tình trạng bội thực chỉ xảy ra khi người ta nạp vào nhiều hơn một Đại công thức.”</p>
 
-  
+<p class="para-en">That gave everyone pause.</p>
+<p class="para-vi-sub">Lời tôi nói khiến tất cả rơi vào khoảng lặng trầm ngâm.</p>
 
-“Sau đó chúng ta chờ thời cơ thích hợp, nhảy xuống rồi bò lên đầu nó. Nếu kéo gập sừng cho đến khi mắt nó hướng thẳng lên trời, nó sẽ dịu lại đủ để người của Bầy Đàn có thể khống chế trong hòa bình.”
+<p class="para-en">“How long have you been sitting on this?”</p>
+<p class="para-vi-sub">“Anh đã giấu kín chuyện này bao lâu rồi?”</p>
 
-  
+<p class="para-en">“Ilantra showed us a bunch of different ways to make similar dishes with tomatoes. How different cultures have different techniques. She even asked us what defines our cuisine so that we’d think about how techniques define lesser recipes. And then Laven told me how Dyl was studying endurium quantities: skyroot powder vs meat vs milk, etc.”</p>
+<p class="para-vi-sub">“Đầu Bếp Ilantra từng chỉ cho chúng tôi rất nhiều cách biến tấu các món ăn tương tự nhau chỉ bằng cà chua. Bà cho thấy mỗi nền văn hóa lại sở hữu những kỹ thuật nấu nướng khác biệt. Thậm chí bà từng hỏi chúng tôi điều gì định hình nên nền ẩm thực của riêng mình, cốt để chúng tôi nhận ra kỹ thuật có thể nhào nặn các tiểu công thức ra sao. Rồi Laven cũng kể cho tôi nghe về cách Dyl nghiên cứu hàm lượng Endurium, từ bột rễ trời so với thịt, rồi so với sữa, cùng nhiều thứ khác.”</p>
 
-Như thể để thách thức lời em nói, Vanil nhấc bổng một cỗ xe đang bốc cháy ngùn ngụt rồi ném thẳng vào chòi bành trên lưng Angus. Lũ Lính Mổ Xẻ vội vã nhảy ra, ngã lăn lóc xuống đất trong khi liên tục phóng những luồng sét xanh, cầu lửa và giáo mác đáp trả về phía Vanil. Khi chòi bành vỡ vụn thành đống củi bén lửa, Angus gầm thét dữ dội rồi lồng lộn lên, cho đến khi nó bỗng khựng lại lặng ngắt đến rợn người. Ngọn lửa thiêu đốt lớp lông vũ khi nó giương mắt trừng trừng nhìn Vanil.
+<p class="para-en">Crooked Rish shook his head.</p>
+<p class="para-vi-sub">Chú Rish khẽ lắc đầu:</p>
 
-  
+<p class="para-en">“Pappy, help a broken man mend these different pieces. How are those two things related?”</p>
+<p class="para-vi-sub">“Pappy này, hãy giúp một kẻ tàn phế chắp nối những mảnh ghép rời rạc này lại xem nào. Hai chuyện đó rốt cuộc liên quan gì đến nhau?”</p>
 
-“Liệu cách đó có tác dụng khi chúng đang chịu ảnh hưởng của Ớt ma thuật kiểm soát tâm trí không?” Laven hỏi.
+<p class="para-en">I raised my hands, searching for the words.</p>
+<p class="para-vi-sub">Tôi giơ hai tay lên, cố tìm kiếm từ ngữ diễn đạt gãy gọn nhất:</p>
 
-  
+<p class="para-en">“We,” I gestured to Ranch, “have always made greater recipes one way. In fact, the only thing we even know about making them is that they need a source of endurium. We always focused on that element. That’s our technique. But then I made one that used two sources and I didn’t gorge. What if I add a second to an existing greater?”</p>
+<p class="para-vi-sub">“Chúng ta,” tôi chỉ tay về phía Ranch, “xưa nay vẫn luôn nấu các Đại công thức theo một lối mòn duy nhất. Trên thực tế, điều duy nhất chúng ta tường tận là chúng bắt buộc phải có một nguồn Endurium. Chúng ta chỉ chăm chăm tập trung vào yếu tố đó, biến nó thành kỹ thuật duy nhất của mình. Thế nhưng, tôi lại vừa làm ra một món kết hợp tới hai nguồn Endurium mà bản thân không hề bị bội thực. Sẽ ra sao nếu tôi đưa thêm nguồn thứ hai vào một Đại công thức vốn đã hoàn chỉnh?”</p>
 
-Vanil chộp lấy một cây rìu do một chiến binh khổng lồ khác của Bầy Đàn đánh rơi, cất tiếng hô vang tập hợp đồng đội: “ĐỨNG VỮNG LÊN!” Âm thanh rền vang khắp quảng trường tựa như sấm sét khi ông lao thẳng về phía một con bò mộng đực nhỏ hơn, cây rìu giơ cao qua đầu.
+<p class="para-en">Crooked Rish tossed and caught the pouch in his hand.</p>
+<p class="para-vi-sub">Chú Rish tung hứng chiếc túi vải nhỏ rồi vững vàng đón lấy nó trong lòng bàn tay:</p>
 
-  
+<p class="para-en">“You needed a second to test your theory.”</p>
+<p class="para-vi-sub">“Cháu cần một nguồn thứ hai để kiểm chứng giả thuyết của mình.”</p>
 
-“Chúng ta phải thử thôi,” Cori nói.
+<p class="para-en">“The king confirmed he was working with Dyl,” Cori added. “And they had a second.”</p>
+<p class="para-vi-sub">“Nhà vua đã xác nhận ông ta đang bắt tay với Dyl,” Cori tiếp lời. “Và bọn họ đang nắm trong tay nguồn thứ hai ấy.”</p>
 
-  
+<p class="para-en">“Maybe even multiple,” Yenne said, motioning to the bag with two more pouches within.</p>
+<p class="para-vi-sub">“Thậm chí có thể là nhiều nguồn hơn nữa,” Yenne nói, khẽ hất cằm về phía chiếc túi đang bọc lấy hai túi vải nhỏ bên trong.</p>
 
-Trong một màn phô diễn sức mạnh khiến tất cả chúng tôi sững sờ, Vanil chặt phăng một chân sau của con bò mộng đực đang ngơ ngác, nhát chém xẻ ngọt qua lớp xương chứa năng lượng ma thuật Endurium. Con quái thú gào thét rồi đổ vật sang một bên khi ông vung rìu giáng đòn sấm sét vào mạn sườn nó, xé toạc lớp vảy giáp trong một vệt máu thịt tung tóe.
+<p class="para-en">“We need to test your theory,” Cori said. “Now.”</p>
+<p class="para-vi-sub">“Chúng ta phải kiểm chứng giả thuyết của anh,” Cori dứt khoát. “Ngay lúc này.”</p>
 
-  
+<p class="para-en">“I can’t let Vanil use that scroll,” I said.</p>
+<p class="para-vi-sub">“Tôi không thể để Vanil sử dụng cuộn giấy đó,” tôi đáp.</p>
 
-“Có thực sự cần không?” Laven chỉ tay hỏi. “Trông như họ đang hoàn toàn làm chủ tình hình rồi kìa.”
+<p class="para-en">“Killer, think,” Cori said. “Dyl’s working with the king. They’re going to tell him what’s missing. We’re out of time.”</p>
+<p class="para-vi-sub">“Sát thủ của em, hãy suy nghĩ cho kỹ,” Cori nhìn tôi. “Dyl đang làm việc cho nhà vua. Bọn họ sẽ mách cho hắn biết phần còn lại đang thiếu thứ gì. Chúng ta không còn thời gian nữa rồi.”</p>
 
-  
+<p class="para-en">“What ingredients do you need to test your theory?” Rish asked.</p>
+<p class="para-vi-sub">“Cháu cần những nguyên liệu gì để thử nghiệm giả thuyết của mình?” Chú Rish lên tiếng hỏi.</p>
 
-“Họ đang tàn sát chúng,” tôi nói.
+<p class="para-en">“Truthfully?” I shrugged. “I don’t know. More than anything, I need time to think, to figure out how this all comes together.”</p>
+<p class="para-vi-sub">“Nói thật lòng nhé?” Tôi khẽ nhún vai. “Cháu chịu. Hơn tất cả, cháu cần thời gian để suy nghĩ, để tìm ra cách kết nối từng mắt xích lại với nhau.”</p>
 
-  
+<p class="para-en">“Then I will do the impossible and buy you time you do not have,” Rish said, holding up a candied lemon. “Easy, peasy, lemon squeezy.”</p>
+<p class="para-vi-sub">“Vậy thì chú sẽ làm nên điều bất khả thi, đó là mua cho cháu khoảng thời gian mà cháu đang thiếu,” chú Rish nhếch môi, giơ lên một lát chanh ngào đường. “Dễ như trở bàn tay thôi.”</p>
 
-“Thế này không đúng,” Cori nói, cùng chung cảm giác ghê tởm với tôi.
-
-  
-
-Khi Vanil giương rìu lên chuẩn bị cho nhát chém thứ hai, đám Lính Mổ Xẻ từ phía sau lập tức ùa tới, dùng cưa phẳng và đao cưa đồ tể xẻ thẳng vào gân gót chân khổng lồ của ông. Máu tuôn xối xả, khối bắp chân đứt lìa khỏi gân rồi co giật bắn ngược lên như dây cung, khiến ông quỵ một bên gối xuống và gầm lên đau đớn.
-
-  
-
-Thế nhưng ông vẫn chưa gục ngã.
-
-  
-
-Ông vung ngược cây rìu lại như lưỡi hái lướt qua ngọn lúa mì, không chỉ đơn thuần chém đôi ba tên Lính Mổ Xẻ mà còn nghiền nát bọn chúng thành một đống bầy nhầy.
-
-  
-
-Khắp xung quanh cuộc tàn sát, dân Thứ Phẩm lẫn Thượng Phẩm đều co rúm lại sợ hãi, hệt như chúng tôi. Chẳng có người Thứ Phẩm nào đứng lên khởi nghĩa. Không một ai cảm thấy mình được trao quyền lực. Chúng tôi chỉ là lũ kiến hoảng loạn trước trận đại hồng thủy.
-
-  
-
-“Đây chính là điều nhà vua muốn,” tôi nói. “Chuyện này chỉ đang giúp ích cho hắn mà thôi.”
-
-  
-
-Laven nhăn mặt: “Giúp thế nào được? Tất cả sự hỗn loạn này chỉ khiến hắn trông có vẻ yếu thế đi thôi.”
-
-  
-
-“Không,” Cori nói. “Nó biến Bầy Đàn thành một lũ liều lĩnh và báng bổ. Một nửa số người Thứ Phẩm trong Bầy Đàn đều tôn sùng quái thú bò mộng Emphon. Chúng ta phải ngăn chuyện này lại.”
-
-  
-
-“Bằng cách nào?” Tôi vặn lại. “Chúng ta không thể trèo lên mái nhà, còn ở dưới này thì vô dụng. Họ thậm chí còn chẳng nhìn thấy chúng ta. Chết tiệt thật!”
-
-  
-
-Chúng tôi nấp sau những cây cột lớn trên đỉnh bậc thềm của một tòa nhà mà giới Thượng Phẩm một mực gọi là Hội đồng Phán quyết, đối diện ngay nơi Angus đang hồi sức. Đúng lúc ấy, Angus lao thẳng về phía Vanil. Dù trúng hay trượt, tòa nhà này cũng sắp trở thành nạn nhân tiếp theo của nó. Cả ba chúng tôi cuống cuồng lao xuống bậc thang, tìm chỗ ẩn nấp trong một con hẻm.
-
-  
-
-“VANIL!” Một thành viên Bầy Đàn thét lên cảnh báo trong lúc đang vật lộn với một con quái thú bò mộng Emphon.
-
-  
-
-Khập khiễng trên bên cổ chân đau đớn, Vanil nhoài người né sang bên vào khoảnh khắc ngàn cân treo sợi tóc. Đất đá vỡ vụn văng tung tóe quanh chúng tôi khi Angus tông sầm xuyên qua tòa nhà gạch.
-
-  
-
-Đến khi chúng tôi kịp né ra sau tòa nhà tiếp theo, Angus đã quay trở lại trận chiến. Tôi lảo đảo chìm giữa một cơn ác mộng sống động: Khu Thứ Phẩm Số 1 sụp đổ, mùi máu tanh nồng nặc, gian phòng trữ thịt, và chị Meg.
-
-  
-
-“Quá sức chịu đựng rồi,” tôi thì thào. “Cháu không thể làm được.”
-
-  
-
-Tôi đã luôn phải vật lộn với nỗi sợ hãi, nỗi kinh hoàng và niềm đau đớn kể từ ngày Khu Thứ Phẩm Số 1 sụp đổ. Khi những tòa nhà xung quanh đổ ập xuống, mọi cảm xúc kìm nén cuối cùng cũng bùng nổ đến đỉnh điểm. Tôi ngã dựa lưng vào tường, run rẩy ôm chặt lấy hai đầu gối.
-
-  
-
-Máu trút xuống như mưa qua bờ tường.
-
-  
-
-Những bức tường rung chuyển dữ dội.
-
-  
-
-Tiếng người la hét thất thanh.
-
-  
-
-Rồi một gương mặt xuất hiện trước mắt tôi. Bàn tay em áp lên tay tôi, ánh mắt em nhìn thẳng vào mắt tôi: “Này sát thủ, ổn rồi mà.”
-
-  
-
-Tôi chẳng biết mình có thốt nên lời hay không, hay bản thân đã nói những gì.
-
-  
-
-“Anh sẽ ổn thôi,” em quả quyết. “Tất cả chúng ta rồi sẽ ổn thôi mà.”
-
-  
-
-Laven đặt một bàn tay lên vai tôi.
-
-  
-
-“Nói chuyện với em đi, sát thủ,” Cori giục. “Bây giờ món gì nghe có vẻ ngon nào?”
-
-  
-
-“Nghe có vẻ ngon ư?”
-
-  
-
-“Để ăn ấy. Từ sáng tới giờ anh chưa có gì vào bụng rồi. Em biết anh đang đói.”
-
-  
-
-Tôi đói thật, đói khát được đấm vào thứ gì đó, được gào thét, được trút sạch nỗi bức bối cùng cực này ra. Tôi cảm thấy cồn cào ruột gan vì khiếp sợ, cồn cào vì thấy bản thân quá đỗi bất lực.
-
-  
-
-Cori nâng đầu tôi lên rồi khẽ xoay nhẹ sang hướng khác, tránh khỏi bãi chiến trường đẫm máu, hướng về phía một con bò mộng đực non nằm chết bên cạnh những ngọn lửa: “Một chút thịt quái thú bò mộng Emphon thì sao? Sao anh không cho họ thấy những gì anh đã học được đi?”
-
-  
-
-Ánh mắt tôi chuyển sang nhìn vào mắt em.
-
-  
-
-“Trước đó em đã sai, khi bảo rằng chúng ta chỉ có thể giúp nếu Laven có sẵn một Đại công thức ma thuật trong ba lô. Chúng ta học nghề mổ xẻ là có lý do, đúng không? Nào. Tất cả những gì chúng ta cần đều đang ở ngay đây rồi.”
-
-  
-
-Laven bóp nhẹ vai tôi: “Tôi vẫn luôn muốn tận mắt thấy cậu trổ tài đấy.”
-
-  
-
-“Tôi không có bột rễ trời,” tôi nói.
-
-  
-
-Trước khi em kịp trả lời, Laven đã thò tay vào túi mình: “Có tôi lo đây rồi, bạn hiền.”
-
-  
-
-Tôi trố mắt ngước nhìn cậu.
-
-  
-
-“Sao thế?” Cậu nhún vai. “Cậu không nghĩ là tôi chỉ biết ngồi nghịch ngón tay trong lúc bà cô bảo mẫu kèm cặp tôi đấy chứ? Tôi giàu và tôi quen biết rộng mà.”
-
-  
-
-“Nhưng tại sao?” Tôi hỏi, tay đón lấy chiếc túi nhỏ.
-
-  
-
-“Một người bạn của tôi báo là vừa kiếm được một ít.” Khóe môi cậu khẽ nhếch lên. “Tôi nghĩ bụng nếu một gã cục mịch như cậu còn nghĩ ra được một Đại công thức ma thuật từ thứ này, khéo tôi cũng có thể dùng thuật giả kim mò ra được một công thức ra trò.”
-
-  
-
-“Một người bạn của cậu à?” Cori cất giọng hoài nghi.
-
-  
-
-“Chỉ là một tay biết cách xoay xở đồ đạc thôi. Chẳng có gì mờ ám đâu.”
-
-  
-
-“Sao trước đó cậu không nhắc đến chuyện này?” Cori hỏi tiếp.
-
-  
-
-“Lúc đó thì làm sao mà kịp chứ? Hai người lao ra khỏi các tầng hầm chứa sách như lũ thỏ dại. Vừa định thần lại thì tôi đã thấy mình vung chảo tát thẳng vào mặt Aniss rồi cắm đầu chạy xa hơn cả quãng đời tôi cộng lại rồi.”
-
-  
-
-Tôi vẫn chưa thật sự yên lòng:
-
-  
-
-“Chừng này có lẽ vẫn chưa đủ để ngăn chặn tất cả. Nó sẽ không giết nổi nhà vua đâu.”
-
-  
-
-Cori lắc đầu:
-
-  
-
-“Thôi nào. Cứ tính từng bước một đã. Nhìn kìa.”
-
-  
-
-Em chỉ tay về phía thi thể một tên Lính Mổ Xẻ, thanh kiếm nằm lăn lóc bên cạnh:
-
-  
-
-“Em tìm được cho mình một cây cưa phẳng rồi này.”
-
-  
-
-Angus và Vanil đâm sầm vào một tòa nhà khác, cảnh tượng chẳng khác nào lúc tôi giao chiến với Bessa.
-
-  
-
-Mọi chuyện lại tái diễn. Trở thành kẻ được nâng tầm, tập hợp tầng lớp Thứ Phẩm trong cuộc bạo động trong lễ Duyệt binh trên không, cái chết của Đầu Bếp Ilantra... chẳng điều nào trong số đó còn ý nghĩa nếu cuối cùng chúng tôi lại quay về đúng vạch xuất phát. Tôi đã đứng lên ngăn chặn Bessa khi chẳng còn ai chịu làm điều đó. Tôi đã hạ gục được *cô bé ấy*, nhưng vẫn chưa thể dập tắt vòng lặp chết chóc này.
-
-  
-
-Và một lần nữa, tầng lớp Thứ Phẩm lại phải chịu cảnh lầm than.
-
-  
-
-Không thể để chuyện này tiếp diễn thêm nữa.
-
-  
-
-“Đi thôi.”
+<p class="para-en">First, we groaned. Then we planned.</p>
+<p class="para-vi-sub">Thoạt tiên, tất cả chúng tôi chỉ biết thở dài ngao ngán. Thế rồi, chúng tôi bắt tay vào vạch ra kế hoạch.</p>

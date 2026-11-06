@@ -1,287 +1,121 @@
-# 23 Tìm kiếm gia vị
+# 19 Nhà
 
-*Món Thứ Hai • Salad Tỉnh Táo*
+<p class="para-en">Dressed in my nicer, Rare clothes, I shrunk into myself, self-conscious that I was much less likely to be recognized as Paprick the common here than when I’d returned from the palace. It’d been weeks since I’d been in a common district, and with all the rebel attacks, I worried I’d be mugged or attacked for being Rare.</p>
+<p class="para-vi-sub">Khoác lên mình bộ trang phục Thượng Phẩm tươm tất hơn, tôi tự co mình lại, e dè và ý thức rõ rằng ở nơi này, khả năng tôi bị nhận ra là gã Thứ Phẩm Paprick thấp hơn nhiều so với lúc vừa trở về từ hoàng cung. Đã nhiều tuần trôi qua kể từ lần cuối tôi đặt chân đến khu Thứ Phẩm, và trước hàng loạt cuộc tấn công của phe phiến quân, tôi lo sợ mình sẽ bị trấn lột hoặc hành hung chỉ vì khoác trên người diện mạo của kẻ Thượng Phẩm.</p>
 
-Một lúc sau tôi mới tỉnh dậy trên một chiếc giường xếp nhỏ trong gian kho chứa nông sản. Đầu Bếp Ilantra đang cúi xuống nhìn tôi, đôi mắt màu vàng vốn nhạt nhòa nay rực lên như lửa bởi Sức bền ma thuật và sự bực dọc. “Ngươi nghĩ cái gì trong đầu vậy hả?”
+<p class="para-en">I was utterly unprepared for the changes to the Commons.</p>
+<p class="para-vi-sub">Tôi hoàn toàn chưa chuẩn bị tâm lý cho những đổi thay ở các khu Thứ Phẩm.</p>
 
-  
+<p class="para-en">As I walked through the streets, I saw carvers painting over murals of me. “Stand Tall” written beneath them.</p>
+<p class="para-vi-sub">Rảo bước qua những con phố, tôi nhìn thấy những người thợ xẻ thịt đang vẽ các bức bích họa khắc họa hình ảnh của mình. Bên dưới là dòng chữ: “Hãy đứng thẳng!”.</p>
 
-Cổ họng tôi đau rát, nhói lên từng cơn buốt nhọn khi tôi cố cất lời. Trút ra một tiếng thở dài, bà múc cho tôi một muỗng canh sữa Emphon. Cảm giác chữa lành cùng Sức bền ma thuật cuộn trào khắp cơ thể tôi ngay sau ngụm đầu tiên. Nhẹ nhàng như khoảnh khắc chuyển mùa từ hạ sang thu, vòm họng khô rát của tôi dịu đi, trở nên ẩm ướt và ấm áp. Đó không hẳn là một liều thuốc tiên kỳ diệu. Sẽ phải mất vài ngày nữa tôi mới có thể nuốt nổi những thứ cứng giòn như một miếng khoai tây chiên tortilla, nhưng nhiêu đây cũng đã đủ lắm rồi.
+<p class="para-en">As I stuck to the alleys, I heard whispered conversations through broken windows. “Tomorrow, we stand tall! Screw the overseers by slowing the conveyor, start some fights, anything. Who’s with me?”</p>
+<p class="para-vi-sub">Lách mình qua các con hẻm nhỏ, tôi nghe thấy những tiếng thì thầm vọng ra từ ô cửa sổ vỡ nát: “Ngày mai, chúng ta sẽ đứng thẳng! Mặc kệ lũ giám sát, cứ làm chậm băng chuyền lại, khơi mào vài trận ẩu đả, làm bất cứ trò gì cũng được. Ai đi cùng tôi?”</p>
 
-  
+<p class="para-en">As I entered Common-3, I smelled Shank Stew on the air. Someone was cooking it. And not doing a particularly good job of hiding it either. I quickened my step, afraid the scent was coming from beneath my moms’ door.</p>
+<p class="para-vi-sub">Vừa bước vào Khu Thứ Phẩm Số 3, tôi đã ngửi thấy mùi Súp bắp bò phóng hỏa - Đại công thức 7 thoang thoảng trong không khí. Ai đó đang nấu món ăn này, và họ chẳng buồn che đậy cẩn thận. Tôi rảo bước nhanh hơn, lòng nơm nớp sợ rằng mùi hương ấy đang bốc ra từ khe cửa nhà các mẹ.</p>
 
-“Tôi cũng chẳng hiểu chuyện gì vừa xảy ra nữa,” tôi thì thào. “Có phải tôi bị ngộ độc thực phẩm không?”
+<p class="para-en">And then I was standing in front of it. No smell crept from beneath, but no candlelight did either. That hole—the fear of why I received no letters—started opening beneath me again. My arms shook as I lifted my hand to knock. What would I do if no one answered?</p>
+<p class="para-vi-sub">Rồi tôi đứng trước cánh cửa quen thuộc. Không có mùi hương nào lọt qua khe cửa, nhưng cũng chẳng có lấy một đốm ánh nến. Cái vực sâu hoắm ấy, nỗi sợ hãi tột cùng về lý do tại sao tôi không nhận được bất kỳ lá thư nào, lại bắt đầu mở ra dưới chân. Hai cánh tay tôi run rẩy giơ lên gõ cửa. Tôi biết phải làm sao nếu không có ai trả lời?</p>
 
-  
+<p class="para-en">I don’t even remember knocking. No idea how long it took for a light to appear beneath the crack. But I can remember the sweat dripping off my chin and plummeting toward the floor like that endless abyss of worry.</p>
+<p class="para-vi-sub">Tôi thậm chí không nhớ mình đã gõ cửa ra sao. Chẳng rõ mất bao lâu mới có một vệt sáng xuất hiện dưới khe cửa. Nhưng tôi vẫn nhớ như in từng giọt mồ hôi lăn dài trên cằm, rơi xuống sàn nhà như rơi vào vực thẳm lo âu vô tận.</p>
 
-Bà bật cười một tiếng đầy nhạo báng: *“Cậu thực sự không biết sao?”*
+<p class="para-en">“Pappy!” Mom shouted in surprise when she opened it, shoving several zaatar crackers into my hand in greeting. “Come in, come in.”</p>
+<p class="para-vi-sub">“Pappy!” Mẹ reo lên đầy kinh ngạc khi mở cửa, dúi vào tay tôi mấy chiếc bánh quy kẹp cỏ xạ hương thay cho lời chào. “Vào đi, vào đi con.”</p>
 
-  
+<p class="para-en">I smothered her in a hug, burying my nose in her hair to inhale the scent of sourdough and home.</p>
+<p class="para-vi-sub">Tôi ôm chầm lấy mẹ, rúc mũi vào tóc mẹ hít hà mùi bột chua quen thuộc và hương vị của gia đình.</p>
 
-“Biết gì cơ chứ?”
+<p class="para-en">Mother poked her head out of their bedroom and dashed out to join our hug. “Swe’me, finally!”</p>
+<p class="para-vi-sub">Má Asabi cũng ló đầu ra khỏi buồng ngủ, lao nhanh đến ôm chầm lấy cả hai mẹ con tôi. “Cục cưng của má, cuối cùng con cũng về rồi!”</p>
 
-  
+<p class="para-en">“You’re too thin,” Mom chided as I pulled away from Mother. “Are you eating?”</p>
+<p class="para-vi-sub">“Con gầy đi nhiều quá đấy,” Mẹ trách móc khi tôi buông mẹ ra. “Con có ăn uống đầy đủ không đấy?”</p>
 
-Bà cặn kẽ giải thích cho tôi về hiện tượng dị ứng và sốc phản vệ.
+<p class="para-en">“Yes,” I insisted as she immediately began cooking. “I’m just working a lot.”</p>
+<p class="para-vi-sub">“Có mà mẹ,” tôi quả quyết khi thấy mẹ lập tức bắt tay vào nấu nướng. “Chỉ là dạo này con làm việc hơi nhiều thôi.”</p>
 
-  
+<p class="para-en">“Too much to see your mothers,” Mother commented.</p>
+<p class="para-vi-sub">“Nhiều đến mức không có thời gian về thăm các mẹ luôn cơ đấy,” Mẹ nhận xét.</p>
 
-“Tôi từng nghe nói bơ đậu phộng có thể gây ra phản ứng đó ở người thuộc tầng lớp Thứ Phẩm, nhưng không ngờ thịt cũng làm được vậy.”
+<p class="para-en">“They haven’t been letting me out of the Clouds! I had to sneak out to come here.”</p>
+<p class="para-vi-sub">“Họ không cho con rời khỏi Phố Mây! Con phải trốn ra ngoài mới đến thăm các mẹ được đấy.”</p>
 
-  
+<p class="para-en">She played the disbeliever for a moment longer before she drew me into another hug. “I’m just glad to see you, swe’me. Tell us everything.”</p>
+<p class="para-vi-sub">Mẹ vờ như không tin thêm một lúc rồi lại kéo tôi vào một cái ôm ấm áp. “Mẹ chỉ mừng vì được gặp con, cục cưng ạ. Kể cho các mẹ nghe mọi chuyện đi.”</p>
 
-“Là hải sản có vỏ,” bà giải thích. “Và xem ra chứng dị ứng của ngươi cực kỳ nghiêm trọng. Ngươi sẽ không được phép bén mảng vào gian bếp của ta khi chúng ta chế biến món ăn đó.”
+<p class="para-en">I explained my jobs for Cutler and Ilantra and how that kept me fed. Then school, my growing friendship with Laven, how Yenne was tutoring me.</p>
+<p class="para-vi-sub">Tôi kể cho các mẹ nghe về công việc phụ bếp cho chú Cutler và Đầu Bếp Ilantra, nhờ đó mà tôi luôn được ăn no. Rồi chuyện trường lớp, tình bạn ngày càng khăng khít với Laven, cùng việc Yenne đang phụ đạo cho tôi.</p>
 
-  
+<p class="para-en">“A common?” Mom asked earnestly.</p>
+<p class="para-vi-sub">“Một cô gái Thứ Phẩm à?” Mẹ sốt sắng hỏi.</p>
 
-“Nhưng tôi...” Tôi chồm người ngồi bật dậy trên chiếc giường xếp.
+<p class="para-en">“Another woman?” Mother asked with much less subtlety. “And here I thought he had eyes for that Cori. I liked her.”</p>
+<p class="para-vi-sub">“Lại một cô gái khác nữa sao?” Má hỏi thẳng thừng hơn. “Thế mà má cứ tưởng con chỉ để mắt đến con bé Cori chứ. Má thích con bé đó lắm.”</p>
 
-  
+<p class="para-en">I cleared my throat. “We’re not doing this.”</p>
+<p class="para-vi-sub">Tôi hắng giọng: “Chúng mình đừng bàn chuyện này nhé.”</p>
 
-“Miễn thương lượng, trò học việc! Nếu năm nay có nạn ve sầu bùng phát, ngươi cũng không được phép xuất hiện tại bữa tiệc đó. Ngươi có hiểu không? Ngươi có thể mất mạng như chơi đấy!”
+<p class="para-en">Mom lowered her voice. “Have you, you know, seen Cori recently?”</p>
+<p class="para-vi-sub">Mẹ hạ thấp giọng: “Gần đây con có... con biết đấy... gặp Cori không?”</p>
 
-  
+<p class="para-en">“I haven’t been able to get out of the Clouds.” I dropped to a whisper. “What’s going on? Those murals, and I smelled stew.”</p>
+<p class="para-vi-sub">“Con không thể rời khỏi Phố Mây.” Tôi chuyển sang nói nhỏ. “Có chuyện gì đang xảy ra thế mẹ? Những bức bích họa đó, rồi cả mùi súp bắp bò nữa.”</p>
 
-Tôi định lên tiếng cãi lại, nhưng cơ thể đã kiệt sức đến mức chẳng thể thốt nên lời. Dù phản ứng vừa rồi là gì, nó cũng đã cuốn sạch toàn bộ hiệu ứng của món Salad tỉnh táo - Đại công thức 2 cùng tất cả Sức bền ma thuật ra khỏi cơ thể tôi.
+<p class="para-en">“We’re trying to stay out of it, swe’me,” Mother said. “But we did share the Shank Stew greater. People were suspicious at first, that we weren’t helping. They talk about you all the time. Paint those murals. Vanil and his lot have been organizing disruptions at factories and educating common about the rights they used to have when the Herdon royals ruled here.”</p>
+<p class="para-vi-sub">“Các mẹ đang cố tránh xa những chuyện đó, cục cưng ạ,” Mẹ nói. “Nhưng các mẹ đã chia sẻ Đại công thức Súp bắp bò phóng hỏa. Ban đầu mọi người còn nghi ngờ, cho rằng các mẹ không chịu giúp đỡ. Họ nhắc đến con suốt ngày, rồi còn vẽ những bức bích họa đó nữa. Vanil cùng người của ông ta đang tổ chức các cuộc đình công gây rối tại các xưởng mổ, đồng thời tuyên truyền cho người Thứ Phẩm về những quyền lợi mà họ từng có khi gia tộc Herdon còn cai trị nơi này.”</p>
 
-  
+<p class="para-en">“Rights? What rights?” I said in disbelief.</p>
+<p class="para-vi-sub">“Quyền lợi ư? Quyền lợi gì cơ chứ?” Tôi thốt lên, không tin nổi vào tai mình.</p>
 
-Đầu Bếp Ilantra nhẹ nhàng đẩy tôi nằm xuống lại. Sự dịu dàng bất ngờ từ bà là một điều thật đáng lo ngại. “Nghỉ ngơi đi. Ta đã cho người gọi bạn ngươi đến để giúp ngươi về ký túc xá. Ngươi có thể bỏ buổi học Kỹ nghệ Dùng dao vào buổi sáng nếu vẫn còn lơ mơ, nhưng đừng để nó thành thói quen.” Bà đứng dậy. “Ta còn một món mousse phải chuẩn bị. Trong lúc đó thì cố mà đừng có chết đấy.”
+<p class="para-en">Mom chuckled from the kitchen. “Some school they sent you to. People used to be able to worship the Twelve openly, not just the Consumer. Common could have their own newssheet to say whatever it wanted. Stuff like that.”</p>
+<p class="para-vi-sub">Mẹ cười khúc khích từ trong bếp: “Đúng là cái trường học người ta gửi con vào có khác, chẳng dạy được điều gì ra trò. Ngày xưa, người ta từng được tự do thờ phụng Mười Hai Vị Thần một cách công khai, chứ không chỉ riêng Đấng Tiêu Thụ. Người Thứ Phẩm cũng từng có tờ tin riêng để nói bất cứ điều gì mình muốn. Đại loại như thế.”</p>
 
-  
+<p class="para-en">“And your mother and I could be legally married, not just ‘cohabitating.’ ”</p>
+<p class="para-vi-sub">“Và hai mẹ cũng có thể kết hôn hợp pháp, chứ không phải chỉ ‘sống chung’ thế này.”</p>
 
-✦  ✦  ✦
+<p class="para-en">They filled me in on more of the rebels’ actions as we ate a salad of berries and melons with a side of tea. A decent midnight snack, but so much less than I was growing used to at Family Dinner. The quality of the berries was a shock too. Had our food always been so close to going bad? Both my moms appeared satisfied by the meal, and when I suggested cooking something for them and my friends, they waffled politely about whether it was kind to wake people up or rude to show off by making an extra meal on a whim. It showed just how quickly I’d left behind the efficient metabolism of poverty. I had to cover my stomach with a blanket to stifle a growl, still hungry. And I’d eaten a greater recipe today. I doubted my mothers even understood the level of fullness I enjoyed daily. What would they think of the Family Dinners I treated more like lessons than sustenance?</p>
+<p class="para-vi-sub">Hai người mẹ kể thêm cho tôi nghe về những hoạt động của phe phiến quân trong lúc chúng tôi ăn món salad dâu dưa lưới cùng một tách trà. Đó là một bữa ăn đêm tương đối ổn, nhưng quá đỗi khiêm tốn so với những gì tôi đã dần quen thuộc tại các bữa ăn tập thể của nhà hàng. Chất lượng của những quả dâu cũng khiến tôi ngỡ ngàng. Chẳng lẽ bấy lâu nay, thức ăn của gia đình tôi luôn mấp mé bên bờ ôi thiu thế này sao? Cả hai người mẹ đều tỏ ra hài lòng với bữa ăn. Khi tôi đề nghị nấu món gì đó cho hai mẹ và các bạn của họ, cả hai liền khéo léo từ chối. Họ băn khoăn liệu việc đánh thức mọi người giữa đêm có thiếu lịch sự hay không, hay việc ngẫu hứng nấu thêm một bữa chỉ để khoe khoang có bị xem là khiếm nhã. Điều đó cho thấy tôi đã rũ bỏ cơ chế trao đổi chất vô cùng hiệu quả của sự nghèo khổ nhanh đến mức nào. Tôi phải kéo chăn đè chặt bụng để át tiếng réo ùng ục, dạ dày vẫn cồn cào vì đói. Dù sao thì ngày hôm nay, tôi rõ ràng đã thưởng thức một Đại công thức ma thuật. Tôi e rằng hai mẹ khó lòng hiểu được mức độ no đủ mà tôi được tận hưởng mỗi ngày. Họ sẽ nghĩ sao về những bữa ăn thịnh soạn ở nơi đó, thứ mà tôi coi trọng như một lớp học hơn là nguồn dinh dưỡng duy trì sự sống?</p>
 
-  
+<p class="para-en">I spent the night in my old room, and even though I didn’t need to sleep, the nightmares returned. Common-1 falling.</p>
+<p class="para-vi-sub">Tôi trải qua đêm đó trong căn phòng cũ của mình. Dù không cần ngủ, những cơn ác mộng vẫn kéo về: Khu Thứ Phẩm Số 1 sụp đổ, người Thứ Phẩm bỏ mạng.</p>
 
-Để đảm bảo chúng ta không kéo dài câu chuyện tới tận lúc quái thú Emphon ập đến giết sạch tất cả, tôi sẽ không kể lại từng chi tiết nhỏ nhặt trong cuộc sống thường nhật của mình. Chỉ cần biết rằng trong vài tuần qua, tôi đã trở nên thân thiết hơn với Laven. Giữa những giờ học, những bữa trưa thỉnh thoảng ở quán rượu hay những cốc bia “ôn bài” đêm muộn, chúng tôi đã trở thành bạn bè, những người bạn thực sự như tôi từng có ở Khu Thứ Phẩm Số 3, điều mà tôi chưa từng tưởng tượng lại có thể xảy ra với một kẻ thuộc tầng lớp Thượng Phẩm.
+<p class="para-en">Common dying. I found myself staring out our oily, opaque window, imagining common trying to climb the stairs to assail the Rare in Fen’s Plateau. There was no chance. Dawn cracked, and parents ushered their five-year-old kids toward the river to catch frogs for stew before school in hopes of giving them meat. I remembered learning to swim so I could dive down to hide if a Rare happened to be down by the river. As much as I was starting to like Laven, I doubted he’d ever hidden in the silt while trying to feed his family.</p>
+<p class="para-vi-sub">Tôi đăm đăm nhìn ra ngoài ô cửa sổ mờ đục bám đầy dầu mỡ, hình dung cảnh những người Thứ Phẩm cố gắng leo lên từng bậc thang để tấn công người Thượng Phẩm trên Cao nguyên Fen. Hoàn toàn chẳng có chút cơ hội nào. Khi bình minh ló rạng, các bậc cha mẹ hối hả dẫn những đứa con năm tuổi ra bờ sông bắt ếch về hầm trước giờ học, hy vọng mang lại cho lũ trẻ chút thịt. Tôi nhớ mình từng phải học bơi để lặn xuống ẩn nấp nếu chẳng may có bóng dáng người Thượng Phẩm nào xuất hiện bên bờ sông. Dù bắt đầu quý mến Laven Florento, tôi vẫn ngờ rằng cậu ấy chưa từng phải trốn dưới lớp bùn sông trong lúc chật vật tìm miếng ăn nuôi sống gia đình.</p>
 
-  
+<p class="para-en">When Mother was ready for work the next morning, I walked her toward her factory, which was on the way to Black Spice. The streets were crowded, common heading to day shifts, and it was impossible to go unseen in my Rare clothes. Within a block, common swarmed me to hand me greetings.</p>
+<p class="para-vi-sub">Sáng hôm sau, khi mẹ chuẩn bị đi làm, tôi sóng bước tiễn bà về phía xưởng làm việc, nơi nằm trên con đường dẫn đến Chợ Gia Vị Hắc Ám. Đường phố đông nghịt người Thứ Phẩm đang đổ xô đi làm ca sáng, và tôi chẳng thể tránh khỏi những ánh nhìn soi mói trong bộ trang phục dành cho người Thượng Phẩm. Mới đi được một dãy nhà, người Thứ Phẩm đã vây quanh tôi với những lời chào hỏi.</p>
 
-Tôi không tin tưởng cậu ấy đến mức thổ lộ bí mật của phe kháng chiến, nhưng tôi cũng đã chia sẻ vài điều, như việc tôi nhớ món tương ớt lên men của Mẹ đến thế nào, hay thậm chí trao cho cậu ấy công thức bánh mì men chua thông thường của Mẹ. Chủ yếu là vì cậu ấy luôn chủ động cởi mở với tôi mà chẳng cần tôi tra hỏi. Chẳng hạn như lý do cậu ấy luôn phải mang chiếc chảo lòng sâu trên lưng (vì hồi nhỏ, những đứa trẻ Thượng Phẩm khác thường ném đá vào lưng cậu ấy lúc cậu ấy đang gục đầu trên sổ tay), hay ước mơ được người đời nhớ đến nhờ việc phát minh ra một công dụng mới cho quả trứng, bởi theo cậu ấy, những món như trứng khuấy, trứng nhồi gia vị, trứng đánh bông, trứng chiên cùng hàng triệu biến tấu khác vẫn là chưa đủ.
+<p class="para-en">“I’m sorry you have to deal with this,” I apologized to Mother as our progress ground to a halt.</p>
+<p class="para-vi-sub">“Con xin lỗi vì mẹ phải chịu đựng cảnh này,” tôi lên tiếng tạ lỗi khi bước chân của hai mẹ con bị chặn khựng lại.</p>
 
-  
+<p class="para-en">“It’s like this every day, swe’me,” she admitted. “Most, especially mothers, congratulate us for seeing our child into a better situation, but some blame us for ‘giving you’ to the Rare. Want us to get you back so you can fight.”</p>
+<p class="para-vi-sub">“Ngày nào cũng thế này cả, con yêu ạ,” mẹ khẽ lắc đầu. “Hầu hết mọi người, đặc biệt là những bà mẹ, đều chúc mừng hai mẹ vì con đã có được hoàn cảnh tốt đẹp hơn. Nhưng cũng có vài người trách móc chúng ta đã ‘giao nộp con’ cho người Thượng Phẩm. Họ muốn chúng ta đưa con trở về để chiến đấu.”</p>
 
-Cậu ấy lao vào phòng hân hoan như một đứa trẻ trong cửa hàng kẹo: “Họ đang làm món mousse cho nhà vua bằng thuật giả kim thực sự...” Cậu ấy đột ngột ngắt lời, nhăn mặt khi nhìn thấy tôi. “Trời đất ơi, trông cậu tơi tả dữ vậy? Có chuyện gì thế?”
+<p class="para-en">I wanted to be comforted by how highly the common regarded me, but the truth was I hadn’t done anything meaningful since stopping Bessa. Yeah, Vanil ordered me to keep the Rare distracted, but I spent more thought on improving my cleaversaw technique than on whether Common-1 would be rebuilt for those its collapse left unhoused.</p>
+<p class="para-vi-sub">Tôi muốn tìm kiếm chút an ủi từ sự kính trọng mà người Thứ Phẩm dành cho mình, nhưng sự thật là tôi chưa làm được điều gì thực sự có ý nghĩa kể từ khi ngăn chặn Bessa. Phải, Vanil đã ra lệnh cho tôi khiến người Thượng Phẩm phân tâm, nhưng tôi lại dành quá nhiều tâm trí cho việc rèn luyện kỹ thuật sử dụng đao cưa đồ tể, thay vì bận tâm xem Khu Thứ Phẩm Số 1 có được tái thiết cho những người mất nhà cửa sau vụ sụp đổ hay không.</p>
 
-  
+<p class="para-en">Common seemed to notice they were waylaying Mother’s progress and quickly started clearing a path for us. She thanked them and told them it was unnecessary, starting forward with a smile I recognized as proud. Proud.</p>
+<p class="para-vi-sub">Nhận ra mình đang cản bước mẹ, những người Thứ Phẩm nhanh chóng dạt sang hai bên mở đường. Mẹ cảm ơn họ, bảo rằng họ không cần phải làm vậy, rồi bước tiếp với một nụ cười mà tôi nhận ra là đong đầy tự hào.</p>
 
-“Lỡ dại nếm thử món súp của nhà vua ấy mà,” tôi đùa, dù giọng nói khàn đặc như tiếng cưa xẻ gỗ.
+<p class="para-en">I hadn’t done anything. I just stood there, the common starting to look at me with concern, until Mother turned around to see what was holding me.</p>
+<p class="para-vi-sub">Tự hào ư? Tôi đã làm được gì đâu cơ chứ. Tôi đứng ngây ra đó, khiến những người Thứ Phẩm bắt đầu nhìn mình bằng ánh mắt lo âu, cho đến khi mẹ quay đầu lại xem điều gì đang giữ chân tôi.</p>
 
-  
+<p class="para-en">“I’m sorry,” I said, hurrying back to her. “I have to go. I need to talk to Rish and do more.”</p>
+<p class="para-vi-sub">“Con xin lỗi,” tôi nói, vội bước lại gần mẹ. “Con phải đi rồi. Con cần gặp chú Rish và làm nhiều việc hơn nữa.”</p>
 
-Cậu ấy khoác tay tôi rồi dìu tôi đứng dậy. “Mấy gã yếu đuối hơn chắc gục ngã luôn vì chiêu đó rồi đấy. Để tôi đưa cậu về giường nghỉ ngơi.”
+<p class="para-en">“Swe’me,” she started, but I pulled her into a hug.</p>
+<p class="para-vi-sub">“Con yêu...” Mẹ định nói gì đó, nhưng tôi đã ôm chặt lấy bà.</p>
 
-  
+<p class="para-en">“I’m going to be back more. I promise. I love you.”</p>
+<p class="para-vi-sub">“Con sẽ về thăm mẹ nhiều hơn. Con hứa đấy. Con yêu mẹ.”</p>
 
-Toàn thân tôi đau nhức như thể vừa chạy dọc suốt chiều dài tường thành Ranch. Khi tới được cầu thang trung tâm, hơi thở tôi đã trở nên dồn dập. “Tôi không leo nổi sáu tầng lầu đâu,” tôi thở hổn hển, ngước mắt nhìn lên đường thang xoắn ốc.
+<p class="para-en">The warmth of her smile could’ve melted ice cream. “I love you too. Go on. I can get to work by myself.”</p>
+<p class="para-vi-sub">Nụ cười ấm áp của mẹ đủ sức làm tan chảy cả kem lạnh. “Mẹ cũng yêu con. Đi đi con, mẹ tự tới xưởng được mà.”</p>
 
-  
+<p class="para-en">I might’ve slunk my way into the Commons the night before, but in the light of day, I damn near ran to Black Spice.</p>
+<p class="para-vi-sub">Đêm qua tôi có thể đã lén lút mò vào khu Thứ Phẩm, nhưng dưới ánh sáng ban ngày, tôi gần như vắt chân lên cổ chạy về phía Chợ Gia Vị Hắc Ám.</p>
 
-Trong một khoảnh khắc, có vẻ cậu ấy định cõng tôi, mặc cho chiếc chảo lòng sâu nặng trĩu vẫn đeo trên lưng. Thế nhưng dù vạm vỡ và khỏe mạnh đến đâu, tôi nghĩ Laven cũng thừa biết sáu tầng lầu là quá sức với cậu ấy.
-
-  
-
-“Tôi có thể đưa cậu về phòng tôi, nhưng tôi chỉ có một chiếc giường thôi. Chắc nên để dành chuyện đó cho giai đoạn sau của tình bạn chúng ta nhỉ?”
-
-  
-
-Laven hạ thấp giọng: “Nếu có ai hỏi, cứ bảo là chúng ta bị lạc.” Cậu nhanh chóng dẫn tôi, hay chính xác hơn là đỡ lấy tôi, đi xuống một dãy hành lang tôi chưa từng đặt chân tới. Thật ra, tôi từng hy vọng sẽ thám thính nơi này sau ca làm việc, bởi thỉnh thoảng Winta vẫn cử người chạy việc đi qua lối này mỗi khi phòng chứa thực phẩm thiếu đồ. Nhưng dẫu có đi, tôi cũng chẳng thể tiến xa. Ở cuối hành lang, chúng tôi bước qua bên dưới tấm biển đề chữ KHU VỰC CẤM: TẦNG KHO PHỤ, rồi dừng lại trước một cánh cửa khóa kín bằng ổ khóa lớn.
-
-  
-
-Laven dáo dác liếc nhìn qua vai trước khi rút chìa khóa từ trong túi ra tra vào ổ. Cánh cửa mở ra, hé lộ cầu thang dẫn xuống tầng hầm.
-
-  
-
-“Cậu đang muốn hành xác tôi thêm đấy à?” Tôi cằn nhằn.
-
-  
-
-Cậu đặt một ngón tay lên môi ra hiệu im lặng, rồi đỡ tôi bước xuống một mê cung kệ sách nồng nặc mùi ẩm mốc. Một vài dãy kệ xếp ngay ngắn những cuốn thư tịch học thuật dày cộp, số khác lại chất đầy lon lọ cùng hũ gốm. “Thư viện ở các tầng trên không thể chứa hết mọi thứ,” Laven giải thích sau khi chúng tôi đã chắc chắn không có ai phục sẵn dưới chân cầu thang. “Các phòng học và phòng chứa thực phẩm ở Phân khu Thực hành cũng vậy. Họ luân chuyển đồ đạc bằng một chiếc tời nâng hàng...” Nhìn vẻ mặt bối rối của tôi, cậu liền đính chính: “Ồ, ừm, thang máy, tôi nghĩ cậu sẽ gọi nó như thế. Nhưng về mặt lý thuyết thì nơi này chỉ dành cho giáo viên và nhân viên thôi.”
-
-  
-
-Một luồng cảnh giác đột ngột chạy dọc cơ thể đang kiệt quệ của tôi. *Đây rất có thể là cơ hội giúp tôi tìm ra thứ gia vị ấy.* Laven nhướng mày, chăm chú dò xét phản ứng bất ngờ của tôi.
-
-  
-
-“Ồ, phải rồi, thang máy,” tôi nói, vờ như đó là lý do khiến mình sửng sốt. “Mấy gã đốc công trong Xưởng của Nhà Vua cũng có thứ đó để khỏi phải đi bộ như đám thợ bọn tôi. Sao cậu lại có chìa khóa?”
-
-  
-
-“Chôm của cha tôi đấy.” Cậu chỉ tay. “Lối này.”
-
-  
-
-Chúng tôi chậm rãi lách qua những dãy kệ, đi ngang qua mấy cánh cửa mà tôi đoán là dẫn vào các phòng kho khác. Khi rẽ qua một khúc ngoặt, nơi chiếc tời nâng hàng đang nằm chờ ở cuối dãy, một giọng nữ nghẹn ngào đột ngột vang lên: “Xin đừng, làm ơn!”
-
-  
-
-Tóc gáy tôi dựng ngược, lông tơ trên cánh tay nổi hết cả lên. “Cậu có nghe thấy gì không?”
-
-  
-
-“Nghe thấy gì cơ?” Laven vẫn tiếp tục kéo tôi về phía chiếc tời, nhưng tiếng thút thít rấm rứt đã kéo bước chân tôi về phía một cánh cửa gần đó.
-
-  
-
-*“Có người ở trong này.”*
-
-  
-
-Khi Laven cùng tôi áp tai vào cửa, một tiếng bép nhớp nháp vang lên, cắt ngang một tiếng thét khác. Mắt cậu trợn tròn, vội vàng lùi lại: “Chúng ta nên đi gọi người đến giúp.”
-
-  
-
-“Nhỡ không kịp thì sao?” Tôi nói. “Họ đang bị bạo hành kìa.”
-
-  
-
-Laven chửi thề một tiếng rồi nhìn quanh trước khi tự gật đầu. Từ chiếc túi đeo chéo, cậu lấy ra một bát thủy tinh nhỏ đậy bằng mảnh giấy gói thịt, buộc chặt bằng dây thun. Cậu mở nắp rồi đưa bát cho tôi: “Tôi đã nẫng thứ này từ quầy ra món ở Học viện khi ghé qua tìm cậu. Ban đầu tôi định tự mình ăn, nhưng...” Những vụn thịt băm sống, lạnh ngắt từ món Thịt băm Emphon của Đầu Bếp Ilantra như đang vẫy gọi tôi từ trong bát, tỏa ra mùi thơm béo ngậy. “Cậu hãy cố ngăn chặn bất cứ chuyện gì đang diễn ra ở đây đi. Tôi sẽ đi tìm viện binh.”
-
-  
-
-“Cậu định bỏ mặc tôi đấy à?” Tôi phản đối. “Tôi kiệt sức rồi.”
-
-  
-
-“Chúng ta chỉ có đủ cho một người thôi, với lại...” Cậu nhìn đi chỗ khác, “... tôi sợ mình sẽ cứng đờ người ra mất.”
-
-  
-
-“Được rồi,” tôi nói, chẳng chắc mình có thêm chút tự tin nào không.
-
-  
-
-Cậu nhanh chóng rời đi ngay khi tôi bốc một nhúm thịt băm bỏ vào miệng. Hương vị lập tức bùng nổ, sự cân bằng hoàn hảo giữa vị cay nồng và béo ngậy khiến nó giống một loại sốt kem salsa hơn là món thịt. Đôi mắt tôi sáng bừng lên, phản chiếu những chiếc hũ bám đầy bụi bặm xung quanh, và một nguồn sức mạnh cuồn cuộn chảy dọc hai cánh tay. Theo bản năng, tôi siết chặt nắm tay và cảm nhận lớp da trên các khớp ngón tay rách ra, hé lộ những tấm kim loại xỉn màu ở nơi đáng lẽ phải là xương. Không hề đau đớn mà lại tràn ngập cảm giác phấn khích. Tôi cảm thấy cơ thể mình nặng hơn và cứng cáp hơn, như thể mọi khúc xương bên trong đều đã hóa thành thép nguội.
-
-  
-
-Tôi hít một hơi thật sâu rồi chộp lấy chiếc hũ thủy tinh trên kệ gần đó để làm vũ khí ném, hoặc làm điều gì đó đại loại thế. Chẳng có kế hoạch nào cả, chỉ có sự liều lĩnh bốc đồng tự khoác lên mình lớp vỏ dũng cảm. Tôi nhẹ nhàng hé mở cánh cửa, luồng không khí lạnh giá lập tức ùa ra khỏi căn phòng như thể đang tuyệt vọng tìm đường thoát thân.
-
-  
-
-Ánh nến chập chờn hé lộ một phòng đông lạnh thịt. Ở chính giữa căn phòng là một gã đàn ông nhợt nhạt, tóc vàng, mặc y phục lữ hành dày cộp của giới Thượng Phẩm (loại trang phục người ta thường mặc khi băng qua sa mạc vào mùa đông), hai ống tay áo màu xám của hắn đẫm máu. Những vệt máu bắn tung tóe phủ trên mặt hắn, nhuộm đỏ đôi mắt đầy Sức bền ma thuật cùng bộ ria mép, đỏ rực như những tảng thịt bò rừng treo lủng lẳng trên dàn móc của thợ đồ tể.
-
-  
-
-Chúng không phải là những thứ duy nhất được treo ở đó. Hai người đàn ông và một người phụ nữ, rõ ràng thuộc tầng lớp Thứ Phẩm trong những bộ quần áo tự dệt thô sơ, đang đung đưa phía sau gã Thượng Phẩm kia. Hai bàn tay họ bị những chiếc móc sắt đâm xuyên qua, treo lơ lửng giữa không trung. Tôi suýt chút nữa đã đánh rơi chiếc hũ khi mồ hôi lạnh ngắt ứa ra trong lòng bàn tay. Máu từ những vết chém sâu hoắm trên người những kẻ Thứ Phẩm chảy ra đầm đìa. Ít nhất một người chắc chắn đã chết, đỉnh đầu anh ta bị vạt mất, bộ não nằm gọn trong chiếc bát làm từ chính hộp sọ của mình đặt ngay trên sàn nhà cạnh gã Thượng Phẩm. Bên cạnh đó, bị vứt bỏ lăn lốc và vấy đẫm máu, là một chiếc mặt nạ khắc hình chiếc mũi hình sao của loài quái thú lợn lòi badgeboar Emphon.
-
-  
-
-Tôi đã từng thấy máu. Tôi đã từng thấy nội tạng. Xưởng của Nhà Vua là một nơi kinh hoàng và rùng rợn.
-
-  
-
-*Nhưng cảnh tượng này hoàn toàn không giống như thế.*
-
-  
-
-Cơn buồn nôn trào ngược lên cổ họng, nhưng tôi sực nhớ lại mình đã từng nôn ra một phần món ăn Đại công thức trên Cánh Đồng Cỏ Cao thế nào, vừa mới nôn ọe trong bếp ra sao, và mỗi lần như thế đều cướp đi của tôi một phần Sức bền ma thuật. Nghiến chặt răng, tôi cố nén nó lại, hai má căng phồng. Khi nuốt ngược cơn buồn nôn xuống, tôi nhận ra gã Thượng Phẩm vẫn chưa nhìn thấy mình.
-
-  
-
-Tôi phóng chiếc hũ thủy tinh về phía đầu hắn nhưng ném trượt, rồi lao thẳng tới với hai nắm đấm sắt giơ cao. Tên Thượng Phẩm lùi lại trước khi kịp thủ thế. Một tay hắn lăm lăm con dao lạng thịt mỏng tang, và khi tôi rút ngắn khoảng cách, hắn đâm thẳng tới, định rạch nát cánh tay tôi. Lách người sang một bên, tôi vung quyền nhắm thẳng mặt hắn. Khi nắm đấm bằng sắt nện mạnh vào gò má hắn, tôi cảm nhận rõ hàm răng hắn bung ra khỏi ổ, một chiếc răng văng ra qua đôi môi đẫm máu đang mím chặt.
-
-  
-
-Trước khi tôi kịp tung cú đấm tiếp theo, hắn giật lùi lại, và chúng tôi quần thảo vòng quanh nhau. Sự tập trung cao độ vào Sức bền ma thuật giúp tôi nhìn thấu mọi chuyển động của hắn, từ cách hắn dồn lực sang bên phải cho đến từng lợi thế từ môi trường xung quanh. Những vũng máu bê bết khắp sàn nhà. Không khí lạnh buốt đến cắt da cắt thịt. Tôi thầm cảm ơn Trung Úy Vyson vì những trận đòn nhừ tử thường ngày đã mài giũa tôi sắc bén như một lưỡi dao. Tôi chỉ cần khoảnh khắc đó để tính toán đường tấn công.
-
-  
-
-Tôi tung đòn nhử sang sườn trái của hắn, vờ nhắm một cú đấm vào đầu gối. Hắn xoay người đón đỡ, vung dao đâm thẳng vào mắt tôi, nhưng tôi đã kịp né tránh, hứng chịu một nhát rạch nóng hổi làm máu tuôn ra dọc gò má. Quá yếu. Nắm đấm bằng thép của tôi giáng một cú trời giáng xuống đùi phải hắn. Sóng xung lực lan tỏa khiến xương cốt hắn gãy rôm rốp. Hắn ngã sập xuống sàn lát gạch, đập đầu một cú thật mạnh. Âm thanh ấy vang vọng tận trong chân răng khiến tôi buồn nôn, nhưng tôi vẫn bổ nhào xuống sàn theo hắn, giơ cao nắm đấm.
-
-  
-
-Hắn cố vùng vẫy quay người bỏ chạy, nhưng đầu gối tôi đã ghì chặt lấy hông hắn khi tôi lao đến. Trong khi tâm trí gào thét rằng *đừng làm thế, đừng giết hắn, đừng đừng đừng*, các khớp ngón tay tôi đã cắm thẳng qua trán hắn. Sức mạnh ma thuật cùng nắm đấm bằng thép lúc này chẳng khác nào chiếc búa tạ đập mềm thịt. Hắn thậm chí không kịp co giật. Mùi tanh như đồng thau xộc lên nồng nặc ngay khoảnh khắc cơ thể hắn thả lỏng hoàn toàn trong cái chết, và tôi ngã ngửa ra sau, toàn thân run rẩy. *Tôi vừa giết một người.* Đã phạm tội mưu sát. (Đó là mạng người thứ bao nhiêu rồi không biết, nhưng sự đày vò đau đớn vẫn chẳng khác nào một ngoại lệ duy nhất.) *Tôi cảm thấy mình đã đổi thay. Thay đổi ngay lập tức. Không còn là Paprick nữa, mà là một kẻ hoàn toàn khác.*
-
-  
-
-Bất cứ thứ gì còn sót lại trong dạ dày đều bị tôi nôn thốc nôn tháo ra sàn. Xương cốt và bàn tay tôi trở lại bình thường, Sức bền ma thuật cũng rời bỏ tôi. Kiệt sức, tôi ngửa người nằm phịch ra sàn và thở hổn hển.
-
-  
-
-Người phụ nữ thét lên khi một bóng người đeo mặt nạ Carnephon có sừng lao xuyên qua màn thịt treo lủng lẳng rồi lao vào tôi. Tôi lồm cồm bò dậy, nhưng lớp máu trơn trượt vừa quật ngã kẻ thù đầu tiên lại làm tôi sẩy chân. Kẻ tấn công nhỏ con hơn đâm thẳng vai vào ngực tôi và quật ngã tôi xuống đất. Chiếc sừng bằng gốm của chiếc mặt nạ đâm sâu vào da thịt tôi. Không một lời cảnh báo, ký ức về trận chiến với Bessa lại hiện về ám ảnh tôi.
-
-  
-
-Trước khi tôi kịp định thần, lưng tôi đập mạnh xuống nền gạch, cơn đau nhói buốt chạy ngược từ xương cụt dọc theo cột sống. Hai nắm đấm nặng như chảo gang giáng xuống từ trên cao. Một lần. Hai lần. Mơ hồ, tôi nhận ra chúng giống hệt của tôi. Kẻ này đã ăn món Thịt băm Emphon.
-
-  
-
-Sau cú thứ ba, thế giới trước mắt tối sầm lại. Chắc là vẫn còn những cú đấm tiếp theo.
-
-  
-
-Cuối cùng, lưỡi dao của kẻ Thượng Phẩm cạo lướt trên nền gạch khi kẻ tấn công mang mặt nạ mới nhấc nó lên. Âm thanh ấy ken két luồn qua từng khúc xương khiến toàn thân tôi co giật. Nó đủ sức kéo các giác quan của tôi trở lại vừa kịp lúc hắn cứa cổ người phụ nữ đang thét gào, dập tắt vĩnh viễn tiếng kêu của cô.
-
-  
-
-Trong cơn tê dại, tôi lảo đảo đứng dậy. Xử lý xong cô ta, gã Thượng Phẩm đeo mặt nạ hình đầu bò tiến sầm sập về phía tôi.
-
-  
-
-Đoạn, cơ thể hắn co giật mạnh khi một tiếng thở dốc hắt ra từ cổ họng. Máu nhuộm đỏ chiếc áo từ bên trong; hắn chúi người về phía trước rồi ngã phịch xuống đất. Nhô ra sau lưng hắn là một lưỡi dao dài, không phải loại dao bếp thông thường mà là một con dao găm có răng cưa chuyên dùng để gây sát thương. Đứng ngay vị trí gã đeo mặt nạ vừa đứng cách đó một khoảnh khắc, với chiếc miệng há hốc và bàn tay vẫn còn chìa ra, chính là Yenne Corzon.
-
-  
-
-*Tôi ngất lịm.*
-
-  
-
-  
-
-Đồ Tể vẫy tay, giải trừ uy lực từ mệnh lệnh đang khống chế khuôn mặt Lưu Trữ Viên, rồi với lấy ly nước.
-
-  
-
-“Sốc phản vệ,” Lưu Trữ Viên lập tức cất lời. “Anh đã vượt qua cơn ngạt bằng cách nôn mửa và để bạch cầu tràn ngập vào dòng máu.”
-
-  
-
-Đồ Tể bật cười, một âm thanh trầm ấm và chân thành. “Cô còn rành hơn cả tôi.” Những lời ấy thật lạc lõng trong hoàn cảnh hiện tại của hai người. Lẽ ra anh không nên tỏ ra thoải mái và cởi mở đến thế.
-
-  
-
-“Sự thật làm phai mờ những lời đồn đại nhỉ.”
-
-  
-
-“Thôi đi. Bọn Thượng Phẩm các cô viện dẫn lời đồn về những việc tôi làm như bằng chứng cho tội ác của tôi nhanh chóng hệt như cách các cô bác bỏ chúng. Đó là chưa kể liệu cô có tự bịa ra những tin đồn mình viện dẫn hay không. Từng có người nói với tôi rằng, những kẻ viết nên câu chuyện cuộc đời chúng ta luôn nhào nặn lại chúng.”
-
-  
-
-“Cứ làm như anh không hề mê mẩn cái kịch bản thay đổi từng ngày đó vậy. Cả hai chúng ta đều biết chẳng có chút hành vi anh hùng cổ tích nào trong những việc Đồ Tể như anh đã làm. Một lần tự vệ sát hại một mạng người không thể rửa sạch cuộc tàn sát hàng loạt tại Cung điện.”
-
-  
-
-“Đủ rồi!”
-
-  
-
-Sống lưng Lưu Trữ Viên bật thẳng dậy theo mệnh lệnh, nhưng đó không phải tiếng quát của Đồ Tể. Chủ nhân của tiếng quát bước vào phòng trong bộ trang phục lụa là lộng lẫy nhất, nhưng đã bị bồ hóng làm cho nhem nhuốc.
-
-  
-
-“Luật pháp dung thứ cho trò hề này, nhưng ta sẽ không lãng phí hàng giờ liền để nghe hai người huyên thuyên trong lúc những kẻ nịnh bợ lầm đường lạc lối đang mưu sát ta, còn quái điểu gryphon máu của quái thú Emphon thì đang bay trinh sát ngang qua.” Từng lời của Nữ Hoàng tràn ngập uy quyền và sức nặng. Trong căn phòng chật chội ấy, mùi thịt ngoại lai thoang thoảng gợi nhắc về Đại công thức đã ban sức mạnh cho các mệnh lệnh của cô. Đôi mắt cô sầm xuống khi nhìn Lưu Trữ Viên. “Cô làm ta thất vọng.”
-
-  
-
-“Và Bệ hạ làm hàng triệu người thất vọng,” Đồ Tể đáp trả thay cho Lưu Trữ Viên, dù cô chẳng hề muốn điều đó. “Hay Bệ hạ không nghe thấy cách họ đang chiến đấu vì vị vua thực sự của mình?”
-
-  
-
-“Đủ rồi!” Nữ Hoàng lại ra lệnh rồi bước nhanh ra khỏi phòng. “Tiếp tục đi và giải quyết cho xong trước khi chính người dân của các người thiêu sống hai ngươi ở đây. Bằng không, ta sẽ giết ông già đó.”
-
-  
-
-Điều đó có vẻ đã tác động đến Đồ Tể. Ánh mắt anh dõi theo cánh cửa với sự khao khát hiện rõ. *“Vậy là ông ấy ở đây,”* anh thì thầm với chính mình, nhỏ đến mức Lưu Trữ Viên suýt không nghe thấy.
-
-  
-
-Cánh cửa khép sập lại sau lưng vị Nữ Hoàng, trả lại không gian riêng tư cho hai người, nhưng sự căng thẳng vẫn bao trùm khắp căn phòng. Cả thế giới đều thừa biết chuyện gì sẽ xảy ra sau khi những chiếc mặt nạ được gỡ bỏ, hoặc ít nhất là họ tự cho rằng mình biết. Cuối cùng, Lưu Trữ Viên sẽ được nghe sự thật, và từ đó tìm ra những lời giải đáp.
-
-  
-
-“Tôi đang nói đến đâu rồi nhỉ?” Đồ Tể cất lời, giọng điệu phảng phất chút hoài niệm.
+<p class="para-en">I needed to prove to myself that I hadn’t forgotten my roots.</p>
+<p class="para-vi-sub">Tôi cần phải chứng minh cho chính bản thân thấy rằng mình chưa bao giờ quên đi nguồn cội.</p>

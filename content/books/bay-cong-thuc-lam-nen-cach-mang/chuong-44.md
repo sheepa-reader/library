@@ -1,353 +1,154 @@
-# 42 Vương quốc quỷ quyệt
+# 36 Quà sinh nhật
 
-*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
+<p class="para-en">My seventeenth birthday fell three days before my second term. I’d already received my course list and supplies delivered from Cutler’s, but I was still confined.</p>
+<p class="para-vi-sub">Sinh nhật lần thứ mười bảy của tôi diễn ra ba ngày trước khi học kỳ thứ hai bắt đầu. Tôi đã nhận được danh sách môn học cùng các dụng cụ được giao tới từ cửa hàng của chú Cutler, nhưng bản thân thì vẫn bị giam lỏng.</p>
 
-“Trước khi chúng ta bàn đến Rish,” Nữ Lưu Trữ Viên chen vào. “Tôi muốn chia sẻ nơi mình thực sự đã đến trong lúc vắng mặt.”
+<p class="para-en">As pissed as I was, unable to investigate, I was eager to start classes for a distraction from my nightmares and guilt if nothing else. I had another with Chef Sagen, called Cooking with Emphon; Alchemic Gastronomy II with Chef Chikor; a free period for independent study; and two new courses, one called Advanced Combat and one being offered for the very first time: Recipes Revisited. The title alone had piqued my interest in the latter, but, even better, it was being taught by Dean Dyl, the author of the redacted paper Laven found. Laven, Yenne, and I immediately signed up.</p>
+<p class="para-vi-sub">Dù bực bội đến nghẹt thở vì không thể tự mình điều tra manh mối nào, tôi vẫn háo hức mong chờ các lớp học bắt đầu. Đó là chiếc phao cứu sinh giúp tôi xua đi những cơn ác mộng và nỗi cắn rứt khôn nguôi đang bủa vây tâm trí. Kỳ này, tôi đăng ký thêm lớp Nấu ăn cùng Emphon của Đầu Bếp Sagen; môn Ẩm thực Giả kim II do Đầu Bếp Chikor phụ trách; một tiết trống để tự học; cùng hai môn hoàn toàn mới là Chiến đấu Nâng cao và một lớp học lần đầu tiên được đưa vào giảng dạy: Ôn tập các Công thức. Chỉ riêng cái tên đã đủ khơi gợi trí tò mò của tôi, nhưng điều tuyệt vời hơn cả là lớp học ấy do chính Viện trưởng Dyl trực tiếp đứng lớp, tác giả của tập tài liệu bị kiểm duyệt mà Laven từng tìm thấy. Cả Laven, Yenne và tôi đều đăng ký ngay tắp lự.</p>
 
-  
+<p class="para-en">I was doing the required prereading for that class when a knock on my door sent hope through me. Had Cori gotten out of Vanil’s blockade? Or my moms? I’d never celebrated a birthday without them. Famines, I would’ve settled for silent study hour with Yenne.</p>
+<p class="para-vi-sub">Khi tôi đang đọc trước tài liệu chuẩn bị cho tiết học thì tiếng gõ cửa vang lên, thắp lên trong tôi một tia hy vọng. Liệu Cori có vượt qua được hàng rào phong tỏa của Vanil để đến đây không? Hay là hai mẹ của tôi? Tôi chưa từng trải qua một dịp sinh nhật nào mà thiếu vắng họ. Thậm chí, nếu lúc này chỉ là một giờ tự học trong im lặng cùng Yenne thôi, tôi cũng đã mãn nguyện lắm rồi.</p>
 
-Sự hoài nghi hằn rõ trên vầng trán tôi.
+<p class="para-en">“Happy birthday, mate!”</p>
+<p class="para-vi-sub">“Chúc mừng sinh nhật cậu nhé!” Laven cất lời ngay khi tôi vừa mở cửa.</p>
 
-  
+<p class="para-en">Laven said as I opened the door. A large icebox rested in his arms, somehow supporting three large takeout boxes. I helped him inside, but before I could ask about the boxes, he pulled a wrapped parcel from his messenger bag and shoved it into my hands.</p>
+<p class="para-vi-sub">Một chiếc hộp giữ nhiệt lớn nằm gọn trong tay cậu ấy, đỡ khéo léo bên trên là ba hộp đồ ăn cỡ lớn mang về. Tôi vội đón lấy giúp cậu ấy bước vào nhà. Thế nhưng chưa kịp mở lời hỏi về mấy chiếc hộp, cậu ấy đã rút một gói bưu phẩm được bọc ghém cẩn thận từ trong túi đưa thư ra rồi nhét thẳng vào tay tôi.</p>
 
-“Lúc nãy, anh có hỏi về quái thú bò mộng Emphon. Vài tuần trước, một số thành viên của Hội đồng Phán quyết, bao gồm cả tôi, đã hành trình vào Sa mạc phía Nam để quan sát nó từ xa. Trong chuyến đi, tôi tìm thấy một cô bé, chắc chưa quá mười hai tuổi, cổ họng khô khốc như miếng bọt biển. Chỉ để đổi lấy một ít nước, con bé đã nói cho tôi biết tên mình là Musta, và kể hết mọi điều về người cha của nó. Con bé là một đứa trẻ rất...”
+<p class="para-en">“You shouldn’t have,” I said instinctively, taking it eagerly.</p>
+<p class="para-vi-sub">“Cậu việc gì phải bày vẽ thế này,” tôi buột miệng nói theo phản xạ, nhưng đôi tay vẫn háo hức đón lấy món quà.</p>
 
-  
+<p class="para-en">I ripped it open and found a beautifully illustrated cookbook that stilled my heart.</p>
+<p class="para-vi-sub">Tôi bóc lớp giấy gói ra. Bên trong là một cuốn sách dạy nấu ăn với những hình minh họa tuyệt đẹp, khiến tim tôi như khựng lại một nhịp.</p>
 
-“Đã từng là?”
+<p class="para-en">A Dash of Cilantro by Chef Ilantra Andala. I turned the pages slowly, passively noting the lesser recipes and drawings of the meals Chef had included. Almost all graced our menu at one point.</p>
+<p class="para-vi-sub">Một Chút Rau Mùi của Đầu Bếp Ilantra Andala. Tôi lật từng trang sách thật chậm rãi, lặng người nhận ra những công thức căn bản cùng các bức vẽ món ăn do chính tay Đầu Bếp ghi lại. Hầu như tất cả các món ấy đều từng có mặt trên thực đơn của chúng tôi vào một thời điểm nào đó.</p>
 
-  
+<p class="para-en">“It was the first cookbook I read,” Laven said. “Part of the reason I decided to pursue cooking.”</p>
+<p class="para-vi-sub">“Đây là cuốn sách dạy nấu ăn đầu tiên tôi từng đọc,” Laven nói. “Cũng là một phần lý do thôi thúc tôi dấn thân vào con đường bếp núc.”</p>
 
-Nữ Lưu Trữ Viên mỉm cười. “Xin lỗi, phải là *vẫn là*. Dù sao đi nữa, tình cờ thay, cha của con bé lại tên là Macen. Quả là một sự trùng hợp thú vị, anh không thấy thế sao?”
+<p class="para-en">I set it on the table and took my friend into a hug. “It’s wonderful.”</p>
+<p class="para-vi-sub">Tôi trân trọng đặt cuốn sách lên bàn rồi ôm chầm lấy người bạn của mình. “Món quà tuyệt vời lắm, cảm ơn cậu.”</p>
 
-  
+<p class="para-en">“Something to remember her by,” he said more quietly.</p>
+<p class="para-vi-sub">“Một kỷ vật để nhớ về bà ấy,” cậu ấy hạ giọng, nét mặt thoáng chùng xuống.</p>
 
-Phải tốn chút sức lực, tôi mới ngồi lại xuống ghế. “Có biết bao nhiêu loại gia vị để đám người Thứ Phẩm lấy làm tên cơ chứ. Chuyện trùng tên này sớm muộn gì cũng xảy ra thôi.”
+<p class="para-en">I nodded, feeling a tear at the back of my eye.</p>
+<p class="para-vi-sub">Tôi khẽ gật đầu, cảm nhận một giọt nước mắt đang chực trào nơi khóe mi.</p>
 
-  
+<p class="para-en">“I missed you at her mourning feast,” he continued, taking a seat at the table. “Winta asked after you, too.”</p>
+<p class="para-vi-sub">“Tôi không thấy cậu xuất hiện trong tang lễ của bà,” cậu ấy tiếp lời rồi kéo ghế ngồi xuống bàn. “Winta cũng có hỏi thăm về cậu đấy.”</p>
 
-“Phải rồi, ừm, tôi có thể cho người đưa cô bé đến đây, nếu anh muốn?”
+<p class="para-en">“With the riots, Yenne and I thought it was a bad idea to attend.”</p>
+<p class="para-vi-sub">“Vì vụ bạo loạn nên Yenne và tôi nghĩ tốt nhất là tôi không nên lộ diện.”</p>
 
-  
+<p class="para-en">Laven nodded. “A lot of Rare say you caused those.”</p>
+<p class="para-vi-sub">Laven gật đầu đồng tình. “Rất nhiều người thuộc tầng lớp Thượng Phẩm rêu rao rằng chính cậu là kẻ châm ngòi cho chuyện đó.”</p>
 
-Tôi xua tay, tỏ vẻ dửng dưng. “Đó chỉ là sự trùng hợp thôi. Hơn nữa, chính những gì chú Rish nói tiếp theo mới làm sáng tỏ toàn bộ tình hình về món Ớt ma thuật kiểm soát tâm trí. Cô vẫn muốn biết về Cội Nguồn, đúng không?”
+<p class="para-en">“Unsurprising, but no one’s said anything to me.”</p>
+<p class="para-vi-sub">“Chuyện đó cũng chẳng có gì bất ngờ, nhưng trước mặt tôi thì chẳng ai dám ho he nửa lời.”</p>
 
-  
+<p class="para-en">Laven scowled and reached for the takeout boxes, which he opened to reveal my favorite spiced potato tacos from the pub, tortilla chips with salsa, and a burger. Our typical pub lunch.</p>
+<p class="para-vi-sub">Laven cau mày rồi với tay mở nắp các hộp đồ ăn mang về. Mùi thơm nức mũi lập tức lan tỏa, để lộ món taco khoai tây cay, món ruột của tôi ở quán rượu, cùng đĩa bánh ngô giòn rụm kèm sốt salsa và một chiếc bánh mì kẹp thịt. Bữa trưa quen thuộc của hai chúng tôi tại quán rượu ngày nào.</p>
 
-“Nếu anh khăng khăng muốn kể.”
+<p class="para-en">“You aren’t the only one,” he said, pushing the tacos to me. “I told my dad that I was rescued by some friends and that was it. He sent word to the EDB to have an officer come by to get my statement, but they didn’t even bother to do so. It’s like they don’t even care I was attacked.”</p>
+<p class="para-vi-sub">“Cậu không phải người duy nhất bị làm khó đâu,” cậu ấy nói rồi đẩy đĩa taco về phía tôi. “Tôi đã khai với cha rằng mình được vài người bạn giải cứu, chỉ có thế thôi. Cha tôi đã gửi thư đến Cục Phòng vệ Sức bền yêu cầu cử người đến lấy lời khai, nhưng bọn họ thậm chí còn chẳng buồn đoái hoài. Cứ như thể họ chẳng mảy may bận tâm đến việc tôi vừa bị tập kích vậy.”</p>
 
-  
+<p class="para-en">He’d clearly kept the identity of his rescuers a secret as promised, but I didn’t want to involve him in the Seeker stuff more than he already was. He might be a brilliant alchemist and a good cook, but even the wok on his back wouldn’t save him from another attack.</p>
+<p class="para-vi-sub">Rõ ràng Laven đã giữ kín danh tính của những người ra tay cứu viện đúng như lời đã hứa, nhưng tôi không muốn kéo cậu ấy lún sâu hơn vào rắc rối với đám Thợ Săn Mặt Nạ. Cậu ấy có thể là một nhà giả kim thiên tài, một đầu bếp cừ khôi, nhưng ngay cả chiếc chảo lòng sâu đeo sau lưng cũng chẳng thể bảo vệ cậu ấy trước một đòn phục kích hiểm độc khác.</p>
 
-✦  ✦  ✦
+<p class="para-en">“But I didn’t come here to dwell on that,” he said. “Eat, eat. There’s cake, too. Homemade, of course.”</p>
+<p class="para-vi-sub">“Nhưng hôm nay tôi đến đây đâu phải để bận lòng mấy chuyện đó,” Laven đổi giọng, nét mặt tươi tỉnh trở lại. “Ăn đi nào, ăn đi cậu! Có cả bánh ngọt nữa đấy. Đồ tôi tự tay làm hẳn hoi nhé.”</p>
 
-  
+<p class="para-en">“Cake?” Laven couldn’t possibly understand my surprise. I don’t think I’d ever known a common who’d eaten cake.</p>
+<p class="para-vi-sub">“Bánh ngọt ư?” Laven làm sao hiểu được sự kinh ngạc tột độ của tôi. Tôi đồ rằng từ trước đến nay, chưa từng có một thường dân nào được nếm thử mùi vị của bánh ngọt.</p>
 
-Chú Rish dẫn chúng tôi ra ngoài tầm nghe của mọi người trước khi nhét mấy viên kẹo chanh vào lòng bàn tay chúng tôi. “Các cháu đã thu đủ khoản thù lao cho những việc mình làm rồi chứ?”
+<p class="para-en">“Cream cheese frosting,” he said, like it was normal to put cheese on cake. I suddenly wondered if that was normal.</p>
+<p class="para-vi-sub">“Phủ kem phô mai nữa đấy,” cậu ấy nói một cách tự nhiên, như thể việc phết phô mai lên bánh ngọt là điều hiển nhiên trên đời. Bất giác, tôi tự hỏi liệu với giới quý tộc, điều xa xỉ ấy có thực sự bình thường đến thế không.</p>
 
-  
+<p class="para-en">“Thank you. This… this is too much. It means a lot.”</p>
+<p class="para-vi-sub">“Cảm ơn cậu. Chừng này... chừng này là quá nhiều rồi. Món quà này thực sự có ý nghĩa rất lớn đối với tôi.”</p>
 
-“Đây là điều quan trọng mà chúng cháu cần phải nghe sao?” Tôi cằn nhằn khi thò tay vào túi.
+<p class="para-en">“Too much? But then what will I do with this?” Laven withdrew a stack of papers from his bag and showed me the title. It was Dyl’s paper about my spice.</p>
+<p class="para-vi-sub">“Nhiều gì mà nhiều? Thế thì cậu tính sao với thứ này đây?” Laven cười, rút một tập tài liệu từ trong túi ra rồi chìa trang bìa trước mặt tôi. Đó chính là bản thảo của Viện trưởng Dyl viết về loại gia vị của tôi.</p>
 
-  
+<p class="para-en">“You got it?” I said, snatching it from his hand.</p>
+<p class="para-vi-sub">“Cậu lấy được nó thật đấy à?” Tôi thốt lên, vội vã giật phăng lấy tập tài liệu từ tay cậu ấy.</p>
 
-“Đừng đưa nó cho chú ấy,” Yenne nói, giữ tay tôi lại.
+<p class="para-en">“The whole paper, unredacted. Pretty lish, if I do so say myself. I read through it and knew I had to get it to you. My dad’s been pretty unwilling to let me out of the house—I had to sneak here! Me, sneaking. Scalding ridiculous, ain’t it?” He took a bite of his burger. “It’s a bit dense. Which makes sense given it was co-authored by Chikor and Sagen.”</p>
+<p class="para-vi-sub">“Bản này còn nguyên vẹn, chẳng hề bị bôi xóa chữ nào. Khá đỉnh đấy chứ, nếu để tôi tự nhận xét. Tôi vừa đọc qua là biết ngay mình phải mang tới cho cậu. Dạo này cha tôi quản thúc gắt gao quá, chẳng chịu cho tôi bước chân ra khỏi nhà nửa bước... thế mà tôi vẫn trốn thoát được đấy! Đến cả tôi mà cũng phải trốn nhà đi cơ đấy, nực cười thật, phải không?” Cậu cắn một miếng bánh mì kẹp thịt. “Nội dung hơi khó hiểu một chút. Nhưng cũng phải thôi, bởi tài liệu này do chính Chikor và Sagen đồng tác giả mà.”</p>
 
-  
+<p class="para-en">I was momentarily startled, but it did make some sense. Chikor was the city’s most profound alchemist, and Sagen was probably the most talented Chef left after Ilantra’s murder.</p>
+<p class="para-vi-sub">Tôi thoáng giật mình, nhưng ngẫm lại thì điều đó hoàn toàn hợp lý. Chikor là nhà giả kim uyên bác nhất thành phố, còn Sagen có lẽ là Đầu Bếp tài ba nhất còn sót lại sau thảm kịch của Đầu Bếp Ilantra.</p>
 
-“Tại sao không?”
+<p class="para-en">“What’s it say?” I asked, my eyes glazing over almost immediately.</p>
+<p class="para-vi-sub">“Trong đó viết những gì?” Tôi hỏi, ánh mắt lướt trên trang giấy mờ đi gần như ngay lập tức.</p>
 
-  
+<p class="para-en">“It’s half maths, half flavor theory, all centered around your spice. They call it skyroot powder, and get this, mate. It has endurium in it. That’s what the maths is about.”</p>
+<p class="para-vi-sub">“Một nửa là toán học, một nửa là lý thuyết hương vị, và toàn bộ đều xoay quanh loại gia vị của cậu. Họ gọi nó là bột rễ trời, và nghe này, anh bạn. Thứ đó có chứa năng lượng ma thuật Endurium. Đó chính là phần toán học được phân tích trong bài nghiên cứu.”</p>
 
-Chú Rish nheo mắt nhìn chằm chằm vào Yenne. “Cô biết những gì rồi, Yenne Bộ Óc?”
+<p class="para-en">Taco nearly slid out of my gaping mouth. “I thought endurium is only present in emphon?” In my surprise, I wasn’t thinking about endurmite.</p>
+<p class="para-vi-sub">Miếng bánh taco suýt rơi khỏi khóe miệng đang há hốc của tôi. “Tôi cứ tưởng Endurium chỉ tồn tại trên quái thú bò mộng Emphon thôi chứ?” Trong cơn bàng hoàng tột độ, tâm trí tôi thậm chí còn chẳng kịp nghĩ tới những quặng Endurmite.</p>
 
-  
+<p class="para-en">“That’s what’s so secret about this,” Laven continued. “Ten grams of this powder has almost as much endurium in it as a glass of emphon milk.”</p>
+<p class="para-vi-sub">“Đó mới chính là bí mật của thứ bột này,” Laven tiếp lời. “Mười gram bột rễ trời chứa lượng Endurium tương đương với cả một ly sữa Emphon.”</p>
 
-Sau một thoáng im lặng kéo dài, cô lấy ra hai mảnh giấy từ tầng tầng lớp lớp nếp váy sâu hun hút của mình. Một mảnh trông như bị xé ra từ một cuốn sách, hoặc một cuốn sổ cái. Tôi chợt nhớ đến cảnh cô gạt rơi cuốn sổ cái khỏi bàn làm việc của chú ấy sau cơn thịnh nộ kịch tính lúc nãy. Chắc hẳn cô đã nhân lúc đó để xé trộm một trang. Mảnh còn lại là một mẩu giấy nhàu nát trắng phau bất thường mà tôi nhận ra ngay lập tức.
+<p class="para-en">“That’s like 200 grams worth of carnephon.”</p>
+<p class="para-vi-sub">“Nhiều đến mức ngang ngửa hai trăm gram thịt quái thú Bò sát Carnephon rồi còn gì.”</p>
 
-  
+<p class="para-en">“Exactly!” Laven agreed. “The paper goes into all the implications of a plant-based endurium source. Apparently the trees it comes from are huge too. Root systems that are thousands of cubic meters large. According to the paper, it takes a thousand grams of root to get a gram of the spice powder, but still, that’s a ton of endurium. No wonder it’s so secret.”</p>
+<p class="para-vi-sub">“Chính xác!” Laven tán đồng. “Bài báo đã mổ xẻ toàn bộ những hệ quả bắt nguồn từ một dạng Endurium có nguồn gốc thực vật. Rõ ràng loài cây sản sinh ra nó phải có kích thước vô cùng khổng lồ, với hệ thống rễ rộng tới hàng ngàn mét khối. Theo tài liệu, người ta phải tiêu tốn tới một nghìn gram rễ cây mới tinh chế được một gram bột gia vị. Nhưng dù thế nào đi nữa, đó vẫn là một trữ lượng Endurium khổng lồ. Hèn chi thông tin về nó lại bị phong tỏa nghiêm ngặt đến vậy.”</p>
 
-“Cô lấy mẩu giấy đó ở đâu ra?” Tôi hỏi.
+<p class="para-en">I chewed in stunned silence, savoring the bitterness of the nopales hidden behind the potatoes. For decades, Rare had known that eating endurium was what gave us Endurance. (I’d only learned it after being elevated.) But during that time, everyone had thought you could only get it from emphon or maybe inedible endurmite. Skyroot powder opened up a whole new world of possibilities.</p>
+<p class="para-vi-sub">Tôi lặng lẽ nhai trong nỗi bàng hoàng, cảm nhận vị đắng ngắt của xương rồng nopales lẩn khuất dưới lớp khoai tây. Suốt bao nhiêu năm ròng, giới Thượng Phẩm vẫn đinh ninh rằng việc hấp thụ Endurium là con đường duy nhất mang lại Sức bền ma thuật cho chúng tôi. (Tôi chỉ vỡ lẽ ra điều này sau khi được cất nhắc lên tầng lớp trên.) Thế nhưng trong suốt ngần ấy thời gian, ai nấy đều tin rằng nguồn năng lượng ấy chỉ có thể khai thác từ quái thú bò mộng Emphon, hoặc họa hoằn lắm là từ những quặng Endurmite cứng như đá chẳng thể nuốt nổi. Bột rễ trời đã mở toang cánh cửa dẫn tới những tiềm năng hoàn toàn mới.</p>
 
-  
+<p class="para-en">How much had I used to make Emphon Rub? A pinch? If skyroot powder weighed anything like salt, that was maybe three, four grams. No wonder I’d been so powerful. It had been like dipping the meat in milk.</p>
+<p class="para-vi-sub">Tôi đã dùng bao nhiêu bột đó để pha chế Gia vị ướp Emphon? Một nhúm chăng? Nếu bột rễ trời có khối lượng riêng tương đương muối, thì lượng bột tôi dùng chắc cũng chừng ba đến bốn gram. Hóa ra đó là lý do khiến tôi bộc phát sức mạnh kinh người đến thế. Cảm giác lúc bấy giờ chẳng khác nào việc tẩm đẫm cả tảng thịt vào sữa Emphon.</p>
 
-“Thùng rác của anh đấy,” cô đáp.
+<p class="para-en">“Does it say where it came from?” I asked.</p>
+<p class="para-vi-sub">“Tài liệu có nhắc đến nguồn gốc xuất xứ của nó không?” Tôi hỏi.</p>
 
-  
+<p class="para-en">Laven frowned. “No, and no matter where I looked, I couldn’t find anything unredacted. Not even when I indexed skyroot powder specifically.”</p>
+<p class="para-vi-sub">Laven khẽ chau mày. “Không có. Dù tôi đã lục tung mọi ngóc ngách, tôi vẫn chẳng thể tìm ra bản thảo nào không bị mực đen kiểm duyệt che khuất. Ngay cả khi tôi chủ động tra cứu đích danh bột rễ trời, kết quả vẫn vậy.”</p>
 
-Chú Rish nhoẻn miệng rồi bật cười lớn. “Đúng là Bộ Óc có khác.”
+<p class="para-en">“How did you get this unredacted, anyway?” I asked.</p>
+<p class="para-vi-sub">“Làm thế nào mà cậu lấy được bản chưa bị kiểm duyệt này?”</p>
 
-  
+<p class="para-en">“I was too afraid to go back to the substacks looking for the spice, so I used my dad’s master key to access the teachers’ library on floor nineteen. Figured the paper might be up there.”</p>
+<p class="para-vi-sub">“Tôi sợ chẳng dám bén mảng quay lại mấy dãy kệ phụ để tìm tài liệu về gia vị nữa, thế nên tôi đành dùng chìa khóa vạn năng của cha để lẻn vào thư viện dành cho giáo sư ở tầng mười chín. Tôi đoán tài liệu mật có thể cất giữ trên đó.”</p>
 
-“Chuyện gì đang xảy ra vậy?” Cori hỏi.
+<p class="para-en">I reached across the small table to grab him by the neck. “You’re a genius.”</p>
+<p class="para-vi-sub">Tôi với tay qua chiếc bàn nhỏ, túm lấy cổ áo cậu. “Cậu đúng là thiên tài.”</p>
 
-  
+<p class="para-en">Laven blushed under the compliment and made a show of pulling out the cake, which was intricately piped in a way I could never compete with. “If we’re going to go all the way to become Chefs, one of us is going to have to be.”</p>
+<p class="para-vi-sub">Laven thoáng đỏ mặt trước lời khen, rồi cậu cố ý lấy ra một chiếc bánh ngọt được trang trí cực kỳ tinh xảo mà tôi biết mình chẳng tài nào sánh bằng. “Nếu chúng ta muốn kiên trì đi tới đích để trở thành Đầu Bếp, thì chí ít cũng phải có một người làm nên trò trống gì chứ.”</p>
 
-“Nét chữ hoàn toàn trùng khớp,” Yenne nói, phớt lờ Cori rồi đưa hai tờ giấy cho tôi.
+<p class="para-en">I gave him a friendly shove, and we cut into the cake.</p>
+<p class="para-vi-sub">Tôi huých nhẹ cậu một cái đầy thân thiện, rồi cả hai cùng bắt tay xắt bánh.</p>
 
-  
+<p class="para-en">“Why’s it red?” I asked.</p>
+<p class="para-vi-sub">“Sao chiếc bánh này lại có màu đỏ thế?” Tôi hỏi.</p>
 
-Tôi cau mày nhìn mẩu giấy rồi ngước lên nhìn chú Rish. “Nhưng tại sao?”
+<p class="para-en">“You’ve never had red velvet?” he said, incredulous.</p>
+<p class="para-vi-sub">“Cậu chưa từng ăn bánh nhung đỏ bao giờ sao?” Cậu trố mắt ngạc nhiên.</p>
 
-  
+<p class="para-en">“I’ve never had cake, Laven.”</p>
+<p class="para-vi-sub">“Tôi chưa từng được ăn bánh ngọt bao giờ cả, Laven.”</p>
 
-“Mọi người phải giải thích rõ chuyện gì đang diễn ra trước khi em mất hết kiên nhẫn đấy,” Cori gằn giọng.
+<p class="para-en">He stood and rushed over to my tiny kitchen. “Have you got flour?”</p>
+<p class="para-vi-sub">Laven đứng phắt dậy, sải bước lao ngay về phía gian bếp nhỏ hẹp của tôi. “Cậu có bột mì ở đây không?”</p>
 
-  
+<p class="para-en">“What? What’re you doing?”</p>
+<p class="para-vi-sub">“Gì cơ? Cậu định làm gì thế?”</p>
 
-Tôi đưa hai mảnh giấy cho Cori. “Anh nhận được một bức thư đe dọa vào ngày chuyển đến căn hộ của mình, cảnh cáo anh không được tiết lộ công thức Gia vị ướp Emphon cho bất kỳ ai. Rõ ràng là chú Rish đã viết nó.”
+<p class="para-en">“Mate, we’ve got a lot to do. That is not going to be the only cake you have today. Not on my watch. No best mate of mine is walking around never having had at least three different types of sponge.”</p>
+<p class="para-vi-sub">“Bạn hiền ơi, chúng ta còn rất nhiều việc phải làm đấy. Đây chắc chắn không phải là chiếc bánh ngọt duy nhất cậu được thưởng thức trong ngày hôm nay đâu. Đừng hòng qua mặt tôi chuyện đó. Người bạn thân thiết nhất trên đời của tôi mà lại chu du khắp thế gian mà chưa từng được nếm thử ít nhất ba loại bánh bông lan khác nhau ư? Không đời nào có chuyện đó!”</p>
 
-  
+<p class="para-en">We hung out for the entire afternoon and evening, eating cakes—­I didn’t know what lava was, but it sure made for a great chocolatey texture—and drinking, until he worried his dad would send the entire military looking for him. By then, I had a new plan. Sagen, Chikor, and Dyl all studied skyroot powder sometime within the last six months—or at least that’s what the publication date indicated. That meant they’d had some. Might still have some.</p>
+<p class="para-vi-sub">Chúng tôi ở lì bên nhau suốt cả buổi chiều cho tới tận đêm khuya, cùng nhau thưởng thức hết chiếc bánh này đến chiếc bánh khác. Tôi vốn chẳng biết bánh dung nham là thứ gì, thế nhưng dòng sô-cô-la tan chảy từ nó lại mang đến một kết cấu hương vị tuyệt hảo đến ngỡ ngàng. Cả hai cứ thế uống say sưa, cho tới khi Laven bắt đầu thấp thỏm lo sợ cha cậu sẽ điều động toàn bộ quân đội đi lùng sục tìm con trai. Đến lúc ấy, một kế hoạch mới đã dần thành hình trong tâm trí tôi. Sagen, Chikor và Dyl đều từng nghiên cứu về bột rễ trời trong khoảng sáu tháng gần đây, chí ít là dựa trên ngày xuất bản ghi trên tài liệu. Điều đó đồng nghĩa với việc họ từng sở hữu thứ bột ấy, và rất có thể đến tận bây giờ họ vẫn còn cất giữ.</p>
 
-Chú Rish mỉm cười, một nụ cười méo mó mang vẻ chân thành nhiều hơn là chối tội. “Chú bại lộ rồi.”
+<p class="para-en">I wanted to stop the Seekers. I wanted to protect Ranch. I wanted to be a Chef.</p>
+<p class="para-vi-sub">Tôi muốn chặn đứng Thợ Săn Mặt Nạ. Tôi muốn chở che cho Ranch. Tôi muốn trở thành một Đầu Bếp thực thụ.</p>
 
-  
-
-“Tại sao chú làm thế?”
-
-  
-
-Chú nhún vai. “Chuyện đó chẳng hề độc ác hay xuất phát từ lòng tham như mọi người nghĩ đâu. Chú không gửi thứ đó để chắp vá lại những gì mình nhớ từ đêm hôm ấy, những loại gia vị mà cháu đã trét lên tảng thịt kia, rồi mày mò chế lại công thức đem bán kiếm lời. Nhưng nếu chú Rish này mà nói thật, một chuyện hiếm có trên đời, phải không, thì các cháu cũng chẳng đời nào tin chú.”
-
-  
-
-“Chú cứ nói thử xem,” tôi đáp.
-
-  
-
-“Chú lo cho con trai của Sesa. Chú không muốn thằng bé dài lưỡi ở cái nơi sẵn sàng cắt phăng lưỡi nó ra làm mồi nhậu.”
-
-  
-
-Chú ấy nói đúng, tôi không tin chú.
-
-  
-
-Và Cori cũng vậy. “Thế sao chú lại đòi chỗ bột rễ trời đó?” Em hỏi, quay trở lại vấn đề chính. “Nếu chú đã biết công thức của Paprick, việc đòi hỏi món đó trông rất đáng ngờ, trừ phi chú đang cố tìm cách chế lại nó.”
-
-  
-
-“Chuyện chú chỉ muốn phá vỡ thế độc quyền của Ruda khó tin đến thế sao?”
-
-  
-
-“Có lẽ vậy,” tôi ngắt lời. “Nhưng cháu mặc kệ. Vanil chuẩn bị giết người để chiếm đoạt Ớt ma thuật kiểm soát tâm trí rồi kìa.”
-
-  
-
-Tôi đưa cho chú Rish một nhúm nhỏ bột rễ trời rồi quay người định bước về chỗ tập hợp của Vanil.
-
-  
-
-“Chú khuyên cháu đừng vội quay lại làm gì,” chú Rish nói, cản tôi lại.
-
-  
-
-“Sao lại không ạ?”
-
-  
-
-“Bởi vì gian bếp này lắm đầu bếp hơn người ta tưởng đấy.”
-
-  
-
-“Lắm hơn mỗi mình chú thôi à?” Yenne lầm bầm.
-
-  
-
-“Quả thật,” chú Rish điềm tĩnh đáp. “Chú có nguồn tin cực kỳ đáng tin cậy rằng nhà vua thực ra không hề có mặt cùng toán quân tấn công Tiền Tuyến.”
-
-  
-
-“Nguồn tin nào cơ?” Cori hỏi.
-
-  
-
-“Chính là chú,” chú đáp.
-
-  
-
-Tôi rất nóng lòng muốn quay lại chỗ tập hợp, nhưng sự tò mò đã lấn át tất cả. Dù sao đi nữa, trong số mọi người ở đây, tôi là người quen biết chú Rish lâu nhất. Chú Rish, người mà các mẹ tôi từng hết mực tin tưởng và yêu quý. Chú Rish, người từng hứa sẽ mua cho tôi bột rễ trời từ trước cả khi chúng tôi biết đến giá trị thật của nó, chỉ đơn giản vì tôi tò mò muốn nếm thử xem mùi vị ra sao.
-
-  
-
-“Thế thì hẳn hắn đã cử kẻ khác mang theo Đại công thức,” Yenne suy đoán. “Tại sao Vanil lại nghĩ rằng cả ba chúng tôi cần phải nghe chuyện này từ chính miệng chú?”
-
-  
-
-Tôi không tài nào biết được liệu cô muốn có câu trả lời vì bản tính tò mò, hay chỉ vì thói hiếu thắng muốn lấn lướt chú Rish, người dường như lúc nào cũng tỏ ra thông minh hơn cô. Thế nhưng đôi khi tôi lại tự hỏi, chuyện gì sẽ xảy ra nếu lúc ấy cô không cất lời? Bản thân tôi biết rõ mình chưa từng mảy may nghĩ đến việc gặng hỏi điều đó.
-
-  
-
-Chú Rish với tay vào chiếc túi treo bên hông xe lăn, rút ra một tập tài liệu. “Chú đã giải mã được những ghi chép của Vyson từ đầu ngày hôm nay.” Chú đưa tập hồ sơ cho Cori, em lập tức đón lấy rồi nhanh chóng lật giở từng trang. “Viên trung úy ấy đã ghi chép về cháu vô cùng tỉ mỉ đấy, Pappy. Từ điểm số của cháu, kỹ năng sử dụng thanh đao cưa đồ tể, cho đến những nơi cháu từng đặt chân tới và những kẻ cháu từng giao du. Cả hai mẹ của cháu, người bạn Laven, thậm chí là chú Cutler nữa. Bọn chúng nhắm vào Laven, Đầu Bếp Ilantra và chú Cutler đều có mục đích cả.”
-
-  
-
-“Chúng tôi biết điều đó rồi,” Yenne nói. “Là để trả thù.”
-
-  
-
-“Thực chất không hẳn vậy,” chú Rish đáp. “Chà, không hoàn toàn như thế. Cháu thấy đấy, những ghi chép này chi tiết hơn nhiều. Trước hết, chúng nắm được bài ca của Cori, vị trí của cháu trong đám đông bạo loạn, và cả tung tích của cháu đằng sau những bức tường này. Hắn tuyệt đối không thể nào biết được ngần ấy chuyện nếu trong nội bộ Bầy Đàn không có kẻ làm gián điệp.”
-
-  
-
-Bầu không khí trong phòng chợt sững lại sau câu nói ấy.
-
-  
-
-Chú Rish khẽ đẩy bánh xe lăn nhích lại gần hơn.
-
-  
-
-“Thứ hai, chúng nhắc đến một lời tiên tri được nhìn thấy qua món salad Gà đồng tương lai, một Đại công thức ma thuật dùng để thoáng trông thấy tương lai của một người. Nhà vua đã nhìn thấy tương lai của cháu sau phiên tòa. Cháu tiêu diệt tầng lớp Thứ Phẩm và xuống tay sát hại chính những người bạn của mình. Pappy, chúng tha mạng cho cháu chỉ để lợi dụng cháu bẻ gãy ý chí của những người thuộc tầng lớp Thứ Phẩm, biến biểu tượng của họ thành vũ khí chống lại chính họ. Nhưng chúng cũng nhìn thấy cháu sẽ chạm tới Cội Nguồn, dẫu đó là thứ gì đi nữa, và điều ấy sẽ đặt dấu chấm hết cho triều đại của chúng.”
-
-  
-
-“Cháu không đời nào làm chuyện đó,” tôi quả quyết. “Cháu sẽ không bao giờ làm thế! Và cháu cũng chưa từng chạm vào Cội Nguồn. Cháu đã nói rõ với nhà vua rồi!”
-
-  
-
-“Đó là thứ gì vậy?” Cori hỏi. “Cái gọi là Cội Nguồn ấy?”
-
-  
-
-“Đó là điều chỉ có trong thần thoại,” Yenne đáp. “Đối với một số người, đó là một đấng tối cao. Bất kỳ ai chạm vào nó đều sẽ lĩnh hội được toàn bộ các Đại công thức ma thuật, ít nhất thì các câu chuyện truyền thuyết đều ám chỉ như vậy.”
-
-  
-
-“Chà, tôi dám chắc đến lúc chết mình cũng chẳng thể nào biết hết mọi Đại công thức ma thuật đâu!” Tôi gằn giọng, cơn giận dần lấn át lý trí. “Thế nên cái công thức tiên tri quái quỷ này rõ ràng chỉ là điều nhảm nhí. Có lẽ nó đã bị diễn giải sai lệch, hệt như Món trứng Toàn tri vậy.”
-
-  
-
-“Vẫn còn nữa,” chú Rish lên tiếng, rút thêm hai mảnh da cừu ra. “Chú vừa giải mã xong những thứ này ngay khi tin tức từ Tiền Tuyến ập đến.”
-
-  
-
-Chú đưa cho tôi mảnh đầu tiên, đề ngày từ vài tuần trước lễ Duyệt binh trên không.
-
-  
-
-“‘Ghi chú của Almon có đề cập đến việc Cường hóa một Đại công thức ma thuật,’” tôi đọc to từng chữ. “‘Dyl cho rằng bọn họ đã tìm ra ý nghĩa thực sự của điều đó. Tôi sẽ cần thêm thời gian, nhưng chúng ta đang tiến gần đến công thức kiểm soát hơn bao giờ hết. Dẫu vậy, trước tiên tôi cần phải biết hắn nắm giữ những gì. Hãy sắp xếp cuộc thử nghiệm với Ilantra và chuẩn bị vài thứ làm mồi ngụy trang. Bạn bè, gia đình, tôi không quan tâm là ai. Hãy tìm cho tôi vài mục tiêu thích hợp. Có lẽ là thứ gì đó đủ sức làm lung lay Bầy Đàn. Hãy bàn bạc với người hầu của tôi để đưa ra lựa chọn.’”
-
-  
-
-Mảnh da thứ hai mang lại cảm giác quen thuộc đến rùng mình. Đó chính là mảnh da cừu mà tôi đã tận mắt thấy nhà vua cặm cụi viết sau buổi thẩm vấn tôi. “‘Ký ức của tên gián điệp chính là mảnh ghép cuối cùng. Ta đã biết cách tạo ra Đại công thức ma thuật. Hãy bắt đầu với con mụ Ilantra đó, rồi dụ tên nhóc nhà Florento vào tròng. Cả hai đều đã lộ rõ bản chất phản bội, nhưng chúng ta không thể để cha hắn nghi ngờ rằng con trai mình bị bắt cóc có chủ đích. Cứ giết lão già đó sau. Gia đình hắn từ trước đến nay luôn là cái gai trong mắt chúng ta. Tạm thời hãy tha mạng cho hai mẹ của hắn.’” Tôi khựng lại giây lát, lồng ngực thắt nghẹn, nhưng rồi vẫn nghiến răng đọc tiếp. “‘Chưa thể lường trước việc giết bọn chúng sẽ châm ngòi cho rắc rối gì. Tuyệt đối không được để hắn chạm vào Cội Nguồn trước khi hắn tự tay tiêu diệt tầng lớp Thứ Phẩm.’”
-
-  
-
-Tôi đưa mắt nhìn những người xung quanh khi tâm trí đã thấu suốt toàn bộ sự thật tàn nhẫn ấy.
-
-  
-
-Cori lên tiếng trước: “Vậy là nhà vua nghĩ rằng anh biết điều gì đó về việc Cường hóa một Đại công thức ma thuật sao? Em hiểu như vậy có đúng không? Rốt cuộc điều đó có nghĩa là gì?”
-
-  
-
-“Tôi cũng hiểu theo cách đó,” chú Rish gật đầu xác nhận.
-
-  
-
-“Và nhà vua có một người hầu,” tôi lặp lại, rồi quay sang nhìn chằm chằm vào Yenne. “Cô từng kể với Dyl về tôi. Trong khi Dyl lại nắm giữ công thức Ớt ma thuật kiểm soát tâm trí.”
-
-  
-
-“Paprick,” cô cất lời, giọng điệu dịu dàng đến bất ngờ. “Tôi thề là mình chỉ kể với họ về việc anh hòa nhập ở học viện ra sao thôi. Đó là tất cả những gì họ từng hỏi tôi! Tôi không thể tin nổi họ lại sở hữu Đại công thức ấy.” Cô nghẹn lời, ánh mắt chùng xuống. “Tôi thấy thật ghê tởm.”
-
-  
-
-Chú Rish lộ rõ vẻ hoài nghi thường thấy trên gương mặt. Cori lập tức lên tiếng bênh vực Yenne:
-
-  
-
-“Yenne có thừa cơ hội để phản bội chúng ta. Cô ấy vừa mới giúp chúng ta đột nhập vào văn phòng của Dyl đấy thôi. Bỏ qua đi, sát thủ của em. Cuộc săn lùng phù thủy lúc này chỉ có lợi cho nhà vua mà thôi.”
-
-  
-
-“Cảm ơn Cori.” Yenne thở dài, nét mặt tỏ vẻ bực bội hơn là phật ý. “Tôi không trách anh đâu, nhưng Paprick, chuyện này đã kéo dài suốt mấy tuần rồi. Kẻ phản bội có lẽ đã cao chạy xa bay từ lâu. Chúng ta cần tập trung vào thực tại. Anh có biết Cường hóa Ma thuật là gì không?”
-
-  
-
-Tôi cắn môi:
-
-  
-
-“Tôi... tôi vẫn luôn băn khoăn điều gì sẽ xảy ra nếu cho thêm Endurium vào một Đại công thức.”
-
-  
-
-“Thì anh bị bội thực chứ sao?” Cori đáp, giọng điệu như thể đó là lẽ hiển nhiên trên đời.
-
-  
-
-“Nếu vậy, tại sao món Thịt băm Emphon lại có tác dụng?” Tôi hỏi lại. “Lượng Endurium trong đó nhiều hơn bất cứ thứ gì anh từng tưởng tượng, vừa có sườn quái thú Bò sát Carnephon, lại vừa có bột rễ trời.” Tôi giơ một tay lên ngăn không cho cuộc tranh cãi đi xa hơn. “Theo những gì tôi biết, tình trạng bội thực chỉ xảy ra khi người ta nạp vào nhiều hơn một Đại công thức.”
-
-  
-
-Lời tôi nói khiến tất cả rơi vào khoảng lặng trầm ngâm.
-
-  
-
-“Anh đã giấu kín chuyện này bao lâu rồi?”
-
-  
-
-“Đầu Bếp Ilantra từng chỉ cho chúng tôi rất nhiều cách biến tấu các món ăn tương tự nhau chỉ bằng cà chua. Bà cho thấy mỗi nền văn hóa lại sở hữu những kỹ thuật nấu nướng khác biệt. Thậm chí bà từng hỏi chúng tôi điều gì định hình nên nền ẩm thực của riêng mình, cốt để chúng tôi nhận ra *kỹ thuật* có thể nhào nặn các tiểu công thức ra sao. Rồi Laven cũng kể cho tôi nghe về cách Dyl nghiên cứu hàm lượng Endurium, từ bột rễ trời so với thịt, rồi so với sữa, cùng nhiều thứ khác.”
-
-  
-
-Chú Rish khẽ lắc đầu:
-
-  
-
-“Pappy này, hãy giúp một kẻ tàn phế chắp nối những mảnh ghép rời rạc này lại xem nào. Hai chuyện đó rốt cuộc liên quan gì đến nhau?”
-
-  
-
-Tôi giơ hai tay lên, cố tìm kiếm từ ngữ diễn đạt gãy gọn nhất:
-
-  
-
-“Chúng ta,” tôi chỉ tay về phía Ranch, “xưa nay vẫn luôn nấu các Đại công thức theo một lối mòn duy nhất. Trên thực tế, điều duy nhất chúng ta tường tận là chúng bắt buộc phải có một nguồn Endurium. Chúng ta chỉ chăm chăm tập trung vào yếu tố đó, biến nó thành kỹ thuật duy nhất của mình. Thế nhưng, tôi lại vừa làm ra một món kết hợp tới hai nguồn Endurium mà bản thân không hề bị bội thực. Sẽ ra sao nếu tôi đưa thêm nguồn thứ hai vào một Đại công thức vốn đã hoàn chỉnh?”
-
-  
-
-Chú Rish tung hứng chiếc túi vải nhỏ rồi vững vàng đón lấy nó trong lòng bàn tay:
-
-  
-
-“Cháu cần một nguồn thứ hai để kiểm chứng giả thuyết của mình.”
-
-  
-
-“Nhà vua đã xác nhận ông ta đang bắt tay với Dyl,” Cori tiếp lời. “Và bọn họ đang nắm trong tay nguồn thứ hai ấy.”
-
-  
-
-“Thậm chí có thể là nhiều nguồn hơn nữa,” Yenne nói, khẽ hất cằm về phía chiếc túi đang bọc lấy hai túi vải nhỏ bên trong.
-
-  
-
-“Chúng ta phải kiểm chứng giả thuyết của anh,” Cori dứt khoát. “Ngay lúc này.”
-
-  
-
-“Tôi không thể để Vanil sử dụng cuộn giấy đó,” tôi đáp.
-
-  
-
-“Sát thủ của em, hãy suy nghĩ cho kỹ,” Cori nhìn tôi. “Dyl đang làm việc cho nhà vua. Bọn họ sẽ mách cho hắn biết phần còn lại đang thiếu thứ gì. Chúng ta không còn thời gian nữa rồi.”
-
-  
-
-“Cháu cần những nguyên liệu gì để thử nghiệm giả thuyết của mình?” Chú Rish lên tiếng hỏi.
-
-  
-
-“Nói thật lòng nhé?” Tôi khẽ nhún vai. “Cháu chịu. Hơn tất cả, cháu cần thời gian để suy nghĩ, để tìm ra cách kết nối từng mắt xích lại với nhau.”
-
-  
-
-“Vậy thì chú sẽ làm nên điều bất khả thi, đó là mua cho cháu khoảng thời gian mà cháu đang thiếu,” chú Rish nhếch môi, giơ lên một lát chanh ngào đường. “Dễ như trở bàn tay thôi.”
-
-  
-
-Thoạt tiên, tất cả chúng tôi chỉ biết thở dài ngao ngán. Thế rồi, chúng tôi bắt tay vào vạch ra kế hoạch.
+<p class="para-en">I needed that powder.</p>
+<p class="para-vi-sub">Tôi nhất định phải có được thứ bột gia vị đó.</p>

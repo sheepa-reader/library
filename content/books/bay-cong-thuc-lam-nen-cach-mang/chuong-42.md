@@ -1,350 +1,286 @@
-# 40 Ngăn kéo bị kẹt
+# 34 Bài học
 
-*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
+<p class="para-en">I charged out of Cutler’s like a carnephon, tucking the cleaver I’d used to break the egg into my pants.</p>
+<p class="para-vi-sub">Tôi lao ra khỏi cửa hiệu của chú Cutler như một con quái thú Bò sát Carnephon, giắt chiếc dao phay dùng để đập trứng vào cạp quần.</p>
 
-“Mau lên,” tôi thì thầm lần thứ hai. “Lính Mổ Xẻ có thể xuất hiện bất cứ lúc nào.”
+<p class="para-en">“Paprick.” Cori hurried after me. “Wait.”</p>
+<p class="para-vi-sub">“Paprick!” Cori vội vã đuổi theo tôi. “Đợi đã!”</p>
 
-  
+<p class="para-en">I pulled out of her grip and stalked forward. What I’d observed with the omelet had changed my perspective. Vyson had been there, had put his knife to Cutler’s head and pressed it deep enough to reveal something vicious and terrible in the old man.</p>
+<p class="para-vi-sub">Tôi gạt tay em ra rồi xăm xăm bước tiếp. Những gì tôi vừa chứng kiến qua món trứng cuộn đã thay đổi hoàn toàn góc nhìn của tôi. Vyson từng ở đó. Hắn đã kề dao vào đầu chú Cutler, ấn đủ sâu để đánh thức một điều gì đó tàn độc và kinh hoàng bên trong con người ông lão.</p>
 
-“Anh muốn thử không?” Yenne thản nhiên đáp lại trong khi vẫn cặm cụi dùng bộ dụng cụ bẻ khóa. “Tôi đã nói rồi, tôi kiểm tra lịch tuần tra kỹ rồi. Chẳng có ai lai vãng ở khu vực này đâu.”
+<p class="para-en">I wasn’t waiting for answers. I would be demanding them.</p>
+<p class="para-vi-sub">Tôi không thèm chờ đợi câu trả lời nữa. Tôi sẽ tự tay bắt chúng phải phơi bày tất cả.</p>
 
-  
+<p class="para-en">Yenne followed Cori out and dashed in front of me to block my path.</p>
+<p class="para-vi-sub">Yenne bám theo Cori chạy ra ngoài rồi lao lên chắn ngay trước lối đi của tôi.</p>
 
-“Dù sao thì vẫn phải cẩn thận,” tôi nhấn mạnh.
+<p class="para-en">“What did you see?” she asked. It was one serving per egg, and I could still see the jealousy in her eyes.</p>
+<p class="para-vi-sub">“Anh đã nhìn thấy gì?” Cô hỏi. Mỗi quả trứng chỉ làm được một phần ăn, và tôi vẫn nhận ra sự ghen tỵ hằn rõ trong mắt cô.</p>
 
-  
+<p class="para-en">I tripped over my momentum. What I’d seen had been unexpected. Cutler wasn’t just an old man with a knowledge of cutlery and greater recipes. He was something else. Something that was old in a completely different way. Even the memory of it was unsettling, and it wasn’t something I was willing to dwell on just yet, let alone share with Yenne or Cori. It would be years before I dared ask Cutler about it.</p>
+<p class="para-vi-sub">Tôi khựng lại theo đà quán tính. Những gì tôi nhìn thấy nằm ngoài mọi sự hình dung. Chú Cutler không đơn thuần là một ông già am hiểu về dụng cụ bếp và các Đại công thức ma thuật. Ông ấy là một điều gì đó rất khác: một thực thể cổ xưa theo cách hoàn toàn dị biệt. Ngay cả việc hồi tưởng lại điều đó cũng khiến tôi thấy bất an, và đó chưa phải là chuyện tôi sẵn lòng bận tâm lúc này, chứ đừng nói đến việc chia sẻ với Yenne hay Cori. Phải nhiều năm sau, tôi mới dám mở lời hỏi chú Cutler về điều ấy.</p>
 
-Cori đang đợi ở phía xa hành lang. Đã ba ngày trôi qua kể từ khi ông Vanil đưa em rời khỏi chỗ hai mẹ của tôi, những người đã kể cho em nghe vô số câu chuyện dở khóc dở cười về những trò phá phách thời thơ ấu của tôi, đến mức tôi nghe hoài cũng không thấy chán. Kể từ lúc ấy, chúng tôi vẫn luôn chờ đợi Dyl rời đi để tham dự cuộc họp Hội đồng. Laven đã báo cho chúng tôi biết cuộc họp vừa được triệu tập, nhưng chúng tôi lại tốn thêm thời gian chờ người đưa thư của trạm chim chạy ở Phố Mây chuyển tin đến tay tôi. Thế nên lúc này, chúng tôi đang phải chạy đua với một quỹ thời gian vô định.
+<p class="para-en">The archivist’s eyes shoot to the Butcher’s. “Of course. That old goat touched the Source, didn’t he? Oh, don’t deny it. We both know what he’s done. And he has tattoos. Famines, how did I not recognize it sooner?”</p>
+<p class="para-vi-sub">Ánh mắt của Lưu Trữ Viên xoáy thẳng vào tôi. “Ra là vậy. Lão già lẩm cẩm đó đã chạm vào Cội Nguồn, đúng không? Đừng có chối. Cả hai chúng ta đều biết lão đã làm gì. Lão còn có cả những hình xăm nữa. Chết tiệt, sao đến tận bây giờ tôi mới nhận ra cơ chứ?”</p>
 
-  
+<p class="para-en">Hastily, the archivist scribbles a note and bids the guard, arm still broken, to deliver it to the Commander. “Make sure this goes directly into his hands. His eyes only.”</p>
+<p class="para-vi-sub">Nhanh như cắt, Lưu Trữ Viên hí hoáy viết vài dòng lên mảnh giấy rồi lệnh cho tên lính gác, kẻ vẫn đang ôm cánh tay gãy, đem đi trình cho Thống Lĩnh. “Hãy chắc chắn thư này được trao tận tay ngài ấy. Chỉ một mình ngài ấy được đọc.”</p>
 
-Cori liếc nhìn về phía tôi, gương mặt em bừng sáng dưới ánh trăng rọi qua khung cửa sổ. Tôi mỉm cười, và em nháy mắt đáp lại. Tôi đã rất nhớ sự hiện diện của em trong suốt những tuần em ở cùng hai mẹ của tôi, nhưng phải đến cái nháy mắt ấy, tôi mới nhận ra mình khao khát có em bên cạnh đến nhường nào. Chứng mất ngủ cùng những cơn ác mộng vắt kiệt sức lực khiến tôi trở nên căng thẳng và cáu kỉnh (đó cũng là một phần lý do khiến tôi nói dối ông Vanil), nhưng sự hiện diện của em ở ngay ngoài hành lang, chỉ cách tôi vài mét, đã lấp đầy lòng tôi bằng một nguồn năng lượng ấm áp dịu dàng.
+<p class="para-en">With a nod, the guard exits, and a waft of smoke enters the room, hinting at the battle outside.</p>
+<p class="para-vi-sub">Tên lính gác gật đầu rồi bước ra ngoài. Một làn khói mỏng lùa vào phòng, báo hiệu trận chiến đang diễn ra rát mặt bên ngoài.</p>
 
-  
+<p class="para-en">When the archivist looks back to the Butcher, he’s staring out the door, left ajar. Much too intently for the archivist’s liking. Quickly, the archivist closes it, and the pen returns to the ready position. But the archivist doesn’t continue just yet.</p>
+<p class="para-vi-sub">Khi Yenne quay lại nhìn tôi, tôi đang đăm đăm nhìn ra ngoài cánh cửa khép hờ. Ánh mắt quá đỗi chăm chú của tôi khiến Lưu Trữ Viên cảm thấy bất an. Cô nhanh chóng đóng sập cửa lại, cây bút lại đặt vào tư thế sẵn sàng viết. Thế nhưng cô vẫn chưa hỏi tiếp ngay.</p>
 
-Ổ khóa cửa bên cạnh tôi vang lên một tiếng “cạch”.
+<p class="para-en">“You knew, even then, what the Source could do and you said nothing.”</p>
+<p class="para-vi-sub">“Ngay từ lúc đó, anh đã biết Cội Nguồn có thể làm được những gì, vậy mà anh lại im lặng.”</p>
 
-  
+<p class="para-en">“I didn’t understand what I saw.”</p>
+<p class="para-vi-sub">“Tôi không hiểu những gì mình đã thấy.”</p>
 
-Đúng như kế hoạch, Yenne và tôi lách nhanh vào phòng thí nghiệm của Dyl, còn Cori túc trực ở ngoài cửa. Chúng tôi cho rằng để em canh gác là phương án tối ưu nhất, bởi em có thể giả vờ làm một học viên đi lạc, và đám Lính Mổ Xẻ thường lui tới Học viện sẽ khó nhận ra em hơn là Yenne hay tôi. Thế nhưng khi để em lại ngoài kia, lồng ngực tôi lại thắt chặt bởi sự căng thẳng y hệt như khoảng thời gian phải xa cách em. Tôi lo lắng không biết Dyl sẽ làm gì nếu bắt gặp một học viên lạ mặt đứng trước cửa phòng mình. Ít nhất thì đám Lính Mổ Xẻ cũng chẳng dám đả thương một người mang thẻ Thượng Phẩm. Tôi xoay chốt cửa rồi tiện tay với lấy một chiếc ghế chèn chặt lại cho chắc chắn. Cori hoàn toàn có thể, và chắc chắn sẽ, tự chăm sóc tốt cho bản thân.
+<p class="para-en">“Tell me.”</p>
+<p class="para-vi-sub">“Kể cho tôi nghe đi.”</p>
 
-  
+<p class="para-en">“It isn’t relevant,” the Butcher counters immediately.</p>
+<p class="para-vi-sub">“Nó không liên quan,” tôi lập tức phản bác.</p>
 
-Yenne thắp sáng chiếc đèn bão rồi tiến về khu vực phòng thí nghiệm, tiếng bước chân của cô nhẹ tựa lông hồng nếu so với nấc bước nặng nề của tôi.
+<p class="para-en">“Shouldn’t I be the judge of that?”</p>
+<p class="para-vi-sub">“Chẳng phải việc đó nên để tôi tự đánh giá sao?”</p>
 
-  
+<p class="para-en">“No,” he insists. “This the story of murders, blasphemy, regicide, and cannibalism.”</p>
+<p class="para-vi-sub">“Không,” tôi quả quyết. “Đây là câu chuyện về những vụ mưu sát, sự báng bổ, tội sát vương và nạn ăn thịt đồng loại.”</p>
 
-“Làm thế nào mà cô di chuyển nhẹ nhàng được thế?” Tôi thì thầm.
+<p class="para-en">“You’re forgetting about seven counts of espionage, Butcher.”</p>
+<p class="para-vi-sub">“Anh đang quên mất bảy tội danh gián điệp đấy, Đồ Tể.”</p>
 
-  
+<p class="para-en">“Am I?”</p>
+<p class="para-vi-sub">“Thế sao?”</p>
 
-“Trước hết là bằng cách ngậm miệng lại.”
+<p class="para-en">I pushed past Yenne gently. Mad, but not unraveling.</p>
+<p class="para-vi-sub">Tôi nhẹ nhàng gạt Yenne sang một bên. Tôi đang giận dữ, nhưng không hề mất kiểm soát.</p>
 
-  
+<p class="para-en">“If you want to come, come. But don’t think about stopping me.”</p>
+<p class="para-vi-sub">“Nếu các cô muốn đi theo thì cứ đi. Nhưng đừng hòng cản đường tôi.”</p>
 
-Tôi nuốt lại một tiếng càu nhàu rồi dồn sự chú ý vào những kệ đựng đồ đang rực lên dưới ánh đèn trong khu thí nghiệm. Yenne và tôi đều đồng ý rằng bột rễ trời hoàn toàn có thể giấu ở đây cũng như bất kỳ xó xỉnh nào khác. Không thể biết chắc Dyl sẽ quay lại sớm hay muộn, chúng tôi nhanh chóng lục lọi, lướt từ những chiếc tủ chứa các nguyên liệu căn bản như ngũ cốc, bơ cho đến những hũ dự trữ hiếm hơn: một hũ bột agar nhập khẩu từ Semoli, đậu nành sấy khô đã tách vỏ dán nhãn dùng để chiết xuất lecithin, cùng một dung dịch còn tươi gồm tảo biển và natri cacbonat.
+<p class="para-en">Vyson lived on the Academy’s thirteenth floor. The whole way up the central stair, Yenne and Cori, who both followed, pestered me with questions.</p>
+<p class="para-vi-sub">Vyson sống ở tầng mười ba của Học viện. Suốt dọc đường đi lên cầu thang trung tâm, cả Yenne lẫn Cori liên tục bám theo sau và dồn dập hỏi tôi hàng tá câu hỏi:</p>
 
-  
+<p class="para-en">“What’s the plan?”</p>
+<p class="para-vi-sub">“Kế hoạch là gì?”</p>
 
-“Quỷ tha ma bắt,” tôi buột miệng chửi thề khi nhìn thấy hũ dung dịch.
+<p class="para-en">“Shouldn’t this wait?”</p>
+<p class="para-vi-sub">“Chẳng phải việc này nên gác lại sao?”</p>
 
-  
+<p class="para-en">“Why don’t we go back and talk with Vanil?”</p>
+<p class="para-vi-sub">“Sao chúng ta không quay lại nói chuyện với Vanil?”</p>
 
-“Cái gì thế?” Yenne hỏi.
+<p class="para-en">I ignored them. The plan was simple. I was going to break Vyson’s toes, and then his fingers, and then start pulling out teeth and fingernails until he told me what I wanted. If that failed, I’d start cutting.</p>
+<p class="para-vi-sub">Tôi phớt lờ họ. Kế hoạch vô cùng đơn giản: tôi sẽ bẻ gãy từng ngón chân của Vyson, rồi đến các ngón tay, sau đó sẽ nhổ sạch răng và móng tay của hắn cho tới khi hắn chịu khai ra những gì tôi muốn. Nếu cách đó thất bại, tôi mới dùng đến dao.</p>
 
-  
+<p class="para-en">I obviously wasn’t going to tell Cori and Yenne that. They couldn’t understand. Observant Omelet doesn’t just look at the past. When you use it, you hear, smell, feel from different perspectives. A chaos of conflicting senses. I understood why the stories called it Omniscient. It wasn’t that you could know everything. It was that you experienced every sensation from anyone who’d lived the memory you focused on. I had been unprepared for it. I don’t even think Cutler himself had ever done it. He couldn’t have known what I’d experience.</p>
+<p class="para-vi-sub">Tôi dĩ nhiên không định nói điều đó với Cori và Yenne. Họ không thể nào hiểu được. Món trứng cuộn thấu thị không chỉ đơn thuần giúp nhìn lại quá khứ. Khi dùng nó, người ta sẽ nghe, ngửi và cảm nhận từ mọi góc độ khác nhau, một sự hỗn loạn mãnh liệt của những giác quan đan cài, xung đột. Tôi đã hiểu vì sao các truyền thuyết lại gọi nó là Món trứng Toàn tri. Không phải vì bạn có thể biết hết mọi thứ trên đời, mà là vì bạn được trải nghiệm trọn vẹn cảm giác của bất kỳ ai từng hiện diện trong ký ức mà bạn tập trung vào. Tôi hoàn toàn chưa chuẩn bị tâm lý cho điều đó. Tôi thậm chí không nghĩ chính chú Cutler từng thử làm vậy. Ông ấy không thể nào biết tôi đã phải trải qua những gì.</p>
 
-Tôi chỉ tay vào hũ nước. “Dyl đang chế tạo alginate.”
+<p class="para-en">But I’d felt Vyson’s knife go into Cutler. The sharp sting against his cranium woke a part of me that glamorous cooking classes had tried hard to bury.</p>
+<p class="para-vi-sub">Nhưng tôi đã cảm nhận được con dao của Vyson găm vào người chú Cutler. Cú đâm buốt nhói vào hộp sọ ông ấy đã đánh thức một phần trong tôi, phần bản ngã mà những lớp học nấu ăn hào nhoáng từng cố công chôn vùi. Trước khi gia nhập Học viện Ẩm thực Hoàng gia, tôi đã trải qua mười sáu năm ròng rã sống bằng những bữa ăn đạm bạc, dưới sự áp đặt đè nặng của một khế ước lao dịch trọn đời, cùng lời phán xét rằng tôi sẽ chẳng bao giờ làm nên trò trống gì chỉ vì tôi là kẻ Thứ Phẩm. Tôi có thể đã dành ra nhiều tháng trời tận hưởng cảm giác tự do trọn vẹn, nhưng việc thăng tiến địa vị cũng chỉ che giấu được bóng tối của sự áp bức hệ thống trong một khoảng thời gian ngắn ngủi.</p>
 
-  
+<p class="para-en">Before I ever joined the Culinary Academy, I spent sixteen years living on meager meals, under the certainty of a lifelong indenture, and with the promise that I would never amount to anything because I was common. I might’ve spent months feeling pretty damn free, but elevation could only hide the darkness of systemic oppression for so long. When Vyson stood over a kind man who’d welcomed him and his fellow soldiers into his shop, despite masks, and spoke of sending me a message in blood as he cut Cutler, it reminded me who they all were underneath their masks. I’d seen Rare mistreat common my whole life. I’d become so numb to it, so passively accepting of it, it took seeing a Rare attacking another Rare to see how deep the poison went. No more acceptance. No more passivity. I’d joined riots on Flyover.</p>
+<p class="para-vi-sub">Khi Vyson đứng trên thân thể một người đàn ông nhân hậu, người đã chào đón gã cùng đồng đội vào cửa hàng của mình bất chấp những chiếc mặt nạ, rồi vừa cứa dao vào người chú Cutler vừa thốt ra lời đe dọa sẽ gửi cho tôi một thông điệp bằng máu, điều đó đã thức tỉnh tôi về bản chất thật sự của bọn chúng bên dưới lớp mặt nạ kia. Tôi đã chứng kiến cảnh người Thượng Phẩm ngược đãi kẻ Thứ Phẩm suốt cả cuộc đời mình. Tôi từng trở nên quá tê liệt trước thực cảnh ấy, quá thụ động chấp nhận nó, đến mức phải tận mắt thấy một kẻ Thượng Phẩm tấn công chính đồng loại Thượng Phẩm của hắn thì mới nhận ra chất độc này đã ngấm sâu đến nhường nào.</p>
 
-“Tôi là một sử gia đấy,” Yenne đáp lại với nét mặt thản nhiên.
+<p class="para-en">Now it was time to lead them.</p>
+<p class="para-vi-sub">Sẽ không còn sự chấp nhận nào nữa. Không còn sự thụ động nào nữa.</p>
 
-  
+<p class="para-en">I raced up the central staircase of the Academy, knocking sniveling Rare aside, becoming the common they feared as I kept a hand on my cleaver. I made them see me in my rage. Fear the assaults I’d learned to expect from overseers and carvers. My fury didn’t quiet when I made it to the Teachers’</p>
+<p class="para-vi-sub">Tôi từng tham gia vào những cuộc bạo loạn trên Cầu Vượt.</p>
 
-“Đó là nguyên liệu của ngành ẩm thực giả kim,” tôi nói, không muốn giải thích dài dòng về kỹ thuật tạo hình viên nang mà tôi từng phải học thuộc lòng cho kỳ thi tốt nghiệp. “Vấn đề là phải mất khoảng hai tiếng đồng hồ mới chiết xuất xong thứ này từ tảo biển. Họ rời đi từ lúc nào rồi?”
+<p class="para-en">Wing on the thirteenth floor.</p>
+<p class="para-vi-sub">Đã đến lúc tôi phải dẫn dắt họ.</p>
 
-  
+<p class="para-en">As I slammed the hallway door open, Chef Sagen exited his office with a protest on his lips, but whatever he saw in my eyes was enough for him to suggest the students waiting outside his office come back later. Quietly, he closed his door.</p>
+<p class="para-vi-sub">Tôi lao vút lên cầu thang trung tâm của Học viện, gạt phăng những kẻ Thượng Phẩm đang sợ hãi thút thít sang một bên. Một tay giữ chặt chuôi đao cưa đồ tể, tôi biến mình thành hiện thân cho nỗi khiếp sợ lớn nhất của bọn chúng về tầng lớp Thứ Phẩm. Tôi bắt chúng phải chứng kiến cơn thịnh nộ tột cùng của mình, bắt chúng phải khiếp hãi những đòn tàn nhẫn mà tôi từng gồng mình chịu đựng từ giới giám sát và Lính Mổ Xẻ. Cơn giận dữ trong tôi chẳng hề nguôi ngoai khi tôi bước chân lên Khu Giảng viên ở tầng mười ba.</p>
 
-Yenne rút chiếc đồng hồ bỏ túi ra kiểm tra. Dù đã quan sát từ trước, tôi vẫn không sao hiểu nổi cô lấy nó ra từ nếp váy nào.
+<p class="para-en">I came to Vyson’s door, with Cori and Yenne still following nervously behind.</p>
+<p class="para-vi-sub">Khi tôi tông mạnh cánh cửa hành lang xô ngã tung ra, Đầu Bếp Sagen bước ra khỏi văn phòng với những lời phản đối chực trào trên môi. Nhưng có lẽ điều ông nhìn thấy trong ánh mắt tôi đã đủ để ông khuyên những học viên đang chờ ngoài cửa nên quay lại sau. Đoạn, ông lặng lẽ đóng cửa phòng mình lại.</p>
 
-  
+<p class="para-en">My shoulders were bunched up, tension flooding my muscles. The color of my face. I bet they thought I was going to kick the door down.</p>
+<p class="para-vi-sub">Tôi tiến về phía phòng của Vyson, Cori và Yenne lo lắng bám sát theo sau. Hai vai tôi gồng cứng, sự căng thẳng chèn ép từng thớ cơ khiến sắc mặt tôi trở nên sầm sập. Tôi cá là họ đang nghĩ tôi sắp đạp tung cánh cửa này.</p>
 
-“Chúng ta phải nhanh lên.”
+<p class="para-en">I wanted to. I knocked politely instead.</p>
+<p class="para-vi-sub">Tôi thực sự rất muốn làm thế. Nhưng rốt cuộc, tôi lại gõ cửa một cách lịch sự.</p>
 
-  
+<p class="para-en">I had this whole plan. Vyson would open the door a crack and then I’d kick it in, sending him on his ass while I burst through to pin him to the ground. Yenne and Cori would hurry in behind, closing the door to the hallway by the time I had my hand over Vyson’s mouth to muffle any screams. But he didn’t answer the door.</p>
+<p class="para-vi-sub">Tôi đã tính sẵn kế hoạch trong đầu: ngay khi Vyson vừa hé mở cửa, tôi sẽ đạp mạnh khiến gã ngã ngửa ra sàn, rồi lao tới khống chế, ghim chặt gã xuống đất. Yenne và Cori sẽ lập tức lao vào, đóng sập cửa hành lang lại ngay lúc tôi bịt chặt miệng Vyson để dập tắt mọi tiếng la hét.</p>
 
-Tôi với tay kéo ngăn kéo tiếp theo và suýt nữa trật khớp vai vì nó cứng ngắc không nhúc nhích.
+<p class="para-en">Huffing, I knocked again.</p>
+<p class="para-vi-sub">Thế nhưng, gã không ra mở.</p>
 
-  
+<p class="para-en">Rattled off a little cadence too. The same one he used to give rhythm to the blows students of Military Matters exchanged. But no answer.</p>
+<p class="para-vi-sub">Thở dốc, tôi gõ cửa lần nữa theo một nhịp điệu dồn dập và ngắn hồi. Đó chính là tiết nhịp gã thường dùng để bắt nhịp cho những cú đòn giao đấu giữa các học viên lớp Quân sự. Dẫu vậy, bên trong vẫn bặt âm vô tín.</p>
 
-“Ngăn này bị khóa rồi,” tôi nói.
+<p class="para-en">“Maybe we should go,” Cori encouraged.</p>
+<p class="para-vi-sub">“Có lẽ chúng ta nên rời khỏi đây thôi,” Cori khuyên.</p>
 
-  
+<p class="para-en">Yenne opened her mouth to say something but stopped, angling her ear toward the door.</p>
+<p class="para-vi-sub">Yenne định nói điều gì đó nhưng khựng lại ngay, cô ghé sát tai vào cánh cửa.</p>
 
-Yenne tiến lại cùng bộ dụng cụ bẻ khóa, trong khi tôi kiểm tra những ngăn kéo còn lại. Không có ngăn nào khác bị khóa cả. Nếu bột rễ trời có ở đây, nó nhất định phải nằm trong ngăn kéo này.
+<p class="para-en">“I heard it too,” I confirmed. “Groaning.”</p>
+<p class="para-vi-sub">“Tôi cũng nghe thấy rồi,” tôi thì thầm xác nhận. “Tiếng rên rỉ.”</p>
 
-  
+<p class="para-en">I spared the barest moment to check the hallway on either side to ensure no one was close before I kicked the door. Wood strained under my Endurance-enhanced strength, but it wasn’t until Cori slammed a shoulder against the door with me that hinges snapped. Cori cursed and cast her gaze back in either direction. “Someone will have heard that.”</p>
+<p class="para-vi-sub">Tôi nhanh mắt liếc dọc hai đầu hành lang để đảm bảo không có ai ở gần, rồi lập tức tung một cú đá nát cửa. Thớ gỗ nứt toác dưới sức mạnh được ma thuật cường hóa của tôi, nhưng phải đến khi Cori cùng tôi ghé vai tông mạnh lần nữa, bản lề mới gãy rầm. Cori chửi thề một tiếng, đảo mắt nhìn quanh hai phía hành lang: “Chắc chắn đã có người nghe thấy tiếng động rồi.”</p>
 
-“Đừng quên mục tiêu thứ hai,” Yenne vừa nói vừa cặm cụi mày mò ổ khóa.
+<p class="para-en">Yenne and I hurried in. We both stopped short.</p>
+<p class="para-vi-sub">Tôi và Yenne vội vã bước vào bên trong.</p>
 
-  
+<p class="para-en">Furniture lay tossed over or pushed aside.</p>
+<p class="para-vi-sub">Cả hai chúng tôi lập tức khựng người lại.</p>
 
-Yêu cầu thứ hai của ông Vanil là chúng tôi phải tận dụng tối đa cơ hội khi đã lọt vào khu vực sinh sống bị kiểm soát gắt gao của một thành viên Hội đồng.
+<p class="para-en">The far wall wore a deep, spiderwebbed crack, and Vyson lay spread and drawn in an X across the floor of the apartment, his ankles and wrists pulled by taut ropes anchored into the ceiling so that he hovered a few centimeters off the ground. His naked body was pale against the blood welled below him, which leaked slowly from what looked like a thousand cuts along his arms, legs, and torso—all the places where shallow cuts would allow the victim to feel each one, to slowly burn in the torture of a conscious death. It reminded me of Bessa, cut and bleeding above the floor of the King’s Factory.</p>
+<p class="para-vi-sub">Đồ đạc nằm lăn lóc, bị lật tung hoặc xô lệch sang một bên. Bức tường phía xa hằn lên một vết nứt sâu hoắm hình mạng nhện. Vyson đang bị treo dang rộng chân tay thành hình chữ X ngay giữa sàn nhà, cổ tay và cổ chân gã bị trói nghiến bởi những sợi dây thừng căng chặt treo từ trần xuống, khiến gã lơ lửng cách mặt sàn vài phân. Thân thể trần truồng nhợt nhạt của gã tương phản tàn nhẫn với vũng máu lênh láng bên dưới. Máu chậm rãi rỉ ra từ hàng ngàn vết chém nát khắp cánh tay, bắp chân và thân mình, những vết rạch nông cố tình bắt nạn nhân phải cảm nhận trọn vẹn sự đau đớn từng nhát một, để rồi gục ngã dần trong cuộc tra tấn đầy tỉnh táo. Cảnh tượng ấy gợi tôi nhớ về Bessa, bị rạch nát và máu chảy đầm đìa trên sàn Xưởng của Nhà Vua.</p>
 
-  
+<p class="para-en">In Vyson’s chest was carved the word “failure,” and sea salt had been rubbed into the wounds. Piss and shit pooled in the blood beneath him, creating a coppery ammonia-clogged stench that made me retch, even after my time in the factory surrounded by Bessa’s offal.</p>
+<p class="para-vi-sub">Trên ngực Vyson bị hằn sâu hai chữ “thất bại”, muối biển bị xát trực tiếp vào những vết thương lở loét. Nước tiểu và chất thải hòa lẫn vào vũng máu dưới thân gã, xộc lên mùi amoniac nồng nặc xen lẫn vị tanh nồng của sắt khiến tôi buồn nôn, dù bản thân từng kinh qua nhiều năm tháng lăn lộn trong xưởng mổ, ngập tràn giữa đống nội tạng gai người.</p>
 
-“Thứ bột đó sẽ giúp chúng ta có được Đại công thức, nhưng thông tin tình báo bên trong phòng làm việc mới là thứ giúp chúng ta chiến thắng cuộc chiến này.”
+<p class="para-en">The torture was gruesome, inhumane, and very, very fresh.</p>
+<p class="para-vi-sub">Màn tra tấn này thật tàn bạo, dã man, và dường như chỉ mới diễn ra cách đây ít phút.</p>
 
-  
+<p class="para-en">Vyson still quaked with pain when we entered, though he was gagged. His head snapped up to meet my gaze, and I sensed all the anger that had been directed at me in Military Matters, but no longer for me. For being caught like this.</p>
+<p class="para-vi-sub">Vyson vẫn không ngừng run rẩy vì đớn đau khi chúng tôi bước vào, dù miệng gã đã bị giẻ chèn chặt. Gã ngước phắt đầu nhìn thẳng vào mắt tôi. Tôi nhận ra tất cả sự căm hờn gã từng trút lên tôi trong lớp Quân sự, nhưng lúc này cơn giận ấy không còn nhắm vào tôi nữa. Gã uất hận vì bị bắt gặp trong tình cảnh nhục nhã này.</p>
 
-Cầm chiếc đèn bão Emphon còn lại, tôi rà soát các kệ sách và chọn được hai cuốn nhét ngay vào túi:
+<p class="para-en">For all my talk of torture and answers, I moved to help him.</p>
+<p class="para-vi-sub">Bất chấp mọi lời lẽ gai góc tôi từng thốt ra về việc tra tấn hay ép gã phải khai ra sự thật, tôi vẫn tiến lại gần để trợ giúp.</p>
 
-  
+<p class="para-en">Cutler hadn’t deserved his attack. But no one deserved what Vyson had gotten in return. Back then, I still believed that.</p>
+<p class="para-vi-sub">Chú Cutler không đáng bị gã hãm hại, nhưng cũng không một ai trên đời đáng phải chịu đựng những gì Vyson đang gánh chịu. Vào thời khắc ấy, tôi vẫn tin là như thế.</p>
 
-*Gia phả thất lạc của nhà Herdon* và *Hương vị cùng kỹ thuật bị lãng quên của Olearth*.
+<p class="para-en">Still, rage and compassion fought within me. I wanted to help him almost as much as I wanted answers. I settled on a middle ground. “I’ll help if you answer my questions.”</p>
+<p class="para-vi-sub">Dẫu vậy, sự giận dữ và lòng trắc ẩn vẫn không ngừng giằng xé nội tâm tôi. Ý muốn giúp đỡ gã cũng sòng phẳng ngang bằng với khao khát có được câu trả lời. Tôi đưa ra một thỏa thuận: “Tao sẽ giúp nếu mày chịu trả lời các câu hỏi của tao.”</p>
 
-  
+<p class="para-en">Vyson’s eyes flicked to Yenne, who stood, arms crossed, glaring down at the scene, and then to Cori, who was lifting the remains of the door back into the portal. It wouldn’t pass inspection, but a glance might disguise its destruction.</p>
+<p class="para-vi-sub">Đôi mắt Vyson khẽ đảo về phía Yenne, người đang khoanh tay nhìn xuống cảnh tượng ấy bằng ánh mắt lạnh tanh, rồi dời sang Cori, em đang nhặt những mảnh gỗ gãy của cánh cửa để gá tạm lại vào khung. Cách này khó lòng qua mắt được ai nếu soi xét kỹ, nhưng nếu chỉ lướt qua thì vẫn đủ che đậy việc nó đã bị đập nát.</p>
 
-Tôi vẫn thầm hy vọng tìm thấy thứ gì đó đại loại như *Đại công thức bí mật của các đời vua Panchon*, nhưng đời không như mơ.
+<p class="para-en">Vyson nodded sharply, and I pulled the gag from his mouth.</p>
+<p class="para-vi-sub">Vyson gật đầu dứt khoát. Tôi liền giật chiếc giẻ ngáng miệng gã ra.</p>
 
-  
+<p class="para-en">“Why are you bound?” I asked.</p>
+<p class="para-vi-sub">“Tại sao mày lại bị trói thế này?” Tôi hỏi.</p>
 
-Tôi vừa phát hiện thêm một ngăn kéo bị khóa khác trong bàn làm việc của Dyl thì tiếng đốt ngón tay của Cori đã dồn dập đập lên cánh cửa.
+<p class="para-en">“Punishment,” he said, as if that wasn’t obvious.</p>
+<p class="para-vi-sub">“Hình phạt,” gã thốt lên, giọng như thể điều đó đã quá rõ ràng.</p>
 
-  
+<p class="para-en">“Who did this to you?” Yenne asked before I could ask my next question.</p>
+<p class="para-vi-sub">“Kẻ nào đã làm chuyện này với mày?” Yenne cất lời hỏi trước khi tôi kịp đưa ra câu hỏi tiếp theo.</p>
 
-“Ôi, ơn Đấng Tiêu Thụ!” Em lớn tiếng hét vang từ bên ngoài bằng chất giọng của tầng lớp Thượng Phẩm, dậm những bước chân cố tình nặng nề rầm rầm rời khỏi cửa. “Tôi đi lạc trên này suốt cả tiếng đồng hồ rồi!”
+<p class="para-en">Vyson seemed to consider Yenne for a long time, as if debating whether to answer. When she pushed the heel of her shoe into the F in failure, however, his voice became urgent. “The Seekers! And His Majesty.”</p>
+<p class="para-vi-sub">Vyson dường như đắn đo nhìn Yenne một lúc lâu, như thể cân nhắc xem có nên trả lời hay không. Thế nhưng, ngay khi cô miết gót giày lên chữ F trong từ “thất bại”, giọng hắn lập tức trở nên hoảng hốt: “Lực lượng Thợ săn mặt nạ! Và Bệ hạ.”</p>
 
-  
+<p class="para-en">Confirmation that the king was involved only stoked the flames of my anger. The man already sold us into indenture the moment we were born. Now he kills us too? For what?</p>
+<p class="para-vi-sub">Lời xác nhận rằng nhà vua có nhúng tay vào chỉ càng thổi bùng ngọn lửa căm hờn trong tôi. Hắn đã bán chúng tôi làm nô dịch ngay từ khoảnh khắc chúng tôi cất tiếng khóc chào đời. Giờ đây hắn lại muốn lấy mạng chúng tôi nữa sao? Vì cái gì cơ chứ?</p>
 
-“Ổ khóa thế nào rồi?” Tôi thì thầm.
+<p class="para-en">“What do they want?” I shouted. “What does this have to do with me?”</p>
+<p class="para-vi-sub">“Chúng muốn gì?” Tôi gào lên. “Chuyện này thì liên quan gì đến tôi?”</p>
 
-  
+<p class="para-en">“Everything.” A bloody smile made a too-large crescent on his face. “To find it before you. And to punish you for your rebellion.”</p>
+<p class="para-vi-sub">“Tất cả mọi chuyện.” Một nụ cười rớm máu kéo dài thành vệt trăng khuyết ngoác rộng trên gương mặt hắn: “Để tìm ra nó trước mày. Và để trừng phạt mày vì tội phản nghịch.”</p>
 
-“Ổ khóa không phải vấn đề,” Yenne rít qua kẽ răng. “Sợi dây bẫy nối với ống khí bên trong mới là thứ làm tôi đau đầu đây.”
+<p class="para-en">“To find what?” Cori asked.</p>
+<p class="para-vi-sub">“Để tìm cái gì?” Cori hỏi.</p>
 
-  
+<p class="para-en">Vyson didn’t answer right away, staring at Cori with confusion.</p>
+<p class="para-vi-sub">Vyson không trả lời ngay, hắn nhìn Cori với vẻ bối rối.</p>
 
-“Nó có bẫy sao?”
+<p class="para-en">“To find what?” I repeated, drawing the cleaver.</p>
+<p class="para-vi-sub">“Để tìm cái gì?” Tôi lặp lại, rút thanh đao cưa đồ tể ra.</p>
 
-  
+<p class="para-en">Vyson eyed it with equal invitation and apprehension. “Paprick the Butcher. So it is true. My sacrifice…”</p>
+<p class="para-vi-sub">Vyson nhìn lưỡi đao với vẻ vừa thách thức vừa e dè: “Đồ Tể Paprick. Hóa ra là thật. Sự hy sinh của ta...”</p>
 
-“Trật tự để tôi tập trung! Nếu Dyl bắt gặp tôi ở đây, họ sẽ từ mặt tôi trong chớp mắt cho mà xem.”
+<p class="para-en">“What did you call me?” I asked, confused.</p>
+<p class="para-vi-sub">“Mày vừa gọi tao là gì?” Tôi hoang mang hỏi.</p>
 
-  
+<p class="para-en">He smiled wider and coughed blood. “I die with or without your help.”</p>
+<p class="para-vi-sub">Hắn nhe răng cười rộng hơn rồi ho ra máu: “Tao có sự giúp đỡ của mày hay không thì cũng chết thôi.”</p>
 
-Nếu ngăn kéo của Yenne có ống khí, tôi đoán ngăn kéo bị khóa thứ hai cũng tương tự. Thầm nghĩ đằng nào chúng tôi cũng chẳng thể thoát khỏi căn phòng này mà không bị phát hiện, tôi liền chộp lấy khối thạch algin Dyl đang pha chế, hy vọng nó sẽ giúp ích được việc tôi sắp làm.
+<p class="para-en">“I can help end it then.”</p>
+<p class="para-vi-sub">“Vậy thì tao có thể giúp mày kết thúc nó đấy.”</p>
 
-  
+<p class="para-en">“Paprick,” Cori whispered in warning. “We could use him.”</p>
+<p class="para-vi-sub">“Paprick,” Cori khẽ thì thầm cảnh báo. “Chúng ta còn có thể khai thác thông tin từ hắn.”</p>
 
-Dồn hết sức lực, tôi giật mạnh ngăn kéo bàn làm việc hết mức có thể. Thớ gỗ rên siết dưới những ngón tay tôi rồi dần chịu khuất phục. Nghiến chặt răng, tôi bấu các ngón tay ghim sâu hơn, lòng cào xé vì không muốn công sức đổ sông đổ biển chỉ đổi lấy hai cuốn sách chưa chắc đã dùng được.
+<p class="para-en">“He’ll never survive these wounds. Not with what time we have,” Yenne countered, as if taking a perch on my opposite shoulder.</p>
+<p class="para-vi-sub">“Hắn không đời nào sống sót nổi với những vết thương này đâu. Nhất là trong quỹ thời gian ít ỏi mà chúng ta đang có,” Yenne phản bác, giọng cất lên ngay bên vai kia của tôi.</p>
 
-  
+<p class="para-en">“What is it!” I slammed the cleaver into the floor beside Vyson’s ear. I’d meant to miss. I really had. But my hands were shaking. He screamed as blood sprayed from the artery at the base of the tragus.</p>
+<p class="para-vi-sub">“Nó là cái gì!” Tôi cắm phập thanh đao cưa đồ tể xuống sàn ngay sát tai Vyson. Tôi đã cố ý chém trượt. Thực sự là vậy. Nhưng bàn tay tôi đang run lên bần bật. Hắn thét lên đau đớn khi máu phun ra từ động mạch nơi cuống tai.</p>
 
-Chiếc bàn bật tung ra với tiếng động vang rền ra tận bên ngoài. Ngay khi một làn khói xám xộc lên ngùn ngụt, tôi trút toàn bộ phần thạch algin vừa chuyển dạng gel vào trong ngăn kéo rồi nín thở. Cả hai hành động này tôi sẽ chẳng bao giờ nghĩ ra nếu Yenne không nhắc đến chiếc ống khí giấu bên trong ngăn kéo của cô.
+<p class="para-en">“The recipe for control!” Vyson screamed, writhing against his bonds. “The Source! All the things that must not be undone.”</p>
+<p class="para-vi-sub">“Công thức kiểm soát!” Vyson gào lên, quằn quại trong dây trói. “Cội Nguồn! Tất cả những thứ không được phép bị phá vỡ!”</p>
 
-  
+<p class="para-en">His words sent a chill down my spine.</p>
+<p class="para-vi-sub">Lời hắn nói chạy dọc sống lưng tôi như một luồng điện lạnh toát.</p>
 
-May mắn thay, tôi đã làm vậy.
+<p class="para-en">“We need to go,” Yenne urged, breaking my shock. “Before someone comes to investigate.”</p>
+<p class="para-vi-sub">“Chúng ta phải đi thôi,” Yenne thúc giục, kéo tôi ra khỏi cơn bàng hoàng. “Trước khi có kẻ đến kiểm tra.”</p>
 
-  
+<p class="para-en">“Give us something, Vyson. Anything. They did this to you.”</p>
+<p class="para-vi-sub">“Khai ra chút gì đi, Vyson. Bất cứ điều gì cũng được. Chính bọn chúng đã làm thế này với mày cơ mà.”</p>
 
-Khối thạch algin đã hấp thụ một nửa làn khói xám, giữ chặt nó bên trong lớp gel. Nửa còn lại xộc thẳng vào mũi và mắt tôi cay xè, khiến tôi rùng mình hoảng sợ vì nhận ra thứ độc khí này có thể hoại tử phổi hay làn da của bất kỳ ai, dù chính tôi vẫn đang thọc cả hai tay vào ngăn kéo mở toang. Khói độc gặm nhấm da thịt tôi buốt rát như bị hàng trăm con ong chích, gợi nhớ đến những vết bỏng tôi từng chịu đựng khi chế biến hỗn hợp gia vị ướp quái thú bò mộng Emphon ở Chợ Gia Vị Hắc Ám năm xưa.
+<p class="para-en">His eyes darted away, for the briefest moment, and he spat in my face. I didn't think anything of it, but Yenne smirked.</p>
+<p class="para-vi-sub">Ánh mắt hắn đảo sang hướng khác trong một khoảnh khắc cực ngắn, rồi hắn nhổ thẳng nước bọt vào mặt tôi. Tôi chưa kịp phản ứng gì trước hành vi đó thì Yenne đã nhếch mép cười đầy ẩn ý.</p>
 
-  
+<p class="para-en">“The drawer,” she said, pointing, over my shoulder to the drawer of the upturned desk. “He’s looked to it twice now.”</p>
+<p class="para-vi-sub">“Ngăn kéo,” cô nói, chỉ tay qua vai tôi về phía ngăn kéo của chiếc bàn viết bị lật úp. “Hắn đã liếc nhìn về hướng đó hai lần.”</p>
 
-Bên trong ngăn kéo, tôi vơ được một cuộn giấy làm bằng da thuộc dày và thô ráp, hoàn toàn khác biệt với bất kỳ chất liệu nào tôi từng chạm qua. Bất chấp cơn đau rát, tôi vẫn cảm nhận được lớp gel algin bám trên bề mặt da thuộc, liền vội vàng giật mạnh nó ra rồi quạt liên hồi vào không khí để xua đi lớp gel cùng luồng khí độc. Một góc cuộn giấy đã hóa thành tro bụi, mục nát và mỏng manh hơn cả lòng bàn tay tôi; tôi lập tức lùi lại, tránh xa những làn hơi độc vẫn còn lảng vảng.
+<p class="para-en">“You think there’s something there?” I asked.</p>
+<p class="para-vi-sub">“Cô nghĩ có thứ gì ở đó sao?” Tôi hỏi.</p>
 
-  
+<p class="para-en">Without answering, Yenne stepped over Vyson, picked the lock quickly, and removed a sheaf of papers.</p>
+<p class="para-vi-sub">Không thèm trả lời, Yenne bước qua người Vyson, nhanh gọn bẻ khóa rồi rút ra một xấp tài liệu.</p>
 
-Khi tôi vội vã quay lại chỗ Yenne, tiếng ổ khóa đã vang lên lạch cạch ngay ngoài cửa.
+<p class="para-en">“You’ll kill them,” the soldier said, his eyes full of tears, though his smile remained. “Your mums, your friends, every last common roach.”</p>
+<p class="para-vi-sub">“Mày sẽ giết chết bọn họ,” gã lính nói, mắt đẫm lệ dù nụ cười méo xệch vẫn đọng trên môi. “Mẹ mày, bạn bè mày, và cả lũ gián Thứ Phẩm rác rưởi kia nữa.”</p>
 
-  
+<p class="para-en">The chill in my bones grew deep. He was raving beyond repair. His own people had strung him up like a bull, and he still defended them, would still kill for them, surely. There was no point in saving his life because it wasn’t a sound life—or at least, that’s what I told myself.</p>
+<p class="para-vi-sub">Cơn ớn lạnh thấm sâu vào tận xương tủy tôi. Hắn đã hóa điên đến mức không thể cứu vãn nổi nữa. Chính đồng bọn đã treo hắn lên như một con bò, vậy mà hắn vẫn liều mạng bảo vệ chúng, vẫn sẵn sàng tàn sát vì chúng. Chẳng có lý do gì để dung thứ cho mạng sống này nữa, bởi đó vốn không còn là một cuộc đời đúng nghĩa, hoặc ít nhất, tôi đã tự huyễn hoặc bản thân mình như thế.</p>
 
-“Ai ở trong đấy?” Dyl hô lớn.
+<p class="para-en">In that moment, all I saw was the angry eyes of the man who’d killed Chef, hurt Laven, attacked an old man.</p>
+<p class="para-vi-sub">Trong khoảnh khắc đó, tất cả những gì hiện lên trước mắt tôi là đôi mắt giận dữ của kẻ đã hạ sát Đầu Bếp Ilantra, làm tổn thương Laven và tấn công một người già.</p>
 
-  
+<p class="para-en">I wouldn’t hear him speak another word. Not when it felt like a prophecy locking off any other futures I could have.</p>
+<p class="para-vi-sub">Tôi sẽ không để hắn thốt thêm bất kỳ lời nào nữa, nhất là khi những lời ấy nghe như một lời tiên tri đang bóp nghẹt mọi tương lai mà tôi hướng tới.</p>
 
-“Cho tôi điểm tuyệt đối nhé,” Yenne thì thầm trong khi dùng một dụng cụ kỳ lạ tạo ra tiếng sột soạt xoẹt xẹt bên trong ngăn kéo đang hé mở. Ngăn kéo trượt ra mà không hề phát nổ. Chúng tôi lập tức tống đống chiến lợi phẩm gồm ba chiếc túi nhỏ đủ màu vào trong túi xách của tôi, nhét chung cùng cuộn giấy da và hai cuốn sách.
+<p class="para-en">“It’s a mercy, then.” I lied to myself loud enough for Cori to hear so that she wouldn’t think less of me, but the words were cold, with lucid vengeance. No one in that room thought I was saving a poor, unhealthy man as I chopped the cleaver down between Vyson’s eyebrows. The defenseless soldier died instantly, his eyes not even closing.</p>
+<p class="para-vi-sub">“Thế thì đây là một sự ân huệ.” Tôi cất lời đủ lớn để Cori nghe thấy, tự dối lòng cốt để em không đánh giá thấp mình, nhưng từng từ thốt ra lại lạnh băng, mang theo ngọn lửa hận thù rành rọt. Không một ai trong căn phòng nghĩ rằng tôi đang ban ơn cho một kẻ khốn khổ, kiệt quệ khi tôi giáng mạnh lưỡi đao cưa đồ tể xuống giữa hai hàng lông mày của Vyson. Tên lính không tấc sắt trong tay gục chết ngay tức khắc, đôi mắt thậm chí còn chưa kịp nhắm lại.</p>
 
-  
+<p class="para-en">It hadn’t been mercy, at least not for Vyson. If anything, it was for me.</p>
+<p class="para-vi-sub">Đó hoàn toàn không phải là sự ân huệ, ít nhất là dành cho Vyson. Nếu có, thì điều đó chỉ phục vụ cho chính bản thân tôi.</p>
 
-Dyl tông cả thân hình gầy gò vào cánh cửa, nhưng chiếc ghế chèn bên trong vẫn giữ vững không nhúc nhích.
+<p class="para-en">The last remnants of Vyson’s bowels evacuated into the bloody pool, and I looked away from my cleaver. Cori, still using her back to hold up the door, whistled. “Killer, indeed. We gotta go, quick.”</p>
+<p class="para-vi-sub">Những tàn dư cuối cùng trong cơ thể Vyson trút hết vào vũng máu đầm đìa, còn tôi ngoảnh mặt đi khỏi thanh đao cưa đồ tể của mình. Cori, người vẫn tì lưng chốt giữ cánh cửa, cất tiếng huýt sáo: “Sát thủ thật đấy. Chúng ta phải đi thôi, nhanh lên.”</p>
 
-  
+<p class="para-en">I tried to yank my cleaver back and found it too deeply embedded. Leaving it, I nodded a silent message to Cori, who dropped the door. The three of us dashed down the tower, back toward my apartment.</p>
+<p class="para-vi-sub">Tôi cố giật mạnh thanh đao cưa đồ tể ra nhưng nhận ra nó đã cắm quá sâu. Đành bỏ lại vũ khí, tôi khẽ gật đầu ra hiệu cho Cori, và em liền buông tay khỏi cánh cửa. Ba chúng tôi lao vút xuống cầu thang tòa tháp, quay trở lại căn hộ của tôi.</p>
 
-“Còn lối thoát nào khác không?” Tôi hỏi.
+<p class="para-en">“The papers?” I asked Yenne after three floors of silence.</p>
+<p class="para-vi-sub">“Mấy tờ tài liệu thì sao?” Tôi hỏi Yenne sau khi cả ba dằn lòng bước đi trong im lặng suốt ba tầng lầu.</p>
 
-  
+<p class="para-en">“Written in some kind of cipher.”</p>
+<p class="para-vi-sub">“Được viết bằng một loại mật mã nào đó.”</p>
 
-“Không, tôi không biết còn đường nào khác nữa,” Yenne đáp, đầu lắc nguầy nguậy.
+<p class="para-en">I didn’t know what that was, but I nodded and tried to ignore the carvers that ran upstairs at full sprint. No doubt Vyson’s body had been found and the search was on for his murderer. It was the third body that I’d left in my wake and the first that I can’t claim was self-defense. But Vyson was a murderer, a cultist, and would’ve died with or without my intervention. As he’d said.</p>
+<p class="para-vi-sub">Tôi chẳng rõ thứ mật mã đó là gì, chỉ biết gạt nỗi băn khoăn sang một bên và cố phớt lờ đám Lính Mổ Xẻ đang dồn dập lao ngược lên cầu thang. Không còn nghi ngờ gì nữa, cái xác của Vyson đã bị phát hiện và cuộc lùng sục kẻ sát hại hắn đã bắt đầu. Đó là cái xác thứ ba tôi để lại sau lưng, và là cái xác đầu tiên mà tôi không thể dùng lý do tự vệ để biện minh. Nhưng Vyson là một kẻ sát nhân, một tên cuồng tín, và hắn bắt buộc phải chết, dù có hay không sự ra tay của tôi. Đúng như chính hắn từng tuyên bố.</p>
 
-  
+<p class="para-en">“Let’s get back to the Greenhouse,” Yenne suggested. “You’ve gotten your revenge.”</p>
+<p class="para-vi-sub">“Hãy quay lại Nhà Kính đi,” Yenne đề nghị. “Anh đã trả được thù rồi.”</p>
 
-Tôi rơi vào bế tắc, bởi chẳng còn cách tẩu thoát nào khác ngoài việc phải làm Dyl bị thương.
+<p class="para-en">I bit off an objection and shifted my attention to Cori, looking for a supporter.</p>
+<p class="para-vi-sub">Tôi nén lại lời phản đối rồi quay sang nhìn Cori để tìm kiếm sự ủng hộ.</p>
 
-  
+<p class="para-en">“Maybe Vanil will know something about these Seekers and the greater recipe they seek,” she suggested.</p>
+<p class="para-vi-sub">“Có lẽ Vanil sẽ biết điều gì đó về những kẻ này cùng Đại công thức mà chúng đang săn lùng,” em gợi ý.</p>
 
-Đúng lúc đó, tôi chợt nhớ ra mình đang ở đâu. Một căn bếp giả kim.
+<p class="para-en">If he had, he would’ve done something to stop them sooner, I thought.</p>
+<p class="para-vi-sub">Nếu biết, hẳn ông ta đã làm gì đó để ngăn chặn chúng từ sớm rồi, tôi thầm nghĩ.</p>
 
-  
-
-Tôi có thể không biết cách bẻ khóa, nhưng tôi biết nấu nướng. Và bất kỳ ai đứng bếp nhiều như tôi cũng đều biết tới mối tai hại phổ biến nhất trong gian bếp: không phải chuột bọ, mà là khói.
-
-  
-
-Chẳng ai lại nấu nướng trong một không gian kín mịt cả. Thế thì tại sao nơi này lại không có lấy một chiếc cửa sổ? Hay là vì đã bị các giá sách che khuất?
-
-  
-
-Tôi gồng sức dịch chuyển một chiếc giá sách sang bên, nhưng thứ này chắc phải nặng đến hai trăm năm mươi ký.
-
-  
-
-Tôi rời mắt khỏi hàng giá sách và dời sự chú ý sang chiếc lò nướng nằm sát tường. Chụp hút khói phía trên rộng tầm ngang vai tôi. Vội vàng hết mức, tôi đẩy Yenne về phía đó rồi ra hiệu cho cô trèo lên.
-
-  
-
-“Lỡ bên trong bị hẹp lại thì sao?” Cô phản đối, nhưng tôi tin sẽ không có chuyện đó. Đây là một gian phòng rộng lớn chứa hàng đống sách quý giá; Viện trưởng chắc chắn không bao giờ muốn khói độc tích tụ lại nơi này.
-
-  
-
-Yenne buộc dây túi xách vào cổ chân. Tôi phải né vội một cú đá suýt trúng mặt khi cô uốn mình trườn lên chụp hút khói, vừa chật vật leo vừa lầm bầm cằn nhằn. Hy vọng cơ thể tôi chui vừa khe hở đó vô cùng mong manh, nhưng tôi chợt nhớ đến các nguyên liệu trong gian cất trữ thực phẩm. Trong lúc Yenne bò lên ống khói để kiểm tra xem đường ống có bị hẹp lại hay không, tôi vội vàng cởi phăng chiếc áo phông rồi dùng một thanh bơ chà xát liên hồi lên đôi vai cùng hai cánh tay đẫm mồ hôi.
-
-  
-
-Chiếc ghế chèn cửa ngã sụp xuống khi Dyl cuối cùng cũng tông văng được nó ra. Tôi vội vã luồn người vào cổ ống khói, gồng mình kéo cơ thể vượt qua chụp hút khói trong lúc đôi vai đượm bơ nhói đau vì không gian chật chội ép chặt.
-
-  
-
-Cánh cửa bật tung, Dyl lao vào và chửi thề một tiếng rõ to.
-
-  
-
-Nhanh nhẹn đến mức khó tin, Yenne đã leo qua miệng ống khói lên tận mái nhà. Tôi cố bắt chước dáng vẻ uyển chuyển của cô, nhưng các ngón tay tôi quá lớn nên liên tục cào rách da vào những gờ gạch mấp mô. Đôi bàn tay dính đầy bơ trượt đi từng chặng. Dưới kia, tôi có thể nghe thấy tiếng Dyl lầm bầm chửi rủa; chắc hẳn họ vừa phát hiện ra đống tàn tích của chiếc bàn làm việc cùng những ngăn kéo trống rỗng. Sự căng thẳng cộng với muội khói khiến cổ họng tôi ngứa ngáy đến phát cuồng, chỉ muốn ho một tiếng cho thông; nhưng nếu ho hay thở hổn hển lúc này, tôi sẽ bị phát hiện ngay lập tức. Tôi vội đưa một tay lên bịt miệng, nhưng ngay khoảnh khắc đó, bàn tay còn lại tuột mất điểm bám. Tôi trượt ngửa xuống, đế bốt nghiến rít lên thành ống khói. Tôi đành phải giạng rộng hai chân, ép chặt hai chiếc bốt vào hai bên tường gạch để chống trượt.
-
-  
-
-“Ai đấy?” Dyl quát lớn. “Mày có trốn thì tao cũng tìm ra cho bằng được. Cục Phòng vệ Sức bền sắp đến đây rồi! Ra đây ngay thì may ra còn được khoan hồng!”
-
-  
-
-Hai chân tôi run rẩy vì phải gồng mình chịu lực, nhưng tôi vẫn tranh thủ khoảnh khắc ấy để quẹt mạnh hai lòng bàn tay bết mỡ vào ống quần.
-
-  
-
-Tiếng bước chân tiến sát lại gần ống khói. Thời gian của tôi đã cạn. Thế nhưng khi ngước lên, tôi thấy Yenne đang rướn người vươn tay xuống phía dưới. Ước gì tôi có thể nhích thêm hai mét cuối cùng để chạm vào tay cô. Tôi nghiến răng gồng mình đu người lên. Khi thoát được lên tới mái nhà, các khóe móng tay tôi đã rớm máu, đau nhói, còn toàn thân thì phủ kín một lớp muội than.
-
-  
-
-Đứng trên đỉnh mái tháp, tôi không kìm nổi bàng hoàng khi phóng tầm mắt nhìn toàn cảnh thành phố. Đó là một quang cảnh thật choáng ngợp. Trước đây, tôi chỉ mới nhìn thấy nơi này vào ban ngày từ Cao nguyên Fen. Giờ đây khi đêm muộn buông xuống, những ngọn nến thắp sáng gần như mọi ô cửa sổ ở khu Thứ Phẩm, trong khi phân nửa số dinh thự của giới Thượng Phẩm lại chìm trong bóng tối im lìm. Dù biết dân số của chúng tôi đông hơn nhiều nhờ từng quan sát từ Cao nguyên, nhưng cái nhìn mơ hồ trước kia nay đã hoàn toàn vỡ tan. Số lượng của chúng tôi áp đảo bọn chúng hoàn toàn. Một sự áp đảo tuyệt đối.
-
-  
-
-Tôi dõi theo con sông uốn lượn quanh Phố Mây rồi chảy về phía nam, hướng tới tàn tích của Khu Thứ Phẩm Số 1. Ngay trong đống đổ nát ấy, những ánh đèn vẫn lập lòe nhấp nháy; người Thứ Phẩm vô gia cư đang tìm kiếm chút chỗ trú chân ở bất cứ nơi đâu có thể. Giới Thượng Phẩm nắm giữ quyền lực từ trên cao ngất ngưởng, vậy mà thậm chí chẳng có nổi năng lực quét sạch những kẻ chiếm cư trái phép. Làm sao chúng tôi lại có thể để bản thân chịu khuất phục trước bọn chúng cơ chứ?
-
-  
-
-Ra hiệu bằng một tiếng suýt nhỏ, Yenne dẫn chúng tôi rời khỏi mái nhà. Cô chọn một cánh cửa khác để đưa cả hai vào cầu thang trung tâm, nơi cô đã cẩn thận xác nhận không có ai, giúp tôi lẩn qua vài dãy hành lang nhằm tránh những ánh mắt soi mói. Diện mạo của tôi lúc ấy thật khó lòng giải thích: mình mẩy bết đầy bơ, cởi trần và lộn nhộn muội than. Cuối cùng, chúng tôi cũng hội quân với Cori ở phía sau một quán rượu thuộc Khu 11.
-
-  
-
-“Anh rốt cuộc đã làm gì trong đó thế?” Em hỏi, vuốt nhẹ bàn tay lên lồng ngực dính đầy bơ của tôi. “Chuyện này có thể diễn ra bất cứ khi nào em muốn không?”
-
-  
-
-Đảo mắt ngán ngẩm, tôi lôi sách vở, các túi đồ và cuộn giấy ra khỏi bao tải để kiểm tra.
-
-  
-
-Hai trong số những chiếc túi vẫn còn là ẩn số. Một túi chứa đầy vụn vỏ cây ẩm mốc, có kết cấu mịn như bột phấn, tỏa ra mùi hương nồng nặc là sự hòa trộn giữa caramel mạch nha, vani và cam chanh, phảng phất thêm chút hương hoa oải hương. Chiếc túi còn lại chứa loại muối dẻo như đất sét, vị gắt và đậm đà hương đất mùn; tôi đoán nó sẽ rất hợp để nêm nếm các món canh hoặc súp. Chiếc túi cuối cùng đựng ít nhất nửa cân bột rễ trời.
-
-  
-
-Thế nhưng, cuộn da mới chính là kho báu thực sự.
-
-  
-
-Vanil vẫn luôn khao khát tìm kiếm những bí mật có thể xoay chuyển cuộc chiến, nhưng chẳng ai trong chúng tôi ngờ lại chạm tay vào thứ vĩ đại nhất trong tất cả.
-
-  
-
-Tôi trải cuộn da vừa đủ để nhìn thấy tiêu đề cùng nguyên liệu đầu tiên; cả hai đều được viết bằng mực máu trên chất liệu mà sau này chúng tôi mới biết là da người.
-
-  
-
-Đây tuyệt nhiên không phải nơi thích hợp để đọc cuộn bí kíp, nhất là khi tôi vẫn dính đầy muội than và dễ gây chú ý. Bởi lẽ, cuộn bí kíp ấy chứa đựng một *Đại công thức ma thuật*.
-
-  
-
-*Chính là* Đại công thức đó. Đại công thức 5 - Ớt ma thuật kiểm soát tâm trí.
-
-  
-
-Chúng tôi chẳng thể ăn mừng, bởi có hai điều đã phủ bóng đen lên vị ngọt chiến thắng.
-
-  
-
-Dyl, người mà tôi từng ngỡ vô hại, thậm chí là đồng minh của Bầy Đàn, lại cất giấu nó ngay trong ngăn bàn làm việc của họ. Tại sao? Bằng cách nào? Đó là những câu hỏi mà chúng tôi chưa sẵn sàng cất lên thành lời, chứ đừng nói đến việc tìm ra câu trả lời.
-
-  
-
-Nhưng tồi tệ hơn cả là nguyên liệu đầu tiên của Đại công thức 5 - Ớt ma thuật kiểm soát tâm trí. Nó rùng rợn hơn quái thú Bò sát Carnephon gấp nhiều lần.
-
-  
-
-Máu người. Và là một lượng khổng lồ.
-
-  
-
-**Món chuyển vị IV
-Thấu hiểu**
-
-  
-
-“Hãy miêu tả lại cho tôi,” Nữ Lưu Trữ Viên ra lệnh.
-
-  
-
-“Cô đã thấy nó rồi mà,” Đồ Tể đáp, giọng thoáng chút thách thức.
-
-  
-
-“Nhiều năm qua, tôi vẫn tự hỏi liệu đôi mắt anh có nhìn thấy nhiều hơn mắt tôi hay không.”
-
-  
-
-Một hồi lâu sau, Đồ Tể gãi cằm rồi thở dài. “Cô còn nhớ nhiệm vụ mà tôi từng nhắc đến chứ? Phân tích món Bít tết khoai tây chiên - Đại công thức 4 và tranh luận về lý do vì sao nó lại hiệu quả đến vậy. Phải đến khi đọc cuộn bí kíp đó, tôi mới *thực sự* hiểu được nhiệm vụ ấy.”
-
-  
-
-Nhịp tim của Nữ Lưu Trữ Viên đập dồn dập. Cảm giác ấy đã ở thật gần. Liệu cuối cùng đã tìm ra con đường dẫn đến Cội Nguồn rồi sao?
-
-  
-
-“Nhưng vấn đề nằm ở chỗ này,” anh ngập ngừng một lát. “Lúc đó tôi đâu có thực sự đọc hết toàn bộ. Tôi chỉ nhìn thấy nguyên liệu đầu tiên rồi quyết định rằng nó không đáng dùng. Mãi sau này tôi mới đọc lại, và chính những chuyện xảy ra trước khi đọc mới là chìa khóa then chốt để thấu hiểu.”
-
-  
-
-Cây bút trong tay Nữ Lưu Trữ Viên nứt toác, bàn tay cô siết chặt thành nắm đấm đầy bực bội. “Nói cho tôi nghe đi, Đồ Tể.”
-
-  
-
-“Làm vậy đâu có đúng quy trình của Sách Nghi Lễ. Bỏ qua các phần trước sẽ làm mất hiệu lực của toàn bộ tiến trình. Các vị vua đều được miễn trừ mọi tội ác theo luật của tầng lớp Thượng Phẩm, và nếu tôi muốn chứng minh bản thân chính là Vua Đầu Bếp, tôi phải tiến hành theo đúng trình tự.”
-
-  
-
-“Đừng có lên lớp tôi về những bộ luật mà chính tôi là người duy trì.”
-
-  
-
-“Tôi đâu dám làm thế.”
-
-  
-
-“Vậy thì mau tiếp tục đi, Đồ Tể.”
-
-  
-
-“Đừng lo. Mọi chuyện diễn ra rất nhanh sau đó.” Đôi mắt anh, vốn chẳng còn Sức bền ma thuật nữa, cúi xuống nhìn đôi bàn tay mình. “Chúa ơi, thực sự mới chỉ trôi qua hai ngày thôi sao?”
+<p class="para-en">But I didn’t say that aloud. I just wanted to leave that murderer’s shit-stained body behind.</p>
+<p class="para-vi-sub">Thế nhưng tôi không thốt ra thành lời. Lúc này, tôi chỉ muốn lập tức rời khỏi cái xác dính đầy phân và máu của tên sát nhân kia.</p>
