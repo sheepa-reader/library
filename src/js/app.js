@@ -404,6 +404,32 @@
     }
   }
 
+  // --- READING PROGRESS PERSISTENCE ---
+  // Âm thầm ghi nhớ và đồng bộ tiến độ đọc (chương đang đọc & tỷ lệ % cuộn trang)
+  function saveBookProgress(bookId, chapterId, scrollPercent = 0) {
+    if (!bookId) return;
+    try {
+      const clampedPercent = Math.max(0, Math.min(1, typeof scrollPercent === 'number' && !isNaN(scrollPercent) ? scrollPercent : 0));
+      const data = {
+        chapterId,
+        scrollPercent: clampedPercent,
+        updatedAt: Date.now()
+      };
+      localStorage.setItem(`sheepa_progress_${bookId}`, JSON.stringify(data));
+      localStorage.setItem(`sheepa_last_chapter_${bookId}`, chapterId);
+    } catch (_) {}
+  }
+
+  function getBookProgress(bookId) {
+    if (!bookId) return null;
+    try {
+      const raw = localStorage.getItem(`sheepa_progress_${bookId}`);
+      if (raw) return JSON.parse(raw);
+    } catch (_) {}
+    const chap = localStorage.getItem(`sheepa_last_chapter_${bookId}`);
+    return chap ? { chapterId: chap, scrollPercent: 0 } : null;
+  }
+
   // --- DROP CAP LOCK HELPER ---
   // Kiểm tra xem chương này có bị khóa cứng không dùng Drop Cap hay không
   function isChapterDropCapLocked(chapter) {
@@ -1052,6 +1078,12 @@
     currentBook = book;
     document.title = `${book.title} — Sheepa Library`;
     const firstChapterId = book.chapters[0]?.id || 'chuong-1';
+    const savedProgress = getBookProgress(book.id);
+    const activeChapterId = (savedProgress?.chapterId && book.chapters.some(c => c.id === savedProgress.chapterId))
+      ? savedProgress.chapterId
+      : firstChapterId;
+    const isContinued = Boolean(savedProgress?.chapterId && savedProgress.chapterId !== firstChapterId);
+    const activeChapter = book.chapters.find(c => c.id === activeChapterId) || book.chapters[0];
     const hasBilingual = checkBookHasBilingual(book);
 
     app.innerHTML = `
@@ -1143,18 +1175,18 @@
 
             <div class="detail-actions">
               ${hasBilingual ? `
-                <a href="#/read/${book.id}/${firstChapterId}?mode=vi" class="btn-lg btn-primary" title="Đọc bản dịch tiếng Việt">
+                <a href="#/read/${book.id}/${activeChapterId}?mode=vi" class="btn-lg btn-primary" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)} (Bản Tiếng Việt)` : 'Đọc bản dịch tiếng Việt'}">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                  Đọc tiếng Việt
+                  ${isContinued ? 'Đọc tiếp (Tiếng Việt)' : 'Đọc tiếng Việt'}
                 </a>
-                <a href="#/read/${book.id}/${firstChapterId}?mode=bilingual" class="btn-lg btn-bilingual" title="Đọc bản song ngữ Anh - Việt liên tục">
+                <a href="#/read/${book.id}/${activeChapterId}?mode=bilingual" class="btn-lg btn-bilingual" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)} (Bản Song Ngữ)` : 'Đọc bản song ngữ Anh - Việt liên tục'}">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"></path></svg>
-                  Đọc Song Ngữ
+                  ${isContinued ? 'Đọc tiếp (Song Ngữ)' : 'Đọc Song Ngữ'}
                 </a>
               ` : `
-                <a href="#/read/${book.id}/${firstChapterId}" class="btn-lg btn-primary">
+                <a href="#/read/${book.id}/${activeChapterId}" class="btn-lg btn-primary" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)}` : 'Bắt đầu đọc'}">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                  Bắt đầu đọc
+                  ${isContinued ? 'Đọc tiếp' : 'Bắt đầu đọc'}
                 </a>
               `}
               <button class="btn-lg btn-outline" id="btn-open-download-modal">
@@ -1218,6 +1250,9 @@
     currentChapter = chapter;
     document.title = `${chapter.title} — ${book.title} | Sheepa Reader`;
     trackPageView(window.location.hash, document.title);
+
+    // Lưu lại tiến độ chương đang đọc ngay khi mở
+    saveBookProgress(book.id, chapter.id);
 
     const prevChapter = chapterIndex > 0 ? book.chapters[chapterIndex - 1] : null;
     const nextChapter = chapterIndex < book.chapters.length - 1 ? book.chapters[chapterIndex + 1] : null;
@@ -1450,6 +1485,11 @@
       const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
       const progress = scrollHeight > 0 ? (window.scrollY / scrollHeight) * 100 : 0;
       if (progressBar) progressBar.style.width = `${progress}%`;
+
+      // Âm thầm đồng bộ vị trí đọc hiện tại cho cuốn sách
+      if (scrollHeight > 0) {
+        saveBookProgress(book.id, chapter.id, window.scrollY / scrollHeight);
+      }
     };
     window.addEventListener('scroll', updateProgress);
 
@@ -1486,7 +1526,11 @@
       currentMode = newMode;
       localStorage.setItem('sheepa_reader_mode', newMode);
 
-      const savedScroll = window.scrollY;
+      // Tính tỷ lệ cuộn trang phần trăm hiện tại (0 -> 1) để khi nạp chế độ mới sẽ căn đúng đoạn đang đọc
+      const currentScrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const scrollPercent = currentScrollHeight > 0 ? (window.scrollY / currentScrollHeight) : 0;
+      saveBookProgress(book.id, chapter.id, scrollPercent);
+
       const newQuery = newMode === 'bilingual' ? '?mode=bilingual' : '';
       const newHash = `#/read/${book.id}/${chapter.id}${newQuery}`;
       if (window.location.hash !== newHash) {
@@ -1494,7 +1538,17 @@
       }
 
       await renderReaderView(book.id, chapter.id, newMode);
-      window.scrollTo({ top: savedScroll, behavior: 'instant' });
+
+      // Tự động cuộn đến đúng vị trí tương ứng trong chế độ mới theo tỷ lệ phần trăm
+      setTimeout(() => {
+        const newScrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+        if (newScrollHeight > 0 && scrollPercent > 0) {
+          window.scrollTo({
+            top: Math.round(scrollPercent * newScrollHeight),
+            behavior: 'instant'
+          });
+        }
+      }, 40);
     };
 
     modeSwitchTabs.forEach(tab => {
@@ -2213,6 +2267,8 @@
         const chapId = link.getAttribute('data-chap-id');
 
         if (targetHash) {
+          if (chapId) saveBookProgress(book.id, chapId, 0);
+
           if (window.location.hash === targetHash) {
             window.scrollTo({ top: 0, behavior: 'smooth' });
             if (chapId) renderReaderView(book.id, chapId, mode);
