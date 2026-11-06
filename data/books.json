@@ -2582,7 +2582,8 @@
     "description": "Tại ngôi làng Blackdown u ám và ngột ngạt ở vùng thôn quê nước Anh, một người phụ nữ được phát hiện bị sát hại dã man với những vết thương kỳ lạ. Anna Andrews – một cựu phóng viên đài truyền hình đang chật vật tìm lại sự nghiệp sau biến cố hôn nhân – bất đắc dĩ phải trở về quê nhà để đưa tin về vụ án mạng. Trong khi đó, Thanh tra Jack Harper – chồng cũ của Anna – là người trực tiếp chỉ huy đội điều tra hiện trường nhưng bản thân anh lại đang che giấu một bí mật chết người: anh chính là người cuối cùng nhìn thấy nạn nhân còn sống. Khi một vụ án mạng thứ hai tiếp tục xảy ra và cả hai nạn nhân đều là bạn học cũ thời niên thiếu của họ, cuộc đối đầu giữa Anna và Jack biến thành một ván cờ tâm lý rùng rợn. Với hai góc nhìn song song đan xen những lời tự thuật giấu mặt của kẻ thủ ác, cuốn sách bóc tách một chân lý cay đắng: luôn có hai mặt cho một câu chuyện: phiên bản của anh, phiên bản của em, và sự thật nằm ở khoảng giữa.",
     "downloads": {
       "epub": "content/downloads/cua-anh-cua-em.epub",
-      "pdf": ""
+      "pdf": "",
+      "bilingualEpub": "content/downloads/cua-anh-cua-em-song-ngu.epub"
     },
     "chapters": [
       {
@@ -2962,7 +2963,8 @@
     "awards": [
       "Đề cử Goodreads Choice Award — Thể loại Trinh thám & Giật gân",
       "Bestseller New York Times & Sunday Times"
-    ]
+    ],
+    "hasBilingual": true
   },
   {
     "id": "vong-lap-ky-uc",
