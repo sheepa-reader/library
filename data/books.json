@@ -4741,5 +4741,711 @@
       "Đề cử Goodreads Choice Award ◈ Hạng mục Bí Ẩn & Giật Gân",
       "Đề cử Goodreads Choice Award cho tiểu thuyết đầu tay"
     ]
+  },
+  {
+    "id": "nhin-ky-lai-di",
+    "title": "Nhìn Kỹ Lại Đi",
+    "originalTitle": "Look Closer",
+    "series": "",
+    "volume": "",
+    "author": "David Ellis",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Bí ẩn • Tâm lý • Giật gân",
+    "tags": [
+      "Bí ẩn",
+      "Tâm lý",
+      "Giật gân"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/nhin-ky-lai-di/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Lấy bối cảnh tại vùng ngoại ô giàu có ngoại ô Chicago, Simon và Vicky Dobias dường như có một cuộc hôn nhân hoàn hảo: Simon là giáo sư luật danh giá, còn Vicky là một người biện hộ tận tụy cho các nạn nhân bị bạo hành. Tuy nhiên, đằng sau cánh cửa đóng kín là một ván cờ sinh tử lạnh lùng khi cả hai đều đang âm thầm lên kế hoạch tiêu diệt đối phương để chiếm đoạt khối tài sản thừa kế hàng triệu USD. Mọi chuyện bùng nổ khi một người phụ nữ có liên hệ tình ái phức tạp với Simon bị treo cổ bí ẩn trong công viên địa phương, kéo theo sự vào cuộc của cảnh sát và phơi bày hàng loạt góc khuất đen tối. Khi các lớp dối lừa đan xen bóc tách qua từng góc nhìn trần thuật, người đọc nhận ra không một ai trong câu chuyện này thực sự là người như vẻ bề ngoài của họ. Đây là một màn trình diễn giật gân mẫu mực, nơi mỗi bước đi đều được tính toán kỹ lưỡng đến từng giây.",
+    "downloads": {
+      "epub": "content/downloads/nhin-ky-lai-di.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Lời đề tặng",
+        "part": "",
+        "path": "content/books/nhin-ky-lai-di/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "1",
+        "part": "",
+        "path": "content/books/nhin-ky-lai-di/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "TRƯỚC HALLOWEEN - Ngày 13 tháng 5",
+        "part": "TRƯỚC HALLOWEEN - Ngày 13 tháng 5",
+        "path": "content/books/nhin-ky-lai-di/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "2",
+        "part": "TRƯỚC HALLOWEEN - Ngày 13 tháng 5",
+        "path": "content/books/nhin-ky-lai-di/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-5.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-6",
+        "title": "3",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "4",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "5",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "6",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "7",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "8",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "9",
+        "part": "BẢY TUẦN SAU ĐÓ - Tháng Bảy",
+        "path": "content/books/nhin-ky-lai-di/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "10",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-14.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-15",
+        "title": "11",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "12",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "13",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "14",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "15",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "16",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "17",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-22.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-23",
+        "title": "18",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "19",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "20",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "21",
+        "part": "TRƯỚC NGÀY HALLOWEEN - Tháng Tám",
+        "path": "content/books/nhin-ky-lai-di/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "22",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "23",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "24",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "25",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "29",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "27",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "28",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "29",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "30",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "31",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "32",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "33",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "34",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "35",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "36",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "37",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "38",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "39",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Chín",
+        "path": "content/books/nhin-ky-lai-di/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "40",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "41",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "42",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "43",
+        "part": "",
+        "path": "content/books/nhin-ky-lai-di/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "44",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "45",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "46",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "47",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "48",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "49",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "50",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "51",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "52",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-57.md"
+      },
+      {
+        "id": "chuong-58",
+        "title": "53",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-58.md"
+      },
+      {
+        "id": "chuong-59",
+        "title": "54",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-59.md"
+      },
+      {
+        "id": "chuong-60",
+        "title": "55",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-60.md"
+      },
+      {
+        "id": "chuong-61",
+        "title": "56",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-61.md"
+      },
+      {
+        "id": "chuong-62",
+        "title": "57",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-62.md"
+      },
+      {
+        "id": "chuong-63",
+        "title": "58",
+        "part": "TRƯỚC NGÀY HALLOWEENTháng Mười",
+        "path": "content/books/nhin-ky-lai-di/chuong-63.md"
+      },
+      {
+        "id": "chuong-64",
+        "title": "59",
+        "part": "SAU NGÀY HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-64.md"
+      },
+      {
+        "id": "chuong-65",
+        "title": "60",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-65.md"
+      },
+      {
+        "id": "chuong-66",
+        "title": "61",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-66.md"
+      },
+      {
+        "id": "chuong-67",
+        "title": "62",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-67.md"
+      },
+      {
+        "id": "chuong-68",
+        "title": "63",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-68.md"
+      },
+      {
+        "id": "chuong-69",
+        "title": "64",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-69.md"
+      },
+      {
+        "id": "chuong-70",
+        "title": "65",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-70.md"
+      },
+      {
+        "id": "chuong-71",
+        "title": "66",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-71.md"
+      },
+      {
+        "id": "chuong-72",
+        "title": "67",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-72.md"
+      },
+      {
+        "id": "chuong-73",
+        "title": "68",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-73.md"
+      },
+      {
+        "id": "chuong-74",
+        "title": "69",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-74.md"
+      },
+      {
+        "id": "chuong-75",
+        "title": "70",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-75.md"
+      },
+      {
+        "id": "chuong-76",
+        "title": "71",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-76.md"
+      },
+      {
+        "id": "chuong-77",
+        "title": "72",
+        "part": "NHỮNG NGÀY TRƯỚC HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-77.md"
+      },
+      {
+        "id": "chuong-78",
+        "title": "73",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-78.md"
+      },
+      {
+        "id": "chuong-79",
+        "title": "74",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-79.md"
+      },
+      {
+        "id": "chuong-80",
+        "title": "75",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-80.md"
+      },
+      {
+        "id": "chuong-81",
+        "title": "76",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-81.md"
+      },
+      {
+        "id": "chuong-82",
+        "title": "77",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-82.md"
+      },
+      {
+        "id": "chuong-83",
+        "title": "78",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-83.md"
+      },
+      {
+        "id": "chuong-84",
+        "title": "79",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-84.md"
+      },
+      {
+        "id": "chuong-85",
+        "title": "80",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-85.md"
+      },
+      {
+        "id": "chuong-86",
+        "title": "81",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-86.md"
+      },
+      {
+        "id": "chuong-87",
+        "title": "82",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-87.md"
+      },
+      {
+        "id": "chuong-88",
+        "title": "83",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-88.md"
+      },
+      {
+        "id": "chuong-89",
+        "title": "84",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-89.md"
+      },
+      {
+        "id": "chuong-90",
+        "title": "85",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-90.md"
+      },
+      {
+        "id": "chuong-91",
+        "title": "86",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-91.md"
+      },
+      {
+        "id": "chuong-92",
+        "title": "87",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-92.md"
+      },
+      {
+        "id": "chuong-93",
+        "title": "88",
+        "part": "HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-93.md"
+      },
+      {
+        "id": "chuong-94",
+        "title": "89",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-94.md"
+      },
+      {
+        "id": "chuong-95",
+        "title": "90",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-95.md"
+      },
+      {
+        "id": "chuong-96",
+        "title": "91",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-96.md"
+      },
+      {
+        "id": "chuong-97",
+        "title": "92",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-97.md"
+      },
+      {
+        "id": "chuong-98",
+        "title": "93",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-98.md"
+      },
+      {
+        "id": "chuong-99",
+        "title": "94",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-99.md"
+      },
+      {
+        "id": "chuong-100",
+        "title": "95",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-100.md"
+      },
+      {
+        "id": "chuong-101",
+        "title": "96",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-101.md"
+      },
+      {
+        "id": "chuong-102",
+        "title": "97",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-102.md"
+      },
+      {
+        "id": "chuong-103",
+        "title": "98",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-103.md"
+      },
+      {
+        "id": "chuong-104",
+        "title": "99",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-104.md"
+      },
+      {
+        "id": "chuong-105",
+        "title": "100",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-105.md"
+      },
+      {
+        "id": "chuong-106",
+        "title": "101",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-106.md"
+      },
+      {
+        "id": "chuong-107",
+        "title": "102",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-107.md"
+      },
+      {
+        "id": "chuong-108",
+        "title": "103",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-108.md"
+      },
+      {
+        "id": "chuong-109",
+        "title": "104",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-109.md"
+      },
+      {
+        "id": "chuong-110",
+        "title": "105",
+        "part": "NHỮNG NGÀY SAU HALLOWEEN",
+        "path": "content/books/nhin-ky-lai-di/chuong-110.md"
+      },
+      {
+        "id": "chuong-111",
+        "title": "Chương 108",
+        "part": "",
+        "path": "content/books/nhin-ky-lai-di/chuong-111.md"
+      }
+    ],
+    "publishedAt": "2026-11-06",
+    "rating": {
+      "score": 4.13,
+      "count": "192.7k"
+    },
+    "awards": [
+      "Đề cử giải thưởng RUSA CODE"
+    ]
   }
 ]
