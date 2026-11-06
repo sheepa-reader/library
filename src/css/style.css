@@ -1891,17 +1891,14 @@ button {
 /* Reader Drawer / Modals */
 .modal-overlay {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.45);
-  backdrop-filter: blur(4px);
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(3px);
   z-index: 1000;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1.5rem;
+  padding: 0.75rem;
   opacity: 0;
   pointer-events: none;
   transition: opacity var(--transition-fast);
@@ -1915,13 +1912,27 @@ button {
 .modal-content {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-radius: 14px;
+  border-radius: 12px;
   width: 100%;
-  max-width: 500px;
+  max-width: 450px;
+  max-height: min(90vh, 620px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
   box-shadow: var(--shadow-md);
-  padding: 1.5rem;
+  padding: 1.1rem 1.25rem;
   transform: translateY(12px);
   transition: transform var(--transition-fast);
+}
+
+.modal-content::-webkit-scrollbar {
+  width: 5px;
+}
+.modal-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+.modal-content::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
 }
 
 .modal-overlay.active .modal-content {
@@ -1932,15 +1943,21 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.65rem;
 }
 
 .modal-header h3 {
-  font-size: 1.08rem;
+  font-size: 0.98rem;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.3;
   margin: 0;
   padding-right: 0.5rem;
+}
+
+.modal-subtitle {
+  font-size: 0.76rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.45rem;
 }
 
 .download-option-btn {
@@ -1948,11 +1965,11 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 0.75rem;
-  padding: 0.75rem 0.95rem;
+  gap: 0.65rem;
+  padding: 0.52rem 0.8rem;
   border: 1px solid var(--border-color);
   border-radius: 8px;
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.42rem;
   background: var(--bg-secondary);
   color: var(--text-main);
   transition: all var(--transition-fast);
@@ -1969,58 +1986,92 @@ button {
   border-color: var(--text-secondary);
 }
 
-.download-badge {
+.download-opt-title {
+  font-weight: 700;
+  font-size: 0.84rem;
+  line-height: 1.25;
+}
+
+.download-opt-desc {
   font-size: 0.72rem;
+  color: var(--text-tertiary);
+  line-height: 1.25;
+  margin-top: 0.1rem;
+}
+
+.download-badge {
+  font-size: 0.68rem;
   font-weight: 700;
   background: var(--accent);
   color: var(--accent-contrast);
-  padding: 0.32rem 0.75rem;
-  border-radius: 6px;
+  padding: 0.25rem 0.65rem;
+  border-radius: 5px;
   white-space: nowrap !important;
   flex-shrink: 0 !important;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.3px;
 }
 
 /* --- PASSCODE LOCK FOR DOWNLOAD MODAL --- */
 .download-lock-box {
   background: var(--bg-secondary);
   border: 1px dashed var(--border-color);
-  border-radius: 10px;
-  padding: 1.25rem 1.1rem;
-  margin-bottom: 1.25rem;
+  border-radius: 8px;
+  padding: 0.65rem 0.85rem;
+  margin-bottom: 0.65rem;
   text-align: center;
 }
 
+.lock-box-header {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-bottom: 0.25rem;
+}
+
 .lock-icon-badge {
-  width: 44px;
-  height: 44px;
+  width: 24px;
+  height: 24px;
   border-radius: 50%;
   background: var(--bg-hover);
   color: var(--primary-accent);
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 0.6rem;
+  flex-shrink: 0;
+}
+
+.lock-box-title {
+  font-weight: 700;
+  font-size: 0.86rem;
+  color: var(--text-main);
+}
+
+.lock-box-desc {
+  font-size: 0.74rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.45rem;
+  line-height: 1.35;
 }
 
 .passcode-input-group {
   display: flex;
-  gap: 0.5rem;
-  max-width: 340px;
+  gap: 0.4rem;
+  max-width: 300px;
   margin: 0 auto;
 }
 
 .passcode-input-group input {
   flex: 1;
-  padding: 0.6rem 0.85rem;
+  padding: 0.4rem 0.65rem;
   border: 1px solid var(--border-color);
   border-radius: 6px;
   background: var(--bg-main);
   color: var(--text-main);
-  font-size: 0.92rem;
+  font-size: 0.82rem;
   outline: none;
   transition: border-color var(--transition-fast);
 }
@@ -2030,8 +2081,8 @@ button {
 }
 
 .passcode-input-group button {
-  padding: 0.6rem 1rem;
-  font-size: 0.88rem;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
   font-weight: 600;
   border-radius: 6px;
   cursor: pointer;
@@ -2040,16 +2091,16 @@ button {
 
 .passcode-error-msg {
   color: #e53e3e;
-  font-size: 0.82rem;
-  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  margin-top: 0.35rem;
   font-weight: 500;
 }
 
 .passcode-hint {
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   color: var(--text-tertiary);
-  margin-top: 0.75rem;
-  line-height: 1.4;
+  margin-top: 0.35rem;
+  line-height: 1.3;
 }
 
 .passcode-hint a {
@@ -2058,15 +2109,26 @@ button {
   font-weight: 600;
 }
 
+.download-unlocked-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.65rem;
+  background: var(--bg-secondary);
+  padding: 0.42rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
 .unlocked-status-badge {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
   color: #2e7d32;
   background: rgba(46, 125, 50, 0.1);
-  padding: 0.25rem 0.6rem;
+  padding: 0.2rem 0.55rem;
   border-radius: 20px;
 }
 
@@ -2079,9 +2141,10 @@ button {
   background: none;
   border: none;
   color: var(--text-tertiary);
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   cursor: pointer;
   text-decoration: underline;
+  padding: 0.2rem 0.4rem;
 }
 .btn-relock:hover {
   color: var(--text-main);
@@ -2517,14 +2580,14 @@ button {
 
 /* Download Modal Bilingual Section */
 .download-section-heading {
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   font-weight: 800;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   color: var(--text-tertiary);
   display: flex;
   align-items: center;
-  gap: 0.45rem;
-  margin-bottom: 0.65rem;
+  gap: 0.35rem;
+  margin-bottom: 0.35rem;
 }
 
 .download-section-heading.bilingual-heading {
@@ -2532,9 +2595,9 @@ button {
 }
 
 .badge-bilingual-pill {
-  font-size: 0.68rem;
+  font-size: 0.64rem;
   font-weight: 600;
-  padding: 0.15rem 0.5rem;
+  padding: 0.1rem 0.45rem;
   border-radius: 999px;
   background: rgba(99, 102, 241, 0.12);
   color: #6366f1;

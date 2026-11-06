@@ -1936,15 +1936,17 @@
     if (!isUnlocked) {
       lockBoxHtml = `
         <div class="download-lock-box">
-          <div class="lock-icon-badge">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
-              <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
-            </svg>
+          <div class="lock-box-header">
+            <span class="lock-icon-badge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+              </svg>
+            </span>
+            <span class="lock-box-title">Khu vực tải sách có mã khóa</span>
           </div>
-          <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem;">Khu vực tải sách có mã khóa</div>
-          <div style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem; line-height: 1.5;">
-            Vui lòng nhập mã mở khóa để tải toàn bộ tài liệu (.EPUB & .PDF) của cuốn sách này:
+          <div class="lock-box-desc">
+            Nhập mã thành viên để mở khóa tải toàn bộ tài liệu (.EPUB & .PDF):
           </div>
           <form id="download-passcode-form" class="passcode-input-group" onsubmit="return false;">
             <input type="password" id="download-passcode-input" placeholder="Nhập mã truy cập..." autocomplete="off">
@@ -1952,34 +1954,31 @@
           </form>
           <div id="passcode-error-msg" class="passcode-error-msg" style="display: none;"></div>
           <div class="passcode-hint">
-            Chưa có mã khóa? Nhận mã mở khóa miễn phí tại <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a>
+            Chưa có mã? Nhận mã mở khóa miễn phí tại <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a>
           </div>
         </div>
       `;
     } else {
       lockBoxHtml = `
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.1rem; background: var(--bg-secondary); padding: 0.6rem 0.9rem; border-radius: 8px; border: 1px solid var(--border-color);">
+        <div class="download-unlocked-box">
           <div class="unlocked-status-badge">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
             Đã mở khóa tải sách thành viên
           </div>
           <button class="btn-relock" id="btn-relock-downloads" title="Khóa lại chức năng tải để bảo mật">Khóa lại</button>
         </div>
       `;
     }
-
-    modal.innerHTML = `
+modal.innerHTML = `
       <div class="modal-content">
         <div class="modal-header">
           <h3>Tải sách "${escapeHtml(book.title)}"</h3>
-          <button class="icon-btn" id="btn-close-modal" style="width: 32px; height: 32px;">✕</button>
+          <button class="icon-btn" id="btn-close-modal" style="width: 28px; height: 28px; font-size: 0.9rem;">✕</button>
         </div>
 
         ${lockBoxHtml}
 
-        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.85rem;">
-          Chọn định dạng sách điện tử hoặc tài liệu đọc offline:
-        </p>
+        <p class="modal-subtitle">Chọn định dạng tải về:</p>
 
         ${hasBilingual ? `
           <div class="download-section-heading">
@@ -1993,16 +1992,16 @@
           isUnlocked ? `
             <a href="${book.downloads.epub}" download="${book.id}.epub" class="download-option-btn">
               <div>
-                <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+                <div class="download-opt-title">Sách Tiếng Việt (.EPUB)</div>
+                <div class="download-opt-desc">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
               </div>
               <span class="download-badge">TẢI VỀ</span>
             </a>
           ` : `
             <div class="download-option-btn download-locked-btn" id="btn-locked-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
               <div>
-                <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+                <div class="download-opt-title">Sách Tiếng Việt (.EPUB)</div>
+                <div class="download-opt-desc">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
               </div>
               <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
@@ -2010,8 +2009,8 @@
         ) : `
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
-              <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
-              <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang được biên tập và xuất bản</div>
+              <div class="download-opt-title">Sách Tiếng Việt (.EPUB)</div>
+                <div class="download-opt-desc">Đang được biên tập và xuất bản</div>
             </div>
             <span class="badge-tag">SẮP CÓ</span>
           </div>
@@ -2022,16 +2021,16 @@
           isUnlocked ? `
             <a href="${book.downloads.pdf}" download="${book.id}.pdf" class="download-option-btn">
               <div>
-                <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+                <div class="download-opt-title">Tài Liệu Đọc In (.PDF)</div>
+                <div class="download-opt-desc">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
               </div>
               <span class="download-badge">TẢI VỀ</span>
             </a>
           ` : `
             <div class="download-option-btn download-locked-btn" id="btn-locked-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
               <div>
-                <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+                <div class="download-opt-title">Tài Liệu Đọc In (.PDF)</div>
+                <div class="download-opt-desc">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
               </div>
               <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
@@ -2039,15 +2038,15 @@
         ) : `
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
-              <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-              <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang hoàn thiện định dạng trang in</div>
+              <div class="download-opt-title">Tài Liệu Đọc In (.PDF)</div>
+                <div class="download-opt-desc">Đang hoàn thiện định dạng trang in</div>
             </div>
             <span class="badge-tag">SẮP CÓ</span>
           </div>
         `}
 
         ${hasBilingual ? `
-          <div class="download-section-heading bilingual-heading" style="margin-top: 1.35rem;">
+          <div class="download-section-heading bilingual-heading" style="margin-top: 0.75rem;">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
             BẢN SONG NGỮ LIÊN TỤC (ANH - VIỆT)
             <span class="badge-bilingual-pill">Bilingual Edition</span>
@@ -2058,20 +2057,16 @@
             isUnlocked ? `
               <a href="${bilingualEpub}" download="${book.id}-song-ngu.epub" class="download-option-btn download-bilingual-option">
                 <div>
-                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Sách Song Ngữ (.EPUB)
-                  </div>
-                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
+                  <div class="download-opt-title">Sách Song Ngữ (.EPUB)</div>
+                  <div class="download-opt-desc">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
                 </div>
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
             ` : `
               <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
                 <div>
-                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Sách Song Ngữ (.EPUB)
-                  </div>
-                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
+                  <div class="download-opt-title">Sách Song Ngữ (.EPUB)</div>
+                  <div class="download-opt-desc">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
                 </div>
                 <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
               </div>
@@ -2079,8 +2074,8 @@
           ) : `
             <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
               <div>
-                <div style="font-weight: 700;">Sách Song Ngữ (.EPUB)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang được biên tập và xuất bản</div>
+                <div class="download-opt-title">Sách Song Ngữ (.EPUB)</div>
+                <div class="download-opt-desc">Đang được biên tập và xuất bản</div>
               </div>
               <span class="badge-tag">SẮP CÓ</span>
             </div>
@@ -2091,20 +2086,16 @@
             isUnlocked ? `
               <a href="${bilingualPdf}" download="${book.id}-song-ngu.pdf" class="download-option-btn download-bilingual-option">
                 <div>
-                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Tài Liệu Song Ngữ (.PDF)
-                  </div>
-                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng trang in song ngữ đối chiếu song song</div>
+                  <div class="download-opt-title">Tài Liệu Song Ngữ (.PDF)</div>
+                  <div class="download-opt-desc">Định dạng trang in song ngữ đối chiếu song song</div>
                 </div>
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
             ` : `
               <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
                 <div>
-                  <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Tài Liệu Song Ngữ (.PDF)
-                  </div>
-                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng trang in song ngữ đối chiếu song song</div>
+                  <div class="download-opt-title">Tài Liệu Song Ngữ (.PDF)</div>
+                  <div class="download-opt-desc">Định dạng trang in song ngữ đối chiếu song song</div>
                 </div>
                 <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
               </div>
@@ -2112,8 +2103,8 @@
           ) : `
             <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
               <div>
-                <div style="font-weight: 700;">Tài Liệu Song Ngữ (.PDF)</div>
-                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang hoàn thiện định dạng trang in song ngữ</div>
+                <div class="download-opt-title">Tài Liệu Song Ngữ (.PDF)</div>
+                <div class="download-opt-desc">Đang hoàn thiện định dạng trang in song ngữ</div>
               </div>
               <span class="badge-tag">SẮP CÓ</span>
             </div>
