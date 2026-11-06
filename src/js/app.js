@@ -1339,12 +1339,13 @@
         const mdText = await res.text();
         contentHtml = parseMarkdown(mdText, chapter);
       } else {
-        const fbRes = await fetch(chapter.path);
+        const fallbackTarget = rawChapterPath || chapter.path || chapter.file || '';
+        const fbRes = fallbackTarget ? await fetch(fallbackTarget) : { ok: false };
         if (fbRes.ok) {
           const mdText = await fbRes.text();
           contentHtml = parseMarkdown(mdText, chapter);
         } else {
-          contentHtml = `<p>Không thể tải nội dung file ${chapter.path}. Vui lòng thử lại sau.</p>`;
+          contentHtml = `<p>Không thể tải nội dung file ${fallbackTarget || 'chương'}. Vui lòng thử lại sau.</p>`;
         }
       }
     } catch (e) {

@@ -3308,7 +3308,8 @@
     "description": "Lấy bối cảnh mở đầu vào năm 1980 tại trường Cao đẳng Rackham thuộc bang Maine, Arthur Oakes là một sinh viên kiêm thủ thư mơ mộng đang chìm đắm trong các huyền thoại Arthurian. Khi bị một kẻ buôn ma túy ép buộc trộm những cuốn sách cổ quý hiếm từ thư viện trường, Arthur và nhóm bạn thân rơi vào bước đường cùng và đã thực hiện một nghi thức siêu nhiên cổ xưa mà họ ngỡ chỉ là trò đùa. Họ vô tình triệu hồi Vua Đau Thương — một thực thể rồng cổ xưa tàn bạo, kẻ sẵn sàng ban phát ước muốn nhưng đòi hỏi cái giá đắt đỏ nhất: những sinh mạng con người làm vật hiến tế. Giao kèo đen tối này mở ra một chuỗi bi kịch kinh hoàng kéo dài hơn 4 thập kỷ, định hình và đe dọa sinh mạng của nhóm bạn qua từng giai đoạn cuộc đời. Tác phẩm là bản trường ca bi tráng về bản chất con người, sự tha hóa của quyền lực và thử thách tàn khốc của tình bạn trước bờ vực bóng tối.",
     "downloads": {
       "epub": "content/downloads/vua-dau-thuong.epub",
-      "pdf": ""
+      "pdf": "",
+      "bilingualEpub": "content/downloads/vua-dau-thuong-song-ngu.epub"
     },
     "chapters": [
       {
@@ -4372,7 +4373,8 @@
     },
     "awards": [
       "Đề cử Goodreads Choice Award - Hạng mục Kỳ Ảo"
-    ]
+    ],
+    "hasBilingual": true
   },
   {
     "id": "dom-lua-trong-bong-dem",
