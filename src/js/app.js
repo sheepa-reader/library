@@ -144,6 +144,12 @@
     readerMode: localStorage.getItem('sheepa_reader_mode') || 'vi' // 'vi' or 'bilingual'
   };
 
+  // Helper to normalize series names (handling 'và' vs '&')
+  function normalizeSeriesName(str) {
+    if (!str) return '';
+    return str.toLowerCase().replace(/\s+và\s+/g, ' & ').replace(/\s+/g, ' ').trim();
+  }
+
   // Helper check if book has bilingual edition
   function checkBookHasBilingual(book) {
     if (!book) return false;
@@ -308,9 +314,13 @@
     if (headerTagSelect) headerTagSelect.value = tagName;
     const currentHash = window.location.hash || '';
     if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
-      window.location.hash = '#/';
+      window.location.hash = tagName === 'all' ? '#/' : '#/?tag=' + encodeURIComponent(tagName);
     } else {
       renderLibraryView();
+      const filterSection = document.querySelector('.search-input-wrapper') || document.querySelector('.filter-tags');
+      if (filterSection) {
+        filterSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
     }
   }
   window.setTagFilter = setTagFilter;
@@ -748,7 +758,11 @@
 
     // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách
     const allTags = Array.from(new Set(
-      booksData.flatMap(b => Array.isArray(b.tags) && b.tags.length > 0 ? b.tags : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []))
+      booksData.flatMap(b => {
+        const tags = Array.isArray(b.tags) && b.tags.length > 0 ? [...b.tags] : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
+        if (b.series) tags.push(b.series);
+        return tags;
+      })
     )).filter(Boolean);
     if (booksData.some(b => checkBookHasBilingual(b)) && !allTags.includes('Song Ngữ')) {
       allTags.push('Song Ngữ');
@@ -780,10 +794,12 @@
         ? b.tags 
         : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
 
-      // 1. Lọc theo thể loại (tag)
+      // 1. Lọc theo thể loại (tag) hoặc series
+      const normFilter = normalizeSeriesName(activeTagFilter);
       const matchTag = activeTagFilter === 'all' || 
         bTags.some(t => t.toLowerCase() === activeTagFilter.toLowerCase()) || 
         (b.category && b.category.toLowerCase().includes(activeTagFilter.toLowerCase())) ||
+        (b.series && normalizeSeriesName(b.series) === normFilter) ||
         (activeTagFilter.toLowerCase() === 'song ngữ' && checkBookHasBilingual(b));
 
       // 2. Lọc theo trạng thái
@@ -838,8 +854,12 @@
       randomizedTags = shuffled.slice(0, 6);
     }
     let displayTags = [...randomizedTags];
-    if (activeTagFilter !== 'all' && !displayTags.includes(activeTagFilter)) {
-      displayTags.unshift(activeTagFilter);
+    if (activeTagFilter !== 'all') {
+      const normActive = normalizeSeriesName(activeTagFilter);
+      const alreadyIn = displayTags.some(t => normalizeSeriesName(t) === normActive);
+      if (!alreadyIn) {
+        displayTags.unshift(activeTagFilter);
+      }
     }
 
     const currentQuote = currentQuoteIndex >= 0 && quotesData[currentQuoteIndex]
@@ -867,7 +887,7 @@
           <div class="filter-tags">
             <button class="filter-btn ${activeTagFilter === 'all' && activeStatusFilter === 'all' ? 'active' : ''}" data-filter-tag="all">Tất cả sách</button>
             ${displayTags.map(tag => `
-              <button class="filter-btn ${activeTagFilter === tag ? 'active' : ''}" data-filter-tag="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
+              <button class="filter-btn ${normalizeSeriesName(activeTagFilter) === normalizeSeriesName(tag) ? 'active' : ''}" data-filter-tag="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
             `).join('')}
           </div>
         </div>
@@ -919,7 +939,7 @@
                       ${bTags.map(t => `
                         <span class="badge-tag" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(t)}');" title="Lọc theo '${escapeHtml(t)}'">${escapeHtml(t)}</span>
                       `).join('')}
-                      ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
+                      ${book.series ? `<span class="badge-tag badge-series" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(book.series.replace(/'/g, "\\'"))}');" title="Lọc các tập trong bộ sách '${escapeHtml(book.series)}'">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                       <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
                       ${hasBilingual ? `
                         <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
@@ -968,7 +988,7 @@
                   ${bTags.map(t => `
                     <span class="badge-tag" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(t)}');" title="Lọc các sách theo tag '${escapeHtml(t)}'">${escapeHtml(t)}</span>
                   `).join('')}
-                  ${book.series ? `<span class="badge-tag badge-series">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
+                  ${book.series ? `<span class="badge-tag badge-series" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(book.series.replace(/'/g, "\\'"))}');" title="Lọc các tập trong bộ sách '${escapeHtml(book.series)}'">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                   <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
                   ${hasBilingual ? `
                     <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
@@ -1045,7 +1065,12 @@
 
     document.querySelectorAll('[data-filter-tag]').forEach(btn => {
       btn.addEventListener('click', () => {
-        activeTagFilter = btn.dataset.filterTag;
+        const clickedTag = btn.dataset.filterTag;
+        if (clickedTag === activeTagFilter && clickedTag !== 'all') {
+          activeTagFilter = 'all';
+        } else {
+          activeTagFilter = clickedTag;
+        }
         const headerTagSelect = document.getElementById('header-tag-filter');
         if (headerTagSelect) headerTagSelect.value = activeTagFilter;
         if (activeTagFilter === 'all') {
@@ -1117,8 +1142,9 @@
           </div>
           <div class="detail-info">
             ${book.series ? `
-              <div class="detail-series-banner">
+              <div class="detail-series-banner" onclick="window.location.hash = '#/?tag=' + encodeURIComponent('${escapeHtml(book.series)}');" title="Xem toàn bộ các tập trong bộ sách '${escapeHtml(book.series)}'">
                 <img src="public/icons/glyph_18_book_open_flat.png" class="inline-glyph-icon" alt="series"> Bộ sách: <strong>${escapeHtml(book.series)}</strong> ${book.volume ? '— ' + escapeHtml(book.volume) : ''}
+                <span style="margin-left: 0.5rem; font-size: 0.78rem; text-decoration: underline; opacity: 0.85;">(Xem trọn bộ)</span>
               </div>
             ` : ''}
             <div class="detail-badges">
