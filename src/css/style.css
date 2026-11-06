@@ -2520,7 +2520,49 @@ button {
   display: none !important;
 }
 
-/* Interlinear Bilingual Paragraph Pairs */
+/* Order Toggle Button (VI->EN vs EN->VI) inside the mode cluster */
+.bilingual-order-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 25px;
+  padding: 0 0.45rem;
+  border: 1px solid var(--border-color);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  border-radius: 999px;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.bilingual-order-btn:hover {
+  background: var(--bg-hover);
+  color: #6366f1;
+  border-color: #6366f1;
+}
+
+[data-theme="dark"] .bilingual-order-btn {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+[data-theme="dark"] .bilingual-order-btn:hover {
+  background: rgba(99, 102, 241, 0.2);
+  color: #a5b4fc;
+  border-color: #818cf8;
+}
+
+.bilingual-order-btn.hidden {
+  display: none !important;
+}
+
+/* Interlinear Bilingual Paragraph Pairs (Flexible VE / EV Ordering) */
 .bilingual-pair {
   margin-bottom: 1.6rem;
   display: flex;
@@ -2530,60 +2572,20 @@ button {
   transition: background var(--transition-fast);
 }
 
-.bilingual-vi {
-  text-align: justify;
-  line-height: inherit;
-  color: var(--text-main);
-  word-break: break-word;
-}
-
-.bilingual-en {
-  margin-top: 0.2rem;
-  padding-left: 0.95rem;
-  border-left: 2px solid rgba(99, 102, 241, 0.5);
+.bilingual-block {
+  display: flex;
+  flex-direction: column;
   transition: all 0.2s ease-out;
 }
 
+.bilingual-vi-content,
 .bilingual-en-content {
-  font-size: 0.93em;
-  line-height: 1.65;
-  color: var(--text-secondary);
   text-align: justify;
+  line-height: inherit;
   word-break: break-word;
 }
 
-[data-theme="sepia"] .bilingual-en {
-  border-left-color: rgba(143, 61, 27, 0.45);
-}
-
-[data-theme="dark"] .bilingual-en {
-  border-left-color: rgba(139, 92, 246, 0.6);
-}
-
-/* Drop Cap Support for Bilingual Vietnamese Paragraph */
-.reader-content.enable-dropcap .bilingual-vi.has-dropcap::first-letter {
-  font-family: var(--font-playfair), 'Merriweather', 'Lora', Georgia, serif;
-  float: left;
-  font-size: 3.5em;
-  line-height: 0.8;
-  padding-top: 4px;
-  padding-right: 10px;
-  padding-bottom: 2px;
-  font-weight: 700;
-  color: #8f3d1b;
-}
-
-[data-theme="dark"] .reader-content.enable-dropcap .bilingual-vi.has-dropcap::first-letter {
-  color: #ffaa5b;
-}
-
-.reader-content.enable-dropcap .bilingual-vi.has-dropcap::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Toggle Pill for "Chạm để mở" Mode */
+/* --- Toggle Pill for "Chạm để mở" Mode --- */
 .bilingual-toggle-pill {
   display: inline-flex;
   align-items: center;
@@ -2599,6 +2601,7 @@ button {
   transition: all 0.2s ease;
   user-select: none;
   margin-bottom: 0.35rem;
+  align-self: flex-start;
 }
 
 .bilingual-toggle-pill:hover {
@@ -2612,11 +2615,24 @@ button {
   display: inline-block;
   padding: 0.05rem 0.32rem;
   border-radius: 4px;
-  background: rgba(99, 102, 241, 0.15);
-  color: #6366f1;
   font-weight: 800;
   font-size: 0.68rem;
   letter-spacing: 0.04em;
+}
+
+.pill-en .pill-badge {
+  background: rgba(99, 102, 241, 0.15);
+  color: #6366f1;
+}
+
+.pill-vi .pill-badge {
+  background: rgba(16, 185, 129, 0.15);
+  color: #059669;
+}
+
+[data-theme="dark"] .pill-vi .pill-badge {
+  background: rgba(16, 185, 129, 0.22);
+  color: #34d399;
 }
 
 .pill-arrow {
@@ -2624,38 +2640,194 @@ button {
   stroke-width: 2.5;
 }
 
-/* Visibility Control Rules */
-/* 1. Mode = 'vi' (Pure Vietnamese: Hide all English elements) */
-[data-reader-mode="vi"] .bilingual-en {
+/* ========================================================
+   ORDER 1: VE (Tiếng Việt trước - Tiếng Anh sau: Mặc định)
+   ======================================================== */
+[data-bilingual-order="ve"] .bilingual-vi-block {
+  order: 1;
+}
+
+[data-bilingual-order="ve"] .bilingual-vi-block .pill-vi {
   display: none !important;
 }
 
-/* 2. Mode = 'bilingual' & Visibility = 'show-all' */
-[data-reader-mode="bilingual"][data-en-visibility="show-all"] .bilingual-toggle-pill {
+[data-bilingual-order="ve"] .bilingual-vi-content {
+  color: var(--text-main);
+  display: block !important;
+  font-size: 1em;
+  line-height: inherit;
+}
+
+[data-bilingual-order="ve"] .bilingual-en-block {
+  order: 2;
+  margin-top: 0.2rem;
+  padding-left: 0.95rem;
+  border-left: 2px solid rgba(99, 102, 241, 0.5);
+}
+
+[data-theme="sepia"] [data-bilingual-order="ve"] .bilingual-en-block {
+  border-left-color: rgba(143, 61, 27, 0.45);
+}
+
+[data-theme="dark"] [data-bilingual-order="ve"] .bilingual-en-block {
+  border-left-color: rgba(139, 92, 246, 0.6);
+}
+
+[data-bilingual-order="ve"] .bilingual-en-content {
+  font-size: 0.93em;
+  line-height: 1.65;
+  color: var(--text-secondary);
+}
+
+/* VE: Hiện tất cả */
+[data-bilingual-order="ve"][data-en-visibility="show-all"] .bilingual-en-block .pill-en {
   display: none !important;
 }
 
-[data-reader-mode="bilingual"][data-en-visibility="show-all"] .bilingual-en-content {
+[data-bilingual-order="ve"][data-en-visibility="show-all"] .bilingual-en-content {
   display: block !important;
 }
 
-/* 3. Mode = 'bilingual' & Visibility = 'tap-reveal' */
-[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en:not(.is-revealed) .bilingual-en-content {
+/* VE: Chạm để mở (Ẩn tiếng Anh) */
+[data-bilingual-order="ve"][data-en-visibility="tap-reveal"] .bilingual-en-block:not(.is-revealed) .bilingual-en-content {
   display: none !important;
 }
 
-[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .bilingual-en-content {
+[data-bilingual-order="ve"][data-en-visibility="tap-reveal"] .bilingual-en-block.is-revealed .bilingual-en-content {
   display: block !important;
   animation: biFadeIn 0.22s ease-out;
 }
 
-[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .pill-arrow {
+[data-bilingual-order="ve"][data-en-visibility="tap-reveal"] .bilingual-en-block.is-revealed .pill-arrow {
   transform: rotate(180deg);
 }
 
-[data-reader-mode="bilingual"][data-en-visibility="tap-reveal"] .bilingual-en.is-revealed .bilingual-toggle-pill {
+[data-bilingual-order="ve"][data-en-visibility="tap-reveal"] .bilingual-en-block.is-revealed .bilingual-toggle-pill {
   background: var(--bg-hover);
   border-color: var(--border-color);
+}
+
+/* ========================================================
+   ORDER 2: EV (Tiếng Anh trước - Tiếng Việt sau)
+   ======================================================== */
+[data-bilingual-order="ev"] .bilingual-en-block {
+  order: 1;
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 0 !important;
+}
+
+[data-bilingual-order="ev"] .bilingual-en-block .pill-en {
+  display: none !important;
+}
+
+[data-bilingual-order="ev"] .bilingual-en-content {
+  color: var(--text-main);
+  display: block !important;
+  font-size: 1em;
+  line-height: inherit;
+}
+
+[data-bilingual-order="ev"] .bilingual-vi-block {
+  order: 2;
+  margin-top: 0.2rem;
+  padding-left: 0.95rem;
+  border-left: 2px solid rgba(16, 185, 129, 0.5);
+}
+
+[data-theme="sepia"] [data-bilingual-order="ev"] .bilingual-vi-block {
+  border-left-color: rgba(143, 61, 27, 0.45);
+}
+
+[data-theme="dark"] [data-bilingual-order="ev"] .bilingual-vi-block {
+  border-left-color: rgba(52, 211, 153, 0.6);
+}
+
+[data-bilingual-order="ev"] .bilingual-vi-content {
+  font-size: 0.93em;
+  line-height: 1.65;
+  color: var(--text-secondary);
+}
+
+/* EV: Hiện tất cả */
+[data-bilingual-order="ev"][data-en-visibility="show-all"] .bilingual-vi-block .pill-vi {
+  display: none !important;
+}
+
+[data-bilingual-order="ev"][data-en-visibility="show-all"] .bilingual-vi-content {
+  display: block !important;
+}
+
+/* EV: Chạm để mở (Ẩn tiếng Việt) */
+[data-bilingual-order="ev"][data-en-visibility="tap-reveal"] .bilingual-vi-block:not(.is-revealed) .bilingual-vi-content {
+  display: none !important;
+}
+
+[data-bilingual-order="ev"][data-en-visibility="tap-reveal"] .bilingual-vi-block.is-revealed .bilingual-vi-content {
+  display: block !important;
+  animation: biFadeIn 0.22s ease-out;
+}
+
+[data-bilingual-order="ev"][data-en-visibility="tap-reveal"] .bilingual-vi-block.is-revealed .pill-arrow {
+  transform: rotate(180deg);
+}
+
+[data-bilingual-order="ev"][data-en-visibility="tap-reveal"] .bilingual-vi-block.is-revealed .bilingual-toggle-pill {
+  background: var(--bg-hover);
+  border-color: var(--border-color);
+}
+
+/* ========================================================
+   Pure VI Mode (Chỉ đọc Tiếng Việt)
+   ======================================================== */
+[data-reader-mode="vi"] .bilingual-en-block {
+  display: none !important;
+}
+
+[data-reader-mode="vi"] .bilingual-vi-block {
+  order: 1 !important;
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 0 !important;
+}
+
+[data-reader-mode="vi"] .bilingual-vi-block .pill-vi {
+  display: none !important;
+}
+
+[data-reader-mode="vi"] .bilingual-vi-content {
+  color: var(--text-main) !important;
+  font-size: 1em !important;
+  display: block !important;
+  line-height: inherit !important;
+}
+
+/* Drop Cap Support for Bilingual Paragraphs */
+.reader-content.enable-dropcap[data-bilingual-order="ve"] .bilingual-vi-content.has-dropcap::first-letter,
+.reader-content.enable-dropcap[data-bilingual-order="ev"] .bilingual-en-content.has-dropcap::first-letter,
+.reader-content.enable-dropcap[data-reader-mode="vi"] .bilingual-vi-content.has-dropcap::first-letter {
+  font-family: var(--font-playfair), 'Merriweather', 'Lora', Georgia, serif;
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-top: 4px;
+  padding-right: 10px;
+  padding-bottom: 2px;
+  font-weight: 700;
+  color: #8f3d1b;
+}
+
+[data-theme="dark"] .reader-content.enable-dropcap[data-bilingual-order="ve"] .bilingual-vi-content.has-dropcap::first-letter,
+[data-theme="dark"] .reader-content.enable-dropcap[data-bilingual-order="ev"] .bilingual-en-content.has-dropcap::first-letter,
+[data-theme="dark"] .reader-content.enable-dropcap[data-reader-mode="vi"] .bilingual-vi-content.has-dropcap::first-letter {
+  color: #ffaa5b;
+}
+
+.reader-content.enable-dropcap .bilingual-vi-content.has-dropcap::after,
+.reader-content.enable-dropcap .bilingual-en-content.has-dropcap::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 @keyframes biFadeIn {
