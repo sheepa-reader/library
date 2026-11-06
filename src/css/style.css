@@ -2283,9 +2283,10 @@ button {
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   border-radius: 999px;
-  padding: 2px;
+  padding: 3px 5px 3px 3px;
   gap: 2px;
   flex-shrink: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
 .mode-tab-btn {
@@ -2316,17 +2317,35 @@ button {
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
 }
 
-/* Quick English Visibility Toggle Button */
-.bilingual-visibility-toggle {
+/* Quick English Visibility Toggle Button inside the mode cluster */
+.bilingual-visibility-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: none;
+  background: transparent;
   color: var(--text-secondary);
-  position: relative;
+  border-radius: 999px;
+  margin-left: 6px; /* Cách ra 1 chút xíu với nút Song Ngữ */
+  padding: 0;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
 }
 
-.bilingual-visibility-toggle:hover {
+.bilingual-visibility-btn:hover {
+  background: rgba(0, 0, 0, 0.07);
   color: var(--accent);
 }
 
-.bilingual-visibility-toggle.hidden {
+[data-theme="dark"] .bilingual-visibility-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--accent);
+}
+
+.bilingual-visibility-btn.hidden {
   display: none !important;
 }
 
