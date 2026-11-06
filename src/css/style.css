@@ -2283,9 +2283,10 @@ button {
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   border-radius: 999px;
-  padding: 3px 5px 3px 3px;
+  padding: 3px 6px 3px 3px;
   gap: 2px;
   flex-shrink: 0;
+  margin-right: 0.5rem; /* Khoảng cách đồng đều 0.5rem (8px) với các nút công cụ phía sau */
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
@@ -2557,6 +2558,7 @@ button {
     order: 3;
     width: 100%;
     justify-content: center;
+    margin-right: 0;
     margin-top: 0.25rem;
   }
 }
