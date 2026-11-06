@@ -2,7 +2,7 @@
 
 <p class="para-en">JACK SAT at the kitchen table with his laptop. He plucked at the keys with his index fingers. He leaned back in his chair. He had a white mug with the Rufus Mather logo. He picked up the mug, took a sip, read whatever he had just written. He nodded in approval.</p>
 
-<p class="para-vi-sub">JACK NGỒI BÊN BÀN ĂN trong bếp cùng chiếc máy tính xách tay. Anh gõ mổ cò từng ngón trỏ lên bàn phím. Rồi anh ngả người ra lưng ghế, cầm lấy chiếc cốc sứ trắng in logo của Hãng luật Rufus Mather. Anh nhấc cốc, nhấp một ngụm, đọc lại bất cứ thứ gì mình vừa gõ, rồi gật đầu tỏ vẻ hết sức hài lòng.</p>
+<p class="para-vi-sub">**JACK NGỒI BÊN BÀN ĂN** trong bếp cùng chiếc máy tính xách tay. Anh gõ mổ cò từng ngón trỏ lên bàn phím. Rồi anh ngả người ra lưng ghế, cầm lấy chiếc cốc sứ trắng in logo của Hãng luật Rufus Mather. Anh nhấc cốc, nhấp một ngụm, đọc lại bất cứ thứ gì mình vừa gõ, rồi gật đầu tỏ vẻ hết sức hài lòng.</p>
 
 <p class="para-en">It was nine thirty on Wednesday night. Time for work.</p>
 
@@ -14,7 +14,7 @@
 
 <p class="para-en">Miriam tried to stay casual, as she snuck a glance at his screen. But she couldn’t see clearly, and when she moved closer, whatever had been there was replaced by the Rufus Mather home page. Insight and Dedication: The Rufus Mather Way. Be a Part of the Rufus Mather Family. Abandon Your Own Family for the Rufus Mather Family. Our Loyalty to Billable Hours Gives You the Freedom to Work Yourself to Death.</p>
 
-<p class="para-vi-sub">Miriam cố tỏ ra tự nhiên hết mức có thể khi lén liếc nhìn màn hình của anh. Nhưng cô không thể nhìn rõ. Đến khi cô nhích lại gần hơn, bất cứ nội dung gì từng xuất hiện trên đó đã lập tức được thay thế bằng trang chủ của Hãng luật Rufus Mather. Sự thấu hiểu và Tận tụy: Phong cách Rufus Mather. Hãy trở thành một phần của Đại gia đình Rufus Mather. Hãy bỏ mặc Gia đình riêng của bạn vì Đại gia đình Rufus Mather. Lòng trung thành của chúng tôi đối với Số giờ làm việc tính phí mang lại cho bạn Sự tự do để Làm việc đến Kiệt sức mà chết.</p>
+<p class="para-vi-sub">Miriam cố tỏ ra tự nhiên hết mức có thể khi lén liếc nhìn màn hình của anh. Nhưng cô không thể nhìn rõ. Đến khi cô nhích lại gần hơn, bất cứ nội dung gì từng xuất hiện trên đó đã lập tức được thay thế bằng trang chủ của Hãng luật Rufus Mather. *Sự thấu hiểu và Tận tụy: Phong cách Rufus Mather. Hãy trở thành một phần của Đại gia đình Rufus Mather. Hãy bỏ mặc Gia đình riêng của bạn vì Đại gia đình Rufus Mather. Lòng trung thành của chúng tôi đối với Số giờ làm việc tính phí mang lại cho bạn Sự tự do để Làm việc đến Kiệt sức mà chết.*</p>
 
 <p class="para-en">Miriam pretended not to be spying. She opened the cabinet and pretended to look for something inside. Jack pretended not to be waiting for her to leave. But she could feel him waiting. He shifted impatiently. He wanted her gone.</p>
 
@@ -26,7 +26,7 @@
 
 <p class="para-en">She felt an overwhelming urge to annoy him. To expel him. To poke holes in his I-have-to-work story, which seemed implausible now, after what that partner had said. We all hope things are going well for him. But Miriam hadn’t confirmed. She should have asked: What do you mean? But instead she’d nodded and said I sure will and now she was here, playing spy.</p>
 
-<p class="para-vi-sub">Cô cảm thấy một khao khát mãnh liệt muốn chọc ngoáy anh. Muốn tống cổ anh ra khỏi nhà. Muốn bóc trần cái cớ “tôi phải làm việc” tráo trở của anh (thứ cớ trông vô lý đùng đùng sau những gì vị thành viên góp vốn kia đã nói). Tất cả chúng tôi đều hy vọng mọi chuyện vẫn tốt đẹp với anh ấy. Miriam đã không gặng hỏi lại. Đáng lẽ cô nên thắc mắc: Ý chị là sao? Nhưng thay vào đó, cô chỉ gật đầu bảo: Chắc chắn rồi ạ. Để rồi giờ đây, cô phải đứng đây đóng vai gián điệp.</p>
+<p class="para-vi-sub">Cô cảm thấy một khao khát mãnh liệt muốn chọc ngoáy anh. Muốn tống cổ anh ra khỏi nhà. Muốn bóc trần cái cớ “tôi phải làm việc” tráo trở của anh (thứ cớ trông vô lý đùng đùng sau những gì vị thành viên góp vốn kia đã nói). *Tất cả chúng tôi đều hy vọng mọi chuyện vẫn tốt đẹp với anh ấy.* Miriam đã không gặng hỏi lại. Đáng lẽ cô nên thắc mắc: *Ý chị là sao?* Nhưng thay vào đó, cô chỉ gật đầu bảo: *Chắc chắn rồi ạ*. Để rồi giờ đây, cô phải đứng đây đóng vai gián điệp.</p>
 
 <p class="para-en">She opened the cupboard door, then slammed it shut. She emptied the dishwasher. She banged dishes and silverware. She ran the garbage disposal. She coughed and sighed. She interrupted him.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-en">Rory had taken advantage of the situation. The day before, after she had sketched out the costume and gathered the newspaper and cut it in strips for papier-mâché and was busy multitasking dog-puke cleanup and packing lunches and burning dinner, Rory struck. He could, at such an opportune moment, extract a promise that undistracted Mom would never make. Such as a custom tooth costume, so that he, too, could come dressed as a tooth to the elementary school pageant.</p>
 
-<p class="para-vi-sub">Các phụ huynh không BẮT BUỘC phải tự làm trang phục đâu, cô giáo đã dặn dò như thế. Một câu nói mà dịch ra tiếng người có nghĩa là: Phải tự làm trang phục đấy, bằng không sẽ bị xã hội phán xét tới cùng. Rory đã tranh thủ thời cơ nước sôi lửa bỏng này. Hôm trước, ngay khi cô vừa phác thảo xong bộ trang phục, xé đống báo cũ thành từng dải nhỏ làm giấy bồi, lại còn bận túi bụi vừa dọn bãi nôn của chó, vừa làm hộp cơm trưa rồi lỡ tay làm cháy cả bữa tối, Rory mới ra tay. Trong một thời điểm “thuận lợi” đến thế, chú nhóc đã vòi vĩnh được một lời hứa mà một người mẹ tỉnh táo rảnh rỗi sẽ chẳng bao giờ gật đầu: một bộ trang phục chiếc răng thiết kế riêng, để cậu bé cũng có thể hóa trang thành một chiếc răng đi xem kịch ở trường tiểu học.</p>
+<p class="para-vi-sub">*Các phụ huynh không BẮT BUỘC phải tự làm trang phục đâu*, cô giáo đã dặn dò như thế. Một câu nói mà dịch ra tiếng người có nghĩa là: *Phải tự làm trang phục đấy, bằng không sẽ bị xã hội phán xét tới cùng.* Rory đã tranh thủ thời cơ nước sôi lửa bỏng này. Hôm trước, ngay khi cô vừa phác thảo xong bộ trang phục, xé đống báo cũ thành từng dải nhỏ làm giấy bồi, lại còn bận túi bụi vừa dọn bãi nôn của chó, vừa làm hộp cơm trưa rồi lỡ tay làm cháy cả bữa tối, Rory mới ra tay. Trong một thời điểm “thuận lợi” đến thế, chú nhóc đã vòi vĩnh được một lời hứa mà một người mẹ tỉnh táo rảnh rỗi sẽ chẳng bao giờ gật đầu: một bộ trang phục chiếc răng thiết kế riêng, để cậu bé cũng có thể hóa trang thành một chiếc răng đi xem kịch ở trường tiểu học.</p>
 
 <p class="para-en">“Can I wear the toof costume now?” Rory asked, when she picked him up from preschool.</p>
 
@@ -350,7 +350,7 @@
 
 <p class="para-en">“But I love that song!” Lindsey protested.</p>
 
-<p class="para-vi-sub">“Nhưng con thích bài đó mà!” Lindsey phản đối kịch liệt.</p>
+<p class="para-vi-sub">“Nhưng con *thích* bài đó mà!” Lindsey phản đối kịch liệt.</p>
 
 <p class="para-en">Jack doubled down. “No. Those lyrics are inappropriate.”</p>
 
@@ -358,7 +358,7 @@
 
 <p class="para-en">“But DAD!” Lindsey moaned. “Everyone knows that song. All the kids. It’s—”</p>
 
-<p class="para-vi-sub">“Nhưng BỐ ơi!” Lindsey rên rỉ. “Mọi người ai cũng thuộc bài đó mà. Tất cả đám trẻ đều thuộc. Nó…”</p>
+<p class="para-vi-sub">“Nhưng *BỐ* ơi!” Lindsey rên rỉ. “*Mọi người* ai cũng thuộc bài đó mà. Tất cả đám trẻ đều thuộc. Nó…”</p>
 
 <p class="para-en">“I don’t care who it is,” Jack said, “or what the other kids are doing. Come on, Miriam, back me up here.”</p>
 
@@ -390,15 +390,15 @@
 
 <p class="para-en">—the former Georgia Senator Roland Johnston has declined a plea deal and faces trial next month on charges of drug trafficking and money laundering.</p>
 
-<p class="para-vi-sub">… cựu Thượng nghị sĩ bang Georgia, Roland Johnston, đã từ chối thỏa thuận nhận tội và phải ra tòa vào tháng tới với các cáo buộc buôn bán ma túy và rửa tiền.</p>
+<p class="para-vi-sub">*… cựu Thượng nghị sĩ bang Georgia, Roland Johnston, đã từ chối thỏa thuận nhận tội và phải ra tòa vào tháng tới với các cáo buộc buôn bán ma túy và rửa tiền.*</p>
 
 <p class="para-en">Former Senator Johnston maintains that he is innocent of all charges, despite the overwhelming evidence against him. Johnston’s wife has been outspoken in his defense. In an interview given with CNN yesterday, she insisted that the man she married would never become involved in illicit activity of any kind.</p>
 
-<p class="para-vi-sub">Cựu Thượng nghị sĩ Johnston vẫn quả quyết mình vô tội trước mọi cáo buộc, bất chấp những bằng chứng đanh thép chống lại ông. Vợ của Johnston đã công khai lên tiếng bảo vệ chồng. Trong cuộc phỏng vấn với đài CNN ngày hôm qua, bà khẳng định người đàn ông mình kết hôn tuyệt đối không bao giờ dính dáng đến bất kỳ hoạt động bất hợp pháp nào.</p>
+<p class="para-vi-sub">*Cựu Thượng nghị sĩ Johnston vẫn quả quyết mình vô tội trước mọi cáo buộc, bất chấp những bằng chứng đanh thép chống lại ông.* *Vợ của Johnston đã công khai lên tiếng bảo vệ chồng. Trong cuộc phỏng vấn với đài CNN ngày hôm qua, bà khẳng định người đàn ông mình kết hôn tuyệt đối không bao giờ dính dáng đến bất kỳ hoạt động bất hợp pháp nào.*</p>
 
 <p class="para-en">In other news, law enforcement is still unable to confirm the identity of the Snail’s Lake Shooter, captured over a month ago. The shooter has no ID, no fingerprints on record, no credit cards or any other records of any kind. The name he initially gave to police belonged to a child who died in a Snail’s Lake boating accident twenty years ago. The shooter is charged with—</p>
 
-<p class="para-vi-sub">Ở một diễn biến khác, cơ quan chức năng vẫn chưa thể xác nhận danh tính của Kẻ Xả Súng ở Hồ Snail, người đã bị bắt giữ hơn một tháng trước. Nghi phạm không mang theo giấy tờ tùy thân, không có dữ liệu vân tay lưu trữ, không dùng thẻ tín dụng hay sở hữu bất kỳ hồ sơ lý lịch nào. Cái tên ban đầu gã khai với cảnh sát hóa ra thuộc về một đứa trẻ đã qua đời trong vụ lật thuyền ở Hồ Snail từ hai mươi năm trước. Tên xả súng hiện bị cáo buộc tội…</p>
+<p class="para-vi-sub">*Ở một diễn biến khác, cơ quan chức năng vẫn chưa thể xác nhận danh tính của Kẻ Xả Súng ở Hồ Snail, người đã bị bắt giữ hơn một tháng trước. Nghi phạm không mang theo giấy tờ tùy thân, không có dữ liệu vân tay lưu trữ, không dùng thẻ tín dụng hay sở hữu bất kỳ hồ sơ lý lịch nào. Cái tên ban đầu gã khai với cảnh sát hóa ra thuộc về một đứa trẻ đã qua đời trong vụ lật thuyền ở Hồ Snail từ hai mươi năm trước. Tên xả súng hiện bị cáo buộc tội…*</p>
 
 <p class="para-en">Miriam flipped the radio off.</p>
 
@@ -422,5 +422,5 @@
 
 <p class="para-en">They drove on in silence. Miriam stared out the window. They drove past tidy houses with green lawns and early clusters of daffodils. Houses where spouses cooked dinner together, or argued, or ignored each other, or set the children in front of the television and snuck up to the bedroom for an evening romp. Houses where kids drew dinosaur pictures, or ﻿spilt milk on the floor, or officiated the wedding ceremony of their two favorite stuffed animals, or hid in the closet while their dad got angry-drunk. They drove past cars full of families on their way out to dinner, or to the grocery store, or to drop children off at overnight day care en route to work. They all continued along a trajectory that was seemingly determined, but at any moment might unravel. Determined as a dolphin. Unsettled as an urchin. They were all flopping around in the strange soup of life, feigning autonomy, until the currents shifted. Like that TV episode Miriam recalled from her childhood, about a boat called the SS Deliverance that left port on a windless blue-sky day, but then a sudden wind steered it off course, and it crashed on an island in the South Pacific, and the turtle-navigator who had meant to journey on to India decided to leave the show and stay there, on the island, for the rest of his sunbaked days.</p>
 
-<p class="para-vi-sub">Chiếc xe lại tiếp tục lăn bánh trong im lặng. Miriam đăm đăm nhìn qua cửa kính. Họ lướt qua những ngôi nhà ngăn nắp với thảm cỏ xanh mướt và những bụi thủy tiên vàng vừa chớm nở. Những ngôi nhà nơi các cặp vợ chồng cùng nhau nấu bữa tối, cãi vã, ngó lơ nhau, hoặc tống đám trẻ ngồi trước màn hình tivi rồi lén lút chuồn lên phòng ngủ cho một cuộc mây mưa chớp nhoáng. Những ngôi nhà nơi lũ trẻ mải mê vẽ tranh khủng long, làm đổ sữa ra sàn, làm chủ trì cho lễ kết hôn của hai con thú bông yêu thích, hoặc chui rúc trốn trong tủ quần áo trong khi ông bố say khướt đang nổi giận đùng đùng. Họ vượt qua những chiếc xe chở đầy các gia đình đang trên đường ra ngoài ăn tối, ghé cửa hàng tạp hóa, hoặc thả con ở nhà trẻ qua đêm để kịp ca làm việc. Tất cả bọn họ vẫn mải miết tiến bước theo một quỹ đạo tưởng chừng đã định sẵn, nhưng thực chất có thể vỡ vụn bất cứ lúc nào. Định sẵn như hành trình của một con cá heo. Nhưng bất ổn tựa sự hiện diện của một con nhím biển. Tất cả đều đang vùng vẫy trong món súp cuộc đời kỳ quặc, cố vờ như mình có toàn quyền tự chủ, cho đến khi các dòng hải lưu bất ngờ chuyển hướng. Hệt như tập phim truyền hình mà Miriam chợt nhớ lại từ thời thơ ấu kể về con tàu SS Deliverance. Tàu nhổ neo rời cảng vào một ngày trời xanh không chút gió, nhưng rồi một cơn giông đột ngột đã bẻ ngoặt hướng đi, tống nó đâm sầm vào một hòn đảo ở Nam Thái Bình Dương. Để rồi chú rùa hoa tiêu (vốn dĩ định giương buồm đến Ấn Độ) lại quyết định từ bỏ chương trình, ở lại hòn đảo ấy trong suốt những ngày tháng còn lại ngập tràn nắng cháy của đời mình.</p>
+<p class="para-vi-sub">Chiếc xe lại tiếp tục lăn bánh trong im lặng. Miriam đăm đăm nhìn qua cửa kính. Họ lướt qua những ngôi nhà ngăn nắp với thảm cỏ xanh mướt và những bụi thủy tiên vàng vừa chớm nở. Những ngôi nhà nơi các cặp vợ chồng cùng nhau nấu bữa tối, cãi vã, ngó lơ nhau, hoặc tống đám trẻ ngồi trước màn hình tivi rồi lén lút chuồn lên phòng ngủ cho một cuộc mây mưa chớp nhoáng. Những ngôi nhà nơi lũ trẻ mải mê vẽ tranh khủng long, làm đổ sữa ra sàn, làm chủ trì cho lễ kết hôn của hai con thú bông yêu thích, hoặc chui rúc trốn trong tủ quần áo trong khi ông bố say khướt đang nổi giận đùng đùng. Họ vượt qua những chiếc xe chở đầy các gia đình đang trên đường ra ngoài ăn tối, ghé cửa hàng tạp hóa, hoặc thả con ở nhà trẻ qua đêm để kịp ca làm việc. Tất cả bọn họ vẫn mải miết tiến bước theo một quỹ đạo tưởng chừng đã định sẵn, nhưng thực chất có thể vỡ vụn bất cứ lúc nào. Định sẵn như hành trình của một con cá heo. Nhưng bất ổn tựa sự hiện diện của một con nhím biển. Tất cả đều đang vùng vẫy trong món súp cuộc đời kỳ quặc, cố vờ như mình có toàn quyền tự chủ, cho đến khi các dòng hải lưu bất ngờ chuyển hướng. Hệt như tập phim truyền hình mà Miriam chợt nhớ lại từ thời thơ ấu kể về con tàu SS *Deliverance*. Tàu nhổ neo rời cảng vào một ngày trời xanh không chút gió, nhưng rồi một cơn giông đột ngột đã bẻ ngoặt hướng đi, tống nó đâm sầm vào một hòn đảo ở Nam Thái Bình Dương. Để rồi chú rùa hoa tiêu (vốn dĩ định giương buồm đến Ấn Độ) lại quyết định từ bỏ chương trình, ở lại hòn đảo ấy trong suốt những ngày tháng còn lại ngập tràn nắng cháy của đời mình.</p>
 

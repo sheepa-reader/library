@@ -1,8 +1,8 @@
-# NGOẠI TRUYỆN - PHÓ CHỦ TỊCH
+# NGOẠI TRUYỆN
 
 <p class="para-en">IMAGINE YOU are not the VP of marketing for the multinational technology corporation Machsai Inc., headquartered in Tokyo, Japan.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN không phải là Phó Chủ tịch Marketing của tập đoàn công nghệ đa quốc gia Machsai Inc. có trụ sở chính tại Tokyo, Nhật Bản.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** *không phải* là Phó Chủ tịch Marketing của tập đoàn công nghệ đa quốc gia Machsai Inc. có trụ sở chính tại Tokyo, Nhật Bản.</p>
 
 <p class="para-en">Imagine you are nobody.</p>
 

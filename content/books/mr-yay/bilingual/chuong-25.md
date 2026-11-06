@@ -1,8 +1,12 @@
-# THÁNG HAI - THANH VÁN TRƯỢT SHOT-SKI
+# THÁNG HAI
 
-<p class="para-en">MR. YAY WANTED FUN. “Would you rather sweat beer,” he asked Bratty, “or fart weed smoke?”</p>
+<p class="para-en">MR. YAY WANTED FUN.</p>
 
-<p class="para-vi-sub">MR. YAY MUỐN TÌM CHÚT VUI VẺ.“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”</p>
+<p class="para-vi-sub">**MR. YAY MUỐN TÌM CHÚT VUI VẺ.**</p>
+
+<p class="para-en">“Would you rather sweat beer,” he asked Bratty, “or fart weed smoke?”</p>
+
+<p class="para-vi-sub">“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”</p>
 
 <p class="para-en">“Would I always fart smoke? Or could I control it?”</p>
 
@@ -46,7 +50,7 @@
 
 <p class="para-en">Tommy didn’t watch the music video, because Bratty didn’t tell him that he’d made it, because Bratty didn’t know what would happen to all those darts. He didn’t want to think about it. He didn’t want to imagine the broke future where they boarded a bus back to Ohio to live with Tommy’s parents and Tommy’s dad saw Bratty’s dad at the country club and Tommy’s dad said It’s too bad the music thing didn’t work out but what Bratty’s dad heard was Your kid is a fuckup. He didn’t want it to be true, just as much as he didn’t want to go to business school. He didn’t want to leave his dog behind because the bus said NO DOGS. He already loathed the bus for their anti-dog position.</p>
 
-<p class="para-vi-sub">Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ. Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, “Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,” nhưng những gì bố Bratty nghe được lại là, “Con trai ông đúng là một kẻ thất bại vô dụng.” Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.</p>
+<p class="para-vi-sub">Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ. Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, *“Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,”* nhưng những gì bố Bratty nghe được lại là, *“Con trai ông đúng là một kẻ thất bại vô dụng.”* Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.</p>
 
 <p class="para-en">So he didn’t tell Tommy, and he didn’t check to see if anyone had watched his silly video or listened to the songs. Instead, he got really high and went on runs with his dog and scavenged things that people had left with their trash. The dog scavenged chicken bones and street pizza. Bratty scavenged a dartboard, but there were no darts. Then he found a single ski, to which he and Tommy glued four shot glasses, to make a shot-ski.</p>
 
@@ -114,7 +118,7 @@
 
 <p class="para-en">Bratty assumed Tommy would be like, No fuck that, how am I supposed to wear a sandwich board with a tooth like this? But for some inexplicable reason, Tommy wanted to wear the sandwich board.</p>
 
-<p class="para-vi-sub">Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư? Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.</p>
+<p class="para-vi-sub">Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: *Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư?* Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.</p>
 
 <p class="para-en">He liked it. “It’s jaunty,” he said. “It’s like a sail, and my body is the ship.”</p>
 

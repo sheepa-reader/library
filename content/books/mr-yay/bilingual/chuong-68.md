@@ -2,7 +2,7 @@
 
 <p class="para-en">A WEEK AFTER they’d returned home, Jack left mysteriously with the dog. A few hours later, he and the dog returned. He wouldn’t say where they’d gone.</p>
 
-<p class="para-vi-sub">MỘT TUẦN SAU KHI trở về nhà, Jack bí mật ôm chú chó rời đi. Vài giờ sau, anh cùng chú chó lững thững quay về. Anh nhất quyết không chịu hé răng nửa lời về nơi họ vừa tới.</p>
+<p class="para-vi-sub">**MỘT TUẦN SAU KHI** trở về nhà, Jack bí mật ôm chú chó rời đi. Vài giờ sau, anh cùng chú chó lững thững quay về. Anh nhất quyết không chịu hé răng nửa lời về nơi họ vừa tới.</p>
 
 <p class="para-en">“I don’t think keeping secrets is good for our marriage.”</p>
 
@@ -62,7 +62,7 @@
 
 <p class="para-en">“The detective. Yes.” The man looked thirty to forty-ish, though it was hard to gauge with his bushy beard. He was tall and lean, except for a small potbelly. He wore jeans and a sports coat over a T-shirt depicting a bubbling beaker, with the words SCIENCE, BITCHES! printed beneath. He had a dog on a leash, a corgi. “I’m SherLok Ohms. I’m here about Mr. Yay.”</p>
 
-<p class="para-vi-sub">“Chính là vị thám tử đó. Đúng vậy.” Người đàn ông trông tầm ba mươi đến bốn mươi tuổi, dẫu rằng thật khó đoán chính xác tuổi tác đằng sau bộ râu xồm xoàm rậm rạp. Anh ta cao ráo, gầy gò, ngoại trừ cái bụng bia hơi nhô ra một chút. Anh ta mặc quần bò cùng áo khoác thể thao khoác ngoài chiếc áo phông in hình một ống nghiệm đang sủi bọt, kèm dòng chữ in đậm bên dưới: SCIENCE, BITCHES! Anh ta dắt theo một chú chó bằng dây xích, một chú chó corgi. “Tôi là SherLok Ohms. Tôi tới vì chuyện liên quan đến Mr. Yay.”</p>
+<p class="para-vi-sub">“Chính là vị thám tử đó. Đúng vậy.” Người đàn ông trông tầm ba mươi đến bốn mươi tuổi, dẫu rằng thật khó đoán chính xác tuổi tác đằng sau bộ râu xồm xoàm rậm rạp. Anh ta cao ráo, gầy gò, ngoại trừ cái bụng bia hơi nhô ra một chút. Anh ta mặc quần bò cùng áo khoác thể thao khoác ngoài chiếc áo phông in hình một ống nghiệm đang sủi bọt, kèm dòng chữ in đậm bên dưới: **SCIENCE, BITCHES!** Anh ta dắt theo một chú chó bằng dây xích, một chú chó corgi. “Tôi là SherLok Ohms. Tôi tới vì chuyện liên quan đến Mr. Yay.”</p>
 
 <p class="para-en">“Oh. Jack’s around back,” she said. “Follow me.”</p>
 
@@ -198,7 +198,7 @@
 
 <p class="para-en">“But how do you get to the multiverse?” Lindsey asked, as she scratched Samwise Corgi’s head. “Because she said I was supposed to go. But I don’t know how to go.”</p>
 
-<p class="para-vi-sub">“Nhưng làm sao mình đi đến đa vũ trụ được ạ?” Lindsey cất tiếng hỏi, tay không ngừng gãi đầu chú chó corgi Samwise. “Vì cô ấy bảo con phải đi. Nhưng con có biết đi bằng đường nào đâu.”</p>
+<p class="para-vi-sub">“Nhưng làm sao mình *đi đến* đa vũ trụ được ạ?” Lindsey cất tiếng hỏi, tay không ngừng gãi đầu chú chó corgi Samwise. “Vì *cô ấy bảo* con phải đi. Nhưng con có biết đi bằng đường nào đâu.”</p>
 
 <p class="para-en">“Who said?” Miriam asked.</p>
 
@@ -226,7 +226,7 @@
 
 <p class="para-en">“Well, yes, that’s true. It’s got lots of everything. The place we live, we call the universe, and it’s the only one. But the multiverse, or the meta-universe, is made up of lots of universes. Lots of Lindseys. Lots of Samwise Corgis.”</p>
 
-<p class="para-vi-sub">“À, ừ, đúng là thế thật. Ở đó cái gì cũng có nhiều cả. Nơi chúng ta đang sống đây, ta gọi là vũ trụ, và nó là độc nhất vô nhị. Nhưng đa vũ trụ - hay siêu vũ trụ - lại được ghép lại từ vô số các vũ trụ khác nhau. Sẽ có rất nhiều Lindsey. Rất nhiều chú chó corgi Samwise.”</p>
+<p class="para-vi-sub">“À, ừ, đúng là thế thật. Ở đó cái gì cũng có nhiều cả. Nơi chúng ta đang sống đây, ta gọi là *vũ trụ*, và nó là độc nhất vô nhị. Nhưng đa vũ trụ - hay siêu vũ trụ - lại được ghép lại từ vô số các vũ trụ khác nhau. Sẽ có rất nhiều Lindsey. Rất nhiều chú chó corgi Samwise.”</p>
 
 <p class="para-en">“Lots of Roxsters?” Lindsey asked. “Our dog,” said Jack.</p>
 
@@ -246,7 +246,7 @@
 
 <p class="para-en">“Imagine that there are two universes that are very similar,” Kai continued, stroking Samwise Corgi alongside the children. “Almost the same, in every way. Except in one of them, there’s a children’s television show about a silly dude named Mr. Yay who travels the world on a boat captained by a dog, and in the other universe, there is no such show. Imagine those two universes are like branches on a tree, growing alongside each other. Or—maybe it’s easier to picture them as bubbles. They’re separate. They should stay separate. But somehow, they collide. And for a while they become one bubble. What happens then?”</p>
 
-<p class="para-vi-sub">Thử tưởng tượng có hai vũ trụ cực kỳ giống nhau,” Kai tiếp tục, tay vỗ về chú chó corgi Samwise cùng đám trẻ. “Chúng gần như y hệt về mọi phương diện. Ngoại trừ việc ở một vũ trụ, người ta phát sóng một chương trình truyền hình thiếu nhi kể về người đàn ông thú vị nào đó tên Mr. Yay chu du khắp thế giới trên con tàu do một chú chó làm thuyền trưởng; còn ở vũ trụ kia thì tuyệt nhiên chẳng ai biết Mr. Yay là ai. Hãy coi hai vũ trụ đó như hai cành cây cùng vươn dài song song trên một thân cây. Hoặc dễ hình dung hơn, cứ xem chúng là hai bong bóng xà phòng. Chúng vốn dĩ tách biệt hoàn toàn. Chúng đáng lẽ phải luôn tách biệt. Nhưng bằng một cách quái chiêu nào đó, hai bong bóng lại va sầm vào nhau. Trong một khoảnh khắc chớp mắt, chúng hòa làm một bong bóng duy nhất. Vậy cháu nghĩ xem, chuyện gì sẽ xảy ra tiếp theo?”</p>
+<p class="para-vi-sub">Thử tưởng tượng có hai vũ trụ cực kỳ giống nhau,” Kai tiếp tục, tay vỗ về chú chó corgi Samwise cùng đám trẻ. “Chúng gần như y hệt về mọi phương diện. Ngoại trừ việc ở một vũ trụ, người ta phát sóng một chương trình truyền hình thiếu nhi kể về người đàn ông thú vị nào đó tên Mr. Yay chu du khắp thế giới trên con tàu do một chú chó làm thuyền trưởng; còn ở vũ trụ kia thì tuyệt nhiên chẳng ai biết Mr. Yay là ai. Hãy coi hai vũ trụ đó như hai cành cây cùng vươn dài song song trên một thân cây. Hoặc dễ hình dung hơn, cứ xem chúng là hai bong bóng xà phòng. Chúng vốn dĩ tách biệt hoàn toàn. Chúng *đáng lẽ* phải luôn tách biệt. Nhưng bằng một cách quái chiêu nào đó, hai bong bóng lại va sầm vào nhau. Trong một khoảnh khắc chớp mắt, chúng hòa làm một bong bóng duy nhất. Vậy cháu nghĩ xem, chuyện gì sẽ xảy ra tiếp theo?”</p>
 
 <p class="para-en">“They pop?” Rory asked.</p>
 
@@ -258,7 +258,7 @@
 
 <p class="para-en">“Wait, so what happened, then?” Miriam asked. “Are you saying that a universe with The Adventures of Mr. Yay collided with a universe where the TV show didn’t exist, and the two universes got all mixed up?”</p>
 
-<p class="para-vi-sub">“Khoan đã, vậy rốt cuộc chuyện gì đã xảy ra?” Miriam hỏi. “Ý ông là, một vũ trụ có chương trình The Adventures of Mr. Yay đã va chạm với một vũ trụ mà nó chưa từng tồn tại, rồi cả hai vũ trụ xáo trộn nhào nặn vào nhau?”</p>
+<p class="para-vi-sub">“Khoan đã, vậy rốt cuộc chuyện gì đã xảy ra?” Miriam hỏi. “Ý ông là, một vũ trụ có chương trình *The Adventures of Mr. Yay* đã va chạm với một vũ trụ mà nó chưa từng tồn tại, rồi cả hai vũ trụ xáo trộn nhào nặn vào nhau?”</p>
 
 <p class="para-en">“Basically yes.”</p>
 

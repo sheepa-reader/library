@@ -1,8 +1,8 @@
 # NGƯỜI ĐÀN BÀ KHÁC
 
-SÁNG HÔM SAU, Miriam thức dậy từ sớm trên chiếc giường trống trải. Jack lại để lại một mẩu giấy nhắn:
+**SÁNG HÔM SAU,** Miriam thức dậy từ sớm trên chiếc giường trống trải. Jack lại để lại một mẩu giấy nhắn:
 
-Lại phải đi làm sớm rồi. Tối nay anh về ăn cơm nhé. Yêu em, Jack.
+*Lại phải đi làm sớm rồi. Tối nay anh về ăn cơm nhé. Yêu em, Jack.*
 
 Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi thủ tục quen thuộc: đánh thức lũ trẻ, thay quần áo, cho chúng ăn sáng rồi đưa đến trường. Cô hoàn thành một ca trị liệu trực tuyến qua video với thân chủ. Ca hẹn thứ hai sau đó bị hủy, thế là cô tranh thủ đi cà phê sáng với Holly và Kate.
 
@@ -12,7 +12,7 @@ Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi 
 
 “Cảm ơn nhé,” Kate thản nhiên đáp. “Tớ đang quay về với lối sống thuận tự nhiên. Không nhuộm tóc nữa. Tớ cũng cạch mặt tất cả các loại hóa mỹ phẩm rồi.” Mái tóc nhuộm vàng của cô ánh lên một lớp dầu bết dính. Ở chân tóc, những sợi tóc nguyên bản màu nâu xen lẫn vài sợi hoa râm đang thi nhau trồi lên.
 
-“Ý cậu là sao cơ, toàn bộ mỹ phẩm ấy hả? Thế còn dầu gội thì sao?”
+“Ý cậu là sao cơ, *toàn bộ* mỹ phẩm ấy hả? Thế còn dầu gội thì sao?”
 
 “Dầu gội sẽ tẩy sạch lớp vi khuẩn có lợi tự nhiên,” Kate giải thích rành rẽ. “Cậu có thấy con chó con mèo nào dùng dầu gội bao giờ không?”
 
@@ -34,7 +34,7 @@ Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi 
 
 “Thì tớ vốn lén lút và hay ghen thật mà.”
 
-“Nhưng Jack đâu nhất thiết phải biết là cậu lén lút và ghen tuông đến mức ấy. Tớ vẫn giữ quan điểm là cậu phải nắm chắc bằng chứng trong tay trước khi mở lời.”
+“Nhưng Jack đâu nhất thiết phải *biết* là cậu lén lút và ghen tuông đến mức ấy. Tớ vẫn giữ quan điểm là cậu phải nắm chắc bằng chứng trong tay trước khi mở lời.”
 
 “Khổ nỗi nếu anh ấy trong sạch thì đào đâu ra bằng chứng ngoại tình mà tìm,” Miriam phân bua. “Và tớ sẽ chẳng bao giờ biết chắc được chuyện gì nếu không ba mặt một lời hỏi cho ra nhẽ.”
 
@@ -54,7 +54,7 @@ Holly thoăn thoắt mở trang web của công ty luật trên điện thoại.
 
 “Chốt hạ thế nhé,” Holly tuyên bố dứt khoát. “Chúng ta phải làm một chuyến do thám thực địa thôi.”
 
-“Ủa, chính xác thì ý cậu trinh sát là làm cái gì cơ?” Miriam ngơ ngác.
+“Ủa, chính xác thì ý cậu *trinh sát* là làm cái gì cơ?” Miriam ngơ ngác.
 
 “Chúng mình sẽ mò tới tận văn phòng của Jack để tăm tia mặt mũi cô ta.”
 
@@ -72,7 +72,7 @@ Holly thoăn thoắt mở trang web của công ty luật trên điện thoại.
 
 “Thì chúng ta cải trang.”
 
-Miriam đội một chiếc mũ lưỡi trai có gắn sẵn lọn tóc giả đuôi ngựa màu vàng hoe, quẹt son đỏ chót và đeo thêm một cặp kính không độ. Cô ngồi đợi một mình trong xe của Holly, ngay cạnh cột thu phí đỗ xe bên ngoài tòa nhà văn phòng của Jack, thấp thỏm ngóng hai cô bạn đang làm nhiệm vụ do thám bên trong. Bất giác, cô nhớ lại những lời người phụ nữ Thuyết Âm Mưu từng cảnh báo: Mọi thứ đang biến mất. Mọi thứ cứ thế biến mất không dấu vết!
+Miriam đội một chiếc mũ lưỡi trai có gắn sẵn lọn tóc giả đuôi ngựa màu vàng hoe, quẹt son đỏ chót và đeo thêm một cặp kính không độ. Cô ngồi đợi một mình trong xe của Holly, ngay cạnh cột thu phí đỗ xe bên ngoài tòa nhà văn phòng của Jack, thấp thỏm ngóng hai cô bạn đang làm nhiệm vụ do thám bên trong. Bất giác, cô nhớ lại những lời người phụ nữ Thuyết Âm Mưu từng cảnh báo: Mọi thứ đang biến mất. Mọi thứ cứ thế *biến mất không dấu vết!*
 
 Một tiếng lách tách khe khẽ đột ngột râm ran trong không khí, phảng phất mùi khét lẹt mơ hồ, quyện cùng một luồng hương vị xa xôi thoang thoảng tựa gió biển.
 
@@ -112,7 +112,7 @@ Chị đứng dậy, sải bước tiến về phía bàn của Miriam.
 
 Miriam ngồi thẳng tắp trên ghế. Kate kín đáo siết nhẹ tay cô. Còn Holly thì nốc một ngụm cocktail rõ to.
 
-Jessica.
+*Jessica.*
 
 Ánh mắt chị hằn rõ nét mỏi mệt và đượm buồn. Đôi môi mím chặt. Đôi bàn tay khẽ run rẩy.
 
@@ -123,4 +123,3 @@ Jessica.
 “Dạ, các cháu đều khỏe cả ạ.”
 
 “Được thế thì tốt quá… Chị thì chưa từng có một mái ấm cho riêng mình. Có lẽ vì cả đời cứ mải miết lao vào công việc… Dù sao đi nữa, cho chị gửi lời chào tới Jack nhé. Và nhắn với cậu ấy rằng mọi người ở đây đều mong mọi điều tốt đẹp nhất sẽ đến với cậu ấy.”
-

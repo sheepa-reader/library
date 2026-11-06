@@ -1,6 +1,6 @@
 # NGƯỜI NHỆN
 
-NẾU MỘT ĐỨA TRẺ ĐỦ RANH MA chồng một chiếc ghế xếp ngoài trời lên hai chiếc ghế khác, nó hoàn toàn có thể trèo lên nóc garage.
+**NẾU MỘT ĐỨA TRẺ ĐỦ RANH MA** chồng một chiếc ghế xếp ngoài trời lên hai chiếc ghế khác, nó hoàn toàn có thể trèo lên nóc garage.
 
 Tất nhiên, đó là khi các bậc phụ huynh trong nhà còn bận chuốc nhau say mèm.
 
@@ -72,7 +72,7 @@ Kate nhấm nháp một góc chiếc bánh xốp mềm. “Các cậu có thể 
 
 Holly nheo mắt nhìn chằm chằm vào cô bạn từng mang dáng vẻ điển hình của một cô gái trong hội nữ sinh đại học, nhưng giờ đây lại đang cài một vòng hoa trên mái tóc bết dính lâu ngày chưa gội. Cô bạn ấy bắt đầu thao thao bất tuyệt một tràng độc thoại lên án ngành công nghiệp thực phẩm chế biến sẵn.
 
-Cậu ta điên thật rồi, Holly mấp máy môi với Miriam, rất vừa vặn đúng lúc không ai khác chú ý.
+*Cậu ta điên thật rồi*, Holly mấp máy môi với Miriam, rất vừa vặn đúng lúc không ai khác chú ý.
 
 Miriam thầm thắc mắc không biết cô bạn mình đã biến thành dân hippie sống xanh tự bao giờ và bằng cách nào. Ngay trên cửa tủ lạnh nhà Holly và Tom vẫn còn dán tấm ảnh chụp cả sáu người bọn họ từ mùa hè năm ngoái. Khi ấy, họ từng tham gia chuyến dã ngoại tập thể đến Hocking Hills, tận hưởng kỳ nghỉ cuối tuần dài để uống rượu vang, đi bộ đường dài và hồn nhiên thưởng thức những món ăn bình thường lấy ra từ đồ hộp, túi ni lông hay hộp giấy. Dạo đó, Kate vẫn dùng bột kem sữa có hương vị pha vào cà phê và bôi gel tạo kiểu lên mái tóc được gội sấy mỗi ngày. Trong ảnh, cô chải tóc phồng tướng, nhuộm vàng óng, mắt chuốt mascara và móng tay sơn màu bóng bẩy. Cô đứng cạnh Fred, người khi ấy còn mặc áo sơ mi kẻ sọc và đi đôi giày xỏ đi biển y hệt Tom. Trông ai nấy đều hoàn toàn bình thường và hạnh phúc, ngoại trừ Miriam và Jack: những kẻ bị gượng ép phải tạm gác mớ công việc cuối tuần lại trong giây lát chỉ để tạo dáng chụp ảnh.
 
@@ -88,15 +88,15 @@ Thứ mà Tom vừa đem về nhà, nếu xét theo lý thuyết xác suất th�
 
 Điện thoại của Holly reo lên. Cô nhìn xuống màn hình.
 
-Reng… reng… reng…
+*Reng… reng… reng…*
 
 Màn hình hiện tên:
 
-Tom.
+*Tom*.
 
 “Cậu không nghe máy à?”
 
-Reng… reng…
+*Reng… reng…*
 
 “A-lô?”
 
@@ -116,7 +116,7 @@ Anh nở nụ cười rạng rỡ đến tận mang tai. “Tuyệt đỉnh đú
 
 “Xe mô tô mà…”
 
-“À hay nhỉ! Tôi thừa biết nó là cái gì rồi, Tom ạ. Nhưng tại sao nó lại ở đây? Ôi lạy Chúa, đừng nói với tôi là anh mới mua nó đấy nhé!”
+“À hay nhỉ! Tôi thừa biết nó *là cái gì* rồi, Tom ạ. Nhưng tại sao nó lại *ở đây*? Ôi lạy Chúa, đừng nói với tôi là anh mới mua nó đấy nhé!”
 
 “Anh mua thật đấy!” Anh hớn hở đáp, bằng một năng lực siêu nhiên nào đó vẫn hoàn toàn mù tịt trước cơn thịnh nộ đang bốc hỏa ngùn ngụt của vợ.
 
@@ -128,7 +128,7 @@ Anh nở nụ cười rạng rỡ đến tận mang tai. “Tuyệt đỉnh đú
 
 Tom âu yếm vuốt ve bình xăng chiếc mô tô.
 
-Biết rồi, em đây quyến rũ chết người mà, cỗ máy như rù rì đáp lời.
+*Biết rồi, em đây quyến rũ chết người mà*, cỗ máy như rù rì đáp lời.
 
 “Em có muốn chạy thử một vòng không?” Anh hỏi.
 
@@ -136,7 +136,7 @@ Biết rồi, em đây quyến rũ chết người mà, cỗ máy như rù rì �
 
 “Anh nghĩ hai đứa mình có thể cùng nhau vi vu, rồi…”
 
-“Anh bị điên rồi sao, Tom? Thật đấy à?” Holly thét lên lanh lảnh. “Anh thật sự nghĩ mình cứ thế xách mông ra ngoài tậu một chiếc mô tô về là xong đấy ư? Anh có biết cái thứ quỷ này nguy hiểm đến mức nào không hả? Rốt cuộc trong đầu anh đang chứa cái giống gì thế?”
+“Anh bị *điên* rồi sao, Tom? *Thật đấy à?*” Holly thét lên lanh lảnh. “Anh thật sự nghĩ mình cứ thế xách mông ra ngoài tậu một chiếc mô tô về là xong đấy ư? Anh có biết cái thứ quỷ này nguy hiểm đến mức nào không hả? Rốt cuộc trong đầu anh đang chứa cái giống gì thế?”
 
 “Anh chỉ…”
 
@@ -179,4 +179,3 @@ Tom lảo đảo tiến lại gần vợ. Một tay anh bóp chặt chiếc mũi
 “Thằng bé… Thằng bé không sao đâu!” Jack hét lên. “Tôi nghĩ nó chỉ bị gãy tay thôi.”
 
 Theo đúng lẽ thường, Holly phải lao ngay tới chỗ con trai. Lẽ ra cô phải cảm thấy thở phào nhẹ nhõm mới phải. Thế nhưng cô vẫn đứng chôn chân tại chỗ, chết lặng trong nỗi kinh hoàng khôn xiết, để rồi từ cổ họng bật ra một tiếng thét nguyên thủy, xé tan không gian.
-

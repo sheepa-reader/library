@@ -1,8 +1,8 @@
-# KHÚC ĐỆM - MỘT CHÚ CHÓ CỰC KỲ NGOAN
+# KHÚC ĐỆM
 
 <p class="para-en">IMAGINE YOU are a dog.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN là một chú chó.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một chú chó.</p>
 
 <p class="para-en">Imagine you are a golden retriever. A Very Good Dog. Except no one has ever told you. You drift around, from the street to the shelter, from pack to pack, like flotsam. You land in a house with humans who are not Bad Humans. They are indifferent. They are Very Busy Humans who do not have time to cuddle a dog or walk a dog or play with a dog, or cuddle or walk or play, and you are underfoot, and alone. You are alone and sad because you feel that something is missing. You can’t say what. But you feel it.</p>
 
@@ -46,7 +46,7 @@
 
 <p class="para-en">They address you as Captain.</p>
 
-<p class="para-vi-sub">Họ gọi bạn là Thuyền trưởng.</p>
+<p class="para-vi-sub">Họ gọi bạn là *Thuyền trưởng*.</p>
 
 <p class="para-en">You must act as befits this title, and so you are on your best behavior when you meet the others. There are so many others. There is a pit bull type. There is an old dog with three legs. Some are friendly visitors, but others belong to the pack. You will belong to the pack.</p>
 

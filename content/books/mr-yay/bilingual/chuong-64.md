@@ -2,7 +2,7 @@
 
 <p class="para-en">IMAGINE YOU are a bartender.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN là một nhân viên pha chế.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một nhân viên pha chế.</p>
 
 <p class="para-en">You work at a beach bar on the tiny island of Koh Lanta in the Andaman Sea. It is quiet, peaceful, perfect, everything you could possibly want in your life.</p>
 
@@ -86,11 +86,11 @@
 
 <p class="para-en">He finishes his drink. Drink number X. Sometimes, the only way to face a feeling is to drown it first. He orders another. He invites you to sit down.</p>
 
-<p class="para-vi-sub">Ông uống cạn ly của mình. Ly thứ X nào đó. Đôi khi, cách duy nhất để đối mặt với một niềm đau là phải dìm cho nó chìm nghỉm cái đã. Ông gọi thêm ly nữa, rồi lịch sự mời bạn ngồi xuống.</p>
+<p class="para-vi-sub">Ông uống cạn ly của mình. Ly thứ *X* nào đó. Đôi khi, cách duy nhất để đối mặt với một niềm đau là phải dìm cho nó chìm nghỉm cái đã. Ông gọi thêm ly nữa, rồi lịch sự mời bạn ngồi xuống.</p>
 
 <p class="para-en">You ever hear of that old detective movie, Peregrine?</p>
 
-<p class="para-vi-sub">“Cậu đã từng nghe nói về bộ phim thám tử cũ, Peregrine chưa?”</p>
+<p class="para-vi-sub">“Cậu đã từng nghe nói về bộ phim thám tử cũ, *Peregrine* chưa?”</p>
 
 <p class="para-en">No, you have not.</p>
 
@@ -110,7 +110,7 @@
 
 <p class="para-en">Mr. Yay. From The Adventures of Mr. Yay?</p>
 
-<p class="para-vi-sub">“Mr. Yay. Trong chương trình The Adventures of Mr. Yay ấy?”</p>
+<p class="para-vi-sub">“Mr. Yay. Trong chương trình *The Adventures of Mr. Yay* ấy?”</p>
 
 <p class="para-en">The man says he has never heard of this show, but you don’t believe him. Everyone has heard of Mr. Yay. Every American. Every Ohio dad had an Ohio son with a Captain Barksford lunch box and thermos. You know this to be true. Unless you have completely misunderstood what it means to be American.</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">You find paper and a pen. He writes his phone number, and his name. Brian Pierson.</p>
 
-<p class="para-vi-sub">Bạn tìm được một mẩu giấy cùng cây bút. Ông cẩn thận viết số điện thoại và tên mình lên đó. Brian Pierson.</p>
+<p class="para-vi-sub">Bạn tìm được một mẩu giấy cùng cây bút. Ông cẩn thận viết số điện thoại và tên mình lên đó. *Brian Pierson*.</p>
 
 <p class="para-en">The moment he puts the pen down the cats yowl, all of them, all at once, and he is gone.</p>
 

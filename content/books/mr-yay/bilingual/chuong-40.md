@@ -34,11 +34,11 @@
 
 <p class="para-en">7:00 P.M.</p>
 
-<p class="para-vi-sub">7:00 TỐI</p>
+<p class="para-vi-sub">**7:00 TỐI**</p>
 
 <p class="para-en">JACK WORE a brown velvet blazer, his fedora, and a T-shirt with a picture of Tom Selleck in a Hawaiian shirt.</p>
 
-<p class="para-vi-sub">JACK KHOÁC chiếc áo blazer nhung màu nâu, đội chiếc mũ fedora quen thuộc, bên trong là áo phông in hình tài tử Tom Selleck mặc sơ mi Hawaii.</p>
+<p class="para-vi-sub">**JACK KHOÁC** chiếc áo blazer nhung màu nâu, đội chiếc mũ fedora quen thuộc, bên trong là áo phông in hình tài tử Tom Selleck mặc sơ mi Hawaii.</p>
 
 <p class="para-en">“I thought I might bring my flask,” he said, as they got ready.</p>
 
@@ -102,7 +102,7 @@
 
 <p class="para-en">8:00 P.M.</p>
 
-<p class="para-vi-sub">8:00 TỐI</p>
+<p class="para-vi-sub">**8:00 TỐI**</p>
 
 <p class="para-en">Tom and Fred had a lot of friends who looked just like Tom and Fred, except that Fred’s hair had started to get long.</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">Holly gave Miriam a look that said: What the hell are goji berries?</p>
 
-<p class="para-vi-sub">Holly ném cho Miriam một ánh nhìn phớt tỉnh như muốn nói: Kỷ tử là cái quái gì thế không biết?</p>
+<p class="para-vi-sub">Holly ném cho Miriam một ánh nhìn phớt tỉnh như muốn nói: *Kỷ tử là cái quái gì thế không biết?*</p>
 
 <p class="para-en">“I’ve got some cranberry spritzer in the fridge that you can mix it with,” Holly said. “But you don’t want these limes. These limes are covered in pesticides.”</p>
 
@@ -154,7 +154,7 @@
 
 <p class="para-en">9:00 P.M.</p>
 
-<p class="para-vi-sub">9:00 TỐI</p>
+<p class="para-vi-sub">**9:00 TỐI**</p>
 
 <p class="para-en">A man in a teal shirt gave Jack a hearty handshake. His teal shirt had white vertical stripes and a collar. It was tucked neatly into his expensive jeans. It looked just like Tom’s olive shirt, but in teal.</p>
 
@@ -294,7 +294,7 @@
 
 <p class="para-en">10:00 P.M.</p>
 
-<p class="para-vi-sub">10:00 TỐI</p>
+<p class="para-vi-sub">**10:00 TỐI**</p>
 
 <p class="para-en">Holly mixed fresh tangerine juice and rum in a cocktail shaker.</p>
 
@@ -326,7 +326,7 @@
 
 <p class="para-en">“Oh, sure, Tom swears they’ll wear life vests. Just like he swears he always wears his helmet when he rides his bike. But you know what?”</p>
 
-<p class="para-vi-sub">“Ồ, dĩ nhiên rồi. Tom thề sống thề chết rằng bọn họ sẽ mặc áo phao. Y như cái cách anh ấy thề rằng mình luôn đội mũ bảo hiểm mỗi khi cưỡi mô tô vậy. Nhưng cậu biết gì không?”</p>
+<p class="para-vi-sub">“Ồ, dĩ nhiên rồi. Tom *thề sống thề chết* rằng bọn họ sẽ mặc áo phao. Y như cái cách anh ấy thề rằng mình luôn đội mũ bảo hiểm mỗi khi cưỡi mô tô vậy. Nhưng cậu biết gì không?”</p>
 
 <p class="para-en">“What?”</p>
 
@@ -370,7 +370,7 @@
 
 <p class="para-en">“Bump, bump, bump! Bump, bump, bump!”</p>
 
-<p class="para-vi-sub">“Húc đi, húc đi, húc đi! Húc đi, húc đi, húc đi!”</p>
+<p class="para-vi-sub">*“Húc đi, húc đi, húc đi! Húc đi, húc đi, húc đi!”*</p>
 
 <p class="para-en">“Happy thirty-eighth birthday, Fred,” yelled Tom.</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-en">“Bump! Bump! Bump!”</p>
 
-<p class="para-vi-sub">“Húc! Húc! Húc!”</p>
+<p class="para-vi-sub">*“Húc! Húc! Húc!”*</p>
 
 <p class="para-en">Tom and Fred stepped apart and circled each other again. Fred growled. Tom snorted. Tom had unbuttoned his olive shirt. Fred had removed his vest. Their bare chests were oiled and tanned.</p>
 
@@ -418,11 +418,11 @@
 
 <p class="para-en">11:00 P.M.</p>
 
-<p class="para-vi-sub">11:00 ĐÊM</p>
+<p class="para-vi-sub">**11:00 ĐÊM**</p>
 
 <p class="para-en">Miriam spotted Jack across the party with a pretty blond. For a moment she thought it might be the same woman she had seen him with outside that coffee shop, but this woman was older. Still hot though. Jack leaned in. He said something. He had an ardent gleam in his eyes. The blond’s lips were full and moist, coated in shimmering pink gloss. She nodded. She gazed at Jack with wistful eyes. Jack took a sip of whiskey from his flask. He offered the flask to the blond. She shook her head, no thanks. Jack said something else. She pouted sympathetically. She batted her eyelashes like a cartoon baby deer.</p>
 
-<p class="para-vi-sub">Miriam thoáng thấy Jack đứng ở phía bên kia phòng tiệc cùng một cô nàng tóc vàng xinh đẹp. Trong một thoáng, cô từng ngỡ đó là người phụ nữ mình bắt gặp đi cùng anh bên ngoài quán cà phê, nhưng người này có vẻ nhiều tuổi hơn. Dù vậy, trông cô ta vẫn bốc lửa chán. Jack ghé sát lại. Anh nói điều gì đó, đôi mắt lấp lánh vẻ cuồng nhiệt. Bờ môi cô nàng tóc vàng căng mọng, phủ một lớp son bóng màu hồng lấp lánh. Cô ta gật đầu, nhìn Jack bằng ánh mắt đăm chiêu mơ màng. Jack nhấp một ngụm whiskey từ chiếc bình kim loại bỏ túi rồi chìa về phía cô nàng. Cô ta lắc đầu, không, cảm ơn. Jack lại bồi thêm vài câu. Cô ta phụng phịu vẻ đầy thấu cảm, chớp chớp hàng mi hệt như chú nai Bambi trong phim hoạt hình.</p>
+<p class="para-vi-sub">Miriam thoáng thấy Jack đứng ở phía bên kia phòng tiệc cùng một cô nàng tóc vàng xinh đẹp. Trong một thoáng, cô từng ngỡ đó là người phụ nữ mình bắt gặp đi cùng anh bên ngoài quán cà phê, nhưng người này có vẻ nhiều tuổi hơn. Dù vậy, trông cô ta vẫn bốc lửa chán. Jack ghé sát lại. Anh nói điều gì đó, đôi mắt lấp lánh vẻ cuồng nhiệt. Bờ môi cô nàng tóc vàng căng mọng, phủ một lớp son bóng màu hồng lấp lánh. Cô ta gật đầu, nhìn Jack bằng ánh mắt đăm chiêu mơ màng. Jack nhấp một ngụm whiskey từ chiếc bình kim loại bỏ túi rồi chìa về phía cô nàng. Cô ta lắc đầu, *không, cảm ơn*. Jack lại bồi thêm vài câu. Cô ta phụng phịu vẻ đầy thấu cảm, chớp chớp hàng mi hệt như chú nai Bambi trong phim hoạt hình.</p>
 
 <p class="para-en">Miriam pushed her way through the crowd toward Jack and the blond. Beer sloshed over the side of her glass and dripped down her hand. The whole floor was sticky with beer. She shoved past the beer pong table and stepped between Jack and the blond.</p>
 
@@ -462,7 +462,7 @@
 
 <p class="para-en">12:00 A.M.</p>
 
-<p class="para-vi-sub">12:00 ĐÊM</p>
+<p class="para-vi-sub">**12:00 ĐÊM**</p>
 
 <p class="para-en">Holly had a glass half full of tangerine and rum. She filled it up to the top with beer.</p>
 
@@ -518,7 +518,7 @@
 
 <p class="para-en">1:00 A.M.</p>
 
-<p class="para-vi-sub">1:00 SÁNG</p>
+<p class="para-vi-sub">**1:00 SÁNG**</p>
 
 <p class="para-en">Holly stumbled out of the kitchen. She pushed through the crowd, toward the beer pong table. Tom was crouched beneath it</p>
 
@@ -590,7 +590,7 @@
 
 <p class="para-en">“You’re not afraid to jump out of an airplane. You’re not afraid to jump off a bridge. You’re not afraid to go white-water rafting. Oh no, not at all. You’re not afraid to make your wife a widow, are you﻿, Tom? And you’re not afraid to take Chad along with you.” Holly picked up the other paddle. She threw it at him. “But losing to me in beer pong scares you? Well, you better face up to your fears, birthday boy!”</p>
 
-<p class="para-vi-sub">“Anh đâu có sợ nhảy khỏi máy bay. Anh đâu có sợ nhảy cầu. Anh đâu có sợ chèo thuyền vượt thác dữ. Ôi không, hoàn toàn không. Anh chẳng sợ biến vợ mình thành một góa phụ, đúng không, Tom? Rồi anh cũng chẳng sợ lôi cả thằng Chad đi mạo hiểm cùng mình nữa.” Holly cầm chiếc vợt còn lại lên rồi ném thẳng về phía anh. “Thế mà thua tôi ở trò ném bóng bia lại khiến anh sợ hãi sao? Chà, tốt nhất là anh nên đối mặt với nỗi sợ của mình đi, chủ nhân tiệc sinh nhật ạ!”</p>
+<p class="para-vi-sub">“Anh đâu có sợ nhảy khỏi máy bay. Anh đâu có sợ nhảy cầu. Anh đâu có sợ chèo thuyền vượt thác dữ. Ôi không, *hoàn toàn không*. Anh chẳng sợ biến vợ mình thành *một góa phụ*, đúng không, Tom? Rồi anh cũng chẳng sợ lôi cả thằng Chad đi mạo hiểm cùng mình nữa.” Holly cầm chiếc vợt còn lại lên rồi ném thẳng về phía anh. “Thế mà thua tôi ở trò ném bóng bia lại khiến anh sợ hãi sao? Chà, tốt nhất là anh nên đối mặt với nỗi sợ của mình đi, chủ nhân tiệc sinh nhật ạ!”</p>
 
 <p class="para-en">Holly stomped out of the room. Tom stood at the beer pong table, clutching his paddle, looking confused. Everyone else stood still, waiting to see what Holly would do next.</p>
 
@@ -630,7 +630,7 @@
 
 <p class="para-en">2:00 A.M.</p>
 
-<p class="para-vi-sub">2:00 SÁNG</p>
+<p class="para-vi-sub">**2:00 SÁNG**</p>
 
 <p class="para-en">“Tom and Fred are both wearing eye patches,” Miriam told Kate. They were outside, alone on the deck. The March air was mild, foretelling of early summer. The moon was a giant egg in the sky. The grass glistened with dew.</p>
 
@@ -694,7 +694,7 @@
 
 <p class="para-en">Where? it asked. Where did he go? But she couldn’t answer, and the racoon turned and scurried away.</p>
 
-<p class="para-vi-sub">Ở đâu? Nó cất tiếng hỏi. Anh ta đã đi đâu rồi? Nhưng Miriam chẳng thể cất lời đáp. Chú gấu mèo ngoảnh đầu quay đi rồi nhanh chân lủi mất vào bóng tối.</p>
+<p class="para-vi-sub">*Ở đâu?* Nó cất tiếng hỏi. *Anh ta đã đi đâu rồi?* Nhưng Miriam chẳng thể cất lời đáp. Chú gấu mèo ngoảnh đầu quay đi rồi nhanh chân lủi mất vào bóng tối.</p>
 
 <p class="para-en">She lit another cigarette from the tip of her last one. She heard another rustle from the bushes. She walked toward the noise, expecting another elusive animal. But instead, she saw a man-shape. She saw the burning red cherry of his cigarette.</p>
 

@@ -1,6 +1,6 @@
 # NGƯỜI PHA CHẾ
 
-HÃY TƯỞNG TƯỢNG BẠN là một nhân viên pha chế.
+**HÃY TƯỞNG TƯỢNG BẠN** là một nhân viên pha chế.
 
 Bạn làm việc tại một quán bar ven biển trên hòn đảo nhỏ Koh Lanta thuộc vùng biển Andaman. Nơi đây tĩnh lặng, bình yên và hoàn hảo đến mức có đủ mọi thứ bạn từng khao khát trong đời.
 
@@ -52,9 +52,9 @@ Người đàn ông lắc đầu.
 
 “Không. Tuyệt đối không. Tôi sẽ không nói về chuyện đó đâu.”
 
-Ông uống cạn ly của mình. Ly thứ X nào đó. Đôi khi, cách duy nhất để đối mặt với một niềm đau là phải dìm cho nó chìm nghỉm cái đã. Ông gọi thêm ly nữa, rồi lịch sự mời bạn ngồi xuống.
+Ông uống cạn ly của mình. Ly thứ *X* nào đó. Đôi khi, cách duy nhất để đối mặt với một niềm đau là phải dìm cho nó chìm nghỉm cái đã. Ông gọi thêm ly nữa, rồi lịch sự mời bạn ngồi xuống.
 
-“Cậu đã từng nghe nói về bộ phim thám tử cũ, Peregrine chưa?”
+“Cậu đã từng nghe nói về bộ phim thám tử cũ, *Peregrine* chưa?”
 
 Chưa. Bạn chưa từng nghe bao giờ.
 
@@ -66,7 +66,7 @@ Tên người này thì bạn có nghe qua rồi.
 
 “Mr. nào cơ?”
 
-“Mr. Yay. Trong chương trình The Adventures of Mr. Yay ấy?”
+“Mr. Yay. Trong chương trình *The Adventures of Mr. Yay* ấy?”
 
 Người đàn ông bảo rằng ông chưa từng nghe về chương trình này, nhưng bạn không tin. Mọi người ai nấy đều từng nghe nói đến Mr. Yay. Mọi người Mỹ đều thế. Mọi ông bố ở Ohio đều có một đứa con trai sở hữu chiếc hộp đựng cơm trưa cùng bình giữ nhiệt hình Thuyền trưởng Barksford. Bạn biết chắc điều này là sự thật, trừ phi bạn đã hiểu sai hoàn toàn về bản chất của việc làm một người Mỹ.
 
@@ -90,7 +90,6 @@ Hiếm hoi lắm người ta mới kết thêm được một người bạn m�
 
 Bạn tìm được một mẩu giấy cùng cây bút. Ông cẩn thận viết số điện thoại và tên mình lên đó.
 
-Brian Pierson.
+*Brian Pierson*.
 
 Đúng khoảnh khắc ông vừa đặt bút xuống, lũ mèo đồng loạt gào thét lên - tất cả bọn chúng, cùng một lúc - và ông đã biến mất.
-

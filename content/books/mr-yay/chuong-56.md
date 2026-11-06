@@ -1,6 +1,6 @@
 # HỐ BÙN
 
-HỌ NHẬN RA, sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.
+**HỌ NHẬN RA,** sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.
 
 Nhân vật ấy khiến Jack thức trắng cả đêm. Rồi thêm đêm tiếp theo. Và cả đêm thứ ba, chìm ngập trong tiếng nhạc bass rền vang. Tiếng nhạc làm những ô cửa sổ rung bần bật và khiến sàn gỗ kêu lên ken kẹt.
 
@@ -58,9 +58,9 @@ Hai đứa nhóc đã sẵn sàng với mũ bảo hiểm trên đầu: chiếc m
 
 “Và cũng có từng ấy người chẳng nhớ gì sất,” Jack đáp. “Tuy nhiên, có ít nhất năm hay sáu người khẳng định tên ông ấy là Ricardo Merman. Thế nên chúng ta có thể xác nhận đó chắc chắn là tên của ông ấy. Cho dù đó không phải tên khai sinh đi chăng nữa.”
 
-“Thế ông ấy có thật sự tồn tại không? Ricardo Merman ấy?”
+“Thế *ông ấy* có thật sự tồn tại không? Ricardo Merman ấy?”
 
-“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: The Treacherous Ten, Shotgun Solstice, Connie at Crossroads, và dĩ nhiên là cả Peregrine nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”
+“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: *The Treacherous Ten, Shotgun Solstice, Connie at Crossroads*, và dĩ nhiên là cả *Peregrine* nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”
 
 Rory cắt ngang bằng một tiếng reo phấn khích: “Bố ơi! Bố!”
 
@@ -120,7 +120,7 @@ Mabel và Nicky vẫn đứng quan sát từ phía sau một pháo đài bằng 
 
 “Bởi vì rõ ràng là bây giờ nó chẳng hề được chiếu trực tuyến ở bất cứ đâu.”
 
-“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình The Adventures of Mr. Yay không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”
+“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình *The Adventures of Mr. Yay* không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”
 
 “Cô ấy không tìm thấy chúng à?”
 
@@ -128,7 +128,7 @@ Mabel và Nicky vẫn đứng quan sát từ phía sau một pháo đài bằng 
 
 “Không một dấu vết.”
 
-“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất The Adventures of Mr. Yay.”
+“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất *The Adventures of Mr. Yay*.”
 
 Lũ trẻ trượt xe scooter dẫn hai người đến công viên, rồi tạt qua quán cà phê, sau đó quay trở lại đường Ravenswood Drive - nơi Kate và Fred đã nhập bọn cùng các con lăn lộn trong bùn. Nhưng chí ít thì họ không trần như nhộng. Fred để ngực trần, nhưng anh mặc một chiếc quần đay rộng thùng thình. Kate mặc bộ bikini lấm lem bùn đất và đeo một viên thạch anh quanh cổ. Một vòng hoa cài ngay ngắn trên mái tóc bết chưa gội của cô. Cả hai trông thon gọn và rám nắng hơn nhiều so với những gì Miriam từng nhớ.
 
@@ -140,7 +140,7 @@ Kate ngồi xổm xuống, dùng những ngón tay dính đầy bùn đất vu�
 
 “Lũ thỏ, gấu mèo và mấy con thú nhỏ cuối cùng cũng có một ngôi nhà tử tế.”
 
-Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao, Miriam thầm nghĩ.
+*Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao*, Miriam thầm nghĩ.
 
 Nhưng cô chỉ gật đầu và nói: “Tuyệt thật đấy!”
 
@@ -148,11 +148,11 @@ Nhưng cô chỉ gật đầu và nói: “Tuyệt thật đấy!”
 
 Jack nhìn Miriam. Ánh mắt anh như muốn nói:
 
-Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?
+*Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?*
 
 Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.
 
-“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên The Adventures of Mr. Yay không?”
+“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên *The Adventures of Mr. Yay* không?”
 
 “Ồ, có chứ,” Fred nói. “Hồi đó tôi xem suốt. Sao thế?”
 
@@ -173,4 +173,3 @@ Kate nhún vai. “Em chịu.”
 “Thời chúng ta lớn lên, chương trình đó đâu đâu cũng có mà.”
 
 “Và giờ đây,” Miriam nói, “nó chẳng còn ở đâu nữa.”
-

@@ -2,11 +2,11 @@
 
 <p class="para-en">MIRIAM + JACK</p>
 
-<p class="para-vi-sub">MIRIAM + JACK</p>
+<p class="para-vi-sub">**MIRIAM + JACK**</p>
 
 <p class="para-en">ON A WARM EVENING in October, ten years earlier, a man sat in his car at a red light. Led Zeppelin played on the radio. The man drummed his fingers on the steering wheel. He thought about what he would do when he got back to his apartment. The beers he would drink. The movie he would watch, until he fell asleep on the couch.</p>
 
-<p class="para-vi-sub">VÀO MỘT BUỔI TỐI ẤM ÁP tháng Mười của mười năm về trước, có một người đàn ông đang ngồi trong xe hơi chờ đèn đỏ. Đài phát thanh xập xình phát nhạc của nhóm Led Zeppelin. Anh gõ nhịp ngón tay lên vô lăng, thong thả tính chuyện mình sẽ làm khi về đến căn hộ: khui vài lon bia, bật một bộ phim rồi lăn ra ngủ thiếp đi trên ghế sô pha.</p>
+<p class="para-vi-sub">**VÀO MỘT BUỔI TỐI ẤM ÁP** tháng Mười của mười năm về trước, có một người đàn ông đang ngồi trong xe hơi chờ đèn đỏ. Đài phát thanh xập xình phát nhạc của nhóm Led Zeppelin. Anh gõ nhịp ngón tay lên vô lăng, thong thả tính chuyện mình sẽ làm khi về đến căn hộ: khui vài lon bia, bật một bộ phim rồi lăn ra ngủ thiếp đi trên ghế sô pha.</p>
 
 <p class="para-en">As he waited, a woman approached on a bicycle. The most beautiful woman he’d ever seen. This was what he said, when he told the story later.</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">We played footsie, she said later, when she told the story. It sounded trite, a joke. There was something magnetic between them. Their feet parts just came together first.</p>
 
-<p class="para-vi-sub">“Bọn mình cọ chân nhau dưới gầm bàn,” về sau mỗi khi kể lại câu chuyện, cô đều tặc lưỡi bảo thế. Nghe thì có vẻ sáo rỗng như một trò đùa, nhưng thực sự giữa họ có một sức hút vô hình đầy ma lực. Chỉ đơn giản là các ngón chân của hai người đã tìm thấy nhau trước tiên mà thôi.</p>
+<p class="para-vi-sub">*“Bọn mình cọ chân nhau dưới gầm bàn,”* về sau mỗi khi kể lại câu chuyện, cô đều tặc lưỡi bảo thế. Nghe thì có vẻ sáo rỗng như một trò đùa, nhưng thực sự giữa họ có một sức hút vô hình đầy ma lực. Chỉ đơn giản là các ngón chân của hai người đã tìm thấy nhau trước tiên mà thôi.</p>
 
 <p class="para-en">“What do you do, Jack?” she asked, then added, “I hate that question.”</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-en">“Classic detective. Like in one of those 1940s crime novels. Or that movie Peregrine. I wear a suit and a fedora. I carry a gun. I smoke in my office. My clients are seedy, or dangerous, or sensual. Sometimes I get into shoot-outs.”</p>
 
-<p class="para-vi-sub">“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh Peregrine chẳng hạn. Anh mặc áo vest, đội mũ fedora, dắt súng sau thắt lưng và phì phèo thuốc lá trong văn phòng. Thân chủ của anh toàn những kẻ nhếch nhác, nguy hiểm hoặc cực kỳ quyến rũ. Thỉnh thoảng anh còn tham gia đấu súng nữa.”</p>
+<p class="para-vi-sub">“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh *Peregrine* chẳng hạn. Anh mặc áo vest, đội mũ fedora, dắt súng sau thắt lưng và phì phèo thuốc lá trong văn phòng. Thân chủ của anh toàn những kẻ nhếch nhác, nguy hiểm hoặc cực kỳ quyến rũ. Thỉnh thoảng anh còn tham gia đấu súng nữa.”</p>
 
 <p class="para-en">“Sounds like fiction. You could just as easily be a cowboy. Or a circus performer. Or a professional rapper.”</p>
 
@@ -202,5 +202,5 @@
 
 <p class="para-en">“Oh? Sounds reasonable. And lawyer might make a better front than barista for your true detective self.”</p>
 
-<p class="para-vi-sub">“Ồ? Nghe hợp lý đấy. Dù sao thì luật sư nghe cũng là một vỏ bọc ngụy trang xịn xò hơn nhân viên pha chế cho bản ngã thám tử đích thực của anh đấy.”</p>
+<p class="para-vi-sub">“Ồ? Nghe hợp lý đấy. Dù sao thì *luật sư* nghe cũng là một vỏ bọc ngụy trang xịn xò hơn nhân viên pha chế cho bản ngã thám tử đích thực của anh đấy.”</p>
 

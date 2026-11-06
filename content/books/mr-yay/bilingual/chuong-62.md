@@ -1,12 +1,12 @@
-# KHÚC ĐỆM - KÝ ỨC ÙA VỀ
+# KHÚC ĐỆM
 
 <p class="para-en">BRATTY</p>
 
-<p class="para-vi-sub">BRATTY</p>
+<p class="para-vi-sub">**BRATTY**</p>
 
 <p class="para-en">A WEEK BEFORE, his dad had said, Bradford, you should come for Thanksgiving. It would mean a lot. Except it didn’t. When he showed up, at eleven a.m., just like they’d told him to, they weren’t there.</p>
 
-<p class="para-vi-sub">MỘT TUẦN TRƯỚC ĐÓ, bố anh từng bảo: “Bradford, con nên về ăn Lễ Tạ ơn. Điều đó có ý nghĩa rất lớn đấy.” Có điều, thực tế lại chẳng có chút ý nghĩa quái nào. Lúc anh có mặt đúng mười một giờ trưa, chuẩn xác theo lời họ dặn, thì trong nhà lại chẳng có lấy một ai.</p>
+<p class="para-vi-sub">**MỘT TUẦN TRƯỚC ĐÓ**, bố anh từng bảo: “Bradford, con nên về ăn Lễ Tạ ơn. Điều đó có ý nghĩa rất lớn đấy.” Có điều, thực tế lại chẳng có chút ý nghĩa quái nào. Lúc anh có mặt đúng mười một giờ trưa, chuẩn xác theo lời họ dặn, thì trong nhà lại chẳng có lấy một ai.</p>
 
 <p class="para-en">Their car wasn’t in the driveway. Their door was locked. He’d had a key once, but they’d changed the locks for no reason he could think of.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">He waited on the stoop, huddled over his cooling casserole. His toes froze. His nose dripped. He reached the moment of fuck it, I’m out, stood up to leave, and then their car pulled into the driveway.</p>
 
-<p class="para-vi-sub">Anh ngồi co ro trên bậc tam cấp, ôm khư khư khay đậu que đang nguội lạnh dần. Các đầu ngón chân tê cóng. Nước mũi thò lò. Ngay khi anh chạm đến ngưỡng kệ mẹ nó, biến thôi và vừa đứng dậy định rời đi, chiếc xe của họ mới chịu rẽ vào lối đi trước sân.</p>
+<p class="para-vi-sub">Anh ngồi co ro trên bậc tam cấp, ôm khư khư khay đậu que đang nguội lạnh dần. Các đầu ngón chân tê cóng. Nước mũi thò lò. Ngay khi anh chạm đến ngưỡng *kệ mẹ nó, biến thôi* và vừa đứng dậy định rời đi, chiếc xe của họ mới chịu rẽ vào lối đi trước sân.</p>
 
 <p class="para-en">“Bradford. You’re early,” his stepmom said. Surprise, surprise, she didn’t seem happy to see him. “You were supposed to come at two p.m.”</p>
 
@@ -86,11 +86,11 @@
 
 <p class="para-en">He checked his phone and found something better: a two o’clock showing of Peregrine at the art house cinema on Ludlow, right next door to the Cheezy Mac Shack, open all day, serving the best fried turkey-mac-and-cheese balls in town.</p>
 
-<p class="para-vi-sub">Anh kiểm tra điện thoại và phát hiện ra một lựa chọn còn tuyệt vời hơn: suất chiếu lúc hai giờ của bộ phim Peregrine tại rạp chiếu bóng nghệ thuật trên đường Ludlow. Nơi đó nằm ngay sát vách quán Cheezy Mac Shack mở cửa 24/7, nơi phục vụ những viên mì phô mai kẹp gà tây chiên giòn đỉnh nhất trần đời.</p>
+<p class="para-vi-sub">Anh kiểm tra điện thoại và phát hiện ra một lựa chọn còn tuyệt vời hơn: suất chiếu lúc hai giờ của bộ phim *Peregrine* tại rạp chiếu bóng nghệ thuật trên đường Ludlow. Nơi đó nằm ngay sát vách quán Cheezy Mac Shack mở cửa 24/7, nơi phục vụ những viên mì phô mai kẹp gà tây chiên giòn đỉnh nhất trần đời.</p>
 
 <p class="para-en">Screw the salad.</p>
 
-<p class="para-vi-sub">Kệ xác món salad.</p>
+<p class="para-vi-sub">*Kệ xác món salad.*</p>
 
 <p class="para-en">Why bother with goodbyes? They didn’t really want him there anyway. Bratty headed for the door. But before he escaped, his dad emerged from his office.</p>
 
@@ -138,7 +138,7 @@
 
 <p class="para-en">“If Helena’s sick, if you’re canceling Thanksgiving, what are you gonna do, Dad? Sit here by yourself? You should come. They’re playing Peregrine. You know, that old detective flick? It’ll be fun.”</p>
 
-<p class="para-vi-sub">“Nếu dì Helena bị ốm, rồi bố mẹ phải hủy tiệc Lễ Tạ ơn, thì bố định làm gì chứ? Ngồi đây một mình sao? Bố nên đi cùng con thì hơn. Rạp đang chiếu Peregrine đấy. Bố biết mà, bộ phim trinh thám noir kinh điển ấy? Vui lắm cho xem.”</p>
+<p class="para-vi-sub">“Nếu dì Helena bị ốm, rồi bố mẹ phải hủy tiệc Lễ Tạ ơn, thì bố định làm gì chứ? Ngồi đây một mình sao? Bố nên đi cùng con thì hơn. Rạp đang chiếu *Peregrine* đấy. Bố biết mà, bộ phim trinh thám noir kinh điển ấy? Vui lắm cho xem.”</p>
 
 <p class="para-en">His dad wanted to go. He had a wistful gleam in his eyes.</p>
 

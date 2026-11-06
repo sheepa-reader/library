@@ -1,4 +1,4 @@
-# THÁNG GIÊNG - BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU
+# THÁNG GIÊNG
 
 <p class="para-en">Bradford: Thanks for, you know, pushing this back a week. And switching to video call.</p>
 

@@ -18,11 +18,11 @@
 
 <p class="para-en">Near the Value Valley entrance stood a woman holding a neon-green hand-printed sign. The sign said, simply: CONSPIRACY! There was a circle drawn around CONSPIRACY! with lines coming out of it, like a child’s drawing of the sun.</p>
 
-<p class="para-vi-sub">Gần lối vào siêu thị Value Valley, một người phụ nữ đang đứng cầm tấm biển viết tay màu xanh dạ quang. Tấm biển ghi vắn tắt: THUYẾT ÂM MƯU! Xung quanh chữ “THUYẾT ÂM MƯU!” có vẽ một vòng tròn với các tia nắng chĩa ra ngoài, trông hệt như bức vẽ mặt trời của một đứa trẻ.</p>
+<p class="para-vi-sub">Gần lối vào siêu thị Value Valley, một người phụ nữ đang đứng cầm tấm biển viết tay màu xanh dạ quang. Tấm biển ghi vắn tắt: **THUYẾT ÂM MƯU!** Xung quanh chữ “THUYẾT ÂM MƯU!” có vẽ một vòng tròn với các tia nắng chĩa ra ngoài, trông hệt như bức vẽ mặt trời của một đứa trẻ.</p>
 
 <p class="para-en">The Conspiracy! woman wore a black sweatshirt with the pink logo of a pharmaceutical company. She grinned at Miriam as she approached the entrance. Her teeth were white and perfect. Miriam glanced back at the woman after they passed her. The other side of the woman’s sign had a different message: WHERE ARE MY CHICKENS?</p>
 
-<p class="para-vi-sub">Người phụ nữ Thuyết Âm Mưu mặc chiếc áo nỉ chui đầu màu đen có in logo màu hồng của một công ty dược phẩm. Bà nở nụ cười tươi rói với Miriam khi cô tiến lại gần lối vào. Răng bà trắng muốt và hoàn hảo đến lạ kỳ. Sau khi mấy mẹ con đi qua, Miriam ngoái lại nhìn bà. Mặt bên kia tấm biển lại mang một thông điệp hoàn toàn khác: GÀ CỦA TÔI ĐÂU RỒI?</p>
+<p class="para-vi-sub">Người phụ nữ Thuyết Âm Mưu mặc chiếc áo nỉ chui đầu màu đen có in logo màu hồng của một công ty dược phẩm. Bà nở nụ cười tươi rói với Miriam khi cô tiến lại gần lối vào. Răng bà trắng muốt và hoàn hảo đến lạ kỳ. Sau khi mấy mẹ con đi qua, Miriam ngoái lại nhìn bà. Mặt bên kia tấm biển lại mang một thông điệp hoàn toàn khác: **GÀ CỦA TÔI ĐÂU RỒI?**</p>
 
 <p class="para-en">The first car-cart—a ﻿red-and-yellow plastic two-seater with a shopping basket on the back end—was incurably sticky. Even after several antibacterial wipes, it still had a tacky film.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-en">And I want a cigarette and a good fuck, she thought. But that isn’t happening.</p>
 
-<p class="para-vi-sub">Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.</p>
+<p class="para-vi-sub">*Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò*, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.</p>
 
 <p class="para-en">Miriam silently retrieved the next car-cart in the corral. She wiped it down.</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">Miriam let the kids pick a box of yellow cupcakes with white cream frosting. Enriched, claimed the label on its packaging.</p>
 
-<p class="para-vi-sub">Miriam đành để lũ trẻ chọn một hộp bánh cupcake màu vàng phủ kem trắng. Bổ sung dưỡng chất, nhãn dán trên bao bì tuyên bố xanh rờn như thế.</p>
+<p class="para-vi-sub">Miriam đành để lũ trẻ chọn một hộp bánh cupcake màu vàng phủ kem trắng. *Bổ sung dưỡng chất*, nhãn dán trên bao bì tuyên bố xanh rờn như thế.</p>
 
 <p class="para-en">“It’s not really ‘enriched,’ ” the Conspiracy! woman said, approaching as Miriam put the cupcakes in her cart. “Who knows what it is, really. It could be anything.”</p>
 
@@ -86,7 +86,7 @@
 
 <p class="para-en">“But I’ll tell you this. Things are disappearing. No one’s talking about it, but oh, they should be. They should be! You’ve got something, and then, poof! Just like that, it’s gone.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, bốc hơi! Cứ thế mà biến mất không để lại một dấu vết.”</p>
+<p class="para-vi-sub">“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, *bốc hơi!* Cứ thế mà biến mất không để lại một dấu vết.”</p>
 
 <p class="para-en">An image of Jack flashed through Miriam’s mind. Jack, with a smile on his face. Jack with his eyes fixed on her. His hands. His lips. The shape of his body in the darkness of their bedroom, as he pulled her on top of him.</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-en">“I don’t know. But it couldn’t have been the ship people claimed because that ship was at a port in Italy. And the people who saw it near Greece claimed it appeared and then vanished right in front of them. So logically,” Jack the Sleuth deduced, “either the sightings are fabricated, or hallucinated. Or the ship does exist, but for some reason its existence is being covered up. But the question is why.…”</p>
 
-<p class="para-vi-sub">“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì con tàu đó vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là tại sao…”</p>
+<p class="para-vi-sub">“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì *con tàu đó* vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là *tại sao*…”</p>
 
 <p class="para-en">After they put the kids to bed, Miriam snuck out to smoke another cigarette. She lit her cigarette and crept around the side of the house, to the kitchen window where she could spy on Jack. He opened his laptop. As it booted up, he walked over to the liquor cabinet, reached for the bottle of whiskey, and took a swig, straight from the bottle. His face puckered in disgust. He tucked the bottle back into the cabinet and took a package of mints out of his pocket and popped one into his mouth. Then he sat down at his laptop and began to type.</p>
 

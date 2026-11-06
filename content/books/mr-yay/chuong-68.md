@@ -1,6 +1,6 @@
 # ROBERT KAI
 
-MỘT TUẦN SAU KHI trở về nhà, Jack bí mật ôm chú chó rời đi. Vài giờ sau, anh cùng chú chó lững thững quay về. Anh nhất quyết không chịu hé răng nửa lời về nơi họ vừa tới.
+**MỘT TUẦN SAU KHI** trở về nhà, Jack bí mật ôm chú chó rời đi. Vài giờ sau, anh cùng chú chó lững thững quay về. Anh nhất quyết không chịu hé răng nửa lời về nơi họ vừa tới.
 
 “Em không nghĩ việc giấu giấu giếm giếm lại tốt cho cuộc hôn nhân của chúng mình đâu,” Miriam bảo.
 
@@ -32,7 +32,7 @@ Tiếng khóa lách cách vang lên. Cánh cửa bật mở. Miriam trừng mắ
 
 “Chính là vị thám tử đó. Đúng vậy.” Người đàn ông trông tầm ba mươi đến bốn mươi tuổi, dẫu rằng thật khó đoán chính xác tuổi tác đằng sau bộ râu xồm xoàm rậm rạp. Anh ta cao ráo, gầy gò, ngoại trừ cái bụng bia hơi nhô ra một chút. Anh ta mặc quần bò cùng áo khoác thể thao khoác ngoài chiếc áo phông in hình một ống nghiệm đang sủi bọt, kèm dòng chữ in đậm bên dưới:
 
-SCIENCE, BITCHES!
+**SCIENCE, BITCHES!**
 
 Anh ta dắt theo một chú chó bằng dây xích, một chú chó corgi. “Tôi là SherLok Ohms. Tôi tới vì chuyện liên quan đến Mr. Yay.”
 
@@ -102,7 +102,7 @@ Một tia sáng chợt lóe lên trong đầu Miriam. Cô quay sang nhìn Jack. 
 
 “Chính xác.”
 
-“Nhưng làm sao mình đi đến đa vũ trụ được ạ?” Lindsey cất tiếng hỏi, tay không ngừng gãi đầu chú chó corgi Samwise. “Vì cô ấy bảo con phải đi. Nhưng con có biết đi bằng đường nào đâu.”
+“Nhưng làm sao mình *đi đến* đa vũ trụ được ạ?” Lindsey cất tiếng hỏi, tay không ngừng gãi đầu chú chó corgi Samwise. “Vì *cô ấy bảo* con phải đi. Nhưng con có biết đi bằng đường nào đâu.”
 
 “Ai bảo con cơ?” Miriam giật mình hỏi.
 
@@ -116,7 +116,7 @@ Một tia sáng chợt lóe lên trong đầu Miriam. Cô quay sang nhìn Jack. 
 
 “Cháu biết ở đó có nhiều bài hát lắm,” Lindsey hồn nhiên đáp.
 
-“À, ừ, đúng là thế thật. Ở đó cái gì cũng có nhiều cả. Nơi chúng ta đang sống đây, ta gọi là vũ trụ, và nó là độc nhất vô nhị. Nhưng đa vũ trụ - hay siêu vũ trụ - lại được ghép lại từ vô số các vũ trụ khác nhau. Sẽ có rất nhiều Lindsey. Rất nhiều chú chó corgi Samwise.”
+“À, ừ, đúng là thế thật. Ở đó cái gì cũng có nhiều cả. Nơi chúng ta đang sống đây, ta gọi là *vũ trụ*, và nó là độc nhất vô nhị. Nhưng đa vũ trụ - hay siêu vũ trụ - lại được ghép lại từ vô số các vũ trụ khác nhau. Sẽ có rất nhiều Lindsey. Rất nhiều chú chó corgi Samwise.”
 
 “Có nhiều chú chó Roxster nữa không ạ?” Lindsey chớp mắt hỏi.
 
@@ -128,13 +128,13 @@ Một tia sáng chợt lóe lên trong đầu Miriam. Cô quay sang nhìn Jack. 
 
 “Hoặc một Lindsey biến thành mèo,” Kai đáp, khiến Lindsey rúc rích cười. “Hay một chú chó corgi Samwise béo ú to hơn cả con voi. Thế nhưng giữa hằng hà sa số các vũ trụ này, cũng có những vũ trụ giống hệt nhau đến từng chân tơ kẽ tóc. Giống đến mức nếu cháu lọt từ vũ trụ này sang vũ trụ khác - giả sử chuyện đó thực sự xảy ra - cháu còn chẳng thể nhận ra sự khác biệt cơ.
 
-Thử tưởng tượng có hai vũ trụ cực kỳ giống nhau,” Kai tiếp tục, tay vỗ về chú chó corgi Samwise cùng đám trẻ. “Chúng gần như y hệt về mọi phương diện. Ngoại trừ việc ở một vũ trụ, người ta phát sóng một chương trình truyền hình thiếu nhi kể về người đàn ông thú vị nào đó tên Mr. Yay chu du khắp thế giới trên con tàu do một chú chó làm thuyền trưởng; còn ở vũ trụ kia thì tuyệt nhiên chẳng ai biết Mr. Yay là ai. Hãy coi hai vũ trụ đó như hai cành cây cùng vươn dài song song trên một thân cây. Hoặc dễ hình dung hơn, cứ xem chúng là hai bong bóng xà phòng. Chúng vốn dĩ tách biệt hoàn toàn. Chúng đáng lẽ phải luôn tách biệt. Nhưng bằng một cách quái chiêu nào đó, hai bong bóng lại va sầm vào nhau. Trong một khoảnh khắc chớp mắt, chúng hòa làm một bong bóng duy nhất. Vậy cháu nghĩ xem, chuyện gì sẽ xảy ra tiếp theo?”
+Thử tưởng tượng có hai vũ trụ cực kỳ giống nhau,” Kai tiếp tục, tay vỗ về chú chó corgi Samwise cùng đám trẻ. “Chúng gần như y hệt về mọi phương diện. Ngoại trừ việc ở một vũ trụ, người ta phát sóng một chương trình truyền hình thiếu nhi kể về người đàn ông thú vị nào đó tên Mr. Yay chu du khắp thế giới trên con tàu do một chú chó làm thuyền trưởng; còn ở vũ trụ kia thì tuyệt nhiên chẳng ai biết Mr. Yay là ai. Hãy coi hai vũ trụ đó như hai cành cây cùng vươn dài song song trên một thân cây. Hoặc dễ hình dung hơn, cứ xem chúng là hai bong bóng xà phòng. Chúng vốn dĩ tách biệt hoàn toàn. Chúng *đáng lẽ* phải luôn tách biệt. Nhưng bằng một cách quái chiêu nào đó, hai bong bóng lại va sầm vào nhau. Trong một khoảnh khắc chớp mắt, chúng hòa làm một bong bóng duy nhất. Vậy cháu nghĩ xem, chuyện gì sẽ xảy ra tiếp theo?”
 
 “Chúng vỡ bùm ạ?” Rory hỏi.
 
 “Chà, hy vọng là không,” Kai hóm hỉnh đáp. “Mặc dù chúng hoàn toàn có thể vỡ tan xác. Hoặc giả như chẳng có chuyện gì xảy ra, và mọi thứ trong mỗi bong bóng vẫn còn nguyên vẹn. Hoặc là sau đó chúng lại tách rời nhau ra, nhưng mỗi bong bóng lại lỡ tay cầm nhầm một vài tàn tích của bong bóng bên kia. Những cổ vật đa vũ trụ, nếu cháu thích gọi như thế. Hoặc cũng có thể, chúng quyết định gộp hẳn lại làm một bong bóng duy nhất.”
 
-“Khoan đã, vậy rốt cuộc chuyện gì đã xảy ra?” Miriam hỏi. “Ý ông là, một vũ trụ có chương trình The Adventures of Mr. Yay đã va chạm với một vũ trụ mà nó chưa từng tồn tại, rồi cả hai vũ trụ xáo trộn nhào nặn vào nhau?”
+“Khoan đã, vậy rốt cuộc chuyện gì đã xảy ra?” Miriam hỏi. “Ý ông là, một vũ trụ có chương trình *The Adventures of Mr. Yay* đã va chạm với một vũ trụ mà nó chưa từng tồn tại, rồi cả hai vũ trụ xáo trộn nhào nặn vào nhau?”
 
 “Về cơ bản là đúng vậy.”
 
@@ -195,4 +195,3 @@ Anh hào hứng reo to: “Nó được chọn rồi!”
 “Mr. Yay chàng rapper ấy hả?”
 
 “Ừ, họ cần mấy chú chó phụ diễn, thế là anh dắt Roxster đến thử vai, và người ta chọn nó luôn! Họ khen nó ngoan lắm, lại còn chấm ngay cái vụ nó chỉ có ba chân nữa chứ. Mà vì cu cậu được diễn, chúng mình sẽ có vé miễn phí đấy!”
-

@@ -10,19 +10,19 @@ Lindsey thong thả chờ dây an toàn tự nhả ra. Con bé bước xuống x
 
 Gần lối vào siêu thị Value Valley, một người phụ nữ đang đứng cầm tấm biển viết tay màu xanh dạ quang. Tấm biển ghi vắn tắt:
 
-THUYẾT ÂM MƯU!
+**THUYẾT ÂM MƯU!**
 
 Xung quanh chữ “THUYẾT ÂM MƯU!” có vẽ một vòng tròn với các tia nắng chĩa ra ngoài, trông hệt như bức vẽ mặt trời của một đứa trẻ.
 
 Người phụ nữ Thuyết Âm Mưu mặc chiếc áo nỉ chui đầu màu đen có in logo màu hồng của một công ty dược phẩm. Bà nở nụ cười tươi rói với Miriam khi cô tiến lại gần lối vào. Răng bà trắng muốt và hoàn hảo đến lạ kỳ. Sau khi mấy mẹ con đi qua, Miriam ngoái lại nhìn bà. Mặt bên kia tấm biển lại mang một thông điệp hoàn toàn khác:
 
-GÀ CỦA TÔI ĐÂU RỒI?
+**GÀ CỦA TÔI ĐÂU RỒI?**
 
 Chiếc xe đẩy ô tô đầu tiên - loại hai chỗ ngồi bằng nhựa màu đỏ vàng có gắn giỏ mua hàng ở phía sau - bị dính rít một cách hết thuốc chữa. Dù đã lau qua bằng mấy tờ khăn giấy kháng khuẩn, nó vẫn bị phủ một lớp màng bết dính.
 
 Rory cằn nhằn: “Nhưng con muốn đi xe đẩy ô tô cơ!”
 
-Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.
+*Còn mình thì thèm một điếu thuốc cùng một trận mây mưa ra trò*, cô nghĩ, nhưng đời nào chuyện đó lại xảy ra.
 
 Miriam lặng lẽ kéo chiếc xe đẩy ô tô tiếp theo ra khỏi khu vực tập kết rồi lau sạch nó.
 
@@ -40,7 +40,7 @@ Miriam đẩy chiếc xe ô tô cồng kềnh qua các gian hàng trong khi lũ 
 
 Miriam đành để lũ trẻ chọn một hộp bánh cupcake màu vàng phủ kem trắng.
 
-Bổ sung dưỡng chất, nhãn dán trên bao bì tuyên bố xanh rờn như thế.
+*Bổ sung dưỡng chất*, nhãn dán trên bao bì tuyên bố xanh rờn như thế.
 
 “Nó chẳng thực sự ‘bổ dưỡng’ gì đâu,” người phụ nữ Thuyết Âm Mưu tiến lại gần lên tiếng khi Miriam đang xếp mấy chiếc bánh cupcake vào xe đẩy. “Ai mà biết nó thực chất là cái giống gì. Có khi là bất cứ thứ gì trên đời không chừng.”
 
@@ -50,7 +50,7 @@ Bổ sung dưỡng chất, nhãn dán trên bao bì tuyên bố xanh rờn như 
 
 “Tôi, ừm…” Miriam muốn rời đi ngay lập tức, nhưng chiếc xe đẩy hình ô tô của người phụ nữ nọ đã tạo thành một chướng ngại vật gây tắc nghẽn lối đi.
 
-“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, bốc hơi! Cứ thế mà biến mất không để lại một dấu vết.”
+“Nhưng tôi nói cho cô nghe điều này: Mọi thứ đang biến mất. Chẳng một ai thèm bàn về chuyện đó, nhưng ôi trời, lẽ ra họ phải bàn mới đúng! Họ nhất định phải bàn! Cô đang sở hữu một thứ gì đó, rồi đùng một cái, *bốc hơi!* Cứ thế mà biến mất không để lại một dấu vết.”
 
 Một hình ảnh của Jack chợt lóe lên trong tâm trí Miriam. Jack với nụ cười rạng rỡ. Jack với đôi mắt dán chặt vào cô. Bàn tay anh. Bờ môi anh. Dáng hình cơ thể anh trong bóng tối phòng ngủ của hai người, khi anh kéo cô nằm đè lên người anh.
 
@@ -108,7 +108,7 @@ Jack hào hứng cập nhật cho cả nhà đủ mọi tin tức giật gân tr
 
 Miriam khẽ rùng mình: “Sao người ta lại nhìn thấy một thứ không tồn tại được chứ?”
 
-“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì con tàu đó vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là tại sao…”
+“Anh cũng chịu. Nhưng nó không thể nào là con tàu mà người ta nhắc đến được, bởi vì *con tàu đó* vốn đang nằm ngoan ngoãn ở một cảng biển bên Ý. Ấy thế mà những người tận mắt thấy nó gần Hy Lạp lại khăng khăng rằng nó thình lình xuất hiện rồi bốc hơi ngay trước mắt họ. Cho nên theo đúng logic,” Jack Kẻ Truy Vết bắt đầu trổ tài suy đoán, “hoặc là những tin tức đó hoàn toàn bịa đặt, hoặc chỉ là ảo giác tập thể. Hoặc giả con tàu đó thực sự có thật, nhưng vì một lý do mờ ám nào đó mà sự tồn tại của nó đang bị người ta bưng bít. Thế nhưng câu hỏi mấu chốt đặt ra ở đây là *tại sao*…”
 
 Sau khi đã dỗ dành các con yên giấc, Miriam lại lén ra ngoài làm thêm một điếu thuốc nữa. Cô châm lửa rồi rón rén đi vòng qua hông nhà, tiến về phía cửa sổ phòng bếp, nơi cô có thể kín đáo quan sát Jack. Anh mở máy tính xách tay. Trong lúc chờ máy khởi động, anh bước về phía tủ rượu, với lấy chai whiskey rồi ngửa cổ tu ừng ực một ngụm thẳng từ miệng chai. Gương mặt anh nhăn nhó lại đầy vẻ ghê tởm. Anh vội nhét trả chai rượu vào tủ, móc từ trong túi quần ra một phong kẹo bạc hà rồi tống ngay một viên vào miệng. Xong đâu đấy, anh ngồi xuống trước màn hình máy tính và bắt đầu gõ phím thoăn thoắt.
 
@@ -121,4 +121,3 @@ Dẫu vậy, mùi hương ấy cũng chẳng đủ nồng nàn để cứu vãn 
 “Anh đang bận làm việc à?” Miriam hỏi.
 
 “Ồ ừ, rất bận,” anh đáp lại, vẫn với vẻ mặt đầy khả nghi.
-

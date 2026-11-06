@@ -1,8 +1,8 @@
-# THU PHÂN - NHỮNG BƯỚC ĐI TIẾP THEO CỦA MR. YAY
+# THU PHÂN
 
 <p class="para-en">THE FIRE CRACKLED and the crickets croaked and the wind hummed through the trees, and yet the forest felt still, and silent. Silent like a starfish.</p>
 
-<p class="para-vi-sub">ĐỐNG LỬA NỔ LÁCH TÁCH, tiếng dế rỉ rả hòa cùng cơn gió rì rào qua những tán cây, vậy mà cánh rừng vẫn mang lại cảm giác tĩnh mịch đến lạ kỳ. Im lặng như một con sao biển.</p>
+<p class="para-vi-sub">**ĐỐNG LỬA NỔ LÁCH TÁCH**, tiếng dế rỉ rả hòa cùng cơn gió rì rào qua những tán cây, vậy mà cánh rừng vẫn mang lại cảm giác tĩnh mịch đến lạ kỳ. *Im lặng như một con sao biển.*</p>
 
 <p class="para-en">Tommy stabbed a stick into a marshmallow.</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">“No, no, no, I’m Kevin Costner. The bird is just—”</p>
 
-<p class="para-vi-sub">“Không, không, không, tao mới là Kevin Costner. Con chim đó chỉ là…”</p>
+<p class="para-vi-sub">“Không, không, không, *tao* mới là Kevin Costner. Con chim đó chỉ là…”</p>
 
 <p class="para-en">Bratty laughed again. “A hallucination. A dream?”</p>
 
@@ -74,5 +74,5 @@
 
 <p class="para-en">“I swear, dude,” Tommy said. His voice sounded serious. But what was that wild look﻿ in his eyes? “I swear. It happened just like that.”</p>
 
-<p class="para-vi-sub">“Tao thề đấy, bạn già,” Tommy đáp, giọng nghiêm túc đến lạ. Nhưng cái ánh nhìn hoang dại trong mắt cậu là sao chứ? “Tao thề đấy. Mọi chuyện đã diễn ra đúng y như thế.” HẾT</p>
+<p class="para-vi-sub">“Tao thề đấy, bạn già,” Tommy đáp, giọng nghiêm túc đến lạ. Nhưng cái ánh nhìn hoang dại trong mắt cậu là sao chứ? “Tao thề đấy. Mọi chuyện đã diễn ra đúng y như thế.” **HẾT**</p>
 

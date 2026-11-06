@@ -1,8 +1,8 @@
 # KÝ ỨC ÙA VỀ
 
-MIRIAM + JACK
+**MIRIAM + JACK**
 
-NGƯỜI ĐÀN ÔNG NÊN tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu.
+**NGƯỜI ĐÀN ÔNG NÊN** tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu.
 
 Một món quà cũng có thể giúp ích đấy. Như một chú chó con chẳng hạn.
 
@@ -56,7 +56,7 @@ Người phụ nữ, chỉ một mình cô, vẫn giữ được sự thực t�
 
 Anh gật đầu, nhún vai.
 
-Dĩ nhiên anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.
+*Dĩ nhiên* anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.
 
 Dù vậy, anh đã nếm trải được hương vị ấy.
 
@@ -82,13 +82,13 @@ Tình anh vẫn cháy muôn đời chẳng phai.
 
 Đem so tình ấy trần ai,
 
-Mọi điều thế tục doth phai sắc màu.
+Mọi điều thế tục *doth* phai sắc màu.
 
 Chỉ riêng em, chỉ em thôi,
 
 Là cơn giông bão, là trời bình yên.
 
-Cô bật cười vì cái từ doth cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.
+Cô bật cười vì cái từ *doth* cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.
 
 Vào khoảnh khắc đó, trong mùa hè vàng ươm lười biếng ấy, cô đã có trong tay hai điều mà trái tim mình khao khát nhất: cô có Jack, và cô có thời gian.
 
@@ -98,7 +98,7 @@ Dịch vụ giao hoa.
 
 Một ôm đầy ắp hoa hồng đỏ thắm, kèm theo mảnh giấy nhắn từ Jack:
 
-Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.
+*Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.*
 
 Anh quả là một nhà thơ dở tệ. Cô bật cười, lúi húi đi tìm một chiếc bình để cắm hoa, nhưng còn chưa kịp tỉa tót cành lá thì tiếng gõ cửa lại vang lên lần nữa.
 
@@ -106,7 +106,7 @@ Lại thêm một đợt giao hoa hồng nữa.
 
 Lại một mảnh giấy nhắn khác.
 
-Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.
+*Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.*
 
 Lời lẽ ấy quả thực linh ứng như sấm truyền, bởi chuyến giao hoa tiếp theo có đèo thêm một vị khách quá cảnh không mời mà đến: một chú ong. Nó phóng vút ra từ bó hoa, lao thẳng vào mặt cô. Miriam hốt hoảng vung tay xua đuổi. Cô co giò chạy thục mạng vào phòng tắm rồi đóng sầm cửa lại.
 
@@ -126,7 +126,7 @@ Anh nhép miệng theo một danh sách toàn những khúc tình ca sến súa 
 
 Anh gửi những nụ hôn gió. Anh cúi gập người chào. Anh khẽ nghiêng vành mũ. Rồi chỉ trong một cái chớp mắt ngắn ngủi, anh biến mất tăm.
 
-Bụp một cái!
+*Bụp một cái!*
 
 Rồi có tiếng gõ cửa vang lên. Kế đó là tiếng cào móng sàn sạt, kèm một tiếng rên ư ử.
 
@@ -139,4 +139,3 @@ Từ sau ô cửa kính thang máy, Jack dõi theo từng cử chỉ. Những gi
 “Miriam…”
 
 Anh nắm lấy bàn tay cô. Và anh chẳng cần phải thốt thêm bất cứ lời nào nữa.
-

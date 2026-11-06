@@ -1,8 +1,8 @@
-# KHÚC DẠO ĐẦU - NGƯỜI ĐÁNH CÁ
+# KHÚC DẠO ĐẦU
 
 <p class="para-en">IMAGINE YOU are a fisherman.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN là một gã đánh cá.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một gã đánh cá.</p>
 
 <p class="para-en">Your whole life you have been a fisherman in the Aegean Sea, and your existence is picturesque, bountiful, perfect, until one summer there are less fish, and less the summer after that, less and less, and then a storm wrecks your boat and you can’t afford to pay your crew and when you fix the boat, you’ve only got you. You and your boy.</p>
 
@@ -14,15 +14,15 @@
 
 <p class="para-en">Today he is talking about dolphins. He tells you everything he knows about dolphins, and everything he doesn’t, every detail, every type. There are Sousa sahulensis and Tursiops truncatus, the bottlenose. There are Delphinus delphis and Grampus griseus. They are friendly, but also competition for the fishing boat. Will he see them? the boy wants to know. When will he see them? Is that shadow in the water a dolphin? What about—</p>
 
-<p class="para-vi-sub">Hôm nay, cu cậu lại đang mở hội thảo thuyết trình về loài cá heo. Nó xả vào tai bạn đủ thứ trên trời dưới biển nó biết về cá heo, lẫn cả một đống thứ nó cóc biết tí gì, chi tiết từng li từng tí, săm soi từng phân loài một. Nào là Sousa sahulensis, rồi đến Tursiops truncatus (tức là cá heo mũi chai đấy). Nào là Delphinus delphis với chả Grampus griseus. Rằng chúng nó thân thiện lắm, nhưng cũng là kỳ phùng địch thủ tranh ăn với thuyền đánh cá đấy nhé. Liệu con có được tận mắt nhìn thấy chúng nó không hả bố? Thằng nhãi cứ gặng hỏi mãi. Bao giờ thì con mới thấy? Cái bóng mờ căm dưới nước kia có phải cá heo không? Thế còn cái đằng kia thì…</p>
+<p class="para-vi-sub">Hôm nay, cu cậu lại đang mở hội thảo thuyết trình về loài cá heo. Nó xả vào tai bạn đủ thứ trên trời dưới biển nó biết về cá heo, lẫn cả một đống thứ nó cóc biết tí gì, chi tiết từng li từng tí, săm soi từng phân loài một. Nào là *Sousa sahulensis*, rồi đến *Tursiops truncatus* (tức là cá heo mũi chai đấy). Nào là *Delphinus delphis* với chả *Grampus griseus*. Rằng chúng nó thân thiện lắm, nhưng cũng là kỳ phùng địch thủ tranh ăn với thuyền đánh cá đấy nhé. Liệu con có được tận mắt nhìn thấy chúng nó không hả bố? Thằng nhãi cứ gặng hỏi mãi. Bao giờ thì con mới thấy? Cái bóng mờ căm dưới nước kia có phải cá heo không? Thế còn cái đằng kia thì…</p>
 
 <p class="para-en">You look up and for the first fraction of a second your mind thinks dolphin but it is bigger, much bigger. It is massive. It consumes the whole horizon. It is all you can see, and it is nothing like a dolphin.</p>
 
-<p class="para-vi-sub">Bạn ngước mắt lên. Trong một phần nghìn giây đầu tiên, não bạn nhảy số ngay ra chữ cá heo. Nhưng mà khoan, cái thứ của nợ kia to hơn nhiều, to vãi đái. Nó khổng lồ. Nó nuốt trọn cả đường chân trời và bít chịt toàn bộ tầm mắt của bạn. Quan trọng hơn cả là nó chả có mẹ gì giống một con cá heo hết.</p>
+<p class="para-vi-sub">Bạn ngước mắt lên. Trong một phần nghìn giây đầu tiên, não bạn nhảy số ngay ra chữ *cá heo*. Nhưng mà khoan, cái thứ của nợ kia to hơn nhiều, to vãi đái. Nó khổng lồ. Nó nuốt trọn cả đường chân trời và bít chịt toàn bộ tầm mắt của bạn. Quan trọng hơn cả là nó chả có mẹ gì giống một con cá heo hết.</p>
 
 <p class="para-en">It is a boat. An enormous boat. A battleship or a cruise ship, you can’t tell which, and you don’t have the chance to think about it, because you are airborne. Sideways. Your boat is flipping. Your boat is capsized. You are underwater. You are thinking, What in the holy hell just happened? and Where is my boy? and Where did that boat come from? because it wasn’t there before.</p>
 
-<p class="para-vi-sub">Đó là một con tàu. Một con tàu to tổ bố ngút ngàn. Giờ mà bảo bạn phân biệt nó là thiết giáp hạm hay du thuyền triệu đô của giới siêu giàu thì xin chịu chết. Vả lại bạn cũng làm gì còn hơi sức đâu mà phân bua, vì bạn đã bị hất bay thẳng lên không trung mất rồi. Đất trời lộn tùng phèo. Thuyền của bạn lật nhào, rồi úp ngược một phát gọn gàng. Bạn chìm nghỉm dưới làn nước. Não bạn gào thét loạn xạ: Quỷ thần thiên địa ơi, cái quái gì vừa xảy ra thế này?, rồi lại Thằng con mình đâu mất xác rồi?, và Con tàu mẹ kia chui từ cái lỗ nẻ nào ra thế? (bởi vì rõ ràng một giây trước ở đấy làm đéo gì có con tàu nào). Bạn đang trôi dốc ngược dưới nước, nhưng cơ chế sinh tồn lập tức giật dây. Bạn đạp nước điên cuồng bơi ngược về phía có ánh sáng rồi ngoi được cái đầu lên. Con thuyền của bạn coi như đi tong, nhưng ơn trời bạn vẫn chưa chìm nghỉm.</p>
+<p class="para-vi-sub">Đó là một con tàu. Một con tàu to tổ bố ngút ngàn. Giờ mà bảo bạn phân biệt nó là thiết giáp hạm hay du thuyền triệu đô của giới siêu giàu thì xin chịu chết. Vả lại bạn cũng làm gì còn hơi sức đâu mà phân bua, vì bạn đã bị hất bay thẳng lên không trung mất rồi. Đất trời lộn tùng phèo. Thuyền của bạn lật nhào, rồi úp ngược một phát gọn gàng. Bạn chìm nghỉm dưới làn nước. Não bạn gào thét loạn xạ: *Quỷ thần thiên địa ơi, cái quái gì vừa xảy ra thế này?*, rồi lại *Thằng con mình đâu mất xác rồi?*, và *Con tàu mẹ kia chui từ cái lỗ nẻ nào ra thế?* (bởi vì rõ ràng một giây trước ở đấy làm đéo gì có con tàu nào). Bạn đang trôi dốc ngược dưới nước, nhưng cơ chế sinh tồn lập tức giật dây. Bạn đạp nước điên cuồng bơi ngược về phía có ánh sáng rồi ngoi được cái đầu lên. Con thuyền của bạn coi như đi tong, nhưng ơn trời bạn vẫn chưa chìm nghỉm.</p>
 
 <p class="para-en">You are upside down in the water, but you know what to do. You swim toward the light. You surface. Your boat sinks, but you are afloat.</p>
 

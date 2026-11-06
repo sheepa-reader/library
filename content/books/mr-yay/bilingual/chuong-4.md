@@ -2,7 +2,7 @@
 
 <p class="para-en">“BRADFORD! EARTH TO BRADFORD! Turn that crap down! It’s not even music. I swear. If I have to tell you one more time, those speakers are going straight in the trash!”</p>
 
-<p class="para-vi-sub">“BRADFORD!TRÁI ĐẤT GỌI BRADFORD!” “Tắt bớt cái thứ rác rưởi đó đi! Nó còn chẳng được tính là âm nhạc nữa. Bố thề đấy. Nếu bố còn phải nhắc con thêm một lần nữa thì mấy cái loa đó sẽ bay thẳng vào thùng rác!”</p>
+<p class="para-vi-sub">**“BRADFORD! TRÁI ĐẤT GỌI BRADFORD!”** “Tắt bớt cái thứ rác rưởi đó đi! Nó còn chẳng được tính là âm nhạc nữa. Bố thề đấy. Nếu bố còn phải nhắc con thêm một lần nữa thì mấy cái loa đó sẽ bay thẳng vào thùng rác!”</p>
 
 <p class="para-en">He turned the volume down, then off.</p>
 
@@ -14,5 +14,5 @@
 
 <p class="para-en">Silent, he whispered out loud. Silent like a starfish.</p>
 
-<p class="para-vi-sub">Im lặng, cậu thì thầm thành tiếng. Im lặng như một con sao biển.</p>
+<p class="para-vi-sub">*Im lặng*, cậu thì thầm thành tiếng. *Im lặng như một con sao biển.*</p>
 

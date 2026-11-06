@@ -2,7 +2,7 @@
 
 <p class="para-en">WHERE WAS MR. YAY?</p>
 
-<p class="para-vi-sub">MR. YAY ĐANG Ở ĐÂU?</p>
+<p class="para-vi-sub">**MR. YAY ĐANG Ở ĐÂU?**</p>
 
 <p class="para-en">Mr. Yay was poolside. His lounge chair looked like a giant clamshell. He had a copy of Rolling Stone open on his lap, but he wasn’t reading. He watched bikinis drift past.</p>
 
@@ -106,11 +106,11 @@
 
 <p class="para-en">Maybe this sky was fake, too. No way to know. He closed his eyes. He listened to pool sounds, the clink of ice in a cocktail shaker, the pages of a discarded magazine fluttering in the fake sea breeze. He heard a clop-clop like peg legs on a pool deck.</p>
 
-<p class="para-vi-sub">Biết đâu bầu trời này cũng là đồ giả. Chẳng có cách nào kiểm chứng được. Anh nhắm mắt lại, lắng nghe những âm thanh bên bể bơi: tiếng lách cách của đá lạnh trong bình lắc cocktail, những trang tạp chí ai đó bỏ lại đang phần phật bay trong làn gió biển nhân tạo. Anh nghe thấy tiếng cộp cộp như tiếng chân gỗ nện trên sàn hồ bơi.</p>
+<p class="para-vi-sub">Biết đâu bầu trời này cũng là đồ giả. Chẳng có cách nào kiểm chứng được. Anh nhắm mắt lại, lắng nghe những âm thanh bên bể bơi: tiếng lách cách của đá lạnh trong bình lắc cocktail, những trang tạp chí ai đó bỏ lại đang phần phật bay trong làn gió biển nhân tạo. Anh nghe thấy tiếng *cộp cộp* như tiếng chân gỗ nện trên sàn hồ bơi.</p>
 
 <p class="para-en">Land-ho!</p>
 
-<p class="para-vi-sub">Đất liền kia rồi!</p>
+<p class="para-vi-sub">*Đất liền kia rồi!*</p>
 
 <p class="para-en">His clamshell floated along beneath the fake sky. Was he dreaming?</p>
 
@@ -254,23 +254,23 @@
 
 <p class="para-en">’Cause I’m a rebel, like Luke Skywalker</p>
 
-<p class="para-vi-sub">’Cause I’m a rebel, like Luke Skywalker</p>
+<p class="para-vi-sub">***’Cause I’m a rebel, like Luke Skywalker***</p>
 
 <p class="para-en">Smokin’ weed that looks like A green Chewbacca</p>
 
-<p class="para-vi-sub">Smokin’ weed that looks like a green Chewbacca</p>
+<p class="para-vi-sub">***Smokin’ weed that looks like a green Chewbacca***</p>
 
 <p class="para-en">’Cause that bud’s so hairy, got me scary stoned</p>
 
-<p class="para-vi-sub">’Cause that bud’s so hairy, got me scary stoned</p>
+<p class="para-vi-sub">***’Cause that bud’s so hairy, got me scary stoned***</p>
 
 <p class="para-en">The kind of weed that you nervous to smoke alone, yo…</p>
 
-<p class="para-vi-sub">The kind of weed that you nervous to smoke alone, yo… (Vì ta là kẻ nổi loạn, hệt như Luke Skywalker Hút thứ cỏ trông như một chú Chewbacca xanh rì Vì búp cỏ rậm rạp đó khiến ta phê ngất ngưởng</p>
+<p class="para-vi-sub">***The kind of weed that you nervous to smoke alone, yo…*** *(Vì ta là kẻ nổi loạn, hệt như Luke Skywalker* *Hút thứ cỏ trông như một chú Chewbacca xanh rì* *Vì búp cỏ rậm rạp đó khiến ta phê ngất ngưởng*</p>
 
 <p class="para-en">He took a drink of mai tai. “Yeah I dropped out. Fuck college. Not the learning part. Like, learning is great. Books are great. If I’d majored in English or psychology, instead of going to business school like my dad wanted…But see it’s like this: You go to college—”</p>
 
-<p class="para-vi-sub">Cái loại cỏ khiến ngươi phải run rẩy nếu dám phê một mình, yo…) Cậu nhấp một ngụm mai tai đầy phớt tỉnh. “Ừ, anh bỏ học rồi. Mẹ kiếp cái đại học. Nhưng không phải ở khía cạnh học hành đâu nhé. Ý anh là, học hỏi rất tuyệt. Sách vở cũng rất tuyệt. Giá mà anh theo học ngành Ngữ văn hay Tâm lý học, thay vì chui vào trường kinh doanh như bố anh muốn… Thế nhưng vấn đề nằm ở chỗ này: Cậu bước chân vào đại học…”</p>
+<p class="para-vi-sub">*Cái loại cỏ khiến ngươi phải run rẩy nếu dám phê một mình, yo…)* Cậu nhấp một ngụm mai tai đầy phớt tỉnh. “Ừ, anh bỏ học rồi. Mẹ kiếp cái đại học. Nhưng không phải ở khía cạnh học hành đâu nhé. Ý anh là, học hỏi rất tuyệt. Sách vở cũng rất tuyệt. Giá mà anh theo học ngành Ngữ văn hay Tâm lý học, thay vì chui vào trường kinh doanh như bố anh muốn… Thế nhưng vấn đề nằm ở chỗ này: Cậu bước chân vào đại học…”</p>
 
 <p class="para-en">“You pay a fuck load of money to go to college,” Bratty added.</p>
 
@@ -278,7 +278,7 @@
 
 <p class="para-en">“Right. A fuck ton of money. And you work hard, and you graduate, and then what? You go get your MBA or whatever the fuck. Then you get a job. And you work and ﻿you work, and then what? For what?”</p>
 
-<p class="para-vi-sub">“Chính xác. Cả một đống tiền chết tiệt. Rồi cậu cày như trâu, cậu tốt nghiệp, và rồi sao nữa? Cậu đi học tiếp lấy cái bằng MBA hay cái của nợ gì đó. Rồi cậu kiếm một công việc. Rồi cậu cày bục mặt. Để rồi rốt cuộc nhận lại cái gì?”</p>
+<p class="para-vi-sub">“Chính xác. *Cả một đống* tiền chết tiệt. Rồi cậu cày như trâu, cậu tốt nghiệp, và rồi sao nữa? Cậu đi học tiếp lấy cái bằng MBA hay cái của nợ gì đó. Rồi cậu kiếm một công việc. Rồi cậu cày bục mặt. Để rồi rốt cuộc nhận lại cái gì?”</p>
 
 <p class="para-en">“But everyone has to work,” said one of the hotties. “At least if you go to college, you can get a better job.”</p>
 
@@ -346,7 +346,7 @@
 
 <p class="para-en">Woof.</p>
 
-<p class="para-vi-sub">Gâu.</p>
+<p class="para-vi-sub">*Gâu.*</p>
 
 <p class="para-en">“But where did you come from?”</p>
 
@@ -362,7 +362,7 @@
 
 <p class="para-en">Woof.</p>
 
-<p class="para-vi-sub">Gâu.</p>
+<p class="para-vi-sub">*Gâu.*</p>
 
 <p class="para-en">He stood up. Pressed his hand against the glass. He half expected to phase through, as if the glass was porous, water.</p>
 
@@ -378,111 +378,91 @@
 
 <p class="para-en">Yo, this rap is for those</p>
 
-<p class="para-vi-sub">Yo, bài rap này dành tặng những kẻ</p>
+<p class="para-vi-sub">***Yo, bài rap này dành tặng những kẻ***</p>
 
 <p class="para-en">Who been sayin’ I can’t</p>
 
-<p class="para-vi-sub">Từng bảo rằng tao chẳng thể làm nên</p>
+<p class="para-vi-sub">***Từng bảo rằng tao chẳng thể làm nên***</p>
 
 <p class="para-en">Who been sayin’ go back</p>
 
-<p class="para-vi-sub">Bảo tao hãy quay đầu về</p>
+<p class="para-vi-sub">***Bảo tao hãy quay đầu về***</p>
 
 <p class="para-en">With empty hands because</p>
 
-<p class="para-vi-sub">Với hai bàn tay trắng trơn vì</p>
+<p class="para-vi-sub">***Với hai bàn tay trắng trơn vì***</p>
 
 <p class="para-en">Rappin’ ain’t a plan</p>
 
-<p class="para-vi-sub">Rap đâu phải là kế sinh nhai</p>
+<p class="para-vi-sub">***Rap đâu phải là kế sinh nhai***</p>
 
-<p class="para-en">That I should grow up</p>
+<p class="para-en">That I should grow up Get a job Be a man</p>
 
-<p class="para-vi-sub">Họ bảo tao nên khôn lớn trưởng thành</p>
-
-<p class="para-en">Get a job Be a man</p>
-
-<p class="para-vi-sub">Tìm lấy một việc làm ổn định</p>
+<p class="para-vi-sub">***Họ bảo tao nên khôn lớn trưởng thành***</p>
 
 <p class="para-en">That the point of life is to raise fake stacks</p>
 
-<p class="para-vi-sub">Sống cho ra dáng đàn ông Rằng mục đích đời này là chất đống tiền giả tạo</p>
+<p class="para-vi-sub">***Tìm lấy một việc làm ổn định***</p>
 
 <p class="para-en">But I don’t buy that</p>
 
-<p class="para-vi-sub">Nhưng tao đời nào thèm nuốt trôi</p>
+<p class="para-vi-sub">***Sống cho ra dáng đàn ông***</p>
 
-<p class="para-en">See, I gotta be me</p>
+<p class="para-en">See, I gotta be me Gotta follow my dream</p>
 
-<p class="para-vi-sub">Thấy chưa, tao phải là chính tao</p>
-
-<p class="para-en">Gotta follow my dream</p>
-
-<p class="para-vi-sub">Phải đuổi theo giấc mơ đời mình</p>
+<p class="para-vi-sub">***Rằng mục đích đời này là chất đống tiền giả tạo***</p>
 
 <p class="para-en">And cash don’t matter</p>
 
-<p class="para-vi-sub">Tiền bạc chẳng là cái thá gì</p>
+<p class="para-vi-sub">***Nhưng tao đời nào thèm nuốt trôi*** ***Thấy chưa, tao phải là chính tao*** ***Phải đuổi theo giấc mơ đời mình*** ***Tiền bạc chẳng là cái thá gì***</p>
 
 <p class="para-en">If I’m my own man</p>
 
-<p class="para-vi-sub">Khi tao tự làm chủ bản thân</p>
+<p class="para-vi-sub">***Khi tao tự làm chủ bản thân***</p>
 
 <p class="para-en">Gotta master fuckin’ plan</p>
 
-<p class="para-vi-sub">Tao nắm chắc một kế hoạch đỉnh cao</p>
+<p class="para-vi-sub">***Tao nắm chắc một kế hoạch đỉnh cao***</p>
 
 <p class="para-en">Gonna make more tracks,</p>
 
-<p class="para-vi-sub">Sẽ làm ra thêm nhiều bản nhạc,</p>
+<p class="para-vi-sub">***Sẽ làm ra thêm nhiều bản nhạc,***</p>
 
 <p class="para-en">Gonna sip ﻿Cognac</p>
 
-<p class="para-vi-sub">Sẽ nhâm nhi từng ngụm cognac</p>
+<p class="para-vi-sub">***Sẽ nhâm nhi từng ngụm cognac***</p>
 
 <p class="para-en">With my bro Bratty and the dog</p>
 
-<p class="para-vi-sub">Cùng thằng anh em Bratty và con chó</p>
+<p class="para-vi-sub">***Cùng thằng anh em Bratty và con chó***</p>
 
-<p class="para-en">Yo, we a wolf pack</p>
+<p class="para-en">Yo, we a wolf pack You wanna do blackjack</p>
 
-<p class="para-vi-sub">Yo, tụi tao là một bầy sói</p>
+<p class="para-vi-sub">***Yo, tụi tao là một bầy sói***</p>
 
-<p class="para-en">You wanna do blackjack</p>
+<p class="para-en">Well I don’t fold You wanna hit me</p>
 
-<p class="para-vi-sub">Mày muốn chơi trò xì dách xì lát</p>
+<p class="para-vi-sub">***Mày muốn chơi trò xì dách xì lát***</p>
 
-<p class="para-en">Well I don’t fold</p>
+<p class="para-en">I’ll hit back And I’m all in</p>
 
-<p class="para-vi-sub">Thì tao đây chẳng đời nào bỏ bài</p>
-
-<p class="para-en">You wanna hit me</p>
-
-<p class="para-vi-sub">Mày muốn ra đòn với tao</p>
-
-<p class="para-en">I’ll hit back</p>
-
-<p class="para-vi-sub">Tao sẽ đấm trả thẳng tay</p>
-
-<p class="para-en">And I’m all in</p>
-
-<p class="para-vi-sub">Và tao tất tay tới bến</p>
+<p class="para-vi-sub">***Thì tao đây chẳng đời nào bỏ bài***</p>
 
 <p class="para-en">When it comes to rap, ’cause see</p>
 
-<p class="para-vi-sub">Một khi đã chạm tới rap, bởi vì thấy không</p>
+<p class="para-vi-sub">***Mày muốn ra đòn với tao***</p>
 
 <p class="para-en">I’mma be the master of that</p>
 
-<p class="para-vi-sub">Tao sẽ làm bá chủ trò chơi ấy</p>
+<p class="para-vi-sub">***Tao sẽ đấm trả thẳng tay***</p>
 
 <p class="para-en">I’mma be the master of rap</p>
 
-<p class="para-vi-sub">Tao sẽ làm bậc thầy của rap</p>
+<p class="para-vi-sub">***Và tao tất tay tới bến***</p>
 
 <p class="para-en">Bratty could hear the rap in his head. He opened his laptop. He started making beats. He played with sounds and rhythms and the dog lounged beside him, head on his lap, and, yeah, he ate a gummy and raided the minibar and wondered what-in-the-holy-fuck was this all? His reflection was a phantom in the glass, a pair of eyes staring down at the specter of Vegas, where the gods had squatted over the desert and expelled a bazillion precious jewels, diamonds and glittering rubies and sapphires and gold and shit. It was awe-fucking-inspiring. It was strange as hell.</p>
 
-<p class="para-vi-sub">Bratty có thể nghe thấy đoạn rap ấy vang lên mồn một trong tâm trí. Anh mở máy tính xách tay, bắt đầu nhào nặn những đoạn beat. Anh lơ đãng nghịch ngợm vài thanh âm và tiết tấu, trong khi chú chó lười nhác nằm bên cạnh, bình thản gác cái đầu nặng trịch lên đùi anh. Thế rồi, ừ thì, anh thong thả nhai một viên kẹo dẻo cần sa, lục lọi quầy minibar và tự hỏi cái quái quỷ gì đang diễn ra ở đây. Hình bóng phản chiếu của anh trông chẳng khác nào một bóng ma lướt nhẹ trên kính, với đôi mắt thẫn thờ nhìn xuống khung cảnh Vegas tráng lệ ngoài cửa sổ (nơi người ta tưởng chừng các vị thần từng ngồi xổm giữa sa mạc rồi xả ra hàng tỷ hạt đá quý lấp lánh, từ kim cương, hồng ngọc, lam ngọc cho đến vàng bạc và mấy thứ của nợ linh tinh). Thật choáng ngợp chết tiệt. Và kỳ quặc đến phát điên.</p>
+<p class="para-vi-sub">***Một khi đã chạm tới rap, bởi vì thấy không*** ***Tao sẽ làm bá chủ trò chơi ấy*** ***Tao sẽ làm bậc thầy của rap*** Bratty có thể nghe thấy đoạn rap ấy vang lên mồn một trong tâm trí. Anh mở máy tính xách tay, bắt đầu nhào nặn những đoạn beat. Anh lơ đãng nghịch ngợm vài thanh âm và tiết tấu, trong khi chú chó lười nhác nằm bên cạnh, bình thản gác cái đầu nặng trịch lên đùi anh. Thế rồi, ừ thì, anh thong thả nhai một viên kẹo dẻo cần sa, lục lọi quầy minibar và tự hỏi cái quái quỷ gì đang diễn ra ở đây. Hình bóng phản chiếu của anh trông chẳng khác nào một bóng ma lướt nhẹ trên kính, với đôi mắt thẫn thờ nhìn xuống khung cảnh Vegas tráng lệ ngoài cửa sổ (nơi người ta tưởng chừng các vị thần từng ngồi xổm giữa sa mạc rồi xả ra hàng tỷ hạt đá quý lấp lánh, từ kim cương, hồng ngọc, lam ngọc cho đến vàng bạc và mấy thứ của nợ linh tinh). Thật choáng ngợp chết tiệt. Và kỳ quặc đến phát điên.</p>
 
 <p class="para-en">He got lost in the music.</p>
 

@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM STEPPED OUT into the chilly evening. Jack and the children were already outside. The children scoured the dormant grass for stray twigs. They ran past the yard, to where Ravenswood Drive dead-ended into forest, and hurled the twigs they’d gathered.</p>
 
-<p class="para-vi-sub">MIRIAM BƯỚC RA bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.</p>
+<p class="para-vi-sub">**MIRIAM BƯỚC RA** bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.</p>
 
 <p class="para-en">“Take that!” Rory yelled, at the trees.</p>
 
@@ -238,7 +238,7 @@
 
 <p class="para-en">Miriam stepped into the room. The air in the room was stale, almost musty. A layer of dust coated the dresser and headboard. There was a book on the bedside table, Escape Intensityville, also covered with dust. The bed was unmade, the blankets shoved into a mound at the corner. There was no sign of any dinosaur toy.</p>
 
-<p class="para-vi-sub">Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề Escape Intensityville, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.</p>
+<p class="para-vi-sub">Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề *Escape Intensityville*, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.</p>
 
 <p class="para-en">“I don’t see any dino.”</p>
 
@@ -286,7 +286,7 @@
 
 <p class="para-en">“Except you are keeping things together,” Holly said. “Me, on the other hand—last week, Chad went over to a friend’s house for a playdate, and I totally forgot to pick him up. It was like my mind had just blanked the whole thing out, like it didn’t exist. Until the other mom texted me and was like, ‘um, you were supposed to be here an hour ago.’ Fuck, it was so embarrassing. But—promise you won’t tell Kate.”</p>
 
-<p class="para-vi-sub">“Trừ việc cậu thực sự đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”</p>
+<p class="para-vi-sub">“Trừ việc cậu *thực sự* đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”</p>
 
 <p class="para-en">“I won’t. But I don’t think Kate would judge.”</p>
 
@@ -414,7 +414,7 @@
 
 <p class="para-en">“I know but this is important, Miriam. Jessica’s a partner and—”</p>
 
-<p class="para-vi-sub">“Anh biết chứ, nhưng chuyện này thực sự rất quan trọng, Miriam à. Jessica là luật sư cấp cao, và…”</p>
+<p class="para-vi-sub">“Anh biết chứ, nhưng chuyện này *thực sự rất quan trọng*, Miriam à. Jessica là luật sư cấp cao, và…”</p>
 
 <p class="para-en">Miriam stood up. She tossed back the rest of her cocktail. God she wanted a cigarette, so she could snuff it out on her husband’s typing fingers.</p>
 

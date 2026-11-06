@@ -1,8 +1,8 @@
 # HỒI TƯỞNG
 
-MIRIAM + JACK
+**MIRIAM + JACK**
 
-VÀO MỘT BUỔI TỐI ẤM ÁP tháng Mười của mười năm về trước, có một người đàn ông đang ngồi trong xe hơi chờ đèn đỏ. Đài phát thanh xập xình phát nhạc của nhóm Led Zeppelin. Anh gõ nhịp ngón tay lên vô lăng, thong thả tính chuyện mình sẽ làm khi về đến căn hộ: khui vài lon bia, bật một bộ phim rồi lăn ra ngủ thiếp đi trên ghế sô pha.
+**VÀO MỘT BUỔI TỐI ẤM ÁP** tháng Mười của mười năm về trước, có một người đàn ông đang ngồi trong xe hơi chờ đèn đỏ. Đài phát thanh xập xình phát nhạc của nhóm Led Zeppelin. Anh gõ nhịp ngón tay lên vô lăng, thong thả tính chuyện mình sẽ làm khi về đến căn hộ: khui vài lon bia, bật một bộ phim rồi lăn ra ngủ thiếp đi trên ghế sô pha.
 
 Trong lúc chờ đợi, một người phụ nữ đạp xe trôi dạt lại gần. Đó là người phụ nữ đẹp nhất anh từng thấy trên đời (ít nhất là theo lời anh vẫn khăng khăng khẳng định mỗi khi kể lại chuyện này về sau).
 
@@ -68,7 +68,7 @@ Và qua lăng kính hoài niệm, thật khó mà phân định liệu tia lửa
 
 Khung cảnh chuyển dịch. Họ vẫn ở bên trong chiếc bong bóng ấy, chỉ là giờ đây nó đang bồng bềnh trôi giữa một quán bar, bao bọc lấy chiếc bàn nhỏ trong góc với hai chiếc ly rỗng, hai chiếc ly đầy, cùng hai đôi chân đang chạm vào nhau dưới gầm bàn.
 
-“Bọn mình cọ chân nhau dưới gầm bàn,” về sau mỗi khi kể lại câu chuyện, cô đều tặc lưỡi bảo thế. Nghe thì có vẻ sáo rỗng như một trò đùa, nhưng thực sự giữa họ có một sức hút vô hình đầy ma lực. Chỉ đơn giản là các ngón chân của hai người đã tìm thấy nhau trước tiên mà thôi.
+*“Bọn mình cọ chân nhau dưới gầm bàn,”* về sau mỗi khi kể lại câu chuyện, cô đều tặc lưỡi bảo thế. Nghe thì có vẻ sáo rỗng như một trò đùa, nhưng thực sự giữa họ có một sức hút vô hình đầy ma lực. Chỉ đơn giản là các ngón chân của hai người đã tìm thấy nhau trước tiên mà thôi.
 
 “Anh làm nghề gì thế, Jack?” cô hỏi, rồi lại xua tay thở dài, “Ôi, em ghét cái câu hỏi này ghê.”
 
@@ -80,7 +80,7 @@ Khung cảnh chuyển dịch. Họ vẫn ở bên trong chiếc bong bóng ấy,
 
 Cô bật cười: “Thám tử kiểu gì cơ?”
 
-“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh Peregrine chẳng hạn. Anh mặc áo vest, đội mũ fedora, dắt súng sau thắt lưng và phì phèo thuốc lá trong văn phòng. Thân chủ của anh toàn những kẻ nhếch nhác, nguy hiểm hoặc cực kỳ quyến rũ. Thỉnh thoảng anh còn tham gia đấu súng nữa.”
+“Thám tử cổ điển. Kiểu như trong mấy cuốn tiểu thuyết tội phạm những năm 1940 ấy. Hoặc như trong bộ phim điện ảnh *Peregrine* chẳng hạn. Anh mặc áo vest, đội mũ fedora, dắt súng sau thắt lưng và phì phèo thuốc lá trong văn phòng. Thân chủ của anh toàn những kẻ nhếch nhác, nguy hiểm hoặc cực kỳ quyến rũ. Thỉnh thoảng anh còn tham gia đấu súng nữa.”
 
 “Nghe cứ như tiểu thuyết viễn tưởng ấy,” cô tủm tỉm. “Anh hoàn toàn có thể tự nhận mình là cao bồi, diễn viên xiếc, hoặc một rapper chuyên nghiệp cơ mà.”
 
@@ -102,5 +102,4 @@ Cô cười, anh cũng cười theo, nhưng sâu trong đáy mắt anh thoáng g
 
 “Thực ra,” anh hắng giọng, “anh đang tính thi vào trường luật.”
 
-“Ồ? Nghe hợp lý đấy. Dù sao thì luật sư nghe cũng là một vỏ bọc ngụy trang xịn xò hơn nhân viên pha chế cho bản ngã thám tử đích thực của anh đấy.”
-
+“Ồ? Nghe hợp lý đấy. Dù sao thì *luật sư* nghe cũng là một vỏ bọc ngụy trang xịn xò hơn nhân viên pha chế cho bản ngã thám tử đích thực của anh đấy.”

@@ -1,6 +1,6 @@
 # VÁN TRƯỢT
 
-ĐOẠN VIDEO quay cảnh con dê thoắt ẩn thoắt hiện vừa tung lên mạng, thế là lũ người quái gở liền lũ lượt kéo ra. Hòm thư điện tử của thám tử Jack Shipley ngập chìm trong hàng tá thuyết âm mưu, vô số lời rủ rê từ các giáo phái kỳ bí, lời mời tham gia Trại huấn luyện Deepfake hay gia nhập Lực lượng Dân quân Giải phóng Khỏi Vật lý, thậm chí là kêu gọi hiến máu cho dự án Quần chắp vá định hình thực tại. Thứ trang phục sau khi gọi vốn cộng đồng sẽ được bán với giá 1.299,99 đô la một chiếc, kèm lời cam kết chắc nịch rằng sẽ bảo vệ người mặc khỏi hiện tượng phân rã dưới nguyên tử tự phát. Đó là còn chưa kể hàng ngàn thư điện tử dồn dập hỏi han về sự biến mất của Mr. Yay.
+**ĐOẠN VIDEO** quay cảnh con dê thoắt ẩn thoắt hiện vừa tung lên mạng, thế là lũ người quái gở liền lũ lượt kéo ra. Hòm thư điện tử của thám tử Jack Shipley ngập chìm trong hàng tá thuyết âm mưu, vô số lời rủ rê từ các giáo phái kỳ bí, lời mời tham gia Trại huấn luyện Deepfake hay gia nhập Lực lượng Dân quân Giải phóng Khỏi Vật lý, thậm chí là kêu gọi hiến máu cho dự án Quần chắp vá định hình thực tại. Thứ trang phục sau khi gọi vốn cộng đồng sẽ được bán với giá 1.299,99 đô la một chiếc, kèm lời cam kết chắc nịch rằng sẽ bảo vệ người mặc khỏi hiện tượng phân rã dưới nguyên tử tự phát. Đó là còn chưa kể hàng ngàn thư điện tử dồn dập hỏi han về sự biến mất của Mr. Yay.
 
 “Em có biết từng có cả một phần phim hoạt hình ngoại truyện không?” Jack hỏi trong lúc lướt nhanh qua các hòm thư. Anh ngồi trên sàn hiên gỗ, ngay cạnh chiếc võng với chiếc máy tính xách tay mở sẵn, xung quanh rải rác những tấm thẻ ghi chú phá án chằng chịt dấu chấm hỏi.
 
@@ -38,7 +38,7 @@
 
 “Chẳng phải ai cũng nói thế à?”
 
-“Phải, nhưng gã này là một nhà vật lý thiên văn. Gã có bằng tiến sĩ hẳn hoi. Và tên gã là SherLok Ohms.”
+“Phải, nhưng *gã này* là một nhà vật lý thiên văn. Gã có bằng tiến sĩ hẳn hoi. Và tên gã là *SherLok Ohms*.”
 
 “Được rồi, nhưng đó là tên giả, đúng không?”
 
@@ -74,7 +74,7 @@ Nhưng cô vẫn nắm lấy tay Jack, để anh kéo mình đứng dậy. Họ 
 
 “Anh chịu, chẳng biết tí gì.”
 
-“Có khi chúng ta nên…” cố ngăn họ lại, Miriam thầm nghĩ. Nhưng đã quá muộn rồi.
+“Có khi chúng ta nên…” *cố ngăn họ lại*, Miriam thầm nghĩ. Nhưng đã quá muộn rồi.
 
 Tom và Fred cụng tay nhau một cái đầy khí thế. Họ nhảy lên ván trượt, bắt đầu đạp chân lấy đà.
 
@@ -102,5 +102,4 @@ Cô guồng chân đuổi theo anh dọc con phố, vừa chạy vừa gào thé
 
 Giờ đây Miriam đã có thể nhìn rõ gương mặt anh: ánh mắt lóe lên tia sáng cuồng tín, vệt nước bọt kéo thành sợi nơi khóe miệng, cùng hai hàm răng nghiến chặt để chịu đựng áp lực tốc độ. Anh đang tiến gần đến chân dốc, nơi con đường kết thúc ở một ngõ cụt. Đó chính là vạch đích.
 
-Anh đã thắng! Tom toe toét cười rồi giơ hai tay lên trời đầy đắc thắng. Mỗi tội, anh lại chẳng biết làm cách nào để giảm tốc. Anh duỗi chân ra (một nỗ lực vụng về nhằm chà đế giày xuống mặt đường), song điều đó chẳng giúp anh hãm lại chút nào mà chỉ khiến anh mất thăng bằng. Anh cố bẻ lái rẽ vào lối dẫn xe vào nhà, nhưng rốt cuộc chiếc ván trượt lại đâm sầm vào gờ vỉa hè rồi khựng lại. Còn Tom thì vẫn tiếp tục lao đi. Anh bay vút lên không trung, hai tay dang rộng về phía trước hệt như một chiếc phi thuyền tên lửa đơn độc. Rồi anh rơi tự do. Kèm theo một tiếng rắc rợn người, xương cốt anh vỡ vụn ngay khi va chạm với mặt đất. Anh cất lên một tiếng thét duy nhất xé toạc không gian, để rồi sau đó chìm vào sự im lặng đến đáng sợ. Giờ đây chỉ còn lại những âm thanh dịu nhẹ của không gian: tiếng chim hót trên cành, tiếng gió rì rào, và tiếng gào khóc từ xa của Holly - người vợ vừa tận mắt chứng kiến một biến thể méo mó bước ra từ cơn ác mộng kinh hoàng và dai dẳng nhất đời mình.
-
+Anh đã thắng! Tom toe toét cười rồi giơ hai tay lên trời đầy đắc thắng. Mỗi tội, anh lại chẳng biết làm cách nào để giảm tốc. Anh duỗi chân ra (một nỗ lực vụng về nhằm chà đế giày xuống mặt đường), song điều đó chẳng giúp anh hãm lại chút nào mà chỉ khiến anh mất thăng bằng. Anh cố bẻ lái rẽ vào lối dẫn xe vào nhà, nhưng rốt cuộc chiếc ván trượt lại đâm sầm vào gờ vỉa hè rồi khựng lại. Còn Tom thì vẫn tiếp tục lao đi. Anh bay vút lên không trung, hai tay dang rộng về phía trước hệt như một chiếc phi thuyền tên lửa đơn độc. Rồi anh rơi tự do. Kèm theo một tiếng *rắc* rợn người, xương cốt anh vỡ vụn ngay khi va chạm với mặt đất. Anh cất lên một tiếng thét duy nhất xé toạc không gian, để rồi sau đó chìm vào sự im lặng đến đáng sợ. Giờ đây chỉ còn lại những âm thanh dịu nhẹ của không gian: tiếng chim hót trên cành, tiếng gió rì rào, và tiếng gào khóc từ xa của Holly - người vợ vừa tận mắt chứng kiến một biến thể méo mó bước ra từ cơn ác mộng kinh hoàng và dai dẳng nhất đời mình.

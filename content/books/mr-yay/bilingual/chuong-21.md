@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM RAN INTO HOLLY in the morning, at the Value Valley.</p>
 
-<p class="para-vi-sub">MIRIAM TÌNH CỜ GẶP HOLLY vào một buổi sáng tại siêu thị Value Valley.</p>
+<p class="para-vi-sub">**MIRIAM TÌNH CỜ GẶP HOLLY** vào một buổi sáng tại siêu thị Value Valley.</p>
 
 <p class="para-en">“I’m sick of grocery shopping,” Holly said. She had two cases of wine in her cart, a bottle of vodka, and a twelve pack of Blue Lagoon. “And cooking. Come over tonight. We’ll order pizza.”</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">“Oh, he’s fine. He’s fine!” Holly said. But her mouth quivered, and a small tear welled up at the corner of her eye. “This is why I told him—why I told him and Tom—no skateboarding. I mean, can you even imagine Chad on a skateboard? Tom bought him one, you know. Last year, when I was on a business trip. But I made him get rid of it as soon as I found out. Chad was so pissed.” Holly shook her head. She inhaled sharply. “Anyway, I swear these holes have gotten bigger since yesterday. I think Chad’s been picking at the plaster. I just know I’m going to find a pile of plaster hidden in his sock drawer or something.”</p>
 
-<p class="para-vi-sub">“Ồ, nó hoàn toàn bình an vô sự!” Holly nói, dù khóe miệng cô khẽ giật giật và một giọt nước mắt rơm rớm nơi khóe mi. “Bởi vậy tớ mới phải dặn nó, dặn cả nó lẫn anh Tom, là tuyệt đối cấm chạm vào trượt ván. Ý tớ là, cậu có hình dung nổi cảnh nhóc Chad đứng trên một chiếc trượt ván không? Tom mua cho nó một cái đấy. Hồi năm ngoái, lúc tớ đi công tác. Nhưng ngay khi phát hiện ra, tớ bắt anh ấy tống khứ nó đi ngay lập tức. Chad đã giận điên lên.” Holly lắc đầu, hít một hơi sâu. “Dù sao thì, tớ thề là mấy cái lỗ này hôm nay to hơn hôm qua. Cá là thằng Chad lại lén cạy vữa ra. Kiểu gì tớ cũng sẽ tìm thấy một đống vữa vụn giấu trong ngăn kéo đựng tất của nó cho mà xem.”</p>
+<p class="para-vi-sub">“Ồ, nó hoàn toàn bình an vô sự!” Holly nói, dù khóe miệng cô khẽ giật giật và một giọt nước mắt rơm rớm nơi khóe mi. “Bởi vậy tớ mới phải dặn nó, dặn cả nó *lẫn* anh Tom, là tuyệt đối cấm chạm vào trượt ván. Ý tớ là, cậu có hình dung nổi cảnh nhóc Chad đứng trên một chiếc trượt ván không? Tom mua cho nó một cái đấy. Hồi năm ngoái, lúc tớ đi công tác. Nhưng ngay khi phát hiện ra, tớ bắt anh ấy tống khứ nó đi ngay lập tức. Chad đã giận *điên* lên.” Holly lắc đầu, hít một hơi sâu. “Dù sao thì, tớ thề là mấy cái lỗ này hôm nay to hơn hôm qua. Cá là thằng Chad lại lén cạy vữa ra. Kiểu gì tớ cũng sẽ tìm thấy một đống vữa vụn giấu trong ngăn kéo đựng tất của nó cho mà xem.”</p>
 
 <p class="para-en">Holly finished her glass of wine. She poured herself another. Upstairs, three kids stampeded across the floor.</p>
 
@@ -194,5 +194,5 @@
 
 <p class="para-en">And it all fit. The late nights at work. The sexlessness of their marriage. The way Jack breezed past her. The strange scent on his coat. Roxster’s reaction. The way he said the other woman’s name—Jessica—as if he could taste her.</p>
 
-<p class="para-vi-sub">Mọi manh mối lập tức khớp khăng khăng. Những đêm làm việc muộn bất thường. Cuộc hôn nhân nguội lạnh không tình dục. Cái cách Jack lướt qua cô như một bóng ma. Mùi hương lạ trên áo khoác của anh. Phản ứng dị thường của chú chó Roxster. Và cái cách anh thốt lên cái tên của người phụ nữ ấy, Jessica, ngọt ngào như thể anh đang nhấm nháp cô ta trên đầu lưỡi.</p>
+<p class="para-vi-sub">Mọi manh mối lập tức khớp khăng khăng. Những đêm làm việc muộn bất thường. Cuộc hôn nhân nguội lạnh không tình dục. Cái cách Jack lướt qua cô như một bóng ma. Mùi hương lạ trên áo khoác của anh. Phản ứng dị thường của chú chó Roxster. Và cái cách anh thốt lên cái tên của người phụ nữ ấy, *Jessica*, ngọt ngào như thể anh đang nhấm nháp cô ta trên đầu lưỡi.</p>
 

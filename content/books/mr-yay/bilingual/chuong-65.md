@@ -1,8 +1,8 @@
-# THÁNG SÁU - CHƠI GOLF TRÊN PHỐ
+# THÁNG SÁU
 
 <p class="para-en">IF TOM HAD NOT thrust his leg out, if he had not tried to catch the road with his foot, and lost balance, and swerved into that driveway, soared over cement, and crashed into the neighbor’s front lawn, if he had sailed straight, he would have flown headfirst into a grove of trees. He would have knocked himself instantly unconscious, a blessing, because he wouldn’t have heard his neck break or felt himself die.</p>
 
-<p class="para-vi-sub">NẾU TOM KHÔNG thò chân ra, nếu anh không cố dùng bàn chân quệt xuống mặt đường rồi mất thăng bằng, quặt gấp vào lối dẫn vào nhà xe, bay vút qua khoảng sân xi măng rồi đâm sầm xuống bãi cỏ nhà hàng xóm, thì hẳn anh đã cắm thẳng đầu vào rặng cây đằng kia. Cú va chạm đó sẽ khiến anh ngất lịm ngay lập tức (âu cũng là một diễm phúc), bởi anh sẽ chẳng kịp nghe thấy tiếng cổ mình gãy rắc hay cảm nhận cái chết đang cận kề.</p>
+<p class="para-vi-sub">**NẾU TOM KHÔNG** thò chân ra, nếu anh không cố dùng bàn chân quệt xuống mặt đường rồi mất thăng bằng, quặt gấp vào lối dẫn vào nhà xe, bay vút qua khoảng sân xi măng rồi đâm sầm xuống bãi cỏ nhà hàng xóm, thì hẳn anh đã cắm thẳng đầu vào rặng cây đằng kia. Cú va chạm đó sẽ khiến anh ngất lịm ngay lập tức (âu cũng là một diễm phúc), bởi anh sẽ chẳng kịp nghe thấy tiếng cổ mình gãy rắc hay cảm nhận cái chết đang cận kề.</p>
 
 <p class="para-en">He would be in the ground, instead of at the hospital, with two broken arms, a broken nose, and assorted other broken parts, including the wife part.</p>
 
@@ -74,7 +74,7 @@
 
 <p class="para-en">“What?” Holly yelled. She swung her golf club around. “What do I have to do? Because you know what? I’m tired of that, that, that stupid, unfair, unjust setup. Where Tom gets to be Tom. Hooray for Tom! Everyone, let’s have a parade to celebrate my husband, Tom Waters, who gets to embrace his true self! Because that’s what matters, right? Find your true self, follow your dreams, blah blah blah blah. Good for fucking Tom! Great for Tom! Because there is no cost, to Tom. Oh no, he gets to have his fun and follow his dreams, because I’m here to pick up the fucking pieces when they shatter. Tom gets to go skydiving because Holly is there to deal with soccer practice. Tom gets to break his arms because Holly is there to cook and clean and wipe his ass. Tom had money for a motorcycle because Holly saved money by doing things herself. Like cutting everyone’s hair. Do you know who cuts my hair? Me! I’m the family barber!”</p>
 
-<p class="para-vi-sub">“Phải cái gì?” Holly gào lên. Cô vung tít cây gậy golf trong tay. “Tớ phải làm gì cơ chứ? Vì các cậu biết gì không? Tớ phát ốm với cái mớ sắp đặt ngớ ngẩn, bất công và vô lý đùng đùng này rồi! Nơi Tom cứ việc là chính Tom. Hoan hô Tom vĩ đại! Nào mọi người ơi, hãy tổ chức diễu hành để tung hô chồng tớ đi, ngài Tom Waters, người được sống thật với bản ngã của mình! Bởi vì đó mới là điều quan trọng nhất trần đời, đúng không? Đi tìm bản ngã đích thực, theo đuổi ước mơ của bạn, vân vân và mây mây. Tốt cho thằng cha Tom quá nhỉ! Tuyệt vời cho Tom làm sao! Bởi vì Tom có phải trả cái giá nào đâu. Ồ không, anh ấy cứ việc tận hưởng niềm vui và theo đuổi đam mê của mình, bởi vì đã có tớ ở đây dọn dẹp cái đống tàn cuộc mỗi khi mọi thứ vỡ vụn. Tom được đi nhảy dù vì đã có Holly ở nhà lo đưa đón con đi tập bóng đá. Tom cứ việc gãy tay gãy chân vì đã có Holly ở đây nấu nướng, dọn dẹp và hầu hạ anh ấy! Tom có tiền mua xe mô tô phân khối lớn vì Holly đã chắt bóp từng đồng bằng cách tự tay làm lấy mọi thứ. Như việc tự cắt tóc cho cả nhà chẳng hạn. Các cậu có biết ai cắt tóc cho tớ không? Chính tớ đấy! Tớ là thợ cắt tóc của cái nhà này!”</p>
+<p class="para-vi-sub">*“Phải cái gì?”* Holly gào lên. Cô vung tít cây gậy golf trong tay. “Tớ *phải làm gì* cơ chứ? Vì các cậu biết gì không? Tớ phát ốm với cái mớ sắp đặt ngớ ngẩn, bất công và vô lý đùng đùng này rồi! Nơi Tom cứ việc là chính Tom. Hoan hô Tom vĩ đại! Nào mọi người ơi, hãy tổ chức diễu hành để tung hô chồng tớ đi, ngài Tom Waters, người được sống thật với bản ngã của mình! Bởi vì đó mới là điều quan trọng nhất trần đời, đúng không? Đi tìm bản ngã đích thực, theo đuổi ước mơ của bạn, vân vân và mây mây. Tốt cho thằng cha Tom quá nhỉ! Tuyệt vời cho Tom làm sao! Bởi vì Tom có phải trả cái giá nào đâu. Ồ không, anh ấy cứ việc tận hưởng niềm vui và theo đuổi đam mê của mình, bởi vì đã có tớ ở đây dọn dẹp cái đống tàn cuộc mỗi khi mọi thứ vỡ vụn. Tom được đi nhảy dù vì đã có Holly ở nhà lo đưa đón con đi tập bóng đá. Tom cứ việc gãy tay gãy chân vì đã có Holly ở đây nấu nướng, dọn dẹp và hầu hạ anh ấy! Tom có tiền mua xe mô tô phân khối lớn vì Holly đã chắt bóp từng đồng bằng cách tự tay làm lấy mọi thứ. Như việc tự cắt tóc cho cả nhà chẳng hạn. Các cậu có biết ai cắt tóc cho tớ không? Chính tớ đấy! Tớ là thợ cắt tóc của cái nhà này!”</p>
 
 <p class="para-en">Holly had been wearing her wig, but she yanked it off and tossed it in the street. Her hair underneath had grown out into a pixie cut, dyed bleach blond.</p>
 
@@ -82,7 +82,7 @@
 
 <p class="para-en">“I’m the barber. I’m the cleaning lady. I’m the gardener, the cook, the organizer, the chauffeur, in addition to my fucking day job. And now I get to be the official ass wiper, the sponge bather, the bitch who cuts that lasagna into bites and flies the little airplane into my husband’s mouth because he just really wanted to embrace his true self. Fuck!”</p>
 
-<p class="para-vi-sub">“Tôi vừa là thợ cắt tóc, vừa là lao công dọn dẹp. Tôi là người làm vườn, đầu bếp, người lên kế hoạch, tài xế lái xe, bên cạnh công việc chết tiệt ban ngày của tôi. Thế rồi giờ đây tôi được vinh dự làm kẻ chùi đít chính thức, bên lau người bằng bọt biển, con khốn phải cắt từng miếng lasagna nhỏ xíu rồi lượn máy bay vù vù đút vào miệng chồng, chỉ vì anh ta sống chết muốn được sống thật với bản ngã của mình. Mẹ kiếp!”</p>
+<p class="para-vi-sub">“Tôi vừa là thợ cắt tóc, vừa là lao công dọn dẹp. Tôi là người làm vườn, đầu bếp, người lên kế hoạch, tài xế lái xe, bên cạnh công việc chết tiệt ban ngày của tôi. Thế rồi giờ đây tôi được vinh dự làm kẻ chùi đít chính thức, bên lau người bằng bọt biển, con khốn phải cắt từng miếng lasagna nhỏ xíu rồi lượn máy bay vù vù đút vào miệng chồng, chỉ vì anh ta sống chết muốn được sống thật với bản ngã của mình. *Mẹ kiếp!*”</p>
 
 <p class="para-en">A tear slipped from Holly’s eye, and it seemed to piss her off. She grabbed the wheelbarrow handles, yanked them sideways, and dumped the entire stockpile of golf balls onto the lawn.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">“That you grew.”</p>
 
-<p class="para-vi-sub">“Mà là do cậu trồng.”</p>
+<p class="para-vi-sub">“Mà là do *cậu* trồng.”</p>
 
 <p class="para-en">“But Fred is—I mean, he takes the kids to school, and he feeds the goat, and—”</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">“And he’s perfect, right? But which one of you gets to do yoga all day, and which one of you works a corporate job that you despise? Kate? And you—” Holly turned to Miriam. “You get to work and cover all the bills, but Jack gets to quit his job so that he can pursue his dream of being a detective.”</p>
 
-<p class="para-vi-sub">“Và anh ấy thật hoàn hảo, đúng không? Nhưng ai trong hai người được thong thả tập yoga suốt ngày, còn ai phải nai lưng gánh công việc văn phòng mà cậu căm ghét tột cùng? Hả, Kate? Còn cậu nữa…” Holly chĩa gậy sang Miriam. “Cậu phải đi làm để thanh toán đủ loại hóa đơn, trong khi Jack nghiễm nhiên bỏ việc để chạy theo giấc mơ làm thám tử tư!”</p>
+<p class="para-vi-sub">“Và anh ấy thật hoàn hảo, đúng không? Nhưng ai trong hai người được thong thả tập yoga suốt ngày, còn ai phải nai lưng gánh công việc văn phòng mà *cậu căm ghét tột cùng*? Hả, Kate? Còn cậu nữa…” Holly chĩa gậy sang Miriam. “Cậu phải đi làm để thanh toán đủ loại hóa đơn, trong khi Jack nghiễm nhiên bỏ việc để chạy theo giấc mơ làm thám tử tư!”</p>
 
 <p class="para-en">“Well he did work really hard for a long time,” Miriam said, suddenly defensive of her husband and his workaholism.</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">“Because that was what he wanted! But what about what you want? What do you want, Miriam? Kate? What the fuck do you want?”</p>
 
-<p class="para-vi-sub">“Bởi vì đó là điều anh ta muốn! Nhưng còn điều cậu muốn thì sao? Cậu muốn cái gì hả, Miriam? Còn Kate? Rốt cuộc các cậu muốn cái quái gì hả?”</p>
+<p class="para-vi-sub">“Bởi vì đó là điều *anh ta* muốn! Nhưng còn điều *cậu* muốn thì sao? Cậu muốn cái gì hả, Miriam? Còn Kate? Rốt cuộc các cậu muốn cái quái gì hả?”</p>
 
 <p class="para-en">Holly stared at them, and they stared back, at her, at each other, each struck by this articulation of a truth they’d all known but had never faced, not consciously. There’d been no time. Between the soccer practices and school drop-offs, the homework, the doctor visits, vet visits, dentist﻿ visits, holiday shopping, shoes that grew too small overnight, beloved plushies with torn ears that required emergency surgery by Doctor Mom, because Dad had never learned to sew, between dishes and laundry and cooking and planning and husbands, good reliable men who just needed to feel supported, challenged, essential, but who, above all, needed—and felt entitled—to ﻿fulfill their needs, there was no time for their wives to question what they wanted. There was only time to suppress and react. With drinking, with cigarettes, with a kombucha-brewing spree and a bulldozer to the front yard. With a golf club.</p>
 

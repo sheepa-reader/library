@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM SCHEDULED AN APPOINTMENT with a marriage counselor for four thirty p.m. on a Tuesday. Jack would meet her there, he promised. He would drive straight from work.</p>
 
-<p class="para-vi-sub">MIRIAM ĐÃ HẸN TRƯỚC với một chuyên viên tư vấn hôn nhân vào lúc bốn giờ ba mươi chiều ngày thứ Ba. Jack hứa sẽ gặp cô ở đó. Anh bảo mình sẽ lái xe thẳng từ chỗ làm sang.</p>
+<p class="para-vi-sub">**MIRIAM ĐÃ HẸN TRƯỚC** với một chuyên viên tư vấn hôn nhân vào lúc bốn giờ ba mươi chiều ngày thứ Ba. Jack hứa sẽ gặp cô ở đó. Anh bảo mình sẽ lái xe thẳng từ chỗ làm sang.</p>
 
 <p class="para-en">She left early for the appointment. She thought she knew where she was going, at least the general vicinity. And she had GPS to direct her.</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en">When I say moms, open your legs,</p>
 
-<p class="para-vi-sub">Yo! Khoan đã, cái quái gì thế này?</p>
+<p class="para-vi-sub">Yo! *Khoan đã, cái quái gì thế này?*</p>
 
 <p class="para-en">And I’ll lick— Wait, what? Could they say that on the radio? Didn’t the radio censor cunnilingus-talk?</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">She pulled over and took out her phone to consult GPS. No Service, the phone told her. She drove a little farther, and then pulled over and checked again. No Service. Which made no sense here, in the middle of the city. She turned the car off and got out. She would have to figure it out the old-fashioned way, with maps and street signs.</p>
 
-<p class="para-vi-sub">Cô tấp xe vào lề rồi rút điện thoại ra kiểm tra định vị. Không có dịch vụ, chiếc điện thoại thông báo. Cô nhẫn nại lái thêm một đoạn ngắn nữa, tấp xe vào lề và kiểm tra lại lần nữa. Không có dịch vụ. Mọi chuyện thật quá đỗi phi lý, nhất là khi nó đang xảy ra ngay giữa lòng thành phố. Miriam tắt máy xe rồi bước ra ngoài. Có lẽ cô phải tự tìm đường theo phương cách cổ điển thôi: trông chờ vào bản đồ giấy và các biển báo đường phố.</p>
+<p class="para-vi-sub">Cô tấp xe vào lề rồi rút điện thoại ra kiểm tra định vị. *Không có dịch vụ*, chiếc điện thoại thông báo. Cô nhẫn nại lái thêm một đoạn ngắn nữa, tấp xe vào lề và kiểm tra lại lần nữa. *Không có dịch vụ.* Mọi chuyện thật quá đỗi phi lý, nhất là khi nó đang xảy ra ngay giữa lòng thành phố. Miriam tắt máy xe rồi bước ra ngoài. Có lẽ cô phải tự tìm đường theo phương cách cổ điển thôi: trông chờ vào bản đồ giấy và các biển báo đường phố.</p>
 
 <p class="para-en">She walked until she reached an intersection. The side street had no street sign, only an empty post where the sign had been. She looked around, for a gas station, a restaurant, some place with people who could tell her where exactly she was. She saw a café, breakfast until two p.m. and closed for the day, a row of empty storefronts, and one storefront with a sign that said PSYCHIC—MYSTIC—FORTUNE-TELLING in swirly orange letters above the door.</p>
 
@@ -166,7 +166,7 @@
 
 <p class="para-en">“Wait a second.” The woman stepped closer to Miriam. She stared, squinty-eyed. “You’re tellin’ me you’re not here for a palm reading?”</p>
 
-<p class="para-vi-sub">“Khoan đã nào.” Người phụ nữ tiến lại gần Miriam hơn, nheo mắt nhìn cô chằm chằm. “Ý cô là cô không đến đây để xem chỉ tay đấy hả?”</p>
+<p class="para-vi-sub">“Khoan đã nào.” Người phụ nữ tiến lại gần Miriam hơn, nheo mắt nhìn cô chằm chằm. “Ý cô là cô *không* đến đây để xem chỉ tay đấy hả?”</p>
 
 <p class="para-en">“Um, no. Yes. I mean, I don’t need my palm read.”</p>
 
@@ -242,11 +242,11 @@
 
 <p class="para-en">This was not the answer Miriam expected. Psychics were supposed to offer vague predictions that might prove true for anyone. Psychics weren’t actually psychic, in the rational scientific world. They were new-age therapists with more crystals and fewer advanced degrees. They were humans who needed paychecks and wouldn’t imperil their credibility with doomsayer declarations of the end of a marriage.</p>
 
-<p class="para-vi-sub">Đây tuyệt đối không phải câu trả lời Miriam mong đợi. Đáng lẽ các nhà ngoại cảm phải phán mấy lời mơ hồ, kiểu nói trúng ai cũng được (bởi suy cho cùng, sự nước đôi luôn là lớp bảo hiểm an toàn nhất trần đời). Trong thế giới duy lý của khoa học, các nhà ngoại cảm đâu có thực sự sở hữu năng lực tâm linh. Họ chẳng qua chỉ là những chuyên viên trị liệu thời đại mới với nhiều đá thạch anh hơn và ít bằng cấp hơn mà thôi. Họ cũng là con người cần kiếm tiền nuôi miệng, và chẳng ai dại gì liều mạng đánh đổi uy tín làm ăn bằng những lời tuyên bố gở miệng về sự chấm dứt của một cuộc hôn nhân.</p>
+<p class="para-vi-sub">Đây tuyệt đối không phải câu trả lời Miriam mong đợi. Đáng lẽ các nhà ngoại cảm phải phán mấy lời mơ hồ, kiểu nói trúng ai cũng được (bởi suy cho cùng, sự nước đôi luôn là lớp bảo hiểm an toàn nhất trần đời). Trong thế giới duy lý của khoa học, các nhà ngoại cảm đâu có *thực sự* sở hữu năng lực tâm linh. Họ chẳng qua chỉ là những chuyên viên trị liệu thời đại mới với nhiều đá thạch anh hơn và ít bằng cấp hơn mà thôi. Họ cũng là con người cần kiếm tiền nuôi miệng, và chẳng ai dại gì liều mạng đánh đổi uy tín làm ăn bằng những lời tuyên bố gở miệng về sự chấm dứt của một cuộc hôn nhân.</p>
 
 <p class="para-en">Also, the psychic was just wrong. Sorry. But no, her marriage had to continue because she had promised herself she would never get divorced. She made the promise at age twelve, over Christmas. Miriam and her mother opened gifts wrapped in paper saved from the last Christmas. They strung tinsel and popcorn around a tabletop tree. They ate leftover cookies salvaged from her mom’s office party. Then Miriam’s dad picked her up. His new wife waited in the car. Was it Vicki? Margie? Laurie? Ruby? Jennifer? Lynn? Miriam couldn’t recall. The new wife gave Miriam a present: a stuffed dog wearing a ship captain’s hat. Captain Barksford, the German shepherd version. Miriam rolled her eyes. Did the new wife think Miriam was five years old? She sulkily slipped the stuffed dog into a plastic bag and buried it in the garbage. But later, she imagined it buried forever in a landfill of rotting banana peels and smelly diapers, and it made her sad. That a person could casually carelessly throw something perfectly good in the trash. The way her dad had dumped her mom. She dug the plush Captain Barksford from the trash, carried it up to her part-time bedroom, buried her face in its fur, and cried. No, I will never, she told herself, and Captain Barksford. She would never subject her own children to partitioned Christmases. She would never toss out a thing that could be salvaged.</p>
 
-<p class="para-vi-sub">Hơn nữa, người này chắc chắn sai bét. Rất tiếc, nhưng không đời nào có chuyện đó. Cuộc hôn nhân của cô bắt buộc phải tiếp tục, đơn giản vì cô từng tự hứa rằng mình sẽ không bao giờ ly hôn. Cô đã lập lời hứa thiêng liêng ấy năm mười hai tuổi, đúng vào dịp Giáng sinh. Năm đó, Miriam và mẹ cùng nhau mở những món quà được bọc bằng giấy gói tận dụng lại từ mùa Giáng sinh trước. Hai mẹ con giăng dây kim tuyến và bắp rang bơ quanh một cây thông nhỏ xíu đặt trên bàn. Họ ăn những chiếc bánh quy thừa mang về từ bữa tiệc ở cơ quan của mẹ. Rồi bố Miriam đến đón cô. Người vợ mới của ông ngồi đợi sẵn trong xe. Đó là Vicki? Margie? Laurie? Ruby? Jennifer? Hay là Lynn nhỉ? Miriam chẳng tài nào nhớ nổi. Người vợ mới tặng Miriam một món quà: một chú chó nhồi bông đội chiếc mũ thuyền trưởng Captain Barksford, phiên bản giống chó chăn cừu Đức. Miriam đảo tròn mắt. Bộ người vợ mới tưởng Miriam mới lên năm tuổi chắc? Thế là cô hậm hực nhét chú chó bông vào túi nilon rồi tống sâu vào thùng rác. Nhưng rồi về sau, cô lại mường tượng ra cảnh nó bị chôn vùi vĩnh viễn trong bãi rác ngập ngụa vỏ chuối thối rữa và bỉm bốc mùi, điều đó làm cô thấy buồn thắt ruột gan. Buồn vì người ta có thể thản nhiên, vô tâm vứt bỏ một thứ còn lành lặn, tốt đẹp vào đống rác rưởi. Giống hệt cái cách bố cô đã ruồng bỏ mẹ cô. Rốt cuộc, cô lại bới chú chó bông Captain Barksford ra khỏi thùng rác, mang lên căn phòng ngủ tạm bợ của mình, vùi mặt vào bộ lông của chú cún và òa khóc. Không, mình sẽ không bao giờ, cô tự nhủ với bản thân, và với cả Captain Barksford. Cô sẽ không bao giờ bắt con cái mình phải nếm trải cảnh những mùa Giáng sinh bị xé làm đôi. Cô sẽ không bao giờ vứt bỏ một thứ vẫn còn có thể cứu vãn.</p>
+<p class="para-vi-sub">Hơn nữa, người này chắc chắn sai bét. Rất tiếc, nhưng không đời nào có chuyện đó. Cuộc hôn nhân của cô bắt buộc phải tiếp tục, đơn giản vì cô từng tự hứa rằng mình sẽ không bao giờ ly hôn. Cô đã lập lời hứa thiêng liêng ấy năm mười hai tuổi, đúng vào dịp Giáng sinh. Năm đó, Miriam và mẹ cùng nhau mở những món quà được bọc bằng giấy gói tận dụng lại từ mùa Giáng sinh trước. Hai mẹ con giăng dây kim tuyến và bắp rang bơ quanh một cây thông nhỏ xíu đặt trên bàn. Họ ăn những chiếc bánh quy thừa mang về từ bữa tiệc ở cơ quan của mẹ. Rồi bố Miriam đến đón cô. Người vợ mới của ông ngồi đợi sẵn trong xe. Đó là Vicki? Margie? Laurie? Ruby? Jennifer? Hay là Lynn nhỉ? Miriam chẳng tài nào nhớ nổi. Người vợ mới tặng Miriam một món quà: một chú chó nhồi bông đội chiếc mũ thuyền trưởng Captain Barksford, phiên bản giống chó chăn cừu Đức. Miriam đảo tròn mắt. Bộ người vợ mới tưởng Miriam mới lên năm tuổi chắc? Thế là cô hậm hực nhét chú chó bông vào túi nilon rồi tống sâu vào thùng rác. Nhưng rồi về sau, cô lại mường tượng ra cảnh nó bị chôn vùi vĩnh viễn trong bãi rác ngập ngụa vỏ chuối thối rữa và bỉm bốc mùi, điều đó làm cô thấy buồn thắt ruột gan. Buồn vì người ta có thể thản nhiên, vô tâm vứt bỏ một thứ còn lành lặn, tốt đẹp vào đống rác rưởi. Giống hệt cái cách bố cô đã ruồng bỏ mẹ cô. Rốt cuộc, cô lại bới chú chó bông Captain Barksford ra khỏi thùng rác, mang lên căn phòng ngủ tạm bợ của mình, vùi mặt vào bộ lông của chú cún và òa khóc. *Không, mình sẽ không bao giờ*, cô tự nhủ với bản thân, và với cả Captain Barksford. Cô sẽ không bao giờ bắt con cái mình phải nếm trải cảnh những mùa Giáng sinh bị xé làm đôi. Cô sẽ không bao giờ vứt bỏ một thứ vẫn còn có thể cứu vãn.</p>
 
 <p class="para-en">Even after the psychic declared the end of Miriam’s marriage, she did not let go of Miriam’s hand. She continued to stare, a curious expression on her face. Miriam felt an odd tingle in her hand, not unlike the radio-dial shock that had surprised her earlier, but more continuous and subtle. Her head felt swimmy.</p>
 
@@ -254,11 +254,11 @@
 
 <p class="para-en">The seas of life get choppy sometimes, but you must keep sailing, she thought, in a voice that didn’t belong to her.</p>
 
-<p class="para-vi-sub">Biển đời đôi khi nổi sóng gió ba đào, nhưng con tàu vẫn phải tiếp tục giương buồm rẽ sóng, cô thầm nghĩ, bằng một giọng nói nghe chừng chẳng phải của chính mình.</p>
+<p class="para-vi-sub">*Biển đời đôi khi nổi sóng gió ba đào, nhưng con tàu vẫn phải tiếp tục giương buồm rẽ sóng*, cô thầm nghĩ, bằng một giọng nói nghe chừng chẳng phải của chính mình.</p>
 
 <p class="para-en">Then the voice shouted: Abandon ship!</p>
 
-<p class="para-vi-sub">Rồi giọng nói ấy bỗng hét lên: Bỏ tàu! Mau bỏ tàu!</p>
+<p class="para-vi-sub">Rồi giọng nói ấy bỗng hét lên: *Bỏ tàu! Mau bỏ tàu!*</p>
 
 <p class="para-en">And, at the same time, the psychic dropped Miriam’s hand and jerked back, startled.</p>
 
@@ -326,7 +326,7 @@
 
 <p class="para-en">At that point, she was already late.</p>
 
-<p class="para-vi-sub">Hãy quay đầu xe, giọng máy móc vang lên.</p>
+<p class="para-vi-sub">*Hãy quay đầu xe*, giọng máy móc vang lên.</p>
 
 <p class="para-en">She called Jack on the phone. “Hey, are you there already?” she said, when he picked up. “I’m running late.”</p>
 
@@ -338,7 +338,7 @@
 
 <p class="para-en">“You’re at work?” It sounded like a question when she said it, but it felt like a battle cry, full of rage: YOU’RE AT WORK!!!</p>
 
-<p class="para-vi-sub">“Anh đang ở chỗ làm đấy à?” Khi thốt ra, câu nói nghe như một lời gặng hỏi bình thản, nhưng cảm giác bên trong lại hệt một tiếng thét xung trận ngập tràn phẫn nộ: ANH ĐANG Ở CHỖ LÀM ĐẤY À!!!</p>
+<p class="para-vi-sub">“Anh đang ở chỗ làm đấy à?” Khi thốt ra, câu nói nghe như một lời gặng hỏi bình thản, nhưng cảm giác bên trong lại hệt một tiếng thét xung trận ngập tràn phẫn nộ: *ANH ĐANG Ở CHỖ LÀM ĐẤY À!!!*</p>
 
 <p class="para-en">“There was a project that came up,” Jack said. “I called the therapist and canceled.”</p>
 

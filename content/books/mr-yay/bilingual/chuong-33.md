@@ -1,8 +1,8 @@
-# KHÚC ĐỆM - VẬN ĐỘNG VIÊN CHẠY ĐƯỜNG DÀI
+# KHÚC ĐỆM
 
 <p class="para-en">IMAGINE YOU are a long-distance runner.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN là một vận động viên chạy đường dài.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một vận động viên chạy đường dài.</p>
 
 <p class="para-en">You run marathons and ultra-marathons and once you ran for Mozambique’s Olympic running team. You run for medals, but also for joy. Because you can. Because you love the rhythm of your body on the trail, the wind and sun on your face, the meditation. Running is prayer.</p>
 
@@ -36,19 +36,19 @@
 
 <p class="para-vi-sub">Điều khiến bạn khiếp sợ là nỗi lo mình sẽ không bao giờ có thể chạy được nữa.</p>
 
-<p class="para-en">You scream, and the pain shoots up, around, an arrow through your heart, and you pray, Please God mercy, let me do what I am born to do. You scream and— —then the pain is gone.</p>
+<p class="para-en">You scream, and the pain shoots up, around, an arrow through your heart, and you pray, Please God mercy, let me do what I am born to do. You scream and—</p>
 
-<p class="para-vi-sub">Bạn thét gào, cơn đau bắn vọt lên, xoáy tròn, tựa như một mũi tên xuyên thẳng qua tim, và bạn cầu nguyện, “Lạy Chúa, xin rủ lòng thương xót, xin hãy để con được làm điều con sinh ra để làm.” Bạn thét lên, và rồi… cơn đau vụt biến mất.</p>
+<p class="para-vi-sub">Bạn thét gào, cơn đau bắn vọt lên, xoáy tròn, tựa như một mũi tên xuyên thẳng qua tim, và bạn cầu nguyện, *“Lạy Chúa, xin rủ lòng thương xót, xin hãy để con được làm điều con sinh ra để làm.”* Bạn thét lên, và rồi… cơn đau vụt biến mất.</p>
 
-<p class="para-en">Your earbuds play the first song, the one you knew.</p>
+<p class="para-en">—then the pain is gone.</p>
 
 <p class="para-vi-sub">Tai nghe lại tiếp tục phát bài hát đầu tiên, bài hát bạn vốn quen thuộc.</p>
 
-<p class="para-en">You don’t know how, but you are running.</p>
+<p class="para-en">Your earbuds play the first song, the one you knew.</p>
 
 <p class="para-vi-sub">Bạn chẳng hiểu bằng cách nào, nhưng đôi chân bạn vẫn đang tiếp tục sải bước.</p>
 
-<p class="para-en">You imagined it, you tell yourself. The broken leg. The new song. None of it happened. It wasn’t real. You will tell yourself it wasn’t real, again and again, until the lie becomes true.</p>
+<p class="para-en">You don’t know how, but you are running. You imagined it, you tell yourself. The broken leg. The new song. None of it happened. It wasn’t real. You will tell yourself it wasn’t real, again and again, until the lie becomes true.</p>
 
-<p class="para-vi-sub">Do mình tưởng tượng ra thôi, bạn tự nhủ với bản thân như thế. Chiếc chân gãy. Bài hát lạ lẫm kia. Chẳng có điều gì thực sự xảy ra cả. Tất cả đều không có thật. Bạn sẽ lặp đi lặp lại với chính mình rằng điều đó không có thật, hết lần này đến lần khác, cho đến khi lời dối trá ấy hóa thành sự thật.</p>
+<p class="para-vi-sub">*Do mình tưởng tượng ra thôi*, bạn tự nhủ với bản thân như thế. Chiếc chân gãy. Bài hát lạ lẫm kia. Chẳng có điều gì thực sự xảy ra cả. Tất cả đều không có thật. Bạn sẽ lặp đi lặp lại với chính mình rằng điều đó không có thật, hết lần này đến lần khác, cho đến khi lời dối trá ấy hóa thành sự thật.</p>
 

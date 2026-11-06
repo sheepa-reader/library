@@ -2,7 +2,7 @@
 
 <p class="para-en">FOR THE SECOND NIGHT IN A ROW, Jack came home before dinner. Roxster met him at the door, teeth bared, but his barks were intermingled with sloppy licks. Jack fended off the dog with his briefcase. He set the briefcase on the floor. Roxster thwacked it with his tail, knocking it over. It landed with a hollow thud, as if it was almost empty.</p>
 
-<p class="para-vi-sub">ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng bịch rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.</p>
+<p class="para-vi-sub">**ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP** Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng *bịch* rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.</p>
 
 <p class="para-en">“There’s a deer on the lawn,” Jack announced.</p>
 
@@ -54,27 +54,23 @@
 
 <p class="para-en">The deer stayed put, front hooves pressed against the window. It stared at her with its big black eyes.</p>
 
-<p class="para-vi-sub">Con hươu vẫn đứng nguyên tại chỗ, hai móng trước ấn chặt vào cửa kính. Nó giương đôi mắt đen to tròn nhìn chằm chằm vào cô.</p>
+<p class="para-vi-sub">Con hươu vẫn đứng nguyên tại chỗ, hai móng trước ấn chặt vào cửa kính. Nó giương đôi mắt đen to tròn nhìn chằm chằm vào cô. “Cái gì? Mày muốn cái gì hả?”</p>
 
 <p class="para-en">“What? What do you want?”</p>
 
-<p class="para-vi-sub">“Cái gì? Mày muốn cái gì hả?”</p>
-
-<p class="para-en">The deer stared.</p>
-
 <p class="para-vi-sub">Con hươu vẫn nhìn chằm chằm.</p>
 
-<p class="para-en">Where did he go? it seemed to ask.</p>
+<p class="para-en">The deer stared. Where did he go? it seemed to ask.</p>
 
-<p class="para-vi-sub">Anh ta đã đi đâu rồi? - dường như nó đang hỏi như vậy.</p>
+<p class="para-vi-sub">*Anh ta đã đi đâu rồi?* - dường như nó đang hỏi như vậy.</p>
 
 <p class="para-en">The deer wasn’t making any sense. Where did who go? Besides, deer couldn’t speak.</p>
 
-<p class="para-vi-sub">Con hươu này thật chẳng ra làm sao cả. Anh ta là ai mà đi đâu cơ chứ? Với lại, hươu thì làm sao biết nói.</p>
+<p class="para-vi-sub">Con hươu này thật chẳng ra làm sao cả. *Anh ta là ai mà đi đâu cơ chứ?* Với lại, hươu thì làm sao biết nói.</p>
 
 <p class="para-en">Where did he go?</p>
 
-<p class="para-vi-sub">Anh ta đã đi đâu rồi?</p>
+<p class="para-vi-sub">*Anh ta đã đi đâu rồi?*</p>
 
 <p class="para-en">Miriam opened the passenger-side door. She hopped in. She blasted the horn.</p>
 
@@ -106,7 +102,7 @@
 
 <p class="para-en">“Why are you not wearing a hat,” Jack replied, with a mischievous smile, “when children who aren’t wearing hats are about…to get…tickled!”</p>
 
-<p class="para-vi-sub">“Sao con lại không đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”</p>
+<p class="para-vi-sub">“Sao con lại *không* đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”</p>
 
 <p class="para-en">Rory squealed. Jack scooped him up and tickled him.</p>
 
@@ -146,7 +142,7 @@
 
 <p class="para-en">BEEP BEEP BEEP BEEP</p>
 
-<p class="para-vi-sub">BÍP BÍP BÍP BÍP</p>
+<p class="para-vi-sub">*BÍP BÍP BÍP BÍP*</p>
 
 <p class="para-en">“Dinner’s almost ready.”</p>
 
@@ -158,7 +154,7 @@
 
 <p class="para-en">BEEP BEEP BEEP BEEP</p>
 
-<p class="para-vi-sub">BÍP BÍP BÍP BÍP</p>
+<p class="para-vi-sub">*BÍP BÍP BÍP BÍP*</p>
 
 <p class="para-en">“I’m trying!” She turned on the fan, opened the window.</p>
 
@@ -170,7 +166,7 @@
 
 <p class="para-en">BEEP BE—</p>
 
-<p class="para-vi-sub">BÍP BÍ…</p>
+<p class="para-vi-sub">*BÍP* *BÍ…*</p>
 
 <p class="para-en">“Ewwww, are we having broccoli?”</p>
 
@@ -214,7 +210,7 @@
 
 <p class="para-en">And fuck it. If she was honest with herself, she liked smoking. It reminded her of when she was a kid and would mix all the different sodas together or stick gummy worms in her peanut butter sandwich. She liked the head rush, the burn. She liked having a reason to step outside and shut the door behind her. From the back deck, she couldn’t hear the drone of television news, or the demands of children. She couldn’t be asked unanswerable questions, like: Mommy, why does Dad smell weird? He did smell weird. She had caught a trace of it when he stepped through the door. An earthy, milky smell that was both strange and familiar. A smell that made her want to smoke more cigarettes.</p>
 
-<p class="para-vi-sub">Mà mặc kệ chứ. Nếu trung thực với lòng mình, cô thích hút thuốc. Nó gợi cô nhớ về thời thơ ấu, cái thời cô thường trộn lẫn đủ loại nước ngọt với nhau, hoặc kẹp mấy con kẹo dẻo hình sâu vào giữa hai lát bánh mì bơ đậu phộng. Cô thích cảm giác chuếnh choáng lâng lâng, thích cái vị gắt nhẹ nơi cổ họng. Cô thích cả việc có một lý do hợp cảnh hợp tình để bước ra ngoài và khép cửa lại sau lưng. Đứng ở ban công sau nhà, cô không còn phải nghe tiếng tin tức rì rào từ chiếc ti vi, hay những tiếng mè nheo đòi hỏi của lũ trẻ. Cô cũng sẽ không phải đối mặt với những câu hỏi không tài nào đáp nổi, kiểu như: Mẹ ơi, sao trên người bố lại có mùi lạ thế? Anh đúng là có mùi lạ thật. Cô đã ngửi thấy vệt mùi ấy ngay khoảnh khắc anh bước qua cửa nhà. Một thứ hương thoang thoảng ngai ngái của đất, thơm ngậy của sữa, vừa xa lạ lại vừa quen thuộc. Một thứ mùi chỉ càng làm cô thèm hút thêm vài điếu thuốc nữa.</p>
+<p class="para-vi-sub">Mà mặc kệ chứ. Nếu trung thực với lòng mình, cô thích hút thuốc. Nó gợi cô nhớ về thời thơ ấu, cái thời cô thường trộn lẫn đủ loại nước ngọt với nhau, hoặc kẹp mấy con kẹo dẻo hình sâu vào giữa hai lát bánh mì bơ đậu phộng. Cô thích cảm giác chuếnh choáng lâng lâng, thích cái vị gắt nhẹ nơi cổ họng. Cô thích cả việc có một lý do hợp cảnh hợp tình để bước ra ngoài và khép cửa lại sau lưng. Đứng ở ban công sau nhà, cô không còn phải nghe tiếng tin tức rì rào từ chiếc ti vi, hay những tiếng mè nheo đòi hỏi của lũ trẻ. Cô cũng sẽ không phải đối mặt với những câu hỏi không tài nào đáp nổi, kiểu như: *Mẹ ơi, sao trên người bố lại có mùi lạ thế?* Anh đúng là có mùi lạ thật. Cô đã ngửi thấy vệt mùi ấy ngay khoảnh khắc anh bước qua cửa nhà. Một thứ hương thoang thoảng ngai ngái của đất, thơm ngậy của sữa, vừa xa lạ lại vừa quen thuộc. Một thứ mùi chỉ càng làm cô thèm hút thêm vài điếu thuốc nữa.</p>
 
 <p class="para-en">“Miriam!” Jack yelled, from inside. “Where are you?”</p>
 
@@ -318,7 +314,7 @@
 
 <p class="para-en">Yes. Oh, really? Nod, nod.</p>
 
-<p class="para-vi-sub">Vâng. Ôi, thế cơ à? Gật đầu.</p>
+<p class="para-vi-sub">*Vâng. Ôi, thế cơ à? Gật đầu.*</p>
 
 <p class="para-en">“Congress is holding up judicial nominations,” he said.</p>
 
@@ -326,7 +322,7 @@
 
 <p class="para-en">Uh-huh. Uh-huh.</p>
 
-<p class="para-vi-sub">Ừm, hừm. Ừm, hừm.</p>
+<p class="para-vi-sub">*Ừm, hừm. Ừm, hừm.*</p>
 
 <p class="para-en">“Greece is opening its borders to thousands more refugees,” he said.</p>
 
@@ -334,7 +330,7 @@
 
 <p class="para-en">Oh, good. Nod. Nod. Smile.</p>
 
-<p class="para-vi-sub">Ôi, tốt quá. Gật đầu. Mỉm cười.</p>
+<p class="para-vi-sub">*Ôi, tốt quá. Gật đầu. Mỉm cười.*</p>
 
 <p class="para-en">“A huge flock of endangered birds from a remote island in the Pacific mysteriously disappeared.”</p>
 

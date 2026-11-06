@@ -2,7 +2,7 @@
 
 <p class="para-en">HE WAS FORGETTABLE. Also forgetful. Disorganized. Un-motivated. Lazy. Gluttonous. Disrespectful. Delusional. Didn’t he know that the good life didn’t get handed out on a silver platter? You had to work hard. You had to play by the rules. You had to not simply skate by. A passing grade might as well be an F-minus-minus-minus, if it wasn’t an A-plus.</p>
 
-<p class="para-vi-sub">ANH LÀ KẺ DỄ BỊ LÃNG QUÊN. Lại còn hay quên. Bừa bãi. Thiếu động lực. Lười biếng. Tham ăn. Bất kính. Hoang tưởng. Chẳng lẽ anh không biết rằng cuộc sống tốt đẹp chưa từng được dâng sẵn trên đĩa bạc hay sao? Người ta phải nai lưng ra làm việc. Phải tuân thủ luật chơi. Phải biết phấn đấu chứ không thể cứ tà tà lướt qua mọi chuyện. Một điểm vừa đủ qua môn cũng chẳng khác gì điểm F trừ trừ trừ, chừng nào nó chưa phải là một điểm A cộng.</p>
+<p class="para-vi-sub">**ANH LÀ KẺ DỄ BỊ LÃNG QUÊN.** Lại còn hay quên. Bừa bãi. Thiếu động lực. Lười biếng. Tham ăn. Bất kính. Hoang tưởng. Chẳng lẽ anh không biết rằng cuộc sống tốt đẹp chưa từng được dâng sẵn trên đĩa bạc hay sao? Người ta phải nai lưng ra làm việc. Phải tuân thủ luật chơi. Phải biết phấn đấu chứ không thể cứ tà tà lướt qua mọi chuyện. Một điểm vừa đủ qua môn cũng chẳng khác gì điểm F trừ trừ trừ, chừng nào nó chưa phải là một điểm A cộng.</p>
 
 <p class="para-en">Bratty didn’t believe any of these things.</p>
 
@@ -10,7 +10,7 @@
 
 <p class="para-en">He didn’t merely not believe. He was adamantly against them all. He planted his flag on the opposite hill, two middle fingers raised at the Pierson Estate.</p>
 
-<p class="para-vi-sub">Anh không đơn thuần là không tin. Anh kịch liệt phản đối tất thảy. Anh sẵn sàng cắm lá cờ của mình trên ngọn đồi đối diện, rồi giơ thẳng hai ngón tay giữa về phía Dinh thự Pierson.</p>
+<p class="para-vi-sub">Anh không đơn thuần là *không tin*. Anh kịch liệt phản đối tất thảy. Anh sẵn sàng cắm lá cờ của mình trên ngọn đồi đối diện, rồi giơ thẳng hai ngón tay giữa về phía Dinh thự Pierson.</p>
 
 <p class="para-en">But ideas seeped through.</p>
 
@@ -26,11 +26,11 @@
 
 <p class="para-en">But she didn’t eat ice cream, and his dad didn’t eat ice cream, so why was the ice cream in the freezer? Had it been placed there as a test?</p>
 
-<p class="para-vi-sub">Thế nhưng bà ta đâu có ăn kem, và bố anh cũng chẳng bao giờ đụng tới, vậy cớ sao hộp kem lại nằm trong ngăn đá? Lẽ nào nó được gài ở đó như một bài kiểm tra?</p>
+<p class="para-vi-sub">Thế nhưng *bà ta* đâu có ăn kem, và bố anh cũng chẳng bao giờ đụng tới, vậy cớ sao hộp kem lại nằm trong ngăn đá? Lẽ nào nó được gài ở đó như một bài kiểm tra?</p>
 
 <p class="para-en">He thought about this now, as he strolled along the dirty sidewalk on a frigid winter afternoon, dog strapped to his back, stomach empty. He had fed the dog, but he hadn’t eaten, and the voice in his head said, Maybe you don’t deserve to eat, fatso.</p>
 
-<p class="para-vi-sub">Giờ đây anh nghĩ về chuyện ấy khi lê bước dọc vỉa hè nhớp nháp vào một buổi chiều đông giá buốt, chú chó được địu sau lưng, bụng thì đói meo. Anh đã cho chó ăn, nhưng bản thân thì chưa có hạt nào bỏ bụng, và một giọng nói mỉa mai trong đầu cất lên: Có khi mày chẳng xứng đáng được ăn đâu, đồ béo ục ịch. Có lẽ anh nên gọi điện cho chuyên viên trị liệu tâm lý của mình.</p>
+<p class="para-vi-sub">Giờ đây anh nghĩ về chuyện ấy khi lê bước dọc vỉa hè nhớp nháp vào một buổi chiều đông giá buốt, chú chó được địu sau lưng, bụng thì đói meo. Anh đã cho chó ăn, nhưng bản thân thì chưa có hạt nào bỏ bụng, và một giọng nói mỉa mai trong đầu cất lên: *Có khi mày chẳng xứng đáng được ăn đâu, đồ béo ục ịch.* Có lẽ anh nên gọi điện cho chuyên viên trị liệu tâm lý của mình.</p>
 
 <p class="para-en">Maybe he should call his therapist. He didn’t call right away. He needed to ponder his new be-dogged state. His dogly status. His sanity, or lack thereof.</p>
 
@@ -58,75 +58,75 @@
 
 <p class="para-en">Dad: He did WHAT NOW?</p>
 
-<p class="para-vi-sub">Nó làm CÁI GÌ CƠ?</p>
+<p class="para-vi-sub">*Nó làm* CÁI GÌ CƠ*?*</p>
 
 <p class="para-en">Bradford: LA. To pursue his music.</p>
 
-<p class="para-vi-sub">Đến Los Angeles ạ. Để theo đuổi âm nhạc.</p>
+<p class="para-vi-sub">*Đến Los Angeles ạ. Để theo đuổi âm nhạc.*</p>
 
 <p class="para-en">Dad: But what about college?</p>
 
-<p class="para-vi-sub">Thế còn trường đại học thì vứt cho ai?</p>
+<p class="para-vi-sub">*Thế còn trường đại học thì vứt cho ai?*</p>
 
 <p class="para-en">Bradford: He’s taking a year off.</p>
 
-<p class="para-vi-sub">Cậu ấy xin bảo lưu một năm.</p>
+<p class="para-vi-sub">*Cậu ấy xin bảo lưu một năm.*</p>
 
 <p class="para-en">Dad: That’s the stupidest, most shortsighted thing a man could do. What about his résumé? What about internships? How will he get a good investment banking job now? What firm would even hire him? J. P. Morgan? Barrington Equity? He doesn’t stand a chance! He’s WASTING HIS FUTURE! (Blood vessels pop in his eyes.) (Steam shoots out of his ears.)</p>
 
-<p class="para-vi-sub">Đó là hành động ngu xuẩn và thiển cận nhất trần đời! Thế còn hồ sơ xin việc thì sao? Còn những kỳ thực tập thì tính thế nào? Làm sao sau này nó kiếm nổi một công việc tử tế ở ngân hàng đầu tư nữa? Hãng nào thèm tuyển nó cơ chứ? J. P. Morgan? Hay Barrington Equity? Nó sẽ chẳng có lấy một cơ hội! Nó đang PHÍ HOÀI TƯƠNG LAI CỦA MÌNH! (Các mạch máu nổ tung trong mắt ông.) (Khói bốc nghi ngút ra từ hai lỗ tai.)</p>
+<p class="para-vi-sub">*Đó là hành động ngu xuẩn và thiển cận nhất trần đời! Thế còn hồ sơ xin việc thì sao? Còn những kỳ thực tập thì tính thế nào? Làm sao sau này nó kiếm nổi một công việc tử tế ở ngân hàng đầu tư nữa? Hãng nào thèm tuyển nó cơ chứ? J. P. Morgan? Hay Barrington Equity? Nó sẽ chẳng có lấy một cơ hội! Nó đang PHÍ HOÀI TƯƠNG LAI CỦA MÌNH! (Các mạch máu nổ tung trong mắt ông.) (Khói bốc nghi ngút ra từ hai lỗ tai.)*</p>
 
 <p class="para-en">Helena: You know all about wasting the future, don’t you, Bradford?</p>
 
-<p class="para-vi-sub">Helena: Cậu thì rành quá rõ về chuyện phí hoài tương lai rồi, đúng không hả Bradford?</p>
+<p class="para-vi-sub">*Helena:* *Cậu thì rành quá rõ về chuyện phí hoài tương lai rồi, đúng không hả Bradford?*</p>
 
 <p class="para-en">(Silence.)</p>
 
-<p class="para-vi-sub">(Im lặng.)</p>
+<p class="para-vi-sub">*(Im lặng.)*</p>
 
 <p class="para-en">(Helena Pierson pokes at the food on her plate, but she doesn’t eat. She never eats.)</p>
 
-<p class="para-vi-sub">(Helena Pierson lấy nĩa chọc chọc vào thức ăn trên đĩa, nhưng bà ta không hề ăn. Bà ta chẳng bao giờ ăn cả.)</p>
+<p class="para-vi-sub">*(Helena Pierson lấy nĩa chọc chọc vào thức ăn trên đĩa, nhưng bà ta không hề ăn. Bà ta chẳng bao giờ ăn cả.)*</p>
 
 <p class="para-en">(Dad guzzles his glass of wine.)</p>
 
-<p class="para-vi-sub">(Bố nốc cạn ly rượu vang của ông.)</p>
+<p class="para-vi-sub">*(Bố nốc cạn ly rượu vang của ông.)*</p>
 
 <p class="para-en">Bradford: But…he’s really goo—</p>
 
-<p class="para-vi-sub">Nhưng… cậu ấy thực sự rất giỏi…</p>
+<p class="para-vi-sub">*Nhưng… cậu ấy thực sự rất giỏi…*</p>
 
 <p class="para-en">Helena: At wasting his family’s money.</p>
 
-<p class="para-vi-sub">Helena: Giỏi khoản ném tiền của gia đình qua cửa sổ ấy.</p>
+<p class="para-vi-sub">*Helena:* *Giỏi khoản ném tiền của gia đình qua cửa sổ ấy.*</p>
 
 <p class="para-en">Dad: All that rap music, it all sounds the same to me.</p>
 
-<p class="para-vi-sub">Mấy cái thứ nhạc rap đó, với bố thì bài nào nghe cũng y hệt như nhau.</p>
+<p class="para-vi-sub">*Mấy cái thứ nhạc rap đó, với bố thì bài nào nghe cũng y hệt như nhau.* *Helena:*</p>
 
 <p class="para-en">Helena: I don’t even know how they call it music.</p>
 
-<p class="para-vi-sub">Helena: Mẹ còn chẳng hiểu nổi làm sao người ta có thể gọi thứ đó là âm nhạc.</p>
+<p class="para-vi-sub">*Mẹ còn chẳng hiểu nổi làm sao người ta có thể gọi thứ đó là âm nhạc.*</p>
 
 <p class="para-en">Dad: Promise me, Bradford, promise me you’ll never do something that idiotic.</p>
 
-<p class="para-vi-sub">Hứa với bố đi, Bradford, hãy hứa với bố là con sẽ không bao giờ làm cái trò ngu xuẩn đến mức ấy.</p>
+<p class="para-vi-sub">*Hứa với bố đi, Bradford, hãy hứa với bố là con sẽ không bao giờ làm cái trò ngu xuẩn đến mức ấy.*</p>
 
 <p class="para-en">Bradford: Of course. I would never.</p>
 
-<p class="para-vi-sub">Tất nhiên rồi ạ. Con sẽ không bao giờ làm thế đâu.</p>
+<p class="para-vi-sub">*Tất nhiên rồi ạ. Con sẽ không bao giờ làm thế đâu.*</p>
 
 <p class="para-en">Except, he had, last week. A few credits shy of a degree. Tommy already three thousand miles from the Ivy League. Bratty at his state school, post-finals. He turned in his final essay on microeconomics and his professor said, Mr. Pierson, are you coming to the career fair? And he said, Yes, of course, even though he had no intention of going. But then he went. In his suit coat, tie, sweat stains blooming in his pits, flowering his back, sweat beading his forehead. He shook hands, but his hand was slick with sweat. His hand was a dead, wet fish, flopping from his wrist. His hand collected brochures and scanned QR codes. He could look forward to an exciting future in data processing, in-home nursing care, tax return preparation. He could climb the sales pyramid of gourmet kitchen cookware.</p>
 
-<p class="para-vi-sub">Chỉ có điều, anh đã làm đúng cái trò ngu xuẩn đó vào tuần trước. Khi chỉ còn thiếu vài tín chỉ nữa là nhận bằng. Tommy thì đã ở cách xa nhóm trường Ivy League những ba nghìn dặm. Còn Bratty thì kẹt lại ở trường công lập bang sau kỳ thi cuối kỳ. Anh nộp bài tiểu luận kết thúc môn kinh tế học vi mô, và vị giáo sư cất tiếng hỏi: “Cậu Pierson, cậu có tham gia hội chợ việc làm không đấy?” Thế là anh đáp, “Dạ có chứ ạ, dĩ nhiên rồi thầy,” dẫu cho trong đầu anh chẳng hề có lấy nửa phần trăm ý định sẽ vác xác đến đó. Nhưng rồi rốt cuộc anh vẫn đi. Anh khoác lên mình bộ âu phục, thắt chiếc cà vạt nghiêm chỉnh, để rồi mồ hôi bắt đầu biểu tình: chúng túa ra loang lổ dưới nách áo, nở rộ thành từng mảng sau lưng và lấm tấm đọng giọt trên trán. Anh đưa tay ra bắt với mọi người, một bàn tay nhớp nháp mồ hôi, mềm oặt như một con cá chết đang ngoe nguẩy gắn hờ nơi cổ tay. Đôi bàn tay thảm hại ấy đã gom về hàng đống tờ rơi quảng cáo cùng cơ man mã QR để quét. Anh hoàn toàn có thể trông đợi một tương lai xán lạn đầy hứa hẹn trong ngành nhập liệu văn phòng, dịch vụ chăm sóc điều dưỡng tại gia, hoặc chân lon ton làm tờ khai thuế. Thậm chí, anh còn có cơ hội leo lên đỉnh kim tự tháp bán hàng đa cấp của các dòng dụng cụ nhà bếp cao cấp.</p>
+<p class="para-vi-sub">Chỉ có điều, anh đã làm đúng cái trò ngu xuẩn đó vào tuần trước. Khi chỉ còn thiếu vài tín chỉ nữa là nhận bằng. Tommy thì đã ở cách xa nhóm trường Ivy League những ba nghìn dặm. Còn Bratty thì kẹt lại ở trường công lập bang sau kỳ thi cuối kỳ. Anh nộp bài tiểu luận kết thúc môn kinh tế học vi mô, và vị giáo sư cất tiếng hỏi: “*Cậu Pierson, cậu có tham gia hội chợ việc làm không đấy?*” Thế là anh đáp, *“Dạ có chứ ạ, dĩ nhiên rồi thầy,”* dẫu cho trong đầu anh chẳng hề có lấy nửa phần trăm ý định sẽ vác xác đến đó. Nhưng rồi rốt cuộc anh vẫn đi. Anh khoác lên mình bộ âu phục, thắt chiếc cà vạt nghiêm chỉnh, để rồi mồ hôi bắt đầu biểu tình: chúng túa ra loang lổ dưới nách áo, nở rộ thành từng mảng sau lưng và lấm tấm đọng giọt trên trán. Anh đưa tay ra bắt với mọi người, một bàn tay nhớp nháp mồ hôi, mềm oặt như một con cá chết đang ngoe nguẩy gắn hờ nơi cổ tay. Đôi bàn tay thảm hại ấy đã gom về hàng đống tờ rơi quảng cáo cùng cơ man mã QR để quét. Anh hoàn toàn có thể trông đợi một tương lai xán lạn đầy hứa hẹn trong ngành nhập liệu văn phòng, dịch vụ chăm sóc điều dưỡng tại gia, hoặc chân lon ton làm tờ khai thuế. Thậm chí, anh còn có cơ hội leo lên đỉnh kim tự tháp bán hàng đa cấp của các dòng dụng cụ nhà bếp cao cấp.</p>
 
 <p class="para-en">It wasn’t a panic attack, he told his therapist, when he described what happened next. But it also wasn’t not a panic attack.</p>
 
-<p class="para-vi-sub">Đó không phải một cơn hoảng loạn, anh đã phân trần với chuyên viên trị liệu tâm lý của mình như thế khi thuật lại những gì xảy ra tiếp theo. Nhưng nó cũng chẳng hẳn là không phải một cơn hoảng loạn.</p>
+<p class="para-vi-sub">*Đó không phải một cơn hoảng loạn,* anh đã phân trần với chuyên viên trị liệu tâm lý của mình như thế khi thuật lại những gì xảy ra tiếp theo.</p>
 
 <p class="para-en">It was more like…a general limpness. His legs turned noodle-ish. The floor came at him, fast. His arms didn’t respond. He fell. His torso hit first. His impact shook the gymnasium floor. People gathered around him, their eyes rife with concern, but also pity and disgust. His breath came in heaving gusts. His pores gushed sweat. His heart pounded a thousand beats a minute, but no, he was fine he was fine, he insisted. He just needed to get out.</p>
 
-<p class="para-vi-sub">Nói đúng hơn, nó giống như một màn rã đám toàn diện của bộ máy sinh học. Đôi chân anh bỗng hóa thành hai sợi bún nhũn. Mặt sàn nhà thi đấu thể thao lao vút về phía anh với vận tốc chóng mặt. Hai cánh tay hoàn toàn mất khả năng điều khiển. Thế là anh đổ ụp xuống, phần thân trên tiếp đất đĩnh đạc trước tiên. Cú va chạm nặng ký của anh làm rung chuyển cả sàn gỗ. Mọi người lập tức xúm đông xúm đỏ quanh anh, ánh mắt ngập tràn vẻ âu lo, nhưng dĩ nhiên không thể thiếu vài phần ái ngại, thương hại xen lẫn chút ghê tởm kín đáo. Hơi thở anh đứt quãng từng cơn. Mọi lỗ chân lông đều biến thành vòi phun nước. Trái tim anh đập dồn dập cỡ một nghìn nhịp mỗi phút, nhưng không, anh vẫn quả quyết rằng mình cực kỳ ổn. Anh chỉ cần chuồn lẹ khỏi cái chốn này càng nhanh càng tốt.</p>
+<p class="para-vi-sub">*Nhưng nó cũng chẳng hẳn là* không *phải một cơn hoảng loạn.* Nói đúng hơn, nó giống như một màn rã đám toàn diện của bộ máy sinh học. Đôi chân anh bỗng hóa thành hai sợi bún nhũn. Mặt sàn nhà thi đấu thể thao lao vút về phía anh với vận tốc chóng mặt. Hai cánh tay hoàn toàn mất khả năng điều khiển. Thế là anh đổ ụp xuống, phần thân trên tiếp đất đĩnh đạc trước tiên. Cú va chạm nặng ký của anh làm rung chuyển cả sàn gỗ. Mọi người lập tức xúm đông xúm đỏ quanh anh, ánh mắt ngập tràn vẻ âu lo, nhưng dĩ nhiên không thể thiếu vài phần ái ngại, thương hại xen lẫn chút ghê tởm kín đáo. Hơi thở anh đứt quãng từng cơn. Mọi lỗ chân lông đều biến thành vòi phun nước. Trái tim anh đập dồn dập cỡ một nghìn nhịp mỗi phút, nhưng không, anh vẫn quả quyết rằng mình cực kỳ ổn. Anh chỉ cần chuồn lẹ khỏi cái chốn này càng nhanh càng tốt.</p>
 
 <p class="para-en">He got up. He ran.</p>
 
@@ -154,7 +154,7 @@
 
 <p class="para-en">He ran way too far, and then his legs were like, Dude, no.</p>
 
-<p class="para-vi-sub">Anh đã chạy một quãng đường quá xa, xa đến mức hai bắp chân rốt cuộc phải gào lên phản đối: Thôi xin lạy bố, làm ơn dừng lại nghỉ giùm con cái! Anh phanh kịt lại. Có một điều gì đó vừa mới chuyển dịch. Anh không thể gọi tên chính xác nó là cái quái gì, nhưng anh có thể cảm nhận rất rõ nơi lồng ngực, thẩm thấu tận trong xương tủy và trên từng thớ cơ đang run rẩy của đôi chân.</p>
+<p class="para-vi-sub">Anh đã chạy một quãng đường quá xa, xa đến mức hai bắp chân rốt cuộc phải gào lên phản đối: *Thôi xin lạy bố, làm ơn dừng lại nghỉ giùm con cái!* Anh phanh kịt lại. Có một điều gì đó vừa mới chuyển dịch. Anh không thể gọi tên chính xác nó là cái quái gì, nhưng anh có thể cảm nhận rất rõ nơi lồng ngực, thẩm thấu tận trong xương tủy và trên từng thớ cơ đang run rẩy của đôi chân.</p>
 
 <p class="para-en">He stopped. Something had just happened. He didn’t understand what. But he felt it, in his heart, his bones, his shaking legs.</p>
 
@@ -198,7 +198,7 @@
 
 <p class="para-en">“Okay,” his therapist said. “Do you want to talk about it? I know our next appointment isn’t until the first week of January, but—Hey, Lindsey! Rory! Quiet! Mama’s on the phone! Sorry about that—”</p>
 
-<p class="para-vi-sub">“Được rồi,” chuyên viên trị liệu tâm lý của anh ôn tồn bảo. “Cậu có muốn nói về chuyện đó không? Tôi biết lịch hẹn tiếp theo của chúng ta phải đến tuần đầu tiên của tháng Giêng, nhưng mà… Này, Lindsey! Rory! Trật tự nào! Mẹ đang nói điện thoại đấy! Xin lỗi cậu nhé…”</p>
+<p class="para-vi-sub">“Được rồi,” chuyên viên trị liệu tâm lý của anh ôn tồn bảo. “Cậu có muốn nói về chuyện đó không? Tôi biết lịch hẹn tiếp theo của chúng ta phải đến tuần đầu tiên của tháng Giêng, nhưng mà… *Này, Lindsey! Rory! Trật tự nào! Mẹ đang nói điện thoại đấy! Xin lỗi cậu nhé…*”</p>
 
 <p class="para-en">Children giggled in the background.</p>
 

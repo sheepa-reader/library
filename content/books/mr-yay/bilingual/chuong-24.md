@@ -2,11 +2,11 @@
 
 <p class="para-en">BRATTY</p>
 
-<p class="para-vi-sub">BRATTY</p>
+<p class="para-vi-sub">**BRATTY**</p>
 
 <p class="para-en">HE WAS HUNGRY. He was eight.</p>
 
-<p class="para-vi-sub">CẬU BÉ ĐANG ĐÓI. Cậu mới tám tuổi.</p>
+<p class="para-vi-sub">**CẬU BÉ ĐANG ĐÓI.** Cậu mới tám tuổi.</p>
 
 <p class="para-en">He was so-so-so-so-so hungry, like a black hole of hunger, and no matter what food he shoved inside that hole the hunger was still there.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-en">This time he did better. He filled his pockets. He crept out of the pantry, through the dark kitchen, down the dark stairs. His dad was still awake, watching Deadhand Diego on TV. He was supposed to do homework, but he couldn’t focus when his stomach gnawed like this.</p>
 
-<p class="para-vi-sub">Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim Deadhand Diego trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.</p>
+<p class="para-vi-sub">Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim *Deadhand Diego* trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.</p>
 
 <p class="para-en">Bradford Pierson made it back to his bedroom. Safe, for now. He emptied his pockets onto the bed. He had a box of water crackers, a jar of stuffed green olives, a bottle of ketchup, a chocolate-flavored protein bar.</p>
 

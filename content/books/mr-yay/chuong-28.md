@@ -1,6 +1,6 @@
 # MIRIAM VÀ CÁC THÁM TỬ
 
-HOLLY NGÂM VIỆT QUẤT với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên rồi).
+**HOLLY NGÂM VIỆT QUẤT** với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên rồi).
 
 Thế rồi, một tiếng mèo gào thất thanh dội lên từ ngoài sân. Tiếp đến là một tiếng rầm trầm đục. Rồi tiếng la hét. Rồi tiếng khóc lóc sụt sùi.
 
@@ -66,7 +66,7 @@ Từ phòng khách, các cô có thể nhìn thấy mấy ông chồng đang cù
 
 “Ít ra thì anh ấy vẫn bình an vô sự,” Miriam cất lời.
 
-“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng với lão: ‘Anh Tom, anh mà còn dám hó hé câu nào về trượt zipline nữa, thì anh biết thừa thằng Chad sẽ buộc dây thừng từ mái nhà sang cái cây đằng kia rồi trượt xuống cho xem. Anh có muốn thế không?’ Thề luôn, tớ sắp chạm đến giới hạn chịu đựng của tớ rồi. Nhưng thôi, nói về tớ thế đủ rồi.” Holly quay sang nhìn Miriam. “Thế mọi chuyện với Ngài Casablanca đằng kia ra sao rồi?”
+“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng với lão: ‘Anh Tom, anh mà còn dám hó hé câu nào về trượt zipline nữa, thì anh biết thừa thằng Chad sẽ buộc dây thừng từ mái nhà sang cái cây đằng kia rồi trượt xuống cho xem. Anh có muốn thế không?’ Thề luôn, tớ sắp chạm đến giới hạn chịu đựng *của tớ* rồi. Nhưng thôi, nói về tớ thế đủ rồi.” Holly quay sang nhìn Miriam. “Thế mọi chuyện với Ngài Casablanca đằng kia ra sao rồi?”
 
 “Cũng ổn, tớ đoán thế…” Miriam trả lời.
 
@@ -98,7 +98,7 @@ Miriam liếc nhìn sang chồng mình. Trông anh phong độ hơn, vui vẻ h�
 
 “Ôi không, cậu không thể làm thế được,” Kate ngắt lời. “Lỡ anh ấy không ngoại tình thì sao? Khi đó cậu sẽ trông giống hệt một kẻ ghen tuông mù quáng.”
 
-“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại khiến anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”
+“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại *khiến* anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”
 
 “Thế anh ấy có nhắc đến người phụ nữ nào không?” Kate hỏi. “Cô Jessica hay ai đó đại loại thế?”
 
@@ -139,4 +139,3 @@ Miriam liếc nhìn sang chồng mình. Trông anh phong độ hơn, vui vẻ h�
 Miriam ừng ực uống cạn phần cocktail còn lại, coi đó như liều thuốc xoa dịu trước sự nhiệt tình đáng sợ của hai cô bạn.
 
 Holly nheo mắt cười toe toét. “Bọn mình sẽ giống như những thám tử thực thụ vậy!”
-

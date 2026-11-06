@@ -2,15 +2,15 @@
 
 <p class="para-en">MIRIAM + JACK</p>
 
-<p class="para-vi-sub">MIRIAM + JACK</p>
+<p class="para-vi-sub">**MIRIAM + JACK**</p>
 
 <p class="para-en">ON A CRISP NOVEMBER EVENING, nine years in the past, a man climbed out a window onto a third-story fire escape. He did not fear falling—at least, not from the fire escape. His fear was more amorphous than that.</p>
 
-<p class="para-vi-sub">VÀO MỘT BUỔI TỐI THÁNG MƯỜI MỘT TRỜI SE LẠNH, chín năm về trước, một người đàn ông trèo qua cửa sổ ra chiếc thang thoát hiểm ở tầng ba. Anh không sợ ngã, ít nhất là không phải ngã từ chiếc thang này. Nỗi sợ của anh mang hình dáng mơ hồ hơn thế nhiều.</p>
+<p class="para-vi-sub">**VÀO MỘT BUỔI TỐI THÁNG MƯỜI MỘT TRỜI SE LẠNH,** chín năm về trước, một người đàn ông trèo qua cửa sổ ra chiếc thang thoát hiểm ở tầng ba. Anh không sợ ngã, ít nhất là không phải ngã từ chiếc thang này. Nỗi sợ của anh mang hình dáng mơ hồ hơn thế nhiều.</p>
 
 <p class="para-en">He wore a corduroy jacket and a fedora. He lit a cigarette. He was a silhouette against the downtown skyline, and all around him the city clamored, a discord of sirens, engines, bottles breaking, dogs barking, bass. His face was hidden by shadow. A wisp of smoke coiled around him. Who was this man? He might have been the star of a 1940s noir. He might have packed heat. He might have loved a dangerous broad with bloodred lips, who would never love him in return.</p>
 
-<p class="para-vi-sub">Anh mặc áo khoác nhung kẻ, đội mũ fedora và châm một điếu thuốc. Dáng hình anh in thành một vệt đen sẫm trên nền trời khu trung tâm. Xung quanh anh, thành phố gầm rống trong mớ âm thanh hỗn độn của tiếng còi xe, tiếng động cơ, vỏ chai vỡ, chó sủa cùng tiếng bass dồn dập. Gương mặt anh chìm trong bóng tối. Làn khói mỏng lãng đãng quanh anh. Người đàn ông này là ai? Biết đâu anh là tài tử của một bộ phim noir thập niên 1940. Biết đâu trong gấu áo anh có giắt một khẩu súng. Biết đâu anh từng đem lòng yêu một cô nàng nguy hiểm sở hữu đôi môi đỏ như máu, người sẽ chẳng bao giờ thèm đáp lại tình cảm của anh.</p>
+<p class="para-vi-sub">Anh mặc áo khoác nhung kẻ, đội mũ fedora và châm một điếu thuốc. Dáng hình anh in thành một vệt đen sẫm trên nền trời khu trung tâm. Xung quanh anh, thành phố gầm rống trong mớ âm thanh hỗn độn của tiếng còi xe, tiếng động cơ, vỏ chai vỡ, chó sủa cùng tiếng bass dồn dập. Gương mặt anh chìm trong bóng tối. Làn khói mỏng lãng đãng quanh anh. *Người đàn ông này là ai?* Biết đâu anh là tài tử của một bộ phim noir thập niên 1940. Biết đâu trong gấu áo anh có giắt một khẩu súng. Biết đâu anh từng đem lòng yêu một cô nàng nguy hiểm sở hữu đôi môi đỏ như máu, người sẽ chẳng bao giờ thèm đáp lại tình cảm của anh.</p>
 
 <p class="para-en">He might have been a man who gazed across the rooftops, brooding. But his gaze was drawn to the scene inside: kitchen table, empty mug, pens and highlighters and sticky tabs, laptop, law books. He was a man who would make something of himself, who wouldn’t languish in squalor, who wouldn’t fade or fizzle. He had all the certitude of youth.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">She was, obviously, the woman. And Jack had told his parents as much about her as he told them about anything. Which was not much.</p>
 
-<p class="para-vi-sub">Cô rõ ràng là một người phụ nữ trưởng thành. Và Jack cũng kể cho bố mẹ về cô nhiều ngang ngửa với cách anh kể về bất kỳ điều gì khác trên đời: gần như chẳng có gì.</p>
+<p class="para-vi-sub">Cô rõ ràng là một *người phụ nữ* trưởng thành. Và Jack cũng kể cho bố mẹ về cô nhiều ngang ngửa với cách anh kể về bất kỳ điều gì khác trên đời: gần như chẳng có gì.</p>
 
 <p class="para-en">He didn’t tell them much about law school, because they didn’t care about the interesting parts. They only wanted to know the after-parts.</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">“You need a realistic plan. Nothing absurd or fanciful. Like that plan you had to be a detective. Did Jack ever tell you about this?” she asked Miriam. “He was obsessed.”</p>
 
-<p class="para-vi-sub">“Con cần một kế hoạch thực tế. Đừng có mơ mộng viển vông. Giống như cái kế hoạch đòi làm thám tử hồi đó của con ấy. Jack có từng kể cho cháu nghe về chuyện này chưa?” bà quay sang hỏi Miriam. “Nó từng ám ảnh với trò đó lắm đấy.”</p>
+<p class="para-vi-sub">“Con cần một kế hoạch thực tế. Đừng có mơ mộng viển vông. Giống như cái kế hoạch đòi làm thám tử hồi đó của con ấy. Jack có từng kể cho cháu nghe về chuyện này chưa?” bà quay sang hỏi Miriam. “Nó từng *ám ảnh* với trò đó lắm đấy.”</p>
 
 <p class="para-en">“I was not obsessed.”</p>
 

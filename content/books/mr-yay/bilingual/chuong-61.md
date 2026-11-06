@@ -2,11 +2,11 @@
 
 <p class="para-en">HE TALKED to his therapist in the laundromat because the apartment was filled with boxes, crammed, literally impassable. There was no floor space or counter space or room in the tub, no space for dogs, to the point that Tux had to drive around with Tommy in Tommy’s brand-new car while Tommy tried to friend himself out of the ridiculous problem he’d haphazardly caused, by ordering a billion fucking T-shirts.</p>
 
-<p class="para-vi-sub">ANH NÓI CHUYỆN với chuyên viên trị liệu tâm lý của mình qua điện thoại khi đang ở trong tiệm giặt tự động, đơn giản vì căn hộ giờ đây đã ngập ngụa những thùng carton. Chúng chất đống chật ních, theo đúng nghĩa đen là chẳng còn lấy một lối đi. Từ sàn nhà, mặt bàn cho đến bồn tắm đều không còn một khoảng trống, thậm chí đến một khe hở cho chó cưng cũng không. Tình cảnh bẽ bàng đến mức chú chó Tux đành phải ngồi trên chiếc xe hơi mới toanh chạy lòng vòng cùng Tommy, trong lúc Tommy cố dùng các mối quan hệ bạn bè để tự cứu mình khỏi rắc rối nực cười mà chính cậu ta đã bốc đồng gây ra: lỡ tay đặt mua mẹ nó một tỷ chiếc áo phông.</p>
+<p class="para-vi-sub">**ANH NÓI CHUYỆN** với chuyên viên trị liệu tâm lý của mình qua điện thoại khi đang ở trong tiệm giặt tự động, đơn giản vì căn hộ giờ đây đã ngập ngụa những thùng carton. Chúng chất đống chật ních, theo đúng nghĩa đen là chẳng còn lấy một lối đi. Từ sàn nhà, mặt bàn cho đến bồn tắm đều không còn một khoảng trống, thậm chí đến một khe hở cho chó cưng cũng không. Tình cảnh bẽ bàng đến mức chú chó Tux đành phải ngồi trên chiếc xe hơi mới toanh chạy lòng vòng cùng Tommy, trong lúc Tommy cố dùng các mối quan hệ bạn bè để tự cứu mình khỏi rắc rối nực cười mà chính cậu ta đã bốc đồng gây ra: lỡ tay đặt mua mẹ nó một tỷ chiếc áo phông.</p>
 
 <p class="para-en">The T-shirts had a picture of Tux with a strand of neon-swirl drool that melted into neon-swirl letters that spelled out MR. YAY. Tux had a gold chain like a proper rap dog, and an eye patch like a proper pirate, and if you looked real close at the eye patch you could see the shadow of a boat. The SS Deliverance.</p>
 
-<p class="para-vi-sub">Trên những chiếc áo phông ấy in hình Tux với dòng nước dãi xoáy màu neon chảy dài rồi tan chảy thành những chữ cái uốn lượn rực rỡ ghép thành từ MR. YAY. Tux đeo một sợi dây chuyền vàng lớn như một chú chó rap thực thụ, bịt một bên mắt đúng kiểu cướp biển thứ thiệt, và nếu nhìn thật kỹ vào miếng che mắt ấy, người ta có thể nhận ra cái bóng mờ của một con tàu. Con tàu SS Deliverance.</p>
+<p class="para-vi-sub">Trên những chiếc áo phông ấy in hình Tux với dòng nước dãi xoáy màu neon chảy dài rồi tan chảy thành những chữ cái uốn lượn rực rỡ ghép thành từ MR. YAY. Tux đeo một sợi dây chuyền vàng lớn như một chú chó rap thực thụ, bịt một bên mắt đúng kiểu cướp biển thứ thiệt, và nếu nhìn thật kỹ vào miếng che mắt ấy, người ta có thể nhận ra cái bóng mờ của một con tàu. Con tàu SS *Deliverance*.</p>
 
 <p class="para-en">Bratty had designed the T-shirt because how the fuck else did a rapper make bank in the streaming era?</p>
 
@@ -14,15 +14,15 @@
 
 <p class="para-en">Bratty had said: We need merch.</p>
 
-<p class="para-vi-sub">Bratty từng bảo: “Chúng ta cần bán đồ lưu niệm.”</p>
+<p class="para-vi-sub">Bratty từng bảo: “*Chúng ta cần bán đồ lưu niệm.*”</p>
 
 <p class="para-en">And Tommy had said: We need bong rips.</p>
 
-<p class="para-vi-sub">Và Tommy đã đáp: “Chúng ta cần rít boong cần.”</p>
+<p class="para-vi-sub">Và Tommy đã đáp: “*Chúng ta cần rít boong cần.*”</p>
 
 <p class="para-en">And Bratty had smoked a blunt and designed a T-shirt, and then Tommy did that thing that Tommy always did: He went all in. One night, while Bratty was asleep on the couch, Tux curled at his feet, dreaming stoned dreams of the deep sea, Tommy had ordered five hundred bazillion T-shirts, and then he’d made a purchase link on the website so anyone could just come along and order a T-shirt, and then he’d got sucked up into The Legend of Zelda and totally forgot about both.</p>
 
-<p class="para-vi-sub">Thế là Bratty rít một hơi cần thật sâu rồi ngồi thiết kế chiếc áo phông. Sau đó, Tommy lại làm cái trò mà cậu ta vẫn luôn giỏi nhất: chơi tới bến, dốc cạn hầu bao. Một đêm nọ, trong khi Bratty đang ngủ thiếp đi trên ghế sofa còn Tux cuộn tròn dưới chân anh mơ những giấc mơ phê pha về đại dương sâu thẳm, Tommy đã bấm đặt mua năm trăm triệu tỷ chiếc áo phông. Cậu ta tiện tay tạo thêm một đường link mua hàng trên trang web để bất kỳ ai ghé qua cũng có thể bấm đặt áo, rồi nhanh chóng bị cuốn vào trò chơi Truyền thuyết Zelda và quên sạch bách cả hai việc.</p>
+<p class="para-vi-sub">Thế là Bratty rít một hơi cần thật sâu rồi ngồi thiết kế chiếc áo phông. Sau đó, Tommy lại làm cái trò mà cậu ta vẫn luôn giỏi nhất: chơi tới bến, dốc cạn hầu bao. Một đêm nọ, trong khi Bratty đang ngủ thiếp đi trên ghế sofa còn Tux cuộn tròn dưới chân anh mơ những giấc mơ phê pha về đại dương sâu thẳm, Tommy đã bấm đặt mua năm trăm triệu tỷ chiếc áo phông. Cậu ta tiện tay tạo thêm một đường link mua hàng trên trang web để bất kỳ ai ghé qua cũng có thể bấm đặt áo, rồi nhanh chóng bị cuốn vào trò chơi *Truyền thuyết Zelda* và quên sạch bách cả hai việc.</p>
 
 <p class="para-en">Until some delivery dudes had shown up at the apartment, confused as fuck, with a semitruck packed with boxes of T-shirts.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-en">“It’s not…not the abode.”</p>
 
-<p class="para-vi-sub">“Không hẳn là… không phải.”</p>
+<p class="para-vi-sub">“Không hẳn là… *không phải*.”</p>
 
 <p class="para-en">“Could you just sign on the line right there?”</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">He had, and it took him and Bratty and the delivery guys over an hour to load all the boxes into the apartment, and that had put an end to Tommy’s Legend of Zelda ambitions. He couldn’t sit on the couch, or reach the TV.</p>
 
-<p class="para-vi-sub">Thế đấy, cậu ta đã làm ra cái trò đó thật. Phải mất hơn một tiếng đồng hồ, cậu ta, Bratty cùng mấy anh chàng giao hàng mới khuân hết đống thùng vào trong căn hộ. Việc này cũng chính thức đặt dấu chấm hết cho tham vọng cày game Truyền thuyết Zelda của Tommy, bởi lẽ cậu ta chẳng còn chỗ mà ngồi lên sofa, chứ đừng nói đến chuyện với tới chiếc tivi.</p>
+<p class="para-vi-sub">Thế đấy, cậu ta đã làm ra cái trò đó thật. Phải mất hơn một tiếng đồng hồ, cậu ta, Bratty cùng mấy anh chàng giao hàng mới khuân hết đống thùng vào trong căn hộ. Việc này cũng chính thức đặt dấu chấm hết cho tham vọng cày game *Truyền thuyết Zelda* của Tommy, bởi lẽ cậu ta chẳng còn chỗ mà ngồi lên sofa, chứ đừng nói đến chuyện với tới chiếc tivi.</p>
 
 <p class="para-en">They could, at least, still open the fridge, where all the beer was stored. They could slink to the bathroom, or huddle by the doorway.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">If there was an earthquake, even a little one, those towers of boxes could tumble down and pin Bratty beneath. They could crush him. He could die. If only he wasn’t such a fuckup, his dad would say, and his stepmom would nod and smirk and say, At least the world is better off and he wouldn’t be able to punch that bitch, because he would be dead.</p>
 
-<p class="para-vi-sub">Nếu xảy ra động đất (dù chỉ là một cơn dư chấn nhẹ), những tòa tháp thùng hộp kia cũng có thể đổ sập xuống và đè nghiến Bratty bên dưới. Chúng có thể nghiền nát anh. Anh có thể chết. Giá như nó không phải là một thằng ăn hại như thế, bố anh sẽ tặc lưỡi nói vậy. Còn bà mẹ kế sẽ gật gù, cười nhếch mép bảo: Ít ra thế giới này cũng đỡ chật đất hơn. Lúc đó, anh thậm chí chẳng thể đấm vào mặt bà ta được nữa, đơn giản vì anh đã chết quách rồi. Không. Anh sẽ không sợ hãi. Anh nhất quyết không chịu thua mấy cái thùng này.</p>
+<p class="para-vi-sub">Nếu xảy ra động đất (dù chỉ là một cơn dư chấn nhẹ), những tòa tháp thùng hộp kia cũng có thể đổ sập xuống và đè nghiến Bratty bên dưới. Chúng có thể nghiền nát anh. Anh có thể chết. *Giá như nó không phải là một thằng ăn hại như thế,* bố anh sẽ tặc lưỡi nói vậy. Còn bà mẹ kế sẽ gật gù, cười nhếch mép bảo: *Ít ra thế giới này cũng đỡ chật đất hơn.* Lúc đó, anh thậm chí chẳng thể đấm vào mặt bà ta được nữa, đơn giản vì anh đã chết quách rồi. Không. Anh sẽ không sợ hãi. Anh nhất quyết không chịu thua mấy cái thùng này.</p>
 
 <p class="para-en">No. He would not be afraid. He would not fear these boxes. When he talked to his therapist, he’d made it sound like he’d thrown off the yoke of fear. Like he’d heard courage as music, and in an instant was changed.</p>
 
@@ -138,7 +138,7 @@
 
 <p class="para-en">He stood in the apartment doorway thinking, How the hell do I Tetris these boxes? He heard a rumble. He shivered, and glanced back, at the sky. Hazy blue. Not a wisp of rain cloud. No thunder.</p>
 
-<p class="para-vi-sub">Anh đứng nơi ngưỡng cửa căn hộ, thầm nghĩ: Làm quái nào để xếp đống thùng hộp này như trò xếp hình Tetris đây?</p>
+<p class="para-vi-sub">Anh đứng nơi ngưỡng cửa căn hộ, thầm nghĩ: *Làm quái nào để xếp đống thùng hộp này như trò xếp hình Tetris đây?*</p>
 
 <p class="para-en">His gaze turned back inside to the apartment, and this was the WTF how-many-gummies-did-I-eat moment. The moment when fear seized him by the brain and smacked him around. Because what he saw—what his eyes saw—was not really happening. There. But it was. Clear as the LA sky. He stood in the doorway of his apartment, but it wasn’t his apartment. It looked how it had when he’d first arrived. Tommy’s couch. Tommy’s old TV. No giant speaker. Beer cans on the floor. Pizza box on the counter. No dog.</p>
 
@@ -194,7 +194,7 @@
 
 <p class="para-en">It was boxes-boxes-boxes, no Tommy anywhere.</p>
 
-<p class="para-vi-sub">Xung quanh chỉ toàn thùng, thùng, thùng, tuyệt nhiên chẳng thấy bóng dáng Tommy đâu nữa.</p>
+<p class="para-vi-sub">Xung quanh chỉ toàn *thùng, thùng, thùng*, tuyệt nhiên chẳng thấy bóng dáng Tommy đâu nữa.</p>
 
 <p class="para-en">Then Tommy, filled with bubbles. Tommy translucent. Tiny silvery bits of bubbles. Everything effervescent.</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-en">Then the sound cut out. Tommy was gone. The bubbles or whatever the fuck they were: gone. The warped scenery reforged as an apartment filled with boxes. Bratty heard music. “Gin and Juice.” His ringtone. He pulled his phone from his pocket. The screen said AssMaster.</p>
 
-<p class="para-vi-sub">Âm thanh vụt tắt. Tommy biến mất. Những bong bóng bọt khí hay bất cứ thứ của nợ quái quỷ gì đó tan biến sạch trơn. Khung cảnh bị bóp méo rồi tái định hình trở lại thành một căn hộ ngập tràn những thùng carton. Bratty nghe thấy tiếng nhạc: bài “Gin and Juice” - nhạc chuông điện thoại của anh. Anh rút điện thoại ra khỏi túi quần. Màn hình hiện lên cái tên AssMaster.</p>
+<p class="para-vi-sub">Âm thanh vụt tắt. Tommy biến mất. Những bong bóng bọt khí hay bất cứ thứ của nợ quái quỷ gì đó tan biến sạch trơn. Khung cảnh bị bóp méo rồi tái định hình trở lại thành một căn hộ ngập tràn những thùng carton. Bratty nghe thấy tiếng nhạc: bài “Gin and Juice” - nhạc chuông điện thoại của anh. Anh rút điện thoại ra khỏi túi quần. Màn hình hiện lên cái tên *AssMaster*.</p>
 
 <p class="para-en">He answered. “Yo.”</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-en">Okay, he’d just seen some fucked-up shit. But Tommy was there, in LA. He was in LA. They were connected by sound waves and satellites, living the same rap-star dream. In the background, Tux barked. In the background, music played on the car stereo. There was the flick of a lighter. Tommy blew smoke into the phone. A wave washed over Bratty, like nothing he’d ever felt before. Call it peace. Call it power. It swept the last grains of fear away, and in its wake was grit and spunk and music. “I’m good. I’m great. What did you find?”</p>
 
-<p class="para-vi-sub">Được rồi, công bằng mà nói thì anh vừa chứng kiến vài trò quái đản đến mức điên rồ. Nhưng Tommy đang ở đó, ngay tại Los Angeles. Cậu ấy đang ở L.A. Cả hai kết nối với nhau qua sóng âm cùng vệ tinh viễn thông, cùng chung sống trong giấc mơ trở thành ngôi sao nhạc rap. Phía bên kia đầu dây, Tux cất tiếng sủa gâu gâu. Ở hậu cảnh, tiếng nhạc xập xình phát ra từ dàn loa xe hơi, kèm theo tiếng tách nho nhỏ của chiếc bật lửa. Tommy thong thả phả một làn khói vào ống nghe. Một làn sóng cảm xúc dâng trào cuốn qua người Bratty (một cảm giác anh chưa từng nếm trải bao giờ). Cứ gọi đó là sự bình yên, hay sức mạnh cũng được. Nó quét sạch những tàn dư sợ hãi cuối cùng, để lại trong lòng anh sự kiên cường, nhuệ khí bừng bừng và âm nhạc. “Tao ổn. Tao tuyệt vời ông mặt trời luôn. Mày tìm thấy cái gì thế?”</p>
+<p class="para-vi-sub">Được rồi, công bằng mà nói thì anh vừa chứng kiến vài trò quái đản đến mức điên rồ. Nhưng Tommy đang ở đó, ngay tại Los Angeles. Cậu ấy đang ở L.A. Cả hai kết nối với nhau qua sóng âm cùng vệ tinh viễn thông, cùng chung sống trong giấc mơ trở thành ngôi sao nhạc rap. Phía bên kia đầu dây, Tux cất tiếng sủa gâu gâu. Ở hậu cảnh, tiếng nhạc xập xình phát ra từ dàn loa xe hơi, kèm theo tiếng *tách* nho nhỏ của chiếc bật lửa. Tommy thong thả phả một làn khói vào ống nghe. Một làn sóng cảm xúc dâng trào cuốn qua người Bratty (một cảm giác anh chưa từng nếm trải bao giờ). Cứ gọi đó là sự bình yên, hay sức mạnh cũng được. Nó quét sạch những tàn dư sợ hãi cuối cùng, để lại trong lòng anh sự kiên cường, nhuệ khí bừng bừng và âm nhạc. “Tao ổn. Tao tuyệt vời ông mặt trời luôn. Mày tìm thấy cái gì thế?”</p>
 
 <p class="para-en">“We got a warehouse.” “Dope.”</p>
 

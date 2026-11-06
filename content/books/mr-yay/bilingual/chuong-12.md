@@ -2,7 +2,7 @@
 
 <p class="para-en">BOLD LIKE A BARRACUDA. Daring like a dogfish shark, Tommy texted. Swift like a seal. Certain as a seahorse.</p>
 
-<p class="para-vi-sub">HÙNG DŨNG NHƯ CÁ NHỒNG. Táo bạo như cá nhám gai, Tommy nhắn tin. Nhanh thoăn thoắt như hải cẩu. Chắc chắn như cá ngựa.</p>
+<p class="para-vi-sub">***HÙNG DŨNG NHƯ CÁ NHỒNG*.** *Táo bạo như cá nhám gai*, Tommy nhắn tin. *Nhanh thoăn thoắt như hải cẩu. Chắc chắn như cá ngựa.*</p>
 
 <p class="para-en">Bratty didn’t know what his best friend meant, but it felt right.</p>
 
@@ -10,7 +10,7 @@
 
 <p class="para-en">The past faded behind him, but its magic lingered. He drove and drove, through the great empty middle of the country, a thousand miles from the coast, but his thoughts circled back to the sea, to an old movie he had watched like a hundred-plus times as a child. The movie was called Peregrine. It followed a disillusioned detective, played by Ricardo Merman, hired to solve the mystery of an heiress who’d mysteriously vanished at sea. Maybe she’d been murdered. Or maybe she’d never set sail. Her behavior was erratic, and no one knew why. Bratty didn’t know why he liked the movie so much. But every time he rewatched, it felt transformational. The characters and their trajectories seemed to shift faster than the current. Which was unsettling, but also invigorating.</p>
 
-<p class="para-vi-sub">Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên Peregrine, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên do. Bratty cũng không rõ tại sao mình lại mê mẩn bộ phim đến thế. Nhưng mỗi lần xem lại, anh đều có cảm giác như vừa trải qua một cuộc lột xác. Các nhân vật cùng quỹ đạo đời họ dường như chuyển dịch còn nhanh hơn cả dòng hải lưu, một trải nghiệm vừa gây bồn chồn bất an, lại vừa tiếp thêm sinh lực.</p>
+<p class="para-vi-sub">Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên *Peregrine*, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên do. Bratty cũng không rõ tại sao mình lại mê mẩn bộ phim đến thế. Nhưng mỗi lần xem lại, anh đều có cảm giác như vừa trải qua một cuộc lột xác. Các nhân vật cùng quỹ đạo đời họ dường như chuyển dịch còn nhanh hơn cả dòng hải lưu, một trải nghiệm vừa gây bồn chồn bất an, lại vừa tiếp thêm sinh lực.</p>
 
 <p class="para-en">“We can do anything,” Bratty told the dog, as they crossed the Arizona border, still very far from the sea. “You and me, Tux. We can make it.”</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">And don’t expect help when you fail, said the contrary voice in his head. The voice came from Helena, but it sounded like his own voice. Because he’d internalized her criticism, his therapist said. He’d believed it. But the thing was, they’d never helped him. He’d bought this car himself, with money he made flipping burgers at the Buck-a-Bacon. He’d taken loans to pay for his state school. His dad wouldn’t help pay, he’d claimed, because handouts wouldn’t teach Bratty to be responsible. But the message embedded in this absence of help was that he, Bratty, was not worth betting on.</p>
 
-<p class="para-vi-sub">Và đừng có mong đợi ai giúp đỡ khi mày thất bại, một giọng nói hằn học vang lên trong đầu anh. Giọng nói ấy vốn của mẹ kế Helena, nhưng giờ đây vang lên hệt như tiếng nói của chính anh. Bởi anh đã tự biến những lời chỉ trích của bà ta thành tiếng nói nội tâm của mình (chuyên viên trị liệu của anh từng bảo thế). Anh đã tin lời bà ta. Nhưng ngặt một nỗi, gia đình có bao giờ giúp đỡ anh đâu. Anh tự mua chiếc xe này bằng số tiền kiếm được từ công việc rán bánh mì kẹp thịt tại Buck-a-Bacon. Anh phải vay nợ để trang trải học phí ở trường đại học công lập. Bố anh nhất quyết không chịu hỗ trợ một xu, ông bảo sự bố thí sẽ chẳng dạy nổi Bratty cách sống có trách nhiệm. Nhưng thông điệp ngầm ẩn sau sự thờơ ấy lại rất rõ ràng: anh - thằng nhóc Bratty - không đáng để người ta đặt cược niềm tin.</p>
+<p class="para-vi-sub">*Và đừng có mong đợi ai giúp đỡ khi mày thất bại*, một giọng nói hằn học vang lên trong đầu anh. Giọng nói ấy vốn của mẹ kế Helena, nhưng giờ đây vang lên hệt như tiếng nói của chính anh. Bởi anh đã tự biến những lời chỉ trích của bà ta thành tiếng nói nội tâm của mình (chuyên viên trị liệu của anh từng bảo thế). Anh đã tin lời bà ta. Nhưng ngặt một nỗi, gia đình có bao giờ giúp đỡ anh đâu. Anh tự mua chiếc xe này bằng số tiền kiếm được từ công việc rán bánh mì kẹp thịt tại Buck-a-Bacon. Anh phải vay nợ để trang trải học phí ở trường đại học công lập. Bố anh nhất quyết không chịu hỗ trợ một xu, ông bảo sự bố thí sẽ chẳng dạy nổi Bratty cách sống có trách nhiệm. Nhưng thông điệp ngầm ẩn sau sự thờơ ấy lại rất rõ ràng: anh - thằng nhóc Bratty - không đáng để người ta đặt cược niềm tin.</p>
 
 <p class="para-en">“We can make it,” Bratty said again, but the words rang hollow.</p>
 
@@ -30,11 +30,11 @@
 
 <p class="para-en">He pulled over on the side of the freeway. Smoke gusted from under the hood. Cars zipped past him at a billion miles an hour. The dog looked over at him, eyes wide, his expression asking, What the fuck do we do now, dude?</p>
 
-<p class="para-vi-sub">Anh tấp xe vào lề đường cao tốc. Khói bốc ngùn ngụt từ dưới nắp capo. Từng đoàn xe vun vút lao qua với vận tốc cỡ một tỷ dặm một giờ. Chú chó quay sang nhìn anh, đôi mắt mở to tròn xoe với nét mặt như muốn hỏi: Giờ tính sao đây hả ông bạn, cái quái gì thế này?</p>
+<p class="para-vi-sub">Anh tấp xe vào lề đường cao tốc. Khói bốc ngùn ngụt từ dưới nắp capo. Từng đoàn xe vun vút lao qua với vận tốc cỡ một tỷ dặm một giờ. Chú chó quay sang nhìn anh, đôi mắt mở to tròn xoe với nét mặt như muốn hỏi: *Giờ tính sao đây hả ông bạn, cái quái gì thế này?*</p>
 
 <p class="para-en">The voice in Bratty’s head said, What did you expect would happen, Bradford? You really thought that your shit car could make it across the country? Okay, in truth, he hadn’t thought about it. He had ignored the 240,000-plus miles on his odometer, and the burnt-rubber smell, and the rattling of its rusted frame.</p>
 
-<p class="para-vi-sub">Giọng nói trong đầu Bratty lại trỗi dậy: Mày mong đợi điều gì sẽ xảy ra hả Bradford? Mày thực sự nghĩ cái đống sắt vụn này có thể lết nổi qua cả đất nước sao? Được rồi, thực lòng mà nói thì anh chưa từng nghĩ sâu đến thế. Anh đã phớt lờ con số hơn hai trăm bốn mươi ngàn dặm trên đồng hồ đo công-tơ-mét, mùi cao su cháy khét lẹt, cùng những tiếng lạch cạch rung lắc từ bộ khung gỉ sét của chiếc xe.</p>
+<p class="para-vi-sub">Giọng nói trong đầu Bratty lại trỗi dậy: *Mày mong đợi điều gì sẽ xảy ra hả Bradford? Mày thực sự nghĩ cái đống sắt vụn này có thể lết nổi qua cả đất nước sao?* Được rồi, thực lòng mà nói thì anh chưa từng nghĩ sâu đến thế. Anh đã phớt lờ con số hơn hai trăm bốn mươi ngàn dặm trên đồng hồ đo công-tơ-mét, mùi cao su cháy khét lẹt, cùng những tiếng lạch cạch rung lắc từ bộ khung gỉ sét của chiếc xe.</p>
 
 <p class="para-en">He didn’t have cash to tow the car, fix the car, or rent a dog-friendly hotel while the car got repaired. He lacked the skills to identify the cause of his smoldering engine. His phone had 20 percent battery power.</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-en">“Oh, damn.” Tommy paused to consider. And he didn’t say something callous like just buy a plane ticket or just get a new car or ask your dad to wire some money. He said, “Dude, I’m coming.”</p>
 
-<p class="para-vi-sub">“Ôi, chết tiệt thật.” Tommy im lặng một nhịp để suy tính. Cậu ấy chẳng hề buông ra những lời vô tâm kiểu như cứ mua vé máy bay mà đi, hay mua quách một chiếc xe mới, hoặc bảo bố mày chuyển khoản cho ít tiền. Thay vào đó, cậu bảo: “Bạn tôi ơi, tao tới ngay đây.”</p>
+<p class="para-vi-sub">“Ôi, chết tiệt thật.” Tommy im lặng một nhịp để suy tính. Cậu ấy chẳng hề buông ra những lời vô tâm kiểu như *cứ mua vé máy bay mà đi*, hay *mua quách một chiếc xe mới*, hoặc *bảo bố mày chuyển khoản cho ít tiền*. Thay vào đó, cậu bảo: “Bạn tôi ơi, tao tới ngay đây.”</p>
 
 <p class="para-en">“Here?”</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en">“Fuckin’ Vegas. On a rescue mission. Yo, I’m like Captain Barksford. You know, the dog, in that episode where the baboon wanted to swim, so it jumped into the shark-infested waters, and it would have gotten torn up if the captain didn’t save its ass. But it did learn to swim.”</p>
 
-<p class="para-vi-sub">“Đúng là cái đất Vegas chết tiệt. Đi làm nhiệm vụ giải cứu cơ đấy! Này, tao thấy mình y hệt Thuyền trưởng Captain Barksford luôn. Mày nhớ không, chú chó trong cái tập phim mà con khỉ đầu chó nằng nặc đòi đi bơi ấy. Thế là nó nhảy bổ xuống vùng nước đầy cá mập, rồi suýt nữa bị xé xác thành từng mảnh nếu thuyền trưởng không kịp cứu cái bàn tọa của nó. Nhưng rốt cuộc thì nó đã học được cách bơi.”</p>
+<p class="para-vi-sub">“Đúng là cái đất Vegas chết tiệt. Đi làm nhiệm vụ giải cứu cơ đấy! Này, tao thấy mình y hệt Thuyền trưởng Captain Barksford luôn. Mày nhớ không, chú chó trong cái tập phim mà con khỉ đầu chó nằng nặc đòi đi bơi ấy. Thế là nó nhảy bổ xuống vùng nước đầy cá mập, rồi suýt nữa bị xé xác thành từng mảnh nếu thuyền trưởng không kịp cứu cái bàn tọa của nó. Nhưng rốt cuộc thì nó *đã* học được cách bơi.”</p>
 
 <p class="para-en">Bratty nodded. “So, I’m the baboon.”</p>
 

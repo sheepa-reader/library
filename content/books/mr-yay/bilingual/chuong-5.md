@@ -2,7 +2,7 @@
 
 <p class="para-en">THEY NEVER stayed silent. “What did I tell you, Bradford? You drop out of college? What do you think will happen? Your life will amount to nothing.”</p>
 
-<p class="para-vi-sub">HỌ CHẲNG BAO GIỜ chịu giữ im lặng cả. “Bố đã dặn con thế nào hả Bradford? Bỏ học đại học ư? Con nghĩ đời mình rồi sẽ đi về đâu?”</p>
+<p class="para-vi-sub">**HỌ CHẲNG BAO GIỜ** chịu giữ im lặng cả. “Bố đã dặn con thế nào hả Bradford? Bỏ học đại học ư? Con nghĩ đời mình rồi sẽ đi về đâu?”</p>
 
 <p class="para-en">Except they were wrong.</p>
 

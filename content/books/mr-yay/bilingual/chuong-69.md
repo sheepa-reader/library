@@ -2,11 +2,11 @@
 
 <p class="para-en">THE TOUR BUS rode east from LA, through Vegas, Salt Lake, Denver, down through the bowels of Texas, north to Milwaukee, Chicago, and then they were home.</p>
 
-<p class="para-vi-sub">CHIẾC XE BUÝT LƯU DIỄN bon bon về hướng đông từ Los Angeles, băng qua Las Vegas, Salt Lake, Denver, luồn sâu xuống tận ruột gan Texas, rồi ngược lên phía bắc đến Milwaukee, Chicago. Và thế là họ đã về đến nhà.</p>
+<p class="para-vi-sub">**CHIẾC XE BUÝT LƯU DIỄN** bon bon về hướng đông từ Los Angeles, băng qua Las Vegas, Salt Lake, Denver, luồn sâu xuống tận ruột gan Texas, rồi ngược lên phía bắc đến Milwaukee, Chicago. Và thế là họ đã về đến nhà.</p>
 
 <p class="para-en">They picked up strays along the way: dogs, rappers, DJs, groupies, YouTubers, KlipSwatchers, parents and grandparents of kids who only ever wanted to be Captain Barksford when they grew up, friends of friends of friends of Tommy’s who hitched a ride on the bus, or sailed along behind it. All creatures welcome, like in the show The Adventures of Mr. Yay. They met a woman who painted their portraits aboard the SS Deliverance. They met a theater troupe that performed remembered skits from the vanished show. They went to a Mr. Yay after-party stacked with Mr. Yays, hundreds of them, in patchwork pants and fake beards. They played a renegade set aboard a boat captained by a man in a dog suit. They collected dogs, dogs who traveled on from city to city, show to show, dogs who made a special one-time guest appearance and then went home. They stopped at an intersection in their hometown because Tommy saw a sign out the window, taped to a telephone pole. HAVE YOU SEEN MR. YAY? it asked. It looked like a lost pet sign, except instead of a pet’s photograph, it had a drawing of a Mr. Yay and Captain Barksford on their boat.</p>
 
-<p class="para-vi-sub">Dọc đường, họ gom thêm đủ mọi thành phần lang thang: vài chú chó, mấy anh chàng rapper, mấy DJ, các fan hâm mộ cuồng nhiệt, YouTuber, người chơi KlipSwatch, cùng các bậc phụ huynh và ông bà của những đứa trẻ mà ước mơ duy nhất trong đời là trở thành Thuyền trưởng Barksford. Đó là chưa kể đám bạn-của-bạn-của-bạn Tommy đi nhờ xe buýt, hoặc lẳng lặng bám đuôi lướt theo sau. Mọi sinh linh đều được chào đón (hệt như trong chương trình truyền hình thiếu nhi The Adventures of Mr. Yay). Họ gặp một người phụ nữ vẽ chân dung họ trên boong tàu SS Deliverance. Họ gặp một đoàn kịch diễn lại những tiểu phẩm còn sót lại trong ký ức từ show truyền hình vốn đã bốc hơi không dấu vết. Họ ghé qua một bữa tiệc hậu lưu diễn chật ních những “Mr. Yay” - hàng trăm con người cùng diện chiếc quần nhung may ghép ô vuông sặc sỡ và dán râu giả. Họ chơi một buổi nhạc ngẫu hứng ngập tràn tinh thần nổi loạn trên con thuyền do một người đàn ông mặc bộ đồ chó làm thuyền trưởng. Họ gom thêm vô số chú chó: những chú cún rong ruổi từ thành phố này sang thành phố khác, từ buổi diễn này sang buổi diễn khác, lẫn những chú chó chỉ xuất hiện chớp nhoáng với tư cách khách mời đặc biệt đúng một lần rồi lại tung tăng về nhà. Cuối cùng, họ dừng lại tại một ngã tư ở quê nhà, đơn giản vì Tommy nhìn thấy một tấm biển dán trên cột điện thoại ngoài cửa sổ. CÓ AI THẤY MR. YAY KHÔNG? Tấm biển hỏi như thế. Trông nó chẳng khác nào tờ rơi tìm thú cưng thất lạc, có điều thay vì in hình một chú chó hay mèo, nó lại in bức vẽ Mr. Yay và Thuyền trưởng Barksford đang lênh đênh trên con thuyền của họ.</p>
+<p class="para-vi-sub">Dọc đường, họ gom thêm đủ mọi thành phần lang thang: vài chú chó, mấy anh chàng rapper, mấy DJ, các fan hâm mộ cuồng nhiệt, YouTuber, người chơi KlipSwatch, cùng các bậc phụ huynh và ông bà của những đứa trẻ mà ước mơ duy nhất trong đời là trở thành Thuyền trưởng Barksford. Đó là chưa kể đám bạn-của-bạn-của-bạn Tommy đi nhờ xe buýt, hoặc lẳng lặng bám đuôi lướt theo sau. Mọi sinh linh đều được chào đón (hệt như trong chương trình truyền hình thiếu nhi *The Adventures of Mr. Yay*). Họ gặp một người phụ nữ vẽ chân dung họ trên boong tàu SS *Deliverance*. Họ gặp một đoàn kịch diễn lại những tiểu phẩm còn sót lại trong ký ức từ show truyền hình vốn đã bốc hơi không dấu vết. Họ ghé qua một bữa tiệc hậu lưu diễn chật ních những “Mr. Yay” - hàng trăm con người cùng diện chiếc quần nhung may ghép ô vuông sặc sỡ và dán râu giả. Họ chơi một buổi nhạc ngẫu hứng ngập tràn tinh thần nổi loạn trên con thuyền do một người đàn ông mặc bộ đồ chó làm thuyền trưởng. Họ gom thêm vô số chú chó: những chú cún rong ruổi từ thành phố này sang thành phố khác, từ buổi diễn này sang buổi diễn khác, lẫn những chú chó chỉ xuất hiện chớp nhoáng với tư cách khách mời đặc biệt đúng một lần rồi lại tung tăng về nhà. Cuối cùng, họ dừng lại tại một ngã tư ở quê nhà, đơn giản vì Tommy nhìn thấy một tấm biển dán trên cột điện thoại ngoài cửa sổ. **CÓ AI THẤY MR. YAY KHÔNG?** Tấm biển hỏi như thế. Trông nó chẳng khác nào tờ rơi tìm thú cưng thất lạc, có điều thay vì in hình một chú chó hay mèo, nó lại in bức vẽ Mr. Yay và Thuyền trưởng Barksford đang lênh đênh trên con thuyền của họ.</p>
 
 <p class="para-en">The tour bus pulled up in front of a large house, a sterile, cavernous, soulless house where the young Bradford Pierson had learned what a bad little boy he was. What a brat he was. It was nighttime, the street dark. The black branches of moneyed trees reached out to a gold-flecked sky. The moon was diamond white. It had rained all day. Rain fell softly from a passing cloud.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">While the entourage played and drank and walked the dogs and stretched their travel-weary legs, Bratty and Tommy drank a beer on the bus. Liquid courage, Tommy called it.</p>
 
-<p class="para-vi-sub">Trong khi đám tùy tùng hào hứng chơi đùa, uống rượu, dắt chó đi dạo và duỗi thẳng đôi chân mỏi nhừ sau chuyến đi dài, Bratty và Tommy vẫn ngồi lại uống bia trên xe buýt. Rượu tăng dũng khí, Tommy gọi món đồ uống ấy như thế.</p>
+<p class="para-vi-sub">Trong khi đám tùy tùng hào hứng chơi đùa, uống rượu, dắt chó đi dạo và duỗi thẳng đôi chân mỏi nhừ sau chuyến đi dài, Bratty và Tommy vẫn ngồi lại uống bia trên xe buýt. *Rượu tăng dũng khí*, Tommy gọi món đồ uống ấy như thế.</p>
 
 <p class="para-en">Bratty wasn’t ready.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-en">He heard a voice in his head. Ride on, sailor! Across the briny deep! He opened his eyes. He stood up tall. He looked at his dad, gaze steady. He spoke. “I’m on tour.”</p>
 
-<p class="para-vi-sub">Đâu đó trong tâm trí anh, một giọng nói vang lên: Căng buồm lên hỡi chàng thủy thủ! Vượt qua muôn trùng biển mặn! Bratty mở mắt, đứng thẳng người. Anh nhìn thẳng vào mắt bố mình, ánh nhìn kiên định: “Con đang đi lưu diễn.”</p>
+<p class="para-vi-sub">Đâu đó trong tâm trí anh, một giọng nói vang lên: *Căng buồm lên hỡi chàng thủy thủ! Vượt qua muôn trùng biển mặn!* Bratty mở mắt, đứng thẳng người. Anh nhìn thẳng vào mắt bố mình, ánh nhìn kiên định: “Con đang đi lưu diễn.”</p>
 
 <p class="para-en">“Tour?”</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">“You are—I don’t even know what to say! You make rap music?”</p>
 
-<p class="para-vi-sub">“Con thật là… Bố thậm chí còn chẳng biết phải nói gì nữa! Con làm nhạc rap ư?”</p>
+<p class="para-vi-sub">“Con thật là… Bố thậm chí còn chẳng biết phải nói gì nữa! Con làm *nhạc rap* ư?”</p>
 
 <p class="para-en">Rap was not a plan. Music was a pastime. The old man’s face grew red with rage. Then, behind him, in the doorway, Helena appeared. She did not greet Bradford or embrace Bradford or acknowledge him. She said, simply, “Rap isn’t even music. Rap is a waste of time.”</p>
 

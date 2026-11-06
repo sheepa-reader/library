@@ -2,7 +2,7 @@
 
 <p class="para-en">HOLLY SOAKED BLUEBERRIES and basil in vodka overnight. She strained the vodka, keeping a few berries for garnish. She mixed the vodka with blueberry juice and seltzer. She poured a glass for herself, just to taste. Then she heard a yowling noise outside. Then a thud. A scream. Crying. She ran outside. She found Chad sitting in the mud under the deck. He had a bloody gash across his cheek. Blood and tears and snot dripped down his face, onto the collar of his white shirt.</p>
 
-<p class="para-vi-sub">HOLLY NGÂM VIỆT QUẤT với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên rồi). Thế rồi, một tiếng mèo gào thất thanh dội lên từ ngoài sân. Tiếp đến là một tiếng rầm trầm đục. Rồi tiếng la hét. Rồi tiếng khóc lóc sụt sùi. Holly vội lao ra ngoài. Cậu nhóc Chad đang ngồi bệt giữa đống bùn dưới gầm hiên nhà. Một vết cào rớm máu dài ngoẵng vắt ngang má chú nhóc. Máu, nước mắt và nước mũi lem luốc chảy dài trên mặt, nhỏ từng giọt xuống cổ chiếc áo sơ mi trắng.</p>
+<p class="para-vi-sub">**HOLLY NGÂM VIỆT QUẤT** với húng tây trong rượu vodka suốt cả đêm. Cô lọc lấy phần rượu, cẩn thận giữ lại vài quả để trang trí cho đẹp mắt. Cô pha rượu vodka đó với nước ép việt quất và chút nước có ga seltzer, rồi rót ra ly. Bản ý của cô ban đầu vốn chỉ là nếm thử một hớp nhỏ thôi (tất nhiên rồi). Thế rồi, một tiếng mèo gào thất thanh dội lên từ ngoài sân. Tiếp đến là một tiếng rầm trầm đục. Rồi tiếng la hét. Rồi tiếng khóc lóc sụt sùi. Holly vội lao ra ngoài. Cậu nhóc Chad đang ngồi bệt giữa đống bùn dưới gầm hiên nhà. Một vết cào rớm máu dài ngoẵng vắt ngang má chú nhóc. Máu, nước mắt và nước mũi lem luốc chảy dài trên mặt, nhỏ từng giọt xuống cổ chiếc áo sơ mi trắng.</p>
 
 <p class="para-en">“Chad! What happened!”</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-en">“He’s obsessed. And now he wants to try bungee jumping. And guess what he wants us to do for vacation this year? Zip-lining. I mean, he can. But the whole family? I told him, ‘Tom, don’t you dare even talk about zip-lining, or you know Chad is going to tie a rope from the roof to that tree there and try to slide down it. Is that what you want?’ Really, I swear, I’m at the end of my rope. But enough about me.” Holly turned to Miriam. “How are things with Mr. Casablanca over there?”</p>
 
-<p class="para-vi-sub">“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng với lão: ‘Anh Tom, anh mà còn dám hó hé câu nào về trượt zipline nữa, thì anh biết thừa thằng Chad sẽ buộc dây thừng từ mái nhà sang cái cây đằng kia rồi trượt xuống cho xem. Anh có muốn thế không?’ Thề luôn, tớ sắp chạm đến giới hạn chịu đựng của tớ rồi. Nhưng thôi, nói về tớ thế đủ rồi.” Holly quay sang nhìn Miriam. “Thế mọi chuyện với Ngài Casablanca đằng kia ra sao rồi?”</p>
+<p class="para-vi-sub">“Lão ấy bị ám ảnh đến phát cuồng rồi. Bây giờ lão lại còn đòi thử nhảy bungee nữa cơ. Rồi cậu đoán xem lão muốn cả nhà đi đâu kỳ nghỉ năm nay nào? Trượt zipline đấy. Ý tớ là, một mình lão chơi thì được. Nhưng cả gia đình đi cùng ư? Tớ đã bảo thẳng với lão: ‘Anh Tom, anh mà còn dám hó hé câu nào về trượt zipline nữa, thì anh biết thừa thằng Chad sẽ buộc dây thừng từ mái nhà sang cái cây đằng kia rồi trượt xuống cho xem. Anh có muốn thế không?’ Thề luôn, tớ sắp chạm đến giới hạn chịu đựng *của tớ* rồi. Nhưng thôi, nói về tớ thế đủ rồi.” Holly quay sang nhìn Miriam. “Thế mọi chuyện với Ngài Casablanca đằng kia ra sao rồi?”</p>
 
 <p class="para-en">“Okay, I guess…” Miriam answered.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-en">“That’s a good point,” said Holly. “If he thinks you don’t trust him, well, that might make him cheat. If he isn’t cheating already. No, you need to find out some other way.”</p>
 
-<p class="para-vi-sub">“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại khiến anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”</p>
+<p class="para-vi-sub">“Nói cũng đúng,” Holly gật gù. “Nếu anh ấy nghĩ cậu không tin tưởng mình, ừ thì, chuyện đó có khi lại *khiến* anh ấy đi ngoại tình thật cũng nên. Tất nhiên là nếu anh ấy chưa ăn chả. Không được, cậu phải tìm cách khác để điều tra thôi.”</p>
 
 <p class="para-en">“Didn’t he mention some woman?” said Kate. “Jessica or something?”</p>
 

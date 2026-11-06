@@ -1,12 +1,12 @@
 # THƯỢNG NGHỊ SĨ
 
-HÃY TƯỞNG TƯỢNG ÔNG là một thượng nghị sĩ.
+**HÃY TƯỞNG TƯỢNG ÔNG** là một thượng nghị sĩ.
 
 Hãy tưởng tượng về quyền lực.
 
 Hãy tưởng tượng về những cám dỗ.
 
-Ông có thể khiến mọi việc xoay chuyển theo ý mình. Người ta sẵn sàng dâng tiền để ông dàn xếp mọi chuyện. Người ta sẵn lòng dúi tiền vào tay ông chỉ để ông nhắm mắt làm ngơ cho mọi sự trôi xuôi, nhưng ôi, đời nào ông lại làm thế.
+Ông có thể khiến mọi việc xoay chuyển theo ý mình. Người ta sẵn sàng dâng tiền để ông dàn xếp mọi chuyện. Người ta sẵn lòng dúi tiền vào tay ông chỉ để ông nhắm mắt làm ngơ cho mọi sự trôi xuôi, nhưng *ôi, đời nào ông lại làm thế*.
 
 Quyết không đời nào. Chẳng bao giờ. Không bao giờ. Vĩnh viễn không bao giờ.
 
@@ -24,11 +24,10 @@ Tôi công nhận là ông đã rất đỗi nỗ lực, nhưng đôi khi Bản 
 
 Chỉ tiếc là, ông chẳng thể ngờ nổi thời khắc ấy lại diễn ra ngay trước mắt nhân viên an ninh hàng không TSA, bên cạnh một chiếc vali ních chặt tiền mặt mà ông còn chưa kịp tiêu, cùng đống cocaine mà ông còn chưa kịp hít. Cảnh tượng món đồ chơi người lớn nằm chình ình ở đó đủ khiến người ta phải khóc ròng.
 
-“Tôi đời nào lại làm trò ấy!” ông ra sức thanh minh với vợ, với cảnh sát, và với cả luật sư của mình.
+*“Tôi đời nào lại làm trò ấy!”* ông ra sức thanh minh với vợ, với cảnh sát, và với cả luật sư của mình.
 
-“Nghe này, thưa Thượng nghị sĩ, tôi hoàn toàn đứng về phía ông. Nhưng ông phải nói thật cho tôi biết, bằng không thì tôi biết bào chữa cho ông thế nào đây?”
+*“Nghe này, thưa Thượng nghị sĩ, tôi hoàn toàn đứng về phía ông. Nhưng ông phải nói thật cho tôi biết, bằng không thì tôi biết bào chữa cho ông thế nào đây?”*
 
 Đời nào ông lại làm thế. Đó là sự thật, chí ít là trong chừng mực mà ông chịu thừa nhận với chính lương tâm mình. Ông đâu có làm. Ông chẳng mảy may biết mớ ma túy kia từ đâu chui ra. Ông cũng không hiểu nổi vì sao món đồ chơi người lớn ấy lại nằm trong hành lý của mình. Chắc chắn là ông đã bị gài bẫy. Kẻ nào đó đã cố tình nhét những thứ nhơ nhớp này vào. Kẻ nào đó đã tráo đổi hành lý của ông. Thậm chí có khi chính đám nhân viên TSA cũng thông đồng trong vụ này. Đây rõ ràng là một âm mưu nhằm hủy hoại thanh danh của ông.
 
-Thế nhưng, ôi chao. Điều thực sự đúng và điều cảm thấy là đúng đâu phải lúc nào cũng chịu ăn khớp với nhau. Mà điều này thì, hơn ai hết, chính ông là người hiểu rõ nhất trần đời.
-
+Thế nhưng, ôi chao. Điều *thực sự đúng* và điều *cảm thấy là đúng* đâu phải lúc nào cũng chịu ăn khớp với nhau. Mà điều này thì, hơn ai hết, chính ông là người hiểu rõ nhất trần đời.

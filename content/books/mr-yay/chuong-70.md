@@ -1,6 +1,8 @@
-# KHÚC ĐỆM - MỘT CHÚ CHÓ CỰC KỲ NGOAN
+# KHÚC ĐỆM
 
-HÃY TƯỞNG TƯỢNG BẠN là một chú chó.
+# MỘT CHÚ CHÓ CỰC KỲ NGOAN
+
+**HÃY TƯỞNG TƯỢNG BẠN** là một chú chó.
 
 Hãy tưởng tượng bạn là một chú chó tha mồi Golden Retriever. Một Chú Chó Cực Kỳ Ngoan. Chỉ có điều, chưa từng có ai thèm nói cho bạn biết điều đó. Bạn trôi dạt khắp chốn, từ đầu đường xó chợ đến trạm cứu hộ động vật, từ bầy này sang bầy khác, không khác gì một mảnh gỗ trôi sông. Bạn dừng chân tại một ngôi nhà với những Con Người không hẳn là Người Xấu. Họ chỉ thờ ơ. Họ thuộc tuýp Những Con Người Cực Kỳ Bận Rộn, chẳng có lấy một giây để ôm ấp, dắt đi dạo hay chơi đùa cùng một chú chó (hoặc bất kỳ sự kết hợp nào giữa ôm ấp, đi dạo và chơi đùa). Rốt cuộc, bạn chỉ là kẻ vướng chân vướng cẳng, trôi lăn trong sự cô đơn. Bạn cô đơn và buồn bã vì cảm thấy thiếu vắng một điều gì đó. Bạn chẳng thể chỉ rõ là điều gì, nhưng bạn cảm nhận được rất rõ.
 
@@ -22,11 +24,10 @@ Họ muốn nhận nuôi bạn.
 
 Họ chọn bạn. Họ ôm chầm lấy bạn. Lần đầu tiên trong đời, có người nói với bạn rằng bạn là một Chú Chó Cực Kỳ Ngoan, và rằng bạn sắp sửa dấn thân vào những chuyến phiêu lưu vĩ đại.
 
-Họ gọi bạn là Thuyền trưởng.
+Họ gọi bạn là *Thuyền trưởng*.
 
 Bạn tự dặn mình phải cư xử sao cho xứng đáng với danh xưng này. Thế là bạn ngoan ngoãn hết mức có thể khi gặp gỡ những người bạn mới. Ở đây có biết bao nhiêu bạn bè. Có một anh bạn giống Pitbull. Có một chú chó già ba chân. Vài người chỉ là những vị khách thân thiện ghé qua, nhưng những người khác thì thuộc về bầy đàn. Và bạn, bạn cũng thuộc về bầy đàn ấy.
 
 Tất cả cùng nhau chơi một trò chơi. Âm nhạc cất lên. Có cả bánh thưởng vị cá hồi thơm phức. Tất cả đều được đội những chiếc mũ đồng bộ. Mọi người cùng reo hò vỗ tay.
 
 Tất cả các bạn, không trừ một ai, đều là Những Chú Chó Cực Kỳ Ngoan.
-

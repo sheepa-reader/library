@@ -1,8 +1,10 @@
-# KHÚC ĐỆM - KÝ ỨC ÙA VỀ
+# KHÚC ĐỆM
 
-BRATTY
+# KÝ ỨC ÙA VỀ
 
-MỘT TUẦN TRƯỚC ĐÓ, bố anh từng bảo: “Bradford, con nên về ăn Lễ Tạ ơn. Điều đó có ý nghĩa rất lớn đấy.”
+**BRATTY**
+
+**MỘT TUẦN TRƯỚC ĐÓ**, bố anh từng bảo: “Bradford, con nên về ăn Lễ Tạ ơn. Điều đó có ý nghĩa rất lớn đấy.”
 
 Có điều, thực tế lại chẳng có chút ý nghĩa quái nào. Lúc anh có mặt đúng mười một giờ trưa, chuẩn xác theo lời họ dặn, thì trong nhà lại chẳng có lấy một ai.
 
@@ -10,7 +12,7 @@ Xe của họ không ở trên lối đi. Cửa khóa then cài. Anh từng có 
 
 Anh gọi điện cho bố. Bố không bắt máy. Anh đã cất công làm một khay đậu que đút lò (lúc mang rời khỏi căn hộ thì vẫn còn ấm nóng), nhưng nhiệt độ ngoài trời đang tụt dốc không phanh. Trời xám xịt, ảm đạm, mùa đông đã chực chờ ngay ngưỡng cửa. Bình xăng thì chẳng còn đủ để anh nổ máy sưởi ấm trong lúc đỗ chờ. Mà anh lại chẳng muốn quay xe đi về. Anh chỉ muốn có một bữa tiệc Lễ Tạ ơn đúng nghĩa.
 
-Anh ngồi co ro trên bậc tam cấp, ôm khư khư khay đậu que đang nguội lạnh dần. Các đầu ngón chân tê cóng. Nước mũi thò lò. Ngay khi anh chạm đến ngưỡng kệ mẹ nó, biến thôi và vừa đứng dậy định rời đi, chiếc xe của họ mới chịu rẽ vào lối đi trước sân.
+Anh ngồi co ro trên bậc tam cấp, ôm khư khư khay đậu que đang nguội lạnh dần. Các đầu ngón chân tê cóng. Nước mũi thò lò. Ngay khi anh chạm đến ngưỡng *kệ mẹ nó, biến thôi* và vừa đứng dậy định rời đi, chiếc xe của họ mới chịu rẽ vào lối đi trước sân.
 
 “Bradford. Cậu đến sớm thế,” mẹ kế của anh cất giọng. Bất ngờ chưa, bà ta chẳng hề có vẻ gì là vui mừng khi thấy mặt anh. “Đáng lẽ hai giờ chiều cậu mới phải có mặt chứ.”
 
@@ -46,9 +48,9 @@ Thế nhưng, người bố ở thực tại này lại chỉ buông một câu:
 
 Anh đứng chết lặng giữa muôn vàn đắn đo. Ở lại hay rời đi? Nhẫn nhịn làm vừa lòng người khác hay đứng lên đối đầu trực diện? Ráng nuốt đĩa salad Lễ Tạ ơn vì sự hòa thuận gia đình, hay chuồn thật nhanh tới một bữa tiệc buffet bánh nướng đẫm sốt thịt? (Nếu anh có thể tìm được một quán còn mở cửa).
 
-Anh kiểm tra điện thoại và phát hiện ra một lựa chọn còn tuyệt vời hơn: suất chiếu lúc hai giờ của bộ phim Peregrine tại rạp chiếu bóng nghệ thuật trên đường Ludlow. Nơi đó nằm ngay sát vách quán Cheezy Mac Shack mở cửa 24/7, nơi phục vụ những viên mì phô mai kẹp gà tây chiên giòn đỉnh nhất trần đời.
+Anh kiểm tra điện thoại và phát hiện ra một lựa chọn còn tuyệt vời hơn: suất chiếu lúc hai giờ của bộ phim *Peregrine* tại rạp chiếu bóng nghệ thuật trên đường Ludlow. Nơi đó nằm ngay sát vách quán Cheezy Mac Shack mở cửa 24/7, nơi phục vụ những viên mì phô mai kẹp gà tây chiên giòn đỉnh nhất trần đời.
 
-Kệ xác món salad.
+*Kệ xác món salad.*
 
 Việc gì phải bận tâm nói lời từ biệt? Dù sao họ cũng chẳng thực sự muốn anh có mặt ở đây. Bratty phớt tỉnh rảo bước ra cửa. Nhưng trước khi anh kịp trốn thoát, bố anh đã bước ra khỏi phòng làm việc.
 
@@ -72,7 +74,7 @@ Bratty vốn định cứ thế một mình rời đi, nhưng có lẽ vẻ th�
 
 “Nhưng bố… ừm…”
 
-“Nếu dì Helena bị ốm, rồi bố mẹ phải hủy tiệc Lễ Tạ ơn, thì bố định làm gì chứ? Ngồi đây một mình sao? Bố nên đi cùng con thì hơn. Rạp đang chiếu Peregrine đấy. Bố biết mà, bộ phim trinh thám noir kinh điển ấy? Vui lắm cho xem.”
+“Nếu dì Helena bị ốm, rồi bố mẹ phải hủy tiệc Lễ Tạ ơn, thì bố định làm gì chứ? Ngồi đây một mình sao? Bố nên đi cùng con thì hơn. Rạp đang chiếu *Peregrine* đấy. Bố biết mà, bộ phim trinh thám noir kinh điển ấy? Vui lắm cho xem.”
 
 Bố anh muốn đi. Trong mắt ông ánh lên một vẻ khao khát xa xăm.
 
@@ -93,4 +95,3 @@ Trong lúc bố vào hỏi, Bratty đứng đợi bên cửa, chẳng buồn nu�
 “Thì bởi vì… chỉ là để xem mọi thứ sẽ chuyển biến ra sao thôi. Hoặc biết đâu chừng, từng có điều gì đó bố luôn khao khát, nhưng vì trông có vẻ viển vông phi thực tế nên bố chưa bao giờ dám thực hiện.”
 
 “Hừm.” Bố anh nhấp một ngụm bia. “Được rồi. Nhưng chỉ một điều thôi nhé. Mà chuyện đó cũng chẳng bao giờ thành hiện thực đâu, vì Helena, ừ thì… Nhưng nếu mọi sự khác đi, bố đã luôn muốn nuôi một chú chó.”
-

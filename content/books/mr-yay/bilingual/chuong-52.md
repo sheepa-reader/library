@@ -2,11 +2,11 @@
 
 <p class="para-en">MIRIAM + JACK</p>
 
-<p class="para-vi-sub">MIRIAM + JACK</p>
+<p class="para-vi-sub">**MIRIAM + JACK**</p>
 
 <p class="para-en">A WOMAN WAS IN LOVE, and that was enough, right?</p>
 
-<p class="para-vi-sub">MỘT NGƯỜI PHỤ NỮ ĐANG YÊU, và thế là đủ rồi, đúng chứ?</p>
+<p class="para-vi-sub">**MỘT NGƯỜI PHỤ NỮ ĐANG YÊU,** và thế là đủ rồi, đúng chứ?</p>
 
 <p class="para-en">Love was all you needed, said songs and cinema. Love swelled large enough to fill your heart, your soul, your belly, your every waking thought.</p>
 
@@ -18,15 +18,15 @@
 
 <p class="para-en">A woman was in love, except at night, when she slept, her brain forgot. Her brain forged a strange vacancy in the bed beside her. Her brain conjured a ringing phone, a husband who wouldn’t pick up, a choppy sea between them. Her dream gave her a carton of eggs. She cracked three in a bowl. She cracked a fourth, but instead of white and yolk, out came a little foot. It looked, at first, like a tiny human foot, the foot of a doll, or a pixie. Then it became the foot of a chick. The chick soaked in the bowl of egg. It shook bits of shell from its feathers. Then it hopped out, onto the table. It ran to the window. It leapt. She awaited the thud-crunch of chicken smacking glass, but instead it sailed through, as if the window was porous. Then, outside, it took flight. It was a black bird-shape in a neon sky. It was a dream a woman forgot, by the time it mattered. She thought, in the dream and on waking: Where are my chickens? But she forgot that, too. She had other suspicions to ponder.</p>
 
-<p class="para-vi-sub">Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng bịch, rắc khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút lên cao. Đó là một bóng chim đen tuyền giữa nền trời rực sắc neon. Đó là một giấc mơ mà người phụ nữ đã lãng quên đúng vào thời điểm nó trở nên quan trọng. Cả trong mơ lẫn lúc vừa choàng tỉnh, cô đều nghĩ: Đàn gà của mình đâu rồi nhỉ? Nhưng rồi cô cũng quên béng luôn cả điều đó. Bởi lẽ cô còn bao mối hoài nghi khác cần bận tâm suy xét.</p>
+<p class="para-vi-sub">Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng *bịch, rắc* khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút lên cao. Đó là một bóng chim đen tuyền giữa nền trời rực sắc neon. Đó là một giấc mơ mà người phụ nữ đã lãng quên đúng vào thời điểm nó trở nên quan trọng. Cả trong mơ lẫn lúc vừa choàng tỉnh, cô đều nghĩ: *Đàn gà của mình đâu rồi nhỉ?* Nhưng rồi cô cũng quên béng luôn cả điều đó. Bởi lẽ cô còn bao mối hoài nghi khác cần bận tâm suy xét.</p>
 
 <p class="para-en">But regardless, regardless, no matter how it turned out, love was enough. And she was smitten. She was a newlywed. She was Mrs. Miriam Shipley and she still shivered with glee to see her name in print. To hear it. The Shipleys. Mister. Missus. Plus a fine young dog. And what else?</p>
 
-<p class="para-vi-sub">Dù sao đi nữa, dẫu mọi chuyện có tiến triển theo chiều hướng nào, tình yêu vẫn là quá đủ. Và cô đang say đắm trong men tình. Cô là một cô dâu mới cưới. Cô là bà Miriam Shipley, và cô vẫn còn run lên vì sung sướng mỗi khi nhìn thấy tên mình được in trên giấy tờ. Mỗi khi lắng nghe danh xưng ấy: Nhà Shipley. Ông bà Shipley. Cộng thêm một chú cún cưng đáng yêu hết nấc. Và còn gì nữa nhỉ?</p>
+<p class="para-vi-sub">Dù sao đi nữa, dẫu mọi chuyện có tiến triển theo chiều hướng nào, tình yêu vẫn là quá đủ. Và cô đang say đắm trong men tình. Cô là một cô dâu mới cưới. Cô là bà Miriam Shipley, và cô vẫn còn run lên vì sung sướng mỗi khi nhìn thấy tên mình được in trên giấy tờ. Mỗi khi lắng nghe danh xưng ấy: *Nhà Shipley. Ông bà Shipley.* Cộng thêm một chú cún cưng đáng yêu hết nấc. Và còn gì nữa nhỉ?</p>
 
 <p class="para-en">She loved their house. Their house. A two-story Craftsman at the cul-de-sac end of Ravenswood Drive. She loved the big trees and cottage gardens and gas lamps of her 1930s suburb. She loved the neighborliness, the block parties, the stop-and-chats. She loved the density of plant and animal life, the birds nested in the leafy branches, the rabbits and foxes. She even loved the bees that burrowed holes in the wooden porch furniture, the deer who devoured her hostas, the brazen squirrels who plucked every ripe tomato from her garden plants, ate a single bite, then tossed the rest aside.</p>
 
-<p class="para-vi-sub">Cô yêu ngôi nhà của họ. Ngôi nhà của họ. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.</p>
+<p class="para-vi-sub">Cô yêu ngôi nhà của họ. Ngôi nhà của *họ*. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.</p>
 
 <p class="para-en">She loved all this because she loved Jack, so much that it felt like a neutron bomb, a mushroom cloud of love to envelop everything around her.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-en">It was June. Hot and steamy. The air was sickeningly floral. A brood of cicadas had hatched. They abandoned their crunchy exoskeletons on streets and sidewalks, bushes and branches. She went for a run, crunch crunch crunch along the sidewalk, and wondered whether and how her life might change.</p>
 
-<p class="para-vi-sub">Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng lạo xạo, lạo xạo, lạo xạo dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.</p>
+<p class="para-vi-sub">Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng *lạo xạo, lạo xạo, lạo xạo* dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.</p>
 
 <p class="para-en">Maybe she would have to run less and swim more. Maybe she would take an extra year to finish grad school. Maybe she would paint the bedroom blue or yellow. Maybe she would buy a jogging stroller.</p>
 
@@ -74,7 +74,7 @@
 
 <p class="para-en">Miriam took the test as soon as she got home. The box had a drawing of a fat, dimpled baby with a curlicue of hair. The instructions said that a straight line meant not pregnant and a curlicue meant pregnant. The instructions said it would take two minutes, but it only took a few seconds before the curlicue appeared. She took a second test, just to be sure. She wanted to call Jack right then, to squeal into the phone, Jack! Jack Jack Jack Jack, we’re having a baby!!! But also, she wanted the revelation to be special and perfect. She wanted to see the look on his face. To feel his arms, his hands, his lips. Their hearts, beating together.</p>
 
-<p class="para-vi-sub">Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là không có thai, còn một vạch lượn sóng xoăn tít nghĩa là có thai. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay lấy điện thoại gọi cho Jack, muốn gào tướng lên qua ống nghe: Jack! Jack Jack Jack Jack ơi, chúng ta sắp có em bé rồi!!! Thế nhưng cùng lúc đó, cô lại muốn khoảnh khắc trọng đại này phải diễn ra thật hoàn hảo và trang trọng. Cô muốn tận mắt ngắm nhìn biểu cảm trên gương mặt anh, muốn cảm nhận hơi ấm từ vòng tay, bàn tay cùng bờ môi anh, và lắng nghe nhịp đập rộn ràng của hai trái tim cùng hòa làm một.</p>
+<p class="para-vi-sub">Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là *không có thai*, còn một vạch lượn sóng xoăn tít nghĩa là *có thai*. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay lấy điện thoại gọi cho Jack, muốn gào tướng lên qua ống nghe: *Jack! Jack Jack Jack Jack ơi, chúng ta sắp có em bé rồi!!!* Thế nhưng cùng lúc đó, cô lại muốn khoảnh khắc trọng đại này phải diễn ra thật hoàn hảo và trang trọng. Cô muốn tận mắt ngắm nhìn biểu cảm trên gương mặt anh, muốn cảm nhận hơi ấm từ vòng tay, bàn tay cùng bờ môi anh, và lắng nghe nhịp đập rộn ràng của hai trái tim cùng hòa làm một.</p>
 
 <p class="para-en">She skipped class and spent the day idly surfing the internet, browsing for baby clothes, baby accessories, tips for healthy happy pregnant mothers. She went grocery shopping. She cooked Jack’s favorite dinner foods: corn on the cob, buttermilk biscuits. Meat loaf. She set the table. She lit candles. She poured a glass of wine, for Jack. None for her. He was supposed to be home at seven. She’d timed everything perfectly.</p>
 
@@ -90,7 +90,7 @@
 
 <p class="para-en">“Late late. Like, midnight, if I’m lucky. I’ll try not to wake you.”</p>
 
-<p class="para-vi-sub">“Rất muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”</p>
+<p class="para-vi-sub">“*Rất* muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”</p>
 
 <p class="para-en">“Okay…but just tonight, right? You’ll be home for dinner tomorrow?”</p>
 
@@ -198,7 +198,7 @@
 
 <p class="para-en">Jack, we’re having a baby. There’s leftover meat loaf, corn, and biscuits in the fridge.</p>
 
-<p class="para-vi-sub">Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.</p>
+<p class="para-vi-sub">*Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.*</p>
 
 <p class="para-en">Later, she ate the biscuits. Then she climbed into an empty bed and fell asleep.</p>
 

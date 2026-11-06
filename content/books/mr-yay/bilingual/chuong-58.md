@@ -2,7 +2,7 @@
 
 <p class="para-en">THE FRONT YARD was still all mud and rabbits, but a hand-painted sign foretold wildflowers and native grasses. In the backyard, Mabel’s sixth birthday party had already started. Lindsey carried her present, a set of colored pencils crafted from recycled wood and natural plant dyes.</p>
 
-<p class="para-vi-sub">SÂN TRƯỚC vẫn còn nhem nhuốc bùn đất và nhung nhúc thỏ, nhưng một tấm biển vẽ tay đã hứa hẹn về một tương lai tươi sáng ngập tràn hoa dại cùng cỏ bản địa. Ở sân sau, bữa tiệc sinh nhật lần thứ sáu của Mabel đã bắt đầu từ đời nào rồi. Lindsey ôm chặt món quà của con bé: một bộ bút chì màu làm từ gỗ tái chế với phẩm màu tự nhiên chiết xuất từ thực vật.</p>
+<p class="para-vi-sub">**SÂN TRƯỚC** vẫn còn nhem nhuốc bùn đất và nhung nhúc thỏ, nhưng một tấm biển vẽ tay đã hứa hẹn về một tương lai tươi sáng ngập tràn hoa dại cùng cỏ bản địa. Ở sân sau, bữa tiệc sinh nhật lần thứ sáu của Mabel đã bắt đầu từ đời nào rồi. Lindsey ôm chặt món quà của con bé: một bộ bút chì màu làm từ gỗ tái chế với phẩm màu tự nhiên chiết xuất từ thực vật.</p>
 
 <p class="para-en">“No plastics,” Kate had said, when Miriam asked about birthday gifts. “Obviously.”</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">“Oh, right, you mean, how did I meet them? Fred and I used to work together at the bank. But then I quit my job at the bank and sold my house, and I was camping in the park, but apparently the park closes at nine p.m. So now I’m living here.”</p>
 
-<p class="para-vi-sub">“Ồ, đúng rồi, ý cô là làm sao tôi quen họ chứ gì? Tôi với Fred từng làm chung ở ngân hàng. Nhưng rồi tôi bỏ việc ngân hàng và bán nhà, sau đó đi cắm trại ở công viên. Cơ mà hóa ra công viên lại đóng cửa lúc chín giờ tối. Thế nên giờ tôi sống ở đây.”</p>
+<p class="para-vi-sub">“*Ồ, đúng rồi*, ý cô là làm sao tôi quen họ chứ gì? Tôi với Fred từng làm chung ở ngân hàng. Nhưng rồi tôi bỏ việc ngân hàng và bán nhà, sau đó đi cắm trại ở công viên. Cơ mà hóa ra công viên lại đóng cửa lúc chín giờ tối. Thế nên giờ tôi sống ở đây.”</p>
 
 <p class="para-en">“Here, as in, this house?” Miriam asked. “With Kate and Fred?”</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">But which one of them had three legs? “That’s…great.”</p>
 
-<p class="para-vi-sub">Nhưng trong số đó, rốt cuộc loài nào lại chỉ có ba chân cơ chứ?</p>
+<p class="para-vi-sub">*Nhưng trong số đó, rốt cuộc loài nào lại chỉ có ba chân cơ chứ?*</p>
 
 <p class="para-en">“It’s weird,” Holly said. Her filter was gone. In its wake was drunken impudence. But Kate didn’t seem to notice or care. She flung an arm around each of them.</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-en">“Oh no. I wish.” Kate worked in the marketing department of a pharmaceutical company. “But we couldn’t get the loan for the wellness studio unless one of us kept our job. And we decided that I was more convincing than Fred.” A steady stream of ants marched through her hair. “Fred looks like such a hippie.”</p>
 
-<p class="para-vi-sub">“Ôi không. Tớ cũng ước gì được vậy.” Kate vốn làm việc ở bộ phận tiếp thị của một công ty dược phẩm. “Nhưng tụi tớ không thể vay tiền mở trung tâm chăm sóc sức khỏe trừ khi một trong hai đứa giữ lại công việc công sở. Và tụi tớ quyết định tớ là người có khả năng thuyết phục ngân hàng tốt hơn Fred.” Một hàng kiến kiên trì bò qua mái tóc cô. “Mặt mũi Fred nhìn trông đúng là rất hippie.”</p>
+<p class="para-vi-sub">“Ôi không. Tớ cũng ước gì được vậy.” Kate vốn làm việc ở bộ phận tiếp thị của một công ty dược phẩm. “Nhưng tụi tớ không thể vay tiền mở trung tâm chăm sóc sức khỏe trừ khi một trong hai đứa giữ lại công việc công sở. Và tụi tớ quyết định tớ là người có khả năng thuyết phục ngân hàng tốt hơn Fred.” Một hàng kiến kiên trì bò qua mái tóc cô. “Mặt mũi Fred nhìn trông đúng là *rất* hippie.”</p>
 
 <p class="para-en">Then it was time for presents. Mabel unwrapped plastic toys, plastic dolls, plastic art supplies, gummy candies made with red dye number 40, bubble guns that blasted toxic bubbles, stuffies that leeched toxic chemicals, et﻿cetera, all of which Kate plucked from her hands and handed off to Fred, to deposit in a box in a quarantined section of the yard, which the absorbent children were prohibited from entering. Then, at last, came the big gift, the best gift. Kate and Fred brought it out together. A pet goat.</p>
 

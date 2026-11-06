@@ -1,8 +1,8 @@
 # HỒI TƯỞNG
 
-BRATTY
+**BRATTY**
 
-CẬU BÉ ĐANG ĐÓI. Cậu mới tám tuổi.
+**CẬU BÉ ĐANG ĐÓI.** Cậu mới tám tuổi.
 
 Cậu đói, đói, đói, đói khủng khiếp. Cơn đói tựa như một hố đen thăm thẳm, và cho dù cậu có tống bao nhiêu thức ăn vào cái hố không đáy ấy thì nó vẫn cứ chực chờ ở đó, rỗng hoác.
 
@@ -16,7 +16,7 @@ Lần trước, cậu lén nhét một hộp mì capellini vào túi. Cậu thí
 
 Lần này tội vạ bắt đầu từ việc cậu có nghĩa vụ phải đi đổ rác. Gom các túi rác lại. Lồng túi mới vào. Nhét rác vào thùng. Rồi kéo thùng rác ra ngoài lề đường. Cậu đã hoàn thành xuất sắc tất cả các khâu, ngoại trừ khâu cuối cùng, khâu mà cậu trót quên khuấy mất. Thế là những thùng rác sẽ nằm chình ình trong gara suốt cả tuần trời, rồi gara sẽ bốc mùi, rồi cái mùi ấy sẽ len lỏi xộc vào tận trong nhà. Mà làm sao bà ta có thể nuốt nổi miếng cơm nào với cái mùi kinh khủng ấy trong nhà cơ chứ? Và tại sao cậu lại được phép ăn tối, một khi bà ta đã không thể nuốt trôi?
 
-Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim Deadhand Diego trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.
+Lần này cậu đã thao tác chuyên nghiệp hơn. Cậu nhét đồ ăn căng phồng các túi quần áo. Cậu rón rén bò ra khỏi phòng chứa đồ ăn, băng qua căn bếp tối om rồi lướt xuống những bậc cầu thang tăm tối. Bố cậu vẫn còn thức, đang dán mắt vào bộ phim *Deadhand Diego* trên TV. Đáng lẽ lúc này cậu phải ngồi làm bài tập về nhà, nhưng làm sao ai đó có thể tập trung học hành khi cái dạ dày đang cào xé dữ dội đến nhường này.
 
 Bradford Pierson đã mò về được đến phòng ngủ của mình dưới tầng hầm. Tạm thời an toàn. Cậu trút sạch chiến lợi phẩm trong túi ra giường: một hộp bánh quy lạt, một hũ ô liu xanh nhồi nhân, một chai tương cà, cùng một thanh đạm vị sô-cô-la.
 
@@ -59,4 +59,3 @@ Chính tại nơi này, một bước ngoặt vô hình đã âm thầm diễn r
 “Bà ấy bảo tao là một đứa trẻ hư,” Bradford cất lời. Cậu trầm ngâm, nghiêm túc ngẫm nghĩ về khả năng đó. “Này Tommy, mày có nghĩ tao là đứa hư hỏng thật không?”
 
 Hàng mày của Tommy càng nhíu chặt hơn nữa. Cậu lắc đầu dứt khoát. “Không,” cậu nói. Cậu bé tám tuổi chưa từng nói tục một lần nào trong đời, nhưng kể từ chính khoảnh khắc định mệnh này trở đi, cậu sẽ không bao giờ ngừng chửi thề nữa. “Không đời nào. Mẹ kiếp bà ta.”
-

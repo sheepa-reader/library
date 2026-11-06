@@ -2,7 +2,7 @@
 
 <p class="para-en">THE VIDEO of the disappearing-reappearing goat got posted on the internet, and all the crazies came out. Detective Jack Shipley’s email was deluged with conspiracy claims, cultist propositions, invitations to attend Deepfake Boot Camp or enlist in the Freedom from Physics Militia or donate his blood to the cause of Molecular Stability Enhancement Pants, which after crowdfunding would be sold for $1,299.99 per pair, and would guarantee protection from spontaneous subatomic degradation. Also, thousands of emails about the missing Mr. Yay.</p>
 
-<p class="para-vi-sub">ĐOẠN VIDEO quay cảnh con dê thoắt ẩn thoắt hiện vừa tung lên mạng, thế là lũ người quái gở liền lũ lượt kéo ra. Hòm thư điện tử của thám tử Jack Shipley ngập chìm trong hàng tá thuyết âm mưu, vô số lời rủ rê từ các giáo phái kỳ bí, lời mời tham gia Trại huấn luyện Deepfake hay gia nhập Lực lượng Dân quân Giải phóng Khỏi Vật lý, thậm chí là kêu gọi hiến máu cho dự án Quần chắp vá định hình thực tại. Thứ trang phục sau khi gọi vốn cộng đồng sẽ được bán với giá 1.299,99 đô la một chiếc, kèm lời cam kết chắc nịch rằng sẽ bảo vệ người mặc khỏi hiện tượng phân rã dưới nguyên tử tự phát. Đó là còn chưa kể hàng ngàn thư điện tử dồn dập hỏi han về sự biến mất của Mr. Yay.</p>
+<p class="para-vi-sub">**ĐOẠN VIDEO** quay cảnh con dê thoắt ẩn thoắt hiện vừa tung lên mạng, thế là lũ người quái gở liền lũ lượt kéo ra. Hòm thư điện tử của thám tử Jack Shipley ngập chìm trong hàng tá thuyết âm mưu, vô số lời rủ rê từ các giáo phái kỳ bí, lời mời tham gia Trại huấn luyện Deepfake hay gia nhập Lực lượng Dân quân Giải phóng Khỏi Vật lý, thậm chí là kêu gọi hiến máu cho dự án Quần chắp vá định hình thực tại. Thứ trang phục sau khi gọi vốn cộng đồng sẽ được bán với giá 1.299,99 đô la một chiếc, kèm lời cam kết chắc nịch rằng sẽ bảo vệ người mặc khỏi hiện tượng phân rã dưới nguyên tử tự phát. Đó là còn chưa kể hàng ngàn thư điện tử dồn dập hỏi han về sự biến mất của Mr. Yay.</p>
 
 <p class="para-en">“Did you know there was a cartoon spin-off?” Jack said, as he skimmed through his emails. He sat on the deck, next to the hammock, laptop open, mystery-solving note cards with lots of question marks spread out around him.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-en">“Yes, but this guy is an astrophysicist. He has a PhD. And his name is SherLok Ohms.”</p>
 
-<p class="para-vi-sub">“Phải, nhưng gã này là một nhà vật lý thiên văn. Gã có bằng tiến sĩ hẳn hoi. Và tên gã là SherLok Ohms.”</p>
+<p class="para-vi-sub">“Phải, nhưng *gã này* là một nhà vật lý thiên văn. Gã có bằng tiến sĩ hẳn hoi. Và tên gã là *SherLok Ohms*.”</p>
 
 <p class="para-en">“Okay, but that’s a fake name, right?”</p>
 
@@ -150,7 +150,7 @@
 
 <p class="para-en">“Maybe we should—” try to stop them, Miriam thought. But it was already too late.</p>
 
-<p class="para-vi-sub">“Có khi chúng ta nên…” cố ngăn họ lại, Miriam thầm nghĩ. Nhưng đã quá muộn rồi.</p>
+<p class="para-vi-sub">“Có khi chúng ta nên…” *cố ngăn họ lại*, Miriam thầm nghĩ. Nhưng đã quá muộn rồi.</p>
 
 <p class="para-en">Tom and Fred exchanged a fist bump. They jumped on their skateboards. They pushed off.</p>
 
@@ -206,5 +206,5 @@
 
 <p class="para-en">He’d won, and he grinned, and raised his arms to the sky, victorious. But he didn’t know how to slow down. He thrust his leg out, an ungraceful attempt to catch the road with his foot, but it didn’t slow him. It just put him off-balance. He tried to swerve into a driveway, but instead his skateboard slammed into the curb. And stopped. And Tom kept going. He flew, his arms spread wide before him. A one-man rocket ship. Until he crashed, and with a sickening crack, his bones broke against the earth, and he screamed, a single scream. He fell alarmingly silent, and there were only soft sounds, the birds in the trees, the wind, the distant wail of his wife, who had just witnessed a warped rendition of her most terrible, most persistent dream.</p>
 
-<p class="para-vi-sub">Anh đã thắng! Tom toe toét cười rồi giơ hai tay lên trời đầy đắc thắng. Mỗi tội, anh lại chẳng biết làm cách nào để giảm tốc. Anh duỗi chân ra (một nỗ lực vụng về nhằm chà đế giày xuống mặt đường), song điều đó chẳng giúp anh hãm lại chút nào mà chỉ khiến anh mất thăng bằng. Anh cố bẻ lái rẽ vào lối dẫn xe vào nhà, nhưng rốt cuộc chiếc ván trượt lại đâm sầm vào gờ vỉa hè rồi khựng lại. Còn Tom thì vẫn tiếp tục lao đi. Anh bay vút lên không trung, hai tay dang rộng về phía trước hệt như một chiếc phi thuyền tên lửa đơn độc. Rồi anh rơi tự do. Kèm theo một tiếng rắc rợn người, xương cốt anh vỡ vụn ngay khi va chạm với mặt đất. Anh cất lên một tiếng thét duy nhất xé toạc không gian, để rồi sau đó chìm vào sự im lặng đến đáng sợ. Giờ đây chỉ còn lại những âm thanh dịu nhẹ của không gian: tiếng chim hót trên cành, tiếng gió rì rào, và tiếng gào khóc từ xa của Holly - người vợ vừa tận mắt chứng kiến một biến thể méo mó bước ra từ cơn ác mộng kinh hoàng và dai dẳng nhất đời mình.</p>
+<p class="para-vi-sub">Anh đã thắng! Tom toe toét cười rồi giơ hai tay lên trời đầy đắc thắng. Mỗi tội, anh lại chẳng biết làm cách nào để giảm tốc. Anh duỗi chân ra (một nỗ lực vụng về nhằm chà đế giày xuống mặt đường), song điều đó chẳng giúp anh hãm lại chút nào mà chỉ khiến anh mất thăng bằng. Anh cố bẻ lái rẽ vào lối dẫn xe vào nhà, nhưng rốt cuộc chiếc ván trượt lại đâm sầm vào gờ vỉa hè rồi khựng lại. Còn Tom thì vẫn tiếp tục lao đi. Anh bay vút lên không trung, hai tay dang rộng về phía trước hệt như một chiếc phi thuyền tên lửa đơn độc. Rồi anh rơi tự do. Kèm theo một tiếng *rắc* rợn người, xương cốt anh vỡ vụn ngay khi va chạm với mặt đất. Anh cất lên một tiếng thét duy nhất xé toạc không gian, để rồi sau đó chìm vào sự im lặng đến đáng sợ. Giờ đây chỉ còn lại những âm thanh dịu nhẹ của không gian: tiếng chim hót trên cành, tiếng gió rì rào, và tiếng gào khóc từ xa của Holly - người vợ vừa tận mắt chứng kiến một biến thể méo mó bước ra từ cơn ác mộng kinh hoàng và dai dẳng nhất đời mình.</p>
 

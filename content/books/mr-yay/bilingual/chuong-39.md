@@ -2,7 +2,7 @@
 
 <p class="para-en">ON FRIDAY MORNING, Jack left the house before dawn. He left a note on the counter. Went in to work early. Love, Jack.</p>
 
-<p class="para-vi-sub">VÀO BUỔI SÁNG THỨ SÁU, Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: Anh đi làm sớm. Yêu em, Jack.</p>
+<p class="para-vi-sub">**VÀO BUỔI SÁNG THỨ SÁU,** Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: *Anh đi làm sớm. Yêu em, Jack.*</p>
 
 <p class="para-en">Miriam fed, washed, and dressed the kids. She took them to school. She only had two appointments that day, both later in the afternoon. She took Roxster for a run. On Kate and Fred’s front lawn, between the patches of frost on the grass and blooming snowdrops, were about fifty rabbits. Roxster lunged. She jerked him back. Some of the rabbits scattered, but others just sat and stared at the stupid dog.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">“She says it’s not a problem,” Holly said. She looked pale. Her hands shook slightly.</p>
 
-<p class="para-vi-sub">“Cậu ấy bảo làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.</p>
+<p class="para-vi-sub">“Cậu ấy *bảo* làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.</p>
 
 <p class="para-en">“Two or three rabbits is not a problem. That’s like—”</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-en">She had. Except the Jack she knew was gone. He had disappeared inside the Dark Work Tunnel, and she couldn’t see what happened there. She didn’t know what parts of Jack got chipped away. Or what other parts grew, foreign and grotesque in that lightless grind of billable hours. And now he had emerged, changed, but in what way?</p>
 
-<p class="para-vi-sub">Cô đã từng hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?</p>
+<p class="para-vi-sub">Cô *đã từng* hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?</p>
 
 <p class="para-en">He drove toward downtown. She could see the kids through the back windshield, heads bobbing, arms waving, as if they were dancing. They looked excited.</p>
 
@@ -142,5 +142,5 @@
 
 <p class="para-en">She tried the door. He’d locked it, and she hadn’t brought the spare key. She peered inside. His suit hung in a plastic dry-cleaning bag in the back seat. Empty coffee cups collected on the passenger-side floor. And there was a novel on the seat. A Dashing Death. From the cover, it looked like a detective novel.</p>
 
-<p class="para-vi-sub">Cô thử mở cửa. Anh đã khóa xe, mà cô lại không mang theo chìa khóa dự phòng. Cô ghé mắt nhìn qua lớp kính vào bên trong. Bộ vest của anh treo trong túi nilon giặt khô ở ghế sau. Mấy ly cà phê rỗng chất đống trên sàn xe phía ghế phụ. Và trên ghế xuất hiện một cuốn tiểu thuyết. Cái chết lịch lãm. Trông qua trang bìa, đó có vẻ là một cuốn tiểu thuyết trinh thám.</p>
+<p class="para-vi-sub">Cô thử mở cửa. Anh đã khóa xe, mà cô lại không mang theo chìa khóa dự phòng. Cô ghé mắt nhìn qua lớp kính vào bên trong. Bộ vest của anh treo trong túi nilon giặt khô ở ghế sau. Mấy ly cà phê rỗng chất đống trên sàn xe phía ghế phụ. Và trên ghế xuất hiện một cuốn tiểu thuyết. *Cái chết lịch lãm.* Trông qua trang bìa, đó có vẻ là một cuốn tiểu thuyết trinh thám.</p>
 

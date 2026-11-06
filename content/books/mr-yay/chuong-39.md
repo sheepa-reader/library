@@ -1,6 +1,6 @@
 # VƯỜN THÚ
 
-VÀO BUỔI SÁNG THỨ SÁU, Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: Anh đi làm sớm. Yêu em, Jack.
+**VÀO BUỔI SÁNG THỨ SÁU,** Jack rời nhà từ trước lúc bình minh. Anh để lại một mẩu giấy nhắn trên quầy bếp: *Anh đi làm sớm. Yêu em, Jack.*
 
 Miriam lo cho lũ trẻ ăn uống, tắm rửa rồi sửa sang quần áo gọn gàng cho chúng. Cô đưa hai đứa đến trường. Hôm đó cô chỉ có hai lịch hẹn tư vấn, mà cả hai đều rơi vào cuối buổi chiều. Thế là cô dắt Roxster đi chạy bộ. Trên bãi cỏ trước sân nhà Kate và Fred, chen giữa những mảng sương giá dính trên ngọn cỏ và đám hoa giọt tuyết đang nở rộ, có tầm năm mươi con thỏ. Roxster chồm tới. Cô vội giật mạnh dây xích kéo nó lại. Vài con thỏ giật mình tản ra, nhưng mấy con còn lại chỉ ngồi yên, trơ mắt nhìn chú chó ngốc nghếch.
 
@@ -8,7 +8,7 @@ Trên đường về, cô thấy Holly đang dỡ đồ tạp hóa từ trên xe
 
 “Tớ nghĩ Kate đang gặp rắc rối lớn với lũ thỏ rồi đấy,” Miriam vừa chạy chậm lại khi tiến đến gần vừa nói.
 
-“Cậu ấy bảo làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.
+“Cậu ấy *bảo* làm gì có rắc rối nào,” Holly đáp. Trông cô tái mét, hai bàn tay run rẩy nhẹ.
 
 “Hai hay ba con thì không sao. Đằng này những…”
 
@@ -60,7 +60,7 @@ Một viễn cảnh kinh hoàng hiện lên trong đầu cô: Jack lái xe đưa
 
 Cô nhấn ga phóng vụt đi bám sát họ. Xuyên qua thành phố suốt mấy dặm đường, cô liên tục bám theo. Cô tự dặn lòng hết lần này đến lần khác rằng viễn cảnh đó hoàn toàn vô căn cứ. Jack sẽ không bao giờ làm thế. Anh không đời nào làm vậy. Cô hiểu anh mà. Cô hiểu Jack.
 
-Cô đã từng hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?
+Cô *đã từng* hiểu. Đơn giản vì người tên Jack mà cô từng biết dường như chẳng còn tồn tại nữa. Anh đã biến mất vào bên trong Đường hầm Công việc Tối tăm, và cô không thể nhìn thấy chuyện gì đã xảy ra ở nơi đó. Cô chẳng rõ những mảnh cá tính nào của Jack đã bị mài mòn đi. Hay những phần quái đản, lạ lẫm nào khác đã mọc ra trong cái guồng quay vắt kiệt sức lực không ánh mặt trời của những giờ làm việc tính phí. Để rồi giờ đây anh chui ra khỏi đó, tuy đã thay đổi hoàn toàn, nhưng là theo hướng nào?
 
 Anh lái xe hướng về phía trung tâm thành phố. Cô có thể nhìn thấy bọn trẻ qua kính chắn gió phía sau: đầu chúng nhún nhảy, tay chân vung vẫy như thể đang nhảy múa. Chúng trông vô cùng hào hứng.
 
@@ -72,7 +72,6 @@ Cô không đi theo họ vào trong. Thay vào đó, cô tiến lại gần chi�
 
 Cô thử mở cửa. Anh đã khóa xe, mà cô lại không mang theo chìa khóa dự phòng. Cô ghé mắt nhìn qua lớp kính vào bên trong. Bộ vest của anh treo trong túi nilon giặt khô ở ghế sau. Mấy ly cà phê rỗng chất đống trên sàn xe phía ghế phụ. Và trên ghế xuất hiện một cuốn tiểu thuyết.
 
-Cái chết lịch lãm.
+*Cái chết lịch lãm.*
 
 Trông qua trang bìa, đó có vẻ là một cuốn tiểu thuyết trinh thám.
-

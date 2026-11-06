@@ -2,19 +2,19 @@
 
 <p class="para-en">DON’T DIE please please please don’t die please﻿.</p>
 
-<p class="para-vi-sub">ĐỪNG CHẾT, xin mày xin mày xin mày đừng chết xin mày. Một câu thần chú.</p>
+<p class="para-vi-sub">***ĐỪNG CHẾT***, *xin mày xin mày xin mày đừng chết xin mày.*</p>
 
-<p class="para-en">A mantra. A prayer.</p>
+<p class="para-en">A mantra.</p>
+
+<p class="para-vi-sub">Một câu thần chú.</p>
+
+<p class="para-en">A prayer. A song.</p>
 
 <p class="para-vi-sub">Một lời cầu nguyện.</p>
 
-<p class="para-en">A song.</p>
-
-<p class="para-vi-sub">Một bài hát.</p>
-
 <p class="para-en">Miriam held the dog in her arms and the dog was the dog but he was also everything the dog meant, all the years of her life that the dog had spanned, all the love that had bloomed and eroded.</p>
 
-<p class="para-vi-sub">Miriam ôm chặt chú chó trong tay. Nó là chính nó, nhưng đồng thời cũng đại diện cho tất cả những gì nó từng mang lại: từng ấy năm tháng cuộc đời mà nó đã đồng hành bên cô, toàn bộ thứ tình yêu từng đơm hoa kết trái rồi dần mài mòn theo thời gian.</p>
+<p class="para-vi-sub">Một bài hát. Miriam ôm chặt chú chó trong tay. Nó là chính nó, nhưng đồng thời cũng đại diện cho tất cả những gì nó từng mang lại: từng ấy năm tháng cuộc đời mà nó đã đồng hành bên cô, toàn bộ thứ tình yêu từng đơm hoa kết trái rồi dần mài mòn theo thời gian.</p>
 
 <p class="para-en">Everything had a beginning and an end, and now The End bled all over her jogging clothes. The End couldn’t stand up. The End couldn’t keep his eyes open. She couldn’t carry him any farther. She called and called for help. Finally, Fred picked up.</p>
 
@@ -62,11 +62,11 @@
 
 <p class="para-en">She climbed into the car. She drove to the vet but they weren’t open and the sign said they wouldn’t open until noon—NEW HOURS 12:00–5:00, MONDAY THROUGH FRIDAY, which in the maelstrom of this emergency seemed ridiculous—so she called another vet and then another and another until someone picked up and said come in. She drove downtown. The dog’s breath was labored and raspy. She double-parked outside the Happy Paws Veterinary Clinic. She got out, ran to the door, yelled: “Please! My dog! Help!”</p>
 
-<p class="para-vi-sub">Cô trèo vào xe. Cô nhấn ga lao đến phòng khám thú y gần nhất, nhưng nơi đó chưa mở cửa. Tấm biển treo trước cổng lạnh lùng thông báo họ chỉ tiếp nhận bệnh nhân từ giữa trưa: GIỜ MỚI 12:00–17:00, TỪ THỨ HAI ĐẾN THỨ SÁU. Giữa cơn cuồng phong của một tình huống cấp cứu, quy định này tưởng như một trò đùa nực cười. Thế là cô vội vã gọi cho một phòng khám thú y khác, rồi lại một phòng khám khác, rồi thêm một phòng khám khác nữa, cho tới khi có người bắt máy và bảo: “Đến ngay đi!” Cô nhấn ga phi thẳng vào trung tâm thành phố. Hơi thở của chú chó nhọc nhằn và khè khè. Cô đỗ tấp xe song song bên ngoài Phòng khám Thú y Happy Paws. Bước vội ra ngoài, cô lao đến trước cửa rồi hét lớn: “Xin hãy giúp tôi! Chó của tôi! Cứu nó với!”</p>
+<p class="para-vi-sub">Cô trèo vào xe. Cô nhấn ga lao đến phòng khám thú y gần nhất, nhưng nơi đó chưa mở cửa. Tấm biển treo trước cổng lạnh lùng thông báo họ chỉ tiếp nhận bệnh nhân từ giữa trưa: GIỜ MỚI 12:00–17:00, TỪ THỨ HAI ĐẾN THỨ SÁU. Giữa cơn cuồng phong của một tình huống cấp cứu, quy định này tưởng như một trò đùa nực cười. Thế là cô vội vã gọi cho một phòng khám thú y khác, rồi lại một phòng khám khác, rồi thêm một phòng khám khác nữa, cho tới khi có người bắt máy và bảo: *“Đến ngay đi!”* Cô nhấn ga phi thẳng vào trung tâm thành phố. Hơi thở của chú chó nhọc nhằn và khè khè. Cô đỗ tấp xe song song bên ngoài Phòng khám Thú y Happy Paws. Bước vội ra ngoài, cô lao đến trước cửa rồi hét lớn: “Xin hãy giúp tôi! Chó của tôi! Cứu nó với!”</p>
 
 <p class="para-en">Please don’t die please please don’t die</p>
 
-<p class="para-vi-sub">Xin mày đừng chết xin mày xin mày đừng chết</p>
+<p class="para-vi-sub">*Xin mày đừng chết xin mày xin mày đừng chết*</p>
 
 <p class="para-en">The receptionist ran out, then in, then back out with a vet and a stretcher. They loaded Roxster. They carried him inside.</p>
 
@@ -154,7 +154,7 @@
 
 <p class="para-en">“Stop lying! I called, Jack. I called your office and they told me. You don’t work there anymore! You haven’t worked there for months! Where do you go? What do you do? Are you having an affair? Who are you, Jack?”</p>
 
-<p class="para-vi-sub">“Thôi ngay cái trò dối trá đó đi! Em đã gọi điện đấy, Jack. Em gọi đến văn phòng của anh và người ta đã nói cho em biết rồi. Anh đâu còn làm ở đó nữa! Anh đã nghỉ việc cả mấy tháng nay rồi! Anh đi đâu? Anh làm cái gì? Anh đang ngoại tình đấy à? Anh thực sự là ai hả Jack?”</p>
+<p class="para-vi-sub">“Thôi ngay cái trò dối trá đó đi! Em đã gọi điện đấy, Jack. Em gọi đến văn phòng của anh và người ta đã nói cho em biết rồi. Anh đâu còn làm ở đó nữa! Anh đã nghỉ việc cả mấy tháng nay rồi! Anh đi đâu? Anh làm cái gì? Anh đang ngoại tình đấy à? Anh *thực sự là ai* hả Jack?”</p>
 
 <p class="para-en">“I—”</p>
 
@@ -270,7 +270,7 @@
 
 <p class="para-en">“You said you were going to work! Where did you even go? WHO ARE YOU?”</p>
 
-<p class="para-vi-sub">“Anh bảo anh đi làm mà! Rốt cuộc anh đã đi đâu cơ chứ? ANH LÀ AI VẬY?”</p>
+<p class="para-vi-sub">“Anh bảo anh đi làm mà! Rốt cuộc anh đã đi đâu cơ chứ? *ANH LÀ AI VẬY?*”</p>
 
 <p class="para-en">He looked at her. He had Jack’s eyes, Jack’s face, Jack’s voice, Jack’s body, but this man, she didn’t know him. The Jack she married had disappeared, somewhere beneath the mountain of endless work, and the Jack who emerged on the other side was a different man altogether.</p>
 

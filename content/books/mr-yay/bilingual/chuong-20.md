@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM STOOD AT THE STOVE, stirring a pot of spaghetti. Lindsey would eat spaghetti with tomato sauce, but only if the sauce had no tomato chunks. Rory would eat spaghetti only with butter and salt. Roxster would eat the whole pot of spaghetti if she let him. Miriam didn’t care how Jack felt about spaghetti, because Jack wouldn’t be home for dinner. Jack had work.</p>
 
-<p class="para-vi-sub">MIRIAM ĐỨNG BÊN BẾP, tay khuấy một nồi mì Ý. Lũ trẻ nhà Shipley nổi tiếng với gu ẩm thực vô cùng khắt khe. Lindsey chỉ chịu ăn mì Ý sốt cà chua với điều kiện tiên quyết là nước sốt không được dính lấy một lợn cợn miếng cà chua nào. Rory thì lại chỉ trung thành với mì Ý trộn bơ rắc muối. Riêng chú chó Roxster sẽ sẵn sàng chén sạch cả nồi mì lẫn cái bếp nếu cô cho phép. Còn Jack nghĩ sao về món mì Ý ư? Miriam chẳng buồn bận tâm. Đơn giản vì Jack sẽ không về nhà ăn tối. Anh bận làm việc rồi.</p>
+<p class="para-vi-sub">**MIRIAM ĐỨNG BÊN BẾP,** tay khuấy một nồi mì Ý. Lũ trẻ nhà Shipley nổi tiếng với gu ẩm thực vô cùng khắt khe. Lindsey chỉ chịu ăn mì Ý sốt cà chua với điều kiện tiên quyết là nước sốt không được dính lấy một lợn cợn miếng cà chua nào. Rory thì lại chỉ trung thành với mì Ý trộn bơ rắc muối. Riêng chú chó Roxster sẽ sẵn sàng chén sạch cả nồi mì lẫn cái bếp nếu cô cho phép. Còn Jack nghĩ sao về món mì Ý ư? Miriam chẳng buồn bận tâm. Đơn giản vì Jack sẽ không về nhà ăn tối. Anh bận làm việc rồi.</p>
 
 <p class="para-en">Except then, unexpectedly, Jack came home.</p>
 
@@ -46,7 +46,7 @@
 
 <p class="para-en">“But he does smell funny!”</p>
 
-<p class="para-vi-sub">“Nhưng người bố có mùi lạ thật mà!”</p>
+<p class="para-vi-sub">“Nhưng người bố có mùi lạ *thật* mà!”</p>
 
 <p class="para-en">“But it’s not polite,” Miriam said, as she took Jack’s coat, so she could sniff to confirm.</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">Miriam stood there with her arms crossed. She should hug him. But his surprise arrival made her uneasy.</p>
 
-<p class="para-vi-sub">Miriam khoanh tay đứng nhìn viễn cảnh gia đình ấm áp ấy. Đáng lý ra cô nên ôm anh. Thế nhưng, sự xuất hiện đột ngột của anh lại chỉ đem đến cho cô một cảm giác bất an khó tả.</p>
+<p class="para-vi-sub">Miriam khoanh tay đứng nhìn viễn cảnh gia đình ấm áp ấy. Đáng lý ra cô *nên* ôm anh. Thế nhưng, sự xuất hiện đột ngột của anh lại chỉ đem đến cho cô một cảm giác bất an khó tả.</p>
 
 <p class="para-en">“You’re home early,” she said. “What’s up?”</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-en">Time stopped. Miriam’s jaw clenched. Her neck muscles tensed. Her existence was a hurricane of I-wants and how-manys and why-can’t-Is, and at the center, in the windless eye, absolved through excessive work hours of having to ever refuse or enforce or otherwise interact with the two unreasonable creatures he had spawned, was Jack.</p>
 
-<p class="para-vi-sub">Thời gian như ngừng trôi. Quai hàm Miriam bặm chặt, các cơ cổ căng cứng. Cuộc đời cô hiện lên hệt như một trận cuồng phong xoay quanh những từ con, muốn, những câu còn, mấy, miếng và vô số lời sao, con, không, được. Thế nhưng, ngay tại trung tâm mắt bão lặng gió ấy (nơi được miễn trừ hoàn toàn khỏi nhiệm vụ từ chối, răn đe hay đối phó với hai sinh linh bướng bỉnh do chính mình tạo ra, nhờ vào những giờ làm việc tăng ca triền miên) chính là Jack.</p>
+<p class="para-vi-sub">Thời gian như ngừng trôi. Quai hàm Miriam bặm chặt, các cơ cổ căng cứng. Cuộc đời cô hiện lên hệt như một trận cuồng phong xoay quanh những từ *con*, *muốn*, những câu *còn*, *mấy*, *miếng* và vô số lời *sao*, *con*, *không*, *được*. Thế nhưng, ngay tại trung tâm mắt bão lặng gió ấy (nơi được miễn trừ hoàn toàn khỏi nhiệm vụ từ chối, răn đe hay đối phó với hai sinh linh bướng bỉnh do chính mình tạo ra, nhờ vào những giờ làm việc tăng ca triền miên) chính là Jack.</p>
 
 <p class="para-en">“Kids, chill out,” Jack said. “Eat four more bites, and then you can both have dessert.”</p>
 
@@ -290,7 +290,7 @@
 
 <p class="para-en">Except it didn’t. It kept tumbling back to the evening’s earlier stress points. Roxster acting rabid. The kids arguing about dinner and dessert. Jack giving them exactly what they wanted. Jack coming home early from work. Smooth sailing all the way, he had said. Jessica said she didn’t need me to work late.</p>
 
-<p class="para-vi-sub">Chỉ trừ một điều: đầu óc cô chẳng chịu dịu đi chút nào. Nó cứ liên tục quay cuồng trôi về những ngòi nổ căng thẳng ban nãy trong buổi tối. Chú chó Roxster cư xử như phát dại. Bọn trẻ chí chóe tranh cãi về bữa tối và món tráng miệng. Jack cho chúng răm rắp mọi thứ chúng vòi vĩnh. Jack đi làm về sớm. Mọi chuyện thuận buồm xuôi gió cả, anh từng bảo thế. Jessica bảo chị ấy không cần anh phải làm muộn.</p>
+<p class="para-vi-sub">Chỉ trừ một điều: đầu óc cô chẳng chịu dịu đi chút nào. Nó cứ liên tục quay cuồng trôi về những ngòi nổ căng thẳng ban nãy trong buổi tối. Chú chó Roxster cư xử như phát dại. Bọn trẻ chí chóe tranh cãi về bữa tối và món tráng miệng. Jack cho chúng răm rắp mọi thứ chúng vòi vĩnh. Jack đi làm về sớm. *Mọi chuyện thuận buồm xuôi gió cả*, anh từng bảo thế. *Jessica bảo chị ấy không cần anh phải làm muộn.*</p>
 
 <p class="para-en">He didn’t look her in the eye.</p>
 

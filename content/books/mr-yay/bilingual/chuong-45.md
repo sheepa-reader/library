@@ -1,8 +1,8 @@
-# THÁNG TƯ - BÓI CHỈ TAY
+# THÁNG TƯ
 
 <p class="para-en">MIRIAM GOT into her car and drove. She didn’t know where she was going until she was almost there. Everything looked different than it had in January, when the bare tree branches dead-ended in a gloomy sky. But then she saw the storefront, PSYCHIC—MYSTIC—FORTUNE-TELLING painted in orange letters above the front door. A piece of cardboard hung loosely beneath it, as if someone had tried and failed to cover the sign.</p>
 
-<p class="para-vi-sub">MIRIAM BƯỚC VÀO XE rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI CẢM, HUYỀN BÍ, BÓI TOÁN sơn màu cam chóe ngay phía trên cửa ra vào. Một mảnh bìa cứng treo lủng lẳng bên dưới, hệt như có ai đó từng cố che tấm biển đi nhưng không thành.</p>
+<p class="para-vi-sub">**MIRIAM BƯỚC VÀO XE** rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI CẢM, HUYỀN BÍ, BÓI TOÁN sơn màu cam chóe ngay phía trên cửa ra vào. Một mảnh bìa cứng treo lủng lẳng bên dưới, hệt như có ai đó từng cố che tấm biển đi nhưng không thành.</p>
 
 <p class="para-en">She parked on the street out front. She tried the door, but it was locked. The palmistry sign in the window glowed fluorescent pink, but the blinds were pulled shut. She knocked. She heard a noise from inside. She knocked again. No one answered.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-en">There was a loud thud against the window glass.</p>
 
-<p class="para-vi-sub">Một tiếng rầm lớn đột ngột nện thẳng vào mặt kính cửa sổ.</p>
+<p class="para-vi-sub">Một tiếng *rầm* lớn đột ngột nện thẳng vào mặt kính cửa sổ.</p>
 
 <p class="para-en">“What was that?”</p>
 
@@ -150,7 +150,7 @@
 
 <p class="para-en">“I said. But I didn’t know. The words just popped out.”</p>
 
-<p class="para-vi-sub">“Tôi nói thế. Nhưng tôi đâu có biết. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”</p>
+<p class="para-vi-sub">“Tôi *nói* thế. Nhưng tôi đâu có *biết*. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”</p>
 
 <p class="para-en">“Is that what happened when you read my palm?”</p>
 
@@ -238,7 +238,7 @@
 
 <p class="para-en">“I didn’t say that. I just said the future wasn’t certain. But there is something.”</p>
 
-<p class="para-vi-sub">“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có một điều gì đó.”</p>
+<p class="para-vi-sub">“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có *một điều gì đó*.”</p>
 
 <p class="para-en">“What is it?”</p>
 

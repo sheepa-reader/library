@@ -1,22 +1,22 @@
 # FATTY BRATTY VÀ BẠN THÂN TRI KỶ TOMMY
 
-HÙNG DŨNG NHƯ CÁ NHỒNG. Táo bạo như cá nhám gai, Tommy nhắn tin. Nhanh thoăn thoắt như hải cẩu. Chắc chắn như cá ngựa.
+***HÙNG DŨNG NHƯ CÁ NHỒNG*.** *Táo bạo như cá nhám gai*, Tommy nhắn tin. *Nhanh thoăn thoắt như hải cẩu. Chắc chắn như cá ngựa.*
 
 Bratty chẳng hiểu nổi cậu bạn thân nhất của mình đang muốn ám chỉ điều gì, nhưng nghe qua thì có vẻ cũng chí lý lắm.
 
-Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên Peregrine, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên do. Bratty cũng không rõ tại sao mình lại mê mẩn bộ phim đến thế. Nhưng mỗi lần xem lại, anh đều có cảm giác như vừa trải qua một cuộc lột xác. Các nhân vật cùng quỹ đạo đời họ dường như chuyển dịch còn nhanh hơn cả dòng hải lưu, một trải nghiệm vừa gây bồn chồn bất an, lại vừa tiếp thêm sinh lực.
+Quá khứ lùi dần lại phía sau, dẫu vậy phép màu của nó vẫn còn vương vấn. Anh mải miết lái xe băng qua dải đất trung tâm mênh mông trống trải của đất nước, cách bờ biển cả ngàn dặm, nhưng tâm trí cứ luẩn quẩn quay về với biển khơi - hay chính xác hơn là về một bộ phim cũ rích anh từng xem tới cả trăm lần hồi bé. Bộ phim mang tên *Peregrine*, kể về vị thám tử vỡ mộng do Ricardo Merman thủ vai, người được thuê để phá vụ án bí ẩn về một nữ thừa kế mất tích ly kỳ ngoài biển khơi. Có lẽ cô đã bị sát hại. Hoặc biết đâu chừng, cô chưa từng đặt chân lên tàu. Hành tung của cô vô cùng thất thường, và chẳng một ai hiểu nổi nguyên do. Bratty cũng không rõ tại sao mình lại mê mẩn bộ phim đến thế. Nhưng mỗi lần xem lại, anh đều có cảm giác như vừa trải qua một cuộc lột xác. Các nhân vật cùng quỹ đạo đời họ dường như chuyển dịch còn nhanh hơn cả dòng hải lưu, một trải nghiệm vừa gây bồn chồn bất an, lại vừa tiếp thêm sinh lực.
 
 “Chúng ta làm được hết mọi thứ,” Bratty bảo chú chó khi hai thầy trò vượt qua ranh giới bang Arizona, lúc này vẫn còn cách biển cả ngàn dặm. “Chỉ tao với mày thôi, Tux. Hai đứa mình nhất định sẽ vượt qua.”
 
-Và đừng có mong đợi ai giúp đỡ khi mày thất bại, một giọng nói hằn học vang lên trong đầu anh. Giọng nói ấy vốn của mẹ kế Helena, nhưng giờ đây vang lên hệt như tiếng nói của chính anh. Bởi anh đã tự biến những lời chỉ trích của bà ta thành tiếng nói nội tâm của mình (chuyên viên trị liệu của anh từng bảo thế). Anh đã tin lời bà ta. Nhưng ngặt một nỗi, gia đình có bao giờ giúp đỡ anh đâu. Anh tự mua chiếc xe này bằng số tiền kiếm được từ công việc rán bánh mì kẹp thịt tại Buck-a-Bacon. Anh phải vay nợ để trang trải học phí ở trường đại học công lập. Bố anh nhất quyết không chịu hỗ trợ một xu, ông bảo sự bố thí sẽ chẳng dạy nổi Bratty cách sống có trách nhiệm. Nhưng thông điệp ngầm ẩn sau sự thờơ ấy lại rất rõ ràng: anh - thằng nhóc Bratty - không đáng để người ta đặt cược niềm tin.
+*Và đừng có mong đợi ai giúp đỡ khi mày thất bại*, một giọng nói hằn học vang lên trong đầu anh. Giọng nói ấy vốn của mẹ kế Helena, nhưng giờ đây vang lên hệt như tiếng nói của chính anh. Bởi anh đã tự biến những lời chỉ trích của bà ta thành tiếng nói nội tâm của mình (chuyên viên trị liệu của anh từng bảo thế). Anh đã tin lời bà ta. Nhưng ngặt một nỗi, gia đình có bao giờ giúp đỡ anh đâu. Anh tự mua chiếc xe này bằng số tiền kiếm được từ công việc rán bánh mì kẹp thịt tại Buck-a-Bacon. Anh phải vay nợ để trang trải học phí ở trường đại học công lập. Bố anh nhất quyết không chịu hỗ trợ một xu, ông bảo sự bố thí sẽ chẳng dạy nổi Bratty cách sống có trách nhiệm. Nhưng thông điệp ngầm ẩn sau sự thờơ ấy lại rất rõ ràng: anh - thằng nhóc Bratty - không đáng để người ta đặt cược niềm tin.
 
 “Chúng ta sẽ làm được thôi,” Bratty lặp lại lần nữa, dù lời nói thốt ra nghe rỗng tuếch.
 
 Dù vậy, anh vẫn giữ tinh thần lạc quan cho tới tận khi chạm đến vùng ngoại ô Las Vegas, thời điểm động cơ xe bắt đầu khục khặc rồi xì khói mù mịt.
 
-Anh tấp xe vào lề đường cao tốc. Khói bốc ngùn ngụt từ dưới nắp capo. Từng đoàn xe vun vút lao qua với vận tốc cỡ một tỷ dặm một giờ. Chú chó quay sang nhìn anh, đôi mắt mở to tròn xoe với nét mặt như muốn hỏi: Giờ tính sao đây hả ông bạn, cái quái gì thế này?
+Anh tấp xe vào lề đường cao tốc. Khói bốc ngùn ngụt từ dưới nắp capo. Từng đoàn xe vun vút lao qua với vận tốc cỡ một tỷ dặm một giờ. Chú chó quay sang nhìn anh, đôi mắt mở to tròn xoe với nét mặt như muốn hỏi: *Giờ tính sao đây hả ông bạn, cái quái gì thế này?*
 
-Giọng nói trong đầu Bratty lại trỗi dậy: Mày mong đợi điều gì sẽ xảy ra hả Bradford? Mày thực sự nghĩ cái đống sắt vụn này có thể lết nổi qua cả đất nước sao?
+Giọng nói trong đầu Bratty lại trỗi dậy: *Mày mong đợi điều gì sẽ xảy ra hả Bradford? Mày thực sự nghĩ cái đống sắt vụn này có thể lết nổi qua cả đất nước sao?*
 
 Được rồi, thực lòng mà nói thì anh chưa từng nghĩ sâu đến thế. Anh đã phớt lờ con số hơn hai trăm bốn mươi ngàn dặm trên đồng hồ đo công-tơ-mét, mùi cao su cháy khét lẹt, cùng những tiếng lạch cạch rung lắc từ bộ khung gỉ sét của chiếc xe.
 
@@ -36,7 +36,7 @@ Tiếng nhạc đập thình thịch làm nền ở phía sau. Bratty rùng mìn
 
 “Tao đang ở giữa sa mạc. Gần Vegas. Động cơ xe tao đang bốc khói nghi ngút rồi.”
 
-“Ôi, chết tiệt thật.” Tommy im lặng một nhịp để suy tính. Cậu ấy chẳng hề buông ra những lời vô tâm kiểu như cứ mua vé máy bay mà đi, hay mua quách một chiếc xe mới, hoặc bảo bố mày chuyển khoản cho ít tiền. Thay vào đó, cậu bảo: “Bạn tôi ơi, tao tới ngay đây.”
+“Ôi, chết tiệt thật.” Tommy im lặng một nhịp để suy tính. Cậu ấy chẳng hề buông ra những lời vô tâm kiểu như *cứ mua vé máy bay mà đi*, hay *mua quách một chiếc xe mới*, hoặc *bảo bố mày chuyển khoản cho ít tiền*. Thay vào đó, cậu bảo: “Bạn tôi ơi, tao tới ngay đây.”
 
 “Tới tận đây á?”
 
@@ -50,7 +50,7 @@ Cậu buông người bạn thân ra rồi chăm chú nhìn anh: “Mẹ kiếp,
 
 “Vegas đấy.”
 
-“Đúng là cái đất Vegas chết tiệt. Đi làm nhiệm vụ giải cứu cơ đấy! Này, tao thấy mình y hệt Thuyền trưởng Captain Barksford luôn. Mày nhớ không, chú chó trong cái tập phim mà con khỉ đầu chó nằng nặc đòi đi bơi ấy. Thế là nó nhảy bổ xuống vùng nước đầy cá mập, rồi suýt nữa bị xé xác thành từng mảnh nếu thuyền trưởng không kịp cứu cái bàn tọa của nó. Nhưng rốt cuộc thì nó đã học được cách bơi.”
+“Đúng là cái đất Vegas chết tiệt. Đi làm nhiệm vụ giải cứu cơ đấy! Này, tao thấy mình y hệt Thuyền trưởng Captain Barksford luôn. Mày nhớ không, chú chó trong cái tập phim mà con khỉ đầu chó nằng nặc đòi đi bơi ấy. Thế là nó nhảy bổ xuống vùng nước đầy cá mập, rồi suýt nữa bị xé xác thành từng mảnh nếu thuyền trưởng không kịp cứu cái bàn tọa của nó. Nhưng rốt cuộc thì nó *đã* học được cách bơi.”
 
 Bratty gật đầu: “Thế tao là con khỉ đầu chó à?”
 
@@ -73,4 +73,3 @@ Họ chất toàn bộ đồ đạc của Bratty lên xe của Tommy, bỏ lại
 Họ dỡ đồ đạc xuống. Ăn bữa sáng. Rồi ngủ vùi suốt cả ngày trời. Đến khi mặt trời lặn, Bratty mới tỉnh giấc. Anh nằm trên chiếc sô pha, chú chó cuộn tròn dưới chân. Tommy đang ngồi bệt trên sàn nhà, cuốn sổ tay và chiếc máy tính xách tay đặt trên bàn trà trước mặt. Một tay cậu kẹp điếu cần, tay kia cầm chiếc mic.
 
 “Bradford,” cậu cất giọng trầm đục nói vào mic. “Sẵn sàng chưa, Bradford? Đến lúc làm nhạc rồi đấy.”
-

@@ -1,12 +1,12 @@
 # ALBUM NHẠC
 
-HỌ ĐÃ VIẾT NÊN NHỮNG BÀI HÁT cấu thành nên album chỉ trong vỏn vẹn một tuần lễ cuồng loạn. Tommy hoàn toàn không ngủ.
+**HỌ ĐÃ VIẾT NÊN NHỮNG BÀI HÁT** cấu thành nên album chỉ trong vỏn vẹn một tuần lễ cuồng loạn. Tommy hoàn toàn không ngủ.
 
 Bratty thì nằm bẹp trên chiếc ghế sofa, thiếp đi trong những giấc ngủ chập chờn vô định: hai tiếng buổi chiều, ba tiếng trước lúc bình minh. Chú chó lúc nào cũng trung thành nằm phục dưới chân anh. Và kỳ lạ thay, giấc ngủ nào anh cũng chỉ mơ thấy đúng một viễn cảnh:
 
-Chú Chó, Con Thuyền, Biển Khơi Độc Nhất Vô Nhị.
+*Chú Chó, Con Thuyền, Biển Khơi Độc Nhất Vô Nhị*.
 
-Anh cùng chú chó lướt trên những ngọn sóng bạc (tất nhiên chú chó là người đội chiếc mũ thuyền trưởng). Vai trò của chú chó trong mơ liên tục thay đổi. Trong vài giấc mơ, nó là Tux; ở những giấc khác, nó lại là Thuyền trưởng Captain Barksford nguyên bản. Có lúc nó hóa thành chú chó sục lông ráp sát cánh bên viên thám tử trong phim điện ảnh Peregrine. Có khi nó là chú chó Tommy nuôi thời thơ ấu, hoặc chú chó mà Bratty từng khao khát nhưng chưa bao giờ được sở hữu. Thậm chí có lần, nó lại là một chú chó sục Airedale tên Barry với bộ lông bết dính thứ chất nhầy màu xanh lá. Chú chó sắm vai thuyền trưởng, đẩy Bratty xuống làm thuyền phó, hoặc biến anh thành chính con thuyền, hay ngọn gió lướt qua biển rộng. Hoặc biết đâu, anh chỉ là một kẻ rong chơi đi theo ngắm cảnh. Đích đến là đâu? Chẳng ai hay biết, mà điều đó dường như cũng chẳng quan trọng, một khi anh đã có chú chó, con thuyền và đại dương. Bầu trời phía trên lúc thì đục mờ như sữa bởi muôn vàn vì sao, lúc lại hắt lên sắc vàng rạng rỡ của bình minh, hoặc phủ một màu tím hoa oải hương dịu nhẹ tựa khúc hát ru.
+Anh cùng chú chó lướt trên những ngọn sóng bạc (tất nhiên chú chó là người đội chiếc mũ thuyền trưởng). Vai trò của chú chó trong mơ liên tục thay đổi. Trong vài giấc mơ, nó là Tux; ở những giấc khác, nó lại là Thuyền trưởng Captain Barksford nguyên bản. Có lúc nó hóa thành chú chó sục lông ráp sát cánh bên viên thám tử trong phim điện ảnh *Peregrine*. Có khi nó là chú chó Tommy nuôi thời thơ ấu, hoặc chú chó mà Bratty từng khao khát nhưng chưa bao giờ được sở hữu. Thậm chí có lần, nó lại là một chú chó sục Airedale tên Barry với bộ lông bết dính thứ chất nhầy màu xanh lá. Chú chó sắm vai thuyền trưởng, đẩy Bratty xuống làm thuyền phó, hoặc biến anh thành chính con thuyền, hay ngọn gió lướt qua biển rộng. Hoặc biết đâu, anh chỉ là một kẻ rong chơi đi theo ngắm cảnh. Đích đến là đâu? Chẳng ai hay biết, mà điều đó dường như cũng chẳng quan trọng, một khi anh đã có chú chó, con thuyền và đại dương. Bầu trời phía trên lúc thì đục mờ như sữa bởi muôn vàn vì sao, lúc lại hắt lên sắc vàng rạng rỡ của bình minh, hoặc phủ một màu tím hoa oải hương dịu nhẹ tựa khúc hát ru.
 
 Trong giấc mơ của anh tuyệt nhiên không có bóng dáng cướp biển.
 
@@ -14,7 +14,7 @@ Trong giấc mơ của anh tuyệt nhiên không có bóng dáng cướp biển.
 
 “Ngộ nhỡ có cả một con mực khổng lồ thì sao?”
 
-“Sao lại không thể chứ? Mà khéo chính mày mới là tên cướp biển đấy.”
+“Sao lại không thể chứ? Mà khéo chính *mày* mới là tên cướp biển đấy.”
 
 “Trông tao giống cướp biển lắm à?” Bratty hỏi.
 
@@ -36,23 +36,23 @@ Trong giấc mơ của anh tuyệt nhiên không có bóng dáng cướp biển.
 
 Tommy liền nảy ra ý tưởng viết một bài rap về Bradford Xưởng Cờ. Cậu hí hoáy đặt bút rồi lại gạch ngoáy đi.
 
-Cậu ta là cỗ máy hình người
+***Cậu ta là cỗ máy hình người***
 
-Đáp ứng mọi nhu cầu cờ xí
+***Đáp ứng mọi nhu cầu cờ xí***
 
-Cùng muôn vàn giấc mơ cờ quạt
+***Cùng muôn vàn giấc mơ cờ quạt***
 
-Phấp phới bay trong làn gió
+***Phấp phới bay trong làn gió***
 
-Căng buồm giữa chốn biển khơi
+***Căng buồm giữa chốn biển khơi***
 
-Cậu ta chẳng phải kẻ tồi
+***Cậu ta chẳng phải kẻ tồi***
 
-Một người đàn ông, một chàng bự, một người bạn
+***Một người đàn ông, một chàng bự, một người bạn***
 
-Bất kể bầu trời báo trước điềm chi
+***Bất kể bầu trời báo trước điềm chi***
 
-Yo tao sẽ bên cậu ấy đến tận cùng…
+***Yo tao sẽ bên cậu ấy đến tận cùng…***
 
 “Được rồi, nghe ngớ ngẩn thật,” Tommy tự nhận xét sau khi xướng xong đoạn rap.
 
@@ -62,15 +62,15 @@ Yo tao sẽ bên cậu ấy đến tận cùng…
 
 “Thế thì tiếp tục đi chứ.”
 
-Thế là cậu tiếp tục. Mọi thứ cứ thế cuốn đi. Những câu rap. Những đoạn beat. Những mẩu đối thoại chêm xen giữa chừng. Tommy sải bước quanh phòng, vừa cuốn cần sa vừa nhả từng vần điệu, gọt giũa và nhấm nháp từng con chữ trong miệng khi chúng tan chảy, xèo xèo bốc khói, hoặc giải phóng những âm thanh mới mẻ cùng các lối chơi chữ vi diệu đến mức khiến cậu phải rơi lệ. Rồi cậu hét toáng lên huzzah! và phóng mình khỏi ghế sofa, nhảy vọt qua người chú chó.
+Thế là cậu tiếp tục. Mọi thứ cứ thế cuốn đi. Những câu rap. Những đoạn beat. Những mẩu đối thoại chêm xen giữa chừng. Tommy sải bước quanh phòng, vừa cuốn cần sa vừa nhả từng vần điệu, gọt giũa và nhấm nháp từng con chữ trong miệng khi chúng tan chảy, xèo xèo bốc khói, hoặc giải phóng những âm thanh mới mẻ cùng các lối chơi chữ vi diệu đến mức khiến cậu phải rơi lệ. Rồi cậu hét toáng lên *huzzah!* và phóng mình khỏi ghế sofa, nhảy vọt qua người chú chó.
 
 Trong một khoảnh khắc lơ lửng giữa không trung, Bratty đã thót tim vì ngỡ cậu sẽ đáp đất sai tư thế rồi trẹo mắt cá chân. Trong tâm trí, anh như nghe thấy tiếng thét đau đớn, mường tượng ra hẳn một thực tại song song khác: mọi kế hoạch đổ bể tan tành chỉ vì một cái chân gãy, cảnh anh phải lụi hụi đẩy chiếc xe lăn chở một Tommy ủ rũ vì phê thuốc đi lòng vòng, hai đứa cãi vã triền miên và chẳng bao giờ tìm lại được cảm hứng sáng tác sau cú vấp ngã bẽ bàng ấy.
 
 Thế nhưng, mọi chuyện đã không diễn ra như vậy.
 
-Tommy tiếp đất an toàn bằng cả hai bàn chân. Cậu đứng khựng lại, trố mắt nhìn Bratty với vẻ mặt như muốn hỏi: Cái quái gì thế mày?
+Tommy tiếp đất an toàn bằng cả hai bàn chân. Cậu đứng khựng lại, trố mắt nhìn Bratty với vẻ mặt như muốn hỏi: *Cái quái gì thế mày?*
 
-Thứ đó là cái quái gì vậy?
+*Thứ đó là cái quái gì vậy?*
 
 Cứ như thể cậu cũng vừa nhìn trộm ra đằng sau tấm màn nhung vốn được người ta đồn đại là mờ đục và kiên cố, nhưng hóa ra lại hoàn toàn không phải. Tấm màn ấy mỏng manh, giòn rụm, thấu quang, còn mỏng hơn cả cánh chuồn chuồn.
 
@@ -92,7 +92,7 @@ Tommy bỗng bật cười khoái trá. Cậu ngã lăn ra sàn mà cười. C�
 
 Thế nhưng, nghĩ mà xem, trước đây anh chưa từng là một con sói. Mãi cho đến tận khoảnh khắc này, ngay lúc này, trong căn hộ ở Los Angeles của Tommy, vào cái giờ khắc ma thuật lúc hai giờ sáng, khi thằng bạn thân nhất đời đang ngồi bệt trên sàn nhà ngập ngụa tàn tích giấy vụn trôi dạt giữa những mảnh nháp lời rap bị vứt bỏ, mấy gói khoai tây chiên đã ỉu, vỏ lon bia rỗng và vài món đồ chơi gặm dở của chó. Từ trước đến nay, anh vẫn luôn thấy mình giống một con chó ủ rũ bị bỏ rơi ngoài sân, dầm mình trong mưa phùn gió bấc, trong khi cả gia đình ở trong nhà lại đang tươi cười nâng ly champagne chúc tụng cho những thành tựu danh giá trong kiếp làm người của họ. Nhưng chính vào giây phút ấy, anh đã nhìn thấy một Bratty mà mình hoàn toàn có thể trở thành: Một Con Sói. Và cơn mưa ẩn dụ kia, đột nhiên, tạnh hẳn. Có thể anh chẳng biết mốc gì về những chuyện sắp tới, có thể sẽ là cả một đời húp mì gói trong những căn phòng trọ giá rẻ ọp ẹp, có thể sẽ là những vỡ mộng tan nát cõi lòng. Nhưng ngay lúc này đây, lồng ngực anh tràn ngập nhiệt huyết và hoàn toàn tự do.
 
-Đúng lúc đó, anh nghe thấy một tiếng lách cách. Tiếng đập cánh vỗ phè phạch. Và một âm thanh cộc, cộc, cộc.
+Đúng lúc đó, anh nghe thấy một tiếng lách cách. Tiếng đập cánh vỗ phè phạch. Và một âm thanh *cộc, cộc, cộc.*
 
 “Tiếng gì thế?” Tommy hỏi.
 
@@ -100,7 +100,7 @@ Tai chú chó Tux vểnh đứng lên.
 
 “Chắc chẳng có gì đâu. Gió thổi thôi.”
 
-Cộc, cộc, cộc.
+*Cộc, cộc, cộc.*
 
 “Không phải gió đâu,” Tommy nói. “Nó ở ngoài cửa. Có cái gì đó ngoài kia.”
 
@@ -114,7 +114,7 @@ Cộc, cộc, cộc.
 
 “Này, thôi…”
 
-Cộc, cộc, cộc.
+*Cộc, cộc, cộc.*
 
 Tommy mở toang cánh cửa, bước ra khoảng sân tẻ nhạt của khu chung cư. Cậu bật cười khoái chí: “Ha! Bratty! Ra đây mà xem! Mày nhất định phải tận mắt thấy cái này!”
 
@@ -138,7 +138,7 @@ Thế rồi, chỉ trong một chớp mắt, toàn bộ đàn chim biến mất 
 
 Khi cả hai còn đang trố mắt nhìn, bị hút hồn bởi sinh vật kỳ quặc nọ, nó bèn quay đầu lại rồi dùng mỏ gõ lách cách vào mặt kính cửa sổ.
 
-Cốc. Cốc. Cốc cốc cốc cốc. Và Bratty lắng nghe nhịp điệu ấy. Nó vang vọng ngay trong tâm trí anh, mở ra giai điệu cho bản phối mà anh sẽ sáng tác đêm nay. Anh cảm nhận rõ ràng sự trọn vẹn của khoảnh khắc đó. Đầy đặn và tự do vô ngần. Đến đêm thứ mười (hoặc thứ mười một, hay thứ mười hai) (mà thôi, ai hơi đâu đếm làm gì) (bởi họ đã đánh mất hoàn toàn khái niệm thời gian), họ đã hoàn thành cả một album thu âm gói gọn trong chiếc máy tính xách tay của Bratty. Hai người ngồi bên bàn ăn, chú chó Tux nằm xoạc dài trên sàn nhà dưới chân họ. Tommy bật nắp chai rượu mạch nha, rót đầy hai chiếc cốc vại.
+*Cốc. Cốc. Cốc cốc cốc cốc.* Và Bratty lắng nghe nhịp điệu ấy. Nó vang vọng ngay trong tâm trí anh, mở ra giai điệu cho bản phối mà anh sẽ sáng tác đêm nay. Anh cảm nhận rõ ràng sự trọn vẹn của khoảnh khắc đó. Đầy đặn và tự do vô ngần. Đến đêm thứ mười (hoặc thứ mười một, hay thứ mười hai) (mà thôi, ai hơi đâu đếm làm gì) (bởi họ đã đánh mất hoàn toàn khái niệm thời gian), họ đã hoàn thành cả một album thu âm gói gọn trong chiếc máy tính xách tay của Bratty. Hai người ngồi bên bàn ăn, chú chó Tux nằm xoạc dài trên sàn nhà dưới chân họ. Tommy bật nắp chai rượu mạch nha, rót đầy hai chiếc cốc vại.
 
 “Nâng ly nào. Mừng cho chúng ta.”
 
@@ -150,7 +150,7 @@ Trong khi bản nhạc vang lên, nét hân hoan trên gương mặt Tommy dần
 
 “Chưa đúng rồi,” cậu nói.
 
-Bratty thì lại cảm thấy khá chắc chắn rằng bản nhạc này chính là thứ họ cần tìm, dẫu thứ đó có là gì đi chăng nữa. “Bạn hiền ơi… Không phải đâu.”
+Bratty thì lại cảm thấy khá chắc chắn rằng bản nhạc này *chính là* thứ họ cần tìm, dẫu thứ đó có là gì đi chăng nữa. “Bạn hiền ơi… Không phải đâu.”
 
 “Không, ý tao là… giai điệu thì đúng rồi,” Tommy phân trần. “Phần âm nhạc đã trọn vẹn ở đó. Nhưng là chất lượng âm thanh cơ.”
 
@@ -166,7 +166,7 @@ Thì ra, họ rốt cuộc cũng chỉ là hai thằng ôm một chiếc micro, 
 
 “Mày có thể gọi cho bố mày mà. Ông ấy chắc chắn sẽ giúp.”
 
-“Thôi đi, ông già tao đã cay cú kinh khủng lúc tao dọn ra ngoài này rồi. Tao không đời nào cho ông ấy cái cảm giác đắc thắng đó đâu.”
+“Thôi đi, ông già tao đã *cay cú kinh khủng* lúc tao dọn ra ngoài này rồi. Tao không đời nào cho ông ấy cái cảm giác đắc thắng đó đâu.”
 
 “Vậy là cái tôi kiêu hãnh đã chiến thắng rồi đấy.”
 
@@ -186,13 +186,13 @@ Thì ra, họ rốt cuộc cũng chỉ là hai thằng ôm một chiếc micro, 
 
 “Không. Tao đang gọi cho một gã quen biết ông chủ phòng thu. Sau đó tao sẽ bán cái xe của tao đi.”
 
-Nếu ông Pierson có một danh sách mang tên Toàn bộ những trò ngu xuẩn con trai tôi và bạn nó từng làm, thì việc Tommy bán xe lấy tiền trả phí phòng thu - trong khi đáng lẽ cậu ta hoàn toàn có thể trở thành một người trưởng thành có trách nhiệm, đi học trường kinh doanh và quên khuấy cái trò âm nhạc đi (trừ phi bạn tìm ra cách bòn rút tiền từ âm nhạc dưới góc độ kinh doanh [chào thân ái, các khoản phụ phí vé hòa nhạc]) - hẳn sẽ chễm chệ ngay đầu danh sách đó. Ít nhất là cho đến khi đứa con ngỗ nghịch Bradford tìm ra trò khác ngu xuẩn hơn để vượt mặt nó, mà điều này thì chắc chắn anh sẽ làm được.
+Nếu ông Pierson có một danh sách mang tên *Toàn bộ những trò ngu xuẩn con trai tôi và bạn nó từng làm*, thì việc Tommy bán xe lấy tiền trả phí phòng thu - trong khi đáng lẽ cậu ta hoàn toàn có thể trở thành một người trưởng thành có trách nhiệm, đi học trường kinh doanh và quên khuấy cái trò âm nhạc đi (trừ phi bạn tìm ra cách bòn rút tiền từ âm nhạc dưới góc độ kinh doanh [*chào thân ái, các khoản phụ phí vé hòa nhạc*]) - hẳn sẽ chễm chệ ngay đầu danh sách đó. Ít nhất là cho đến khi đứa con ngỗ nghịch Bradford tìm ra trò khác ngu xuẩn hơn để vượt mặt nó, mà điều này thì chắc chắn anh sẽ làm được.
 
 Nhưng đây vốn dĩ chẳng phải một dòng thời gian duy lý.
 
 Nghệ thuật đâu sinh ra từ những lựa chọn thận trọng. Nó nảy sinh khi bạn có một giấc mơ, một viễn cảnh, hay một cơn ngứa ngáy, rồi bạn cứ cào, cào dữ dội đến mức rách cả da thịt để nghệ thuật tuôn trào. Nó xảy ra đơn giản vì, như Tommy từng vung tay múa chân giải thích:
 
-Bùm chíu! Đầu mày nổ tung thành nghệ thuật!
+*Bùm chíu! Đầu mày nổ tung thành nghệ thuật!*
 
 Nó xảy ra vì bạn có điều muốn cất lời, có điều cần tiếc thương, suy ngẫm hay ngợi ca, mà những từ ngữ tầm thường chẳng tài nào lột tả trọn vẹn. Nó xảy ra vì vũ trụ này vốn dĩ chẳng chút công bằng, nhưng chỉ cần một câu thơ, một nốt nhạc hay một nét cọ, thế giới này lập tức có thể được nhào nặn lại thành một phiên bản tuyệt vời hơn: rực rỡ hơn, lấp lánh hơn, và dồi dào dải âm bass hơn.
 
@@ -240,13 +240,12 @@ Rồi bình minh ló dạng, họ đã ở bên ngoài, đi nhờ xe của gã q
 
 “Ừ,” Bratty đồng tình. “Có điều… mày cần một cái tên.”
 
-“Ý mày là chúng mình cần một cái tên chứ gì.”
+“Ý mày là *chúng mình* cần một cái tên chứ gì.”
 
-“Không, mày cơ. Mày là rapper. Mày là người dẫn dắt linh hồn ban nhạc. Tao chỉ tạo beat thôi. Tao đứng sau cánh gà.”
+“Không, *mày* cơ. Mày là rapper. Mày là người dẫn dắt linh hồn ban nhạc. Tao chỉ tạo beat thôi. Tao đứng sau cánh gà.”
 
 “Mày muốn thế thật à?”
 
 Họ nhìn nhau chằm chằm một hồi lâu. Chú chó Tux chen mình vào giữa hai người. Bratty cảm thấy chếnh choáng, hoa mắt, gần như say sóng. Tâm trí anh đã nghe thấy những từ ngữ đó trước cả khi Tommy thốt ra thành lời.
 
 “Cái tên đó,” Tommy nói, “là Mr. Yay.”
-

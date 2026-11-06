@@ -2,7 +2,7 @@
 
 <p class="para-en">ON SUNDAY EVENING, Jack called from work. He had to stay late.</p>
 
-<p class="para-vi-sub">VÀO MỘT TỐI CHỦ NHẬT, Jack gọi điện về từ chỗ làm. Anh phải ở lại muộn.</p>
+<p class="para-vi-sub">**VÀO MỘT TỐI CHỦ NHẬT,** Jack gọi điện về từ chỗ làm. Anh phải ở lại muộn.</p>
 
 <p class="para-en">“Go ahead and eat without me,” he said. “I might be very late.”</p>
 
@@ -22,7 +22,7 @@
 
 <p class="para-en">The kids had finally stopped puking and graduated to cold pasta, plain, which they ate with their fingers. The dog paced by the front door. Outside, cold rain torpedoed hopes for a festive Christmas. Miriam felt anxious. She felt a wrongness, but she couldn’t pinpoint why or what. Yes, Jack, obviously. But there was something else, something that bristled under her skin. She recalled the phone call from her client, Bradford. There’s something wrong with me, he had said. There’s something wrong. He had never called her before, not like that. His calls and texts had always been limited to scheduling issues. Once, he had texted a link to a song he’d told her about in their session. It was odd that he called, yet it hadn’t alarmed her.</p>
 
-<p class="para-vi-sub">Lũ trẻ cuối cùng cũng dứt cơn nôn nao và được nâng cấp thực đơn lên món mì ống nguội ngắt, không nước sốt, bốc ăn bằng tay. Chú chó Roxster đi đi lại lại đầy bồn chồn bên cửa chính. Ngoài trời, cơn mưa lạnh ngắt như muốn dập tắt mọi niềm hy vọng le lói về một mùa Giáng sinh ấm áp. Miriam cảm thấy bồn chồn, bất an. Cô nhận ra một điều gì đó sai lệch, nhưng chẳng thể chỉ đích danh là vì sao hay điều gì. Ừ thì hiển nhiên một phần là do Jack rồi. Thế nhưng vẫn còn một thứ gì khác nữa, một cảm giác nhồn nhột khó chịu cứ dấy lên dưới làn da cô. Cô sực nhớ lại cuộc gọi từ thân chủ của mình, Bradford. Có điều gì đó không ổn với cháu, cậu từng nói vậy. Có gì đó rất không ổn. Trước đây cậu ấy chưa từng gọi riêng cho cô như thế bao giờ. Các cuộc gọi và tin nhắn của cậu ấy trước nay luôn chỉ gói gọn trong việc sắp xếp lịch hẹn tham vấn. Duy nhất có một lần, cậu ấy nhắn cho cô đường link của một bài hát mà cậu từng nhắc đến trong buổi trị liệu. Việc cậu ấy gọi điện đường đột quả là kỳ lạ, dẫu vậy lúc đó cô chẳng mấy bận tâm.</p>
+<p class="para-vi-sub">Lũ trẻ cuối cùng cũng dứt cơn nôn nao và được nâng cấp thực đơn lên món mì ống nguội ngắt, không nước sốt, bốc ăn bằng tay. Chú chó Roxster đi đi lại lại đầy bồn chồn bên cửa chính. Ngoài trời, cơn mưa lạnh ngắt như muốn dập tắt mọi niềm hy vọng le lói về một mùa Giáng sinh ấm áp. Miriam cảm thấy bồn chồn, bất an. Cô nhận ra một điều gì đó sai lệch, nhưng chẳng thể chỉ đích danh là vì sao hay điều gì. Ừ thì hiển nhiên một phần là do Jack rồi. Thế nhưng vẫn còn một thứ gì khác nữa, một cảm giác nhồn nhột khó chịu cứ dấy lên dưới làn da cô. Cô sực nhớ lại cuộc gọi từ thân chủ của mình, Bradford. *Có điều gì đó không ổn với cháu*, cậu từng nói vậy. *Có gì đó rất không ổn.* Trước đây cậu ấy chưa từng gọi riêng cho cô như thế bao giờ. Các cuộc gọi và tin nhắn của cậu ấy trước nay luôn chỉ gói gọn trong việc sắp xếp lịch hẹn tham vấn. Duy nhất có một lần, cậu ấy nhắn cho cô đường link của một bài hát mà cậu từng nhắc đến trong buổi trị liệu. Việc cậu ấy gọi điện đường đột quả là kỳ lạ, dẫu vậy lúc đó cô chẳng mấy bận tâm.</p>
 
 <p class="para-en">It should have alarmed her. But instead, she let the kids have cookies for dinner, and her atypical lenience lapped at the edges of this wrongness.</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">She brushed her teeth and climbed into an empty bed. Sometime after she had fallen asleep, Jack came home. He stumbled into their dark room, bumping into the dresser, creaking the floorboards with his careless feet. He peeled off his clothes and left them in a pile on the floor. He flopped onto the bed, shaking the mattress. He didn’t bother with a peck on her cheek, a hello I missed you. He closed his eyes and was out.</p>
 
-<p class="para-vi-sub">Cô đánh răng rồi trèo lên chiếc giường trống trải. Một lúc nào đó sau khi cô đã thiếp đi, Jack mới mò về nhà. Anh lảo đảo bước vào căn phòng tối om, va phải bàn trang điểm, đôi chân bất cẩn làm sàn gỗ kêu cọt kẹt inh ỏi. Anh lột bỏ quần áo rồi vứt bừa thành một đống dưới sàn. Anh nằm vật xuống giường làm rung chuyển cả tấm đệm. Anh chẳng buồn trao cho cô một nụ hôn phớt lên má, hay buông một câu chào em anh nhớ em cho phải phép. Anh nhắm nghiền mắt lại rồi lịm đi tức khắc.</p>
+<p class="para-vi-sub">Cô đánh răng rồi trèo lên chiếc giường trống trải. Một lúc nào đó sau khi cô đã thiếp đi, Jack mới mò về nhà. Anh lảo đảo bước vào căn phòng tối om, va phải bàn trang điểm, đôi chân bất cẩn làm sàn gỗ kêu cọt kẹt inh ỏi. Anh lột bỏ quần áo rồi vứt bừa thành một đống dưới sàn. Anh nằm vật xuống giường làm rung chuyển cả tấm đệm. Anh chẳng buồn trao cho cô một nụ hôn phớt lên má, hay buông một câu *chào em anh nhớ em* cho phải phép. Anh nhắm nghiền mắt lại rồi lịm đi tức khắc.</p>
 
 <p class="para-en">And she was awake.</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-en">“NO! You, Dad,” Rory demanded. “You kill the spida.”</p>
 
-<p class="para-vi-sub">“KHÔNG! Bố cơ,” Rory nằng nặc. “Bố bắt con nhện đi.”</p>
+<p class="para-vi-sub">“KHÔNG! Bố cơ,” Rory nằng nặc. “*Bố* bắt con nhện đi.”</p>
 
 <p class="para-en">“Miriam, can you handle this?” Jack poked at her.</p>
 
@@ -194,7 +194,7 @@
 
 <p class="para-en">Jack sat up. He looked at her. “I was working this weekend. Or did you forget, because you were so busy having fun without me?”</p>
 
-<p class="para-vi-sub">Jack cũng ngồi bật dậy, trừng mắt nhìn cô: “Cuối tuần rồi anh phải làm việc. Hay em mải bù khú vui vẻ không có anh nên quên khuấy đi mất rồi?”</p>
+<p class="para-vi-sub">Jack cũng ngồi bật dậy, trừng mắt nhìn cô: “Cuối tuần rồi anh phải *làm việc*. Hay em mải bù khú vui vẻ không có anh nên quên khuấy đi mất rồi?”</p>
 
 <p class="para-en">“You work every weekend. You always have an excuse. ‘Oh, I can’t take care of the kids,’ ” she mocked, “ ‘I’m working. Oh, I can’t do the dishes, I’m working. Oh, I can’t clean up puke, I’m working. Oh, but Fred and Tom are going golfing, so, sure! I can take the afternoon off.’ ”</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-en">She yanked the covers back, hard, pulling them off her husband entirely. She could see his legs, bare and greenish in the dim light of the clock, which now read 1:19. He had such hairy legs. Such skinny, hairy legs. Like goat legs, she thought. She wanted to kick them right off the bed.</p>
 
-<p class="para-vi-sub">Cô giật phắt chiếc chăn lại, lôi tuột nó ra khỏi người chồng. Trong thứ ánh sáng mờ mờ xanh lét hắt ra từ mặt đồng hồ điện tử đang điểm 1 giờ 19 phút, đôi chân anh hiện ra trần trụi và nhợt nhạt. Đôi chân khẳng khiu đến phát hờn, rậm rịt những lông lá xù xì. Trông chẳng khác nào chân dê, cô nghĩ thầm, bụng chỉ muốn đạp cho chúng văng phăng khỏi mép giường.</p>
+<p class="para-vi-sub">Cô giật phắt chiếc chăn lại, lôi tuột nó ra khỏi người chồng. Trong thứ ánh sáng mờ mờ xanh lét hắt ra từ mặt đồng hồ điện tử đang điểm 1 giờ 19 phút, đôi chân anh hiện ra trần trụi và nhợt nhạt. Đôi chân khẳng khiu đến phát hờn, rậm rịt những lông lá xù xì. *Trông chẳng khác nào chân dê*, cô nghĩ thầm, bụng chỉ muốn đạp cho chúng văng phăng khỏi mép giường.</p>
 
 <p class="para-en">“What? What did I say?” Jack asked, densely.</p>
 
@@ -242,7 +242,7 @@
 
 <p class="para-en">“I sit there? Don’t you even know what I do?”</p>
 
-<p class="para-vi-sub">“Em chỉ việc ngồi đó thôi á? Thậm chí anh còn chẳng buồn biết em làm nghề gì sao?”</p>
+<p class="para-vi-sub">“Em chỉ việc *ngồi đó* thôi á? Thậm chí anh còn chẳng buồn biết em làm nghề gì sao?”</p>
 
 <p class="para-en">“Sure, you’re a, a—”</p>
 
@@ -262,7 +262,7 @@
 
 <p class="para-en">“You always have a choice. There are other jobs, Jack. Jobs that don’t make you work a thousand hours a week.”</p>
 
-<p class="para-vi-sub">“Anh luôn luôn có quyền lựa chọn. Ngoài kia còn đầy rẫy công việc khác, Jack ạ. Những công việc không bắt anh phải vắt kiệt sức một nghìn giờ mỗi tuần.”</p>
+<p class="para-vi-sub">“Anh *luôn luôn* có quyền lựa chọn. Ngoài kia còn đầy rẫy công việc khác, Jack ạ. Những công việc không bắt anh phải vắt kiệt sức một nghìn giờ mỗi tuần.”</p>
 
 <p class="para-en">“But I do it for you, Miriam,” Jack said. “I work for us, for our kids. For their future.”</p>
 
@@ -270,23 +270,19 @@
 
 <p class="para-en">“You work for you, Jack. It makes you feel important, doesn’t it? You feel all big and important, working all the time, strutting around in your stupid suit. You’re a prick, Jack. A selfish, pompous buffoon!”</p>
 
-<p class="para-vi-sub">“Anh làm việc là vì chính cái tôi của anh thì có, Jack. Nó làm cho anh thấy bản thân mình quan trọng, đúng không nào? Anh cảm thấy mình vĩ đại và oai vệ biết bao khi cứ cắm đầu làm việc rồi vênh váo đi đi lại lại trong mấy bộ âu phục dở hơi của mình. Anh đúng là đồ tồi, Jack ạ. Một tên hề ích kỷ, huênh hoang!”</p>
+<p class="para-vi-sub">“Anh làm việc là vì chính cái tôi của anh thì có, Jack. Nó làm cho anh thấy bản thân mình quan trọng, đúng không nào? *Anh* cảm thấy mình vĩ đại và oai vệ biết bao khi cứ cắm đầu làm việc rồi vênh váo đi đi lại lại trong mấy bộ âu phục dở hơi của mình. Anh đúng là đồ tồi, Jack ạ. Một tên hề ích kỷ, huênh hoang!”</p>
 
 <p class="para-en">Jack tossed his hairy goat legs over the side of the bed. He grabbed his pillow and trotted out of the room, banging the door shut behind him. Miriam finally had all the covers to herself. She stared at the empty side of the bed. She regretted what she had said, kind of, but she also felt like she hadn’t gotten to say it all.</p>
 
-<p class="para-vi-sub">Jack hậm hực hất đôi chân dê lông lá qua mép giường. Anh chộp lấy chiếc gối của mình rồi sải bước ra khỏi phòng, không quên dằn mạnh cánh cửa đánh sầm một tiếng sau lưng. Thế là cuối cùng Miriam cũng độc chiếm trọn vẹn cả tấm chăn một mình. Cô nhìn chằm chằm vào khoảng nệm trống hoác bên cạnh. Trong lòng dấy lên đôi chút ân hận vì những lời cay nghiệt vừa buông ra, nhưng mặt khác, cô lại ấm ức nhận thấy mình vẫn chưa trút cạn được cơn giận.</p>
+<p class="para-vi-sub">Jack hậm hực hất đôi chân dê lông lá qua mép giường. Anh chộp lấy chiếc gối của mình rồi sải bước ra khỏi phòng, không quên dằn mạnh cánh cửa đánh sầm một tiếng sau lưng. Thế là cuối cùng Miriam cũng độc chiếm trọn vẹn cả tấm chăn một mình. Cô nhìn chằm chằm vào khoảng nệm trống hoác bên cạnh. Trong lòng dấy lên đôi chút ân hận vì những lời cay nghiệt vừa buông ra, nhưng mặt khác, cô lại ấm ức nhận thấy mình vẫn chưa trút cạn được cơn giận. *Và*, cô lẩm bẩm trong đầu, *cả việc em ghét cay ghét đắng anh nữa!*</p>
 
-<p class="para-en">And, she said to herself, and, I hate you!</p>
-
-<p class="para-vi-sub">Và, cô lẩm bẩm trong đầu, cả việc em ghét cay ghét đắng anh nữa!</p>
-
-<p class="para-en">But she didn’t say it out loud. She wanted to. She wanted to yell it. But there was another voice.</p>
+<p class="para-en">And, she said to herself, and, I hate you! But she didn’t say it out loud. She wanted to. She wanted to yell it. But there was another voice.</p>
 
 <p class="para-vi-sub">Thế nhưng cô không gào to lên thành lời. Cô rất muốn làm thế, thèm được thét thẳng vào mặt anh câu đó, song một giọng nói kỳ quặc bỗng dưng vọng lại trong tâm trí cô.</p>
 
 <p class="para-en">Zip it, sailor! the voice ordered. Silent like a starfish!</p>
 
-<p class="para-vi-sub">Ngậm miệng lại, thủy thủ! giọng nói cất lên đầy uy quyền. Im lặng như một con sao biển!</p>
+<p class="para-vi-sub">*Ngậm miệng lại, thủy thủ!* giọng nói cất lên đầy uy quyền. *Im lặng như một con sao biển!*</p>
 
 <p class="para-en">She tried to sleep, but she couldn’t. She was wound up. Itchy. Hot. She could hear the dog in the hallway, pacing.</p>
 
@@ -354,15 +350,19 @@
 
 <p class="para-en">She turned away and covered her ears, not wanting to see it, or to hear the sick crunch of bones. The car sped away. When she could no longer hear it, she turned back, expecting a smear of fur and guts.</p>
 
-<p class="para-vi-sub">Cô vội quay mặt đi và bịt chặt hai tai, vừa không muốn chứng kiến cảnh tượng hãi hùng ấy, vừa không muốn nghe thấy tiếng xương cốt gãy giòn rụm. Chiếc xe phóng vụt qua trong gió rít. Đến khi tiếng động cơ chìm hẳn vào bóng đêm, cô mới dám ngoảnh lại, đinh ninh trong bụng thể nào cũng phải đối mặt với một bãi nhầy nhụa lông lá và nội tạng. Thế nhưng, ngay trên mặt đường, con thỏ vẫn ngồi nguyên ở đó. Lành lặn hoàn toàn, và cái mũi thì vẫn giật giật tưng tửng. Rồi ngay khi cô còn đang trố mắt kinh ngạc, con thỏ bỗng bật dậy, phi vèo qua bên kia đường và lao thẳng về phía cô.</p>
+<p class="para-vi-sub">Cô vội quay mặt đi và bịt chặt hai tai, vừa không muốn chứng kiến cảnh tượng hãi hùng ấy, vừa không muốn nghe thấy tiếng xương cốt gãy giòn rụm. Chiếc xe phóng vụt qua trong gió rít. Đến khi tiếng động cơ chìm hẳn vào bóng đêm, cô mới dám ngoảnh lại, đinh ninh trong bụng thể nào cũng phải đối mặt với một bãi nhầy nhụa lông lá và nội tạng.</p>
 
-<p class="para-en">But there, on the road, was the rabbit. Fully intact, nose twitching. Then, as she stared, the rabbit hopped up and ran across the road, toward her.</p>
+<p class="para-en">But there, on the road, was the rabbit. Fully intact, nose twitching. Then, as she stared, the rabbit hopped up and ran across the road, toward her. “Oh, now you move.”</p>
 
-<p class="para-vi-sub">“Ồ, giờ thì mày mới chịu nhúc nhích đấy à.” Nó không đơn thuần là chạy về hướng cô. Nó đang lao thẳng vào cô: đầu cúi gập, đôi tai cụp sát về sau, cắm đầu phi như bay vào người cô.</p>
+<p class="para-vi-sub">Thế nhưng, ngay trên mặt đường, con thỏ vẫn ngồi nguyên ở đó. Lành lặn hoàn toàn, và cái mũi thì vẫn giật giật tưng tửng. Rồi ngay khi cô còn đang trố mắt kinh ngạc, con thỏ bỗng bật dậy, phi vèo qua bên kia đường và lao thẳng về phía cô.</p>
 
-<p class="para-en">“Oh, now you move.” Not just toward her. At her. Head down, ears back, right at her. She didn’t wait for the next scene in Attack of the Suburban Ghost Rabbit. She ran, down the street, toward her house. She ran awkwardly, in her rain boots, more aware with each step how ridiculous it was to fear a tiny, furry, adorable bunny.</p>
+<p class="para-en">Not just toward her. At her. Head down, ears back, right at her.</p>
 
-<p class="para-vi-sub">Miriam chẳng rảnh rỗi đâu mà đứng chờ xem phân cảnh tiếp theo của Cuộc Tấn Công Của Thỏ Báo Hiệu Đứt Gãy Thực Tại Vùng Ngoại Ô. Thế là cô co giò, ba chân bốn cẳng tháo chạy ngược xuống phố, nhắm thẳng hướng nhà mình mà phóng. Cô chạy một cách vụng về trong đôi ủng đi mưa lòe xòe, và cứ qua từng bước chân, cô lại càng thấm thía bản thân nực cười đến mức nào khi phải phát khiếp trước một sinh vật bé nhỏ, nhiều lông và vốn dĩ vô cùng đáng yêu.</p>
+<p class="para-vi-sub">“Ồ*, giờ thì* mày mới chịu nhúc nhích đấy à.”</p>
+
+<p class="para-en">She didn’t wait for the next scene in Attack of the Suburban Ghost Rabbit. She ran, down the street, toward her house. She ran awkwardly, in her rain boots, more aware with each step how ridiculous it was to fear a tiny, furry, adorable bunny.</p>
+
+<p class="para-vi-sub">Nó không đơn thuần là chạy về hướng cô. Nó đang lao thẳng vào cô: đầu cúi gập, đôi tai cụp sát về sau, cắm đầu phi như bay vào người cô. Miriam chẳng rảnh rỗi đâu mà đứng chờ xem phân cảnh tiếp theo của *Cuộc Tấn Công Của Thỏ Báo Hiệu Đứt Gãy Thực Tại Vùng Ngoại Ô*. Thế là cô co giò, ba chân bốn cẳng tháo chạy ngược xuống phố, nhắm thẳng hướng nhà mình mà phóng. Cô chạy một cách vụng về trong đôi ủng đi mưa lòe xòe, và cứ qua từng bước chân, cô lại càng thấm thía bản thân nực cười đến mức nào khi phải phát khiếp trước một sinh vật bé nhỏ, nhiều lông và vốn dĩ vô cùng đáng yêu.</p>
 
 <p class="para-en">Her pace slowed. She glanced back over her shoulder. The rabbit was behind her, keeping pace, looking harmless.</p>
 
@@ -370,7 +370,7 @@
 
 <p class="para-en">It’s just a rabbit, she told herself.</p>
 
-<p class="para-vi-sub">Nó chỉ là một con thỏ thôi mà, cô tự trấn an bản thân.</p>
+<p class="para-vi-sub">*Nó chỉ là một con thỏ thôi mà*, cô tự trấn an bản thân.</p>
 
 <p class="para-en">It was just a rabbit. It didn’t have glowing eyes or excess teeth. But as she walked home, it followed behind her. It followed her down the driveway, across the yard. She had her keys in hand. She lunged for the door. She hastily opened it and pulled the storm door closed. Then she turned around and looked down at the rabbit on the stoop.</p>
 

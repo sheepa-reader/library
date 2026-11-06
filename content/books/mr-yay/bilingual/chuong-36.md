@@ -1,8 +1,8 @@
-# THÁNG BA - CHUYẾN DU THUYỀN TIỆC TÙNG
+# THÁNG BA
 
 <p class="para-en">MR. YAY WANTED a bottle of rum from the duty-free shop.</p>
 
-<p class="para-vi-sub">MR. YAY MUỐN CÓ một chai rượu rum từ cửa hàng miễn thuế.</p>
+<p class="para-vi-sub">**MR. YAY MUỐN CÓ** một chai rượu rum từ cửa hàng miễn thuế.</p>
 
 <p class="para-en">He wanted to run down the moving walkway.</p>
 
@@ -54,7 +54,7 @@
 
 <p class="para-en">Captain Barksford—the first through tenth Captain Barksfords—lived and died aboard the SS Deliverance. Their bodies were buried at sea. The eleventh Captain Barksford was still alive when the show ended. He moved to a Manhattan penthouse. He did the celebrity talk show circuit. But he still dined on fresh fish. Bratty recalled the article he’d read last year—“A Captain’s Life, After the Series Finale.” He recalled the pain of wanting a dog and not having a dog.</p>
 
-<p class="para-vi-sub">Thuyền trưởng Barksford, từ đời Thuyền trưởng Barksford thứ nhất cho đến thứ mười, đều đã sống và qua đời trên con tàu SS Deliverance. Thể xác họ được an táng giữa biển khơi. Vị Thuyền trưởng Barksford thứ mười một vẫn còn sống khi chương trình khép lại. Chú chó chuyển đến một căn penthouse ở Manhattan, đi lưu diễn khắp các talk show dành cho người nổi tiếng. Dù vậy, chú ta vẫn chỉ thưởng thức độc món cá tươi. Bratty nhớ lại bài báo anh từng đọc hồi năm ngoái, “Cuộc đời một thuyền trưởng sau tập cuối của loạt phim.” Anh nhớ lại nỗi thèm khát được nuôi một chú chó, nỗi khao khát từng bị cấm đoán đến nhức nhối.</p>
+<p class="para-vi-sub">Thuyền trưởng Barksford, từ đời Thuyền trưởng Barksford thứ nhất cho đến thứ mười, đều đã sống và qua đời trên con tàu SS *Deliverance*. Thể xác họ được an táng giữa biển khơi. Vị Thuyền trưởng Barksford thứ mười một vẫn còn sống khi chương trình khép lại. Chú chó chuyển đến một căn penthouse ở Manhattan, đi lưu diễn khắp các talk show dành cho người nổi tiếng. Dù vậy, chú ta vẫn chỉ thưởng thức độc món cá tươi. Bratty nhớ lại bài báo anh từng đọc hồi năm ngoái, “Cuộc đời một thuyền trưởng sau tập cuối của loạt phim.” Anh nhớ lại nỗi thèm khát được nuôi một chú chó, nỗi khao khát từng bị cấm đoán đến nhức nhối.</p>
 
 <p class="para-en">He missed his dog.</p>
 
@@ -82,7 +82,7 @@
 
 <p class="para-en">They sat down at the gate. Twenty minutes till boarding. Bratty scrolled on his phone. He had emails from venues in LA, Santa Barbara, Santa Cruz, San Francisco. He had a hundred-some comments on the last pic he’d posted to Mr. Yay’s UniTab page, plus a dozen DMs. Everyone wanted more dog. He opened the app for Boogie Boat. Four nights of music aboard the Vibe Siren, the grooviest vessel on the high seas. Tickets sold out. He stared at the lineup.</p>
 
-<p class="para-vi-sub">Họ ngồi xuống tại cổng ra máy bay. Còn hai mươi phút nữa mới đến giờ lên máy bay. Bratty lướt điện thoại. Anh nhận được email từ các tụ điểm biểu diễn ở LA, Santa Barbara, Santa Cruz, San Francisco. Bức ảnh mới nhất đăng trên trang UniTab của Mr. Yay thu về hơn một trăm lượt bình luận, cùng với cả tá tin nhắn trực tiếp. Ai nấy đều nài nỉ đòi xem thêm hình ảnh về chú chó. Anh mở ứng dụng Boogie Boat. Bốn đêm âm nhạc trên con tàu Vibe Siren, con tàu thời thượng nhất trôi nổi giữa biển khơi. Vé đã bán sạch veo. Anh nhìn chằm chằm vào danh sách nghệ sĩ biểu diễn.</p>
+<p class="para-vi-sub">Họ ngồi xuống tại cổng ra máy bay. Còn hai mươi phút nữa mới đến giờ lên máy bay. Bratty lướt điện thoại. Anh nhận được email từ các tụ điểm biểu diễn ở LA, Santa Barbara, Santa Cruz, San Francisco. Bức ảnh mới nhất đăng trên trang UniTab của Mr. Yay thu về hơn một trăm lượt bình luận, cùng với cả tá tin nhắn trực tiếp. Ai nấy đều nài nỉ đòi xem thêm hình ảnh về chú chó. Anh mở ứng dụng Boogie Boat. Bốn đêm âm nhạc trên con tàu *Vibe Siren*, con tàu thời thượng nhất trôi nổi giữa biển khơi. Vé đã bán sạch veo. Anh nhìn chằm chằm vào danh sách nghệ sĩ biểu diễn.</p>
 
 <p class="para-en">Tommy stared at the lineup.</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en">There, in tiny font, on the lineup undercard, was Mr. Yay. “Dude, that’s you,” Bratty said.</p>
 
-<p class="para-vi-sub">Ở đó, bằng phông chữ nhỏ ti ti trong danh sách các nghệ sĩ phụ diễn, chính là cái tên Mr. Yay.</p>
+<p class="para-vi-sub">Ở đó, bằng phông chữ nhỏ ti ti trong danh sách các nghệ sĩ phụ diễn, chính là cái tên *Mr. Yay*.</p>
 
 <p class="para-en">“It’s us.” “It’s you.”</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">It had happened like this: The Mr. Yay official email account got an email from the Boogie Boat official email account that said something like Dear Mr. Yay, we would love you to play this year’s Boogie Boat, are you interested in joining the lineup? And Tommy was like WTF and Bratty was like WTF and for several hours they pretended it wasn’t real. It couldn’t be real. The shot-ski, that was real. The shots of Fireball were real. The dog on the couch was real, despite Bratty’s initial suspicion that he was not. But then real money got wired and real airline tickets got sent and now they were about to board.</p>
 
-<p class="para-vi-sub">“Này, chúng mình sắp diễn ở một lễ hội âm nhạc xịn xò thật đấy.” Mọi chuyện diễn ra thế này: Hộp thư điện tử chính thức của Mr. Yay nhận được một email từ địa chỉ chính thức của Lễ hội Boogie Boat, nội dung đại loại là: Kính gửi Mr. Yay, chúng tôi rất muốn mời bạn biểu diễn tại lễ hội Boogie Boat năm nay. Bạn có hứng thú góp mặt trong danh sách nghệ sĩ biểu diễn không? Thế là Tommy sững sờ thốt lên không tin nổi, Bratty cũng ngơ ngác chẳng kém, rồi suốt mấy tiếng đồng hồ liền, cả hai ra sức tự trấn an rằng chuyện này chắc chắn là trò đùa. Làm sao mà thật cho được! Thanh ván trượt Shot-Ski, cái đó mới là thật. Những ly rượu Fireball nồng nặc cháy cổ mới là thật. Chú chó nằm ườn trên ghế sofa là thật, dù ban đầu Bratty từng hoang mang tưởng nó chỉ là ảo giác. Thế nhưng tiền thật đã được chuyển khoản tới, vé máy bay thật đã gửi thẳng về hộp thư, và giờ đây bọn họ đang chuẩn bị bước chân lên phi cơ.</p>
+<p class="para-vi-sub">“Này, chúng mình sắp diễn ở một lễ hội âm nhạc xịn xò thật đấy.” Mọi chuyện diễn ra thế này: Hộp thư điện tử chính thức của Mr. Yay nhận được một email từ địa chỉ chính thức của Lễ hội Boogie Boat, nội dung đại loại là: *Kính gửi Mr. Yay, chúng tôi rất muốn mời bạn biểu diễn tại lễ hội Boogie Boat năm nay. Bạn có hứng thú góp mặt trong danh sách nghệ sĩ biểu diễn không?* Thế là Tommy sững sờ thốt lên không tin nổi, Bratty cũng ngơ ngác chẳng kém, rồi suốt mấy tiếng đồng hồ liền, cả hai ra sức tự trấn an rằng chuyện này chắc chắn là trò đùa. Làm sao mà thật cho được! Thanh ván trượt Shot-Ski, cái đó mới là thật. Những ly rượu Fireball nồng nặc cháy cổ mới là thật. Chú chó nằm ườn trên ghế sofa là thật, dù ban đầu Bratty từng hoang mang tưởng nó chỉ là ảo giác. Thế nhưng tiền thật đã được chuyển khoản tới, vé máy bay thật đã gửi thẳng về hộp thư, và giờ đây bọn họ đang chuẩn bị bước chân lên phi cơ.</p>
 
 <p class="para-en">“But I miss my dog,” Bratty said.</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">Like Captain Barksford, Tommy had said in comparison and then explained how once, in season twelve, Captain Barksford ate a deep-fried-chicken-and-banana sandwich. And in season fifteen, he ate ghost pepper–marinated chicken, then retched for three hours. Not a good idea.</p>
 
-<p class="para-vi-sub">Giống hệt Thuyền trưởng Barksford, Tommy từng ví von như thế rồi giải thích thêm rằng vào mùa thứ mười hai, Thuyền trưởng Barksford từng xơi một ổ bánh mì kẹp thịt gà chiên xù với chuối. Rồi đến tận mùa thứ mười lăm, thuyền trưởng lại đánh liều nếm món gà ướp ớt hiểm siêu cay Ghost Pepper, để rồi nôn mửa liên tục suốt ba tiếng đồng hồ liền. Rõ ràng đó chẳng phải một ý tưởng sáng suốt cho lắm.</p>
+<p class="para-vi-sub">*Giống hệt Thuyền trưởng Barksford*, Tommy từng ví von như thế rồi giải thích thêm rằng vào mùa thứ mười hai, Thuyền trưởng Barksford từng xơi một ổ bánh mì kẹp thịt gà chiên xù với chuối. Rồi đến tận mùa thứ mười lăm, thuyền trưởng lại đánh liều nếm món gà ướp ớt hiểm siêu cay Ghost Pepper, để rồi nôn mửa liên tục suốt ba tiếng đồng hồ liền. Rõ ràng đó chẳng phải một ý tưởng sáng suốt cho lắm.</p>
 
 <p class="para-en">It was time to board.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-en">They boarded the Vibe Siren. They had separate cabins on the starboard side, where all the musicians stayed. Bratty kept his head down, his sunglasses on. He didn’t want to gawk at all the stars. But holy-fucking-festival.</p>
 
-<p class="para-vi-sub">Họ sải bước lên con tàu Vibe Siren. Cả hai nhận các cabin riêng biệt ở mạn phải con tàu, khu vực dành riêng cho giới nghệ sĩ biểu diễn. Bratty luôn cúi gằm mặt, giấu mình sau cặp kính râm to bản. Anh không muốn tỏ ra như một gã nhà quê ngố tàu cứ trố mắt dòm ngó các ngôi sao nổi tiếng.</p>
+<p class="para-vi-sub">Họ sải bước lên con tàu *Vibe Siren*. Cả hai nhận các cabin riêng biệt ở mạn phải con tàu, khu vực dành riêng cho giới nghệ sĩ biểu diễn. Bratty luôn cúi gằm mặt, giấu mình sau cặp kính râm to bản. Anh không muốn tỏ ra như một gã nhà quê ngố tàu cứ trố mắt dòm ngó các ngôi sao nổi tiếng.</p>
 
 <p class="para-en">He gazed out the round window of his private cabin. The ocean view was surreal.</p>
 
@@ -198,7 +198,7 @@
 
 <p class="para-en">Tux the Speedy Sprinter. Doggie McJoggerson. Run, Tux, Run.</p>
 
-<p class="para-vi-sub">Chạy đi, Tux, chạy đi. Anh hít một hơi thật sâu rồi hòa mình vào bữa tiệc.</p>
+<p class="para-vi-sub">*Chạy đi, Tux, chạy đi.* Anh hít một hơi thật sâu rồi hòa mình vào bữa tiệc.</p>
 
 <p class="para-en">He partied. Maybe too hard that first night. Too many piña coladas in coconut cups. Too many shots from the water-shot-ski. Bratty danced on after his brain stopped recording. In the morning, he woke up on a lounge chair, poolside, beneath a blue sky tufted with white lace clouds. He ordered eggs and hash browns to his lounge chair. Coffee and mimosa. He drifted back to sleep. Tommy found him.</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-en">A waiter brought Tommy a quart of orange juice and a bottle of champagne.</p>
 
-<p class="para-vi-sub">“Chúng ta sẽ cháy hết mình.” Một người phục vụ mang đến cho Tommy một bình nước cam lớn cùng một chai sâm panh.</p>
+<p class="para-vi-sub">“*Chúng ta* sẽ cháy hết mình.” Một người phục vụ mang đến cho Tommy một bình nước cam lớn cùng một chai sâm panh.</p>
 
 <p class="para-en">“Double-fisting?”</p>
 

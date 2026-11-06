@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM SHIPLEY hung up the phone.</p>
 
-<p class="para-vi-sub">MIRIAM SHIPLEY gác máy.</p>
+<p class="para-vi-sub">**MIRIAM SHIPLEY** gác máy.</p>
 
 <p class="para-en">“Who was that?” Lindsey asked. “Was it Dad?”</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">“No. It was just one of my patients,” Miriam said. Bradford Pierson.</p>
 
-<p class="para-vi-sub">“Không đâu. Chỉ là một thân chủ của mẹ thôi,” Miriam đáp. Bradford Pierson.</p>
+<p class="para-vi-sub">“Không đâu. Chỉ là một thân chủ của mẹ thôi,” Miriam đáp. *Bradford Pierson*.</p>
 
 <p class="para-en">But unless it was Dad or Santa, the kids didn’t care. The only thing they cared about right then was cookies. It was late afternoon on the first day of winter break, and the kids had a brilliant idea. They would all eat cookies for dinner.</p>
 
@@ -34,15 +34,15 @@
 
 <p class="para-en">Miriam: When are you coming home?</p>
 
-<p class="para-vi-sub">Miriam: Khi nào anh về?</p>
+<p class="para-vi-sub">Miriam: *Khi nào anh về?*</p>
 
 <p class="para-en">Miriam: It’s almost dinnertime</p>
 
-<p class="para-vi-sub">Miriam: Gần đến giờ ăn tối rồi đấy.</p>
+<p class="para-vi-sub">Miriam: *Gần đến giờ ăn tối rồi đấy.*</p>
 
 <p class="para-en">Miriam: New Christmas tradition starts tonight. You can’t miss it. He could miss it, apparently.</p>
 
-<p class="para-vi-sub">Miriam: Truyền thống Giáng sinh mới bắt đầu từ tối nay. Anh không được bỏ lỡ đâu đấy.</p>
+<p class="para-vi-sub">Miriam: *Truyền thống Giáng sinh mới bắt đầu từ tối nay. Anh không được bỏ lỡ đâu đấy.*</p>
 
 <p class="para-en">Miriam and her two kids and the dog, an old black-and-white border collie named Roxster, ate cookie dinner in front of the TV. They watched the holiday special for some cartoon the kids liked, about a weird squid-like creature that could travel through space and time. The creature had only three appendages, attached to a weird lump body/head with a big expressive eye. It wore a Santa hat. It slithered down a chimney and was greeted by three cartoon kids who fed it cookies. The cookies made it grow large enough to barf out Christmas trees and wrapped gifts, like bicycles and pinball machines, that gave children unreasonable expectations about what Santa might bring.</p>
 
@@ -62,11 +62,11 @@
 
 <p class="para-en">We’re great! It’s the holidays!</p>
 
-<p class="para-vi-sub">Cả nhà ta đang tuyệt vời lắm! Đang là mùa lễ hội cơ mà!</p>
+<p class="para-vi-sub">*Cả nhà ta đang tuyệt vời lắm! Đang là mùa lễ hội cơ mà!*</p>
 
 <p class="para-en">She texted her husband, Jack: We ate without you.</p>
 
-<p class="para-vi-sub">Cô nhắn cho chồng mình, Jack: Mẹ con em ăn trước rồi đấy.</p>
+<p class="para-vi-sub">Cô nhắn cho chồng mình, Jack: *Mẹ con em ăn trước rồi đấy*.</p>
 
 <p class="para-en">He came home about an hour later. He burst through the door, laptop bag slung over his shoulder, briefcase in hand. He was dressed in a suit and tie, but he had forgone the fedora he wore in his youth. He was too serious for hats.</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-en">She filled a plate with cookies. She slammed it down on the table in front of him. He didn’t notice. She wanted to smack him across the face. To yell, Jack! Jack! Snap out of it!</p>
 
-<p class="para-vi-sub">Cô xúc đầy một đĩa bánh quy. Cô dằn mạnh đĩa bánh xuống mặt bàn ngay trước mũi anh. Anh chẳng mảy may chú ý. Cô thèm tát thẳng vào mặt anh một cái cho hả giận. Thèm hét tướng lên: Jack! Jack! Tỉnh lại đi xem nào!</p>
+<p class="para-vi-sub">Cô xúc đầy một đĩa bánh quy. Cô dằn mạnh đĩa bánh xuống mặt bàn ngay trước mũi anh. Anh chẳng mảy may chú ý. Cô thèm tát thẳng vào mặt anh một cái cho hả giận. Thèm hét tướng lên: *Jack! Jack! Tỉnh lại đi xem nào!*</p>
 
 <p class="para-en">Instead, she emptied the dishwasher. She clanked the plates together loudly. Jack sighed. She banged the pots against the pans. She slammed the cupboard doors. She ran the mini-vacuum, sucking up stray sprinkles and bits of dog-floof.</p>
 
@@ -138,11 +138,11 @@
 
 <p class="para-en">That Jack had disappeared.</p>
 
-<p class="para-vi-sub">Jack đó đã bốc hơi không một dấu vết.</p>
+<p class="para-vi-sub">*Jack đó* đã bốc hơi không một dấu vết.</p>
 
 <p class="para-en">That Jack would have tried to solve the mystery of his own disappearance. He would have sensed his wife’s concomitant displeasure with this surrogate Jack, who only had one mode. Work-mode.</p>
 
-<p class="para-vi-sub">Jack đó hẳn sẽ quyết tâm điều tra cho bằng được sự biến mất bí ẩn của chính mình. Anh hẳn sẽ nhận ra nỗi bất mãn đang sôi sục nơi cô vợ trước một kẻ thế thân tẻ nhạt này, kẻ trong đời chỉ tồn tại duy nhất một trạng thái: trạng thái làm việc.</p>
+<p class="para-vi-sub">*Jack đó* hẳn sẽ quyết tâm điều tra cho bằng được sự biến mất bí ẩn của chính mình. Anh hẳn sẽ nhận ra nỗi bất mãn đang sôi sục nơi cô vợ trước một kẻ thế thân tẻ nhạt này, kẻ trong đời chỉ tồn tại duy nhất một trạng thái: trạng thái làm việc.</p>
 
 <p class="para-en">He was a terrible typist, for a man so committed to work. His index fingers plucked at the keyboard while the rest of his fingers hung uselessly. His grade-school typing produced an irregular crunching sound. His email pinged. Whenever he stopped typing, he tapped his fingernails on the table. He gnawed on his plastic pens. A bad example, for children.</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-en">It was always one Big Deal or another, unless it was a Big Deadline or a Big Presentation or an Important Client. Of course you’re important,﻿ too, he would tell Miriam, if she complained. Why do you think I work so hard?</p>
 
-<p class="para-vi-sub">Cuộc đời anh bao giờ cũng là hết Thương Vụ Lớn này đến Thương Vụ Lớn khác. Bằng không thì cũng là Thời Hạn Gấp Rút, Buổi Thuyết Trình Trọng Đại hoặc một Khách Hàng Siêu Cấp Quan Trọng. Dĩ nhiên em cũng quan trọng chứ, anh chắc chắn sẽ phân trần như thế nếu Miriam cất lời cằn nhằn. Em nghĩ xem rốt cuộc anh đầu tắt mặt tối thế này vì ai?</p>
+<p class="para-vi-sub">Cuộc đời anh bao giờ cũng là hết Thương Vụ Lớn này đến Thương Vụ Lớn khác. Bằng không thì cũng là Thời Hạn Gấp Rút, Buổi Thuyết Trình Trọng Đại hoặc một Khách Hàng Siêu Cấp Quan Trọng. *Dĩ nhiên em cũng quan trọng chứ*, anh chắc chắn sẽ phân trần như thế nếu Miriam cất lời cằn nhằn. *Em nghĩ xem rốt cuộc anh đầu tắt mặt tối thế này vì ai?*</p>
 
 <p class="para-en">There wasn’t any retort to the I-do-it-for-you defense. She couldn’t rebut his arguments that a person should get their work done, that they should do a good job, that they should honor their commitments. But at least Jack could have the decency not to commandeer the kitchen in the name of work.</p>
 

@@ -2,11 +2,11 @@
 
 <p class="para-en">MIRIAM + JACK</p>
 
-<p class="para-vi-sub">MIRIAM + JACK</p>
+<p class="para-vi-sub">**MIRIAM + JACK**</p>
 
 <p class="para-en">A BABY was a miracle.</p>
 
-<p class="para-vi-sub">MỘT ĐỨA BÉ là một phép màu.</p>
+<p class="para-vi-sub">**MỘT ĐỨA BÉ** là một phép màu.</p>
 
 <p class="para-en">A baby was a gift from God.</p>
 
@@ -38,11 +38,11 @@
 
 <p class="para-en">He screamed until she stuck her sore teat in his mouth and then, like magic, he stopped. His legs pedaled as he suckled and she had to hold him back, away from her body, so the motion wouldn’t pull at her stitches, and she worried that this forced space between them presaged a fissure, a family cleaved apart, by pain, by choices. It came down to choices, always. Even now. She chose not to hold this bicycling baby close. She chose to scroll on her phone, inattentive, as he drained her. How long until a baby sleeps through the night? she asked the internet, already anxious for this short phase in Rory’s short baby existence to end. She wanted to jump ahead. To what?</p>
 
-<p class="para-vi-sub">Cậu bé cứ gào khóc cho đến khi cô nhét đầu ngực đang đau nhức của mình vào miệng con. Như một phép thuật, cậu nín bặt. Đôi chân cậu vẫn đạp lia lịa trong lúc bú, buộc cô phải giữ cậu lùi ra xa một chút để những cú hất chân không nện vào vết khâu. Rồi cô chợt lo sợ rằng khoảng cách gượng gạo ấy chính là điềm báo cho một vết rạn nứt, một gia đình rồi đây sẽ bị chia cắt bởi nỗi đau và bởi những lựa chọn. Rốt cuộc, mọi thứ luôn quy về những lựa chọn. Ngay cả lúc này cũng thế. Cô chọn không ôm chặt đứa bé đang miệt mài đạp xe này vào lòng. Cô chọn lướt điện thoại trong lơ đãng trong khi đứa bé đang rút cạn kiệt từng giọt sữa cuối cùng trong người cô. Bao lâu thì trẻ sơ sinh mới ngủ xuyên đêm? Cô gõ dòng tìm kiếm trên mạng, lòng sốt ruột muốn cái giai đoạn ngắn ngủi trong kiếp sống ấu thơ của Rory mau chóng khép lại. Cô muốn nhảy cóc thời gian về phía trước. Thế nhưng, nhảy tới đâu mới được cơ chứ?</p>
+<p class="para-vi-sub">Cậu bé cứ gào khóc cho đến khi cô nhét đầu ngực đang đau nhức của mình vào miệng con. Như một phép thuật, cậu nín bặt. Đôi chân cậu vẫn đạp lia lịa trong lúc bú, buộc cô phải giữ cậu lùi ra xa một chút để những cú hất chân không nện vào vết khâu. Rồi cô chợt lo sợ rằng khoảng cách gượng gạo ấy chính là điềm báo cho một vết rạn nứt, một gia đình rồi đây sẽ bị chia cắt bởi nỗi đau và bởi những lựa chọn. Rốt cuộc, mọi thứ luôn quy về những lựa chọn. Ngay cả lúc này cũng thế. Cô chọn không ôm chặt đứa bé đang miệt mài đạp xe này vào lòng. Cô chọn lướt điện thoại trong lơ đãng trong khi đứa bé đang rút cạn kiệt từng giọt sữa cuối cùng trong người cô. *Bao lâu thì trẻ sơ sinh mới ngủ xuyên đêm?* Cô gõ dòng tìm kiếm trên mạng, lòng sốt ruột muốn cái giai đoạn ngắn ngủi trong kiếp sống ấu thơ của Rory mau chóng khép lại. Cô muốn nhảy cóc thời gian về phía trước. Thế nhưng, nhảy tới đâu mới được cơ chứ?</p>
 
 <p class="para-en">He finished nursing. She changed his diaper, rocked him, kissed him, swaddled him, laid him in his crib to sleep. Cry it out, she thought, steeled to let it happen. But he didn’t cry. Not even a whimper.</p>
 
-<p class="para-vi-sub">Cậu nhóc bú xong. Cô thay tã, đung đưa, hôn con, quấn chăn ủ ấm rồi đặt cậu bé vào nôi. Cứ để con khóc cho đã đời, cô thầm nghĩ, sẵn sàng tinh thần mặc kệ con gào lên. Thế nhưng cậu bé lại không khóc. Thậm chí chẳng thút thít lấy một tiếng.</p>
+<p class="para-vi-sub">Cậu nhóc bú xong. Cô thay tã, đung đưa, hôn con, quấn chăn ủ ấm rồi đặt cậu bé vào nôi. *Cứ để con khóc cho đã đời*, cô thầm nghĩ, sẵn sàng tinh thần mặc kệ con gào lên. Thế nhưng cậu bé lại không khóc. Thậm chí chẳng thút thít lấy một tiếng.</p>
 
 <p class="para-en">He was good. Lindsey was good. Not once had Lindsey ever poked her fingers in a socket or shoved a bean up her nose. Lindsey slept twelve hours straight. She slept through Rory’s screaming. Miriam chose to check on her anyway. To see the rise and fall of her breath. To remind herself how good the good things could be.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-en">“We need you. I need you.”</p>
 
-<p class="para-vi-sub">“Mẹ con em cần anh. Em cần anh.”</p>
+<p class="para-vi-sub">“*Mẹ con em* cần anh. *Em* cần anh.”</p>
 
 <p class="para-en">“I know,” Jack said. “I don’t like it either. But I’ve got to be flexible and dependable, if I ever want to make partner. So I need to do this. For our future. For our family.”</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">She slid into bed, ow, ow, ow. Cocooned herself in blankets. Took a last look at her husband, as he existed in this moment of their marriage. They were strong, weren’t they? She could choose to believe this.</p>
 
-<p class="para-vi-sub">Cô chật vật trườn lại vào giường (ôi, đau quá, đau quá). Cô quấn chặt chăn quanh người như một chiếc kén. Cô nhìn chồng lần cuối, nhìn hình bóng anh đang hiện hữu trong khoảnh khắc này của cuộc hôn nhân. Họ vẫn bền vững mà, phải không? Cô hoàn toàn có thể lựa chọn tin vào điều đó.</p>
+<p class="para-vi-sub">Cô chật vật trườn lại vào giường (*ôi, đau quá, đau quá*). Cô quấn chặt chăn quanh người như một chiếc kén. Cô nhìn chồng lần cuối, nhìn hình bóng anh đang hiện hữu trong khoảnh khắc này của cuộc hôn nhân. Họ vẫn bền vững mà, phải không? Cô hoàn toàn có thể lựa chọn tin vào điều đó.</p>
 
 <p class="para-en">“Fine. Okay, Jack. I know it’s important. But I just…I’m tired. And I want us to be together. But I’m tired.”</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">She tried to sleep, but Jack’s absence was palpable. She rolled out of bed, ow, ow, ow. She went downstairs, made a cup of tea, turned on the television. Roxster sat at her feet. He rested his head on her knee. He was solid and predictable. He was, at all times, his doggie self, beholden to no narrative. The truth was, she loved this dog, and she loved Jack, and years would pass before the narrative of their happy marriage would crumble and fold and she could only hope that something still stood amid the wreckage.</p>
 
-<p class="para-vi-sub">Cô cố dỗ dành giấc ngủ, nhưng khoảng trống vắng lạnh nơi vị trí của Jack vẫn hiện lên mồn một. Cô lăn người rời khỏi giường, ôi, đau quá, đau quá. Cô bước xuống nhà, pha một tách trà nóng rồi bật tivi lên. Chú chó Roxster ngoan ngoãn tiến lại ngồi nép bên chân cô, rồi nhẹ nhàng tựa đầu lên gối chủ. Nó thật vững chãi, bình yên và lúc nào cũng vô cùng dễ đoán. Dù thế giới ngoài kia có xoay chuyển ra sao, nó vẫn luôn là chính nó - một chú chó trung thành không bao giờ bị trói buộc bởi bất kỳ câu chuyện thêu dệt nào. Dù gì thì cô cũng yêu chú chó này, và cô cũng yêu Jack. Phải mất nhiều năm tháng nữa câu chuyện về cuộc hôn nhân hạnh phúc của họ mới rạn nứt rồi sụp đổ hoàn toàn, và cô chỉ có thể hy vọng rằng giữa đống hoang tàn ấy, vẫn còn sót lại một điều gì đó đủ kiên cường để đứng vững.</p>
+<p class="para-vi-sub">Cô cố dỗ dành giấc ngủ, nhưng khoảng trống vắng lạnh nơi vị trí của Jack vẫn hiện lên mồn một. Cô lăn người rời khỏi giường, *ôi, đau quá, đau quá*. Cô bước xuống nhà, pha một tách trà nóng rồi bật tivi lên. Chú chó Roxster ngoan ngoãn tiến lại ngồi nép bên chân cô, rồi nhẹ nhàng tựa đầu lên gối chủ. Nó thật vững chãi, bình yên và lúc nào cũng vô cùng dễ đoán. Dù thế giới ngoài kia có xoay chuyển ra sao, nó vẫn luôn là chính nó - một chú chó trung thành không bao giờ bị trói buộc bởi bất kỳ câu chuyện thêu dệt nào. Dù gì thì cô cũng yêu chú chó này, và cô cũng yêu Jack. Phải mất nhiều năm tháng nữa câu chuyện về cuộc hôn nhân hạnh phúc của họ mới rạn nứt rồi sụp đổ hoàn toàn, và cô chỉ có thể hy vọng rằng giữa đống hoang tàn ấy, vẫn còn sót lại một điều gì đó đủ kiên cường để đứng vững.</p>
 
 <p class="para-en">She browsed the movies and shows until something caught her eye. An image of a dog at the prow of a boat. His jowls flapped in the sea breeze. A man stood beside him, a strange man, leathery and bearded, in patchwork pants, a telescope in hand, a mystic gleam in his eye. She recalled something the man had said, long ago faraway, in the story of her childhood. Be you, be true, he’d said. Another rhyme, like all his silly rhymes, that might mean nothing, or that might be a vessel for the meaning ascribed by the person who heard it. Be you, be true. She turned the words over in her mind.</p>
 

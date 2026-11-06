@@ -2,7 +2,7 @@
 
 <p class="para-en">MIRIAM WAS DRIVING HOME from a client appointment when she saw the sign at a red light, taped to a telephone pole. It looked like a lost pet sign, except instead of a photograph of a dog or a cat, it had a drawing of a man and a dog on a boat. The man had leg quilts. The dog wore a captain’s hat. HAVE YOU SEEN MR. YAY?</p>
 
-<p class="para-vi-sub">MIRIAM ĐANG LÁI XE VỀ NHÀ sau buổi tư vấn cho khách hàng thì nhìn thấy một tấm biển dán trên cột điện lúc dừng đèn đỏ. Trông nó rất giống tờ rơi tìm thú cưng thất lạc, chỉ khác một điều: thay vì ảnh chụp chó hay mèo, trên đó lại là hình vẽ một người đàn ông và một chú chó lênh đênh trên thuyền. Người đàn ông mặc chiếc quần may ghép mảnh sặc sỡ. Chú chó thì chễm chệ đội chiếc mũ thuyền trưởng. BẠN CÓ THẤY MR. YAY KHÔNG?</p>
+<p class="para-vi-sub">**MIRIAM ĐANG LÁI XE VỀ NHÀ** sau buổi tư vấn cho khách hàng thì nhìn thấy một tấm biển dán trên cột điện lúc dừng đèn đỏ. Trông nó rất giống tờ rơi tìm thú cưng thất lạc, chỉ khác một điều: thay vì ảnh chụp chó hay mèo, trên đó lại là hình vẽ một người đàn ông và một chú chó lênh đênh trên thuyền. Người đàn ông mặc chiếc quần may ghép mảnh sặc sỡ. Chú chó thì chễm chệ đội chiếc mũ thuyền trưởng. BẠN CÓ THẤY MR. YAY KHÔNG?</p>
 
 <p class="para-en">She pulled over to the curb. She got out of her car. She examined the sign. The waves, the boat, and the smiling sun looked like the handiwork of a child. There was an oblong scribble with eyes and teeth in the water, and beneath that was a phone number and email address, J.ShipleyPrivateEye@unimail.com.</p>
 
@@ -14,7 +14,7 @@
 
 <p class="para-en">“Have you seen Mr. Yay, Mom?” Lindsey asked.</p>
 
-<p class="para-vi-sub">“Mẹ đã thấy Mr. Yay chưa?” Lindsey hỏi.</p>
+<p class="para-vi-sub">“*Mẹ* đã thấy Mr. Yay chưa?” Lindsey hỏi.</p>
 
 <p class="para-en">“I have.”</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en">“It is necessary. And I traded it for the bench.”</p>
 
-<p class="para-vi-sub">“Nó thực sự cần thiết mà em. Với lại, anh đổi nó lấy chiếc ghế dài rồi.”</p>
+<p class="para-vi-sub">“Nó *thực sự* cần thiết mà em. Với lại, anh đổi nó lấy chiếc ghế dài rồi.”</p>
 
 <p class="para-en">She hadn’t noticed that the wooden bench that used to be on their deck was gone. “The one that used to be right here?”</p>
 
@@ -182,15 +182,15 @@
 
 <p class="para-en">“Your lips scrunch up. Your eyes get squinty. You know something larger is going on. Listen to this.” Jack pulled out his phone. “From today’s Los Angeles Tribune. ‘Americans Quitting Jobs in Record Numbers.’ ” He read the article:</p>
 
-<p class="para-vi-sub">“Môi em chu lại. Mắt em nheo nheo. Em biết tỏng có chuyện lớn hơn đang xảy ra. Nghe này.” Jack rút điện thoại ra. “Bài báo trên tờ Los Angeles Tribune hôm nay đây: ‘Làn sóng Đại từ bỏ công sở của người Mỹ đạt mốc kỷ lục.’” Anh đọc to nội dung bài báo:</p>
+<p class="para-vi-sub">“Môi em chu lại. Mắt em nheo nheo. Em biết tỏng có chuyện lớn hơn đang xảy ra. Nghe này.” Jack rút điện thoại ra. “Bài báo trên tờ *Los Angeles Tribune* hôm nay đây: ‘*Làn sóng Đại từ bỏ công sở của người Mỹ đạt mốc kỷ lục.*’” Anh đọc to nội dung bài báo:</p>
 
 <p class="para-en">More Americans quit their jobs last month than any previous month on record. The walkouts spanned the employment spectrum, from the highest-paid lawyers and newscasters to minimum-wage clerks and burger flippers. There seems to be no apparent explanation for this sudden shift in employment patterns. “We’ve never seen anything like it,” said Francis McBride, a sociologist at Princeton University and expert in employment statistics. “A huge number of people are suddenly changing careers or exiting the workforce altogether.”</p>
 
-<p class="para-vi-sub">“Số lượng người Mỹ nộp đơn xin nghỉ việc trong tháng vừa qua đã vượt xa bất kỳ cột mốc nào từng được ghi nhận trong lịch sử. Làn sóng từ bỏ công sở này lan rộng khắp mọi ngành nghề trên toàn bộ thị trường lao động, từ những luật sư cùng phát thanh viên truyền hình có thu nhập cao ngất ngưởng cho tới các nhân viên thu ngân lẫn nhân viên bếp ở tiệm thức ăn nhanh nhận mức lương tối thiểu. Dường như chưa từng có bất kỳ lời giải thích hợp lý nào cho sự chuyển biến đột ngột này trong xu hướng lao động. ‘Chúng tôi chưa bao giờ chứng kiến hiện tượng nào tương tự,’ Francis McBride, nhà xã hội học tại Đại học Princeton kiêm chuyên gia phân tích thống kê việc làm, nhận định. ‘Một lực lượng khổng lồ người lao động đang đột ngột chuyển nghề hoặc quyết định rút lui hoàn toàn khỏi thị trường lao động.’”</p>
+<p class="para-vi-sub">*“Số lượng người Mỹ nộp đơn xin nghỉ việc trong tháng vừa qua đã vượt xa bất kỳ cột mốc nào từng được ghi nhận trong lịch sử. Làn sóng từ bỏ công sở này lan rộng khắp mọi ngành nghề trên toàn bộ thị trường lao động, từ những luật sư cùng phát thanh viên truyền hình có thu nhập cao ngất ngưởng cho tới các nhân viên thu ngân lẫn nhân viên bếp ở tiệm thức ăn nhanh nhận mức lương tối thiểu. Dường như chưa từng có bất kỳ lời giải thích hợp lý nào cho sự chuyển biến đột ngột này trong xu hướng lao động. ‘Chúng tôi chưa bao giờ chứng kiến hiện tượng nào tương tự,’ Francis McBride, nhà xã hội học tại Đại học Princeton kiêm chuyên gia phân tích thống kê việc làm, nhận định. ‘Một lực lượng khổng lồ người lao động đang đột ngột chuyển nghề hoặc quyết định rút lui hoàn toàn khỏi thị trường lao động.’”*</p>
 
 <p class="para-en">This sudden shift has left employers scrambling. Glen Huckster, general manager at the Laguna Beach Value Valley, said that his store lost six employees just last week. “We’re struggling to fill their shifts,” said Huckster. “No one wants to work overtime. And we’re still trying to backfill the positions vacated by employees who’d left in the weeks before.”</p>
 
-<p class="para-vi-sub">Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp trở tay không kịp. Glen Huckster, tổng quản lý siêu thị Value Valley chi nhánh Laguna Beach, ngán ngẩm chia sẻ rằng cửa hàng của ông vừa mất đứt sáu nhân viên chỉ trong tuần trước. “Chúng tôi đang chật vật xếp cho kín ca,” Huckster nói. “Chẳng ai chịu làm thêm giờ nữa. Đã thế, chúng tôi vẫn đang cuống cuồng tuyển người trám vào những vị trí bị bỏ trống do những nhân viên đã dứt áo ra đi từ vài tuần trước đó.”</p>
+<p class="para-vi-sub">*Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp trở tay không kịp. Glen Huckster, tổng quản lý siêu thị Value Valley chi nhánh Laguna Beach, ngán ngẩm chia sẻ rằng cửa hàng của ông vừa mất đứt sáu nhân viên chỉ trong tuần trước. “Chúng tôi đang chật vật xếp cho kín ca,” Huckster nói. “Chẳng ai chịu làm thêm giờ nữa. Đã thế, chúng tôi vẫn đang cuống cuồng tuyển người trám vào những vị trí bị bỏ trống do những nhân viên đã dứt áo ra đi từ vài tuần trước đó.”*</p>
 
 <p class="para-en">“Who could blame them?” Miriam said. “I wouldn’t want to work at the Value Valley either. But what does that have to do with anything?”</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-en">“Yeah.” Jessica Scriber, prime suspect in the saga of Is My Husband Cheating? At least until Miriam ran into the older woman at a fancy downtown restaurant, dining alone.</p>
 
-<p class="para-vi-sub">“Nhớ chứ.” Jessica Scriber, nghi phạm số một trong thiên trường ca Liệu Chồng Mình Có Đang Ngoại Tình? (ít nhất là cho tới khi Miriam tình cờ bắt gặp người phụ nữ đứng tuổi ấy đang ngồi ăn tối một mình tại một nhà hàng sang trọng dưới khu trung tâm).</p>
+<p class="para-vi-sub">“Nhớ chứ.” Jessica Scriber, nghi phạm số một trong thiên trường ca *Liệu Chồng Mình Có Đang Ngoại Tình?* (ít nhất là cho tới khi Miriam tình cờ bắt gặp người phụ nữ đứng tuổi ấy đang ngồi ăn tối một mình tại một nhà hàng sang trọng dưới khu trung tâm).</p>
 
 <p class="para-en">“She died.”</p>
 
@@ -234,15 +234,15 @@
 
 <p class="para-en">Jessica Scriber, a senior partner at the law firm of Rufus Mather LLP, had always worked hard. In a business known for long hours, Ms. Scriber’s colleagues hardly noticed when she started coming to work early and leaving late. They didn’t think anything of seeing her in the office over the weekend. Working weekends, in big-firm life, is par for the course. Ms. Scriber’s devotion to her job hardly seemed unusual, until one Monday last month when her secretary arrived at work and found Ms. Scriber asleep in her office chair. She had been in the office, at work, for more than 60 hours straight.</p>
 
-<p class="para-vi-sub">Jessica Scriber, luật sư cấp cao tại Hãng luật Rufus Mather LLP, vốn nổi tiếng là người làm việc tận tụy. Trong một ngành nghề vốn khét tiếng với những giờ tăng ca triền miên, các đồng nghiệp của chị Scriber hầu như chẳng chút bận tâm khi thấy chị có mặt ở cơ quan từ sáng sớm tinh mơ và chỉ rời đi lúc đêm muộn. Họ cũng chẳng mảy may suy nghĩ khi thấy chị túc trực ở văn phòng suốt cả kỳ nghỉ cuối tuần (làm việc xuyên cuối tuần vốn là chuyện thường tình như cơm bữa tại các hãng luật lớn). Sự tận tụy của chị Scriber đối với công việc dường như chẳng có gì bất thường, cho đến một ngày thứ Hai của tháng trước, khi người thư ký đến cơ quan và phát hiện chị Scriber đã thiếp đi trên chiếc ghế xoay văn phòng. Chị đã ngồi lì ở đó, cắm mặt làm việc liên tục suốt hơn 60 tiếng đồng hồ.</p>
+<p class="para-vi-sub">*Jessica Scriber, luật sư cấp cao tại Hãng luật Rufus Mather LLP, vốn nổi tiếng là người làm việc tận tụy. Trong một ngành nghề vốn khét tiếng với những giờ tăng ca triền miên, các đồng nghiệp của chị Scriber hầu như chẳng chút bận tâm khi thấy chị có mặt ở cơ quan từ sáng sớm tinh mơ và chỉ rời đi lúc đêm muộn. Họ cũng chẳng mảy may suy nghĩ khi thấy chị túc trực ở văn phòng suốt cả kỳ nghỉ cuối tuần (làm việc xuyên cuối tuần vốn là chuyện thường tình như cơm bữa tại các hãng luật lớn). Sự tận tụy của chị Scriber đối với công việc dường như chẳng có gì bất thường, cho đến một ngày thứ Hai của tháng trước, khi người thư ký đến cơ quan và phát hiện chị Scriber đã thiếp đi trên chiếc ghế xoay văn phòng. Chị đã ngồi lì ở đó, cắm mặt làm việc liên tục suốt hơn 60 tiếng đồng hồ.*</p>
 
 <p class="para-en">Billing records indicate an uptick in Ms. Scriber’s work at the start of the year. Over several months, her hours climbed from an initial average of 60 hours per week—not uncommon for the legal profession—to more than 120 hours per week. The week before she died, Ms. Scriber had billed 127 hours.</p>
 
-<p class="para-vi-sub">Hồ sơ thanh toán giờ làm cho thấy khối lượng công việc của Luật sư Scriber tăng vọt từ đầu năm. Chỉ trong vài tháng, số giờ làm việc của chị đã leo thang từ mức trung bình ban đầu là 60 giờ mỗi tuần - điều vốn chẳng mấy hiếm hoi trong giới luật sư - lên tới hơn 120 giờ mỗi tuần. Vào tuần cuối cùng trước khi qua đời, Luật sư Scriber đã ghi nhận tới 127 giờ làm việc tính phí.</p>
+<p class="para-vi-sub">*Hồ sơ thanh toán giờ làm cho thấy khối lượng công việc của Luật sư Scriber tăng vọt từ đầu năm. Chỉ trong vài tháng, số giờ làm việc của chị đã leo thang từ mức trung bình ban đầu là 60 giờ mỗi tuần - điều vốn chẳng mấy hiếm hoi trong giới luật sư - lên tới hơn 120 giờ mỗi tuần. Vào tuần cuối cùng trước khi qua đời, Luật sư Scriber đã ghi nhận tới 127 giờ làm việc tính phí.*</p>
 
 <p class="para-en">On the morning of April 29, Ms. Scriber’s associate found her unconscious on her office floor. By the time paramedics arrived, she was already deceased. Her official cause of death was cardiac arrest. The prescription drugs Ritalin and Adderall, both stimulants, were found in her desk drawer. She also had blisters on her fingers from excessive typing.</p>
 
-<p class="para-vi-sub">Sáng ngày 29 tháng 4, một luật sư cộng sự phát hiện chị nằm bất tỉnh trên sàn phòng làm việc. Khi lực lượng cấp cứu có mặt, chị đã ngừng thở từ trước đó. Nguyên nhân tử vong chính thức được kết luận là do ngừng tim. Trong ngăn kéo bàn làm việc của chị, người ta tìm thấy hai loại thuốc kê đơn Ritalin và Adderall, đều là các chất kích thích thần kinh. Đầu ngón tay chị cũng xuất hiện nhiều vết phồng rộp do gõ bàn phím quá mức.</p>
+<p class="para-vi-sub">*Sáng ngày 29 tháng 4, một luật sư cộng sự phát hiện chị nằm bất tỉnh trên sàn phòng làm việc. Khi lực lượng cấp cứu có mặt, chị đã ngừng thở từ trước đó. Nguyên nhân tử vong chính thức được kết luận là do ngừng tim. Trong ngăn kéo bàn làm việc của chị, người ta tìm thấy hai loại thuốc kê đơn Ritalin và Adderall, đều là các chất kích thích thần kinh. Đầu ngón tay chị cũng xuất hiện nhiều vết phồng rộp do gõ bàn phím quá mức.*</p>
 
 <p class="para-en">“That’s awful,” Miriam said again.</p>
 
@@ -258,7 +258,7 @@
 
 <p class="para-en">“That I don’t know. But look, I knew this woman. And yeah, she worked a lot, like everyone at the firm. But she was also, well, she had other interests. She read books. She played the violin. She liked to travel and hike. I can’t imagine her just abandoning everything for work. One hundred and twenty-seven hours in a week? It’s inhuman.”</p>
 
-<p class="para-vi-sub">“Chuyện đó thì anh chịu. Nhưng nghe này, anh biết người phụ nữ này. Đúng vậy, chị ấy làm việc rất nhiều, giống hệt mọi người ở hãng luật thôi. Thế nhưng chị ấy cũng… à thì, chị ấy còn có những sở thích khác. Chị ấy đọc sách. Chị ấy chơi vĩ cầm. Chị ấy thích đi du lịch và leo núi dã ngoại. Anh không thể nào hình dung nổi cảnh chị ấy vứt bỏ mọi thứ chỉ vì công việc. Một trăm hai mươi bảy giờ một tuần ư? Thế là phi nhân tính.”</p>
+<p class="para-vi-sub">“*Chuyện đó* thì anh chịu. Nhưng nghe này, anh biết người phụ nữ này. Đúng vậy, chị ấy làm việc rất nhiều, giống hệt mọi người ở hãng luật thôi. Thế nhưng chị ấy cũng… à thì, chị ấy còn có những sở thích khác. Chị ấy đọc sách. Chị ấy chơi vĩ cầm. Chị ấy thích đi du lịch và leo núi dã ngoại. Anh không thể nào hình dung nổi cảnh chị ấy vứt bỏ mọi thứ chỉ vì công việc. Một trăm hai mươi bảy giờ một tuần ư? Thế là phi nhân tính.”</p>
 
 <p class="para-en">“But that’s what happened.”</p>
 
@@ -270,7 +270,7 @@
 
 <p class="para-en">Miriam looked at her husband. Her not-husband. She understood his point, but the fact that he had made it made her want to reject it, reflexively.</p>
 
-<p class="para-vi-sub">Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng cô. Cô hiểu lý lẽ của anh, nhưng chính cái sự thật rằng anh lại là người nêu ra điều đó khiến cô chỉ muốn phản bác lại theo một phản xạ tự nhiên.</p>
+<p class="para-vi-sub">Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng cô. Cô hiểu lý lẽ của anh, nhưng chính cái sự thật rằng *anh* lại là người nêu ra điều đó khiến cô chỉ muốn phản bác lại theo một phản xạ tự nhiên.</p>
 
 <p class="para-en">“You don’t like meat loaf.” “I hate it.”</p>
 
@@ -282,7 +282,7 @@
 
 <p class="para-en">“Where did you come from? My wife would never smoke cigarettes.”</p>
 
-<p class="para-vi-sub">“Anh từ đâu chui ra vậy?” “Thế em từ đâu đến? Vợ anh đời nào lại đi hút thuốc lá.”</p>
+<p class="para-vi-sub">“Anh từ đâu chui ra vậy?” “Thế *em* từ đâu đến? Vợ anh đời nào lại đi hút thuốc lá.”</p>
 
 <p class="para-en">“The dog doesn’t trust you.”</p>
 
@@ -290,7 +290,7 @@
 
 <p class="para-en">“I don’t trust me. I hadn’t planned to just quit my job, and then—I…I feel reckless.”</p>
 
-<p class="para-vi-sub">“Đến anh còn chẳng tin nổi mình. Anh vốn đâu có kế hoạch sẽ đùng đùng bỏ việc, rồi thì… anh… anh thấy mình liều lĩnh quá chừng.”</p>
+<p class="para-vi-sub">“Đến *anh* còn chẳng tin nổi mình. Anh vốn đâu có kế hoạch sẽ đùng đùng bỏ việc, rồi thì… anh… anh thấy mình liều lĩnh quá chừng.”</p>
 
 <p class="para-en">“Unmoored.”</p>
 
@@ -338,7 +338,7 @@
 
 <p class="para-en">He motioned for her to join him on the hammock. She wanted to punch him, to tear off his skin to find the Jack or Not-Jack inside, to climb on top of him and strip off her clothes and let herself be touched, in a way that he hadn’t touched her, and she hadn’t let him, for so, so long. She wanted a cigarette. Tears welled in her eyes and a sob shuddered through her chest and her heart pounded like it had the first time Jack had ever touched her. He reached out his hand.</p>
 
-<p class="para-vi-sub">Anh ra hiệu bảo cô qua nằm cùng trên chiếc võng. Cô vừa muốn đấm anh một đấm, vừa muốn xé toạc lớp da kia ra để tìm cho rõ cái bản thể Jack-hay-Không-phải-Jack ẩn sâu bên trong; lại vừa muốn trèo lên người anh, trút bỏ toàn bộ xiêm y rồi để mặc cho anh chạm vào cơ thể mình, theo cái cách mà từ rất, rất lâu rồi anh chưa từng chạm đến (và chính cô cũng chưa từng cho phép anh làm thế). Cô thèm một điếu thuốc. Nước mắt dâng đầy khóe mắt, một tiếng nấc nghẹn run rẩy vang lên nơi lồng ngực, và trái tim cô đập liên hồi cuồng nhiệt hệt như cái lần đầu tiên Jack chạm vào cô. Anh giơ tay về phía cô.</p>
+<p class="para-vi-sub">Anh ra hiệu bảo cô qua nằm cùng trên chiếc võng. Cô vừa muốn đấm anh một đấm, vừa muốn xé toạc lớp da kia ra để tìm cho rõ cái bản thể *Jack-hay-Không-phải-Jack* ẩn sâu bên trong; lại vừa muốn trèo lên người anh, trút bỏ toàn bộ xiêm y rồi để mặc cho anh chạm vào cơ thể mình, theo cái cách mà từ rất, rất lâu rồi anh chưa từng chạm đến (và chính cô cũng chưa từng cho phép anh làm thế). Cô thèm một điếu thuốc. Nước mắt dâng đầy khóe mắt, một tiếng nấc nghẹn run rẩy vang lên nơi lồng ngực, và trái tim cô đập liên hồi cuồng nhiệt hệt như cái lần đầu tiên Jack chạm vào cô. Anh giơ tay về phía cô.</p>
 
 <p class="para-en">“Miriam—”</p>
 

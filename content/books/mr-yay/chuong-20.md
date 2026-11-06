@@ -1,6 +1,6 @@
 # NGƯỜI CHA MẪU MỰC VÀ ĐÁNG YÊU VỀ NHÀ ĂN TỐI
 
-MIRIAM ĐỨNG BÊN BẾP, tay khuấy một nồi mì Ý. Lũ trẻ nhà Shipley nổi tiếng với gu ẩm thực vô cùng khắt khe. Lindsey chỉ chịu ăn mì Ý sốt cà chua với điều kiện tiên quyết là nước sốt không được dính lấy một lợn cợn miếng cà chua nào. Rory thì lại chỉ trung thành với mì Ý trộn bơ rắc muối. Riêng chú chó Roxster sẽ sẵn sàng chén sạch cả nồi mì lẫn cái bếp nếu cô cho phép. Còn Jack nghĩ sao về món mì Ý ư? Miriam chẳng buồn bận tâm. Đơn giản vì Jack sẽ không về nhà ăn tối. Anh bận làm việc rồi.
+**MIRIAM ĐỨNG BÊN BẾP,** tay khuấy một nồi mì Ý. Lũ trẻ nhà Shipley nổi tiếng với gu ẩm thực vô cùng khắt khe. Lindsey chỉ chịu ăn mì Ý sốt cà chua với điều kiện tiên quyết là nước sốt không được dính lấy một lợn cợn miếng cà chua nào. Rory thì lại chỉ trung thành với mì Ý trộn bơ rắc muối. Riêng chú chó Roxster sẽ sẵn sàng chén sạch cả nồi mì lẫn cái bếp nếu cô cho phép. Còn Jack nghĩ sao về món mì Ý ư? Miriam chẳng buồn bận tâm. Đơn giản vì Jack sẽ không về nhà ăn tối. Anh bận làm việc rồi.
 
 Thế nhưng, thật bất ngờ, Jack lại về nhà.
 
@@ -26,7 +26,7 @@ Lũ trẻ cũng lập tức nhào tới ôm chầm lấy bố.
 
 “Rory, nói thế là không ngoan đâu con,” Miriam nhắc nhở.
 
-“Nhưng người bố có mùi lạ thật mà!”
+“Nhưng người bố có mùi lạ *thật* mà!”
 
 “Thế cũng là bất lịch sự,” Miriam bảo, tiện tay đỡ lấy chiếc áo khoác của Jack rồi tranh thủ hít một hơi để xác thực.
 
@@ -38,7 +38,7 @@ Rory dang rộng hai tay ôm chặt lấy chân Jack. “Con rất vui vì bố 
 
 “Con cũng thế!” Lindsey sà vào ôm nốt chân còn lại.
 
-Miriam khoanh tay đứng nhìn viễn cảnh gia đình ấm áp ấy. Đáng lý ra cô nên ôm anh. Thế nhưng, sự xuất hiện đột ngột của anh lại chỉ đem đến cho cô một cảm giác bất an khó tả.
+Miriam khoanh tay đứng nhìn viễn cảnh gia đình ấm áp ấy. Đáng lý ra cô *nên* ôm anh. Thế nhưng, sự xuất hiện đột ngột của anh lại chỉ đem đến cho cô một cảm giác bất an khó tả.
 
 “Hôm nay anh về sớm thế,” cô lên tiếng. “Có chuyện gì vậy?”
 
@@ -110,7 +110,7 @@ Suốt mấy tháng trời Jack chẳng thèm mở miệng nhắc đến bất k
 
 “Đi mà mẹeeeeee?”
 
-Thời gian như ngừng trôi. Quai hàm Miriam bặm chặt, các cơ cổ căng cứng. Cuộc đời cô hiện lên hệt như một trận cuồng phong xoay quanh những từ con, muốn, những câu còn, mấy, miếng và vô số lời sao, con, không, được. Thế nhưng, ngay tại trung tâm mắt bão lặng gió ấy (nơi được miễn trừ hoàn toàn khỏi nhiệm vụ từ chối, răn đe hay đối phó với hai sinh linh bướng bỉnh do chính mình tạo ra, nhờ vào những giờ làm việc tăng ca triền miên) chính là Jack.
+Thời gian như ngừng trôi. Quai hàm Miriam bặm chặt, các cơ cổ căng cứng. Cuộc đời cô hiện lên hệt như một trận cuồng phong xoay quanh những từ *con*, *muốn*, những câu *còn*, *mấy*, *miếng* và vô số lời *sao*, *con*, *không*, *được*. Thế nhưng, ngay tại trung tâm mắt bão lặng gió ấy (nơi được miễn trừ hoàn toàn khỏi nhiệm vụ từ chối, răn đe hay đối phó với hai sinh linh bướng bỉnh do chính mình tạo ra, nhờ vào những giờ làm việc tăng ca triền miên) chính là Jack.
 
 “Mấy đứa, bình tĩnh nào,” Jack lên tiếng. “Ăn thêm bốn miếng nữa, rồi cả hai đứa đều sẽ được ăn tráng miệng.”
 
@@ -152,9 +152,8 @@ Nối tiếp sau cảm giác tội lỗi là một cơn sảng khoái do nicotin
 
 Chỉ trừ một điều: đầu óc cô chẳng chịu dịu đi chút nào. Nó cứ liên tục quay cuồng trôi về những ngòi nổ căng thẳng ban nãy trong buổi tối. Chú chó Roxster cư xử như phát dại. Bọn trẻ chí chóe tranh cãi về bữa tối và món tráng miệng. Jack cho chúng răm rắp mọi thứ chúng vòi vĩnh. Jack đi làm về sớm.
 
-Mọi chuyện thuận buồm xuôi gió cả, anh từng bảo thế. Jessica bảo chị ấy không cần anh phải làm muộn.
+*Mọi chuyện thuận buồm xuôi gió cả*, anh từng bảo thế. *Jessica bảo chị ấy không cần anh phải làm muộn.*
 
 Anh đã không nhìn thẳng vào mắt cô.
 
 Đã có một sự ngập ngừng giữa câu hỏi của cô và câu trả lời của anh (một khoảng khựng lại chỉ chừng một phần tích tắc, nhưng chừng ấy đã là quá dài).
-

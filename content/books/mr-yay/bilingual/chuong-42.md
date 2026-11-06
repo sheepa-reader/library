@@ -1,8 +1,8 @@
-# XUÂN PHÂN: CẦU NỐI - TOÁN HỌC
+# XUÂN PHÂN: CẦU NỐI
 
 <p class="para-en">IMAGINE ﻿YOU are an astrophysicist.</p>
 
-<p class="para-vi-sub">HÃY TƯỞNG TƯỢNG BẠN là một nhà vật lý thiên văn.</p>
+<p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một nhà vật lý thiên văn.</p>
 
 <p class="para-en">Imagine that your name is Robert Kai. That you are renowned. That there are three moons in orbit around a distant planet,﻿ each named after you. Kai-1. Kai-2. Kai-3. On these moons, there may be life.</p>
 
@@ -30,7 +30,7 @@
 
 <p class="para-en">But because it is your birthday, because you got that telescope, you were not inside it. You were outside, contemplating the odds that your telescope would reveal extraterrestrial spacecraft or eldritch horrors or vast planetary cities teeming with alien life. Your parents were outside, watching you, their marvel. Their creation.</p>
 
-<p class="para-vi-sub">Thế nhưng, chỉ vì hôm đó là sinh nhật bạn, và vì bạn vừa nhận được chiếc kính viễn vọng kia, nên bạn mới không có mặt ở trong nhà. Lúc ấy, bạn đang đứng ngoài sân, mải mê suy tính xác suất xem liệu chiếc kính của mình có thể phát hiện ra tàu vũ trụ ngoài hành tinh, những nỗi kinh hoàng cổ xưa ma quái, hay những siêu đô thị ngập tràn sự sống ở cõi thiên hà xa xôi nào đó hay không. Bố mẹ bạn cũng đang ở ngoài sân, mải mê dõi theo bạn - kỳ quan lớn nhất đời họ, kiệt tác tuyệt mỹ mà chính họ tạo ra.</p>
+<p class="para-vi-sub">Thế nhưng, chỉ vì hôm đó là sinh nhật bạn, và vì bạn vừa nhận được chiếc kính viễn vọng kia, nên *bạn* mới không có mặt ở trong nhà. Lúc ấy, bạn đang đứng ngoài sân, mải mê suy tính xác suất xem liệu chiếc kính của mình có thể phát hiện ra tàu vũ trụ ngoài hành tinh, những nỗi kinh hoàng cổ xưa ma quái, hay những siêu đô thị ngập tràn sự sống ở cõi thiên hà xa xôi nào đó hay không. Bố mẹ bạn cũng đang ở ngoài sân, mải mê dõi theo bạn - kỳ quan lớn nhất đời họ, kiệt tác tuyệt mỹ mà chính họ tạo ra.</p>
 
 <p class="para-en">If the meteor fell on any day other than your birthday, you and your mom and your dad would all be dead; instead you spend seven months living in a hotel while your house gets rebuilt. Your new house is better than your old one. The odds that a meteor will hit your house now are exactly the same as they were before the first meteor hit, even though it doesn’t feel that way. You feel safe.</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">What? What the hell?</p>
 
-<p class="para-vi-sub">Cái gì thế này? Quái quỷ gì vậy?</p>
+<p class="para-vi-sub">*Cái gì thế này? Quái quỷ gì vậy?*</p>
 
 <p class="para-en">Samwise barks again. The numbers howl.</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-en">No, no, no, this is impossible.…</p>
 
-<p class="para-vi-sub">Không, không thể nào, chuyện này là bất khả thi…</p>
+<p class="para-vi-sub">*Không, không thể nào, chuyện này là bất khả thi…*</p>
 
 <p class="para-en">You check and recheck, and the numbers return to their prior normal rate, but you are still bothered. For days you haunt the banks of supercomputers. You pace and mutter. You calculate and recalculate. You make frantic phone calls to the math-wraiths of other telescope arrays. Some of them noticed something odd, but no one else recorded this exact data. It must be an error, they say.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-en">But it wasn’t. You have the record. Math doesn’t lie.</p>
 
-<p class="para-vi-sub">Hẳn là có lỗi đo đạc gì đó rồi, họ tóm tắt ngắn gọn như thế.</p>
+<p class="para-vi-sub">*Hẳn là có lỗi đo đạc gì đó rồi*, họ tóm tắt ngắn gọn như thế.</p>
 
 <p class="para-en">Still, you check and recheck and recheck, and you try to reenvision the universe. The grand equation. You forget to eat. Your sleep is broken by phantom math. Your dog eventually insists: Time to go home. And there is nothing now to do but let it settle in your mind, and hope that big brain of yours can make sense of the nonsensical. Brains are great for that. They gather random data, stray numbers, strange events, and weave a story to explain, or to comfort.</p>
 
@@ -86,5 +86,5 @@
 
 <p class="para-en">There is nothing now for you to do but let go. To hang low like a hermit crab, like they used to say on that old kids’ TV show you loved so much. To listen to your dog, get into your car, and drive and drive.</p>
 
-<p class="para-vi-sub">Giờ thì bạn chẳng còn gì để làm ngoài việc buông bỏ. Để thu mình như một con ốc mượn hồn, giống như lời người ta từng dạy trong chương trình truyền hình thiếu nhi cũ rích mà bạn yêu thích đến thế. Để lắng nghe chú chó của mình, bước vào xe, rồi lái xe đi mãi, đi mãi.</p>
+<p class="para-vi-sub">Giờ thì bạn chẳng còn gì để làm ngoài việc buông bỏ. Để *thu mình như một con ốc mượn hồn*, giống như lời người ta từng dạy trong chương trình truyền hình thiếu nhi cũ rích mà bạn yêu thích đến thế. Để lắng nghe chú chó của mình, bước vào xe, rồi lái xe đi mãi, đi mãi.</p>
 

@@ -1,6 +1,8 @@
-# THÁNG SÁU - CHƠI GOLF TRÊN PHỐ
+# THÁNG SÁU
 
-NẾU TOM KHÔNG thò chân ra, nếu anh không cố dùng bàn chân quệt xuống mặt đường rồi mất thăng bằng, quặt gấp vào lối dẫn vào nhà xe, bay vút qua khoảng sân xi măng rồi đâm sầm xuống bãi cỏ nhà hàng xóm, thì hẳn anh đã cắm thẳng đầu vào rặng cây đằng kia. Cú va chạm đó sẽ khiến anh ngất lịm ngay lập tức (âu cũng là một diễm phúc), bởi anh sẽ chẳng kịp nghe thấy tiếng cổ mình gãy rắc hay cảm nhận cái chết đang cận kề.
+# CHƠI GOLF TRÊN PHỐ
+
+**NẾU TOM KHÔNG** thò chân ra, nếu anh không cố dùng bàn chân quệt xuống mặt đường rồi mất thăng bằng, quặt gấp vào lối dẫn vào nhà xe, bay vút qua khoảng sân xi măng rồi đâm sầm xuống bãi cỏ nhà hàng xóm, thì hẳn anh đã cắm thẳng đầu vào rặng cây đằng kia. Cú va chạm đó sẽ khiến anh ngất lịm ngay lập tức (âu cũng là một diễm phúc), bởi anh sẽ chẳng kịp nghe thấy tiếng cổ mình gãy rắc hay cảm nhận cái chết đang cận kề.
 
 Anh sẽ nằm yên dưới ba tấc đất, thay vì nằm trong bệnh viện với hai cánh tay bó bột, sống mũi gãy gập, cùng hàng tá bộ phận bầm dập nát tan khác - bao gồm cả chút tình nghĩa còn sót lại từ cô vợ.
 
@@ -36,15 +38,15 @@ Miriam liếc nhìn Kate. Kate nhún vai. Cả hai đều chẳng biết phải 
 
 “Cậu bực mình là phải thôi, nhưng… cậu cũng phải…”
 
-“Phải cái gì?”
+*“Phải cái gì?”*
 
-Holly gào lên. Cô vung tít cây gậy golf trong tay. “Tớ phải làm gì cơ chứ? Vì các cậu biết gì không? Tớ phát ốm với cái mớ sắp đặt ngớ ngẩn, bất công và vô lý đùng đùng này rồi! Nơi Tom cứ việc là chính Tom. Hoan hô Tom vĩ đại! Nào mọi người ơi, hãy tổ chức diễu hành để tung hô chồng tớ đi, ngài Tom Waters, người được sống thật với bản ngã của mình! Bởi vì đó mới là điều quan trọng nhất trần đời, đúng không? Đi tìm bản ngã đích thực, theo đuổi ước mơ của bạn, vân vân và mây mây. Tốt cho thằng cha Tom quá nhỉ! Tuyệt vời cho Tom làm sao! Bởi vì Tom có phải trả cái giá nào đâu. Ồ không, anh ấy cứ việc tận hưởng niềm vui và theo đuổi đam mê của mình, bởi vì đã có tớ ở đây dọn dẹp cái đống tàn cuộc mỗi khi mọi thứ vỡ vụn. Tom được đi nhảy dù vì đã có Holly ở nhà lo đưa đón con đi tập bóng đá. Tom cứ việc gãy tay gãy chân vì đã có Holly ở đây nấu nướng, dọn dẹp và hầu hạ anh ấy! Tom có tiền mua xe mô tô phân khối lớn vì Holly đã chắt bóp từng đồng bằng cách tự tay làm lấy mọi thứ. Như việc tự cắt tóc cho cả nhà chẳng hạn. Các cậu có biết ai cắt tóc cho tớ không? Chính tớ đấy! Tớ là thợ cắt tóc của cái nhà này!”
+Holly gào lên. Cô vung tít cây gậy golf trong tay. “Tớ *phải làm gì* cơ chứ? Vì các cậu biết gì không? Tớ phát ốm với cái mớ sắp đặt ngớ ngẩn, bất công và vô lý đùng đùng này rồi! Nơi Tom cứ việc là chính Tom. Hoan hô Tom vĩ đại! Nào mọi người ơi, hãy tổ chức diễu hành để tung hô chồng tớ đi, ngài Tom Waters, người được sống thật với bản ngã của mình! Bởi vì đó mới là điều quan trọng nhất trần đời, đúng không? Đi tìm bản ngã đích thực, theo đuổi ước mơ của bạn, vân vân và mây mây. Tốt cho thằng cha Tom quá nhỉ! Tuyệt vời cho Tom làm sao! Bởi vì Tom có phải trả cái giá nào đâu. Ồ không, anh ấy cứ việc tận hưởng niềm vui và theo đuổi đam mê của mình, bởi vì đã có tớ ở đây dọn dẹp cái đống tàn cuộc mỗi khi mọi thứ vỡ vụn. Tom được đi nhảy dù vì đã có Holly ở nhà lo đưa đón con đi tập bóng đá. Tom cứ việc gãy tay gãy chân vì đã có Holly ở đây nấu nướng, dọn dẹp và hầu hạ anh ấy! Tom có tiền mua xe mô tô phân khối lớn vì Holly đã chắt bóp từng đồng bằng cách tự tay làm lấy mọi thứ. Như việc tự cắt tóc cho cả nhà chẳng hạn. Các cậu có biết ai cắt tóc cho tớ không? Chính tớ đấy! Tớ là thợ cắt tóc của cái nhà này!”
 
 Holly vốn đang đội tóc giả, nhưng cô giật phắt nó ra rồi quẳng xuống lòng đường. Mái tóc thật bên dưới đã mọc thành kiểu tém pixie, nhuộm màu vàng bạch kim.
 
 “Tôi vừa là thợ cắt tóc, vừa là lao công dọn dẹp. Tôi là người làm vườn, đầu bếp, người lên kế hoạch, tài xế lái xe, bên cạnh công việc chết tiệt ban ngày của tôi. Thế rồi giờ đây tôi được vinh dự làm kẻ chùi đít chính thức, bên lau người bằng bọt biển, con khốn phải cắt từng miếng lasagna nhỏ xíu rồi lượn máy bay vù vù đút vào miệng chồng, chỉ vì anh ta sống chết muốn được sống thật với bản ngã của mình.
 
-Mẹ kiếp!”
+*Mẹ kiếp!*”
 
 Một giọt nước mắt ứa ra nơi khóe mắt Holly, và có vẻ như chính sự yếu đuối ấy càng làm cô sôi máu. Cô túm lấy hai tay cầm chiếc xe rùa, giật phắt sang một bên, hất tung toàn bộ đống bóng golf tích trữ xuống bãi cỏ.
 
@@ -62,15 +64,15 @@ Holly gầm lên một tiếng. “Còn cả hai cậu nữa!” Cô vung gậy.
 
 “Thì… nó có phô mai hạt lên men với cải xoăn tự trồng…”
 
-“Mà là do cậu trồng.”
+“Mà là do *cậu* trồng.”
 
 “Nhưng Fred thì… ý tớ là, anh ấy vẫn đưa đón bọn trẻ đi học, rồi còn cho dê ăn, và…”
 
-“Và anh ấy thật hoàn hảo, đúng không? Nhưng ai trong hai người được thong thả tập yoga suốt ngày, còn ai phải nai lưng gánh công việc văn phòng mà cậu căm ghét tột cùng? Hả, Kate? Còn cậu nữa…” Holly chĩa gậy sang Miriam. “Cậu phải đi làm để thanh toán đủ loại hóa đơn, trong khi Jack nghiễm nhiên bỏ việc để chạy theo giấc mơ làm thám tử tư!”
+“Và anh ấy thật hoàn hảo, đúng không? Nhưng ai trong hai người được thong thả tập yoga suốt ngày, còn ai phải nai lưng gánh công việc văn phòng mà *cậu căm ghét tột cùng*? Hả, Kate? Còn cậu nữa…” Holly chĩa gậy sang Miriam. “Cậu phải đi làm để thanh toán đủ loại hóa đơn, trong khi Jack nghiễm nhiên bỏ việc để chạy theo giấc mơ làm thám tử tư!”
 
 “Dù gì thì anh ấy cũng đã làm việc cật lực suốt một thời gian dài rồi mà…” Miriam lên tiếng, bất giác đứng ra bênh vực chồng và thói nghiện công việc của anh.
 
-“Bởi vì đó là điều anh ta muốn! Nhưng còn điều cậu muốn thì sao? Cậu muốn cái gì hả, Miriam? Còn Kate? Rốt cuộc các cậu muốn cái quái gì hả?”
+“Bởi vì đó là điều *anh ta* muốn! Nhưng còn điều *cậu* muốn thì sao? Cậu muốn cái gì hả, Miriam? Còn Kate? Rốt cuộc các cậu muốn cái quái gì hả?”
 
 Holly trừng trừng nhìn hai người bạn, và họ cũng trừng mắt nhìn lại cô, rồi quay sang nhìn nhau. Cả hai đều sững sờ trước sự thật vừa bị phơi bày - một sự thật mà bấy lâu nay họ thừa biết nhưng chưa từng dám đối diện một cách rõ ràng. Đơn giản vì họ làm gì có thời gian. Giữa những buổi tập bóng đá, những chuyến xe đưa đón con cái, bài tập về nhà, lịch khám bác sĩ, lịch hẹn thú y, nha sĩ, mua sắm quà cáp mỗi dịp lễ tết, những đôi giày tự nhiên chật ních chỉ sau một đêm, rồi những con thú nhồi bông yêu thích bị rách tai cần “Bác sĩ Mẹ” phẫu thuật khẩn cấp (vì các ông bố thì đời nào chịu học khâu vá); giữa vô vàn chén bát, giặt giũ, nấu nướng, lên kế hoạch, và cả những ông chồng. Những người đàn ông tốt bụng, đáng tin cậy chỉ cần cảm thấy mình được ủng hộ, được thử thách, được coi là quan trọng, nhưng trên hết lại luôn mặc định bản thân có quyền được ưu tiên thỏa mãn mọi nhu cầu cá nhân. Chẳng còn lấy một giây để các bà vợ tự hỏi xem bản thân thực sự muốn gì. Tất cả những gì họ có thể làm là kìm nén và bộc phát phản kháng: bằng vài ly rượu, bằng vài điếu thuốc lá lén lút, bằng cơn cuồng tự ủ trà kombucha, hay bằng một chiếc máy ủi san phẳng sân trước. Và bằng một cây gậy đánh golf.
 
@@ -129,4 +131,3 @@ Miriam nhún vai:
 “Cần bao lâu thì bấy lâu.”
 
 Rồi cô đặt một nụ hôn lên má Jack, quay lưng bước lại để nhặt nhạnh những mảnh vụn vỡ từ người bạn thân đang tan nát của mình.
-

@@ -2,15 +2,15 @@
 
 <p class="para-en">IT WAS A CONSPIRACY, according to the blogs and the Reddit threads.</p>
 
-<p class="para-vi-sub">ĐÓ LÀ MỘT ÂM MƯU, ít nhất là theo các trang blog và hàng tá luồng thảo luận sôi nổi trên Reddit.</p>
+<p class="para-vi-sub">**ĐÓ LÀ MỘT ÂM MƯU**, ít nhất là theo các trang blog và hàng tá luồng thảo luận sôi nổi trên Reddit.</p>
 
 <p class="para-en">It was Kate smoked too much weed in college, according to Fred, who had smoked at least as much. But he could still remember.</p>
 
-<p class="para-vi-sub">Đó là do Kate đã hút quá nhiều cần sa hồi đại học, theo lời phán của Fred, người vốn cũng nướng chất xám vào cần sa chẳng kém gì cô bạn. Có điều, anh thì vẫn còn nhớ.</p>
+<p class="para-vi-sub">Đó là do *Kate đã hút quá nhiều cần sa hồi đại học*, theo lời phán của Fred, người vốn cũng nướng chất xám vào cần sa chẳng kém gì cô bạn. Có điều, anh thì vẫn còn nhớ.</p>
 
 <p class="para-en">It was just my clueless husband, according to Jack’s mom, who Miriam called from the car, on her way to the Psychic—Mystic—Fortune-Telling shop.</p>
 
-<p class="para-vi-sub">Đó là do ông chồng hoàn toàn tịt thông tin của mẹ, theo lời mẹ Jack. Miriam đã gọi điện cho bà trong lúc tấp xe bên đường, ngay trước cửa tiệm Bói toán, Thần bí và Dự đoán tương lai.</p>
+<p class="para-vi-sub">Đó là do *ông chồng hoàn toàn tịt thông tin của mẹ*, theo lời mẹ Jack. Miriam đã gọi điện cho bà trong lúc tấp xe bên đường, ngay trước cửa tiệm *Bói toán, Thần bí và Dự đoán tương lai*.</p>
 
 <p class="para-en">“Oh, Miriam! What are you up to?”</p>
 
@@ -26,7 +26,7 @@
 
 <p class="para-en">Ding-ding-ding-ding-ding!</p>
 
-<p class="para-vi-sub">Keng, keng, keng, keng, keng!</p>
+<p class="para-vi-sub">*Keng, keng, keng, keng, keng!*</p>
 
 <p class="para-en">“Can I ask you something else?”</p>
 
@@ -38,7 +38,7 @@
 
 <p class="para-en">“Do you remember a TV show called The Adventures of Mr. Yay?”</p>
 
-<p class="para-vi-sub">“Mẹ có nhớ một chương trình truyền hình tên là The Adventures of Mr. Yay không ạ?”</p>
+<p class="para-vi-sub">“Mẹ có nhớ một chương trình truyền hình tên là *The Adventures of Mr. Yay* không ạ?”</p>
 
 <p class="para-en">“Of course. Jack used to watch that show all the time—”</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">And maybe he was. Because, as axiomatic as death and taxes, it was undeniable just how much we didn’t know. Human knowledge, all of it, at best, was the iceberg tip of an unfathomable fount of knowledge. For every fact humans found were ten more facts we hadn’t, and a hundred more we’d never know, which made detective work not so dissimilar from fortune-telling. There was science, and then there was the science we hadn’t figured out yet, the science that got labeled mystic or magic or faith. But magic also offered refuge, and a sparkly narrative for understanding discordant events that science couldn’t piece together. Which maybe explained why Miriam was headed back, again, that afternoon, to the Psychic—Mystic—Fortune-Telling shop.</p>
 
-<p class="para-vi-sub">Mà biết đâu ông ấy ở trên trời rơi xuống thật. Bởi vì, hiển nhiên như cái chết và thuế thu nhập, có một thực tế không thể chối cãi: con người chúng ta cơ bản là chẳng biết cái quái gì. Toàn bộ kho tàng tri thức nhân loại gộp lại cùng lắm cũng chỉ là cái lớp bọt nổi lềnh bềnh trên bề mặt một đại dương tri thức thăm thẳm. Cứ mỗi sự thật được khám phá, lại có thêm mười điều bí ẩn nảy sinh, và hàng trăm thứ khác chúng ta sẽ vĩnh viễn chẳng thể nào chạm tới. Thành thử, công việc thám tử xét cho cùng cũng chẳng khác mấy so với trò bói toán. Có những thứ gọi là khoa học, và rồi lại có thứ khoa học mà chúng ta chưa đủ trình độ giải mã - loại khoa học vẫn thường bị người đời dán nhãn là huyền bí, phép thuật hay niềm tin tâm linh. Nhưng suy cho cùng, phép thuật lại mang đến một mái che trú ẩn êm đềm, một câu chuyện lấp lánh giúp con người duy trì sự tỉnh táo trước những sự thật oái oăm mà khoa học bó tay không thể xâu chuỗi. Có lẽ đó chính là lý do vì sao chiều hôm đó, Miriam lại thấy chân mình tự động bước trở lại cửa tiệm Bói toán, Thần bí và Dự đoán tương lai.</p>
+<p class="para-vi-sub">Mà biết đâu ông ấy ở trên trời rơi xuống thật. Bởi vì, hiển nhiên như cái chết và thuế thu nhập, có một thực tế không thể chối cãi: con người chúng ta cơ bản là chẳng biết cái quái gì. Toàn bộ kho tàng tri thức nhân loại gộp lại cùng lắm cũng chỉ là cái lớp bọt nổi lềnh bềnh trên bề mặt một đại dương tri thức thăm thẳm. Cứ mỗi sự thật được khám phá, lại có thêm mười điều bí ẩn nảy sinh, và hàng trăm thứ khác chúng ta sẽ vĩnh viễn chẳng thể nào chạm tới. Thành thử, công việc thám tử xét cho cùng cũng chẳng khác mấy so với trò bói toán. Có những thứ gọi là khoa học, và rồi lại có thứ khoa học mà chúng ta chưa đủ trình độ giải mã - loại khoa học vẫn thường bị người đời dán nhãn là huyền bí, phép thuật hay niềm tin tâm linh. Nhưng suy cho cùng, phép thuật lại mang đến một mái che trú ẩn êm đềm, một câu chuyện lấp lánh giúp con người duy trì sự tỉnh táo trước những sự thật oái oăm mà khoa học bó tay không thể xâu chuỗi. Có lẽ đó chính là lý do vì sao chiều hôm đó, Miriam lại thấy chân mình tự động bước trở lại cửa tiệm *Bói toán, Thần bí và Dự đoán tương lai*.</p>
 
 <p class="para-en">The door was locked but she could hear music from inside, sloshing ocean waves overlaid with synthesizers. She knocked. She peered through the open window. The place looked cleaner than when she had last seen it, no more trash, everything dusted and tidy.</p>
 
@@ -166,7 +166,7 @@
 
 <p class="para-en">Miriam listened. She heard the flap of tires on asphalt, the warble of a distant siren, the metal rods of a wind chime. The cream soda in Rosy’s can fizzled. She blew a bubble. It popped. Then there was a sudden thump, as a sparrow crashed into the window.</p>
 
-<p class="para-vi-sub">Miriam tập trung lắng nghe. Cô nghe thấy tiếng lốp xe rít trên mặt đường nhựa, tiếng còi xe cứu thương vọng lại từ xa, cùng tiếng chuông gió kim loại va vào nhau lách cách. Lon soda kem của Rosy xè xè sủi bọt. Cô ta thổi một bong bóng kẹo cao su. Nổ bốp. Rồi một tiếng bịch khô khốc đột ngột vang lên: một con chim sẻ vừa lao sầm vào cửa kính.</p>
+<p class="para-vi-sub">Miriam tập trung lắng nghe. Cô nghe thấy tiếng lốp xe rít trên mặt đường nhựa, tiếng còi xe cứu thương vọng lại từ xa, cùng tiếng chuông gió kim loại va vào nhau lách cách. Lon soda kem của Rosy xè xè sủi bọt. Cô ta thổi một bong bóng kẹo cao su. Nổ *bốp*. Rồi một tiếng *bịch* khô khốc đột ngột vang lên: một con chim sẻ vừa lao sầm vào cửa kính.</p>
 
 <p class="para-en">“Did you—”</p>
 
@@ -218,7 +218,7 @@
 
 <p class="para-en">“Did you ever watch a TV show, The Adventures of Mr. Yay?”</p>
 
-<p class="para-vi-sub">“Cô đã bao giờ xem chương trình truyền hình The Adventures of Mr. Yay chưa?”</p>
+<p class="para-vi-sub">“Cô đã bao giờ xem chương trình truyền hình *The Adventures of Mr. Yay* chưa?”</p>
 
 <p class="para-en">The psychic didn’t answer. Her eyes flashed. She looked up at the sky, blue and radiant, not a cloud in sight. “You better go,” she said. “You hear that? That sound in the distance? That’s thunder. A storm is coming.”</p>
 
@@ -234,11 +234,11 @@
 
 <p class="para-en">She texted Jack: I’m making your favorite, meat loaf! Need anything else?</p>
 
-<p class="para-vi-sub">Cô nhắn tin cho Jack: Em đang làm món chả thịt nướng meatloaf khoái khẩu của anh đây! Anh có cần mua thêm gì không?</p>
+<p class="para-vi-sub">Cô nhắn tin cho Jack: *Em đang làm món chả thịt nướng meatloaf khoái khẩu của anh đây! Anh có cần mua thêm gì không?*</p>
 
 <p class="para-en">She filled her cart with useful, healthy things, plus a six-pack of Campette candy bars and a copy of Hollywood Dreams, a celebrity pulp magazine that she knew she shouldn’t waste money on, especially when the check﻿out clerk gave her an exaggerated wink and said, “A fellow collector of the magazines.”</p>
 
-<p class="para-vi-sub">Cô chất đầy xe hàng bằng các thực phẩm bổ dưỡng, tốt cho sức khỏe, cộng thêm một lốc sáu thỏi kẹo Campette cùng cuốn Hollywood Dreams - tờ tạp chí lá cải chuyên đưa tin về người nổi tiếng mà cô biết thừa mình không nên lãng phí tiền vào. Nhất là khi cô nhân viên thu ngân nháy mắt đầy ẩn ý với cô rồi bảo: “Lại thêm một tín đồ sưu tầm tạp chí này nữa rồi.”</p>
+<p class="para-vi-sub">Cô chất đầy xe hàng bằng các thực phẩm bổ dưỡng, tốt cho sức khỏe, cộng thêm một lốc sáu thỏi kẹo Campette cùng cuốn *Hollywood Dreams* - tờ tạp chí lá cải chuyên đưa tin về người nổi tiếng mà cô biết thừa mình không nên lãng phí tiền vào. Nhất là khi cô nhân viên thu ngân nháy mắt đầy ẩn ý với cô rồi bảo: “Lại thêm một tín đồ sưu tầm tạp chí này nữa rồi.”</p>
 
 <p class="para-en">“Um—”</p>
 
@@ -278,7 +278,7 @@
 
 <p class="para-en">When she climbed into the driver’s seat, she was soaked. Rain gushed from the sky. She drove slowly, through ponds and eddies. She turned out of the parking lot. There was a KA-BOOM, and the flash of lightning striking a nearby tree. She could hardly see the road. She hit a puddle. Oily water sprayed out from under her tires. Then she saw the woman. She slammed on the brakes.</p>
 
-<p class="para-vi-sub">Miriam chui vào ghế lái trong tình trạng ướt sũng từ đầu đến chân. Cơn mưa xối xả ngoài kia thì vẫn hào phóng trút xuống không tiếc một giọt. Cô cẩn trọng cho xe nhích từng chút một, lội qua những vũng nước đục ngầu đang xoáy tít rồi mới rẽ ra khỏi bãi đỗ. Một tiếng ĐÙNG xé trời vang lên, đi kèm tia sét đánh trúng cái cây ngay gần đó. Tầm nhìn lập tức mờ tịt. Bánh xe sụp xuống một vũng nước sâu, hất tung làn nước đục váng dầu lên tận kính chắn gió. Ngay khoảnh khắc ấy, Miriam thốt nhiên nhìn thấy một bóng người đứng giữa mưa. Cô nhấn mạnh chân phanh.</p>
+<p class="para-vi-sub">Miriam chui vào ghế lái trong tình trạng ướt sũng từ đầu đến chân. Cơn mưa xối xả ngoài kia thì vẫn hào phóng trút xuống không tiếc một giọt. Cô cẩn trọng cho xe nhích từng chút một, lội qua những vũng nước đục ngầu đang xoáy tít rồi mới rẽ ra khỏi bãi đỗ. Một tiếng *ĐÙNG* xé trời vang lên, đi kèm tia sét đánh trúng cái cây ngay gần đó. Tầm nhìn lập tức mờ tịt. Bánh xe sụp xuống một vũng nước sâu, hất tung làn nước đục váng dầu lên tận kính chắn gió. Ngay khoảnh khắc ấy, Miriam thốt nhiên nhìn thấy một bóng người đứng giữa mưa. Cô nhấn mạnh chân phanh.</p>
 
 <p class="para-en">“Oh my god! Fuck!”</p>
 
@@ -298,7 +298,7 @@
 
 <p class="para-en">The woman ran over to the driver’s side. She stuck her head through the open window, dripping water all over Miriam’s lap. Her hair looked like a wet rat. But her face was familiar. Miriam had seen her at the grocery before, patrolling the entrance with her CONSPIRACY! sign.</p>
 
-<p class="para-vi-sub">Người phụ nữ chạy xộc ngay về phía bên ghế lái. Bà thò đầu qua ô cửa kính đang hạ xuống, khiến nước mưa trên người nhỏ tong tỏng xuống đùi Miriam. Mái tóc bà bết xẹp trông chẳng khác nào một con chuột lột, nhưng gương mặt này thì không lẫn đi đâu được. Miriam từng chạm mặt bà vài lần ở siêu thị, khi bà đang kiên trì đi qua đi lại trước cổng với tấm biển ÂM MƯU! trên tay.</p>
+<p class="para-vi-sub">Người phụ nữ chạy xộc ngay về phía bên ghế lái. Bà thò đầu qua ô cửa kính đang hạ xuống, khiến nước mưa trên người nhỏ tong tỏng xuống đùi Miriam. Mái tóc bà bết xẹp trông chẳng khác nào một con chuột lột, nhưng gương mặt này thì không lẫn đi đâu được. Miriam từng chạm mặt bà vài lần ở siêu thị, khi bà đang kiên trì đi qua đi lại trước cổng với tấm biển **ÂM MƯU!** trên tay.</p>
 
 <p class="para-en">“Do you, um, need a ride? You shouldn’t be out there in the storm.”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-en">“Sure. Thanks,” the woman said, in a perfectly ordinary, non-crazy voice. She walked around to the passenger door and climbed in. She bucked her seat belt and spread her soggy CONSPIRACY! sign across her lap.</p>
 
-<p class="para-vi-sub">“Được thế thì tốt quá. Cảm ơn cô nhé,” người phụ nữ cất tiếng bằng một giọng điệu hoàn toàn tỉnh táo, chẳng có lấy một nét dị thường. Bà thong thả vòng sang cửa bên phụ rồi trèo vào xe. Sau khi cẩn thận cài dây an toàn, bà trải tấm biển ÂM MƯU! ướt sũng lên đùi mình.</p>
+<p class="para-vi-sub">“Được thế thì tốt quá. Cảm ơn cô nhé,” người phụ nữ cất tiếng bằng một giọng điệu hoàn toàn tỉnh táo, chẳng có lấy một nét dị thường. Bà thong thả vòng sang cửa bên phụ rồi trèo vào xe. Sau khi cẩn thận cài dây an toàn, bà trải tấm biển **ÂM MƯU!** ướt sũng lên đùi mình.</p>
 
 <p class="para-en">“What were you doing out there in the rain?” Miriam asked</p>
 
@@ -334,7 +334,7 @@
 
 <p class="para-en">“I’m Coral Cove. And I know what you’re thinking. Crazy Coral Cove. But look, my parents were insufferable hippies. And I’m not crazy. But go ahead, ask me about the sign.”</p>
 
-<p class="para-vi-sub">“Tôi là Coral Cove. Và tôi biết thừa cô đang nghĩ gì trong đầu đấy. Coral Cove Điên Rồ. Nhưng nghe này, bố mẹ tôi vốn là dân hippie lập dị hết chỗ nói. Còn tôi thì chẳng điên chút nào. Cứ tự nhiên hỏi tôi về tấm biển này đi.”</p>
+<p class="para-vi-sub">“Tôi là Coral Cove. Và tôi biết thừa cô đang nghĩ gì trong đầu đấy. *Coral Cove Điên Rồ.* Nhưng nghe này, bố mẹ tôi vốn là dân hippie lập dị hết chỗ nói. Còn tôi thì chẳng điên chút nào. Cứ tự nhiên hỏi tôi về tấm biển này đi.”</p>
 
 <p class="para-en">“What’s up with the sign?”</p>
 
@@ -378,17 +378,13 @@
 
 <p class="para-en">“Do you remember Mr. Yay?﻿”</p>
 
-<p class="para-vi-sub">“Vậy bà có nhớ chương trình Mr. Yay không?”</p>
+<p class="para-vi-sub">“Vậy bà có nhớ chương trình *Mr. Yay* không?” “Cái gì cơ? Cái chương trình truyền hình cổ lỗ sĩ đó á?”</p>
 
 <p class="para-en">“What, that old TV show?”</p>
 
-<p class="para-vi-sub">“Cái gì cơ? Cái chương trình truyền hình cổ lỗ sĩ đó á?”</p>
-
-<p class="para-en">“Yeah.”</p>
-
 <p class="para-vi-sub">“Vâng, đúng nó đấy.”</p>
 
-<p class="para-en">“Of course I remember,” Coral Cove said. “How could anyone forget a show like that?”</p>
+<p class="para-en">“Yeah.” “Of course I remember,” Coral Cove said. “How could anyone forget a show like that?”</p>
 
 <p class="para-vi-sub">“Đương nhiên là tôi nhớ chứ,” Coral Cove phớt tỉnh đáp. “Làm sao người ta có thể quên một chương trình như thế được?”</p>
 

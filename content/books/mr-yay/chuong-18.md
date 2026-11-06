@@ -1,6 +1,6 @@
 # HỘI BẠN TIỆC TÙNG CỦA MIRIAM
 
-MIRIAM BƯỚC RA bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.
+**MIRIAM BƯỚC RA** bầu không khí se lạnh của buổi chiều muộn. Jack cùng lũ trẻ đã đứng sẵn bên ngoài. Tụi nhỏ đang cặm cụi lùng sục trên thảm cỏ ngủ đông để nhặt những que củi khô rơi vãi. Chúng chạy ào qua sân, phóng tới chỗ con đường Ravenswood Drive đâm thẳng vào bìa rừng cụt ngõ, rồi đồng loạt vung tay ném những que củi vừa lượm được.
 
 “Ăn đòn này!” Rory hét lớn về phía những hàng cây.
 
@@ -120,7 +120,7 @@ Vẫn hoàn toàn im lặng. Cô lại lay mạnh nắm đấm cửa.
 
 “Con khủng long ấy! Của anh Chad, nhưng anh ấy cho con mượn chơi cùng. Thế mà giờ nó biến mất tiêu rồi!”
 
-Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề Escape Intensityville, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.
+Miriam bước vào phòng. Không khí bên trong ngột ngạt và vương mùi ẩm mốc cũ kỹ. Một lớp bụi mỏng phủ mờ trên mặt bàn trang điểm và thành đầu giường. Trên chiếc bàn cạnh giường có một cuốn sách mang tựa đề *Escape Intensityville*, cũng bám đầy bụi bặm chẳng kém. Chiếc giường ngủ chưa hề được dọn dẹp, chăn màn bị vo tròn thành một nùi nhét nham nhở ở góc đệm. Tuyệt nhiên chẳng có bóng dáng của bất kỳ con khủng long nào.
 
 “Mẹ có thấy con khủng long nào đâu.”
 
@@ -144,7 +144,7 @@ Miriam ngoảnh đầu nhìn lại. Rory đã nắm gọn một con khủng long
 
 “Ừ, tớ hiểu cảm giác đó mà.”
 
-“Trừ việc cậu thực sự đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”
+“Trừ việc cậu *thực sự* đang cáng đáng được mọi thứ,” Holly bảo. “Còn tớ thì hoàn toàn ngược lại. Tuần trước, Chad sang nhà bạn chơi, và tớ quên khuấy mất việc phải đến đón nó. Đầu óc tớ cứ như thể bị xóa sạch bách, y như chuyện thằng bé tồn tại trên đời chưa từng xảy ra vậy. Mãi cho đến khi phụ huynh bên kia nhắn tin kiểu: ‘Ừm, đáng lẽ cậu phải có mặt ở đây từ một tiếng trước rồi chứ.’ Chúa ơi, ngượng chín cả mặt. Nhưng mà… hứa là cậu không hé răng nửa lời với Kate đấy nhé.”
 
 “Tớ sẽ không kể đâu. Dù tớ chẳng nghĩ Kate lại đi phán xét chuyện đó.”
 
@@ -208,7 +208,7 @@ Một phút sau, Jack ngượng ngùng lách mình bước vào phòng khách, n
 
 “Cả tuần vừa rồi đêm nào anh cũng cắm mặt làm việc tăng ca. Cả dịp cuối tuần trước cũng thế.”
 
-“Anh biết chứ, nhưng chuyện này thực sự rất quan trọng, Miriam à. Jessica là luật sư cấp cao, và…”
+“Anh biết chứ, nhưng chuyện này *thực sự rất quan trọng*, Miriam à. Jessica là luật sư cấp cao, và…”
 
 Miriam đứng bật dậy. Cô dốc cạn phần cocktail còn lại trong ly vào họng. Lạy Chúa, ngay lúc này cô thèm một điếu thuốc lá đến phát điên, chỉ để có thể dí đốm tàn thuốc đỏ rực ấy dập tắt ngay trên những ngón tay gõ phím cặm cụi của chồng mình.
 
@@ -229,4 +229,3 @@ Sắc mặt Jack bỗng chốc xám ngoét, không còn lấy một giọt máu.
 Holly lặng lẽ chìa ly cocktail còn vơi một nửa của mình sang. Miriam đón lấy không chút do dự, rồi nốc cạn sạch chỉ trong một ngụm duy nhất.
 
 “Anh vốn dĩ là kẻ thông minh cơ mà, Jack,” cô lạnh lùng buông một câu. “Tự đi mà tìm câu trả lời.”
-

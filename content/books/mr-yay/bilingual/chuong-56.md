@@ -2,7 +2,7 @@
 
 <p class="para-en">THEY FOUND, after hours in the hammock and more hours at the kitchen table, all the photographs and relics of their lives spread out around them, that they remembered the exact same things, except for meat loaf and Mr. Yay, which led Jack to deduce that Mr. Yay—a farther-reaching phenomenon than meat loaf—was at the center of all of this, whatever all of this was. He was the linchpin.</p>
 
-<p class="para-vi-sub">HỌ NHẬN RA, sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.</p>
+<p class="para-vi-sub">**HỌ NHẬN RA,** sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.</p>
 
 <p class="para-en">He kept Jack up all night. And the next night. And the third night, with bass. It shook the windows and rattled the floorboards.</p>
 
@@ -114,11 +114,11 @@
 
 <p class="para-en">“Does he exist? Ricardo Merman?”</p>
 
-<p class="para-vi-sub">“Thế ông ấy có thật sự tồn tại không? Ricardo Merman ấy?”</p>
+<p class="para-vi-sub">“Thế *ông ấy* có thật sự tồn tại không? Ricardo Merman ấy?”</p>
 
 <p class="para-en">“He did. All his old films are still around—The Treacherous Ten, Shotgun Solstice, Connie at the Crossroads. And Peregrine, of course. But whether he’s still around, I don’t know. I haven’t found him. He has no internet presence. He—”</p>
 
-<p class="para-vi-sub">“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: The Treacherous Ten, Shotgun Solstice, Connie at Crossroads, và dĩ nhiên là cả Peregrine nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”</p>
+<p class="para-vi-sub">“Từng tồn tại chứ. Toàn bộ các bộ phim cũ của ông ấy vẫn còn sờ sờ ra đó: *The Treacherous Ten, Shotgun Solstice, Connie at Crossroads*, và dĩ nhiên là cả *Peregrine* nữa. Nhưng liệu ông ấy còn sống hay không thì anh chịu. Anh vẫn chưa tìm ra tung tích. Ông ấy chẳng để lại chút dấu vết nào trên mạng Internet cả. Ông ấy…”</p>
 
 <p class="para-en">Rory interrupted with an excited “Dad! Dad!”</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-en">“Right. And I asked her if she remembered The Adventures of Mr. Yay, and she was like, ‘Yeah, that was such a great show.’ And she agreed to see if she could get me copies of the recordings. But guess what?”</p>
 
-<p class="para-vi-sub">“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình The Adventures of Mr. Yay không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”</p>
+<p class="para-vi-sub">“Đúng thế. Và khi anh hỏi xem cô ấy có nhớ chương trình *The Adventures of Mr. Yay* không, cô ấy liền bảo: ‘Có chứ, đó là một chương trình tuyệt vời lắm.’ Cô ấy còn đồng ý kiểm tra xem có thể lấy cho anh bản sao các cuốn băng ghi hình hay không. Nhưng đoán xem chuyện gì xảy ra?”</p>
 
 <p class="para-en">“She couldn’t find them?”</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-en">“Nope. The network has no record of having ever produced The Adventures of Mr. Yay.”</p>
 
-<p class="para-vi-sub">“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất The Adventures of Mr. Yay.”</p>
+<p class="para-vi-sub">“Không một mẩu. Nhà đài hoàn toàn không có bất kỳ hồ sơ nào ghi nhận việc họ từng sản xuất *The Adventures of Mr. Yay*.”</p>
 
 <p class="para-en">The scootering kids led them to the park, and then to the coffee shop, then back down Ravenswood Drive, where Kate and Fred had joined their children in the mud. But at least they weren’t naked. Fred was shirtless, but he wore loose hemp pants. Kate wore a muddy bikini and a crystal around her neck. A wreath of flowers sat atop her unwashed hair. They both looked leaner and bronzer than Miriam remembered.</p>
 
@@ -274,7 +274,7 @@
 
 <p class="para-en">Wasn’t that, Miriam thought, what the woods were for?</p>
 
-<p class="para-vi-sub">Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao, Miriam thầm nghĩ.</p>
+<p class="para-vi-sub">*Chẳng phải đó vốn dĩ là chức năng tự nhiên của rừng rậm hay sao*, Miriam thầm nghĩ.</p>
 
 <p class="para-en">But she just nodded and said, “That’s great!”</p>
 
@@ -286,11 +286,11 @@
 
 <p class="para-en">Jack looked at Miriam. His look said: You see? Look at them now? You remember how they were? She remembered Fred as identical to Tom. The same striped shirt, the same ironed jeans, the same short haircut. She remembered Kate with a push-up bra, dyed hair, nails lacquered pink.</p>
 
-<p class="para-vi-sub">Jack nhìn Miriam. Ánh mắt anh như muốn nói: Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không? Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.</p>
+<p class="para-vi-sub">Jack nhìn Miriam. Ánh mắt anh như muốn nói: *Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?* Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.</p>
 
 <p class="para-en">“Hey, I’ve got a question for you,” Jack said to his neighbors. “Do you remember a television show called The Adventures of Mr. Yay?”</p>
 
-<p class="para-vi-sub">“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên The Adventures of Mr. Yay không?”</p>
+<p class="para-vi-sub">“Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên *The Adventures of Mr. Yay* không?”</p>
 
 <p class="para-en">“Oh, yeah,” Fred said. “I watched that all the time. Why?”</p>
 

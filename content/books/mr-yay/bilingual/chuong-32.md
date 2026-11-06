@@ -2,7 +2,7 @@
 
 <p class="para-en">THE NEXT MORNING, Miriam woke early in an empty bed. Jack had left another note: Had to work early again. I’ll be home for dinner. Love, Jack. She folded the note and tucked it into her purse. She woke the children, dressed them, fed them, and delivered them to school. She met with a patient by video call. Then her second appointment canceled, so instead she met Holly and Kate for their morning coffee break.</p>
 
-<p class="para-vi-sub">SÁNG HÔM SAU, Miriam thức dậy từ sớm trên chiếc giường trống trải. Jack lại để lại một mẩu giấy nhắn: Lại phải đi làm sớm rồi. Tối nay anh về ăn cơm nhé. Yêu em, Jack. Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi thủ tục quen thuộc: đánh thức lũ trẻ, thay quần áo, cho chúng ăn sáng rồi đưa đến trường. Cô hoàn thành một ca trị liệu trực tuyến qua video với thân chủ. Ca hẹn thứ hai sau đó bị hủy, thế là cô tranh thủ đi cà phê sáng với Holly và Kate.</p>
+<p class="para-vi-sub">**SÁNG HÔM SAU,** Miriam thức dậy từ sớm trên chiếc giường trống trải. Jack lại để lại một mẩu giấy nhắn: *Lại phải đi làm sớm rồi. Tối nay anh về ăn cơm nhé. Yêu em, Jack.* Cô gấp mẩu giấy lại rồi nhét vào túi xách. Kế đó là chuỗi thủ tục quen thuộc: đánh thức lũ trẻ, thay quần áo, cho chúng ăn sáng rồi đưa đến trường. Cô hoàn thành một ca trị liệu trực tuyến qua video với thân chủ. Ca hẹn thứ hai sau đó bị hủy, thế là cô tranh thủ đi cà phê sáng với Holly và Kate.</p>
 
 <p class="para-en">“The flowers are totally suspicious,” Kate said, after Miriam described the delivery. “He’s trying to cover something up.”</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">“What do you mean all products? What about shampoo?”</p>
 
-<p class="para-vi-sub">“Ý cậu là sao cơ, toàn bộ mỹ phẩm ấy hả? Thế còn dầu gội thì sao?”</p>
+<p class="para-vi-sub">“Ý cậu là sao cơ, *toàn bộ* mỹ phẩm ấy hả? Thế còn dầu gội thì sao?”</p>
 
 <p class="para-en">“Shampoo strips away the natural beneficial bacteria,” Kate said. “You don’t see cats and dogs using shampoo, do you?”</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">“But he doesn’t need to know how sneaky and jealous you are. I still think you need to get proof before you say something.”</p>
 
-<p class="para-vi-sub">“Nhưng Jack đâu nhất thiết phải biết là cậu lén lút và ghen tuông đến mức ấy. Tớ vẫn giữ quan điểm là cậu phải nắm chắc bằng chứng trong tay trước khi mở lời.”</p>
+<p class="para-vi-sub">“Nhưng Jack đâu nhất thiết phải *biết* là cậu lén lút và ghen tuông đến mức ấy. Tớ vẫn giữ quan điểm là cậu phải nắm chắc bằng chứng trong tay trước khi mở lời.”</p>
 
 <p class="para-en">“But if he isn’t cheating, there won’t be any proof of cheating,” Miriam said. “And I’ll never know for sure if I don’t confront him.”</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en">“Uh, what exactly do you mean by reconnaissance?” Miriam asked.</p>
 
-<p class="para-vi-sub">“Ủa, chính xác thì ý cậu trinh sát là làm cái gì cơ?” Miriam ngơ ngác.</p>
+<p class="para-vi-sub">“Ủa, chính xác thì ý cậu *trinh sát* là làm cái gì cơ?” Miriam ngơ ngác.</p>
 
 <p class="para-en">“We’ll go to Jack’s office and scope her out.”</p>
 
@@ -134,7 +134,7 @@
 
 <p class="para-en">Miriam wore her baseball cap with fake blond ponytail, bright red lipstick, a pair of fake glasses. She waited alone in Holly’s car, at a parking meter outside Jack’s office building, while her friends did reconnaissance inside. She thought about what the Conspiracy! woman had said: ﻿Things were disappearing. Things were poof! There was a crackle in the air, a faint scent of something burning, an even fainter scent of the faraway sea.</p>
 
-<p class="para-vi-sub">Miriam đội một chiếc mũ lưỡi trai có gắn sẵn lọn tóc giả đuôi ngựa màu vàng hoe, quẹt son đỏ chót và đeo thêm một cặp kính không độ. Cô ngồi đợi một mình trong xe của Holly, ngay cạnh cột thu phí đỗ xe bên ngoài tòa nhà văn phòng của Jack, thấp thỏm ngóng hai cô bạn đang làm nhiệm vụ do thám bên trong. Bất giác, cô nhớ lại những lời người phụ nữ Thuyết Âm Mưu từng cảnh báo: Mọi thứ đang biến mất. Mọi thứ cứ thế biến mất không dấu vết! Một tiếng lách tách khe khẽ đột ngột râm ran trong không khí, phảng phất mùi khét lẹt mơ hồ, quyện cùng một luồng hương vị xa xôi thoang thoảng tựa gió biển.</p>
+<p class="para-vi-sub">Miriam đội một chiếc mũ lưỡi trai có gắn sẵn lọn tóc giả đuôi ngựa màu vàng hoe, quẹt son đỏ chót và đeo thêm một cặp kính không độ. Cô ngồi đợi một mình trong xe của Holly, ngay cạnh cột thu phí đỗ xe bên ngoài tòa nhà văn phòng của Jack, thấp thỏm ngóng hai cô bạn đang làm nhiệm vụ do thám bên trong. Bất giác, cô nhớ lại những lời người phụ nữ Thuyết Âm Mưu từng cảnh báo: Mọi thứ đang biến mất. Mọi thứ cứ thế *biến mất không dấu vết!* Một tiếng lách tách khe khẽ đột ngột râm ran trong không khí, phảng phất mùi khét lẹt mơ hồ, quyện cùng một luồng hương vị xa xôi thoang thoảng tựa gió biển.</p>
 
 <p class="para-en">She shivered, as a man walked by who might have been Jack. But he wasn’t Jack. All these men who passed on the sidewalk, in their suits, their ties, their polished shoes, they might have been Jack. But they weren’t. Jack might have been someone else. He might have turned his back and flashed his middle fingers at Work. He might have loved her so hard she didn’t have to wonder.</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-en">Jessica.</p>
 
-<p class="para-vi-sub">Jessica.</p>
+<p class="para-vi-sub">*Jessica.*</p>
 
 <p class="para-en">Her eyes were old and sad. Her lips were pinched. Her hands shook slightly.</p>
 

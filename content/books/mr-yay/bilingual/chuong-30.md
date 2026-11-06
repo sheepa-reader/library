@@ -2,11 +2,11 @@
 
 <p class="para-en">MIRIAM WOKE UP COLD. All the covers were piled on Jack’s side of the bed, but Jack wasn’t there. She put on her robe and her slippers and went downstairs. She found a note on the kitchen counter.</p>
 
-<p class="para-vi-sub">MIRIAM THỨC GIẤC TRONG CƠN LẠNH GIÁ. Toàn bộ chăn màn đều bị vun thành một đống bên phía giường của Jack, còn chủ nhân của nó thì đã bốc hơi từ bao giờ. Cô khoác tạm chiếc áo choàng tắm, xỏ đôi dép đi trong nhà rồi bước xuống cầu thang. Trên mặt bàn bếp có tờ ghi chú nằm chễm chệ.</p>
+<p class="para-vi-sub">**MIRIAM THỨC GIẤC TRONG CƠN LẠNH GIÁ.** Toàn bộ chăn màn đều bị vun thành một đống bên phía giường của Jack, còn chủ nhân của nó thì đã bốc hơi từ bao giờ. Cô khoác tạm chiếc áo choàng tắm, xỏ đôi dép đi trong nhà rồi bước xuống cầu thang. Trên mặt bàn bếp có tờ ghi chú nằm chễm chệ.</p>
 
 <p class="para-en">Went in to work early.Love, Jack</p>
 
-<p class="para-vi-sub">Anh đi làm sớm. Yêu em, Jack</p>
+<p class="para-vi-sub">*Anh đi làm sớm.* *Yêu em, Jack*</p>
 
 <p class="para-en">Naturally.</p>
 
@@ -22,7 +22,7 @@
 
 <p class="para-en">No stale morning breath for his hard day at “work.”</p>
 
-<p class="para-vi-sub">Dù gì thì cũng không thể để hơi thở buổi sáng ảnh hưởng đến một ngày “làm việc” vất vả của anh được.</p>
+<p class="para-vi-sub">Dù gì thì cũng không thể để hơi thở buổi sáng ảnh hưởng đến một ngày “làm việc” *vất vả* của anh được.</p>
 
 <p class="para-en">No, no, no, she would not torture herself. She would not. She just needed a cigarette. She needed to get laid, but Jack spent all his energy on “work.” There was no libido left for her.</p>
 
@@ -30,7 +30,7 @@
 
 <p class="para-en">She would not do this. Unless she found real proof. Like lipstick on his collar. Thong panties crumpled in his coat pocket. Love notes in his desk drawers. XOXO. Can’t wait for tonight, Big Man! Miriam had once found a note just like that in her father’s desk drawer. The loopy handwriting didn’t belong to her father’s wife, whichever wife that was at the time.</p>
 
-<p class="para-vi-sub">Cô sẽ không tự biến mình thành kẻ hoài nghi vô cớ, trừ phi tìm thấy bằng chứng mười mươi: một vết son môi trên cổ áo, chiếc quần lót dây nhăn nhúm giấu trong túi áo khoác, hay vài lá thư tình vụn vặt trong ngăn kéo bàn làm việc. Hôn anh thật nhiều. Em không thể chờ nổi đến tối nay đâu, người đàn ông vĩ đại của em! Miriam từng nhìn thấy một mảnh giấy với những dòng chữ hệt như thế trong ngăn kéo bàn làm việc của bố cô. Nét chữ mềm mại uốn lượn đó tuyệt nhiên không phải của vợ ông (dù vào thời điểm ấy, người giữ vị trí “vợ” của ông là ai đi chăng nữa).</p>
+<p class="para-vi-sub">Cô sẽ không tự biến mình thành kẻ hoài nghi vô cớ, trừ phi tìm thấy bằng chứng mười mươi: một vết son môi trên cổ áo, chiếc quần lót dây nhăn nhúm giấu trong túi áo khoác, hay vài lá thư tình vụn vặt trong ngăn kéo bàn làm việc. *Hôn anh thật nhiều.* *Em không thể chờ nổi đến tối nay đâu, người đàn ông vĩ đại của em!* Miriam từng nhìn thấy một mảnh giấy với những dòng chữ hệt như thế trong ngăn kéo bàn làm việc của bố cô. Nét chữ mềm mại uốn lượn đó tuyệt nhiên không phải của vợ ông (dù vào thời điểm ấy, người giữ vị trí “vợ” của ông là ai đi chăng nữa).</p>
 
 <p class="para-en">That wife had been perky and tan and blond, like the woman she saw with her husband and unlike Miriam, with her sallow February complexion, her deepening wrinkles, her brown hair threaded with early gray. She examined the fine lines spidering out from the corners of her eyes, the fret lines on her forehead, the gooseskin of her neck. She untied the belt on her terry cloth robe. She looked down at her pendulous breasts, her stretch marks, her puckered belly, her gnarled veins. Her legs were a canvas for the blue-purple marker scribbles of children. Her children had made these veins pop, as they grew inside her womb, as they changed her.</p>
 
@@ -46,11 +46,11 @@
 
 <p class="para-en">Now he was terse. He signed his short note with a simple closing: Love, Jack. Simple enough to write out of reflex. Because over the years, fervor became fondness. Adulation settled into habit. Affections were shed to shorten the routine. I love you became Have a good day became Don’t forget to stop at the post office. Bedtime sex became a good-night kiss, soon forgotten, sporadically at first, then more and more, until it wasn’t there anymore to forget.</p>
 
-<p class="para-vi-sub">Còn giờ đây, anh trở nên cộc lốc đến lạ. Anh ký tên dưới tờ ghi chú ngắn ngủn bằng một dòng kết nhạt phèo: Yêu em, Jack. Một lời nhắn đơn giản đến mức người ta viết ra chỉ theo phản xạ. Bởi lẽ qua thời gian, sự cuồng nhiệt đã thoái hóa thành niềm mến thương hết sức bình thường. Sự sùng bái dần lắng xuống thành một thói quen. Những biểu hiện yêu thương bị gọt giũa bớt nhằm tối giản hóa các thủ tục sinh hoạt hằng ngày. Lời nhắn “Em yêu anh” biến thành</p>
+<p class="para-vi-sub">Còn giờ đây, anh trở nên cộc lốc đến lạ. Anh ký tên dưới tờ ghi chú ngắn ngủn bằng một dòng kết nhạt phèo: *Yêu em, Jack.* Một lời nhắn đơn giản đến mức người ta viết ra chỉ theo phản xạ. Bởi lẽ qua thời gian, sự cuồng nhiệt đã thoái hóa thành niềm mến thương hết sức bình thường. Sự sùng bái dần lắng xuống thành một thói quen. Những biểu hiện yêu thương bị gọt giũa bớt nhằm tối giản hóa các thủ tục sinh hoạt hằng ngày. Lời nhắn *“Em yêu anh”* biến thành</p>
 
 <p class="para-en">She almost wished Jack had made this easier. He could have just made his cheating blatant, instead of pretending it was “work.”</p>
 
-<p class="para-vi-sub">“Chúc anh một ngày tốt lành”, rồi lại hạ cấp thành “Đừng quên ghé qua bưu điện đấy.” Chuyện chăn gối mặn nồng trước khi đi ngủ teo nhỏ lại thành một nụ hôn chúc ngủ ngon vội vã dễ dàng bị lãng quên; ban đầu chỉ thỉnh thoảng, rồi xuất hiện thường xuyên hơn, cho đến khi chẳng còn nụ hôn nào ở đó để mà quên nữa. Miriam gần như ước gì Jack làm mọi chuyện đơn giản hơn. Thà anh cứ công khai ngoại tình một cách trắng trợn, còn hơn là cứ giả vờ đóng vai người mẫu mực kiệt sức vì “công việc.”</p>
+<p class="para-vi-sub">*“Chúc anh một ngày tốt lành”*, rồi lại hạ cấp thành *“Đừng quên ghé qua bưu điện đấy.”* Chuyện chăn gối mặn nồng trước khi đi ngủ teo nhỏ lại thành một nụ hôn chúc ngủ ngon vội vã dễ dàng bị lãng quên; ban đầu chỉ thỉnh thoảng, rồi xuất hiện thường xuyên hơn, cho đến khi chẳng còn nụ hôn nào ở đó để mà quên nữa. Miriam gần như ước gì Jack làm mọi chuyện đơn giản hơn. Thà anh cứ công khai ngoại tình một cách trắng trợn, còn hơn là cứ giả vờ đóng vai người mẫu mực kiệt sức vì “công việc.”</p>
 
 <p class="para-en">She got the kids ready and delivered them to school, Rory to his preschool class and Lindsey to kindergarten. Then she canceled her first appointment and spent the rest of the morning doing things she knew she shouldn’t be doing. But Jack had forced her to this point.</p>
 
@@ -74,7 +74,7 @@
 
 <p class="para-en">This didn’t stop her from also searching the coat that Jack had tossed over a dining room chair, so that she could hang it up for him. And there, in one of the pockets, she found a matchbook. The matchbook cover was printed with the words Mossy Glen Inn and Spa, above a picture of a heart-shaped tree. Most of the matches had been used.</p>
 
-<p class="para-vi-sub">Tất nhiên, điều đó chẳng thể ngăn cô tiện tay lục lọi chiếc áo khoác Jack vắt tạm trên ghế ăn, dưới cái cớ rất chính đáng là treo nó lên giúp anh. Và ngay trong túi áo, cô tìm thấy một bao diêm. Bìa bao diêm in dòng chữ Khách sạn & Spa Mossy Glen nằm ngay trên hình ảnh một cái cây có tán lá hình trái tim. Hầu hết các que diêm bên trong đều đã bị quẹt sạch.</p>
+<p class="para-vi-sub">Tất nhiên, điều đó chẳng thể ngăn cô tiện tay lục lọi chiếc áo khoác Jack vắt tạm trên ghế ăn, dưới cái cớ rất chính đáng là treo nó lên giúp anh. Và ngay trong túi áo, cô tìm thấy một bao diêm. Bìa bao diêm in dòng chữ *Khách sạn & Spa Mossy Glen* nằm ngay trên hình ảnh một cái cây có tán lá hình trái tim. Hầu hết các que diêm bên trong đều đã bị quẹt sạch.</p>
 
 <p class="para-en">She had never been to the Mossy Glen Inn and Spa. But the matchbook design made it seem like a place where a person (not her) might get laid. And Jack had opportunities. He’d done an “overnight deposition” last month, and two nights of “witness interviews” the month before.</p>
 
@@ -142,7 +142,7 @@
 
 <p class="para-en">“Oh, hi, Miriam. Um, no, he’s not. He’s…Oh, wait, uh, yes. He’s here. But he’s in a meeting.”</p>
 
-<p class="para-vi-sub">“Ồ, chào em, Miriam. Ừm, không, anh ấy không có ở đây. Anh ấy… Ồ, chờ chút, ừm, có chứ. Anh ấy đang ở đây. Nhưng anh ấy đang bận họp rồi.”</p>
+<p class="para-vi-sub">“Ồ, chào em, *Miriam*. Ừm, không, anh ấy không có ở đây. Anh ấy… Ồ, chờ chút, ừm, có chứ. Anh ấy đang ở đây. Nhưng anh ấy đang bận họp rồi.”</p>
 
 <p class="para-en">“Do you know when he’ll be done?”</p>
 
@@ -166,5 +166,5 @@
 
 <p class="para-en">To my wife, the most beautiful woman I’ve ever met. For you, I would set my hair on fire. I would leap off a bridge. I would eat these roses, thorns and all. I would leave everything I’ve worked for behind.</p>
 
-<p class="para-vi-sub">Tặng vợ yêu của anh, người phụ nữ đẹp nhất mà anh từng gặp trên đời. Vì em, anh sẵn sàng châm lửa đốt tóc mình. Anh sẵn sàng nhảy xuống từ trên cầu. Anh sẵn sàng nuốt chửng những bông hoa hồng này, ăn trọn cả gai không chừa một mẩu. Anh sẵn sàng vứt bỏ lại đằng sau tất cả những gì anh từng dốc sức gây dựng.</p>
+<p class="para-vi-sub">*Tặng vợ yêu của anh, người phụ nữ đẹp nhất mà anh từng gặp trên đời. Vì em, anh sẵn sàng châm lửa đốt tóc mình. Anh sẵn sàng nhảy xuống từ trên cầu. Anh sẵn sàng nuốt chửng những bông hoa hồng này, ăn trọn cả gai không chừa một mẩu. Anh sẵn sàng vứt bỏ lại đằng sau tất cả những gì anh từng dốc sức gây dựng.*</p>
 

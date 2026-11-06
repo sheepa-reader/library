@@ -2,7 +2,7 @@
 
 <p class="para-en">THE THING TO COOK after a day spent cleaning puke was obviously meat loaf. The kids—who had mastered the art of vomiting on bedsheets, carpets, upholstered furniture, and into their own hair—wouldn’t eat the meat loaf anyway. Barf-loaf, Lindsey called it. Miriam had never really liked it either. But Jack loved the stuff. Meat loaf was an archetypal main course of the idyllic American childhood, Jack’s childhood, a leisurely era of bicycle rides and video games and Sunday family dinners. Meat loaf and mashed potatoes and corn on the cob. Gravy served in a fancy silver boat. Were there biscuits? Yes, of course there were biscuits: flaky, buttery, slathered with butter.</p>
 
-<p class="para-vi-sub">MÓN ĂN HỢP LÝ NHẤT sau một ngày dài cặm cụi dọn bãi nôn hiển nhiên phải là món thịt cuộn nướng. Đằng nào thì lũ trẻ, những chuyên gia bẩm sinh đã đạt tới cảnh giới thượng thừa trong nghệ thuật nôn mửa lên ga trải giường, thảm trải sàn, đệm bọc ghế và thậm chí cả vào chính mớ tóc của chúng, cũng sẽ chẳng buồn đụng một miếng. Ổ BÁNH THỊT NÔN MỬA, con bé Lindsey đã trìu mến đặt tên cho món ăn như thế. Bản thân Miriam chưa bao giờ ưa nổi món đó, nhưng Jack thì mê tít. Thịt cuộn nướng vốn là biểu tượng kinh điển trong ký ức tuổi thơ kiểu Mỹ của Jack: thời kỳ thảnh thơi rong ruổi đạp xe và quây quần bên bữa tối gia đình. Thịt cuộn nướng ăn kèm khoai tây nghiền và ngô ngọt nguyên bắp. Nước sốt thịt sánh mịn rót ra từ chiếc âu bạc sang trọng. Liệu có bánh quy bơ xốp không nhỉ? Dĩ nhiên là phải có rồi: từng lớp bánh giòn rụm, thơm nức mùi bơ, rồi lại được phết thêm một lớp bơ béo ngậy nữa cho cẩn tắc vô áy náy.</p>
+<p class="para-vi-sub">**MÓN ĂN HỢP LÝ NHẤT** sau một ngày dài cặm cụi dọn bãi nôn hiển nhiên phải là món thịt cuộn nướng. Đằng nào thì lũ trẻ, những chuyên gia bẩm sinh đã đạt tới cảnh giới thượng thừa trong nghệ thuật nôn mửa lên ga trải giường, thảm trải sàn, đệm bọc ghế và thậm chí cả vào chính mớ tóc của chúng, cũng sẽ chẳng buồn đụng một miếng. Ổ BÁNH THỊT NÔN MỬA, con bé Lindsey đã trìu mến đặt tên cho món ăn như thế. Bản thân Miriam chưa bao giờ ưa nổi món đó, nhưng Jack thì mê tít. Thịt cuộn nướng vốn là biểu tượng kinh điển trong ký ức tuổi thơ kiểu Mỹ của Jack: thời kỳ thảnh thơi rong ruổi đạp xe và quây quần bên bữa tối gia đình. Thịt cuộn nướng ăn kèm khoai tây nghiền và ngô ngọt nguyên bắp. Nước sốt thịt sánh mịn rót ra từ chiếc âu bạc sang trọng. Liệu có bánh quy bơ xốp không nhỉ? Dĩ nhiên là phải có rồi: từng lớp bánh giòn rụm, thơm nức mùi bơ, rồi lại được phết thêm một lớp bơ béo ngậy nữa cho cẩn tắc vô áy náy.</p>
 
 <p class="para-en">Miriam didn’t cook these things. She cooked stir-fry with lean chicken breast, tofu tacos, lentil soup. Nutritious, non-artery-clogging foods. Jack claimed he didn’t mind. But sometimes, when he thought she wasn’t looking, he would feed his beans and broccoli to the dog.</p>
 
@@ -10,11 +10,11 @@
 
 <p class="para-en">Jack didn’t ever cook, because of work. He didn’t launder the clothes or pick up Hot Wheels off the stairs or scrape up ﻿half-eaten gummy worms mixed with espresso grounds mashed into the carpet, when the kids played “gardening.” He woke up, went to work, came home, worked at home, and when he stopped to talk to her, he had nothing to say except work-work-work-work, peppered with depressing factoids he’d heard on the news.</p>
 
-<p class="para-vi-sub">Jack chẳng bao giờ nấu nướng, đơn giản vì anh bận làm việc. Anh không giặt giũ quần áo, chẳng buồn nhặt nhạnh mấy chiếc ô tô mô hình Hot Wheels vương vãi khắp cầu thang, và càng không bao giờ cạo sạch đám kẹo dẻo hình sâu ăn dở trộn lẫn bã cà phê espresso bị giẫm bẹp dí vào thảm mỗi bận lũ trẻ bày trò chơi “làm vườn”. Lịch trình của anh gói gọn trong chuỗi hoạt động: thức dậy, đi làm, về nhà, rồi lại ngồi làm việc tại nhà. Vào những dịp hiếm hoi chịu dừng tay trò chuyện cùng vợ, anh cũng chẳng có chủ đề nào khác ngoài điệp khúc công việc, công việc, công việc và công việc, điểm xuyết thêm vài mẩu tin tức u ám ủ dột mà anh vừa nghe lỏm được trên bản tin thời sự.</p>
+<p class="para-vi-sub">Jack chẳng bao giờ nấu nướng, đơn giản vì anh bận làm việc. Anh không giặt giũ quần áo, chẳng buồn nhặt nhạnh mấy chiếc ô tô mô hình Hot Wheels vương vãi khắp cầu thang, và càng không bao giờ cạo sạch đám kẹo dẻo hình sâu ăn dở trộn lẫn bã cà phê espresso bị giẫm bẹp dí vào thảm mỗi bận lũ trẻ bày trò chơi “làm vườn”. Lịch trình của anh gói gọn trong chuỗi hoạt động: thức dậy, đi làm, về nhà, rồi lại ngồi làm việc tại nhà. Vào những dịp hiếm hoi chịu dừng tay trò chuyện cùng vợ, anh cũng chẳng có chủ đề nào khác ngoài điệp khúc *công việc, công việc, công việc và công việc*, điểm xuyết thêm vài mẩu tin tức u ám ủ dột mà anh vừa nghe lỏm được trên bản tin thời sự.</p>
 
 <p class="para-en">But maybe she should be more understanding. This is what Miriam the Therapist told Miriam the Disgruntled Wife: Of course you’re annoyed. This isn’t what you signed up for. But try to see the situation from your husband’s point of view.</p>
 
-<p class="para-vi-sub">Thế nhưng, biết đâu cô nên bao dung và thấu hiểu hơn một chút? Đó chính xác là những gì Miriam Chuyên viên Trị liệu tâm lý đang nhỏ nhẹ khuyên nhủ Miriam Người Vợ Bất Mãn: Dĩ nhiên là cô có quyền bực bội. Đây đâu phải cuộc sống màu hồng mà cô từng kỳ vọng khi bước chân vào hôn nhân. Nhưng hãy thử nhìn nhận sự tình từ góc độ của chồng cô xem sao.</p>
+<p class="para-vi-sub">Thế nhưng, biết đâu cô nên bao dung và thấu hiểu hơn một chút? Đó chính xác là những gì Miriam Chuyên viên Trị liệu tâm lý đang nhỏ nhẹ khuyên nhủ Miriam Người Vợ Bất Mãn: *Dĩ nhiên là cô có quyền bực bội. Đây đâu phải cuộc sống màu hồng mà cô từng kỳ vọng khi bước chân vào hôn nhân. Nhưng hãy thử nhìn nhận sự tình từ góc độ của chồng cô xem sao.*</p>
 
 <p class="para-en">Jack worked all day Saturday. He had to work on Sunday. His firm preferred him in the office. But he could work from home on Christmas Eve. He hadn’t taken a whole weekend off work in months, and when he came home, the wife was (understandably) pissed. And then she served him a slab of seitan on whole wheat bread with a side of cooked spinach.</p>
 
@@ -46,7 +46,7 @@
 
 <p class="para-en">Miriam stifled her rage. You don’t really want to punch him in the face, her inner therapist reminded her﻿.</p>
 
-<p class="para-vi-sub">Miriam hít một hơi thật sâu, cố nén cơn thịnh nộ đang chực bốc hỏa. Mày đâu có thực sự muốn đấm thẳng vào mặt anh ấy đâu, nhà trị liệu nội tâm bên trong cô lên tiếng nhắc nhở đầy lý trí.</p>
+<p class="para-vi-sub">Miriam hít một hơi thật sâu, cố nén cơn thịnh nộ đang chực bốc hỏa. *Mày đâu có* thực sự *muốn đấm thẳng vào mặt anh ấy đâu*, nhà trị liệu nội tâm bên trong cô lên tiếng nhắc nhở đầy lý trí.</p>
 
 <p class="para-en">She kept the food in the oven, on warm. She fed saltine crackers to the kids. She read them stories and tucked them in to bed. She paced the kitchen, feeling resentful. She ate a sleeve of saltine crackers and poured a glass of wine. Then she heard Jack’s car in the driveway.</p>
 
@@ -66,23 +66,23 @@
 
 <p class="para-en">BARK BARK BARK BARK BARK</p>
 
-<p class="para-vi-sub">GÂU GÂU GÂU GÂU GÂU!</p>
+<p class="para-vi-sub">*GÂU GÂU GÂU GÂU GÂU!*</p>
 
 <p class="para-en">Try to be understanding, she told herself. Compassion. Have compassion. She felt a sudden, inexplicable craving for a cigarette. Which was odd, because she had never smoked a cigarette in her life. Jack used to smoke, but she convinced him to quit before they got married. People shouldn’t smoke. It was a filthy habit.</p>
 
-<p class="para-vi-sub">Hãy cố gắng thấu hiểu, cô tự nhủ với bản thân. Lòng trắc ẩn. Mình phải có lòng trắc ẩn. Đột nhiên cô cảm thấy thèm thuốc lá đến khó hiểu. Điều đó thật nực cười, bởi cả đời mình cô chưa từng châm lấy một điếu thuốc. Jack thì từng hút, nhưng cô đã thuyết phục anh cai hẳn trước khi hai người cưới nhau. Người văn minh không nên hút thuốc, bởi đó là thói quen vừa bẩn thỉu vừa hại sức khỏe. Cánh cửa xe ô tô bên ngoài đóng sầm lại.</p>
+<p class="para-vi-sub">*Hãy cố gắng thấu hiểu*, cô tự nhủ với bản thân. *Lòng trắc ẩn. Mình phải có lòng trắc ẩn*. Đột nhiên cô cảm thấy thèm thuốc lá đến khó hiểu. Điều đó thật nực cười, bởi cả đời mình cô chưa từng châm lấy một điếu thuốc. Jack thì từng hút, nhưng cô đã thuyết phục anh cai hẳn trước khi hai người cưới nhau. Người văn minh không nên hút thuốc, bởi đó là thói quen vừa bẩn thỉu vừa hại sức khỏe. Cánh cửa xe ô tô bên ngoài đóng sầm lại.</p>
 
 <p class="para-en">The car door slammed shut. Compassion. He’s tired. He’s been working all day. Be calm. Be calm.</p>
 
-<p class="para-vi-sub">Lòng trắc ẩn. Anh ấy đang kiệt sức. Anh ấy đã phải nai lưng làm việc suốt cả ngày trời. Phải bình tĩnh. Nào, bình tĩnh.</p>
+<p class="para-vi-sub">*Lòng trắc ẩn. Anh ấy đang kiệt sức. Anh ấy đã phải nai lưng làm việc suốt cả ngày trời. Phải bình tĩnh. Nào, bình tĩnh.*</p>
 
 <p class="para-en">BARK BARK BARK BARK BARK</p>
 
-<p class="para-vi-sub">GÂU GÂU GÂU GÂU GÂU!</p>
+<p class="para-vi-sub">*GÂU GÂU GÂU GÂU GÂU!*</p>
 
 <p class="para-en">Be calm.</p>
 
-<p class="para-vi-sub">Bình tĩnh.</p>
+<p class="para-vi-sub">*Bình tĩnh*.</p>
 
 <p class="para-en">Her jaw clenched. The dog wouldn’t stop barking. It paddled its paws on the front door, as if running on a vertical treadmill.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">Not a compassionate thought. Think nice thoughts! Empathy! the therapist voice chided.</p>
 
-<p class="para-vi-sub">Tất nhiên, đó chẳng phải là một ý nghĩ giàu lòng trắc ẩn cho lắm. Nghĩ về những điều tốt đẹp đi! Thấu cảm nào! Giọng nói đầy nguyên tắc của một chuyên viên trị liệu tâm lý vang lên trong đầu cô, cất lời quở trách.</p>
+<p class="para-vi-sub">Tất nhiên, đó chẳng phải là một ý nghĩ giàu lòng trắc ẩn cho lắm. *Nghĩ về những điều tốt đẹp đi! Thấu cảm nào!* Giọng nói đầy nguyên tắc của một chuyên viên trị liệu tâm lý vang lên trong đầu cô, cất lời quở trách.</p>
 
 <p class="para-en">Miriam went into the kitchen to assemble dinner. She added more butter to the mashed potatoes. She poured more wine for her, and a glass for Jack. She set the table. She kept an eye on the dog, who stood in the doorway, his eyes fixed on the dubious husband.</p>
 
@@ -154,7 +154,7 @@
 
 <p class="para-en">Barf.</p>
 
-<p class="para-vi-sub">Phát ngấy lên được.</p>
+<p class="para-vi-sub">*Phát ngấy lên được.*</p>
 
 <p class="para-en">“What about it?” she asked, pretending to care.</p>
 
@@ -262,7 +262,7 @@
 
 <p class="para-en">“What, you want me to try it?”</p>
 
-<p class="para-vi-sub">“Gì cơ, em muốn anh thử ăn đấy à?”</p>
+<p class="para-vi-sub">“Gì cơ, em muốn anh *thử ăn* đấy à?”</p>
 
 <p class="para-en">Obviously. She had placed a good deal of hope in her reconciliatory-meat-loaf plan.</p>
 

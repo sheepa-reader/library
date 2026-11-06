@@ -1,6 +1,8 @@
-# THÁNG BA - CHUYẾN DU THUYỀN TIỆC TÙNG
+# THÁNG BA
 
-MR. YAY MUỐN CÓ một chai rượu rum từ cửa hàng miễn thuế.
+# CHUYẾN DU THUYỀN TIỆC TÙNG
+
+**MR. YAY MUỐN CÓ** một chai rượu rum từ cửa hàng miễn thuế.
 
 Cậu muốn phi như bay dọc theo băng chuyền hành khách.
 
@@ -30,7 +32,7 @@ Mr. Yay mang theo bốn chiếc bật lửa, một lon cà phê nhét đầy c�
 
 “Thế thì tao chọn ở trên thuyền mãi mãi.”
 
-Thuyền trưởng Barksford, từ đời Thuyền trưởng Barksford thứ nhất cho đến thứ mười, đều đã sống và qua đời trên con tàu SS Deliverance. Thể xác họ được an táng giữa biển khơi. Vị Thuyền trưởng Barksford thứ mười một vẫn còn sống khi chương trình khép lại. Chú chó chuyển đến một căn penthouse ở Manhattan, đi lưu diễn khắp các talk show dành cho người nổi tiếng. Dù vậy, chú ta vẫn chỉ thưởng thức độc món cá tươi. Bratty nhớ lại bài báo anh từng đọc hồi năm ngoái, “Cuộc đời một thuyền trưởng sau tập cuối của loạt phim.” Anh nhớ lại nỗi thèm khát được nuôi một chú chó, nỗi khao khát từng bị cấm đoán đến nhức nhối.
+Thuyền trưởng Barksford, từ đời Thuyền trưởng Barksford thứ nhất cho đến thứ mười, đều đã sống và qua đời trên con tàu SS *Deliverance*. Thể xác họ được an táng giữa biển khơi. Vị Thuyền trưởng Barksford thứ mười một vẫn còn sống khi chương trình khép lại. Chú chó chuyển đến một căn penthouse ở Manhattan, đi lưu diễn khắp các talk show dành cho người nổi tiếng. Dù vậy, chú ta vẫn chỉ thưởng thức độc món cá tươi. Bratty nhớ lại bài báo anh từng đọc hồi năm ngoái, “Cuộc đời một thuyền trưởng sau tập cuối của loạt phim.” Anh nhớ lại nỗi thèm khát được nuôi một chú chó, nỗi khao khát từng bị cấm đoán đến nhức nhối.
 
 Giờ thì anh nhớ chú chó của mình da diết.
 
@@ -46,7 +48,7 @@ Giờ thì anh nhớ chú chó của mình da diết.
 
 “Có khi sang năm tao sẽ là nghệ sĩ diễn chính,” Tommy nói. “Và một khi đã là gương mặt tâm điểm, tao sẽ đưa ra yêu sách. Chó cho tất cả mọi người! Từng đàn chó cứ thế tung tăng dạo quanh boong tàu, bơi lội trong hồ bơi, quẩy tưng bừng ở các buổi biểu diễn. Mẹ kiếp, thế mới gọi là huy hoàng.”
 
-Họ ngồi xuống tại cổng ra máy bay. Còn hai mươi phút nữa mới đến giờ lên máy bay. Bratty lướt điện thoại. Anh nhận được email từ các tụ điểm biểu diễn ở LA, Santa Barbara, Santa Cruz, San Francisco. Bức ảnh mới nhất đăng trên trang UniTab của Mr. Yay thu về hơn một trăm lượt bình luận, cùng với cả tá tin nhắn trực tiếp. Ai nấy đều nài nỉ đòi xem thêm hình ảnh về chú chó. Anh mở ứng dụng Boogie Boat. Bốn đêm âm nhạc trên con tàu Vibe Siren, con tàu thời thượng nhất trôi nổi giữa biển khơi. Vé đã bán sạch veo. Anh nhìn chằm chằm vào danh sách nghệ sĩ biểu diễn.
+Họ ngồi xuống tại cổng ra máy bay. Còn hai mươi phút nữa mới đến giờ lên máy bay. Bratty lướt điện thoại. Anh nhận được email từ các tụ điểm biểu diễn ở LA, Santa Barbara, Santa Cruz, San Francisco. Bức ảnh mới nhất đăng trên trang UniTab của Mr. Yay thu về hơn một trăm lượt bình luận, cùng với cả tá tin nhắn trực tiếp. Ai nấy đều nài nỉ đòi xem thêm hình ảnh về chú chó. Anh mở ứng dụng Boogie Boat. Bốn đêm âm nhạc trên con tàu *Vibe Siren*, con tàu thời thượng nhất trôi nổi giữa biển khơi. Vé đã bán sạch veo. Anh nhìn chằm chằm vào danh sách nghệ sĩ biểu diễn.
 
 Tommy cũng dán chặt mắt vào danh sách ấy.
 
@@ -54,7 +56,7 @@ Tommy cũng dán chặt mắt vào danh sách ấy.
 
 Đúng là đỉnh không tưởng thật.
 
-Ở đó, bằng phông chữ nhỏ ti ti trong danh sách các nghệ sĩ phụ diễn, chính là cái tên Mr. Yay.
+Ở đó, bằng phông chữ nhỏ ti ti trong danh sách các nghệ sĩ phụ diễn, chính là cái tên *Mr. Yay*.
 
 “Mày ơi, tên mày kìa,” Bratty nói.
 
@@ -68,7 +70,7 @@ Tommy cũng dán chặt mắt vào danh sách ấy.
 
 “Này, chúng mình sắp diễn ở một lễ hội âm nhạc xịn xò thật đấy.”
 
-Mọi chuyện diễn ra thế này: Hộp thư điện tử chính thức của Mr. Yay nhận được một email từ địa chỉ chính thức của Lễ hội Boogie Boat, nội dung đại loại là: Kính gửi Mr. Yay, chúng tôi rất muốn mời bạn biểu diễn tại lễ hội Boogie Boat năm nay. Bạn có hứng thú góp mặt trong danh sách nghệ sĩ biểu diễn không?
+Mọi chuyện diễn ra thế này: Hộp thư điện tử chính thức của Mr. Yay nhận được một email từ địa chỉ chính thức của Lễ hội Boogie Boat, nội dung đại loại là: *Kính gửi Mr. Yay, chúng tôi rất muốn mời bạn biểu diễn tại lễ hội Boogie Boat năm nay. Bạn có hứng thú góp mặt trong danh sách nghệ sĩ biểu diễn không?*
 
 Thế là Tommy sững sờ thốt lên không tin nổi, Bratty cũng ngơ ngác chẳng kém, rồi suốt mấy tiếng đồng hồ liền, cả hai ra sức tự trấn an rằng chuyện này chắc chắn là trò đùa. Làm sao mà thật cho được! Thanh ván trượt Shot-Ski, cái đó mới là thật. Những ly rượu Fireball nồng nặc cháy cổ mới là thật. Chú chó nằm ườn trên ghế sofa là thật, dù ban đầu Bratty từng hoang mang tưởng nó chỉ là ảo giác. Thế nhưng tiền thật đã được chuyển khoản tới, vé máy bay thật đã gửi thẳng về hộp thư, và giờ đây bọn họ đang chuẩn bị bước chân lên phi cơ.
 
@@ -78,7 +80,7 @@ Tux, Chú Chó Siêu Ngoan. Tuxmaster 3000. Cướp Biển Tux, Tên Cướp Th�
 
 Tux cuồng thịt gà. Nếu một ngày nào đó Bratty trở nên giàu sụ, cái kiểu giàu nứt đố đổ vách đến mức sở hữu căn hộ penthouse sang trọng rồi đi tour phỏng vấn trên các chương trình trò chuyện của giới thượng lưu, anh nhất định sẽ thuê một đầu bếp riêng chỉ để nấu thịt gà cho cu cậu. Dĩ nhiên là phải đổi đủ loại nước sốt cùng gia vị khác nhau, cốt để mở rộng chân trời vị giác cho chú chó cưng.
 
-Giống hệt Thuyền trưởng Barksford, Tommy từng ví von như thế rồi giải thích thêm rằng vào mùa thứ mười hai, Thuyền trưởng Barksford từng xơi một ổ bánh mì kẹp thịt gà chiên xù với chuối. Rồi đến tận mùa thứ mười lăm, thuyền trưởng lại đánh liều nếm món gà ướp ớt hiểm siêu cay Ghost Pepper, để rồi nôn mửa liên tục suốt ba tiếng đồng hồ liền. Rõ ràng đó chẳng phải một ý tưởng sáng suốt cho lắm.
+*Giống hệt Thuyền trưởng Barksford*, Tommy từng ví von như thế rồi giải thích thêm rằng vào mùa thứ mười hai, Thuyền trưởng Barksford từng xơi một ổ bánh mì kẹp thịt gà chiên xù với chuối. Rồi đến tận mùa thứ mười lăm, thuyền trưởng lại đánh liều nếm món gà ướp ớt hiểm siêu cay Ghost Pepper, để rồi nôn mửa liên tục suốt ba tiếng đồng hồ liền. Rõ ràng đó chẳng phải một ý tưởng sáng suốt cho lắm.
 
 Đã đến giờ lên máy bay.
 
@@ -112,7 +114,7 @@ Cậu ngồi im lìm không đáp suốt một phút đồng hồ. Rồi Tommy k
 
 Họ rời máy bay, đón xe buýt trung chuyển. Cả hai tạt vào quán làm một ly với người hành khách mà Tommy vừa kết thân trên chuyến bay, rồi tiện đường ghé lấy đôi ván trượt nước cũ rích bị người ta vứt xó, thứ mà họ dự tính sẽ độ lại thành thanh ván trượt Shot-Ski uống rượu liên hoàn trên mặt nước. Tommy thậm chí đã thủ sẵn cả súng bắn keo trong hành lý tự bao giờ.
 
-Họ sải bước lên con tàu Vibe Siren. Cả hai nhận các cabin riêng biệt ở mạn phải con tàu, khu vực dành riêng cho giới nghệ sĩ biểu diễn. Bratty luôn cúi gằm mặt, giấu mình sau cặp kính râm to bản. Anh không muốn tỏ ra như một gã nhà quê ngố tàu cứ trố mắt dòm ngó các ngôi sao nổi tiếng.
+Họ sải bước lên con tàu *Vibe Siren*. Cả hai nhận các cabin riêng biệt ở mạn phải con tàu, khu vực dành riêng cho giới nghệ sĩ biểu diễn. Bratty luôn cúi gằm mặt, giấu mình sau cặp kính râm to bản. Anh không muốn tỏ ra như một gã nhà quê ngố tàu cứ trố mắt dòm ngó các ngôi sao nổi tiếng.
 
 Nhưng mà, lạy Chúa, cái đại nhạc hội này đỉnh không tưởng!
 
@@ -122,7 +124,7 @@ Anh chạy vài vòng thể dục quanh boong tàu tầng trên. Giờ đây anh
 
 Tux Chân Bật Tốc. Chú Chó Điền Kinh McChạy Bộ.
 
-Chạy đi, Tux, chạy đi.
+*Chạy đi, Tux, chạy đi.*
 
 Anh hít một hơi thật sâu rồi hòa mình vào bữa tiệc.
 
@@ -150,7 +152,7 @@ Tất nhiên, nói thì dõng dạc thế thôi, chứ thâm tâm Bratty cũng �
 
 “Mày cũng sẽ cháy hết mình.”
 
-“Chúng ta sẽ cháy hết mình.”
+“*Chúng ta* sẽ cháy hết mình.”
 
 Một người phục vụ mang đến cho Tommy một bình nước cam lớn cùng một chai sâm panh.
 
@@ -171,4 +173,3 @@ Set diễn của nghệ sĩ đi trước vừa kết thúc. Bratty nhanh chóng 
 Ánh đèn vụt tối dần. Bratty đĩnh đạc bước lại bục DJ. Anh phóng tầm mắt nhìn ra sàn nhảy. Nơi ấy đã chật ních người. Từng dòng người vẫn đang lũ lượt ùa qua các ô cửa. Dọc hành lang phía ngoài cũng ken đặc bóng người chen chúc.
 
 Đâu đó giữa biển người chật như nêm cối ấy, một giọng gào thét vang lên xé toang bầu không khí: “Chúng tôi muốn Mr. Yay!”
-

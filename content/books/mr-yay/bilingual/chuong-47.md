@@ -2,7 +2,7 @@
 
 <p class="para-en">IF A RESOURCEFUL CHILD stacked one lawn chair atop two other lawn chairs, said child could climb onto the roof of the garage.</p>
 
-<p class="para-vi-sub">NẾU MỘT ĐỨA TRẺ ĐỦ RANH MA chồng một chiếc ghế xếp ngoài trời lên hai chiếc ghế khác, nó hoàn toàn có thể trèo lên nóc garage.</p>
+<p class="para-vi-sub">**NẾU MỘT ĐỨA TRẺ ĐỦ RANH MA** chồng một chiếc ghế xếp ngoài trời lên hai chiếc ghế khác, nó hoàn toàn có thể trèo lên nóc garage.</p>
 
 <p class="para-en">While inside, the adults got drunk.</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">She’s crazy, Holly mouthed, when only Miriam could see.</p>
 
-<p class="para-vi-sub">Cậu ta điên thật rồi, Holly mấp máy môi với Miriam, rất vừa vặn đúng lúc không ai khác chú ý.</p>
+<p class="para-vi-sub">*Cậu ta điên thật rồi*, Holly mấp máy môi với Miriam, rất vừa vặn đúng lúc không ai khác chú ý.</p>
 
 <p class="para-en">Miriam wondered how and when her friend had gotten so crunchy. There was a photo on Holly and Tom’s fridge of the six of them from the summer before. They had taken a group trip to Hocking Hills. They’d spent a long weekend drinking wine and hiking and eating regular foods that came from cans and bags and boxes. Kate used flavored creamer in her coffee and styling products in her hair, which she washed every day. In the picture, she’d blown it out. She’d dyed it blond. She wore mascara and fingernail polish. She stood beside Fred, in his striped shirt and dock shoes, identical to Tom’s. They all looked normal, and happy, except for her and Jack, who had been made to stop his weekend working while he posed for the picture.</p>
 
@@ -178,11 +178,11 @@
 
 <p class="para-en">Ring—ring—ring—</p>
 
-<p class="para-vi-sub">Reng… reng… reng…</p>
+<p class="para-vi-sub">*Reng… reng… reng…*</p>
 
 <p class="para-en">The screen said: Tom.</p>
 
-<p class="para-vi-sub">Màn hình hiện tên: Tom.</p>
+<p class="para-vi-sub">Màn hình hiện tên: *Tom*.</p>
 
 <p class="para-en">“Are you going to answer that?”</p>
 
@@ -190,7 +190,7 @@
 
 <p class="para-en">Ring—ring—</p>
 
-<p class="para-vi-sub">Reng… reng…</p>
+<p class="para-vi-sub">*Reng… reng…*</p>
 
 <p class="para-en">“Hello?”</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-en">“Ahhh! I know what it is, Tom. But why is it here? Oh, god, tell me you didn’t buy it!”</p>
 
-<p class="para-vi-sub">“À hay nhỉ! Tôi thừa biết nó là cái gì rồi, Tom ạ. Nhưng tại sao nó lại ở đây? Ôi lạy Chúa, đừng nói với tôi là anh mới mua nó đấy nhé!”</p>
+<p class="para-vi-sub">“À hay nhỉ! Tôi thừa biết nó *là cái gì* rồi, Tom ạ. Nhưng tại sao nó lại *ở đây*? Ôi lạy Chúa, đừng nói với tôi là anh mới mua nó đấy nhé!”</p>
 
 <p class="para-en">“I bought it!” he exclaimed, still somehow oblivious to his wife’s mounting anger.</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-en">Tom stroked the motorcycle. I know, I’m fabulous, it purred.</p>
 
-<p class="para-vi-sub">Biết rồi, em đây quyến rũ chết người mà, cỗ máy như rù rì đáp lời.</p>
+<p class="para-vi-sub">*Biết rồi, em đây quyến rũ chết người mà*, cỗ máy như rù rì đáp lời.</p>
 
 <p class="para-en">“You want to try it out?” he asked.</p>
 
@@ -266,7 +266,7 @@
 
 <p class="para-en">“Are you crazy, Tom? Really?” Holly screamed. “You really thought you should just go out and buy a motorcycle? Do you have any idea how dangerous they are? What were you even thinking?”</p>
 
-<p class="para-vi-sub">“Anh bị điên rồi sao, Tom? Thật đấy à?” Holly thét lên lanh lảnh. “Anh thật sự nghĩ mình cứ thế xách mông ra ngoài tậu một chiếc mô tô về là xong đấy ư? Anh có biết cái thứ quỷ này nguy hiểm đến mức nào không hả? Rốt cuộc trong đầu anh đang chứa cái giống gì thế?”</p>
+<p class="para-vi-sub">“Anh bị *điên* rồi sao, Tom? *Thật đấy à?*” Holly thét lên lanh lảnh. “Anh thật sự nghĩ mình cứ thế xách mông ra ngoài tậu một chiếc mô tô về là xong đấy ư? Anh có biết cái thứ quỷ này nguy hiểm đến mức nào không hả? Rốt cuộc trong đầu anh đang chứa cái giống gì thế?”</p>
 
 <p class="para-en">“I just—”</p>
 

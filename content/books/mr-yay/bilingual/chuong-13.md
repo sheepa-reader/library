@@ -2,11 +2,11 @@
 
 <p class="para-en">THEY WROTE THE SONGS that became the Album in a frantic week. Tommy didn’t sleep.</p>
 
-<p class="para-vi-sub">HỌ ĐÃ VIẾT NÊN NHỮNG BÀI HÁT cấu thành nên album chỉ trong vỏn vẹn một tuần lễ cuồng loạn. Tommy hoàn toàn không ngủ.</p>
+<p class="para-vi-sub">**HỌ ĐÃ VIẾT NÊN NHỮNG BÀI HÁT** cấu thành nên album chỉ trong vỏn vẹn một tuần lễ cuồng loạn. Tommy hoàn toàn không ngủ.</p>
 
 <p class="para-en">Bratty slept on the couch in random stretches, two hours in the afternoon, three hours predawn, the dog always at his feet. He dreamed the same dream every sleep: The Dog, the Boat, the Inimitable Sea. He sailed silver waves, him and the dog, who wore the captain’s hat. The dog’s identity changed. He was Tux in some dreams, the original Captain Barksford in others. He was the fox terrier companion to the detective in Peregrine. He was the dog Tommy had as a kid, or the dog Bratty wanted but never owned. Once, he was an Airedale named Barry, and his fur was matted with green goo. He was captain, which made Bratty first mate, or the boat itself, or the wind that blew it. Or maybe just a dude, out for a pleasure cruise. To what destination? No one knew, and it seemed beside the point, when he had the dog, the boat, and the sea. The sky above was milky with stars, or lucid yellow dawn, or the lavender shade of a lullaby.</p>
 
-<p class="para-vi-sub">Bratty thì nằm bẹp trên chiếc ghế sofa, thiếp đi trong những giấc ngủ chập chờn vô định: hai tiếng buổi chiều, ba tiếng trước lúc bình minh. Chú chó lúc nào cũng trung thành nằm phục dưới chân anh. Và kỳ lạ thay, giấc ngủ nào anh cũng chỉ mơ thấy đúng một viễn cảnh: Chú Chó, Con Thuyền, Biển Khơi Độc Nhất Vô Nhị. Anh cùng chú chó lướt trên những ngọn sóng bạc (tất nhiên chú chó là người đội chiếc mũ thuyền trưởng). Vai trò của chú chó trong mơ liên tục thay đổi. Trong vài giấc mơ, nó là Tux; ở những giấc khác, nó lại là Thuyền trưởng Captain Barksford nguyên bản. Có lúc nó hóa thành chú chó sục lông ráp sát cánh bên viên thám tử trong phim điện ảnh Peregrine. Có khi nó là chú chó Tommy nuôi thời thơ ấu, hoặc chú chó mà Bratty từng khao khát nhưng chưa bao giờ được sở hữu. Thậm chí có lần, nó lại là một chú chó sục Airedale tên Barry với bộ lông bết dính thứ chất nhầy màu xanh lá. Chú chó sắm vai thuyền trưởng, đẩy Bratty xuống làm thuyền phó, hoặc biến anh thành chính con thuyền, hay ngọn gió lướt qua biển rộng. Hoặc biết đâu, anh chỉ là một kẻ rong chơi đi theo ngắm cảnh. Đích đến là đâu? Chẳng ai hay biết, mà điều đó dường như cũng chẳng quan trọng, một khi anh đã có chú chó, con thuyền và đại dương. Bầu trời phía trên lúc thì đục mờ như sữa bởi muôn vàn vì sao, lúc lại hắt lên sắc vàng rạng rỡ của bình minh, hoặc phủ một màu tím hoa oải hương dịu nhẹ tựa khúc hát ru.</p>
+<p class="para-vi-sub">Bratty thì nằm bẹp trên chiếc ghế sofa, thiếp đi trong những giấc ngủ chập chờn vô định: hai tiếng buổi chiều, ba tiếng trước lúc bình minh. Chú chó lúc nào cũng trung thành nằm phục dưới chân anh. Và kỳ lạ thay, giấc ngủ nào anh cũng chỉ mơ thấy đúng một viễn cảnh: *Chú Chó, Con Thuyền, Biển Khơi Độc Nhất Vô Nhị*. Anh cùng chú chó lướt trên những ngọn sóng bạc (tất nhiên chú chó là người đội chiếc mũ thuyền trưởng). Vai trò của chú chó trong mơ liên tục thay đổi. Trong vài giấc mơ, nó là Tux; ở những giấc khác, nó lại là Thuyền trưởng Captain Barksford nguyên bản. Có lúc nó hóa thành chú chó sục lông ráp sát cánh bên viên thám tử trong phim điện ảnh *Peregrine*. Có khi nó là chú chó Tommy nuôi thời thơ ấu, hoặc chú chó mà Bratty từng khao khát nhưng chưa bao giờ được sở hữu. Thậm chí có lần, nó lại là một chú chó sục Airedale tên Barry với bộ lông bết dính thứ chất nhầy màu xanh lá. Chú chó sắm vai thuyền trưởng, đẩy Bratty xuống làm thuyền phó, hoặc biến anh thành chính con thuyền, hay ngọn gió lướt qua biển rộng. Hoặc biết đâu, anh chỉ là một kẻ rong chơi đi theo ngắm cảnh. Đích đến là đâu? Chẳng ai hay biết, mà điều đó dường như cũng chẳng quan trọng, một khi anh đã có chú chó, con thuyền và đại dương. Bầu trời phía trên lúc thì đục mờ như sữa bởi muôn vàn vì sao, lúc lại hắt lên sắc vàng rạng rỡ của bình minh, hoặc phủ một màu tím hoa oải hương dịu nhẹ tựa khúc hát ru.</p>
 
 <p class="para-en">There were no pirates in his dreams.</p>
 
@@ -22,7 +22,7 @@
 
 <p class="para-en">“How could there not be? Maybe you’re the pirate.”</p>
 
-<p class="para-vi-sub">“Sao lại không thể chứ? Mà khéo chính mày mới là tên cướp biển đấy.”</p>
+<p class="para-vi-sub">“Sao lại không thể chứ? Mà khéo chính *mày* mới là tên cướp biển đấy.”</p>
 
 <p class="para-en">“Do I look like a pirate?” Bratty said.</p>
 
@@ -62,43 +62,39 @@
 
 <p class="para-en">Tommy wrote a rap about Bradford the Flag Factory. He scribbled it out.</p>
 
-<p class="para-vi-sub">Tommy liền nảy ra ý tưởng viết một bài rap về Bradford Xưởng Cờ. Cậu hí hoáy đặt bút rồi lại gạch ngoáy đi.</p>
+<p class="para-vi-sub">Tommy liền nảy ra ý tưởng viết một bài rap về Bradford Xưởng Cờ. Cậu hí hoáy đặt bút rồi lại gạch ngoáy đi. ***Cậu ta là cỗ máy hình người***</p>
 
 <p class="para-en">He’s a human machine</p>
 
-<p class="para-vi-sub">Cậu ta là cỗ máy hình người</p>
+<p class="para-vi-sub">***Đáp ứng mọi nhu cầu cờ xí***</p>
 
 <p class="para-en">For all your flag needs</p>
 
-<p class="para-vi-sub">Đáp ứng mọi nhu cầu cờ xí</p>
+<p class="para-vi-sub">***Cùng muôn vàn giấc mơ cờ quạt***</p>
 
 <p class="para-en">And all your flag dreams</p>
 
-<p class="para-vi-sub">Cùng muôn vàn giấc mơ cờ quạt</p>
+<p class="para-vi-sub">***Phấp phới bay trong làn gió***</p>
 
 <p class="para-en">That be blowing in the breeze</p>
 
-<p class="para-vi-sub">Phấp phới bay trong làn gió</p>
+<p class="para-vi-sub">***Căng buồm giữa chốn biển khơi***</p>
 
 <p class="para-en">That be sailing the high seas</p>
 
-<p class="para-vi-sub">Căng buồm giữa chốn biển khơi</p>
+<p class="para-vi-sub">***Cậu ta chẳng phải kẻ tồi***</p>
 
-<p class="para-en">He’s no skeeze</p>
+<p class="para-en">He’s no skeeze He’s a man, a fatty, a friend</p>
 
-<p class="para-vi-sub">Cậu ta chẳng phải kẻ tồi</p>
-
-<p class="para-en">He’s a man, a fatty, a friend</p>
-
-<p class="para-vi-sub">Một người đàn ông, một chàng bự, một người bạn</p>
+<p class="para-vi-sub">***Một người đàn ông, một chàng bự, một người bạn***</p>
 
 <p class="para-en">No matter what the skies portend</p>
 
-<p class="para-vi-sub">Bất kể bầu trời báo trước điềm chi</p>
+<p class="para-vi-sub">***Bất kể bầu trời báo trước điềm chi***</p>
 
 <p class="para-en">Yo I’m with him till the end—</p>
 
-<p class="para-vi-sub">Yo tao sẽ bên cậu ấy đến tận cùng…</p>
+<p class="para-vi-sub">***Yo tao sẽ bên cậu ấy đến tận cùng…***</p>
 
 <p class="para-en">“Okay that’s dumb,” Tommy said after he rapped. “It’s a start.”</p>
 
@@ -114,7 +110,7 @@
 
 <p class="para-en">He kept going. This kept going. The raps. The beats. The conversations in between. Tommy pacing, rolling joints, spitting rhymes, refining, tasting the words in his mouth, as they melted, or sizzled, or spiked new sounds or wordplay that made him weep, or shout huzzah! and leap from the couch, over the dog, and for a midair moment Bratty thought he might land wrong and snap his ankle, and in his mind he heard the scream, saw the pain, observed this other reality, plans foiled by a broken leg, him pushing stoned sullen Tommy around in a wheelchair, them fighting and failing to find music in the wake of this setback.</p>
 
-<p class="para-vi-sub">“Thế thì tiếp tục đi chứ.” Thế là cậu tiếp tục. Mọi thứ cứ thế cuốn đi. Những câu rap. Những đoạn beat. Những mẩu đối thoại chêm xen giữa chừng. Tommy sải bước quanh phòng, vừa cuốn cần sa vừa nhả từng vần điệu, gọt giũa và nhấm nháp từng con chữ trong miệng khi chúng tan chảy, xèo xèo bốc khói, hoặc giải phóng những âm thanh mới mẻ cùng các lối chơi chữ vi diệu đến mức khiến cậu phải rơi lệ. Rồi cậu hét toáng lên huzzah! và phóng mình khỏi ghế sofa, nhảy vọt qua người chú chó. Trong một khoảnh khắc lơ lửng giữa không trung, Bratty đã thót tim vì ngỡ cậu sẽ đáp đất sai tư thế rồi trẹo mắt cá chân. Trong tâm trí, anh như nghe thấy tiếng thét đau đớn, mường tượng ra hẳn một thực tại song song khác: mọi kế hoạch đổ bể tan tành chỉ vì một cái chân gãy, cảnh anh phải lụi hụi đẩy chiếc xe lăn chở một Tommy ủ rũ vì phê thuốc đi lòng vòng, hai đứa cãi vã triền miên và chẳng bao giờ tìm lại được cảm hứng sáng tác sau cú vấp ngã bẽ bàng ấy.</p>
+<p class="para-vi-sub">“Thế thì tiếp tục đi chứ.” Thế là cậu tiếp tục. Mọi thứ cứ thế cuốn đi. Những câu rap. Những đoạn beat. Những mẩu đối thoại chêm xen giữa chừng. Tommy sải bước quanh phòng, vừa cuốn cần sa vừa nhả từng vần điệu, gọt giũa và nhấm nháp từng con chữ trong miệng khi chúng tan chảy, xèo xèo bốc khói, hoặc giải phóng những âm thanh mới mẻ cùng các lối chơi chữ vi diệu đến mức khiến cậu phải rơi lệ. Rồi cậu hét toáng lên *huzzah!* và phóng mình khỏi ghế sofa, nhảy vọt qua người chú chó. Trong một khoảnh khắc lơ lửng giữa không trung, Bratty đã thót tim vì ngỡ cậu sẽ đáp đất sai tư thế rồi trẹo mắt cá chân. Trong tâm trí, anh như nghe thấy tiếng thét đau đớn, mường tượng ra hẳn một thực tại song song khác: mọi kế hoạch đổ bể tan tành chỉ vì một cái chân gãy, cảnh anh phải lụi hụi đẩy chiếc xe lăn chở một Tommy ủ rũ vì phê thuốc đi lòng vòng, hai đứa cãi vã triền miên và chẳng bao giờ tìm lại được cảm hứng sáng tác sau cú vấp ngã bẽ bàng ấy.</p>
 
 <p class="para-en">But it didn’t happen like that.</p>
 
@@ -122,7 +118,7 @@
 
 <p class="para-en">Tommy landed flat on his feet. He stopped. He stared at Bratty. He had a look on his face like, WTF, bro? What was that? Like he too had glimpsed behind some curtain that was supposed to be opaque, according to everyone everywhere, but nope. It was flimsy. Fragile. Translucent. Thinner than the wing of a dragonfly.</p>
 
-<p class="para-vi-sub">Tommy tiếp đất an toàn bằng cả hai bàn chân. Cậu đứng khựng lại, trố mắt nhìn Bratty với vẻ mặt như muốn hỏi: Cái quái gì thế mày? Thứ đó là cái quái gì vậy? Cứ như thể cậu cũng vừa nhìn trộm ra đằng sau tấm màn nhung vốn được người ta đồn đại là mờ đục và kiên cố, nhưng hóa ra lại hoàn toàn không phải. Tấm màn ấy mỏng manh, giòn rụm, thấu quang, còn mỏng hơn cả cánh chuồn chuồn.</p>
+<p class="para-vi-sub">Tommy tiếp đất an toàn bằng cả hai bàn chân. Cậu đứng khựng lại, trố mắt nhìn Bratty với vẻ mặt như muốn hỏi: *Cái quái gì thế mày?* *Thứ đó là cái quái gì vậy?* Cứ như thể cậu cũng vừa nhìn trộm ra đằng sau tấm màn nhung vốn được người ta đồn đại là mờ đục và kiên cố, nhưng hóa ra lại hoàn toàn không phải. Tấm màn ấy mỏng manh, giòn rụm, thấu quang, còn mỏng hơn cả cánh chuồn chuồn.</p>
 
 <p class="para-en">Bratty didn’t know what to say then. He was a man—or would be, later, when he grew into himself—who thought things through. Who deliberated and produced. That would come later.</p>
 
@@ -162,7 +158,7 @@
 
 <p class="para-en">Right then, he heard a click. A flutter. A tap-tap-tap.</p>
 
-<p class="para-vi-sub">Đúng lúc đó, anh nghe thấy một tiếng lách cách. Tiếng đập cánh vỗ phè phạch. Và một âm thanh cộc, cộc, cộc.</p>
+<p class="para-vi-sub">Đúng lúc đó, anh nghe thấy một tiếng lách cách. Tiếng đập cánh vỗ phè phạch. Và một âm thanh *cộc, cộc, cộc.*</p>
 
 <p class="para-en">“What was that?” Tommy asked.</p>
 
@@ -178,7 +174,7 @@
 
 <p class="para-en">Tap-tap-tap.</p>
 
-<p class="para-vi-sub">Cộc, cộc, cộc.</p>
+<p class="para-vi-sub">*Cộc, cộc, cộc.*</p>
 
 <p class="para-en">“It’s not nothing,” Tommy said. “It’s outside. There’s something outside.”</p>
 
@@ -202,7 +198,7 @@
 
 <p class="para-en">Tommy opened the door. He walked outside, into a bland apartment-scape courtyard. He laughed. “Ha! Bratty! Come out here! You gotta see this!”</p>
 
-<p class="para-vi-sub">“Này, thôi…” Cộc, cộc, cộc. Tommy mở toang cánh cửa, bước ra khoảng sân tẻ nhạt của khu chung cư. Cậu bật cười khoái chí: “Ha! Bratty! Ra đây mà xem! Mày nhất định phải tận mắt thấy cái này!”</p>
+<p class="para-vi-sub">“Này, thôi…” *Cộc, cộc, cộc.* Tommy mở toang cánh cửa, bước ra khoảng sân tẻ nhạt của khu chung cư. Cậu bật cười khoái chí: “Ha! Bratty! Ra đây mà xem! Mày nhất định phải tận mắt thấy cái này!”</p>
 
 <p class="para-en">Slowly, stoned-AF Bratty and his mystery dog crept outside, into the setting of an Alfred Hitchcock film.</p>
 
@@ -246,7 +242,7 @@
 
 <p class="para-en">And Bratty heard the beat. In his head. The beat to the song he would write that night. He knew how it felt. Full and free. On the tenth night (or eleventh, or twelfth) (who was counting?) (they lost track), they had an album recorded on Bratty’s laptop. They sat at the table, the dog spread on the floor beneath them. Tommy popped the top on a bottle of malt liquor. He poured two mugs.</p>
 
-<p class="para-vi-sub">Cốc. Cốc. Cốc cốc cốc cốc. Và Bratty lắng nghe nhịp điệu ấy. Nó vang vọng ngay trong tâm trí anh, mở ra giai điệu cho bản phối mà anh sẽ sáng tác đêm nay. Anh cảm nhận rõ ràng sự trọn vẹn của khoảnh khắc đó. Đầy đặn và tự do vô ngần. Đến đêm thứ mười (hoặc thứ mười một, hay thứ mười hai) (mà thôi, ai hơi đâu đếm làm gì) (bởi họ đã đánh mất hoàn toàn khái niệm thời gian), họ đã hoàn thành cả một album thu âm gói gọn trong chiếc máy tính xách tay của Bratty. Hai người ngồi bên bàn ăn, chú chó Tux nằm xoạc dài trên sàn nhà dưới chân họ. Tommy bật nắp chai rượu mạch nha, rót đầy hai chiếc cốc vại.</p>
+<p class="para-vi-sub">*Cốc. Cốc. Cốc cốc cốc cốc.* Và Bratty lắng nghe nhịp điệu ấy. Nó vang vọng ngay trong tâm trí anh, mở ra giai điệu cho bản phối mà anh sẽ sáng tác đêm nay. Anh cảm nhận rõ ràng sự trọn vẹn của khoảnh khắc đó. Đầy đặn và tự do vô ngần. Đến đêm thứ mười (hoặc thứ mười một, hay thứ mười hai) (mà thôi, ai hơi đâu đếm làm gì) (bởi họ đã đánh mất hoàn toàn khái niệm thời gian), họ đã hoàn thành cả một album thu âm gói gọn trong chiếc máy tính xách tay của Bratty. Hai người ngồi bên bàn ăn, chú chó Tux nằm xoạc dài trên sàn nhà dưới chân họ. Tommy bật nắp chai rượu mạch nha, rót đầy hai chiếc cốc vại.</p>
 
 <p class="para-en">“A toast. To us.”</p>
 
@@ -270,7 +266,7 @@
 
 <p class="para-en">Bratty felt fairly certain that it was it, whatever it was. “Dude—No, dude.”</p>
 
-<p class="para-vi-sub">Bratty thì lại cảm thấy khá chắc chắn rằng bản nhạc này chính là thứ họ cần tìm, dẫu thứ đó có là gì đi chăng nữa. “Bạn hiền ơi… Không phải đâu.”</p>
+<p class="para-vi-sub">Bratty thì lại cảm thấy khá chắc chắn rằng bản nhạc này *chính là* thứ họ cần tìm, dẫu thứ đó có là gì đi chăng nữa. “Bạn hiền ơi… Không phải đâu.”</p>
 
 <p class="para-en">“No, I mean…it’s there,” Tommy clarified. “The music is there. But the sound.”</p>
 
@@ -302,7 +298,7 @@
 
 <p class="para-en">“Yo, he was sooo pissed when I moved out here. I can’t give him the satisfaction.” “So pride wins out.”</p>
 
-<p class="para-vi-sub">“Thôi đi, ông già tao đã cay cú kinh khủng lúc tao dọn ra ngoài này rồi. Tao không đời nào cho ông ấy cái cảm giác đắc thắng đó đâu.”</p>
+<p class="para-vi-sub">“Thôi đi, ông già tao đã *cay cú kinh khủng* lúc tao dọn ra ngoài này rồi. Tao không đời nào cho ông ấy cái cảm giác đắc thắng đó đâu.”</p>
 
 <p class="para-en">“Whatever, you could ask your dad,” Tommy said.</p>
 
@@ -338,7 +334,7 @@
 
 <p class="para-en">If the older Mr. Pierson had a list of All the Dumb-Ass Things My Kid and His Friend Have Done, selling Tommy’s car to pay recording studio fees, when you could just be a responsible adult and go to business school and forget music altogether (except if you found a way to exploit music, from the business end [hello, concert ticket fees]), would be at the top of that list. Until wayward Bradford found a way to top it, which he inevitably would.</p>
 
-<p class="para-vi-sub">Nếu ông Pierson có một danh sách mang tên Toàn bộ những trò ngu xuẩn con trai tôi và bạn nó từng làm, thì việc Tommy bán xe lấy tiền trả phí phòng thu - trong khi đáng lẽ cậu ta hoàn toàn có thể trở thành một người trưởng thành có trách nhiệm, đi học trường kinh doanh và quên khuấy cái trò âm nhạc đi (trừ phi bạn tìm ra cách bòn rút tiền từ âm nhạc dưới góc độ kinh doanh [chào thân ái, các khoản phụ phí vé hòa nhạc]) - hẳn sẽ chễm chệ ngay đầu danh sách đó. Ít nhất là cho đến khi đứa con ngỗ nghịch Bradford tìm ra trò khác ngu xuẩn hơn để vượt mặt nó, mà điều này thì chắc chắn anh sẽ làm được.</p>
+<p class="para-vi-sub">Nếu ông Pierson có một danh sách mang tên *Toàn bộ những trò ngu xuẩn con trai tôi và bạn nó từng làm*, thì việc Tommy bán xe lấy tiền trả phí phòng thu - trong khi đáng lẽ cậu ta hoàn toàn có thể trở thành một người trưởng thành có trách nhiệm, đi học trường kinh doanh và quên khuấy cái trò âm nhạc đi (trừ phi bạn tìm ra cách bòn rút tiền từ âm nhạc dưới góc độ kinh doanh [*chào thân ái, các khoản phụ phí vé hòa nhạc*]) - hẳn sẽ chễm chệ ngay đầu danh sách đó. Ít nhất là cho đến khi đứa con ngỗ nghịch Bradford tìm ra trò khác ngu xuẩn hơn để vượt mặt nó, mà điều này thì chắc chắn anh sẽ làm được.</p>
 
 <p class="para-en">But this wasn’t a rational time﻿line.</p>
 
@@ -346,7 +342,7 @@
 
 <p class="para-en">Art didn’t happen because of prudent choices. It happened because you had a dream or a vision or an itch and you scratched and scratched so hard that you tore your skin open and art poured out. It happened because, as Tommy explained it, with a sweep of his arms and an unfurling of hands: Kablam! Your head explodes with art! It happened because you had something to say, something to mourn or ponder or praise, and regular words didn’t do it justice. It happened because there wasn’t justice in the universe, but with a verse or a note or a brushstroke, the world could be remade into a better version of itself, with more color, more glitter, more bass line.</p>
 
-<p class="para-vi-sub">Nghệ thuật đâu sinh ra từ những lựa chọn thận trọng. Nó nảy sinh khi bạn có một giấc mơ, một viễn cảnh, hay một cơn ngứa ngáy, rồi bạn cứ cào, cào dữ dội đến mức rách cả da thịt để nghệ thuật tuôn trào. Nó xảy ra đơn giản vì, như Tommy từng vung tay múa chân giải thích: Bùm chíu! Đầu mày nổ tung thành nghệ thuật! Nó xảy ra vì bạn có điều muốn cất lời, có điều cần tiếc thương, suy ngẫm hay ngợi ca, mà những từ ngữ tầm thường chẳng tài nào lột tả trọn vẹn. Nó xảy ra vì vũ trụ này vốn dĩ chẳng chút công bằng, nhưng chỉ cần một câu thơ, một nốt nhạc hay một nét cọ, thế giới này lập tức có thể được nhào nặn lại thành một phiên bản tuyệt vời hơn: rực rỡ hơn, lấp lánh hơn, và dồi dào dải âm bass hơn.</p>
+<p class="para-vi-sub">Nghệ thuật đâu sinh ra từ những lựa chọn thận trọng. Nó nảy sinh khi bạn có một giấc mơ, một viễn cảnh, hay một cơn ngứa ngáy, rồi bạn cứ cào, cào dữ dội đến mức rách cả da thịt để nghệ thuật tuôn trào. Nó xảy ra đơn giản vì, như Tommy từng vung tay múa chân giải thích: *Bùm chíu! Đầu mày nổ tung thành nghệ thuật!* Nó xảy ra vì bạn có điều muốn cất lời, có điều cần tiếc thương, suy ngẫm hay ngợi ca, mà những từ ngữ tầm thường chẳng tài nào lột tả trọn vẹn. Nó xảy ra vì vũ trụ này vốn dĩ chẳng chút công bằng, nhưng chỉ cần một câu thơ, một nốt nhạc hay một nét cọ, thế giới này lập tức có thể được nhào nặn lại thành một phiên bản tuyệt vời hơn: rực rỡ hơn, lấp lánh hơn, và dồi dào dải âm bass hơn.</p>
 
 <p class="para-en">It happened that the guy who knew the guy who knew Tommy was awake in the middle of the night, and there was a cancelation, and tomorrow night was theirs if they wanted.</p>
 
@@ -438,11 +434,11 @@
 
 <p class="para-en">“We need a name, you mean.”</p>
 
-<p class="para-vi-sub">“Ý mày là chúng mình cần một cái tên chứ gì.”</p>
+<p class="para-vi-sub">“Ý mày là *chúng mình* cần một cái tên chứ gì.”</p>
 
 <p class="para-en">“No, you. You’re the rapper. You’re the front man. I’m just beats. I’m behind the curtain.”</p>
 
-<p class="para-vi-sub">“Không, mày cơ. Mày là rapper. Mày là người dẫn dắt linh hồn ban nhạc. Tao chỉ tạo beat thôi. Tao đứng sau cánh gà.”</p>
+<p class="para-vi-sub">“Không, *mày* cơ. Mày là rapper. Mày là người dẫn dắt linh hồn ban nhạc. Tao chỉ tạo beat thôi. Tao đứng sau cánh gà.”</p>
 
 <p class="para-en">“Is that what you want?”</p>
 

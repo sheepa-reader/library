@@ -1,8 +1,8 @@
-# ĐÔNG CHÍ - BRADFORD VÀ CHÚ CHÓ
+# ĐÔNG CHÍ
 
 <p class="para-en">MAYBE THIS RANDOM DOG was why he dreamed of the dog. Him and the dog on a boat, waves sloshing all around them, water the color of a blue raspberry slushy. A pod of dolphins swam alongside the boat, except the dolphins were also dogs. Dogphins. A man rode one of the dogphins. He wore a denim jumpsuit and a fat gold chain. He waved and said, We’re making it stronger! The Dream Dog gave a thumbs-up﻿, even though he didn’t have thumbs. The Dream Dog wore a captain’s hat.</p>
 
-<p class="para-vi-sub">CÓ LẼ CHÚ CHÓ TỪ TRÊN TRỜI RƠI XUỐNG NÀY chính là lý do khiến anh nằm mơ thấy một con chó. Trong mơ, anh cùng chú chó lênh đênh trên một con thuyền, sóng nước vỗ bì bõm xung quanh, mặt nước mang màu xanh ngắt như món đá bào siro mâm xôi xanh. Một đàn cá heo bơi lội tung tăng bên mạn thuyền, có điều bầy cá heo đó lại là những chú chó. Chó heo. Một người đàn ông cưỡi trên lưng một trong những con chó heo ấy. Gã diện bộ jumpsuit bò kèm một sợi dây chuyền vàng to bản. Gã vẫy tay rồi cất tiếng: Chúng ta đang làm cho nó mạnh mẽ hơn đấy! Chú Chó Trong Mơ giơ ngón tay cái lên làm dấu tán thành, dẫu cho loài chó vốn dĩ chẳng hề có ngón cái. Chú Chó Trong Mơ đội một chiếc mũ thuyền trưởng.</p>
+<p class="para-vi-sub">**CÓ LẼ CHÚ CHÓ TỪ TRÊN TRỜI RƠI XUỐNG NÀY** chính là lý do khiến anh nằm mơ thấy một con chó. Trong mơ, anh cùng chú chó lênh đênh trên một con thuyền, sóng nước vỗ bì bõm xung quanh, mặt nước mang màu xanh ngắt như món đá bào siro mâm xôi xanh. Một đàn cá heo bơi lội tung tăng bên mạn thuyền, có điều bầy cá heo đó lại là những chú chó. Chó heo. Một người đàn ông cưỡi trên lưng một trong những con chó heo ấy. Gã diện bộ jumpsuit bò kèm một sợi dây chuyền vàng to bản. Gã vẫy tay rồi cất tiếng: *Chúng ta đang làm cho nó mạnh mẽ hơn đấy!* Chú Chó Trong Mơ giơ ngón tay cái lên làm dấu tán thành, dẫu cho loài chó vốn dĩ chẳng hề có ngón cái. Chú Chó Trong Mơ đội một chiếc mũ thuyền trưởng.</p>
 
 <p class="para-en">Bradford had seen this dog before. This dog got to captain his own ship. The dog decided when to set sail. Which port. What they ate next. No one said, C’mere,﻿ boy. Roll over. No one said he had to be a Good Dog.</p>
 
@@ -30,11 +30,11 @@
 
 <p class="para-en">“What the fuck.”</p>
 
-<p class="para-vi-sub">“Cái quái gì thế này.”</p>
+<p class="para-vi-sub">“Cái *quái* gì thế này.”</p>
 
 <p class="para-en">The dog’s tongue slopped out. The dog’s bright pink tongue had two black spots, and later he would name these spots Zoey and Ernestina. But right now, the spots were both called: What the fuck.</p>
 
-<p class="para-vi-sub">Chiếc lưỡi của chú chó thè lè ra ngoài. Cái lưỡi màu hồng rực của nó có hai đốm đen, mà mãi sau này anh mới đặt tên cho hai đốm ấy là Zoey và Ernestina. Nhưng ngay lúc này đây, cả hai đốm đen đó đều mang chung một cái tên: Cái quái gì thế này.</p>
+<p class="para-vi-sub">Chiếc lưỡi của chú chó thè lè ra ngoài. Cái lưỡi màu hồng rực của nó có hai đốm đen, mà mãi sau này anh mới đặt tên cho hai đốm ấy là Zoey và Ernestina. Nhưng ngay lúc này đây, cả hai đốm đen đó đều mang chung một cái tên: *Cái quái gì thế này.*</p>
 
 <p class="para-en">The dog was a pit bull type. A full﻿-bred pit bull? Unknown. Bradford hadn’t majored in dogs at Canine Academy. It had the stocky bod of a pit. The I-will-crush-you jaw. Floppy triangle ears. Its fur was sleek, dark brown with a white tuxedo.</p>
 
@@ -50,7 +50,7 @@
 
 <p class="para-en">In case the sign wasn’t clear enough, the month-to-month lease that Bradford had signed in exchange for a key to that craptacular apartment said No Pets in at least two places and then went on to specify all the animals a pet might be. He couldn’t even have a fish or a hamster.</p>
 
-<p class="para-vi-sub">CẤM HÚT THUỐC, CẤM THÚ CƯNG Phòng hờ tấm biển kia chưa đủ rõ ràng, bản hợp đồng thuê nhà theo từng tháng mà Bradford ký để đổi lấy chiếc chìa khóa vào cái căn hộ tồi tàn đến nực cười đó còn ghi rõ cụm từ Không Thú Cưng ở ít nhất hai chỗ, rồi còn tỉ mẩn liệt kê cặn kẽ mọi giống loài có khả năng bị coi là thú cưng. Anh thậm chí còn chẳng được phép nuôi một con cá vàng hay một con chuột hamster.</p>
+<p class="para-vi-sub">**CẤM HÚT THUỐC, CẤM THÚ CƯNG** Phòng hờ tấm biển kia chưa đủ rõ ràng, bản hợp đồng thuê nhà theo từng tháng mà Bradford ký để đổi lấy chiếc chìa khóa vào cái căn hộ tồi tàn đến nực cười đó còn ghi rõ cụm từ *Không Thú Cưng* ở ít nhất hai chỗ, rồi còn tỉ mẩn liệt kê cặn kẽ mọi giống loài có khả năng bị coi là thú cưng. Anh thậm chí còn chẳng được phép nuôi một con cá vàng hay một con chuột hamster.</p>
 
 <p class="para-en">Ironic, given the building had rats in the basement and cockroaches in the walls.</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">But Rules were Rules. Just like his dad always said. Son, the Rules are the Rules. You can’t just pick up your golf ball and drop it in the hole.</p>
 
-<p class="para-vi-sub">Nhưng Quy Tắc là Quy Tắc. Y hệt như câu cửa miệng của bố anh: Con trai à, quy tắc là quy tắc. Con không thể cứ thế nhặt quả bóng golf lên rồi thả tọt vào lỗ được đâu.</p>
+<p class="para-vi-sub">Nhưng Quy Tắc là Quy Tắc. Y hệt như câu cửa miệng của bố anh: *Con trai à, quy tắc là quy tắc. Con không thể cứ thế nhặt quả bóng golf lên rồi thả tọt vào lỗ được đâu.*</p>
 
 <p class="para-en">Bradford had tried to tune out the Dad Platitudes and get on with his life, and yeah, maybe in his heart he’d always wanted a dog, but he didn’t have the cash to feed a dog or deflea a dog or get the bones and treats that a dog deserved.</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-en">This Random Dog seemed to disagree. It stared at him like, You know you want to feed me now. Let’s take a walk. I know I’m a good dog, so you don’t need to say it.</p>
 
-<p class="para-vi-sub">Con chó lạ dường như chẳng hề bận tâm. Nó nhìn chằm chằm vào anh như muốn bảo, Mày biết thừa là mày muốn cho tao ăn ngay bây giờ rồi còn gì. Đi dạo nào. Tao biết thừa tao là một chú chó ngoan, nên mày chẳng cần phải khen đâu.</p>
+<p class="para-vi-sub">Con chó lạ dường như chẳng hề bận tâm. Nó nhìn chằm chằm vào anh như muốn bảo, *Mày biết thừa là mày muốn cho tao ăn ngay bây giờ rồi còn gì. Đi dạo nào. Tao biết thừa tao là một chú chó ngoan, nên mày chẳng cần phải khen đâu.*</p>
 
 <p class="para-en">It stared at him like it knew him well, and why was he getting so weird about their morning routine?</p>
 
@@ -86,7 +86,7 @@
 
 <p class="para-en">“Dude. Dude, stop. You’re freaking me out.”</p>
 
-<p class="para-vi-sub">“Này ông bạn. Này, dừng lại đi. Mày đang làm tao rợn cả người đấy.”</p>
+<p class="para-vi-sub">“Này ông bạn. *Này*, dừng lại đi. Mày đang làm tao rợn cả người đấy.”</p>
 
 <p class="para-en">He turned on the faucet. It gurgled out some brown water for a minute before turning clear. He filled a glass, drank. The dog sat. It stared up at him.</p>
 
@@ -142,11 +142,11 @@
 
 <p class="para-en">“Hey, you!” He turned to the dog. “Yeah, you. You better not get on my bed. That’s my bed. Capisce?”</p>
 
-<p class="para-vi-sub">“Này, mày kia!” Anh quay ngoắt lại trừng mắt nhìn chú chó. “Ừ, chính mày đấy. Khôn hồn thì đừng có trèo lên giường của tao. Đó là giường của tao. Hiểu chưa?”</p>
+<p class="para-vi-sub">“Này, mày kia!” Anh quay ngoắt lại trừng mắt nhìn chú chó. “Ừ, chính mày đấy. Khôn hồn thì đừng có trèo lên giường của tao. Đó là giường của *tao*. Hiểu chưa?”</p>
 
 <p class="para-en">Bradford had paid for the bed himself. He had moved to the dorm from his parents’ house. He hadn’t asked for his parents’ help, because he was doing this himself. Whatever this happened to be. He didn’t want their strings. Their guilt. Their disdain.</p>
 
-<p class="para-vi-sub">Bradford đã tự bỏ tiền túi ra mua chiếc giường đó. Anh chuyển từ dinh thự của bố mẹ đến phòng ký túc xá. Anh chẳng buồn xin lấy nửa lời trợ giúp từ bố mẹ, bởi anh muốn tự mình làm điều này (dù điều này rốt cuộc có là cái quái gì đi chăng nữa). Anh không muốn vướng vào những sợi dây ràng buộc của họ, không muốn tiếp tục gánh lấy mặc cảm tội lỗi hay sự khinh miệt từ gia đình.</p>
+<p class="para-vi-sub">Bradford đã tự bỏ tiền túi ra mua chiếc giường đó. Anh chuyển từ dinh thự của bố mẹ đến phòng ký túc xá. Anh chẳng buồn xin lấy nửa lời trợ giúp từ bố mẹ, bởi anh muốn tự mình làm điều này (dù *điều này* rốt cuộc có là cái quái gì đi chăng nữa). Anh không muốn vướng vào những sợi dây ràng buộc của họ, không muốn tiếp tục gánh lấy mặc cảm tội lỗi hay sự khinh miệt từ gia đình.</p>
 
 <p class="para-en">He had, as a child, wanted a dog. He drew a picture of said dog on the front of his letter to Santa. He was nine. He had, he thought, been good enough at least, despite what anyone said. He had good grades and washed his dishes and made his bed. He didn’t set fire to ants with a magnifying glass or pour salt on the garden slugs for fun.</p>
 
@@ -170,7 +170,7 @@
 
 <p class="para-en">He didn’t own a leash because he didn’t own a dog. But whoever this shitty apartment belonged to—not him—had dog food, so maybe they had a leash, too.</p>
 
-<p class="para-vi-sub">Anh chẳng hề có sẵn dây xích vì bản thân đâu có nuôi chó bao giờ. Nhưng bất kể kẻ nào là chủ nhân thực sự của căn hộ tồi tàn này (chắc chắn không phải anh), nếu họ đã chu đáo để lại thức ăn cho chó, thì có lẽ họ cũng để lại một sợi dây dắt.</p>
+<p class="para-vi-sub">Anh chẳng hề có sẵn dây xích vì bản thân đâu có nuôi chó bao giờ. Nhưng bất kể kẻ nào là chủ nhân thực sự của căn hộ tồi tàn này (*chắc chắn không phải anh*), nếu họ đã chu đáo để lại thức ăn cho chó, thì có lẽ họ cũng để lại một sợi dây dắt.</p>
 
 <p class="para-en">Oh, damn. They did.</p>
 
@@ -190,7 +190,7 @@
 
 <p class="para-en">In his closet, he found an old hiking backpack that looked big enough to fit a pit bull–type dog. He picked up the dog. He slid the dog, hind legs first, into the backpack. This Random Dog didn’t struggle. It hung limp, like it knew how this worked. Like it rode in this backpack all the time.</p>
 
-<p class="para-vi-sub">Lục lọi trong tủ quần áo, anh tìm thấy một chiếc ba lô leo núi cũ kỹ trông đủ rộng để nhét vừa một chú chó pitbull. Bradford cúi xuống bế bổng nó lên. Anh cẩn thận nhét nó vào ba lô, đưa hai chân sau vào trước. Chú Chó Ngẫu Nhiên này lạ lùng thay lại chẳng thèm giãy giụa lấy nửa nhịp. Nó buông thõng người mềm oặt, ngoan ngoãn như thể đã quá quen với ngón nghề này. Cứ như thể nó vẫn thường xuyên ngồi trong chiếc ba lô này suốt ngày suốt tháng vậy.</p>
+<p class="para-vi-sub">Lục lọi trong tủ quần áo, anh tìm thấy một chiếc ba lô leo núi cũ kỹ trông đủ rộng để nhét vừa một chú chó pitbull. Bradford cúi xuống bế bổng nó lên. Anh cẩn thận nhét nó vào ba lô, đưa hai chân sau vào trước. Chú Chó Ngẫu Nhiên này lạ lùng thay lại chẳng thèm giãy giụa lấy nửa nhịp. Nó buông thõng người mềm oặt, ngoan ngoãn như thể đã quá quen với ngón nghề này. Cứ như thể nó vẫn thường xuyên ngồi trong chiếc ba lô này *suốt ngày suốt tháng* vậy.</p>
 
 <p class="para-en">Bradford buckled the top, leaving a gap for the eyes and snout to peek out. He put the backpack on.</p>
 
@@ -206,7 +206,7 @@
 
 <p class="para-en">He put on his coat, shoes, and hat. He checked his pants pockets. His phone and wallet were both still there, where he had left them. He checked his phone: 2:19 p.m., December 21.</p>
 
-<p class="para-vi-sub">Anh mặc áo khoác ấm, xỏ giày cẩn thận và đội mũ len lên đầu. Anh vỗ vỗ kiểm tra lại các túi quần. Cả điện thoại lẫn ví tiền vẫn nằm nguyên ở đó, đúng vị trí anh đã để. Anh liếc nhìn màn hình điện thoại: 2 giờ 19 phút chiều, ngày 21 tháng Mười Hai.</p>
+<p class="para-vi-sub">Anh mặc áo khoác ấm, xỏ giày cẩn thận và đội mũ len lên đầu. Anh vỗ vỗ kiểm tra lại các túi quần. Cả điện thoại lẫn ví tiền vẫn nằm nguyên ở đó, đúng vị trí anh đã để. Anh liếc nhìn màn hình điện thoại: *2 giờ 19 phút chiều, ngày 21 tháng Mười Hai.*</p>
 
 <p class="para-en">He had not jumped forward in time to a magic, dog-filled future, so far as he knew.</p>
 
@@ -214,7 +214,7 @@
 
 <p class="para-en">Bradford strapped on the dog-backpack. He stepped out the window, onto the fire escape. He climbed down the ladder, one floor, two floors, ready for each rusty step to crack beneath his weight, which was, his dad said, not appropriate for a man his size. This was a generous translation of Helena Pierson’s words: Grotesque, his stepmom had said. Not to his face, but in earshot. Disgustingly fat.</p>
 
-<p class="para-vi-sub">Bradford đeo chiếc ba lô đựng chó lên lưng. Anh trèo qua bậu cửa sổ, đặt chân lên chiếu nghỉ của thang thoát hiểm bằng kim loại. Anh thận trọng lần mò xuống từng bậc thang ọp ẹp, một tầng, rồi hai tầng, trong lòng nơm nớp chuẩn bị tinh thần cho việc từng thanh sắt hoen gỉ sẽ kêu rắc một tiếng rồi gãy vụn dưới sức nặng của mình. Đó là mức cân nặng mà theo lời bố anh nhận xét thì chẳng hề thích hợp đối với một người đàn ông có tầm vóc như anh chút nào. Dù sao thì, cách diễn đạt ấy vẫn còn là một sự dịch thuật đầy rộng lượng và lịch thiệp chán so với những lời lẽ cay nghiệt thường ngày của bà Helena Pierson. Kỳ quặc dị hợm, mẹ kế anh từng bĩu môi phán thế. Dĩ nhiên bà ta chẳng dại gì nói thẳng vào mặt anh, nhưng luôn cố tình nói thật to trong tầm tai anh nghe thấy: Béo đến phát tởm.</p>
+<p class="para-vi-sub">Bradford đeo chiếc ba lô đựng chó lên lưng. Anh trèo qua bậu cửa sổ, đặt chân lên chiếu nghỉ của thang thoát hiểm bằng kim loại. Anh thận trọng lần mò xuống từng bậc thang ọp ẹp, một tầng, rồi hai tầng, trong lòng nơm nớp chuẩn bị tinh thần cho việc từng thanh sắt hoen gỉ sẽ kêu rắc một tiếng rồi gãy vụn dưới sức nặng của mình. Đó là mức cân nặng mà theo lời bố anh nhận xét thì *chẳng hề thích hợp đối với một người đàn ông có tầm vóc như anh chút nào*. Dù sao thì, cách diễn đạt ấy vẫn còn là một sự dịch thuật đầy rộng lượng và lịch thiệp chán so với những lời lẽ cay nghiệt thường ngày của bà Helena Pierson. *Kỳ quặc dị hợm*, mẹ kế anh từng bĩu môi phán thế. Dĩ nhiên bà ta chẳng dại gì nói thẳng vào mặt anh, nhưng luôn cố tình nói thật to trong tầm tai anh nghe thấy: *Béo đến phát tởm.*</p>
 
 <p class="para-en">Yeah, but no. He was not. He straddled the line between standard-fat and chubby. Big-boned. Impressively boned, Tommy had said once.</p>
 
@@ -326,7 +326,7 @@
 
 <p class="para-en">Bratty rubbed the nice boy’s head. The receptionist looked him up in Big Brother’s National Doggie Database, or whatever it was called. Bratty looked at the TV in the waiting room. It played an old western, one of his dad’s favorites. Shotgun Solstice, starring Ricardo Merman. Bratty shivered.</p>
 
-<p class="para-vi-sub">Bratty xoa đầu cậu nhóc ngoan ngoãn. Cô lễ tân tra cứu thông tin của nó trong Cơ sở Dữ liệu Chó cưng Quốc gia của Đại Huynh, hay bất cứ cái tên chết tiệt nào tương tự thế. Bratty ngước nhìn chiếc ti vi trong phòng chờ. Trên màn hình đang chiếu một bộ phim viễn tây cũ, một trong những tác phẩm yêu thích của bố anh: Shotgun Solstice, với sự tham gia của diễn viên Ricardo Merman. Bratty khẽ rùng mình.</p>
+<p class="para-vi-sub">Bratty xoa đầu cậu nhóc ngoan ngoãn. Cô lễ tân tra cứu thông tin của nó trong Cơ sở Dữ liệu Chó cưng Quốc gia của Đại Huynh, hay bất cứ cái tên chết tiệt nào tương tự thế. Bratty ngước nhìn chiếc ti vi trong phòng chờ. Trên màn hình đang chiếu một bộ phim viễn tây cũ, một trong những tác phẩm yêu thích của bố anh: *Shotgun Solstice*, với sự tham gia của diễn viên Ricardo Merman. Bratty khẽ rùng mình.</p>
 
 <p class="para-en">“There he is,” the receptionist said. “Looks like he lives less than a mile from here. It says his owner is Bradford Pierson. Should I—”</p>
 
@@ -370,7 +370,7 @@
 
 <p class="para-en">“I…I’m Bradford Pierson.”</p>
 
-<p class="para-vi-sub">“Tôi… Tôi chính là Bradford Pierson.”</p>
+<p class="para-vi-sub">“Tôi… *Tôi* chính là Bradford Pierson.”</p>
 
 <p class="para-en">“Oh.” She frowned. Like here was this crazy dude who’d forgotten his own dog. Here was this jerk, trying to abandon his dog. Right before Christmas.</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-en">“Wait, I’m not crazy, I swear,” he said, even though he might be. “I’m not a jerk. I’m not trying to leave him here, I just really don’t remember owning this dog. Or any dog. But if he was my dog, if I found a dog or something, I probably would have brought him here. Would you mind checking to see if maybe this dog has been here before?”</p>
 
-<p class="para-vi-sub">“Khoan đã, tôi không bị điên đâu, tôi thề đấy,” anh nói, dẫu rằng rất có thể anh điên thật. “Tôi không phải kẻ tồi tệ. Tôi không hề có ý định vứt bỏ nó ở đây, chỉ là tôi thực sự không nhớ mình từng nuôi con chó này. Hay bất kỳ con chó nào khác. Nhưng nếu nó đúng là chó của tôi, nếu tôi từng nhặt được một con chó hay đại loại thế, chắc hẳn tôi sẽ mang nó tới đây. Cô có phiền kiểm tra xem liệu con chó này từng đến đây lần nào chưa không?”</p>
+<p class="para-vi-sub">“Khoan đã, tôi *không* bị điên đâu, tôi thề đấy,” anh nói, dẫu rằng rất có thể anh điên thật. “Tôi không phải kẻ tồi tệ. Tôi không hề có ý định vứt bỏ nó ở đây, chỉ là tôi thực sự không nhớ mình từng nuôi con chó này. Hay bất kỳ con chó nào khác. Nhưng nếu nó đúng là chó của tôi, nếu tôi từng nhặt được một con chó hay đại loại thế, chắc hẳn tôi sẽ mang nó tới đây. Cô có phiền kiểm tra xem liệu con chó này từng đến đây lần nào chưa không?”</p>
 
 <p class="para-en">She scowled, but said, “Fine.”</p>
 
@@ -394,11 +394,11 @@
 
 <p class="para-en">“I’m not crazy.”</p>
 
-<p class="para-vi-sub">“Tôi không điên đâu đấy.”</p>
+<p class="para-vi-sub">“Tôi *không* điên đâu đấy.”</p>
 
 <p class="para-en">“Uh-huh.” She typed something into her computer. “Oh. Yeah, he’s been here. Last month. Rabies vaccine. Flea meds. Neutered. His records say he was a stray. Bradford Pierson brought him in here and then adopted him.”</p>
 
-<p class="para-vi-sub">“Ừ hử.” Cô gõ lách cách gì đó trên bàn phím máy tính. “Ồ. Đúng rồi, nó từng đến đây. Tháng trước. Tiêm phòng dại. Thuốc trị bọ chét. Triệt sản. Hồ sơ ghi nó là chó hoang. Bradford Pierson đã đem nó đến đây rồi làm thủ tục nhận nuôi.”</p>
+<p class="para-vi-sub">“Ừ hử.” Cô gõ lách cách gì đó trên bàn phím máy tính. “Ồ. Đúng rồi, nó từng đến đây. Tháng trước. Tiêm phòng dại. Thuốc trị bọ chét. Triệt sản. Hồ sơ ghi nó là chó hoang. *Bradford Pierson* đã đem nó đến đây rồi làm thủ tục nhận nuôi.”</p>
 
 <p class="para-en">“Huh. What day?”</p>
 
@@ -430,7 +430,7 @@
 
 <p class="para-en">“I was working both those days. And it says right here that I filled out the forms. I…But I don’t remember.”</p>
 
-<p class="para-vi-sub">“Cả hai ngày đó tôi đều đi làm. Và ở đây ghi rành rành là chính tôi đã điền các biểu mẫu này. Tôi… nhưng tôi chẳng nhớ chút gì cả.”</p>
+<p class="para-vi-sub">“Cả hai ngày đó tôi đều đi làm. Và ở đây ghi rành rành là chính *tôi* đã điền các biểu mẫu này. Tôi… nhưng tôi chẳng nhớ chút gì cả.”</p>
 
 <p class="para-en">“Maybe I’m forgettable.”</p>
 

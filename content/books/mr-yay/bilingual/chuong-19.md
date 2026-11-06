@@ -2,7 +2,7 @@
 
 <p class="para-en">JACK MUST HAVE COME HOME in the middle of the night, because there he was, in bed beside her, snoring, mouth open, a trickle of drool down his chin. It was seven a.m. on Sunday morning.</p>
 
-<p class="para-vi-sub">HẲN LÀ JACK ĐÃ VỀ NHÀ lúc nửa đêm, bởi lẽ anh đang nằm chình ình ngay cạnh cô trên giường, ngáy pho pho với cái miệng há hốc và một vệt nước dãi uốn lượn xuống cằm. Lúc này là bảy giờ sáng Chủ nhật.</p>
+<p class="para-vi-sub">**HẲN LÀ JACK ĐÃ VỀ NHÀ** lúc nửa đêm, bởi lẽ anh đang nằm chình ình ngay cạnh cô trên giường, ngáy pho pho với cái miệng há hốc và một vệt nước dãi uốn lượn xuống cằm. Lúc này là bảy giờ sáng Chủ nhật.</p>
 
 <p class="para-en">Miriam got out of bed and put on her jogging clothes. She laced up her sneakers. She didn’t attempt to be quiet. But she made it out of the house without waking anyone, except the dog, who clearly wanted to run. He loped through the house behind her, whimpering, until she finally put on his leash.</p>
 
@@ -34,15 +34,15 @@
 
 <p class="para-en">Where did he go? the fox seemed to be asking. Where?</p>
 
-<p class="para-vi-sub">Anh ta đã đi đâu rồi? con cáo dường như đang chất vấn như vậy.</p>
+<p class="para-vi-sub">*Anh ta đã đi đâu rồi?* con cáo dường như đang chất vấn như vậy.</p>
 
 <p class="para-en">Miriam shook her head.</p>
 
-<p class="para-vi-sub">Đâu rồi? Miriam lắc đầu.</p>
+<p class="para-vi-sub">*Đâu rồi?* Miriam lắc đầu.</p>
 
 <p class="para-en">Where did he go?</p>
 
-<p class="para-vi-sub">Anh ta đã đi đâu rồi?</p>
+<p class="para-vi-sub">*Anh ta đã đi đâu rồi?*</p>
 
 <p class="para-en">No, it hadn’t asked anything. It couldn’t talk, obviously.</p>
 
@@ -66,11 +66,11 @@
 
 <p class="para-en">He became, in her estimation as a child, suddenly more fun and available. He was always whistling, high-fiving, buying her treats. He took her out for ice cream, mini-golf, movies. Did she want popcorn or candy? He wouldn’t make her choose. She could have both. He learned her favorite songs. He read her favorite books. He bought her favorite foods. He cultivated an image of himself—the engaged and delightful father—to support his narrative. He was there, being a good dad. It was the wife who wanted him gone.</p>
 
-<p class="para-vi-sub">Trong suy nghĩ ngây thơ của một đứa trẻ như cô lúc ấy, ông đột nhiên trở nên vui tính lạ thường và luôn sẵn sàng ở bên con gái. Ông luôn miệng huýt sáo, đập tay ăn mừng, mua đủ thứ quà bánh cho cô. Ông đưa cô đi ăn kem, chơi golf mini, xem phim ở rạp. Cô muốn ăn bỏng ngô hay kẹo? Ông chẳng bắt cô phải chọn lựa. Cứ việc lấy cả hai! Ông học những bài hát cô yêu thích, đọc những cuốn sách cô say mê, mua đúng những món cô khoái khẩu. Ông dày công gọt giũa một hình tượng hoàn hảo về bản thân, một người cha tuyệt vời và hết mực gắn kết, cốt để củng cố cho kịch bản của riêng mình: Ông vẫn luôn ở đây, làm một người cha mẫu mực; chỉ có bà vợ là kẻ hẹp hòi muốn xua đuổi ông đi.</p>
+<p class="para-vi-sub">Trong suy nghĩ ngây thơ của một đứa trẻ như cô lúc ấy, ông đột nhiên trở nên vui tính lạ thường và luôn sẵn sàng ở bên con gái. Ông luôn miệng huýt sáo, đập tay ăn mừng, mua đủ thứ quà bánh cho cô. Ông đưa cô đi ăn kem, chơi golf mini, xem phim ở rạp. Cô muốn ăn bỏng ngô hay kẹo? Ông chẳng bắt cô phải chọn lựa. Cứ việc lấy cả hai! Ông học những bài hát cô yêu thích, đọc những cuốn sách cô say mê, mua đúng những món cô khoái khẩu. Ông dày công gọt giũa một hình tượng hoàn hảo về bản thân, một người cha tuyệt vời và hết mực gắn kết, cốt để củng cố cho kịch bản của riêng mình: *Ông* vẫn luôn ở đây, làm một người cha mẫu mực; chỉ có *bà vợ* là kẻ hẹp hòi muốn xua đuổi ông đi.</p>
 
 <p class="para-en">Or so Miriam understood, until she got older and her mom explained. You remember those weekend work retreats? You remember how he was when he came home? Soooo refreshed. Ha!</p>
 
-<p class="para-vi-sub">Hoặc ít nhất Miriam đã từng tin sái cổ như thế, cho đến khi cô đủ lớn và mẹ cô huỵch toẹt toàn bộ sự thật. Con còn nhớ mấy “chuyến đi tĩnh tâm công tác cuối tuần” đó không? Con nhớ cái mặt ông ấy trông thế nào lúc vần xác về nhà chứ? Sảng khoáaaaai làm sao. Hừ!</p>
+<p class="para-vi-sub">Hoặc ít nhất Miriam đã từng tin sái cổ như thế, cho đến khi cô đủ lớn và mẹ cô huỵch toẹt toàn bộ sự thật. *Con còn nhớ mấy “chuyến đi tĩnh tâm công tác cuối tuần” đó không? Con nhớ cái mặt ông ấy trông thế nào lúc vần xác về nhà chứ? Sảng khoáaaaai làm sao. Hừ!*</p>
 
 <p class="para-en">The cycle repeated with his future wives. He got married. He got disinterested. And then a series of “mandatory weekend work retreats” left him refreshed and ready for divorce.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-en">Miriam ran two miserable miles out and two back, and Roxster pulled the whole time. He barked at every animal he saw—every squirrel, every rabbit, every cat, inside or out. She hadn’t realized just how many animals there were in suburbia, until Roxster took up the hobby of barking at all of them. He had never barked so much before. He had never been loud or anxious, until right around Christmas. Maybe he sensed the impending breakup of his pack. Maybe he needed doggie Prozac.</p>
 
-<p class="para-vi-sub">Miriam chạy hai dặm đầy khổ ải lượt đi rồi lại hai dặm lượt về, trong khi Roxster cứ thế giật phăng dây xích kéo cô đi suốt quãng đường. Nó sủa inh ỏi vào bất kỳ sinh vật nào trong tầm mắt, từ sóc, thỏ cho tới mèo, bất kể trong nhà hay ngoài sân. Cô chưa từng nhận ra cái khu ngoại ô này lại nhung nhúc động vật đến thế, cho tới khi Roxster nghĩ ra cái trò tiêu khiển là sủa vào tất cả bọn chúng. Trước đây nó đâu có sủa lắm thế. Nó chưa từng ồn ào hay bồn chồn như vậy, mãi cho đến khoảng dịp Giáng sinh. Có lẽ chú chó này đã linh cảm được sự rạn nứt sắp xảy ra của cái “đàn” này. Hoặc đơn giản là nó đang cần một liều Prozac dành cho chó.</p>
+<p class="para-vi-sub">Miriam chạy hai dặm đầy khổ ải lượt đi rồi lại hai dặm lượt về, trong khi Roxster cứ thế giật phăng dây xích kéo cô đi suốt quãng đường. Nó sủa inh ỏi vào bất kỳ sinh vật nào trong tầm mắt, từ sóc, thỏ cho tới mèo, bất kể trong nhà hay ngoài sân. Cô chưa từng nhận ra cái khu ngoại ô này lại nhung nhúc động vật đến thế, cho tới khi Roxster nghĩ ra cái trò tiêu khiển là sủa vào *tất cả bọn chúng*. Trước đây nó đâu có sủa lắm thế. Nó chưa từng ồn ào hay bồn chồn như vậy, mãi cho đến khoảng dịp Giáng sinh. Có lẽ chú chó này đã linh cảm được sự rạn nứt sắp xảy ra của cái “đàn” này. Hoặc đơn giản là nó đang cần một liều Prozac dành cho chó.</p>
 
 <p class="para-en">She walked the last stretch down Ravenswood Drive. She expected to find her husband already showered and dressed for work, in his tie and jacket despite there being no office dress code on Sundays. He would have snuck in a few minutes of television news, but neglected the dirty dishes, and the children, who would pounce the moment she opened the door.</p>
 
@@ -94,7 +94,7 @@
 
 <p class="para-en">Where did he go?</p>
 
-<p class="para-vi-sub">Người đó đã đi đâu rồi?</p>
+<p class="para-vi-sub">*Người đó đã đi đâu rồi?*</p>
 
 <p class="para-en">Roxster snarled.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-en">Where? Where did he go?</p>
 
-<p class="para-vi-sub">Ở đâu? Người đó đã đi đâu rồi?</p>
+<p class="para-vi-sub">*Ở đâu? Người đó đã đi đâu rồi?*</p>
 
 <p class="para-en">Where was she going? She wasn’t about to let Roxster catch the creature and try to eat it. That would be messy. And she didn’t want to get too close. Atypical behavior might mean rabies, or prions, or some other scary new disease. So she ceded the front porch to the fox and walked around the back.</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">Bark-bark-bark-bark-bark!</p>
 
-<p class="para-vi-sub">Gâu gâu gâu gâu gâu!</p>
+<p class="para-vi-sub">*Gâu gâu gâu gâu gâu!*</p>
 
 <p class="para-en">“Roxster, shhh!”</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-en">Bark-bark-bark-bark-bark!</p>
 
-<p class="para-vi-sub">Gâu gâu gâu gâu gâu!</p>
+<p class="para-vi-sub">*Gâu gâu gâu gâu gâu!*</p>
 
 <p class="para-en">Jack was at the counter in his bathrobe. He had a carton of eggs, a stack of sliced bread, and a bag of salmon treats. He tossed a treat to the dog.</p>
 

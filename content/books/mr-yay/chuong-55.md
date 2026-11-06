@@ -1,6 +1,6 @@
 # JACK VÀ CHIẾC VÕNG
 
-MIRIAM ĐANG LÁI XE VỀ NHÀ sau buổi tư vấn cho khách hàng thì nhìn thấy một tấm biển dán trên cột điện lúc dừng đèn đỏ. Trông nó rất giống tờ rơi tìm thú cưng thất lạc, chỉ khác một điều: thay vì ảnh chụp chó hay mèo, trên đó lại là hình vẽ một người đàn ông và một chú chó lênh đênh trên thuyền. Người đàn ông mặc chiếc quần may ghép mảnh sặc sỡ. Chú chó thì chễm chệ đội chiếc mũ thuyền trưởng.
+**MIRIAM ĐANG LÁI XE VỀ NHÀ** sau buổi tư vấn cho khách hàng thì nhìn thấy một tấm biển dán trên cột điện lúc dừng đèn đỏ. Trông nó rất giống tờ rơi tìm thú cưng thất lạc, chỉ khác một điều: thay vì ảnh chụp chó hay mèo, trên đó lại là hình vẽ một người đàn ông và một chú chó lênh đênh trên thuyền. Người đàn ông mặc chiếc quần may ghép mảnh sặc sỡ. Chú chó thì chễm chệ đội chiếc mũ thuyền trưởng.
 
 BẠN CÓ THẤY MR. YAY KHÔNG?
 
@@ -8,7 +8,7 @@ Cô tấp xe vào lề đường, bước xuống và quan sát kỹ tấm biể
 
 Suốt quãng đường còn lại, Miriam còn bắt gặp thêm cả tá tấm biển tương tự dán chễm chệ khắp các cột điện lẫn kính chắn gió ô tô. Đến khi về tới nhà, ngay trên bàn bếp, cô lại tìm thấy nguyên một xấp tờ rơi ghi dòng chữ: BẠN CÓ THẤY MR. YAY KHÔNG?
 
-“Mẹ đã thấy Mr. Yay chưa?” Lindsey hỏi.
+“*Mẹ* đã thấy Mr. Yay chưa?” Lindsey hỏi.
 
 “Mẹ thấy rồi.”
 
@@ -50,7 +50,7 @@ Anh thong thả vặn một chiếc móc chịu lực vào chiếc lỗ vừa kh
 
 “Thế cơ đấy. Mà anh lấy đâu ra tiền mua võng thế? Em tưởng chúng ta đã thống nhất là sẽ không mua sắm những thứ không cần thiết rồi cơ mà?”
 
-“Nó thực sự cần thiết mà em. Với lại, anh đổi nó lấy chiếc ghế dài rồi.”
+“Nó *thực sự* cần thiết mà em. Với lại, anh đổi nó lấy chiếc ghế dài rồi.”
 
 Cô thậm chí còn chưa kịp nhận ra chiếc ghế gỗ dài từng nằm ngoài hiên nhà đã bốc hơi mất dạng. “Chiếc ghế từng đặt ngay chỗ này ấy hả?”
 
@@ -92,11 +92,11 @@ Jack đứng dậy. Anh treo chiếc võng lên, rồi điềm nhiên nhấp m�
 
 “Vẻ mặt đó thì làm sao?”
 
-“Môi em chu lại. Mắt em nheo nheo. Em biết tỏng có chuyện lớn hơn đang xảy ra. Nghe này.” Jack rút điện thoại ra. “Bài báo trên tờ Los Angeles Tribune hôm nay đây: ‘Làn sóng Đại từ bỏ công sở của người Mỹ đạt mốc kỷ lục.’” Anh đọc to nội dung bài báo:
+“Môi em chu lại. Mắt em nheo nheo. Em biết tỏng có chuyện lớn hơn đang xảy ra. Nghe này.” Jack rút điện thoại ra. “Bài báo trên tờ *Los Angeles Tribune* hôm nay đây: ‘*Làn sóng Đại từ bỏ công sở của người Mỹ đạt mốc kỷ lục.*’” Anh đọc to nội dung bài báo:
 
-“Số lượng người Mỹ nộp đơn xin nghỉ việc trong tháng vừa qua đã vượt xa bất kỳ cột mốc nào từng được ghi nhận trong lịch sử. Làn sóng từ bỏ công sở này lan rộng khắp mọi ngành nghề trên toàn bộ thị trường lao động, từ những luật sư cùng phát thanh viên truyền hình có thu nhập cao ngất ngưởng cho tới các nhân viên thu ngân lẫn nhân viên bếp ở tiệm thức ăn nhanh nhận mức lương tối thiểu. Dường như chưa từng có bất kỳ lời giải thích hợp lý nào cho sự chuyển biến đột ngột này trong xu hướng lao động. ‘Chúng tôi chưa bao giờ chứng kiến hiện tượng nào tương tự,’ Francis McBride, nhà xã hội học tại Đại học Princeton kiêm chuyên gia phân tích thống kê việc làm, nhận định. ‘Một lực lượng khổng lồ người lao động đang đột ngột chuyển nghề hoặc quyết định rút lui hoàn toàn khỏi thị trường lao động.’”
+*“Số lượng người Mỹ nộp đơn xin nghỉ việc trong tháng vừa qua đã vượt xa bất kỳ cột mốc nào từng được ghi nhận trong lịch sử. Làn sóng từ bỏ công sở này lan rộng khắp mọi ngành nghề trên toàn bộ thị trường lao động, từ những luật sư cùng phát thanh viên truyền hình có thu nhập cao ngất ngưởng cho tới các nhân viên thu ngân lẫn nhân viên bếp ở tiệm thức ăn nhanh nhận mức lương tối thiểu. Dường như chưa từng có bất kỳ lời giải thích hợp lý nào cho sự chuyển biến đột ngột này trong xu hướng lao động. ‘Chúng tôi chưa bao giờ chứng kiến hiện tượng nào tương tự,’ Francis McBride, nhà xã hội học tại Đại học Princeton kiêm chuyên gia phân tích thống kê việc làm, nhận định. ‘Một lực lượng khổng lồ người lao động đang đột ngột chuyển nghề hoặc quyết định rút lui hoàn toàn khỏi thị trường lao động.’”*
 
-Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp trở tay không kịp. Glen Huckster, tổng quản lý siêu thị Value Valley chi nhánh Laguna Beach, ngán ngẩm chia sẻ rằng cửa hàng của ông vừa mất đứt sáu nhân viên chỉ trong tuần trước. “Chúng tôi đang chật vật xếp cho kín ca,” Huckster nói. “Chẳng ai chịu làm thêm giờ nữa. Đã thế, chúng tôi vẫn đang cuống cuồng tuyển người trám vào những vị trí bị bỏ trống do những nhân viên đã dứt áo ra đi từ vài tuần trước đó.”
+*Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp trở tay không kịp. Glen Huckster, tổng quản lý siêu thị Value Valley chi nhánh Laguna Beach, ngán ngẩm chia sẻ rằng cửa hàng của ông vừa mất đứt sáu nhân viên chỉ trong tuần trước. “Chúng tôi đang chật vật xếp cho kín ca,” Huckster nói. “Chẳng ai chịu làm thêm giờ nữa. Đã thế, chúng tôi vẫn đang cuống cuồng tuyển người trám vào những vị trí bị bỏ trống do những nhân viên đã dứt áo ra đi từ vài tuần trước đó.”*
 
 “Ai mà trách họ cho được,” Miriam bảo. “Em cũng chẳng đời nào muốn làm việc ở cái siêu thị Value Valley đó. Nhưng chuyện ấy thì liên quan gì đến vấn đề của chúng ta chứ?”
 
@@ -106,7 +106,7 @@ Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp
 
 “Không. À thì, đúng là có thế thật, nhưng cũng không hẳn.” Jack giật giật chiếc võng để thử độ chắc chắn. “Em có nhớ nữ thành viên góp vốn ở hãng luật cũ mà anh từng làm việc cùng không, chị Jessica Scriber ấy?”
 
-“Nhớ chứ.” Jessica Scriber, nghi phạm số một trong thiên trường ca Liệu Chồng Mình Có Đang Ngoại Tình? (ít nhất là cho tới khi Miriam tình cờ bắt gặp người phụ nữ đứng tuổi ấy đang ngồi ăn tối một mình tại một nhà hàng sang trọng dưới khu trung tâm).
+“Nhớ chứ.” Jessica Scriber, nghi phạm số một trong thiên trường ca *Liệu Chồng Mình Có Đang Ngoại Tình?* (ít nhất là cho tới khi Miriam tình cờ bắt gặp người phụ nữ đứng tuổi ấy đang ngồi ăn tối một mình tại một nhà hàng sang trọng dưới khu trung tâm).
 
 “Chị ấy qua đời rồi.”
 
@@ -118,11 +118,11 @@ Sự dịch chuyển bất thình lình này khiến giới chủ doanh nghiệp
 
 “Không, ý anh là chị ấy thực sự đã làm việc đến chết. Nghe này.” Jack mở một bài báo khác trên điện thoại rồi đọc:
 
-Jessica Scriber, luật sư cấp cao tại Hãng luật Rufus Mather LLP, vốn nổi tiếng là người làm việc tận tụy. Trong một ngành nghề vốn khét tiếng với những giờ tăng ca triền miên, các đồng nghiệp của chị Scriber hầu như chẳng chút bận tâm khi thấy chị có mặt ở cơ quan từ sáng sớm tinh mơ và chỉ rời đi lúc đêm muộn. Họ cũng chẳng mảy may suy nghĩ khi thấy chị túc trực ở văn phòng suốt cả kỳ nghỉ cuối tuần (làm việc xuyên cuối tuần vốn là chuyện thường tình như cơm bữa tại các hãng luật lớn). Sự tận tụy của chị Scriber đối với công việc dường như chẳng có gì bất thường, cho đến một ngày thứ Hai của tháng trước, khi người thư ký đến cơ quan và phát hiện chị Scriber đã thiếp đi trên chiếc ghế xoay văn phòng. Chị đã ngồi lì ở đó, cắm mặt làm việc liên tục suốt hơn 60 tiếng đồng hồ.
+*Jessica Scriber, luật sư cấp cao tại Hãng luật Rufus Mather LLP, vốn nổi tiếng là người làm việc tận tụy. Trong một ngành nghề vốn khét tiếng với những giờ tăng ca triền miên, các đồng nghiệp của chị Scriber hầu như chẳng chút bận tâm khi thấy chị có mặt ở cơ quan từ sáng sớm tinh mơ và chỉ rời đi lúc đêm muộn. Họ cũng chẳng mảy may suy nghĩ khi thấy chị túc trực ở văn phòng suốt cả kỳ nghỉ cuối tuần (làm việc xuyên cuối tuần vốn là chuyện thường tình như cơm bữa tại các hãng luật lớn). Sự tận tụy của chị Scriber đối với công việc dường như chẳng có gì bất thường, cho đến một ngày thứ Hai của tháng trước, khi người thư ký đến cơ quan và phát hiện chị Scriber đã thiếp đi trên chiếc ghế xoay văn phòng. Chị đã ngồi lì ở đó, cắm mặt làm việc liên tục suốt hơn 60 tiếng đồng hồ.*
 
-Hồ sơ thanh toán giờ làm cho thấy khối lượng công việc của Luật sư Scriber tăng vọt từ đầu năm. Chỉ trong vài tháng, số giờ làm việc của chị đã leo thang từ mức trung bình ban đầu là 60 giờ mỗi tuần - điều vốn chẳng mấy hiếm hoi trong giới luật sư - lên tới hơn 120 giờ mỗi tuần. Vào tuần cuối cùng trước khi qua đời, Luật sư Scriber đã ghi nhận tới 127 giờ làm việc tính phí.
+*Hồ sơ thanh toán giờ làm cho thấy khối lượng công việc của Luật sư Scriber tăng vọt từ đầu năm. Chỉ trong vài tháng, số giờ làm việc của chị đã leo thang từ mức trung bình ban đầu là 60 giờ mỗi tuần - điều vốn chẳng mấy hiếm hoi trong giới luật sư - lên tới hơn 120 giờ mỗi tuần. Vào tuần cuối cùng trước khi qua đời, Luật sư Scriber đã ghi nhận tới 127 giờ làm việc tính phí.*
 
-Sáng ngày 29 tháng 4, một luật sư cộng sự phát hiện chị nằm bất tỉnh trên sàn phòng làm việc. Khi lực lượng cấp cứu có mặt, chị đã ngừng thở từ trước đó. Nguyên nhân tử vong chính thức được kết luận là do ngừng tim. Trong ngăn kéo bàn làm việc của chị, người ta tìm thấy hai loại thuốc kê đơn Ritalin và Adderall, đều là các chất kích thích thần kinh. Đầu ngón tay chị cũng xuất hiện nhiều vết phồng rộp do gõ bàn phím quá mức.
+*Sáng ngày 29 tháng 4, một luật sư cộng sự phát hiện chị nằm bất tỉnh trên sàn phòng làm việc. Khi lực lượng cấp cứu có mặt, chị đã ngừng thở từ trước đó. Nguyên nhân tử vong chính thức được kết luận là do ngừng tim. Trong ngăn kéo bàn làm việc của chị, người ta tìm thấy hai loại thuốc kê đơn Ritalin và Adderall, đều là các chất kích thích thần kinh. Đầu ngón tay chị cũng xuất hiện nhiều vết phồng rộp do gõ bàn phím quá mức.*
 
 “Thật kinh khủng,” Miriam lặp lại lần nữa.
 
@@ -130,13 +130,13 @@ Sáng ngày 29 tháng 4, một luật sư cộng sự phát hiện chị nằm b
 
 “Phản ứng với cái gì?”
 
-“Chuyện đó thì anh chịu. Nhưng nghe này, anh biết người phụ nữ này. Đúng vậy, chị ấy làm việc rất nhiều, giống hệt mọi người ở hãng luật thôi. Thế nhưng chị ấy cũng… à thì, chị ấy còn có những sở thích khác. Chị ấy đọc sách. Chị ấy chơi vĩ cầm. Chị ấy thích đi du lịch và leo núi dã ngoại. Anh không thể nào hình dung nổi cảnh chị ấy vứt bỏ mọi thứ chỉ vì công việc. Một trăm hai mươi bảy giờ một tuần ư? Thế là phi nhân tính.”
+“*Chuyện đó* thì anh chịu. Nhưng nghe này, anh biết người phụ nữ này. Đúng vậy, chị ấy làm việc rất nhiều, giống hệt mọi người ở hãng luật thôi. Thế nhưng chị ấy cũng… à thì, chị ấy còn có những sở thích khác. Chị ấy đọc sách. Chị ấy chơi vĩ cầm. Chị ấy thích đi du lịch và leo núi dã ngoại. Anh không thể nào hình dung nổi cảnh chị ấy vứt bỏ mọi thứ chỉ vì công việc. Một trăm hai mươi bảy giờ một tuần ư? Thế là phi nhân tính.”
 
 “Nhưng sự thật rành rành ra đó.”
 
 “Nhưng chuyện đó chẳng thể nào tự dưng xảy ra được,” Jack vừa nói vừa ngả người ra chiếc võng. “Chẳng thể nào, trừ khi có một nguyên nhân hay một biến cố nào đó. Có lẽ cũng cùng một kiểu biến cố đã khiến cả anh và em đều cất giữ cùng một mảnh giấy ghi nhớ ấy.”
 
-Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng cô. Cô hiểu lý lẽ của anh, nhưng chính cái sự thật rằng anh lại là người nêu ra điều đó khiến cô chỉ muốn phản bác lại theo một phản xạ tự nhiên.
+Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng cô. Cô hiểu lý lẽ của anh, nhưng chính cái sự thật rằng *anh* lại là người nêu ra điều đó khiến cô chỉ muốn phản bác lại theo một phản xạ tự nhiên.
 
 “Anh chẳng hề thích món thịt nướng meatloaf.”
 
@@ -144,11 +144,11 @@ Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng c�
 
 “Anh từ đâu chui ra vậy?”
 
-“Thế em từ đâu đến? Vợ anh đời nào lại đi hút thuốc lá.”
+“Thế *em* từ đâu đến? Vợ anh đời nào lại đi hút thuốc lá.”
 
 “Chú chó không hề tin anh.”
 
-“Đến anh còn chẳng tin nổi mình. Anh vốn đâu có kế hoạch sẽ đùng đùng bỏ việc, rồi thì… anh… anh thấy mình liều lĩnh quá chừng.”
+“Đến *anh* còn chẳng tin nổi mình. Anh vốn đâu có kế hoạch sẽ đùng đùng bỏ việc, rồi thì… anh… anh thấy mình liều lĩnh quá chừng.”
 
 “Mất phương hướng.”
 
@@ -172,7 +172,7 @@ Miriam nhìn chồng mình. Người chồng mà lại chẳng phải chồng c�
 
 Lại là đôi mắt ấy.
 
-Anh ra hiệu bảo cô qua nằm cùng trên chiếc võng. Cô vừa muốn đấm anh một đấm, vừa muốn xé toạc lớp da kia ra để tìm cho rõ cái bản thể Jack-hay-Không-phải-Jack ẩn sâu bên trong; lại vừa muốn trèo lên người anh, trút bỏ toàn bộ xiêm y rồi để mặc cho anh chạm vào cơ thể mình, theo cái cách mà từ rất, rất lâu rồi anh chưa từng chạm đến (và chính cô cũng chưa từng cho phép anh làm thế).
+Anh ra hiệu bảo cô qua nằm cùng trên chiếc võng. Cô vừa muốn đấm anh một đấm, vừa muốn xé toạc lớp da kia ra để tìm cho rõ cái bản thể *Jack-hay-Không-phải-Jack* ẩn sâu bên trong; lại vừa muốn trèo lên người anh, trút bỏ toàn bộ xiêm y rồi để mặc cho anh chạm vào cơ thể mình, theo cái cách mà từ rất, rất lâu rồi anh chưa từng chạm đến (và chính cô cũng chưa từng cho phép anh làm thế).
 
 Cô thèm một điếu thuốc.
 
@@ -197,4 +197,3 @@ Cô thả mình xuống chiếc võng bên cạnh anh. Trọng lực kéo cả h
 Cô nhắm mắt lại. Chiếc võng đung đưa nhịp nhàng trong làn gió ấm áp. Cô cảm nhận được nhịp đập rộn ràng từ trái tim Jack, hơi ấm lan tỏa từ làn da anh, và bờ môi anh khi đặt những nụ hôn lên trán cô, lên mi mắt, rồi lên đầu mũi cô.
 
 “Anh nói trước đi,” cô bảo. “Hãy kể cho em nghe tất cả những gì anh nhớ.”
-

@@ -2,7 +2,7 @@
 
 <p class="para-en">THE KIDS HELD a memorial service for the leg in the backyard.</p>
 
-<p class="para-vi-sub">BỌN TRẺ TỔ CHỨC một lễ tưởng niệm cho cái chân ở sân sau.</p>
+<p class="para-vi-sub">**BỌN TRẺ TỔ CHỨC** một lễ tưởng niệm cho cái chân ở sân sau.</p>
 
 <p class="para-en">The kids each drew a picture of their beloved Roxster. Rory’s Roxster looked, ironically, like a six-legged spider, with eyes in the middle of its body and sharp, spidery fangs. Lindsey sang a funeral song, to the tune of “The Farmer in the Dell.”</p>
 
@@ -26,11 +26,11 @@
 
 <p class="para-en">“But, Mom, you can’t let him out. What if he sees it? How would you feel if it was your leg?”</p>
 
-<p class="para-vi-sub">“Nhưng mẹ ơi, mẹ không được thả nó ra đâu. Nhỡ nó nhìn thấy thì sao? Mẹ sẽ cảm thấy thế nào nếu đó là chân của mẹ?”</p>
+<p class="para-vi-sub">“Nhưng mẹ ơi, mẹ không được thả nó ra đâu. Nhỡ nó nhìn thấy thì sao? Mẹ sẽ cảm thấy thế nào nếu đó là chân của *mẹ*?”</p>
 
 <p class="para-en">She wouldn’t feel great about the kids singing songs about it, but her leg, if she ever lost it, would get properly disposed of, not buried in the backyard.</p>
 
-<p class="para-vi-sub">Mẹ chắc chắn sẽ chẳng lấy gì làm dễ chịu nếu lũ trẻ đứng nghêu ngao ca hát về chuyện đó. Dù vậy, cái chân của cô, nếu chẳng may có lìa khỏi thân thể, hẳn cũng sẽ được xử lý nghiêm cẩn theo đúng quy trình y tế, chứ đời nào lại bị đem chôn ở sân sau nhà.</p>
+<p class="para-vi-sub">Mẹ chắc chắn sẽ chẳng lấy gì làm dễ chịu nếu lũ trẻ đứng nghêu ngao ca hát về chuyện đó. Dù vậy, cái chân của *cô*, nếu chẳng may có lìa khỏi thân thể, hẳn cũng sẽ được xử lý nghiêm cẩn theo đúng quy trình y tế, chứ đời nào lại bị đem chôn ở sân sau nhà.</p>
 
 <p class="para-en">Roxster’s leg—now a mangled mass of fur and bone sealed in several ziplock layers and stored in the freezer for two weeks, until the kids had sufficiently processed the tragedy and devised a plan to honor the leg—would be buried three feet deep, inside a plastic cooler, to prevent the dog from ever digging it up.</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">Except, deceit didn’t quite describe it.</p>
 
-<p class="para-vi-sub">Có điều, hai chữ dối lừa dường như vẫn chưa lột tả hết bản chất sự việc.</p>
+<p class="para-vi-sub">Có điều, hai chữ *dối lừa* dường như vẫn chưa lột tả hết bản chất sự việc.</p>
 
 <p class="para-en">In truth, Miriam didn’t know anymore who Jack was.</p>
 
@@ -102,7 +102,7 @@
 
 <p class="para-en">“Mad is an understatement. It’s more like…I don’t even know what to think about you.”</p>
 
-<p class="para-vi-sub">“Giận dữ vẫn còn là nói giảm nói tránh đấy. Đúng hơn thì… em thậm chí còn chẳng biết phải nghĩ gì về anh nữa.”</p>
+<p class="para-vi-sub">“*Giận dữ* vẫn còn là nói giảm nói tránh đấy. Đúng hơn thì… em thậm chí còn chẳng biết phải nghĩ gì về anh nữa.”</p>
 
 <p class="para-en">“Miriam—”</p>
 
@@ -210,31 +210,31 @@
 
 <p class="para-en">THE UNUSUAL ALLIANCE OF ROGER AND DALE</p>
 
-<p class="para-vi-sub">LIÊN MINH KỲ LẠ CỦA ROGER VÀ DALE</p>
+<p class="para-vi-sub">*LIÊN MINH KỲ LẠ CỦA ROGER VÀ DALE*</p>
 
 <p class="para-en">On the night of December 21, Roger Harmon put on his nicest suit and caught a cab downtown, to the Hotel Roma, to attend the Ohio Entrepreneurs Gala. Roger Harmon would receive an award that night, a lifetime achievement award for his contribution to small business. His business, Harmon’s Hamburgers, had served some of the best burgers in the city for more than twenty years.</p>
 
-<p class="para-vi-sub">Vào đêm ngày 21 tháng Mười Hai, Roger Harmon khoác lên mình bộ vest đẹp nhất rồi bắt một chuyến taxi đến trung tâm thành phố, tới Khách sạn Roma, để tham dự Dạ tiệc Doanh nhân Ohio. Đêm đó, Roger Harmon sẽ nhận một giải thưởng, giải thưởng thành tựu trọn đời vì những đóng góp của ông cho khối doanh nghiệp nhỏ. Cơ sở kinh doanh của ông, tiệm Harmon’s Hamburgers, đã phục vụ những chiếc burger hảo hạng bậc nhất thành phố suốt hơn hai mươi năm qua.</p>
+<p class="para-vi-sub">*Vào đêm ngày 21 tháng Mười Hai, Roger Harmon khoác lên mình bộ vest đẹp nhất rồi bắt một chuyến taxi đến trung tâm thành phố, tới Khách sạn Roma, để tham dự Dạ tiệc Doanh nhân Ohio. Đêm đó, Roger Harmon sẽ nhận một giải thưởng, giải thưởng thành tựu trọn đời vì những đóng góp của ông cho khối doanh nghiệp nhỏ. Cơ sở kinh doanh của ông, tiệm Harmon’s Hamburgers, đã phục vụ những chiếc burger hảo hạng bậc nhất thành phố suốt hơn hai mươi năm qua.*</p>
 
 <p class="para-en">On that same evening, Dale Golding, an investor in nearly a dozen start-up businesses and the owner of the Lightning Taco food truck chain, had been invited to the Entrepreneurs Gala to give the keynote address.</p>
 
-<p class="para-vi-sub">Cùng buổi tối hôm ấy, Dale Golding, nhà đầu tư của gần một tá doanh nghiệp khởi nghiệp kiêm chủ sở hữu chuỗi xe tải bán đồ ăn Lightning Taco, đã được mời đến Dạ tiệc Doanh nhân để đọc bài diễn văn chính.</p>
+<p class="para-vi-sub">*Cùng buổi tối hôm ấy, Dale Golding, nhà đầu tư của gần một tá doanh nghiệp khởi nghiệp kiêm chủ sở hữu chuỗi xe tải bán đồ ăn Lightning Taco, đã được mời đến Dạ tiệc Doanh nhân để đọc bài diễn văn chính.*</p>
 
 <p class="para-en">Roger Harmon and Dale Golding met for the first time at the Entrepreneurs Gala. They sat at the same table. Sitting next to each other, they looked almost like brothers. They both had the same brown hair, cut short, graying around the temples, the same glittering brown eyes. They both ordered the salmon, with a glass of red wine. They talked about their businesses, their families. Roger Harmon was widowed, with a nineteen-year-old daughter whom he brought as his guest to the gala. Dale Golding was divorced. He had invited his girlfriend to come as his guest to the gala, but she had been feeling ill.</p>
 
-<p class="para-vi-sub">Roger Harmon và Dale Golding gặp nhau lần đầu tại Đêm tiệc Doanh nhân. Họ ngồi cùng một bàn. Khi ngồi cạnh nhau, trông họ giống hệt hai anh em ruột. Cả hai đều có mái tóc nâu cắt ngắn, lốm đốm hoa râm ở hai bên thái dương, cùng đôi mắt nâu sáng ngời như nhau. Cả hai đều gọi món cá hồi kèm theo một ly rượu vang đỏ. Họ trò chuyện về công việc làm ăn và gia đình. Roger Harmon góa vợ, có một cô con gái mười chín tuổi mà ông dẫn theo cùng đến đêm tiệc. Còn Dale Golding đã ly dị. Ông từng mời bạn gái đến dự với tư cách khách mời, nhưng cô lại cảm thấy không khỏe.</p>
+<p class="para-vi-sub">*Roger Harmon và Dale Golding gặp nhau lần đầu tại Đêm tiệc Doanh nhân. Họ ngồi cùng một bàn. Khi ngồi cạnh nhau, trông họ giống hệt hai anh em ruột. Cả hai đều có mái tóc nâu cắt ngắn, lốm đốm hoa râm ở hai bên thái dương, cùng đôi mắt nâu sáng ngời như nhau. Cả hai đều gọi món cá hồi kèm theo một ly rượu vang đỏ. Họ trò chuyện về công việc làm ăn và gia đình. Roger Harmon góa vợ, có một cô con gái mười chín tuổi mà ông dẫn theo cùng đến đêm tiệc. Còn Dale Golding đã ly dị. Ông từng mời bạn gái đến dự với tư cách khách mời, nhưng cô lại cảm thấy không khỏe.*</p>
 
 <p class="para-en">“That’s too bad,” Roger Harmon had remarked. “My girlfriend is feeling ill too.”</p>
 
-<p class="para-vi-sub">“Thật tiếc quá,” Roger Harmon buột miệng nhận xét. “Bạn gái tôi cũng đang ốm.”</p>
+<p class="para-vi-sub">*“Thật tiếc quá,” Roger Harmon buột miệng nhận xét. “Bạn gái tôi cũng đang ốm.”*</p>
 
 <p class="para-en">The next day, Roger Harmon met his girlfriend, Elaine, for dinner. She didn’t seem well. She looked pale and sweaty, nervous. Her fingers twitched. She hardly ate. Roger drove her home. He walked her to the door and kissed her good night. He called the next morning, but she didn’t answer. He sent her flowers. He ordered chicken soup and brought it to her house, but no one was there.</p>
 
-<p class="para-vi-sub">Hôm sau, Roger Harmon hẹn bạn gái mình, Elaine, đi ăn tối. Trông cô không được khỏe cho lắm. Mặt mày cô tái nhợt, toát mồ hôi hột và đầy vẻ bồn chồn. Những ngón tay cô cứ giật giật liên hồi. Cô hầu như chẳng đụng đũa. Roger lái xe đưa cô về nhà. Ông tiễn cô vào tận cửa rồi hôn chúc ngủ ngon. Sáng hôm sau ông gọi điện thoại, nhưng cô không bắt máy. Ông gửi hoa cho cô. Ông còn đặt súp gà mang tới tận nhà, nhưng chẳng có ai ở đó.</p>
+<p class="para-vi-sub">*Hôm sau, Roger Harmon hẹn bạn gái mình, Elaine, đi ăn tối. Trông cô không được khỏe cho lắm. Mặt mày cô tái nhợt, toát mồ hôi hột và đầy vẻ bồn chồn. Những ngón tay cô cứ giật giật liên hồi. Cô hầu như chẳng đụng đũa. Roger lái xe đưa cô về nhà. Ông tiễn cô vào tận cửa rồi hôn chúc ngủ ngon. Sáng hôm sau ông gọi điện thoại, nhưng cô không bắt máy. Ông gửi hoa cho cô. Ông còn đặt súp gà mang tới tận nhà, nhưng chẳng có ai ở đó.*</p>
 
 <p class="para-en">The day after that, Roger Harmon spotted Elaine downtown, with another man’s arm around her waist. That man was Dale Golding. Roger approached the couple. He felt betrayed. He had only been dating Elaine for a few months, but he already had strong feelings for her. He wanted to confront her, but he never got the chance. Elaine saw him, and when she did, she took off. She ran down the street and disappeared around the corner before either Roger or Dale could stop her. Roger—</p>
 
-<p class="para-vi-sub">Ngày hôm sau nữa, Roger Harmon bắt gặp Elaine ở khu trung tâm, bên cạnh một người đàn ông đang ôm eo cô. Người đàn ông đó chính là Dale Golding. Roger tiến lại gần hai người. Ông cảm thấy bị phản bội cùng cực. Dù mới hẹn hò với Elaine được vài tháng, nhưng ông đã dành trọn tình cảm sâu đậm cho cô. Ông muốn đối chất ba mặt một lời, thế nhưng chẳng bao giờ có được cơ hội ấy. Elaine vừa trông thấy ông là lập tức co giò bỏ chạy. Cô phóng vụt qua dãy phố rồi biến mất sau góc ngoặt trước khi Roger hoặc Dale kịp giữ lại. Roger…</p>
+<p class="para-vi-sub">*Ngày hôm sau nữa, Roger Harmon bắt gặp Elaine ở khu trung tâm, bên cạnh một người đàn ông đang ôm eo cô. Người đàn ông đó chính là Dale Golding. Roger tiến lại gần hai người. Ông cảm thấy bị phản bội cùng cực. Dù mới hẹn hò với Elaine được vài tháng, nhưng ông đã dành trọn tình cảm sâu đậm cho cô. Ông muốn đối chất ba mặt một lời, thế nhưng chẳng bao giờ có được cơ hội ấy. Elaine vừa trông thấy ông là lập tức co giò bỏ chạy. Cô phóng vụt qua dãy phố rồi biến mất sau góc ngoặt trước khi Roger hoặc Dale kịp giữ lại. Roger…*</p>
 
 <p class="para-en">“You can stop reading,” Miriam said.</p>
 
@@ -542,11 +542,11 @@
 
 <p class="para-en">“No, I mean, that specifically. ‘Silent like a starfish.’ You said it at dinner too.”</p>
 
-<p class="para-vi-sub">“Không, ý anh là cái câu đó cơ. ‘Im lặng như một con sao biển.’ Lúc ăn tối em cũng vừa nói câu này.”</p>
+<p class="para-vi-sub">“Không, ý anh là cái câu đó cơ. ‘*Im lặng như một con sao biển.*’ Lúc ăn tối em cũng vừa nói câu này.”</p>
 
 <p class="para-en">“Oh. It just popped into my head. It’s a line from the Mr. Yay show.”</p>
 
-<p class="para-vi-sub">“Ồ. Nó chỉ bất chợt nảy ra trong đầu em thôi. Đó là một câu thoại trong chương trình Mr. Yay mà.”</p>
+<p class="para-vi-sub">“Ồ. Nó chỉ bất chợt nảy ra trong đầu em thôi. Đó là một câu thoại trong chương trình *Mr. Yay* mà.”</p>
 
 <p class="para-en">“The what show?”</p>
 
@@ -554,7 +554,7 @@
 
 <p class="para-en">“Mr. Yay.” Jack gave her a blank stare. “What’s that?”</p>
 
-<p class="para-vi-sub">“Mr. Yay.” Jack ngơ ngác nhìn cô trân trân. “Đó là cái gì?”</p>
+<p class="para-vi-sub">“*Mr. Yay.*” Jack ngơ ngác nhìn cô trân trân. “Đó là cái gì?”</p>
 
 <p class="para-en">“Are you serious?”﻿</p>
 
@@ -566,7 +566,7 @@
 
 <p class="para-en">“You don’t remember that TV show? The Adventures of Mr. Yay?”</p>
 
-<p class="para-vi-sub">“Anh không nhớ chương trình truyền hình đó sao? Những cuộc phiêu lưu của Mr. Yay ấy?”</p>
+<p class="para-vi-sub">“Anh không nhớ chương trình truyền hình đó sao? *Những cuộc phiêu lưu của Mr. Yay* ấy?”</p>
 
 <p class="para-en">“Nope,” said Jack. “Never heard of it.”</p>
 
@@ -590,7 +590,7 @@
 
 <p class="para-en">“You’ve never heard of The Adventures of Mr. Yay?”</p>
 
-<p class="para-vi-sub">“Anh chưa từng nghe nói về chương trình truyền hình thiếu nhi Những cuộc phiêu lưu của Mr. Yay bao giờ ư?”</p>
+<p class="para-vi-sub">“Anh chưa từng nghe nói về chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay* bao giờ ư?”</p>
 
 <p class="para-en">“No.”</p>
 
@@ -666,11 +666,11 @@
 
 <p class="para-en">“But look, right there he’s got a dog. Maybe he was a rapper and a TV star.” “No, I don’t think so. Let me see.”</p>
 
-<p class="para-vi-sub">“Nhưng nhìn xem, ngay đây cậu ta cũng có một chú chó này. Biết đâu cậu ta vừa là rapper, vừa là ngôi sao truyền hình thì sao.”</p>
+<p class="para-vi-sub">“Nhưng nhìn xem, ngay đây cậu ta cũng có một chú chó này. Biết đâu cậu ta *vừa là* rapper, *vừa là* ngôi sao truyền hình thì sao.”</p>
 
 <p class="para-en">Jack handed her his phone. Miriam scrolled through pictures of a young, beardless man with silky hair. She had heard about this rapper. He was one of her ﻿patients’ best friends. In the pictures, the rapper was on a stage with a microphone in hand, or dressed in a teal tracksuit, or holding a ski with shot glasses glued to it (a shot-ski, Jack called it), a joint tucked behind his ear, an enormous bedazzled dollar sign around his neck, an unfamiliar dog with a pirate’s hat at his side.</p>
 
-<p class="para-vi-sub">“Không, em không nghĩ thế đâu. Đưa điện thoại cho em xem nào.” Jack đưa điện thoại cho cô. Miriam lướt qua những tấm hình của một chàng trai trẻ, mặt mày nhẵn nhụi không chút râu ria, mái tóc chải mượt mà. Cô từng nghe nói về chàng rapper này: cậu chính là một trong những người bạn thân nhất của cậu thân chủ mà cô đang trị liệu. Trong các bức ảnh, chàng rapper lúc thì đứng trên sân khấu với chiếc micro trong tay, lúc lại mặc bộ đồ thể thao màu xanh ngọc chói lọi, hoặc tay cầm một tấm ván trượt dán chặt những chiếc ly uống rượu mạnh (loại mà Jack vẫn gọi là thanh ván trượt Shot-Ski), một điếu thuốc kẹp vắt vểu sau vành tai, sợi dây chuyền đính mặt dấu đô la khổng lồ lấp lánh đung đưa trước ngực, bên cạnh là một chú chó lạ lẫm đội chiếc mũ cướp biển.</p>
+<p class="para-vi-sub">“Không, em không nghĩ thế đâu. Đưa điện thoại cho em xem nào.” Jack đưa điện thoại cho cô. Miriam lướt qua những tấm hình của một chàng trai trẻ, mặt mày nhẵn nhụi không chút râu ria, mái tóc chải mượt mà. Cô từng nghe nói về chàng rapper này: cậu chính là một trong những người bạn thân nhất của cậu thân chủ mà cô đang trị liệu. Trong các bức ảnh, chàng rapper lúc thì đứng trên sân khấu với chiếc micro trong tay, lúc lại mặc bộ đồ thể thao màu xanh ngọc chói lọi, hoặc tay cầm một tấm ván trượt dán chặt những chiếc ly uống rượu mạnh (loại mà Jack vẫn gọi là *thanh ván trượt Shot-Ski*), một điếu thuốc kẹp vắt vểu sau vành tai, sợi dây chuyền đính mặt dấu đô la khổng lồ lấp lánh đung đưa trước ngực, bên cạnh là một chú chó lạ lẫm đội chiếc mũ cướp biển.</p>
 
 <p class="para-en">She scrolled and scrolled. But none of the pictures showed a long-bearded sailor wearing leg quilts.</p>
 

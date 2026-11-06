@@ -20,9 +20,9 @@ CHẮC CHẮN RỒI, SẼ CÓ BÓNG BÀN BIA BEER PONG!
 
 LẦN NÀY XIN ĐỂ LŨ TRẺ Ở NHÀ NHÉ.
 
-7:00 TỐI
+**7:00 TỐI**
 
-JACK KHOÁC chiếc áo blazer nhung màu nâu, đội chiếc mũ fedora quen thuộc, bên trong là áo phông in hình tài tử Tom Selleck mặc sơ mi Hawaii.
+**JACK KHOÁC** chiếc áo blazer nhung màu nâu, đội chiếc mũ fedora quen thuộc, bên trong là áo phông in hình tài tử Tom Selleck mặc sơ mi Hawaii.
 
 “Anh tính mang theo chiếc bình rượu bỏ túi của mình,” anh bảo trong lúc hai vợ chồng đang chuẩn bị.
 
@@ -54,7 +54,7 @@ Họ im lặng rảo bước dọc con phố hướng tới nhà Holly và Tom, 
 
 “Khó nói lắm.” Holly vắt một miếng chanh vào ly cocktail của mình rồi nhấp một ngụm. “Tớ ăn mỗi loại một cốc rồi, thấy cả hai đều ngon.”
 
-8:00 TỐI
+**8:00 TỐI**
 
 Tom và Fred sở hữu một đống bạn bè trông y hệt hai anh, chỉ khác là tóc của Fred dạo này đã bắt đầu dài ra.
 
@@ -78,11 +78,11 @@ Holly dầm chanh và bạc hà trong ly, rót thêm rượu rum cùng nước n
 
 Holly ném cho Miriam một ánh nhìn phớt tỉnh như muốn nói:
 
-Kỷ tử là cái quái gì thế không biết?
+*Kỷ tử là cái quái gì thế không biết?*
 
 “Trong tủ lạnh tớ có ít nước ngọt có ga nam việt quất để cậu pha chung đấy,” Holly bảo. “Nhưng cậu đừng dùng mấy quả chanh này. Chanh này đầy thuốc trừ sâu đấy.”
 
-9:00 TỐI
+**9:00 TỐI**
 
 Một người đàn ông mặc áo sơ mi màu mòng két nhiệt tình bắt tay Jack. Chiếc áo sơ mi màu mòng két của anh ta có sọc dọc màu trắng và có cổ áo, được sơ vin gọn gàng trong chiếc quần bò đắt tiền. Trông nó y hệt chiếc áo màu ô liu của Tom, chỉ khác mỗi sắc xanh mòng két.
 
@@ -154,7 +154,7 @@ Cô vươn tay vuốt ve mái tóc anh. Jack cũng tò mò đưa tay chạm vào
 
 “Tớ bảo cho mà nghe,” Fred thì thầm. “Bí quyết là tớ chẳng bao giờ gội đầu cả.”
 
-10:00 TỐI
+**10:00 TỐI**
 
 Holly pha nước quýt tươi với rượu rum trong bình lắc cocktail.
 
@@ -172,7 +172,7 @@ Holly rót rượu ra ly rồi thêm chanh cùng siro lựu grenadine. Dòng sir
 
 “Nhưng họ sẽ mặc áo phao, đúng không?”
 
-“Ồ, dĩ nhiên rồi. Tom thề sống thề chết rằng bọn họ sẽ mặc áo phao. Y như cái cách anh ấy thề rằng mình luôn đội mũ bảo hiểm mỗi khi cưỡi mô tô vậy. Nhưng cậu biết gì không?”
+“Ồ, dĩ nhiên rồi. Tom *thề sống thề chết* rằng bọn họ sẽ mặc áo phao. Y như cái cách anh ấy thề rằng mình luôn đội mũ bảo hiểm mỗi khi cưỡi mô tô vậy. Nhưng cậu biết gì không?”
 
 “Gì cơ?”
 
@@ -196,7 +196,7 @@ Holly rót rượu ra ly rồi thêm chanh cùng siro lựu grenadine. Dòng sir
 
 Ở căn phòng bên kia, Tom và Fred đang lượn vòng quanh nhau. Một đám đông vây quanh họ và bắt đầu đồng thanh hô vang:
 
-“Húc đi, húc đi, húc đi! Húc đi, húc đi, húc đi!”
+*“Húc đi, húc đi, húc đi! Húc đi, húc đi, húc đi!”*
 
 “Mừng sinh nhật ba mươi tám tuổi, Fred!” Tom gào lên.
 
@@ -204,7 +204,7 @@ Holly rót rượu ra ly rồi thêm chanh cùng siro lựu grenadine. Dòng sir
 
 Tom và Fred bắt tay nhau rồi lùi xa dần. Họ đứng cách nhau chừng ba mét, vai ưỡn ra sau, ngực phồng căng hết cỡ. Ánh mắt hai người khóa chặt lấy nhau. Rồi cùng một lúc, họ lao sầm vào nhau. Cú va chạm nổ ra. Ngực hai người húc chan chát vào nhau. Đám đông giậm chân, vỗ tay và ừng ực nốc bia.
 
-“Húc! Húc! Húc!”
+*“Húc! Húc! Húc!”*
 
 Tom và Fred lùi ra rồi lại lượn vòng quanh nhau. Fred gầm gừ. Tom khịt mũi. Tom đã cởi phanh cúc chiếc áo sơ mi màu ô liu. Fred đã tháo phăng chiếc áo gile. Bộ ngực trần rám nắng của cả hai người đều bóng nhẫy dầu.
 
@@ -220,9 +220,9 @@ Tom và Fred lùi ra rồi lại lượn vòng quanh nhau. Fred gầm gừ. Tom 
 
 Tom và Fred đấm thùm thụp vào ngực mình rồi lao bổ vào nhau, hệt như hai con cừu đực vào mùa giao phối. Ngực hai người chạm nhau đôm đốp. Họ lặp lại nghi thức ấy thêm ba mươi sáu lần nữa, nâng tổng số lần va ngực trong dịp sinh nhật này lên đúng con số ba mươi tám.
 
-11:00 ĐÊM
+**11:00 ĐÊM**
 
-Miriam thoáng thấy Jack đứng ở phía bên kia phòng tiệc cùng một cô nàng tóc vàng xinh đẹp. Trong một thoáng, cô từng ngỡ đó là người phụ nữ mình bắt gặp đi cùng anh bên ngoài quán cà phê, nhưng người này có vẻ nhiều tuổi hơn. Dù vậy, trông cô ta vẫn bốc lửa chán. Jack ghé sát lại. Anh nói điều gì đó, đôi mắt lấp lánh vẻ cuồng nhiệt. Bờ môi cô nàng tóc vàng căng mọng, phủ một lớp son bóng màu hồng lấp lánh. Cô ta gật đầu, nhìn Jack bằng ánh mắt đăm chiêu mơ màng. Jack nhấp một ngụm whiskey từ chiếc bình kim loại bỏ túi rồi chìa về phía cô nàng. Cô ta lắc đầu, không, cảm ơn. Jack lại bồi thêm vài câu. Cô ta phụng phịu vẻ đầy thấu cảm, chớp chớp hàng mi hệt như chú nai Bambi trong phim hoạt hình.
+Miriam thoáng thấy Jack đứng ở phía bên kia phòng tiệc cùng một cô nàng tóc vàng xinh đẹp. Trong một thoáng, cô từng ngỡ đó là người phụ nữ mình bắt gặp đi cùng anh bên ngoài quán cà phê, nhưng người này có vẻ nhiều tuổi hơn. Dù vậy, trông cô ta vẫn bốc lửa chán. Jack ghé sát lại. Anh nói điều gì đó, đôi mắt lấp lánh vẻ cuồng nhiệt. Bờ môi cô nàng tóc vàng căng mọng, phủ một lớp son bóng màu hồng lấp lánh. Cô ta gật đầu, nhìn Jack bằng ánh mắt đăm chiêu mơ màng. Jack nhấp một ngụm whiskey từ chiếc bình kim loại bỏ túi rồi chìa về phía cô nàng. Cô ta lắc đầu, *không, cảm ơn*. Jack lại bồi thêm vài câu. Cô ta phụng phịu vẻ đầy thấu cảm, chớp chớp hàng mi hệt như chú nai Bambi trong phim hoạt hình.
 
 Miriam chen qua đám đông tiến về phía Jack và cô nàng tóc vàng. Bia sóng sánh tràn qua mép ly, nhỏ giọt xuống mu bàn tay cô. Cả sàn nhà đều dính dớp bia. Cô lách qua bàn chơi trò beer pong rồi bước tới, chen ngang vào giữa Jack và cô nàng kia.
 
@@ -242,7 +242,7 @@ Cô ta vội vã chuồn lẹ.
 
 Lát sau, Miriam vô tình nghe thấy cô ta vừa khúc khích cười vừa thì thầm với một người phụ nữ khác về Jack: “Này, tránh xa cái gã đằng kia ra nhé. Tắt đài hoàn toàn luôn! Nếu tôi mà muốn nghe giảng về tình hình Syria với thị trường chứng khoán, thà tôi về nói chuyện với lão chồng tôi còn hơn. Nào, đi kiếm vài ly thạch rượu Jell-O shot thôi…”
 
-12:00 ĐÊM
+**12:00 ĐÊM**
 
 Holly tay cầm chiếc ly còn nửa phần rượu rum pha quýt, thản nhiên rót bia vào đầy ắp tận miệng ly.
 
@@ -270,7 +270,7 @@ Miriam và Kate cùng lắc đầu lia lịa: “Thôi, cảm ơn.”
 
 Holly trìu mến nhìn ly “bia-tail” của mình. Cô tu ừng ực một hơi, không chừa lại dù chỉ một giọt.
 
-1:00 SÁNG
+**1:00 SÁNG**
 
 Holly lảo đảo bước ra khỏi gian bếp. Cô chen qua đám đông, hướng về phía bàn chơi trò beer pong. Tom đang ngồi xổm co ro bên dưới gầm bàn.
 
@@ -306,7 +306,7 @@ Tom bò lồm ngồm ra khỏi gầm bàn: “Nhưng anh không tìm thấy qu�
 
 “Không, chỉ là…”
 
-“Anh đâu có sợ nhảy khỏi máy bay. Anh đâu có sợ nhảy cầu. Anh đâu có sợ chèo thuyền vượt thác dữ. Ôi không, hoàn toàn không. Anh chẳng sợ biến vợ mình thành một góa phụ, đúng không, Tom? Rồi anh cũng chẳng sợ lôi cả thằng Chad đi mạo hiểm cùng mình nữa.” Holly cầm chiếc vợt còn lại lên rồi ném thẳng về phía anh. “Thế mà thua tôi ở trò ném bóng bia lại khiến anh sợ hãi sao? Chà, tốt nhất là anh nên đối mặt với nỗi sợ của mình đi, chủ nhân tiệc sinh nhật ạ!”
+“Anh đâu có sợ nhảy khỏi máy bay. Anh đâu có sợ nhảy cầu. Anh đâu có sợ chèo thuyền vượt thác dữ. Ôi không, *hoàn toàn không*. Anh chẳng sợ biến vợ mình thành *một góa phụ*, đúng không, Tom? Rồi anh cũng chẳng sợ lôi cả thằng Chad đi mạo hiểm cùng mình nữa.” Holly cầm chiếc vợt còn lại lên rồi ném thẳng về phía anh. “Thế mà thua tôi ở trò ném bóng bia lại khiến anh sợ hãi sao? Chà, tốt nhất là anh nên đối mặt với nỗi sợ của mình đi, chủ nhân tiệc sinh nhật ạ!”
 
 Holly hậm hực dậm chân bước ra khỏi phòng. Tom đứng ngơ ngác bên bàn ném bóng bia, tay vẫn nắm chặt chiếc vợt. Những người còn lại đứng sững tại chỗ, nín thở chờ xem Holly sẽ làm gì tiếp theo.
 
@@ -326,7 +326,7 @@ Holly quẳng chiếc cốc rỗng xuống sàn rồi nhặt quả bóng gôn l�
 
 “Thấy chưa!” Holly khoái chí cười lớn. “Thấy chưa! Giờ thì ai mới là bá chủ trò beer pong hả!”
 
-2:00 SÁNG
+**2:00 SÁNG**
 
 “Bây giờ cả Tom lẫn Fred đều đang đeo băng che mắt đấy,” Miriam thủ thỉ với Kate. Cả hai đang đứng một mình ngoài hiên nhà. Màn đêm tháng Ba dịu nhẹ, mang theo làn gió ấm áp báo hiệu mùa hè đến sớm. Trên bầu trời, mặt trăng tròn trĩnh trông chẳng khác nào một quả trứng khổng lồ. Thảm cỏ dưới khoảng sân lấp lánh sương đêm.
 
@@ -358,9 +358,9 @@ Chỉ trong chốc lát nữa thôi, dường như cả ngàn vì sao non sẽ c
 
 Miriam tinh tế để mặc cô bạn ở đó. Cô rảo bước men theo mé hông nhà, chui vào khoảng tối nơi ánh trăng không thể chạm tới. Cô rút một điếu thuốc rồi châm lửa. Làn khói chầm chậm cuộn tròn, lơ lửng bay lên không trung. Ngay lúc đó, cô nghe thấy một âm thanh lạ. Một tiếng sột soạt khẽ khàng. Từ bụi rậm, một chú gấu mèo lững thững bò ra. Nó chớp mắt, nhìn cô đăm đắm bằng đôi mắt đen láy như hai viên đá vỏ chai.
 
-Ở đâu? Nó cất tiếng hỏi.
+*Ở đâu?* Nó cất tiếng hỏi.
 
-Anh ta đã đi đâu rồi?
+*Anh ta đã đi đâu rồi?*
 
 Nhưng Miriam chẳng thể cất lời đáp. Chú gấu mèo ngoảnh đầu quay đi rồi nhanh chân lủi mất vào bóng tối.
 
@@ -371,4 +371,3 @@ Người đàn ông bước ra từ phía sau bụi rậm, rảo bước tiến 
 “Chào em, Miriam.”
 
 “Chào anh, Jack.”
-

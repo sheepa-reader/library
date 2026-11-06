@@ -2,11 +2,11 @@
 
 <p class="para-en">MIRIAM + JACK</p>
 
-<p class="para-vi-sub">MIRIAM + JACK</p>
+<p class="para-vi-sub">**MIRIAM + JACK**</p>
 
 <p class="para-en">THE MAN SHOULD send flowers. Roses. Overpriced bouquets with sonnets the man had written himself. The man should serenade. Under her window, on a starlit night. The man should offer heart and soul and cunnilingus, if he wanted his proposal to be met with acceptance.</p>
 
-<p class="para-vi-sub">NGƯỜI ĐÀN ÔNG NÊN tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu. Một món quà cũng có thể giúp ích đấy. Như một chú chó con chẳng hạn.</p>
+<p class="para-vi-sub">**NGƯỜI ĐÀN ÔNG NÊN** tặng hoa. Hoa hồng. Những bó hoa đắt đỏ cắt cổ đi kèm các bài thơ xôn-nê do chính anh tự tay sáng tác. Người đàn ông nên hát tình ca. Dưới cửa sổ nhà cô, vào một đêm đẫm ánh sao. Người đàn ông nên dâng trọn trái tim, tâm hồn và cả chuyện mây mưa nồng nhiệt, nếu anh muốn lời cầu hôn của mình nhận được một cái gật đầu. Một món quà cũng có thể giúp ích đấy. Như một chú chó con chẳng hạn.</p>
 
 <p class="para-en">A gift might also help. Like a puppy.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-en">He nodded, shrugged. Of course he knew how it worked. He wasn’t a dolt.</p>
 
-<p class="para-vi-sub">Anh gật đầu, nhún vai. Dĩ nhiên anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.</p>
+<p class="para-vi-sub">Anh gật đầu, nhún vai. *Dĩ nhiên* anh biết guồng quay đó vận hành ra sao. Anh đâu phải một kẻ ngốc.</p>
 
 <p class="para-en">Still, he’d gotten a taste.</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-en">a lightning strike, a hurricane, a gale.</p>
 
-<p class="para-vi-sub">Đem so tình ấy trần ai, Mọi điều thế tục doth phai sắc màu.</p>
+<p class="para-vi-sub">Đem so tình ấy trần ai, Mọi điều thế tục *doth* phai sắc màu.</p>
 
 <p class="para-en">Compared to it</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-en">She laughed at the word doth. At the thought of Jack penning this verse. At her good fortune, to be loved like this.</p>
 
-<p class="para-vi-sub">Cô bật cười vì cái từ doth cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.</p>
+<p class="para-vi-sub">Cô bật cười vì cái từ *doth* cổ lỗ sĩ ấy. Cười khi nghĩ tới cảnh tượng Jack cặm cụi hạ bút viết nên những vần thơ này. Cười vì niềm may mắn ngập tràn của bản thân, khi được yêu thương say đắm đến nhường này.</p>
 
 <p class="para-en">She had, at that moment, in that lazy golden summer, the two things her heart wanted most. She had Jack, and she had time.</p>
 
@@ -178,7 +178,7 @@
 
 <p class="para-en">To my beautiful Miriam: Compared to you, these roses smell like poo.</p>
 
-<p class="para-vi-sub">Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.</p>
+<p class="para-vi-sub">*Gửi Miriam xinh đẹp của anh: Đem so với em thì đống hoa hồng này bốc mùi chẳng khác nào phân.*</p>
 
 <p class="para-en">He was a terrible poet. She laughed, and found a vase for the roses, but before she’d cut the stems, there was another knock on her door.</p>
 
@@ -194,7 +194,7 @@
 
 <p class="para-en">For you, dearest Miriam, I would sleep every night on a bed of thorns. I would suffer un-scratchable itches. I would let myself be stung by a thousand bees.</p>
 
-<p class="para-vi-sub">Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.</p>
+<p class="para-vi-sub">*Vì em, Miriam dấu yêu nhất trên đời, đêm nào anh cũng sẵn sàng nằm ngủ trên một chiếc giường đầy gai nhọn. Anh sẵn sàng chịu đựng những cơn ngứa ngáy không thể gãi. Anh sẵn lòng để mặc cho một ngàn con ong thi nhau chích đốt.*</p>
 
 <p class="para-en">Which was prophetic, because the next flower delivery came with a stowaway bee. It shot out from the bouquet, right at her face. Miriam swatted it away. She ran into the bathroom and slammed the door shut.</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-en">Poof!</p>
 
-<p class="para-vi-sub">Bụp một cái!</p>
+<p class="para-vi-sub">*Bụp một cái!*</p>
 
 <p class="para-en">Then there was a knock on the door. A scratch. A whimper.</p>
 

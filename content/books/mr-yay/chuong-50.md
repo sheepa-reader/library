@@ -1,6 +1,6 @@
 # BẬC THẦY MÔNG ĐÍT
 
-MR. YAY ĐANG Ở ĐÂU?
+**MR. YAY ĐANG Ở ĐÂU?**
 
 Mr. Yay đang ngồi bên bờ hồ bơi. Chiếc ghế dài của anh trông giống như một vỏ sò khổng lồ. Anh mở sẵn một bản tạp chí đặt trên đùi nhưng chẳng buồn đọc, chỉ mải ngắm nhìn những bộ bikini lướt qua lướt lại.
 
@@ -54,9 +54,9 @@ Mr. Yay đang đứng trên ván nhảy. Cậu lao mình xuống nước. Với 
 
 Bratty ngả lưng trên chiếc ghế nằm hình vỏ sò, ngước nhìn bầu trời. Bầu trời mang một sắc xanh giả tạo, hệt như vòm trời nhân tạo bên trong các khách sạn ở Vegas, nơi ánh ban ngày ngự trị vĩnh hằng.
 
-Biết đâu bầu trời này cũng là đồ giả. Chẳng có cách nào kiểm chứng được. Anh nhắm mắt lại, lắng nghe những âm thanh bên bể bơi: tiếng lách cách của đá lạnh trong bình lắc cocktail, những trang tạp chí ai đó bỏ lại đang phần phật bay trong làn gió biển nhân tạo. Anh nghe thấy tiếng cộp cộp như tiếng chân gỗ nện trên sàn hồ bơi.
+Biết đâu bầu trời này cũng là đồ giả. Chẳng có cách nào kiểm chứng được. Anh nhắm mắt lại, lắng nghe những âm thanh bên bể bơi: tiếng lách cách của đá lạnh trong bình lắc cocktail, những trang tạp chí ai đó bỏ lại đang phần phật bay trong làn gió biển nhân tạo. Anh nghe thấy tiếng *cộp cộp* như tiếng chân gỗ nện trên sàn hồ bơi.
 
-Đất liền kia rồi!
+*Đất liền kia rồi!*
 
 Chiếc ghế vỏ sò của anh bồng bềnh trôi dưới vòm trời giả tạo. Có phải anh đang mơ không?
 
@@ -128,27 +128,27 @@ Họ chọn một bàn trong ô ghế riêng, gọi thêm mấy chầu rượu, 
 
 Mr. Yay lập tức cất giọng rap bùng nổ:
 
-’Cause I’m a rebel, like Luke Skywalker
+***’Cause I’m a rebel, like Luke Skywalker***
 
-Smokin’ weed that looks like a green Chewbacca
+***Smokin’ weed that looks like a green Chewbacca***
 
-’Cause that bud’s so hairy, got me scary stoned
+***’Cause that bud’s so hairy, got me scary stoned***
 
-The kind of weed that you nervous to smoke alone, yo…
+***The kind of weed that you nervous to smoke alone, yo…***
 
-(Vì ta là kẻ nổi loạn, hệt như Luke Skywalker
+*(Vì ta là kẻ nổi loạn, hệt như Luke Skywalker*
 
-Hút thứ cỏ trông như một chú Chewbacca xanh rì
+*Hút thứ cỏ trông như một chú Chewbacca xanh rì*
 
-Vì búp cỏ rậm rạp đó khiến ta phê ngất ngưởng
+*Vì búp cỏ rậm rạp đó khiến ta phê ngất ngưởng*
 
-Cái loại cỏ khiến ngươi phải run rẩy nếu dám phê một mình, yo…)
+*Cái loại cỏ khiến ngươi phải run rẩy nếu dám phê một mình, yo…)*
 
 Cậu nhấp một ngụm mai tai đầy phớt tỉnh. “Ừ, anh bỏ học rồi. Mẹ kiếp cái đại học. Nhưng không phải ở khía cạnh học hành đâu nhé. Ý anh là, học hỏi rất tuyệt. Sách vở cũng rất tuyệt. Giá mà anh theo học ngành Ngữ văn hay Tâm lý học, thay vì chui vào trường kinh doanh như bố anh muốn… Thế nhưng vấn đề nằm ở chỗ này: Cậu bước chân vào đại học…”
 
 “Mày phải trả cả đống tiền vỡ mặt để chui vào cái chốn đó,” Bratty bồi thêm.
 
-“Chính xác. Cả một đống tiền chết tiệt. Rồi cậu cày như trâu, cậu tốt nghiệp, và rồi sao nữa? Cậu đi học tiếp lấy cái bằng MBA hay cái của nợ gì đó. Rồi cậu kiếm một công việc. Rồi cậu cày bục mặt. Để rồi rốt cuộc nhận lại cái gì?”
+“Chính xác. *Cả một đống* tiền chết tiệt. Rồi cậu cày như trâu, cậu tốt nghiệp, và rồi sao nữa? Cậu đi học tiếp lấy cái bằng MBA hay cái của nợ gì đó. Rồi cậu kiếm một công việc. Rồi cậu cày bục mặt. Để rồi rốt cuộc nhận lại cái gì?”
 
 “Nhưng ai chẳng phải đi làm,” một cô nàng trong nhóm cất lời. “Dù gì thì có bằng đại học vẫn dễ kiếm việc ngon hơn chứ.”
 
@@ -184,7 +184,7 @@ Cả hai ông bố đều chẳng có nổi một chú chó.
 
 “Nhưng tao có mày,” Bratty thì thầm với Tux. “Và mày có tao.”
 
-Gâu.
+*Gâu.*
 
 “Nhưng rốt cuộc mày từ đâu chui ra vậy?”
 
@@ -192,7 +192,7 @@ Dù sao thì anh vẫn chấp nhận được thực tại về chú chó này -
 
 “Mày sẽ nói cho tao biết chứ? Nếu mày biết được sự thật?”
 
-Gâu.
+*Gâu.*
 
 Anh đứng dậy, áp bàn tay lên mặt kính. Anh nửa mong bàn tay mình sẽ xuyên thấu qua, như thể mặt kính này vốn xốp rỗng và chỉ là một làn nước chập chờn.
 
@@ -200,59 +200,59 @@ Anh đứng dậy, áp bàn tay lên mặt kính. Anh nửa mong bàn tay mình 
 
 Nằm giữa chiếc ghế sofa và khung cửa sổ là một chiếc bàn nhỏ. Trên mặt bàn đặt tập giấy ghi chép của khách sạn. Tờ giấy chi chít những ca từ được Tommy viết ngoáy vào những khoảnh khắc tàn cuộc của đêm Vegas, khi nơi rìa trời đang âm ỉ một sắc đỏ rực.
 
-Yo, bài rap này dành tặng những kẻ
+***Yo, bài rap này dành tặng những kẻ***
 
-Từng bảo rằng tao chẳng thể làm nên
+***Từng bảo rằng tao chẳng thể làm nên***
 
-Bảo tao hãy quay đầu về
+***Bảo tao hãy quay đầu về***
 
-Với hai bàn tay trắng trơn vì
+***Với hai bàn tay trắng trơn vì***
 
-Rap đâu phải là kế sinh nhai
+***Rap đâu phải là kế sinh nhai***
 
-Họ bảo tao nên khôn lớn trưởng thành
+***Họ bảo tao nên khôn lớn trưởng thành***
 
-Tìm lấy một việc làm ổn định
+***Tìm lấy một việc làm ổn định***
 
-Sống cho ra dáng đàn ông
+***Sống cho ra dáng đàn ông***
 
-Rằng mục đích đời này là chất đống tiền giả tạo
+***Rằng mục đích đời này là chất đống tiền giả tạo***
 
-Nhưng tao đời nào thèm nuốt trôi
+***Nhưng tao đời nào thèm nuốt trôi***
 
-Thấy chưa, tao phải là chính tao
+***Thấy chưa, tao phải là chính tao***
 
-Phải đuổi theo giấc mơ đời mình
+***Phải đuổi theo giấc mơ đời mình***
 
-Tiền bạc chẳng là cái thá gì
+***Tiền bạc chẳng là cái thá gì***
 
-Khi tao tự làm chủ bản thân
+***Khi tao tự làm chủ bản thân***
 
-Tao nắm chắc một kế hoạch đỉnh cao
+***Tao nắm chắc một kế hoạch đỉnh cao***
 
-Sẽ làm ra thêm nhiều bản nhạc,
+***Sẽ làm ra thêm nhiều bản nhạc,***
 
-Sẽ nhâm nhi từng ngụm cognac
+***Sẽ nhâm nhi từng ngụm cognac***
 
-Cùng thằng anh em Bratty và con chó
+***Cùng thằng anh em Bratty và con chó***
 
-Yo, tụi tao là một bầy sói
+***Yo, tụi tao là một bầy sói***
 
-Mày muốn chơi trò xì dách xì lát
+***Mày muốn chơi trò xì dách xì lát***
 
-Thì tao đây chẳng đời nào bỏ bài
+***Thì tao đây chẳng đời nào bỏ bài***
 
-Mày muốn ra đòn với tao
+***Mày muốn ra đòn với tao***
 
-Tao sẽ đấm trả thẳng tay
+***Tao sẽ đấm trả thẳng tay***
 
-Và tao tất tay tới bến
+***Và tao tất tay tới bến***
 
-Một khi đã chạm tới rap, bởi vì thấy không
+***Một khi đã chạm tới rap, bởi vì thấy không***
 
-Tao sẽ làm bá chủ trò chơi ấy
+***Tao sẽ làm bá chủ trò chơi ấy***
 
-Tao sẽ làm bậc thầy của rap
+***Tao sẽ làm bậc thầy của rap***
 
 Bratty có thể nghe thấy đoạn rap ấy vang lên mồn một trong tâm trí. Anh mở máy tính xách tay, bắt đầu nhào nặn những đoạn beat. Anh lơ đãng nghịch ngợm vài thanh âm và tiết tấu, trong khi chú chó lười nhác nằm bên cạnh, bình thản gác cái đầu nặng trịch lên đùi anh. Thế rồi, ừ thì, anh thong thả nhai một viên kẹo dẻo cần sa, lục lọi quầy minibar và tự hỏi cái quái quỷ gì đang diễn ra ở đây. Hình bóng phản chiếu của anh trông chẳng khác nào một bóng ma lướt nhẹ trên kính, với đôi mắt thẫn thờ nhìn xuống khung cảnh Vegas tráng lệ ngoài cửa sổ (nơi người ta tưởng chừng các vị thần từng ngồi xổm giữa sa mạc rồi xả ra hàng tỷ hạt đá quý lấp lánh, từ kim cương, hồng ngọc, lam ngọc cho đến vàng bạc và mấy thứ của nợ linh tinh). Thật choáng ngợp chết tiệt. Và kỳ quặc đến phát điên.
 
@@ -409,4 +409,3 @@ Cả hai liền ngồi thụp xuống cạnh chú chó. Họ xoa đầu, vuốt 
 “Chỉ trong một cái chớp mắt thôi,” Tommy nhún vai. “Nhưng tao cũng chẳng dám chắc. Vừa nãy tao có nhai mấy viên kẹo dẻo. Biết đâu lại do đầu óc tao đang phê pha lú lẫn.”
 
 Thế nhưng, ánh mắt cậu lại ngầm thừa nhận điều hoàn toàn ngược lại. Đôi mắt ấy phản chiếu tia lấp lánh của một sự thật phi lý đến rợn ngợp mà chính Bratty cũng đang cảm nhận rõ mồn một: cảm giác ấy quặn thắt nơi ruột gan, buốt lạnh vào tận tủy xương, và rung chuyển cả tâm can.
-
