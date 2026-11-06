@@ -1,193 +1,217 @@
-# 5 Đối mặt với Cori
+# 8 Cặp Sừng
 
-<p class="para-en">The first sign of disaster came when I entered the factory.</p>
-<p class="para-vi-sub">Điềm báo đầu tiên về thảm họa ập đến ngay khoảnh khắc tôi vừa bước chân vào xưởng mổ.</p>
+*Món Thứ Nhất • Hương Vị Đầu Tiên*
 
-<p class="para-en">I intended to make up for missing Cori the night before, but I was barely there when an overseer with a ruddy complexion blocked my path.</p>
-<p class="para-vi-sub">Tôi đã định bụng sẽ bù đắp cho việc lỡ hẹn với Cori vào đêm qua, nhưng vừa mới đến nơi, một nữ giám sát viên có nước da hồng hào đã chặn đường tôi lại.</p>
+Cặp sừng ấy thu hút đôi chút sự chú ý, âu cũng là điều dễ hiểu. Nhưng mọi chuyện diễn ra chậm hơn người ta tưởng.
 
-<p class="para-en">“Paprick Common-3,” she said, disgust lingering in her Rare accent. “You have been reassigned from the rearshank to the left ribs.”</p>
-<p class="para-vi-sub">“Paprick Thứ Phẩm Số 3,” bà ta cất lời, sự khinh bỉ lộ rõ trong chất giọng kẻ cả của tầng lớp Thượng Phẩm. “Mày bị điều chuyển từ phần bắp sau sang mạn sườn trái.”</p>
+  
 
-<p class="para-en">“Why?” I asked incredulously.</p>
-<p class="para-vi-sub">“Tại sao lại thế ạ?” Tôi hoài nghi hỏi lại.</p>
+Lửa cháy lan từ toa xe này sang toa xe khác, cuồn cuộn quét qua quảng trường. Hàng chục cuộc giao tranh nhỏ lẻ thoắt ẩn thoắt hiện trong màn sương mù cùng những tia chớp và cầu lửa; khói bốc lên ngùn ngụt khắp nơi khiến bầu không khí nồng nặc mùi hôi thối. Bessa hất văng hàng chục Lính Mổ Xẻ cùng quân phiến loạn, những kẻ vừa tàn sát lẫn nhau vừa ra sức khống chế cơn cuồng loạn dữ dội của nó, trong khi những người Thứ Phẩm mắc kẹt bên dưới gào thét thảm thiết khi bị chà đạp dưới móng guốc.
 
-<p class="para-en">“You dare question me, cockroach?” Her hand flexed to the whip at her belt.</p>
-<p class="para-vi-sub">“Mày dám hạch hỏi tao sao, đồ gián bọ?” Bàn tay bà ta siết chặt lấy cây roi bên hông.</p>
+  
 
-<p class="para-en">I mumbled an apology and hurried away. I’d never even seen a fine cut up close, let alone performed one, so in my mind, Cori must’ve told. The Rare needed to inspect the rearshank before I could cut it to prove my guilt, and so they’d moved me.</p>
-<p class="para-vi-sub">Tôi lí nhí xin lỗi rồi vội vã lách người rời đi. Tôi còn chưa từng được nhìn gần một vết cắt thượng hạng nào, nói chi đến việc tự tay thực hiện, thế nên trong đầu tôi lập tức dấy lên nỗi nghi hoặc rằng chắc chắn Cori đã tố giác mình. Giới Thượng Phẩm cần kiểm tra phần bắp sau trước khi tôi kịp xẻ thịt để làm bằng chứng định tội, vậy nên họ mới điều tôi đi nơi khác.</p>
+Chỉ những kẻ ở gần tôi nhất mới lập tức dừng tay, nhờ vậy tôi có được vài khoảnh khắc ngắn ngủi để nhìn lại đôi bàn tay mình. Chúng đã lành lặn hoàn toàn nhờ dòng biến đổi vừa quét qua cơ thể, mọi dấu vết bỏng rát do lửa nung đốt đều đã biến mất không còn tăm tích.
 
-<p class="para-en">As I pulled on my butcher’s suit, I scanned for Cori. She was northern, so I immediately eliminated all the blonds and the one redhead. Of those remaining, my leading candidate had brown skin and burns on her left arm that spoke of fire. The king said rebels burned northern crops all the time, so why not?</p>
-<p class="para-vi-sub">Trong lúc trùm bộ đồ bảo hộ của thợ mổ vào người, tôi ráo riết tìm kiếm bóng dáng Cori. Cô ấy là người phương Bắc, nên tôi lập tức loại trừ toàn bộ những kẻ tóc vàng và người duy nhất có mái tóc đỏ. Trong số những người còn lại, ứng viên khả dĩ nhất mang làn da ngăm cùng vết cháy xém trên tay trái, dấu tích rõ rệt của ngọn lửa. Nhà vua từng nói phiến quân liên tục đốt phá mùa màng ở phía Bắc, vậy nên khả năng đó hoàn toàn có thể xảy ra.</p>
+  
 
-<p class="para-en">I was about to flag that person down when she paired up with an older man I knew from my tenement. Not Cori then.</p>
-<p class="para-vi-sub">Tôi đang tính vẫy tay ra hiệu thì người đó lại sóng bước cùng một người đàn ông lớn tuổi mà tôi nhẵn mặt ở khu nhà tập thể. Thế thì không phải Cori rồi.</p>
+Những luồng gió xoáy thổi bạt lớp khói dày, để lộ ra cảnh tượng áo quần trên người tôi không thể dãn nở theo thể xác khổng lồ. Hồi ấy tôi vốn là kẻ hay e dè, nên dẫu trong lòng trào dâng một niềm hân hoan kỳ lạ khi nhận ra mình có lẽ là kẻ to lớn nhất thế gian, tôi vẫn vội cúi xuống, giật lấy mấy lá cờ trại buộc quanh hông làm khố che thân.
 
-<p class="para-en">“Famines and locusts,” I cursed. By then, I was the last common without a hood up, and I risked penalties to my indenture for tardiness. Assuming I even had an indenture. For all I knew, I was about to approach the rib ladder and find a carver ready to kill me.</p>
-<p class="para-vi-sub">“Hạn hán và châu chấu hại người,” tôi chửi thề. Lúc bấy giờ, tôi là kẻ Thứ Phẩm duy nhất chưa trùm mũ bảo hộ lên đầu, đồng nghĩa với việc đối mặt với nguy cơ bị phạt trừ tiền vào khế ước lao dịch vì tội đi trễ. Dù rằng nếu tính kỹ, chẳng rõ liệu tôi có còn giữ nổi bản khế ước ấy hay không. Bởi theo những gì tôi phán đoán, rất có thể ngay khi bước tới gần thang xẻ sườn, tôi sẽ bắt gặp một Lính Mổ Xẻ đang chực sẵn để kết liễu đời mình.</p>
+  
 
-<p class="para-en">I considered making a run for the South Gate and exile. But I couldn’t leave my moms and my community. My hands shook, and I could barely carry my cleaversaw as I stepped out into the factory’s biting chill.</p>
-<p class="para-vi-sub">Tôi từng tính đến chuyện tháo chạy về phía Cổng Nam để chấp nhận kiếp lưu vong. Nhưng tôi không thể bỏ lại các mẹ cùng khu xóm của mình. Đôi tay tôi run rẩy đến mức khó lòng nhấc nổi chiếc cưa của thợ mổ khi bước ra khoảng không lạnh cắt da cắt thịt của xưởng.</p>
+Hành động ấy giúp tôi dần làm quen với tầm nhìn ở độ cao mới, cũng như cảm nhận được sức mạnh cuồn cuộn đang dâng tràn bên trong cơ thể mình. Thế nhưng, tôi phải làm gì với nguồn sức mạnh này đây?
 
-<p class="para-en">Bessa hung limp in her leather cradle, weak after weeks under the knife. Others had already started cutting, so blood waterfalled from her belly to the ground.</p>
-<p class="para-vi-sub">Quái thú Bessa nằm rũ rượi trong chiếc nôi da khổng lồ, kiệt sức sau nhiều tuần liền chịu trận dưới những lưỡi dao. Những thợ mổ khác đã bắt đầu xẻ thịt, khiến máu từ bụng nó tuôn xối xả xuống mặt đất như thác đổ.</p>
+  
 
-<p class="para-en">Unlike the shanks, the ribs had no bones beneath them to anchor into, making ladders impractical. One gentle sway of the cradle and Bessa could tip a ladder over while someone was climbing. The masters didn’t care if we died, but the inconvenience of training new butchers outweighed the joy of watching us fall. Scaffolding was the solution.</p>
-<p class="para-vi-sub">Không giống như phần bắp chân, mạn sườn không có xương bên dưới để cắm neo giữ, khiến việc bắc thang trở nên bất khả thi. Chỉ một nhịp cựa mình rất khẽ của chiếc nôi da cũng đủ để Bessa hất văng thang khi có ai đó đang trèo lên. Những kẻ cai trị chẳng bận tâm nếu chúng tôi bỏ mạng, nhưng nỗi phiền toái khi phải đào tạo một thợ mổ mới lại lớn hơn niềm vui thích được chứng kiến chúng tôi ngã chết. Giàn giáo chính là giải pháp thay thế.</p>
+Tôi từng khao khát nó. Tôi từng mưu cầu một phương sách để đối đầu với Bessa. Mẹ kiếp, tôi đã có được nó thật rồi. Vậy mà nỗi kinh hoàng trong tôi vẫn không hề vơi bớt. Kẻ nào nói to lớn hơn đồng nghĩa với tốt hơn ắt hẳn chưa từng nếm trải cảm giác phải giáp mặt một con quái thú Bò sát Carnephon sừng sững từ bên kia bờ chiến địa ngập chìm trong biển lửa.
 
-<p class="para-en">Up and across. Up and across. I went back and forth, zigzagging my way to Bessa’s upper ribs. Blood dripped through the cracks of the lower levels, falling from where three pairs of experienced butchers worked on the short plate—the soft meat that clings to the bottom of the rib cage. The raining gore prevented me from seeing up to the final platform and slicked each rung of the ladders, slowing my progress. The fact that a carver hadn’t met me at the bottom calmed my breathing somewhat, but I was still shaking with anxiety. I resolved to never steal again.</p>
-<p class="para-vi-sub">Trèo lên rồi băng qua. Lại trèo lên rồi băng qua. Tôi tiến lùi liên tục, trèo theo đường ziczac lên đến phần sườn trên của Bessa. Máu róc rách chảy qua các kẽ hở của những tầng bên dưới, tuôn xuống từ nơi ba cặp thợ mổ giàu kinh nghiệm đang xẻ phần thịt ba chỉ sườn, dải thịt mềm bám chặt vào phần dưới lồng ngực. Cơn mưa máu ấy ngăn tầm mắt tôi nhìn lên sàn thao tác trên cùng, đồng thời phủ một lớp trơn trượt lên từng nấc thang, khiến bước chân tôi chậm lại. Việc không có gã Lính Mổ Xẻ nào đón lõng dưới chân thang giúp lồng ngực tôi thở phào đôi chút, nhưng toàn thân tôi vẫn run lên vì sợ hãi. Tôi tự nhủ với lòng sẽ không bao giờ ăn trộm nữa.</p>
+  
 
-<p class="para-en">I passed the short plate without ceremony, and the sanguine sluice died down. A flatsaw whistled through flesh above me. Cold wisps of frost steamed my visor as I hustled up to the platform.</p>
-<p class="para-vi-sub">Tôi leo qua tầng thịt ba chỉ sườn mà không gặp sự cố nào, dòng máu xối xả cũng bắt đầu ngớt dần. Đâu đó phía trên, lưỡi cưa phẳng rít lên ken két khi xẻ qua thớ thịt. Những làn hơi lạnh bốc lên làm mờ cả mặt kính bảo hộ khi tôi vội vã trèo lên sàn thao tác.</p>
+Bessa khựng lại, quay ngoắt sang đối diện với tôi. Dù thân hình tôi đã trở nên đồ sộ, đỉnh đầu tôi cũng chỉ vừa chạm đến cằm nó, và cân nặng của tôi chưa chắc đã bằng nổi một phần tư tầm vóc của nó. Dẫu vậy, tôi vẫn là một mối đe dọa mới xuất hiện giữa một ngày ngập tràn phẫn nộ và tang thương. Nó hít một hơi thật sâu, giậm mạnh chân trước bên phải xuống nền đất, ghim chặt móng lấy đà trước khi lao tới.
 
-<p class="para-en">As I crested it, Cori maneuvered her flatsaw to the top of a long, thick side-scale. Unlike the scales on the shanks, these had evolved to protect against being gored, bitten, and slashed. Each was as thick as my chest, twice as large in each direction, and easily fifty kilos each.</p>
-<p class="para-vi-sub">Lên tới nơi, tôi thấy Cori đang lựa thế đặt chiếc cưa phẳng trên đỉnh một phiến vảy sườn dài và dày cộm. Khác với lớp vảy ở phần bắp chân, những phiến vảy này sinh ra để chống lại những đòn húc thủng, cắn xé và chém rách. Mỗi phiến đều dày ngang lồng ngực tôi, bề rộng gấp đôi về mọi chiều và nặng ngót nghét năm mươi cân.</p>
+  
 
-<p class="para-en">As soon as she caught sight of me, Cori began to cut. I hurried into position, throwing all my body weight against the scale so it wouldn’t move as she brought the flatsaw through the tendons that connected it to the muscle.</p>
-<p class="para-vi-sub">Vừa thoáng thấy bóng tôi, Cori liền bắt đầu cưa. Tôi vội vã vào vị trí, dồn toàn bộ trọng lượng cơ thể tì chặt lên phiến vảy để nó không xê dịch khi cô lia lưỡi cưa phẳng qua các dải gân nối vào thớ thịt.</p>
+*Một con quái thú Bò sát Carnephon khi phóng hết tốc lực có thể quét qua quãng đường một cây số chỉ trong chừng mười giây.*
 
-<p class="para-en">“Hey,” I grunted awkwardly. We were a bit past wasting time to share greeting snacks by then. Deductions and all that.</p>
-<p class="para-vi-sub">“Chào cô,” tôi gượng gạo càu nhàu. Giờ đây chúng tôi đã qua cái thời phí phạm thì giờ để chia nhau chút đồ ăn vặt làm quen. Nào là tiền phạt trừ vào khế ước cùng đủ thứ luật lệ phiền toái khác.</p>
+  
 
-<p class="para-en">“Howdy,” she drawled back.</p>
-<p class="para-vi-sub">“Chào anh,” cô uể oải đáp lại bằng giọng kéo dài.</p>
+*Khoảng cách ngăn giữa tôi và nó chỉ vỏn vẹn phân nửa con số ấy.*
 
-<p class="para-en">“About yesterday…” I started.</p>
-<p class="para-vi-sub">“Về chuyện hôm qua...” tôi ấp úng mở lời.</p>
+  
 
-<p class="para-en">“I was tired.”</p>
-<p class="para-vi-sub">“Tôi mệt thôi.”</p>
+Chị Meg từng dạy tôi rằng loài quái thú Bò sát Carnephon có một điểm yếu chí mạng: một mẩu xương nằm giữa hộp sọ và tai giữ vai trò như con lắc thăng bằng của cơ thể. Nếu có thể bẻ gãy mẩu xương đó, con bò mộng sẽ mất đi toàn bộ thính giác lẫn khả năng giữ thăng bằng.
 
-<p class="para-en">I relaxed, my breath practically collapsing my lungs in its haste to exit my body.</p>
-<p class="para-vi-sub">Tôi thở phào nhẹ nhõm, luồng khí thoát vội ra khỏi lồng ngực đến mức gần như làm xẹp cả hai lá phổi.</p>
+  
 
-<p class="para-en">“Wow,” Cori commented. “You were sure I sold you out, huh?”</p>
-<p class="para-vi-sub">“Chà,” Cori nhận xét. “Anh chắc mẩm là tôi đã bán đứng anh rồi chứ gì?”</p>
+Bản năng ban đầu xui khiến tôi cắm chặt chân xuống đất rồi né sang một bên vào khoảnh khắc chót, mặc kệ nó tông thẳng vào dãy nhà tập thể để nện vỡ hộp sọ, hy vọng lực va đập khủng khiếp sẽ bẻ gãy mẩu xương tai. Thế nhưng làm vậy sẽ san phẳng những gì còn sót lại của Chợ Gia Vị Hắc Ám, mà theo những gì tôi từng chứng kiến, việc đâm sầm vào các công trình dường như chẳng hề làm nó suy suyển.
 
-<p class="para-en">“Why didn’t you?” I couldn’t wrap my mind around it. She’d known me a few weeks. What reason did she have to keep a decade of indenture?</p>
-<p class="para-vi-sub">“Sao cô lại không làm thế?” Tôi không tài nào hiểu nổi. Cô mới chỉ quen tôi được vài tuần. Có lý do gì để cô chịu gánh thay mười năm khế ước lao dịch chứ?</p>
+  
 
-<p class="para-en">“I still might,” she admitted.</p>
-<p class="para-vi-sub">“Có khi tôi vẫn sẽ làm đấy,” cô thừa nhận.</p>
+Vào tích tắc cuối cùng, tôi nghiêng mình nhào sang bên phải với hy vọng nó sẽ không kịp chuyển hướng, giúp tôi có thêm thời gian toan tính. Song nó đổi hướng nhanh như chớp, phản xạ sắc bén chẳng kém gì những lưỡi đao tôi từng vung lên thân thể nó. Nó hạ thấp đầu, rồi hất tung tôi lên không trung.
 
-<p class="para-en">Blackmail? I tried to feel her out as we worked to remove the scales for our cut. We needed to do the entire top of the rib, using three different levels of the scaffold. It would take us at least two shifts to remove the scales and another three or four to cut the meat from the bone. If Bessa died in the process—and after weeks of cuts, she could—we’d leave the bone in to preserve flavor. I hoped she wouldn’t, but maybe I should’ve? I guess I just hated how powerless she was to her own suffering. If I wanted her to die to ease her suffering, I was only a step away from wanting that for all common.</p>
-<p class="para-vi-sub">Tống tiền sao? Tôi cố thăm dò cô trong lúc cả hai tiếp tục cạy từng phiến vảy cho mẻ róc thịt. Chúng tôi cần xử lý toàn bộ phần đỉnh xương sườn bằng cách di chuyển qua ba tầng giàn giáo khác nhau. Sẽ mất ít nhất hai ca làm việc để bóc sạch lớp vảy, và thêm ba đến bốn ca nữa để róc thịt ra khỏi xương. Nếu Bessa chết trong quá trình này (điều hoàn toàn có thể xảy ra sau nhiều tuần bị xẻ thịt liên miên), chúng tôi sẽ phải giữ nguyên xương để bảo tồn hương vị. Tôi hy vọng nó sẽ không chết, nhưng biết đâu tôi nên mong điều ngược lại? Có lẽ tôi chỉ căm ghét cái cách nó hoàn toàn bất lực trước nỗi đau đớn của chính mình. Nếu tôi muốn nó chết để giải thoát khỏi đau đớn, thì tôi cũng chỉ còn cách một bước là muốn điều đó xảy ra với toàn bộ tầng lớp Thứ Phẩm.</p>
+  
 
-<p class="para-en">The city only had three bulls left: one male and two females. The other female, who I called Heffa, had survived her yearly flaying and was a few months from laying eggs for the male, Angus. Technically, that made Bessa expendable; she was past her egg-laying years. But she wasn’t scheduled to die this round. The war effort couldn’t afford to lose her. Not that I really cared about that side of it. I had faith she could withstand at least two more flayings. The civil war with the rebels pushed the masters to get everything they could out of her, but she was a strong old cow.</p>
-<p class="para-vi-sub">Thành phố chỉ còn lại ba con cự thú: một con đực và hai con cái. Con cái còn lại, con mà tôi đặt tên là Heffa, đã sống sót qua đợt róc thịt hằng năm và chỉ còn vài tháng nữa là đến kỳ đẻ trứng cho con đực, Angus. Xét về mặt lý thuyết, điều đó khiến Bessa trở thành một con thú có thể loại bỏ, vì nó đã qua độ tuổi sinh sản. Nhưng đợt này nó chưa bị đưa vào danh sách xử tử. Nhu cầu phục vụ chiến tranh không cho phép họ để mất nó. Không phải vì tôi bận tâm gì đến chuyện chiến sự đó. Tôi tin chắc nó có thể chịu đựng thêm ít nhất hai mùa róc thịt nữa. Cuộc nội chiến với quân phiến loạn đã thúc ép đám chủ nhân vắt kiệt mọi thứ có thể từ nó, nhưng nó là một con thú cái già dặn và kiên cường.</p>
+Tôi đâm sầm xuyên qua mái Chợ Gia Vị Hắc Ám. Bốn tầng nhà đổ sụp xuống theo thân xác tôi trong một làn bụi mịt mù ngột ngạt. Khung xương sườn bầm giập đâm nhói vào buồng phổi, nhưng sau khi hớp lại được từng ngụm khí, tôi gạt phăng đống gạch đá còn nghi ngút khói trên ngực sang bên rồi lảo đảo gượng dậy giữa đống đổ nát hoang tàn.
 
-<p class="para-en">The end-of-shift bell rang right as we dropped a scale into the offal.</p>
-<p class="para-vi-sub">Tiếng chuông hết ca vang lên đúng lúc chúng tôi quẳng một phiến vảy xuống đống phế phẩm.</p>
+  
 
-<p class="para-en">“Where does all that go?” Cori asked, her first words since subtly threatening me that morning.</p>
-<p class="para-vi-sub">“Tất cả những thứ đó sẽ đi về đâu?” Cori hỏi. Đó là những lời đầu tiên cô cất lên kể từ lời đe dọa đầy ẩn ý vào sáng nay.</p>
+Trước khi mắt tôi kịp nhìn rõ xung quanh, một cú húc dốc toàn lực khác lại giáng mạnh vào mạn sườn tôi. Chiếc sừng của nó sượt qua đầu tôi trong đường tơ kẽ tóc, đâm xuyên vào khoảng không hai bên, nhưng vòm sọ cứng như thép nguội của nó đã nện thẳng vào một bên thái dương tôi. Đất trời tối sầm lại, tôi đổ sụp xuống như một con rối đứt dây, mặc cho nó mặc sức giày xéo qua thân mình. Cơn đau dữ dội bùng lên nơi đùi phải. Cơn choáng váng mới ập đến nghẹn ứ nơi cuống họng, khiến tôi nôn thốc nôn tháo ra máu cùng những mảng thịt vụn xuống nền đất nát vụn.
 
-<p class="para-en">“I don’t know,” I realized. “It’s inedible, so they probably bring it to the farms to rot and become fertilizer.”</p>
-<p class="para-vi-sub">“Tôi không biết,” tôi sực nhận ra. “Mấy thứ đó không ăn được, nên chắc họ mang đến các nông trang để ủ mục làm phân bón.”</p>
+  
 
-<p class="para-en">“Bones, too?”</p>
-<p class="para-vi-sub">“Cả xương nữa à?”</p>
+Ngay tức khắc, tôi cảm nhận rõ rệt sinh lực trong mình đang suy giảm. Tôi dám chắc chiều cao của mình vừa sụt mất một hai mét.
 
-<p class="para-en">I hadn’t given that much thought. Heffa had been my first, and she still lived. “I guess they probably would go to the farms, too?”</p>
-<p class="para-vi-sub">Tôi chưa từng nghĩ nhiều về chuyện này. Heffa là con đầu tiên tôi từng mổ xẻ, và nó vẫn còn sống. “Tôi đoán chắc xương cũng chuyển về các nông trang thôi?”</p>
+  
 
-<p class="para-en">Cori grunted, clearly unconvinced. “Pretty sure that would poison the crops.”</p>
-<p class="para-vi-sub">Cori cằn nhằn một tiếng, rõ ràng không hề bị thuyết phục. “Tôi dám chắc làm thế sẽ đầu độc mùa màng cho xem.”</p>
+Tôi đang rơi vào thế yếu và cần người chi viện. Những trận hỗn chiến giữa đôi bên vẫn diễn ra rải rác khắp chiến trường, và quang cảnh hỗn loạn ấy đã tiếp thêm động lực cho tôi gượng dậy. Không một ai thèm tận dụng sự chú ý mà tôi đang gánh chịu để xông vào khống chế Bessa. Chẳng lẽ trên cõi đời này, tôi là kẻ duy nhất muốn ngăn chặn thảm kịch này hay sao?
 
-<p class="para-en">She pushed back from the edge of the platform and examined the exposed meat of the rib. Closer to Bessa’s heart, the heartbeat slapped ripples of blood through the flesh.</p>
-<p class="para-vi-sub">Cô lùi lại khỏi mép bục và quan sát phần thịt sườn lộ ra ngoài. Càng gần tim của Bessa, từng nhịp đập càng dồn những gợn máu loang loáng qua thớ thịt.</p>
+  
 
-<p class="para-en">“Amazing, right?” I laid a hand against the muscle.</p>
-<p class="para-vi-sub">“Kinh ngạc thật, đúng không?” Tôi đặt một tay lên khối cơ.</p>
+Tiếng thét uất nghẹn của tôi vang lên, làm chấn động vỡ vụn những mảnh kính sót lại và thổi bạt làn khói xung quanh. Khi lồng ngực tôi căng phồng lên, buồng phổi dường như cũng mạnh mẽ hơn bội phần, phát ra một luồng uy lực khiến ngay cả bản thân tôi cũng phải bàng hoàng kinh ngạc. Toàn bộ chiến trường sững sờ khựng lại trừng mắt nhìn tôi, bao gồm cả sinh vật duy nhất mà tôi đang muốn tránh xa tầm mắt nó nhất. Bessa gầm lên một tiếng xé trời, lầm tưởng tiếng thét của tôi chính là lời tuyên chiến.
 
-<p class="para-en">Cori matched me, recoiling a smidge at the first beat. “Ain’t necessarily the word I’d use, but she’s something fierce, alright.” She hid a chuckle that bordered on a snort as a second beat pushed her back half a step. It was an inviting sound, and as I heard it, the anxiety of being blackmailed slipped away.</p>
-<p class="para-vi-sub">Cori cũng làm theo tôi, khẽ rụt tay lại một chút trước nhịp đập đầu tiên. “Không hẳn là từ tôi sẽ dùng, nhưng quả thật nó rất mãnh liệt.” Cô giấu một tiếng cười khúc khích suýt hóa thành tiếng khịt mũi khi nhịp đập thứ hai đẩy tay cô lùi lại nửa bước. Đó là một âm thanh dễ chịu, và khi nghe thấy nó, nỗi lo lắng về việc bị tống tiền bỗng chốc tan biến.</p>
+  
 
-<p class="para-en">“So do we take our cut now, or do we wait for something else?”</p>
-<p class="para-vi-sub">“Vậy giờ chúng ta cắt thịt luôn, hay là đợi chuyện khác?”</p>
+Tôi lảo đảo lùi bước khi nó lao tới, ép chặt vai vào bức tường của tòa nhà bên cạnh, tự dồn mình vào thế bí không còn đường lui một cách ngớ ngẩn. Nó lao bổ xuống, cặp sừng chực đâm lút vào ngực tôi, nhưng theo bản năng sinh tồn, tôi vội xoay người, giơ hai tay lên che mặt một cách yếu ớt. Hoàn toàn nhờ vào may mắn, cú xoay người đã giúp tôi đấm trúng cằm nó, khiến cặp sừng găm chệch vào bức tường gạch ở hai bên đầu tôi. Cái trán cứng như thép tấm của nó lại nện thẳng vào đầu tôi thêm một cú trời giáng, làm tôi choáng váng cắn phập vào lưỡi. Máu tươi ứa ra tai và khoang miệng, tôi nhổ toẹt một búng máu khi đất trời xung quanh bắt đầu chao đảo.
 
-<p class="para-en">The anxiety came right back, and I instinctively checked the air above us for spotlights. Again, they were clustered around the chuck, and it occurred to me that we hadn’t had any surveillance during our shift, despite a few delays. Where were the overseers?</p>
-<p class="para-vi-sub">Nỗi lo âu lập tức quay trở lại. Theo bản năng, tôi ngước nhìn khoảng không phía trên để tìm những ánh đèn pha. Một lần nữa, chúng lại tụm lại quanh phần thịt vai, và tôi chợt nhận ra chúng tôi không hề bị giám sát trong suốt ca làm việc của mình, dù có vài lần bị chậm trễ. Những kẻ giám sát đâu cả rồi?</p>
+  
 
-<p class="para-en">“You could be killed for this. You know that right?”</p>
-<p class="para-vi-sub">“Cô có thể bị giết vì việc này đấy. Cô biết rõ mà, đúng không?”</p>
+Nó gầm lên đầy giận dữ ngay sát bên tai đẫm máu của tôi khi không thể rút cặp sừng ra khỏi bờ tường gạch. Âm thanh ấy tựa như tiếng thét của một vị thần đang bị bóp nghẹt dưới nước. Cảm giác sai trái tột cùng ập đến... Tôi thọc hai lòng bàn tay vào nách nó, dồn hết sức mạnh khổng lồ của mình để đẩy bật ra ngoài. Bức tường nứt toác quanh cặp sừng khi nó gắng sức giật mạnh lên trên. Tôi gồng chặt đôi chân, nâng bổng toàn bộ thân xác đồ sộ của nó lên hai chân sau trong một thế nâng kỳ dị bậc nhất trần đời. Cổ nó quất mạnh liên hồi, còn hai chân trước vung những chiếc móng vuốt dài cả mét tát thẳng vào người tôi. Một nhát vuốt cào rách bả vai trần, rạch sâu vào da thịt tôi tựa những lưỡi dao sắc lẹm.
 
-<p class="para-en">“Show me a common who ain’t living in fear of being killed and I’ll introduce you to the missing princeps.”</p>
-<p class="para-vi-sub">“Chỉ cho tôi một người Thứ Phẩm nào không sống trong nỗi sợ bị giết đi, rồi tôi sẽ giới thiệu anh với vị Princeps mất tích.”</p>
+  
 
-<p class="para-en">Well, she wasn’t wrong. It’d been centuries since the old royals were deposed by the Rare, coincidentally about the same time common started dying for Rare enjoyment. The rebels claimed to have a legitimate heir—the princeps—but that was a myth to keep the stove burning, and nothing more.</p>
-<p class="para-vi-sub">Chà, cô không hề sai. Đã nhiều thế kỷ trôi qua kể từ khi hoàng tộc cũ bị lật đổ bởi giới Thượng Phẩm, cũng thật trùng hợp khi đó là khoảng thời gian người Thứ Phẩm bắt đầu phải bỏ mạng để làm trò tiêu khiển cho giới Thượng Phẩm. Phe phiến quân tuyên bố họ đang giữ một người thừa kế hợp pháp, chính là vị Princeps kia, nhưng đó chỉ là một câu chuyện hoang đường để giữ cho ngọn lửa bếp lò tiếp tục cháy, không hơn không kém.</p>
+*Nhưng mà, biết sao không? Cũng công bằng cả thôi.*
 
-<p class="para-en">“You’re sure?” I said.</p>
-<p class="para-vi-sub">“Cô chắc chứ?” Tôi hỏi.</p>
+  
 
-<p class="para-en">She stepped closer. “I didn’t come to Ranch for its legendary safety.”</p>
-<p class="para-vi-sub">Cô bước lại gần hơn. “Tôi đến Ranch chẳng phải vì sự an toàn được đồn thổi của nơi này đâu.”</p>
+Gầm lên một tiếng, tôi cắn mạnh vào thứ gần nhất mình có thể với tới: phần bắp chân của nó. Răng tôi ngập sâu qua từng thớ thịt mỏng rồi cắm thẳng vào xương. Dù tốc độ tái tạo da thịt của nó có phi thường đến đâu, nó vẫn chưa kịp chữa lành vết thương mà tôi đã gây ra bằng thanh đao cưa đồ tể của mình.
 
-<p class="para-en">The sarcasm emboldened me to slice away a forearm-long chunk of rib and cut it into a half-dozen cubes to split between us. So much more delicate than the slices that I’d taken off the shank. Marble glistened in the fibers, so seductively juicy I nearly took a bite right there to explore the flavor and begin getting a taste for it. But I restrained myself, shoving the meat away.</p>
-<p class="para-vi-sub">Sự mỉa mai đó đã tiếp thêm can đảm cho tôi xẻ một tảng sườn dài bằng cả cánh tay, rồi pha thành nửa tá khối vuông để chia đều cho hai đứa. Chúng mềm mại hơn nhiều so với những lát thịt tôi đã lạng ra từ phần bắp chân. Những vân mỡ lấp lánh trong từng thớ thịt, mọng nước đầy quyến rũ đến mức tôi suýt nữa đã cắn một miếng ngay tại chỗ để thưởng thức hương vị. Nhưng tôi đã kiềm chế lại, đẩy miếng thịt ra xa.</p>
+  
 
-<p class="para-en">Cori did not.</p>
-<p class="para-vi-sub">Cori thì không.</p>
+Tiếng gầm dữ dội bỗng chuyển thành một tiếng rít chói tai. Sự giãy giụa ban đầu biến thành những cú quẫy đạp loạn xạ.
 
-<p class="para-en">She removed her hood, upsetting a tumble of black curls that parted to the right and cascaded a smidge past a sharp jaw.</p>
-<p class="para-vi-sub">Cô kéo chiếc mũ trùm đầu ra, để lộ những lọn tóc xoăn màu đen rủ về phía bên phải và xòa nhẹ qua đường xương hàm sắc sảo.</p>
+  
 
-<p class="para-en">Those lips smirked below a slightly crooked nose, made more pronounced by a marbling scar that bridged it and the bull-ring septum-piercing that hung from it. Brown eyes lingered on me as she gave the meat a tentative lick. The mirth in those eyes grew, and I reached to remove my visor to try it too.</p>
-<p class="para-vi-sub">Đôi môi ấy khẽ nhếch lên cười bên dưới chiếc mũi hơi khoằm, càng nổi bật hơn bởi một vết sẹo loang lổ vắt ngang sống mũi cùng chiếc khuyên xỏ mũi bò lủng lẳng bên dưới. Đôi mắt nâu dừng lại trên người tôi khi cô rụt rè liếm thử miếng thịt. Niềm thích thú trong đôi mắt ấy ngày một lớn dần, khiến tôi cũng đưa tay tháo kính bảo hộ của mình ra để nếm thử.</p>
+Trước khi tôi kịp làm gì tiếp theo, nó đã lùi phắt lại bằng hai chân sau, quất mạnh một cú vuốt sượt qua mặt tôi rồi tháo lui.
 
-<p class="para-en">I didn’t get the chance.</p>
-<p class="para-vi-sub">Tôi không có cơ hội đó.</p>
+  
 
-<p class="para-en">The metal overseer’s platform above screeched and listed sideways, crashing into the pulley that connected both ends of Bessa’s cradle. As they collided, spotlight lamps along the platform exploded in cascading eruptions, sending fireballs into the pulley’s ropes and freeing the cradle.</p>
-<p class="para-vi-sub">Chiếc bục kim loại của tên giám sát phía trên rít lên chói tai rồi nghiêng hẳn sang một bên, đâm sầm vào cụm ròng rọc nối hai đầu nôi treo của Bessa. Cú va chạm khiến dãy đèn pha dọc theo bục nổ tung thành từng đợt lửa liên hoàn, bắn tung những quả cầu lửa thiêu rụi dây thừng ròng rọc, giải thoát cho chiếc nôi treo.</p>
+Thở dốc trong đau đớn ê ẩm, tôi đẩy mình rời khỏi bức tường rồi sải bước tiến ra Cánh Đồng Cỏ Cao, giơ hai nắm đấm lên thủ thế và hơi khuỵu gối xuống. Lần tới khi nó lao về phía tôi, tôi sẽ lừa sang trái, bật sang phải, rồi đấm thẳng vào mắt nó.
 
-<p class="para-en">An instant later, Bessa and the platforms anchored to her slammed into the ground, sending shockwaves. Blood splashed across the factory before a triumphant roar blasted through her lungs and Bessa rose triumphant among the bodies of dead butchers and shattered platforms.</p>
-<p class="para-vi-sub">Ngay khoảnh khắc tiếp theo, Bessa cùng những bục giàn giáo neo trên thân thể nó đổ sập xuống sàn, tạo nên những đợt chấn động dữ dội. Máu bắn tung tóe khắp xưởng mổ trước khi một tiếng gầm đắc thắng xé toạc buồng phổi nó vang lên. Bessa kiêu hãnh đứng thẳng dậy giữa xác những người thợ đồ tể đã chết và vô số mảnh kim loại vỡ nát vụn.</p>
+  
 
-<p class="para-en">Our unanchored scaffolding groaned. Boards cracked.</p>
-<p class="para-vi-sub">Giàn giáo không còn điểm neo của chúng tôi rung lên răng rắc. Những tấm ván gỗ nứt toác ra.</p>
+Thế nhưng, tôi gần như đánh mất ý chí chiến đấu ngay tức khắc.
 
-<p class="para-en">Before we could move, Bessa leaped from the rubble, bucking, and kicked the wall behind her. As the wall crumbled under the force, buckets of black sludge fell against her and one of the lamps set it ablaze. Feathers burst into flame, and she teetered into our scaffolding, screaming.</p>
-<p class="para-vi-sub">Trước khi chúng tôi kịp cử động, Bessa đã chồm dậy nhảy vọt ra khỏi đống đổ nát, rồi tung chân đá mạnh vào bức tường phía sau. Bức tường sụp đổ dưới lực va đập kinh hoàng, kéo theo những thùng bùn đen đổ ập xuống người nó, và một chiếc đèn dầu rơi trúng đã châm ngọn lửa bùng lên lớp bùn ấy. Bộ lông vũ bén lửa cháy ngùn ngụt, khiến nó lảo đảo húc vào giàn giáo của chúng tôi giữa tiếng gầm rú thảm thiết.</p>
+  
 
-<p class="para-en">Cori and I reached for the railing, hands scrabbling, but we skewed sideways. I caught myself on the rail, but the blood-slicked metal loosened my grip. My moms, Meg, my other friends all flashed across my eyes before I lost my hold and fell.</p>
-<p class="para-vi-sub">Cori và tôi cuống cuồng vươn tay bấu lấy thanh lan can khi cả giàn giáo nghiêng hẳn sang một bên. Tôi chụp được thanh vịn, nhưng lớp kim loại nhẫy máu trơn tuột khiến bàn tay tôi trượt đi. Hình ảnh hai người mẹ, chị Meg, cùng những người bạn thân thiết thoáng chốc lướt qua tâm trí ngay trước khi tôi hụt chân rơi xuống.</p>
+Khi đã hoàn hồn sau cú cắn của tôi, nó đi khập khiễng quanh bãi đất trống, giữ một khoảng cách an toàn. Mỗi bước đi của nó đều khựng lại một nhịp, và từng nhát khựng ấy cứ thế cứa đứt cơn thịnh nộ trong tôi. Dù cho nó đã gieo rắc bao chết chóc và hủy diệt sau lưng, rõ ràng lúc này nó cũng chỉ là một con thú đang hoảng sợ tột cùng. Nó khao khát tự do.
 
-<p class="para-en">Air burst from my lungs as my ribs cracked against something hard and metallic.</p>
-<p class="para-vi-sub">Toàn bộ dưỡng khí dường như vỡ vụn khỏi lồng ngực tôi khi mạng sườn va rầm vào một thanh kim loại cứng ngắc.</p>
+  
 
-<p class="para-en">Seconds or minutes later, I reached out in all directions, groaning. Splintered scaffolding pinned me like a cushion, but a hand caught my forearm and pulled me out of the debris.</p>
-<p class="para-vi-sub">Vài giây hay vài phút sau, tôi khẽ rên rỉ, quờ quạng tay ra xung quanh. Những thanh giàn giáo gãy nát đè nặng lên người tôi, nhưng rồi một bàn tay đã chộp lấy cẳng tay tôi, ra sức kéo tôi ra khỏi đống hoang tàn.</p>
+*Còn tôi lại đứng đây như một mối đe dọa ngáng đường nó. Ý nghĩ ấy khiến tôi buồn nôn.*
 
-<p class="para-en">“Kick, damn it,” Cori instructed as I squirmed through, gawking at the chaos.</p>
-<p class="para-vi-sub">“Đạp chân mạnh lên, chết tiệt thật!” Cori quát giục khi tôi cố lách người chui ra, mắt vẫn dán chặt vào cảnh tượng hỗn loạn trước mặt.</p>
+  
 
-<p class="para-en">Bessa had bulldozed the Factory’s brick wall, cracking a spiderweb of brick thirty meters across. With a roar, she reared onto bloody haunches and kicked with her forelegs, bursting through. Human screams pierced Bessa’s low roar of triumph as people outside scattered.</p>
-<p class="para-vi-sub">Bessa đã húc thủng bức tường gạch của Xưởng của Nhà Vua, để lại những vết nứt hình mạng nhện lan rộng tới ba mươi mét. Kèm theo một tiếng gầm, nó chống hai chân sau đẫm máu rồi đạp mạnh hai chân trước, phóng vọt ra ngoài. Tiếng la hét kinh hoàng của đám đông bên ngoài xé toạc tiếng gầm đắc thắng trầm đục của Bessa khi mọi người hoảng loạn tháo chạy tán loạn.</p>
+*“KHÔNG MỘT AI TRONG CÁC NGƯỜI CHẾ NGỰ NỔI NÓ SAO?”* Tôi hét lên. Giọng tôi vang rền như sấm động, trầm đục và dữ dội với sức gầm rú từ buồng phổi của một thân xác khổng lồ. *“HÃY TÔN TRỌNG THÀNH PHỐ NÀY! HÃY ĐỨNG VỮNG! HÃY GIÚP CHÚNG TÔI!”*
 
-<p class="para-en">This wasn’t supposed to be possible. Where were the carvers to stop her? Where was the king and his recipe to control the minds of emphon?</p>
-<p class="para-vi-sub">Chuyện này lẽ ra không thể nào xảy ra. Lính Mổ Xẻ đâu cả rồi, sao không ai ngăn nó lại? Nhà vua và Đại công thức kiểm soát tâm trí quái thú bò mộng Emphon của hắn đâu rồi?</p>
+  
 
-<p class="para-en">With a flick of her tail, Bessa jumped through the hole to take her revenge on Ranch.</p>
-<p class="para-vi-sub">Bằng một cú quất đuôi uy lực, Bessa lao qua lỗ thủng để trút cơn thịnh nộ báo thù xuống thành phố Ranch.</p>
+Nếu trên chiến trường còn chiến binh nào chưa nhìn thấy tôi, thì lúc này tất cả đều đã đổ dồn ánh mắt về phía tôi. Một hiệp ước ngầm không lời đã tạm thời dập tắt mọi cuộc giao tranh, thậm chí có kẻ còn hét vọng lại: “Ngươi là cái quái gì thế?”
 
-<p class="para-en">“That’s gonna be bad,” Cori said.</p>
-<p class="para-vi-sub">“Tệ thật rồi,” Cori nói.</p>
+  
 
-<p class="para-en">“We have to do something,” I said. “Stop her until the king can take control.”</p>
-<p class="para-vi-sub">“Chúng ta phải làm gì đó thôi!” Tôi đáp. “Phải giữ chân nó lại cho đến khi nhà vua kiểm soát được tình hình.”</p>
+Tôi còn chưa kịp đáp lời.
 
-<p class="para-en">Cori looked at me like I was raving, but I didn’t care. My moms, my friends, everyone I cared for lived in this city. I could hate my job and the king and his indenture, but I couldn’t stand by as it was destroyed by a tortured carnephon.</p>
-<p class="para-vi-sub">Cori nhìn tôi như thể tôi đang phát cuồng vì mê sảng, nhưng tôi chẳng màng để tâm. Các mẹ của tôi, bạn bè của tôi, tất cả những người tôi yêu thương đều đang sống trong thành phố này. Tôi có thể căm ghét công việc của mình, căm ghét nhà vua và bản khế ước lao dịch của hắn, nhưng tôi tuyệt đối không thể khoanh tay đứng nhìn nơi chốn này bị hủy diệt bởi một con quái thú Bò sát Carnephon từng bị đày đọa tàn nhẫn.</p>
+  
 
-<p class="para-en">I didn’t know how I’d help, but I ran after Bessa anyway.</p>
-<p class="para-vi-sub">Tôi chẳng biết bản thân có thể giúp được gì, nhưng đôi chân vẫn cứ lao đi theo bóng Bessa.</p>
+Bessa hẳn đã lầm tưởng tiếng gầm của tôi là một lời khiêu chiến khác, bởi nó lại lao thẳng tới. Tôi không còn bức tường sau lưng làm điểm tựa nữa, nhưng tôi cũng chẳng dại gì đánh giá thấp sự khéo léo của nó. Khi nó áp sát và cúi đầu định húc, tôi hạ thấp trọng tâm rồi lách nhẹ sang bên trái. Đoán rằng tôi sẽ né sang phải, nó liền vung cặp sừng về hướng đó hòng hất tung tôi một lần nữa, nhưng cú đánh trượt hoàn toàn. Nó lao vút qua, hai chân sau chổng ngược lên không trung nhằm trợ lực cho cú hất.
 
-<p class="para-en">“Paprick, stop!” Cori shouted.</p>
-<p class="para-vi-sub">“Paprick, dừng lại ngay!” Cori hét lên.</p>
+  
 
-<p class="para-en">I can’t help but wonder what the world would look like if I had listened.</p>
-<p class="para-vi-sub">Tôi không khỏi tự hỏi, liệu thế giới này giờ đây sẽ ra sao nếu vào khoảnh khắc ấy tôi chịu dừng bước lắng nghe.</p>
+Trụ vững hai chân, tôi vòng tay ôm ghì lấy cặp chân sau đang lướt tới của nó. Từng thớ cơ khổng lồ trên cơ thể tôi căng cứng để chống lại đà lao bạt mạng, rồi tôi gồng chặt chân, giật mạnh nó lùi lại. Nó rống lên đau đớn khi cả hai cùng ngã nhào về phía sau. Cột sống và đầu của nó đập mạnh xuống mặt đường trong một cú quật ngược ngoạn mục. Những tòa nhà rung chuyển dữ dội, lớp đá cuội lát đường nứt toác dưới sức nặng cộng dồn của cả hai thân xác đồ sộ.
+
+  
+
+Nhanh như cắt, tôi trèo lên lưng nó trong lúc nó còn đang choáng váng, khóa chặt cánh tay quanh cổ họng để siết cho nó ngất đi. Nó vùng vẫy điên cuồng, móng vuốt cào cấu dữ dội vào cánh tay tôi. Rồi nó lật nhào, đè cả tấn trọng lượng lên lồng ngực tôi. Trong tình thế đảo ngược đầy nghiệt ngã, tôi không tài nào hít thở nổi. Ngay cả khi đang siết cổ nó, chính tôi cũng đang chết ngạt dần. Xương ngực tôi rạn vỡ (phải rất lâu sau này tôi mới sáng tạo ra phép Cường Hóa Endurium giúp biến xương mình thành tinh thể Endurium cứng cáp như nó), vài mảnh xương gãy đâm ngược vào bên trong. Máu trào qua kẽ răng khi bóng tối của cơn ngạt thở dần nuốt chửng lấy tôi.
+
+  
+
+Tầm nhìn của tôi bắt đầu tối sầm lại ở khóe mắt, tâm trí ong ong tựa tiếng ve rền khiến tôi phân tâm, nhưng đôi tay tôi vẫn siết chặt lấy cổ họng nó. Nó đáng phải nhận kết cục này. Thành phố này xứng đáng được giải thoát.
+
+  
+
+Tôi không rõ đó là ai, một Lính Mổ Xẻ hay một chiến sĩ phiến quân. Một kẻ vận đồ đen tuyền vừa đâm mạnh ngọn thương chiến trận vào cổ con quái thú. Tôi thều thào, cố rặn ra từ *không*, nhưng thanh âm bật ra chỉ là tiếng khò khè đứt quãng như người hấp hối. Kẻ đó ấn ngọn thương sâu hơn nữa rồi rạch phăng sang một bên. Máu phun xối xả từ động mạch cảnh của Bessa trong lúc tôi vẫn ghì chặt lấy cổ họng nó.
+
+  
+
+“Buông ra!” Một giọng nói khác hét thẳng vào tai tôi.
+
+  
+
+Tôi giật nảy mình rồi buông tay. Dòng máu rỉ ra lập tức bùng nổ thành một vòi phun xối xả. Bessa, giờ đây đang hấp hối, giãy giụa dữ dội rồi lăn khỏi lồng ngực tôi. Thế nhưng tôi vẫn chẳng thể nào thở nổi.
+
+  
+
+“Gã này toi rồi,” ai đó nhận xét.
+
+  
+
+“Tiếc thật,” một kẻ khác đáp lời. “Tôi rất muốn có được bất kỳ Đại công thức ma thuật nào làm nên chuyện này.”
+
+  
+
+“Bọn chúng đang tới đấy!” Giọng nói sau cùng vang lên cảnh báo.
+
+  
+
+Tôi cố cựa mình để tìm xem tiếng nói phát ra từ đâu, nhưng thân xác Bessa, dù đã chết hay còn đang thoi thóp, vẫn đè ngang hông tôi, còn xương sườn thì nhói buốt đến mức khiến mắt tôi tối sầm lại vì đau đớn.
+
+  
+
+“Xẻ lấy càng nhiều thịt càng tốt rồi biến xéo khỏi đây mau.”
+
+  
+
+“Còn gã này thì sao?” Một giọng nói lè nhè cất lên ngay sát tai tôi.
+
+  
+
+“Kệ xác hắn!”
+
+  
+
+Không thể nhúc nhích, tôi trừng trừng nhìn lên bầu trời mịt mù khói đạn, há mồm thở dốc như một con cá mắc cạn, đinh ninh rằng mình sắp chết lần thứ hai chỉ trong vòng vài phút ngắn ngủi. Nhưng ít nhất, tôi cũng đã chặn đứng được cơn điên cuồng tàn phá ấy.
+
+  
+
+Tiếng bước chân rậm rịch chạy xa dần. Có kẻ nhảy vọt qua người tôi.
+
+  
+
+Tôi cảm thấy lạnh buốt bất chấp hơi nóng hầm hập xung quanh.
+
+  
+
+“Tình hình thế nào?” Một giọng trầm đục cất lên.
+
+  
+
+“Chưa rõ, thưa ngài. Nhưng con quái thú bò mộng Emphon đã chết rồi.”
+
+  
+
+“Còn hắn thì sao?”
+
+  
+
+Tôi cảm thấy những bước chân dẫm lên ngực mình tựa như đàn chuột đang chạy lách tách.
+
+  
+
+“Đang hấp hối sao?”
+
+  
+
+“Nếu hắn chết, ngươi cũng chôn thây cùng hắn.”
+
+  
+
+*Ngay sau đó, tôi lịm dần vào bóng tối.*

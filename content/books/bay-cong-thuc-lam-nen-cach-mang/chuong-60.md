@@ -1,121 +1,225 @@
-# Món Thứ Sáu • Gia vị ướp Emphon
+# 58 Những đội quân
 
-<p class="para-en">Also known as the Emphon Taco, the Enhanced Emphon Rub is best paired with a light or sour beer and a light salad, refried beans, and/or rice. For those with a lower spice tolerance, sour cream is recommended.</p>
-<p class="para-vi-sub">Món ăn này còn được biết đến với tên gọi Bánh Taco Emphon. Món Gia vị ướp Emphon Cường hóa phát huy hương vị tuyệt hảo nhất khi dùng kèm một ly bia nhẹ hoặc bia chua, ăn cùng đĩa salad thanh đạm, đậu nghiền chiên hoặc cơm. Đối với những ai ít ăn được cay, nên dùng thêm kem chua để làm dịu vị nồng.</p>
+*Món Thứ Sáu • Thịt Ướp Emphon*
 
-<p class="para-en">Ingredients (serves 1):</p>
-<p class="para-vi-sub">Nguyên liệu (khẩu phần 1 người):</p>
+Cơn thịnh nộ cuộn trào trong tôi thấm đẫm vào phong vị, biến nó thành một thứ tàn độc khôn cùng. Chát chúa, nồng gắt và thô ráp. Tựa như đất cát và sự mục ruỗng. Tựa như cái chết và sự tàn sát diệt vong. Tựa như cảnh những khu Thứ Phẩm bị san phẳng, tựa như nỗi đọa đày của cả một kiếp người. Đó là mùi vị của một lưỡi dao được gọt đẽo từ xương cốt của những kẻ từng bị vương quốc này phản bội, dẫu là người Thứ Phẩm hay loài quái thú bò mộng Emphon.
 
-<p class="para-en">Tomatillo Salsa:</p>
-<p class="para-vi-sub">Sốt Salsa Cà Chua Cây Tomatillo:</p>
+  
 
-<p class="para-en">tomatillos</p>
-<p class="para-vi-sub">2 quả cà chua cây tomatillo</p>
+Và tôi thề, quả ớt ấy rực sáng Sức bền ma thuật khi tôi dồn ma lực Cường hóa cho nó.
 
-<p class="para-en">¼ cup white onion, finely chopped</p>
-<p class="para-vi-sub">¼ cốc hành tây trắng, băm nhỏ</p>
+  
 
-<p class="para-en">clove garlic, minced</p>
-<p class="para-vi-sub">1 nhánh tỏi, băm nhuyễn</p>
+Phong vị ấy thiêu đốt dọc cổ họng, nóng rực như lửa và bỏng rát tựa độc dược. Khi tôi nuốt trọn vào bụng, Sức bền ma thuật phóng toạt ra từ sâu thẳm tâm can. Một luồng nhiệt nóng bỏng xé rách niêm mạc dạ dày với sức nặng tựa như lần tôi nếm trải Hương Vị Đầu Tiên trong gian bếp của Đầu Bếp Ilantra năm nào.
 
-<p class="para-en">¼ cup cilantro, chopped</p>
-<p class="para-vi-sub">¼ cốc ngò rí, thái nhỏ</p>
+  
 
-<p class="para-en">jalapeño peppers, whole (removing stem and seed may reduce potency of flavor and cause greater recipe to fail)</p>
-<p class="para-vi-sub">2 quả ớt jalapeño, để nguyên quả (việc bỏ cuống và hạt có thể làm giảm độ bùng nổ hương vị, khiến Đại công thức ma thuật thất bại)</p>
+Quá nhiều năng lượng ma thuật Endurium cho một ngày.
 
-<p class="para-en">Salt to taste</p>
-<p class="para-vi-sub">Muối nêm vừa ăn</p>
+  
 
-<p class="para-en">3 30–50g bull emphon rib chunks, cubed</p>
-<p class="para-vi-sub">3 miếng thịt sườn quái thú bò mộng Emphon từ 30–50 gram, thái hạt lựu</p>
+Nhưng tôi vẫn ngấu nghiến nuốt lấy.
 
-<p class="para-en">½ cup oil, for dredging</p>
-<p class="para-vi-sub">½ cốc dầu ăn, dùng để áo đều thịt</p>
+  
 
-<p class="para-en">Rub:</p>
-<p class="para-vi-sub">Gia vị ướp Emphon:</p>
+Bao lâu nữa chất độc này sẽ quật ngã tôi, tôi chẳng hề hay biết. Tôi cũng chẳng bận tâm, miễn sao ngần ấy thời gian là đủ để tôi tận mắt chứng kiến tên vua bạo tàn này phải đền mạng.
 
-<p class="para-en">tsp smoked paprika</p>
-<p class="para-vi-sub">2 thìa cà phê ớt bột paprika hun khói</p>
+  
 
-<p class="para-en">tsp chili powder (ancho preferred, but any will do)</p>
-<p class="para-vi-sub">1 thìa cà phê bột ớt (ưu tiên ớt ancho, nhưng có thể dùng loại khác)</p>
+Trong lúc lũ Thợ Săn Mặt Nạ tiếp tục lao vào tấn công Cori, tôi vươn tâm trí ra xa. Thay vì tìm đến bầy bò mộng còn sống trong khu Trại Nhốt Pen cùng Vanil, tôi cảm nhận được những bộ xương chứa Endurium của bầy quái thú Bò sát Carnephon ngoài Cánh Đồng Cỏ Cao vẫn nằm nguyên vẹn, cùng với xương cốt của Bessa, của cả chục con Carnephon khác, và một thực thể cổ xưa *thực sự* đang bị chôn vùi dưới đáy Cao nguyên Fen.
 
-<p class="para-en">¼ tsp oregano</p>
-<p class="para-vi-sub">¼ thìa cà phê kinh giới cay oregano</p>
+  
 
-<p class="para-en">½ tsp garlic powder</p>
-<p class="para-vi-sub">½ thìa cà phê bột tỏi</p>
+Ngay khoảnh khắc chạm tới thi hài ấy, tôi nghẹn thở, ngoảnh đầu nhìn lại nơi mà trước đây tôi vẫn ngỡ chỉ là một cấu trúc địa hình tự nhiên, nhận ra đó thực chất là một nấm mồ cổ xưa.
 
-<p class="para-en">¼ tsp onion powder</p>
-<p class="para-vi-sub">¼ thìa cà phê bột hành</p>
+  
 
-<p class="para-en">½ tsp salt</p>
-<p class="para-vi-sub">½ thìa cà phê muối</p>
+Thế nhưng tôi chẳng còn thì giờ để bận tâm suy xét. Bằng một nhát chém từ đao cưa đồ tể, tôi tiện đứt đầu một tên Thợ Săn Mặt Nạ vừa áp sát rồi quát:
 
-<p class="para-en">tsp skyroot powder</p>
-<p class="para-vi-sub">1 thìa cà phê bột rễ trời</p>
+  
 
-<p class="para-en">tsp lime juice</p>
-<p class="para-vi-sub">2 thìa cà phê nước cốt chanh</p>
+“Đến lúc đi rồi!”
 
-<p class="para-en">tsp oil</p>
-<p class="para-vi-sub">1 thìa cà phê dầu ăn</p>
+  
 
-<p class="para-en">Cayenne pepper to taste</p>
-<p class="para-vi-sub">Ớt bột cayenne nêm vừa ăn</p>
+Tôi và Cori mở đường máu thoát ra khỏi gầm bàn, dựa vào nguồn Sức bền ma thuật dồi dào để gia tăng uy lực cho từng đòn đánh. Cùng nhau, chúng tôi mở đường ra tới vườn xương rồng, điều chỉ có thể thành hiện thực nhờ khả năng tái tạo phi thường của Cori. Lũ Thợ Săn Mặt Nạ bám đuôi ráo riết, và chỉ trong thoáng chốc, chúng tôi đã rơi vào vòng vây. Dù bị bủa vây giữa cả trăm tên Thợ Săn Mặt Nạ, tôi vẫn thấy đội quân của nhà vua đang cuồn cuộn phình to. Hàng ngàn hàng vạn Lính Mổ Xẻ từ khu Trại Nhốt Pen phía bắc tràn qua khu vườn theo một nhịp điệu đồng bộ đến rợn người.
 
-<p class="para-en">Black pepper to taste, typically no more than a pinch</p>
-<p class="para-vi-sub">Tiêu đen nêm vừa ăn, thường không quá một nhúm nhỏ</p>
+  
 
-<p class="para-en">1–3 applewood skewers</p>
-<p class="para-vi-sub">1–3 xiên que gỗ táo</p>
+Tôi tranh thủ một giây ngước nhìn lên mái cung điện hoàng gia, trông thấy hai mẹ của tôi cùng Laven đang bị treo lơ lửng trên những thanh xà. Ít nhất thì bọn chúng vẫn chưa thả rơi họ xuống.
 
-<p class="para-en">small tortillas, white corn</p>
-<p class="para-vi-sub">2 vỏ bánh ngô tortilla nhỏ, làm từ ngô trắng</p>
+  
 
-<p class="para-en">Optional toppings:</p>
-<p class="para-vi-sub">Thành phần phủ tùy chọn:</p>
+Và rồi, tôi vận dụng Đại công thức ma thuật mới nhất của mình để triệu hồi đội quân cho riêng tôi.
 
-<p class="para-en">Cilantro</p>
-<p class="para-vi-sub">Ngò rí</p>
+  
 
-<p class="para-en">20g pineapple, sliced or cubed (not recommended alongside guavacado)</p>
-<p class="para-vi-sub">20 gram dứa, thái lát hoặc thái hạt lựu (không khuyến khích dùng chung với quả bơ ổi)</p>
+Tôi phải mất một thoáng để đánh thức những bộ hài cốt của bầy quái thú Bò sát Carnephon rải rác khắp Ranch. Tôi phải nhắc nhở từng sợi dây chằng cùng thớ cơ cách thức chúng từng vận hành, theo cách mà chỉ một người thợ đồ tể tường tận chân tơ kẽ tóc cấu trúc cơ thể chúng mới có thể làm được.
 
-<p class="para-en">dollop sour cream</p>
-<p class="para-vi-sub">1 muỗng kem chua</p>
+  
 
-<p class="para-en">Grilled veggie mix (green and red bell pepper, red or yellow onion)</p>
-<p class="para-vi-sub">Hỗn hợp rau củ nướng (ớt chuông xanh và đỏ, hành tây đỏ hoặc vàng)</p>
+“Em phải bảo vệ anh đấy,” tôi bảo Cori. “Trong lúc tâm trí anh phân tán.”
 
-<p class="para-en">¼ avocado or guavacado (if sweetness is preferred)</p>
-<p class="para-vi-sub">¼ quả bơ hoặc quả bơ ổi (nếu muốn có vị ngọt thanh hơn)</p>
+  
 
-<p class="para-en">Steps: Prepare the salsa:Preheat broiler on low.Remove tomatillo husks and rinse well.Halve tomatillos with a tomato knife, slicing sideways rather than down the button, and place halves down on an oiled or lined baking sheet.Broil for 5–7 minutes until lightly browned and lighter in color.Allow to cool before transferring to a bowl for blending.If using mortar and pestle, mince jalapeño, retaining all seeds and stems.Combine all ingredients.</p>
-<p class="para-vi-sub">Các bước thực hiện:</p>
+“Có em ở đây rồi, sát thủ của em. Anh đừng lo.”
 
-<p class="para-en">Ignite flames, whether in a grill or open.</p>
-<p class="para-vi-sub">Chuẩn bị phần sốt salsa:</p>
+  
 
-<p class="para-en">Tenderize emphon, forking or tenderizing the meat for rub to sink in deeply, and dredge in oil until slick. Set aside.</p>
-<p class="para-vi-sub">Làm nóng lò nướng ở mức nhiệt thấp.</p>
+Con quái thú bò mộng Emphon đầu tiên tôi điều khiển là con nhỏ nhất, chỉ nhỉnh hơn một con bê non nhưng sắc nhọn và mảnh dẻ tựa như một lưỡi dao phi lê bén ngọt. Nó từng là con đầu tiên bỏ mạng ngoài Cánh Đồng Cỏ Cao, và tôi đền đáp cho sự hy sinh sớm ấy bằng một cái tên hoàn toàn xứng đáng: Shanka. Theo mệnh lệnh của tôi, bộ xương của Shanka, dính dớp những mảng thịt thối rữa, lập tức tái cấu trúc. Nó lao vụt về phía cung điện rồi hạ thấp cặp sừng húc sập cánh cổng lớn, xé toạc đội quân của nhà vua tựa như lưỡi dao phi lê lách ngọt qua từng lớp vảy.
 
-<p class="para-en">Whisk dry rub ingredients in a medium-sized bowl.</p>
-<p class="para-vi-sub">Bóc sạch lớp vỏ lụa của cà chua cây tomatillo rồi rửa thật kỹ.</p>
+  
 
-<p class="para-en">Transfer oiled emphon into the dry rub bowl and work rub into meat for approximately 30 seconds. There will be leftover rub. Firmly drive one skewer through the meat and prop over flame, rotating regularly. Cook 4–6 minutes.</p>
-<p class="para-vi-sub">Dùng dao cắt cà chua chuyên dụng cắt đôi quả cà chua cây tomatillo theo chiều ngang thân thay vì bổ dọc từ núm cuống, sau đó đặt các nửa quả úp mặt xuống khay nướng đã quét dầu hoặc lót giấy nướng.</p>
+Nhìn qua hai hốc mắt trống hoác đã bị lũ kền kền rỉa sạch thịt của nó, tôi dõi theo cảnh nó càn quét qua đám quân thù, mỗi lúc một sâu hơn. Hai hàng lính bị đốn ngã. Rồi bốn hàng, chất thêm vô số xác chết của quân Thượng Phẩm cho tôi. Ngay cả khi chúng bu kín lấy nó. Khi chúng xé toạc từng mảng thịt thối rữa khỏi khung xương nó. Khi chúng điên cuồng lao vào nó như ngàn vạn cây búa nện xuống, hết lần này đến lần khác cho tới khi các khớp gân của nó đứt lìa và nó ngã gục.
 
-<p class="para-en">Heat tortillas over fire lightly so that they warm but don’t solidify.</p>
-<p class="para-vi-sub">Nướng trong 5–7 phút cho đến khi bề mặt xém vàng nhẹ và màu sắc sáng hơn.</p>
+  
 
-<p class="para-en">Place one tortilla halfway across the other so that they appear like overlapping circles and place meat in the overlapping areas. Top with all desired ingredients, including a spoonful of salsa and avocado slices.</p>
-<p class="para-vi-sub">Để nguội bớt trước khi cho vào bát xay nhuyễn. Nếu sử dụng cối và chày, hãy băm nhuyễn ớt jalapeño, giữ lại toàn bộ hạt và cuống.</p>
+Tôi mất quyền kiểm soát xác chết của nó, nhưng Shanka đã hoàn thành nhiệm vụ. Nó đã đâm thẳng vào trung tâm như lưỡi đao cưa đồ tể của tôi, mở toang con đường cho người lính tiếp theo.
 
-<p class="para-en">Expected Endurance Effect(s):</p>
-<p class="para-vi-sub">Trộn đều tất cả các nguyên liệu.</p>
+  
 
-<p class="para-en">Endurance, 15–30 minutes Heightened Senses, 15–30 minutes</p>
-<p class="para-vi-sub">Nổi lửa, có thể nướng trên vỉ hoặc trực tiếp trên ngọn lửa trần.</p>
+Chuck, vạm vỡ và dày dặn tựa một con dao santoku, cũng đến từ Cánh Đồng Cỏ Cao. Theo lệnh tôi, nó nghiền nát xương sống của những kẻ còn sót lại sau vệt càn quét của Shanka. Bằng trọng lượng kinh hồn, nó đập nát và nghiền vụn tất cả, chẳng khác nào một chiếc búa dần thịt hung hãn hơn là một lưỡi dao.
+
+  
+
+Khi nó gục ngã trước biển người, tôi triệu hồi Heffa, con bò mộng đầu tiên mà tôi từng xẻ thịt. Tôi thậm chí còn chẳng hề hay biết nó đã bỏ mạng tại Cánh Đồng Cỏ Cao từ lúc nào. Tôi điều khiển nó lao thẳng vào bên sườn đội quân địch. Nó chính là con dao lạng thịt của tôi, hệt như công việc năm xưa tôi từng dùng dao thực hiện trên thân thể nó, găm thẳng vào từng thớ thịt của toán lính rồi xé toạc chúng ra bằng sự hiểm độc lẫn nét uyển chuyển ngang nhau. Khi nó ngã xuống lần nữa, lòng tôi quặn thắt đớn đau, nhưng dẫu sao nó cũng đã giành được quyền yên nghỉ.
+
+  
+
+Tôi triệu hồi thêm ba con nữa từ Cánh Đồng Cỏ Cao, sử dụng chúng như những lưỡi dao đa năng nhất của một đầu bếp: dao Nakiri, dao gọt và dao bếp. Tôi đặt tên cho chúng là Reba, Flanker và Brisk. Chúng lao vào những kẻ còn lại với tốc độ băm vằm kinh hoàng, nghiền nát tàn quân của đạo lính tựa như đang xắt một củ hành tây. Đến khi cả ba con quái thú bò mộng Emphon ngã rạp, số Lính Mổ Xẻ còn đứng vững chắc chẳng quá mười hai tên.
+
+  
+
+Tổng cộng, những con bò mộng của tôi ắt hẳn đã nghiền nát ba ngàn lính thành đống bầy nhầy quanh hoàng cung. Thú thật, tôi không rõ con số ấy được tính thế nào vào bốn trăm tội danh giết người mà các người gán cho tôi. Nhưng tôi đoán chúng ta cứ mặc định là nó đã bao trọn phần lớn số đó đi nhỉ?
+
+  
+
+Khi tôi rút ý thức trở lại với đôi mắt mình, xác chết đã chất thành đống xung quanh tôi và Cori. Hai mẹ cùng Laven vẫn đang bị treo lơ lửng, như vậy là còn may. Giờ tôi chỉ cần tiếp cận tên vua trước khi hắn kịp buông dây cho họ rơi xuống. Điều đó đồng nghĩa với việc tôi cần một thứ gì đó đưa mình lên nóc nhà.
+
+  
+
+Tôi nhắm mắt lại, cất tiếng gọi bộ xương quen thuộc nhất trong thành phố. Bessa.
+
+  
+
+Nó sẽ là con dao chặt của tôi.
+
+  
+
+*Nhanh lên nào, cô bé,* tôi truyền đi ý nghĩ từ đầu bên kia thành phố.
+
+  
+
+*Ta cần mày ở đây.*
+
+  
+
+Nếu có thể gầm lên, chắc hẳn nó đã gầm vang đáp lại. Nó đã sẵn sàng.
+
+  
+
+“Này, sát thủ,” Cori lên tiếng sau lưng tôi. “Anh phải nhìn cái này đi.”
+
+  
+
+Lơ lửng ngay sau lưng em là hình bóng trong suốt viền sắc lam mòng két của một người. Dáng vóc thấp bé nhưng tư thế lại đầy uy dũng, cùng đôi tai lớn. Dẫu phần còn lại của cơ thể có phần mờ ảo, đôi mắt với ánh vàng rực của Sức bền ma thuật mà tôi có thể nhận ra ở bất cứ đâu vẫn đang găm thẳng vào tôi đầy vẻ khinh khỉnh.
+
+  
+
+“Chú Cutler?” Tôi ngờ vực cất lời, đưa tay xuyên qua bóng ma trong suốt.
+
+  
+
+“Dừng lại mau!” Bóng người ma quái gắt lên. “Nhột chết đi được!”
+
+  
+
+Đúng là giọng của chú Cutler rồi. Nhưng chuyện quái quỷ gì thế này? Bằng cách nào chứ?
+
+  
+
+“Soryl vừa từ Cánh Đồng Cỏ Cao trở về. Mọi chuyện ở đó đã đâu vào đấy,” chú Cutler giải thích. “Nhưng có vẻ mi đang cần chút viện trợ.”
+
+  
+
+“Sao chú lại ở đây được?”
+
+  
+
+“Chúng ta không có thời giờ cho mấy chuyện đó đâu, nhóc con. Trèo lên con bò của mi rồi đi theo ta.”
+
+  
+
+Khi Bessa lao tới nơi, bóng ma ấy bay lơ lửng về phía tầng hai, ngay bên trên gian bếp. Theo mệnh lệnh của tôi, Bessa hạ thấp chiếc đầu lâu đã rữa nát hoàn toàn xuống đủ để Cori và tôi mỗi người bám lấy một bên sừng. Hốc mắt nó nhỏ từng giọt dịch tanh tưởi lên tóc tôi, rồi nó nhấc bổng hai đứa lên bậu cửa sổ, nơi tôi vung con đao của mình đập vỡ vụn tấm kính.
+
+  
+
+Hành lang bên trong tĩnh lặng đến rợn người, chỉ có tiếng thở dốc của tôi và tiếng bước chân bì bõm nện xuống sàn. Hồn ma của chú Cutler tiếp tục dẫn đường...
+
+  
+
+“Hồn ma ư?” Nữ Lưu Trữ Viên ngắt lời. “Ý anh bảo ông ấy không còn sống là thế này sao?”
+
+  
+
+“Im nào, đồ cổ ngỗng, ta thích đoạn này đấy.”
+
+  
+
+Lưu Trữ Viên giật bắn mình khi nhìn thấy hình bóng trong suốt của Jives Cutler đang lơ lửng ngay trong phòng.
+
+  
+
+“Tốt lắm, cô đã nhận được lời nhắn của tôi,” tôi cất tiếng, đưa mắt nhìn bóng hình ma quái.
+
+  
+
+Lưu Trữ Viên hoảng hốt toan chạy đi gọi lính gác, nhưng tôi giơ tay lên ngăn lại. Ánh vàng rực của Sức bền ma thuật bùng cháy nơi đáy mắt khi tôi cất giọng: “Cô không đi đâu hết. Viết tiếp đi.”
+
+  
+
+Chú Cutler dẫn chúng tôi vào bên trong một căn phòng quen thuộc. Chiếc bàn của nữ bác sĩ vẫn nằm nguyên ở vị trí cũ như dạo bà chăm sóc tôi. Chiếc giường vẫn còn hằn lại dấu vết những sợi dây đai trói tôi ngày nào.
+
+  
+
+“Trong kia kìa,” chú Cutler chỉ dẫn, ngón tay hướng về phía chiếc tủ. Tôi chợt nhớ lại lần đầu tiên mình nếm thử sữa Emphon, thứ hương vị vừa đắng, ngọt, lại mang nét thanh chua của chi cam chanh. Đầu Bếp Sagen hẳn sẽ thấy xấu hổ vì tôi đã không miêu tả nó là cay nồng hấp dẫn.
+
+  
+
+Tôi lao tới chỗ chiếc tủ rồi lục tung mọi thứ, gạt phăng sang một bên những lọ thuốc trường sinh cùng thuốc bổ vô dụng mà bản thân chẳng hề biết hay hiểu nổi. “Tôi phải tìm cái gì đây?”
+
+  
+
+“Si-rô rễ cây Ipecacuanha,” chú Cutler đáp.
+
+  
+
+“Ipe... đánh vần chữ đó thế nào?”
+
+  
+
+Chú Cutler khẽ thở dài một tiếng rồi chỉ tay lên góc trên cùng bên phải: “Hãy uống thứ đó khi nhóc không còn đường lui.”
+
+  
+
+“Nó có tác dụng gì?”
+
+  
+
+“Nó làm người ta nôn mửa,” Cori nói. “Mẹ em vẫn thường dùng nó ngoài vùng phương Bắc.”
+
+  
+
+“Ta biết ngay là ta sẽ thích con bé này mà! Dù sao thì ta cũng không thể duy trì hình dạng này lâu hơn được nữa. Tên vua đã lên tới mái nhà rồi. Đừng có chết đấy, rõ chưa? Không có mi thì ta chẳng tìm thấy món gì trong cửa hàng đâu.”
+
+  
+
+“Chú sẽ phải dạy cháu Đại công thức ma thuật này đấy,” tôi nói, cố ôm lấy khoảng không nhưng hoàn toàn vô vọng.
+
+  
+
+“Ha! Làm như đây là thứ mi có thể thu được từ thức ăn không bằng.”
+
+  
+
+Và rồi, ông biến mất.

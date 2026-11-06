@@ -1235,11 +1235,7 @@
       if (chapter.bilingualPath) {
         chapterPath = chapter.bilingualPath;
       } else {
-        const biCand = chapter.path.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
-        try {
-          const testRes = await fetch(biCand, { method: 'HEAD' });
-          if (testRes.ok) chapterPath = biCand;
-        } catch (_) {}
+        chapterPath = chapter.path.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
       }
     }
 
@@ -1485,38 +1481,20 @@
 
     // Mode Switch Controls (Tiếng Việt vs Song Ngữ)
     const modeSwitchTabs = document.querySelectorAll('.mode-tab-btn');
-    const updateReaderMode = (newMode) => {
+    const updateReaderMode = async (newMode) => {
+      if (newMode === currentMode) return;
       currentMode = newMode;
       localStorage.setItem('sheepa_reader_mode', newMode);
-      if (readerBody) readerBody.setAttribute('data-reader-mode', newMode);
 
-      modeSwitchTabs.forEach(tab => {
-        tab.classList.toggle('active', tab.dataset.mode === newMode);
-      });
-
-      const settingModeVi = document.getElementById('setting-mode-vi');
-      const settingModeBi = document.getElementById('setting-mode-bilingual');
-      if (settingModeVi && settingModeBi) {
-        settingModeVi.classList.toggle('active', newMode === 'vi');
-        settingModeBi.classList.toggle('active', newMode === 'bilingual');
-      }
-
-      const enVisRow = document.getElementById('setting-row-en-visibility');
-      if (enVisRow) {
-        enVisRow.style.display = newMode === 'bilingual' ? 'flex' : 'none';
-      }
-
-      const quickVisBtn = document.getElementById('btn-bilingual-visibility');
-      if (quickVisBtn) {
-        quickVisBtn.classList.toggle('hidden', newMode !== 'bilingual');
-      }
-
-      // Update URL hash without full reload
+      const savedScroll = window.scrollY;
       const newQuery = newMode === 'bilingual' ? '?mode=bilingual' : '';
       const newHash = `#/read/${book.id}/${chapter.id}${newQuery}`;
       if (window.location.hash !== newHash) {
         history.replaceState(null, '', newHash);
       }
+
+      await renderReaderView(book.id, chapter.id, newMode);
+      window.scrollTo({ top: savedScroll, behavior: 'instant' });
     };
 
     modeSwitchTabs.forEach(tab => {

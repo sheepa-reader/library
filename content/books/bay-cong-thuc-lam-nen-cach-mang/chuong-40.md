@@ -1,109 +1,165 @@
-# Món Thứ Tư • Bít tết khoai tây chiên
+# 38 Hương vị panna cotta
 
-<p class="para-en">Equally capable of filling the role of appetizer or main, Grilled Steak Fries are best served with light dollops of guacamole, sour cream, and your choice of red, green, or mango salsa. They should typically precede a grain bowl main dish or be served alongside a black bean salad.</p>
-<p class="para-vi-sub">Vừa có thể dùng làm món khai vị lẫn món chính, đạt hương vị thơm ngon nhất khi thưởng thức cùng vài thìa sốt bơ guacamole thanh nhẹ, kem chua, kèm theo sốt salsa đỏ, salsa xanh hoặc salsa xoài tùy chọn. Món ăn này thường được dọn ra trước món chính là một tô ngũ cốc, hoặc ăn kèm với salad đậu đen. Bạn cũng có thể chia sẻ phần ăn này như một món khai vị.</p>
+*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
 
-<p class="para-en">Consider sharing as an appetizer. Pair with a beer flavored with a squeezed citrus rind.</p>
-<p class="para-vi-sub">Thưởng thức kèm một ly bia thoảng hương vỏ cam quýt vắt.</p>
+“Tôi cần cậu giúp thêm một việc nữa,” tôi thì thầm sau hai tuần, khi đám Lính Mổ Xẻ cuối cùng cũng bắt đầu thưa dần trong các lớp học của tôi.
 
-<p class="para-en">Ingredients (serves 1–2):</p>
-<p class="para-vi-sub">Nguyên liệu (dành cho 1–2 người ăn):</p>
+  
 
-<p class="para-en">Marinade:</p>
-<p class="para-vi-sub">Nước sốt ướp:</p>
+Laven xích lại gần hơn, đôi tay vẫn nhanh nhẹn khuấy đều thạch agar vào nước trong lúc Đầu Bếp Chikor vẫn ra rả giảng về kỹ thuật khuấy đúng cách. Laven phụ trách phần kỹ thuật đó cho nửa công thức chính, còn tôi nhận phần còn lại: dung dịch sữa bột, đường và nước. Aniss đứng trừng mắt nhìn từ góc phòng, nơi gã đang lau chùi chiếc nỏ của mình, nhưng chí ít gã không phải Lính Mổ Xẻ. Mà dẫu gã có phải đi chăng nữa thì khoảng cách đó cũng quá xa để nghe được những gì chúng tôi đang nói.
 
-<p class="para-en">1/3 cup oil</p>
-<p class="para-vi-sub">⅓ cốc dầu ăn</p>
+  
 
-<p class="para-en">limes, juice of</p>
-<p class="para-vi-sub">Nước cốt của 3 quả chanh ta</p>
+“Cậu có thể chép bài của tôi,” Laven nhanh nhảu đề nghị, “nhưng lần này cố mà hiểu lấy bản chất đấy. Tôi không muốn phải phí hoài cả tuần trước kỳ thi chỉ để giảng lại mấy thứ cơ bản này cho cậu đâu.”
 
-<p class="para-en">½ cup fresh cilantro, chopped</p>
-<p class="para-vi-sub">½ cốc ngò rí tươi, băm nhỏ</p>
+  
 
-<p class="para-en">cloves garlic, minced</p>
-<p class="para-vi-sub">4 tép tỏi, băm nhuyễn</p>
+Tôi làm bộ sững sờ trước lời mỉa mai cay đắng ấy, trong khi các loại bột xoáy tít bên trong cốc thí nghiệm, chầm chậm hòa tan vào thứ chất lỏng màu sữa đục ngầu, lòng thầm cảm thấy ấn tượng.
 
-<p class="para-en">tsp chili powder</p>
-<p class="para-vi-sub">1 thìa cà phê bột ớt</p>
+  
 
-<p class="para-en">tsp onion powder</p>
-<p class="para-vi-sub">1 thìa cà phê bột hành</p>
+“Không phải chuyện đó,” một lát sau tôi mới đáp, “nhưng vụ cho chép bài thì chừng một tuần trước kỳ thi tôi sẽ nhận đấy.”
 
-<p class="para-en">tsp ground cumin</p>
-<p class="para-vi-sub">1 thìa cà phê bột thì là Ai Cập</p>
+  
 
-<p class="para-en">½ tsp paprika</p>
-<p class="para-vi-sub">½ thìa cà phê bột ớt chuông paprika</p>
+“Biết ngay mà. Thế rốt cuộc là chuyện gì?” Cậu nhướng một bên mày, đưa cho tôi phần dung dịch thạch. Tôi nhanh chóng trút nó vào hỗn hợp sữa và đường. Ngay sau đó, tôi chuyển toàn bộ hỗn hợp đã hòa quyện sang một chiếc quánh để đun nóng.
 
-<p class="para-en">Salt and pepper to taste</p>
-<p class="para-vi-sub">Muối và tiêu (lượng vừa đủ)</p>
+  
 
-<p class="para-en">80–120g bull emphon skirt steak</p>
-<p class="para-vi-sub">80–120g thịt diềm thăn quái thú bò mộng Emphon</p>
+“Nếu đám Lính Mổ Xẻ không chịu điều tra chuyện đã xảy ra với cậu, tôi sẽ tự mình làm.”
 
-<p class="para-en">Fries:</p>
-<p class="para-vi-sub">Khoai tây chiên:</p>
+  
 
-<p class="para-en">russet potatoes</p>
-<p class="para-vi-sub">2 củ khoai tây Russet</p>
+Laven thái cọng đại hoàng. “Bằng cách nào?”
 
-<p class="para-en">2½ tbsp salt, divided</p>
-<p class="para-vi-sub">2½ thìa canh muối, chia làm nhiều phần</p>
+  
 
-<p class="para-en">liter water</p>
-<p class="para-vi-sub">1 lít nước</p>
+“Tôi giữ lại một chiếc mặt nạ của bọn chúng, trên đó có chữ ký.”
 
-<p class="para-en">tbsp oil</p>
-<p class="para-vi-sub">1 thìa canh dầu ăn</p>
+  
 
-<p class="para-en">½ tbsp paprika</p>
-<p class="para-vi-sub">½ thìa canh bột ớt chuông paprika</p>
+“Trật tự bên đó mau lên!” Đầu Bếp Chikor quát lớn.
 
-<p class="para-en">½ tbsp garlic powder</p>
-<p class="para-vi-sub">½ thìa canh bột tỏi</p>
+  
 
-<p class="para-en">Wood of your choice (applewood works best)</p>
-<p class="para-vi-sub">Gỗ hun khói tùy chọn (dùng gỗ táo là tốt nhất)</p>
+Tôi hạ thấp giọng, nhấc chiếc quánh đang sôi khỏi bếp để hạ nhiệt rồi bước sang phía bên kia bàn thao tác, quay lưng về phía Đầu Bếp Chikor. Tại đó, tôi đặt phần cọng đại hoàng của Laven vào một chiếc đĩa sâu lòng rồi rắc đường lên trên.
 
-<p class="para-en">Optional toppings:</p>
-<p class="para-vi-sub">Phần phủ tùy chọn:</p>
+  
 
-<p class="para-en">¼ cup guacamole</p>
-<p class="para-vi-sub">¼ cốc sốt bơ guacamole</p>
+“Khi nào thì cậu mới định kể cho tôi nghe chuyện đó?” Laven hỏi.
 
-<p class="para-en">½ cup pico de gallo</p>
-<p class="para-vi-sub">½ cốc sốt pico de gallo</p>
+  
 
-<p class="para-en">½ cup shredded cheese</p>
-<p class="para-vi-sub">½ cốc phô mai bào</p>
+“Tôi không muốn bàn chuyện này ngay trước mặt Aniss.”
 
-<p class="para-en">¼ cup sour cream</p>
-<p class="para-vi-sub">¼ cốc kem chua</p>
+  
 
-<p class="para-en">¼ cup choice of salsa</p>
-<p class="para-vi-sub">¼ cốc sốt salsa tùy chọn</p>
+Laven gật đầu, rưới chút vang trắng lên cọng đại hoàng, còn tôi dùng giấy bạc bọc kín miệng đĩa.
 
-<p class="para-en">Salt to taste</p>
-<p class="para-vi-sub">Muối (lượng vừa đủ)</p>
+  
 
-<p class="para-en">Steps:</p>
-<p class="para-vi-sub">Các bước thực hiện:</p>
+“Chữ ký của ai thế?” Cậu ấy hỏi trong lúc tôi đưa chiếc đĩa vào lò nướng rồi quay sang kiểm tra phần thạch sữa. Hỗn hợp đã nguội vừa đủ để rót vào các khuôn nhỏ, thế là tôi vội vã chia đều vào từng khuôn trước khi trả lời.
 
-<p class="para-en">Whisk the marinade ingredients together in a bowl until oil and lime emulsify.</p>
-<p class="para-vi-sub">Khuấy đều các nguyên liệu làm nước sốt ướp trong một chiếc tô cho đến khi dầu ăn và nước cốt chanh hòa quyện hoàn toàn vào nhau.</p>
+  
 
-<p class="para-en">Immerse steak in bowl for at least 1 hour (or up to 24 if chilled).</p>
-<p class="para-vi-sub">Thả miếng thịt bít tết vào tô, lật đều cho ngấm ngập nước sốt trong ít nhất 1 giờ (hoặc tối đa 24 giờ nếu bảo quản trong ngăn mát tủ lạnh).</p>
+“Đó chính là điều tôi cần cậu giúp,” tôi nói. “Tôi không biết làm cách nào để lần ra tung tích của một thợ làm mặt nạ. Thậm chí trước đây tôi còn chẳng biết trên đời này có thợ làm mặt nạ nữa là.”
 
-<p class="para-en">Prepare the fries:Skin (optionally, don’t skin) and cut potatoes into 2cm thick fries.Add 2 tablespoons salt to 1 liter of water and soak the fries for at least 5 minutes (an hour works well).Dry fries and place into a large bowl with oil, salt, paprika, and garlic powder. Toss until coated.If baking fries, coat baking sheet in oil, place fries in a single layer, and cook for 30 minutes at 220°C, flipping halfway through.</p>
-<p class="para-vi-sub">Chuẩn bị khoai tây chiên:</p>
+  
 
-<p class="para-en">If deep frying, drop in frier for 2–3 minutes until golden.</p>
-<p class="para-vi-sub">Gọt vỏ (hoặc giữ lại vỏ tùy sở thích), sau đó cắt khoai tây thành những miếng dày 2 cm.</p>
+Laven đưa tay xoa nhẹ chòm râu dưới cằm rồi bước tới chỗ bình chứa khí nitơ nén. Cùng lúc đó, Đầu Bếp Chikor tiến lại gần quan sát khiến cuộc trò chuyện giữa hai chúng tôi phải tạm dừng. “Các trò phải làm thật chuẩn xác ở khâu ủ lạnh này,” ông chỉ dẫn. “Lệch đi dù chỉ hai giây về bất kỳ phía nào cũng sẽ khiến mẻ panna cotta nhão nhoét hoặc làm nứt vỡ khuôn. Ta tuyệt đối không chấp nhận bất kỳ sai sót nào!”
 
-<p class="para-en">Preheat grill. Grill marinated steak to desired rarity and let rest for 4–5 minutes.</p>
-<p class="para-vi-sub">Hòa tan 2 thìa canh muối vào 1 lít nước rồi cho khoai tây vào ngâm ít nhất 5 phút (ngâm đủ một tiếng sẽ cho kết quả tốt nhất).</p>
+  
 
-<p class="para-en">While the steak is resting, pat fries dry carefully and layer into a bowl or plate. Chop steak into cubes or slices and layer over fries.</p>
-<p class="para-vi-sub">Vớt khoai tây ra, thấm thật khô ráo nước rồi cho vào một chiếc tô lớn cùng với dầu ăn, muối, bột ớt chuông paprika và bột tỏi. Xóc đều tay cho đến khi gia vị bám đều quanh từng miếng khoai.</p>
+“Thưa Đầu Bếp, mất bao lâu ạ?” Tôi ngoan ngoãn hỏi.
+
+  
+
+Ông hừ một tiếng. “Tự tính toán đi. Và làm cho nhanh lên, đừng để mất áp suất của bình chứa.”
+
+  
+
+Laven lập tức lao vào các phép tính, nhanh chóng kiểm soát các biến số phức tạp: điểm đông lạnh khác biệt giữa sữa dừa và sữa bò rừng, thể tích của lượng đường hòa tan, cùng loại thạch agar mà chúng tôi chưa từng sử dụng trước đây.
+
+  
+
+Về phần mình, tôi chỉ đoán mò theo cảm tính. “Chắc chắn không thể quá hai phút.”
+
+  
+
+“Lệch hai giây ở mỗi ngưỡng còn cụ thể hơn cái câu ‘chắc chắn không quá hai phút’ của cậu đấy, bạn hiền. Tính toán cho cẩn thận vào. Chuyện này rất quan trọng.”
+
+  
+
+“Quan trọng đến thế sao? Chẳng có đầu bếp tự trọng nào lại mất đứt mười phút chỉ để tính toán trong lúc chuẩn bị món tráng miệng cả.”
+
+  
+
+“Không, họ đã tính toán xong xuôi từ lúc lên thực đơn rồi,” Laven vặn lại. Ngòi bút của cậu thoăn thoắt lướt qua những con số chuẩn xác đến mức làm tôi hoa cả mắt, ngỡ như đang nhìn thấy chính cha tôi đứng đó.
+
+  
+
+Tôi đành chịu thua và kiên nhẫn chờ kết quả. Một phút năm mươi chín giây. Laven có vẻ không vừa lòng khi con số dự đoán của tôi nằm sát sàn sạt biên độ sai số, nhưng cậu chẳng có nhiều thời gian để phàn nàn. Mẻ đại hoàng đã hoàn tất đúng lúc cậu kiểm tra lại kết quả tính toán lần thứ hai. Một món ăn hoàn hảo phải có lớp panna cotta mát lạnh đặt trên nền đại hoàng ấm áp, tất cả đẫm trong lớp si-rô dâu tây kết hợp hoa dâm bụt mà chúng tôi đã chuẩn bị từ trước.
+
+  
+
+Tôi nhanh tay đặt các khuôn bánh vào bình áp suất rồi đóng chặt nắp lại, cẩn thận giữ nguyên mức áp suất quy định. Chúng tôi mất thêm hai phút tất bật chuẩn bị đĩa đựng, xếp phần cọng đại hoàng thật ngay ngắn và đặt bình si-rô trong tầm với vừa phải, không để quá gần vùng lạnh nhằm sẵn sàng cho công đoạn rưới sốt nhanh chóng.
+
+  
+
+“Thế cậu tính sao?” Tôi hỏi trong lúc dùng nhíp chỉnh lại lớp trang trí trên đĩa. “Có manh mối gì về kẻ làm mặt nạ không?”
+
+  
+
+“Tôi ngờ rằng chúng không đời nào bước chân vào một cửa hàng trên Phố Mây rồi nhờ người ta làm mấy chiếc mặt nạ giáo phái quái dị đâu,” Laven trầm ngâm, “nhưng đối chiếu nhanh nét chữ trên đó với hồ sơ thuế của cha tôi thì cũng chẳng mất gì.”
+
+  
+
+“Tôi sẽ lấy cho cậu một bản khắc.”
+
+  
+
+“Trong lúc chờ đợi,” cậu đề nghị, “có lẽ vẫn còn một hướng đi khác mà cậu có thể lần theo.”
+
+  
+
+Tiếng chuông hẹn giờ vang lên, tôi nhanh chóng lấy món panna cotta ra khỏi bình áp suất. Bằng những thao tác thuần thục, tôi úp ngược chúng lên lớp đại hoàng. Trong khoảnh khắc, khối thạch vẫn dính chặt trong khuôn khiến Laven nhìn tôi bằng ánh mắt đầy lo lắng, nhưng tôi chỉ nở một nụ cười tự tin bởi đây là thành quả hai chúng tôi cùng làm. Không đời nào món này lại hỏng được. Tôi lắc nhẹ tay, và cả hai cùng bật cười toe toét khi phần panna cotta trượt êm xuống đĩa, khẽ rung rinh đầy hấp dẫn. Laven đặt những lát dâu tây tỉa hoa vào đúng vị trí, còn tôi với tay quờ lấy bình si-rô để rưới lên, mắt vẫn say sưa ngắm nhìn độ mềm mại nảy nở của món tráng miệng.
+
+  
+
+Bàn tay tôi vô tình va mạnh vào thân bình, khiến nó chao đảo. Trước khi chiếc bình kịp đổ nhào và phá hỏng mọi công sức vừa bỏ ra, Laven đã nhanh tay chộp lấy nó khỏi mặt bàn. “Này bạn hiền, đừng hòng phá hoại thành quả trang trí của tôi.”
+
+  
+
+Vừa lắc đầu ra vẻ quở trách, cậu vừa tự tay rưới si-rô lên đĩa.
+
+  
+
+“Rồi sẽ có ngày cậu làm đổ thứ gì đó cho xem, lúc ấy tôi nhất định sẽ cười vào mặt cậu.”
+
+  
+
+Cậu mỉm cười với tôi: “Cứ chờ xem.”
+
+  
+
+Đầu Bếp Chikor tiến lại kiểm tra thành phẩm của chúng tôi. Đầu tiên, ông dùng mặt thìa ấn nhẹ lên đường vát của miếng panna cotta để kiểm tra kết cấu, sau đó gõ khẽ vào thành đĩa để thử độ đàn hồi. Có vẻ đã hài lòng, ông nếm một miếng nhỏ, mũi thìa cắt ngọt qua lớp đại hoàng.
+
+  
+
+“Món panna cotta đạt yêu cầu,” Đầu Bếp Chikor nhận xét. Tôi khẽ nhếch mép cười khi thấy ông xúc thêm thìa thứ hai, một ngoại lệ ông chưa từng dành cho bất kỳ học viên nào khác trong lớp.
+
+  
+
+Khi ông bước đi, Laven liền huých cùi chỏ vào người tôi rồi hạ thấp giọng: “Mấy chiếc mặt nạ đó khắc họa các loài quái thú Emphon khác nhau, đúng không? Lỡ như chuyện này mang yếu tố tín ngưỡng thì sao? Trong tầng lớp Thứ Phẩm vốn có những kẻ tôn sùng quái thú Emphon đấy. Hay là cậu thử dò hỏi quanh các hội nhóm Thứ Phẩm xem có ai biết gì không?”
+
+  
+
+*Tại sao nãy giờ tôi lại không nghĩ ra chuyện này?*
+
+  
+
+“Ừ, ý kiến hay đấy.”
+
+  
+
+Cậu mỉm cười: “Còn bây giờ thì chúng ta hãy tự mình thưởng thức món này xem sao.”

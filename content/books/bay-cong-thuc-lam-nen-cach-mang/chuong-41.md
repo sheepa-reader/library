@@ -1,274 +1,449 @@
-# 33 Thật là một tình thế khó khăn
+# 39 Huyền thoại
 
-<p class="para-en">Screw Vanil. Screw finding leverage for myself by searching for the spice. I was on the hunt for cultists. I wanted revenge. But we had to deal with Laven first. He was understandably curious how we’d managed to stop the attackers and why we’d chosen to bring him to my moms’ apartment.</p>
-<p class="para-vi-sub">Quên Vanil đi. Quên cả chuyện tìm kiếm chỗ dựa bằng cách lùng mua thứ gia vị ấy đi. Giờ đây, tôi đang săn lùng lũ cuồng quái thú. Tôi muốn trả thù. Nhưng trước hết, chúng tôi phải giải quyết cho xong chuyện của Laven. Dĩ nhiên là cậu ấy tò mò, không hiểu vì sao chúng tôi lại chặn đứng được đám thích khách và tại sao lại đưa cậu ấy về căn hộ của các mẹ tôi.</p>
+*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
 
-<p class="para-en">As much as we trusted him, we couldn’t tell him about the Herd, so I told half the truth. “We had reason to believe that the carvers—er, Enduring Defense Branch officers—might be involved in the attack. Safer to bring you here than to a hospital. Plus, there’d been some unrelated riots during the festival and things were chaotic. Better to go to people we could trust.”</p>
-<p class="para-vi-sub">Dù tin tưởng Laven đến đâu đi nữa, chúng tôi cũng không thể tiết lộ cho cậu ấy về Bầy Đàn, thế nên tôi đành nói nửa sự thật: “Chúng tôi có lý do để tin rằng đám lính mổ, ừm, các sĩ quan thuộc Cục Phòng vệ Sức bền, có thể dính líu đến vụ tấn công. Đưa cậu về đây vẫn an toàn hơn là vào bệnh viện. Hơn nữa, trong lễ hội vừa nổ ra vài vụ bạo loạn không liên quan, tình hình bên ngoài vô cùng hỗn loạn. Tốt hơn hết là nên đến chỗ những người chúng ta có thể tin cậy.”</p>
+Tôi đâu thể cứ cầm chiếc mặt nạ trên tay rồi đi khắp nơi dò hỏi xem có ai từng nhìn thấy nó hay chưa. Thứ nhất, làm vậy chẳng khác nào tự chuốc lấy hiểm họa bị phục kích. Thứ hai, tôi gần như không còn được thảnh thơi đi lại giữa các khu Thứ Phẩm nữa. Từ những bức bích họa, những lời chào đón nồng nhiệt cho đến những khúc ca vang lên mỗi khi tôi bước qua, tất cả chỉ khiến tôi muốn thu mình lại. Tôi đã bất đắc dĩ trở thành tâm điểm của mọi sự chú ý. Tôi thực sự ngạc nhiên khi tầng lớp Thượng Phẩm không bàn tán nhiều hơn về chuyện này, hoặc dùng nó để khiêu khích mỗi khi tôi đặt chân đến Học viện. Lúc hai chúng tôi rẽ qua cánh cửa bước vào tòa nhà của khu Chợ Gia Vị Hắc Ám, tôi bèn tiện miệng nhắc chuyện này với Yenne.
 
-<p class="para-en">We couldn’t tell him about Vyson specifically. He was our only lead, and telling Laven who’d nearly killed him was as good as telling his father, which was as good as telling the whole Tribunal—especially if the attackers really had possessed “His Majesty’s blessing.”</p>
-<p class="para-vi-sub">Chúng tôi không thể kể cụ thể cho cậu ấy nghe về Vyson. Hắn là manh mối duy nhất của chúng tôi, và việc nói cho Laven biết ai là kẻ suýt lấy mạng cậu ấy chẳng khác nào nói cho cha cậu ấy hay. Mà như thế thì cũng bằng không đánh mà khai với toàn bộ Triều đình, nhất là khi đám thích khách kia thực sự sở hữu “ân sủng của Bệ hạ”.</p>
+  
 
-<p class="para-en">Regardless, we returned Laven to his father after Laven promised he wouldn’t reveal us as his saviors. He implied that it would be great for us financially if we did, but much as I hated working two jobs, it was too risky. No, only one job now. The realization was a stab in the gut.</p>
-<p class="para-vi-sub">Dù thế nào đi nữa, chúng tôi vẫn đưa Laven trở về với cha cậu ấy sau khi cậu ấy hứa sẽ không tiết lộ chúng tôi là ân nhân cứu mạng. Cậu ấy ngụ ý rằng nếu làm vậy, chúng tôi sẽ nhận được một món tiền thưởng kếch xù. Nhưng dù có chán ghét cảnh phải làm hai công việc cùng lúc đến nhường nào, làm thế vẫn quá đỗi rủi ro. Không, giờ đây tôi chỉ còn lại một công việc duy nhất mà thôi. Nhận thức ấy giáng xuống lòng tôi một đòn đau điếng.</p>
+“Bầy Đàn đang kìm hãm tầm ảnh hưởng của anh đấy. Chúng tôi có những biên tập viên bản tin làm việc cùng. Đối với tầng lớp Thượng Phẩm, điều thú vị duy nhất ở anh chỉ là thân thế của cha anh mà thôi, điều đó khiến những lời đồn đại chỉ quanh quẩn trong các chuyên mục thị phi.”
 
-<p class="para-en">We planned to investigate Vyson, but I needed to return Cutler’s wagon. Yenne drove it to the shop the next morning, where Cori (in Rare disguise) and I met her. Vanil hadn’t even wanted Cori to go, given how closely carvers were monitoring IDs, but Cori was scary when she was insistent. Even Vanil backed off. Gone were the days of me moving around the city alone. I needed the protection.</p>
-<p class="para-vi-sub">Chúng tôi dự định điều tra Vyson, nhưng trước hết tôi cần phải đem trả chiếc xe kéo cho chú Cutler. Sáng hôm sau, Yenne lái xe tới tiệm, nơi Cori cải trang thành người Thượng Phẩm và tôi đã đợi sẵn. Thậm chí Vanil còn chẳng muốn Cori đi cùng, xét đến việc đám Lính Mổ Xẻ đang kiểm tra giấy tờ tùy thân gắt gao đến mức nào, nhưng một khi Cori đã quyết tâm thì trông em vô cùng kiên định và đáng sợ. Ngay cả Vanil cũng đành phải nhượng bộ. Đã qua rồi cái thời tôi có thể một mình đi lại khắp thành phố. Tôi thực sự cần người bảo vệ.</p>
+  
 
-<p class="para-en">I was glad I had them when I walked in. Something was wrong. For one, there was an unfamiliar person behind the counter shining a teapot. For another, the store smelled of lemon and lacked a shelf I’d painstakingly installed. The individual with the teapot wore a male-cut suit and tie—both the moldering green color of Rare mourning—and had a thin beard, but their topknot, painted fingernails, and long dangling earrings blurred gender. When I entered, they lifted the teapot and pulled their arm back as if to throw it at me.</p>
-<p class="para-vi-sub">Khi bước chân vào trong, tôi thầm thấy may mắn vì có hai người họ đi cùng. Quả nhiên có điều gì đó không ổn. Thứ nhất, phía sau quầy hàng là một người lạ mặt đang cặm cụi đánh bóng chiếc ấm trà. Thứ hai, cả cửa hàng phảng phất mùi chanh, và một chiếc kệ tôi từng tốn bao công sức lắp đặt nay đã trống trơn. Kẻ đang cầm chiếc ấm trà khoác trên mình bộ âu phục nam cắt may gọn gàng kèm cà vạt, cả hai đều mang sắc xanh thẫm tang tóc của giới Thượng Phẩm; mái tóc búi cao, móng tay sơn chuốt cùng đôi hoa tai dài lòng thòng khiến ranh giới giới tính trở nên nhạt nhòa. Vừa thấy tôi bước vào, người đó liền nhấc bổng chiếc ấm trà, cánh tay co giật về sau như thể sắp sửa ném thẳng vào người tôi.</p>
+“Dẫu vậy, tôi vẫn nghĩ họ sẽ nghe ngóng được nhiều điều hơn từ đám gia nhân trong nhà hoặc đám Lính Mổ Xẻ chứ, giống như những gì chúng ta vẫn nghe thấy trên lớp ấy.”
 
-<p class="para-en">“Who are you?” I asked accusingly.</p>
-<p class="para-vi-sub">“Anh là ai?” Tôi gặng hỏi.</p>
+  
 
-<p class="para-en">“How did you get in here?” they fired back.</p>
-<p class="para-vi-sub">“Sao anh lại vào được đây?” Người đó gắt gỏng hỏi ngược lại.</p>
+“Mỗi lần một câu chuyện được kể lại, nó sẽ lại tam sao thất bản đi một chút,” cô nhận xét. “Nhất là khi người kể luôn mang theo định kiến cá nhân. Những ai muốn câu chuyện của anh trở nên vĩ đại và hào hùng sẽ thêu dệt thêm những lớp áo ngày càng hoang đường; còn những kẻ coi anh là kẻ phản nghịch lại bóp méo đôi ba từ chỗ này chỗ nọ để bôi tro trát trấu. Cả hai phía đều tạo ra những lời đồn thổi kỳ quặc đến mức tầng lớp Thượng Phẩm khi nghe thấy sẽ tự động gạt bỏ tính xác thực ban đầu của nó. Cách duy nhất để đưa lịch sử về đúng quỹ đạo lúc này là tự tay viết nên nó. Dù rằng tôi hoàn toàn có thể chấp bút câu chuyện của anh.”
 
-<p class="para-en">“I could ask you the same.”</p>
-<p class="para-vi-sub">“Tôi định hỏi anh câu đó mới phải.”</p>
+  
 
-<p class="para-en">Cori and Yenne stood carefully behind me.</p>
-<p class="para-vi-sub">Cori và Yenne thận trọng đứng phía sau tôi.</p>
+“Cô làm được thật à?” Tôi nhướng một bên mày đầy vẻ hoài nghi.
 
-<p class="para-en">“I own this place. So I’ll ask you again, how?”</p>
-<p class="para-vi-sub">“Tôi là chủ của nơi này. Thế nên tôi hỏi lại anh lần nữa: bằng cách nào?”</p>
+  
 
-<p class="para-en">I produced my key with distrust. “Try again. I know who owns this shop. I work here.”</p>
-<p class="para-vi-sub">Tôi ngờ vực rút chùm chìa khóa ra: “Hỏi lại xem nào. Tôi biết rõ ai mới là chủ tiệm này. Tôi làm việc ở đây.”</p>
+“Dễ ợt,” cô đáp, “nhưng tôi sẽ nhồi nhét đầy những lời dối trá vào đó.”
 
-<p class="para-en">The key seemed to relax them, and they lowered the teapot back to the counter. “You must be Paprick. I’m called Soryl. He or they.”</p>
-<p class="para-vi-sub">Chùm chìa khóa dường như đã xoa dịu được đối phương. Người đó đặt chiếc ấm trà xuống quầy: “Hẳn anh là Paprick. Tôi tên là Soryl. Cứ gọi tôi là anh, hoặc họ.”</p>
+  
 
-<p class="para-en">I calmed slightly, and we each introduced ourselves.</p>
-<p class="para-vi-sub">Tôi dần bình tĩnh lại, rồi chúng tôi lần lượt giới thiệu bản thân.</p>
+Tôi khựng lại giữa con dốc thoai thoải của đường hầm dẫn vào khu chợ. “Tại sao?”
 
-<p class="para-en">“You’re back from the Front?” I asked after introductions.</p>
-<p class="para-vi-sub">“Anh đã từ Tiền Tuyến trở về rồi sao?” Tôi hỏi sau màn chào hỏi.</p>
+  
 
-<p class="para-en">Soryl took a steadying breath. “We’re given accommodations back home for exigent circumstances.”</p>
-<p class="para-vi-sub">Soryl hít một hơi thật sâu để lấy lại bình tĩnh: “Chúng tôi được điều chuyển về hậu phương vì hoàn cảnh khẩn cấp.”</p>
+“Sự thật hiếm khi là những điều người ta muốn nghe.”
 
-<p class="para-en">Cori reached forward to grip my hand.</p>
-<p class="para-vi-sub">Cori rướn người, siết chặt lấy bàn tay tôi.</p>
+  
 
-<p class="para-en">“Exigent how?” I said, fearing the answer. The mourning green, the smell of lemon, it being so soon after losing Ilantra. Spry as he was, Jives Cutler had been on the older side… My world was coming down around me.</p>
-<p class="para-vi-sub">“Khẩn cấp thế nào?” Tôi hỏi, lòng nơm nớp sợ hãi câu trả lời. Sắc xanh tang tóc, mùi chanh thoang thoảng, lại diễn ra ngay sau khi tôi vừa mất đi Đầu Bếp Ilantra... Dù vẫn còn tráng kiện, chú Cutler rốt cuộc cũng đã bước sang tuổi xế chiều. Thế giới quanh tôi dường như đang sụp đổ từng mảng.</p>
+Tôi ngơ ngác nhìn theo bóng cô rảo bước vội vã vào Chợ Gia Vị Hắc Ám, rồi hai chúng tôi rẽ sang hai hướng khác nhau. Yenne đi báo cáo tình hình với ông Vanil cùng những người khác ở Nhà Kính, còn tôi tiến thẳng đến quầy hàng của chú Rish.
 
-<p class="para-en">“No one told you? Pa was attacked.”</p>
-<p class="para-vi-sub">“Không ai nói với anh à? Cha bị tấn công rồi.”</p>
+  
 
-<p class="para-en">“Attacked?” I asked, my hand shaking in Cori’s. Her grip tightened around mine.</p>
-<p class="para-vi-sub">“Bị tấn công sao?” Tôi hỏi, bàn tay đang đan vào tay Cori khẽ run rẩy. Bàn tay em siết chặt lấy tay tôi hơn.</p>
+“Chà, Pappy!” Chú thốt lên khi tôi bước tới gần. “Đâu phải ngày nào chú cũng có diễm phúc được diện kiến một huyền thoại sống thế này.”
 
-<p class="para-en">“Right there,” Soryl informed, pointing toward the missing shelf.</p>
-<p class="para-vi-sub">“Ngay tại chỗ đó,” Soryl thông báo, đưa tay chỉ về phía chiếc kệ trống trơn.</p>
+  
 
-<p class="para-en">“Who?”</p>
-<p class="para-vi-sub">“Là ai làm?”</p>
+Đã lâu lắm rồi tôi chưa được ăn một miếng chanh ngào đường, nên tôi đón lấy ngay lập tức. “Cả chú cũng hùa theo nữa à? Đứng còn không vững mà cũng bày đặt trêu chọc cháu.”
 
-<p class="para-en">“They wore masks.”</p>
-<p class="para-vi-sub">“Bọn chúng đeo mặt nạ.”</p>
+  
 
-<p class="para-en">“He’s not…?” I couldn’t say the word.</p>
-<p class="para-vi-sub">“Ông ấy không...?” Tôi nghẹn lời, không tài nào thốt ra nổi từ kinh khủng ấy.</p>
+Chú cười lớn, tự đẩy chiếc xe lăn vào trong gian lều rồi kéo tấm bạt che lại phía sau. “Chú không chắc là cháu được phép nói những lời sỗ sàng đó đâu đấy.”
 
-<p class="para-en">“He survived,” Soryl said proudly. “Felled three, or so he claims. No bodies were recovered.”</p>
-<p class="para-vi-sub">“Ông ấy vẫn sống,” Soryl đáp với giọng thoáng nét tự hào. “Hạ gục được ba tên, theo như lời ông ấy kể. Nhưng chẳng tìm thấy cái xác nào cả.”</p>
+  
 
-<p class="para-en">“What exactly happened?” Yenne asked.</p>
-<p class="para-vi-sub">“Chính xác thì chuyện gì đã xảy ra?” Yenne hỏi.</p>
+Tôi cau mày. “Cháu...”
 
-<p class="para-en">“He’ll want to tell you himself,” Soryl assured, leading us to the back room where Cutler had taught me to make Sleepless Salad. “Says it’s your fault. Jives, we’re coming in.”</p>
-<p class="para-vi-sub">“Ông ấy sẽ muốn tự mình kể lại cho các người nghe,” Soryl quả quyết, rồi dẫn chúng tôi ra căn phòng phía sau, nơi chú Cutler từng dạy tôi làm món Salad tỉnh táo. “Lại còn bảo tất cả là lỗi của anh nữa đấy. Này Jives, chúng con vào nhé.”</p>
+  
 
-<p class="para-en">Yeah, Soryl was the kind of person that called his dad by his first name. I know.</p>
-<p class="para-vi-sub">Ừ đấy, Soryl đúng là kiểu người gọi thẳng tên cha mình. Tôi biết ngay mà.</p>
+Chú xua tay ngắt lời. “Chú đùa thôi mà! Hôm nay cơn gió nào đưa cháu đến đây thế? Chắc hẳn là vì một nét bút tích nào đó phải không?”
 
-<p class="para-en">Cutler was in a wheelchair that looked too large for him, small and frail as he was. And that was worse than usual. He looked as if at least a decade had caught up with him since last I’d seen him, hanging bags from his eyes and wrinkles from his forehead like coat hooks. A bandage wrapped the crown of his head, a thin line of dried blood peeking through to show the cultists had tried to cut him open.</p>
-<p class="para-vi-sub">Chú Cutler đang ngồi trên một chiếc xe lăn quá khổ so với thân hình nhỏ thó và tiều tụy của ông. Thậm chí, trông ông còn kiệt quệ hơn mọi khi rất nhiều. Cứ như thể cả một thập kỷ vừa trút xuống thân hình ấy kể từ lần cuối tôi gặp mặt, với những bọng mắt thâm quầng cùng các nếp nhăn hằn sâu trên trán trông chẳng khác nào những chiếc móc treo áo. Một lớp băng gạc quấn quanh đỉnh đầu, với đường máu khô rỉ qua lớp vải là minh chứng cho thấy lũ cuồng tín đã từng tìm cách bổ đầu ông ra.</p>
+  
 
-<p class="para-en">“About time you showed up,” he snapped before I could say a word. “Didn’t expect you to bring a harem though.”</p>
-<p class="para-vi-sub">“Cuối cùng cũng chịu ló mặt đến rồi hả,” ông cáu kỉnh cất lời trước khi tôi kịp nói câu nào. “Nhưng ta không ngờ mi lại dắt theo cả một hậu cung đấy nhé.”</p>
+Tôi nhìn chú đầy ngờ vực. “Làm sao chú biết được chuyện đó?”
 
-<p class="para-en">“Excuse me?” Yenne said sharply.</p>
-<p class="para-vi-sub">“Ý ông là sao?” Yenne đanh giọng đáp lời.</p>
+  
 
-<p class="para-en">“Leave an old man his bad jokes,” Cutler grumbled, waving a hand. “It’s all I’ve got left. That and my doting child.”</p>
-<p class="para-vi-sub">“Cứ để một lão già được nói dăm câu đùa nhạt nhẽo đi,” chú Cutler lầm bầm, xua xua tay. “Ta chỉ còn mỗi mấy trò đó thôi. Với cả đứa con trai hết mực cưng chiều ta đây nữa.”</p>
+“Ồ, Pappy ơi, chú Rish này có tai mắt ở cả những nơi người ta ngỡ chỉ toàn là vách đá.”
 
-<p class="para-en">“What happened?” I asked.</p>
-<p class="para-vi-sub">“Đã xảy ra chuyện gì vậy ạ?” Tôi hỏi.</p>
+  
 
-<p class="para-en">“A bunch of arseholes tried to pry knowledge out of my noggin because they think you’re going to burn the world down,” he said. “You wouldn’t happen to know anything about that, would ya?”</p>
-<p class="para-vi-sub">“Một lũ khốn nạn đã cố moi móc kiến thức khỏi cái đầu rỗng tuếch của ta, chỉ vì chúng nghĩ mi sắp thiêu rụi cả cái thế giới này,” ông nói. “Mi chắc là không biết tẹo gì về chuyện đó đâu nhỉ?”</p>
+Tôi đảo mắt thở dài. “Chú giữ kín chuyện này giúp cháu được chứ? Tuyệt đối đừng kể với các mẹ cháu, đám Thượng Phẩm, hay bất kỳ ai mà chú biết tỏng là không thể ngậm miệng. Kể cả người của Bầy Đàn.”
 
-<p class="para-en">Soryl glared my way. “You weren’t that specific before.”</p>
-<p class="para-vi-sub">Soryl trừng mắt nhìn tôi. “Trước đó cha đâu có nói cụ thể thế.”</p>
+  
 
-<p class="para-en">“I save my words for those who need them.”</p>
-<p class="para-vi-sub">“Tao chỉ dành lời cho những ai cần nghe thôi.”</p>
+“Chú cảm thấy nhói lòng khi cháu phải dặn dò như thế, nhưng chú hiểu sự cần thiết của nó. Được rồi, cháu có thể yên tâm rằng mọi lời cháu nói sẽ được khóa chặt trong két sắt tâm trí chú. Dù rằng chiếc ổ khóa ấy không hề rẻ chút nào đâu, Pappy.”
 
-<p class="para-en">I swallowed. How was I supposed to respond to that? Thankfully, Yenne answered for me. “They attacked our friend and named Paprick a harbinger of murder. They said the same to you?”</p>
-<p class="para-vi-sub">Tôi nuốt nghẹn một ngụm nước bọt. Tôi phải đáp lại thế nào đây? Thật may là Yenne đã lên tiếng thay tôi. “Chúng tấn công những người quen biết của chúng tôi và gán cho Paprick cái nhãn kẻ mang lại tai họa. Chúng cũng nói thế với ông sao?”</p>
+  
 
-<p class="para-en">“Said it? Locusts, no! They bloody screamed into my brain like a bunch of scalding Panchons.”</p>
-<p class="para-vi-sub">“Nói ư? Lũ châu chấu hôi hám ơi, không đời nào! Chúng gào thét vào đầu tao như một đám người Panchon bị dội nước sôi vào mặt ấy chứ.”</p>
+“Nó có giá bao nhiêu hả chú?” Tôi lo lắng hỏi.
 
-<p class="para-en">I exchanged a look with Cori.</p>
-<p class="para-vi-sub">Tôi trao đổi ánh nhìn với Cori.</p>
+  
 
-<p class="para-en">“Laven, Ilantra, and Cutler, all after the riots?” she suggested. “That can’t be a coincidence.”</p>
-<p class="para-vi-sub">“Laven, Đầu Bếp Ilantra và chú Cutler, tất cả đều bị nhắm đến sau các cuộc bạo động sao?” Em suy đoán. “Chắc chắn đây không thể là sự trùng hợp.”</p>
+“Tùy thuộc vào bí mật đó là gì,” chú đáp, “nhưng hiếm khi chú giao dịch bằng thứ dễ biến động như đồng tiền được bảo chứng bởi một triều đình mà chú đang muốn lật đổ, đúng không nào?”
 
-<p class="para-en">“Retaliation against the Rare who look out for you,” Yenne concluded.</p>
-<p class="para-vi-sub">“Đó là hành động trả đũa nhắm vào những người Thượng Phẩm dám quan tâm đến các cậu,” Yenne đúc kết.</p>
+  
 
-<p class="para-en">“Can we get back to the fact that someone tried to kill him?” I asked, partly because guilt was gnawing deeper into my gut.</p>
-<p class="para-vi-sub">“Chúng ta có thể quay lại thực tế là có kẻ đã tìm cách sát hại ông ấy được không?” Tôi hỏi, một phần vì cảm giác tội lỗi đang cuộn lên cắn rứt nơi lồng ngực.</p>
+“Cháu sẵn sàng trả bất cứ giá nào.” Tôi rút chiếc mặt nạ ra khỏi túi và đặt trước mặt chú. “Chú biết gì về thứ này?”
 
-<p class="para-en">“Ah, so you do care.” Cutler pouted. “Good. Next time, don’t start riots. How would you have felt if I hadn’t proved so incredibly capable of defending myself?”</p>
-<p class="para-vi-sub">“À, thế ra mi vẫn biết bận tâm đấy nhỉ,” chú Cutler bĩu môi. “Tốt. Lần sau đừng có châm ngòi cho mấy vụ bạo động nữa. Mi sẽ cảm thấy thế nào nếu ta không chứng tỏ được mình là một kẻ có khả năng tự vệ xuất chúng hả?”</p>
+  
 
-<p class="para-en">“How did you defend yourself?” Yenne asked.</p>
-<p class="para-vi-sub">“Ông đã tự vệ bằng cách nào?” Yenne hỏi.</p>
+Chú săm soi chiếc mặt nạ, nhận ra ký hiệu bên trong rồi chậc lưỡi một tiếng.
 
-<p class="para-en">“My family has been on this plateau since before they changed its name,” Cutler said, as his eyes tracked over to Cori. “We know a lot about what’s been forgotten.”</p>
-<p class="para-vi-sub">“Gia đình ta đã bám trụ trên cao nguyên này từ trước cả khi người ta đổi tên nó,” chú Cutler nói, ánh mắt chuyển hướng về phía Cori. “Chúng ta biết rất nhiều điều về những thứ đã bị chôn giấu theo thời gian.”</p>
+  
 
-<p class="para-en">“Jives,” Soryl warned, “don’t.”</p>
-<p class="para-vi-sub">“Cha,” Soryl lên tiếng cảnh cáo, “đừng nói nữa.”</p>
+“Các Tôn Sư phái Emphon từng đeo những chiếc mặt nạ như thế này trong các nghi lễ từ thuở xa xưa.”
 
-<p class="para-en">Cutler shot his kid a withering look, but otherwise ignored the comment. “Now, what are you doing about all this? I assume you and your Herd are already on top of it?”</p>
-<p class="para-vi-sub">Chú Cutler ném cho đứa con trai một cái nhìn sắc lẻm, rồi phớt lờ lời can ngăn đó. “Giờ thì, hai người đang tính làm gì với mớ rắc rối này đây? Ta đoán là mi và cái đám Bầy Đàn của mi đã nắm thóp được mọi chuyện rồi chứ?”</p>
+  
 
-<p class="para-en">All three of us froze. “Who?” I stammered.</p>
-<p class="para-vi-sub">Cả ba chúng tôi đều khựng lại. “Ai cơ ạ?” Tôi lắp bắp.</p>
+Vậy là Laven đã phán đoán chuẩn xác.
 
-<p class="para-en">“Look at me!” Cutler ordered. “Do I really look like I was born yesterday? I might be wrinkly and pink, but that comes at both ends of life.”</p>
-<p class="para-vi-sub">“Nhìn ta này!” Chú Cutler ra lệnh. “Trông ta giống kẻ mới sinh ra ngày hôm qua lắm sao? Ta có thể nhăn nheo và hồng hào, nhưng điều đó xuất hiện ở cả hai đầu của đời người đấy.”</p>
+  
 
-<p class="para-en">“How long have you known?” Yenne asked. Despite the accusation, she looked placid as ice. Cori, for her part, looked ready to bolt from the place and burn it down on the way out. If I hadn’t been holding her hand, she might’ve.</p>
-<p class="para-vi-sub">“Ông biết chuyện này từ bao giờ?” Yenne hỏi. Mặc cho lời buộc tội, cô vẫn điềm tĩnh như băng. Còn về phần Cori, em có vẻ đã sẵn sàng tháo chạy khỏi nơi này và thiêu rụi mọi thứ trên đường rút lui. Nếu tôi không nắm chặt lấy tay em, có lẽ em đã làm thật rồi.</p>
+“Nhưng không phải trong suốt thời gian qua.” Chú ra hiệu cho tôi ngồi xuống chiếc ghế bên cạnh. “Cháu đang tìm kiếm hội Sức Ép phải không?”
 
-<p class="para-en">“Since papwit used his day off to go to Black Spice.”</p>
-<p class="para-vi-sub">“Từ khi thằng nhóc mồm mép này dùng ngày nghỉ của nó để đến Chợ Gia Vị Hắc Ám.”</p>
+  
 
-<p class="para-en">“How do you know about that?” I growled.</p>
-<p class="para-vi-sub">“Sao ông biết chuyện đó?” Tôi gầm lên.</p>
+“Chú biết gì về bọn chúng?”
 
-<p class="para-en">“I was there.”</p>
-<p class="para-vi-sub">“Ta ở đó chứ sao.”</p>
+  
 
-<p class="para-en">“Rare can’t enter Black Spice,” Cori accused.</p>
-<p class="para-vi-sub">“Thượng Phẩm không thể bước chân vào Chợ Gia Vị Hắc Ám,” Cori lên tiếng vạch trần.</p>
+“Không nhiều hơn cháu là bao,” chú thừa nhận. “Ít nhất là cho đến khi chú giải mã được ký tự này. Nhưng chú vẫn luôn tự hỏi tại sao chúng lại mang khuôn mặt của loài quái thú bò mộng Emphon. Chắc chắn chúng không phải là tín đồ phái Emphon, vậy cớ sao lại phải lẩn trốn sau những chiếc mặt nạ từng được đeo từ thời xa xưa?”
 
-<p class="para-en">Cutler rolled up his sleeve to reveal the same tattoo that I had on my forearm: the spice pouch. “You’re lucky I already took a liking to you,” Cutler said as he showed it off. “If I’d heard what you did to my brother before I hired you, you would’ve never set foot in this shop.”</p>
-<p class="para-vi-sub">Chú Cutler xắn tay áo lên, để lộ hình xăm y hệt hình trên cẳng tay tôi: một chiếc túi đựng gia vị. “Bọn mi thật may mắn vì ta vốn đã có thiện cảm với bọn mi đấy,” chú Cutler nói khi giơ hình xăm ra. “Nếu ta nghe được những gì chúng bây đã làm với em trai ta trước khi ta thuê mi, chúng bây sẽ chẳng bao giờ bước nổi một bước vào cửa hàng này đâu.”</p>
+  
 
-<p class="para-en">“Brother?” Yenne said.</p>
-<p class="para-vi-sub">“Em trai sao?” Yenne thốt lên.</p>
+“Để đánh lạc hướng chăng?” Tôi gợi ý.
 
-<p class="para-en">I recalled my first time in Cutler’s, how I thought Cutler looked so like Old Man Banan. “But you’re Rare,” I said, still confused.</p>
-<p class="para-vi-sub">Tôi nhớ lại lần đầu tiên đến cửa hàng của chú Cutler, nhớ về cái cách tôi từng nghĩ chú Cutler trông giống hệt Lão Banan. “Nhưng ông là Thượng Phẩm cơ mà,” tôi nói, lòng vẫn ngập tràn hoang mang.</p>
+  
 
-<p class="para-en">“I’ve told you,” Cutler said sharply. “Common, Rare, those words mean nothing. Rancher is the only acceptable term for people from here.”</p>
-<p class="para-vi-sub">“Ta đã nói với mi rồi đấy,” chú Cutler cộc lốc đáp. “Thứ Phẩm, Thượng Phẩm, mấy từ đó chẳng có nghĩa lý gì sất. Người Ranch mới là danh xưng duy nhất chấp nhận được đối với những ai sinh ra và lớn lên ở nơi này.”</p>
+Gật đầu đồng tình, chú chỉ tay về phía chữ ký.
 
-<p class="para-en">“Okay, but your brother—” I started.</p>
-<p class="para-vi-sub">“Được rồi, nhưng em trai của ông...” Tôi ấp úng.</p>
+  
 
-<p class="para-en">“Has a different father,” he said, cutting me off, “and is no less my kin because of it.”</p>
-<p class="para-vi-sub">“Cùng cha khác mẹ,” lão ngắt lời tôi, “nhưng điều đó chẳng làm giảm đi tẹo tình ruột thịt nào cả.”</p>
+“Hãy nhìn vào những ký tự này xem. Cháu thấy gì?”
 
-<p class="para-en">I nodded with a head pounding from unexpected information. I’d gone into that store to return the wagon. Only to find out my boss had been attacked. That Cutler and Banan were half-brothers.</p>
-<p class="para-vi-sub">Tôi gãi đầu gật gật, cái đầu đau như búa bổ trước dồn dập những thông tin bất ngờ. Tôi vốn bước vào cửa hàng chỉ để trả lại chiếc xe đẩy, để rồi phát hiện ra người thầy của mình đã bị tấn công, và rằng chú Cutler cùng Lão Banan lại là anh em cùng cha khác mẹ.</p>
+  
 
-<p class="para-en">“We’re trying to put together the pieces,” I said finally. “Understand their cult.”</p>
-<p class="para-vi-sub">“Chúng tôi đang cố gắng chắp vá lại các manh mối,” cuối cùng tôi lên tiếng, “để hiểu rõ hơn về giáo phái của chúng.”</p>
+“Cháu chịu. Trông chỉ giống một mớ nét nguệch ngoạc cùng một chữ thập, theo sau là con số 124.”
 
-<p class="para-en">“Cult?” Yenne repeated. “Is that your hypothesis?”</p>
-<p class="para-vi-sub">“Giáo phái sao?” Yenne lặp lại. “Đó là giả thuyết của anh à?”</p>
+  
 
-<p class="para-en">“Why else the masks?” I asked. “Why cut people’s brains out? That’s culty stuff.” It sounded a lot less plausible when I said it out loud. I tried to brush past it. “At the very least, we know the king gave permission to attack Laven. Both Laven and Cutler had voices digging around in their heads, just like I did when the king interrogated me. That’s no coincidence.”</p>
-<p class="para-vi-sub">“Nếu không thì tại sao chúng lại đeo mặt nạ?” Tôi hỏi. “Tại sao lại moi não người khác ra? Những hành vi đó nhìn kiểu gì cũng ra dáng một giáo phái.” Khi thốt ra thành lời, lập luận ấy nghe kém thuyết phục hơn hẳn. Tôi cố gạt phắt suy nghĩ đó sang một bên. “Ít nhất thì chúng ta cũng biết nhà vua đã bật đèn xanh cho cuộc tấn công nhằm vào Laven. Cả Laven lẫn chú Cutler đều nghe thấy những tiếng nói văng vẳng trong đầu, hệt như những gì tôi từng trải qua khi bị nhà vua thẩm vấn. Đây tuyệt đối không phải là sự trùng hợp.”</p>
+Nụ cười nửa miệng của chú Rish làm hằn sâu thêm những đường nét góc cạnh trên đôi gò má gầy guộc.
 
-<p class="para-en">I turned back to Cutler. “Now, jokes aside, can you tell us anything of actual use?”</p>
-<p class="para-vi-sub">Tôi quay lại nhìn chú Cutler. “Giờ thì dẹp mấy câu đùa sang một bên đi. Ông có thể cho chúng tôi biết điều gì đó thực sự hữu ích không?”</p>
+  
 
-<p class="para-en">“Fine, fine,” he complained. “Soryl, get those two items I told you to put aside.”</p>
-<p class="para-vi-sub">“Được rồi, được rồi,” lão lầm bầm. “Soryl, lấy hai món tao bảo mày cất riêng ra đây.”</p>
+“Không phải con số đâu, mà là một niên đại đấy.”
 
-<p class="para-en">Soryl threw Cutler a stubborn look but obeyed, returning a moment later with one item I recognized and another I didn’t. The first was a carnephon mask, remarkably similar to the one I’d seen on the cultist I’d killed that first night.</p>
-<p class="para-vi-sub">Soryl lườm chú Cutler bằng ánh mắt bướng bỉnh nhưng vẫn tuân lệnh. Anh quay lại ngay sau đó với hai vật phẩm: một thứ tôi nhận ra, còn thứ kia thì hoàn toàn xa lạ. Món đầu tiên là chiếc mặt nạ mang hình dáng loài quái thú Bò sát Carnephon, trông giống hệt chiếc mặt nạ của tên cuồng tín mà tôi đã kết liễu vào đêm đầu tiên.</p>
+  
 
-<p class="para-en">“This came off one I killed,” Cutler said, taking it from Soryl and handing it to me. “On the inside, there’s a signature or engraving. I can’t make beets or carrots of it, but maybe one of you can.”</p>
-<p class="para-vi-sub">“Cái này rơi ra từ một kẻ ta đã hạ sát,” chú Cutler vừa nói vừa nhận lấy nó từ tay Soryl rồi chuyển sang cho tôi. “Mặt trong có một chữ ký hoặc ký tự khắc chìm. Ta chẳng tài nào đọc nổi đầu cua tai nheo gì sất, nhưng biết đâu một trong số bọn mi lại hiểu.”</p>
+“Năm 124 ư?”
 
-<p class="para-en">“Where did you get that?” Cori asked, staring at the other item. Her tone was somewhere between accusation and awe, like she couldn’t quite believe what she was seeing.</p>
-<p class="para-vi-sub">“Ông lấy thứ đó ở đâu ra vậy?” Cori hỏi, ánh mắt dán chặt vào món đồ còn lại. Giọng em dao động giữa nghi vấn và kinh ngạc, như thể không thể tin nổi vào mắt mình.</p>
+  
 
-<p class="para-en">As far as I could tell, it was a pineapple-sized rock, speckling slightly under the light. It should’ve weighed more than it did based on appearance, but Soryl carried it as if it weighed no more than a coconut.</p>
-<p class="para-vi-sub">Theo quan sát của tôi, đó là một khối đá kích thước chừng quả dứa, lấp lánh những đốm nhỏ phản chiếu dưới ánh sáng. Nhìn bề ngoài, đáng lẽ nó phải nặng hơn thế rất nhiều, nhưng Soryl lại bưng nó nhẹ bẫng như thể một quả dừa.</p>
+“Quả đúng như thế,” chú Rish xác nhận. “Cháu không đọc được cái tên đó, nhưng chú thì có. Olivo. Cái tên bắt nguồn từ quả ô liu, từ cái thời mà việc đặt tên cho một thường dân bằng một loại quả thay vì một loại gia vị hãy còn rất thịnh hành.”
 
-<p class="para-en">“You recognize this?” The corner of Cutler’s mouth twisted as he appraised Cori. “What did you say your name was?”</p>
-<p class="para-vi-sub">“Cô nhận ra thứ này sao?” Khóe miệng chú Cutler nhếch lên khi ông đánh giá Cori. “Cô bảo tên cô là gì ấy nhỉ?”</p>
+  
 
-<p class="para-en">“They’re supposed to be long gone,” Cori redirected. “How did you get one?”</p>
-<p class="para-vi-sub">“Đáng lẽ chúng đã tuyệt tích từ lâu rồi mới phải,” Cori lảng tránh câu hỏi. “Sao ông lại sở hữu được một quả?”</p>
+“Vậy là rơi vào ngõ cụt rồi,” tôi càu nhàu.
 
-<p class="para-en">“It’s been in our family for a long time,” Soryl answered pointedly.</p>
-<p class="para-vi-sub">“Nó đã ở trong gia đình chúng tôi qua nhiều thế hệ rồi,” Soryl nhấn mạnh đầy ẩn ý.</p>
+  
 
-<p class="para-en">Cutler cut them a glare. “None you mind.”</p>
-<p class="para-vi-sub">Chú Cutler lườm cả hai một cái sắc lẹm. “Không phải việc của các người.”</p>
+“Kìa,” chú Rish chậc lưỡi. “Cháu coi chú là hạng người nào thế hả? Trong căn lều của chú Rish này không bao giờ có khái niệm ngõ cụt.”
 
-<p class="para-en">“What is it?” Yenne prodded, a little jealousy in her voice. Not often Cori knew something Yenne didn’t.</p>
-<p class="para-vi-sub">“Đó là cái gì vậy?” Yenne gặng hỏi, giọng thoáng chút ganh tị. Chẳng mấy khi Cori biết điều gì đó mà Yenne lại mù tịt.</p>
+  
 
-<p class="para-en">“An egg,” Cori announced.</p>
-<p class="para-vi-sub">“Một quả trứng,” Cori tuyên bố.</p>
+Trước khi chú kịp nói thêm lời nào, Yenne đã sầm sập bước vào trong lều.
 
-<p class="para-en">“What kind of creature lays eggs like that?” I asked. It was a bit too small to be the egg of a carnephon and far too big to be anything else.</p>
-<p class="para-vi-sub">“Sinh vật nào lại đẻ ra loại trứng như thế này chứ?” Tôi hỏi. Khối đá hơi nhỏ so với trứng của loài Carnephon, nhưng lại quá lớn để thuộc về bất kỳ sinh vật nào khác.</p>
+  
 
-<p class="para-en">Cutler flicked my ear. “Ow!”</p>
-<p class="para-vi-sub">Chú Cutler búng mạnh vào tai tôi một cái. “Á!”</p>
+“Anh ở đây rồi.”
 
-<p class="para-en">“No creature lays eggs like this,” he answered. “You can only get these one way.”</p>
-<p class="para-vi-sub">“Chẳng có sinh vật nào đẻ ra loại trứng này cả,” ông đáp. “Chỉ có duy nhất một cách để thu đoạt được nó.”</p>
+  
 
-<p class="para-en">Cori’s voice dripped disgust. “You’ve got to cut it out of the ovary of a carnephon. Before it’s matured.”</p>
-<p class="para-vi-sub">Giọng Cori tràn ngập sự ghê tởm. “Phải mổ bụng và xẻ nó ra từ buồng trứng của một con Carnephon, trước khi nó kịp phát triển hoàn thiện.”</p>
+“Ôi, tiểu thư Yenne, bộ óc kiệt xuất của ta,” chú Rish đon đả cất lời. “Lại đây nào. Ta sắp sửa khai sáng cho huyền thoại đang thành hình này đây.”
 
-<p class="para-en">I blanched. “Famines.”</p>
-<p class="para-vi-sub">Mặt tôi cắt không còn một giọt máu. “Lũ Famine.”</p>
+  
 
-<p class="para-en">“Oh, I’ve read of these,” Yenne offered with a satisfied smile. “In the early days of the kingdom, the Panchons culled dozens of young bulls to get them. The room in the palace in which they were stored is still called the Nursery. They don’t rot like normal eggs, intriguingly.”</p>
-<p class="para-vi-sub">“Ồ, tôi từng đọc về thứ này rồi,” Yenne lên tiếng cùng một nụ cười thỏa mãn. “Vào những ngày đầu lập quốc, hoàng tộc Panchon đã tàn sát hàng tá bò đực non để thu thập chúng. Căn phòng trong cung điện dùng để lưu giữ chúng đến nay vẫn được gọi là Nhà Trẻ. Điểm thú vị là chúng không hề bị hư hỏng hay thối rữa như trứng thông thường.”</p>
+“Làm ơn đừng gọi tôi như thế nữa.”
 
-<p class="para-en">“What’s so special about them?” I asked, reaching over to take it from Soryl, who looked more than a little displeased to hand it over. “Why do something that raving?”</p>
-<p class="para-vi-sub">“Chúng có gì đặc biệt chứ?” Tôi hỏi, giơ tay đón lấy quả trứng từ Soryl, người trông chẳng mấy vui vẻ khi phải giao nó ra. “Tại sao lại thực hiện một hành vi điên rồ đến mức ấy?”</p>
+  
 
-<p class="para-en">“A greater recipe,” Cori said, “called Omniscient Omelet.”</p>
-<p class="para-vi-sub">“Một Đại công thức,” Cori nói, “được gọi là Món trứng Toàn tri.”</p>
+“Thứ này làm gì ở đây vậy?” Yenne chất vấn, ngón tay chỉ thẳng vào chiếc mặt nạ. “Vanil đã hạ lệnh...”
 
-<p class="para-en">“What a stupid misnomer,” Cutler complained. “As if such a power existed. Observant Omelet, and it lets you perceive the past.”</p>
-<p class="para-vi-sub">“Một cái tên gượng ép và ngớ ngẩn,” chú Cutler càu nhàu. “Làm như thứ sức mạnh đó thực sự tồn tại không bằng. Phải gọi là Món trứng Thấu thị mới chuẩn, nó cho phép người ta nhìn thấu quá khứ.”</p>
+  
 
-<p class="para-en">“The past?” I repeated.</p>
-<p class="para-vi-sub">“Quá khứ sao?” Tôi lặp lại.</p>
+“Tôi không quan tâm!” Tôi cắt ngang lời cô. “Đã mấy tuần trôi qua rồi đấy.”
 
-<p class="para-en">Cutler sighed. “Soryl, go get my things. Apparently, these children are too dumb to do anything. I guess I’ll have to make it myself.”</p>
-<p class="para-vi-sub">Chú Cutler thở dài. “Soryl, đi lấy dụng cụ của tao lại đây. Rõ ràng lũ trẻ ranh này quá vô dụng để làm nên tích sự gì. Chắc tao phải tự tay làm lấy thôi.”</p>
+  
 
-<p class="para-en">“No,” I said, moving over to his demo kitchen. “I’ll do it. Just tell me what to do.”</p>
-<p class="para-vi-sub">“Không,” tôi nói, bước về phía căn bếp trình diễn của ông. “Cháu sẽ làm. Ông cứ bảo cháu phải làm gì đi.”</p>
+“Lũ trẻ này, lũ trẻ này thật là,” chú Rish cất giọng xoa dịu. “Chuyện đã qua thì hãy để nó nằm lại bên ngoài lều của ta. Giờ đây, dịch vụ của Crooked Rish đã được thỉnh cầu, và nó sẽ được thực hiện trọn vẹn.”
 
-<p class="para-en">I didn’t like the idea of making anything from an egg old enough to have been in their family for a very long time and taken in such a gruesome and inhumane manner, but the ability to look into the past wasn’t something I wasn’t willing to squander. I wanted to know exactly what happened to Cutler.</p>
-<p class="para-vi-sub">Tôi chẳng hề hào hứng gì với ý nghĩ phải chế biến một thứ cổ xưa đã nằm trong gia đình họ qua nhiều đời, lại còn được thu hoạch bằng phương thức tàn bạo và vô nhân tính đến thế; thế nhưng, khả năng nhìn thấu quá khứ lại không phải điều tôi sẵn lòng bỏ lỡ. Tôi muốn biết chính xác chuyện gì đã xảy ra với chú Cutler.</p>
+  
 
-<p class="para-en">These people had killed and attacked people I considered friends. I wanted them dead. And while I knew Vyson was involved, I needed more information before I could do anything about it. Hurting him wasn’t going to get me anywhere unless he named others. I didn’t want to rely on that. I’d been interrogated before. It’s not hard to lie.</p>
-<p class="para-vi-sub">Bọn chúng đã tấn công và sát hại những người tôi coi là bạn bè. Tôi muốn chúng phải trả giá bằng mạng sống. Dù biết Vyson có nhúng tay vào, tôi vẫn cần thêm thông tin trước khi ra tay hành động. Tra tấn hắn sẽ chẳng đi đến đâu trừ khi hắn chịu khai ra đồng bọn. Tôi không muốn trông chờ vào sự may rủi đó. Tôi từng trải qua cuộc thẩm vấn rồi, nói dối đối với kẻ phản bội chẳng có gì khó khăn cả.</p>
+Những chuyện đã qua chẳng bao giờ tự biến mất, nhưng Yenne không ngắt lời khi chú Rish tiếp tục lên tiếng:
 
-<p class="para-en">I needed more, and that meant cracking an egg older than anyone alive.</p>
-<p class="para-vi-sub">Tôi cần nhiều hơn thế, và điều đó đồng nghĩa với việc tôi phải đập vỡ một quả trứng còn tồn tại lâu hơn bất kỳ ai đang sống trên đời này.</p>
+  
+
+“Hãy thử tưởng tượng trong giây lát rằng cháu là thành viên của một hội kín. Khó hình dung lắm đúng không, chú biết chứ. Nhưng hãy tưởng tượng những việc cháu làm đòi hỏi phải gieo rắc nỗi kinh hoàng tột độ vào lòng bất cứ ai chứng kiến, đồng thời vẫn phải bảo vệ tuyệt đối bí mật của mình. Vậy hai thứ cháu sẽ cần đến là gì?”
+
+  
+
+“Một chiếc mặt nạ,” tôi đáp, “điều đó quá đỗi hiển nhiên.”
+
+  
+
+“Một huyền thoại,” Yenne cất lời cùng lúc.
+
+  
+
+Tôi quay sang nhìn cô, trong lòng không khỏi hoang mang.
+
+  
+
+Thế nhưng chú Rish vẫn giữ đúng lời hứa sẽ khai sáng cho chúng tôi.
+
+  
+
+“Một huyền thoại,” chú vừa xác nhận vừa nhấc bổng chiếc mặt nạ lên. “Và một chiếc mặt nạ. Nói cho ta nghe xem nào, Paprick không-phải-huyền-thoại, cháu có biết gì về Nữ hoàng Pistachia Đệ Nhất không?”
+
+  
+
+“Cháu đoán là bà ta chẳng có thật đâu,” tôi cay đắng đáp.
+
+  
+
+“Bà ấy từng là một bậc kỳ tài và là hiện thân của cơn cuồng nộ tột cùng. Dưới thời trị vì của bà, Ranch đã đánh bại Vương quốc Mỏ Vịt (cái tên nghe lạ hoắc lạ huơ, chú biết mà) rồi bành trướng thẳng về phía Tây, dồn ép Đế quốc quái thú lợn lòi badgeboar Emphon phải co cụm lại nơi những dãy núi ven biển của họ.”
+
+  
+
+“Công trạng đó là của Vua Fen Kẻ Trịnh Trọng cơ mà,” tôi vặn lại.
+
+  
+
+“Chỉ đúng theo cuốn sử ký do chính hắn viết ra thôi,” Yenne lầm bầm.
+
+  
+
+Vừa nói, cô vừa bước đến tựa người vào chiếc bàn làm việc của chú Rish ở góc phòng.
+
+  
+
+“Thắng lợi của bà ấy phải đánh đổi bằng sáu mươi năm tiến công chiến thuật đầy tỉ mỉ,” chú Rish tiếp tục. “Và ngay trong ngày khải hoàn, chính đứa con trai đã đầu độc bà bằng cách gây bội thực ma thuật, lén lút bỏ một lượng lớn thịt quái thú bò mộng Emphon vào bữa tiệc ăn mừng chiến thắng. Hắn cướp đoạt ngai vàng lẫn chiến công hiển hách ấy về cho riêng mình.”
+
+  
+
+“Chuyện này thì liên quan gì đến chiếc mặt nạ và những truyền thuyết ạ?” Tôi gặng hỏi.
+
+  
+
+“Dưới thời trị vì của bà ta,” chú Rish đáp, “bà ta đã phát hiện ra một hội nhóm tôn sùng quái thú đến mức thèm khát quyền lực điên cuồng, tới mức chúng bị gắn cho cái biệt danh đầy miệt thị là ‘những kẻ cuồng thú’ vì dám tàn sát bất cứ ai bị nghi ngờ là tín đồ Đấng Tiêu Thụ. Chúng đeo những chiếc mặt nạ do nhà điêu khắc thường dân Olivo chế tác, bản thân người thợ này cũng là một kẻ cuồng thú, và dùng lớp mặt nạ ấy để gieo rắc nỗi khiếp sợ.”
+
+  
+
+Chú dừng lại một nhịp rồi tiếp tục:
+
+  
+
+“Nhưng Pistachia đã tương kế tựu kế, lợi dụng chính sự cuồng tín ấy để chống lại chúng. Đám người đó chưa bao giờ tháo mặt nạ ra, ngay cả khi đang ở giữa bầy đàn của mình. Thế là Pistachia bắt cóc Olivo, ép người này phải đẽo mặt nạ cho bà cùng những cận thần thân tín nhất. Nấp sau lớp mặt nạ đó, họ thâm nhập vào buổi mật hội của giáo phái, kín đáo nhận diện lẫn nhau bằng những chiếc ghim nhỏ cài trên ve áo. Rồi nhanh gọn làm sao, họ đã tước đoạt sinh mạng của toàn bộ những kẻ có mặt mà không cài chiếc ghim ấy.”
+
+  
+
+“Những chiếc mặt nạ đó lưu lạc về đâu rồi?” Tôi hồi hộp cất tiếng hỏi.
+
+  
+
+“Nghe đồn chúng đã bị thiêu hủy cả rồi,” Yenne đáp.
+
+  
+
+“Thật không thể tin nổi là mình lại không nghĩ ra điều đó sớm hơn!”
+
+  
+
+Vừa thốt lên, cô vừa vung tay hất văng một cuốn sổ cái trên bàn làm việc của chú Rish xuống sàn. Khẽ thở dài một tiếng thật sâu, cô cúi xuống nhặt nó lên rồi đặt lại ngay ngắn vào chỗ cũ. Cơn bộc phát bất chợt cùng sự vụng về ấy quả thực rất khác với phong thái điềm tĩnh thường ngày của cô. Nhưng chú Rish vẫn tiếp tục câu chuyện, và tôi dồn trọn vẹn sự chú ý vào chú.
+
+  
+
+“Theo những gì chú Rish này được biết, mà chú Rish thì biết rất nhiều, chúng vẫn nằm lại sâu trong cung điện cho đến tận ngày nay, tựa như một chiến tích khẳng định quyền lực của Panchon. Truyền thuyết kể rằng vị vương tử nọ đã đeo chiếc mặt nạ quái long Drakephon khi ra tay hạ độc chính mẫu hậu của mình.”
+
+  
+
+“Vậy thì lũ Thợ Săn Mặt Nạ thực sự đang làm việc cho nhà vua,” tôi nói.
+
+  
+
+Ngay cả khi thốt ra câu đó và thấu suốt sự thật rành rành của nó, tôi vẫn không tài nào dung hòa nổi mối mâu thuẫn về việc tìm kiếm Đại công thức. Tại sao họ lại phải nhọc công đi lùng sục một thứ mà bản thân đã nắm chắc trong tay?
+
+  
+
+“Chú Rish đoán rằng chúng đeo những chiếc mặt nạ ấy để che mắt đám cuồng thú lẫn đám thường dân, phòng khi có kẻ quyền thế nào vô tình chạm trán chúng.”
+
+  
+
+Chú Rish nhoẻn miệng cười rồi khẽ cúi đầu:
+
+  
+
+“Và giờ thì giao dịch đã hoàn tất, phải thế không?”
+
+  
+
+“Cháu sẽ phải trả cái giá gì đây ạ?” Tôi hỏi, sực nhớ ra thỏa thuận.
+
+  
+
+“Chú Rish vừa nghe ngóng được phong thanh về một loại gia vị mới mang sức mạnh phi thường: bột rễ trời. Thật khéo làm sao khi hai kẻ mà ta cho là có khả năng tìm ra nó nhất lại đang ngồi ngay trước mặt ta đây. Ta muốn có một ít.”
+
+  
+
+“Tôi không hiểu ông đang nói về thứ gì,” Yenne đáp, ánh mắt nhìn thẳng vào chú Rish.
+
+  
+
+“Ồ, hỡi Yenne bộ óc lớn, câu trả lời khôn ngoan hơn lẽ ra phải là bảo rằng đó không phải món nợ của cô để ta đứng ra đòi chứ, phải không nào?”
+
+  
+
+Chú mỉm cười:
+
+  
+
+“Chú Rish biết tỏng là cô có biết, và cô đang đánh rơi sự khôn ngoan của mình khi cố che giấu bí mật đó đấy.”
+
+  
+
+Yenne ngoảnh mặt đi nơi khác. Hiếm khi nào cô để người ta bắt thóp dễ dàng như vậy.
+
+  
+
+“Cháu chẳng có thứ đó đâu,” tôi lên tiếng thanh minh cho chính mình.
+
+  
+
+Chú Rish tặc lưỡi hai tiếng:
+
+  
+
+“Còn cháu, huyền thoại nhỏ của ta ơi, cháu nên uốn lưỡi trước khi mở miệng. Câu trả lời khôn khéo hơn lẽ ra phải là nói rằng cháu hoàn toàn mù tịt về nơi cất giấu nó.”
+
+  
+
+Tôi bèn đổi hướng:
+
+  
+
+“Thế lỡ chúng cháu không giao cho chú thì sao?”
+
+  
+
+Chú nhún vai:
+
+  
+
+“Ta chỉ là một kẻ buôn bán nhỏ mọn. Khi ai đó giao dịch thiếu thành ý, ta sẽ dừng lại. Chú Rish không thanh toán ân oán bằng những nhát dao trong bóng tối hay đồ ăn tẩm độc. Ta chỉ đơn giản là ngó lơ đi thôi.”
+
+  
+
+Chẳng hiểu sao, sự hờ hững ấy lại mang đến cảm giác hiểm độc hơn cả một nhát dao đâm lén sau lưng.
+
+  
+
+“Cháu sẽ cố hết sức,” tôi nói.
+
+  
+
+“Đó là tất cả những gì ta cần.”
+
+  
+
+“Cảm ơn chú, chú Rish.”
+
+  
+
+Tôi đứng dậy:
+
+  
+
+“Đi thôi, Yenne, đã đến lúc phải đi gặp Vanil rồi. Tôi cần sự trợ giúp của Cori.”
+
+  
+
+Vanil không có mặt ở đó ngay lúc ấy. Vì thế, ngồi trên chiếc ghế băng dài trong Nhà Kính, Yenne và tôi đã dành trọn một tiếng đồng hồ sau đó để vắt óc giải quyết bài tập môn Ôn tập các Công thức gần đây nhất: một bản phân tích chuyên sâu về món Bít tết khoai tây chiên - Đại công thức 4. Chúng tôi phải suy luận xem *tại sao* món ăn này lại ban phát Sức bền ma thuật cùng năng lực quan sát siêu nhiên, trong khi những món ăn tương tự sử dụng sự kết hợp kinh điển giữa thịt và khoai tây lại *không thể* làm được điều đó, dựa trên các nguyên liệu và từng bước chế biến cụ thể. Dù là những học viên xuất sắc nhất lớp, chúng tôi vẫn không tài nào đưa ra nổi một lời giải thích khiến bản thân thực sự tin phục. Tôi có những phỏng đoán nghiêng về một câu trả lời, nhưng đó lại không phải là đáp án mà đề bài yêu cầu, và Yenne thì dứt khoát không đồng tình với tôi.
+
+  
+
+Tôi nghĩ cả hai chúng tôi đều thở phào nhẹ nhõm khi thấy bóng dáng Vanil xuất hiện. Cây gậy chống vắt ngang vai, ông khoác trên mình bộ âu phục của tầng lớp Thượng Phẩm, đôi mắt ánh lên sắc thái bền bỉ của Sức bền ma thuật.
+
+  
+
+“Paprick,” ông lên tiếng. “Ta không nghĩ là sẽ gặp cậu ở đây. Ta cứ ngỡ cậu đã bắt đầu thù hằn ta và đại cuộc rồi chứ.”
+
+  
+
+“Tôi cần ông ngừng ngăn cản Cori đến gặp tôi.”
+
+  
+
+Tôi không buồn giấu giếm sự giận dữ hằn rõ trong từng lời nói:
+
+  
+
+“Tôi cần sự giúp đỡ của em ấy.”
+
+  
+
+“Giúp việc gì?”
+
+  
+
+“Chúng tôi cần lấy trộm bột rễ trời,” Yenne đáp rành rọt.
+
+  
+
+Vanil hướng mắt về phía Nhà Kính trong thoáng chốc, đăm chiêu suy nghĩ:
+
+  
+
+“Dạo gần đây hai cô cậu đã quá liều lĩnh rồi. Cầm đầu cuộc bạo động. Sát hại cả một giảng viên. Giờ thì lại đòi chi viện để đánh cắp một nguồn năng lượng ma thuật Endurium mới, đúng thế, Yenne đã báo lại việc đó cho ta rồi. Liệu ta có quyền được biết nơi hai người định ra tay không?”
+
+  
+
+Tôi tránh ánh mắt của Yenne khi cất lời:
+
+  
+
+“Văn phòng của Viện trưởng Dyl.”
+
+  
+
+“Cậu nói cái gì cơ?” Yenne sửng sốt hỏi lại.
+
+  
+
+“Cậu có chắc thứ đó nằm ở đó không?” Vanil ngoảnh đầu lại hỏi.
+
+  
+
+“Tôi không nghĩ ra nơi nào khác khả dĩ hơn. Tôi biết Viện trưởng Dyl cùng hai giảng viên khác đang hợp tác viết một bài luận về các đặc tính của nó. Họ không thể làm được điều đó nếu thiếu mẫu vật trong tay.”
+
+  
+
+“Cori hiện đang bảo vệ các mẹ của cậu. Tại sao để con bé đi cùng cậu lại hữu ích hơn là ở lại bên cạnh họ?”
+
+  
+
+“Đây là phi vụ cần đến ba người,” tôi nói dối. “Cứ cử người giỏi thứ hai của ông đến bảo vệ các mẹ của tôi là được.”
+
+  
+
+Yenne nheo mắt nhìn tôi đầy vẻ hoài nghi.
+
+  
+
+“Nếu ta chấp thuận việc này, ta muốn thứ gia vị đó phải được giao tận tay cho chúng ta. Ta cần nghiên cứu nó.”
+
+  
+
+“Được,” tôi chấp thuận.
+
+  
+
+“Tốt thôi,” ông nói rồi thảy về phía tôi một tổ ong. “Ta sẽ cho người đi gọi Cori. Nhưng với thêm một điều kiện nữa.”
