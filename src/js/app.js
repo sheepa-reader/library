@@ -1306,7 +1306,7 @@
       if (chapter.bilingualPath) {
         chapterPath = chapter.bilingualPath;
       } else if (rawChapterPath) {
-        chapterPath = rawChapterPath.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books//bilingual/');
+        chapterPath = rawChapterPath.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
       }
     }
 
