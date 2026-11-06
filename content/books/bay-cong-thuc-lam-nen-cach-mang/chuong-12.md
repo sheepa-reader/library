@@ -1,533 +1,396 @@
-# 10 Nơi Hội Đồng phán quyết
+# 7 Trận chiến đầu tiên tại Cánh Đồng Cỏ Cao
 
-*Món Thứ Nhất • Hương Vị Đầu Tiên*
+“Tôi không còn nhớ nhiều về những gì nằm giữa tôi và nơi tôi dừng chân,” Đồ Tể thừa nhận. “Ngoại trừ đống đổ nát, rõ ràng là vậy. Sử sách của cô có thể ghi rõ những con phố nào đã bị san phẳng, nhưng gần hai ngàn người Thứ Phẩm đã bỏ mạng vào ngày hôm đó. Tôi nhớ từng người trong số họ.”
 
-Một kẻ khác thuộc tầng lớp Thượng Phẩm lại ngáp dài não nuột.
+
+
+  “Thôi đi. ‘Tôi nhớ từng người trong số họ’ ư? Cuốn Sách Nghi Lễ này không phải là nơi để anh thêu dệt nên huyền thoại của mình đâu, Đồ Tể. Nó dùng để ghi lại sự thật trước Đấng Tiêu Thụ và định đoạt tội trạng của anh. Anh định bắt tôi tin rằng anh đã bám theo quái thú Emphon đến tận Khu Thứ Phẩm Số 1, rồi từ đó đi bộ đến Cánh Đồng Cỏ Cao mà không cần chút Sức bền ma thuật nào, trong khi vẫn khoác trên mình bộ đồ da đồ tể nặng nề sao? Quãng đường đó dài gần mười cây số chỉ trong vòng một giờ đồng hồ, chưa kể những lúc anh phải dừng chân.”
 
-  
+
+
+  “‘Trước Đấng Tiêu Thụ’,” Đồ Tể cười khẩy. “Ngay cả cô còn chẳng tin vào vị thần linh của nữ hoàng mình nữa là.”
 
-“Hành quyết vào giờ này chẳng phải hơi sớm sao?”
+
+
+  “Anh đang lảng tránh đấy.”
 
-  
+
+
+  “Tại sao tôi phải nói dối về chuyện này, ngay cả trước khi chúng ta đi vào những cáo buộc chứ?”
 
-“Thế thì cứ coi như được ban phước nhờ sự mau lẹ đi,” một giọng nói cao vút, ngân nga cất lên, rồi nhỏ dần khi nhận ra toán lính đang áp giải tôi. “Ngay cả Đấng Tiêu Thụ cũng phải dùng bữa sáng mà.”
+
+
+  Lưu Trữ Viên khịt mũi: “Anh chỉ là một tượng đài được dựng lên bằng những lời tuyên truyền. Cả tôi và anh đều biết rõ anh vẫn giữ khư khư miếng thịt đã trộm được. Anh có thể giả vờ rằng mình bám theo nó đến Cánh Đồng Cỏ Cao, nhưng tôi chưa bao giờ tìm thấy bằng chứng nào cho thấy anh từng đặt chân đến Khu Thứ Phẩm Số 1. Các nhân chứng chỉ nhớ đã thấy anh xuất hiện tại Cánh Đồng Cỏ Cao. Chỉ duy nhất ở đó mà thôi. Điều này khiến người ta không khỏi hoài nghi liệu đó có phải là toan tính ngay từ đầu của anh hay không.”
 
-  
+
+
+  “Đừng có lên giọng nói về sự dối trá. Đừng nhắm vào tôi, nhất là sau tất cả những gì cô đã làm.”
 
-Tên lính dập mạnh gót chân rồi giơ tay chào: “Kính chào Hội đồng Phán quyết tôn kính.”
+
+
+  Vốn là người không bao giờ dễ dàng sập bẫy khiêu khích, Lưu Trữ Viên lấy lại vẻ bình thản rồi đưa mắt nhìn xuống cuốn sách. “Theo những gì sử sách của tôi ghi chép, quân kháng chiến đã lùa con quái thú về phía hoàng cung hòng phá hủy nơi đó, nhưng đường đi của nó lại chệch hướng qua Cánh Đồng Cỏ Cao, đâm sầm vào cả một trung đội Lính Mổ Xẻ. Anh có thừa nhận điều đó không?”
 
-  
+
+
+  Vẫn như mọi khi, Đồ Tể chỉ nhún vai rồi tiếp tục câu chuyện của mình; dù thực hư ra sao, Lưu Trữ Viên chắc chắn cũng sẽ tìm ra câu trả lời.
 
-Hội đồng Phán quyết “tôn kính” mà tôi vinh hạnh được diện kiến đều mang chung một vẻ mặt chẳng mấy vui vẻ khi thấy tôi bước vào. Dù nơi đây bố trí năm chỗ ngồi, nhưng chỉ có bốn kẻ Thượng Phẩm đang an tọa phía sau chiếc bàn đá xám tạc hình cặp sừng của quái thú Bò sát Carnephon. Chiếc bàn uốn cong từ vị trí trống ở chính giữa hướng về phía tôi trên một bục đá nhẵn bóng, nhô cao khỏi mặt đất đến mức tôi phải ngước mắt lên mới bắt gặp được những cái gật đầu đầy vẻ khinh miệt của bọn họ.
+
+
+  Khi tôi đến Cánh Đồng Cỏ Cao, hàng chục người đang giao tranh ác liệt trên những cỗ xe ngựa bốc cháy ngùn ngụt giữa làn khói mù mịt. Dấu vết tàn phá hằn sâu khắp chiến trường khi Bessa giày xéo qua khu chợ. Tôi không nán lại mà cắm đầu chạy thẳng về phía Chợ Gia Vị Hắc Ám. Crooked Rish đang thận trọng bước xuống cầu thang khi tôi lao tới. Cinna và Lão Banan đang khiêng chiếc xe lăn, còn Rish thì chậm rãi nhích từng bậc một. “Pappy? Gió nào đưa cháu đến đây vào lúc này thế?” Ngay cả trong hoàn cảnh ấy, ông vẫn cố chìa ra cho tôi một quả chanh ngâm đường.
 
-  
+
+
+  “Cháu đến tìm chú,” tôi thở dốc. “Chú có sao không?”
 
-Tôi chỉ nhận ra người phụ nữ da trắng ngồi bên tay phải chiếc ngai trống, kẻ vừa cất lời nhận xét cái chết của tôi sẽ diễn ra nhanh gọn đến nhường nào: Đại Thụ Hưởng Orega Marzona, người đứng đầu tín ngưỡng Thụ Hưởng. Mái tóc bà ta gần như bạc trắng, điểm xuyết những sợi hung đỏ và nâu tàn phai, được búi gọn gàng bên dưới chiếc vương miện kim loại đồ sộ đính hai chiếc răng nanh quái thú Bò sát Carnephon chĩa thẳng lên trời như hai lưỡi kiếm cong. *Chiếc vương miện ấy ắt hẳn phải nặng tới mười cân, nhưng chẳng hề làm trĩu nổi cần cổ của bà ta, có lẽ bởi đôi mắt bà ta đang rực lên ánh vàng bơ của Sức bền ma thuật.*
+
+
+  “Chú ổn, nhưng ở đây không an toàn đâu.”
 
-  
+
+
+  “Còn ai ở trên đó nữa không?”
 
-Bên cạnh bà ta là một người đàn ông da ngăm có râu, đôi mắt mang sắc nâu thuần túy chứ không phải màu vàng rực, đang dán chặt vào xấp tài liệu trước mặt. Miệng ông ta mấp máy những con số trong lúc hí hoáy viết, dường như đang mải miết tính toán, và trong suốt toàn bộ diễn biến tiếp theo, ông ta chưa từng một lần ngẩng đầu lên.
+
+
+  “Ruda,” Lão Banan lên tiếng, cùng lúc Rish buột miệng: “Không còn ai.”
 
-  
+
+
+  Lão Banan liếc nhìn Rish, nhưng tôi đã vội vã lách người qua họ.
 
-Đối diện với ông ta là một gã mặt mày nhẵn nhụi với làn da thô ráp màu cát cháy như những cồn cát phương nam. Gã khoác trên mình bộ quân phục thậm chí còn được hồ cứng hơn cả toán lính áp giải tôi, nặng trĩu những huân chương cùng ve áo thêu thùa cầu kỳ. Tôi đoán gã chính là chủ nhân của chất giọng trầm vang lúc trước, bởi cơn giận của gã còn nóng hơn cả một vỉ nướng than, và bởi người ngồi cạnh gã chỉ là một kẻ đeo kính mang dáng vẻ mọt sách với đôi mắt thâm quầng bọng mắt, kẻ mà tôi ngờ rằng chẳng thể nào cất nổi chất giọng uy quyền đến thế.
+
+
+  Chợ Gia Vị Hắc Ám hoàn toàn vắng bóng khách hàng. Rõ ràng toàn bộ giới thương nhân đều đã vội vã bỏ lại sạp hàng, chẳng buồn màng tới việc bảo vệ của cải trước những kẻ hôi của (điều mà chẳng người Thứ Phẩm nào thèm làm). Thế nhưng, vẫn có một người đứng chôn chân tại quầy hàng của mình. Giống như tôi, Ruda sở hữu mái tóc, làn da cùng đôi mắt màu nâu, những nét đặc trưng giúp bà dễ dàng hòa lẫn vào dòng người ở Ranch cũng như phần còn lại của Vương quốc Panchon, dù bà vốn đến từ Semoli, một trong những xứ láng giềng của chúng tôi. Tôi thầm ngưỡng mộ những hình xăm quái thú Emphon đầy màu sắc trên cánh tay bà: hai con quái thú bò mộng Emphon, một con quái thú lợn lòi badgeboar Emphon, một quái long Drakephon, cùng những sinh vật huyền bí khác mà tôi chỉ biết lõm bõm qua kinh sách tôn giáo. Nhưng hơn cả, tôi ghen tị với quá khứ phong trần đầy bí ẩn của bà dưới danh nghĩa một thương nhân, chuyến hành trình buôn bán đã đưa bà chu du khắp cùng trời cuối đất.
 
-  
+
+
+  “Ánh mắt của ngươi trông quen lắm,” người phụ nữ cất tiếng nhận xét khi bước chân tôi chậm lại. Bà chẳng hề nhúc nhích khỏi chiếc ghế đặt giữa gian hàng, cũng không buồn nhấc đôi ủng đang gác trên chiếc hòm gỗ xuống.
 
-Là người trẻ tuổi nhất trên bàn thẩm vấn, kẻ mang dáng dấp học giả ấy sở hữu thân hình vuông vức, khoác chiếc áo vest độn vai rộng thùng thình, cùng một chuỗi khuyên bên tai trái nối liền với mũi bằng những sợi xích chằng chịt. Ẩn bên dưới mạng lưới xích nối ấy, dù đã cố che đậy nhưng vẫn lờ mờ lộ ra những vết sẹo ngoằn ngoèo màu nâu trên làn da bánh mật.
+
+
+  “Chúng ta chưa từng gặp nhau,” tôi đáp, thoáng chút ngỡ ngàng, nhưng vẫn kịp nhớ lại phép tắc lịch sự mà rút từ túi đồ chào hỏi ra một hạt hạnh nhân ướp gia vị đưa về phía bà. “Lần trước tôi có thấy bà, nhưng chỉ nhìn từ đằng xa. Tôi là Paprick, chúng ta phải rời khỏi đây ngay trước khi Be... con bò mộng ấy san phẳng tòa nhà này.”
 
-  
+
+
+  Bà ngoắc ngoắc ngón tay rồi chỉ thẳng vào mắt tôi, hoàn toàn phớt lờ hạt hạnh nhân. “Không, không. Không phải chuyện đó.” Giọng nói của bà chậm rãi tựa dòng mật ngọt đang chảy, trái ngược hoàn toàn với nỗi gấp gáp đang bủa vây lấy tôi. “Cái chết,” bà phán. “Nó đang bám chặt lấy đôi mắt ngươi.”
 
-Tôi thậm chí còn chẳng chú ý đến thành viên thứ năm cho đến khi bà lên tiếng yêu cầu cả nhóm tập trung. Bà sở hữu chất giọng chát chúa như nắm rau đắng dại, phả thẳng vào mặt người đối diện đầy uy quyền, với thái độ chỉ muốn nhanh chóng kết thúc mọi chuyện cho xong xuôi vì lợi ích của đôi bên. Ngồi tại chiếc bàn nhỏ của riêng mình nép sang một bên phía dưới chiếc bàn chính, trông bà chẳng khác nào một người mà thiên hạ không nỡ để ngồi bệt dưới sàn nhưng cũng quyết không chịu xếp ngang hàng nơi bàn của những kẻ bề trên. Cổ tay áo đầu bếp cáu bẩn sột soạt cử động bên dưới gương mặt cằn cỗi như đã trải qua cả triệu năm cau có. Đôi mắt bà mang sắc vàng ngả sang nâu, nhưng toát lên vẻ tự nhiên hơn là do tác động của Sức bền ma thuật, và bà sở hữu một sống mũi sắc như dao, thứ vũ khí sẵn sàng bổ thẳng xuống người khác bằng những cái lườm sắc lẹm để xé toạc mọi bức tường phòng thủ.
+
+
+  Tôi nhíu mày, bực bội: “Tôi vừa tận mắt chứng kiến cả ngàn người ngã xuống, nên đúng vậy, chắc chắn là thế rồi.”
 
-  
+
+
+  Như thể ứng nghiệm lời báo trước, tòa nhà bỗng rung chuyển dữ dội, khiến lớp bụi bặm tích tụ cả thế kỷ trong gian phòng rào rào rơi rụng. Bụi trút xuống quanh chúng tôi tựa hồ lớp tàn tro vừa phủ kín Khu Thứ Phẩm Số 1.
 
-Hai kẻ ngồi ở chiếc bàn cao hơn vừa thản nhiên bàn luận về cái chết của tôi, thế nhưng chính người phụ nữ ngồi ở chiếc bàn thấp này mới là người khiến tôi kinh hãi tột độ.
+
+
+  “Đúng thế,” bà khẽ gật đầu đồng tình, chất giọng quá đỗi ung dung, lại quá đỗi... thỏa mãn. “Và điều đó đã dẫn ngươi đến tìm ta sao, Đôi Mắt Tử Thần?”
 
-  
+
+
+  “Tôi đến đây để giúp, để...” Câu nói của tôi khựng lại khi một làn hương đầy quyến rũ, vừa quen thuộc lại vừa xa lạ, bất ngờ níu giữ tâm trí tôi. Lướt mắt qua mớ hàng hóa của bà, cánh mũi tôi bắt được một mùi thơm ngọt ngào ẩn sau vị cay nồng, phảng phất chút bùi bùi của các loại hạt và nét tươi mát của cam chanh. Đó chính xác là hương vị tôi đã cất công tìm kiếm trong lúc trò chuyện với chú Rish. Bên cạnh những thùng gia vị xếp chồng chất là một chiếc túi chỉ nhỏ bằng lòng bàn tay, miệng túi mở he hé để lộ lớp bột màu nâu đỏ trầm ấm.
 
-“Nào,” bà lên tiếng, “ngươi có điều gì muốn tự bào chữa cho mình không, nhóc?”
+
+
+  Ruda tặc lưỡi đầy ẩn ý khi dõi theo ánh mắt của tôi: “Mũi của ngươi thính đấy, Đôi Mắt Tử Thần.”
 
-  
+
+
+  “Đó là thứ gì vậy?”
 
-Mặt tôi cắt không còn hạt máu. “Dạ, sao cơ ạ?” Tôi thều thào hỏi lại.
-
-  
-
-Thú thật, tôi cũng chẳng rõ lúc đó mình đang muốn bà lặp lại câu hỏi hay chỉ đang cố gắng bày tỏ nỗi hối lỗi. Bên cạnh nỗi khiếp sợ trước uy lực mà phong thái của bà tỏa ra, tôi còn nhận thức rõ mồn một rằng số mạng mình đã tận đến nơi rồi.
-
-  
-
-Người đàn ông để râu khẽ cười khúc khích trong lúc lật sang một trang giấy khác. “Ồ, một lời xin lỗi đấy à. Thấy chưa? Chúng ta xong việc và đi được rồi đấy.”
-
-  
-
-“Đừng có cợt nhả thế, Hoppus,” vị Đầu Bếp quở trách, giọng sắc lẹm như tiếng roi quất. Thế nhưng người đàn ông để râu chỉ cười khẩy một tiếng rồi lại cắm cúi quay về với đống giấy tờ của mình. Bà dồn trọn sự chú ý vào tôi. “Ngươi có biết mình đang ở đâu không?” Giọng bà đã dịu đi đôi chút, tựa hồ chiếc bàn nạo phô mai bớt phần thô ráp khi thay đổi mắt lưới.
-
-  
-
-“Thưa Đầu Bếp, trong cung điện ạ.”
-
-  
-
-Bà nhíu mày đầy giận dữ. Cầu cho dịch bệnh tha cho con, bà già khó tính này sinh ra trên đời chỉ để cau có thôi hay sao ấy. “Là Đầu Bếp,” bà uốn nắn tôi. “Ngươi phải gọi ta là Đầu Bếp, hoặc Đầu Bếp Ilantra.”
-
-  
-
-Tôi nghiêm nghị gật đầu, nhưng trong lòng không khỏi kinh ngạc. Một Đầu Bếp thực thụ, viết hoa trang trọng! Điều đó đồng nghĩa với việc bà đã tốt nghiệp Học viện Ẩm thực Hoàng gia và từng tự tay chế biến quái thú Emphon. Ilantra là cái tên thuộc giới Thượng Phẩm, thế nên bà chẳng cần phải tự mình sáng tạo ra một Đại công thức ma thuật nào để được nhận vào học như tầng lớp Thứ Phẩm chúng tôi, nhưng chắc chắn bà nắm giữ rất nhiều Đại công thức ma thuật. Bao nhiêu món? Mang lại những năng lực gì? Tôi vô cùng khao khát được biết.
-
-  
-
-Tôi thực sự rất muốn biết.
-
-  
-
-Không như những kẻ còn lại trong hội đồng, tôi dành cho bà sự kính trọng chân thành.
-
-  
-
-“Ngươi hoàn toàn không biết mình đang diện kiến những ai, đúng chứ?” Gã quân nhân lên tiếng, giọng trầm đục như tiếng vọng từ những Hầm Mỏ Tan Chảy.
-
-  
-
-“Tôi nhận ra Đại Thụ Hưởng.”
-
-  
-
-“Ta đã cho mày mở miệng chưa, đồ con gián?” Hắn vặn lại bằng giọng sắc lẹm.
-
-  
-
-Tôi toan mở miệng bảo rằng chính hắn vừa hỏi mình, nhưng đã lập tức bị ngắt lời.
-
-  
-
-“Hoppus Florento,” người đàn ông để râu tự giới thiệu. “Thủ quỹ của Đức Vua.” Mắt ông ta liếc nhanh về phía người mang vẻ ngoài mọt sách. “Cứ gọi ta là ông, nếu điều đó khiến ngươi vừa lòng.”
-
-  
-
-“Viện trưởng Dyl Corzon,” vị học giả lên tiếng, mỉm cười nhã nhặn. “Xin hãy dùng đại từ nhân xưng là họ.”
-
-  
-
-“Chúng ta lại phải làm trò này trước một tên Thứ Phẩm sao?” Hắn cằn nhằn. Trước cái lườm sắc như dao của vị viện trưởng, hắn mới chịu lầm bầm: “Thống lĩnh Thymen Wensoan, Đệ nhất...”
-
-  
-
-“Ngươi đã ăn cắp Đại công thức ma thuật từ ai?” Đại Thụ Hưởng cắt ngang.
-
-  
-
-“Tôi không ăn cắp.”
-
-  
-
-“Dối trá!” Thống Lĩnh Wensoan quát lên, đập mạnh nắm đấm xuống bàn. “Thật nực cười! Hắn thậm chí còn không có quyền thực hiện Nghi Lễ. Việc dung túng cho hắn chỉ càng...”
-
-  
-
-“Tôi không hề ăn cắp!” Tôi quả quyết, giọng hơi lạc đi đôi chút.
-
-  
-
-Đại Thụ Hưởng lập tức chộp lấy sơ hở đó như một con quái thú Bò sát Carnephon đánh hơi thấy mùi máu. “Paprick Khu Thứ Phẩm Số 3, ngươi là một tên Thứ Phẩm ngu xuẩn và ngươi sẽ phải quỳ gối chịu tội ba lần! Lần thứ nhất vì dám dối trá trước bề trên. Lần thứ hai vì dám trộm cắp của giới Thượng Phẩm. Và lần thứ ba vì dám tự tiện sử dụng một Đại công thức ma thuật. Đó là phán quyế...”
-
-  
-
-“Đủ rồi!” Đầu Bếp Ilantra quát lên, chặn họng Đại Thụ Hưởng. “Đức Vua có thể đang vắng mặt, nhưng bà không có quyền ra phán quyết, đồ mụ già lẩm cẩm. Chỉ có Đức Vua mới nắm quyền sinh sát đó. Khi ngài vắng mặt, chúng ta sẽ định đoạt bằng cách bỏ phiếu.”
-
-  
-
-Cái cách bà nhấn mạnh từ “chúng ta” khiến tôi nhận ra bà đang rơi vào thế phòng thủ. Nếu không nhờ vào vị trí bàn làm việc tách biệt của bà, có lẽ tôi đã bỏ qua chi tiết ấy. Rõ ràng đang có một sự cô lập diễn ra trong căn phòng này. Dù cán cân quyền lực giữa họ ra sao đi nữa, vị Đầu Bếp kia cũng đang phải đấu tranh cho vị thế của chính mình, hệt như cách bà đang nỗ lực bảo vệ mạng sống của tôi.
-
-  
-
-“Thật phí thì giờ,” Đại Thụ Hưởng đáp lời. “Biểu quyết ngay lập tức. Ai đồng ý?”
-
-  
-
-Đại Thụ Hưởng và Thống Lĩnh cùng giơ lên những chiếc nĩa lệnh mà góc nhìn của tôi không thể thấy rõ. Sau một thoáng ngập ngừng, cả hai đều quay sang lườm vị Thủ quỹ, nhưng ông ta vẫn không buồn nhấc tay khỏi đống sổ sách giấy tờ.
-
-  
-
-Dù vừa thắng hiệp đấu đó, vị Đầu Bếp vẫn không hề nở nụ cười. Nỗi khinh bỉ dành cho bọn họ càng làm hằn sâu thêm nét cau có trên gương mặt, rồi bà quay sang nhìn tôi: “Paprick Thứ Phẩm Số 3, ngươi đang bị cáo buộc tội trộm cắp, dị giáo, và giờ là cả khai man. Ngươi có lời gì tự bào chữa cho mình không, nhóc?”
-
-  
-
-Tôi hiểu rõ lúc này mình đang bị chất vấn điều gì. Sức bền ma thuật thúc đẩy tâm trí tôi vạch ra con đường duy nhất có thể cứu mạng mình:
-
-  
-
-“Tôi không hề ăn cắp Đại công thức ma thuật đó. Tôi đã tự mình sáng tạo ra nó. Tự tiện sử dụng nó là một hành vi ngu xuẩn, nhưng đúng như bà nói, tôi chỉ là một kẻ thiếu hiểu biết. Tôi chẳng có lý do gì để tin rằng mình lại thực sự tạo ra được một Đại công thức ma thuật mới. Tôi chỉ muốn góp sức cứu lấy thành phố mà thôi.”
-
-  
-
-Căn phòng lặng ngắt như tờ, âm thanh duy nhất còn sót lại là tiếng ngòi bút sột soạt trên giấy của Hoppus.
-
-  
-
-“Đã cả một thế hệ trôi qua mà chưa có thêm một Đại công thức ma thuật mới nào ra đời,” Viện trưởng Corzon lên tiếng phân trần với những người khác. “Hơn nữa, công thức này hợp với chốn lầu xanh hơn là nơi quân ngũ. Chúng ta mới là những kẻ ngu xuẩn nếu xử tử thằng bé này trước khi đoạt được công thức đó.”
-
-  
-
-“Luật pháp đã quy định rõ ràng,” Thống Lĩnh Wensoan lớn tiếng tuyên bố. “Bất kỳ kẻ Thứ Phẩm nào tự ý sử dụng Sức bền ma thuật mà không có sự cho phép của Thượng Phẩm đều phải bị khép vào tội dị giáo. Ngay cả người thuộc giới Thượng Phẩm cũng không thoát khỏi tội danh ấy nếu dám làm càn. Chỉ có thành viên hoàng tộc mới được quyền miễn trừ. Xử tử nó đi để kết thúc chuyện này cho xong!”
-
-  
-
-“Thống lĩnh, hãy bình tĩnh.” Đại Thụ Hưởng lúc này dán chặt mắt vào tôi, toàn bộ áp lực từ ánh nhìn sắc lạnh chứa đầy Sức bền ma thuật của bà ta giáng xuống tựa một cái tát trời giáng.
-
-  
-
-“Mày là một gã đồ tể.” Đó không phải là một câu hỏi.
-
-  
-
-“Là thợ đồ tể tập sự ạ,” tôi sửa lại, trong lòng dấy lên chút gan góc liều lĩnh.
-
-  
-
-Một tia sáng háo hức lóe lên trong mắt bà ta. “Thưa Thống lĩnh, tôi tin là chúng ta đã chĩa mũi dùi sai hướng rồi. Kẻ ăn xác thối kia, mày lấy thịt ở đâu để làm ra Đại công thức ma thuật của mình?”
-
-  
-
-Chết tiệt, bà ta đã dồn tôi vào thế bí. Tôi không thể thừa nhận chuyện trộm thịt từ Xưởng của Nhà Vua mà không bị khép tội chết. Thế nhưng, trước cả khi tâm trí kịp nghĩ ra kế sách đối phó, miệng tôi đã bật thốt: “Khi quái thú Bò sát Carnephon xổng chuồng, những thanh dầm đổ sụp của tòa nhà đã móc toạc phần thịt lộ ra bên sườn của nó. Vài tảng thịt bị giằng đứt rồi rơi ngay gần đó. Tôi đã vội vã đi tìm một người Thượng Phẩm để giao nộp, nhưng thành phố lúc ấy đang quá đỗi hỗn loạn. Tôi chẳng tìm được bất kỳ ai cả.” Nghĩ lại thì, đó quả là một lời nói dối khá tươm tất.
-
-  
-
-Mọi người, ngoại trừ Hoppus, đều cúi nhìn tôi bằng ánh mắt săm soi đầy sắc lạnh. Tôi không nghĩ có ai trong số họ tin lời giải thích ấy, nhưng giữa muôn vàn Đại công thức ma thuật trên đời, chẳng có công thức nào ban phát năng lực vạch trần kẻ nói dối. Hội đồng thẩm tra cần có bằng chứng, mà việc đó thì sẽ mất thời gian.
-
-  
-
-Đầu Bếp Ilantra lại lên tiếng, giọng điệu cay nghiệt của bà ngập tràn vẻ chực chờ sơ hở. “Táo bạo đấy, dám rêu rao là đã tự sáng tạo ra một Đại công thức ma thuật. Vậy hãy mô tả chính xác cách ngươi làm ra nó xem. Phải thật cụ thể về nguyên liệu lẫn quy trình chế biến. Ta sẽ biết ngay ngươi có nói thật hay không.”
-
-  
-
-Tôi cảm nhận rõ nỗi thèm khát toát ra từ tất cả bọn họ, ngay cả Hoppus cũng dừng bút trong thoáng chốc.
-
-  
-
-Đại công thức ma thuật là những thứ tối thượng thiêng liêng. Vượt lên trên cả sự tôn nghiêm của tín ngưỡng Tiêu Thụ, chúng là đồng tiền bảo chứng quyền lực của giai cấp Thượng Phẩm, là nền móng của quân đội, và là cả một lĩnh vực nghiên cứu học thuật tại Học Viện. Điều ấy can dự trực tiếp đến hội đồng tối cao, nơi mỗi kẻ đều thò tay vào một nồi quyền lực riêng biệt, không ngừng khuấy đảo để tranh giành tầm ảnh hưởng. Những Đầu Bếp dành trọn mỗi ngày để chuyển hóa phần thịt tôi xẻ trong Xưởng của Nhà Vua thành sức mạnh cho quân đội, thành tri thức cho Học Viện, và thành lạc thú cho giai cấp Thượng Phẩm của bọn họ.
-
-  
-
-“Tôi luôn khao khát trở thành một Đầu Bếp,” tôi cất lời sau nửa nhịp chần chừ. “Không đơn thuần chỉ để được thăng hạng. Mà bởi tôi thực lòng yêu thích việc nấu ăn.”
-
-  
-
-“Bà ấy vừa hỏi mày một câu đấy, đồ gián đất,” Thống Lĩnh gằn giọng lăng mạ.
-
-  
-
-“Kính thưa Thống lĩnh Thymen,” Dyl cẩn trọng lên tiếng, “tôi tin rằng nó đang trả lời theo cách của riêng mình.”
-
-  
-
-“Nếu tôi giao công thức này cho các người, tôi sẽ vĩnh viễn không bao giờ được nấu ăn nữa.” Tôi cố dồn thật nhiều vẻ đau xót vào giọng nói, điều đó thực ra chẳng hề khó khăn. Chỉ mới tưởng tượng đến viễn cảnh ấy thôi cũng đủ khiến lòng tôi nhói buốt. “Các người sẽ không bao giờ chịu trao gửi tri thức về một Đại công thức ma thuật cho một kẻ Thứ Phẩm. Các người sẽ chặt tay tôi, cắt lưỡi tôi. Các người sẽ làm mọi giá để ngăn tôi truyền bá bí mật ra ngoài.”
-
-  
-
-“Và chúng ta hoàn toàn có quyền làm thế theo đúng luật pháp,” Thống Lĩnh lạnh lùng nhắc nhở.
-
-  
-
-Tôi phải lao thẳng về phía trước như loài Bessa từng làm. Trước mắt bọn họ, tôi chẳng khác nào một con thú bị nhốt trong lồng, và chỉ có sự gan góc của bản thân mới giúp tôi bước ra khỏi căn phòng này mà còn giữ được mạng sống.
-
-  
-
-Tôi biết rõ điều đó như biết rõ tình yêu thương của các mẹ mình. “Nhưng ngay cả khi ấy, chỉ cần ai đó hỏi tôi những câu hỏi đúng sai, tôi vẫn có thể gật đầu để giúp họ tìm lại Đại công thức ma thuật. Thế nên, cách duy nhất để các người giữ kín bí mật này là giết chết tôi.”
-
-  
-
-Đầu Bếp Ilantra đảo mắt. “Nhưng nếu ngươi được thăng lên hàng Thượng Phẩm, sẽ chẳng còn lý do gì để ngươi phải chết, cũng chẳng có lý do gì để ngươi phải giấu giếm nữa. Đó là điều ngươi đang toan tính, đúng chứ?”
-
-  
-
-Tôi gật đầu.
-
-  
-
-Dyl khẽ gật đầu đáp lại tôi. Đó là một cái gật đầu kín đáo, mỏng manh tựa như lằn ranh giữa ngọn lửa liu riu và làn nước chực sôi sùng sục. “Một kẻ Thứ Phẩm khôn ngoan,” họ trầm ngâm.
-
-  
-
-“Đừng thốt ra những lời báng bổ như thế trước mặt ta,” Đại Thụ Hưởng gắt gỏng.
-
-  
-
-Nhưng chính Thống Lĩnh mới là người nhìn thấu điểm yếu của tôi. “Mày muốn chúng ta tin rằng mày nhặt được một ít thịt, rồi bằng cách nào đó tự chế biến ra một Đại công thức ma thuật ngay trong ngày mà không cần qua đào tạo sao? Láo xược. Cho tôi một giờ với nó, tôi sẽ bắt nó phải nôn sạch công thức ra.”
-
-  
-
-“Nếu nó thực sự là một kẻ nói dối lão luyện đến thế, ông sẽ chẳng bao giờ biết chắc liệu mình có ép lấy được đúng công thức hay không đâu,” Hoppus điềm tĩnh nhận xét.
-
-  
-
-“Tôi dứt khoát không chấp nhận chuyện này,” Thống Lĩnh gầm lên. “Luật lệ vốn có quy trình để thăng hạng một kẻ Thứ Phẩm vào Học viện Ẩm thực.”
-
-  
-
-“Một quy trình đã ba thế hệ nay không hề được sử dụng,” Viện trưởng điềm đạm phản bác.
-
-  
-
-“Vì những lý do hoàn toàn chính đáng cả đấy!”
-
-  
-
-“Chẳng vì lý do gì cả,” Đầu Bếp tuyên bố. “Chỉ vì chưa có lý do nào để áp dụng thôi.” Bà quan sát tôi rất kỹ, và dẫu cho Sức bền ma thuật đang giúp tôi duy trì sự tỉnh táo vào khoảnh khắc ấy, tầm nhìn của tôi vẫn nhòe đi, chồng chéo với ký ức về Bessa đang nhìn tôi trừng trừng từ bên kia Cánh Đồng Cỏ Cao rực cháy. Họ có đôi mắt giống hệt nhau, cả Đầu Bếp lẫn Bessa. “Ngươi khao khát bỏ lại những kẻ Thứ Phẩm của mình để gia nhập với chúng ta đến thế sao? Ngươi sẽ bị cả hai phe căm ghét. Còn cha mẹ ngươi thì sao?”
-
-  
-
-“Tôi thà bị căm ghét mà vẫn được nấu ăn còn hơn là phải chết. Các mẹ của tôi hiểu rõ điều đó.”
-
-  
-
-“Các mẹ?” Hắn cất giọng châm chọc. “Cha mày là một trong những tên Thứ Phẩm đồi bại cưới nhiều vợ đấy à?”
-
-  
-
-Không thốt ra thành tiếng, tôi trút mọi lời nguyền rủa cay độc nhất lên đầu kẻ cuồng tín hẹp hòi kia. Ở thế giới của chúng tôi, hôn nhân đồng giới hay đa ái đều được tôn trọng bình đẳng. Để giữ bình tĩnh, tôi tự nhủ rằng đây là một tín hiệu đáng mừng. Nếu họ còn gặng hỏi điều này, nghĩa là các mẹ của tôi không có ở đây. Ít nhất là vào lúc này, họ vẫn được an toàn.
-
-  
-
-“Tôi không có cha,” tôi đáp.
-
-  
-
-“Để chúng tôi lại một mình,” Đầu Bếp ra lệnh.
-
-  
-
-Gã lính áp giải nắm chặt lấy khuỷu tay tôi rồi giật mạnh người tôi lại. Suýt chút nữa tôi đã quên mất sự hiện diện của gã. Chúng tôi nhanh chóng bước ra ngoài hành lang. “Đợi ở đây.”
-
-  
-
-Hai tên lính gác khác chĩa mũi thương chiến trận sắc lạnh thẳng vào cổ họng tôi. Một lát sau, gã lính áp giải tiến lại sát bên cạnh tôi, quay mặt về hướng ngược lại rồi thì thầm nhỏ đến mức tôi ngỡ đó chỉ là ảo giác: “Tao sẽ móc bằng được Đại công thức đó ra khỏi cái cổ họng be bét máu của mày, đồ gián đất.”
-
-  
-
-“Cứ thử xem,” tôi nói.
-
-  
-
-Trước khi gã kịp làm gì, cánh cửa phòng lại bật mở.
-
-  
-
-“Quay lại đây!” Giọng Đầu Bếp vang lên đanh thép.
-
-  
-
-Gã lính đẩy mạnh tôi về phía trước rồi toan bước theo, nhưng giọng nói của Thống Lĩnh đã cất lên ngăn lại: “Ở lại bên ngoài, Trung Úy Vyson.”
-
-  
-
-Hóa ra gã chính là kẻ đã cứu mạng tôi. “Hối hận vì đã cứu tao rồi à?” Tôi hỏi.
-
-  
-
-Gã nheo mắt nhìn tôi nhưng không nói nửa lời, chỉ lùi lại, bỏ mặc tôi với ý nghĩ muốn lao thẳng ra phía khung cửa sổ khổng lồ kia rồi gieo mình xuống dưới. Thế nhưng, nỗi sợ vô hình về độ cao thăm thẳm cùng niềm hy vọng mãnh liệt rằng mình thực sự có cơ hội trở thành một Đầu Bếp đã giữ chân tôi lại.
-
-  
-
-Người lên tiếng tiếp theo là Viện trưởng Dyl, điều đó khiến tôi vô cùng ngạc nhiên: “Ở nhiệt độ nào thì thịt quái thú bò mộng Emphon đạt mức chín tái?”
-
-  
-
-Tôi bất giác nhìn sang Đầu Bếp vì ngỡ rằng câu hỏi đó dành cho bà. Nhưng bà chỉ cau mày nhìn lại tôi rồi nhướng một bên lông mày, tựa như đang thách thức tôi mở miệng.
-
-  
-
-Dù trong lòng hết sức bối rối, tôi vẫn trả lời: “Năm mươi tám độ, thưa Viện trưởng.”
-
-  
-
-“Hãy định nghĩa món salad,” họ tiếp tục tra hỏi.
-
-  
-
-Định nghĩa salad ư? Thật nực cười. “Đó là sự kết hợp của hai hay nhiều loại rau củ, thường dùng kèm với nước sốt, đôi khi có thêm trái cây, thịt hoặc các loại hạt. Tôi có...”
-
-  
-
-“Nếu ta đưa cho ngươi một cốc hành tây thái hạt lựu, một cốc ớt chuông xanh thái hạt lựu, một cốc cà rốt thái hạt lựu, bốn nhánh tỏi và sáu cốc nước dùng, ngươi sẽ nấu món gì?”
-
-  
-
-“Nước dùng đã được nêm nếm gia vị chưa?” Tôi không chắc liệu mình có quyền hỏi ngược lại hay không, nhưng lúc này tôi hiểu mình đang bị thử thách, và tôi quyết không chấp nhận thất bại chỉ vì thiếu thông tin.
-
-  
-
-Đầu Bếp nghiến răng đáp: “Rồi.”
-
-  
-
-“Một món hầm, hoặc có thể là nước sốt trong một trường hợp cụ thể.”
-
-  
-
-“Trường hợp nào?” Đầu Bếp gặng hỏi.
-
-  
-
-“Nếu nước dùng được nấu chủ yếu từ cà chua.”
-
-  
-
-Bà khịt mũi. Tôi không thể đoán được đó là sự chế giễu hay tôi đã gây được ấn tượng với bà. Tôi đánh bạo liếc nhìn Đại Thụ Hưởng và Thống Lĩnh. Cả hai đều đang hầm hầm giận dữ.
-
-  
-
-“Có bao nhiêu gam năng lượng ma thuật Endurium trong một lít sữa Emphon?” Dyl tiếp tục truy vấn.
-
-  
-
-Năng lượng ma thuật Endurium? Đó là thứ tinh chất ẩn trong thịt quái thú bò mộng Emphon giúp con người đánh thức ma thuật. Bọn họ thậm chí có thể đong đếm được cả thứ đó sao?
-
-  
-
-“Tôi không biết,” tôi thú nhận.
-
-  
-
-“Vậy còn trong mười kilôgam xương đùi của một con quái thú bò mộng Emphon?”
-
-  
-
-“Tôi... tôi không biết.”
-
-  
-
-Khi Đại Thụ Hưởng cùng Thống Lĩnh nở nụ cười đắc thắng, tôi cảm giác mạng sống của mình đang trượt dần khỏi tầm tay. Trước mắt tôi như hiện lên hình ảnh hai người mẹ giữa đám đông bên dưới giá treo cổ, họ khóc nức nở nhìn tôi lơ lửng trên thanh xà. Họ đã quay mặt đi trước khi tôi rơi xuống.
-
-  
-
-“Thế còn trong một kilôgam thịt thăn ngoại?”
-
-  
-
-Tôi nuốt nước bọt. “Tôi không biết.”
-
-  
-
-“Thấy chưa!” Thống Lĩnh Wensoan reo lên đầy hả hê. “Nó chẳng qua chỉ là một tên Thứ Phẩm ngu xuẩn.”
-
-  
-
-“Một câu hỏi cuối cùng,” Dyl tiếp tục.
-
-  
-
-Tôi vừa trả lời sai ba câu, sau khi đã đáp đúng ba câu, có lẽ là vậy. Giờ đây, tính mạng của tôi phụ thuộc hoàn toàn vào câu trả lời tiếp theo.
-
-  
-
-“Thực phẩm là gì?”
-
-  
-
-“Thực phẩm là gì ư?” Tôi ngây ngô lặp lại. Câu hỏi quá đỗi bao quát, nhưng câu trả lời lại thật hiển nhiên. Thực phẩm là bất cứ thứ gì người ta có thể nuốt vào bụng mà không bị trúng độc. Cỏ là thực phẩm. Xét về mặt lý thuyết, giấy cũng là thực phẩm. Điều đó không có nghĩa là chúng ngon lành hay đem lại chút dinh dưỡng nào, nhưng chúng vẫn là thực phẩm.
-
-  
-
-Thế nhưng, đó không phải câu trả lời họ đang tìm kiếm. Mọi chuyện sao có thể đơn giản như thế được?
-
-  
-
-“Thực phẩm là...” Tôi ngập ngừng kéo dài giọng để câu giờ. Ánh mắt tôi dừng lại nơi Đầu Bếp Ilantra. Viện trưởng là người nãy giờ đặt ra mọi câu hỏi, nhưng mỗi khi tôi hỏi lại một câu để làm rõ vấn đề, tất cả bọn họ đều quay sang bà chờ đợi. Phải chăng bà mới là người thực sự đứng sau những câu hỏi này? Nếu đây là bài sát hạch để tôi trở thành một Đầu Bếp, chắc chắn tiếng nói của bà có trọng lượng quyết định. Bà muốn nghe điều gì từ tôi?
-
-  
-
-Tôi vắt óc nhớ lại những gì mình biết về bà, song kết quả gần như là con số không tròn trĩnh. Ilantra là cái tên thuộc tầng lớp Thượng Phẩm, được đặt theo tên của loài ngò gai. Là một Đầu Bếp, hẳn bà rất am tường về hương vị. Thế nhưng bà lại ngồi ở vị trí thấp hơn tất cả những người còn lại. Phải chăng bà không có tiếng nói? Thật khó tin. Đầu Bếp chính là cội nguồn tạo nên quyền lực của Thượng Phẩm. Không có họ, bốn chiếc ghế quyền uy kia chẳng còn chút nghĩa lý gì.
-
-  
-
-Nhưng theo một khía cạnh nào đó, tầng lớp Thứ Phẩm cũng vậy... Bà muốn nắm giữ Đại công thức ma thuật đã biến tôi trở nên khổng lồ nhường này, nhưng không phải vì bà tin rằng nó sẽ mang lại quyền lực cho mình. Mà bởi vì... Đầu óc tôi chợt bừng sáng. Đó cũng chính là lý do tôi từng khao khát tạo ra một công thức như thế.
-
-  
-
-“Đó là sự gắn kết cộng đồng,” tôi cất lời. “Chúng ta sắp xếp thời gian biểu và những dịp lễ hội xoay quanh các bữa ăn, cùng quây quần bên bàn ăn, tạo dựng mối dây liên kết thông qua hương vị. Nếu không có điều đó, chúng ta chẳng khác nào loài cầm thú. Nhưng đó còn là... bản sắc. Ý tôi là, những gì tôi coi là món ngon và những gì quý vị coi là món ngon sẽ định hình nên con người chúng ta. Ngay cả khi bất đồng về khái niệm ngon dở, mọi người vẫn xích lại gần nhau quanh mâm cơm vì nó quan trọng, thiêng liêng, mang tính truyền thống hay bất cứ điều gì tương tự. Đó cũng chính là bản sắc. Tầng lớp Thượng Phẩm ăn những thứ mà Thứ Phẩm không bao giờ được chạm tới. Điều đó định hình nên mỗi chúng ta.”
-
-  
-
-*Câu trả lời của tôi ắt hẳn chẳng thể đoạt giải thưởng nào về sự khôn khéo hay tài hùng biện; nó chỉ là một mớ suy nghĩ dông dài, vụng về. Nhưng đó là sự thật trong lòng tôi, và nếu số phận định đoạt rằng tôi phải chết chỉ vì một câu hỏi duy nhất, tôi thà chọn nói ra sự thật ấy.*
-
-  
-
-“Ngươi có dám lấy tính mạng mình ra thề rằng ngươi không hề biết cha mình là ai không?” Viện trưởng Dyl gặng hỏi.
-
-  
-
-Thú thật, tôi chưa bao giờ để bản thân bận tâm về chuyện đó. Đôi khi, một góc nhỏ trong tâm trí lại thì thầm rằng có lẽ Má từng là đàn ông chuyển giới. Nhưng tôi trông giống hệt Mẹ và chẳng có nét nào giống Má cả. Vì vậy, tôi không cho phép mình nghĩ ngợi thêm. Tôi chọn trở thành hình mẫu mà hai người mong muốn ở tôi: đứa con của riêng họ, và chỉ của riêng họ mà thôi. Tôi chưa từng mở lời gặng hỏi.
-
-  
-
-“Tôi xin thề.”
-
-  
-
-“Dựa trên các tội danh trộm cắp, dị giáo và man khai, giờ đây chúng ta sẽ tiến hành bỏ phiếu,” Đầu Bếp cất lời. “Đại Thụ Hưởng...”
-
-  
-
-“Có tội!”
-
-  
-
-“Đồng ý,” Thống Lĩnh phụ họa. “Con gián này rõ ràng có tội.”
-
-  
-
-“Đã ghi nhận,” Đầu Bếp nói. “Viện trưởng?”
-
-  
-
-“Vô tội.”
-
-  
-
-Nhịp tim của tôi đập dồn dập. Vẫn còn một cơ hội.
-
-  
-
-“Hoppus?”
-
-  
-
-Không hề xao nhãng khỏi những phép tính của mình, vị thủ quỹ ngáp dài một tiếng. Khoảnh khắc ấy dường như kéo dài ra theo từng xăng-ti-mét của khuôn miệng há hốc. Dứt cơn ngáp, ông tự gật đầu với chính mình: “Vô tội.”
-
-  
-
-“Cái gì?” Đại Thụ Hưởng rít lên, nhưng trước khi bà ta kịp phản ứng, Đầu Bếp đã thản nhiên tuyên bố: “Với tỷ lệ ba phiếu thuận và hai phiếu chống, Hội đồng Phán quyết tuyên án Paprick Thứ Phẩm Số 3 vô tội, dựa trên cơ sở được tuyển nhận vào Học viện Ẩm thực Hoàng gia, có hiệu lực truy hồi kể từ thời điểm phát hiện ra Đại công thức ma thuật chưa đặt tên giúp tăng trưởng kích thước như quái thú Emphon.”
-
-  
-
-Tôi không thể tin vào tai mình. Dù trả lời sai ba câu hỏi, tôi vẫn giữ được mạng sống.
-
-  
-
-Tôi sắp trở thành một Đầu Bếp.
-
-  
-
-Hay chỉ là một trò học việc? Tôi cũng không rõ nữa. Tôi từng nghe nói về Học viện Ẩm thực Hoàng gia, nhưng nơi đó vốn dành cho những kẻ còn chưa biết nấu ăn. Còn tôi thì đã tự tay chế biến được cả một Đại công thức ma thuật rồi.
-
-  
-
-“Chẳng phải tôi nên được làm một Đầu Bếp luôn sao?”
-
-  
-
-Đầu Bếp Ilantra bật cười lớn đến mức sặc sụa: “Trời đất ơi, không đời nào đâu, nhóc con.”
-
-  
-
-Nhưng trước khi tôi kịp nghĩ thêm điều gì, Dyl đã mỉm cười lên tiếng: “Chúc mừng ngươi, Thượng Phẩm.”
-
-  
-
-*Đầu óc tôi hoàn toàn quay cuồng.*
-
-  
-
-*Thượng Phẩm ư?*
+
+
+  Bà chậm rãi đứng dậy khỏi ghế rồi bước tới đối diện với tôi. Toàn thân bà tỏa ra mùi bụi đường quyện cùng hương mật ong, từng cử động đều cẩn trọng hệt như một con rắn đang cuộn mình.
+
+
+
+  “Ngôn ngữ của các ngươi không có tên gọi cho thứ này đâu,” bà đáp, dùng đầu ngón tay nhón lấy một ít bột rồi đưa lên cho tôi ngửi kỹ. “Hầu hết các ngôn ngữ đều không có. Ngươi sẽ gọi bộ rễ của một thân cây cao đến mức khiến những khu nhà tập thể của các ngươi trở nên bé nhỏ là gì? Một thân cây với những chiếc lá vươn chạm tới mặt trăng khi nở hoa dưới ánh trăng rằm?”
+
+
+
+  Cơn giận trong tôi tan biến. Dù đã quần quật làm việc suốt cả ngày dài, đã vắt chân lên cổ chạy hàng cây số, đã tận mắt chứng kiến quê hương mình bị tàn phá và cảm nhận cái chết của đồng bào mình, ấy vậy mà lúc này, tôi lại tràn trề sinh lực chỉ để được nếm thử hương vị ấy. Tôi đưa tay với lấy chiếc túi.
+
+
+
+  Ruda gạt phắt tay tôi ra: “Không, không được.”
+
+
+
+  “Bao nhiêu tiền?” Tôi rút túi đựng những đồng vàng knuckle ra.
+
+
+
+  “Thứ này không bán.”
+
+
+
+  “Vậy thì sao bà lại bày nó ra?” Tôi bực bội gắt lên. “Bà nán lại đây làm gì nếu không phải để bán hàng?”
+
+
+
+  Dù đã quá thuần thục vẻ bí ẩn của một thương buôn, bà vẫn giật mình trước cơn bộc phát của tôi. Nhưng rồi bà nhanh chóng lấy lại vẻ tự chủ, ánh mắt chuyển sang hằn học. Tất cả diễn ra ngay khoảnh khắc tôi chới với đưa tay về phía chiếc túi.
+
+
+
+  “*Paprick!*” Lão Banan khóa chặt cổ tay tôi rồi giật mạnh, ép tôi phải quay lại nhìn ông. “Ở đây chúng ta không hành xử kiểu đó.”
+
+
+
+  Crooked Rish chau mày ở phía sau. Liệu họ có quay lại để kiểm tra tôi không? Tôi cảm thấy như bị phản bội và quở trách, như thể cả thế giới đang chống lại mình. Tôi giật tay ra khỏi cái nắm của Lão Banan như một đứa trẻ bị bắt quả tang đang thò tay vào lọ ăn trộm bánh quy.
+
+
+
+  “Cháu bị cái quái gì thế hả?” Ông gặng hỏi. “Con trai của Sesa không được phép hành xử như vậy.”
+
+
+
+  Tôi không cố ý xô ông mạnh đến thế, nhưng lời của ông đã châm ngòi cho một ngọn lửa bùng lên bên trong tôi: “Cũng chẳng có người Thứ Phẩm nào nên giương mắt nhìn một người Thứ Phẩm khác ngã xuống cả. Nhưng chúng ta vẫn đang trơ mắt ra đấy thôi, ông già.”
+
+
+
+  Lão Banan há hốc mồm kinh ngạc. Tôi chưa bao giờ nói chuyện với ông bằng giọng điệu ấy. Khốn khiếp, tôi chỉ nhớ nổi một người duy nhất từng ăn nói với Lão Banan như thế, và người đó là người trong nhà. Nhưng tôi chẳng bận tâm nữa. Tôi quay phắt lại phía Ruda: “Tôi muốn thứ...”
+
+
+
+  Mảng tường gạch đổ sập xuống cùng một tiếng răng rắc dữ dội. Mọi thứ phía sau Ruda bị xé toạc khi Bessa đâm sầm qua một bên vách tòa nhà. Hàng hóa của bốn gian hàng đổ ập xuống mép vực vừa toác ra, cả sàn nhà nghiêng hẳn đi như một cây cầu bị đứt một bên mố. Ruda, chú Rish và Lão Banan ngã nhào xuống đất, đồ đạc trong hàng tá thùng gia vị đổ tung tóe khắp nơi. Thế nhưng tôi vẫn đứng vững nhờ đã quen giữ thăng bằng trên những giàn giáo đung đưa chông chênh.
+
+
+
+  Những tia nắng chiều tà muộn màng rọi qua đống đổ nát cùng một cơn gió thốc bụi gia vị tạt rát mặt tôi. Bên ngoài, trận chiến vẫn đang tiếp diễn ác liệt. Các chiến sĩ phiến quân vung những món vũ khí khổng lồ nhờ vào Sức bền ma thuật của mình, trong khi những người khác phóng sét, ném lửa, hoặc lướt đi với tốc độ khôn lường. Lính Mổ Xẻ chống trả bằng thứ sức mạnh quái dị của riêng chúng. Một ả đàn bà nhấc bổng cả cỗ xe ngựa ném thẳng vào quân phiến loạn. Kẻ khác chỉ việc giơ tay ra, điều khiển ngọn gió hất văng một chiến sĩ vào đống lửa trại. Bessa lồng lộn giữa mớ hỗn độn ấy, không một ai cản nổi.
+
+
+
+  Chẳng cần đắn đo, tôi chộp lấy chiếc túi từ gian hàng đổ nát của Ruda rồi trút vào lòng bàn tay một lượng nhiều hơn một nhúm nhưng chưa đầy một thìa cà phê. Bà lồm cồm bò dậy nhưng đã quá muộn. Trải qua bao phen đào tẩu và cưỡi thú, leo trèo lẫn hỗn loạn, tôi chỉ đánh mất một trong ba dẻ sườn của Bessa mà mình lấy được. Tôi chà xát thứ gia vị màu đỏ đất không tên ấy vào hai dẻ sườn còn lại.
+
+
+
+  Một tay Ruda giằng lấy túi gia vị cùng túi đồng vàng knuckle của tôi, tay kia giáng một cái tát trời giáng vào mặt tôi. Tôi lảo đảo lùi lại.
+
+
+
+  “Gian hàng của bà kìa!” Chú Rish hét lên khi rướn người trên chiếc xe lăn.
+
+
+
+  Bà quay lại đúng lúc một cây nến đổ làm bén lửa vào một chiếc thùng gỗ. Quên bẵng mất tôi, bà vơ lấy một tấm biểu ngữ để dập lửa. Lão Banan và chú Rish cũng xúm vào giúp bà, bỏ mặc tôi đứng trơ trọi với những dẻ sườn trên tay.
+
+
+
+  Hàng tá đám cháy nhỏ bùng lên từ những tàn tích của khu chợ khi có thêm nhiều cây nến bị đổ. Khói đặc tràn ngập Chợ Gia Vị Hắc Ám, mang theo mùi gỗ táo và tro tàn. Mùi khét lẹt đặc trưng tựa như lớp váng khói bám trên chảo gang, một thứ hương vị độc nhất không gì sánh nổi. Miệng tôi ứa nước miếng, tâm trí vẫn vương vấn thứ phong vị xa lạ của loại gia vị không tên kia.
+
+
+
+  Mùi gỗ táo đánh thức một ký ức trong tôi: Chú Macen đang nướng bánh taco nấm trên đốm lửa củi táo. Lớp bột gia vị mơn trớn nơi đầu lưỡi: ớt, hành, tỏi. Sắc đỏ rực của bột ớt paprika. Sự gia cường ma thuật từ muối và tiêu. Vị chua thanh kích thích của chanh. Và rồi cả thì là nữa, làm đậm đà thêm phong vị nồng ấm của đất. Tôi ngỡ như mình có thể ngửi thấy mùi những chiếc bánh taco ấy phảng phất trong không gian. Miếng thịt như reo ca trên đầu ngón tay tôi, phập phồng theo từng nhịp tim đập mạnh mẽ của Bessa, khát khao thứ phong vị ấy.
+
+
+
+  Tôi va phải một thùng ớt bột paprika. Vừa bốc từng nhúm gia vị từ thùng này sang thùng khác, tôi vừa nhào trộn chúng thành một hỗn hợp gia vị ướp khô ngay trong lòng bàn tay. Cuối cùng, tôi tiến đến thùng thì là, nhớ lại công thức gia giảm của Chú Macen, nhưng khi ngửi thấy mùi của nó bên cạnh thứ bột không tên kia, tôi không tài nào chịu nổi ý nghĩ phải trộn hai thứ này lại với nhau.
+
+
+
+  Tôi chuyển sang muối, và hỗn hợp ướp trên tay lập tức tỏa ra mùi hương gợi nhắc đến chất giọng trầm ấm, nồng hậu của chú, cùng nụ cười của đứa em họ thuở còn ẵm ngửa. Tôi với tay về phía chiếc thùng cuối cùng: bánh ngô tortilla. Thế nhưng một cây cột nứt toác ra, rồi sàn nhà đổ sụp xuống ngay dưới chân tôi.
+
+
+
+  Tôi rụt rè nếm thử một mẩu thịt sườn. Tạ ơn trời đất vì tôi đã không cho thì là vào. Bánh taco nấm cần vị nồng ấm của đất từ nấm để tạo độ cân bằng, nhưng quái thú bò mộng Emphon lại không có tầng hương nền đó. Thịt của nó đòi hỏi một thứ gì đó đậm đà hơn. Loại gia vị mới này cũng mang phong vị nồng ấm của đất như thì là, nhưng lại sâu lắng hơn và độc đáo theo cách riêng. Vị ngon lan tỏa khắp đầu lưỡi, gần như đã đạt tới độ hoàn hảo. Lồng ngực tôi phập phồng trong nỗi mong chờ khôn xiết. Vẫn còn thiếu một thứ nữa.
+
+
+
+  Một chút nước cốt chanh tươi mát.
+
+
+
+  Chú Rish cố gắng lôi tôi ra ngoài. Lửa bốc lên hừng hực quanh chúng tôi, đến cả những mảng bê tông cũng bắt đầu loang lổ vết muội than. “Phổi của cháu không chịu nổi thêm nữa đâu, Pappy!” Ông nài nỉ, nhưng những lời ấy chỉ lướt qua tâm trí tôi như bột lọt qua rây. Ông cùng Lão Banan và Ruda nán lại thêm chốc lát, trước khi Lão Banan ho sặc sụa đến mức suýt ngã quỵ.
+
+
+
+  Ruda rít lên một tiếng nguyền rủa: “Tôi không ở lại đây để chết chùm với hắn đâu!”
+
+
+
+  “Bảo trọng nhé, Pappy,” chú Rish nói rồi quay lưng bước đi. Tôi gần như chẳng còn nghe thấy tiếng ông nữa.
+
+
+
+  *Những phong vị lởn vởn trong tâm trí tôi như men bia rẻ tiền, chuốc say mọi giác quan và thì thầm lời hứa hẹn về một nguồn sức mạnh vô song.* Trong cơn mê muội mông lung, tôi tìm thấy một quả chanh dập đã vắt dở, rồi bóp nốt những giọt nước cốt còn sót lại lên miếng thịt. Vài hạt gia vị bị dòng nước chanh cuốn trôi, nhưng cảm giác cận kề thắng lợi vẫn vẹn nguyên trong tôi. Cảm giác ấy giống hệt như khoảnh khắc mùi bánh mì nướng cùng hương súp nóng hổi quyện hòa vào nhau trong gió. Tôi đã ở rất gần đích đến rồi.
+
+
+
+  Tôi chỉ cần nướng chín nó nữa thôi.
+
+
+
+  Những ngọn lửa trần nhảy múa tứ phía quanh tôi, nhưng tôi cần tìm cách kiểm soát mức độ tiếp xúc với lửa của cả miếng thịt lẫn bản thân mình. Trước đó, tôi đã tuột nửa trên của bộ đồ da thợ mổ xuống để dễ bề chạy qua đây, để chúng lòng thòng như chiếc quần yếm, nhưng giờ tôi kéo áo lên lại, che kín hai cánh tay ướt đẫm mồ hôi.
+
+
+
+  Gian hàng của Lão Banan có tên Ngọn Thương và Bạc Hà vẫn còn tương đối nguyên vẹn ở gần lối ra vào, dẫu một vòng lửa đang bủa vây lấy nó. Được lớp áo da thợ mổ che chở, tôi lao mình qua biển lửa, bình an vô sự ngoại trừ làn khói cay xè xộc thẳng vào lồng ngực. Những chiếc que xiên nằm la liệt, cháy âm ỉ dưới mặt đất, nhưng tất cả đều quá ngắn. Cầm vào chúng lúc này đồng nghĩa với việc đôi găng tay sẽ bén lửa bùng cháy.
+
+
+
+  Đáng lẽ tôi phải ngăn chặn cơn điên loạn đó lại. Thế nhưng cứ chốc chốc, Bessa lại gầm lên. Đã bao lâu trôi qua rồi nhỉ, một tiếng, hay lâu hơn thế, kể từ khi nó xổng chuồng? Làm sao người ta có thể để mặc nó lồng lộn điên cuồng như thế chứ? Phải có ai đó quây bắt nó lại. Sao người đó không thể là tôi? Điều đó ngỡ như bất khả thi, nhưng trong tay tôi lúc này là thịt của quái thú bò mộng Emphon, đồng nghĩa với Sức bền ma thuật và quyền năng tột bậc. Có lẽ chừng ấy là đủ để tôi tìm cách quật ngã nó xuống đất, ngăn không cho nó làm tổn thương chính mình hay bất kỳ ai khác.
+
+
+
+  Tôi xiên cả hai miếng thịt sườn quái thú bò mộng Emphon đã tẩm ướp vào que, rồi tìm thấy một chiếc thùng đang bùng cháy thành cột lửa rực sáng. Mùi hương bốc lên từ ngọn lửa tựa như thỏi nam châm hút chặt lấy tôi.
+
+
+
+  Đôi tay nôn nóng đưa xiên thịt quái thú bò mộng Emphon vào ngọn lửa. Tôi suýt ngất lịm đi trước tiếng xèo xèo lách tách của miếng thịt bắt đầu xém cạnh. Một luồng gió xoáy cuộn quanh tôi, thổi bạt làn khói đen đi và để lại hương thơm ngào ngạt đến nghẹt thở. Đầu gối tôi mềm nhũn. Miệng tôi ứa đầy nước miếng. Và đôi bàn tay tôi bắt đầu bốc cháy.
+
+
+
+  Lớp da thuộc tan chảy, co quắt lại rồi bám chặt vào lòng bàn tay tôi chỉ sau một phút đầu tiên. Những vết phồng rộp nứt toác trên các ngón tay, khiến hai bàn tay tôi run rẩy dữ dội vượt quá ngưỡng chịu đựng. Đáng lẽ mùi của xiên thịt phải bị lấn át bởi mùi găng tay cháy thành tro và mùi da thịt khét lẹt, nhưng hương thơm tỏa ra lại tươi mát tựa làn hương chanh vương vấn trong không khí, say đắm lòng người như thứ rượu vang hảo hạng nhất.
+
+
+
+  Tôi không nướng lâu. Chỉ ba phút, hoặc có lẽ là bốn phút. Tôi thậm chí còn chẳng nhớ nổi mình có xoay trở xiên thịt hay không.
+
+
+
+  Cơn đau đớn tột cùng khiến tôi nửa mê nửa tỉnh. Tôi rụt tay lại để nhìn phần thịt đang run rẩy cùng lớp da cháy đen. Thế nhưng, trong tôi không hề có chút sợ hãi. *Tôi biết rõ miếng thịt này sẽ cứu rỗi mình.*
+
+
+
+  Tôi từng trông đợi một sự bùng nổ hương vị dữ dội, nhưng thay vào đó lại là một khúc ca opera tinh tế bằng thứ ngôn ngữ tôi chưa từng được biết. Từng nụ vị giác như biến thành sàn diễn cho vũ điệu ba lê của hương cam chanh và vị chua thanh khiết. Vị cay nồng không hề cắn xé hay khiến người ta rơi lệ, nó chỉ râm ran trên môi tôi như tiếng ong rỉ rả. Vị béo ngậy cùng sắc thái mằn mặn ngòn ngọt phủ kín cuống lưỡi khi làn nước thịt ứa ra ngập tràn dưới chân răng. Một dư vị sâu lắng đọng lại khi tôi nuốt xuống: làn khói mờ ảo của một thành phố đổ nát, đang cất lời vĩnh biệt sau cùng.
+
+
+
+  Sức bền ma thuật va mạnh vào hai lá phổi, làm vỡ tung các mạch máu trong mắt tôi. Cơn đau nơi bàn tay biến thành một cơn rung chấn dữ dội rồi chuyển hóa thành sức mạnh cuồn cuộn của những thớ cơ đang tái sinh. Nỗi sợ hãi, niềm đau buồn cùng sự âu lo đều tan biến sạch trơn khỏi tâm trí, chỉ để lại trong tôi một thôi thúc duy nhất: ăn.
+
+
+
+  *Nó mãnh liệt gấp ngàn lần món súp. Tôi cảm thấy bản thân trở nên bất biến, bất tử và không gì có thể đánh bại.* Trong khi đó, tôi còn chưa kịp ăn đến miếng thứ hai.
+
+
+
+  Tôi giật phắt miếng thịt khỏi que xiên một cách dữ dội. Ngay khoảnh khắc nuốt trọn, đôi chân đã đưa tôi lao qua biển lửa, tiến thẳng ra rìa của tòa nhà đã bị xé toạc.
+
+
+
+  Trận chiến tại Cánh Đồng Cỏ Cao vẫn tiếp diễn khốc liệt. Quân phiến loạn và Lính Mổ Xẻ giao tranh dữ dội. Bessa lồng lộn tàn phá. Lửa đỏ ngút trời khắp muôn nơi.
+
+
+
+  Một cơn quặn thắt tựa nỗi đói cào xé ruột gan bất thần giáng thẳng vào bụng, quật ngã tôi quỳ rạp xuống bằng cả hai tay hai chân. Cơn đau đớn chưa từng trải qua trong đời bùng cháy dữ dội trong từng khúc xương. Ý thức tỉnh táo còn sót lại dán chặt vào ngọn lửa đang gầm thét trong cơ thể, trong tận tủy xương, và tôi không thể tưởng tượng nổi một cái chết nào tồi tệ hơn thế. Người ta đồn rằng nuốt phải thịt Emphon kém chất lượng có thể mất mạng. Nhưng tôi dám chắc mình không hề làm điều đó. Hương vị ban nãy rõ ràng là tuyệt mỹ khôn cùng.
+
+
+
+  Tòa nhà rung chuyển dữ dội bên dưới thân mình, và tôi trượt khỏi mép tường.
+
+
+
+  *Rơi tự do.*
+
+
+
+  Tôi nhắm nghiền mắt lại, tự rủa xả bản thân vì phải bỏ mạng vì một con số không vô nghĩa.
+
+
+
+  Thế nhưng, quãng đường rơi dường như ngắn hơn một nửa so với thực tế.
+
+
+
+  Tôi tiếp đất trong tư thế khum người, nhận ra một sức nặng khủng khiếp đang đè chặt lên hai chân mình, nhưng đồng thời cơ thể cũng được tiếp thêm một nguồn sức mạnh chưa từng cảm nhận trước đây. Đầu óc tôi quay mòng mòng khi mở mắt ra, đối mặt với một tầm nhìn hoàn toàn phi lý.
+
+
+
+  Tôi đã đáp xuống giữa một hố sâu hoắm. Hai bàn tay tôi chống giữa hai chân, đặt lên trên tàn tích bẹp dúm của một chiếc xe ngựa. Tôi nhấc bổng nó lên bằng một tay, sững sờ khi đứng thẳng dậy theo bản năng. Cỗ xe giờ đây chẳng khác nào một món đồ chơi nằm gọn trong lòng bàn tay tôi.
+
+
+
+  Khi tôi vươn thẳng người, bờ vai tôi đã ngang hàng với nóc của tòa nhà chung cư.
+
+
+
+  *Tôi đã cao tới hai mươi mét.*
+
+
+
+  **Món chuyển vị I
+Sự hoài nghi**
+
+
+
+  “Anh tưởng tôi là kẻ ngốc chắc?” Lưu Trữ Viên ngắt lời.
+
+
+
+  “Cô từng tận mắt thấy tôi trong trạng thái đó rồi mà,” tôi đáp, khẽ nghiêng đầu sang một bên.
+
+
+
+  “Sự hoài nghi của tôi không nằm ở chiều cao của anh. Tôi phản đối trình tự của các sự kiện, phản đối những sự trùng hợp ngẫu nhiên và mớ cảm xúc quá đỗi thuận tiện đã đưa anh tới cái gọi là phát hiện của mình. Chẳng lẽ tôi phải nhắm mắt làm ngơ trước việc anh không hề mảy may nghĩ đến hai người mẹ giữa toàn bộ mớ hỗn loạn đó sao? Má Asabi hẳn chỉ cách Xưởng của Nhà Vua có ba dãy nhà khi Bessa xổng chuồng. Anh không hề nghĩ đến bà ấy? Không lao ngay về Khu Thứ Phẩm Số 3 để xem hai người họ có an toàn hay không?”
+
+
+
+  Một tia giận dữ bùng lên, truyền thêm Sức bền ma thuật vào đôi mắt tôi, khiến chúng rực sáng trong bóng tối mịt mùng của phòng giam. “Nhịn đói đi, đồ châu chấu. Có thể tôi không muốn nhắc tới các mẹ của mình. Tôi không có nghĩa vụ phải giải thích nỗi đau của bản thân cho cô.”
+
+
+
+  “Được thôi, nhưng câu chuyện của anh lại bỏ qua việc tìm kiếm tàn tích, và cũng chẳng hề có hồ sơ nào ghi chép về việc Chú Macen Khu Thứ Phẩm Số 1 qua đời vào ngày hôm đó hay bất kỳ ngày nào sau đó. Hết điểm bất hợp lý này lại đến điểm bất hợp lý khác!”
+
+
+
+  “Chính cô là người đã đòi nghe câu chuyện này. Và chính cô cũng đã đem cả mạng sống của mình ra đặt cược vào tính chân thực của nó.”
+
+
+
+  “Và tôi phản đối những lời dối trá trắng trợn này!” Nữ Lưu Trữ Viên phải hét lên để át đi một tiếng nổ lớn vừa làm rung chuyển các ô cửa sổ bọc sắt. “Tôi sẽ không để bản thân bị lôi lên tận xà nhà chỉ để làm bàn đạp cho huyền thoại của anh đâu. Tôi muốn *sự thật*. Cội Nguồn đã truyền dạy Đại công thức ma thuật cho anh như thế nào?”
+
+
+
+  Tôi ngước đôi mắt vàng óng lên nhìn cô cùng một nụ cười: “Cô nghĩ mọi chuyện diễn ra như thế sao?”
+
+
+
+  “Anh muốn tôi tin rằng chỉ bằng cảm xúc và hương vị, đúng vào thời khắc then chốt đó, anh đã tự mình khám phá ra một Đại công thức mà hoàn toàn phớt lờ những tiếng thì thầm ư? Có phải Cội Nguồn đã trò chuyện với anh bằng cách nào đó, đúng không?”
+
+
+
+  Chậm rãi, tôi gượng người rời khỏi bức tường, bước lại gần những chấn song sắt đang ngăn cách mình với người viết tiểu sử. “Nói tiếp đi, rõ ràng cô đã dựng sẵn một giả thuyết cho mình rồi.”
+
+
+
+  “Tôi xin trích lại nguyên văn: ‘Các hương vị cuộn trào qua tâm trí tôi như thứ bia rẻ tiền, làm tê liệt mọi giác quan, thì thầm một lời hứa hẹn về sức mạnh.’” Nữ Lưu Trữ Viên gõ mạnh những đầu ngón tay lên từng trang sách.
+
+
+
+  “Chẳng có từ nào nhắc đến Cội Nguồn cả.” Nụ cười của tôi càng mở rộng hơn. “Đó hoàn toàn là bản năng.”
+
+
+
+  “Ai đã trao cho anh Đại công thức? Rish? Hay Ruda?”
+
+
+
+  Ánh mắt tôi lóe lên sự ghê tởm: “Cô ta nằm mơ đi.”
+
+
+
+  “Vậy thì là Mẹ anh? Chú Macen từng làm món bánh taco nấm. Liệu bí thuật này cũng được kế thừa từ gia đình họ sao?”
+
+
+
+  “Khó tin đến thế sao khi chính tôi là người đã sáng tạo ra nó? Tôi cứ ngỡ đó là điều duy nhất mà cô cùng đồng loại của cô thực sự công nhận ở tôi chứ.”
+
+
+
+  “Anh đi quá trớn rồi đấy, Đồ Tể.”
+
+
+
+  “Còn cô thì đang thêu dệt quá đà. Tôi đã bảo với cô rằng đây là câu chuyện của tôi, chứ không phải cuốn sách chứa toàn những lời cuồng tín nhảm nhí của cô. Nếu cô thực sự muốn có câu trả lời, cô nên thử tập trung lắng nghe xem sao. Xưa nay cô vốn rất giỏi việc đó mà.”
+
+
+
+  Trừng mắt nhìn tôi trước lời mỉa mai ấy, Nữ Lưu Trữ Viên nhấc cây bút lên. “Có thể anh vẫn còn nhớ, tôi cũng từng hiện diện trong một vài sự kiện sắp tới. Lịch sử sẽ không phải là công cụ duy nhất mà tôi có để vạch trần những lời dối trá của anh đâu. Trải nghiệm thực tế cũng có cái lợi của nó.”
+
+
+
+  *Và cả những lời nguyền của nó nữa.*
+
+
+
+  Tôi mỉm cười. “Khi ấy tôi cao tới hai mươi mét cơ đấy.”

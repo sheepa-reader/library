@@ -1,317 +1,331 @@
-# 37 Học trò cưng của ban giảng huấn
+# 32 Hậu quả
 
-*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
+Rên rỉ trong cơn đau nhức, tôi lật người nằm nghiêng, ý thức mơ màng. Hệt như đang nhìn qua làn nước đục ngầu của dòng sông Ranch, tôi thấy Yenne tung vài đòn tấn công về phía Vyson trước khi hắn kịp chộp lấy cổ tay cô, xoay ngược lưỡi kiếm và đâm thẳng vào vai cô. Cô ngã ngửa ra sau cùng một tiếng thét thất thanh. Dù lòng cuồn cuộn cơn giận dữ, tôi vẫn không làm cách nào đứng dậy nổi để ngăn hắn bước qua cánh cửa.
 
-Đầu Bếp Sagen là lựa chọn khả dĩ nhất của tôi trong số ba giảng viên. Thầy ấy có thiện cảm với tôi; điểm tuyệt đối tôi đạt được trong kỳ thi tốt nghiệp môn Lý thuyết Hương vị càng khiến tôi thêm tự tin về điều đó. Dyl đã lên tiếng bênh vực tôi tại Hội đồng Phán quyết, nhưng tôi không nghĩ họ sẽ sẵn lòng bàn luận những bí mật quốc gia với tôi ngay ngày đầu tiên. Còn Chikor thì chẳng ham hố gì việc cưng chiều sinh viên, hệt như việc tôi chẳng đời nào muốn nuốt thêm một bát hải sản, nên tôi đành coi ông ta là phương án cuối cùng. Đúng hơn là phương án cuối cùng sau khi tôi đã nhờ Yenne thuyết phục Dyl giúp mình. Thế nhưng tôi cũng chưa biết phải mở lời với Đầu Bếp Sagen ra sao.
+
+
+  Đến khi tôi lê được cơ thể đứng vững trên đôi chân, Yenne đã xé những dải vải từ vạt váy ép chặt vào vết thương ở vai trái. Lưỡi dao vẫn găm sâu vào vết thương, đôi mắt cô chớp liên hồi khi dòng máu tươi trào ra thấm đẫm vạt áo. Cô chẳng còn mấy sinh khí để chống chọi, mà tôi thì không thể bỏ mặc cô ở lại để đuổi theo Vyson.
 
-  
+
+
+  Theo bản năng, tay tôi chồm tới định rút lưỡi dao ra, nhưng bản năng huấn luyện của một thợ đồ tể đã lập tức ngăn tôi lại. Nếu rút ra lúc này, sẽ chẳng còn thứ gì ngăn nổi dòng máu đang trào xối xả. Tôi tiếp tục ấn chặt vết thương, bàng hoàng nhận ra máu đã chảy đầm đìa xuống tận cánh tay cô.
 
-Tôi vẫn duy trì nhịp sinh hoạt quen thuộc những ngày đến trường: tận hưởng hương tinh dầu cam bergamot thoang thoảng trong tách trà Bá tước, và nhâm nhi món mới từ nhà ăn vào buổi sáng đầu tiên, chiếc bánh ngọt Semoli có tên là cornetto. Tôi ăn trưa cùng Laven một hoặc hai lần mỗi tuần, rồi sau giờ học lại miệt mài luyện tập với thanh đao cưa đồ tể. Trước đây, rời buổi tập là tôi sẽ đến thẳng Tòa nhà Học viện. Giờ thì tôi chẳng biết phải lấp đầy buổi tối của mình bằng cách nào nữa. Có lẽ tôi sẽ thử tìm Winta xem dạo này chị ấy ra sao. Có lẽ tôi sẽ ghé thăm các mẹ, nếu có thể lén ra ngoài. Còn những buổi hẹn hò với Cori thì thế nào? Tôi không rõ. Nhưng tôi đang cố không nghĩ quá nhiều về chuyện đó. Một Tòa nhà Học viện vắng bóng Đầu Bếp Ilantra... tôi không muốn để mình chìm đắm trong nỗi trống trải ấy.
+
+
+  Chúng tôi chẳng còn nhiều thời gian.
 
-  
+
+
+  “Cô còn viên sữa Emphon cô đặc nào không?”
 
-Yenne xuất hiện bên cạnh khi tôi đang bước lên cầu thang chính để đến lớp Công thức Nấu ăn Cải tiến. “Trông anh có vẻ khỏe khoắn đến ngạc nhiên đấy, xét đến việc lần trước tôi thấy anh giận dữ đến mức nào.”
+
+
+  Rên lên một tiếng đau đớn, cô luồn tay vào nếp váy rồi rút ra hai viên thuốc.
 
-  
+
+
+  Tôi nuốt chửng một viên rồi đưa viên còn lại cho cô, nhưng cô lắc đầu:
 
-“Tôi cũng rất vui khi gặp lại cô,” tôi đáp. “Tất cả là nhờ Laven, cậu ấy đúng là một thiên tài.”
+
+
+  “Tôi không thể tự hồi phục khi lưỡi dao vẫn còn cắm trong người.”
 
-  
+
+
+  “Một, hai...”
 
-“Cậu ta tìm ra thứ gì đó rồi,” cô nói, giọng điệu sắc bén không mảy may nghi vấn. “Là gì thế?”
+
+
+  Tôi giật phăng lưỡi dao ra trước khi kịp đếm đến ba, đoán trước cơ thể cô sẽ gồng cứng lên nếu biết chính xác thời điểm. Lưỡi dao rút ra kéo theo một tia máu bắn lên mặt tôi. Tiếng thét đau đớn của Yenne tưởng chừng xé toạc không gian. Nhưng cô cắn chặt răng nén đau rồi nuốt chửng viên thuốc.
 
-  
+
+
+  Khi tình trạng của cô đã tạm ổn định và viên thuốc bắt đầu phát huy tác dụng, tôi lao phắt đến chỗ Đầu Bếp Ilantra.
 
-“Để sau giờ học,” tôi thì thầm. Học viện đã thay đổi hoàn toàn kể từ sau cái chết của Vyson. Những kẻ tầm ba mươi, bốn mươi tuổi đội lốt sinh viên đứng tựa lưng vào tường hoặc sải bước trên bậc thang quanh chúng tôi. Bọn chúng có thể không mang theo những ngọn thương hai ngạnh quen thuộc, nhưng một kẻ thuộc tầng lớp Thứ Phẩm như tôi chỉ cần liếc qua là nhận ra ngay một tên Lính Mổ Xẻ đang lẩn khuất giữa đám đông. Tôi không rõ chúng đang điều tra hay bám đuôi mình, nhưng chắc chắn chúng sẽ không để lọt bất kỳ lời nào tôi nói. Học viện đang dần trở thành tâm điểm cho mọi hoạt động của Thợ Săn Mặt Nạ. Nhà vua có thể là kẻ giật dây phía sau, nhưng chính những kẻ cuồng tín này mới là đối tượng đang trực tiếp hành động ngay tại nơi đây.
+
+
+  *“Bà ấy không còn mạch đập nữa!”*
 
-  
+
+
+  Tôi hét lên khi đưa tay kiểm tra động mạch cổ của Đầu Bếp Ilantra. *Tại sao lúc nãy tôi lại uống viên thuốc đó cơ chứ? Đáng lẽ tôi phải nhìn thấy họ sớm hơn. Lẽ ra tôi nên để dành nó cho bọn họ.*
 
-Lên tầng tiếp theo, chúng tôi nhập hội cùng Laven. Tôi và cậu ấy học chung tất cả các môn, thậm chí còn chung cả phòng tự học, và cả hai đều rất mong đợi những tiết học cùng nhau. Cậu ấy cần tôi hỗ trợ trong lớp của Đầu Bếp Sagen, còn tôi lại cần cậu ấy giúp đỡ trong lớp của Đầu Bếp Chikor. Thế nhưng thứ tôi không cần, và cũng chẳng hề lường trước, chính là “kẻ thù tồi tệ nhất” mới xuất hiện của cậu: một gã hộ vệ tên là Aniss.
+
+
+  Yenne vội vã lết đến sau lưng tôi, hơi thở vẫn còn dồn dập:
 
-  
+
+
+  “Hộp sọ của bà ấy đã bị lấy mất rồi, Paprick. Bà ấy đi thật rồi.”
 
-Aniss cao ngang tôi nhưng bề ngang thì gấp đôi. Gã đội chiếc mũ sụp vành tối màu che khuất đôi mắt, khoác bộ âu phục sẫm màu hơn, sau lưng vắt một cây thương chiến trận còn tay thì lúc nào cũng lăm lăm chiếc nỏ. Đầu gã đảo liên hồi như chong chóng, và vóc dáng hộ pháp ấy sừng sững như một bức tường thành kiên cố. Bất chấp cầu thang rộng thênh thang, tôi vẫn cảm thấy ngột ngạt dù chỉ đứng cách gã chừng một mét.
+
+
+  Nước mắt trào dâng nhòe mi, tôi lê bước đến bên Laven. Tôi thậm chí không dám áp tay lên cổ cậu. Tôi không chịu nổi ý nghĩ rằng nơi đó cũng sẽ lạnh ngắt và bất động như vậy.
 
-  
+
+
+  Yenne chộp lấy cổ tay cậu ấy:
 
-“Đây là cái bóng mới của tôi đấy,” Laven giới thiệu vẻ bất đắc dĩ. “Hắn phải bám theo tôi đến mọi nơi. Nghe tuyệt cú mèo chứ?”
+
+
+  “Mạch rất yếu, nhưng cậu ấy vẫn còn sống. Chúng ta phải nhanh lên trước khi có kẻ khác xuất hiện.”
 
-  
+
+
+  Cô đoán chỉ còn hai hoặc ba người thuộc tầng lớp Thứ Phẩm còn sống sót, nhưng tôi không thể bỏ mặc Laven. Hơi thở cậu nông đứt quãng như đang chìm vào giấc ngủ. Dù đôi bàn tay bị đâm thủng rách tươm, trông cậu vẫn bình yên đến lạ.
 
-*“Kể cả vào lớp học sao?”* Tôi hỏi.
+
+
+  “Tỉnh lại đi! Tỉnh lại đi nào!” Tôi cuống quýt giục giã, vỗ nhẹ vào mặt cậu, nhưng mọi thứ đều vô vọng.
 
-  
+
+
+  Tôi không thể gọi lũ Lính Mổ Xẻ, tuyệt đối không thể nếu một tên trung úy đã nhúng tay vào toàn bộ chuyện này. Làm sao tôi biết được liệu đó có phải là âm mưu của toàn bộ lực lượng quân đội hay không? Nhưng tôi cũng chẳng thể bỏ rơi Laven, nhất là khi viện binh đối phương rất có thể đang kéo đến. Thế là tôi gỡ cậu ra khỏi chiếc móc treo rồi vác cậu lên vai cùng một tiếng rên nặng nhọc. Tên Thượng Phẩm khốn kiếp này chắc chưa từng phải nhịn đói bữa nào trong đời. Tấm lưng tôi run lên lẩy bẩy dưới sức nặng ấy.
 
-“Kể cả vào nhà vệ sinh,” Laven xác nhận. “Cha tôi không muốn tôi lại biến mất thêm lần nào nữa.”
+
+
+  Tôi định kéo một người phụ nữ Thứ Phẩm khỏi chiếc móc treo của cô ấy, nhưng suýt chút nữa đã làm rơi Laven.
 
-  
+
+
+  “Chúng ta không có thời gian cho họ đâu!” Yenne lên tiếng. “Chúng ta không thể cứu thêm ai được nữa.”
 
-Tôi nhăn mặt ái ngại thay cho cậu bạn, thừa hiểu chuyện này bắt nguồn từ ngày sinh nhật của mình, nhưng phần nhiều là vì tôi đang thầm rủa sả thần linh của mọi tôn giáo. Tôi vốn trông cậy vào Laven để giúp mình trong nhiệm vụ tìm kiếm bột rễ trời. Sự hiện diện của Aniss coi như đã gạt phăng cậu ấy ra khỏi kế hoạch.
+
+
+  Tôi định lên tiếng phản đối, nhưng từ bên ngoài căn phòng bỗng vang lên một tiếng động khiến cả hai hoảng hốt bỏ trốn. Trong sự cuống quýt, chúng tôi chạy đến chỗ tời nâng hàng rồi lao thẳng xuống căn bếp của Học viện, nơi cất giấu các nhu yếu phẩm khẩn cấp. Yenne và tôi cố đút cho Laven chút sữa Emphon, nhưng cậu không chịu nuốt. Tôi không dám mạo hiểm đưa cậu đến bệnh viện của tầng lớp Thượng Phẩm, mà lúc ấy cũng chẳng nghĩ ra được phương án nào tốt hơn, nên đành lao hộc tốc đến tiệm của chú Cutler, để Yenne nấp lại trong phòng chứa thức ăn khâu tạm đôi bàn tay bị đâm nát của cậu.
 
-  
+
+
+  “Một chiếc xe ngựa ư?” Chú Cutler lặp lại. “Mi đang giở trò điên rồ gì thế hả nhóc? Thôi, đừng nói nữa. Cứ mang nó trả lại cho ta, và nhớ cho con bò bison của ta uống đủ nước đấy.”
 
-Phòng học môn Ôn tập các Công thức chật ních người. Và không chỉ có học viên. Hai gã Lính Mổ Xẻ mặc quân phục đứng ở hai góc phòng, đưa mắt dò xét từng người một. Bất chấp những hoài nghi ban đầu của tôi, Aniss đã chứng minh gã rất được việc. Vừa thấy căn phòng đông đúc, gã liền trừng mắt thị uy rồi chiếm trọn cho chúng tôi một chiếc bàn ở tận góc trong cùng, cách xa tên Lính Mổ Xẻ kia nhất có thể.
-
-  
-
-Một lát sau, Viện trưởng bước lên bục giảng phía trước lớp học. Họ mặc một bộ âu phục màu hồng tím sặc sỡ, làm nhạt nhòa đi vẻ phi giới tính vốn có. Mạng lưới khuyên xích chằng chịt mà tôi từng thấy tại Hội đồng Phán quyết giờ đây đã được che khuất bởi một kiểu tóc mới: phần mái dài bất đối xứng nhuộm tông hồng tím đồng điệu với trang phục. Sau khi liếc nhìn đám Lính Mổ Xẻ ở góc phòng bằng ánh mắt chẳng mấy hài lòng, Viện trưởng vỗ tay ra hiệu cho cả lớp giữ trật tự.
-
-  
-
-“Chào mừng các bạn đến với môn Ôn tập các Công thức,” Dyl cất lời ấm áp. Vừa lúc họ nói, một thiết bị trợ giảng liền hiển thị phụ đề theo từng câu chữ trên tấm bảng đá phía sau. Đó là một phương thức hỗ trợ khả năng tiếp thu mà tôi chưa từng quên, nhất là với một kẻ thích đọc hơn là nghe như tôi. “Trong lớp học này, chúng ta sẽ khám phá sự khác biệt giữa một công thức thông thường và một Đại công thức ma thuật. Chúng ta sẽ cùng suy ngẫm về những yếu tố làm nên sự khác biệt đó, và qua đó, chúng ta sẽ thấu hiểu thuật giả kim của năng lượng ma thuật Endurium. Đây là một môn tự chọn, nhưng tôi cam đoan rằng đây sẽ là học phần khắc nghiệt nhất mà các bạn từng trải qua. Hơn nữa, kỳ thi cuối kỳ sẽ không hề nương tay, bởi lẽ nhiệm vụ của các bạn là phải lý giải được vì sao một Đại công thức ma thuật lại có thể ban tặng sức mạnh.”
-
-  
-
-“Nhưng thưa Viện trưởng, chuyện đó nào có ai biết đâu ạ,” một học viên ở hàng ghế đầu cất tiếng.
-
-  
-
-“Nói rất đúng,” Dyl xác nhận. “Không ai biết cả. Chẳng một ai dám chắc về điều đó. Nhưng hãy ghi nhớ lời tôi, các bạn bắt buộc phải xây dựng được một chính kiến cho riêng mình. Hoặc đúng hơn, các bạn ít nhất phải vờ như mình đã hiểu, nếu vẫn còn muốn qua môn.”
-
-  
-
-Một vài tiếng cười khúc khích vang lên hưởng ứng lời vị Viện trưởng, trong đó có cả tôi.
-
-  
-
-“Giờ thì, ngay hôm nay, chúng ta sẽ bắt đầu bằng việc thử thách nền tảng hiểu biết của các bạn về một Đại công thức ma thuật. Ai có thể nói cho tôi biết, một Đại công thức ma thuật bắt buộc phải bao gồm những gì?”
-
-  
-
-Laven giơ tay.
-
-  
-
-“Mời trò, Florento,” Viện trưởng điểm tên.
-
-  
-
-“Quái thú bò mộng Emphon chăng?” Laven đáp, ngữ điệu lộ rõ vẻ e dè như biết mình sắp sập bẫy nhưng lại chẳng rõ bẫy rập giăng ở đâu. “Thịt, sữa, nước hầm, hay trứng của chúng ạ?”
-
-  
-
-Dyl đảo mắt nhìn quanh lớp học, đầu hơi nghiêng sang một bên như thể đang chờ đợi một ý kiến phản bác. Nhưng chỉ một thoáng sau, chính họ đã lắc đầu phủ nhận: “Không, tôi e là không phải.”
-
-  
-
-Những tiếng xì xào rộ lên khắp phòng học khi mọi người khẽ bày tỏ nỗi hoài nghi, nhưng trong số đó không có tiếng của tôi. Tôi ngồi lặng, không dám tin cơ hội của mình lại xuất hiện sớm đến thế, và lại theo cách bất ngờ đến nhường này.
-
-  
-
-Tôi giơ tay lên, lập tức thu hút ánh nhìn đầy ngờ vực từ Yenne. Nãy giờ cô vẫn giữ im lặng giữa đám đông, song nét mặt cô rõ ràng cũng cùng chung sự hoang mang với cả lớp.
-
-  
-
-Dyl khẽ nghiêng đầu nhìn tôi: “Anh có câu trả lời khác sao?”
-
-  
-
-“Một nguồn năng lượng ma thuật Endurium,” tôi tự tin đáp.
-
-  
-
-Trước khi Dyl kịp lên tiếng, một học viên Thượng Phẩm từng nhiều lần đánh bại tôi trong môn Quân sự liền buông một tiếng thở dài thốt lên: “Mặt trời thiêu đốt, ước gì gia nhân của tôi cũng có mặt ở đây. Mấy gã nhà quê cứ tưởng anh sẽ giải phóng bọn chúng như một vị anh hùng trong thần thoại, thế mà anh còn chẳng nhận ra đó chính là điều Florento vừa nói.”
-
-  
-
-Tôi vẫn giữ nét mặt điềm nhiên: “Không giống nhau.”
-
-  
-
-“Nhảm nhí.”
-
-  
-
-“Bessa nói đúng,” Dyl phân xử. “Hai khái niệm đó hoàn toàn khác nhau.”
-
-  
-
-Tôi quyết định liều một phen. Nếu muốn có được sự trợ giúp của họ, tôi phải giành được sự tôn trọng từ họ trước đã; và người duy nhất tôi biết từng khiến họ nể phục chính là Yenne, người đã thuyết phục họ bằng những lập luận sắc bén và độc đáo. Suốt những chuỗi ngày bị cô lập, tôi có thừa thời gian để nghiền ngẫm, để lật giở từng trang sách nấu ăn của Đầu Bếp Ilantra, và để hồi tưởng lại những lần chính mình tìm cách tạo ra một Đại công thức ma thuật. Dù chưa thể tỏ tường mọi ngóc ngách, nhưng trong tâm trí tôi đã dần hình thành một ý niệm rõ ràng.
-
-  
-
-“Đó cũng không phải là điều kiện duy nhất cần có cho một Đại công thức,” tôi cất cao giọng gợi mở. “Vẫn còn một yếu tố nữa.”
-
-  
-
-Cả Dyl lẫn Yenne đều nheo mắt nhìn tôi. Cảm giác thật kỳ lạ khi thấy ánh mắt đầy hoài nghi của người giám hộ và con nuôi lại giống nhau đến nhường ấy.
-
-  
-
-“Được rồi,” Dyl nói đoạn ngồi tựa lên mép bàn gần bục giảng. “Tôi rửa tai lắng nghe đây. Còn thứ gì cần thiết nữa?”
-
-  
-
-“Ý niệm,” tôi đáp. Một người Lính Mổ Xẻ ngồi gần đó bỗng khựng người. Có lẽ tôi không nên tiết lộ điều này, nhưng lời đã buông ra thì chẳng thể rút lại.
-
-  
-
-“Nói tiếp đi,” Dyl ra lệnh.
-
-  
-
-“Để tạo ra một Đại công thức, người thực hiện phải mang một ý niệm rõ ràng và chuẩn xác hướng về kết quả ấy. Sẽ là không đủ nếu ta chỉ đơn thuần nạp thêm một nguồn năng lượng ma thuật Endurium rồi mong chờ điều kỳ diệu xuất hiện.”
-
-  
-
-“Muốn kiến tạo thì phải có ý niệm kiến tạo sao?” Tên học viên lúc nãy lại vặn vẹo, rõ ràng đang muốn lôi kéo sự đồng tình từ bạn học hoặc từ người thầy của mình. “Đó chắc chắn là một ngụy biện luẩn quẩn.”
-
-  
-
-Cả lớp đồng loạt quay sang nhìn Dyl, nhưng họ vẫn lặng thinh. Kỳ thực, tôi không chắc họ có bận tâm đến lời phản bác đó hay không, bởi khi họ cất lời tiếp theo, đó lại là một đòn công kích hoàn toàn khác nhắm thẳng vào luận điểm của tôi:
-
-  
-
-“Trong lịch sử, từng có những người vô tình tái tạo thành công các Đại công thức mà bản thân họ hoàn toàn không hề hay biết. Thực tế đó đã bác bỏ giả thuyết về ý niệm của anh. Giờ thì, hãy phản bác lại xem.”
-
-  
-
-Chưa kịp hiểu họ đang muốn đòi hỏi điều gì ở mình, tôi đưa mắt nhìn sang Laven và Yenne như để tìm kiếm một điểm tựa.
-
-  
-
-Yenne liền nghiêng người, thì thầm: “Viện trưởng muốn anh đưa ra chứng cứ để phản bác lại luận điểm của họ.”
-
-  
-
-Viện trưởng muốn tôi chứng minh rằng họ đã sai, nhưng bằng cách nào đây? Tôi tạo ra món Thịt băm Emphon gần như chỉ là một tai nạn tình cờ, dẫu vậy trong thâm tâm, tôi vẫn có ý định làm ra nó. Mọi Đại công thức khác tôi từng thực hiện đều có chủ đích rõ ràng. Khi chú Cutler và Mẹ chỉ dạy, tôi đã biết mình đang tạo nên một Đại công thức, và tôi luôn nhắm thẳng vào kết quả ấy. Chẳng có trường hợp nào lại diễn ra trước mắt những kẻ ngoài cuộc hoàn toàn không hay biết.
-
-  
-
-Không muốn mạo hiểm đánh mất chút thiện cảm vừa giành được, tôi khẽ lắc đầu:
-
-  
-
-“Tôi không thể, thưa Viện trưởng. Ít nhất là vào lúc này.”
-
-  
-
-Họ gật đầu khích lệ:
-
-  
-
-“Tôi rất mong chờ đến ngày đó. Nào, cả lớp, chúng ta hãy quay lại với gợi ý ban đầu của Bessa: một nguồn năng lượng ma thuật Endurium. Cả cậu ấy lẫn tôi đều khẳng định rằng điều này không hề giống với tuyên bố ban đầu của Florento về quái thú bò mộng Emphon.”
-
-  
-
-Người trợ lý học thuật đẩy tấm bảng sang một bên, để lộ ra một tấm bảng khác đã ghi sẵn các yêu cầu từ trước. Dyl cất giọng đọc to:
-
-  
-
-“Hãy trả lời câu hỏi sau: Nếu quái thú bò mộng Emphon không phải là nguyên liệu duy nhất cần thiết để tạo ra một Đại công thức ma thuật, thì nguyên liệu đó là gì, và chúng ta có thể sử dụng nó ra sao để thay đổi góc nhìn về nghệ thuật nấu nướng? Hãy trích dẫn ít nhất ba nguồn tài liệu để chứng minh cho lập luận của mình.”
-
-  
-
-Tiếng thở dài ngán ngẩm đồng loạt vang lên khắp phòng. Nếu trước đó còn ai hoài nghi rằng Viện trưởng đã nói quá khi gọi đây là môn học tự chọn khó nhằn, thì bài tập này đã đập tan hoàn toàn mọi nghi ngờ ấy.
-
-  
-
-“Bessa đã cho các bạn câu trả lời đầu tiên,” họ tiếp tục. “Tôi khuyên các bạn nên suy nghĩ thật thấu đáo và có chiến lược cho câu trả lời thứ hai. Tôi sẽ đích thân chấm điểm các bài luận này. Riêng Bessa, em được miễn bài tập. Đi theo tôi. Cả Yenne nữa.”
-
-  
-
-Một trong những tên Lính Mổ Xẻ toan bước theo, nhưng Dyl đã trừng mắt nhìn thẳng cho tới khi gã phải lùi lũi nép vào góc phòng. Thú thật, tôi vô cùng ấn tượng. Tôi chưa từng nghĩ Dyl lại có uy lực đến thế, ánh mắt sắc lẹm ấy chẳng hề thua kém Đầu Bếp Ilantra.
-
-  
-
-Một cơn nhói buốt đau đớn dấy lên sau ý nghĩ ấy. Trong bầu không khí lặng thinh, có lẽ vì mỗi người đều mang nặng những nỗi niềm riêng, Yenne và tôi rảo bước theo Dyl lên tầng mười tám, nơi được canh giữ nghiêm ngặt sau một cánh cửa khóa kín.
-
-  
-
-“Làm thế nào mà ngươi biết quái thú bò mộng Emphon không phải là nguồn duy nhất, hả Bessa?”
-
-  
-
-Tôi vốn đã chuẩn bị sẵn một lời nói dối cho câu hỏi này: đó chỉ là bước suy luận logic tiếp theo nếu Laven sai lầm. Nhưng ngay lúc này, tôi lại ngần ngại không dám nói ra. Tôi đã thể hiện quá mức tự tin, quá đỗi am tường. Họ sẽ chẳng đời nào tin tôi có thể quả quyết đến thế chỉ nhờ một bước suy luận thông thường. Trông tôi quá chắc chắn, quá đỗi đắc ý với chính mình.
-
-  
-
-Thế nên tôi thầm nghĩ, có sao đâu chứ. Nếu đằng nào cũng phải nhắc đến bột rễ trời, tôi thà nói thẳng ra cho xong.
-
-  
-
-“Tôi biết một nguồn năng lượng ma thuật Endurium ăn được khác, thưa Viện trưởng.”
-
-  
-
-Yenne há hốc miệng, không giấu nổi vẻ kinh ngạc. Tôi vẫn chưa có dịp nói cho cô biết về bột rễ trời.
-
-  
-
-“Ta thấy học trò cưng của mình vẫn còn rất nhiều điều chưa nắm rõ,” Dyl nhận xét. “Thông tin này giá trị đấy.”
-
-  
-
-“Cô vẫn luôn báo cáo tình hình của tôi cho Viện trưởng sao?” Tôi quay sang hỏi, giọng không giấu nổi vẻ mỉa mai sắc bén.
-
-  
-
-Yenne ngoảnh mặt đi, và tôi thầm tự hỏi liệu Vanil có biết chuyện cô đang tuồn tin tức cho Dyl hay không.
-
-  
-
-Chúng tôi dừng bước trước cánh cửa gắn tấm biển đề chữ VIỆN TRƯỞNG. Căn phòng bên trong là sự kết hợp của ba không gian: một phần là thư viện, một phần là phòng thí nghiệm giả kim, và phần còn lại là nơi sinh hoạt. Những dãy giá sách kê dọc theo bức tường bên phải, cứ cách ba kệ sách lại có một chiếc bàn bày biện từ vài cuốn cho đến cả chồng sách dày cộp. Dọc theo phía bên trái là một gian bếp đầy đủ tiện nghi với ống khói và chụp hút mùi, một khu thí nghiệm ngổn ngang dụng cụ giả kim, cùng một chiếc bàn làm việc bề thế. Ở góc khuất xa xa, một vách ngăn để mở hé lộ chiếc giường ngủ và tủ quần áo.
-
-  
-
-“Chính xác thì Viện trưởng nghiên cứu về điều gì ạ?” Tôi thận trọng dò hỏi.
-
-  
-
-“Nói ngắn gọn thì là ‘mọi thứ’,” họ đáp. “Cụ thể hơn, tôi tìm hiểu phương thức vận hành của năng lượng ma thuật Endurium qua lăng kính của giả kim thuật, nhân chủng học và triết học. Nhưng điều quan trọng hơn cả, tôi muốn quay lại câu nói lúc nãy của cậu. Còn nguồn năng lượng ma thuật Endurium nào khác nữa cơ chứ?”
-
-  
-
-Tôi không thể để lộ thông tin quý giá đó quá dễ dàng. Làm vậy không chỉ dấy lên mối nghi ngờ, mà còn biến tôi thành kẻ ngây thơ trước một người luôn coi trọng tri thức hơn mọi thứ trên đời. Và tôi cũng chưa hề quên bức thông điệp bí ẩn tìm thấy trong căn hộ vào ngày đầu tiên. Tôi không thể biết chắc ai là kẻ đã gửi nó, và tôi chỉ hình dung ra một câu hỏi duy nhất mà người ta sẽ chất vấn sau khi tôi thừa nhận mình biết về một Cội Nguồn: *Ngươi đã dùng nó chưa?*
-
-  
-
-“Tôi nghĩ cả hai chúng ta đều hiểu rằng sẽ thật thiếu khôn ngoan nếu tôi chia sẻ điều đó một cách dễ dàng như vậy,” tôi nói. Lời lẽ thốt ra nghe thật lạ lẫm nơi đầu môi. Chúng mang đầy vẻ toan tính chính trị và hoàn toàn không giống con người tôi chút nào. Thật hiếm hoi.
-
-  
-
-Dyl gật đầu nhượng bộ: “Nếu không mở lời hỏi thì tôi lại thành kẻ thiếu sót rồi.”
-
-  
-
-“Đó có phải lý do ngài gọi tôi lên đây không?” Tôi hỏi.
-
-  
-
-“Không hẳn. Tôi muốn gửi lời chia buồn sâu sắc trước sự ra đi của Đầu Bếp Ilantra. Yenne đã kể lại nỗi đau đớn tột cùng trong lòng anh.”
-
-  
-
-Bất chấp cảm giác tội lỗi mà cái tên Đầu Bếp Ilantra khơi dậy, tôi liếc nhìn Yenne: “Tôi rất cảm kích. Cảm ơn ngài.”
-
-  
-
-Họ hỏi han tình hình tài chính của tôi ra sao khi không còn những ca làm việc tại Học viện, và tôi đang thích nghi với cuộc sống của một người Thượng Phẩm như thế nào. Họ thừa nhận bản thân đã biết phần lớn câu trả lời nhờ Yenne, nhưng họ chưa từng tỏ ra kẻ cả, và bất chấp vẻ mọt sách ấy, tôi vẫn cảm nhận được sự đồng cảm chân thành trong từng lời thăm hỏi của họ. Thế nhưng điều đó vẫn không ngăn được việc tôi liên tục đưa mắt dò xét khắp căn phòng.
-
-  
-
-Khi tiếng chuông vang lên báo hiệu kết thúc tiết học, họ đứng dậy khỏi bàn làm việc: “Tôi rất mong chờ được nghe thêm về lý thuyết của anh. Trong lúc này, nếu cần bất cứ thứ gì, hãy báo cho Yenne. Tôi không muốn anh phải vắt kiệt sức lao động chỉ để kiếm tiền trang trải tài liệu học tập đâu. Tôi cần anh phải luôn giữ được sự nhạy bén.”
-
-  
-
-“Vâng, thưa Viện trưởng,” tôi đáp. *Phải chăng tôi vừa tìm được thêm một đồng minh?*
-
-  
-
-“Chúc một ngày tốt lành, Paprick,” họ nói, ra hiệu cho tôi rời đi. “Yenne, chúng ta bắt đầu ở bàn số bốn nhé.”
-
-  
-
-Tôi lủi thủi rời đi một mình, cố ghi nhớ thật kỹ từng ngã rẽ mà chúng tôi đã đi qua để lên đến đây. Tôi suýt nữa đã muộn giờ lớp học của Đầu Bếp Sagen vì mải mất thời gian khắc ghi từng lối đi vào trí nhớ, rốt cuộc tôi chẳng còn cơ hội trao đổi với thầy ấy về rễ trời nữa. Nhưng giờ đây, tôi không còn coi thầy ấy là manh mối sáng giá nhất. Dãy phòng của Dyl, cụ thể hơn là phòng thí nghiệm của họ, mới mang lại cảm giác đúng là nơi tôi có thể tìm thấy một ít. Điều đó đồng nghĩa với việc tôi cần phải tìm cách đột nhập vào trong đó.
-
-  
-
-Cha của Laven đã đích thân trao tận tay Dyl chiếc chìa khóa của cậu để đảm bảo con trai mình không bén mảng vào chốn nguy hiểm nữa. Việc ấy đã phá hủy hoàn toàn kế hoạch ban đầu của tôi. Thế nên suốt mấy ngày tiếp theo, tôi vẫn đến các lớp học khác, vừa lơ đễnh nghe giảng vừa cân nhắc các bước đi kế tiếp. Mọi bằng chứng đều chỉ ra nhà vua đứng sau lực lượng Thợ Săn Mặt Nạ, nhưng Vyson lại nói rằng bọn Thợ Săn Mặt Nạ đang cố tìm ra công thức kiểm soát trước cả tôi. Nhà vua vốn đã nắm trong tay Ớt ma thuật kiểm soát tâm trí rồi cơ mà. Tại sao hắn ta lại phải nhọc công tìm kiếm nó nữa? Câu trả lời hiển nhiên là công thức kiểm soát đó là một thứ hoàn toàn khác, nhưng tôi nào có tìm kiếm bất kỳ Đại công thức ma thuật nào khác đâu. Cho đến khi tìm ra cách đột nhập vào phòng thí nghiệm của Dyl, tôi cần phải tìm hiểu thêm về lực lượng Thợ Săn Mặt Nạ.
-
-  
-
-Suy nghĩ đó đưa tôi quay trở lại với chiếc mặt nạ mà chú Cutler đã trao cho mình. Trên đó có khắc một chữ ký.
-
-  
-
-Tôi cần phải tìm hiểu xem chữ ký đó là của ai.
+
+
+  Vừa lái vừa tìm cách điều khiển, cuối cùng tôi cũng đánh được xe ghé sát cửa sau của nhà hàng rồi giấu Laven vào thùng xe. Yenne cầm lái giỏi hơn tôi nên cô đảm nhận việc lén lút đưa cậu về Khu Thứ Phẩm Số 3. Mấy tên lính gác cổng chưa bao giờ kiểm tra kỹ những chiếc xe rời khỏi khu vực Thượng Phẩm như cách chúng soát xét xe đi vào.
+
+
+
+  Tôi ngồi cạnh Laven ở khoang sau, thầm cầu nguyện cho cậu qua khỏi. Phải có ai đó sống sót qua thảm cảnh này chứ.
+
+
+
+  Những bậc cầu thang thực sự là một cực hình. Chẳng có cách nào dễ dàng để đưa một thân thể mê man lên đó ngoài việc tự cõng rồi lê lết từng bước chân. Tôi mồ hôi nhễ nhại, thở hộc tốc, nhưng cuối cùng cũng về đến căn hộ của các mẹ.
+
+
+
+  “Pappy?” Mẹ hốt hoảng thốt lên khi nhìn thấy những vết máu. “Đây là ai? Chuyện gì đã xảy ra thế con? Vào nhà đi, mau vào đây!”
+
+
+
+  Mẹ liếc nhìn ba chúng tôi một cái rồi vội vã lao ra cửa. “Để mẹ đi gọi Cay, Anna.”
+
+
+
+  “Pappy, đi đun khăn gạc mau!” Mẹ ra lệnh. “Còn con, xin lỗi cục cưng nhé, mẹ không biết tên con, nhưng dưới gầm giường nhà mình có một chai tequila đấy.”
+
+
+
+  Chúng tôi ở lại đó thêm một ngày nữa, cánh cửa căn hộ liên tục mở ra đón người qua kẻ lại. Cori đến đầu tiên, em ôm chầm lấy tôi và hôn tôi ngay trước mặt các mẹ. Đương nhiên, điều đó dẫn đến một loạt cuộc trò chuyện đầy ngượng ngùng trong sự đắc ý ra mặt của hai mẹ.
+
+
+
+  Cay, Anna, vị thầy thuốc thời thơ ấu của tôi, đã đến thăm khám và bảo đảm Laven rồi sẽ tỉnh lại. “Cậu ta bị chuốc thuốc,” bà khẳng định. “Cậu ấy bị mất nước, nhưng nước hầm xương và thời gian sẽ đào thải độc tố ra khỏi cơ thể.”
+
+
+
+  Vanil cũng tới, vẻ bình tĩnh thường ngày của ông hoàn toàn biến mất. Ông nổi giận vì Đầu Bếp Ilantra bị sát hại trước khi kịp thực hiện các kế hoạch dành cho bà, bực bội vì chúng tôi dám lén lút đưa một kẻ Thượng Phẩm vào Khu Thứ Phẩm Số 3, đồng thời lo lắng quân đội đã nhúng tay vào việc này.
+
+
+
+  Hai từ “giận dữ” chẳng thể nào lột tả hết cảm xúc của tôi lúc bấy giờ. Đầu Bếp Ilantra không đơn thuần là một công cụ tiềm năng cho Bầy Đàn. Bà là người chỉ dẫn cho tôi, dạy tôi về hương vị, về công thức món ăn và mở ra cả một vùng trời tưởng tượng hoàn toàn mới mẻ về nghệ thuật ẩm thực. Còn Laven đã trở thành người bạn thân thiết nhất của tôi. Chắc chắn không thể có chuyện cả hai người họ cùng xuất hiện ở nơi đó một cách ngẫu nhiên. Tất cả là lỗi của tôi, vậy mà tôi lại chẳng làm được gì để giúp Laven, cũng chẳng thể bù đắp nổi những gì Đầu Bếp Ilantra đã phải trả giá.
+
+
+
+  Tin tức về vụ sát hại Đầu Bếp Ilantra giật gân trên các mặt báo của tầng lớp Thượng Phẩm vào tối hôm sau, chỉ vài giờ sau khi một thủ thư phát hiện ra các thi thể. Mấy tờ báo ra buổi sáng trước đó còn tập trung đưa tin về chiến thắng lẫy lừng của quân đội Thượng Phẩm: họ đã tìm thấy một bầy quái thú bò mộng Emphon ở phía đông và đang áp giải sáu con trưởng thành trở về Ranch. Thế nhưng, dù tầng lớp Thượng Phẩm có thâu tóm truyền thông đến đâu, họ cũng hoàn toàn không cách nào che giấu nổi vụ ám sát một thành viên Hội đồng cùng vụ bắt cóc con trai của một thành viên khác.
+
+
+
+  Vậy bọn chúng đã làm gì? Rốt cuộc, chúng đổ hết mọi tội lỗi lên đầu những kẻ bạo loạn thuộc tầng lớp Thứ Phẩm!
+
+
+
+  Hoppus Florento được báo chí trích lời rằng ông hứa hẹn sẽ mang cả tiền chuộc lẫn ngọn lửa địa ngục đến cho bất cứ kẻ nào đang giam giữ Laven. Người Tiêu Thụ Tối Cao và Thống Lĩnh Wensoan cùng đăng đàn bày tỏ niềm thất vọng sâu sắc trước việc người bạn của họ, Đầu Bếp lừng danh đoạt sao Missoloan, bị sát hại. Dù vậy, những lời lẽ của Thống Lĩnh Wensoan nghe có vẻ tiếc nuối việc mất đi những con quái thú mà ông ta từng bắt giữ hơn là tình bạn giữa hai người. Cứ như thể họ chưa từng hạ thấp hay miệt thị bà tại Hội đồng. Cứ như thể lực lượng quân đội dưới quyền ông ta hoàn toàn không nhúng tay vào. Thậm chí Nhà vua còn đưa ra một tuyên bố cứng rắn: bất kỳ thường dân nào bị kết tội liên quan đến vụ việc sẽ bị treo cổ trên thanh xà nhà cho đến khi cái chết của họ hòa lẫn vào những con đường vấy máu bên dưới Hội đồng Phán quyết.
+
+
+
+  Những ngày tháng nặng nề trôi qua trong các cơn ác mộng dai dẳng, ngay cả việc nấu nướng cũng chẳng thể giúp tôi lấy lại bình tĩnh. Khi thái bánh mì, tôi lại nghiền nát nó thành từng mảnh vụn. Tôi nướng cháy xém những quả ớt trên bếp chỉ để trừng mắt nhìn chúng cháy rụi thành than. Chưa bao giờ trong đời tôi lãng phí thức ăn như thế, nhưng sự giận dữ xé xuyết khiến tôi sắp phát điên. Giận lũ cuồng tín. Giận tầng lớp Thượng Phẩm. Giận vì lễ tang cùng tiệc tưởng niệm Đầu Bếp Ilantra sẽ diễn ra vào cuối tuần, nhưng Vanil lại cấm tôi đến dự. Cứ như thể ông có quyền cấm đoán tôi bất cứ điều gì. Chẳng phải chính ông từng bảo tôi hãy đặt niềm tin vào lũ cuồng tín đó sao?
+
+
+
+  “Hình ảnh của cậu trong mắt mọi người vẫn còn rất nhạy cảm,” ông giải thích. “Nếu cậu bị bắt gặp đang đau thương trước cái chết của một kẻ thuộc tầng lớp Thượng Phẩm, lại còn là thành viên Hội đồng, điều đó sẽ làm suy yếu phong trào.”
+
+
+
+  “Cháu không quan tâm! Bà ấy là một người tử tế,” tôi phản bác. “Bà ấy đã giúp đỡ cháu khi chẳng một ai khác chịu chìa tay ra!”
+
+
+
+  “Bà ta chỉ là một kẻ dối trá tự cho mình là vị cứu tinh của cậu thôi. Tại sao lại phải biết ơn bà ta chỉ vì bà ta trao cho cậu những gì cậu vốn dĩ xứng đáng được nhận?”
+
+
+
+  Nghe vậy, tôi đùng đùng bước ra hành lang. Tất cả mọi người đều lo đến phát điên xem chuyện này sẽ ảnh hưởng ra sao đến Bầy Đàn và các kế hoạch chính trị của họ. Không một ai có đủ chút lòng trắc ẩn để xót thương cho cái chết của những người lương thiện hay sao? Thậm chí chẳng một ai thèm nhắc đến người thuộc tầng lớp Thứ Phẩm xấu số cũng có mặt ở đó. Tôi cảm thấy như mình là kẻ duy nhất còn bận lòng, kẻ duy nhất muốn đòi lại công lý. Đầu Bếp Ilantra không đáng phải chết trong tình trạng mê man vì bị chuốc thuốc, rồi bị treo lên như một miếng thịt xẻ.
+
+
+
+  Tôi đấm mạnh vào bức tường, gầm lên một tiếng tức tối. Tôi trừng mắt nhìn gia đình đang thò đầu ra ngơ ngác xem xét cái lỗ tôi vừa đấm thủng trên tường căn hộ của họ.
+
+
+
+  “Hả dạ chưa?”
+
+
+
+  Yenne đứng bên cạnh cửa căn hộ của các mẹ tôi. Cô mặc một trong những chiếc váy của Mẹ, chiếc đầm xám sát nách giản dị dài chạm mắt cá chân, cổ áo khoét cạn nhưng rộng, để lộ gần trọn bờ vai đang quấn băng. Trông cô thật lạ lẫm so với những bộ âu phục Thượng Phẩm thường ngày. Cứ như thể món đồ ấy vốn chẳng hề thuộc về cô.
+
+
+
+  “Khi nào anh đập phá xong căn hộ đó thì báo cho tôi biết. Tôi muốn biết kẻ đứng sau chuyện này là ai.”
+
+
+
+  “Để làm gì?” Tôi hỏi. “Đây chắc là lần cô nán lại lâu nhất ở một khu Thứ Phẩm kể từ khi được thăng cấp nhỉ? Cô bắt đầu bận tâm đến chuyện kẻ nào sát hại dân Thứ Phẩm từ bao giờ thế?”
+
+
+
+  “Thứ nhất, đồ chết đói à, tôi thực sự quan tâm.” Cô lùi lại một bước về phía cửa, chỉ khựng lại để nói thêm: “Và thứ hai, chúng đang nắm giữ bí mật.”
+
+
+
+  “Anh cần tìm chỗ khác để xả giận đi, sát thủ của em.” Cori bước tới từ cuối hành lang, trên tay cầm cuộn băng gạc sạch để xử lý vết thương cho Laven. “Đấm thủng mấy bức tường chẳng giúp ích được gì cho ai đâu.”
+
+
+
+  “Nó giúp ích cho anh.” Tôi đáp, cơn thịnh nộ lập tức dịu bớt khi nhìn thấy dáng hình em.
+
+
+
+  “Thật thế không đấy?” Em khẽ cau mày, nắm lấy tay tôi rồi nâng những khớp ngón tay đang rớm máu lên kiểm tra.
+
+
+
+  “Anh cảm thấy như thể đây là lỗi của mình,” tôi thú nhận thay vì vòng vo né tránh. “Chuyện tồi tệ đó lại tái diễn, y hệt như lần trước. Đáng lẽ anh phải có mặt ở đó để ngăn chặn.”
+
+
+
+  Cori dịu dàng đặt một nụ hôn lên các khớp ngón tay tôi.
+
+
+
+  “Anh không thể đâu, trừ khi anh nhìn thấu được tương lai.”
+
+
+
+  “Em có nghĩ trên đời này tồn tại một Đại công thức ma thuật làm được điều đó không?”
+
+
+
+  Em khẽ nhún vai:
+
+
+
+  “Em từng nghe đồn đại, nhưng ai mà biết chắc được? Thiên hạ thêu dệt đủ thứ trên đời. Chuyện đó không quan trọng. Điều cốt yếu là cậu ấy vẫn bình an, bởi phản xạ đầu tiên của anh là lập tức đi tìm cậu ấy. Ai mà biết chuyện gì sẽ xảy ra nếu anh chọn ghé qua đây thăm các mẹ cùng em như dự định ban đầu chứ? Hãy nhìn vào điều đó đi. Hành động của anh đã cứu được một mạng người.”
+
+
+
+  “Cậu ấy tỉnh rồi!” Tiếng Yenne gọi với ra từ bên trong phòng.
+
+
+
+  Chúng tôi vội vã lao vào phòng ngủ của các mẹ. Laven đã gượng ngồi dậy trên giường, hai bàn tay quấn băng run rẩy chĩa một con dao ăn về phía người thầy thuốc, nỗi kinh hoàng đông cứng trên nét mặt. Mẹ và vị thầy thuốc đều giơ hai tay lên trấn an, còn Yenne đưa một tay về phía trước cố làm dịu tình hình. Với thương tích hiện tại, Laven chẳng thể làm hại ai, nhưng trông cậu hoang mang và sợ hãi cùng cực. Mãi cho đến khi nhìn thấy tôi.
+
+
+
+  Bàn tay cậu run lên bần bật rồi đánh rơi con dao xuống nệm.
+
+
+
+  “Chuyện gì đã xảy ra vậy?” Cậu *thảng thốt* hỏi. “Sao tôi lại không ở bệnh viện?”
+
+
+
+  “Cậu đang ở trong căn hộ của các mẹ tôi,” tôi dịu giọng đáp. “Yenne và tôi đã tìm thấy cậu dưới các tầng hầm phụ. Cậu có nhớ mình bị tấn công không?”
+
+
+
+  Laven sờ soạng khắp người để kiểm tra thương tích.
+
+
+
+  “Không phải bị tấn công,” cậu thì thào. “Không hẳn là thế.”
+
+
+
+  “Vậy rốt cuộc là chuyện gì?” Yenne bước lại gần, gặng hỏi.
+
+
+
+  “Tôi tìm thấy một bản ghi nhớ của quân đội trên bàn làm việc của cha. Trong đó viết rằng một lô nguyên liệu ẩm thực mật vô cùng giá trị đã được chuyển đến Học viện để phân tích. Thế nên tôi mới lần mò xuống các tầng hầm phụ, rồi vô tình nghe thấy tiếng người. Tôi rón rén bước lại gần và nhìn thấy mấy kẻ đeo mặt nạ đang lôi kéo Đầu Bếp Ilantra vào trong.” Cậu cụp mắt xuống. “Tôi hoảng hốt quá nên va phải một cái lọ. Lọ vỡ tan tành, và ngay sau đó chúng đã tóm được tôi. Chúng ép tôi phải nuốt một thứ gì đó. Kể từ lúc ấy, mọi thứ trong đầu tôi cứ mông lung mờ mịt. Đầu Bếp Ilantra đã kịch liệt phản kháng khi chúng móc hai chúng tôi lên giá treo, bà ấy bảo rằng chúng không có quyền làm thế. Nhưng kẻ đeo mặt nạ Dolphon chỉ cười sằng sặc và đáp: ‘Bọn ta có ân chuẩn của Hoàng thượng,’ hay điều gì đó tương tự.”
+
+
+
+  “Chúng nhắc đích danh Hoàng thượng sao?” Yenne hỏi dồn.
+
+
+
+  Laven gật đầu.
+
+
+
+  “Tôi xin lỗi,” tôi nói, kéo sự chú ý của cậu về phía mình. “Lẽ ra cậu không nên dính vào chuyện này. Cậu tới đó chỉ vì muốn giúp tôi.”
+
+
+
+  “Paprick.” Cậu ngập ngừng giây lát, chật vật tìm từ ngữ diễn đạt. “Sau đó, tôi... tôi cảm thấy có một áp lực khủng khiếp đè nặng lên tâm trí. Giống như có một giọng nói thì thầm xui khiến rằng tôi nên để mặc cho chúng giết chết mình đi, bởi vì...”
+
+
+
+  “Bởi vì sao?” Yenne giục giã sau một khoảng lặng ngột ngạt.
+
+
+
+  “Bởi vì giọng nói đó bảo rằng, làm vậy sẽ giải thoát tôi khỏi cậu.”
+
+
+
+  *“Khỏi tôi ư?”* Tôi ngỡ ngàng thốt lên.
+
+
+
+  “Hắn bảo cậu sắp đến để giết sạch tất cả chúng tôi. Rằng hắn đã nhìn thấu tương lai, một tương lai được vẽ nên từ máu của những nạn nhân ngã xuống dưới tay cậu. Paprick, giọng nói ấy cam đoan rằng một ngày nào đó cậu sẽ giết tôi.”
+
+
+
+  Ánh mắt tôi chạm phải ánh nhìn của Cori, luống cuống không biết phải giãi bày thế nào, rồi lại nhìn trân trân vào Laven:
+
+
+
+  “Tôi... tôi không đời nào làm chuyện đó. Tôi không bao giờ muốn làm tổn thương cậu.”
+
+
+
+  Laven lắc đầu:
+
+
+
+  “Tôi tin cậu. Chỉ là, giọng nói đó quá đỗi quả quyết, thật sự quá đáng sợ.”
+
+
+
+  “Cậu có nhận ra giọng nói đó là của ai không?” Cori đứng ở ngưỡng cửa cất tiếng hỏi.
+
+
+
+  Laven ngước lên nhìn Cori, ánh mắt thoáng nét băn khoăn, nhưng cậu vẫn lên tiếng: “Tôi không biết. Câu này nghe khá quen, mang đúng giọng điệu của giới Thượng Phẩm, nhưng tôi không sao nhớ ra là của ai.” Cậu hắng giọng, cố nhại lại chất giọng ấy khi đọc: *‘Họ sẽ gọi hắn là Đồ Tể, và hắn sẽ xứng đáng với danh xưng ấy. Hắn sẽ tiêu diệt giai cấp Thứ Phẩm, và chính đôi tay hắn sẽ khiến mi trở thành kẻ tàn phế.’*
+
+
+
+  “Nghe như một bài đồng dao bệnh hoạn vậy,” Cori nói.
+
+
+
+  Khi ấy, chúng tôi chẳng hề hay biết đó lại là một lời tiên tri.

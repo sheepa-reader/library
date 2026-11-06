@@ -1,165 +1,163 @@
-# 44 Cuốn sách bọc da
+# 38 Hương vị panna cotta
 
-*Món Thứ Năm • Ớt Ma Thuật Kiểm Soát Tâm Trí*
+“Tôi cần cậu giúp thêm một việc nữa,” tôi thì thầm sau hai tuần, khi đám Lính Mổ Xẻ cuối cùng cũng bắt đầu thưa dần trong các lớp học của tôi.
 
-Tôi học thuộc làu từng chi tiết của món Ớt ma thuật kiểm soát tâm trí - Đại công thức 5, trước khi trao nó cho Yenne, người lúc này đang khao khát đọc đến tột cùng. Đợi cô nghiền ngẫm xong, tôi mới thu sách lại, dù việc đòi lại từ tay cô chẳng dễ dàng chút nào. Tôi trầm ngâm suy tính xem mình sẽ nói những gì với chú Cutler vào sáng mai. Đêm nay Yenne cũng chẳng còn thông tin gì để đóng góp thêm, vậy nên cô quay về căn nhà chung sống cùng Viện trưởng Dyl.
+
+
+  Laven xích lại gần hơn, đôi tay vẫn nhanh nhẹn khuấy đều thạch agar vào nước trong lúc Đầu Bếp Chikor vẫn ra rả giảng về kỹ thuật khuấy đúng cách. Laven phụ trách phần kỹ thuật đó cho nửa công thức chính, còn tôi nhận phần còn lại: dung dịch sữa bột, đường và nước. Aniss đứng trừng mắt nhìn từ góc phòng, nơi gã đang lau chùi chiếc nỏ của mình, nhưng chí ít gã không phải Lính Mổ Xẻ. Mà dẫu gã có phải đi chăng nữa thì khoảng cách đó cũng quá xa để nghe được những gì chúng tôi đang nói.
 
-  
+
+
+  “Cậu có thể chép bài của tôi,” Laven nhanh nhảu đề nghị, “nhưng lần này cố mà hiểu lấy bản chất đấy. Tôi không muốn phải phí hoài cả tuần trước kỳ thi chỉ để giảng lại mấy thứ cơ bản này cho cậu đâu.”
 
-“Chúng ta không nên để thứ đó hớ hênh bên ngoài,” Cori lên tiếng nhắc nhở khi thấy tôi vẫn còn chìm trong dòng suy nghĩ.
+
+
+  Tôi làm bộ sững sờ trước lời mỉa mai cay đắng ấy, trong khi các loại bột xoáy tít bên trong cốc thí nghiệm, chầm chậm hòa tan vào thứ chất lỏng màu sữa đục ngầu, lòng thầm cảm thấy ấn tượng.
 
-  
+
+
+  “Không phải chuyện đó,” một lát sau tôi mới đáp, “nhưng vụ cho chép bài thì chừng một tuần trước kỳ thi tôi sẽ nhận đấy.”
 
-Tôi gật đầu: “Phải rồi, anh biết chỗ giấu nó.” Lẽ ra tôi nên hủy nó đi, nhưng việc hủy hoại một Đại công thức ma thuật, cho tận tới ngày hôm nay, với tôi vẫn giống như một hành vi báng bổ. Nấu nướng là đức tin của tôi, và người ta không bao giờ thiêu rụi niềm tin của chính mình, kể cả trong những thời khắc tăm tối nhất.
+
+
+  “Biết ngay mà. Thế rốt cuộc là chuyện gì?” Cậu nhướng một bên mày, đưa cho tôi phần dung dịch thạch. Tôi nhanh chóng trút nó vào hỗn hợp sữa và đường. Ngay sau đó, tôi chuyển toàn bộ hỗn hợp đã hòa quyện sang một chiếc quánh để đun nóng.
 
-  
+
+
+  “Nếu đám Lính Mổ Xẻ không chịu điều tra chuyện đã xảy ra với cậu, tôi sẽ tự mình làm.”
 
-Đó thường là tất cả những gì chúng tôi còn bấu víu được.
+
+
+  Laven thái cọng đại hoàng. “Bằng cách nào?”
 
-  
+
+
+  “Tôi giữ lại một chiếc mặt nạ của bọn chúng, trên đó có chữ ký.”
 
-Khi tôi quay lại, Cori đã rút thanh cưa phẳng khỏi bao và săm soi cây liếc dao với vẻ mặt đầy hoài nghi. Ánh mắt ấy chuyển sang tôi khi tôi bước vào phòng: “Em không chắc mình có nên dùng thứ này cho thanh cưa phẳng không.”
+
+
+  “Trật tự bên đó mau lên!” Đầu Bếp Chikor quát lớn.
 
-  
+
+
+  Tôi hạ thấp giọng, nhấc chiếc quánh đang sôi khỏi bếp để hạ nhiệt rồi bước sang phía bên kia bàn thao tác, quay lưng về phía Đầu Bếp Chikor. Tại đó, tôi đặt phần cọng đại hoàng của Laven vào một chiếc đĩa sâu lòng rồi rắc đường lên trên.
 
-“Sẽ không nên nếu em muốn giữ cho lưỡi cưa bền sắc,” tôi vừa nói vừa đón lấy cây liếc. “Cây mài này vốn chỉ dành cho những lưỡi dao mỏng hơn.”
+
+
+  “Khi nào thì cậu mới định kể cho tôi nghe chuyện đó?” Laven hỏi.
 
-  
+
+
+  “Tôi không muốn bàn chuyện này ngay trước mặt Aniss.”
 
-“Những lời anh nói lúc nãy, anh có thật lòng không?” Em bất chợt hỏi.
+
+
+  Laven gật đầu, rưới chút vang trắng lên cọng đại hoàng, còn tôi dùng giấy bạc bọc kín miệng đĩa.
 
-  
+
+
+  “Chữ ký của ai thế?” Cậu ấy hỏi trong lúc tôi đưa chiếc đĩa vào lò nướng rồi quay sang kiểm tra phần thạch sữa. Hỗn hợp đã nguội vừa đủ để rót vào các khuôn nhỏ, thế là tôi vội vã chia đều vào từng khuôn trước khi trả lời.
 
-“Ý em là đoạn nào?”
+
+
+  “Đó chính là điều tôi cần cậu giúp,” tôi nói. “Tôi không biết làm cách nào để lần ra tung tích của một thợ làm mặt nạ. Thậm chí trước đây tôi còn chẳng biết trên đời này có thợ làm mặt nạ nữa là.”
 
-  
+
+
+  Laven đưa tay xoa nhẹ chòm râu dưới cằm rồi bước tới chỗ bình chứa khí nitơ nén. Cùng lúc đó, Đầu Bếp Chikor tiến lại gần quan sát khiến cuộc trò chuyện giữa hai chúng tôi phải tạm dừng. “Các trò phải làm thật chuẩn xác ở khâu ủ lạnh này,” ông chỉ dẫn. “Lệch đi dù chỉ hai giây về bất kỳ phía nào cũng sẽ khiến mẻ panna cotta nhão nhoét hoặc làm nứt vỡ khuôn. Ta tuyệt đối không chấp nhận bất kỳ sai sót nào!”
 
-“Đoạn nếu Vanil dùng món ớt đó, anh sẽ rời khỏi Bầy Đàn.”
+
+
+  “Thưa Đầu Bếp, mất bao lâu ạ?” Tôi ngoan ngoãn hỏi.
 
-  
+
+
+  Ông hừ một tiếng. “Tự tính toán đi. Và làm cho nhanh lên, đừng để mất áp suất của bình chứa.”
 
-Tôi nhún vai: “Anh tin vào lý tưởng của Bầy Đàn, nhưng phương thức thì... Trở thành một biểu tượng phỏng có ích gì nếu chính anh còn chẳng tin vào những điều biểu tượng ấy đại diện?”
+
+
+  Laven lập tức lao vào các phép tính, nhanh chóng kiểm soát các biến số phức tạp: điểm đông lạnh khác biệt giữa sữa dừa và sữa bò rừng, thể tích của lượng đường hòa tan, cùng loại thạch agar mà chúng tôi chưa từng sử dụng trước đây.
 
-  
+
+
+  Về phần mình, tôi chỉ đoán mò theo cảm tính. “Chắc chắn không thể quá hai phút.”
 
-“Được rồi, sát thủ của em. Lại bắt đầu văn vẻ rồi đấy.” Cori tra thanh cưa phẳng vào bao rồi thò tay vào túi xách của mình. Từ bên trong, em lấy ra một bọc đồ được gói ghém cẩn thận. “Em mua món này tặng sinh nhật anh, nhưng trước đây chẳng có cơ hội nào để đưa. Giờ thì em không muốn bỏ lỡ nữa. Hai mẹ đã giúp em lấy số đo rồi, nên chắc chắn sẽ vừa vặn.”
+
+
+  “Lệch hai giây ở mỗi ngưỡng còn cụ thể hơn cái câu ‘chắc chắn không quá hai phút’ của cậu đấy, bạn hiền. Tính toán cho cẩn thận vào. Chuyện này rất quan trọng.”
 
-  
+
+
+  “Quan trọng đến thế sao? Chẳng có đầu bếp tự trọng nào lại mất đứt mười phút chỉ để tính toán trong lúc chuẩn bị món tráng miệng cả.”
 
-Tôi mở từng nếp gấp da dày dặn ra khỏi bọc quà và khẽ nín thở khi tấm da mở bung thành một chiếc tạp dề có quai vắt chéo qua vai thay vì kiểu quàng cổ truyền thống (kiểu quàng chưa bao giờ đem lại cảm giác dễ chịu cho một người vạm vỡ cao lớn như tôi). Chiếc tạp dề có hai chiếc túi rộng và sâu phía trước, nằm đúng tầm tay buông thõng, cùng một ngăn túi đặt lệch nơi lồng ngực. Khi tôi nhấc chiếc tạp dề lên định ướm thử, một con dao phay đồ tể bất ngờ tuột ra ngoài, vốn được giấu kín bên trong, rồi rơi xuống mặt bàn với một tiếng keng sắc lạnh.
+
+
+  “Không, họ đã tính toán xong xuôi từ lúc lên thực đơn rồi,” Laven vặn lại. Ngòi bút của cậu thoăn thoắt lướt qua những con số chuẩn xác đến mức làm tôi hoa cả mắt, ngỡ như đang nhìn thấy chính cha tôi đứng đó.
 
-  
+
+
+  Tôi đành chịu thua và kiên nhẫn chờ kết quả. Một phút năm mươi chín giây. Laven có vẻ không vừa lòng khi con số dự đoán của tôi nằm sát sàn sạt biên độ sai số, nhưng cậu chẳng có nhiều thời gian để phàn nàn. Mẻ đại hoàng đã hoàn tất đúng lúc cậu kiểm tra lại kết quả tính toán lần thứ hai. Một món ăn hoàn hảo phải có lớp panna cotta mát lạnh đặt trên nền đại hoàng ấm áp, tất cả đẫm trong lớp si-rô dâu tây kết hợp hoa dâm bụt mà chúng tôi đã chuẩn bị từ trước.
 
-Cori khẽ thốt lên một tiếng giật mình đáng yêu đến bất ngờ, hoàn toàn khác hẳn vẻ điềm tĩnh thường ngày của em, rồi luống cuống chộp lấy con dao với nét mặt đầy ngượng ngùng: “Đáng lẽ em phải lường trước chuyện đó chứ.” Em đặt con dao vào tay tôi. Khi lật lưỡi dao lại, tôi nhìn thấy một dòng chữ khắc: *Chặt nhanh lên, sát thủ*. Độ đầm tay của nó thật hoàn hảo.
-
-  
-
-“Có một ngăn giấu bí mật ở mặt trong dành cho nó đấy,” em chỉ dẫn, khẽ dắt tay tôi chạm vào vị trí đó.
-
-  
-
-Vẫn dõi mắt nhìn em, tôi mặc chiếc tạp dề vào và tìm thấy ngăn túi ngầm. Con dao phay trượt êm ru vào vị trí, nằm gọn gàng vắt ngang phía trước thân mình tôi, áp sát mạn sườn. Vị trí ấy thuận tiện đến mức tôi hầu như chẳng cần gập khuỷu tay cũng có thể rút phắt nó ra trong chớp mắt.
-
-  
-
-Sự tinh xảo của món quà, cùng độ vừa vặn hoàn hảo đến từng đường kim mũi chỉ... Rõ ràng đây là vật phẩm độc nhất vô nhị được may đo riêng cho tôi. Đó không phải thứ Cori có thể tùy tiện mua ở một cửa tiệm thông thường, ngay cả tiệm của chú Cutler cũng không có, càng không phải món đồ mà một người thợ thuộc da có thể hoàn thiện gấp gáp trong khoảng thời gian ngắn ngủi giữa buổi hẹn hò đầu tiên của chúng tôi và ngày sinh nhật.
-
-  
-
-Tôi nhận ra ngay rằng Cori đã đặt làm món quà này từ rất lâu trước đó, và cái giá phải trả chắc chắn chẳng hề nhỏ.
-
-  
-
-“Từ khi nào vậy em?” Tôi hỏi, cảm giác xúc động chực trào nơi khóe mi. Món quà này tuyệt vời hơn muôn phần so với những thứ đắt đỏ mà tôi từng ngắm nhìn nhưng chẳng bao giờ đủ tiền mua ở tiệm chú Cutler.
-
-  
-
-Em nhìn về phía bồn rửa, nơi tôi từng đứng cặm cụi dọn dẹp chén bát, nơi em từng ghé thăm tôi vào đêm hôm ấy: “Sáng hôm sau.” Vệt ửng hồng e thẹn khẽ lan trên đôi gò má em.
-
-  
-
-“Chà, lạ thật đấy, em cũng biết đỏ mặt cơ à.”
-
-  
-
-“Còn trêu nữa là không có món quà còn lại đâu nhé.”
-
-  
-
-“Vẫn còn quà nữa sao?” Tôi hỏi, khẽ bước lại gần hơn.
-
-  
-
-“Này Đồ Tể,” giọng Lưu Trữ Viên cằn nhằn vọng lại trong tâm trí tôi, “chúng ta có nhất th...”
-
-  
-
-“Giờ anh nhận món quà đó được không?” Tôi thì thầm hỏi, khẽ đưa tay chạm vào gò má em.
-
-  
-
-“Nếu anh đã sẵn sàng, thì được thôi.”
-
-  
-
-“Anh sẵn sàng rồi, nếu em cũng thế.”
-
-  
-
-Lần này, đôi môi em mang phong vị của muối và thép. Không phải vị tanh nồng của sắt hay kim loại thông thường, mà là bản chất cốt tủy của thép. Một sự tiệm cận tuyệt mỹ: sắc lẹm và chết chóc như một lưỡi cưa phẳng, kiên định và trêu ngươi tựa một màn so kiếm. Từng cái lướt chạm từ đầu lưỡi em kéo tôi chìm sâu hơn vào vòng tay ấy, tôi luyện tôi trong hơi ấm vỗ về và hứa hẹn một lối thoát. Sau khi cởi phăng chiếc áo của tôi, Cori nhấc mình ngồi lên bàn đảo bếp rồi gạt sạch bát đĩa cùng dao găm sang một bên. Tôi tiến lại gần, nôn nóng nhưng vẫn đầy cẩn trọng.
-
-  
-
-Ngay cả khi ấy, hình bóng hai mẹ vẫn hiện lên trong tâm trí tôi, cùng hàng ngàn lời gợi ý và cảnh báo vụn vặt ẩn giấu dưới những câu trêu đùa.
-
-  
-
-Cori dùng hông đẩy tôi, lật tôi nằm ngửa trên mặt bàn đảo bếp trong lúc em cởi bỏ áo mình. Đây chẳng phải lần đầu tôi ngắm nhìn da thịt em: từng vết sẹo nhỏ trên bắp tay sau những buổi tập luyện cùng cha, những hình xăm, vết bớt nằm chếch bên trái rốn; thế nhưng sự phóng khoáng trong lời mời gọi ấy khiến sống lưng tôi rướn cong về phía em. Đôi môi tôi chạm vào làn da Cori cùng một tiếng thở than có thể bật ra từ miệng tôi, miệng em, hoặc cả hai, và rồi chẳng còn khoảng trống nào chia cắt hai thân xác nữa.
-
-  
-
-Những vì sao nhảy múa qua khung cửa sổ và rọi khắp làn da tôi, cho đến khi chúng tôi không còn chút sức lực, cho đến khi hơi nóng của màn đêm và ngọn lửa đam mê vắt kiệt giọt nước cuối cùng trong cơ thể cả hai. Cho đến khi chúng tôi nằm sóng soài trên bàn đảo bếp, thở dốc và trần trụi, cả thể xác lẫn linh hồn. Cho đến khi từng tấc da thịt trong tôi đều thấu suốt rằng tôi yêu người con gái này, rằng tôi sẵn sàng chết vì em dẫu cái giá phải trả là sinh mạng của bất kỳ ai khác.
-
-  
-
-Rằng nếu có kẻ nào dám cướp Cori khỏi tôi, kẻ đó sẽ bị đẩy vào một địa ngục sâu thẳm và hoàn hảo đến mức người đời sẽ phải viết nên những thiên giai thoại về nó. Cả một cuốn sách dày.
-
-  
-
-Rằng tôi sẽ xẻo phăng lưỡi kẻ đó rồi nuốt chửng trong lúc máu từ thể xác hắn dần cạn kiệt.
-
-  
-
-Đồ Tể gượng đứng dậy với nụ cười điên dại và đói khát, rồi tiến lại gần song sắt. Lần đầu tiên, Nữ Lưu Trữ Viên cảm thấy sợ hãi người đàn ông bên trong buồng giam, lo sợ rằng những chấn song sắt kia chẳng thể nào kìm hãm nổi cơn khát báo thù của anh.
-
-  
-
-Chậm rãi và cẩn trọng, Đồ Tể nhét lọn tóc vào khóe miệng đang cười của mình, liếm láp những sợi tóc chẻ ngọn như thể chúng là đầu cọ phết gia vị. Khi anh gạt tóc khỏi trán, đôi mắt ấy lóe lên ánh vàng ghê rợn.
-
-  
-
-“Tóc của anh,” Nữ Lưu Trữ Viên bàng hoàng nhận ra. “Nó nằm trong tóc của anh!”
-
-  
-
-Chẳng phải lần đầu tiên trong đời, Nữ Lưu Trữ Viên đứng bật dậy rồi vội vã lùi xa khỏi Đồ Tể, đập cửa buồng giam điên cuồng.
-
-  
-
-Lính canh ùa vào đúng lúc Nữ Lưu Trữ Viên lao tháo thân ra hành lang. Đồ Tể cười phá lên, giang rộng hai tay khi toán lính mở toang cửa buồng giam. Một tiếng nổ đanh gọn vang lên buốt nhói màng nhĩ Nữ Lưu Trữ Viên khi vài tên lính canh bị hất văng ngược ra ngoài qua cánh cửa.
-
-  
-
-“Nhưng hơn hết thảy,” anh hét lớn, “khi chúng tôi nằm ở đó, tôi đã hạnh phúc! Hạnh phúc khi biết mình có một người bên cạnh, và tôi thuộc về người ấy. Rằng tôi có được một tình yêu mà vài kẻ vĩnh viễn không bao giờ có được!”
-
-  
-
-Tiếng va đập huỳnh huỵch nhớp nháp của những thân xác đâm sầm vào nhau khiến sống lưng Nữ Lưu Trữ Viên cứng đờ. Đồ Tể, bởi chắc chắn phải là anh, gầm gừ khi những cú thụi liên tiếp giáng xuống. Nhịp đòn dồn dập vang lên khi đám lính canh dùng mọi cách để áp chế Đồ Tể.
-
-  
-
-Thế nhưng tiếng thét đầy khoái trá của Đồ Tể vẫn dội vang khắp hành lang: “Bởi vì tình yêu đó được đáp lại!”
-
-  
-
-Và chính vào lúc ấy, Nữ Lưu Trữ Viên mới cảm thấy mình *thực sự* bại trận. Nếu anh ta biết đủ nhiều để xát muối vào vết thương lòng này... thì anh ta còn biết những điều gì nữa?
+
+
+  Tôi nhanh tay đặt các khuôn bánh vào bình áp suất rồi đóng chặt nắp lại, cẩn thận giữ nguyên mức áp suất quy định. Chúng tôi mất thêm hai phút tất bật chuẩn bị đĩa đựng, xếp phần cọng đại hoàng thật ngay ngắn và đặt bình si-rô trong tầm với vừa phải, không để quá gần vùng lạnh nhằm sẵn sàng cho công đoạn rưới sốt nhanh chóng.
+
+
+
+  “Thế cậu tính sao?” Tôi hỏi trong lúc dùng nhíp chỉnh lại lớp trang trí trên đĩa. “Có manh mối gì về kẻ làm mặt nạ không?”
+
+
+
+  “Tôi ngờ rằng chúng không đời nào bước chân vào một cửa hàng trên Phố Mây rồi nhờ người ta làm mấy chiếc mặt nạ giáo phái quái dị đâu,” Laven trầm ngâm, “nhưng đối chiếu nhanh nét chữ trên đó với hồ sơ thuế của cha tôi thì cũng chẳng mất gì.”
+
+
+
+  “Tôi sẽ lấy cho cậu một bản khắc.”
+
+
+
+  “Trong lúc chờ đợi,” cậu đề nghị, “có lẽ vẫn còn một hướng đi khác mà cậu có thể lần theo.”
+
+
+
+  Tiếng chuông hẹn giờ vang lên, tôi nhanh chóng lấy món panna cotta ra khỏi bình áp suất. Bằng những thao tác thuần thục, tôi úp ngược chúng lên lớp đại hoàng. Trong khoảnh khắc, khối thạch vẫn dính chặt trong khuôn khiến Laven nhìn tôi bằng ánh mắt đầy lo lắng, nhưng tôi chỉ nở một nụ cười tự tin bởi đây là thành quả hai chúng tôi cùng làm. Không đời nào món này lại hỏng được. Tôi lắc nhẹ tay, và cả hai cùng bật cười toe toét khi phần panna cotta trượt êm xuống đĩa, khẽ rung rinh đầy hấp dẫn. Laven đặt những lát dâu tây tỉa hoa vào đúng vị trí, còn tôi với tay quờ lấy bình si-rô để rưới lên, mắt vẫn say sưa ngắm nhìn độ mềm mại nảy nở của món tráng miệng.
+
+
+
+  Bàn tay tôi vô tình va mạnh vào thân bình, khiến nó chao đảo. Trước khi chiếc bình kịp đổ nhào và phá hỏng mọi công sức vừa bỏ ra, Laven đã nhanh tay chộp lấy nó khỏi mặt bàn. “Này bạn hiền, đừng hòng phá hoại thành quả trang trí của tôi.”
+
+
+
+  Vừa lắc đầu ra vẻ quở trách, cậu vừa tự tay rưới si-rô lên đĩa.
+
+
+
+  “Rồi sẽ có ngày cậu làm đổ thứ gì đó cho xem, lúc ấy tôi nhất định sẽ cười vào mặt cậu.”
+
+
+
+  Cậu mỉm cười với tôi: “Cứ chờ xem.”
+
+
+
+  Đầu Bếp Chikor tiến lại kiểm tra thành phẩm của chúng tôi. Đầu tiên, ông dùng mặt thìa ấn nhẹ lên đường vát của miếng panna cotta để kiểm tra kết cấu, sau đó gõ khẽ vào thành đĩa để thử độ đàn hồi. Có vẻ đã hài lòng, ông nếm một miếng nhỏ, mũi thìa cắt ngọt qua lớp đại hoàng.
+
+
+
+  “Món panna cotta đạt yêu cầu,” Đầu Bếp Chikor nhận xét. Tôi khẽ nhếch mép cười khi thấy ông xúc thêm thìa thứ hai, một ngoại lệ ông chưa từng dành cho bất kỳ học viên nào khác trong lớp.
+
+
+
+  Khi ông bước đi, Laven liền huých cùi chỏ vào người tôi rồi hạ thấp giọng: “Mấy chiếc mặt nạ đó khắc họa các loài quái thú Emphon khác nhau, đúng không? Lỡ như chuyện này mang yếu tố tín ngưỡng thì sao? Trong tầng lớp Thứ Phẩm vốn có những kẻ tôn sùng quái thú Emphon đấy. Hay là cậu thử dò hỏi quanh các hội nhóm Thứ Phẩm xem có ai biết gì không?”
+
+
+
+  *Tại sao nãy giờ tôi lại không nghĩ ra chuyện này?*
+
+
+
+  “Ừ, ý kiến hay đấy.”
+
+
+
+  Cậu mỉm cười: “Còn bây giờ thì chúng ta hãy tự mình thưởng thức món này xem sao.”

@@ -1,205 +1,183 @@
-# 36 Quà sinh nhật
+# 31 Mất tích
 
-*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
+Cori và tôi ngồi bên chiếc bàn nhỏ trong căn hộ xơ xác của em ở Khu Thứ Phẩm Số 5. Tôi nấu bữa sáng chỉ có mỗi món cháo, bởi Cori tích trữ rất ít thực phẩm trong nhà. Chúng tôi vừa sửa soạn đi thăm các mẹ của tôi thì Yenne xộc cửa bước vào, thở không ra hơi.
 
-Sinh nhật lần thứ mười bảy của tôi diễn ra ba ngày trước khi học kỳ thứ hai bắt đầu. Tôi đã nhận được danh sách môn học cùng các dụng cụ được giao tới từ cửa hàng của chú Cutler, nhưng bản thân thì vẫn bị giam lỏng.
+
+
+  “Laven đã không về căn hộ vào tối qua,” cô vừa thở vừa nói.
 
-  
+
+
+  “Đáng đời cậu ta,” Cori vừa đáp vừa tung cho Yenne một quả ớt habanero. “Cậu có biết cậu ta qua đêm với ai không?”
 
-Dù bực bội đến nghẹt thở vì không thể tự mình điều tra manh mối nào, tôi vẫn háo hức mong chờ các lớp học bắt đầu. Đó là chiếc phao cứu sinh giúp tôi xua đi những cơn ác mộng và nỗi cắn rứt khôn nguôi đang bủa vây tâm trí. Kỳ này, tôi đăng ký thêm lớp Nấu ăn cùng Emphon của Đầu Bếp Sagen; môn Ẩm thực Giả kim II do Đầu Bếp Chikor phụ trách; một tiết trống để tự học; cùng hai môn hoàn toàn mới là Chiến đấu Nâng cao và một lớp học lần đầu tiên được đưa vào giảng dạy: Ôn tập các Công thức. Chỉ riêng cái tên đã đủ khơi gợi trí tò mò của tôi, nhưng điều tuyệt vời hơn cả là lớp học ấy do chính Viện trưởng Dyl trực tiếp đứng lớp, tác giả của tập tài liệu bị kiểm duyệt mà Laven từng tìm thấy. Cả Laven, Yenne và tôi đều đăng ký ngay tắp lự.
+
+
+  “Cậu hiểu lầm rồi,” Yenne khăng khăng. “Cậu ấy có báo với tôi về ý định đi tìm manh mối lô gia vị mất tích của anh, rồi từ đó không thấy trở về.”
 
-  
+
+
+  Tôi thừa biết những mối nguy hiểm rình rập tại Học viện. “Đi tìm cậu ấy thôi.”
 
-Khi tôi đang đọc trước tài liệu chuẩn bị cho tiết học thì tiếng gõ cửa vang lên, thắp lên trong tôi một tia hy vọng. *Liệu Cori có vượt qua được hàng rào phong tỏa của Vanil để đến đây không? Hay là hai mẹ của tôi?* Tôi chưa từng trải qua một dịp sinh nhật nào mà thiếu vắng họ. Thậm chí, nếu lúc này chỉ là một giờ tự học trong im lặng cùng Yenne thôi, tôi cũng đã mãn nguyện lắm rồi.
+
+
+  “Mấy vết bầm tím đó sẽ làm lộ chuyện anh dính líu đến các vụ bạo loạn đấy,” Yenne vừa phản bác vừa lấy ra một hộp đồ trang điểm. “Chúng ta cần phải che chúng lại.”
 
-  
+
+
+  *Tôi chưa từng nghĩ đến chuyện này.* “Mấy vụ bạo loạn nghiêm trọng đến thế cơ à?”
 
-“Chúc mừng sinh nhật cậu nhé!” Laven cất lời ngay khi tôi vừa mở cửa.
+
+
+  Yenne khựng lại khi đang pha chế hỗn hợp. “Một nửa số nhà máy ở Cánh Đồng Cỏ Cao đã biến thành đống đổ nát. Nhà vua thề sẽ treo cổ tất cả những kẻ bị nghi ngờ nổi loạn. Lính Mổ Xẻ tràn ngập khắp các con phố. Đến anh cũng phải tự nhận ra điều đó chứ.”
 
-  
+
+
+  Cori khẽ dầm bát cháo của mình. “Mọi chuyện đã vượt quá tầm kiểm soát so với dự tính của Vanil rồi.”
 
-Một chiếc hộp giữ nhiệt lớn nằm gọn trong tay cậu ấy, đỡ khéo léo bên trên là ba hộp đồ ăn cỡ lớn mang về. Tôi vội đón lấy giúp cậu ấy bước vào nhà. Thế nhưng chưa kịp mở lời hỏi về mấy chiếc hộp, cậu ấy đã rút một gói bưu phẩm được bọc ghém cẩn thận từ trong túi đưa thư ra rồi nhét thẳng vào tay tôi.
+
+
+  *“Việc này có được lên kế hoạch từ trước không?”*
 
-  
+
+
+  “Giống như một bột phát đã được châm ngòi từ trước thì đúng hơn.” Em thở dài. “Nếu tình hình tệ đến mức này, em sẽ phải bám trụ ở các Khu Thứ Phẩm. Giấy tờ tùy thân giả của em dùng tạm thì được, chứ không qua mắt nổi bọn chúng đâu. Thêm vào đó, Vanil cũng cần người giúp bảo vệ những kẻ chủ mưu.”
 
-“Cậu việc gì phải bày vẽ thế này,” tôi buột miệng nói theo phản xạ, nhưng đôi tay vẫn háo hức đón lấy món quà.
+
+
+  Khi Yenne làm xong, tôi đi tìm thanh đao cưa đồ tể của mình. “Chắc anh đã đánh rơi nó trong lúc hỗn loạn rồi,” Cori vừa nói vừa đưa cho tôi một con dao cắt bánh mì. “Anh cầm tạm cái này đi.”
 
-  
+
+
+  Tôi trao cho em một nụ hôn tạm biệt, đắm mình trong niềm hạnh phúc ngọt ngào khi có thể làm điều đó, rồi vội vã rảo bước về phía Phố Mây. Dưới ánh sáng ban ngày, nơi đây hiện ra như một thành phố hoàn toàn xa lạ. Khu Thứ Phẩm Số 5 nằm ở điểm xa nhất tính từ Học viện trên trục đông-tây, nấp mình sát bức tường giáp ranh Khu Thứ Phẩm Số 6. Lính Mổ Xẻ vốn hiếm khi mạo hiểm băng qua những cánh đồng ớt trải dài giữa Khu Thứ Phẩm Số 5 và dòng sông, thế nhưng giờ đây, hai tiểu đoàn đang rầm rộ diễu hành trên con đường ngay trước các Khu Thứ Phẩm. Tên nào tên nấy tuốt lăm lăm vũ khí, ánh mắt ngập tràn Sức bền ma thuật. Khi Yenne và tôi băng qua sông, hướng về phía đông qua Cánh Đồng Cỏ Cao, bức tranh tàn khốc ấy càng hiện lên rõ ràng hơn bao giờ hết: dân thường bị bắt bớ ngay trên phố xá và bị đánh đập vô cớ, buộc hai chúng tôi phải nép mình di chuyển trong những vệt bóng râm.
 
-Tôi bóc lớp giấy gói ra. Bên trong là một cuốn sách dạy nấu ăn với những hình minh họa tuyệt đẹp, khiến tim tôi như khựng lại một nhịp.
+
+
+  Chuyến đi của chúng tôi diễn ra chậm chạp, nhưng nhờ Yenne là một chuyên gia ẩn mình, cuối cùng cả hai cũng đến được tòa tháp trắng mà không bị phát giác. “Chúng ta bắt đầu từ đâu đây?”
 
-  
+
+
+  Yenne rút ra một tấm bản đồ như thể từ hư không. Việc cô chẳng bao giờ mang theo túi xách luôn khiến tôi cảm thấy *ngạc nhiên lẫn sốt ruột*. Cô giấu tất cả những thứ này ở đâu cơ chứ? “Laven đã lập bản đồ các khu vực bí mật của tòa tháp rồi.”
 
-Một Chút Rau Mùi của Đầu Bếp Ilantra Andala. Tôi lật từng trang sách thật chậm rãi, lặng người nhận ra những công thức căn bản cùng các bức vẽ món ăn do chính tay Đầu Bếp ghi lại. Hầu như tất cả các món ấy đều từng có mặt trên thực đơn của chúng tôi vào một thời điểm nào đó.
+
+
+  Đó là một thông tin hoàn toàn mới mẻ với tôi. *“Cậu ấy làm việc đó từ bao giờ vậy?”*
 
-  
+
+
+  “Mỗi đêm, kể từ khi hai người phát hiện ra những dân thường đó.”
 
-“Đây là cuốn sách dạy nấu ăn đầu tiên tôi từng đọc,” Laven nói. “Cũng là một phần lý do thôi thúc tôi dấn thân vào con đường bếp núc.”
+
+
+  *“Ngay cả khi không có chìa khóa ư?”*
 
-  
+
+
+  “Cậu ấy rất kiên trì,” Yenne nói, giọng thoáng nét công nhận. “Tôi tin rằng cậu ấy đã quay lại các tầng hầm ngay khi lấy lại chìa khóa từ cha mình vào ngày hôm qua. Hầu hết các tầng trên giờ cũng đã được vẽ xong bản đồ.”
 
-Tôi trân trọng đặt cuốn sách lên bàn rồi ôm chầm lấy người bạn của mình. “Món quà tuyệt vời lắm, cảm ơn cậu.”
+
+
+  “Cậu ấy kể hết những chuyện này với cô sao? Tôi không ngờ hai người lại thân thiết đến thế.”
 
-  
+
+
+  Yenne đảo mắt như thể mấy câu hỏi của tôi chỉ là sự phiền toái không cần thiết. “Tình bạn của chúng tôi bắt đầu trước anh những hai năm. Cậu ấy vẫn luôn coi trọng mối quan hệ với anh, bất chấp niềm tin rõ ràng mà anh dành cho cậu ấy. Mục đích của Laven chắc chắn là mang về cho anh những bằng chứng xác đáng trước khi làm phiền đến lịch trình bận rộn của anh mà thôi.”
 
-“Một kỷ vật để nhớ về bà ấy,” cậu ấy hạ giọng, nét mặt thoáng chùng xuống.
+
+
+  Chúng tôi tiến đến cánh cửa khóa kín dẫn xuống tầng kho phụ. “Cô cạy được cái này không?”
 
-  
+
+
+  “Dễ ợt.” Yenne rút một bộ dụng cụ mở khóa ra từ nếp gấp váy. *Rốt cuộc cô giấu bao nhiêu thứ trong nếp váy đó vậy?* “Món quà nhận nuôi từ cha Dyl đấy. Họ muốn đảm bảo tôi có thể đột nhập vào hầu hết mọi nơi trong thành phố. Thông tin luôn ẩn giấu đằng sau những chiếc ổ khóa. Ban đầu điều đó cũng làm tôi khá ngạc nhiên.”
 
-Tôi khẽ gật đầu, cảm nhận một giọt nước mắt đang chực trào nơi khóe mi.
+
+
+  Chúng tôi chậm rãi bước xuống tầng kho phụ, luồn lách qua mê cung giá sách chật cứng thư tịch, những kho thực phẩm trang bị đầy đủ dụng cụ Ẩm thực Giả kim, cùng các phòng lạnh bảo quản thịt đã bỏ hoang từ lâu. Sau khi kiểm tra gian phòng lạnh từng ẩn chứa cơn ác mộng nguyên bản, chúng tôi hạ xuống thêm một tầng nữa. Ngay lập tức, tôi nhận ra có điều bất thường. Mùi bụi mốc quen thuộc ở tầng trên dần nhường chỗ cho thứ mùi tanh kim loại thoang thoảng. Đó có thể là dụng cụ sắt thép, mà cũng có thể là máu. Chẳng ai bảo ai, chúng tôi lặng lẽ tiến sâu vào bên trong. Tôi thầm ước giá như mình đã nhớ mang theo một thanh đao cưa đồ tể mới.
 
-  
+
+
+  Yenne rút ra một lưỡi dao mỏng từ trong nếp váy, khiến mắt tôi *tròn xoe ngạc nhiên*. Lưỡi dao dài thượt, dài tới mức gần như một thanh kiếm. *“Thứ đó ở đâu ra...?”*
 
-“Tôi không thấy cậu xuất hiện trong tang lễ của bà,” cậu ấy tiếp lời rồi kéo ghế ngồi xuống bàn. “Winta cũng có hỏi thăm về cậu đấy.”
-
-  
-
-“Vì vụ bạo loạn nên Yenne và tôi nghĩ tốt nhất là tôi không nên lộ diện.”
-
-  
-
-Laven gật đầu đồng tình. “Rất nhiều người thuộc tầng lớp Thượng Phẩm rêu rao rằng chính cậu là kẻ châm ngòi cho chuyện đó.”
-
-  
-
-“Chuyện đó cũng chẳng có gì bất ngờ, nhưng trước mặt tôi thì chẳng ai dám ho he nửa lời.”
-
-  
-
-Laven cau mày rồi với tay mở nắp các hộp đồ ăn mang về. Mùi thơm nức mũi lập tức lan tỏa, để lộ món taco khoai tây cay, món ruột của tôi ở quán rượu, cùng đĩa bánh ngô giòn rụm kèm sốt salsa và một chiếc bánh mì kẹp thịt. Bữa trưa quen thuộc của hai chúng tôi tại quán rượu ngày nào.
-
-  
-
-“Cậu không phải người duy nhất bị làm khó đâu,” cậu ấy nói rồi đẩy đĩa taco về phía tôi. “Tôi đã khai với cha rằng mình được vài người bạn giải cứu, chỉ có thế thôi. Cha tôi đã gửi thư đến Cục Phòng vệ Sức bền yêu cầu cử người đến lấy lời khai, nhưng bọn họ thậm chí còn chẳng buồn đoái hoài. Cứ như thể họ chẳng mảy may bận tâm đến việc tôi vừa bị tập kích vậy.”
-
-  
-
-Rõ ràng Laven đã giữ kín danh tính của những người ra tay cứu viện đúng như lời đã hứa, nhưng tôi không muốn kéo cậu ấy lún sâu hơn vào rắc rối với đám Thợ Săn Mặt Nạ. Cậu ấy có thể là một nhà giả kim thiên tài, một đầu bếp cừ khôi, nhưng ngay cả chiếc chảo lòng sâu đeo sau lưng cũng chẳng thể bảo vệ cậu ấy trước một đòn phục kích hiểm độc khác.
-
-  
-
-“Nhưng hôm nay tôi đến đây đâu phải để bận lòng mấy chuyện đó,” Laven đổi giọng, nét mặt tươi tỉnh trở lại. “Ăn đi nào, ăn đi cậu! Có cả bánh ngọt nữa đấy. Đồ tôi tự tay làm hẳn hoi nhé.”
-
-  
-
-*“Bánh ngọt ư?”* Laven làm sao hiểu được sự kinh ngạc tột độ của tôi. Tôi đồ rằng từ trước đến nay, chưa từng có một thường dân nào được nếm thử mùi vị của bánh ngọt.
-
-  
-
-“Phủ kem phô mai nữa đấy,” cậu ấy nói một cách tự nhiên, như thể việc phết phô mai lên bánh ngọt là điều hiển nhiên trên đời. Bất giác, tôi tự hỏi liệu với giới quý tộc, điều xa xỉ ấy có thực sự bình thường đến thế không.
-
-  
-
-“Cảm ơn cậu. Chừng này... chừng này là quá nhiều rồi. Món quà này thực sự có ý nghĩa rất lớn đối với tôi.”
-
-  
-
-“Nhiều gì mà nhiều? Thế thì cậu tính sao với thứ này đây?” Laven cười, rút một tập tài liệu từ trong túi ra rồi chìa trang bìa trước mặt tôi. Đó chính là bản thảo của Viện trưởng Dyl viết về loại gia vị của tôi.
-
-  
-
-“Cậu lấy được nó thật đấy à?” Tôi thốt lên, vội vã giật phăng lấy tập tài liệu từ tay cậu ấy.
-
-  
-
-“Bản này còn nguyên vẹn, chẳng hề bị bôi xóa chữ nào. Khá đỉnh đấy chứ, nếu để tôi tự nhận xét. Tôi vừa đọc qua là biết ngay mình phải mang tới cho cậu. Dạo này cha tôi quản thúc gắt gao quá, chẳng chịu cho tôi bước chân ra khỏi nhà nửa bước... thế mà tôi vẫn trốn thoát được đấy! Đến cả tôi mà cũng phải trốn nhà đi cơ đấy, nực cười thật, phải không?” Cậu cắn một miếng bánh mì kẹp thịt. “Nội dung hơi khó hiểu một chút. Nhưng cũng phải thôi, bởi tài liệu này do chính Chikor và Sagen đồng tác giả mà.”
-
-  
-
-Tôi thoáng giật mình, nhưng ngẫm lại thì điều đó hoàn toàn hợp lý. Chikor là nhà giả kim uyên bác nhất thành phố, còn Sagen có lẽ là Đầu Bếp tài ba nhất còn sót lại sau thảm kịch của Đầu Bếp Ilantra.
-
-  
-
-“Trong đó viết những gì?” Tôi hỏi, ánh mắt lướt trên trang giấy mờ đi gần như ngay lập tức.
-
-  
-
-“Một nửa là toán học, một nửa là lý thuyết hương vị, và toàn bộ đều xoay quanh loại gia vị của cậu. Họ gọi nó là bột rễ trời, và nghe này, anh bạn. Thứ đó có chứa năng lượng ma thuật Endurium. Đó chính là phần toán học được phân tích trong bài nghiên cứu.”
-
-  
-
-Miếng bánh taco suýt rơi khỏi khóe miệng đang há hốc của tôi. *“Tôi cứ tưởng Endurium chỉ tồn tại trên quái thú bò mộng Emphon thôi chứ?”* Trong cơn bàng hoàng tột độ, tâm trí tôi thậm chí còn chẳng kịp nghĩ tới những quặng Endurmite.
-
-  
-
-“Đó mới chính là bí mật của thứ bột này,” Laven tiếp lời. “Mười gram bột rễ trời chứa lượng Endurium tương đương với cả một ly sữa Emphon.”
-
-  
-
-“Nhiều đến mức ngang ngửa hai trăm gram thịt quái thú Bò sát Carnephon rồi còn gì.”
-
-  
-
-“Chính xác!” Laven tán đồng. “Bài báo đã mổ xẻ toàn bộ những hệ quả bắt nguồn từ một dạng Endurium có nguồn gốc thực vật. Rõ ràng loài cây sản sinh ra nó phải có kích thước vô cùng khổng lồ, với hệ thống rễ rộng tới hàng ngàn mét khối. Theo tài liệu, người ta phải tiêu tốn tới một nghìn gram rễ cây mới tinh chế được một gram bột gia vị. Nhưng dù thế nào đi nữa, đó vẫn là một trữ lượng Endurium khổng lồ. Hèn chi thông tin về nó lại bị phong tỏa nghiêm ngặt đến vậy.”
-
-  
-
-Tôi lặng lẽ nhai trong nỗi bàng hoàng, cảm nhận vị đắng ngắt của xương rồng nopales lẩn khuất dưới lớp khoai tây. Suốt bao nhiêu năm ròng, giới Thượng Phẩm vẫn đinh ninh rằng việc hấp thụ Endurium là con đường duy nhất mang lại Sức bền ma thuật cho chúng tôi. (Tôi chỉ vỡ lẽ ra điều này sau khi được cất nhắc lên tầng lớp trên.) Thế nhưng trong suốt ngần ấy thời gian, ai nấy đều tin rằng nguồn năng lượng ấy chỉ có thể khai thác từ quái thú bò mộng Emphon, hoặc họa hoằn lắm là từ những quặng Endurmite cứng như đá chẳng thể nuốt nổi. Bột rễ trời đã mở toang cánh cửa dẫn tới những tiềm năng hoàn toàn mới.
-
-  
-
-Tôi đã dùng bao nhiêu bột đó để pha chế Gia vị ướp Emphon? Một nhúm chăng? Nếu bột rễ trời có khối lượng riêng tương đương muối, thì lượng bột tôi dùng chắc cũng chừng ba đến bốn gram. Hóa ra đó là lý do khiến tôi bộc phát sức mạnh kinh người đến thế. Cảm giác lúc bấy giờ chẳng khác nào việc tẩm đẫm cả tảng thịt vào sữa Emphon.
-
-  
-
-“Tài liệu có nhắc đến nguồn gốc xuất xứ của nó không?” Tôi hỏi.
-
-  
-
-Laven khẽ chau mày. “Không có. Dù tôi đã lục tung mọi ngóc ngách, tôi vẫn chẳng thể tìm ra bản thảo nào không bị mực đen kiểm duyệt che khuất. Ngay cả khi tôi chủ động tra cứu đích danh bột rễ trời, kết quả vẫn vậy.”
-
-  
-
-“Làm thế nào mà cậu lấy được bản chưa bị kiểm duyệt này?”
-
-  
-
-“Tôi sợ chẳng dám bén mảng quay lại mấy dãy kệ phụ để tìm tài liệu về gia vị nữa, thế nên tôi đành dùng chìa khóa vạn năng của cha để lẻn vào thư viện dành cho giáo sư ở tầng mười chín. Tôi đoán tài liệu mật có thể cất giữ trên đó.”
-
-  
-
-Tôi với tay qua chiếc bàn nhỏ, túm lấy cổ áo cậu. “Cậu đúng là thiên tài.”
-
-  
-
-Laven thoáng đỏ mặt trước lời khen, rồi cậu cố ý lấy ra một chiếc bánh ngọt được trang trí cực kỳ tinh xảo mà tôi biết mình chẳng tài nào sánh bằng. “Nếu chúng ta muốn kiên trì đi tới đích để trở thành Đầu Bếp, thì chí ít cũng phải có một người làm nên trò trống gì chứ.”
-
-  
-
-Tôi huých nhẹ cậu một cái đầy thân thiện, rồi cả hai cùng bắt tay xắt bánh.
-
-  
-
-“Sao chiếc bánh này lại có màu đỏ thế?” Tôi hỏi.
-
-  
-
-“Cậu chưa từng ăn bánh nhung đỏ bao giờ sao?” Cậu trố mắt ngạc nhiên.
-
-  
-
-“Tôi chưa từng được ăn bánh ngọt bao giờ cả, Laven.”
-
-  
-
-Laven đứng phắt dậy, sải bước lao ngay về phía gian bếp nhỏ hẹp của tôi. “Cậu có bột mì ở đây không?”
-
-  
-
-“Gì cơ? Cậu định làm gì thế?”
-
-  
-
-“Bạn hiền ơi, chúng ta còn rất nhiều việc phải làm đấy. Đây chắc chắn không phải là chiếc bánh ngọt duy nhất cậu được thưởng thức trong ngày hôm nay đâu. Đừng hòng qua mặt tôi chuyện đó. Người bạn thân thiết nhất trên đời của tôi mà lại chu du khắp thế gian mà chưa từng được nếm thử ít nhất ba loại bánh bông lan khác nhau ư? Không đời nào có chuyện đó!”
-
-  
-
-Chúng tôi ở lì bên nhau suốt cả buổi chiều cho tới tận đêm khuya, cùng nhau thưởng thức hết chiếc bánh này đến chiếc bánh khác. Tôi vốn chẳng biết bánh dung nham là thứ gì, thế nhưng dòng sô-cô-la tan chảy từ nó lại mang đến một kết cấu hương vị tuyệt hảo đến ngỡ ngàng. Cả hai cứ thế uống say sưa, cho tới khi Laven bắt đầu thấp thỏm lo sợ cha cậu sẽ điều động toàn bộ quân đội đi lùng sục tìm con trai. Đến lúc ấy, một kế hoạch mới đã dần thành hình trong tâm trí tôi. Sagen, Chikor và Dyl đều từng nghiên cứu về bột rễ trời trong khoảng sáu tháng gần đây, chí ít là dựa trên ngày xuất bản ghi trên tài liệu. Điều đó đồng nghĩa với việc họ từng sở hữu thứ bột ấy, và rất có thể đến tận bây giờ họ vẫn còn cất giữ.
-
-  
-
-Tôi muốn chặn đứng Thợ Săn Mặt Nạ. Tôi muốn chở che cho Ranch. Tôi muốn trở thành một Đầu Bếp thực thụ.
-
-  
-
-Tôi nhất định phải có được thứ bột gia vị đó.
+
+
+  Cô ra hiệu bảo tôi giữ im lặng. Chúng tôi rón rén bước qua những dãy kệ cổ kính đầy ắp sách vở. Khi kéo một quyển ra khỏi kệ, tôi nhận ra đó là cuốn sách dạy nấu ăn được xuất bản năm mươi năm trước thời các mẹ tôi ra đời, xuất xứ từ một nơi nào đó tên là Ryespur. Nếu không vì đang quá lo lắng cho Laven, có lẽ tôi đã lật qua vài trang để tìm hiểu đôi chút về phong cách ẩm thực nơi ấy.
+
+
+
+  Yenne đã đi trước một đoạn. Cô đột ngột dừng bước, hướng sự chú ý của tôi về phía vệt ánh sáng lờ mờ đằng xa, và tôi lập tức rút vũ khí ra.
+
+
+
+  Dài bằng cẳng tay tôi, con dao cắt bánh mì cho tầm xỉa xa hơn nhưng lại thiếu đi sức nặng của một thanh đao cưa đồ tể. Một thanh đao cưa đồ tể có thể bổ xuống như rìu, hoặc trong lúc đường cùng, thậm chí có thể phóng đi với độ chính xác nhất định. Còn dao cắt bánh mì lại sở hữu lưỡi cong mang răng cưa, vốn được thiết kế để lách qua các thớ thịt mà không làm vỡ nát cấu trúc. Đối với con người, cơ hội sống sót duy nhất của tôi là rạch trúng một động mạch nông, chẳng hạn như động mạch cảnh ở cổ hoặc động mạch khoeo sau đầu gối (những kiến thức tôi còn nhớ từ thời làm ở nhà máy và các buổi học môn Quân sự). Cả hai cách đều đòi hỏi tôi phải tiếp cận từ phía sau đối thủ. May mắn thay, khi cần, tôi có thể di chuyển uyển chuyển đến bất ngờ so với vóc dáng của mình, dẻo dai và gầy gộc như một sợi roi. Và tôi cũng sẽ lặng lẽ như thế, cho đến khoảnh khắc có thứ gì đó gãy rắc.
+
+
+
+  Khi chúng tôi tiến gần đến một gian phòng lạnh khác, tôi khao khát có được Sức bền ma thuật biết bao. Nếu kẻ ra tay gây ra chuyện này đang trong trạng thái tràn ngập Sức bền ma thuật, có lẽ tôi đã bỏ mạng từ lâu. Trời ạ, nếu Yenne không đứng cạnh tôi với lòng dũng cảm thừa sức nấu đong đầy một nồi súp, có lẽ tôi đã cắm đầu bỏ chạy đi tìm Vanil, dù tôi thừa biết ông ấy chẳng bận tâm đến một kẻ thuộc tầng lớp Thượng Phẩm vô danh nào đó. Dù thế nào đi nữa, sau chuyện này tôi nhất định phải tìm cách sở hữu cho mình một Đại công thức ma thuật.
+
+
+
+  Thế nhưng, tôi sẽ không bao giờ bỏ rơi bạn bè chỉ vì bản thân chưa chuẩn bị chu đáo. Nén đau đớn và sợ hãi, tôi hé mắt ghé nhìn qua khe cửa, không còn nông nổi như trong cuộc đụng độ lần trước.
+
+
+
+  Chúng đang đeo mặt nạ. Chưa từng có chiếc mặt nạ nào miêu tả loại quái thú Emphon mà tôi từng giáp mặt trước đây, nhưng chúng mang đậm đặc trưng của loài bò sát; và dựa trên những gì từng biết về Nhóm Mười Hai, tôi lờ mờ đoán ra. Một tên mang bộ mặt phủ kín vảy, mõm chó kéo dài cùng nụ cười nhe nanh, mắt dê và cặp sừng cừu: hình dáng của một con Wolphon. Tên còn lại mang diện mạo giống như loài cá, nhưng không phải cá hồi hay cá ngừ. Lại càng không phải tôm hùm, thứ vốn là giới hạn toàn bộ hiểu biết của tôi về hải sản vào thời điểm đó. Chiếc mặt nạ Dolphon có phần mõm dài phủ vảy, đôi mắt cá tròn xoe và một cái lỗ đục trên đỉnh chiếc trán phình to, đẫm mỡ.
+
+
+
+  Phía sau chúng, Đầu Bếp Ilantra và Laven đang bị treo lủng lẳng trên những chiếc móc thịt. Máu từ mũi và má Đầu Bếp Ilantra nhỏ xuống từng giọt như những giọt lệ, chảy ra từ phần sọ đã bị lột sạch da.
+
+
+
+  Tôi lao xông vào phòng bất chấp việc Yenne cố sức tóm lấy thắt lưng kéo tôi lại. Trước khi tên tín đồ Wolphon kịp phản ứng (bởi đến lúc này, tôi đã đinh ninh đây là một hội kín bệnh hoạn gồm toàn những kẻ tàn bạo), tôi vung con dao cắt bánh mì rạch mạnh ngang cổ hắn. Nhát cắt của tôi tuy hơi nông nhưng đầy bất ngờ và chuẩn xác. Hắn thét lên, lùi lại rồi trượt ngã xuống sàn nhà đẫm máu.
+
+
+
+  Tên Dolphon không hề tỏ ra ngạc nhiên. Tôi xoay người lao tới đâm hắn, nhưng hắn đã chộp lấy cổ tay tôi với tốc độ kinh hoàng. Lực siết của hắn chặt như gọng kìm siết chặt lấy xương tôi, rồi gã giật thốc tay tôi ra sau lưng để tước vũ khí một cách vô cùng thuần thục, một chiêu thức mà Vyson từng giảng dạy trong môn Quân sự. Thế đòn đó suýt chút nữa đã bẻ gãy cổ tôi, nhưng lực siết của hắn đột ngột nới lỏng khi Yenne lao vào đâm liên tiếp những nhát dồn dập. Dù không nhát nào trúng đích, nhưng chúng đã tạo cho tôi khoảng trống quý giá để tự giải thoát.
+
+
+
+  Tôi tung cú đá dốc lực vào sườn Dolphon, mở ra khoảng hở cho Yenne thừa thắng xông lên. Thế nhưng, như thể đã đoán trước được mọi hành động, Dolphon dễ dàng gạt phăng cả hai đòn tấn công của chúng tôi một cách hết sức thờ ơ.
+
+
+
+  Tôi hạ thấp trọng tâm, định lao vào đánh ngã hắn bằng cách hạ gục khớp gối, nhưng tôi không còn cơ hội. Tên Wolphon đã gầm lên rồi lao tới chộp lấy tôi từ phía sau; mắt cá chân tôi nhói lên đau đớn khi tôi ngã nhào xuống sàn. Còn chưa kịp lật người lại, hắn đã sừng sững đè lên người tôi, những luồng tia chớp lách tách lóe lên giữa đôi bàn tay đang giơ cao. Trong cơn tuyệt vọng, tôi gom hết sức tàn tung cước đá thẳng vào háng hắn.
+
+
+
+  Tôi không rõ cấu tạo cơ thể của chúng ra sao, nhưng hắn liền đưa tay ôm lấy chỗ hiểm theo bản năng của mọi gã đàn ông. Những tia chớp vẫn đang chạy rần rật trên đôi bàn tay ấy, và ngay khi chạm vào chính cơ thể mình, luồng điện liền bùng nổ phóng ra. Hắn co giật liên hồi rồi đổ gục xuống cạnh tôi cứng đờ như một tấm ván.
+
+
+
+  Tôi vội vã lết tới với lấy con dao cắt bánh mì, rồi ấn lưỡi cưa sâu thêm vào vết thương vừa rạch trên cổ tên Wolphon, cho đến khi máu từ động mạch của hắn phun trào bắn tung tóe lên mặt tôi.
+
+
+
+  Yenne chiến đấu chống lại Dolphon bằng sự phẫn nộ dữ dội, nhưng thế trận của cô cứ suy yếu dần. Máu rỉ ra từ khóe môi, còn con mắt bên trái của cô đã sưng húp, chuyển sang màu tím ngắt. Tốc độ cùng khả năng phán đoán trước đòn đánh của Dolphon thực sự đáng kinh ngạc.
+
+
+
+  Tôi lao vào khớp gối phải của hắn. Ngay cả khi hắn xoay người, tôi vẫn kịp vung dao rạch một đường ngay sau khe gối. Thế nhưng, lớp giáp da quân sự hắn mặc quá dày, lưỡi dao của tôi chỉ làm rách sờn lớp giáp da bên ngoài. Nắm đấm của hắn nện thẳng vào mạn sườn, rồi giáng mạnh xuống thái dương tôi, khiến ánh nến chao đảo mờ mịt. Mũi tôi đập mạnh xuống sàn gạch, máu lập tức tuôn ra xối xả.
+
+
+
+  Tôi chớp mắt liên hồi, cố gắng lấy lại sự tỉnh táo để gượng đứng dậy.
+
+
+
+  Trong lúc tôi ngã quỵ, Yenne lao tới đẩy mạnh Dolphon. Cả hai mất đà, ngã nhào qua cơ thể đang co ro của tôi rồi ngã oạch xuống sàn.
+
+
+
+  Chiếc mặt nạ của Dolphon nứt toác ngay chính giữa. Dù tầm nhìn đã nhòe đi, tôi vẫn nhận ra gã khốn từng dạy tôi cách chiến đấu:
+
+
+
+  *Trung Úy Vyson.*
+
+
+
+  Thảo nào hắn lại có thể biết trước mọi chuyển động của tôi.
+
+
+
+  Khi ánh mắt chúng tôi chạm nhau, gã liền bồi thêm một cú đá thẳng vào giữa mặt tôi. Tôi ngửa bật ra sau, toàn bộ tay chân hoàn toàn rã rời.

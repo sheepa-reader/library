@@ -1,365 +1,343 @@
-# 33 Thật là một tình thế khó khăn
+# 28 Vua Consommé
 
-*Món Thứ Tư • Bít Tết Khoai Tây Chiên*
+Vào buổi chiều diễn ra lễ Duyệt binh trên không, Cori, Yenne và tôi bước xuống cầu thang trung tâm của Học viện. Mặc dù cả hai đều đã gia nhập Bầy Đàn từ khi Cori đến Ranch, họ vẫn chưa có nhiều thời gian bên nhau cho đến lúc Yenne bắt đầu theo dõi tôi theo lệnh của Vanil và Cori trở về. Ngay lần đầu ba chúng tôi đi chung, họ chỉ mất vỏn vẹn mười phút để nhận ra cả hai có chung một niềm đam mê là chế nhạo tôi, rồi nhanh chóng trở thành những người bạn thân thiết. Thân thiết đến mức Cori đã dành trọn hai tiếng đồng hồ vừa qua để làm cho Yenne một kiểu tóc mới, chuẩn bị cho buổi hẹn hò của cô với người bạn đồng hành bí ẩn vào tối hôm đó.
 
-Quên Vanil đi. Quên cả chuyện tìm kiếm chỗ dựa bằng cách lùng mua thứ gia vị ấy đi. Giờ đây, tôi đang săn lùng lũ cuồng quái thú. Tôi muốn trả thù. Nhưng trước hết, chúng tôi phải giải quyết cho xong chuyện của Laven. Dĩ nhiên là cậu ấy tò mò, không hiểu vì sao chúng tôi lại chặn đứng được đám thích khách và tại sao lại đưa cậu ấy về căn hộ của các mẹ tôi.
+
+
+  “Cái độ ẩm chết tiệt này mà làm hỏng tóc thì đừng có trách đấy,” Cori vừa nói vừa hoàn tất lượt kiểm tra cuối cùng cho kiểu tóc mới của Yenne.
 
-  
-
-Dù tin tưởng Laven đến đâu đi nữa, chúng tôi cũng không thể tiết lộ cho cậu ấy về Bầy Đàn, thế nên tôi đành nói nửa sự thật: “Chúng tôi có lý do để tin rằng đám lính mổ, ừm, các sĩ quan thuộc Cục Phòng vệ Sức bền, có thể dính líu đến vụ tấn công. Đưa cậu về đây vẫn an toàn hơn là vào bệnh viện. Hơn nữa, trong lễ hội vừa nổ ra vài vụ bạo loạn không liên quan, tình hình bên ngoài vô cùng hỗn loạn. Tốt hơn hết là nên đến chỗ những người chúng ta có thể tin cậy.”
-
-  
-
-Chúng tôi không thể kể cụ thể cho cậu ấy nghe về Vyson. Hắn là manh mối duy nhất của chúng tôi, và việc nói cho Laven biết ai là kẻ suýt lấy mạng cậu ấy chẳng khác nào nói cho cha cậu ấy hay. Mà như thế thì cũng bằng không đánh mà khai với toàn bộ Triều đình, nhất là khi đám thích khách kia thực sự sở hữu “ân sủng của Bệ hạ”.
-
-  
-
-Dù thế nào đi nữa, chúng tôi vẫn đưa Laven trở về với cha cậu ấy sau khi cậu ấy hứa sẽ không tiết lộ chúng tôi là ân nhân cứu mạng. Cậu ấy ngụ ý rằng nếu làm vậy, chúng tôi sẽ nhận được một món tiền thưởng kếch xù. Nhưng dù có chán ghét cảnh phải làm hai công việc cùng lúc đến nhường nào, làm thế vẫn quá đỗi rủi ro. Không, giờ đây tôi chỉ còn lại một công việc duy nhất mà thôi. Nhận thức ấy giáng xuống lòng tôi một đòn đau điếng.
-
-  
-
-Chúng tôi dự định điều tra Vyson, nhưng trước hết tôi cần phải đem trả chiếc xe kéo cho chú Cutler. Sáng hôm sau, Yenne lái xe tới tiệm, nơi Cori cải trang thành người Thượng Phẩm và tôi đã đợi sẵn. Thậm chí Vanil còn chẳng muốn Cori đi cùng, xét đến việc đám Lính Mổ Xẻ đang kiểm tra giấy tờ tùy thân gắt gao đến mức nào, nhưng một khi Cori đã quyết tâm thì trông em vô cùng kiên định và đáng sợ. Ngay cả Vanil cũng đành phải nhượng bộ. Đã qua rồi cái thời tôi có thể một mình đi lại khắp thành phố. Tôi thực sự cần người bảo vệ.
-
-  
-
-Khi bước chân vào trong, tôi thầm thấy may mắn vì có hai người họ đi cùng. Quả nhiên có điều gì đó không ổn. Thứ nhất, phía sau quầy hàng là một người lạ mặt đang cặm cụi đánh bóng chiếc ấm trà. Thứ hai, cả cửa hàng phảng phất mùi chanh, và một chiếc kệ tôi từng tốn bao công sức lắp đặt nay đã trống trơn. Kẻ đang cầm chiếc ấm trà khoác trên mình bộ âu phục nam cắt may gọn gàng kèm cà vạt, cả hai đều mang sắc xanh thẫm tang tóc của giới Thượng Phẩm; mái tóc búi cao, móng tay sơn chuốt cùng đôi hoa tai dài lòng thòng khiến ranh giới giới tính trở nên nhạt nhòa. Vừa thấy tôi bước vào, người đó liền nhấc bổng chiếc ấm trà, cánh tay co giật về sau như thể sắp sửa ném thẳng vào người tôi.
-
-  
-
-“Anh là ai?” Tôi gặng hỏi.
-
-  
-
-“Sao anh lại vào được đây?” Người đó gắt gỏng hỏi ngược lại.
-
-  
-
-“Tôi định hỏi anh câu đó mới phải.”
-
-  
-
-Cori và Yenne thận trọng đứng phía sau tôi.
-
-  
-
-“Tôi là chủ của nơi này. Thế nên tôi hỏi lại anh lần nữa: bằng cách nào?”
-
-  
-
-Tôi ngờ vực rút chùm chìa khóa ra: “Hỏi lại xem nào. Tôi biết rõ ai mới là chủ tiệm này. Tôi làm việc ở đây.”
-
-  
-
-Chùm chìa khóa dường như đã xoa dịu được đối phương. Người đó đặt chiếc ấm trà xuống quầy: “Hẳn anh là Paprick. Tôi tên là Soryl. Cứ gọi tôi là anh, hoặc họ.”
-
-  
-
-Tôi dần bình tĩnh lại, rồi chúng tôi lần lượt giới thiệu bản thân.
-
-  
-
-“Anh đã từ Tiền Tuyến trở về rồi sao?” Tôi hỏi sau màn chào hỏi.
-
-  
-
-Soryl hít một hơi thật sâu để lấy lại bình tĩnh: “Chúng tôi được điều chuyển về hậu phương vì hoàn cảnh khẩn cấp.”
-
-  
-
-Cori rướn người, siết chặt lấy bàn tay tôi.
-
-  
-
-*“Khẩn cấp thế nào?”* Tôi hỏi, lòng nơm nớp sợ hãi câu trả lời. Sắc xanh tang tóc, mùi chanh thoang thoảng, lại diễn ra ngay sau khi tôi vừa mất đi Đầu Bếp Ilantra... Dù vẫn còn tráng kiện, chú Cutler rốt cuộc cũng đã bước sang tuổi xế chiều. Thế giới quanh tôi dường như đang sụp đổ từng mảng.
-
-  
-
-“Không ai nói với anh à? Cha bị tấn công rồi.”
-
-  
-
-*“Bị tấn công sao?”* Tôi hỏi, bàn tay đang đan vào tay Cori khẽ run rẩy. Bàn tay em siết chặt lấy tay tôi hơn.
-
-  
-
-“Ngay tại chỗ đó,” Soryl thông báo, đưa tay chỉ về phía chiếc kệ trống trơn.
-
-  
-
-“Là ai làm?”
-
-  
-
-“Bọn chúng đeo mặt nạ.”
-
-  
-
-*“Ông ấy không...?”* Tôi nghẹn lời, không tài nào thốt ra nổi từ kinh khủng ấy.
-
-  
-
-“Ông ấy vẫn sống,” Soryl đáp với giọng thoáng nét tự hào. “Hạ gục được ba tên, theo như lời ông ấy kể. Nhưng chẳng tìm thấy cái xác nào cả.”
-
-  
-
-“Chính xác thì chuyện gì đã xảy ra?” Yenne hỏi.
-
-  
-
-“Ông ấy sẽ muốn tự mình kể lại cho các người nghe,” Soryl quả quyết, rồi dẫn chúng tôi ra căn phòng phía sau, nơi chú Cutler từng dạy tôi làm món Salad tỉnh táo. “Lại còn bảo tất cả là lỗi của anh nữa đấy. Này Jives, chúng con vào nhé.”
-
-  
-
-Ừ đấy, Soryl đúng là kiểu người gọi thẳng tên cha mình. Tôi biết ngay mà.
-
-  
-
-Chú Cutler đang ngồi trên một chiếc xe lăn quá khổ so với thân hình nhỏ thó và tiều tụy của ông. Thậm chí, trông ông còn kiệt quệ hơn mọi khi rất nhiều. Cứ như thể cả một thập kỷ vừa trút xuống thân hình ấy kể từ lần cuối tôi gặp mặt, với những bọng mắt thâm quầng cùng các nếp nhăn hằn sâu trên trán trông chẳng khác nào những chiếc móc treo áo. Một lớp băng gạc quấn quanh đỉnh đầu, với đường máu khô rỉ qua lớp vải là minh chứng cho thấy lũ cuồng tín đã từng tìm cách bổ đầu ông ra.
-
-  
-
-“Cuối cùng cũng chịu ló mặt đến rồi hả,” ông cáu kỉnh cất lời trước khi tôi kịp nói câu nào. “Nhưng ta không ngờ mi lại dắt theo cả một hậu cung đấy nhé.”
-
-  
-
-“Ý ông là sao?” Yenne đanh giọng đáp lời.
-
-  
-
-“Cứ để một lão già được nói dăm câu đùa nhạt nhẽo đi,” chú Cutler lầm bầm, xua xua tay. “Ta chỉ còn mỗi mấy trò đó thôi. Với cả đứa con trai hết mực cưng chiều ta đây nữa.”
-
-  
-
-“Đã xảy ra chuyện gì vậy ạ?” Tôi hỏi.
-
-  
-
-“Một lũ khốn nạn đã cố moi móc kiến thức khỏi cái đầu rỗng tuếch của ta, chỉ vì chúng nghĩ mi sắp thiêu rụi cả cái thế giới này,” ông nói. “Mi chắc là không biết tẹo gì về chuyện đó đâu nhỉ?”
-
-  
-
-Soryl trừng mắt nhìn tôi. “Trước đó cha đâu có nói cụ thể thế.”
-
-  
-
-“Tao chỉ dành lời cho những ai cần nghe thôi.”
-
-  
-
-Tôi nuốt nghẹn một ngụm nước bọt. Tôi phải đáp lại thế nào đây? Thật may là Yenne đã lên tiếng thay tôi. “Chúng tấn công những người quen biết của chúng tôi và gán cho Paprick cái nhãn kẻ mang lại tai họa. Chúng cũng nói thế với ông sao?”
-
-  
-
-“Nói ư? Lũ châu chấu hôi hám ơi, không đời nào! Chúng gào thét vào đầu tao như một đám người Panchon bị dội nước sôi vào mặt ấy chứ.”
-
-  
-
-Tôi trao đổi ánh nhìn với Cori.
-
-  
-
-“Laven, Đầu Bếp Ilantra và chú Cutler, tất cả đều bị nhắm đến sau các cuộc bạo động sao?” Em suy đoán. “Chắc chắn đây không thể là sự trùng hợp.”
-
-  
-
-“Đó là hành động trả đũa nhắm vào những người Thượng Phẩm dám quan tâm đến các cậu,” Yenne đúc kết.
-
-  
-
-“Chúng ta có thể quay lại thực tế là có kẻ đã tìm cách sát hại ông ấy được không?” Tôi hỏi, một phần vì cảm giác tội lỗi đang cuộn lên cắn rứt nơi lồng ngực.
-
-  
-
-“À, thế ra mi vẫn biết bận tâm đấy nhỉ,” chú Cutler bĩu môi. “Tốt. Lần sau đừng có châm ngòi cho mấy vụ bạo động nữa. Mi sẽ cảm thấy thế nào nếu ta không chứng tỏ được mình là một kẻ có khả năng tự vệ xuất chúng hả?”
-
-  
-
-“Ông đã tự vệ bằng cách nào?” Yenne hỏi.
-
-  
-
-“Gia đình ta đã bám trụ trên cao nguyên này từ trước cả khi người ta đổi tên nó,” chú Cutler nói, ánh mắt chuyển hướng về phía Cori. “Chúng ta biết rất nhiều điều về những thứ đã bị chôn giấu theo thời gian.”
-
-  
-
-“Cha,” Soryl lên tiếng cảnh cáo, “đừng nói nữa.”
-
-  
-
-Chú Cutler ném cho đứa con trai một cái nhìn sắc lẻm, rồi phớt lờ lời can ngăn đó. “Giờ thì, hai người đang tính làm gì với mớ rắc rối này đây? Ta đoán là mi và cái đám Bầy Đàn của mi đã nắm thóp được mọi chuyện rồi chứ?”
-
-  
-
-Cả ba chúng tôi đều khựng lại. “Ai cơ ạ?” Tôi lắp bắp.
-
-  
-
-“Nhìn ta này!” Chú Cutler ra lệnh. “Trông ta giống kẻ mới sinh ra ngày hôm qua lắm sao? Ta có thể nhăn nheo và hồng hào, nhưng điều đó xuất hiện ở cả hai đầu của đời người đấy.”
-
-  
-
-“Ông biết chuyện này từ bao giờ?” Yenne hỏi. Mặc cho lời buộc tội, cô vẫn điềm tĩnh như băng. Còn về phần Cori, em có vẻ đã sẵn sàng tháo chạy khỏi nơi này và thiêu rụi mọi thứ trên đường rút lui. Nếu tôi không nắm chặt lấy tay em, có lẽ em đã làm thật rồi.
-
-  
-
-“Từ khi thằng nhóc mồm mép này dùng ngày nghỉ của nó để đến Chợ Gia Vị Hắc Ám.”
-
-  
-
-“Sao ông biết chuyện đó?” Tôi gầm lên.
-
-  
-
-“Ta ở đó chứ sao.”
-
-  
+
+
+  Tôi liếc nhìn về phía hành lang bên cạnh dẫn xuống khu tầng hầm phụ, nơi vẫn tĩnh mịch và phủ đầy bụi bặm như thường lệ. Tôi đều kiểm tra nơi này trước và sau mỗi ca trực. Một góc tối tăm đầy khao khát trong tôi vẫn thầm hy vọng sẽ thấy chiếc mặt nạ ẩn hiện giữa màn đêm, nhưng hôm nay chắc chắn chưa phải lúc.
 
-“Thượng Phẩm không thể bước chân vào Chợ Gia Vị Hắc Ám,” Cori lên tiếng vạch trần.
+
+
+  Thay vào đó, Yenne và Cori quay trở lại khu Thứ Phẩm, còn tôi rẽ qua góc khuất hướng về lối đi dành cho nhân viên của Tòa nhà Học viện. Tôi suýt nữa thì đâm sầm vào Vyson, kẻ đang đứng gác cửa cùng một tên Lính Mổ Xẻ khác.
 
-  
-
-Chú Cutler xắn tay áo lên, để lộ hình xăm y hệt hình trên cẳng tay tôi: một chiếc túi đựng gia vị. “Bọn mi thật may mắn vì ta vốn đã có thiện cảm với bọn mi đấy,” chú Cutler nói khi giơ hình xăm ra. “Nếu ta nghe được những gì chúng bây đã làm với em trai ta trước khi ta thuê mi, chúng bây sẽ chẳng bao giờ bước nổi một bước vào cửa hàng này đâu.”
-
-  
-
-*“Em trai sao?”* Yenne thốt lên.
-
-  
-
-Tôi nhớ lại lần đầu tiên đến cửa hàng của chú Cutler, nhớ về cái cách tôi từng nghĩ chú Cutler trông giống hệt Lão Banan. “Nhưng ông là Thượng Phẩm cơ mà,” tôi nói, lòng vẫn ngập tràn hoang mang.
-
-  
-
-“Ta đã nói với mi rồi đấy,” chú Cutler cộc lốc đáp. “Thứ Phẩm, Thượng Phẩm, mấy từ đó chẳng có nghĩa lý gì sất. Người Ranch mới là danh xưng duy nhất chấp nhận được đối với những ai sinh ra và lớn lên ở nơi này.”
-
-  
+
+
+  “Mày!” Hắn trừng mắt. Vết bầm trên má hắn trông càng xanh tái khi nằm sát cạnh đôi mắt vàng rực ánh Sức bền ma thuật.
 
-“Được rồi, nhưng em trai của ông...” Tôi ấp úng.
+
+
+  “Xin chào,” tôi cất lời bằng chất giọng bình dân đậm đặc nhất có thể. “Vết bầm sao rồi? Tao cứ tưởng nó phải lành từ lâu rồi chứ. Chắc đau lắm nhỉ?”
 
-  
-
-“Cùng cha khác mẹ,” lão ngắt lời tôi, “nhưng điều đó chẳng làm giảm đi tẹo tình ruột thịt nào cả.”
-
-  
-
-Tôi gãi đầu gật gật, cái đầu đau như búa bổ trước dồn dập những thông tin bất ngờ. Tôi vốn bước vào cửa hàng chỉ để trả lại chiếc xe đẩy, để rồi phát hiện ra người thầy của mình đã bị tấn công, và rằng chú Cutler cùng Lão Banan lại là anh em cùng cha khác mẹ.
-
-  
-
-“Chúng tôi đang cố gắng chắp vá lại các manh mối,” cuối cùng tôi lên tiếng, “để hiểu rõ hơn về giáo phái của chúng.”
-
-  
-
-“Giáo phái sao?” Yenne lặp lại. “Đó là giả thuyết của anh à?”
-
-  
+
+
+  Mọi chuyện đã đi quá xa, ngay cả đối với tôi. Vyson mất kiểm soát, giáng thẳng cây gậy tuần tra vào bụng tôi bằng toàn bộ Sức bền ma thuật của hắn. Hơi thở trong lồng ngực tôi nín bặt. Mọi bài học huấn luyện (chính những bài học do hắn dạy) lập tức tan biến sạch khỏi tâm trí. Toàn bộ cơ bắp trên người tôi rụng rời, quỵ xuống.
 
-“Nếu không thì tại sao chúng lại đeo mặt nạ?” Tôi hỏi. “Tại sao lại moi não người khác ra? Những hành vi đó nhìn kiểu gì cũng ra dáng một giáo phái.” Khi thốt ra thành lời, lập luận ấy nghe kém thuyết phục hơn hẳn. Tôi cố gạt phắt suy nghĩ đó sang một bên. “Ít nhất thì chúng ta cũng biết nhà vua đã bật đèn xanh cho cuộc tấn công nhằm vào Laven. Cả Laven lẫn chú Cutler đều nghe thấy những tiếng nói văng vẳng trong đầu, hệt như những gì tôi từng trải qua khi bị nhà vua thẩm vấn. Đây tuyệt đối không phải là sự trùng hợp.”
+
+
+  Trước khi tôi kịp đứng vững trở lại, hắn đã giật phăng thanh đao cưa đồ tể khỏi lưng tôi. “Mày lấy tư cách gì mà dám mang vũ khí diện kiến nhà vua, cái loại gián mạt nhớp nhúa này? Tao nên kết liễu mày ngay tại đây cho rồi, coi như làm phúc cho tất cả chúng ta.”
 
-  
+
+
+  “Trung úy,” tên Lính Mổ Xẻ kia cất tiếng can ngăn, dù chẳng phải vì thương hại tôi. “Nhà vua đã đặc biệt dặn là muốn nói chuyện với kẻ bỏ đi này tối nay.”
 
-Tôi quay lại nhìn chú Cutler. “Giờ thì dẹp mấy câu đùa sang một bên đi. Ông có thể cho chúng tôi biết điều gì đó thực sự hữu ích không?”
+
+
+  Vyson lôi xốc tôi dậy rồi đập mạnh vào tường. “Được rồi, thế thì tốt nhất chúng ta nên đảm bảo là hắn tự đứng vững bằng đôi chân của mình.”
 
-  
+
+
+  Tôi hất tay hắn ra, tự đẩy mình đứng thẳng dậy rồi chỉ tay về phía thanh đao cưa đồ tể. “Tao sẽ lấy lại nó khi rời đi.”
 
-“Được rồi, được rồi,” lão lầm bầm. “Soryl, lấy hai món tao bảo mày cất riêng ra đây.”
+
+
+  “Mày sẽ không bao giờ được nhìn thấy cái cớ báng bổ cho một thứ vũ khí này nữa đâu, đồ gián mạt. Trừ khi mày ở lại Xưởng của Nhà Vua, nơi mày vốn thuộc về. Giờ thì cút vào trong. Bệ Hạ đang chờ đấy.”
 
-  
+
+
+  Tôi lách người qua hắn để bước vào nhà bếp, nơi phần lớn nhân viên đã tề tựu đông đủ. Vài tên Lính Mổ Xẻ nữa đang đứng nghiêm dọc theo vách phòng, phá hỏng không gian vốn cực kỳ ngăn nắp và hiệu quả nơi đây. Tại trạm trung tâm, nơi Đầu Bếp vẫn thường đứng một mình để thực hiện các màn trình diễn kỹ nghệ, bà gần như bị lu mờ trước bóng hình đồ sộ của Vua Fennel III.
 
-Soryl lườm chú Cutler bằng ánh mắt bướng bỉnh nhưng vẫn tuân lệnh. Anh quay lại ngay sau đó với hai vật phẩm: một thứ tôi nhận ra, còn thứ kia thì hoàn toàn xa lạ. Món đầu tiên là chiếc mặt nạ mang hình dáng loài quái thú Bò sát Carnephon, trông giống hệt chiếc mặt nạ của tên cuồng tín mà tôi đã kết liễu vào đêm đầu tiên.
+
+
+  Vóc dáng vạm vỡ của hắn khiến Vyson trông chẳng khác nào một kẻ thuộc tầng lớp Thứ Phẩm. Bờ vai và cánh tay căng phồng dưới lớp áo bếp bó sát, hàng cúc áo tưởng chừng sắp bật tung trước lồng ngực vạm vỡ như thùng gỗ lớn. Sau lưng, hắn đeo một chiếc búa dần thịt hai đầu mạ crom sáng loáng. Giống như mọi chiếc búa làm mềm thịt, một đầu đe dọa gieo rắc nỗi đau rỉ máu bằng những chiếc gai hình kim tự tháp, trong khi đầu kia dùng để đập dẹt và phá xương theo cách truyền thống.
 
-  
+
+
+  Tôi nghi ngờ liệu bản thân có nhấc nổi nó hay không nếu không nhờ vào Sức bền ma thuật.
 
-“Cái này rơi ra từ một kẻ ta đã hạ sát,” chú Cutler vừa nói vừa nhận lấy nó từ tay Soryl rồi chuyển sang cho tôi. “Mặt trong có một chữ ký hoặc ký tự khắc chìm. Ta chẳng tài nào đọc nổi đầu cua tai nheo gì sất, nhưng biết đâu một trong số bọn mi lại hiểu.”
+
+
+  Đáng sợ hơn nhiều chính là ánh mắt của hắn. Vẫn ngập tràn Sức bền ma thuật, dĩ nhiên, nhưng ánh nhìn ấy tối sầm đầy ác ý như màu tóc của hắn, vô cảm và lạnh lẽo gấp bội. Đôi mắt ấy trũng sâu, mệt mỏi theo cách mà tôi hiếm khi (hoặc chưa từng) thấy ở một kẻ thuộc tầng lớp Thượng Phẩm. Sức nặng của cả vương quốc dường như đang đè trĩu trong ánh nhìn tăm tối ấy, điều đó làm tôi ngạc nhiên. Tôi không hề dành chút đồng cảm nào cho hắn, ngay cả đến tận bây giờ khi đã tỏ tường mọi chuyện; nhưng thật không ngờ, tôi lại có thể nhận ra sức nặng của những cơn ác mộng cùng đớn đau hằn sâu trong đôi mắt ấy.
 
-  
+
+
+  Khi tôi bước vào, hắn dồn toàn bộ sự chú ý về phía tôi. Tôi khựng lại tại chỗ, sống lưng lạnh ngắt như thể vừa bước chân vào Xưởng của Nhà Vua mà không khoác lên mình bộ trang phục đồ tể.
 
-“Ông lấy thứ đó ở đâu ra vậy?” Cori hỏi, ánh mắt dán chặt vào món đồ còn lại. Giọng em dao động giữa nghi vấn và kinh ngạc, như thể không thể tin nổi vào mắt mình.
+
+
+  “Việc một kẻ cúi đầu trước nhà vua của mình là lẽ thường, nhưng phải đến mức bàng hoàng choáng ngợp thế kia sao? Ta biết là ta sẽ thích ngươi mà, Đồ Tể.” Giọng hắn chua chát, gắt gỏng như thứ nước chanh vắt lẫn giấm. Âm thanh ấy quá đỗi nồng nặc, tựa như thứ chất tẩy rửa tàn nhẫn hơn là một chút vị chua thanh dùng để cân bằng món ăn. Cách hắn gọi tôi là đồ tể lúc này, tôi hiểu ngay đó là một sự nhục mạ, như thể hắn từ khước việc gọi tên tôi, hay đúng hơn là coi tôi chẳng khác nào một đứa nhóc làm thuê xơ xác nơi xưởng mổ.
 
-  
+
+
+  Chậm mất một nhịp, tôi mới cúi đầu. Dù gì thì ngay cả tôi cũng chẳng điên rồ đến mức chống đối lúc này.
 
-Theo quan sát của tôi, đó là một khối đá kích thước chừng quả dứa, lấp lánh những đốm nhỏ phản chiếu dưới ánh sáng. Nhìn bề ngoài, đáng lẽ nó phải nặng hơn thế rất nhiều, nhưng Soryl lại bưng nó nhẹ bẫng như thể một quả dừa.
+
+
+  Hắn hất cằm ra hiệu cho tôi nhập vào nhóm phụ bếp. “Ngươi và ta sẽ trò chuyện sau, nhưng trước hết, ta sẽ làm mẫu cách duy nhất có thể chấp nhận được để chế biến món ăn đòi hỏi kỹ thuật phức tạp nhất hành tinh này: súp consommé quái thú bò mộng Emphon, hay theo cách gọi của lũ gia nhân mà ta phải thừa nhận là khá thích thú với trò chơi chữ đó, súp consommé Carnephon.”
 
-  
+
+
+  Theo bản năng, tôi liền gạt phắt tuyên bố của nhà vua rằng món ăn đó lại khó đến vậy. Tôi chẳng rõ súp consommé là cái quái gì, nhưng chắc chắn nó không thể vượt quá tầm tay. Hơn nữa, trong ngành bếp, chưa từng có chuyện chỉ tồn tại duy nhất một phương cách chuẩn mực để chế biến một món ăn. Thốt ra lời ấy chỉ chứng tỏ một sự kiêu ngạo đến tột cùng.
 
-“Cô nhận ra thứ này sao?” Khóe miệng chú Cutler nhếch lên khi ông đánh giá Cori. “Cô bảo tên cô là gì ấy nhỉ?”
+
+
+  Nhưng oái ăm thay, nó khó thật. Tôi căm giận sự thật rằng đây rất có thể là món ăn đòi hỏi kỹ thuật kinh kỉnh nhất mà tôi từng phải đối mặt trong đời. Tuy nhiên, điều khiến tôi bực bội và trăn trở hơn cả là món súp consommé Carnephon này lại hoàn toàn không mang đến chút hiệu ứng Sức bền ma thuật nào. Một món ăn đòi hỏi kỹ thuật cao đến thế, khắc nghiệt đến thế, khi chúng tôi bắt tay vào làm, ngay cả thành phẩm của Đầu Bếp Ilantra cũng chưa thể coi là hoàn hảo tuyệt đối. Winta, người giỏi nhất trong đám chúng tôi, thậm chí còn chưa tái hiện nổi sắc độ màu chuẩn xác, còn thành phẩm của tôi ư? Thảm hại. Ấy vậy mà sau tất cả những kỳ công đó, nó lại chẳng đem lại chút Sức bền ma thuật nào.
 
-  
+
+
+  Đầu Bếp Ilantra từng đề cập rằng món súp này vốn được dùng làm nguồn cung cấp năng lượng ma thuật Endurium cốt lõi trong một số Đại công thức ma thuật. Thế nhưng, tôi không tài nào tưởng tượng nổi vị đầu bếp nào lại dám mạo hiểm đánh cược cả một Đại công thức ma thuật vào một bát consommé mà tỷ lệ thất bại cũng cao ngang ngửa khả năng thành công.
 
-“Đáng lẽ chúng đã tuyệt tích từ lâu rồi mới phải,” Cori lảng tránh câu hỏi. “Sao ông lại sở hữu được một quả?”
+
+
+  Chính điều này giúp tôi vỡ lẽ ra rằng: thịt không phải là tất cả. Ta chẳng thể chỉ đơn thuần nhồi nhét thêm thịt là sẽ trở nên mạnh mẽ hơn. Dĩ nhiên, bài học ấy tôi đã từng kinh qua từ nhiều tháng trước, khi loay hoay sáng tạo một Đại công thức ma thuật từ tảng bắp quái thú Bò sát Carnephon đánh cắp được. Nhưng nói theo cách ngôn của xứ Semoli, lúc ấy tôi chỉ đang thử vận may một cách vô định. Còn giờ đây, tôi nhận ra ngay cả sự hoàn hảo về kỹ thuật cũng chẳng thể bảo chứng cho bất cứ điều gì.
 
-  
+
+
+  Mối hoài nghi ấy thôi thúc tôi băn khoăn: *Rốt cuộc người ta đã làm cách nào để chế biến thịt quái thú bò mộng Emphon thành một Đại công thức ma thuật?*
 
-“Nó đã ở trong gia đình chúng tôi qua nhiều thế hệ rồi,” Soryl nhấn mạnh đầy ẩn ý.
+
+
+  Nhưng tôi chẳng có nhiều thời gian để thắc mắc, bởi nhà vua đã nhanh chóng hiện thực hóa lời đe dọa của hắn. Sau khi nghe từng người trình bày thành phẩm rồi tuôn ra những lời phê bình cay nghiệt và tàn nhẫn, hắn đuổi tất cả ra ngoài, chỉ giữ lại Đầu Bếp Ilantra và tôi để nói chuyện riêng.
+
+
+
+  “Ta phải thừa nhận, tên Đồ Tể ạ, ta đã rất mong chờ cuộc gặp này. Theo lời miêu tả của Người Tiêu Thụ Tối Cao, ta cứ ngỡ ngươi phải là một ác quỷ cao ba mét, mồm sùi bọt mép và vấy đầy máu tươi. Hóa ra ngươi chẳng khác nào một đứa trẻ. Cao thì có cao đấy, nhưng chẳng thấm vào đâu.”
+
+
+
+  Tôi không đáp lời. Bởi sao tôi có thể lên tiếng được cơ chứ? Hơn nữa, mỗi lần hắn cất giọng, quai hàm tôi lại nghiến chặt đến ken két. Giọng nói đó. Ánh mắt đó. Thần linh ơi.
+
+
+
+  “Chỉ được nói khi ta cho phép, tên Thứ Phẩm!” Nhà vua quát lên ra lệnh.
+
+
+
+  “Vâng, thưa ông,” tôi đáp lời, tỏ vẻ phục tùng nhưng ẩn chứa sự chống đối ngầm.
+
+
+
+  Hắn cất tiếng cười lớn. “Ta thích cái cách lũ chúng mày biến những từ đó thành một câu nguyền rủa. Thật đấy. Ngươi có thấy uất hận không, tên Thứ Phẩm, khi đã ngoi lên được vị trí cao như thế này mà vẫn hoàn toàn bất lực? Ilantra bảo ngươi chẳng khác nào một tên bồi bàn thảm hại, dù chính ngươi lại là kẻ đã sáng tạo ra Đại công thức ma thuật đầu tiên trong suốt một thế hệ qua.”
+
+
+
+  “Tôi hoàn toàn hài lòng với vị trí hiện tại của mình, thưa ông. Tay nghề của Đầu Bếp Ilantra là điều không ai sánh nổi.”
+
+
+
+  Hắn nhếch môi cười khẩy. “Đầu bếp không ai sánh nổi về sự thiếu sáng tạo, điều đó thì ta phải công nhận. Nói cho ta nghe xem, Đầu Bếp, trên đời này có ai lại chưa từng sáng tạo ra nổi một công thức nguyên bản nào nhiều như bà không?”
+
+
+
+  “Thần không dám lạm bàn, bẩm Bệ Hạ.”
+
+
+
+  “Thế mà bà lại rất hay lên mặt dạy đời và đưa ra những câu hỏi nhạt nhẽo biết bao.” Hắn quay sang nhìn tôi, đảo mắt chế giễu. “Nói đến câu hỏi, tên Thứ Phẩm, ta đang có vô số điều muốn hỏi ngươi đây. Vyson!”
+
+
+
+  Trung Úy Vyson vênh váo bước vào phòng.
+
+
+
+  “Khống chế nó lại.”
+
+
+
+  Trước khi tôi kịp phản ứng, Vyson đã nhanh như chớp khóa chặt hai tay tôi ngoặt ra sau lưng, thực hiện một đòn quật ngã với tốc độ phi thường bộc phát từ Sức bền ma thuật.
+
+
+
+  “Hãy bắt đầu bằng một câu hỏi đơn giản,” nhà vua vừa miết lưỡi dao lọc thịt lên thanh mài vừa tềnh tàng lên tiếng. “Ngươi đã từng chạm vào Cội Nguồn chưa?”
+
+
+
+  “Cái g...”
+
+
+
+  Cơn đau nhói buốt như một chiếc dao nhỏ đâm thẳng vào đại não, cướp sạch mọi lời lẽ tôi định thốt ra. Câu hỏi của hắn thậm chí còn sắc bén hơn, cay xè như axit, bốc cháy hừng hực và vang vọng từ sâu thẳm đầu óc tôi.
+
+
+
+  *Ngươi đã chạm vào Cội Nguồn chưa, đồ gián mạt hạng?*
+
+
+
+  “Tôi không biết đó là cái gì!” Tôi gào lên, đầu óc đau buốt như bốc hỏa.
+
+
+
+  Nhà vua nghiêng đầu ngẫm nghĩ. Phía sau hắn, Đầu Bếp quay mặt sang hướng khác.
+
+
+
+  *Ngươi đã ăn cắp Đại công thức ma thuật từ ai?*
+
+
+
+  Hắn lại dội câu hỏi ấy vào tâm trí tôi. Những lời lẽ cháy bừng hệt như thứ bùn đặc chói lửa mà chúng từng đổ lên người Bessa, một ngọn lửa sinh ra chỉ để kéo dài sự thống khổ.
+
+
+
+  “Không có ai cả!” Tôi lắp bắp, cố làm hắn dừng lại. Tôi buộc phải khiến hắn dừng lại. Cơn đau này không giống bất kỳ nỗi đau nào tôi từng nếm trải trước đây, thậm chí còn khủng khiếp hơn gấp nhiều lần.
+
+
+
+  *Vậy bằng cách nào?*
+
+
+
+  Tâm trí tôi đau đớn như bị lưỡi dao của hắn cứa vào khi hắn cố khoét sâu vào ký ức. Tôi thoáng thấy những hình ảnh chớp nhoáng về đêm hôm đó ở Cánh Đồng Cỏ Cao; những ký ức về món taco của Chú Macen; những hương vị cuồn cuộn xoay mòng quanh tôi. Bằng cách nào đó, bản năng mách bảo tôi phải chặn đứng ý nghĩ về thứ gia vị của Ruda, phải giấu nhẹm nó đi. Tôi liền nghĩ về hai mẹ của mình, đúng như cách tôi vẫn làm mỗi đêm để xua tan những cơn ác mộng.
+
+
+
+  Hắn mỉm cười dâm dật: “Mẹ hả? Ta khá thích mấy người phụ nữ lớn tuổi đấy. Biết đâu ta sẽ mang họ về chỗ ta.”
+
+
+
+  “Tôi sẽ giết ông,” tôi gằn giọng thề độc.
 
-  
+
+
+  “Mày dám đe dọa vua của mày sao?” Hắn tát tôi một cú giáng trời, âm thanh vang chát chúa vào những chiếc nồi đồng đang treo lơ lửng trên bệ bếp kế bên. Cơn đau buốt lan dọc gò má, nhưng chẳng thấm thía gì so với nỗi đau xé rách hộp sọ từ bên trong.
 
-Chú Cutler lườm cả hai một cái sắc lẹm. “Không phải việc của các người.”
+
+
+  *Mi đã làm ra nó bằng cách nào?*
 
-  
+
+
+  Lời hắn vang lên đầy lạnh lùng thản nhiên, nhưng áp lực từ câu hỏi lại gào thét dữ dội trong đầu óc tôi.
 
-“Đó là cái gì vậy?” Yenne gặng hỏi, giọng thoáng chút ganh tị. Chẳng mấy khi Cori biết điều gì đó mà Yenne lại mù tịt.
+
+
+  “Tôi không biết,” tôi thút thít. “Làm ơn... tôi không biết.”
 
-  
+
+
+  Lần này, những lời tiếp theo của hắn không còn vang lên trong đầu tôi nữa. Tôi thầm thấy nhẹ nhõm vì có được chút khoảng lặng khoan hồng, dẫu cho trong lòng vẫn nguyền rủa hắn không ngớt. Hắn tiến lại gần, hơi thở phả ra mùi chết chóc ngậy bơ quen thuộc của món súp kem tôm hùm. “Mi đã tìm ra công thức kiểm soát chưa?”
 
-“Một quả trứng,” Cori tuyên bố.
+
+
+  Vanil từng gọi thứ đó là Ớt ma thuật kiểm soát tâm trí. *Liệu nhà vua có biết tôi đang tìm kiếm nó không?*
 
-  
+
+
+  “Chưa,” tôi thú nhận.
 
-*“Sinh vật nào lại đẻ ra loại trứng như thế này chứ?”* Tôi hỏi. Khối đá hơi nhỏ so với trứng của loài Carnephon, nhưng lại quá lớn để thuộc về bất kỳ sinh vật nào khác.
+
+
+  “Chưa hả,” hắn gật gù, vỗ vỗ lên má tôi. “Vyson, thả nó ra. Ta không muốn nó lỡ mất buổi lễ hội. Mấy con gián chỉ có đúng một ngày nghỉ mỗi năm thôi. Thật tiếc nếu mấy bà mẹ của nó lại không gặp được nó chỉ vì chuyện này.”
 
-  
+
+
+  Tôi ngã nhào khỏi vòng tay Vyson như một bao bột mì, nhưng gã vẫn bồi thêm một cú đá cho bõ ghét.
 
-Chú Cutler búng mạnh vào tai tôi một cái. “Á!”
+
+
+  “Quỳ xuống trước nhà vua của mày đi, đồ gián mạt hạng.”
 
-  
+
+
+  Tôi gồng mình nén tiếng rên rỉ, nhất quyết không để bọn chúng đắc ý nhìn thấy sự đớn đau của mình. Trong lúc đó, nhà vua rút ra một tờ giấy da rồi nhanh tay nguệch ngoạc viết. Tôi từng tự nhủ sẽ từ bỏ ý định giết hắn khi hắn mò đến nhà bếp để đòi món tôm hùm của mình, nhưng giờ đây tôi tự thề với lòng phải làm điều đó bằng được. Có thể không phải hôm nay, nhưng chắc chắn sẽ có ngày. Hắn nghĩ mình có thể bịt miệng chúng tôi, gán cho chúng tôi cái danh lũ gián ư? Tôi sẽ cắt đứt lưỡi hắn và vứt xác hắn đến nơi mà ngay cả loài gián cũng chẳng thèm bén mảng.
 
-“Chẳng có sinh vật nào đẻ ra loại trứng này cả,” ông đáp. “Chỉ có duy nhất một cách để thu đoạt được nó.”
+
+
+  Hắn quăng tờ giấy da cho Vyson rồi buông lời: “Đúng là một thất vọng toàn tập, Đồ Tể. Hãy tận hưởng cái lễ hội ngớ ngẩn của mi đi.”
 
-  
+
+
+  Ngay khi bọn họ rời đi, Đầu Bếp vội vã lướt qua rồi quay trở lại trước cả khi tôi kịp gượng dậy đứng thẳng.
 
-Giọng Cori tràn ngập sự ghê tởm. “Phải mổ bụng và xẻ nó ra từ buồng trứng của một con Carnephon, trước khi nó kịp phát triển hoàn thiện.”
+
+
+  “Uống sữa Emphon đi,” bà nói, trao cho tôi một chiếc cốc.
 
-  
+
+
+  “Bà vừa trơ mắt đứng nhìn hắn đấy thôi,” tôi cay đắng trách móc, dù tay đã nhận lấy chiếc cốc.
 
-Mặt tôi cắt không còn một giọt máu. “Lũ Famine.”
+
+
+  Bà quay mặt đi rất lâu, lâu đến mức tôi không còn mơ hồ mong chờ một câu trả lời nào nữa. Nhưng cuối cùng, bà quay lại và cất lời: “Ta không phải là một lưỡi dao, nhóc ạ. Điều tốt nhất ta có thể làm là mài sắc những thanh thép xung quanh mình.”
 
-  
+
+
+  Tôi nhìn bà trân trối, lần đầu tiên nhận ra bà thực sự đã già đến nhường nào. Không phải cổ xưa như chú Cutler, nhưng còn lớn tuổi hơn hai mẹ của tôi, và cũng mệt mỏi chừng ấy.
 
-“Ồ, tôi từng đọc về thứ này rồi,” Yenne lên tiếng cùng một nụ cười thỏa mãn. “Vào những ngày đầu lập quốc, hoàng tộc Panchon đã tàn sát hàng tá bò đực non để thu thập chúng. Căn phòng trong cung điện dùng để lưu giữ chúng đến nay vẫn được gọi là Nhà Trẻ. Điểm thú vị là chúng không hề bị hư hỏng hay thối rữa như trứng thông thường.”
+
+
+  “Cội Nguồn là gì vậy?” Tôi hỏi.
 
-  
+
+
+  “Chỉ là dăm ba thứ nhảm nhí mà thỉnh thoảng hắn cứ lải nhải không ngớt. Hắn bảo tổ tiên hắn, Almon, đã chạm vào nó.”
 
-“Chúng có gì đặc biệt chứ?” Tôi hỏi, giơ tay đón lấy quả trứng từ Soryl, người trông chẳng mấy vui vẻ khi phải giao nó ra. “Tại sao lại thực hiện một hành vi điên rồ đến mức ấy?”
+
+
+  “Almon, vị vua đầu tiên của Panchon sao?”
 
-  
+
+
+  “Đúng thế, chính hắn là kẻ đã phát minh ra Ớt ma thuật kiểm soát tâm trí cùng hàng tá Đại công thức ma thuật khác. Cũng chính hắn đã thành lập nên ngôi học viện này.”
 
-“Một Đại công thức,” Cori nói, “được gọi là Món trứng Toàn tri.”
+
+
+  Việc phát minh ra Ớt ma thuật kiểm soát tâm trí vốn chỉ là một lời dối trá, nhưng tôi không đời nào nói cho Đầu Bếp biết điều đó. “Tại sao hắn lại hỏi liệu tôi có chạm vào nó hay không?”
 
-  
+
+
+  Bà cầm lấy chiếc cốc trên tay tôi: “Đi tận hưởng lễ hội đi. Để đó ta dọn đống bát đĩa này cho.”
 
-“Một cái tên gượng ép và ngớ ngẩn,” chú Cutler càu nhàu. “Làm như thứ sức mạnh đó thực sự tồn tại không bằng. Phải gọi là Món trứng Thấu thị mới chuẩn, nó cho phép người ta nhìn thấu quá khứ.”
+
+
+  Với mối đe dọa từ Vyson cùng gã nhà vua vốn sẵn sàng tấn công tôi ngay trước mặt những người Thượng Phẩm khác, tôi đời nào dám mạo hiểm đi gặp chú Cutler với hai bàn tay trắng. Khi Đầu Bếp Ilantra bắt đầu rửa bát, tôi liền rút một thanh đao cưa đồ tể ra khỏi giá ở khu vực pha thịt rồi giấu vào giữa cạp quần và thắt lưng phía sau. Lưỡi thép lạnh ngắt, nếu tôi cử động mạnh, nó sẽ cọ xát đến mức ê buốt cả mông, nhưng cảm giác an tâm mà nó mang lại thì không gì sánh bằng.
 
+
+
   
 
-*“Quá khứ sao?”* Tôi lặp lại.
-
-  
+
+
+  “Lão ta thực sự đã hỏi anh có chạm vào nó hay không ư?” Lưu Trữ Viên cất tiếng hỏi.
 
-Chú Cutler thở dài. “Soryl, đi lấy dụng cụ của tao lại đây. Rõ ràng lũ trẻ ranh này quá vô dụng để làm nên tích sự gì. Chắc tao phải tự tay làm lấy thôi.”
+
+
+  “Chuyện đó làm cô ngạc nhiên lắm sao?”
 
-  
+
+
+  Lưu Trữ Viên phớt lờ câu hỏi. “Và anh đã trả lời một cách thành thật chứ? Anh đã chạm vào nó rồi sao?”
 
-“Không,” tôi nói, bước về phía căn bếp trình diễn của ông. “Cháu sẽ làm. Ông cứ bảo cháu phải làm gì đi.”
+
+
+  Một tiếng thở dài thoát ra từ lồng ngực tôi, hệt như hơi tàn của kẻ sắp chết. “Cô thích hỏi đi hỏi lại cùng một câu hỏi lắm à? Tôi thề đấy, cô chẳng khá hơn lão ta là bao. Hay tôi nên đối xử với cô hệt như cách tôi từng đối xử với lão nhỉ?”
 
-  
+
+
+  “Cứ tự nhiên. Quỳ xuống đây và cầu xin cho những mạng sống vô nghĩa khác nữa đi.”
 
-Tôi chẳng hề hào hứng gì với ý nghĩ phải chế biến một thứ cổ xưa đã nằm trong gia đình họ qua nhiều đời, lại còn được thu hoạch bằng phương thức tàn bạo và vô nhân tính đến thế; thế nhưng, khả năng nhìn thấu quá khứ lại không phải điều tôi sẵn lòng bỏ lỡ. Tôi muốn biết chính xác chuyện gì đã xảy ra với chú Cutler.
+
+
+  Đôi mắt tôi lóe lên từ bên trong lồng sắt. “Chúng không hề vô nghĩa.”
 
-  
+
+
+  “Anh cứ khăng khăng thế đi. Nhưng làm ơn nhanh lên cho. Tôi chắc anh đang sốt ruột đến mức muốn chìm đắm vào việc kể lể về cô nàng Cori hoàn hảo cùng mối tình thời thiếu niên sến súa đến phát bực của hai người rồi chứ gì.”
 
-Bọn chúng đã tấn công và sát hại những người tôi coi là bạn bè. Tôi muốn chúng phải trả giá bằng mạng sống. Dù biết Vyson có nhúng tay vào, tôi vẫn cần thêm thông tin trước khi ra tay hành động. Tra tấn hắn sẽ chẳng đi đến đâu trừ khi hắn chịu khai ra đồng bọn. Tôi không muốn trông chờ vào sự may rủi đó. Tôi từng trải qua cuộc thẩm vấn rồi, nói dối đối với kẻ phản bội chẳng có gì khó khăn cả.
+
+
+  “Ồ, tôi háo hức lắm chứ, nhưng trước tiên chúng ta phải đến gặp chú Cutler đã. Hay cô thà không muốn biết những gì tôi khám phá ra về Cội Nguồn vào đêm hôm đó?”
 
-  
+
+
+  *“Cái gì?”* Lưu Trữ Viên suýt đánh rơi chiếc bút. *“Cutler thì có thể biết gì về Cội Nguồn cơ chứ?”*
 
-Tôi cần nhiều hơn thế, và điều đó đồng nghĩa với việc tôi phải đập vỡ một quả trứng còn tồn tại lâu hơn bất kỳ ai đang sống trên đời này.
+
+
+  “Lắng nghe cho kỹ vào,” tôi nhại lại.

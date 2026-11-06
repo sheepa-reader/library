@@ -1,293 +1,259 @@
-# 56 Một bữa ăn đáng nhớ
+# 49 Đồ Tể, Binh Lính, Đầu Bếp
 
-*Món Thứ Sáu • Thịt Ướp Emphon*
+Khi chúng tôi lao qua bãi chiến trường rực lửa, cả nhóm vội vã lùng sục nhu yếu phẩm từ những cỗ xe chở lương thực. Ớt bột xông khói. Tiêu xay. Muối. Những chiếc bánh tortilla và cà chua cây tomatillo được lôi ra từ một chiếc lò nướng thịt bị lật úp.
 
-Chiếc bàn dài được bày biện đủ chỗ cho hai mươi người, nhưng phần lớn các ghế đều bỏ trống. Tôi bị bắt ngồi đối diện với tên vua, Laven ngồi bên phải tôi, ngay trước mặt Cori. Khi chúng tôi vừa an tọa, ba chiếc ghế cuối cùng nhanh chóng có người lấp vào. Đó là những Thợ Săn Mặt Nạ đeo mặt nạ được các Thợ Săn Mặt Nạ khác dìu vào tận chỗ, một cảnh tượng khiến tôi thấy thật kỳ quặc. Một kẻ ngồi cạnh tôi, còn hai kẻ kia ngồi bên phía Laven.
+
+
+  Laven ném cho tôi một ngọn giáo trong lúc cậu ấy lột giáp khỏi xác một tên Lính Mổ Xẻ. Cori chộp lấy cây cưa phẳng. Vừa chạy đến bên con quái thú bò mộng Emphon đã gục ngã, em liền bắt tay vào xẻ thịt.
 
-  
+
+
+  Lúc bấy giờ, một nửa số chiến sĩ của Bầy Đàn đã ngã xuống. Ba trong số tám con quái thú bò mộng Emphon cũng chung số phận. Rải rác khắp Cánh Đồng Cỏ Cao, quân Bầy Đàn được tiếp sức bằng những Đại công thức ma thuật khác, như Súp bắp bò phóng hỏa hay Thịt băm Emphon, đang quần thảo ác liệt với Lính Mổ Xẻ trên mặt đất. Những người Thứ Phẩm cầm chĩa ba lao vào đụng độ với tầng lớp Thượng Phẩm, những kẻ đang vung vẩy mớ vũ khí mang theo chỉ để phòng bị cho chính tình huống này. Trận chiến kinh thiên động địa giữa Vanil và Angus vẫn làm rung chuyển cả bầu trời, trong khi tôi thuần thục lột từng mảng vảy để lộ thớ thịt đỏ tươi của con quái thú bò mộng Emphon non dưới sự trợ giúp đắc lực từ Cori.
 
-Ngay khi tất cả thực khách đã an tọa, các phần ăn lập tức được bưng lên trên những chiếc đĩa bạc sáng bóng có nắp đậy. Mỗi phần gồm sữa, ớt và bánh taco được đặt trước mặt Cori đúng như dự liệu. Phần ớt còn lại được chuyển cho Người Tiêu Thụ Tối Cao, còn các phần bánh taco được chia cho Dyl, Yenne và Wensoan. Từ một gian phòng khác, một Thợ Săn Mặt Nạ bưng ra một chiếc nắp đậy bằng vàng, để lộ chiếc bát bằng vàng đựng món súp bisque màu cam sóng sánh bên dưới, rồi đặt xuống trước mặt tên vua.
+
+
+  Laven trố mắt nhìn đầy kinh ngạc, miệng lẩm bẩm vài câu vô nghĩa rằng mọi chuyện chẳng hề giống như những gì cậu từng tưởng tượng. Tôi đoán cậu đã nghĩ cảnh tượng này sẽ trang nghiêm hơn nhiều.
 
-  
+
+
+  Khi đã lọc xong những miếng thịt chuẩn xác, tôi thoa đều Gia vị ướp Emphon rồi mượn chiếc chảo lòng sâu của Laven. Chiếc chảo ấy tuy không thể sánh bằng vỉ nướng chuyên dụng, nhưng khói lửa từ chiến trường đã ám chặt vào lớp gang dày, và tôi biết điều đó sẽ mang lại hương vị đậm đà không gì sánh bằng. Tôi thả vào chín miếng thịt, nhiều hơn công thức thông thường một miếng cho mỗi phần ăn, rồi rưới nước cốt chanh lên trên và đảo nhanh hai mặt. Đoạn, tôi chộp lấy ngọn giáo vừa nhặt để làm xiên nướng, chậm rãi xoay tròn từng miếng thịt trên một cỗ xe đang bốc cháy ngùn ngụt, lòng thầm mừng vì bản thân không phải tự thiêu bỏng đôi bàn tay mình thêm một lần nào nữa.
 
-Toàn thân tôi co rúm lại trước mùi hương ấy. Đó là mùi tôm hùm Thượng Phẩm, nồng đậm vị biển khơi. Dạ dày tôi thắt lại bởi một cảm giác quen thuộc đến rợn người, đến mức tôi ngỡ như mình sắp nôn mửa vì phải ở quá gần nó.
+
+
+  Những phút giây ấy chẳng khác nào chốn địa ngục trần gian.
 
-  
+
+
+  Chúng tôi vừa nấu nướng vừa phải cúi rạp người ẩn nấp trước những đợt càn quét ầm ầm ngay trên đầu của lũ quái thú bò mộng Emphon. Lòng tôi quặn thắt xót xa khi tận mắt chứng kiến hai chiến sĩ Bầy Đàn quen mặt lần lượt hứng trọn những cú húc thủng bụng và toạc ngực. Tôi liên tục hoài nghi, dằn vặt bản thân hết lần này đến lần khác.
 
-“À, phải rồi,” tên vua nhận xét, khóe môi nhếch lên trước nỗi thống khổ của tôi, “mày bị dị ứng.” Hắn phẩy làn khói bốc lên về phía mũi mình, rồi thổi một luồng hơi về phía mặt tôi. “Đó chính là mấu chốt của toàn bộ kế hoạch này, mày biết không? Ta đã lo lắng suốt nhiều tuần liền rằng mày có thể cướp lấy bữa ăn khỏi tay ta rồi nuốt thật nhiều để giành quyền kiểm soát. Nhưng khi ta nghe Đầu Bếp Ilantra tiết lộ rằng mày không thể ăn được nó?...” Hắn chụm các đầu ngón tay lại, đặt lên môi hôn một cái rồi bung xòe vào không trung. “Hoàn hảo! Rốt cuộc thì con khốn đó cũng biết được một điều hữu ích.”
+
+
+  Đến khi thịt đạt độ chín tái vừa vặn, Vanil, với cái chân tập tễnh nặng nề hơn, cùng một chiến sĩ Bầy Đàn khác là những người duy nhất còn trụ lại để chống chọi với năm con quái thú bò mộng Emphon còn sống sót. Thật nhanh chóng, tôi hâm nóng bánh tortilla trên sống thanh kiếm của Cori, còn Laven thì kịp hoàn thành phần sốt salsa xanh.
 
-  
+
+
+  Cùng nhau nấu nướng giữa làn tên mũi đạn, tâm trí tôi bỗng nhớ về chú Macen và chiếc bánh taco hoàn hảo. Chiếc bánh ngập tràn gia vị nồng nàn và thảo mộc tươi roi rói. Lớp sốt salsa mát lạnh phủ lên thớ thịt nóng hổi, cả hai hòa quyện căng tràn nhiệt lượng và sức sống. Tôi nhớ về những chiếc bánh taco ở quán rượu của mình, với lá xương rồng nopales mang lại vị đắng chát giòn rụm. Vị đắng hệt như nỗi căm hờn ngút ngàn tôi dành cho đám Thượng Phẩm. Tiếng giòn rụm tựa âm thanh tôi nghiền nát xương cốt của chúng dưới chân. Và tôi nghĩ về việc Đại công thức ma thuật của mình có thể cứu rỗi những con người Thứ Phẩm ra sao.
 
-“Đó là món gì?”
+
+
+  Đồng bào của tôi, những con người ăn bánh taco từ các bếp ăn tập thể Thứ Phẩm và say sưa tranh luận về cách ép một chiếc vỏ bánh tortilla sao cho chuẩn mực nhất. Những con người khinh miệt món mousse cùng thịt băm béo ngậy của nhà vua. Những con người yêu tha thiết những chiếc bánh taco rẻ tiền, ngập dầu chết tiệt hơn bất cứ thứ gì trên đời sau một ngày dài làm kiếp lao dịch hợp pháp. Tôi nghĩ về cảm giác no nê trọn vẹn mà một khẩu phần thịnh soạn đến thế sẽ mang lại, một bữa ăn đủ đầy mà người dân của tôi hiếm khi nào có được trong đời. Tôi nghĩ về cách cơ thể mình sẽ được Cường hóa vững chãi nhờ nó, kiên cố hệt như lúc tôi nuốt trôi món thịt băm Thượng Phẩm nóng rát ngu ngốc kia. Đám Thượng Phẩm tưởng rằng chỉ có chúng mới thấu hiểu sức mạnh là gì sao? Xương thép và nắm đấm sắt. Cứ nuốt trọn chúng đi.
 
-  
+
+
+  Chính tầng lớp Thứ Phẩm mới là những người hiểu rõ sức mạnh thực sự. Quái thú bò mộng Emphon, thứ năng lượng ma thuật Endurium thấm sâu vào tận tủy xương, bọn họ mới là những người thấu suốt nguồn sức mạnh ấy.
 
-“Công thức để kiểm soát,” hắn đáp. “Súp bisque não. Một phần não của kẻ Thứ Phẩm, một phần súp bisque, một chút thứ bột rực rỡ của mày, cùng một ít loại muối mà Dyl đã tìm ra.”
+
+
+  Gia vị ướp Emphon của tôi sẽ minh chứng cho điều đó.
 
-  
+
+
+  Khi mọi thứ dần chín tới, tôi đưa mắt nhìn những người Thứ Phẩm đang co cụm run rẩy quanh chiến trường, những thân phận sợ hãi đến mức chẳng còn cất nổi bước chân để tháo chạy. Họ đã bại trận trong cuộc chiến này. Và suýt chút nữa, tôi cũng vậy.
 
-“Nhưng ông đã có món ớt rồi cơ mà.”
+
+
+  Thế nhưng Cori đã kéo tôi đứng dậy. Laven đã chứng minh cho tôi thấy nơi đây vẫn còn những con người tử tế.
 
-  
+
+
+  Sẽ không còn những người như chị Meg phải chịu kết cục ấy nữa.
 
-Trước vẻ bối rối của tôi, hắn bật cười giòn giã: “Mày vẫn chưa nhận ra sao? Đấng Tiêu Thụ à, mày còn cùn hơn mấy con dao thời thơ ấu của ta đấy. Còn gì tuyệt vời hơn việc kiểm soát loài quái thú Bò sát Carnephon hả Đồ Tể? Thử đoán xem nào.”
+
+
+  Và sẽ không còn ai phải co cụm sợ hãi nữa.
 
-  
+
+
+  Thầm hy vọng bản thân đã truyền dẫn đủ năng lượng ma thuật Endurium vào tổng thể món ăn, tôi trút những khối thịt tẩm Gia vị ướp Emphon vào vỏ bánh tortilla nướng vội giữa chiến trường, chất đầy các loại đồ ăn kèm rồi rưới đẫm lớp sốt salsa của Laven lên trên.
 
-“Giết chết ông?”
+
+
+  Tôi đưa cho Laven phần bánh taco của cậu:
 
-  
+
+
+  “Cậu có chắc muốn làm điều này không?”
 
-“Kiểm soát con người,” hắn trả lời. “Nhưng tiếc thay, món này vẫn còn nóng quá. Chúng ta đành phải đợi một lát.” Hắn đưa tay chạm vào mảnh giẻ bịt miệng của Cori, khẽ kéo nó xuống. “Ăn đi.”
+
+
+  “Không,” cậu thừa nhận. “Nhưng tôi sẽ không giương mắt nhìn thành phố chìm trong biển lửa.” Đôi mắt cậu bừng sáng lên ngay từ miếng cắn đầu tiên. “Mặt trời bỏng rẫy ơi, Paprick, món này ngon tuyệt đỉnh đấy!”
 
-  
+
+
+  Tôi cắn một miếng bánh của mình, các giác quan lập tức bùng nổ đến mê đắm khi tôi chạm tới ranh giới tột cùng của hương vị: chỉ thêm một chút cay nồng nữa thôi là đủ gây choáng ngợp, chỉ thêm một chút chua thanh nữa thôi là ruột gan cồn cào, đậm đặc ma thuật của quái thú bò mộng Emphon đến mức không tưởng. Cori khẽ thở dốc khi cắn ngập miệng, đồng tử em giãn to trước luồng Sức bền ma thuật đang cuộn trào.
 
-Vì hai tay Cori đã bị trói chặt, đích thân tên vua nâng cốc sữa lên sát môi em. Đó là khoảnh khắc sinh tử trong kế hoạch của tôi. Nếu hắn nhận ra bất kỳ điều gì bất thường, tất cả chúng tôi coi như xong đời. Hắn thậm chí còn đưa cốc sữa lên mũi ngửi thử. Ngay lúc ấy, tôi thầm cảm ơn hắn vì đã nấu món súp bisque não, bởi mùi tôm hùm nồng nặc đã che giấu cơn buồn nôn vì căng thẳng tột độ của tôi thành triệu chứng dị ứng thông thường. May thay, hắn không phát hiện ra điều gì khác lạ, liền áp miệng cốc vào môi Cori.
+
+
+  Mỗi người chúng tôi giờ đây đã vươn cao sừng sững tựa một tòa chung cư, và tôi biết rằng Cường hóa Ma thuật của mình đã phát huy trọn vẹn tác dụng. Cách duy nhất để hóa thân thành khổng lồ mà vẫn tiếp tục dung nạp thêm sức mạnh là phải giống như chính những tòa nhà ấy và loài quái thú bò mộng Emphon: cơ thể phải được nâng đỡ bằng một khung xương thấm đẫm năng lượng ma thuật Endurium. Các khớp ngón tay tôi ánh lên sắc xanh mòng két, cứng cáp chẳng khác nào quặng Endurmite.
 
-  
+
+
+  Chúng tôi nhanh chóng vớ lấy những mảnh giáp và vũ khí còn vương vãi trên mặt đất. Tôi cầm một cây rìu, Cori chọn một thanh kiếm, còn Laven khiến tôi không khỏi kinh ngạc khi nhấc bổng chiếc chân quái thú bò mộng Emphon mà Vanil vừa chặt đứt ban nãy:
 
-Đôi mắt em thoáng liếc về phía tôi. Tôi khẽ gật đầu, cố hết sức truyền đi một tia cảnh báo kín đáo nhất qua ánh mắt, chỉ mong em sẽ không phản ứng quá mạnh. Khoảnh khắc ấy dường như kéo dài đằng đẵng như cả năm trời. Đôi môi mà tôi vốn dĩ quá đỗi thân thuộc, những giọt sữa rỉ ra nơi khóe miệng vì góc nghiêng vụng về của tên vua, rồi đồng tử của Cori giãn to khi hương vị lạ lùng bất ngờ lan tỏa trên đầu lưỡi. Nhưng tôi hy vọng nó đủ quen thuộc để nhắc em nhớ về lời hứa năm xưa và ý nghĩa đằng sau đó.
+
+
+  “CÂY CHÙY NÀY ĐẬP NHAU THÌ CHẲNG KÉM BẤT KỲ VŨ KHÍ NÀO ĐÂU!”
 
-  
+
+
+  Tiếng thét của cậu khiến những thành viên còn lại của tổ chức Bầy Đàn nhận ra tầm vóc khổng lồ của chúng tôi. Cả hai người họ đang tựa lưng vào một tòa nhà, lăm lăm vũ khí trong tay khi năm con quái thú bò mộng Emphon còn lại từng bước khép chặt vòng vây. Đó là một hành vi hoàn toàn phi tự nhiên. Ngoài cõi hoang dã, chúng chẳng bao giờ dồn con mồi vào góc kẹt bài bản như thế. Rõ ràng kẻ đang thao túng lũ quái thú này chiến đấu hệt như một con người, biết tận dụng triệt để ưu thế về quân số.
 
-Cori bị sặc. Vị giác ập đến quá đột ngột khiến em hoàn toàn trở tay không kịp, dẫu tôi đã ra hiệu trước, đến mức em không tài nào kìm nén nổi.
-
-  
-
-Chúng tôi tiêu rồi.
-
-  
-
-Thế nhưng, với tất cả sự ngạo mạn vốn có, tên vua lại đinh ninh rằng mình đã hoàn toàn thắng thế. “Mặt trời thiêu đốt, con rệp này chưa từng nếm qua mùi sữa bao giờ,” hắn cười khúc khích, liếc mắt nhìn sang viên Thống lĩnh.
-
-  
-
-“Một đặc ân mà ả không xứng đáng nhận,” Wensoan phụ họa. Hắn luôn luôn là một kẻ bợ đỡ đê hèn như thế.
-
-  
-
-Cori nuốt trọn phần còn lại theo sự thúc ép của tên vua. Ngay lập tức, vết thương đã đóng vảy trên gò má em bắt đầu khép miệng. Dáng vẻ kiên cường quen thuộc dần trở lại trên thân hình em, và đôi cánh tay phi thường ấy bắt đầu ghì nhẹ vào những sợi dây trói sau lưng ghế một cách vô cùng kín đáo.
-
-  
-
-Kế hoạch của tôi chưa từng là tự tay cứu lấy Cori. Mục đích của tôi là trao cho em sức mạnh để tự giải cứu chính mình. Và bước đầu tiên đã thành công mỹ mãn khi cơ thể Cori dần bình phục.
-
-  
-
-Tôi chỉ có thể hy vọng em hiểu được nguồn ma thuật Cường hóa mà tôi đã truyền vào, đồng thời biết cách vận dụng nó.
-
-  
-
-“Tuyệt vời,” tên vua lên tiếng. “Bây giờ hãy nếm thử chỗ còn lại.”
-
-  
-
-Vào giây phút ấy, tôi tự nhủ rằng mọi chuyện rồi sẽ ổn thỏa. Hiện tượng bội thực ma thuật giết chết người ta là bởi nó tàn phá thể xác, làm tràn ngập quá nhiều năng lượng ma thuật Endurium. Nhưng sữa Emphon lại có khả năng chữa lành cơ thể. Liệu nó có thể hóa giải được tổn thương này chăng?
-
-  
-
-Bất chợt, một nỗi ân hận dâng lên trong lòng tôi trước canh bạc liều lĩnh mà mình vừa dấn thân vào. Làm sao tôi có thể đem sinh mạng của người khác ra đặt cược thay cho họ cơ chứ? Suýt chút nữa tôi đã vươn tay ngăn Cori lại trước khi em nếm thêm bất cứ thứ gì, nhưng hành động tiếp theo của tên vua đã vô tình giải vây cho tôi một phen thót tim.
-
-  
-
-“Chỉ cần nếm một chút để chắc chắn rằng không có độc,” hắn nói. “Ta sẽ không để ngươi chết vì bội thực ma thuật trước khi biết rõ liệu độc dược có kết liễu được ngươi hay không đâu.”
-
-  
-
-Tâm trí tôi nhẹ nhõm phần nào khi Cori chỉ cắn một miếng taco thật nhỏ và húp một muỗng súp ớt. Dù vậy, món súp ớt ấy vẫn là một thử thách nghiệt ngã đối với em. Việc phải nuốt máu người vào bụng, dẫu chẳng biết là máu của ai, vẫn là một cực hình tàn nhẫn. Nỗi căm hờn siết chặt, biến nét mặt em thành một chiếc mặt nạ thách thức, bất khuất.
-
-  
-
-Tên vua gật đầu tỏ vẻ hài lòng rồi ra hiệu cho người phục vụ.
-
-  
-
-Tôi tưởng sát thủ Thợ Săn Mặt Nạ sẽ dọn đĩa bánh taco và bát súp ớt đi, nhưng không, bọn chúng lại bưng chúng đi vòng quanh bàn. Chúng đặt bát súp trước mặt tôi và mang đĩa taco đến cho một trong ba tên Thợ Săn Mặt Nạ đang đứng cạnh Laven và tôi ở phía bên này bàn ăn.
-
-  
-
-Cơn hoảng loạn lập tức cuộn trào trong tôi. Nếu hắn đặt nó xuống trước mặt, tôi sẽ buộc phải ăn. Nhưng bản thân tôi vốn đã phải gồng mình duy trì Sức bền ma thuật. Đã hai lần trong đời tôi phải đeo cặp kính áp tròng chết tiệt ấy, và giờ đây cơn ác mộng đó lại quay trở lại ám ảnh tôi. Tôi phải tháo chúng ra ngay lập tức.
-
-  
-
-“Tôi từ chối,” tôi gằn giọng, trừng mắt nhìn tên vua.
-
-  
-
-“Ồ? Ta nghĩ ngươi sẽ sớm tìm thấy đủ động lực thôi.” Hắn bật cười khoái trá, nhưng tôi không sao hiểu nổi ý hắn. Cori đã gần như an toàn rồi cơ mà.
-
-  
-
-Tên vua búng tay. Từng tên Thợ Săn Mặt Nạ lần lượt gỡ mặt nạ ra. Những kẻ ở phía đối diện bàn ăn thao tác rất nhanh bằng những động tác thuần thục, nhưng ba kẻ ở phía bên bàn của tôi lại lóng ngóng, vụng về và mất nhiều thời gian hơn hẳn.
-
-  
-
-Tim tôi như ngừng đập.
-
-  
-
-Phía bên trái tôi, kẻ nhận lấy chiếc bánh taco chính là Vanil.
-
-  
-
-Phía bên phải Laven chính là hai mẹ của tôi.
-
-  
-
-Tôi từng thực sự nghĩ rằng họ đã chết. Cho đến tận hôm nay, tôi vẫn mường tượng cảnh họ bước ra từ chốn hoang dã, bị thất lạc khi Khu Thứ Phẩm Số 3 sụp đổ rồi trở về sau nhiều năm, bởi dẫu sao, viễn cảnh ấy vẫn dễ chấp nhận hơn những gì đang diễn ra trước mắt. Tấm giẻ bịt miệng được gỡ khỏi Vanil, Sesa và Asabi. Ngay lập tức, hai mẹ của tôi bắt đầu cất lời dặn dò yêu thương và trao cho tôi những lời động viên, nhưng nhà vua đã quát ngang: “Đủ rồi!”
-
-  
-
-Một tên Thợ Săn Mặt Nạ dí mũi giáo vào sau gáy tôi.
-
-  
-
-Nhà vua vung tay ngang qua bàn tiệc. “Kẻ nào có taco, hãy ăn thật nhanh rồi lập tức đi vòng qua bàn, tiến về phía những cánh cửa ở hai bên để bước ra ngoài vườn chuẩn bị cho quá trình biến đổi. Những kẻ không có phần sẽ ở lại. Còn ngươi, Đồ Tể, ngươi sẽ dùng loại Ớt ma thuật kiểm soát tâm trí - Đại công thức 5 để khống chế tên thủ lĩnh của ngươi, ép hắn tới chỗ những người thuộc tầng lớp Thứ Phẩm còn lại, và hắn sẽ ra tay tiêu diệt toàn bộ bọn chúng. Yenne và Dyl sẽ hỗ trợ ngươi việc này. Trong khi đó, Wensoan sẽ tận dụng vóc dáng đồ sộ của mình để treo cổ hai mẹ của ngươi cùng thằng nhóc nhà Florento lên những thanh xà trên đỉnh cung điện. Nếu ngươi chọn không khống chế con chuột phiến quân đó, bọn chúng sẽ bị thả rơi xuống, và Người Tiêu Thụ Tối Cao Orega sẽ lập tức nắm quyền kiểm soát để tiếp tục cuộc tàn sát. Đã rõ chưa?”
-
-  
-
-“Tại sao ông lại giết tất cả những con người này?” Mẹ tôi cất tiếng hỏi. “Họ đã làm gì nên tội mà phải chịu đựng điều này?”
-
-  
-
-“Ngươi có biết đặc quyền lớn nhất của một bậc quân vương là gì không?” Tên vua hỏi ngược lại.
-
-  
-
-“Tôi có thể kể ra vài điều đấy,” tôi đáp.
-
-  
-
-“Là thông tin. Mọi cuốn sách, câu chuyện và ký ức trên khắp đất nước này đều nằm trong tầm tay chúng ta. Tổ tiên ta từng dùng Món trứng Toàn tri để tỏ tường quá khứ. Lẽ ra họ nên hợp tác với Đế quốc quái thú lợn lòi Badgeboar sớm hơn. Bọn họ sở hữu một Đại công thức ma thuật ban cho khả năng tiên tri. Đó là năng lực nhìn thấu tương lai đấy, hỡi kẻ Thứ Phẩm! Và điều ta nhìn thấy là một sinh vật mang dã tâm tàn sát tất cả chúng ta, nuốt chửng toàn bộ thành phố này vào bụng. Ta tuyệt đối không đời nào dung thứ cho điều đó. Sự thật là,” tên vua nói tiếp, “tầng lớp Thứ Phẩm chẳng làm điều gì đáng chết cả. Họ đã sống, đã yêu thương, đã lao động để gánh vác cả quốc gia này. Nhưng một thực tế khác là họ ăn, họ bài tiết, và họ ủng hộ *hắn*. Kẻ mà họ hằng hy vọng sẽ tiêu diệt ta, vị thủ lĩnh huyền thoại đến để giải phóng họ khỏi tên vua tàn bạo. Tự thân những điều đó chẳng có gì đáng phải chịu cảnh xóa sổ hàng loạt, nhưng một cuộc chiến khác sắp sửa nổ ra. Một cuộc chiến đòi hỏi một đội quân hùng mạnh hơn bất kỳ lực lượng nào trước đây. Và ta sẽ không để lũ gián bọ bòn rút những nguồn tài nguyên ta cần dùng để chiến đấu chống lại Emphon. Vậy nên bọn chúng bắt buộc phải chết.”
-
-  
-
-Nếu muốn bước sang giai đoạn tiếp theo trong kế hoạch, tôi không thể để hắn lảm nhảm suốt hàng giờ như thế. Sức mạnh Cường hóa của Cori có thể tan biến bất cứ lúc nào. Tôi đưa tay quệt mặt như thể đang che giấu những giọt nước mắt, gạt tròng kính áp tròng ra rồi nhắm nghiền mắt lại. Không cần nhìn, tôi cắm chiếc thìa vào bát súp đặt trước mặt mình.
-
-  
-
-Tên vua mỉm cười. “Chúc ngon miệng.”
-
-  
-
-Ngay sau miếng đầu tiên, tôi đã hiểu ra rất nhiều điều về người sáng tạo nên món Ớt ma thuật kiểm soát tâm trí - Đại công thức 5. Lẽ ra hương vị của nó phải mặn chát, nồng mùi kim loại và đắng ngắt, bởi chừng ấy máu tươi thừa sức tạo ra thứ vị giác tệ hại đến vậy. Món ăn này quả thực hội tụ đủ mọi vị ấy, nhưng thực tế còn kinh khủng hơn thế gấp bội. Nó không chỉ đơn thuần là kinh tởm, mà là sự ghê tởm đạt đến mức hoàn hảo. Tôi lập tức hiểu vì sao Cori lại buồn nôn đến nhường ấy. Đó không chỉ bởi nhận thức về hành vi ăn thịt đồng loại, mà phản xạ ghê tởm của cơ thể khi nuốt xuống vốn đã được cố tình nhào nặn để trở nên đáng sợ tột cùng. Nếu tôi định tạo cho những chiếc bánh taco của mình hương vị như hiện thân hoàn hảo của trái tim Thứ Phẩm cùng ý chí vươn lên, thì thứ này chính là hiện thân hoàn hảo của cái ác và niềm hy vọng vào sự lụi tàn.
-
-  
-
-Người Tiêu Thụ Tối Cao thậm chí không hề nao núng trước mùi vị ấy. Nhà vua thì đắc chí thưởng thức, những chiếc răng nanh của hắn lấp lánh dưới ánh sáng. “Rồi ngươi sẽ quen dần với mùi vị đó thôi.”
-
-  
-
-Qua phản ứng của họ, tôi cũng hiểu thêm rất nhiều điều về hai kẻ này. Vanil từng kể cho tôi nghe rằng hoàng tộc Panchon đã đánh cắp Đại công thức ma thuật ấy. Cứ như thể được dịch chuyển vào miền ký ức bằng Món trứng Toàn tri, tôi mường tượng ra hình bóng người phụ nữ đã sáng tạo ra nó. Giữa Chiến Tranh Mười Một Công Thức, ắt hẳn bà đã thấu hiểu thế giới này ngập tràn lòng tham lam và nỗi tuyệt vọng đến nhường nào. Bà ắt hẳn biết rằng đến một lúc nào đó, sẽ có kẻ nảy ra ý định dùng chính nguồn tài nguyên mà chúng xẻ thịt, loài quái thú Bò sát Carnephon, làm thức ăn phục vụ cho cuộc tàn sát. Một mũi tên trúng hai đích. Vì thế, bà đã đi trước chúng một bước. Bằng cách hình dung ra những nguyên liệu kinh tởm nhất, thứ hương vị đáng sợ nhất để tương xứng với nguồn sức mạnh mà bà coi là vô đạo đức nhất, bà đã ép mình phải tạo ra món Ớt ma thuật kiểm soát tâm trí này. Đại công thức 5 sinh ra không phải để sử dụng, mà là để răn đe, với niềm hy vọng sẽ chẳng một ai nuốt trôi nổi thứ này, rằng họ sẽ nôn thốc nôn tháo trước khi kịp nhận được sức mạnh.
-
-  
-
-Hãy thử tưởng tượng nỗi kinh hoàng của người phụ nữ ấy khi nhận ra mức độ thèm khát bạo lực cùng sự trơ lì trước nỗi ghê tởm đến tận cùng của Almon Panchon. Hắn có thể ăn nó, có thể dùng nó thường xuyên với sức tàn phá khủng khiếp đến mức dựng nên cả một vương quốc trên xương cốt của các nạn nhân, từ con người cho tới quái thú bò mộng Emphon.
-
-  
-
-Đó chính là khoảnh khắc một giải pháp lóe lên trong đầu tôi: cách để ngăn chặn nhà vua. Cũng giống như những Đại công thức ma thuật khác, một miếng là đủ để hấp thu một phần nhỏ lợi ích của món ăn. Vậy nên tôi chỉ ăn ngần ấy. Sức bền ma thuật sưởi ấm những thớ cơ đang mỏi nhừ của tôi, xoa dịu nỗi âu lo về những điều sắp tới. Khi tôi dừng lại, tâm trí tôi mở rộng và chạm tới ba con quái thú Bò sát Carnephon có tri giác đang sợ hãi cách xa hàng cây số trong khu Trại Nhốt Pen. Chúng giật mình lùi lại trước tâm thức tôi, như dã thú né tránh ngọn lửa.
-
-  
-
-“Lên món taco!” Nhà vua phấn khích vung tay.
-
-  
-
-Dưới mũi giáo đe dọa, Vanil lao ra ngoài vườn, cơ thể ông phình to ra theo từng bước chân. Những người khác lũ lượt bám theo sau. Khi họ rời đi, Cori bắt gặp ánh mắt tôi rồi khẽ xoay bờ vai vừa đủ để cho tôi thấy em đã nới lỏng dây trói, dù bề ngoài vẫn giữ nguyên tư thế cũ. Tôi vờ như vô tình nghiêng đầu về phía chiếc ly sữa cạn, một câu hỏi thầm lặng xem em đã nhận ra tác dụng còn lại hay chưa. Cori lắc đầu. Tôi chẳng thể trách em được, bởi lẽ tác dụng ấy sẽ không biểu hiện rõ ràng cho đến khi nó *thực sự xảy ra*. Nhưng làm sao để ra hiệu cho em đây?
-
-  
-
-“Này Đồ Tể,” nhà vua cất tiếng khi bắt đầu chậm rãi thưởng thức bữa ăn của chính mình. “Ta rất mong ngươi nhớ rõ vai trò của mình ở đây. Vị thủ lĩnh của ngươi trông có vẻ độc lập quá mức đấy.”
-
-  
-
-Nhếch mép cười khẩy, tôi chuyển sự chú ý sang Vanil. Tâm trí ông giống như một con côn trùng vo ve mà mắt tôi không thể nhìn thấy, nhưng đôi tai lại quá đỗi quen thuộc. Dù không thể đọc được suy nghĩ của ông, tôi vẫn có thể trò chuyện với ông, và dù miễn cưỡng, tôi vẫn điều khiển ông tiến về phía Khu Thứ Phẩm Số 2.
-
-  
-
-“CHÚNG TA SẼ BẮT ĐẦU VỚI KHU THỨ PHẨM SỐ 2,” ông cất lời, hệt như thể tự mình đưa ra quyết định.
-
-  
-
-Dyl và Yenne theo sát phía sau, bọc lót hai bên sườn ông đúng như lời đã hứa. Cả ba đều được trang bị bộ giáp tương tự như những bộ mà Bầy Đàn từng mặc tại Cánh Đồng Cỏ Cao, hoặc có lẽ chính là chúng. Luồng sóng vo ve kết nối tôi với Vanil kéo dài ra như một sợi dây thừng đang cuộn mở ngày càng xa. Sợi dây ấy vẫn hiện hữu ở đó nếu tôi giật mạnh, nhưng bóng hình ông thì đang dần khuất dạng nơi đường chân trời. Nếu nhắm mắt lại, tôi có thể truyền nhận thức của mình dọc theo mối liên kết đó, phóng tầm mắt và thính giác vào trong cơ thể ông để nhìn và nghe như chính bản thân ông.
-
-  
-
-Trong khi đó, Thợ Săn Mặt Nạ chĩa mũi giáo áp giải Laven và các mẹ của tôi tới nhập hội cùng tên Thống Lĩnh khổng lồ.
-
-  
-
-“Con yêu các mẹ!” Tôi hét lên về phía bóng lưng đang lùi xa của các mẹ. “Con sẽ giải quyết...”
-
-  
-
-Nhưng tôi bị ngắt lời bởi một cái tát trời giáng từ nhà vua. Tôi không dám liều lĩnh đoạt quyền điều khiển tên Thống Lĩnh, nhưng đã dùng công thức để nhìn qua đôi mắt hắn khi Wensoan lần lượt nhấc từng người trong số họ lên những thanh xà trên đỉnh cung điện, rồi trói chặt vào các sợi thòng lọng đung đưa. Có lẽ tôi đã giữ hắn đứng chôn chân tại chỗ lâu hơn một chút so với ý muốn của chính hắn, chết lặng nhìn hai mẹ của mình bị treo lơ lửng bằng cổ tay và thiêu đốt dưới ánh mặt trời gay gắt. Tôi vẫn có thể cứu họ.
-
-  
-
-Khi xong việc, hắn tiến về phía khu Thứ Phẩm, bám theo sau Vanil. Tôi kiểm tra tình hình của ông, nhìn thấy Dyl đang cau mày đứng bên cạnh. Tôi tự hỏi về lòng trung thành của vị Cựu Viện trưởng đối với đại nghĩa này. Tôi không hiểu rõ về họ, nhưng Viện trưởng Dyl chưa từng cho tôi cảm giác là một kẻ đặc biệt tàn nhẫn. Họ từng chiến đấu để bảo vệ mạng sống của tôi, lại chủ động dành sự quan tâm đặc biệt cho những ý tưởng của tôi trong lớp học. Yenne từng đưa cho tôi mảnh vỏ cây, và cô cũng từng bóng gió rằng Dyl đang bị ép buộc khi ở Nhà Kính. Đó có vẻ là một điểm yếu có thể khai thác.
-
-  
-
-“ÔNG THAM GIA VÌ ĐẠI NGHĨA HAY VÌ TRI THỨC?” Vanil cất tiếng hỏi. Giọng nói như sấm rền của ông khuếch đại những suy nghĩ thầm kín trong tôi như thể đó là ý nghĩ của chính ông, khiến tôi không khỏi rùng mình.
-
-  
-
-Ánh mắt Dyl lướt qua vai Vanil nhìn về phía Yenne, nhưng họ không nói một lời nào.
-
-  
-
-“PAPRICK ĐÃ CHỨNG MINH ĐƯỢC LÝ THUYẾT CỦA CẬU TA.”
-
-  
-
-Đôi mắt Dyl mở to nhìn Vanil, người vừa khẽ lùi lại một bước. “THẬT SAO?”
-
-  
-
-Wensoan sắp đuổi kịp họ, vì thế tôi để lại cho Vanil vài chỉ thị cần giải quyết rồi thu nhận thức trở về với các giác quan của chính mình.
-
-  
-
-Nhà vua vẫn đang nhấm nháp món súp đặc quánh, chậm rãi và chăm chú thưởng thức khi đôi mắt hắn ánh lên luồng Sức bền ma thuật ngày một mãnh liệt sau mỗi ngụm nuốt.
-
-  
-
-“Giờ thì sao nữa?” Tôi hỏi, xoay tròn chiếc nĩa quanh các ngón tay với vẻ buông xuôi đầy chán ngán. “Ông kiểm soát tâm trí tôi để đảm bảo tôi tiếp tục kiểm soát tâm trí Vanil. Vậy ông còn ăn món súp não đó làm gì?”
-
-  
-
-“Kiểm soát ngươi ư? Không, ta mê mẩn mùi vị này. Đối với ta, món này mang hương vị của chiến thắng.”
-
-  
-
-Tôi ngừng xoay chiếc nĩa, chĩa thẳng mũi nĩa về phía Người Tiêu Thụ Tối Cao. “Được rồi. Vậy giờ làm gì tiếp?”
-
-  
-
-Tôi lơ đãng gõ nhẹ chiếc nĩa, đầu nĩa vẫn hướng về phía Người Tiêu Thụ Tối Cao.
-
-  
-
-“Bây giờ, chúng ta chờ đợi lũ gián bọ bị tận diệt.”
-
-  
-
-“Tôi ghét phải chờ đợi.” Tôi chạm mắt với Cori trong một khoảnh khắc ngắn ngủi rồi khoanh tay lại, chiếc nĩa vẫn nắm trong tay. “Á!”
-
-  
-
-Thợ Săn Mặt Nạ lập tức hành động, đồng loạt chĩa thẳng những ngọn giáo sắc nhọn vào cổ họng tôi. Giả vờ kinh hãi, tôi rút chiếc nĩa vừa xoay ra khỏi cánh tay nơi mình vừa gập lại. Tôi đánh rơi dụng cụ ăn uống xuống sàn như thể đã quên bẵng nó vẫn nằm trong tay lúc vô tình đâm vào cánh tay mình. Không một ai nhận ra chiếc túi gia vị đang rò rỉ bột rễ trời vào phần ớt còn sót lại trong bát của tôi, hòa lẫn cùng máu tươi.
-
-  
-
-“Tự đâm phải mình đấy à, Paprick?” Nhà vua cười khúc khích. “Ta có cần lấy cho ngươi chút sữa không?”
-
-  
-
-“Khỏi phiền ông.” Tôi xoa nắn vết thương nhỏ. “Mấy vết trầy da này chỉ làm phiền được vài kẻ yếu đuối trong số chúng ta thôi.”
-
-  
-
-Và rồi, tôi chờ đợi Vanil thực hiện những điều tôi đã ngầm ra lệnh.
+
+
+  Ngặt một nỗi cho chúng, tương quan lực lượng đôi bên giờ đây đã hoàn toàn cân bằng.
+
+
+
+  Cori, Laven và tôi cùng lao qua Cánh Đồng Cỏ Cao. Hàng chục Lính Mổ Xẻ yểm trợ lập tức nhảy xổ ra chặn đường, điên cuồng phóng sấm sét cùng lửa đỏ về phía chúng tôi. Tôi dùng chiếc rìu xương gạt phăng hai luồng sét, thầm kiểm chứng xem nó có đúng là được đẽo gọt từ xương sống triệt tiêu chấn động của quái thú bò mộng Emphon từ lưỡi rìu cho tới cán cầm hay không. Laven quét cây chùy tự chế xuống tầm thấp, hất văng đám binh lính ra khỏi lộ trình tiến công. Từ khoảng không phía sau lưng, hai tên Lính Mổ Xẻ lao xuống vai tôi rồi cắm phập giáo mác vào da thịt. Theo bản năng, tôi vung bàn tay to ngang cỗ xe bò đã được gia cố bằng năng lượng ma thuật Endurium, giáng một cú trời giáng, nghiền nát bọn chúng vào người mình ngay tức khắc. Chúng tôi xông thẳng tới đám quái thú bò mộng Emphon, nhưng ngay khoảnh khắc vừa áp sát, một chuỗi âm thanh vo ve kỳ lạ tựa tiếng ve sầu bỗng chốc râm ran dồn dập trong tâm trí tôi. Khớp xương tôi khựng lại, và hai người đồng đội dường như cũng đang chậm dần đi.
+
+
+
+  Nhân cơ hội chúng tôi ập tới, Vanil cùng người đồng đội của ông liền liều mạng phá vây thoát hiểm. Họ lăn người bên dưới những móng vuốt đang tung cước của lũ quái thú bò mộng Emphon ở hai bên sườn, đoạn lập tức quay ngoắt lại phản công. Cori đâm một đường kiếm chếch sang mạn trái con quái thú mà em đã chọn, ép nó phải lách sang bên phải đúng lúc nắm đấm còn lại của em giáng thẳng vào mạn đầu nó tựa búa tạ. Laven chọn cách tiếp cận trực diện hơn nhiều: cậu bật nhảy lên cao cả mét so với mặt đất, dùng cả hai tay bổ thẳng cây chùy xuống trán con quái thú bằng toàn bộ trọng lượng khổng lồ cùng khung xương rắn đanh của mình.
+
+
+
+  Như vậy, chỉ còn trơ lại Angus đối mặt với tôi. Và lạy các đấng thần linh, tôi dám thề rằng mình đã nhìn thấy sự nhận biết cùng ngọn lửa báo thù bùng cháy trong mắt nó ngay khoảnh khắc nó đánh hơi thấy mùi hương của tôi.
+
+
+
+  Nó vẫn còn nhớ vết dao mổ xẻ của tôi năm nào.
+
+
+
+  Vì không muốn đứng túm tụm lại rồi cản trở đồng đội, tôi lùi bước về phía trung tâm quảng trường, đấm thùm thụp vào ngực mình: “NHÀO VÔ ĐÂY MÀ BẮT TAO NÀY!”
+
+
+
+  Angus, hay bất cứ kẻ nào đang giật dây điều khiển nó, lao thục mạng tới. Vào khoảnh khắc nghìn cân treo sợi tóc, nhớ lại trận chiến với Bessa, tôi nghiêng mình xoay người sang bên trái. Lần này, tôi đã có trong tay một cây rìu cùng hơn hai tháng rèn giũa với thanh đao cưa đồ tể. Dù hai món vũ khí không hoàn toàn tương đồng, tôi vẫn thấu rõ từng dây chằng, đường gân cùng thớ cơ trên cơ thể loài bò mộng, và vốn hiểu biết ấy đã trao trọn lợi thế vào tay tôi. Vừa xoay người né tránh, tôi vừa vung rìu vẽ một đường cong hiểm hóc, cắm phập vào phía sau chân nó, ngay tại bắp cơ. Những mảng vảy bị xé toạc, máu tươi bắn xối xả, để lộ thớ thịt đùi đỏ au. Chỉ cần bồi thêm một nhát chém chuẩn xác vào đúng vị trí ấy nữa thôi, cái chân kia coi như phế hẳn.
+
+
+
+  Tôi thận trọng lách bước, rình rập tiến về phía chân sau của Angus. Vừa lê bước, nó vừa gí đầu theo từng chuyển động của tôi, và mỗi lần tôi toan đánh vòng qua, nó lại lồng lên rồi nhanh chóng lạng người sang một bên. Bốn lần tôi lao vào đâm tới, nhưng cả bốn lần đều trượt và phải trả giá bằng những cú húc sừng như trời giáng vào bụng cùng mạn sườn. Lớp giáp vảy cùng bộ xương ngấm năng lượng ma thuật Endurium của tôi vẫn gồng mình chống chịu được, thế nhưng chỉ cần một đòn hiểm ăn sâu vào da thịt trần trụi thôi cũng đủ để tước đoạt mạng sống của tôi rồi.
+
+
+
+  Cori từ bên hông lao thẳng vào nó, hất nhào con quái thú khi em ngã đè lên mình nó.
+
+
+
+  Angus vùng vẫy dữ dội, hất văng Cori sang một bên. Con quái thú bò mộng Emphon mà em vừa quần thảo nãy giờ đang cào móng xuống nền đất, chuẩn bị lấy đà húc tới. Cori vẫn nằm bất động kể từ cú va chạm với Angus. Một vết chém rách toạc trên lưng em, máu rỉ ra từ bên dưới mắt trái.
+
+
+
+  Nếu tôi để mặc Cori gánh trọn đòn tấn công đó, tôi có thể bổ rìu xuống cổ con quái thú ngay khoảnh khắc nó đâm trúng em. Đổi mạng sống của Cori để chấm dứt cơn cuồng loạn cùng cảnh tàn phá này ư? Liệu sự hy sinh của em sẽ cứu được bao nhiêu sinh mạng?
+
+
+
+  Nhưng đó chưa bao giờ là điều tôi phải đắn đo.
+
+
+
+  Dồn toàn bộ sức lực xuống hai chân, tôi lao mình ra chắn trước mặt em, xoay người để hướng trọn phần giáp trụ dày nhất về phía đường lao tới của con bò mộng.
+
+
+
+  Thân người tôi vuông góc hoàn toàn với mặt đất ngay khi nó húc trúng, và tấm lưng tôi hứng trọn toàn bộ sức nặng từ cái đầu cứng tựa chảo thép của con quái thú. Nếu không nhờ vào sức mạnh do Cường hóa Ma thuật mang lại, chắc chắn các xương sườn dưới của tôi đã vỡ vụn. Xoay tít như chong chóng đo gió giữa cơn bão sa mạc, tôi va rầm vào một tòa nhà rồi rơi phịch xuống đất.
+
+
+
+  Bám riết theo tôi, con bò mộng chồm hai chân sau lên định nghiền nát tôi dưới móng guốc. Thét lên một tiếng xé lòng, Cori co gối sát ngực, ngả người ra sau, chống hai tay qua đầu rồi bật mạnh khỏi mặt đất trong một cú lộn ngược. Em bung mạnh hai đầu gối, gót giày bọc thép nện thẳng vào mạn đầu con bò đang lao xuống, lực mạnh đến mức bẻ gãy gập cổ nó. Khi Cori rơi trở lại mặt đất, con bò mộng nghiêng hẳn sang một bên rồi đổ sụp xuống chếch về bên trái tôi, vừa đủ khoảng cách để tôi lăn người sang bên, tránh khỏi cảnh bị đè bẹp dí như một chiếc bánh xèo.
+
+
+
+  Phía sau em, Vanil bắt chước cách tôi hạ gục Bessa, ra sức bóp nghẹt khí quản của con quái thú bò mộng Emphon trước mặt, dù ông đã lựa góc nghiêng người để không bị đè bẹp dưới sức nặng của nó như tôi trước đó. Người phụ nữ thuộc tổ chức Bầy Đàn đã tử trận, chiếc sừng của con quái thú cắm ngập giữa lồng ngực cô, nhưng bản thân con quái thú bên cạnh cũng đang giãy giụa trên mặt đất, dần trút hơi thở cuối cùng khi máu tuôn xối xả từ vết chém sâu hoắm bên mạn sườn. Cuối cùng là Laven, cậu vung gậy thúc ngược một cú sấm sét vào cằm con quái thú của mình, đập nát vụn hàm nó ngay lúc tôi đang nằm rên rỉ dưới đất dưới cái nhìn trừng trừng của Angus.
+
+
+
+  Bốn con quái thú bò mộng Emphon đã ngã xuống, nằm la liệt bất động.
+
+
+
+  Chưa kịp mừng rỡ, tiếng vo ve trong đầu tôi bỗng dội lên dữ dội thành một cơn hỗn loạn đinh tai nhức óc, khiến tôi phải buông rơi cây rìu, hai tay ôm chặt lấy đầu. Cảm giác như có cả đàn châu chấu đang bay rợp trong não bộ, ngấu nghiến nuốt chửng mọi suy nghĩ trước khi chúng kịp biến thành hành động.
+
+
+
+  *Ngừng chiến đấu đi*, giọng tên vua ra lệnh.
+
+
+
+  *Nằm xuống. Đầu hàng đi. Ngươi thuộc về ta.*
+
+
+
+  *Đã đến lúc kết thúc chuyện này rồi.*
+
+
+
+  Tiếng vo ve nghiền nát ý chí kháng cự của tôi. Mọi thứ làm nên con người tôi đều lụi tàn, hệt như quả ớt cháy rụi thành tro trước ngọn lửa thao túng rực cháy của tên bạo chúa.
+
+
+
+  *Bảo bọn chúng buông vũ khí lùi lại.*
+
+
+
+  “LÙI... LẠI,” tôi thốt lên, từng lời thoát ra khỏi miệng hoàn toàn trái với ý muốn của bản thân.
+
+
+
+  “PAPRICK?” Vanil gặng hỏi.
+
+
+
+  *Đấm vào bụng hắn.*
+
+
+
+  Cánh tay tôi vung mạnh vào bụng Vanil với uy lực khủng khiếp, khiến ông gập người lại rồi nôn mửa dữ dội. Khi những bãi nôn trào ra, thân hình khổng lồ của ông cũng co rút dần.
+
+
+
+  *Bây giờ, giẫm nát nó đi.*
+
+
+
+  Tôi nhấc chân lên định nghiền nát Vanil dưới gót giày như một con bọ, nhưng Cori đã lao tới húc ngã tôi trước khi tôi kịp hạ chân xuống.
+
+
+
+  “SÁT THỦ, CÁI QUÁI GÌ THẾ NÀY?”
+
+
+
+  *Tiếp theo là ả.*
+
+
+
+  Không, không, không, tôi gào thét trong tuyệt vọng, nhưng cơ thể tôi vẫn quật ngã Cori xuống đất rồi siết chặt cổ em. Em vùng vẫy, cố sức thoát ra, nhưng dù mạnh mẽ đến đâu, em cũng không làm bất cứ điều gì có thể gây tổn thương cho tôi. Tôi chiếm thế thượng phong tuyệt đối. Ngay cả khi Laven cố lao vào kéo tôi ra khỏi người em, tôi vẫn siết chặt vòng tay hơn, bóp nghẹt hơi thở của em, nở nụ cười ma quái của tên vua cho đến khi em lịm đi.
+
+
+
+  Trước khi tôi kịp khống chế Laven theo ý muốn của tên vua, cậu ấy đã kịp lùi lại rồi bỏ chạy. Tôi có thể cảm nhận được tên vua trong đầu mình đang cân nhắc xem có nên đuổi theo hay không, nhưng cuối cùng hắn quyết định tiếp tục bám sát kế hoạch ban đầu.
+
+
+
+  Nhanh chóng nhưng không hề vội vã, hắn ép tôi quay trở lại lộ trình diễu hành, nơi tôi tìm thấy những sợi dây thừng bện dùng để xích bầy quái thú bò mộng Emphon. Khi Cori vẫn nằm bất tỉnh, tên vua bắt tôi trói chặt em lại. Sợi dây sẽ chẳng có tác dụng gì nếu kích thước của em co rút về lại bình thường, nhưng đám Lính Mổ Xẻ đã bắt đầu tụ tập vây quanh.
+
+
+
+  *Đêm đó*, hắn cất lời, *từ ngần ấy tháng trước, khi ngươi “Vươn Mình Đứng Thẳng”, ta đã hoàn tất công thức để kiểm soát con thú thảm hại đó. Ta đã chạm tay vào tâm trí nó, sẵn sàng nghiền nát bè lũ phiến quân quý báu của ngươi thành cám, thì bỗng nhiên ta cảm nhận được một sự hiện diện khác. Khôn ngoan hơn, dẫu chỉ đôi chút, và thuộc về một con người. Hãy tưởng tượng nỗi kinh ngạc của ta, hỡi con bọ rệp, khi chạm vào tâm trí ngươi và nhận ra ta cũng có thể đoạt quyền kiểm soát cả ngươi.*
+
+
+
+  *Ta đã quyết định cứ để mặc ngươi. Ta muốn xem một con bọ rệp sẽ làm nên trò trống gì khi nắm trong tay quyền lực. Có lẽ đó là một sai lầm, nhưng là sai lầm mà ta đã nhanh chóng khắc phục bằng tầm nhìn xa trông rộng.*
+
+
+
+  *Ta đã chờ đợi. Ta đã kiên nhẫn chờ đợi biết bao, hỡi tên đồ tể.*
+
+
+
+  *Bởi ta biết ngươi sẽ không tài nào cưỡng lại được. Ta đã thấy ngươi một lần nữa biến chuyển, lớn mạnh thành hình dạng này.*
+
+
+
+  *Ta đã thấy những gì ngươi sẽ làm, những gì ta sắp ép ngươi phải làm.*
+
+
+
+  *Đã đến lúc lũ gián bọ của ngươi thấy rõ kẻ mà chúng mù quáng đi theo bấy lâu rốt cuộc là ai rồi.*

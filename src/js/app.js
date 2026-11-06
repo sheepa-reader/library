@@ -1078,12 +1078,6 @@
     currentBook = book;
     document.title = `${book.title} — Sheepa Library`;
     const firstChapterId = book.chapters[0]?.id || 'chuong-1';
-    const savedProgress = getBookProgress(book.id);
-    const activeChapterId = (savedProgress?.chapterId && book.chapters.some(c => c.id === savedProgress.chapterId))
-      ? savedProgress.chapterId
-      : firstChapterId;
-    const isContinued = Boolean(savedProgress?.chapterId && savedProgress.chapterId !== firstChapterId);
-    const activeChapter = book.chapters.find(c => c.id === activeChapterId) || book.chapters[0];
     const hasBilingual = checkBookHasBilingual(book);
 
     app.innerHTML = `
@@ -1175,18 +1169,18 @@
 
             <div class="detail-actions">
               ${hasBilingual ? `
-                <a href="#/read/${book.id}/${activeChapterId}?mode=vi" class="btn-lg btn-primary" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)} (Bản Tiếng Việt)` : 'Đọc bản dịch tiếng Việt'}">
+                <a href="#/read/${book.id}/${firstChapterId}?mode=vi" class="btn-lg btn-primary" title="Đọc bản dịch tiếng Việt">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                  ${isContinued ? 'Đọc tiếp (Tiếng Việt)' : 'Đọc tiếng Việt'}
+                  Đọc tiếng Việt
                 </a>
-                <a href="#/read/${book.id}/${activeChapterId}?mode=bilingual" class="btn-lg btn-bilingual" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)} (Bản Song Ngữ)` : 'Đọc bản song ngữ Anh - Việt liên tục'}">
+                <a href="#/read/${book.id}/${firstChapterId}?mode=bilingual" class="btn-lg btn-bilingual" title="Đọc bản song ngữ Anh - Việt liên tục">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"></path></svg>
-                  ${isContinued ? 'Đọc tiếp (Song Ngữ)' : 'Đọc Song Ngữ'}
+                  Đọc Song Ngữ
                 </a>
               ` : `
-                <a href="#/read/${book.id}/${activeChapterId}" class="btn-lg btn-primary" title="${isContinued ? `Đọc tiếp: ${escapeHtml(activeChapter.title)}` : 'Bắt đầu đọc'}">
+                <a href="#/read/${book.id}/${firstChapterId}" class="btn-lg btn-primary">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-                  ${isContinued ? 'Đọc tiếp' : 'Bắt đầu đọc'}
+                  Bắt đầu đọc
                 </a>
               `}
               <button class="btn-lg btn-outline" id="btn-open-download-modal">

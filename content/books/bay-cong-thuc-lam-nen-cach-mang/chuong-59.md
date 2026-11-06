@@ -1,137 +1,79 @@
-# 57 Phép lịch sự trên bàn ăn
+# 50 Hoang tàn
 
-*Món Thứ Sáu • Thịt Ướp Emphon*
+Từng bước một, hắn ép tôi tiêu diệt những chiến sĩ Bầy Đàn và các quân kháng chiến Thứ Phẩm còn sót lại trên Cánh Đồng Cỏ Cao.
 
-Khi tên vua dùng xong bữa, đôi mắt hắn rực lên những quầng sáng chói lọi, đỏ rực như lòng lò nung. “Chà,” hắn há hốc miệng thở dốc, hai tay bấu chặt lấy cạnh bàn. “Cảm giác phấn khích đến tột cùng.”
+
+
+  Khi tôi giẫm đạp bên cạnh đám Lính Mổ Xẻ của hắn, hắn bắt tôi phải thốt ra những lời mà tôi không bao giờ muốn nhắc lại. Những lời đe dọa tầng lớp Thứ Phẩm, những đòi hỏi phục tùng tuyệt đối. Hắn muốn cho tất cả thấy rõ rằng hắn đã bắt được tôi, kẻ từng được xem là “đấng cứu thế” của họ, để chứng minh rằng không một kẻ Thứ Phẩm nào có thể thoát khỏi tầm kiểm soát của hắn. Bằng cách đập nát những cỗ xe và nghiền nát bất cứ người Thứ Phẩm nào dám kháng cự, hắn biến tôi thành thứ vũ khí tối thượng của mình. Mượn miệng tôi, hắn thách thức họ dám sử dụng Đại công thức của tôi để nếm trải cái giá của việc dám Vươn Mình Đứng Thẳng trước đấng cai trị hợp pháp.
 
-  
+
+
+  Rồi khi tất cả đã bỏ chạy tán loạn hoặc co rúm lại vì khiếp sợ, hắn bắt đầu điều khiển tôi tiến về phía Khu Thứ Phẩm Số 3. Bị biến thành một kẻ xa lạ ngay trong chính thể xác của mình, tôi chỉ biết bất lực nhìn hắn ép tôi quỳ rạp cả tứ chi trước những dãy nhà tập thể như một con thú. Hắn bắt tôi khịt mũi. Bắt tôi nện mạnh hai tay xuống đất và vẫy chiếc đuôi tưởng tượng.
 
-Chỉ một giây sau, phần lớn Thợ Săn Mặt Nạ đồng loạt quay về phía hắn trong sự phối hợp chuẩn xác tuyệt đối rồi cùng giơ tay chào. “Vấn đề của loài quái thú Bò sát Carnephon,” hắn lải nhải, “là ngươi chỉ có thể kiểm soát một số lượng nhất định cùng lúc. Còn con người ư? Dễ dàng hơn nhiều. Hàng trăm kẻ sẵn sàng phục vụ ta nếu ta cần.” Tên vua đứng dậy, nhìn ra ngoài cửa sổ rồi chỉ tay về phía Cánh Đồng Cỏ Cao ở bên kia bờ sông. Hàng trăm người đang đứng bất động giữa khu chợ. Hắn dĩ nhiên chẳng hề biết lý do vì sao họ lại tụ tập ở đó. Có lẽ hắn tưởng họ đang đi mua sắm, dẫu cho cả thành phố đang tan hoang đổ nát và tầng lớp Thứ Phẩm chẳng bao giờ đi chợ sắm sửa khi vẫn còn công việc phải làm. “Nhìn này.”
+
+
+  Sau đó, khi mọi người bên trong hoảng loạn túa ra tìm đường thoát thân, hắn bắt tôi gầm rống. Như một trò nhại lại đầy ghê tởm và có chủ đích về ngày Bessa phá hủy Khu Thứ Phẩm Số 1, tôi lồng lộn, tung vó và càn quét qua Khu Thứ Phẩm Số 3, vung nắm đấm bọc năng lượng ma thuật Endurium đập phá điên cuồng. Tôi tàn phá giữa những tiếng thét xé lòng của dòng người, giữa những sinh mạng đang lần lượt ngã xuống.
 
-  
+
+
+  Bạn bè của tôi, những người từng cùng tôi nhảy múa. Cay Anna, cha của chị Meg, những người láng giềng, tất cả những người từng nuôi nấng tôi khôn lớn và chia ngọt sẻ bùi từng bữa ăn với tôi.
 
-Ngay lập tức, hàng trăm con người đồng loạt giơ tay trái lên trời.
+
+
+  Cả hai mẹ của tôi nữa.
 
-  
+
+
+  Mọi thứ chỉ còn là đống đổ nát hoang tàn trong chớp mắt.
 
-Trong lúc hắn còn đang mải mê kinh ngạc trước quyền năng của mình, tôi hạ bát Ớt ma thuật kiểm soát tâm trí xuống sàn, nhẹ nhàng đặt nó nằm yên. Người Tiêu Thụ Tối Cao toan mở miệng định nói điều gì đó, nhưng Cori đã ra tay trong cùng một tích tắc: em chộp lấy con dao cắt bít tết đặt sẵn trước mặt, xoay cán rồi phóng thẳng lưỡi dao về phía cổ họng nữ thượng tế.
+
+
+  Tôi từng ngỡ cơn ác mộng tồi tệ nhất đời mình đã hiện hình khi Angus giao chiến với Vanil. Tôi từng ngỡ mình đã chạm tới đáy cùng của sự tuyệt vọng khi co rúm lại và cần Cori kéo tôi ra ngoài.
 
-  
+
+
+  “LŨ GIÁN CỎ, NGHE ĐÂY,” tôi gầm lên át cả tiếng lửa cháy và tàn tro. “CHÚNG MÀY CHẲNG LÀ CÁI THÁ GÌ CẢ. CHÚNG MÀY ĐƯỢC SỐNG CHỈ VÌ ĐỨC VUA CHO PHÉP MÀ THÔI. CỨ VIỆC VƯƠN MÌNH ĐỨNG THẲNG VÀ BẠO ĐỘNG NHƯ CHÚNG MÀY MUỐN ĐI. MỖI LẦN CHÚNG MÀY DÁM LÀM THẾ, TA SẼ TIÊU DIỆT THÊM MỘT KHU THỨ PHẨM NỮA. CHÚNG TA KHÔNG CẦN CHÚNG MÀY. CHƯA TỪNG CẦN, VÀ SẼ KHÔNG BAO GIỜ CẦN. CHÚNG MÀY CHỈ LÀ THỨ CÓ THỂ VỨT BỎ. CHÚNG MÀY SẼ PHẢI QUỲ XUỐNG.”
 
-Khi tên vua quay ngoắt lại, tôi rút mạnh con dao phay giấu bên trong tạp dề rồi tung người nhảy vọt qua bàn, lao thẳng về phía hắn. Bị bất ngờ, tên bạo chúa vội vã đưa hai tay lên chắn trước mặt. Đám Thợ Săn Mặt Nạ cuống cuồng lao vào nhằm đâm giáo hoặc tóm chặt lấy tôi, nhưng quân số quá đông lại trở thành chướng ngại vật cản trở chính bọn chúng. Quá nhiều vũ khí cùng lúc đâm sầm vào một khoảng không chật hẹp, tự va đập khiến nhau chệch hướng. Tôi lướt ngang qua mặt bàn, lưỡi dao chặt trong tay giáng thẳng xuống gương mặt hắn như giáng xuống một khúc thớt gỗ.
+
+
+  Sau cơn tàn phá, tôi quỳ sụp xuống, bàn chân và đầu gối bỏng rát giữa biển lửa, cho đến khi cơ thể tôi từ từ thu nhỏ lại trong đau đớn tột cùng, và tâm trí tôi cuối cùng cũng thoát khỏi sự khống chế của hắn.
 
-  
+
+
+  Thế nhưng, tôi vĩnh viễn không thể thoát khỏi những tội ác mà chính đôi tay này vừa gây ra.
 
-Máu bắn tung tóe lên môi tôi, nhưng xương trụ cẳng tay của hắn đã chặn đứng nhát dao. Tôi đè nghiến cả người lên thân hình tên vua, đầu hắn đập rầm một tiếng xuống nền gạch men. Trước khi tôi kịp bồi thêm đòn kết liễu, một âm thanh xé gió phía sau đã kéo giật sự chú ý của tôi lại. Đôi mắt tôi lóe lên, ngay cả khi đang giật mạnh lưỡi dao ra khỏi cánh tay tên vua, tôi vẫn sững sờ chết lặng. Cori đang đứng chắn ngay phía trên tôi. Một ngọn giáo đâm xuyên qua cánh tay em và ngọn giáo thứ hai cắm ngập vào vai phải, khi em liều mình che chắn cho tôi trước một đòn tấn công chí mạng mà đáng lẽ tôi đã phải hứng trọn. Người Tiêu Thụ Tối Cao giãy giụa co giật trên sàn nhà cạnh chiếc ghế của bà ta, hai bàn tay ôm chặt lấy cái cổ họng đang không ngừng tuôn máu xối xả.
+
+
+  Sau một hồi im lặng nặng nề trôi qua từng phút, tôi gạt đi những giọt nước mắt trên gò má. “Suốt bao năm trời, tôi đã luôn hy vọng hai mẹ sẽ xuất hiện, mỉm cười và kể cho tôi nghe chuyện họ đã trốn khỏi Khu Thứ Phẩm Số 3 thế nào khi bạo lực bùng phát ở Cánh Đồng Cỏ Cao. Rằng họ chỉ bị mắc kẹt ngoài thành phố hoặc vì một lý do nào đó mà đến tận bây giờ mới trở về. Rằng tất cả những gì tôi nhớ chỉ là một cơn ác mộng khác mà thôi.”
 
-  
+
+
+  “Họ yêu anh mà,” Nữ Lưu Trữ Viên khẳng định, không muốn đưa ra thêm lời chia buồn hay xin lỗi nào nữa. Chẳng còn ích gì khi cố thử lại sau lời xin lỗi vụng về và gượng gạo lúc ban đầu.
 
-Một tên Thợ Săn Mặt Nạ khác tiếp tục lao thẳng tới chỗ Cori, lúc này em hoàn toàn không một tấc sắt và đã trúng hai ngọn giáo. Em xoay người trong khoảnh khắc ngàn cân treo sợi tóc rồi dùng cánh tay gạt phăng mũi đòn, chấp nhận chịu một vết chém sâu hoắm cứa ngang qua đùi.
+
+
+  “Cô đừng nói thế.” Tôi gục đầu, mái đầu vừa cạo nhẵn thín cúi gập xuống. “Cô đừng nói thế. Họ sẽ căm ghét con người tôi hiện tại.”
 
-  
+
+
+  “Tại sao?” Nữ Lưu Trữ Viên đứng dậy, cầm lấy cuốn sách để tiếp tục ghi chép. “Điều gì khiến anh dám chắc như vậy?”
 
-Tên vua thúc mạnh cùi chỏ vào cằm tôi, hất văng tôi ra khỏi người hắn rồi lồm cồm bò trườn về phía đám tùy tùng. Trong cơn tuyệt vọng, tôi quăng mạnh con dao phay nhắm thẳng lưng hắn, lưỡi dao xẻo sượt qua bắp chân tên bạo chúa. Thế nhưng tôi chẳng còn thời gian đâu mà ăn mừng. Khi hắn ngã dúi dụi vào vòng tay đón sẵn của một tên Thợ Săn Mặt Nạ, vài mũi giáo sắc lạnh đã đồng loạt đâm thẳng tới chỗ tôi, khiến tôi phải nhanh như cắt lăn một vòng trốn xuống gầm bàn.
+
+
+  “Tại sao ư?” Đôi mắt tôi ngước lên, ánh nhìn hung bạo như mọi khi khi tôi bật cười cay đắng. “Tại sao ư? Bởi vì bất chấp mọi nỗ lực tốt đẹp nhất của họ, rốt cuộc tôi lại trở thành con trai của cha tôi! Họ dành cả đời cố gắng biến tôi thành người lương thiện giống như *họ*, nhưng đến cuối cùng, tôi hoàn toàn không phải con của họ. Tôi là con của *hắn*.”
 
-  
+
+
+  “Anh không có cha,” Nữ Lưu Trữ Viên nói, ngón tay chỉ vào những trang giấy.
 
-Cori bẻ gãy cán ngọn giáo đang găm trên vai mình rồi dùng chính đoạn gỗ ấy đập gãy khớp gối một kẻ tấn công. Với một tiếng gầm gừ giận dữ, em đẩy mạnh đầu mũi giáo nhọn hoắt xuyên thấu ra ngoài, nắm chặt lấy mũi giáo sắt tựa như một con dao găm, rồi ngã rạp xuống sàn, cắm phập mũi giáo vào ngực tên Thợ Săn Mặt Nạ ngay trong cú ngã của mình.
+
+
+  Nhưng tôi không hề cắn câu. “Dù tôi đã phá hủy mái ấm của họ, những người sống sót vẫn lao đến bên tôi, bọc tôi trong những tấm chăn dày để kéo tôi tránh xa khói bụi và ngọn lửa. ‘Bác không trách cháu đâu,’ một người bảo. ‘Bọn bác không đời nào trách cháu cả.’”
 
-  
+
+
+  “Nhưng anh lại tự trách chính mình,” Nữ Lưu Trữ Viên gặng hỏi, ánh mắt đầy thấu suốt.
 
-Tôi nắm lấy cánh tay Cori, giật mạnh em vào gầm bàn ngay khi một ngọn giáo khác cắm phập xuống đúng vị trí đầu em vừa ở đó một tích tắc trước. Cả hai chúng tôi nằm sõng soài trên mặt sàn, thở dốc trong lúc những tên Thợ Săn Mặt Nạ khác vội vã vây kín quanh bàn.
-
-  
-
-“Đau hơn em tưởng đấy,” Cori uể oải thốt lên.
-
-  
-
-Em lặp lại thao tác từng làm với bờ vai mình: bẻ gãy cán giáo rồi rút đầu mũi nhọn xuyên qua da thịt. Bờ vai em đã bắt đầu tự khép miệng, lành lại với tốc độ nhanh gấp triệu lần bình thường.
-
-  
-
-“Lúc anh bảo mấy vết thương ngoài da chẳng hề hấn gì, em cứ ngỡ ý anh là da thịt em sẽ đao thương bất nhập cơ.”
-
-  
-
-“Anh đã cố hết sức rồi,” tôi thừa nhận. “Hồi phục liên tục thế này là quá cừ rồi đấy chứ.”
-
-  
-
-Em hôn lên mu bàn tay tôi rồi mỉm cười: “Cũng tạm được, dù vị của nó chẳng giống trà của cha em chút nào. Anh có kế sách gì đưa hai ta thoát khỏi gầm bàn này chưa, sát thủ của em?”
-
-  
-
-Tôi vươn tay với lấy bát Ớt ma thuật kiểm soát tâm trí vừa bị gạt phăng đi.
-
-  
-
-“Ta e là giá trị lợi dụng của mày đã hết rồi,” tên vua khịt mũi từ nơi khuất tầm mắt. “Đến lúc gia nhập quân đội của ta rồi đấy, Đồ Tể.”
-
-  
-
-Tôi cảm nhận áp lực đè nặng lên não bộ, liền theo bản năng rụt người né tránh, lùi sâu vào tâm trí Vanil, nơi tiếng ong ong bị trận kịch chiến với Wensoan làm phân tâm hoàn toàn. Tôi cảm thấy tên vua đang vùng vẫy, cố chộp lấy quyền kiểm soát tôi, nhưng tâm trí tôi vốn chẳng còn trọn vẹn ở nơi ấy. Hắn nhanh chóng bỏ cuộc, còn tôi dè dặt quay trở lại với các giác quan của chính mình.
-
-  
-
-Cánh cửa phòng ăn bật mở. Từ dưới gầm bàn, tôi thoáng thấy hàng loạt đôi ủng nện bước dồn dập, hòa cùng những đôi ủng đang đứng chôn chân của đám Thợ Săn Mặt Nạ vây quanh. Viện binh đã đến.
-
-  
-
-“Chẳng hơi đâu lãng phí thời gian,” tên vua phán. “Đó là lý do các vị vua luôn cần đến quân đội. Có khi thay vào đó, ta sẽ ghé thăm hai mẹ của mày.”
-
-  
-
-Những đôi ủng đồng loạt giậm mạnh xuống sàn chào lệnh trước khi lùi lại. Cori hét lên đau đớn khi một lưỡi kiếm chém mạnh vào mắt cá chân em. Khắp xung quanh, lũ Thợ Săn Mặt Nạ vô hồn rạp mình xuống mặt sàn quanh chiếc bàn, bắt đầu bò trườn về phía hai chúng tôi.
-
-  
-
-Tôi lăm lăm thanh đao trong tay. Cori nắm chặt ngọn giáo gãy.
-
-  
-
-Có ngót nghét năm mươi tên Thợ Săn Mặt Nạ.
-
-  
-
-Tỷ lệ thắng chẳng mấy sáng sủa. Vì vậy, tôi quyết định đánh cược một ván được ăn cả, ngã về không. Tôi thọc sâu ngón tay vào cổ họng, ép bản thân nôn thốc nôn tháo, nhổ ra những cục máu tanh tưởi vương vãi xuống sàn. Cổ họng tôi bỏng rát, nhưng tôi đã tống khứ được phần ớt ma thuật ra khỏi dạ dày rồi nuốt ngược cơn đau vào lòng. Lúc này, điều tôi ít muốn làm nhất là nuốt bất cứ thứ gì vào bụng; à thì, ít muốn làm thứ nhì mới đúng. Bởi điều tôi căm thù nhất chính là phải chết, mà ăn lại là con đường sống duy nhất.
-
-  
-
-Khi đám Thợ Săn Mặt Nạ bò vào tầm công kích, Cori vung vũ khí chém trả nhanh tương ứng với tốc độ lao tới của chúng. Tôi không biết năng lực tái tạo của em có thể duy trì được bao lâu, hay liệu khả năng hồi phục ấy có bị giới hạn số lần hay không.
-
-  
-
-Tôi cẩn thận khuấy máu cùng bột rễ trời vào phần ớt còn lại, cẩn trọng áp dụng kỹ thuật hòa trộn nguyên liệu mà Đầu Bếp Chikor từng dạy trong buổi học làm món panna cotta. Tôi không dám chắc liệu làm thế này có thực sự hiệu nghiệm hay không. Tôi không nấu một món ăn mới, nhưng trước đây tôi cũng đâu từng nấu món sữa của Cori. Tôi chỉ đang khuấy đều bằng *kỹ thuật*. Trong thâm tâm tôi, chừng ấy là đã đủ. Đầu Bếp Ilantra từng nói rằng kỹ thuật có thể làm thay đổi món ăn, mà lúc này, tôi bắt buộc phải thay đổi món ăn này.
-
-  
-
-Trong lúc khuấy, tôi nghĩ về điều mình sắp thực hiện. Tôi nghĩ về cơn khát bạo lực cùng sự tàn bạo thẳm sâu của Almon Panchon, về những bộ xương cốt mà hắn đã chất lên để xây dựng nên vương quốc của mình.
-
-  
-
-Vì trân trọng từng khoảnh khắc bên Cori, người luôn dành niềm tôn kính cho mọi loài quái thú bò mộng Emphon, tôi nhớ lại một trong những câu hỏi đầu tiên em từng dành cho tôi khi cả hai cùng nhìn xuống đống nội tạng và phế phẩm xẻ ra từ Bessa: “Tất cả những thứ đó sẽ đi về đâu?” rồi ngay sau đó là câu hỏi tiếp theo: “Cả xương cốt nữa sao?”
-
-  
-
-Tôi nghĩ về hương vị đậm đà ngái mùi đất của bột rễ trời, về cách những chùm rễ của một loài cây cao vút chạm mây ắt phải cắm sâu vào tận xương cốt lòng đất để chắt chiu nguồn dưỡng chất. Tôi nghĩ về lý do tại sao chúng tôi lại gọi đó là “xương cốt của lòng đất”, và về những gì hẳn đang nằm ẩn sâu bên dưới tất cả chúng tôi.
-
-  
-
-Tôi nghĩ về con quái thú Bò sát Carnephon đã gục xuống trên Cánh Đồng Cỏ Cao.
-
-  
-
-Tôi nghĩ về Bessa.
-
-  
-
-Tôi nghĩ về sự báo thù.
-
-  
-
-Tôi gom trọn tất cả những điều ấy vào một tầng hương vị, dồn toàn bộ ý chí của mình để kiến tạo nên nó khi khuấy bột rễ trời cùng máu vào hỗn hợp ớt, món ăn vốn được chế tạo ra để biến quái thú bò mộng Emphon thành vũ khí cho đến tận khi chúng chết rũ.
-
-  
-
-Và tôi muốn nhiều hơn thế nữa.
+
+
+  “Tôi sẽ *luôn* tự trách mình.”

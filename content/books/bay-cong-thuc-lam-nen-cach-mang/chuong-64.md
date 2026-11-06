@@ -1,268 +1,247 @@
-# 62 Những giải pháp tình thế
+# 54 Bếp đỏ lửa, dao bén ngót
 
-*Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa*
+Cơn thịnh nộ của Laven như rung chuyển khắp nền gạch men, trong khi cơn giận dữ trong tôi cũng cuộn trào đến mức tôi cắn rách cả môi, bật máu khi cố nuốt ngược nỗi căm hờn vào lòng.
 
-Nền hòa bình chẳng kéo dài được bao lâu, và thế giới ngoài kia cũng chẳng buồn dừng lại để chờ đợi chuỗi ngày tôi để tang. Phe Bầy Đàn tiếp quản thành phố, các chiến sĩ sử dụng bánh taco Emphon cùng hàng chục Đại công thức ma thuật khác để áp đảo những Lính Mổ Xẻ còn ngoan cố chống cự. Nhờ sự hậu thuẫn từ toàn thể người dân Thứ Phẩm, việc duy trì quyền kiểm soát cũng không gặp quá nhiều khó khăn. Phe Bầy Đàn đã lên kế hoạch chu toàn, và người Thứ Phẩm nhanh chóng tiếp quản vị trí của giai cấp Thượng Phẩm, những kẻ đang lũ lượt tháo chạy, trong đó nhiều gia tộc quyền thế đã thu nạp đám Lính Mổ Xẻ đào ngũ về làm hộ vệ riêng.
+
+
+  “Chà, chà,” tên vua cảnh cáo, khẽ lắc lưỡi kiếm khi đứng ngay sau lưng Cori. “Đại công thức vốn chỉ cần một người, nhưng ta thấy có hai người thì hương vị hẳn sẽ đậm đà hơn nhiều.”
 
-  
+
+
+  Tôi ghìm chặt lời nói và đôi bàn tay mình, máu nóng sôi sục khi đứng bên cạnh Laven. Cậu đã quỵ ngã xuống sàn, bất động như tượng đồng, đôi mắt đờ đẫn dán chặt vào nền gạch men cùng những chiếc huy hiệu nhỏ mang vương huy hoàng gia chạm khắc ở chính giữa. “Tại sao?” Cậu nghẹn ngào hỏi mặt đất. “Tại sao ngươi lại giết cha ta?”
 
-Phần lớn bọn chúng dạt về phía đông tới Ốc đảo Cây Cọ, nơi Thống Lĩnh Wensoan, kẻ vừa trốn thoát khỏi tay Vanil, đang tập hợp lực lượng kháng cự xoay quanh một đứa trẻ năm tuổi được xưng tụng là Công chúa Zesta Panchon, giọt máu rơi bí mật của nhà vua. Chúng tôi chẳng tin vào tính chính thống của con bé lấy một giây, nhưng điều đó cũng không thành vấn đề. Những kẻ đổ xô về đó đơn giản chỉ vì chúng luyến tiếc trật tự của thế giới cũ.
+
+
+  “Con trai ông ta bị bắt quả tang đang chiến đấu sát cánh bên đám phiến loạn. Ngươi hẳn phải hiểu rõ đây là lỗi của chính mình chứ.”
 
-  
+
+
+  Thống Lĩnh Wensoan bồi thêm: “Lão ta chỉ là một con lợn tham lam, biển thủ công quỹ, mù quáng trước kẻ phản bội ngay trong chính ngôi nhà của mình. Lão đáng đời.”
 
-Những người Thượng Phẩm có tư tưởng cởi mở hơn thì chọn ở lại và bày tỏ sự ủng hộ dành cho phe Herdon, trong số đó có chú Cutler và Đầu Bếp Sagen. Dù nói đi cũng phải nói lại, chẳng ai có thể thuyết phục nổi Jives Cutler rời khỏi cửa tiệm của ông. Soryl cũng ở lại, nhưng anh ấy không ủng hộ chúng tôi nhiều như kỳ vọng. Chuyện đó xin để kể sau.
+
+
+  “Thôi nào, thôi nào, Wensoan. Sẽ có thời gian cho việc đó sau. Đồ Tể, nếu ngươi không phiền. Ta đang đói cồn cào rồi đấy.”
 
-  
+
+
+  Vẫn còn quá nhiều điều tôi chưa thể thấu suốt. Tại sao hắn lại muốn tôi nấu những món này? Đúng là hắn không biết công thức món taco của tôi, nhưng hắn biết Ớt ma thuật kiểm soát tâm trí. Không tìm thấy câu trả lời hay bất kỳ lý do hợp lý nào, tôi quyết định kiên nhẫn chờ thời cơ.
 
-Chúng tôi nói lời vĩnh biệt với hai mẹ của tôi. Chỉ có một nhóm nhỏ người đưa tiễn, trong đó có Cori và chú Rish. Tôi thực sự chẳng muốn nấu nướng chút nào, thậm chí chỉ nhìn gian bếp thôi cũng khiến lòng tôi quặn thắt, nhưng hai mẹ xứng đáng có một bữa tiệc tang lễ tươm tất, và tôi cũng chẳng đời nào để ai khác làm thay mình việc đó. Tôi quyết định nấu cho hai mẹ một món ăn đặc biệt, thứ mà hai người có thể thưởng thức ở thế giới bên kia, điều họ chưa từng có được trong kiếp sống này.
+
+
+  Tôi phải tìm cách cứu Cori và chấm dứt sự điên rồ này. Vì vậy, tôi rửa tay tại bồn rồi kiểm tra lại các nguyên liệu. Khi thấy Laven không lập tức bước theo, tôi lo sợ cơ hội giữ cậu bên cạnh mình đang dần vuột mất. Giờ đây khi Hoppus đã chết, cậu còn giá trị gì đối với tên vua nữa? Nếu có, tên vua ắt hẳn chỉ coi cậu là một mối hiểm họa khôn lường. Tôi buộc phải giữ cho cậu còn giá trị lợi dụng.
 
-  
+
+
+  “Laven,” tôi cất tiếng gọi. “Lại rửa tay đi. Tôi sẽ cần cậu phụ bếp nếu phải nấu cho ngần này người. Cậu thừa biết tay nghề bày biện đĩa ăn của tôi vụng về thế nào rồi đấy. Còn nhớ món panna cotta không? Chắc cậu không muốn để tôi biến thành trò cười ngay lúc này đâu nhỉ.”
 
-Tôi nhớ lại ổ bánh mì của Mẹ, nhớ nó đã hòa quyện tuyệt vời thế nào với Đại công thức ma thuật đầu tiên tôi nấu: món Súp bắp bò phóng hỏa - Đại công thức 7 mà Má đã truyền lại. Tôi nghĩ về hơi ấm nơi lò sưởi và ngọn lửa bùng lên từ uy lực của món súp. Bằng những kỹ năng vẫn còn khiến bản thân bỡ ngỡ, tôi vận dụng Cường hóa Ma thuật vào món ăn, tạo nên thứ mà tôi tin là phiên bản hoàn hảo nhất của những gì Mẹ từng tìm kiếm nơi ổ bánh mì men chua và bát súp ấy. Trong lúc nấu nướng, tôi nhớ tới những câu chuyện Má từng kể cho tôi nghe, được lưu truyền từ đời bà cố của bà về vài lễ hội trên Olearth xa xưa. Rằng ngày ấy, người ta từng thắp lên những chùm pháo hoa khổng lồ bùng nổ giữa bầu trời, mang hình dáng của muôn hoa và những rặng cọ. Tôi nghĩ về ngọn lửa mà món Súp bắp bò phóng hỏa mang lại, rồi mường tượng cảnh ngọn lửa ấy phóng vút lên nền trời thành những hình thù rực rỡ.
+
+
+  Cậu trố mắt nhìn tôi, nhưng tôi khẽ nheo mắt ra hiệu kín đáo nhất có thể, hy vọng cậu nhận ra ẩn ý đằng sau câu nói. Tạ ơn các vị thần, Laven Florento có lẽ là người sắc sảo nhất trong căn phòng này, kể cả khi tính cả Yenne và Dyl. Ánh mắt Laven lóe lên tia hiểu ý, rồi cậu lập tức cất bước tiến lại bồn rửa cùng tôi.
 
-  
+
+
+  ✦  ✦  ✦
 
-Khi bữa tiệc tang lễ kết thúc, chúng tôi phóng những chùm lửa lên trời cao và tiễn biệt hai mẹ theo cách chưa từng có ai làm trước đây: những bông hoa lửa nhỏ lặng lẽ nở rộ, tựa như loài hoa từng có thể đơm bông trong chiếc chậu chúng tôi vẫn dùng để đựng kẹp gỉ sét. Nếu Mẹ còn sống, tôi biết chắc Mẹ sẽ muốn trồng vài khóm hoa như thế.
+
+
+  Vào bất kỳ ngày nào khác, Nữ Lưu Trữ Viên sẽ phản bác lại lời xúc phạm này, nhưng Đồ Tể đang tiến gần đến hồi kết, và những thanh âm bạo tàn ngoài bức tường ngày một vang dội hơn. Dù có Nghi Lễ hay không, thời gian họ ở bên nhau cũng sắp sửa lụi tàn.
 
-  
+
+
+  ✦  ✦  ✦
 
-Ngày hôm sau, chúng tôi tổ chức một bữa tiệc tang lễ cho tất cả những người đã khuất, và Cori đề nghị tôi chia sẻ Cường hóa Ma thuật ấy cho toàn thể người dân Ranch. Dù phe Bầy Đàn càu nhàu về việc để lộ công thức, tôi biết đó chính là điều hai mẹ luôn mong muốn. Với xác của ngần ấy quái thú Bò sát Carnephon, chúng tôi có thừa lượng thịt để thết đãi cả thành phố, và trước đây hai mẹ cũng từng chia sẻ phiên bản gốc của món ăn ấy một lần. Mọi chuyện diễn ra thật trọn vẹn và đúng đạo lý.
+
+
+  Chúng tôi không hé răng nửa lời. Xung quanh có quá nhiều Thợ Săn Mặt Nạ đứng sát sạt khiến tôi không thể mạo hiểm cất tiếng. Thế nhưng tôi buộc phải truyền thông điệp cho cậu nếu cả hai muốn lên kế hoạch hành động. Laven đã cùng tôi đứng bếp suốt nhiều tuần liền trong các lớp học của Đầu Bếp Sagen và Đầu Bếp Chikor. Chúng tôi hiểu quá rõ từng thói quen và phong cách nấu nướng của nhau. Vì thế, chỉ cần tôi đi chệch khỏi quy chuẩn thường nhật, chỉ cần tôi làm một điều gì đó có chủ đích, tôi tin chắc cậu sẽ nhận ra ngay. Điều quan trọng là tôi phải hành động sao cho không một ai khác phát hiện.
 
-  
+
+
+  “Nếu muốn tôi làm món taco của mình,” tôi nói với tên vua, “tôi cần bột rễ trời.”
 
-Đầu Bếp Sagen giám sát buổi phục vụ quy mô liên thực đường lớn nhất trong lịch sử Ranch. Toàn bộ mười lăm Đầu Bếp còn sót lại (bởi phần lớn đã bỏ trốn) đều thi triển Cường hóa Ma thuật, và suốt một đêm dài, cả thành phố rực sáng trong những nghi lễ tưởng niệm người đã khuất.
+
+
+  Tên vua gõ nhẹ ngón tay lên mặt bàn. “Ngoan ngoãn đi lấy đi nào, cưng.”
 
-  
+
+
+  Yenne đứng dậy với vẻ điềm tĩnh, ung dung rảo bước về phía chiếc tủ có khóa. Rút chiếc chìa khóa từ trong những nếp váy, cô mở tủ rồi thò tay lấy đồ bên trong. Mái tóc nhuộm của cô khẽ nảy lên sau lớp mặt nạ khi cô bước lại gần tôi, muôn vàn nếp gấp trên tà váy xào xạc theo từng nhịp chân.
 
-Còn tôi, tôi không nấu nướng thêm món nào nữa.
+
+
+  “Vậy ra hắn chính là đối tác bí ẩn của cô sao?” Tôi hỏi khi cô tiến lại gần.
 
-  
+
+
+  Chẳng buồn đáp một lời, cô đặt túi bột rễ trời quen thuộc xuống mặt bàn rồi quay người bước đi.
 
-Những đợt tấn công nổ ra ngay sáng hôm sau. Chúng tôi biết rõ chúng do Wensoan cùng các gián điệp thuộc phe Thượng Phẩm trong thành phố điều phối, nhưng phe Bầy Đàn còn quá nhiều vấn đề nan giải khác phải giải quyết. Vô số thường dân Thứ Phẩm đã lâm vào cảnh mất nhà cửa. Dù chúng tôi có thể thu xếp cho một số người dọn vào Phố Mây cùng các khu Thượng Phẩm đang dần bỏ trống, tầng lớp Thứ Phẩm từ trước đến nay vẫn luôn đông hơn hẳn tầng lớp Thượng Phẩm. Một trại tị nạn được dựng lên tại Cánh Đồng Cỏ Cao, song chính điều đó lại làm nảy sinh một rắc rối mới.
+
+
+  “Cô đã bao giờ *thực sự* thuộc về tầng lớp Thứ Phẩm chưa vậy?” Tôi gọi với theo bóng lưng cô. “Không một món ăn đón chào, chẳng hề có chút chất giọng đặc trưng, cũng chưa từng đoái hoài đến chúng tôi. Chuyện thăng tiến kia chỉ là bình phong để cô trà trộn vào tổ chức Bầy Đàn thôi sao? Hay cô mù quáng tới mức không nhận ra hắn đang lợi dụng mình? Hắn gọi cô là gì trong bức thư kia, kẻ hầu hạ của hắn à?”
 
-  
+
+
+  Cô lao vụt trở lại chỗ tôi, hai tay vung mạnh tà váy theo từng bước chân gấp gáp. Khi tôi còn chưa kịp định thần trước cơn bộc phát bất ngờ, cô đã túm chặt lấy vạt trước tạp dề của tôi rồi xô mạnh tôi vào chiếc lò nướng đang hầm hập nóng. “Anh muốn phán xét lòng trung thành của tôi thế nào cũng được, nhưng sự dốt nát của anh là sự thật đã được ghi chép rõ ràng! Hay là anh đã quên mất chuyện mình thậm chí còn không bảo vệ nổi một luận điểm trong lớp học của Dyl rồi?”
 
-Kể từ ngày tôi hạ sát nhà vua, phe Bầy Đàn đã thiêu xác với tốc độ đáng kinh ngạc, nhưng cảnh tượng hoang tàn ở các khu Thứ Phẩm cùng lượng lớn thi thể thối rữa đã khiến dịch bệnh lây lan nhanh chóng. Căn bệnh đậu mùa càn quét qua khu trại tị nạn. Khu Thứ Phẩm Số 2 và Số 4 lần lượt nhiễm bệnh, rồi dịch bệnh lan sang cả các khu Thượng Phẩm. Tất cả diễn ra giữa lúc quân nổi loạn của Wensoan không ngừng tập kích và chất thêm những xác chết mới.
+
+
+  Trước khi tôi kịp vặn lại, cô đã dứt khoát quay về chỗ ngồi, khoanh hai tay trước ngực rồi lạnh lùng trừng mắt nhìn ra ngoài cửa sổ.
 
-  
+
+
+  Những luận điểm của tôi trong lớp học của Dyl ư? Lời lăng mạ kỳ quặc nhất trần đời khiến tôi không khỏi sững sờ, cho đến khi tôi vuốt lại chiếc tạp dề và nhận ra một gói nhỏ *đã* được nhét gọn gàng giữa lớp vải thô với vạt áo sơ mi, ngay tại vị trí cô vừa túm lấy. Tôi liếc nhanh về phía chiếc tủ đang mở, chỉ một thoáng thôi cũng đủ để nhận ra Yenne đã lấy ra hai chiếc túi chứ không phải một.
 
-Chúng tôi chắc chắn đã không thể sống sót qua cơn hoạn nạn này nếu thiếu Laven.
+
+
+  Tôi không dám chạm vào chiếc túi, nhưng khi quay lại bàn đảo bếp dưới tầm mắt của tên bạo chúa, tôi thầm nhận biết những thanh dài đang cấn chặt vào ngực mình. Chắc chắn đó là vỏ cây mang hương vani, mạch nha và cam chanh.
 
-  
+
+
+  Rốt cuộc Yenne có đứng về phía tôi không? Phải chăng cô đang bị ép buộc trái với ý muốn? Đó có phải lý do cô bị gọi là kẻ hầu hạ?
 
-Bessa đã bắt được cậu ấy, nhưng cú va chạm đã làm gãy nát cánh tay trái cùng chân trái của cậu. Trong quá trình điều trị, chúng tôi mới nhận ra giới hạn của dòng sữa Emphon. Thứ sữa ấy có thể chữa lành hầu hết mọi tổn thương phần mềm, thế nhưng vết thương xương khớp lại đòi hỏi một khoảng thời gian vàng nhất định, mà chúng tôi thì đã bỏ lỡ. Bessa, và kéo theo đó là cả tôi, đã cứu sống cậu ấy; vì lẽ đó, Laven biết ơn đến mức nhắc đi nhắc lại nhiều tới phát phiền. Dẫu vậy, cậu ấy đã vĩnh viễn mất đi khả năng điều khiển tinh tế bàn tay trái, và việc đi lại cũng trở nên vô cùng khó khăn.
-
-  
-
-Dù vậy, trí óc cậu ấy vẫn sắc bén phi thường như mọi khi. Chúng tôi cùng nhau trải qua vài ngày trong bệnh viện mới; cơn bội thực ma thuật trước đó đã tàn phá nghiêm trọng nội tạng của tôi. Tại đây, tôi bắt đầu chia sẻ những ý niệm mà mình vừa thấu suốt. Cậu ấy cùng Cori là hai người duy nhất tôi đem những chuyện ấy ra giãi bày, hai người duy nhất tôi trọn niềm tin tưởng.
-
-  
-
-Laven đã sáng tạo ra Đại công thức ma thuật đầu tiên của mình khoảng một tháng sau cái chết của nhà vua: Món Panna Cotta Ân Huệ làm từ bột sữa Emphon. Vận dụng lý thuyết về ý niệm của tôi, cậu ấy bọc lấy ý chí kiên cường đắng cay vào hương vị gắt nồng của đại hoàng. Đại công thức thu được đã thiêu rụi mầm bệnh đậu mùa khỏi cơ thể của bất kỳ ai thưởng thức. Chúng tôi không có nhiều sữa dư dả, nhưng chừng đó cũng đủ để lật ngược thế cờ.
-
-  
-
-Sáu tháng sau cái chết của nhà vua, cha mẹ của Cori trở về Ranch, họ chính là các Lãnh tụ Quản lý Herdon, vị quốc vương và vương hậu của chúng tôi. Khu Thứ Phẩm Số 6 hoàn toàn mới, sừng sững uy nghi và vững chãi hơn bất kỳ khu vực nào trước đây, hân hoan chào đón sự trở về của họ. Những thường dân Thứ Phẩm từng mất nhà cửa nay được cấp nơi ở mới. Hành động đầu tiên của cha mẹ Cori là xóa bỏ hoàn toàn khái niệm Thứ Phẩm và Thượng Phẩm, ban sắc lệnh coi tất cả mọi người đều là cư dân Ranch, đúng như thời tổ tiên ngày trước.
-
-  
-
-Nhưng rồi, chiến tranh...
-
-  
-
-✦  ✦  ✦
-
-  
-
-“Tôi nghĩ chúng ta có thể bỏ qua những năm tháng xen giữa,” Nữ Lưu Trữ Viên ngắt lời. “Chúng ta đều đã nắm quá rõ những gì xảy ra tiếp theo rồi.”
-
-  
-
-“Được thôi. Nếu tôi đếm không nhầm,” tôi cất lời, quay mặt về phía vách sau của buồng giam với hai tay khoanh sau lưng, “vậy là kết thúc bốn trăm tội danh giết người, một tội sát quân, một tội báng bổ, và một tội ăn thịt đồng loại.”
-
-  
-
-Nữ Lưu Trữ Viên rút chiếc đồng hồ bỏ túi từ các nếp gấp váy ra. “Vậy tôi hiểu có đúng không, rằng lời bào chữa cuối cùng của anh, dưới sự chuẩn thuận của Nghi Lễ, chính là quyền miễn trừ quân chủ? Cuộc hôn nhân của anh với Cori sẽ xóa bỏ mọi tội trạng?”
-
-  
-
-“Như tôi đã nói đấy: Vua Đầu Bếp.”
-
-  
-
-“Vậy thì hãy bỏ qua để đến thẳng đám cưới của anh đi. Tôi không nhớ là nó đã được hoàn tất đâu.”
-
-  
-
-“Đó lại là một câu chuyện hoàn toàn khác,” tôi phản bác. “Để hiểu được ngọn ngành, chúng ta sẽ phải kể lại toàn bộ quãng thời gian tôi ở bên ngoài Ranch, thời còn là thợ mổ tập sự, chuyện quái long Drakephon, các Ma Pháp Ẩm Thực Sư... Trời đất ạ, chúng ta sẽ còn phải lần lại những gì đã dẫn dắt tôi đến với Cội Nguồn. Kể hết chuyện đó sẽ mất toi thêm một ngày nữa đấy.”
-
-  
-
-“Anh đã chạm vào nó ư?”
-
-  
-
-Trước khi tôi kịp nói thêm, cánh cửa bật mở. Thống Lĩnh Wensoan bước vào, mồ hôi nhễ nhại cùng nét mặt xám xịt hằn sâu vết dấu tuổi tác.
-
-  
-
-“Đến lúc rồi đấy,” tôi nói.
-
- 
-
-  
-
-**Món chuyển vị VII
-Vĩ thanh**
-
-  
-
-“Nó ở đâu?” Viên Thống lĩnh gặng hỏi.
-
-  
-
-“Cái gì ở đâu cơ?” Tôi giễu cợt.
-
-  
-
-“Mày biết thừa là cái gì rồi! Mày bảo nó ở Cao nguyên Fen mà.”
-
-  
-
-Tôi tiến lại gần cửa phòng giam rồi cẩn thận tháo từng chiếc kính áp tròng ra khỏi mắt. “Ồ, nó từng ở đó đấy chứ.” Đôi mắt tôi rực sáng tựa ngọn lửa hoang, thiêu đốt bằng uy lực của Sức bền ma thuật.
-
-  
-
-“Làm sao có thể?” Viên Thống lĩnh há hốc mồm. “Tóc của mày! Bọn tao đã cắt sạch tóc mày rồi cơ mà!”
-
-  
-
-Ánh mắt lão đảo nhanh về phía Nữ Lưu Trữ Viên, nhưng trước khi cô kịp lên tiếng, tôi đã ném một chiếc hộp phấn nhỏ qua chấn song sắt. Tất cả cùng trố mắt nhìn nó lăn lóc, phát ra tiếng leng keng trên sàn.
-
-  
-
-Mắt Nữ Lưu Trữ Viên trợn tròn khi nhận ra chiếc hộp đựng bộ dụng cụ cạy khóa vốn luôn được giấu kín trong nếp váy của mình. Đầu óc cô bỗng chốc mụ mị đi, tựa như có điều gì đó cô đã bị ép buộc phải quên lãng. Liệu chuyện đó có thể xảy ra sao?
-
-  
-
-“Tôi từng thề sẽ tận mắt chứng kiến lũ Panchon cùng tất cả những kẻ từng ngồi vào bàn tiệc của tên vua đó phải đền mạng vì những gì chúng đã gây ra cho hai mẹ của tôi,” tôi nhắc nhở họ, kéo sự chú ý của họ trở lại đôi mắt rực lửa của mình. Bằng một cú đạp, cánh cửa phòng giam bật tung ra, kim loại va đập chói tai khi chao đảo trên bản lề.
-
-  
-
-Viên Thống lĩnh, dù thiện chiến và hung hăng ngút trời, bỗng chết sững. Nữ Lưu Trữ Viên đứng bật dậy. Thế nhưng, chẳng ai trong số họ kịp trở tay.
-
-  
-
-Như thể vừa ăn món Salad tỉnh táo, tôi lao đi thoăn thoắt tựa một vệt mờ, phóng qua chiếc bàn chắn ngang của Nữ Lưu Trữ Viên, rồi ập thẳng vào Wensoan, bàn tay siết chặt lấy yết hầu lão.
-
-  
-
-“Ngươi nghĩ tôi sẽ chịu bị bắt sao? Rằng tôi sẽ để bản thân thất thế ư? Rằng tôi sẽ ngồi dù chỉ một phút ở cái xó này mà không nắm giữ lượng Sức bền ma thuật vượt xa mức cái thân xác thảm hại của ngươi có thể tưởng tượng sao?”
-
-  
-
-Giữa lúc Nữ Lưu Trữ Viên còn đang tính chuyện tháo chạy, Đồ Tể đã bóp nát khí quản của viên Thống lĩnh, đoạt mạng lão ngay tức khắc.
-
-  
-
-Trong chớp mắt, Đồ Tể vặn ngược cổ tay Nữ Lưu Trữ Viên. Cô toan thét lên nhưng tiếng thét lập tức bị chặn đứng khi lòng bàn tay đẫm mồ hôi của anh bịt chặt lấy môi cô.
-
-  
-
-“Tôi cũng từng định giết cả cô đấy,” anh trầm ngâm, “đã tính làm vậy cho đến khi cô lên tiếng.”
-
-  
-
-Nữ Lưu Trữ Viên lầm bầm điều gì đó sau kẽ tay anh, nhưng Đồ Tể chẳng buồn bận tâm. Anh nghiêng đầu lắng nghe tiếng đập cánh bên ngoài tòa nhà.
-
-  
-
-“Chuẩn xác từng giây,” anh nói.
-
-  
-
-Tiếng bước chân dồn dập lao về phía cửa. Nữ Lưu Trữ Viên ngỡ sẽ thấy thêm binh lính ùa vào, nhưng thay vào đó, hai bóng người gầy gò hốc hác lại xông vào bên trong: Jives Cutler và Musta Thứ Phẩm Số 1. Cả hai đều khoác trên mình bộ đồ tử tù được phát từ khi bị bắt nhiều tuần trước, cái ngày họ biến thành mồi nhử để gài bẫy Đồ Tể.
-
-  
-
-Câu chuyện của Đồ Tể vẫn còn mới nguyên, Nữ Lưu Trữ Viên chẳng mảy may ngạc nhiên khi thấy chú Cutler xoay xở giải thoát được cho cả hai người. Đám lính gác bám riết theo hai tù nhân vào trong, vũ khí lăm lăm trên tay.
-
-  
-
-“Không còn đường chạy đâu,” một ả lính nữ lên tiếng, đôi mắt rực sáng ánh Sức bền ma thuật, sẵn sàng nghênh chiến.
-
-  
-
-Nhưng rồi cả tòa nhà rung chuyển dữ dội khi một khối sức nặng khổng lồ tông sầm vào. Đồ Tể đáp lại bằng cách buông tay khỏi Nữ Lưu Trữ Viên và nở một nụ cười rạng rỡ. Bụi từ trần nhà trút xuống như mưa. Khói xộc vào khiến cô ho sặc sụa.
-
-  
-
-Trong lúc cô còn đang ho sặc, Đồ Tể thò tay vào nếp váy cô rút phắt con dao ra.
-
-  
-
-“Mất bao nhiêu lâu tôi mới nhìn thấu mánh khóe này của cô đấy,” anh nói rồi sải bước qua xác Thống lĩnh Wensoan. “Hãy biết điều nếu còn muốn sống đủ lâu để rời khỏi nơi này.”
-
-  
-
-Mặt Nữ Lưu Trữ Viên cắt không còn giọt máu. Vậy là cô sắp bị bắt làm tù binh rồi.
-
-  
-
-Đám lính gác ùa tới, nhưng đôi mắt chú Cutler chợt bừng sáng. Không phải ánh vàng kim của Sức bền ma thuật, mà là sắc xanh mòng két của quặng Endurmite. Một luồng gió rít gầm xé toạc căn phòng, đánh bạt đám lính lùi ngược về sau.
-
-  
-
-Dưới sàn, Đồ Tể cắt phăng chiếc lưỡi của Thống Lĩnh Wensoan bằng một động tác thuần thục.
-
-  
-
-Một tiếng xé rách kinh thiên động địa làm rung chuyển toàn bộ căn phòng. Ánh sáng tràn vào khi một bộ xương khổng lồ giật phăng mái nhà ra. Những khúc xương của nó ánh lên sắc vàng kim trong buổi hoàng hôn rực lửa, đã được dát vàng và bảo quản theo một phương thức vô cùng lạ lẫm với đôi mắt cô. Hốc mắt trên hộp sọ của con quái thú bò mộng Emphon bất tử trừng trừng nhìn xuống bên dưới cặp gạc hươu bằng năng lượng ma thuật Endurium bóng loáng, mang sắc xanh thẳm rực rỡ nổi bật giữa bầu trời cháy đen vì khói bụi, trước khi tất cả bị che khuất bởi đôi cánh da lỗ chỗ những vết thủng.
-
-  
-
-Quái long Drakephon.
-
-  
-
-“Anh họ,” Musta há hốc mồm nói, “mình được cưỡi nó thật hả anh?”
-
-  
-
-“Nếu em muốn, bé ngoan,” Đồ Tể mỉm cười đáp.
-
-  
-
-Đám lính gác lại toan xông lên lần nữa, nhưng chỉ để tiếp tục bị chú Cutler đánh bạt trở lại.
-
-  
-
-Quái long trơ xương hạ một phần bộ hàm khổng lồ vào căn phòng đúng lúc đám lính ùa tới, khiến chúng phải khựng phắt lại. Đồ Tể chĩa dao về phía Nữ Lưu Trữ Viên:
-
-  
-
-“Leo lên.”
-
-  
-
-Chẳng ích gì khi chống cự, cô bước lên bộ hàm đang mở rộng, một tay vòng qua ôm lấy chiếc răng sắc nhọn để giữ thăng bằng, tay kia ghì chặt cuốn Sách Nghi Lễ, không muốn để pho sách rời khỏi tầm mắt mình thêm một khoảnh khắc nào nữa.
-
-  
-
-Đồ Tể quay người nhìn đám lính đang tụ tập, vung lưỡi dao điểm qua từng kẻ một trước khi dừng lại trên xác Thống lĩnh. Bằng bàn tay còn lại, anh giơ chiếc lưỡi lên phía trên miệng mình.
-
-  
-
-“Hãy nhớ lấy điều này,” anh nói, đôi mắt rực sáng Sức bền ma thuật mãnh liệt đến mức soi rõ từng hạt bụi bay trong căn phòng ngập nắng, “ở Ranch, chúng ta ăn thịt bọn Thượng Phẩm.”
-
-  
-
-Anh nuốt trọn chiếc lưỡi.
-
-  
-
----
-
-  
-
-**HẾT QUYỂN MỘT**
+
+
+  Tôi không biết phải nghĩ thế nào nữa, chỉ tự nhủ bản thân phải tập trung giữ lấy mạng sống cho Cori và Laven. Để tránh bị nghi ngờ, tôi ném một ánh nhìn hằn học vào sau gáy Yenne rồi bước tới giá cắm dao khổng lồ, vờ như đang cân nhắc từng loại dao.
+
+
+
+  Có mười ba hàng dao, tương ứng với từng loại mà Đầu Bếp Ilantra từng dạy chúng tôi trong môn Nghệ thuật Dao Kéo. Tôi từng mong chúng được cắm lộn xộn để mình có thể lén giấu một con dao phay vào bao bên trong tạp dề mà không bị phát hiện. Nhưng nếu hai con dao bị rút ra từ cùng một hàng mà chỉ có một con xuất hiện trên mặt bàn, mưu mẹo của tôi sẽ bại lộ ngay lập tức. Dù vậy, điều đó cũng chẳng ngăn được tôi vơ lấy nửa tá dao. Tôi đưa vài con cho Laven, ra hiệu bảo cậu bắt đầu sơ chế rau củ, rồi chộp lấy tảng sườn khổng lồ.
+
+
+
+  “Bao nhiêu phần?” Tôi hỏi khi ghé lưỡi dao chuẩn bị xẻ thịt.
+
+
+
+  “Bốn phần taco, một phần sữa và hai phần ớt,” tên bạo chúa đáp lời.
+
+
+
+  “Hai phần ớt ư?” Tôi nghẹn giọng. “Tôi sẽ cần thêm máu.”
+
+
+
+  Nhà vua nở nụ cười cay độc đầy vẻ giả tạo. Hắn cố tình kéo dài từng giây từng phút khiến nỗi sợ hãi châm chích khắp tứ chi tôi, các thớ cơ giật lên vì căng thẳng tột cùng. “Dĩ nhiên rồi! Ta bỏ quá cho đấy. Có ai hảo tâm xuống tầng hầm khui một thùng máu của lũ lưu đày lên đây không?”
+
+
+
+  Một tên Thợ Săn Mặt Nạ thoắt biến mất, khiến bụng dạ tôi quặn thắt. Từng thùng. Lũ chúng chứa cả những thùng đầy máu của những người bị lưu đày. Đến nước này, tôi chẳng hiểu sao bản thân vẫn còn sức để gánh thêm nỗi mất mát nào nữa. Đã có quá nhiều người phải bỏ mạng.
+
+
+
+  “Ồ, còn nữa, Đồ Tể?” Hắn ngừng cạy mũi dao dưới móng tay. “Máu rất dễ cháy đấy. Kỹ thuật của mày liệu mà làm cho thật chuẩn xác. Bằng không, mày sẽ phải làm lại từ đầu với nguyên liệu tươi mới. Ta tin chắc máu của con ả kia cũng dùng tốt thôi.”
+
+
+
+  Hắn nói đúng về chuyện máu rất dễ cháy. Máu trong người tôi lúc này cũng đang bùng sôi như lửa đốt. “Ông thấy khoái trá khi tỏ ra bề trên, hay thói đặc quyền ăn sâu vào tận xương tủy khiến ông tự cho mình là thượng đẳng?”
+
+
+
+  Căn phòng lặng phắt, mọi ánh mắt đều đổ dồn vào tôi. Rồi họ lại nhìn về phía nhà vua. Hắn im lặng một hồi lâu như thể đang cân nhắc câu hỏi của tôi. “Ta chỉ nhớ có đúng một kẻ từng dám ăn nói với ta bằng cái giọng đó,” hắn cất tiếng. “Một con khốn kiêu ngạo. Lúc nào cũng thích lảm nhảm ở Hội đồng Phán quyết và trong lớp học rằng tất cả chúng ta đều chung một chiến tuyến. Thề có Đấng Tiêu Thụ, mày không thể tưởng tượng nổi ta đã sung sướng thế nào khi phát hiện ả đang ngầm giúp sức cho Bầy Đàn của bọn mày đâu. Nhưng niềm vui đó vẫn chưa thấm tháp vào đâu so với khoảnh khắc ta bổ toang đầu ả ra rồi nếm thử não của ả.”
+
+
+
+  “Ông nghĩ tôi sợ chắc?” Tôi gằn giọng, từ từ luồn con dao phay tôi vừa đặt cạnh Laven vào bên trong tạp dề.
+
+
+
+  “Mày phải nấu ăn mới đúng!” Nhà vua đáp lời. “Nhưng nếu mày cảm thấy chưa đủ động lực, có lẽ thứ này sẽ giúp được đấy.”
+
+
+
+  Hắn đâm phập con dao xuống đùi Cori. Mắt em trợn trừng, tiếng thét xé toạc mảnh vải bịt miệng. Nhát dao nhói buốt tựa hồ cắm thẳng vào da thịt tôi. Nỗi đau càng xé lòng hơn khi tôi vốn đã lường trước được điều đó, biết rõ cái giá phải trả cho việc đánh lạc hướng hắn sẽ giáng xuống người em. Nhưng tôi tự nhủ rằng việc giấu được con dao vào tạp dề hoàn toàn xứng đáng với cái giá ấy, và đó cũng chính là điều em mong muốn.
+
+
+
+  Đầu em ngoẹo sang một bên, những tiếng rên rỉ đau đớn lịm dần thành từng cơn nấc nghẹn.
+
+
+
+  “Bắt tay vào việc đi, đồ Thứ Phẩm, bằng không nhát tiếp theo sẽ cắm thẳng vào mắt ả.”
+
+
+
+  Nghiến chặt răng, tôi sắp xếp nốt các nguyên liệu và tính toán cách thức để vừa hoàn thành món taco chỉ mất vỏn vẹn sáu phút, vừa nấu xong món ớt hầm mất hơn sáu mươi phút, cùng toàn bộ những dự tính còn lại. Khi mọi thứ đã sẵn sàng, tôi giơ một con dao ra trước mặt, dùng móng tay búng nhẹ lên sống dao mô phỏng tiếng chuông báo hiệu.
+
+
+
+  Laven, với những vệt nước mắt vẫn còn loang trên làn da ngăm, lập tức chú ý đến tôi. Cậu chưa từng làm việc trong gian bếp của Đầu Bếp Ilantra, nhưng cậu luôn khát khao điều đó. Chúng tôi đã cùng nhau nghiền ngẫm cuốn sách nấu ăn của bà hàng chục lần kể từ ngày sinh nhật tôi. Tôi từng kể cho cậu nghe cách mọi người vận hành căn bếp nơi ấy.
+
+
+
+  “Lửa đã đỏ,” tôi thì thầm.
+
+
+
+  Cậu ấy gật đầu, một nụ cười thoáng hiện trên khóe môi: “Dao đã bén.”
+
+
+
+  “Đĩa đã sạch.” Cả hai chúng tôi cùng hít một hơi thật sâu, rồi tôi hoàn tất khẩu quyết: “Hãy biến hôm nay thành ngày tàn của hắn.”
+
+
+
+  “Đã rõ, thưa Đầu Bếp.”
+
+
+
+  Đáp lại cậu chỉ là một cái gật đầu cộc lốc của tôi. Và thế là, chúng tôi bắt tay vào việc.
+
+
+
+  Tôi nhanh chóng vùi mình vào công việc, cố gắng truyền đi những ám hiệu cho Laven qua từng nhát cắt vát góc cùng các thao tác vụng về bất thường bất cứ khi nào có thể, dẫu cơ hội chẳng có là bao. Đây là lần đầu tiên tôi nấu món Ớt ma thuật kiểm soát tâm trí - Đại công thức 5, cũng là lần đầu tiên tôi phải thực hiện cùng lúc hai Đại công thức ma thuật. Tôi cảm thấy bản thân bị dồn ép đến tận cùng giới hạn của kỹ năng bếp núc. Bản thân món ớt hầm đã đòi hỏi một quy trình vô cùng phức tạp, ấy là còn chưa kể tôi vừa phải giữ cân bằng cho món bánh taco của mình, vừa nơm nớp lo sợ không biết rốt cuộc làm cách nào để thoát khỏi tình cảnh hiểm nghèo này. Tôi buộc phải tập trung cao độ vào việc Cường hóa Ma thuật cho món taco, đồng thời dung hòa từng tầng lớp hương vị phong phú của nó. Tôi phải vừa nấu vừa nếm, một trải nghiệm kinh khủng đến phát nôn khi món ớt hầm ma thuật ấy ngập ngụa máu tươi.
+
+
+
+  “Cẩn thận đấy,” có lúc Laven phải cất tiếng cảnh báo.
+
+
+
+  Tôi nhìn xuống và giật mình nhận ra mình đã quên cụp các đầu ngón tay lại bên cạnh lưỡi dao băm. Nếu vừa rồi tôi hạ đao xắt quả ớt chuông bên dưới, ngón tay tôi hẳn đã lìa khỏi bàn tay. Adrenaline đập thình thịch phía sau hốc mắt, mang lại cảm giác ngột ngạt y hệt lần tôi nuốt phải hải sản có vỏ năm nào.
+
+
+
+  Trong nỗi tuyệt vọng và cơn kiệt sức tột cùng, tôi thoăn thoắt băm nhỏ rồi thái hạt lựu, khi thì xắt lát mỏng, lúc lại xắt con cờ. Bằng từng kỹ thuật dùng dao chuẩn xác, tôi chật vật truyền đi những thông điệp ngầm cho Laven, dẫu chính bản thân cũng không dám chắc liệu cậu có thể lĩnh hội được hay không.
+
+
+
+  Thế nhưng, thời gian trôi đi, các món ăn cũng dần thành hình. Mùi hương ngào ngạt lan tỏa khắp không gian, quyến rũ đến ứa nước miếng. Vị chua thanh và cay nồng hòa quyện hoàn hảo trong nước ướp taco; tiếng xèo xèo dậy hương thơm phức bốc lên khi hành tây, tỏi và thịt nạc vai quyện làm một cho món ớt hầm. Toán sát thủ Thợ Săn Mặt Nạ vây quanh chúng tôi, vài kẻ lảng vảng đến để hít hà hương thơm và dò xét, nhưng một tên trong số đó mang tới máu tươi: máu của Hoppus Florento và một nạn nhân xấu số khác mà sự hy sinh sẽ vĩnh viễn chẳng bao giờ được xướng tên.
+
+
+
+  Liếc nhìn chiếc nồi đang sôi lục bục bên cạnh, tôi thấy phần sữa Emphon khổng lồ mà nhà vua đã để lại cho Cori. Tôi thừa biết đó tuyệt nhiên chẳng phải cử chỉ nhân từ gì. Món đó sẽ chữa lành cho em, đúng vậy, nhưng nó cũng là một mối hiểm họa khôn lường. Chính lời bóng gió về độc dược đã bóc trần dã tâm đó, từ ý đồ thâm độc cho đến liều lượng ép dùng. Hắn định bắt em nếm thử cả ba món tôi chuẩn bị. Nếu thức ăn có độc, cơ thể em sẽ phát tác ngay tức khắc. Nhưng đó chưa phải nỗi bận tâm duy nhất của tôi. Dù em chỉ khẽ nhấp một giọt ớt hầm hay cắn một miếng taco nhỏ, lượng năng lượng ma thuật Endurium phải hấp thụ vẫn là quá lớn. Cori sẽ được chữa lành trước bờ vực hiểm nguy bị bội thực ma thuật đến vỡ mạch.
+
+
+
+  Đó là điều khiến tôi lo lắng nhất về chiếc túi mà Yenne đã lén đưa cho mình, song nó cũng là cơ hội sống còn duy nhất của tôi. Bột rễ trời chứa đầy ắp năng lượng ma thuật Endurium. Nếu tôi trộn nó vào nồng độ Endurium đậm đặc sẵn có trong sữa, nguy cơ Cori bị bội thực ma thuật sẽ tăng vọt. Tôi không dám mạo hiểm tạo ra một Đại công thức ma thuật từ thứ đó. Nhưng còn miếng vỏ cây gia vị mà Yenne đưa cho tôi thì sao? Nó từng nằm cùng ngăn kéo với bột rễ trời khi chúng tôi lấy trộm đồ từ chỗ Dyl. Trong đó ắt hẳn phải chứa Endurium. Nhưng là bao nhiêu? Liệu Yenne có biết rõ hay không? Hay tất cả chuyện này chỉ là một cái bẫy?
+
+
+
+  Biết bao câu hỏi dồn dập ùa về, bóp nghẹt lồng ngực tôi trong nỗi hoang mang vô định. Nhưng tôi đã hứa sẽ nấu cho Cori một tách trà sữa, và trực giác lúc này mách bảo tôi rằng: hoặc là bây giờ, hoặc sẽ vĩnh viễn không bao giờ nữa.
+
+
+
+  Thế nên, trong lúc Laven giúp tôi bày biện món ăn (vốn dĩ tôi vụng về khoản đó đến tệ hại, chẳng phải sao?), tôi đã liều lĩnh đánh một canh bạc tày đình.
+
+
+
+  Tiếng thở dài của Đồ Tể khiến Nữ Lưu Trữ Viên giật mình. Sức nặng của nó phảng phất sự tôn kính, một nét chín chắn trầm mặc thường ngày vắng bóng trong những lời trần thuật của anh. Thậm chí người ta còn có thể nhận ra đó là cảm giác tội lỗi khôn nguôi.
+
+
+
+  “Đó chẳng phải lần đầu tiên tôi làm một chuyện điên rồ,” anh thừa nhận, “nhưng nó hoàn toàn có thể trở thành lần cuối cùng của tôi, lần cuối cùng của Cori, và cũng là lần cuối cùng của Laven. Tôi đã tự nhủ rằng điều đó xứng đáng. Dù sao thì cũng chẳng ai trong chúng tôi có cơ hội sống sót qua ngày hôm ấy. Hiển nhiên rồi, nhà vua đang say men chiến thắng tại Cánh Đồng Cỏ Cao, quá kiêu ngạo đến mức không nhận ra rằng việc lợi dụng tôi chẳng hề gieo rắc được nỗi sợ hãi tột cùng như hắn mong muốn. Nhưng rốt cuộc, hắn vẫn sẽ phải đem chúng tôi ra làm gương.”
+
+
+
+  Tôi lắc đầu, ghê tởm chính bản thân mình. “Thế nhưng thực lòng mà nói, lúc đó tôi đang phát điên vì giận dữ, hai mắt đỏ ngầu, hoàn toàn cuồng loạn. Tôi đã mất đi hai mẹ. Tôi chẳng còn thiết tha sống nữa. Tôi không muốn bỏ lại Cori trong một thế giới nơi em trở thành món đồ chơi tiêu khiển của nhà vua. Tôi từng nghĩ thà rằng tất cả chúng tôi cùng chết còn hơn. Nếu em ấy ăn ngấu nghiến đến phát cuồng, chà, ít nhất chúng tôi cũng đã cố gắng. Nếu tôi có tội tình gì, thì đó là việc tôi đã đem mạng sống của Cori ra đặt cược cho mối thù của chính mình.”
+
+
+
+  “Tôi hy vọng anh sẽ chết trong nỗi nhục nhã đè nát cõi lòng,” Nữ Lưu Trữ Viên sắc lạnh cất lời. “Chính canh bạc liều lĩnh ấy đã chứng minh cho tôi thấy điều đó. Anh đúng là kẻ như nhà vua từng tuyên bố: một tên đồ tể khát máu chỉ biết đặt bản thân lên trên hết thảy mọi điều.”
+
+
+
+  Tôi bật cười. “Chết đói đi. Tôi chẳng cần sự tha thứ của cô, hay của bất kỳ ai khác. Mau kết thúc chuyện này thôi.”
+
+
+
+  Khi Laven bày biện món ăn, tôi nhớ lại câu chuyện Cori từng kể cho tôi nghe trong Học viện. Khúc ca của em. Rằng em đã yêu thương những người Thứ Phẩm sâu sắc đến nhường nào và khao khát họ được tự do xiết bao. Tôi không hề muốn đem tính mạng em ra mạo hiểm. Tôi yêu em. Nhưng tôi buộc phải tin rằng em cũng sẽ muốn tôi đánh cược một lần. Vì thế, tôi đã liều mình thử chế biến một Đại công thức ma thuật từ vỏ cây và sữa.

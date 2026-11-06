@@ -1,157 +1,171 @@
-# 2 Hương vị của Sức bền ma thuật
+# Bày biện bàn ăn
 
-*Món Thứ Nhất • Hương Vị Đầu Tiên*
+Trước khi trở thành Paprick Đồ Tể, anh chỉ là Paprick, một người thợ xẻ thịt. Chưa phải thợ chính thức, anh vẫn chỉ là kẻ học việc - một cậu bé nông thôn bình thường ký khế ước bán thân cho xưởng mổ, ngày ngày xẻ những tảng sườn quái thú bò mộng emphon to như bò rừng thành từng dải thịt và miếng bít tết. Chẳng trách anh lại trở thành Đồ Tể. Xưởng mổ của Nhà Vua vốn chỉ làm ra duy nhất một thứ: thịt.
 
-*“Nấu ăn chẳng phải là ma thuật nếu con biết nó vận hành ra sao đâu,”* Mẹ Sesa vừa nói vừa trêu chọc qua vai tôi.
+
+
+  Và Paprick đã đoạt lấy phần xương thịt của riêng mình.
 
-Hai mẹ và tôi chen chúc trong gian bếp, nơi thực chất chẳng thể coi là một căn phòng riêng biệt trong căn hộ chung cư tồi tàn này. Mặt bếp chỉ vừa đủ chỗ cho một chiếc thớt gỗ dày dặn và chiếc chậu gốm mà Má Asabi đã nhặt về từ ban công nhà chị Meg vào mùa hè năm ngoái. Chúng tôi tận dụng chiếc chậu đó để cắm ba chiếc thìa gỗ, một chiếc xẻng lật loại tốt, một chiếc xẻng lật đã cùn, một chiếc muôi thủng và chiếc kẹp gắp mà lần nào dùng tôi cũng phải cạo sạch lớp rỉ sét. Chiếc thùng đá giữ lạnh trông giống thùng chứa nước hơn, và chúng tôi thậm chí còn chẳng có nổi một chiếc nhiệt kế. Dẫu vậy, cả nhà vẫn may mắn chán vì còn có lò nướng, những căn hộ nằm sâu phía trong tòa nhà làm gì có được đặc ân này.
+
+
+  Dù điều đó chẳng mang lại kết cục tốt đẹp gì.
 
-Trong số mười ngàn căn hộ tại Khu Thứ Phẩm Số 3, khu chung cư khổng lồ gồm nhiều dãy nhà mà chúng tôi đang sinh sống, chỉ có một phần mười là những căn hộ hướng ra ngoài trời. Hai người mẹ của tôi đã phải chắt bóp, dành dụm suốt bốn mươi năm trời mới mua nổi căn hộ này, bất chấp những bản khế ước lao dịch đè nặng trên vai. Đúng vậy, nơi này tuy nhỏ bé, nhưng chúng tôi yêu tổ ấm của mình và luôn tận dụng nó trọn vẹn nhất.
+
+
+  “Các tội danh gồm có,” tên đao phủ đứng cạnh vị nữ hoàng trẻ tuổi dõng dạc đọc lớn, giọng gã vang rền trước biển người đặc quánh. “Ba tội phản quốc, bốn trăm tội giết người, một tội báng bổ, bảy tội gián điệp, một tội thí quân, và…” Nụ cười khinh bỉ của gã hướng lên xà treo cổ, nơi gã Đồ Tể đang bị trói chặt hai cổ tay và treo lơ lửng, giãy giụa như con cá mắc câu trên đường phố cách đó hơn hai mươi mét. “Hai tội ăn thịt đồng loại.”
 
-Chiếc lò nướng xây âm vào tường ngoài, khói thoát thẳng ra phía sau; khoang lò đủ rộng để đặt một chiếc nồi sâu lòng cùng vài khúc củi nhóm, nhưng tấm kim loại ngăn giữa mặt bếp và lò lại mỏng đến mức võng xuống dưới sức nặng của nồi. Khi chiến tranh tàn phá phương Bắc, củi đốt trở nên khan hiếm. Chúng tôi đã phải dành phần lớn thời gian của mùa hè chỉ để dùng lò nướng bánh mì, món ăn mang lại chút lợi nhuận khá khẩm ngoài chợ.
+
+
+  Lưu trữ viên Pháp luật mẫn cán ghi chép các tội danh vào sổ, trong khi đám đông bên dưới không ngừng la ó, gầm rú trong một cuộc xung đột gay gắt về tư tưởng. Theo nhận định của nữ lưu trữ viên, có quá nhiều kẻ chống đối gã Đồ Tể đã trà trộn cùng phe hoàng gia trên quảng trường, khiến phán quyết của Nữ hoàng khó lòng được bảo đảm tuyệt đối. Nhưng bản chất của đám đông muôn đời vẫn vậy, và kẻ nắm quyền cai trị khi ấy chưa đủ uy thế để cấm cản họ.
 
-Đứng bên cạnh bếp, tôi chĩa con dao cắt bánh mì về phía Mẹ với vẻ đe dọa đầy tinh nghịch (tôi luôn gọi Sesa là “Mẹ” và Asabi là “Má”). “Nhưng chúng ta đâu có biết nó vận hành thế nào, ít nhất là không thực sự biết.”
+
+
+  “Đồ Tể,” Nữ hoàng lên tiếng khi đám đông dần trật tự, “ngươi nhận tội thế nào?”
 
-Má gật đầu vẻ từng trải để bênh vực tôi, rồi đưa cho tôi một ổ bánh mì men chua. Lẽ ra má phải bọc nó lại để đem bán mới đúng. Chẳng có một người Thứ Phẩm nào ở Ranch lại không nhận ra mùi bánh mì của Má ngay từ cái hít hà đầu tiên. Nhưng khi tôi tan ca trở về và kể lại tin tức kia, má đã quyết định giữ ổ bánh này lại.
+
+
+  Hàng ngàn con mắt đổ dồn lên tầng cao nhất của tòa nhà bốn tầng, nơi gã Đồ Tể gầy gò đang bị treo lơ lửng. Anh vốn dĩ luôn gầy guộc, nhưng chuỗi ngày bị giam cầm đã vắt kiệt sức lực, biến anh thành một bộ xương khô quắt tựa sợi dây thừng. Mái tóc anh rũ rượi vì lâu ngày không được cắt tỉa, hoàn toàn trái ngược với kiểu đầu gọn gàng anh thường thích. Lồng ngực để trần hằn lên những mảng bầm tím và sẹo chằng chịt, đan xen dữ dội chẳng khác nào những hình xăm trên cánh tay. Thiếu đi chiếc tạp dề cùng thanh đao cưa đồ tể quen thuộc, anh gần như trần trụi. Thế nhưng, giọng nói của anh cất lên vẫn vang dội như sấm truyền:
 
-Mẹ tặc lưỡi: “Chúng ta biết vừa đủ để giữ ổ bánh này trong tầm tay. Nên ít nhất là tối nay, nó không phải là ma thuật đâu.”
+
+
+  “Đó không phải là danh xưng của tôi.”
 
-“Đó thực sự là một công thức sao?” Tôi hỏi, hạ thấp giọng dù xung quanh chỉ có người nhà. “Một Đại công thức ma thuật ư?”
+
+
+  Cơn ớn lạnh vì kinh ngạc chạy dọc sống lưng nữ lưu trữ viên. Tiếng nói của gã Đồ Tể rung chuyển cùng Sức bền ma thuật, bất chấp việc anh đang bị những kẻ giam cầm bỏ đói. Đối với bầy đàn trung thành của anh, thứ ma thuật ấy là một bữa tiệc đầy cảm hứng. Những tiếng hô vang dội truyền qua đám đông tựa tiếng vó guốc rầm rập của loài bò đực Emphon, làm rung chuyển cả những dãy nhà chung cư xung quanh khi những người ủng hộ cùng dậm chân tỏ lòng đồng thuận:
 
-“Được truyền lại từ gia đình ta đấy,” Mẹ quả quyết. “Trước khi bị chúng sát hại, bà ngoại con thường kiểm tra mẹ mà không báo trước. Bà sẽ bảo: ‘Cục cưng của bà, nhắc cho bà nhớ công thức món Súp nào.’”
+
+
+  “Vua Đầu Bếp! Vua Đầu Bếp! Vua Đầu Bếp!”
 
-Một giọt nước mắt lăn dài, rơi thẳng vào chiếc nồi Mẹ đang chuẩn bị. Tôi siết nhẹ tay mẹ, cố gắng điều khiển đôi cánh tay đang run rẩy vì kiệt sức sau ca làm việc để cắt từng lát bánh thật êm, nâng niu ổ bánh với tất cả sự tôn kính mà nó xứng đáng nhận được. Một vài nền văn hóa trên cõi Olearth từng cấm tuyệt đối việc cắt bánh mì, coi đó là hành vi báng bổ và bất kính, hoặc ít ra bà ngoại từng kể thế, và tôi không muốn cắt ra một lát bánh nham nhở cho một bữa ăn rất có thể sẽ là bữa cuối cùng của đời mình.
+
+
+  “Đủ rồi!” Nữ hoàng quát lớn, lời nói của cô mang theo Sức bền ma thuật còn áp đảo hơn cả anh.
 
-*Việc một người Thứ Phẩm dám ăn một Đại công thức ma thuật vốn là trọng tội.*
+
+
+  Những tiếng hô lịm dần rồi tắt hẳn; mệnh lệnh ma thuật sắc bén tựa nanh vuốt của cô lập tức đè bẹp tất cả. Ngay cả bàn chân đang nhịp nhịp đầy sốt ruột của nữ lưu trữ viên cũng phải khựng lại trong thoáng chốc trước uy quyền tối thượng. Nhưng vẫn còn một giọng nói không chịu khuất phục trước mệnh lệnh ấy.
 
-“Vậy làm thế nào để chúng ta kích hoạt nó, thứ ma... Sức bền ma thuật ấy?”
+
+
+  “Tôi chấp nhận các tội danh này,” gã Đồ Tể cất tiếng, “nhưng không chấp nhận căn cứ hay những kẻ buộc tội tôi. Tôi yêu cầu được thực hiện Nghi lễ.”
 
-Hai mẹ tôi bận rộn chuẩn bị món hầm, vừa làm vừa chỉ dẫn cho tôi.
+
+
+  Ngòi bút của nữ lưu trữ viên sững lại. Cô không ngờ gã Đồ Tể lại am tường những bộ luật mà chính anh từng đứng lên tiêu diệt đến thế. Hàng loạt cái đầu trên bục cao ngoảnh qua ngoảnh lại giữa Nữ hoàng và gã Đồ Tể. Làn sóng bất bình theo cơn gió xuân ẩm ướt lan rộng khi những kẻ ủng hộ, như được tiếp thêm dũng khí, bắt đầu buông lời báng bổ vị quân chủ của mình, gào thét cổ vũ cho thần tượng.
 
-“Đầu tiên là dầu ăn và Bộ Ba Hương Vị,” Mẹ hướng dẫn, múc cà rốt, hành tây và ớt chuông xanh cho vào nồi, tất cả đều đã được thái hạt lựu dưới bàn tay khéo léo, vững vàng của bà.
+
+
+  “Hãy chấp thuận yêu cầu của anh ấy đi, đồ đạo đức giả ăn thịt đồng loại!” một người thuộc tầng lớp Thứ Phẩm lẻn vào giữa hàng ghế đầu của giới quý tộc Thượng Phẩm hét lớn. Cô ta lập tức bị lôi xềnh xệch đi một cách tàn nhẫn.
 
-“Sau đó là tỏi,” Má tiếp lời khi hỗn hợp ba loại rau củ kia đã mềm đi.
+
+
+  “Ngươi vin vào thẩm quyền của ai mà dám thốt ra lời ngu xuẩn đó?” tên đao phủ gắt gỏng, tiếng hắn lấn át cả làn sóng ủng hộ đang cuộn trào trong đám đông. “Ngươi chẳng còn bằng chứng nào để chứng minh dòng máu Thượng Phẩm của mình nữa đâu!”
 
-“Và đã đến lúc cho cỏ xạ hương rồi.”
+
+
+  Đó là câu trả lời mà Đồ Tể không thể đưa ra, và ai nấy đều hiểu rõ điều đó. Ngọn lửa nhiệt huyết của đám đông lụi tàn dần theo từng khắc trôi qua, trong khi những nụ cười đắc thắng trên bục cao lại bắt đầu rạng rỡ.
 
-Hai người mẹ của tôi khúc khích cười khi thấy tôi đảo mắt tinh nghịch.
+
+
+  “Vậy thì…” tên đao phủ cất lời.
 
-“Bỏ muối được chưa ạ?” Hồi đó tôi thèm muối đến cồn cào. Muối khiến mọi thứ đậm đà hơn, nâng tầm từng chút thức ăn ít ỏi mà chúng tôi chắt chiu từ ba suất khế ước lao dịch đạm bạc của mình. Khi ấy tôi chưa hề biết muối có thể làm hương vị trở nên phẳng lặng và đơn điệu đến nhường nào.
+
+
+  “Của tôi,” nữ lưu trữ viên ngắt lời một cách yếu ớt, gượng gạo ép từng chữ thoát ra khỏi cần cổ ngập ngừng.
 
-“Không được bỏ trước khi nước dùng sôi đâu,” Mẹ dặn. “Nó sẽ làm gián đoạn quá trình đun sôi đấy.”
+
+
+  Hàng ngàn ánh nhìn mang theo sức nặng tựa cú húc của một con Emphon đực hung hãn giáng thẳng vào bụng nữ lưu trữ viên, khiến hơi thở âu lo của cô như bị vắt kiệt. Dưới muôn vàn ánh mắt dò xét ấy, cô chỉ muốn chui tọt xuống gầm bàn mà biến mất; để bảo toàn khối gia sản cùng cuộc sống an yên mà sự phục tùng đã mang lại suốt một thập kỷ qua. Thế nhưng, sự thật phát ra từ Đồ Tể lại là một mỹ vị chưa từng có tiền lệ.
 
-“Đúng rồi,” tôi sực nhớ ra. “Mới nấu có một nồi súp ma thuật mà con đã quên mất cả cách nấu ăn rồi.”
+
+
+  “Tôi muốn nghe trực tiếp từ miệng Đồ tể.” Giọng nữ Lưu trữ viên chỉ vừa đủ để những hàng đầu của đám đông, Hội Đồng Phán Quyết, tên đao phủ và chính Nữ hoàng nghe thấy, nhưng âm hưởng của lời phản bội ấy lại vang dội tới tận những đứa trẻ đang đứng trên các thùng thịt thối rữa tít phía sau cùng. Những tiếng reo hò bùng lên, tức thì và chấn động như một cơn địa chấn.
 
-Mẹ gõ nhẹ chiếc thìa vào lòng bàn tay tôi đầy âu yếm: “Liệu thần hồn! Ở cái nhà này, chúng ta không chỉ nấu ăn...”
+
+
+  Đám đông đã trông đợi kết cục này. Đó là một niềm tin kỳ lạ đến khó tin, bởi chỉ vài giây trước đó, nữ Lưu trữ viên vẫn chưa hề đưa ra quyết định, và cả Đồ tể lẫn những kẻ cùng hội cùng thuyền với anh cũng chẳng thể biết liệu cô có làm vậy hay không. Hoàn toàn không có gì chắc chắn, nhất là khi phán quyết ấy lại đến từ chính kẻ từng kết án tử cho gia đình Đồ tể.
 
-“Chúng ta sống,” Má và tôi đồng thanh nói nốt vế còn lại. Bởi vì chúng tôi thực sự đã sống như thế. Chúng tôi sống nhờ thức ăn và tất cả những gì nó mang lại. Trong những năm tháng ấy, đó là tất cả những gì chúng tôi có: niềm vui, tình làng nghĩa xóm, sự bình yên. *Tất cả đều đến từ thức ăn.*
+
+
+  Dẫu vậy.
 
-Khi hương thơm ngào ngạt lan tỏa khắp gian phòng, tôi chuẩn bị món nước dùng rau củ trứ danh của mình, ninh từ vỏ và phần vụn rau củ gom góp từ tuần trước; nêm nếm với tiêu, ớt bột, thì là Ai Cập cùng kinh giới cay, rồi khuấy đều cho sắc nước đỏ rực lên bằng sốt cà chua cô đặc. Mẹ trầm ngâm bảo rằng nước dùng ninh từ xương quái thú Bò sát Carnephon sẽ mang lại nhiều ma thuật hơn, nhưng Mẹ cũng chỉ đoán mò thôi. Chúng tôi đâu biết Sức bền ma thuật vận hành ra sao. Chúng tôi chỉ còn nhớ hương vị của Đại công thức ma thuật, chứ chẳng mảy may nhớ gì về uy lực của nó.
+
+
+  Khi những tiếng hô đồng thanh dâng lên đến đỉnh điểm, hiếm ai nghe thấy lời phân trần tiếp theo của nữ Lưu trữ viên: “Hắn biết thứ đó ở đâu.” Nhưng Nữ hoàng thì nghe thấy, và cơn thịnh nộ của cô ta bốc lên đỏ rực tựa thứ ớt bột paprika được dùng để đặt tên cho Đồ tể Paprick. Ánh nhìn tràn ngập ma thuật của bà ta tưởng chừng có thể thiêu rụi cả bục cao trong ngọn lửa giận dữ tột cùng. “Được thôi.”
 
-Sự thật là chúng tôi cũng chẳng bận tâm đến thế. Cả nửa tháng trời chúng tôi mới kham nổi một bữa thịt bò rừng, mà đây lại không phải là những mẩu thịt thừa ôi thiu của giới Thượng Phẩm, mà là thịt quái thú bò mộng Emphon thực thụ. Thứ thịt được xẻ từ những quái thú khổng lồ lang thang khắp cõi, giẫm đạp con người như cỏ rác. Người ta đồn rằng hương vị của nó không gì sánh bằng. Dù có ma thuật hay không, chúng tôi vẫn thèm thuồng đến ứa nước miếng. Và khi biết chị Meg đã phải đánh đổi những gì để mang nó về cho tôi, tôi buộc phải trân trọng món quà ấy, dẫu trong lòng vẫn còn giận chị vô cùng.
+
+
+  Một làn sóng sức mạnh quét qua, xô mạnh khiến nữ Lưu trữ viên ngã dúi dụi vào chiếc ghế chực sụp đổ.
 
-Nhớ lời Mẹ dạy, tôi hạ nhỏ lửa cho nồi nước dùng sôi liu riu, khéo léo thái những dải thịt bắp ngược thớ, rồi xếp chúng vào chảo cùng chút dầu và nước cốt chanh để thịt được mềm. Hương hành tây và bơ hòa quyện trong làn khói gỗ hồ đào thoang thoảng vị cam chanh, xen lẫn vị ngọt dịu của củ dền. Thật kinh ngạc khi mùi hương này chẳng giống chút nào với những nguyên liệu đang nằm trong chảo. Đây là lần đầu tiên tôi được ngửi mùi thịt quái thú bò mộng Emphon, và khắp người tôi râm ran nỗi khát khao muốn nuốt chửng lấy nó ngay khi còn sống.
-
-“Mở cửa sổ ra đi mình ơi,” Mẹ bảo Má.
-
-Mẹ có vóc dáng cao hơn, mái tóc đỏ rực tựa sắc củ dền và những vết tàn nhang trải dài từ nửa mặt bên trái xuống tận đầu ngón tay. Một vết sẹo loang lổ màu trắng, minh chứng cho hình phạt tàn khốc từ tên giám thị, làm bạc phếch cả nửa mặt bên phải của Mẹ; thế nhưng nụ cười của Mẹ, nghiêm nghị mà đong đầy yêu thương, luôn khiến người ta quên đi vết sẹo ấy. Mỗi khi Mẹ gọi Má bằng cái tên âu yếm đó, giọng Mẹ lại ngân nga như hát. Tôi có thể miêu tả cả ngàn hương vị khác nhau, nhưng tôi chịu không thể phân biệt nổi giọng alto với bất kỳ tông giọng nào khác mà người ta hay gọi. Giọng của Mẹ trong trẻo như tiếng chuông gió.
-
-Má lật đật chạy đến bên các ô cửa sổ rồi đẩy tung ra. Mùi thịt quái thú bò mộng Emphon rất dễ đánh động những chiếc mũi thính nhạy, và chúng tôi không muốn bất kỳ ai trong Khu Thứ Phẩm Số 3 biết rằng mình đang có thứ này. Thà để mùi hương bay tỏa ra đường còn hơn.
-
-Khi Má bước qua căn bếp nhỏ quay lại phía chúng tôi, nụ cười hiền hậu hơi lệch làm hằn sâu những nếp nhăn nơi khóe mắt bà. Đôi mắt ấy giống hệt mắt tôi, một màu nâu sẫm như gỗ keo. Mái tóc hoa râm của bà búi cao về phía sau, để lộ vệt sẹo dài sẫm màu tựa như một nụ cười u tối chạy dọc dưới cổ. Làn hơi nước từ chiếc nồi quyện vào một tia nắng hiếm hoi chiếu qua cửa sổ, một trong những tia nắng cuối cùng của ngày rọi thẳng vào lưng bà, khiến vóc dáng gầy gò quá mức ấy như tỏa ra một vầng sáng ấm áp.
-
-Vẻ gầy gò ốm yếu vì đói khát của bà khiến cổ họng tôi nghẹn đắng. Đã quá nhiều lần bà chỉ ăn vài hạt đậu và hầu như chẳng đụng đến một thìa cơm để Mẹ và tôi được ăn nhiều hơn, lúc nào cũng bảo rằng mình không đói. *Một lời nói dối.*
-
-Mẹ khẽ tặc lưỡi đầy ẩn ý: “Ôi, mình ơi, ánh nắng này thật hợp với mình đấy.”
-
-Má khẽ cúi đầu rồi lắc lư hông tinh nghịch. Mẹ bước vòng qua, ôm lấy Má từ phía sau rồi đặt nụ hôn lên sau vành tai bà. Hai người phụ nữ trao nhau ánh nhìn mà một đứa trẻ ở độ tuổi của tôi đã thấu hiểu từ nhiều năm trước. Căn hộ này vốn dĩ quá chật chội.
-
-“Xin hai mẹ đừng làm con mất cả ngon chứ.”
-
-Cả hai người mẹ đều cười khúc khích, nhưng thâm tâm tôi thầm mừng cho họ. Suốt phần đời còn lại của mình, dù dài hay ngắn, tôi sẽ luôn nhớ về hai người họ như thế, vào buổi tối hôm ấy. Trước khi mọi chuyện chìm vào bi kịch.
-
----
-
-![Dấu phân cách](Images/split.jpg)
-
-Ánh mắt của Đồ Tể xoáy sâu vào mắt của Lưu Trữ Viên trong một khoảnh khắc. Rồi hai nhịp trôi qua, trước khi anh tiếp tục.
-
----
-
-![Dấu phân cách](Images/split.jpg)
-
-Trong lúc họ âu yếm nhau, tôi thả những lát thịt vào chiếc nồi đang sôi sùng sục, dùng chút nước tráng tan lớp mỡ cùng phần vụn cháy thơm lừng dưới đáy chảo rồi trút tất cả vào nồi, thêm khoai tây thái nhỏ, sau đó hạ lửa ninh liu riu.
-
-Một giờ đồng hồ trôi qua chậm chạp tựa dòng mật rỉ chảy trên phiến đá lạnh. Mùi hương ấy. Trời đất ơi, chính là mùi hương ấy. Tôi đã nấu cả ngàn bữa ăn với thịt quái thú Emphon kể từ đêm đó, nhưng lần hít hà đầu tiên ấy đã rót đầy lồng ngực tôi một cảm giác thiêng liêng khôn tả. Sức mạnh nhảy múa trên làn hơi nước, ngay trong tầm tay tôi. Tôi từng nghe người ta ví cảm giác đó tựa như tìm thấy dòng nước ngọt giữa sa mạc phương Nam, và tôi chưa từng mảy may nghi ngờ điều ấy. Tôi khao khát nó đến cháy bỏng cồn cào.
-
-Cánh cửa chính của căn hộ bỗng bật mở với một tiếng rầm. “Có chuyện gì đang xảy ra ở đây thế này?” Một giọng nói cố tình bóp méo vang lên.
-
-Tim tôi suýt nữa nhảy ra khỏi lồng ngực, nhưng nỗi sợ nhanh chóng chuyển thành bực bội khi thấy Chú Macen bước vào phòng, một tay khum trước miệng để làm trầm giọng. Bên hông chú đang bế bé Musta, cô em họ nhỏ xíu của tôi. Con bé toe toét cười khúc khích trước những tiếng phì phì vui nhộn mà chú thổi vào lòng bàn tay.
-
-Mẹ đón lấy Musta và chào hai cha con bằng câu xã giao quen thuộc của tầng lớp Thứ Phẩm, đồng thời chìa cho chú một chiếc bánh quy nhỏ: “Ăn chút gì chứ, Macen?”
-
-Theo tục lệ, người ta sẽ nhận lấy món quà chào đón này rồi ăn ngay hoặc cất vào chiếc túi nhỏ mà ai nấy thuộc tầng lớp Thứ Phẩm đều đeo bên hông. Thế nhưng Chú Macen lại bảo: “Chưa đâu, chị hai.” Điều đó đồng nghĩa với việc chú sẽ ở lại dùng bữa tối. Chuyện này cũng chẳng có gì lạ. Dì Gyn phải làm ca đêm tại nhà máy đóng chai ớt bột cayenne, còn chú thì cần người đỡ đần sau những ca trực dài đằng đẵng bên ngoài tường thành. Dẫu vậy, tôi vẫn thầm ước giá như chú chọn vào một đêm khác.
-
-“Chú không thể cứ thế xông vào nhà được đâu.”
-
-Chú chìa cho tôi một viên kẹo bơ cứng làm quà chào hỏi rồi mới nhận ra nét mặt nghiêm trọng của tôi vẫn chẳng hề giãn ra: “Có chuyện gì thế, Paps?”
-
-Sau khi cài chặt then cửa, tôi thì thầm: “Nhà mình đang nấu thịt quái thú Emphon đấy.”
-
-Ánh mắt chú lướt qua Musta rồi liếc nhanh về phía nồi hầm, đôi mày nhíu lại đầy vẻ nghiêm nghị, hẳn đang cân nhắc mối hiểm nguy khi để con gái nhỏ hiện diện tại nơi diễn ra một hành vi phạm pháp. Dẫu vậy, chú vẫn không rời đi, và tôi cũng chẳng thể trách chú được. Đâu phải ngày nào người ta cũng có cơ hội được thưởng thức thịt Emphon.
-
-Nói đến chuyện đó, ngay khi chúng tôi mở nắp nồi, làn hơi nước cuộn trào bốc lên bao bọc lấy tất cả, mềm mại tựa chiếc gối êm vẫy gọi sau một ngày dài kiệt sức. Làn hương sực nức ùa vào khứu giác của mọi người cùng một lúc, khiến ai nấy đều bật ra tiếng thở dài thỏa nguyện. Tôi phải dùng hết sức bình sinh mới kìm được đôi tay không thò ngay vào làn nước đang sôi lăn tăn kia để vục một vốc đưa lên miệng.
-
-“Sắp xong rồi đây,” Mẹ bảo, đoạn lấy nhóm gia vị cuối cùng ra khỏi chạn: muối, ớt cayenne và ớt mảnh sấy khô.
-
-“Món này cay lắm sao mẹ?” Tôi hỏi.
-
-Hai người mẹ của tôi mỉm cười nhìn nhau: “Những thứ tuyệt vời nhất trên đời đều có vị cay mà con.”
-
-“Nhưng lại ăn kèm với bánh mì men chua ư?”
-
-Tôi vẫn giữ mối hoài nghi ấy cho đến tận khi chấm miếng bánh mì vào món súp hầm, ngay sau khi húp thử vài thìa đầu tiên. Mấy thìa súp đầu đời đó ngon thật đấy, dẫu tả lại nghe có vẻ chưa trọn vẹn. Nhưng xin hãy tin tôi, ở cái tuổi ngây ngô ấy, hương vị đó đã sánh ngang với ly kem vani mà hai người mẹ phải chắt bóp từng đồng nấc bạc suốt ba năm ròng mới mua nổi làm quà sinh nhật tròn mười sáu tuổi cho tôi. Dẫu vậy, nó vẫn chưa chạm tới mức kỳ diệu, ít nhất là chưa bằng cái cách mà làn hương bánh mì nướng quyện cùng nồi hầm sôi êm đang dâng trào. Sự hòa quyện ấy như trêu ngươi, hứa hẹn một đại tiệc phong vị tráng lệ, thứ sẽ rót đầy vào huyết quản tôi nguồn năng lượng Sức bền ma thuật và bứt phá mọi giới hạn chạm tới tận chân trời.
-
-“Ngon lắm ạ,” tôi lên tiếng, cốt chỉ để nói một điều gì đó.
-
-Hai người mẹ bật cười rồi nhìn thẳng vào tôi. Một quầng sáng vàng óng ánh hiện lên quanh đôi mắt màu hạt óc chó của Mẹ, cũng chính là màu mắt của tôi. Đôi mắt màu ô liu của Má và của cả Chú cũng ngời sáng sắc vàng rực rỡ ấy. Tôi cựa quậy trên ghế, rướn người lên để nhìn chăm chú vào bóng hình phản chiếu của mình trên ô kính cửa sổ. Tuyệt nhiên không có sắc vàng nào. Chẳng có lấy một nét đổi thay. *Tôi từng nghĩ mình là kẻ khiếm khuyết, rằng theo một cách nghiệt ngã nào đó, tôi là người duy nhất ở Ranch không thể đánh thức nguồn năng lượng Sức bền ma thuật.*
-
-“Chấm bánh mì vào đi con,” Mẹ ân cần khích lệ.
-
-Món này làm sao mà ngon cho nổi chứ. Chua và cay vốn chẳng thể hòa hợp. Chúng kích thích những vùng khác nhau trên lưỡi rồi triệt tiêu lẫn nhau. Chúng chỉ nên đóng vai trò làm nền để tôn vinh những tầng vị tinh tế hơn mà thôi. Hoặc ít nhất, tôi từng đinh ninh như thế. Thuở ấy, tôi nào đã được học về nghệ thuật phối hợp các tầng vị, thậm chí còn chưa biết nụ vị giác là cái gì. Tôi chẳng thể nào phân tích được độ cay nồng hay vị chát theo tỷ lệ phần trăm.
-
-Thế nhưng, cảm giác ùa vào các giác quan khi tôi cắn miếng bánh mì lại chẳng phải vị cay, cũng không phải vị chua. Đó là tầng vị thứ sáu: vị emphon. Hơi ấm vỗ về vẫn còn đó, vị chua thanh của bánh mì cũng vẹn nguyên, nhưng tất cả chỉ làm nền cho sự bùng nổ đậm đà, mãnh liệt của tầng vị emphon chủ đạo. Chúng tôi gọi đó là vị thứ sáu, nhưng đúng hơn, đó là một trải nghiệm của xúc cảm. Giống như sự mơn trớn thư thái của làn gió tươi mát vào ngày đầu xuân; như niềm hân hoan sau một chặng đường săn đuổi rốt cuộc cũng đơm hoa kết trái bằng nụ hôn đầu; hay như sự nâng niu khoảnh khắc vệt hồng rực rỡ khép lại một buổi hoàng hôn.
-
-Khi miếng bánh mì trôi xuống dạ dày, một luồng nhiệt lượng ấm áp liền lan tỏa khắp tứ chi tôi. Đôi cánh tay rã rời bỗng chốc căng tràn sức sống khi từng thớ cơ được tiếp thêm sinh lực. Mọi giác quan trở nên sắc bén lạ thường, còn tâm trí tôi lắng dịu, gạt bỏ từng mối bận tâm xao nhãng sang một bên để trả lại sự tập trung cao độ. Sức mạnh ấy, sự minh mẫn ấy, chính là Sức bền ma thuật.
-
-Mãi về sau tôi mới nhận ra rằng mỗi Đại công thức ma thuật lại mang đến một cảm giác hoàn toàn khác biệt. Hương Vị Đầu Tiên chỉ dừng lại ở việc bồi đắp Sức bền ma thuật. Sữa Emphon còn giúp chữa lành vết thương và nối liền xương gãy. Đại công thức mang tên tôi thì... ồ, rồi chúng ta sẽ nói đến chuyện đó sau. Nhưng còn Súp bắp bò phóng hỏa - Đại công thức 7 thì sao? Nó còn có thể làm được điều gì nữa?
-
-Vì nôn nóng muốn biết, tôi ngấu nghiến phần súp còn lại rồi dùng mẩu bánh mì vét sạch đáy bát. Tôi ăn đến mức ngỡ như bụng mình sắp nổ tung, nhưng vẫn tiếp tục ăn. Tôi không muốn vì ăn quá ít mà bỏ lỡ toàn bộ công dụng của nó. Hai người mẹ của tôi bật cười, chậm rãi tận hưởng Sức bền ma thuật trong niềm thanh thản, khi gánh nặng đè trĩu suốt bốn mươi năm qua dần được trút bỏ khỏi đôi vai. Họ bình yên và tràn ngập lòng biết ơn. Còn trong tôi lại cồn cào một cơn giận dữ đầy đố kỵ. Cơn giận trước việc thứ sức mạnh diệu kỳ này bị cấm đoán; trước thực tế nghiệt ngã rằng những phận đời thuộc tầng lớp Thứ Phẩm sẽ chẳng bao giờ biết đến cảm giác no đủ, chứ đừng nói đến việc chạm tay vào phép màu này.
-
-Vài phút sau miếng ăn cuối cùng, một phản ứng lạ lùng bắt đầu cuộn trào khắp cơ thể tôi. Một sự thôi thúc. Một luồng cảm giác kỳ lạ chợt ập tới.
-
-Khi tôi còn đang mải giải mã thứ cảm giác ấy, hình ảnh tên giám thị cùng thứ bùn đen gớm ghiếc của hắn chợt hiện về trong tâm trí tôi. Cả cảnh tượng những ngọn lửa liếm qua cơ thể Bessa, ở khoảng cách gần đến mức sức nóng xuyên thấu qua cả bộ đồ cao su của một người thợ đồ tể. Gần như theo bản năng, tôi siết chặt nắm tay, và một luồng lửa lập tức bùng lên dữ dội ngay trong lòng bàn tay tôi. Mọi người trong phòng, kể cả tôi, đều thất thanh hét toáng lên. Tôi vung vẩy tay lia lịa, hoảng loạn tìm cách dập tắt ngọn lửa.
-
-Phải mất một thoáng tôi mới nhận ra mình cần chủ động kìm hãm luồng năng lượng đang cuộn trào từ dạ dày lên bàn tay. Ngay khoảnh khắc tôi làm được điều đó, ngọn lửa liền tắt ngúm.
-
-Mẹ tôi cười khúc khích: “Mẹ nghĩ chúng ta có thể tìm ra vài cách sử dụng thứ này tốt hơn là thiêu rụi cả khu Thứ Phẩm đấy, con yêu.”
-
-Hiểu rõ ý người bạn đời của mình, má sải bước quay lại gian bếp. Dáng người gầy guộc của má giờ đây trông nhẹ nhõm và khỏe khoắn hơn bao giờ hết. Lòng đầy tò mò, tôi liền rảo bước theo sau.
-
-Chiếc kẹp gắp vẫn nằm nguyên nơi tôi đặt trên giá phơi. Những đốm đỏ li ti của vết gỉ sét đã bắt đầu lốm đốm trên bề mặt kim loại đang xỉn màu. Má cầm chiếc kẹp lên trong khi tôi rướn người về phía trước, chăm chú dõi theo. Tôi ngửi thấy mùi sắt nồng của vết gỉ và cảm nhận được hơi nước đang bốc lên trong không khí. Chỉ bằng một cái búng tay nhẹ nhàng hơn rất nhiều, những tàn lửa nhảy múa từ đầu ngón tay má truyền sang chiếc kẹp, ngay lập tức làm sôi rồi bốc hơi phần nước đọng, đồng thời tẩy sạch toàn bộ vết gỉ sét bám bên trên.
-
-Chẳng trách giai cấp thống trị lại tìm mọi cách giấu nhẹm thứ sức mạnh này khỏi chúng tôi. Phải, chúng tôi hoàn toàn có thể san phẳng các cung điện chỉ sau một bữa ăn chung, nhưng năng lực sáng tạo còn có thể đưa chúng tôi đi xa hơn nhiều so với sự hủy diệt. Với một triệu con người thuộc tầng lớp Thứ Phẩm cùng chung tay vận dụng trí tuệ để giải quyết nghịch cảnh, chúng tôi có thể làm nên bất cứ điều gì chỉ bằng một Đại công thức ma thuật duy nhất.
-
-Đỡ lấy chiếc kẹp từ tay má để nhìn cho rõ, tôi càng thêm quyết tâm thực hiện giấc mơ mà bản thân ngỡ như đã buông xuôi. Đối với một người thuộc tầng lớp Thứ Phẩm, chỉ có bốn con đường duy nhất để thoát khỏi khế ước lao dịch: chuộc lại tự do (điều hoàn toàn bất khả thi); trở thành một sĩ quan quân đội (điều không tưởng nếu thiếu đi năng lực xuất chúng cùng sự chống lưng của một kẻ thuộc tầng lớp Thượng Phẩm); được một kẻ Thượng Phẩm “bác ái” nhận làm con nuôi từ thuở ấu thơ (thật tởm lợm); hoặc trở thành một Đầu Bếp (có lẽ cũng khó khăn chẳng kém là bao). Tuổi thơ chìm trong đói khát đã dạy tôi biết nâng niu từng mẩu bánh. Những ổ bánh mì má làm cùng những trăn trở của má về hương vị đã truyền cảm hứng để tôi bước vào gian bếp với tất cả lòng thành kính, tựa như một tín đồ sùng đạo. Tôi thấu hiểu rằng ngay cả những món ăn mộc mạc nhất cũng có thể thay đổi số phận của một con người nếu được nêm nếm bằng tình yêu thương, sự tận tụy và một chút gia vị. Và tôi đã dành trọn bao năm tháng cuộc đời để dùi mài những kỹ thuật mới, bởi tôi trân quý từng giây từng phút được đắm mình trong thế giới ấy.
-
-Với món Súp bắp bò phóng hỏa - Đại công thức 7 đang thổi bùng lên ngọn lửa trong lòng, tôi hiểu rằng hạnh phúc ở đời này chỉ nằm ở chiếc tạp dề của một Đầu Bếp. Tôi chỉ còn mười tám tháng trước khi bản khế ước lao dịch của mình bị khóa chặt vĩnh viễn. Nếu không trở thành một Đầu Bếp, tôi sẽ chẳng bao giờ có được Sức bền ma thuật mà không phải nơm nớp sống trong nỗi sợ bị phát giác. Tôi sẽ chẳng bao giờ cảm thấy mình có đủ sức thiêu rụi tầng lớp Thượng Phẩm như cái cách chúng đã thiêu rụi Bessa. Nhưng một khi đã là Đầu Bếp, tôi sẽ nắm giữ quyền năng ấy suốt cả cuộc đời.
-
-Thật nực cười làm sao. Bất kỳ kẻ nào thuộc tầng lớp Thượng Phẩm cũng có thể dễ dàng bước chân vào Học viện Ẩm thực Hoàng gia. “Cha ơi, con muốn làm Đầu Bếp”, tất cả những gì chúng cần chỉ vỏn vẹn câu nói đó. Thế nhưng, những kẻ thuộc tầng lớp Thứ Phẩm chỉ có duy nhất một con đường để bước chân vào những gian bếp thiêng liêng ấy: tự mình sáng tạo ra một Đại công thức ma thuật. Một kỳ tích chỉ có thể thực hiện được bằng thịt của quái thú Emphon.
-
-Quả là một bài toán trớ trêu, khi mà ngay cả việc chạm tay vào thứ thịt ấy cũng đã là điều phạm pháp đối với lũ Thứ Phẩm chúng tôi, phải không?
-
-Tôi không quan tâm. Tôi đã chọn con đường đó, chọn nó làm tương lai cho chính mình.
-
-Bất kể phải trả giá ra sao. Bằng bất cứ giá nào.
-
-*Chỉ là, tôi đâu ngờ được cái giá ấy lại đắt đến nhường nào.*
+
+
+  Một quý tộc Thượng Phẩm cao tuổi ở hàng đầu, vốn đã bị ép chặt giữa đám Thứ Phẩm sau lưng và hàng rào chắn tì sát mạn sườn, thở hắt ra rồi gục xuống lan can khi cùng một luồng sức mạnh ấy đánh trúng ông ta.
+
+
+
+  Đã cả chục lần nữ Lưu trữ viên ngồi vào bàn tiệc với tư cách khách mời của Nữ hoàng, và cả chục lần ấy cô đều có thể thề rằng người phụ nữ kia chẳng thể nào nuốt nổi lượng thức ăn khổng lồ cần thiết để thi triển nhiều ma thuật Bền Bỉ đến thế. Việc Nữ hoàng chè chén no say giữa nạn đói hiện tại chính là một lời tuyên bố vượt lên trên mọi ngôn từ.
+
+
+
+  Thế nhưng nữ Lưu trữ viên vẫn gượng dậy được, và tiếng gầm của đám đông bỗng trở nên cuồng loạn như thể quốc gia tráo trở này đã thực sự giành chiến thắng trong cuộc chiến. Giờ đây Nữ hoàng chẳng còn cách nào thoái thác, cơn giận dữ của cô dần chuyển thành nỗi thất vọng khôn nguôi: “Ngươi luôn đặt Chúa tể lên trên tổ quốc, và hôm nay điều đó sẽ hủy hoại ngươi. Khi tội trạng của hắn được chứng minh, ngươi sẽ phải chết cùng hắn.”
+
+
+
+  “Hạ hắn xuống,” nữ Lưu trữ viên ra lệnh, làm như dửng dưng trước lời đe dọa.
+
+
+
+  Đôi mắt nâu ti hí của tên đao phủ dõi tìm sắc vàng rực của ma thuật Bền Bỉ trong mắt Nữ hoàng. Không hề rời ánh nhìn khỏi nữ Lưu trữ viên, bà ta gật đầu. Dây ròng rọc rít lên kèn kẹt, và Đồ tể được hạ xuống với vẻ khoan thai chậm rãi tựa những thiên thần xứ Olearth. Mọi nỗi sợ từng len lỏi vào tâm can tầng lớp Thứ Phẩm đều bị thổi bùng tan biến. Đám đông vỡ òa trong cơn hân hoan tột cùng, xô đẩy tràn lên phía trước, chèn gãy xương sườn của hàng chục kẻ Thượng Phẩm đang bị ép chặt vào hàng rào.
+
+
+
+  Hỗn loạn bùng nổ.
+
+
+
+  Người ta giẫm đạp, la hét. Tầng lớp Thứ Phẩm mở đường máu xông thẳng lên bục vinh danh của Nữ hoàng để châm lửa thiêu rụi. Khi được hộ tống đến nơi an toàn, người từng là nhà sử học và nay trở thành quan chấp pháp thầm tự hỏi liệu các sử gia tương lai sẽ nhìn nhận khoảnh khắc này như khởi đầu của cuộc nội chiến thứ hai, hay chỉ đơn thuần là hồi kết của một giai đoạn chuyển giao tăm tối.
+
+
+
+  Nhiều giờ sau, trong phòng giam bụi bặm nhuộm đỏ bởi ánh lửa ngùn ngụt bên ngoài cung điện, nữ Lưu trữ viên khẽ nhịp mũi chân, trĩu nặng mặc cảm trách nhiệm và thắc thỏm âu lo trước Nghi Lễ sắp sửa định đoạt sinh mạng của hai con người. Ngồi thẳng lưng trong tư thế mực thước chuẩn mực, cô cố tỏ ra tự tin rồi nhấc quản bút lên để bắt đầu.
+
+
+
+  Về phần mình, Đồ tể uể oải tựa người sau chấn song sắt ngăn cách đôi bên, vẫn ngạo nghễ như mọi khi trong vẻ thản nhiên coi thường cái chết. Nữ Lưu trữ viên căm ghét thái độ ấy; hay đúng hơn, cô vẫn căm ghét anh: kẻ nồng nặc mùi ký ức, mùi mồ hôi, rau diếp xoăn và khói lửa.
+
+
+
+  “Tôi biết cô sẽ cắn câu mà,” Đồ tể lên tiếng. Tính hiếu kỳ xưa nay vốn là điểm yếu của cô.
+
+
+
+  “Tôi chẳng mấy bận tâm anh nghĩ gì về tôi đâu, Đồ tể.” Đó là một lời nói dối, và cả hai đều hiểu rõ. Nhưng đúng với bản tính của một đứa con được hai người mẹ nuôi nấng, Đồ tể mở ra một lối thoát cho nữ Lưu trữ viên thay vì vạch trần lời nói ấy.
+
+
+
+  “Đó không phải danh xưng của tôi,” anh tuyên bố.
+
+
+
+  “Anh từng rất thích thú với danh xưng ấy, nhưng giờ anh lại tự xưng là Vua Đầu Bếp. Có điều gì thay đổi sao? Tôi nhớ anh từng ghét cay ghét đắng ý nghĩ mình có thể mang dòng máu hoàng gia.”
+
+
+
+  Đôi mắt ánh sắc vàng rực của ma thuật Bền Bỉ khẽ chớp dưới ánh đèn chép sách leo lét khi Đồ tể rướn người về phía trước. “Có hai loại người thuộc dòng dõi vương quyền: những kẻ sinh ra đã gánh chịu lời nguyền, và những kẻ dùng bạo lực để đoạt lấy vương quyền. Tôi chẳng thuộc loại nào cả.” Bóng tối phủ tràn lên những đường nét trên gương mặt đầy sẹo của Đồ tể khi màn đêm trong phòng giam lại nuốt trọn lấy anh, chỉ còn sót lại thứ ánh sáng vàng rực từ đôi mắt. “Và tôi cũng là cả hai.”
+
+
+
+  Nữ lưu trữ viên ngắm nhìn cái bóng của người đàn ông mà vài kẻ tin rằng đã gần chạm tới thần linh. Lời tuyên bố của anh có lẽ chứa đựng đôi phần chân lý, và thông qua Nghi Lễ, điều đó sẽ được chứng thực hoặc bị bác bỏ khi tất cả ngã ngũ. Thế nhưng còn có một điều trọng đại hơn nhiều ẩn chứa trong câu chuyện của gã Đồ Tể: bí mật về chính Sức bền ma thuật, và bí mật về nơi ngự trị của Đấng Tối Cao. Chẳng có mấy điều mà cô không dám mạo hiểm đánh đổi để ghi chép lại sự thật ấy, dẫu phải xới lại những vết thương chưa lành, dẫu phải đối diện với cái chết của những người mà cả hai từng yêu thương, hay thậm chí là một buổi hành quyết cận kề nếu gã Đồ Tể không thể chứng minh được sự vô tội của mình.
+
+
+
+  Song dẫn dụ gã Đồ Tể chịu tiết lộ điều đó sẽ chẳng phải chuyện dễ dàng; bởi thừa nhận điều ấy cũng đồng nghĩa với việc anh tự tay đóng dấu ấn tội lỗi lên chính bản thân.
+
+
+
+  Phải, đây sẽ là một màn đấu trí xứng tầm giữa hai người từng là bạn hữu, cô tự nhủ, một cuộc đấu không thể phân định thắng thua trong chốc lát. Khi một tiếng nổ rền vang làm rung chuyển những bức tường phòng giam, như lời nhắc nhở rằng xung đột giữa hai người chỉ là một trong muôn vàn cuộc chiến ngoài kia, cô mở cuốn Sách Nghi Lễ ra một trang giấy trắng tinh.
+
+
+
+  “Vậy thì, bắt đầu từ những ngày đầu tiên,” cô cất giọng yêu cầu. “Xưởng của Nhà Vua. Cả Meg nữa.”
