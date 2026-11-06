@@ -1,8 +1,6 @@
-# NGOẠI TRUYỆN
+# NGOẠI TRUYỆN - PHÓ CHỦ TỊCH
 
-# PHÓ CHỦ TỊCH
-
-**HÃY TƯỞNG TƯỢNG BẠN** *không phải* là Phó Chủ tịch Marketing của tập đoàn công nghệ đa quốc gia Machsai Inc. có trụ sở chính tại Tokyo, Nhật Bản.
+HÃY TƯỞNG TƯỢNG BẠN không phải là Phó Chủ tịch Marketing của tập đoàn công nghệ đa quốc gia Machsai Inc. có trụ sở chính tại Tokyo, Nhật Bản.
 
 Hãy tưởng tượng bạn chỉ là một kẻ hoàn toàn vô danh.
 
@@ -49,3 +47,4 @@ Bạn từng phạm sai lầm một lần trong đời. Bạn sẽ không bao gi
 “Đây sẽ là một cơ hội quan trọng,” bạn nói với người trợ lý của mình.
 
 “Tôi tin rằng cậu sẽ không làm chúng tôi thất vọng.”
+

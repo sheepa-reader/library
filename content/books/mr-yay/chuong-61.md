@@ -1,26 +1,26 @@
 # XE BUÝT TIỆC TÙNG
 
-**ANH NÓI CHUYỆN** với chuyên viên trị liệu tâm lý của mình qua điện thoại khi đang ở trong tiệm giặt tự động, đơn giản vì căn hộ giờ đây đã ngập ngụa những thùng carton. Chúng chất đống chật ních, theo đúng nghĩa đen là chẳng còn lấy một lối đi. Từ sàn nhà, mặt bàn cho đến bồn tắm đều không còn một khoảng trống, thậm chí đến một khe hở cho chó cưng cũng không. Tình cảnh bẽ bàng đến mức chú chó Tux đành phải ngồi trên chiếc xe hơi mới toanh chạy lòng vòng cùng Tommy, trong lúc Tommy cố dùng các mối quan hệ bạn bè để tự cứu mình khỏi rắc rối nực cười mà chính cậu ta đã bốc đồng gây ra: lỡ tay đặt mua mẹ nó một tỷ chiếc áo phông.
+ANH NÓI CHUYỆN với chuyên viên trị liệu tâm lý của mình qua điện thoại khi đang ở trong tiệm giặt tự động, đơn giản vì căn hộ giờ đây đã ngập ngụa những thùng carton. Chúng chất đống chật ních, theo đúng nghĩa đen là chẳng còn lấy một lối đi. Từ sàn nhà, mặt bàn cho đến bồn tắm đều không còn một khoảng trống, thậm chí đến một khe hở cho chó cưng cũng không. Tình cảnh bẽ bàng đến mức chú chó Tux đành phải ngồi trên chiếc xe hơi mới toanh chạy lòng vòng cùng Tommy, trong lúc Tommy cố dùng các mối quan hệ bạn bè để tự cứu mình khỏi rắc rối nực cười mà chính cậu ta đã bốc đồng gây ra: lỡ tay đặt mua mẹ nó một tỷ chiếc áo phông.
 
-Trên những chiếc áo phông ấy in hình Tux với dòng nước dãi xoáy màu neon chảy dài rồi tan chảy thành những chữ cái uốn lượn rực rỡ ghép thành từ MR. YAY. Tux đeo một sợi dây chuyền vàng lớn như một chú chó rap thực thụ, bịt một bên mắt đúng kiểu cướp biển thứ thiệt, và nếu nhìn thật kỹ vào miếng che mắt ấy, người ta có thể nhận ra cái bóng mờ của một con tàu. Con tàu SS *Deliverance*.
+Trên những chiếc áo phông ấy in hình Tux với dòng nước dãi xoáy màu neon chảy dài rồi tan chảy thành những chữ cái uốn lượn rực rỡ ghép thành từ MR. YAY. Tux đeo một sợi dây chuyền vàng lớn như một chú chó rap thực thụ, bịt một bên mắt đúng kiểu cướp biển thứ thiệt, và nếu nhìn thật kỹ vào miếng che mắt ấy, người ta có thể nhận ra cái bóng mờ của một con tàu. Con tàu SS Deliverance.
 
 Bratty vốn là người thiết kế mẫu áo phông ấy, bởi lẽ làm quái nào một rapper có thể kiếm bộn tiền trong thời đại phát nhạc trực tuyến cơ chứ?
 
 Bratty từng bảo:
 
-“*Chúng ta cần bán đồ lưu niệm.*”
+“Chúng ta cần bán đồ lưu niệm.”
 
 Và Tommy đã đáp:
 
-“*Chúng ta cần rít boong cần.*”
+“Chúng ta cần rít boong cần.”
 
-Thế là Bratty rít một hơi cần thật sâu rồi ngồi thiết kế chiếc áo phông. Sau đó, Tommy lại làm cái trò mà cậu ta vẫn luôn giỏi nhất: chơi tới bến, dốc cạn hầu bao. Một đêm nọ, trong khi Bratty đang ngủ thiếp đi trên ghế sofa còn Tux cuộn tròn dưới chân anh mơ những giấc mơ phê pha về đại dương sâu thẳm, Tommy đã bấm đặt mua năm trăm triệu tỷ chiếc áo phông. Cậu ta tiện tay tạo thêm một đường link mua hàng trên trang web để bất kỳ ai ghé qua cũng có thể bấm đặt áo, rồi nhanh chóng bị cuốn vào trò chơi *Truyền thuyết Zelda* và quên sạch bách cả hai việc.
+Thế là Bratty rít một hơi cần thật sâu rồi ngồi thiết kế chiếc áo phông. Sau đó, Tommy lại làm cái trò mà cậu ta vẫn luôn giỏi nhất: chơi tới bến, dốc cạn hầu bao. Một đêm nọ, trong khi Bratty đang ngủ thiếp đi trên ghế sofa còn Tux cuộn tròn dưới chân anh mơ những giấc mơ phê pha về đại dương sâu thẳm, Tommy đã bấm đặt mua năm trăm triệu tỷ chiếc áo phông. Cậu ta tiện tay tạo thêm một đường link mua hàng trên trang web để bất kỳ ai ghé qua cũng có thể bấm đặt áo, rồi nhanh chóng bị cuốn vào trò chơi Truyền thuyết Zelda và quên sạch bách cả hai việc.
 
 Cho đến khi mấy anh chàng giao hàng xuất hiện trước cửa căn hộ với gương mặt ngơ ngác đần thối, đánh hẳn một chiếc xe tải đầu kéo chất kín những thùng carton đựng áo phông.
 
 “Ờ… đây có phải… ờ, tư gia của Ngài AssMaster không?”
 
-“Không hẳn là… *không phải*.”
+“Không hẳn là… không phải.”
 
 “Anh ký tên vào đúng cái dòng chỗ kia giùm tôi được không?”
 
@@ -36,7 +36,7 @@ Tommy bước ra, ngơ ngác chẳng kém. “Tôi không phải Tommy. Tôi là
 
 “Ôi… ôi chết tiệt… các anh là… mình đã… hả?”
 
-Thế đấy, cậu ta đã làm ra cái trò đó thật. Phải mất hơn một tiếng đồng hồ, cậu ta, Bratty cùng mấy anh chàng giao hàng mới khuân hết đống thùng vào trong căn hộ. Việc này cũng chính thức đặt dấu chấm hết cho tham vọng cày game *Truyền thuyết Zelda* của Tommy, bởi lẽ cậu ta chẳng còn chỗ mà ngồi lên sofa, chứ đừng nói đến chuyện với tới chiếc tivi.
+Thế đấy, cậu ta đã làm ra cái trò đó thật. Phải mất hơn một tiếng đồng hồ, cậu ta, Bratty cùng mấy anh chàng giao hàng mới khuân hết đống thùng vào trong căn hộ. Việc này cũng chính thức đặt dấu chấm hết cho tham vọng cày game Truyền thuyết Zelda của Tommy, bởi lẽ cậu ta chẳng còn chỗ mà ngồi lên sofa, chứ đừng nói đến chuyện với tới chiếc tivi.
 
 Dù sao thì ít nhất họ vẫn có thể mở được cửa tủ lạnh, nơi cất giữ toàn bộ số bia. Họ cũng có thể lách người vào phòng tắm, hoặc túm tụm ngồi nép bên ngưỡng cửa.
 
@@ -70,13 +70,13 @@ Có quá nhiều thùng hộp chết tiệt.
 
 Nếu xảy ra động đất (dù chỉ là một cơn dư chấn nhẹ), những tòa tháp thùng hộp kia cũng có thể đổ sập xuống và đè nghiến Bratty bên dưới. Chúng có thể nghiền nát anh. Anh có thể chết.
 
-*Giá như nó không phải là một thằng ăn hại như thế,* bố anh sẽ tặc lưỡi nói vậy. Còn bà mẹ kế sẽ gật gù, cười nhếch mép bảo: *Ít ra thế giới này cũng đỡ chật đất hơn.* Lúc đó, anh thậm chí chẳng thể đấm vào mặt bà ta được nữa, đơn giản vì anh đã chết quách rồi. Không. Anh sẽ không sợ hãi. Anh nhất quyết không chịu thua mấy cái thùng này.
+Giá như nó không phải là một thằng ăn hại như thế, bố anh sẽ tặc lưỡi nói vậy. Còn bà mẹ kế sẽ gật gù, cười nhếch mép bảo: Ít ra thế giới này cũng đỡ chật đất hơn. Lúc đó, anh thậm chí chẳng thể đấm vào mặt bà ta được nữa, đơn giản vì anh đã chết quách rồi. Không. Anh sẽ không sợ hãi. Anh nhất quyết không chịu thua mấy cái thùng này.
 
 Khi trò chuyện với chuyên viên trị liệu tâm lý của mình, anh đã nói như thể bản thân đã hoàn toàn rũ bỏ được cái ách sợ hãi. Như thể anh đã lắng nghe lòng dũng cảm cất lời tựa như một giai điệu âm nhạc, và ngay trong khoảnh khắc ấy, anh đã biến thành một con người hoàn toàn khác.
 
 Thế nhưng, mọi chuyện lại không diễn ra một cách thơ mộng như vậy. Nó tựa như sự lên xuống của thủy triều. Nỗi sợ rút đi chầm chậm, và luôn gắn liền với âm nhạc. Nhưng đôi khi, giữa bầu không khí tĩnh lặng, nỗi sợ ấy lại lẳng lặng ùa về.
 
-Anh đứng nơi ngưỡng cửa căn hộ, thầm nghĩ: *Làm quái nào để xếp đống thùng hộp này như trò xếp hình Tetris đây?*
+Anh đứng nơi ngưỡng cửa căn hộ, thầm nghĩ: Làm quái nào để xếp đống thùng hộp này như trò xếp hình Tetris đây?
 
 Đột nhiên, một tiếng ầm vang dội cất lên. Anh rùng mình, liếc nhìn ra sau lưng hướng về phía bầu trời. Chỉ có một màu xanh lam mờ mịt. Chẳng có lấy một gợn mây mưa, cũng chẳng hề có tiếng sấm sét. Ánh mắt anh quay trở lại bên trong căn hộ, và đây chính là khoảnh khắc kiểu chuyện “cái quái gì thế này”, hay đúng hơn là khoảnh khắc “mình đã nuốt bao nhiêu viên kẹo dẻo rồi ấy nhỉ”. Đó là lúc nỗi sợ tóm chặt lấy tâm trí anh rồi tát cho vài phát lật mặt. Bởi lẽ những gì đôi mắt anh đang trông thấy không hề thực sự diễn ra (hoặc ít nhất là không nên diễn ra ngay tại đây), nhưng nó lại đang diễn ra rõ mồn một như bầu trời Los Angeles. Anh đứng nơi ngưỡng cửa căn hộ của mình, có điều đó lại chẳng phải là căn hộ của anh. Nó trông y hệt như cái dạo anh mới chuyển đến: chiếc ghế sofa của Tommy, chiếc tivi cũ kỹ của Tommy, tuyệt nhiên không có chiếc loa khổng lồ nào. Vỏ lon bia vứt la liệt trên sàn, hộp bánh pizza nằm chỏng chơ trên quầy bếp. Không có bóng dáng chú chó nào. Hoàn toàn không. Không có Bratty. Không có đôi giày của Bratty trên sàn nhà, chẳng có chiếc áo hoodie của Bratty vắt ngang lưng ghế. Không máy tính xách tay, không bàn điều khiển, và không có âm nhạc.
 
@@ -106,7 +106,7 @@ Bratty giơ ngón tay cái lên: “Là nhờ âm nhạc đấy…”
 
 Và rồi, toàn bộ khung cảnh sủi bọt xèo xèo.
 
-Xung quanh chỉ toàn *thùng, thùng, thùng*, tuyệt nhiên chẳng thấy bóng dáng Tommy đâu nữa.
+Xung quanh chỉ toàn thùng, thùng, thùng, tuyệt nhiên chẳng thấy bóng dáng Tommy đâu nữa.
 
 Rồi Tommy lại hiện ra giữa những bọt khí ngập tràn. Một Tommy trong suốt như ảo ảnh với những mẩu bong bóng nhỏ li ti ánh bạc. Mọi thứ đều sủi bọt lăn tăn.
 
@@ -116,7 +116,7 @@ Rồi Tommy lại hiện ra giữa những bọt khí ngập tràn. Một Tommy 
 
 Âm thanh vụt tắt. Tommy biến mất. Những bong bóng bọt khí hay bất cứ thứ của nợ quái quỷ gì đó tan biến sạch trơn. Khung cảnh bị bóp méo rồi tái định hình trở lại thành một căn hộ ngập tràn những thùng carton.
 
-Bratty nghe thấy tiếng nhạc: bài “Gin and Juice” - nhạc chuông điện thoại của anh. Anh rút điện thoại ra khỏi túi quần. Màn hình hiện lên cái tên *AssMaster*.
+Bratty nghe thấy tiếng nhạc: bài “Gin and Juice” - nhạc chuông điện thoại của anh. Anh rút điện thoại ra khỏi túi quần. Màn hình hiện lên cái tên AssMaster.
 
 Anh bắt máy: “Yo.”
 
@@ -128,7 +128,7 @@ Anh bắt máy: “Yo.”
 
 “Tao…”
 
-Được rồi, công bằng mà nói thì anh vừa chứng kiến vài trò quái đản đến mức điên rồ. Nhưng Tommy đang ở đó, ngay tại Los Angeles. Cậu ấy đang ở L.A. Cả hai kết nối với nhau qua sóng âm cùng vệ tinh viễn thông, cùng chung sống trong giấc mơ trở thành ngôi sao nhạc rap. Phía bên kia đầu dây, Tux cất tiếng sủa gâu gâu. Ở hậu cảnh, tiếng nhạc xập xình phát ra từ dàn loa xe hơi, kèm theo tiếng *tách* nho nhỏ của chiếc bật lửa. Tommy thong thả phả một làn khói vào ống nghe. Một làn sóng cảm xúc dâng trào cuốn qua người Bratty (một cảm giác anh chưa từng nếm trải bao giờ). Cứ gọi đó là sự bình yên, hay sức mạnh cũng được. Nó quét sạch những tàn dư sợ hãi cuối cùng, để lại trong lòng anh sự kiên cường, nhuệ khí bừng bừng và âm nhạc. “Tao ổn. Tao tuyệt vời ông mặt trời luôn. Mày tìm thấy cái gì thế?”
+Được rồi, công bằng mà nói thì anh vừa chứng kiến vài trò quái đản đến mức điên rồ. Nhưng Tommy đang ở đó, ngay tại Los Angeles. Cậu ấy đang ở L.A. Cả hai kết nối với nhau qua sóng âm cùng vệ tinh viễn thông, cùng chung sống trong giấc mơ trở thành ngôi sao nhạc rap. Phía bên kia đầu dây, Tux cất tiếng sủa gâu gâu. Ở hậu cảnh, tiếng nhạc xập xình phát ra từ dàn loa xe hơi, kèm theo tiếng tách nho nhỏ của chiếc bật lửa. Tommy thong thả phả một làn khói vào ống nghe. Một làn sóng cảm xúc dâng trào cuốn qua người Bratty (một cảm giác anh chưa từng nếm trải bao giờ). Cứ gọi đó là sự bình yên, hay sức mạnh cũng được. Nó quét sạch những tàn dư sợ hãi cuối cùng, để lại trong lòng anh sự kiên cường, nhuệ khí bừng bừng và âm nhạc. “Tao ổn. Tao tuyệt vời ông mặt trời luôn. Mày tìm thấy cái gì thế?”
 
 “Tụi tao kiếm được một cái nhà kho rồi.”
 
@@ -149,3 +149,4 @@ Bữa tiệc nhà kho khai màn một ngày trước chuyến lưu diễn, mư�
 Họ cuồng nhiệt chơi nhạc cho tới tận lúc bình minh ló rạng. Bữa tiệc dần vãn. Chiếc xe tải lăn bánh rời đi. Vài người bạn của Tommy đã tình nguyện nhận phần việc đem gửi đống bưu phẩm. Bratty đi nhờ chiếc xe van cá mập để quay về căn hộ của họ. Anh thả mình, người mềm nhũn ra chìm sâu vào băng ghế sau. Nắng sớm tràn qua các ô cửa kính xe. Los Angeles lướt qua mờ nhòe ngoài tầm mắt - toàn bê tông, đồi dốc cùng những dải đường cao tốc thênh thang, đẹp đẽ đến nghẹt thở, không sót lấy một góc cạnh nào.
 
 Và khi anh về tới nhà, chiếc xe buýt lưu diễn (hay đúng hơn là chiếc xe buýt tiệc tùng) đã chực chờ sẵn từ bao giờ.
+

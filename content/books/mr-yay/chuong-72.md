@@ -1,10 +1,8 @@
-# THU PHÂN
+# THU PHÂN - NHỮNG BƯỚC ĐI TIẾP THEO CỦA MR. YAY
 
-# NHỮNG BƯỚC ĐI TIẾP THEO CỦA MR. YAY
+ĐỐNG LỬA NỔ LÁCH TÁCH, tiếng dế rỉ rả hòa cùng cơn gió rì rào qua những tán cây, vậy mà cánh rừng vẫn mang lại cảm giác tĩnh mịch đến lạ kỳ.
 
-**ĐỐNG LỬA NỔ LÁCH TÁCH**, tiếng dế rỉ rả hòa cùng cơn gió rì rào qua những tán cây, vậy mà cánh rừng vẫn mang lại cảm giác tĩnh mịch đến lạ kỳ.
-
-*Im lặng như một con sao biển.*
+Im lặng như một con sao biển.
 
 Tommy xiên một viên kẹo dẻo marshmallow vào đầu que củi.
 
@@ -36,10 +34,11 @@ Bratty xoa xoa đầu chú chó, rồi nhấp một ngụm bia. Anh nghĩ về a
 
 “Vậy… con chim đó là Kevin Costner…”
 
-“Không, không, không, *tao* mới là Kevin Costner. Con chim đó chỉ là…”
+“Không, không, không, tao mới là Kevin Costner. Con chim đó chỉ là…”
 
 Bratty lại bật cười khúc khích. “Một ảo giác à? Hay một giấc mơ?”
 
 “Tao thề đấy, bạn già,” Tommy đáp, giọng nghiêm túc đến lạ. Nhưng cái ánh nhìn hoang dại trong mắt cậu là sao chứ? “Tao thề đấy. Mọi chuyện đã diễn ra đúng y như thế.”
 
-**HẾT**
+HẾT
+

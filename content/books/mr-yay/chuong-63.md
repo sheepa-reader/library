@@ -1,8 +1,8 @@
 # HỒI TƯỞNG
 
-**MIRIAM + JACK**
+MIRIAM + JACK
 
-**MỘT ĐỨA BÉ** là một phép màu.
+MỘT ĐỨA BÉ là một phép màu.
 
 Một đứa bé là món quà đến từ Thượng đế.
 
@@ -20,11 +20,11 @@ Rory sở hữu một chỏm tóc đen nhánh, kiểu tóc mohawk tự nhiên c�
 
 Cậu bé cứ gào khóc cho đến khi cô nhét đầu ngực đang đau nhức của mình vào miệng con. Như một phép thuật, cậu nín bặt. Đôi chân cậu vẫn đạp lia lịa trong lúc bú, buộc cô phải giữ cậu lùi ra xa một chút để những cú hất chân không nện vào vết khâu. Rồi cô chợt lo sợ rằng khoảng cách gượng gạo ấy chính là điềm báo cho một vết rạn nứt, một gia đình rồi đây sẽ bị chia cắt bởi nỗi đau và bởi những lựa chọn. Rốt cuộc, mọi thứ luôn quy về những lựa chọn. Ngay cả lúc này cũng thế. Cô chọn không ôm chặt đứa bé đang miệt mài đạp xe này vào lòng. Cô chọn lướt điện thoại trong lơ đãng trong khi đứa bé đang rút cạn kiệt từng giọt sữa cuối cùng trong người cô.
 
-*Bao lâu thì trẻ sơ sinh mới ngủ xuyên đêm?* Cô gõ dòng tìm kiếm trên mạng, lòng sốt ruột muốn cái giai đoạn ngắn ngủi trong kiếp sống ấu thơ của Rory mau chóng khép lại. Cô muốn nhảy cóc thời gian về phía trước. Thế nhưng, nhảy tới đâu mới được cơ chứ?
+Bao lâu thì trẻ sơ sinh mới ngủ xuyên đêm? Cô gõ dòng tìm kiếm trên mạng, lòng sốt ruột muốn cái giai đoạn ngắn ngủi trong kiếp sống ấu thơ của Rory mau chóng khép lại. Cô muốn nhảy cóc thời gian về phía trước. Thế nhưng, nhảy tới đâu mới được cơ chứ?
 
 Cậu nhóc bú xong. Cô thay tã, đung đưa, hôn con, quấn chăn ủ ấm rồi đặt cậu bé vào nôi.
 
-*Cứ để con khóc cho đã đời*, cô thầm nghĩ, sẵn sàng tinh thần mặc kệ con gào lên. Thế nhưng cậu bé lại không khóc. Thậm chí chẳng thút thít lấy một tiếng.
+Cứ để con khóc cho đã đời, cô thầm nghĩ, sẵn sàng tinh thần mặc kệ con gào lên. Thế nhưng cậu bé lại không khóc. Thậm chí chẳng thút thít lấy một tiếng.
 
 Cậu bé thật ngoan. Lindsey cũng từng ngoan như thế. Con bé chưa từng chọc ngón tay vào ổ điện hay nhét hạt đậu vào mũi. Lindsey có thể ngủ liền một mạch mười hai tiếng, say sưa lướt qua cả những trận gào khóc kinh thiên động địa của Rory. Dù vậy, Miriam vẫn quyết định bước sang phòng kiểm tra con gái, chỉ để nhìn thấy lồng ngực con bé nhấp nhô phập phồng theo từng nhịp thở, và để tự nhắc nhở bản thân rằng những điều tốt đẹp trên đời này có thể tuyệt vời đến nhường nào.
 
@@ -58,13 +58,13 @@ Lại hoảng loạn.
 
 “Anh không quên. Nhưng có một thương vụ lớn cả nhóm đang cố chốt, mà anh lại là người theo sát từ đầu đến cuối. Họ cần anh.”
 
-“*Mẹ con em* cần anh. *Em* cần anh.”
+“Mẹ con em cần anh. Em cần anh.”
 
 “Anh biết chứ,” Jack nói. “Anh cũng đâu có ham hố gì. Nhưng nếu muốn giữ cơ hội lên làm thành viên góp vốn, anh phải tỏ ra linh hoạt và đáng tin cậy. Thế nên anh bắt buộc phải đi. Vì tương lai của chúng ta. Vì gia đình chúng ta.”
 
 Giọng anh đầy vẻ thuyết phục. Đến mức cô suýt nữa đã tin lời anh. Chính anh cũng tự tin vào bản thân mình như thế. Còn cô thì đã quá mệt mỏi. Đằng sau cơn hoảng loạn bùng phát ban nãy là cả một vực sâu kiệt sức thăm thẳm.
 
-Cô chật vật trườn lại vào giường (*ôi, đau quá, đau quá*). Cô quấn chặt chăn quanh người như một chiếc kén. Cô nhìn chồng lần cuối, nhìn hình bóng anh đang hiện hữu trong khoảnh khắc này của cuộc hôn nhân. Họ vẫn bền vững mà, phải không? Cô hoàn toàn có thể lựa chọn tin vào điều đó.
+Cô chật vật trườn lại vào giường (ôi, đau quá, đau quá). Cô quấn chặt chăn quanh người như một chiếc kén. Cô nhìn chồng lần cuối, nhìn hình bóng anh đang hiện hữu trong khoảnh khắc này của cuộc hôn nhân. Họ vẫn bền vững mà, phải không? Cô hoàn toàn có thể lựa chọn tin vào điều đó.
 
 “Thôi được. Được rồi, Jack. Em biết việc này rất quan trọng. Nhưng em chỉ… em mệt mỏi quá. Em muốn vợ chồng mình được ở bên nhau. Nhưng em mệt mỏi quá rồi.”
 
@@ -72,7 +72,7 @@ Anh cúi xuống, hôn nhẹ lên trán cô rồi tắt đèn. Cô dõi mắt nh
 
 Cô nhắm mắt lại. Cô tự nhủ rằng rồi mọi chuyện sẽ ổn thôi. Anh làm mọi điều chỉ vì gia đình, đó là câu chuyện hợp lý nhất được dựng lên. Dù vậy, đôi khi một câu chuyện được vẽ ra quá thuyết phục, quá lấn át, đến mức nó che mờ đi cả sự thật trần trụi.
 
-Cô cố dỗ dành giấc ngủ, nhưng khoảng trống vắng lạnh nơi vị trí của Jack vẫn hiện lên mồn một. Cô lăn người rời khỏi giường, *ôi, đau quá, đau quá*. Cô bước xuống nhà, pha một tách trà nóng rồi bật tivi lên. Chú chó Roxster ngoan ngoãn tiến lại ngồi nép bên chân cô, rồi nhẹ nhàng tựa đầu lên gối chủ. Nó thật vững chãi, bình yên và lúc nào cũng vô cùng dễ đoán. Dù thế giới ngoài kia có xoay chuyển ra sao, nó vẫn luôn là chính nó - một chú chó trung thành không bao giờ bị trói buộc bởi bất kỳ câu chuyện thêu dệt nào. Dù gì thì cô cũng yêu chú chó này, và cô cũng yêu Jack. Phải mất nhiều năm tháng nữa câu chuyện về cuộc hôn nhân hạnh phúc của họ mới rạn nứt rồi sụp đổ hoàn toàn, và cô chỉ có thể hy vọng rằng giữa đống hoang tàn ấy, vẫn còn sót lại một điều gì đó đủ kiên cường để đứng vững.
+Cô cố dỗ dành giấc ngủ, nhưng khoảng trống vắng lạnh nơi vị trí của Jack vẫn hiện lên mồn một. Cô lăn người rời khỏi giường, ôi, đau quá, đau quá. Cô bước xuống nhà, pha một tách trà nóng rồi bật tivi lên. Chú chó Roxster ngoan ngoãn tiến lại ngồi nép bên chân cô, rồi nhẹ nhàng tựa đầu lên gối chủ. Nó thật vững chãi, bình yên và lúc nào cũng vô cùng dễ đoán. Dù thế giới ngoài kia có xoay chuyển ra sao, nó vẫn luôn là chính nó - một chú chó trung thành không bao giờ bị trói buộc bởi bất kỳ câu chuyện thêu dệt nào. Dù gì thì cô cũng yêu chú chó này, và cô cũng yêu Jack. Phải mất nhiều năm tháng nữa câu chuyện về cuộc hôn nhân hạnh phúc của họ mới rạn nứt rồi sụp đổ hoàn toàn, và cô chỉ có thể hy vọng rằng giữa đống hoang tàn ấy, vẫn còn sót lại một điều gì đó đủ kiên cường để đứng vững.
 
 Cô uể oải bấm qua các bộ phim và chương trình giải trí, cho đến khi một hình ảnh bất ngờ đập vào mắt: khung cảnh một chú chó đứng hiên ngang nơi mũi thuyền, hai bên mép phập phồng tung bay trong gió biển. Đứng cạnh nó là một người đàn ông kỳ lạ với làn da rám nắng phong sương, bộ râu xồm xoàm, mặc chiếc quần may ghép mảnh Patchwork Pants, tay cầm kính viễn vọng và ánh mắt toát lên vẻ huyền bí xa xăm. Cô chợt nhớ lại một câu nói của người đàn ông ấy từ rất lâu về trước, tận nơi miền ký ức xa xôi trong câu chuyện thuở ấu thơ của chính cô.
 
@@ -85,3 +85,4 @@ Cô khơi gợi lại một mảng ký ức.
 Đó chính là Mr. Yay trên màn hình tivi thời thơ ấu của cô.
 
 Khi ấy, ông đã nắn nót viết những dòng chữ đó lên một mảnh giấy nhỏ, rồi cẩn thận bỏ vào chiếc chai thủy tinh và niêm phong lại. Đoạn, ông ném chiếc chai xuống dòng nước dập dềnh, để nó vượt qua đại dương xa xăm và tìm đến tay người thực sự cần lắng nghe.
+

@@ -1,10 +1,10 @@
 # SẮP ĐẾN GIỜ DIỄN
 
-**CHIẾC XE BUÝT LƯU DIỄN** bon bon về hướng đông từ Los Angeles, băng qua Las Vegas, Salt Lake, Denver, luồn sâu xuống tận ruột gan Texas, rồi ngược lên phía bắc đến Milwaukee, Chicago. Và thế là họ đã về đến nhà.
+CHIẾC XE BUÝT LƯU DIỄN bon bon về hướng đông từ Los Angeles, băng qua Las Vegas, Salt Lake, Denver, luồn sâu xuống tận ruột gan Texas, rồi ngược lên phía bắc đến Milwaukee, Chicago. Và thế là họ đã về đến nhà.
 
-Dọc đường, họ gom thêm đủ mọi thành phần lang thang: vài chú chó, mấy anh chàng rapper, mấy DJ, các fan hâm mộ cuồng nhiệt, YouTuber, người chơi KlipSwatch, cùng các bậc phụ huynh và ông bà của những đứa trẻ mà ước mơ duy nhất trong đời là trở thành Thuyền trưởng Barksford. Đó là chưa kể đám bạn-của-bạn-của-bạn Tommy đi nhờ xe buýt, hoặc lẳng lặng bám đuôi lướt theo sau. Mọi sinh linh đều được chào đón (hệt như trong chương trình truyền hình thiếu nhi *The Adventures of Mr. Yay*). Họ gặp một người phụ nữ vẽ chân dung họ trên boong tàu SS *Deliverance*. Họ gặp một đoàn kịch diễn lại những tiểu phẩm còn sót lại trong ký ức từ show truyền hình vốn đã bốc hơi không dấu vết. Họ ghé qua một bữa tiệc hậu lưu diễn chật ních những “Mr. Yay” - hàng trăm con người cùng diện chiếc quần nhung may ghép ô vuông sặc sỡ và dán râu giả. Họ chơi một buổi nhạc ngẫu hứng ngập tràn tinh thần nổi loạn trên con thuyền do một người đàn ông mặc bộ đồ chó làm thuyền trưởng. Họ gom thêm vô số chú chó: những chú cún rong ruổi từ thành phố này sang thành phố khác, từ buổi diễn này sang buổi diễn khác, lẫn những chú chó chỉ xuất hiện chớp nhoáng với tư cách khách mời đặc biệt đúng một lần rồi lại tung tăng về nhà. Cuối cùng, họ dừng lại tại một ngã tư ở quê nhà, đơn giản vì Tommy nhìn thấy một tấm biển dán trên cột điện thoại ngoài cửa sổ.
+Dọc đường, họ gom thêm đủ mọi thành phần lang thang: vài chú chó, mấy anh chàng rapper, mấy DJ, các fan hâm mộ cuồng nhiệt, YouTuber, người chơi KlipSwatch, cùng các bậc phụ huynh và ông bà của những đứa trẻ mà ước mơ duy nhất trong đời là trở thành Thuyền trưởng Barksford. Đó là chưa kể đám bạn-của-bạn-của-bạn Tommy đi nhờ xe buýt, hoặc lẳng lặng bám đuôi lướt theo sau. Mọi sinh linh đều được chào đón (hệt như trong chương trình truyền hình thiếu nhi The Adventures of Mr. Yay). Họ gặp một người phụ nữ vẽ chân dung họ trên boong tàu SS Deliverance. Họ gặp một đoàn kịch diễn lại những tiểu phẩm còn sót lại trong ký ức từ show truyền hình vốn đã bốc hơi không dấu vết. Họ ghé qua một bữa tiệc hậu lưu diễn chật ních những “Mr. Yay” - hàng trăm con người cùng diện chiếc quần nhung may ghép ô vuông sặc sỡ và dán râu giả. Họ chơi một buổi nhạc ngẫu hứng ngập tràn tinh thần nổi loạn trên con thuyền do một người đàn ông mặc bộ đồ chó làm thuyền trưởng. Họ gom thêm vô số chú chó: những chú cún rong ruổi từ thành phố này sang thành phố khác, từ buổi diễn này sang buổi diễn khác, lẫn những chú chó chỉ xuất hiện chớp nhoáng với tư cách khách mời đặc biệt đúng một lần rồi lại tung tăng về nhà. Cuối cùng, họ dừng lại tại một ngã tư ở quê nhà, đơn giản vì Tommy nhìn thấy một tấm biển dán trên cột điện thoại ngoài cửa sổ.
 
-**CÓ AI THẤY MR. YAY KHÔNG?**
+CÓ AI THẤY MR. YAY KHÔNG?
 
 Tấm biển hỏi như thế. Trông nó chẳng khác nào tờ rơi tìm thú cưng thất lạc, có điều thay vì in hình một chú chó hay mèo, nó lại in bức vẽ Mr. Yay và Thuyền trưởng Barksford đang lênh đênh trên con thuyền của họ.
 
@@ -14,7 +14,7 @@ Chiếc xe buýt lưu diễn đỗ xịch trước căn biệt thự đồ sộ 
 
 Trong khi đám tùy tùng hào hứng chơi đùa, uống rượu, dắt chó đi dạo và duỗi thẳng đôi chân mỏi nhừ sau chuyến đi dài, Bratty và Tommy vẫn ngồi lại uống bia trên xe buýt.
 
-*Rượu tăng dũng khí*, Tommy gọi món đồ uống ấy như thế.
+Rượu tăng dũng khí, Tommy gọi món đồ uống ấy như thế.
 
 Tất nhiên, Bratty vẫn chưa sẵn sàng.
 
@@ -48,7 +48,7 @@ Anh nhắm mắt lại, tự dặn lòng sẽ không để nó nuốt chửng m�
 
 Đâu đó trong tâm trí anh, một giọng nói vang lên:
 
-*Căng buồm lên hỡi chàng thủy thủ! Vượt qua muôn trùng biển mặn!*
+Căng buồm lên hỡi chàng thủy thủ! Vượt qua muôn trùng biển mặn!
 
 Bratty mở mắt, đứng thẳng người. Anh nhìn thẳng vào mắt bố mình, ánh nhìn kiên định: “Con đang đi lưu diễn.”
 
@@ -70,7 +70,7 @@ Anh nhìn chằm chằm vào bố mình: ông Brian Pierson. Một người đà
 
 “Đằng nào thì bố cũng có trả tiền học cho con đâu.”
 
-“Con thật là… Bố thậm chí còn chẳng biết phải nói gì nữa! Con làm *nhạc rap* ư?”
+“Con thật là… Bố thậm chí còn chẳng biết phải nói gì nữa! Con làm nhạc rap ư?”
 
 Rap đâu phải là một kế hoạch cuộc đời. Âm nhạc, cùng lắm, chỉ nên là một thú vui tiêu khiển lúc rảnh rỗi (theo đúng quy chuẩn của gia đình Pierson). Gương mặt người bố già bừng bừng lên vì phẫn nộ. Rồi ngay phía sau ông, nơi bậc cửa, mẹ kế Helena xuất hiện. Bà ta chẳng buồn cất lời chào Bradford, chẳng ôm lấy anh, thậm chí còn chẳng thèm đoái hoài thừa nhận sự tồn tại của đứa con cừu đen trong nhà.
 
@@ -95,3 +95,4 @@ Về phần chú chó (Tux Hân Hoan, Nàng Tiên Tux Vui Nhộn, Kẻ Hủy Di�
 Cuối cùng, khi Tux đã quậy phá chán chê, cu cậu bèn phi nước đại ra ngoài, cẩn thận lau sạch móng trên thảm cỏ rồi trèo tót lên chiếc xe buýt lưu diễn.
 
 Nó quả là một chú chó vô cùng ngoan ngoãn (ít nhất là theo tiêu chuẩn của một nhóm nhạc rap). Và dù sao thì ngày mai, tất cả bọn họ cũng có một buổi biểu diễn lớn đang chờ đón.
+

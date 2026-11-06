@@ -1,12 +1,12 @@
 # GÓC HOÀI NIỆM
 
-**MIRIAM + JACK**
+MIRIAM + JACK
 
-**VÀO MỘT BUỔI TỐI THÁNG MƯỜI MỘT TRỜI SE LẠNH,** chín năm về trước, một người đàn ông trèo qua cửa sổ ra chiếc thang thoát hiểm ở tầng ba. Anh không sợ ngã, ít nhất là không phải ngã từ chiếc thang này. Nỗi sợ của anh mang hình dáng mơ hồ hơn thế nhiều.
+VÀO MỘT BUỔI TỐI THÁNG MƯỜI MỘT TRỜI SE LẠNH, chín năm về trước, một người đàn ông trèo qua cửa sổ ra chiếc thang thoát hiểm ở tầng ba. Anh không sợ ngã, ít nhất là không phải ngã từ chiếc thang này. Nỗi sợ của anh mang hình dáng mơ hồ hơn thế nhiều.
 
 Anh mặc áo khoác nhung kẻ, đội mũ fedora và châm một điếu thuốc. Dáng hình anh in thành một vệt đen sẫm trên nền trời khu trung tâm. Xung quanh anh, thành phố gầm rống trong mớ âm thanh hỗn độn của tiếng còi xe, tiếng động cơ, vỏ chai vỡ, chó sủa cùng tiếng bass dồn dập. Gương mặt anh chìm trong bóng tối. Làn khói mỏng lãng đãng quanh anh.
 
-*Người đàn ông này là ai?*
+Người đàn ông này là ai?
 
 Biết đâu anh là tài tử của một bộ phim noir thập niên 1940. Biết đâu trong gấu áo anh có giắt một khẩu súng. Biết đâu anh từng đem lòng yêu một cô nàng nguy hiểm sở hữu đôi môi đỏ như máu, người sẽ chẳng bao giờ thèm đáp lại tình cảm của anh.
 
@@ -62,7 +62,7 @@ Người bố cố lén lút lách ra xem TV. Ông cố đọc tin tức trên �
 
 “Tôi biết rồi, biết rồi mà,” ông cằn nhằn rồi nhấp một ngụm rượu. Ông quay sang cặp đôi trẻ: “Vậy đây là cô gái đó hả? Người mà bố mẹ nghe kể nhiều lắm đúng không?”
 
-Cô rõ ràng là một *người phụ nữ* trưởng thành. Và Jack cũng kể cho bố mẹ về cô nhiều ngang ngửa với cách anh kể về bất kỳ điều gì khác trên đời: gần như chẳng có gì.
+Cô rõ ràng là một người phụ nữ trưởng thành. Và Jack cũng kể cho bố mẹ về cô nhiều ngang ngửa với cách anh kể về bất kỳ điều gì khác trên đời: gần như chẳng có gì.
 
 Anh không kể nhiều với họ về trường luật, đơn giản vì họ chẳng hề bận tâm đến những khía cạnh thú vị. Họ chỉ muốn biết kết quả thực dụng sau cùng.
 
@@ -70,7 +70,7 @@ Anh không kể nhiều với họ về trường luật, đơn giản vì họ 
 
 “Chưa ạ. Ý con là, con mới chỉ bắt đầu học thôi mà.”
 
-“Con cần một kế hoạch thực tế. Đừng có mơ mộng viển vông. Giống như cái kế hoạch đòi làm thám tử hồi đó của con ấy. Jack có từng kể cho cháu nghe về chuyện này chưa?” bà quay sang hỏi Miriam. “Nó từng *ám ảnh* với trò đó lắm đấy.”
+“Con cần một kế hoạch thực tế. Đừng có mơ mộng viển vông. Giống như cái kế hoạch đòi làm thám tử hồi đó của con ấy. Jack có từng kể cho cháu nghe về chuyện này chưa?” bà quay sang hỏi Miriam. “Nó từng ám ảnh với trò đó lắm đấy.”
 
 “Con đâu có ám ảnh.”
 
@@ -131,3 +131,4 @@ Sau giờ giao tế tiệc tùng vui vẻ, cặp đôi trẻ lén dắt nhau ra 
 “Ừ hứ. Những hiểm họa khôn lường ở thị trấn Kernville.”
 
 “Có khi anh sẽ chôm luôn mấy bức ảnh đó,” Jack đùa. “Để rồi mẹ lại thuê anh điều tra xem rốt cuộc chúng đã bốc hơi đi đâu mất.”
+

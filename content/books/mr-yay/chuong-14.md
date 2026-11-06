@@ -1,18 +1,16 @@
-# KHÚC DẠO ĐẦU
+# KHÚC DẠO ĐẦU - NGƯỜI ĐÁNH CÁ
 
-# NGƯỜI ĐÁNH CÁ
-
-**HÃY TƯỞNG TƯỢNG BẠN** là một gã đánh cá.
+HÃY TƯỞNG TƯỢNG BẠN là một gã đánh cá.
 
 Cả đời bạn gắn chặt với cái kiếp ngư dân lênh đênh trên biển Aegean. Cuộc sống của bạn từng êm ả đẹp như mơ, dư dả ấm no — cho tới một mùa hè trời đánh nào đó lũ cá bắt đầu lặn mất tăm. Sang mùa hè tiếp theo thì cá mú lại càng hẻo lánh, rồi cứ thế cạn sạch sành sanh. Đã nghèo còn mắc cái eo, một cơn bão quét qua đập tan tành con thuyền. Bạn nhẵn túi, chẳng còn đồng cắc nào để trả lương cho thủy thủ đoàn. Đến lúc chắp vá xong xuôi mớ tàn tích nổi lềnh bềnh ấy thì bạn chỉ còn lại trơ trọi một mình. Bạn và thằng con giai cưng.
 
 Thằng nhóc thì hăng hái khỏi bàn. Cái đấy phải công nhận. Nó máu me ra khơi đánh cá ra trò. Ngặt nỗi sức vóc nó chỉ bằng nửa người lớn, còn cái mồm thì hoạt động với công suất gấp mười lần. Nó lải nhải, bắn liên thanh, nói không ngơi nghỉ lấy một giây. Bạn cũng ráng mà tỏ vẻ biết ơn số phận, cơ mà đời nào có cho bạn được một khắc bình yên. Tiếng sóng vỗ rì rào bạn còn chẳng nghe nổi, vì thằng nhóc bận thao thao bất tuyệt từ lúc vừa banh mắt dậy cho tới tận lúc bị cơn buồn ngủ quật ngã. Thậm chí lắm hôm, nó còn nói mớ liến thoắng cả trong mơ.
 
-Hôm nay, cu cậu lại đang mở hội thảo thuyết trình về loài cá heo. Nó xả vào tai bạn đủ thứ trên trời dưới biển nó biết về cá heo, lẫn cả một đống thứ nó cóc biết tí gì, chi tiết từng li từng tí, săm soi từng phân loài một. Nào là *Sousa sahulensis*, rồi đến *Tursiops truncatus* (tức là cá heo mũi chai đấy). Nào là *Delphinus delphis* với chả *Grampus griseus*. Rằng chúng nó thân thiện lắm, nhưng cũng là kỳ phùng địch thủ tranh ăn với thuyền đánh cá đấy nhé. Liệu con có được tận mắt nhìn thấy chúng nó không hả bố? Thằng nhãi cứ gặng hỏi mãi. Bao giờ thì con mới thấy? Cái bóng mờ căm dưới nước kia có phải cá heo không? Thế còn cái đằng kia thì…
+Hôm nay, cu cậu lại đang mở hội thảo thuyết trình về loài cá heo. Nó xả vào tai bạn đủ thứ trên trời dưới biển nó biết về cá heo, lẫn cả một đống thứ nó cóc biết tí gì, chi tiết từng li từng tí, săm soi từng phân loài một. Nào là Sousa sahulensis, rồi đến Tursiops truncatus (tức là cá heo mũi chai đấy). Nào là Delphinus delphis với chả Grampus griseus. Rằng chúng nó thân thiện lắm, nhưng cũng là kỳ phùng địch thủ tranh ăn với thuyền đánh cá đấy nhé. Liệu con có được tận mắt nhìn thấy chúng nó không hả bố? Thằng nhãi cứ gặng hỏi mãi. Bao giờ thì con mới thấy? Cái bóng mờ căm dưới nước kia có phải cá heo không? Thế còn cái đằng kia thì…
 
-Bạn ngước mắt lên. Trong một phần nghìn giây đầu tiên, não bạn nhảy số ngay ra chữ *cá heo*. Nhưng mà khoan, cái thứ của nợ kia to hơn nhiều, to vãi đái. Nó khổng lồ. Nó nuốt trọn cả đường chân trời và bít chịt toàn bộ tầm mắt của bạn. Quan trọng hơn cả là nó chả có mẹ gì giống một con cá heo hết.
+Bạn ngước mắt lên. Trong một phần nghìn giây đầu tiên, não bạn nhảy số ngay ra chữ cá heo. Nhưng mà khoan, cái thứ của nợ kia to hơn nhiều, to vãi đái. Nó khổng lồ. Nó nuốt trọn cả đường chân trời và bít chịt toàn bộ tầm mắt của bạn. Quan trọng hơn cả là nó chả có mẹ gì giống một con cá heo hết.
 
-Đó là một con tàu. Một con tàu to tổ bố ngút ngàn. Giờ mà bảo bạn phân biệt nó là thiết giáp hạm hay du thuyền triệu đô của giới siêu giàu thì xin chịu chết. Vả lại bạn cũng làm gì còn hơi sức đâu mà phân bua, vì bạn đã bị hất bay thẳng lên không trung mất rồi. Đất trời lộn tùng phèo. Thuyền của bạn lật nhào, rồi úp ngược một phát gọn gàng. Bạn chìm nghỉm dưới làn nước. Não bạn gào thét loạn xạ: *Quỷ thần thiên địa ơi, cái quái gì vừa xảy ra thế này?*, rồi lại *Thằng con mình đâu mất xác rồi?*, và *Con tàu mẹ kia chui từ cái lỗ nẻ nào ra thế?* (bởi vì rõ ràng một giây trước ở đấy làm đéo gì có con tàu nào).
+Đó là một con tàu. Một con tàu to tổ bố ngút ngàn. Giờ mà bảo bạn phân biệt nó là thiết giáp hạm hay du thuyền triệu đô của giới siêu giàu thì xin chịu chết. Vả lại bạn cũng làm gì còn hơi sức đâu mà phân bua, vì bạn đã bị hất bay thẳng lên không trung mất rồi. Đất trời lộn tùng phèo. Thuyền của bạn lật nhào, rồi úp ngược một phát gọn gàng. Bạn chìm nghỉm dưới làn nước. Não bạn gào thét loạn xạ: Quỷ thần thiên địa ơi, cái quái gì vừa xảy ra thế này?, rồi lại Thằng con mình đâu mất xác rồi?, và Con tàu mẹ kia chui từ cái lỗ nẻ nào ra thế? (bởi vì rõ ràng một giây trước ở đấy làm đéo gì có con tàu nào).
 
 Bạn đang trôi dốc ngược dưới nước, nhưng cơ chế sinh tồn lập tức giật dây. Bạn đạp nước điên cuồng bơi ngược về phía có ánh sáng rồi ngoi được cái đầu lên. Con thuyền của bạn coi như đi tong, nhưng ơn trời bạn vẫn chưa chìm nghỉm.
 
@@ -39,3 +37,4 @@ Người bạn khô cong như ngói. Bạn vẫn còn sống nhăn răng.
 Bạn đâu có bị điên. Nhưng mà cái màn kịch này… biết giải thích kiểu mẹ gì cho thằng con hiểu bây giờ?
 
 Thôi thì tốt nhất là ngậm mồm lại. Bạn biết tỏng nếu phọt ra thành lời thì câu chuyện nghe sẽ dở hơi cám hấp đến mức nào. Đến chính bạn còn cóc tin nổi vào mắt mình nữa là. Bạn vươn tay ôm riết lấy thằng con giai cưng. Bạn vẫn còn sống, thằng nhóc vẫn lành lặn, và đằng sau bờ vai con bé nhỏ, bạn thấy một vệt bóng mờ lướt qua dưới làn nước, mang hình thù của một chú cá heo.
+

@@ -1,8 +1,6 @@
-# XUÂN PHÂN: CẦU NỐI
+# XUÂN PHÂN: CẦU NỐI - TOÁN HỌC
 
-# TOÁN HỌC
-
-**HÃY TƯỞNG TƯỢNG BẠN** là một nhà vật lý thiên văn.
+HÃY TƯỞNG TƯỢNG BẠN là một nhà vật lý thiên văn.
 
 Hãy tưởng tượng tên bạn là Robert Kai. Rằng bạn là một người nổi tiếng lẫy lừng. Rằng ngoài kia, có hẳn ba mặt trăng đang miệt mài quay quanh một hành tinh xa xôi, và chiếc nào cũng được trân trọng đặt theo tên bạn: Kai-1, Kai-2, Kai-3. Biết đâu chừng, trên mớ đất đá lơ lửng ấy lại đang có sự sống.
 
@@ -20,7 +18,7 @@ Bây giờ, hãy tưởng tượng bạn quay ngược thời gian về khoảng
 
 Khối thiên thạch đã san phẳng hoàn toàn ngôi nhà cùng mọi tài sản bên trong.
 
-Thế nhưng, chỉ vì hôm đó là sinh nhật bạn, và vì bạn vừa nhận được chiếc kính viễn vọng kia, nên *bạn* mới không có mặt ở trong nhà. Lúc ấy, bạn đang đứng ngoài sân, mải mê suy tính xác suất xem liệu chiếc kính của mình có thể phát hiện ra tàu vũ trụ ngoài hành tinh, những nỗi kinh hoàng cổ xưa ma quái, hay những siêu đô thị ngập tràn sự sống ở cõi thiên hà xa xôi nào đó hay không. Bố mẹ bạn cũng đang ở ngoài sân, mải mê dõi theo bạn - kỳ quan lớn nhất đời họ, kiệt tác tuyệt mỹ mà chính họ tạo ra.
+Thế nhưng, chỉ vì hôm đó là sinh nhật bạn, và vì bạn vừa nhận được chiếc kính viễn vọng kia, nên bạn mới không có mặt ở trong nhà. Lúc ấy, bạn đang đứng ngoài sân, mải mê suy tính xác suất xem liệu chiếc kính của mình có thể phát hiện ra tàu vũ trụ ngoài hành tinh, những nỗi kinh hoàng cổ xưa ma quái, hay những siêu đô thị ngập tràn sự sống ở cõi thiên hà xa xôi nào đó hay không. Bố mẹ bạn cũng đang ở ngoài sân, mải mê dõi theo bạn - kỳ quan lớn nhất đời họ, kiệt tác tuyệt mỹ mà chính họ tạo ra.
 
 Nếu khối thiên thạch kia rơi trúng vào bất kỳ ngày nào khác trong năm, có lẽ cả bạn, bố bạn lẫn mẹ bạn đều đã bỏ mạng; đổi lại, thiệt hại duy nhất chỉ là bảy tháng dài ngán ngẩm ở trong khách sạn để chờ ngôi nhà được xây lại. Căn nhà mới rốt cuộc lại đẹp hơn hẳn căn nhà cũ. Giờ đây, về mặt toán học, xác suất để một khối thiên thạch khác tiếp tục rơi trúng nhà bạn vẫn hoàn toàn y hệt như trước khi khối thiên thạch đầu tiên lao xuống - dẫu rằng cảm giác nội tâm của bạn thì không hề giống như vậy. Bạn thấy mình hoàn toàn an toàn.
 
@@ -34,7 +32,7 @@ Dẫu vậy, phép toán ấy đã sinh ra bạn, cùng chú chó corgi của b�
 
 Bạn đã ở rất gần đích đến, đúng cái khoảnh khắc chú chó Samwise cất tiếng sủa vang. Nó sủa vào hư không. Rõ ràng chẳng có gì ở đó, nhưng dường như lại có một cái gì đó. Bạn cũng cảm nhận được. Thế nhưng đó là thứ gì, xuất hiện ra sao, hay tại sao lại như vậy, thì bạn chịu chết (và toán học cũng đành bó tay). Nó mờ nhạt tựa một sợi lông tơ, êm đềm như làn gió thoảng. Nó vừa là hư vô, lại vừa là tất cả. Rồi khi bạn quay lại nhìn những con số, chúng đã chẳng còn chút ý nghĩa nào.
 
-*Cái gì thế này? Quái quỷ gì vậy?*
+Cái gì thế này? Quái quỷ gì vậy?
 
 Samwise lại cất tiếng sủa thêm một tiếng.
 
@@ -42,11 +40,11 @@ Những con số trên màn hình như đang gào thét.
 
 Các con số vốn dĩ hiển thị tốc độ giãn nở vũ trụ ở mức 73,3 kilômét mỗi giây trên một megaparsec giờ đây tụt xuống 67,1, rồi 58,9, tiếp tục hạ xuống 52,7, rồi cán mốc 49,8. Chúng lao dốc không phanh, rơi tự do như gạch đá, và trong cả cuộc đời làm khoa học của bạn, chưa từng có điều gì lại phi lý đến mức này như phép toán trước mắt.
 
-*Không, không thể nào, chuyện này là bất khả thi…*
+Không, không thể nào, chuyện này là bất khả thi…
 
 Bạn rà soát đi rà soát lại. Các con số dần trở về với tốc độ bình thường trước đó, nhưng lòng bạn vẫn không nguôi bứt rứt. Nhiều ngày liền, bạn lảng vảng như bóng ma bên các dãy siêu máy tính. Bạn đi đi lại lại, miệng lẩm bẩm một mình, tính toán rồi lại quay ra tính toán lại từ đầu. Bạn cuống cuồng gọi điện liên tục cho các nhà vật lý thiên văn ở những đài quan sát khác. Vài người trong số họ thừa nhận có nhận thấy đôi chút bất thường, nhưng tuyệt nhiên không một ai ghi nhận được dữ liệu chuẩn xác đến mức điên rồ như bạn.
 
-*Hẳn là có lỗi đo đạc gì đó rồi*, họ tóm tắt ngắn gọn như thế.
+Hẳn là có lỗi đo đạc gì đó rồi, họ tóm tắt ngắn gọn như thế.
 
 Nhưng làm gì có lỗi nào! Bạn nắm trong tay bản ghi chép rành rành rõ ràng. Toán học thì đời nào biết nói dối.
 
@@ -54,4 +52,5 @@ Dẫu vậy, bạn vẫn miệt mài kiểm tra, kiểm tra lại rồi lại ki
 
 Bởi lẽ giờ đây, chẳng còn việc gì khác để làm ngoài việc để mọi thứ tự lắng đọng trong tâm trí, thầm hy vọng bộ não to lớn kia của bạn có thể tìm ra ý nghĩa từ những điều hoàn toàn phi lý. Dù sao thì não bộ con người cũng vốn cực kỳ cừ khôi ở khoản đó: gom nhặt những dữ liệu ngẫu nhiên, những con số lạc lối cùng các sự kiện kỳ dị, rồi dệt nên một câu chuyện hợp lý để giải thích, hoặc đơn giản là để tự vỗ về bản thân.
 
-Giờ thì bạn chẳng còn gì để làm ngoài việc buông bỏ. Để *thu mình như một con ốc mượn hồn*, giống như lời người ta từng dạy trong chương trình truyền hình thiếu nhi cũ rích mà bạn yêu thích đến thế. Để lắng nghe chú chó của mình, bước vào xe, rồi lái xe đi mãi, đi mãi.
+Giờ thì bạn chẳng còn gì để làm ngoài việc buông bỏ. Để thu mình như một con ốc mượn hồn, giống như lời người ta từng dạy trong chương trình truyền hình thiếu nhi cũ rích mà bạn yêu thích đến thế. Để lắng nghe chú chó của mình, bước vào xe, rồi lái xe đi mãi, đi mãi.
+

@@ -1,32 +1,32 @@
 # HỒI TƯỞNG
 
-**MIRIAM + JACK**
+MIRIAM + JACK
 
-**MỘT NGƯỜI PHỤ NỮ ĐANG YÊU,** và thế là đủ rồi, đúng chứ?
+MỘT NGƯỜI PHỤ NỮ ĐANG YÊU, và thế là đủ rồi, đúng chứ?
 
 Tình yêu là tất cả những gì ta cần, phim ảnh và các khúc ca vẫn luôn bảo thế. Tình yêu căng tràn đến mức lấp đầy trái tim, tâm hồn, dạ dày, cùng từng ý nghĩ mỗi sớm mai thức giấc.
 
 Tựa như một quả bóng bay, chỉ khác là nó được bơm căng bằng hormone oxytocin.
 
-Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng *bịch, rắc* khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút lên cao. Đó là một bóng chim đen tuyền giữa nền trời rực sắc neon. Đó là một giấc mơ mà người phụ nữ đã lãng quên đúng vào thời điểm nó trở nên quan trọng. Cả trong mơ lẫn lúc vừa choàng tỉnh, cô đều nghĩ:
+Một người phụ nữ đang yêu, ngoại trừ ban đêm, khi chìm vào giấc ngủ thì tâm trí cô lại quên bẵng đi. Tâm trí cô tự tạo ra một khoảng trống kỳ lạ ngay trên chiếc giường bên cạnh. Trong đầu cô vẽ nên tiếng chuông điện thoại đổ dồn dập, một người chồng nhất quyết không chịu nhấc máy, cùng một vùng biển động dữ dội ngăn cách giữa hai người. Giấc mơ đem đến cho cô một hộp trứng. Cô đập vỡ ba quả vào bát. Đến quả thứ tư, thay vì lòng trắng và lòng đỏ, từ bên trong lại thò ra một bàn chân nhỏ xíu. Thoạt nhìn, nó giống hệt bàn chân bé tí teo của con người, chân của một con búp bê hay một nàng tiên tí hon nào đó. Thế rồi nó lại biến thành chân của một chú gà con. Chú gà con ướt sũng nằm lọt thỏm trong bát trứng. Nó rũ sạch những mảnh vỏ vụn khỏi bộ lông. Rồi nó nhảy tót ra ngoài, đáp xuống mặt bàn bếp. Nó lạch bạch chạy về phía cửa sổ. Nó nhảy vọt lên. Cô nín thở chờ đợi tiếng bịch, rắc khi con gà đập sầm vào tấm kính, thế nhưng nó lại bay xuyên qua, hệt như thể mặt kính chỉ là một lớp màng xốp vô hình. Ở ngoài kia, nó vỗ cánh bay vút lên cao. Đó là một bóng chim đen tuyền giữa nền trời rực sắc neon. Đó là một giấc mơ mà người phụ nữ đã lãng quên đúng vào thời điểm nó trở nên quan trọng. Cả trong mơ lẫn lúc vừa choàng tỉnh, cô đều nghĩ:
 
-*Đàn gà của mình đâu rồi nhỉ?*
+Đàn gà của mình đâu rồi nhỉ?
 
 Nhưng rồi cô cũng quên béng luôn cả điều đó. Bởi lẽ cô còn bao mối hoài nghi khác cần bận tâm suy xét.
 
 Dù sao đi nữa, dẫu mọi chuyện có tiến triển theo chiều hướng nào, tình yêu vẫn là quá đủ. Và cô đang say đắm trong men tình. Cô là một cô dâu mới cưới. Cô là bà Miriam Shipley, và cô vẫn còn run lên vì sung sướng mỗi khi nhìn thấy tên mình được in trên giấy tờ. Mỗi khi lắng nghe danh xưng ấy:
 
-*Nhà Shipley. Ông bà Shipley.*
+Nhà Shipley. Ông bà Shipley.
 
 Cộng thêm một chú cún cưng đáng yêu hết nấc. Và còn gì nữa nhỉ?
 
 Cô yêu ngôi nhà của họ.
 
-Ngôi nhà của *họ*. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.
+Ngôi nhà của họ. Căn nhà hai tầng kiểu Craftsman nằm ngay khúc đường cụt cuối phố Ravenswood Drive. Cô yêu những tán cây cổ thụ to lớn, những khu vườn kiểu nhà đồng quê cùng những cột đèn lồng khí đốt từ thập niên 1930 của vùng ngoại ô. Cô yêu tình làng nghĩa xóm ấm áp, những bữa tiệc chung của cả khu phố, những buổi đứng lại chuyện trò dăm ba câu. Cô yêu sự trù phú rậm rạp của cỏ cây và muông thú, những chú chim làm tổ giữa cành lá sum suê, những chú thỏ và bầy cáo. Thậm chí cô còn yêu cả những con ong thợ chăm chỉ khoan lỗ trên bộ bàn ghế gỗ ngoài hiên, đàn hươu ngấu nghiến những khóm hoa ngọc trâm của cô, và cả lũ sóc trơ trẽn vặt trụi từng quả cà chua chín mọng trên giàn, cắn đúng một miếng rồi vứt toẹt phần còn lại sang một bên.
 
 Cô yêu tất cả những điều này chỉ vì cô yêu Jack, yêu nhiều đến mức ngỡ như một quả bom neutron vừa phát nổ, tạo thành một đám mây nấm tình yêu khổng lồ bao trùm lấy vạn vật xung quanh.
 
-Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng *lạo xạo, lạo xạo, lạo xạo* dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.
+Đó là một ngày tháng Sáu. Nóng nực và oi ả. Bầu không khí nồng nặc hương hoa đến phát ngấy. Một lứa ve sầu vừa mới lột xác, bỏ lại lớp vỏ ngoài giòn rụm trên khắp các nẻo đường, vỉa hè, bờ bụi và cành cây. Cô chạy bộ ra ngoài, từng bước chân vang lên tiếng lạo xạo, lạo xạo, lạo xạo dọc theo vỉa hè, lòng thầm tự hỏi liệu cuộc đời mình có thay đổi hay không, và rồi sẽ thay đổi ra sao.
 
 Có lẽ cô sẽ phải bớt chạy bộ lại và chuyển sang đi bơi nhiều hơn. Có lẽ cô sẽ mất thêm một năm nữa mới hoàn thành xong chương trình cao học. Có lẽ cô sẽ sơn lại phòng ngủ thành màu xanh lam hoặc màu vàng. Hoặc có lẽ cô sẽ sắm một chiếc xe đẩy trẻ em chuyên dụng để chạy bộ.
 
@@ -46,7 +46,7 @@ Cô chạy bộ đến tiệm thuốc và mua một hộp bốn que thử thai. 
 
 “Nó mà không chịu ra đúng hạn thì tớ phát điên mất. Tớ chịu đựng đủ lắm rồi. Giờ tớ chỉ thèm một cốc bia mát lạnh đến phát khóc, thế mà ngay cả một hớp cũng chẳng được đụng vào.”
 
-Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là *không có thai*, còn một vạch lượn sóng xoăn tít nghĩa là *có thai*. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay lấy điện thoại gọi cho Jack, muốn gào tướng lên qua ống nghe: *Jack! Jack Jack Jack Jack ơi, chúng ta sắp có em bé rồi!!!*
+Về đến nhà, Miriam liền dùng que thử thai ngay lập tức. Trên vỏ hộp in hình một đứa bé mũm mĩm có lúm đồng tiền sâu cùng chỏm tóc xoăn tít. Bảng hướng dẫn giải thích cặn kẽ rằng một vạch thẳng tắp nghĩa là không có thai, còn một vạch lượn sóng xoăn tít nghĩa là có thai. Tờ hướng dẫn bảo phải kiên nhẫn đợi hai phút, thế nhưng chỉ vài giây trôi qua, cái vạch xoăn tít kia đã ngoan cố hiện rõ mồn một. Để cho cẩn tắc vô áy náy, cô làm tiếp que thứ hai. Ngay khoảnh khắc ấy, cô chỉ muốn vớ ngay lấy điện thoại gọi cho Jack, muốn gào tướng lên qua ống nghe: Jack! Jack Jack Jack Jack ơi, chúng ta sắp có em bé rồi!!!
 
 Thế nhưng cùng lúc đó, cô lại muốn khoảnh khắc trọng đại này phải diễn ra thật hoàn hảo và trang trọng. Cô muốn tận mắt ngắm nhìn biểu cảm trên gương mặt anh, muốn cảm nhận hơi ấm từ vòng tay, bàn tay cùng bờ môi anh, và lắng nghe nhịp đập rộn ràng của hai trái tim cùng hòa làm một.
 
@@ -56,7 +56,7 @@ Thế là cô quyết định cúp buổi học, dành trọn cả ngày thong t
 
 “Thế sao? Muộn đến mức nào cơ anh?”
 
-“*Rất* muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”
+“Rất muộn đấy. May mắn lắm thì cũng phải nửa đêm mới xong. Anh sẽ cố rón rén để không làm em thức giấc.”
 
 “Vâng… nhưng chỉ tối nay thôi đúng không? Tối mai anh sẽ về ăn tối chứ?”
 
@@ -116,7 +116,7 @@ Thế nhưng ngày mai rồi cũng tới, và ít nhất thì lần này anh đ�
 
 Cô cúp máy. Cô lẳng lặng dời đĩa thịt nướng meatloaf ra mép ngoài tủ lạnh, vị trí đập ngay vào mắt để Jack có thể tự tìm thấy và tự cho vào lò vi sóng mà hâm lấy. Cô mở một gói khoai tây chiên giòn rụm rồi chấm đẫm sốt phô mai béo ngậy. Cô dùng thêm một que thử thai nữa cho chắc ăn, rồi đặt ngay ngắn trên bàn bếp cạnh một mẩu giấy ghi chú, phòng trường hợp hai cái vạch xoăn tít kia vẫn chưa đủ rõ ràng đối với một bộ óc luật sư:
 
-*Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.*
+Jack, em có thai rồi. Trong tủ lạnh có thịt nướng meatloaf, bắp ngô và bánh quy bơ sữa đấy.
 
 Một lát sau, cô buồn tay ăn sạch bách chỗ bánh quy bơ sữa. Rồi cô leo lên chiếc giường trống trải, chìm sâu vào giấc ngủ mà chẳng buồn đợi ai.
 
@@ -133,3 +133,4 @@ Cô thức giấc trong vòng tay ấm áp của Jack. Vài vệt nắng ban mai
 “Ồ, tốt quá. Nhưng liệu có ổn không đấy? Em không muốn anh gặp rắc rối ở văn phòng đâu.”
 
 “Làm sao họ biết được anh không ốm thật cơ chứ,” Jack nói. “Mà vả lại, chuyện đó cũng chẳng quan trọng. Điều duy nhất quan trọng trong ngày hôm nay đang ở ngay trên chiếc giường này rồi.”
+

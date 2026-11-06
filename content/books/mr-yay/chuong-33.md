@@ -1,8 +1,6 @@
-# KHÚC ĐỆM
+# KHÚC ĐỆM - VẬN ĐỘNG VIÊN CHẠY ĐƯỜNG DÀI
 
-# VẬN ĐỘNG VIÊN CHẠY ĐƯỜNG DÀI
-
-**HÃY TƯỞNG TƯỢNG BẠN** là một vận động viên chạy đường dài.
+HÃY TƯỞNG TƯỢNG BẠN là một vận động viên chạy đường dài.
 
 Bạn chạy marathon lẫn ultramarathon, thậm chí từng có thời khoác áo đội tuyển điền kinh Olympic của Mozambique. Bạn chạy vì những tấm huy chương, nhưng phần lớn là vì niềm hân hoan thuần khiết. Đơn giản vì bạn có thể. Vì bạn say mê nhịp điệu của cơ thể mình trên cung đường mòn, ngọn gió và ánh nắng mơn man trên gương mặt, cùng trạng thái thiền định miên man. Chạy bộ chính là một lời nguyện cầu.
 
@@ -20,10 +18,11 @@ Mũi chân bạn vấp phải. Cổ chân bạn trẹo đi. Bạn nghe thấy m�
 
 Điều khiến bạn khiếp sợ là nỗi lo mình sẽ không bao giờ có thể chạy được nữa.
 
-Bạn thét gào, cơn đau bắn vọt lên, xoáy tròn, tựa như một mũi tên xuyên thẳng qua tim, và bạn cầu nguyện, *“Lạy Chúa, xin rủ lòng thương xót, xin hãy để con được làm điều con sinh ra để làm.”* Bạn thét lên, và rồi… cơn đau vụt biến mất.
+Bạn thét gào, cơn đau bắn vọt lên, xoáy tròn, tựa như một mũi tên xuyên thẳng qua tim, và bạn cầu nguyện, “Lạy Chúa, xin rủ lòng thương xót, xin hãy để con được làm điều con sinh ra để làm.” Bạn thét lên, và rồi… cơn đau vụt biến mất.
 
 Tai nghe lại tiếp tục phát bài hát đầu tiên, bài hát bạn vốn quen thuộc.
 
 Bạn chẳng hiểu bằng cách nào, nhưng đôi chân bạn vẫn đang tiếp tục sải bước.
 
-*Do mình tưởng tượng ra thôi*, bạn tự nhủ với bản thân như thế. Chiếc chân gãy. Bài hát lạ lẫm kia. Chẳng có điều gì thực sự xảy ra cả. Tất cả đều không có thật. Bạn sẽ lặp đi lặp lại với chính mình rằng điều đó không có thật, hết lần này đến lần khác, cho đến khi lời dối trá ấy hóa thành sự thật.
+Do mình tưởng tượng ra thôi, bạn tự nhủ với bản thân như thế. Chiếc chân gãy. Bài hát lạ lẫm kia. Chẳng có điều gì thực sự xảy ra cả. Tất cả đều không có thật. Bạn sẽ lặp đi lặp lại với chính mình rằng điều đó không có thật, hết lần này đến lần khác, cho đến khi lời dối trá ấy hóa thành sự thật.
+

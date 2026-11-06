@@ -1,6 +1,6 @@
 # MIRIAM VÀ CHUYÊN VIÊN TƯ VẤN HÔN NHÂN
 
-**MIRIAM ĐÃ HẸN TRƯỚC** với một chuyên viên tư vấn hôn nhân vào lúc bốn giờ ba mươi chiều ngày thứ Ba. Jack hứa sẽ gặp cô ở đó. Anh bảo mình sẽ lái xe thẳng từ chỗ làm sang.
+MIRIAM ĐÃ HẸN TRƯỚC với một chuyên viên tư vấn hôn nhân vào lúc bốn giờ ba mươi chiều ngày thứ Ba. Jack hứa sẽ gặp cô ở đó. Anh bảo mình sẽ lái xe thẳng từ chỗ làm sang.
 
 Cô xuất phát sớm cho thong thả. Bản thân cô cứ ngỡ mình rành đường, chí ít là nắm rõ khu vực xung quanh. Vả lại, cô còn có cả hệ thống định vị GPS hướng dẫn.
 
@@ -56,7 +56,7 @@ Tao bảo: “Các mẹ, dạng chân cho tiện,
 
 Yo!
 
-*Khoan đã, cái quái gì thế này?*
+Khoan đã, cái quái gì thế này?
 
 Họ được phép phát những lời lẽ ấy trên sóng phát thanh công cộng sao? Chẳng lẽ đài radio lại không kiểm duyệt mấy trò gạ gẫm thô bạo trắng trợn thế này à?
 
@@ -72,9 +72,9 @@ Cô cứ thế lái đi xa hơn vài dặm so với lộ trình dự định, ph
 
 Cô tấp xe vào lề rồi rút điện thoại ra kiểm tra định vị.
 
-*Không có dịch vụ*, chiếc điện thoại thông báo. Cô nhẫn nại lái thêm một đoạn ngắn nữa, tấp xe vào lề và kiểm tra lại lần nữa.
+Không có dịch vụ, chiếc điện thoại thông báo. Cô nhẫn nại lái thêm một đoạn ngắn nữa, tấp xe vào lề và kiểm tra lại lần nữa.
 
-*Không có dịch vụ.*
+Không có dịch vụ.
 
 Mọi chuyện thật quá đỗi phi lý, nhất là khi nó đang xảy ra ngay giữa lòng thành phố. Miriam tắt máy xe rồi bước ra ngoài. Có lẽ cô phải tự tìm đường theo phương cách cổ điển thôi: trông chờ vào bản đồ giấy và các biển báo đường phố.
 
@@ -96,7 +96,7 @@ Trong lúc cô còn đang đứng trân trân nhìn cỗ máy làm kem tuyết v
 
 “Tôi chỉ muốn hỏi xem con phố kia tên là gì thôi.” Miriam đưa tay chỉ về phía sau lưng. “Ngoài kia chẳng có biển tên đường nào cả, và…”
 
-“Khoan đã nào.” Người phụ nữ tiến lại gần Miriam hơn, nheo mắt nhìn cô chằm chằm. “Ý cô là cô *không* đến đây để xem chỉ tay đấy hả?”
+“Khoan đã nào.” Người phụ nữ tiến lại gần Miriam hơn, nheo mắt nhìn cô chằm chằm. “Ý cô là cô không đến đây để xem chỉ tay đấy hả?”
 
 “Ờ, không. Phải rồi. Ý tôi là, tôi không cần xem chỉ tay.”
 
@@ -134,19 +134,19 @@ Nhà ngoại cảm dán mắt vào lòng bàn tay cô suốt mấy phút dài d�
 
 “Chồng cô, anh ta làm việc tối ngày. Cô cảm thấy anh ta chẳng hề coi trọng mình. Có một thứ gì đó đang âm ỉ lớn dần bên dưới vẻ ngoài của cô. Sự căm hận. Không, chưa hẳn là vậy. Nhưng cũng ngấp nghé rồi. Nó đang gặm nhấm cô. Cuộc hôn nhân của cô,” nhà ngoại cảm bỗng ngưng bặt chừng một phút, dán mắt vào lòng bàn tay cô với vẻ chăm chú đến nghẹt thở, “nó… chấm dứt rồi.”
 
-Đây tuyệt đối không phải câu trả lời Miriam mong đợi. Đáng lẽ các nhà ngoại cảm phải phán mấy lời mơ hồ, kiểu nói trúng ai cũng được (bởi suy cho cùng, sự nước đôi luôn là lớp bảo hiểm an toàn nhất trần đời). Trong thế giới duy lý của khoa học, các nhà ngoại cảm đâu có *thực sự* sở hữu năng lực tâm linh. Họ chẳng qua chỉ là những chuyên viên trị liệu thời đại mới với nhiều đá thạch anh hơn và ít bằng cấp hơn mà thôi. Họ cũng là con người cần kiếm tiền nuôi miệng, và chẳng ai dại gì liều mạng đánh đổi uy tín làm ăn bằng những lời tuyên bố gở miệng về sự chấm dứt của một cuộc hôn nhân.
+Đây tuyệt đối không phải câu trả lời Miriam mong đợi. Đáng lẽ các nhà ngoại cảm phải phán mấy lời mơ hồ, kiểu nói trúng ai cũng được (bởi suy cho cùng, sự nước đôi luôn là lớp bảo hiểm an toàn nhất trần đời). Trong thế giới duy lý của khoa học, các nhà ngoại cảm đâu có thực sự sở hữu năng lực tâm linh. Họ chẳng qua chỉ là những chuyên viên trị liệu thời đại mới với nhiều đá thạch anh hơn và ít bằng cấp hơn mà thôi. Họ cũng là con người cần kiếm tiền nuôi miệng, và chẳng ai dại gì liều mạng đánh đổi uy tín làm ăn bằng những lời tuyên bố gở miệng về sự chấm dứt của một cuộc hôn nhân.
 
 Hơn nữa, người này chắc chắn sai bét. Rất tiếc, nhưng không đời nào có chuyện đó. Cuộc hôn nhân của cô bắt buộc phải tiếp tục, đơn giản vì cô từng tự hứa rằng mình sẽ không bao giờ ly hôn. Cô đã lập lời hứa thiêng liêng ấy năm mười hai tuổi, đúng vào dịp Giáng sinh. Năm đó, Miriam và mẹ cùng nhau mở những món quà được bọc bằng giấy gói tận dụng lại từ mùa Giáng sinh trước. Hai mẹ con giăng dây kim tuyến và bắp rang bơ quanh một cây thông nhỏ xíu đặt trên bàn. Họ ăn những chiếc bánh quy thừa mang về từ bữa tiệc ở cơ quan của mẹ. Rồi bố Miriam đến đón cô. Người vợ mới của ông ngồi đợi sẵn trong xe. Đó là Vicki? Margie? Laurie? Ruby? Jennifer? Hay là Lynn nhỉ? Miriam chẳng tài nào nhớ nổi. Người vợ mới tặng Miriam một món quà: một chú chó nhồi bông đội chiếc mũ thuyền trưởng Captain Barksford, phiên bản giống chó chăn cừu Đức. Miriam đảo tròn mắt. Bộ người vợ mới tưởng Miriam mới lên năm tuổi chắc? Thế là cô hậm hực nhét chú chó bông vào túi nilon rồi tống sâu vào thùng rác. Nhưng rồi về sau, cô lại mường tượng ra cảnh nó bị chôn vùi vĩnh viễn trong bãi rác ngập ngụa vỏ chuối thối rữa và bỉm bốc mùi, điều đó làm cô thấy buồn thắt ruột gan. Buồn vì người ta có thể thản nhiên, vô tâm vứt bỏ một thứ còn lành lặn, tốt đẹp vào đống rác rưởi. Giống hệt cái cách bố cô đã ruồng bỏ mẹ cô. Rốt cuộc, cô lại bới chú chó bông Captain Barksford ra khỏi thùng rác, mang lên căn phòng ngủ tạm bợ của mình, vùi mặt vào bộ lông của chú cún và òa khóc.
 
-*Không, mình sẽ không bao giờ*, cô tự nhủ với bản thân, và với cả Captain Barksford. Cô sẽ không bao giờ bắt con cái mình phải nếm trải cảnh những mùa Giáng sinh bị xé làm đôi. Cô sẽ không bao giờ vứt bỏ một thứ vẫn còn có thể cứu vãn.
+Không, mình sẽ không bao giờ, cô tự nhủ với bản thân, và với cả Captain Barksford. Cô sẽ không bao giờ bắt con cái mình phải nếm trải cảnh những mùa Giáng sinh bị xé làm đôi. Cô sẽ không bao giờ vứt bỏ một thứ vẫn còn có thể cứu vãn.
 
 Ngay cả khi đã phán xong dấu chấm hết cho cuộc hôn nhân của Miriam, nhà ngoại cảm vẫn không chịu buông tay cô ra, tiếp tục nhìn chằm chằm, gương mặt lộ rõ vẻ kỳ quặc lẫn tò mò tột độ. Miriam cảm thấy một luồng tê rần kỳ lạ truyền qua bàn tay, không khác mấy cảm giác bị điện giật nhẹ từ núm xoay radio từng khiến cô giật mình lúc trước, nhưng dai dẳng và âm ỉ hơn nhiều. Đầu óc cô bắt đầu quay cuồng, chuếnh choáng.
 
-*Biển đời đôi khi nổi sóng gió ba đào, nhưng con tàu vẫn phải tiếp tục giương buồm rẽ sóng*, cô thầm nghĩ, bằng một giọng nói nghe chừng chẳng phải của chính mình.
+Biển đời đôi khi nổi sóng gió ba đào, nhưng con tàu vẫn phải tiếp tục giương buồm rẽ sóng, cô thầm nghĩ, bằng một giọng nói nghe chừng chẳng phải của chính mình.
 
 Rồi giọng nói ấy bỗng hét lên:
 
-*Bỏ tàu! Mau bỏ tàu!*
+Bỏ tàu! Mau bỏ tàu!
 
 Đúng khoảnh khắc đó, nhà ngoại cảm buông phắt tay Miriam ra, giật nảy người lùi lại vì hoảng hốt.
 
@@ -180,7 +180,7 @@ Cô nghe thấy tiếng ổ khóa kêu cạch một tiếng dứt khoát. Toàn 
 
 Miriam quay trở lại xe. Cô vẫn chẳng biết mình đang đi đâu, đành cứ lái ngược lại con đường vừa đi qua cho đến khi cảnh vật bắt đầu có vẻ quen mắt hơn và hệ thống định vị GPS rốt cuộc cũng chịu cất tiếng.
 
-*Hãy quay đầu xe*, giọng máy móc vang lên.
+Hãy quay đầu xe, giọng máy móc vang lên.
 
 Vào lúc đó, cô đã trễ hẹn mất rồi.
 
@@ -188,7 +188,7 @@ Cô gọi điện cho Jack. “Này, anh đã đến đó chưa?” cô hỏi ng
 
 “À, thực ra thì… anh vẫn đang ở chỗ làm.”
 
-“Anh đang ở chỗ làm đấy à?” Khi thốt ra, câu nói nghe như một lời gặng hỏi bình thản, nhưng cảm giác bên trong lại hệt một tiếng thét xung trận ngập tràn phẫn nộ: *ANH ĐANG Ở CHỖ LÀM ĐẤY À!!!*
+“Anh đang ở chỗ làm đấy à?” Khi thốt ra, câu nói nghe như một lời gặng hỏi bình thản, nhưng cảm giác bên trong lại hệt một tiếng thét xung trận ngập tràn phẫn nộ: ANH ĐANG Ở CHỖ LÀM ĐẤY À!!!
 
 “Có một dự án đột xuất nảy sinh,” Jack phân trần. “Anh đã gọi điện cho chuyên viên trị liệu tâm lý và hủy hẹn rồi.”
 
@@ -205,3 +205,4 @@ Cô gọi điện cho Jack. “Này, anh đã đến đó chưa?” cô hỏi ng
 “Anh cũng nghĩ vậy mà. Chỉ là…”
 
 Chiếc xe phía sau bóp còi inh ỏi, dẫu đèn giao thông vẫn đang đỏ lòm. “Sao cũng được, Jack. Sao cũng được hết. Anh yêu công việc đến thế cơ mà? Anh muốn ở bên cô bồ công việc yêu dấu của anh suốt ngày chứ gì? Sao anh không đi mà cưới quách lấy công việc luôn đi?”
+

@@ -1,6 +1,6 @@
 # CÁI QUÁI GÌ THẾ, CON HƯƠU?
 
-**ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP** Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng *bịch* rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.
+ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng bịch rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.
 
 “Có một con hươu trên bãi cỏ kìa,” Jack thông báo.
 
@@ -32,15 +32,15 @@ Con hươu vẫn đứng nguyên tại chỗ, hai móng trước ấn chặt và
 
 Con hươu vẫn nhìn chằm chằm.
 
-*Anh ta đã đi đâu rồi?* - dường như nó đang hỏi như vậy.
+Anh ta đã đi đâu rồi? - dường như nó đang hỏi như vậy.
 
 Con hươu này thật chẳng ra làm sao cả.
 
-*Anh ta là ai mà đi đâu cơ chứ?*
+Anh ta là ai mà đi đâu cơ chứ?
 
 Với lại, hươu thì làm sao biết nói.
 
-*Anh ta đã đi đâu rồi?*
+Anh ta đã đi đâu rồi?
 
 Miriam mở cửa bên ghế phụ. Cô nhảy tót vào trong rồi bóp còi inh ỏi.
 
@@ -56,7 +56,7 @@ Cả hai quay trở vào nhà.
 
 Jack đang đội chiếc mũ fedora màu nâu, món đồ anh đã sở hữu nhiều năm nhưng hiếm khi đội đi làm.
 
-“Sao con lại *không* đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”
+“Sao con lại không đội mũ chứ,” Jack đáp lại bằng một nụ cười tinh quái, “trong khi những đứa trẻ không đội mũ thì sắp sửa… bị… thọc lét rồi!”
 
 Rory rên lên thích thú. Jack bế bổng cậu bé lên rồi thọc lét tới tấp.
 
@@ -76,21 +76,21 @@ Miriam cũng đã có một ngày dài vất vả ở chỗ làm, và cô cần 
 
 “Con đóiii quáaa!” Rory giật giật ống quần cô.
 
-*BÍP BÍP BÍP BÍP*
+BÍP BÍP BÍP BÍP
 
 “Bữa tối sắp xong rồi con.”
 
 “Mẹ ơi, tắt cái tiếng bíp bíp đi!”
 
-*BÍP BÍP BÍP BÍP*
+BÍP BÍP BÍP BÍP
 
 “Mẹ đang cố đây!” Cô bật quạt, mở cửa sổ.
 
 “Nhưng mà giờ lạnh quá!”
 
-*BÍP*
+BÍP
 
-*BÍ…*
+BÍ…
 
 “Eo ôi, nhà mình ăn bông cải xanh đấy hả mẹ?”
 
@@ -114,7 +114,7 @@ Cô tự hiểu rất rõ bản thân. Cô thậm chí có thể hình dung ra t
 
 Mà mặc kệ chứ. Nếu trung thực với lòng mình, cô thích hút thuốc. Nó gợi cô nhớ về thời thơ ấu, cái thời cô thường trộn lẫn đủ loại nước ngọt với nhau, hoặc kẹp mấy con kẹo dẻo hình sâu vào giữa hai lát bánh mì bơ đậu phộng. Cô thích cảm giác chuếnh choáng lâng lâng, thích cái vị gắt nhẹ nơi cổ họng. Cô thích cả việc có một lý do hợp cảnh hợp tình để bước ra ngoài và khép cửa lại sau lưng. Đứng ở ban công sau nhà, cô không còn phải nghe tiếng tin tức rì rào từ chiếc ti vi, hay những tiếng mè nheo đòi hỏi của lũ trẻ. Cô cũng sẽ không phải đối mặt với những câu hỏi không tài nào đáp nổi, kiểu như:
 
-*Mẹ ơi, sao trên người bố lại có mùi lạ thế?*
+Mẹ ơi, sao trên người bố lại có mùi lạ thế?
 
 Anh đúng là có mùi lạ thật. Cô đã ngửi thấy vệt mùi ấy ngay khoảnh khắc anh bước qua cửa nhà. Một thứ hương thoang thoảng ngai ngái của đất, thơm ngậy của sữa, vừa xa lạ lại vừa quen thuộc. Một thứ mùi chỉ càng làm cô thèm hút thêm vài điếu thuốc nữa.
 
@@ -168,15 +168,15 @@ Rory nhe răng cười khoái chí rồi ngấu nghiến ăn sạch. Lindsey nh�
 
 “Thị trường chứng khoán đang biến động cực kỳ thất thường,” anh phán.
 
-*Vâng. Ôi, thế cơ à? Gật đầu.*
+Vâng. Ôi, thế cơ à? Gật đầu.
 
 “Quốc hội lại trì hoãn việc bổ nhiệm các thẩm phán,” anh tiếp.
 
-*Ừm, hừm. Ừm, hừm.*
+Ừm, hừm. Ừm, hừm.
 
 “Hy Lạp đang mở cửa biên giới đón thêm hàng nghìn người tị nạn,” anh cập nhật.
 
-*Ôi, tốt quá. Gật đầu. Mỉm cười.*
+Ôi, tốt quá. Gật đầu. Mỉm cười.
 
 “Một đàn chim thuộc loài có nguy cơ tuyệt chủng rất cao trên một hòn đảo hẻo lánh ở Thái Bình Dương vừa biến mất một cách bí ẩn.”
 
@@ -187,3 +187,4 @@ Rory nhe răng cười khoái chí rồi ngấu nghiến ăn sạch. Lindsey nh�
 “Nhưng tại sao hả bố?”
 
 Jack mỉm cười khoái chí. Đôi mắt anh lóe lên ánh nhìn của một thám tử sừng sỏ. “Chà, một giả thuyết cho rằng đàn chim vẫn ở đó, chỉ là thiết bị định vị của chúng đã bị hỏng. Giống như bị tác động bởi xung điện từ, hoặc do bọn khủng bố sinh thái giở trò. Bố cũng đọc được một bài báo nhắc tới hiện tượng tự bốc cháy. Thế nhưng, nếu không tiến hành một cuộc điều tra kỹ lưỡng, sẽ chẳng ai biết được lý do thực sự.”
+

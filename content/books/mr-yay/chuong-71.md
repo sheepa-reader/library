@@ -1,16 +1,14 @@
-# HẠ CHÍ
+# HẠ CHÍ - MR. YAY LÀM NÊN CHUYỆN
 
-# MR. YAY LÀM NÊN CHUYỆN
-
-**MR. YAY ĐANG Ở PHÍA SAU HẬU TRƯỜNG.** Chỉ chốc lát nữa thôi, buổi diễn sẽ bắt đầu.
+MR. YAY ĐANG Ở PHÍA SAU HẬU TRƯỜNG. Chỉ chốc lát nữa thôi, buổi diễn sẽ bắt đầu.
 
 Rapper Mr. Yay đang rít chung một điếu thuốc với một chú hươu cao cổ. Đã từng, ở một vũ trụ khác, chú hươu cao cổ ấy ngã nhào khỏi mạn thuyền, suýt chết đuối, rồi học được cách bơi. Đã từng, ngay tại chính vũ trụ này, chú hươu cao cổ lại là một kỹ sư điện, cày cuốc sáu mươi tiếng mỗi tuần, và từng thầm ước giá như mình có thể dong buồm chu du khắp chốn. Thế nhưng anh ta luôn quá nhút nhát, chẳng bao giờ dám vươn cái cổ dài ngoẵng của mình ra để mạo hiểm.
 
-DJ Mr. Yay kéo chiếc quần may ghép mảnh Patchwork Pants của mình lên. Chiếc quần vốn đã trễ nải, giờ lại càng lỏng lẻo hơn sau ngần ấy lần chạy bộ cùng chú chó của anh. Anh ngắm nghía mình trong gương: bộ râu giả dài thượt, đường viền kẻ mắt đen tuyền nhằm chống chói trước ánh nắng đại dương, cùng một tia sáng lấp lánh nơi đáy mắt. Anh nghĩ về *The Adventures of Mr. Yay*, về cái thuở bé con cùng Tommy dán mắt vào chương trình ấy. Rồi sau này, khi bước vào cấp ba, mỗi bận tan trường về nhà, anh đều co rúm lại trước tiếng cửa garage mở toang, căm ghét - *ghét cay ghét đắng* - chính bản thân mình vì con người thực sự của anh. Một người vốn chẳng có gì to tát: chỉ là một cậu nhóc tròn trĩnh, bình thường nhưng tốt bụng, trót đem lòng say mê âm nhạc. Anh nghĩ về Mr. Yay trước khi trở thành Mr. Yay, và cái cách nhân vật ấy chuyển mình: từ một tên tướng cướp thành chàng thủy thủ, xen giữa là một quãng làm thám tử. Anh nghĩ về bố mình, người luôn xem đi xem lại những bộ phim viễn Tây cũ rích của Ricardo Merman, làm việc thâu đêm suốt sáng và xa cách khôn cùng. Ngoại trừ đúng một lần duy nhất vào dịp Lễ Tạ ơn năm ấy, khi hai bố con cùng đi xem *Peregrine* tại rạp chiếu bóng rồi chén đẫy những viên mì macaroni phô mai chiên giòn, nơi ánh mắt của bố bất chợt lóe lên tia sáng mong manh khó nắm bắt kia. Lẽ ra mọi chuyện đối với ông đã có thể khác. Giờ đây, biết đâu chừng vẫn còn có thể khác. Anh nghĩ về nỗi sợ hãi ngày trước của mình, tất cả những bận đói lả phải lén lút mò vào phòng để thức ăn, tất cả những món ăn vặt anh đã vét sạch trong bóng tối, cùng nỗi kinh hoàng rằng người nhà sẽ bắt quả tang.
+DJ Mr. Yay kéo chiếc quần may ghép mảnh Patchwork Pants của mình lên. Chiếc quần vốn đã trễ nải, giờ lại càng lỏng lẻo hơn sau ngần ấy lần chạy bộ cùng chú chó của anh. Anh ngắm nghía mình trong gương: bộ râu giả dài thượt, đường viền kẻ mắt đen tuyền nhằm chống chói trước ánh nắng đại dương, cùng một tia sáng lấp lánh nơi đáy mắt. Anh nghĩ về The Adventures of Mr. Yay, về cái thuở bé con cùng Tommy dán mắt vào chương trình ấy. Rồi sau này, khi bước vào cấp ba, mỗi bận tan trường về nhà, anh đều co rúm lại trước tiếng cửa garage mở toang, căm ghét - ghét cay ghét đắng - chính bản thân mình vì con người thực sự của anh. Một người vốn chẳng có gì to tát: chỉ là một cậu nhóc tròn trĩnh, bình thường nhưng tốt bụng, trót đem lòng say mê âm nhạc. Anh nghĩ về Mr. Yay trước khi trở thành Mr. Yay, và cái cách nhân vật ấy chuyển mình: từ một tên tướng cướp thành chàng thủy thủ, xen giữa là một quãng làm thám tử. Anh nghĩ về bố mình, người luôn xem đi xem lại những bộ phim viễn Tây cũ rích của Ricardo Merman, làm việc thâu đêm suốt sáng và xa cách khôn cùng. Ngoại trừ đúng một lần duy nhất vào dịp Lễ Tạ ơn năm ấy, khi hai bố con cùng đi xem Peregrine tại rạp chiếu bóng rồi chén đẫy những viên mì macaroni phô mai chiên giòn, nơi ánh mắt của bố bất chợt lóe lên tia sáng mong manh khó nắm bắt kia. Lẽ ra mọi chuyện đối với ông đã có thể khác. Giờ đây, biết đâu chừng vẫn còn có thể khác. Anh nghĩ về nỗi sợ hãi ngày trước của mình, tất cả những bận đói lả phải lén lút mò vào phòng để thức ăn, tất cả những món ăn vặt anh đã vét sạch trong bóng tối, cùng nỗi kinh hoàng rằng người nhà sẽ bắt quả tang.
 
-*Phải im lặng*, anh từng tự nhủ. *Im lặng như một con sao biển.*
+Phải im lặng, anh từng tự nhủ. Im lặng như một con sao biển.
 
-Anh nghĩ về lần duy nhất trong đời mình được đi thuyền buồm: trên chiếc thuyền của bố Tommy, vào một ngày hè hiếm hoi chiếc thuyền ấy được đem ra sử dụng. Dòng sông xanh ánh bạc cuộn trôi ra tận biển khơi, *và chúng ta cũng nên thế*, Tommy từng bảo. *Dong buồm ra đi, không bao giờ quay lại*. Khi ấy họ mới chỉ là những nhóc tì chưa đầy mười tuổi. Đủ ngây thơ để tin sái cổ rằng một chú chó cũng có thể làm thuyền trưởng.
+Anh nghĩ về lần duy nhất trong đời mình được đi thuyền buồm: trên chiếc thuyền của bố Tommy, vào một ngày hè hiếm hoi chiếc thuyền ấy được đem ra sử dụng. Dòng sông xanh ánh bạc cuộn trôi ra tận biển khơi, và chúng ta cũng nên thế, Tommy từng bảo. Dong buồm ra đi, không bao giờ quay lại. Khi ấy họ mới chỉ là những nhóc tì chưa đầy mười tuổi. Đủ ngây thơ để tin sái cổ rằng một chú chó cũng có thể làm thuyền trưởng.
 
 Thế nhưng giờ đây, họ chính là Mr. Yay. Có lẽ con thuyền năm xưa vẫn còn nằm đó, phủ đầy rêu phong xanh rì êm mượt, mòn mỏi ngóng chờ Mr. Yay dong buồm đưa nó ra khơi. Và biết đâu đấy, Mr. Yay sẽ làm thật. Mr. Yay vốn thuộc mẫu người sống trọn cho từng khoảnh khắc. Anh chẳng hề biết sợ hãi là gì.
 
@@ -32,7 +30,7 @@ Bố mẹ của Tommy ngồi ở khu vực VIP, an toàn tách biệt khỏi đ�
 
 “Con ngỗng nào cơ?”
 
-“Con ngỗng to đùng ấy. Ngay bên ngoài khu chung cư vào giữa đêm hôm khuya khoắt. Kiểu như, *Bụp một cái! Ồ xin chào, tao là một con ngỗng khổng lồ kỳ quặc đây!* Chuyện đó có thật sự xảy ra không nhỉ?”
+“Con ngỗng to đùng ấy. Ngay bên ngoài khu chung cư vào giữa đêm hôm khuya khoắt. Kiểu như, Bụp một cái! Ồ xin chào, tao là một con ngỗng khổng lồ kỳ quặc đây! Chuyện đó có thật sự xảy ra không nhỉ?”
 
 “Tao nghĩ là có.”
 
@@ -62,9 +60,9 @@ Anh tìm thấy cô, đưa cho cô một cốc bia rồi châm hai điếu thu�
 
 Họ trải một tấm chăn nhỏ trên vạt cỏ, rủ nhau ngồi cạnh nhau nhấp những ngụm bia đầu tiên. Nhưng rồi họ buộc phải đứng dậy khi đám đông bắt đầu lấn tới, khi không khí mỗi lúc một náo nhiệt, ầm ĩ và hoang dại hơn.
 
-Xung quanh chật ních những thiếu niên mắt nai tròn xoe mặc áo cổ yếm và quần soóc ngắn cũn cỡn; những cậu trai mặc quần jean thụng xệ đáy, cầm cần sa, thuốc lá điện tử, đeo dây chuyền vàng cùng những bảng tên đều in dòng chữ XIN CHÀO TÔI TÊN LÀ MR. YAY; những người đàn ông mặc quần bò vẽ kín các ô vuông chắp vá hoa văn, những người đội mũ cướp biển, những người cởi trần hoặc gần như khỏa thân hoàn toàn với chữ *Mr. Yay* được nguệch ngoạc cả trăm lần khắp da thịt; những phụ nữ cài tai chó, gắn đuôi chó và đội mũ thuyền trưởng đính kim sa lấp lánh; những phụ nữ trung niên uống cocktail pha rượu tequila từ chai nước lọc, vừa hò reo vừa quấn lấy nhau hôn say đắm; những người già hói đầu đang trút cạn từng lốc sáu lon bia qua phễu tiếp bia, đập tay bôm bốp vào túi rượu, nhảy nhót điên cuồng dẫu rằng âm nhạc còn chưa hề cất lên. Tất cả bọn họ vẫn có thể cảm nhận được nó: nhịp bass dội thẳng vào tận xương tủy.
+Xung quanh chật ních những thiếu niên mắt nai tròn xoe mặc áo cổ yếm và quần soóc ngắn cũn cỡn; những cậu trai mặc quần jean thụng xệ đáy, cầm cần sa, thuốc lá điện tử, đeo dây chuyền vàng cùng những bảng tên đều in dòng chữ XIN CHÀO TÔI TÊN LÀ MR. YAY; những người đàn ông mặc quần bò vẽ kín các ô vuông chắp vá hoa văn, những người đội mũ cướp biển, những người cởi trần hoặc gần như khỏa thân hoàn toàn với chữ Mr. Yay được nguệch ngoạc cả trăm lần khắp da thịt; những phụ nữ cài tai chó, gắn đuôi chó và đội mũ thuyền trưởng đính kim sa lấp lánh; những phụ nữ trung niên uống cocktail pha rượu tequila từ chai nước lọc, vừa hò reo vừa quấn lấy nhau hôn say đắm; những người già hói đầu đang trút cạn từng lốc sáu lon bia qua phễu tiếp bia, đập tay bôm bốp vào túi rượu, nhảy nhót điên cuồng dẫu rằng âm nhạc còn chưa hề cất lên. Tất cả bọn họ vẫn có thể cảm nhận được nó: nhịp bass dội thẳng vào tận xương tủy.
 
-Đó chính là giai điệu mà tất cả bọn họ từng nghe khi còn là những đứa trẻ, với chiếc tai nghe trùm kín tai, âm lượng vặn hết cỡ, chỉ để át đi hàng loạt những lời giáo huấn về điều *nên* và điều *không nên*, những lời phán xét đội lốt định hướng tương lai, nhằm lấp đầy khoảng trống rỗng rách toác trong tâm hồn bằng âm nhạc. Đó là nhịp điệu họ nghe thấy trong từng ngọn gió thoảng khi đung đưa trên những chiếc võng, bởi lẽ cuộc đời này ngắn ngủi lắm, còn những chiếc võng thì lại quá đỗi tuyệt vời. Đó là nhịp điệu, là cú drop bùng nổ, là âm thanh của đống công việc bị hất tung khỏi mặt bàn, là tiếng quẹt thẻ chấm công lần cuối cùng, là ngón tay giữa giơ lên đầy kiêu hãnh (và tất nhiên, không một ai thèm ngoảnh đầu nhìn lại).
+Đó chính là giai điệu mà tất cả bọn họ từng nghe khi còn là những đứa trẻ, với chiếc tai nghe trùm kín tai, âm lượng vặn hết cỡ, chỉ để át đi hàng loạt những lời giáo huấn về điều nên và điều không nên, những lời phán xét đội lốt định hướng tương lai, nhằm lấp đầy khoảng trống rỗng rách toác trong tâm hồn bằng âm nhạc. Đó là nhịp điệu họ nghe thấy trong từng ngọn gió thoảng khi đung đưa trên những chiếc võng, bởi lẽ cuộc đời này ngắn ngủi lắm, còn những chiếc võng thì lại quá đỗi tuyệt vời. Đó là nhịp điệu, là cú drop bùng nổ, là âm thanh của đống công việc bị hất tung khỏi mặt bàn, là tiếng quẹt thẻ chấm công lần cuối cùng, là ngón tay giữa giơ lên đầy kiêu hãnh (và tất nhiên, không một ai thèm ngoảnh đầu nhìn lại).
 
 Đó là nhịp điệu chỉ vang lên bên tai những người dám chọn một cuộc đời phiêu lưu. Những người chọn sống trọn vẹn và chẳng bao giờ để công việc ngáng đường mình. Những người sẵn sàng giao quyền chỉ huy cho một chú chó, và chẳng thèm coi bản thân mình quá đỗi nghiêm trọng. Bởi rốt cuộc thì họ thực sự là cái quái gì chứ? Một bọc xương thịt lồi lõm, một chiếc mũi khoằm, một cái tổ trên đầu chứa đầy những sợi dây thần kinh chằng chịt, một niềm đam mê, sự ngỡ ngàng cùng nỗi kính sợ, với bộ gen giống loài gà tới 60 phần trăm. Một phương tiện để chuyên chở âm nhạc.
 
@@ -76,11 +74,11 @@ Thứ âm nhạc ấy, nhịp điệu ấy, những ca từ của Mr. Yay này v
 
 Đám đông gầm vang phấn khích.
 
-Âm nhạc bùng nổ. Mr. Yay này xoay chuyển nhịp beat, Mr. Yay kia xả những tràng rap liên hoàn. Suốt vài bài hát đầu tiên, sân khấu hoàn toàn thuộc về hai người họ: Tommy và Bratty, Mr. Yay song hành cùng Mr. Yay. Cứ sau mỗi bản nhạc, biển người lại càng thêm sôi ùng ục. Rồi ban nhạc punk mang tên Yay, Yay, Yays ùa ra sân khấu. Những chiếc áo được cởi phăng; những bầu ngực trần đẹp đẽ như đang mỉm cười với sân khấu. Một vòng mosh pit cuồng loạn tức thì hình thành dọc theo rào chắn. Từ cần cẩu phía trên sân khấu, một quả cầu disco khổng lồ chậm rãi hạ xuống, để rồi Nữ hoàng Nhạc Pop Kim Sa thong thả bước ra. Cô diện chiếc quần đính kim sa lóng lánh, đầu đội vương miện kết bằng vỏ sò tinh xảo. Cô cất giọng hòa ca, và toàn thể biển người phía dưới lập tức phát *cuồng*.
+Âm nhạc bùng nổ. Mr. Yay này xoay chuyển nhịp beat, Mr. Yay kia xả những tràng rap liên hoàn. Suốt vài bài hát đầu tiên, sân khấu hoàn toàn thuộc về hai người họ: Tommy và Bratty, Mr. Yay song hành cùng Mr. Yay. Cứ sau mỗi bản nhạc, biển người lại càng thêm sôi ùng ục. Rồi ban nhạc punk mang tên Yay, Yay, Yays ùa ra sân khấu. Những chiếc áo được cởi phăng; những bầu ngực trần đẹp đẽ như đang mỉm cười với sân khấu. Một vòng mosh pit cuồng loạn tức thì hình thành dọc theo rào chắn. Từ cần cẩu phía trên sân khấu, một quả cầu disco khổng lồ chậm rãi hạ xuống, để rồi Nữ hoàng Nhạc Pop Kim Sa thong thả bước ra. Cô diện chiếc quần đính kim sa lóng lánh, đầu đội vương miện kết bằng vỏ sò tinh xảo. Cô cất giọng hòa ca, và toàn thể biển người phía dưới lập tức phát cuồng.
 
 Khi cô dứt lời, toàn bộ ánh đèn phụt tắt. Sự tĩnh lặng ngự trị tuyệt đối. Trên cánh đồng, một vầng trăng lặng lẽ nhô cao. Máy tạo khói phả ra mịt mù, mở đường cho những vệt laser quét qua rực rỡ.
 
-Ánh đèn bừng sáng trở lại. Từ hậu trường, con tàu khổng lồ lấp lánh mang dòng chữ SS *Deliverance* bắt đầu lăn bánh ra giữa sân khấu. Một chú chó tha mồi lông vàng đội chiếc mũ thuyền trưởng đứng oai vệ nơi mũi tàu. Mr. Yay xuất hiện trên boong trong chiếc quần nhung thụng bay bồng bềnh, chòm râu giả dán dưới cằm, tay nắm chặt micro.
+Ánh đèn bừng sáng trở lại. Từ hậu trường, con tàu khổng lồ lấp lánh mang dòng chữ SS Deliverance bắt đầu lăn bánh ra giữa sân khấu. Một chú chó tha mồi lông vàng đội chiếc mũ thuyền trưởng đứng oai vệ nơi mũi tàu. Mr. Yay xuất hiện trên boong trong chiếc quần nhung thụng bay bồng bềnh, chòm râu giả dán dưới cằm, tay nắm chặt micro.
 
 “Mọi người đã sẵn sàng,” cậu cất lời qua mic bằng chất giọng ngọt ngào, sảng khoái tựa nước soda kem, “cho một chuyến phiêu lưu chưa?”
 
@@ -168,7 +166,7 @@ Nhịp điệu cuốn phăng Miriam đi, để rồi cô nhận ra mình cũng �
 
 Jack cũng đang nhún nhảy đầy phấn khích. Đôi mắt anh lấp lánh ngấn nước, hai tay vung vẩy giữa không trung. Bao bọc lấy họ là cả một đám đông cuộn trào như cơn bão táp. Tất cả đều đang đồng thanh thét gào:
 
-*Mr. Yay đang ở đâu?!*
+Mr. Yay đang ở đâu?!
 
 Mọi thứ đồng loạt chuyển động, về mọi hướng, cùng một thời điểm.
 
@@ -190,10 +188,11 @@ Một luật sư đã giải nghệ. Một thám tử tư. Người chồng củ
 
 “Đêm nay ư?” anh thì thầm. “Anh là…”
 
-Từ phía sau anh bất chợt vang lên tiếng *leng keng, leng keng*. Tiếng thẻ tên chó. Ngay sau đó, một chú chó già ba chân với chiếc chân gỗ thứ tư bước tập tễnh tiến lại gần, vẻ mặt rạng rỡ như thể đang nở nụ cười tươi tắn nhất đời nó.
+Từ phía sau anh bất chợt vang lên tiếng leng keng, leng keng. Tiếng thẻ tên chó. Ngay sau đó, một chú chó già ba chân với chiếc chân gỗ thứ tư bước tập tễnh tiến lại gần, vẻ mặt rạng rỡ như thể đang nở nụ cười tươi tắn nhất đời nó.
 
 “Roxster!” Miriam bật cười thành tiếng.
 
 Roxster cất tiếng sủa vang. Ngay sau lưng nó, một chú chó tha mồi lông vàng trẻ trung xuất hiện với gương mặt hớn hở, trên đầu kiêu hãnh đội chiếc mũ thuyền trưởng.
 
 “Nhìn kìa!” Jack reo lên, cúi xuống xoa đầu cả hai chú chó. “Mày còn dắt theo hẳn một người bạn đồng hành cơ đấy!”
+

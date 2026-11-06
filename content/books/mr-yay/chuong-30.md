@@ -1,10 +1,10 @@
 # NHỮNG DÒNG THƯ TÌNH
 
-**MIRIAM THỨC GIẤC TRONG CƠN LẠNH GIÁ.** Toàn bộ chăn màn đều bị vun thành một đống bên phía giường của Jack, còn chủ nhân của nó thì đã bốc hơi từ bao giờ. Cô khoác tạm chiếc áo choàng tắm, xỏ đôi dép đi trong nhà rồi bước xuống cầu thang. Trên mặt bàn bếp có tờ ghi chú nằm chễm chệ.
+MIRIAM THỨC GIẤC TRONG CƠN LẠNH GIÁ. Toàn bộ chăn màn đều bị vun thành một đống bên phía giường của Jack, còn chủ nhân của nó thì đã bốc hơi từ bao giờ. Cô khoác tạm chiếc áo choàng tắm, xỏ đôi dép đi trong nhà rồi bước xuống cầu thang. Trên mặt bàn bếp có tờ ghi chú nằm chễm chệ.
 
-*Anh đi làm sớm.*
+Anh đi làm sớm.
 
-*Yêu em, Jack*
+Yêu em, Jack
 
 Đương nhiên rồi (thế thì mới phải chứ).
 
@@ -12,15 +12,15 @@ Cô quơ lấy tờ ghi chú của chồng trên bàn bếp rồi thả tọt v�
 
 Chuẩn bị xong bữa sáng, cô vào nhà vệ sinh đánh răng. Bàn chải của Jack vẫn còn ẩm ướt.
 
-Dù gì thì cũng không thể để hơi thở buổi sáng ảnh hưởng đến một ngày “làm việc” *vất vả* của anh được.
+Dù gì thì cũng không thể để hơi thở buổi sáng ảnh hưởng đến một ngày “làm việc” vất vả của anh được.
 
 Không, không đời nào cô lại đi tự dằn xé bản thân nữa. Cô nhất quyết không làm thế. Bây giờ cô chỉ cần một điếu thuốc lá. Hoặc giả là một trận ân ái cuồng nhiệt, nhưng Jack đã dồn toàn bộ sức lực cho cái gọi là “công việc” mất rồi. Anh chẳng còn sót lại chút ham muốn nào dành cho cô nữa.
 
 Cô sẽ không tự biến mình thành kẻ hoài nghi vô cớ, trừ phi tìm thấy bằng chứng mười mươi: một vết son môi trên cổ áo, chiếc quần lót dây nhăn nhúm giấu trong túi áo khoác, hay vài lá thư tình vụn vặt trong ngăn kéo bàn làm việc.
 
-*Hôn anh thật nhiều.*
+Hôn anh thật nhiều.
 
-*Em không thể chờ nổi đến tối nay đâu, người đàn ông vĩ đại của em!*
+Em không thể chờ nổi đến tối nay đâu, người đàn ông vĩ đại của em!
 
 Miriam từng nhìn thấy một mảnh giấy với những dòng chữ hệt như thế trong ngăn kéo bàn làm việc của bố cô. Nét chữ mềm mại uốn lượn đó tuyệt nhiên không phải của vợ ông (dù vào thời điểm ấy, người giữ vị trí “vợ” của ông là ai đi chăng nữa).
 
@@ -32,15 +32,15 @@ Hồi ấy, trong mắt anh, cô là người phụ nữ tuyệt mỹ nhất tr�
 
 Còn giờ đây, anh trở nên cộc lốc đến lạ. Anh ký tên dưới tờ ghi chú ngắn ngủn bằng một dòng kết nhạt phèo:
 
-*Yêu em, Jack.*
+Yêu em, Jack.
 
 Một lời nhắn đơn giản đến mức người ta viết ra chỉ theo phản xạ. Bởi lẽ qua thời gian, sự cuồng nhiệt đã thoái hóa thành niềm mến thương hết sức bình thường. Sự sùng bái dần lắng xuống thành một thói quen. Những biểu hiện yêu thương bị gọt giũa bớt nhằm tối giản hóa các thủ tục sinh hoạt hằng ngày.
 
-Lời nhắn *“Em yêu anh”* biến thành
+Lời nhắn “Em yêu anh” biến thành
 
-*“Chúc anh một ngày tốt lành”*, rồi lại hạ cấp thành
+“Chúc anh một ngày tốt lành”, rồi lại hạ cấp thành
 
-*“Đừng quên ghé qua bưu điện đấy.”*
+“Đừng quên ghé qua bưu điện đấy.”
 
 Chuyện chăn gối mặn nồng trước khi đi ngủ teo nhỏ lại thành một nụ hôn chúc ngủ ngon vội vã dễ dàng bị lãng quên; ban đầu chỉ thỉnh thoảng, rồi xuất hiện thường xuyên hơn, cho đến khi chẳng còn nụ hôn nào ở đó để mà quên nữa.
 
@@ -56,7 +56,7 @@ Cô đốt thêm một điếu thuốc nữa rồi chuyển sang lục soát bà
 
 Jack đời nào chịu giấu mấy lá thư tình viết tay dưới nệm. Anh hẳn sẽ gửi chúng qua tin nhắn SMS, hoặc qua một ứng dụng bảo mật nào đó, đúng chuẩn một người đàn ông hiện đại.
 
-Tất nhiên, điều đó chẳng thể ngăn cô tiện tay lục lọi chiếc áo khoác Jack vắt tạm trên ghế ăn, dưới cái cớ rất chính đáng là treo nó lên giúp anh. Và ngay trong túi áo, cô tìm thấy một bao diêm. Bìa bao diêm in dòng chữ *Khách sạn & Spa Mossy Glen* nằm ngay trên hình ảnh một cái cây có tán lá hình trái tim. Hầu hết các que diêm bên trong đều đã bị quẹt sạch.
+Tất nhiên, điều đó chẳng thể ngăn cô tiện tay lục lọi chiếc áo khoác Jack vắt tạm trên ghế ăn, dưới cái cớ rất chính đáng là treo nó lên giúp anh. Và ngay trong túi áo, cô tìm thấy một bao diêm. Bìa bao diêm in dòng chữ Khách sạn & Spa Mossy Glen nằm ngay trên hình ảnh một cái cây có tán lá hình trái tim. Hầu hết các que diêm bên trong đều đã bị quẹt sạch.
 
 Cô chưa từng đặt chân đến Khách sạn & Spa Mossy Glen. Nhưng nhìn qua phong cách thiết kế, nơi này có vẻ rất hợp cho những cuộc hẹn hò vụng trộm (tất nhiên là của ai đó, chứ không phải cô). Mà cơ hội dành cho Jack thì lại thừa mứa. Mới tháng trước, anh vừa có một buổi “lấy lời khai qua đêm,” còn tháng trước nữa thì có hẳn hai đêm “phỏng vấn nhân chứng.”
 
@@ -90,7 +90,7 @@ Cô gọi vào số di động của anh, bản thân cũng không chắc mình 
 
 “Vợ Jack đây chị. Jack có ở đó không chị?”
 
-“Ồ, chào em, *Miriam*. Ừm, không, anh ấy không có ở đây. Anh ấy… Ồ, chờ chút, ừm, có chứ. Anh ấy đang ở đây. Nhưng anh ấy đang bận họp rồi.”
+“Ồ, chào em, Miriam. Ừm, không, anh ấy không có ở đây. Anh ấy… Ồ, chờ chút, ừm, có chứ. Anh ấy đang ở đây. Nhưng anh ấy đang bận họp rồi.”
 
 “Chị có biết khi nào anh ấy họp xong không?”
 
@@ -102,4 +102,5 @@ Vừa cúp máy thì chuông cửa nhà cô vang lên.
 
 “Dịch vụ giao hoa đây ạ, dành cho… Bà Miriam Shipley,” người giao hàng cất lời khi cô mở cửa. Anh ta trao cho cô một bình hoa lớn cắm đầy những bông hồng đỏ và hồng phấn rực rỡ. Một chiếc phong bì nhỏ xíu được dán cẩn thận trên thân bình. Miriam mở phong bì ra và đọc tấm thiệp bên trong.
 
-*Tặng vợ yêu của anh, người phụ nữ đẹp nhất mà anh từng gặp trên đời. Vì em, anh sẵn sàng châm lửa đốt tóc mình. Anh sẵn sàng nhảy xuống từ trên cầu. Anh sẵn sàng nuốt chửng những bông hoa hồng này, ăn trọn cả gai không chừa một mẩu. Anh sẵn sàng vứt bỏ lại đằng sau tất cả những gì anh từng dốc sức gây dựng.*
+Tặng vợ yêu của anh, người phụ nữ đẹp nhất mà anh từng gặp trên đời. Vì em, anh sẵn sàng châm lửa đốt tóc mình. Anh sẵn sàng nhảy xuống từ trên cầu. Anh sẵn sàng nuốt chửng những bông hoa hồng này, ăn trọn cả gai không chừa một mẩu. Anh sẵn sàng vứt bỏ lại đằng sau tất cả những gì anh từng dốc sức gây dựng.
+

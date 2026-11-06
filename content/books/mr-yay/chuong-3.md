@@ -1,25 +1,26 @@
 # THUỞ BAN ĐẦU, ĐÃ CÓ RAP
 
-***Chết tiệt thật, yo,***
+Chết tiệt thật, yo,
 
-*Thằng nhóc này đỉnh phết,*
+Thằng nhóc này đỉnh phết,
 
-*Đó là lời thiên hạ buông ra*
+Đó là lời thiên hạ buông ra
 
-*Mỗi lần nghe con bass tao kết.*
+Mỗi lần nghe con bass tao kết.
 
-*Tao làm chủ cuộc chơi,*
+Tao làm chủ cuộc chơi,
 
-*Chẳng hơi đâu phí thời giờ*
+Chẳng hơi đâu phí thời giờ
 
-*Cho lũ đố kỵ hẹp hòi,*
+Cho lũ đố kỵ hẹp hòi,
 
-*Coi âm nhạc chỉ là trò tiêu khiển lơ ngơ.*
+Coi âm nhạc chỉ là trò tiêu khiển lơ ngơ.
 
-*Không đời nào. Yo, tao ngấm từng nhịp đập vào tận tủy xương,*
+Không đời nào. Yo, tao ngấm từng nhịp đập vào tận tủy xương,
 
-*Thắp lên ánh sáng, gieo rắc yêu thương,*
+Thắp lên ánh sáng, gieo rắc yêu thương,
 
-*Thứ thanh âm khiến chúng hóa điên cuồng…*
+Thứ thanh âm khiến chúng hóa điên cuồng…
 
-*Bởi chính giai điệu đó tạc nên một Tôi kiên cường.*
+Bởi chính giai điệu đó tạc nên một Tôi kiên cường.
+

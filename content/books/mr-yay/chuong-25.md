@@ -1,9 +1,6 @@
-# THÁNG HAI
+# THÁNG HAI - THANH VÁN TRƯỢT SHOT-SKI
 
-# THANH VÁN TRƯỢT SHOT-SKI
-
-**MR. YAY MUỐN TÌM CHÚT VUI VẺ.**
-“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”
+MR. YAY MUỐN TÌM CHÚT VUI VẺ.“Mày thà đổ mồ hôi ra bia,” anh hỏi Bratty, “hay xì hơi ra khói cần sa?”
 
 “Lúc nào tao cũng xì hơi ra khói à? Hay tao kiểm soát được?”
 
@@ -27,7 +24,7 @@ Thế nhưng, đâu đó giữa làn sương mờ mịt của những tuần l�
 
 Thực tế thì Tommy chưa từng đánh nhau với ai bao giờ.
 
-Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, *“Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,”* nhưng những gì bố Bratty nghe được lại là, *“Con trai ông đúng là một kẻ thất bại vô dụng.”* Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.
+Tommy không xem video âm nhạc đó, đơn giản vì Bratty chưa từng nói cho bạn mình biết là anh đã làm ra nó. Bản thân Bratty cũng chẳng rõ những mũi tiêu mình phóng đi sẽ rơi về đâu. Anh không muốn bận tâm nghĩ về chuyện đó. Anh không muốn hình dung ra một viễn cảnh túng quẫn, nơi cả hai phải ngậm ngùi leo lên chuyến xe khách quay về Ohio để sống bám vào bố mẹ Tommy, rồi bố Tommy gặp bố Bratty ở câu lạc bộ quý tộc và bảo, “Thật tiếc là vụ âm nhạc lại chẳng đi đến đâu,” nhưng những gì bố Bratty nghe được lại là, “Con trai ông đúng là một kẻ thất bại vô dụng.” Anh không muốn điều đó trở thành sự thật, cũng giống như anh chẳng hề muốn bước chân vào trường kinh doanh. Anh không muốn bỏ lại chú chó của mình chỉ vì hãng xe khách trưng tấm biển cộc lốc: CẤM MANG THEO CHÓ. Anh vốn đã ghét cay ghét đắng hãng xe ấy vì cái quy định kỳ thị loài chó của họ.
 
 Thế nên anh không hé răng với Tommy, cũng chẳng buồn kiểm tra xem có ai ngó ngàng tới cái video ngớ ngẩn của mình hay lắng nghe những bản nhạc ấy hay chưa. Thay vào đó, anh phê pha quên trời đất rồi chạy bộ cùng chú chó của mình, tiện tay nhặt nhạnh những thứ người ta vứt đi bên đống rác. Chú chó thì bới tìm xương gà cùng những miếng pizza rơi vãi trên đường. Còn Bratty thì nhặt được một hồng tâm phi tiêu, dẫu chẳng có lấy một mũi tiêu nào. Rồi anh tìm thấy một tấm ván trượt tuyết lẻ loi. Anh cùng Tommy lấy keo dán bốn cái ly uống rượu mạnh lên đó, biến nó thành một thanh ván trượt Shot-Ski.
 
@@ -61,7 +58,7 @@ Cơn gió đã bắt đầu đổi chiều.
 
 Cách căn hộ ba dặm là một dải các quán bar, nhà hàng và hộp đêm, nơi một rapper sở hữu chiếc răng vàng cùng con mắt thâm tím đang mờ dần có thể tìm được một thứ gì đó tàm tạm gọi là công việc. Tommy từng quen một người, người đó quen một người khác, và người này lại quen một cô nàng quản lý hộp đêm đang cần người đi phát tờ rơi. Thù lao gồm có: vé vào cửa miễn phí, hai ly đồ uống miễn phí, cộng thêm hai mươi đô la cho một xấp tờ rơi. Chưa hết, họ còn có thể bỏ túi thêm mười đô nữa nếu chịu khoác tấm bảng quảng cáo hai mặt kẹp trước kẹp sau đi diễu hành dọc khu phố.
 
-Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: *Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư?* Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.
+Bratty cứ đinh ninh Tommy sẽ gạt phắt đi kiểu như: Đời nào, mặt mũi răng cộ tơi bời thế này mà lại bắt đeo cái bảng kẹp người dở hơi đó ư? Thế nhưng, vì một lý do vô cùng bí ẩn nào đó của tạo hóa, Tommy lại hào hứng muốn đeo tấm bảng ấy vô cùng. Anh mê nó ra mặt.
 
 “Trông phấp phới hiên ngang phết đấy chứ,” anh bảo. “Nó giống như cánh buồm, còn cơ thể tao chính là một con tàu lướt sóng.”
 
@@ -108,3 +105,4 @@ Mr. Yay nở một nụ cười rạng rỡ hết cỡ. Chiếc răng bọc vàn
 Mr. Yay ung dung thò tay vào túi quần. Anh rút ra một cây bút dạ dầu ngòi to tướng, cứ như thể bản thân đã dự liệu trước được tình huống ngàn năm có một này từ lâu lắm rồi, đoạn nắn nót đặt bút ký tên.
 
 “Vậy thì,” anh chớp mắt, chất giọng sang sảng cất lên, “hai người đẹp có hứng thú làm một chầu rượu trên thanh ván trượt Shot-Ski không nào?”
+

@@ -1,8 +1,6 @@
-# THÁNG TƯ
+# THÁNG TƯ - BÓI CHỈ TAY
 
-# BÓI CHỈ TAY
-
-**MIRIAM BƯỚC VÀO XE** rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI CẢM, HUYỀN BÍ, BÓI TOÁN sơn màu cam chóe ngay phía trên cửa ra vào. Một mảnh bìa cứng treo lủng lẳng bên dưới, hệt như có ai đó từng cố che tấm biển đi nhưng không thành.
+MIRIAM BƯỚC VÀO XE rồi nhấn ga phóng đi. Cô chẳng rõ mình định đi đâu, cho tới khi bản thân đã ở rất gần đích đến. Mọi thứ trông khác hẳn so với hồi tháng Giêng - thời điểm những cành cây trơ trụi đâm thẳng lên nền trời u uất như lao vào ngõ cụt. Nhưng rồi cô nhìn thấy mặt tiền căn tiệm, cùng dòng chữ NGOẠI CẢM, HUYỀN BÍ, BÓI TOÁN sơn màu cam chóe ngay phía trên cửa ra vào. Một mảnh bìa cứng treo lủng lẳng bên dưới, hệt như có ai đó từng cố che tấm biển đi nhưng không thành.
 
 Cô đỗ xe bên lề đường ngay phía trước. Cô vặn thử tay nắm, nhưng cửa đã khóa chặt. Tấm biển bói chỉ tay bên ô cửa sổ vẫn phát ra ánh huỳnh quang màu hồng nhè nhẹ, nhưng tấm rèm mây đã kéo kín bưng. Cô gõ cửa. Có tiếng động lạch cạch phát ra từ bên trong. Cô gõ lại lần nữa. Vẫn không một ai trả lời.
 
@@ -54,7 +52,7 @@ Cô ta chằm chằm nhìn Miriam. “Cô vừa bị đắm tàu.”
 
 “Nó là con dao hai lưỡi đấy. Đã là điềm báo thì xoay chuyển theo hướng nào mà chẳng được.”
 
-Một tiếng *rầm* lớn đột ngột nện thẳng vào mặt kính cửa sổ.
+Một tiếng rầm lớn đột ngột nện thẳng vào mặt kính cửa sổ.
 
 “Cái gì thế?”
 
@@ -76,7 +74,7 @@ Miriam đi theo Rosy vào một gian phòng kho chất đống bừa bộn nhữ
 
 “Nhưng cô vừa nói…”
 
-“Tôi *nói* thế. Nhưng tôi đâu có *biết*. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”
+“Tôi nói thế. Nhưng tôi đâu có biết. Mấy từ đó tự dưng cứ thế buột ra khỏi miệng tôi thôi.”
 
 “Lần trước cô xem chỉ tay cho tôi cũng xảy ra chuyện tương tự sao?”
 
@@ -120,8 +118,9 @@ Làm gì có cái biển nào như thế. “Chính cô vừa mở cửa cho tô
 
 “Vậy là cô không thể nói cho tôi biết đường chỉ tay này báo trước điều gì về tương lai sao?”
 
-“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có *một điều gì đó*.”
+“Tôi đâu có bảo thế. Tôi chỉ nói tương lai mập mờ thôi. Nhưng quả thực có một điều gì đó.”
 
 “Là cái gì thế?”
 
 “Nói cho chuẩn xác thì khó lắm. Tôi thấy… một đám đông khổng lồ. Phải rồi. Rất nhiều người, cơ man nào là người tụ tập lại với nhau. Rồi họ đang… họ đang phẫn nộ. Hoặc là, không phải, hình như họ đang hạnh phúc? Có lẽ thế chăng? Họ đồng thanh hô vang điều gì đó. Lại còn có cả những quầng sáng rực rỡ. Đèn chớp nháy liên hồi. Tôi thấy khói. Và… cả động vật nữa ư? Mọi thứ hỗn loạn hết cả lên. Thế nhưng cô lại ở đó. Cô đang đứng ngay chính giữa khung cảnh ấy. Và cả Jack nữa.”
+

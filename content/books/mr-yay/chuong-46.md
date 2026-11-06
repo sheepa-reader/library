@@ -1,6 +1,6 @@
 # MẤT NIỀM TIN
 
-**BỌN TRẺ TỔ CHỨC** một lễ tưởng niệm cho cái chân ở sân sau.
+BỌN TRẺ TỔ CHỨC một lễ tưởng niệm cho cái chân ở sân sau.
 
 Mỗi đứa tự tay vẽ một bức tranh về chú chó Roxster yêu quý của mình. Trớ trêu thay, chú chó trong tranh của Rory lại trông giống hệt một con nhện sáu chân, với đôi mắt nằm chễm chệ giữa thân và những chiếc răng nanh nhọn hoắt. Lindsey lĩnh xướng một bài điếu văn theo giai điệu bài thiếu nhi “The Farmer in the Dell”.
 
@@ -14,9 +14,9 @@ Buổi lễ trang nghiêm bị ngắt quãng bởi tiếng ư ử và tiếng c�
 
 “Các con, khoan đã…”
 
-“Nhưng mẹ ơi, mẹ không được thả nó ra đâu. Nhỡ nó nhìn thấy thì sao? Mẹ sẽ cảm thấy thế nào nếu đó là chân của *mẹ*?”
+“Nhưng mẹ ơi, mẹ không được thả nó ra đâu. Nhỡ nó nhìn thấy thì sao? Mẹ sẽ cảm thấy thế nào nếu đó là chân của mẹ?”
 
-Mẹ chắc chắn sẽ chẳng lấy gì làm dễ chịu nếu lũ trẻ đứng nghêu ngao ca hát về chuyện đó. Dù vậy, cái chân của *cô*, nếu chẳng may có lìa khỏi thân thể, hẳn cũng sẽ được xử lý nghiêm cẩn theo đúng quy trình y tế, chứ đời nào lại bị đem chôn ở sân sau nhà.
+Mẹ chắc chắn sẽ chẳng lấy gì làm dễ chịu nếu lũ trẻ đứng nghêu ngao ca hát về chuyện đó. Dù vậy, cái chân của cô, nếu chẳng may có lìa khỏi thân thể, hẳn cũng sẽ được xử lý nghiêm cẩn theo đúng quy trình y tế, chứ đời nào lại bị đem chôn ở sân sau nhà.
 
 Cái chân của Roxster, giờ đây chỉ còn là một khối lông xương nát bét được bọc kín trong nhiều lớp túi zip, vốn đã nằm ngoan ngoãn trong ngăn đông suốt hai tuần liền, cho tới khi bọn trẻ nguôi bớt niềm tiếc thương kịch tính này và nghĩ ra một kế hoạch vinh danh xứng tầm. Giờ thì nó sắp sửa được chôn sâu một mét dưới lòng đất bên trong một chiếc thùng giữ nhiệt bằng nhựa, cốt để ngăn chính chú chó đào bới nó lên lần nữa.
 
@@ -30,7 +30,7 @@ Miriam cũng cất giọng hòa cùng, đúng theo chỉ thị của các con.
 
 Jack cũng hát theo. Cô liếc nhìn chồng từ phía bên kia sân. Cô đổ lỗi cho anh. Dù lý trí của một chuyên viên trị liệu tâm lý có thể tách bạch Jack khỏi vụ tai nạn đã cướp đi cái chân sau của Roxster cùng khoản viện phí thú y hơn năm ngàn đô la, dù khi ấy anh ở cách xa hiện trường vụ đâm xe, và dù sao thì anh vẫn sẽ vắng mặt ở đó bất kể có bận “công việc” hay không, cô vẫn trút hết lỗi lầm lên đầu anh. Sự dối lừa của anh chính là mồi lửa châm ngòi cho chuỗi biến cố dẫn đến cái kết tức tưởi của cái chân chú chó.
 
-Có điều, hai chữ *dối lừa* dường như vẫn chưa lột tả hết bản chất sự việc.
+Có điều, hai chữ dối lừa dường như vẫn chưa lột tả hết bản chất sự việc.
 
 Sự thật là, Miriam chẳng còn biết Jack rốt cuộc là ai nữa.
 
@@ -52,7 +52,7 @@ Lũ trẻ kéo nhau vào trong. Chú chó tập tễnh bước theo sau, rồi t
 
 “Em vẫn còn giận anh à?”
 
-“*Giận dữ* vẫn còn là nói giảm nói tránh đấy. Đúng hơn thì… em thậm chí còn chẳng biết phải nghĩ gì về anh nữa.”
+“Giận dữ vẫn còn là nói giảm nói tránh đấy. Đúng hơn thì… em thậm chí còn chẳng biết phải nghĩ gì về anh nữa.”
 
 “Miriam…”
 
@@ -106,19 +106,19 @@ Cô chẳng hề biết anh. Ngoại trừ việc thỉnh thoảng anh lại hà
 
 “Nhưng nghe này,” Jack nói, vẫn kiên định không hề nản lòng. “Có điều gì đó kỳ lạ đang diễn ra.” Anh bắt đầu đọc:
 
-*LIÊN MINH KỲ LẠ CỦA ROGER VÀ DALE*
+LIÊN MINH KỲ LẠ CỦA ROGER VÀ DALE
 
-*Vào đêm ngày 21 tháng Mười Hai, Roger Harmon khoác lên mình bộ vest đẹp nhất rồi bắt một chuyến taxi đến trung tâm thành phố, tới Khách sạn Roma, để tham dự Dạ tiệc Doanh nhân Ohio. Đêm đó, Roger Harmon sẽ nhận một giải thưởng, giải thưởng thành tựu trọn đời vì những đóng góp của ông cho khối doanh nghiệp nhỏ. Cơ sở kinh doanh của ông, tiệm Harmon’s Hamburgers, đã phục vụ những chiếc burger hảo hạng bậc nhất thành phố suốt hơn hai mươi năm qua.*
+Vào đêm ngày 21 tháng Mười Hai, Roger Harmon khoác lên mình bộ vest đẹp nhất rồi bắt một chuyến taxi đến trung tâm thành phố, tới Khách sạn Roma, để tham dự Dạ tiệc Doanh nhân Ohio. Đêm đó, Roger Harmon sẽ nhận một giải thưởng, giải thưởng thành tựu trọn đời vì những đóng góp của ông cho khối doanh nghiệp nhỏ. Cơ sở kinh doanh của ông, tiệm Harmon’s Hamburgers, đã phục vụ những chiếc burger hảo hạng bậc nhất thành phố suốt hơn hai mươi năm qua.
 
-*Cùng buổi tối hôm ấy, Dale Golding, nhà đầu tư của gần một tá doanh nghiệp khởi nghiệp kiêm chủ sở hữu chuỗi xe tải bán đồ ăn Lightning Taco, đã được mời đến Dạ tiệc Doanh nhân để đọc bài diễn văn chính.*
+Cùng buổi tối hôm ấy, Dale Golding, nhà đầu tư của gần một tá doanh nghiệp khởi nghiệp kiêm chủ sở hữu chuỗi xe tải bán đồ ăn Lightning Taco, đã được mời đến Dạ tiệc Doanh nhân để đọc bài diễn văn chính.
 
-*Roger Harmon và Dale Golding gặp nhau lần đầu tại Đêm tiệc Doanh nhân. Họ ngồi cùng một bàn. Khi ngồi cạnh nhau, trông họ giống hệt hai anh em ruột. Cả hai đều có mái tóc nâu cắt ngắn, lốm đốm hoa râm ở hai bên thái dương, cùng đôi mắt nâu sáng ngời như nhau. Cả hai đều gọi món cá hồi kèm theo một ly rượu vang đỏ. Họ trò chuyện về công việc làm ăn và gia đình. Roger Harmon góa vợ, có một cô con gái mười chín tuổi mà ông dẫn theo cùng đến đêm tiệc. Còn Dale Golding đã ly dị. Ông từng mời bạn gái đến dự với tư cách khách mời, nhưng cô lại cảm thấy không khỏe.*
+Roger Harmon và Dale Golding gặp nhau lần đầu tại Đêm tiệc Doanh nhân. Họ ngồi cùng một bàn. Khi ngồi cạnh nhau, trông họ giống hệt hai anh em ruột. Cả hai đều có mái tóc nâu cắt ngắn, lốm đốm hoa râm ở hai bên thái dương, cùng đôi mắt nâu sáng ngời như nhau. Cả hai đều gọi món cá hồi kèm theo một ly rượu vang đỏ. Họ trò chuyện về công việc làm ăn và gia đình. Roger Harmon góa vợ, có một cô con gái mười chín tuổi mà ông dẫn theo cùng đến đêm tiệc. Còn Dale Golding đã ly dị. Ông từng mời bạn gái đến dự với tư cách khách mời, nhưng cô lại cảm thấy không khỏe.
 
-*“Thật tiếc quá,” Roger Harmon buột miệng nhận xét. “Bạn gái tôi cũng đang ốm.”*
+“Thật tiếc quá,” Roger Harmon buột miệng nhận xét. “Bạn gái tôi cũng đang ốm.”
 
-*Hôm sau, Roger Harmon hẹn bạn gái mình, Elaine, đi ăn tối. Trông cô không được khỏe cho lắm. Mặt mày cô tái nhợt, toát mồ hôi hột và đầy vẻ bồn chồn. Những ngón tay cô cứ giật giật liên hồi. Cô hầu như chẳng đụng đũa. Roger lái xe đưa cô về nhà. Ông tiễn cô vào tận cửa rồi hôn chúc ngủ ngon. Sáng hôm sau ông gọi điện thoại, nhưng cô không bắt máy. Ông gửi hoa cho cô. Ông còn đặt súp gà mang tới tận nhà, nhưng chẳng có ai ở đó.*
+Hôm sau, Roger Harmon hẹn bạn gái mình, Elaine, đi ăn tối. Trông cô không được khỏe cho lắm. Mặt mày cô tái nhợt, toát mồ hôi hột và đầy vẻ bồn chồn. Những ngón tay cô cứ giật giật liên hồi. Cô hầu như chẳng đụng đũa. Roger lái xe đưa cô về nhà. Ông tiễn cô vào tận cửa rồi hôn chúc ngủ ngon. Sáng hôm sau ông gọi điện thoại, nhưng cô không bắt máy. Ông gửi hoa cho cô. Ông còn đặt súp gà mang tới tận nhà, nhưng chẳng có ai ở đó.
 
-*Ngày hôm sau nữa, Roger Harmon bắt gặp Elaine ở khu trung tâm, bên cạnh một người đàn ông đang ôm eo cô. Người đàn ông đó chính là Dale Golding. Roger tiến lại gần hai người. Ông cảm thấy bị phản bội cùng cực. Dù mới hẹn hò với Elaine được vài tháng, nhưng ông đã dành trọn tình cảm sâu đậm cho cô. Ông muốn đối chất ba mặt một lời, thế nhưng chẳng bao giờ có được cơ hội ấy. Elaine vừa trông thấy ông là lập tức co giò bỏ chạy. Cô phóng vụt qua dãy phố rồi biến mất sau góc ngoặt trước khi Roger hoặc Dale kịp giữ lại. Roger…*
+Ngày hôm sau nữa, Roger Harmon bắt gặp Elaine ở khu trung tâm, bên cạnh một người đàn ông đang ôm eo cô. Người đàn ông đó chính là Dale Golding. Roger tiến lại gần hai người. Ông cảm thấy bị phản bội cùng cực. Dù mới hẹn hò với Elaine được vài tháng, nhưng ông đã dành trọn tình cảm sâu đậm cho cô. Ông muốn đối chất ba mặt một lời, thế nhưng chẳng bao giờ có được cơ hội ấy. Elaine vừa trông thấy ông là lập tức co giò bỏ chạy. Cô phóng vụt qua dãy phố rồi biến mất sau góc ngoặt trước khi Roger hoặc Dale kịp giữ lại. Roger…
 
 “Anh thôi đọc được rồi đấy,” Miriam lên tiếng.
 
@@ -272,19 +272,19 @@ Cô hoàn toàn không muốn nghe những lời than thở ấy. Thứ cô mu�
 
 “Bởi vì em không muốn bàn về những việc anh nên làm hay không nên làm nữa. Hôm nay đã là một ngày dài rồi, em chỉ muốn thư giãn thôi.”
 
-“Không, ý anh là cái câu đó cơ. ‘*Im lặng như một con sao biển.*’ Lúc ăn tối em cũng vừa nói câu này.”
+“Không, ý anh là cái câu đó cơ. ‘Im lặng như một con sao biển.’ Lúc ăn tối em cũng vừa nói câu này.”
 
-“Ồ. Nó chỉ bất chợt nảy ra trong đầu em thôi. Đó là một câu thoại trong chương trình *Mr. Yay* mà.”
+“Ồ. Nó chỉ bất chợt nảy ra trong đầu em thôi. Đó là một câu thoại trong chương trình Mr. Yay mà.”
 
 “Chương trình gì cơ?”
 
-“*Mr. Yay.*” Jack ngơ ngác nhìn cô trân trân. “Đó là cái gì?”
+“Mr. Yay.” Jack ngơ ngác nhìn cô trân trân. “Đó là cái gì?”
 
 “Anh nghiêm túc đấy chứ?”
 
 “Ừ.”
 
-“Anh không nhớ chương trình truyền hình đó sao? *Những cuộc phiêu lưu của Mr. Yay* ấy?”
+“Anh không nhớ chương trình truyền hình đó sao? Những cuộc phiêu lưu của Mr. Yay ấy?”
 
 “Không hề,” Jack đáp. “Chưa từng nghe nói bao giờ.”
 
@@ -296,7 +296,7 @@ Cô hoàn toàn không muốn nghe những lời than thở ấy. Thứ cô mu�
 
 “Không.”
 
-“Anh chưa từng nghe nói về chương trình truyền hình thiếu nhi *Những cuộc phiêu lưu của Mr. Yay* bao giờ ư?”
+“Anh chưa từng nghe nói về chương trình truyền hình thiếu nhi Những cuộc phiêu lưu của Mr. Yay bao giờ ư?”
 
 “Chưa.”
 
@@ -334,10 +334,11 @@ Jack rút điện thoại ra và tìm kiếm cái tên Mr. Yay. “Ở đây ghi
 
 “Vâng, đó không phải là Mr. Yay mà em đang nói.”
 
-“Nhưng nhìn xem, ngay đây cậu ta cũng có một chú chó này. Biết đâu cậu ta *vừa là* rapper, *vừa là* ngôi sao truyền hình thì sao.”
+“Nhưng nhìn xem, ngay đây cậu ta cũng có một chú chó này. Biết đâu cậu ta vừa là rapper, vừa là ngôi sao truyền hình thì sao.”
 
 “Không, em không nghĩ thế đâu. Đưa điện thoại cho em xem nào.”
 
-Jack đưa điện thoại cho cô. Miriam lướt qua những tấm hình của một chàng trai trẻ, mặt mày nhẵn nhụi không chút râu ria, mái tóc chải mượt mà. Cô từng nghe nói về chàng rapper này: cậu chính là một trong những người bạn thân nhất của cậu thân chủ mà cô đang trị liệu. Trong các bức ảnh, chàng rapper lúc thì đứng trên sân khấu với chiếc micro trong tay, lúc lại mặc bộ đồ thể thao màu xanh ngọc chói lọi, hoặc tay cầm một tấm ván trượt dán chặt những chiếc ly uống rượu mạnh (loại mà Jack vẫn gọi là *thanh ván trượt Shot-Ski*), một điếu thuốc kẹp vắt vểu sau vành tai, sợi dây chuyền đính mặt dấu đô la khổng lồ lấp lánh đung đưa trước ngực, bên cạnh là một chú chó lạ lẫm đội chiếc mũ cướp biển.
+Jack đưa điện thoại cho cô. Miriam lướt qua những tấm hình của một chàng trai trẻ, mặt mày nhẵn nhụi không chút râu ria, mái tóc chải mượt mà. Cô từng nghe nói về chàng rapper này: cậu chính là một trong những người bạn thân nhất của cậu thân chủ mà cô đang trị liệu. Trong các bức ảnh, chàng rapper lúc thì đứng trên sân khấu với chiếc micro trong tay, lúc lại mặc bộ đồ thể thao màu xanh ngọc chói lọi, hoặc tay cầm một tấm ván trượt dán chặt những chiếc ly uống rượu mạnh (loại mà Jack vẫn gọi là thanh ván trượt Shot-Ski), một điếu thuốc kẹp vắt vểu sau vành tai, sợi dây chuyền đính mặt dấu đô la khổng lồ lấp lánh đung đưa trước ngực, bên cạnh là một chú chó lạ lẫm đội chiếc mũ cướp biển.
 
 Cô cứ lướt mãi, lướt mãi. Thế nhưng, tuyệt nhiên chẳng có tấm hình nào chụp một vị thủy thủ râu dài thượt, mặc chiếc quần như quấn chăn quanh chân cả.
+

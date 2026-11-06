@@ -1,6 +1,6 @@
 # THÚ TỘI
 
-***ĐỪNG CHẾT***, *xin mày xin mày xin mày đừng chết xin mày.*
+ĐỪNG CHẾT, xin mày xin mày xin mày đừng chết xin mày.
 
 Một câu thần chú.
 
@@ -32,11 +32,11 @@ Fred bế chú chó đi xuống đường rồi cẩn thận đặt nó vào tro
 
 “Có những ngày, anh nghĩ mình có thể cảm nhận được nó. Mọi tần số rung động của vũ trụ. Anh hy vọng thế. Nhưng làm sao chúng ta biết chắc được chứ?”
 
-Cô trèo vào xe. Cô nhấn ga lao đến phòng khám thú y gần nhất, nhưng nơi đó chưa mở cửa. Tấm biển treo trước cổng lạnh lùng thông báo họ chỉ tiếp nhận bệnh nhân từ giữa trưa: GIỜ MỚI 12:00–17:00, TỪ THỨ HAI ĐẾN THỨ SÁU. Giữa cơn cuồng phong của một tình huống cấp cứu, quy định này tưởng như một trò đùa nực cười. Thế là cô vội vã gọi cho một phòng khám thú y khác, rồi lại một phòng khám khác, rồi thêm một phòng khám khác nữa, cho tới khi có người bắt máy và bảo: *“Đến ngay đi!”*
+Cô trèo vào xe. Cô nhấn ga lao đến phòng khám thú y gần nhất, nhưng nơi đó chưa mở cửa. Tấm biển treo trước cổng lạnh lùng thông báo họ chỉ tiếp nhận bệnh nhân từ giữa trưa: GIỜ MỚI 12:00–17:00, TỪ THỨ HAI ĐẾN THỨ SÁU. Giữa cơn cuồng phong của một tình huống cấp cứu, quy định này tưởng như một trò đùa nực cười. Thế là cô vội vã gọi cho một phòng khám thú y khác, rồi lại một phòng khám khác, rồi thêm một phòng khám khác nữa, cho tới khi có người bắt máy và bảo: “Đến ngay đi!”
 
 Cô nhấn ga phi thẳng vào trung tâm thành phố. Hơi thở của chú chó nhọc nhằn và khè khè. Cô đỗ tấp xe song song bên ngoài Phòng khám Thú y Happy Paws. Bước vội ra ngoài, cô lao đến trước cửa rồi hét lớn: “Xin hãy giúp tôi! Chó của tôi! Cứu nó với!”
 
-*Xin mày đừng chết xin mày xin mày đừng chết*
+Xin mày đừng chết xin mày xin mày đừng chết
 
 Cô nhân viên lễ tân hốt hoảng chạy ra, rồi chạy vào, rồi lại chạy ra cùng một bác sĩ thú y và chiếc cáng cấp cứu. Họ cẩn thận đặt Roxster lên cáng, rồi vội vã khiêng chú chó vào bên trong.
 
@@ -82,7 +82,7 @@ Tiếng sủa, tiếng meo meo cùng nhịp cào cấu điên cuồng quanh phò
 
 “Anh thật sự…”
 
-“Thôi ngay cái trò dối trá đó đi! Em đã gọi điện đấy, Jack. Em gọi đến văn phòng của anh và người ta đã nói cho em biết rồi. Anh đâu còn làm ở đó nữa! Anh đã nghỉ việc cả mấy tháng nay rồi! Anh đi đâu? Anh làm cái gì? Anh đang ngoại tình đấy à? Anh *thực sự là ai* hả Jack?”
+“Thôi ngay cái trò dối trá đó đi! Em đã gọi điện đấy, Jack. Em gọi đến văn phòng của anh và người ta đã nói cho em biết rồi. Anh đâu còn làm ở đó nữa! Anh đã nghỉ việc cả mấy tháng nay rồi! Anh đi đâu? Anh làm cái gì? Anh đang ngoại tình đấy à? Anh thực sự là ai hả Jack?”
 
 “Anh…”
 
@@ -140,7 +140,7 @@ Một con mèo rít lên ghê rợn. Con vẹt sổng chuồng vỗ cánh phạc
 
 “Anh không cố ý nói dối, anh chỉ… anh đã không mở lời, rồi anh sợ hãi nên cứ tiếp tục giấu giếm, và rồi…”
 
-“Anh bảo anh đi làm mà! Rốt cuộc anh đã đi đâu cơ chứ? *ANH LÀ AI VẬY?*”
+“Anh bảo anh đi làm mà! Rốt cuộc anh đã đi đâu cơ chứ? ANH LÀ AI VẬY?”
 
 Anh nhìn cô. Người đàn ông này sở hữu đôi mắt của Jack, gương mặt của Jack, giọng nói của Jack, vóc dáng của Jack, nhưng cô lại chẳng hề quen biết. Người tên Jack mà cô kết hôn đã biến mất, vùi lấp đâu đó dưới ngọn núi công việc ngập đầu không hồi kết, và kẻ bước ra ở bờ bên kia lại là một người hoàn toàn xa lạ.
 
@@ -161,3 +161,4 @@ Không phải vì điều đó buồn cười.
 “Không.”
 
 “Có chứ. Chà. Đại loại thế. Có điều anh chưa có nhiều mối làm ăn lắm, thế nên anh mới phải làm ở quán cà phê. Với lại anh đang viết một cuốn tiểu thuyết thám tử. Để lấy cảm hứng.”
+

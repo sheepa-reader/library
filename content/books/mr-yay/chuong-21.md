@@ -1,6 +1,6 @@
 # NHỮNG LỖ HỔNG TRÊN TƯỜNG VÀ NỮ LUẬT SƯ NÓNG BỎNG
 
-**MIRIAM TÌNH CỜ GẶP HOLLY** vào một buổi sáng tại siêu thị Value Valley.
+MIRIAM TÌNH CỜ GẶP HOLLY vào một buổi sáng tại siêu thị Value Valley.
 
 “Tớ phát ngán với chuyện chợ búa rồi,” Holly than thở. Xe đẩy của cô chất ngất hai thùng rượu vang, một chai vodka và một lốc mười hai lon Blue Lagoon (dấu hiệu điển hình của một bà nội trợ sắp kiệt sức). “Lại còn nấu nướng nữa chứ. Tối nay sang nhà tớ đi, mình gọi pizza cho nhanh.”
 
@@ -62,7 +62,7 @@ Holly dẫn Miriam ra hành lang, chỉ tay vào hai lỗ thủng to tướng tr
 
 “Thằng bé có sao không?”
 
-“Ồ, nó hoàn toàn bình an vô sự!” Holly nói, dù khóe miệng cô khẽ giật giật và một giọt nước mắt rơm rớm nơi khóe mi. “Bởi vậy tớ mới phải dặn nó, dặn cả nó *lẫn* anh Tom, là tuyệt đối cấm chạm vào trượt ván. Ý tớ là, cậu có hình dung nổi cảnh nhóc Chad đứng trên một chiếc trượt ván không? Tom mua cho nó một cái đấy. Hồi năm ngoái, lúc tớ đi công tác. Nhưng ngay khi phát hiện ra, tớ bắt anh ấy tống khứ nó đi ngay lập tức. Chad đã giận *điên* lên.” Holly lắc đầu, hít một hơi sâu. “Dù sao thì, tớ thề là mấy cái lỗ này hôm nay to hơn hôm qua. Cá là thằng Chad lại lén cạy vữa ra. Kiểu gì tớ cũng sẽ tìm thấy một đống vữa vụn giấu trong ngăn kéo đựng tất của nó cho mà xem.”
+“Ồ, nó hoàn toàn bình an vô sự!” Holly nói, dù khóe miệng cô khẽ giật giật và một giọt nước mắt rơm rớm nơi khóe mi. “Bởi vậy tớ mới phải dặn nó, dặn cả nó lẫn anh Tom, là tuyệt đối cấm chạm vào trượt ván. Ý tớ là, cậu có hình dung nổi cảnh nhóc Chad đứng trên một chiếc trượt ván không? Tom mua cho nó một cái đấy. Hồi năm ngoái, lúc tớ đi công tác. Nhưng ngay khi phát hiện ra, tớ bắt anh ấy tống khứ nó đi ngay lập tức. Chad đã giận điên lên.” Holly lắc đầu, hít một hơi sâu. “Dù sao thì, tớ thề là mấy cái lỗ này hôm nay to hơn hôm qua. Cá là thằng Chad lại lén cạy vữa ra. Kiểu gì tớ cũng sẽ tìm thấy một đống vữa vụn giấu trong ngăn kéo đựng tất của nó cho mà xem.”
 
 Holly nốc cạn ly rượu vang rồi tự rót cho mình ly nữa. Trên tầng, ba đứa trẻ đang giậm chân chạy rầm rầm trên trần nhà.
 
@@ -96,4 +96,5 @@ Miriam chưa từng nghĩ đến chuyện đó, cho tới tận khoảnh khắc 
 
 “Ôi Chúa ơi,” Miriam hổn hển thốt lên. “Nhỡ đâu anh ấy đang ngoại tình?”
 
-Mọi manh mối lập tức khớp khăng khăng. Những đêm làm việc muộn bất thường. Cuộc hôn nhân nguội lạnh không tình dục. Cái cách Jack lướt qua cô như một bóng ma. Mùi hương lạ trên áo khoác của anh. Phản ứng dị thường của chú chó Roxster. Và cái cách anh thốt lên cái tên của người phụ nữ ấy, *Jessica*, ngọt ngào như thể anh đang nhấm nháp cô ta trên đầu lưỡi.
+Mọi manh mối lập tức khớp khăng khăng. Những đêm làm việc muộn bất thường. Cuộc hôn nhân nguội lạnh không tình dục. Cái cách Jack lướt qua cô như một bóng ma. Mùi hương lạ trên áo khoác của anh. Phản ứng dị thường của chú chó Roxster. Và cái cách anh thốt lên cái tên của người phụ nữ ấy, Jessica, ngọt ngào như thể anh đang nhấm nháp cô ta trên đầu lưỡi.
+

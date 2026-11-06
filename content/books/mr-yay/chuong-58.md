@@ -1,6 +1,6 @@
 # ĐỘNG VẬT LINH HÒA
 
-**SÂN TRƯỚC** vẫn còn nhem nhuốc bùn đất và nhung nhúc thỏ, nhưng một tấm biển vẽ tay đã hứa hẹn về một tương lai tươi sáng ngập tràn hoa dại cùng cỏ bản địa. Ở sân sau, bữa tiệc sinh nhật lần thứ sáu của Mabel đã bắt đầu từ đời nào rồi. Lindsey ôm chặt món quà của con bé: một bộ bút chì màu làm từ gỗ tái chế với phẩm màu tự nhiên chiết xuất từ thực vật.
+SÂN TRƯỚC vẫn còn nhem nhuốc bùn đất và nhung nhúc thỏ, nhưng một tấm biển vẽ tay đã hứa hẹn về một tương lai tươi sáng ngập tràn hoa dại cùng cỏ bản địa. Ở sân sau, bữa tiệc sinh nhật lần thứ sáu của Mabel đã bắt đầu từ đời nào rồi. Lindsey ôm chặt món quà của con bé: một bộ bút chì màu làm từ gỗ tái chế với phẩm màu tự nhiên chiết xuất từ thực vật.
 
 “Không dùng đồ nhựa nhé,” Kate từng dặn khi Miriam hỏi về quà sinh nhật. “Tất nhiên rồi.”
 
@@ -32,7 +32,7 @@ Holly ừng ực nốc một ngụm sâm panh trực tiếp từ chai. “Thế,
 
 “Ừm…”
 
-“*Ồ, đúng rồi*, ý cô là làm sao tôi quen họ chứ gì? Tôi với Fred từng làm chung ở ngân hàng. Nhưng rồi tôi bỏ việc ngân hàng và bán nhà, sau đó đi cắm trại ở công viên. Cơ mà hóa ra công viên lại đóng cửa lúc chín giờ tối. Thế nên giờ tôi sống ở đây.”
+“Ồ, đúng rồi, ý cô là làm sao tôi quen họ chứ gì? Tôi với Fred từng làm chung ở ngân hàng. Nhưng rồi tôi bỏ việc ngân hàng và bán nhà, sau đó đi cắm trại ở công viên. Cơ mà hóa ra công viên lại đóng cửa lúc chín giờ tối. Thế nên giờ tôi sống ở đây.”
 
 “Ở đây… ý anh là căn nhà này sao?” Miriam hỏi. “Cùng với Kate và Fred ư?”
 
@@ -72,7 +72,7 @@ Dường như Kate đã hoàn toàn phớt lờ sự mỉa mai cay đắng về 
 
 “Nó là sự kết hợp của những loài vật mà Mabel cảm thấy đang rung động cùng tần số với con bé. Động vật Linh hòa của nó đấy. Ít nhất cũng phải bốn loài. Dù có khi còn nhiều hơn thế nữa.”
 
-*Nhưng trong số đó, rốt cuộc loài nào lại chỉ có ba chân cơ chứ?*
+Nhưng trong số đó, rốt cuộc loài nào lại chỉ có ba chân cơ chứ?
 
 “Thế thì… tuyệt thật đấy.”
 
@@ -102,7 +102,7 @@ Kate huyên thuyên không dứt. Thêm vài con kiến nữa vội vã rời kh
 
 “Vậy cậu bảo Fred đã nghỉ việc ở ngân hàng,” Miriam tiếp lời. “Thế còn cậu…”
 
-“Ôi không. Tớ cũng ước gì được vậy.” Kate vốn làm việc ở bộ phận tiếp thị của một công ty dược phẩm. “Nhưng tụi tớ không thể vay tiền mở trung tâm chăm sóc sức khỏe trừ khi một trong hai đứa giữ lại công việc công sở. Và tụi tớ quyết định tớ là người có khả năng thuyết phục ngân hàng tốt hơn Fred.” Một hàng kiến kiên trì bò qua mái tóc cô. “Mặt mũi Fred nhìn trông đúng là *rất* hippie.”
+“Ôi không. Tớ cũng ước gì được vậy.” Kate vốn làm việc ở bộ phận tiếp thị của một công ty dược phẩm. “Nhưng tụi tớ không thể vay tiền mở trung tâm chăm sóc sức khỏe trừ khi một trong hai đứa giữ lại công việc công sở. Và tụi tớ quyết định tớ là người có khả năng thuyết phục ngân hàng tốt hơn Fred.” Một hàng kiến kiên trì bò qua mái tóc cô. “Mặt mũi Fred nhìn trông đúng là rất hippie.”
 
 Rồi cũng đến lúc bóc quà. Mabel hào hứng mở những món đồ chơi bằng nhựa, búp bê nhựa, dụng cụ vẽ bằng nhựa, kẹo dẻo làm từ phẩm màu đỏ số 40, súng bắn bong bóng phun ra những đám bọt độc hại, thú bông rỉ ra hóa chất nguy hiểm… Tất cả đều bị Kate nhanh tay chộp khỏi tay cô bé rồi chuyền cho Fred để tống vào một chiếc hộp đặt ở khu vực cách ly trong sân, nơi lũ trẻ, vốn hấp thụ mọi thứ như bọt biển, bị nghiêm cấm bén mảng tới.
 
@@ -125,3 +125,4 @@ Thế nhưng Fred đã kịp giật Mabel lại trước khi chú dê vật th�
 Cảm giác chạm vào tay anh lúc này… thật kỳ lạ làm sao.
 
 “Không sao đâu,” anh nói, “đó là một manh mối.” Trên người anh tỏa ra một mùi hương y hệt con hẻm tối vào đêm không trăng. “Đôi khi, một thứ cứ phải biến mất thì em mới có thể nhìn thấy những gì thực sự tồn tại ở đó.”
+
