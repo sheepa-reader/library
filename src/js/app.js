@@ -1300,12 +1300,13 @@
     }
 
     // Load Chapter Markdown Content
-    let chapterPath = chapter.path;
+    const rawChapterPath = chapter.path || chapter.file || '';
+    let chapterPath = rawChapterPath;
     if (currentMode === 'bilingual') {
       if (chapter.bilingualPath) {
         chapterPath = chapter.bilingualPath;
-      } else {
-        chapterPath = chapter.path.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books/$1/bilingual/$2');
+      } else if (rawChapterPath) {
+        chapterPath = rawChapterPath.replace(/content\/books\/([^/]+)\/(.+)$/, 'content/books//bilingual/');
       }
     }
 

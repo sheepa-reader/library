@@ -956,367 +956,442 @@
       {
         "id": "chuong-1",
         "title": "TÁC GIẢ",
-        "file": "content/books/mr-yay/chuong-1.md"
+        "path": "content/books/mr-yay/chuong-1.md",
+        "part": "",
+        "noDropcap": true
       },
       {
         "id": "chuong-2",
         "title": "LỜI KHEN TẶNG",
-        "file": "content/books/mr-yay/chuong-2.md"
+        "path": "content/books/mr-yay/chuong-2.md",
+        "part": "",
+        "noDropcap": true
       },
       {
         "id": "chuong-3",
         "title": "THUỞ BAN ĐẦU, ĐÃ CÓ RAP",
-        "file": "content/books/mr-yay/chuong-3.md"
+        "path": "content/books/mr-yay/chuong-3.md",
+        "part": ""
       },
       {
         "id": "chuong-4",
         "title": "KHỞI ĐẦU",
-        "file": "content/books/mr-yay/chuong-4.md"
+        "path": "content/books/mr-yay/chuong-4.md",
+        "part": ""
       },
       {
         "id": "chuong-5",
         "title": "RỒI RẤT LÂU VỀ SAU",
-        "file": "content/books/mr-yay/chuong-5.md"
+        "path": "content/books/mr-yay/chuong-5.md",
+        "part": ""
       },
       {
         "id": "chuong-6",
         "title": "ĐÔNG CHÍ - BRADFORD VÀ CHÚ CHÓ",
-        "file": "content/books/mr-yay/chuong-6.md"
+        "path": "content/books/mr-yay/chuong-6.md",
+        "part": ""
       },
       {
         "id": "chuong-7",
         "title": "BRADFORD VÀ CHUYÊN VIÊN TRỊ LIỆU TÂM LÝ",
-        "file": "content/books/mr-yay/chuong-7.md"
+        "path": "content/books/mr-yay/chuong-7.md",
+        "part": ""
       },
       {
         "id": "chuong-8",
         "title": "CHUYÊN VIÊN TRỊ LIỆU VÀ CUỘC HÔN NHÂN BÊN BỜ ĐỔ VỠ",
-        "file": "content/books/mr-yay/chuong-8.md"
+        "path": "content/books/mr-yay/chuong-8.md",
+        "part": ""
       },
       {
         "id": "chuong-9",
         "title": "MIRIAM VÀ Ổ BÁNH THỊT NÔN MỬA",
-        "file": "content/books/mr-yay/chuong-9.md"
+        "path": "content/books/mr-yay/chuong-9.md",
+        "part": ""
       },
       {
         "id": "chuong-10",
         "title": "CON THỎ",
-        "file": "content/books/mr-yay/chuong-10.md"
+        "path": "content/books/mr-yay/chuong-10.md",
+        "part": ""
       },
       {
         "id": "chuong-11",
         "title": "FATTY BRATTY VÀ BƯỚC NHẢY",
-        "file": "content/books/mr-yay/chuong-11.md"
+        "path": "content/books/mr-yay/chuong-11.md",
+        "part": ""
       },
       {
         "id": "chuong-12",
         "title": "FATTY BRATTY VÀ BẠN THÂN TRI KỶ TOMMY",
-        "file": "content/books/mr-yay/chuong-12.md"
+        "path": "content/books/mr-yay/chuong-12.md",
+        "part": ""
       },
       {
         "id": "chuong-13",
         "title": "ALBUM NHẠC",
-        "file": "content/books/mr-yay/chuong-13.md"
+        "path": "content/books/mr-yay/chuong-13.md",
+        "part": ""
       },
       {
         "id": "chuong-14",
         "title": "KHÚC DẠO ĐẦU - NGƯỜI ĐÁNH CÁ",
-        "file": "content/books/mr-yay/chuong-14.md"
+        "path": "content/books/mr-yay/chuong-14.md",
+        "part": ""
       },
       {
         "id": "chuong-15",
         "title": "HỒI TƯỞNG",
-        "file": "content/books/mr-yay/chuong-15.md"
+        "path": "content/books/mr-yay/chuong-15.md",
+        "part": ""
       },
       {
         "id": "chuong-16",
         "title": "THÁNG GIÊNG - BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU",
-        "file": "content/books/mr-yay/chuong-16.md"
+        "path": "content/books/mr-yay/chuong-16.md",
+        "part": ""
       },
       {
         "id": "chuong-17",
         "title": "MIRIAM VÀ CHUYÊN VIÊN TƯ VẤN HÔN NHÂN",
-        "file": "content/books/mr-yay/chuong-17.md"
+        "path": "content/books/mr-yay/chuong-17.md",
+        "part": ""
       },
       {
         "id": "chuong-18",
         "title": "HỘI BẠN TIỆC TÙNG CỦA MIRIAM",
-        "file": "content/books/mr-yay/chuong-18.md"
+        "path": "content/books/mr-yay/chuong-18.md",
+        "part": ""
       },
       {
         "id": "chuong-19",
         "title": "MIRIAM VÀ CON CÁO",
-        "file": "content/books/mr-yay/chuong-19.md"
+        "path": "content/books/mr-yay/chuong-19.md",
+        "part": ""
       },
       {
         "id": "chuong-20",
         "title": "NGƯỜI CHA MẪU MỰC VÀ ĐÁNG YÊU VỀ NHÀ ĂN TỐI",
-        "file": "content/books/mr-yay/chuong-20.md"
+        "path": "content/books/mr-yay/chuong-20.md",
+        "part": ""
       },
       {
         "id": "chuong-21",
         "title": "NHỮNG LỖ HỔNG TRÊN TƯỜNG VÀ NỮ LUẬT SƯ NÓNG BỎNG",
-        "file": "content/books/mr-yay/chuong-21.md"
+        "path": "content/books/mr-yay/chuong-21.md",
+        "part": ""
       },
       {
         "id": "chuong-22",
         "title": "NGOẠI TRUYỆN - PHÓ CHỦ TỊCH",
-        "file": "content/books/mr-yay/chuong-22.md"
+        "path": "content/books/mr-yay/chuong-22.md",
+        "part": ""
       },
       {
         "id": "chuong-23",
         "title": "GÓC HOÀI NIỆM",
-        "file": "content/books/mr-yay/chuong-23.md"
+        "path": "content/books/mr-yay/chuong-23.md",
+        "part": ""
       },
       {
         "id": "chuong-24",
         "title": "HỒI TƯỞNG",
-        "file": "content/books/mr-yay/chuong-24.md"
+        "path": "content/books/mr-yay/chuong-24.md",
+        "part": ""
       },
       {
         "id": "chuong-25",
         "title": "THÁNG HAI - THANH VÁN TRƯỢT SHOT-SKI",
-        "file": "content/books/mr-yay/chuong-25.md"
+        "path": "content/books/mr-yay/chuong-25.md",
+        "part": ""
       },
       {
         "id": "chuong-26",
         "title": "BRATTY VÀ BÁC SĨ TRỊ LIỆU",
-        "file": "content/books/mr-yay/chuong-26.md"
+        "path": "content/books/mr-yay/chuong-26.md",
+        "part": ""
       },
       {
         "id": "chuong-27",
         "title": "CÁI QUÁI GÌ THẾ, CON HƯƠU?",
-        "file": "content/books/mr-yay/chuong-27.md"
+        "path": "content/books/mr-yay/chuong-27.md",
+        "part": ""
       },
       {
         "id": "chuong-28",
         "title": "MIRIAM VÀ CÁC THÁM TỬ",
-        "file": "content/books/mr-yay/chuong-28.md"
+        "path": "content/books/mr-yay/chuong-28.md",
+        "part": ""
       },
       {
         "id": "chuong-29",
         "title": "JACK VÀ CÔ GÁI TÓC VÀNG",
-        "file": "content/books/mr-yay/chuong-29.md"
+        "path": "content/books/mr-yay/chuong-29.md",
+        "part": ""
       },
       {
         "id": "chuong-30",
         "title": "NHỮNG DÒNG THƯ TÌNH",
-        "file": "content/books/mr-yay/chuong-30.md"
+        "path": "content/books/mr-yay/chuong-30.md",
+        "part": ""
       },
       {
         "id": "chuong-31",
         "title": "THUYẾT ÂM MƯU!",
-        "file": "content/books/mr-yay/chuong-31.md"
+        "path": "content/books/mr-yay/chuong-31.md",
+        "part": ""
       },
       {
         "id": "chuong-32",
         "title": "NGƯỜI ĐÀN BÀ KHÁC",
-        "file": "content/books/mr-yay/chuong-32.md"
+        "path": "content/books/mr-yay/chuong-32.md",
+        "part": ""
       },
       {
         "id": "chuong-33",
         "title": "KHÚC ĐỆM - VẬN ĐỘNG VIÊN CHẠY ĐƯỜNG DÀI",
-        "file": "content/books/mr-yay/chuong-33.md"
+        "path": "content/books/mr-yay/chuong-33.md",
+        "part": ""
       },
       {
         "id": "chuong-34",
         "title": "KÝ ỨC ÙA VỀ",
-        "file": "content/books/mr-yay/chuong-34.md"
+        "path": "content/books/mr-yay/chuong-34.md",
+        "part": ""
       },
       {
         "id": "chuong-35",
         "title": "KÝ ỨC QUÁ KHỨ",
-        "file": "content/books/mr-yay/chuong-35.md"
+        "path": "content/books/mr-yay/chuong-35.md",
+        "part": ""
       },
       {
         "id": "chuong-36",
         "title": "THÁNG BA - CHUYẾN DU THUYỀN TIỆC TÙNG",
-        "file": "content/books/mr-yay/chuong-36.md"
+        "path": "content/books/mr-yay/chuong-36.md",
+        "part": ""
       },
       {
         "id": "chuong-37",
         "title": "BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU",
-        "file": "content/books/mr-yay/chuong-37.md"
+        "path": "content/books/mr-yay/chuong-37.md",
+        "part": ""
       },
       {
         "id": "chuong-38",
         "title": "RĂNG HÀM VÀ HẠT ĐẬU CÔ VE",
-        "file": "content/books/mr-yay/chuong-38.md"
+        "path": "content/books/mr-yay/chuong-38.md",
+        "part": ""
       },
       {
         "id": "chuong-39",
         "title": "VƯỜN THÚ",
-        "file": "content/books/mr-yay/chuong-39.md"
+        "path": "content/books/mr-yay/chuong-39.md",
+        "part": ""
       },
       {
         "id": "chuong-40",
         "title": "TOM VÀ FRED TRÒN BA-MƯƠI-TÁM TUỔI",
-        "file": "content/books/mr-yay/chuong-40.md"
+        "path": "content/books/mr-yay/chuong-40.md",
+        "part": ""
       },
       {
         "id": "chuong-41",
         "title": "ROXSTER VÀ CON HƯƠU",
-        "file": "content/books/mr-yay/chuong-41.md"
+        "path": "content/books/mr-yay/chuong-41.md",
+        "part": ""
       },
       {
         "id": "chuong-42",
         "title": "XUÂN PHÂN: CẦU NỐI - TOÁN HỌC",
-        "file": "content/books/mr-yay/chuong-42.md"
+        "path": "content/books/mr-yay/chuong-42.md",
+        "part": ""
       },
       {
         "id": "chuong-43",
         "title": "CHUYẾN PHIÊU LƯU CUỐI CÙNG CỦA MR. YAY NGUYÊN BẢN",
-        "file": "content/books/mr-yay/chuong-43.md"
+        "path": "content/books/mr-yay/chuong-43.md",
+        "part": ""
       },
       {
         "id": "chuong-44",
         "title": "THÚ TỘI",
-        "file": "content/books/mr-yay/chuong-44.md"
+        "path": "content/books/mr-yay/chuong-44.md",
+        "part": ""
       },
       {
         "id": "chuong-45",
         "title": "THÁNG TƯ - BÓI CHỈ TAY",
-        "file": "content/books/mr-yay/chuong-45.md"
+        "path": "content/books/mr-yay/chuong-45.md",
+        "part": ""
       },
       {
         "id": "chuong-46",
         "title": "MẤT NIỀM TIN",
-        "file": "content/books/mr-yay/chuong-46.md"
+        "path": "content/books/mr-yay/chuong-46.md",
+        "part": ""
       },
       {
         "id": "chuong-47",
         "title": "NGƯỜI NHỆN",
-        "file": "content/books/mr-yay/chuong-47.md"
+        "path": "content/books/mr-yay/chuong-47.md",
+        "part": ""
       },
       {
         "id": "chuong-48",
         "title": "BÍ ẨN ĐÁNG ĐỂ PHÁ GIẢI",
-        "file": "content/books/mr-yay/chuong-48.md"
+        "path": "content/books/mr-yay/chuong-48.md",
+        "part": ""
       },
       {
         "id": "chuong-49",
         "title": "BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU",
-        "file": "content/books/mr-yay/chuong-49.md"
+        "path": "content/books/mr-yay/chuong-49.md",
+        "part": ""
       },
       {
         "id": "chuong-50",
         "title": "BẬC THẦY MÔNG ĐÍT",
-        "file": "content/books/mr-yay/chuong-50.md"
+        "path": "content/books/mr-yay/chuong-50.md",
+        "part": ""
       },
       {
         "id": "chuong-51",
         "title": "KHÚC ĐỆM - KÝ ỨC ÙA VỀ",
-        "file": "content/books/mr-yay/chuong-51.md"
+        "path": "content/books/mr-yay/chuong-51.md",
+        "part": ""
       },
       {
         "id": "chuong-52",
         "title": "HỒI TƯỞNG",
-        "file": "content/books/mr-yay/chuong-52.md"
+        "path": "content/books/mr-yay/chuong-52.md",
+        "part": ""
       },
       {
         "id": "chuong-53",
         "title": "THƯỢNG NGHỊ SĨ",
-        "file": "content/books/mr-yay/chuong-53.md"
+        "path": "content/books/mr-yay/chuong-53.md",
+        "part": ""
       },
       {
         "id": "chuong-54",
         "title": "THÁNG NĂM - MẢNH GIẤY GHI NHỚ",
-        "file": "content/books/mr-yay/chuong-54.md"
+        "path": "content/books/mr-yay/chuong-54.md",
+        "part": ""
       },
       {
         "id": "chuong-55",
         "title": "JACK VÀ CHIẾC VÕNG",
-        "file": "content/books/mr-yay/chuong-55.md"
+        "path": "content/books/mr-yay/chuong-55.md",
+        "part": ""
       },
       {
         "id": "chuong-56",
         "title": "HỐ BÙN",
-        "file": "content/books/mr-yay/chuong-56.md"
+        "path": "content/books/mr-yay/chuong-56.md",
+        "part": ""
       },
       {
         "id": "chuong-57",
         "title": "VỤ ÁN NHỮNG CON GÀ MẤT TÍCH",
-        "file": "content/books/mr-yay/chuong-57.md"
+        "path": "content/books/mr-yay/chuong-57.md",
+        "part": ""
       },
       {
         "id": "chuong-58",
         "title": "ĐỘNG VẬT LINH HÒA",
-        "file": "content/books/mr-yay/chuong-58.md"
+        "path": "content/books/mr-yay/chuong-58.md",
+        "part": ""
       },
       {
         "id": "chuong-59",
         "title": "VÁN TRƯỢT",
-        "file": "content/books/mr-yay/chuong-59.md"
+        "path": "content/books/mr-yay/chuong-59.md",
+        "part": ""
       },
       {
         "id": "chuong-60",
         "title": "BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU TÂM LÝ",
-        "file": "content/books/mr-yay/chuong-60.md"
+        "path": "content/books/mr-yay/chuong-60.md",
+        "part": ""
       },
       {
         "id": "chuong-61",
         "title": "XE BUÝT TIỆC TÙNG",
-        "file": "content/books/mr-yay/chuong-61.md"
+        "path": "content/books/mr-yay/chuong-61.md",
+        "part": ""
       },
       {
         "id": "chuong-62",
         "title": "KHÚC ĐỆM - KÝ ỨC ÙA VỀ",
-        "file": "content/books/mr-yay/chuong-62.md"
+        "path": "content/books/mr-yay/chuong-62.md",
+        "part": ""
       },
       {
         "id": "chuong-63",
         "title": "HỒI TƯỞNG",
-        "file": "content/books/mr-yay/chuong-63.md"
+        "path": "content/books/mr-yay/chuong-63.md",
+        "part": ""
       },
       {
         "id": "chuong-64",
         "title": "NGƯỜI PHA CHẾ",
-        "file": "content/books/mr-yay/chuong-64.md"
+        "path": "content/books/mr-yay/chuong-64.md",
+        "part": ""
       },
       {
         "id": "chuong-65",
         "title": "THÁNG SÁU - CHƠI GOLF TRÊN PHỐ",
-        "file": "content/books/mr-yay/chuong-65.md"
+        "path": "content/books/mr-yay/chuong-65.md",
+        "part": ""
       },
       {
         "id": "chuong-66",
         "title": "THÔI MIÊN",
-        "file": "content/books/mr-yay/chuong-66.md"
+        "path": "content/books/mr-yay/chuong-66.md",
+        "part": ""
       },
       {
         "id": "chuong-67",
         "title": "MERMAN",
-        "file": "content/books/mr-yay/chuong-67.md"
+        "path": "content/books/mr-yay/chuong-67.md",
+        "part": ""
       },
       {
         "id": "chuong-68",
         "title": "ROBERT KAI",
-        "file": "content/books/mr-yay/chuong-68.md"
+        "path": "content/books/mr-yay/chuong-68.md",
+        "part": ""
       },
       {
         "id": "chuong-69",
         "title": "SẮP ĐẾN GIỜ DIỄN",
-        "file": "content/books/mr-yay/chuong-69.md"
+        "path": "content/books/mr-yay/chuong-69.md",
+        "part": ""
       },
       {
         "id": "chuong-70",
         "title": "KHÚC ĐỆM - MỘT CHÚ CHÓ CỰC KỲ NGOAN",
-        "file": "content/books/mr-yay/chuong-70.md"
+        "path": "content/books/mr-yay/chuong-70.md",
+        "part": ""
       },
       {
         "id": "chuong-71",
         "title": "HẠ CHÍ - MR. YAY LÀM NÊN CHUYỆN",
-        "file": "content/books/mr-yay/chuong-71.md"
+        "path": "content/books/mr-yay/chuong-71.md",
+        "part": ""
       },
       {
         "id": "chuong-72",
         "title": "THU PHÂN - NHỮNG BƯỚC ĐI TIẾP THEO CỦA MR. YAY",
-        "file": "content/books/mr-yay/chuong-72.md"
+        "path": "content/books/mr-yay/chuong-72.md",
+        "part": ""
       },
       {
         "id": "chuong-73",
         "title": "LỜI CẢM ƠN",
-        "file": "content/books/mr-yay/chuong-73.md"
+        "path": "content/books/mr-yay/chuong-73.md",
+        "part": ""
       }
     ],
     "publishedAt": "2026-11-04",
