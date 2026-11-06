@@ -1977,7 +1977,7 @@
 
         ${lockBoxHtml}
 
-        <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.85rem;">
           Chọn định dạng sách điện tử hoặc tài liệu đọc offline:
         </p>
 
@@ -1993,16 +1993,16 @@
           isUnlocked ? `
             <a href="${book.downloads.epub}" download="${book.id}.epub" class="download-option-btn">
               <div>
-                <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+                <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
               </div>
               <span class="download-badge">TẢI VỀ</span>
             </a>
           ` : `
             <div class="download-option-btn download-locked-btn" id="btn-locked-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
               <div>
-                <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
+                <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
               </div>
               <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
@@ -2010,8 +2010,8 @@
         ) : `
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
-              <div style="font-weight: 700;">Sách Điện Tử (.EPUB)</div>
-              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang được biên tập và xuất bản</div>
+              <div style="font-weight: 700;">Sách Tiếng Việt (.EPUB)</div>
+              <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang được biên tập và xuất bản</div>
             </div>
             <span class="badge-tag">SẮP CÓ</span>
           </div>
@@ -2023,7 +2023,7 @@
             <a href="${book.downloads.pdf}" download="${book.id}.pdf" class="download-option-btn">
               <div>
                 <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
               </div>
               <span class="download-badge">TẢI VỀ</span>
             </a>
@@ -2031,7 +2031,7 @@
             <div class="download-option-btn download-locked-btn" id="btn-locked-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
               <div>
                 <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
               </div>
               <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
             </div>
@@ -2040,7 +2040,7 @@
           <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
             <div>
               <div style="font-weight: 700;">Tài Liệu Đọc In (.PDF)</div>
-              <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang hoàn thiện định dạng trang in</div>
+              <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang hoàn thiện định dạng trang in</div>
             </div>
             <span class="badge-tag">SẮP CÓ</span>
           </div>
@@ -2059,10 +2059,9 @@
               <a href="${bilingualEpub}" download="${book.id}-song-ngu.epub" class="download-option-btn download-bilingual-option">
                 <div>
                   <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Sách Điện Tử Song Ngữ (.EPUB)
-                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                    Sách Song Ngữ (.EPUB)
                   </div>
-                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh gốc chuẩn xác</div>
+                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
                 </div>
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
@@ -2070,10 +2069,9 @@
               <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
                 <div>
                   <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
-                    Sách Điện Tử Song Ngữ (.EPUB)
-                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
+                    Sách Song Ngữ (.EPUB)
                   </div>
-                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh gốc chuẩn xác</div>
+                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
                 </div>
                 <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
               </div>
@@ -2081,8 +2079,8 @@
           ) : `
             <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
               <div>
-                <div style="font-weight: 700;">Sách Điện Tử Song Ngữ (.EPUB)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang được biên tập và xuất bản</div>
+                <div style="font-weight: 700;">Sách Song Ngữ (.EPUB)</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang được biên tập và xuất bản</div>
               </div>
               <span class="badge-tag">SẮP CÓ</span>
             </div>
@@ -2095,9 +2093,8 @@
                 <div>
                   <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
                     Tài Liệu Song Ngữ (.PDF)
-                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
                   </div>
-                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng trang in song ngữ đối chiếu song song</div>
+                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng trang in song ngữ đối chiếu song song</div>
                 </div>
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
@@ -2106,9 +2103,8 @@
                 <div>
                   <div style="font-weight: 700; display: flex; align-items: center; gap: 0.45rem;">
                     Tài Liệu Song Ngữ (.PDF)
-                    <span class="badge-tag badge-bilingual-tag">SONG NGỮ</span>
                   </div>
-                  <div style="font-size: 0.78rem; color: var(--text-tertiary);">Định dạng trang in song ngữ đối chiếu song song</div>
+                  <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Định dạng trang in song ngữ đối chiếu song song</div>
                 </div>
                 <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
               </div>
@@ -2117,7 +2113,7 @@
             <div class="download-option-btn" style="opacity: 0.55; cursor: not-allowed;">
               <div>
                 <div style="font-weight: 700;">Tài Liệu Song Ngữ (.PDF)</div>
-                <div style="font-size: 0.78rem; color: var(--text-tertiary);">Đang hoàn thiện định dạng trang in song ngữ</div>
+                <div style="font-size: 0.75rem; color: var(--text-tertiary); line-height: 1.35;">Đang hoàn thiện định dạng trang in song ngữ</div>
               </div>
               <span class="badge-tag">SẮP CÓ</span>
             </div>
