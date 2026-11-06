@@ -152,7 +152,7 @@
   }
 
   // Helper check if book has bilingual edition
-  const BILINGUAL_BOOK_IDS = ['bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay'];
+  const BILINGUAL_BOOK_IDS = ['bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
   function checkBookHasBilingual(book) {
     if (!book) return false;
     return Boolean(
@@ -2039,7 +2039,8 @@
     const bilingualEpub = book.downloads?.bilingual?.epub || book.downloads?.bilingualEpub || (
       book.id === 'bay-cong-thuc-lam-nen-cach-mang' ? 'content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub' :
       book.id === 'cua-anh-cua-em' ? 'content/downloads/cua-anh-cua-em-song-ngu.epub' :
-      book.id === 'mr-yay' ? 'content/downloads/mr-yay-song-ngu.epub' : null
+      book.id === 'mr-yay' ? 'content/downloads/mr-yay-song-ngu.epub' :
+      book.id === 'tam-huong-vi-cua-su-phan-boi' ? 'content/downloads/tam-huong-vi-cua-su-phan-boi-song-ngu.epub' : null
     );
     const bilingualPdf = book.downloads?.bilingual?.pdf || book.downloads?.bilingualPdf || null;
     const hasBilingualEpub = Boolean(bilingualEpub);

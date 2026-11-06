@@ -1,144 +1,72 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+# Món Thứ Ba • Thức Ăn Chuyến Bay
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*Món Thứ Ba • Thức Ăn Chuyến Bay*
 
-*Dù bản thân nó đã là một bữa ăn thịnh soạn và cân bằng dưỡng chất, món bánh enchilada này vẫn an toàn nhất khi được thưởng thức cùng một lượng lớn rượu nồng hoặc các thức uống say sưa khác nhằm làm phân tâm khỏi những hiệu ứng ma thuật của chúng, chí ít là khi bạn đang ngồi giữa những người mà mình muốn trao trọn niềm tin.*
+*Một món ăn vặt hoàn hảo để mang theo trên đường, những quả trứng luộc chiên này bùng nổ hương vị khiến người ta chỉ muốn kề bên một ngụm bia đen mát lạnh và làn gió biển mơn man. Để có một hương vị thanh mát hơn, hãy gói chúng lại bằng rau xà lách lá (không dùng xà lách Romaine!).*
 
-  **Nguyên liệu** (khẩu phần cho 3 đến 4 người):
+**Nguyên liệu (khẩu phần cho 4 người):**
 
-    - 450g nấm tươi (dùng nấm đùi gà cho kết cấu và hương vị hoàn hảo nhất)
+- 8 muỗng 18–20g trứng điểu sư (tương đương khoảng 8 quả trứng gà tiêu chuẩn)
 
-      
-- **Hỗn hợp ướp nấm:** 
-- Nước cốt 1 quả chanh
-        
-- ½ cốc bia đen
-        
-- 1 thìa canh dầu quả bơ
-        
-- 2 thìa cà phê bột ớt paprika
-        
-- 1 thìa cà phê bột tỏi
-        
-- 1 thìa cà phê bột thì là Ai Cập
-        
-- ½ thìa cà phê bột ớt
-        
-- ½ thìa cà phê lá oregano khô
-        
-- 1 thìa cà phê muối biển
+- Nước
 
-      
-- 400g thịt xông khói quái thú lợn rừng Badgeboar
+- Muối
 
-      
-- **Hỗn hợp ướp thịt xông khói:** 
-- Nước cốt 2 quả chanh
-        
-- ¼ cốc bia đen
-        
-- ¼ cốc nước cam tươi
-        
-- 1 thìa canh dầu quả bơ
-        
-- 1 thìa cà phê bột ớt paprika
-        
-- 1 thìa cà phê bột tỏi
-        
-- 1 thìa cà phê bột thì là Ai Cập
-        
-- ½ thìa cà phê bột ớt
-        
-- ½ thìa cà phê lá oregano khô
-        
-- 2 thìa cà phê muối biển
+- ¼ cốc dầu dừa, được đun nóng và chia phần
 
-      
-- 1 thìa canh dầu ô liu
+- 8 tép tỏi, bóc vỏ
 
-      
-- 1 củ hành tây vàng, thái hạt lựu
+- 1 thìa cà phê hạt thì là
 
-      
-- 3 ½ cốc nước xốt enchilada đỏ
+**Hỗn hợp gia vị:**
 
-      
-- Dầu thực vật (dùng để rán sơ vỏ bánh)
+- 1 thìa cà phê garam masala
 
-      
-- 12 vỏ bánh ngô tortilla
+- 1 thìa cà phê bột ớt
 
-      
-- 2 cốc phô mai Jack vân cẩm thạch, bào sợi
+- ½ thìa cà phê bột thì là
 
-      
-- Rau mùi tươi, dùng để trang trí
+- ½ thìa cà phê bột rau mùi
 
-    
+- ½ thìa cà phê ớt đỏ giã nhỏ
 
-**Các bước thực hiện:**
+- ½ thìa cà phê tiêu đen
 
-    - Cắt bỏ phần mũ nấm, dùng nĩa tước nhỏ phần thân nấm thành từng sợi dài. Dùng khăn sạch ấn nhẹ lên các sợi nấm để ép ráo bớt lượng nước thừa.
+- Muối vừa ăn
 
-      
-- Làm nóng sẵn lò nướng ở nhiệt độ 175°C.
+**½ thìa cà phê nước cốt chanh**
 
-      
-- Khuấy đều toàn bộ nguyên liệu của phần nước xốt ướp nấm trong một chiếc bát lớn rồi trút phần nấm đã xé sợi vào. Ướp trong 15 phút để sợi nấm ngấm đẫm gia vị.
+1. Các bước thực hiện:
 
-      
-- Dùng muôi thủng vớt nấm ra khỏi nước xốt, rải đều thành một lớp duy nhất trên khay nướng. Nướng trong khoảng 30 phút hoặc cho đến khi nấm ráo kiệt nước, lưu ý lật mặt nấm một lần giữa chừng.
+2. Đặt trứng vào một chiếc nồi nông lòng khi chưa bật bếp và đổ nước ngập vừa tới mặt trứng. Đun sôi nước, nhấc khỏi bếp và đậy nắp, ngâm trong 12 phút.
 
-      
-- Trong lúc nướng nấm, thái thịt xông khói quái thú lợn rừng Badgeboar thành các dải mỏng cỡ 5cm x 1cm, sau đó trộn đều cùng hỗn hợp nước xốt ướp thịt tương tự.
+3. Trong lúc luộc trứng, hãy chuẩn bị một chậu nước đá và rắc vào đó một nhúm muối. Dùng thìa có lỗ vớt trứng cho vào chậu nước đá khi đã ngâm xong và để nguội trong 5 phút.
 
-      
-- Dùng muôi thủng vớt thịt xông khói ra khỏi nước ướp rồi trút vào chảo nguội cùng 1 thìa canh dầu ô liu và hành tây thái hạt lựu. Bật lửa vừa và đảo đều tay cho đến khi thịt xông khói xém cạnh chuyển màu caramen, còn hành tây chín mềm và trong suốt.
+4. Nếu dùng trứng gà làm nguyên liệu thay thế, hãy bóc vỏ trứng khi đã nguội bằng cách lăn chúng trên mặt bàn rồi lột vỏ.
 
-      
-- Lấy nấm nướng ra khỏi lò, trút cùng thịt xông khói và hành tây xào, chắt bỏ toàn bộ phần mỡ và nước tiết dư thừa, sau đó trộn chung tất cả vào một chiếc bát lớn.
+5. Cắt đôi mỗi quả trứng theo chiều dọc và xịt một lớp dầu mỏng để bao phủ bên ngoài.
 
-      
-- Quét đều một lớp nước xốt enchilada đỏ tráng kín đáy khay nướng thủy tinh chịu nhiệt.
+6. Làm nóng chảo ở mức nhiệt trung bình thấp, thêm một thìa canh dầu dừa để tạo một lớp màng thật mỏng, sau đó phi thơm tỏi và hạt thì là trong 8 phút.
 
-      
-- Rót một lớp mỏng dầu thực vật tráng đáy chảo rồi đun nóng trên lửa vừa. Khi dầu lăn tăn sủi bọt, thả từng lá bánh ngô tortilla vào rán sơ chừng 5 giây cho mỗi mặt để vỏ bánh mềm dẻo mà không bị gãy vụn khi cuộn.
+7. Thêm các loại gia vị vào và khuấy liên tục trong 2 phút ở lửa nhỏ. Nếu các gia vị bắt đầu ngả màu nâu, hãy nhấc chảo ra khỏi bếp và tiếp tục khuấy đều.
 
-      
-- Đặt từng chiếc vỏ bánh tortilla mềm lên mặt phẳng, múc một muỗng đầy hỗn hợp nhân nấm, thịt xông khói và hành tây đặt vào chính giữa. Cuộn tròn chặt tay rồi xếp ngay ngắn vào khay nướng đã tráng nước xốt, úp mép gấp của vỏ bánh xuống đáy. Lặp lại thao tác cho đến khi cuốn hết 12 chiếc bánh.
+8. Nhấc khỏi bếp và dùng một chiếc phới dẹt linh hoạt dàn mỏng các loại gia vị (trừ phần tỏi) thành một lớp trải đều dưới đáy chảo.
 
-      
-- Rưới đều phần nước xốt enchilada còn lại phủ kín mặt bánh, sau đó rải đều lớp phô mai bào sợi lên trên cùng.
+9. Đặt chảo trở lại mức nhiệt trung bình thấp và úp mặt phẳng của từng nửa quả trứng xuống lớp gia vị. Rưới nước cốt chanh lên chảo và đun cho đến khi cạn hết (khoảng 1 phút). Trong lúc đó, hãy dùng phới dẹt hất và rưới đều lớp gia vị từ phần chảo còn lại lên phần lưng trứng để chúng bám chặt vào lớp dầu.
 
-      
-- Cho khay vào lò nướng trong 10 phút đến khi phô mai tan chảy béo ngậy. Chuyển lò sang chế độ nướng lửa trên ở mức nhiệt thấp thêm khoảng 2 phút cho đến khi bề mặt xém vàng giòn rụm theo ý muốn.
+**Nhấc khỏi bếp và thưởng thức khi còn nguội.**
 
-      
-- Cẩn thận nhấc khay bánh ra khỏi lò và rắc rau mùi tươi thái nhỏ lên trên để trang trí. Dùng nóng.
+- Hiệu ứng Sức bền Dự kiến:
 
-    
+- Sức bền ma thuật (Endurance), từ 8 đến 10 giờ
 
-**Hiệu ứng Sức bền ma thuật dự kiến:**
+- Tăng cường sức mạnh ở vùng lưng và bắp tay, từ 8 đến 10 giờ
 
-    - Cường hóa Sức bền ma thuật, duy trì tác dụng liên tục từ 2 đến 4 giờ.
+**Khả năng định hướng kỳ lạ và xác định chính xác phương Bắc, từ 8 đến 10 giờ**
 
-      
-- Khai mở năng lực thấu thị trực giác: Nhận biết chuẩn xác khi ai đó đang nói dối, che giấu sự thật, cảm thấy bất an hay nuôi dã tâm dối trá, duy trì tác dụng từ 2 đến 4 giờ.
+- Hiệu ứng Sức bền Tăng cường:
 
-    
+- Chưa rõ Hiệu ứng Biến thể:
 
-**Hiệu ứng Sự tăng cường phép thuật:**
+  - Chưa rõ Hiệu ứng Quái thú Emphon:
 
-    - Chưa xác định
-
-    
-
-**Hiệu ứng Quy luật biến thể:**
-
-    - Chưa xác định
-
-    
-
-**Hiệu ứng quái thú Emphon:**
-
-    - Chưa xác định

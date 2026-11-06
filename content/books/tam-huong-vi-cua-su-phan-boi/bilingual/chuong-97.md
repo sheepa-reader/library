@@ -1,0 +1,22 @@
+# LỜI CẢM ƠN
+
+<p class="para-en">To my family, again. Everyone’s support over the last year has been deeply appreciated and only moderately embarrassing.</p>
+
+<p class="para-vi-sub">Gửi gia đình tôi, thêm một lần nữa. Sự yêu thương và chở che từ tất cả mọi người trong suốt năm qua là điều vô cùng trân quý, dẫu đôi khi cũng khiến tôi có chút ngượng ngùng.</p>
+
+<p class="para-en">To the community of people around me. Brendan for continuing to serve against his will as my sounding board. The Vestry, Iller’s Killers, Cactusland, and Cheese Mountain without whom I would be one author in a maelstrom of naivety. Storm, Mack, Matt, Connor, Cat, Zainab, Ehsan, Cynthia, and Christine for all the support. Selia and Nathan for the weekly opportunity to be someone else. My lovely coworkers at GSPP, especially Bora Reed whose own publishing journey has just launched! And Bew, Pro, Rob, and Shi for everything.</p>
+
+<p class="para-vi-sub">Gửi những người bạn đồng hành quanh tôi. Cảm ơn Brendan vì vẫn tiếp tục kiên nhẫn làm người lắng nghe và thử nghiệm cho những ý tưởng bất chợt của tôi. The Vestry, Iller’s Killers, Cactusland và Cheese Mountain, những người mà nếu thiếu họ, tôi sẽ chỉ là một kẻ đơn độc lạc lõng giữa những cơn bão hỗn độn trong tâm trí. Cảm ơn Storm, Mack, Matt, Connor, Cat, Zainab, Ehsan, Cynthia và Christine vì mọi sự giúp đỡ nhiệt thành. Cảm ơn Selia và Nathan vì cơ hội hàng tuần được hóa thân thành một ai đó khác. Những đồng nghiệp đáng yêu của tôi tại GSPP, đặc biệt là Bora Reed, người vừa chính thức khởi động hành trình xuất bản của riêng mình! Và Bew, Pro, Rob, Shi vì tất cả mọi điều tuyệt vời.</p>
+
+<p class="para-en">To my champions in publishing. My agent, Harry Illingworth for being a constant source of support. Helen Edwards for subjecting the French to my nonsense. My editors, Davi and Cat for making this story the best version it can be. Kerby, Jane, and Luan for making this book look absurdly good, again. Nate for his copyedits, and Dan and Jo for their proofreads. Daphne for founding the most author-friendly publisher there is. Caitlin and Imi for fighting for visibility. Shaun for lending his incredible voice talents to the audiobooks.</p>
+
+<p class="para-vi-sub">Gửi những người ủng hộ tôi trong ngành xuất bản. Người đại diện của tôi, Harry Illingworth, vì luôn là điểm tựa động viên vững chắc. Helen Edwards vì đã kiên nhẫn chăm chút từng câu chữ tiếng Pháp cho những ý tưởng kỳ lạ của tôi. Các biên tập viên của tôi, Davi và Cat, vì đã nhào nặn câu chuyện này thành phiên bản hoàn hảo nhất có thể. Kerby, Jane và Luan vì lại một lần nữa khoác lên cuốn sách này một diện mạo đẹp đến ngỡ ngàng. Nate vì công sức biên tập bản thảo tỉ mỉ, cùng Dan và Jo vì khâu hiệu đính cẩn trọng. Daphne vì đã sáng lập nên một nhà xuất bản thân thiện với tác giả nhất từ trước đến nay. Caitlin và Imi vì đã chiến đấu hết mình cho các chiến dịch quảng bá. Shaun vì đã cống hiến tài năng lồng tiếng tuyệt vời của mình cho các ấn bản sách nói.</p>
+
+<p class="para-en">To the publishing apparatus, generally. The booksellers who make it all worth it and the influencers who continue to talk about Seven Recipes. Waterstones, The Broken Binding, and Caffeine & Legends for the beautiful editions that built more interest in my work. The lovely people who have DMed or emailed me with their excitement and appreciation of the books. You all make the journey meaningful.</p>
+
+<p class="para-vi-sub">Gửi toàn thể ngành sách rộng lớn. Những người bán sách tận tâm, những người đã biến tất cả nỗ lực này trở nên vô cùng xứng đáng, và những nhà sáng tạo nội dung nhiệt huyết, những người vẫn không ngừng nhắc nhớ về *Seven Recipes*. Cảm ơn Waterstones, The Broken Binding và Caffeine & Legends vì những ấn bản đặc biệt tuyệt đẹp đã thu hút thêm nhiều sự quan tâm của độc giả dành cho tác phẩm của tôi. Cảm ơn những độc giả đáng mến đã gửi tin nhắn hoặc viết thư chia sẻ niềm hứng khởi và tình cảm trân trọng dành cho bộ sách. Tất cả các bạn đã làm cho hành trình sáng tạo này trở nên trọn vẹn ý nghĩa.</p>
+
+<p class="para-en">And finally, to chefs out there innovating on centuries of tradition. Your work paves the way for this story.</p>
+
+<p class="para-vi-sub">Và cuối cùng, xin gửi lời tri ân sâu sắc đến những đầu bếp ngoài kia đang ngày đêm không ngừng đổi mới những truyền thống ẩm thực đã tồn tại qua hàng thế kỷ. Chính niềm đam mê và cống hiến của các bạn là cội nguồn cảm hứng mở đường cho câu chuyện này.</p>
+

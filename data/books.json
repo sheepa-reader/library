@@ -1955,7 +1955,8 @@
     "description": "Nối tiếp những biến động chấn động sau khi Paprick phơi bày sự mục ruỗng của giới ẩm thực cung đình, Tám Hương Vị Của Sự Phản Bội đẩy cuộc nổi dậy lên một quy mô khốc liệt hơn bao giờ hết. Khi bí mật về các công thức ma thuật cổ xưa bắt đầu rò rỉ ra ngoài bức tường hoàng thành, giới Thượng Phẩm và những bang hội đầu bếp tinh hoa đã phát động một chiến dịch thanh trừng tàn bạo. Paprick cùng các đồng minh buộc phải dấn thân vào những vùng đất hoang dã chưa từng được khai phá để săn lùng tám nguyên liệu cấm – tương ứng với tám phong vị ma thuật có thể xoay chuyển cục diện cuộc chiến. Không chỉ đối mặt với những quái thú khổng lồ hung bạo bậc nhất, anh còn phải đương đầu với sự phản bội rình rập ngay trong hàng ngũ những kẻ cùng chung chí hướng. Mỗi món ăn giờ đây không còn đơn thuần là sự sáng tạo nghệ thuật, mà chính là lằn ranh sinh tử định đoạt tự do của toàn bộ nhân dân.",
     "downloads": {
       "epub": "content/downloads/tam-huong-vi-cua-su-phan-boi.epub",
-      "pdf": ""
+      "pdf": "",
+      "bilingualEpub": "content/downloads/tam-huong-vi-cua-su-phan-boi-song-ngu.epub"
     },
     "chapters": [
       {
@@ -2148,74 +2149,74 @@
       },
       {
         "id": "chuong-32",
-        "title": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "title": "Món Thứ Ba • Thức Ăn Chuyến Bay",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-32.md"
       },
       {
         "id": "chuong-33",
         "title": "24 GIA TỘC ENGI",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-33.md"
       },
       {
         "id": "chuong-34",
         "title": "25 HIỆN TRƯỜNG VỤ ÁN",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-34.md"
       },
       {
         "id": "chuong-35",
         "title": "26 TIN TỨC",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-35.md"
       },
       {
         "id": "chuong-36",
         "title": "27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-36.md"
       },
       {
         "id": "chuong-37",
         "title": "28 SHEPHERD VÀ TERRY",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-37.md"
       },
       {
         "id": "chuong-38",
         "title": "29 BẢN THỂ KHÁC",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-38.md"
       },
       {
         "id": "chuong-39",
         "title": "30 TÔN TRỌNG BẬC TRÊN",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-39.md"
       },
       {
         "id": "chuong-40",
         "title": "31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-40.md"
       },
       {
         "id": "chuong-41",
         "title": "32 LỊCH SỬ TỪ CỘI NGUỒN",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-41.md"
       },
       {
         "id": "chuong-42",
         "title": "MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-42.md"
       },
       {
         "id": "chuong-43",
         "title": "33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI",
-        "part": "Món Thứ Nhất • Bánh Enchilada Thấu Suốt",
+        "part": "Món Thứ Ba • Thức Ăn Chuyến Bay",
         "path": "content/books/tam-huong-vi-cua-su-phan-boi/chuong-43.md"
       },
       {
@@ -2560,7 +2561,8 @@
     },
     "awards": [
       "Series Thực Đơn Sinh Tồn Tập 2 — Độc giả bình chọn xuất sắc"
-    ]
+    ],
+    "hasBilingual": true
   },
   {
     "id": "cua-anh-cua-em",
