@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi
 
 Colin đứng phía sau chiếc bàn chơi bài, trong khi những người còn lại ngồi đối diện hắn, dàn ngang dọc theo thành đệm bọc da uốn cong, tựa như họ có mặt ở đây để chơi xì dách và hắn là kẻ chia bài. Hắn ngỏ ý mời họ uống whisky, nhưng không một ai muốn chuốc lấy cơn say. Thay vào đó, Gwen đi pha trà.

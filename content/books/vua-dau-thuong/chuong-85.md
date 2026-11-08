@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 6.
 
 Van vẫn đang ngồi quấn chặt tấm ga trải giường quanh người thì Valentine bước vào phòng cùng một cô y tá và một tên tay chân hộ tống lực lưỡng.

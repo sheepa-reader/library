@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 1.
 
 Chiếc Gulfstream đáp xuống đường băng sân bay Heathrow êm ru, chẳng một tiếng xóc nảy hay vết rít lốp nào, và Colin Wren thong thả tháo tai nghe ra, vô cùng hài lòng trước cú hạ cánh hoàn mỹ của mình. Hắn cảm thấy bừng bừng sinh lực sau chuyến bay sáu tiếng đồng hồ vượt Đại Tây Dương, trong khoang chỉ độc mỗi hắn cùng cô nàng cơ phó duyên dáng Ronnie, một cô gái hai mươi chín tuổi với bờ môi thoa son hồng ngọt ngào như kẹo cao su và mái tóc nâu uốn lọn rối bù đầy hoang dại. Hắn thừa biết Ronnie đang râm ran bàn tán với hội bạn gái xem liệu rốt cuộc Colin có chịu ngủ với cô ta hay không. Hắn nắm rõ mồn một điều đó bởi sáng sớm hôm nay hắn đã đọc sạch sành sanh toàn bộ tin nhắn trong sáu tuần qua trên máy cô nàng. Colin chưa từng đi công tác với bất kỳ ai mà lại không kiểm tra kỹ lưỡng email, tin nhắn văn bản và nhật ký cuộc gọi của họ, dẫu cho hắn có quen biết đối phương suốt nhiều năm trời đi chăng nữa.

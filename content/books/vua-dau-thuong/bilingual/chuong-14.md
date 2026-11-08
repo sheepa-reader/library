@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười một
 
 <p class="para-en">They gathered in the dimness of Arthur’s bedroom, with the TV off, and Gwen saw to them all. She slipped into the kitchen and returned with a bag of frozen kernel corn for Donovan’s mashed nuts. He sprawled on the floor, head in Allie’s lap, and held the bag to his crotch. Gwen disappeared again and returned a moment later with a bottle of Advil and another of Tylenol. Donna and Van took two of each, while Arthur settled for three Tylenol. They swallowed them down with cans of Milwaukee’s Best, which was Van’s favorite beer, because it was cheap.</p>

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười bốn
 
 Vào tuần thứ hai của tháng Mười Một, Arthur trộm một cuốn khảo luận về nghề đóng tàu xuất bản năm 1765, bọc da bê, in trên giấy vải lanh, trị giá khoảng hai ngàn đô la. Tại Đức, sinh viên đại học vác búa tày đập phá Bức tường Berlin, trèo lên những đống đổ nát để vẫy cờ và giơ cao nắm đấm. Chủ nghĩa cộng sản đã sụp đổ ở Đông Đức, một sự kiện làm chấn động thế giới, nhưng Arthur hầu như chẳng hề bận tâm.

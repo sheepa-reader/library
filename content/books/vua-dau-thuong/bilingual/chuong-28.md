@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi lăm
 
 <p class="para-en">Van found his voice first. “You’re smaller’n I expected, son. Somehow I didn’t think you’d fit under a helmet.”</p>

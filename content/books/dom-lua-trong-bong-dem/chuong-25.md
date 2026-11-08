@@ -1,6 +1,6 @@
-# CHƯƠNG 21
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 21
 
 Sau buổi làm việc tại đồn cảnh sát, Cảnh sát trưởng Dooley đặt hai mẹ con tôi trước hai ngả đường lựa chọn: hoặc là ở lại đồn tạm trú cho đến khi cơ quan chức năng hoàn tất lệnh bắt giữ cha tôi, hoặc là quay trở về nhà, tuyệt đối ngậm chặt miệng không hé răng nửa lời với bất kỳ ai và kiên nhẫn chờ đợi.
 

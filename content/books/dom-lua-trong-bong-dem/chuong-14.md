@@ -1,6 +1,6 @@
-# CHƯƠNG 10
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 10
 
 Lena không phải một cô gái ngoan, nhưng chị ấy luôn đối đãi rất tốt với tôi. Tôi sẽ không tìm cách bao biện cho chị, cũng chẳng việc gì phải tô hồng sự thật. Chị ấy vốn là một kẻ thích gây rối, một cái gai nhức nhối trong mắt thiên hạ, một kẻ dường như tìm thấy niềm khoái lạc khi khiến người đối diện phải khó chịu và trơ mắt nhìn họ lúng túng thẹn thùng. Nếu không thì cớ gì một nữ sinh mười lăm tuổi lại mặc áo nâng ngực cũn cỡn tới trường, vừa quấn lọn tóc tết kiểu Pháp quanh chiếc móng tay bị cắn nham nhở, vừa cắn bờ môi cong cớn đầy đặn của mình? Chị là một phụ nữ giam hãm trong thể xác một cô thiếu nữ, hay một thiếu nữ lạc lối trong thể xác của một người đàn bà; cả hai cách gọi đều chuẩn xác. Vừa quá già dặn lại vừa quá ngây thơ, một hình thể và tâm trí dường như đã chạy trước tuổi tác quá xa. Thế nhưng đâu đó ở con người ấy, ẩn sau lớp phấn son dày cộp và làn khói thuốc mù mịt bao bọc lấy chị sau mỗi hồi chuông tan trường, vẫn có những khoảnh khắc vụn vỡ nhắc ta nhớ rằng chị cũng chỉ là một đứa trẻ mới lớn. Một cô bé cô độc và lạc lõng giữa cõi đời.
 

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Tám
 
 <p class="para-en">Llewellyn Wren threaded the movie reel himself. It turned out they weren’t watching any scary movie . . . but one starring Llewellyn himself.</p>

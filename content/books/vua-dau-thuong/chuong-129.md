@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 2.
 
 Hơn chín giờ tối một chút, Gwen đẩy cửa bước ra từ căn phòng bếp và ngồi xuống bậc thềm phía trên khoảng sân sau của mình. Sườn dốc phủ tuyết trước mặt cô sụt xuống dốc đứng, tràn ngập bụi gai cùng những đám đá vụn lởm chởm. Đâu đó ở dưới đáy khe vực, dòng nước lạnh buốt đang róc rách chảy qua một con suối nhỏ. Gwen nhận ra rằng giờ đây cô muốn được ở ngoài trời hầu hết thời gian, muốn nếm trải vị không khí. Muốn vùi đôi tay vào lớp tuyết, cảm nhận cái lạnh buốt đang đốt cháy làn da trần của mình. Cô muốn cảm nhận tất cả, chạm vào tất cả, khi bản thân vẫn còn có thể làm được. Bảy tuần ngắn ngủi để sống.

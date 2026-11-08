@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 9.
 
 <p class="para-en">It was three hundred steps to the attic, most of them through a narrow stone chimney, into the yellow reek of the smoke. The firefighters worked from the final landing, blasting at the flames beneath the roof of Notre-Dame with low-pressure deluge guns. Leonard Debois thought it was like using one of his son’s Super Soaker squirt guns on a bonfire, but no one knew what kind of damage a higher-pressure blast of water might do to ancient stone, stained glass, and thirteenth-century oak. Leonard Debois was near the top of the stairs, holding the serpentine length of the hose—as thick as a boa constrictor—when he heard a terrible, squalling roar, and Jean Laurent, on the step above him, began to scream Revenir! Revenir! Men struggled back down the stone steps while the sound rose and rose around them, until Debois could hear nothing else, until his teeth vibrated from it.</p>

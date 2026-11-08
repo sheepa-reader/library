@@ -1,6 +1,6 @@
-# Chương 41
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 41
 
 BÓNG TỐI SỤP XUỐNG khi chúng tôi tụ họp tại Khu Tam Tòa, nằm giữa Bộ Quân đoàn, Bộ Công Binh và ngọn tháp Bộ Tư pháp nay đã đóng kín. Người ta đã dựng một giàn thiêu lớn ở đó, một cấu trúc bốn xà với phần mái đan kết cầu kỳ. Ở trung tâm là những chồng gỗ hắc mộc ngâm đẫm dầu, và phía trên các chồng gỗ đặt bốn bức tượng gỗ được xức dầu màu đen, tím, đỏ và lam, một đài hỏa táng tượng trưng cho mỗi Bộ ngành đã mất đi các sĩ quan.
 

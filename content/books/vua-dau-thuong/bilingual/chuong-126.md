@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 19.
 
 <p class="para-en">He’d told Gwen that they shouldn’t give up on Arthur because Arthur would never give up on them. But it was tricky to define “giving up.” Colin stayed three more days, then offered to fly Gwen back to the States on the Gulfstream. She said she was going to stay awhile longer. He had pushed his stay in the United Kingdom as long as he safely felt he could. Dragonware was pitching a suite of services to the Department of Homeland Security in another week, and he had several venture capital offers to give his consideration. A driver in a black Mercedes—the same model as the one they had at Heathrow for VIPs—picked him up in Tintagel and rushed him back to London and the Savoy hotel.</p>

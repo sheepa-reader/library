@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 15.
 
 Allie vuốt mái tóc của Donna, gạt sang một bên và vén khỏi gáy cô. Ngay giữa hai đốt sống lưng của Donna vướng chiếc khóa của sợi dây chuyền sắt dẹt, kỳ lạ ấy. Allie bóp nhẹ lẫy khóa bằng móng tay cái, thế là sợi dây chuyền bật ra, rơi xuống đùi cô, trượt sang một nửa và nằm kẹt dưới người Donna. Đó là phần dễ dàng.

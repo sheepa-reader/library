@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 19.
 
 Van không tài nào chợp mắt nổi. Anh ngồi trên chiếc ghế tựa lưng thẳng ngay trước ô cửa kính lớn, đăm đăm nhìn ra hành lang; đó cũng là lý do vì sao anh vẫn còn thức trơ trơ vào cái đêm y tá Dover được đưa trở lại.

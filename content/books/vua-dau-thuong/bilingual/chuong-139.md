@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 12.
 
 <p class="para-en">Gwen went out on the back step at two in the morning to clear her head and count the planes flying out of Portland. She was up to three when the door softly shut behind her.</p>

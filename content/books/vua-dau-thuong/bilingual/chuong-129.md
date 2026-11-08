@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 2.
 
 <p class="para-en">A little after nine, Gwen let herself out of the kitchen and sat on the back step above her backyard. The snowy slope before her fell steeply away into brambles and a strew of rocks. Somewhere at the bottom of the drop, cold water gurgled in a brook. Gwen found she wanted to be outside most of the time now, wanted to taste the air. Wanted to put her hands in the snow, feel it burning her bare skin. She wanted to feel it all—touch it all—while she still could. Seven weeks to live.</p>

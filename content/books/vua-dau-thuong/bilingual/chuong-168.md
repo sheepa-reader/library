@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 6.
 
 <p class="para-en">In the summer of 2018, fire raced through the blond, sere grass in the pastureland north of Hopland in Mendocino County, California. Red pines caught and went up like torches. A hot and dry wind pushed the fire steadily south and west. The blaze leapt dirt roads, creeks, highways. A thunderhead of black smoke, miles wide, mounted in the skies, above the helicopters dumping foam and water on the flames. As the heat climbed, redwoods began to explode like sticks of dynamite, the sap in them boiling and causing the wood to rupture. That night, the sky was filled with a billion whirling sparks, an alien constellation playing out against a long, smoky darkness. The fire would burn all summer and into September, consuming over six hundred square miles of farm and forest, hill and dale, incinerating thousands of animals and any number of unlucky Californians who failed to evacuate quickly enough.</p>

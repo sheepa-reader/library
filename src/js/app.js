@@ -623,6 +623,7 @@
     const pLines = html.split(/\n\s*\n/);
     let hasAssignedDropCap = false;
     let foundFirstNarrative = false;
+    let hasEncounteredHeading = false;
 
     const renderedHtml = pLines.map(line => {
       line = line.trim();
@@ -651,6 +652,9 @@
       }
 
       if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
+        if (/^<h[1-6]/i.test(line)) {
+          hasEncounteredHeading = true;
+        }
         return line;
       }
       if (/^<p\b/i.test(line)) {
@@ -661,10 +665,14 @@
       if (!foundFirstNarrative) {
         // Regex detecting timestamp / day of week / chapter metadata
         const isDateTimePattern = /^(?:(?:Thứ\s+(?:Hai|Ba|Tư|Năm|Sáu|Bảy)|Chủ\s*nhật|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Ngày|Tháng)\b[\w\s,.:\/-]*|\d{1,2}[:h]\d{2}(?:[:\s]\d{2})?(?:\s*(?:AM|PM|am|pm|phút|giờ))?|.*(?:giờ\s*\d+\s*phút).*)$/i.test(plainText);
-        const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(plainText) && plainText.length < 120;
+        const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Course\s+|Book\s+|Part\s+|Tháng\s+|Năm\s+|\b(?:19|20)\d{2}\b|Bảy\s+tuần|Trước\s+|Sau\s+|Halloween|Khúc\s+Chuyển|Khúc\s+Dạo|Khúc\s+Đệm|Hạ\s+Chí|Đông\s+Chí|Thu\s+Phân|Xuân\s+Phân|Sáu\s+tháng)/i.test(plainText) && plainText.length < 120;
         const isItalicSubtitle = (/^<em>[^<]+<\/em>$/i.test(line) || /^\*[^*]+\*$/.test(plainText)) && plainText.length < 150;
         const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(plainText) || /^<p class="p-name">/i.test(line)) && plainText.length < 50;
 
+        // Bất kỳ dòng tiêu đề phụ/mục lớn nằm TRƯỚC tiêu đề h1 đều là Eyebrow (nhỏ, in nghiêng, xám, nằm trên)
+        if (!hasEncounteredHeading && (isPartOrCourse || isItalicSubtitle || isDateTimePattern)) {
+          return `<p class="chapter-part-eyebrow text-center" align="center">${line}</p>`;
+        }
         if (isPartOrCourse) {
           return `<p class="chapter-part-eyebrow text-center" align="center">${line}</p>`;
         }
@@ -715,10 +723,10 @@
       }
 
       // Kiểm tra xem cặp đoạn đầu tiên có phải là Mục lớn / Course / Phụ đề chương hay không
-      const isPartOrCoursePair = idx === 1 && (/^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(viPlain) || /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(enPlain));
+      const isPartOrCoursePair = idx === 1 && (/^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Tháng\s+|Năm\s+|\b(?:19|20)\d{2}\b|Bảy\s+tuần|Trước\s+|Sau\s+|Halloween|Khúc\s+Chuyển|Khúc\s+Dạo|Khúc\s+Đệm|Hạ\s+Chí|Đông\s+Chí|Thu\s+Phân|Xuân\s+Phân|Sáu\s+tháng)/i.test(viPlain) || /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Six\s+months|January|February|March|April|May|June|July|August|September|October|November|December)/i.test(enPlain));
       const isSubtitlePair = idx === 1 && (viText.startsWith('<em>') || viText.startsWith('*')) && (enText.startsWith('<em>') || enText.startsWith('*')) && viPlain.length < 150;
 
-      if (isPartOrCoursePair) {
+      if (isPartOrCoursePair || isSubtitlePair) {
         const cleanSubVi = viPlain.replace(/^[\*_\s]+|[\*_\s]+$/g, '');
         return `\n<div class="bilingual-pair chapter-part-eyebrow text-center" data-pair-idx="${idx}"><p class="chapter-part-eyebrow text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
       }

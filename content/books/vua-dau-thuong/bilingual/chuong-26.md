@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi ba
 
 <p class="para-en">At some point they made their way to the study and fell into their usual stools around the card table. Arthur wasn’t sure when. He remembered telling Gwen he did want to see a real live dragon . . . and then nothing until they were all sitting around the study, underneath that wall of bright butterflies in their shadow boxes. They were all stoned and determined to stay that way. Later, he believed they stayed high to give themselves moral cover, so they could say they were baked and being silly, and never thought it would work.</p>

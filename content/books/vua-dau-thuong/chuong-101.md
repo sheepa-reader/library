@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 22.
 
 Nguồn điện lại bị cắt đứt thêm một lần nữa đúng vào lúc bọn chúng ập đến tìm anh.

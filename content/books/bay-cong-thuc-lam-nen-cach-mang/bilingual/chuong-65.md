@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 55 Bày biện đồ ăn
 
 <p class="para-en">Knowing I had little time while Laven plated, I focused all my skill on Enhancing the most basic and pure greater recipe on the planet: carnephon milk. One ingredient. One step. An incredibly potent outcome: healing.</p>

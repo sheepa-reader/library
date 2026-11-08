@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười chín
 
 <p class="para-en">Later, Arthur could not quite remember the chronology of events—none of them could.</p>

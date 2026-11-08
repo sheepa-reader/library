@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi bốn
 
 <p class="para-en">The dark man fled across the snow and Arthur Oakes followed.</p>

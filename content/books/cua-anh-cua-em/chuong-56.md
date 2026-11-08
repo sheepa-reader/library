@@ -1,6 +1,6 @@
-# Anh
-
 *SÁU THÁNG SAU*
+
+# Anh
 
 Tôi thừa nhận rằng việc một mình chăm sóc một đứa trẻ chập chững biết đi khó hơn tôi tưởng rất nhiều, nhưng tôi vẫn đang xoay xở được. Tôi nghĩ thế. Suýt thì không qua khỏi. Mấy tuần đầu tiên, tôi phải dựa dẫm khá nhiều vào hàng xóm và lòng tốt của những người xa lạ. Có những người hiểu rõ cháu gái tôi hơn cả tôi, thông qua nhà trẻ và các lớp học khác nhau mà em gái tôi từng đưa con bé đến. Họ đã giúp đỡ rất nhiều, nhưng mọi chuyện vẫn vô cùng khó khăn. Mọi thứ đang dần trở nên dễ thở hơn, và nhịp sống bình thường mới bắt đầu mang lại cảm giác vừa vặn.
 

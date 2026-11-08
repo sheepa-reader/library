@@ -1,6 +1,6 @@
-# CHƯƠNG 2
-
 *THÁNG NĂM, 2019*
+
+# CHƯƠNG 2
 
 Ngành của tôi sống nhờ những khuôn mẫu sáo mòn, tôi biết rõ điều đó. Nhưng cái gì đã thành lối mòn thì cũng đều có lý do của nó.
 

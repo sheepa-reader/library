@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi hai
 
 “Tình hình với Enoch Crane sao rồi?” Van hỏi. “Dạo này gã có thọc cái đó vào cái *bộ, phận, gì, đó* của ai nữa không?”

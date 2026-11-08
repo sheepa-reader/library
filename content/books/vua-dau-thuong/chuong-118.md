@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 11.
 
 Bọn họ bước xuống theo thứ dường như là một bậc thang đá trắng tự nhiên, và trong luồng sáng từ cây đèn pin cường độ cao, những bức tường chói lọi và lấp lánh, như thể bị điểm xuyết những viên ngọc quý hoặc bạc. Trần nhà là một vòm thạch anh hồng, ngập tràn những ngọn giáo hồng ngọc phát quang.

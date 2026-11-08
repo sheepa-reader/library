@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 12.
 
 Họ mất một lúc mới lấy lại được nhịp thở. Svangur đứng cách đó vài thước, dáng khom khom trong bóng tối; tấm thân cao đến bảy feet rưỡi của nó sở hữu đôi tay to như cột điện, khuỷu tay nhô ra cùng cái đầu cục mịch rụt sâu giữa hai bờ vai.

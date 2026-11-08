@@ -1,6 +1,6 @@
-# CHƯƠNG 4
-
 *THÁNG NĂM, 2019*
+
+# CHƯƠNG 4
 
 Chiếc xe của tôi vẫn nổ máy êm ru nơi lối rẽ vào nhà trong khi tôi vội vã lục lọi túi xách, lôi túi thuốc vừa lấy từ hiệu thuốc ra. Tôi xé toạc lớp giấy xi măng, rút lọ thuốc màu cam bên trong, vặn mở nắp rồi trút một viên vào lòng bàn tay. Đoạn, tôi vò nát chiếc vỏ túi, nhét vội cả nó lẫn lọ thuốc vào hộc đựng đồ phía trước cabin.
 

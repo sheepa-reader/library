@@ -1,7 +1,11 @@
+<p class="para-en">*SIX MONTHS LATER*</p>
+
+<p class="para-vi-sub">*SÁU THÁNG SAU*</p>
+
 # Anh
 
 <p class="para-en">It is not my choice to go back to Blackdown today. The idea fills me with the heaviest variety of dread. But I know it’s important to Anna, and it won’t be for long. Just a quick pit stop to check on things before we carry on toward Dorset and the coast. A weekend away from it all, just Anna and me and our niece, who feels more like a daughter every day. Olivia loves the seaside.</p>
-<p class="para-vi-sub">*SÁU THÁNG SAU* Tôi không hề muốn quay lại Blackdown vào hôm nay. Ý nghĩ ấy phủ lên tôi thứ cảm giác ám ảnh nặng nề nhất. Nhưng tôi biết điều đó quan trọng với Anna, và chúng tôi sẽ không ở lại lâu. Chỉ là một điểm dừng chân nhanh chóng để kiểm tra mọi thứ trước khi tiếp tục hành trình hướng về Dorset và vùng biển. Một dịp cuối tuần rũ bỏ mọi lo toan, chỉ có Anna, tôi và đứa cháu gái nhỏ, con bé càng ngày càng mang lại cảm giác thân thương như con ruột. Olivia rất thích biển.</p>
+<p class="para-vi-sub">Tôi không hề muốn quay lại Blackdown vào hôm nay. Ý nghĩ ấy phủ lên tôi thứ cảm giác ám ảnh nặng nề nhất. Nhưng tôi biết điều đó quan trọng với Anna, và chúng tôi sẽ không ở lại lâu. Chỉ là một điểm dừng chân nhanh chóng để kiểm tra mọi thứ trước khi tiếp tục hành trình hướng về Dorset và vùng biển. Một dịp cuối tuần rũ bỏ mọi lo toan, chỉ có Anna, tôi và đứa cháu gái nhỏ, con bé càng ngày càng mang lại cảm giác thân thương như con ruột. Olivia rất thích biển.</p>
 
 <p class="para-en">Us getting back together again was what I always wanted.</p>
 <p class="para-vi-sub">Việc chúng tôi quay lại bên nhau chính là điều tôi luôn hằng mong ước.</p>

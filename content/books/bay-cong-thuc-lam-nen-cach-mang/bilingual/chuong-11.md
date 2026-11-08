@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 6 Cơn cuồng nộ tột cùng của con quái thú bò mộng
 
 <p class="para-en">As Cori shouted at me, Bessa leveled four grain silos. She charged through each like a godly hammer striking anvil. Screams rang across the crowded avenue, bison-drivers risking charges of treason as they frantically abandoned the long multi-axle carts that left the factory each day with Bessa’s spoils and waste. Common and Rare alike ran in every direction.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 20.
 
 <p class="para-en">They took it in shifts to sit with Gwen during visiting hours. On Monday it was Tana in the morning and Allie in the afternoon. In between, Tana and Allie had lunch together in the hospital cafeteria. When they separated—Allie to walk to the elevators, Tana to head to the parking lot—Tana reached to squeeze Allie’s hand and Allie turned to air kiss her cheek and they clonked heads. Allie laughed, rubbed Tana’s head, kissed her skull, and then without thinking, lightly kissed her mouth. It was no big deal at all, Tana didn’t even seem to notice, but when Allie was in the elevator her heart was racing and a chant had started up in her skull, Stupid, stupid, NEEDY, stupid. She wrote and erased a text—Sorry! Accidental kiss!—six times, lacked the courage to hit send every time.</p>

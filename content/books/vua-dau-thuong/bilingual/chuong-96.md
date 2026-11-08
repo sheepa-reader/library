@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 17.
 
 <p class="para-en">They were back for him five days later: Lansing, Salem, and Little Rock. At the sight of them entering his room, Van’s kidneys turned to cold jelly. They’re back to finish what they started last week, he thought. Get ready to go for one last swim.</p>

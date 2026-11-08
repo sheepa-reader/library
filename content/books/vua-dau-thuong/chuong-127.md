@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Khúc Chuyển Tiếp Bốn Gwen, Bị Tấn Công (2015)
 
 Robin Fellows rít một hơi thuốc lá điện tử, lồng đầy buồng phổi bằng làn khói ngọt lịm đến chóng mặt, cô thầm nghĩ vị của nó giống như một thanh sô-cô-la Wispa, rồi cất lời: “Cô đúng là mất trí rồi đấy, con khốn,” sau đó bước ra khỏi xe, dầm mình vào làn mưa.

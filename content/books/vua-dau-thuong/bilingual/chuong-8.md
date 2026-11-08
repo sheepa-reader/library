@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Năm
 
 <p class="para-en">For most of the next thirty-six hours, Arthur felt stunned, as if he had a fever. Everything he ate smelled wrong and tasted spoiled. He sat in hour-long lectures and walked out having heard nothing, learned nothing; he could not have said what was discussed.</p>

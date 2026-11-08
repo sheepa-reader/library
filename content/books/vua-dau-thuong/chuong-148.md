@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 21.
 
 Colin bố trí người gác ngay cửa phòng bệnh, đều là vệ sĩ tư nhân: những gã đàn ông vạm vỡ mặc áo thun polo. Donna lập tức cảm thấy ghê tởm họ; gã ở bên phải với cái đầu cạo trọc cùng bộ râu mép ngớ ngẩn, gã ở bên trái với bộ râu quai nón lởm chởm. Ý nghĩ xẹt qua đầu cô, hoàn toàn điên rồ, là Colin đã thuê đúng những gã lính đánh thuê từng giam cầm cô trên Đảo Cherokee. Nhưng tất nhiên, chẳng còn lại gì từ Tập đoàn Quân sự Tư nhân Thermopylae khi Vua Đau Thương xử lý xong bọn chúng. Mấy tên tay sai của Colin chắc hẳn phải đến từ một tổ chức khác.

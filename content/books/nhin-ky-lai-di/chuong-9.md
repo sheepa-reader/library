@@ -1,6 +1,6 @@
-# 6
-
 *BẢY TUẦN SAU ĐÓ - Tháng Bảy*
+
+# 6
 
 Thứ Sáu, ngày 15 tháng 7 năm 2022
 

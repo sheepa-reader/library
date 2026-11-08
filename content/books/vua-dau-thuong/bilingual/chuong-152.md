@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 25.
 
 <p class="para-en">Tana was in the room when the nurse lifted the bandage to look at Gwen’s tracheostomy—and screamed.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 59 Người mà chúng tôi yêu thương
 
 <p class="para-en">At my command, Bessa lowered us back to the garden.</p>

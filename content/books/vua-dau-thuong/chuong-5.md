@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai
 
 Phòng thăm nuôi gia đình kê sáu chiếc bàn bằng thép không gỉ được bắt vít chặt xuống nền gạch nhơm nhớp. Arthur ngồi vào vị trí quen thuộc, chỉ thoáng liếc qua gia đình Nighswander ở chiếc bàn ngay bên cạnh. Mẹ anh nằm trong số những phạm nhân đầu tiên bước qua cánh cửa, vóc dáng nhanh nhẹn, tự nhiên trong bộ đồng phục phạm nhân màu xanh da trời, mái tóc cắt ngắn gọn gàng.

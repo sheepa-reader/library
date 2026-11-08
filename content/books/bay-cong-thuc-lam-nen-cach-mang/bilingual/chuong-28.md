@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 22 Một món súp kem chết chóc
 
 <p class="para-en">Most nights, Winta greeted me with the day’s menu so I could double-check the pantry. But that night, Winta hurried me to the center of the kitchen where the entire cooking staff crowded around Ilantra, who had her hair up. She wore it up for every demonstration there and in Knifecraft, so I assumed she was going to teach us a technique or lesser recipe.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # Lời Cảm Ơn
 
 <p class="para-en">2022? Wait, what?</p>

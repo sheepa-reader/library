@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 5.
 
 Tình trạng của cô rơi vào cảnh thập tử nhất sinh suốt gần sáu tuần trời. Lần này không còn Máu Thánh Nữ để thúc đẩy quá trình hồi phục cho cô nữa. Cô đã không thể có mặt tại tang lễ của Donna vào tháng Tư, nhưng cô vẫn cố gượng tham dự buổi lễ tưởng niệm vào tháng Tám tại Nhà nguyện Đại học Rackham. Mục sư Erin Oakes là người đọc bài điếu văn. Bà vẫn giữ nét thanh mảnh và đượm buồn như ngày nào, dẫu cho mái tóc cắt ngắn đã bạc trắng tựa bọt sóng ánh bạc dưới trăng.

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 44 Cuốn sách bọc da
 
 <p class="para-en">I committed Chili Control to memory before handing it over to Yenne, who was desperate to read it. When she was finished, I took it back—which was easier said than done—and contemplated what I was going to say to Cutler in the morning. There was nothing more for Yenne to contribute that night, so she headed back to the home she shared with Dyl.</p>

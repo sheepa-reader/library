@@ -1,6 +1,6 @@
-# CHƯƠNG 39
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 39
 
 Tôi tỉnh dậy vì tiếng điện thoại rung trên bàn cạnh giường, nó rung lắc dữ dội trên mặt gỗ cho đến khi rơi xuống sàn tạo nên một tiếng động khô khốc. Tôi lờ đờ mở mắt, nheo lại nhìn chiếc đồng hồ báo thức.
 

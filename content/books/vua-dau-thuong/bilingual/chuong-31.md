@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi tám
 
 <p class="para-en">He was just letting himself into the apartment, back home after his Wednesday Anglo-Saxon seminar, when the phone jangled in the kitchen. He tromped in without getting out of his parka and caught it on the third ring. It was Tana.</p>

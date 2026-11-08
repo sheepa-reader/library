@@ -1,6 +1,6 @@
-# Chương 42
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 42
 
 Tôi ngoái nhìn những tòa tháp Talagray khi cỗ xe xóc nảy trên đường. Bình Nguyên Đại Hải Trình và bức tường biển khổng lồ dần chìm vào màn sương sớm. Tôi nhẩm tính xem mùa mưa còn kéo dài bao nhiêu tháng, lòng trĩu nặng trước một thực tế tàn nhẫn: chỉ vài tháng nữa thôi, một chu kỳ mới lại ập đến.
 

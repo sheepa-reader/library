@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 11.
 
 Kho 12 bốc cháy chưa đầy hai mươi phút trước khi vụ nổ xảy ra. Về sau, một số ít người sống sót cư ngụ ven bến cảng Beirut kể lại rằng âm thanh lúc ấy chẳng hề giống một đám cháy chút nào, nhất là ở thời khắc cuối cùng. Adeline Hamoud, một bé gái tám tuổi được kéo ra từ đống đổ nát của tòa chung cư cách đó nửa dặm, kể rằng trong những giây cuối cùng trước khi vụ nổ bùng lên, có một tiếng rít ràn rạt vang rền, tựa như loài rắn hổ mang nhưng *lại* to hơn thế gấp muôn lần. Con bé bảo âm thanh ấy nghe giống như một con rắn hổ mang to bằng cả chiếc máy bay, đang rít lên và chuẩn bị phóng mình đớp xuống. Đó là điều cuối cùng Adeline nghe thấy trước khi toàn bộ tòa nhà sụp đổ, vùi lấp cơ thể nhỏ bé của em.

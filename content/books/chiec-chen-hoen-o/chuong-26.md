@@ -1,6 +1,6 @@
-# Chương 26
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 26
 
 Trái ngược với cỗ xe ngựa xóc nảy, ồn ào và chao đảo của Bộ Quân đoàn, chiếc xe của gia tộc Haza lại vận hành êm ru, mượt mà và xa hoa đến mức kinh ngạc. Chiếc xe lao đi vun vút, tấm lưng tôi lún sâu vào lớp đệm lót màu xanh phấn mà chẳng hề cảm nhận được một nhịp dằn xóc hay tổn thương nào.
 

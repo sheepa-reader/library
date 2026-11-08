@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi sáu
 
 <p class="para-en">Almost half a year later, on the twenty-third of December, Arthur flew from Heathrow to Logan Airport. Colin Wren was waiting for him on the other side of customs. They crossed the skybridge to the six-story parking garage and Arthur threw his suitcase in the trunk of the ’49 Caddy convertible. Colin put the car in gear and pointed them at Maine.</p>

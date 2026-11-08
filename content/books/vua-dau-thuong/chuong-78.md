@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Hậu Chuyện • Sáu
 
 Họ kết hôn tại một chốn phế tích ngoại giáo tuyệt mỹ, tọa lạc trên những triền đồi lộng gió nhìn xuống vịnh hẹp, vào đúng thời khắc rạng đông. Lễ cưới buộc phải tiến hành từ tờ mờ sớm bởi Allie và Van phải lên đường bay trở về Mỹ cùng bố mẹ cô trước giờ cơm trưa. Hãng hàng không British Airways đã ngỏ ý kính tặng họ cặp vé khoang hạng nhất, nhưng cả hai đều dứt khoát chối từ. Cựu Tổng thống George Bush cha đã hào phóng điều động chiếc phi cơ Gulfstream riêng đến Greenland, sẵn lòng cho mượn chuyên cơ trong trọn vẹn một ngày. Ông và bố của Allie vốn là chỗ bạn hữu thâm tình lâu năm, từng cùng nhau chơi golf, cùng quỳ gối cầu nguyện, từng đi săn vịt trời với Dick Cheney, cùng tranh luận sôi nổi về chính sách nhà nước và bóng bầu dục bên những phần bít tết bò hảo hạng.

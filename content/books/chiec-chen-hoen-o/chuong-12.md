@@ -1,6 +1,6 @@
-# Chương 12
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 12
 
 “Cái hay của lũ giun,” Nusis nói, giọng thản nhiên trong lúc lật tìm trên các kệ sách, “là chúng cực kỳ tháo vát. Tháo vát và sống dai dẳng đến tởm lợm.”
 

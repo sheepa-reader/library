@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 1.
 
 Có một buổi lễ cắt băng khánh thành diễn ra vào lúc mười rưỡi, gồm khoảng vài chục thành viên ban giảng huấn, một vài phóng viên địa phương, một số sinh viên, Donna, Allie và chính Colin, cho Trung tâm Máy Tính Llewellyn Wren do Colin tài trợ. (Báo *Portland Press Herald* đưa tin con số chi phí cuối cùng là 3,6 triệu đô la.) Colin nói vài lời, đứng trước những cánh cửa kính của chiếc hộp kính sáng rực phía sau, rồi hắn cắt một dải băng đen trong lúc vài tia chớp máy ảnh lóe lên. Vị trưởng khoa bảo rằng hắn có thể giữ chiếc kéo.

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 13.
 
 Hắn nhét thanh gươm trở lại lớp lụa lấp lánh, rồi thử rút ra một lần nữa. Mũi kiếm vẫn không hề nhúc nhích. Cảm giác như thể nó đã bị đúc liền vào đá bằng xi măng. Hắn bật cười. Đúng là một trò ảo thuật tuyệt vời.

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 31 Mất tích
 
 <p class="para-en">Cori and I sat at a small table in her threadbare apartment in Common-5. I’d made breakfast—just porridge, because Cori kept little around—and we were getting ready to go see my moms when Yenne pounded on the door, breathless.</p>

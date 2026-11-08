@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 60 Paprick Đồ Tể
 
 <p class="para-en">As Mom’s wail echoed across the silence, I clutched my bloody cleaver with a feral snarl. Enhanced chili roiled in my belly, its conflagration stoking my anger beyond quenching. Grime on my face from Bessa’s mess. Eyes haunted by what I’d just seen and what I intended to see done.</p>

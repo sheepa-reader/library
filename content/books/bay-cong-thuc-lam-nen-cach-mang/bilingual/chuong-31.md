@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 24 Tìm kiếm những câu hỏi
 
 <p class="para-en">I awoke a minute or two later, Yenne and Laven cradling my back. As I groaned, Yenne removed a small teal pill from some mysterious fold in her skirt. “Swallow this.”</p>

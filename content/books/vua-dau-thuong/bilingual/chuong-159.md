@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 32.
 
 <p class="para-en">They went up the winding staircase to the Special Collection—Arthur had sometimes called it the treasure room, a name that seemed more apt that evening—with Donna leading the way, the ring of keys in one hand. Gwen was behind her, with Tana close on her heels, helping her along. Gwen needed the assistance. By the time she was halfway up, her hoodie was soaked through the back with sweat and her legs were shaking. Every leap to the next step sent a sick, piercing jolt through her insides. Something was very wrong in there. Her face was hot and sometimes the world went a little dark on her, as if someone were fiddling with a dimmer switch.</p>

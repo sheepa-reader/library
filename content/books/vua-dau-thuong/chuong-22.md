@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười chín
 
 Về sau, Arthur không thể nào nhớ chính xác trình tự thời gian của các sự kiện. Mà thực ra, chẳng ai trong số họ nhớ nổi.

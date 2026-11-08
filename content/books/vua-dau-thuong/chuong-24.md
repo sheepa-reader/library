@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi mốt
 
 “Chuẩn rồi!” Ba phút hoặc ba tiếng sau, Colin cất lời tuyên bố. “Nó đúng *là* cái lồn của cô ta.”

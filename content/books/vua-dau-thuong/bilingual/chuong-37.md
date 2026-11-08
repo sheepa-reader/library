@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi tư
 
 <p class="para-en">When Arthur answered the phone, there was a click and a hiss, and then a prerecorded message began to play. A somewhat robotic female voice informed him that he had a call from Erin Oakes at the Black Cricket Women’s House of Correction, that the call would be recorded and monitored, and that if he did not wish to speak to this prisoner, he should hang up now. He did not hang up.</p>

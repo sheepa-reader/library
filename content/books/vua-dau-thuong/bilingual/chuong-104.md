@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 25.
 
 <p class="para-en">She heard the first distant burst of fully automatic fire while she was searching Valentine’s pockets. It didn’t sound like much: a flat and steely banging that brought to mind that wind-up toy that looked like a pair of chattering teeth. She found the key to the bondage gloves, undid them from her wrists, and threw them under the sink. She felt lightheaded, with a mix of exhaustion and hypervigilance, had the twitchy, overcaffeinated sensation she remembered from college all-nighters. She stuck her head out of the bathroom.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 21.
 
 <p class="para-en">Colin had guys on the door of his room, private security: big men in polo shirts. Donna loathed them immediately, the one on the right with his shaved head and stupid mustache, the one on the left with a fucking goatee. Her thought, absolutely insane, was that Colin had hired the same freelance soldiers who had held her on Cherokee Island. But, of course, there had been nothing left of Thermopylae Security by the time King Sorrow was done with them. Colin’s goons had to come from a different outfit.</p>

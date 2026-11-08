@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 6.
 
 <p class="para-en">Daphne Nighswander drove north in her ruin of a car: a 1970 Shelby Boss Snake. She had paid eight hundred dollars to buy it from a wrecking yard. It had been parked out front with a hissing serpent drawn on the windshield in soap, next to the words $1000 a classic runs good. The hillbilly running the yard had got most of the soap off the glass, but a ghost of that coiled snake remained, flashing up out of the dark every time she passed under a streetlamp. Rust had eaten half a dozen holes in the roof, and when Daphne got it up to fifty, those perforations began to scream. They sounded like a chorus of lunatics shrieking in delighted harmony. Cold air whistled in, so she drove with a blanket across her lap . . . and her Sig under the blanket.</p>

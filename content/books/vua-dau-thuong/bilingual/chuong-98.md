@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 19.
 
 <p class="para-en">Van couldn’t sleep, so he sat in the straight-backed chair in front of his picture window, staring into the corridor, which is how he happened to be awake the night Nurse Dover came back.</p>

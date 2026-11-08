@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 30.
 
 <p class="para-en">Even here, even now, Gwen was an inveterate rule follower. Arthur had accused her of being a good little hobbit—by which he meant domestic and tidy and homey and rule-following. And he was right. There were signs warning visitors to keep their cells off in the hospital, to avoid interfering with sensitive diagnostic equipment, so Gwen did not activate her iPhone until she was making her way across the lobby to the sliding doors. Her insides felt stretched out and throbbed with pain. She supposed women felt much the same way after they delivered. She was pregnant herself, with her own death. The embryo was a shard of bullet, but it was never going to have a chance to grow to its full potential, because her abortion was scheduled for Easter morning. She felt clammy with sweat, her shirt already stuck to her back. The sliding doors opened and she made her way out into an unexpectedly sweet coolness, smelling of dew-soaked lawns. Her hand was damp and weak and she fumbled the phone while she was trying to open Uber. It slid through her fingers and cracked against the concrete.</p>

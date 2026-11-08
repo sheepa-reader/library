@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 9.
 
 Họ đi ngược dòng nước với con sông nằm bên tay phải. Một quãng ngắn có lối mòn đất cứng chạy ngoằn ngoèo qua những gò cỏ mọc sát đất. Rồi họ bắt đầu leo lên vùng đất cao hơn và dường như chẳng còn lối mòn nào nữa. Họ luồn lách leo lên qua một lùm cây cổ thụ xoắn xuýt kỳ lạ, hệt như đang bước xuyên qua một khu rừng bị yểm bùa. Đêm tối buông xuống sực nức mùi lá mục và đất ẩm, rồi họ bước ra khỏi những tán cây để đến một bãi đất trống, giống như một khoảng chiếu nghỉ bên sườn đồi. Giữa khoảng đất trống là một khối đá hoa cương nhấp nhô lởm chởm, lốm đốm địa y và rêu phong. Khi họ đến gần trong chập choạng tối, Colin có thể nhận ra những ký tự được khắc lên đó: ai đó đã đục đẽo những nét chữ Pictish lên đá từ cả ngàn năm trước, với những biểu tượng hình xoáy ốc nhỏ và những vạch ngang qua thân.

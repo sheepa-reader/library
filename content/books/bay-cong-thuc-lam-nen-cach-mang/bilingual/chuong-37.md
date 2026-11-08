@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 30 Lễ hội
 
 <p class="para-en">Before we get into exactly what happened that night, a few things I learned during my walks with Cori those few weeks before the festival:</p>

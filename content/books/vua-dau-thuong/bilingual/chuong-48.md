@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi lăm
 
 <p class="para-en">The others scattered after finals, leaving Gwen and Arthur to each other.</p>

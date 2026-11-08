@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 13.
 
 Allie đã cai rượu được mười bốn ngày trước khi cô nhận ra bản thân sẽ phải chuốc say Donna, say thật sự, say mèm, nếu muốn có được chìa khóa mở Phòng Dị Vật Lập Dị... và cách duy nhất để làm được điều đó là chính cô cũng phải uống say. Cô nhận thấy đó là việc đúng đắn tiếp theo cần làm. Và trong hai tuần qua, ý tưởng thực hiện việc đúng đắn tiếp theo đã dần trở thành một khúc gỗ trôi sông mà cô có thể bấu víu để giữ cho đầu mình không bị chìm nghỉm.

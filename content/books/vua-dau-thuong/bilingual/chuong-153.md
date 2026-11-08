@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 26.
 
 <p class="para-en">On the night of the nineteenth, Garrett arrived back in Boston from The Briars, with everything Colin had asked for in a cardboard box.</p>

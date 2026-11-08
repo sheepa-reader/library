@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi
 
 <p class="para-en">Colin stood behind the card table, and the rest of them sat across from him, spread out along the curved leather bumper as if they were there to play blackjack and he was there to deal. He offered them whiskey but none of them wanted to be drunk. Gwen made tea instead.</p>

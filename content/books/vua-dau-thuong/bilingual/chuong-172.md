@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 10.
 
 <p class="para-en">A Goodreads review of Toolkit for the Well-Prepared Dragonslayer, by Arthur Oakes, PhD, with Gwen Underfoot, posted on November 4, 2019:</p>

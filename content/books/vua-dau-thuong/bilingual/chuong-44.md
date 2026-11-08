@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi mốt
 
 <p class="para-en">They parked at The Briars, behind the Caddy, and let themselves in. Gwen had wept for a while, in the dark of the car, but had mastered herself by the time they arrived—although anyone who looked at her could see she had been in tears. Arthur hadn’t wept himself. He was too full of a stunned emptiness to feel anything like heartbreak or horror or shame or whatever you were supposed to feel after someone you hated was burned to death by your command. The others were in the library, Colin hunched down to arrange logs for a fire, and when they walked in Allie whooped:</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 13 Thợ Chế Tác
 
 <p class="para-en">As threatened, my guards arrived in the morning to escort me. They claimed it was for my protection, but as we reached the gate to Fen’s Plateau, a Rare district, they had to confirm with the patrol at the gate and the patrol’s supervisor that I was actually supposed to be let through, despite the fact that I could show a Rare ID.</p>

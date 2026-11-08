@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 12.
 
 <p class="para-en">They needed a while to get their breath back. Svangur stood a couple of yards away, slouched in the darkness, all seven and a half feet of him, arms as thick as telephone poles, elbows jutting, lumpish head sunk between his shoulders.</p>

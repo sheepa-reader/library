@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 15.
 
 <p class="para-en">No one came the next day. She turned on the TV but saw only static, heard only the maddening roar of a dead signal. Donna felt carbonated, bubbling inside with fury, with wild ideas, ready to erupt, to foam over with emotion. She paced desperately, eight steps down the length of the room, eight steps back. Once she saw Salem walking past her window and she smashed her mitten against the glass and screamed, What about my brother, what about Van, but he didn’t even look at her. At two in the afternoon she did something she hated. She picked up the phone to speak to the operator in a hideous personal display of weakness.</p>

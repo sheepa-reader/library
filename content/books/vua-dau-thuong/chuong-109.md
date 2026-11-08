@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 2.
 
 Trời đổ mưa, một màn mưa phùn rả rích kéo dài bất tận, và lớp cao su trên một thanh gạt nước đã bị bong tróc khiến nó chỉ biết quệt những vệt nước nhòe nhoẹt lòa xòa trên mặt kính chắn gió. Cặp đèn pha hắt ra luồng ánh sáng vàng mờ ảo khi hai người di chuyển dọc theo Đại lộ Great West rời khỏi London, lướt qua những sân bóng đá sũng nước, những bức tường đá cao ngang ngực bám đầy bồ hóng, và những dãy chung cư xây bằng gạch đỏ trầm mặc. Đầu gối của Colin chốc chốc lại va vào bảng táp-lô, và cứ mỗi lần chiếc xe sụp phải một ổ gà, hộc đựng găng tay phía trước lại tự động nảy chốt bật tung ra.

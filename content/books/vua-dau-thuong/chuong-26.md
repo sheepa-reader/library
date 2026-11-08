@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi ba
 
 Vào một thời điểm nào đó, cả nhóm đã tìm đường quay lại phòng đọc sách và ngả lưng xuống những chiếc ghế đẩu quen thuộc quanh bàn chơi bài. Arthur không chắc chính xác là từ lúc nào. Anh chỉ nhớ mình từng nói với Gwen rằng anh *thực sự* muốn tận mắt nhìn thấy một con rồng sống bằng xương bằng thịt, rồi sau đó trí nhớ trống hoác, cho đến khi tất cả đã ngồi quây quần trong phòng đọc, bên dưới bức tường treo đầy những mẫu bướm rực rỡ trong hộp kính. Tất cả bọn họ đều đang phê ma túy và quyết tâm giữ nguyên trạng thái đó. Về sau, anh tin rằng cả nhóm cố tình duy trì cơn phê để tạo cho mình một cái cớ bao biện về mặt đạo đức, nhờ vậy họ có thể tự nhủ rằng mình chỉ đang phê thuốc và làm trò ngớ ngẩn, chứ chẳng bao giờ nghĩ điều đó sẽ thành hiện thực.

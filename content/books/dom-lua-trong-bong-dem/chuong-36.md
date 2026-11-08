@@ -1,6 +1,6 @@
-# CHƯƠNG 32
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 32
 
 “Anh tự hào về em lắm, cưng à.”
 

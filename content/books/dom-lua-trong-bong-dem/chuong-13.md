@@ -1,6 +1,6 @@
-# CHƯƠNG 9
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 9
 
 Căn nhà của tôi bỗng nhiên vừa như quá rộng lại vừa như quá chật. Ngồi thu lu nơi đây, bốn bức tường giam cầm tôi bên trong, nhốt tôi cùng luồng không khí ngột ngạt, cũ kỹ, cảm giác bức bối đến nghẹt thở. Nhưng nó cũng lạnh lẽo và cô độc vô cùng; quá mênh mông so với những luồng suy nghĩ lặng lẽ của một linh hồn trơ trọi. Bất giác, tôi thèm cảm giác được chuyển động.
 

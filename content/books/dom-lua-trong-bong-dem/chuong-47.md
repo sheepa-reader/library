@@ -1,6 +1,6 @@
-# CHƯƠNG 43
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 43
 
 Tôi ngồi lặng trong đồn cảnh sát Breaux Bridge. Dàn đèn huỳnh quang rẻ tiền gắn trên trần phòng thẩm vấn tỏa thứ ánh sáng chát chúa, nhuộm lên da tôi một sắc xanh tái mét, nhờ nhờ như màu rong rêu. Chiếc chăn họ khoác lên vai tôi thô ráp như một miếng băng nhám, nhưng tôi đang run rẩy vì quá lạnh nên chẳng nỡ cởi ra.
 

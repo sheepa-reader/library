@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười hai
 
 <p class="para-en">On the following Wednesday afternoon, Arthur reported for his usual shift at the Brooks Library. At the first quiet moment, he left another student librarian to watch the checkout counter and climbed the winding wrought-iron staircase to the Juliet balcony above. He let himself into a cool, shady room that had not changed much in over a century. Shelves lined walls to either side. Unlike the rest of the library, which was organized according to the Dewey Decimal system, here the shelves were marked fiction, biology, history, and so forth. The only windows were set three feet deep in stone embrasures. A Norman archer with a full quiver and a Bible could hold off a band of Vikings from here. And in fact all that cold stone had defended the place well enough, not from Norsemen, but from the fire of 1840 that had reduced the rest of the original Rackham College to a scorch mark three hundred acres wide.</p>

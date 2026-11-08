@@ -1,6 +1,6 @@
-# CHƯƠNG 15
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 15
 
 Tôi bước ra sảnh chờ, sự tĩnh lặng bao trùm càng khiến tiếng thở gấp gáp của chính tôi nghe rõ mồn một. Thám tử Thomas và Sĩ quan Doyle đã rời đi từ lúc nào. Túi xách của Melissa không còn trên ghế, màn hình máy tính của cô bé đã tắt tối đen. Chiếc tivi treo tường vẫn rao rảu phát bản tin khẩn, gương mặt lấm tấm tàn nhang của Lacey phủ một sự hiện diện vô hình đầy ám ảnh lên khắp căn phòng.
 

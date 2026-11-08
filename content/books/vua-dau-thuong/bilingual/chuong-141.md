@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 14.
 
 <p class="para-en">As they went upstairs together, Allie was conscious of a wobble in her legs. She felt like she was climbing the stairs toward moral disaster and personal disgrace. She didn’t know what she wanted more: to pour some gin, or to see Donna’s silky kimono fall around her feet. Donna glanced back at her and smiled a little contemptuously, and Allie felt a sudden flash of anger at her, and at herself. Van forgave Allie for wanting to kiss women, be held by a woman—he forgave her more easily than she had ever been able to forgive herself. But why did it have to be this woman?</p>

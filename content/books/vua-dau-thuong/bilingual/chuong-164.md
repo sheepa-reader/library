@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 2.
 
 <p class="para-en">When Jett heard his mother under the rubble and was persuaded she was all right, he returned to help winch Gwen down to earth. By then she was fading again. She could hear the surf in her ears, could hear the waves pounding the beach. The others were so close. She wanted to get back to them, while they were still dancing.</p>

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 29.
 
 Đến Thứ Sáu Tuần Thánh, cô chẳng thể nào chợp mắt. Rốt cuộc, cô cũng thiếp đi được vài tiếng vào rạng sáng thứ Bảy, khoảng từ nửa đêm cho đến ba giờ. Sau đó, cô hoàn toàn tỉnh táo, đăm đăm nhìn lên trần nhà bằng thạch cao. Vùng bụng cô đau nhức ê ẩm. Dạo này, những cơn đau lúc nào cũng dai dẳng gặm nhấm cô như thế.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 3.
 
 <p class="para-en">Daphne Nighswander went from the supermax to the Quality Inn in Morgantown. The motel was almost tucked under the on-ramp leading up to I-79 and set across the street from the biggest gas station Daphne had ever seen in her life, a Kroger that seemed to have a million pumps. Eighteen-wheelers blasted their air horns at all hours, while traffic boomed along the interstate. Drunks fucked in the other rooms, loud through the wafer-thin walls, going at it hard enough to jiggle the pictures on the walls. One night a car caught fire in the parking lot and the lot lizards came out of their rooms to watch it burn. They were like little girls at a campfire, only lacking sticks and marshmallows. It wasn’t uncommon for ambulances to show up in the wee hours to zip one of the lizards into a body bag, needle stuck into one bruised arm. Daphne found the noise and the chaos comforting, easy to live with. It was like prison. Besides. She was not always alone. Some nights she woke and found Jayne sitting at the little table under the picture window, Jayne with her face black and crackling and split open like the skin of a burnt hot dog.</p>

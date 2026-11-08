@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 8 giờ 39 (Múi giờ Đại Tây Dương - AST)
 
 Còn lại 3 tiếng 21 phút nữa là đến Giờ Rồng Thức Tỉnh, chiếc Boeing 747 liền tròng trành dữ dội và dường như muốn *chúi mũi xuống*, rơi tự do như một viên gạch. Hai chân Allie rời khỏi sàn máy bay. Cô vội với tay bấu víu thứ gì đó để giữ thăng bằng và tóm trúng vai Horation. Chiếc phi cơ ổn định lại sau một tiếng thình nặng nề, khiến Allie ngã nhào thẳng vào lòng hắn. Hắn đang cầm trên tay một ly đồ uống, nhưng vẫn giữ vẻ điềm đạm lạ thường, đưa chiếc cốc nhựa ra xa mà không để sánh ra ngoài một giọt nào. Allie nhận ra đó không phải rượu, mà là sữa tươi.

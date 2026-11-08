@@ -1,6 +1,6 @@
-# CHƯƠNG 34
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 34
 
 “Bác sĩ Davis, cô có thể vui lòng trả lời thẳng vào câu hỏi được không?”
 

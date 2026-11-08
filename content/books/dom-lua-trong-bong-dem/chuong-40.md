@@ -1,6 +1,6 @@
-# CHƯƠNG 36
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 36
 
 Aaron vững vàng cầm lái trong khi tôi cặm cụi dò đường trên ứng dụng bản đồ điện thoại, chỉ dẫn chiếc xe tiến sâu vào một khu vực ngoại ô thành phố, nơi cảnh quan xung quanh bắt đầu biến đổi dần từ những dãy nhà tiền chế khang trang của tầng lớp trung lưu thành một góc xập xệ, tồi tàn của thành phố Baton Rouge đến mức khó lòng nhận ra. Sự đổi thay diễn ra chậm rãi đến mức tôi khó lòng nắm bắt: mới phút trước, tôi còn nhìn qua ô kính thấy một đứa trẻ chập chững biết đi đang bì bõm đùa nước trong bể bơi phao cao su (người mẹ ngồi ngâm chân lơ đãng lướt điện thoại với cốc nước chanh trên tay), thì chỉ vài phút sau, đập vào mắt tôi đã là hình ảnh một người đàn bà gầy gò trơ xương như một bộ hài cốt di động, đang còng lưng đẩy chiếc xe đẩy siêu thị chất đầy những bao rác thải và vỏ lon bia rỗng. Những ngôi nhà ở chốn này đều đã xuống cấp tồi tàn: cửa sổ rào chấn song sắt gỉ sét, vách tường bong tróc từng mảng vôi vữa. Chiếc xe rẽ vào một con đường dài rải sỏi gồ ghề. Cuối cùng, tôi nhận ra căn nhà gỗ hai tầng cũ kỹ với biển số 375 được bắt vít xiêu vẹo vào lớp vách ốp nhựa, bèn ra hiệu cho Aaron tấp xe vào lề đường.
 

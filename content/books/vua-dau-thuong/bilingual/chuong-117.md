@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 10.
 
 <p class="para-en">Colin lifted his backpack, pulled the flashlight out, and waited for Finger to shuffle past him before he drew the straps over his shoulders. Finger had the shillelagh in one hand, but Arthur twitched his flashlight toward the wall.</p>

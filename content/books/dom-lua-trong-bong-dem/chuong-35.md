@@ -1,6 +1,6 @@
-# CHƯƠNG 31
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 31
 
 Tôi đang dán mắt vào bức ảnh của Aubrey trên màn hình máy tính xách tay, một tấm hình mà tôi chưa từng nhìn thấy trước đây. Đó là một bức ảnh kích thước nhỏ, hơi vỡ hạt do tôi cố tình phóng to khuôn mặt cô bé, thế nhưng vẫn đủ sắc nét để tôi khẳng định chắc chắn một trăm phần trăm. Đích thị là con bé.
 

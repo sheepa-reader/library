@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Hậu Chuyện • Ba
 
 <p class="para-en">Worse happened three days later, when Timothy McVeigh detonated thirteen barrels of ammonium nitrate, loaded into a Ryder truck, in front of the Alfred P. Murrah Federal Building in Oklahoma City. The truck was in the loading zone directly beneath the day care center on the second floor. The front of the tower was sheared away, as if it were a toy office building that someone had opened to show the interior cross-section. McVeigh murdered 168 people, 19 of them children.</p>

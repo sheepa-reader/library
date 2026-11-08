@@ -1,6 +1,6 @@
-# Chương 28
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 28
 
 Vừa rảo bước, tôi vừa dồn dập tra vấn Fayazi cùng đám Thăng Hoa Thể của cô ta về thư từ của người cha quá cố. Có điều gì bất thường không? Có kiện hàng nào bị tách riêng ra không? Hay bất kỳ thư từ, tin tức liên lạc nào gửi tới từ những nơi xa lạ? Một phần là để hợp thức hóa lý do bước vào khu chuồng chim, nhưng tôi cũng thực sự muốn vắt kiệt mọi thông tin khả dĩ về các bức thư của Kaygi Haza, dù giờ đây tất cả chỉ còn là tro bụi.
 

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 16.
 
 Hắn đã mang theo một lọ Visine, và khi đã trông thấy chiếc cầu, hắn nhỏ thuốc vào mắt, để nước thuốc trào ra má, rồi ném vỏ lọ vào bụi rậm ven đường.

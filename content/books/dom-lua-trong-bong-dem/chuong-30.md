@@ -1,6 +1,6 @@
-# CHƯƠNG 26
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 26
 
 Đến tận sẩm tối tôi mới lết được về đến nhà. Ngay khi tôi vừa bước chân vào sảnh chính, hệ thống báo động an ninh mới lắp đặt đã phát ra hai tiếng “bíp” chói tai, khiến lồng ngực tôi thắt nghẹn lại vì cơn hoảng loạn vô thức. Tôi lập tức nhập mã kích hoạt lại hệ thống ngay khi vừa chốt chặt cánh cửa sau lưng, cố tình chỉnh âm lượng còi báo động lên mức cao nhất. Đoạn, tôi đưa mắt nhìn quanh ngôi nhà: không gian tĩnh lặng như tờ và lạnh lẽo không một bóng người. Dẫu cho bản thân đã ra sức xua đuổi, thế nhưng bóng ma của Bert Rhodes dường như vẫn đang lẩn khuất khắp mọi ngóc ngách tôi nhìn tới. Giọng nói trầm đục của gã tựa như vẫn đang văng vẳng dội lại nơi các dãy hành lang trống trải, đôi mắt đen đờ đẫn của gã như đang đăm đăm nhìn xoáy vào tôi từ sau mỗi góc tường tối tăm. Tôi thậm chí còn ngửi thấy rõ mồn một thứ mùi hăng hắc đặc trưng của gã: mùi mồ hôi nhễ nhại quyện với chút hơi men rượu cay nồng bám theo gã trong suốt khoảng thời gian gã lượn lờ khắp các gian phòng nhà tôi, chạm tay vào từng bức tường, săm soi từng ô cửa sổ, và một lần nữa tàn nhẫn len lỏi vào cuộc đời tôi.
 

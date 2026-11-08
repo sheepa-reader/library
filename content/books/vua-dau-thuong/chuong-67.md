@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 10 giờ 54 tối (Múi giờ Giữa Đại Tây Dương - MST)
 
 Còn 1 tiếng 6 phút nữa là đến Giờ Rồng Thức Tỉnh.

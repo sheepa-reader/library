@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 16.
 
 <p class="para-en">Two weeks after Cady Lewis climbed into a van and was never seen again, a third grader named Gerry Lean crept up behind Donna during recess, screamed, “Imma kidnapper!” and grabbed her arm. Donna twitched and suddenly a great dark stain spread across the front of her Wranglers, down the inside of her left leg. There followed a stunned, dreadful stillness. Kids froze and stared. A small girl keened with hysterical laughter. Donna later said they were all laughing at her, but that wasn’t true. Van saw it all. Most of the other kids looked as if they wanted to be sick, or cry, or run and throw their arms around Donna to shield her from any more embarrassment.</p>

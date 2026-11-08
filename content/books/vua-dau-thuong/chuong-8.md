@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Năm
 
 Trong phần lớn ba mươi sáu giờ tiếp theo, Arthur cảm thấy bàng hoàng, như thể anh đang lên cơn sốt. Mọi thứ anh ăn vào đều bốc mùi khó chịu và có vị ôi thiu. Anh ngồi suốt những giờ giảng dài đằng đẵng rồi bước ra ngoài mà chẳng nghe thấy gì, chẳng tiếp thu được chi; anh chẳng thể nào nói nổi người ta vừa thảo luận về điều gì.

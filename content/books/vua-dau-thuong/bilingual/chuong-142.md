@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 15.
 
 <p class="para-en">Allie stroked Donna’s hair, smoothing it out and away from the nape of her neck. There was the clasp of that odd, flat iron chain, lying between two knuckles of her spine. Allie squeezed the latch with her thumbnail and the necklace popped off, fell into her crotch, slithered half under her. That was the easy part.</p>

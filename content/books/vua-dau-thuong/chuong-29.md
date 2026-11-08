@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi sáu
 
 Anh thu xếp qua Tana để gặp Jayne vào chiều hôm đó.

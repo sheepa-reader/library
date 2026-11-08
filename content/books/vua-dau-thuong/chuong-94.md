@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 15.
 
 Không một ai ghé qua vào ngày hôm sau. Cô bật chiếc tivi lên nhưng chỉ thấy một màn hình nhiễu hạt trắng xóa, chỉ nghe thấy tiếng gầm rống điên dại của một tín hiệu đã chết. Cơn thịnh nộ sôi sục trong lồng ngực Donna, những ý nghĩ điên cuồng chực chờ bùng nổ, cảm xúc trào dâng nghẹn ứ. Cô đi đi lại lại trong tuyệt vọng, tám bước từ đầu phòng tới cuối phòng, rồi lại tám bước quay trở về. Có khoảnh khắc cô thấy Salem rảo bước ngang qua ô cửa sổ phòng giam, cô liền đập mạnh nắm đấm bọc găng da vào tấm kính rồi thét lên, *Thế còn em trai tao thì sao, thằng Van sao rồi*, nhưng hắn thậm chí chẳng buồn liếc mắt nhìn cô lấy một lần. Đến hai giờ chiều, cô đành phải làm một việc mà bản thân vô cùng ghê tởm: nhấc ống nghe gọi lên bàn tổng đài, một hành động bộc lộ sự yếu đuối hèn hạ đến phát tởm.

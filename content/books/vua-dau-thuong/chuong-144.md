@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 17.
 
 Bọn họ tìm đường bước ra ngoài, Gwen mang chiếc túi đeo chéo trên một bên vai, bộ dụng cụ cá nhân chuyên dụng cho kẻ săn rồng cẩn trọng của cô lại được nhét gọn trong đó. Robin đẩy một cánh cửa gỗ cao và giữ nó mở trong lúc những người khác bước qua.

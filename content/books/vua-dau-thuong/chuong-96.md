@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 17.
 
 Bọn chúng quay lại tìm anh vào năm ngày sau đó: Lansing, Salem và Little Rock. Khoảnh khắc trông thấy bộ ba đó sấn bước vào phòng, hai lá thận của Van như đông cứng thành một khối băng lạnh toát.

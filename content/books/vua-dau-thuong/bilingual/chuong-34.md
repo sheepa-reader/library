@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi mốt
 
 <p class="para-en">Arthur was leaning against the brick wall behind Shut-Up-And-Eat-It when Jayne and Ronnie pulled in. He had told them he wanted to meet at seven thirty, but he had been there since seven so he could be there when they arrived. He’d left the message with the sleepy-sounding bro who was taking orders, and quite intentionally picked a night when Tana was off work. He didn’t want her there for this.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 1.
 
 <p class="para-en">2000 Donovan McBride stood at his favorite window, sipping sweet coffee and thinking he and Allie were in terrible trouble—if they didn’t get their drinking under control, one of them was going to die, punch out like John Bonham or Bon Scott—when something huge detonated around the corner, on Garfield Place. A blast of fire, twenty feet high, erupted through the gap between buildings. The explosion, a gas main maybe, made a deep, resonating thud that he felt more than heard, and drove a rippling shockwave down the avenue. Van saw it coming, the air going all wavy and distorted, like heat rising from blacktop, and had time to drop his mug and fall to the floor before the lovely, big, round window erupted. Glass showered around him in a bright drizzle of light.</p>

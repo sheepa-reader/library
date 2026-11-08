@@ -1,6 +1,6 @@
-# Chương 2
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 2
 
 Lãnh hạt Daretana không có một đô thị đúng nghĩa. Đó chỉ là một cụm các tòa nhà thuộc các Bộ ngành Đế quốc bám quanh ngã tư chính, bao quanh bởi vô số kho bãi, nhà xưởng và chuồng trại chứa vật liệu cùng gia súc liên tục bị lùa ra tường biển. Chiều hôm đó, nơi đây vẫn là một bãi lầy hỗn loạn, ngập ngụa bùn đất cùng dòng người và xe cộ chen chúc. Tôi lách người về phía nam qua các góc phố, thi thoảng dạt vào lề nhường đường cho xe kéo và xe ngựa. Đập vào mắt là những hình ảnh quen thuộc: những con ngựa bị lớp bùn đỏ quánh như đồng thau bám ngập đến tận bụng; những đàn ruồi vo ve bu kín; các sĩ quan ướt đẫm mồ hôi của Bộ Quân đoàn, Bộ Công Binh và các Bộ khác đang gào thét tên tuổi cùng mệnh lệnh, chẳng buồn quan tâm liệu có ai nghe thấy hay tuân theo. Tôi cúi đầu chào rồi lại gật đầu, liên tục như vậy cho đến khi thoát khỏi đám đông hỗn loạn để tiến vào khu rừng rậm.
 

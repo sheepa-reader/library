@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 27.
 
 <p class="para-en">Allie was braiding Gwen’s hair when Gwen opened her eyes, and closed them, and opened them again, very slowly.</p>

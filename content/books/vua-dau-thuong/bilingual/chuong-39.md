@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi sáu
 
 <p class="para-en">Of course, Gwen was glad to drive Tana. And on the first day she took Tana to work, she dropped by The Briars straight after and knocked on the doorframe to the study.</p>

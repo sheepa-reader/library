@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 18 Món salad đã cứu rỗi biết bao mạng sống
 
 <p class="para-en">I wouldn’t say I settled into my routine so much as collapsed into it.</p>

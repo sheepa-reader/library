@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi tư
 
 Khi Arthur nhấc ống nghe, một tiếng lách cách vang lên rồi đến những tiếng xè xè kéo dài, trước khi đoạn ghi âm cài sẵn bắt đầu phát. Giọng nói nữ giới đều đều mang âm điệu máy móc thông báo rằng anh nhận được cuộc gọi từ Tiến sĩ Erin Oakes tại Trại Cải tạo Nữ Black Cricket; cuộc gọi này sẽ được ghi âm lẫn giám sát, và nếu anh không muốn trò chuyện với phạm nhân, anh nên cúp máy ngay lập tức. Anh đã không cúp máy.

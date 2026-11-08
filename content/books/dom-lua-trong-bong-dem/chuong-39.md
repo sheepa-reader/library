@@ -1,6 +1,6 @@
-# CHƯƠNG 35
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 35
 
 Phần còn lại của buổi sáng trôi qua trong một trạng thái mơ hồ mụ mị. Tôi có ba cuộc hẹn tham vấn tâm lý liên tiếp, thế nhưng sau đó chẳng có một ca bệnh nào đọng lại rõ nét trong tâm trí tôi. Lần đầu tiên trong đời, tôi thầm cảm ơn những biểu tượng phần mềm lưu trữ nhỏ bé trên màn hình máy tính: tôi hoàn toàn có thể nghe lại các bản ghi âm buổi trị liệu sau này khi đầu óc đã bớt xao nhãng và tìm lại được sự tập trung. Tôi bất giác rùng mình khi mường tượng ra những tiếng ậm ừ vô hồn mà chắc chắn mình sẽ nghe thấy từ chính giọng nói của mình trong các đoạn băng đối thoại; những tiếng “ừm hửm” xa xăm lơ đễnh mà tôi đã buột miệng thốt ra thay vì đặt những câu hỏi nghiệp vụ thực tâm. Những khoảng lặng ngột ngạt kéo dài lê thê trước khi đôi mắt tôi lấy lại tiêu cự và sực nhớ ra mình đang ngồi ở đâu, đang làm gì. Vị thân chủ của ca hẹn đầu tiên sáng nay vốn đã ngồi chờ sẵn ngoài sảnh khi Thám tử Thomas bước chân ra khỏi phòng tôi. Tôi vẫn nhớ rõ nét bàng hoàng ngơ ngác trên khuôn mặt cô bé khi tôi rời bàn làm việc bước ra đón khách, cái cách ánh mắt con bé đảo qua đảo lại giữa tôi và cánh cửa chính tựa như đang đắn đo giằng xé xem liệu bản thân nên can đảm bước vào phòng khám hay chỉ đơn giản là đứng bật dậy bỏ chạy tháo thân.
 

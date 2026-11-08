@@ -1,6 +1,6 @@
-# Chương 31
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 31
 
 “Nói cho nhà Haza ư?” Kalista thốt lên. Đôi lông mày tỉa tót kỹ lưỡng của ả nhướng ngược lên tận trán. “Về cuộc điều tra đó sao? Tôi điên đâu mà làm thế.”
 

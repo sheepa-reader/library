@@ -1,6 +1,6 @@
-# CHƯƠNG 23
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 23
 
 Ngay khi thấy chiếc xe của Daniel vừa lăn bánh khỏi lối vào nhà, tôi vội vã lao lại bàn làm việc, vớ lấy chiếc điện thoại rồi soạn nhanh một tin nhắn gửi cho Aaron.
 

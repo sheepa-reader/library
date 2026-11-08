@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 34 Bài học
 
 <p class="para-en">I charged out of Cutler’s like a carnephon, tucking the cleaver I’d used to break the egg into my pants.</p>

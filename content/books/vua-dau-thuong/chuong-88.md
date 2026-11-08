@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 9.
 
 Van đã tận mắt chứng kiến toàn bộ cảnh tượng kinh hoàng đó qua màn hình chiếc tivi Zenith, khoảnh khắc con rồng trong lốt người cắn đứt lìa vành tai của Valentine. Vài phút sau, Valentine lảo đảo bước ngang qua khung cửa kính lớn ngoài hành lang, được vây quanh bởi một toán y tá mặc áo choàng trắng, nối gót theo sau là đám nhân viên an ninh vận quần kaki và áo thun polo. Valentine gào thét từng hồi trong đau đớn, một bàn tay áp chặt lấy bên đầu trong khi máu tươi tuôn xối xả thành dòng qua các kẽ ngón tay. Trong lòng Van bỗng dâng trào một làn sóng cảm xúc mãnh liệt, một thứ rung cảm dữ dội, suýt chút nữa là cơn thịnh nộ, nhưng lại nghiêng nhiều hơn về sự hả hê khoái trá; suýt chút nữa là niềm kiêu hãnh ngút ngàn, nhưng lại pha lẫn chất ngông cuồng bỗ bã. Chưa từng có giây phút nào trong đời anh yêu quý và tự hào về người chị gái sinh đôi của mình đến nhường ấy.

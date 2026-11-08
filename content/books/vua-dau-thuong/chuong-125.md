@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 18.
 
 Hội Cứu hộ Hang động Anh đã mất tám ngày để sục sạo các hang động quanh Camelford, tập trung vào lối đi dẫn đến nơi mà người dân địa phương gọi là Bậc Thang Arthur. Colin đã tham gia cùng họ vài lần và nhận ra những bậc đá này, một loạt các gờ đá rộng thoai thoải dẫn xuống một cái hố khô ráo, rộng rãi, hoàn toàn chẳng liên quan gì đến những bậc đá mà bọn chúng từng bước đi cùng Svangur. Trên thực tế, BCRC chưa bao giờ đến gần cái hố nằm dưới tảng đá lớn, thậm chí còn chẳng bén mảng tới lối mòn xuyên qua bụi gai.

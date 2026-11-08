@@ -1,6 +1,6 @@
-# CHƯƠNG 18
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 18
 
 Trời vẫn rả rích đổ mưa khi tôi tỉnh giấc, thứ mưa dầm dề, lười biếng cứ chực kéo ghì mí mắt người ta chìm sâu trở lại vào giấc ngủ mê mệt. Tôi nằm im lìm trong bóng tối lờ mờ, cảm nhận hơi ấm da thịt trần trụi của Daniel bên cạnh đang áp sát vào người mình. Nhịp thở của anh đều đặn, khoan thai. Tôi lắng nghe tiếng mưa rơi tí tách ngoài ô cửa sổ, tiếng sấm ầm ì vọng lại từ một khoảng trời xa xăm. Tôi nhắm nghiền hai mắt lại và mường tượng ra hình ảnh của Lacey, thi thể của con bé hẳn đang bị vùi lấp một nửa dưới lớp bùn đất nhão nhoét ở một góc khuất nào đó ngoài kia, trong khi màn mưa lạnh lùng đang cần mẫn gột rửa sạch bách mọi dấu vết chứng cứ mà kẻ thủ ác vô tình bỏ lại.
 

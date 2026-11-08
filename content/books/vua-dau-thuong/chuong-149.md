@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 22.
 
 Cả ba người bọn họ gồm Robin, Tana và Allie đang chờ sẵn trong phòng khách dành cho người nhà ở cuối hành lang phía ngoài phòng Gwen thì Donna xuất hiện ở sảnh. Dù đã chuẩn bị tâm lý để đối mặt với cô ta, Allie vẫn cảm thấy toàn bộ dưỡng khí như bị rút cạn ngay khoảnh khắc trông thấy Donna lần đầu. Cô hoảng loạn đến mức phải mất một lúc mới nhận ra Donna đang bước đi hoàn toàn bình thường, chiếc nạng đã biến mất.

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 36 Quà sinh nhật
 
 <p class="para-en">My seventeenth birthday fell three days before my second term. I’d already received my course list and supplies delivered from Cutler’s, but I was still confined.</p>

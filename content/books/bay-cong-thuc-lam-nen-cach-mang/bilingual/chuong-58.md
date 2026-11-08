@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 49 Đồ Tể, Binh Lính, Đầu Bếp
 
 <p class="para-en">As we scrambled across the burning battleground, we scavenged supplies from food wagons. Smoked paprika. Ground pepper. Salt. Tortillas and tomatillos rescued from an overturned broiler.</p>

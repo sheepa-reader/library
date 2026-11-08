@@ -1,6 +1,6 @@
-# Chương 20
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 20
 
 Tôi và Strovi bước ra khỏi tòa tháp đúng lúc tiếng chuông giới nghiêm vừa dứt. Đường phố vắng ngắt, lạnh lẽo. Những dãy nhà chìm trong bóng tối âm u dưới ánh trăng bị mây mù nuốt chửng. Không một ánh đèn lồng, không một nguồn sáng, ngoại trừ chiếc đèn bão đung đưa trên tay Strovi và những đốm lửa lập lòe từ các đội tuần tra của Quân đoàn.
 

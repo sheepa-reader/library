@@ -1,6 +1,6 @@
-# Chương 8
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 8
 
 Tôi nằm trên giường tầng, chập chờn nửa tỉnh nửa mê giữa tiếng ngáy khò khè của nửa tá Thăng Hoa Thể khác dưới lớp chăn ẩm. Tôi chẳng quen ai trong số họ. Quá tuổi học việc, cũng quá tuổi để bám trụ lại khu cư xá của Thăng Hoa Thể, tôi gần như tách biệt. Nhưng việc ngủ giữa những kẻ xa lạ đã thành thói quen. Thứ âm thanh hỗn tạp ấy, kỳ lạ thay, lại mang đến cảm giác an toàn giả tạo.
 

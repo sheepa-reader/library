@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 50 Hoang tàn
 
 <p class="para-en">One foot in front of the other, he forced me to destroy the remaining Herd and common fighters in Tall Grass.</p>

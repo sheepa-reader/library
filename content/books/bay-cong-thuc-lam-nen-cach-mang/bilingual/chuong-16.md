@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # Món Thứ Hai • Salad Tỉnh Táo
 
 <p class="para-en">A sharp salad best enjoyed at midday beneath the sun. For a fuller flavor, serve in a tortilla bowl and pair with iced limeade (with or without tequila).</p>

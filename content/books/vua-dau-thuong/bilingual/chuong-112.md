@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 5.
 
 <p class="para-en">Robin Fellows didn’t know all of it. Not even most of it.</p>

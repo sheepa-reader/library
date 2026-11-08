@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 20.
 
 Họ thay phiên nhau túc trực bên Gwen trong giờ thăm nom. Vào thứ Hai, Tana đến vào buổi sáng còn Allie đến vào buổi chiều. Ở giữa khoảng thời gian đó, Tana và Allie cùng nhau ăn trưa tại căng tin bệnh viện. Khi họ chia tay nhau, Allie rảo bước về phía thang máy còn Tana đi ra bãi đỗ xe, Tana vươn tay siết lấy bàn tay Allie, Allie quay lại để hôn gió lên má Tana và thế là đầu họ va vào nhau khực một cái. Allie bật cười, xoa đầu Tana, hôn lên mái tóc cô, rồi chẳng suy nghĩ gì nhiều, nhẹ nhàng hôn lên môi cô. Chẳng có gì to tát cả, Tana thậm chí còn chẳng mủi lòng hay để ý, nhưng khi Allie bước vào trong thang máy, trái tim cô đập loạn nhịp và một câu tụng niệm bắt đầu vang lên trong đầu cô, *Đồ ngốc, đồ ngốc, THÈM KHÁT, đồ ngốc*. Cô viết rồi lại xóa đi một tin nhắn *Xin lỗi! Hôn nhầm thôi mà!* sáu lần, chẳng đủ can đảm để bấm nút gửi lấy một lần.

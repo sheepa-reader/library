@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 54 Bếp đỏ lửa, dao bén ngót
 
 <p class="para-en">Laven’s rage echoed across the tiles, and mine reared so hard that I drew blood from my lip, biting back my malice.</p>

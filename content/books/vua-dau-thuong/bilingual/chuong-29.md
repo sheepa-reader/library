@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi sáu
 
 <p class="para-en">He made arrangements through Tana to meet with Jayne that afternoon.</p>

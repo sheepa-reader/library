@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 8.
 
 Gwen nhấn mạnh chân ga, ngoặt gấp chiếc xe bán tải sang làn bên trái để vượt qua một chiếc Ford Escape, rồi lại lách nhanh sang phải vượt mặt chiếc Infiniti. Tiếng còi xe inh ỏi gắt gỏng vang lên từ cả hai phía. Nhưng âm thanh ấy dội vào tâm trí cô rồi tan đi, chẳng để lại chút mảy may bận tâm.

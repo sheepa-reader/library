@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 12.
 
 Gwen đến London vào cuối mùa đông năm 2022 để dự tiệc mừng nghỉ hưu của Robin Fellows. Cô chắc chắn vẫn sẽ có mặt ở đó ngay cả khi Robin không xuất bản cuốn sách của Arthur… một cuốn sách mang chính tên Gwen với tư cách đồng tác giả theo lời khẩn nài của Robin. Gwen hầu như chẳng cảm thấy mình có đóng góp gì nhiều. Cô chỉ đơn giản là lấp đầy những khoảng trống mà Arthur bỏ lại, giống như cách cô từng làm với hàng ngàn ô chữ hai người từng cùng nhau giải. Cuốn sách đã gặt hái thành công ở mức tương đối. Người thích, kẻ chê, vài bài đánh giá khen ngợi lẫn vài bài chỉ trích cay nghiệt, và nếu doanh số cứ tiếp tục giữ đà này, nó thậm chí có thể được tái bản thêm một thời gian nữa.

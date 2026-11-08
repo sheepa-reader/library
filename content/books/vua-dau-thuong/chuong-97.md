@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 18.
 
 Donna từ từ thở hắt ra một hơi dài sâu thẳm, đúng như những gì đã được chỉ dẫn, những luồng khói xám xoắn xuýt cuồn cuộn tràn ra từ hai bên cánh mũi cô. Tiến sĩ Patrick rên rỉ nghẹn ngào trong bóng tối mịt mùng. Little Rock chồm tới phía cửa ra vào, giật mạnh tay nắm cửa. Cánh cửa sắt lạnh ngắt cứng đờ, không chịu nhúc nhích lấy một milimét.

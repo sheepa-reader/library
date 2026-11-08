@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 7.
 
 <p class="para-en">A much smaller conflagration occurred on the opposite coast in December 2018, and while not as newsworthy as the Mendocino Complex Fire, the fire that destroyed The Briars—home of the late tech billionaire Colin Wren—was covered by the Boston Globe, NECN, and the rest of the regional press. The blaze began in the basement, where old, frayed wiring ignited some unsafe insulation that had been packed into the walls in 1973. The fire department put trucks on the road, but it was snowing heavily, coming down in fast white flakes, and they were a while getting there. Then they couldn’t get up the drive—an electrical short had killed the power to the gate. The fire crews needed nearly ten minutes, working with the Jaws of Life, before they had it open and could drive up to the fully engulfed manor.</p>

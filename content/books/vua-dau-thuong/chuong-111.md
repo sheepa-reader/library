@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 4.
 
 Arthur đã đặt sẵn phòng cho hai người tại một quán trọ cổ kính từng mở cửa phục vụ bia từ thời các thuộc địa châu Mỹ bắt đầu nổi dậy ly khai khỏi Đế quốc Anh: một công trình kiến trúc trải rộng bằng khung gỗ sồi với những đầu hồi nhọn và mái lợp đá phiến sẫm màu. Cánh cửa chính được kẹp giữa hai trụ đá đỡ công-xôn, trên mỗi trụ chạm khắc một khuôn mặt cau có với chiếc mũi thô kệch, trừng trừng nhìn xuống từ bên dưới vầng trán gồ ghề, cùng vài chiếc răng nanh quái dị uốn cong gần như ngà voi chìa ra khỏi mép môi dưới. Colin trố mắt nhìn cảnh tượng đó đầy vẻ kinh ngạc, đoạn liếc mắt sang Arthur đầy ngụ ý, và anh chỉ khẽ gật đầu xác nhận.

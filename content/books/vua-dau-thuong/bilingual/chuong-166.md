@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 4.
 
 <p class="para-en">They were three minutes reviving her. Her heart stopped again in the emergency room. It took five minutes that time, but after that they had her on oxygen and plasma, and it was safe to pack her on the helicopter and fly her to Portland.</p>

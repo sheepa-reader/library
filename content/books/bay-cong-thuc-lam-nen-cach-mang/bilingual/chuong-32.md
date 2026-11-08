@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 25 Tin tưởng
 
 <p class="para-en">Hours later, as I headed to The Steer’s Snort, a pub on floor eleven of the Academy, I couldn’t stop thinking about the conversation with Vanil. Asshole. If the Herd was going to exploit my moms and me, make up lies about us, the least they could is protect the people they claim to represent. But unless I found a way to empower myself further, I had no leverage. They already used my image and my words for their own ends. If I tried to steer common away from the Herd, they’d just claim I was trying to lower my profile around the Rare or something. My own words didn’t belong to me. But if I found the spice, maybe I could hang it over their heads and force them to investigate the masks.</p>

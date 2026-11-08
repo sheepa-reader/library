@@ -1,6 +1,6 @@
-# Chương 15
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 15
 
 Chúng tôi thúc ngựa quay về thành Talagray trong bầu không khí đặc quánh im lặng. Vẻ dũng mãnh, cộc cằn thường nhật của Miljin biến mất hoàn toàn. Gã ngồi sụp trên lưng ngựa, mắt đăm đăm nhìn thẳng, bao kiếm va vào mạn sườn từng nhịp khô khốc. Mãi đến khi những công sự phòng thủ cùng họng bệ pháo đen ngòm phía xa hiện rõ trong tầm mắt, gã mới lạnh lùng lên tiếng.
 

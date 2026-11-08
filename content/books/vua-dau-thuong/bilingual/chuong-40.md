@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi bảy
 
 <p class="para-en">The night before Easter Sunday, Arthur couldn’t sleep. There was a bitter taste in his mouth like he had been chewing on a copper wire. He felt the next day was his own execution, not Jayne’s. Finally, at three in the morning, he got out of bed, knelt next to the mattress, and prayed, as his mother had showed him how to pray. He prayed to God to let Jayne and Ronnie live.</p>

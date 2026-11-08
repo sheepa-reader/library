@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 2.
 
 Donna đang sải bước qua khoảng sân bê tông tiến về phía tòa cao ốc văn phòng thì chiếc điện thoại Nokia bóng bẩy trong túi xách rung chuông inh ỏi. Mùa Giáng sinh năm nào Colin cũng tặng cô một chiếc máy đời mới nhất. Cô dừng bước để bắt máy đơn giản bởi điều đó đồng nghĩa với việc cô có thêm thời gian hút nốt điếu thuốc lá dở dang. Điếu thuốc sau bữa điểm tâm sáng luôn là điếu thuốc cô mê mẩn nhất trần đời, cảm giác thậm chí còn đê mê hơn cả điếu thuốc sau một màn ân ái cuồng nhiệt. Không hẳn là cô thực sự ăn sáng, cô chỉ nạp một ly sinh tố hoa quả ăn kiêng nhằm duy trì trọng lượng cơ thể cố định ở mức một trăm mười bốn pound trước ống kính máy quay truyền hình.

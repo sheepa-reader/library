@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 33 Thật là một tình thế khó khăn
 
 <p class="para-en">Screw Vanil. Screw finding leverage for myself by searching for the spice. I was on the hunt for cultists. I wanted revenge. But we had to deal with Laven first. He was understandably curious how we’d managed to stop the attackers and why we’d chosen to bring him to my moms’ apartment.</p>

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 18.
 
 Ánh đèn chói lòa đến mức làm người ta lóa mắt. Họ đang giữ cô trong phòng phẫu thuật, một chiếc mặt nạ áp chặt vào mũi và miệng để cung cấp oxy. Một vị bác sĩ đeo găng tay cao su và khẩu trang y tế đang đứng bên phải cô. Từ cổ tay trở xuống, ông ta đẫm máu. Gwen lờ mờ nhận ra các y tá đang tất bật di chuyển ở khóe mắt. Có một tấm màn màu xanh lam dựng phía sau vị bác sĩ và một vết máu nâu loang lổ rộng trên đó. Một dãy màn hình cạnh giường ghi lại các chỉ số sinh tồn của cô: nhịp tim, thân nhiệt và nồng độ oxy.

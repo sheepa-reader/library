@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi hai
 
 <p class="para-en">“How’s it going with Enoch Crane?” Van asked. “He stick it in anyone’s contrawhatum lately?”</p>

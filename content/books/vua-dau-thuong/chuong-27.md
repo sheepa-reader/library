@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi bốn
 
 Bóng đen tháo chạy trên tuyết và Arthur Oakes đuổi theo phía sau.

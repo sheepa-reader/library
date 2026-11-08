@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 2 Hương vị của Sức bền ma thuật
 
 <p class="para-en">“It isn’t magic if you know how it works,” my mother Sesa teased over my shoulder.</p>

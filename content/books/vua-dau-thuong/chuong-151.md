@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 24.
 
 Robin bắt đầu học đan len từ khi cô bốn mươi tuổi và đến năm bốn mươi ba thì chuyển sang móc len. Cô đan rất khéo những chú gấu Ewok và Yoda bằng len xù. Cô đã móc vài chiếc ví hình âm hộ cỡ lớn để làm túi xách cho những người bạn thích thể loại độc lạ đó. Giờ đây, cô đang móc một chiếc mũ giáp của hiệp sĩ, một kiểu mũ có thể trùm lên đầu như mũ len, với một khe hở ở phần che mặt để nhìn rõ phía trước. Cô đang ấp ủ ý định móc tặng mỗi người trong số những nữ chiến binh diệt rồng của mình một chiếc. Cô đang làm chiếc của Gwen trước, để Gwen có thể đội nó trước khi Vua Đau Thương lấy mạng cô.

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 26.
 
 Vào đêm ngày mười chín, Garrett quay trở lại Boston từ The Briars, mang theo chiếc hộp các-tông đựng mọi thứ mà Colin đã yêu cầu.

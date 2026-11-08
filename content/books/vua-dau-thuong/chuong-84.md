@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 5.
 
 Trước khi kịp nhận thức được không gian xung quanh, Van đã cảm nhận rõ mồn một cơn đau nửa đầu dữ dội đang cào xé tâm can mình. Cảm giác buốt nhức tựa như có một thanh sắt nung đỏ đâm xuyên qua hộp sọ. Các ngón tay anh cuộn chặt cứng lại thành nắm đấm, và khi anh gắng gượng thử duỗi thẳng các ngón tay ra, anh bàng hoàng nhận ra mình hoàn toàn bất lực.

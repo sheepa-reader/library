@@ -1,6 +1,6 @@
-# CHƯƠNG 25
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 25
 
 Tôi không hề nhúc nhích dù chỉ một đầu ngón tay cho đến khi nghe thấy tiếng động cơ gầm rú ngoài sân, tiếng chiếc xe bán tải của gã lùi bánh qua bờ lề rồi rồ ga phóng vút đi khỏi lối vào nhà tôi. Tôi đứng chôn chân tại chỗ, nín thở lắng nghe tiếng xe xa dần rồi tan biến vào thinh không, cho đến khi chỉ còn lại sự im lìm chết chóc bao trùm khắp căn nhà vắng.
 

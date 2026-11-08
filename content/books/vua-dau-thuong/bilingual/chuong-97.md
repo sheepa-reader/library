@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 18.
 
 <p class="para-en">Donna exhaled slowly and deeply, just as she had been instructed—and curls of gray smoke drifted from her nostrils. Dr. Patrick mewled in the darkness. Little Rock lunged for the door, yanked at the handle. It wouldn’t open.</p>

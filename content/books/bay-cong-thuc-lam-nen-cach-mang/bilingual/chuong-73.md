@@ -1,3 +1,7 @@
+<p class="para-en">*Course 7: Fire Shanks*</p>
+
+<p class="para-vi-sub">*Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa*</p>
+
 # 62 Những giải pháp tình thế
 
 <p class="para-en">Peace was short-lived, and the world didn’t wait while I mourned. The Herd occupied the city, its soldiers using Emphon Tacos and a dozen other greaters to overwhelm the carvers that fought back, but with the entire population of common at the Herd’s back, it wasn’t difficult to maintain control. The Herd had planned well, and common seamlessly took the place of the Rare, who fled in droves, many of the more powerful families rallying rogue carvers as personal guards.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 3.
 
 <p class="para-en">As the ambulance turned through the stone gate and left the campus, she drew a sudden rattling breath as a spear of pain drove through her midsection—it felt as if she had been run through with a broadsword—and that was it. That was where Gwen died: a mile from the Podomaquassy hospital, thirty minutes from Eastern Maine Medical in Portland.</p>

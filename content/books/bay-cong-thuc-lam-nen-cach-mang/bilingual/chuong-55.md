@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 46 Chốn đắng cay
 
 <p class="para-en">We finished our peanut butter sandwiches as dawn’s first pink rays broke over the back of Fen’s Plateau. Cori left to share my new plan with Crooked Rish, and I waited for her to get a good distance before departing myself, headed to Cutler’s.</p>

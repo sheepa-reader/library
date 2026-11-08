@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # Món Thứ Tư • Bít tết khoai tây chiên
 
 <p class="para-en">Equally capable of filling the role of appetizer or main, Grilled Steak Fries are best served with light dollops of guacamole, sour cream, and your choice of red, green, or mango salsa. They should typically precede a grain bowl main dish or be served alongside a black bean salad.</p>

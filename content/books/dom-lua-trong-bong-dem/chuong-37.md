@@ -1,6 +1,6 @@
-# CHƯƠNG 33
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 33
 
 Tôi bắt gặp bóng dáng anh lần đầu tiên tại một bữa tiệc sinh viên tại gia, khi anh đang cúi người nhúng chiếc cốc nhựa màu đỏ vào thùng đá ăm ắp thứ rượu pha mang sắc đỏ neon rực rỡ. Anh sở hữu một khí chất vô cùng đặc biệt mà tôi không tài nào định nghĩa thành lời: một sức hút gần như siêu thực, tựa hồ như toàn bộ những con người khác trong căn phòng đều mờ nhạt chìm vào bóng tối, chỉ riêng mình anh đứng đó, rạng rỡ tỏa sáng và thu hút trọn vẹn mọi luồng quang năng về phía mình.
 

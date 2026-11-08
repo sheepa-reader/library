@@ -1,6 +1,6 @@
-# 30
-
 *TRƯỚC NGÀY HALLOWEENTháng Chín*
+
+# 30
 
 **Thứ Ba, ngày 13 tháng Chín**
 

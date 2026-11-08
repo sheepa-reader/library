@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bảy
 
 Arthur dành trọn buổi chiều Chủ nhật trong trạng thái hồi hộp căng thẳng dâng cao, chật vật đánh vật với bản dịch một đoạn văn đơn giản trong *Cuộc đời Thánh Aubin*. Các câu văn cứ mất dần sự mạch lạc ngay giữa chừng. Anh đọc từng từ một rồi nhận ra mình không sao xâu chuỗi chúng thành bất cứ ý nghĩa gì có lý. Những cuốn sách trộm được nằm thành một chồng ở một bên bàn bếp, chập chờn ngay nơi rìa tầm mắt anh.

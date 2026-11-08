@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười sáu
 
 <p class="para-en">Arthur slept as poorly as he could ever remember, nodding off in snatches, then coming awake with the feeling of boiling in his own skin. He tossed off the covers and dozed again. When next he lurched awake, he was a-tremble in a cold, rotten sweat.</p>

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 7.
 
 Gwen nghĩ rằng con rồng sẽ khó lòng giở trò quỷ quái với cô khi có người chứng kiến, thế nên cô nhét mấy cuốn sổ tay của Arthur vào chiếc túi đeo chéo rồi rảo bước đến Thư Viện Brooks.

@@ -1,6 +1,6 @@
-# CHƯƠNG 27
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 27
 
 Chloeeee...
 

@@ -1,6 +1,6 @@
-# CHƯƠNG 22
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 22
 
 Tôi nhớ có lần từng nhìn thấy cha mẹ của Lena Rhodes, ông Bert Rhodes và bà Annabelle Rhodes, ngồi dưới hàng ghế khán giả trong đêm diễn kịch cuối năm thường niên của Trường Trung học Breaux Bridge. Năm ấy, đúng vào cái mùa hè xảy ra chuỗi án mạng kinh hoàng, nhà trường dựng vở nhạc kịch *Grease*, và Lena thủ vai nữ chính Sandy. Chiếc quần da bóng bó sát sàn sạt như làn da thứ hai của chị lấp lánh mỗi khi ánh đèn sân khấu quét qua ở một góc độ vừa vặn. Mái tóc tết hai bím kiểu Pháp thường ngày được thay thế bằng những lọn tóc uốn xoăn tít bồng bềnh, một điếu thuốc lá đạo cụ gài hờ hững sau vành tai (dù tôi nghi ngờ điếu thuốc đó là đồ thật; rất có thể chị đã lén ra bãi đỗ xe châm lửa hút ngay khi tấm rèm nhung khép lại). Anh Cooper cũng tham gia vở kịch, đó là lý do cả gia đình tôi có mặt tại hội trường. Anh chơi thể thao rất cừ, nhưng khoản diễn xuất thì không hẳn. Tờ chương trình giới thiệu anh vào một vai phụ siêu nhỏ kiểu như Học sinh số 3.
 

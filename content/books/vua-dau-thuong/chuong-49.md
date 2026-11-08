@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi sáu
 
 Gần nửa năm sau, vào ngày hai mươi ba tháng Mười Hai, Arthur bay từ sân bay Heathrow đến sân bay Logan. Colin Wren đang đứng chờ anh ở phía bên kia khu vực hải quan. Họ băng qua cây cầu vượt trên cao để đến nhà để xe sáu tầng, và anh quẳng chiếc vali của mình vào cốp chiếc Caddy mui trần đời 49. Colin vào số, lái thẳng hướng về phía Maine.

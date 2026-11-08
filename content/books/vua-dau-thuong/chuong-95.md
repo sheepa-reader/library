@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 16.
 
 Hai tuần sau khi Cady Lewis bước lên chiếc xe van định mệnh ấy và vĩnh viễn không bao giờ trở về, một thằng nhóc học lớp ba tên là Gerry Lean đã lén rón rén ra sau lưng Donna trong giờ giải lao, thét tướng lên: “Tao là kẻ bắt cóc đây!” rồi chộp lấy cánh tay cô bé. Donna giật thót mình kinh hãi, và ngay khoảnh khắc đó, một vệt ố sẫm màu bỗng lan rộng đằng trước chiếc quần bò Wranglers, ướt đẫm dọc theo mặt trong đùi trái cô bé. Bầu không khí lập tức rơi vào một khoảng lặng chết chóc và bàng hoàng tột độ. Lũ trẻ xung quanh sững sờ trố mắt nhìn. Một đứa con gái ré lên từng tràng cười the thé cuồng loạn. Về sau Donna luôn đinh ninh rằng tất cả bọn chúng đều đang cười nhạo mình, nhưng sự thật không phải vậy. Van đã tận mắt chứng kiến toàn bộ sự việc. Hầu hết những đứa trẻ khác đều nhìn trân trối với vẻ mặt như chực nôn mửa, hoặc sắp òa khóc, hay chỉ muốn lao đến ôm chầm lấy Donna để che chở cho cô bé khỏi nỗi tủi nhục bẽ bàng.

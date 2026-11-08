@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 5.
 
 <p class="para-en">Before he was aware of his surroundings, he was aware of his nauseating migraine. It felt like a steel rod had been pushed through his head. His hands were balled into fists, and when he tried to open his fingers, he found he couldn’t.</p>

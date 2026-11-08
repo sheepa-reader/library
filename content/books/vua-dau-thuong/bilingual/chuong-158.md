@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 31.
 
 <p class="para-en">They turned into the parking lot behind the Brooks Library, and Donna rolled into a slot in a far back corner, the Caddy turned to face Rackham’s Wood. They were almost the only car there.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 5.
 
 <p class="para-en">She was touch and go for most of six weeks. No blood of the saints to quicken her recovery this time. She wasn’t at Donna’s funeral in April, but she was able to attend the remembrance in August, at the Rackham College chapel. The Reverend Erin Oakes delivered the eulogy. She was as slim and pretty as ever, although her close-cropped hair was as silver as whitecaps in moonlight.</p>

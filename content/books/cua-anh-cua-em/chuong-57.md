@@ -1,6 +1,6 @@
-# Em
-
 *SÁU THÁNG SAU*
+
+# Em
 
 “Xin nhắc lại các tin chính trong bản tin trưa nay của chúng ta. Cựu tổng thống đã xuất hiện trước công chúng lần đầu tiên kể từ khi rời Nhà Trắng; các nhà khoa học cảnh báo loài ong có nguy cơ tuyệt chủng trong vòng chưa đầy một thập kỷ; và chúng tôi xin khép lại bản tin bằng những hình ảnh về chú gấu trúc con vừa chào đời tại Sở thú Edinburgh sáng nay. Quý vị có thể theo dõi thêm trên Kênh Tin tức BBC, nhưng thay mặt cho toàn thể ê-kíp Bản tin Trưa, xin kính chào tạm biệt.”
 

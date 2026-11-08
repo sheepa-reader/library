@@ -1,6 +1,6 @@
-# CHƯƠNG 30
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 30
 
 Daniel và tôi lại cùng nhau ngồi trong khoang xe, không gian hoàn toàn tĩnh lặng ngoại trừ tiếng gió rít qua ô cửa kính đang hạ thấp hết cỡ, phả vào mặt tôi luồng dưỡng khí trong lành mát rượi mà lồng ngực tôi đang vô cùng thèm khát. Tôi không tài nào ngừng nghĩ về mẹ, về cuộc đối thoại kỳ lạ vừa diễn ra trong căn phòng bệnh định mệnh ấy.
 

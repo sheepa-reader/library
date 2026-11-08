@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi
 
 <p class="para-en">They agreed to decamp to The Briars and get into the good stuff. Colin said you couldn’t drink beer to celebrate a day like this, you had to have Scotch like a civilized human being, and anyway, Llewellyn would want to drink with them. He had written one of Gwen’s recommendation letters. By some agreement, the McBrides and Allie went with Colin, crammed into his granddaddy’s cherry Caddy, which was over in student parking. Arthur left with Gwen to ride in her Civic. She had left her car in the staff lot, behind the student center, where the custodians and cafeteria services parked.</p>

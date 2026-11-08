@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi hai
 
 Vào ngày Chủ nhật cuối cùng của tháng Hai, Van ngồi sau vô lăng chiếc xe “Chúa ban” lái xe đưa Arthur về phía tây, hướng tới thị trấn Yorrick, bang Vermont, để tham dự phiên điều trần xét duyệt tha bổng cho mẹ anh.

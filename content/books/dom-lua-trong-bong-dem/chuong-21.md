@@ -1,6 +1,6 @@
-# CHƯƠNG 17
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 17
 
 Mỗi kẻ sát nhân hàng loạt đều sở hữu một chữ ký cho riêng mình. Tựa như nét ký nguệch ngoạc nơi góc bức tranh hay một chi tiết ẩn giấu kín đáo trong từng cảnh phim, những kẻ tự xưng là nghệ sĩ của tội ác luôn khao khát tác phẩm đẫm máu của mình được người đời công nhận, được lưu danh thiên cổ. Được khắc ghi mãi về sau.
 

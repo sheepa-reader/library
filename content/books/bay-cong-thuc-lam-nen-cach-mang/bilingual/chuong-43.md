@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 35 Đơn độc
 
 <p class="para-en">We brought the papers to Vanil, who set Crooked Rish to decoding their contents. Cipher was a new concept for me, and one I didn’t enjoy learning. Weeks to decode? I couldn’t wait weeks to know what was in those papers. What if they were attack plans?</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 13.
 
 <p class="para-en">Van knew his lies and Donna’s lies couldn’t match up, so he tried to say as little as possible and tell as much of the truth as he thought he could afford.</p>

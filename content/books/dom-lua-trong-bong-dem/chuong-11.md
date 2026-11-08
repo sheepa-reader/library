@@ -1,6 +1,6 @@
-# CHƯƠNG 7
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 7
 
 Tôi đứng nhìn chiếc xe của Daniel từ từ lùi ra khỏi lối vào nhà, ánh đèn pha nhấp nháy hai nhịp như một lời chào tạm biệt khi anh vẫy tay với tôi qua kính chắn gió. Tôi giơ tay vẫy lại, kéo chặt vạt áo choàng lụa trước ngực, hai bàn tay áp vào chiếc cốc sứ để tìm chút hơi ấm từ dòng cà phê nóng hổi đang tỏa khói nghi ngút.
 

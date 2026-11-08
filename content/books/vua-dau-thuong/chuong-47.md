@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi tư
 
 Gwen không còn là chính mình nữa.

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười ba
 
 Họ không nhìn nhau. Arthur đứng dậy, trần truồng bước vào bếp lấy hai lon bia rồi quay lại.

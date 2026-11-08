@@ -1,6 +1,6 @@
-# CHƯƠNG 11
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 11
 
 Việc tìm thấy chiếc hoa tai của Aubrey chẳng phải là điềm lành gì. Hình ảnh món trang sức bị vùi lấp dưới lớp đất lạnh lẽo nơi nghĩa trang làm máu trong người tôi như đông cứng lại. Những điềm báo u ám đằng sau nó trùm lên toàn bộ đoàn tìm kiếm tựa như một tấm chăn dập lửa, dập tắt ngấm ngọn lửa hy vọng vừa mới nhen nhóm giữa chốn nghĩa địa cách đó vài phút. Đôi vai của mọi người xung quanh đều chùng xuống rũ rượi, những cái đầu cúi gằm thấp hơn.
 

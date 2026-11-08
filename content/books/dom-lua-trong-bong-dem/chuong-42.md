@@ -1,6 +1,6 @@
-# CHƯƠNG 38
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 38
 
 “Chloe, thứ gì trong tay cô thế kia?”
 

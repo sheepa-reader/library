@@ -1,6 +1,6 @@
-# CHƯƠNG 5
-
 *THÁNG NĂM, 2019*
+
+# CHƯƠNG 5
 
 Tôi xin phép Shannon và Daniel rồi khẽ lách người qua cánh cửa kính trượt để ra ngoài. Bước được ra đến hiên sau thì đầu óc tôi đã bắt đầu quay cuồng, tay vẫn cầm chặt ly rượu thứ tư. Những lời chúc tụng xã giao bất tận cứ vo ve bên tai, còn chai vang tôi vừa nốc cạn đang khiến các mạch máu trong đầu giật từng cơn. Ngoài trời không khí vẫn oi nồng, nhưng làn gió đêm hiu hắt thổi qua cũng đủ làm dịu đi phần nào cơn bức bối. Không gian trong nhà đã trở nên ngột ngạt đến nghẹt thở bởi hơi nóng tỏa ra từ cơ thể chếnh choáng hơi men của bốn mươi con người đang chen chúc giữa bốn bức tường.
 

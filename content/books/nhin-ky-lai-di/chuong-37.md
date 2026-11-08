@@ -1,6 +1,6 @@
-# 32
-
 *TRƯỚC NGÀY HALLOWEENTháng Chín*
+
+# 32
 
 **Thứ Tư, ngày 14 tháng 9 năm 2022**
 

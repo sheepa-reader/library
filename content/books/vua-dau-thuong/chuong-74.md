@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Hậu Chuyện • Hai
 
 Van và Allie được bố trí ở chung một phòng tại Khách sạn Narsarsuaq, với toàn bộ chi phí do hãng British Airways đài thọ. Họ có được nhiều sự riêng tư hơn phần lớn những người còn lại. Khách sạn chỉ vỏn vẹn tám mươi phòng nhưng phải xoay xở tìm chỗ ngả lưng cho gần ba trăm hành khách, khiến không ít người đành phải nằm la liệt trên những chiếc giường xếp dã chiến kê trong phòng khiêu vũ. Chừng một trăm người sống sót khác thì được thu xếp tá túc trong nhà thi đấu thể chất của một trường trung học nằm ở bờ bên kia vịnh hẹp.

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 38 Hương vị panna cotta
 
 <p class="para-en">“I need another favor,” I whispered two weeks later, when finally carvers were becoming less frequent attendees of my classes.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 12 Những vị khách dùng bữa tối
 
 <p class="para-en">As I left the Rare-only Palace District, I drew more stares than the two carvers who trailed me home “for my safety,” which was saying something. I assumed the scrutiny was for my clothes.</p>

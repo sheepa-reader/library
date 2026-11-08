@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 1.
 
 Gwen vẫn còn tỉnh táo khi họ chằng cô vào chiếc cáng Stokes để đưa cô xuống khỏi đống đổ nát. Một gã lính cứu hỏa có ngoại hình đẹp trai đến vô lý, với chiếc cằm chẻ cùng đôi mắt xanh biếc của một siêu anh hùng trong truyện tranh, đang lo lắng cúi người xuống siết chặt các đai giữ cho cô.

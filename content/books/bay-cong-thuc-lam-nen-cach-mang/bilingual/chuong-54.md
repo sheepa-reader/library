@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 45 Loại dao
 
 <p class="para-en">An hour later, the Butcher leans his freshly shaved head back against the wall of his cell, breathing deeply. The archivist watches him from the still-open door. Not a moment before, the archivist had taken a similar moment in the hallway, calming with forehead to cold masonry. His words still lingering.</p>

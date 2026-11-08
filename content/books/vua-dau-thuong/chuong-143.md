@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 16.
 
 Khi Gwen và Robin bước vào nhà nguyện trong khuôn viên Đại học Rackham, ba ngày sau khi Allie ôm tạm biệt Donna tại Dinh thự The Briars, buổi họp lúc tám giờ tối vẫn đang diễn ra ở dưới tầng hầm. Gwen tìm một chỗ ngồi trên dãy ghế dài. Nhà nguyện mở cửa suốt đêm cho sinh viên, nhưng vào giờ này, chỉ có những ngọn đèn hắt sáng được bật lên, phả ánh hào quang rực rỡ lên cấu trúc vòm đá chạm trổ tinh xảo phía trên. Một cuốn Kinh Thánh có tuổi đời từ một thế kỷ trước, dày gấp đôi cuốn nhật ký của Enoch Crane, đang mở sẵn trên bệ thờ, và Robin tạt ngang qua để liếc nhìn nó. Cô nở một nụ cười đắc ý khi bước trở về chỗ ngồi của mình.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 18.
 
 <p class="para-en">The British Cave Rescue Council was eight days plumbing the caverns around Camelford, concentrating on the path that led to what was locally known as Arthur’s Stairs. Colin joined them several times and realized these stairs—a wide series of shelves descending into a dry, roomy hole—were nowhere near the steps they had walked with Svangur. In fact the BCRC never came anywhere near the hole under the boulder or even the trail through the briars.</p>

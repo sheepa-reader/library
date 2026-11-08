@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 28.
 
 <p class="para-en">Gwen had a view of some maples and the birds springing about in the red-tipped branches: little birds with soft white breasts and dove-gray backs. She wasn’t sure what sort. Arthur might’ve known. Birds belonged to his half of the crossword. She was studying them intently when there was a light rap at the door.</p>

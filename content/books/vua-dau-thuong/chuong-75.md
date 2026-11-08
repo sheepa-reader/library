@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Hậu Chuyện • Ba
 
 Ba ngày sau, một thảm kịch còn kinh hoàng hơn thế giáng xuống khi Timothy McVeigh kích nổ mười ba thùng phân bón ammonium nitrate chất đầy trên một chiếc xe tải thùng Ryder ngay trước Tòa nhà Liên bang Alfred P. Murrah ở thành phố Oklahoma. Chiếc xe tải đỗ ngay khu vực bốc dỡ hàng nằm sát phía dưới nhà trẻ ban ngày ở tầng hai. Mặt tiền của tòa cao ốc đã bị thổi bay hoàn toàn, phơi bày lớp cắt ngang bên trong tựa hồ một mô hình văn phòng đồ chơi bị ai đó xé toạc. McVeigh đã cướp đi sinh mạng của 168 con người, trong đó có 19 đứa trẻ thơ vô tội.

@@ -1,6 +1,6 @@
-# Chương 14
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 14
 
 Sau Topirak, tôi tiếp tục tra hỏi thêm bốn kẻ nữa. Tất cả đều kiệt quệ, đớn đau và chìm trong bi kịch, một kẻ chấn thương nội sọ, một phụ nữ đứt lìa bàn chân, kẻ khác đầu mặt quấn kín băng gạc. Không ai muốn cất lời. Nhưng tôi vẫn trụ lại, rảo bước giữa hàng băng gạc cùng bồn ngâm y tế. Hít một hơi sâu từ lọ thủy tinh phảng phất mùi tro củi, tôi cạy từng từ từ tâm trí kiệt cùng của họ. Một quy luật tàn khốc bắt đầu lộ diện giữa những kỹ sư tử thương.
 

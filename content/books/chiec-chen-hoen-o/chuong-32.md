@@ -1,6 +1,6 @@
-# Chương 32
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 32
 
 Bóng tối sụp xuống khoảng sân trong tòa tháp Bộ Tư pháp. Tôi, Ana và Đại úy Miljin ngồi lặng im, nhấp từng ngụm trà clar đắng ngắt giữa tiếng ủng lính dậm rầm rập ngoài phố. Miljin vừa trình lên Ana bản danh sách những quân đoàn viên được dung hợp sinh học để tăng cường thể lực. Trong lúc bà lão nghiền ngẫm từng dòng tài liệu, tôi tóm tắt lại chi tiết các cuộc thẩm vấn bằng giọng đều đều, lạnh lùng.
 

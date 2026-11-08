@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 16 Laven Florento
 
 <p class="para-en">Laven was in Theory of Flavor as well, but we headed to different classrooms before and arrived at TOF at different times. I was both glad and disappointed not to be sitting with him.</p>

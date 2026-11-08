@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi sáu
 
 Dĩ nhiên, Gwen rất sẵn lòng chở Tana. Ngay ngày đầu tiên đưa Tana tới chỗ làm, cô ghé thẳng qua Dinh thự The Briars rồi gõ nhẹ lên khung cửa phòng làm việc.

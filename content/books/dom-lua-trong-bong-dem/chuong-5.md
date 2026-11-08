@@ -1,6 +1,6 @@
-# CHƯƠNG 1
-
 *THÁNG NĂM, 2019*
+
+# CHƯƠNG 1
 
 Cổ họng tôi ram ráp, ngứa ngáy.
 Ban đầu chỉ khẽ lăn tăn. Tựa như đầu của một chiếc lông vũ đang lướt dọc bên trong thực quản, từ trên xuống dưới. Tôi co lưỡi về phía vòm họng, cố dùng cuống lưỡi để gãi.

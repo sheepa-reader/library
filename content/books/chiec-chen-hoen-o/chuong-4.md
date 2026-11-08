@@ -1,6 +1,6 @@
-# Chương 4
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 4
 
 Đêm đã muộn khi tôi đến trạm bưu tá nằm ở rìa thị trấn. Chòm sao Móc Câu lấp lánh trên cao, nhô lên khỏi những vòm cây xám xịt và hơi lệch về phía đông, báo hiệu tháng Skalasi sắp kết thúc để nhường chỗ cho tháng Kyuz. Trạm bưu tá vắng lặng, ngoại trừ mấy con la mệt mỏi gục đầu buộc phía sau. Trạm trưởng Stephinos vẫn đứng tựa lưng vào quầy, khoanh tay, làn khói mỏng tỏa ra từ chiếc tẩu nhỏ trên môi. Đốm lửa lập lòe trong bóng tối khi gã gật đầu chào tôi.
 

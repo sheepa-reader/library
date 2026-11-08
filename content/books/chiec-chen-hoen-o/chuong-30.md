@@ -1,6 +1,6 @@
-# Chương 30
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 30
 
 Anagosa Dolabra và Tazi Miljin nghiêm nghị lắng nghe trong phòng làm việc khi tôi thuật lại từng chi tiết đã chứng kiến tại các sảnh đường của gia tộc Haza. Tôi hít một hơi sâu từ lọ tinh dầu khai tâm hương bạc hà, tường thuật rành rọt mọi chuyện, không bỏ sót bất kỳ tình tiết nào từ khoảnh khắc bước lên cỗ xe của họ, ngoại trừ hành vi vụng về khi lén lục lọi thư từ ở khu chuồng chim. Đó là con bài tôi quyết định giữ lại để báo cáo sau cùng.
 

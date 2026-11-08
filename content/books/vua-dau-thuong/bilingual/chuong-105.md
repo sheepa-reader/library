@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 26.
 
 <p class="para-en">She tugged open the door to ground level and stepped out into the last minutes of a firefight. She looked to the right, away from the lobby, toward the rear of the building. She saw four polo shirt soldiers gathered around the doors to the rear parking lot. There was a fifth man, but he was dead, stretched out on his back behind them. It looked like he had been raked with a claw the size of a loader’s bucket. One talon had carved him open from his right shoulder, down across his chest, to his left rib cage. A second had split his gut. Wet loops of intestine spilled back between his feet, dangling like loose suspenders. The dead man’s head was twisted toward her so he seemed to be staring down the hallway, and his mouth was open as if to scream for help.</p>

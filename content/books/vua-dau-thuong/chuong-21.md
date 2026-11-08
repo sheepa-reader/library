@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười tám
 
 Dù các lớp học phải đến ngày mười lăm tháng Một mới bắt đầu lại, thư viện đã mở cửa trở lại vào Thứ Năm ngày mười một, và Arthur bước vào đó vào chiều ngày hôm sau. Nơi này bao trùm một bầu không khí khép kín, đèn ở cả hai dãy nhà đều tắt, các ô bàn học trống không, căn phòng trung tâm rộng lớn chìm ngập trong những mảng bóng mờ xanh lam lạnh lẽo.

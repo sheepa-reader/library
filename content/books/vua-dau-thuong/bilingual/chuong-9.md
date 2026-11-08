@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Sáu
 
 <p class="para-en">Colin’s house didn’t have a yard—it had grounds. A fieldstone wall that was almost eight feet high surrounded the sprawling, wooded property. The briars that gave the house its name were piled up against the inside of that wall, black, thorny, and bare this late in the year. Arthur steered the Christmobile between the stone columns flanking the drive. A pair of wrought-iron dragons squatted atop them. Later, Arthur wondered if that was a coincidence. For all that, the house was surprisingly modest: a two-story brick Federal-style building, barely large enough for a family of eight and a dozen servants. The slate roof was exactly the same icy gray-blue as the ocean, which was visible in glints through the trees behind the house. They piled out, Arthur, Van, and the girls, and mounted the sort of granite steps one usually finds at the entrance of a nineteenth-century courthouse. Colin opened the front door before they could pound the big brass knocker. He was wearing a black turtleneck, tucked into his jeans, his head as sleek as a bullet. Arthur craned his neck, taking in the white Doric columns holding up the roof of the portico and the great fan-shaped window above the front door, which looked like it might be Tiffany. “Does your granddad have a lot of money?” he asked. A tactless thing to say, and he knew it the moment it was out of his mouth.</p>

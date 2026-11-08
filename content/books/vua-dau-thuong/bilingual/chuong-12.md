@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Chín
 
 <p class="para-en">It wasn’t all digging around in Llewellyn’s Cabinet of Curiosities and scaring themselves silly with ghost stories. That fall they watched a lot of Unsolved Mysteries together. The McBrides had a passion for it, couldn’t bear to miss an episode. Donna fixated on the subhuman creeps who hurt children. She had a yen for cruel retribution. She didn’t just believe in the death penalty—she thought sex murderers should be castrated first, with a rusty machete. Van, on the other hand, had a fascination with people who got away with it: Jack the Ripper, D. B. Cooper, the Unabomber. It could give you whiplash, listening to the two of them. Van thought college should be free and national health care a law. Donna wanted the Central Park Five executed by firing squad. Arthur had always assumed twins would agree on everything. It was a source of amusement to all of them that Donna—who was president of Rackham College’s young conservative club—was the identical twin of a hayseed socialist who thought the Democrats were too far to the right. Van had claimed he was going to vote for Willie Nelson as a write-in candidate in the 1988 presidential election. Willie would legalize pot and the taxes on marijuana sales would pay for national day care. Donna said she would vote for George Bush twice if she was allowed. In the end, though, neither of them voted—they forgot to register in the state of Maine.</p>

@@ -1,6 +1,6 @@
-# CHƯƠNG 48
-
 *THÁNG BẢY, 2019*
+
+# CHƯƠNG 48
 
 Một ngọn gió mát lành lùa qua ô cửa sổ mở toang, làm những lọn tóc tôi khẽ nhảy múa dưới ánh hoàng hôn, phất phơ lướt qua gò má. Nắng chiều muộn vẫn còn phảng phất hơi ấm trên da thịt, nhưng hôm nay, không khí lại se lạnh một cách lạ lùng. Thứ Sáu, ngày hai mươi sáu tháng Bảy.
 

@@ -1,6 +1,6 @@
-# Chương 11
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 11
 
 Từ những tấm bản đồ, tôi biết rằng tại trung tâm thành phố ngự trị một khu phức hợp gọi là Khu Tam Tòa: trụ sở của các Bộ Quân đoàn, Bộ Tư pháp và Bộ Công Binh, nơi các văn phòng ban ngành khác quy tụ xung quanh như một chòm sao nhỏ. Người đánh xe thuộc Bộ Quân đoàn điều khiển cỗ xe đưa chúng tôi hướng về phía đó, len lỏi qua dòng giao thông hỗn loạn cuộn trào quanh những ngọn tháp dây leo Fretvine. Thật khó để nắm bắt bản chất của thành phố từ bên trong cỗ xe, nhưng nơi đây toát lên vẻ chắp vá tạm bợ: những ngôi nhà bằng giấy dương xỉ dựng vội vã rung rinh quanh chúng tôi tựa như đàn bướm đêm mỏng manh, với những biển hiệu giấy dương xỉ treo trên những cây cọc xiêu vẹo đề tên lò rèn, nhà trọ, quán rượu sotwine. Thứ duy nhất có vẻ kiên cố là những con đường và nền móng được đẽo gọt từ đá và gạch. Mọi thứ còn lại đều bấp bênh và cẩu thả. Tựa như một bức phác thảo nguệch ngoạc về nền văn minh, vội vã vẽ lên một tấm toan bằng đá sũng nước.
 

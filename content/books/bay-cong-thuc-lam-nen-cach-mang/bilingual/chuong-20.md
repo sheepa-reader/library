@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 14 Phố Mây
 
 <p class="para-en">My guards stopped me outside. “We sent your other things to your flat,” one informed me.</p>

@@ -1,6 +1,6 @@
-# CHƯƠNG 6
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 6
 
 Tôi chợt mở bừng mắt. Đầu tôi đau buốt như búa bổ, từng nhịp đập thì thùng hệt như tiếng trống trận dội thẳng vào màng nhĩ làm cả căn phòng dường như chao đảo. Tôi trở mình trên nệm, liếc nhìn đồng hồ báo thức. Mười giờ bốn mươi lăm phút. Làm sao mà tôi lại có thể ngủ li bì muộn đến thế này cơ chứ?
 

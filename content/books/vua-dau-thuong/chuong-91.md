@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 12.
 
 Nhưng khi cô gặp lại Valentine vào ngày hôm sau, dường như đã có điều gì đó đổi khác. Hắn không buồn liếc nhìn cô khi bước vào phòng. Trông hắn có vẻ lơ đễnh, mắt dán chặt vào chiếc BlackBerry và bấm phím một cách uể oải.

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Khúc Chuyển Tiếp Ba • Gwen, Dưới Bóng Đen (2001)
 
 Họ chuyển một nữ sinh viên hai mươi tuổi của trường Cao đẳng Rackham đến Bệnh viện Podomaquassy vào giữa buổi sáng. Cô bé đã ngã lộn cổ qua ván trượt khi cố thực hiện một cú mài ván trên đường dành cho xe đạp, và vỡ nát hộp sọ. Gwen không tin Amanda French còn có cơ hội tốt nghiệp đại học được nữa. Nếu may mắn mỉm cười, có lẽ một ngày nào đó Amanda sẽ chuyển từ chế độ ăn thức ăn lỏng sang thức ăn mềm, với giả định cô bé còn nhớ nổi cách cầm thìa dĩa, nhưng Gwen sẽ chẳng bao giờ dám đặt cược vào tia hy vọng mong manh ấy.

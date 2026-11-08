@@ -1,6 +1,6 @@
-# Chương 13
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 13
 
 Thành Talagray thức giấc khi rạng đông đổ tràn xuống từng dãy phố. Trên khắp các ngả đường, ngõ ngách và hành lang, dòng người túa ra cuồn cuộn như đàn kiến vỡ tổ. Mang trên mình sắc phục đại diện cho các Bộ, họ hối hả tỏa đi làm nhiệm vụ, tạo thành những dải màu hỗn tạp đan xen giữa đỏ bùn, tím thẫm và đen tuyền. Bộ máy khổng lồ vận hành Đế quốc bắt đầu rùng mình chuyển động.
 

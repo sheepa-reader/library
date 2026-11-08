@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi hai
 
 <p class="para-en">Arthur sucked a breath to shout for Gwen and inhaled a chest full of choking smoke. He coughed, a harsh, racking cough that felt like it was going to pry bones apart in his chest. Without thinking, he dropped from the stool, searching for air close to the floor.</p>

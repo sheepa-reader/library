@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi lăm
 
 Đối với Arthur, tất cả những chuyện này thật ngớ ngẩn. Mẹ anh buộc phải thi hành nấc cuối của bản án tại một trung tâm tái hòa nhập cộng đồng, tên gọi mỹ miều của một dạng nhà lưu trú chuyển tiếp có giám sát. Cứ như thể một người phụ nữ từng giảng dạy bộ môn giáo lý đạo đức tại Đại học Dartmouth kiêm mục sư đã thụ phong lại sẵn sàng phung phí những ngày tự do đầu tiên để sục sạo tìm mua ma túy, rượu nồng hay rước vào người một trận bệnh lậu kinh hoàng vậy.

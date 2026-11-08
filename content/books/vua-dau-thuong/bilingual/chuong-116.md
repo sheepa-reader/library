@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 9.
 
 <p class="para-en">They went upstream with the river on their right. For a little while there was a path, a hard dirt track that wandered through hummocks of close-cropped grass. Then they were climbing for higher ground and there was hardly any path at all. They worked their way up through a curious stand of ancient gnarled trees, like passing through a bewitched forest. The gathering night smelled strongly of leaf mold and wet earth, and they emerged from the trees into a clearing, a sort of landing on the side of the hill. In the center of the clearing was a jagged tooth of granite, spotted with lichens and moss. As they approached it, in the dimness, Colin could see it was inscribed: someone had chiseled Pictish lettering into it a thousand years ago, little whirlpool symbols and dashes with lines through them.</p>

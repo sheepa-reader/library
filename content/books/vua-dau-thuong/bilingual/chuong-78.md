@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Hậu Chuyện • Sáu
 
 <p class="para-en">They married in a beautiful pagan spot, in the hills above the fjord, at sunrise. It had to be done early—Allie and Van were flying back to the States with Allie’s parents before lunch. BA had offered them first-class tickets, but they had declined. George Bush Sr. had sent the Gulfstream, was happy to lend his plane for a day. He and Allie’s father were old friends, had golfed and prayed together, shot ducks with Dick Cheney, talked legislation and football over T-bones.</p>

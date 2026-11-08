@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 8.
 
 <p class="para-en">Colin had seen him too. He was a gangly derelict, sprawled on the dirt, half under the bridge amid his clutter, one leg sticking out into the dusk. His clothes were piled on, a tattered olive coat over a moth-eaten cardigan over a stained T-shirt. The T-shirt showed a black knight in a bucket helmet, with blood spouting from a severed arm. A slogan in Gothic print read, ’tis but a scratch. His worldly belongings were heaped in a rusting shopping cart. He even had a TV, flipped on. It was about the size of a walkie-talkie and had an antenna like a walkie-talkie too. The picture was black-and-white and showed some young women in thongs walking on a beach.</p>

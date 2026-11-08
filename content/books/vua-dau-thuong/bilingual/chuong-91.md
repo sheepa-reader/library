@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 12.
 
 <p class="para-en">But when she saw Valentine the next day, something had changed. He didn’t look at her when he came in the room. He seemed distracted, staring at his BlackBerry, tapping the keys in a disconsolate way.</p>

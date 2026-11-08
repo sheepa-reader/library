@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi
 
 Colin lật sang một trang khác, một nếp nhăn xuất hiện trên cái trán rộng của hắn.

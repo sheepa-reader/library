@@ -1,6 +1,6 @@
-# Chương 29
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 29
 
 Tôi rảo bước quanh trang viên Haza khi hoàng hôn buông bóng, vừa đi vừa hít từng ngụm dung dịch kích thích. Suốt quãng đường, đám lính của Fayazi bám đằng đẵng phía sau như thể tôi là gã quý tộc bị giam lỏng đang thong dong tản bộ. Tôi phớt lờ chúng, đăm đắm quan sát những bức tường dây leo Fretvine cao sừng sững.
 

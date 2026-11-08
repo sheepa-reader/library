@@ -1,7 +1,11 @@
+<p class="para-en">*SIX MONTHS LATER*</p>
+
+<p class="para-vi-sub">*SÁU THÁNG SAU*</p>
+
 # Em
 
 <p class="para-en">I never thought I’d see my mother move out of her home.</p>
-<p class="para-vi-sub">*SÁU THÁNG SAU* Tôi chưa bao giờ nghĩ mình sẽ thấy mẹ chuyển ra khỏi ngôi nhà của bà.</p>
+<p class="para-vi-sub">Tôi chưa bao giờ nghĩ mình sẽ thấy mẹ chuyển ra khỏi ngôi nhà của bà.</p>
 
 <p class="para-en">She said she’d rather die than leave our old house, but once I understood the real reason why, I knew what I needed to do about it. I don’t know if I really believed her about killing my dad, until I dug up the vegetable patch and started finding bones. Nobody is going to find anything they shouldn’t buried in the garden now, at least not in my lifetime. What happened is all covered up with a brand-new patio, the past buried underneath for good.</p>
 <p class="para-vi-sub">Bà nói thà chết chứ nhất quyết không rời khỏi ngôi nhà cũ của chúng tôi, nhưng một khi tôi đã hiểu được lý do thực sự đằng sau điều đó, tôi biết mình phải làm gì. Tôi không biết liệu mình có thực sự tin lời bà về chuyện đã sát hại cha hay không, cho đến khi tôi tự tay cuốc tung luống rau và bắt đầu tìm thấy những chiếc xương. Sẽ chẳng ai còn tìm thấy bất cứ thứ gì không nên có bị chôn vùi trong khu vườn ấy nữa, ít nhất là trong quãng đời còn lại của tôi. Mọi chuyện đã được che đậy hoàn toàn bằng một khoảng hiên lát đá hoàn toàn mới, quá khứ đã được chôn vùi bên dưới vĩnh viễn.</p>

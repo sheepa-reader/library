@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Giờ Rồng Thức Tỉnh
 
 Cô lách qua tấm rèm ngăn khoang phổ thông và va sầm thẳng vào người Albert Shook. Trán cô cụng mạnh vào trán gã. Gã gầm gừ lên một tiếng rồi chộp chặt lấy cả hai bả vai cô.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Một
 
 <p class="para-en">On the first weekend in September, Arthur Oakes drove west to see his mother in the House of Correction. It was a trip of more than two hundred miles, across the southern half of Maine, the chimney pipe of New Hampshire, and into Vermont, and it ended, as it always did, in a line of cars waiting to pass through a twelve-foot-high gate topped with barbed wire.</p>

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười sáu
 
 Arthur trải qua một đêm ngủ chập chờn tệ hại nhất mà anh từng nhớ: chợp mắt được từng chặp ngắn rồi lại giật mình tỉnh giấc với cảm giác như da thịt mình đang sôi sùng sục. Anh đạp tung chăn gối, thiu thiu ngủ lại, nhưng đến lần choàng tỉnh tiếp theo, cả người anh đã run rẩy trong làn mồ hôi lạnh ngắt và hôi hám.

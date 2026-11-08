@@ -1,6 +1,6 @@
-# Chương 39
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 39
 
 Cuộc sơ tán thành phố, theo đúng lời Thống lĩnh Vashta, chẳng khác nào một thảm họa kinh hoàng.
 

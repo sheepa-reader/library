@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 5.
 
 <p class="para-en">She was climbing into her pickup two days later when he flickered across the full moon, hauling an endless length of tail behind him. The sight of him winded and awed her, the black jagged shape of him moving across a dark sky blazing with stars.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 56 Một bữa ăn đáng nhớ
 
 <p class="para-en">The table was set for twenty, but most were unfilled. I was commanded to sit opposite the king with Laven to my right, across from Cori. As we sat, three final seats were quickly filled by masked Seekers, helped into their seats by other Seekers, which I found odd. One beside me, and two beside Laven.</p>

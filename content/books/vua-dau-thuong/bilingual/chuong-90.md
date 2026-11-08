@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 11.
 
 <p class="para-en">Three men rolled a gurney into Donna’s room and forced her down onto it. She thrashed. She spat on one of them. She kicked another in the thigh and made him grunt. Didn’t matter. They were all big, implacable men, twice her size. They wore khakis and polo shirts, as if they were planning on an afternoon of golf. After they had pushed her flat on the gurney, one of them—Mr. Salem, his close-cropped black hair always gleaming as if he had just come from the shower—pressed a clear plastic mask down over her face, hard enough to squash her nose. She threw her head from side to side, tried to keep him from buckling it into place, and he grabbed her hair close to the scalp to hold her still. She wanted to bite him. She wanted to scream. She couldn’t do the first and wouldn’t allow herself to do the second.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười tám
 
 <p class="para-en">Although classes would not resume until January 15, the library reopened on Thursday the eleventh, and Arthur went in the following afternoon. The place had a closed feel, lights off in both wings, the carrels empty, the vast central room submerged in chilly blue shadows.</p>

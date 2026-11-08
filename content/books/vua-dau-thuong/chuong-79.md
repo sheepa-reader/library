@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Khúc Chuyển Tiếp Thứ Hai  • Gwen, Bị Bắt Giữ (1997)
 
 Vừa qua bữa điểm tâm sáng, tin đồn đã râm ran lan truyền khắp các dãy hành lang rằng một trong những nữ phạm nhân mới cải đạo, Deirdre Flannagan, con ranh gầy trơ xương tối ngày ôm chặt cuốn Kinh Thánh đi ngủ và rấm rứt khóc lóc mỗi bận cầu nguyện, đã treo cổ tự vẫn trong buồng giam vào đêm qua. Nó để lại một bức thư tuyệt mệnh trăn trối rằng tự sát dẫu sao vẫn là một tội lỗi nhẹ nhàng hơn việc phải tiếp tục sống cuộc đời nhơ nhuốc theo cái cách mà nó từng bị ép phải sống.

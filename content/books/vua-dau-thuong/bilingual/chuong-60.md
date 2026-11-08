@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 4 giờ 13 chiều (Giờ Miền Đông)
 
 <p class="para-en">January 3, 1995</p>

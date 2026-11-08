@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 4.
 
 Vào những ngày đầu tiên của tháng mới với cái lạnh buốt thấu xương, Gwen kéo ba chiếc hộp đựng tài liệu nhét đầy những cuốn sổ Leuchtturm1917 của Arthur ra từ gầm giường và bắt đầu đọc cuốn *Cẩm nang cho Kẻ diệt rồng chuẩn bị kỹ càng*. Cô từng thử một lần trước đó và nhanh chóng cất những trang giấy của anh đi. Cô hầu như không thể đọc nổi một đoạn mà mắt không bắt đầu cay xòe và nhòe đi, những chữ cái nhân lên gấp đôi trên trang giấy. Những ghi chú bên lề là thứ tệ hại nhất. “G. anh biết là mình diễn đạt đoạn này tệ quá, có cao kiến gì không?” và “G. người đọc có đang thấy cuốn sách thú vị không? EM có thấy thú vị không?” Cuốn sách giống như một ô chữ khổng lồ. Anh đã định cùng cô hoàn thành nó, một ý nghĩ mà trong một khoảng thời gian dài, cô không tài nào chịu đựng nổi.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 7.
 
 <p class="para-en">The road to Slaughterbridge was a strip of blacktop dropping down the side of a steep hill, between ten-foot-high stone walls and looming screens of dense hedge. There was a dotted line painted down the middle of the road, although it was barely wide enough for a single car. Twenty-five yards up the hill from the stone piers of the bridge, Robin slowed her Land Rover and turned clattering across a cattle grid and into a Cornish meadow, soggy from a late-afternoon shower. Colin thought her total self-assurance behind the leather steering wheel of the big four-by-four was a reminder Robin hadn’t grown up with a dollhouse and books about ponies. He found he didn’t much care for that—one of the things he liked best about women, even someone like Donna, was the way they contentedly allowed their gender to be their destiny. Men drove, especially if the vehicle in question was a big truck; women wrote thank-you notes with hearts dotting the i’s. But Robin Fellows might expertly apply a pair of false eyelashes and then hit a fleeing purse snatcher in a flying tackle like a former cornerback. Colin preferred people who lived their limits, people who knew what they could and couldn’t do and took it to heart. People like Arthur—there was a man who let himself be ruled by his natural shortcomings.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 27.
 
 <p class="para-en">They rolled north from the slaughter, and for a while Donna dozed with her head on her brother’s shoulder and his arm around her. In the months to come, she found that Van was often there, close beside her, when she was nodding off. He waited for her at the edge of sleep, standing on the lonely strand between wakefulness and dreams, his jeans rolled up and his feet in the surf of an ocean big enough to make the Atlantic look like a child’s wading pool. He wore a necklace of sand dollars.</p>

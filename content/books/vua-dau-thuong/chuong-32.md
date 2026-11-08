@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi chín
 
 Gwen đập cửa dồn dập nhưng không chờ anh trả lời. Cô tự mở cửa bước vào, cất tiếng gọi tên anh.

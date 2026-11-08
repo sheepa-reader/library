@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 24.
 
 <p class="para-en">Robin had started knitting when she was forty and at forty-three had made a lateral shift to crochet. She was quite good at making wooly Ewoks and Yodas. She had crocheted several large vaginas that could be used as pocket purses, for friends who liked that kind of thing. She was crocheting a knight’s helmet now, one that could be pulled on like a hat, with a slitted visor to cover the eyes. She had an idea to crochet one for all her dragon-fighting ladies. She was making Gwen’s first, so Gwen could enjoy it before King Sorrow killed her.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 11 Tên và Dao
 
 <p class="para-en">After the decision, Chef Ilantra escorted me to an incredulous administrator. After nearly an hour spent arguing to convince him that this was happening, he opened a book covered in so much dust you couldn’t read the cover. With the guidance of the book, he maneuvered me through several bureaucratic processes necessary to become a Rare. As I filed paperwork, Chef instructed me to report to the Culinary Academy at the end of the summer—in two days—to begin classes. She gave me a course schedule that was only half culinary. Military Matters, History and Logic, Alchemic Gastronomy, Knifecraft, and Theory of Flavor.</p>

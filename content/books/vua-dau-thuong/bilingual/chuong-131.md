@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 4.
 
 <p class="para-en">In the first bitterly cold days of the new month, Gwen dragged the three file boxes crammed with Arthur’s Leuchtturm1917 notebooks from beneath her bed and began to read Toolkit for the Well-Prepared Dragonslayer. She had tried once before and quickly set his papers aside. She could hardly read a paragraph without her eyes starting to sting and blur, the words doubling themselves on the page. The notes in the margin were the worst. “G., I know I’m phrasing this badly, any ideas?” and “G., is the reader having fun here? Are YOU having fun?” The book was an immense crossword puzzle. He had meant for them to finish it together, a thought that had been, for a while, unbearable to her.</p>

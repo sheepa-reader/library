@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 7 Trận chiến đầu tiên tại Cánh Đồng Cỏ Cao
 
 <p class="para-en">“I don’t remember much of what lay between me and where I ended up,” the Butcher admits. “Wreckage, obviously. Your histories know which streets were destroyed, but near two thousand common died that day. I remember them.”</p>

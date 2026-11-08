@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 7 giờ 38 tối (Giờ Miền Đông)
 
 <p class="para-en">4 hours and 22 minutes until dragonedy o’clock</p>

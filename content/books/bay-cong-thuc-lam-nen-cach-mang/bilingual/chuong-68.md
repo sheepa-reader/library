@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 58 Những đội quân
 
 <p class="para-en">My anger flooded into the flavor, and it took on something vicious. Astringent, pungent, gritty. Like dirt and decay. Death and decimation. The razing of Commons, the persecution of a people. The taste was of a knife whittled from the bones of those the kingdom had betrayed, common and emphon alike.</p>

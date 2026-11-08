@@ -1,6 +1,6 @@
-# Chương 25
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 25
 
 Mũi giáo ánh sáng trắng đâm xiên qua ô cửa sổ cao vút, rọi thẳng xuống cô gái đang ngồi trên chiếc ghế ngay chính giữa luồng sáng lạnh lẽo. Mái tóc bạc búi gọn gàng trên vai, những ngón tay trắng ngần đan chặt trên đùi. Đầu gối và bàn chân khép cứng, một vỏ bọc hoàn hảo của sự khiêm nhường và đau thương. Mọi thứ hệt như một cảnh trong bức họa cổ điển: nàng tiểu thư tái nhợt u buồn bên phần mộ của cha mình.
 

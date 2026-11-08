@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Khúc Chuyển Tiếp Thứ Nhất • Gwen Underfoot
 
 <p class="para-en">1990</p>

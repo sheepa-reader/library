@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 34.
 
 <p class="para-en">When she shut her eyes, her nostrils were filled with the campfire smell of charred books, mingling with the cooling breezes of an ocean less than half a mile away. When she opened them, Van and Donna and Colin were down on the beach, burning the Christmas tree.</p>

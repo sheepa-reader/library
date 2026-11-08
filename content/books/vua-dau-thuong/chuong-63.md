@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 7 giờ 38 tối (Giờ Miền Đông)
 
 Còn 4 tiếng 22 phút nữa là đến Giờ Rồng Thức Tỉnh.

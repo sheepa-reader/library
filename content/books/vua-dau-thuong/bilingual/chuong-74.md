@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Hậu Chuyện • Hai
 
 <p class="para-en">Van and Allie had a room together, in the Hotel Narsarsuaq, with British Airways picking up the tab. They had more privacy than most. The hotel had just eighty rooms and needed to find beds for close to three hundred passengers—quite a few people were sleeping on cots in the hotel ballroom. Another hundred survivors were bedding down in the gymnasium of a secondary school on the far side of the fjord.</p>

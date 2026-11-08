@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 17.
 
 Hắn biết chính xác mình sẽ nhìn thấy gì khi nhìn vào chiếc mũ cối của Wolf Messing đang tràn đầy nước lạnh. Colin biết khi nhìn vào mặt nước, hắn sẽ chẳng thấy bóng phản chiếu của mình đâu, và hắn đã đoán đúng.

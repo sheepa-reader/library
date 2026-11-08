@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # Món Thứ Ba • Thịt băm Emphon
 
 <p class="para-en">Best served in small quantities as an appetizer, Emphon Tartare is the meal of choice for those who want the benefits of Endurance without the emphon being the centerpiece of the meal. Unlike many others, this greater recipe’s effects apply immediately after the first bite and last longer if the meal is enjoyed slowly. Pair with white wine—or silver tequila, if you’re feeling dangerous.</p>

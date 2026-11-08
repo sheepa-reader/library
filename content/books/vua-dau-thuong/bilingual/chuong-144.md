@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 17.
 
 <p class="para-en">They made their way out, Gwen with the messenger bag over one shoulder, her personal kit for the well-prepared dragon slayer packed into it once again. Robin opened one leaf of the tall wooden doors and held it while the others marched through.</p>

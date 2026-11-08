@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi tám
 
 Sự căng thẳng đè nặng lên Arthur suốt cả ngày dài. Nó *chồng chất* thêm lên, hệt như những cụm mây dông cuồn cuộn dâng cao phía chân trời, mang theo áp lực ngột ngạt cùng bóng tối bủa vây, đi kèm nhịp đập râm ran của một từ trường tích điện. Chỉ có điều, áp lực cùng cơn buốt nhói ấy lại đang tích tụ ngay trong đầu anh, còn những tia chớp xé rách thì liên tục lóe lên phía sau đôi mắt. Đến giữa buổi chiều, cơn đau nửa đầu dữ dội đến mức anh chẳng tài nào tập trung nổi vào việc học. Những con chữ trên trang giấy cứ chập chờn, cuồn cuộn xoáy tròn như một đàn chim sẻ.

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 57 Phép lịch sự trên bàn ăn
 
 <p class="para-en">As the king finished his meal, his eyes became rings of luminous intensity, bright as the inside of the oven. “Whoa,” he gasped, clutching the table. “What a rush.”</p>

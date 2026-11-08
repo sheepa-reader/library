@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 26.
 
 Cô nghe thấy loạt đạn tự động đầu tiên nổ rền vang từ phía xa đúng vào lúc đang lục lọi các túi áo trên người Valentine. Âm thanh ấy ban đầu chẳng có vẻ gì là lớn: một tiếng nổ chát chúa và sắc lạnh gợi nhớ đến món đồ chơi lên dây cót hình bộ hàm răng giả đang lách cách va vào nhau. Cô tìm thấy chiếc chìa khóa mở đôi găng tay da cưỡng chế, tháo phăng chúng ra khỏi hai cổ tay, rồi ném thẳng xuống gầm bồn rửa mặt. Cô cảm thấy đầu óc choáng váng, một trạng thái pha trộn giữa sự kiệt quệ thể xác và nỗi cảnh giác tột độ, mang theo cảm giác bồn chồn run rẩy vì thừa thãi caffeine mà cô từng nếm trải trong những đêm trắng ôn thi thời đại học. Cô ghé đầu ra khỏi cửa phòng tắm.

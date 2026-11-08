@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Khúc Chuyển Tiếp Ba • Gwen, Dưới Bóng Đen (2001)
 
 <p class="para-en">2001 They got a twenty-year-old Rackham student to Podomaquassy Hospital in the midmorning. She had gone over the front of her skateboard, trying to grind the rail on the bike path, and smashed her skull in. Gwen didn’t think Amanda French was going to graduate from Rackham College now. If Amanda was lucky, she might graduate from soft foods to solids someday, assuming she could figure out how to use a fork and knife again, but Gwen wouldn’t have bet on it.</p>

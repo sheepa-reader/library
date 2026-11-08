@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Khúc Chuyển Tiếp Thứ Nhất • Gwen Underfoot
 
 ## Khúc Chuyển Tiếp Thứ Nhất ◈ Gwen Underfoot

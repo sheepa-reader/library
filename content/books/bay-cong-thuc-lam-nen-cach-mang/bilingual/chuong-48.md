@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 40 Ngăn kéo bị kẹt
 
 <p class="para-en">“Hurry,” I whispered for the second time. “A carver could show up any second.”</p>

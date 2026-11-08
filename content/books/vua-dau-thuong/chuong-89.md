@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 10.
 
 “Donnie!” người phụ nữ da màu diện chiếc chân váy bút chì vải tu, cất lời khi bước vào căn phòng nhỏ của cậu tại Căn cứ Giam giữ Đen. Bà cất giọng với sự tươi vui hớn hở của một kẻ đang chào đón người bạn cũ tại sân bay. “Chúng ta vẫn chưa được giới thiệu với nhau đấy nhé! Tôi là Tiến sĩ Patrick. Hôm nay cậu thấy thế nào rồi?”

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 39 Huyền thoại
 
 <p class="para-en">I couldn’t exactly walk around holding up a mask and asking if anyone had seen it before. For one, it was as good as asking to get attacked. For another, I could barely walk around common districts at all anymore. Between the murals, the greetings, the singing that came my way, I felt like shrinking into my skin. I was the center of attention in every possible way. I was astounded Rare weren’t talking about it more or using it to goad me everywhere I went in the Academy. As we ducked through the door into the building housing Black Spice, I mentioned it offhand to Yenne.</p>

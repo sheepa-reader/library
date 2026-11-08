@@ -1,6 +1,6 @@
-# 5
-
 *BẢY TUẦN SAU ĐÓ - Tháng Bảy*
+
+# 5
 
 Nhân viên trực bàn tiếp nhận khoa cấp cứu ngước nhìn tấm thẻ nhân viên đeo lủng lẳng trước ngực tôi rồi khẽ gật đầu. Chúng tôi chưa từng chạm mặt nhau trước đây, nhưng dạo gần đây vài người trực ở khu này đã bắt đầu quen mặt tôi. “Bên công tác xã hội phải không cô?”
 

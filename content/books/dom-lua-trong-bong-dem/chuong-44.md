@@ -1,6 +1,6 @@
-# CHƯƠNG 40
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 40
 
 Tôi tắt đèn pha ngay khi vừa rẽ vào con phố nhà mình, dù biết tỏng làm vậy cũng chẳng ích gì. Daniel sẽ không trông thấy tôi tới, bởi anh ta đã rời đi từ trước. Tôi nhận ra điều đó ngay khoảnh khắc chiếc xe chầm chậm lướt qua khoảng sân vắng ngắt. Đèn trong nhà lẫn ngoài sân đều tắt ngấm. Ngôi nhà của tôi một lần nữa lại chìm vào câm lặng như một nấm mồ.
 

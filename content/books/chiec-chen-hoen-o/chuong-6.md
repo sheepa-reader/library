@@ -1,6 +1,6 @@
-# Chương 6
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 6
 
 Tôi quay lại trang viên Haza lần cuối để tiếp nhận tài liệu từ Gennadios. Gã ngoắc tay ra hiệu cho tôi bước vào phòng riêng, một màn bàn giao lén lút, đầy vẻ chột dạ. Tôi đón lấy từ tay gã, lạnh lùng săm soi.
 

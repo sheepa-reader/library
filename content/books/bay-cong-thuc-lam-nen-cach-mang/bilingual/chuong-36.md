@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 29 Những gì Cutler biết
 
 <p class="para-en">On the night of the autumn equinox, the largest of the twelve emphon flies directly over Ranch, crossing from the northwest to the southeast, like clockwork. Its passage signifies the start of hurricane season, when a storm could whip off Panchon’s east coast without warning and decimate Commons and fields alike. I always found it odd that we celebrated its arrival, but I realize now that common celebrated the season. Hurricanes could come, but rain almost always came in its wake, and that meant coolness, water, and reprieve for common working the arid fields that grew our survival.</p>

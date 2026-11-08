@@ -1,6 +1,6 @@
-# Chương 5
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 5
 
 Sáng hôm sau, tôi áp giải ba nhân chứng miễn cưỡng đến nhà Anagosa Dolabra. Thanh kiếm tập đập nhịp bên hông trái, chiếc còng tay tổ hợp va vào nhau leng keng bên hông phải. Sức nặng của lưỡi kiếm chì bọc gỗ dùng để rèn thể lực ghì nặng lên hông, khó chịu và bức bối. Gennadios lết thết đi sau cùng, chiếc mũi bôi phấn son hếch ngược lên trời đầy khinh khỉnh. Để biểu thị sự chống đối, gã xỏ chân vào đôi guốc gỗ đế cao của gia nhân quý tộc, chật vật kéo lê từng bước qua những con phố nhão nhoét bùn lầy. Theo sau gã là Ephinas, mụ hầu gái già, và Uxos, lão làm vườn. Cả hai run rẩy, mặt cắt không còn giọt máu.
 

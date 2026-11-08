@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi hai
 
 Arthur hít một hơi thật sâu để gọi Gwen, nhưng thứ tràn ngập lồng ngực lại là thứ khói đặc quánh đến nghẹt thở. Anh ho sặc sụa, một cơn ho dữ dội và xé họng đến mức tưởng như có thể bẻ gãy từng chiếc xương sườn trong ngực. Không kịp nghĩ suy, anh ngã rạp khỏi chiếc ghế đẩu, quài quả tìm kiếm chút dưỡng khí sát mặt sàn.

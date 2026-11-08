@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 10 Nơi Hội đồng Phán quyết
 
 <p class="para-en">Another Rare yawned.</p>

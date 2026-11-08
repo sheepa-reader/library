@@ -1,6 +1,6 @@
-# Chương 27
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 27
 
 Chúng tôi bước xuống xe ngựa dưới cái nắng trưa chói chang. Những hàng cây cao nhợt nhạt trải dọc con đường, vắt qua sườn đồi; những cành cây trắng muốt khẽ rung lên như đang thì thầm rình mò một bí mật. Thảm cỏ bên dưới mang sắc tối thẫm như lông thú, chỉ khi vài vệt nắng hiếm hoi đâm xuyên qua tán lá rọi xuống, tôi mới nhận ra màu xanh lục bảo đậm đặc của chúng. Điền trang của gia tộc Haza trải rộng về cả hai phía đông tây, nhưng cảnh sắc điền viên tuyệt mỹ này bị chặn đứng bởi một dải ruy băng đen ngòm nơi biên giới: những bức tường dây leo Fretvine cao vút, giam hãm tất cả bên trong.
 

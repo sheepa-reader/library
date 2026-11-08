@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 9 giờ 41 tối (Giờ AST)
 
 Còn 2 tiếng 19 phút nữa là đến Giờ Rồng Thức Tỉnh.

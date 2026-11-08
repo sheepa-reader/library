@@ -1,6 +1,6 @@
-# Chương 16
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 16
 
 Tôi tìm thấy căn nhà của cô Aristan ngay khi cơn mưa vừa tạnh. Những con phố lát đá ướt đẫm phản chiếu ánh hoàng hôn muộn màng, u ám. Nơi này không xa hoa như khu quý tộc tôi thấy hồi sáng, nhưng đủ tươm tất với khung dây leo Fretvine và tường trát thạch cao trắng. Nhà của Aristan nằm lọt thỏm phía sau. Tôi gõ cửa, đứng chờ.
 

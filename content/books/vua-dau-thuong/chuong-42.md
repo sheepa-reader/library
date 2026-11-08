@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi chín
 
 Chẳng có cách nào thoát khỏi cảm giác đè nén ấy, dù là hôm đó hay những ngày kế tiếp. Nó hệt như một cơn giông bão cứ chần chừ mãi chẳng chịu trút xuống. Anh thường liên tưởng đến khối nhiệt hừng hực của mùa hè, nơi không khí đặc quánh cái nóng ngột ngạt, nặng trịch tựa làn nước, còn những tia chớp cứ lóe lên rải rác ngoài đường chân trời; vạn vật chìm trong sự tĩnh lặng hãi hùng, nín thở chờ đợi cơn bão bùng nổ để xé toạc bầu trời bằng những tràng sấm rền như đại bác.

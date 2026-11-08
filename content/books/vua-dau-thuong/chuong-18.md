@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười lăm
 
 Vào ngày Thứ Sáu cuối cùng trước kỳ nghỉ Giáng sinh, Arthur lấy ra một bản in đầu tiên có chữ ký của cuốn *Cuộc hẹn ở Samarra* do John O’Hara sáng tác khỏi Phòng Sưu tập Đặc biệt. Anh từng trộm những món đồ đắt giá hơn, nhưng khi nhét cuốn sách đó vào túi đeo chéo, Arthur biết đây là cuốn sách quan trọng nhất anh từng lấy tính đến lúc này. Giờ đây anh sắp sửa tìm ra lời giải. Một câu hỏi chuẩn bị có lời đáp. Anh không còn hoài nghi nhiều về bản chất của câu trả lời đó nữa, không còn nữa, nhưng điều đó chẳng thể ngăn bụng anh quặn lên thành một nút thắt bồn chồn vì hồi hộp chờ đợi.

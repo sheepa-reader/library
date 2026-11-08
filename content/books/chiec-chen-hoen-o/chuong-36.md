@@ -1,6 +1,6 @@
-# Chương 36
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 36
 
 Tháp Sinh dược náo loạn bóng dáng các sĩ quan khi tôi lao nhanh lên từng bậc thang. Lính Quân đoàn mở đường dẹp lối, quát tháo đám đông dạt sang hai bên. Tôi nhanh chóng tiếp cận văn phòng của Học sĩ Nusis. Các mảng tường chật kín bể kính, ống nghiệm và chậu cây, vô số đàn sâu quằn quại sau lớp kính mờ. Nhưng lúc này, bao trùm lên tất cả chỉ là sự tĩnh lặng ngột ngạt và bóng tối đặc quánh, nồng nặc mùi máu tanh gắt của kim loại.
 

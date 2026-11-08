@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 23.
 
 Donna vẫn đinh ninh bọn chúng sẽ tới tìm mình vào buổi sáng, nhưng bóng dáng chúng vẫn bặt tăm. Cô không tài nào hình dung nổi điều gì đã giữ chân bọn chúng lại. Quỹ thời gian để bẻ gãy ý chí cô chẳng còn lại bao nhiêu, chuyện đó buộc phải diễn ra trong ngày hôm nay. Sắp sửa hết ngày mất rồi, và hầu như chẳng còn ngày mai nào cho phần lớn những gã đàn ông ở chốn ngục tù này.

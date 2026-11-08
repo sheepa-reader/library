@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn mươi ba
 
 <p class="para-en">Three days later, he was pulling on a pair of khakis in his bedroom when he heard a papery, rasping sound in the front hall, followed by a whap of steel: someone dropping a letter through the mail slot. Her letter, he knew, a chill spreading into his blood. Jayne’s letter.</p>

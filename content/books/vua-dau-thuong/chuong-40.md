@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi bảy
 
 Vào đêm trước Chủ nhật Lễ Phục sinh, Arthur không sao chợp mắt nổi. Trong miệng anh đắng ngắt, thứ cảm giác tởm lợm như thể vừa nhai phải một sợi dây đồng. Anh cảm thấy ngày mai chính là ngày hành hình của bản thân chứ không phải của Jayne. Rốt cuộc, vào lúc ba giờ sáng, anh rời khỏi giường, quỳ gối bên tấm nệm và cầu nguyện, đúng theo cái cách mà mẹ đã từng dạy anh. Anh thành tâm cầu xin Chúa hãy để cho Jayne và Ronnie được sống.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bốn
 
 <p class="para-en">In their third year at Rackham College, Arthur and Van had moved off campus and into a Colonial Revival, half a mile from school. At some point in the seventies the house had been painted an unnatural shade of aqua green that looked like it should glow in the dark and had been divided into a pair of student apartments, one unit upstairs, one down. Three girls had the place above them. Early in the semester the girls had partied hard, blasting Frankie Goes to Hollywood loud enough to shake the windows, jumping off the furniture while they screamed along. But by late September, the upstairs apartment exuded an air of exhaustion and abandonment. One of the girls had tumbled out of a window at a campus rave, broken her back, and been sent home. Another was dating a boy attending the University of Maine and was never around anymore. The third was majoring in marine biology and spent three days of every four on a boat. Van said he missed them, that it was nice having loud, happy, probably horny girls nearby; it stimulated the imagination and cheered the heart.</p>

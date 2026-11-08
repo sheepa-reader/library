@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi lăm
 
 <p class="para-en">It seemed absurd to Arthur, but his mother was required to complete her sentence in a residential reentry center, a fancy term for a halfway house—as if a woman who had taught ethics at Dartmouth and was an ordained minister might spend her first days of freedom scoring meth, booze, and a scorching hot case of gonorrhea.</p>

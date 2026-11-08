@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười hai
 
 Chiều thứ Tư tuần sau, Arthur bước vào ca làm việc thường lệ tại Thư viện Brooks. Ngay khoảnh khắc thưa khách đầu tiên, anh bàn giao quầy mượn trả sách cho một sinh viên làm cùng rồi leo lên chiếc cầu thang sắt xoắn ốc dẫn lên ban công kiểu Juliet phía trên. Anh bước vào một căn phòng mát lạnh và âm u, hầu như chẳng thay đổi gì suốt hơn một thế kỷ qua. Giá sách xếp thành hàng dài dọc theo các bức tường ở cả hai bên. Không giống như phần còn lại của thư viện vốn được sắp xếp theo Hệ thống Phân loại Thập phân Dewey, các kệ sách ở đây được phân chia rõ ràng thành *văn học*, *sinh học*, *lịch sử* cùng các danh mục tương tự. Những ô cửa sổ duy nhất được khoét sâu tới ba foot trong các lỗ châu mai bằng đá. Một xạ thủ Norman với bao tên đầy ắp cùng cuốn Kinh Thánh có thể một mình chống lại cả toán người Viking từ vị trí này. Và trên thực tế, toàn bộ khối đá lạnh lẽo ấy *đã* bảo vệ nơi đây đủ tốt, không phải trước những chiến binh Bắc Âu, mà là trước trận hỏa hoạn năm 1840 từng thiêu rụi phần còn lại của Đại học Rackham nguyên bản thành một vệt đen cháy xém rộng ba trăm mẫu Anh.

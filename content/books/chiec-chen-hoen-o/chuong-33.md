@@ -1,6 +1,6 @@
-# Chương 33
+*Phần IV: Địa Ngục Chốn Hào Môn*
 
-*Thuộc Phần IV: Địa Ngục Chốn Hào Môn*
+# Chương 33
 
 SÁNG HÔM SAU, tôi cùng Miljin hội quân với đội xử lý dịch bệnh của Bộ Sinh dược tại chuồng ngựa thành Talagray. Sáu người, bốn nữ, hai nam, khoác lên mình thứ giáp bảo hộ kỳ dị kết hợp giữa da thuộc và hồ dính thực vật, bịt kín mít toàn thân khỏi khí quyển ô nhiễm, chừa lại mỗi khuôn mặt trần. Kẻ dẫn đầu là một phụ nữ cao ráo, ánh mắt sắc như lưỡi dao cạo, sải bước tới bắt tay Miljin rồi xưng danh cộc lốc:
 

@@ -1,6 +1,6 @@
-# Chương 3
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 3
 
 Đối với cơ thể con người, Bộ Sinh dược Đế quốc ưu ái hai phương thức biến đổi. Thứ nhất là các mảnh ghép sinh học, những can thiệp đơn lẻ, ngắn hạn nhằm tăng sức bền, cải thiện hệ miễn dịch, tinh tường thị lực hoặc gia tăng độ cứng của xương cốt. Thứ hai là các liệu pháp dung hợp sinh học, xâm lấn sâu sắc hơn và tàn khốc nhất: chúng thay đổi cơ thể vĩnh viễn, không thể đảo ngược, di truyền sang cả thế hệ sau. (Dĩ nhiên, với điều kiện vật thí nghiệm còn khả năng sinh sản, bởi phần lớn các ca dung hợp đều dẫn đến vô sinh vô phương cứu chữa.)
 

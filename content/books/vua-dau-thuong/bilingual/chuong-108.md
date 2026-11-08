@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 1.
 
 <p class="para-en">2006 The Gulfstream kissed the runway at Heathrow without a bounce or a squeak and Colin Wren took off his headset, pleased with how he had set her down, aglow from six hours above the Atlantic, no one but him and his cute little copilot, Ron, a twenty-nine-year-old with bubblegum-pink lipstick and a mess of curly brown hair. Ronnie, he knew, was debating with a couple of friends whether or not Colin was down to F. He knew because he had read the last six weeks of her text messages that morning. Colin didn’t go anywhere with anyone without reviewing their emails and messages and call history, even if he had known them for years.</p>

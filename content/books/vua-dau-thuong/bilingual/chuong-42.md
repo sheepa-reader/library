@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi chín
 
 <p class="para-en">There was no relief from it, not that day, not the next. It was a thunderstorm that refused to break. He thought often of a summer heat dome, the air pregnant with a suffocating warmth and a liquid weight, lightning flitting along the horizon, and everything still, waiting for the storm to erupt at last and tear open the sky in cannonades of thunder.</p>

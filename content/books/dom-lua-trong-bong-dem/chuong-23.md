@@ -1,6 +1,6 @@
-# CHƯƠNG 19
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 19
 
 “Nguyên nhân tử vong trực tiếp là do bị ngạt cơ học vì siết cổ.”
 

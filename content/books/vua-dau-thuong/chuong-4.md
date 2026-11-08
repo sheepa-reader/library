@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Một
 
 Vào dịp cuối tuần đầu tiên của tháng Chín, Arthur Oakes lái xe về phía tây để thăm mẹ anh tại Trại Cải tạo Nữ Black Cricket. Đó là hành trình dài hơn hai trăm dặm, băng qua nửa phía nam bang Maine, dải đất hẹp hình ống khói của bang New Hampshire, rồi tiến vào bang Vermont. Chuyến đi ấy luôn kết thúc, như một thông lệ ảm đạm, bằng hàng dài ô tô nối đuôi nhau chờ chực nhích từng chút một qua cánh cổng cao mười hai foot giăng đầy dây thép gai.

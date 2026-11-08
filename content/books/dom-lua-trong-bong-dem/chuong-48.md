@@ -1,6 +1,6 @@
-# CHƯƠNG 44
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 44
 
 Thám tử Thomas chống hai tay lên hông khi chúng tôi bước ra khỏi đồn cảnh sát. Dáng vẻ ông khoan thai đưa mắt nhìn quanh, tựa như đang đứng trên đỉnh một ngọn núi lộng gió chứ chẳng phải giữa bãi đỗ xe trơ trọi này. Lúc này mới sáu giờ sáng. Không khí buổi sớm mai mang theo sự đan xen kỳ lạ, vừa oi nồng lại vừa se lạnh. Các giác quan trong tôi bỗng trở nên nhạy bén đến mức đau đớn trước từng tiếng chim lích chích vẳng lại từ xa, bầu trời phơn phớt sắc hồng như kẹo bông gòn, cùng những vệt xe hối hả đầu tiên của dòng người đi làm sớm. Tôi nheo mắt, đầu óc mụ mị và đảo lộn tùng phèo. Phía sau những bức tường đồn cảnh sát dường như không tồn tại khái niệm thời gian: không cửa sổ, không đồng hồ. Thế giới ngoài kia vẫn mải miết xoay vần trong khi bạn bị ép phải tống từng ngụm caffeine đặc quánh vào ruột gan lúc bốn giờ sáng, chịu đựng thứ mùi thức ăn thừa hoi hoi của một viên cảnh sát nào đó đang được quay nóng trong lò vi sóng phòng nghỉ. Bộ não tôi chật vật tiếp nhận sự thật rằng trời đã hửng nắng, một ngày mới lại bắt đầu, trong khi tâm trí tôi vẫn mắc kẹt rũ rượi giữa thảm kịch đêm qua.
 

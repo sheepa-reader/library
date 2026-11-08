@@ -1,6 +1,6 @@
-# Chương 22
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 22
 
 “Một quy luật đáng sợ đang lộ diện,” Uhad nói, giọng khàn đặc mệt mỏi.
 

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 1.
 
 <p class="para-en">2016 There was a ribbon-cutting ceremony at ten thirty—a couple of dozen faculty members, some local press, a few students, Donna, Allie, and Colin himself—for the Llewellyn Wren Computer Center that Colin had paid for. (The Portland Press Herald reported a final price tag of $3.6 million.) Colin said a few words, standing in front of the glass doors to the brightly lit glass box behind him, and he snipped a black ribbon while a smattering of cameras flashed. The dean said he could keep the scissors.</p>

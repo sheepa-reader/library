@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 11.
 
 <p class="para-en">Warehouse 12 was on fire for less than twenty minutes before the explosion. Later, some of the (very few) survivors who lived along the harbor in Beirut said it hadn’t sounded like a fire at all, not at the end. A child, a girl of eight named Adeline Hamoud, who was picked out of the rubble of an apartment building half a mile away, said in the last seconds before the detonation, there was a kind of rattling hiss, like a cobra, but so much louder. She said it sounded like a cobra as big as a plane, hissing and preparing to strike. It was the last thing Adeline heard before the building collapsed on her.</p>

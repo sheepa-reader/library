@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # Món Thứ Năm • Ớt ma thuật kiểm soát tâm trí
 
 <p class="para-en">A meal best left untouched.</p>

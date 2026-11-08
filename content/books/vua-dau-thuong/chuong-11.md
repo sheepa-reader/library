@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Tám
 
 Đích thân Giáo sư Llewellyn Wren tự tay luồn cuộn phim vào máy chiếu. Rốt cuộc họ lại chẳng xem *bất kỳ* bộ phim kinh dị nào… mà lại là một cuốn phim do chính Llewellyn thủ vai.

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 10.
 
 Colin nhấc ba lô lên, lôi chiếc đèn pin ra, rồi chờ Finger lững thững bước qua trước khi quàng dây đeo qua vai. Finger cầm chiếc gậy shillelagh bằng một tay, nhưng Arthur liền chĩa nhẹ đèn pin về phía bức tường.

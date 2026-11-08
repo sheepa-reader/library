@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Khúc Chuyển Tiếp Bốn Gwen, Bị Tấn Công (2015)
 
 <p class="para-en">2015 Robin Fellows took a pull off her e-cig, filled her lungs with a dizzying hit of sweet vapor—she thought it tasted a little like a Wispa bar—and said, “You must be right out of your head, bitch,” then got out of the car, into the rain.</p>

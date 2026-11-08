@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 4.
 
 <p class="para-en">Arthur had booked them rooms at a public house that had been serving pints since the American colonies had broken away from the empire: a sprawling, timber-framed place with gables and a slate roof. The front door was flanked by stone corbels, a glowering face carved into each—a lumpish nose and eyes staring out from beneath a jutting brow, a couple of monstrous hooked teeth—they were almost tusks—protruding from beneath their lower lips. Colin did a double take at the sight, then looked meaningfully at Arthur, who nodded slightly.</p>

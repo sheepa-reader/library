@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười lăm
 
 <p class="para-en">On the last Friday before Christmas break, Arthur took a signed first of John O’Hara’s Appointment in Samarra out of the treasure room. He had stolen more expensive items, but when he stuck that one in his messenger bag, Arthur knew it was the most important book he had taken so far. He was going to learn something now. A question was about to be answered. He wasn’t in much doubt about the nature of that answer, not anymore, but that didn’t stop his stomach from bunching up in a nervous knot of anticipation.</p>

@@ -1,4 +1,4 @@
-# ĐÔNG CHÍ
+*ĐÔNG CHÍ*
 
 # BRADFORD VÀ CHÚ CHÓ
 

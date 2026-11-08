@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 15 Kỹ năng dùng dao
 
 <p class="para-en">I departed the next morning already screwed. Nightmares of Common-1’s collapse plagued me into the early morning, and I had accidentally slept in, leaving no time for breakfast.</p>

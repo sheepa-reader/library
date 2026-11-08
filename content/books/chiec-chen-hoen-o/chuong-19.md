@@ -1,6 +1,6 @@
-# Chương 19
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 19
 
 Trời ngả về chiều khi tôi lao qua đại sảnh tháp Bộ Tư pháp, những cuộn giấy của Jolgalgan cọ xát sột soạt trong túi áo. Tôi biết diện mạo mình lúc này hẳn rất nhếch nhác, nhưng Đại úy Miljin cũng chẳng khá hơn là bao. Gã sải bước gấp gáp qua sảnh, chỉ có điều là đang lao ra ngoài chứ không phải đi vào.
 

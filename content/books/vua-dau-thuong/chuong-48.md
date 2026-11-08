@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi lăm
 
 Những người khác đều tản đi sau kỳ thi kết thúc học kỳ, để lại Gwen và Arthur đối mặt với nhau.

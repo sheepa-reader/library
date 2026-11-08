@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 6.
 
 Daphne Nighswander lái xe về hướng bắc trên chiếc Shelby Boss Snake đời 1970 tàn tạ của mụ. Mụ đã bỏ ra tám trăm đô la để mua nó từ một bãi phế liệu. Chiếc xe từng đỗ ngay phía trước bãi với hình vẽ một con rắn đang rít lên bằng xà phòng trên kính chắn gió, bên cạnh dòng chữ *1000 đô một chiếc xe cổ chạy ngon lành*. Lão quản lý bãi phế liệu quê mùa đã lau sạch phần lớn vết xà phòng trên mặt kính, nhưng vệt bóng mờ của con rắn cuộn tròn ấy vẫn còn đó, lóe lên từ trong bóng tối mỗi khi mụ lao qua dưới một ngọn đèn đường. Gỉ sét đã ăn thủng nửa tá lỗ trên nóc xe, và khi Daphne tăng tốc lên năm mươi dặm một giờ, những vết thủng ấy bắt đầu *thét lên*. Chúng nghe giống như một dàn đồng ca gồm những kẻ tâm thần gào thét trong sự hòa âm cuồng loạn. Không khí lạnh buốt lùa vào, khiến mụ phải lái xe với một chiếc chăn phủ trên đùi... cùng khẩu Sig giấu ngay dưới lớp chăn ấy.

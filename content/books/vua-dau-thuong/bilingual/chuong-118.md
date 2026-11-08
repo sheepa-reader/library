@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 11.
 
 <p class="para-en">They made a descent along what seemed to be a naturally formed staircase of white stone . . . and in the beam of the hi-thrower, the walls flashed and gleamed, as if speckled with gems or silver. The ceiling was a vault of pink quartz, a profusion of luminescent ruby spears.</p>

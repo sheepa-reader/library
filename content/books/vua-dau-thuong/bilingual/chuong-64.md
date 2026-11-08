@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 8 giờ 39 (Múi giờ Đại Tây Dương - AST)
 
 <p class="para-en">3 hours and 21 minutes until dragonedy o’clock the 747 took a hard jolt and seemed to drop, to fall like a brick. Allie’s feet lifted off the floor. She grabbed for something to steady herself and got a hand on Horation’s shoulder. The airliner stabilized with a thump and Allie crashed into his lap. He had a drink in his hand, but he was graceful, lifted his plastic cup away without letting it spill. Not alcohol, Allie noticed, but milk.</p>

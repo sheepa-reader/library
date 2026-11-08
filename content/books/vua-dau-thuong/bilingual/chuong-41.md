@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi tám
 
 <p class="para-en">The tension wore on him all day. It stacked, like thunderclouds mounting along the horizon, bringing with them a building sense of pressure and darkness, a throb of electrical potential. Only the pressure and throb built inside his head and the stabs of lightning were firing behind his eyes. By midafternoon his headache was so intense he couldn’t study. The words on the page surged and eddied like a cloud of sparrows.</p>

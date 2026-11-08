@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười bốn
 
 <p class="para-en">In the second week of November, Arthur stole a 1765 treatise on shipbuilding, bound in calfskin, printed on linen rag, and worth around two grand. In Germany, college students were taking sledgehammers to the Berlin Wall, climbing up onto the ruins to wave flags and pump their fists. Communism had imploded in East Germany, an event that shook the world; Arthur hardly noticed.</p>

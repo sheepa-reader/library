@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 21 Gỗ Phong và Hoa Hồng
 
 <p class="para-en">Rish stopped before a pile of crates in the back of Black Spice and rapped his fist against one. What appeared to be the side of a crate swung open, revealing a hole in the wall behind it. I ducked in, following Rish, and was immediately flanked by two guards with rolling pins similar to my friend at the entrance.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 41 Bước ngoặt
 
 <p class="para-en">Chaos reigned over the Greenhouse, and it had nothing to do with us. More people than I’d ever seen there dashed through the garden. Black Spice was empty, the guard only letting us in because we were expected.</p>

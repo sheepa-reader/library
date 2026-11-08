@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Bảy
 
 <p class="para-en">Arthur spent his Sunday afternoon in a state of mounting suspense, struggling to work through a straightforward translation of The Life of Saint Aubin. Sentences lost their coherence halfway through. He went from one word to the next and found himself unable to string them together into anything that made sense. His stolen books sat in a stack to one side of the kitchen table, hovering at the periphery of his vision.</p>

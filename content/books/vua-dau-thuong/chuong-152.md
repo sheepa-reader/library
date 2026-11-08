@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 25.
 
 Tana có mặt trong phòng khi cô y tá tháo dỡ lớp băng để kiểm tra vết mở khí quản của Gwen, rồi hét toáng lên.

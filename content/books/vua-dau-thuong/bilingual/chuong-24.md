@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi mốt
 
 <p class="para-en">“Yep!” Colin announced three minutes or three hours later. “It was her pussy.”</p>

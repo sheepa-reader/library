@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 4.
 
 Họ mất đúng ba phút để cứu sống cô. Tim cô lại ngừng đập thêm lần nữa ngay tại phòng cấp cứu. Lần đó mất tới năm phút, nhưng sau đó họ đã cho cô thở oxy và truyền huyết tương, và các chỉ số đã đủ ổn định để đưa cô lên máy bay trực thăng chuyển về Portland.

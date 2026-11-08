@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 43 Tương lai của một quốc gia
 
 <p class="para-en">We returned to Vanil as his councilors were leaving. He saw my expression and sighed.</p>

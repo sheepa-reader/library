@@ -1,6 +1,6 @@
-# CHƯƠNG 3
-
 *THÁNG NĂM, 2019*
+
+# CHƯƠNG 3
 
 Có rất nhiều cách kín đáo mà cánh phụ nữ chúng tôi vô thức dùng để tự bảo vệ mình suốt cả ngày. Tự che chắn bản thân khỏi những bóng ma, khỏi những kẻ săn mồi lẩn khuất trong bóng tối, khỏi những câu chuyện cảnh giác và những giai thoại truyền miệng rùng rợn nơi đô thị. Những biện pháp phòng vệ ấy kín kẽ đến mức đôi khi chính chúng tôi cũng chẳng hề nhận ra mình đang làm điều đó.
 

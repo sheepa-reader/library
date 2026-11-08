@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 24.
 
 Cô trơ mắt nhìn Valentine từ từ chảy máu cho đến chết.

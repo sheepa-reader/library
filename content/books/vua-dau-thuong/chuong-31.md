@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi tám
 
 Anh vừa mở cửa bước vào căn hộ, trở về nhà sau buổi thảo luận chuyên đề về tiếng Anglo-Saxon vào Thứ Tư, thì tiếng chuông điện thoại reo vang trong bếp. Anh nện bước vào trong mà chưa kịp cởi chiếc áo parka ra, bắt máy ở hồi chuông thứ ba. Đó là Tana.

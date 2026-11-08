@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 1.
 
 <p class="para-en">Gwen was awake when they buckled her into the Stokes basket to lower her from the ruin. An improbably good-looking fireman with the cleft chin and blue eyes of a comic book Superman was bent anxiously over her, doing up the straps.</p>

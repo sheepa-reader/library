@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 15.
 
 Svangur dẫn Colin đi ra, kẹp chiếc máy tính xách tay dưới một bên nách. Không có tiếng nhạc nào vang lên trong hầm sâu, những bức bích họa vẫn nằm yên trên vách đá, và Svangur dễ dàng nhấc bổng Colin qua khe nứt nằm dưới tảng đá to lớn trông như quả trứng rồng kia. Colin chẳng mảy may lo lắng về việc mình sẽ bị xé làm đôi. Hắn vẫn đang cầm chiếc đèn pin Cree cường độ cao.

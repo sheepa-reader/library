@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi mốt
 
 Arthur đang tựa lưng vào bức tường gạch phía sau tiệm Shut-Up-And-Eat-It thì Jayne và Ronnie tấp xe vào. Anh từng hẹn gặp bọn chúng lúc bảy giờ ba mươi, nhưng anh đã có mặt từ bảy giờ để đảm bảo mình luôn ở thế chủ động chờ sẵn. Anh để lại lời nhắn cho gã nhân viên nhận đơn hàng nghe giọng ngái ngủ, và cố tình chọn đúng đêm Tana được nghỉ làm. Anh không muốn cô phải hiện diện ở đây khi chuyện này xảy ra.

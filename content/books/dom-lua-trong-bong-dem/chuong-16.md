@@ -1,6 +1,6 @@
-# CHƯƠNG 12
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 12
 
 Tôi thậm chí chẳng buồn nhấp chuột vào dòng thông báo tin tức chói tai ấy. Tôi lẳng lặng đứng dậy, gập mạnh màn hình chiếc máy tính xách tay lại rồi bước đi bồng bềnh như trôi giữa làn sương mụ mị của liều Ativan vừa ngấm, rời khỏi phòng khám rồi leo lên xe. Tôi lái xe lướt đi tựa như một bóng ma nhẹ hẫng qua từng con phố quen thuộc, qua khu phố tĩnh mịch nơi mình sinh sống, lướt qua cánh cửa chính rồi gục ngã hoàn toàn xuống chiếc ghế sofa phòng khách. Đầu tôi lún sâu vào lớp đệm nỉ êm ái, hai mắt trừng trừng nhìn trân trân lên trần nhà trắng xóa.
 

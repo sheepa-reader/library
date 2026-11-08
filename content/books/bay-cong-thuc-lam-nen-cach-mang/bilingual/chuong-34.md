@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 27 Nhanh
 
 <p class="para-en">Two weeks separated me from the Flyover Festival, but among them lay finals designed to cull our class by half. If I failed even one, I risked being cast back down into the common—assuming I wasn’t killed to protect my secrets.</p>

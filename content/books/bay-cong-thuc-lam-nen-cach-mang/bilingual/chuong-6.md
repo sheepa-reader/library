@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 1 Xưởng Của Nhà Vua
 
 <p class="para-en">The gargantuan monstrosities the Rare call bull emphon and the common call carnephon produce seven main cuts of meat living, and eight dead.</p>

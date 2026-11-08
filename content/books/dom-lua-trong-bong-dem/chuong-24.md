@@ -1,6 +1,6 @@
-# CHƯƠNG 20
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 20
 
 Hơi thở của tôi dồn dập và đứt quãng khi cuối cùng cũng lết được ra đến chỗ chiếc xe của mình đang đỗ bên ngoài nhà xác. Tôi hít vào từng ngụm khí lớn, toàn thân run rẩy, cố gắng định thần để hiểu hết những ẩn ý kinh hoàng đằng sau những gì mình vừa tận mắt chứng kiến.
 

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai
 
 <p class="para-en">The family room held half a dozen stainless steel tables bolted to a sticky tile floor. Arthur took his usual seat, only peripherally aware of the Nighswanders at the next table over. His mother was one of the first inmates through the door, limber and easy in her prison blues, her hair clipped short.</p>

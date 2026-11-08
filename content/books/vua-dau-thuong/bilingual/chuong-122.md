@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 15.
 
 <p class="para-en">Finger led Colin out, carrying the laptop under one arm. There was no music in the chasm, the frescoes stayed on the walls, and Finger effortlessly hoisted Colin up through the crevasse beneath that great dragon’s egg of a boulder. Colin wasn’t worried about being torn in two. He still had the Cree hi-thrower.</p>

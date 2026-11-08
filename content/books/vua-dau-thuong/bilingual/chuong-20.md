@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười bảy
 
 <p class="para-en">Van and Donna flew back to the panhandle on the Friday before Christmas. Allie was already gone, had left for Texas after taking her last final in the middle of the week.</p>

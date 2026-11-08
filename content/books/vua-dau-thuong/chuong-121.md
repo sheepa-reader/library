@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 14.
 
 Arthur đã dành phần lớn sáu năm cuộc đời để đi tìm một con troll. Anh lái xe đến những giáo xứ đồng quê nghèo nàn, bụi bặm, gặng hỏi các vị linh mục về những vụ mất tích, những thảm kịch và những bóng ma dân gian trong vùng. Anh lục lọi khắp những thư viện địa phương nhỏ bé để tìm kiếm các câu chuyện về những cái chết chưa có lời giải, những giai thoại về dê cừu bị tàn sát. Anh đã trải qua không biết bao nhiêu giờ đồng hồ trong những căn hầm ẩm thấp của các hội bảo tồn lịch sử, phủi sạch mạng nhện để lật giở những hộp các-tông ngả màu vì ẩm nước đầy ắp nhật ký cùng những truyền thuyết vùng miền. Anh lùng sục khắp nơi, buốt cóng và ướt sũng đôi giày bên dưới những nhịp cầu cổ kính, để rồi rước lấy ít nhất một trận viêm phổi. Sáu năm ròng rã mà chẳng tài nào tìm thấy con troll của mình.

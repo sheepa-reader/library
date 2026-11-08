@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 37 Học trò cưng của ban giảng huấn
 
 <p class="para-en">Sagen was my best bet among the three teachers. He liked me—the full marks I’d earned on my TOF final made me confident in that. Dyl had stuck up for me at the Tribunal, but I didn’t think they were likely to discuss state secrets with me on day one, and since Chikor had as much willingness to speak to students as I did to eat another bowl of shellfish, I figured him for a last-ditch effort. The last-ditch after I tried to get Yenne to talk to Dyl for me. But I didn’t know how I’d broach it with Sagen either.</p>

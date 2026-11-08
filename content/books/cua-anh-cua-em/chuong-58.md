@@ -1,6 +1,6 @@
-# Anh
-
 *SÁU THÁNG SAU*
+
+# Anh
 
 Tôi không hề muốn quay lại Blackdown vào hôm nay. Ý nghĩ ấy phủ lên tôi thứ cảm giác ám ảnh nặng nề nhất. Nhưng tôi biết điều đó quan trọng với Anna, và chúng tôi sẽ không ở lại lâu. Chỉ là một điểm dừng chân nhanh chóng để kiểm tra mọi thứ trước khi tiếp tục hành trình hướng về Dorset và vùng biển. Một dịp cuối tuần rũ bỏ mọi lo toan, chỉ có Anna, tôi và đứa cháu gái nhỏ, con bé càng ngày càng mang lại cảm giác thân thương như con ruột. Olivia rất thích biển.
 

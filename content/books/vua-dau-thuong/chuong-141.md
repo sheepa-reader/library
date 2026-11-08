@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 14.
 
 Khi cùng nhau đi lên lầu, Allie cảm thấy đôi chân mình bủn rủn. Cô có cảm giác như đang bước từng bậc thang tiến thẳng tới thảm họa đạo đức và sự nhục nhã ê chề. Cô chẳng biết mình muốn điều gì hơn lúc này: rót ra một ly gin, hay ngắm nhìn chiếc áo kimono lụa là của Donna tuột rơi quanh đôi chân kia. Donna ngoảnh lại nhìn cô và mỉm cười có phần khinh miệt, khiến Allie chợt bùng lên một cơn giận dữ hướng về phía cô ta, và cả chính bản thân mình. Van từng tha thứ cho Allie vì khao khát được hôn những người phụ nữ khác, được một người phụ nữ ôm vào lòng; anh tha thứ cho cô dễ dàng hơn bất cứ điều gì mà cô từng có thể tự tha thứ cho chính mình. Nhưng tại sao lại phải là *người phụ nữ này* chứ?

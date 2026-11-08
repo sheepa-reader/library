@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Khúc Chuyển Tiếp Thứ Hai  • Gwen, Bị Bắt Giữ (1997)
 
 <p class="para-en">1997 Over breakfast, word went around that one of the born-agains, Deirdre Flannagan, skinny-ass bitch who slept with her Bible and cried while she prayed, had killed herself overnight in her cell. She had left a note saying it was a smaller sin to take her own life than to go on living the way she had been living.</p>

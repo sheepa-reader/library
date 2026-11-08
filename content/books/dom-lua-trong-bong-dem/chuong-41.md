@@ -1,6 +1,6 @@
-# CHƯƠNG 37
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 37
 
 “Bà có thể vui lòng chia sẻ cho chúng tôi đôi điều về Sophie được không?”
 

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi
 
 Họ đồng ý kéo nhau về Dinh thự The Briars để thưởng thức mấy chai rượu hảo hạng. Colin bảo rằng không thể uống bia để mừng một ngày thế này được, người ta phải nhấm nháp Scotch như một con người văn minh, vả lại, Llewellyn chắc chắn cũng muốn nâng ly cùng họ. Ông đã viết một trong những bức thư giới thiệu cho Gwen. Theo thỏa thuận, hai chị em nhà McBride và Allie đi cùng Colin, nhồi nhét vào chiếc xe Cadillac màu đỏ anh đào của ông nội gã đang đỗ ở bãi đỗ xe dành cho sinh viên. Arthur rời đi cùng Gwen để ngồi lên chiếc xe Civic của cô. Cô đã đỗ xe ở bãi đỗ dành cho nhân viên, phía sau trung tâm sinh viên, nơi các nhân viên tạp vụ và dịch vụ nhà ăn thường gửi xe.

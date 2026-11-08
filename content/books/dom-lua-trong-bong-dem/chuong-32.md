@@ -1,6 +1,6 @@
-# CHƯƠNG 28
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 28
 
 Tôi thức giấc bởi mùi mỡ thịt ba rọi xông khói nổ lách tách trên chảo và chất giọng mộc mạc, trầm ấm của nữ danh ca Etta James văng vẳng vọng lại từ phía hành lang. Tôi hoàn toàn không nhớ nổi mình đã thiếp đi từ thời điểm nào. Đêm qua tôi đã dốc hết sức bình sinh để giữ cho mình tỉnh táo, thế nhưng cánh tay Daniel gác ngang qua người tôi nặng trịch, ghì chặt lấy thân xác tôi chẳng khác nào một chiếc túi đựng tử thi. Mà có lẽ sự mê man ấy là điều không thể nào tránh khỏi; tôi không thể cưỡng lại cơn buồn ngủ mãi được, nhất là sau khi đã nốc trọn một ly “cocktail” chết chóc pha trộn giữa rượu cồn và thuốc an thần liều cao ngay trước lúc anh về nhà. Tôi gượng ngồi dậy trên nệm, cố lờ đi cơn đau đầu âm ỉ như búa bổ cùng đôi mắt sưng húp khiến tầm nhìn co hẹp lại chỉ còn là hai khe nhỏ hình bán nguyệt. Tôi đảo mắt nhìn quanh phòng ngủ: anh không có ở đây. Daniel đang ở dưới lầu chuẩn bị bữa sáng cho tôi, hệt như cái thói quen chu đáo thường nhật của anh.
 

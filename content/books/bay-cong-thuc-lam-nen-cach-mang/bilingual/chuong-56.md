@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 47 Lạnh buốt
 
 <p class="para-en">Though they’d put a black bag over my head, I had a pretty good sense of where we were. We’d been descending steadily, and we’d just entered a frigid room noxious with the stench of blood. It seemed it was my turn to face the Seekers in a meat locker. I just hoped Cori had escaped.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 18.
 
 <p class="para-en">The light was blinding. They had her in the operating theater, a mask cupping her nose and mouth to give her oxygen. A doctor in latex gloves and a surgical mask stood on her right. He was splashed up to the wrists in blood. Gwen was aware of nurses hurrying about at the periphery of her vision. There was a blue curtain behind the doctor and a great brown smear of gore across it. A stack of monitors to the side of the bed captured her vitals: her pulse, her temperature, her oxygen levels.</p>

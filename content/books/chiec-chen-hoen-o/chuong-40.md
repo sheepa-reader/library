@@ -1,6 +1,6 @@
-# Chương 40
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 40
 
 Suốt hai ngày kế tiếp, tôi gần như không hề giáp mặt Học sĩ Dolabra. Tôi cùng toàn bộ sĩ quan cấp thấp bị vắt kiệt sức lực cho nhiệm vụ khôi phục trật tự thị trấn. Sự hoảng loạn và giẫm đạp thảm khốc tàn phá thành phố chẳng kém gì cơn cuồng nộ của con thủy quái. Một sự hỗn loạn nực cười và đầy ghê tởm, nhất là khi Bộ Quân đoàn đã phát cảnh báo rõ ràng về gã khổng lồ đang tràn tới. “Đám thường dân luôn mù tịt trước những tai họa lù lù ngay trước mắt,” một Thủ lĩnh Quân đoàn cằn nhằn khi chúng tôi vật lộn kéo xác con ngựa chết khỏi lòng đường. “Và cũng chẳng khá hơn trước những gì diễn ra sau lưng. Thật kỳ diệu là chúng ta vẫn sống sót để dọn dẹp cái bãi chiến trường này.”
 

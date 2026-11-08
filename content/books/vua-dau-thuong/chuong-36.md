@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Ba mươi ba
 
 Dân thị trấn, đó là kết luận mà các điều tra viên bảo hiểm đưa ra.

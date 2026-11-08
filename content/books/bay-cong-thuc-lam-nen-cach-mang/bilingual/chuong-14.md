@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 9 Chăm sóc Thượng Phẩm
 
 <p class="para-en">I woke strapped to a bed, which meant that someone had either built the largest mattress in Ranch or I had shrunk to my normal size. Groggy, I spent several minutes thinking it was the former.</p>

@@ -1,6 +1,6 @@
-# Chương 24
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 24
 
 Thống lĩnh Vashta ngồi trên chiếc ghế phía trước phòng xét xử của Bộ Tư pháp. Mái tóc điểm bạc của bà ta phản chiếu ánh đèn lạnh lẽo. Tôi chưa gặp lại bà ta kể từ đêm đầu tiên tại Lãnh hạt Daretana, nhưng diện mạo ấy không hề thay đổi: cao lớn, nghiêm nghị, khắc khổ trong bộ quân phục đen của Quân đoàn. Ánh mắt bà ta sắc lẹm, găm vào chúng tôi như chim ưng rình mồi.
 

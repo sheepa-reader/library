@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Hậu Chuyện • Năm
 
 “Tôi vừa ngẫm nghĩ lại về những gì mình đã chứng kiến,” Allie cất lời với Simon và Garfingle vào ngày hôm sau, “vào thời điểm chúng tôi chuẩn bị hạ cánh. Mọi thứ bay tán loạn khắp khoang hành khách và tôi bị ép chặt vào cửa sổ, nên tôi không dám đoan chắc một trăm phần trăm. Nhưng tôi nghĩ chiếc phi cơ của chúng tôi có thể đã chao nghiêng cánh sang một bên và vừa vặn quẹt trúng một trong hai chiếc F-16.”

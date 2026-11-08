@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 8.
 
 <p class="para-en">Gwen sped, swerved her pickup into the left lane to get around a Ford Escape, then had to cut back to get past an Infiniti. Both vehicles wailed their horns at her. The sound bounced right off her consciousness, hardly registered.</p>

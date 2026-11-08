@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Hai mươi lăm
 
 Van là người tìm lại được giọng nói của mình trước tiên. “Ngài nhỏ hơn tôi tưởng đấy, nhóc ạ. Bằng cách nào đó tôi cứ nghĩ ngài chẳng thể chui vừa bên dưới chiếc mũ cối cơ.”

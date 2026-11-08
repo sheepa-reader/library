@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 28.
 
 Gwen nhìn qua ô cửa sổ, nơi vài tán phong vươn cành và những chú chim nhỏ đang chuyền qua lại trên các chùm lộc đỏ rực. Chúng mang bộ lông ngực màu trắng mềm mại cùng phần lưng khoác màu xám tro. Cô không rõ chúng thuộc loài gì. Có lẽ Arthur sẽ biết, bởi kiến thức về chim chóc vốn luôn là thế mạnh của anh trong các trò chơi ô chữ. Cô vẫn đang mải quan sát thì một tiếng gõ cửa nhẹ vang lên.

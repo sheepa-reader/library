@@ -1,6 +1,6 @@
-# Chương 35
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 35
 
 Mặt trời chìm dần xuống đường chân trời khi tôi tiến về tòa tháp của Bộ Quân đoàn. Những con phố xung quanh đã đặc quánh sĩ quan từ các Bộ. Chiếm đa số là sắc phục đen của Quân đoàn, xen lẫn sắc tím của Bộ Công Binh, sắc đỏ của Bộ Sinh dược, và thi thoảng lóe lên sắc xanh lạnh lẽo của Bộ Tư pháp. Khi chúng tôi nối đuôi nhau bước vào sân trong, một khúc ca bắt đầu vang lên từ bên trong, giai điệu vút cao, kéo dài đầy vẻ uy nghiêm bằng thứ ngôn ngữ cổ mà tôi không tài nào hiểu nổi.
 

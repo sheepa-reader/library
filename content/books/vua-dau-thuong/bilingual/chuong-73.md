@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Hậu Chuyện • Một
 
 <p class="para-en">Flight Officer Albert Shook opened a door in the rear of economy and called for passengers to leave the plane single file, leaving their possessions and removing their shoes before they slid down the yellow rubber ramp. Allie led the way, Robin right behind her, half carrying Van, who couldn’t seem to attach his dazed stare to anything. The Pinets followed, the son holding his father up, both arms around him. Raymond Pinet’s eyes were blurry, and he had a gory streak of blood running from one eyebrow down the left side of his face. He was never clear on what had hit him in the face, and no one told him it was Robin with the bottle.</p>

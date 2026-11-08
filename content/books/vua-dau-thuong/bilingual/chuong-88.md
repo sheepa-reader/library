@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 9.
 
 <p class="para-en">Van saw it on the Zenith, when she bit Valentine’s ear off. A few minutes later, Valentine staggered past the picture window, surrounded by nurses in white, trailed by security men in khakis and polo shirts. Valentine was screaming, a hand clapped to his ear and blood threading between his fingers. Van felt a surge of something, some powerful emotion, close to rage, but happier; close to pride, but uglier. He had never loved his sister more.</p>

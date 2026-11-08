@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 20 Chợ Gia Vị Hắc Ám mới
 
 <p class="para-en">Black Spice wasn’t repaired but moved. The original remained a husk of rubble, split open like a cicada’s back. My blood stained the wood that hadn’t been scavenged, and my treatment of Rish, Banan, and Ruda was a memory inked in that blood. Guilt sickened my stomach as I passed it.</p>

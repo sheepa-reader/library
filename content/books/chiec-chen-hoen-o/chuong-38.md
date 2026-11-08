@@ -1,6 +1,6 @@
-# Chương 38
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 38
 
 Tôi không kịp nhìn rõ Quỷ Ảnh ra tay bằng cách nào. Chuyển động của ả nhanh đến mức nhòe đi, chớp nhoáng như bóng ma vút qua khoảng tối. Nhưng rồi một tiếng thét xé ruột vang lên. Khi tôi ngoảnh lại, máu đã lênh láng khắp mặt sàn.
 

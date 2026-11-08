@@ -1,6 +1,6 @@
-# Chương 18
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 18
 
 SÁNG HÔM SAU, tôi bật dậy trước hừng đông. Thay vội quần áo, tôi xách chiếc túi nén chặt hàng ngàn đồng talint cùng tấm giấy thông hành tường biển, nặng trịch như một khối chì trên tay, rồi lặng lẽ trượt xuống cầu thang, lẻn ra phố.
 

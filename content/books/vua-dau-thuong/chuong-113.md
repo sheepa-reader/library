@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 6.
 
 Ngay cả một kẻ khó tính như Colin cũng phải thừa nhận, Thác Nước Thánh Nectan hoàn toàn xứng đáng với công sức cuốc bộ tới đây. Họ mua vé vào cửa tại một am tu sĩ nhỏ cổ kính rồi rảo bước men theo một đường hầm rợp bóng cây xanh mát quanh co. Một chuỗi những tảng đá bước chân nhẵn thín bắc ngang qua những vũng nước nông dẫn lối tới ngọn thác hùng vĩ ẩn mình nơi thâm sơn cùng cốc. Dòng nước lạnh buốt tuôn đổ ầm ầm giữa những bức tường đá hoa cương khổng lồ lấm tấm rêu phong. Bầu không khí thoang thoảng mùi thép mới rèn tươi mới một cách kỳ diệu. Colin nhanh tay chụp nửa tá bức ảnh xuất sắc bằng chiếc điện thoại cao cấp Sony Ericsson K800i của mình.

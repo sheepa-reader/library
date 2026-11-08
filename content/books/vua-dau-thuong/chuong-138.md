@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 11.
 
 Gwen đặt khay mì ống phô mai Beecher đông lạnh vào lò nướng, loại này đắt tiền nhưng ngon hơn hẳn hiệu Stouffer’s. Việc dành quá nhiều thời gian sống cùng đám con nhà giàu ăn trên ngồi trốc đã khiến cô âm thầm nhiễm phải vài thói kiêu kỳ. Cô lại hứng đầy ấm, quay lại bếp để đun nước pha thêm một ly trà.

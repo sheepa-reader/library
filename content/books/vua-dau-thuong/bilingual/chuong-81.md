@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 2.
 
 <p class="para-en">Donna was crossing the concrete court to her office building when her sleek Nokia—Colin got her a new one for Christmas, year in, year out—went off. She stopped to answer it because it meant she could finish her cigarette. The after-breakfast cigarette was her favorite, better than the post-fuck cigarette even. Not that she really ate breakfast, just a juice smoothie, in the interest of holding her weight at 114 pounds for the cameras.</p>

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 9.
 
 Cô mệt mỏi đến mức mí mắt nặng trĩu, rát buốt như thể bị chà giấy nhám. Hai bên thái dương giật lên từng nhịp buốt óc dưới tác động của hỗn hợp caffeine và adrenaline đang cuồn cuộn trong máu. Gwen nghĩ mình thậm chí chẳng còn sức mà cởi quần áo, cứ thế gục úp mặt xuống giường là xong. Và ngày mai, Lễ Phục sinh sẽ lại xộc đến gần thêm một ngày.

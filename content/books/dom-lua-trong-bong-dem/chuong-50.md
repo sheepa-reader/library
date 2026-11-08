@@ -1,6 +1,6 @@
-# CHƯƠNG 46
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 46
 
 Tôi ngồi bên bàn đảo bếp, chai vang đỏ đã mở nút đang thở giữa hai chiếc ly rót đầy. Tay tôi khẽ xoay một chiếc ly, ngón tay miết đi miết lại dọc theo phần thân thon mảnh. Ngay bên tay trái tôi là một lọ thuốc màu cam, nắp đã vặn mở toang.
 

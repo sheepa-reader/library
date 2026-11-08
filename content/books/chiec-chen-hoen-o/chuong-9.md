@@ -1,6 +1,6 @@
-# Chương 9
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 9
 
 “Chuyện này nằm trong dự tính của bà sao, Học sĩ?” Thống lĩnh Vashta gặng hỏi, giọng sắc lạnh. “Hay bà đã đoán trước được rồi?”
 

@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 3 Người bạn đồng hành mới
 
 <p class="para-en">Endurance can’t addict. But once you’ve had it, you can’t help but feel powerless without it. Craving hooked its claws in me immediately.</p>

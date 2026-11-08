@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 26 Kỹ Thuật
 
 <p class="para-en">I barely made it to my shift at the Academy House on time, fatigue and dread slowing my pace. I’d screwed up our line. Might’ve even delayed service the night before. To the king. Chef was going to kill me, should kill me.</p>

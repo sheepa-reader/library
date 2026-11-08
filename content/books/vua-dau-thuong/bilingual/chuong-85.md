@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 6.
 
 <p class="para-en">He was still wrapped in the blanket when Valentine turned up with a nurse and a spare thug.</p>

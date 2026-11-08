@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười ba
 
 <p class="para-en">When Tana turned up at the door of Arthur’s apartment the following Sunday afternoon, she had a pizza and something in a brown paper bag, and she was wearing the Biko hoodie. It was two sizes too big for her and she swam inside it. Looking at her in it now, Arthur never would’ve guessed she was pregnant.</p>

@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Ba mươi hai
 
 <p class="para-en">On the last Sunday in February, Van climbed behind the wheel of the Christmobile and drove Arthur west to Yorrick, Vermont, for his mother’s parole hearing.</p>

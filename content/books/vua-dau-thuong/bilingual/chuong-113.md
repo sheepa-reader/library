@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 6.
 
 <p class="para-en">Even Colin had to admit, St. Nectan’s was worth the walk. They paid an entry fee at a tiny hermitage and then descended through a winding tunnel of greenery. A series of slick stepping stones led across pools of water to the secluded waterfall. The cold tumble of water spouted down between colossal walls of moss-fuzzed granite. The air smelled deliciously of new-forged steel. Colin took half a dozen really excellent photos on his top-of-the-line Ericsson K800i.</p>

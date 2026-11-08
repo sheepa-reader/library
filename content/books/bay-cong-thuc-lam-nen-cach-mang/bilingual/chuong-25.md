@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 19 Nhà
 
 <p class="para-en">Dressed in my nicer, Rare clothes, I shrunk into myself, self-conscious that I was much less likely to be recognized as Paprick the common here than when I’d returned from the palace. It’d been weeks since I’d been in a common district, and with all the rebel attacks, I worried I’d be mugged or attacked for being Rare.</p>

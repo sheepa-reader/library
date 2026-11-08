@@ -1,3 +1,7 @@
+<p class="para-en">*Course 4: Steak Fries*</p>
+
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+
 # 42 Vương quốc quỷ quyệt
 
 <p class="para-en">“Before we get to Rish,” the archivist interjects. “I’d like to share where I really went while I used the facilities.”</p>

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười
 
 Arthur dành gần bốn tiếng đồng hồ trong buổi sáng Halloween để trang trí Thư viện Brooks cho bữa tiệc “Bóng ma Shakespeare”, một lễ hội truyền thống diễn ra hằng năm kể từ thập niên 1950. Đến khi anh cùng các sinh viên làm thủ thư khác hoàn tất công việc, từng dãy hành lang đã lung linh ánh nến điện nhấp nháy, còn các giá sách giăng đầy mạng nhện giả. Khi màn đêm buông xuống, đám sinh viên thuộc câu lạc bộ kịch nghệ sẽ xuất hiện từ các ban công cùng những góc khuất u uất để diễn lại các trích đoạn ma mị trong *Hamlet* và *Macbeth*, giữa lúc khán giả rảo bước lang thang trong không gian âm u, cất tiếng cười rúc rích đầy vẻ bồn chồn. Khi Van biết Arthur không định tham gia, cậu tỏ ra bàng hoàng kinh ngạc, chẳng khác nào Arthur vừa hay tin Johnny Cash qua đời. Đây là một trong những sự kiện hằng năm được mong đợi nhất tại Đại học Rackham, và việc hình dung Arthur né tránh thư viện vào đêm Halloween cũng giống như tưởng tượng Tòa thánh Vatican cử hành lễ Phục sinh mà vắng bóng Đức Giáo hoàng.

@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 13.
 
 <p class="para-en">He put the sword back into its shimmering silks—and then, experimentally, tried to draw it again. It wouldn’t move. It might’ve been sealed fast in cement. He laughed. It was a wonderful trick.</p>

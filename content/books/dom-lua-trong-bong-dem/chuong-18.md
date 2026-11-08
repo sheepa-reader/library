@@ -1,6 +1,6 @@
-# CHƯƠNG 14
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 14
 
 Đồn cảnh sát ngột ngạt và nóng bức đến phát ngột. Tôi vẫn nhớ rõ những chiếc quạt bàn con con đặt rải rác khắp phòng làm việc của viên cảnh sát trưởng, quạt qua quạt lại luồng không khí tù đọng đặc quánh, khiến mấy mẩu giấy nhớ Post-it dán trên mặt bàn làm việc của ông ta phập phồng bay phần phật. Những sợi tóc mai lơ thơ của tôi bay lòa xòa trước mặt, làm nhột nhạt gò má. Tôi nhìn những giọt mồ hôi nhễ nhại lăn dài trên cổ Cảnh sát trưởng Dooley, thấm đẫm vào cổ áo đồng phục thành một vệt sẫm màu loang lổ. Ngày đầu tiên của mùa thu đã qua đi từ lâu, thế nhưng cái nóng nực đặc trưng của xứ này vẫn bám riết lấy con người ta đến nghẹt thở.
 

@@ -1,6 +1,6 @@
-# CHƯƠNG 13
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 13
 
 Robin McGill là nạn nhân thứ hai của cha tôi, mắt xích tiếp theo trong chuỗi tội ác man rợ của ông ta. Cô bé trầm lặng, sống thu mình, làn da nhợt nhạt và gầy guộc như một que củi khô, với mái tóc đỏ rực tựa ánh hoàng hôn, nhìn chẳng khác nào một que diêm biết đi. Cô bé không có bất kỳ nét tương đồng nào với Lena, thế nhưng sự khác biệt ấy chẳng thể cứu vãn được mạng sống của con bé. Ba tuần sau ngày Lena bặt vô âm tín, Robin cũng chịu chung số phận bi thảm.
 

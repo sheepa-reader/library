@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 27.
 
 Họ lái xe xuôi về phương bắc rời khỏi bãi chiến trường đẫm máu, và trong chốc lát, Donna thiu thiu ngủ với đầu tựa êm ái lên vai em trai còn cánh tay anh thì ôm trọn lấy cô. Suốt những tháng ngày dài đằng đẵng sau này, cô nhận ra Van vẫn thường xuất hiện ở đó, kề cận bên cô mỗi khi cô chuẩn bị chìm vào giấc ngủ. Anh kiên nhẫn đứng đợi cô nơi ranh giới chập chờn của mộng mị, lặng lẽ đứng trên bờ biển cô quạnh ngăn cách giữa cõi thực và cõi mơ, gấu quần xắn cao và đôi chân trần ngâm trong làn nước của một đại dương bao la khổng lồ, rộng lớn đến mức khiến cả vùng biển Đại Tây Dương trông chẳng khác nào một vũng nước nhỏ cho trẻ con lội. Anh đeo một chuỗi vòng cổ kết bằng những chiếc vỏ cầu gai cát.

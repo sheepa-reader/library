@@ -1,6 +1,6 @@
-# Chương 7
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 7
 
 Tôi cứ ngỡ vụ án của Chỉ huy Blas sẽ thay đổi cuộc đời mình ở Lãnh hạt Daretana, nhưng tôi đã lầm. Mười ba ngày tiếp theo trôi qua trong sự uể oải đến mụ mị đầu óc.
 

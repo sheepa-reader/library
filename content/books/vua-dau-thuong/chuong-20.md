@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười bảy
 
 Van và Donna đã bay trở về dải đất Panhandle vào ngày Thứ Sáu trước Giáng sinh. Allie thì đã đi từ sớm, cô rời sang Texas ngay sau khi thi xong môn cuối cùng vào giữa tuần.

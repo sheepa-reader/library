@@ -1,6 +1,6 @@
-# Chương 23
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 23
 
 Căn phòng điều tra trong tòa tháp của Bộ Tư pháp chẳng sạch sẽ hơn chút nào sau ngần ấy ngày. Ngược lại, nó còn bẩn thỉu hơn, mùi thuốc tẩu nồng sặc xụa, không khí đặc quánh rung lên bởi hơi trà tỉnh trí bốc nghi ngút. Khi tôi loạng choạng bước trở lại phòng, cảm giác nơi đây chẳng khá hơn xưởng giấy dương xỉ là mấy, u ám và ngập tràn mùi tử khí.
 

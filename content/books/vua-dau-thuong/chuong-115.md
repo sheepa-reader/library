@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 8.
 
 Colin cũng đã nhìn thấy hắn. Đó là một gã cao lêu khêu, rách rưới, đang duỗi cẳng nằm dài trên nền đất, nửa thân người kẹt dưới gầm cầu giữa đống đồ đạc lỉnh kỉnh, một bên chân thò hẳn ra ngoài ánh chạng vạng. Hắn mặc chồng chất lên nhau mấy lớp áo: một chiếc áo khoác màu ô-liu rách bươm trùm lên chiếc áo len thủng lỗ chỗ do mọt ăn, bên trong lại mặc thêm một chiếc áo thun cáu bẩn. Trên áo thun in hình một hiệp sĩ áo đen đội mũ sắt hình xô, máu phun xối xả từ cánh tay bị chém đứt. Một câu khẩu hiệu bằng phông chữ Gothic đề rằng: *chỉ là vết xước thôi mà*. Toàn bộ gia tài của hắn chất đống trong một chiếc xe đẩy siêu thị rỉ sét. Hắn thậm chí còn có cả một chiếc tivi đang mở. Chiếc máy chỉ to bằng bộ đàm và cũng có cần ăng-ten như bộ đàm vậy. Màn hình đen trắng đang chiếu cảnh vài cô gái trẻ mặc đồ bơi dạo bước trên bãi biển.

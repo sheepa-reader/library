@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 32.
 
 Bọn họ bước lên chiếc cầu thang xoắn ốc dẫn đến Phòng Sưu Tập Đặc Biệt. Arthur thỉnh thoảng vẫn gọi nơi này là phòng báu vật, một cái tên có vẻ thích hợp hơn vào buổi tối hôm nay. Donna đi đầu, tay cầm một chùm chìa khóa. Gwen đi phía sau, có Tana bám sát gót chân để đỡ cô đi. Gwen rất cần sự hỗ trợ đó. Khi bước được nửa đường, chiếc áo hoodie của cô đã ướt đẫm mồ hôi ở phần lưng và hai chân run rẩy. Mỗi bước nhảy lên bậc tiếp theo lại giáng một luồng chấn động đau đớn, nhói buốt vào tận nội tạng cô. Có gì đó đang cực kỳ bất ổn trong cơ thể cô. Khuôn mặt cô nóng bừng và thỉnh thoảng thế giới trước mắt lại tối sầm đi, tựa như có ai đang vặn nút điều chỉnh độ sáng.

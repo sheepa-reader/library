@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 7.
 
 <p class="para-en">Gwen thought the lizard would have a harder time fucking with her in front of witnesses, so she loaded a few of Arthur’s notebooks into her messenger bag and went to the Brooks Library.</p>

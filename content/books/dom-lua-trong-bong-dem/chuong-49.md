@@ -1,6 +1,6 @@
-# CHƯƠNG 45
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 45
 
 Earl Briggs chỉ uống duy nhất loại rượu Jim Beam Kentucky Straight. Chai rượu lúc nào cũng âm ấm vì bị mở nắp vứt lăn lóc trên bàn phòng khách, những vệt nắng xiên qua khung cửa sổ rọi vào vỏ thủy tinh tựa như khối hổ phách hóa thạch. Ông ta luôn uống bằng chiếc ly highball đế dày, rót đầy ắp tới tận miệng. Thứ rượu ấy phủ lên môi ông ta một lớp bóng nhờn nhẫy như váng xăng, khiến hơi thở phả ra nồng nặc mùi thuốc cồn ngọt lợ một cách bệnh hoạn, tựa như một miếng kẹo bơ cứng bị bỏ quên dưới nắng chang chang.
 

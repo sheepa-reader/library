@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 31.
 
 Họ rẽ vào bãi đỗ xe phía sau Thư Viện Brooks, và Donna đánh xe tấp vào một ô trống ở góc trong cùng, chiếc Cadillac quay đầu hướng về phía Rừng Rackham. Gần như chẳng có chiếc xe nào khác ở đó.

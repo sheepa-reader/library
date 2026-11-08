@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 8.
 
 <p class="para-en">She didn’t think she could sleep, so she rode out to the sledding hill in Gogan. She just thought she’d sit there for a while, watching the flecks of snow whirl and spin past, while the adrenaline subsided.</p>

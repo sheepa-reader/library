@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 53 Gian bếp hoàng cung
 
 <p class="para-en">Late that same afternoon, enormous marble doors swung open on silent hinges before Laven and me. Two Seekers in masks—carnephon and gryphon—flanked the door. As we entered, two more greeted us, a wolphon and a badgeboar. Wolphon patted me down, looking for weapons, and I held my breath. Laven had done well to scoop up my apron when he’d fled Tall Grass and kept it safe for me. I wasn’t foolish enough to try to smuggle a cleaver into the palace in the hidden sheath, but I was banking on the sheath itself going unnoticed. After their hands groped up and down my legs, Wolphon nodded to Badgeboar, who’d just done the same to Laven. Satisfied, they pointed us in with the practiced grace I’d seen only in the maître d’ at the Academy House.</p>

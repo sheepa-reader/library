@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 17 Nhà hàng Học viện
 
 <p class="para-en">There were three classifications of restaurants in Ranch, or four if you asked a common. The lowest of the four were the commonsaries—small takeout joints run illegally within the Commons. Unlike Mom, who sold bread at market, the commonsary chefs sold meals straight from their kitchens, usually sandwiches wrapped in palm leaves or rice dishes spooned directly into a bowl that you brought to the apartment door. None dared use ground bison or rattlesnake sausage at all in fear of attracting the wrong attention, let alone emphon. They were purely vegetarian.</p>

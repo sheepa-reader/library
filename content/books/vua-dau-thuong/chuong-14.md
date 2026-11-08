@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Mười một
 
 Họ tụ tập trong căn phòng ngủ tù mù tối của Arthur, chiếc ti vi đã tắt ngấm, và Gwen chăm sóc cho từng người một. Cô lẻn vào bếp rồi quay lại với túi ngô hạt đông lạnh để chườm lên hạ bộ dập nát của Donovan. Cậu nằm xoài trên sàn nhà, đầu tựa vào lòng Allie, tay áp chặt túi ngô vào háng. Gwen lại lánh đi rồi nhanh chóng quay lại ngay sau đó với một lọ Advil cùng một lọ Tylenol. Donna và Van mỗi người nuốt hai viên mỗi loại, trong khi Arthur chỉ uống ba viên Tylenol. Họ ừng ực nuốt mấy viên thuốc cùng những lon bia Milwaukee’s Best, loại bia ưa thích của Van chỉ vì nó rẻ tiền.

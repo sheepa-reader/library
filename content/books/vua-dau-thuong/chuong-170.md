@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 8.
 
 Cô nghĩ mình sẽ chẳng thể nào chợp mắt nổi, thế nên mới lái xe ra đồi trượt tuyết ở Gogan. Cô chỉ định ngồi lại đó một lát, ngắm nhìn những bông tuyết lất phất chao xoay trong không trung, chờ cho cơn bão adrenaline trong người dịu xuống.

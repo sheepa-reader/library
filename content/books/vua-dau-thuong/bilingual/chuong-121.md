@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 14.
 
 <p class="para-en">Arthur had spent most of six years looking for a troll. He drove to dusty local parishes and spoke to their priests about disappearances and tragedies and local bogeymen. He plundered little local libraries for stories of unsolved deaths, tales of massacred goats and sheep. Spent who knew how many hours in the basements of historical societies, brushing aside cobwebs to get at water-stained cardboard boxes full of diaries and regional legends. He poked around and got his feet cold and wet under ancient bridges, leading to at least one case of pneumonia. Six years without finding his troll.</p>

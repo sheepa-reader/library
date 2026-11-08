@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 4 Gia Vị Hắc Ám
 
 <p class="para-en">If Cori reported me and I was still carrying slices the overseers could use as evidence, I only had myself to blame. I could’ve cooked them, sure, but that meant walking around with Enduring eyes and going home to risk my moms as accomplices. I needed to offload them and quick—to people I could trust.</p>

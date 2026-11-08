@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 32 Hậu quả
 
 <p class="para-en">Groaning, I rolled to my side, vaguely conscious. As if through the murky waters of Ranch River, I watched Yenne land several attacks on Vyson before he caught her by the wrist, turned her blade around, and stabbed her in the shoulder. She fell back with a yell, and despite my anger, I couldn’t rise to my feet to stop him as he ran through the door.</p>

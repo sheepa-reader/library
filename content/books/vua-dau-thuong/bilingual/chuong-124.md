@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 17.
 
 <p class="para-en">He knew exactly what he was going to see when he looked into Wolf Messing’s helmet, brimming with cold water. Colin knew when he looked into the water he wouldn’t see his reflection at all, and he was right.</p>

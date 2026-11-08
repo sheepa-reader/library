@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # Món Thứ Sáu • Gia vị ướp Emphon
 
 <p class="para-en">Also known as the Emphon Taco, the Enhanced Emphon Rub is best paired with a light or sour beer and a light salad, refried beans, and/or rice. For those with a lower spice tolerance, sour cream is recommended.</p>

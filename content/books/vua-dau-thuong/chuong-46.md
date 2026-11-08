@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi ba
 
 Ba ngày sau, Arthur đang mặc chiếc quần kaki trong phòng ngủ thì nghe thấy một tiếng động khô khốc, sột soạt ở ngoài sảnh trước, nối tiếp là tiếng kim loại va đập sắc lẹm: có ai đó vừa thả một lá thư lọt qua khe cửa.

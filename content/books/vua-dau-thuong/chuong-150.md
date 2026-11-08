@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 23.
 
 Cả ba người bọn họ cho phép Donna bước vào phòng cùng mình, nhưng cô không đi cùng họ đến sát giường của Gwen. Donna đứng lại ngay cửa, tựa lưng vào cánh cửa đóng kín để ngăn không cho bất kỳ ai xông vào giữa lúc hiểm nghèo.

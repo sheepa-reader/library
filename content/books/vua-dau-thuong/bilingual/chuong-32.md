@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Hai mươi chín
 
 <p class="para-en">Gwen banged on the door but didn’t wait for him to answer. She let herself in, calling his name.</p>

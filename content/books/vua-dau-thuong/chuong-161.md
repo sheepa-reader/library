@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 34.
 
 Khi cô nhắm mắt lại, khoang mũi cô ngập tràn mùi khói nồng đượm như lửa trại từ những cuốn sách cháy rụi, hòa quyện với những cơn gió mát rượi từ vùng biển cách đó chưa đầy nửa dặm. Khi cô mở mắt ra, Van, Donna và Colin đang ở dưới bãi cát, đốt cây thông Giáng sinh.

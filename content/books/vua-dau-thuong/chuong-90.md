@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 11.
 
 Ba gã đàn ông đẩy một chiếc băng ca vào phòng Donna rồi quẳng cô nảy bật lên đó. Cô vùng vẫy dữ dội. Cô nhổ nước bọt thẳng vào mặt một tên. Cô tung chân đá mạnh vào đùi một tên khác khiến hắn phải rên rỉ đau đớn. Nhưng chẳng thấm tháp vào đâu. Bọn chúng đều là những kẻ to bè, lầm lỳ như tường đá, vóc dáng to gấp đôi cô. Chúng mặc quần kaki cùng áo polo, trông chẳng khác nào đang chuẩn bị cho một buổi chiều đi đánh golf. Sau khi đè bẹp cô xuống mặt cáng, một kẻ trong số đó, chính là Salem, gã đàn ông có mái tóc đen cắt ngắn sát da đầu luôn bóng lộn như thể vừa bước ra từ phòng tắm, dí chặt một chiếc mặt nạ nhựa trong suốt lên mặt cô, mạnh đến mức làm bẹp dúm cả sống mũi. Cô giật ngoắt đầu qua lại nhằm ngăn không cho hắn chốt khóa cố định, nhưng hắn đã túm chặt lấy mớ tóc sát da đầu để ghìm cô lại. Cô muốn cắn hắn. Cô muốn thét lên. Cô không thể làm điều thứ nhất, và tự dặn lòng tuyệt đối không được phép làm điều thứ hai.

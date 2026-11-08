@@ -1,6 +1,6 @@
-# CHƯƠNG 16
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 16
 
 Điện thoại đổ chuông hai hồi trước khi chất giọng quen thuộc kia vang lên bắt máy. “Aaron Jansen nghe đây.”
 

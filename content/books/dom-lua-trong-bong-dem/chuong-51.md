@@ -1,6 +1,6 @@
-# CHƯƠNG 47
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 47
 
 Dường như mọi câu trả lời đã luôn chực chờ ngay trước mắt tôi, nhảy múa trêu ngươi chỉ cách một tầm với. Xoay tròn, hệt như Lena ngày ấy: tay lỏng lẻo cầm chai rượu, chiếc quần short rách gấu cùng bím tóc tết kiểu Pháp, vài cọng cỏ dại còn vương trên làn da trần và mùi cần sa khen khét vương trong từng hơi thở. Cũng tựa như bức tượng vũ công bằng sứ màu hồng nhạt đã sứt mẻ, quay cuồng theo giai điệu mỏng manh của chiếc hộp nhạc. Thế nhưng mỗi khi tôi vươn tay ra, tuyệt vọng muốn chạm vào, muốn tóm chặt lấy, chúng lại thoắt biến thành những làn khói hư ảo trong lòng bàn tay, cuộn xoáy luồn qua kẽ ngón tay cho đến khi tôi chẳng còn nắm giữ lại được gì.
 

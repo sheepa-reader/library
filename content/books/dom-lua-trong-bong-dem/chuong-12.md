@@ -1,6 +1,6 @@
-# CHƯƠNG 8
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 8
 
 Lena Rhodes là nạn nhân đầu tiên. Điểm khởi đầu của chuỗi án mạng. Người đã khơi mào cho tất cả thảm kịch sau này.
 

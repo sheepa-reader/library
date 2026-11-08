@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 8.
 
 Cuối cùng thì bọn chúng cũng buộc phải cử người quay trở lại căn phòng để nhặt chiếc tai.

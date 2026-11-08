@@ -1,3 +1,5 @@
+*Phần Kết*
+
 # 9.
 
 Có tới ba trăm bậc thang dẫn lên gác mái, phần lớn uốn lượn qua một trục thông bằng đá chật hẹp, chìm ngập trong làn khói vàng đục ngầu, cay xè. Những người lính cứu hỏa đang gồng mình làm việc từ chiếu nghỉ cuối cùng, phun những tia nước áp lực thấp vào đống lửa đang bùng lên dữ dội bên dưới mái Nhà thờ Đức Bà Paris. Leonard Debois nghĩ việc này chẳng khác nào dùng khẩu súng nước Super Soaker của con trai anh để dập một đống lửa trại khổng lồ, nhưng chẳng ai dám chắc nếu dùng luồng nước áp lực mạnh hơn thì sẽ gây ra tổn hại khủng khiếp thế nào cho những khối đá cổ kính, những ô cửa sổ hoa hồng kính màu và phần khung gỗ sồi có từ thế kỷ XIII. Leonard Debois đang đứng gần đỉnh cầu thang, tay siết chặt đoạn vòi chữa cháy ngoằn ngoèo, cuộn tròn và dày cộm như thân trăn anaconda, thì đột nhiên nghe thấy một tiếng gầm thét kinh hoàng, xé rách màng nhĩ. Ngay bậc thang phía trên, Jean Laurent bắt đầu gào lên:

@@ -1,6 +1,6 @@
-# CHƯƠNG 29
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 29
 
 Tôi lao ra khỏi cửa chính sau chưa đầy năm phút; gót giày thể thao thậm chí còn chưa kịp xỏ ngay ngắn, mép vải thô cứa mạnh vào da thịt khiến gót chân tôi rướm máu khi tôi cuống cuồng chạy băng qua lối đi trước hiên nhà.
 

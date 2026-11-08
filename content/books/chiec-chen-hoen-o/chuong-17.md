@@ -1,6 +1,6 @@
-# Chương 17
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 17
 
 Báo cáo xong với Ana, tôi thoáng chút đắc ý khi thấy bà chỉ ngồi thẫn thờ trên mép giường, gương mặt đờ đẫn. Đôi môi bà mấp máy định nói rồi lại khựng lại, cố điều chỉnh ngôn từ. Động tác ấy lặp đi lặp lại, như thể hàng tá câu hỏi đang nghẹn ứ nơi cổ họng mà không thể thốt ra nổi.
 

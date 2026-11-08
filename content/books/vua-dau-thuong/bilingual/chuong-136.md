@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 9.
 
 <p class="para-en">She was so tired her eyelids felt sandpapery. Her temples thudded from the mix of caffeine and adrenaline. Gwen thought she might not even bother undressing, would just fall face down into bed. And tomorrow Easter would be another day closer.</p>

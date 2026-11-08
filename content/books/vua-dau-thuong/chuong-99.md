@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 20.
 
 Vài ngày sau, Paul Follett mở cửa phòng Donna rồi bước vào, đẩy theo một chiếc xe phục vụ bằng inox. Ông ta đi một mình. Donna không tài nào nhớ nổi lần cuối cùng có kẻ dám bước vào phòng cô một mình là từ bao giờ, có lẽ là kể từ dạo cô cắn đứt tai Joe Valentine, hay nói chính xác hơn là Norman Barclay.

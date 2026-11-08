@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 8 Cặp Sừng
 
 <p class="para-en">It attracted some attention, understandably. But slower than you would think.</p>

@@ -1,6 +1,6 @@
-# Chương 21
+*Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
 
-*Thuộc Phần III: Ba Chiếc Chìa Khóa, Mười Xác Công Binh*
+# Chương 21
 
 ĐỘI TUẦN TRA CỦA QUÂN ĐOÀN ĐẾN tiếp quản đám lính đào ngũ. Tôi rời hiện trường khu chuồng ngựa, thẫn thờ lách vào xưởng giấy giữa mùi thối rữa nồng nặc vây hãm. Nơi này đùn lên tựa một cái hang sâu thẳm mịt mùng. Những cuộn giấy dương xỉ rủ xuống thành chùm lớn dọc theo các trụ đỡ. Ánh sao yếu ớt lọt qua ô cửa sổ trên cao; bộ khung của những cỗ máy chầu chực trong góc tối tựa như những bộ xương khô. Tôi cảm thấy như mình đang bị chôn sống trong một ngôi mộ, nhưng cơn bàng hoàng xua tan mọi nỗi sợ. Tôi gục xuống chiếc ghế trong bóng tối, ngồi lặng im, lắng nghe tiếng thì thầm và tiếng réo gọi nhau của đám lính bên ngoài.
 

@@ -1,6 +1,6 @@
-# CHƯƠNG 24
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 24
 
 Hai chúng tôi đứng chôn chân nhìn nhau trân trân suốt một khoảng thời gian dài dằng dặc, cả hai bên đều câm lặng như ngầm thách thức đối phương phải là người mở lời trước. Ngay cả khi trong đầu có cả ngàn điều muốn nói, cổ họng tôi lúc này cũng chẳng thể thốt nên lời. Đôi môi tôi đông cứng lại, nỗi khiếp đảm tột cùng khi phải đối mặt bằng xương bằng thịt với Bert Rhodes khiến toàn thân tôi hoàn toàn tê liệt. Tôi không thể nhúc nhích, không thể cất tiếng. Tất cả những gì tôi có thể làm là trố mắt nhìn. Tầm mắt tôi trượt dần từ đôi mắt đờ đẫn của ông ta xuống đôi bàn tay to bè, chai sần và cáu bẩn. Chúng thô kệch và khổng lồ đến rợn người. Tôi bất giác mường tượng ra cảnh đôi bàn tay gân guốc ấy dễ dàng bóp nghẹt khí quản mình, ban đầu chỉ siết nhẹ nhàng rồi dần dần tăng thêm lực theo từng tiếng nấc giãy giụa nghẹn ứ của tôi. Mười đầu ngón tay tôi tuyệt vọng cào cấu vào gọng kìm sắt đá của ông ta, hai mắt tôi trợn trừng nhìn sâu vào đáy mắt ông ta để cố tìm kiếm một tia lương tri le lói giữa màn đêm tăm tối. Đôi môi nứt nẻ khô khốc của ông ta nhếch lên thành một nụ cười ngoằn ngoèo quái đản. Và rồi những vết bầm tím hình ngón tay hằn sâu sẽ là thứ duy nhất mà Thám tử Thomas tìm thấy trên làn da lạnh ngắt của tôi.
 

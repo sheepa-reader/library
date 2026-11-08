@@ -1,3 +1,7 @@
+<p class="para-en">*Course 1: The First Flavor*</p>
+
+<p class="para-vi-sub">*Món Thứ Nhất • Hương Vị Đầu Tiên*</p>
+
 # 5 Đối mặt với Cori
 
 <p class="para-en">The first sign of disaster came when I entered the factory.</p>

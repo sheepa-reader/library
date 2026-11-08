@@ -1,3 +1,7 @@
+<p class="para-en">*Course 5: Controlled Heat*</p>
+
+<p class="para-vi-sub">*Món Thứ Năm • Kiểm Soát Ớt Cay*</p>
+
 # 48 Cuộc diễu hành
 
 <p class="para-en">I won’t bore you with the specifics of our escape. We didn’t have to kill anyone, so it won’t affect your body count, and we both know the Seekers only captured me to keep me off the table while the king goaded the Herd.</p>

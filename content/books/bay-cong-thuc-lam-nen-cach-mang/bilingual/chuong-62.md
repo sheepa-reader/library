@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 52 Lời hiệu triệu
 
 <p class="para-en">I’m proud to say it was my idea to use the Greenhouse.</p>

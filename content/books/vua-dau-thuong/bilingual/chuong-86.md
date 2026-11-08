@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 7.
 
 <p class="para-en">Donna sucked on the straw until her mouth was full and then spat orange juice into the nurse’s face.</p>

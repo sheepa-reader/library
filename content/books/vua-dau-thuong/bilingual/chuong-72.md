@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # Giờ Rồng Thức Tỉnh
 
 <p class="para-en">She shoved through the curtain into economy and walked right into Albert Shook. Her head rapped against his. He shouted and grabbed her by both shoulders.</p>

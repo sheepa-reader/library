@@ -1,6 +1,6 @@
-# 3
-
 *BẢY TUẦN SAU ĐÓ - Tháng Bảy*
+
+# 3
 
 Thứ Hai, ngày 4 tháng 7 năm 2022
 

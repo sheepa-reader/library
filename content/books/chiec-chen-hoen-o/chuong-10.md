@@ -1,6 +1,6 @@
-# Chương 10
+*Phần II: Sụp Đổ*
 
-*Thuộc Phần II: Sụp Đổ*
+# Chương 10
 
 Tôi từng nghĩ xe thiên lý mã là đặc quyền của giới quý tộc thượng lưu. Nhưng khi bị nhốt chặt trong chiếc hộp ẩm thấp này suốt sáu tiếng đồng hồ, hai tay bám cứng vào ghế trong lúc sàn và vách xe chực chồm lên quăng quật, tôi mới nhận ra đây là đòn tra tấn tồi tệ nhất từng trải qua.
 

@@ -1,6 +1,6 @@
-# Chương 1
+*Phần I: Xác Chết Trên Cây*
 
-*Thuộc Phần I: Xác Chết Trên Cây*
+# Chương 1
 
 Bức tường bao quanh trang viên hiện ra giữa màn sương sớm. Nó sẫm màu, trải dài và uốn cong như lớp da của một con thủy quái chết dạt vào bờ. Tôi rảo bước men theo chân tường, cố ghìm lại nhịp tim đang đập dồn dập và dòng mồ hôi lạnh rịn ra sau gáy. Phía trước, một luồng sáng xanh nhạt lấp lánh trong sương mù. Càng tiến lại gần, luồng sáng càng rõ hình hài: một chiếc đèn sâu mai treo phía trên lối đi của người hầu. Ngay dưới đó, tựa lưng vào bức tường đá, một gã đàn ông mặc quân phục, đội mũ thép sáng loáng đang đợi tôi.
 

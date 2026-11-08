@@ -1,3 +1,7 @@
+<p class="para-en">*Course 2: Sleepless Salad*</p>
+
+<p class="para-vi-sub">*Món Thứ Hai • Xà Lách Mất Ngủ*</p>
+
 # 23 Tìm kiếm gia vị
 
 <p class="para-en">I woke sometime later on a small cot in the produce pantry. Ilantra leaned over me, her yellow eyes no longer pale but fire-bright with Endurance and annoyance. “What were you thinking?”</p>

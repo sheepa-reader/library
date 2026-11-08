@@ -1,6 +1,6 @@
-# CHƯƠNG 42
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 42
 
 Cánh cửa sau bật mở, tôi giật mạnh tấm thẻ ra, siết chặt trong lòng bàn tay rồi rón rén bước vào. Tôi lần mò dọc theo hành lang tối mịt, các đầu ngón tay miết chặt lên bức tường quen thuộc để giữ thăng bằng. Bóng tối bao trùm làm tôi mất phương hướng; những tiếng cọt kẹt rợn người vẳng ra từ bốn phía, nhưng tôi không tài nào phân biệt nổi đó là âm thanh rệu rã của căn nhà cũ hay tiếng bước chân rình rập của Daniel ngay sau lưng, hai tay hắn đang dang rộng, chỉ chực nhào tới tấn công.
 

@@ -1,3 +1,5 @@
+*Quyển Một • Dinh Thự The Briars*
+
 # Bốn mươi mốt
 
 Họ đỗ xe ở Dinh thự The Briars, ngay phía sau chiếc Caddy, rồi bước vào nhà. Gwen đã khóc một lúc trong khoảng không gian tối mịt của chiếc xe, nhưng đã kịp kìm nén lại vào thời điểm họ tới nơi, dẫu cho bất cứ ai nhìn vào cũng có thể nhận ra cô vừa trải qua một trận khóc đầm đìa. Riêng Arthur không hề khóc. Anh trống rỗng đến mức tê dại, hoàn toàn không cảm thấy chút đau đớn cõi lòng, hoảng sợ, hổ thẹn hay bất kỳ điều gì mà lẽ ra anh phải cảm nhận sau khi một kẻ mà anh căm ghét bị thiêu sống theo lệnh của chính mình. Những người còn lại đang ở trong thư viện, Colin đang khom người sắp xếp những khúc gỗ để chuẩn bị nhóm lửa, và khi họ bước vào, Allie liền reo lên:

@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # 19.
 
 Hắn đã nói với Gwen rằng bọn họ không nên từ bỏ Arthur bởi vì Arthur sẽ không bao giờ từ bỏ họ. Nhưng thật khó để định nghĩa thế nào là “từ bỏ.” Colin ở lại thêm ba ngày, sau đó ngỏ ý muốn đưa Gwen bay về Mỹ trên chiếc chuyên cơ Gulfstream. Cô đáp rằng mình định ở lại thêm một thời gian nữa. Hắn đã kéo dài thời gian lưu trú tại Vương quốc Anh lâu nhất có thể một cách an toàn. Phần mềm Dragonware chuẩn bị chào hàng một bộ dịch vụ cho Bộ An ninh Nội địa trong một tuần nữa, và hắn còn có vài lời đề nghị đầu tư mạo hiểm đang cần cân nhắc. Một tài xế lái chiếc Mercedes màu đen, dòng xe y hệt chiếc họ từng dùng tại Heathrow dành cho các nhân vật VIP, đã đón hắn ở Tintagel và phóng nhanh đưa hắn trở lại London cùng khách sạn The Savoy.

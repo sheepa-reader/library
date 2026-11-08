@@ -1,6 +1,6 @@
-# Chương 37
+*Phần V: Bóng Hình Thủy Quái*
 
-*Thuộc Phần V: Bóng Hình Thủy Quái*
+# Chương 37
 
 Trời vừa rạng sáng, tôi nghe thấy những bước chân đầu tiên vang lên từ lối vào tòa tháp. Đứng trước phòng xét xử, tay tôi siết chặt đốc kiếm. Tôi chỉ thả lỏng khi nhận ra dáng đi nặng nề của Đại úy Miljin, vỏ kiếm dài đung đưa bên hông.
 

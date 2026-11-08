@@ -1,3 +1,7 @@
+<p class="para-en">*Epilogue*</p>
+
+<p class="para-vi-sub">*Phần Kết*</p>
+
 # 12.
 
 <p class="para-en">Gwen went to London in the late winter of 2022 for Robin Fellows’s retirement party. She would’ve been there even if Robin hadn’t published Arthur’s book . . . a book that bore Gwen’s own name as a coauthor, at Robin’s insistence. Gwen hardly felt she had done anything. She had merely filled in the blanks Arthur had left behind, as she had done for a thousand crosswords they had shared. The book had done well enough. Some people liked it, some didn’t, there were a few good reviews and a few bad ones, and if sales continued like they were, it might even stay in print awhile.</p>

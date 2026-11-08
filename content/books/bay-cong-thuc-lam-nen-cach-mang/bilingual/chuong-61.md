@@ -1,3 +1,7 @@
+<p class="para-en">*Course 6: Marinated Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Sáu • Thịt Ướp Emphon*</p>
+
 # 51 Trống rỗng
 
 <p class="para-en">Any common capable dug for survivors. Bare hands. No Endurance. Burns and bruises. It didn’t matter, we tried to find hope. I tried to hope my moms were alive, knowing at least five thousand had just died.</p>

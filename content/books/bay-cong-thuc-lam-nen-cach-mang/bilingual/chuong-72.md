@@ -1,3 +1,7 @@
+<p class="para-en">*Course 7: Fire Shanks*</p>
+
+<p class="para-vi-sub">*Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa*</p>
+
 # 61 Hoàng Tộc
 
 <p class="para-en">The messenger was kind enough to cough loudly.</p>

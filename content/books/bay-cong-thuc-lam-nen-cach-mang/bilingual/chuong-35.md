@@ -1,3 +1,7 @@
+<p class="para-en">*Course 3: Rare Emphon*</p>
+
+<p class="para-vi-sub">*Món Thứ Ba • Thịt Tái Emphon*</p>
+
 # 28 Vua Consommé
 
 <p class="para-en">On the afternoon of Flyover, Cori, Yenne, and I came down the central stair of the Academy. Though they’d both been in the Herd since Cori got to Ranch, they hadn’t spent much time together until Yenne started watching me for Vanil and Cori got back. The first time we hung out as a group, it took them ten minutes to realize they shared a mutual passion for making fun of me, and they’d become fast friends. So much so that Cori had just spent the last two hours doing Yenne’s hair for a date with her mysterious partner that night.</p>

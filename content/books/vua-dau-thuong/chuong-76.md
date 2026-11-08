@@ -1,3 +1,5 @@
+*Quyển Hai • Bay Hay Chết?*
+
 # Hậu Chuyện • Bốn
 
 Bố mẹ cô vội vã bay sang tận Greenland để chăm sóc Allie, nhưng cô lại cảm thấy thực tế hoàn toàn trái ngược: chính cô mới là người phải gồng mình chăm sóc họ. Trông hai ông bà già nua, ngơ ngác và bất lực đến tội nghiệp. Bố cô vốn là một người đàn ông cao lớn, vạm vỡ mang phong thái bệ vệ của một ngôi sao màn bạc Hollywood thập niên 1950, mẫu tài tử chuyên xuất hiện trên màn ảnh rộng với hai bên hông vắt chéo bao đạn súng lục miền Viễn Tây. Mẹ cô từng là một hoạt náo viên chính hiệu của đội bóng bầu dục danh tiếng Dallas Cowboys, và dẫu đã bước sang tuổi sáu mươi, bà nom vẫn giữ được vóc dáng nuột nà của thời hoàng kim. Mái tóc bà mang sắc vàng mật ong óng ả, dù giờ đây màu tóc ấy được chắt ra từ một lọ thuốc nhuộm đắt tiền.

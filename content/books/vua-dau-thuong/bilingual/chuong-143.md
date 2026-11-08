@@ -1,3 +1,7 @@
+<p class="para-en">*Book Two: Fly or Die?*</p>
+
+<p class="para-vi-sub">*Quyển Hai • Bay Hay Chết?*</p>
+
 # 16.
 
 <p class="para-en">When Gwen and Robin walked into the chapel on the campus of Rackham College, three days after Allie kissed Donna goodbye at The Briars, the 8:00 p.m. meeting was still going on downstairs. Gwen took a seat in the pews. The chapel was open all night long to students, but at this hour, only the accent lights were on, throwing brilliance onto the ornate stonework overhead. A century-old Bible, a book twice the size of Enoch Crane’s journal, was open on the altar, and Robin wandered up to give it a glance. She had a smug look of satisfaction when she got back to her pew.</p>

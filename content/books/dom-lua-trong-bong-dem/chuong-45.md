@@ -1,6 +1,6 @@
-# CHƯƠNG 41
-
 *THÁNG SÁU, 2019*
+
+# CHƯƠNG 41
 
 Tôi bật đèn xi-nhan rồi rẽ vào lối thoát kế tiếp. Breaux Bridge. Một nơi tôi chưa từng quay trở lại kể từ ngày rời đi học đại học hơn mười năm trước; một nơi tôi từng đinh ninh sẽ chẳng bao giờ đặt chân đến thêm một lần nào nữa.
 

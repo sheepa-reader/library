@@ -1,3 +1,7 @@
+<p class="para-en">*Book One: The Briars*</p>
+
+<p class="para-vi-sub">*Quyển Một • Dinh Thự The Briars*</p>
+
 # Mười
 
 <p class="para-en">Arthur spent nearly four hours on Halloween morning decorating the Brooks Library for the “Ghosts of Shakespeare” party, an annual fête that had been held since the 1950s. By the time he and the other student librarians were done, the halls were decked out with flickering electric candles and the shelves were draped in fake cobwebs. After dark, the drama club kids would emerge from balconies and out of darkened nooks to perform sinister snippets of Hamlet and Macbeth while the audience wandered around in the gloom, tittering nervously. When Van learned Arthur wasn’t planning to attend, he looked horrified and astonished—as if Arthur had told him Johnny Cash was dead. It was one of Rackham’s most popular yearly events, and the idea of Arthur avoiding the library on Halloween night was like imagining the Vatican on Easter without the pope.</p>
