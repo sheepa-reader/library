@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*7 VA CHẠM*
+# 7 VA CHẠM
 
 “TẤT CẢ NẰM XUỐNG!”
 Tôi hét lên, vội ôm đầu lao mình xuống sàn.

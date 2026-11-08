@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*18 CHUẨN BỊ*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*18 CHUẨN BỊ*</p>
+# 18 CHUẨN BỊ
 
 <p class="para-en">AS PROMISED, I made Cori their favorite food in the morning: proper Ranch-style eggs with runny yolk and crunchy tortilla chips. It took a little help from the imperial palace staff to get the right ingredients, but they were willing now that we weren’t prisoners. The meal bought me a modicum of good will, and I explained what I had planned. They didn’t like it, but they were willing to go along with it.</p>
 

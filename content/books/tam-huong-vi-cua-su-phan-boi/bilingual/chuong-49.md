@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*37 NGUYÊN THUẬT*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*37 NGUYÊN THUẬT*</p>
+# 37 NGUYÊN THUẬT
 
 <p class="para-en">CORI AND I agreed I shouldn’t tell Cutler I intended to circumvent becoming a sourcerer. Cutler had hidden things from me over the years, and there’d been two years we didn’t see each other much, but I knew the man. Banan was his thirteenth child buried. His favorite food was a black bean and jicama quesadilla. So many years had passed that he no longer remembered his own parents’ names, food had mostly lost its flavor with his dying tastebuds, and his body was weary in a way that he couldn’t rightly explain. The man might be immortal, but he was fragile.</p>
 

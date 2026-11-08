@@ -1,6 +1,6 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+*Món Thứ Năm • Vọng Âm Vindaloo*
 
-*47 OÁN THÙ TRẢ XONG*
+# 47 OÁN THÙ TRẢ XONG
 
 NHỮNG VỊ THỰC KHÁCH vội vã rời đi trước khi màn thanh toán ân oán giữa tôi và Dyl nổ ra hào phóng chẳng kém bất kỳ thực khách thượng lưu nào tôi từng phục vụ. Riêng khoản tiền boa để lại đã đủ kếch xù để cả nhóm chúng tôi tậu đứt cả một dãy nhà mặt phố nếu muốn. Rõ ràng, bọn họ đều bị chinh phục và trở thành những kẻ say mê các món ăn của tôi. Cộng thêm khoản thanh toán sòng phẳng cho toàn bộ số hóa đơn bàn tiệc còn lại, đội bếp của chúng tôi đã thu về lượng đồng hạt giống dư dả hơn nhiều so với mức cần thiết để lập tức dọn đồ rời khỏi dinh thự của Riv. Quả là một cơ may kịp thời. Chúng tôi thực chất đã bị tống cổ khỏi khu dinh cơ ấy ngay cả trước khi kịp dọn dẹp sạch sẽ xoong chảo trong gian bếp. Một tên lính truyền tin lạnh lùng thông báo cho chúng tôi hay rằng chính quyền Đế quốc không còn mặn mà mở rộng lòng hiếu khách với đoàn sứ giả nữa.
 

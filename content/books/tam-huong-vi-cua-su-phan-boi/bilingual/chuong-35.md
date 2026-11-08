@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*26 TIN TỨC*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*26 TIN TỨC*</p>
+# 26 TIN TỨC
 
 <p class="para-en">LAVEN AND SINCERA stayed with the rangers to gather more information while the rest of us went back to Riv’s house. Frankly, I didn’t know what I could really do other than stand around while they came up with better investigative ideas, and I wanted to check on Cori. Cutler was also in town somewhere, and I wanted to find him.</p>
 

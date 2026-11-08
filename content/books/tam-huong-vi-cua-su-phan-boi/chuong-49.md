@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*37 NGUYÊN THUẬT*
+# 37 NGUYÊN THUẬT
 
 Cori và tôi đều thống nhất rằng tôi tuyệt đối không nên để lộ cho Cutler biết ý định tìm cách né tránh việc trở thành một nguyên thuật sư. Suốt bao nhiêu năm ròng qua, Cutler đã giấu giếm tôi không ít bí mật, và cũng có hai năm trời chúng tôi hầu như chẳng giáp mặt nhau, thế nhưng tôi hiểu rất rõ con người ông già. Banan là đứa con thứ mười ba mà chính tay ông già phải đào huyệt chôn cất. Món ăn khoái khẩu của ông già là bánh quesadilla nhân đậu đen kẹp củ đậu giòn. Quá nhiều thế kỷ đằng đẵng trôi qua đến mức ông già chẳng còn nhớ nổi danh tính cha mẹ ruột của mình, thức ăn trần thế gần như mất hết phong vị khi các chồi vị giác đã lụi tàn theo thời gian, còn thân xác ông già thì rệu rã mục ruỗng theo cái cách mà chính bản thân ông già cũng không tài nào giải thích rành rọt được. Người đàn ông ấy có thể nắm giữ sự bất tử, nhưng ông già cũng thật mong manh và tàn tạ biết bao.
 

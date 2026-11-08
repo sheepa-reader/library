@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*23 ĐỒNG CỐT*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*23 ĐỒNG CỐT*</p>
+# 23 ĐỒNG CỐT
 
 <p class="para-en">ONCE, RYESPUR WAS the capital of its own country. North along Croissant Bay, surrounded by some of the richest abundance in the world: fish, minerals, redwood trees, Olearth technology, you name it. A sparkling city backdropped by the ocean.</p>
 

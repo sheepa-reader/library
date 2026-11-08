@@ -1,6 +1,6 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+*Món Thứ Năm • Vọng Âm Vindaloo*
 
-*49 MỘT SỰ THẬT BẤT TIỆN*
+# 49 MỘT SỰ THẬT BẤT TIỆN
 
 Đại công thức Tin Nhắn Trong Chai của Laven đã trở thành một trong những sáng tạo ẩm thực hữu dụng nhất từng được thai nghén kể từ sau cuộc Cách mạng, và có lẽ là trong toàn bộ lịch sử nhân loại. Bạn sẽ chẳng tài nào tìm ra nổi một nguyên thuật sư, một đầu bếp hay bất kỳ thể chế quốc gia nào lại nỡ bỏ qua việc ứng dụng nó để trục lợi cho tham vọng của riêng mình. Thật đáng tiếc khi tôi buộc phải đem công thức vô giá ấy ra trao đổi vào cái thời điểm dầu sôi lửa bỏng đó. Giá như tôi có thể giữ kín nó làm bí mật sống còn thì tốt biết mấy.
 

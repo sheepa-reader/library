@@ -1,6 +1,6 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-*18 CHUẨN BỊ*
+# 18 CHUẨN BỊ
 
 Đúng như đã hứa, buổi sáng hôm đó tôi đã làm cho Cori món ăn yêu thích của em: trứng chuẩn phong cách Ranch với lòng đỏ sóng sánh ăn kèm bánh ngô tortilla giòn rụm. Tôi đã phải nhờ đến sự trợ giúp từ người của hoàng cung mới tìm đủ nguyên liệu phù hợp, nhưng giờ đây họ hoàn toàn sẵn lòng giúp đỡ khi chúng tôi không còn là tù nhân nữa. Bữa ăn mang lại cho tôi chút thiện cảm từ em, và tôi bắt đầu giải thích những gì mình đã lên kế hoạch. Em chẳng thích thú gì, nhưng vẫn chấp nhận làm theo.
 

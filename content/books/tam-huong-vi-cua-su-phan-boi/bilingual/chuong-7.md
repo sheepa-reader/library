@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN*</p>
+# 2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN
 
 <p class="para-en">THREE DAYS LATER, I hurried toward Pen Stables, thinking about that afternoon with Hili. That morning, news had broken that had shocked the city: New Panchon had signed a trade agreement with Semoli. Our enemies would be ready to rearm quickly, and that meant I’d be sending Hili to the Front. It made my business that evening all the more important, and I did not have time to be crossing the city for whatever this summons was about.</p>
 

@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH*
+# MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH
 
 Một hồi tù và xé toang màn sương dày đặc từ phía nam vọng lại, cắt ngang lời anh.
 

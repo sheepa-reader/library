@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC*</p>
+# 70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC
 
 <p class="para-en">THE BUTCHER PAUSES, surveying first his two captives, then the height of the moon in the sky. “What happened next inside the Academy House isn’t completely relevant to my story. Frankly, it’s not even my story to tell. It’s Feng’s. Until the end, anyway.”</p>
 

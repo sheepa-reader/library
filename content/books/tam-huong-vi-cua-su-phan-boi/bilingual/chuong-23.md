@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*16 BỮA ĂN HOÀNG GIA*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*16 BỮA ĂN HOÀNG GIA*</p>
+# 16 BỮA ĂN HOÀNG GIA
 
 <p class="para-en">LAVEN AND I got a moment alone after our baths while the badge staff went to fetch us clothes of suitable quality. Thanks to my greater, the pair of us had gotten used to seeing each other completely naked, so while it might’ve left others in an uncomfortable silence, we got straight into things.</p>
 

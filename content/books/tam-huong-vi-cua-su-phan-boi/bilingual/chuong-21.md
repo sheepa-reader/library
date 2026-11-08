@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ*</p>
+# 14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ
 
 <p class="para-en">LAVEN AND I awoke shackled in adjacent cells of an iron cage. The jail-wagon’s busted wheel bounced us through the mountains, battering bruises we’d sustained during our enlargement. The wounds opened by the badgeboar’s tusks had scabbed over my ribs, and each jostled movement made them unpleasant company, but I had it easy. Laven’s weaker arm and leg must’ve been excruciating, one bound over his head, the other tucked under him awkwardly.</p>
 

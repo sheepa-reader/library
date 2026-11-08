@@ -1,8 +1,8 @@
-# Món Thứ Tám • Bánh Cưới
+<p class="para-en">*Course 8: Wedding Cake*</p>
 
-<p class="para-en">*73 LÊN LỊCH NGÀY CƯỚI*</p>
+<p class="para-vi-sub">*Món Thứ Tám • Bánh Cưới*</p>
 
-<p class="para-vi-sub">*73 LÊN LỊCH NGÀY CƯỚI*</p>
+# 73 LÊN LỊCH NGÀY CƯỚI
 
 <p class="para-en">THE BUTCHER MUST notice the hope flowing through the archivist’s eyes. With a wave, he releases Voice Vindaloo’s power over her and says, “Wipe your eyes. I already told you he was alive.” “Where is he?” the archivist asks.</p>
 

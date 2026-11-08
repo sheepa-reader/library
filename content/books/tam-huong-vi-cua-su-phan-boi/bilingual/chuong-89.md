@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*71 Ý ĐỒ HỖN LẠN*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*71 Ý ĐỒ HỖN LẠN*</p>
+# 71 Ý ĐỒ HỖN LẠN
 
 <p class="para-en">THE KITCHEN WASN’T the same without Laven. He’d promised me he’d be here in time, and more than ever, I felt the time had come, but my best friend was nowhere to be seen. The chaos of my kitchen was mine alone to wrangle. Feng mourning. My fry cook scared out of his mind. Even Sincera seemed off. All of them looked at me, waiting to find out how to save the city. Give me Bessa running loose through Ranch, ten times out of ten.</p>
 

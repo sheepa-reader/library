@@ -1,8 +1,8 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+<p class="para-en">*Course 6: Werephon Roll*</p>
 
-<p class="para-en">*53 SỰ BÁO THÙ NGỌT NGÀO*</p>
+<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
 
-<p class="para-vi-sub">*53 SỰ BÁO THÙ NGỌT NGÀO*</p>
+# 53 SỰ BÁO THÙ NGỌT NGÀO
 
 <p class="para-en">SCALEN ROSE FROM his seat and motioned for us to follow. “Before I begin, let us save some time. You will want to see Atlas by the end of this story. She is this way.”</p>
 

@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC*
+# MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC
 
 “Dung hợp Đại công thức,” nữ lưu trữ viên bàng hoàng lặp lại, kinh hãi trước những ẩn ý sâu xa khôn lường. Hai Đại công thức cùng lúc bộc phát uy lực sẽ gieo rắc những hỗn loạn ma thuật không thể nào dự đoán nổi. Tâm trí cô cuộn trào như một dòng thác lũ với muôn vàn tổ hợp kết hợp. *Chắc chắn đây phải là một màn kịch dối trá trơ trẽn.*
 

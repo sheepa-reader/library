@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*62 GIẢI PHÁP HIỂN NHIÊN*
+# 62 GIẢI PHÁP HIỂN NHIÊN
 
 KHAO KHÁT XẢ HẾT CƠN CUỒNG NỘ, tôi chộp lấy đao cưa đồ tể, giật phắt nó ra khỏi bao da và vung lưỡi cưa chém xối xả vào mạn tổ tựa như đang điên cuồng lao vào chém giết giữa một đội quân Thượng Phẩm. Tôi chỉ thực sự dừng tay khi bàng hoàng nhận ra cơ thể mình đã ngừng toát mồ hôi.
 

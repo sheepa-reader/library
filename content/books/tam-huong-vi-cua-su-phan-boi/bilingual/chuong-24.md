@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH*</p>
+# 17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH
 
 <p class="para-en">CORI THREW THEIR flatsword against the wall of the sparsely furnished apartment we’d been given in the palace. “I’m supposed to be representing you! How am I supposed to do that when you agree to starving duels before the terms are even set?”</p>
 

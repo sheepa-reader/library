@@ -1,6 +1,6 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+*Món Thứ Năm • Vọng Âm Vindaloo*
 
-*43 HIỂU RÕ THỰC KHÁCH*
+# 43 HIỂU RÕ THỰC KHÁCH
 
 ĐÊM MỞ MÀN của quán ăn pop-up ập đến quá đỗi chóng vánh, thế nhưng ngọn lửa chiến tranh nơi quê nhà đang từng giờ vẫy gọi chúng tôi. Chẳng còn lấy nửa khắc để chần chừ do dự nữa.
 

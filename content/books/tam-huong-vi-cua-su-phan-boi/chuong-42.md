@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
-*MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ*
+# MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ
 
 NỮ LƯU TRỮ VIÊN đập mạnh ngọn bút lông xuống mặt bàn bằng chút ít uy quyền sót lại mà cổ tay đang mỏi nhừ của cô có thể gom góp được. “Tôi bắt buộc phải đòi hỏi những câu trả lời thỏa đáng.”
 

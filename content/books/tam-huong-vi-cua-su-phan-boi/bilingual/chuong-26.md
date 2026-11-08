@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ*</p>
+# MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ
 
 <p class="para-en">THE YELLER WHO escorted the prisoners in and out for their “meal” pokes his head through the entrance flap. “One’s ready to talk, sir.”</p>
 

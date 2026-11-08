@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*58 FENG TRÊN RĂNG CƯA*
+# 58 FENG TRÊN RĂNG CƯA
 
 Hai chúng tôi phải mất gần hai ngày ròng rã đu mình leo xuống khỏi các tầng tán cây đại thụ mới tìm thấy bầy quái thú Wolphon mà tôi được giao nhiệm vụ phải cưỡi về Ranch. Đứng dưới nhìn lên con quái thú đang đói lả gầm gừ, tôi chỉ thèm quay ngược lên trên đỉnh cây để bóp cổ tính sổ với Laven.
 

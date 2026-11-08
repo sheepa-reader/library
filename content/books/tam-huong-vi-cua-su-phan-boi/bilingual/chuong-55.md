@@ -1,8 +1,8 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
-
 <p class="para-en">Like many dishes in the Southern Empire, Vindaloo’s warm, spicy tanginess encourages a large, sumptuous spread of sides. Pair with any from basmati rice, naan, roti, cucumber salad, pickled onions, roasted potatoes, mango chutney, and yoghurt, or include all for a feast fit for a true commander.</p>
 
 <p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo* *Tương tự như nhiều phong vị ẩm thực độc đáo tại các xứ sở thuộc Đế quốc Phương Nam, tầng hương vị nồng ấm, cay xé lưỡi và đậm đà ngập tràn của cà ri vindaloo hoàn hảo nhất khi được dùng kèm với một mâm đồ ăn phụ phong phú và thịnh soạn. Hãy kết hợp món ăn này cùng cơm gạo hạt dài basmati, bánh mì nướng naan, bánh roti giòn xốp, salad dưa chuột thanh mát, hành tím ngâm chua, khoai tây đút lò, mứt xoài cay ngọt cùng sữa chua thanh đạm, hoặc phối trộn tất cả lại để tạo nên một đại yến tiệc xứng tầm bậc quân vương chỉ huy thực thụ.*</p>
+
+# Món Thứ Năm • Vọng Âm Vindaloo
 
 <p class="para-en">Ingredients (serves 3–4):</p>
 

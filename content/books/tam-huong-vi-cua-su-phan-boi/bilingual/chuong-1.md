@@ -1,8 +1,8 @@
-# ĐÁNH GIÁ
-
 <p class="para-en">“Hugely original while also comfortingly familiar, Seven Recipes for Revolution is a delectable feast of wildly unique worldbuilding and page-turning twists.”—Andrea Stewart, award-winning and Sunday Times bestselling author of The Drowning Empire series</p>
 
 <p class="para-vi-sub">“Vừa vô cùng độc đáo lại vừa mang lại cảm giác thân thuộc đến dễ chịu, *Bảy Đại Công Thức Cách Mạng* là một bữa đại tiệc thịnh soạn được tạo nên từ nghệ thuật xây dựng thế giới đặc sắc đến kinh ngạc cùng những cú lật mở cuốn hút đến nghẹt thở.” - Andrea Stewart, tác giả có sách bán chạy nhất theo bình chọn của *Sunday Times* và từng đoạt nhiều giải thưởng danh giá với bộ ba tiểu thuyết *The Drowning Empire*</p>
+
+# ĐÁNH GIÁ
 
 <p class="para-en">“Rose cooks up a truly sizzling debut: a world where food is identity, meals are magic, and a community starved for justice gets the badass hero they need in Paprick the Butcher.”—Essa Hansen, author of Nophek Gloss</p>
 

@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*42 CHIẾN TRANH*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*42 CHIẾN TRANH*</p>
+# 42 CHIẾN TRANH
 
 <p class="para-en">WE ALL SAT around Riv’s outdoor table. Sincera and Laven had just returned from their investigation, and I hadn’t gotten a chance to ask if they’d found anything. Could barely think about the damn Ovate, not with how Cori kept wringing their hands around the parchment, wearing it down into a pulp.</p>
 

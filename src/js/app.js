@@ -533,37 +533,41 @@
       cleanedLines.push(rawLine);
     }
 
-    // 3b. Tự động đảm bảo Tiêu đề Phần / Course (Header 1) luôn nằm TRÊN tiêu đề chương con
-    // (Ví dụ: 'Món Thứ Nhất...' luôn là Header 1 nằm trên '1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH')
+    // 3b. Tự động đảm bảo Mục Lớn / Phần / Course luôn nằm TRÊN tiêu đề chương
+    // (Định dạng: Mục Lớn ở trên xám/in nghiêng/nhỏ làm nhắc nhở, Tiêu đề chương ở dưới to/in đậm)
     const rePartHeading = /^[\*_]*\s*(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Part\s+|Book\s+|Course\s+)/i;
-    if (cleanedLines.length >= 2 && cleanedLines[0].trim().startsWith('# ')) {
-      const rawHeading = cleanedLines[0].trim().replace(/^#+\s*/, '').trim();
-      if (!rePartHeading.test(rawHeading)) {
-        for (let k = 1; k < Math.min(cleanedLines.length, 6); k++) {
-          const checkLine = cleanedLines[k].trim();
-          if (checkLine.includes('para-en') || checkLine.includes('para-vi-sub')) {
-            const plain = checkLine.replace(/<[^>]+>/g, '').trim();
-            if (rePartHeading.test(plain)) {
-              let enIdx = checkLine.includes('para-en') ? k : k - 1;
-              let viIdx = checkLine.includes('para-vi-sub') ? k : k + 1;
-              if (enIdx >= 0 && viIdx < cleanedLines.length) {
-                const partVi = cleanedLines[viIdx].replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
-                if (partVi.toLowerCase() !== rawHeading.toLowerCase()) {
-                  cleanedLines[0] = '# ' + partVi;
-                  cleanedLines[enIdx] = `<p class="para-en">*${rawHeading}*</p>`;
-                  cleanedLines[viIdx] = `<p class="para-vi-sub">*${rawHeading}*</p>`;
-                  firstHeadingTitle = partVi.toLowerCase();
-                  break;
+    if (cleanedLines.length >= 2) {
+      // Nếu dòng 0 là # Tiêu đề chương và dòng tiếp theo là *Mục lớn*: đảo thứ tự để *Mục lớn* nằm TRÊN
+      if (cleanedLines[0].trim().startsWith('# ')) {
+        const rawHeading = cleanedLines[0].trim().replace(/^#+\s*/, '').trim();
+        if (!rePartHeading.test(rawHeading)) {
+          for (let k = 1; k < Math.min(cleanedLines.length, 6); k++) {
+            const checkLine = cleanedLines[k].trim();
+            if (checkLine.includes('para-en') || checkLine.includes('para-vi-sub')) {
+              const plain = checkLine.replace(/<[^>]+>/g, '').trim();
+              if (rePartHeading.test(plain)) {
+                let enIdx = checkLine.includes('para-en') ? k : k - 1;
+                let viIdx = checkLine.includes('para-vi-sub') ? k : k + 1;
+                if (enIdx >= 0 && viIdx < cleanedLines.length) {
+                  const partVi = cleanedLines[viIdx].replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
+                  if (partVi.toLowerCase() !== rawHeading.toLowerCase()) {
+                    // Đưa Mục lớn lên trên dạng phụ đề song ngữ, tiêu đề chương ở dưới dạng # Heading
+                    cleanedLines[0] = `<p class="para-en">*${partVi}*</p>`;
+                    cleanedLines[enIdx] = `<p class="para-vi-sub">*${partVi}*</p>`;
+                    cleanedLines[viIdx] = `# ${rawHeading}`;
+                    firstHeadingTitle = rawHeading.toLowerCase();
+                    break;
+                  }
                 }
               }
-            }
-          } else if (rePartHeading.test(checkLine.replace(/<[^>]+>/g, '').trim())) {
-            const partTitle = checkLine.replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
-            if (partTitle.toLowerCase() !== rawHeading.toLowerCase()) {
-              cleanedLines[0] = '# ' + partTitle;
-              cleanedLines[k] = `*${rawHeading}*`;
-              firstHeadingTitle = partTitle.toLowerCase();
-              break;
+            } else if (rePartHeading.test(checkLine.replace(/<[^>]+>/g, '').trim())) {
+              const partTitle = checkLine.replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
+              if (partTitle.toLowerCase() !== rawHeading.toLowerCase()) {
+                cleanedLines[0] = `*${partTitle}*`;
+                cleanedLines[k] = `# ${rawHeading}`;
+                firstHeadingTitle = rawHeading.toLowerCase();
+                break;
+              }
             }
           }
         }
@@ -661,7 +665,10 @@
         const isItalicSubtitle = (/^<em>[^<]+<\/em>$/i.test(line) || /^\*[^*]+\*$/.test(plainText)) && plainText.length < 150;
         const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(plainText) || /^<p class="p-name">/i.test(line)) && plainText.length < 50;
 
-        if (isDateTimePattern || isPartOrCourse || isItalicSubtitle || isCharacterNamePOV) {
+        if (isPartOrCourse) {
+          return `<p class="chapter-part-eyebrow text-center" align="center">${line}</p>`;
+        }
+        if (isDateTimePattern || isItalicSubtitle || isCharacterNamePOV) {
           return `<p class="chapter-subtitle text-center" align="center">${line}</p>`;
         }
       }
@@ -707,10 +714,16 @@
         return `\n<div class="bilingual-pair scene-break" data-pair-idx="${idx}"><p class="scene-break" align="center">${symbol}</p></div>\n`;
       }
 
-      // Kiểm tra xem cặp đoạn đầu tiên có phải là phụ đề chương (chapter subtitle) hay không
+      // Kiểm tra xem cặp đoạn đầu tiên có phải là Mục lớn / Course / Phụ đề chương hay không
+      const isPartOrCoursePair = idx === 1 && (/^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(viPlain) || /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(enPlain));
       const isSubtitlePair = idx === 1 && (viText.startsWith('<em>') || viText.startsWith('*')) && (enText.startsWith('<em>') || enText.startsWith('*')) && viPlain.length < 150;
+
+      if (isPartOrCoursePair) {
+        const cleanSubVi = viPlain.replace(/^[\*_\s]+|[\*_\s]+$/g, '');
+        return `\n<div class="bilingual-pair chapter-part-eyebrow text-center" data-pair-idx="${idx}"><p class="chapter-part-eyebrow text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
+      }
       if (isSubtitlePair) {
-        const cleanSubVi = viText.replace(/^[\*\s]+|[\*\s]+$/g, '');
+        const cleanSubVi = viPlain.replace(/^[\*_\s]+|[\*_\s]+$/g, '');
         return `\n<div class="bilingual-pair chapter-subtitle-pair text-center" data-pair-idx="${idx}"><p class="chapter-subtitle text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
       }
 

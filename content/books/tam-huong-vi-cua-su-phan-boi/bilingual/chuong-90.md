@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*72 QUESADILLA HỖN LOẠN*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*72 QUESADILLA HỖN LOẠN*</p>
+# 72 QUESADILLA HỖN LOẠN
 
 <p class="para-en">CHEF SAGEN TAUGHT me to dissect flavors and translate them into words. I learned what succulent meant, versus savory, versus piquant, versus tangy. Every word we use to describe taste, my arsenal.</p>
 

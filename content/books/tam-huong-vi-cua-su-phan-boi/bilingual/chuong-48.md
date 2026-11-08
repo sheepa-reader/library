@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*36 GIA ĐÌNH*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*36 GIA ĐÌNH*</p>
+# 36 GIA ĐÌNH
 
 <p class="para-en">I TOOK A day.</p>
 

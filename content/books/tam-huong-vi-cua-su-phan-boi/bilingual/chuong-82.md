@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ*</p>
+# 64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ
 
 <p class="para-en">TEN METERS TALL, Enduring to the gills, and able to float. It was disorienting at first. Like that first time I used my Rub with Bessa, I had to get used to my new perspective and weight. After grabbing my cleaversaw and the rest of my things, I leapt out of the tree and fell gently to the Temple roof below. At my height, with that weight, the drop was nothing. In fact, I felt so little strain in my knees, I climbed over the side and dropped from tier to tier like I was catching myself on a ladder until I dangled from the rope that hung beneath it.</p>
 

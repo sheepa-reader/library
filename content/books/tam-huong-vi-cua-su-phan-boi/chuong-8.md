@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*3 MỤC ĐÍCH VÀ LỜI CẦU HÔN*
+# 3 MỤC ĐÍCH VÀ LỜI CẦU HÔN
 
 Laven và Cori vừa bước ra ngoài đã muốn bàn luận ngay về những gì chúng tôi vừa chứng kiến, nhưng tôi đã ra hiệu cho cả hai im lặng. Thừa hiểu tính Rish, lão ắt hẳn đã bố trí tai mắt dọc từng mét đường lát đá giữa khu Trại Nhốt Pen và Nhà hàng Học viện để nghe lén. Dù rằng có rình rập thì bọn họ cũng chẳng moi móc được gì nhiều từ chúng tôi. Bản thân tôi cũng chẳng hiểu bằng cách nào hay vì sao biểu tượng nhà hàng của mình lại bị khắc lên da đầu của người lính khẩu lệnh đó. Tôi cũng hoàn toàn mù tịt việc tại sao người lính gác kia lại bị phanh thây, hay làm thế nào mà thể xác anh ta vẫn giữ nguyên kích thước khổng lồ như vậy.
 

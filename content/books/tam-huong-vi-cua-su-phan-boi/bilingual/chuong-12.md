@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*7 VA CHẠM*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*7 VA CHẠM*</p>
+# 7 VA CHẠM
 
 <p class="para-en">“EVERYBODY DOWN!” I yelled, throwing myself to the floor with my hands above my head.</p>
 

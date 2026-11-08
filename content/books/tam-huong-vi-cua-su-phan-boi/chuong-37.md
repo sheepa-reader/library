@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
-*28 SHEPHERD VÀ TERRY*
+# 28 SHEPHERD VÀ TERRY
 
 CHÚNG TÔI DỪNG CHÂN trước một ngôi nhà trông lạc lõng giữa con phố sầm uất này, hệt như cái cách cửa tiệm của Cutler tọa lạc cô độc trên cao nguyên Fen tại Ranch. Trong khi tất thảy những dãy nhà xung quanh đều mới toanh với tường trát vữa phẳng phiu và mái lợp tôn kim loại, thì nơi đây lại được xây bằng gạch đá thô mộc, muội than bám đen kịt đến mức trông như thể nó đã trơ gan cùng tuế nguyệt từ thuở hồng hoang. Một khi đã thấu hiểu đôi chút về các nguyên thuật sư, vẻ ngoài cổ quái ấy lại trở nên hoàn toàn hợp lý. Cutler giáng nắm đấm rầm rầm lên cánh cửa gỗ tồi tàn, mạnh đến mức suýt chút nữa đánh sập cả khung cửa.
 

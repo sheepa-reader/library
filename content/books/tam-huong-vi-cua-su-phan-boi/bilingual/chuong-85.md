@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*67 RỜI KHỎI LƯNG NÚI*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*67 RỜI KHỎI LƯNG NÚI*</p>
+# 67 RỜI KHỎI LƯNG NÚI
 
 <p class="para-en">WITHIN SECONDS, THE difference in Endurance bashed us in the face. Rangers and legionaries thrummed with magic, holding our ramshackle militia against the destroyed walls despite the advantage of our bison. Snares of vines and walls of wood rose out of the pepper field we’d burst into, snagging the cavalry’s mounts by the hooves and forcing them into tight turns, both of which sent riders flying. Cori disappeared in the chaos, and I had to force myself to concentrate on my own problems.</p>
 

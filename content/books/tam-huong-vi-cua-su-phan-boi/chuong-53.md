@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*41 XE ĐIỆN VÀ CƠN ĐẠI NÁO*
+# 41 XE ĐIỆN VÀ CƠN ĐẠI NÁO
 
 NHƯ VẪN THƯỜNG XẢY RA với những biến cố trớ trêu kiểu này, mọi thảm họa tiềm tàng đều đồng loạt đổ ập xuống ngay giữa lúc Laven đang tất bật chuẩn bị cho đêm tiệc pop-up, còn tôi thì vò đầu bứt tai chật vật tìm cách kích hoạt Quy luật biến thể. Trước tiên là tin dữ này: Đấng Ovate cùng tộc người thảo mộc Drue đã táo tợn tập kích khu bảo tồn thánh địa cuối cùng tại Ryespur, giải cứu thành công thêm hai con quái thú Gryphon, một con quái thú Yakrat và một con quái thú lợn rừng Badgeboar.
 

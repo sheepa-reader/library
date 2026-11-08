@@ -1,6 +1,6 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-*MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ*
+# MÓN CHUYỂN VỊ II LỜI LẼ ĐẮT GIÁ
 
 NGƯỜI LÍNH KHĂN VÀNG đảm nhiệm việc áp giải các tù nhân ra vào để dùng “bữa ăn” thò đầu qua tấm rèm cửa vào. “Có một kẻ đã chịu mở miệng rồi, thưa chỉ huy.”
 

@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*53 SỰ BÁO THÙ NGỌT NGÀO*
+# 53 SỰ BÁO THÙ NGỌT NGÀO
 
 SCALEN ĐỨNG DẬY khỏi ghế ngồi và ra hiệu cho chúng tôi đi theo. “Trước khi bắt đầu, chúng ta hãy tiết kiệm chút thời gian. Chắc chắn các cậu sẽ muốn diện kiến Atlas trước khi kết thúc câu chuyện này. Con bé ở lối này.”
 

@@ -1,6 +1,6 @@
-# Món Thứ Tám • Bánh Cưới
+*Món Thứ Tám • Bánh Cưới*
 
-*74 CHO CHÚNG ĂN BÁNH*
+# 74 CHO CHÚNG ĂN BÁNH
 
 “CHÚNG TA KHÔNG nhất thiết phải tiếp tục màn tra khảo này nữa,” nữ lưu trữ viên khẽ cất lời đề nghị, ánh mắt thoáng chút chùn xuống.
 

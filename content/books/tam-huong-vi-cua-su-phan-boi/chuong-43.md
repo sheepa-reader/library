@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
-*33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI*
+# 33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI
 
 KÝ ỨC DỘI VỀ khắc sâu diện mạo của quán ăn vào tâm trí tôi, nhưng khi hai đứa đặt chân tới nơi, tôi hầu như chẳng còn tâm trí đâu để để mắt xem nó trông ra sao. Đầu óc tôi lúc ấy quá bận rộn với nỗi âu lo ngổn ngang về những lời mình sắp sửa phải thốt ra. Chí ít thì Cori cũng đủ tinh tế và rộng lượng để giữ im lặng suốt dọc chặng đường cuốc bộ tới đây. Nếu phải mở lời xã giao gượng gạo vào lúc ấy, có lẽ tôi đã suy sụp hoàn toàn rồi.
 

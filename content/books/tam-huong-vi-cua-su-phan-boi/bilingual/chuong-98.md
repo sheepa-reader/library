@@ -1,6 +1,6 @@
-# VỀ TÁC GIẢ
-
 <p class="para-en">After escaping his hometown in Central Florida, Ryan began studying to become a chemical engineer. He was sure he would one day be an asteroid miner. Since then, he’s worked in tabletop game design, Broadway musical production, and even taught English to middle schoolers. These days, Ryan lives in Oakland with his partner and their dog, which may be a demon. He now works to defend democracy at UC Berkeley, which still doesn’t involve chemical engineering. You can find Ryan on the good socials, assuming there are any at the time of this printing.</p>
 
 <p class="para-vi-sub">Sau khi trốn khỏi quê nhà ở miền trung Florida, Ryan bắt đầu theo học ngành kỹ sư hóa học. Anh chắc mẩm rằng có ngày mình sẽ trở thành một thợ mỏ tiểu hành tinh. Kể từ đó, anh đã thử sức qua lĩnh vực thiết kế trò chơi bàn cờ, sản xuất nhạc kịch Broadway, và thậm chí từng dạy tiếng Anh cho học sinh trung học cơ sở. Ngày nay, Ryan sống ở Oakland cùng bạn đời và chú chó cưng có vẻ ngoài giống một con quỷ. Hiện tại, anh đang làm việc để bảo vệ nền dân chủ tại Đại học UC Berkeley, công việc mà cho đến nay vẫn chẳng dính líu gì đến kỹ sư hóa học. Bạn có thể tìm thấy Ryan trên các nền tảng mạng xã hội tử tế, giả sử là vẫn còn mạng nào tồn tại vào thời điểm cuốn sách này được ấn hành.</p>
+
+# VỀ TÁC GIẢ
 

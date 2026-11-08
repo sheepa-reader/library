@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*8 MÓN NACHO CHIẾN LƯỢC*
+# 8 MÓN NACHO CHIẾN LƯỢC
 
 “Chàng sát thủ, anh biết em tin anh mà,” Cori nói khi ngồi xuống chiếc ghế đẩu cạnh quầy bar. “Anh biết em yêu anh. Nhưng rốt cuộc quái quỷ gì đang diễn ra trong đầu anh thế?”
 

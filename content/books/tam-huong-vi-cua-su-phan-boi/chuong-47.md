@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG*
+# MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG
 
 Dì Gynger cùng bốn người Thứ Phẩm khác rảo bước vén tấm bạt bước vào lều chỉ huy, khiến Yenne khẽ hít một hơi bàng hoàng nghẹt thở. Crooked Rish sải bước tiến vào ngay giữa hàng ngũ của họ. Khác hẳn với những viên chỉ huy dạn dày trận mạc đang khoác lên mình chiếc áo choàng quân vụ đẫm mùi khói súng của lực lượng Đồ Tể, Rish vẫn trung thành với bộ trang phục xuề xòa quen thuộc: chiếc áo vải thụng thùng thình cùng chiếc quần ống rộng đã sờn rách gấu, mái tóc dài lượn sóng buông xõa dẫu đã thưa thớt nhiều phần. Thế nhưng tuyệt nhiên chẳng có nét gì là giản dị ở một người đàn ông mang vết sẹo chém vắt ngang cổ họng ngoằn ngoèo và lồi cộm đến mức gần như ánh lên sắc hồng ma quái dưới ánh đèn măng-sông.
 

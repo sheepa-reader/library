@@ -1,6 +1,6 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-*19 LẮM ĐẦU BẾP*
+# 19 LẮM ĐẦU BẾP
 
 Vào buổi sáng diễn ra trận đấu sinh tử, kiểm lâm viên Riv Engi, cha dượng của Feng, đã đến hộ tống chúng tôi tới đấu trường của Đền Gryphon. Bốn kiểm lâm viên khác, một trong số đó là Talyn, em gái của Feng, đi kèm hai bên ông ta, tản ra vây quanh chúng tôi. Chúng tôi sẽ di chuyển bằng một thứ gọi là thuyền cáp treo.
 

@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*25 HIỆN TRƯỜNG VỤ ÁN*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*25 HIỆN TRƯỜNG VỤ ÁN*</p>
+# 25 HIỆN TRƯỜNG VỤ ÁN
 
 <p class="para-en">THE NEXT MORNING, Riv brought us to the site of the most recent attack, no rest for the road-weary. Rangers would meet us there to explain everything.</p>
 

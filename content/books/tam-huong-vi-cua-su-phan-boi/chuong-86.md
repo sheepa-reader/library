@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*68 TRỞ VỀ NHÀ*
+# 68 TRỞ VỀ NHÀ
 
 Đế quốc có lẽ đã thừa cơ cướp đoạt mảnh đất này khi tôi vắng mặt, thế nhưng đại đô thị Ranch đã luôn là, hiện đang là và mãi mãi sẽ là thành phố của riêng tôi. Không một kẻ ngoại bang nào có quyền cướp nó khỏi tay tôi.
 

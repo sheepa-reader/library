@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+<p class="para-en">*Course 7: Life Lassi*</p>
 
-<p class="para-en">*69 TƯƠNG LAI ĐƯỢC TÌM THẤY*</p>
+<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
 
-<p class="para-vi-sub">*69 TƯƠNG LAI ĐƯỢC TÌM THẤY*</p>
+# 69 TƯƠNG LAI ĐƯỢC TÌM THẤY
 
 <p class="para-en">“WHAT ARE YOU doing here?” I asked, stepping away from the decapitated corpse, a hand casually scooping up my cleaversaw.</p>
 

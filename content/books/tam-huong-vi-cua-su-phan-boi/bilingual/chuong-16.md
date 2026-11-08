@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*10 NHỮNG VÙNG ĐẤT MỚI*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*10 NHỮNG VÙNG ĐẤT MỚI*</p>
+# 10 NHỮNG VÙNG ĐẤT MỚI
 
 <p class="para-en">A TRAIN THIRTY wagons deep stretched along Ranch’s central road, parked ahead of the South Gate. These weren’t like the wagons you saw around Ranch serving food. These were for fast, luxurious travel. More like wooden rooms on wheels than a cart with a canvas stretched over it. The biggest of them, Cori’s ambassador suite, was the size of my old apartment in Common-3 with my moms, complete with a bed, a sitting area, and a dining table.</p>
 

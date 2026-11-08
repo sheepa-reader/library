@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*24 GIA TỘC ENGI*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*24 GIA TỘC ENGI*</p>
+# 24 GIA TỘC ENGI
 
 <p class="para-en">IT TOOK EIGHT grueling days to reach Ryespur. Riv hadn’t undersold the burden on my shoulders in the slightest, and a few days in, Cori picked up some illness that had them puking up their Flight Food every morning. Even with Feng staring daggers into her back, Empress-Elect Glayd and her personal guard were in no mood to let Cori rest and hold up our progress north. All I could do was rub Cori’s back and wish them well.</p>
 

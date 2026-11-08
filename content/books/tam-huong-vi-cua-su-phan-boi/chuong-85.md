@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*67 RỜI KHỎI LƯNG NÚI*
+# 67 RỜI KHỎI LƯNG NÚI
 
 Chỉ trong vài giây ngắn ngủi, sự chênh lệch nghiệt ngã về Sức bền ma thuật đã đập thẳng vào mắt tôi. Lực lượng kiểm lâm viên và binh lính thiết giáp sục sôi ma lực phòng thủ, kiên cường ghìm chân lực lượng dân quân ô hợp của chúng tôi ngay trước những bức tường thành vừa sụp đổ, dẫu cho phe ta đang tạm thời chiếm ưu thế nhờ sức húc càn lướt của kỵ binh quái thú bò mộng Emphon. Những chiếc bẫy dây gai chằng chịt cùng bức tường gỗ mọc lên tua tủa từ cánh đồng ớt mà chúng tôi vừa húc vỡ, quấn chặt lấy móng guốc của đám kỵ binh và ép chúng phải bẻ lái quay đầu gấp gáp, khiến kỵ sĩ cả hai bên đều văng khỏi yên lao xuống đất. Bóng dáng của Cori nhanh chóng biến mất giữa làn khói bụi hỗn loạn, và tôi buộc lòng phải dồn toàn bộ sự tập trung vào rắc rối sinh tử của chính mình.
 

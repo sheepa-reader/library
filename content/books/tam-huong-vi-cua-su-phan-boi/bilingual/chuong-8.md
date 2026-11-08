@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*3 MỤC ĐÍCH VÀ LỜI CẦU HÔN*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*3 MỤC ĐÍCH VÀ LỜI CẦU HÔN*</p>
+# 3 MỤC ĐÍCH VÀ LỜI CẦU HÔN
 
 <p class="para-en">LAVEN AND CORI wanted to talk about what we’d seen the moment we were outside, but I hushed them. Knowing Rish, he’d posted ears along every meter of cobblestone between Pen Stables and the Academy House to eavesdrop. Not that he would’ve gotten a whole lot out of us. I had no idea how or why my restaurant’s logo had been carved into that yeller’s scalp. No idea why that guard had been butchered or how he’d stayed large either.</p>
 

@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*12 CARAMEL ĐẮNG*
+# 12 CARAMEL ĐẮNG
 
 Đến lúc Cori tra hỏi xong Cutler để rút cạn từng thìa kiến thức mà ông nắm giữ về Đế quốc, đoàn xe thồ đã dừng lại nghỉ chân trong ngày. Bên ngoài toa xe của Cutler, đám lính Badgeboar ồn ào chặt cành lá thành củi khô để nhóm bếp lửa bên đường. Feng chậm rãi lượm lặt quanh họ, nhặt nhạnh các loại quả hạch, hạt giống và những mẩu bào gỗ mà cô có thể nghiền thành hương liệu làm bánh mì, dẫu cho chúng tôi chẳng được phép nấu nướng nếu không có lính Badgeboar giám sát.
 

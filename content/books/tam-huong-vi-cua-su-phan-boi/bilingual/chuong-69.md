@@ -1,8 +1,8 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+<p class="para-en">*Course 6: Werephon Roll*</p>
 
-<p class="para-en">*54 OVATE THƯỢNG PHẨM*</p>
+<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
 
-<p class="para-vi-sub">*54 OVATE THƯỢNG PHẨM*</p>
+# 54 OVATE THƯỢNG PHẨM
 
 <p class="para-en">QUESTIONS AND IMPLICATIONS reeled through my mind. I didn’t move for a full minute. No one spoke. If Feng knew the importance of what I was seeing, I’d be surprised, but she clearly saw the effect it had on me and kept herself quiet. Scalen seemed to relish the silence.</p>
 

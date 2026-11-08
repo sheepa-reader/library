@@ -1,8 +1,8 @@
-# KHÔNG GIAN
-
 <p class="para-en">BEFORE HE WAS Chef King, he was chef de cuisine. Not in earnest yet, technically a warchef still, but proving his place atop a kitchen, after butchering his path to revolution. It is no wonder he found himself hunting the very thing that enticed the previous king to madness. The growing vacuum demanded but one criterion: power.</p>
 
 <p class="para-vi-sub">TRƯỚC KHI TRỞ THÀNH Vua Đầu Bếp, anh từng là Bếp trưởng điều hành. Chưa hẳn là một Bếp trưởng thực thụ, trên danh nghĩa vẫn chỉ là một Đầu Bếp Chiến Trận, nhưng anh đang từng bước khẳng định vị thế đứng đầu một gian bếp sau khi vung đao mở đường máu làm nên cuộc cách mạng. Chẳng có gì đáng ngạc nhiên khi anh thấy mình đang săn lùng chính thứ từng đẩy vị vua tiền nhiệm vào con đường điên loạn. Khoảng trống quyền lực ngày càng lớn chỉ đòi hỏi một tiêu chuẩn duy nhất: sức mạnh.</p>
+
+# KHÔNG GIAN
 
 <p class="para-en">And sourcery offered it.</p>
 

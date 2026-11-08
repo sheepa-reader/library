@@ -1,6 +1,6 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+*Món Thứ Năm • Vọng Âm Vindaloo*
 
-*MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ*
+# MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ
 
 Khi Đồ Tể vừa toan tiếp tục câu chuyện, Gynger đã hộc tốc vén bạt lao vào phòng chỉ huy. “Chúng ta gặp rắc rối lớn rồi.”
 

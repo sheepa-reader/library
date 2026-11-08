@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*19 LẮM ĐẦU BẾP*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*19 LẮM ĐẦU BẾP*</p>
+# 19 LẮM ĐẦU BẾP
 
 <p class="para-en">THE MORNING OF the duel, Ranger Riv Engi, Feng’s stepdad, arrived to escort us to the Temple of the Gryphon’s dueling ground. Four other rangers, one of whom was Feng’s sister, Talyn, flanked him, spreading out to surround us. We would travel by something called a gondola.</p>
 

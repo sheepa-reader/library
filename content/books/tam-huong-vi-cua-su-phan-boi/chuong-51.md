@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*39 ĐẬU ZENSU*
+# 39 ĐẬU ZENSU
 
 Tôi đã quen với việc tiêu pha tiền bạc của Cori suốt một thời gian dài đến mức, thú thật, tôi suýt chút nữa quên khuấy mất rằng tiền nong là một thứ thực sự tồn tại trên cõi đời này. Bạn có thể mường tượng nổi không? Một kẻ xuất thân từ tầng lớp Thứ Phẩm bần hàn nay lại ngơ ngác không hay biết giá của một ổ bánh mì hay một lít sữa tươi là bao nhiêu? Chẳng thèm bận tâm mảy may suy nghĩ xem mình sẽ phải xoay xở trả tiền thuê nhà ra sao mỗi tháng, chứ đừng bàn tới bữa ăn no bụng tiếp theo? Nỗi dằn vặt vì tội lỗi đã cào xé tâm can tôi khi mọi chuyện vỡ lở. Cảm giác hụt hẫng và thất vọng thậm chí còn chưa đủ để lột tả hết tâm trạng bẽ bàng của tôi lúc bấy giờ.
 

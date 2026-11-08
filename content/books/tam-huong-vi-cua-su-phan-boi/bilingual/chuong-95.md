@@ -1,8 +1,8 @@
-# GHI CHÚ CỦA YENNE
-
 <p class="para-en">Greater Recipes</p>
 
 <p class="para-vi-sub">*GHI CHÚ CỦA YENNE*</p>
+
+# GHI CHÚ CỦA YENNE
 
 <p class="para-en">Day 1 The First Flavor: basic Endurance</p>
 

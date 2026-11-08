@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*4 THỰC ĐƠN CỦA TÔI*
+# 4 THỰC ĐƠN CỦA TÔI
 
 BẢY CẶP MẮT nhìn tôi chằm chằm với những mức độ thù địch khác nhau. Rồi đến cặp mắt thứ tám khi Trưởng phục vụ của tôi bước vào. Bạn sẽ khó lòng nhận ra ông, và không chỉ vì những sợi bạc trong chòm râu hay vì mái tóc tết bím sát da đầu nay đã biến mất, nhường chỗ cho cái đầu trọc lốc. Đó là vì đôi mắt.
 

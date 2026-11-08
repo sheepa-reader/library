@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI*</p>
+# 33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI
 
 <p class="para-en">HINDSIGHT BURNS THE face of the restaurant into my memory, but when we arrived, I barely noticed what it looked like. I was too busy fretting over what I wanted to say. At least Cori had done me the kindness of silence on the way there. Small talk would’ve broken me.</p>
 

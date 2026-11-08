@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*5 LẠI LÀ MỘT GÃ ĐỒ TỂ*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*5 LẠI LÀ MỘT GÃ ĐỒ TỂ*</p>
+# 5 LẠI LÀ MỘT GÃ ĐỒ TỂ
 
 <p class="para-en">ASK THREE DIFFERENT butchers, and you’ll get three different answers, but if you ask me, the badgeboar emphon produces twelve distinct cuts. Under Auntie’s tutelage, I’d learned to cook each of them. Same as I did the eight cuts of gryphon, the four cuts of emphalope, and the ten cuts of dolphon. They’d all been a part of the training I’d completed during the war, while my life swayed in the balance, like those very cuts on a hook.</p>
 

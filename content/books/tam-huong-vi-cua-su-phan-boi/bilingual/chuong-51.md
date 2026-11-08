@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*39 ĐẬU ZENSU*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*39 ĐẬU ZENSU*</p>
+# 39 ĐẬU ZENSU
 
 <p class="para-en">I’D BEEN SWANNING along on Cori’s money so long that, frankly, I’d forgotten that it was really a thing. Can you imagine? A common not knowing the price of bread or milk? Not thinking about how I would pay for housing, let alone my next meal? I was wracked with guilt when it all came to a head. Disappointed doesn’t even begin to explain how I felt.</p>
 

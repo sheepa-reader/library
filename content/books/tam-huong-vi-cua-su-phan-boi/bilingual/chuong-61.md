@@ -1,8 +1,8 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+<p class="para-en">*Course 5: Voice Vindaloo*</p>
 
-<p class="para-en">*47 OÁN THÙ TRẢ XONG*</p>
+<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
 
-<p class="para-vi-sub">*47 OÁN THÙ TRẢ XONG*</p>
+# 47 OÁN THÙ TRẢ XONG
 
 <p class="para-en">THE GUESTS WHO left before my interaction with Dyl were as gratuitous as any I’ve had. The tips alone were large enough for us to buy a block of homes if we’d wanted to. Clearly, they’d been fans of my work. Between that and the payment on the rest of the bills, the restaurant earned more than enough seeds to move out of Riv’s. Which was good. We were thrown out of the estate before we’d even finished scrubbing down the kitchen. A runner let us know that the Empire no longer preferred to offer its hospitality.</p>
 

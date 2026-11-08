@@ -1,8 +1,8 @@
-# Món Thứ Tám • Bánh Cưới
-
 <p class="para-en">In a just world, there would be no better dessert, no meal better suited to celebration. It would go with everything and yet need no pairing. You’d have to ask Laven for the recipe. I couldn’t bring myself to learn it.</p>
 
 <p class="para-vi-sub">*Món Thứ Tám • Bánh Cưới* *Trong một thế giới công bằng và tự do, sẽ chẳng có món tráng miệng nào tuyệt mỹ hơn thế, cũng chẳng có yến tiệc nào xứng đáng hơn cho khúc hoan ca khải hoàn. Món ăn này có thể hòa quyện trọn vẹn với muôn vàn phong vị mà chẳng cần đến bất kỳ món phụ nào đi kèm. Các bạn buộc phải hỏi Laven về công thức ấy. Bản thân tôi thì không tài nào ép nổi tâm trí mình học thuộc.*</p>
+
+# Món Thứ Tám • Bánh Cưới
 
 <p class="para-en">Expected Endurance Effect(s):</p>
 

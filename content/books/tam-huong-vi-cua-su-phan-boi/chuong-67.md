@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*52 NHỮNG SỰ THẬT PHƠI BÀY*
+# 52 NHỮNG SỰ THẬT PHƠI BÀY
 
 KHI TÔI BƯỚC TỪNG BẬC THANG LÊN, những thanh âm đối thoại phía trên dần trở nên quen thuộc, và ngọn lửa thịnh nộ trong lồng ngực tôi bùng lên dữ dội còn nhanh hơn cả nhịp bước chân. Thế nhưng đan xen bên cạnh cơn giận ấy còn có những cảm xúc phức tạp khác: cảm giác bị phản bội cay đắng, niềm thương hại mơ hồ, và thậm chí cả sự thỏa mãn khi một ẩn số đen tối rốt cuộc cũng lộ diện chân tướng.
 

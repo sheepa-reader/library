@@ -1,8 +1,8 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+<p class="para-en">*Course 5: Voice Vindaloo*</p>
 
-<p class="para-en">*50 YGMINSUL*</p>
+<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
 
-<p class="para-vi-sub">*50 YGMINSUL*</p>
+# 50 YGMINSUL
 
 <p class="para-en">IN A WORLD with emphon, scale can be mind-numbing. Words like tiny and enormous can’t capture the distance between an ant and a drakephon. Gargantuan means anything and nothing when it can describe a “lowly” duckbill or the oldest of dolphon.</p>
 

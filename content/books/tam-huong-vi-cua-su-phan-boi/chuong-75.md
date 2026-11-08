@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM*
+# 59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM
 
 SUỐT TÁM TIẾNG ĐỒNG HỒ ĐẦU TIÊN, tôi hoàn toàn kinh ngạc trước sự đơn giản đến ngây ngô trong tâm trí của Fenrir. Nó chẳng bao giờ ngừng điên cuồng đuổi theo khối thịt nai sừng tấm đung đưa lơ lửng ngay trước mõm, dù hai chúng tôi cũng chẳng mặn mà gì với việc cố công ghìm cương ngăn nó lại. Feng và tôi đã kịp thó được một ít lương khô dã chiến cùng với bộ dây trusser, còn chiếc cần cẩu cơ khí—sở hữu sàn khoang lái rộng rãi bản địa hơn cả căn hộ cũ tồi tàn của tôi ở Khu Thứ Phẩm Số 3—thì có sẵn cả phản ngủ lẫn một hệ thống vệ sinh hoàn chỉnh. Tốt hơn hết là cứ để mặc cho con quái thú Emphon háu ăn ấy tự do tung hoành theo ý nó.
 

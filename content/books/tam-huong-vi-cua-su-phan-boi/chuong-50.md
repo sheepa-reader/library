@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*38 CĂNG THẲNG LÊN MEN*
+# 38 CĂNG THẲNG LÊN MEN
 
 Feng Ladwait sinh trưởng tại thủ đô Mangtier, nhưng tương tự như các chị em của mình, cô đã được rèn luyện cách sử dụng bộ dây trusser từ thuở ấu thơ, nhờ đó cô có thể thường xuyên phóng mình đu lướt dọc theo dải bờ biển phương bắc. Khi những tháng ngày hè đổ lửa bao trùm phương nam trong cái nóng oi nồng cùng lũ côn trùng phiền toái, cô lại theo chân cha dượng Riv ngược lên phía bắc, và dẫu mẹ ruột cô là nữ đầu bếp lẫy lừng bậc nhất đất nước, cô vẫn quyết định chọn mảnh đất Ryespur này làm nơi khởi đầu để học nghề làm bánh.
 

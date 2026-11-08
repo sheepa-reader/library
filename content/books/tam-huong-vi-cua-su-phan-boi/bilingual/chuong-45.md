@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*34 NỮ HOÀNG BÁO THÙ*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*34 NỮ HOÀNG BÁO THÙ*</p>
+# 34 NỮ HOÀNG BÁO THÙ
 
 <p class="para-en">LADY GARUDA’S VOICE stripped the last vestiges of paint from the salt-soaked boardwalk, white flakes splintering into the bay. Cori and I threw our arms over our faces, blocking the debris ripped away from the remains of the restaurant. It was like listening to Cutler’s storm form screaming at me again, but with swords stabbing at us.</p>
 

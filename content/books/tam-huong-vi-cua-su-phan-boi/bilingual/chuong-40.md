@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN*</p>
+# 31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN
 
 <p class="para-en">CUTLER DIDN’T TAKE well to Shepherd’s decision. The moment he dusted himself off, he marched back toward the house and said, “She will rue this scalding day, rue it!” It was such a ridiculous statement—even for him—but the clouds shook with thunder and the wind turned fierce as his eyes flashed a hateful shade of teal.</p>
 

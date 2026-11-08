@@ -1,8 +1,8 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+<p class="para-en">*Course 5: Voice Vindaloo*</p>
 
-<p class="para-en">*48 GIAO TIẾP CỞI MỞ*</p>
+<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
 
-<p class="para-vi-sub">*48 GIAO TIẾP CỞI MỞ*</p>
+# 48 GIAO TIẾP CỞI MỞ
 
 <p class="para-en">“LET ME GET this straight,” the archivist says. “Without even reading the evidence yourself, you agreed to leave Cori behind? You called it a trap no less than four times, and you never leave Cori. You expect me to believe any of this? You’re clearly misleading me. I just don’t know why.”</p>
 

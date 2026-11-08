@@ -1,6 +1,6 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-*16 BỮA ĂN HOÀNG GIA*
+# 16 BỮA ĂN HOÀNG GIA
 
 Laven và tôi có được vài phút riêng tư sau khi tắm rửa, trong lúc đám gia nhân Badgeboar đi lấy trang phục có phẩm chất phù hợp cho chúng tôi. Nhờ có Đại công thức của tôi, cả hai chúng tôi đã quá quen với việc nhìn thấy nhau hoàn toàn trần như nhộng, vì vậy trong khi tình cảnh này có thể khiến những người khác rơi vào sự im lặng ngượng ngùng, chúng tôi lại lập tức đi thẳng vào vấn đề.
 

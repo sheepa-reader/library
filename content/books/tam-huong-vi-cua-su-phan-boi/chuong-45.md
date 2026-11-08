@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*34 NỮ HOÀNG BÁO THÙ*
+# 34 NỮ HOÀNG BÁO THÙ
 
 TIẾNG RÍT GÀO CỦA PHU NHÂN GARUDA quất bay mảng sơn cuối cùng trên những tấm ván sàn ngập mặn, những mảnh gỗ trắng toác văng tung tóe xuống mặt vịnh. Cori và tôi vội vàng đưa hai tay lên che chắn khuôn mặt, né tránh những mảnh vỡ sắc nhọn bị xé toạc ra từ phần còn lại của quầy quán ăn tồi tàn. Sóng xung kích kinh hoàng ấy hệt như khi phải đối diện với luồng cuồng phong bão táp sấm sét của Cutler, nhưng lần này từng âm tiết thét ra lại sắc lẹm tựa hồ những lưỡi đao nhọn hoắt đâm thẳng vào lồng ngực hai đứa chúng tôi.
 

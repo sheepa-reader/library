@@ -1,8 +1,8 @@
-# LỜI CẢM ƠN
-
 <p class="para-en">To my family, again. Everyone’s support over the last year has been deeply appreciated and only moderately embarrassing.</p>
 
 <p class="para-vi-sub">Gửi gia đình tôi, thêm một lần nữa. Sự yêu thương và chở che từ tất cả mọi người trong suốt năm qua là điều vô cùng trân quý, dẫu đôi khi cũng khiến tôi có chút ngượng ngùng.</p>
+
+# LỜI CẢM ƠN
 
 <p class="para-en">To the community of people around me. Brendan for continuing to serve against his will as my sounding board. The Vestry, Iller’s Killers, Cactusland, and Cheese Mountain without whom I would be one author in a maelstrom of naivety. Storm, Mack, Matt, Connor, Cat, Zainab, Ehsan, Cynthia, and Christine for all the support. Selia and Nathan for the weekly opportunity to be someone else. My lovely coworkers at GSPP, especially Bora Reed whose own publishing journey has just launched! And Bew, Pro, Rob, and Shi for everything.</p>
 

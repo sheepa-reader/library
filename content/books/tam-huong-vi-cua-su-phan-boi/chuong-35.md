@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
-*26 TIN TỨC*
+# 26 TIN TỨC
 
 Laven và Sincera nán lại cùng đám kiểm lâm viên để thu thập thêm manh mối, trong khi những người còn lại chúng tôi quay trở về dinh thự của Riv. Thú thật, tôi chẳng biết mình có thể giúp ích được gì ngoài việc đứng chôn chân một chỗ trong khi họ vạch ra các phương án điều tra bài bản hơn, vả lại tôi đang nóng lòng muốn xem tình hình sức khỏe của Cori ra sao. Cutler hiện cũng đang quanh quẩn đâu đó trong thị trấn, và tôi cần phải tìm cho ra ông già.
 

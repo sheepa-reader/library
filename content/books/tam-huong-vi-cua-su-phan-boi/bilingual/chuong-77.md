@@ -1,8 +1,8 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
-
 <p class="para-en">A vibrant beverage that will literally change your life should you wish it. Pairs well with many imperial dishes, especially those more reliant on heat.</p>
 
 <p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh* *Một thức uống căng tràn nhựa sống có thể thực sự tái sinh cuộc đời bạn nếu bạn hữu tâm khao khát điều đó. Rất thích hợp để dùng kèm với nhiều món ăn Hoàng gia, đặc biệt là những món mang tính nhiệt cao.*</p>
+
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
 <p class="para-en">Ingredients (serves 4):</p>
 

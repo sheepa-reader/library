@@ -1,8 +1,8 @@
-# SỬA SOẠN BÀN ĂN
-
 <p class="para-en">SOMETIME AFTER DAWN the next day, the tent flap opens to admit the Butcher. He’s washed and freshly clothed. Luxuries the archivist herself hasn’t been afforded, left as she was in the tent with no rug or blanket, only a bag of straw for any comfort. Though she might have spent the intervening hours plotting escape, the archivist chose sleep. Not the first time she’s slept on bare earth—nor will it be the last, should she survive the day—but her body aches more than usual. Fortunate, then, her mind has long been her sharpest weapon and sleep proved a whetstone.</p>
 
 <p class="para-vi-sub">Vào một thời điểm nào đó sau rạng đông ngày hôm sau, mép lều lật mở để Paprick bước vào. Anh đã tắm gội sạch sẽ và khoác lên mình bộ trang phục mới tinh tươm. Những thứ xa xỉ ấy bản thân Yenne không hề được hưởng, khi cô bị bỏ lại trong căn lều không manh chiếu hay tấm chăn, chỉ có độc một bao tải rơm làm chỗ ngả lưng. Dù lẽ ra cô có thể dùng những giờ phút trống trải đó để mưu tính chuyện trốn chạy, Yenne lại chọn cách chìm vào giấc ngủ. Đây chẳng phải lần đầu tiên cô phải ngủ trên nền đất trần, và cũng sẽ không phải lần cuối cùng nếu như cô sống sót qua ngày hôm nay, thế nhưng toàn thân cô ê ẩm hơn thường lệ. Thật may mắn, tâm trí từ lâu đã là thứ vũ khí sắc bén nhất của cô, và giấc ngủ hóa ra lại là một hòn đá mài hoàn hảo.</p>
+
+# SỬA SOẠN BÀN ĂN
 
 <p class="para-en">“Cutler was displeased with you,” the archivist comments.</p>
 

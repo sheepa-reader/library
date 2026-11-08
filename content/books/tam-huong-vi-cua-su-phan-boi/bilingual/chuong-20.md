@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
-
 <p class="para-en">One of the spiciest dishes in the Empire, this meal of minced gryphon is best served alongside rice, a stir-fry of crunchy vegetables, and a yoghurt smoothie, which helps to reduce the overall heat.</p>
 
 <p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon* *Là một trong những món ăn cay nồng bậc nhất Đế quốc, món thịt quái thú Gryphon băm này ngon nhất khi dùng kèm với cơm trắng, một đĩa rau củ xào giòn và sinh tố sữa chua nhằm xoa dịu vị cay tổng thể.*</p>
+
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
 <p class="para-en">Ingredients (serves 2):</p>
 

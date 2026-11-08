@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*41 XE ĐIỆN VÀ CƠN ĐẠI NÁO*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*41 XE ĐIỆN VÀ CƠN ĐẠI NÁO*</p>
+# 41 XE ĐIỆN VÀ CƠN ĐẠI NÁO
 
 <p class="para-en">AS IS ALWAYS the case with these things, everything that could happen happened all at once while Laven got the pop-up ready, and I struggled to make the Variant. First things first: the Ovate and the drue attacked the final sanctuary in Ryespur, freeing two more gryphon, a yakrat, and a badgeboar.</p>
 

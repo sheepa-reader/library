@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH*</p>
+# 1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH
 
 <p class="para-en">“I’M SORRY,” SAYS the archivist before the Butcher can begin his tale. “Variance Effect? Emphon Effect? What do these mean?”</p>
 

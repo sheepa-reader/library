@@ -1,6 +1,6 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
-*36 GIA ĐÌNH*
+# 36 GIA ĐÌNH
 
 TÔI DÀNH TRỌN ra một ngày để thở.
 

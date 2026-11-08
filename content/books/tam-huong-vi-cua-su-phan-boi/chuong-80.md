@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*63 GIẢI PHÁP BẤT NGỜ*
+# 63 GIẢI PHÁP BẤT NGỜ
 
 TRƯỚC KHI TÔI SÁNG TẠO RA món **Gia vị ướp Emphon - Đại công thức 6**, tôi đã có thể nếm trước được dư vị của nó trong tâm thức. Một vị giác kỳ ảo cứ vương vấn mãi nơi cuống họng, lớn dần lên từng ngày cho đến khoảnh khắc tôi hít hà mùi hương mộc mạc của bột Rễ Trời Skyroot, và nỗi tuyệt vọng dồn nén đã buộc tôi phải hành động xuất phát từ chính chủ đích sâu thẳm trong lòng. Quá trình thai nghén ấy từng tiêu tốn của tôi mất nhiều tuần lễ, và ở những công đoạn cuối cùng, tôi đã phải cần đến một cú hích tinh thần vô cùng dữ dội từ cự thú Bessa.
 

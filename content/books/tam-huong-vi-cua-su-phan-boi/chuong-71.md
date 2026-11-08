@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*55 QUYỀN LỰC VÀ NHÂN DUYÊN*
+# 55 QUYỀN LỰC VÀ NHÂN DUYÊN
 
 “TÔI CHƯA SẴN SÀNG,” tôi nói, dứt khoát xoay người đối mặt với Atlas cùng quả trứng đang tỏa ánh sáng ma thuật rực rỡ trên lưng cô ấy.
 

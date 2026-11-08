@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
+<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
-<p class="para-en">*35 TỘC NGƯỜI THẢO MỘC DRUE*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
 
-<p class="para-vi-sub">*35 TỘC NGƯỜI THẢO MỘC DRUE*</p>
+# 35 TỘC NGƯỜI THẢO MỘC DRUE
 
 <p class="para-en">“SINCE WHEN CAN emphon talk?” I asked as we settled into Riv’s sitting room. Like our bedroom, the furniture was efficient and uncomfortable to the point that I doubted anyone really used it for sitting. Cori, Feng, and I were all standing. Only Laven and Riv sat.</p>
 

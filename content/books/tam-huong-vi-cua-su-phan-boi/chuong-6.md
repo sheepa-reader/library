@@ -1,6 +1,6 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
-*1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH*
+# 1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH
 
 “Tôi xin lỗi,” nữ lưu trữ viên lên tiếng trước khi Đồ Tể có thể bắt đầu câu chuyện của mình. “Quy luật biến thể? Hiệu ứng *quái thú Emphon*? Những thứ đó có nghĩa là gì?”
 

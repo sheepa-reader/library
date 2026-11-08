@@ -1,6 +1,6 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
 
-*60 VÙNG ẢNH HƯỞNG*
+# 60 VÙNG ẢNH HƯỞNG
 
 “CẬU LẠI LÀM SAI kỹ thuật nữa rồi,” Terry càu nhàu từ phía sau lưng tôi.
 

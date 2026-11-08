@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*30 TÔN TRỌNG BẬC TRÊN*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*30 TÔN TRỌNG BẬC TRÊN*</p>
+# 30 TÔN TRỌNG BẬC TRÊN
 
 <p class="para-en">“MARVELOUS,” SHEPHERD SAID as we entered. “I’m famished.” “You don’t need to eat,” Cutler spat.</p>
 

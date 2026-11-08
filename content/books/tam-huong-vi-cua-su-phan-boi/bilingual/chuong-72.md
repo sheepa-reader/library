@@ -1,8 +1,8 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+<p class="para-en">*Course 6: Werephon Roll*</p>
 
-<p class="para-en">*56 NIỀM TIN VÀ CÚ CHẠM*</p>
+<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
 
-<p class="para-vi-sub">*56 NIỀM TIN VÀ CÚ CHẠM*</p>
+# 56 NIỀM TIN VÀ CÚ CHẠM
 
 <p class="para-en">ATLAS’ POOL WAS like a pot of stew filled to the brim, set into the bottom of the room where we’d been having our meal and conversations. With her at the center, you could almost imagine you were looking at the beginnings of the world’s largest (and deadliest) turtle soup. Through the crystalline water, I could see past the tips of her foreclaws, down to the base of the pool where scrapings of badgeboar revealed its origins. Why had they dug it? Could they see the future like Atlas did? Did they make it because they knew she’d need it?</p>
 

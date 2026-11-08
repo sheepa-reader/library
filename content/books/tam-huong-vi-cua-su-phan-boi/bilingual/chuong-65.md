@@ -1,8 +1,8 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
-
 <p class="para-en">A hearty, rustic experience, Werephon Rolls work equally well as appetizers and mains. As mains, serve alongside lightly-seasoned chips and a fresh salad to balance the heartiness. As an appetizer, consider serving with a honey mustard dip or a bright aioli. Always good with a pint.</p>
 
 <p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon* *Một món ăn thịnh soạn mang đậm phong vị mộc mạc của đại ngàn phương bắc, bánh cuộn quái thú Werephon vừa hoàn hảo làm món khai vị nóng giòn, vừa đủ sức gánh vác vai trò một món chính no bụng. Khi phục vụ như món chính, hãy dọn kèm khoai tây chiên xóc gia vị thảo mộc nhẹ nhàng cùng một đĩa salad rau rừng tươi giòn để cân bằng độ béo ngậy đậm đà. Khi dùng làm món khai vị nhắm rượu, món bánh sẽ thăng hoa tuyệt đối nếu chấm cùng xốt mù tạt mật ong nồng đượm hoặc xốt tỏi aioli béo dịu. Dùng kèm với một vại bia men Ryespur ủ lạnh thì quả thực không còn gì sánh bằng.*</p>
+
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
 <p class="para-en">Ingredients (serves 2–4):</p>
 

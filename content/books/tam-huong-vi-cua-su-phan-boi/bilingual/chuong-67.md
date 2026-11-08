@@ -1,8 +1,8 @@
-# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
+<p class="para-en">*Course 6: Werephon Roll*</p>
 
-<p class="para-en">*52 NHỮNG SỰ THẬT PHƠI BÀY*</p>
+<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
 
-<p class="para-vi-sub">*52 NHỮNG SỰ THẬT PHƠI BÀY*</p>
+# 52 NHỮNG SỰ THẬT PHƠI BÀY
 
 <p class="para-en">AS I ROSE, the voices became more familiar, and my temper climbed quicker than I did. But there were other feelings: betrayal, pity, and even satisfaction.</p>
 

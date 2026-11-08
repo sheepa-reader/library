@@ -1,8 +1,8 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
 
-<p class="para-en">*20 NHỮNG LƯỠI DAO QUYẾT ĐẤU*</p>
+<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
 
-<p class="para-vi-sub">*20 NHỮNG LƯỠI DAO QUYẾT ĐẤU*</p>
+# 20 NHỮNG LƯỠI DAO QUYẾT ĐẤU
 
 <p class="para-en">THE BEST THING about my friends and family is how often they’re right.</p>
 

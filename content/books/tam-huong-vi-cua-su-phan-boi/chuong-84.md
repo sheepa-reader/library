@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*66 SQUIRT*
+# 66 SQUIRT
 
 BA ĐÊM SAU ĐÓ, tôi đứng bên ngoài bức tường thành kiên cố thuộc Cổng Tây của đại đô thị Ranch kề vai sát cánh cùng Cori, Sincera và bốn người lính khẩu lệnh cảm tử sẽ theo chân tôi đột kích vào trong, nếu canh bạc sinh tử này thành công trọn vẹn. Mỗi người lính đều oằn mình cõng một chiếc ba lô nặng trĩu, chất đầy những cỗ máy cơ học phục vụ cho kế hoạch điên rồ của tôi. Một kế hoạch tác chiến mà tôi kỳ vọng sẽ kỳ quái và lố bịch đến mức ả Glayd Eto không tài nào đoán định ngăn cản nổi, ngay cả khi ả có thể nhìn thấy trước những điềm báo tương lai.
 

@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*12 CARAMEL ĐẮNG*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*12 CARAMEL ĐẮNG*</p>
+# 12 CARAMEL ĐẮNG
 
 <p class="para-en">BY THE TIME Cori finished interrogating Cutler for every teaspoon of knowledge he possessed about the Empire, the wagon train had stopped for the day. Outside Cutler’s wagon, the badge noisily hacked foliage into twigs for a cookfire by the road. Feng slowly picked around them, gathering nuts, seeds, and shavings of wood she could grind into flavorings for breads, even if we weren’t allowed to cook without the badge watching.</p>
 

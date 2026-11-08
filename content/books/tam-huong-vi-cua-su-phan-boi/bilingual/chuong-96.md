@@ -1,8 +1,8 @@
-# NIÊN BIỂU SỰ KIỆN
-
 <p class="para-en">21 P.L. Sarah Shepherd touches the Source.</p>
 
 <p class="para-vi-sub">*NIÊN BIỂU SỰ KIỆN* - Sarah Shepherd lần đầu tiên chạm tay vào quyền năng tối thượng của **Cội Nguồn**.</p>
+
+# NIÊN BIỂU SỰ KIỆN
 
 <p class="para-en">28 P.L. Cutler’s Shop is founded on an unnamed plateau.</p>
 

@@ -1,6 +1,6 @@
-# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
+*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
-*65 RANCH*
+# 65 RANCH
 
 “Bếp trưởng Bessa đấy phải không?” Có tiếng ai đó thất thanh gọi giật lại khi tôi lảo đảo bước tới gần một khu doanh trại dã chiến dựng ngay bên ngoài cổng thành. Nơi đây tập kết chừng vài cỗ xe kéo cùng vô số lều bạt quân sự nằm san sát nhau. Tất cả đều được bố trí cẩn mật ngoài tầm bắn của nỏ trường hạng nặng tính từ Cổng Nam. Toàn thân tôi rã rời đến mức suýt chẳng thể bước đi vững vàng trên đôi chân trần, chứ đừng nói đến chuyện minh mẫn nhận diện xem ai đang cất lời chào đón mình.
 

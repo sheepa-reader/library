@@ -1,8 +1,8 @@
-# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
-
 <p class="para-en">Also known as Cutler’s Storm Shift, this decadent, sweet-and-spicy take on the original fried greater recipe is best served alongside buttery mashed potatoes, grilled garlicky asparagus, and a rustic but spicy red wine such as Sangiovese.</p>
 
 <p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường* *Còn được biết đến với tên gọi Biến Thể Bão Tố của Cutler, món ăn đậm đà vị ngọt và cay nồng cải biên từ Đại công thức chiên nguyên bản này hoàn hảo nhất khi dùng kèm khoai tây nghiền bơ béo ngậy, măng tây áp chảo tỏi, cùng một ly vang đỏ mộc mạc nhưng cay nồng nàn như Sangiovese.*</p>
+
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
 <p class="para-en">Ingredients (serves 2):</p>
 

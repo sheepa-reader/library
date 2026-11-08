@@ -1,6 +1,6 @@
-# Món Thứ Năm • Vọng Âm Vindaloo
+*Món Thứ Năm • Vọng Âm Vindaloo*
 
-*48 GIAO TIẾP CỞI MỞ*
+# 48 GIAO TIẾP CỞI MỞ
 
 “ĐỂ TÔI hiểu cho thật rành mạch nhé,” nữ lưu trữ viên lạnh lùng lên tiếng. “Chẳng thèm tự mình xem xét thấu đáo các chứng cứ giấy trắng mực đen, anh vẫn mù quáng đồng thuận để Cori ở lại phía sau sao? Bản thân anh từng lớn tiếng gọi cuộc hẹn ấy là một cái bẫy không dưới bốn lần, và xưa nay anh vốn chẳng bao giờ chịu rời xa nửa bước khỏi Cori cơ mà! Anh trông đợi tôi sẽ ngây thơ tin vào mớ chuyện hoang đường này chắc? Rõ ràng anh đang toan tính giở trò lừa phỉnh tôi. Chỉ là tôi chưa truy ra động cơ thực sự của anh mà thôi.”
 

@@ -1,8 +1,8 @@
-# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
+<p class="para-en">*Course 1: Insight Enchiladas*</p>
 
-<p class="para-en">*13 CẢN TRỞ CÔNG LÝ*</p>
+<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
 
-<p class="para-vi-sub">*13 CẢN TRỞ CÔNG LÝ*</p>
+# 13 CẢN TRỞ CÔNG LÝ
 
 <p class="para-en">AFTER THE CONVERSATION with Cutler, I found myself alone with Laven in Cori’s ambassadorial wagon. I told him everything. Just vomited it all out like I’d accidentally eaten raw potatoes. As he had during the years at the Front, he listened, occasionally making notes in his notebook.</p>
 

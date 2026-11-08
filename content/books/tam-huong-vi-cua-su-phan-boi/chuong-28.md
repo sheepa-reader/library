@@ -1,6 +1,6 @@
-# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
+*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
-*20 NHỮNG LƯỠI DAO QUYẾT ĐẤU*
+# 20 NHỮNG LƯỠI DAO QUYẾT ĐẤU
 
 ĐIỀU TUYỆT VỜI NHẤT ở bạn bè và gia đình tôi là việc họ thường xuyên đúng đến mức nào.
 
