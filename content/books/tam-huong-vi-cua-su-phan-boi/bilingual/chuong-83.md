@@ -1,8 +1,8 @@
-# 65 RANCH
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*65 RANCH*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*65 RANCH*</p>
 
 <p class="para-en">“CHEF BESSA?” SOMEONE called as I approached an encampment outside the city. There must have been a few dozen wagons and even more tents. All beyond crossbow range from the South Gate. I could barely walk straight as I approached, let alone comprehend who was talking to me.</p>
 

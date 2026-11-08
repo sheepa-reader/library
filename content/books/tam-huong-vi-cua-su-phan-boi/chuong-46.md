@@ -1,6 +1,6 @@
-# 35 TỘC NGƯỜI THẢO MỘC DRUE
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
+*35 TỘC NGƯỜI THẢO MỘC DRUE*
 
 “TỪ BAO GIỜ MÀ quái thú Emphon lại có thể mở mồm nói tiếng người thế hả?” Tôi cất tiếng hỏi dồn dập ngay khi cả nhóm vừa tề tựu đông đủ trong phòng khách dinh thự Nhà Engi. Tương tự như phòng ngủ của chúng tôi, đồ đạc ở đây thô cứng và thực dụng đến mức tôi ngờ rằng xưa nay chẳng có ai thực lòng muốn ngồi lên chúng để thư giãn. Cori, Feng và tôi đều chọn đứng tựa vào tường. Duy chỉ có Laven và Riv ngồi đối diện nhau.
 

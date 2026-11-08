@@ -1,6 +1,6 @@
-# 72 QUESADILLA HỖN LOẠN
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*72 QUESADILLA HỖN LOẠN*
 
 Đầu Bếp Sagen năm xưa từng dạy tôi cách giải phẫu từng tầng lớp hương vị và chuyển ngữ chúng thành ngôn từ sống động. Tôi đã thấu suốt sự khác biệt tinh tế giữa mọng nước đậm đà, mặn mòi nguyên bản, cay nồng bốc tỏa và chua thanh dịu nhẹ. Mọi ngôn từ mà nhân loại dùng để miêu tả vị giác đều nằm trọn vẹn trong kho vũ khí ẩm thực của tôi.
 

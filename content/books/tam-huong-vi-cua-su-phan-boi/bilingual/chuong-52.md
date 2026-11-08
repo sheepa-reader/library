@@ -1,8 +1,8 @@
-# 40 ANH HÙNG CHIẾN TRƯỜNG
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
+<p class="para-en">*40 ANH HÙNG CHIẾN TRƯỜNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
+<p class="para-vi-sub">*40 ANH HÙNG CHIẾN TRƯỜNG*</p>
 
 <p class="para-en">THE BUTCHER LOOKS up at the top of the tent. There’s nothing to be seen there, but the archivist recognizes the gaze of someone looking for, rather than at. “You won’t find absolution in the heavens, Butcher,” she says. “If the Consumer watches, They don’t care an ounce for you.”</p>
 

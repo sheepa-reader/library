@@ -1,6 +1,6 @@
-# 54 OVATE THƯỢNG PHẨM
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
+*54 OVATE THƯỢNG PHẨM*
 
 NHỮNG CÂU HỎI VÀ HỆ LỤY cứ cuồn cuộn không ngừng trong tâm trí tôi. Tôi đứng chôn chân suốt một phút đồng hồ. Không một ai cất lời. Nếu Feng biết rõ tầm quan trọng sống còn của thứ tôi đang chứng kiến, tôi sẽ vô cùng ngạc nhiên, nhưng cô rõ ràng nhận ra chấn động tâm lý ghê gớm mà nó gây ra cho tôi nên đã giữ im lặng. Scalen có vẻ rất đắc ý tận hưởng sự tĩnh lặng bao trùm này.
 

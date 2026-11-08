@@ -1,8 +1,8 @@
-# 45 HIỂU VỀ NĂNG LƯỢNG
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-<p class="para-en">*Course 5: Voice Vindaloo*</p>
+<p class="para-en">*45 HIỂU VỀ NĂNG LƯỢNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
+<p class="para-vi-sub">*45 HIỂU VỀ NĂNG LƯỢNG*</p>
 
 <p class="para-en">SINCERA WAS OUT front when the rest of us crowded around a plate on which Laven had painted a minor miracle. Typically, Grilled Steak Fries are served in a basket or on a tray. Some fine dining places could pull off that kind of plating for an appetizer, but this was the entrée, and it had to be spectacular.</p>
 

@@ -1,8 +1,8 @@
-# 68 TRỞ VỀ NHÀ
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*68 TRỞ VỀ NHÀ*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*68 TRỞ VỀ NHÀ*</p>
 
 <p class="para-en">THE EMPIRE MIGHT’VE stolen it while I was away, but Ranch was, is, and always will be my city. No one keeps it from me.</p>
 

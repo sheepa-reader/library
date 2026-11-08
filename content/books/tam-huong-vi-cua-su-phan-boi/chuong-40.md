@@ -1,6 +1,6 @@
-# 31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*31 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, LƯỢT PHỤC VỤ ĐẦU TIÊN*
 
 Cutler đời nào chịu dễ dàng chấp nhận quyết định cự tuyệt của Shepherd. Ngay khoảnh khắc vừa phủi sạch lớp bụi than bám trên áo, ông già liền hùng hổ sải bước quay ngoắt lại hướng ngôi nhà cổ rồi gầm lên thịnh nộ: “Mụ già sẽ phải hối hận đến tận xương tủy vì cái ngày chết tiệt này, cứ chống mắt lên mà xem!” Đó quả là một lời đe dọa nực cười, ngay cả khi so với cái tính khí thất thường của ông già, nhưng vòm mây đen kịt trên cao bỗng chốc gầm vang sấm sét dữ dội và cuồng phong thét gào điên loạn trong khi đôi mắt ông già lóe lên sắc xanh mòng két rực lửa đầy căm hận.
 

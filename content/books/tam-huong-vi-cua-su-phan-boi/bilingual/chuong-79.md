@@ -1,8 +1,8 @@
-# 62 GIẢI PHÁP HIỂN NHIÊN
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*62 GIẢI PHÁP HIỂN NHIÊN*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*62 GIẢI PHÁP HIỂN NHIÊN*</p>
 
 <p class="para-en">DESPERATE TO LET my fury out, I snatched up my cleaversaw, yanked it out of the sheath, and attacked the side of the nest like it was a Rare army. I only stopped when I realized I’d stopped sweating.</p>
 

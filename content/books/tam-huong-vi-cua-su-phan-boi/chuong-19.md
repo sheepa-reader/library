@@ -1,6 +1,6 @@
-# 13 CẢN TRỞ CÔNG LÝ
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*13 CẢN TRỞ CÔNG LÝ*
 
 Sau cuộc trò chuyện với Cutler, tôi thấy mình ngồi lại một mình cùng Laven trong toa xe sứ giả của Cori. Tôi kể cho cậu nghe mọi chuyện. Cứ thế tuôn trào ra hết như thể vừa vô tình nuốt phải khoai tây sống. Đúng như những năm tháng ở Tiền tuyến, cậu chăm chú lắng nghe, thỉnh thoảng lại ghi chép vài dòng vào cuốn sổ tay.
 

@@ -1,6 +1,6 @@
-# MÓN CHUYỂN VỊ VIII LỜI BẠT
+# Món Thứ Tám • Bánh Cưới
 
-*Món Thứ Tám • Bánh Cưới*
+*MÓN CHUYỂN VỊ VIII LỜI BẠT*
 
 KHI ĐỒ TỂ VỪA DỨT LỜI, toàn bộ tòa tháp Học viện bỗng rung chuyển dữ dội tựa như một trận động đất kinh hoàng.
 

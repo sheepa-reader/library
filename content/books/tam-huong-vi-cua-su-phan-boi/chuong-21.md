@@ -1,6 +1,6 @@
-# 14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*14 XIỀNG XÍCH, HIỆN TẠI VÀ QUÁ KHỨ*
 
 LAVEN VÀ TÔI tỉnh lại trong tình trạng bị xiềng xích ở hai buồng giam sát vách nhau của một cỗ lồng sắt. Bánh xe hỏng của cỗ xe tù nảy bần bật trên đường đèo qua rặng núi, thúc mạnh vào những vết bầm tím chúng tôi phải chịu trong lần biến hình to lớn quá khổ. Vết thương do nanh lợn rừng Badgeboar gây ra đã đóng vảy dọc mạn sườn tôi, và mỗi cú xóc nảy lại khiến chúng nhức nhối khó chịu, nhưng tôi vẫn còn may mắn chán. Cánh tay và cẳng chân yếu ớt của Laven chắc hẳn đang chịu đau đớn cùng cực, một bên bị trói giật ngược lên quá đầu, bên còn lại bị gập dưới thân mình cậu ấy một cách gượng gạo.
 

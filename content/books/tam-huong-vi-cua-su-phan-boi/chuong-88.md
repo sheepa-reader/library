@@ -1,6 +1,6 @@
-# 70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*70 NHỮNG KẺ CHÚNG TA THƯƠNG TIẾC*
 
 ĐỒ TỂ DỪNG TAY, đưa mắt quan sát hai tù nhân trước mặt, rồi ngước nhìn độ cao của vầng trăng trên bầu trời đêm tĩnh mịch. “Những gì diễn ra tiếp theo bên trong Nhà hàng Học viện không thực sự liên quan mật thiết đến câu chuyện của tôi. Thành thật mà nói, đó thậm chí còn không phải câu chuyện của riêng tôi để mà kể lại. Đó là tấn bi kịch của Feng. Ít nhất là cho đến thời khắc cuối cùng.”
 

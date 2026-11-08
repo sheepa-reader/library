@@ -1,6 +1,6 @@
-# 64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*64 BƯỚC NHẢY CỦA NGƯỜI KHỔNG LỒ*
 
 CAO MƯỜI MÉT, Sức bền ma thuật cuồn cuộn dồi dào đến từng kẽ răng, và sở hữu khả năng lướt đi bồng bềnh giữa không trung. Cảm giác lúc ban đầu chao đảo đến choáng ngợp. Hệt như lần đầu tiên tôi kích hoạt **Gia vị ướp Emphon - Đại công thức 6** cùng cự thú Bessa năm xưa, tôi buộc phải nhanh chóng thích nghi với tầm nhìn bao quát và trọng lượng cơ thể hoàn toàn mới lạ. Sau khi vớ lấy thanh đao cưa đồ tể cùng số quân tư trang còn sót lại, tôi lao mình khỏi tán đại thụ và rơi xuống mái vòm Đền thờ Điểu Sư bên dưới nhẹ nhàng tựa một chiếc lá. Với chiều cao và khối lượng phi thường này, cú tiếp đất nghìn thước chẳng hề thấm tháp vào đâu. Thậm chí, tôi cảm nhận các khớp gối hầu như không phải chịu chút phản lực nào; tôi thoăn thoắt bám qua bờ mái đền rồi nhảy từ tầng tháp này xuống tầng tháp khác tựa như đang bám vào một chiếc thang dây, cho đến khi lủng lẳng đu mình trên sợi thừng treo bên dưới chân tháp.
 

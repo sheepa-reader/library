@@ -1,8 +1,8 @@
-# 4 THỰC ĐƠN CỦA TÔI
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*4 THỰC ĐƠN CỦA TÔI*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*4 THỰC ĐƠN CỦA TÔI*</p>
 
 <p class="para-en">SEVEN PAIRS OF eyes regarded me with varying levels of hostility. Then an eighth as my maître d’ entered. You hardly would’ve recognized him, and not just because of the gray in his beard or his lack of cornrows, bald now. It was the eyes.</p>
 

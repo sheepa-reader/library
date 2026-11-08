@@ -1,6 +1,6 @@
-# 10 NHỮNG VÙNG ĐẤT MỚI
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*10 NHỮNG VÙNG ĐẤT MỚI*
 
 MỘT ĐOÀN XE ba mươi toa nối dài dằng dặc dọc theo con đường trung tâm của thành phố Ranch, đỗ lại ngay phía trước Cổng Nam. Chúng không hề giống những cỗ xe kéo bán đồ ăn thường thấy quanh thành phố Ranch. Đây là những cỗ xe dành cho những chuyến đi tốc hành, xa hoa: trông giống những căn phòng gỗ đặt trên bánh xe hơn là một chiếc xe thô sơ phủ bạt. Toa lớn nhất trong số đó, dãy phòng dành riêng cho sứ giả của Cori, rộng ngang ngửa căn hộ cũ của tôi ở Khu Thứ Phẩm Số 3 ngày còn sống cùng các mẹ, có đầy đủ cả giường ngủ, khu tiếp khách và bàn ăn.
 

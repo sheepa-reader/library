@@ -1,6 +1,6 @@
-# 69 TƯƠNG LAI ĐƯỢC TÌM THẤY
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*69 TƯƠNG LAI ĐƯỢC TÌM THẤY*
 
 “CÔ ĐANG LÀM cái quái gì ở đây thế?” Tôi gặng hỏi, lùi lại một bước khỏi cái xác đứt đầu của Riv, một tay dứt khoát nhấc bổng thanh đao cưa đồ tể của mình lên khỏi vũng máu.
 

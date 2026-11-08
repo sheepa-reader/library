@@ -1,6 +1,6 @@
-# 44 ĂN GÌ THÌ DÙNG ĐÓ
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-*Món Thứ Năm • Vọng Âm Vindaloo*
+*44 ĂN GÌ THÌ DÙNG ĐÓ*
 
 “LÊN MÓN ĐẦU TIÊN!” Tôi hô vang dội cả gian bếp.
 

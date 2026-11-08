@@ -1,6 +1,6 @@
-# 27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU*
 
 “RỐT CUỘC LÀ CÓ CHUYỆN GÌ THẾ?” Tôi gặng hỏi lại lần thứ ba trong lúc rảo bước đuổi theo sau Cutler bằng những bước chân tuyệt vọng. Tôi chưa từng thấy ông già đi nhanh đến nhường này. Tôi không tài nào hiểu nổi làm sao với đôi chân ngắn hơn tôi một nửa mà ông ta lại có thể thoăn thoắt sải bước nhanh hơn cả tôi. Manh mối duy nhất mà tôi cạy miệng được từ ông già kể từ lúc rời khỏi dinh thự của Riv là Cutler hoàn toàn mất niềm tin vào mấy cỗ xe trượt cáp của thợ mỏ và kiên quyết từ chối ngồi lên chúng. “Rốt cuộc ông đã làm cái quái gì suốt từng ấy thời gian vậy?”
 

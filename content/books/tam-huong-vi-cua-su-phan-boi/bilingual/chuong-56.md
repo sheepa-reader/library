@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-<p class="para-en">*Course 5: Voice Vindaloo*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ*</p>
 
-<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ V QUÂN VƯƠNG VÀ NHỮNG NGƯỜI MẸ*</p>
 
 <p class="para-en">AS THE BUTCHER prepares to continue, Gynger rushes into the room. “We’ve got a problem.”</p>
 

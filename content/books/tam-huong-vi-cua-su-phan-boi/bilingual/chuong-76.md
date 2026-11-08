@@ -1,8 +1,8 @@
-# 60 VÙNG ẢNH HƯỞNG
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*60 VÙNG ẢNH HƯỞNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*60 VÙNG ẢNH HƯỞNG*</p>
 
 <p class="para-en">“YOU’VE DONE IT wrong again,” Terry moaned from behind me.</p>
 

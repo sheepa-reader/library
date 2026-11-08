@@ -1,6 +1,6 @@
-# 73 LÊN LỊCH NGÀY CƯỚI
+# Món Thứ Tám • Bánh Cưới
 
-*Món Thứ Tám • Bánh Cưới*
+*73 LÊN LỊCH NGÀY CƯỚI*
 
 ĐỒ TỂ HẲN PHẢI nhận ra niềm hy vọng đang tuôn trào trong đôi mắt của nữ lưu trữ viên. Chỉ bằng một cử động phất tay nhẹ nhàng, anh giải tỏa uy lực của **ớt ma thuật kiểm soát tâm trí - Đại công thức 5** trên người cô rồi cất lời: “Lau nước mắt đi. Tôi đã sớm nói với cô rằng anh ta vẫn còn sống rồi cơ mà.”
 

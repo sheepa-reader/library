@@ -1,6 +1,6 @@
-# 22 THÀNH PHỐ TỰ DO
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*22 THÀNH PHỐ TỰ DO*
 
 Tháng tiếp theo trôi qua vùn vụt trong khi tôi chuẩn bị cho “chuyến đi săn” của mình.
 

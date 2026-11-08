@@ -1,8 +1,8 @@
-# 57 OVATE TỐI CAO
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*57 OVATE TỐI CAO*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*57 OVATE TỐI CAO*</p>
 
 <p class="para-en">WHEN WE STOPPED celebrating, Laven examined his hands again and flexed them tight, his teal knuckle bones pressing against the thin skin. His bones, like Cutler’s and the other sourcerers’, had become endurmite.</p>
 

@@ -1,6 +1,6 @@
-# 61 CÚ GIÁNG TRỜI TRỜI
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*61 CÚ GIÁNG TRỜI TRỜI*
 
 Cơn hoảng loạn trào dâng lên cổ họng tôi buốt rát hệt như axit đậm đặc. Tôi hoàn toàn bị đánh úp không kịp trở tay, bị móng vuốt khổng lồ của Phu nhân Garuda quắp chặt đến mức chẳng thể cựa quậy nổi cánh tay để bắn một mũi cáp trusser vào ngón chân nó, chứ đừng nói đến chuyện tuốt đao cưa đồ tể nghênh chiến. Không Sức bền ma thuật, không Nguyên thuật, chẳng có lấy một tia sức mạnh Ovate hộ thân.
 

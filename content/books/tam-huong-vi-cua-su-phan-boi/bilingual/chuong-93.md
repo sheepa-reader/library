@@ -1,8 +1,8 @@
-# 74 CHO CHÚNG ĂN BÁNH
+# Món Thứ Tám • Bánh Cưới
 
-<p class="para-en">*Course 8: Wedding Cake*</p>
+<p class="para-en">*74 CHO CHÚNG ĂN BÁNH*</p>
 
-<p class="para-vi-sub">*Món Thứ Tám • Bánh Cưới*</p>
+<p class="para-vi-sub">*74 CHO CHÚNG ĂN BÁNH*</p>
 
 <p class="para-en">“WE DON’T HAVE to do this,” the archivist offers. “We do.”</p>
 

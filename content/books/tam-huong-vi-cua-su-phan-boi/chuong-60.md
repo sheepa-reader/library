@@ -1,6 +1,6 @@
-# 46 CÁI GIÁ PHẢI TRẢ
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-*Món Thứ Năm • Vọng Âm Vindaloo*
+*46 CÁI GIÁ PHẢI TRẢ*
 
 TRƯỚC KHI BỌN HỌ KỊP NHẬN RA tôi lao tới, tôi đã vung đao chém đứt phăng bàn tay trái của Dyl từ khớp cổ tay.
 

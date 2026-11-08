@@ -1,6 +1,6 @@
-# 21 KẺ THÙ BỦA VÂNG
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*21 KẺ THÙ BỦA VÂNG*
 
 CHIẾN TRANH HOÀN TOÀN phụ thuộc vào bối cảnh. Chiến tranh công khai đồng nghĩa với việc bất chấp mọi thủ đoạn. Chiến tranh lạnh nghĩa là ai nấy đều âm ỉ sục sôi, chờ đợi cho đến khi nguyên liệu thích hợp được thả vào nồi. Thế nhưng, lệnh ngừng bắn lại là thứ khó đoán định hơn cả. Trong suốt hơn sáu tháng kể từ khi bối cảnh ấy phủ lên Herdland và Tân Panchon, cả hai bên đều đã ngừng điều động binh lính ra tiền tuyến, song điều đó chẳng hề có nghĩa là chúng tôi đã được an toàn. Tôi từng là mục tiêu của không ít vụ ám sát, và nếu tôi bảo Herdland chưa từng cử người đi lấy đầu Nữ hoàng Zesta thì hẳn là tôi đang nói dối. Chỉ có điều, chẳng bên nào chịu công khai thừa nhận chuyện đó với bất kỳ ai.
 

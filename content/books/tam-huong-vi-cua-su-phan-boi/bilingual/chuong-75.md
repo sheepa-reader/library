@@ -1,8 +1,8 @@
-# 59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*59 Ý TƯỞNG TỒI VÀO ĐÚNG THỜI ĐIỂM*</p>
 
 <p class="para-en">FOR THE FIRST eight hours, I marveled at how single-minded Fenrir seemed to be. He never stopped chasing the moose hanging over his head, though it wasn’t like we were all that interested in trying to stop him. Feng and I had stolen some travel rations along with our trussers, and the crane—which had a “ground” floor larger than my old apartment in Common 3—had beds and a whole toilet system. Better to let the hungry emphon do his own thing.</p>
 

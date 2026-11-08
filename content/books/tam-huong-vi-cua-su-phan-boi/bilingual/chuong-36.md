@@ -1,8 +1,8 @@
-# 27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*27 TƯƠNG LAI U ÁM VÀ ĐẪM MÁU*</p>
 
 <p class="para-en">“WHAT’S WRONG?” I asked for the third time as I desperately tried to catch up with Cutler. I’d never seen him walk so quickly. Didn’t think he could outpace me with his legs that much shorter than mine. The only thing I’d gotten out of him since leaving Riv’s was that Cutler didn’t trust the mining cart trams and refused to ride them. “What have you been doing this whole time?”</p>
 

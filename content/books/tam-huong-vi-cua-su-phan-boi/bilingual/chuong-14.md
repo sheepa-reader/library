@@ -1,8 +1,8 @@
-# 8 MÓN NACHO CHIẾN LƯỢC
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*8 MÓN NACHO CHIẾN LƯỢC*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*8 MÓN NACHO CHIẾN LƯỢC*</p>
 
 <p class="para-en">“KILLER, YOU KNOW I trust you,” Cori said as she took a stool at the bar. “You know I love you. But what the fuck were you thinking?”</p>
 

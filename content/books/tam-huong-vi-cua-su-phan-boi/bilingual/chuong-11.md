@@ -1,8 +1,8 @@
-# 6 MỘT CUỘC TẮM MÁU NGOẠI GIAO
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*6 MỘT CUỘC TẮM MÁU NGOẠI GIAO*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*6 MỘT CUỘC TẮM MÁU NGOẠI GIAO*</p>
 
 <p class="para-en">“ENCHILADAS ON THE pass!” Laven shouted to the brigade. “Vegetarian and vegan there, Vanil,” he added, pointing.</p>
 

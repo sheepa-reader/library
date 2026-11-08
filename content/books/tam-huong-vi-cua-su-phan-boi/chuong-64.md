@@ -1,6 +1,6 @@
-# 50 YGMINSUL
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-*Món Thứ Năm • Vọng Âm Vindaloo*
+*50 YGMINSUL*
 
 TRONG MỘT THẾ GIỚI có sự hiện diện của quái thú Emphon, kích thước vạn vật hoàn toàn thừa sức khiến tâm trí con người tê liệt. Những từ ngữ tầm thường như *nhỏ bé* hay *khổng lồ* chẳng thể nào lột tả nổi hố sâu ngăn cách giữa một con kiến nhỏ nhoi và một con rồng Drakephon cổ xưa sải cánh rợp trời. Từ ngữ *vĩ đại* bỗng chốc trở nên rỗng tuếch khi người đời tùy tiện dùng nó để miêu tả một con quái thú Duckbill khiêm tốn hay một cá thể già cỗi bậc nhất thuộc loài quái thú Dolphon dưới đáy biển sâu.
 

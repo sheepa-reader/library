@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ IV: HỘI ĐỒNG CHIẾN TRƯỜNG*</p>
 
 <p class="para-en">GYNGER AND FOUR other common duck through the tent flap, and the archivist gasps. Crooked Rish enters among them. Unlike the other adults, who are dressed in the war jackets of the Butcher’s army, Rish wears his typical unassuming attire, a loose shirt and worn trousers, hair long and wavy, if thin. But there can be nothing unassuming about a man with a scar across his neck so jagged and thick that it practically glows pink in the light.</p>
 

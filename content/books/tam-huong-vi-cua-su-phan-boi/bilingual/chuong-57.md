@@ -1,8 +1,8 @@
-# 43 HIỂU RÕ THỰC KHÁCH
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-<p class="para-en">*Course 5: Voice Vindaloo*</p>
+<p class="para-en">*43 HIỂU RÕ THỰC KHÁCH*</p>
 
-<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
+<p class="para-vi-sub">*43 HIỂU RÕ THỰC KHÁCH*</p>
 
 <p class="para-en">OPENING NIGHT FOR the pop-up came far too quickly, but the war needed us. There was no time to wait.</p>
 

@@ -1,8 +1,8 @@
-# 38 CĂNG THẲNG LÊN MEN
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-<p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
+<p class="para-en">*38 CĂNG THẲNG LÊN MEN*</p>
 
-<p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>
+<p class="para-vi-sub">*38 CĂNG THẲNG LÊN MEN*</p>
 
 <p class="para-en">FENG LADWAIT GREW up in Mangtier, but like her sisters, she learned to use trussers at a young age, which allowed her to travel up the coast frequently. When the summers blanketed the south in humidity and bugs, she came north with Riv, and though her mom was the most famous Chef in the country, she learned her craft in Ryespur.</p>
 

@@ -1,8 +1,8 @@
-# 21 KẺ THÙ BỦA VÂNG
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
+<p class="para-en">*21 KẺ THÙ BỦA VÂNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
+<p class="para-vi-sub">*21 KẺ THÙ BỦA VÂNG*</p>
 
 <p class="para-en">WAR IS ALL about context. Open war means anything goes. Cold war means everyone simmers until the right ingredient is added to the pot. Ceasefire, though, is harder to judge. In the six-plus months since that context was introduced to us in Herdland and New Panchon, both sides had stopped supplying the Front with soldiers, but that didn’t mean we were safe. I’d been the target of a handful of assassination attempts, and I’d be lying if I claimed Herdland hadn’t sent our own after Queen Zesta. But neither side was admitting that to anyone.</p>
 

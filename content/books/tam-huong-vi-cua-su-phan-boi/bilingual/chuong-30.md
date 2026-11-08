@@ -1,8 +1,8 @@
-# 22 THÀNH PHỐ TỰ DO
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
+<p class="para-en">*22 THÀNH PHỐ TỰ DO*</p>
 
-<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
+<p class="para-vi-sub">*22 THÀNH PHỐ TỰ DO*</p>
 
 <p class="para-en">THE NEXT MONTH raced by as I prepared for my “hunt.”</p>
 

@@ -1,6 +1,6 @@
-# 23 ĐỒNG CỐT
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*23 ĐỒNG CỐT*
 
 TỪNG CÓ THỜI, Ryespur là thủ đô của một quốc gia độc lập. Nằm ở phía bắc dọc theo vịnh Croissant, nơi đây từng được chở che bởi những nguồn tài nguyên trù phú bậc nhất thế giới: cá, khoáng sản, những cánh rừng thông đỏ khổng lồ, công nghệ Cõi Cội Nguồn, cùng vô vàn sản vật quý giá khác. Một thành phố lộng lẫy tựa lưng ra đại dương mênh mông.
 

@@ -1,8 +1,8 @@
-# 28 SHEPHERD VÀ TERRY
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*28 SHEPHERD VÀ TERRY*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*28 SHEPHERD VÀ TERRY*</p>
 
 <p class="para-en">WE APPROACHED A home as out of place on this street as Cutler’s was on Fen’s Plateau in Ranch. While all the others were recent constructions of plaster walls and metal roofs, this was brick and mortar, stained so deep black from the soot it might’ve been there since the beginning of time. Knowing what I knew about sourcerers, it made sense. Cutler knocked so hard, he practically felled the shabby wooden door.</p>
 

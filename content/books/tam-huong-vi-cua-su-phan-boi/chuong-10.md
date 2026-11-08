@@ -1,6 +1,6 @@
-# 5 LẠI LÀ MỘT GÃ ĐỒ TỂ
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*5 LẠI LÀ MỘT GÃ ĐỒ TỂ*
 
 Hỏi ba người thợ mổ khác nhau, bạn sẽ nhận được ba câu trả lời khác nhau, nhưng nếu hỏi tôi, loài lợn rừng Badgeboar cho ra mười hai phần thịt riêng biệt. Dưới sự chỉ dạy của Dì, tôi đã học được cách nấu từng phần một trong số đó. Cũng giống như cách tôi thuần thục tám phần thịt của quái thú Gryphon, bốn phần thịt của quái thú linh dương Emphalope, và mười phần thịt của quái thú Dolphon. Tất cả đều là một phần trong khóa huấn luyện mà tôi đã hoàn thành suốt cuộc chiến tranh, vào những ngày tính mạng tôi chao đảo nơi lằn ranh sinh tử, hệt như những tảng thịt lơ lửng trên móc treo.
 

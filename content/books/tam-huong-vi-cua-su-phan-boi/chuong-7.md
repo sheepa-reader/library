@@ -1,6 +1,6 @@
-# 2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*2 VỤ ÁN MẠNG TẠI KHU TRẠI NHỐT PEN*
 
 BA NGÀY SAU, tôi vội vã tiến về phía khu Trại Nhốt Pen, tâm trí vẫn quẩn quanh buổi chiều hôm ấy cùng Hili. Sáng nay, một tin tức chấn động cả thành phố vừa nổ ra: Tân Panchon đã ký một hiệp ước thương mại với Semoli. Kẻ thù của chúng tôi sẽ sớm tái vũ trang thần tốc, và điều đó đồng nghĩa với việc tôi sẽ phải cử Hili ra Tiền tuyến. Nó khiến công việc tối nay của tôi càng trở nên hệ trọng hơn gấp bội, và tôi chẳng hề có thời gian để băng qua cả thành phố chỉ vì cái lệnh triệu tập chẳng rõ nguyên cớ này.
 

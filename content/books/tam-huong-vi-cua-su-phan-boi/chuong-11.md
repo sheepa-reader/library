@@ -1,6 +1,6 @@
-# 6 MỘT CUỘC TẮM MÁU NGOẠI GIAO
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*6 MỘT CUỘC TẮM MÁU NGOẠI GIAO*
 
 “Bánh enchilada lên quầy chuyển món!” Laven hô lớn với cả đội bếp. “Phần chay trứng sữa và thuần chay ở đằng kia, Vanil,” cậu nói thêm, đưa tay chỉ.
 

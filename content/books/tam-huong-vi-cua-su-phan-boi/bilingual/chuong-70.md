@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ VI ĐIỂU SƯ TRÊN CỔNG THÀNH*</p>
 
 <p class="para-en">A FOGHORN SCREAMS from the south, interrupting him.</p>
 

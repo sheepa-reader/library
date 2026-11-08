@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN*</p>
 
 <p class="para-en">BEFORE THE BUTCHER can continue, the tent flap lifts and a bruised white man in chains is pushed forward by a husky guard—a yeller, if the archivist understands the yellow bandana beneath his bearded chin. But his eyes aren’t Enduring.</p>
 

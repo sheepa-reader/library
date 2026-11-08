@@ -1,8 +1,8 @@
-# 63 GIẢI PHÁP BẤT NGỜ
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*63 GIẢI PHÁP BẤT NGỜ*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*63 GIẢI PHÁP BẤT NGỜ*</p>
 
 <p class="para-en">BEFORE I INVENTED Emphon Rub, I could taste it coming to me. A hint at the back of my tongue built steadily until I inhaled the scent of skyroot powder and desperation necessitated action born of intent. It took weeks and needed a pretty firm push at the end from Bessa.</p>
 

@@ -1,6 +1,6 @@
-# 56 NIỀM TIN VÀ CÚ CHẠM
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
+*56 NIỀM TIN VÀ CÚ CHẠM*
 
 LÒNG HỒ CỦA ATLAS tựa như một nồi súp khổng lồ đầy ắp đến tận miệng, được đặt lọt thỏm dưới đáy căn phòng nơi chúng tôi vừa dùng bữa và đàm đạo. Với vị thế sừng sững của cự quái ở chính giữa, người ta gần như có thể mường tượng mình đang chiêm ngưỡng cội nguồn của nồi súp rùa lớn nhất—và cũng nguy hiểm nhất—trên cõi đời này. Xuyên qua làn nước trong vắt phẳng lặng, tôi có thể nhìn thấy vượt qua móng vuốt đồ sộ phía trước của cô ấy, sâu xuống tận đáy hồ nơi những vết cày xới của lợn rừng Badgeboar hé lộ nguồn gốc khai phá của thánh địa này. Tại sao họ lại nhọc công đào bới nó chứ? Liệu họ có thể nhìn thấu tương lai giống như Atlas hay không? Phải chăng họ đã kiến tạo nên nơi chốn này vì biết trước rằng cự quái sẽ cần đến?
 

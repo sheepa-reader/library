@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ III MỘT SỰ NGẮT QUÃNG BẤT NGỜ*</p>
 
 <p class="para-en">THE ARCHIVIST SMACKS her pen down into the table with what little authority her aching wrist can muster. “I must insist on some questions.”</p>
 

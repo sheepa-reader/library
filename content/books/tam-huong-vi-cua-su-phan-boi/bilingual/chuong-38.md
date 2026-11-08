@@ -1,8 +1,8 @@
-# 29 BẢN THỂ KHÁC
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*29 BẢN THỂ KHÁC*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*29 BẢN THỂ KHÁC*</p>
 
 <p class="para-en">AGAINST MY WILL, I followed Terry into a warm kitchen with wood countertops and potted plants I couldn’t name. Fruits and vegetables made brilliant still-lifes in baskets all over the counters—expertly arranged to avoid ripening issues, too. The smell of dill and fresh white bread filled the air. Compared to the drab exterior of Ryespur, it was annoyingly cheery.</p>
 

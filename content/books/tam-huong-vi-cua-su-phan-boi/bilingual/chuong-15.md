@@ -1,8 +1,8 @@
-# 9 HẦM NHÀ CUTLER
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*9 HẦM NHÀ CUTLER*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*9 HẦM NHÀ CUTLER*</p>
 
 <p class="para-en">BEFORE THE BUTCHER can continue, the tent flap snaps open, and Musta, the Butcher’s young cousin, pouts her way to the table.</p>
 

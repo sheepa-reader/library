@@ -1,8 +1,8 @@
-# 11 HOA TRÁI VÀ LAO ĐỘNG
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*11 HOA TRÁI VÀ LAO ĐỘNG*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*11 HOA TRÁI VÀ LAO ĐỘNG*</p>
 
 <p class="para-en">I’D SPENT MOST of the years since the Revolution east of Ranch. There was no shortage of beauty there: wheat fields, the high planes of the emphalope, even the sulfuric clouds of the Melting Mines, which muddled the horizon into a vision of some tantalizing apocalypse. I’d sought glimpses of the Bay of Semoli and had been both awed and unsettled by the expanse of dark blue. But I’d never been farther than a few days’ ride west, and we’ve already established how often I avoided riding.</p>
 

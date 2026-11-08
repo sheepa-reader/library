@@ -1,6 +1,6 @@
-# 32 LỊCH SỬ TỪ CỘI NGUỒN
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*32 LỊCH SỬ TỪ CỘI NGUỒN*
 
 <span class="drop-2">Thực chất bọn họ chẳng lớn tuổi hơn chúng tôi là bao vào cái thời điểm tự tay hủy hoại cả thế giới này. Ánh mắt sáng ngời, sục sôi niềm phấn khích giữa một nền văn minh ẩm thực đang đâm chồi nở rộ như vũ bão. Theo lời Cutler hồi tưởng, thời đại của ông già là kỷ nguyên hoàng kim của những chuyến viễn chinh vị giác điên cuồng. Những Đại công thức mới toanh không ngừng được khai sinh ở khắp mọi ngóc ngách. Những loài quái thú Emphon dị biến ngự trị trên khắp các đỉnh non cao trùng điệp. Ryespur hay Mangtier thuở ấy cũng chỉ nhỉnh hơn đôi chút so với những trạm dừng chân ven nguồn nước dành cho những kẻ sống sót sau vài thế hệ tha hương rời bỏ Cõi Cội Nguồn. Đại đô thị Ranch khi đó còn chưa thành hình trên bản đồ. Xứ Semoli bên kia vịnh biển vốn đã tồn tại, song họ tuyệt nhiên chẳng hề hay biết.
 

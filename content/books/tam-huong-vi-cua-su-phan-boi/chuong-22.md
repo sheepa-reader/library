@@ -1,6 +1,6 @@
-# 15 MANGTIER
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*15 MANGTIER*
 
 HAI NGÀY SAU, chúng tôi đến nơi.
 

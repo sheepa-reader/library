@@ -1,6 +1,6 @@
-# 57 OVATE TỐI CAO
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
+*57 OVATE TỐI CAO*
 
 Khi cơn hoan hỷ lắng xuống, Laven lại cẩn trọng kiểm tra đôi bàn tay mình rồi từ từ siết chặt các khớp ngón, từng đốt xương phát ra ánh sắc xanh mòng két tỳ sát vào lớp da mỏng manh. Xương cốt của cậu ấy, cũng hệt như của sư phụ Cutler và những Nguyên thuật sư cổ xưa khác, đã hoàn toàn biến đổi thành tinh thể Endurmite.
 

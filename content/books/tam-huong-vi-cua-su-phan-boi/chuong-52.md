@@ -1,6 +1,6 @@
-# 40 ANH HÙNG CHIẾN TRƯỜNG
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
+*40 ANH HÙNG CHIẾN TRƯỜNG*
 
 Đồ Tể ngước mắt nhìn lên nóc lều bạt dã chiến. Tuyệt nhiên chẳng có gì ở trên đó cả, nhưng nữ lưu trữ viên vẫn nhạy bén nhận ra ánh mắt của một kẻ đang tha thiết kiếm tìm *điều gì đó* mơ hồ trong cõi lòng, thay vì chỉ đơn thuần ngắm nhìn *thứ gì đó* trước mắt.
 

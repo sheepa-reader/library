@@ -1,8 +1,8 @@
-# 32 LỊCH SỬ TỪ CỘI NGUỒN
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-<p class="para-en">*Course 1: Insight Enchiladas*</p>
+<p class="para-en">*32 LỊCH SỬ TỪ CỘI NGUỒN*</p>
 
-<p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>
+<p class="para-vi-sub">*32 LỊCH SỬ TỪ CỘI NGUỒN*</p>
 
 <p class="para-en">THEY WEREN’T MUCH older than us, really, when they doomed the world. Bright-eyed, excited, in a food scene growing quickly. The way Cutler told it, his was an age of culinary adventure. New greaters around every corner. New emphon over every mountain. Ryespur, Mangtier, barely more than watering holes for survivors a couple generations removed from Olearth. No Ranch. Semoli existed, but they didn’t know it.</p>
 

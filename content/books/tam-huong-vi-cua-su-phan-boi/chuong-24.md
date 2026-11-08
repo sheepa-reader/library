@@ -1,6 +1,6 @@
-# 17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
+*17 CHÚNG TA QUYẾT ĐẤU LÚC BÌNH MINH*
 
 Cori ném mạnh thanh kiếm dẹt của mình vào bức tường của căn hộ bài trí sơ sài mà chúng tôi được cấp trong cung điện. “Em phải đại diện cho anh cơ mà! Làm sao em làm được điều đó khi anh đồng ý tham gia đấu ẩm thực sinh tử trước cả khi các điều khoản được ấn định hả?”
 

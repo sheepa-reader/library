@@ -533,6 +533,43 @@
       cleanedLines.push(rawLine);
     }
 
+    // 3b. Tự động đảm bảo Tiêu đề Phần / Course (Header 1) luôn nằm TRÊN tiêu đề chương con
+    // (Ví dụ: 'Món Thứ Nhất...' luôn là Header 1 nằm trên '1 ĐÀI TƯỞNG NIỆM CHIẾN TRANH')
+    const rePartHeading = /^[\*_]*\s*(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Part\s+|Book\s+|Course\s+)/i;
+    if (cleanedLines.length >= 2 && cleanedLines[0].trim().startsWith('# ')) {
+      const rawHeading = cleanedLines[0].trim().replace(/^#+\s*/, '').trim();
+      if (!rePartHeading.test(rawHeading)) {
+        for (let k = 1; k < Math.min(cleanedLines.length, 6); k++) {
+          const checkLine = cleanedLines[k].trim();
+          if (checkLine.includes('para-en') || checkLine.includes('para-vi-sub')) {
+            const plain = checkLine.replace(/<[^>]+>/g, '').trim();
+            if (rePartHeading.test(plain)) {
+              let enIdx = checkLine.includes('para-en') ? k : k - 1;
+              let viIdx = checkLine.includes('para-vi-sub') ? k : k + 1;
+              if (enIdx >= 0 && viIdx < cleanedLines.length) {
+                const partVi = cleanedLines[viIdx].replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
+                if (partVi.toLowerCase() !== rawHeading.toLowerCase()) {
+                  cleanedLines[0] = '# ' + partVi;
+                  cleanedLines[enIdx] = `<p class="para-en">*${rawHeading}*</p>`;
+                  cleanedLines[viIdx] = `<p class="para-vi-sub">*${rawHeading}*</p>`;
+                  firstHeadingTitle = partVi.toLowerCase();
+                  break;
+                }
+              }
+            }
+          } else if (rePartHeading.test(checkLine.replace(/<[^>]+>/g, '').trim())) {
+            const partTitle = checkLine.replace(/<[^>]+>/g, '').replace(/^[\*_\s]+|[\*_\s]+$/g, '').trim();
+            if (partTitle.toLowerCase() !== rawHeading.toLowerCase()) {
+              cleanedLines[0] = '# ' + partTitle;
+              cleanedLines[k] = `*${rawHeading}*`;
+              firstHeadingTitle = partTitle.toLowerCase();
+              break;
+            }
+          }
+        }
+      }
+    }
+
     let cleanText = cleanedLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 
     // 3b. Xử lý các cú pháp căn giữa đa dòng (Multiline Centering)
@@ -668,6 +705,13 @@
       if (isSceneDivider) {
         const symbol = viPlain || enPlain || '• • •';
         return `\n<div class="bilingual-pair scene-break" data-pair-idx="${idx}"><p class="scene-break" align="center">${symbol}</p></div>\n`;
+      }
+
+      // Kiểm tra xem cặp đoạn đầu tiên có phải là phụ đề chương (chapter subtitle) hay không
+      const isSubtitlePair = idx === 1 && (viText.startsWith('<em>') || viText.startsWith('*')) && (enText.startsWith('<em>') || enText.startsWith('*')) && viPlain.length < 150;
+      if (isSubtitlePair) {
+        const cleanSubVi = viText.replace(/^[\*\s]+|[\*\s]+$/g, '');
+        return `\n<div class="bilingual-pair chapter-subtitle-pair text-center" data-pair-idx="${idx}"><p class="chapter-subtitle text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
       }
 
       let dropCapClass = '';

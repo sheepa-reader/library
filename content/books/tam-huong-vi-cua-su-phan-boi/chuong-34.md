@@ -1,6 +1,6 @@
-# 25 HIỆN TRƯỜNG VỤ ÁN
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*25 HIỆN TRƯỜNG VỤ ÁN*
 
 SÁNG HÔM SAU, Riv dẫn chúng tôi thẳng tới hiện trường của vụ tập kích gần đây nhất, chẳng có lấy một phút nghỉ ngơi cho những đôi chân đã mỏi nhừ sau chặng viễn chinh đằng đẵng. Đội ngũ kiểm lâm viên sẽ hội quân cùng chúng tôi tại đó để tường trình ngọn ngành mọi sự.
 

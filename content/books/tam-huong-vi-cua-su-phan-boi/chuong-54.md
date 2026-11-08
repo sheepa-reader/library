@@ -1,6 +1,6 @@
-# 42 CHIẾN TRANH
+# Món Thứ Tư • Bít Tết Bão Tố Tăng Cường
 
-*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
+*42 CHIẾN TRANH*
 
 TẤT CẢ CHÚNG TÔI ngồi quây quần quanh chiếc bàn sắt ngoài hiên dinh thự Nhà Engi. Sincera và Laven vừa trở về sau chuyến trinh sát của họ, và tôi thậm chí còn chưa kịp mở lời hỏi xem hai người có lần ra được manh mối gì mới hay không. Đầu óc tôi lúc bấy giờ hầu như chẳng còn tâm trí đâu để bận lòng tới kẻ mang tên Ovate quái quỷ đó nữa, khi mà đôi bàn tay Cori cứ không ngừng vò nát tờ giấy da phong thư, siết chặt đến mức mép giấy tơi tả nhăn nhúm.
 

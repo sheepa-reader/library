@@ -1,6 +1,6 @@
-# 45 HIỂU VỀ NĂNG LƯỢNG
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-*Món Thứ Năm • Vọng Âm Vindaloo*
+*45 HIỂU VỀ NĂNG LƯỢNG*
 
 SINCERA ĐỨNG Ở PHÍA TRƯỚC khi tất cả chúng tôi vây quanh chiếc đĩa mẫu mà Laven vừa hoàn tất khâu bài trí tựa như một phép màu nhiệm màu. Thông thường, món Bít tết khoai tây chiên - Đại công thức 4 chỉ được dọn trong giỏ tre lót giấy sáp hoặc trên khay gỗ dã chiến. Vài nhà hàng sang trọng có thể bày biện một món khai vị theo phong cách mộc mạc ấy, thế nhưng đây lại là món ăn chính của đêm tiệc, và diện mạo của nó bắt buộc phải thật sự ngoạn mục.
 

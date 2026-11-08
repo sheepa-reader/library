@@ -1,8 +1,8 @@
-# 15 MANGTIER
+# Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
-<p class="para-en">*Course 2: Dry Curry Gryphon*</p>
+<p class="para-en">*15 MANGTIER*</p>
 
-<p class="para-vi-sub">*Món Thứ Hai • Cà ri khô Điểu sư Gryphon*</p>
+<p class="para-vi-sub">*15 MANGTIER*</p>
 
 <p class="para-en">TWO DAYS LATER, we arrived.</p>
 

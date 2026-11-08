@@ -1,8 +1,8 @@
-# 66 SQUIRT
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*66 SQUIRT*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*66 SQUIRT*</p>
 
 <p class="para-en">THREE EVENINGS LATER, I stood outside Ranch’s West Gate with Cori, Sincera, and the four yellers that would accompany me inside—if this worked. Each of the four carried a heavy backpack, laden with the machinations of my raving plan. A plan I hoped would be so ludicrous Glayd couldn’t stop it, even if she could see it coming.</p>
 

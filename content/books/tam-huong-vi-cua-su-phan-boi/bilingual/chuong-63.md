@@ -1,8 +1,8 @@
-# 49 MỘT SỰ THẬT BẤT TIỆN
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-<p class="para-en">*Course 5: Voice Vindaloo*</p>
+<p class="para-en">*49 MỘT SỰ THẬT BẤT TIỆN*</p>
 
-<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
+<p class="para-vi-sub">*49 MỘT SỰ THẬT BẤT TIỆN*</p>
 
 <p class="para-en">LAVEN’S MESSAGE IN a Bottle has become one of the most useful greaters made since the Revolution, maybe ever. You can’t find a single sourcerer, Chef, or country neglecting to use it to their advantage. It’s a shame I had to trade the recipe when I did. Would’ve been nice to keep it secret.</p>
 

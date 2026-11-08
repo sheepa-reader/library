@@ -1,6 +1,6 @@
-# 24 GIA TỘC ENGI
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*24 GIA TỘC ENGI*
 
 Phải mất tám ngày ròng rã đầy gian khổ chúng tôi mới tới được Ryespur. Riv chẳng hề nói quá chút nào về gánh nặng ghê gớm đè nặng lên đôi vai tôi. Đi được vài ngày, Cori đã ngã bệnh khiến em nôn thốc nôn tháo mỗi khi dùng Thực Phẩm Hành Trình vào mỗi sớm. Dù Feng nhìn xoáy vào sau gáy cô ta với ánh mắt hình viên đạn, Hoàng đế đắc cử Glayd cùng đội cận vệ riêng vẫn chẳng mảy may có ý định cho Cori dừng chân nghỉ ngơi làm chậm trễ chuyến hành quân tiến về phương bắc. Tất cả những gì tôi có thể làm là nhẹ nhàng xoa lưng cho Cori và thầm cầu mong em sớm ngày bình phục.
 

@@ -1,6 +1,6 @@
-# 51 GIỮA LÒNG TỘC DRUE
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*
+*51 GIỮA LÒNG TỘC DRUE*
 
 NẤU ĂN CÙNG NIDARI hóa ra lại là một trải nghiệm vô cùng dễ chịu ngoài dự liệu. Khi đứng trong căn bếp của chính mình, cô dịu dàng và kiên nhẫn hơn rất nhiều so với những gì tôi từng chứng kiến trước đó. Tất nhiên, nét nghiêm khắc và gai góc nơi cô vẫn luôn hiện hữu. Đã có lúc cô thẳng tay dùng cây cán bột gõ mạnh vào các khớp ngón tay tôi khi tôi thao tác chưa chuẩn. Thế nhưng nét mặt cô dần buông lỏng và thư thái khi say sưa miêu tả lại cảnh tự tay vắt từng giọt sữa quái thú Emphon tươi nguyên rồi cặm cụi đánh bông những mẻ bơ thực vật do chính mình dày công sáng tạo. Tình yêu thuần khiết dành cho nghệ thuật ẩm thực của Nidari bộc lộ rõ mồn một qua cái cách cô nâng niu hít hà mùi hương ngào ngạt của từng mẻ bánh nướng trước khi đưa chúng vào lò nướng củi. Nếu không hay biết tường tận câu chuyện từ trước, tôi hẳn đã đinh ninh Nidari mới chính là mẫu phụ nữ tài hoa mà Feng sẽ đem lòng si mê say đắm, chứ tuyệt đối không phải là Glayd Eto. Nhận thức ấy lại càng khiến mối quan hệ đầy trắc trở trong quá khứ của Feng trở nên kỳ lạ và khó hiểu hơn nữa. Tôi thầm tự vấn liệu hai người bọn họ thuở trước có từng quen biết nhau hay không.
 

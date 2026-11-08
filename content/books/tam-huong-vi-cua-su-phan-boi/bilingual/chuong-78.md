@@ -1,8 +1,8 @@
-# 61 CÚ GIÁNG TRỜI TRỜI
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*61 CÚ GIÁNG TRỜI TRỜI*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*61 CÚ GIÁNG TRỜI TRỜI*</p>
 
 <p class="para-en">PANIC LANCED UP my throat like acid. I was completely unprepared, pinned by Lady Garuda’s talons so tightly I couldn’t even fire a trusser into her toe, let alone draw my cleaversaw. No Endurance, no sourcery, no ovatry.</p>
 

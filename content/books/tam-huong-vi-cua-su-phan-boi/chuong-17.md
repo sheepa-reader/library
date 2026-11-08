@@ -1,6 +1,6 @@
-# 11 HOA TRÁI VÀ LAO ĐỘNG
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*11 HOA TRÁI VÀ LAO ĐỘNG*
 
 Tôi đã dành phần lớn những năm tháng kể từ sau cuộc Cách mạng ở phía đông Ranch. Nơi ấy chẳng hề thiếu vắng cảnh đẹp: những cánh đồng lúa mì, những bình nguyên cao vút nơi quái thú linh dương Emphalope sinh sống, thậm chí cả những đám mây lưu huỳnh bốc lên từ Mỏ Nấu Chảy, nơi khiến đường chân trời nhòe đi thành viễn cảnh của một ngày tận thế đầy mê hoặc. Tôi từng tìm kiếm những thoáng nhìn về Vịnh Semoli và vừa kinh ngạc, vừa bồn chồn trước dải màu xanh thẫm ngút ngàn. Nhưng tôi chưa từng đi xa hơn vài ngày cưỡi ngựa về phía tây, mà chúng ta thì đều biết rõ tôi luôn né tránh việc cưỡi ngựa đến mức nào rồi đấy.
 

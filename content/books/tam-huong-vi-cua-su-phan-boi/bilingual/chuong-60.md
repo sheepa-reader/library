@@ -1,8 +1,8 @@
-# 46 CÁI GIÁ PHẢI TRẢ
+# Món Thứ Năm • Vọng Âm Vindaloo
 
-<p class="para-en">*Course 5: Voice Vindaloo*</p>
+<p class="para-en">*46 CÁI GIÁ PHẢI TRẢ*</p>
 
-<p class="para-vi-sub">*Món Thứ Năm • Vọng Âm Vindaloo*</p>
+<p class="para-vi-sub">*46 CÁI GIÁ PHẢI TRẢ*</p>
 
 <p class="para-en">BEFORE THEY EVEN saw me coming, I chopped Dyl’s left hand off at the wrist.</p>
 

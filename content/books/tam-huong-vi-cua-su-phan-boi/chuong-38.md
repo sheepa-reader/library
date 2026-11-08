@@ -1,6 +1,6 @@
-# 29 BẢN THỂ KHÁC
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*29 BẢN THỂ KHÁC*
 
 Trái ngược hoàn toàn với ý muốn của mình, đôi chân tôi vẫn vô thức rảo bước theo Terry tiến vào một gian bếp ấm cúng với những chiếc bàn thao tác bằng gỗ mộc cùng vô số chậu cây cảnh xanh mướt mà tôi chẳng rõ tên. Hoa quả tươi cùng rau củ được bài trí ngăn nắp thành từng giỏ tĩnh vật rực rỡ sắc màu trải khắp mặt bàn, sắp đặt khéo léo để thực phẩm luôn thông thoáng, tránh dập nhũn. Hương thơm ngát của thì là tươi và mẻ bánh mì trắng vừa ra lò lan tỏa ngào ngạt khắp không gian. Tương phản gay gắt với diện mạo ảm đạm nhuốm đầy bụi than bên ngoài của Ryespur, gian phòng này mang một vẻ tươi tắn thanh bình đến mức chướng mắt.
 

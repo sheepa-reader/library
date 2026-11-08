@@ -1,8 +1,8 @@
-# 58 FENG TRÊN RĂNG CƯA
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*58 FENG TRÊN RĂNG CƯA*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*58 FENG TRÊN RĂNG CƯA*</p>
 
 <p class="para-en">IT TOOK NEARLY two days to hike down the tree and find the wolphon I was supposed to ride back to Ranch. As I stared at the starving beast, I wanted to climb back up and kill Laven myself.</p>
 

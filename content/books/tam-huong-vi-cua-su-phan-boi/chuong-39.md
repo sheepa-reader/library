@@ -1,6 +1,6 @@
-# 30 TÔN TRỌNG BẬC TRÊN
+# Món Thứ Nhất • Bánh Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
+*30 TÔN TRỌNG BẬC TRÊN*
 
 “TUYỆT HẢO,” Shepherd cất giọng khi hai chúng tôi bưng đồ ăn bước vào phòng. “Ta đang đói lả cả ruột gan đây.”
 

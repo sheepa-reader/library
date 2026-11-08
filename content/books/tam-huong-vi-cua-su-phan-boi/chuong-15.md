@@ -1,6 +1,6 @@
-# 9 HẦM NHÀ CUTLER
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*9 HẦM NHÀ CUTLER*
 
 TRƯỚC KHI ĐỒ TỂ kịp tiếp tục, tấm rèm cửa lều bật mở, rồi Musta, cô em họ nhỏ tuổi của anh, phụng phịu bước tới bên bàn.
 

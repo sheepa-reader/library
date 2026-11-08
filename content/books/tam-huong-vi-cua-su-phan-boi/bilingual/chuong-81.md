@@ -1,8 +1,8 @@
-# MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-<p class="para-en">*Course 7: Life Lassi*</p>
+<p class="para-en">*MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC*</p>
 
-<p class="para-vi-sub">*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*</p>
+<p class="para-vi-sub">*MÓN CHUYỂN VỊ VII PHÔ DIỄN UY LỰC*</p>
 
 <p class="para-en">“GREATER FUSION,” THE archivist repeats, horrified at the implications. Two greaters at once, to cause untold havoc. Her mind was a stream of combinations. This had to be a lie. “It means a combination of greater recipes,” the Butcher explains, as if to a child. “Not to be confused with lesser fusion, like the fish tacos or massaman curry.”</p>
 

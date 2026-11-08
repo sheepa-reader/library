@@ -1,8 +1,8 @@
-# 51 GIỮA LÒNG TỘC DRUE
+# Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
-<p class="para-en">*Course 6: Werephon Roll*</p>
+<p class="para-en">*51 GIỮA LÒNG TỘC DRUE*</p>
 
-<p class="para-vi-sub">*Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon*</p>
+<p class="para-vi-sub">*51 GIỮA LÒNG TỘC DRUE*</p>
 
 <p class="para-en">COOKING WITH NIDARI was surprisingly lovely. With a kitchen around her, she was a much softer person than I’d seen so far. The hardness was there, too. She smacked my knuckles with a rolling pin at one point. But she relaxed as she described milking emphon teeth by hand and churning her own margarine. Her love for food shone in how she inhaled the scent of her pastries before putting them in the oven. If I hadn’t known better, I would’ve expected Nidari to be the type of woman Feng fell for, not Glayd. Which made the Feng thing all the stranger. I wondered if they knew each other.</p>
 

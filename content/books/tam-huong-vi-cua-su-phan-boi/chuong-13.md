@@ -1,6 +1,6 @@
-# MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN
+# Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
-*Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
+*MÓN CHUYỂN VỊ I KHÁCH QUANH BÀN ĂN*
 
 TRƯỚC KHI ĐỒ TỂ kịp tiếp tục, tấm màn lều được vén lên và một người đàn ông da trắng bầm dập khắp người, bị trói bằng xích sắt, bị một người lính gác vạm vỡ đẩy về phía trước. Đó là một lính khăn vàng, nếu nữ lưu trữ viên hiểu đúng ý nghĩa của chiếc khăn rằn màu vàng quấn dưới cằm rậm rạp của hắn. Nhưng đôi mắt hắn không hề phát sáng ánh vàng kim của Sức bền ma thuật.
 

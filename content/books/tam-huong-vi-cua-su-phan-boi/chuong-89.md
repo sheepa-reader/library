@@ -1,6 +1,6 @@
-# 71 Ý ĐỒ HỖN LẠN
+# Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
-*Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
+*71 Ý ĐỒ HỖN LẠN*
 
 CĂN BẾP ĐÃ không còn giữ được linh hồn như trước khi thiếu vắng Laven. Cậu ấy từng hứa danh dự với tôi rằng sẽ có mặt ở đây đúng thời khắc quyết định, và hơn bao giờ hết, tôi linh cảm thời khắc sinh tử ấy đã điểm, thế nhưng người bạn thân nhất của tôi vẫn bặt vô âm tín. Sự hỗn loạn đang bao trùm gian bếp này là thứ duy nhất thuộc về tôi để tự tay dẹp yên. Feng đang chìm sâu trong nỗi đau đớn cùng cực sau cái chết của mẹ cô. Người phụ trách chảo chiên rán của tôi thì mặt cắt không còn hạt máu vì khiếp đảm. Ngay cả một sát thủ lạnh lùng như Sincera trông cũng thoáng vẻ bất an. Tất cả bọn họ đều dồn ánh mắt về phía tôi, chờ đợi một phép màu ẩm thực để cứu vãn thành phố này. Thà để tôi thả một đàn quái thú Emphon xổng chuồng quậy phá khắp đại đô thị Ranch còn dễ chịu hơn thế này gấp mười lần.
 
