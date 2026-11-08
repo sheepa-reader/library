@@ -139,6 +139,7 @@
     fontSize: parseInt(localStorage.getItem('sheepa_reader_size') || '18', 10),
     lineHeight: parseFloat(localStorage.getItem('sheepa_reader_line_height') || '1.8'),
     maxWidth: parseInt(savedWidth || '740', 10),
+    textAlign: localStorage.getItem('sheepa_reader_text_align') || 'justify',
     dropCap: localStorage.getItem('sheepa_reader_dropcap') !== 'false',
     bilingualVisibility: localStorage.getItem('sheepa_bilingual_visibility') || 'show-all', // 'show-all' or 'tap-reveal'
     bilingualOrder: localStorage.getItem('sheepa_bilingual_order') || 've', // 've' (VI -> EN) or 'ev' (EN -> VI)
@@ -473,6 +474,13 @@
     return lockedPatterns.some(regex => regex.test(title));
   }
 
+  // Ki?m tra xem chuong co phai la L?i d? t?ng (Dedication / Epigraph) hay khong d? can gi?a ngh? thu?t
+  function isDedicationChapter(chapter) {
+    if (!chapter || !chapter.title) return false;
+    const title = chapter.title.trim().toLowerCase();
+    return /lời\s*đề\s*tặng|^đề\s*tặng|dedication|epigraph/i.test(title);
+  }
+
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
   function parseMarkdown(mdText, chapter = null, book = null) {
     if (!mdText) return '';
@@ -527,9 +535,32 @@
 
     let cleanText = cleanedLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 
+    // 3b. Xử lý các cú pháp căn giữa đa dòng (Multiline Centering)
+    cleanText = cleanText
+      // ->\n Nội dung đa dòng \n<-
+      .replace(/^->[ \t]*\n([\s\S]*?)\n[ \t]*<-[ \t]*$/gm, (m, inner) => {
+        const lines = inner.trim().split('\n').map(l => l.trim()).join('<br/>');
+        return `<div class="text-center" align="center">${lines}</div>`;
+      })
+      // :::center ... :::
+      .replace(/:::center[ \t]*\n([\s\S]*?)\n[ \t]*:::/gi, (m, inner) => {
+        const lines = inner.trim().split('\n').map(l => l.trim()).join('<br/>');
+        return `<div class="text-center" align="center">${lines}</div>`;
+      })
+      // [center] ... [/center]
+      .replace(/\[center\]([\s\S]*?)\[\/center\]/gi, (m, inner) => {
+        const lines = inner.trim().split('\n').map(l => l.trim()).join('<br/>');
+        return `<div class="text-center" align="center">${lines}</div>`;
+      })
+      // <center> ... </center>
+      .replace(/<center>([\s\S]*?)<\/center>/gi, (m, inner) => {
+        const lines = inner.trim().split('\n').map(l => l.trim()).join('<br/>');
+        return `<div class="text-center" align="center">${lines}</div>`;
+      });
+
     let html = cleanText
       // Centered shorthand: -> Text <-
-      .replace(/^->\s*(.+?)\s*<-$/gim, '<p align="center">$1</p>')
+      .replace(/^->\s*(.+?)\s*<-$/gim, '<p class="text-center" align="center">$1</p>')
       // Headers
       .replace(/^### (.*$)/gim, '<h3>$1</h3>')
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
@@ -558,6 +589,26 @@
       if (/^(?:<em>|\*|_)?\s*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)\s*(?:<\/em>|\*|_)?$/i.test(line)) {
         return '';
       }
+
+      // Giữ nguyên các thẻ đoạn song ngữ để normalizeBilingualContent xử lý đồng bộ và không bị tách đôi
+      if (/^<p\s+class="(?:para-en|para-vi-sub)"/i.test(line)) {
+        return line;
+      }
+
+      // Chuẩn hóa thẻ EPUB đặc biệt (ví dụ <p class="split-symbol"> hoặc <p class="p-name">)
+      if (line.includes('class="split-symbol"')) {
+        return line.replace(/class="split-symbol"/g, 'class="scene-break" align="center"');
+      }
+      if (line.includes('class="p-name"')) {
+        return line.replace(/class="p-name"/g, 'class="chapter-subtitle text-center" align="center"');
+      }
+
+      // Nhận diện ký hiệu ngắt cảnh / phân đoạn trong tiểu thuyết (Scene break divider: • • •, ✦ ✦ ✦, * * *, ~ ~ ~, ...)
+      const plainText = line.replace(/<[^>]+>/g, '').trim();
+      if (/^(?:[•\*\-~✦§※⁂━♦◊★☆]{1,5}(?:\s+[•\*\-~✦§※⁂━♦◊★☆]){1,5}|[•\*\-~✦§※⁂━♦◊★☆]{3,9}|[\*\s]{5,})$/.test(plainText)) {
+        return `<p class="scene-break" align="center">${plainText}</p>`;
+      }
+
       if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
         return line;
       }
@@ -567,15 +618,14 @@
 
       // Check for chapter subtitle / metadata BEFORE hitting the first narrative paragraph
       if (!foundFirstNarrative) {
-        const plainText = line.replace(/<[^>]+>/g, '').trim();
         // Regex detecting timestamp / day of week / chapter metadata
         const isDateTimePattern = /^(?:(?:Thứ\s+(?:Hai|Ba|Tư|Năm|Sáu|Bảy)|Chủ\s*nhật|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Ngày|Tháng)\b[\w\s,.:\/-]*|\d{1,2}[:h]\d{2}(?:[:\s]\d{2})?(?:\s*(?:AM|PM|am|pm|phút|giờ))?|.*(?:giờ\s*\d+\s*phút).*)$/i.test(plainText);
         const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+)/i.test(plainText) && plainText.length < 120;
-        const isItalicSubtitle = /^<em>[^<]+<\/em>$/i.test(line) && plainText.length < 150;
-        const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(line) || /^<p class="p-name">/i.test(line)) && plainText.length < 40;
+        const isItalicSubtitle = (/^<em>[^<]+<\/em>$/i.test(line) || /^\*[^*]+\*$/.test(plainText)) && plainText.length < 150;
+        const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(plainText) || /^<p class="p-name">/i.test(line)) && plainText.length < 50;
 
         if (isDateTimePattern || isPartOrCourse || isItalicSubtitle || isCharacterNamePOV) {
-          return `<p class="chapter-subtitle">${line}</p>`;
+          return `<p class="chapter-subtitle text-center" align="center">${line}</p>`;
         }
       }
 
@@ -610,6 +660,16 @@
       const enText = (en1 !== undefined ? en1 : en2).trim();
       const viText = (vi1 !== undefined ? vi1 : vi2).trim();
 
+      // Kiểm tra xem cặp đoạn có phải là ký hiệu ngắt cảnh (scene break) hay không
+      const viPlain = viText.replace(/<[^>]+>/g, '').trim();
+      const enPlain = enText.replace(/<[^>]+>/g, '').trim();
+      const isSceneDivider = (/^(?:[•\*\-~✦§※⁂━♦◊★☆\s]{3,})$/.test(viPlain) && (enPlain === '' || /^(?:[•\*\-~✦§※⁂━♦◊★☆\s]{3,})$/.test(enPlain))) || viText.includes('scene-break') || enText.includes('scene-break');
+
+      if (isSceneDivider) {
+        const symbol = viPlain || enPlain || '• • •';
+        return `\n<div class="bilingual-pair scene-break" data-pair-idx="${idx}"><p class="scene-break" align="center">${symbol}</p></div>\n`;
+      }
+
       let dropCapClass = '';
       if (!hasDropCap && !isDropCapLocked && idx === 1) {
         dropCapClass = ' has-dropcap';
@@ -641,6 +701,15 @@
     if (transformed.includes('[VI]') && transformed.includes('[EN]')) {
       transformed = transformed.replace(/\[VI\]\s*([\s\S]*?)\s*\[EN\]\s*([\s\S]*?)(?=\n\s*\[VI\]|$)/gi, (m, vi, en) => {
         idx++;
+        const viPlain = vi.replace(/<[^>]+>/g, '').trim();
+        const enPlain = en.replace(/<[^>]+>/g, '').trim();
+        const isSceneDivider = (/^(?:[•\*\-~✦§※⁂━♦◊★☆\s]{3,})$/.test(viPlain) && (enPlain === '' || /^(?:[•\*\-~✦§※⁂━♦◊★☆\s]{3,})$/.test(enPlain))) || vi.includes('scene-break') || en.includes('scene-break');
+
+        if (isSceneDivider) {
+          const symbol = viPlain || enPlain || '• • •';
+          return `\n<div class="bilingual-pair scene-break" data-pair-idx="${idx}"><p class="scene-break" align="center">${symbol}</p></div>\n`;
+        }
+
         let dropCapClass = '';
         if (!hasDropCap && !isDropCapLocked && idx === 1) {
           dropCapClass = ' has-dropcap';
@@ -1447,9 +1516,10 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
-          <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''} ${isBilingualActive ? 'has-bilingual-pairs' : ''}" 
+          <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''} ${isDedicationChapter(chapter) ? 'is-dedication' : ''} ${isBilingualActive ? 'has-bilingual-pairs' : ''}" 
                    id="reader-body" 
                    data-reader-mode="${currentMode}" 
+                   data-text-align="${readerSettings.textAlign}" 
                    data-en-visibility="${readerSettings.bilingualVisibility}" 
                    data-bilingual-order="${readerSettings.bilingualOrder}" 
                    style="font-family: var(--font-${readerSettings.fontFamily}); font-size: ${readerSettings.fontSize}px; line-height: ${readerSettings.lineHeight};">
@@ -1542,6 +1612,13 @@
               <button class="btn-group-item" id="width-dec-btn" title="Thu hẹp khung đọc">↔ -</button>
               <span style="padding: 0.35rem 0.6rem; font-size: 0.82rem; font-weight: 600;" id="width-label">${readerSettings.maxWidth}px</span>
               <button class="btn-group-item" id="width-inc-btn" title="Mở rộng khung đọc">↔ +</button>
+            </div>
+          </div>
+          <div class="setting-row">
+            <span>Căn lề chữ:</span>
+            <div class="btn-group">
+              <button class="btn-group-item ${readerSettings.textAlign === 'justify' ? 'active' : ''}" id="align-justify-btn" title="Căn đều hai bên (chuẩn sách in)">Căn đều</button>
+              <button class="btn-group-item ${readerSettings.textAlign === 'left' ? 'active' : ''}" id="align-left-btn" title="Căn lề trái (tự nhiên, không dãn chữ)">Căn trái</button>
             </div>
           </div>
           <div class="setting-row">
@@ -1804,6 +1881,26 @@
           if (readerContainer) readerContainer.style.maxWidth = `${readerSettings.maxWidth}px`;
           widthLabel.textContent = `${readerSettings.maxWidth}px`;
         }
+      });
+    }
+
+    // Alignment Controls (Căn đều vs Căn trái)
+    const alignJustifyBtn = document.getElementById('align-justify-btn');
+    const alignLeftBtn = document.getElementById('align-left-btn');
+    if (alignJustifyBtn && alignLeftBtn && readerBody) {
+      alignJustifyBtn.addEventListener('click', () => {
+        readerSettings.textAlign = 'justify';
+        localStorage.setItem('sheepa_reader_text_align', 'justify');
+        alignJustifyBtn.classList.add('active');
+        alignLeftBtn.classList.remove('active');
+        readerBody.setAttribute('data-text-align', 'justify');
+      });
+      alignLeftBtn.addEventListener('click', () => {
+        readerSettings.textAlign = 'left';
+        localStorage.setItem('sheepa_reader_text_align', 'left');
+        alignLeftBtn.classList.add('active');
+        alignJustifyBtn.classList.remove('active');
+        readerBody.setAttribute('data-text-align', 'left');
       });
     }
 

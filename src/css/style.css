@@ -1724,12 +1724,26 @@ button {
 
 /* Reader Content Markdown Styles */
 .reader-content h1 {
-  font-size: 2rem;
+  font-size: 2.15rem;
   font-weight: 800;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
+  text-align: center !important;
+  margin-top: 1rem;
   margin-bottom: 1.75rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.85rem;
+  position: relative;
+  border-bottom: none;
+}
+
+.reader-content h1::after {
+  content: "";
+  display: block;
+  width: 64px;
+  height: 2px;
+  background: var(--primary-accent);
+  margin: 0.9rem auto 0;
+  border-radius: 2px;
+  opacity: 0.65;
 }
 
 .reader-content h2 {
@@ -1742,18 +1756,59 @@ button {
 .reader-content p {
   margin-bottom: 1.35rem;
   text-align: justify;
+  text-justify: inter-word;
   line-height: inherit;
+}
+
+/* Reader Alignment Setting (Căn đều vs Căn trái) */
+.reader-content[data-text-align="justify"] p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.reader-content[data-text-align="left"] p {
+  text-align: left;
 }
 
 .reader-content .chapter-subtitle {
   font-style: italic;
   color: var(--text-secondary);
-  font-size: 1.05rem;
-  margin-top: -0.75rem;
-  margin-bottom: 1.75rem;
-  font-weight: 500;
-  opacity: 0.9;
-  text-align: left;
+  font-size: 1.08rem;
+  margin-top: -0.65rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  opacity: 0.92;
+  text-align: center !important;
+}
+
+/* Scene break divider (• • •, ✦ ✦ ✦, * * *) */
+.reader-content .scene-break,
+.reader-content p.scene-break {
+  text-align: center !important;
+  letter-spacing: 0.45em;
+  margin: 2.25rem auto !important;
+  font-size: 1.15rem;
+  color: var(--text-muted);
+  user-select: none;
+  font-weight: 600;
+}
+
+/* Trang Lời đề tặng (Dedication / Epigraph) */
+.reader-content.is-dedication {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 40vh;
+}
+
+.reader-content.is-dedication p {
+  text-align: center !important;
+  font-style: italic;
+  font-size: 1.12em;
+  max-width: 82%;
+  margin: 1.25rem auto !important;
+  line-height: 1.9;
+  color: var(--text-secondary);
 }
 
 /* --- TEXT ALIGNMENT IN READER & MARKDOWN --- */
@@ -1763,7 +1818,15 @@ button {
 .reader-content h2[align="center"],
 .reader-content h3[align="center"],
 .reader-content center,
-.reader-content .text-center {
+.reader-content .text-center,
+.reader-content .scene-break,
+.reader-content p.scene-break,
+.reader-content .chapter-subtitle,
+.reader-content.is-dedication p,
+.bilingual-pair.scene-break,
+.bilingual-pair.scene-break .scene-break,
+.bilingual-vi-content.text-center,
+.bilingual-en-content.text-center {
   text-align: center !important;
   margin-left: auto;
   margin-right: auto;
@@ -2583,6 +2646,35 @@ button {
   text-align: justify;
   line-height: inherit;
   word-break: break-word;
+}
+
+.reader-content[data-text-align="justify"] .bilingual-vi-content,
+.reader-content[data-text-align="justify"] .bilingual-en-content {
+  text-align: justify;
+}
+
+.reader-content[data-text-align="left"] .bilingual-vi-content,
+.reader-content[data-text-align="left"] .bilingual-en-content {
+  text-align: left;
+}
+
+.bilingual-pair.scene-break {
+  margin: 2.25rem auto !important;
+  text-align: center !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+.bilingual-pair.scene-break .bilingual-block,
+.bilingual-pair.scene-break .bilingual-vi-content,
+.bilingual-pair.scene-break .bilingual-en-content {
+  text-align: center !important;
+  border-left: none !important;
+  padding-left: 0 !important;
+}
+
+.bilingual-pair.scene-break .bilingual-toggle-pill {
+  display: none !important;
 }
 
 /* --- Toggle Pill for "Chạm để mở" Mode --- */
