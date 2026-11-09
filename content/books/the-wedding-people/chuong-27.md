@@ -2,7 +2,7 @@
 
 # Chương 24
 
-Buổi sáng, Marla đang ở trong phòng kính trồng cây. Cô tuyên bố sẽ không rời đi cho đến khi gặp được Gary. Còn trong lúc chờ đợi, vâng, cô chắc chắn sẽ càn quét bàn tiệc trưa cưới.
+Buổi sáng, Marla đang ở trong phòng kính trồng cây. Cô tuyên bố sẽ không rời đi cho đến khi gặp được Gary. Còn trong lúc chờ đợi, vâng, cô chắc chắn sẽ càn quét bàn tiệc trưa đám cưới.
 
 “Carlson là người bày đồ ăn ra đấy chứ bộ,” Marla nói.
 

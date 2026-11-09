@@ -6,7 +6,7 @@
 
 <p class="para-en">In the morning, Marla is in the conservatory. She says she is not leaving until she sees Gary. In the meantime, yes, she is absolutely going to eat the wedding brunch.</p>
 
-<p class="para-vi-sub">Buổi sáng, Marla đang ở trong phòng kính trồng cây. Cô tuyên bố sẽ không rời đi cho đến khi gặp được Gary. Còn trong lúc chờ đợi, vâng, cô chắc chắn sẽ càn quét bàn tiệc trưa cưới.</p>
+<p class="para-vi-sub">Buổi sáng, Marla đang ở trong phòng kính trồng cây. Cô tuyên bố sẽ không rời đi cho đến khi gặp được Gary. Còn trong lúc chờ đợi, vâng, cô chắc chắn sẽ càn quét bàn tiệc trưa đám cưới.</p>
 
 <p class="para-en">“Carlson is the one who put it out,” Marla says.</p>
 
