@@ -1,0 +1,131 @@
+# Chương Tám
+
+Đừng bao giờ để một lịch trình cứng nhắc làm nhụt chí bạn trước một cuộc phiêu lưu bất ngờ.
+
+ 
+
+*Cẩm nang Tháp Babel cho Mọi người*, III. II
+
+ 
+
+Bất chấp những lời ngâm vịnh kỳ bí của kẻ dẫn đường và niềm hứng khởi của Pining, Senlin vẫn đinh ninh rằng nơi đây sẽ bày biện những hàng ghế bọc nhung, một sân khấu, khung tiền sảnh và tấm màn nhung. Nói tóm lại, anh chờ đợi một nhà hát.
+
+ 
+
+Thế nhưng, anh lại thấy mình đang đứng trước ngưỡng cửa của một gian sảnh lát gạch trắng, gợi cho anh nhớ đến phòng thay đồ tại ngôi trường nội trú mà anh từng theo học từ thuở xa xưa. Những chiếc băng ghế và buồng thay đồ bằng gỗ tuyết tùng chạy dài suốt chiều dài căn phòng. Hàng chục nhân viên với vẻ mặt vô cảm trong bộ đồng phục trắng đang rảo bước, đẩy những dãy giá treo âu phục, mang theo những chồng khăn tắm, và đẩy các thùng mây đựng đầy giày được đánh bóng. Khác với kẻ dẫn đường mà anh vừa trả tiền, những bộ âu phục của đám người này vương vấn vẻ xộc xệch của lao động chân tay. Không khí đặc quánh hơi nước cùng mùi hương nồng nặc của nước hoa, xà phòng và dầu chải tóc. Anh nhận ra không gian này thực chất là gì. Đó chính là hậu đài. Anh đang ở hậu đài. Nhưng còn sân khấu thì ở đâu? Và ai đang đứng trên đó?
+
+ 
+
+Senlin được tiếp nhận bởi một nhân viên tay cầm một chiếc khăn trắng được xếp gọn gàng, bên trên đặt một bánh xà phòng màu hồng vuông vức. Nhân viên của anh có mái tóc chải chuốt màu đá và đôi má hóp được cạo sạch sẽ đến mức ửng hồng. Ngoài ra, anh ta toát lên vẻ lịch sự chẳng khác gì một tay bán mồi câu. Senlin hơi hoảng hốt khi phát hiện ra gã đàn ông này có mang theo vũ khí. Một khẩu súng lục đơn lệnh giắt bên hông hắn. Liếc nhanh những nhân viên khác trong phòng, anh nhận ra phần lớn bọn họ đều mang vũ khí. Vốn không quen với việc súng ống được trưng bày công khai, Senlin coi đó là dấu hiệu cho thấy anh đang bước vào một khu vực tuân thủ pháp luật nghiêm ngặt hơn của Tháp.
+
+ 
+
+Senlin dành cho người nhân viên chưa kịp đánh bóng giày của mình một nụ cười thân thiện. Hắn chẳng màng dẫn đường mà thay vào đó là xô đẩy Senlin về phía một buồng tắm đang mở trống.
+
+ 
+
+Bất chấp nỗi lo lắng, Senlin vẫn tận hưởng luồng nước nóng phả ra từ vòi sen cùng bánh xà phòng thô ráp mang hương gỗ đàn hương. Có lẽ đây là chút xa hoa đích thực đầu tiên mà Tháp ban tặng cho anh. Anh đã có thể đứng nán lại dưới làn nước phun bốc hơi lâu hơn nếu người nhân viên cộc cằn không đánh thức anh dậy.
+
+ 
+
+Người nhân viên dùng thước dây của thợ may để đo đạc người Senlin trong lúc anh chỉ quấn mỗi chiếc khăn tắm, rồi rời đi và nhanh chóng quay lại với một bộ quần áo thay thế gồm áo đuôi tôm của quản gia và chiếc cổ áo cứng bằng tinh bột trắng. Cả hai món đều vừa vặn, nhưng chẳng món nào tôn lên được vóc dáng cao lêu khêu của Senlin. Anh trông thật gượng gạo trong vai một quản gia. Chiếc nơ đỏ trông thật kệu cỡn đến mức Senlin tháo phăng nó ra ngay lập tức. Tuy nhiên, người nhân viên nhanh chóng nhặt chiếc nơ bị vứt bỏ lên và nhét nó trở lại cổ Senlin một cách không mấy dịu dàng.
+
+ 
+
+“Không được tự ý thay đổi trang phục, thưa ngài,” nhân viên phục vụ có mái tóc hoa râm cất lời. “Hãy xem các quy tắc trong cuốn chương trình của ngài.” Dần dần, ý nghĩa trọn vẹn từ lời của kẻ dẫn đường mới thấm sâu vào tâm trí anh. Anh vừa là diễn viên vừa là khán giả. Đây không phải là kịch nghệ. Đây là một trò hề. Đây chỉ là trò chơi giả vờ của trẻ con. Dĩ nhiên chẳng có khán giả thực sự nào cả. Ai lại muốn xem cơ chứ?
+
+ 
+
+Nhân viên phục vụ chỉ dẫn Senlin cất quần áo và vật có giá trị vào chiếc túi xách của mình, và anh làm theo với nỗi hoài nghi ngập tràn. Anh căm ghét ý định phải rời xa tiền bạc, vé tàu và cuốn cẩm nang du lịch của mình, nhưng xem ra anh chẳng còn sự lựa chọn nào khác. Việc quá trình này được vận hành vô cùng hiệu quả và có tính bảo mật cao phần nào mang lại cho anh đôi chút hy vọng. Hơn nữa, có vẻ như anh không phải là người duy nhất giấu tiền trong giày của mình, vậy thì chúng có thể an toàn đến mức nào cơ chứ?
+
+ 
+
+Chiếc túi xách của anh sau đó bị khóa kín bên trong một chiếc tủ sắt có bánh xe nặng nề, cùng với tư trang của những người đàn ông khác, những người dường như vô cùng thoải mái khi từ bỏ tài sản của họ. Và tại sao lại không chứ? Chẳng ai ngồi trong rạp hát lại lo lắng rằng chiếc áo khoác của mình bị đánh cắp khỏi phòng gửi đồ cả. Những người đàn ông này đến đây để trốn chạy, để vui đùa, để diễn xuất! Họ bông đùa, cười khúc khích và cư xử chẳng khác nào những nam sinh, dẫu cho phần lớn tóc của họ đã ngả màu hoa râm hoặc đã rụng gần hết. Những người trẻ tuổi hơn cũng có mặt, nhưng họ thường hơi béo, hoặc vụng về, hoặc kém thu hút. Có vẻ như những người đàn ông thiếu đi một khí chất nhất định sẽ được những kẻ dẫn đường chọn để đóng vai quản gia. Thật là phù hợp làm sao, anh cay đắng nghĩ, khi bản thân lại ở chung một giuộc với họ.
+
+ 
+
+Trong khi được nhân viên phục vụ chỉnh trang và chải chuốt, Senlin đọc cuốn chương trình mà anh vừa nhận được. Cuốn chương trình phác thảo cốt truyện mà họ sẽ cùng nhau tô vẽ thêm. Khúc hoan ca diễn ra trong một biệt thự, vì vậy bối cảnh trải rộng qua nhiều căn phòng bao gồm một phòng ăn, một phòng làm việc, nhà bếp và hàng chục không gian sinh hoạt khác. Chỉ có bốn nhân vật trong Khúc hoan ca gồm một cặp vợ chồng giàu có tên là Kerrick và Alice Mayfair, một thanh niên học việc kinh doanh tên là Oscar Shaw, và Isaac, người quản gia, chính là vai diễn của anh trong Khúc hoan ca hề này.
+
+ 
+
+Các diễn viên được kỳ vọng sẽ ứng khẩu lời thoại xoay quanh cốt truyện đã được cung cấp sẵn. Câu chuyện vốn dĩ khá sáo rỗng. Người chồng, ông Mayfair, bị cuốn vào những công việc kinh doanh của mình. Ông coi đối tác trẻ tuổi, cậu Shaw, như đứa con trai mà ông chưa từng có và dành phần lớn thời gian để uốn nắn cậu ta cho thương trường. Trong khi đó, bà Mayfair, cảm thấy bị người chồng ghẻ lạnh, đã bắt đầu tán tỉnh cậu Shaw. Cậu Shaw buộc phải lựa chọn giữa tương lai của một thương gia và những tình cảm đang chớm nở dành cho bà Shaw, một người phụ nữ xinh đẹp nhưng không hoàn hảo với nhiều tâm trạng thất thường.
+
+ 
+
+---
+
+ 
+
+Senlin cảm thấy vô cùng chán nản khi phát hiện ra rằng Isaac, người quản gia, cuối cùng sẽ phải đứng trước lựa chọn: hoặc dung túng cho người tình thất thường trong hành động thiếu suy nghĩ của cô ta, hoặc tiết lộ mối tình tiềm tàng ấy cho ông chủ của mình, ngài Mayfair. Đó thực sự là một cơn ác mộng. Cốt truyện ấy chẳng khác nào những Khúc hoan ca gia đình rẻ tiền mà anh vẫn thường khuyên các học trò của mình không nên đọc. Tầng ý nghĩa ẩn giấu quá đỗi hiển nhiên: Tình yêu, thuần khiết và vĩnh cửu, trị vì tối cao. Senlin không hề tin vào thứ tình yêu kiểu đó: thứ tình yêu bộc phát, ích kỷ và không bao giờ thỏa mãn. Tình yêu, qua ngòi bút thường thấy của các thi nhân, kỳ thực chỉ là cặn bã của dục vọng khoác lên mình chiếc áo choàng khoa trương. Anh tin rằng tình yêu đích thực giống như một quá trình tu dưỡng hơn: sâu sắc, tinh tế và không bao giờ trọn vẹn.
+
+ 
+
+Người dẫn đường nắm chặt lấy vai Senlin bằng một bàn tay chai sạn, kéo anh khỏi cơn bực bội, rồi dẫn anh qua phía bên kia của phòng thay đồ để bước vào một hành lang được trải thảm lộng lẫy. Lối đi trước mặt anh gợi nhắc đến không gian xa hoa trong một khách sạn lớn. Những cánh cửa sơn trắng được bố trí đều đặn ở hai bên hành lang, dẫu rằng, không giống bất kỳ khách sạn nào anh từng đặt chân tới, hành lang này hoàn toàn không có những góc cua. Thay vào đó, nó cứ kéo dài mãi cho đến khi uốn cong dần khuất tầm mắt. Lối đi chật kín hàng trăm người đàn ông với đủ mọi vóc dáng, nhưng tất cả đều khoác lên mình bộ đồ đuôi tôm màu đen và chiếc cổ áo cứng giòn hệt như Senlin đang mặc. Sự đồng bộ đến nhàm chán của chiếc nơ đỏ cứ cọ xát vào cổ khiến anh không những chẳng thấy mình bớt nổi bật hơn, mà trái lại càng trở nên nực cười.
+
+ 
+
+Tựa hồ như anh vừa bước vào giữa hai chiếc gương để rồi ngắm nhìn chính mình bị nhân đôi, nhân ba đến vô tận trong một không gian mờ mịt dần. Cảnh tượng ấy khiến anh thấy chóng mặt.
+
+ 
+
+Người phục vụ với thái độ cộc cằn trao cho anh một chiếc chìa khóa và bảo rằng, “Hãy tìm một cánh cửa chưa khóa trong hành lang này. Nếu nó mở, Khúc hoan ca diễn ra bên trong vẫn đang cần người thủ vai quản gia Isaac. Những diễn viên khác có thể đã bắt đầu Khúc hoan ca rồi. Hãy khóa cửa lại ngay sau khi bước vào. Chiếc chìa khóa của anh sẽ mở được tất cả các cửa bên trong không đánh dấu và cả cánh cửa mà anh vừa dùng để vào đây. Nếu anh đi ra hành lang, anh sẽ không thể quay lại Khúc hoan ca nữa. Nếu anh thoát ra qua cửa của nhân vật khác, anh sẽ bị trục xuất khỏi Phòng Khách. Anh còn câu hỏi nào không?”
+
+ 
+
+Hơi sững sờ, nhưng nhận thấy bản thân không ở vị thế thích hợp để tra hỏi người hướng dẫn vốn chẳng có vẻ gì muốn trả lời, Senlin chỉ lắc đầu.
+
+ 
+
+“Chúc anh tận hưởng buổi biểu diễn.”
+
+ 
+
+*Vượt qua Phòng Khách. Tiến tới Khu Nhà Tắm. Cô sẽ ở đó*, Senlin tự nhủ lần nữa.
+
+ 
+
+Anh cảm thấy cổ họng mình thắt lại quen thuộc, các đầu ngón tay nhói đau, và tầm nhìn thu hẹp lại như ống nhòm, dấu hiệu báo trước một cơn hoảng loạn sắp sửa ập đến. Có quá nhiều người chen chúc trong hành lang chật chội. Anh buộc phải trốn chạy. Anh luồn lách qua đám đông những người quản gia đang tụ tập bàn tán, chẳng một ai trong số họ tỏ ra vội vã đi tìm một cánh cửa trống. Xét cho cùng, đây chính là cuộc phiêu lưu nghỉ dưỡng của họ! Họ thử nghiệm những giọng điệu kịch nghệ và các động tác trên sân khấu; họ lớn tiếng tranh cãi xem mình sẽ đứng về phe nào một khi Khúc hoan ca bắt đầu. Tình yêu phải chiến thắng! Không, hôn nhân là một điều thiêng liêng!
+
+ 
+
+Anh chỉ muốn thét lên.
+
+ 
+
+Ý nghĩ phải xông vào một căn phòng xa lạ nào đó khiến anh chùng lòng, nhưng điều đó vẫn chưa đáng sợ bằng hành lang đầy những người quản gia kia. Anh thử đại một cánh cửa ngẫu nhiên và nhận ra nó đã bị khóa. Anh vặn thử một cánh cửa khác; nó cũng từ chối anh. Cánh cửa tiếp theo chẳng khá khẩm hơn. Lòng bàn tay đẫm mồ hôi biến thành một lớp dầu trơn trượt, và những núm vặn cửa bắt đầu trượt khỏi tay anh. Sự hoảng loạn trong lòng càng gia tăng theo mỗi lần bị từ chối. Trong một khoảnh khắc, anh đứng tách ra khỏi thể xác mình, lặng nhìn gã khờ gầy gò, cuồng loạn này đang cố vặn hết tay nắm cửa này đến tay nắm cửa khác.
+
+ 
+
+Những bản sao của anh lầm bầm cằn nhằn và nguẩy cằm nhìn anh khi anh lách qua. Anh va vào họ, đập người vào tấm ốp tường và lớp giấy dán tường dát vàng mà chẳng thèm nói một lời xin lỗi. Anh không thể kiềm chế được nữa. Anh đang bị đẩy đến bờ vực phát điên, không chỉ bởi những cơn co thắt lo âu quen thuộc, mà còn bởi ý nghĩ rằng Marya có thể đang ở sau bất kỳ cánh cửa nào trong số này, đang diễn một Khúc hoan ca mà ở đó cô vừa là vợ của người này vừa là tình nhân của kẻ khác. Anh nắm lấy tay nắm cửa tiếp theo với một lực mạnh mẽ tựa hồ muốn bóp nát nó.
+
+ 
+
+Nó quay tròn. Anh lao thẳng vào trong và nhanh chóng khóa cửa lại đằng sau. Sự tĩnh lặng thật tuyệt vời.
+
+ 
+
+Anh đứng ngay ngưỡng cửa của một gian bếp. Tựa như anh vừa bước qua cửa sau nhà của một ai đó. Những khúc củi chẻ được xếp thành hình chóp ngay ngắn bên cạnh chiếc lò sưởi bụng phệ. Những chiếc túi lưới đựng đầy bầu bí và hành tây treo lủng lẳng từ những thanh xà nhà vuông vức lộ ra phía trên. Những hũ mứt thủy tinh ánh lên rực rỡ dưới thứ ánh sáng phát ra từ ngọn đèn dầu không có chụp. Ngọn đèn ấy đồng thời rọi sáng một núm đồng kỳ lạ được gắn ở vị trí cao trên tường. Senlin nhanh chóng bị phân tâm khỏi chi tiết kỳ lạ đó bởi món thịt giăm bông. Miếng giăm bông, được đính những quả anh đào đỏ thắm, nằm trên một chiếc đĩa chạm trổ cầu kỳ đặt trên bàn của người hầu. Hương thơm của khói gỗ, đinh hương, thịt heo và gang được nung nóng lan tỏa khắp bầu không khí. Nó mang lại cảm giác vô cùng dễ chịu. Và bình yên. Anh hầu như không thể tin rằng mình vẫn đang ở trong Tháp Babel.
+
+ 
+
+Hắn thêm củi vào lò rồi châm đầy nước vào chiếc ấm gang từ một vòi nước màu xanh chắc chắn. Đó là một hành động theo thói quen; nước ở ngôi nhà nhỏ của hắn quê nhà lúc nào cũng sôi sục, sẵn sàng cho một tách trà bất cứ lúc nào. Những ống dẫn nước ục ặc và ho hắng như một cụ già mắc bệnh hen suyễn. Công việc gia đình quen thuộc ấy mang lại cho hắn sự an ủi. Những vết mỡ bắn trên bếp khiến hắn liên tưởng đến bữa sáng: bánh nướng chảo, táo hầm, và những con cá trích béo ngậy đang xèo xèo trong chảo. Hắn đang đói. Không, hắn không chỉ đói; hắn đói ngấu nghiến. Hắn vứt bỏ mọi phép lịch sự, giật lấy một miếng vỏ bọc mỡ dày từ chiếc giăm bông bằng đồng. Ăn dải thịt ấy trong một miếng thô thiển, hắn quay lại lấy miếng thứ hai, rồi miếng thứ ba. Hắn nhai, thở hổn hển rồi lại nhai. Hắn nhồi nhét bản thân, đứng sững trên chiếc giăm bông như một con kền kền, hạnh phúc biết bao khi được ở một mình. Miếng thịt muối làm đôi môi hắn cay xót, vốn đã nứt nẻ vì khát. Hắn lấy một tách trà từ chiếc móc treo và hứng nước từ vòi, uống và rên rỉ trong sự nhẹ nhõm. Khi đã nuốt ngấu nghiến hết mức có thể, hắn gói thêm vài miếng nữa vào một chiếc khăn ăn bằng vải rồi nhét gói quà vào túi áo.
+
+ 
+
+Chiếc tách trà bằng sứ trong tay đã thu hút sự chú ý của hắn, mặc dù phải mất một lúc hắn mới nhận ra lý do. Vành tách được vẽ một vòng hoa cúc dại mộc mạc. Chỉ vài tháng trước, Marya, trong quá trình hòa hợp hai ngôi nhà của họ, đã mở một chiếc thùng đầy rơm đựng đồ sứ vẽ họa tiết tương tự. Bộ đồ ăn của cô là một vật gia bảo, món quà được truyền lại từ người bà trong ngày cưới của họ. Vào thời điểm đó, Senlin nhận thấy bộ đồ ăn của cô thiếu vài món, và vì mong muốn làm cô vui lòng cũng như thích sự trọn vẹn, hắn đã đề nghị tìm mua những món thay thế.
+
+ 
+
+Marya đã cảm ơn hắn và kéo cổ áo hắn xuống để trao một nụ hôn dịu dàng lên vẻ mặt nghiêm nghị ấy. (Bây giờ hắn tự hỏi: Liệu hắn có luôn cau mày, ngay cả khi họ ở một mình?)
+
+ 
+
+“Những chỗ trống cũng là một phần của bộ đồ ăn đấy chứ,” cô đã nói. “Anh không thể thay thế chúng đâu. Em biết rõ từng chiếc đĩa đã bị vỡ hoặc mất như thế nào. Em đã tự tay làm vỡ một chiếc đĩa khi mới lên chín. Giờ đây, em là một phần bất biến của họa tiết ấy. Em sẽ giữ lại những khoảng trống của mình, cảm ơn anh nhé.” Cô nháy mắt và đẩy lưỡi vào sau môi trên. Đó là biểu cảm cô thỉnh thoảng vẫn làm trên lớp học từ nhiều năm trước, và việc nhớ lại điều đó khiến hắn mỉm cười trìu mến.
+
+ 
+
+Không, hắn không phải lúc nào cũng cau mày.
+
+ 
+
+Senlin rũ người ngồi xuống chiếc ghế trong căn bếp giả ấm áp và vùi mặt vào hai bàn tay.

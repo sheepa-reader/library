@@ -5450,5 +5450,344 @@
       "Đề cử giải thưởng RUSA CODE"
     ],
     "noDropcap": true
+  },
+  {
+    "id": "senlin-vuot-thap",
+    "title": "Senlin: Vượt Tháp",
+    "originalTitle": "Senlin Ascends",
+    "series": "Biên Niên Sử Tháp Babel",
+    "volume": "Tập 1",
+    "author": "Josiah Bancroft",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Khoa học viễn tưởng • Hành động",
+    "tags": [
+      "Khoa học viễn tưởng",
+      "Hành động"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/senlin-vuot-thap/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Thomas Senlin, một hiệu trưởng trường làng bảo thủ, mực thước và tôn sùng sách vở, quyết định đưa người vợ mới cưới Marya đến kỳ quan vĩ đại nhất thế giới – Tháp Babel – để hưởng tuần trăng mật. Tuy nhiên, chỉ vừa đặt chân đến khu chợ dưới chân tháp, biển người hỗn loạn và cạm bẫy đã khiến hai vợ chồng lạc mất nhau. Ôm cuốn cẩm nang du lịch đã lỗi thời và niềm tin ngây thơ, Senlin buộc phải bước vào hành trình leo qua từng \"Lãnh Địa Vành Đai\" kỳ dị, suy đồi và đầy rẫy hiểm nguy bên trong tòa tháp. Mỗi tầng tháp là một xã hội thu nhỏ với luật lệ tàn nhẫn riêng biệt, từ những nhà tắm hoang lạc cho đến nhà hát điên loạn. Để sinh tồn và tìm lại người phụ nữ mình yêu, người trí thức quê mùa ấy buộc phải cởi bỏ lớp vỏ bọc đạo mạo để từng bước chuyển mình giữa vòng xoáy dối lừa.",
+    "downloads": {
+      "epub": "content/downloads/senlin-vuot-thap.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Về tác giả",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Giới thiệu",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương Bốn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Năm",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương Sáu",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương Bảy",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương Tám",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương Chín",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương Mười",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương Mười Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương Mười Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương Mười Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương Mười Bốn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương Mười Lăm",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương Bốn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương Năm",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương Sáu",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương Bảy",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương Tám",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương Chín",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương Mười",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương Mười Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương Mười Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương Mười Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương Bốn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương Năm",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương Sáu",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương Bảy",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương Tám",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương Chín",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương Mười",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương Mười Một",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương Mười Hai",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương Mười Ba",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương Mười Bốn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương Mười Lăm",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương Mười Sáu",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương Mười Bảy",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Đoạn kết",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Phỏng Vấn",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-49.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-50",
+        "title": "LỜI KHEN DÀNH CHO “SENLIN: VƯỢT THÁP”",
+        "part": "",
+        "path": "content/books/senlin-vuot-thap/chuong-50.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-09",
+    "rating": {
+      "score": 4.1,
+      "count": "35.5k"
+    },
+    "awards": [
+      "Giải thưởng Bookworm Best cho Tác phẩm đầu tay xuất sắc nhất",
+      "Đề cử Giải thưởng Goodreads Choice ở hạng mục Kỳ ảo"
+    ]
   }
 ]

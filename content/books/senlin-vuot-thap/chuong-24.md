@@ -1,0 +1,191 @@
+# Chương Bảy
+
+Chính trị trong Tháp Babel cũng giống như chuyện làm vườn, giống như những người hàng xóm cãi vã xem ai mới là chủ nhân của cây mận. Bạn có thể nhận ra những dòng chảy ngầm của sự kình địch và thù hằn, dẫu chẳng có điều gì là quá nghiêm trọng. Dù vậy, tốt nhất vẫn là giữ một quan điểm uyển chuyển trong các vấn đề quản trị địa phương.
+
+ 
+
+*Cẩm nang Tháp Babel cho Mọi người*, I. XIV
+
+ 
+
+Họ hòa vào dòng khách đang tiến qua cánh cửa cao bằng cả thân cây sồi, nơi các quản gia mặc áo yếm trắng và áo đuôi tôm đen túc trực. Thomas Senlin thấy bộ đồng phục của họ sao mà quen thuộc đến thế.
+
+ 
+
+Tiền sảnh trải rộng xung quanh họ như vách của một hẻm núi lớn. Khách khứa vứt áo choàng và áo khoác lên người các quản gia, những kẻ gần như biến mất dưới những đống vải dày đặc. Những chùm đèn chùm bằng pha lê rực rỡ phủ lên tất cả mọi người một thứ ánh sáng hào quang, vừa đẹp đẽ vừa gây cảm giác bất an. Anh đã từng đọc đôi chút về điện năng, thậm chí từng thấy vài mô hình máy phát điện thô sơ, tóe ra những tia lửa ngắn ngủn như sợi lông mi, nhưng anh chưa bao giờ thấy và khó lòng tưởng tượng nổi điện lại được sử dụng với trữ lượng dồi dào đến thế.
+
+ 
+
+Những bức tường cao của phòng đại sảnh được ốp chặt kín các tác phẩm nghệ thuật; những chiếc khung mạ vàng bắt đầu từ phần ốp chân tường cho đến tận sát trần nhà. Cách bài trí salon này tuy đông đúc nhưng vẫn mang đậm dấu ấn của một nhà curat chuyên nghiệp. Quả thực, sảnh đường trông giống một cánh của viện bảo tàng trưng bày đầy ắp hiện vật hơn là lối vào của một dinh thự. Và nếu xét về bảo tàng, nơi đây còn lộng lẫy hơn bất cứ chốn hoành tráng nào mà anh từng đặt chân tới.
+
+ 
+
+Đứng rải rác dọc theo bức tường là các nhân viên hải quan trông như những pho tượng lính chì, vô cảm và nghiêm nghị, mỗi người cầm dây xích dắt một con chó nhỏ không lông. Đám đông thưa dần ở khu vực này, bởi khách khứa đều cẩn trọng né xa những con chó cảnh giác đó một khoảng an toàn. Giống loài này có kích thước và hình dáng giống chó sục nhất, chỉ có điều làn da hồng hào trần trụi của chúng xếp nếp và chảy xệ một cách quái dị ở phần má và hông. Ogier đã giải thích từ tối hôm trước rằng những con chó này dùng để sàng lọc khách khứa trước khi họ được phép bước vào bầu không khí của vị cao ủy.
+
+ 
+
+Chứng dị ứng của vị cao ủy nổi tiếng là kinh hoàng. Gã nhạy cảm đến mức chỉ một bông hoa cài áo trong một căn phòng chung cũng đủ khiến gã lên cơn hắt xì và khò khè. Nếu lũ chó phát hiện ra bất kỳ chút hương thơm, nước hoa, phấn hoa, hay bất kỳ chất ô nhiễm nào khác, chúng sẽ gầm gừ và chồm lên cắn kẻ phạm luật, kẻ đó sẽ bị lôi cổ ra khỏi cửa một cách phũ phàng và vĩnh viễn không được mời trở lại. Đó chính là số phận của Ogier. Da thịt và quần áo của gã đã nhiễm đẫm mùi hương từ việc sống ngay bên trên một cửa hàng nước hoa. Gã không được phép bén mảng đến trong bán kính một trăm thước tính từ vị cao ủy.
+
+ 
+
+Thomas Senlin và John Tarrou đã cọ rửa thật kỹ lưỡng bản thân lẫn trang phục để chuẩn bị cho buổi tối này. Mặc dù, như Ogier đã đảm bảo, việc không có mùi thơm không phải là sự đảm bảo chắc chắn cho một lối đi an toàn. Vị cao ủy nổi tiếng hay giả vờ lên cơn dị ứng mỗi khi cảm thấy khó chịu vì một kẻ nào đó xuất hiện trong vòng vây của mình. Gã sẽ viện cớ rằng có một thứ mùi nào đó, thoang thoảng đến mức ngay cả lũ chó cũng không ngửi thấy, đang làm ngứa ngáy chiếc mũi của gã. Vị cao ủy rất tự hào về sự nhạy cảm của mình. Chính điều này đã khơi nguồn cho âm mưu của Thomas Senlin từ những bước đầu tiên.
+
+ 
+
+Nhịp độ di chuyển chậm chạp của đoàn người, cùng những cú huých cùi chỏ và va quệt vai liên tục diễn ra, đã thúc giục Thomas Senlin tìm kiếm sự cứu rỗi trong việc quan sát và nghiên cứu. Anh rảo mắt ngắm nhìn các tác phẩm nghệ thuật mà họ đang lướt qua, tất cả đều được niêm phong dưới lớp kính để ngăn sơn bay hơi vào bầu không khí của vị cao ủy. Mọi trường phái và đề tài đều góp mặt trong bộ sưu tập này. Thomas Senlin nhận ra không ít họa sĩ từ những bài giảng nghệ thuật sơ khai mà anh vẫn thường dạy học trò của mình.
+
+ 
+
+Phía sau sảnh đường, một chiếc cầu thang rộng uốn lượn dẫn lên một phòng khiêu vũ khổng lồ. Ánh chói lọi từ những chùm đèn pha lê hình giọt nước khiến những cột trụ và sàn nhà bằng cẩm thạch hồng rực lên như một vòng quay ngựa gỗ. Những dải băng lụa màu đen, in nổi hình một chiếc thước trắc tinh bằng vàng, treo rủ trên tường. Thomas Senlin chưa bao giờ nhìn thấy lá cờ đó trước đây, và anh cũng chẳng biết nó thuộc về quốc gia nào.
+
+ 
+
+Một ban nhạc ngũ tấu đàn dây tấu lên một bản waltz đầy phấn khích trong khi các cặp đôi cúi đầu chào, xoay tròn và va đập vào nhau trên một sàn nhảy bị bao vây tứ phía bởi những kẻ đứng xem. Anh chưa từng thấy cảnh tượng nào tương tự thế này. Nơi đây hoàn toàn khác xa với đám đông tụ tập quanh bờ biển ngái ngủ vào buổi sáng. Chẳng có chút cơ hội nào để hòa lẫn vào đám đông ở đây cả. Đi đến đâu anh cũng bắt gặp những cái liếc mắt đưa tình, những cái nhìn trừng trừng, những cái nháy mắt đưa đẩy; đây đúng là một sự điên cuồng ngắm nhìn vĩ đại. Xuyên suốt khung cảnh ấy, các quản gia vẫn điềm nhiên như những kẻ mộng du, bưng những khay bạc đựng đầy ly sâm panh và món khai vị.
+
+ 
+
+Những tràng cười lớn thách thức sự thống trị của âm nhạc trong căn phòng. Một người phụ nữ tóc vàng leo lên một cây đại dương cầm, đang nằm im lìm dưới tấm vải phủ trắng ở góc phòng gần chỗ Thomas Senlin. Cô ta vén cao những lớp vải lót phồng dày cộm của chiếc váy lót, để lộ chiếc quần lót trắng trong một màn biểu diễn suồng sã đến mức khiến Thomas Senlin phải nhăn mặt. Biểu cảm lạc lõng của anh khiến anh trở nên nổi bật, và cô ta khóa chặt ánh nhìn về phía anh, với một vẻ mặt nửa e thẹn nửa thách thức, cô ta áp sát ngực mình lại và ấn mạnh cho đến khi khe ngực trào ra như một ổ bánh mì trong khuôn nướng. Anh cố giấu đi sự ghê tởm bằng một nụ cười gượng gạo. Người phụ nữ liền cắn ngón tay cái chế nhạo anh. John Tarrou khẽ rít lên, bảo anh đừng có nhăn nhó với mọi người trông giống như một con quỷ dữ. Anh đã bỏ chạy nếu không vì John Tarrou đang siết chặt lấy tay anh và mở đường tiến lên phía trước, tiến sâu hơn vào trung tâm đang co giật của buổi dạ tiệc.
+
+ 
+
+John Tarrou di chuyển giữa bữa tiệc cứ như thể đây là giang sơn của riêng gã vậy. Gã vỗ vai những gã đàn ông khác, vực dậy tinh thần những cặp đôi đang bĩu môi bằng những câu đùa tục tĩu, và liên tục chìa ly đòi uống với bất kỳ người hầu nào đi ngang qua. Trông gã sinh ra là để dành cho sự hỗn loạn này vậy. Thomas Senlin lo lắng rằng John Tarrou sẽ quên bén đi kế hoạch và đắm chìm hoàn toàn vào vòng tay của giới thượng lưu cũ. Nhưng giữa những màn tán tỉnh đó, John Tarrou vẫn tiếp tục lôi kéo cựu hiệu trưởng băng qua những khoảng hở đang khép lại của đám đông, đưa họ ngày một tiến gần hơn đến mục tiêu của mình.
+
+ 
+
+---
+
+ 
+
+Theo đúng thỏa thuận, John Tarrou dẫn Thomas Senlin đến góc treo kiệt tác của Philip Ogier, cô độc giữa hai cánh cửa ban công. Ban công rộng lớn dường như thu hút những gã công tử bột và các quý cô ưa mạo hiểm. Họ bay ra bay vào như đàn én chui ra từ mái chuồng. Nhưng ở giữa luồng di chuyển đó có một khoảng trống nhỏ, và chính nơi đó John Tarrou đã để lại Thomas Senlin.
+
+ 
+
+“Tôi có thể đi một lát. Tôi còn phải bắt tay bao nhiêu kẻ và ôn lại chuyện cũ. Đã mấy tháng nay tôi không bén mảng tới mấy trò hề này rồi. Cứ kiên nhẫn nhé. Cứ uống đi. Uống ba ly liền ấy chứ.” Nói xong, John Tarrou biến mất vào biển váy vóc và đuôi áo dạ hội.
+
+ 
+
+Anh cảm thấy như thể mình vừa tìm thấy lò sưởi của bữa tiệc, và ý nghĩ đó bỗng nhiên gợi nhắc anh về Edith. Anh giật mình thon thót trước ký ức ấy. Phía sau anh, những vũ công lướt qua với vẻ thanh nhã đầy chao đảo. Anh dồn sự chú ý vào bức tranh của Philip Ogier. Anh đăm đăm nhìn vào đó cứ như thể nó là một ngọn lửa.
+
+ 
+
+Bức tranh quả thực nhỏ nhắn đúng như những gì anh được báo trước: cao mười bốn inch và rộng tám inch. Khung tranh mạ vàng dày cộm, thứ làm kích thước bức tranh trông như tăng gấp đôi, gần như nuốt chửng lấy nó. Phong cách vẽ mang đậm dấu ấn đặc trưng của Philip Ogier. Một cô bé tóc tết đuôi sam mặc chiếc váy bơi trắng đang đối diện với hồ chứa nước màu xanh. Mực nước dâng ngang mắt cá chân cô bé. Những người đi bơi khác đứng tít ra xa, nhưng cô bé trông có vẻ tách biệt và đơn độc. Cô bé chính là chủ thể và là tâm điểm của toàn bộ khung cảnh. Lưng cô hướng về phía người xem. Dù không nhìn thấy khuôn mặt, Thomas Senlin vẫn có thể cảm nhận rõ sự do dự của cô bé. Cô dường như đang đắn đo không biết nên tiến ra xa hơn hay ở lại sát bờ. Một chiếc thuyền giấy trắng tinh khôi hững hờ treo lủng lẳng trên một tay. Dù thứ ánh sáng phản chiếu chói lóa đến lóa mắt, cái bóng đen sẫm của cô bé vẫn trải dài bên dưới như một cái hố sâu. Cô như đang lơ lửng trên vùng nước sâu thẳm. Thật kỳ lạ và đẹp đẽ…
+
+ 
+
+Anh bừng tỉnh khỏi cơn mơ màng khi bàn tay rộng bản của John Tarrou vỗ lên vai mình. Anh quay lại và đối diện với một người đàn ông thấp gầy trong bộ vest xám được may đo cực kỳ chỉn chu. Gấu quần được xắn cao đến mức để lộ cả đôi tất. Một lọn tóc hoa râm, mảnh mai và cứng đờ như lưỡi câu cá, uốn cong trên vầng trán bệ vệ. Đôi mắt mang màu sắc của lớp vữa trát ẩm ướt, còn làn da trắng nhợt nhạt tựa sáp khiến gã trông giống như một bức ảnh in đen trắng của một con người. “Thưa ông Senlin,” gã cất lời bằng chất giọng cao vút, đều đều như hát tụng, “Tôi nghe nói mình phải cảm ơn ông vì sự tái xuất của John Tarrou. Ông đã làm được điều mà cả chục tấm thiệp mời cũng chịu thua.” Gã dậm mạnh bốt xuống sàn và cúi chào Thomas Senlin một cách đầy mỉa mai.
+
+ 
+
+“Tôi xin phép được giới thiệu nhân vật đáng kính, ngài Cao ủy Emmanuel Pound,” John Tarrou cất tiếng cúi chào với vẻ phô trương và hoành tráng hơn hẳn, mặc dù trong mắt Thomas Senlin thì nó cũng chẳng kém phần châm biếm so với cái cúi chào của viên cao ủy.
+
+ 
+
+Thomas Senlin đã được cảnh báo là không nên cố gắng bắt tay với viên cao ủy quá nhạy cảm này , thế nên anh cũng cúi đầu chào, nhưng với tất cả sự thành tâm nhất có thể. Khi ngẩng đầu lên, anh nói: “Ngài sở hữu một bộ sưu tập thật phi thường, thưa Cao ủy. Tôi xin được chúc mừng ngài.”
+
+ 
+
+“Phải. Tác phẩm của Philip Ogier này là một trong những bức tôi thích nhất.” Gã phát âm tên Philip Ogier khác hẳn cách nghệ sĩ này tự gọi, cố tình đọc cứng ngắc âm *g* khiến cái tên nghe như thể ai đó đang bị nôn nghẹn. “Được định giá tới ba trăm mina.” Con số này thực sự gây choáng váng. Thomas Senlin có thể xây được cả một ngôi trường thứ hai và thứ ba với số tiền đó. “Một món hời, tôi biết chứ. Giá trị của nó sẽ tăng gấp đôi, tôi hứa với ông đấy, trước khi tôi kịp chán nó.” Viên cao ủy dùng ngón tay búng nhẹ vào môi dưới như thể đó là một bí mật và gã đang muốn thổ lộ điều đó với Thomas Senlin. Thomas Senlin nghi ngờ rằng viên cao ủy chẳng đời nào muốn giữ kín bất kỳ ước tính nào về gia tài sộ của mình, nhưng anh vẫn bắt chước động tác búng môi hệt như vậy. Anh muốn lấy lòng gã, thế nên anh sẽ vào vai một con vẹt biết hùa theo. “John Tarrou nói với tôi rằng ông là một học giả nghiên cứu nghệ thuật phải không?” viên cao ủy hỏi, ngả người ra sau như để đánh giá Thomas Senlin từ một góc nhìn hoàn toàn mới.
+
+ 
+
+“Tôi từng viết một vài bài luận.” Thomas Senlin tiếp tục tuôn một tràng, rắc thêm vào bài phát biểu những minh chứng nhỏ để chứng tỏ sự am hiểu của mình. Anh đủ khôn ngoan để ra vẻ một học giả nghệ thuật từng trải, mặc dù thực chất phần lớn những thứ treo trên tường đều là thứ xa lạ đối với anh. Khi viên cao ủy nhắc đến một trường phái nghệ thuật cụ thể mà Thomas Senlin chẳng hề hay biết, anh liền kịch liệt bác bỏ toàn bộ trào lưu đó là thứ tác phẩm chắp vá rẻ tiền. Đó là chiến thuật mà những học sinh dốt nát hay dùng; chúng nhạo báng những môn học mà chúng không tài nào nhồi nhét nổi.
+
+ 
+
+Viên cao ủy nhanh chóng đồng tình. “Tôi không đời nào tin tưởng những nhà phê bình thích tất cả mọi thứ. Nếu cái gì cũng tốt, thì chẳng thứ gì có giá trị cả. Làm sao có vàng nếu thiếu đi rác rưởi, phải vậy không?”
+
+ 
+
+“Hoàn toàn chính xác,” Thomas Senlin nói dối. “Nhưng tác phẩm này, anh lại quay người hướng về phía bức tranh của Philip Ogier – *Thiếu nữ với chiếc thuyền giấy*, đây thực sự là một tuyệt tác phi thường. Đặc trưng ánh sáng bản địa của ngài dường như đã truyền cảm hứng cho một phong cách hoàn toàn mới lạ. Có lẽ nó mang nét nguyên thủy, nhưng lại vô cùng gợi cảm và chuẩn xác theo cách riêng của mình.”
+
+ 
+
+“Tôi hoàn toàn đồng ý. Gu thẩm mỹ của tôi xưa nay vốn không có chỗ chê,” viên cao ủy nói, rồi ra hiệu cho Thomas Senlin tiếp tục bằng một cử động xoay cổ tay nhẹ nhàng.
+
+ 
+
+“Tôi rất muốn viết một bài luận về bảng màu độc đáo của nó. Chẳng hạn như ở đây…” Thomas Senlin cúi sát hơn vào tấm kính dày che chắn bức tranh của Philip Ogier , và khi viên cao ủy cúi người theo dõi nhận định của anh, Thomas Senlin liền tung ra một loạt tiếng hắt xơi đột ngột và co giật.
+
+ 
+
+Hoảng hốt tột độ, viên cao ủy giật lùi phắt vào người John Tarrou, hai tay vung lên che kín mặt. Đôi mắt xám lồi ra khỏi cái đầu búp bê nhẵn thín, gã thét lên gọi thị vệ. Tiếng sủa đanh ác của đàn chó vang lên át cả tiếng ồn ào trong phòng.
+
+ 
+
+Những tiếng hít thở dồn dập cùng tiếng la bị nén chặt lan nhanh qua đám đông đang quay cuồng trong điệu valse. Dàn nhạc vấp nhịp, chệch choạc rồi khựng lại hẳn. Mấy gã mật vụ ngực đeo huy hiệu xanh lập tức áp sát từ nhiều hướng. Ngay tức khắc, Senlin rơi vào thế bị bao vây. Một gã mật vụ dâng lên trước mặt viên Cao ủy chiếc khay thiếc đựng mặt nạ phòng độc bằng cao su đen. Hai bộ lọc bọc lá vàng nhô ra hai bên má mặt nạ như cặp ngà tù. Bằng phản xạ nhanh như chớp, Cao ủy Pound chụp chiếc mặt nạ lên đầu rồi siết chặt vào mặt. Tròng kính tối màu to như nắp hũ mứt che khuất hoàn toàn đôi mắt gã. Chỉ trong vài giây ngắn ngủi, viên Cao ủy đã biến chuyển từ một kẻ dễ đọc vị thành một pháo đài bất xâm phạm. Làm sao Senlin có thể vuốt ve cái tôi của một kẻ không hề để lộ lấy một nét biểu cảm? Chẳng còn thời gian để băn khoăn nữa.
+
+ 
+
+Senlin vội vàng giải thích: “Tôi không bị bệnh đâu, thưa Cao ủy, tôi cam đoan với ngài đấy. Tôi chỉ hơi nhạy cảm với mùi hương thôi.” Anh rút chiếc khăn tay ra, khẽ hỉ mũi một cách lịch thiệp, gần như không phát ra tiếng động. “Điều này nghe có vẻ phi lý, nhưng tôi nghĩ có ai đó đã làm dính nước hoa lên bức tranh của ngài.” Senlin thấm nhẹ khóe mắt, không quên liếc nhìn viên Cao ủy trong lúc đang diễn trò. Anh chẳng thể đọc được gì sau hai tròng kính đen kịt. Chiếc mặt nạ làm biến dạng nhịp thở của viên Cao ủy, ngay cả khi gã dường như sắp tăng hô hấp vì hoảng loạn. Cả căn phòng dường như nín thở, nghiêng mình lắng nghe từng chuyển động.
+
+ 
+
+Hơi thở của viên Cao ủy dần trở lại nhịp phập phồng, rì rào đều đặn. Sau một thoáng chần chừ, gã thả lỏng tư thế rồi giơ một ngón tay lên, ra hiệu cho dàn nhạc tiếp tục tấu khúc. Tiếng nhạc xé tan bầu không khí ngột ngạt trong phòng: Một tiếng cười bật ra, người phụ nữ ngồi trên cây đàn piano khẽ vẫy đôi chân thăm dò, và bữa tiệc lại rộn ràng trở lại. Trong mắt Senlin, có vẻ mọi người đã quá quen với những cơn phát bệnh của viên Cao ủy và biết cách xử lý chúng một cách cực kỳ thuần thục.
+
+ 
+
+Vẫn đeo nguyên chiếc mặt nạ phòng độc, viên Cao ủy bước ra ban công rộng lớn, lực lượng mật vụ nhanh chóng lùa Tarrou và Senlin tiến sát theo sau gã. Vì vẫn chưa biết số phận mình sẽ đi về đâu, Senlin cố giữ vẻ thản nhiên như thể đây chỉ là một phần của chuyến tham quan. Mấy cặp nam nữ trẻ tuổi đang âu ếm dọc lan can vừa thấy bóng dáng lực lượng mật vụ cùng viên Cao ủy đeo mặt nạ lập tức giật mình, vội vã dạt hết trở lại phòng khiêu vũ.
+
+ 
+
+Đến khi viên Cao ủy tháo chiếc mặt nạ ra, Senlin nhận ra kẻ bạo chúa nhỏ con và hay dị ứng này đang săm soi anh từng chút một. Gã nheo mắt lại như thể đang nhìn thẳng vào một trận cuồng phong. “Có vẻ chúng ta có nhiều điểm chung hơn là chỉ cùng biết thưởng thức nghệ thuật đấy,” cuối cùng viên Cao ủy lên tiếng. Senlin gồng mình giữ nét mặt điềm tĩnh, dù một luồng khí lạnh đã chạy xộc từ dạ dày lên tận đỉnh đầu. Dĩ nhiên anh chẳng ngửi thấy dù chỉ một mẩu hương nước hoa trên bức tranh, nhưng anh đã đặt cược rằng viên Cao ủy sẽ chịu hùa theo màn kịch này thay vì đánh mất cái danh tiếng chiếc mũi nhạy cảm nhất Nhà Tắm. Hy vọng lòng kiêu hãnh của gã lan sang cả những khiếm khuyết thể chất, anh đã biến một điểm yếu thành một cuộc tranh tài.
+
+ 
+
+“Dù tác phẩm của Philip Ogier vô cùng tài hoa, nhưng tất cả đều đã bị nhiễm bẩn bởi nước hoa, hậu quả từ việc xưởng vẽ của cô nằm quá gần một tiệm thời trang nữ. Mọi kiệt tác của cô đều ngấm mùi hương đến từng nguyên tử. Tôi cứ ngỡ tấm kính che có thể giữ được nó. Thật đáng tiếc. Tôi sẽ phải đem trả nó về hầm chứa thôi.” Cao ủy Pound chỉnh lại cổ áo, xoay cổ tay ra hiệu cho toán mật vụ lui ra.
+
+ 
+
+“Thưa Cao ủy Pound,” Senlin vội vàng xen vào. “Bức tranh vẫn còn cứu vãn được đấy ạ.”
+
+ 
+
+“Tôi rất tiếc, Giáo sư Senlin, nhưng tôi không bao giờ liều lĩnh khi đề cập đến xoang mũi của mình đâu.”
+
+ 
+
+“Vậy xin hãy để tôi. Cho phép tôi đề nghị một phương pháp khử mùi đơn giản. Một kỹ thuật mà chính tôi đã buộc phải học hỏi.” Senlin lấy khăn tay chấm nhẹ khóe mắt. “Nếu tôi thất bại trong việc gột sạch từng vết tích nước hoa khỏi bức tranh, ngài cũng chẳng tổn thất điều gì. Còn nếu tôi thành công, kiệt tác của ngài vẫn giữ nguyên vị trí trang trọng trên mảng tường này. Thật quá uổng phí nếu phải cất giấu một viên ngọc báu như vậy chỉ vì lý do không đáng.”
+
+ 
+
+Viên Cao ủy vuốt lại lọn tóc bạc cứng đờ trên trán về trạng thái hoàn hảo ban đầu, sau khi đệm cao su của chiếc mặt nạ phòng độc quái đản làm nó bị lệch dáng. “Tôi luôn nghi ngờ những kẻ gắn mác người tốt, ông Senlin ạ.”
+
+ 
+
+“Dĩ nhiên là tôi có động cơ riêng rồi. Trong lúc bức tranh đang được xử lý khử mùi, tôi muốn nghiên cứu nó và, nếu được ngài chấp thuận, sẽ viết một bài luận về nó.” Senlin cố giãi bày bằng giọng điệu như thể vừa thú nhận một điều nhỏ nhặt.
+
+ 
+
+“Tôi không thấy thoải mái khi giao tài sản của mình cho người lạ.”
+
+ 
+
+“Tôi đâu dám đòi hỏi ngài làm vậy, thưa Cao ủy. Trên thực tế, phương pháp tôi tính dùng chỉ cần tới ánh nắng mặt trời. Chiếu sáng trực tiếp dưới ánh nắng, theo kinh nghiệm của tôi, có thể trung hòa gần như mọi tạp chất gây ô nhiễm, dù với tranh vẽ thì thời gian phơi sáng phải được kiểm soát cực kỳ nghiêm ngặt để tránh bị bạc màu hay nứt rạn lớp sơn.” *Rạn nứt bề mặt* là một trong những thuật ngữ hội họa khá hàn lâm mà anh tích lũy được qua sách vở. Anh tung nó ra ngay lúc này để tạo dựng uy tín, và có vẻ nó đã phát huy tác dụng rõ rệt: Viên Cao ủy mỉm cười. “Có lẽ ngài có thể căng dây quây một góc nhỏ tại một trong các cảng trời của ngài, và tôi…”
+
+ 
+
+Nụ cười vụt tắt, thay bằng nét mặt cau có thẳng đơ như khe bỏ thư. “Cảng trời ư? Đừng hòng. Chuyện đó là bất khả thi để bảo đảm an ninh. Ngoài lũ tội đồ chuyên nghiệp, bọn cướp biển và phường buôn lậu, còn có cả một bầy ngốc nghếch nghiệp dư: quân đần độn, lũ say xỉn, tay sai, chó săn, gái điếm, quân trộm vặt…” Viên Cao ủy không hẳn là kết thúc danh sách của mình, mà đúng hơn là dập tắt nó bằng cách nốc cạn ly sâm banh vừa chộp lấy từ một chiếc khay. Tràng liệt kê đầy hoang tưởng này làm Senlin nhớ tới những tội trạng anh từng nghe đọc trước khi cậu bé bị Bàn Tay Đỏ xé làm đôi.
+
+ 
+
+Nỗi tuyệt vọng dâng trào trong lòng Senlin. Toàn bộ kế hoạch của anh phụ thuộc vào điểm này; anh phải tách được viên Cao ủy khỏi bức họa của Ogier, phải đưa nó ra khoảng không gian mở và tránh xa đám đặc vụ cùng đại bác và đàn chó canh gác cảnh giác của họ. Nếu thất bại ở bước này, phần còn lại trong mưu tính của anh chỉ là một mớ bòng bong vô dụng.
+
+ 
+
+Tarrou kín đáo nở một nụ cười khẩy với Senlin, như thể muốn nói: *Xem mưu kế sụp đổ thế nào kìa, Thầy hiệu trưởng! Hãy xem con ngựa ba chân hai đầu của anh cố chạy kìa!*
+
+ 
+
+“Thưa Cao ủy, nếu ngài cho phép.” John Tarrou cởi chiếc mũ trông như cây nấm độc khỏi đầu rồi quỳ một gối xuống kính cẩn. “Chúng ta có nhiều cách để luộc một quả trứng mà. Theo tôi nhớ, ngài sở hữu một mảnh mặt trời nho nhỏ. Phòng tắm nắng của ngài! Rất tuyệt để tiếp khách, đúng vậy, nhưng cũng cực kỳ an ninh. Ngài từng nói với tôi nơi đó chỉ có thể vào được thông qua tòa nhà Cục. Chẳng phải lính của ngài có doanh trại ở đó sao? Còn nơi nào an toàn hơn thế nữa? Vị giáo sư có thể vừa ghi chép vừa ngắm nhìn mặt trời hoàn thành công việc của nó.” Tarrou tỏ ra rất hài lòng với gợi ý này, dù Senlin chẳng hề chia sẻ chút hào hứng nào với gã. Anh không quen thuộc với tòa nhà Cục, nhưng nghe thôi đã cảm thấy có điều chẳng lành.
+
+ 
+
+“Đó không phải một gợi ý ngu ngốc,” viên Cao ủy nói, nhưng Tarrou tiếp tục dùng lời lẽ ngon ngọt thuyết phục gã: Vị giáo sư có thể đóng vai trò như con chim yến trong mỏ vàng; khi anh không còn cảm thấy sự nhói ngứa của thứ nước hoa đó nữa, bức tranh sẽ được xác nhận là phù hợp với bầu không khí của viên Cao ủy.
+
+ 
+
+Viên Cao ủy nhanh chóng bị thuyết phục. Gã mời Senlin tới phòng tắm nắng của mình vào buổi sáng. “Tôi sẽ dặn người của mình chờ đón ông. Tôi muốn có một bản cuốn sách của ông ngay khi nó được xuất bản,” viên Cao ủy nói lời từ biệt, rồi lướt về phía những vị khách khác bên trong dinh thự. “Tôi tin là mình sẽ được nhắc tên trong phần lời cảm ơn.”
+
+ 
+
+“Tôi sẽ đề tặng cuốn sách cho lòng hào phóng của ngài,” Senlin vừa mỉm cười vừa cúi đầu chào.

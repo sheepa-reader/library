@@ -1,0 +1,411 @@
+# Chương Mười Sáu
+
+Khi dạy tôi cách nạp đạn súng trường, Adam từng cảnh báo rằng một nòng súng bị nhồi quá đầy đạn sẽ không bắn nhanh hơn hay đi xa hơn; nó chỉ nổ tung vào mặt người bắn mà thôi. Và có lẽ, tình cảnh tại cảng vào tối nay khi Rodion và Finn Goll chạm trán cũng sẽ y như vậy.
+
+ 
+
+*Tháp Của Mọi Người, Gian Truân Của Một Người* của T. Senlin
+
+ 
+
+Tất cả các ngọn đèn trên sân cảng đều được thắp sáng, nhưng khung cảnh xung quanh vẫn vô cùng ảm đạm. Một cơn bão mùa đông hiếm hoi đã vượt qua các dãy núi rồi lao sầm sập xuống thung lũng cằn cỗi, nuốt chừng những vì sao khi nó tiến sát đến Tháp Babel. Cơn gió buốt giá mang theo mùi tuyết lạnh. Thomas Senlin đứng co ro, kéo cao cổ áo ngay tại lối vào cảng. Miệng đường hầm rít lên những âm thanh nghe như tiếng sáo đất. Các túi áo của Thomas Senlin phồng lên vì sách vở, bức tranh quý giá của Cao ủy thì được khâu giấu trong lớp áo khoác, và bàn tay Thomas Senlin đang tê cứng quanh thân thép lạnh ngắt của chiếc gậy định hướng khí lưu. Đã đến lúc rời bỏ cuộc đời nương nhờ này rồi. Cuối cùng thì anh cũng sắp được đi.
+
+ 
+
+Thomas Senlin đã dành cả buổi chiều cùng Iren, phân phát những thanh kiếm sabre cũ kỹ và súng lục đá lửa cho đám phu khuân vác. Những lưỡi kiếm đã cũ mòn và mẻ bờ đến mức trông chúng giống cưa hơn là gươm giáo. Hầu hết đám phu khuân vác tỏ ra khó chịu vì bị hủy buổi nghỉ ngơi buổi tối hơn là lo lắng về khả năng xảy ra bạo lực. Vài phu khuân vác lớn tuổi tranh thủ cơ hội này để khoác lác về những trận chiến vang bóng một thời đầy rẫy những lần cận kề cái chết và những nhát kết liễu nghẹt thở, mặc dù phần lớn câu chuyện rõ ràng chỉ là bị đặt. Iren đưa ra chỉ thị cho đám đông: Họ phải để Rodion cùng băng nhóm của hắn đi qua bãi cảng mà không bị quấy rầy. Ngay khi những kẻ xâm nhập đã đi qua, đám phu khuân vác sẽ theo chân Iren vào trong đường hầm, nơi họ sẽ vòng ra bao vây Rodion và đối đầu với hắn ngay tại cảng. Họ tuyệt đối không được lộ diện cho đến khi có lệnh.
+
+ 
+
+Thomas Senlin đã quyết định trì hoãn việc thông báo cắt giảm khoản tăng lương. Ngày mai, anh sẽ rời đi, để lại Finn Goll phải gánh lấy mớ hỗn độn này. Nếu Goll muốn bớt xén tiền lương ngay giữa một cuộc chiến tranh giành lãnh địa, đó là đặc quyền của hắn, và hắn có thể tự mình thông báo điều đó với những người thợ. Mặc dù từ *chiến tranh* không hẳn là từ chính xác cho cuộc xô xát sắp tới. Đó sẽ chỉ là một màn giằng co căng thẳng, Thomas Senlin chắc chắn là vậy. Anh dự đoán sẽ có những lời lẽ khiêu khích, vài tiếng gầm gừ và bọt mép văng tứ tung, đôi khi có chút đọ kiếm, nhưng cả Rodion lẫn Goll đều không muốn đẩy mối đe dọa lên mức cao trào. Chẳng có chút lợi lộc gì từ việc sát hại đồng nghiệp hay tàn phá bến cảng, nơi dòng chảy của mọi sự giàu có đi qua. Không, Rodion sẽ bị trừng trị thích đáng, và Goll sẽ nhận lại những gì hắn đáng phải nhận.
+
+ 
+
+Sân cảng, từ cần cẩu cho đến cột buộc tàu, vang lên một bản giao hưởng của những tiếng cọt kẹt rên rỉ: Gỗ ván và dây thừng dịch chuyển dưới sức ép của cơn bão đang kéo đến. Ngay cả những thanh giằng sắt khổng lồ cũng cất lên tiếng than thở trầm đục hòa vào khúc ca ấy. Dáng vẻ kiều diễm của con tàu buôn *Gold Finch* được thắp sáng rực rỡ như một chiếc đèn chùm. Thủy thủ đoàn của tàu đang tất bật hạ bạt chắn cửa hòm hàng và gia cố thêm các mối neo của chiếc khinh khí cầu hình thoi. Người gác cổng của con tàu, trông chẳng khác nào một cậu thiếu niên, đang bám chặt vào thanh dầm mũi tàu như một bức tượng trang trí, dõi theo những đám mây tuyết đang cuồn cuộn tới gần. Thomas Senlin không khỏi kinh ngạc trước sự điềm tĩnh mà Tháp Babel đòi hỏi ngay cả ở những tâm hồn non trẻ nhất; Babel già hóa cư dân của nó bằng một sự tàn nhược tương đương.
+
+ 
+
+Nếu chiếc *Finch* gợi lên hình ảnh một chiếc đèn chùm lộng lẫy, thì con tàu *Stone Cloud* neo đậu chếch một góc lại trông chẳng khác nào một ngọn nến mỡ lợn cục mịch. Thân tàu bị cháy xém và thủng lỗ chỗ vì đạn ghém, với phần mũi phình to và đuôi thon nhỏ, va đập kém thanh nhã vào các đệm giảm chấn của cảng. Chiếc khinh khí cầu xám xịt của nó phình ra qua mạng lưới dây chằng trông hệt như lớp mỡ đùn qua chiếc lưới đánh cá. Không có lấy một từ ngữ tử tế nào hiện lên trong đầu Thomas Senlin khi anh ngắm nhìn chiếc *Stone Cloud*, thế nhưng, bất chấp vẻ ngoài thô kệch của nó, anh vẫn yêu nó đến tận xương tủy. Đó là con tàu của anh. Anh chỉ cần chiếm lấy nó mà thôi.
+
+ 
+
+Edith đứng đợi anh ở tấm ván cập tàu đang chao đảo qua vực thẳm hun hút bên dưới. Vẻ mặt cô vô cùng nghiêm nghị. Phía sau cô, một thủy thủ đoàn xộc xệch gồm một tá người đang tất bật dọn dẹp boong tàu, kiểm tra các nút thắt dây và xúc từng xẻng than đổ vào lò đốt. Những cơn gió giật mạnh khiến việc trao đổi kín đáo giữa họ trở thành bất khả thi, nhưng đáp lại nụ cười ngập ngừng của Thomas Senlin, Edith chỉ khẽ lắc đầu, vẻ mặt gần như tuyệt vọng, rồi cô bất ngờ bị Billy Lee đẩyạt sang một bên. Thuyền trưởng quàng tay kéo lấy Thomas Senlin và giật xốc anh vượt qua khoảng không vực thẳm để lên tàu của mình. Thomas Senlin bước lên boong tàu một cách vụng về, lảo đảo vài bước mới tìm được một điểm tựa vững chãi hơn. Con tàu tròng trành dữ dội bên dưới chân anh.
+
+ 
+
+“Tôi đến đây để ký nhận bản kê khai hàng hóa của ông,” Thomas Senlin nói với một vẻ điềm tĩnh đáng nể.
+
+ 
+
+“Ông đúng là một gã bợm tò mò kỳ quặc. Ông chưa từng nói mình là quản cảng khi tôi bắt gặp ông đang sàm sỡ nữ phó thuyền trưởng của tôi,” Thuyền trưởng Billy Lee oang oang cất giọng. Chiếc áo chẽn màu xanh ngọc bích của ông ta phần phật trước lồng ngực nở nang, và bàn tay đặt hờ trên bầu chuôi bảo vệ của thanh mã tấu dắt bên hông. “Nhưng suy cho cùng, ông còn nhiều điều vượt xa vẻ bề ngoài đấy.”
+
+ 
+
+“Tôi đâu có sàm sỡ cô ấy,” Thomas Senlin nói với giọng đầy phẫn uất rồi quay sang Edith tìm kiếm sự đồng tình. Cô lúc này đang mang một gương mặt hoàn toàn xa lạ: Hàm răng nghiến chặt và đôi mắt tối sầm không phản chiếu chút ánh sáng nào. Cảm thấy bất an và có phần bối rối, anh quay lại lần nữa và sững sờ nhận ra mũi kiếm của Lee đang chĩa thẳng vào sống mũi mình. Theo bản năng, Thomas Senlin giơ hai tay lên.
+
+ 
+
+“Một cô cô ở khu Quán Trọ đã kể cho tôi nghe mọi điều về ông vào sáng nay,” Billy Lee nói, điệu bộ nói chuyện được minh họa bằng những đường kiếm uốn lượn uyển chuyển. “Con nhỏ đanh đá ngọt ngào đó bảo rằng ông là một kẻ đang bị truy lùng. Tôi suýt không thể tin nổi vào vận may của mình nữa.”
+
+ 
+
+“Một người phụ nữ tóc vàng ư?” Thomas Senlin hỏi, dẫu trong lòng đã biết rõ câu trả lời.
+
+ 
+
+“Tôi có cảm tưởng cô ta sẵn sàng tuôn ra mọi chuyện với bất kỳ ai có dư một đồng shekel và một cái lỗ tai để nghe ngóng. Tất cả những kẻ khác đều tưởng đó chỉ là chuyện trò trên gối, nhưng riêng tôi, tôi thừa biết điều đó chắc chắn có ẩn tình.” Billy Lee ngoái đầu gọi lớn phía sau: “Mang nó ra đây.” Một gã đàn mang khuôn mặt chó lai với cái mũ sọ trùm đầu bưng ra một chiếc thùng nhỏ. Thomas Senlin lập tức nhận ra nó. “Cao ủy đang muốn tìm ông đấy. Tôi tự hỏi chiếc hộp nhỏ này có dính líu gì đến chuyện đó không nhỉ.”
+
+ 
+
+---
+
+ 
+
+Thomas Senlin buông thõng hai tay đầy phẫn nộ, hành động ấy khơi mào cho đám thủy thủ đang vây quanh rút gươm khỏi vỏ. Anh chưa từng thấy nhiều thứ thép sáng lóa đến thế, và chắc chắn chưa bao giờ là tâm điểm chĩa vào của chúng. Anh có cảm giác mình chẳng khác nào một tấm gối cắm kim. Ngay cả Edith cũng đã giương thẳng khẩu súng ngắn nòng đơn về phía đầu anh; cô đứng cau mày ngắm chuẩn qua đầu ruồi. Cô từng cảnh báo anh về sự phản bội của Billy Lee, thế nhưng Thomas Senlin còn ngạc nhiên trước màn biểu diễn lòng trung thành đầy hung hăng của cô hơn cả lời thú nhận mang bản chất loài sói của Lee. Ít nhất, anh vẫn hy vọng đó chỉ là một màn kịch. Anh đoán Edith không còn sự lựa chọn nào khác ngoài việc đóng vai kẻ thù của anh cho đến khoảnh khắc cuối cùng.
+
+ 
+
+Thomas Senlin nghiến răng nói: “Tôi là quản cảng của Goll. Người chủ của tôi rất quyền lực, có thế lực và cực kỳ xét nét về thời gian của tôi. Anh đang buộc tội tôi dựa trên lời khai của một ả kỹ nữ và bằng chứng cho thấy tôi đã sử dụng dịch vụ của các anh để chuyển thư từ của mình. Chỉ có vậy thôi sao?”
+
+ 
+
+Thuyền trưởng Lee nói: “Dĩ nhiên là anh sẽ phủ nhận rồi,” vừa nói hắn vừa liếc nhanh sang một bên. Bộ râu nâu thưa thớt của hắn lúc này trông giống như được dán lên mặt, sự lúng túng khiến hắn vừa trẻ con vừa khoác lác. Cái né tránh nhỏ ấy cũng đủ để khích Thomas Senlin tiến lên một bước.
+
+ 
+
+“Và dựa trên cái bằng chứng chết tiệt này, anh sẵn sàng tự tay cắt đứt đường lui của mình tại cảng này vĩnh viễn.” Thomas Senlin đảo ánh mắt sắc như dao lướt qua phần còn lại của đám thủy thủ ô hợp và tiều tụy. “Các người thực sự nghĩ rằng một lũ như các người, cùng với con tàu này, sẽ được phép cập cảng Ginside hoặc Erstmeer sao? Sau này các người sẽ lấy nhiên liệu ở đâu? Tôi chắc rằng một gã công tử bột chải chuốt như anh hẳn đang được nuông chiều trong vòng tay của mọi viên quản cảng từ Nhà Tắm cho đến tháp chuông.”
+
+ 
+
+Ngay lập tức, Thomas Senlin linh cảm mình đã đi quá đà; anh đã chọc vào lòng tự ái của vị thuyền trưởng trẻ tuổi. “Được rồi. Vậy chúng ta sẽ giải quyết ngay tại đây.” Billy Lee đặt mũi chiếc bốt cong lên thùng gỗ của Thomas Senlin. “Mở cái hộp đó ra, cho chúng tôi xem có gì trong đó. Nếu nó chẳng dính dáng gì đến công việc của cao ủy, tôi sẽ nói lời xin lỗi, và anh có thể đi.”
+
+ 
+
+Đến lượt Thomas Senlin cảm thấy chột dạ, dù anh cố che giấu bằng vẻ phẫn nộ. “Anh điên rồi sao? Tôi không đời nào mở những chuyện riêng tư của mình ra cho mấy người xía mũi vào đâu. Nếu đây là cách làm việc của các anh, thì tôi sẽ lấy lại bưu phẩm của mình và rời đi.”
+
+ 
+
+Billy nói: “Ồ không, anh không đi đâu hết,” vừa nói hắn vừa hướng mũi kiếm mã tấu trở lại cổ Thomas Senlin. “Nếu chuyện đó làm tổn thương cảm xúc của anh đến vậy, Bobbit sẽ mở nó giúp anh.” Tên thủy thủ mặt chó đội chiếc mũ sọ dừa rút một con dao găm lưỡi dày từ bên hông. Hắn quỳ xuống và bắt đầu lách mũi dao vào dưới nắp thùng. Thomas Senlin nín thở.
+
+ 
+
+Tiếng kẽo kẹt của chiếc cầu tàu khiến tất cả mọi người trên tàu giật mình. Trước khi bất kỳ ai kịp định thần sau sự ngạc nhiên, một tá đàn em của Rodion đã tràn lên tàu. Họ mặc những chiếc quần chẽn giản dị và áo khoác dạ của nhân viên hậu đài cùng người dẫn chương trình, dù tất cả đều có những điểm nhấn hào nhoáng trên trang phục: tóc giả, lông vũ, khăn choàng và chuỗi hạt. Nếu các bộ tộc nguyên thủy chuộng màu sơn chiến trận, thì những kẻ này lại thích đồ trang sức giả. Hiệu ứng trông thật kỳ quái. Bất kể vẻ bề ngoài của họ ra sao, mục đích của họ lại vô cùng rõ ràng: Họ xông lên với gươm và súng ngắn đã giương sẵn. Những kẻ xâm nhập nhanh chóng áp đảo mạn trái của con tàu. Một tá đàn em khác của Rodion đang chờ sẵn trên cầu tàu với những khẩu súng trường dài đã lên đạn và nhắm thẳng.
+
+ 
+
+Thomas Senlin cảm thấy nhẹ nhõm vì sự gián đoạn này; giờ đây anh chỉ có thể hy vọng phần còn lại trong kế hoạch của mình sẽ diễn ra suôn sẻ. Con tàu sẽ được dỡ hàng và khám xét, và trong khi mọi người đang bận rộn với công việc tẻ nhạt đó, anh cùng các đồng mưu, cùng thủy thủ đoàn của mình, sẽ cướp lấy con tàu đã bỏ trống. Anh đảo mắt tìm kiếm bóng dáng của Adam hay Voleta nhưng chẳng thấy ai.
+
+ 
+
+Con tàu, lúc này đã quá tải, bắt đầu chìm xuống dưới sức nặng mới. Thân tàu va đập mạnh vào bệ đỡ triền đà. Ngay giữa lúc giằng co, tất cả mọi người vẫn đủ tỉnh táo để nhường chỗ cho một thành viên trong thủy thủ đoàn của Lee nhóm lò hơi. Con tàu chao đảo trở lại ngang tầm mặt nước.
+
+ 
+
+Khi con tàu đã ổn định, Rodion bước lên, ra vẻ ta đây quyền quý như một vị công tước. Hắn khoác một chiếc áo choàng dài chấm gót, viền lông thú đen dày dặn. Cán súng bằng ngà của cặp súng ngắn đôi nổi bật ngay trước thắt lưng. Rodion ưỡn ngực nhìn Billy Lee, kẻ có vẻ thích thú khi cất lời: “Ta thấy ngươi trên sân khấu rồi! Ngươi là gã đàn phong cầm lầu xanh.”
+
+ 
+
+Rodion vừa liếc nhìn quanh với vẻ khinh miệt những trang thiết bị dãi dầu mưa nắng như chèn bánh xe, cọc buộc dây và vòng khoen cửa hầm, vừa đáp: “Một kẻ hề. Phải chi ta chuẩn bị sẵn một câu đùa.” Hắn nói tiếp: “Nhưng ta không đến vì ngươi.” Gã tú ông phô trương quay sang Thomas Senlin. “Ta vừa có một cuộc trò chuyện vô cùng lý thú, Thomas. Dẫn họ ra đây.” Hắn ra hiệu cho một tên đàn em đứng gần cầu tàu. Hai bóng người được áp tải lên tàu dưới ánh đèn bão chòng chành, chớp nhoáng.
+
+ 
+
+Thomas Senlin cố hết sức ra vẻ bàng hoàng trước sự xuất hiện của Adam. Adam, khi đang diễn tròn vai, không dám nhìn thẳng vào mắt Thomas Senlin. Sát bên anh, mái tóc đen bù xù và những đường nét thô kệch của Voleta gần như bị chôn vùi dưới một chiếc khăn choàng trông nặng nề chẳng khác gì tấm thảm. Cô ngước nhìn Thomas Senlin bằng đôi mắt màu tím không chớp.
+
+ 
+
+Thomas Senlin thốt lên: “Adam, em đã làm cái quái gì thế này?”
+
+ 
+
+Thuyền trưởng Lee cắt ngang cuộc hội ngộ đầy gượng gạo bằng vẻ phẫn nộ cục cằn. “Đây là tàu của tôi, chứ không phải nhà hát. Đem cái gánh hát rẻ tiền của anh đi chỗ khác đi. Tôi đổi ý rồi. Tôi không muốn dính líu gì đến chuyện này nữa.” Thế nhưng hắn vẫn dùng gót bốt đẩy chiếc thùng của Thomas Senlin xích lại gần mình hơn.
+
+ 
+
+Làm ngơ trước Billy Lee, Rodion tiếp tục nói với vẻ đắc ý rõ rệt. “Ta đã nghe vô số lời đồn truyền cảm hứng về cậu. Ta nghe nói cậu là kẻ trốn chạy. Ta nghe nói có cả tiền thưởng nữa. Ta nghe nói cậu đang buôn lậu khoái lạc và báu vật.” Rodion đặt tay lên vai Adam đầy tự tin. “Ít nhất, ta hy vọng cậu đúng là như vậy, vì lợi ích của Adamos. Ta đã hứa với cậu ta rằng nếu giao nộp cho ta một gia tài cùng bằng chứng cho thấy cậu đã lạm dụng chức quyền và lừa gạt vị chủ nhân kính mến của chúng ta, ta sẽ tha hợp đồng cho em gái cậu ta, dù rằng những lời hứa chẳng bao giờ đắt giá bằng những cô bé nhỏ nhắn,” Rodion nói và véo má Voleta. Cô bé mỉm cười toe toét và khúc khích hưởng ứng, rồi bất ngờ rướn cổ cắn phắt vào ngón tay hắn. Rodion rụt tay lại, giơ bàn tay đeo găng lên định tát cô bé, nhưng chợt khựng lại. “Ta sẽ nhớ em lắm đấy, Voleta. Ta đang cần một chiếc lò sưởi ấm giường mới.”
+
+ 
+
+Dù chỉ mới một khoảnh khắc trước còn đứng đó trong nỗi thất vọng ê chề, đầu Adam giờ đây quay phắt lại trước câu nói này. “Anh phải giữ lời hứa đấy, Rodion!”
+
+ 
+
+“Tất nhiên, tất nhiên rồi.” Hắn săm soi những vết răng mà Voleta đã để lại trên chiếc găng tay da của mình. “Nhưng chúng ta phải kết thúc vở kịch này đã! Vẫn còn quá nhiều nút thắt kịch tính chưa được giải đáp: Khoái lạc ấy là gì, và giờ nó đang ở đâu?”
+
+ 
+
+“Chính ông phải là người rõ nhất chứ,” Thomas Senlin lên tiếng trước khi kịp suy nghĩ thấu đáo.
+
+ 
+
+“Lý do gì trên đời này khiến ta phải biết cơ chứ?”
+
+ 
+
+“Bởi vì ông đang cấu kết với Cao ủy Pound,” Thomas Senlin đáp lại, thấy rằng chẳng còn lý do gì để Rodion phải che giấu sự thật hiển nhiên này nữa.
+
+ 
+
+“Chẳng có ai cấu kết với vị cao ủy cả! Hắn ta không bao giờ hợp tác với ai. Hắn chỉ nghiền nát và cướp đoạt. Không, thà ta khai địa chỉ của mình cho quỷ dữ còn hơn là lọt vào tầm ngắm của cao ủy.” Rodion bĩu môi chế giễu, và đám đàn em xung quanh hắn lập tức hùa theo cười rộ lên một cách đồng thanh. “Khi ta giao nộp các ngươi cho Pound, việc đó sẽ được thực hiện từ một khoảng cách rất an toàn và hoàn toàn không có chuyện thương lượng. Hắn muốn gửi khoản bồi thường nào mà hắn cho là công bằng cũng được; hắn sẽ chẳng vấp phải lời phàn nàn nào từ ta đâu.” Thomas Senlin cảm thấy bất an: Nếu kẻ triệu hồi Bàn Tay Đỏ xuống đầu anh không phải là Rodion, thì là ai? Chắc chắn Finn Goll đã phóng đại quá mức nỗi sợ hãi của hắn ta đối với tên bạo chúa kia rồi.
+
+ 
+
+Mất hết kiên nhẫn, Billy Lee quát lớn với đám thủy thủ của mình: “Đuổi hết đám lắm điều này khỏi tàu của tao!”
+
+ 
+
+“Quả đúng như vậy,” Rodion thốt lên, rồi thản nhiên xoay người lại. Hắn rút súng ngắn ra với một cử động vô cùng dửng dưng và bắn thẳng vào Billy Lee ngay phía trên hình tam giác thêu trên chiếc áo tabard của y. Tất cả đều bàng hoàng chứng kiến người thuyền trưởng trẻ tuổi đầy kiêu ngạo lảo đảo lùi lại ba bước rồi đập người vào lan can mạn tàu. Y ngả ngửa ra phía sau rơi thẳng vào khoảng không gian trống trải, để lại một chiếc ủng đứng trơ trọi trên sàn tàu.
+
+ 
+
+Edith vừa hé miệng hít một hơi thì Rodion đã xoay phắt người lại phía cô và nổ phát súng thứ hai. Viên đạn sượt qua miếng đệm vai bằng đồng của cô rồi găm thẳng vào trán một tên đàn em của Rodion, làm văng chiếc lông vũ bên tai cùng toàn bộ khối óc từ phía sau đầu tên đó ra ngoài.
+
+ 
+
+Edith kịp lấy lại giọng trước khi tên đó ngã sụp xuống sàn. “Vì Billy!” Tiếng thét của cô nghẹn ngào trong cơn thịnh nộ. Cô giật lấy khẩu súng lục từ thắt lưng của một đồng đội rồi chĩa thẳng về phía Rodion. Hắn nhanh chóng kéo một tên đàn em của mình ra che trước nòng súng, và kẻ bất hạnh đó đã hứng trọn đòn tấn công. Ánh chớp từ thuốc súng lập tức bén lửa vào chiếc khăn choàng bằng lông thú của hắn ta. Edith rút thanh kiếm bên hông ra và lao thẳng về phía Rodion. Tên lái buôn xác thịt chớp lấy thanh mã tấu từ tay tên đàn em đang bốc cháy và giơ cao lưỡi kiếm kịp thời để đỡ lấy nhát chém đầu tiên của Edith.
+
+ 
+
+Thomas Senlin nhận ra mình đang kẹt giữa một vòng vây hỗn chiến. Hai bên không lao vào nhau một cách ăn ý như những vũ công hay khớp nối nhịp nhàng của hai bánh răng cưa như các bài học đấu kiếm đã vẽ ra. Thay vào đó, nhiều kẻ tháo chạy rồi va đập vào nhau; những kẻ khác chiến đấu theo từng cặp hoặc từng nhóm, áp đảo và thay đổi mục tiêu hỗn loạn chẳng khác nào một bầy ong vỡ tổ. Vài thủy thủ của Lee bắt đầu nổ súng về phía hàng ngũ xạ thủ của Rodion đang đứng bên mạn trái, và họ lập tức đáp trả một cách tàn khốc không kém. Làn đạn rít gào xé nát lan can tàu, cắt đứt cả dây thừng lẫn những thân thể khi chúng bay vụt qua boong. Gỗ vụn và máu thịt tung tóe khắp không gian, bám đầy trên mặt sàn. Một kẻ thét lên thảm thiết như con chó bị đá văng. Một viên đạn lóe sáng khi đập vào lò sưởi rồi làm vỡ tung cửa sổ cabin. Một thùng nước trên boong bị bắn thủng vỡ toác, dòng nước lênh láng chảy tràn lan dưới chân. Thật là một cảnh tượng điên cuồng.
+
+ 
+
+Voleta bị va đập mạnh vào lưng người anh trai khi anh đang lùi bước trước một tên thủy thủ cuồng nộ mang tên Bobbit, kẻ đang vung một cây gậy sắt dùng cho lò sưởi bằng những nhát chém rộng và điên cuồng. Adam, dù rất vạm vỡ nhờ những năm tháng lao động nặng nhọc, vẫn gặp vô vàn khó khăn khi phải gạt đỡ thanh gậy sắt nặng nề đó. Thanh sắt nện mạnh vào lưng một nhân viên hậu đài đang giao chiến, khiến kẻ đó ngã chúi đầu vào lò sưởi của con tàu. Nhân viên hậu đài thét lên thất thanh khi mái tóc bốc cháy, rồi y chồm dậy lao vụt qua mạn phải tàu trong ngọn lửa bập bùng. Cái đầu đang cháy ngùn ngụt của y biến mất nhanh chóng như một que diêm vừa bị dập tắt.
+
+ 
+
+Nhìn thấy sự hoảng sợ của Voleta, Thomas Senlin kéo cô bé ra khỏi tâm điểm hỗn chiến, chạy ngược lên bốn bậc thềm để đến phần đài chỉ huy phía trước đang bỏ trống. Dù yên tĩnh hơn hẳn boong chính, đài chỉ huy lại là một ngõ cụt với phía sau là khoảng không mênh mông cùng những đám mây sà xuống đậm đặc tuyết trắng. Thomas Senlin gần như hối hận ngay lập tức vì quyết định mang tính chiến thuật này, nhưng anh không thể tìm thấy lối thoát nào an toàn để sang mạn tàu. Một loạt tiếng súng mới vang lên khiến cả hai phải lao mình rạp xuống sàn tàu.
+
+ 
+
+Chiếc áo choàng viền lông thú của Rodion phồng lên rồi rũ xuống như một chiếc bễ lò rèn khổng lồ trong lúc hắn giao chiến với Edith. Thực lực của họ hoàn toàn cân bằng: Mỗi đòn tấn công đều được đáp trả bằng một thế đỡ tương đương. Cuộc giao tranh của họ bao trùm khắp boong tàu, mặc dù sân khấu ấy giờ đây ngập tràn những thi thể gục ngã và những mảnh đạn vương vãi như thứ hoa giấy tang tóc. Thanh kiếm của Rodion va vào thanh thép của Edith vang lên thanh bén dồn dập, tựa như tiếng một kẻ mài thịt đang lia dao. Ngay cả giữa cơn cuồng nộ, Rodion vẫn không quên món đầu tư quý giá mà hắn đã mang theo trận chiến. Hắn hét lớn với thuộc hạ: “Bắt lấy con nhỏ đó! Ba đồng vàng cho kẻ nào bắt sống được nó, và tử hình kẻ nào dám giết nó.”
+
+ 
+
+Một trong số những tay thợ hậu đài của Rodion, gã đàn ông vạm vỡ mang bộ tóc giả màu vàng bắp, rút lưỡi kiếm cắm trên lưng một cái xác rồi đăm đăm nhìn Thomas Senlin, người đang đứng khom mình trên đỉnh đài quan sát.
+
+ 
+
+Dù cảm thấy bản thân chẳng khác nào một tấm vách mỏng manh, Thomas Senlin vẫn che chở Voleta ở phía sau và thủ sẵn gậy định hướng khí lưu ở phía trước. Anh nhẩm lại từng lời dặn dò mà Iren đã truyền đạt trong những buổi luyện tập đối kháng. Anh bỗng thấy đôi chân mình trở nên vô cùng gượng gạo: Khoảng cách giữa hai chân đã quá rộng chưa? Các ngón chân có đang chụm vào nhau không? Cách anh siết chặt gậy định hướng khí lưu trông thật sai lầm. Liệu anh có quên hết những bài học và vung nó lên như một chiếc rìu, để lộ sơ hở trước mọi cú đâm chém nửa vời? Mọi thứ quá tải để có thể nhét hết vào đầu. Nó giống hệt cơn hoảng loạn tột độ mà anh từng trải qua trước mỗi kỳ thi. Toàn bộ kiến thức dày công ôn luyện bỗng biến thành rơm rác trong đầu, và một trạng thái tê liệt vì sợ hãi bao trùm lấy anh. Anh đã thua ngay từ phút đầu rồi.
+
+ 
+
+Nhưng rồi, ngay sát sau lưng và hầu như phả thẳng vào tai anh, Voleta lên tiếng, “Đừng có giảng đạo lý với hắn. Cứ quật cho hắn một phát vào đầu là xong.” Lời khuyên đơn giản ấy lập tức gợi nhắc anh về bài học cốt lõi của Iren: Đừng suy nghĩ quá nhiều làm gì.
+
+ 
+
+Gã lực điền mang tóc giả đang trừng trừng nhìn vào đôi chân của Thomas Senlin từ chân bậc thang, thanh kiếm trên tay hắn đã vung ra phía sau để chuẩn bị giáng đòn vào đầu gối anh. Ngay khoảnh khắc tên vũ phu chạm chân vào bậc thang thấp nhất và vừa tầm với, Thomas Senlin giáng một gậy lên đỉnh đầu hắn, đánh lệch cả bộ tóc giả.
+
+ 
+
+Gã lực điền lảo đảo lùi lại, nhổ một bãi máu lẫn chiếc răng gãy xuống sàn tàu. Hắn giật bộ tóc giả màu vàng nhạt khỏi cái đầu trọc lóc để lau miệng. Khi đội lại bộ tóc giả, nó đã trở nên rối bù và đẫm đầy máu tươi. Hắn ngẩng đầu lên, không còn chăm chăm nhìn vào đầu gối của Thomas Senlin nữa. Gã đàn ông vạm vỡ lao thẳng lên cầu thang, mũi kiếm hướng thẳng vào sống mũi Thomas Senlin.
+
+ 
+
+Thomas Senlin kịp thời gạt lệch lưỡi kiếm, nhưng không thể cản lại đà lao của gã. Tên vũ phu húc sầm vào người anh, đẩy anh ngã nhào vào Voleta. Cô bé nửa như chồm lên, nửa như bị hất văng qua khẩu đại bác đặt trên mũi tàu. Cô kịp bám lấy thân pháo bằng đôi tay vòng lại, để mặc đôi chân lủng lẳng trên miệng vực thẳm. Thomas Senlin chẳng thể giúp gì cho cô bé. Anh đang bị kẹt cứng bên dưới kẻ tấn công. Gã đàn ông mang tóc giả vừa nước bọt lẫn máu văng tứ tung lên người anh vừa chật vật xoay hướng kiếm để tung đòn chí mạng. Trước khi hắn kịp chuyển hướng lưỡi kiếm, Thomas Senlin liền dùng cườm tay giáng một cú trời giáng vào yết hầu gã, đồng thời thu gọn chân lại. Anh tung cước đá văng tên vũ phu đang há hốc mồm ngã ngược xuống cầu thang, khiến hắn va vào một tên khác và cả hai ngã chồng chèo lên nhau thành một đống.
+
+ 
+
+Khi Thomas Senlin chống gối đứng dậy rồi trụ vững trên đôi chân mình, anh quay đầu lại thì thấy Voleta đang đứng thăng bằng một cách hoàn hảo trên thân khẩu đại bác, tay bám chặt lấy sợi dây chằng căng phồng nối con tàu với khinh khí cầu. Chiếc khăn choàng của cô đã mất tích, rơi xuống tận vực thẳm bên dưới, khiến cô bé lúc này chỉ mặc độc chiếc áo bó màu xanh dùng để biểu diễn. Anh thừa biết cô đang lạnh cóng, vậy mà cô bé vẫn mỉm cười và nói, “Anh đánh đấm ra phơi phới đấy chứ. Chắc hồi đi học tụi nó hay bắt nạt anh lắm nhỉ!”
+
+ 
+
+“Em không tưởng tượng nổi đâu,” Thomas Senlin đáp với giọng khô khan. Anh nhanh chóng chuyển chiếc chìa khóa của ngục trưởng từ túi áo khoác sang túi quần rồi cởi áo khoác ra. Anh giúp cô mặc nó vào; chiếc áo khoác trùm lên vai cô, rộng thùng thình như một tấm vải liệm.
+
+ 
+
+“Sao trong túi áo của anh lại nhét toàn gạch thế này?” cô bé hỏi.
+
+ 
+
+“Đó là sách. Cứ vứt chúng đi nếu cần thiết. Em hãy leo lên giàn giáo và ở yên trên đó cho đến khi con tàu thoát khỏi đây. Ngay khi thấy an toàn để trèo xuống, hãy bắt đầu tháo các sợi dây neo bên mạn trái. Chừa lại các mỏ neo cố định đến cuối cùng.” Anh siết chặt vai cô và dặn dò, “Đừng có làm mất chiếc áo khoác bằng bất cứ giá nào. Việc giữ gìn nó an toàn là vô cùng quan trọng đấy.”
+
+ 
+
+“Đừng lo, dù chuyện gì xảy ra với em đi nữa, chiếc áo khoác của anh vẫn sẽ sống sót. Thời trang muôn năm!” cô bé nói, và Thomas Senlin chỉ biết đảo mắt thở dài. Cô nhanh nhẹn leo lên hệ thống giàn dây hướng về phía phần bụng của khinh khí cầu, vừa nhanh vừa lặng lẽ, hệt như một lá cờ đen đang phấp phới bay.
+
+ 
+
+Trên boong chính, Adam đã kiên trì chiến đấu đến cùng với Bobbit. Tên thủy thủ đội mũ sọ, ngày càng kiệt sức vì phải liên tục lôi lê thanh sắt nung qua lại, giờ đây đang vung vẩy bằng tất cả sự nhiệt tình còn sót lại nhưng lại chẳng đủ sức để kiểm soát. Khi thanh sắt quẹt trúng lan can và bị mắc kẹt lại, Adam lập tức phóng kiếm đâm xuyên qua lồng ngực gã. Bobbit gục xuống, quằn quại và rít lên trong cơn đau đớn tột cùng.
+
+ 
+
+Adam đảo mắt tìm kiếm Thomas Senlin và thấy viên quản cảng đang bước xuống từ đài quan sát. Với vẻ mặt đầy lo lắng, Adam hỏi thăm tình hình của em gái, và Thomas Senlin đã chỉ về hướng anh vừa bảo cô bé leo lên. Cuộc trò chuyện của họ bị cắt đứt bởi một gã thợ hậu đài đội nồi đang lao tới định tạt sườn tấn công, nhưng Adam đã khéo léo gạt phăng nhát kiếm của hắn, còn Thomas Senlin thì dùng gậy định hướng khí lưu đánh văng gã đập thẳng vào phần chân đế của đài quan sát.
+
+ 
+
+“Nơi này đã biến thành một lò sát sinh rồi,” Thomas Senlin nói. “Nếu Goll không đến kịp thời, tất cả chúng ta sẽ tiêu đời.” Anh đã hoàn toàn bất ngờ khi Rodion ra tay thủ tiêu Thuyền trưởng Lee và giờ đây chỉ có thể hy vọng Goll sẽ vãn hồi lại chút trật tự cho khung cảnh hỗn loạn này.
+
+ 
+
+Sức gió và sự náo động của đám đông đang quần thảo khiến con tàu buộc neo chao đảo và xoay mòng mòng trên các điểm neo giữ. Lượng nước tràn trên boong tàu đang nhanh chóng đóng thành lớp băng giá. Giữa những đường kiếm đan chéo và những thân người giãy giụa, Thomas Senlin thoáng thấy Edith vẫn đang quần thảo với Rodion. Cô tung ra một bước tiến hoàn hảo: một cú chồm đột ngột về phía trước tiếp nối bằng một đường đâm chớp nhoáng, ép Rodion phải lùi sát vào lan can mạn phải. Thanh kiếm trên tay hắn khua khoắng yếu ớt khi hắn chật vật lấy lại thăng bằng. Edith chớp lấy thời cơ, dùng bàn tay cơ khí tóm chặt lấy lưỡi kiếm của tên chuyên môi giới mại dâm. Chỉ với một cú búng cổ tay nhẹ nhàng không tốn chút sức lực, cô đã bẻ gãy phăng lưỡi kiếm ngay gần sát chuôi.
+
+ 
+
+Nhưng ngay khi tưởng chừng cô đã tước được vũ khí của tên ác nhân, Rodion đột ngột xoay người và dùng chính phần chuôi kiếm cụt ngủn của mình để chặt đứt sợi dây thừng neo giữ một trong các mỏ neo ở mạn phải.
+
+ 
+
+Con tàu chòng chành dữ dội khi những sợi dây neo còn lại và khinh khí cầu giằng co để tìm kiếm một trạng thái cân bằng mới. Cả bọn cướp lẫn thủy thủ đoàn đều bị trượt dài trên mặt sàn nghiêng ngả về phía khoảng trống giữa tàu và bến cảng. Nửa tá xác chết và ba người vẫn còn sống bị hất văng xuống nước trong tích tắc, hành trình chìm xuống của họ càng thêm phần tuyệt vọng và nhanh chóng bởi lớp băng bám trên boong. Bị quật ngã ngửa, Thomas Senlin vô cùng may mắn khi trượt trúng vào bậc thang của đài chỉ huy. Adam cũng kịp bám lấy gờ của một miệng hầm. Nhưng Edith Winters lại không gặp may như vậy. Thomas Senlin chết sững nhìn cô trượt đi trên một bên sườn, đôi tay với lấy bất kỳ vật bấu víu nào. Bất lực, uyển chuyển, cô lướt qua một khoảng trống ở lan can và biến mất vào khoảng không với một tiếng thét nghẹn ngào.
+
+ 
+
+Hình ảnh Edith Winters rơi lỏm thỏm vào khoảng không bao la ấy tràn ngập mọi suy nghĩ trong đầu. Thomas Senlin đưa hai tay bịt chặt lấy tai để át đi âm thanh của tiếng thét nghẹn ngào ấy, thế nhưng tiếng thét vẫn không hề nhỏ bớt. Đột nhiên, kế hoạch của anh trở nên tồi tệ hơn cả sự liều lĩnh ngu ngốc; nó mang tội ác tàn sát. Chỉ một mình anh phải chịu trách nhiệm cho cuộc đổ máu này; anh chính là kẻ kiến thiết ngạo mễ của toàn bộ sự hỗn loạn và cái chết này. Thật bất công khi cô, một người đã phải chịu đựng quá nhiều đau khổ, lại phải chịu hình phạt thêm lần nữa chỉ vì đồng hành cùng anh. Thật bất công, nhưng điều đó cũng chẳng có gì đáng ngạc nhiên. Nếu anh chịu sống thật với lòng mình. Sự ám ảnh đã khiến anh trở thành hiểm họa cho những người bạn của mình. Họ ngã xuống chỉ để anh có thể leo lên.
+
+ 
+
+Anh biết bản thân phải hành động. Anh phải làm điều gì đó! Nhưng trong đầu anh chẳng còn lại một mưu mẹo nào nữa.
+
+ 
+
+Rodion, kẻ đã bám chặt lấy lan can cao khi con tàu chao đảo, biết chính xác phải ứng phó thế nào. Hắn ta ra lệnh gấp gáp cho thuộc hạ tước vũ khí của thủy thủ đoàn tàu *Stone Cloud*. Đang thiếu vắng người lãnh đạo lại ít quân, họ chẳng chống cự được là bao. Thomas Senlin cảm thấy gậy định hướng khí lưu bị giật phăng khỏi tay. Anh bị thô bạo lôi đứng dậy. Một tấm ván sang tàu mới được bắc lên con tàu đang nghiêng, và anh cùng Adam được áp giải bước qua. Thomas Senlin ngửa hẳn đầu ra sau để tránh không phải nhìn xuống vực thẳm kinh hoàng mà Edith Winters vừa rơi xuống, và tình cờ thoáng thấy Voleta đang nấp ở rìa ánh đèn, trên cao ở phần giằng rigging. Ít nhất thì cô bé cũng đã trốn thoát khỏi sự phát hiện. Có lẽ Rodion sẽ đinh ninh rằng con bé đã ngã xuống biển giữa lúc hỗn loạn. Biết đâu sẽ có ai đó sống sót sau sự ngu ngốc này.
+
+ 
+
+Cảnh tượng của Voleta đã đánh thức Thomas Senlin khỏi cơn bàng hoàng. Anh không thể bỏ cuộc chỉ vì đã không bảo vệ được Edith Winters. Vẫn còn những sinh mạng khác đang ngàn cân treo sợi tóc, và vẫn còn đó niềm hy vọng.
+
+ 
+
+Rodion vớt được chiếc thùng của Thomas Senlin từ đống đổ nát ở lan can bến cảng và mang nó lên cầu tàu với vẻ đắc thắng. Thomas Senlin và Adam bị ép phải quỳ xuống trước mặt Rodion. Thomas Senlin ngước nhìn gậy định hướng khí lưu của mình được trao tận tay tên chủ chứa. Hắn ta thản nhiên mân mê nó như đang thử nghiệm.
+
+ 
+
+“Ta thấy thật buồn cười khi một mọt sách như ngươi lại mang theo một thứ hung khí thô kệch nhường này. Ít nhất thì mụ đàn bà quái dị kia còn biết vung kiếm. Mụ ta thật thú vị.” Hắn ném cây gậy qua vai, và nó kêu lạng choang trên những thanh gỗ của bến cảng. Rodion bắt đầu thao tác nạp đạn cho khẩu súng lục của mình, rắc một nhúm thuốc súng đen vào ổ mồi của một khẩu. “Con bé đâu rồi? Voleta đâu?” Rodion hỏi một gã bốc vác có chiếc mũi gãy và quấn quanh cổ chiếc khăn lông vũ. Gã đàn ông nhún vai đầy vẻ hoài nghi và lắc đầu. “Cảm ơn ngươi, Harold.” Rodion nhìn xuống Adam, kẻ đang ngẩng phắt lên, đôi mắt đỏ ngầu hằn học sự phẫn nộ tột cùng. “Ta chính thức hủy bỏ hợp đồng của em gái ngươi. Hãy coi đó là món quà phúng điếu.”
+
+ 
+
+Một tiếng súng nổ vang khiến Thomas Senlin giật mình thon thót. Anh quay phắt đầu về phía phát ra âm thanh vừa kịp lúc nhìn thấy một tên thuộc hạ của Rodion bắn hạ một thành viên khác của thủy thủ đoàn tàu *Stone Cloud* vào lưng. Người đàn ông trúng đạn lộn nhào về phía trước qua mép bến cảng, và kẻ hành quyết tiếp tục di chuyển sang người kế tiếp trong hàng bốn người còn lại. Ở Chợ Vành Đai & Vạt Tháp, xác người đang rơi như mưa. Thomas Senlin vội vàng quay mặt đi.
+
+ 
+
+Rodion lại tiếp tục cất lời, dẫu cho hắn ta thường xuyên bị ngắt quãng bởi những tiếng súng khác. “Nào, chúng ta vừa nói đến đâu rồi nhỉ?” Hắn nhồi một miếng đệm vải và một viên đạn bi vào nòng súng lục. “À phải rồi. Có gì trong chiếc hộp thế, Thomas?”
+
+ 
+
+“Sao ông không tự mở ra mà xem?”
+
+ 
+
+“Chắc là ta đã diễn đạt sai câu hỏi rồi.” Rodion kéo búa súng lên và chĩa thẳng khẩu súng lục vào đầu Thomas Senlin. “Trong hộp có gì?”
+
+ 
+
+“Chúng ta có gì ở đây thế này?” một giọng nói vang lên từ phía sau. Goll bước ra từ đường hầm cảng với Iren cao lừng lững sánh bước bên cạnh, theo sau họ là bốn mươi tên tay sai trang bị vũ khí tận răng. “Chắc lại là một âm mưu động trời nào đó rồi đây.”
+
+ 
+
+Bất ngờ, Rodion giơ hai tay lên theo điệu bộ bất lực và chào đón, khẩu súng lục lủng lẳng vắt trên một ngón tay. “Goll, ông đến vừa đúng lúc để chứng kiến màn hành quyết một kẻ chủ mưu thảm hại đấy. Hắn định buôn lậu…”
+
+ 
+
+“Có phải ngươi làm thế không?” Goll cắt lời, chỉ tay về phía con tàu *Stone Cloud* đang nghiêng ngả một cách thảm hại. Bị bất ngờ, Rodion phản ứng quá chậm chạp để có thể nặn ra một câu trả lời khôn ngoan, điều đó chẳng khác nào một lời thú tội trước mặt Goll. “Vậy ra, ngươi đã đập phá cảng của ta, tàn phá một con tàu vốn dĩ, theo mọi luật lệ về sự an toàn của bến cảng, đang nằm dưới sự bảo hộ của chúng ta, và rõ ràng là đã hành quyết Tom, Dick, và Harry ở cái chốn này chỉ để trừng phạt kẻ này vì dám vận chuyển một ít hàng lậu ư?”
+
+ 
+
+Rodion gượng nở nụ cười. “Chà, tất nhiên, nghe qua thì có vẻ như hơi hấp tấp.” Tên chủ chứa vẫn liếc một mắt về phía Iren, người đang đứng với vẻ mặt điềm tĩnh, gần như chán ngán trên khuôn mặt bành rộng của cô. “Nhưng này, Finn, gã này…”
+
+ 
+
+“Đứng lên đi, Thomas. Ta không thể trò chuyện nổi với anh khi cứ cúi gằm ở đó như một con chó bị mắng mỏ đâu. Cả anh nữa, Adamos.” Goll lại một lần nữa ngắt lời tên chủ chứa.
+
+ 
+
+“Gã này,” Rodion tiếp tục, “đang bị Cao ủy Pound ở Nhà Tắm truy nã. Và ta vô cùng chắc chắn rằng chuyện này có dính líu đến cái hộp kia, thứ mà hắn đang cố lén lút đưa lên con tàu đó. Ta chỉ mới phát hiện ra tất cả những điều này vào ngày hôm qua, và ta muốn xác thực lại trước khi lôi cậu vào cuộc, Finn.”
+
+ 
+
+“Nghe này, nói huỵch tẹt ra thì anh không nên có mặt ở đây, Rodion. Anh không thuộc về nơi này,” Goll nói. “Tôi thừa biết quá khứ rắc rối của gã ngốc này. Nhưng nếu ngài cao ủy muốn bắt hắn, ngài ấy cứ việc đến mà dẫn đi. Chẳng ai ngăn cản cả. Việc Tom vẫn còn sống chứng minh rằng hoặc là hắn đã trả hết nợ, hoặc mấy khoản nợ đó vốn chẳng lớn lao gì cho cam.”
+
+ 
+
+Tất cả đều ngạc nhiên khi Adam lên tiếng. “Không, hắn đang chờ bức tranh xuất hiện công khai.”
+
+ 
+
+“Cái gì?” Goll thốt lên, thay cho sự bối rối chung của mọi người. “Bức tranh nào?”
+
+ 
+
+“Hắn không biết chuyện gì đã xảy ra với bức tranh mà Senlin đã lấy cắp từ tay hắn, nhưng hắn muốn đòi lại nó bằng mọi giá. Bằng mọi giá đấy.”
+
+ 
+
+Senlin nhìn người bạn của mình, nét mặt nhăn nhúm lại vì khó hiểu. “Cậu đang nói cái quái gì thế?”
+
+ 
+
+“Chính tôi đã mang vạ đến cho anh. Khi anh bảo rằng Cao ủy Pound sẽ trả một gia tài để lấy lại thứ anh đã đánh cắp, tôi đã viết thư cho ngài ấy để xem cái gọi là gia tài đó lớn đến mức nào.” Giọng của Adam phẳng lặng đến mức lời thú tội của cậu nghe như phát ra từ một trạng thái thôi miên. “Tôi đã đồng ý tìm bức tranh. Tôi đã đồng ý đánh cắp lại thứ mà anh đã lấy. Tôi chưa từng nghĩ rằng Pound không biết anh đang ở đâu. Tôi không hề biết rằng mình đang vẽ một tấm bia bắn lên đầu anh. Tôi đã buộc sợi dây móc vào Nhà Tắm. Tôi định dùng nó để thả bức tranh xuống. Tôi không biết rằng mình đang dọn đường cho gã điên đó leo lên. Khi Bàn Tay Đỏ đến để tra tấn ép cung anh, tôi mới biết mình đã phạm sai lầm. Tôi đã viết thư cho Pound và bảo rằng ngài ấy có thể giữ lấy gia tài của mình. Tôi đã chấm dứt rồi.”
+
+ 
+
+Adam run lẩy bẩy, và một khi đã bắt đầu, cậu gần như không thể kìm ném được cơn run rẩy ấy. “Nhưng, Rodion nói đúng, cậu không thể thông đồng với Cao ủy Pound được đâu. Ngài ấy chỉ biết nghiền nát và cướp đoạt. Tôi đã lọt vào tầm ngắm của ngài ấy. Ngài ấy biết tôi là ai, và nhanh chóng tra ra cả Voleta nữa.” Khuôn mặt Adam tái nhợt như sáp. Những bông tuyết đầu tiên bắt đầu rơi, các tinh thể nhỏ đến mức khiến bầu không khí lấp lánh. “Tôi chưa từng nghe thấy những lời đe dọa nào khủng khiếp đến thế, chưa từng tưởng tượng ra sự tàn nhẫn mà ngài ấy hứa hẹn dành cho tôi và em gái mình. Tôi buộc phải tìm ra bức tranh.” Adam trông có vẻ tổn thương khi cuối cùng cậu chạm mắt vào cái nhìn đầy hoài nghi của Senlin. “Nhưng anh lại nhất quyết không chịu nói cho tôi biết nó ở đâu. Tôi đã lục soát phòng anh, văn phòng của anh, và cầu xin anh nói cho tôi biết.”
+
+ 
+
+“Tôi chỉ đang muốn bảo vệ cậu thôi,” Senlin thì thầm. Những đám mây tuyết phản chiếu ánh đèn từ cảng vụ, rực lên một màu cam giống như khói bốc ra từ củi ướt. Chỉ một khoảnh khắc trước, anh không nghĩ mình có thể cảm thấy cô độc hơn nữa. Người vợ của anh đã mất tích, có lẽ là vĩnh viễn không thể tìm lại. Edith đã chết và Philip Ogier cũng vậy. John Tarrou thì vùi chôn trong cảnh nô lệ. Sự phản bội của Adam dường như là nhát kiếm kết liễu cuối cùng. Anh chẳng còn một ai là bạn.
+
+ 
+
+Thế nhưng, ngay khi ý nghĩ đó vừa thoáng qua, trái tim anh bỗng chốc chùng xuống. Anh đang tự chìm đắm trong sự thương hại bản thân. Đúng là Adam đã phạm phải một sai lầm nghiêm trọng, nhưng đó là sai lầm xuất phát từ sự tuyệt vọng và ngây thơ. Senlin cũng đã phạm phải vô số lỗi lầm tương tự kể từ khi đặt chân đến đây. Và chẳng phải Adam đã giải cứu anh khỏi tay Bàn Tay Đỏ, dẫu phải chấp nhận hiểm họa khôn lường cho chính mình hay sao? Chẳng phải Adam đã hùa theo kế hoạch của Senlin đó sao, dẫu cho nó có vẻ, và quả thực đã chứng minh là, đỉnh cao của sự dại dột? Thật đấy, liệu Senlin có xứng đáng làm một người bạn tốt hơn chăng?
+
+ 
+
+Có lẽ là không. Nhưng rồi, liệu những lý lẽ đó, dẫu có lạc quan đến đâu, có thể nào khôi phục lại niềm tin của anh dành cho Adam được nữa không? Senlin không chắc chắn, nhưng anh quyết định rằng, khi cuộc đời mình chỉ còn tính bằng phút, ít nhất anh sẽ cố gắng tha thứ cho Adam.
+
+ 
+
+Rodion mỉm cười như một kẻ vừa được phán quyết của tòa án minh oan, hạ nòng khẩu súng cán ngà hướng về phía Adam đang hoảng loạn và run lẩy bẩy. “Và thế là rõ nhé,” hắn nói. “Âm mưu đã bị lột trần.”
+
+ 
+
+Finn Goll giơ một tay ra hiệu can ngăn. “Những sai lầm của thằng nhóc này chẳng giúp gì cho những sai lầm của anh đâu, Rodion. Cất súng đi. Adam, điều cuối cùng cậu nói với Cao ủy Pound là gì?”
+
+ 
+
+“Rằng bức tranh sắp sửa được mang ra ngoài ánh sáng. Tôi đã nói với ngài ấy rằng nó sẽ ở trên con tàu khiêm nhường nhất tại cảng vào tối nay và rất dễ bị thâu tóm. Đó là điều tôi đang cố nói với các người đây. Tôi thú nhận lúc này là bởi vì ngài ấy sắp đến. Ngài ấy đang đến đây vào tối nay.”
+
+ 
+
+Dẫu cho họ vừa mới nghi kỵ lẫn nhau chỉ một khoảnh khắc trước, giờ đây tất cả lại cùng chung một nỗi sợ hãi chấn động. Mỗi con người trong căn phòng đầy bất an và thù địch ấy đều thầm lặng tính toán cơ hội sống sót của chính mình. Senlin nén lại một cơn buồn cười bệnh hoạn: Hợp lại thì anh cứ tưởng mình đã nạp quá nhiều đạn, đã thả lỏng quá nhiều cò súng trong sân. Hóa ra Cao ủy Pound mới là kẻ lu mờ tất cả bọn họ.
+
+ 
+
+“Bức tranh đâu?” Goll hỏi, và Senlin phải mất một giây mới nhận ra mình chính là đối tượng của câu hỏi. Khi anh nhìn sang, Goll đang trừng trừng nhìn anh đầy giận dữ. “Đừng có mà nói dối, Tom. Tôi đang không có tâm trạng đâu.”
+
+ 
+
+“Trong chiếc thùng kia kìa,” Senlin nói, ra hiệu về phía chiếc hộp mà một cách tự nhiên và khó hiểu lại được đặt ngay giữa chỗ họ tụ tập.
+
+ 
+
+“Mở nó ra, Iren,” Goll ra lệnh, và người phụ nữ vạm vỡ liền ngoan ngoãn quỳ xuống, cúi sát chiếc thùng nhỏ.
+
+ 
+
+Điều gì vừa xuất hiện trong đầu Rodion thì không ai rõ lắm. Có lẽ hắn đã tính toán cơ hội sống sót qua buổi tối nay và không thích kết quả đó, hoặc có lẽ hắn nhìn thấy thời cơ trong khoảnh khắc khám phá này để xoay chuyển cục diện quyền lực. Và cũng hoàn toàn có thể chỉ là một cơn thịnh nộ hoặc nỗi hoảng sợ tột độ đã khiến hắn chĩa thẳng khẩu súng ngắn ngụy trang chìa khóa vào sát tai Iren.
+
+ 
+
+Senlin không kịp suy nghĩ. Anh chỉ vung tay, bàn tay đột ngột thò ra từ túi áo giống như một chú chim giật mình bay vụt khỏi lùm cây. Tiếng nổ nhỏ của lượng thuốc súng vang lên nghe như tiếng bật nút chai champagne. Một giọt máu đỏ rớm ra ngay dưới mắt Rodion, và gã chủ nhà chứa mặc áo viền lông đưa tay lên định quẹt đi. Nhưng giọt nước mắt ấy phình to lên khi hắn chạm vào, rồi giống như một chiếc vòi nước bị mở tung, bắt đầu tuôn xối xả dọc khuôn mặt hắn. Rodion phát ra một tiếng ngáy khò khè đáng sợ rồi ngã vật xuống chết ngấm giữa lớp bụi tuyết mịn màng.
+
+ 
+
+Senlin hạ chiếc súng ngắn ngụy trang chìa khóa xuống khi nhận ra tất cả mọi người đang đổ dồn ánh mắt về phía mình, đặc biệt là Iren, người đang nhổm người dậy giữa tiếng da thuộc kèn kẹt và tiếng xích sắt cọ xát khô khốc.
+
+ 
+
+“Chà, thế là giải đáp được một câu đố,” Goll nói. Senlin ngập tràn cảm giác ghê tởm, dù không hề hối hận. Khi Goll cất lời lần nữa, giọng điệu hắn không hề mang chút ác ý nào, nhưng cũng chẳng mảy may do dự. “Trong lúc chúng ta đang phải vội vã giải quyết những hệ lụy phiền toái này, Iren, phiền cô đưa Adam về với lòng đất vĩnh hằng nhé? Nhanh tay lên.”
+
+ 
+
+Chiếc mặt nạ sắt quen thuộc của nữ chiến binh dường như biến dạng ở các khóe miệng, và biểu cảm của cô đau đớn đến mức trong một khoảnh khắc, Senlin tưởng rằng cô đang kìm nén một cơn hắt hơi dữ dội. Sau đó, cô đưa tay with lấy sợi xích quấn quanh người, ngập ngừng dừng lại tới mấy lần.
+
+ 
+
+Một loạt tiếng gầm thét kinh ngạc từ đám đông bốn mươi người đã tước đi bài điếu văn dành cho Adam. Họ đồng loạt quay head lại và đều chết sững trước viễn cảnh ba vầng trăng đen đang nhô lên trên đường chân trời ở tận rìa bệ đài. Hình bóng ẩn hiện trong ánh bình minh ấy không thể nhầm lẫn vào đâu được: Phần thân tàu trông giống như một đấu trường bị nhổ bật gốc. Đó chính là chiếc *Ararat*, phi thuyền pháo đài Ararat của vị cao ủy, chiến hạm đáng sợ nhất trong hạm đội của ông ta.
+
+ 
+
+Ngay khi các cửa khẩu pháo vừa vượt qua mép bến cảng, chúng liền bắt đầu khai hỏa. Mục tiêu của chúng hiện rõ ngay lập tức: chiếc *Gold Finch* đang neo đậu, con tàu thương gia sang trọng. Một tá lỗ thủng chi chít trên thân tàu, sắc gọn ở chỗ đâm vào và nham nhở ở chỗ thoát ra. Những đường nét trang trí chạm trổ tinh xảo trên lan can và mạn tàu vỡ vụn thành từng búi thạch cao bay mù mịt. Thủy thủ đoàn của chiếc *Finch*, những kẻ vừa chui xuống dưới boong tàu để tránh bão, bỗng ùa ra từ cửa hầm bếp trong sự hoảng loạn tột độ, nhưng trước khi bất kỳ ai kịp chạy ra mạn tàu, lò hơi chính giữa của con tàu đã trúng phải một quả đạn pháo dội lại. Lò hơi bị tàn phá lập tức bén lửa vào đường dẫn khí, bùng lên như một ngòi nổ hướng thẳng vào khối khí hydro chứa ở phía trên. Khi bắt lửa, lượng khí bên trong bùng nở thành một ngọn lửa màu cam rực rỡ. Ngọn lửa nuốt chửng lớp vỏ bọc bằng lụa dài, lan rộng với sự thong thả kỳ quái của một trang sách đang cháy. Con tàu không hẳn là rơi xuống mà chìm thật nhanh, những ngọn lửa héo tàn rực sáng rồi lụi dần khi các dây neo bị giật đứt khỏi bến cảng, và thân tàu lăn kẽo kẹt trượt khỏi chiếc bệ đỡ vốn đã chẳng tài nào giữ nổi.
+
+ 
+
+Chỉ một khoảnh khắc sau, chẳng còn lại gì ngoài chiếc *Gold Finch* với những tàn tro đang ánh lên trong bóng tối giống như những ngọn nến trong một buổi cầu hồn.

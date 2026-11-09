@@ -1,0 +1,175 @@
+# Chương Tám
+
+Ứng viên hôm nay: *Fat Alistair*. Nó là một con tàu buôn, dài bốn mươi sáu feet, từ mũi tới đuôi, trang bị hai khẩu pháo hai mươi pound và mười hai giường tầng. Nhìn bề ngoài thì đây là một ứng viên sáng giá; ngặt nỗi nó lại treo cờ của Pelphia. Cướp tàu của Vương tộc Pell và Đế chế Pelphia, những kẻ mà có ngày tôi phải thâm nhập vào, thì quá ư là ngu ngốc. Cuộc tìm kiếm vẫn diễn ra.
+
+ 
+
+*Tháp Của Mọi Người, Gian Truân Của Một Người* bởi T. Senlin
+
+ 
+
+Senlin ngồi cứng ngắc trên chiếc ghế nhung sang trọng mà anh vừa được dẫn tới, cây gậy định hướng khí lưu đặt vắt ngang đầu gối. Anh chắc chắn rằng phòng lò hơi nằm ngay bên dưới; anh có thể cảm nhận rõ sự rung động nhè nhẹ của máy móc truyền qua lớp sàn nhà. Sự tương phản giữa âm phủ u ám đó và nhà hát mạ vàng lộng lẫy vươn cao xung quanh anh quả thực kỳ ảo đến mức khó tin. Senlin bị bao bọc bởi hàng trăm gã đàn ông diện những bộ trang phục được coi là lịch sự trong một thành phố lao động; áo khoác bị mọt gặm, mũ sờn rách và cổ áo ngả màu khói thuốc lá xuất hiện ở khắp mọi nơi. Bọn họ vô cùng kích động và háo hức. Những lô ghế nhà hát chạm trổ tinh xảo, trang hoàng bằng các phù điêu thạch cao tạc hình những thân hình khỏa thân ngả ngớn, che khuất tầm nhìn của đám đông phàm phu phía dưới khỏi những đôi mắt tò mò của tầng lớp thượng lưu.
+
+ 
+
+Ngay giữa sân khấu, Rodion ngồi trước một bàn phím đàn ống có hình dáng như một chiếc trăng lưỡi liềm. Gã chơi đàn với nguồn năng lượng bừng bừng, cứng nhắc trong từng chuyển động của cánh tay. Tiếng đàn nghe không khác gì một cái lồng chim náo loạn. Mỗi nốt nhạc vang lên đủ lớn để làm da thịt người ta phải gai người. Rodion thò tay giật mấy dãy cần ngà voi thuần thục như một tay thợ hái quả trên cao, thay đổi và chồng lớp các âm điệu sao cho phù hợp với đoạn nhạc gã đang trình tấu. Tài năng của gã đàn ông này là điều không thể chối cãi.
+
+ 
+
+Phía sau chiếc bàn điều khiển của người chơi đàn, một dàn ống sáo vươn lên thành từng tầng từ mặt sàn trải dài lên tận giữa vòm cung tiền sảnh, lấp đầy cả sân khấu. Tấm màn nhung đỏ thẫm mà Senlin vừa mới thấy mặt sau của nó lúc nãy đang phần phật bay trước luồng gió thổi thốc ra từ những ống sáo giả lập đó. Hầu hết các ống cộng hưởng bằng đồng lấp lánh đều có kích thước lớn đến mức đủ nuốt chửng một con người. Phía trên đầu anh, phần trần vòm cao vút đã được sơn màu của một bầu trời quang mây.
+
+ 
+
+Nhưng thứ làm cho đám đông lấp đầy nhà hát phải say mê không phải là những dàn ống sáo đồ sộ được đánh bóng loáng, cũng chẳng phải gã nhạc công phô trương hay những hợp âm vang rền như sấm dậy ấy. Chính là những người phụ nữ bước ra sân khấu, trèo lên mặt dựng của ngọn núi bằng đồng với vẻ khêu gợi đầy bạo dạn. Họ leo trèo và nhảy nhót dọc theo phần đỉnh của các ống sáo, nhanh nhẹn như sơn dương, uyển chuyển như vũ công múa ba lê. Ai nấy đều trẻ trung và trang điểm đậm, đôi mắt được tô vẽ phóng đại bằng than chì và phấn màu, bờ môi đỏ rực rỡ như những trái anh đào bị nghiền nát. Tất cả đều bị siết chặt trong những chiếc áo nịt ngực bó sát; những chiếc váy diềm xếp nếp xòe rộng quanh hông. Những luồng gió bỗng bùng nổ từ các ống sáo nằm ngay bên dưới những nữ vũ công đang leo trèo và nhảy nhót, thổi tung váy của họ lên tận thắt lưng. Các vũ công vội đưa tay che miệng điệu đà làm dáng như đang thẹn thùng. Khán giả bên dưới ngả người, nhún nhảy và vỗ tay rào rào trên ghế. Những đôi tất đen. Những chiếc nịt bít tất trắng. Những khoảng đùi trần thoáng hiện. Cứ như thể thứ âm nhạc đang bùng nổ kia đang lột sạch xiêm y của họ vậy.
+
+ 
+
+Ý nghĩ cho rằng Marya cũng có thể đang bị đẩy vào một kết cục tương tự ở đâu đó ngoài kia cũng đủ khiến anh muốn bắn nát hệ thống đèn đóm, bóp cổ gã nhạc công và nhấn chìm toàn bộ khung cảnh kinh hoàng này vào trong sự tĩnh lặng chết chóc. Nhưng anh lại nằm trong số ít người có suy nghĩ đó. Phần lớn khán giả ngoài kia không hề nhìn thấy những người chị em và con gái, những linh hồn lầm lạc hay những trái tim ưa mạo hiểm. Họ chỉ nhìn thấy những luồng ánh sáng sân khấu quét ngang qua những đôi chân đang vung vẩy. Họ nhìn thấy hàm răng bôi mỡ và những bộ ngực đang nảy lên bần bật. Khi mái tóc của họ bị gió thổi dựng đứng lên trên đầu, những người phụ nữ trông chẳng khác nào những trái cây đang lủng lẳng trên cành nhờ chính mái tóc của mình.
+
+ 
+
+Senlin tự hỏi không biết ai trong số họ mới là Voleta.
+
+ 
+
+Rodion kết thúc khúc nhạc của mình bằng một màn trổ tài bùng nổ như núi lửa phun trào rồi quay người lại phía đám đông. Mấy nữ vũ công túm lấy váy và cúi chào duyên dáng ngay phía trên gã. Tiếng vỗ tay nhỏ dần khi gã giơ một bàn tay đeo găng trắng lên ra hiệu giữ trật tự. “Buổi tối tốt lành, các quý ông, và chào mừng đến với Nhà Hàng Khói.” Gã dừng lại chờ làn sóng hoan hô chân thành lắng xuống. “Xin vui lòng liên hệ với những người gác cửa nếu các ông có hứng thú với một buổi biểu diễn riêng tư hơn. Nhân viên của tôi sạch sẽ y như hệ thống ống sáo của tôi vậy!” Tiếng cười vang lên rộ lên. “Không phải người phụ nữ nào sinh ra cũng giống nhau.” Gã tiếp tục, và Senlin nhận ra những lời đó đã được kịch bản hóa từ trước. “Có người đẹp đẽ; có người táo bạo. Có người có tài năng thiên bẩm, từ thể thao cho đến nghệ thuật ngoại lai.” Một tiếng hét thô tục từ đám đông cất lên khiến tràng cười mới lại bùng nổ. “Nhưng tôi mới chỉ từng biết đến một người phụ nữ duy nhất có khả năng bay lượn! Và giờ đây, không để quý vị phải chờ đợi lâu hơn nữa, cô gái mà tất cả các vị đã bỏ tiền ra để thưởng thức, Voleta - Cô Gái Biết Bay.”
+
+ 
+
+Một cánh cửa sập mở ra ở đỉnh vòm màu xanh, và một người phụ nữ ngồi trên chiếc xích đu nhào lộn được thả từ từ xuống dưới. Mái tóc đen dày xù tung lên thành những lọn xoăn tít hoang dã quanh bờ vai khiến đầu cô trông có vẻ lớn còn thân hình lại vô cùng mảnh dẻ. Cô mặc một bộ đồ bó sát màu tím che kín phần ngực vạm vỡ cùng phần hông nở nang, để lộ đôi chân thon thả và làn da bánh mật.
+
+ 
+
+Ngay cả từ khoảng cách này, Senlin cũng có thể nhận ra cô chính là em gái của Adam. Cô vẫn có cái miệng rộng và chiếc mũi dọc dừa ấy, nhưng đôi mắt thì hoàn toàn là của riêng cô: to tròn, có sắc tím biếc và được viền quanh bằng màu xanh lá. Những hạt cườm màu xanh lấp lánh bên thái dương cô. Cô mỉm cười, không phải theo cách khêu gợi mà giống như một người thợ thủ công đang tận hưởng niềm vui trong công việc của mình. Cô dùng chân đẩy chiếc xích đu vút bay lên phía khán đài, rồi lại văng ngược lên vách đá dựng đứng của dàn ống sáo. Thật uyển chuyển và điềm tĩnh làm sao! Rodion tấu lên một giai điệu đầy ám ảnh, mang đậm chất kịch và phảng phất nét nguy hiểm. Senlin chết sững vì mê mẩn. Chỉ với một động tác khéo léo, Voleta lộn nhào qua thanh xà, và có khoảnh khắc anh chắc mẩm chiếc xích đu sẽ bỏ rơi cô lại phía sau. Nhưng cô xoắn người giữa không trung như một sợi khói rồi bắt lấy thanh xà lần nữa. Đu đưa bằng đôi tay, đôi giày vải của cô sượt qua những ngón tay đang với tới của đám đàn ông táo tợn từ chỗ ngồi của họ. Sau đó, ở điểm cực hạn của cú văng, cô buông tay khỏi thanh xà và xoay tròn như cánh hạt phong, tóm lấy thanh xà ngay khi nó bắt đầu quay về. Khi cô lộn nhào, mái tóc rối bù tuyệt đẹp càng làm tôn lên vóc dáng của cô giống như cái đuôi của một cánh diều. Tim Senlin thắt lại nghẹn ngào, ngập tràn sự kinh hoàng và kinh ngạc. Cô thật ngoạn mục.
+
+ 
+
+Sau một vài động tác nhào lộn nữa, cô làm chậm dần cú văng của xích đu, vẫy tay chào đám đông với vẻ hồn nhiên như đứa trẻ, rồi được kéo ngược lên qua cánh cửa sập trên mái vòm. Lần này Senlin thấy chính mình cũng đang hòa vào tràng pháo tay cuồng nhiệt.
+
+ 
+
+Có một cuộc hội ngộ ngắn ngủi nhưng đầy cảm động ở hậu trường giữa hệ thống ròng rọc, các thùng nước cứu hỏa và thứ gàu dán lấp lánh của hàng ngàn bộ trang phục. Vẻ mặt tiều tụy quen thuộc của Adam biến mất khi anh ôm chầm lấy Voleta trong cái ôm vui mừng. Senlin cảm thấy thật vinh dự khi được chứng kiến khoảnh khắc hạnh phúc ấy. Khi đặt chân xuống mặt đất, Voleta bỗng trở nên nhỏ bé hơn so với lúc hóa thân thành Cô Gái Băng Khoải. Cô cởi mở, có phần ngớ ngẩn trong các biểu cảm, và trông hoàn toàn trái ngược với người anh trai ở nhiều khía cạnh. Adam giới thiệu Voleta với Senlin, và cô bắt tay anh với cái nắm tay mềm mại, rụt rè của một đứa trẻ. Nhưng cô không hề trẻ con, và ẩn sau ánh mắt ấy là một trí tuệ nhanh nhạy. Dẫu vậy, cô vẫn có những tật xấu nhỏ; cô thường cười hô hố sau khi có ai đó nói chuyện một cách nghiêm túc, như thể cô thấy sự nghiêm túc tự nó đã rất buồn cười. Tiếng cười ngắn ngủi, hoàn toàn không có chút nữ tính nào, nghe giống tiếng “hừm-hừm” của một gã nam trung hơn là tiếng cười của một thiếu nữ mười tám tuổi. Đó là một nét kỳ quặc đáng yêu đến kỳ lạ.
+
+ 
+
+Voleta huyên thuyên kể về màn trình diễn của mình, về sự bực bội khi luôn bị giam cầm bên trong và sự ghen tị khi Adam được nhìn thấy mặt trời bất cứ lúc nào anh muốn. Cô kết thúc câu nói dài dằng dặc ấy bằng một lời miêu tả đầy hào hứng về hộp bốn viên kẹo dẻo mà cô được tặng làm quà, ba viên ngon tuyệt thiên đường, còn viên thứ tư thì ghê tởm. Adam nói rất ít, nhưng nụ cười của anh đã đủ sức diễn tả tất cả. Senlin ngờ rằng những dịp như thế này rất hiếm hoi đối với họ, và anh tự hỏi liệu những người thân yêu đã mất đôi khi còn tốt hơn những người thân yêu đang bị giam cầm hay không.
+
+ 
+
+Rồi, chẳng mấy chốc mà Rodion xuất hiện, theo sát phía sau là một đoàn tùy tùng gồm các thiếu nữ, nhân viên hướng dẫn, thợ trang điểm và một lô các nhân viên hậu đài khác. Gã đi trước họ như một vị vua, vẫn mặc chiếc áo khoác nhung màu thâm và áo choàng đỏ rực, nhưng nay có thêm một điểm mới: Cán chuôi bạc của một khẩu súng lục ló ra từ bao súng bên hông.
+
+ 
+
+Rodion xen ngang vào bộ ba hạnh phúc của họ, dập tắt ngay nụ cười trên khuôn mặt Adam. Gã chỉ tay về phía Voleta. “Buổi diễn tiếp theo sẽ bắt đầu sau nửa tiếng nữa. Cô cần phải ăn uống và quay lại phòng hóa trang mau lên,” gã chủ chứa nói bằng một giọng điệu nhại lại sự quan tâm của bậc sinh thành. Voleta ném cho gã một nụ cười nhạt nhẽo, dẫu cho nó không hề mang chút tinh thần phản kháng nào, rồi quay sang hôn phớt lên má anh trai.
+
+ 
+
+“Đừng ăn đống kẹo dẻo đó, Voleta. Chúng không phải quà cáp gì đâu. Chúng là khoản trả góp từ những kẻ đang cố mua chuộc em đấy,” Adam nói.
+
+ 
+
+Voleta bật ra tiếng cười hừm-hừm quen thuộc. “Nếu ai đó muốn mua em bằng sô-cô-la, họ sẽ không thích món quà họ nhận được đâu,” cô nói, phồng má lên và vòng hai tay ôm lấy một chiếc bụng giả tượng to kềnh. Lần này Adam không cười; trông anh tái mét và tiều tụy. Voleta hướng đôi mắt tím biếc về phía Senlin. “Ông là sếp của anh ấy đấy. Ra lệnh cho anh ấy vui lên đi, rồi quất vào người anh ấy bằng một cái gậy cho đến khi nào vui mới thôi. Cứ cầm một khúc chổi quét nhà đi theo sau và phang cho một phát mỗi khi anh ấy thở dài,” cô nói và vỗ tay bộp bộp. Trước khi Senlin kịp đáp lời, cô nhón gót đặt một nụ hôn lên má anh y như đã làm với anh trai mình.
+
+ 
+
+Voleta lại hòa mình vào dòng người gồm các vũ công và nhân viên hậu đài, cả nhóm tan biến vào trong sâu thẳm nhà hát, nơi những phòng thay đồ biến thành phòng ngủ, và một số khán giả phải trả rất nhiều tiền để được trở thành nhân vật chính trong một khoảng thời gian.
+
+ 
+
+Khi cả nhóm đang rẽ qua góc khuất, một nữ vũ công tóc vàng tụt lại phía sau trừng mắt nhìn ngược lại họ… không, không phải họ, mà là Senlin. Ánh mắt cô ta mang một vẻ đầy nham hiểm, và anh nhận ra mình đã từng gặp cô ta rồi. Đúng rồi, anh từng thấy cô ta trên chiếc sà lan mà anh dùng để trốn khỏi Nhà Tắm. Chẳng phải cô ta cũng từng trừng mắt nhìn anh khi đó sao?
+
+ 
+
+Trước khi Senlin có thể tiếp tục chuỗi suy nghĩ phiền toái đó, Rodion đã nắm lấy dây cương và bẻ lái cuộc trò chuyện về hướng của gã. “Thật là một thứ thiên tài vô giá,” gã nói, gật đầu nhìn theo tiếng trò chuyện đang nhỏ dần của nhóm người. Ngực gã phô phang niềm tự hào gia trưởng không xứng đáng. “Vô giá! Tôi chưa từng dám mơ tới việc để loại tài năng đó phải chôn vùi trong vô danh. Cả thế giới này xứng đáng được xem cô ấy biểu diễn.”
+
+ 
+
+Senlin có thể nhận ra Adam biết gã chủ chứa đang khiêu khích mình. Cậu thanh niên không cắn câu. Senlin cảm thấy tự hào về cậu, dẫu cho chiến thắng ấy chẳng kéo dài được bao lâu.
+
+ 
+
+“Một nam tước người Algezia đã xem màn trình diễn của cô ấy tối hôm trước và rất ấn tượng. Ông ta muốn có một buổi biểu diễn riêng, nhưng theo thỏa thuận của chúng ta, tôi đã nói với ông ta rằng vẻ đẹp và kỹ năng xuất sắc như thế không phải để cho thuê.” Làn da căng cứng, thiếu máu của Rodion đùn lại quanh miệng như khớp ngón tay của một ông già; đó là một nụ cười gớm ghiếc. “Tôi là một gã chủ chứa. Tôi thích giao dịch với gái điếm hơn. Với gái điếm thì không có chuyện tán tỉnh, ít sự xoay vòng, không cần những cuộc đàm phán phức tạp hay bằng chứng trinh bạch hay những câu hỏi về gia phả. Cuộc sống của một kẻ buôn vợ mới thật kiệt quệ! Nhưng em gái cậu đã làm thay tôi tất cả mọi việc đó. Con bé bước lên sân khấu, tán tỉnh họ, mặc cả với họ, và chứng minh bản thân mình thuyết phục hơn gấp trăm lần so với bất kỳ bác sĩ hay nhà gia phả học nào từng làm. Con bé đang biến gã chủ chứa già này thành một kẻ buôn vợ. Tôi đã nói con bé là vô giá, nhưng nó vẫn luôn tìm kiếm cái giá của chính mình. Vị nam tước người Algezia đã gợi ý rằng nó có thể đáng giá hai mươi lăm mina. Nhưng ý kiến của cậu thế nào? Cậu nghĩ em gái mình đáng giá bao nhiêu?”
+
+ 
+
+Adam gồng mình chồm tới, đôi tai đỏ bừng; những mạch máu trên cổ nổi lên hằn học. Senlin biết chuyện gì sắp xảy ra. Trong khoảng thời gian làm hiệu trưởng, anh đã không ít lần chứng kiến những nạn nhân của bạo lực học đường đột nhiên chạm tới giới hạn chịu đựng của họ. Cuộc ẩu đả diễn ra sau đó thường vô cùng đẫm máu. Rodion đang đẩy Adam tới bờ vực của sự tự chủ. Gã đang tìm kiếm một cái cớ để bắn chết người em trai phiền phức của ngôi sao sân khấu. Senlin buộc phải can thiệp.
+
+ 
+
+Senlin vung cây gậy định hướng khí lưu nặng trịch xuống thấp, đánh mạnh vào mặt sau đầu gối Adam. Cậu thanh niên bị bất ngờ, ngã sụp xuống như một hòn đá. Nằm xoài trên sàn hậu trường, Adam lật người một cách vụng về dưới chân Senlin, ngước nhìn anh lên với vẻ mặt đầy sửng sốt và bị phản bội. Senlin hất đầu về phía cửa hậu trường và nói bằng một giọng đều đều, tàn nhẫn: “Adam, khởi động xe đi.”
+
+ 
+
+Adam đứng dậy và xốc lại tinh thần, không một lần rời mắt khỏi Senlin, sự ngạc nhiên ban đầu nhanh chóng chuyển hóa thành cơn giận dữ khi cậu bước đi với một bên chân hơi khập khiễng hướng về phía cửa. Senlin chỉ có thể cầu mong cậu thiếu niên sẽ tha thứ cho mình.
+
+ 
+
+Rodion nheo mắt nhìn vị trưởng bến cảng như thể anh vừa mọc ra sừng vậy. “Chà, hóa ra gã mọt sách cũng có gan đấy chứ,” gã lẩm bẩm, rồi ưỡn ngực hỏi: “Tại sao anh lại đến đây? Thực sự là vì cái gì?”
+
+ 
+
+“Finn bảo tôi đi thăm dò.” Lời nói dối thốt ra một cách bâng quơ, tựa như Senlin đã quá chán ngán với trò lừa gạt này đến mức chẳng muốn tiếp tục nữa. “Ông ta thắc mắc không biết mình có thu đủ tiền vé không, nên bảo tôi đến đếm số đầu người. Cả hắn ta lẫn cái mụ béo phì đó thích ngồi lên ngón cái làm gì thì làm,” Senlin nói. Tất cả chỉ là sự ra vẻ ta đây, tất nhiên rồi, nhưng nhiều năm quan sát các trò chơi trên sân trường đã dạy Senlin rằng một chút khoa trương thường là cách tốt nhất để chấn áp kẻ bắt nạt. “Hãy cho tôi số lượng đầu người của anh, và tôi sẽ báo cáo lại.”
+
+ 
+
+“Một trăm ba mươi sáu,” Rodion nói. “Tôi không tin vào lòng rộng lượng hay tình anh em đâu. Vậy hãy nói cho tôi biết tại sao anh lại tha cho tôi rắc rối này.”
+
+ 
+
+“Gã đó đã đủ hoang tưởng rồi mà không cần phải xác thực thêm sự nghi ngờ của hắn. Nếu hắn tìm thấy một lỗ hổng trong túi tiền của mình, hắn sẽ tìm kiếm thêm những lỗ khác, và tôi không muốn điều đó.” Anh gõ mạnh cây gậy xuống sàn một cái như để chấm câu, tạo ra một tiếng vang trầm đục từ sân khấu rỗng. Senlin quay người định bước đi, rồi giả vờ như vừa chợt nhớ ra một điều gì đó phiền toái, anh xoay người lại đối mặt với gã chủ chứa. “Và tôi nghĩ cô bé đó đáng giá ít nhất ba mươi mina. Quả là một sinh linh tuyệt mỹ!”
+
+ 
+
+Đó là một cú khích đểu yếu ớt, nhưng Senlin hy vọng nó đủ để khuấy động lòng tham của gã chủ chứa và mua cho họ chút thời gian để lên kế hoạch. Nếu trước đó trong đầu anh còn chút nghi ngờ nào, thì giờ đây hoàn toàn không còn nữa: Anh sẽ làm mọi thứ có thể để giúp Voleta trốn chạy khỏi tên để tiện tàn nhẫn này.
+
+ 
+
+---
+
+ 
+
+Adam không hề bốc hỏa. Cậu hoàn toàn suy sụp, và điều đó còn tồi tệ hơn gấp vạn lần. Senlin đã hy vọng cậu thanh niên sẽ đáp trả cú đánh đó bằng một cú đánh của riêng mình. Ngay lúc này, cậu thanh niên lại ngồi gục đầu bên chiếc vô lăng mảnh khảnh của chiếc xe tự hành, ánh mắt lờ đờ, vô thức xoa bóp mặt sau cẳng chân. Senlin cất lời xin lỗi vì đã đánh cậu, và phản ứng duy nhất của Adam là dừng hành động xoa bóp chỗ đau đó lại.
+
+ 
+
+“Hắn đã bắn cậu rồi đấy.” Senlin gần như phải hét lên để át đi tiếng lạch cạch của các pít-tông.
+
+ 
+
+Adam nghiền ngẫm điều đó, đầu tiên là gật đầu, rồi lắc đầu, và cuối cùng gục đầu xuống với vẻ thảm hại. Cậu trông có vẻ như sắp gục ngã đến nơi rồi. Cậu nói với giọng nghẹn ngào đầy kiêu hãnh: “Hắn chưa bẻ gãy được con bé đâu. Ông đã thấy nó rồi đấy. Nó bất khuất lắm.” Tia chớp trong mái vòm có song sắt bao quanh thành phố lóe lên một cách đầy cuồng nhiệt, làm gián đoạn cuộc trò chuyện của họ. Ánh sáng gai góc đâm thủng màn sương mù và thiêu rụi hàng tá con thiêu thân cùng loài dơi. Khi cơn bão trong lồng kính kết thúc, Adam tiếp tục với nguồn năng lượng được hồi sinh. “Tôi có trách nhiệm phải đảm bảo con bé không bị bẻ gãy. Tôi có trách nhiệm. Tôi phải làm gì đó…”
+
+ 
+
+Senlin rất muốn nói điều gì đó, muốn thổi bùng lên ngọn lửa từ sự thức tỉnh của Adam, nhưng anh lo rằng làm thế sẽ chỉ làm giảm đi niềm tin của Adam vào chính mình. Thế nên, thay vì thuyết giáo, Senlin quyết định thú nhận sự thất bại của chính bản thân anh. “Tôi đã từng thử kiên nhẫn ở Nhà Tắm. Tôi có một phương pháp và một lịch trình tuân thủ suốt nhiều tuần lễ. Tôi mong đợi một kết quả công bằng, mong cái Tháp sẽ thưởng cho sự kỷ luật của bản thân bằng… một cuộc hội ngộ kỳ diệu.” Anh phát ra một tiếng kêu đầy ghê tởm ở cổ họng. “Nếu tôi cứ bám lấy thời gian biểu của mình và nuôi dưỡng cảm giác được ban phát đó thêm chút nữa, chắc giờ này tôi đã thành một tên phu khuân gạch rồi. Tôi chẳng mảy may nghi ngờ điều đó. Và Marya sẽ mãi mãi mất đi đối với tôi.”
+
+ 
+
+“Vậy ông đã làm gì?” Adam hỏi.
+
+ 
+
+“Tôi đã cướp tài sản của ủy viên. Không, đầu tiên là tôi âm mưu, rồi thâm nhập, rồi nịnh hót, rồi lừa đảo, và cuối cùng là cướp của ủy viên.” Một nụ cười mãn nguyện thoáng hiện trên khuôn mặt anh. “Ồ, nếu Finn Goll biết tôi đã để lại một bãi chiến trường tồi tệ cỡ nào… Chắc chắn đang có một khoản tiền thưởng cho cái đầu của tôi ở Nhà Tắm; có lẽ tôi đáng giá cả một gia tài nhỏ đối với lão ủy viên. Tôi đã lấy đi thứ gì đó của lão, và chắc chắn lão rất muốn đòi lại nó.” Anh nghe thấy giọng điệu khoác lác đang len lỏi vào lời mình và ho khan để che đậy sự xấu hổ. Anh cần phải lái cuộc trò chuyện quay trở lại mục đích chính. “Ý tôi là, đôi khi chúng ta phải chấp nhận những rủi ro được tính toán trước, Adam. Chúng ta không thể mong đợi cái Tháp đối xử công bằng với mình, hay mong những kẻ quyền lực phải tôn trọng chúng ta.”
+
+ 
+
+“Rủi ro được tính toán trước…” Adam cau mày và vặn chặt vô lăng đến mức các khớp xương trắng bệch không còn một giọt máu. “Ông có kế hoạch gì chưa?”
+
+ 
+
+“Kế hoạch vẫn đang hình thành, nhưng tôi biết chúng ta sẽ cần những mảnh ghép nào.”
+
+ 
+
+“Đó cũng là một điểm khởi đầu, tôi đoán vậy. Chúng ta sẽ cần những gì?”
+
+ 
+
+Senlin đếm từng điểm trên những ngón tay. “Một con tàu, một thủy thủ đoàn, và một ngọn gió.”
+
+ 
+
+Adam thẳng người lên khi mức độ to lớn của danh sách ấy ngấm dần vào đầu óc. “Tôi cứ hy vọng ông sẽ bảo chúng ta cần một đoạn dây thừng và một chiếc xúc xích cơ,” cậu nói, gãi gãi phần râu lởm chởm của ba ngày chưa cạo. “Một con tàu, một thủy thủ đoàn và một ngọn gió ư? Sẽ phải tính toán đau đầu lắm đây. Thế còn thuyền trưởng thì sao? Chúng ta cũng sẽ cần một người như thế nữa chứ.”
+
+ 
+
+Senlin bật cười. “Đừng vội đi quá xa thế chứ.”
