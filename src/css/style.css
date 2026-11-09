@@ -3046,3 +3046,119 @@ button {
     margin-top: 0.25rem;
   }
 }
+
+
+/* --- ACCESSIBLE HIDDEN HEADERS & TEXT (TIÊU ĐỀ ẨN / TÊN CHƯƠNG BẰNG ẢNH) --- */
+.invi,
+.hide,
+.is-hidden,
+.hidden-header,
+.sr-only,
+.reader-content .invi,
+.reader-content .hide,
+.reader-content h1.invi,
+.reader-content h1.hide,
+.reader-content h2.invi,
+.reader-content h2.hide,
+.reader-content p.invi,
+.reader-content p.hide {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* --- EPIGRAPH & ATTRIBUTION (LỜI ĐỀ TỪ / TRÍCH DẪN ĐẦU CHƯƠNG) --- */
+.reader-content .epigraph,
+.reader-content div.epigraph,
+.reader-content blockquote.epigraph,
+.reader-content .epigraph-wrapper {
+  margin: 1.5rem auto 2.2rem;
+  padding: 0.95rem 1.4rem;
+  max-width: 90%;
+  border-left: 3px solid var(--accent-primary, #b7791f);
+  background: rgba(120, 100, 80, 0.05);
+  border-radius: 0 6px 6px 0;
+}
+
+[data-theme="dark"] .reader-content .epigraph,
+[data-theme="dark"] .reader-content div.epigraph {
+  background: rgba(255, 255, 255, 0.04);
+  border-left-color: #ffaa5b;
+}
+
+[data-theme="sepia"] .reader-content .epigraph,
+[data-theme="sepia"] .reader-content div.epigraph {
+  background: rgba(143, 61, 27, 0.06);
+  border-left-color: #8f3d1b;
+}
+
+.reader-content .epigraph p,
+.reader-content div.epigraph p,
+.reader-content p.epigraph {
+  font-style: italic;
+  font-size: 1.02rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin-bottom: 0.6rem;
+  text-indent: 0 !important;
+}
+
+.reader-content .epigraph p:last-child,
+.reader-content div.epigraph p:last-child {
+  margin-bottom: 0;
+}
+
+/* Attribution / Source line */
+.reader-content .attribution,
+.reader-content p.attribution,
+.reader-content .epigraph .attribution,
+.reader-content .epigraph-source {
+  display: block;
+  font-style: normal;
+  font-size: 0.88rem;
+  color: var(--text-tertiary, #888);
+  text-align: right !important;
+  margin-top: 0.5rem;
+  opacity: 0.9;
+}
+
+.reader-content .attribution em,
+.reader-content p.attribution em {
+  font-style: italic;
+}
+
+/* Ngăn tuyệt đối Drop Cap xuất hiện bên trong Epigraph */
+.reader-content .epigraph::first-letter,
+.reader-content .epigraph p::first-letter,
+.reader-content div.epigraph p::first-letter,
+.reader-content p.epigraph::first-letter,
+.reader-content .attribution::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  color: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Hỗ trợ hiển thị ảnh tên chương và ảnh minh họa trong nội dung */
+.reader-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.reader-content p > img:only-child,
+.reader-content div > img:only-child,
+.reader-content .chapter-title-img {
+  display: block;
+  margin: 1.5rem auto 2.2rem;
+  text-align: center;
+}

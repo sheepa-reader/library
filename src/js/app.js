@@ -511,8 +511,13 @@
         continue;
       }
 
-      if (!foundFirstHeading && trimmed.startsWith('# ')) {
-        firstHeadingTitle = trimmed.replace(/^#+\s*/, '').trim().toLowerCase();
+      const htmlHeadingMatch = trimmed.match(/^<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/i);
+      if (!foundFirstHeading && (trimmed.startsWith('# ') || htmlHeadingMatch)) {
+        if (htmlHeadingMatch) {
+          firstHeadingTitle = htmlHeadingMatch[2].replace(/<[^>]+>/g, '').trim().toLowerCase();
+        } else {
+          firstHeadingTitle = trimmed.replace(/^#+\s*/, '').trim().toLowerCase();
+        }
         cleanedLines.push(rawLine);
         foundFirstHeading = true;
         continue;
@@ -651,13 +656,28 @@
         return `<p class="scene-break" align="center">${plainText}</p>`;
       }
 
-      if (/^<(h[1-6]|blockquote|ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
-        if (/^<h[1-6]/i.test(line)) {
-          hasEncounteredHeading = true;
-        }
+      // Nhận diện Tiêu đề Heading (h1-h6, bao gồm cả class="invi", class="hide", class="hidden", class="sr-only")
+      if (/^<h[1-6]\b/i.test(line)) {
+        hasEncounteredHeading = true;
         return line;
       }
-      if (/^<p\b/i.test(line)) {
+
+      // Nhận diện Lời đề từ / Trích dẫn đầu chương (Epigraph, Attribution, Citation, Blockquote)
+      // Các đoạn này KHÔNG được tính là narrative và KHÔNG nhận Drop Cap
+      const isEpigraphBlock = /class=["'][^"']*\b(epigraph|attribution|citation|quote-source|epigraph-text|epigraph-wrapper)\b[^"']/i.test(line) ||
+                              /^<(blockquote|div)[^>]*class=["'][^"']*\bepigraph\b/i.test(line) ||
+                              /^<blockquote\b/i.test(line);
+      if (isEpigraphBlock) {
+        return line;
+      }
+
+      // Nhận diện Ảnh độc lập / Ảnh tên chương (Standalone chapter title image)
+      if (/^<(p|div)[^>]*>\s*<img\b[^>]*>\s*<\/(p|div)>$/i.test(line) || /^<img\b[^>]*>$/i.test(line)) {
+        return line;
+      }
+
+      // Các thẻ khối HTML khác (danh sách, phân cách, bảng...)
+      if (/^<(ul|ol|li|hr|div|center|table|thead|tbody|tr|th|td)/i.test(line)) {
         return line;
       }
 
@@ -686,7 +706,22 @@
 
       if (!hasAssignedDropCap && !isDropCapLocked) {
         hasAssignedDropCap = true;
-        return `<p class="has-dropcap">${line.replace(/\n/g, '<br/>')}</p>`;
+        // Chuẩn hóa loại bỏ thẻ <span class="dropcap"> thừa từ file EPUB để CSS dùng thống nhất
+        line = line.replace(/<span\s+class=["']dropcap["']>([A-ZÀ-Ỹa-z0-9])<\/span>/gi, '$1');
+
+        if (/^<p\b/i.test(line)) {
+          if (/class=["']/i.test(line)) {
+            return line.replace(/<p(\s+[^>]*class=["'])([^"']*)/i, '<p$1$2 has-dropcap');
+          } else {
+            return line.replace(/<p\b/i, '<p class="has-dropcap"');
+          }
+        } else {
+          return `<p class="has-dropcap">${line.replace(/\n/g, '<br/>')}</p>`;
+        }
+      }
+
+      if (/^<p\b/i.test(line)) {
+        return line;
       }
 
       return `<p>${line.replace(/\n/g, '<br/>')}</p>`;
@@ -735,8 +770,10 @@
         return `\n<div class="bilingual-pair chapter-subtitle-pair text-center" data-pair-idx="${idx}"><p class="chapter-subtitle text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
       }
 
+      const isEpigraphPair = /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(viText) ||
+                             /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(enText);
       let dropCapClass = '';
-      if (!hasDropCap && !isDropCapLocked && idx === 1) {
+      if (!hasDropCap && !isDropCapLocked && !isEpigraphPair) {
         dropCapClass = ' has-dropcap';
         hasDropCap = true;
       }
