@@ -1,4 +1,4 @@
-# Lời đề từ
+# Trích dẫn
 
 <div class="epigraph">
   <p class="para-en">It was awful, he cried, awful, awful!</p>
