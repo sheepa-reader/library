@@ -5794,7 +5794,7 @@
   },
   {
     "id": "the-wedding-people",
-    "title": "The Wedding People",
+    "title": "Những Kẻ Trong Hôn Lễ",
     "originalTitle": "The Wedding People",
     "series": "",
     "volume": "",
@@ -5811,7 +5811,7 @@
     "statusText": "Hoàn thành",
     "cover": "content/books/the-wedding-people/cover.jpg",
     "icon": "public/icons/glyph_sheep_love_book.png",
-    "description": "Phoebe Stone một mình đặt chân đến khách sạn Cornwall Inn xa hoa ở Newport mà không mang theo bất kỳ hành lý nào, khoác lên mình chiếc váy dạ hội xanh ngọc bích lộng lẫy và sẵn sàng cho một kết thúc vĩnh viễn. Thế nhưng vừa bước vào sảnh, cô nhận ra mình là vị khách duy nhất không thuộc về đám cưới rực rỡ kéo dài cả tuần lễ của cô dâu Lila...",
+    "description": "Phoebe Stone bước vào khách sạn Cornwall cổ kính và xa hoa ở Newport với duy nhất một chiếc váy dạ hội lộng lẫy cùng kế hoạch chấm dứt cuộc đời vì những đổ vỡ đau đớn trong hôn nhân. Thế nhưng, cô bất ngờ phát hiện mình là vị khách lẻ duy nhất giữa một khách sạn đã bị bao trọn bởi cả một đám cưới xa hoa kéo dài cả tuần lễ. Cuộc chạm trán định mệnh tại quầy bar với Lila – cô dâu kiêm chủ nhân của đám cưới hoàn mỹ nhưng đang ngột ngạt vì áp lực – đã đảo lộn toàn bộ dự định đen tối của Phoebe. Trở thành người ngoài duy nhất lắng nghe mọi bí mật thầm kín nhất của cô dâu, Phoebe dần bị cuốn vào vòng xoáy các mối quan hệ rắc rối, hài hước và đầy tổn thương của \"hội đám cưới\". Qua từng buổi tiệc cocktail và những cuộc trò chuyện bất ngờ, cuốn sách mở ra hành trình hồi sinh kỳ diệu của hy vọng và sự gắn kết chân thành giữa những con người xa lạ.",
     "hasBilingual": true,
     "downloads": {
       "epub": "content/downloads/the-wedding-people.epub",
@@ -5990,6 +5990,14 @@
         "part": "",
         "path": "content/books/the-wedding-people/chuong-28.md"
       }
+    ],
+    "publishedAt": "2026-11-09",
+    "rating": {
+      "score": 4.05,
+      "count": "1,502.7k"
+    },
+    "awards": [
+      "Giải thưởng Goodreads Choice năm 2024 • Tiểu thuyết hư cấu"
     ]
   }
 ]
