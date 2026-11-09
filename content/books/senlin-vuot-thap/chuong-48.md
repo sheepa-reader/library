@@ -1,39 +1,19 @@
 # Đoạn kết
 
-## *Trích từ:* Tháp Của Mỗi Người, Nỗi Truân Chuyên Của Một Kẻ
+<p class="noindent" style="text-indent: 0 !important">Cái danh xưng cũ của tôi đã hỏng bét, chẳng khác nào một quả trứng nứt vỏ khi tiếp xúc với không khí. Cái tên <em>Thomas Senlin</em> xuất hiện quá nhiều trên môi những kẻ hống hách và nguy hiểm. Chỉ cần thốt lên tên ấy, ngay cả ở những vùng đất xa lạ, cũng đủ gióng lên những hồi chuông báo động mà tôi thà để chúng ngủ yên. Vì thế, tôi cần một danh xưng mới, và tôi chọn một cái tên vốn là lời nguyền quen thuộc với mọi người: tôi là Tom Mudd, thuyền trưởng con tàu <em>Stone Cloud</em>.</p>
 
- 
+<p class="regular">Khi bước vào hành trình này, việc nhìn nhận thẳng thắn tình trạng hiện tại và kho nhu yếu phẩm dự trữ là điều vô cùng cấp thiết. Con tàu vẫn đủ sức cất cánh nhưng đã chi chít vết thương, và thủy thủ đoàn của nó cũng mang những tổn thương tương tự. Thuyền phó của tôi là một phụ nữ sở hữu bản lĩnh và sức mạnh vô song. Nhưng tôi ngờ rằng Edith vẫn đang âm thầm chịu đựng những cơn đau đớn dữ dội, bất chấp những lớp băng bó kỹ lưỡng trên người. Quá khứ gần đây của cô là một ẩn số, và tôi lo rằng cô đang giấu tất cả chúng tôi một điều gì đó cực kỳ quan trọng, và có lẽ cũng vô cùng nguy hiểm.</p>
 
-Cái danh xưng cũ của tôi đã hỏng bét, chẳng khác nào một quả trứng nứt vỏ khi tiếp xúc với không khí. Cái tên *Thomas Senlin* xuất hiện quá nhiều trên môi những kẻ hống hách và nguy hiểm. Chỉ cần thốt lên tên ấy, ngay cả ở những vùng đất xa lạ, cũng đủ gióng lên những hồi chuông báo động mà tôi thà để chúng ngủ yên. Vì thế, tôi cần một danh xưng mới, và tôi chọn một cái tên vốn là lời nguyền quen thuộc với mọi người: tôi là Tom Mudd, thuyền trưởng con tàu *Stone Cloud*.
+<p class="regular">Tôi tin Adam, người chắc chắn đảm nhận vị trí kỹ sư của tàu, sẽ là một đồng đội trung thành, ngoại trừ khi sự an toàn của em gái cậu bị đặt lên bàn cân. Tôi không hề trách cậu về điều đó, nhưng sự hoài nghi ở cậu lại biến lòng trung thành mù quáng dành cho em gái thành một mối nguy đặc biệt. Cậu sẽ không hé môi về những suy tính hay tiết lộ bất kỳ quyết định nào liên quan đến cô em. Cậu sẵn sàng phản bội cả thế giới chỉ để bảo vệ cô khỏi tổn thương.</p>
 
- 
+<p class="regular">Nếu có một đốm lửa rực rỡ và đáng tin cậy trên con tàu này, đó chính là Voleta. Cô dũng cảm và tháo vát hơn nhiều so với những gì anh trai cô thừa nhận. Tôi nghĩ cô có thể sống luôn trên hệ thống dây dợ giàn giáo ấy. Mới đó mà cô đã leo trèo, thoăn thoắt bám trụ trên mọi ngóc ngách của con tàu như một con sóc. Cô từng đu mình lủng lẳng trên mỏ neo và chinh phục cả mái vòm lụa khổng lồ của chiếc khí cầu. Cô sinh ra để làm một lính gác đài quan sát xuất sắc, nếu quả thực có loại người như vậy. Iren, dĩ nhiên rồi, chính là sĩ quan pháo thủ của chúng tôi. Cô là người duy nhất tôi dám tin tưởng giao phó khẩu đại bác, và tôi coi cô như chiến lược gia kiêm lá chắn chủ lực của cả đoàn. Tôi không chắc liệu cô thực sự muốn đồng hành cùng chúng tôi hay chỉ bị cuốn vào vòng xoáy này do sự trớ trêu của định mệnh. Dù thế nào đi nữa, tôi vẫn rất mừng vì có cô bên cạnh.</p>
 
-Khi bước vào hành trình này, việc nhìn nhận thẳng thắn tình trạng hiện tại và kho nhu yếu phẩm dự trữ là điều vô cùng cấp thiết. Con tàu vẫn đủ sức cất cánh nhưng đã chi chít vết thương, và thủy thủ đoàn của nó cũng mang những tổn thương tương tự. Thuyền phó của tôi là một phụ nữ sở hữu bản lĩnh và sức mạnh vô song. Nhưng tôi ngờ rằng Edith vẫn đang âm thầm chịu đựng những cơn đau đớn dữ dội, bất chấp những lớp băng bó kỹ lưỡng trên người. Quá khứ gần đây của cô là một ẩn số, và tôi lo rằng cô đang giấu tất cả chúng tôi một điều gì đó cực kỳ quan trọng, và có lẽ cũng vô cùng nguy hiểm.
+<p class="regular">Vấn đề cấp bách nhất hiện tại là nhu yếu phẩm. Con tàu đã bị vơ vét sạch bách trước khi chúng tôi cướp lại nó từ cảng biển. Chúng tôi thiếu thốn trang thiết bị trầm trọng cho bất kỳ hành trình nào và hoàn toàn trắng tay. Nhiên liệu trên tàu đang cạn dần, và từ khi nhổ neo đến nay, chúng tôi chẳng có gì bỏ bụng ngoài vài con bồ câu ra ràng. Xét trên nhiều khía cạnh, sự tuyệt vọng còn nhân lên gấp bội sau cuộc đào thoát. Điều đó phần nào giải thích tại sao lại có quá ít kẻ dám liều mạng đào tẩu. Sự khuất phục mang lại cảm giác an toàn giả tạo, còn tự do thì luôn đi kèm những canh bạc đắt giá. Nhưng tôi hoàn toàn nghiêm túc với những lời đã nói với Edith vào cái đêm trước khi cuộc hành trình bắt đầu: Chúng tôi phải cùng nhau gánh vác mọi gian khổ nếu muốn sống sót.</p>
 
- 
+<p class="regular">Ngay khi thương tích được chữa lành, cái bụng được lấp đầy và việc sinh tồn không còn là nỗi lo thường trực, tôi dự định sẽ thẳng tiến đến Gia tộc Pell thuộc Đế chế Pelphia, nơi ngự trị của dòng họ Pell. Marya đang chờ tôi ở đó. Tôi tin chắc là như vậy.</p>
 
-Tôi tin Adam, người chắc chắn đảm nhận vị trí kỹ sư của tàu, sẽ là một đồng đội trung thành, ngoại trừ khi sự an toàn của em gái cậu bị đặt lên bàn cân. Tôi không hề trách cậu về điều đó, nhưng sự hoài nghi ở cậu lại biến lòng trung thành mù quáng dành cho em gái thành một mối nguy đặc biệt. Cậu sẽ không hé môi về những suy tính hay tiết lộ bất kỳ quyết định nào liên quan đến cô em. Cậu sẵn sàng phản bội cả thế giới chỉ để bảo vệ cô khỏi tổn thương.
+<p class="regular">Dược chất Chrom Trắng vẫn chưa tan hết hoàn toàn trong cơ thể tôi, dù tôi vẫn hy vọng tác dụng của nó sẽ sớm tiêu biến. Tôi phải thừa nhận rằng mình đang viết những dòng này trước sự hiện diện của bóng ma Marya, người giờ đây hiện diện thường trực hơn bao giờ hết. Cô mặc bộ trang phục giống hệt như trên chuyến tàu hôm ấy, với chiếc áo sơ mi trắng và chiếc mũ cối màu đỏ. Cô ngồi bên cạnh, bàn tay đặt nhẹ lên tay tôi; làn da cô tinh khôi tựa như đóa huệ. Điều đó khiến tôi xao nhãng và gợi lên niềm hoài niệm đầy nguy hiểm. Tôi phải tự nhắc nhở bản thân rằng Marya không thể đứng ngoài những biến đổi nghiệt ngã của Ngọn Tháp. Chỉ cần nhìn vào gương cũng đủ để tôi tự thuyết phục chính mình về điều đó. Cô có thể đang đóng giả làm vợ của một kẻ khác, có thể đã bị hủy hoại như cái cách Voleta từng suýt trải qua, hoặc giả cô đã tàn phế, như Edith đáng thương.</p>
 
- 
+<p class="regular">Dù Marya có ra sao, dù bản thân tôi trở thành thế nào, tôi nhất định sẽ tìm thấy cô, và tôi sẽ đưa cô trở về nhà.</p>
 
-Nếu có một đốm lửa rực rỡ và đáng tin cậy trên con tàu này, đó chính là Voleta. Cô dũng cảm và tháo vát hơn nhiều so với những gì anh trai cô thừa nhận. Tôi nghĩ cô có thể sống luôn trên hệ thống dây dợ giàn giáo ấy. Mới đó mà cô đã leo trèo, thoăn thoắt bám trụ trên mọi ngóc ngách của con tàu như một con sóc. Cô từng đu mình lủng lẳng trên mỏ neo và chinh phục cả mái vòm lụa khổng lồ của chiếc khí cầu. Cô sinh ra để làm một lính gác đài quan sát xuất sắc, nếu quả thực có loại người như vậy. Iren, dĩ nhiên rồi, chính là sĩ quan pháo thủ của chúng tôi. Cô là người duy nhất tôi dám tin tưởng giao phó khẩu đại bác, và tôi coi cô như chiến lược gia kiêm lá chắn chủ lực của cả đoàn. Tôi không chắc liệu cô thực sự muốn đồng hành cùng chúng tôi hay chỉ bị cuốn vào vòng xoáy này do sự trớ trêu của định mệnh. Dù thế nào đi nữa, tôi vẫn rất mừng vì có cô bên cạnh.
-
- 
-
-Vấn đề cấp bách nhất hiện tại là nhu yếu phẩm. Con tàu đã bị vơ vét sạch bách trước khi chúng tôi cướp lại nó từ cảng biển. Chúng tôi thiếu thốn trang thiết bị trầm trọng cho bất kỳ hành trình nào và hoàn toàn trắng tay. Nhiên liệu trên tàu đang cạn dần, và từ khi nhổ neo đến nay, chúng tôi chẳng có gì bỏ bụng ngoài vài con bồ câu ra ràng. Xét trên nhiều khía cạnh, sự tuyệt vọng còn nhân lên gấp bội sau cuộc đào thoát. Điều đó phần nào giải thích tại sao lại có quá ít kẻ dám liều mạng đào tẩu. Sự khuất phục mang lại cảm giác an toàn giả tạo, còn tự do thì luôn đi kèm những canh bạc đắt giá. Nhưng tôi hoàn toàn nghiêm túc với những lời đã nói với Edith vào cái đêm trước khi cuộc hành trình bắt đầu: Chúng tôi phải cùng nhau gánh vác mọi gian khổ nếu muốn sống sót.
-
- 
-
-Ngay khi thương tích được chữa lành, cái bụng được lấp đầy và việc sinh tồn không còn là nỗi lo thường trực, tôi dự định sẽ thẳng tiến đến Gia tộc Pell thuộc Đế chế Pelphia, nơi ngự trị của dòng họ Pell. Marya đang chờ tôi ở đó. Tôi tin chắc là như vậy.
-
- 
-
-Dược chất Chrom Trắng vẫn chưa tan hết hoàn toàn trong cơ thể tôi, dù tôi vẫn hy vọng tác dụng của nó sẽ sớm tiêu biến. Tôi phải thừa nhận rằng mình đang viết những dòng này trước sự hiện diện của bóng ma Marya, người giờ đây hiện diện thường trực hơn bao giờ hết. Cô mặc bộ trang phục giống hệt như trên chuyến tàu hôm ấy, với chiếc áo sơ mi trắng và chiếc mũ cối màu đỏ. Cô ngồi bên cạnh, bàn tay đặt nhẹ lên tay tôi; làn da cô tinh khôi tựa như đóa huệ. Điều đó khiến tôi xao nhãng và gợi lên niềm hoài niệm đầy nguy hiểm. Tôi phải tự nhắc nhở bản thân rằng Marya không thể đứng ngoài những biến đổi nghiệt ngã của Ngọn Tháp. Chỉ cần nhìn vào gương cũng đủ để tôi tự thuyết phục chính mình về điều đó. Cô có thể đang đóng giả làm vợ của một kẻ khác, có thể đã bị hủy hoại như cái cách Voleta từng suýt trải qua, hoặc giả cô đã tàn phế, như Edith đáng thương.
-
- 
-
-Dù Marya có ra sao, dù bản thân tôi trở thành thế nào, tôi nhất định sẽ tìm thấy cô, và tôi sẽ đưa cô trở về nhà.
-
- 
-
-Tom Mudd, thuyền trưởng con tàu *Stone Cloud*
+<p class="signed">Tom Mudd, thuyền trưởng con tàu <em>Stone Cloud</em></p>

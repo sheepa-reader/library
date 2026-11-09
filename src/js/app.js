@@ -153,7 +153,7 @@
   }
 
   // Helper check if book has bilingual edition
-  const BILINGUAL_BOOK_IDS = ['thuong-vu-mau', 'bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
+  const BILINGUAL_BOOK_IDS = ['senlin-vuot-thap', 'thuong-vu-mau', 'bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
   function checkBookHasBilingual(book) {
     if (!book) return false;
     return Boolean(
@@ -742,7 +742,7 @@
     // A. Alternating <p class="para-en"> and <p class="para-vi-sub">
     const pairRegex = /(?:<p class="para-en">([\s\S]*?)<\/p>\s*<p class="para-vi-sub">([\s\S]*?)<\/p>|<p class="para-vi-sub">([\s\S]*?)<\/p>\s*<p class="para-en">([\s\S]*?)<\/p>)/gi;
 
-    let transformed = html.replace(pairRegex, (match, en1, vi1, vi2, en2) => {
+    let transformed = html.replace(pairRegex, (match, en1, vi1, vi2, en2, offset) => {
       idx++;
       const enText = (en1 !== undefined ? en1 : en2).trim();
       const viText = (vi1 !== undefined ? vi1 : vi2).trim();
@@ -770,7 +770,14 @@
         return `\n<div class="bilingual-pair chapter-subtitle-pair text-center" data-pair-idx="${idx}"><p class="chapter-subtitle text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
       }
 
-      const isEpigraphPair = /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(viText) ||
+      // Bỏ qua Drop Cap nếu cặp đoạn này nằm trong khối Epigraph hoặc mang class Epigraph / Lời đề từ
+      const beforeMatch = typeof offset === 'number' ? html.slice(0, offset) : '';
+      const isInsideEpigraph = beforeMatch && (
+        (beforeMatch.lastIndexOf('<div class="epigraph"') > beforeMatch.lastIndexOf('</div>')) ||
+        (beforeMatch.lastIndexOf('<blockquote') > beforeMatch.lastIndexOf('</blockquote>'))
+      );
+      const isEpigraphPair = isInsideEpigraph ||
+                             /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(viText) ||
                              /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(enText);
       let dropCapClass = '';
       if (!hasDropCap && !isDropCapLocked && !isEpigraphPair) {

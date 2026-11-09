@@ -1,211 +1,110 @@
+*Phần III: Tân Babel*
+
 # Chương Một
 
-Phần II trong bộ sách *Everyman* mô tả vô số kỳ quan của New Babel: Ổ Sét, những nhà nguyện Sắc Màu, quần thể bướm và dơi ngoại lai, cùng nguyên do cái tên lôi cuốn Phòng Khách ra đời. Hãy đặt mua một bản từ hiệu sách địa phương ngay hôm nay!
+<div class="epigraph">
+  <p>Phần II trong bộ sách <em>Everyman</em> mô tả vô số kỳ quan của New Babel: Ổ Sét, những nhà nguyện Sắc Màu, quần thể bướm và dơi ngoại lai, cùng nguyên do cái tên lôi cuốn Phòng Khách ra đời. Hãy đặt mua một bản từ hiệu sách địa phương ngay hôm nay!</p>
+  <p class="attribution"><em>Cẩm nang Everyman về Tháp Babel</em>, Tập XXII</p>
+</div>
 
- 
+<p class="noindent" style="text-indent: 0 !important">Chiếc chiến thuyền chòng chành bên dưới chân anh. Những đám mây lững lờ trôi qua dãy núi đằng xa, ngái ngủ hệt như đàn cừu không có người chăn. Biết đâu con tàu vẫn đứng yên, và thế giới mới là kẻ đang tròng cành. Thật khó mà phân định nổi. Thomas Senlin cảm nhận rõ sự thăng thiên qua áp lực đang dồn ứ sau màng nhĩ, nhưng bù lại, bay lượn không hề là một trải nghiệm kinh hoàng như anh từng tưởng tượng. Mọi thứ thật tĩnh mịch. Anh chợt nhớ mình từng đọc được rằng sự bình thản đôi khi lại là triệu chứng của cú sốc. Anh nhận ra bản thân đang tiếp nhận tin dữ về việc Marya bị một tên quý tộc ngoại quốc bắt cóc một cách quá đỗi bình tĩnh. Quá mức bình tĩnh là đằng khác. Có lẽ anh vẫn chưa thực sự tin đó là sự thật, hoặc anh đã lường trước một số phận thảm hại hơn nhiều dành cho cô. Dù sao thì cô vẫn còn sống. Dù thế nào đi nữa, vào khoảnh khắc này, anh chẳng buồn bận tâm cảm giác yên bình ấy xuất phát từ đâu hay nó sẽ kéo dài bao lâu. Thế giới quay quồng quanh anh như chiếc nôi đung đưa quanh một đứa trẻ sơ sinh.</p>
 
-*Cẩm nang Tháp Babel cho Mọi người*, Tập XXII
+<p class="regular">Con tàu được lắp ráp từ những vật liệu có trọng lượng nhẹ: gỗ thông, dây thừng và mây đan. Phần tay vịn sát khuỷu tay anh và chiếc ghế dài anh đang ngồi đều làm bằng tre. Mọi ngóc ngách đều kêu cót két như những chiếc bản lề già cỗi và râm ran như tiếng dế kêu. Gió lùa qua từng khe hở. Thomas Senlin ngồi giữa khoảng chừng hai mươi phụ nữ trẻ ở đuôi tàu. Vóc dáng cao lớn và bộ quần áo tương đối tinh tươm khiến anh nổi bật hẳn lên như một con diệc lạc giữa bầy mòng biển. Váy áo và xà-rông của họ đều rách rưới và bám đầy vết bẩn. Mái tóc họ rối xù, càng thảm hại hơn dưới những cơn gió táp liên hồi giật lấy và quất thẳng vào khuôn mặt họ. Gương mặt ai nấy đều mang vẻ kiệt quệ, ánh mắt đờ đẫn của một con hươu bị săn đuổi đến tận đường cùng. Những vết bầm tím, vết lở loét và nhọ đất hằn lên trên da thịt. Một người phụ nữ với mái tóc vàng hoang dại nheo mắt nhìn anh giữa lúc anh đang quan sát xung quanh. Cô ta trông có vẻ quen quen nhưng không có gì đáng lưu tâm cho lắm. Chắc cô ta sở hữu một gương mặt đại trà và chỉ đang tò mò không hiểu vì sao một người đàn ông lại xuất hiện trên chuyến phà vốn chỉ dành riêng cho phụ nữ. Nhăn mũi tỏ ý không mấy ấn tượng về anh, cô ta phớt lờ quay đi ngay lập tức.</p>
 
- 
+<p class="regular">Thomas Senlin tự hỏi làm cách nào mà những người phụ nữ này lại bị tước đoạt hoàn toàn phẩm giá và sức sống đến vậy. Liệu họ có bị dụ dỗ rời bỏ gia đình? Liệu họ đã từng độc lập và ưa mạo hiểm giống như Edith chăng? Họ đã tự mình đến Tháp Babel, hay sinh ra đã ở chốn này? Anh tự hỏi số phận hiện tại của họ liệu có khá hơn hay tệ hại hơn Marya.</p>
 
-Chiếc chiến thuyền chòng chành bên dưới chân anh. Những đám mây lững lờ trôi qua dãy núi đằng xa, ngái ngủ hệt như đàn cừu không có người chăn. Biết đâu con tàu vẫn đứng yên, và thế giới mới là kẻ đang tròng cành. Thật khó mà phân định nổi. Thomas Senlin cảm nhận rõ sự thăng thiên qua áp lực đang dồn ứ sau màng nhĩ, nhưng bù lại, bay lượn không hề là một trải nghiệm kinh hoàng như anh từng tưởng tượng. Mọi thứ thật tĩnh mịch. Anh chợt nhớ mình từng đọc được rằng sự bình thản đôi khi lại là triệu chứng của cú sốc. Anh nhận ra bản thân đang tiếp nhận tin dữ về việc Marya bị một tên quý tộc ngoại quốc bắt cóc một cách quá đỗi bình tĩnh. Quá mức bình tĩnh là đằng khác. Có lẽ anh vẫn chưa thực sự tin đó là sự thật, hoặc anh đã lường trước một số phận thảm hại hơn nhiều dành cho cô. Dù sao thì cô vẫn còn sống. Dù thế nào đi nữa, vào khoảnh khắc này, anh chẳng buồn bận tâm cảm giác yên bình ấy xuất phát từ đâu hay nó sẽ kéo dài bao lâu. Thế giới quay quồng quanh anh như chiếc nôi đung đưa quanh một đứa trẻ sơ sinh.
+<p class="regular">Bá tước, hay W. H. Pell, hoặc bất kỳ kẻ nào đi nữa, đã tốn không ít công sức để lôi kéo Marya đi theo hắn một cách tự nguyện. Điều đó có nghĩa là hắn sẽ không tổn hại gì đến cô. Hắn có thể thiếu thốn sự lương thiện và bị thói giàu sang quyền quý làm hư hỏng, nhưng vị Bá tước không có vẻ gì là một kẻ tâm thần. Hắn đã không ra tay sát hại Ogier, dù hắn hoàn toàn có thể làm điều đó. Khi Thomas Senlin tìm thấy hắn, và chắc chắn anh sẽ tìm ra, trước tiên anh sẽ cố gắng dùng lý lẽ với hắn. Sẽ khó khăn hơn cho vị Bá tước nếu muốn chiếm đoạt vợ của người khác khi người chồng đang đứng ngay trước mặt.</p>
 
- 
+<p class="regular">Và nếu lý lẽ không phát huy tác dụng, thì sẽ ra sao? Thomas Senlin cố mường tượng ra cảnh mình thách đấu vị Bá tước, hoặc một hành động thô bạo và tuyệt vọng tương tự. Anh không tài nào hình dung nổi, thậm chí chẳng thể thốt lên một lời khoác lác về viễn cảnh đó. Đối với một kẻ đầu óc chứa đầy trí tuệ uyên thâm, anh lại có quá ít ý niệm về khả năng thực sự của bản thân. Anh chẳng hiểu rõ chính mình là bao.</p>
 
-Con tàu được lắp ráp từ những vật liệu có trọng lượng nhẹ: gỗ thông, dây thừng và mây đan. Phần tay vịn sát khuỷu tay anh và chiếc ghế dài anh đang ngồi đều làm bằng tre. Mọi ngóc ngách đều kêu cót két như những chiếc bản lề già cỗi và râm ran như tiếng dế kêu. Gió lùa qua từng khe hở. Thomas Senlin ngồi giữa khoảng chừng hai mươi phụ nữ trẻ ở đuôi tàu. Vóc dáng cao lớn và bộ quần áo tương đối tinh tươm khiến anh nổi bật hẳn lên như một con diệc lạc giữa bầy mòng biển. Váy áo và xà-rông của họ đều rách rưới và bám đầy vết bẩn. Mái tóc họ rối xù, càng thảm hại hơn dưới những cơn gió táp liên hồi giật lấy và quất thẳng vào khuôn mặt họ. Gương mặt ai nấy đều mang vẻ kiệt quệ, ánh mắt đờ đẫn của một con hươu bị săn đuổi đến tận đường cùng. Những vết bầm tím, vết lở loét và nhọ đất hằn lên trên da thịt. Một người phụ nữ với mái tóc vàng hoang dại nheo mắt nhìn anh giữa lúc anh đang quan sát xung quanh. Cô ta trông có vẻ quen quen nhưng không có gì đáng lưu tâm cho lắm. Chắc cô ta sở hữu một gương mặt đại trà và chỉ đang tò mò không hiểu vì sao một người đàn ông lại xuất hiện trên chuyến phà vốn chỉ dành riêng cho phụ nữ. Nhăn mũi tỏ ý không mấy ấn tượng về anh, cô ta phớt lờ quay đi ngay lập tức.
+<p class="regular">Vậy tại sao anh cứ luồn lách qua được những cạm bẫy của Tháp Babel, trong khi những người xung quanh anh như Edith, Tarrou lại bị bắt giữ và trừng phạt? Họ mạnh mẽ hơn anh, kiên cường hơn anh, và xứng đáng có được cơ hội thứ hai hơn anh rất nhiều. Thật chẳng công bằng chút nào. Thomas Senlin hy vọng Ogier sẽ được bỏ qua, dù điều đó có vẻ khó xảy ra. Pound sẽ hoài nghi. Gã sẽ phái tay sai đến lật tung căn hộ của Ogier. Khi họ tìm thấy bức tranh bị đánh cắp, Bàn Tay Đỏ nặng nề sẽ vào cuộc; đám đông sẽ tụ tập; và sẽ có thêm một chiếc đầu rơi xuống.</p>
 
- 
+<p class="regular">Không. Ogier sẽ trốn thoát. Gã rất tinh ranh và cẩn trọng; gã không hề muốn chết sớm.</p>
 
-Thomas Senlin tự hỏi làm cách nào mà những người phụ nữ này lại bị tước đoạt hoàn toàn phẩm giá và sức sống đến vậy. Liệu họ có bị dụ dỗ rời bỏ gia đình? Liệu họ đã từng độc lập và ưa mạo hiểm giống như Edith chăng? Họ đã tự mình đến Tháp Babel, hay sinh ra đã ở chốn này? Anh tự hỏi số phận hiện tại của họ liệu có khá hơn hay tệ hại hơn Marya.
+<p class="regular">Thomas Senlin nhớ lại món quà mà người họa sĩ đã nhắc đến, và quả thực, chiếc túi da bên người nặng hơn nhiều so với bình thường. Thomas Senlin bật chốt đồng và ngó vào trong. Ở đáy túi, khẩu súng ngắn ngụy trang chìa khóa của Ogier ánh lên lớp dầu mới. Ogier gọi nó là chìa khóa của ngục trĩu và từng miêu tả công dụng kép ban đầu của nó vừa là chìa khóa xà lim vừa là vũ khí tự vệ trước những tên tù nhân ương ngạnh. Giờ đây khi chẳng còn chiếc ổ khóa nào để nhét vào, nó đã bị thu gọn lại thành một thứ vũ khí đơn thuần. Trong đời, Thomas Senlin chưa từng nạp đạn hay bóp cò một khẩu súng nào. Anh tự hỏi đã đến lúc mình phải học cách sử dụng nó hay chưa.</p>
 
- 
+<p class="regular">Cẩn thận đặt lại chiếc chìa khóa vào chỗ cũ, Thomas Senlin chạm phải một viền gỗ lạ lẫm. Anh kéo bức tranh đóng khung bồi giấy ra nửa chừng khỏi chiếc túi xách và nhận ra tác phẩm ngay lập tức. Đó chính là bức tranh khỏa thân phác họa Marya do Ogier vẽ, món đồ cấm mà gã đã giữ lại không giao cho vị Bá tước. Đó là món quà tuyệt vời nhất mà anh từng nhận được. Hình ảnh gương mặt cô hiện lên đầy bất ngờ cùng nụ cười quen thuộc khiến lồng ngực anh nghẹn lại. Anh cúi gập người sát bức tranh hệt như thể nó là một ngọn nến chập chờn sắp tắt. Niềm khao khát cuồng nhiệt chạy dọc qua cơ thể anh như một cơn rùng mình, và hàng trăm ký ức sống động về cô ùa về chiếm lĩnh tâm trí. Anh chặn đứng những cảm xúc đang dâng trào bằng một tiếng hắng giọng đầy trang trọng rồi trượt khung tranh trở lại lớp da sờn cũ của chiếc cặp tài liệu.</p>
 
-Bá tước, hay W. H. Pell, hoặc bất kỳ kẻ nào đi nữa, đã tốn không ít công sức để lôi kéo Marya đi theo hắn một cách tự nguyện. Điều đó có nghĩa là hắn sẽ không tổn hại gì đến cô. Hắn có thể thiếu thốn sự lương thiện và bị thói giàu sang quyền quý làm hư hỏng, nhưng vị Bá tước không có vẻ gì là một kẻ tâm thần. Hắn đã không ra tay sát hại Ogier, dù hắn hoàn toàn có thể làm điều đó. Khi Thomas Senlin tìm thấy hắn, và chắc chắn anh sẽ tìm ra, trước tiên anh sẽ cố gắng dùng lý lẽ với hắn. Sẽ khó khăn hơn cho vị Bá tước nếu muốn chiếm đoạt vợ của người khác khi người chồng đang đứng ngay trước mặt.
+<p class="regular">Tài sản duy nhất còn lại của anh là cuốn <em>Cẩm Nang</em> với những trang sách phồng lên vì bị giở đi giở lại, vài món đồ lặt vặt khiêm tốn, cùng cuốn sổ tay anh mới mua và bắt đầu ghi chép gần đây. Nếu Tarrou có mặt trong buổi kiểm kê này, hẳn gã đã buông lời châm chọc rằng gã họa sĩ thật tàn nhẫn khi tịch thu cả chai rượu grappa. Senlin nhăn mặt khi nhớ lại hình ảnh người bạn của mình bị lột sạch đồ và cạo trọc đầu. Tarrou trông thảm hại chẳng khác nào một con gấu bị ghẻ rụng hết lông.</p>
 
- 
+<p class="regular">Anh nhớ lại rằng Tarrou đã nhét thứ gì đó vào túi áo mình trong lúc hỗn loạn. Sau một hồi sục sạo nhanh chóng, anh rút ra một tờ giấy viết thư được gấp lại thành một hình vuông nhỏ nhàu nhĩ. Anh mở ra và nhận ra nét chữ viết tay trang trọng của Tarrou, càng về cuối thư càng to dần và có vẻ vội vã hơn. Nội dung như sau:</p>
 
-Và nếu lý lẽ không phát huy tác dụng, thì sẽ ra sao? Thomas Senlin cố mường tượng ra cảnh mình thách đấu vị Bá tước, hoặc một hành động thô bạo và tuyệt vọng tương tự. Anh không tài nào hình dung nổi, thậm chí chẳng thể thốt lên một lời khoác lác về viễn cảnh đó. Đối với một kẻ đầu óc chứa đầy trí tuệ uyên thâm, anh lại có quá ít ý niệm về khả năng thực sự của bản thân. Anh chẳng hiểu rõ chính mình là bao.
+<p class="blockquote-firstpara">Tom thân mến,</p>
 
- 
+<p class="blockquote-indentedpara">Thứ lỗi cho sự kịch cợm này, nhưng tôi tiêu đời rồi. Đội Chuông Xanh của Cao ủy Pound đang đến tìm tôi, và tôi chắc chắn họ định tước đoạt bộ râu của tôi. Những món nợ của tôi, cả về kinh tế lẫn vũ trụ, cuối cùng đã đuổi kịp tôi. Cậu có thể nói rằng chúng đã tóm được gót chân tôi rồi. Quả là một câu chuyện đáng buồn.</p>
 
-Vậy tại sao anh cứ luồn lách qua được những cạm bẫy của Tháp Babel, trong khi những người xung quanh anh như Edith, Tarrou lại bị bắt giữ và trừng phạt? Họ mạnh mẽ hơn anh, kiên cường hơn anh, và xứng đáng có được cơ hội thứ hai hơn anh rất nhiều. Thật chẳng công bằng chút nào. Thomas Senlin hy vọng Ogier sẽ được bỏ qua, dù điều đó có vẻ khó xảy ra. Pound sẽ hoài nghi. Gã sẽ phái tay sai đến lật tung căn hộ của Ogier. Khi họ tìm thấy bức tranh bị đánh cắp, Bàn Tay Đỏ nặng nề sẽ vào cuộc; đám đông sẽ tụ tập; và sẽ có thêm một chiếc đầu rơi xuống.
+<p class="blockquote-indentedpara">Tôi đã thực sự cố gắng, anh bạn ạ, để về nhà. Đó là một câu chuyện dài hơn những gì tôi từng kể. Tôi nghĩ một kẻ cau có đầy u ám như cậu sẽ hiểu việc tỏ ra thẳng thắn về những câu chuyện buồn và những gót chân bị tóm khó khăn đến nhường nào.</p>
 
- 
+<p class="blockquote-indentedpara">Ogier là một kẻ đáng tin cậy. Gã cực kỳ khó ưa, nhưng lại đáng tin. Hãy tin tưởng gã. Tôi nghĩ gã chưa bao giờ lệch khỏi con đường lương tâm của mình. Tôi đã từ bỏ con đường đó từ nhiều năm trước, và tôi đã sống hạnh phúc mãi về sau. Hạnh phúc, nghĩa là, cho đến khi một tên du khách điên khùng đẩy tôi vào thế phải hành động. (Tôi xin thú nhận với tất cả những ai vô tình đọc được bức thư này: Tôi chính là chủ mưu đằng sau âm mưu chống lại Cao ủy. Tom hoàn toàn vô tội; anh ta quá thiếu trí tưởng tượng để có thể bịa ra một âm mưu như vậy.)</p>
 
-Không. Ogier sẽ trốn thoát. Gã rất tinh ranh và cẩn trọng; gã không hề muốn chết sớm.
+<p class="blockquote-indentedpara">Tom, với tư cách là một học giả xuất sắc của Tháp Babel, hãy tiếp tục bám theo vợ của anh. Chấp nhận con người hiện tại của mình còn dễ dàng hơn là hoài niệm về con người anh trước kia. Hãy đi tìm cô ấy.</p>
 
- 
+<p class="ca">Với nỗi buồn vô tận,</p>
 
-Thomas Senlin nhớ lại món quà mà người họa sĩ đã nhắc đến, và quả thực, chiếc túi da bên người nặng hơn nhiều so với bình thường. Thomas Senlin bật chốt đồng và ngó vào trong. Ở đáy túi, khẩu súng ngắn ngụy trang chìa khóa của Ogier ánh lên lớp dầu mới. Ogier gọi nó là chìa khóa của ngục trĩu và từng miêu tả công dụng kép ban đầu của nó vừa là chìa khóa xà lim vừa là vũ khí tự vệ trước những tên tù nhân ương ngạnh. Giờ đây khi chẳng còn chiếc ổ khóa nào để nhét vào, nó đã bị thu gọn lại thành một thứ vũ khí đơn thuần. Trong đời, Thomas Senlin chưa từng nạp đạn hay bóp cò một khẩu súng nào. Anh tự hỏi đã đến lúc mình phải học cách sử dụng nó hay chưa.
+<p class="ca1">J. Tarrou</p>
 
- 
+<p class="regular">Chữ ký viết tràn ra tận mép trang giấy.</p>
 
-Cẩn thận đặt lại chiếc chìa khóa vào chỗ cũ, Thomas Senlin chạm phải một viền gỗ lạ lẫm. Anh kéo bức tranh đóng khung bồi giấy ra nửa chừng khỏi chiếc túi xách và nhận ra tác phẩm ngay lập tức. Đó chính là bức tranh khỏa thân phác họa Marya do Ogier vẽ, món đồ cấm mà gã đã giữ lại không giao cho vị Bá tước. Đó là món quà tuyệt vời nhất mà anh từng nhận được. Hình ảnh gương mặt cô hiện lên đầy bất ngờ cùng nụ cười quen thuộc khiến lồng ngực anh nghẹn lại. Anh cúi gập người sát bức tranh hệt như thể nó là một ngọn nến chập chờn sắp tắt. Niềm khao khát cuồng nhiệt chạy dọc qua cơ thể anh như một cơn rùng mình, và hàng trăm ký ức sống động về cô ùa về chiếm lĩnh tâm trí. Anh chặn đứng những cảm xúc đang dâng trào bằng một tiếng hắng giọng đầy trang trọng rồi trượt khung tranh trở lại lớp da sờn cũ của chiếc cặp tài liệu.
+<p class="regular">Anh đọc lại bức thư hai lần rồi thả nó bay vào gió. Tờ giấy lao vút giữa những cái đầu cúi gằm của những mỹ nhân điêu khắc thất trận, rồi biến mất qua những sợi dây đàn hạc của bộ giằng buồng lái. Bức thư cứ mất đi lại hay hơn. Senlin chẳng hiểu những ẩn ý của John Tarrou về con đường lương tâm hay món nợ vũ trụ, và anh ngạc nhiên khi thấy gã lại tín nhiệm Philip Ogier với lời trăn trối cuối cùng của sự tự do này. Tuy nhiên, tâm nguyện cuối cùng thì hoàn toàn không hề mơ hồ. Senlin hiểu rõ ý gã đến từng câu chữ.</p>
 
- 
+<p class="regular">Tháp Babel từng trông mỏng manh như một vết nứt trên gương từ toa tàu của họ vài tuần trước. Giờ đây, nó rộng lớn trải dài đến tận chân trời. Cạnh của Tháp Babel trông giống như hình cung cong của vầng trăng khuyết. Anh có cảm giác như họ đang bay trên quỹ đạo xung quanh nó, cảm nhận được sự vĩ đại và trọng lực của ngọn tháp. Họ bay sát đến mức những khối đá sa tháp màu vàng nhạt khiến Senlin bắt đầu tự hỏi điều gì sẽ xảy ra nếu lớp vỏ bọc khí cầu cọ xát vào Tháp Babel. Liệu nó có xì hơi không? Liệu nó có bùng cháy không? Hay nó chỉ bị rách toạc và rỉ khí từ từ cho đến khi toàn bộ chiếc khinh hạm rơi từ trên trời xuống? Ngước nhìn quả khinh hạm lơ lửng phía trên, anh kinh ngạc trước sự mỏng manh của chuyến hành trình này. Họ đang lơ lửng bấu víu vào một thứ mong manh chẳng khác gì chiếc áo lót bằng lụa.</p>
 
-Tài sản duy nhất còn lại của anh là cuốn *Cẩm Nang* với những trang sách phồng lên vì bị giở đi giở lại, vài món đồ lặt vặt khiêm tốn, cùng cuốn sổ tay anh mới mua và bắt đầu ghi chép gần đây. Nếu Tarrou có mặt trong buổi kiểm kê này, hẳn gã đã buông lời châm chọc rằng gã họa sĩ thật tàn nhẫn khi tịch thu cả chai rượu grappa. Senlin nhăn mặt khi nhớ lại hình ảnh người bạn của mình bị lột sạch đồ và cạo trọc đầu. Tarrou trông thảm hại chẳng khác nào một con gấu bị ghẻ rụng hết lông.
+<p class="regular">Không ai khác tỏ ra lo lắng, thế nên Senlin đoán mọi thứ đều hoàn toàn bình thường, và anh lại thả lỏng bản thân trong sự yên bình cùng khoảng lặng hiếm hoi tránh xa cơn ác mộng. Những khối đá khổng lồ cấu thành kiến trúc của Tháp Babel lớn bằng cả một căn phòng. Chúng được chạm trổ những đường uốn lượn trang trí và lấm tấm những vết sơn cổ kính. Bề mặt này khiến Senlin liên tưởng đến một tấm thảm cổ: một tác phẩm được làm tỉ mỉ, trải qua nhiều năm tháng. Tất cả sự lộng lẫy này lại bị lãng phí đối với những hành khách đi cùng anh, những kẻ dường như thấy nó tẻ nhạt chẳng khác gì một đường hầm xe lửa tối om.</p>
 
- 
+<p class="regular">Con tàu lao vút đi, nhanh như một chiến hạm, theo hải trình cuộn xoắn quanh và hướng lên Tháp Babel. Họ bay lên giống như một dải lụa quấn quanh cây nêu lễ hội. Cảm giác thật phấn khích. Nó giống như việc đang cưỡi trên một con diều vậy.</p>
 
-Anh nhớ lại rằng Tarrou đã nhét thứ gì đó vào túi áo mình trong lúc hỗn loạn. Sau một hồi sục sạo nhanh chóng, anh rút ra một tờ giấy viết thư được gấp lại thành một hình vuông nhỏ nhàu nhĩ. Anh mở ra và nhận ra nét chữ viết tay trang trọng của Tarrou, càng về cuối thư càng to dần và có vẻ vội vã hơn. Nội dung như sau:
+<p class="regular">Bến cảng xuất hiện ở đằng xa, nhô lên qua đường chân trời của Tháp Babel, và người gác mái bám chặt vào mớ dây nhợ chằng chịt rủ xuống từ khinh hạm liền hét vang xuống chỗ thuyền trưởng: “Phía trước có bến cảng!”</p>
 
- 
+<p class="regular">Họ đang lao đến rất nhanh. Trong khoảng thời gian ngắn ngủi bến cảng còn lọt vào tầm mắt trước khi quả khinh hạm che khuất nó, Senlin nhận ra đường bay của họ quá thấp. Họ sẽ bay sạt qua tận phía dưới bệ cập tàu. Anh tự hỏi liệu vị thuyền trưởng có định lượn một vòng quanh toàn bộ Tháp Babel nữa không. Anh tự hỏi việc đó sẽ mất bao lâu.</p>
 
-Tom thân mến,
+<p class="regular">Ngay khi Senlin bắt đầu nuôi những hoài nghi nghiêm túc về tay lái tàu, vị thuyền trưởng điềm tĩnh liền điều chỉnh lò hơi, và họ vọt thẳng lên cao. Cảm giác giống như họ vừa bước ra khỏi một dòng sông cuồn cuộn. Dòng hải lưu biến thành một cơn gió nhẹ thổi họ dạt ra xa Tháp Babel một cách êm ái. Bến cảng lại hiện ra dưới đường chân trời của quả khinh hạm, và Senlin thấy rằng cơn gió đã đẩy họ ra quá xa. Họ thậm chí sẽ bay hụt cả chóp của bệ cập tàu nhô ra ngoài! Kinh doanh bay lội khinh hạm quả là một ngành nghề đầy rủi ro.</p>
 
- 
+<p class="regular">Họ đã áp sát ngang tầm với bệ cập khi một con diều lớn lao vút lên từ bàn tay của mấy công nhân bến cảng. Nó trông giống như cánh buồm của một chiến hạm vì quá lớn, và kéo theo một chiếc đuôi thừng đay rủ xuống. Bến cảng đang phóng ra một sợi cáp lai dắt.</p>
 
-Thứ lỗi cho sự kịch cợm này, nhưng tôi tiêu đời rồi. Đội Chuông Xanh của Cao ủy Pound đang đến tìm tôi, và tôi chắc chắn họ định tước đoạt bộ râu của tôi. Những món nợ của tôi, cả về kinh tế lẫn vũ trụ, cuối cùng đã đuổi kịp tôi. Cậu có thể nói rằng chúng đã tóm được gót chân tôi rồi. Quả là một câu chuyện đáng buồn.
+<p class="regular">Đó là một quá trình vô cùng cuốn hút để quan sát. Con diều lao vút về phía họ trong khi người gác mái của tàu với tay chộp lấy nó bằng một chiếc sào móc. Sau vài lần hụt, người gác mái cuối cùng cũng tóm được sợi cáp lai dắt. Anh ta kéo nó vào và cắt đứt đoạn dây xích nhỏ nối sợi thừng đay với dây lụa của con diều, khiến con diều lập tức bay vút khỏi con tàu.</p>
 
- 
+<p class="regular">Quấn dây kéo quanh giàn giáo để không bị trọng lượng nặng nề, đung đưa của nó kéo văng xuống biển, gã canh gác trượt phắt xuống boong tàu. Hắn quấn thừng quanh một chiếc cọc sừng trâu trong lúc thuyền trưởng tháo cuộn một lá cờ đỏ trên cây gậy ngắn và vẫy về phía bến cảng. Các công nhân bến cảng bắt đầu vận hành tời, kéo con tàu ra khỏi luồng hơi nhiệt và tiến vào một vũng đậu.</p>
 
-Tôi đã thực sự cố gắng, anh bạn ạ, để về nhà. Đó là một câu chuyện dài hơn những gì tôi từng kể. Tôi nghĩ một kẻ cau có đầy u ám như cậu sẽ hiểu việc tỏ ra thẳng thắn về những câu chuyện buồn và những gót chân bị tóm khó khăn đến nhường nào.
+<p class="regular">Bệ cập tàu nằm trên một khung giàn giáo rỉ sét hình tam giác, dài khoảng một trăm thước và rộng bằng một phần tư chiều dài ấy. Những sào chéo dựng đứng như những thân cây trụi lá trên một khu dạo chơi. Công nhân bến cảng đang dỡ các bao tải từ chiếc tàu duy nhất khác đang neo đậu. Lối vào Tháp, không giống như vỏ sò trang trí ở cảng Nhà Tắm, chỉ là một vòm cửa khiêm nhường, để trần không hoa văn.</p>
 
- 
+<p class="regular">Hai cánh tay neo đậu trải dài bên dưới vũng tàu mà họ đang được kéo vào, và các phu bến trượt ra trên những chạc này, chân lủng lẳng trên vực thẳm trống huếch. Họ bắt lấy và cố định mỏ neo của con tàu. Thủy thủ đoàn của chiếc phà ném dây thừng cho những phu bốc vác đang đợi sẵn, những kẻ liền quấn chúng quanh các trụ neo bằng sắt, mỗi trụ đều vững chãi như một quả đại bác bốn mươi hai pao.</p>
 
-Ogier là một kẻ đáng tin cậy. Gã cực kỳ khó ưa, nhưng lại đáng tin. Hãy tin tưởng gã. Tôi nghĩ gã chưa bao giờ lệch khỏi con đường lương tâm của mình. Tôi đã từ bỏ con đường đó từ nhiều năm trước, và tôi đã sống hạnh phúc mãi về sau. Hạnh phúc, nghĩa là, cho đến khi một tên du khách điên khùng đẩy tôi vào thế phải hành động. (Tôi xin thú nhận với tất cả những ai vô tình đọc được bức thư này: Tôi chính là chủ mưu đằng sau âm mưu chống lại Cao ủy. Tom hoàn toàn vô tội; anh ta quá thiếu trí tưởng tượng để có thể bịa ra một âm mưu như vậy.)
+<p class="regular">Những người phụ nữ đứng dậy và nối đuôi nhau rời đi. Sự im lặng của họ gần như mang bầu không khí tang tóc. Tất cả đều chìm trong trạng thái choáng váng vì nỗi tuyệt vọng cá nhân. Không biết phải làm gì khác hơn, Senlin đành bước vào hàng cùng họ. Một phu bốc vác mặc yếm da vẫy tay ra hiệu cho họ đi theo, và họ bắt đầu luồn lách qua một mê cung gồm những tấm pallet và thùng gỗ hướng về phía Tháp và lối vào New Babel, nơi mà thú thực, chỉ mang lại vẻ thu hút của một cái hang.</p>
 
- 
+<p class="regular">Ấn tượng về cảng hàng không này khác biệt hoàn toàn so với các cảng của Cao ủy, vốn sạch sẽ, có kỷ luật và đáng yêu theo cách riêng của chúng. Ở đây, những thùng nông sản mở nắp thu hút từng cột ruồi nhặng, bụi than lạo xạo dưới chân, và các lối đi thì bừa bộn với những tấm pallet trống, thùng gỗ nứt vỡ, cùng đôi chân của những gã đàn ông đang ngái ngủ, lười biếng. Cổng hải quan chỉ là một cột gỗ xiêu vẹo với một tấm ván đóng đinh trên đỉnh. Một tên thô lỗ tựa người vào bục chắn bằng đá cuội, một nụ cười nhếch mép đầy đe dọa ngoắc lên khóe miệng. Senlin chẳng thấy bóng dáng khách du lịch hay quý tộc nào, mà chỉ là một đám đông những gã đàn ông từng trải qua sương gió. Anh tự hỏi ai có thể là kẻ cai quản một mớ hỗn độn tồi tàn đến thế.</p>
 
-Tom, với tư cách là một học giả xuất sắc của Tháp Babel, hãy tiếp tục bám theo vợ của anh. Chấp nhận con người hiện tại của mình còn dễ dàng hơn là hoài niệm về con người anh trước kia. Hãy đi tìm cô ấy.
+<p class="regular">Tên thô lỗ mặc toàn đồ da cũ và vải denim dày. Bộ râu màu nâu xám của hắn hòa quyện vào cổ áo bằng lông thỏ. Hắn trông giống như một kẻ săn da thú từ một sườn núi hoang vu nào đó. Trông có vẻ buồn cười trong một bối cảnh khác, nhưng ở đây, giữa không gian ngoài trời, dưới ánh mặt trời gay gắt, tại chốn không một bóng bạn bè này, tên đàn ông đó toát lên vẻ đáng sợ trong từng thớ thịt.</p>
 
- 
+<p class="regular">Tên thô lỗ kiểm tra hàng dài phụ nữ như thể họ là gia súc trong chợ. Hắn sờ cổ họ để tìm hạch dịch hạch, kiểm tra cánh tay họ xem có vết nung đặc trưng của Phòng Khách hay không, và dùng ngón tay bẩn thỉu quẹt qua răng họ. Những người phụ nữ buộc phải khai tên và ký vào sổ đăng ký của hắn. Sau đó, họ bị vỗ một cái thật thô bạo vào mông, rồi tên thô lỗ chuyển sang xách mé người tiếp theo trong hàng.</p>
 
-Với nỗi buồn vô tận,
+<p class="regular">Khi đã qua cửa kiểm tra, những người phụ nữ được chất lên thùng hở của một cỗ xe kỳ lạ. Nơi người ta mong đợi nhìn thấy ngựa, la hay bò, thì thay vào đó lại là một cỗ máy, có hình dáng và kích thước đại khái giống một chiếc xe ngựa kéo, đang phì phò hơi nước và rung bần bật trên hai trục bánh xe. Các bánh sau của nó rất rộng và có gai lốp bằng thép hình chữ V, trong khi các bánh trước nhỏ và rõ ràng được làm bằng cao su. Đó là một cỗ tàu được giải phóng. Một cỗ xe không đường ray. Một chiếc xe tự hành! Bất chấp tất cả, Senlin vẫn muốn chạy lại và kiểm tra các đồng hồ cùng van đang kêu tích tắc, những pít-tôn đang phì phò của nó...</p>
 
- 
+<p class="regular">"Cô là một người đàn bà xấu xí," tên thô lỗ nói. Senlin giật mình nhìn quanh, ngạc nhiên nhận ra mình đã đứng ở đầu hàng từ lúc nào.</p>
 
-J. Tarrou
+<p class="regular">Trước khi bộ não kịp kiểm duyệt, cái miệng của anh đã bật ra câu trả lời: "Sao cũng được, chị bạn ạ."</p>
 
- 
+<p class="regular">Người duy nhất ngạc nhiên hơn Senlin trước câu nói bâng quơ này chính là tên thô lỗ, kẻ phát ra tiếng khịt mũi ngạc nhiên. "Đúng là thứ Phòng Bầu dục cần. Lại thêm một tay tấu hài!" Tên thô lỗ giật phăng chiếc túi xách của Senlin trước khi anh kịp phản ứng. Hắn thọc cánh tay đầy lông vào chiếc túi xách và lôi ra cuốn <em>Cẩm nang Everyman</em>. Lại khịt mũi lần nữa, hắn giơ cao cuốn sách để cho một gã lính gác cao lớn, cau có hơn đứng sau lưng hắn với hai khoanh tay xem. Senlin nhìn kỹ lại người lính gác thứ hai, hoặc đặc vụ, hoặc kẻ giữ cổng, hay bất cứ thứ gì tương tự, kẻ mà thoạt đầu anh đã nhầm là đàn ông. Hóa ra ả ta là một nữ chiến binh Amazon vai vuông, rộng người ngang ngửa Tarrou và cao hơn nửa gang tay. Lớn tuổi hơn nhiều so với những người phụ nữ vừa bước xuống từ sà lan, ả ta có mí mắt nhẵn nhụi và vầng trán rộng thường thấy ở những kẻ bản địa thuộc vành đai Bắc Cực lạnh giá. Mái tóc ngắn trông giống như được cắt bởi một kẻ mù cầm liềm và có màu tro. Ả quấn một sợi xích dày quanh eo ba vòng như thể đó là một chiếc thắt lưng hoàn toàn bình thường. Senlin không thể rời mắt.</p>
 
-Chữ ký viết tràn ra tận mép trang giấy.
+<p class="regular">"Nhìn kìa, Iren! Ta tìm thấy cuốn sách hài của hắn rồi đây," tên thô lỗ nói. Vầng trán rộng của nữ chiến binh không hề gợn lên một chút thích thú nào. Tên thô lỗ vung tay ném cuốn <em>Cẩm nang</em> bay qua đầu Senlin chỉ bằng một động tác gọn gàng. Cuốn sách lật giở phần phật như một con chim rồi rơi khỏi mép bến cảng xuống làn nước xanh thẳm.</p>
 
- 
+<p class="regular">Dù ngạc nhiên, Senlin không quá đau buồn khi thấy cuốn <em>Cẩm nang</em> biến mất. Đã có lúc anh bám víu lấy nó một cách tuyệt vọng, dẫu cho nó chẳng đem lại tích sự gì. "Những trò đùa cũ rích," anh nói.</p>
 
-Anh đọc lại bức thư hai lần rồi thả nó bay vào gió. Tờ giấy lao vút giữa những cái đầu cúi gằm của những mỹ nhân điêu khắc thất trận, rồi biến mất qua những sợi dây đàn hạc của bộ giằng buồng lái. Bức thư cứ mất đi lại hay hơn. Senlin chẳng hiểu những ẩn ý của John Tarrou về con đường lương tâm hay món nợ vũ trụ, và anh ngạc nhiên khi thấy gã lại tín nhiệm Philip Ogier với lời trăn trối cuối cùng của sự tự do này. Tuy nhiên, tâm nguyện cuối cùng thì hoàn toàn không hề mơ hồ. Senlin hiểu rõ ý gã đến từng câu chữ.
+<p class="regular">Tên thô lỗ không hề tỏ ra hứng thú với cuốn sổ ghi chép bìa da hay chiếc chìa khóa ngục tốt của Senlin, thứ mà hắn đã nhầm lẫn một cách may mắn thành công dụng hiển nhiên của nó, nhưng hắn lại chú chăm chú vào bức tranh của Ogier. Xoay khung tranh về phía ánh sáng, hắn huýt sáo một tiếng rợn người. Dưới ánh nhìn của Senlin, hắn miết ngón cái lên bức tranh. "Đồ ăn mày bẩn thỉu! Dám buôn lậu cả tranh khỏa thân." Tên thô lỗ định vứt bức tranh vào một cái thùng đang tràn ngập đồng hồ bỏ túi, mặt dây chuyền, lược ngà và các vật có giá trị khác. Đó là một kho báu chứa đầy những kỷ vật.</p>
 
- 
+<p class="regular">Một tiếng nổ nhỏ vang lên trong đầu Senlin, tựa như hạt ngô nổ lách tách trên chảo.</p>
 
-Tháp Babel từng trông mỏng manh như một vết nứt trên gương từ toa tàu của họ vài tuần trước. Giờ đây, nó rộng lớn trải dài đến tận chân trời. Cạnh của Tháp Babel trông giống như hình cung cong của vầng trăng khuyết. Anh có cảm giác như họ đang bay trên quỹ đạo xung quanh nó, cảm nhận được sự vĩ đại và trọng lực của ngọn tháp. Họ bay sát đến mức những khối đá sa tháp màu vàng nhạt khiến Senlin bắt đầu tự hỏi điều gì sẽ xảy ra nếu lớp vỏ bọc khí cầu cọ xát vào Tháp Babel. Liệu nó có xì hơi không? Liệu nó có bùng cháy không? Hay nó chỉ bị rách toạc và rỉ khí từ từ cho đến khi toàn bộ chiếc khinh hạm rơi từ trên trời xuống? Ngước nhìn quả khinh hạm lơ lửng phía trên, anh kinh ngạc trước sự mỏng manh của chuyến hành trình này. Họ đang lơ lửng bấu víu vào một thứ mong manh chẳng khác gì chiếc áo lót bằng lụa.
+<p class="regular">Anh chộp lấy cổ tay gã thô kệch bằng một tay và nắm chặt bức tranh bằng tay kia. Gã thô kệch bóp nghẹt cổ Senlin, da tay gã thô ráp như san hô. Nụ cười đểu cáng trên môi gã đã biến mất. Trong mắt gã không hề có chút sát khí nóng bỏng nào. Cái nhìn của gã vô cảm đến mức gã có khi chỉ đang tháo một nút thắt khó gỡ thay vì siết cổ một con người.</p>
 
- 
+<p class="regular">Dù đang khát thở, Senlin nhất quyết không nới lỏng tay khỏi bức tranh. Anh sợ chiếc khung sẽ bị xé toạc ra làm đôi giữa hai người, nhưng thà bị bẻ cổ quăng xuống vực thẳm còn hơn là buông tay khỏi bức chân dung của Marya. Điều này khiến chính anh cũng phải ngạc nhiên; anh đã vượt qua cả giới hạn của sự hèn nhát rồi. Thế là họ giằng co như hai con cua chiến trận, đôi càng khóa chặt vào nhau.</p>
 
-Không ai khác tỏ ra lo lắng, thế nên Senlin đoán mọi thứ đều hoàn toàn bình thường, và anh lại thả lỏng bản thân trong sự yên bình cùng khoảng lặng hiếm hoi tránh xa cơn ác mộng. Những khối đá khổng lồ cấu thành kiến trúc của Tháp Babel lớn bằng cả một căn phòng. Chúng được chạm trổ những đường uốn lượn trang trí và lấm tấm những vết sơn cổ kính. Bề mặt này khiến Senlin liên tưởng đến một tấm thảm cổ: một tác phẩm được làm tỉ mỉ, trải qua nhiều năm tháng. Tất cả sự lộng lẫy này lại bị lãng phí đối với những hành khách đi cùng anh, những kẻ dường như thấy nó tẻ nhạt chẳng khác gì một đường hầm xe lửa tối om.
+<p class="regular">Gã thô kệch, bất ngờ trước sự quyết tâm của Senlin, từ từ nhe hàm răng ố vàng ra. "Tôi có thể nể một thằng đàn ông yêu mấy ả khỏa thân hơn cả mạng sống." Gã buông cổ Senlin ra và thả bức tranh trở lại túi xách. Rồi, ngay khi Senlin đang há hốc thở dốc cho máu lưu thông trở lại trên mặt, gã hỏi tiếp: "Tên gì?"</p>
 
- 
+<p class="regular">"Mud," Senlin đáp bằng giọng khàn đặc.</p>
 
-Con tàu lao vút đi, nhanh như một chiến hạm, theo hải trình cuộn xoắn quanh và hướng lên Tháp Babel. Họ bay lên giống như một dải lụa quấn quanh cây nêu lễ hội. Cảm giác thật phấn khích. Nó giống như việc đang cưỡi trên một con diều vậy.
+<p class="regular">"Mud thì Mud," tên gác cổng nói, rồi xoay cuốn sổ về phía Senlin. Một mẩu ruột bút chì nằm ngay lề trang giấy. "Điểm chỉ đi, Mud." Cuốn sổ chi chít những dấu nhân nguệch ngoạc và những nét ký hiệu tượng hình. Chẳng có lấy một chữ ký đàng hoàng nào trong cuốn sách. Senlin liếm ướt đầu mẩu bút chì và nắn nót viết ra chữ ký đẹp đẽ, hoa mỹ nhất mà anh có thể trổ tài: Thomas Senlin Mudd, Tiến sĩ Văn chương. Anh thả mẩu bút chì xuống cuốn sách cùng một cái nháy mắt đầy liều lĩnh. Anh cảm thấy mình hơi nổi điên rồi.</p>
 
- 
+<p class="regular">Gã lính canh nhếch môi chê bai nét chữ của Senlin. "Ồ, một quý ông vừa bước lên chiếc xà lan đĩ điếm kìa. Tránh đường cho Tiến sĩ Thomas Senlin Mudd nào!" gã hét lớn qua bàn tay khum lại.</p>
 
-Bến cảng xuất hiện ở đằng xa, nhô lên qua đường chân trời của Tháp Babel, và người gác mái bám chặt vào mớ dây nhợ chằng chịt rủ xuống từ khinh hạm liền hét vang xuống chỗ thuyền trưởng: “Phía trước có bến cảng!”
+<p class="regular">Senlin đang cảm thấy bạo dạn và vô cùng đắc ý cho đến khoảnh khắc cái đầu của người phụ nữ khổng lồ xoay phắt về phía anh giống như một bức tượng đầu quái vật bằng đá bỗng chốc sống lại, đôi mắt nãy giờ vô hồn giờ đây sắc bén và trong vắt như mắt diều hâu. Cô cất tiếng bằng chất giọng nam trung trong trẻo và lạnh gáy: "Ngươi chính là Tom Senlin." Đó không phải là một câu hỏi.</p>
 
- 
-
-Họ đang lao đến rất nhanh. Trong khoảng thời gian ngắn ngủi bến cảng còn lọt vào tầm mắt trước khi quả khinh hạm che khuất nó, Senlin nhận ra đường bay của họ quá thấp. Họ sẽ bay sạt qua tận phía dưới bệ cập tàu. Anh tự hỏi liệu vị thuyền trưởng có định lượn một vòng quanh toàn bộ Tháp Babel nữa không. Anh tự hỏi việc đó sẽ mất bao lâu.
-
- 
-
-Ngay khi Senlin bắt đầu nuôi những hoài nghi nghiêm túc về tay lái tàu, vị thuyền trưởng điềm tĩnh liền điều chỉnh lò hơi, và họ vọt thẳng lên cao. Cảm giác giống như họ vừa bước ra khỏi một dòng sông cuồn cuộn. Dòng hải lưu biến thành một cơn gió nhẹ thổi họ dạt ra xa Tháp Babel một cách êm ái. Bến cảng lại hiện ra dưới đường chân trời của quả khinh hạm, và Senlin thấy rằng cơn gió đã đẩy họ ra quá xa. Họ thậm chí sẽ bay hụt cả chóp của bệ cập tàu nhô ra ngoài! Kinh doanh bay lội khinh hạm quả là một ngành nghề đầy rủi ro.
-
- 
-
-Họ đã áp sát ngang tầm với bệ cập khi một con diều lớn lao vút lên từ bàn tay của mấy công nhân bến cảng. Nó trông giống như cánh buồm của một chiến hạm vì quá lớn, và kéo theo một chiếc đuôi thừng đay rủ xuống. Bến cảng đang phóng ra một sợi cáp lai dắt.
-
- 
-
-Đó là một quá trình vô cùng cuốn hút để quan sát. Con diều lao vút về phía họ trong khi người gác mái của tàu với tay chộp lấy nó bằng một chiếc sào móc. Sau vài lần hụt, người gác mái cuối cùng cũng tóm được sợi cáp lai dắt. Anh ta kéo nó vào và cắt đứt đoạn dây xích nhỏ nối sợi thừng đay với dây lụa của con diều, khiến con diều lập tức bay vút khỏi con tàu.
-
- 
-
-Quấn dây kéo quanh giàn giáo để không bị trọng lượng nặng nề, đung đưa của nó kéo văng xuống biển, gã canh gác trượt phắt xuống boong tàu. Hắn quấn thừng quanh một chiếc cọc sừng trâu trong lúc thuyền trưởng tháo cuộn một lá cờ đỏ trên cây gậy ngắn và vẫy về phía bến cảng. Các công nhân bến cảng bắt đầu vận hành tời, kéo con tàu ra khỏi luồng hơi nhiệt và tiến vào một vũng đậu.
-
- 
-
-Bệ cập tàu nằm trên một khung giàn giáo rỉ sét hình tam giác, dài khoảng một trăm thước và rộng bằng một phần tư chiều dài ấy. Những sào chéo dựng đứng như những thân cây trụi lá trên một khu dạo chơi. Công nhân bến cảng đang dỡ các bao tải từ chiếc tàu duy nhất khác đang neo đậu. Lối vào Tháp, không giống như vỏ sò trang trí ở cảng Nhà Tắm, chỉ là một vòm cửa khiêm nhường, để trần không hoa văn.
-
- 
-
-Hai cánh tay neo đậu trải dài bên dưới vũng tàu mà họ đang được kéo vào, và các phu bến trượt ra trên những chạc này, chân lủng lẳng trên vực thẳm trống huếch. Họ bắt lấy và cố định mỏ neo của con tàu. Thủy thủ đoàn của chiếc phà ném dây thừng cho những phu bốc vác đang đợi sẵn, những kẻ liền quấn chúng quanh các trụ neo bằng sắt, mỗi trụ đều vững chãi như một quả đại bác bốn mươi hai pao.
-
- 
-
-Những người phụ nữ đứng dậy và nối đuôi nhau rời đi. Sự im lặng của họ gần như mang bầu không khí tang tóc. Tất cả đều chìm trong trạng thái choáng váng vì nỗi tuyệt vọng cá nhân. Không biết phải làm gì khác hơn, Senlin đành bước vào hàng cùng họ. Một phu bốc vác mặc yếm da vẫy tay ra hiệu cho họ đi theo, và họ bắt đầu luồn lách qua một mê cung gồm những tấm pallet và thùng gỗ hướng về phía Tháp và lối vào New Babel, nơi mà thú thực, chỉ mang lại vẻ thu hút của một cái hang.
-
- 
-
-Ấn tượng về cảng hàng không này khác biệt hoàn toàn so với các cảng của Cao ủy, vốn sạch sẽ, có kỷ luật và đáng yêu theo cách riêng của chúng. Ở đây, những thùng nông sản mở nắp thu hút từng cột ruồi nhặng, bụi than lạo xạo dưới chân, và các lối đi thì bừa bộn với những tấm pallet trống, thùng gỗ nứt vỡ, cùng đôi chân của những gã đàn ông đang ngái ngủ, lười biếng. Cổng hải quan chỉ là một cột gỗ xiêu vẹo với một tấm ván đóng đinh trên đỉnh. Một tên thô lỗ tựa người vào bục chắn bằng đá cuội, một nụ cười nhếch mép đầy đe dọa ngoắc lên khóe miệng. Senlin chẳng thấy bóng dáng khách du lịch hay quý tộc nào, mà chỉ là một đám đông những gã đàn ông từng trải qua sương gió. Anh tự hỏi ai có thể là kẻ cai quản một mớ hỗn độn tồi tàn đến thế.
-
- 
-
-Tên thô lỗ mặc toàn đồ da cũ và vải denim dày. Bộ râu màu nâu xám của hắn hòa quyện vào cổ áo bằng lông thỏ. Hắn trông giống như một kẻ săn da thú từ một sườn núi hoang vu nào đó. Trông có vẻ buồn cười trong một bối cảnh khác, nhưng ở đây, giữa không gian ngoài trời, dưới ánh mặt trời gay gắt, tại chốn không một bóng bạn bè này, tên đàn ông đó toát lên vẻ đáng sợ trong từng thớ thịt.
-
- 
-
-Tên thô lỗ kiểm tra hàng dài phụ nữ như thể họ là gia súc trong chợ. Hắn sờ cổ họ để tìm hạch dịch hạch, kiểm tra cánh tay họ xem có vết nung đặc trưng của Phòng Khách hay không, và dùng ngón tay bẩn thỉu quẹt qua răng họ. Những người phụ nữ buộc phải khai tên và ký vào sổ đăng ký của hắn. Sau đó, họ bị vỗ một cái thật thô bạo vào mông, rồi tên thô lỗ chuyển sang xách mé người tiếp theo trong hàng.
-
- 
-
-Khi đã qua cửa kiểm tra, những người phụ nữ được chất lên thùng hở của một cỗ xe kỳ lạ. Nơi người ta mong đợi nhìn thấy ngựa, la hay bò, thì thay vào đó lại là một cỗ máy, có hình dáng và kích thước đại khái giống một chiếc xe ngựa kéo, đang phì phò hơi nước và rung bần bật trên hai trục bánh xe. Các bánh sau của nó rất rộng và có gai lốp bằng thép hình chữ V, trong khi các bánh trước nhỏ và rõ ràng được làm bằng cao su. Đó là một cỗ tàu được giải phóng. Một cỗ xe không đường ray. Một chiếc xe tự hành! Bất chấp tất cả, Senlin vẫn muốn chạy lại và kiểm tra các đồng hồ cùng van đang kêu tích tắc, những pít-tôn đang phì phò của nó…
-
- 
-
-“Cô là một người đàn bà xấu xí,” tên thô lỗ nói. Senlin giật mình nhìn quanh, ngạc nhiên nhận ra mình đã đứng ở đầu hàng từ lúc nào.
-
- 
-
-Trước khi bộ não kịp kiểm duyệt, cái miệng của anh đã bật ra câu trả lời: “Sao cũng được, chị bạn ạ.”
-
- 
-
-Người duy nhất ngạc nhiên hơn Senlin trước câu nói bâng quơ này chính là tên thô lỗ, kẻ phát ra tiếng khịt mũi ngạc nhiên. “Đúng là thứ Phòng Bầu dục cần. Lại thêm một tay tấu hài!” Tên thô lỗ giật phăng chiếc túi xách của Senlin trước khi anh kịp phản ứng. Hắn thọc cánh tay đầy lông vào chiếc túi xách và lôi ra cuốn *Cẩm nang Everyman*. Lại khịt mũi lần nữa, hắn giơ cao cuốn sách để cho một gã lính gác cao lớn, cau có hơn đứng sau lưng hắn với hai khoanh tay xem. Senlin nhìn kỹ lại người lính gác thứ hai, hoặc đặc vụ, hoặc kẻ giữ cổng, hay bất cứ thứ gì tương tự, kẻ mà thoạt đầu anh đã nhầm là đàn ông. Hóa ra ả ta là một nữ chiến binh Amazon vai vuông, rộng người ngang ngửa Tarrou và cao hơn nửa gang tay. Lớn tuổi hơn nhiều so với những người phụ nữ vừa bước xuống từ sà lan, ả ta có mí mắt nhẵn nhụi và vầng trán rộng thường thấy ở những kẻ bản địa thuộc vành đai Bắc Cực lạnh giá. Mái tóc ngắn trông giống như được cắt bởi một kẻ mù cầm liềm và có màu tro. Ả quấn một sợi xích dày quanh eo ba vòng như thể đó là một chiếc thắt lưng hoàn toàn bình thường. Senlin không thể rời mắt.
-
- 
-
-“Nhìn kìa, Iren! Ta tìm thấy cuốn sách hài của hắn rồi đây,” tên thô lỗ nói. Vầng trán rộng của nữ chiến binh không hề gợn lên một chút thích thú nào. Tên thô lỗ vung tay ném cuốn *Cẩm nang* bay qua đầu Senlin chỉ bằng một động tác gọn gàng. Cuốn sách lật giở phần phật như một con chim rồi rơi khỏi mép bến cảng xuống làn nước xanh thẳm.
-
- 
-
-Dù ngạc nhiên, Senlin không quá đau buồn khi thấy cuốn *Cẩm nang* biến mất. Đã có lúc anh bám víu lấy nó một cách tuyệt vọng, dẫu cho nó chẳng đem lại tích sự gì. “Những trò đùa cũ rích,” anh nói.
-
- 
-
-Tên thô lỗ không hề tỏ ra hứng thú với cuốn sổ ghi chép bìa da hay chiếc chìa khóa ngục tốt của Senlin, thứ mà hắn đã nhầm lẫn một cách may mắn thành công dụng hiển nhiên của nó, nhưng hắn lại chú chăm chú vào bức tranh của Ogier. Xoay khung tranh về phía ánh sáng, hắn huýt sáo một tiếng rợn người. Dưới ánh nhìn của Senlin, hắn miết ngón cái lên bức tranh. “Đồ ăn mày bẩn thỉu! Dám buôn lậu cả tranh khỏa thân.” Tên thô lỗ định vứt bức tranh vào một cái thùng đang tràn ngập đồng hồ bỏ túi, mặt dây chuyền, lược ngà và các vật có giá trị khác. Đó là một kho báu chứa đầy những kỷ vật.
-
- 
-
-Một tiếng nổ nhỏ vang lên trong đầu Senlin, tựa như hạt ngô nổ lách tách trên chảo.
-
- 
-
-Anh chộp lấy cổ tay gã thô kệch bằng một tay và nắm chặt bức tranh bằng tay kia. Gã thô kệch bóp nghẹt cổ Senlin, da tay gã thô ráp như san hô. Nụ cười đểu cáng trên môi gã đã biến mất. Trong mắt gã không hề có chút sát khí nóng bỏng nào. Cái nhìn của gã vô cảm đến mức gã có khi chỉ đang tháo một nút thắt khó gỡ thay vì siết cổ một con người.
-
- 
-
-Dù đang khát thở, Senlin nhất quyết không nới lỏng tay khỏi bức tranh. Anh sợ chiếc khung sẽ bị xé toạc ra làm đôi giữa hai người, nhưng thà bị bẻ cổ quăng xuống vực thẳm còn hơn là buông tay khỏi bức chân dung của Marya. Điều này khiến chính anh cũng phải ngạc nhiên; anh đã vượt qua cả giới hạn của sự hèn nhát rồi. Thế là họ giằng co như hai con cua chiến trận, đôi càng khóa chặt vào nhau.
-
- 
-
-Gã thô kệch, bất ngờ trước sự quyết tâm của Senlin, từ từ nhe hàm răng ố vàng ra. “Tôi có thể nể một thằng đàn ông yêu mấy ả khỏa thân hơn cả mạng sống.” Gã buông cổ Senlin ra và thả bức tranh trở lại túi xách. Rồi, ngay khi Senlin đang há hốc thở dốc cho máu lưu thông trở lại trên mặt, gã hỏi tiếp: “Tên gì?”
-
- 
-
-“Mud,” Senlin đáp bằng giọng khàn đặc.
-
- 
-
-“Mud thì Mud,” tên gác cổng nói, rồi xoay cuốn sổ về phía Senlin. Một mẩu ruột bút chì nằm ngay lề trang giấy. “Điểm chỉ đi, Mud.” Cuốn sổ chi chít những dấu nhân nguệch ngoạc và những nét ký hiệu tượng hình. Chẳng có lấy một chữ ký đàng hoàng nào trong cuốn sách. Senlin liếm ướt đầu mẩu bút chì và nắn nót viết ra chữ ký đẹp đẽ, hoa mỹ nhất mà anh có thể trổ tài: Thomas Senlin Mudd, Tiến sĩ Văn chương. Anh thả mẩu bút chì xuống cuốn sách cùng một cái nháy mắt đầy liều lĩnh. Anh cảm thấy mình hơi nổi điên rồi.
-
- 
-
-Gã lính canh nhếch môi chê bai nét chữ của Senlin. “Ồ, một quý ông vừa bước lên chiếc xà lan đĩ điếm kìa. Tránh đường cho Tiến sĩ Thomas Senlin Mudd nào!” gã hét lớn qua bàn tay khum lại.
-
- 
-
-Senlin đang cảm thấy bạo dạn và vô cùng đắc ý cho đến khoảnh khắc cái đầu của người phụ nữ khổng lồ xoay phắt về phía anh giống như một bức tượng đầu quái vật bằng đá bỗng chốc sống lại, đôi mắt nãy giờ vô hồn giờ đây sắc bén và trong vắt như mắt diều hâu. Cô cất tiếng bằng chất giọng nam trung trong trẻo và lạnh gáy: “Ngươi chính là Tom Senlin.” Đó không phải là một câu hỏi.
-
- 
-
-Có cái gì đó đang mách bảo anh rằng tốt hơn hết là nên tìm lại sự hèn nhát ngày trước và cắm cổ chạy ngay đi.
+<p class="regular">Có cái gì đó đang mách bảo anh rằng tốt hơn hết là nên tìm lại sự hèn nhát ngày trước và cắm cổ chạy ngay đi.</p>
