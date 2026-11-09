@@ -5791,5 +5791,205 @@
       "Đề cử Giải thưởng Goodreads Choice ở hạng mục Kỳ ảo"
     ],
     "hasBilingual": true
+  },
+  {
+    "id": "the-wedding-people",
+    "title": "The Wedding People",
+    "originalTitle": "The Wedding People",
+    "series": "",
+    "volume": "",
+    "author": "Alison Espach",
+    "translator": "Sheepa",
+    "year": "2024",
+    "category": "Hài hước • Tâm lý • Lãng mạn",
+    "tags": [
+      "Hài hước",
+      "Tâm lý",
+      "Lãng mạn"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/the-wedding-people/cover.jpg",
+    "icon": "public/icons/glyph_sheep_love_book.png",
+    "description": "Phoebe Stone một mình đặt chân đến khách sạn Cornwall Inn xa hoa ở Newport mà không mang theo bất kỳ hành lý nào, khoác lên mình chiếc váy dạ hội xanh ngọc bích lộng lẫy và sẵn sàng cho một kết thúc vĩnh viễn. Thế nhưng vừa bước vào sảnh, cô nhận ra mình là vị khách duy nhất không thuộc về đám cưới rực rỡ kéo dài cả tuần lễ của cô dâu Lila...",
+    "hasBilingual": true,
+    "downloads": {
+      "epub": "content/downloads/the-wedding-people.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/the-wedding-people-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Về tác giả",
+        "part": "",
+        "path": "content/books/the-wedding-people/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời đề tặng",
+        "part": "",
+        "path": "content/books/the-wedding-people/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Lời đề từ",
+        "part": "",
+        "path": "content/books/the-wedding-people/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 1",
+        "part": "Thứ Ba • Buổi Tiệc Chào Mừng",
+        "path": "content/books/the-wedding-people/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 2",
+        "part": "Thứ Ba • Buổi Tiệc Chào Mừng",
+        "path": "content/books/the-wedding-people/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 3",
+        "part": "Thứ Ba • Buổi Tiệc Chào Mừng",
+        "path": "content/books/the-wedding-people/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 4",
+        "part": "Thứ Ba • Buổi Tiệc Chào Mừng",
+        "path": "content/books/the-wedding-people/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 5",
+        "part": "Thứ Ba • Buổi Tiệc Chào Mừng",
+        "path": "content/books/the-wedding-people/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 6",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 7",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 8",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 9",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 10",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 11",
+        "part": "Thứ Tư • Ra Khơi",
+        "path": "content/books/the-wedding-people/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 12",
+        "part": "Thứ Năm • Bữa Tiệc Độc Thân Của Nàng",
+        "path": "content/books/the-wedding-people/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 13",
+        "part": "Thứ Năm • Bữa Tiệc Độc Thân Của Nàng",
+        "path": "content/books/the-wedding-people/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 14",
+        "part": "Thứ Năm • Bữa Tiệc Độc Thân Của Nàng",
+        "path": "content/books/the-wedding-people/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 15",
+        "part": "Thứ Năm • Bữa Tiệc Độc Thân Của Nàng",
+        "path": "content/books/the-wedding-people/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 16",
+        "part": "Thứ Sáu • Sự Hợp Nhất Của Hai Gia Đình",
+        "path": "content/books/the-wedding-people/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 17",
+        "part": "Thứ Sáu • Sự Hợp Nhất Của Hai Gia Đình",
+        "path": "content/books/the-wedding-people/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 18",
+        "part": "Thứ Bảy • Buổi Tiệc Tổng Duyệt",
+        "path": "content/books/the-wedding-people/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 19",
+        "part": "Thứ Bảy • Buổi Tiệc Tổng Duyệt",
+        "path": "content/books/the-wedding-people/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 20",
+        "part": "Thứ Bảy • Buổi Tiệc Tổng Duyệt",
+        "path": "content/books/the-wedding-people/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 21",
+        "part": "Chủ Nhật • Đám Cưới",
+        "path": "content/books/the-wedding-people/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 22",
+        "part": "Chủ Nhật • Đám Cưới",
+        "path": "content/books/the-wedding-people/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 23",
+        "part": "Chủ Nhật • Đám Cưới",
+        "path": "content/books/the-wedding-people/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 24",
+        "part": "Thứ Hai • Tiệc Cưới Buổi Trưa",
+        "path": "content/books/the-wedding-people/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Lời cảm ơn",
+        "part": "",
+        "path": "content/books/the-wedding-people/chuong-28.md"
+      }
+    ]
   }
 ]
