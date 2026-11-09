@@ -66,6 +66,8 @@ Tôi nhăn mặt khi em tự ý áp đặt suy nghĩ cho mình. “À thì. Ph�
 
 “Cậu ấy thông minh theo cách riêng của mình… dù có lẽ hơi quá cả tin. Em đồ rằng, nhiệm vụ của những kẻ nhà Kol đầy hoài nghi chúng ta là làm vấy bẩn cái chuẩn mực đạo đức của những hạng người như thế.” Cơ hàm em bạnh lên. “Và giữ cho cậu ấy sống sót. Chưa bao giờ lồng ngực em lại tràn ngập phẫn nộ đến thế! Lũ khốn kiếp đó đã đầu độc phu quân tương lai của em. Em sẽ làm tất cả những gì có thể để giúp anh tống cổ chúng vào thòng lọng, bất kể nguy hiểm ra sao! Đi thôi. Đền thờ ngay phía trước rồi.”
 
+<hr class="scene-break"/>
+
 Tôi quan sát những hàng cây khi chúng tôi bước đi trên lối mòn, nhưng không hề thấy dấu vết của bất kỳ ai từng qua lại quanh đây. Tôi lo em gái mình đã nhầm, và có lẽ kẻ thủ ác chưa từng đặt chân đến nơi này, thế nhưng ý nghĩ đó dường như chẳng mảy may xuất hiện trong tâm trí em.
 
 “Đền thờ nằm ở nơi sâu nhất,” em chỉ nói đơn giản. “Và nó ngay phía trước thôi.”
@@ -149,6 +151,8 @@ Em không thốt ra, nhưng tôi cảm nhận được từ ngữ ấy: *con ng�
 Tôi cất đồng tiền vào túi rồi nghĩ đến Ana cùng thân hình nhỏ thó và còng rạp của bà. Đây chẳng phải lần đầu tiên tôi tự hỏi, liệu những ân huệ sinh học nào đã được cấy ghép vào da thịt bà? Phải chăng đó là một hạt giống? Và liệu có một ngày nào đó, nó sẽ đơm hoa nảy mầm, biến chuyển thành một thứ sinh thể dị biệt đến kinh hãi?
 
 Tôi xốc lại tinh thần, xua đi những ý nghĩ u ám. “Hãy kiểm tra đám cây cối xung quanh để tìm dấu vết kẻ thủ ác, nếu đúng là hắn đã tẩu thoát theo hướng này.”
+
+<hr class="scene-break"/>
 
 Chúng tôi cùng bước dọc theo mép trảng đất trống, áp sát chiếc khăn tay cản độc lên mũi và giương mắt quan sát vào giữa những thân cây màu trắng đan xéo như nan hoa bánh xe.
 
@@ -238,6 +242,8 @@ Một nhịp hoảng loạn bắt đầu dồn dập đập liên hồi sau lồ
 
 Trao cho tôi ánh nhìn lo âu, em xoay người lướt đi qua những làn ánh sáng xanh chập chờn của khoảng rừng thưa. Rồi em biến mất, để lại tôi một mình cùng các sĩ quan Viện Orbiis và bóng hình lặng lẽ của Đại sư Gaddar.
 
+<hr class="scene-break"/>
+
 “Thành thật xin lỗi vì đã gây ra, *chà*, vài xích mích gia đình nhé, Kol,” Tauri lên tiếng. “Thế nhưng hiện tại chúng ta có những chuyện lớn lao hơn cần bận tâm.” Ông ta thò tay vào trong áo khoác, lấy ra một chiếc mặt nạ nửa mặt khác rồi đưa cho tôi. “Chú mày sẽ cần thứ này đấy. Mấy miếng vải tẩm hương chỉ cản được chút ít khí độc của khu rừng, chứ đến nơi chúng ta sắp tới thì chúng chẳng giúp ích được gì đâu.”
 
 “Và chúng ta đang đi đâu vậy, thưa ngài?” tôi hỏi trong lúc đeo chiếc mặt nạ che kín mũi và miệng.
@@ -273,6 +279,8 @@ Dưới ánh đèn sâu mai, khuôn mặt Tauri trắng bệch như đá cẩm t
 “Thế nhưng Burilis Burav lại từng là thành viên trong tổ chức của ngài.”
 
 “Vốn dĩ là vậy,” Tauri thở dài. “Và nếu ông ta bị phát hiện tàng trữ một thiết bị như thế sau khi giải ngũ, ông ta chắc chắn đã bị tống ngục. Có điều giờ ông ta đã chết. Chỉ có những tàn tích ông ta để lại là còn tồn tại, và chúng vẫn tiếp tục gieo rắc tai họa cho chúng ta. Thôi nào, Kol. Tiến vào thôi.”
+
+<hr class="scene-break"/>
 
 Nhóm chúng tôi dấn bước vào khe hẻm hun hút hình thành từ những vạt cây nhợt nhạt đang rung lên bần bật. Tiếng động vang vọng quanh đây vượt xa mọi trải nghiệm trước nay của tôi: hàng ngàn thớ gỗ thô ráp và những cuộn thân khổng lồ gầm gừ, co kéo và rên siết ken két, tựa như âm thanh gào thán đồng thanh từ hàng vạn cuống họng cổ xưa. Rồi rặng cây phía sau đột ngột khép chặt lại, nhốt chúng tôi giữa một biển thân gỗ, gốc xù xì và những vạt lá lấp lánh ngột ngạt đến nghẹt thở.
 

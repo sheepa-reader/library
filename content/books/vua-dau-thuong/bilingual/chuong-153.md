@@ -148,6 +148,8 @@
 
 <p class="para-vi-sub">Hắn dành ra vài phút để chuẩn bị. Hắn đặt chiếc mũ lên bàn cạnh giường, lật ngửa nó lại, rồi đổ một chai nước nhãn hiệu Poland Spring vào đó. Hắn đặt chiếc tù và vỏ ốc lên giường ngay bên cạnh mình. Hắn mở khóa điện thoại và kéo tìm những đoạn video riêng tư. Từ lâu rồi, Colin đã chuyển đoạn phim về Elwood Hondo sang tệp kỹ thuật số. Hắn đặt một chiếc gối bệnh viện mỏng lên đùi, tựa chiếc điện thoại vào đó, rồi bật bộ phim cũ của ông nội mình lên với âm thanh vặn nhỏ. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">When Llewellyn and the others began to cheer Elwood Hondo on, Colin cheered with them.</p>
 
 <p class="para-vi-sub">Khi Llewellyn và những người khác bắt đầu hò reo cổ vũ Elwood Hondo, Colin liền hò reo cùng họ.</p>
@@ -159,6 +161,8 @@
 <p class="para-en">But his arm was weak and trembling. It was hard for him to hold the conch to his ear. There was a grinding ache in his chest. He used his free hand to flick the trigger on his morphine feed, give himself a blast of relief. He was running the video full screen . . . but had not expected the brightness of the image to hurt his eyes so. He turned his face away, shut his eyes, and when his arm started wobbling, he put the conch down. He gasped, his heartbeat stammering, felt the warm trickle of fresh piss into the bag against his leg. It was awful to be so weak, to feel so helpless, and the easiest thing in the world was to slide away from it, into sleep.</p>
 
 <p class="para-vi-sub">Nhưng cánh tay hắn yếu ớt và run rẩy. Thật khó khăn để hắn có thể áp chiếc tù và vỏ ốc vào tai mình. Có một cơn đau nhức ê ẩm đang nghiến ngặt trong lồng ngực. Hắn dùng bàn tay rảnh rỗi gạt nút bấm trên dây truyền morphin, tự thưởng cho bản thân một liều thuốc giảm đau tê tái. Hắn bật video ở chế độ toàn màn hình... nhưng lại không ngờ ánh sáng chói lọi của khung hình lại làm tổn thương đôi mắt mình đến vậy. Hắn quay mặt đi, nhắm nghiền mắt lại, và khi cánh tay bắt đầu chao đảo, hắn đặt chiếc tù và vỏ ốc xuống. Hắn thở hổn hển, nhịp tim đập loạn nhịp, cảm nhận dòng nước tiểu ấm áp rỉ ra chiếc túi đựng buộc bên chân mình. Thật tồi tệ khi phải yếu ớt đến thế, khi cảm thấy bất lực nhường này, và điều dễ dàng nhất trên đời là trôi tuột khỏi thực tại ấy, chìm vào giấc ngủ. ✦  ✦  ✦</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">The crash of folding metal chairs brought him awake again with a jerk. He had nodded off in his seat to Llewellyn’s left. They were singing, the whole crowd of them at the long folding card table, under the map of Cuba. They sang, Nooooo time for loooosers!</p>
 
@@ -232,6 +236,8 @@
 
 <p class="para-vi-sub">Colin đưa tay lên lau vệt nước dãi dính quanh miệng. Nhịp tim hắn vẫn đang phi mã. Đó là do morphin, liều morphin đã đánh gục hắn một cách nặng nề và tàn nhẫn, đưa hắn chìm vào giấc ngủ, thế nhưng ngay cả vậy, nó cũng chẳng thể làm dịu đi cơn đau của hắn một cách trọn vẹn. Cảm giác như có một chiếc khui nút chai đang xoắn chậm rãi ngay chính giữa lồng ngực hắn. Hắn cảm thấy phẫn nộ khôn cùng khi nghĩ đến việc Donna có thể đã mang Máu Thánh Nữ đến cho hắn, rằng lẽ ra lúc này hắn có thể đang hồi phục, đang hồi phục thay vì chết dần chết mòn. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Colin had found the darkness of his room comforting, easier on his eyes, but now it frightened him. The room was plunged into darkness in every direction. The depth of the shadows made it hard to breathe, made him wish for all the light in the world. Even when he looked at the monitors, the one source of brightness in the whole room, black spots darted and drifted in front of his vision. He had a thought then, so terrible he wanted to cry out, that there were black scribbles in front of his eyes, that he had already joined the dead. He clawed for his phone, found the camera app. He needed to look into his own eyes, know he was still breathing.</p>
 
 <p class="para-vi-sub">Colin từng cảm thấy sự tối tăm trong phòng mình mang lại cảm giác dễ chịu, đỡ nhức mắt hơn, thế nhưng giờ đây nó lại khiến hắn hoảng sợ. Căn phòng bị nhấn chìm trong bóng tối ở mọi hướng. Độ sâu thẳm của những vầng bóng râm khiến hắn khó thở, khiến hắn thèm khát tất cả ánh sáng trên cõi đời này. Ngay cả khi nhìn vào các màn hình theo dõi, nguồn sáng duy nhất trong cả căn phòng, những đốm đen vẫn cứ lao vút và trôi dạt trước tầm mắt hắn. Lúc đó, trong đầu hắn xuất hiện một suy nghĩ kinh khủng đến mức hắn chỉ muốn bật khóc, rằng có những vết nguệch ngoạc màu đen trước mắt, rằng hắn đã sớm nhập hội với những kẻ chết rồi. Hắn cào cấu tìm chiếc điện thoại, bật ứng dụng máy ảnh lên. Hắn cần phải nhìn vào chính đôi mắt mình, để biết rằng bản thân vẫn đang thở.</p>
@@ -291,4 +297,3 @@
 <p class="para-en">The light shriveled and winked out and Colin plunged on, blindly, screaming without words, without making a sound, screaming with no one to hear, because in that darkness that seemed to last forever, he was alone.</p>
 
 <p class="para-vi-sub">Ánh sáng co rút lại rồi lóe lên một cái trước khi tắt ngấm. Colin lao đầu vào màn đêm mù quáng, gào thét không thành lời, chẳng thể phát ra dù chỉ một âm thanh, gào thét trong tuyệt vọng mà không một ai nghe thấy. Bởi lẽ trong khoảng không tăm tối chừng như kéo dài đến vĩnh hằng ấy, hắn chỉ có một mình.</p>
-

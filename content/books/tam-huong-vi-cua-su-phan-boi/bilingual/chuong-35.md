@@ -224,6 +224,8 @@
 
 <p class="para-vi-sub">“Em cũng yêu anh, chàng sát thủ của em. Nhớ đừng đi lâu quá đấy nhé.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -259,4 +261,3 @@
 <p class="para-en">“Not at all.”</p>
 
 <p class="para-vi-sub">“Dì cứ tự nhiên.”</p>
-

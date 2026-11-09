@@ -44,6 +44,8 @@ Tôi quan sát bà, lòng đầy bất an. Trước đây, mỗi khi Ana nhắc 
 
 “Hử? À. Rất nhiều.” Bà hít một hơi, ngồi thẳng dậy và cố gượng một nụ cười. “Ta đã tìm ra mật mã mở căn hầm của gia tộc Burav, Din à. Và trong đó, ta đã phát hiện ra bằng chứng xác thực chứng minh tội lỗi của Jalin.”
 
+<hr class="scene-break"/>
+
 Lại một chuyến xe ngựa nữa, chuyến thứ năm trong ngày của tôi. Lưng tôi đau nhừ vì những cú xóc nảy, các dây thần kinh nơi cổ gào thét đòi nghỉ ngơi, nhưng tôi nén lại nỗi khó chịu rồi nhoài người ra ngoài cửa sổ, ngước nhìn về phía trước khi cỗ xe đang tiến gần đến đích.
 
 Tôi vốn ngỡ khi quay lại đống phế tích của khu trang viên Burav thì nơi đây vẫn chỉ là mớ gỗ cháy thành than cùng những Dây leo Fretvine đổ nát tựa vào nhau. Thế nhưng Viện Orbiis đã làm việc cật lực trong suốt khoảng thời gian tôi vắng mặt và dọn dẹp đi một lượng lớn xà bần. Nơi này trông bớt giống một ngôi nhà bị tháo dỡ mà giống một công trình đang trong quá trình xây cất hơn: từ nền móng đá được dọn quang, cho đến từng thân gỗ đều sạch sẽ và lột sạch vỏ ngoài.
@@ -133,6 +135,8 @@ Bà nắm lấy tay cầm rồi vặn. Kèm theo một tiếng *cạch* rất l�
 “…và đó chính là lý do ta biết Jalin Burav là một trong những kẻ sát nhân của chúng ta,” bà tiếp tục. “Hắn từng tới nơi này một lần. Hắn đã mở căn hầm kiên cố và tìm thấy thứ gì đó. Thứ gì đó đã dẫn hắn vào khu rừng, cùng một bí mật kinh hoàng, một bí mật cho phép hắn giết người mà không cần đến gươm đao hay đổ máu.” Bà lùi lại một bước. “Ta cho phép hai người các cậu nhận lấy vinh dự này…”
 
 Tôi nhìn sang phía Tauri, ông ấy gật đầu trong nỗi bàng hoàng chưa tan. Tôi nắm lấy tay cầm của cánh cửa hầm, dồn hết sức bình sinh kéo tung cánh cửa ra rồi nhìn vào bên trong.
+
+<hr class="scene-break"/>
 
 Ở phía bên kia cánh cửa không phải một gian hầm kho báu chứa đầy két sắt và rương hòm ngập tràn châu báu hay những chồng tiền talint chất ngất. Thay vào đó, nơi này tựa như một thư viện với vô số kệ chất đầy sách vở, nhiều cuốn trong số đó đã mục nát đến mức chực vỡ vụn. Một dàn đèn sâu mai phát sáng treo lơ lửng trên trần, bên dưới kê một chiếc bàn làm việc cùng bút lông, mực và rất nhiều cuộn giấy da. Kế bên chiếc bàn này là vài chục vò rượu sot, và tít phía sau là la liệt những thùng gỗ dường như nhét đầy thêm vô số vò rượu nữa. Có vẻ như nhà Burav đã dùng không gian này làm nơi nửa thư viện, nửa hầm rượu.
 

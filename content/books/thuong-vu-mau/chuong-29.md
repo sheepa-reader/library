@@ -24,6 +24,8 @@ Tôi cảm thấy buồn cười thoáng qua trước cảnh tượng đó. Khi 
 
 Viên sĩ quan tiến về phía rặng cây. Một lần nữa, từng chùm cành lá bắt đầu tách ra hai bên, tựa hồ bị một bàn tay vô hình bẻ ngoặt về phía sau. Lối mòn hẹp hé lộ, và đoàn người chúng tôi dấn bước về phía trước. Tôi nhận thấy Tauri đi ở vị trí thứ hai, ngay sau viên sĩ quan cầm bình xông trầm, còn tôi bám sát theo ông ấy. Tôi kéo mặt nạ trùm kín mặt rồi bước tiếp. Rặng cây khép lại sau lưng, nuốt chửng chúng tôi vào cõi mịt mùng.
 
+<hr class="scene-break"/>
+
 Chúng tôi lặng lẽ bước đi suốt gần một giờ đồng hồ dằng dặc, bị bủa vây giữa những thân cây chuyển dịch cuộn trào, những tán lá tím lập lòe và bóng tối xoáy tròn quanh mình. Một lần nữa, bản chất hình học quái đản của khu rừng lại đè nặng lên tâm trí tôi. Cảm giác không giống như tôi đang băng qua một cánh rừng, mà tựa hồ đang lần mò giữa một mạng nhện bất tận, điểm xuyết đây đó bằng những vệt sắc chàm thẫm bùng nổ.
 
 Một ý nghĩ điên rồ luồn lách vào tâm trí tôi: *Mày đang bị rình rập. Bị săn đuổi. Có thứ gì đó đang lẩn khuất ở đằng kia, ngay ngoài tầm với của ánh sáng.*
@@ -118,6 +120,8 @@ Tauri quay phắt lại trên con đường mòn và nhìn chằm chằm vào t�
 
 Bằng một cái phẩy tay dứt khoát nhưng kín kẽ, ông ấy ra hiệu cho chúng tôi tiếp tục bước dọc theo con đường mòn.
 
+<hr class="scene-break"/>
+
 Thật khó để biết chúng tôi đã đi thêm bao xa, hay thậm chí là đã đi trong bao lâu, bởi vòm lá rậm rạp phía trên đã che khuất gần như toàn bộ ánh mặt trời. Lúc này đã là giữa trưa? Vẫn còn buổi sáng? Hay trời đã ngả bóng về chiều muộn? Dù là lúc nào đi nữa, tôi cũng chẳng hề muốn nán lại nơi u tối này thêm một khắc nào, đặc biệt là sau những pho tượng đá mà chúng tôi vừa nhìn thấy.
 
 Rồi bất thình lình, cả đoàn thám hiểm khựng lại.
@@ -203,6 +207,8 @@ Tôi đăm đăm nhìn vào đôi mắt Jalin Burav, giờ đây đang trợn tr
 Ký ức trong tôi khẽ lay động, và tôi chợt nhớ lại những lời cậu ta từng nói: *Anh nên giết tôi đi. Tôi cũng chỉ là xương thịt mà thôi. Và chúng ta còn có thể làm gì khác với xương thịt ở cái nơi bị nguyền rủa này chứ?*
 
 “Hãy lục soát khu vực này,” tôi khàn giọng nói. “Thật cẩn thận.”
+
+<hr class="scene-break"/>
 
 Việc lục soát khu vực xung quanh đài phun nước nhanh chóng trở nên vô nghĩa, bởi lẽ Burilis Burav chỉ mới dọn sạch cây cỏ trong phạm vi vài chục sải tay tính từ rìa ngoài.
 

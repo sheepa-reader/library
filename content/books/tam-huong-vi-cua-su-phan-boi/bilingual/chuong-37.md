@@ -144,6 +144,8 @@
 
 <p class="para-vi-sub">Shepherd chỉ phẩy tay xua đi đầy vẻ trịch thượng. “Đừng có nhặng xị lên thế, Ginés. Thằng bé nhà ta chỉ muốn đùa vui đôi chút với tên Đồ Tể của ngươi thôi mà. Nó không thèm lấy mạng hắn đâu.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -171,4 +173,3 @@
 <p class="para-en">With a sullen look, the warchef exits the tent.</p>
 
 <p class="para-vi-sub">Với gương mặt đanh lại đầy âu lo, nữ thống lĩnh bước nhanh ra khỏi lều dã chiến.</p>
-

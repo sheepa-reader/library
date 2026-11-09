@@ -6,11 +6,11 @@
 
 <p class="para-en">Back at the hotel, Pauline stands behind the front desk in a navy linen dress. She has the expression of a woman who has been fielding requests that are impossible to field all day long, yet when she sees the wedding people, she gives a cheerful, “Hello! Welcome back! How was your sail?”</p>
 
-<p class="para-vi-sub">Trở lại khách sạn, Pauline đang đứng sau quầy lễ tân trong bộ đầm bằng vải lanh màu xanh navy. Cô mang biểu cảm của một người phụ nữ phải giải quyết những yêu cầu vốn dĩ bất khả thi suốt cả ngày dài, thế nhưng khi nhìn thấy nhóm khách đám cưới, cô vẫn cất giọng vui vẻ: "Xin chào! Chào mừng mọi người trở lại! Buổi đi thuyền thế nào ạ?"</p>
+<p class="para-vi-sub">Trở lại khách sạn, Pauline đang đứng sau quầy lễ tân trong bộ đầm bằng vải lanh màu xanh navy. Cô mang biểu cảm của một người phụ nữ phải giải quyết những yêu cầu vốn dĩ bất khả thi suốt cả ngày dài, thế nhưng khi nhìn thấy nhóm khách đám cưới, cô vẫn cất giọng vui vẻ: “Xin chào! Chào mừng mọi người trở lại! Buổi đi thuyền thế nào ạ?”</p>
 
 <p class="para-en">“Phenomenal,” Lila says. “Oh, that reminds me. I need to talk to you about my mattress.”</p>
 
-<p class="para-vi-sub">"Tuyệt vời," Lila đáp. "Ộ, nhắc mới nhớ. Tôi cần nói chuyện với cô về chiếc nệm của mình."</p>
+<p class="para-vi-sub">“Tuyệt vời,” Lila đáp. “Ồ, nhắc mới nhớ. Tôi cần nói chuyện với cô về chiếc nệm của mình.”</p>
 
 <p class="para-en">Lila turns to Pauline, and the group scatters. Nat and Suz are off to get their nails done. Marla and Juice require naps. Jim heads to the bar with Gary’s father to meet Uncle Jim. And Gary and Phoebe wait for the elevator in silence, listening to Lila explain to Pauline that the mattress is not soft enough.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">“Not as soft as I was hoping,” Lila says.</p>
 
-<p class="para-vi-sub">"Không mềm như tôi hy vọng," Lila nói.</p>
+<p class="para-vi-sub">“Không mềm như tôi hy vọng,” Lila nói.</p>
 
 <p class="para-en">Phoebe wonders if this is how Lila operates. Lila is upset about the funeral on the boat, but she can’t say anything about that, so she complains about the mattress to Pauline, because that’s where Pauline stands most of the day, waiting for complaints. Pauline is ready to fix any problem, which is why Phoebe is not surprised to see that Pauline has already restored the books on the shelf to their original positions, pages facing out.</p>
 
@@ -26,19 +26,19 @@
 
 <p class="para-en">“Is there anything you can do?” Lila asks.</p>
 
-<p class="para-vi-sub">"Cô có thể làm gì không?" Lila hỏi.</p>
+<p class="para-vi-sub">“Cô có thể làm gì không?” Lila hỏi.</p>
 
 <p class="para-en">“I’m just not sure there is anything we can do about the actual mattress,” Pauline says. “I mean, they’re brand-new mattresses.”</p>
 
-<p class="para-vi-sub">"Tôi chỉ không chắc chúng tôi có thể làm gì với tấm nệm thực tế được không," Pauline nói. "Ý tôi là, chúng hoàn toàn là những tấm nệm mới tinh."</p>
+<p class="para-vi-sub">“Tôi chỉ không chắc chúng tôi có thể can thiệp được gì vào tấm nệm thực tế không,” Pauline nói. “Ý tôi là, chúng hoàn toàn là những tấm nệm mới tinh.”</p>
 
 <p class="para-en">“Unfortunately, those brand-new mattresses are not very comfortable,” Lila says.</p>
 
-<p class="para-vi-sub">"Đáng tiếc là những tấm nệm mới tinh đó lại không hề thoải mái cho lắm," Lila nói.</p>
+<p class="para-vi-sub">“Đáng tiếc là những tấm nệm mới tinh đó lại không hề thoải mái cho lắm,” Lila nói.</p>
 
 <p class="para-en">Gary looks down at his feet like he’s embarrassed, but then again, what does Phoebe know about Gary really? Gary could like this about Lila. Many men do—it took her a long time to realize that. Some men like the fuss. Some men like being told what to do, because then they never have to make any decisions, never have to think. It was probably very helpful when Lila told him where to hang the nude painting, probably for the same reasons that Phoebe always liked watching Matt roll up his belt into a neat and tidy ball. She liked watching his hand sweep the gutter clean. It’s arousing to see someone passionately take care of all the problems. Especially for someone like Phoebe, the perpetual passenger of the relationship, according to her therapist—the one who always asked, “Where do you want to go to dinner?” hoping the other person knew where they wanted to go.</p>
 
-<p class="para-vi-sub">Gary nhìn xuống chân mình như thể anh đang cảm thấy xấu hổ, nhưng suy cho cùng, Phoebe thực sự hiểu được bao nhiêu về Gary chứ? Gary có thể thích điểm này ở Lila. Rất nhiều người đàn ông thích thế và cô mất một thời gian dài mới nhận ra điều đó. Một số người đàn ông thích sự lo lắng thái quá. Một số người đàn ông thích được bảo phải làm gì, bởi vì nhờ thế họ không bao giờ phải đưa ra bất kỳ quyết định nào, không bao giờ phải suy nghĩ. Chắc hẳn việc Lila bảo anh nên treo bức tranh khỏa thân ở đâu là rất hữu ích, có lẽ cũng vì những lý do tương tự mà Phoebe luôn thích nhìn Matt cuộn chiếc thắt lưng của anh lại thành một cục gọn gàng ngăn nắp. Cô thích nhìn tay anh quét sạch máng xối. Thật kích thích khi thấy ai đó nhiệt tình lo toan mọi vấn đề. Đặc biệt là đối với một người như Phoebe, kẻ luôn đóng vai hành khách trong mối quan hệ theo lời bác sĩ trị liệu của cô, người luôn hỏi "Em muốn đi ăn tối ở đâu?" với hy vọng đối phương biết họ muốn đi đâu.</p>
+<p class="para-vi-sub">Gary nhìn xuống chân mình như thể anh đang cảm thấy xấu hổ, nhưng suy cho cùng, Phoebe thực sự hiểu được bao nhiêu về Gary chứ? Gary có thể thích điểm này ở Lila. Rất nhiều người đàn ông thích thế và cô mất một thời gian dài mới nhận ra điều đó. Một số người đàn ông thích sự lo lắng thái quá. Một số người đàn ông thích được bảo phải làm gì, bởi vì nhờ thế họ không bao giờ phải đưa ra bất kỳ quyết định nào, không bao giờ phải suy nghĩ. Chắc hẳn việc Lila bảo anh nên treo bức tranh khỏa thân ở đâu là rất hữu ích, có lẽ cũng vì những lý do tương tự mà Phoebe luôn thích nhìn Matt cuộn chiếc thắt lưng của anh lại thành một cục gọn gàng ngăn nắp. Cô thích nhìn tay anh quét sạch máng xối. Thật kích thích khi thấy ai đó nhiệt tình lo toan mọi vấn đề. Đặc biệt là đối với một người như Phoebe, kẻ luôn đóng vai hành khách trong mối quan hệ theo lời bác sĩ trị liệu của cô, người luôn hỏi “Em muốn đi ăn tối ở đâu?” với hy vọng đối phương biết họ muốn đi đâu.</p>
 
 <p class="para-en">But then Gary reaches out and makes a decision. He turns a book around just like she had.</p>
 
@@ -50,11 +50,11 @@
 
 <p class="para-en">Gary holds up his fist. “Free the books,” he says, and Phoebe laughs. She is surprised. Maybe she doesn’t know Gary at all. Maybe Gary makes decisions like that all the time. And why is she always trying to reduce people, squeeze them into these knowable, tiny boxes where there is room for only one or two personality traits? Gary is the stage and Lila is the song, she thinks. But then she thinks: Nobody is ever like anything all of the time. Because one day, Phoebe woke up and decided to kill herself, and that is not what the perpetual passenger of life does. The perpetual passenger of life just continues sitting in bed.</p>
 
-<p class="para-vi-sub">Gary giơ tay nắm chặt lại. "Giải phóng sách thôi," anh nói, và Phoebe bật cười. Cô cảm thấy ngạc nhiên. Có lẽ cô chẳng hề hiểu gì về Gary cả. Có lẽ Gary vẫn luôn đưa ra những quyết định như thế. Và tại sao cô lúc nào cũng cố gắng thu nhỏ mọi người, nhét họ vào những chiếc hộp nhỏ bé dễ hiểu nơi chỉ có chỗ cho một hoặc hai đặc điểm tính cách? Gary là sân khấu còn Lila là bài hát, cô nghĩ. Nhưng rồi cô nghĩ: Chẳng ai lúc nào cũng giống một cách rập khuôn cả. Bởi vì có một ngày, Phoebe thức dậy và quyết định tự tử, và đó không phải là việc mà một hành khách thụ động trong cuộc đời sẽ làm. Kẻ thụ động của cuộc đời chỉ tiếp tục nằm lì trên giường mà thôi.</p>
+<p class="para-vi-sub">Gary giơ tay nắm chặt lại. “Giải phóng sách thôi,” anh nói, và Phoebe bật cười. Cô cảm thấy ngạc nhiên. Có lẽ cô chẳng hề hiểu gì về Gary cả. Có lẽ Gary vẫn luôn đưa ra những quyết định như thế. Và tại sao cô lúc nào cũng cố gắng thu nhỏ mọi người, nhét họ vào những chiếc hộp nhỏ bé dễ hiểu nơi chỉ có chỗ cho một hoặc hai đặc điểm tính cách? Gary là sân khấu còn Lila là bài hát, cô nghĩ. Nhưng rồi cô nghĩ: Chẳng ai lúc nào cũng giống một cách rập khuôn cả. Bởi vì có một ngày, Phoebe thức dậy và quyết định tự tử, và đó không phải là việc mà một hành khách thụ động trong cuộc đời sẽ làm. Kẻ thụ động của cuộc đời chỉ tiếp tục nằm lì trên giường mà thôi.</p>
 
 <p class="para-en">“Free the books,” Phoebe says.</p>
 
-<p class="para-vi-sub">"Giải phóng sách nào," Phoebe nói.</p>
+<p class="para-vi-sub">“Giải phóng sách nào,” Phoebe nói.</p>
 
 <p class="para-en">Phoebe turns a book around, too. They continue on like that, freeing the books, while Pauline tries to appease Lila.</p>
 
@@ -62,23 +62,23 @@
 
 <p class="para-en">“The mattresses may take some time to, you know, break in,” Pauline says.</p>
 
-<p class="para-vi-sub">"Những chiếc nệm này có thể cần chút thời gian để, ý tôi là, mềm ra đấy ạ," Pauline nói.</p>
+<p class="para-vi-sub">“Những chiếc nệm này có thể cần chút thời gian để, ý tôi là, mềm ra đấy ạ,” Pauline nói.</p>
 
 <p class="para-en">“Don’t mattresses famously get worse over time?”</p>
 
-<p class="para-vi-sub">"Chẳng phải nệm càng lúc càng tệ đi theo thời gian là chuyện nổi tiếng sao?"</p>
+<p class="para-vi-sub">“Chẳng phải nệm càng lúc càng tệ đi theo thời gian là chuyện ai cũng biết sao?”</p>
 
 <p class="para-en">“Well, I just don’t know what we can do about the mattresses, to be honest. They are, unfortunately, already here.”</p>
 
-<p class="para-vi-sub">"Vâng, thành thật mà nói thì tôi chỉ không biết chúng ta có thể làm gì với những chiếc nệm đó nữa. Đáng tiếc là chúng đã ở đây rồi."</p>
+<p class="para-vi-sub">“Vâng, thành thật mà nói thì tôi chỉ không biết chúng ta có thể làm gì với những chiếc nệm đó nữa. Đáng tiếc là chúng đã ở đây rồi.”</p>
 
 <p class="para-en">“What about a topper?” Lila asks.</p>
 
-<p class="para-vi-sub">"Còn một tấm topper lót nệm thì sao?" Lila hỏi.</p>
+<p class="para-vi-sub">“Còn một tấm topper lót nệm thì sao?” Lila hỏi.</p>
 
 <p class="para-en">“A topper?” Pauline says. “Yes. That’s what we’ll do. We’ll get you a topper.”</p>
 
-<p class="para-vi-sub">"Một tấm topper ạ?" Pauline nói. "Vâng. Đó là việc chúng ta sẽ làm. Chúng tôi sẽ mang đến cho cô một tấm topper."</p>
+<p class="para-vi-sub">“Một tấm topper ạ?” Pauline nói. “Vâng. Đó là việc chúng ta sẽ làm. Chúng tôi sẽ mang đến cho cô một tấm topper.”</p>
 
 <p class="para-en">Pauline says the word <i>topper</i> as if it’s foreign, and Phoebe imagines she is writing down on a little pad, <i>What’s a topper?</i> Either way, Pauline sounds relieved.</p>
 
@@ -90,11 +90,11 @@
 
 <p class="para-en">“What are you doing to the décor?” Lila asks. She looks at them like she’s stumbled upon a bank robbery.</p>
 
-<p class="para-vi-sub">"Hai người đang làm gì với cách bài trí vậy?" Lila hỏi. Cô nhìn họ cứ như thể vừa bắt gặp một vụ cướp ngân hàng.</p>
+<p class="para-vi-sub">“Hai người đang làm gì với cách bài trí vậy?” Lila hỏi. Cô nhìn họ cứ như thể vừa bắt gặp một vụ cướp ngân hàng.</p>
 
 <p class="para-en">“They’re books, not décor,” Phoebe says.</p>
 
-<p class="para-vi-sub">"Đó là sách, không phải đồ trang trí," Phoebe nói.</p>
+<p class="para-vi-sub">“Đó là sách, không phải đồ trang trí,” Phoebe nói.</p>
 
 <p class="para-en">Phoebe doesn’t have too many beliefs, but this is one of them.</p>
 
@@ -102,7 +102,7 @@
 
 <p class="para-en">“Are you going to tell me that books have souls now or something?” Lila asks.</p>
 
-<p class="para-vi-sub">"Hai người định nói với tôi là sách có linh hồn hay gì đó à?" Lila hỏi.</p>
+<p class="para-vi-sub">“Hai người định nói với tôi là sách có linh hồn hay gì đó à?” Lila hỏi.</p>
 
 <p class="para-en">The elevator doors open.</p>
 
@@ -110,63 +110,63 @@
 
 <p class="para-en">“I am going to tell you that they are books,” Phoebe says. “They’re meant to be read. That’s what books are.”</p>
 
-<p class="para-vi-sub">"Tôi chuẩn bị nói với cô rằng chúng là sách," Phoebe nói. "Chúng sinh ra là để đọc. Sách là thế mà."</p>
+<p class="para-vi-sub">“Tôi chuẩn bị nói với cô rằng chúng là sách,” Phoebe nói. “Chúng sinh ra là để đọc. Sách là thế mà.”</p>
 
 <p class="para-en">“Okay, Siddhartha,” Lila says, then pauses, as if she caught herself being too much like the Lila that she is around Phoebe. “Pauline says she’ll get me a topper. Do you want one, too?”</p>
 
-<p class="para-vi-sub">"Được rồi, Siddhartha," Lila nói, đoạn dừng lại như thể cô tự thấy mình đang cư xử giống hệt như con người thật của cô khi ở bên cạnh Phoebe. "Pauline nói cô ấy sẽ kiếm cho tôi một tấm topper. Cô có muốn một cái không?"</p>
+<p class="para-vi-sub">“Được rồi, Siddhartha,” Lila nói, đoạn dừng lại như thể cô tự thấy mình đang cư xử giống hệt như con người thật của cô khi ở bên cạnh Phoebe. “Pauline nói cô ấy sẽ kiếm cho tôi một tấm topper. Cô có muốn một cái không?”</p>
 
 <p class="para-en">“No,” Gary says. “I need a firm mattress.”</p>
 
-<p class="para-vi-sub">"Không," Gary nói. "Tôi cần một chiếc nệm cứng."</p>
+<p class="para-vi-sub">“Không,” Gary nói. “Tôi cần một chiếc nệm cứng.”</p>
 
 <p class="para-en">“Right,” Lila says. “Your back. How is it?”</p>
 
-<p class="para-vi-sub">"Phải rồi," Lila nói. "Lưng anh. Thế nào rồi?"</p>
+<p class="para-vi-sub">“Phải rồi,” Lila nói. “Lưng anh. Thế nào rồi?”</p>
 
 <p class="para-en">“It’s, you know, still my back,” he says, and chuckles softly to himself. Then they ride in silence until Lila says, “Why is this elevator so slow?”</p>
 
-<p class="para-vi-sub">"Thì, ý cô là, nó vẫn là cái lưng của tôi thôi," anh nói và khẽ cười khúc khích một mình. Sau đó họ đi thang máy trong im lặng cho đến khi Lila lên tiếng: "Tại sao chiếc thang máy này lại chậm thế nhỉ?"</p>
+<p class="para-vi-sub">“Thì, ý em là, nó vẫn là cái lưng của tôi thôi,” anh nói và khẽ cười khúc khích một mình. Sau đó họ đi thang máy trong im lặng cho đến khi Lila lên tiếng: “Tại sao chiếc thang máy này lại chậm thế nhỉ?”</p>
 
 <p class="para-en">“It’s from 1922,” Phoebe says, reading the plaque.</p>
 
-<p class="para-vi-sub">"Nó có từ năm 1922 đấy," Phoebe nói khi đọc tấm biển nhỏ.</p>
+<p class="para-vi-sub">“Nó có từ năm 1922 đấy,” Phoebe nói khi đọc tấm biển nhỏ.</p>
 
 <p class="para-en">“But why wouldn’t they have renovated it when they redid the hotel?”</p>
 
-<p class="para-vi-sub">"Nhưng tại sao họ không tân trang lại nó lúc sửa sang khách sạn cơ chứ?"</p>
+<p class="para-vi-sub">“Nhưng tại sao họ không tân trang lại nó lúc sửa sang khách sạn cơ chứ?”</p>
 
 <p class="para-en">“Beats me,” Gary says, and then they are at the top.</p>
 
-<p class="para-vi-sub">"Chịu thôi," Gary nói, và rồi họ đã lên đến tầng trên cùng.</p>
+<p class="para-vi-sub">“Chịu thôi,” Gary nói, và rồi họ đã lên đến tầng trên cùng.</p>
 
 <p class="para-en">“Well, that was fun,” Lila says. “A fun day.”</p>
 
-<p class="para-vi-sub">"Chà, vui phết nhỉ," Lila nói. "Một ngày vui vẻ."</p>
+<p class="para-vi-sub">“Chà, vui phết nhỉ,” Lila nói. “Một ngày vui vẻ.”</p>
 
 <p class="para-en">“Absolutely,” Gary says. “Very fun. A great idea.”</p>
 
-<p class="para-vi-sub">"Chắc chắn rồi," Gary nói. "Rất vui. Một ý tưởng tuyệt vời."</p>
+<p class="para-vi-sub">“Chắc chắn rồi,” Gary nói. “Rất vui. Một ý tưởng tuyệt vời.”</p>
 
 <p class="para-en">But Phoebe hates the word <i>fun</i>. Phoebe thinks that if people could just stop using the word <i>fun</i>, stop expecting everything to be fun, everything could be fun again. She was exhausted by her husband’s insistence that everything should be fun. He never used to speak like that, when things were actually fun, but at the very end, when nothing was fun, he would say, “Let’s go for drinks, it’ll be fun.” “Let’s go hiking, it’ll be fun.” And wasn’t that why she suggested they go to the Cornwall in the first place? “Let’s do something fun for spring break,” he had said.</p>
 
-<p class="para-vi-sub">Nhưng Phoebe ghét từ <i>vui vẻ</i>. Phoebe nghĩ rằng nếu con người ta có thể ngừng dùng từ <i>vui vẻ</i>, ngừng kỳ vọng mọi thứ phải vui vẻ, thì mọi thứ lại có thể vui vẻ trở lại. Cô đã kiệt sức vì sự nài nỉ của chồng rằng mọi thứ lúc nào cũng phải vui. Anh chưa bao giờ nói năng kiểu đó khi mọi thứ thực sự vui, nhưng vào những giây phút cuối cùng, khi chẳng còn gì vui nổi, anh lại bảo: "Chúng ta đi uống nước đi, sẽ vui lắm đấy." "Chúng ta đi leo núi đi, sẽ vui lắm đấy." Và chẳng phải đó là lý do cô đề xuất họ tới khách sạn Cornwall từ đầu sao? "Hãy làm gì đó thật vui cho kỳ nghỉ xuân," anh đã nói vậy.</p>
+<p class="para-vi-sub">Nhưng Phoebe ghét từ <i>vui vẻ</i>. Phoebe nghĩ rằng nếu con người ta có thể ngừng dùng từ <i>vui vẻ</i>, ngừng kỳ vọng mọi thứ phải vui vẻ, thì mọi thứ lại có thể vui vẻ trở lại. Cô đã kiệt sức vì sự nài nỉ của chồng rằng mọi thứ lúc nào cũng phải vui. Anh chưa bao giờ nói năng kiểu đó khi mọi thứ thực sự vui, nhưng vào những giây phút cuối cùng, khi chẳng còn gì vui nổi, anh lại bảo: “Chúng ta đi uống nước đi, sẽ vui lắm đấy.” “Chúng ta đi leo núi đi, sẽ vui lắm đấy.” Và chẳng phải đó là lý do cô đề xuất họ tới khách sạn Cornwall Inn từ đầu sao? “Hãy làm gì đó thật vui cho kỳ nghỉ xuân,” anh đã nói vậy.</p>
 
 <p class="para-en">“So Vivian, my maid of honor, will be flying in from Chicago tonight,” Lila says. “She’s my best friend from college. She’s amazing. I know you’re both going to love her.”</p>
 
-<p class="para-vi-sub">"Vậy là Vivian, phù dâu của con, sẽ bay từ Chicago đến tối nay," Lila nói. "Cậu ấy là bạn thân nhất của con thời đại học. Cậu ấy tuyệt vời lắm. Con biết cả hai người sẽ quý cậu ấy mà."</p>
+<p class="para-vi-sub">“Vậy là Vivian, phù dâu danh dự của con, sẽ bay từ Chicago đến tối nay,” Lila nói. “Cậu ấy là bạn thân nhất của con thời đại học. Cậu ấy tuyệt vời lắm. Con biết cả hai người sẽ quý cậu ấy mà.”</p>
 
 <p class="para-en">“I’m sure we will,” Gary says.</p>
 
-<p class="para-vi-sub">"Chắc chắn là vậy rồi," Gary nói.</p>
+<p class="para-vi-sub">“Chắc chắn là vậy rồi,” Gary nói.</p>
 
 <p class="para-en">Then Lila lists off other good things that will happen today: “The reception will start at seven on the patio. Nat will be playing the harp with an award-winning cellist who served in Iraq and learned to play cello as part of his PTSD treatment, and maybe it would be good to tell Roy that.”</p>
 
-<p class="para-vi-sub">Sau đó Lila liệt kê những điều tốt đẹp khác sẽ diễn ra trong ngày hôm nay: "Buổi tiệc chiêu đãi sẽ bắt đầu lúc bảy giờ ở hiên ngoài. Nat sẽ chơi đàn hạc cùng một nghệ sĩ cello từng giành giải thưởng, người từng phục vụ ở Iraq và học chơi cello như một phần trong quá trình điều trị chứng sang chấn tâm lý, và có lẽ chúng ta nên nói điều đó với Roy."</p>
+<p class="para-vi-sub">Sau đó Lila liệt kê những điều tốt đẹp khác sẽ diễn ra trong ngày hôm nay: “Buổi tiệc chiêu đãi sẽ bắt đầu lúc bảy giờ ở hiên ngoài. Nat sẽ chơi đàn hạc cùng một nghệ sĩ cello từng giành giải thưởng, người từng phục vụ ở Iraq và học chơi cello như một phần trong quá trình điều trị chứng sang chấn tâm lý, và có lẽ chúng ta nên nói điều đó với Roy.”</p>
 
 <p class="para-en">“I’ll let him know,” Gary says.</p>
 
-<p class="para-vi-sub">"Để tôi báo cho cậu ấy," Gary nói.</p>
+<p class="para-vi-sub">“Để tôi báo cho cậu ấy,” Gary nói.</p>
 
 <p class="para-en">The doors open.</p>
 
@@ -174,7 +174,7 @@
 
 <p class="para-en">“Oh, good,” the mother of the bride says, kissing Gary and Lila on the cheek. “You’re back.”</p>
 
-<p class="para-vi-sub">"Ồ, tốt quá," mẹ cô dâu lên tiếng, hôn lên má Gary và Lila. "Các con đã về rồi."</p>
+<p class="para-vi-sub">“Ồ, tốt quá,” mẹ cô dâu lên tiếng, hôn lên má Gary và Lila. “Các con đã về rồi.”</p>
 
 <p class="para-en">She looks like the kind of woman Phoebe might see at a very high-end flea market. Flowy linen that matches the color of her hair. She gives Phoebe a kiss on the cheek.</p>
 
@@ -182,7 +182,7 @@
 
 <p class="para-en">“My sweater looks good on you,” the mother says, and pulls away to get a look at her.</p>
 
-<p class="para-vi-sub">"Áo len của mẹ hợp với cháu đấy chứ," người mẹ nói, rồi lùi lại để ngắm cô kỹ hơn.</p>
+<p class="para-vi-sub">“Áo len của bác hợp với cháu đấy chứ,” người mẹ nói, rồi lùi lại để ngắm cô kỹ hơn.</p>
 
 <p class="para-en">Phoebe forgot she wasn’t wearing her own clothes, though how she could forget about sequins on her shoulders and a sunflower wedged between her toes, she’s not sure.</p>
 
@@ -190,19 +190,19 @@
 
 <p class="para-en">“Mom,” Lila says. “This is Phoebe.”</p>
 
-<p class="para-vi-sub">"Mẹ," Lila nói. "Đây là Phoebe."</p>
+<p class="para-vi-sub">“Mẹ,” Lila nói. “Đây là Phoebe.”</p>
 
 <p class="para-en">“So you’re the woman from Missouri who didn’t bring a sweater to the ocean.”</p>
 
-<p class="para-vi-sub">"Thế ra cô là người phụ nữ đến từ Missouri mà đi ra biển lại không mang theo áo len."</p>
+<p class="para-vi-sub">“Thế ra cô là người phụ nữ đến từ Missouri mà đi ra biển lại không mang theo áo len.”</p>
 
 <p class="para-en">Phoebe smiles and shrugs. “First-timer.”</p>
 
-<p class="para-vi-sub">Phoebe mỉm cười và nhún vai. "Cháu mới ra biển lần đầu."</p>
+<p class="para-vi-sub">Phoebe mỉm cười và nhún vai. “Cháu mới ra biển lần đầu.”</p>
 
 <p class="para-en">“I didn’t realize there were people still like that! Well, you certainly need this sweater more than I do.”</p>
 
-<p class="para-vi-sub">"Mẹ không ngờ vẫn còn những người như thế đấy! Chà, rõ ràng cháu cần chiếc áo len này hơn mẹ rồi."</p>
+<p class="para-vi-sub">“Bác không ngờ vẫn còn những người như thế đấy! Chà, rõ ràng cháu cần chiếc áo len này hơn bác rồi.”</p>
 
 <p class="para-en">Up close, the mother of the bride has a strong jaw, like it’s been strengthened over the years from staring blankly at the ocean. She smells faintly of booze, though what kind Phoebe cannot tell.</p>
 
@@ -210,75 +210,75 @@
 
 <p class="para-en">“Do be kind to it,” the mother says. “It was the last gift your father ever bought me, you know.”</p>
 
-<p class="para-vi-sub">"Hãy đối xử tốt với nó đấy nhé," người mẹ nói. "Đó là món quà cuối cùng mà bố cháu từng mua cho mẹ đấy, cháu biết không."</p>
+<p class="para-vi-sub">“Hãy đối xử tốt với nó đấy nhé,” người mẹ nói. “Đó là món quà cuối cùng mà bố nó từng mua cho bác đấy, cháu biết không.”</p>
 
 <p class="para-en">“Oh,” Phoebe says, horrified. “You know what? I’ll take it off.”</p>
 
-<p class="para-vi-sub">"Ồ," Phoebe nói, vô cùng hoảng hốt. "Cô biết gì không? Cháu sẽ cởi ra."</p>
+<p class="para-vi-sub">“Ồ,” Phoebe nói, vô cùng hoảng hốt. “Bác biết không? Cháu sẽ cởi ra ngay.”</p>
 
 <p class="para-en">“Don’t be silly,” the mother says, waving her hand. She gives Phoebe a look that suggests she is not, at this point in her life, ever getting anything back. “Enjoy it. It’s yours.”</p>
 
-<p class="para-vi-sub">"Đừng ngốc thế," người mẹ nói, xua tay. Bà nhìn Phoebe với ánh mắt cho thấy ở giai đoạn này của cuộc đời, bà chưa từng nhận lại được thứ gì bao giờ. "Cứ mặc đi. Nó là của cháu rồi."</p>
+<p class="para-vi-sub">“Đừng ngốc thế,” người mẹ nói, xua tay. Bà nhìn Phoebe với ánh mắt cho thấy ở giai đoạn này của cuộc đời, bà chưa từng nhận lại được thứ gì bao giờ. “Cứ mặc đi. Nó là của cháu rồi.”</p>
 
 <p class="para-en">“Mom,” Lila says, looking at her mother’s door. “Why are there a bunch of statues lined up outside your door?”</p>
 
-<p class="para-vi-sub">"Mẹ," Lila nói, nhìn vào cánh cửa phòng mẹ mình. "Tại sao lại có một loạt bức tượng xếp thành hàng bên ngoài cửa phòng mẹ thế kia?"</p>
+<p class="para-vi-sub">“Mẹ,” Lila nói, nhìn vào cánh cửa phòng mẹ mình. “Tại sao lại có một loạt bức tượng xếp thành hàng bên ngoài cửa phòng mẹ thế kia?”</p>
 
 <p class="para-en">“Oh, Carlson is going to remove them,” she says. “This hotel is very lovely, but the art in the room is just <i>terrible</i>. So morbid.”</p>
 
-<p class="para-vi-sub">"À, Carlson chuẩn bị dọn chúng đi," bà nói. "Khách sạn này rất đáng yêu, nhưng nghệ thuật trong phòng thì đúng là <i>kinh khủng</i>. Trông cứ như chuyện chết chóc."</p>
+<p class="para-vi-sub">“À, Carlson chuẩn bị dọn chúng đi,” bà nói. “Khách sạn này rất đáng yêu, nhưng nghệ thuật trong phòng thì đúng là <i>kinh khủng</i>. Trông cứ như chuyện chết chóc.”</p>
 
 <p class="para-en">She picks up one of the statues. “Who would put a sculpture of this dead bird in an old woman’s room?”</p>
 
-<p class="para-vi-sub">Bà cầm một trong những bức tượng lên. "Ai lại đi đặt bức điêu khắc con chim chết này trong phòng của một bà già cơ chứ?"</p>
+<p class="para-vi-sub">Bà cầm một trong những bức tượng lên. “Ai lại đi đặt bức điêu khắc con chim chết này trong phòng của một bà già cơ chứ?”</p>
 
 <p class="para-en">They all study the bird sculpture. Lila looks disturbed by it but says, “I don’t think that bird is dead.”</p>
 
-<p class="para-vi-sub">Tất cả cùng ngắm nghía bức tượng con chim. Lila trông có vẻ khó chịu nhưng vẫn nói: "Con không nghĩ con chim đó chết đâu."</p>
+<p class="para-vi-sub">Tất cả cùng ngắm nghía bức tượng con chim. Lila trông có vẻ khó chịu nhưng vẫn nói: “Con không nghĩ con chim đó chết đâu.”</p>
 
 <p class="para-en">“Is it sleeping?” Phoebe asks.</p>
 
-<p class="para-vi-sub">"Nó đang ngủ à?" Phoebe hỏi.</p>
+<p class="para-vi-sub">“Nó đang ngủ à?” Phoebe hỏi.</p>
 
 <p class="para-en">“I bet it’s just sleeping,” Gary says.</p>
 
-<p class="para-vi-sub">"Tôi cá là nó chỉ đang ngủ thôi," Gary nói.</p>
+<p class="para-vi-sub">“Tôi cá là nó chỉ đang ngủ thôi,” Gary nói.</p>
 
 <p class="para-en">“Since when do birds sleep with their necks all crooked like that?” the mother asks. She points to the other birds against the wall. “Look at them all. They look like they’ve been assassinated.”</p>
 
-<p class="para-vi-sub">"Từ bao giờ mà loài chim ngủ với cái cổ vẹo vọ thế kia hả?" người mẹ hỏi. Bà chỉ tay về phía những con chim khác đang dựa vào tường. "Nhìn chúng nó kìa. Trông cứ như thể vừa bị ám sát ấy."</p>
+<p class="para-vi-sub">“Từ bao giờ mà loài chim ngủ với cái cổ vẹo vọ thế kia hả?” người mẹ hỏi. Bà chỉ tay về phía những con chim khác đang dựa vào tường. “Nhìn chúng nó kìa. Trông cứ như thể vừa bị ám sát ấy.”</p>
 
 <p class="para-en">“Well, yeah, when you line them up against the wall like that, it’s creepy,” Lila says.</p>
 
-<p class="para-vi-sub">"Thì vâng, khi mẹ xếp chúng dựa sát vào tường như thế trông rất đáng sợ mà," Lila nói.</p>
+<p class="para-vi-sub">“Thì vâng, khi mẹ xếp chúng dựa sát vào tường như thế trông rất đáng sợ mà,” Lila nói.</p>
 
 <p class="para-en">Phoebe takes a closer look. “Ravens actually sleep like that.”</p>
 
-<p class="para-vi-sub">Phoebe nhìn kỹ hơn. "Thực ra loài quạ ngủ theo tư thế đó."</p>
+<p class="para-vi-sub">Phoebe nhìn kỹ hơn. “Thực ra loài quạ ngủ theo tư thế đó.”</p>
 
 <p class="para-en">“Of course you know things about the sleeping habits of ravens,” Lila says.</p>
 
-<p class="para-vi-sub">"Tất nhiên là cô phải biết mấy chuyện về thói quen ngủ của loài quạ rồi," Lila nói.</p>
+<p class="para-vi-sub">“Tất nhiên là cô phải biết mấy chuyện về thói quen ngủ của loài quạ rồi,” Lila nói.</p>
 
 <p class="para-en">“They tuck their heads into their chests,” Phoebe adds.</p>
 
-<p class="para-vi-sub">"Chúng rúc đầu vào ngực," Phoebe nói thêm.</p>
+<p class="para-vi-sub">“Chúng rúc đầu vào ngực,” Phoebe nói thêm.</p>
 
 <p class="para-en">“Well, that doesn’t seem very comfortable for them,” the mother says.</p>
 
-<p class="para-vi-sub">"Chà, nghe có vẻ không thoải mái cho lắm đối với chúng," người mẹ nhận xét.</p>
+<p class="para-vi-sub">“Chà, nghe có vẻ không thoải mái cho lắm đối với chúng,” người mẹ nhận xét.</p>
 
 <p class="para-en">“And why is everybody messing with the hotel’s décor?” Lila asks. “The Cornwall hired award-winning designers to plan out every detail of this place. You can’t just move things around.”</p>
 
-<p class="para-vi-sub">"Và sao mọi người cứ thích táy máy trang trí của khách sạn thế nhỉ?" Lila hỏi. "Khách sạn Cornwall đã thuê những nhà thiết kế đạt giải thưởng để lên kế hoạch cho từng chi tiết ở đây cơ mà. Đâu thể cứ tùy tiện dịch chuyển mọi thứ đi chỗ khác được."</p>
+<p class="para-vi-sub">“Và sao mọi người cứ thích táy máy đồ trang trí của khách sạn thế nhỉ?” Lila hỏi. “Khách sạn Cornwall Inn đã thuê những nhà thiết kế đạt giải thưởng để lên kế hoạch cho từng chi tiết ở đây cơ mà. Đâu thể cứ tùy tiện dịch chuyển mọi thứ đi chỗ khác được.”</p>
 
 <p class="para-en">“Carlson said I can do what I like,” the mother says.</p>
 
-<p class="para-vi-sub">"Carlson bảo mẹ có thể làm những gì mẹ thích," người mẹ nói.</p>
+<p class="para-vi-sub">“Carlson bảo mẹ có thể làm những gì mẹ thích,” người mẹ nói.</p>
 
 <p class="para-en">Lila looks at Gary and Phoebe. “Go on without me.”</p>
 
-<p class="para-vi-sub">Lila nhìn Gary và Phoebe. "Hai người cứ đi trước đi."</p>
+<p class="para-vi-sub">Lila nhìn Gary và Phoebe. “Hai người cứ đi trước đi.”</p>
 
 <p class="para-en">Lila starts to bring the bird sculptures back inside her mother’s room as Gary and Phoebe walk down the hall. They don’t say a word until they turn the corner.</p>
 
@@ -286,27 +286,27 @@
 
 <p class="para-en">“How <i>do</i> you know things about the sleeping habits of ravens?” Gary asks.</p>
 
-<p class="para-vi-sub">"Làm thế quái nào mà cô lại biết về thói quen ngủ của loài quạ thế?" Gary hỏi.</p>
+<p class="para-vi-sub">“Làm thế quái nào mà cô lại biết về thói quen ngủ của loài quạ thế?” Gary hỏi.</p>
 
 <p class="para-en">“At some point, every lit professor has to spend a full day researching ravens,” Phoebe says. “They’re everywhere. Writers can’t resist a raven. You know, symbols of death and grief and the underworld and all that jazz.”</p>
 
-<p class="para-vi-sub">"Vào một thời điểm nào đó, giảng viên văn học nào cũng phải dành cả ngày để nghiên cứu về loài quạ," Phoebe đáp. "Chúng xuất hiện ở khắp mọi nơi. Các nhà văn không thể cưỡng lại sức hút của loài quạ. Anh biết đấy, những biểu tượng của cái chết, nỗi buồn, âm phủ và đủ thứ linh tinh khác."</p>
+<p class="para-vi-sub">“Vào một thời điểm nào đó, giảng viên văn học nào cũng phải dành cả ngày để nghiên cứu về loài quạ,” Phoebe đáp. “Chúng xuất hiện ở khắp mọi nơi. Các nhà văn không thể cưỡng lại sức hút của loài quạ. Anh biết đấy, những biểu tượng của cái chết, nỗi buồn, âm phủ và đủ thứ linh tinh khác.”</p>
 
 <p class="para-en">“Oh, yeah, love that jazz,” Gary says. “Poe, right? That was the raven poem?”</p>
 
-<p class="para-vi-sub">"À đúng rồi, mê cái sự linh tinh đó ghê," Gary nói. "Poe phải không? Bài thơ về con quạ ấy?"</p>
+<p class="para-vi-sub">“À đúng rồi, mê cái sự linh tinh đó ghê,” Gary nói. “Poe phải không? Bài thơ về con quạ ấy?”</p>
 
 <p class="para-en">“Nevermore, nevermore.”</p>
 
-<p class="para-vi-sub">"Không bao giờ còn thế nữa, không bao giờ còn thế nữa."</p>
+<p class="para-vi-sub">“Không bao giờ còn thế nữa, không bao giờ còn thế nữa.”</p>
 
 <p class="para-en">“God, I haven’t read that since high school,” he says. “I remember liking it, but now I don’t remember why.”</p>
 
-<p class="para-vi-sub">"Chúa ạ, tôi chẳng đọc lại bài đó kể từ hồi trung học," anh nói. "Tôi nhớ là mình từng thích nó, nhưng giờ thì chẳng nhớ vì sao nữa."</p>
+<p class="para-vi-sub">“Chúa ơi, tôi chẳng đọc lại bài đó kể từ hồi trung học,” anh nói. “Tôi nhớ là mình từng thích nó, nhưng giờ thì chẳng nhớ vì sao nữa.”</p>
 
 <p class="para-en">“It’s very emo,” she says. “Most of my students tend to respond to it for that reason. Brokenhearted man never gets over dead wife.”</p>
 
-<p class="para-vi-sub">"Nó rất mang chất sầu đời," cô nói. "Hầu hết học sinh của tôi đều có xu hướng đồng cảm với nó vì lý do đó. Người đàn ông tan nát cõi lòng không bao giờ nguôi ngoai trước cái chết của người vợ."</p>
+<p class="para-vi-sub">“Nó rất mang chất sầu đời,” cô nói. “Hầu hết học sinh của tôi đều có xu hướng đồng cảm với nó vì lý do đó. Người đàn ông tan nát cõi lòng không bao giờ nguôi ngoai trước cái chết của người vợ.”</p>
 
 <p class="para-en">She says it without thinking, but he doesn’t seem rocked by her words.</p>
 
@@ -314,15 +314,15 @@
 
 <p class="para-en">“I’m just impressed they care about the middle-aged longings of a grieving widower, to be honest,” Gary says.</p>
 
-<p class="para-vi-sub">"Thành thật mà nói, tôi chỉ thấy ấn tượng vì chúng lại quan tâm đến những khao khát tuổi trung niên của một góa phụ đang đau buồn," Gary nói.</p>
+<p class="para-vi-sub">“Thành thật mà nói, tôi chỉ thấy ấn tượng vì chúng lại quan tâm đến những khao khát tuổi trung niên của một người góa vợ đang đau buồn,” Gary nói.</p>
 
 <p class="para-en">“My students tend to love characters who sentence themselves to never-ending grief,” Phoebe says. “It seems noble to young people, I think.”</p>
 
-<p class="para-vi-sub">"Học sinh của tôi có xu hướng yêu thích những nhân vật tự kết án bản thân vào nỗi buồn vô tận," Phoebe nói. "Tôi nghĩ điều đó có vẻ cao thượng đối với những người trẻ tuổi."</p>
+<p class="para-vi-sub">“Học sinh của tôi có xu hướng yêu thích những nhân vật tự kết án bản thân vào nỗi buồn vô tận,” Phoebe nói. “Tôi nghĩ điều đó có vẻ cao thượng đối với những người trẻ tuổi.”</p>
 
 <p class="para-en">“Little do they know the truly heroic thing is somehow … taking a shower and getting yourself to the grocery store.”</p>
 
-<p class="para-vi-sub">"Có mấy khi chúng biết được rằng điều thực sự anh dũng hóa ra lại là việc... đi tắm và tự lết xác đến cửa hàng tạp hóa."</p>
+<p class="para-vi-sub">“Có mấy khi chúng biết được rằng điều thực sự anh dũng hóa ra lại là việc… đi tắm và tự lết xác đến cửa hàng tạp hóa.”</p>
 
 <p class="para-en">They laugh.</p>
 
@@ -330,23 +330,23 @@
 
 <p class="para-en">“I just want to say thanks for helping Juice with her dog,” Gary says, still sounding caught up in some emotion from earlier that day. “I know it probably seemed weird, making such a fuss over a little toy, but she got the dog from her mother just before she died.”</p>
 
-<p class="para-vi-sub">Gary nói: “Anh chỉ muốn cảm ơn em vì đã giúp Juice tìm con chó nhỏ,” giọng anh vẫn mang chút cảm xúc từ sự việc hồi đầu ngày. “Anh biết điều đó có lẽ có vẻ kỳ quặc, khi làm quá lên vì một món đồ chơi nhỏ, nhưng con bé đã nhận được con chó đó từ mẹ nó ngay trước khi bà qua đời.”</p>
+<p class="para-vi-sub">Gary nói: “Tôi chỉ muốn cảm ơn cô vì đã giúp Juice tìm con chó nhỏ,” giọng anh vẫn mang chút cảm xúc từ sự việc hồi đầu ngày. “Tôi biết điều đó có lẽ có vẻ kỳ quặc, khi làm quá lên vì một món đồ chơi nhỏ, nhưng con bé đã nhận được con chó đó từ mẹ nó ngay trước khi cô ấy qua đời.”</p>
 
 <p class="para-en">“Oh, trust me, I get it,” Phoebe says. “I could tell it wasn’t just any dog.”</p>
 
-<p class="para-vi-sub">Phoebe đáp: “Ồ, tin anh đi, em hiểu mà. Em có thể nhận ra đó không chỉ là một con chó bình thường.”</p>
+<p class="para-vi-sub">Phoebe đáp: “Ồ, tin tôi đi, tôi hiểu mà. Tôi có thể nhận ra đó không chỉ là một con chó bình thường.”</p>
 
 <p class="para-en">He said that even as Juice got too old for it, she checked on Human Princess every day. She still announced her major achievements at breakfast, like, “The Human Princess is eating,” or “The Human Princess has not been tucked in,” and he and his wife would laugh so hard they’d cry.</p>
 
-<p class="para-vi-sub">Anh kể rằng ngay cả khi Juice đã lớn hơn mức phù hợp với món đồ chơi đó, con bé vẫn kiểm tra Công Chúa Người mỗi ngày. Con bé vẫn thông báo những thành tựu lớn của nó vào bữa sáng, chẳng hạn như “Công Chúa Người đang ăn” hoặc “Công Chúa Người chưa được đắp chăn”, và anh cùng vợ đã cười đến mức trào nước mắt.</p>
+<p class="para-vi-sub">Anh kể rằng ngay cả khi Juice đã lớn hơn mức phù hợp với món đồ chơi đó, con bé vẫn kiểm tra Chó ảo Công Chúa Loài Người mỗi ngày. Con bé vẫn thông báo những thành tựu lớn của nó vào bữa sáng, chẳng hạn như “Công Chúa Loài Người đang ăn” hoặc “Công Chúa Loài Người chưa được đắp chăn”, và anh cùng vợ đã cười đến mức trào nước mắt.</p>
 
 <p class="para-en">“I told her I’d get her a new one after the wedding,” Gary says. “But that’s crazy, right? I mean, even as I said it, I didn’t believe myself. We probably won’t get her a new one. I mean, she’s going to be twelve soon. And my dad’s probably right, it’s probably best we get her a real dog, no?”</p>
 
-<p class="para-vi-sub">Gary nói: “Anh bảo con bé là anh sẽ mua cho nó một con mới sau đám cưới. Nhưng điều đó thật điên rồ phải không? Ý anh là, ngay cả khi thốt ra điều đó, anh cũng không tin vào chính mình. Chắc là chúng ta sẽ không mua cho con bé con mới đâu. Ý anh là, con bé sắp mười hai tuổi rồi. Và bố anh nói có lẽ đúng, có lẽ tốt nhất là chúng ta nên mua cho con bé một con chó thật nhỉ?”</p>
+<p class="para-vi-sub">Gary nói: “Tôi bảo con bé là tôi sẽ mua cho nó một con mới sau đám cưới. Nhưng điều đó thật điên rồ phải không? Ý tôi là, ngay cả khi thốt ra điều đó, tôi cũng không tin vào chính mình. Chắc là chúng tôi sẽ không mua cho con bé con mới đâu. Ý tôi là, con bé sắp mười hai tuổi rồi. Và bố tôi nói có lẽ đúng, có lẽ tốt nhất là chúng tôi nên mua cho con bé một con chó thật nhỉ?”</p>
 
 <p class="para-en">“Probably,” she says. “But then again, real dogs require real work. You can’t just drop them in the ocean when they die.”</p>
 
-<p class="para-vi-sub">Cô đáp: “Có lẽ vậy. Nhưng mặt khác, chó thật đòi hỏi công sức thật. Bạn không thể chỉ vứt chúng xuống biển khi chúng chết.”</p>
+<p class="para-vi-sub">Cô đáp: “Có lẽ vậy. Nhưng mặt khác, chó thật đòi hỏi công sức thật. Người ta không thể chỉ vứt chúng xuống biển khi chúng chết.”</p>
 
 <p class="para-en">She and Matt debated for years about how much work a dog would be and would it be worth it. Sometimes, she thought just getting a dog would have been easier than endlessly debating about whether to get a dog.</p>
 
@@ -354,11 +354,11 @@
 
 <p class="para-en">“But maybe it’s a good thing you can’t just drop them in the ocean?” he asks.</p>
 
-<p class="para-vi-sub">Gary hỏi: “Nhưng có lẽ việc bạn không thể vứt chúng xuống biển lại là một điều tốt phải không?”</p>
+<p class="para-vi-sub">Gary hỏi: “Nhưng có lẽ việc người ta không thể vứt chúng xuống biển lại là một điều tốt phải không?”</p>
 
 <p class="para-en">They both seem to feel confused for a moment, thinking about Human Princess falling to the floor of the ocean, not being fed, not being tucked into its virtual bed, when Gary’s Uncle Jim and Aunt Gina come out of their room.</p>
 
-<p class="para-vi-sub">Cả hai dường như cảm thấy bối rối trong giây lát khi nghĩ về Công Chúa Người rơi xuống đáy đại dương, không được cho ăn, không được đắp chăn trên chiếc giường ảo của nó, thì Chú Jim và Dì Gina của Gary bước ra từ phòng của họ.</p>
+<p class="para-vi-sub">Cả hai dường như cảm thấy bối rối trong giây lát khi nghĩ về Chó ảo Công Chúa Loài Người rơi xuống đáy đại dương, không được cho ăn, không được đắp chăn trên chiếc giường ảo của nó, thì chú Jim và dì Gina của Gary bước ra từ phòng của họ.</p>
 
 <p class="para-en">“Gary, the man of the hour,” Uncle Jim says, and pats Gary on the back.</p>
 
@@ -366,7 +366,7 @@
 
 <p class="para-en">“How are you two doing?” Gary asks, in what sounds like his doctor voice. He turns it on very quickly—smooth, controlled, friendly without being overbearing.</p>
 
-<p class="para-vi-sub">Gary hỏi: “Hai người dạo này thế nào rồi?”, với giọng điệu giống như bác sĩ của anh. Anh chuyển sang giọng điệu đó rất nhanh mượt mà, kiểm soát tốt, thân thiện mà không quá áp đảo.</p>
+<p class="para-vi-sub">Gary hỏi: “Hai người dạo này thế nào rồi ạ?”, với giọng điệu giống như bác sĩ của anh. Anh chuyển sang giọng điệu đó rất nhanh và mượt mà, kiểm soát tốt, thân thiện mà không quá áp đảo.</p>
 
 <p class="para-en">“Oh, just terrible,” Aunt Gina says. “Your uncle slipped on the floor yesterday and hurt his ankle, then played a terrible round this morning.”</p>
 
@@ -378,7 +378,7 @@
 
 <p class="para-en">Some days Uncle Jim does great. Some days Uncle Jim stinks.</p>
 
-<p class="para-vi-sub">Có những ngày Chú Jim chơi rất cừ. Có những ngày Chú Jim chơi tệ hại.</p>
+<p class="para-vi-sub">Có những ngày chú Jim chơi rất cừ. Có những ngày chú Jim chơi tệ hại.</p>
 
 <p class="para-en">“Lost my swing,” he says.</p>
 
@@ -394,7 +394,7 @@
 
 <p class="para-en">Then Uncle Jim leans in and says, “Hey, son, we have a question for you. It’s about your Aunt Gina’s bowels.”</p>
 
-<p class="para-vi-sub">Sau đó, Chú Jim chồm người lại gần và nói: “Này cháu trai, chúng ta có một câu hỏi dành cho cháu. Chuyện là về đường tiêu hóa của Dì Gina đấy.”</p>
+<p class="para-vi-sub">Sau đó, chú Jim chồm người lại gần và nói: “Này cháu trai, chúng ta có một câu hỏi dành cho cháu. Chuyện là về đường tiêu hóa của dì Gina đấy.”</p>
 
 <p class="para-en">“It’s terrible,” Aunt Gina says. “I haven’t gone since Friday. Travel always does this to me.”</p>
 
@@ -410,7 +410,7 @@
 
 <p class="para-en">“I can come by later,” Gary says, and pats his uncle on the back. “But you know I can’t give you actual medical advice, right? I’m not your doctor.”</p>
 
-<p class="para-vi-sub">Gary nói: “Lát nữa cháu có thể ghé qua. Nhưng chú biết là cháu không thể đưa ra lời khuyên y tế thực sự đúng không? Cháu không phải bác sĩ của chú.”</p>
+<p class="para-vi-sub">Gary nói: “Lát nữa cháu có thể ghé qua. Nhưng chú biết là cháu không thể đưa ra lời khuyên y tế thực sự đúng không? Cháu không phải bác sĩ của hai người.”</p>
 
 <p class="para-en">“Oh, stop it,” Uncle Jim says. “You’re our nephew. Of course you can. What’s the point of my nephew being a shit doctor if we can’t get some free medical advice?”</p>
 
@@ -426,7 +426,7 @@
 
 <p class="para-en">“Let’s just say that I know the shape and size and color of the shits of about fifty percent of the inhabitants in any given room,” Gary says.</p>
 
-<p class="para-vi-sub">Gary nói: “Cứ cho là anh nắm rõ hình dáng, kích thước và màu sắc chất thải của khoảng năm mươi phần trăm cư dân trong bất kỳ căn phòng nào đi.”</p>
+<p class="para-vi-sub">Gary nói: “Cứ cho là tôi nắm rõ hình dáng, kích thước và màu sắc chất thải của khoảng năm mươi phần trăm cư dân trong bất kỳ căn phòng nào đi.”</p>
 
 <p class="para-en">They laugh. She knows she should head into her room now. She knows they have been talking for too long. But she is not quite ready to leave yet. She doesn’t want to go back to being entirely alone in her room again.</p>
 
@@ -434,23 +434,23 @@
 
 <p class="para-en">“Hey, I’m sorry I was so forward in the hot tub last night,” Phoebe says. “Had I known.”</p>
 
-<p class="para-vi-sub">Phoebe nói: “Này, em xin lỗi vì tối qua trong bồn tắm nước nóng em đã quá sỗ sàng nhé. Giá như em biết trước.”</p>
+<p class="para-vi-sub">Phoebe nói: “Này, tôi xin lỗi vì tối qua trong bồn tắm nước nóng tôi đã quá sỗ sàng nhé. Giá như tôi biết trước.”</p>
 
 <p class="para-en">“Please don’t apologize,” he says. “I should have told you I was the groom.”</p>
 
-<p class="para-vi-sub">Anh nói: “Xin em đừng xin lỗi. Lẽ ra anh nên nói cho em biết anh là chú rể.”</p>
+<p class="para-vi-sub">Anh nói: “Xin cô đừng xin lỗi. Lẽ ra tôi nên nói cho cô biết tôi là chú rể.”</p>
 
 <p class="para-en">“Yeah, why didn’t you tell me you were the groom?”</p>
 
-<p class="para-vi-sub">“Ừm, sao anh không nói với em anh là chú rể?”</p>
+<p class="para-vi-sub">“Ừm, sao anh không nói với tôi anh là chú rể?”</p>
 
 <p class="para-en">“I don’t normally go around introducing myself as a groom.”</p>
 
-<p class="para-vi-sub">“Bình thường anh không đi quanh và tự giới thiệu mình là chú rể.”</p>
+<p class="para-vi-sub">“Bình thường tôi đâu có đi quanh và tự giới thiệu mình là chú rể.”</p>
 
 <p class="para-en">“You might need to start. You made me think you were…”</p>
 
-<p class="para-vi-sub">“Có lẽ anh cần bắt đầu làm thế đi. Anh làm em tưởng anh là…”</p>
+<p class="para-vi-sub">“Có lẽ anh cần bắt đầu làm thế đi. Anh làm tôi tưởng anh là…”</p>
 
 <p class="para-en">“What?”</p>
 
@@ -462,15 +462,15 @@
 
 <p class="para-en">“You made me think you were a regular person, too. But apparently you’re Lila’s friend from the art gallery?”</p>
 
-<p class="para-vi-sub">“Em cũng làm anh tưởng em là một người bình thường. Nhưng hóa ra em lại là bạn của Lila ở phòng trưng bày nghệ thuật à?”</p>
+<p class="para-vi-sub">“Cô cũng làm tôi tưởng cô là một người bình thường. Nhưng hóa ra cô lại là bạn của Lila ở phòng trưng bày nghệ thuật à?”</p>
 
 <p class="para-en">“I’m not,” Phoebe says. “I mean, I guess I became her friend, like literally last night. Or maybe this morning. I’m not sure. But we didn’t meet at an art gallery.”</p>
 
-<p class="para-vi-sub">Phoebe đáp: “Em không phải. Ý em là, hình như em đã trở thành bạn cô ấy, kiểu như nghĩa đen là vào tối qua. Hoặc có lẽ là sáng nay. Em không chắc nữa. Nhưng chúng ta không gặp nhau ở phòng trưng bày nghệ thuật.”</p>
+<p class="para-vi-sub">Phoebe đáp: “Tôi không phải. Ý tôi là, hình như tôi đã trở thành bạn cô ấy, kiểu như nghĩa đen là vào tối qua. Hoặc có lẽ là sáng nay. Tôi không chắc nữa. Nhưng chúng tôi không gặp nhau ở phòng trưng bày nghệ thuật.”</p>
 
 <p class="para-en">“Why would Lila say you met at the gallery then?” Gary looks concerned, as if Phoebe is going to say something that might reveal the true character of his future wife. And Phoebe doesn’t know why Lila lied to them all but suspected it had something to do with how Marla’s face lit up when she mentioned the gallery. Or how embarrassing it would be to explain to everyone how Phoebe and Lila really met.</p>
 
-<p class="para-vi-sub">“Sao Lila lại nói hai người gặp nhau ở phòng trưng bày nghệ thuật chứ?” Gary có vẻ lo lắng, như thể Phoebe chuẩn bị nói điều gì đó có thể vạch trần bản chất thực sự của người vợ tương lai của anh. Và Phoebe không biết tại sao Lila lại nói dối tất cả mọi người nhưng cô ngờ rằng điều đó có liên quan đến cách khuôn mặt Marla bừng sáng khi cô ấy nhắc đến phòng trưng bày. Hoặc việc giải thích cho mọi người nghe về cách cô và Lila thực sự gặp nhau sẽ đáng xấu hổ đến mức nào.</p>
+<p class="para-vi-sub">“Sao Lila lại nói hai người gặp nhau ở phòng trưng bày nghệ thuật chứ?” Gary có vẻ lo lắng, như thể Phoebe chuẩn bị nói điều gì đó có thể vạch trần bản chất thực sự của người vợ tương lai của anh. Và Phoebe không biết tại sao Lila lại nói dối tất cả mọi người nhưng cô ngờ rằng điều đó có liên quan đến cách khuôn mặt Marla bừng sáng khi nhắc đến phòng trưng bày. Hoặc việc giải thích cho mọi người nghe về cách cô và Lila thực sự gặp nhau sẽ đáng xấu hổ đến mức nào.</p>
 
 <p class="para-en">“Better to lie than tell everyone on the boat that I’m the crazy suicidal woman she met in the elevator yesterday,” Phoebe says.</p>
 
@@ -478,15 +478,15 @@
 
 <p class="para-en">“You’re not crazy,” Gary says. “Please don’t say that. That’s truly all I ask.”</p>
 
-<p class="para-vi-sub">Gary nói: “Em không điên. Xin em đừng nói thế. Đó thực sự là điều duy nhất anh mong muốn.”</p>
+<p class="para-vi-sub">Gary nói: “Cô không điên. Xin cô đừng nói thế. Đó thực sự là điều duy nhất tôi mong muốn.”</p>
 
 <p class="para-en">She nods. She won’t. “But I could have been—”</p>
 
-<p class="para-vi-sub">Cô gật đầu. Cô sẽ không nói thế nữa. “Nhưng em suýt chút nữa thì…”</p>
+<p class="para-vi-sub">Cô gật đầu. Cô sẽ không nói thế nữa. “Nhưng tôi suýt chút nữa thì…”</p>
 
 <p class="para-en">“No, you were great,” he says. “You were so…”</p>
 
-<p class="para-vi-sub">Anh nói: “Không, em rất tuyệt. Em rất là…”</p>
+<p class="para-vi-sub">Anh nói: “Không, cô rất tuyệt. Cô rất là…”</p>
 
 <p class="para-en">Gary thinks for a moment, not like he is hesitating, but like he is trying to find the most accurate word.</p>
 
@@ -498,15 +498,15 @@
 
 <p class="para-en">She is surprised that she genuinely wants to know. She has always been so afraid to know things about herself—so afraid of reading the truth in course evaluations, or seeing her large nose in a photograph, or listening to her therapist draw unbearably accurate conclusions about her. “Have you always been this critical of yourself?” he asked her. And yes. Yes. She has. “I’m literally a critic,” she reminded her therapist, and he laughed. And where did she learn this? How did she become so good at identifying flaws? At seeing only the fungus on the trees?</p>
 
-<p class="para-vi-sub">Cô ngạc nhiên khi bản thân thực sự muốn biết điều đó. Từ trước đến nay, cô luôn rất sợ phải biết những điều về chính mình, rất sợ phải đọc những sự thật trong các bản đánh giá khóa học, hoặc nhìn thấy chiếc mũi to của mình trong một bức ảnh, hay lắng nghe nhà trị liệu đưa ra những kết luận chính xác đến nao lòng về cô. "Từ trước đến nay lúc nào cô cũng tự chỉ trích bản thân gay gắt thế này sao?" anh ta đã hỏi cô như vậy. Và đúng vậy. Phải. Cô vẫn luôn thế. "Tôi vốn là một nhà phê bình mà," cô đã nhắc nhở nhà trị liệu của mình như thế, và anh ta đã cười. Vậy cô đã học được điều này từ đâu? Làm thế nào mà cô lại giỏi nhận ra các khiếm khuyết đến vậy? Làm thế nào mà cô chỉ nhìn thấy nấm mốc bám trên cây cối?</p>
+<p class="para-vi-sub">Cô ngạc nhiên khi bản thân thực sự muốn biết điều đó. Từ trước đến nay, cô luôn rất sợ phải biết những điều về chính mình, rất sợ phải đọc những sự thật trong các bản đánh giá khóa học, hoặc nhìn thấy chiếc mũi to của mình trong một bức ảnh, hay lắng nghe nhà trị liệu đưa ra những kết luận chính xác đến nao lòng về cô. “Từ trước đến nay lúc nào cô cũng tự chỉ trích bản thân gay gắt thế này sao?” anh ta đã hỏi cô như vậy. Và đúng vậy. Phải. Cô vẫn luôn thế. “Tôi vốn là một nhà phê bình mà,” cô đã nhắc nhở nhà trị liệu của mình như thế, và anh ta đã cười. Vậy cô đã học được điều này từ đâu? Làm thế nào mà cô lại giỏi nhận ra các khiếm khuyết đến vậy? Làm thế nào mà cô chỉ nhìn thấy nấm mốc bám trên cây cối?</p>
 
 <p class="para-en">“Alive,” Gary says. “You struck me as a person who was fully alive. It was inspiring, actually.”</p>
 
-<p class="para-vi-sub">"Đầy sức sống," Gary nói. "Em để lại ấn tượng trong anh là một con người tràn đầy sức sống. Thực ra thì điều đó rất truyền cảm hứng."</p>
+<p class="para-vi-sub">“Đầy sức sống,” Gary nói. “Cô để lại ấn tượng trong tôi là một con người tràn đầy sức sống. Thực ra thì điều đó rất truyền cảm hứng.”</p>
 
 <p class="para-en">Maybe it should be embarrassing to talk like this, to be so sincere in the middle of a hotel hallway at five in the evening, but Gary doesn’t seem embarrassed about it. Maybe one becomes comfortable with sincerity when they listen to people talk about their own shit with the utmost seriousness. He spends his days in a small room where people can only ever live or die. He is the one trusted with telling people the absolute truth about their assholes. Not to mention, their fates. Whereas Phoebe was trained in the depressive school of her father, and then the snark of graduate school, taught to poke holes in everyone’s arguments, to see the fatal flaws in papers, and it had been exciting for a short period of time. “For Matthews to claim that <i>Jane Eyre</i> is or is not a feminist text is to misunderstand what feminism is,” Phoebe wrote in her one published paper. She had been proud when it came out, but then for months after, she had a sour taste in her mouth, like she had put something rotten out into the world, and every time she worked on her book, she felt like she was just waiting for a critic to point out the ways it was spoiled. Who cares how many times Jane Eyre goes walking? How can Stone claim the natural world is both a domestic space and a public space at the same time? And how does the freedom Eyre experiences on those walks with Rochester not contradict Stone’s earlier claim that Jane is “trapped in the ‘unnatural’ world of a man’s making”? That’s usually when Phoebe stopped working on her book and picked up her cigarette.</p>
 
-<p class="para-vi-sub">Có lẽ việc nói chuyện thế này thật đáng xấu hổ, khi phải bộc lộ sự chân thành sâu sắc ở giữa hành lang khách sạn vào lúc năm giờ chiều, nhưng Gary dường như chẳng hề thấy xấu hổ chút nào. Có lẽ người ta sẽ trở nên thoải mái với sự chân thành khi họ lắng nghe những người khác thổ lộ về những rắc rối của chính họ với thái độ nghiêm túc nhất. Anh dành cả ngày trong một căn phòng nhỏ nơi mọi người chỉ có thể đối mặt giữa sự sống và cái chết. Anh là người được tin tưởng giao phó việc nói ra sự thật phũ phàng về hậu môn của bệnh nhân. Chưa kể đến số phận của họ. Trong khi đó, Phoebe lại được đào tạo theo trường phái yếm thế của người cha, rồi sau đó là sự châm biếm sắc sảo của bậc cao học, được dạy cách bới móc lỗi trong mọi lập luận của người khác, cách nhìn ra những khiếm khuyết chết người trong các bài tiểu luận, và điều đó từng khiến cô hào hứng trong một khoảng thời gian ngắn. "Việc Matthews khẳng định rằng <i>Jane Eyre</i> là hoặc không phải là một văn bản nữ quyền chính là việc hiểu lầm nữ quyền thực chất là gì," Phoebe đã viết trong bài báo duy nhất được xuất bản của mình. Cô từng rất tự hào khi nó được phát hành, nhưng rồi trong suốt nhiều tháng sau đó, cô lại cảm thấy một vị chua chát đọng lại trong cổ họng, như thể cô vừa tung ra thế giới thứ gì đó mục rữa, và mỗi khi làm việc với cuốn sách của mình, cô lại có cảm giác như thể bản thân chỉ đang chờ đợi một nhà phê bình đến vạch ra những điểm thối nát của nó. Ai thèm quan tâm Jane Eyre đi dạo bao nhiêu lần chứ? Làm thế nào mà Stone có thể cho rằng thế giới tự nhiên vừa là một không gian riêng tư vừa là một không gian công cộng cùng một lúc? Và làm thế nào mà sự tự do mà Jane Eyre trải nghiệm trong những chuyến đi dạo đó cùng Rochester lại không mâu thuẫn với nhận định trước đó của Stone rằng Jane đang "bị mắc kẹt trong thế giới 'phi tự nhiên' do đàn ông tạo ra"? Đó thường là khoảnh khắc Phoebe dừng công việc viết sách lại và với lấy điếu thuốc lá.</p>
+<p class="para-vi-sub">Có lẽ việc nói chuyện thế này thật đáng xấu hổ, khi phải bộc lộ sự chân thành sâu sắc ở giữa hành lang khách sạn vào lúc năm giờ chiều, nhưng Gary dường như chẳng hề thấy xấu hổ chút nào. Có lẽ người ta sẽ trở nên thoải mái với sự chân thành khi họ lắng nghe những người khác thổ lộ về những rắc rối của chính họ với thái độ nghiêm túc nhất. Anh dành cả ngày trong một căn phòng nhỏ nơi mọi người chỉ có thể đối mặt giữa sự sống và cái chết. Anh là người được tin tưởng giao phó việc nói ra sự thật phũ phàng về hậu môn của bệnh nhân. Chưa kể đến số phận của họ. Trong khi đó, Phoebe lại được đào tạo theo trường phái yếm thế của người cha, rồi sau đó là sự châm biếm sắc sảo của bậc cao học, được dạy cách bới móc lỗi trong mọi lập luận của người khác, cách nhìn ra những khiếm khuyết chết người trong các bài tiểu luận, và điều đó từng khiến cô hào hứng trong một khoảng thời gian ngắn. “Việc Matthews khẳng định rằng <i>Jane Eyre</i> là hoặc không phải là một văn bản nữ quyền chính là việc hiểu lầm nữ quyền thực chất là gì,” Phoebe đã viết trong bài báo duy nhất được xuất bản của mình. Cô từng rất tự hào khi nó được phát hành, nhưng rồi trong suốt nhiều tháng sau đó, cô lại cảm thấy một vị chua chát đọng lại trong cổ họng, như thể cô vừa tung ra thế giới thứ gì đó mục rữa, và mỗi khi làm việc với cuốn sách của mình, cô lại có cảm giác như thể bản thân chỉ đang chờ đợi một nhà phê bình đến vạch ra những điểm thối nát của nó. Ai thèm quan tâm Jane Eyre đi dạo bao nhiêu lần chứ? Làm thế nào mà Stone có thể cho rằng thế giới tự nhiên vừa là một không gian riêng tư vừa là một không gian công cộng cùng một lúc? Và làm thế nào mà sự tự do mà Jane Eyre trải nghiệm trong những chuyến đi dạo đó cùng Rochester lại không mâu thuẫn với nhận định trước đó của Stone rằng Jane đang “bị mắc kẹt trong thế giới ‘phi tự nhiên’ do đàn ông tạo ra”? Đó thường là khoảnh khắc Phoebe dừng công việc viết sách lại và với lấy điếu thuốc lá.</p>
 
 <p class="para-en">Phoebe prefers this new way of talking. And maybe this is just one of the really nice things about getting older. Maybe this is the part of her life when she gets to start saying what she means, for better or worse. Because no amount of truth can be worse than the feeling she got after years of hiding from it.</p>
 
@@ -514,11 +514,11 @@
 
 <p class="para-en">“Thank you for saying that,” Phoebe says.</p>
 
-<p class="para-vi-sub">"Cảm ơn anh vì đã nói điều đó," Phoebe nói.</p>
+<p class="para-vi-sub">“Cảm ơn anh vì đã nói điều đó,” Phoebe nói.</p>
 
 <p class="para-en">“Will we see you at the … reception then?” Gary says, so awkwardly that it feels like it’s the end of a date. And how easy it would all be if it were the end of a date. How nice it would feel to lean forward and kiss him.</p>
 
-<p class="para-vi-sub">"Liệu chúng ta có gặp lại em ở... buổi tiệc chiêu đãi sau đó không nhỉ?" Gary nói, ngượng ngùng đến mức có cảm giác như đây là hồi kết của một buổi hẹn hò. Và mọi chuyện sẽ dễ dàng biết bao nếu đây thực sự là hồi kết của một buổi hẹn hò. Sẽ tuyệt vời biết bao nếu được chồm người về phía trước và hôn anh.</p>
+<p class="para-vi-sub">“Liệu chúng tôi có gặp lại cô ở… buổi tiệc chiêu đãi sau đó không nhỉ?” Gary nói, ngượng ngùng đến mức có cảm giác như đây là hồi kết của một buổi hẹn hò. Và mọi chuyện sẽ dễ dàng biết bao nếu đây thực sự là hồi kết của một buổi hẹn hò. Sẽ tuyệt vời biết bao nếu được chồm người về phía trước và hôn anh.</p>
 
 <p class="para-en">But it’s not a date. Lila is coming down the hall. Lila belongs to Gary and Gary belongs to Lila, and Phoebe belongs to no one.</p>
 
@@ -526,23 +526,25 @@
 
 <p class="para-en">“No,” Phoebe says. “Like I said, I’m really not a part of the wedding.”</p>
 
-<p class="para-vi-sub">"Không," Phoebe nói. "Như tôi đã nói, tôi thực sự không phải là một phần của đám cưới."</p>
+<p class="para-vi-sub">“Không,” Phoebe nói. “Như tôi đã nói, tôi thực sự không phải là một phần của đám cưới.”</p>
 
 <p class="para-en">“Take care then,” Gary says. He gives her a long hard look, like he knows this will be the last time they ever see each other.</p>
 
-<p class="para-vi-sub">"Vậy bảo trọng nhé," Gary nói. Anh nhìn cô một cách đăm đăm và lâu, như thể anh biết rằng đây sẽ là lần cuối cùng họ gặp lại nhau trong đời.</p>
+<p class="para-vi-sub">“Vậy bảo trọng nhé,” Gary nói. Anh nhìn cô một cách đăm đăm và lâu, như thể anh biết rằng đây sẽ là lần cuối cùng họ gặp lại nhau trong đời.</p>
 
 <p class="para-en">“Bye,” she says.</p>
 
-<p class="para-vi-sub">"Tạm biệt," cô nói.</p>
+<p class="para-vi-sub">“Tạm biệt,” cô nói.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en"><span class="caps">I</span><small>N THE ROOM</small>, Phoebe feels disappointed to return to the facts of her own life, to the night she will spend in the Roaring Twenties all alone. Not to mention, the life she will spend alone. And why does she do this? Why does she have a nice day with people, feel connected to them, and then, when alone, think only about the possible horrors of her isolation ahead?</p>
 
-<p class="para-vi-sub"><span class="caps">T</span><small>RONG CĂN PHÒNG</small>, Phoebe cảm thấy hụt hẫng khi phải quay trở lại với thực tại phũ phàng của cuộc đời mình, với đêm sẽ trôi qua trong phong cách Đại gia Gatsby một mình. Chưa kể đến cuộc đời mà cô sẽ phải sống trong cảnh cô độc. Và tại sao cô lại làm thế này chứ? Tại sao cô lại có một ngày vui vẻ bên mọi người, cảm thấy gắn kết với họ, để rồi khi chỉ có một mình, cô lại chỉ nghĩ về những nỗi kinh hoàng có thể xảy ra trong sự cô lập của mình phía trước?</p>
+<p class="para-vi-sub"><span class="caps">T</span><small>RONG CĂN PHÒNG</small>, Phoebe cảm thấy hụt hẫng khi phải quay trở lại với thực tại phũ phàng của cuộc đời mình, với đêm sẽ trôi qua trong phong cách Gatsby Vĩ Đại một mình. Chưa kể đến cuộc đời mà cô sẽ phải sống trong cảnh cô độc. Và tại sao cô lại làm thế này chứ? Tại sao cô lại có một ngày vui vẻ bên mọi người, cảm thấy gắn kết với họ, để rồi khi chỉ có một mình, cô lại chỉ nghĩ về những nỗi kinh hoàng có thể xảy ra trong sự cô lập của mình phía trước?</p>
 
 <p class="para-en">“You catastrophize,” her therapist said to her once. “Depressive realism.”</p>
 
-<p class="para-vi-sub">"Cô hay bi kịch hóa mọi thứ lên," nhà trị liệu của cô đã từng nói với cô như vậy. "Chủ nghĩa hiện thực yếm thế."</p>
+<p class="para-vi-sub">“Cô hay bi kịch hóa mọi thứ lên,” nhà trị liệu của cô đã từng nói với cô như vậy. “Hiện thực trầm cảm.”</p>
 
 <p class="para-en">She knows that. Yet her thoughts still have power over her anyway. They make her feel pinned to the checkered rug, to her solitary existence.</p>
 
@@ -550,19 +552,19 @@
 
 <p class="para-en">She thinks she should probably call a new therapist. But she still has this feeling that she is outside of time. She is supposed to be dead, and she’s not—it helps every time she remembers she’s living in some kind of bonus afterlife where she has a view of the ocean and a man named Carlson who shows up at sunset to “turn down” the room.</p>
 
-<p class="para-vi-sub">Cô nghĩ có lẽ mình nên gọi cho một nhà trị liệu mới. Nhưng cô vẫn mang cảm giác rằng bản thân đang đứng ngoài dòng thời gian. Lẽ ra cô phải chết rồi, nhưng cô lại chưa chết - điều đó giúp ích rất nhiều mỗi khi cô nhớ ra rằng mình đang sống trong một loại kiếp sau tặng kèm, nơi cô có tầm nhìn hướng ra đại dương và một người đàn ông tên là Carlson xuất hiện vào lúc hoàng hôn để "dọn dẹp buồng phòng" cho cô.</p>
+<p class="para-vi-sub">Cô nghĩ có lẽ mình nên gọi cho một nhà trị liệu mới. Nhưng cô vẫn mang cảm giác rằng bản thân đang đứng ngoài dòng thời gian. Lẽ ra cô phải chết rồi, nhưng cô lại chưa chết, điều đó giúp ích rất nhiều mỗi khi cô nhớ ra rằng mình đang sống trong một loại kiếp sau tặng kèm, nơi cô có tầm nhìn hướng ra đại dương và một người đàn ông tên là Carlson xuất hiện vào lúc hoàng hôn để lo dịch vụ chuẩn bị giường ngủ buổi tối cho cô.</p>
 
 <p class="para-en">“Turn down?” Phoebe asks.</p>
 
-<p class="para-vi-sub">"Dọn dẹp buồng phòng ư?" Phoebe hỏi.</p>
+<p class="para-vi-sub">“Dịch vụ chuẩn bị giường ngủ buổi tối ư?” Phoebe hỏi.</p>
 
 <p class="para-en">“Get you ready for the night,” Carlson says.</p>
 
-<p class="para-vi-sub">"Lo liệu cho cô sẵn sàng qua đêm," Carlson nói.</p>
+<p class="para-vi-sub">“Lo liệu cho cô sẵn sàng qua đêm ạ,” Carlson nói.</p>
 
 <p class="para-en">“That’s a service you provide here?”</p>
 
-<p class="para-vi-sub">"Đó là một dịch vụ mà các anh cung cấp ở đây sao?"</p>
+<p class="para-vi-sub">“Đó là một dịch vụ mà các anh cung cấp ở đây sao?”</p>
 
 <p class="para-en">Phoebe imagines Carlson pulling down her sheets, tucking her in like her father once had. Telling Phoebe sweet things about the universe like her husband used to. Petting her head as she drifts off into a sleep with no dreams.</p>
 
@@ -570,15 +572,15 @@
 
 <p class="para-en">“Yes,” Carlson says. “We are so sorry to have suspended it for the reception last night.”</p>
 
-<p class="para-vi-sub">"Vâng," Carlson nói. "Chúng tôi vô cùng xin lỗi vì đã phải tạm dừng dịch vụ này để phục vụ tiệc chiêu đãi tối qua."</p>
+<p class="para-vi-sub">“Vâng,” Carlson nói. “Chúng tôi vô cùng xin lỗi vì đã phải tạm dừng dịch vụ này để phục vụ tiệc chiêu đãi tối qua.”</p>
 
 <p class="para-en">Phoebe watches Carlson turn down the room. Lower the shades. Turn on the lights, fluff the coconut pillow. Pull the bedsheet down.</p>
 
-<p class="para-vi-sub">Phoebe dõi theo Carlson dọn dẹp buồng phòng. Hạ rèm xuống. Bật đèn lên, vỗ phồng chiếc gối nhồi xơ dừa. Kéo ga giường xuống.</p>
+<p class="para-vi-sub">Phoebe dõi theo Carlson chuẩn bị giường ngủ. Hạ rèm xuống. Bật đèn lên, vỗ phồng chiếc gối nhồi xơ dừa. Kéo ga giường xuống.</p>
 
 <p class="para-en">It is nice, this ritual. She likes that there is a specific phrase for it, this turning down of the room, this recognition that night is something we must prepare for. Because the night is hard.</p>
 
-<p class="para-vi-sub">Thật dễ chịu, nghi thức này. Cô thích việc có một cụm từ cụ thể dành cho nó, việc dọn dẹp buồng phòng này, sự thừa nhận rằng đêm tối là thứ mà chúng ta phải chuẩn bị để đối mặt. Bởi vì đêm tối rất khó vượt qua.</p>
+<p class="para-vi-sub">Thật dễ chịu, nghi thức này. Cô thích việc có một cụm từ cụ thể dành cho nó, việc chuẩn bị giường ngủ này, sự thừa nhận rằng đêm tối là thứ mà chúng ta phải chuẩn bị để đối mặt. Bởi vì đêm tối rất khó vượt qua.</p>
 
 <p class="para-en">Usually the worst time of day for Phoebe, when the depression surfaces like a cyst. Her therapist suggested that maybe it was body-related, maybe she just had a sugar deficiency, and maybe she would be happier if she ate six snacks a day. But she started to eat six snacks a day and the sun would begin to set and she would look at her husband’s shoes still by the door and she sobbed so loudly in the empty kitchen that it scared her. She would crawl into bed and think of all the different women she could have become. All the different ways better women end their days. How did Mia end her day?</p>
 
@@ -590,7 +592,7 @@
 
 <p class="para-en">“Anything else you need?” Carlson asks.</p>
 
-<p class="para-vi-sub">“Cô có cần gì nữa không?” Carlson hỏi.</p>
+<p class="para-vi-sub">“Cô có cần gì nữa không ạ?” Carlson hỏi.</p>
 
 <p class="para-en">It is nice the way everyone here keeps asking this, even if it’s just their job. Each time feels like another chance to practice asking for what she needs, something that used to be so difficult for Phoebe. I need to go on that vacation in March, she should have said. I need you to tell me that you love me more often right now, she should have said. But it had felt humiliating. Because her husband needed nothing—he was always so busy, so totally fine, always walking out the door with a million papers in his hand.</p>
 
@@ -606,7 +608,7 @@
 
 <p class="para-en">“Sure thing,” he says. “Anything else?”</p>
 
-<p class="para-vi-sub">“Chắc chắn rồi,” anh nói. “Còn gì nữa không?”</p>
+<p class="para-vi-sub">“Chắc chắn rồi ạ,” anh nói. “Còn gì nữa không cô?”</p>
 
 <p class="para-en">“And a drain stopper for the tub.”</p>
 
@@ -614,7 +616,7 @@
 
 <p class="para-en">“Absolutely,” Carlson says. “I’ll be right back.”</p>
 
-<p class="para-vi-sub">“Tuyệt đối có,” Carlson nói. “Tôi sẽ quay lại ngay.”</p>
+<p class="para-vi-sub">“Có ngay đây ạ,” Carlson nói. “Tôi sẽ quay lại ngay.”</p>
 
 <p class="para-en">“You’re not going to CVS, right?” she asks.</p>
 
@@ -638,7 +640,7 @@
 
 <p class="para-en">“We have to do it,” he says, and smiles.</p>
 
-<p class="para-vi-sub">“Chúng tôi bắt buộc phải dùng nó,” anh nói và mỉm cười.</p>
+<p class="para-vi-sub">“Chúng tôi bắt buộc phải dùng nó ạ,” anh nói và mỉm cười.</p>
 
 <p class="para-en">“Where are you from?”</p>
 
@@ -655,6 +657,8 @@
 <p class="para-en">He does a grand bow. “You’re welcome, my dear. Now you enjoy your evening.”</p>
 
 <p class="para-vi-sub">Anh cúi người chào một cách thật long trọng. “Không có gì, thưa cô. Bây giờ xin mời cô tận hưởng buổi tối của mình.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en"><span class="caps">H</span><small>OW DOES ONE</small> enjoy an evening?</p>
 
@@ -706,7 +710,7 @@
 
 <p class="para-en">But now she can understand what he was trying to tell her. It <i>is</i> good to want things, even the humiliating things. Even the things you aren’t supposed to want, like Gary, the groom. Because every time she thinks of sitting in that hot tub with Gary, she feels so lucky to be alive. She can’t believe she almost missed the chance to meet him. She can’t believe she almost threw her body away. This beautiful body, she thinks, and runs her fingers over the soft fuzz of hair that has grown on her legs. The scar on her knee. Her breasts, sticking out of the water like two smooth and ancient rocks in the ocean. And it turns her on a little, just looking at her breasts, so she starts to touch herself. She always thought it was a myth, all these water orgasms women were having in movies, but she can feel herself get close, feel her whole body begin to shake, when the door opens.</p>
 
-<p class="para-vi-sub">Nhưng giờ thì cô đã có thể hiểu được những gì anh đang cố nói với cô. Thật tuyệt khi biết khao khát mọi thứ, kể cả những điều đáng xấu hổ. Kể cả những thứ mà lẽ ra cô không nên khao khát, như Gary, cậu nhân viên phục vụ. Bởi vì mỗi lần nghĩ đến việc ngồi trong bồn nước nóng cùng Gary, cô lại cảm thấy mình thật may mắn vì vẫn còn sống. Cô không thể tin rằng mình suýt bỏ lỡ cơ hội được gặp anh. Cô không thể tin rằng mình suýt vứt bỏ cơ thể này. Cơ thể xinh đẹp này, cô thầm nghĩ, và lướt những ngón tay trên lớp lông tơ mềm mại mọc lên trên đôi chân mình. Vết sẹo trên đầu gối cô. Bộ ngực của cô, nhô lên khỏi mặt nước như hai hòn đá nhẵn nhụi và cổ xưa giữa đại dương. Và việc ngắm nhìn bộ ngực ấy khiến cô có chút kích thích, thế nên cô bắt đầu tự chạm vào bản thân. Cô từng nghĩ đó chỉ là hoang đường, tất cả những vụ lên đỉnh dưới nước mà phụ nữ hay kể trong phim ảnh, nhưng cô có thể cảm nhận bản thân đang đến gần, cảm thấy toàn bộ cơ thể bắt đầu run lên, thì cánh cửa bật mở.</p>
+<p class="para-vi-sub">Nhưng giờ thì cô đã có thể hiểu được những gì ông đang cố nói với cô. Thật tuyệt khi biết khao khát mọi thứ, kể cả những điều đáng xấu hổ. Kể cả những thứ mà lẽ ra cô không nên khao khát, như Gary, người đàn ông phục vụ. Bởi vì mỗi lần nghĩ đến việc ngồi trong bồn nước nóng cùng Gary, cô lại cảm thấy mình thật may mắn vì vẫn còn sống. Cô không thể tin rằng mình suýt bỏ lỡ cơ hội được gặp anh. Cô không thể tin rằng mình suýt vứt bỏ cơ thể này. Cơ thể xinh đẹp này, cô thầm nghĩ, và lướt những ngón tay trên lớp lông tơ mềm mại mọc lên trên đôi chân mình. Vết sẹo trên đầu gối cô. Bộ ngực của cô, nhô lên khỏi mặt nước như hai hòn đá nhẵn nhụi và cổ xưa giữa đại dương. Và việc ngắm nhìn bộ ngực ấy khiến cô có chút kích thích, thế nên cô bắt đầu tự chạm vào bản thân. Cô từng nghĩ đó chỉ là hoang đường, tất cả những vụ lên đỉnh dưới nước mà phụ nữ hay kể trong phim ảnh, nhưng cô có thể cảm nhận bản thân đang đến gần, cảm thấy toàn bộ cơ thể bắt đầu run lên, thì cánh cửa bật mở.</p>
 
 <p class="para-en">“Phoebe!” Lila shouts as she walks in.</p>
 
@@ -718,7 +722,7 @@
 
 <p class="para-en">“You can put that in dry rice and it’ll be fine,” Lila says. “I’m sure Pauline can get you some from the kitchen. Want me to call?”</p>
 
-<p class="para-vi-sub">“Cậu có thể bỏ nó vào gạo khô là sẽ ổn thôi,” Lila nói. “Tớ chắc chắn Pauline có thể lấy cho cậu ít gạo từ nhà bếp. Cậu muốn tớ gọi hộ không?”</p>
+<p class="para-vi-sub">“Chị có thể bỏ nó vào gạo khô là sẽ ổn thôi,” Lila nói. “Em chắc chắn Pauline có thể lấy cho chị ít gạo từ nhà bếp. Chị muốn em gọi hộ không?”</p>
 
 <p class="para-en">“No,” Phoebe says.</p>
 
@@ -730,7 +734,7 @@
 
 <p class="para-en">“God, I don’t know <i>how</i> Gary is related to Marla,” Lila says. “Could you believe Marla today? Honestly, the Vacation in a Cup thing. I don’t even know why I bother being so nice to her. And Juice, too. It’s like they hate me! They probably do hate me. And fine, I get it. I’m really fucking rich. I know it’s annoying. But I’m not rude to people. I’m not a bitch like Marla! And I know I’m not supposed to call another woman that, but what am I supposed to do if she’s just a bitch?”</p>
 
-<p class="para-vi-sub">“Chúa ơi, tớ không hiểu sao Gary lại có họ hàng với Marla nữa,” Lila nói. “Cậu có thể tin nổi Marla ngày hôm nay không? Thật đấy, cái trò Kỳ nghỉ trong cốc ấy chứ. Tớ thậm chí còn chẳng hiểu tại sao mình phải bận tâm tử tế với cô ta nữa. Cả Juice cũng thế. Cứ như thể họ ghét tớ vậy! Chắc chắn là họ ghét tớ thật rồi. Mà thôi được, tớ hiểu mà. Tớ giàu vãi chưởng. Tớ biết điều đó thật phiền phức. Nhưng tớ có thô lỗ với mọi người đâu. Tớ có phải là một con khốn như Marla đâu! Và tớ biết mình không nên gọi một người phụ nữ khác như vậy, nhưng tớ phải làm sao nếu cô ta đúng là một con khốn chứ?”</p>
+<p class="para-vi-sub">“Chúa ơi, em không hiểu sao Gary lại có họ hàng với Marla nữa,” Lila nói. “Chị có thể tin nổi Marla ngày hôm nay không? Thật đấy, cái trò Kỳ nghỉ trong một chiếc ly ấy chứ. Em thậm chí còn chẳng hiểu tại sao mình phải bận tâm tử tế với chị ta nữa. Cả Juice cũng thế. Cứ như thể họ ghét em vậy! Chắc chắn là họ ghét em thật rồi. Mà thôi được, em hiểu mà. Em giàu vãi chưởng. Em biết điều đó thật phiền phức. Nhưng em có thô lỗ với mọi người đâu. Em có phải là một con khốn như Marla đâu! Và em biết mình không nên gọi một người phụ nữ khác như vậy, nhưng em phải làm sao nếu chị ta đúng là một con khốn chứ?”</p>
 
 <p class="para-en">Phoebe stares in disbelief as Lila sits down on the tiny black bathroom chair, which suddenly looks like it was put there just so Lila could sit on it and call people bitches.</p>
 
@@ -738,7 +742,7 @@
 
 <p class="para-en">“She was even worse at the cocktail party tonight,” Lila says. “I coughed, because I got some vodka down the wrong pipe, and Marla looked at me and was like, I’m sorry, but you just can’t cough like that in public anymore. And I said nothing, of course. Because she’s going to be my sister-in-law. I am going to have to spend the rest of the week with her. I mean, the rest of my life, technically. Though we don’t have to spend <i>every</i> holiday together. Like, we get Halloween to ourselves, right?”</p>
 
-<p class="para-vi-sub">“Cô ta thậm chí còn tệ hơn tại bữa tiệc cocktail tối nay,” Lila nói. “Tớ đã ho, vì tớ bị sặc vodka vào cổ họng, và Marla nhìn tớ rồi kiểu như, tớ xin lỗi, nhưng cậu không thể ho như thế ở nơi công cộng nữa đâu. Và tất nhiên là tớ chẳng nói gì cả. Bởi vì cô ấy sắp trở thành chị dâu của tớ rồi. Tớ sẽ phải dành phần còn lại của tuần này với cô ấy. Ý tớ là, phần đời còn lại của tớ, tính theo lý thuyết. Dù chúng ta không phải lúc nào cũng dành mọi kỳ nghỉ cho nhau. Kiểu như, chúng ta có ngày lễ Halloween cho riêng mình, đúng chứ?”</p>
+<p class="para-vi-sub">“Chị ta thậm chí còn tệ hơn tại bữa tiệc cocktail tối nay,” Lila nói. “Em đã ho, vì em bị sặc vodka vào cổ họng, và Marla nhìn em rồi kiểu như, tôi xin lỗi, nhưng cô không thể ho như thế ở nơi công cộng nữa đâu. Và tất nhiên là em chẳng nói gì cả. Bởi vì chị ấy sắp trở thành chị dâu của em rồi. Em sẽ phải dành phần còn lại của tuần này với chị ấy. Ý em là, phần đời còn lại của em, tính theo lý thuyết. Dù chúng ta không phải lúc nào cũng dành mọi kỳ nghỉ cho nhau. Kiểu như, chúng ta có ngày lễ Halloween cho riêng mình, đúng chứ?”</p>
 
 <p class="para-en">The tub is cold again. Phoebe turns on the hot water, but it’s too hot and burns Phoebe’s fingers. This is how it happens. She just lets people around her do what they want. She doesn’t call them on their shit. She pretends like she has no needs, like it’s just fine to walk into her room when she was in the middle of trying to have an orgasm.</p>
 
@@ -746,39 +750,39 @@
 
 <p class="para-en">“How did you get in here?” Phoebe asks.</p>
 
-<p class="para-vi-sub">“Làm thế nào mà cậu vào được đây thế?” Phoebe hỏi.</p>
+<p class="para-vi-sub">“Làm thế nào mà em vào được đây thế?” Phoebe hỏi.</p>
 
 <p class="para-en">“I have a key,” Lila says.</p>
 
-<p class="para-vi-sub">“Tớ có chìa khóa mà,” Lila đáp.</p>
+<p class="para-vi-sub">“Em có chìa khóa mà,” Lila đáp.</p>
 
 <p class="para-en">“You have a key?”</p>
 
-<p class="para-vi-sub">“Cậu có chìa khóa cơ á?”</p>
+<p class="para-vi-sub">“Em có chìa khóa cơ á?”</p>
 
 <p class="para-en">“Yeah, I got a key when I booked the room for the week,” Lila says.</p>
 
-<p class="para-vi-sub">“Ừ, tớ nhận được chìa khóa khi đặt phòng cho cả tuần này,” Lila nói.</p>
+<p class="para-vi-sub">“Vâng, em nhận được chìa khóa khi đặt phòng cho cả tuần này,” Lila nói.</p>
 
 <p class="para-en">“Okay,” Phoebe says. “But that doesn’t mean you can just walk in on me while I’m in the middle of taking a bath.”</p>
 
-<p class="para-vi-sub">“Được rồi,” Phoebe nói. “Nhưng điều đó không có nghĩa là cậu có thể cứ thế xông vào phòng tớ trong lúc tớ đang tắm.”</p>
+<p class="para-vi-sub">“Được rồi,” Phoebe nói. “Nhưng điều đó không có nghĩa là em có thể cứ thế xông vào phòng chị trong lúc chị đang tắm.”</p>
 
 <p class="para-en">“Oh, I don’t mind you being naked,” Lila says, staring directly at Phoebe’s breasts. “I lived in a dorm room all my life. Seeing a naked woman is basically like seeing wallpaper.”</p>
 
-<p class="para-vi-sub">“Ồ, tớ đâu bận tâm chuyện cậu khỏa thân,” Lila nói, dán mắt thẳng vào bộ ngực của Phoebe. “Tớ sống trong ký túc xá suốt cả đời mà. Nhìn thấy một người phụ nữ khỏa thân về cơ bản cũng giống như nhìn thấy giấy dán tường thôi.”</p>
+<p class="para-vi-sub">“Ồ, em đâu bận tâm chuyện chị khỏa thân,” Lila nói, dán mắt thẳng vào bộ ngực của Phoebe. “Em sống trong ký túc xá suốt cả đời mà. Nhìn thấy một người phụ nữ khỏa thân về cơ bản cũng giống như nhìn thấy giấy dán tường thôi.”</p>
 
 <p class="para-en">“That wasn’t my point, either,” Phoebe says.</p>
 
-<p class="para-vi-sub">“Ý tớ không phải thế,” Phoebe nói.</p>
+<p class="para-vi-sub">“Ý chị không phải thế,” Phoebe nói.</p>
 
 <p class="para-en">“Then what’s the point?”</p>
 
-<p class="para-vi-sub">“Thế ý cậu là gì?”</p>
+<p class="para-vi-sub">“Thế ý chị là gì?”</p>
 
 <p class="para-en">“The point is, I was about to have an orgasm!”</p>
 
-<p class="para-vi-sub">“Ý tớ là, tớ đang chuẩn bị lên đỉnh!”</p>
+<p class="para-vi-sub">“Ý chị là, chị đang chuẩn bị lên đỉnh!”</p>
 
 <p class="para-en">“In the water? That actually works?”</p>
 
@@ -790,15 +794,15 @@
 
 <p class="para-en">“And my life is not perfect. Have you even been listening to a word I’ve been saying?”</p>
 
-<p class="para-vi-sub">“Và cuộc đời tớ đâu có hoàn hảo. Cậu có thèm nghe một từ nào nãy giờ tớ nói không đấy?”</p>
+<p class="para-vi-sub">“Và cuộc đời em đâu có hoàn hảo. Chị có thèm nghe một từ nào nãy giờ em nói không đấy?”</p>
 
 <p class="para-en">“I have, yes,” Phoebe says. “You have a sister-in-law who doesn’t want to get Covid. A mother who is not dead and in attendance at your wedding. Not to mention a fiancé who is really wonderful.”</p>
 
-<p class="para-vi-sub">“Có chứ, tớ có nghe,” Phoebe nói. “Cậu có một cô chị dâu không muốn bị nhiễm Covid. Một người mẹ không hề qua đời và vẫn có mặt trong đám cưới của cậu. Chưa kể đến một vị hôn夫 thực sự tuyệt vời.”</p>
+<p class="para-vi-sub">“Có chứ, chị có nghe,” Phoebe nói. “Em có một cô chị dâu không muốn bị nhiễm Covid. Một người mẹ không hề qua đời và vẫn có mặt trong đám cưới của em. Chưa kể đến một vị hôn phu thực sự tuyệt vời.”</p>
 
 <p class="para-en">“Oh my God, not you, too,” Lila says. “You sound like Nat and Suz.”</p>
 
-<p class="para-vi-sub">“Ôi Chúa ơi, đừng nói là cả cậu cũng thế nhé,” Lila nói. “Cậu nghe y hệt Nat và Suz vậy.”</p>
+<p class="para-vi-sub">“Ôi Chúa ơi, đừng nói là cả chị cũng thế nhé,” Lila nói. “Chị nghe y hệt Nat và Suz vậy.”</p>
 
 <p class="para-en">“Nat and Suz are right,” Phoebe says. “He’s wonderful.”</p>
 
@@ -806,15 +810,15 @@
 
 <p class="para-en">“What do you think is so wonderful about him?”</p>
 
-<p class="para-vi-sub">“Cậu nghĩ điểm nào ở anh ấy là tuyệt vời nhất?”</p>
+<p class="para-vi-sub">“Chị nghĩ điểm nào ở anh ấy là tuyệt vời nhất?”</p>
 
 <p class="para-en">“Don’t you already know what’s wonderful about him?”</p>
 
-<p class="para-vi-sub">“Chẳng phải cậu đã biết điểm nào tuyệt vời ở anh ấy rồi sao?”</p>
+<p class="para-vi-sub">“Chẳng phải em đã biết điểm nào tuyệt vời ở anh ấy rồi sao?”</p>
 
 <p class="para-en">“Of course I know. But it’s more interesting to hear what you think is wonderful.”</p>
 
-<p class="para-vi-sub">“Tớ biết chứ. Nhưng nghe những gì cậu nghĩ sẽ thú vị hơn nhiều.”</p>
+<p class="para-vi-sub">“Em biết chứ. Nhưng nghe những gì chị nghĩ sẽ thú vị hơn nhiều.”</p>
 
 <p class="para-en">Lila waits.</p>
 
@@ -826,7 +830,7 @@
 
 <p class="para-en">“He’s sincere,” Phoebe says, because if Lila wants honesty, she will get honesty. “He seems to accept that people are, well, human.”</p>
 
-<p class="para-vi-sub">“Anh ấy rất chân thành,” Phoebe nói, bởi vì nếu Lila muốn sự thật, cô sẽ cho cô ta sự thật. “Anh ấy dường như chấp nhận việc con người ta, ừm, ai cũng có hỉ nộ ái ố.”</p>
+<p class="para-vi-sub">“Anh ấy rất chân thành,” Phoebe nói, bởi vì nếu Lila muốn sự thật, cô sẽ cho cô gái này sự thật. “Anh ấy dường như chấp nhận việc con người ta, ừm, ai cũng có hỉ nộ ái ố.”</p>
 
 <p class="para-en">“Okay,” Lila says, clearly unsatisfied. “But what else?”</p>
 
@@ -842,23 +846,23 @@
 
 <p class="para-en">“He’s engaged with the world. Like he’s on a mission to know it better. And he’s funny, but not in-your-face funny. Just in that dry kind of way that’s hard to notice at first, because he looks more friendly than funny, but once you do, you can’t stop seeing it.”</p>
 
-<p class="para-vi-sub">“Anh ấy gắn kết với thế giới xung quanh. Giống như anh ấy đang thực hiện sứ mệnh để thấu hiểu nó sâu sắc hơn vậy. Và anh ấy hài hước, nhưng không phải kiểu hài hước bộp chộp ngay trước mặt. Chỉ là theo cái cách khô khan đến mức thoạt đầu khó mà nhận ra, bởi vì trông anh ấy thân thiện hơn là hài hước, nhưng một khi cậu đã nhận ra thì cậu sẽ không thể ngừng chú ý đến điều đó.”</p>
+<p class="para-vi-sub">“Anh ấy gắn kết với thế giới xung quanh. Giống như anh ấy đang thực hiện sứ mệnh để thấu hiểu nó sâu sắc hơn vậy. Và anh ấy hài hước, nhưng không phải kiểu hài hước bộp chộp ngay trước mặt. Chỉ là theo cái cách khô khan đến mức thoạt đầu khó mà nhận ra, bởi vì trông anh ấy thân thiện hơn là hài hước, nhưng một khi em đã nhận ra thì em sẽ không thể ngừng chú ý đến điều đó.”</p>
 
 <p class="para-en">“But do you think he’s attractive?” Lila asks.</p>
 
-<p class="para-vi-sub">“Nhưng cậu có nghĩ anh ấy hấp dẫn không?” Lila hỏi.</p>
+<p class="para-vi-sub">“Nhưng chị có nghĩ anh ấy hấp dẫn không?” Lila hỏi.</p>
 
 <p class="para-en">“You want to know if I think your fiancé is attractive?”</p>
 
-<p class="para-vi-sub">“Cậu muốn biết liệu tớ có thấy vị hôn phu của cậu hấp dẫn không á?”</p>
+<p class="para-vi-sub">“Em muốn biết liệu chị có thấy vị hôn phu của em hấp dẫn không á?”</p>
 
 <p class="para-en">“I’m curious what you see.”</p>
 
-<p class="para-vi-sub">“Tớ tò mò không biết cậu nhìn nhận thế nào.”</p>
+<p class="para-vi-sub">“Em tò mò không biết chị nhìn nhận thế nào.”</p>
 
 <p class="para-en">“Yes, I think he’s attractive,” Phoebe says, and it feels good to admit it out loud. Especially to Lila. “Very attractive, actually.”</p>
 
-<p class="para-vi-sub">“Có, tớ nghĩ anh ấy hấp dẫn,” Phoebe nói, và việc thừa nhận điều đó ra thành tiếng khiến cô cảm thấy thật dễ chịu. Đặc biệt là trước mặt Lila. “Thực ra là rất hấp dẫn.”</p>
+<p class="para-vi-sub">“Có, chị nghĩ anh ấy hấp dẫn,” Phoebe nói, và việc thừa nhận điều đó ra thành tiếng khiến cô cảm thấy thật dễ chịu. Đặc biệt là trước mặt Lila. “Thực ra là rất hấp dẫn.”</p>
 
 <p class="para-en">This seems to please Lila, but then she looks momentarily doubtful. “Even with the beard?”</p>
 
@@ -906,15 +910,15 @@
 
 <p class="para-en">“Trust me, Gary seriously has the most ideal hair situation for a man his age.”</p>
 
-<p class="para-vi-sub">“Tin tôi đi, Gary thực sự có mái tóc hoàn hảo nhất đối với một người đàn ông ở độ tuổi của anh ấy.”</p>
+<p class="para-vi-sub">“Tin chị đi, Gary thực sự có mái tóc hoàn hảo nhất đối với một người đàn ông ở độ tuổi của anh ấy.”</p>
 
 <p class="para-en">“That’s what I <i>used</i> to think,” Lila says. “But then he grew his beard and it came out all gray. I think if he just shaves the beard, it might be better.”</p>
 
-<p class="para-vi-sub">“Đó là điều tôi <i>từng</i> nghĩ,” Lila nói. “Nhưng rồi anh ấy để râu và nó mọc lên toàn màu xám. Tôi nghĩ nếu anh ấy cạo râu đi thì mọi chuyện có lẽ sẽ khá hơn.”</p>
+<p class="para-vi-sub">“Đó là điều em <i>từng</i> nghĩ,” Lila nói. “Nhưng rồi anh ấy để râu và nó mọc lên toàn màu xám. Em nghĩ nếu anh ấy cạo râu đi thì mọi chuyện có lẽ sẽ khá hơn.”</p>
 
 <p class="para-en">“I’m not sure it’s ever that simple.”</p>
 
-<p class="para-vi-sub">“Tôi không chắc mọi chuyện lúc nào cũng đơn giản như thế đâu.”</p>
+<p class="para-vi-sub">“Chị không chắc mọi chuyện lúc nào cũng đơn giản như thế đâu.”</p>
 
 <p class="para-en">“That sounds cryptic.”</p>
 
@@ -926,19 +930,19 @@
 
 <p class="para-en">“Yes cryptic. Are you mad at me or something?”</p>
 
-<p class="para-vi-sub">“Có chứ, bí hiểm thấy rõ. Cậu đang giận tôi hay sao thế?”</p>
+<p class="para-vi-sub">“Có chứ, bí hiểm thấy rõ. Chị đang giận em hay sao thế?”</p>
 
 <p class="para-en">“No, I’m not mad at you,” Phoebe says, but then remembers she is trying to be honest. “I’m annoyed.”</p>
 
-<p class="para-vi-sub">“Không, tôi không giận cô,” Phoebe định nói vậy nhưng rồi chợt nhớ ra mình đang cố gắng thành thật. “Tôi đang thấy bực bội.”</p>
+<p class="para-vi-sub">“Không, chị không giận em,” Phoebe định nói vậy nhưng rồi chợt nhớ ra mình đang cố gắng thành thật. “Chị đang thấy bực bội.”</p>
 
 <p class="para-en">“With <i>me</i>? Why?”</p>
 
-<p class="para-vi-sub">“Với <i>tôi</i> á? Tại sao chứ?”</p>
+<p class="para-vi-sub">“Với <i>em</i> á? Tại sao chứ?”</p>
 
 <p class="para-en">“Because I was trying to take a bath!” Phoebe says. “And you just waltz in without even knocking, then sit down and bitch about your sister-in-law and your fiancé’s sexy gray beard and your million-dollar wedding to a naked and suicidal and divorced woman in a tub, and you think that’s really how I want to spend my bath? You think that’s fair to do to me?”</p>
 
-<p class="para-vi-sub">“Bởi vì tôi đang cố gắng tắm!” Phoebe nói. “Và cô cứ thế xông vào mà chẳng thèm gõ cửa, rồi ngồi xuống than vãn về chị dâu, về bộ râu xám quyến rũ của vị hôn夫, cùng đám cưới triệu đô của cô trước mặt một người phụ nữ khỏa thân, đang có ý định tự tử và đã li hôn đang nằm trong bồn tắm, rồi cô nghĩ đó là cách tôi muốn tận hưởng bồn tắm của mình sao? Cô nghĩ làm thế với tôi là công bằng à?”</p>
+<p class="para-vi-sub">“Bởi vì chị đang cố gắng tắm!” Phoebe nói. “Và em cứ thế xông vào mà chẳng thèm gõ cửa, rồi ngồi xuống than vãn về chị dâu, về bộ râu xám quyến rũ của vị hôn phu, cùng đám cưới triệu đô của em trước mặt một người phụ nữ khỏa thân, đang có ý định tự tử và đã ly hôn đang nằm trong bồn tắm, rồi em nghĩ đó là cách chị muốn tận hưởng bồn tắm của mình sao? Em nghĩ làm thế với chị là công bằng à?”</p>
 
 <p class="para-en">Lila looks hurt or confused or both. But Phoebe doesn’t care.</p>
 
@@ -946,19 +950,19 @@
 
 <p class="para-en">“And you do, I think!” Phoebe says. “You really think you can just walk around, spewing your inner monologue onto everything, but you can’t. You have to respect people. You have to knock on their doors before walking into their bedroom. Nobody cares that you’re the fucking bride. It doesn’t give you a license to just watch people bathe. You’re not God. You’re just another fucking woman, put here on earth like the rest of us.”</p>
 
-<p class="para-vi-sub">“Và cô nghĩ vậy thật đấy!” Phoebe nói. “Cô thực sự nghĩ mình có thể đi vòng quanh, trút hết dòng độc thoại nội tâm của mình lên mọi thứ, nhưng không được đâu. Cô phải tôn trọng người ta chứ. Cô phải gõ cửa phòng người khác trước khi bước vào phòng ngủ của họ. Chẳng ai quan tâm đến việc cô là cô dâu quái quỷ nào đâu. Điều đó không cho cô cái quyền được nhìn người khác tắm rửa. Cô không phải Chúa. Cô cũng chỉ là một người phụ nữ quái quỷ khác được đặt lên trái đất này giống như tất cả chúng ta thôi.”</p>
+<p class="para-vi-sub">“Và em nghĩ vậy thật đấy!” Phoebe nói. “Em thực sự nghĩ mình có thể đi vòng quanh, trút hết dòng độc thoại nội tâm của mình lên mọi thứ, nhưng không được đâu. Em phải tôn trọng người ta chứ. Em phải gõ cửa phòng người khác trước khi bước vào phòng ngủ của họ. Chẳng ai quan tâm đến việc em là cô dâu quái quỷ nào đâu. Điều đó không cho em cái quyền được nhìn người khác tắm rửa. Em không phải Chúa. Em cũng chỉ là một người phụ nữ quái quỷ khác được đặt lên trái đất này giống như tất cả chúng ta thôi.”</p>
 
 <p class="para-en">“But I did knock on your door,” Lila says. “You didn’t answer.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi có gõ cửa phòng cậu mà,” Lila nói. “Cậu có trả lời đâu.”</p>
+<p class="para-vi-sub">“Nhưng em có gõ cửa phòng chị mà,” Lila nói. “Chị có trả lời đâu.”</p>
 
 <p class="para-en">“If a person doesn’t answer, that means you don’t come in.”</p>
 
-<p class="para-vi-sub">“Nếu một người không trả lời, điều đó có nghĩa là cô không được bước vào.”</p>
+<p class="para-vi-sub">“Nếu một người không trả lời, điều đó có nghĩa là em không được bước vào.”</p>
 
 <p class="para-en">“Well, excuse me, but I was worried you might be dead!”</p>
 
-<p class="para-vi-sub">“Ồ, xin lỗi nhé, nhưng tôi lo là cậu đã chết rồi đấy!”</p>
+<p class="para-vi-sub">“Ồ, xin lỗi nhé, nhưng em lo là chị đã chết rồi đấy!”</p>
 
 <p class="para-en">“Oh,” Phoebe says.</p>
 
@@ -970,7 +974,7 @@
 
 <p class="para-en">“You really want to talk about fair?” Lila asks. “You think it’s okay to tell someone that you want to die, then kick them out of the room, and then act like it’s not going to affect them in any way whatsoever? I’m not a monster, Phoebe. I would care if a woman died at my wedding. I have feelings. But everybody thinks that just because I’m like really fucking blond or something, I don’t have feelings, but you know what? My hair is not even blond!”</p>
 
-<p class="para-vi-sub">“Cậu thực sự muốn nói về sự công bằng á?” Lila hỏi. “Cậu nghĩ nói với ai đó rằng cậu muốn chết, rồi đuổi họ ra khỏi phòng, và sau đó hành động như thể chuyện đó sẽ chẳng ảnh hưởng gì đến họ là chuyện bình thường chắc? Tôi không phải quái vật đâu, Phoebe. Tôi sẽ thấy bận lòng nếu một người phụ nữ chết trong đám cưới của tôi. Tôi cũng có cảm xúc chứ. Nhưng mọi người cứ nghĩ rằng chỉ vì tôi có mái tóc vàng hoe hay đại loại thế nên tôi không có cảm xúc, nhưng cậu biết gì không? Tóc tôi thậm chí còn chẳng phải tóc vàng!”</p>
+<p class="para-vi-sub">“Chị thực sự muốn nói về sự công bằng á?” Lila hỏi. “Chị nghĩ nói với ai đó rằng chị muốn chết, rồi đuổi họ ra khỏi phòng, và sau đó hành động như thể chuyện đó sẽ chẳng ảnh hưởng gì đến họ là chuyện bình thường chắc? Em không phải quái vật đâu, Phoebe. Em sẽ thấy bận lòng nếu một người phụ nữ chết trong đám cưới của em. Em cũng có cảm xúc chứ. Nhưng mọi người cứ nghĩ rằng chỉ vì em có mái tóc vàng hoe hay đại loại thế nên em không có cảm xúc, nhưng chị biết gì không? Tóc em thậm chí còn chẳng phải tóc vàng!”</p>
 
 <p class="para-en">“It’s not?” Phoebe asks. “It’s impressively natural seeming.”</p>
 
@@ -978,7 +982,7 @@
 
 <p class="para-en">“Well, it’s brown, just like my father’s! And my grandfather’s! We’re Italian!”</p>
 
-<p class="para-vi-sub">“Ừ thì, nó màu nâu, giống hệt tóc bố tôi! Và tóc ông tôi nữa! Chúng tôi là người Ý đấy!”</p>
+<p class="para-vi-sub">“Ừ thì, nó màu nâu, giống hệt tóc bố em! Và tóc ông em nữa! Chúng em là người Ý đấy!”</p>
 
 <p class="para-en">“You are?”</p>
 
@@ -986,7 +990,7 @@
 
 <p class="para-en">“Like, a quarter! My dad’s dad was Italian,” she says. “My name is actually Lila Rossi-Winthrop, a hyphen that my parents fought over their entire lives. My father was so proud to be Italian, never really forgave my mother for not taking his name, even though he’s a total hypocrite. Because when I grew out my dark hair in college, do you know what my father said? He said, I liked you better as a blonde. And so now I am here, with super blond hair, because not even my own father likes my real hair. Which is really just his hair. The man gave it to me, then acts like it’s my fault for growing it!”</p>
 
-<p class="para-vi-sub">“Kiểu như, một phần tư ấy! Bố của bố tôi là người Ý,” cô ấy nói. “Tên tôi thực ra là Lila Rossi-Winthrop, một chiếc gạch nối mà bố mẹ tôi đã cãi nhau suốt cả cuộc đời họ. Bố tôi rất tự hào vì mang dòng máu Ý, chưa bao giờ thực sự tha thứ cho mẹ tôi vì đã không nhận họ của ông, dù ông hoàn toàn là kẻ đạo đức giả. Bởi vì khi tôi để tóc tối màu mọc dài ra hồi đại học, cậu có biết bố tôi đã nói gì không? Ông ấy nói, bố thích con để tóc vàng hơn. Và thế là bây giờ tôi ở đây, với mái tóc siêu vàng, bởi vì ngay cả bố ruột của tôi cũng không thích mái tóc thật của tôi. Mà thực ra đó chính là tóc của ông ấy. Ông ấy đã ban cho tôi mái tóc đó, rồi lại cư xử như thể đó là lỗi của tôi khi để nó mọc dài ra!”</p>
+<p class="para-vi-sub">“Kiểu như, một phần tư ấy! Bố của bố em là người Ý,” cô ấy nói. “Tên em thực ra là Lila Rossi-Winthrop, một chiếc gạch nối mà bố mẹ em đã cãi nhau suốt cả cuộc đời họ. Bố em rất tự hào vì mang dòng máu Ý, chưa bao giờ thực sự tha thứ cho mẹ em vì đã không nhận họ của ông, dù ông hoàn toàn là kẻ đạo đức giả. Bởi vì khi em để tóc tối màu mọc dài ra hồi đại học, chị có biết bố em đã nói gì không? Ông ấy nói, bố thích con để tóc vàng hơn. Và thế là bây giờ em ở đây, với mái tóc siêu vàng, bởi vì ngay cả bố ruột của em cũng không thích mái tóc thật của em. Mà thực ra đó chính là tóc của ông ấy. Ông ấy đã ban cho em mái tóc đó, rồi lại cư xử như thể đó là lỗi của em khi để nó mọc dài ra!”</p>
 
 <p class="para-en">Lila stands up.</p>
 
@@ -994,7 +998,7 @@
 
 <p class="para-en">“Everybody in my life is always telling me I can be anyone I want, but then whenever I do one thing they don’t like, they act like I’ve ruined myself,” Lila says. “And so I come up here, because you’re the only person at this wedding who doesn’t seem to give a shit what I do.”</p>
 
-<p class="para-vi-sub">“Mọi người trong đời tôi cứ luôn miệng bảo tôi có thể trở thành bất cứ ai tôi muốn, nhưng rồi bất cứ khi nào tôi làm một điều gì đó mà họ không thích, họ lại hành động như thể tôi đã tự hủy hoại bản thân mình vậy,” Lila nói. “Và thế là tôi lên đây, bởi vì cậu là người duy nhất ở đám cưới này dường như chẳng thèm quái đếm xỉa gì đến việc tôi làm.”</p>
+<p class="para-vi-sub">“Mọi người trong đời em cứ luôn miệng bảo em có thể trở thành bất cứ ai em muốn, nhưng rồi bất cứ khi nào em làm một điều gì đó mà họ không thích, họ lại hành động như thể em đã tự hủy hoại bản thân mình vậy,” Lila nói. “Và thế là em lên đây, bởi vì chị là người duy nhất ở đám cưới này dường như chẳng thèm quái đếm xỉa gì đến việc em làm.”</p>
 
 <p class="para-en">None of what Lila says is a surprise to Phoebe, yet it’s a surprise to hear Lila say it. Phoebe looks at Lila, a bride still in her white silk reception dress. It has cherries on the trim. It makes her look a few years younger than she is. It must have taken her hours to get ready for the reception, carefully considering each decision, and yet, she is not even at the reception. It makes Phoebe feel suddenly tender toward Lila, like Lila is the old Phoebe now. Lila is the one hiding in the library or in the dark of her room because she feels most comfortable there.</p>
 
@@ -1002,11 +1006,11 @@
 
 <p class="para-en">“That’s really why you’re here?” Phoebe asks.</p>
 
-<p class="para-vi-sub">“Đó thực sự là lý do cô ở đây á?” Phoebe hỏi.</p>
+<p class="para-vi-sub">“Đó thực sự là lý do em ở đây á?” Phoebe hỏi.</p>
 
 <p class="para-en">“Yes,” she says. “And also because my maid of honor, Vivian, just called to say she’s not coming. I was upset.”</p>
 
-<p class="para-vi-sub">“Đúng vậy,” cô ấy nói. “Và cũng bởi vì phù dâu danh dự của tôi, Vivian, vừa gọi báo rằng cô ấy không đến được. Tôi đã rất buồn.”</p>
+<p class="para-vi-sub">“Đúng vậy,” cô ấy nói. “Và cũng bởi vì phù dâu danh dự của em, Vivian, vừa gọi báo rằng cô ấy không đến được. Em đã rất buồn.”</p>
 
 <p class="para-en">They laugh.</p>
 
@@ -1026,15 +1030,15 @@
 
 <p class="para-en">“But does she need to really <i>be</i> there if he has Covid? Like, can’t Max take care of the kid for once?” Lila wonders. “Max is seriously the worst, by the way. I mean, he’s the best in the worst kind of way.”</p>
 
-<p class="para-vi-sub">“Nhưng nếu con bị Covid thì cô ấy nhất thiết phải <i>có mặt</i> ở đó làm gì cơ chứ? Ý tôi là, Max không thể chăm sóc đứa bé lấy một lần hay sao?” Lila thắc mắc. “Nhân tiện thì Max thực sự là kẻ tồi tệ nhất. Ý tôi là, anh ta tuyệt vời theo cái cách tồi tệ nhất.”</p>
+<p class="para-vi-sub">“Nhưng nếu con bị Covid thì cô ấy nhất thiết phải <i>có mặt</i> ở đó làm gì cơ chứ? Ý em là, Max không thể chăm sóc đứa bé lấy một lần hay sao?” Lila thắc mắc. “Nhân tiện thì Max thực sự là kẻ tồi tệ nhất. Ý em là, anh ta tuyệt vời theo cái cách tồi tệ nhất.”</p>
 
 <p class="para-en">“You lost me.”</p>
 
-<p class="para-vi-sub">“Cô làm tôi mất mạch rồi đấy.”</p>
+<p class="para-vi-sub">“Em làm chị mất mạch rồi đấy.”</p>
 
 <p class="para-en">“He researches endangered jaguars or something. They like, fell in love on some research trip trying to save the last living jaguar in South America. But now that they have a kid, she is always at home, while he’s traveling the world counting up all the jaguars, I guess. Needless to say it’s very … annoying. For Viv, I mean. Viv is always stuck taking care of the kid.”</p>
 
-<p class="para-vi-sub">“Anh ấy nghiên cứu báo đốm đang có nguy cơ tuyệt chủng hay đại loại thế. Họ kiểu như phải lòng nhau trong một chuyến đi nghiên cứu nhằm cứu lấy con báo đốm cuối cùng còn sống ở Nam Mỹ. Nhưng giờ họ đã có một đứa con, cô ấy thì lúc nào cũng ở nhà, trong khi anh ấy thì đi khắp thế giới để đếm từng con báo đốm, chắc là vậy. Khỏi phải nói là chuyện đó rất… phiền toái. Ý tôi là đối với Viv ấy. Viv lúc nào cũng phải chôn chân ở nhà để chăm sóc đứa nhỏ.”</p>
+<p class="para-vi-sub">“Anh ấy nghiên cứu báo đốm đang có nguy cơ tuyệt chủng hay đại loại thế. Họ kiểu như phải lòng nhau trong một chuyến đi nghiên cứu nhằm cứu lấy con báo đốm cuối cùng còn sống ở Nam Mỹ. Nhưng giờ họ đã có một đứa con, cô ấy thì lúc nào cũng ở nhà, trong khi anh ấy thì đi khắp thế giới để đếm từng con báo đốm, chắc là vậy. Khỏi phải nói là chuyện đó rất… phiền toái. Ý em là đối với Viv ấy. Viv lúc nào cũng phải chôn chân ở nhà để chăm sóc đứa nhỏ.”</p>
 
 <p class="para-en">“Maybe she’s not stuck. Maybe she likes it.”</p>
 
@@ -1050,7 +1054,7 @@
 
 <p class="para-en">“I try to like it,” Lila confesses. “But most nights, Gary doesn’t make it home in time from work and it’s always just me and Mel at dinner. Sometimes, it’s okay. Sometimes we just watch a movie or something. But sometimes, when I make her sit at the table, it’s excruciating.”</p>
 
-<p class="para-vi-sub">“Tôi đã cố để thích nó,” Lila thổ lộ. “Nhưng hầu hết các buổi tối, Gary đều không về nhà kịp giờ ăn tối và lúc nào cũng chỉ có tôi với Juice ngồi ăn cùng nhau. Thỉnh thoảng,Mọi chuyện vẫn ổn. Đôi khi chúng tôi chỉ xem phim hay gì đó. Nhưng đôi khi, khi tôi bắt con bé phải ngồi vào bàn ăn, thì đó thực sự là một cực hình.”</p>
+<p class="para-vi-sub">“Em đã cố để thích nó,” Lila thổ lộ. “Nhưng hầu hết các buổi tối, Gary đều không về nhà kịp giờ ăn tối và lúc nào cũng chỉ có em với Juice ngồi ăn cùng nhau. Thỉnh thoảng, mọi chuyện vẫn ổn. Đôi khi chúng em chỉ xem phim hay gì đó. Nhưng đôi khi, khi em bắt con bé phải ngồi vào bàn ăn, thì đó thực sự là một cực hình.”</p>
 
 <p class="para-en">And she doesn’t know if this is Juice’s fault or her own.</p>
 
@@ -1058,7 +1062,7 @@
 
 <p class="para-en">“She hardly ever speaks to me,” Lila says. “And I never know what to say to her. I ask her about school, about her friends, about why she wants to be called <i>Juice</i> now. But she’s just like, It’s none of your business, which means that it has something to do with her mom, but she won’t say it. She’s just like, Because my name is <i>Juice</i> now, and so I’m supposed to just start calling her Juice?”</p>
 
-<p class="para-vi-sub">“Con bé hầu như chẳng bao giờ nói chuyện với tôi,” Lila nói. “Và tôi chẳng bao giờ biết phải nói gì với nó. Tôi hỏi nó về chuyện trường lớp, về bạn bè, về lý do tại sao bây giờ nó lại muốn được gọi là <i>Juice</i>. Nhưng nó cứ kiểu như, Đó không phải việc của cô, điều đó có nghĩa là chuyện đó có liên quan đến mẹ nó, nhưng nó nhất định không chịu nói. Nó cứ kiểu như, Bởi vì tên tôi bây giờ là <i>Juice</i> rồi, và thế là tôi phải bắt đầu gọi nó là Juice sao?”</p>
+<p class="para-vi-sub">“Con bé hầu như chẳng bao giờ nói chuyện với em,” Lila nói. “Và em chẳng bao giờ biết phải nói gì với nó. Em hỏi nó về chuyện trường lớp, về bạn bè, về lý do tại sao bây giờ nó lại muốn được gọi là <i>Juice</i>. Nhưng nó cứ kiểu như, Đó không phải việc của cô, điều đó có nghĩa là chuyện đó có liên quan đến mẹ nó, nhưng nó nhất định không chịu nói. Nó cứ kiểu như, Bởi vì tên tôi bây giờ là <i>Juice</i> rồi, và thế là em phải bắt đầu gọi nó là Juice sao?”</p>
 
 <p class="para-en">She sighs.</p>
 
@@ -1066,27 +1070,27 @@
 
 <p class="para-en">“I don’t know. Maybe I’m just not very good at being around children. My mother was right. I didn’t even know how to be a child when I was a child. And sometimes I wonder if the people who say they love being around children are lying. It’s like people who claim to like raisins. They just want to be people who like raisins.”</p>
 
-<p class="para-vi-sub">“Tôi không biết nữa. Có lẽ tôi vốn không giỏi việc ở cạnh trẻ con cho lắm. Mẹ tôi đã nói đúng. Ngay cả khi còn là một đứa trẻ, tôi cũng chẳng biết cách làm trẻ con thế nào. Và đôi khi tôi tự hỏi liệu những kẻ suốt ngày lớn tiếng rằng họ thích ở cạnh trẻ con có đang nói dối hay không. Họ cũng giống như những người tuyên bố là mình thích nho khô vậy. Họ chỉ muốn tỏ ra mình là tuýp người thích nho khô mà thôi.”</p>
+<p class="para-vi-sub">“Em không biết nữa. Có lẽ em vốn không giỏi việc ở cạnh trẻ con cho lắm. Mẹ em đã nói đúng. Ngay cả khi còn là một đứa trẻ, em cũng chẳng biết cách làm trẻ con thế nào. Và đôi khi em tự hỏi liệu những kẻ suốt ngày lớn tiếng rằng họ thích ở cạnh trẻ con có đang nói dối hay không. Họ cũng giống như những người tuyên bố là mình thích nho khô vậy. Họ chỉ muốn tỏ ra mình là tuýp người thích nho khô mà thôi.”</p>
 
 <p class="para-en">“I like raisins.”</p>
 
-<p class="para-vi-sub">“Tôi thích nho khô mà.”</p>
+<p class="para-vi-sub">“Chị thích nho khô mà.”</p>
 
 <p class="para-en">“Well, of course you like raisins.”</p>
 
-<p class="para-vi-sub">“Thì, dĩ nhiên là cô thích nho khô rồi.”</p>
+<p class="para-vi-sub">“Thì, dĩ nhiên là chị thích nho khô rồi.”</p>
 
 <p class="para-en">“My hands are like raisins,” Phoebe says, holding up her pruned fingertips.</p>
 
-<p class="para-vi-sub">“Tay tôi trông giống như nho khô rồi đây này,” Phoebe nói và giơ những đầu ngón tay đã nhăn nheo vì ngâm nước của mình lên.</p>
+<p class="para-vi-sub">“Tay chị trông giống như nho khô rồi đây này,” Phoebe nói và giơ những đầu ngón tay đã nhăn nheo vì ngâm nước của mình lên.</p>
 
 <p class="para-en">“You should probably get out of the tub,” Lila says.</p>
 
-<p class="para-vi-sub">“Có lẽ cô nên ra khỏi bồn tắm đi thôi,” Lila nói.</p>
+<p class="para-vi-sub">“Có lẽ chị nên ra khỏi bồn tắm đi thôi,” Lila nói.</p>
 
 <p class="para-en">“But I haven’t even washed my hair yet. To be honest, it’s actually really hard to bathe in this thing. I’ve decided it’s one of those things that looks more romantic than it is.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi còn chưa gội đầu cơ mà. Thật lòng thì, ngâm mình trong cái thứ này thực sự rất khó chịu đấy. Tôi quyết định rằng đây là một trong những thứ trông có vẻ lãng mạn hơn là thực tế.”</p>
+<p class="para-vi-sub">“Nhưng chị còn chưa gội đầu cơ mà. Thật lòng thì, ngâm mình trong cái thứ này thực sự rất khó chịu đấy. Chị quyết định rằng đây là một trong những thứ trông có vẻ lãng mạn hơn là thực tế.”</p>
 
 <p class="para-en">“Like chocolate,” Lila says.</p>
 
@@ -1098,7 +1102,7 @@
 
 <p class="para-en">“And paddleboats. I loathe paddleboats.”</p>
 
-<p class="para-vi-sub">“Cả thuyền đạp nước nữa chứ. Tôi cực kỳ căm ghét thuyền đạp nước.”</p>
+<p class="para-vi-sub">“Cả thuyền đạp nước nữa chứ. Em cực kỳ căm ghét thuyền đạp nước.”</p>
 
 <p class="para-en">The thing she is starting to love about Lila is this: She begins to shampoo Phoebe’s hair without a word and continues her angry chatter in such fixed tones, it becomes soothing to Phoebe.</p>
 
@@ -1106,27 +1110,27 @@
 
 <p class="para-en">“Do you think it’s weird that you’re the only one I can tell all this stuff to?” Lila asks.</p>
 
-<p class="para-vi-sub">“Cô có thấy lạ không khi tôi là người duy nhất mà cô có thể tâm sự tất cả những chuyện này?” Lila hỏi.</p>
+<p class="para-vi-sub">“Chị có thấy lạ không khi chị là người duy nhất mà em có thể tâm sự tất cả những chuyện này?” Lila hỏi.</p>
 
 <p class="para-en">“I wouldn’t say weird,” Phoebe says. “But maybe it’s a little sad.”</p>
 
-<p class="para-vi-sub">“Tôi sẽ không dùng từ lạ đâu,” Phoebe nói. “Nhưng có lẽ hơi đáng buồn thì đúng hơn.”</p>
+<p class="para-vi-sub">“Chị sẽ không dùng từ lạ đâu,” Phoebe nói. “Nhưng có lẽ hơi đáng buồn thì đúng hơn.”</p>
 
 <p class="para-en">“It is sad,” Lila admits. “It’s really sad. And how did that happen? How did I end up becoming a person who has nobody?”</p>
 
-<p class="para-vi-sub">“Đúng là đáng buồn thật,” Lila thừa nhận. “Thực sự rất đáng buồn. Và chuyện này đã xảy ra thế nào cơ chứ? Làm sao mà tôi lại thành ra một kẻ chẳng có lấy một ai bên mình thế này?”</p>
+<p class="para-vi-sub">“Đúng là đáng buồn thật,” Lila thừa nhận. “Thực sự rất đáng buồn. Và chuyện này đã xảy ra thế nào cơ chứ? Làm sao mà em lại thành ra một kẻ chẳng có lấy một ai bên mình thế này?”</p>
 
 <p class="para-en">“You have Gary.”</p>
 
-<p class="para-vi-sub">“Cô vẫn còn Gary cơ mà.”</p>
+<p class="para-vi-sub">“Em vẫn còn Gary cơ mà.”</p>
 
 <p class="para-en">“But I can’t be honest with Gary,” she says. “I can’t tell him that I’m not sure I really like his daughter. That I pretty much hate his sister. That I’m sick and tired of hearing about his dead wife.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi không thể thành thật với Gary được,” cô nói. “Tôi không thể nói với anh ấy rằng tôi không chắc mình thực sự thích con gái anh ấy. Rằng tôi hầu như căm ghét em gái anh ấy. Rằng tôi đã phát ốm và mệt mỏi khi cứ phải nghe hoài về người vợ quá cố của anh ấy.”</p>
+<p class="para-vi-sub">“Nhưng em không thể thành thật với Gary được,” cô nói. “Em không thể nói với anh ấy rằng em không chắc mình thực sự thích con gái anh ấy. Rằng em hầu như căm ghét chị gái anh ấy. Rằng em đã phát ốm và mệt mỏi khi cứ phải nghe hoài về người vợ quá cố của anh ấy.”</p>
 
 <p class="para-en">“What about Nat and Suz? You could tell them.”</p>
 
-<p class="para-vi-sub">“Còn Nat và Suz thì sao? Cô có thể kể với họ mà.”</p>
+<p class="para-vi-sub">“Còn Nat và Suz thì sao? Em có thể kể với họ mà.”</p>
 
 <p class="para-en">“Not really.”</p>
 
@@ -1138,7 +1142,7 @@
 
 <p class="para-en">“When my father died, none of them called,” Lila says.</p>
 
-<p class="para-vi-sub">“Khi bố tôi qua đời, chẳng có ai trong số họ gọi điện cả,” Lila nói.</p>
+<p class="para-vi-sub">“Khi bố em qua đời, chẳng có ai trong số họ gọi điện cả,” Lila nói.</p>
 
 <p class="para-en">They just sent texts. Heart emojis. They said, <i>We’re here for you, Lila</i>, and Suz sent a picture of the Little Worm like she was the moral support. And it weirdly made Lila feel like she couldn’t call them. All she wanted to do was sob in their arms like she had once in high school. But the time for that seemed to be over.</p>
 
@@ -1146,15 +1150,15 @@
 
 <p class="para-en">“Ever since I arrived here, I’ve had this feeling that we’re just pretending to still be friends. Reenacting the friendship the way it used to be, when we were actually close,” Lila says.</p>
 
-<p class="para-vi-sub">“Kể từ khi đặt chân đến đây, lúc nào tôi cũng có cảm giác rằng chúng ta chỉ đang giả vờ như vẫn còn là bạn thân. Đang diễn lại vở kịch về tình bạn giống như trước kia, khi mà chúng ta thực sự thân thiết,” Lila nói.</p>
+<p class="para-vi-sub">“Kể từ khi đặt chân đến đây, lúc nào em cũng có cảm giác rằng chúng em chỉ đang giả vờ như vẫn còn là bạn thân. Đang diễn lại vở kịch về tình bạn giống như trước kia, khi mà chúng em thực sự thân thiết,” Lila nói.</p>
 
 <p class="para-en">That was how Phoebe felt at the end of her marriage. They reenacted the beginning—went on date nights, invited each other to things. Matt was always saying, Sure, yes, come to happy hour. But she could feel how he didn’t really care if she came. Her presence had somehow become irrelevant to her own husband, and how are people supposed to tolerate that kind of pain? How are you supposed to go from being the center of someone’s world to being irrelevant? To sobbing in your best friend’s arms unthinkingly to being afraid to call them after your father dies? Phoebe doesn’t know. She, too, was caught unprepared by that kind of loss.</p>
 
-<p class="para-vi-sub">Đó cũng là cảm giác của Phoebe vào giai đoạn cuối cuộc hôn nhân của cô. Họ diễn lại màn khởi đầu của mối quan hệ, cùng nhau đi hẹn hò, mời đối phương tham gia các buổi tiệc tùng. Matt lúc nào cũng nói, Được chứ, vâng, cứ đến buổi tiệc tối đi em. Nhưng cô có thể cảm nhận được rằng anh ấy thực sự chẳng màng tới việc cô có đến hay không. Sự hiện diện của cô từ lúc nào đã trở nên vô nghĩa đối với chính người chồng của mình, và con người ta phải chịu đựng nỗi đau kiểu đó bằng cách nào cơ chứ? Làm sao bạn có thể chuyển từ vị trí là trung tâm thế giới của ai đó thành một kẻ vô tích sự? Từ việc cứ thế Oà khóc trong vòng tay bạn thân mà chẳng mùng mẩy gì cho đến việc sợ hãi chẳng dám gọi cho họ sau khi bố mình qua đời? Phoebe không biết. Chính cô cũng bị đánh gục một cách bất ngờ trước loại mất mát đó.</p>
+<p class="para-vi-sub">Đó cũng là cảm giác của Phoebe vào giai đoạn cuối cuộc hôn nhân của cô. Họ diễn lại màn khởi đầu của mối quan hệ, cùng nhau đi hẹn hò, mời đối phương tham gia các buổi tiệc tùng. Matt lúc nào cũng nói, Được chứ, vâng, cứ đến buổi tiệc tối đi em. Nhưng cô có thể cảm nhận được rằng anh ấy thực sự chẳng màng tới việc cô có đến hay không. Sự hiện diện của cô từ lúc nào đã trở nên vô nghĩa đối với chính người chồng của mình, và con người ta phải chịu đựng nỗi đau kiểu đó bằng cách nào cơ chứ? Làm sao bạn có thể chuyển từ vị trí là trung tâm thế giới của ai đó thành một kẻ vô tích sự? Từ việc cứ thế oà khóc trong vòng tay bạn thân mà chẳng mùng mẩy gì cho đến việc sợ hãi chẳng dám gọi cho họ sau khi bố mình qua đời? Phoebe không biết. Chính cô cũng bị đánh gục một cách bất ngờ trước loại mất mát đó.</p>
 
 <p class="para-en">“That’s sort of how it is with everyone here,” Lila says. “Like I’m pretending. Acting out this idea of what we once were or what we could be.”</p>
 
-<p class="para-vi-sub">“Mọi chuyện với tất cả mọi người ở đây cũng xấp xỉ như vậy đấy,” Lila nói. “Cứ như thể tôi đang diễn kịch vậy. Đang diễn lại cái ý niệm về việc chúng ta từng là ai hoặc chúng ta có thể trở thành ai.”</p>
+<p class="para-vi-sub">“Mọi chuyện với tất cả mọi người ở đây cũng xấp xỉ như vậy đấy,” Lila nói. “Cứ như thể em đang diễn kịch vậy. Đang diễn lại cái ý niệm về việc chúng ta từng là ai hoặc chúng ta có thể trở thành ai.”</p>
 
 <p class="para-en">Phoebe wants to ask what she pretends to be with Gary. But it doesn’t seem right. She’s in a fragile state. It feels like one small pull of the thread, and Lila will unravel. And Lila surely has to go back out to her cocktail party. It’s only eight.</p>
 
@@ -1202,27 +1206,27 @@
 
 <p class="para-en">Lila doesn’t smile. She doesn’t seem to like the joke. “Will you do it?”</p>
 
-<p class="para-vi-sub">Lila không cười. Cô có vẻ không thích lời đùa đó. “Cô làm nhé?”</p>
+<p class="para-vi-sub">Lila không cười. Cô có vẻ không thích lời đùa đó. “Chị làm nhé?”</p>
 
 <p class="para-en">“I’m not in the wedding.”</p>
 
-<p class="para-vi-sub">“Tôi không có trong danh sách đám cưới.”</p>
+<p class="para-vi-sub">“Chị không có trong danh sách đám cưới.”</p>
 
 <p class="para-en">“I’m the bride. I get to decide who’s in the wedding. It’s like being the president of your very own country. So ta-da, now you’re in the wedding.”</p>
 
-<p class="para-vi-sub">“Tôi là cô dâu. Tôi có quyền quyết định ai sẽ tham gia đám cưới. Nó giống như việc bạn làm tổng thống của đất nước của riêng mình vậy. Thế nên tèn ten, bây giờ cô đã có mặt trong đám cưới rồi đấy.”</p>
+<p class="para-vi-sub">“Em là cô dâu. Em có quyền quyết định ai sẽ tham gia đám cưới. Nó giống như việc chị làm tổng thống của đất nước của riêng mình vậy. Thế nên tèn ten, bây giờ chị đã có mặt trong đám cưới rồi đấy.”</p>
 
 <p class="para-en">“But I don’t even know you,” Phoebe says, and as soon as she says it, Phoebe regrets saying it. She knows it’s no longer true.</p>
 
-<p class="para-vi-sub">Phoebe nói: “Nhưng thậm chí tôi còn không biết cô là ai,” và ngay khi thốt lên, Phoebe đã hối hận. Cô biết điều đó không còn đúng nữa.</p>
+<p class="para-vi-sub">Phoebe nói: “Nhưng thậm chí chị còn không biết em là ai,” và ngay khi thốt lên, Phoebe đã hối hận. Cô biết điều đó không còn đúng nữa.</p>
 
 <p class="para-en">“You already know me better than most people at this wedding,” Lila says. “Except for maybe my high school guidance counselor.”</p>
 
-<p class="para-vi-sub">Lila nói: “Cô đã biết tôi rõ hơn hầu hết mọi người có mặt trong đám cưới này rồi. Trừ có lẽ thầy tư vấn tâm lý thời trung học của tôi.”</p>
+<p class="para-vi-sub">Lila nói: “Chị đã biết em rõ hơn hầu hết mọi người có mặt trong đám cưới này rồi. Trừ có lẽ thầy tư vấn tâm lý thời trung học của em.”</p>
 
 <p class="para-en">“Why did you invite your high school guidance counselor, by the way?”</p>
 
-<p class="para-vi-sub">“Nhân tiện, sao cô lại mời thầy tư vấn thời trung học thế?”</p>
+<p class="para-vi-sub">“Nhân tiện, sao em lại mời thầy tư vấn thời trung học thế?”</p>
 
 <p class="para-en">“Is that weird?”</p>
 
@@ -1234,7 +1238,7 @@
 
 <p class="para-en">“Well, he’s local. And he was really very kind to me when I was a kid,” she says. “A better mother to me than my own mother. Even gave me his sweater once when I got my period on his office chair.”</p>
 
-<p class="para-vi-sub">“Thì, thầy ấy ở gần đây. Hồi nhỏ thầy ấy rất tử tế với tôi,” cô nói. “Còn giống mẹ tôi hơn cả mẹ ruột ấy chứ. Thậm chí thầy ấy từng cho tôi chiếc áo len khi tôi bị kỳ kinh nguyệt dính vào ghế văn phòng.”</p>
+<p class="para-vi-sub">“Thì, thầy ấy ở gần đây. Hồi nhỏ thầy ấy rất tử tế với em,” cô nói. “Còn giống mẹ em hơn cả mẹ ruột ấy chứ. Thậm chí thầy ấy từng cho em chiếc áo len khi em bị kỳ kinh nguyệt dính vào ghế văn phòng.”</p>
 
 <p class="para-en">“Even stranger.”</p>
 
@@ -1242,11 +1246,11 @@
 
 <p class="para-en">“You think so?”</p>
 
-<p class="para-vi-sub">“Cô nghĩ vậy thật à?”</p>
+<p class="para-vi-sub">“Chị nghĩ vậy thật à?”</p>
 
 <p class="para-en">“I think he probably got the invitation and was like, Wait, what? The girl who menstruated on my chair?”</p>
 
-<p class="para-vi-sub">“Tôi nghĩ chắc thầy ấy nhận được thiệp mời và kiểu như, Chờ đã, gì cơ? Đứa con gái từng hành kinh lên ghế của mình á?”</p>
+<p class="para-vi-sub">“Chị nghĩ chắc thầy ấy nhận được thiệp mời và kiểu như, Chờ đã, gì cơ? Đứa con gái từng hành kinh lên ghế của mình á?”</p>
 
 <p class="para-en">Lila laughs loudly and looks truly happy for a second.</p>
 
@@ -1254,7 +1258,7 @@
 
 <p class="para-en">“He probably did,” she says. “Because actually it is a little weird. I finally had a chance to talk to him, and he was so familiar and unfamiliar at the same time, halfway through the convo, I was like, Wait, who are you? Why did I <i>invite</i> you?”</p>
 
-<p class="para-vi-sub">Cô nói: “Chắc thầy ấy nghĩ thế thật. Bởi vì thực ra thì nó cũng hơi kỳ lạ. Cuối cùng tôi cũng có cơ hội nói chuyện với thầy ấy, và thầy vừa quen thuộc lại vừa xa lạ cùng một lúc, đi được nửa cuộc trò chuyện, tôi kiểu như, Chờ đã, thầy là ai vậy? Tại sao tôi lại <i>mời</i> thầy cơ chứ?”</p>
+<p class="para-vi-sub">Cô nói: “Chắc thầy ấy nghĩ thế thật. Bởi vì thực ra thì nó cũng hơi kỳ lạ. Cuối cùng em cũng có cơ hội nói chuyện với thầy ấy, và thầy vừa quen thuộc lại vừa xa lạ cùng một lúc, đi được nửa cuộc trò chuyện, em kiểu như, Chờ đã, thầy là ai vậy? Tại sao mình lại <i>mời</i> thầy cơ chứ?”</p>
 
 <p class="para-en">She laughs again and it’s good to hear Lila make fun of herself. But Phoebe is starting to understand that on some nights, Lila is probably the loneliest girl in the world, just like Phoebe. And maybe they are all lonely. Maybe this is just what it means to be a person. To constantly reckon with being a single being in one body. Maybe everybody sits up at night and creates arguments in their head for why they are the loneliest person in the world. Lila has no maid of honor and Phoebe has never been a maid of honor. It has always been a mark of shame for her, that no woman in this world was willing to claim her.</p>
 
@@ -1262,11 +1266,11 @@
 
 <p class="para-en">“Anyway. It’s not even like you have to do that much,” Lila says. “Viv already planned everything. You’ll see tomorrow, it’s all in the binder. You just kind of have to like, read the binder and then stand there and do what Viv would have done.”</p>
 
-<p class="para-vi-sub">Lila nói: “Dù sao đi nữa. Cô thậm chí chẳng phải làm gì nhiều đâu. Viv đã lên sẵn kế hoạch hết rồi. Ngày mai cô sẽ thấy, tất cả đều có trong cuốn binder đó. Cô chỉ việc kiểu như, đọc cuốn binder rồi đứng đó và làm những gì Viv đáng lẽ phải làm.”</p>
+<p class="para-vi-sub">Lila nói: “Dù sao đi nữa. Chị thậm chí chẳng phải làm gì nhiều đâu. Viv đã lên sẵn kế hoạch hết rồi. Ngày mai chị sẽ thấy, tất cả đều có trong cuốn binder đó. Chị chỉ việc kiểu như, đọc cuốn binder rồi đứng đó và làm những gì Viv đáng lẽ phải làm.”</p>
 
 <p class="para-en">“You do remember that I came to this hotel to kill myself,” Phoebe says.</p>
 
-<p class="para-vi-sub">Phoebe nói: “Cô nhớ là tôi đến khách sạn này để tự tử chứ.”</p>
+<p class="para-vi-sub">Phoebe nói: “Em nhớ là chị đến khách sạn này để tự tử chứ.”</p>
 
 <p class="para-en">Saying it aloud makes her feel very far away from that woman who put on her green dress and came here to die—to think of someone being in that much pain. To think of herself walking in here like she had no other option. Phoebe wants to hug that woman, not hurt her.</p>
 
@@ -1278,11 +1282,11 @@
 
 <p class="para-en">“I’ll do it,” Phoebe says. Saying it aloud feels like grabbing on to something.</p>
 
-<p class="para-vi-sub">Phoebe nói: “Tôi sẽ làm.” Nói ra điều đó giống như việc với lấy một chiếc phao cứu sinh vậy.</p>
+<p class="para-vi-sub">Phoebe nói: “Chị sẽ làm.” Nói ra điều đó giống như việc với lấy một chiếc phao cứu sinh vậy.</p>
 
 <p class="para-en">“Yes!” Lila says. She claps her hands and Phoebe starts to feel a tiny bit excited. Phoebe does not have to go back—not yet. “Tomorrow morning, you can join us for the bridal brunch in the conservatory.”</p>
 
-<p class="para-vi-sub">“Tuyệt quá!” Lila nói. Cô vỗ tay và Phoebe bắt đầu cảm thấy phấn khích một chút. Phoebe không phải quay về ngay lúc này. “Sáng mai, cô có thể tham gia buổi tiệc trà cô dâu cùng chúng tôi ở phòng kính nhé.”</p>
+<p class="para-vi-sub">“Tuyệt quá!” Lila nói. Cô vỗ tay và Phoebe bắt đầu cảm thấy phấn khích một chút. Phoebe không phải quay về ngay lúc này. “Sáng mai, chị có thể tham gia buổi tiệc trà cô dâu cùng chúng em ở phòng kính nhé.”</p>
 
 <p class="para-en">A ridiculous sentence if Phoebe ever heard one. But she’s cheered by the thought.</p>
 
@@ -1290,7 +1294,7 @@
 
 <p class="para-en">“Only if you get this shampoo out of my hair,” Phoebe says.</p>
 
-<p class="para-vi-sub">Phoebe nói: “Chỉ khi cô xả sạch dầu gội trên đầu tôi đã.”</p>
+<p class="para-vi-sub">Phoebe nói: “Chỉ khi em xả sạch dầu gội trên đầu chị đã.”</p>
 
 <p class="para-en">Lila holds the shower head above Phoebe. The water is warm down her back. Phoebe sinks deeper into the tub.</p>
 
@@ -1298,7 +1302,7 @@
 
 <p class="para-en">“Have you tried the back scrubber?” Lila asks.</p>
 
-<p class="para-vi-sub">Lila hỏi: “Cô đã thử dùng bông tắm kỳ lưng chưa?”</p>
+<p class="para-vi-sub">Lila hỏi: “Chị đã thử dùng bông tắm kỳ lưng chưa?”</p>
 
 <p class="para-en">“There’s no back scrubber.”</p>
 
@@ -1306,23 +1310,23 @@
 
 <p class="para-en">“They didn’t give you a back scrubber?”</p>
 
-<p class="para-vi-sub">“Họ không đưa bông tắm cho cô à?”</p>
+<p class="para-vi-sub">“Họ không đưa bông tắm cho chị à?”</p>
 
 <p class="para-en">“I don’t need a back scrubber.”</p>
 
-<p class="para-vi-sub">“Tôi không cần bông tắm.”</p>
+<p class="para-vi-sub">“Chị không cần bông tắm.”</p>
 
 <p class="para-en">“How else were you planning on scrubbing your back?”</p>
 
-<p class="para-vi-sub">“Thế cô định kỳ lưng bằng cách nào?”</p>
+<p class="para-vi-sub">“Thế chị định kỳ lưng bằng cách nào?”</p>
 
 <p class="para-en">“Do I need to scrub my back?”</p>
 
-<p class="para-vi-sub">“Tôi có cần phải kỳ lưng không?”</p>
+<p class="para-vi-sub">“Chị có cần phải kỳ lưng không?”</p>
 
 <p class="para-en">“Have you never washed your back before?”</p>
 
-<p class="para-vi-sub">“Từ trước đến nay cô chưa từng kỳ lưng bao giờ à?”</p>
+<p class="para-vi-sub">“Từ trước đến nay chị chưa từng kỳ lưng bao giờ à?”</p>
 
 <p class="para-en">“Maybe not?”</p>
 
@@ -1338,7 +1342,9 @@
 
 <p class="para-en">Just submit, Phoebe thinks. Put your head back and close your eyes and let the water rush down your body. Let the bride wash the shampoo out of your hair if that’s what the bride wants to do. You’re the maid of honor now.</p>
 
-<p class="para-vi-sub">Cứ nộp bài đi, Phoebe nghĩ. Ngả đầu ra sau, nhắm mắt lại và để dòng nước tuôn xối xả lên cơ thể. Hãy để cô dâu gội sạch dầu gội trên tóc bạn nếu đó là điều cô dâu muốn làm. Bây giờ bạn chính là phù dâu danh dự rồi.</p>
+<p class="para-vi-sub">Cứ thuận theo đi, Phoebe nghĩ. Ngả đầu ra sau, nhắm mắt lại và để dòng nước tuôn xối xả lên cơ thể. Hãy để cô dâu gội sạch dầu gội trên tóc mình nếu đó là điều cô dâu muốn làm. Bây giờ mình chính là phù dâu danh dự rồi.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en"><span class="caps">B</span><small>Y THE TIME</small> Phoebe turns her phone on, it is dark outside. She sits on the balcony and listens to all the messages come in at once. A familiar ding, yet the phone feels foreign in her hand, like some object pulled from an archaeological dig, filled with messages that no longer have anything to do with her.</p>
 

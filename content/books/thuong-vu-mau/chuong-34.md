@@ -114,6 +114,8 @@ Cuối cùng Ippeas cũng lên tiếng. “Còn cha tôi thì sao?” cậu ta t
 
 Ippeas cúi đầu và hít một hơi thật sâu. “Vậy thì, đi thôi.”
 
+<hr class="scene-break"/>
+
 Khu bệnh xá của y sĩ đã hoàn toàn thay đổi kể từ ngày Jalin Burav thực hiện cuộc đào tẩu điên cuồng của cậu ta. Giờ đây, hành lang nào cũng có một lính gác chấp pháp túc trực, và mọi cánh cửa đều được trang bị những ổ khóa mới. Ngay cả đối với tôi, việc đi lại qua các hành lang này cũng đồng nghĩa với việc phải liên tục xin phép để được vào, được ra, phải có người hộ tống, cùng hàng tá thủ tục rườm rà khác. Dù tôi biết rõ Trikao Armenta đã suy kiệt nghiêm trọng sau cú đâm thương của Ana, các y sĩ vẫn không dám lơ là cảnh giác với ông ta.
 
 Tôi bước vào phòng bệnh của ông ta. Sự bài trí dành cho Trikao dường như là một tấm gương phản chiếu u tối từ người em gái của ông ta. Ông ta nằm run rẩy trên chiếc cáng treo của y sĩ, với vô số ống dẫn màu sẫm bóng loáng cắm sâu vào da thịt, mỗi ống lại nối dài xuống một sinh thể đang phập phồng co bóp trong chiếc hũ thủy tinh. Thật kỳ quặc làm sao khi người ta dốc sức cứu chữa cho thể xác ông ta, nhưng chỉ là để ông ta có đủ sức khỏe khi bước lên đoạn đầu đài.
@@ -149,6 +151,8 @@ Tôi im lặng.
 Một tiếng thở khò khè yếu ớt, đầy đau khổ rít ra từ miệng Trikao. “Nhưng… không. Không, ta… ta làm thế là vì nó. Chẳng lẽ nó không thấy sao? Ta… ta làm thế là vì nó…”
 
 “Ông nói vậy,” tôi đáp. “Nhưng cậu ấy muốn tôi chuyển lời tới ông rằng: cậu ấy chưa từng cầu xin điều đó.”
+
+<hr class="scene-break"/>
 
 Tôi khập khiễng bước về phía Quán Người Chăn Bò Xanh, Ana bấu chặt lấy cánh tay tôi.
 

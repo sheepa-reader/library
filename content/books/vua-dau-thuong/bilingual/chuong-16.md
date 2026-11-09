@@ -120,6 +120,8 @@
 
 <p class="para-vi-sub">“Thế bố đứa bé có giúp gì không?” Arthur hỏi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“Not sure who it is,” she said. “I’ll have to see if the kid is Black. That’ll narrow it down.” She laughed. There was no humor or happiness in it. “I hope it’s a boy and he does something good with his life. Someone who rescues cats from trees instead of swerving to hit them. Ronnie does that. He keeps score on his dashboard. Two points for a cat, four for a dog.”</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ “Chẳng biết đứa nào là bố nữa,” cô nói. “Tôi phải xem đứa bé có phải da đen không đã. Như thế mới thu hẹp danh sách lại được.” Tana bật cười, một tiếng cười hoàn toàn vắng bóng sự hài hước hay niềm vui. “Tôi chỉ mong đó là một đứa con trai và nó sẽ sống một cuộc đời tử tế. Một đứa biết giải cứu mèo kẹt trên cây thay vì bẻ ngoặt vô lăng để cán chết chúng. Ronnie toàn làm trò đó. Hắn tính điểm ngay trên bảng điều khiển xe: hai điểm cho một con mèo, bốn điểm cho một con chó.”</p>
@@ -163,4 +165,3 @@
 <p class="para-en">“Hey, Arthur. You could make both our lives easier and kill my sister yourself.” She stared idly at the ceiling, watching shadows trickle across the plaster. “Something to think about.”</p>
 
 <p class="para-vi-sub">“Này, Arthur. Anh có thể giúp cuộc sống của cả hai chúng ta dễ thở hơn bằng cách tự tay kết liễu con chị tôi đấy.” Tana thẫn thờ nhìn lên trần nhà, theo dõi những vệt bóng tối chảy qua lớp vữa trát. “Cũng đáng để suy ngẫm đấy chứ.”</p>
-

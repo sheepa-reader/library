@@ -84,6 +84,8 @@
 
 <p class="para-vi-sub">“Mỗi năm họ đốt nó một lần,” Tauri nói. “Ý tôi là đống xương đó. Đốt sạch gò xương thành tro và phân bón. Chúng tôi quả thực có nhu cầu sử dụng các tài nguyên sinh học này, nhưng…” Ông ta nhún vai. “Các xưởng lột da sản xuất ra quá nhiều. Lượng xương, da, enzyme, hóa chất điều chế cùng nhiều thứ khác vượt xa mức mà Bộ Sinh dược có thể đưa vào sử dụng hiệu quả. Thế nên, cách dễ nhất là cứ để chúng thối rữa ở đây rồi thỉnh thoảng châm lửa đốt. Giờ thì cậu đã hiểu lý do vì sao người thuộc Viện Orbiis chúng tôi chẳng mấy khi bén mảng tới các tuyến đường phía nam của trang trại gia tộc Armenta rồi đấy, nhất là khi gió thổi ngược hướng. Tôi sẽ giục họ đi nhanh hơn.” Ông ta cất tiếng cười ảm đạm. “Thật nản lòng làm sao khi nghĩ rằng việc quật mộ còn ít kinh hãi hơn là quanh quẩn ở cái chốn này!”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Finally, the tall stonewood walls of the Armenta sepulcher emerged above the fields before us. How stark it was to see so much dark black rising from the green grass, set against the brilliant blue sky. It gave me the feeling of approaching some temple or haven of ancient priests.</p>
 
 <p class="para-vi-sub">Cuối cùng, những bức tường bằng đá và gỗ cao vút của lăng mộ gia tộc Armenta cũng nhô lên phía trên những cánh đồng trước mặt chúng tôi. Thật tương phản đến gai người khi chứng kiến một khối đen thẫm khổng lồ vươn cao trên thảm cỏ xanh tươi, nổi bật trên nền trời xanh rực rỡ. Nó mang lại cho tôi cảm giác như đang tiến lại gần một ngôi đền hay thánh địa của các tư tế cổ xưa.</p>
@@ -176,6 +178,8 @@
 
 <p class="para-vi-sub">“Bởi vì,” Tauri thở dài, “tôi thà *không* phải đối mặt với một cái xác rữa mục nát ngay từ đầu! Tôi muốn thử làm quen dần với cái mùi quái quỷ này đã.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The Orbiis officers produced a set of pots and began to carefully paint the seams of the cocoon—or the tavoskoli as Tauri had called it. There was a slight hissing as they daubed it on. Then they stepped back and waited.</p>
 
 <p class="para-vi-sub">Các viên chức Viện Orbiis lấy ra một bộ hũ dung dịch và bắt đầu cẩn thận quét lên các đường nối của chiếc kén, hay còn gọi là *tavoskoli* như cách Tauri vừa gọi. Tiếng rít nhẹ vang lên khi họ phết dung dịch vào. Sau đó, họ lùi lại và chờ đợi.</p>
@@ -215,6 +219,8 @@
 <p class="para-en">“We will cut away the stalks to burn, and then review the body properly,” said Tauri to me. “But first, let’s open Sagma’s next to see if she, too, was infected…”</p>
 
 <p class="para-vi-sub">“Chúng ta sẽ cắt bỏ những cuống nấm này để đem đi hỏa táng, sau đó sẽ khám nghiệm cái xác một cách đàng hoàng,” Tauri nói với tôi. “Nhưng trước tiên, hãy mở chiếc kén của Sagma tiếp theo để xem liệu cô ấy có bị nhiễm hay không…”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">They went through the procedure again, painting her cocoon, breaking it open, and lifting the lid. Much like Gevma, Sagma’s coffin was swarming with dark, ancient fungal growths, though these had formed something of a halo about her head. Her pale, delicate face surfaced from their coils in such a fashion that she looked like she suffered a nightmare as she slept and tossed and turned upon her pillow.</p>
 
@@ -279,6 +285,8 @@
 <p class="para-en">Then we paused.</p>
 
 <p class="para-vi-sub">Rồi tất cả chúng tôi đều khựng lại.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Whereas the other two had sported a great boiling of old, rotting stalks at the tops of their caskets, for Lyimo the showing was much, much reduced. A bare few handful of stalks had wormed their way out of his skull, hardly more than a few smallspan long. It made me think of a seed that had just tasted rain and put a few tiny, delicate leaves out to catch the sun.</p>
 

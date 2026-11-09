@@ -56,6 +56,8 @@
 
 <p class="para-vi-sub">Nghĩ vậy, tôi rút một chai chất tỉnh trí *Clariphage* nhỏ từ trong túi ra và nhấp một ngụm. Tôi nhăn mặt khi thứ chất kích thích ấy sôi sục trong dạ dày, khẽ rùng mình một cái rồi tiếp tục đăm đăm nhìn ra con phố, những ngọn đèn, và những mái nhà ướt đẫm của Lacanthim khi đêm đen hoàn toàn sập xuống.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The hours passed. Lacanthim surged and sang and sighed below me. How strange it was to see the field hands and the drovers and the flensing folk come to the town for their daily tasks, even though wild madness had swept over the fields and forests beyond. Their complacency struck a sour note with me—for of course they labored on. Beef was too valuable. It would surely overcome this string of deaths, eventually.</p>
 
 <p class="para-vi-sub">Mấy giờ đồng hồ trôi qua. Lacanthim bên dưới tôi vẫn nhộn nhịp, ca hát và thở dài. Thật kỳ lạ làm sao khi chứng kiến những người làm nông, những người lùa gia súc và những thợ xẻ thịt vẫn đổ về thị trấn để thực hiện công việc hằng ngày, cho dù cơn điên rồ hoang dại đã quét qua những cánh đồng và khu rừng phía xa. Sự thản nhiên của họ để lại trong tôi một cảm giác chua chát, nhưng dĩ nhiên là họ phải tiếp tục lao động rồi. Thịt bò quá đỗi đắt giá. Rốt cuộc thì thứ giá trị đó chắc chắn sẽ lấn át được chuỗi cái chết này thôi.</p>
@@ -244,6 +246,8 @@
 
 <p class="para-vi-sub">Nhưng trước khi kịp bước xuống dù chỉ một bậc, tôi đã nghe thấy tiếng hát ấy, và bóng tối lập tức bao trùm lấy tôi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I was again standing in my chambers in the Green Drover, stripped to the waist. I could not move. But this time it was not as if my bones were leaden, or frozen in space: instead, to not move, to be still, to keep my limbs precisely where they were, was the most beautiful thing I could imagine.</p>
 
 <p class="para-vi-sub">Tôi lại thấy mình đứng trong căn phòng tại Quán Người Chăn Bò Xanh, mình trần đến thắt lưng. Tôi không thể cử động. Thế nhưng lần này, cảm giác không giống như xương cốt đang nặng trĩu như chì hay bị đông cứng giữa không trung. Ngược lại, không cử động, giữ im lặng, duy trì các chi ở chính xác vị trí hiện tại lại là điều tuyệt mỹ nhất mà tôi có thể tưởng tượng ra.</p>
@@ -355,6 +359,8 @@
 <p class="para-en">A shadow moved at the foot of the stairs. Then, cautiously, silently, he ascended to me.</p>
 
 <p class="para-vi-sub">Một bóng đen khẽ lay động nơi chân cầu thang. Rồi, bằng sự thận trọng và lặng lẽ, hắn từng bước tiến lên phía tôi.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">He had a pale blue cloak about his shoulders, as well as the helmet he’d worn when I’d first glimpsed him, standing weary but proud before the doors of the Lacanthim jail. With his blue cloak and cap, I realized he looked a good deal like a custodus in the dark, which surely had made it easier for him to slip inside. As he climbed the stairs with hardly a sound, I saw he did not bear his lance tonight, but a short sword, and a tool that I recognized right away: a cat pipe, just like the one I’d seen outside mere seconds ago.</p>
 

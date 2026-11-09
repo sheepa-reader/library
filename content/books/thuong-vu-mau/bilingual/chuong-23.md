@@ -188,6 +188,8 @@
 
 <p class="para-vi-sub">Tauri há miệng định nói gì đó, nhưng rồi lại ngậm miệng, gật đầu và bảo: “Vậy tôi sẽ chuẩn bị khởi hành,” rồi nhanh chóng bước đi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I guided Ana back to the Green Drover just as dawn began to bleed through the eastern skies. She was so lost in contemplation that I didn’t dare speak once, even though the past hours had put many thoughts in my mind.</p>
 
 <p class="para-vi-sub">Tôi dẫn đường đưa Ana trở lại Quán Người Chăn Bò Xanh ngay khi những tia sáng bình minh đầu tiên bắt đầu rỉ qua bầu trời phía đông. Bà chìm sâu vào suy tư đến mức tôi không dám mở lời lấy một câu, dù những sự việc diễn ra trong vài giờ qua đã gieo vào tâm trí tôi vô vàn suy nghĩ.</p>

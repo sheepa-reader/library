@@ -64,6 +64,8 @@
 
 <p class="para-vi-sub">“Thế nên hãy cảnh giác, và ăn nói cho cẩn thận, nhóc!” Ana nói. “Đừng làm phật lòng nữ chủ nhân của ngôi nhà, người mà theo như chúng ta được nghe kể, là kẻ có thể chất vô cùng mong manh…” Bà quay khuôn mặt bịt kín dải băng về phía khung cửa sổ đóng chặt. “…và rõ ràng, cả tâm trí cũng vậy.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The home of the Armentas—the structure known as “Aimafall”—was a massive, sprawling thing that had obviously been added onto for over a century, as the styles of fretvine, stonewood, and old-fashioned brick were strikingly different from portion to portion. The southern great hall was the most recent bit, and sported enormous glass windows of pane glass—still a rare luxury in most of the Empire. But all the glass windows were blocked on the inside, with great sheets or curtains pinned up to keep out the light. A strange choice, to build features of such elegance, then cover them entirely.</p>
 
 <p class="para-vi-sub">Dinh thự của gia tộc Armenta, cấu trúc được biết đến với cái tên “Aimafall”, là một công trình đồ sộ, trải rộng, rõ ràng đã được xây cất thêm trong suốt hơn một thế kỷ, bởi phong cách của các kết cấu Dây leo Fretvine, gỗ đá và gạch kiểu cổ có sự khác biệt rõ rệt giữa phần này với phần khác. Đại sảnh phía nam là phần mới được xây dựng gần đây nhất, phô diễn những khung cửa sổ bằng kính tấm khổng lồ, một thứ xa xỉ phẩm vẫn còn vô cùng hiếm hoi ở hầu hết các vùng của Đế quốc. Thế nhưng tất cả các cửa sổ kính ấy đều bị che kín từ bên trong bằng những tấm vải lớn hoặc những bức rèm dày ghim chặt để ngăn ánh sáng lọt vào. Một sự lựa chọn kỳ quặc, khi dựng lên những chi tiết thanh nhã đến thế rồi lại che khuất chúng hoàn toàn.</p>
@@ -119,6 +121,8 @@
 <p class="para-en">“I’m not sure why you worried so, Din,” said Ana with a sniff. “My diplomacy skills seem to be very adequate so far.”</p>
 
 <p class="para-vi-sub">“Ta không hiểu sao cậu lại lo lắng đến thế, Din,” Ana khịt mũi nói. “Năng lực ngoại giao của ta xem ra cho đến giờ vẫn vô cùng đắc dụng đấy chứ.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">The air within Aimafall was close, dark, and musty. The number of lamps were few, and almost no window was left open, so the light was very poor. I squinted to peer about—and then realized hundreds of glass eyes were staring back at me.</p>
 
@@ -315,6 +319,8 @@
 <p class="para-en">We walked to the cracked door, Osumlik sputtering on behind us, and entered.</p>
 
 <p class="para-vi-sub">Chúng tôi bước về phía cánh cửa hé mở, Osumlik vẫn lầm bầm bực bội bám theo phía sau, và bước vào trong.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">The room within was not at all what I’d expected of a prime gentryfolk’s chambers. It appeared spacious—but it was hard to tell, as coils and drapes of mosses hung from the ceiling so densely it was like passing through a jungle.</p>
 

@@ -44,6 +44,8 @@
 
 <p class="para-vi-sub">“Cậu hiểu đúng rồi đấy. Nhưng tôi nhắc lại, có khi chúng ta chẳng bao giờ phải dùng tới mấy công cụ tàn nhẫn này đâu, trừ phi vị Học sĩ của cậu nhất quyết không chịu chỉ ra cách tìm thấy Jalin.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">When we arrived at the vault, we discovered that Ana had set up something of a display for us, with six select parchments placed in a row before where she sat on the floor.</p>
 
 <p class="para-vi-sub">Khi chúng tôi tới căn hầm ngầm, Ana đã bày sẵn một thứ gì đó tựa như trận đồ cho cả đội: sáu cuộn da dê được lựa chọn tỉ mỉ, xếp thành một hàng ngay ngắn phía trước chỗ bà đang ngồi xếp bằng trên sàn nhà.</p>
@@ -127,6 +129,8 @@
 <p class="para-en">“Please do so, sir,” said Ana. “Though I do request that Din here tarry a bit with me, yet again.”</p>
 
 <p class="para-vi-sub">“Xin cứ tự nhiên, thưa ngài,” Ana nói. “Tuy nhiên, tôi xin phép giữ Din ở lại đây thêm một chút nữa.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I stood in the vault, expecting Ana to deliver some other grave suspicion of Commander Tauri. Instead, she fumbled in her skirts, produced a small leather satchel, and opened it and dumped it into her hands.</p>
 

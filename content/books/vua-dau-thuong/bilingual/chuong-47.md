@@ -36,6 +36,8 @@
 
 <p class="para-vi-sub">Rồi thì, năm ngày trước buổi dạ vũ của Gwen, Llewellyn Wren hụt chân ngã nhào khi đang bước xuống những bậc thang phía trước.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Arthur got the whole story later from Colin.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Arthur phải nghe lại toàn bộ câu chuyện từ Colin sau đó.</p>
@@ -91,6 +93,8 @@
 <p class="para-en">No one was ever in charge of a dragon. Some snakes were too big to catch by the tail.</p>
 
 <p class="para-vi-sub">Chưa từng có ai nắm quyền kiểm soát được một con rồng. Có những con rắn quá lớn để có thể tóm lấy đuôi.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Driving the ’49 Cadillac was like steering a float in a parade, it was that big. Arthur pointed it into Gogan, and rolled with the canvas top down and warm, summery air blasting in over him. Gogan was Gogan. Someone had left a mildewed couch out on the curb. Every fourth shop was boarded up and the plywood in the windows had been tagged with bad graffiti, big black cocks and big black boobs. He loved it anyway. He loved the cat that stood in the middle of the street and wouldn’t move, so he had to drive around it. He loved the loud bars, the doors flung open, and the smell of fresh beer and stale cigarettes wafting out. He loved the bras and the underwear hanging from the branches of the trees like an eccentric’s notion of Christmas decorations.</p>
 
@@ -332,6 +336,8 @@
 
 <p class="para-vi-sub">“Ừ,” Tana Nighswander nói, “và tao cũng biết *mày* đang làm cái thá gì đấy, nhưng rút con cặc của mày ra khỏi nhỏ đó rồi mặc quần áo vào đi. Hai đứa mày là xe đưa đón đến bệnh viện cứu mạng của tao đấy, và chúng ta phải đi ngay lập tức vì tao sắp tống cái sinh linh này ra khỏi bụng đây, dù tao có muốn hay không muốn cái quái gì đi nữa.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Maine Medical was a collection of smart, five-story towers made of brick and glass, surrounded by a green collegiate campus and parking garages. Arthur cruised around and around it, looking for signs to the family center with an increasing sense of desperation, while Gwen and Tana sat in the back of the Caddy.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Bệnh viện Maine Medical là một tổ hợp các tòa tháp năm tầng lịch lãm làm bằng gạch và kính, được bao quanh bởi khuôn viên ngập tràn sắc xanh cùng các bãi đậu xe. Arthur cứ lái xe vòng quanh hết lần này đến lần khác, tìm kiếm các biển chỉ dẫn đến trung tâm sản nhi với sự tuyệt vọng ngày một dâng cao, trong khi Gwen và Tana ngồi ở hàng ghế sau chiếc Caddy.</p>
@@ -511,4 +517,3 @@
 <p class="para-en">Later that morning Gwen called to tell him it was a boy.</p>
 
 <p class="para-vi-sub">Vào lúc sáng muộn hôm đó, Gwen gọi điện cho anh để báo rằng đó là một bé trai.</p>
-

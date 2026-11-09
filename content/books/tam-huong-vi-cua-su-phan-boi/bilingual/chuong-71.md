@@ -160,6 +160,8 @@
 
 <p class="para-vi-sub">“Thân thế và năng lực lãnh đạo của Nidari sẽ lay động trái tim của hàng triệu quần chúng. Cậu đã tận mắt chứng kiến cách một quốc gia tự mình quật khởi sau những biến động lịch sử đẫm máu ở vùng đất Bầy Đàn. Còn Atlas, cô ấy thấu hiểu sâu sắc loài quái thú Emphon và thậm chí có thể thần giao cách cảm dẫn dắt chúng. Việc trao trả độc lập tự chủ cho Spuria chính là bước đệm đầu tiên. Một khi chúng ta chứng minh được bộ ba các cậu đủ bản lĩnh lãnh đạo vững vàng một đô thị, chúng ta hoàn toàn có thể hiệu triệu toàn cõi để các cậu bước lên dẫn dắt cả đại lục này.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -179,6 +181,8 @@
 <p class="para-en">The Butcher laughs. “Oh, very.”</p>
 
 <p class="para-vi-sub">Đồ Tể bật cười khan đầy châm biếm. “Ồ, cực kỳ nhiệt thành là đằng khác.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -235,4 +239,3 @@
 <p class="para-en">My body, as if on instinct, turned back to the Ovate.</p>
 
 <p class="para-vi-sub">*Sẽ ra sao nếu tôi sở hữu thứ quyền năng tối thượng đến mức có thể ngạo nghễ sải bước ra khỏi cội đại thụ này mà không một sinh linh nào trên cõi đời này dám mở miệng ngăn cản?* Cơ thể tôi, như thể bị dẫn dắt bởi một bản năng đen tối sâu thẳm, đột ngột quay ngoắt lại, hướng thẳng ánh mắt rực lửa về phía cự quái Ovate.</p>
-

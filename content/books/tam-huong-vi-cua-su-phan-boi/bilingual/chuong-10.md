@@ -24,6 +24,8 @@
 
 <p class="para-vi-sub">Ẩm thực Đế quốc phát triển từ việc tận dụng những mảnh thịt bị xé toạc đó và nhanh chóng bảo quản thịt từ những con quái thú Emphon đã chết. Tôi sẽ không nấu một bữa ăn thuần túy kiểu Đế quốc. Họ chẳng lặn lội tới Ranch để ăn lại những món họ vốn có ở quê nhà; ngay cả Feng cũng nói rằng món bánh samosa chỉ có thể coi là một sự tri ân. Nhưng Nội các nhất quyết yêu cầu tôi phải dọn thịt quái thú Emphon như một lời khẳng định về sức mạnh quân sự của chúng tôi, đồng thời cũng đã cảnh báo trước với họ để không một ai ăn phải Đại công thức trước khi tới dự, tránh việc vô tình bị bội thực ma thuật. Tôi không muốn làm họ bị choáng ngợp, vì thế với sự hỗ trợ từ đội bếp của mình, tôi quyết định chọn một bữa ăn truyền thống của giới Thứ Phẩm, thay thế một nửa lượng nấm từ công thức chay nguyên bản bằng thịt xông khói lợn rừng Badgeboar, phần thịt mà tôi bắt đầu xắt lát.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -71,4 +73,3 @@
 <p class="para-en">He motions to the other cloches set around them. “I’m waiting for my guests, but go ahead. I’ll start again when you finish.”</p>
 
 <p class="para-vi-sub">Anh ra hiệu về phía những chiếc nắp đậy đĩa khác bày xung quanh họ. “Tôi đang đợi các vị khách của mình, nhưng cô cứ tự nhiên. Khi nào cô ăn xong, tôi sẽ kể tiếp.”</p>
-

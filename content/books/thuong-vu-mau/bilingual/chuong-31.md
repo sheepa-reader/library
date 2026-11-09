@@ -20,6 +20,8 @@
 
 <p class="para-vi-sub">Rồi bức màn tăm tối vén lên, và tôi thấy mình đang đứng sững giữa căn phòng của chính mình.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I blinked. I looked around. Though I could not explain it, it appeared to be so: I was standing in my undergarments, in my chambers in the Green Drover, gazing at the blank wall. Moonlight filtered through my window shutters, the fernpaper sheets of my bed slightly mussed behind me. I was alone.</p>
 
 <p class="para-vi-sub">Tôi chớp mắt. Tôi nhìn quanh. Dù không thể lý giải nổi, nhưng mọi chuyện dường như hoàn toàn là thật: Tôi đang đứng đó, chỉ mặc độc chiếc quần lót ngay trong căn phòng của mình tại Quán Người Chăn Bò Xanh, đăm đăm nhìn vào bức tường trống không. Ánh trăng len lỏi qua các khe cửa chớp, những tấm ga trải giường bằng giấy dương xỉ hơi xáo trộn phía sau lưng. Tôi chỉ có một mình.</p>
@@ -123,6 +125,8 @@
 <p class="para-en">I awoke.</p>
 
 <p class="para-vi-sub">Tôi bừng tỉnh.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I stood there, gasping in the dark: not the surreal stasis of my own chamber, so silent and cast in twinkling moonlight, but rather in Tauri’s chambers in the Orbiis office. I heard drovers singing in the streets beyond, and a night breeze nibbling at the fretvine walls.</p>
 

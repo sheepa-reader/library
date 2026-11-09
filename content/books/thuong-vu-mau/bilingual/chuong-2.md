@@ -136,6 +136,8 @@
 
 <p class="para-vi-sub">“Nhưng chẳng có cái chết nào trong số đó thú vị cả!” bà nói. “Không một ai, chẳng một ai cả! Chúng có thể mổ bụng nhau ngay trên cái đường phố chết tiệt đó, ta đếch thèm quan tâm!” Nói rồi, bà khoanh tay, tiếp tục lẩm bẩm chửi rủa.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">After enduring another hour of Ana’s fuming, I climbed out of the carriage to join the pilot atop his perch. Though it’d grant me little sleep, the sound of the horses’ hooves was at least less caustic.</p>
 
 <p class="para-vi-sub">Sau một giờ đồng hồ chịu đựng cơn giận lây từ Ana, tôi trèo ra khỏi khoang xe để lên ngồi cùng viên xà ích trên bục điều khiển. Dù việc này chẳng thể mang lại cho tôi chút giấc ngủ nào, ít nhất tiếng vó ngựa gõ xuống lòng đường cũng bớt cay nghiệt hơn lời lẽ của bà.</p>

@@ -80,6 +80,8 @@ Em hếch mũi lên đầy bướng bỉnh trước lời khuyên đó. “Em th
 
 “Anh không đi,” tôi chậm rãi đáp, “bởi vì ngày mai anh có một… nhiệm vụ.” Tôi dừng lại một chút để sắp xếp lại suy nghĩ của mình. “Đi dạo một lát đi. Anh có nhiều chuyện muốn kể với em lắm.”
 
+<hr class="scene-break"/>
+
 Những con hẻm lầy lội bùn đất của Lacanthim hóa thành những dòng sông lấp lánh khi những chiếc đèn sâu mai bắt đầu tỏa sáng. Những người chăn bò, phu lùa gia súc và gia nhân lảo đảo bước qua bước lại trên những lối đi lát ván, nhưng phần lớn bọn họ chỉ đơn giản là sải bước qua bãi sình lầy, hoàn toàn thờ ơ với những vũng nước bẩn. Mỗi bước chân nện xuống lại làm biến đổi những quầng sáng xung quanh chúng tôi, cho đến khi mọi con đường đều hiện lên bóng loáng với những vết rỗ như bề mặt vầng trăng tròn.
 
 “Jalin,” Fotia khẽ nói. “Khốn kiếp, em không thể tin nổi điều đó, Din.”

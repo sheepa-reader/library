@@ -132,6 +132,8 @@
 
 <p class="para-vi-sub">“Chỉ là *hiện tại* thôi, các vị,” Tauri lên tiếng đính chính. “Phải uống nhiều ngụm nước nhiễm độc, và mất nhiều ngày thì bào tử nấm mới trưởng thành trong cơ thể! Chúng ta sẽ phải liên tục kiểm tra các vị, và tất cả những người khác nữa.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I returned to the garden and found Ana still hunched among the flowers. She had somehow painted the digits of her fingers with pollen and then had, through means I could not possibly imagine, enticed several butterflies and bees to idly prowl over her fingertips, gobbling it up. She sat there as I approached, blindfolded and indifferent to the small herd of colorful insects cheerfully flitting about her extended hand. She waved them away as she turned to me and calmly said, “Vomit all out for me, boy. You’ve been gone a decent time.”</p>
 
 <p class="para-vi-sub">Tôi quay trở lại khu vườn và thấy Ana vẫn đang khom người giữa những khóm hoa. Bằng cách nào đó, bà đã phủ đầy phấn hoa lên các đầu ngón tay, rồi bằng những phương thức mà tôi không tài nào hình dung nổi, bà dụ dỗ vài con bướm và ong mật thong thả bò trên đầu ngón tay mình để ăn chỗ phấn ấy. Bà ngồi đó khi tôi tiến lại gần, mắt vẫn bịt kín và hoàn toàn thờ ơ trước đàn côn trùng nhỏ sặc sỡ đang ríu rít bay lượn quanh bàn tay đang chìa ra của mình. Bà xua chúng đi khi quay về phía tôi và bình thản nói: “Nôn hết ra cho ta nào, nhóc. Cậu đi cũng khá lâu rồi đấy.”</p>
@@ -163,6 +165,8 @@
 <p class="para-en">She went very still. Her eyebrows marched up her scalp. Then she sighed as if quite disappointed and stood. “Enough. While Tauri sieves through the ash, we must push the investigation forward through our own methods. Come. Let us see to young Jalin. I’ve questions for him. I pray the little fucker still has a tongue to answer!”</p>
 
 <p class="para-vi-sub">Bà bỗng lặng người đi. Đôi lông mày nhướng cao lên sát chân tóc. Rồi bà thở dài đầy thất vọng và đứng dậy. “Đủ rồi. Trong khi Tauri đang sàng lọc đống tro tàn, chúng ta phải tự mình thúc đẩy cuộc điều tra bằng các phương pháp riêng. Đi nào. Hãy tới xem cậu trẻ Jalin thế nào. Ta có vài câu hỏi dành cho nó. Cầu trời là thằng ranh con đó vẫn còn lưỡi để mà trả lời!”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">The medikker tents were an astonishing construction, given that they’d been put together in but a handful of hours. Already the medikkers had arranged stations for those who’d merely suffered smoke inhalations, a second for those who had been burned, a third for those who had been injured by the debris, and finally a fourth station for more severe cases, who had often suffered all three.</p>
 
@@ -260,6 +264,8 @@
 
 <p class="para-vi-sub">Bà phẩy tay, ra hiệu muốn rời đi. Sau đó bà bám lấy cánh tay tôi và tôi dìu bà bước đi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">We withdrew to the south lawn of the estate. Ana stood there in the enormous swath of freshly cut grass—even after all the madness of the morning, I noted how odd it was to waste so much valuable land in this fertile place—gripped my arm tight, and shook her head.</p>
 
 <p class="para-vi-sub">Chúng tôi lui về bãi cỏ phía nam dinh thự. Ana đứng đó giữa dải cỏ mênh mông vừa mới cắt; ngay cả sau tất cả những chuyện điên rồ của buổi sáng nay, tôi vẫn thầm nghĩ thật kỳ lạ khi lãng phí nhiều đất đai quý giá đến vậy ở một nơi màu mỡ nhường này; bà bấu chặt lấy tay tôi và lắc đầu.</p>
@@ -331,6 +337,8 @@
 <p class="para-en">My eyes quaked, and I heard Velona Armenta’s voice in my memories: It is the sign of Master Gaddar! The tree bearing fruit, for he was lord of all orchards!</p>
 
 <p class="para-vi-sub">Ánh mắt tôi chấn động, và giọng nói của Velona Armenta vang vọng lại trong ký ức tôi: *“Đó là ấn ký của Đại sư Gaddar! Cây đơm hoa kết trái, bởi ngài chính là chủ nhân của mọi khu vườn!”* Tôi cầm bức họa lên, cẩn thận gấp lại rồi cất vào túi áo.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I picked up the drawing, folded it carefully, and placed it in my pocket. When I returned to the burned house I couldn’t find any sign of Ana. I was forced to flag down a custodus, who gave me a rather shameful glance and led me to a large Orbiis trunk set on the lawn.</p>
 
@@ -456,6 +464,8 @@
 
 <p class="para-vi-sub">Ông ấy ném về phía tôi một cái nhìn sắc lẹm như dao cạo. Rồi một nụ cười nở trên môi, và ông ấy bật cười, như thể đang cố xua tan toàn bộ câu chuyện. Ông ấy quay lưng bước đi mà không nói thêm lời nào.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">It seemed to take no time at all for the Orbiis officers to finish their project. Soon the many tar ropes were braided together or affixed with clamps. These braids and knots were then tied to padded horse collars, which they hung about the necks of three of the most terrifying destriers I had ever seen. The beasts were unused to plow-horse work, and champed and whickered in complaint, but their handlers quickly soothed them.</p>
 
 <p class="para-vi-sub">Dường như chẳng mất mấy thời gian để các chuyên viên của Viện Orbiis hoàn thành công việc của họ. Chẳng mấy chốc, vô số những sợi dây thừng tẩm hắc ín đã được bện chặt vào nhau hoặc cố định bằng các chốt kẹp. Những mối bện và nút thắt này sau đó được buộc vào những chiếc đai cổ ngựa có lót đệm, rồi được tròng vào cổ ba trong số những con chiến mã hung tợn nhất mà tôi từng thấy. Những sinh vật kiêu dũng này vốn không quen với công việc của ngựa kéo cày, chúng gặm hàm thiếc và hí lên đầy bất bình, nhưng những người quản ngựa đã nhanh chóng vỗ về xoa dịu chúng.</p>
@@ -491,6 +501,8 @@
 <p class="para-en">Tauri pushed past me to examine the four little beads embedded in the door. “These tumblers…they are very curious. They aren’t wheels or anything so simple! They appear to have—oh, hell—more than thirty sides apiece?” He sighed and rubbed his face in dismay, indifferent to the smears of soot. “You’d better get your immunis, then. She likely needs to see this—and I pray she can make sense of it!”</p>
 
 <p class="para-vi-sub">Tauri gạt người tôi ra để kiểm tra bốn hạt nhỏ khảm trên cánh cửa. “Những vòng xoay này… chúng *cực kỳ* kỳ lạ. Chúng không phải là bánh răng hay thứ gì đó đơn giản như thế! Chúng dường như có, ôi chết tiệt, hơn *ba mươi mặt mỗi hạt* sao?” Ông ấy thở dài rồi đưa tay dụi mặt đầy thất vọng, chẳng màng đến những vệt muội than lem nhem. “Tốt hơn hết cậu nên đi gọi vị Học sĩ của mình tới đây đi. Bà ấy có lẽ cần phải tận mắt nhìn thấy thứ này, và tôi cầu nguyện rằng bà ấy có thể hiểu được nó!”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Ana stood before the door, head bowed, one skeletal hand placed against its steel surface. She listened as Tauri and I described it, as well as its discovery. Seriv lurked at the back, squinting at the door as if worried it might pop open and another inferno would come pouring out.</p>
 
@@ -647,6 +659,8 @@
 <p class="para-en">“Oh, yes, I think so,” she said mildly. “And I think I have a decent idea of where to find him!”</p>
 
 <p class="para-vi-sub">“Ồ, phải, ta nghĩ là vậy,” bà ôn tồn đáp. “Và ta tin mình đã có một ý niệm khá rõ ràng về nơi có thể tìm ra hắn!”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I dozed fitfully as our carriage rumbled back into Lacanthim, yet it was not a pleasant sleep: my slumber was full of anxieties, discomforts, and nameless thoughts creeping about in my skull. Perhaps this was a consequence of a tool as insidious as the web: it made even sleep untrustworthy, for any of my dreams might suggest I’d been conditioned.</p>
 

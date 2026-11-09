@@ -36,6 +36,8 @@
 
 <p class="para-vi-sub">“Toàn bộ những lời dối trá mà tôi từng kể ngày hôm qua.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -96,6 +98,8 @@
 
 <p class="para-vi-sub">Thế là tôi đã khắc ghi lời răn dạy ấy vào tâm khảm, và quả thực tình yêu ẩm thực đã nâng đỡ giữ cho tôi sự tỉnh táo suốt những ngày tháng tăm tối cơ cực. Thế nhưng đến thời khắc định mệnh sau cùng, chính tình yêu ẩm thực thuần túy lại không phải là thứ chìa khóa ban tặng cho tôi phát minh vĩ đại Súp bắp bò phóng hỏa - Đại công thức 7. Thứ sức mạnh tối thượng khai mở ngọn lửa ma thuật ấy thực chất chính là tình yêu cháy bỏng mà tôi dành trọn cho thành phố Ranch thân thương, dành cho những con người lấm lem nơi Chợ Gia Vị Hắc Ám, dành cho từng số phận Thứ Phẩm cùng khổ nơi ấy, dung hợp hoàn hảo cùng tình yêu thiêng liêng dành cho nghệ thuật ẩm thực. Toàn bộ những hương vị nhân gian ấy cuồn cuộn gầm thét trong tâm trí tôi. Đến cái ngày cự thú Bessa lồng lộn đe dọa giẫm nát toàn bộ kinh thành thành bình địa, ngọn lửa yêu thương và căm hờn ấy đã kết tụ lại thành một ý niệm ma thuật duy nhất, hoàn mỹ tuyệt đối để tôi vùng lên chống lại sự hủy diệt.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -107,6 +111,8 @@
 <p class="para-en">“There’s a point.”</p>
 
 <p class="para-vi-sub">“Có một bí mật mang ý nghĩa sống còn đấy, Yenne.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -163,4 +169,3 @@
 <p class="para-en">I didn’t believe him.</p>
 
 <p class="para-vi-sub">Thế nhưng sâu thẳm trong lòng, tôi tuyệt đối chẳng còn chút niềm tin nào vào chính bản thân mình nữa.</p>
-

@@ -66,6 +66,8 @@ Tôi khựng lại, liếc nhìn cậu ấy. Tôi biết Seriv vẫn cấp cho c
 
 Cậu ấy cười cay đắng rồi không nói thêm lời nào nữa.
 
+<hr class="scene-break"/>
+
 Khi tôi bước vào phòng lấy lời khai, chẳng mất nhiều thời gian để nhận ra cuộc trò chuyện giữa Fotia và Ippeas đã leo thang thành một trận cãi vã kịch liệt. Fotia gần như chồm qua cả mặt bàn về phía cậu ta, gầm lên: “Anh *tin* cái mảnh giấy bí ẩn quỷ quái này sao, Ip? Anh tung tăng mò sang tận nhà Burav chỉ vì cái thư tay hoàn hảo đến kỳ lạ này *suýt nữa* rơi tọt vào lòng anh à?”
 
 “Anh chỉ đang cố giúp Castus thôi!” Ippeas giơ hai tay lên phân trần, giọng mếu máo. “Anh đã nghĩ mình có thể…”
@@ -113,6 +115,8 @@ Tôi bước lên một bước. “Hai người đã biết về một vài v�
 “Chuyện đó có được phép không?” Fotia hỏi. “Em không nghĩ người của Bộ Tư pháp lại có thể bàn luận về các vụ án điều tra như thể đó là chuyện phiếm ngoài quán rượu. Hay là anh đang tuyệt vọng rồi?”
 
 “Hôm nay ư?” Anh nói, kéo ghế ngồi xuống bàn. “Tuyệt vọng thực sự.”
+
+<hr class="scene-break"/>
 
 Tôi thuật lại chi tiết vụ án cho họ nghe: những nghi ngờ của Ana, nỗi lo lắng tột cùng của Tauri, và tất cả những manh mối tích tụ xung quanh khi chúng tôi cố gắng tìm ra quy luật chung trong cuộc tàn sát hàng loạt này. Càng nói, tôi càng nhận ra câu chuyện của chúng tôi mỏng manh đến nhường nào: chúng tôi có những cái chết, nhưng lại không có bất kỳ dấu vết hữu hình nào của kẻ sát nhân, cũng chẳng có lấy một khái niệm mơ hồ nào về động cơ gây án.
 

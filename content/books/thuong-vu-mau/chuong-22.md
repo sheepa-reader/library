@@ -110,6 +110,8 @@ Tôi quay người lại, ghé mắt nhìn qua ô cửa sổ phía sau. Tôi kh�
 
 Tôi đẩy phăng cánh cửa ngục giam và lao thẳng vào trong.
 
+<hr class="scene-break"/>
+
 Nhờ năng lực Trí nhớ Biến đổi, tôi đã ghi nhớ nằm lòng sơ đồ của ngục giam này qua nhiều lần ghé thăm trước đó. Khi lao nhanh qua các hành lang với Trikao Armenta bám sát phía sau, tôi thầm đoán rằng những tiếng thét kia không phát ra từ bất kỳ dãy nhà hay phòng giam nào tôi từng thấy. Vậy thì hẳn là một nơi hoàn toàn mới, một nơi khác biệt.
 
 Tôi lao vút qua những hầm ngục tù mù ánh sáng. Thiếu gia Ippeas Armenta đang bám chặt lấy song sắt phòng giam của mình, gào lên: “Là Castus! Là Castus, có chuyện gì đó không ổn rồi!”
@@ -221,6 +223,8 @@ Tôi giương cao lưỡi kiếm, kiên nhẫn chờ đợi thời cơ, rồi d�
 Cậu ấy đông cứng lại. Thân xác cậu ấy co giật thêm hai nhịp nữa rồi hoàn toàn bất động.
 
 Thiếu gia Ippeas hét lên sau lưng tôi, gào khóc: “Cái quái gì thế kia? Cái quái gì thế kia?” Tôi không đáp lời. Tôi nuốt khan, lau vội mặt, tra kiếm vào bao rồi lao nhanh ra ngoài.
+
+<hr class="scene-break"/>
 
 Tôi bước ra ngoài và phát hiện một đám đông đã tụ tập quanh khu buồng giam, bị thu hút bởi những tiếng la hét, và tôi cũng nhìn thấy cả những luồng pháo sáng rực rỡ, nhấp nháy đang vạch những đường vòng cung trên bầu trời. Nguồn phát của những tia sáng đó hóa ra là Chỉ huy Tauri, người đang lao nhanh về phía tôi cùng với Fotia sát cánh bên cạnh.
 

@@ -96,6 +96,8 @@
 
 <p class="para-vi-sub">Tôi cố căng mắt ghi nhớ từng quỹ đạo tấn công hiểm hóc của con rồng Drakephon, nhưng thôi, hãy tạm gác câu chuyện chiến trận đó lại cho ngày sau. Trận thư hùng kinh thiên động địa ấy quả thực vô cùng xứng đáng để chờ đợi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -111,6 +113,8 @@
 <p class="para-en">The archivist attempts to imagine something more powerful than the Butcher fighting at a size capable of destroying half a mountain with a fall, but he continues before she can wrap her head around it.</p>
 
 <p class="para-vi-sub">Nữ lưu trữ viên bàng hoàng cố mường tượng ra thứ ma thuật ẩm thực nào trên cõi đời này có thể uy lực hơn cảnh tượng người Đồ Tể hóa thân thành một cự nhân khổng lồ đủ sức san phẳng nửa ngọn núi chỉ bằng một cú ngã nhào, thế nhưng Paprick đã tiếp tục cất giọng trầm thấp trước khi cô kịp hiểu thấu toàn bộ bí mật ấy.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -240,6 +244,8 @@
 
 <p class="para-vi-sub">Nữ lưu trữ viên vẫn còn cả núi câu hỏi hóc búa muốn truy vấn, song cô đành tạm nén sự tò mò lại trong lòng.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -307,4 +313,3 @@
 <p class="para-en">“Good. Back to Vindaloo. You need to memorize this one well, boy. It might be your best defense against another sourcerer.”</p>
 
 <p class="para-vi-sub">“Tốt. Giờ thì quay lại chuyện món Vọng Âm Vindaloo đi. Mi bắt buộc phải ghi nhớ nằm lòng từng bước chế biến công thức này thật chuẩn xác, nhóc con. Đó rất có thể sẽ là vũ khí phòng thủ tối thượng duy nhất giúp mi giữ được tính mạng trước sự thanh trừng của một nguyên thuật sư khác đấy.”</p>
-

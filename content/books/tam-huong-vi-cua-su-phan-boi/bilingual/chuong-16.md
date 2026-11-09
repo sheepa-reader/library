@@ -96,6 +96,8 @@
 
 <p class="para-vi-sub">“Rồi cậu sẽ quen thôi,” tôi nói, đỡ lấy chiếc túi từ tay Cori. Kể từ lúc em bảo muốn nói chuyện, hai chúng tôi vẫn chưa có dịp trao đổi riêng. Tôi bắt đầu lo lắng rằng lý do chẳng một ai thấy việc em hộ tống tôi là xung đột lợi ích, đơn giản chỉ vì bọn họ đã biết một điều gì đó về mối quan hệ giữa hai đứa mà tôi chưa hay biết. Tôi bắt đầu cảm thấy mối linh cảm chẳng lành y hệt như trước ngày hai chúng tôi chia tay.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -139,6 +141,8 @@
 <p class="para-en">The Butcher gives her a wan smile and turns back to the archivist.</p>
 
 <p class="para-vi-sub">Đồ Tể nở một nụ cười nhợt nhạt với cô bé rồi quay lại phía nữ lưu trữ viên.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -472,6 +476,8 @@
 
 <p class="para-vi-sub">Bật ra một tiếng cười khúc khích nhẹ nhõm, họ áp môi mình lên môi tôi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -499,4 +505,3 @@
 <p class="para-en">Smiling at the praise, the girl hangs a black-and-white portrait of a gryphon on the wall beside the map. Much to the archivist’s surprise, it’s very good. The girl has talent. Not just coloring after all.</p>
 
 <p class="para-vi-sub">Mỉm cười trước lời khen, cô bé treo bức chân dung đen trắng vẽ một con quái thú Gryphon lên bức tường cạnh tấm bản đồ. Khiến Yenne vô cùng kinh ngạc, bức tranh thật sự rất *xuất sắc*. Cô bé quả thực có tài năng, chứ không chỉ biết tô màu như cô từng nghĩ.</p>
-

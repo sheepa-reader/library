@@ -80,6 +80,8 @@
 
 <p class="para-vi-sub">Một tiếng cười khẽ trầm đục vang lên, rồi cánh cửa sập lại cái rầm.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Having conducted investigations in some of the most unruly and dangerous parts of the Empire, I was quite familiar with being among armed forces. Yet as we creaked through the packed lanes of Lacanthim, I found that these folk were a very different breed from every other order of the Empire.</p>
 
 <p class="para-vi-sub">Từng tiến hành các cuộc điều tra tại một số vùng đất hỗn loạn và nguy hiểm bậc nhất của Đế quốc, tôi đã quá quen với việc phải đối mặt với các lực lượng vũ trang. Thế nhưng, khi cỗ xe của chúng tôi kẽo kẹt đi qua những lối đi chật ních người của Lacanthim, tôi nhận ra rằng những kẻ này thuộc một chủng loại hoàn toàn khác biệt so với mọi tầng lớp khác trong Đế quốc.</p>
@@ -412,6 +414,8 @@
 
 <p class="para-vi-sub">Tôi vẫy tay ra hiệu cho người đánh xe ngựa đợi chúng tôi ở chuồng ngựa của quán trọ. Sau đó, chúng tôi cùng nhau bước vào trong.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“How was that, Din?” asked Ana as I led her inside. “Was it as diplomatic as you desired? I swear, I thought I heard a squeak and squawk as your sphincter puckered beside me.”</p>
 
 <p class="para-vi-sub">“Thế nào hả, Din?” Ana hỏi khi tôi dẫn bà vào bên trong. “Cuộc ngoại giao đó có vừa ý cậu không? Ta thề là ta đã nghe thấy tiếng rên rỉ thảm hại khi cơ mông cậu co rúm lại ngay bên cạnh ta đấy.”</p>
@@ -648,6 +652,8 @@
 
 <p class="para-vi-sub">Tôi cảm ơn bà ta rồi quay trở lại bên Ana.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“So,” Ana purred as she took my arm. “Did I hear aright? It appears that the two were lovers, as we guessed?”</p>
 
 <p class="para-vi-sub">“Vậy ra,” Ana khẽ thì thầm đầy ẩn ý khi vịn lấy cánh tay tôi. “Ta nghe có đúng không? Hóa ra hai kẻ đó là nhân tình của nhau, đúng như chúng ta đã đoán?”</p>
@@ -779,6 +785,8 @@
 <p class="para-en">I shook myself, led her inside, and shut the door.</p>
 
 <p class="para-vi-sub">Tôi xóc lại tinh thần, dẫn bà vào bên trong rồi khép cửa lại.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I stood in the entryway and shot a reluctant glance around the chamber, worried the voice might speak again. My thoughts remained mercifully silent. Perhaps, I hoped, it had been a passing anomaly. Then I surveyed the scene.</p>
 
@@ -939,6 +947,8 @@
 <p class="para-en">“Ohh? Might this tawdry shit have a faint whiff of something fascinating? Let us see! Spill your observations to me, boy.”</p>
 
 <p class="para-vi-sub">“Ồ? Phải chăng thứ rác rưởi lòe loẹt này lại mang theo chút mùi hương thoang thoảng của một điều gì đó đầy mê hoặc? Để xem nào! Khai ra những gì cậu quan sát được cho ta nghe xem nào, nhóc.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I spoke then, sniffing my vial and allowing my memories to come pouring out of my mouth. My eyes quaked and trembled as I did so, and it felt as if I occupied a hundred different places within the room at the same time, peering at everything from every aspect and trying to describe it at once.</p>
 

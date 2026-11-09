@@ -28,6 +28,8 @@
 
 <p class="para-vi-sub">Đã quá lâu trôi qua đến mức nữ lưu trữ viên suýt chút nữa đã quên bẵng mất chi tiết ấy: Cutler đã được phái đi đánh thức cự quái Atlas. Cái danh xưng cự thú xa xôi ấy trước đây hoàn toàn vô nghĩa và xa lạ đối với cô, thế nhưng giờ đây…</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -331,4 +333,3 @@
 <p class="para-en">But they would not be the last. I would see to that.</p>
 
 <p class="para-vi-sub">Chính tôi sẽ dùng máu quân thù để bảo đảm điều đó.</p>
-

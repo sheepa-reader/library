@@ -2,15 +2,15 @@
 
 # Chương 3
 
-Những chiếc đèn tua rua màu vàng kim theo phong cách Thời đại Jazz rực rỡ khiến Phoebe thèm uống rượu trước cả thời điểm cô cho phép bản thân làm thế, và thật nực cười khi cô vẫn còn bận tâm đến những chuyện như vậy, vẫn cố gắng áp đặt các quy tắc cho chính mình kiểu như, *mình không nên uống rượu*, trong khi chỉ vài tiếng nữa thôi là cô tự kết liễu đời mình.
+Những chiếc đèn tua rua vàng của Phòng Penthouse Thập Niên 20 Náo Nhiệt khiến Phoebe thèm uống rượu trước cả thời điểm cô cho phép bản thân làm thế, và thật nực cười khi cô vẫn còn bận tâm đến những chuyện như vậy, vẫn cố gắng áp đặt các quy tắc cho chính mình kiểu như, <i>mình không nên uống rượu</i>, trong khi chỉ vài tiếng nữa thôi là cô tự kết liễu đời mình.
 
-Cô tự rót cho mình một ly đầy rượu vang sô-cô-la Đức. Cô từ chối dành những giờ phút cuối cùng trên cõi đời này để lo lắng. Cô đã dành quá nhiều thời gian để lo lắng nên uống gì, đi nghỉ mát ở đâu, mặc gì, nói gì, viết chữ <i>cum</i> hay <i>come</i> thì quyến rũ hơn, và rốt cuộc để làm gì? Chánh tả thế nào thì có sao đâu? Dù thế nào thì chồng cô cũng đã bỏ đi rồi.
+Cô tự rót cho mình một ly đầy rượu vang sô-cô-la Đức. Cô từ chối dành những giờ phút cuối cùng trên cõi đời này để lo lắng. Cô đã dành quá nhiều thời gian để lo lắng nên uống gì, đi nghỉ mát ở đâu, mặc gì, nói gì, viết chữ <i>cum</i> hay <i>come</i> thì quyến rũ hơn, và rốt cuộc để làm gì? Chính tả thế nào thì có sao đâu? Dù thế nào thì Matt cũng đã bỏ đi rồi.
 
-Phoebe nhấm nháp ngụm rượu. Cô kéo rèm cửa. Chúng dày và có màu xanh mòng két, xứng tầm với một bà hoàng hay một ngôi sao điện ảnh. Chúng có thể chặn đứng mọi thứ ánh sáng trên đời nếu cô muốn, nhưng Phoebe lại muốn ngắm đại dương. Phoebe chưa từng đến biển bao giờ, một sự thật khiến hầu hết mọi người phải kinh ngạc nhưng lại làm chồng cô thấy thích thú. Anh từng rất thích việc Phoebe không chạy đôn chạy đáo hay chịu áp lực phải chinh phục mọi trải nghiệm trên thế giới.
+Phoebe nhấm nháp ngụm rượu. Cô kéo rèm cửa. Chúng dày và có màu xanh mòng két, xứng tầm với một bà hoàng hay một ngôi sao điện ảnh. Chúng có thể chặn đứng mọi thứ ánh sáng trên đời nếu cô muốn, nhưng Phoebe lại muốn ngắm đại dương. Phoebe chưa từng đến biển bao giờ, một sự thật khiến hầu hết mọi người phải kinh ngạc nhưng lại làm Matt thấy thích thú. Anh từng rất thích việc Phoebe không chạy đôn chạy đáo hay chịu áp lực phải chinh phục mọi trải nghiệm trên thế giới.
 
-Thế nhưng Phoebe lại nghĩ thật sai lầm khi rời khỏi thế gian này mà chưa từng ngắm nhìn đại dương, giống như cách cô cho rằng Matt thật tệ khi đòi ly hôn cách đó năm mươi cây số qua ứng dụng Zoom. Lẽ ra anh nên trở về từ nhà Mia một lần cuối để tự nhắc nhở bản thân về vẻ đẹp thế giới của họ. Phần phào chỉ mà chính tay anh đã tự sơn lấy. Nhưng lúc đó là tháng thứ năm của đại dịch khi anh đề nghị ly hôn, và anh nói mình không thể quay về. Matt, Mia và đứa con của cô ta đã thành một “nhóm kín” an toàn từ lâu. Anh ngồi trước chiếc kệ bày biện những món quà lưu niệm ở Paris của Mia cứ như thể chúng là của mình và nói, “Anh rất tiếc.” Và “Em có ổn không?” Và “Làm ơn nói cho anh biết em vẫn ổn đi.”
+Thế nhưng Phoebe lại nghĩ thật sai lầm khi rời khỏi thế gian này mà chưa từng ngắm nhìn đại dương, giống như cách cô cho rằng Matt thật tệ khi đòi ly hôn cách đó gần năm mươi cây số qua Zoom. Lẽ ra anh nên trở về từ nhà Mia một lần cuối để tự nhắc nhở bản thân về vẻ đẹp thế giới của họ. Phần phào chỉ mà chính tay anh đã tự sơn lấy. Nhưng lúc đó là tháng thứ năm của đại dịch khi anh đề nghị ly hôn, và anh nói mình không thể quay về. Matt, Mia và đứa con của cô ta đã thành một “nhóm kín” an toàn từ lâu. Anh ngồi trước chiếc kệ bày biện những món quà lưu niệm ở Paris của Mia cứ như thể chúng là của mình và nói, “Anh rất tiếc.” Và “Em có ổn không?” Và “Làm ơn nói cho anh biết em vẫn ổn đi.”
 
-Phoebe đặt lọ thuốc giảm đau của con mèo lên bàn cạnh giường ngủ. Cô phóng tầm mắt ra đại dương trải rộng trước mặt. Từ góc nhìn trên cao này, mặt nước trông thật bình yên. Giống như một tấm thảm phẳng lì và đáng tin cậy, như thể nó chẳng hề hay biết gì về chuyện sắp xảy ra. Phoebe kỳ vọng nhiều hơn thế ở đại dương, có lẽ vì cô đã đọc quá nhiều sách của Herman Melville, nơi biển cả thấu tỏ mọi điều về tương lai, báo trước cái chết trong từng con sóng vỗ ầm ào và dữ dội.
+Phoebe đặt lọ thuốc giảm đau của chú mèo Harry lên bàn cạnh giường ngủ. Cô phóng tầm mắt ra đại dương trải rộng trước mặt. Từ góc nhìn trên cao này, mặt nước trông thật bình yên. Giống như một tấm thảm phẳng lì và đáng tin cậy, như thể nó chẳng hề hay biết gì về chuyện sắp xảy ra. Phoebe kỳ vọng nhiều hơn thế ở đại dương, có lẽ vì cô đã đọc quá nhiều sách của Herman Melville, nơi biển cả thấu tỏ mọi điều về tương lai và báo trước cái chết trong từng con sóng vỗ ầm ào, dữ dội.
 
 Nhưng thôi kệ đi. Cô cầm điện thoại lên.
 
@@ -28,11 +28,11 @@ Phoebe muốn có một bữa ăn thật thịnh soạn, xa hoa trước khi ch�
 
 “À, dưới khu vực tiệc chiêu đãi có đồ ăn đấy ạ,” Pauline nói.
 
-Phoebe cúp máy. Cô không thể xuống dưới đó. Cô lại càng tuyệt đối không thể bước chân vào buổi tiệc. Cô đâu có lặn lội tới tận đây chỉ để ngắm những kẻ hạnh phúc đang ăn uống sang chảnh. Và cô nhất quyết không để bữa ăn cuối đời của mình là chiếc bánh Oreo nhái trong túi quà cưới hay gói bim bim dắt trong máy bán hàng tự động. Nghĩ đến điều đó thôi cũng đủ thấy não nề rồi.
+Phoebe cúp máy. Cô không thể xuống dưới đó. Cô lại càng tuyệt đối không thể bước chân vào buổi tiệc. Cô đâu có lặn lội tới tận đây chỉ để ngắm những kẻ hạnh phúc đang ăn uống sang chảnh. Và cô nhất quyết không để bữa ăn cuối đời của mình là chiếc bánh Oreo nhái trong túi quà cưới hay gói khoai tây chiên Doritos từ máy bán hàng tự động. Nghĩ đến điều đó thôi cũng đủ thấy não nề rồi.
 
 Thôi được, vậy cô sẽ chẳng ăn uống gì nữa. Rốt cuộc thì còn ý nghĩa gì đâu? Tại sao lại phải mang những con hàu tươi ngon hoàn hảo ấy xuống mồ cùng mình chứ?
 
-Nhưng rồi cô lại chẳng biết phải làm gì với bản thân. Cô vốn định dành một hay hai tiếng để thưởng thức bữa ăn. Cô đã lên kế hoạch để bữa ăn đó giống như sự kiện khép lại cuộc đời mình. Cô ngồi thừ trên giường và đờ đẫn nhìn ra mặt nước ngoài kia, một cảm giác kỳ lạ làm sao, khi chẳng còn việc gì trên đời để làm ngoài việc cảm nhận làn gió biển mơn man trên mặt. Mười năm qua, lúc nào cũng có quá nhiều việc phải làm và thời gian thì chẳng bao giờ đủ. Nào là luận án tiến sĩ phải được xuất bản thành sách, những công trình nghiên cứu phải chuyển thành slide thuyết trình PowerPoint, chuyện chăn gối phải đơm hoa kết trái thành một đứa trẻ, và những sinh viên luôn cần cô định hướng cả cuộc đời. Đó là cách mà Adam, cậu sinh viên của cô, đã diễn tả vào sáng hôm qua khi bước vào phòng làm việc và tuyên bố rằng từ nay Phoebe sẽ nắm quyền quyết định cuộc đời cậu ta.
+Nhưng rồi cô lại chẳng biết phải làm gì với bản thân. Cô vốn định dành một hay hai tiếng để thưởng thức bữa ăn. Cô đã lên kế hoạch để bữa ăn đó giống như sự kiện khép lại cuộc đời mình. Cô ngồi thừ trên giường và đờ đẫn nhìn ra mặt nước ngoài kia, một cảm giác kỳ lạ làm sao, khi chẳng còn việc gì trên đời để làm ngoài việc cảm nhận làn gió biển mơn man trên mặt. Mười năm qua, lúc nào cũng có quá nhiều việc phải làm và thời gian thì chẳng bao giờ đủ. Nào là luận án tiến sĩ phải được xuất bản thành sách, những công trình nghiên cứu phải chuyển thành slide thuyết trình PowerPoint, chuyện chăn gối phải đơm hoa kết trái thành một đứa trẻ, cùng những sinh viên luôn cần cô quán xuyến cuộc đời họ. Đó là cách mà Adam, cậu sinh viên của cô, đã diễn tả vào sáng hôm qua khi bước vào phòng làm việc và tuyên bố rằng từ nay Phoebe sẽ nắm quyền quyết định cuộc đời cậu ta.
 
 “Nhưng tôi không phải cố vấn học tập của cậu,” Phoebe đã bảo cậu ta.
 
@@ -40,25 +40,25 @@ Nhưng rồi cô lại chẳng biết phải làm gì với bản thân. Cô v�
 
 “Không,” Phoebe đáp.
 
-Cuộc hội thoại ấy lẽ ra đã kết thúc tại đó, nếu như chồng cô và Mia không bước vào phòng làm việc của cô, nơi vốn kiêm luôn phòng máy photocopy và góc pha cà phê. Trường đại học chưa từng xây phòng chờ cho giảng viên thỉnh giảng, ban quản trị đã phá sản sau các đợt cắt giảm ngân sách thời đại dịch. Sau đó, Bob đã phân chia căn phòng làm việc cũ của cô cho một giảng viên mới tuyển dụng, bởi Phoebe từng chọn tiếp tục dạy học trực tuyến trong năm thứ hai của đại dịch. Và giờ đây khi cô quay lại, Bob đành bó tay chịu trói. Chẳng còn chỗ nào khác để nhét cô vào ngoài cái góc cạnh chiếc máy pha cà phê Keurig và ổ bánh bông lan pound cake mà nhân viên hành chính Jane mang đến.
+Cuộc hội thoại ấy lẽ ra đã kết thúc tại đó, nếu như Matt và Mia không bước vào phòng làm việc của cô, nơi vốn kiêm luôn phòng máy photocopy và góc pha cà phê. Trường đại học chưa từng xây phòng chờ cho giảng viên thỉnh giảng, ban quản trị đã phá sản sau các đợt cắt giảm ngân sách thời đại dịch. Sau đó, Bob đã phân chia căn phòng làm việc cũ của cô cho một giảng viên mới tuyển dụng, bởi Phoebe từng chọn tiếp tục dạy học trực tuyến trong năm thứ hai của đại dịch. Và giờ đây khi cô quay lại, Bob đành bó tay chịu trói. Chẳng còn chỗ nào khác để nhét cô vào ngoài cái góc cạnh chiếc máy pha cà phê Keurig và ổ bánh bông lan pound cake mà nhân viên hành chính Jane mang đến.
 
 Mia và Matt có vẻ bàng hoàng khi nhìn thấy Phoebe ở đó, nhưng rồi họ nhanh chóng cất lời “Xin chào,” cứ như thể cô chỉ là một đồng nghiệp bình thường nào đó trong khoa, còn Phoebe thì đâm ra đờ đẫn. Không thể suy nghĩ nổi. Không thể thở nổi. Không tài nào thốt lên được lời chào. Cô chỉ trân trân nhìn cậu sinh viên Adam, dồn toàn bộ tâm trí vào chóp mũi của cậu ta khi cất lời, “Nhưng biết đâu tôi vẫn có thể giúp được gì cho cậu thì sao?”
 
-“À, tôi đang tính nghỉ học đại học,” Adam nói. Cô nghe tiếng chồng mình rót hai cốc cà phê, và Mia đang cho sữa vào. “Tôi muốn đi học làm quần âu.”
+“À, em đang tính nghỉ học đại học,” Adam nói. Cô nghe tiếng Matt rót hai cốc cà phê, và Mia đang cho sữa vào. “Em muốn đi may quần.”
 
-“Em muốn làm quần áo à?” Phoebe hỏi, và cô chẳng biết người ta sẽ hỏi gì tiếp theo, thế nên cô đành hỏi tiếp, “Quần áo kiểu gì cơ?”
+“Em muốn may quần à?” Phoebe hỏi, và cô chẳng biết người ta sẽ hỏi gì tiếp theo, thế nên cô đành hỏi tiếp, “May quần kiểu gì cơ?”
 
-Chồng cô khuấy đường vào cốc, và biết đâu chồng cô đang nhìn cô, biết đâu anh nhận ra chiếc váy đen hiệu Calvin Klein mà cô đã mặc chỉ để anh có thể nhớ lại lần cuối cùng anh đè cô ra làm tình trong chiếc váy ấy. Nhưng cô không sao ép nổi bản thân mình ngẩng lên nhìn.
+Matt khuấy đường vào cốc, và biết đâu anh đang nhìn cô, biết đâu Matt nhận ra chiếc váy đen hiệu Calvin Klein mà cô mặc chỉ để anh nhớ lại lần cuối cùng anh ân ái với cô trong bộ váy ấy. Nhưng cô không sao ép nổi bản thân mình ngẩng lên nhìn.
 
 “Kiểu nào cũng được, tất cả các loại quần,” Adam đáp.
 
-Chồng cô và Mia đậy nắp cốc lại.
+Matt và Mia đậy nắp cốc lại.
 
-“Nhưng chẳng phải em vừa có thể làm quần áo vừa đi học cùng lúc được cơ mà?” Phoebe hỏi, và rồi chồng cô cùng Mia đã biến mất, còn Adam nói, “Chắc là thế,” và Phoebe cảm thấy mình sắp nôn mửa hoặc ngất lịm đến nơi.
+“Nhưng chẳng phải em vừa có thể may quần vừa đi học cùng lúc được cơ mà?” Phoebe hỏi, và rồi Matt cùng Mia đã biến mất, còn Adam nói, “Chắc là thế,” và Phoebe cảm thấy mình sắp nôn mửa hoặc ngất lịm đến nơi.
 
 Sau đó, cô thu dọn sách vở rồi lên lớp, nơi cô cố gắng giảng dạy một bài thơ của John Donne, nhưng đám sinh viên chuyên văn Anh của cô chẳng mặn mà gì cho cam.
 
-“Sao mà nhân vật xưng tôi trong bài thơ lại cứ như thể bị Chúa... cưỡng hiếp thế ạ?” một sinh viên hỏi.
+“Sao mà nhân vật xưng tôi trong bài thơ lại cứ như thể bị Chúa… cưỡng hiếp thế ạ?” một sinh viên hỏi.
 
 Tất cả cùng cười ồ lên. Chúng đang chờ đợi Phoebe thốt lên điều gì đó, một chút bối cảnh, một chiếc khung để nhét tất cả những thứ kỳ lạ và khó hiểu ấy vào trong.
 
@@ -66,7 +66,7 @@ Tất cả cùng cười ồ lên. Chúng đang chờ đợi Phoebe thốt lên 
 
 “Lại có người đi viết thư tình cho Chúa cơ à?” một sinh viên khác hỏi.
 
-“Ôi trời ơi, có phải thư <i>tình</i> đâu,” một nữ sinh lên tiếng. “Ông ấy cơ bản là đang xin Chúa hiếp dâm mình đấy chứ.”
+“Ôi trời ơi, có phải thư <i>tình</i> đâu,” một nữ sinh lên tiếng. “Ông ấy cơ bản là đang xin Chúa cưỡng hiếp mình đấy chứ.”
 
 “Em cũng thấy bài thơ ra cái nghĩa đấy,” một đứa khác phụ họa. “Nhưng em mừng vì cô đã nói ra hộ.”
 
@@ -74,21 +74,21 @@ Câu này khiến vài đứa khúc khích cười, làm một nữ sinh khác p
 
 “Nó vốn <i>không hề</i> buồn cười,” Phoebe đính chính.
 
-“Thì đương nhiên là không buồn cười rồi, lão đó đang bị <i>cưỡng hiếp</i> mà, Tiến sĩ Stone. Bị chính Chúa đấy ạ!”
+“Thì đương nhiên là không buồn cười rồi, người đàn ông đó đang bị <i>cưỡng hiếp</i> mà, Tiến sĩ Stone. Bị chính Chúa đấy ạ!”
 
-“Thế đây là thơ đồng tính kiểu vậy á? Chúa là người đồng tính à?”
+“Thế đây là thơ đồng tính luyến ái kiểu vậy ạ? Chúa là người đồng tính à?”
 
-“Chúa thì ai mà chẳng biết là thẳng, nổi tiếng là thẳng luôn ấy.”
+“Chúa nổi tiếng là thẳng mà, ai chẳng biết điều đó.”
 
-“Sao mấy người cứ cười thế hả? Chuyện này nghiêm túc mà có gì buồn cười đâu!”
+“Sao mấy người cứ cười thế hả? Chuyện này nghiêm túc mà, có gì buồn cười đâu!”
 
-“Tôi có cố gây cười đâu! Cô <i>thừa biết</i> tôi là người đồng tính cơ mà!”
+“Em có cố tình pha trò đâu! Cô <i>thừa biết</i> em là người đồng tính cơ mà!”
 
 Phoebe lùi phắt lại phía sau, va cả người vào chiếc bàn làm việc.
 
 “Đó là về việc nhận thức được rằng mình muốn trở nên tốt đẹp hơn,” Phoebe nói. “Nhưng lại chẳng biết phải sửa chữa bản thân thế nào. Đó là lý do tại sao ông ấy phải khẩn cầu Đấng Tối Cao hãy ép buộc mình phải trở nên tốt hơn, hãy sửa chữa lấy ông ấy.”
 
-“Nghe cứ dị hợm thế nào ấy ạ,” một sinh viên nhận xét, và Phoebe hoàn toàn đồng tình.
+“Nghe cứ sai trái thế nào ấy ạ,” một sinh viên nhận xét, và Phoebe hoàn toàn đồng tình.
 
 “Đúng vậy,” cô đáp, và Phoebe chẳng thể nhớ nổi điều gì xảy ra sau đó ngoại trừ việc có một nam sinh bước đến cạnh bàn của cô và cất lời, “Cô ổn chứ, Tiến sĩ Stone?”
 
@@ -96,19 +96,19 @@ Phoebe lùi phắt lại phía sau, va cả người vào chiếc bàn làm vi�
 
 Lũ sinh viên có vẻ chẳng mảy may bận tâm khi rời đi, ngoại trừ cô nữ sinh vẫn đang làu bàu về bài thơ với một người bạn của mình, “Em chỉ thấy là chẳng ai nên <i>đem</i> bài thơ đó ra dạy cả.”
 
-Phoebe quay trở lại văn phòng của mình, nơi thực ra chẳng phải một văn phòng đích thực. Cô không hề ổn chút nào, nhưng biết đâu cô có thể ổn lên được. Cô chỉ cần một tách cà phê. Và cần photo một bài thơ của Whitman trước giờ lên lớp Nhập môn Văn học. Hôm qua cô chẳng còn thời gian để làm việc đó, cô đã quá bận rộn, quá ngập ngụa trong việc làm móng, chấm lại chân tóc, tự chuẩn bị cho màn tái xuất hoành tráng của mình trước khuôn viên trường đại học. Liệu chiếc váy đen có quá lố cho ngày đầu tiên hay vẫn chưa đủ độ lồng lộn? cô tự hỏi, bởi vì cô đã chẳng hề gặp lại chồng mình kể từ phiên điều trần ly hôn, và một góc nhỏ xíu trong thâm tâm cô vẫn cảm thấy rằng nếu mình mặc chiếc váy đen ấy, nó sẽ phù phép biến họ trở lại thành vợ chồng một lần nữa.
+Phoebe quay trở lại văn phòng của mình, nơi thực ra chẳng phải một văn phòng đích thực. Cô không hề ổn chút nào, nhưng biết đâu cô có thể ổn lên được. Cô chỉ cần một tách cà phê. Và cần photo một bài thơ của Whitman trước giờ lên lớp Nhập môn Văn học. Hôm qua cô chẳng còn thời gian để làm việc đó, cô đã quá bận rộn, quá ngập ngụa trong việc làm móng, chấm lại chân tóc, tự chuẩn bị cho màn tái xuất của mình trước khuôn viên trường đại học. Liệu chiếc váy đen có quá lố cho ngày đầu tiên hay vẫn chưa đủ trang trọng? cô tự hỏi, bởi vì cô đã chẳng hề gặp lại Matt kể từ phiên điều trần ly hôn, và một phần nhỏ trong thâm tâm vẫn ngỡ rằng nếu mình khoác lên chiếc váy đen ấy, nó sẽ biến hai người trở lại làm vợ chồng thêm lần nữa.
 
 Thế nhưng chỉ có mỗi Mia đứng đó, ngay lúc này lại đang đứng cạnh chiếc máy photocopy. Mia sẽ luôn xuất hiện ở bất cứ đâu, Phoebe nhận ra sự thật phũ phàng đó.
 
-“Kẹt giấy rồi,” Mia nói, và Phoebe gật đầu bởi vì chuyện kẹt giấy chẳng phải lỗi của riêng ai. Nó cứ thế xảy ra thôi, hệt như những gì chồng cô từng nói về vụ ngoại tình vậy. Mọi chuyện cứ thế xảy ra thôi.
+“Kẹt giấy rồi,” Mia nói, và Phoebe gật đầu bởi vì chuyện kẹt giấy chẳng phải lỗi của riêng ai. Nó cứ thế xảy ra thôi, hệt như những gì Matt từng giải thích về vụ ngoại tình: Mọi chuyện cứ thế xảy ra thôi.
 
-Nhưng tại sao chứ? Phoebe không tài nào ép nổi bản thân mình cất lời hỏi chồng câu đó. Bởi vì cô thừa biết lý do. Cô ngắm nhìn Mia đang đeo đôi khuyên tai bằng gỗ to bản, diện chiếc quần bò đen lửng và chiếc áo blazer màu hồng ngoại cỡ trông lại càng làm cô ta có vẻ gầy gò hơn. Nó khiến Phoebe cảm thấy mình thật ngốc nghếch khi từng nghĩ rằng chồng cô sẽ bị cưa cẩm trở lại chỉ nhờ một chiếc váy đen dáng chữ A đơn giản. Có phải đây là lý do tại sao việc nổi giận với Mia lại khó khăn đến thế không? Bởi vì sâu thẳm trong lòng, Phoebe thừa biết Mia vốn dĩ xuất sắc hơn cô? Lúc nào cũng đứng đó với đôi khuyên tai to sụ, khiến Phoebe phải tự hỏi tại sao bản thân mình cứ mãi phải làm chính cái con người này cơ chứ.
+Nhưng tại sao chứ? Phoebe không tài nào ép nổi bản thân mình cất lời hỏi Matt câu đó. Bởi vì cô thừa biết lý do. Cô ngắm nhìn Mia đang đeo đôi khuyên tai bằng gỗ to bản, diện chiếc quần bò đen lửng và chiếc áo blazer màu hồng ngoại cỡ trông lại càng làm cô ta có vẻ gầy gò hơn. Nó khiến Phoebe cảm thấy mình thật ngốc nghếch khi từng nghĩ rằng Matt sẽ bị cưa cẩm trở lại chỉ nhờ một chiếc váy đen dáng chữ A đơn giản. Có phải đây là lý do tại sao việc nổi giận với Mia lại khó khăn đến thế không? Bởi vì sâu thẳm trong lòng, Phoebe thừa biết Mia vốn dĩ xuất sắc hơn cô? Lúc nào cũng đứng đó với đôi khuyên tai to sụ, khiến Phoebe phải tự hỏi tại sao bản thân mình cứ mãi phải làm chính cái con người này cơ chứ.
 
-“Em xin lỗi nhé,” Mia nói.
+“Tôi xin lỗi,” Mia nói.
 
-Mia khụy gối xuống. Trong những tưởng tượng của Phoebe, đây chính là cách mà Mia luôn phải cất lời xin lỗi cô: nghĩa đen là quỳ rạp dưới chân cô. Phoebe không thể tin nổi cảnh tượng ấy đang thực sự diễn ra và cảm thấy bản thân bắt đầu thấy phấn khích.
+Mia quỳ gối xuống. Trong những tưởng tượng của Phoebe, đây chính là cách mà Mia luôn phải cất lời xin lỗi cô: nghĩa đen là quỳ rạp dưới chân cô. Phoebe không thể tin nổi cảnh tượng ấy đang thực sự diễn ra và cảm thấy bản thân bắt đầu thấy phấn khích.
 
-Nhưng rồi Mia lại bồi thêm một câu, “Em xin lỗi, việc này chỉ mất có một phút thôi,” và điều đó khiến Phoebe tức điên lên. Bởi vì kẹt giấy thì lúc nào chẳng mất nhiều hơn một phút. Phoebe thừa biết điều đó. Mia cũng thừa biết điều đó. Mia bắt đầu mở tung tất cả các ngăn kéo mà cỗ máy chỉ dẫn phải mở, nhưng ngay cả thế, Mia vẫn chẳng thể tìm ra cách xử lý, thậm chí còn chẳng biết ngăn kéo số năm nằm ở xó xỉnh nào, và đây đáng lẽ là lúc Phoebe thường sẽ giúp cô ta tìm kiếm ngăn kéo số năm ấy, nhưng cô kiên quyết từ chối.
+Nhưng rồi Mia lại bồi thêm một câu, “Tôi xin lỗi, việc này chỉ mất một phút thôi,” và điều đó khiến Phoebe tức điên lên. Bởi vì kẹt giấy thì lúc nào chẳng mất nhiều hơn một phút. Phoebe thừa biết điều đó. Mia cũng thừa biết điều đó. Mia bắt đầu mở tung tất cả các ngăn kéo mà cỗ máy chỉ dẫn phải mở, nhưng ngay cả thế, Mia vẫn chẳng thể tìm ra cách xử lý, thậm chí còn chẳng biết ngăn kéo số năm nằm ở xó xỉnh nào, và đây đáng lẽ là lúc Phoebe thường sẽ giúp cô ta tìm kiếm ngăn kéo số năm ấy, nhưng cô kiên quyết từ chối.
 
 “<i>Đây</i> là điều khiến cô thấy có lỗi đấy à?” Phoebe hỏi.
 
@@ -130,23 +130,23 @@ Phoebe cảm thấy như mình sắp phát điên. Cô thấy mình giống như
 
 “Tôi từng là bạn cô,” Mia nói. “Và tôi sẽ mãi mãi hối tiếc vì đã làm tổn hại tình bạn của chúng ta.”
 
-<i>“Tổn hại ư?</i> Cô đã <i>hủy hoại</i> nó rồi. Cô hủy hoại tất cả mọi thứ. Cuộc đời tôi. Công việc của tôi. Cuộc hôn nhân của tôi.”
+“<i>Tổn hại ư?</i> Cô đã <i>hủy hoại</i> nó rồi. Cô hủy hoại tất cả mọi thứ. Cuộc đời tôi. Công việc của tôi. Cuộc hôn nhân của tôi.”
 
 “Thực lòng tôi rất quý cô, Phoebe. Và tôi hy vọng sau tất cả chuyện này, chúng ta vẫn có thể là bạn bằng cách nào đó. Nhưng tôi không hề hủy hoại cuộc hôn nhân của cô. Đó không phải lỗi của tôi. Lý do duy nhất Matt yêu tôi là vì cuộc hôn nhân của cô đã chấm dứt từ trước đó rồi.”
 
-Như để chốt lại luận điểm của mình, Mia giật mạnh tờ giấy ra. Mia đã giải quyết xong vụ kẹt giấy, nhưng đã quá muộn. Tiết học đã bắt đầu từ năm phút trước. Phoebe đã chính thức ly hôn. Cô đã ký vào các văn bản cuối cùng. Sức giận dữ của cô lúc này chẳng thể giải quyết được gì nữa.
+Như để chốt lại luận điểm của mình, Mia giật mạnh tờ giấy ra. Mia đã giải quyết xong vụ kẹt giấy, nhưng đã quá muộn. Tiết học đã bắt đầu từ năm phút trước. Phoebe đã chính thức ly hôn. Cô đã ký vào các văn bản cuối cùng. Cơn giận dữ của cô lúc này chẳng thể giải quyết được gì nữa.
 
-Cửa mở toang. Stan, chuyên gia nghiên cứu văn hóa Mỹ, liếc nhìn chiếc váy đen của cô rồi cất giọng: “Chà chà, Phoebe, váy đẹp đấy!”
+Cửa mở toang. Stan, chuyên gia văn học Mỹ, liếc nhìn chiếc váy đen của cô rồi cất giọng: “Chà chà, Phoebe, váy đẹp đấy!”
 
 Cô chẳng biết làm gì khác ngoài việc thốt lên: “Cảm ơn.”
 
-Sau đó Mia chuồn khỏi văn phòng mang theo mớ tài liệu, còn Phoebe đứng thẫn thờ ở đó trong chốc lát, cảm thấy trống rỗng và suy sụp hoàn toàn, giống như mặt đất ngay sau khi một quả bom dội xuống. Cô bước vào lớp với hai bàn tay trắng, cất lời chào đám sinh viên, và phải rồi, cô hiểu vì sao bọn chúng chẳng bao giờ chào lại, một bài học mà Phoebe đã ngộ ra trong lớp yoga tháng trước khi người hướng dẫn cất lời chào, và tất cả mọi người đều ngóng xem có ai khác chịu lên tiếng trước không. Ai cũng thầm hy vọng sẽ có một kẻ nào đó gan lợn mở lời. Bọn chúng cũng y hệt như Phoebe vậy.
+Sau đó Mia chuồn khỏi văn phòng mang theo mớ tài liệu, còn Phoebe đứng thẫn thờ ở đó trong chốc lát, cảm thấy trống rỗng và suy sụp hoàn toàn, giống như mặt đất ngay sau khi một quả bom dội xuống. Cô bước vào lớp với hai bàn tay trắng, cất lời chào đám sinh viên, và phải rồi, cô hiểu vì sao bọn chúng chẳng bao giờ chào lại, một bài học mà Phoebe đã ngộ ra trong lớp yoga tháng trước khi người hướng dẫn cất lời chào, và tất cả mọi người đều ngóng xem có ai khác chịu lên tiếng trước không. Ai cũng thầm hy vọng một ai đó khác sẽ đủ bạo dạn mở lời. Bọn chúng cũng y hệt như Phoebe vậy.
 
 Nhưng Phoebe đã chán ngấy bọn chúng lắm rồi. Chán ngấy cả bản thân mình. Chán ngấy mọi thứ trên đời.
 
 Cô bước ra khỏi lớp mà không nói một lời nào, chui tọt vào xe và lái thẳng về nhà. Lúc bước vào nhà bếp, tay cô đã run lẩy bẩy. Có điều gì đó không ổn rồi. Cô gọi cho bác sĩ tâm lý của mình với hy vọng ông có thể giúp đỡ, nhưng giọng điệu của ông ta nghe cũng vô cùng bất thường.
 
-“Nghe này, trước khi chúng ta bắt đầu buổi trị liệu tiếp theo, có chuyện này cô cần phải biết,” ông ta nói, và sao giọng điệu ấy lại giống hệt chồng cô trước lúc bỏ đi thế này?
+“Nghe này, trước khi chúng ta bắt đầu buổi trị liệu tiếp theo, có chuyện này cô cần phải biết,” ông ta nói, và sao giọng điệu ấy lại giống hệt Matt trước lúc bỏ đi thế này?
 
 “Tôi đã cân nhắc rất kỹ lưỡng và lâu dài về chuyện này, Phoebe, nhưng rất tiếc là tôi sẽ phải ngừng nhận bảo hiểm y tế mới của cô,” bác sĩ tâm lý nói. “Họ quá vô đạo đức để có thể hợp tác kinh doanh cùng, và tôi từ chối làm việc theo kiểu đó.”
 
@@ -158,14 +158,14 @@ Cô dập máy cái rụp. Cô làm gì có khả năng tài chính để mà ti
 
 Thế nên cô đành phải bán ngôi nhà đi. Đó là giải pháp duy nhất. Nhưng cô không sao chịu nổi cảnh phải bán ngôi nhà này. Ngôi nhà là thứ duy nhất cô còn sót lại trên đời. Cả Harry nữa.
 
-“Giả sử như anh chịu nhận thẻ United nhé,” cô tự trào phúng, ít ra thì cô vẫn còn có thể đùa cợt được. Ít ra cô vẫn còn Harry. Mà rốt cuộc Harry đang ở đâu nhỉ? Cô lắc lắc lọ thuốc giảm đau, thứ luôn khiến Harry phải ba chân bốn cẳng chạy ù tới vì viên thuốc có mùi vị cá ngừ. Thế nhưng Harry đã chẳng chạy đến, và cô đã linh cảm được điều đó. Trước khi tìm thấy nó dưới tầng hầm, cuộn tròn người lại, cô đã biết thừa rồi.
+“Giả sử như anh chịu nhận thẻ United nhé,” cô tự trào phúng, ít ra thì cô vẫn còn có thể đùa cợt được. Ít ra cô vẫn còn chú mèo Harry. Mà rốt cuộc Harry đang ở đâu nhỉ? Cô lắc lắc lọ thuốc giảm đau, thứ luôn khiến Harry phải ba chân bốn cẳng chạy ù tới vì viên thuốc có mùi vị cá ngừ. Thế nhưng Harry đã chẳng chạy đến, và cô đã linh cảm được điều đó. Trước khi tìm thấy nó dưới tầng hầm, cuộn tròn người lại, cô đã biết thừa rồi.
 
-Cô quá đau đớn để có thể chôn cất nó. Thay vào đó, cô cứ để mặc Harry ở đó, lái xe thẳng tới quán Joe’s, uống say khướt cho đến khi đầu óc mụ mị, để rồi sáng hôm sau tỉnh dậy với một cơn đau đầu dữ dội, cùng một tảng đá đè nặng ngực trái, cô biết chắc rằng cuộc đời mình đã thực sự chấm hết.
+Cô quá đau đớn để có thể chôn cất nó. Thay vào đó, cô cứ để mặc Harry ở đó, lái xe thẳng tới tiệm rượu của Joe, uống say khướt cho đến khi đầu óc mụ mị, để rồi sáng hôm sau tỉnh dậy với một cơn đau đầu dữ dội, cùng một tảng đá đè nặng ngực trái, cô biết chắc rằng cuộc đời mình đã thực sự chấm hết.
 
-Thế nhưng hôm đó là thứ Ba. Ngày thứ hai của học kỳ. Cô còn một lớp Nhập môn Văn học lúc mười giờ rưỡi. Cô nướng bánh mì. Cô xem lại những ghi chú bài giảng cũ về tập <i>Lá cỏ</i>. Cô nhìn thấy những nét chữ nguệch ngoạc của chính mình trong phần lề bên cạnh các câu thơ: "Dù là mầm non nhỏ nhất cũng cho thấy thực ra chẳng có cái chết nào cả... Có ai từng cho rằng được sinh ra là điều may mắn không? Tôi xin vội vàng báo cho anh hay cô ấy biết, được chết cũng may mắn chẳng kém gì, và tôi thừa biết điều đó." Từ trước đến nay, cô vẫn luôn thầm nghĩ những câu thơ ấy thật nhảm nhí cho đến tận sáng hôm nay, khi cô giơ chiếc áo cánh màu xám lên trước gương. Không, cô sẽ không mặc chiếc áo đó. Cô sẽ không đi làm. Làm thế để làm gì chứ? Cô đã có thể nhìn thấy trước toàn bộ ngày hôm nay, cả một cuộc đời dài đằng đẵng và cô độc, trước khi nó thực sự xảy ra.
+Thế nhưng hôm đó là thứ Ba. Ngày thứ hai của học kỳ. Cô còn một lớp Nhập môn Văn học lúc mười giờ rưỡi. Cô nướng bánh mì. Cô xem lại những ghi chú bài giảng cũ về tập <i>Lá cỏ</i>. Cô nhìn thấy những nét chữ nguệch ngoạc của chính mình trong phần lề bên cạnh các câu thơ: “Dù là mầm non nhỏ nhất cũng cho thấy thực ra chẳng có cái chết nào cả… Có ai từng cho rằng được sinh ra là điều may mắn không? Tôi xin vội vàng báo cho anh hay cô ấy biết, được chết cũng may mắn chẳng kém gì, và tôi thừa biết điều đó.” Từ trước đến nay, cô vẫn luôn thầm nghĩ những câu thơ ấy thật nhảm nhí cho đến tận sáng hôm nay, khi cô giơ chiếc áo cánh màu xám lên trước gương. Không, cô sẽ không mặc chiếc áo đó. Cô sẽ không đi làm. Làm thế để làm gì chứ? Cô đã có thể nhìn thấy trước toàn bộ ngày hôm nay, cả một cuộc đời dài đằng đẵng và cô độc, trước khi nó thực sự xảy ra.
 
 Whitman đã đúng. Thật may mắn biết bao nếu được chết, cô nghĩ, được hóa thành bụi đất. Được làm một cái cây. Được trở nên xinh đẹp trở lại bằng cách hòa mình vào lòng đất mẹ.
 
-Đó là một cách nghĩ thật đáng yêu về cái chết. Nó mang tính tuần hoàn. Và cô vẫn luôn yêu thích những cái kết mang tính tuần hoàn trong văn chương, dù chúng có hoàn toàn phi thực tế đi chăng nữa. Có lẽ đó là lý do tại sao cô là người duy nhất trong lớp văn học thời kỳ Nữ hoàng Victoria thực sự thích cái kết của cuốn <i>Jane Eyre</i>. Cô thích cái kết của tất cả các mô típ hôn nhân. Các cuốn sách đều ngăn nắp và có chủ đích. Chúng thành công theo cách riêng của mình. Những cái kết luôn phản chiếu phần mở đầu. Các tác giả nắm giữ quyền lực tối cao đối với cốt truyện. Những cái chết được sắp đặt vào một trật tự vũ trụ nào đó khiến cho tất cả mọi người cảm thấy nhẹ nhõm hơn về việc được sống, bởi vì chúng diễn ra ở hậu trường, ở miền Nam nước Ý hoặc bên bờ biển, nơi các nhân vật được ban cho ân huệ và phẩm giá để ra đi trên những chiếc giường đẹp đẽ hơn cả chiếc giường của chính họ.
+Đó là một cách nghĩ thật đáng yêu về cái chết. Nó mang tính tuần hoàn. Và cô vẫn luôn yêu thích những cái kết mang tính tuần hoàn trong văn chương, dù chúng có hoàn toàn phi thực tế đi chăng nữa. Có lẽ đó là lý do tại sao cô là người duy nhất trong lớp văn học thời kỳ Victoria thực sự thích cái kết của cuốn <i>Jane Eyre</i>. Cô thích cái kết của tất cả các mô típ hôn nhân. Các cuốn sách đều ngăn nắp và có chủ đích. Chúng thành công theo cách riêng của mình. Những cái kết luôn phản chiếu phần mở đầu. Các tác giả nắm giữ quyền lực tối cao đối với cốt truyện. Những cái chết được sắp đặt vào một trật tự vũ trụ nào đó khiến cho tất cả mọi người cảm thấy nhẹ nhõm hơn về việc được sống, bởi vì chúng diễn ra ở hậu trường, ở miền Nam nước Ý hoặc bên bờ biển, nơi các nhân vật được ban cho ân huệ và phẩm giá để ra đi trên những chiếc giường đẹp đẽ hơn cả chiếc giường của chính họ.
 
-Cô đặt chiếc áo cánh xuống. Cô nhìn vào lọ thuốc giảm đau của Harry, và cô đặt một phòng tại khách sạn Cornwall.
+Cô đặt chiếc áo cánh xuống. Cô nhìn vào lọ thuốc giảm đau của Harry, và cô đặt một phòng tại Khách sạn Cornwall Inn.

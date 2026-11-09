@@ -148,6 +148,8 @@ Tôi rút từ trong túi ra một trong những cuộn giấy thử màu xanh l
 
 Chúng tôi giữ im lặng. Dải giấy kẹp giữa các ngón tay cậu ta đã chuyển sang màu cam tươi vô cùng rõ ràng.
 
+<hr class="scene-break"/>
+
 Ana đợi cho tới khi Thủ lĩnh Seriv khép chặt cánh cửa phòng giam lại mới hừ nhẹ một tiếng, lắc đầu cất lời: “Cậu ta là một chàng trai có thiện chí. Dù chẳng mấy thông minh! Nhưng ít nhất cũng là kẻ tử tế, và ta cho rằng, cũng có chút can đảm đấy chứ.”
 
 “Và cậu ta đã bị nhiễm độc,” tôi lạnh lùng lên tiếng.

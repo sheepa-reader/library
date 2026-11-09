@@ -36,6 +36,8 @@
 
 <p class="para-vi-sub">“Tớ phải bỏ cái thói quen này mới được,” Allie thì thầm.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">There was a Dunkin’—a cube of brown brick and glass—across from the Market Basket. The floor was filthy with dried slush. The few doughnuts remaining behind the counter had begun to petrify, like bits of troll in sunlight. Gwen had worked in this exact Dunkin’ when she was a teenager. Tana had worked alongside her. Gwen used to hate coming home with the smell of Dunkin’ Donuts in her hair, a perfume of coffee, creams, and (in those days) cigarettes. Her father told her to get used to it: that was the smell of working for a living.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Cửa hàng Dunkin’ đối diện siêu thị Market Basket trông như một khối gạch nâu ố xám mọc lên cùng những ô kính trầm mặc. Sàn nhà nhơm nhớp những vệt bùn tuyết đọng khô đét. Mấy chiếc bánh donut trơ trọi sót lại sau quầy bắt đầu khô cứng ngắc, trông quắt queo như lũ troll bị hóa đá dưới ánh mặt trời. Gwen từng làm việc ngay tại tiệm Dunkin’ này hồi còn tuổi teen. Tana cũng từng đứng ca chung với cô. Ngày ấy, Gwen cực kỳ chán ghét mỗi lần trở về nhà với thứ mùi bánh Dunkin’ bám chặt lấy tóc tai, một thứ mùi tổng hợp ngột ngạt giữa cà phê, kem béo và (vào thời đó) cả mùi thuốc lá vương vấn. Bố cô từng bảo cô hãy học cách quen dần với nó: đó chính là mùi vị của mồ hôi nước mắt lao động kiếm sống.</p>
@@ -155,4 +157,3 @@
 <p class="para-en">She didn’t look back as she walked away. Her hands were shaking.</p>
 
 <p class="para-vi-sub">Cô không ngoảnh đầu lại khi bước đi. Đôi bàn tay cô run rẩy không sao kiểm soát nổi.</p>
-

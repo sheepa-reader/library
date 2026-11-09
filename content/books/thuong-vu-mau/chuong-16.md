@@ -30,6 +30,8 @@ Khi chúng tôi thẩm vấn những người sống sót, một câu chuyện d
 
 “Nhưng tôi không thấy ai trong gia tộc ở đây cả,” gã lầm bầm. “Không một ai! Có phải họ đều đã mất tích rồi không? Liệu có phải *tất cả* người nhà Burav thực sự đã bỏ mạng, chỉ trong một đêm duy nhất?”
 
+<hr class="scene-break"/>
+
 Thời gian trôi đi, những giờ khắc bị che mờ bởi khói và tro tàn. Giọng nói của mọi người đều trở nên khàn đặc và đứt quãng, đôi mắt ai cũng đẫm lệ và đỏ ngầu. Mặt trời nhô lên, mang sắc đỏ thẫm kỳ dị đầy bất an. Khi vầng thái dương chật vật thoát khỏi đường chân trời mù mịt khói bụi, tôi cũng hoàn thành việc lập danh sách đầy đủ các thành viên đại gia đình Burav có mặt trong vụ hỏa hoạn, vừa vặn kịp lúc để gạch tên gần như tất cả bọn họ vào diện mất tích, được cho là đã chết.
 
 Kyuli Burav, em gái Burilis: biến mất. Slakav Burav, em họ Burilis: biến mất. Orman Burav, cháu trai Burilis: biến mất. Orti Burav, vợ Orman: biến mất. Daqi Burav, cô của Burilis: biến mất. Dường như hầu hết gia tộc đã nghỉ lại trong dinh thự đêm đó, và không một ai được tìm thấy trong buổi sáng mù mịt khói này. Khi vị tro tàn tràn ngập trong cổ họng, tôi cố không tự hỏi liệu mảnh than vụn nào tôi vừa nuốt phải có từng là xương cốt của một người nhà Burav hay không.
@@ -59,6 +61,8 @@ Tôi lặng im nhìn những làn khói cuộn ra từ các khung cửa sổ m�
 “Ngài đang tìm kiếm điều gì sao, thưa ngài?”
 
 “Nhân chứng. Chắc chắn phải có một đôi mắt sống sót nào đó đã nhìn thấy điều gì đó hữu ích.”
+
+<hr class="scene-break"/>
 
 Phải mất thêm hai tiếng đồng hồ nữa, giả thuyết của tôi mới được chứng minh là đúng: một trong những cô hầu bếp được tìm thấy đang dưỡng sức trong chuồng ngựa. Cô ta ho sặc sụa, uống hết ngụm nước này đến ngụm nước khác dù phần lớn đều bị nôn ra ngay sau đó, có lẽ vì ngộ độc khói.
 
@@ -95,6 +99,8 @@ Tôi cảm ơn lời khai của cô gái rồi sải bước ra xa vài bước 
 “Tôi biết chứ, thưa ngài. Nhưng dân thường thì đâu cần bằng chứng. Một câu chuyện thêu dệt là quá đủ rồi.”
 
 Tôi thở dài, cảm ơn ông ấy rồi vội vã rời đi tìm Ana khi mặt trời bắt đầu nhô lên trên bầu trời.
+
+<hr class="scene-break"/>
 
 Tôi tìm thấy bà đang ngồi trên lối đi chính trong khu vườn thuộc trang viên Burav, lưng khom xuống, tựa mình giữa vô số đóa hoa đang độ tỏa hương khoe sắc. Khi tôi lại gần, bà cất tiếng gọi: “Dáng đi của cậu có vẻ mệt mỏi đấy, Din!”
 
@@ -167,6 +173,8 @@ Có tiếng bước chân dồn dập trên sỏi đá, một lính chấp pháp
 “Nhân chứng cho việc gì?”
 
 “Cho việc ngọn lửa đã sát hại gia tộc Burav thế nào, thưa ngài.”
+
+<hr class="scene-break"/>
 
 Người đàn ông ngồi co rúm giữa làn khói và sương mù, hai tay ôm chặt tách trà *clar*, toàn thân run rẩy bần bật. Chòm râu của gã bị lửa sém nham nhở từng mảng, khuôn mặt và đôi bàn tay cũng bị bỏng nặng, nhưng các y sĩ đã kịp thời bôi thuốc mỡ và đắp các mảnh ghép sinh học để chữa trị. Khi gã uống trà, tôi nhận thấy đồng tử gã giãn rộng. Tôi đoán họ đã cho gã dùng thuốc an thần, có lẽ là *katapra*. Tôi chỉ có thể khai thác thông tin từ gã trong khoảng một giờ đồng hồ trước khi thuốc phát huy tác dụng hoàn toàn.
 

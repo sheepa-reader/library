@@ -148,6 +148,8 @@
 
 <p class="para-vi-sub">“Rất có thể bọn chúng đang ngấm ngầm kích động Phong trào Tự lực Spuria, ngọn cờ đấu tranh vũ trang giành độc lập cho phương bắc. Một khi chứng minh được các Vương quốc Phương Nam phải chịu trách nhiệm hoàn toàn cho thảm họa hủy diệt sinh thái bằng chứng cứ không thể chối cãi, Ovate sẽ nghiễm nhiên thu phục được sự ủng hộ tuyệt đối của hàng vạn cư dân xứ Spur phẫn nộ.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -187,6 +189,8 @@
 <p class="para-en">The archivist makes a note to check the historical accuracy of all this. He only gets this riled when he’s making something up.</p>
 
 <p class="para-vi-sub">Nữ lưu trữ viên cẩn thận ghi chép lại từng chi tiết vào cuốn sổ da để kiểm chứng tính xác thực lịch sử của toàn bộ lời trần thuật này. Anh xưa nay chỉ gắt gỏng và tỏ ra bực bội thế này mỗi khi bản thân đang tìm cách che giấu hoặc thêu dệt nên điều gì đó mà thôi.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -235,4 +239,3 @@
 <p class="para-en">She threw open the door to the house. “I’m going to go make a pie. Be thankful I don’t bake you in it.”</p>
 
 <p class="para-vi-sub">Feng dứt khoát đẩy toang cánh cửa lớn bước vào trong sảnh. “Tôi đi làm bánh đây. Hãy thầm biết ơn vì tôi chưa nổi điên nhét luôn anh vào lò nướng đấy.”</p>
-

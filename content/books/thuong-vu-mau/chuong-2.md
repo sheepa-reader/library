@@ -68,6 +68,8 @@ Tôi gạt đi những ký ức ấy để trở về với thực tại.
 
 “Nhưng chẳng có cái chết nào trong số đó thú vị cả!” bà nói. “Không một ai, chẳng một ai cả! Chúng có thể mổ bụng nhau ngay trên cái đường phố chết tiệt đó, ta đếch thèm quan tâm!” Nói rồi, bà khoanh tay, tiếp tục lẩm bẩm chửi rủa.
 
+<hr class="scene-break"/>
+
 Sau một giờ đồng hồ chịu đựng cơn giận lây từ Ana, tôi trèo ra khỏi khoang xe để lên ngồi cùng viên xà ích trên bục điều khiển. Dù việc này chẳng thể mang lại cho tôi chút giấc ngủ nào, ít nhất tiếng vó ngựa gõ xuống lòng đường cũng bớt cay nghiệt hơn lời lẽ của bà.
 
 Tôi ngồi chớp mắt ngái ngủ khi cỗ xe xóc nảy đi qua những dặm dài cánh đồng đậu. Đường chân trời bằng phẳng, xanh ngắt và tít tắp, không một bóng cây trong tầm mắt. Cảnh tượng ấy như thách thức thị giác người nhìn. Cứ như thể toàn bộ Lãnh hạt Sapirdad đã bị biến đổi, từng tấc đất và dưỡng chất đều được dồn hết vào việc canh tác đậu. Một quang cảnh kỳ lạ đối với tôi: tôi vốn sinh ra và lớn lên ngay trên chính những đồng bằng này, dù dĩ nhiên là ở phía bên kia, phía kém trù phú hơn của bức tường vòng thứ ba thuộc Đế quốc, nhưng việc cảnh quan nơi đây bị phát quang triệt để đã khiến nó trở nên hoàn toàn xa lạ.

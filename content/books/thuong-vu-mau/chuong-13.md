@@ -136,6 +136,8 @@ Osumlik lí nhí xin lỗi, rồi lại thổi tiếp. Một lần nữa, cảm 
 
 Tôi vờ nở một nụ cười nhưng vẫn dán mắt vào ánh nhìn đầy khiếp hãi của sinh vật kia. Tôi tự hỏi, liệu Zansay và Castus có từng cảm thấy điều tương tự hay không, khi họ bị ép buộc phải trải qua những điều kinh hoàng như thế cùng nhau trong đêm tối?
 
+<hr class="scene-break"/>
+
 Khi chúng tôi rời khỏi phòng của Velona, bàn tay gầy guộc của Ana đột ngột đưa ra, nắm lấy vai Fotia. “Ta muốn có một nơi để nói chuyện riêng, cô bé.”
 
 Fotia dẫn chúng tôi đến một gian tiền phòng nhỏ hẹp dẫn sang một căn phòng khác. Nơi đây từng là một phòng ngủ, với chiếc giường bốn cột xa hoa và một tấm gương lớn tráng bạc treo trên bức tường phía xa. Một chiếc bàn trang điểm đặt ngay trước gương, bày biện những chiếc hộp tinh xảo đựng vô số món đồ xa xỉ: nước hoa và dầu thơm, nhẫn và vòng cổ, và, nhiều nhất, là những dải ruy băng cùng khăn quàng đủ màu sắc. Tất cả đều bị phủ một lớp bụi dày. Căn phòng này hẳn đã bị bỏ hoang không ai chạm tới suốt nhiều tháng qua.

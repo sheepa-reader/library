@@ -16,6 +16,8 @@
 
 <p class="para-vi-sub">“Khoan đã,” Robin lên tiếng. “Chuyện còn kịch tính hơn nữa kìa. Để tôi kể cho mọi người nghe những gì đã xảy ra cách đây vài tháng, khi tôi quay lại Slaughterbridge để tìm Stuart Finger.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The mac and cheese was ready around the time Robin finished telling her part of it. Allie ate hers, then ate Tana’s. She was looking better, although all the crying had sketched very white lines on her usually pink cheeks.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Khay mì ống phô mai vừa chín tới đúng lúc Robin kể xong phần chuyện của mình. Allie ăn hết phần của cô, rồi ăn luôn cả phần của Tana. Trông cô đã khá hơn đôi chút, dù những trận khóc lóc liên hồi vừa rồi đã để lại những vệt hằn trắng bệch trên đôi má vốn ngày thường luôn ửng hồng.</p>
@@ -115,4 +117,3 @@
 <p class="para-en">Allie looked glum. “Donna has it.”</p>
 
 <p class="para-vi-sub">Allie trông vẻ ủ rũ. “Donna giữ nó rồi.”</p>
-

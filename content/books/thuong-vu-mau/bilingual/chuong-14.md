@@ -176,6 +176,8 @@
 
 <p class="para-vi-sub">Ông ta tuột mặt nạ ra rồi bước xuống khỏi chiếc xe thồ. “Đi ra chỗ khác một chút đi, cậu bạn,” ông ta bảo, “để có chút riêng tư.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">As I followed Commander Tauri out into the bean fields, I decided he was the most unusual senior officer I had ever met. His hair was tied up in a sloppy knot, he bore no heralds at all, and he wore no jerkin nor shirt beneath his Orbiis coat—indeed, he didn’t seem to notice at all when an errant breeze blew its flaps open, baring his skinny gray chest to the sun. He hummed idly as he strode, pausing only to remark, “A little farther, Iudex! My folk have keen ears. I’d like to put much wind between us and them…for I frankly dread what you’re about to say.”</p>
 
 <p class="para-vi-sub">Khi rảo bước theo sau Chỉ huy Tauri tiến vào những ruộng đậu, tôi thầm nhận định ông ta chính là viên sĩ quan cấp cao kỳ quặc nhất mà tôi từng chạm trán. Tóc ông ta búi thành một búi cẩu thả, trên người tuyệt nhiên không mang bất kỳ huy hiệu nào, và ông ta thậm chí còn chẳng buồn mặc áo gi-lê hay áo lót bên trong chiếc áo khoác Orbiis, thực tế là ông ta dường như chẳng hề bận tâm khi một cơn gió vô tình thổi tung vạt áo, phơi bày khuôn ngực gầy guộc xám xịt dưới ánh mặt trời. Ông ta vừa sải bước vừa ngâm nga vu vơ, chỉ dừng lại để buông một câu nhận xét: “Xa thêm một chút nữa đi, hỡi người của Bộ Tư pháp! Thuộc hạ của ta thính tai lắm. Ta muốn có thật nhiều ngọn gió ngăn giữa chúng ta và bọn họ, bởi thành thực mà nói, ta đang rất kinh hãi những gì ngươi sắp sửa nói ra đây.”</p>
@@ -399,6 +401,8 @@
 <p class="para-en">“Well, I haven’t had to operate upon a human cadaver since my Apoth initiations. It’s quite likely I’ll make a frightful fucking mess of it.” A lazy, dreamy smile. “So if I’m really going to butcher a gentryman’s daughter, chap, it’s best if the corpse is infected—that way I can burn it and hide my clumsy craftsmanship, eh?”</p>
 
 <p class="para-vi-sub">“À thì, tôi chưa từng phải giải phẫu trên một tử thi người nào kể từ kỳ lễ nhập môn của Bộ Sinh dược. Rất có thể tôi sẽ bày ra một bãi chiến trường chết tiệt và kinh hoàng đấy.” Một nụ cười lười nhác, mơ màng hiện lên. “Thế nên nếu tôi thực sự phải mổ xẻ con gái của một nhà quý tộc, cậu bạn ạ, tốt nhất là cái xác đó đã bị lây nhiễm; bằng cách đó tôi có thể thiêu rụi nó để che giấu tay nghề vụng về của mình, hả?”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Evening began falling when I was halfway back to Lacanthim proper. I cursed myself for my insistence on hiring the cheapest of horses, as the poor nag couldn’t carry me at a full gallop for longer than a half league, and I did not encounter any faster carriages or destriers who could return me quicker. And though I needed to act swiftly now, I was unwilling to cause a poor creature suffering on account of it. Thus we trundled on together.</p>
 

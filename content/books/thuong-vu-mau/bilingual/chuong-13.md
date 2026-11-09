@@ -268,6 +268,8 @@
 
 <p class="para-vi-sub">Tôi vờ nở một nụ cười nhưng vẫn dán mắt vào ánh nhìn đầy khiếp hãi của sinh vật kia. Tôi tự hỏi, liệu Zansay và Castus có từng cảm thấy điều tương tự hay không, khi họ bị ép buộc phải trải qua những điều kinh hoàng như thế cùng nhau trong đêm tối?</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">As we left Velona’s chambers, Ana’s skinny hand flashed out and took Fotia by the shoulder. “I would like a place to talk in private, girl.”</p>
 
 <p class="para-vi-sub">Khi chúng tôi rời khỏi phòng của Velona, bàn tay gầy guộc của Ana đột ngột đưa ra, nắm lấy vai Fotia. “Ta muốn có một nơi để nói chuyện riêng, cô bé.”</p>

@@ -1204,6 +1204,8 @@
 
 <p class="para-vi-sub">Họ không nói gì, phòng khách cũng chỉ cách đó vài bước chân. Ngay cả sau đó, giữa hai người hầu như chẳng thốt lên một lời nào. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Gwen climbed in behind the wheel of the car, wondering if it would start. The night was so cold, the windshield was a blind eye, frosted over with a thousand overlapping feathers of ice. It was less like getting into a Honda Civic, more like finding herself in a cave of ice. The chill was thrilling, or maybe she was just highly sensitized; her body was still ringing like a struck bell.</p>
 
 <p class="para-vi-sub">15. Gwen trèo lên ghế lái, tự hỏi liệu chiếc xe có chịu nổ máy hay không. Đêm lạnh đến xé da xé thịt; kính chắn gió đóng băng đục mờ, phủ dày hàng ngàn vệt băng hình lông vũ chăng bện vào nhau. Cảm giác này chẳng giống bước vào một chiếc Honda Civic chút nào, mà hệt như cô vừa sa chân vào một hang động băng giá. Cái lạnh buốt khiến hệ thần kinh của cô tê dại và nhạy cảm đến tột cùng; cả cơ thể cô vẫn run lên bần bật như quả chuông vừa chịu một cú nện nảy lửa.</p>
@@ -1452,6 +1454,8 @@
 
 <p class="para-vi-sub">Họ ngồi trong bóng tối và Gwen ngước nhìn những vì sao, nhịp tim đập thình thịch nơi lồng ngực dồn ứ lên tận cổ. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Two days before Arthur’s flight back to London, Gwen was in the library, stripping decorations off Colin’s tree, when Arthur wandered in from the kitchen with two mugs of tea. She looked at him and then quickly looked away. Arthur looked good, in a waffled hoodie and a pair of carpenter jeans, a big man who slouched and lumbered, bearlike. The sight of him twisted up her insides and it took an almost physical effort to keep her face a careful blank, to fight off the sudden stinging sensation in the backs of her eyes.</p>
 
 <p class="para-vi-sub">16. Hai ngày trước chuyến bay trở lại London của Arthur, Gwen đang ở trong thư viện, gỡ những món đồ trang trí khỏi cây thông Noel của Colin thì Arthur từ phòng bếp bước vào với hai cốc trà trên tay. Cô nhìn anh rồi vội vã ngoảnh mặt đi chỗ khác. Trông Arthur thật vững chãi trong chiếc áo hoodie dệt gân và chiếc quần jean thợ mộc, một người đàn ông vạm vỡ với dáng đi lững thững, nặng nề như một chú gấu. Cảnh tượng ấy khiến lồng ngực cô quặn thắt lại; cô phải dốc hết sức bình sinh mới giữ được vẻ mặt bình thản, gạt đi cay đắng đột ngột dâng lên nhức nhối nơi khóe mắt.</p>
@@ -1611,6 +1615,8 @@
 <p class="para-en">He gave her a grin. “Let me know if it’s me? I’ve got six courses hanging over me next semester—I don’t want to do all that homework if I don’t have to.”</p>
 
 <p class="para-vi-sub">Anh nhếch mép cười với cô. “Nhớ báo cho anh biết nếu người đó là anh nhé? Học kỳ tới anh phải gánh tận sáu học phần lận, anh chẳng muốn ôm đống bài vở đó làm gì nếu không thực sự cần thiết.” ✦  ✦  ✦</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Things took a turn for the worse in the early spring, and Llewellyn had a three-week stay in Eastern Maine Medical. But he rallied after his doctors eliminated one prescription and added two others, and at the end of March they sent him home. He had lost weight, and most of his teeth. By then he was 108 pounds. He turned seventy-two in the middle of March, and Colin had spent the money to get him the right birthday present. After the cake, Llewellyn unwrapped a bottle of 1912 Heidsieck & Co. Metropole Gout Americain, the same champagne that had been on the menu on the Titanic.</p>
 
@@ -1876,6 +1882,8 @@
 
 <p class="para-vi-sub">Sau một hồi, Gwen trút bỏ phần rượu whiskey còn lại. Cô dùng chiếc bình pha lê đựng số Nước mắt Rồng còn sót lại, cất vào xe rồi mới gọi cho dịch vụ cấp cứu. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The memorial was on Friday, in the Rackham College chapel—piles of hothouse orchids in front of the altar and World War II–era swing music from the college jazz orchestra—and then a reception at The Briars. One would’ve thought Donna and Gwen were hosting the reception. Colin couldn’t stand to be there, couldn’t smile, shake hands, and chuckle at anecdotes about Llewellyn’s years as a teacher, his sexual adventures, his psychological studies, his thousand small acts of kindness and generosity.</p>
 
 <p class="para-vi-sub">18. Buổi lễ tưởng niệm diễn ra vào thứ Sáu tại Nhà nguyện Đại học Rackham, với những lẵng phong lan nhà kính chất đầy trước bệ thờ cùng bản nhạc swing thời Thế chiến thứ hai do dàn nhạc jazz của trường thể hiện, sau đó là buổi tiếp tân tại Dinh thự The Briars. Trông cứ như thể Donna và Gwen mới là những người đứng ra tổ chức buổi tiếp tân ấy. Colin không tài nào chịu nổi khi phải có mặt ở đó, hắn không thể nở nụ cười, gượng gạo bắt tay và cười khúc khích trước những giai thoại về những năm tháng Llewellyn làm thầy giáo, những cuộc tình ái của ông, các nghiên cứu tâm lý, cùng hàng ngàn hành động tử tế và hào phóng nhỏ nhặt khác.</p>
@@ -1960,6 +1968,8 @@
 
 <p class="para-vi-sub">Gwen bật đèn xi nhan rồi bẻ ngoặt tay lái ở góc phố; đường Cordis lập tức khuất sau lưng. Nhưng rất lâu sau đó, cô vẫn nhìn thấy quầng đỏ phản chiếu của trận hỏa hoạn, thứ ánh sáng bập bùng rực lên rọi sáng cột khói đang bốc cao. Cột tàn lửa và than hồng ấy hẳn có thể nhìn thấy từ cách xa hàng dặm, cứ như thể Vua Đau Thương vừa ghé thăm khu phố vậy. ✦  ✦  ✦ 19.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">April 23, 1990</p>
 
 <p class="para-vi-sub">Ngày 23 tháng 4 năm 1990</p>
@@ -2035,4 +2045,3 @@
 <p class="para-en">Arthur Oakes.</p>
 
 <p class="para-vi-sub">Arthur Oakes.</p>
-

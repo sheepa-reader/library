@@ -80,6 +80,8 @@
 
 <p class="para-vi-sub">Bà bỗng chìm vào im lặng, đầu hơi cúi xuống. “Ta cảm thấy câu trả lời này cũng chẳng thể dùng làm manh mối thực tiễn. Ít nhất là trong tương lai gần, và lại càng không giúp ích gì cho việc truy tìm kẻ sát nhân mà chúng ta đang đuổi theo. Thế nhưng…” Bà hướng ánh mắt về phía tôi, đôi đồng tử màu vàng rực sáng trên gương mặt xám xịt. “Nếu có thể, rốt cuộc ta sẽ cho cậu thấy, Din. Cậu xứng đáng nhận được câu trả lời đó. Bởi nhiệm vụ của cậu là gì, nếu không phải là nhìn thẳng vào những sự thật mà phần lớn thế gian thà ngó lơ? Có điều lúc này, ta thực sự chưa biết phải tính sao. Hãy nghỉ ngơi đi, nhóc, và cho ta một khoảng không gian để suy ngẫm về điều này.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I went to the Orbiis office before I ventured out to find Fotia. Tauri’s officers were hard at work cleansing all their tools—including the wheellock bombards and lypi lances—but Tauri himself came rushing out as I approached, his hair still wet from his own wash. “Did you show her the journal?” he asked. “What did she say?”</p>
 
 <p class="para-vi-sub">Tôi ghé qua văn phòng Viện Orbiis trước khi liều mình ra ngoài tìm Fotia. Các sĩ quan của Tauri đang tích cực lau rửa toàn bộ trang thiết bị, bao gồm cả hỏa thương bánh xe và thương tê liệt Lypi, nhưng chính Tauri đã vội vã bước ra khi thấy tôi tiến lại gần, mái tóc ông ấy vẫn còn ướt sũng sau khi tẩy rửa. “Cậu đã cho bà ấy xem cuốn nhật ký chưa?” Ông ấy hỏi. “Bà ấy nói sao?”</p>
@@ -175,6 +177,8 @@
 <p class="para-en">I swallowed, turned, and walked away.</p>
 
 <p class="para-vi-sub">Tôi nuốt khan, quay người và bước đi.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I sought my sister at the canton jailhouse, but Seriv confessed she hadn’t been by. “Said she was chasing some Burav drover,” he told me. “Believed he lived south of here now. She had a great fire in her to do so. But she’s not been back yet.”</p>
 

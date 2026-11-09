@@ -622,7 +622,7 @@
       // Ordered lists
       .replace(/^\s*\d+\.\s+(.*$)/gim, '<li>$1</li>')
       // Horizontal rules
-      .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr/>');
+      .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr class="scene-break"/>');
 
     // Paragraph wrapping for loose lines with smart Drop Cap assignment
     const pLines = html.split(/\n\s*\n/);

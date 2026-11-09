@@ -48,6 +48,8 @@
 
 <p class="para-vi-sub">Tôi chầm chậm dời tầm mắt khỏi bóng hình con quái điểu đang ngày một lớn dần trên nền trời. Sincera, như tôi từng nhận xét, là một người phụ nữ kiệm lời bậc nhất, và tuyệt nhiên không một từ ngữ nào thốt ra khỏi miệng cô là dư thừa vô nghĩa. Nếu người hỏi câu này là Laven, đó chắc chắn sẽ là lời mở đầu cho một bài thuyết giảng uyên bác về một học thuyết ẩm thực giả kim nào đó. Nếu là Cori, đó sẽ là một cái cớ ngọt ngào để hai đứa tôi cùng nhau tựa đầu ngắm nhìn đường chân trời suốt hàng giờ đồng hồ. Nhưng xuất phát từ miệng Sincera, đó là một câu tự vấn vô cùng chân thành và trĩu nặng.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -187,4 +189,3 @@
 <p class="para-en">Right up until the message arrived from Ranch to make everything worse.</p>
 
 <p class="para-vi-sub">Cho đến đúng cái khoảnh khắc định mệnh, khi một bức mật thư hỏa tốc từ thành phố Ranch cập bến để biến chuyển mọi sự trở nên tồi tệ hơn gấp trăm lần.</p>
-

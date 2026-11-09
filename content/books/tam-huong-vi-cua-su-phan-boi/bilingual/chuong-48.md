@@ -64,6 +64,8 @@
 
 <p class="para-vi-sub">Musta sướng rơn người, không kìm được phấn khích mà tíu tít tuôn ra hàng loạt phương kế ngây thơ mà con bé dự định sẽ làm để hỗ trợ.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -83,6 +85,8 @@
 <p class="para-en">“No one asked you,” Musta says, glaring.</p>
 
 <p class="para-vi-sub">“Có ai mượn cô lên tiếng đâu,” Musta quắc mắt trừng lại cô.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -275,4 +279,3 @@
 <p class="para-en">“Sourcery?” Right, yes. This is why she’s here. “Go on.”</p>
 
 <p class="para-vi-sub">“*Nguyên thuật* ư?” Yenne khẽ giật mình lẩm bẩm. Đúng rồi, phải rồi. Đây mới chính là lý do sống còn thôi thúc cô ngồi lại nơi này. “Anh nói tiếp đi.”</p>
-

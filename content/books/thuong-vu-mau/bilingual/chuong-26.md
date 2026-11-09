@@ -204,6 +204,8 @@
 
 <p class="para-vi-sub">“Phải đấy,” Seriv lên tiếng. “Tốt nhất hãy để bà ta nghỉ ngơi một chút rồi lại cho uống thuốc. Lần này, có lẽ nên để Kol ở đây tra hỏi xem sao? Tôi đoán tay nghề của cậu ấy nhẹ nhàng hơn đôi chút.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“They…are all dead?” Madi Istelia asked me weakly. “All of them?”</p>
 
 <p class="para-vi-sub">“Họ… đều đã chết hết rồi sao?” Madi Istelia thều thào hỏi tôi. “Toàn bộ bọn họ?”</p>
@@ -336,6 +338,8 @@
 
 <p class="para-vi-sub">Một nụ cười thoáng qua trên gương mặt bà. “Như tôi đã nói với các ngài, tôi hầu hạ gia tộc Burav từ đời thuở nào rồi. Ít nhất cũng đủ lâu để biết được một vài bí mật.” Bà đau đớn xoa mặt. “Trong này nóng đến mức tôi đã đinh ninh mình sẽ chết hoặc bốc cháy ngùn ngụt. Và có lẽ tôi… có lẽ tôi đáng ra nên chết đi thì hơn. Quá nhiều bí mật. Quá nhiều cái chết. Tôi tự hỏi, nếu như mình lên tiếng, liệu tôi có thể ngăn chặn được điều gì không? Hay rốt cuộc cũng chẳng có một ai thèm lắng nghe?”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Evening was crawling through the skies when the medikkers took Istelia away. The setting sun turned all the leaning posts and columns into a spiderweb of shadows at my feet, and the steel walls of the vault flared bright with the last slivers of sunlight, and cast crimson reflections all about.</p>
 
 <p class="para-vi-sub">Hoàng hôn đang chầm chậm buông xuống trên vòm trời khi các y sĩ đưa Istelia rời đi. Ánh tà dương biến toàn bộ những cột trụ và xà nhà xiêu vẹo thành một mạng nhện bóng tối dưới chân tôi, còn những bức tường thép của căn hầm thì rực sáng lên dưới những vệt nắng cuối ngày, hắt ra những mảng phản quang đỏ thẫm khắp bốn bề xung quanh.</p>
@@ -467,6 +471,8 @@
 <p class="para-en">“He had written his commands into his father’s soul,” she said simply, “just like his father has written commands into all the creature servants of the Empire. They cannot be defied. Burilis could not, and perished. Jalin, panicking, despairing, leapt from the window, his body burned and nearly broken. He awoke in his healing bath and was keenly aware that this other killer was out there, still hidden, still murderous—and now they had a very good reason to see Jalin eliminated.” She turned a page. “So you see, boys…I do not think Jalin fled into the forest for some mystical, divine purpose. I believe he did it out of fear, for simple survival. He is a killer driven by rashness. The other, however…they are quite a different thing.”</p>
 
 <p class="para-vi-sub">“Cậu ta đã khắc sâu mệnh lệnh của mình vào linh hồn người cha,” bà điềm nhiên đáp, “chẳng khác nào cách cha cậu ta từng khắc mệnh lệnh lên toàn bộ những sinh thể hầu cận của Đế quốc. Những mệnh lệnh đó không thể bị cưỡng lại. Burilis không thể kháng cự, và thế là bỏ mạng. Jalin, trong nỗi hoảng loạn và tuyệt vọng, đã gieo mình qua cửa sổ, thân thể bị bỏng rát và gần như tan nát. Cậu ta tỉnh dậy trong bồn hồi phục sinh học và nhận thức sắc bén rằng kẻ sát nhân *thứ hai* vẫn đang lảng vảng ngoài kia, vẫn ẩn mình, vẫn đăm đăm sát ý, và giờ đây kẻ đó đã có một lý do cực kỳ thỏa đáng để thủ tiêu Jalin.” Bà lật sang một trang khác. “Vì thế các cậu thấy đấy, các chàng trai… ta không nghĩ Jalin trốn vào rừng vì một mục đích thần thánh hay huyền bí nào đâu. Ta tin cậu ta làm vậy chỉ vì sợ hãi, vì bản năng sinh tồn thuần túy. Cậu ta là một kẻ sát nhân hành động do bồng bột. Thế nhưng, kẻ còn lại… lại là một sự tồn tại hoàn toàn khác biệt.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Tauri sighed. “It is all very chilling to hear these speculations of frost-hearted killers prowling about Lacanthim, but I doubt if Jalin left a list of co-conspirators lying about. Nor did he sketch out a map of where he might have been going in that accursed wood! For I somewhat doubt if he is headed…” He hazarded a glance out of the vault to confirm we were alone. “…to the Touched Site within. Unless he has a few dozen bombard charges in his pockets, he’s not getting through that massive stone plug—and even that might not do it.”</p>
 

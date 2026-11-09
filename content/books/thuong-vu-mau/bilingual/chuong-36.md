@@ -180,6 +180,8 @@
 
 <p class="para-vi-sub">“Trời bắt đầu ướt sũng rồi đấy, Din,” bà nói. “Làm ơn tìm cho ta chỗ trú tạm, rồi vẫy một cỗ xe ngựa để chúng ta quay về thị trấn đi.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Together we walked our way back along the path through the wood, Ana gripping my arm as I trudged forward on aching feet, the Orbiis mask upon my face to keep the fumes from my mind. I gave her my shootstraw hat to keep the rain off her head, then sighed deeply, wondering what it would be like to return to Lacanthim after all this.</p>
 
 <p class="para-vi-sub">Chúng tôi cùng nhau cất bước men theo lối mòn xuyên qua khu rừng để trở về. Ana bám chặt lấy cánh tay tôi khi tôi lê từng bước nặng nề trên đôi chân đau nhức, chiếc mặt nạ Orbiis vẫn mang trên mặt để ngăn những luồng khói độc xâm nhập vào tâm trí. Tôi nhường cho bà chiếc nón cỏ ống của mình để che mưa, rồi thở dài một hơi thật sâu, tự hỏi không biết mọi chuyện sẽ ra sao khi quay trở lại Lacanthim sau tất cả những biến cố này.</p>
@@ -327,3 +329,5 @@
 <p class="para-en">I gazed back at her. I half wanted to sprint back down the road and demand answers to my many questions. Instead, I sighed and returned to the main road to wait for a rider.</p>
 
 <p class="para-vi-sub">Tôi đăm đăm nhìn về phía bà. Lòng tôi nửa muốn chạy thục mạng ngược lại con đường để đòi câu trả lời cho vô vàn câu hỏi đang bủa vây. Nhưng rốt cuộc, tôi chỉ thở dài rồi quay bước trở lại trục đường chính, chờ một người cưỡi ngựa đi qua. **KẾT THÚC**</p>
+
+<hr class="scene-break"/>

@@ -128,6 +128,8 @@
 
 <p class="para-vi-sub">“Lại thêm một điểm chung chết tiệt nữa giữa hai chúng ta đấy,” tôi càu nhàu đáp lại.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -151,4 +153,3 @@
 <p class="para-en">Stifling a laugh, the archivist asks, “And how did that work out for you?”</p>
 
 <p class="para-vi-sub">Cố nén lại một tiếng cười châm biếm nơi khóe môi, nữ lưu trữ viên cất giọng hỏi: “Và rồi mọi chuyện rốt cuộc đã diễn ra ê chề thế nào?”</p>
-

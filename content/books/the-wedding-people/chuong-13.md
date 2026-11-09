@@ -2,448 +2,448 @@
 
 # Chương 10
 
-Tất cả họ ngồi tựa lưng vào mạn chiếc thuyền buồm nhỏ hẹp. Người lái thuyền dặn họ đừng ngả người ra phía sau quá sâu. “Thuyền sẽ lật đấy,” anh ta nói.
+Tất cả họ ngồi tựa lưng vào mạn chiếc thuyền buồm nhỏ hẹp. Người lái thuyền dặn họ đừng ngả người ra phía sau quá sâu. “Thuyền sẽ lật đấy,” anh ta nhắc nhở.
 
 “Thật á?” Marla hỏi.
 
-“Tôi đùa thôi,” người lái thuyền nói. “Dù không hẳn là thế. Đương nhiên là luôn có một giới hạn lật thuyền.”
+“Tôi đùa thôi,” người lái thuyền cười. “Dù không hẳn là thế. Đương nhiên là luôn có một giới hạn nghiêng lật thuyền.”
 
-Marla lườm người lái thuyền một cái, cứ như thể một tay lái tàu không có quyền đùa cợt về chuyện lật thuyền khi họ đang mắc kẹt giữa vùng nước mênh mông, nhưng Lila trông chẳng hề bận tâm. Lila ngồi vắt vẻo trên thuyền cứ như đang ngồi trong phòng khách nhà mình vậy, ngay ngắn, điềm tĩnh, với sự tự tin của một người phụ nữ đã triệt lông toàn thân một cách có hệ thống. Không có điều gì tồi tệ có thể xảy ra với một người phụ nữ như thế trong tuần lễ đám cưới của cô, ngay cả khi đang lênh đênh giữa đại dương.
+Marla lườm người lái thuyền một cái, cứ như thể một hoa tiêu không có quyền đùa cợt về chuyện lật thuyền khi hành khách đang lênh đênh giữa làn nước mênh mông, nhưng Lila trông chẳng hề bận tâm. Lila ngồi vắt vẻo trên mạn thuyền tự nhiên như đang ngồi trong phòng khách nhà mình: ngay ngắn, điềm tĩnh, với sự tự tin của một người phụ nữ chăm chút bản thân một cách hoàn hảo đến từng chi tiết. Chẳng điều gì tồi tệ có thể xảy ra với một người phụ nữ như thế trong tuần lễ đám cưới của cô, ngay cả khi đang bồng bềnh giữa đại dương.
 
-“Thế còn món Kỳ nghỉ trong một chiếc ly thì sao nhỉ?” Lila hỏi, và Nat lập tức mở thùng giữ nhiệt.
+“Thế còn món Kỳ nghỉ trong một chiếc ly thì sao nhỉ?” Lila hỏi, và Nat lập tức mở nắp thùng giữ nhiệt.
 
-“Phải là Kỳ nghỉ trong các chiếc ly chứ,” Marla nói.
+“Phải gọi là Kỳ nghỉ trong những chiếc ly chứ,” Marla bắt bẻ.
 
-“Sao cơ?” Lila hỏi.
+“Sao cơ ạ?” Lila hỏi lại.
 
-“Số nhiều thực ra phải là Kỳ nghỉ trong các chiếc ly,” Marla nhắc lại.
+“Số nhiều về mặt ngữ pháp thực ra phải là Kỳ nghỉ trong những chiếc ly,” Marla nhắc lại giọng kẻ cả.
 
-“Mọi người vẫn luôn gọi như thế mà,” chú rể mỉm cười nói, và Phoebe có thể nhận ra Gary đang làm gì bởi đó cũng là điều Phoebe hay làm. Anh đang cố gắng hạ nhiệt tình hình, cố gắng lái câu nói của Marla nghe có vẻ hài hước hơn. Nhưng Lila không hề cười.
+“Mọi người vẫn luôn gọi như thế mà,” chú rể mỉm cười xoa dịu, và Phoebe nhận ra ngay điều Gary đang làm bởi đó cũng là phản xạ quen thuộc của cô: anh đang cố gắng hạ nhiệt căng thẳng, lái câu nhận xét cộc cằn của Marla theo hướng bông đùa nhẹ nhàng hơn. Nhưng Lila không hề cười.
 
-“Sao chị lại biết cách phát âm thức uống đó thế?” Lila hỏi Marla, như thể cô thực sự tò mò. “Đó là thức uống do em sáng chế ra mà.”
+“Sao chị lại biết cách gọi thức uống đó rõ hơn em được nhỉ?” Lila hỏi Marla, vẻ tò mò thực sự. “Đó vốn là món cocktail do chính em sáng chế ra mà.”
 
-Trước khi Marla kịp trả lời, Suz bắt đầu kể cho mọi người nghe câu chuyện về cách Lila tạo ra ly cocktail đó trong phòng ký túc xá vào một đêm nọ và đã thay đổi cuộc đời họ tốt đẹp hơn ra sao.
+Trước khi Marla kịp buông lời đáp trả, Suz đã nhanh nhảu kể cho cả nhóm nghe câu chuyện về khoảnh khắc Lila pha chế ra ly cocktail định mệnh đó trong phòng ký túc xá vào một đêm nọ, và nó đã thay đổi cuộc đời họ tươi sáng hơn ra sao.
 
-“Trước đó, tụi mình toàn uống rượu làm lễ nhà thờ ăn cắp được,” Suz kể.
+“Trước đó, tụi mình toàn lén uống trộm rượu lễ ăn cắp từ nhà nguyện,” Suz bật mí.
 
-“Cậu ăn cắp cả rượu thánh cơ à?” Jim hỏi, nhìn Lila với vẻ ngạc nhiên lẫn tự hào.
+“Cô dám ăn cắp cả rượu thánh cơ à?” Jim hỏi, mắt nhìn Lila với vẻ ngạc nhiên xen lẫn thán phục.
 
-“Nói cho rõ thì từ trước tới nay tôi chưa bao giờ thấy thoải mái với chuyện đó cả,” Lila nói.
+“Nói cho rõ thì từ trước tới nay tôi chưa bao giờ cảm thấy thanh thản với hành động bồng bột đó cả,” Lila thanh minh.
 
-“Chà, thế mà cậu đã nốc đủ nhiều để mà lăn ra ốm đấy thôi,” Nat nói.
+“Chà, thế mà cậu từng nốc đẫy đà đến mức lăn đùng ra ốm đấy thôi,” Nat trêu chọc.
 
-“Nó... không phải là loại rượu giành giải thưởng gì cho cam,” Lila nói.
+“Nó… thú thật chẳng phải thứ rượu vang hảo hạng giành giải thưởng gì cho cam,” Lila cười trừ.
 
-Jim làm bộ làm tịch như một giáo dân đang ngập ngừng trước lễ ban thánh thể. “Xin lỗi cha, đây có phải là rượu pinot không ạ?”
+Jim làm bộ điệu bộ như một tín đồ đang ngập ngừng trước giờ ban thánh thể: “Xin lỗi cha xứ, đây có phải là dòng rượu nho pinot thượng hạng không ạ?”
 
-Tất cả mọi người đều cười lớn, kể cả Lila. Gary mỉm cười, nắm lấy tay cô.
+Tất cả mọi người đều cười rộ lên, kể cả Lila. Gary mỉm cười ấm áp, siết nhẹ bàn tay cô dâu.
 
-“Lần cuối cùng tụi mình uống rượu thánh, Lila đã nôn thốc nôn tháo suốt cả đêm,” Nat kể.
+“Lần cuối cùng tụi mình uống trộm thứ rượu thánh đó, Lila đã nôn thốc nôn tháo suốt cả đêm dài,” Nat thuật lại.
 
-“Lúc nào cậu ấy cũng cứ hỏi đi hỏi lại rằng: Này các cậu, tụi mình có bị xuống Địa ngục không hả?”
+“Lúc nào cậu ấy cũng hoảng loạn hỏi đi hỏi lại: ‘Này các cậu, tụi mình có bị đày xuống Địa ngục không hả?’”
 
-“Sau lần đó, tôi thề sẽ không bao giờ uống rượu nữa,” Lila nói. “Trừ khi thức uống đó mang lại cảm giác như một kỳ nghỉ trong một chiếc ly.”
+“Sau trận nhớ đời đó, tôi thề sẽ đoạn tuyệt với rượu,” Lila nói. “Trừ phi món đồ uống đó mang lại cảm giác thanh thản hệt như một kỳ nghỉ thu nhỏ trong một chiếc ly.”
 
-“Và thế là, những ly Kỳ nghỉ trong một chiếc ly đã ra đời,” Nat nói.
+“Và thế là, những ly Kỳ nghỉ trong một chiếc ly trứ danh đã chính thức ra đời,” Nat hào hứng tiếp lời.
 
-Họ đã dành rất nhiều tháng trời thời trung học để hoàn thiện công thức ấy. Và rõ ràng đây là chủ đề mà nhóm phụ nữ muốn cuộc trò chuyện tiếp tục xoay quanh, những việc họ từng làm cùng nhau, những khoảnh khắc đặc biệt, hài hước từng gắn kết họ lại với nhau.
+Họ đã dành nhiều tháng trời thời trung học nội trú để hoàn thiện công thức pha chế ấy. Rõ ràng đây là chủ đề ấm áp mà nhóm bạn thân muốn tiếp tục đào sâu: những ký ức nổi loạn thuở thiếu thời, những kỷ niệm ngốc nghếch gắn kết tình bạn giữa họ.
 
-“Đúng thế,” Marla nói. “Nhưng nếu số ít là một Kỳ nghỉ trong một chiếc ly, thì số nhiều phải là Kỳ nghỉ trong các chiếc ly chứ.”
+“Đúng thế,” Marla vẫn kiên quyết chen ngang. “Nhưng nếu dạng số ít là một Kỳ nghỉ trong một chiếc ly, thì dạng số nhiều chuẩn xác phải đổi danh từ phía sau thành Kỳ nghỉ trong những chiếc ly chứ.”
 
-“Nghe ngớ ngẩn thật đấy, cậu biết không,” Suz nói.
+“Nghe gượng gạo và buồn cười chết đi được, chị không thấy thế sao?” Suz phản bác.
 
-“Ừ,” Nat đồng tình.
+“Đúng vậy,” Nat đồng tình.
 
-“Đâu phải có nhiều kỳ nghỉ trong một chiếc ly duy nhất đâu, đúng không?” Marla nói. “Đó chỉ là một kỳ nghỉ duy nhất. Được chia ra ở mỗi chiếc ly riêng lẻ mà thôi.”
+“Đâu thể nhét nhiều kỳ nghỉ vào chung một chiếc ly duy nhất được, có phải không?” Marla lý giải đầy tính học thuật khô khan. “Bản chất chỉ là một kỳ nghỉ duy nhất, được chia đều ra từng chiếc ly riêng biệt mà thôi.”
 
-Một sự im lặng nặng nề bao trùm lấy nhóm người. Họ vừa rời khỏi bờ chưa bao lâu, thế mà ai nấy dường như đã bắt đầu thấy ngán ngẩm Marla đến tận cổ. Lila chỉ ngồi đó, á khẩu trước người chị dâu tương lai của mình, tận hai lần trong một buổi chiều.
+Một sự im lặng ngột ngạt bao trùm lên boong thuyền. Thuyền vừa nhổ neo rời bến chưa được bao lâu, vậy mà dường như ai nấy đã bắt đầu ngán ngẩm thói bắt bẻ của Marla đến tận cổ. Lila chỉ ngồi bất động, cạn lời trước người chị dâu tương lai khó tính, lần thứ hai chỉ trong một buổi chiều.
 
-“Thôi bỏ qua chuyện này đi, Marla,” Gary nói.
+“Thôi bỏ qua chuyện ngữ pháp đi, chị Marla,” Gary lên tiếng.
 
-Gary nói bằng giọng mệt mỏi của một người anh trai đã phải thốt lên câu “Thôi bỏ qua chuyện này đi, Marla” suốt cả cuộc đời mình. Anh đặt tay lên lưng Lila và cử động ấy khiến Phoebe ngạc nhiên, dù lẽ ra cô không nên thấy thế. Chẳng có gì đáng ngạc nhiên ở đây cả; họ là một cặp đôi kinh điển gồm người đàn ông lớn tuổi và phụ nữ trẻ tuổi. Gary là sân khấu và Lila là bài hát. Hoặc có lẽ giống thế này hơn, Gary là ngôi nhà còn Lila là chiếc đèn chùm. Vóc dáng vàng óng và lộng lẫy theo kiểu gợi lên ý rằng cô chưa từng phải tự tay mua một ổ bánh mì nào ở cửa hàng. Và Gary thì thật phong độ và vững chãi, một người đàn ông luôn mang bánh mì từ cửa hàng về nhà.
+Gary cất lời bằng chất giọng mệt mỏi đặc trưng của một người em trai đã phải thốt lên câu nhượng bộ “Thôi bỏ qua chuyện này đi, chị Marla” suốt cả cuộc đời mình. Anh đặt bàn tay vỗ về lên lưng Lila, và cử chỉ âu yếm ấy khiến Phoebe thoáng chạnh lòng ngạc nhiên, dù lẽ ra cô không nên có cảm giác đó. Chẳng có gì đáng ngạc nhiên ở đây cả: họ là hình mẫu kinh điển của một cặp đôi chênh lệch tuổi tác hạnh phúc. Gary là điểm tựa vững chãi và Lila là nốt nhạc ngân vang rạng rỡ. Hoặc ví von theo cách khác: Gary là khung nhà kiên cố còn Lila là chiếc đèn chùm pha lê lộng lẫy. Vẻ đẹp đài các, óng ả của cô dâu toát lên phong thái của một tiểu thư chưa từng phải bận tâm chuyện mua từng ổ bánh mì trong siêu thị. Còn Gary thì đĩnh đạc, ấm áp, mẫu đàn ông sinh ra để gánh vác việc mang bánh mì và sự chở che về cho mái ấm.
 
-Thế nhưng, khi nhìn Gary, cô lại chỉ có thể nhìn thấy người đàn ông trong bồn nước nóng, người đàn ông từng có ý định tìm đến cái chết. Người đàn ông từng đọc tiểu thuyết lãng mạn thời đại học. Cô có thể cảm nhận được sợi dây vô hình căng ra giữa họ, cho đến khi Gary kéo Lila ngồi lên đùi mình và ôm cô thật chặt, như thể anh đang bảo vệ cô khỏi người chị gái độc đoán của mình.
+Thế nhưng, mỗi khi nhìn Gary, tâm trí Phoebe lại chỉ hiện lên hình bóng người đàn ông nơi bồn nước nóng rạng sáng nay: kẻ từng ôm vết thương lòng muốn tìm đến cái chết; người từng lén đọc tiểu thuyết lãng mạn thời đại học. Cô cảm nhận rõ rệt sợi dây kết nối vô hình căng như dây đàn giữa hai người, cho đến khi Gary kéo Lila ngồi gọn vào lòng mình và ôm chặt lấy cô dâu, như thể muốn dùng bờ vai rộng che chở cô khỏi sự soi mói khắc nghiệt của người chị gái.
 
-“Chẳng hạn như, cậu sẽ không đời nào nói rằng: Làm ơn chuyền cho tôi vài ly Tình ái trên bãi biển nhé,” Marla tiếp tục. “Nghe cứ ghê tởm thế nào ấy.”
+“Chẳng hạn như, người ta sẽ không đời nào gọi tên món cocktail nổi tiếng là Những cuộc Tình ái trên bãi biển cả,” Marla vẫn chưa chịu dừng lại. “Nghe ngữ pháp cứ thô thiển thế nào ấy.”
 
-Nat và Suz nhìn nhau rồi nhướng mày, như thể lúc này chẳng còn cách nào khác ngoài việc tẩy chay kẻ gây rối. Phoebe có thể nhận ra đây chính là cách họ cùng nhau vượt qua thời trung học, tìm kiếm ánh mắt của nhau trong lớp học, cười lăn cười bò về một giáo viên còn đáng xấu hổ hơn cả họ. Nhưng Lila không hùa theo. Cô không thể công khai chế nhạo người chị dâu tương lai của mình, người dì tương lai của những đứa con cô, người sẽ ngồi vào bàn ăn tối Giáng sinh cùng cô mãi mãi về sau.
+Nat và Suz đưa mắt nhìn nhau rồi nhướng mày ngán ngẩm, như thể lúc này cách tốt nhất là ngó lơ kẻ phá bĩnh. Phoebe nhận ra đây chính là phản xạ sinh tồn của họ từ thời trung học: trao nhau những ánh nhìn thấu hiểu giữa giờ học, bấm bụng cười khúc khích trước một giáo viên khó tính. Nhưng Lila thì không thể hùa theo; cô không thể công khai chế giễu người chị gái ruột của chồng, người bác tương lai của những đứa con mình, người phụ nữ sẽ cùng ngồi chung bàn ăn đêm Giáng sinh với cô suốt những năm tháng sau này.
 
-Thay vào đó, Lila nhìn sang Phoebe để cầu cứu.
+Thay vào đó, Lila quay sang nhìn Phoebe như tìm kiếm một chiếc phao cứu sinh.
 
-“Thế ý chị là gì hả?” Lila hỏi Phoebe. Sau đó, cô quay sang Gary. “Phoebe thực ra biết tuốt mọi chuyện đấy. Cô ấy là giáo sư văn học Anh mà.”
+“Thế theo chị thì phát âm thế nào mới chuẩn ạ?” Lila hỏi Phoebe, rồi quay sang phân trần với Gary: “Chị Phoebe am tường mấy chuyện này lắm đấy, chị ấy là giáo sư văn học mà.”
 
-Thật buồn cười làm sao khi bị chú ý bởi tất cả những người dự đám cưới. Tất cả những người lạ này đều có thể nhìn thấy cô. Họ đang đợi cô lên tiếng. Nói điều gì đó để làm dịu đi bầu không khí lúc này, đưa họ trở lại vẻ bình thường, vô hiệu hóa Marla. Phoebe cảm thấy xúc động khi được gọi tên như thế. Đã quá lâu rồi, cô cảm thấy mình bị kẹt trong tận cùng ngôi nhà, trong khoảng trống của chứng trầm cảm, nơi cô không thực sự tồn tại. Nơi chẳng có gì là thực. Cứ như thể cô đã trượt khỏi thế giới quen thuộc mà chẳng ai hay biết, ngoại trừ Harry, chú chó sẽ đi theo cô cả ngày, lên lầu, xuống lầu, vào tận phòng tắm nơi nó sẽ ngồi đó với cái gương mặt nghiêm nghị và chăm chú quan sát. Khi cô phát hiện nó đã chết cách đây hai ngày, cô cảm thấy chắc chắn mọi chuyện đã chấm hết với mình.
+Thật kỳ lạ khi bỗng chốc trở thành tâm điểm chú ý của tất cả những người dự đám cưới. Tất cả những con người xa lạ này đang đồng loạt hướng ánh nhìn về phía cô, kiên nhẫn đợi cô cất lời: nói một điều gì đó thông tuệ để hóa giải bầu không khí căng thẳng, đưa mọi thứ trở lại quỹ đạo vui tươi và vô hiệu hóa sự bắt bẻ của Marla. Phoebe cảm thấy một làn sóng xúc động dâng trào khi được nhắc tên. Đã quá lâu rồi, cô cảm thấy mình như bị chôn vùi trong góc tối căn nhà quạnh quẽ, trong sự tê liệt của chứng trầm cảm nơi cô tự thấy mình như một bóng ma vô hình không thực sự tồn tại. Nơi chẳng còn điều gì mang ý nghĩa thật sự, cứ như cô đã trượt khỏi thế giới quen thuộc mà chẳng một ai hay biết, ngoại trừ chú mèo Harry từng lẽo đẽo bám theo cô cả ngày, lên lầu, xuống lầu, rồi ngồi thu mình chăm chú quan sát trong phòng tắm với ánh nhìn nghiêm nghị. Khoảnh khắc phát hiện nó đã chết hai ngày trước, cô đã tin chắc rằng cuộc đời mình cũng đã đi đến hồi kết.
 
-Nhưng giờ thì cô đang ở đây, dưới ánh ban mai, trên một con thuyền, cùng với những người dự đám cưới.
+Thế nhưng giờ đây cô lại đang hiện diện ở nơi này: dưới ánh nắng chan hòa rực rỡ, trên một boong thuyền buồm lướt sóng, giữa vòng vây của những người dự đám cưới.
 
-“Sao nào?” Gary nói. “Giáo sư bảo thế nào?”
+“Sao nào?” Gary mỉm cười lên tiếng. “Ý kiến của vị Giáo sư đáng kính ra sao?”
 
-Anh nhìn sang cô một cách thực sự lần đầu tiên kể từ khi họ lên thuyền, có lẽ bởi vì những người còn lại bây giờ cũng đang nhìn cô. Giờ thì việc nhìn chằm chằm đã trở nên an toàn, an toàn để đặt ánh mắt lên người cô. Cô muốn tận hưởng cảm giác này. Đóng gói nó lại, uống nó sau này khi cô cần, khi cô trở về nhà trong căn phòng ngủ tối om vào ngày mai, cảm thấy mình chẳng khác gì một đống cứt.
+Anh nhìn thẳng vào mắt cô lần đầu tiên kể từ lúc bước chân lên thuyền. Có lẽ vì giờ đây tất cả mọi người cũng đang đổ dồn ánh mắt về phía cô, nên việc nhìn thẳng vào mắt cô đã trở nên an toàn, không còn sợ bị lộ tẩy cuộc gặp bí mật đêm qua. Cô muốn đón nhận trọn vẹn khoảnh khắc này: gom góp nó lại, cất giữ như nguồn sinh lực để uống sau này khi cần, phòng khi ngày mai cô phải quay về căn phòng ngủ u tối của mình và cảm thấy bản thân bất lực như một kẻ bại trận.
 
-“Đó phải là Các kỳ nghỉ trong một chiếc ly,” Phoebe nói. “Anh phải chuyển danh từ chính sang số nhiều, chứ không phải từ bổ nghĩa.”
+“Chuẩn ngữ pháp phải là Các kỳ nghỉ trong một chiếc ly,” Phoebe phân tích gãy gọn. “Quy tắc là phải chuyển danh từ chính sang số nhiều, chứ không phải biến đổi cụm từ bổ nghĩa đi kèm.”
 
-“Nhưng sẽ chẳng ai nói là Những cái sex trên bãi biển cả,” Marla phản đối.
+“Nhưng người ta đâu ai nói là Những cuộc Tình ái trên bãi biển bao giờ,” Marla lập tức cãi lại.
 
-“Đúng thế, nhưng đó là vì từ ‘sex’ không thực sự là một danh từ đếm được và do đó việc chuyển nó sang số nhiều nghe có vẻ không tự nhiên.”
+“Đúng thế, nhưng đó là bởi vì bản thân từ ái ân hay tình dục vốn dĩ là danh từ trừu tượng không đếm được, do đó việc cố tình gượng ép chuyển nó sang hình thức số nhiều nghe sẽ rất phản cảm và thiếu tự nhiên.”
 
-“Danh từ đếm được á?” Suz hỏi. “Hả?”
+“Danh từ không đếm được á?” Suz chớp mắt hỏi. “Nghĩa là sao cơ?”
 
-“Ý tôi chỉ là chúng ta không nói ‘Chúng tôi đã có hai cái sex’,” Phoebe giải thích rõ hơn. “Chúng ta nói ‘Chúng tôi đã làm tình hai lần’.”
+“Ý tôi là chúng ta không bao giờ nói: ‘Đêm qua chúng tôi đã có hai cuộc tình dục’,” Phoebe nhẹ nhàng diễn giải cụ thể hơn. “Người ta sẽ nói: ‘Chúng tôi đã làm tình hai lần’.”
 
-“Cứ nói thay cho một mình cô đi,” Jim nói. “Tôi vừa có hai cái sex tối qua đấy.”
+“Cứ nói thay cho phần của cô thôi nhé,” Jim lập tức tếu táo chêm vào. “Tôi vừa hoàn thành hai cuộc ân ái nảy lửa tối qua đấy thôi.”
 
-Mọi người đều bật cười, trừ Marla, người trông có vẻ nửa khó chịu, nửa ấn tượng. “Cô từng học về ngôn ngữ hay đại loại thế à?” cô hỏi.
+Tất cả mọi người đều bật cười nghiêng ngả, ngoại trừ Marla, người đang mang vẻ mặt nửa phật ý, nửa thầm thán phục. “Hồi trước cô theo học chuyên ngành ngôn ngữ học hay đại loại thế à?” Marla hỏi dò.
 
-“Hồi đại học,” Phoebe nói. “Tôi từng nghĩ mình muốn trở thành một nhà ngữ văn học.”
+“Thời đại học,” Phoebe đáp. “Từng có giai đoạn tôi ôm mộng trở thành một nhà ngữ văn học chuyên sâu.”
 
-“Nhưng hiện tại cô không phải là một nhà ngữ văn học,” Marla nói.
+“Nhưng hiện thời cô đâu phải là một nhà ngữ văn học,” Marla nhấn mạnh.
 
-“Không. Nhưng tôi cũng biết rằng ngôn ngữ được hình thành một cách tự nhiên bởi những người sử dụng nó,” Phoebe nói thêm, cốt để Marla nghe thấy. “Đó là cách chúng ta kết thúc với những ngôn ngữ khác nhau. Người ở các vùng miền khác nhau làm cho nó mang dấu ấn của riêng họ. Thế nên, về lý thuyết, cô có thể phát thế nào về món đồ uống này cũng được và mười năm sau, nó sẽ thành đúng.”
+“Đúng thế. Nhưng tôi cũng hiểu rằng quy ước ngôn ngữ vốn được định hình uyển chuyển bởi chính thói quen của cộng đồng sử dụng nó,” Phoebe điềm đạm giải thích thêm, cốt để Marla thấu hiểu. “Đó là lý do nhân loại hình thành nên muôn vàn phương ngữ phong phú. Cư dân ở mỗi vùng miền đều tạo ra dấu ấn riêng cho cách diễn đạt của mình. Thế nên, về mặt bản chất, cô hoàn toàn có thể gọi tên thức uống này theo bất cứ cách nào mình thích, và mười năm sau, thói quen đó sẽ trở thành chuẩn mực tự nhiên.”
 
-“Nghe có vẻ như cô đang nói là không có câu trả lời nào đúng nhỉ?” Gary hỏi.
+“Nghe cứ như thể cô đang khẳng định rằng trên đời này chẳng có chân lý nào tuyệt đối đúng nhỉ?” Gary nhìn cô mỉm cười hỏi.
 
-“Đúng chất phát ngôn của một giảng viên tiếng Anh đích thực,” Phoebe nói.
+“Đó chính xác là phong thái lập luận kinh điển của một giảng viên dạy văn,” Phoebe hóm hỉnh đáp.
 
-Mọi người đều cười.
+Mọi người trên thuyền lại bật cười vui vẻ.
 
-“Thôi nào, giờ chúng ta đã biết toàn bộ nguồn gốc từ nguyên của món đồ uống rồi, liệu chúng ta có thể uống một ngụm được chưa hả?” Nat hỏi.
+“Thôi nào, giờ chúng ta đã được khai sáng trọn vẹn nguồn gốc từ nguyên học uyên bác của món đồ uống rồi, liệu các quý cô quý anh đã sẵn sàng cạn ly chưa nào?” Nat giơ cao ly cocktail khuấy động.
 
-Suz rót đồ uống cho tất cả mọi người, và có cảm giác như bữa tiệc thực sự đã bắt đầu. Nhưng Marla ngả người ra sau mạn thuyền, bật điện thoại lên và có vẻ vô cùng hoảng hốt.
+Suz nhiệt tình rót đầy ly cho tất cả mọi người, và không khí tiệc tùng thực sự bùng nổ trên boong tàu. Nhưng Marla thì ngồi dựa lưng vào mạn thuyền, bấm mở điện thoại và bỗng lộ rõ vẻ hoảng hốt tột độ.
 
-“Ôi trời ơi,” Marla thốt lên.
+“Ôi trời đất ơi,” Marla thốt lên thất thanh.
 
-Cô ấy đã thấy những tin nhắn dung tục từ Robert rồi sao?
+Liệu có phải cô ấy vừa đọc được những dòng tin nhắn nhục dục sỗ sàng từ Robert?
 
-Phoebe đợi Marla giải thích, nhưng không ai trong nhóm hỏi cô ấy cả. Gary và Jim đang nói chuyện với bố của Gary. Juice lặng lẽ ôm chú chó ảo đã chết của mình và nhìn ra mặt nước. Và Lila, Nat, và Suz dường như quyết tâm phớt lờ Marla lúc này. Họ đang chìm đắm trong cuộc trò chuyện khúc khích về quá khứ của mình, vụ trộm rượu thánh nhà thờ, những điều họ từng xưng tội với các linh mục, việc Suz từng thấy Chúa Jesus cuốn hút ra sao, lần Nat kể với Cha Leon rằng cô là đồng tính nữ, và đó là một thế giới mà những người còn lại không thể bước vào. Nhất là Marla.
+Phoebe im lặng chờ đợi Marla giải thích, nhưng chẳng một ai trong nhóm để tâm gặng hỏi. Gary và Jim đang mải trò chuyện rôm rả với bố của Gary; cô bé Juice lặng lẽ ôm khư khư chú chó ảo đã chết trong lòng bàn tay nhìn đăm đăm ra mặt nước; còn Lila, Nat và Suz thì dường như đã thống nhất ngó lơ Marla. Ba cô gái đang chìm đắm trong chuỗi ký ức học trò đầy ắp tiếng cười rúc rích: vụ trộm rượu lễ năm nào; những lời thú tội ngây ngô trước các linh mục; chuyện Suz từng thổ lộ thấy Chúa Jesus phong độ quyến rũ ra sao; và lần Nat dũng cảm bộc bạch với Cha Leon rằng mình là người đồng tính nữ. Đó là một vùng trời ký ức khép kín mà những người ngoài cuộc không thể nào chạm tới, nhất là Marla.
 
-“Mọi chuyện ổn chứ?” Cuối cùng Phoebe cũng hỏi.
+“Mọi chuyện vẫn ổn chứ?” Cuối cùng Phoebe đành lên tiếng hỏi thăm.
 
-“Tôi vừa nhận ra giấy đăng ký xe của mình hết hạn rồi,” Marla nói.
+“Tôi vừa phát hiện ra hạn đăng kiểm giấy tờ xe của mình đã hết hạn từ đời nào rồi,” Marla thở hắt ra phân bua.
 
-Phoebe tự hỏi liệu cô ấy có đang nói dối không, nhưng rồi Marla lôi ví ra, bắt đầu gõ điên cuồng vào điện thoại. Chừng này thì quá sức để Gary có thể làm ngơ.
+Phoebe tự hỏi liệu người phụ nữ này có đang kiếm cớ nói dối để chữa ngượng hay không, nhưng ngay sau đó Marla đã lôi ví tiền ra, ngón tay gõ lia lịa lên màn hình điện thoại. Hành động bất thường ấy khiến Gary không thể tiếp tục làm ngơ được nữa.
 
-“Cơ mà cô thực sự đi đăng ký lại xe trong lúc chúng ta đang đi thuyền á?” Gary hỏi.
+“Chị nghiêm túc tính ngồi gia hạn đăng kiểm xe ngay giữa lúc chúng ta đang du ngoạn thuyền buồm đấy à?” Gary ngạc nhiên hỏi.
 
-“Lái một chiếc xe chưa đăng ký là một <i>tội ác</i> theo đúng nghĩa đen đấy, Gary.”
+“Điều khiển một phương tiện giao thông hết hạn đăng kiểm là một <i>tội danh</i> theo luật định đấy, Gary.”
 
-“Nhưng hiện tại cô có đang lái xe đâu. Cứ làm việc đó khi chúng ta quay lại bờ đi.”
+“Nhưng hiện tại chị có ngồi sau tay lái đâu. Cứ đợi lúc thuyền cập bờ rồi giải quyết cũng có sao.”
 
-“Tôi là luật sư, Gary. Tôi cần đứng về phía đúng đắn của pháp luật. Và sóng ở giữa biển thế này mà mạng lại cực kỳ tốt một cách đáng kinh ngạc đấy.”
+“Chị là một luật sư, Gary. Bổn phận của chị là phải luôn đứng về phía thượng tôn pháp luật. Với lại thật đáng kinh ngạc là sóng mạng 5G giữa biển khơi này lại khỏe đến thế.”
 
-Gary nhìn xuống ly Kỳ nghỉ trong một chiếc ly của mình. Phoebe cũng vậy. Khi liếc sang, cô bắt gặp ánh mắt của Gary. Gary nhướng mày lên và rồi cả hai cùng mỉm cười. Một cảm giác nhẹ nhõm lớn lao khiến Phoebe cảm thấy lâng lâng. Phoebe không thể kìm lại được, Marla đúng là quá quắt thật. Nhưng Phoebe không muốn cười nhạo một người phụ nữ khác chỉ vì cô ấy quá lố, ngay cả khi đó là Marla. Thế nên cô nhấp một ngụm lớn và phải thừa nhận rằng: món đồ uống này ngon thật đấy. Bởi vì nó dở tệ một cách khốn khiếp. Giống như mì mac & cheese của hãng Kraft vậy. Giống như một chiếc bánh donut của Dunkin’. Những thứ mà trước đây Phoebe chẳng bao giờ có thể tận hưởng trọn vẹn, vì cô quá lo lắng về cơ thể mình, về lượng đường, về đường fructose. Ngay cả khi say xỉn, cô cũng chỉ ăn bù bằng một bát ngũ cốc việt quất lanh thứ mà thể nào cũng khiến cô đi đại tiện vào lúc tám giờ sáng, lệch đi vài phút cũng không xong.
+Gary nhìn xuống ly cocktail Kỳ nghỉ trong một chiếc ly trên tay mình rồi lắc đầu ngán ngẩm. Phoebe cũng làm điều tương tự. Khi cô khẽ liếc sang, ánh mắt cô bắt gặp nụ cười ý nhị của Gary: anh khẽ nhướng mày và cả hai cùng bật cười đồng cảm. Một cảm giác nhẹ nhõm vô hình len lỏi làm tim Phoebe xao xuyến. Dù không muốn chế giễu một người phụ nữ khác chỉ vì tính khí cứng nhắc của cô ta, ngay cả khi người đó là Marla, Phoebe vẫn không sao nhịn được cười. Cô nhấp một ngụm lớn và thành thật thừa nhận: món đồ uống này thật kỳ diệu. Nó ngon theo một cách dở tệ đầy mê hoặc, hệt như món mì ống phô mai béo ngậy đóng hộp của hãng Kraft, hay chiếc bánh rán ngọt lịm của Dunkin’ Donuts. Những thức quà bình dân tội lỗi mà trước đây Phoebe chưa bao giờ cho phép bản thân tận hưởng trọn vẹn, bởi cô luôn bị ám ảnh đè nặng về vóc dáng, lượng calo hay đường fructose. Ngay cả những đêm say xỉn, cô cũng chỉ dám lót dạ bằng một bát ngũ cốc yến mạch hạt lanh việt quất nhạt nhẽo cốt để giữ cho hệ tiêu hóa hoạt động đều đặn vào đúng tám giờ sáng hôm sau.
 
-“Thực ra trong món này có những gì thế?” Phoebe hỏi. Cô tựa người ra mạn thuyền và gió thổi bay mái tóc cô. “Ngon ghê.”
+“Thực chất trong ly cocktail này pha những nguyên liệu gì thế?” Phoebe tò mò hỏi, lưng tựa vào mạn thuyền đón làn gió biển lướt qua mái tóc. “Hương vị độc đáo thật đấy.”
 
-“Một kỳ nghỉ,” Gary nói.
+“Hương vị của một kỳ nghỉ,” Gary mỉm cười giải thích.
 
-“Đúng thế,” Phoebe nói. “Nhưng là kỳ nghỉ kiểu nào? Kiểu căn hộ sát biển ở St. Thomas phỏng?”
+“Tôi hiểu chứ,” Phoebe tiếp lời. “Nhưng cụ thể là kỳ nghỉ kiểu gì? Kiểu nghỉ dưỡng tại căn hộ sang trọng sát biển ở vùng đảo St. Thomas chăng?”
 
-Gary nhấp thêm một ngụm như thể anh là một chuyên gia thử rượu. “Anh thì thấy giống đi xe RV thăm các chiến trường Nội chiến ở miền Nam trong ba ngày hơn.”
+Gary nhấp thêm một ngụm, bộ dạng đăm chiêu như một chuyên gia nếm rượu sành sỏi: “Tôi thì lại thấy nó mang phong vị của một chuyến dã ngoại ba ngày trên xe thùng RV đi thăm các di tích chiến trường thời Nội chiến ở miền Nam hơn.”
 
-Phoebe nhấp thêm một ngụm nữa. “Thật á? Tôi chẳng thấy vị chiến trường nào cả.”
+Phoebe nhấp thêm một ngụm nữa để cảm nhận: “Thế cơ á? Tôi chẳng thấy thoang thoảng chút phong vị chiến trường khói lửa nào cả.”
 
-“Không ư?” Gary nói. “Rõ ràng là vị giác của em không tinh tế lắm rồi. Hoặc là em chưa từng có một ông bố từng lôi tuột em đi khắp các chiến trường Nội chiến từ hồi còn nhỏ.”
+“Không thấy ư?” Gary hóm hỉnh trêu. “Rõ ràng là vị giác của cô chưa đủ độ tinh tế rồi, hoặc giả hồi nhỏ cô chưa từng có một ông bố mê sử học lôi tuột đi khắp các chiến trường Nội chiến như tôi.”
 
-Cô bật cười. Anh bật cười. Jim chỉ đứng nhìn hai người nói chuyện với vẻ như cuộc trò chuyện ấy quá kỳ quặc để có thể nhập cuộc.
+Cô bật cười giòn tan, và Gary cũng cười theo. Jim đứng gần đó đưa mắt nhìn hai người với vẻ mặt hoang mang, dường như cảm thấy mạch trò chuyện giữa họ quá kỳ quặc và trí tuệ để có thể chen chân vào.
 
-“Không, bố tôi thuộc tuýp người kiểu ‘chúng ta đã sống trong một căn nhà gỗ nhỏ xíu ven sông rồi, thế nên chẳng bao giờ cần phải đi nghỉ mát đâu’,” Phoebe đính chính.
+“Không, bố tôi thuộc tuýp phụ huynh điển hình với triết lý: ‘Bố con mình vốn đã sống trong căn nhà gỗ ven sông rồi, thế nên chẳng việc gì phải tốn tiền đi nghỉ mát ở đâu xa xôi cả’,” Phoebe đính chính.
 
-“Ồ, tôi chưa từng biết qua kiểu bố đó đấy,” Gary nói.
+“Ồ, kiểu phụ huynh đó thì tôi chưa từng được diện kiến qua đấy,” Gary nói.
 
-Trên đời này có những người khiến cô nhớ lại chính xác cách mà cô thích dùng để trò chuyện. Đã lâu lắm rồi cô mới gặp lại một người như vậy, kể từ khi cô gặp chồng mình, và đó cũng là lý do tại sao mọi chuyện lại trở nên đau đớn đến thế khi cô bắt đầu quên mất cách nói chuyện với chồng. Khi nhìn anh, cô lại quá thường xuyên bị nhắc nhở về những điều không nên nói, những thứ không bao giờ được nhắc đến, như chuyện rụng trứng, chuyện trầm cảm, hay bất cứ điều gì thoảng chút nỗi buồn. Có lẽ đó là lý do tại sao cô đã không nói với anh rằng Harry đã chết. Cô không muốn cho anh thêm bất kỳ bằng chứng nào về sự đáng ghét của mình, về sự thất bại của mình. Có lẽ đó cũng là lý do tại sao cô chỉ đắp một chiếc chăn lên người Harry rồi cũng bỏ chạy.
+Trên cõi đời này luôn tồn tại những con người kỳ diệu, những người mà chỉ cần vài câu đối đáp đã khơi dậy chính xác cách trò chuyện duyên dáng mà cô hằng yêu thích. Đã lâu lắm rồi cô mới tìm lại được cảm giác đồng điệu này ở một người đàn ông, kể từ ngày đầu tiên cô gặp Matt, và đó cũng là lý do vì sao mọi thứ lại trở nên xót xa đến thế khi cô dần đánh mất khả năng giao tiếp với chính chồng mình. Mỗi khi nhìn Matt, cô chỉ bị bủa vây bởi những điều cấm kỵ: những chủ đề bi thương không bao giờ được phép chạm tới như chuyện canh ngày rụng trứng, chuyện thụ tinh thất bại, hay sự bế tắc của chứng trầm cảm. Có lẽ đó là lý do vì sao cô đã không thể mở lời báo cho anh biết rằng Harry đã qua đời. Cô không muốn cung cấp thêm bằng chứng về sự thất bại và thảm hại của bản thân cho anh thấy; và có lẽ đó cũng là lý do cô đã chỉ biết đắp chiếc chăn lên xác chú mèo rồi vội vã bỏ chạy khỏi nhà.
 
-“Kiểu bố đó cũng có đấy chứ,” Phoebe nói. “À, nói đúng hơn là bây giờ thì không còn nữa. Ông ấy mất rồi.”
+“Kiểu ông bố như thế có thật trên đời đấy chứ,” Phoebe trầm giọng nói. “À, nói chính xác hơn thì bây giờ không còn nữa. Bố tôi đã qua đời rồi.”
 
-“Ồ, anh rất tiếc,” Gary nói. “Thế là bây giờ em thành một đứa mồ côi chính hiệu rồi nhỉ.”
+“Ồ, tôi thành thật chia buồn,” Gary dịu giọng, ánh mắt ấm áp nhìn cô. “Thế là bây giờ cô đã trở thành một đứa trẻ mồ côi chính hiệu rồi nhỉ.”
 
-Cô đỏ mặt. Cuộc trò chuyện này thật là.
+Phoebe thoáng đỏ mặt ngượng ngùng trước sự tinh tế của anh.
 
-“Và ngạc nhiên chưa, làm mồ côi chẳng giống như tôi từng tưởng tượng chút nào,” Phoebe nói.
+“Và ngạc nhiên chưa, trải nghiệm mồ côi ngoài đời thực chẳng hề giống như những gì tôi từng hão huyền tưởng tượng,” Phoebe đáp.
 
-“Những đặc quyền còn tuyệt hơn em tưởng à?” Gary hỏi.
+“Những đặc ân của sự tự do không lung linh như cô tưởng à?” Gary hỏi dò.
 
-“Mấy người đang nói cái quái gì thế hả?” Jim hỏi.
+“Hai người rốt cuộc đang lảm nhảm về cái quái gì thế hả?” Jim không nhịn được bèn chen ngang.
 
-Tất cả bọn họ đều cười.
+Cả nhóm cùng bật cười sảng khoái.
 
-“Phoebe từng có mơ ước được làm mồ côi đấy,” Gary giải thích.
+“Phoebe từng nuôi ước mơ thuở nhỏ được làm trẻ mồ côi đấy,” Gary giải thích.
 
-“Gary đang muốn có ai đó nện cho một trận nhừ tử cơ,” Phoebe bồi thêm.
+“Còn Gary thì lại luôn ao ước có ai đó đấm lệch vách ngăn mũi cho một trận nhừ tử cơ,” Phoebe bồi thêm đầy ăn ý.
 
-“Tôi xin nhắc cho mà biết là nghe xong vẫn chẳng hiểu gì sất,” Jim nói.
+“Tôi xin thề là nghe hai người giải thích xong tôi lại càng thấy mù tịt hơn,” Jim lắc đầu chịu thua.
 
-Phoebe nhấp thêm một ngụm đồ uống của mình. “Ồ, được rồi, hình như tôi bắt đầu nếm ra vị chiến trường rồi đấy.”
+Phoebe nhấp thêm một ngụm đồ uống ngọt mát: “Ồ, nhận ra rồi nhé, dường như tôi bắt đầu nếm ra chút phong vị hoài cổ của chiến trường Nội chiến rồi đấy.”
 
-“Thấy chưa?” Gary nói. “Nó giống như một nốt hương cực kỳ nhỏ ở tận cuối vị vậy.”
+“Thấy chưa nào?” Gary thích thú reo lên. “Nó là một nốt hương trầm kín đáo lắng đọng ở hậu vị mà.”
 
-Jim từ bỏ việc bắt nhịp với họ và quay sang Juice. “Thế cháu dạo này thế nào rồi, cô cháu gái xinh đẹp của bố?”
+Jim đành bỏ cuộc không theo đuổi câu chuyện của họ nữa và quay sang bắt chuyện với Juice: “Thế dạo này cháu gái rượu xinh đẹp của cậu thế nào rồi?”
 
-Marla đặt điện thoại xuống và thở dài một hơi thật sâu.
+Marla lúc này mới chịu buông điện thoại xuống và thở phào một hơi nhẹ nhõm.
 
-“Em đã quay lại con đường tuân thủ pháp luật chưa thế?” Gary hỏi Marla, vòng tay qua cổ cô và đấm bóp giả vờ cho cô. Trông giống như một lời xin lỗi vì lúc nãy đã cộc cằn. “Anh không muốn có kẻ trốn nã nào ở trên chiếc thuyền này đâu đấy.”
+“Chị đã quay lại con đường làm công dân gương mẫu tuân thủ pháp luật chưa thế?” Gary quay sang trêu chọc Marla, cánh tay choàng qua vai và bóp nhẹ cổ chị gái như một cử chỉ làm hòa đầy tinh nghịch. “Em không muốn chứa chấp tội phạm trốn nã trên boong thuyền này đâu đấy nhé.”
 
-“Em biết thừa là anh đang trêu chọc em, thế nên em từ chối trả lời câu hỏi đó,” Marla nói.
+“Chị biết thừa là em đang xỏ xiên chị, thế nên chị từ chối trả lời câu hỏi khiêu khích đó,” Marla lườm yêu em trai.
 
-Ngồi cạnh nhau, Phoebe có thể nhận ra Marla và Gary trông rất giống nhau. Cả hai đều có mái tóc nâu sẫm, đôi mắt tối màu. Gương mặt dài và góc cạnh được thừa hưởng từ người bố của họ, một người có khuôn mặt dài đến mức trông hơi giống một con bồ nông ở phần mũi thuyền. Nhưng Gary thì có phần mềm mỏng hơn còn Marla lại cứng cỏi. Phoebe tự hỏi liệu đây có phải là những gì mà việc mất đi người vợ đã làm với anh hay không. Liệu nó đã mài giũa bớt đi những góc cạnh của anh. Hoặc có lẽ chỉ là những chai bia qua bao năm tháng mà Marla có lẽ đã từ chối, đã bồi đắp cho bờ vai và khuôn mặt anh thêm phần đẫy đà.
+Ngồi cạnh nhau, Phoebe nhận thấy hai chị em Gary và Marla sở hữu những nét tương đồng rõ rệt: cùng màu tóc nâu sẫm, đôi mắt đen sâu thẳm và khuôn mặt dài góc cạnh thừa hưởng trọn vẹn từ người cha già đang đứng đăm chiêu nơi mũi thuyền. Nhưng đường nét của Gary mềm mại, điềm đạm hơn, trong khi Marla lại toát lên vẻ sắc sảo, phòng thủ. Phoebe tự hỏi liệu nỗi đau mất vợ có phải là thứ đã mài giũa bớt đi những góc cạnh gai góc trong tâm hồn Gary, hay đơn giản là những cốc bia giải sầu qua năm tháng đã bồi đắp cho bờ vai và gương mặt anh thêm phần đượm vẻ bao dung.
 
-“Cậu cứ nghĩ là mình sẽ đến một độ tuổi mà anh trai sẽ ngừng việc trêu chọc mình lại, nhưng không đâu,” Marla nói với Phoebe, “chuyện đó sẽ không bao giờ xảy ra đâu. Tôi đã bốn mươi hai tuổi rồi và tôi sẵn sàng chấp nhận sự thật này.”
+“Người ta cứ ngỡ đến một độ tuổi trưởng thành nhất định thì em trai sẽ thôi cái trò trêu chọc mình, nhưng không hề,” Marla quay sang than thở với Phoebe. “Chuyện đó chẳng bao giờ chấm dứt cả. Tôi đã bốn mươi hai tuổi đầu rồi và đành phải học cách sống chung với sự thật nghiệt ngã này.”
 
-Rồi cô bắt đầu liệt kê một tràng dài những việc mà Gary đã làm trong suốt bao năm qua để phá hủy cuộc đời cô, thế mà, Gary vẫn là Đứa con cưng trong mắt bố họ.
+Đoạn, Marla bắt đầu huyên thuyên kể một tràng dài những trò nghịch ngợm tai quái mà Gary từng bày ra thuở ấu thơ để biến cuộc sống của cô thành địa ngục, vậy mà trong mắt người cha già, Gary vẫn mãi là Đứa con cưng hoàn hảo.
 
-“Không,” Gary nói. “Roy mới là Đứa con cưng.”
+“Chị nhầm to rồi,” Gary vội thanh minh. “Roy mới là Đứa con cưng đích thực của bố.”
 
-“Roy là anh em họ của anh à?” Phoebe hỏi.
+“Roy là anh em họ của hai người à?” Phoebe tò mò hỏi.
 
-“Em họ,” Marla nói.
+“Là em họ,” Marla xác nhận.
 
-“Mấy đứa đang nhắc đến Roy đấy à?” Bố của Gary hét lớn qua tiếng gió.
+“Mấy đứa vừa nhắc đến thằng Roy đấy à?” Bố của Gary nghe thấy tên cháu bèn hét lớn át tiếng gió biển.
 
-“Thấy chưa?” Gary nói. “Cứ nhắc đến Roy là ông ấy khoái như mèo ngửi thấy cỏ bạc hà ấy. Không bao giờ thấy đủ về Roy cả.”
+“Thấy chưa?” Gary thì thầm với Phoebe vẻ đắc thắng. “Cứ hễ nhắc đến tên Roy là ông cụ lại phấn khích như mèo vớ được cỏ bạc hà vậy. Khen ngợi cả ngày không biết chán.”
 
-“Roy là một người hùng chết tiệt,” bố của Gary nói với Phoebe. “Người hùng duy nhất mà chúng ta có trong gia đình nhà Smith.”
+“Thằng Roy là một người hùng thực thụ đấy cô giáo ạ,” bố của Gary tự hào khoe với Phoebe. “Người hùng kiệt xuất duy nhất của dòng họ Smith chúng tôi.”
 
-“Lần nào cũng vậy,” Gary và Marla đồng thanh nói rồi bật cười. Tiếng cười làm biến đổi toàn bộ gương mặt của Marla. Cô trở nên mềm mại giống như Gary.
+“Lần nào cũng bài ca muôn thuở đó,” Gary và Marla nhìn nhau đồng thanh thốt lên rồi cùng bật cười rạng rỡ. Nụ cười ấy làm gương mặt nghiêm nghị của Marla bừng sáng, trở nên dịu dàng và ấm áp đến lạ kỳ.
 
-“Roy đã làm gì thế ạ?” Phoebe hỏi.
+“Roy đã lập được chiến công gì thế ạ?” Phoebe lễ phép hỏi người cha.
 
-“Nó từng là một tay súng bắn tỉa ở Iraq,” bố của Gary nói.
+“Nó từng là lính bắn tỉa tinh nhuệ thiện xạ tại chiến trường Iraq,” bố của Gary dõng dạc tuyên bố.
 
-“Rồi Roy viết một cuốn hồi ký về chuyện đó,” Gary nói.
+“Rồi cậu ấy chấp bút viết một cuốn hồi ký chiến trường ăn khách về chuyện đó,” Gary tiếp lời.
 
-“Và có ai đó đã chuyển thể nó thành phim,” Marla bổ sung.
+“Và Hollywood đã chuyển thể nó thành một bộ phim điện ảnh đình đám,” Marla bổ sung thêm.
 
-“Một bộ phim xuất sắc,” bố của Gary khẳng định với Phoebe. “Có Jude Law đóng đấy.”
+“Một siêu phẩm điện ảnh để đời,” bố của Gary hào hứng cam đoan với Phoebe. “Có cả tài tử Jude Law thủ vai chính đấy nhé.”
 
-“Làm gì có Jude Law nào ở đây,” Marla đính chính. “Jude Law bây giờ cũng phải tầm năm mươi tuổi rồi ấy chứ.”
+“Làm gì có Jude Law nào đóng phim đó đâu bố,” Marla bật cười sửa lưng. “Jude Law giờ cũng phải ngũ tuần rồi còn đâu.”
 
-“Ý bố là bộ phim mà Jude Law đóng vai một tay súng bắn tỉa người Nga cơ mà,” Gary nói thêm.
+“Ý bố là cái bộ phim kinh điển mà Jude Law vào vai tay súng bắn tỉa huyền thoại người Nga cơ,” Gary đỡ lời cho cha.
 
-“Bố thừa biết Jude Law là ai mà,” bố của Gary nói.
+“Bố thừa biết Jude Law là ai, không cần anh phải dạy bảo,” ông cụ quắc mắt giả vờ giận dỗi.
 
-“Thôi được rồi, tùy bố vậy. Ý con là, bố xem bộ phim đó ít nhất một năm một lần rồi ngay lập tức gọi điện cho chúng con để khẳng định rằng Roy mới là người hùng đích thực duy nhất trong gia đình,” Gary nói.
+“Vâng, tùy bố vậy. Ý con là năm nào bố cũng xem lại bộ phim đó ít nhất một lần rồi lập tức nhấc máy gọi điện nhắc nhở hai chị em con rằng Roy mới là niềm tự hào duy nhất của dòng họ,” Gary hóm hỉnh trêu cha.
 
-“Ý con là, con đã vào trường luật vì bố đấy nhé, bố!” Marla nói.
+“Bố nên nhớ là con đã phải cắn răng dùi mài kinh sử đỗ vào trường luật danh giá cũng chỉ vì muốn làm bố nở mày nở mặt đấy nhé!” Marla giả bộ trách móc.
 
-“Bố tưởng con vào đó để làm nhà nữ quyền chứ?” Bố của Gary hỏi.
+“Thế mà xưa nay bố cứ tưởng chị vào trường luật là để đấu tranh cho phong trào nữ quyền cơ đấy?” Bố của Gary nheo mắt hỏi vặn lại con gái.
 
-Cô huých khuỷu tay vào người ông. “Cả chuyện đó nữa,” Marla nói. “Nhưng nói thật nhé, học trường luật để làm cái quái gì nếu bố còn chẳng thèm tôn trọng nó chứ?”
+Marla huých nhẹ khuỷu tay vào sườn ông cụ: “Thì cả lý do đó nữa. Nhưng nói thật lòng nhé, nỗ lực lấy tấm bằng luật sư danh giá làm cái thá gì nếu như ngay cả người cha ruột của mình cũng chẳng thèm ghi nhận chứ?”
 
-“Ôi dào, thôi đi. Con đúng là cái cô thị trưởng chết tiệt còn gì!” Bố của Gary nói. “Dĩ nhiên là bố tự hào về con rồi.”
+“Ôi dào, cô nương lại văn vở rồi. Giờ cô đã là bà nữ thị trưởng quyền lực của cả thị trấn rồi còn gì nữa!” Bố của Gary bật cười xoa đầu con gái. “Lúc nào bố chẳng tự hào về cô con gái rượu này.”
 
-Marla nhấp một ngụm đồ uống của mình.
+Marla mỉm cười kín đáo, đưa ly cocktail lên nhấp một ngụm nhỏ đầy mãn nguyện.
 
-“Dù sao thì, đó chính là Roy,” Gary nói, và tất cả bọn họ lại cùng cười lớn.
+“Đấy, chuyện về người hùng Roy vĩ đại của nhà chúng tôi là thế đấy,” Gary khẽ nháy mắt với Phoebe, và tất cả bọn họ lại cùng cười xòa.
 
-“Tối hôm qua Roy say mềm người ra phải không nhỉ?” Marla nói.
+“Tối hôm qua hình như Roy say bí tỉ quắc cần câu đúng không nhỉ?” Marla nhớ lại.
 
-“Nhắc mới nhớ,” Jim nói, rồi đưa cho Gary một chai bia, bởi vì vâng, vâng, anh đã uống quá nhiều ly Kỳ nghỉ trong một chiếc ly rồi, và thế là hai người đàn ông bắt đầu kể cho tất cả mọi người nghe về chuyến du lịch thực tế mà họ từng đi cùng nhau trước đại dịch.
+“Nhắc đến tiệc tùng mới nhớ,” Jim lên tiếng, với tay đưa cho Gary một chai bia mát lạnh để đổi vị sau khi đã nốc đẫy đà cocktail ngọt. Hai người đàn ông bắt đầu hào hứng ôn lại chuyến đi phượt bụi bặm mà họ từng trải nghiệm cùng nhau trước thời kỳ phong tỏa dịch bệnh.
 
-“Một chuyến phượt xuyên quốc gia mà tất cả chúng tôi cùng đi sau khi...” Jim nói rồi bỏ lửng câu nói. Anh nhấp một ngụm bia rồi lại nhấp thêm một ngụm Muscle Milk.
+“Chuyến đi phượt xuyên bang vĩ đại mà hai thằng tôi lên đường ngay sau khi…” Jim buột miệng rồi đột ngột ngưng bặt. Anh nhấp một ngụm bia lớn rồi lại vội vã uống thêm một hớp nước dinh dưỡng Muscle Milk để che giấu khoảng lặng.
 
-“Chúng tôi đã đi cắm trại ở dãy núi Wind River tận Wyoming,” Gary nói.
+“Chúng tôi từng cắm trại dã ngoại dài ngày tại rặng núi Wind River hùng vĩ tít tận bang Wyoming,” Gary điềm đạm tiếp lời để gỡ thế bí.
 
-“Bố dạy con bé này câu cá đấy, đúng không?” Jim nói và huých khuỷu tay vào Juice. “Rồi còn nhớ cái con thỏ bị ăn thịt ngay trước mặt chúng ta không?”
+“Hồi đó bố dạy con bé này quăng cần câu cá suối đấy, nhớ không hả nhóc?” Jim nghiêng người huých nhẹ vai Juice. “Rồi còn nhớ cái con thỏ rừng xấu số bị xơi tái ngay trước mũi lều của tụi mình không?”
 
-Juice gật đầu. “Một con diều hâu vừa sà xuống quắp đi ngay trước mắt bọn con.”
+Juice khẽ gật đầu, mắt ánh lên vẻ nhớ nhung: “Một con chim ưng dũng mãnh bất thình lình sà xuống quắp nó bay vút lên trời ngay trước mắt bọn con.”
 
-“Thật là hãi hùng,” Jim nói.
+“Cảnh tượng thiên nhiên hoang dã hãi hùng thực sự,” Jim cảm thán.
 
-Phoebe có thể cảm nhận được Jim đang cố gây ấn tượng với tất cả mọi người bằng những câu chuyện phiêu lưu, chiến trận và cái chết của mình. Cô quan sát gương mặt anh để tìm kiếm những nét gợi nhớ về người em gái. Không biết Wendy có phải là một người tóc nâu không nhỉ? Liệu cô bé có sở hữu đôi mắt hình quả hạnh to tương tự? Hay dáng đứng đầy hiếu thắng, lúc nào cũng chồm về phía trước hơi quá đà khi nói chuyện? Jim mang năng lượng của một người lẽ ra phải làm ngân hàng đầu tư, buôn bán ô tô hoặc ca sĩ đám cưới, một con người xông pha ngoài xã hội, nhưng có lẽ điều này chỉ vì Phoebe là một mọt sách, lúc nào cũng mặc định nghề nghiệp của con người phải khớp hoàn toàn với tính cách của họ. Còn ngoài đời thực, Jim lại là một kỹ sư.
+Phoebe cảm nhận được Jim luôn nỗ lực khuấy động bầu không khí bằng những câu chuyện thám hiểm giang hồ phong trần. Cô kín đáo quan sát gương mặt anh để tìm kiếm những nét hoài niệm về người vợ quá cố của Gary: Liệu Wendy ngày xưa có sở hữu mái tóc nâu bồng bềnh tương tự? Có đôi mắt hình hạnh nhân to tròn và dáng vẻ bộc trực, luôn chồm người về phía trước đầy hào sảng mỗi khi trò chuyện hay không? Năng lượng của Jim toát lên phong thái của một tay môi giới chứng khoán, một nhân viên bán xe hơi cừ khôi hoặc một ca sĩ đám cưới hoạt ngôn, một mẫu người lăn lộn ngoài xã hội. Nhưng đó chỉ là lăng kính định kiến của một kẻ mọt sách như Phoebe, người luôn mặc định nghề nghiệp phải khớp với tính cách; còn ngoài đời thực, Jim lại là một kỹ sư chế tạo lành nghề.
 
-“Trong thời gian rảnh,” Jim nói với Phoebe, “anh đang đóng một chiếc thủy phi cơ.”
+“Những lúc rảnh rỗi,” Jim quay sang bắt chuyện với Phoebe, “tôi đang tự tay đóng một chiếc thủy phi cơ đấy.”
 
-“Thật ấn tượng khi anh biết làm việc đó đấy,” Phoebe nói.
+“Thật ngưỡng mộ khi anh am hiểu kỹ nghệ cơ khí phức tạp đó đấy,” Phoebe lịch thiệp đáp lời.
 
-“Thực ra là cậu ta chẳng biết làm đâu,” Gary nói.
+“Thực ra là cậu ta đang chém gió đấy, đã biết gì đâu,” Gary mỉm cười bóc mẽ bạn thân.
 
-“Cậu cứ đóng đi rồi khắc biết,” Jim nói. “Đó là cách học mà. Hơn nữa, cậu cũng sẽ được cấp chứng chỉ luôn. Ở tiểu bang Rhode Island, cậu đóng xong một chiếc máy bay và thế là voila, cậu trở thành thợ máy máy bay được chứng nhận.”
+“Cứ bắt tay vào lắp ráp thực tế rồi khắc biết tuốt,” Jim hùng hồn phản bác. “Đó là phương pháp học qua hành mà lị. Hơn nữa ở tiểu bang Rhode Island này, chỉ cần cậu tự đóng xong một chiếc máy bay có thể cất cánh là lập tức được cấp chứng chỉ thợ máy hàng không chuyên nghiệp ngay.”
 
-“Nhưng làm sao anh biết đó là một chiếc máy bay <i>tốt</i>?” Phoebe hỏi.
+“Nhưng làm sao anh dám chắc chiếc máy bay mình tự chế là một cỗ máy <i>an toàn</i>?” Phoebe nheo mắt hỏi vặn lại.
 
-“Ồ. Làm sao mà biết được,” Jim nói. “Chờ đến khi cậu bay lên tận trên đó thì mới rõ.”
+“Ồ, làm sao mà biết trước được chứ,” Jim thản nhiên nhún vai. “Cứ phải leo lên buồng lái bay vút lên tận chín tầng mây rồi mới rõ trắng đen.”
 
-“Nhưng lúc đó thì quá muộn rồi còn gì,” Phoebe nói.
+“Nhưng đến lúc bay lên đó rồi phát hiện hỏng hóc thì e là hơi muộn màng rồi,” Phoebe bật cười dí dỏm.
 
-“Đúng thế,” Jim nói.
+“Chuẩn không cần chỉnh,” Jim cười lớn đồng tình.
 
-Tất cả bọn họ đều bật cười, và cuối cùng Lila cũng liếc sang. Trong một giây, Phoebe có cảm giác như mình đang ở trong lớp học và vừa gặp rắc rối. Nhưng vì chuyện gì cơ chứ?
+Mọi người trên thuyền đều bật cười sảng khoái trước màn đối đáp hài hước, và Lila ở phía bên kia cũng kín đáo đưa mắt nhìn sang. Trong một khoảnh khắc chớp nhoáng, Phoebe có cảm giác ngượng ngùng như một nữ sinh vừa bị bắt quả tang đang đùa cợt trong giờ học. Nhưng cô có làm gì sai trái đâu cơ chứ?
 
-“Jim, ý anh là cái chiếc máy bay mà thậm chí anh còn chưa mua nổi linh kiện ấy hả?” Lila hỏi, và cả nhóm chìm vào im lặng.
+“Anh Jim ơi, ý anh là cái chiếc thủy phi cơ mà đến tận bây giờ anh còn chưa gom đủ tiền mua nổi mảnh linh kiện nào ấy hả?” Lila bất ngờ cất giọng mỉa mai, làm nụ cười của Jim thoáng chững lại.
 
-“Ừ thì, giờ thì đéo thèm nữa,” Jim nói, và mọi người lại phá lên cười.
+“Ờ thì, giờ thì bố mày đếch thèm mua nữa, được chưa nào!” Jim tếu táo vặc lại một câu tục tĩu khiến cả đám lại phá lên cười xòa.
 
-Marla tựa người vào mạn thuyền, giờ đây cảm thấy mãn nguyện vì bản thân đã đứng về phía đúng đắn của luật pháp. Con thuyền tròng trành nghiêng về phía cô, và ly đồ uống của Marla tràn hết lên áo.
+Marla ngả lưng ra mạn thuyền, gương mặt toát lên vẻ mãn nguyện của một công dân vừa hoàn thành nghĩa vụ với pháp luật. Bất chợt một con sóng lớn đánh vào mạn thuyền làm chiếc mui trần lắc lư, ly cocktail trên tay Marla sóng sánh tràn hết ra vạt áo len.
 
-“Mẹ kiếp,” Marla thốt lên, và Suz bước tới để pha đầy lại ly cho cô.
+“Mẹ kiếp thật chứ,” Marla càu nhàu bực bội, và Suz nhanh nhẹn tiến lại gần rót đầy lại ly cho cô.
 
-“Thế cô là giáo sư à?” Jim quay sang hỏi Phoebe.
+“Thế cô là giáo sư đại học thật à?” Jim lại nghiêng người quay sang bắt chuyện với Phoebe.
 
-Phoebe có thể cảm nhận được cả Lila và Gary đều đang quan sát họ lúc này, cứ như thể một đôi đang được mai mối, như thể đây chính là kế hoạch của Lila và Gary: để Jim gặp ai đó trong đám cưới này, và cuối cùng cũng chịu ổn định cuộc sống.
+Phoebe cảm nhận được cả Lila lẫn Gary đều đang kín đáo dõi theo cuộc đối thoại giữa hai người, hệt như thể họ đang ngấm ngầm mai mối cho một cặp đôi mới, như thể đây chính là toan tính ngầm của cô dâu chú rể: để Jim làm quen với một phụ nữ chín chắn trong tuần lễ cưới này và chịu yên bề gia thất.
 
-“Đúng vậy,” Phoebe nói, dù cảm giác đó ngày càng trở nên mơ hồ khi họ tiến ra xa ngoài khơi hơn. Cô thấy mình cách xa cuộc đời cũ đến nhường nào khi lênh đênh ngoài đại dương cùng những người dự đám cưới này. Đã trọn một ngày cô không kiểm tra email. Lễ ra các sinh viên của cô phải đọc một tác phẩm nào đó cho buổi học ngày mai tác phẩm của Shelley nhưng Phoebe thừa biết tối nay mình sẽ không đọc Shelley đâu. Cô sẽ không kịp quay về lớp học, thế mà cô chẳng hề cảm thấy tội lỗi chút nào. Chỉ có sự nhẹ nhõm. Chỉ có cảm giác dễ chịu khi làn gió đều đặn thổi qua má. Ly đồ uống ngọt ngào trên tay. Niềm minh triết rằng cuối cùng cô cũng làm được một việc mà cô chưa từng nghĩ mình có thể làm nổi cô đã bước ra khỏi căn phòng tối tăm của cuộc đời mình. Cô đang ở <i>đây</i>.
+“Đúng vậy,” Phoebe nhẹ nhàng đáp, dù danh xưng học thuật ấy giờ đây nghe thật xa xăm và lạ lẫm khi con thuyền ngày càng lướt xa bờ. Cô nhận thấy mình đã rời xa cuộc sống học thuật ngột ngạt cũ kỹ biết bao khi lênh đênh giữa đại dương bao la cùng những con người này. Đã trọn vẹn hai mươi tư giờ cô không thèm mở hòm thư điện tử. Lẽ ra theo lịch trình, sinh viên của cô phải đọc xong một tác phẩm kinh điển của nhà thơ lãng mạn Percy Bysshe Shelley cho buổi thảo luận ngày mai, nhưng Phoebe biết chắc đêm nay cô sẽ không bao giờ chạm vào tập thơ của Shelley nữa. Cô sẽ không kịp quay trở lại giảng đường vào sáng mai, vậy mà trong lòng cô tuyệt nhiên không gợn lên một chút tội lỗi nào. Chỉ có sự thanh thản vô bờ: làn gió biển mơn man trên gò má; ly cocktail ngọt ngào êm dịu trên tay; và niềm thức tỉnh sáng tỏ rằng cuối cùng cô đã làm được một điều kỳ diệu mà trước đây cô chưa từng dám mơ tới: cô đã dũng cảm bước ra khỏi góc tối giam cầm của đời mình. Cô đang thực sự hiện diện ở <i>nơi đây</i>.
 
-“Nghe hay đấy,” Jim nói. “Rất hay. Hồi trước tôi không giỏi văn học lắm.”
+“Nghe uyên bác và cuốn hút thật đấy,” Jim hào hứng khen ngợi. “Hồi đi học tôi dốt đặc môn văn học.”
 
-Anh uống cạn ngụm Muscle Milk cuối cùng, và Juice liền nói: “Bố biết đấy không phải sữa thật đâu đấy.”
+Anh ngửa cổ uống cạn ngụm nước dinh dưỡng cuối cùng, và cô bé Juice ngồi cạnh lập tức cất giọng bóc mẽ: “Cậu biết thừa thứ nước đó không phải là sữa thật cơ mà.”
 
-“Bố biết chứ,” Jim nói. “Nó ghi rõ rành rành ở đây này, Sản Phẩm Này Không Chứa Sữa.”
+“Cậu biết chứ,” Jim cười đáp. “Trên nhãn chai in rành rành dòng chữ to tướng đây này: <i>Sản phẩm không chứa sữa động vật</i>.”
 
-“Thế sao bố còn uống?”
+“Thế sao cậu còn cắm đầu uống?” Juice vặn vẹo.
 
-“Vì bố không muốn nó là sữa.”
+“Bởi vì cậu đâu có nhu cầu nạp sữa thật vào người.”
 
-“Chẳng hiểu nổi kiểu gì,” Juice nói.
+“Logic kỳ quặc chẳng hiểu nổi,” Juice bĩu môi lắc đầu.
 
-Người thuyền trưởng đưa họ đến Pháo đài Adams, tới một ngọn hải đăng cổ kính, và khi họ đi vòng quanh đó, Jim đặt thêm nhiều câu hỏi như thể anh thực sự muốn tìm hiểu về Phoebe. Cô dạy môn gì? Sinh viên thế nào? Ở trên đó có thấy tuyệt không khi biết tất cả mọi thứ? Cô có thể cảm nhận được anh đang tiến sát lại gần mình, như thể anh biết chắc họ là định mệnh của nhau để lên giường, hai mảnh ghép lạc loài trên con thuyền. Cô có thể cảm nhận được mọi người đang liếc nhìn bằng khóe mắt, hy vọng điều đó sẽ xảy ra, hệt như thể họ đang tham gia một chương trình truyền hình thực tế.
+Viên thuyền trưởng điêu luyện điều khiển cánh buồm đưa con thuyền lướt qua quần thể Pháo đài Adams lịch sử, chạy vòng quanh ngọn hải đăng cổ kính sừng sững bên mũi đá. Trong lúc thuyền rẽ sóng, Jim liên tục đặt thêm nhiều câu hỏi như thể anh thực sự khao khát được thấu hiểu tâm hồn Phoebe: Cô giảng dạy chuyên ngành gì? Đám sinh viên thời nay ra sao? Cảm giác nắm giữ tri thức uyên bác về cuộc đời tuyệt vời đến nhường nào? Cô cảm nhận được anh đang xích lại gần mình hơn, như thể anh tin chắc hai kẻ độc thân cô độc trên con thuyền này sinh ra là để tìm đến nhau. Cô nhận thấy những ánh nhìn kín đáo của mọi người xung quanh, thầm mong một tia lửa tình cảm sẽ bùng lên giữa hai người, hệt như một tình tiết hấp dẫn trong chương trình truyền hình thực tế.
 
-Thật là một sự giải thoát khi cuối cùng Juice cũng vỗ nhẹ vào vai Phoebe.
+Thật là một sự giải thoát nhẹ nhõm khi bàn tay nhỏ bé của Juice khẽ chạm vào vai cô.
 
-“Bọn con làm được chưa cô?” Juice hỏi, giơ chú chó ảo lên cho Phoebe xem.
+“Cô ơi, bây giờ bọn mình tiến hành được chưa ạ?” Juice thì thầm hỏi, bàn tay giơ cao chú chó nhựa nhỏ màu xanh lá cây cho Phoebe xem.
 
-Phoebe nhìn sang Gary, dù rõ ràng là Juice đang hỏi Phoebe chứ không phải ai khác. Phoebe cũng chợt nhớ lại cảm giác này. Cảm giác việc sang nhà hàng xóm sát vách ăn tối đôi khi còn dễ dàng hơn là ngồi trong chính căn bếp của gia đình mình, bởi vì vợ chồng nhà Blank sẽ hỏi cô về bài báo cáo sách, về buổi biểu diễn độc tấu, và cô có thể đáp lại bất cứ điều gì vì nhà Blank chẳng hề quan trọng đối với Phoebe chút nào họ chỉ là hàng xóm và cô không cần tình yêu thương của họ, thế nhưng cô lại vẫn nhận được điều đó nhờ vậy. Cô thậm chí có thể hỏi họ về chính mẹ ruột mình, mẹ từng là người thế nào, giọng nói ra sao, và khi ông Blank hắng giọng trước lúc trả lời, cô không hề cảm thấy cái thắt nút căng cứng lồng lộng giữa lồng ngực mỗi khi bố cô làm thế.
+Phoebe đưa mắt nhìn sang Gary, dù rõ ràng đứa trẻ đang tìm kiếm sự chỉ dẫn từ chính cô chứ không phải người cha. Phoebe thấu hiểu sâu sắc tâm lý này thuở ấu thơ: cảm giác chạy sang nhà hàng xóm ăn bữa cơm đầm ấm đôi khi còn dễ thở hơn ngàn lần ngồi trong chính căn bếp gia đình mình, bởi vì vợ chồng người hàng xóm sẽ ân cần hỏi han cô về bài luận văn học, về buổi biểu diễn độc tấu đàn dương cầm, và cô có thể thoải mái chia sẻ mọi điều vì họ chỉ là những người ngoài cuộc không mang gánh nặng phán xét. Cô thậm chí có thể thoải mái hỏi họ về hình bóng người mẹ ruột quá cố mà không phải chứng kiến cái nghẹn ngào thắt nghẽn nơi lồng ngực mỗi khi người cha già nhắc về vợ.
 
-“Rồi,” Phoebe nói.
+“Được rồi cháu,” Phoebe dịu dàng đáp.
 
-“Bọn con phải làm gì tiếp ạ?”
+“Bây giờ chúng ta phải làm những bước gì tiếp theo ạ?”
 
-Bất cứ điều gì cũng tốt hơn những gì Phoebe đã làm. Lẽ ra cô phải chôn cất nó. Harry xứng đáng có một nấm mồ. Nó từng là một <i>Harry</i> bằng xương bằng thịt, cô có lẽ sẽ nói thế trên tấm bia mộ tí hon của nó, vị bác sĩ tâm thần tí hon của chúng ta, kẻ chưa từng giải quyết nổi một vấn đề nào.
+Bất cứ nghi thức trang trọng nào lúc này cũng tốt hơn gấp vạn lần sự hèn nhát mà Phoebe từng làm với thú cưng của mình. Lẽ ra cô phải tự tay đào cho nó một nấm mồ tươm tất; chú mèo Harry xứng đáng có một nơi an nghỉ đàng hoàng. Nó từng là một sinh linh gắn bó máu thịt với cuộc đời cô, và trên tấm bia mộ nhỏ bé ấy, lẽ ra cô phải khắc ghi dòng chữ: <i>Vị bác sĩ tâm thần bé nhỏ của gia đình chúng tôi, kẻ chẳng giải quyết nổi bi kịch nào nhưng đã đồng hành đến hơi thở cuối cùng.</i>
 
-“Đầu tiên, theo phong tục thì chúng ta phải nói vài lời về người đã khuất,” Phoebe nói. “Một điều gì đó con yêu quý. Con yêu điểm gì ở Công chúa Người?”
+“Trước tiên, theo đúng nghi thức tiễn biệt trang trọng, chúng ta sẽ nói đôi lời tri ân người đã khuất,” Phoebe nhẹ nhàng hướng dẫn. “Hãy chia sẻ một kỷ niệm đẹp đẽ nhất mà cháu luôn trân quý. Cháu yêu quý điều gì nhất ở bé Công Chúa Loài Người?”
 
-Juice nói gì đó về việc Công chúa Con Người luôn ở bên cạnh con bé trong chiếc túi của mình, rằng chú chó luôn là một cô chó vô cùng ngoan ngoãn, một thứ mà con bé có thể cầm nắm bất cứ khi nào cảm thấy hồi hộp trong những buổi thuyết trình ở trường hay khi đêm xuống. Phoebe có thể thấy Gary đangướn người về phía họ, cố gắng nghe xem con gái mình đang nói gì, nhưng giọng con bé quá nhỏ. Tiếng gió lại quá lớn.
+Juice nghẹn ngào kể rằng bé Công Chúa Loài Người đã luôn nằm ngoan ngoãn trong túi áo của em ở mọi nẻo đường, rằng em ấy là một người bạn bốn chân trung thành và ngoan ngoãn nhất trần đời, một điểm tựa ấm áp mà em có thể nắm chặt trong lòng bàn tay mỗi khi lo lắng run sợ trước những bài thuyết trình trên lớp hay những đêm giông bão cô đơn. Phoebe nhìn thấy Gary đang rướn người về phía hai cô cháu, cố căng tai lắng nghe từng lời thì thầm của con gái, nhưng tiếng gió biển quá lớn và giọng cô bé quá đỗi nghẹn ngào.
 
-“Và bây giờ có ai muốn nói gì về Công chúa Con Người không ạ?” Juice hỏi.
+“Và bây giờ… có ai muốn nói đôi lời tiễn biệt bé Công Chúa Loài Người nữa không ạ?” Juice ngước mắt nhìn quanh hỏi đám đông người lớn.
 
-Phoebe thầm nghĩ thật kỳ diệu làm sao khi trẻ con đặt câu hỏi một cách hồn nhiên đến thế. Chúng chẳng hề nghĩ rằng làm thế là có gì sai trái. Chúng biết rõ là mình không biết hết mọi thứ, và điều đó khiến Phoebe thấy hơi chới với, một người phụ nữ đã dành cả sự nghiệp của mình để giả vờ như bản thân sinh ra đã biết tuốt. Bob từng gợi ý điều đó, bảo rằng một nữ học giả có thể sẽ gặp rủi ro nếu bị bắt gặp hỏi quá nhiều câu hỏi, thế nên cô thường ngồi ở các buổi giao lưu giờ giảm giá cùng đồng nghiệp, gật đầu đồng ý, và lắng nghe họ bàn luận về Cuộc Kháng Cách hay máy in ở thời kỳ đầu nước Mỹ cùng việc sinh viên ngày nay thiếu hụt kiến thức lịch sử nền tảng ra sao, và khi cuộc trò chuyện trở nên quá u ám, quá chán nản, quá giận dữ (điều mà lúc nào cũng xảy ra vào cuối buổi giao lưu), chồng cô sẽ nói: “Nhưng thành thật mà nói, anh nghĩ sinh viên của anh dạy cho anh nhiều điều hơn là anh có thể dạy cho chúng.” Phoebe nhướng mày, chờ đợi anh tự nhận ra câu nói nhảm nhí đó, bởi đó chỉ là thứ mà họ viết trong các bản tuyên bố giảng dạy của mình để trông không giống những kẻ khốn nạn, phải thế không?
+Phoebe thầm cảm phục sự dũng cảm và thuần khiết của trẻ thơ: chúng đặt ra những câu hỏi chân thật nhất từ tận đáy lòng mà không hề sợ hãi bị phán xét. Chúng biết rõ mình bất lực trước mất mát, và sự chân thành đó làm Phoebe chao đảo: một nữ học giả đã dành trọn cả sự nghiệp chỉ để gồng mình tỏ ra ta đây hiểu biết mọi lẽ trên đời. Giáo sư Bob từng khuyên nhủ rằng một phụ nữ làm nghiên cứu học thuật sẽ tự hủy hoại uy tín nếu để lộ quá nhiều thắc mắc yếu đuối, thế nên cô luôn chọn cách ngồi im lặng gật đầu trong các buổi giao lưu học thuật, lắng nghe đồng nghiệp tranh luận về cuộc Kháng Cách hay văn hóa in ấn thuở ban sơ của nước Mỹ. Và mỗi khi cuộc tranh luận biến thành sự bi quan chua chát vào cuối buổi tiệc, Matt sẽ thường buông một câu triết lý: “Nhưng nói thật lòng, anh thấy chính các sinh viên mới là người dạy cho anh nhiều bài học sâu sắc hơn những gì anh có thể truyền thụ cho chúng.” Ngày ấy Phoebe thường nhướng mày hoài nghi, cho rằng đó chỉ là một phát ngôn mị dân sáo rỗng trong bản thuyết minh phương pháp giảng dạy để làm đẹp hồ sơ.
 
-Nhưng giờ đây cô đã hiểu ý anh là gì. Có rất nhiều điều mà Phoebe không còn biết nữa. Những điều mà trẻ con biết nhưng Phoebe đã quên mất, chẳng hạn như cách nhìn vào một vòng tròn nhựa màu xanh lá để thấy hình bóng một chú chó thân yêu.
+Thế nhưng giờ đây cô đã thấu hiểu trọn vẹn ý nghĩa của câu nói ấy. Có biết bao điều bình dị sâu xa mà Phoebe đã vô tình lãng quên; những chân lý sơ nguyên mà một đứa trẻ nắm giữ nhưng một học giả từng trải lại đánh mất, chẳng hạn như niềm tin thuần khiết khi nhìn vào một vòng tròn nhựa màu xanh lá để thấy trọn vẹn linh hồn của một người bạn tri kỷ.
 
-Đó chính là lúc cô gặp rắc rối, Phoebe nghĩ. Khi ở một mình, cô đã ngừng nhìn nhận ý nghĩa trong vạn vật. Cô ngừng viết nhật ký, ngừng nấu những bữa ăn cầu kỳ, ngừng chải tóc, để mặc Harry cứ nằm lì ở góc sàn tầng hầm, bởi vì điều đó thực ra có nghĩa lý gì chứ? Mọi thứ còn ý nghĩa gì khi cô chỉ có một mình?
+Đó chính là khởi nguồn của mọi bi kịch đời cô, Phoebe nhận ra. Khi rơi vào cô độc tận cùng, cô đã ngừng kiếm tìm ý nghĩa thiêng liêng trong vạn vật xung quanh: cô ngừng viết nhật ký, ngừng nấu những bữa ăn tươm tất, ngừng chải chuốt mái tóc và nhẫn tâm để mặc xác Harry nằm lạnh lẽo nơi góc tầng hầm u tối, bởi cô tự nhủ: <i>Tất cả những điều đó còn có ý nghĩa gì nữa khi bản thân chỉ trơ trọi một mình trên cõi đời này?</i>
 
-Nhưng tất cả mọi người trên thuyền đều vô cùng im lặng, đăm đăm nhìn chú chó nhỏ bằng nhựa xanh, khiến nơi đây dần dà giống như một đám tang thực thụ.
+Nhưng lúc này đây, toàn bộ người lớn trên thuyền đều đồng loạt nín lặng, ánh mắt trang nghiêm hướng về món đồ chơi nhỏ bé bằng nhựa xanh, biến khoảnh khắc này thành một tang lễ thiêng liêng thực sự.
 
-“Em có thể cầm nó một chút được không?” Jim hỏi.
+“Cậu có thể cầm em ấy một lát được không?” Jim dịu giọng hỏi cháu gái.
 
-Juice đưa chú chó cho anh, và Jim trò chuyện trực tiếp với nó.
+Juice trân trọng trao món đồ chơi vào tay người cậu ruột, và Jim nhìn thẳng vào màn hình nhỏ cất lời.
 
-“Em biết không, Công chúa Con Người ạ, anh vẫn nhớ khoảnh khắc chị anh mua em về,” Jim nói. “Chị ấy hào hứng đến mức anh từng nghĩ, Ồ, đó mới là tình yêu đích thực, cậu biết đấy? Khi mình trở nên hào hứng đến vậy chỉ vì ý nghĩ muốn làm ai đó hạnh phúc. Thế nên cảm ơn em vì đã làm cho cháu gái anh hạnh phúc nhé.”
+“Em biết không, bé Công Chúa Loài Người ạ, cậu vẫn nhớ như in khoảnh khắc ngày em gái cậu mua em về,” Jim nghẹn giọng tâm sự. “Ngày đó Wendy hào hứng đến mức cậu từng thầm nghĩ: <i>Ồ, đó mới chính là hiện thân của tình yêu đích thực</i>. Khi người ta có thể hạnh phúc tột cùng chỉ vì ý nghĩ muốn mang lại nụ cười cho một người khác. Cảm ơn em vì đã thay mẹ Wendy làm cho cháu gái của cậu được hạnh phúc suốt những năm tháng qua nhé.”
 
-“Bố?” Juice gọi. “Đến lượt bố đấy ạ.”
+“Bố?” Juice khẽ gọi. “Đến lượt bố nói đôi lời với em ấy kìa.”
 
-Gary có vẻ giật mình. Nhưng anh vẫn bước lên phía trước. Anh đỡ lấy chú chó trong lòng bàn tay. Anh giữ im lặng trong giây lát.
+Gary thoáng giật mình bối rối, nhưng anh lập tức bước lên phía trước, đón lấy chú chó ảo đặt trang trọng trong lòng bàn tay. Anh nín lặng một hồi lâu để kìm nén xúc động.
 
-“Jim nói đúng. Chúng bố rất hào hứng khi đưa con về nhà với Juice,” Gary nói. “Bố biết con sẽ là một chú chó tuyệt vời và quả thực con đúng là như vậy. Cảm ơn con vì đã bầu bạn với con gái bố suốt bao nhiêu năm qua. Cảm ơn con vì đã có mặt ở đây khi...”
+“Cậu Jim nói rất đúng. Ngày xưa bố mẹ đã vô cùng hạnh phúc khi đón con về với Juice,” Gary nghẹn ngào cất tiếng. “Bố biết con sẽ là một người bạn bốn chân tuyệt vời nhất của con bé, và con đã hoàn thành trọn vẹn sứ mệnh thiêng liêng ấy. Cảm ơn con vì đã luôn bên cạnh chở che cho con gái bố suốt bao năm tháng khó khăn. Cảm ơn con vì đã luôn hiện diện ở đó khi mà…”
 
-Rồi Gary khựng lại, cúi gằm mặt xuống, như thể anh sắp khóc đến nơi. Phoebe liếc sang nhìn Lila, người lúc này mang vẻ mặt hoàn toàn vô cảm, đầu cúi thấp, hai tay đặt trên đùi như đang đi lễ nhà thờ, mặc dù Phoebe đã đủ hiểu Lila để có thể tưởng tượng ra những gì cô sẽ nói sau đó.
+Tiếng nói của Gary đột ngột nghẹn ứ nơi cổ họng, anh cúi gập đầu xuống, bờ vai khẽ rung lên như chực khóc nấc. Phoebe liếc nhìn sang Lila: cô dâu trẻ mang gương mặt hoàn toàn tĩnh lặng, hai bàn tay đan chặt trên đùi như một tín đồ đang cầu nguyện trước bệ thờ, dẫu Phoebe thừa hiểu trong lòng Lila đang cuộn trào những nỗi bất an phức tạp về cái bóng quá lớn của người vợ quá cố.
 
-Jim vỗ nhẹ vào lưng Gary. Cuối cùng, Gary cũng lấy lại được bình tĩnh. Nghẹn ngào thốt lên vài từ cuối cùng.
+Jim bước tới đặt tay vỗ nhẹ lên bờ vai run rẩy của em rể. Sau vài giây trấn tĩnh, Gary ngẩng đầu lên, cố nuốt nước mắt thốt ra những lời tiễn biệt sau cùng.
 
-“Dù sao đi nữa. Tụi anh thực sự rất trân trọng điều đó, chú bạn nhỏ ạ. Yên nghỉ nhé.”
+“Dù sao đi nữa, gia đình bố thực sự biết ơn con rất nhiều, người bạn nhỏ bé trung thành ạ. Hãy an nghỉ nhé.”
 
-Gary bọc chú chó lại bằng một chiếc khăn giấy trông giống như một người lính hy sinh. Trao Công chúa Con Người cho Phoebe, khiến cô có cảm giác mình giống như mẹ của con bé, người lẽ ra cũng phải nói vài lời.
+Gary cẩn thận bọc món đồ chơi nhỏ lại bằng một mảnh khăn giấy trắng muốt, tựa như nghi thức phủ cờ lên thi hài một chiến binh dũng cảm, rồi trân trọng trao bé Công Chúa Loài Người vào tay Phoebe. Hành động ấy khiến lòng cô trào dâng một cảm xúc thiêng liêng kỳ lạ, như thể cô chính là người mẹ tinh thần đang gánh vác trọng trách nói lời tiễn biệt sau cùng.
 
-“Cảm ơn em,” Phoebe nói với chú chó của Juice, nhưng đồng thời cũng là nói với Harry.
+“Cảm ơn em,” Phoebe khẽ thì thầm với chú chó nhỏ của Juice, nhưng thực chất tâm can cô đang hướng về chú mèo Harry nơi quê nhà.
 
-Cảm ơn vì đã bầu bạn với chúng tôi. Cảm ơn vì đã là nhân chứng duy nhất cho cuộc hôn nhân của chúng tôi. Cảm ơn vì lúc nào cũng chờ đợi chúng tôi vào mỗi buổi sáng ngoài cửa phòng ngủ, và đặc biệt là đêm hôm ấy khi bạn ngồi ngoài buồng tắm, canh chừng cẩn thận. Bởi vì Harry luôn biết khi nào có chuyện chẳng lành. Và đã có một chuyện vô cùng chẳng lành xảy ra, Phoebe mang thai được mười tuần và cô bị ra máu. Nhìn máu kìa, cô cứ lặp đi lặp lại câu nói đó, và Matt đã dìu cô vào phòng tắm, đặt tay vào giữa hai chân cô, như thể muốn hứng lấy nó. Hoặc có lẽ chỉ để cảm nhận nó. Để trở thành một phần trong đó. Sau đó, Harry lặng lẽ đi theo họ vào giường, và Matt cuộn tròn ôm lấy Phoebe, còn Phoebe thì cuộn tròn ôm lấy Harry.
+Cảm ơn vì đã kiên nhẫn làm bạn với mẹ suốt mười năm dài đằng đẵng. Cảm ơn vì đã là nhân chứng trung thành duy nhất cho cuộc hôn nhân đầy tổn thương của mẹ. Cảm ơn vì sáng nào cũng ngồi đợi mẹ trước cửa phòng ngủ, và đặc biệt là đêm kinh hoàng ấy khi con kiên nhẫn ngồi canh giữ ngoài cửa phòng tắm. Bởi vì Harry luôn linh cảm được điềm dữ trước cả con người: cái đêm định mệnh khi cái thai mười tuần tuổi của Phoebe bị sẩy và dòng máu bắt đầu tuôn trào không dứt. <i>Nhìn máu kìa anh, máu đang chảy</i>, cô từng hoảng loạn lặp đi lặp lại câu nói đó trong nước mắt, và Matt đã bế bổng cô vào bồn tắm, bàn tay run rẩy áp chặt giữa hai chân cô như muốn hứng trọn lấy giọt sống đang rời bỏ cơ thể mẹ. Sau đêm định mệnh ấy, Harry lặng lẽ nhảy lên giường cuộn tròn nép sát vào người họ: Matt ôm trọn lấy Phoebe từ phía sau, còn Phoebe thì ôm chặt lấy Harry vào lòng để tìm kiếm hơi ấm sinh tồn.
 
-“Chị thực sự rất yêu em,” Phoebe nói, bởi vì bây giờ khi sự kinh hoàng ấy đã qua đi, Phoebe có thể cảm nhận được phần tốt đẹp, tình yêu dành cho gia đình nhỏ của cô, gia đình mà cô từng có và gia đình mà cô sẽ chẳng bao giờ có được nữa. Tình yêu ấy lớn lao đến mức khiến cô nghẹn ngào vùi mặt vào hai bàn tay khóc nấc lên trong khoảnh khắc. Không ai nói một lời nào, ngoại trừ Juice.
+“Mẹ thực sự yêu thương con rất nhiều,” Phoebe bật thốt lên trong nghẹn ngào, bởi vì giờ đây khi nỗi kinh hoàng đã lùi xa, cô mới cảm nhận trọn vẹn tình yêu thương vô bờ bến dành cho tổ ấm nhỏ bé của mình: tổ ấm mà cô từng có và một mái ấm mà cô vĩnh viễn không bao giờ có cơ hội chạm tới được nữa. Cảm xúc bi thương dồn nén bấy lâu vỡ òa khiến cô phải gục mặt vào hai bàn tay nức nở khóc. Trên boong thuyền, mọi người đều xúc động nín lặng, ngoại trừ sự ngây thơ của Juice.
 
-“Cô có, kiểu như, biết chó nhà cháu không ạ?” Juice hỏi.
+“Cô ơi… ngày xưa cô cũng từng quen biết em chó của cháu ạ?” Juice ngây ngô hỏi.
 
-Phoebe bật cười. Tất cả bọn họ đều cười. Phoebe lau nước mắt và ngẩng lên thì bắt gặp Gary đang nhìn mình, mỉm cười.
+Phoebe bật cười qua làn nước mắt, và tất cả mọi người trên thuyền cũng cười theo trong niềm xúc động nhẹ nhõm. Phoebe vội quệt giọt lệ trên mi, ngẩng đầu lên thì bắt gặp ánh mắt trìu mến đầy thấu hiểu của Gary đang nhìn mình mỉm cười.
 
-“Không,” Phoebe đáp. “Cô không biết chó của cháu.”
+“Không cháu ạ,” Phoebe mỉm cười đáp. “Cô không quen biết chú chó của cháu.”
 
-Phoebe không biết con chó ấy. Không biết mẹ của nó. Không biết con gái của mình. Thậm chí cô còn chẳng biết đứa trẻ ấy có phải là con gái hay không, nhưng cô đã tưởng tượng ra hình bóng con bé biết bao lần, cách hai mẹ con sẽ cùng nhau đọc kịch ở cánh đồng mở phía sau nhà, bởi vì nhất định sẽ có một cánh đồng mở. Phoebe sẽ đảm bảo điều đó. Họ sẽ đưa con bé ra đồng, dạy con bé cách nhảy múa, cách nhún nhảy chân sáo. Họ sẽ đi bắt ếch. Họ sẽ đi cắm trại. Họ sẽ kể chuyện cho nhau nghe vào ban đêm và cả buổi sáng nữa, và Phoebe sẽ chỉ cho con bé cách viết câu chuyện đó ra, đóng các trang giấy lại bằng chỉ sợi, giống như cách cha cô từng dạy cô ngày trước. Cô muốn truyền lại chính cảm giác tuyệt vời ấy cho đứa con của mình. Cô muốn dạy con bé cách sáng tạo, cách làm ra thật nhiều sốt táo từ những nguyên liệu tươi ngon, cách thu hoạch dâu tây, và khi đứa trẻ chìm vào giấc ngủ, Matt sẽ pha cho hai vợ chồng những ly cocktail dâu tây để họ cuộn tròn trong chăn và xem một bộ phim vừa kỳ quặc vừa tuyệt vời mà họ đã xem tới cả triệu lần, chẳng hạn như <i>Terminator</i> hay <i>Dune</i> hoặc tất cả các bản chuyển thể tác phẩm của Jane Austen.
+Phoebe không hề quen biết chú chó nhỏ ấy; cũng chẳng quen biết người mẹ quá cố Wendy; và chưa từng được ôm đứa con ruột thịt trong đời. Thậm chí cô còn chưa kịp biết đứa trẻ chưa thành hình ấy là một bé trai hay bé gái, vậy mà trong những giấc mơ hoang hoải suốt bao năm qua, cô đã mường tượng ra hình bóng con gái mình hàng nghìn lần: cảnh hai mẹ con cùng nhau đọc những vở kịch thiếu nhi trên bãi cỏ rộng sau nhà; cảnh cô dắt con ra đồng cỏ bát ngát dạy con nhảy chân sáo và bắt những chú ếch nhỏ; những đêm khuya hai mẹ con rủ rỉ kể chuyện cổ tích cho nhau nghe, rồi cô sẽ chỉ cho con cách đóng những trang viết thành cuốn sách đầu đời bằng kim chỉ như người cha già từng dạy cô thuở nhỏ. Cô từng khao khát được truyền lại tất cả tình yêu thương thuần khiết ấy cho cốt nhục của mình; khao khát được dạy con cách nấu nước sốt táo thơm lừng từ nguyên liệu tươi non và hái những chùm dâu tây chín mọng ngoài vườn; để rồi khi đứa trẻ chìm vào giấc ngủ êm đềm, Matt sẽ pha cho hai vợ chồng những ly cocktail dâu tây nồng nàn để cùng nhau cuộn tròn trong chăn xem lại những thước phim kinh điển mà họ say mê như <i>Kẻ hủy diệt</i>, <i>Dune</i> hay những tác phẩm chuyển thể bất hủ của Jane Austen.
 
-Tầm nhìn về gia đình ấy đã nâng đỡ cô suốt cả cuộc hôn nhân, xuyên suốt năm chu kỳ thụ tinh trong ống nghiệm (IVF). Khi tiêm những mũi thuốc vào lớp mỡ bụng, cô luôn nghĩ đến đứa con gái, những ngón tay bé xíu của con đang hái những trái dâu tây. Cô hình dung ra những ngón tay ấy thường xuyên và sống động đến mức, đến một thời điểm nào đó, cô không thể tưởng tượng nổi việc chúng không tồn tại.
+Hình dung tươi đẹp về một mái ấm trọn vẹn ấy chính là nguồn năng lượng duy nhất đã nâng đỡ cô bước qua mười năm hôn nhân bão dông, xuyên suốt năm chu kỳ thụ tinh trong ống nghiệm (IVF) đau đớn đến kiệt cùng thể xác. Mỗi lần cắn răng tự đâm mũi kim tiêm hormone sắc nhọn vào lớp mỡ bụng, tâm trí cô chỉ hiện lên hình ảnh đôi bàn tay bé xíu của đứa con gái đang với hái những quả dâu tây ngọt ngào. Cô đã mường tượng về hình bóng ấy sống động và da diết đến mức không thể chấp nhận được sự thật rằng nó sẽ không bao giờ tồn tại trên cõi đời này.
 
-Nhưng chúng sẽ không bao giờ tồn tại. Sẽ chẳng bao giờ có.
+Nhưng đứa trẻ ấy sẽ vĩnh viễn không bao giờ đến với cô.
 
-“Bây giờ chúng ta tiễn con bé đi nhé,” Phoebe nói.
+“Bây giờ chúng ta cùng nhau tiễn biệt em ấy về với biển cả nhé,” Phoebe dịu dàng nói với Juice.
 
-“Con cứ ném thẳng xuống nước ạ?” Juice hỏi.
+“Con cứ ném thẳng em ấy xuống làn nước biển ạ?” Juice ngước mắt hỏi xin ý kiến.
 
-“Chắc là thả nhẹ nhàng thôi,” Phoebe gợi ý.
+“Cô nghĩ chúng ta nên nhẹ nhàng thả em ấy xuống dòng nước thì đẹp hơn,” Phoebe gợi ý.
 
-“Tạm biệt Công chúa Người nhé,” Juice nói, và khi con bé giơ xác con chó đồ chơi lên trên mặt nước, Phoebe thầm nghĩ, Tạm biệt Harry. Cô nghe thấy âm thanh đó vang lên trong đầu mình giống như những lời cuối cùng của Ophelia trong vở kịch <i>Hamlet</i>: Tạm biệt Harry. Tạm biệt con gái. Tạm biệt mẹ. Tạm biệt cha. Tạm biệt chồng. Tạm biệt, tạm biệt.
+“Tạm biệt bé Công Chúa Loài Người yêu quý nhé,” Juice nghẹn ngào cất lời, và khoảnh khắc cô bé vươn hai tay đặt bọc giấy trắng chứa chú chó đồ chơi xuống mặt biển xanh biếc, tâm can Phoebe cũng vang lên lời nguyện cầu sau cùng: <i>Tạm biệt Harry của mẹ.</i> Âm vang ấy ngân nga trong tâm trí cô da diết tựa như những lời trăn trối cuối cùng của nàng Ophelia trong kiệt tác <i>Hamlet</i>: <i>Tạm biệt Harry. Tạm biệt đứa con chưa thành hình. Tạm biệt mẹ hiền. Tạm biệt người cha kính yêu. Tạm biệt người chồng từng gắn bó mười năm. Vĩnh biệt tất cả những đau thương đã qua.</i>
 
-Nhưng trước khi Juice thả con chó xuống, Marla liền hét lên, “Cháu không thể vứt nó xuống đại dương thật thế được chứ! Thế là xả rác đấy.”
+Nhưng ngay trước khi ngón tay Juice kịp buông lơi món đồ chơi xuống nước, tiếng hét chói gắt của Marla đã vang lên xé toạc bầu không khí thiêng liêng: “Cháu không được phép vứt thứ đồ chơi đó xuống đại dương như thế! Hành vi đó là xả rác hủy hoại môi trường đấy!”
 
-“Đây có phải xả rác đâu, đây là <i>con chó</i> của cháu mà, Dì Marla.”
+“Đây đâu phải là rác thải bừa bãi, đây là <i>chú chó</i> kỷ vật của cháu mà, Dì Marla!” Juice tức tưởi gắt lên.
 
-“Nó làm bằng nhựa,” Marla nói. “Sẽ mất tới hàng triệu năm để phân hủy đấy.”
+“Vỏ của nó đúc hoàn toàn bằng nhựa tổng hợp,” Marla đanh giọng lập luận. “Chất liệu đó sẽ mất hàng triệu năm mới có thể phân hủy sinh học được dưới lòng biển.”
 
-“<i>Phân hủy</i> á?” Juice kêu lên.
+“<i>Phân hủy</i> cái gì cơ chứ!” Juice gào khóc trong uất ức.
 
-“Chúng tôi đề nghị quý khách giữ tất cả đồ đạc của mình ở bên trong thuyền,” người thuyền trưởng nhẹ nhàng nhắc nhở.
+Viên thuyền trưởng đứng nơi bánh lái cũng nhẹ nhàng lên tiếng nhắc nhở: “Xin phép đề nghị quý khách vui lòng giữ gìn tư trang bên trong boong thuyền theo đúng quy định an toàn hàng hải.”
 
-Juice nhìn Phoebe cứ như thể con bé đang đứng trước một lựa chọn về việc mình sẽ trở thành ai, và Phoebe cũng đưa ra một lựa chọn cho chính mình.
+Juice đưa mắt nhìn sang Phoebe với ánh nhìn cầu cứu tuyệt vọng, tựa như đứa trẻ đang đứng trước ngã rẽ định mệnh để khẳng định bản sắc của chính mình; và Phoebe cũng lập tức đưa ra quyết định dứt khoát cho cuộc đời mình.
 
-“Cứ làm đi con,” Phoebe nói, bởi vì mặc kệ đời. Nếu cô đã quyết định phải sống tiếp, cô sẽ sống theo một cách khác đi vào lần này. “Hãy tổ chức tang lễ cho em ấy nào.”
+“Cứ thả em ấy xuống đi con gái,” Phoebe mỉm cười kiên định nói, bởi vì mặc kệ mọi quy tắc hà khắc của thế gian. Nếu cô đã lựa chọn tiếp tục sống, cô sẽ sống một cuộc đời hoàn toàn khác, can đảm và dám yêu thương theo cách của riêng mình. “Chúng ta hãy hoàn thành tang lễ tiễn đưa em ấy nào.”
 
-Juice thả con chó xuống lòng đại dương. Khi nó lập tức bị nuốt chửng bởi lớp bọt nước trắng xóa, Juice bỗng bật cười khúc khích. Đó là niềm vui sướng hân hoan của một đứa trẻ vừa làm được một việc lẽ ra không nên làm, và Phoebe cũng cảm nhận được điều đó, đó là lý do tại sao cô cứ chực chờ bị ai đó mắng mỏ.
+Juice dứt khoát buông tay thả chú chó nhỏ xuống làn nước đại dương sâu thẳm. Khoảnh khắc bọc giấy trắng bị nuốt chửng bởi lớp bọt sóng trắng xóa của mạn thuyền, cô bé bỗng bật cười khúc khích qua làn nước mắt. Đó là niềm vui sướng hân hoan thuần khiết của một đứa trẻ vừa vượt qua rào cản cấm đoán để bảo vệ niềm tin của mình, và Phoebe cũng cảm nhận được sự giải thoát ngọt ngào ấy, dẫu bản năng cũ khiến cô thoáng chực chờ một lời quở trách.
 
-Nhưng viên thuyền trưởng không hề mắng mỏ. Ông bắt đầu xoay xở với phần cánh buồm. Những người khác đã bắt đầu lại cuộc trò chuyện của họ. Đám tang đã kết thúc. Con thuyền trượt nhanh trên mặt nước, trong khi những người lớn lại trở về làm những người dự đám cưới trên một chiếc thuyền. Họ uống rượu như thể chẳng có chuyện gì xảy ra cả. Nhưng quả thực có chuyện đã xảy ra. Phoebe có thể cảm nhận rõ điều đó khi Juice tựa người sát vào cô. Và Gary chắc chắn cũng cảm nhận được điều đó, cô thầm nghĩ, bởi vì trông anh có vẻ đầy vương vấn, như thể anh biết mình vừa chứng kiến một khoảnh khắc quan trọng diễn ra trong cuộc đời con gái nhưng lại chưa biết phải làm gì bây giờ.
+Nhưng viên thuyền trưởng dạn dày kinh nghiệm không hề buông lời trách cứ. Ông chỉ lặng lẽ điều chỉnh lại dây chão và kéo căng cánh buồm đón gió. Những người khác trên boong tàu cũng dần quay trở lại với những câu chuyện dang dở. Nghi thức tang lễ trang nghiêm đã khép lại; cánh buồm no gió lướt vun vút trên mặt biển bao la, đưa những người lớn quay trở lại với vai diễn quen thuộc của những người dự đám cưới. Họ nâng ly uống rượu như thể chưa từng có biến cố xúc động nào vừa đi qua. Thế nhưng thực tế là có một điều thiêng liêng đã được hàn gắn: Phoebe cảm nhận rõ rệt sự tin cậy ấm áp khi Juice nép sát người vào vai cô; và Gary chắc chắn cũng thấu hiểu điều đó, bởi ánh mắt anh nhìn cô đong đầy vẻ xúc động biết ơn sâu sắc, tựa như anh vừa chứng kiến một cột mốc bước ngoặt chữa lành trong tâm hồn cô con gái nhỏ mà chính anh từng bất lực không biết phải làm sao.
 
-“Này, ăn chút kem không nào các cháu?” Lila nói, bước tới để hòa mình vào bầu không khí chung. Cô đưa cho Juice một chiếc bánh kẹp kem nhỏ lấy từ thùng đựng đá.
+“Này, có ai muốn thưởng thức chút bánh kẹp kem giải nhiệt không nào?” Lila cất tiếng đầy nhã nhặn, bước tới gần để phá tan không khí trầm lắng. Cô lấy ra một chiếc bánh sandwich kẹp kem nhỏ từ thùng đá đưa cho Juice.
 
-Nhưng Juice không muốn nhận. Con bé giơ nó lên trước ánh sáng vì đến cả món này con bé cũng cảm thấy nghi ngờ. “Cái này không hẳn là kem thật đâu, cô biết không.”
+Nhưng Juice không hề có ý định đón nhận. Cô bé cầm chiếc bánh giơ lên soi dưới ánh nắng với ánh mắt ngờ vực: “Món này làm sao được coi là kem thật chứ, cô biết thừa mà.”
 
-“Ý cháu là sao, sao lại không phải là kem?” Gary hỏi.
+“Sao cháu lại bảo đó không phải là kem thật?” Gary nhẹ nhàng hỏi con gái.
 
-“Mấy thứ này có tan chảy đâu chứ. Đây không phải là đồ ăn thật.”
+“Dưới trời nắng gắt thế này mà nó tuyệt nhiên chẳng hề tan chảy chút nào. Toàn hóa chất độc hại chứ đâu phải thực phẩm tự nhiên.”
 
-“Ờ thì, cháu không thích thì có thể không ăn mà,” Lila nói. “Cô chỉ nghĩ là cháu đang đói thôi.”
+“Ờ thì, nếu cháu không thích thì có thể không ăn,” Lila gượng gạo thu tay lại. “Cô chỉ sợ cháu bị đói bụng thôi.”
 
 “Cháu không đói.”
 
-Gary liếc Lila một cái với vẻ mặt đầy áy náy, còn Juice đặt chiếc bánh kẹp kem xuống chiếc ghế bên cạnh. Juice mở điện thoại ra và tự trấn an bản thân bằng cách đọc trang Wikipedia về nhà nghỉ Cornwall Inn. Lila quay trở lại với đám bạn ở phía bên kia thuyền, còn Gary bước theo cô dâu của mình. Phoebe có thể cảm nhận toàn bộ cơ thể Juice thả lỏng hoàn toàn dựa vào người cô trong lúc con bé đọc thành tiếng.
+Gary trao cho Lila một ánh nhìn áy náy đầy bối rối, trong khi Juice thản nhiên đặt chiếc bánh kẹp kem xuống ghế băng bên cạnh. Cô bé rút điện thoại ra và tìm kiếm sự tĩnh tâm bằng cách chăm chú đọc to trang Wikipedia viết về lịch sử Khách sạn Cornwall Inn. Lila thở dài quay trở lại mạn thuyền bên kia cùng hội bạn thân, còn Gary lặng lẽ bước theo vỗ về cô dâu của mình. Phoebe cảm nhận được toàn bộ cơ thể Juice hoàn toàn thả lỏng, tin cậy tựa hẳn vào người cô trong lúc cô bé rủ rỉ đọc to từng dòng tư liệu.
 
-“Thế nên khách sạn này được xây dựng vào năm 1844,” Juice đọc cho Phoebe nghe. “Do một người đàn ông tên là Albert Schuyler xây dựng. Ông ấy xây nó cho nhân tình của mình.”
+“Hóa ra khách sạn cổ kính của chúng ta được xây dựng từ tận năm 1844,” Juice đọc cho Phoebe nghe. “Do một vị quý tộc giàu có tên là Albert Schuyler tự tay thiết kế và xây cất dành riêng cho người tình bí mật của ông.”
 
-Gary vòng tay ôm lấy eo Lila, và hai người họ trao nhau một nụ hôn.
+Ở phía mạn thuyền đằng xa, Gary dịu dàng vòng tay ôm trọn bờ eo thon của Lila, và hai người họ trao nhau một nụ hôn nồng thắm dưới nắng biển.
 
-“Nào hô hào lên chứ!” Jim hét lớn, và tất cả mọi người cùng hò reo.
+“Nhiệt liệt chúc mừng đôi uyên ương nào!” Jim gõ mạnh lon bia lên mạn thuyền hò reo, và toàn bộ du khách trên tàu cùng vỗ tay hưởng ứng rộn rã.
 
-Phoebe đã sẵn sàng tin tưởng vào mối quan hệ của họ với tư cách là một cặp đôi. Cô chờ đợi để xem cảm giác sẽ ra sao khi Gary và Lila trực tiếp trò chuyện với nhau. Cô muốn hiểu điều gì khiến họ bật cười. Cách họ tán tỉnh nhau. Cô đã sẵn sàng chấp nhận mọi thứ đúng như bản chất của nó. Thế nhưng sau khi hôn xong, họ lại hoàn toàn hướng ra bên ngoài, ôm ấp những vị khách của mình, kể chuyện cho họ nghe chứ không phải cho nhau. Và cứ chốc chốc, Gary lại ngoái đầu nhìn về phía Juice và Phoebe như thể anh muốn nói điều gì đó. Cuối cùng, anh thực sự lên tiếng.
+Phoebe đã thực lòng mở lòng muốn tin vào sự gắn kết bền chặt của họ với tư cách là một cặp vợ chồng sắp cưới. Cô kiên nhẫn quan sát để cảm nhận xem cách Gary và Lila đối thoại trực tiếp với nhau sẽ ra sao ngoài đời thực: cô muốn thấu hiểu điều gì làm họ rung động, cách họ tán tỉnh và sẻ chia niềm vui. Cô đã sẵn sàng đón nhận tình yêu của họ bằng sự bao dung chân thành nhất. Thế nhưng sau nụ hôn lãng mạn chớp nhoáng ấy, cả hai lại lập tức quay sang hướng ngoại hoàn toàn: họ mải mê ôm ấp, rót rượu và kể những câu chuyện xã giao với quan khách xung quanh thay vì hướng trọn tâm can về nhau. Và cứ chốc chốc, Gary lại kín đáo ngoái đầu nhìn về phía hai cô cháu Phoebe và Juice như muốn mở lời giãi bày điều gì đó. Cuối cùng, anh cất tiếng nhắc nhở.
 
-“Juice, làm ơn vứt cái bánh sandwich đó đi nếu con không định ăn,” Gary nói. “Nó đang chảy nước ra chiếc thuyền của chú này rồi kìa.”
+“Juice ơi, con làm ơn vứt cái bánh sandwich kẹp kem đó vào sọt rác đi nếu không định ăn,” Gary nghiêm giọng bảo. “Nó bắt đầu chảy nước làm bẩn sàn gỗ boong thuyền của bác thuyền trưởng rồi kìa con.”
 
-“Nhưng thực ra nó có tan chảy đâu cơ chứ!” Juice cãi.
+“Nhưng nó có tan chảy chút nào đâu ạ!” Juice gắt lên bướng bỉnh.
 
-Juice nói đại khái là đúng. Nó không hề tan chảy thật. Nó vẫn giữ nguyên hình dạng ban đầu, mà Phoebe phải thừa nhận là điều đó khá đáng sợ. Nhưng người cha thì không hề ấn tượng chút nào. Người cha chỉ nhìn thấy rác mà thôi. “Vứt nó đi,” ông nói.
+Về mặt thực tế thì nhận định của Juice hoàn toàn chuẩn xác: chiếc bánh kem công nghiệp vẫn giữ nguyên hình khối trơ trơ dưới nắng biển, một chi tiết nhân tạo mà chính Phoebe cũng phải thừa nhận là khá rùng mình. Nhưng người cha thì không hề mảy may bận tâm đến tính khoa học của món ăn; trong mắt một người lớn có trách nhiệm, đó đơn thuần chỉ là một mẩu rác thải bừa bãi. “Vứt nó vào sọt rác ngay đi con,” Gary dứt khoát ra lệnh.
 
-“Biết rồi ạ!” Juice hét lên.
+“Con biết rồi ạ!” Juice hét lớn giận dỗi.
 
-Juice ném chiếc bánh sandwich xuống nước, và Marla lên tiếng: “Thấy chưa? Chị biết ngay thế nào cũng có chuyện này mà. Xả rác là một con đường trượt dốc không phanh đấy,” còn Gary thì bảo: “Thôi bỏ qua đi, Marla,” rồi nhìn Juice như thể anh sắp sửa phạt con bé nhưng lại thôi. Anh quay lại bên cô dâu của mình, còn Juice nhìn ra mặt nước cứ như đang ngẫm nghĩ điều gì đó cay đắng về bố mình, về Lila, hay về cuộc đời cô nói chung, nhưng Phoebe thừa biết con bé chỉ đang cố kìm nước mắt. Phoebe quá rõ chiêu trò này. Cô quan sát thấy Juice lại cầm điện thoại lên.
+Juice vung tay ném phăng chiếc bánh sandwich xuống lòng biển, và Marla lập tức chớp lấy cơ hội lên giọng phán xét: “Thấy chưa nào? Tôi đã cảnh báo từ trước rồi mà chẳng ai chịu nghe. Thói quen xả rác bừa bãi là một con dốc trượt dài tha hóa không phanh đấy,” còn Gary thì ngao ngán nhượng bộ: “Thôi xin chị bỏ qua đi, Marla.” Anh nhìn con gái với ánh mắt nghiêm khắc như muốn buông lời quở phạt nhưng rồi lại kìm nén thở dài quay gót trở về bên cô dâu trẻ. Juice quay mặt ra hướng biển mênh mông, đôi vai nhỏ khẽ rung lên như đang nuốt trọn những uất ức cay đắng về người cha, về người mẹ kế tương lai Lila và về chính số phận côi cút của mình; nhưng Phoebe hiểu quá rõ nỗi đau ấy, cô biết đứa trẻ chỉ đang gắng gượng nuốt nước mắt vào trong. Cô lặng lẽ quan sát Juice bật sáng màn hình điện thoại lần nữa.
 
-“Cô có nghĩ là ông ấy thực sự yêu nhân tình của mình không?” Juice hỏi.
+“Cô có tin là vị quý tộc Schuyler thực sự yêu say đắm người nhân tình của mình không?” Juice ngước lên hỏi nhỏ.
 
-“Hả?” Phoebe ngạc nhiên.
+“Sao cơ cháu?” Phoebe thoáng ngạc nhiên hỏi lại.
 
-“Albert Schuyler ấy.”
+“Ông Albert Schuyler ấy ạ.”
 
-“Chắc là có rồi,” Phoebe đáp. “Người ta đâu có xây cả những công trình vĩ đại cho những kẻ tầm thường được.”
+“Cô tin là có chứ,” Phoebe dịu dàng đáp. “Người ta chẳng bao giờ dốc cạn tâm huyết để dựng nên cả một đại công trình nguy nga đến nhường ấy cho một bóng hình tầm thường cả.”
 
-Nhưng đó là một thứ tình yêu khác biệt, Phoebe hiểu rõ điều đó. Người vợ chính là lý do khiến một người đàn ông trở thành kiến trúc sư. Còn người nhân tình chính là lý do khiến vị kiến trúc sư ấy tiếp tục dựng xây. Bản vẽ những giấc mơ mà có lẽ anh ta chẳng bao giờ thực hiện được, nên đành cất giấu sâu trong ngăn kéo.
+Nhưng đó là một thứ tình yêu khác biệt và đầy phức cảm, Phoebe thấu hiểu sâu sắc điều đó trong văn học: người vợ hợp pháp có thể là lý do đưa một người đàn ông dấn thân trở thành một kiến trúc sư mẫu mực; nhưng chính người tình trong bóng tối mới là nguồn cảm hứng cháy bỏng thôi thúc người kiến trúc sư ấy không ngừng kiến thiết nên những tuyệt tác để đời. Đó là bản vẽ của những giấc mơ hoang dại mà có lẽ cả đời người ta chẳng bao giờ dám công khai thực hiện, nên đành ngậm ngùi cất giấu sâu kín nơi ngăn kéo tâm hồn.
 
-“Phải đấy,” Juice nói. “Dù nói thật chứ, con chẳng bao giờ có thể yêu nổi một người tên là Albert.”
+“Chắc là vậy rồi cô nhỉ,” Juice lẩm bẩm gật đầu. “Dù thú thật với cô, cả đời này cháu sẽ chẳng bao giờ thèm yêu một người đàn ông mang cái tên Albert quê mùa ấy đâu.”
 
-“Tên Albert thì cũng là con người thôi mà,” Phoebe bảo.
+“Tên Albert thì suy cho cùng cũng chỉ là một danh xưng con người thôi mà cháu,” Phoebe bật cười bảo vệ.
 
-Juice phì cười lớn. Con bé lẩm bẩm nhắc lại câu nói ấy: “Tên Albert thì cũng là con người thôi mà.”
+Juice bỗng phì cười khúc khích, cô bé thích thú nhại lại câu nói của cô: “Tên Albert thì suy cho cùng cũng chỉ là một danh xưng con người thôi mà.”
 
-Juice tiếp tục thì thầm kể cho Phoebe nghe về khách sạn với giọng điệu nhỏ nhẹ, cứ như đang kể chuyện bí mật sau giờ đi ngủ, và Phoebe ngạc nhiên khi thấy bản thân thực sự hứng thú, dù cô chẳng hiểu sao mình lại ngạc nhiên, bởi đây vốn dĩ là kiểu chuyện mà cô thích suy ngẫm.
+Juice tiếp tục ghé sát tai Phoebe thì thầm đọc những giai thoại cổ xưa về khách sạn bằng chất giọng trong trẻo, êm đềm hệt như những câu chuyện cổ tích thủ thỉ trước giờ đi ngủ; và Phoebe ngạc nhiên nhận ra bản thân đang lắng nghe say mê đến nhường nào, dẫu cô chẳng cần phải ngạc nhiên, bởi những câu chuyện thâm trầm về lịch sử và nhân tình thế thái xưa nay vốn dĩ là niềm đam mê ăn sâu vào máu thịt của cô.
 
-Khi họ gần quay trở lại cầu tàu, tất cả mọi người dường như đều đã ngà ngà say và vui vẻ trở lại. Gary và Lila đang cười thích thú trước điều gì đó mà Nat đang nói. Marla và Jim thì đang say sưa trò chuyện với bố của Marla về Roy. Và lúc này, Juice thực sự đang tựa hẳn vào người Phoebe như thể cô là chiếc chặn sách. Khi mọi người chuẩn bị rời khỏi thuyền, Phoebe nhắm mắt lại. Cô không muốn nhúc nhích chút nào. Giống như hồi Harry nằm trên đùi cô và trông đáng yêu đến mức Phoebe thậm chí chẳng dám nhấp một ngụm cà phê. Phoebe không muốn phá hỏng khoảnh khắc này.
+Khi cánh buồm no gió đưa con thuyền dần quay trở lại bến cảng Bowen’s Wharf, men say cocktail dường như đã ngấm khiến tất cả mọi người trên tàu đều trở nên ngà ngà hân hoan. Gary và Lila đang cười đùa rạng rỡ trước một mẩu chuyện tiếu lâm duyên dáng của Nat; Marla và Jim thì đang hào hứng tranh luận cùng ông cụ thân sinh về những chiến tích quân ngũ của Roy; còn cô bé Juice thì tin cậy tựa hẳn đầu vào bờ vai ấm áp của Phoebe hệt như một chiếc chặn sách bằng xương bằng thịt. Khoảnh khắc mọi người rục rịch chuẩn bị đứng dậy rời thuyền, Phoebe khẽ nhắm nghiền mắt lại. Cô chỉ ước thời gian ngừng trôi, không muốn cử động dù chỉ một đầu ngón tay: cảm giác ấy hệt như những buổi sớm mai khi chú mèo Harry cuộn tròn ngủ say sưa trên đùi cô, đáng yêu đến độ Phoebe chẳng nỡ nhúc nhích tay với lấy ly cà phê vì sợ làm tan biến khoảnh khắc bình yên kỳ diệu ấy. Phoebe thực tâm không muốn phá vỡ sự ấm áp của lúc này.
 
-Nhưng rồi thuyền cập bến, và Phoebe ngước nhìn lên cầu tàu, nhìn tất cả dòng người, những ngôi nhà và cả cuộc sống mới đang chờ đợi phía sau.
+Nhưng rồi con thuyền cũng cập bến gỗ an toàn. Phoebe mở mắt ngước nhìn lên cầu cảng lịch sử, đón nhận dòng người tấp nập, những dãy phố lát đá cuội sầm uất và cả một cuộc đời mới đang kiên nhẫn chờ đợi cô bước tiếp.
 
-“Vui quá đi mất,” Lila thông báo khi đứng dậy.
+“Chuyến ra khơi tuyệt vời không thể tả!” Lila hân hoan tuyên bố khi đứng dậy chỉnh trang váy áo.
 
-“Quá vui luôn,” Suz phụ họa.
+“Tuyệt đỉnh luôn ấy chứ!” Suz hào hứng phụ họa.
 
-Nat giơ máy ảnh lên. “Hôn đi!”
+Nat giơ cao chiếc máy ảnh du lịch lên căn góc: “Hai nhân vật chính trao nhau một nụ hôn ăn mừng nào!”
 
-Và thế là họ trao nhau nụ hôn.
+Và thế là dưới ánh chiều tà rực rỡ của vịnh biển Newport, họ trao nhau một nụ hôn nồng say trong tiếng reo hò chúc phúc của mọi người.

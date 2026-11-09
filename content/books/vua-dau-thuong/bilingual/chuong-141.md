@@ -124,6 +124,8 @@
 
 <p class="para-vi-sub">“Tớ có thể làm cho mọi thứ bớt tẻ nhạt hơn,” Allie nói. Cô uống cạn ly của mình rồi đứng dậy rót thêm một ly khác. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“I’d love to try a strap-on sometime,” Donna said. “Bend Colin over the back of the couch. He’d love that, you know. He’s entirely free of inhibitions.”</p>
 
 <p class="para-vi-sub">“Tao rất muốn thử dùng một chiếc dương vật giả gắn dây đai vào lúc nào đó,” Donna nói. “Bẻ gập Colin lại ở lưng tựa ghế sofa. Mày biết đấy, chắc chắn hắn sẽ thích mê cho xem. Hắn hoàn toàn không có chút liêm sỉ nào cả.”</p>
@@ -188,6 +190,8 @@
 
 <p class="para-vi-sub">Allie liền pha cho mỗi người một ly mới.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“Do you like me?” Donna asked her, without any warning at all.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ “Mày có thích tao không?” Donna bất ngờ hỏi cô, chẳng đầu chẳng đuôi.</p>
@@ -239,4 +243,3 @@
 <p class="para-en">She made an unhappy sound, twisted this way and that to get comfortable, and produced a wet, chesty burp. Five minutes later, she began to snore. Allie had to reach carefully over her to set down her tonic water. It was after one in the morning, and she was fifteen days sober. Had not put so much as a drop of gin in her glass all night.</p>
 
 <p class="para-vi-sub">Donna phát ra một tiếng kêu bất mãn, vặn vẹo người sang bên này rồi bên kia để tìm tư thế thoải mái, rồi ợ lên một tiếng ướt át từ tận lồng ngực. Năm phút sau, cô ta bắt đầu ngáy. Allie phải cẩn thận rướn người qua người cô ta để đặt ly nước tonic xuống. Đã hơn một giờ sáng, và cô đã cai được mười lăm ngày. Suốt cả tối nay, cô chẳng hề nhỏ dù chỉ một giọt gin vào ly của mình.</p>
-

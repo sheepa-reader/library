@@ -239,4 +239,3 @@
 <p class="para-en">On a stretcher. Or in a bag.</p>
 
 <p class="para-vi-sub">Trên một chiếc băng ca. Hoặc nằm gọn trong chiếc túi đựng thi thể.</p>
-

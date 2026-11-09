@@ -44,6 +44,8 @@
 
 <p class="para-vi-sub">Tôi sẽ không bao giờ quên tháng ngày ấy. Tôi ước sao nó có thể kéo dài mãi mãi. Giá như tôi có thể rong ruổi bên cạnh Cori suốt phần đời còn lại khi em làm đại sứ, có từ đó không nhỉ, với Laven bám đuôi theo sau, để cùng tôi thử nghiệm những điều mới mẻ khắp thế gian, trời đất ơi, thế thì còn gì tuyệt vời hơn.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -67,6 +69,8 @@
 <p class="para-en">“Enough, swe’me,” the Butcher says. “Don’t make threats on behalf of others. Only make those you can keep.”</p>
 
 <p class="para-vi-sub">“Đủ rồi, bé con,” Đồ Tể nói. “Đừng đe dọa thay cho người khác. Chỉ đưa ra những lời đe dọa mà nhóc có thể thực hiện được thôi.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -332,6 +336,8 @@
 
 <p class="para-vi-sub">“Anh biết chắc mà.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -375,4 +381,3 @@
 <p class="para-en">“No, but it is poetic.”</p>
 
 <p class="para-vi-sub">“Không, nhưng nó mang đầy tính thi vị.”</p>
-

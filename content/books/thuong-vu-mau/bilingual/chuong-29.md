@@ -48,6 +48,8 @@
 
 <p class="para-vi-sub">Viên sĩ quan tiến về phía rặng cây. Một lần nữa, từng chùm cành lá bắt đầu tách ra hai bên, tựa hồ bị một bàn tay vô hình bẻ ngoặt về phía sau. Lối mòn hẹp hé lộ, và đoàn người chúng tôi dấn bước về phía trước. Tôi nhận thấy Tauri đi ở vị trí thứ hai, ngay sau viên sĩ quan cầm bình xông trầm, còn tôi bám sát theo ông ấy. Tôi kéo mặt nạ trùm kín mặt rồi bước tiếp. Rặng cây khép lại sau lưng, nuốt chửng chúng tôi vào cõi mịt mùng.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">We walked for what felt like an hour without speaking, surrounded by the churning trees, the flickering purple leaves, and the swirl of the shadows about us. Again, the queer geometric nature of the wood weighed on me: it was as if I wasn’t wandering through a forest but rather navigating some endless spiderweb, adorned here and there in bursts of indigo.</p>
 
 <p class="para-vi-sub">Chúng tôi lặng lẽ bước đi suốt gần một giờ đồng hồ dằng dặc, bị bủa vây giữa những thân cây chuyển dịch cuộn trào, những tán lá tím lập lòe và bóng tối xoáy tròn quanh mình. Một lần nữa, bản chất hình học quái đản của khu rừng lại đè nặng lên tâm trí tôi. Cảm giác không giống như tôi đang băng qua một cánh rừng, mà tựa hồ đang lần mò giữa một mạng nhện bất tận, điểm xuyết đây đó bằng những vệt sắc chàm thẫm bùng nổ.</p>
@@ -236,6 +238,8 @@
 
 <p class="para-vi-sub">Bằng một cái phẩy tay dứt khoát nhưng kín kẽ, ông ấy ra hiệu cho chúng tôi tiếp tục bước dọc theo con đường mòn.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">It was difficult to tell how much farther we walked, or even for how long, for the sun was nearly eclipsed by the leaves overhead. Was it midday? Still morning? Or was it now deep into afternoon? Either way, I did not wish to tarry in this shadowy place for much longer—especially not after the glimpses of the stone figures we had seen.</p>
 
 <p class="para-vi-sub">Thật khó để biết chúng tôi đã đi thêm bao xa, hay thậm chí là đã đi trong bao lâu, bởi vòm lá rậm rạp phía trên đã che khuất gần như toàn bộ ánh mặt trời. Lúc này đã là giữa trưa? Vẫn còn buổi sáng? Hay trời đã ngả bóng về chiều muộn? Dù là lúc nào đi nữa, tôi cũng chẳng hề muốn nán lại nơi u tối này thêm một khắc nào, đặc biệt là sau những pho tượng đá mà chúng tôi vừa nhìn thấy.</p>
@@ -407,6 +411,8 @@
 <p class="para-en">“Let’s search the area,” I said hoarsely. “Carefully.”</p>
 
 <p class="para-vi-sub">“Hãy lục soát khu vực này,” tôi khàn giọng nói. “Thật cẩn thận.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Searching the area about the fountain quickly proved absurd, for Burilis Burav had only defoliated a few dozen span past the edge. Besides the fountain, Jalin’s body, and the barren ground, there was nothing—except, there at the very corner by the trees, a small cabin.</p>
 

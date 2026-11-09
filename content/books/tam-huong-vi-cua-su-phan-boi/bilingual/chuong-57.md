@@ -88,6 +88,8 @@
 
 <p class="para-vi-sub">Sincera kín đáo đưa mắt nhìn tôi bằng một ánh nhìn đanh thép, như muốn ngầm cảnh báo rằng: “Sẽ có kẻ đánh hơi thấy cái vẻ mặt ngơ ngác mất tập trung của anh đấy,” và tôi liền vội vã cúi đầu nép mình ra sau quầy ra món, dồn toàn bộ sự chú ý trở lại đội ngũ bếp chiến lược của mình: Laven, Feng, cùng cậu phụ bếp trẻ tuổi mà Feng vừa cất công tuyển mộ được. Đột nhiên, người Đồ Tể khẽ dừng lời trần thuật.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -107,6 +109,8 @@
 <p class="para-en">“This is different. I know for a fact, from their own lips, that Cori’s transition wasn’t because they felt born in the wrong body or even completely unaligned with female gender until a few years before their transition. Woden…” The Butcher nods to himself. “Alright. I won’t bother describing how the stage looked back then. Just imagine him as he should’ve been, just like he looked when he came for war council earlier today.” He chuckles. “Well, not entirely. He had all of his fingers back then.”</p>
 
 <p class="para-vi-sub">“Hai trường hợp đó bản chất hoàn toàn dị biệt! Tôi biết chắc chắn mười mươi từ chính miệng Cori bộc bạch rằng sự chuyển đổi giới tính của em không phải vì em cảm thấy bản thân bị giam cầm trong một thân xác sai lầm, hay thậm chí em còn chưa từng hoàn toàn phủ nhận bản dạng giới nữ cho đến tận vài năm trước ngày chính thức công khai. Còn trường hợp của Woden…” Người Đồ Tể khẽ gật đầu tự xác nhận với chính mình. “Thôi được rồi. Tôi sẽ không nhọc công miêu tả diện mạo thuở ấy của cậu ta làm gì cho rối rắm. Cô cứ việc hình dung cậu ta đúng như những gì bản chất cậu ta hiển hiện, hệt như cái lúc cậu ta bước vào căn lều dã chiến này tham dự hội đồng tác chiến vào sáng sớm hôm nay vậy.” Anh khẽ bật cười khúc khích: “À, mà cũng không hẳn thế đâu. Thuở ấy hai bàn tay cậu ta vẫn còn nguyên vẹn đủ mười ngón tay lành lặn cơ.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -144,6 +148,8 @@
 
 <p class="para-vi-sub">“Đĩa sạch bóng loáng! Nào, hãy cùng nhau nổi lửa làm ra một món ăn mà chưa từng có một sinh linh nào trên cõi đời này có diễm phúc được chiêm ngưỡng!”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -171,4 +177,3 @@
 <p class="para-en">“Let’s just focus on the story,” the Butcher interjects. “It’s about to get bloody.”</p>
 
 <p class="para-vi-sub">“Cứ việc tập trung lắng nghe tiếp câu chuyện đi,” Đồ Tể lạnh lùng chen ngang cắt lời. “Mọi sự chuẩn bị nhuốm máu tanh tưởi rồi đấy.”</p>
-

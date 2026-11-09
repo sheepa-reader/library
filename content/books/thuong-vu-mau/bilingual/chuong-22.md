@@ -216,6 +216,8 @@
 
 <p class="para-vi-sub">Tôi đẩy phăng cánh cửa ngục giam và lao thẳng vào trong.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I’d memorized the layout of the jail during my many visits here, and as I darted through the corridors with Trikao Armenta behind me I estimated that the screams were not coming from a wing or chamber I had seen. Someplace new, then, something different.</p>
 
 <p class="para-vi-sub">Nhờ năng lực Trí nhớ Biến đổi, tôi đã ghi nhớ nằm lòng sơ đồ của ngục giam này qua nhiều lần ghé thăm trước đó. Khi lao nhanh qua các hành lang với Trikao Armenta bám sát phía sau, tôi thầm đoán rằng những tiếng thét kia không phát ra từ bất kỳ dãy nhà hay phòng giam nào tôi từng thấy. Vậy thì hẳn là một nơi hoàn toàn mới, một nơi khác biệt.</p>
@@ -439,6 +441,8 @@
 <p class="para-en">Ippeas was screaming behind me, crying out, “What was that? What was that?” I did not answer. I swallowed, wiped my face, sheathed my sword, and dashed outside.</p>
 
 <p class="para-vi-sub">Thiếu gia Ippeas hét lên sau lưng tôi, gào khóc: “Cái quái gì thế kia? Cái quái gì thế kia?” Tôi không đáp lời. Tôi nuốt khan, lau vội mặt, tra kiếm vào bao rồi lao nhanh ra ngoài.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I emerged to find that a crowd had gathered about the cell, drawn by the screams—and, I saw, by the bright, flickering flares arcing through the skies. The source of these proved to be Commander Tauri, who was already dashing up to me with Fotia at his elbow.</p>
 

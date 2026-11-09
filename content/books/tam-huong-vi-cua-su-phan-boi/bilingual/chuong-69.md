@@ -100,6 +100,8 @@
 
 <p class="para-vi-sub">“Cảm tạ lòng hiếu khách của các vị,” tôi mở lời.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -119,6 +121,8 @@
 <p class="para-en">The Butcher smiles at his cousin. “I know you have a lot of questions about Atlas, and for good reason, swe’me, but for now, let’s just focus on the big takeaway: Scalen was the Voice of the Ovate, working under Atlas’ direction, and she had a big old egg on her back that reminded Laven and me of the Source.”</p>
 
 <p class="para-vi-sub">Đồ Tể khẽ mỉm cười với người em họ của mình. “Anh biết em có rất nhiều thắc mắc về Atlas, và điều đó hoàn toàn tự nhiên thôi, Musta cưng à. Nhưng lúc này, chúng ta hãy tập trung vào điểm mấu chốt quan trọng nhất: Scalen chính là Tiếng Nói của Ovate, hành động dưới sự chỉ dẫn tối cao của Atlas, và trên lưng cô ấy mang một quả trứng khổng lồ gợi cho Laven và anh liên tưởng sâu sắc đến Cội Nguồn.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -267,4 +271,3 @@
 <p class="para-en">“I—”</p>
 
 <p class="para-vi-sub">“Tôi…”</p>
-

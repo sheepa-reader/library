@@ -247,4 +247,3 @@
 <p class="para-en">“No,” Arthur said. “This time, we’re the monsters.”</p>
 
 <p class="para-vi-sub">“Không,” Arthur đáp. “Lần này, chính chúng ta mới là những con quái vật.”</p>
-

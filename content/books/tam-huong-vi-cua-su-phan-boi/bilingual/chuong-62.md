@@ -44,6 +44,8 @@
 
 <p class="para-vi-sub">“Trước tiên, hãy để tôi kể tiếp xem cô ta đã tiết lộ những gì về Đấng Ovate đã.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -171,4 +173,3 @@
 <p class="para-en">“Auntie!” I exclaimed. “You can hear me.” Well, howdy, you can hear me? she replied. I thought I was raving.</p>
 
 <p class="para-vi-sub">Tôi đứng sững sờ giữa gian phòng, cứ ngỡ như bản thân mình đang chìm trong một giấc mơ kỳ diệu đến mức không thể tin nổi.</p>
-

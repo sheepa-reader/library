@@ -100,6 +100,8 @@
 
 <p class="para-vi-sub">Fotia và tôi đăm đăm nhìn nhau. Rồi, mang theo luồng khí thế đầy thù địch, em ngồi xuống chiếc ghế đối diện tôi, vuốt ngược mái tóc đen ra sau tai, nở một nụ cười lạnh lẽo: “Vậy, chúng ta nên nói về chuyện gì đây, anh trai?”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“How…” I stammered. “How are…”</p>
 
 <p class="para-vi-sub">“Làm sao…” Tôi lắp bắp. “Làm sao em…”</p>
@@ -371,6 +373,8 @@
 <p class="para-en">I filled my glass. “In the Empire, perhaps.”</p>
 
 <p class="para-vi-sub">Tôi rót đầy ly của mình. “Ở Đế quốc này, có lẽ là vậy.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">We spoke of many things then: on how she’d met Ippeas (“I beat him in a riding competition. It wasn’t until well afterward that he admitted the reason he’d lost was because he’d kept staring at me…”), her relationship to the Armentas (“They treat me as if I’m somewhere between favored servant and—strangely—forgotten distant relation”), and our own grandmother (“She’s just become more of herself as she’s aged, and wishes to speak only of her own virtues, her own victories, and how no one else could ever compare”).</p>
 
@@ -967,6 +971,8 @@
 <p class="para-en">It was a weak joke and died as it met air. I put down a few talints for the wine, then left to return to my inn.</p>
 
 <p class="para-vi-sub">Đó là một câu đùa nhạt nhẽo và nhanh chóng tan biến ngay khi vừa thốt ra. Tôi đặt xuống vài đồng talint trả tiền rượu, rồi rời đi để trở về quán trọ của mình.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I trudged back through the mud, the rain thrumming on my shoulders, my skull pounding with memories attempting to beat their way in. Yet unlike my engraved memories, these were not perfect, preserved seconds floating in my skull: these were sweaty and half remembered, yet heavy with nuance and feeling, for they were from before I’d ever been altered.</p>
 

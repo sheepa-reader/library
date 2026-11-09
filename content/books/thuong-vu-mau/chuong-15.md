@@ -60,6 +60,8 @@ Tauri cúi đầu. “Tạ lỗi, tạ lỗi! Xin cho tôi một lát, sẽ khô
 
 Một nụ cười khách sáo nở trên môi ông ta. “Chính xác. Giống như hầu hết những người ở Viện Orbiis, tôi đã được biến đổi sinh học để trở nên nhạy cảm một cách phi thường trước mọi hợp chất xâm nhập hoặc tác động vào cơ thể mình. Điều đó thực sự giúp tôi có khả năng nhận biết cực kỳ nhạy bén, nhưng… giờ đây tôi cũng có lẽ là vị khách tồi tệ nhất trên bàn ăn của cả thế gian này.” Một nụ cười buồn thoáng qua, lần này là hướng về phía tôi. “Vậy nên! Chúng ta nói về mạng dẫn đường nhé.”
 
+<hr class="scene-break"/>
+
 Chỉ huy Tauri búi mái tóc vàng của mình lên thành một búi lớn, lỏng lẻo rồi ngồi xuống cạnh Ana. Tôi chăm chú quan sát ông ta khi ông ta làm vậy. Đó là một sinh thể kỳ lạ, nhưng không còn nghi ngờ gì nữa, ông ta cũng là một trong những người đẹp đẽ nhất tôi từng gặp trong đời. Ông ta sở hữu lưỡng quyền cao, nhẵn nhụi không một sợi lông và chiếc mũi nhỏ hơi hếch, và dĩ nhiên, mái tóc của ông ta mang một sắc vàng rực rỡ, kỳ lạ. Dù tự nhận mình là nam giới, nhưng ở ông ta lại toát ra một vẻ lưỡng tính, thậm chí có phần siêu thực, như thể ông ta thuộc về một chủng tộc sinh vật nằm ngoài mọi khái niệm sinh học mà tôi từng biết.
 
 “Về mặt kỹ thuật, có hai dạng nấm được gọi là mạng dẫn đường,” Chỉ huy Tauri bắt đầu nói, nhấp một ngụm từ cốc nước pha của mình. “Dạng thứ nhất là phiên bản tự nhiên, chưa qua biến đổi. Nó thường được tìm thấy nhiều nhất ở đây, tại Sapirdad, trong các ao hồ và sông suối. Nó tạo ra một cấu trúc mờ đục, như sương mù trong làn nước. Các sinh vật uống nước này sẽ nuốt phải bào tử nấm. Sau đó, một điều cực kỳ kỳ lạ sẽ xảy ra với não bộ của chúng.”
@@ -196,6 +198,8 @@ Một biểu cảm kỳ lạ thoáng qua trên gương mặt viên chỉ huy lú
 
 Đúng lúc đó, hộp sọ của Zansay Burav nổ tung.
 
+<hr class="scene-break"/>
+
 Tôi không còn từ ngữ nào để diễn tả trước cảnh tượng ấy. Cứ như thể có ai đó đã bơm hơi vào một chiếc túi da cho đến khi nó nứt toác ở đường may. Hộp sọ của cô nứt ra dọc theo những đường nét mà Tauri đã vẽ trên đó, và khi nó mở ra, vô số những lọn xoăn dày, đen nhánh, bóng lưỡng tuôn trào ra ngoài, như thể xương đỉnh đầu của cô là một cánh cửa và những lọn xoăn này là những vị khách đang cố chen chúc lao vào trong để tránh một cơn mưa rào. Tôi nhìn trừng trừng trong nỗi kinh hoàng và ghê tởm. Chúng chắc chắn là những cuống nấm, có phần tương tự như thứ người ta có thể bắt gặp đang mọc dưới mặt khuất của một thân cây đổ khi đi dạo trong rừng. Thế nhưng những thứ này lại chuyển động quá nhanh, đầy thèm khát, như thể đang nôn nóng thoát khỏi ngục tù của chúng. Chúng cuồn cuộn trào ra khỏi hộp sọ của cô, vươn cao cả một gang tay vào không trung; rồi đà thăng lên của chúng chậm lại; rồi bề mặt của chúng trở nên hơi mờ ảo và lấp lánh.
 
 Tauri và người của ông ta quan sát thực thể quái dị này với ánh mắt đầy tò mò. “Một sự phát triển thể quả sau tử vong vô cùng to lớn! Tuy nhiên, nó vẫn chưa trưởng thành. Nếu rồi, anh sẽ thấy một làn bụi phấn trong không khí, và những loài cây chỉ thị sẽ nổi loạn…” Ông ta ghé sát hơn vào tấm kính, nghiên cứu những cây chỉ thị nhỏ xíu treo trên trần nhà. Một số cây đã đổi màu, một số đã chết, và một số hoàn toàn không thay đổi gì cả. “Một chuỗi tín hiệu thú vị,” Tauri nói khẽ. “Tôi sẽ nghiên cứu thêm về nó, nhưng hiện tại… giống như các chủng loại khác, có vẻ như biến thể này của mạng dẫn đường phải được nuôi cấy trong nước ngọt trước. Nó không gây nguy hiểm nếu anh chỉ đơn thuần hít phải các bào tử. Giai đoạn kẽ phải đạt đến độ trưởng thành thì nó mới trở thành mối đe dọa cho vật chủ. Nhưng lớp rêu cô đặc mà tôi treo ở đó, nó gợi ý rằng cần phải *tiêu thụ một lượng kha khá* thì nấm mới có thể được nuôi cấy trên cơ thể người. Những liều lượng lặp đi lặp lại, được đưa vào cơ thể theo thời gian. Chẳng hạn, một giọt duy nhất trong ly rượu sẽ không có tác dụng. Thế nhưng nó là một thứ cực kỳ dẻo dai… những chiếc lá đang hóa nâu ngay chỗ đó kìa! Chúng chỉ ra rằng các bào tử có thể sống sót qua những mức nhiệt độ rất cao.”
@@ -209,6 +213,8 @@ Ana nghiến răng trong chốc lát. “Xét đến việc Zansay cần một l
 “Trưởng quan nghĩ cô ấy có thể đã bị đầu độc dưới sự giám sát của ông ta sao, thưa bà?” tôi nói.
 
 “Có lẽ vậy. Dù ta không tài nào tưởng tượng nổi lý do!” Bà quay sang Tauri. “Này Chỉ huy, hãy tiếp tục công việc của ngài ở đây và vắt kiệt từng mẩu sự thật từ con bé đã chết đó đi. Din, tìm một cỗ xe mau, rồi chúng ta đi đón Seriv. Ta đếch cần quan tâm bây giờ là mấy giờ đêm! Ta định đá văng Burilis Burav ra khỏi giường và ép gã phải trả lời những câu hỏi chết tiệt của ta!”
+
+<hr class="scene-break"/>
 
 Việc đánh thức Thủ lĩnh Seriv hóa ra lại chẳng mấy khó khăn, bởi ông ấy vốn dĩ chẳng hề chợp mắt. “Dạo này khó ngủ quá,” ông ấy bảo chúng tôi với vẻ mặt hốc hác khi trèo vào xe, “cứ có cảm giác như có thứ gì đó đang mưng mủ sau đáy mắt.” Khi chúng tôi thuật lại toàn bộ những gì vừa phát hiện, ông ấy phản ứng bằng vẻ bàng hoàng đầy ủ rũ: “Vậy là đúng như chúng ta lo sợ. Kẻ rèn nên thứ vũ khí đó đã âm thầm sử dụng nó bấy lâu. Để xem gã sẽ giãy giụa theo hướng nào.”
 

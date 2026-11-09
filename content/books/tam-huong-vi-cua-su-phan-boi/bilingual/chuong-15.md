@@ -136,6 +136,8 @@
 
 <p class="para-vi-sub">“Rõ rồi, thưa thuyền trưởng,” anh nhại giọng châm chọc.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -228,6 +230,8 @@
 
 <p class="para-vi-sub">“Đó có phải… đó có phải là Bessa không?” Tôi hỏi, nhận ra những khúc xương ấy.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -255,6 +259,8 @@
 <p class="para-en">His expression grew dark. “You’ll see them again in no time when the Empheron comes, but where to even start? Think of a big muscular lion with a wings as long as a carnephon. No fur, and unlike carnephon and badgeboar, no feathers—oh, dolphon have those too, by the way—just pale and leathery as a plucked chicken, taloned feet instead of cat paws, and those awful orblike eyes that extend from the eye stalks of its vulture-like beak and face. I’m shocked you don’t remember Garuda, even young as you were. Flying starving nightmare.”</p>
 
 <p class="para-vi-sub">Sắc mặt anh tối sầm lại. “Em sẽ sớm thấy lại chúng thôi khi quái thú Empheron kéo đến, nhưng biết bắt đầu từ đâu bây giờ? Cứ tưởng tượng một con sư tử to lớn cuồn cuộn cơ bắp với đôi cánh dài ngang ngửa một con quái thú Bò sát Carnephon. Không có lông mao, và không như quái thú Bò sát Carnephon hay lợn rừng Badgeboar, nó chẳng có cọng lông vũ nào, nhân tiện thì lũ Dolphon cũng có lông đấy, da dẻ nó tái nhợt và dai nhách như một con gà bị vặt sạch lông, bàn chân vuốt sắc thay vì vuốt mèo, và những nhãn cầu tròn vo gớm ghiếc thò ra từ các cuống mắt trên khuôn mặt cùng chiếc mỏ như chim kền kền. Anh thực sự sốc khi em không nhớ nổi Garuda đấy, dẫu hồi đó em còn nhỏ. Một cơn ác mộng biết bay lúc nào cũng đói khát.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -495,4 +501,3 @@
 <p class="para-en">Just starving watch me.</p>
 
 <p class="para-vi-sub">Cứ chống mắt lên mà nhìn tôi xem.</p>
-

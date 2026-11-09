@@ -112,6 +112,8 @@
 
 <p class="para-vi-sub">Tauri lẻn ra ngoài cửa và nhanh chóng biến mất vào màn đêm.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The instant the latch clicked, Ana whirled on me.</p>
 
 <p class="para-vi-sub">Ngay khoảnh khắc chốt cửa sập xuống, Ana lập tức quay phắt về phía tôi.</p>
@@ -268,6 +270,8 @@
 
 <p class="para-vi-sub">“Tôi sẽ đi tìm cô ấy ngay,” Seriv nói rồi vội vã tiến ra phía cửa. “Tôi chẳng có tài cán gì với đám hóa chất hay cồn thuốc, nhưng người của tôi thì tìm người nhanh lắm.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Seriv was truer than his word: within less than three hours, he came swooping back into Ana’s chamber with my sister at his arm, looking rather rattled.</p>
 
 <p class="para-vi-sub">Seriv không chỉ giữ lời mà còn làm tốt hơn kỳ vọng: chưa đầy ba tiếng đồng hồ sau, ông ấy đã quay trở lại căn phòng của Ana, tay khoác tay em gái tôi, vẻ mặt em trông khá hoảng hốt.</p>
@@ -379,6 +383,8 @@
 <p class="para-en">“That is of no matter to me! I should like to have one, please. No—two. I think we might make great use of them.”</p>
 
 <p class="para-vi-sub">“Chuyện đó chẳng hề gì đối với tôi! Cho tôi xin một cây. Không, hai cây đi. Tôi nghĩ chúng ta sẽ tận dụng triệt để bọn chúng đấy.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">As night fell, we set about preparing our trap, rushing about the buildings surrounding the Green Drover.</p>
 

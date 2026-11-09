@@ -76,6 +76,8 @@
 
 <p class="para-vi-sub">Con rồng lượn một vòng quanh ngọn tháp, rồi nghiêng mình lao tới, hướng thẳng về phía thư viện và bổ nhào xuống. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Gwen felt King Sorrow hit the tower, felt the stones lurch, the floor shudder beneath her. It seemed to be happening a long way off. There was a grinding of old rock. Books fell off shelves behind the chain-link grating. The room was hazy with smoke and drifting spatter from the fire extinguisher. Gwen looked up, saw Donna’s hand rising out of her purse, wondered if the woman had brought a gun. Never bring a gun to a dragon fight, she thought, and almost laughed, and looked back to the crossword. It was filled in, except for one last word in one last corner. Bait for a shark but also your Arthur.</p>
 
 <p class="para-vi-sub">Gwen cảm nhận được Vua Đau Thương đâm sầm vào ngọn tháp, cảm thấy những phiến đá chao đảo, phần sàn nhà dưới chân rung chuyển bần bật. Mọi thứ cứ như đang diễn ra ở một nơi rất xa xôi. Có tiếng đá cổ nứt toác răng rắc. Sách từ trên các kệ phía sau lớp lưới thép rơi lả tả xuống sàn. Căn phòng mờ mịt khói và những hạt bọt dạt ra từ bình chữa cháy đang bay lơ lửng. Gwen ngẩng đầu lên, nhìn thấy tay Donna đang rút ra từ trong túi xách, tự hỏi không biết người phụ nữ này có mang theo súng không. *Đừng bao giờ mang súng vào một trận chiến với rồng*, cô thầm nghĩ, suýt bật cười, rồi cúi xuống nhìn lại ô chữ. Nó đã được điền kín, ngoại trừ từ cuối cùng nằm ở góc dưới. *Mồi nhử cá mập, nhưng cũng là Arthur của em.*</p>
@@ -103,6 +105,8 @@
 <p class="para-en">And Gwen began to smile.</p>
 
 <p class="para-vi-sub">M Và Gwen bắt đầu mỉm cười.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Tana lifted one corner of the robe to see what was happening and found that the Russian mirror had spun across the floor and wound up next to her elbow. Her gaze fell to the reflective surface . . . and she saw Arthur’s hand pressed against the inside of the glass, his palm almost pink. It was as if he was right there, on the other side of a window. Tana reached out with her own hand, hardly knew what she was doing, to put her palm against his. Their fingertips met, separated by a quarter inch of glass. Tana felt a stab of pain travel up her hand into her funny bone—it was much as if she had brushed an electric fence. A loud, glassy pop caught her attention, and when Tana snapped her head up, she saw that a Y-shaped crack had appeared in the glass wall, at the back of the treasure room, a crack that mapped perfectly to the crack in the mirror, although it was six feet high instead of six inches long.</p>
 
@@ -135,6 +139,8 @@
 <p class="para-en">Gwen put the crossword down, rose from her knees, and began to walk, like one in a trance, toward the wall of glass.</p>
 
 <p class="para-vi-sub">Gwen đặt tờ báo giải ô chữ xuống, gượng dậy khỏi mặt sàn, rồi bước đi như kẻ mộng du về phía bức tường kính.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">King Sorrow gripped the outside of the tower, claws sunk into the stone, belly pressed against the rock, like a salamander clinging to a stucco wall. His tail lifted to curl around the lower part of the tower. As he raised his face to peer through the embrasure, Donna unscrewed the top of the battered thermos, tipped her head back, and drank. It was, she thought, like drinking the brine in which they packed olives, so salty her throat wanted to seize up. She forced down the first swallow of dragon tears, and then the second . . . and abruptly the strength trickled out of her left hand. Her fingers tingled and numbed. The thermos fell and struck the floor with a bang and her right hand clutched the edge of the windowsill, in case her legs suddenly gave way.</p>
 
@@ -211,6 +217,8 @@
 <p class="para-en">Then someone was pulling, pulling hard, pulling her to her feet, out of the roar and tumble of the surf, and Van said, You’re all right, you’re all right now, I’ve got you, and she opened her eyes and found herself wading in the ocean, the waves falling in a bright crash of foam around her thighs, and while she caught her breath, her brother draped a necklace of sand dollars around her throat.</p>
 
 <p class="para-vi-sub">Rồi có ai đó đang kéo, kéo mạnh, kéo cô đứng dậy khỏi vùng nước cuồn cuộn và tung tóe của ngọn sóng, và Van bảo, *Em không sao đâu, giờ em không sao rồi, anh ôm em đây*, rồi cô mở mắt ra và thấy mình đang lội giữa đại dương, những con sóng vỗ bọt trắng xóa xung quanh đùi, và trong lúc cô đang lấy lại hơi thở, người anh sinh đôi của cô vòng một chuỗi vòng đồng đô la cát quanh cổ cô.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">It didn’t hurt anymore. Gwen felt like a ghost of herself as she walked toward the wall of glass where Arthur was frozen, staring back at her, holding out his lacrosse stick. From the edge of her vision, she saw Robin snatch the martyr’s robe from the floor. She leapt to Gwen’s side and flung it around both of them as the room filled with fire, flame pouring through the windows in great red streams. Flame engulfed them, but Gwen felt no heat at all beneath the robe. That yellow Biko hoodie was soaked with sweat and blood, but she did not feel the sharp, tearing pain in her abdomen now. She might’ve been gliding on roller skates.</p>
 
@@ -387,4 +395,3 @@
 <p class="para-en">All the same: she had to laugh.</p>
 
 <p class="para-vi-sub">Dẫu vậy: cô vẫn không kìm được mà bật cười.</p>
-

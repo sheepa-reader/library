@@ -100,6 +100,8 @@
 
 <p class="para-vi-sub">Chẳng còn điều gì khác từ những lời cô kể có thể giải đáp các khúc mắc của tôi về những vụ tập kích này và kẻ đứng sau chúng. Cô chỉ là một người tình cờ có liên hệ ruột thịt với những kẻ dính líu đến… một điều gì đó. Rốt cuộc tôi đã bỏ sót điều gì?</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -175,6 +177,8 @@
 <p class="para-en">The Butcher stares at her for a long moment before capitulating.</p>
 
 <p class="para-vi-sub">Đồ Tể nhìn chằm chằm vào cô một hồi lâu trước khi chịu nhượng bộ.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -375,4 +379,3 @@
 <p class="para-en">“Love you, too,” they said, smiling as they dipped another finger in the cream. “Until you do something more foolish than funny, anyway.”</p>
 
 <p class="para-vi-sub">“Cũng yêu anh,” em nói, mỉm cười khi quẹt thêm một ngón tay vào lớp kem. “Dù sao thì, cũng chỉ cho đến khi anh làm trò gì dại dột hơn là khôi hài thôi.”</p>
-

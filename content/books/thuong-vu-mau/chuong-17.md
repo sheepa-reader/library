@@ -66,6 +66,8 @@ Tôi cũng làm theo, dù khoang miệng cảm thấy nóng ran và đặc quán
 
 “Chỉ là *hiện tại* thôi, các vị,” Tauri lên tiếng đính chính. “Phải uống nhiều ngụm nước nhiễm độc, và mất nhiều ngày thì bào tử nấm mới trưởng thành trong cơ thể! Chúng ta sẽ phải liên tục kiểm tra các vị, và tất cả những người khác nữa.”
 
+<hr class="scene-break"/>
+
 Tôi quay trở lại khu vườn và thấy Ana vẫn đang khom người giữa những khóm hoa. Bằng cách nào đó, bà đã phủ đầy phấn hoa lên các đầu ngón tay, rồi bằng những phương thức mà tôi không tài nào hình dung nổi, bà dụ dỗ vài con bướm và ong mật thong thả bò trên đầu ngón tay mình để ăn chỗ phấn ấy. Bà ngồi đó khi tôi tiến lại gần, mắt vẫn bịt kín và hoàn toàn thờ ơ trước đàn côn trùng nhỏ sặc sỡ đang ríu rít bay lượn quanh bàn tay đang chìa ra của mình. Bà xua chúng đi khi quay về phía tôi và bình thản nói: “Nôn hết ra cho ta nào, nhóc. Cậu đi cũng khá lâu rồi đấy.”
 
 Tôi lại làm theo một lần nữa, hít một hơi sâu từ lọ tinh dầu khai tâm của mình rồi tái hiện lại toàn bộ những gì vừa trải qua từ trí nhớ Khắc Ký.
@@ -85,6 +87,8 @@ Giờ đây, lẽ thường ta sẽ chuyển hướng nghi ngờ sang kẻ thù 
 “Liên quan thì có, nhưng đồng lõa thì ít khả năng hơn. Hãy nhớ rằng, dinh thự nhà Burav vốn có khả năng chống cháy. Phải cần đến một hợp chất cực mạnh mới có thể thiêu rụi nó, và số lượng cũng phải rất lớn. Vì cô hầu gái không hề nhắc đến việc tên khốn này lăn một cái thùng dọc theo lối đi, ta nghĩ chúng ta có thể gạch tên hắn ra. Nhưng dù vậy, hắn mò đến đó để làm gì? Trừ phi…”
 
 Bà bỗng lặng người đi. Đôi lông mày nhướng cao lên sát chân tóc. Rồi bà thở dài đầy thất vọng và đứng dậy. “Đủ rồi. Trong khi Tauri đang sàng lọc đống tro tàn, chúng ta phải tự mình thúc đẩy cuộc điều tra bằng các phương pháp riêng. Đi nào. Hãy tới xem cậu trẻ Jalin thế nào. Ta có vài câu hỏi dành cho nó. Cầu trời là thằng ranh con đó vẫn còn lưỡi để mà trả lời!”
+
+<hr class="scene-break"/>
 
 Những chiếc lều y tế là một công trình đáng kinh ngạc, nhất là khi chúng chỉ được dựng lên trong vòng vài giờ đồng hồ ngắn ngủi. Các y sĩ đã nhanh chóng phân chia các khu vực: khu thứ nhất dành cho những người chỉ bị ngạt khói, khu thứ hai cho những người bị bỏng, khu thứ ba cho những người bị thương do đất đá đổ nát, và cuối cùng là khu thứ tư dành cho những ca nghiêm trọng hơn, những người thường hứng chịu cả ba loại tổn thương trên.
 
@@ -134,6 +138,8 @@ Rồi cậu thở hắt ra một tiếng và im bặt. Ana ghé tai lại gần 
 
 Bà phẩy tay, ra hiệu muốn rời đi. Sau đó bà bám lấy cánh tay tôi và tôi dìu bà bước đi.
 
+<hr class="scene-break"/>
+
 Chúng tôi lui về bãi cỏ phía nam dinh thự. Ana đứng đó giữa dải cỏ mênh mông vừa mới cắt; ngay cả sau tất cả những chuyện điên rồ của buổi sáng nay, tôi vẫn thầm nghĩ thật kỳ lạ khi lãng phí nhiều đất đai quý giá đến vậy ở một nơi màu mỡ nhường này; bà bấu chặt lấy tay tôi và lắc đầu.
 
 “Chà,” bà lên tiếng. “*Chuyện đó* đúng là quái đản đến rợn người, ta phải công nhận đấy! Ta từng thấy người ta xin được chết trước mặt mình rồi, nhưng chưa có ai lại dứt khoát hay khẩn thiết đến mức này! Ta cảm thấy thằng bé đó thực sự muốn chết, Din à. Nhưng cậu nghĩ sao về cái chi tiết đó, về chuyện cậu ta đã cố *cứu* họ, nhưng họ lại không chịu nghe?”
@@ -169,6 +175,8 @@ Thế nhưng tôi nhận ra… những ký ức của tôi đã cất tiếng b�
 Chi tiết đáng chú ý thứ hai là một bức họa tôi tìm thấy, khác biệt hoàn toàn so với những bản phác thảo gia súc của cậu ta. Trước hết, nó được đặt ngay ngắn và cẩn trọng trên bàn làm việc. Đáng nói hơn, bức vẽ không thể hiện những con bò, mà phác họa một cái cây cao vút, nét vẽ tinh xảo với những chiếc lá dài mảnh mai. Mỗi cành cây đều trĩu nặng thứ quả mà tôi không thể nhận diện, liệu đó là lê, lựu hay sung, nhưng chính tại góc giấy, lại hiện diện một biểu tượng tôi đã quá quen thuộc: hai khối cầu phân tách bởi một gạch đứng.
 
 Ánh mắt tôi chấn động, và giọng nói của Velona Armenta vang vọng lại trong ký ức tôi: *“Đó là ấn ký của Đại sư Gaddar! Cây đơm hoa kết trái, bởi ngài chính là chủ nhân của mọi khu vườn!”* Tôi cầm bức họa lên, cẩn thận gấp lại rồi cất vào túi áo.
+
+<hr class="scene-break"/>
 
 Khi tôi quay trở lại ngôi nhà bị thiêu rụi, tôi không tìm thấy bất kỳ dấu vết nào của Ana. Tôi đành phải vẫy một viên sĩ quan chấp pháp; ông ấy trao cho tôi một ánh nhìn có phần ngượng ngùng rồi dẫn tôi tới một chiếc rương khổng lồ của Viện Orbiis đang đặt trên thảm cỏ.
 
@@ -234,6 +242,8 @@ Vẻ phấn khích trên gương mặt ông ấy lập tức biến mất: “C�
 
 Ông ấy ném về phía tôi một cái nhìn sắc lẹm như dao cạo. Rồi một nụ cười nở trên môi, và ông ấy bật cười, như thể đang cố xua tan toàn bộ câu chuyện. Ông ấy quay lưng bước đi mà không nói thêm lời nào.
 
+<hr class="scene-break"/>
+
 Dường như chẳng mất mấy thời gian để các chuyên viên của Viện Orbiis hoàn thành công việc của họ. Chẳng mấy chốc, vô số những sợi dây thừng tẩm hắc ín đã được bện chặt vào nhau hoặc cố định bằng các chốt kẹp. Những mối bện và nút thắt này sau đó được buộc vào những chiếc đai cổ ngựa có lót đệm, rồi được tròng vào cổ ba trong số những con chiến mã hung tợn nhất mà tôi từng thấy. Những sinh vật kiêu dũng này vốn không quen với công việc của ngựa kéo cày, chúng gặm hàm thiếc và hí lên đầy bất bình, nhưng những người quản ngựa đã nhanh chóng vỗ về xoa dịu chúng.
 
 Lời đánh giá của Chỉ huy Tauri về độ bền vững cấu trúc của ngôi nhà hoàn toàn chuẩn xác: chỉ cần mười giây kéo căng của những con chiến mã, toàn bộ công trình đã đổ sụp xuống. Một lần nữa, bầu không khí lại đặc quánh tàn tro và khói bụi, nhưng ông ấy cùng các chuyên viên Viện Orbiis của mình đã tính toán sắp đặt sao cho các bức tường đổ sụp theo một hướng chuẩn xác, nhằm phơi bày những gì ẩn giấu phía sau.
@@ -251,6 +261,8 @@ Và ở đó, phía trên cùng, có ba từ được khắc: *Jiltirlik arkasan
 “Đó là tiếng Kurmini,” tôi nói, nheo mắt nhìn những ký tự qua lớp muội than. “Dù tôi không biết ý nghĩa của chúng.”
 
 Tauri gạt người tôi ra để kiểm tra bốn hạt nhỏ khảm trên cánh cửa. “Những vòng xoay này… chúng *cực kỳ* kỳ lạ. Chúng không phải là bánh răng hay thứ gì đó đơn giản như thế! Chúng dường như có, ôi chết tiệt, hơn *ba mươi mặt mỗi hạt* sao?” Ông ấy thở dài rồi đưa tay dụi mặt đầy thất vọng, chẳng màng đến những vệt muội than lem nhem. “Tốt hơn hết cậu nên đi gọi vị Học sĩ của mình tới đây đi. Bà ấy có lẽ cần phải tận mắt nhìn thấy thứ này, và tôi cầu nguyện rằng bà ấy có thể hiểu được nó!”
+
+<hr class="scene-break"/>
 
 Ana đứng trước cánh cửa, đầu hơi cúi, một bàn tay gầy guộc như bộ xương đặt lên bề mặt thép của nó. Bà lắng nghe khi Tauri và tôi mô tả về nó, cũng như quá trình phát hiện ra cánh cửa này. Seriv lảng vảng phía sau, nheo mắt nhìn cánh cửa như thể lo sợ nó có thể đột ngột bung ra và một trận hỏa hoạn khác lại phun trào từ bên trong.
 
@@ -329,6 +341,8 @@ Một bầu không khí im lặng kéo dài và căng thẳng bao trùm lấy ch
 “Vậy là, bà đã biết kẻ rình mò vùng Tala là ai rồi sao, thưa Trưởng quan?” Tôi hỏi.
 
 “Ồ, phải, ta nghĩ là vậy,” bà ôn tồn đáp. “Và ta tin mình đã có một ý niệm khá rõ ràng về nơi có thể tìm ra hắn!”
+
+<hr class="scene-break"/>
 
 Tôi chập chờn thiếp đi khi cỗ xe ngựa lọc cọc lăn bánh trở lại Lacanthim, nhưng đó chẳng phải là một giấc ngủ dễ chịu: giấc nồng của tôi trĩu nặng những âu lo, bứt rứt, cùng những ý nghĩ không tên cứ lởn vởn bò trườn trong hộp sọ. Có lẽ đây là hệ lụy từ một công cụ thâm độc như mạng dẫn đường kia: nó khiến ngay cả giấc ngủ cũng chẳng còn đáng tin cậy, bởi bất kỳ giấc mơ nào của tôi cũng có thể là dấu hiệu cho thấy tôi đã bị thao túng tâm trí.
 

@@ -16,6 +16,8 @@
 
 <p class="para-vi-sub">Donovan là đứa đầu tiên lao tới kéo giật con bé ra khỏi người Gerry Lean trong khi thằng nhóc đang quằn quại gào khóc thảm thiết dưới đất. Donna vẫn điên cuồng cào cấu chống cự, các giáo viên hớt hải chạy thấu tới còn lũ học sinh thì thét lên kinh hoàng rồi dạt ra tứ phía như đàn kiến vỡ tổ sau một cú dẫm chân trời giáng. Một bác sĩ phẫu thuật tạo hình đã phải mất ròng rã sáu tiếng đồng hồ để khâu vá lại, nhưng khuôn mặt của Gerry Lean vĩnh viễn không bao giờ có thể lành lặn như xưa.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Gerry Lean’s desk was next to Donovan’s in history. Gerry had always been too big for his age, his head too big for his neck, and he had the staring eyes of a witless poodle. Even before Donna tore part of his face off, he spent most of history class staring wistfully into the playground rather than paying attention. Donovan began doing his in-class work for him. He colored in the part of America that had been snapped up in the Louisiana Purchase; he slipped Gerry’s worksheets off his desk and filled them out as soon as he was done working on his own. Gerry hardly seemed to notice. Once or twice Mrs. Hamilton spotted Van putting Gerry’s worksheets back on his desk, but she never commented.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Bàn học của Gerry Lean kê sát ngay cạnh bàn của Donovan trong giờ lịch sử. Gerry lúc nào cũng to xác hơn bạn bè đồng trang lứa, cái đầu tròn vo quá khổ so với cần cổ khẳng khiu, cùng đôi mắt lồi ngây dại của một con chó xù ngờ nghệch. Ngay cả trước khi bị Donna cắn rách nửa khuôn mặt, thằng nhóc hầu như chỉ biết ngồi thẫn thờ nhìn ra sân chơi với vẻ tiếc nuối suốt cả tiết học thay vì tập trung vào bài giảng. Donovan bắt đầu làm hộ bài tập trên lớp cho nó. Cậu tô màu vào bản đồ vùng lãnh thổ Hoa Kỳ từng thâu tóm trong Thương vụ Louisiana; cậu khéo léo trút những tờ bài tập của Gerry sang bàn mình rồi thoăn thoắt điền đáp án ngay khi vừa làm xong phần của bản thân. Gerry hầu như chẳng mảy may bận tâm đến điều đó. Đôi ba lần, cô Hamilton bắt quả tang Van đang lén lút chuyển trả tập giấy bài tập về lại mặt bàn của Gerry, nhưng cô chưa từng một lần lên tiếng quở phạt.</p>
@@ -23,6 +25,8 @@
 <p class="para-en">Gerry didn’t come back after Christmas break. His parents had decided to make a fresh start in Miami, while the legal suit played out.</p>
 
 <p class="para-vi-sub">Sau kỳ nghỉ lễ Giáng sinh năm ấy, Gerry không bao giờ quay lại trường nữa. Bố mẹ thằng bé quyết định chuyển cả nhà đến Miami để làm lại cuộc đời trong khi vụ kiện tụng bồi thường vẫn đang giằng co ngoài tòa án.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Leticia stayed on after Cady Lewis was taken away to her death. No one blamed her, not even the Lewis family. But she was different after the abduction, less talkative and more serious. She didn’t let Van and Donna play in the front yard anymore, which was fine by both of them. For the first couple of months after Cady was taken, Donna wouldn’t go out at all unless someone made her, and even then she wanted to hold an adult’s hand. Van had always preferred sitting in front of the TV anyway.</p>
 
@@ -56,6 +60,8 @@
 
 <p class="para-vi-sub">“Tránh xa chúng tôi ra,” June gằn giọng lạnh ngắt. “Tránh xa các con tôi ra.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Donna thought she saw the van again, in 1985. Some Mexican landscapers in flannel shirts and work pants were unloading their equipment from the open back doors of a black Econoline. When she called the police, she did not say it was the van that had taken Cady Lewis. She said she had seen pot.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Donna đinh ninh mình lại nhìn thấy chiếc xe van đó thêm một lần nữa vào năm 1985. Vài người thợ làm vườn gốc Mexico mặc áo sơ mi dạ flannel cùng quần bảo hộ lao động đang dỡ đồ nghề cơ khí từ cửa sau mở toang của một chiếc Ford Econoline màu đen. Khi gọi điện báo cảnh sát, con bé không hề bảo đó là chiếc xe tải đã bắt cóc Cady Lewis. Con bé chỉ điểm rằng mình nhìn thấy ma túy giấu trong xe.</p>
@@ -79,6 +85,8 @@
 <p class="para-en">Donna said, “I never wanted to go. Puerto Rico is the AIDS capital of the world. Fuck that.”</p>
 
 <p class="para-vi-sub">Donna liền đốp chát lại: “Con *chưa bao giờ* thèm đi cái chuyến đi đó cả. Puerto Rico là ổ dịch AIDS của cả thế giới này. Mẹ kiếp.” ✦  ✦  ✦</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“This is really better for both of us,” Van told him. “Also better for Puerto Rico.” Sometimes Donna had nightmares and would wake in the grip of a shaking fit, a trembling spell that was almost convulsive in force. When she had control of herself again, she would let herself unsteadily into Van’s room and ask if she could sleep on his floor.</p>
 
@@ -135,4 +143,3 @@
 <p class="para-en">He lit up, folded the magazine open to the article, and began to read by the light of his alarm-clock radio. Donna lived too much in her own imagination, and look where it got her: jangled, scared, and angry. One of them had to live in the real world. One of them had to have the facts. He took a tight, careful hit—a sweet, spicy, lovely, golden hit—and started to inform himself.</p>
 
 <p class="para-vi-sub">Cậu bật lửa châm điếu thuốc, lật giở trang tạp chí đến đúng bài phóng sự đó rồi bắt đầu nghiền ngẫm dưới ánh sáng mờ ảo hắt ra từ màn hình đồng hồ báo thức. Donna đang sống quá chìm đắm trong thế giới hoang tưởng huyễn hoặc của riêng con bé, và hãy nhìn xem cái mớ ảo vọng ấy đã đẩy con bé tới nông nỗi nào: thần kinh căng thẳng tột độ, sống trong nơm nớp sợ hãi và chất chứa căm hờn. Một trong hai chị em bọn họ buộc phải bám rễ vào thế giới thực tại này. Một trong hai người phải nắm chắc các sự thật trần trụi. Cậu rít một hơi thuốc thật sâu và chậm rãi, một luồng khói ngọt ngào, cay nồng, đê mê và đậm đặc, rồi bắt đầu tự trang bị kiến thức cho chính mình.</p>
-

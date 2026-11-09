@@ -12,6 +12,8 @@
 
 <p class="para-vi-sub">“Đúng hệt như cách gọi của chúng đấy,” Đồ Tể đáp. “Một hai phút nữa cô sẽ hiểu thôi. Giờ thì lắng tai nghe cho kỹ, kẻ phản bội.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -156,6 +158,8 @@
 
 <p class="para-vi-sub">Nhưng nó sẽ không làm vậy. Nó chẳng hề thích thú việc lao sầm sập vào chấn song như Minx.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -171,6 +175,8 @@
 <p class="para-en">“How noble,” the archivist replies.</p>
 
 <p class="para-vi-sub">“Thật cao quý làm sao,” nữ lưu trữ viên đáp lời.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -299,4 +305,3 @@
 <p class="para-en">At least with Hili, I got a good final memory.</p>
 
 <p class="para-vi-sub">Ít nhất thì với Hili, tôi đã có được một ký ức cuối cùng thật đẹp.</p>
-

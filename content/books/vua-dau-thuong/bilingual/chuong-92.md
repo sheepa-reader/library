@@ -24,6 +24,8 @@
 
 <p class="para-vi-sub">“Tôi nợ tiền ma túy của bọn chúng,” Van nói. Anh khá chắc chắn rằng bọn họ chưa biết gì về Arthur, Gwen hay Colin, và anh dự tính sẽ chôn chặt bí mật đó càng lâu càng tốt. “Tôi không gom đủ tiền trả và tôi hoảng loạn tột cùng. Thực ra đó là ý tưởng của Donna. Donna luôn muốn cứu tôi. Con bé mắc cái tật thích đứng ra che chở cho những kẻ khốn cùng.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“Why did you pick her? The Nighswander woman?” Mr. Valentine asked Donna.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ “Tại sao cô lại chọn ả? Con ả nhà Nighswander ấy?” Valentine hỏi Donna.</p>
@@ -35,6 +37,8 @@
 <p class="para-en">Donna watched Valentine tap some notes on his BlackBerry and smiled.</p>
 
 <p class="para-vi-sub">Donna nhìn Valentine gõ vài dòng ghi chú lên chiếc BlackBerry của hắn rồi khẽ nhếch mép cười.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“So you wanted to kill Jayne Nighswander,” Dr. Patrick said. “To protect yourself. Why not run her down with your car one night? Or buy a gun?”</p>
 
@@ -67,6 +71,8 @@
 <p class="para-en">There were sweat patches on her silk blouse, under her armpits.</p>
 
 <p class="para-vi-sub">Dưới hai bên nách chiếc áo sơ mi lụa của bà ta, những vệt mồ hôi đã loang lổ sẫm màu.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“Tell me about the dragon,” Mr. Valentine said.</p>
 
@@ -167,4 +173,3 @@
 <p class="para-en">She thought they’d talk again tomorrow morning, same as always. But next time came sooner than that.</p>
 
 <p class="para-vi-sub">Cô đinh ninh rằng bọn họ sẽ gặp lại nhau vào sáng ngày hôm sau như thường lệ. Nhưng buổi gặp kế tiếp lại ập đến sớm hơn dự tính rất nhiều.</p>
-

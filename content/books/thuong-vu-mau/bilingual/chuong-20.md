@@ -132,6 +132,8 @@
 
 <p class="para-vi-sub">“Cậu ấy thông minh theo cách riêng của mình… dù có lẽ hơi quá cả tin. Em đồ rằng, nhiệm vụ của những kẻ nhà Kol đầy hoài nghi chúng ta là làm vấy bẩn cái chuẩn mực đạo đức của những hạng người như thế.” Cơ hàm em bạnh lên. “Và giữ cho cậu ấy sống sót. Chưa bao giờ lồng ngực em lại tràn ngập phẫn nộ đến thế! Lũ khốn kiếp đó đã đầu độc phu quân tương lai của em. Em sẽ làm tất cả những gì có thể để giúp anh tống cổ chúng vào thòng lọng, bất kể nguy hiểm ra sao! Đi thôi. Đền thờ ngay phía trước rồi.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I surveyed the trees as we walked the path, but I saw no sign of any passage thereabout. I worried my sister had been mistaken, and perhaps the killer had never come to this place at all, yet the thought didn’t seem to enter her mind. “The shrine’s the deepest part,” she said simply. “And it’s just beyond.”</p>
 
 <p class="para-vi-sub">Tôi quan sát những hàng cây khi chúng tôi bước đi trên lối mòn, nhưng không hề thấy dấu vết của bất kỳ ai từng qua lại quanh đây. Tôi lo em gái mình đã nhầm, và có lẽ kẻ thủ ác chưa từng đặt chân đến nơi này, thế nhưng ý nghĩ đó dường như chẳng mảy may xuất hiện trong tâm trí em. “Đền thờ nằm ở nơi sâu nhất,” em chỉ nói đơn giản. “Và nó ngay phía trước thôi.”</p>
@@ -291,6 +293,8 @@
 <p class="para-en">I shook myself. “Let’s check the trees for signs of our killer—if they came this way, that is.”</p>
 
 <p class="para-vi-sub">Tôi xốc lại tinh thần, xua đi những ý nghĩ u ám. “Hãy kiểm tra đám cây cối xung quanh để tìm dấu vết kẻ thủ ác, nếu đúng là hắn đã tẩu thoát theo hướng này.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Together we walked the edge of the glade, sniffing our kerchiefs and peering into the leaning spokes of white trees.</p>
 
@@ -468,6 +472,8 @@
 
 <p class="para-vi-sub">Trao cho tôi ánh nhìn lo âu, em xoay người lướt đi qua những làn ánh sáng xanh chập chờn của khoảng rừng thưa. Rồi em biến mất, để lại tôi một mình cùng các sĩ quan Viện Orbiis và bóng hình lặng lẽ của Đại sư Gaddar.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“Apologies for causing any, ah, family squabbles, Kol,” said Tauri. “But we’ve larger matters upon us now.” He reached into his coat, then produced another half-face mask and handed it to me. “You’ll need this. The minted cloths can block a little of the forest’s airs, but they’ll be of no help where we’re going.”</p>
 
 <p class="para-vi-sub">“Thành thật xin lỗi vì đã gây ra, *chà*, vài xích mích gia đình nhé, Kol,” Tauri lên tiếng. “Thế nhưng hiện tại chúng ta có những chuyện lớn lao hơn cần bận tâm.” Ông ta thò tay vào trong áo khoác, lấy ra một chiếc mặt nạ nửa mặt khác rồi đưa cho tôi. “Chú mày sẽ cần thứ này đấy. Mấy miếng vải tẩm hương chỉ cản được chút ít khí độc của khu rừng, chứ đến nơi chúng ta sắp tới thì chúng chẳng giúp ích được gì đâu.”</p>
@@ -539,6 +545,8 @@
 <p class="para-en">“So he was,” said Tauri. “And if he’d been caught with such a device after his service, he would have been imprisoned. But now he is dead. Only his works persist, though they plague us still. Now come, Kol. Let’s enter.”</p>
 
 <p class="para-vi-sub">“Vốn dĩ là vậy,” Tauri thở dài. “Và nếu ông ta bị phát hiện tàng trữ một thiết bị như thế sau khi giải ngũ, ông ta chắc chắn đã bị tống ngục. Có điều giờ ông ta đã chết. Chỉ có những tàn tích ông ta để lại là còn tồn tại, và chúng vẫn tiếp tục gieo rắc tai họa cho chúng ta. Thôi nào, Kol. Tiến vào thôi.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Our party ventured into the shivering canyon of pale trees. The sound was unlike anything I’d ever heard: so much creaking, straining, and groaning of tremendous fibers and twists of wood, like thousands of ancient throats crying out at once. Then the trees closed behind us, sealing us within the sea of trunks and boles and shimmering leaves.</p>
 

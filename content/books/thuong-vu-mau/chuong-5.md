@@ -110,6 +110,8 @@ Trikao ngập ngừng. “Dù thường xuyên chạm mặt, tôi lại không m
 
 Tôi cảm ơn ông, nhờ ông thực hiện việc đó, rồi cùng Thủ lĩnh Seriv bước vào nhà giam.
 
+<hr class="scene-break"/>
+
 “Chúng tôi đang giam giữ Castus trẻ tuổi trong các buồng giam chung,” Seriv nói khi chúng tôi bước vào những lối hành lang âm u của nhà giam. “Cậu ta chưa hé răng lấy một lời, dù trước đây vốn là một kẻ khá hoạt ngôn. Có lẽ cậu ta đã mắc phải chứng tổn thương não bộ nào đó thúc đẩy bản thân làm ra nông nỗi này, và sự điên rồ ấy vẫn chưa buông tha cậu ta.”
 
 Tôi liếc nhìn Seriv từ góc nghiêng khi bước theo ông ấy vào sâu hơn trong các dãy buồng giam. Ông ấy thậm chí còn có dáng đi của một gã lùa gia súc, sải bước dài với đôi chân vòng kiềng. “Tôi có thể hỏi một câu cực kỳ ngớ ngẩn không, Thủ lĩnh?”
@@ -151,6 +153,8 @@ Chúng tôi tiếp tục bước đi cho đến khi tới một sảnh vòm nh�
 “Cái gì cơ?”
 
 “Một con dao lột da chuyên dụng trong các xưởng mổ gia súc.” Ông ấy bọc con dao lại rồi nhét trả vào túi. “Nơi mọi kỹ nghệ mổ xẻ dã man nhất được áp dụng trên hàng ngàn cái xác gia súc, xẻ thịt cung cấp cho bàn ăn của tầng lớp quý tộc tại các vòng thành nội. Thật là một điềm u ám dơ bẩn khi một công cụ như thế lại được dùng lên thân thể kẻ kế thừa của một gia tộc chủ trang trại, chẳng phải sao?”
+
+<hr class="scene-break"/>
 
 Castus Armenta bị giam trong gian ngục đầu tiên ngay lối vào hành lang. Cậu ấy ngồi co quắp ở góc tối, đầu gục xuống, tấm lưng còng gập. Cậu ấy mặc một chiếc áo sơ mi vải đay cũ kỹ cùng chiếc quần chẽn rộng thùng thuỳnh; nhìn độ rộng gồ ghề đó, rõ ràng chúng từng thuộc về một kẻ khác, bởi Castus như đang chìm nghỉm trong hai ống tay áo xộc xệch. Tôi đoán bộ y phục ban đầu của cậu ấy đã đẫm máu đến mức không thể mặc nổi nữa.
 
@@ -327,6 +331,8 @@ Một khoảng lặng dài, trang nghiêm và u uất.
 “Tại sao cậu lại nói thế?”
 
 “Tôi không muốn bước chân ra khỏi phòng giam này nữa.” Cậu ấy hướng đôi mắt về phía tôi, đôi mắt mở to đầy tuyệt vọng. “Tôi không muốn quay trở lại… trở lại thế giới mà tôi từng biết, để rồi từng phút từng giây đều phải ý thức được rằng cô ấy đã ra đi, và rằng chính tôi có thể đã giết cô ấy. Có thể đã xẻ thịt cô ấy giống như cách tôi đã làm với biết bao gia súc. Đó không phải là một thế giới mà tôi muốn sống. Vì vậy, tôi sẽ đón nhận bất kỳ sự giải thoát nào được ban phát. Kể cả thòng lọng.”
+
+<hr class="scene-break"/>
 
 Tôi bỏ lại cậu ấy trong phòng giam của mình. Tôi không nói lời từ biệt; nỗi bi thương của cậu ấy sâu sắc đến mức một cử chỉ lịch thiệp lúc này, bằng cách nào đó, lại hóa ra tàn nhẫn. Rồi tôi đứng lặng giữa gian sảnh trung tâm, chìm sâu vào những suy tính của riêng mình.
 

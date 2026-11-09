@@ -192,6 +192,8 @@
 
 <p class="para-vi-sub">“Đừng có nhọc công bận tâm về Osama bin Laden làm gì, Colin à,” Donna nhếch mép mỉa mai. “Trật tự Thế giới Mới của các người sẽ tự biết cách thanh toán hắn một khi hắn không còn giá trị lợi dụng nữa. Còn vào lúc này, tôi đang có những con cá béo bở khác cần phải rán trên chảo lửa cơ.” Và chẳng hiểu vì sao, khi thốt lên từ *cá*, một nụ cười đểu cáng nham nhở bỗng giật giật nơi khóe môi cô. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Wednesday night, they had three cardiac cases (one fatal), a drunk who had put his fist through a plate-glass window and nearly bled out, a woman who had washed down so many sleeping pills with booze she almost stopped breathing, and a five-year-old who had swallowed the contents of a glow stick because his older brother said it would make him glow in the dark. A stroke, a car accident, a man who slipped on some ice and fired a nail gun into his own foot. Another day of people who were tired, angry, stupid, wasted, or sad, maiming themselves and others. Another day of the American diet delivering the bill.</p>
 
 <p class="para-vi-sub">Tối thứ Tư tuần đó, kíp trực cấp cứu của Gwen tiếp nhận ba ca ngừng tim (trong đó có một ca tử vong tại chỗ), một gã bợm rượu đấm vỡ toang ô cửa kính lớn bằng tay không và suýt chết vì đứt động mạch mất máu xối xả, một phụ nữ nốc cạn sạch vốc thuốc ngủ cùng rượu mạnh khiến cô ta suýt ngừng thở, cùng một đứa bé năm tuổi dại dột nuốt trọn dung dịch hóa chất trong chiếc que phát sáng dạ quang chỉ vì anh trai nó bảo rằng làm thế sẽ biến nó thành siêu nhân phát sáng trong đêm tối. Một ca đột quỵ não, một vụ tai nạn giao thông thảm khốc, và một gã thợ mộc trượt chân trên băng tuyết rồi tự bắn thẳng một mũi đinh thép dài xuyên qua bàn chân mình. Lại thêm một ngày dài đằng đẵng chứng kiến những con người mệt mỏi, phẫn uất, ngu muội, phê pha ma túy hoặc chìm đắm trong đau buồn, tự hủy hoại thể xác của chính mình và tha nhân. Lại thêm một ngày phải trả cái giá đắt đỏ từ lối sống thực dụng của xã hội hiện đại.</p>
@@ -1260,6 +1262,8 @@
 
 <p class="para-vi-sub">*Suýt chút nữa là ta tóm gọn được ngươi rồi đấy nhé, hỡi Gwen,* thanh âm của Vua Đau Thương dường như đang thì thầm rền vang trong tâm thức cô. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">They were in the bed together, Gwen and Arthur’s mother, neither of them sleeping, when Erin started to speak.</p>
 
 <p class="para-vi-sub">*Suýt chút nữa là ta đoạt mạng cả hai người các ngươi rồi.* <p align="center">**15**</p> Họ nằm chung trên một chiếc giường trong phòng khách sạn, Gwen và mẹ của Arthur, cả hai người phụ nữ đều trằn trọc không sao chợp mắt nổi, cho đến khi Erin khẽ cất lời phá tan bầu không khí u uất.</p>
@@ -1427,4 +1431,3 @@
 <p class="para-en">Daphne squeezed her lips shut to clamp down on fresh laughter and burrowed back into her daughter’s embrace.</p>
 
 <p class="para-vi-sub">Daphne bặm chặt bờ môi khô khốc để nén lại tràng cười sằng sặc đang chực trào nơi cuống họng, rồi rúc sâu hơn vào vòng tay ôm xiết lạnh toát của đứa con gái đã chết.</p>
-

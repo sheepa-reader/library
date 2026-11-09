@@ -288,6 +288,8 @@
 
 <p class="para-vi-sub">Chúng tôi giữ im lặng. Dải giấy kẹp giữa các ngón tay cậu ta đã chuyển sang màu cam tươi vô cùng rõ ràng.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Ana waited until Seriv shut the door to the chamber before scoffing, shaking her head, and saying, “He is a well-meaning boy. Not a bright one! But a decent one, and a brave one at that, I suppose.”</p>
 
 <p class="para-vi-sub">Ana đợi cho tới khi Thủ lĩnh Seriv khép chặt cánh cửa phòng giam lại mới hừ nhẹ một tiếng, lắc đầu cất lời: “Cậu ta là một chàng trai có thiện chí. Dù chẳng mấy thông minh! Nhưng ít nhất cũng là kẻ tử tế, và ta cho rằng, cũng có chút can đảm đấy chứ.”</p>

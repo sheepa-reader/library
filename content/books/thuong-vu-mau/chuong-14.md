@@ -88,6 +88,8 @@ Cơ mặt tôi thoáng thắt lại. Bất chấp vẻ điên khùng mơ màng b
 
 Ông ta tuột mặt nạ ra rồi bước xuống khỏi chiếc xe thồ. “Đi ra chỗ khác một chút đi, cậu bạn,” ông ta bảo, “để có chút riêng tư.”
 
+<hr class="scene-break"/>
+
 Khi rảo bước theo sau Chỉ huy Tauri tiến vào những ruộng đậu, tôi thầm nhận định ông ta chính là viên sĩ quan cấp cao kỳ quặc nhất mà tôi từng chạm trán. Tóc ông ta búi thành một búi cẩu thả, trên người tuyệt nhiên không mang bất kỳ huy hiệu nào, và ông ta thậm chí còn chẳng buồn mặc áo gi-lê hay áo lót bên trong chiếc áo khoác Orbiis, thực tế là ông ta dường như chẳng hề bận tâm khi một cơn gió vô tình thổi tung vạt áo, phơi bày khuôn ngực gầy guộc xám xịt dưới ánh mặt trời. Ông ta vừa sải bước vừa ngâm nga vu vơ, chỉ dừng lại để buông một câu nhận xét: “Xa thêm một chút nữa đi, hỡi người của Bộ Tư pháp! Thuộc hạ của ta thính tai lắm. Ta muốn có thật nhiều ngọn gió ngăn giữa chúng ta và bọn họ, bởi thành thực mà nói, ta đang rất kinh hãi những gì ngươi sắp sửa nói ra đây.”
 
 Tôi liếc nhìn lại đoàn người phía sau, những kẻ vẫn đang đứng sững giữa cánh đồng với vẻ mặt mơ màng, ngây dại. “Bọn họ đang làm cái gì thế?”
@@ -201,6 +203,8 @@ Giờ đến lượt tôi nheo mắt. “Có. Sao thế? Sao ngài lại đoán 
 “Tại sao, thưa ngài?”
 
 “À thì, tôi chưa từng phải giải phẫu trên một tử thi người nào kể từ kỳ lễ nhập môn của Bộ Sinh dược. Rất có thể tôi sẽ bày ra một bãi chiến trường chết tiệt và kinh hoàng đấy.” Một nụ cười lười nhác, mơ màng hiện lên. “Thế nên nếu tôi thực sự phải mổ xẻ con gái của một nhà quý tộc, cậu bạn ạ, tốt nhất là cái xác đó đã bị lây nhiễm; bằng cách đó tôi có thể thiêu rụi nó để che giấu tay nghề vụng về của mình, hả?”
+
+<hr class="scene-break"/>
 
 Bóng chiều bắt đầu đổ xuống khi tôi đi được nửa đường trở về khu trung tâm Lacanthim. Tôi tự rủa sả bản thân vì đã khăng khăng thuê con ngựa rẻ tiền nhất, bởi con ngựa già tội nghiệp không thể chở tôi phi nước đại quá nửa dặm đường, và tôi cũng chẳng gặp được cỗ xe hay chiến mã nào nhanh hơn để giúp mình về sớm hơn. Dù lúc này cần phải hành động nhanh chóng, tôi vẫn không đành lòng bắt một sinh vật tội nghiệp phải chịu khổ. Thế là chúng tôi cứ lững thững cùng nhau tiến bước.
 

@@ -120,6 +120,8 @@
 
 <p class="para-vi-sub">Lần thứ hai—và cũng là lần cuối cùng trong đời—tôi hoàn toàn chết lặng trước vẻ uy nghi tráng lệ của cội đại thụ ấy. Ánh hoàng hôn buông xuống nhuộm đỏ rực từng phiến lá trong sắc lửa bập bùng, khiến tán cây khổng lồ trông tựa như bầu trời cao xanh sắp sửa tuôn trào một trận mưa lửa thiêu đốt nhân gian.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -195,4 +197,3 @@
 <p class="para-en">“I think that’s enough questions.”</p>
 
 <p class="para-vi-sub">“Tôi nghĩ chừng đó câu hỏi cho lúc này là quá đủ rồi.”</p>
-

@@ -68,6 +68,8 @@
 
 <p class="para-vi-sub">“Bây giờ!” Ana giục. “Nói cho ta biết cậu đã tìm thấy những gì!”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Tauri dozed in the corner while I reported to Ana, alternating between sniffing my engraver’s vial and the mint kerchief I still had in my pocket. I was keenly aware of Fotia’s faint horror as I spoke, regurgitating my experiences as if they were venom being drawn from my mind. How strangely discouraging it was that out of all the awful things we’d witnessed in the past days, one of her strongest reactions came in response to my most commonplace duties.</p>
 
 <p class="para-vi-sub">Tauri gà gật ở góc phòng trong lúc tôi báo cáo với Ana. Tay tôi luân phiên đưa lọ tinh dầu khai tâm và chiếc khăn tay hương bạc hà còn giữ trong túi lên mũi ngửi. Tôi cảm nhận rất rõ nỗi kinh hãi mơ hồ của Fotia khi tôi cất lời, tuôn ra mọi trải nghiệm của mình tựa như nọc độc đang được rút cạn khỏi tâm trí. Thật nản lòng làm sao khi trong tất thảy những điều kinh khủng chúng tôi đã chứng kiến suốt mấy ngày qua, một trong những phản ứng dữ dội nhất của em lại dành cho công việc thường nhật nhất của tôi.</p>
@@ -135,6 +137,8 @@
 <p class="para-en">She cleared her throat, pressed her greasy digits to the parchment, and began to read.</p>
 
 <p class="para-vi-sub">Bà hắng giọng, ấn những ngón tay dính mỡ lên tờ da dê rồi bắt đầu đọc.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“Burilis Burav!” she began. “Born in the year 1067, here in the canton of Sapirdad—born in that very house that burned down yesterday, in fact. At the time of his birth, the Burav gentryclan was estimated to be the 131st richest in all of the Empire, and thus possessed wealth and power that few common folk could ever imagine—and yet, in the eyes of the Burav clan, they were in a state of profound poverty. For some forty years previously, they had been the 64th wealthiest clan in the Empire. A steep drop, for them! And the cause of this drop is obvious.”</p>
 
@@ -260,6 +264,8 @@
 
 <p class="para-vi-sub">Ông ta lẩm bẩm một lát, dùng ngón tay quấn một lọn tóc màu vàng nhạt. “Dường như có quá nhiều điều đã bị phá vỡ rồi. Tôi đoán mình cũng có thể phá vỡ luôn quy tắc cấm thảo luận về chuyện này.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“Many say the forest is not a forest at all,” Tauri began. “The folk of this land claim it conceals a tomb, a crypt, a catacomb. The truth would disappoint them—or, at least, the truth I know. Because sitting in the center of the altered forest is one of the Empire’s Touched Sites.”</p>
 
 <p class="para-vi-sub">“Nhiều người nói khu rừng đó hoàn toàn không phải là một khu rừng,” Tauri bắt đầu. “Người dân vùng này quả quyết rằng nó che giấu một ngôi mộ, một hầm mộ, một nghĩa trang ngầm. Sự thật sẽ khiến họ thất vọng, hoặc ít nhất là sự thật mà tôi biết. Bởi vì tọa lạc ngay trung tâm của khu rừng bị biến đổi kia chính là một trong những Địa điểm Biến dạng của Đế quốc.”</p>
@@ -319,6 +325,8 @@
 <p class="para-en">Ana turned her face away and did not answer.</p>
 
 <p class="para-vi-sub">Ana quay mặt đi và không trả lời.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“We are left now,” said Ana after a long silence, “with only a few paths forward. Some more plausible than others.” She turned to Fotia. “Miss Kol—you came here to me and pledged to assist my investigation in any way you could.”</p>
 

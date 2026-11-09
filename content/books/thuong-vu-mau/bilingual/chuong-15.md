@@ -120,6 +120,8 @@
 
 <p class="para-vi-sub">Một nụ cười khách sáo nở trên môi ông ta. “Chính xác. Giống như hầu hết những người ở Viện Orbiis, tôi đã được biến đổi sinh học để trở nên nhạy cảm một cách phi thường trước mọi hợp chất xâm nhập hoặc tác động vào cơ thể mình. Điều đó thực sự giúp tôi có khả năng nhận biết cực kỳ nhạy bén, nhưng… giờ đây tôi cũng có lẽ là vị khách tồi tệ nhất trên bàn ăn của cả thế gian này.” Một nụ cười buồn thoáng qua, lần này là hướng về phía tôi. “Vậy nên! Chúng ta nói về mạng dẫn đường nhé.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Commander Tauri bound up his blond hair in a great, sloppy bun and sat beside Ana. I studied him as he did so. He was a strange creature, but he was also without a doubt one of the most beautiful people I had ever encountered. He sported high, hairless cheeks and a small, curled nose, and of course his hair was a strange, bright gold. Though he’d identified himself as male, there was something androgynous to him, perhaps even otherworldly, as if he was from a species of being that did not conform to my concepts of biology.</p>
 
 <p class="para-vi-sub">Chỉ huy Tauri búi mái tóc vàng của mình lên thành một búi lớn, lỏng lẻo rồi ngồi xuống cạnh Ana. Tôi chăm chú quan sát ông ta khi ông ta làm vậy. Đó là một sinh thể kỳ lạ, nhưng không còn nghi ngờ gì nữa, ông ta cũng là một trong những người đẹp đẽ nhất tôi từng gặp trong đời. Ông ta sở hữu lưỡng quyền cao, nhẵn nhụi không một sợi lông và chiếc mũi nhỏ hơi hếch, và dĩ nhiên, mái tóc của ông ta mang một sắc vàng rực rỡ, kỳ lạ. Dù tự nhận mình là nam giới, nhưng ở ông ta lại toát ra một vẻ lưỡng tính, thậm chí có phần siêu thực, như thể ông ta thuộc về một chủng tộc sinh vật nằm ngoài mọi khái niệm sinh học mà tôi từng biết.</p>
@@ -384,6 +386,8 @@
 
 <p class="para-vi-sub">Đúng lúc đó, hộp sọ của Zansay Burav nổ tung.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I lacked words for the sight of it. It was as if someone had pumped air into a leather sack until it split at its seam. Her skull parted along the lines that Tauri had painted on it, and as it did so, many thick, black, glistening curls came pouring out, as if her parietal plate was a door and these curls were guests trying to rush inside to avoid a downpour. I stared in horror and disgust. They were unmistakably fungal stalks, somewhat akin to what one might find growing on the underside of a fallen tree trunk on a walk in the woods. Yet these moved so quickly, so hungrily, as if eager to escape their prison. They boiled out of her skull, rising a full span into the air; then they slowed in their ascent; then their surfaces grew slightly hazy and shimmering.</p>
 
 <p class="para-vi-sub">Tôi không còn từ ngữ nào để diễn tả trước cảnh tượng ấy. Cứ như thể có ai đó đã bơm hơi vào một chiếc túi da cho đến khi nó nứt toác ở đường may. Hộp sọ của cô nứt ra dọc theo những đường nét mà Tauri đã vẽ trên đó, và khi nó mở ra, vô số những lọn xoăn dày, đen nhánh, bóng lưỡng tuôn trào ra ngoài, như thể xương đỉnh đầu của cô là một cánh cửa và những lọn xoăn này là những vị khách đang cố chen chúc lao vào trong để tránh một cơn mưa rào. Tôi nhìn trừng trừng trong nỗi kinh hoàng và ghê tởm. Chúng chắc chắn là những cuống nấm, có phần tương tự như thứ người ta có thể bắt gặp đang mọc dưới mặt khuất của một thân cây đổ khi đi dạo trong rừng. Thế nhưng những thứ này lại chuyển động quá nhanh, đầy thèm khát, như thể đang nôn nóng thoát khỏi ngục tù của chúng. Chúng cuồn cuộn trào ra khỏi hộp sọ của cô, vươn cao cả một gang tay vào không trung; rồi đà thăng lên của chúng chậm lại; rồi bề mặt của chúng trở nên hơi mờ ảo và lấp lánh.</p>
@@ -411,6 +415,8 @@
 <p class="para-en">“Perhaps so. Though I cannot imagine the reason!” She turned to Tauri. “Sir—please continue with your labors here and wring every grain of truth out of that dead girl. Din—a carriage, please, and then let’s fetch Seriv. I don’t care what time of night it is! I intend to kick Burilis Burav out of bed and force him to answer my fucking questions!”</p>
 
 <p class="para-vi-sub">“Có lẽ vậy. Dù ta không tài nào tưởng tượng nổi lý do!” Bà quay sang Tauri. “Này Chỉ huy, hãy tiếp tục công việc của ngài ở đây và vắt kiệt từng mẩu sự thật từ con bé đã chết đó đi. Din, tìm một cỗ xe mau, rồi chúng ta đi đón Seriv. Ta đếch cần quan tâm bây giờ là mấy giờ đêm! Ta định đá văng Burilis Burav ra khỏi giường và ép gã phải trả lời những câu hỏi chết tiệt của ta!”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Princeps Seriv proved easy to rouse, for he’d not been sleeping at all. “Find it hard to sleep these days,” he told us haggardly as he climbed into our carriage, “given the feeling of something festering behind my eyes.” When we reported all we’d discovered to him, he reacted with beleaguered dismay: “Then it’s as we feared. The man who fashioned the weapon has been wielding it in secret. Let’s see which way he jumps.”</p>
 

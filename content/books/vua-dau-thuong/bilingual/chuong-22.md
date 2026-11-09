@@ -12,6 +12,8 @@
 
 <p class="para-vi-sub">Về sau, họ thậm chí còn chẳng thể thống nhất nổi mình đã mất bao lâu để triệu hồi Vua Đau Thương từ Cõi Tối Vô Tận sang. Donna và Van thì nghĩ mọi chuyện diễn ra vào đêm Thứ Sáu đó. Gwen lại nói đó là đêm tiếp theo, vào chiều tối Ngày Phân Mảnh, cô quả quyết Ngày Phân Mảnh là một ngày bí mật nằm ẩn giữa Thứ Sáu và Thứ Bảy. Colin lại thích cái ý tưởng về Ngày Phân Mảnh, một túi thời gian bị nhồi nhét đầy những thứ tạp nham, giống như túi quần của một đứa trẻ, chỉ có điều thay vì bi thủy tinh và dây dợ, nó chứa đựng rồng, quái troll cùng ma thuật ma quái. Allie còn bảo không chỉ Ngày Phân Mảnh có thật, mà còn có một con số bổ sung nằm giữa nửa đêm và một giờ sáng: Giờ Rồng Thức Tỉnh. Cô khẳng định chắc nịch rằng đã là mười phút sau Giờ Rồng Thức Tỉnh khi Vua Đau Thương cất lời với họ lần đầu tiên.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">He had worked his full shift at the library and walked out of the place a little after six, with the Crane journal in his messenger bag. Twenty minutes later he walked into The Briars. The others were waiting for him in the kitchen. Gwen was on her usual stool at the kitchen island and knew at a glance that he had stolen the awful book Jayne had commanded him to take—understanding passed between them without a word. All of them knew.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Arthur đã làm trọn ca của mình ở thư viện và bước ra khỏi đó lúc hơn sáu giờ một chút, mang theo cuốn nhật ký của Crane trong túi đeo chéo. Hai mươi phút sau, anh bước vào Dinh thự The Briars. Mọi người đang đợi anh trong căn bếp. Gwen đang ngồi trên chiếc ghế đẩu quen thuộc bên bàn đảo bếp, chỉ cần một ánh nhìn, cô liền nhận ra anh đã trộm cuốn sách kinh hoàng mà Jayne ép anh phải lấy; một sự thấu hiểu ngầm truyền qua giữa hai người chẳng cần đến nửa lời. Tất cả bọn họ đều đã biết.</p>
@@ -75,4 +77,3 @@
 <p class="para-en">Arthur said, “I didn’t know I committed felonies. Turns out I’m full of surprises.”</p>
 
 <p class="para-vi-sub">Arthur nói: “Tôi cũng đâu biết là mình đi phạm tội trọng đâu. Hóa ra tôi lại chứa đựng đầy những bất ngờ đấy.”</p>
-

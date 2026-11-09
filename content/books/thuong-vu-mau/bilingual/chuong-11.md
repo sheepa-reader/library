@@ -124,6 +124,8 @@
 
 <p class="para-vi-sub">“Không.” Một nụ cười lạnh lùng, đầy ác ý hiện lên trên gương mặt bà. “Bởi lẽ nếu thần linh thực sự tồn tại, chẳng phải thế giới này phải hợp lý hơn sao? Chẳng phải vạn vật phải mang lại cảm giác ổn định và dễ hiểu hơn sao? Ta tự coi mình là một kẻ khôn ngoan, thế nhưng khi suy xét về tạo hóa, ta chẳng thấy gì ngoài sự đói khát mù quáng cùng sự tàn phá khốc liệt của tự nhiên. Trật tự duy nhất tồn tại trên đời này chính là thứ do chính tay chúng ta thiết lập nên, nhóc ạ.” Bà kéo chiếc băng bịt mắt trở lại vị trí cũ, lấy ra một cuốn sách rồi bắt đầu đọc. “Vậy thì ngày mai, chúng ta sẽ đến gặp gia tộc Armenta để xem có thể tìm thấy thứ trật tự nào trong cái chết của những đứa con nhà Velona. Sau đó, chúng ta sẽ huy động Viện Orbiis đến để mổ xẻ nội tạng của cô bé Zansay Burav. Biết đâu chúng ta lại nhìn ra vài tia sáng của tương lai trong đống lòng phèo của cô ta, giống như các Tiên Luận Sư thời cổ đại vẫn thường làm.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">I sat on my mossbed in my chambers, listening as the rain intensified on the fretvine roof. How strange it felt to be in this place, where so much history hung over me—both personal and otherwise.</p>
 
 <p class="para-vi-sub">Tôi ngồi trên chiếc giường rêu trong phòng riêng của mình, lắng nghe tiếng mưa mỗi lúc một nặng hạt trên mái nhà kết bằng Dây leo Fretvine. Cảm giác thật kỳ lạ khi hiện diện ở nơi này, nơi mà quá nhiều tầng lịch sử đang bao trùm lấy tôi, từ những ân oán cá nhân cho đến những biến cố của thời đại.</p>

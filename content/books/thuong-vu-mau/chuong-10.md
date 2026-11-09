@@ -52,6 +52,8 @@ Trikao hắng giọng: “Tôi, ờ, xin phép để hai người có không gia
 
 Fotia và tôi đăm đăm nhìn nhau. Rồi, mang theo luồng khí thế đầy thù địch, em ngồi xuống chiếc ghế đối diện tôi, vuốt ngược mái tóc đen ra sau tai, nở một nụ cười lạnh lẽo: “Vậy, chúng ta nên nói về chuyện gì đây, anh trai?”
 
+<hr class="scene-break"/>
+
 “Làm sao…” Tôi lắp bắp. “Làm sao em…”
 
 “Hôm nay anh khỏe không?” Fotia gợi ý. “Đó có phải là điều anh muốn hỏi em không?”
@@ -195,6 +197,8 @@ Tôi phải mất một lúc mới gượng dậy nổi sau cú đánh bất ng�
 “Sự sợ hãi có đồng nghĩa với sự trưởng thành không anh?”
 
 Tôi rót đầy ly của mình. “Ở Đế quốc này, có lẽ là vậy.”
+
+<hr class="scene-break"/>
 
 Sau đó chúng tôi trò chuyện về nhiều thứ: về việc em đã gặp Ippeas ra sao: “Em đã đánh bại anh ấy trong một cuộc thi cưỡi ngựa. Mãi về sau anh ấy mới thú nhận lý do mình thua là vì mải ngắm nhìn em…”; về mối quan hệ của em với gia tộc Armenta: “Họ đối xử với em như thể em ở khoảng giữa của một kẻ hầu cận được ưu ái và, thật kỳ lạ, một người họ hàng xa bị lãng quên”; và về chính bà ngoại của chúng tôi: “Bà càng già thì cái tôi càng lớn, bà chỉ muốn nói về những đức hạnh của bản thân, những chiến thắng của riêng mình, và việc chẳng ai trên đời sánh bằng bà”.
 
@@ -497,6 +501,8 @@ Tôi đứng dậy. “Tôi xin phép cáo lui,” tôi nói một cách cứng 
 Tôi cố gắng mỉm cười. “Anh sẽ ám em dài dài. Hãy hy vọng đó là sự ám ảnh duy nhất xảy ra ở nơi này.”
 
 Đó là một câu đùa nhạt nhẽo và nhanh chóng tan biến ngay khi vừa thốt ra. Tôi đặt xuống vài đồng talint trả tiền rượu, rồi rời đi để trở về quán trọ của mình.
+
+<hr class="scene-break"/>
 
 Tôi lê bước trở về trong bùn lầy, tiếng mưa gõ nhịp liên hồi trên vai, và trong hộp sọ tôi, những ký ức đang điên cuồng gào thét đòi chen chân vào. Thế nhưng, không giống như những ký ức được khắc ký hoàn hảo, được bảo tồn nguyên vẹn từng giây đang trôi nổi trong đầu tôi, đây là những ký ức nhạt nhòa, đẫm mồ hôi và chỉ còn nhớ được một nửa, nhưng lại trĩu nặng sắc thái cùng cảm xúc, bởi chúng thuộc về khoảng thời gian trước khi tôi bị biến đổi thể xác.
 

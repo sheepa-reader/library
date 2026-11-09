@@ -40,6 +40,8 @@ Một tiếng rít kẽo kẹt vang lên khi cửa sổ cỗ xe hé mở lần n
 
 Một tiếng cười khẽ trầm đục vang lên, rồi cánh cửa sập lại cái rầm.
 
+<hr class="scene-break"/>
+
 Từng tiến hành các cuộc điều tra tại một số vùng đất hỗn loạn và nguy hiểm bậc nhất của Đế quốc, tôi đã quá quen với việc phải đối mặt với các lực lượng vũ trang. Thế nhưng, khi cỗ xe của chúng tôi kẽo kẹt đi qua những lối đi chật ních người của Lacanthim, tôi nhận ra rằng những kẻ này thuộc một chủng loại hoàn toàn khác biệt so với mọi tầng lớp khác trong Đế quốc.
 
 Những lực lượng này không được trang bị cho chiến tranh mà là để cưỡi ngựa: đôi ủng cao cổ của họ rõ ràng được thiết kế dành riêng cho bàn đạp yên, và lớp giáp da kia chắc chắn chẳng thể nào chống đỡ nổi thép đế quốc. Hơn nữa, tất cả bọn họ đều là những gã đàn ông có ánh mắt cau có, làn da phong trần chai sạn, gương mặt dường như chỉ biết nheo lại, như thể đã trải qua vô số ngày đêm nơi đồng bãi, phơi mình trước mưa nắng sương gió.
@@ -208,6 +210,8 @@ Burilis giận dữ nhìn chằm chằm một lúc. “Tôi sẽ rút lui, nhưn
 
 Tôi vẫy tay ra hiệu cho người đánh xe ngựa đợi chúng tôi ở chuồng ngựa của quán trọ. Sau đó, chúng tôi cùng nhau bước vào trong.
 
+<hr class="scene-break"/>
+
 “Thế nào hả, Din?”
 
 Ana hỏi khi tôi dẫn bà vào bên trong. “Cuộc ngoại giao đó có vừa ý cậu không? Ta thề là ta đã nghe thấy tiếng rên rỉ thảm hại khi cơ mông cậu co rúm lại ngay bên cạnh ta đấy.”
@@ -332,6 +336,8 @@ Tôi đăm đăm nhìn xuống lối hành lang uốn lượn dọc theo những
 
 Tôi cảm ơn bà ta rồi quay trở lại bên Ana.
 
+<hr class="scene-break"/>
+
 “Vậy ra,” Ana khẽ thì thầm đầy ẩn ý khi vịn lấy cánh tay tôi. “Ta nghe có đúng không? Hóa ra hai kẻ đó là nhân tình của nhau, đúng như chúng ta đã đoán?”
 
 “Có vẻ là như vậy, thưa Trưởng quan.”
@@ -397,6 +403,8 @@ Tôi ngẫm nghĩ một chút. “K... không. Tôi… tôi không nghĩ vậy, 
 Lần đầu tiên sau nhiều giờ, tôi thấy một nếp nhăn ngạc nhiên đầy vẻ thích thú xuất hiện trên gương mặt bà. “Ồ, ra vậy! Được rồi. Vậy thì chúng ta vào trong thôi.”
 
 Tôi xóc lại tinh thần, dẫn bà vào bên trong rồi khép cửa lại.
+
+<hr class="scene-break"/>
 
 Tôi đứng trên ngưỡng cửa và ném một ánh nhìn ngập ngừng quanh căn phòng, lo sợ rằng giọng nói ấy có thể lại cất lên. Những suy nghĩ trong đầu tôi may mắn thay vẫn giữ sự im lặng. Tôi thầm hy vọng đó chỉ là một dị thường thoáng qua. Sau đó, tôi bắt đầu khảo sát hiện trường.
 
@@ -479,6 +487,8 @@ Tôi quay lại phía tủ buồng và mở cửa ra. Ana ngước lên nhìn t�
 “Tôi không chắc, thưa ngài,” tôi chậm rãi đáp. “Vì tôi hoàn toàn không hiểu nổi những gì mình đang nhìn thấy.”
 
 “Ồ? Phải chăng thứ rác rưởi lòe loẹt này lại mang theo chút mùi hương thoang thoảng của một điều gì đó đầy mê hoặc? Để xem nào! Khai ra những gì cậu quan sát được cho ta nghe xem nào, nhóc.”
+
+<hr class="scene-break"/>
 
 Tôi liền lên tiếng, hít một hơi từ lọ thuốc của mình và để cho những ký ức tuôn trào ra khỏi cửa miệng. Đôi mắt tôi giật mạnh và run rẩy khi thực hiện điều đó, cảm giác như thể tôi đang cùng lúc hiện diện tại hàng trăm vị trí khác nhau trong căn phòng, nhìn ngắm mọi thứ từ mọi góc độ và cố gắng miêu tả tất cả cùng một lúc.
 

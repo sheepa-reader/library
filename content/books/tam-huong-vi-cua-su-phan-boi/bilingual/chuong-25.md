@@ -48,6 +48,8 @@
 
 <p class="para-vi-sub">Có những chuyện tôi vẫn chưa thực sự đi sâu vào. Đầu tiên là vị hôn thê cũ của Feng, Glayd Eto. Cũng như Rivern Engi, cha dượng của Feng, Glayd đến từ phương bắc của Đế quốc, là người con gái thứ hai của một Bậc thầy ẩm thực Apicius đáng kính của loài quái thú Tusktooth từ thành phố Herrinpol vô cùng xa xôi hẻo lánh.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -71,6 +73,8 @@
 <p class="para-en">“I won’t let that happen,” he declares, but he acquiesces nonetheless. “I’ve only seen one tusktooth, and it was at a distance. It was like a small island, floating in icy waters north of the Empire near the Pillars, with a scaled belly to the sky as it sunned itself. Probably about fifty meters from the spined crest of its head to the tip of its blubbery tail. It gets its name from the two massive endurmite tusks that curve from its upper lips, down over its squat neck and rounded belly. It had at least four eyes that I saw and two heavy claws like a lobster.”</p>
 
 <p class="para-vi-sub">“Anh sẽ không để chuyện đó xảy ra đâu,” anh quả quyết, nhưng dù vậy vẫn chịu nhượng bộ. “Anh cũng mới chỉ nhìn thấy một con quái thú Tusktooth duy nhất, mà lại từ đằng xa. Trông nó cứ như một hòn đảo nhỏ, bồng bềnh trên vùng nước băng giá phía bắc Đế quốc, gần dãy Thạch Trụ, cái bụng phủ đầy vảy phơi ngược lên nền trời khi nó sưởi nắng. Chắc nó dài khoảng năm mươi mét, tính từ chiếc mào gai nhọn trên đầu đến tận chóp chiếc đuôi ngấn mỡ. Nó có cái tên đó là nhờ hai chiếc ngà bằng tinh thể Endurmite khổng lồ uốn cong từ môi trên, vươn dài qua cái cổ ngắn cũn và che phủ chiếc bụng tròn trịa. Theo những gì anh thấy thì nó có ít nhất bốn con mắt, cùng hai chiếc càng nặng nề hệt như tôm hùm.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -111,4 +115,3 @@
 <p class="para-en">Alright, that should suffice. Let’s—</p>
 
 <p class="para-vi-sub">Được rồi, thế là đủ rồi. Chúng ta hãy…</p>
-

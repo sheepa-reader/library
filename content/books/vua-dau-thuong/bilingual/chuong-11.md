@@ -212,6 +212,8 @@
 
 <p class="para-vi-sub">“Ôi, Elwood, cháu vô lễ quá đấy,” Llewellyn nói rồi lướt nhanh ra khỏi phòng.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">For a few moments all of them were silent, while Colin rethreaded the spent reel and began to rewind the film.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Trong vài khoảnh khắc, tất cả bọn họ đều im lặng, trong khi Colin luồn lại cuộn phim đã quay hết và bắt đầu tua lại.</p>
@@ -251,4 +253,3 @@
 <p class="para-en">Arthur had his first-ever swallow of whiskey. It tasted like a mouthful of dragon’s flame.</p>
 
 <p class="para-vi-sub">Arthur nhấp ngụm rượu whiskey đầu tiên trong đời. Vị của nó xộc lên như một hớp lửa rồng.</p>
-

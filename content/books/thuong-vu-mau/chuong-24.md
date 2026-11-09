@@ -42,6 +42,8 @@ Chúng tôi tiếp tục bước đi trên con đường và chứng kiến mộ
 
 “Mỗi năm họ đốt nó một lần,” Tauri nói. “Ý tôi là đống xương đó. Đốt sạch gò xương thành tro và phân bón. Chúng tôi quả thực có nhu cầu sử dụng các tài nguyên sinh học này, nhưng…” Ông ta nhún vai. “Các xưởng lột da sản xuất ra quá nhiều. Lượng xương, da, enzyme, hóa chất điều chế cùng nhiều thứ khác vượt xa mức mà Bộ Sinh dược có thể đưa vào sử dụng hiệu quả. Thế nên, cách dễ nhất là cứ để chúng thối rữa ở đây rồi thỉnh thoảng châm lửa đốt. Giờ thì cậu đã hiểu lý do vì sao người thuộc Viện Orbiis chúng tôi chẳng mấy khi bén mảng tới các tuyến đường phía nam của trang trại gia tộc Armenta rồi đấy, nhất là khi gió thổi ngược hướng. Tôi sẽ giục họ đi nhanh hơn.” Ông ta cất tiếng cười ảm đạm. “Thật nản lòng làm sao khi nghĩ rằng việc quật mộ còn ít kinh hãi hơn là quanh quẩn ở cái chốn này!”
 
+<hr class="scene-break"/>
+
 Cuối cùng, những bức tường bằng đá và gỗ cao vút của lăng mộ gia tộc Armenta cũng nhô lên phía trên những cánh đồng trước mặt chúng tôi. Thật tương phản đến gai người khi chứng kiến một khối đen thẫm khổng lồ vươn cao trên thảm cỏ xanh tươi, nổi bật trên nền trời xanh rực rỡ. Nó mang lại cho tôi cảm giác như đang tiến lại gần một ngôi đền hay thánh địa của các tư tế cổ xưa.
 
 Fotia và Trikao Armenta đã đợi chúng tôi phía trước cổng lăng mộ. Cả hai trông đều hết sức nhợt nhạt, nhưng Trikao rõ ràng là tồi tệ hơn hẳn: ông ấy trông như thể đã sẵn sàng tự mình bước chân vào huyệt mộ đến nơi rồi.
@@ -88,6 +90,8 @@ Tôi lục tìm lại ký ức trong trí óc. “Về phần Lyimo, cậu ta đ
 
 “Bởi vì,” Tauri thở dài, “tôi thà *không* phải đối mặt với một cái xác rữa mục nát ngay từ đầu! Tôi muốn thử làm quen dần với cái mùi quái quỷ này đã.”
 
+<hr class="scene-break"/>
+
 Các viên chức Viện Orbiis lấy ra một bộ hũ dung dịch và bắt đầu cẩn thận quét lên các đường nối của chiếc kén, hay còn gọi là *tavoskoli* như cách Tauri vừa gọi. Tiếng rít nhẹ vang lên khi họ phết dung dịch vào. Sau đó, họ lùi lại và chờ đợi.
 
 Tiếng rít vẫn tiếp tục. Trong lúc chờ đợi, tôi nhớ lại bức tranh vẽ những người con của gia tộc Armenta từng thấy trong dinh thự của họ. Trong tranh có Lyimo cao lớn cùng nụ cười ngạo mạn; tiếp theo là Sagma, khoác trên mình những dải lụa lấp lánh với ánh mắt vô cùng sắc sảo; đứng sau cô là Gevma, có khuôn mặt mềm mại và nét biểu cảm rõ ràng là gượng gạo trong bộ trang phục cưỡi ngựa; và cuối cùng, dĩ nhiên là Castus, được trang hoàng diêm dúa như một con chim trĩ phô trương, mặc dù tôi biết, thi thể của cậu ấy đã bị Viện Orbiis hỏa táng sau khi phát bệnh mọc mầm.
@@ -107,6 +111,8 @@ Nửa trên của chiếc quan tài tràn ngập những thân nấm cổ xưa �
 Một khoảng không gian im lặng u buồn và ngắn ngủi bao trùm.
 
 “Chúng ta sẽ cắt bỏ những cuống nấm này để đem đi hỏa táng, sau đó sẽ khám nghiệm cái xác một cách đàng hoàng,” Tauri nói với tôi. “Nhưng trước tiên, hãy mở chiếc kén của Sagma tiếp theo để xem liệu cô ấy có bị nhiễm hay không…”
+
+<hr class="scene-break"/>
 
 Họ lại thực hiện quy trình ấy thêm một lần nữa: bôi chất lỏng lên kén của cô gái, cạy mở nó ra và nhấc nắp quan tài lên. Rất giống với Gevma, cỗ quan tài của Sagma cũng chất đầy những búi nấm cổ xưa sẫm màu, dẫu rằng những búi nấm này tạo thành một thứ tựa như vầng hào quang quanh đầu cô. Gương mặt tái nhợt, thanh tú của cô nổi lên giữa những cuộn nấm, khiến cô trông như thể đang phải chịu đựng một cơn ác mộng trong giấc ngủ, trằn trọc thao thức trên chiếc gối của mình.
 
@@ -139,6 +145,8 @@ Tôi lắc đầu. “Tôi từng thấy những thi thể bị treo cổ trư�
 Cuối cùng, chúng tôi chuyển sang quan tài của Lyimo. Sau một lượt quét chất lỏng sủi bọt xì xèo nữa, phần trên của chiếc kén bao bọc cậu ta đã được giải phóng, và chúng tôi nhấc nắp cỗ áo quan của cậu ta ra.
 
 Rồi tất cả chúng tôi đều khựng lại.
+
+<hr class="scene-break"/>
 
 Trong khi hai thi thể kia phơi bày cả một búi cuống nấm cổ xưa mục rữa, lúc nhúc trào ra ở phần đầu cỗ quan tài, thì đối với Lyimo, dấu tích lại ít ỏi hơn rất nhiều. Chỉ có vỏn vẹn vài cuống nấm lưa thưa luồn lách chui ra khỏi hộp sọ cậu ta, độ dài khó lòng vượt quá vài tấc ngắn ngủi. Nó khiến tôi liên tưởng đến một hạt mầm vừa được đón giọt mưa rào, khẽ hé ra vài chiếc lá non nớt, mỏng manh để đón lấy ánh mặt trời.
 

@@ -12,6 +12,8 @@
 
 <p class="para-vi-sub">Nhân viên tiếp thực lập tức túa ra bê mười đĩa khai vị nóng hổi: những chiếc bánh profiteroles kẹp nấm morel thơm lừng rắc bột cà ri vadouvan nồng nàn đặt trên lớp xốt rau biển xanh mướt.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -27,6 +29,8 @@
 <p class="para-en">“Who were they?” “Maybe if you stopped interrupting you’d know by now,” Musta snaps.</p>
 
 <p class="para-vi-sub">“Có lẽ nếu cô bớt cái thói chen ngang thì giờ này cô đã được tường tận rồi đấy,” Musta bực dọc liếc xéo cô đáp trả từ góc bàn vẽ.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -159,4 +163,3 @@
 <p class="para-en">“There he is,” Laven said behind me, breathing the aroma in the grillsmoke. “There’s my Chef.”</p>
 
 <p class="para-vi-sub">“Anh đã thực sự trở lại rồi,” giọng Laven trầm ấm vang lên ngay phía sau lưng tôi, cậu bạn hít sâu một hơi làn hương khói nướng thơm lừng đang cuộn trào trong không gian. “Chef của tôi đã thực sự trở lại rồi!”</p>
-

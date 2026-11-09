@@ -94,6 +94,8 @@ Tauri gật đầu, rồi bỗng khựng lại. Một vẻ kinh hoàng tột đ�
 
 Tauri há miệng định nói gì đó, nhưng rồi lại ngậm miệng, gật đầu và bảo: “Vậy tôi sẽ chuẩn bị khởi hành,” rồi nhanh chóng bước đi.
 
+<hr class="scene-break"/>
+
 Tôi dẫn đường đưa Ana trở lại Quán Người Chăn Bò Xanh ngay khi những tia sáng bình minh đầu tiên bắt đầu rỉ qua bầu trời phía đông. Bà chìm sâu vào suy tư đến mức tôi không dám mở lời lấy một câu, dù những sự việc diễn ra trong vài giờ qua đã gieo vào tâm trí tôi vô vàn suy nghĩ.
 
 “Ta cảm giác như chúng ta đang đứng ngay ngưỡng cửa của sự đột phá rồi, Din,” bà lầm bầm. “Nhưng ngày hôm nay dài quá, lại quá điên rồ, nên ta cũng chẳng thể chắc chắn được nữa!”

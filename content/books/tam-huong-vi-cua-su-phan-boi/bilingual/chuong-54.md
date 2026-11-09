@@ -140,6 +140,8 @@
 
 <p class="para-vi-sub">“Nếu cô không chịu mở lòng tin tưởng, vậy thì hãy cứ tiếp tục lắng nghe đi.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -271,4 +273,3 @@
 <p class="para-en">He let go and approached the door. “Bye for now, lessa. I’ll find you somewhere soon.” “Lessa? Like ‘Bessa’ and lesser? That’s not even a good one!” I shouted after him. But the door swung back and forth in his wake.</p>
 
 <p class="para-vi-sub">“Lessa ư? Ý ông già muốn chơi chữ nhạo báng họ Bessa của tôi là kém cỏi hơn chứ gì? Cái trò chơi chữ nhạt nhẽo và chán ngắt tệ hại!” Tôi gào thét đuổi theo bóng lưng còng gập của ông già. Thế nhưng cánh cửa gỗ của gian bếp đã tự động đung đưa khép lại theo từng nhịp bước chân dứt khoát của người thầy già.</p>
-

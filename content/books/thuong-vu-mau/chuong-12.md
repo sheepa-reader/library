@@ -32,6 +32,8 @@ Một cơn cồn cào khó chịu khác lại dâng lên trong bụng tôi, như
 
 “Thế nên hãy cảnh giác, và ăn nói cho cẩn thận, nhóc!” Ana nói. “Đừng làm phật lòng nữ chủ nhân của ngôi nhà, người mà theo như chúng ta được nghe kể, là kẻ có thể chất vô cùng mong manh…” Bà quay khuôn mặt bịt kín dải băng về phía khung cửa sổ đóng chặt. “…và rõ ràng, cả tâm trí cũng vậy.”
 
+<hr class="scene-break"/>
+
 Dinh thự của gia tộc Armenta, cấu trúc được biết đến với cái tên “Aimafall”, là một công trình đồ sộ, trải rộng, rõ ràng đã được xây cất thêm trong suốt hơn một thế kỷ, bởi phong cách của các kết cấu Dây leo Fretvine, gỗ đá và gạch kiểu cổ có sự khác biệt rõ rệt giữa phần này với phần khác. Đại sảnh phía nam là phần mới được xây dựng gần đây nhất, phô diễn những khung cửa sổ bằng kính tấm khổng lồ, một thứ xa xỉ phẩm vẫn còn vô cùng hiếm hoi ở hầu hết các vùng của Đế quốc. Thế nhưng tất cả các cửa sổ kính ấy đều bị che kín từ bên trong bằng những tấm vải lớn hoặc những bức rèm dày ghim chặt để ngăn ánh sáng lọt vào. Một sự lựa chọn kỳ quặc, khi dựng lên những chi tiết thanh nhã đến thế rồi lại che khuất chúng hoàn toàn.
 
 Dẫu ngôi nhà là một công trình tráng lệ, nó vẫn mang những nét u ám đến rợn người.
@@ -61,6 +63,8 @@ Chúng tôi đứng chờ. Một gia nhân xuất hiện, khép nép cúi chào 
 “Tôi cho là, ờ, chúng ta đã được phép vào trong rồi, thưa Trưởng quan,” tôi nói.
 
 “Ta không hiểu sao cậu lại lo lắng đến thế, Din,” Ana khịt mũi nói. “Năng lực ngoại giao của ta xem ra cho đến giờ vẫn vô cùng đắc dụng đấy chứ.”
+
+<hr class="scene-break"/>
 
 Không khí bên trong Aimafall ngột ngạt, tối tăm và nồng nặc mùi ẩm mốc. Đèn được thắp rất thưa thớt, và hầu như không có cánh cửa sổ nào mở hé, khiến ánh sáng trở nên vô cùng tù mù. Tôi nheo mắt nhìn quanh, để rồi nhận ra hàng trăm con mắt thủy tinh đang trừng trừng nhìn lại mình.
 
@@ -161,6 +165,8 @@ Osumlik lắp bắp đầy bực dọc, trong khi gương mặt của Fotia đô
 “Chúng ta được triệu tập rồi,” Fotia nói.
 
 Chúng tôi bước về phía cánh cửa hé mở, Osumlik vẫn lầm bầm bực bội bám theo phía sau, và bước vào trong.
+
+<hr class="scene-break"/>
 
 Căn phòng bên trong hoàn toàn không giống những gì tôi hình dung về phòng riêng của một quý tộc thượng lưu. Nơi này có vẻ rộng rãi, nhưng thật khó để nhận định chắc chắn, bởi những cuộn và dải rêu rủ xuống từ trần nhà dày đặc đến mức cảm giác như đang băng qua một khu rừng rậm.
 

@@ -30,6 +30,8 @@ Một ô cửa sổ phía dưới kia tại quán Bàn Tay Xiêu Vẹo, nằm �
 
 Nghĩ vậy, tôi rút một chai chất tỉnh trí *Clariphage* nhỏ từ trong túi ra và nhấp một ngụm. Tôi nhăn mặt khi thứ chất kích thích ấy sôi sục trong dạ dày, khẽ rùng mình một cái rồi tiếp tục đăm đăm nhìn ra con phố, những ngọn đèn, và những mái nhà ướt đẫm của Lacanthim khi đêm đen hoàn toàn sập xuống.
 
+<hr class="scene-break"/>
+
 Mấy giờ đồng hồ trôi qua.
 
 Lacanthim bên dưới tôi vẫn nhộn nhịp, ca hát và thở dài. Thật kỳ lạ làm sao khi chứng kiến những người làm nông, những người lùa gia súc và những thợ xẻ thịt vẫn đổ về thị trấn để thực hiện công việc hằng ngày, cho dù cơn điên rồ hoang dại đã quét qua những cánh đồng và khu rừng phía xa. Sự thản nhiên của họ để lại trong tôi một cảm giác chua chát, nhưng dĩ nhiên là họ phải tiếp tục lao động rồi. Thịt bò quá đỗi đắt giá. Rốt cuộc thì thứ giá trị đó chắc chắn sẽ lấn át được chuỗi cái chết này thôi.
@@ -126,6 +128,8 @@ Tôi lầm bầm: “Chết tiệt!” rồi quay người lao vội xuống c�
 
 Nhưng trước khi kịp bước xuống dù chỉ một bậc, tôi đã nghe thấy tiếng hát ấy, và bóng tối lập tức bao trùm lấy tôi.
 
+<hr class="scene-break"/>
+
 Tôi lại thấy mình đứng trong căn phòng tại Quán Người Chăn Bò Xanh, mình trần đến thắt lưng. Tôi không thể cử động. Thế nhưng lần này, cảm giác không giống như xương cốt đang nặng trĩu như chì hay bị đông cứng giữa không trung. Ngược lại, không cử động, giữ im lặng, duy trì các chi ở chính xác vị trí hiện tại lại là điều tuyệt mỹ nhất mà tôi có thể tưởng tượng ra.
 
 Tai tôi ngập tràn tiếng nhạc, tiếng người và những khúc ca. Giai điệu ấy thật thiêng liêng, tựa như tiếng hát của thiên sứ, đầy mê đắm. Nó còn vĩ diệu hơn cả thứ linh dược xoa dịu thần kỳ nhất, và ngập tràn hoan lạc hơn bất kỳ cảm xúc nào tôi từng trải qua trong đời. Đan xen xuyên suốt bản nhạc thanh tao thoát tục ấy là một mệnh lệnh duy nhất: *Yên vị. Hãy yên vị. Đừng cử động.*
@@ -185,6 +189,8 @@ Nhưng dù có thể nhìn thấy cả hai viễn cảnh, tôi vẫn không các
 Nhưng tôi không thể. Cứ như thể các dây thần kinh ở chân, cột sống và cánh tay tôi đã quên mất khái niệm vận động. Tôi bị giam cầm trong ngục tù của chính thể xác mình, không thể làm gì khác ngoài việc trơ mắt nhìn thế giới diễn ra trước mặt.
 
 Một bóng đen khẽ lay động nơi chân cầu thang. Rồi, bằng sự thận trọng và lặng lẽ, hắn từng bước tiến lên phía tôi.
+
+<hr class="scene-break"/>
 
 Hắn khoác trên vai chiếc áo choàng màu xanh lam nhạt, đầu đội chiếc mũ giáp y hệt lần đầu tôi nhìn thấy hắn, khi hắn đứng trước cánh cửa nhà lao Lacanthim với dáng vẻ mệt mỏi nhưng đầy kiêu hãnh. Với chiếc áo choàng và chiếc mũ màu xanh ấy, tôi nhận ra trong bóng tối trông hắn rất giống một lính chấp pháp, điều này chắc chắn đã giúp hắn dễ dàng lẻn vào bên trong. Khi hắn bước lên cầu thang mà gần như không phát ra một tiếng động nào, tôi thấy đêm nay hắn không mang theo ngọn thương, mà là một thanh đoản kiếm cùng một dụng cụ mà tôi nhận ra ngay lập tức: chiếc ống sáo mèo, giống hệt chiếc tôi vừa nhìn thấy bên ngoài chỉ vài giây trước.
 

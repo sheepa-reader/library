@@ -196,6 +196,8 @@
 
 <p class="para-vi-sub">Allie gần như phi như bay về phía chiếc bàn làm việc để lấy tấm áo choàng đã gấp. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">She left the martyr’s robe and the Russian mirror in the grand entrance hall, hidden under her snow parka, and hurried upstairs in her stocking feet. Donna was right where she had left her. She did not stir while Allie looped the necklace back around her throat. In sleep, Donna’s features were bunched up in an expression of ugly, childish resentment. On impulse, Allie reached with one thumb to smooth her eyebrow, then leaned in to kiss her temple. It felt as if she were kissing her goodbye—and not just for the night. Donna’s face relaxed, and she sighed and even smiled slightly. And in spite of herself, it pleased Allie to think she could bring Donna any relief at all, even if only in her sleep. It had to be exhausting work, being her all the time.</p>
 
 <p class="para-vi-sub">Cô để lại Áo Choàng Tử Đạo và tấm gương Nga ở sảnh lớn, giấu kín dưới chiếc áo parka trượt tuyết của mình, rồi rón rén bước nhanh lên lầu trong đôi tất len. Donna vẫn ở nguyên vị trí mà cô vừa rời đi. Cô ấy không hề cựa quậy trong lúc Allie quàng lại chiếc vòng cổ vào sát cổ họng cô. Trong giấc ngủ, các đường nét trên khuôn mặt Donna co rúm lại trong một vẻ hằn học xấu xí, trẻ con. Theo một thôi thúc bất chợt, Allie vươn ngón cái vuốt nhẹ chân mày Donna, rồi rướn người đặt một nụ hôn lên thái dương cô ấy. Cảm giác ấy tựa như cô đang hôn từ biệt, chứ không chỉ đơn thuần là cho đêm nay. Gương mặt Donna giãn ra, cô ấy thở dài và thậm chí còn mỉm cười nhẹ. Và bất chấp cả lý trí, Allie cảm thấy vô cùng dễ chịu khi nghĩ rằng mình có thể mang lại cho Donna chút ít sự yên lòng, dẫu chỉ trong giấc mơ. Làm chính mình suốt ngần ấy thời gian chắc hẳn phải là một công việc mệt mỏi cùng cực.</p>
@@ -211,4 +213,3 @@
 <p class="para-en">She didn’t see the Shelby Boss Snake parked to the right, off the road, didn’t see it turn on its headlights, wasn’t aware of it following her at a distance of a quarter mile. But then she hadn’t seen it when it followed her to The Briars either.</p>
 
 <p class="para-vi-sub">Cô không hề nhìn thấy chiếc Shelby Boss Snake đang đỗ ở bên phải, khuất bên lề đường, không thấy nó bật đèn pha, và hoàn toàn không hay biết rằng nó đang bám theo cô ở khoảng cách một phần tư dặm. Nhưng suy cho cùng, cô cũng chẳng hề nhìn thấy nó khi nó bám theo cô đến The Briars trước đây.</p>
-

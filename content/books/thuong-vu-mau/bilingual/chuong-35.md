@@ -104,6 +104,8 @@
 
 <p class="para-vi-sub">“Bởi vì cậu ta cần phải tận mắt chứng kiến,” bà nói. “Và cậu cũng thế.” Bà bắt đầu rảo bước xuống lối mòn, vẫy tay ra hiệu xung quanh. “Nhưng ta sẽ nói cho cậu biết, đó là một ngôi mộ, Din ạ. Mà thực ra, toàn bộ Đế quốc này là một ngôi mộ, và cả lịch sử cũng vậy. Quá nhiều năm tháng trôi qua, quá nhiều cái chết. Chúng ta sống trong những ngôi mộ, bên trong những ngôi mộ, và chồng chất lên những ngôi mộ. Câu hỏi đặt ra là: làm thế nào để tìm đường thoát ra?”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The seam was no less unnerving than it had been the last time, even though on this foray we were at least somewhat certain the path ahead bore no combatants. Tauri led the way, thurible held high like a midnight adventurer peering into the mist. I kept my eyes fixed on his golden tresses, and tried to ignore the trembling of the leaves, the crackling of the branches, and most of all the strange, fractal angles of the pale boles.</p>
 
 <p class="para-vi-sub">Đường ranh giới không gian ấy vẫn mang lại cảm giác bất an không kém gì lần trước, dù trong chuyến đột kích này, chúng tôi đã phần nào chắc chắn rằng con đường phía trước không có kẻ địch mai phục. Tauri dẫn đầu, tay giơ cao chiếc lư hương như một kẻ lữ hành đêm muộn đang dò dẫm trong sương mù. Tôi dán chặt mắt vào những lọn tóc vàng của ông ấy, cố gắng phớt lờ sự run rẩy của những chiếc lá, tiếng răng rắc của cành cây, và trên hết là những góc cạnh phân mảnh kỳ dị của những thân cây nhợt nhạt.</p>
@@ -187,6 +189,8 @@
 <p class="para-en">He stepped forward, out into some greater space. I followed and squinted through the glass bulbs of my warding helm as he raised his mai-lantern.</p>
 
 <p class="para-vi-sub">Ông ấy bước về phía trước, tiến vào một khoảng không gian rộng lớn hơn. Tôi bám gót theo sau, nheo mắt nhìn qua những thấu kính thủy tinh của chiếc mũ bảo hộ khi ông ấy nâng cao chiếc đèn sâu mai lên.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">A dark underground lake stretched out before us, easily two leagues in breadth. There was no sign of light other than the lamp in Tauri’s hand. I looked up and could barely make out stone statues arrayed above us, like holy beings keeping watch over sacred waters. Many bore cups; others, ewers, or ladles, or bowls. Their faces were obscured by dust and loose soil, and many were half submerged in the detritus of some old collapse above. I could not comprehend who could have made them, or why these sculptors had ever come to this place. My skin crawled, and a mad thought wormed into my mind: This was to be left for shadow, and no more.</p>
 
@@ -316,6 +320,8 @@
 
 <p class="para-vi-sub">Chúng tôi cùng nhau tháo chạy theo con đường cũ, lách vào đường hầm và bò tiếp vào bóng tối. Thế nhưng khi đang bò, tôi dám thề rằng mình đã nghe thấy tiếng da thịt khô khốc của xác chết cọ xát vào đá ngay phía sau, như thể sinh vật kia vẫn đang truy đuổi chúng tôi, cố công dâng chiếc chén của nó lên tận môi chúng tôi.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">We exited into the rubble, panting and exhausted. Neither of us could speak aloud of what we’d witnessed. Like much of this place, like the forest itself, it defeated us. We could no more discuss it than a swallow could know all the winds of the skies.</p>
 
 <p class="para-vi-sub">Chúng tôi thoát ra ngoài đống đổ nát, thở dốc và kiệt sức. Cả hai đều không thể thốt nên lời trước những gì mình vừa chứng kiến. Giống như phần lớn những thứ thuộc về nơi này, giống như chính khu rừng kia, nó đã khuất phục chúng tôi. Chúng tôi chẳng thể nào bàn luận về nó, cũng như một con chim én không bao giờ có thể thấu hiểu hết mọi luồng gió trên bầu trời.</p>
@@ -343,6 +349,8 @@
 <p class="para-en">I kept laughing, unable to beat back the madness of it all. Tauri stared at me, his eyes wide with horror. Then he grabbed me by my collar and shook me until my senses returned. Together we continued out of the crumbling city, and back into the shivering seam of the wood.</p>
 
 <p class="para-vi-sub">Tôi vẫn tiếp tục cười, không thể đẩy lùi sự điên rồ đang bủa vây lấy tâm trí. Tauri trố mắt nhìn tôi, đôi mắt ông ấy giãn to vì kinh hoàng. Rồi ông ấy túm lấy cổ áo tôi, ra sức lay mạnh cho đến khi lý trí của tôi quay trở lại. Chúng tôi cùng nhau bước tiếp ra khỏi thành phố đổ nát, quay trở lại ranh giới run rẩy của cánh rừng.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">When we exited into the rolling plains of Lacanthim, both of us nearly burst into tears of relief. I ripped off my helm and cast it away, then sank to the earth, and fought the desire to take off my boots and cast them away, too. I wished to keep no part of me that had come close to those dark waters.</p>
 

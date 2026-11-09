@@ -132,6 +132,8 @@
 
 <p class="para-vi-sub">Cậu ấy cười cay đắng rồi không nói thêm lời nào nữa.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">As I entered the processing chamber, it took no time at all to see that Fotia and Ippeas’s discussion had tipped over into a full-blown row. Fotia was practically climbing over the table at him, snarling, “You trusted this goddamn mysterious note, Ip? You went trotting over to the Buravs’ after this oh-so-strangely-perfect note literally dropped in your lap?”</p>
 
 <p class="para-vi-sub">Khi tôi bước vào phòng lấy lời khai, chẳng mất nhiều thời gian để nhận ra cuộc trò chuyện giữa Fotia và Ippeas đã leo thang thành một trận cãi vã kịch liệt. Fotia gần như chồm qua cả mặt bàn về phía cậu ta, gầm lên: “Anh *tin* cái mảnh giấy bí ẩn quỷ quái này sao, Ip? Anh tung tăng mò sang tận nhà Burav chỉ vì cái thư tay hoàn hảo đến kỳ lạ này *suýt nữa* rơi tọt vào lòng anh à?”</p>
@@ -227,6 +229,8 @@
 <p class="para-en">“Today?” I said, sitting at the table. “Desperate.”</p>
 
 <p class="para-vi-sub">“Hôm nay ư?” Anh nói, kéo ghế ngồi xuống bàn. “Tuyệt vọng thực sự.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I described the case to them in detail: Ana’s suspicions, Tauri’s tremendous worries, and all the evidence that had piled up about us as we’d tried to glean a pattern within such slaughter. As I spoke, the more I realized how slight our story was: we had death, but no tangible sign of any killer, nor any concept of a motive.</p>
 

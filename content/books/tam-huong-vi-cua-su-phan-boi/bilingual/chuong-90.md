@@ -332,6 +332,8 @@
 
 <p class="para-vi-sub">“Cậu đến đúng vào thời khắc sinh tử thật đấy, anh bạn thân,” tôi nở một nụ cười rạng rỡ cất lời khi nhìn thấy bóng dáng Laven đang hiên ngang đứng trên chiếc mai sừng khổng lồ của cự quái, ngay sát bên cạnh khối quả trứng Cội Nguồn đang bừng sáng ánh ngọc lam huyền ảo.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -347,4 +349,3 @@
 <p class="para-en">God is dead. But her Terry is alive.</p>
 
 <p class="para-vi-sub">Thế nhưng Terry của cô thì vẫn còn sống trên cõi đời này.</p>
-

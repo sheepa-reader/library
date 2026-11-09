@@ -72,6 +72,8 @@
 
 <p class="para-vi-sub">Ông hất cằm về phía con đường nhỏ sau lưng tôi. Tôi quay đầu nhìn lại.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">To watch the girl riding down the lane to us was akin to glimpsing a fable of some storied champion bringing word of great threat. She did not merely sit in the destrier’s saddle, nor hold its reins, nor simply guide the beast: rather, the act of girl and steed were one, her long, lean body shifting with the pounding of the creature’s shimmering legs. Her black hair rippled behind her like a banner as they galloped, her dark eyes fierce and her shoulders tucked. The sight of her movement was so poised and immaculate, it made one imagine that if she ran out of land to ride upon, she might ride into the sky itself.</p>
 
 <p class="para-vi-sub">Tận mắt chứng kiến cô gái ấy phi ngựa dọc theo con đường mòn tiến về phía chúng tôi, tôi ngỡ như vừa thoáng thấy bóng hình trong truyền thuyết về một chiến binh lẫy lừng đang mang tin khẩn về mối hiểm họa khôn lường. Cô không đơn thuần chỉ ngồi trên yên chiến mã, cũng chẳng phải cầm dây cương hay điều khiển con thú theo cách thông thường; đúng hơn, cô gái và tuấn mã dường như đã hòa làm một thể, thân hình thanh mảnh, dong dỏng cao của cô nhấp nhô nhịp nhàng theo từng cú nện móng từ bốn cẳng chân bóng bẩy của con vật. Mái tóc đen nhánh của cô tung bay cuồn cuộn phía sau tựa lá cờ chiến khi cả hai phi nước đại, đôi mắt huyền sắc sảo đầy quyết liệt cùng bờ vai khép chặt gọn gàng. Từng chuyển động của cô đĩnh đạc và hoàn mỹ đến mức khiến người ta có cảm giác rằng, nếu mặt đất dưới chân có cạn cùng lối đi, cô cũng có thể phóng thẳng lên tận trời xanh.</p>

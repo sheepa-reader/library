@@ -88,6 +88,8 @@
 
 <p class="para-vi-sub">“Đó là một lời đe dọa hay một lời hứa hẹn thế?”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -335,4 +337,3 @@
 <p class="para-en">I joined my staff. “Here’s what we’re going to do.”</p>
 
 <p class="para-vi-sub">Tôi bước lại nhập hội cùng các nhân viên của mình. “Kế hoạch của chúng ta là thế này.”</p>
-

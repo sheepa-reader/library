@@ -88,6 +88,8 @@
 
 <p class="para-vi-sub">“Hử? À. Rất nhiều.” Bà hít một hơi, ngồi thẳng dậy và cố gượng một nụ cười. “Ta đã tìm ra mật mã mở căn hầm của gia tộc Burav, Din à. Và trong đó, ta đã phát hiện ra bằng chứng xác thực chứng minh tội lỗi của Jalin.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Another carriage ride, my fifth of the day. My back ached from the jostling, and the nerves within my neck yowled and complained, but I quieted the discomfort and leaned out the window, peering ahead as we approached our destination.</p>
 
 <p class="para-vi-sub">Lại một chuyến xe ngựa nữa, chuyến thứ năm trong ngày của tôi. Lưng tôi đau nhừ vì những cú xóc nảy, các dây thần kinh nơi cổ gào thét đòi nghỉ ngơi, nhưng tôi nén lại nỗi khó chịu rồi nhoài người ra ngoài cửa sổ, ngước nhìn về phía trước khi cỗ xe đang tiến gần đến đích.</p>
@@ -267,6 +269,8 @@
 <p class="para-en">I looked to Tauri, who nodded, shaken. I took the handle of the vault, and with a great heave, I pulled the door open and peered inside.</p>
 
 <p class="para-vi-sub">Tôi nhìn sang phía Tauri, ông ấy gật đầu trong nỗi bàng hoàng chưa tan. Tôi nắm lấy tay cầm của cánh cửa hầm, dồn hết sức bình sinh kéo tung cánh cửa ra rồi nhìn vào bên trong.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">On the other side of the door was not some treasury vault full of safes and chests containing jewels, or piles of talints. Instead, it was something like a library, with countless shelves filled with books, many of them terribly old to the point of crumbling. A set of glowing mai-lamps hung from the ceiling, and a desk was set below them, along with quills and ink and many parchments. Next to this desk were several dozen pots of sotwine—and there at the back were many crates that looked to be stuffed full of yet more pots. It seemed Burav had used this space as half library, half wine cellar.</p>
 

@@ -160,6 +160,8 @@
 
 <p class="para-vi-sub">“Đó là một chiếc piano tự động đấy,” Colin nói. “Cậu phải đạp bàn đạp thì nó mới tiếp tục chơi. Có nhiều cuộn giấy nhạc khác nhau, nếu cậu không thích Mozart. Tôi nghĩ ông nội thậm chí còn có vài cuộn boogie woogie.” Lúc này, Colin đã di chuyển ra sau một chiếc bàn chơi game phủ dạ màu xanh lá cây, trông chẳng khác nào ở một sòng bạc Châu Âu. Gã cầm một bộ bài và đang tráo bài bằng một tay theo kiểu biểu diễn ngón nghề hết sức xảo thuật. “Nào, bắt đầu thôi. Nếu tất cả chúng ta cùng tập trung, chúng ta hẳn sẽ chứng minh được sự tồn tại của ngoại cảm ESP trước khi chiếc bánh gia vị ra lò.” ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Donna and Van settled at opposite ends of the games table and tried to read each other’s minds. The Zener deck had symbols on the cards: a square, a circle, a star, some wiggly lines, a plus sign. Van would draw one and stare intently at it and Donna would tell him what she thought it was, while Colin kept a score of hits and misses on a notepad.</p>
 
 <p class="para-vi-sub">Donna và Van ngồi đối diện nhau ở hai đầu bàn chơi game và thử đọc suy nghĩ của nhau. Bộ bài Thấu thị Zener có các ký hiệu trên lá bài: hình vuông, hình tròn, ngôi sao, vài đường gợn sóng, dấu cộng. Van sẽ rút một lá và nhìn chằm chằm vào đó, còn Donna sẽ nói cho cậu biết cô nghĩ đó là hình gì, trong khi Colin ghi chép số lần đoán trúng và đoán sai vào một cuốn sổ tay.</p>
@@ -387,4 +389,3 @@
 <p class="para-en">Gwen called nine of the next twelve correctly, but Arthur didn’t need to draw another card to know that she could read him like a book.</p>
 
 <p class="para-vi-sub">Gwen đoán đúng chín trong số mười hai lá tiếp theo, nhưng Arthur chẳng cần phải rút thêm lá nào nữa cũng thừa biết cô có thể đọc thấu tâm trí anh như một cuốn sách mở.</p>
-

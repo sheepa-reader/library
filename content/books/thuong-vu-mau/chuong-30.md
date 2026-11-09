@@ -42,6 +42,8 @@ Bà bỗng chìm vào im lặng, đầu hơi cúi xuống. “Ta cảm thấy c�
 
 Thế nhưng…” Bà hướng ánh mắt về phía tôi, đôi đồng tử màu vàng rực sáng trên gương mặt xám xịt. “Nếu có thể, rốt cuộc ta sẽ cho cậu thấy, Din. Cậu xứng đáng nhận được câu trả lời đó. Bởi nhiệm vụ của cậu là gì, nếu không phải là nhìn thẳng vào những sự thật mà phần lớn thế gian thà ngó lơ? Có điều lúc này, ta thực sự chưa biết phải tính sao. Hãy nghỉ ngơi đi, nhóc, và cho ta một khoảng không gian để suy ngẫm về điều này.”
 
+<hr class="scene-break"/>
+
 Tôi ghé qua văn phòng Viện Orbiis trước khi liều mình ra ngoài tìm Fotia. Các sĩ quan của Tauri đang tích cực lau rửa toàn bộ trang thiết bị, bao gồm cả hỏa thương bánh xe và thương tê liệt Lypi, nhưng chính Tauri đã vội vã bước ra khi thấy tôi tiến lại gần, mái tóc ông ấy vẫn còn ướt sũng sau khi tẩy rửa.
 
 “Cậu đã cho bà ấy xem cuốn nhật ký chưa?” Ông ấy hỏi. “Bà ấy nói sao?”
@@ -91,6 +93,8 @@ Tôi dõi mắt nhìn theo bóng ông ấy rời đi, lòng trĩu nặng suy tư
 Ana đã căn dặn tôi một cách dứt khoát rằng không được làm điều này. Đối tượng này quá đỗi quan trọng, và cũng quá đỗi khôn ngoan.
 
 Tôi nuốt khan, quay người và bước đi.
+
+<hr class="scene-break"/>
 
 Tôi tìm em gái mình tại nhà ngục Lacanthim, nhưng Seriv thú nhận rằng em không ghé qua. “Cô ấy bảo rằng mình đang truy lùng một người lùa gia súc của gia tộc Burav,” ông ấy nói với tôi. “Tin rằng gã đó giờ đang sống ở phía nam. Cô ấy hừng hực quyết tâm làm việc đó, nhưng đến giờ vẫn chưa thấy quay lại.”
 

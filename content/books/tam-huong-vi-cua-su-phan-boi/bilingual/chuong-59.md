@@ -108,6 +108,8 @@
 
 <p class="para-vi-sub">Và tại chiếc bàn tiệc thứ mười, chiếc bàn bí mật nằm ở góc khuất sau cùng ấy, máu nóng trong toàn bộ huyết quản tôi bỗng chốc sôi sục gầm thét dữ dội khi đôi tai tôi nghe thấy Bậc thầy ẩm thực Apicius Beakka Ladwait đang thản nhiên đàm đạo cùng cựu Viện trưởng Học viện Ẩm thực Hoàng gia, Dyl Corzon.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -139,6 +141,8 @@
 <p class="para-en">“Careful, Yenne. It almost sounds like you’re interested.”</p>
 
 <p class="para-vi-sub">“Cẩn thận cái giọng điệu của cô đấy, Yenne à. Nghe cứ như thể cô đang cảm thấy vô cùng thích thú với những trò ma mãnh ấy vậy.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -211,4 +215,3 @@
 <p class="para-en">Still, I stood at the pass. If I strained hard enough, I could still trick myself into seeing Dyl as a corpse on the floor. The apicius rose from her seat, bowing to Empress Oshin before whispering something to Glayd. We still hadn’t heard from Auntie. Opportunity knocking, I withdrew my cleaver from its sheath and pushed through the kitchen door.</p>
 
 <p class="para-vi-sub">Bậc thầy ẩm thực Apicius Beakka Ladwait bỗng đứng bật dậy khỏi ghế tiệc, cung kính cúi đầu chào từ biệt Hoàng đế Oshin trước khi ghé sát tai thì thầm to nhỏ điều gì đó với Glayd Eto. Phía ngoài dinh thự hoàng gia, chúng tôi vẫn bặt vô âm tín, chưa nhận được bất kỳ tín hiệu báo an nào từ Dì Gynger. Nhận thấy thời cơ báo thù ngàn vàng rốt cuộc đã điểm, tôi lạnh lùng rút phắt thanh đao cưa đồ tể sau lưng ra khỏi bao và dứt khoát đẩy toang cánh cửa bếp bước thẳng ra ngoài đại sảnh.</p>
-

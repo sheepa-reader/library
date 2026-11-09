@@ -56,6 +56,8 @@
 
 <p class="para-vi-sub">Đầy vẻ sốt ruột và bực bội, nữ lưu trữ viên lạnh lùng lên tiếng ngắt lời: “Rõ ràng là sau đó anh đã thoát thân an toàn khỏi ngọn cổ thụ ấy rồi, vậy nên xin anh bớt cái giọng tự ti u sầu đó lại và kể tiếp diễn biến chính đi.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -127,4 +129,3 @@
 <p class="para-en">“Yeah, those. So you see, as I was sitting there doubting myself, and then realizing how to motivate myself, I started thinking about Cori and our future, and one thought led to another before I was recalling those tacos. That’s when the idea started to form.”</p>
 
 <p class="para-vi-sub">“Chính xác là chúng đấy. Thế nên cô thấy đấy, trong lúc tôi ngồi bó gối gặm nhấm nỗi hoài nghi bản thân, rồi chợt bừng tỉnh tìm ra cách vực dậy ý chí sinh tồn, tôi bắt đầu nghĩ về Cori và tương lai hòa bình của hai chúng tôi. Dòng suy tưởng cứ thế dẫn dắt từ ý niệm này sang ý niệm khác cho đến khi tôi nhớ lại trọn vẹn hương vị và cấu trúc của những chiếc bánh taco cá ấy. Và chính vào khoảnh khắc kỳ diệu đó, giải pháp hiển nhiên nhất bắt đầu thành hình trong tâm trí tôi.”</p>
-

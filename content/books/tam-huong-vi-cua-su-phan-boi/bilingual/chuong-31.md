@@ -116,6 +116,8 @@
 
 <p class="para-vi-sub">“Chúng ta sẽ xuất phát ngay khi bình minh vừa ló dạng,” Riv dứt khoát tuyên bố. “Tranh thủ chợp mắt lấy lại sức đi. Chúng ta sẽ mất tròn sáu ngày bay bằng dây trusser mới có thể đặt chân đến Ryespur, và đến ngày thứ ba, các cậu sẽ bắt đầu cảm thấy hai bả vai mình mỏi nhừ như rụng rời dù có ăn bao nhiêu Thực Phẩm Hành Trình đi chăng nữa. Đừng có dại dột mà cậy mạnh, tưởng rằng thể xác mình gánh nổi chuyện này. Hãy tinh giản hành lý gọn nhẹ nhất có thể. Khi chúng ta tiến vào những cánh rừng thông đỏ bạt ngàn, cả đoàn bắt buộc phải bay ở tầm cao tuyệt đối để né tránh lũ quái thú Wolphon săn mồi. Tin ta đi, các cậu tuyệt đối không muốn mang trên mình bất kỳ cân nặng dư thừa nào để rồi bị kéo sà xuống ngay giữa miệng những bầy quái thú khát máu đó đâu.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -147,4 +149,3 @@
 <p class="para-en">“Well, we are in a hurry.”</p>
 
 <p class="para-vi-sub">“Chà, bởi vì chúng ta đang phải chạy đua với thời gian đấy thôi.”</p>
-

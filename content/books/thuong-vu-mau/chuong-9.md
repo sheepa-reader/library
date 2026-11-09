@@ -36,6 +36,8 @@ Nét mặt ông giãn ra đôi chút. “Tất nhiên. Thằng bé Ippeas rất 
 
 Ông hất cằm về phía con đường nhỏ sau lưng tôi. Tôi quay đầu nhìn lại.
 
+<hr class="scene-break"/>
+
 Tận mắt chứng kiến cô gái ấy phi ngựa dọc theo con đường mòn tiến về phía chúng tôi, tôi ngỡ như vừa thoáng thấy bóng hình trong truyền thuyết về một chiến binh lẫy lừng đang mang tin khẩn về mối hiểm họa khôn lường. Cô không đơn thuần chỉ ngồi trên yên chiến mã, cũng chẳng phải cầm dây cương hay điều khiển con thú theo cách thông thường; đúng hơn, cô gái và tuấn mã dường như đã hòa làm một thể, thân hình thanh mảnh, dong dỏng cao của cô nhấp nhô nhịp nhàng theo từng cú nện móng từ bốn cẳng chân bóng bẩy của con vật. Mái tóc đen nhánh của cô tung bay cuồn cuộn phía sau tựa lá cờ chiến khi cả hai phi nước đại, đôi mắt huyền sắc sảo đầy quyết liệt cùng bờ vai khép chặt gọn gàng. Từng chuyển động của cô đĩnh đạc và hoàn mỹ đến mức khiến người ta có cảm giác rằng, nếu mặt đất dưới chân có cạn cùng lối đi, cô cũng có thể phóng thẳng lên tận trời xanh.
 
 Bất chấp nét thanh thoát tự nhiên ấy, cô vận y phục chẳng khác nào một người chăn gia súc bình thường, với đôi ủng da cao cổ và chiếc áo sơ mi bằng da thuộc nhẹ để bảo vệ hai cánh tay. Một con dao găm được cài bên hông, còn bên kia yên ngựa là một ngọn thương tê liệt Lypi đặt ngay ngắn trong bao. Gương mặt cô hằn rõ vẻ âu lo khi con chiến mã lao như tên bắn dọc theo lối mòn về phía chúng tôi, hai bên sườn nó lấm lem bùn đất, hơi thở phì phò dồn dập và nóng rực. Cô nhảy xuống ngựa trong chớp mắt, buộc dây cương vào cọc tiêu rồi vội vã rảo bước lại gần, đôi mắt sáng ngời dán chặt vào Trikao.

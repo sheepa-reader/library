@@ -34,6 +34,8 @@ Tôi nhìn Fotia. Em né tránh ánh mắt của tôi.
 
 “Bây giờ!” Ana giục. “Nói cho ta biết cậu đã tìm thấy những gì!”
 
+<hr class="scene-break"/>
+
 Tauri gà gật ở góc phòng trong lúc tôi báo cáo với Ana. Tay tôi luân phiên đưa lọ tinh dầu khai tâm và chiếc khăn tay hương bạc hà còn giữ trong túi lên mũi ngửi. Tôi cảm nhận rất rõ nỗi kinh hãi mơ hồ của Fotia khi tôi cất lời, tuôn ra mọi trải nghiệm của mình tựa như nọc độc đang được rút cạn khỏi tâm trí. Thật nản lòng làm sao khi trong tất thảy những điều kinh khủng chúng tôi đã chứng kiến suốt mấy ngày qua, một trong những phản ứng dữ dội nhất của em lại dành cho công việc thường nhật nhất của tôi.
 
 “Vậy là,” Ana khẽ nói khi tôi dứt lời. “Quả thực có nhiều hơn một kẻ sát nhân. Ít nhất là hai, nếu không muốn nói là nhiều hơn, một âm mưu thực sự. Nhưng ta tin rằng mình đang bắt đầu nhìn ra quy luật ở đây rồi! Bởi dù âm mưu này nhắm vào cả hai gia tộc, ít nhất hai thành viên trong số chúng lại không hoàn toàn đồng lòng! Một kẻ mắc nợ kẻ kia, chúng từng cầu xin sự tha thứ, ít nhất là theo một cách nào đó. Kẻ nhọc lòng cầu xin sự thứ tha là kẻ có nhiều kinh nghiệm nhất về mạng dẫn đường và đã chỉ dạy cho linh hồn khát máu kia mọi ứng dụng của nó. Tóm gọn tất cả trong một cuốn sổ tay nhỏ gọn gàng, như thể dạy một đứa trẻ tập gảy đàn lia chết tiệt vậy.” Bà chìa tay ra, và tôi đưa cuốn sổ nhỏ cho bà lật giở săm soi. “Thật kỳ quặc. Thế nhưng chúng hẳn phải cực kỳ khinh ghét lẫn nhau, nếu đã để lại những dòng ghi chú độc địa đến mức ấy cho nhau đọc…”
@@ -67,6 +69,8 @@ Fotia lắc đầu. “Tôi nghe nói Burav là một kẻ thích kiểm soát. 
 “Mẹ kiếp!” Ana giận dữ thốt lên. “Ta ghét mấy trò đố mẹo này đến mức nào chứ! Và ta không tài nào thoát khỏi cảm giác rằng hầm chứa của Burav đang cất giấu thứ gì đó cực kỳ bẩn thỉu. Hoặc nguy hiểm. Hoặc cả hai! Bởi lẽ ta ngày càng tin chắc rằng có điều gì đó thối rữa đến tận cùng trong di sản của nhà Burav…” Bà dò dẫm phía sau rồi rút ra một xấp tài liệu da dê, những ngón tay dính đầy mỡ để lại những vết vân tay mờ ảo. “…và hồ sơ phục vụ Đế quốc của Burilis Burav cho thấy ta đã đúng.”
 
 Bà hắng giọng, ấn những ngón tay dính mỡ lên tờ da dê rồi bắt đầu đọc.
+
+<hr class="scene-break"/>
 
 “Burilis Burav!” bà bắt đầu.
 
@@ -132,6 +136,8 @@ Tauri quay đôi mắt u buồn, thẫm tối về phía Ana. “Bà nghĩ thứ
 
 Ông ta lẩm bẩm một lát, dùng ngón tay quấn một lọn tóc màu vàng nhạt. “Dường như có quá nhiều điều đã bị phá vỡ rồi. Tôi đoán mình cũng có thể phá vỡ luôn quy tắc cấm thảo luận về chuyện này.”
 
+<hr class="scene-break"/>
+
 “Nhiều người nói khu rừng đó hoàn toàn không phải là một khu rừng,” Tauri bắt đầu. “Người dân vùng này quả quyết rằng nó che giấu một ngôi mộ, một hầm mộ, một nghĩa trang ngầm. Sự thật sẽ khiến họ thất vọng, hoặc ít nhất là sự thật mà tôi biết. Bởi vì tọa lạc ngay trung tâm của khu rừng bị biến đổi kia chính là một trong những Địa điểm Biến dạng của Đế quốc.”
 
 Tôi lặng người đi trước câu nói đó. Tôi không chắc điều gì đáng sợ hơn: ý nghĩ về một khu rừng chứa đựng một nghĩa trang huyền bí, hay một Địa điểm Biến dạng.
@@ -163,6 +169,8 @@ Chúng tôi im lặng hồi lâu. Chỉ có Ana chuyển động, bà khẽ lắ
 Fotia nhìn bà, vẻ mặt kinh hoàng. “Ý bà là, thưa Trưởng quan… thứ nằm bên dưới kia chính là thứ đã sát hại họ sao?”
 
 Ana quay mặt đi và không trả lời.
+
+<hr class="scene-break"/>
 
 “Hiện tại chúng ta chỉ còn lại vài con đường để đi tiếp,” Ana lên tiếng sau một hồi im lặng kéo dài, “một số ngả đường nghe có vẻ khả thi hơn những ngả còn lại.” Bà quay sang Fotia. “Cô Kol, cô đã đến gặp ta và cam kết sẽ hỗ trợ cuộc điều tra này bằng mọi cách có thể.”
 

@@ -32,6 +32,8 @@
 
 <p class="para-vi-sub">“Anh biết điều gì không?” Cô suýt bật cười thành tiếng. Đã bao lâu rồi cô chưa từng nở một nụ cười thực sự? Liệu cô đã từng cất tiếng cười khi không được sà vào vòng tay ấm áp của Terry hay chưa? “Lần này tôi sẽ tạm tha cho anh khỏi những câu hỏi dồn dập. Rõ ràng anh đang khéo léo dàn dựng câu chuyện hôm nay xoay quanh hôn lễ trọng đại của mình rồi. Hãy để câu chuyện ấy được kể trọn vẹn trước khi tôi bận tâm truy cứu thêm.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -76,6 +78,8 @@
 
 <p class="para-vi-sub">Đôi tay em bắt đầu luồn vào tháo từng chiếc cúc áo sơ mi của tôi: “Em có thể gợi ý cho anh vài cách tuyệt vời hơn nhiều đấy.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -83,6 +87,8 @@
 <p class="para-en">“Stop smiling,” the Butcher says. “You’re making it weird.” “I’ve rediscovered pleasure in love,” the archivist says with such sincerity the Butcher groans.</p>
 
 <p class="para-vi-sub">“Thôi đừng ngồi đó mà cười tủm tỉm một mình nữa,” Đồ Tể cất giọng ngắt lời. “Trông cô lúc này kỳ cục lắm đấy, Yenne.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -191,4 +197,3 @@
 <p class="para-en">“You,” I said before they could imply anything lesser. “Always you.”</p>
 
 <p class="para-vi-sub">“Là em,” tôi dịu dàng ngắt lời trước khi em kịp bông đùa ngụ ý tới bất kỳ điều gì khác kém thiêng liêng hơn thế. “Từ trước đến nay và mãi mãi về sau, động lực của anh lúc nào cũng là chính em.”</p>
-

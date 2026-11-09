@@ -52,6 +52,8 @@ Lúc này, nét mặt bà thoáng cứng lại. Đó là một nỗi u sầu c�
 
 “Bởi vì cậu ta cần phải tận mắt chứng kiến,” bà nói. “Và cậu cũng thế.” Bà bắt đầu rảo bước xuống lối mòn, vẫy tay ra hiệu xung quanh. “Nhưng ta sẽ nói cho cậu biết, đó là một ngôi mộ, Din ạ. Mà thực ra, toàn bộ Đế quốc này là một ngôi mộ, và cả lịch sử cũng vậy. Quá nhiều năm tháng trôi qua, quá nhiều cái chết. Chúng ta sống trong những ngôi mộ, bên trong những ngôi mộ, và chồng chất lên những ngôi mộ. Câu hỏi đặt ra là: làm thế nào để tìm đường thoát ra?”
 
+<hr class="scene-break"/>
+
 Đường ranh giới không gian ấy vẫn mang lại cảm giác bất an không kém gì lần trước, dù trong chuyến đột kích này, chúng tôi đã phần nào chắc chắn rằng con đường phía trước không có kẻ địch mai phục. Tauri dẫn đầu, tay giơ cao chiếc lư hương như một kẻ lữ hành đêm muộn đang dò dẫm trong sương mù. Tôi dán chặt mắt vào những lọn tóc vàng của ông ấy, cố gắng phớt lờ sự run rẩy của những chiếc lá, tiếng răng rắc của cành cây, và trên hết là những góc cạnh phân mảnh kỳ dị của những thân cây nhợt nhạt.
 
 Một điều Tauri từng nói giờ đây cứ đè nặng trong tâm trí tôi: *Thật kỳ lạ làm sao khi bị cuốn trôi vào một tạo tác được nhào nặn bởi một trí tuệ mà ta không cách nào thấu hiểu! Việc đó chẳng khác nào quan sát một bức thảm thêu rồi cố hình dung ra chiếc khung cửi đã dệt nên nó, để rồi rốt cuộc chỉ nhận lại sự bất lực hoàn toàn trước thực tại.*
@@ -93,6 +95,8 @@ Phải, nhưng… tôi nghĩ Burilis Burav từng đến đó một lần. Và �
 Tôi không rõ chúng tôi đã bò, leo và trườn qua đường hầm đó bao lâu. Có lẽ là hàng dặm đường, thậm chí là hàng chục dặm. Thế rồi Tauri đột ngột giảm tốc độ và thở dài đầy kinh ngạc. Tôi nghe tiếng ông ấy thì thầm: “Nó kết thúc rồi! Nhưng… nhưng liệu có thể…”
 
 Ông ấy bước về phía trước, tiến vào một khoảng không gian rộng lớn hơn. Tôi bám gót theo sau, nheo mắt nhìn qua những thấu kính thủy tinh của chiếc mũ bảo hộ khi ông ấy nâng cao chiếc đèn sâu mai lên.
+
+<hr class="scene-break"/>
 
 Một hồ nước ngầm tối tăm trải rộng ra trước mắt chúng tôi, bề ngang dễ chừng đến hai dặm. Chẳng có dấu hiệu nào của ánh sáng ngoại trừ ngọn đèn trên tay Tauri. Tôi ngước nhìn lên và chỉ lờ mờ nhận ra những bức tượng đá được xếp đặt phía trên đầu chúng tôi, tựa như những đấng thiêng liêng đang canh giữ dòng nước thánh. Nhiều pho tượng bưng chén; những bức khác lại cầm bình rót, gáo múc, hoặc bát lớn. Gương mặt của chúng bị bụi bặm cùng đất cát tơi xốp che khuất, và nhiều bức tượng đã ngập một nửa trong đống tàn tích vụn vỡ từ một vụ sụp đổ xưa cũ phía trên. Tôi không thể nào hiểu nổi ai đã tạc nên chúng, hay vì cớ gì những người thợ điêu khắc ấy lại từng đặt chân tới chốn này. Da gà tôi nổi khắp người, và một ý nghĩ điên rồ luồn lách vào tâm trí tôi: *Nơi này sinh ra là để mặc cho bóng tối ngự trị, không hơn không kém.*
 
@@ -158,6 +162,8 @@ Tiếng chân của sinh vật đó kéo lê sột soạt trên mặt đất khi
 
 Chúng tôi cùng nhau tháo chạy theo con đường cũ, lách vào đường hầm và bò tiếp vào bóng tối. Thế nhưng khi đang bò, tôi dám thề rằng mình đã nghe thấy tiếng da thịt khô khốc của xác chết cọ xát vào đá ngay phía sau, như thể sinh vật kia vẫn đang truy đuổi chúng tôi, cố công dâng chiếc chén của nó lên tận môi chúng tôi.
 
+<hr class="scene-break"/>
+
 Chúng tôi thoát ra ngoài đống đổ nát, thở dốc và kiệt sức. Cả hai đều không thể thốt nên lời trước những gì mình vừa chứng kiến. Giống như phần lớn những thứ thuộc về nơi này, giống như chính khu rừng kia, nó đã khuất phục chúng tôi. Chúng tôi chẳng thể nào bàn luận về nó, cũng như một con chim én không bao giờ có thể thấu hiểu hết mọi luồng gió trên bầu trời.
 
 Chúng tôi bắt đầu cuộc hành trình dài quay trở lại qua những đống đổ nát để tới căn lều bỏ hoang của gia tộc Burav. Đâu đó trên đường đi, tôi nhận ra mình đang cười một cách điên cuồng, không thể ngăn nổi những tiếng cười sằng sặc bật ra khỏi vành môi.
@@ -171,6 +177,8 @@ Chúng tôi bắt đầu cuộc hành trình dài quay trở lại qua những �
 “Ngài không nhớ sao? Bà ấy nói đó là tên gọi của Địa điểm Biến dạng của các ngài. Chén nung của thiên giới, nơi ngự trị của những tạo vật phụng sự vĩnh cửu mang hình hài thiên sứ! Thế nhưng trông họ có giống thiên sứ chút nào trong mắt ngài không?”
 
 Tôi vẫn tiếp tục cười, không thể đẩy lùi sự điên rồ đang bủa vây lấy tâm trí. Tauri trố mắt nhìn tôi, đôi mắt ông ấy giãn to vì kinh hoàng. Rồi ông ấy túm lấy cổ áo tôi, ra sức lay mạnh cho đến khi lý trí của tôi quay trở lại. Chúng tôi cùng nhau bước tiếp ra khỏi thành phố đổ nát, quay trở lại ranh giới run rẩy của cánh rừng.
+
+<hr class="scene-break"/>
 
 Khi chúng tôi thoát ra ngoài, đối mặt với những đồng bằng nhấp nhô của vùng Lacanthim, cả hai gần như đã bật khóc vì nhẹ nhõm. Tôi giật phăng chiếc mũ giáp của mình rồi ném nó đi thật xa, sau đó quỵ xuống nền đất, cố gắng kìm nén ham muốn lột phăng cả đôi ủng để vứt bỏ chúng đi. Tôi không muốn giữ lại bất kỳ phần nào trên cơ thể mình từng tiếp xúc gần với những dòng nước đen tối kia.
 

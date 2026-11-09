@@ -76,6 +76,8 @@
 
 <p class="para-vi-sub">Những dữ kiện chấn động mà ông ta vừa tiết lộ về việc cả nhóm chúng tôi hiện đang mang trên đầu lệnh truy nã gắt gao của Đế quốc khiến lồng ngực tôi bốc hỏa bực dọc: “Liệu mà nói ngắn gọn thôi!”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -167,4 +169,3 @@
 <p class="para-en">And with nothing else to say, they continue.</p>
 
 <p class="para-vi-sub">Và khi chẳng còn bất kỳ lời lẽ nào để tranh biện thêm nữa, dòng hồi ức của người Đồ Tể lại một lần nữa tiếp tục lăn bánh.</p>
-

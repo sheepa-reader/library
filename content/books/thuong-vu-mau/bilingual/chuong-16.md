@@ -60,6 +60,8 @@
 
 <p class="para-vi-sub">“Nhưng tôi không thấy ai trong gia tộc ở đây cả,” gã lầm bầm. “Không một ai! Có phải họ đều đã mất tích rồi không? Liệu có phải *tất cả* người nhà Burav thực sự đã bỏ mạng, chỉ trong một đêm duy nhất?”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Time passed, the hours obscured by smoke and ash. Every voice grew broken and hoarse, every eye tearful and red. The sun rose, its hue stained a queer, unsettling crimson. As it fought free of the smoggy horizon, I finished establishing the full breadth of the extensive Burav family present during the fire—just in time to mark nearly every one of them as missing, presumed dead.</p>
 
 <p class="para-vi-sub">Thời gian trôi đi, những giờ khắc bị che mờ bởi khói và tro tàn. Giọng nói của mọi người đều trở nên khàn đặc và đứt quãng, đôi mắt ai cũng đẫm lệ và đỏ ngầu. Mặt trời nhô lên, mang sắc đỏ thẫm kỳ dị đầy bất an. Khi vầng thái dương chật vật thoát khỏi đường chân trời mù mịt khói bụi, tôi cũng hoàn thành việc lập danh sách đầy đủ các thành viên đại gia đình Burav có mặt trong vụ hỏa hoạn, vừa vặn kịp lúc để gạch tên gần như tất cả bọn họ vào diện mất tích, được cho là đã chết.</p>
@@ -119,6 +121,8 @@
 <p class="para-en">“Witnesses. Surely one surviving set of eyes saw something of use.”</p>
 
 <p class="para-vi-sub">“Nhân chứng. Chắc chắn phải có một đôi mắt sống sót nào đó đã nhìn thấy điều gì đó hữu ích.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">It took another two hours, but eventually my theory proved correct: one of the kitchen girls was found recuperating in the stables, coughing madly and drinking draught after draught of water—though she mostly retched it up, likely from smoke poisoning.</p>
 
@@ -191,6 +195,8 @@
 <p class="para-en">I sighed, thanked him, and sped off to find Ana as the sun crawled into the sky.</p>
 
 <p class="para-vi-sub">Tôi thở dài, cảm ơn ông ấy rồi vội vã rời đi tìm Ana khi mặt trời bắt đầu nhô lên trên bầu trời.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I found her sitting in the main path of the Burav estate gardens, hunched and leaning among the blossoms and blooms. As I neared her, she called out, “Your gait is quite wearied, Din!”</p>
 
@@ -331,6 +337,8 @@
 <p class="para-en">“To how the fire killed the Buravs, sir.”</p>
 
 <p class="para-vi-sub">“Cho việc ngọn lửa đã sát hại gia tộc Burav thế nào, thưa ngài.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">The man sat huddled in the smoke and mist, clutching a cup of clar-tea and shivering. His beard was patched in places from fire, and his face and hands were badly burned, but the medikkers had already applied pastes and grafts to heal his wounds. As he drank his tea, I saw that his eyes were deeply dilated: they’d given him sedatives, I estimated. Probably katapra. I would only get an hour or so of use of him.</p>
 

@@ -152,6 +152,8 @@
 
 <p class="para-vi-sub">“Ừ,” Gwen đồng tình. “Giống thế đấy.” ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">They arranged themselves on the floor of the server room, at Gwen’s feet, while Gwen slept. She had dozed off almost the moment she hit the chair.</p>
 
 <p class="para-vi-sub">Họ sắp xếp chỗ ngồi trên sàn phòng máy chủ, ngay dưới chân Gwen, trong lúc cô đang ngủ. Cô đã thiếp đi gần như ngay khoảnh khắc đặt lưng xuống chiếc ghế.</p>
@@ -268,6 +270,8 @@
 
 <p class="para-vi-sub">Allie ngồi xuống. Và khi Donna nắm lấy tay cô, Allie đã để mặc cho cô ta làm thế.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Allie left just before four, closed the door behind her, and turned off the light in the conference room. The others sat together in the whirring dark. Gwen snored. Tana smelled blood. Sick blood, a whiff of something coppery and rancid. Around four thirty her son sent her a text.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Allie rời đi ngay trước bốn giờ, khép cánh cửa lại đằng sau lưng, rồi tắt đèn trong phòng họp. Những người còn lại ngồi quây quần trong bóng tối với tiếng máy móc vo ve. Gwen ngửi thấy mùi máu. Mùi máu tanh tưởi, một chút gì đó thoang thoảng mùi đồng và thối rữa. Khoảng bốn giờ rưỡi, con trai Tana nhắn tin đến.</p>
@@ -367,4 +371,3 @@
 <p class="para-en">“Human shield,” Tana replied.</p>
 
 <p class="para-vi-sub">“Làm khiên đỡ đạn,” Tana đáp gọn lỏn.</p>
-

@@ -10,6 +10,8 @@ Tôi đã ngủ.
 
 Rồi bức màn tăm tối vén lên, và tôi thấy mình đang đứng sững giữa căn phòng của chính mình.
 
+<hr class="scene-break"/>
+
 Tôi chớp mắt.
 
 Tôi nhìn quanh. Dù không thể lý giải nổi, nhưng mọi chuyện dường như hoàn toàn là thật: Tôi đang đứng đó, chỉ mặc độc chiếc quần lót ngay trong căn phòng của mình tại Quán Người Chăn Bò Xanh, đăm đăm nhìn vào bức tường trống không. Ánh trăng len lỏi qua các khe cửa chớp, những tấm ga trải giường bằng giấy dương xỉ hơi xáo trộn phía sau lưng. Tôi chỉ có một mình.
@@ -63,6 +65,8 @@ Tôi nhìn sang bên cạnh, và giữa những vệt bóng đen đang cuộn xo
 *Quần áo. Mùi của những bộ quần áo cũ, những chiếc áo choàng và váy đầm cất trong chiếc tủ cũ kỹ, nơi mọi thứ đều chật hẹp, tối tăm nhưng an toàn tuyệt đối.*
 
 Tôi bừng tỉnh.
+
+<hr class="scene-break"/>
 
 Tôi đứng đó, thở dốc trong bóng tối. Đó không phải sự ngưng đọng hư ảo nơi căn phòng của chính tôi, nơi tĩnh lặng ngập tràn ánh trăng lung linh, mà là trong phòng của Tauri tại văn phòng Viện Orbiis. Tôi nghe thấy tiếng những người lùa gia súc cất tiếng hát từ những con phố phía xa, và ngọn gió đêm đang lướt qua bức tường phủ đầy Dây leo Fretvine.
 

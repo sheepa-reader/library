@@ -216,6 +216,8 @@
 
 <p class="para-vi-sub">Tôi cảm ơn ông, nhờ ông thực hiện việc đó, rồi cùng Thủ lĩnh Seriv bước vào nhà giam.</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">“We’ve young Castus in the common cells,” said Seriv as we entered the passages of the jail. “He’s not said a word yet, though he was a chatty thing before. Perhaps he’s had some affliction of the brain that’s driven him to do this, and it affects him still.”</p>
 
 <p class="para-vi-sub">“Chúng tôi đang giam giữ Castus trẻ tuổi trong các buồng giam chung,” Seriv nói khi chúng tôi bước vào những lối hành lang âm u của nhà giam. “Cậu ta chưa hé răng lấy một lời, dù trước đây vốn là một kẻ khá hoạt ngôn. Có lẽ cậu ta đã mắc phải chứng tổn thương não bộ nào đó thúc đẩy bản thân làm ra nông nỗi này, và sự điên rồ ấy vẫn chưa buông tha cậu ta.”</p>
@@ -295,6 +297,8 @@
 <p class="para-en">“A flensing knife, for work in the flensing halls.” He wrapped it up and placed it back in his bag. “Where all the arts of butchery are put to thousands of cattle carcasses, to make flesh for the inner rings to dine upon. A dark thing that this was used upon the scion of a ranching house—true?”</p>
 
 <p class="para-vi-sub">“Một con dao lột da chuyên dụng trong các xưởng mổ gia súc.” Ông ấy bọc con dao lại rồi nhét trả vào túi. “Nơi mọi kỹ nghệ mổ xẻ dã man nhất được áp dụng trên hàng ngàn cái xác gia súc, xẻ thịt cung cấp cho bàn ăn của tầng lớp quý tộc tại các vòng thành nội. Thật là một điềm u ám dơ bẩn khi một công cụ như thế lại được dùng lên thân thể kẻ kế thừa của một gia tộc chủ trang trại, chẳng phải sao?”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">Castus Armenta was locked in the first cell in the passage. He sat in the corner, head bowed, back slumped. He was wearing an old linen shirt and breeches, and from the fit they must have once belonged to someone else, for Castus was practically swimming in their sleeves. I guessed his other clothes had been too bloodied.</p>
 
@@ -619,6 +623,8 @@
 <p class="para-en">“I don’t want to be out of this cell.” He turned his eyes on me, so wide and despondent. “I don’t want to go back into…into the world I knew, and know for every minute that she’s gone, that I might have killed her. Might have butchered her just as I did so many livestock. That’s not a world I wish to know. So I shall take any escape offered. Even the noose.”</p>
 
 <p class="para-vi-sub">“Tôi không muốn bước chân ra khỏi phòng giam này nữa.” Cậu ấy hướng đôi mắt về phía tôi, đôi mắt mở to đầy tuyệt vọng. “Tôi không muốn quay trở lại… trở lại thế giới mà tôi từng biết, để rồi từng phút từng giây đều phải ý thức được rằng cô ấy đã ra đi, và rằng chính tôi có thể đã giết cô ấy. Có thể đã xẻ thịt cô ấy giống như cách tôi đã làm với biết bao gia súc. Đó không phải là một thế giới mà tôi muốn sống. Vì vậy, tôi sẽ đón nhận bất kỳ sự giải thoát nào được ban phát. Kể cả thòng lọng.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I left him there in his cell. I did not say goodbye: such was his sorrow that a polite gesture felt cruel, somehow. Then I stood in the central chamber, lost in my thoughts.</p>
 

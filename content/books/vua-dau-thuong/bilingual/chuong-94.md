@@ -160,6 +160,8 @@
 
 <p class="para-vi-sub">“Đưa cô ta lên xe,” Patrick quay sang ra lệnh cho Salem và Lansing, rồi tự mình trèo lên ghế trước chiếc xe jeep. ✦  ✦  ✦</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">When the jeep was moving, the wind roared, and had an especially icy bite. Donna didn’t mind, liked the sharpness of it, the way it tore at her hair. As they raced across the vast expanses of blacktop, she saw that the compound was not quite desolate after all. There was an airfield with Apache attack helicopters—two of them—behind a line of hangars. In another open hangar she glimpsed a Humvee, with a big machine gun mounted on a turret in the back.</p>
 
 <p class="para-vi-sub">Khi chiếc xe jeep rồ ga lăn bánh, gió biển rít lên từng hồi dữ dội, mang theo cái lạnh buốt xương như dao cứa vào da thịt. Donna chẳng hề bận tâm, ngược lại cô còn tận hưởng cơn buốt giá sắc lẹm ấy, tận hưởng cái cách luồng gió thốc tung mái tóc mình. Khi chiếc xe lao vun vút qua những dải đường nhựa mênh mông, cô nhận ra căn cứ này không hề hoang tàn như mắt thấy ban đầu. Có một phi đạo trực thăng với hai chiếc trực thăng tấn công Apache đậu khuất sau dãy nhà chứa máy bay. Ở một nhà vòm mở cửa khác, cô thoáng thấy một chiếc xe bọc thép Humvee gắn khẩu đại liên hạng nặng trên bệ xoay phía sau.</p>
@@ -207,6 +209,8 @@
 <p class="para-en">She nodded and said, “It won’t be enough.”</p>
 
 <p class="para-vi-sub">Cô gật đầu mỉa mai: “Từng đó thứ vẫn chưa đủ để cứu mạng tụi mày đâu.” ✦  ✦  ✦</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">He laughed again.</p>
 
@@ -407,4 +411,3 @@
 <p class="para-en">“All hail the King,” he said.</p>
 
 <p class="para-vi-sub">“Vua Đau Thương Vạn Tuế,” anh nói.</p>
-

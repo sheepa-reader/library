@@ -6,11 +6,11 @@
 
 <p class="para-en">Phoebe takes the Mercedes alone to the Breakers. The ride is so beautiful, and stocked with so much champagne, that even without the bride, it still feels like an event. Phoebe studies the mansions along the way and wonders how many of the people living in them are happy. She wonders what they wish for when they wish for different lives. She wonders if this is why she has always been interested in nineteenth-century novels about rich people—it’s a giant human experiment. It asks the question: What does a person still need once a person has everything? What does a bride still desperately lack as she stands in the lobby just before her big, beautiful wedding?</p>
 
-<p class="para-vi-sub">Phoebe một mình lái chiếc Mercedes đến The Breakers. Chuyến đi thật đẹp, lại được chuẩn bị sẵn biết bao nhiêu là champagne, nên dù vắng bóng cô dâu, nó vẫn mang dáng vẻ của một sự kiện lớn. Phoebe ngắm nhìn những căn biệt thự dọc đường và tự hỏi có bao nhiêu người sống trong đó thực sự hạnh phúc. Cô tự hỏi họ ước điều gì khi mong cầu một cuộc đời khác. Cô tự hỏi phải chăng đó là lý do vì sao cô luôn hứng thú với những cuốn tiểu thuyết thế kỷ XIX viết về người giàu, bởi chúng chẳng khác nào một thí nghiệm nhân loại khổng lồ. Nó đặt ra câu hỏi: Một con người vẫn cần đến điều gì khi họ đã có trong tay tất cả? Một cô dâu vẫn còn khao khát thiếu thốn thứ gì khi đứng ở sảnh đường ngay trước lễ cưới lộng lẫy của đời mình?</p>
+<p class="para-vi-sub">Phoebe một mình lái chiếc Mercedes đến Dinh thự The Breakers. Chuyến đi thật đẹp, lại được chuẩn bị sẵn biết bao nhiêu là champagne, nên dù vắng bóng cô dâu, nó vẫn mang dáng vẻ của một sự kiện lớn. Phoebe ngắm nhìn những căn biệt thự dọc đường và tự hỏi có bao nhiêu người sống trong đó thực sự hạnh phúc. Cô tự hỏi họ ước điều gì khi mong cầu một cuộc đời khác. Cô tự hỏi phải chăng đó là lý do vì sao cô luôn hứng thú với những cuốn tiểu thuyết thế kỷ XIX viết về giới thượng lưu, bởi chúng chẳng khác nào một thí nghiệm nhân loại khổng lồ. Nó đặt ra câu hỏi: Một con người vẫn cần đến điều gì khi họ đã có trong tay tất cả? Một cô dâu vẫn còn khao khát thiếu thốn thứ gì khi đứng ở sảnh đường ngay trước lễ cưới lộng lẫy của đời mình?</p>
 
 <p class="para-en">It’s Phoebe who walks down the aisle to tell Gary. Phoebe makes sure to look at him the entire time. It’s tempting to look at the ocean behind him, but she doesn’t want to be a coward. She doesn’t want to hide from his eyes or leave him alone in this moment. He searches her face for some kind of information, even though he must already know. Why else would Phoebe be the one walking down the aisle?</p>
 
-<p class="para-vi-sub">Chính Phoebe là người bước đi trên lối đi giữa lễ đường để báo tin cho Gary. Phoebe tự nhủ phải nhìn thẳng vào anh trong suốt quãng đường đó. Quả thực rất hấp dẫn nếu nhìn ra khung cảnh đại dương phía sau anh, nhưng cô không muốn làm kẻ hèn nhát. Cô không muốn trốn tránh ánh mắt anh hay để anh cô độc trong khoảnh khắc này. Anh dò xét khuôn mặt cô để tìm kiếm thông tin nào đó, dù chắc hẳn anh đã ngầm đoán trước. Bằng không, lý do gì khiến Phoebe lại là người bước lên lễ đường?</p>
+<p class="para-vi-sub">Chính Phoebe là người bước đi trên lối đi giữa lễ đường để báo tin cho Gary. Phoebe tự nhủ phải nhìn thẳng vào anh trong suốt quãng đường đó. Quả thực rất hấp dẫn nếu phóng tầm mắt ra khung cảnh đại dương phía sau anh, nhưng cô không muốn làm kẻ hèn nhát. Cô không muốn trốn tránh ánh mắt anh hay để anh cô độc trong khoảnh khắc này. Anh dò xét khuôn mặt cô để tìm kiếm thông tin nào đó, dù chắc hẳn anh đã ngầm đoán trước. Bằng không, lý do gì khiến Phoebe lại là người bước lên lễ đường?</p>
 
 <p class="para-en">“Lila is not coming,” she whispers when she is at his side.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-en">And of course, of course. He nods his head with the stoicism of a soldier who has just been shot. It seems the man will go down without a single expression. He nods, looks at his shoes, nods again and again, like now he’s just watching the blood drip to the floor.</p>
 
-<p class="para-vi-sub">Và phải rồi, tất nhiên là thế. Anh gật đầu với sự kiên cường của một người lính vừa dính đạn. Có vẻ như người đàn ông này sẽ ngã xuống mà chẳng thốt ra một tiếng kêu hay biểu lộ cảm xúc nào. Anh gật đầu, nhìn xuống đôi giày của mình, rồi lại gật đầu hết lần này đến lần khác, cứ như lúc này anh chỉ đang đứng nhìn dòng máu nhỏ xuống sàn nhà.</p>
+<p class="para-vi-sub">Và phải rồi, tất nhiên là thế. Anh gật đầu với sự kiên cường của một người lính vừa trúng đạn. Có vẻ như người đàn ông này sẽ ngã xuống mà chẳng thốt ra một tiếng kêu hay biểu lộ cảm xúc nào. Anh gật đầu, nhìn xuống đôi giày của mình, rồi lại gật đầu hết lần này đến lần khác, cứ như lúc này anh chỉ đang đứng nhìn dòng máu nhỏ xuống sàn nhà.</p>
 
 <p class="para-en">Phoebe turns around. Surely the wedding people know now, too. But someone has to say it aloud and make it official.</p>
 
@@ -26,7 +26,7 @@
 
 <p class="para-en">“Lila and Gary will not be getting married today,” Phoebe says. It is good practice, speaking with finality. Being direct. Saying the hard truths in front of the wedding people. Phoebe wants to get better at that. Phoebe will get better at that. Phoebe knows this is the only way she wants to live. She must say the terrible thing, even when it’s hard. She must think the terrible thing, even when it’s scary. “She thanks you all for your support and love, the time and money it took for you to get here.”</p>
 
-<p class="para-vi-sub">“Lila và Gary sẽ không kết hôn ngày hôm nay,” Phoebe nói. Thật tốt khi được tập luyện cách nói năng dứt khoát. Trở nên thẳng thắn. Thốt lên những sự thật phũ phàng ngay trước mặt những người dự đám cưới. Phoebe muốn làm tốt hơn điều đó. Phoebe nhất định sẽ làm tốt hơn điều đó. Phoebe hiểu rằng đây là cách duy nhất cô muốn sống. Cô phải nói ra điều khủng khiếp, ngay cả khi nó rất khó khăn. Cô phải đối mặt với suy nghĩ đáng sợ, ngay cả khi nó khiến cô hoảng hốt. “Cô ấy cảm ơn tất cả mọi người vì sự ủng hộ và tình yêu thương, cùng thời gian và tiền bạc mà mọi người đã bỏ ra để có mặt ở đây.”</p>
+<p class="para-vi-sub">“Lila và Gary sẽ không kết hôn ngày hôm nay,” Phoebe nói. Thật tốt khi được tập luyện cách nói năng dứt khoát. Trở nên thẳng thắn. Thốt lên những sự thật phũ phàng ngay trước mặt những người dự đám cưới. Phoebe muốn làm tốt hơn điều đó. Phoebe nhất định sẽ làm tốt hơn điều đó. Phoebe hiểu rằng đây là cách duy nhất cô muốn sống. Cô phải nói ra điều khó khăn, ngay cả khi nó không dễ dàng gì. Cô phải đối mặt với suy nghĩ đáng sợ, ngay cả khi nó khiến cô hoảng hốt. “Cô ấy cảm ơn tất cả mọi người vì sự ủng hộ và tình yêu thương, cùng thời gian và tiền bạc mà mọi người đã bỏ ra để có mặt ở đây.”</p>
 
 <p class="para-en">The crowd murmurs. Phoebe wonders how much they all spent. She wonders how many times Uncle Jim and Aunt Gina will say, “Five grand! Five grand just to watch someone not get married!” all the way to the airport.</p>
 
@@ -38,7 +38,7 @@
 
 <p class="para-en">“At the hotel,” Phoebe says. She imagines Lila in the bridal suite, slowly undressing until she is no longer a bride. “But then she’s going to Canada.”</p>
 
-<p class="para-vi-sub">“Ở khách sạn,” Phoebe đáp. Cô hình dung ra cảnh Lila trong phòng tân hôn, đang chậm rãi cởi bỏ từng món đồ cho đến khi không còn là một cô dâu nữa. “Nhưng sau đó cô ấy sẽ đi Canada.”</p>
+<p class="para-vi-sub">“Ở khách sạn ạ,” Phoebe đáp. Cô hình dung ra cảnh Lila trong phòng tân hôn, đang chậm rãi cởi bỏ từng món đồ cho đến khi không còn là một cô dâu nữa. “Nhưng sau đó em ấy sẽ đi Canada.”</p>
 
 <p class="para-en">“Canada?” Suz asks.</p>
 
@@ -50,11 +50,13 @@
 
 <p class="para-en">By the time Phoebe answers all the wedding people’s questions, the same questions they would have had about Phoebe if she killed herself (But did she say why? Did she leave a note? What was she <i>thinking</i>?), Gary is gone. Gary has left the Breakers. He must have slipped out the other door. He must be feeling something terrible, but what? Phoebe wants to follow him through the door, comfort him, be with him forever, but it doesn’t feel like her place to chase after him. It’s too soon.</p>
 
-<p class="para-vi-sub">Đến khi Phoebe trả lời hết những câu hỏi từ những người dự đám cưới, cũng là những câu hỏi mà họ từng dành cho Phoebe nếu cô thực sự tự kết liễu đời mình (Nhưng cô ấy có nói lý do không? Cô ấy có để lại thư tuyệt mệnh không? Cô ấy đang <i>nghĩ</i> cái quái gì vậy?), thì Gary đã biến mất. Gary đã rời khỏi The Breakers. Chắc chắn anh đã lẻn đi bằng cánh cửa khác. Hẳn anh đang cảm thấy tột cùng đau đớn, nhưng cụ thể là thế nào? Phoebe rất muốn đuổi theo anh qua cánh cửa đó, an ủi anh, ở bên anh mãi mãi, nhưng cô thấy mình không có tư cách để chạy theo anh vào lúc này. Mọi thứ diễn ra quá sớm.</p>
+<p class="para-vi-sub">Đến khi Phoebe trả lời hết những câu hỏi từ những người dự đám cưới, cũng là những câu hỏi mà họ từng dành cho Phoebe nếu cô thực sự tự kết liễu đời mình (Nhưng cô ấy có nói lý do không? Cô ấy có để lại thư tuyệt mệnh không? Cô ấy đang <i>nghĩ</i> cái quái gì vậy?), thì Gary đã biến mất. Gary đã rời khỏi Dinh thự The Breakers. Chắc chắn anh đã lẻn đi bằng cánh cửa khác. Hẳn anh đang cảm thấy tột cùng đau đớn, nhưng cụ thể là thế nào? Phoebe rất muốn đuổi theo anh qua cánh cửa đó, an ủi anh, ở bên anh mãi mãi, nhưng cô thấy mình không có tư cách để chạy theo anh vào lúc này. Mọi thứ diễn ra quá sớm.</p>
 
 <p class="para-en">And there is Matt, standing in the aisle waiting for her. They wait until all the wedding people file out of the Great Hall, just as they waited on their own wedding day. Then Matt and Phoebe get into the ordinary car like husband and wife.</p>
 
 <p class="para-vi-sub">Và kìa Matt, anh đang đứng đợi cô ở lối đi giữa lễ đường. Họ chờ đợi cho đến khi tất cả những người dự đám cưới lần lượt rời khỏi Đại sảnh, hệt như cách họ từng chờ đợi trong ngày cưới của chính mình. Sau đó, Matt và Phoebe bước lên chiếc xe bình thường như bao cặp vợ chồng khác.</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">“<span class="caps">S</span><small>O</small>, <small>WHAT HAPPENED</small> to the bride?” Matt asks in the Mercedes.</p>
 
@@ -78,11 +80,11 @@
 
 <p class="para-en">It is her fantasy, finally playing itself out. She is leaving him. But it doesn’t feel like her fantasy because he has already left her. And when she says it, he doesn’t shout “No!” and she is glad for it. She doesn’t want him to be upset by this. She doesn’t want this to feel like an Ibsen play. She wants him to just say, Okay. I understand. For the first time since he left her, she wants him to actually be okay. And this feeling of goodwill—it’s a promising sign.</p>
 
-<p class="para-vi-sub">Đó chính là giấc mơ của cô, cuối cùng cũng được diễn ra ngoài đời thực. Cô đang rời bỏ anh. Nhưng cảm giác lại chẳng giống một giấc mơ của cô chút nào, bởi anh đã rời bỏ cô từ trước rồi. Và khi cô nói câu đó, anh không hề gào lên “Không!” và cô thấy thật nhẹ nhõm vì điều đó. Cô không muốn anh buồn phiền vì chuyện này. Cô không muốn mọi thứ mang màu sắc của một vở kịch Ibsen. Cô chỉ muốn anh nói rằng, Được thôi. Anh hiểu rồi. Lần đầu tiên kể từ khi anh rời bỏ cô, cô thực sự muốn anh cảm thấy ổn. Và cảm giác thiện chí này quả là một dấu hiệu tốt lành.</p>
+<p class="para-vi-sub">Đó chính là giấc mơ của cô, cuối cùng cũng được diễn ra ngoài đời thực. Cô đang rời bỏ anh. Nhưng cảm giác lại chẳng giống một giấc mơ của cô chút nào, bởi anh đã rời bỏ cô từ trước rồi. Và khi cô nói câu đó, anh không hề gào lên: “Không!”, và cô thấy thật nhẹ nhõm vì điều đó. Cô không muốn anh buồn phiền vì chuyện này. Cô không muốn mọi thứ mang màu sắc của một vở kịch Ibsen. Cô chỉ muốn anh nói rằng: Được thôi. Anh hiểu rồi. Lần đầu tiên kể từ khi anh rời bỏ cô, cô thực sự muốn anh cảm thấy ổn. Và cảm giác thiện chí này quả là một dấu hiệu tốt lành.</p>
 
 <p class="para-en">“I was worried you would say that,” Matt says. He asks her a series of reasonable questions like, Are you ever coming back? What are you going to do?</p>
 
-<p class="para-vi-sub">“Anh đã lo là em sẽ nói thế,” Matt nói. Anh hỏi cô một loạt câu hỏi rất thực tế như, Thế em có bao giờ quay lại không? Em định làm gì tiếp theo?</p>
+<p class="para-vi-sub">“Anh đã lo là em sẽ nói thế,” Matt nói. Anh hỏi cô một loạt câu hỏi rất thực tế như: Thế em có bao giờ quay lại không? Em định làm gì tiếp theo?</p>
 
 <p class="para-en">“I’m going to go on medical leave,” Phoebe says, “assuming adjuncts can do that.”</p>
 
@@ -98,7 +100,7 @@
 
 <p class="para-en">“I’m sure Bob will be like, Well, turns out, adjuncts aren’t allowed to receive medical treatment,” Phoebe says.</p>
 
-<p class="para-vi-sub">“Em chắc chắn là Bob sẽ kiểu như, À hóa ra giảng viên thỉnh giảng không được phép chữa bệnh đâu nhé,” Phoebe nói.</p>
+<p class="para-vi-sub">“Em chắc chắn là Bob sẽ kiểu như: À hóa ra giảng viên thỉnh giảng không được phép chữa bệnh đâu nhé,” Phoebe nói.</p>
 
 <p class="para-en">“Turns out, adjuncts have to pay the administration a small fee every time they get sick.” He reaches out for her hand. “I love you.”</p>
 
@@ -110,7 +112,7 @@
 
 <p class="para-en">He looks out the window while she tells him what she wants—to sell the house, to live in the nineteenth-century mansion and write.</p>
 
-<p class="para-vi-sub">Anh nhìn ra ngoài cửa sổ trong lúc cô nói cho anh biết những dự định của mình - muốn bán ngôi nhà đi, muốn sống trong một căn biệt thự thế kỷ XIX và viết lách.</p>
+<p class="para-vi-sub">Anh nhìn ra ngoài cửa sổ trong lúc cô nói cho anh biết những dự định của mình, muốn bán ngôi nhà đi, muốn sống trong một căn biệt thự thế kỷ XIX và viết lách.</p>
 
 <p class="para-en">“Write what?” he asks. “Your book?”</p>
 
@@ -134,11 +136,11 @@
 
 <p class="para-en">“Why?” Phoebe says. “I don’t care if you cry.”</p>
 
-<p class="para-vi-sub">“Sao phải thế?” Phoebe nói. “Em chẳng quan tâm nếu anh khóc đâu.”</p>
+<p class="para-vi-sub">“Sao phải thế?” Phoebe nói. “Em chẳng bận tâm nếu anh khóc đâu.”</p>
 
 <p class="para-en">“I care,” he says. “You know I look like shit when I cry.”</p>
 
-<p class="para-vi-sub">“Anh quan tâm chứ,” anh đáp. “Em biết trông anh thảm hại thế nào khi khóc mà.”</p>
+<p class="para-vi-sub">“Anh bận tâm chứ,” anh đáp. “Em biết trông anh thảm hại thế nào khi khóc mà.”</p>
 
 <p class="para-en">“I’m not sure I ever really saw you cry.”</p>
 
@@ -146,7 +148,7 @@
 
 <p class="para-en">“That can’t be true.”</p>
 
-<p class="para-vi-sub">“Chuyện đó là sao được.”</p>
+<p class="para-vi-sub">“Chuyện đó làm sao được.”</p>
 
 <p class="para-en">“It is.”</p>
 
@@ -162,7 +164,7 @@
 
 <p class="para-en">The analysis of his own tears has calmed him. Brought him out of his emotions and into his brain. That’s where her husband likes to be. That’s where he’s comfortable. But Phoebe can’t live there anymore. Phoebe wants to be in her body. She wants to enjoy this beautiful dress. And her side bang. She almost forgot. She is embarrassed by how much of a difference it makes. But it’s the small things. She leans over and grabs the champagne. Pops the bottle open. Why not? Nobody is going to drink it now, except them.</p>
 
-<p class="para-vi-sub">Việc phân tích những giọt nước mắt của chính mình đã làm anh bình tĩnh lại. Kéo anh ra khỏi cảm xúc và trở về với lý trí. Đó là nơi chồng cô thích trú ngụ. Đó là nơi anh cảm thấy thoải mái nhất. Nhưng Phoebe không thể sống ở đó thêm được nữa. Phoebe muốn sống trọn vẹn trong cơ thể mình. Cô muốn tận hưởng chiếc váy lộng lẫy này. Và cả lọn tóc mái lệch nữa. Suýt chút nữa cô quên mất. Cô thấy ngượng ngùng vì nó lại tạo ra sự khác biệt lớn nhường ấy. Nhưng chính những điều nhỏ nhặt ấy mới quan trọng. Cô chồm tới và với lấy chai champagne. Bật nắp chai. Tại sao lại không cơ chứ? Giờ thì chẳng ai uống nó nữa ngoài họ.</p>
+<p class="para-vi-sub">Việc phân tích những giọt nước mắt của chính mình đã làm anh bình tĩnh lại. Kéo anh ra khỏi cảm xúc và trở về với lý trí. Đó là nơi chồng cũ thích trú ngụ. Đó là nơi anh cảm thấy thoải mái nhất. Nhưng Phoebe không thể sống ở đó thêm được nữa. Phoebe muốn sống trọn vẹn trong cơ thể mình. Cô muốn tận hưởng chiếc váy lộng lẫy này. Và cả lọn tóc mái xéo nữa. Suýt chút nữa cô quên mất. Cô thấy ngượng ngùng vì nó lại tạo ra sự khác biệt lớn nhường ấy. Nhưng chính những điều nhỏ nhặt ấy mới quan trọng. Cô chồm tới và với lấy chai champagne. Bật nắp chai. Tại sao lại không cơ chứ? Giờ thì chẳng ai uống nó nữa ngoài họ.</p>
 
 <p class="para-en">“What are we toasting to?” Matt asks.</p>
 

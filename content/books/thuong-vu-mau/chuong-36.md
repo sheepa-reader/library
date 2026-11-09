@@ -92,6 +92,8 @@ Bà mở miệng định trả lời, nhưng rồi lại ngập ngừng im lặn
 
 “Trời bắt đầu ướt sũng rồi đấy, Din,” bà nói. “Làm ơn tìm cho ta chỗ trú tạm, rồi vẫy một cỗ xe ngựa để chúng ta quay về thị trấn đi.”
 
+<hr class="scene-break"/>
+
 Chúng tôi cùng nhau cất bước men theo lối mòn xuyên qua khu rừng để trở về. Ana bám chặt lấy cánh tay tôi khi tôi lê từng bước nặng nề trên đôi chân đau nhức, chiếc mặt nạ Orbiis vẫn mang trên mặt để ngăn những luồng khói độc xâm nhập vào tâm trí. Tôi nhường cho bà chiếc nón cỏ ống của mình để che mưa, rồi thở dài một hơi thật sâu, tự hỏi không biết mọi chuyện sẽ ra sao khi quay trở lại Lacanthim sau tất cả những biến cố này.
 
 “Thằng nhóc ngốc nghếch,” Ana khẽ cất lời.
@@ -165,5 +167,7 @@ Rồi những mảnh ký ức trong tôi bắt đầu xáo động, một lời 
 *Nhưng thành viên gia đình nào mà bà muốn ám chỉ chứ? Theo như tôi biết, bà đâu còn người thân nào khác, trừ phi…*
 
 Tôi đăm đăm nhìn về phía bà. Lòng tôi nửa muốn chạy thục mạng ngược lại con đường để đòi câu trả lời cho vô vàn câu hỏi đang bủa vây. Nhưng rốt cuộc, tôi chỉ thở dài rồi quay bước trở lại trục đường chính, chờ một người cưỡi ngựa đi qua.
+
+<hr class="scene-break"/>
 
 **KẾT THÚC**

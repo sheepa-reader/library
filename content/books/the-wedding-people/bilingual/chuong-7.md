@@ -6,7 +6,7 @@
 
 <p class="para-en">She sits on the canopy bed and tries to relax, but being relaxed about her death is proving to be difficult, even on this king-sized pillow-top. She still feels like she should be doing something significant. She still feels too much like herself in her head, worrying about all the small things that are already ruining her beautiful ending, like the blood on the bride’s dress. The sound of the toilet flushing next door. The smell of the air conditioner, not to mention the wedding people gathering on the patio below.</p>
 
-<p class="para-vi-sub">Phoebe Stone ngồi trên chiếc giường có khung che và cố gắng thả lỏng, nhưng việc giữ được sự thư thái về cái chết của mình hóa ra lại là một thử thách khó nhằn, ngay cả trên chiếc đệm lò xo cỡ King này. Phoebe Stone vẫn cảm thấy mình nên làm điều gì đó thật quan trọng. Phoebe Stone vẫn thấy trong đầu mình mang đậm dấu ấn cá nhân, cứ bận tâm về những chi tiết vụn vặt đang phá hỏng cái kết đẹp đẽ của cô, chẳng hạn như vết máu trên váy cô dâu. Tiếng xả nước toilet ở phòng bên. Mùi máy lạnh, chưa kể đến đám đông Những người dự đám cưới đang tụ tập ở hiên nhà bên dưới.</p>
+<p class="para-vi-sub">Phoebe ngồi trên chiếc giường có khung che và cố gắng thả lỏng, nhưng việc giữ được sự thư thái trước cái chết của mình hóa ra lại là một thử thách khó nhằn, ngay cả trên chiếc đệm lò xo cỡ King này. Cô vẫn cảm thấy mình nên làm điều gì đó thật quan trọng. Cô vẫn thấy trong đầu mình vương vấn bao điều vụn vặt đang phá hỏng cái kết đẹp đẽ, chẳng hạn như vết máu trên váy cô dâu. Tiếng xả nước toilet ở phòng bên. Mùi máy lạnh, chưa kể đến đám đông những người dự đám cưới đang tụ tập dưới sân hiên bên dưới.</p>
 
 <p class="para-en">The bride’s opening reception has begun.</p>
 
@@ -14,11 +14,11 @@
 
 <p class="para-en">She puts on the headphones of her old Discman to drown out the people talking below. But the CD is so scratched, the music skips. Instead of making her feel calm, it makes her anxious. So she takes them off, goes out to the balcony, and lights a cigarette.</p>
 
-<p class="para-vi-sub">Phoebe Stone đeo chiếc tai nghe của chiếc Máy nghe đĩa Discman cổ để át đi tiếng chuyện trò bên dưới. Nhưng đĩa CD đã xước quá nặng, nhạc cứ bị vấp liên tục. Thay vì thấy bình tĩnh, cô lại càng thêm bồn chồn lo lắng. Thế là cô tháo tai nghe ra, bước ra ban công và châm một điếu thuốc.</p>
+<p class="para-vi-sub">Phoebe đeo tai nghe của chiếc máy nghe đĩa Discman cổ để át đi tiếng chuyện trò bên dưới. Nhưng đĩa CD đã xước quá nặng, nhạc cứ bị vấp liên tục. Thay vì thấy bình tĩnh, cô lại càng thêm bồn chồn lo lắng. Thế là cô tháo tai nghe ra, bước ra ban công và châm một điếu thuốc.</p>
 
 <p class="para-en">This time, she actually smokes it. She hopes that it will make sitting on a chair seem more elevated than just sitting on a chair. Takes one puff like she’s posing for a painting. <i>Woman Smoking and Drinking While Having Some Thoughts</i>, she’d call it.</p>
 
-<p class="para-vi-sub">Lần này, cô thực sự hút nó. Cô hy vọng hành động này sẽ khiến việc ngồi trên ghế trông có vẻ thanh tao hơn là một người bình thường đang ngồi ghế. Hít một hơi như thể đang tạo dáng vẽ tranh. <i>Phụ nữ hút thuốc và uống rượu trong lúc trầm tư</i>, cô sẽ đặt tên bức tranh như thế.</p>
+<p class="para-vi-sub">Lần này, cô thực sự hút nó. Cô hy vọng hành động này sẽ khiến việc ngồi trên ghế trông có vẻ thanh tao hơn là việc chỉ ngồi đơn thuần trên chiếc ghế. Hít một hơi như thể đang tạo dáng vẽ tranh. <i>Phụ nữ hút thuốc và uống rượu trong lúc trầm tư</i>, cô sẽ đặt tên bức tranh như thế.</p>
 
 <p class="para-en">But when she blows the smoke out into the salty air, she starts coughing so hard, it burns her lungs.</p>
 
@@ -38,7 +38,7 @@
 
 <p class="para-en">Her stomach growls. She hopes she doesn’t get too hungry to kill herself. She takes another sip of the chocolate wine. At least the wine is partly chocolate, she thinks. At least I have this balcony. She watches the waves in the distance start to gather, but they never get large enough to break. Sort of like the jazz from the reception below—the notes rising and falling and rising and falling but never coming to an end.</p>
 
-<p class="para-vi-sub">Bụng cô kêu rột rột. Cô hy vọng mình sẽ không quá đói trước khi kịp tự sát. Cô nhấp thêm ngụm rượu vang sô-cô-la. Ít nhất thì chai rượu này cũng pha chút vị sô-cô-la, cô thầm nghĩ. Ít nhất mình vẫn còn chiếc ban công này. Cô ngắm nhìn những con sóng đằng xa bắt đầu cuộn lên, nhưng chúng chưa bao giờ đủ lớn để vỡ òa thành bọt trắng. Kiểu như giai điệu jazz từ buổi tiệc phía dưới vậy, các nốt nhạc cứ dâng lên rồi hạ xuống, dâng lên rồi hạ xuống nhưng chẳng bao giờ đi đến hồi kết.</p>
+<p class="para-vi-sub">Bụng cô kêu rột rột. Cô hy vọng mình sẽ không quá đói trước khi kịp tự sát. Cô nhấp thêm ngụm rượu vang sô-cô-la Đức. Ít nhất thì chai rượu này cũng pha chút vị sô-cô-la, cô thầm nghĩ. Ít nhất mình vẫn còn chiếc ban công này. Cô ngắm nhìn những con sóng đằng xa bắt đầu cuộn lên, nhưng chúng chưa bao giờ đủ lớn để vỡ òa thành bọt trắng. Kiểu như giai điệu jazz từ buổi tiệc phía dưới vậy, các nốt nhạc cứ dâng lên rồi hạ xuống, dâng lên rồi hạ xuống nhưng chẳng bao giờ đi đến hồi kết.</p>
 
 <p class="para-en">She leans over the edge to get a better look at the reception. She’s curious, she admits. She’s always loved a wedding, will watch any TV show or read any book to the end if it promises a wedding. That’s how she got through those long novels in graduate school, reading hundreds of pages just to watch people get married.</p>
 
@@ -46,11 +46,11 @@
 
 <p class="para-en">She scans for the bride but sees only High Bun and Neck Pillow, picking up long-stemmed drinks from a tray. The Jims standing under some fairy lights, arguing with faces of men who want to kill each other, and it surprises her when they break into laughter.</p>
 
-<p class="para-vi-sub">Cô đảo mắt tìm cô dâu nhưng chỉ thấy Suz (High Bun) và Nat (Neck Pillow) đang nhấc những ly rượu đế cao từ trên khay. Hai anh chàng Jims đang đứng dưới ánh đèn lấp lánh, tranh cãi với vẻ mặt của những kẻ muốn triệt hạ lẫn nhau, và cô ngạc nhiên khi họ bỗng bật cười phá lên.</p>
+<p class="para-vi-sub">Cô đảo mắt tìm cô dâu nhưng chỉ thấy Suz và Nat đang nhấc những ly rượu đế cao từ trên khay. Những người đàn ông tên Jim đang đứng dưới ánh đèn lấp lánh, tranh cãi với vẻ mặt của những kẻ muốn triệt hạ lẫn nhau, và cô ngạc nhiên khi họ bỗng bật cười phá lên.</p>
 
 <p class="para-en">At least I’m on the top floor, she thinks—up on the balcony from where she can stare and pass judgment without being noticed, like the seagulls that circle high above. From here, she can see it all, even what it will be like to be dead, because that is one of the few gifts that depression gives her: aerial vision. She already knows what the world will look like without her, because last August, she sat at home while everyone returned to their offices, their routines, their roles—and she knows the bride will be able to do this, too. The bride may gasp at the news of Phoebe’s suicide, but then she’ll take a walk down the beach to calm herself. She will feel the breeze blow her hair back. She will be grateful for the sun. For her champagne. She will laugh and lean on her groom’s shoulder, beautiful hair falling into her face, and Phoebe will be forgotten by sunset.</p>
 
-<p class="para-vi-sub">Ít nhất mình cũng ở tầng trên cùng, cô thầm nghĩ, trên ban công cao ngất nơi cô có thể dòm ngó và phán xét mà chẳng bị ai để ý, giống như những con hải âu lượn lờ tít trên cao. Từ đây, cô có thể nhìn thấy tất cả, thậm chí cả cảm giác khi đã chết sẽ ra sao, bởi vì đó là một trong số ít món quà mà sự trầm cảm ban tặng cho cô: tầm nhìn bao quát từ trên cao. Cô vốn đã biết thế giới sẽ trông ra sao khi không có mình, bởi vì vào tháng Tám năm ngoái, cô từng ngồi nhà trong lúc mọi người quay trở lại văn phòng, nhịp sống thường nhật và vai trò của họ, và cô biết cô dâu cũng sẽ làm được điều này. Cô dâu có thể sẽ há hốc mồm khi nghe tin về vụ tự sát của Phoebe, nhưng rồi cô ấy sẽ đi dạo dọc bờ biển để tĩnh tâm lại. Cô ấy sẽ cảm nhận làn gió thổi tung mái tóc mình. Cô ấy sẽ biết ơn ánh nắng mặt trời. Biết ơn ly sâm-panh của mình. Cô ấy sẽ bật cười và tựa đầu vào vai chú rể, mái tóc đẹp xõa xuống khuôn mặt, và Phoebe sẽ bị lãng quên trước khi hoàng hôn buông xuống.</p>
+<p class="para-vi-sub">Ít nhất mình cũng ở tầng trên cùng, cô thầm nghĩ, trên ban công cao ngất nơi cô có thể dòm ngó và phán xét mà chẳng bị ai để ý, giống như những cánh mòng biển lượn vòng tít trên cao. Từ đây, cô có thể nhìn thấy tất cả, thậm chí cả cảm giác khi đã chết sẽ ra sao, bởi vì đó là một trong số ít món quà mà sự trầm cảm ban tặng cho cô: tầm nhìn bao quát từ trên cao. Cô vốn đã biết thế giới sẽ trông ra sao khi không có mình, bởi vì vào tháng Tám năm ngoái, cô từng ngồi nhà trong lúc mọi người quay trở lại văn phòng, nhịp sống thường nhật và vai trò của họ, và cô biết cô dâu cũng sẽ làm được điều này. Cô dâu có thể sẽ há hốc mồm khi nghe tin về vụ tự sát của Phoebe, nhưng rồi cô ấy sẽ đi dạo dọc bờ biển để tĩnh tâm lại. Cô ấy sẽ cảm nhận làn gió thổi tung mái tóc mình. Cô ấy sẽ biết ơn ánh nắng mặt trời. Biết ơn ly sâm-panh của mình. Cô ấy sẽ bật cười và tựa đầu vào vai chú rể, mái tóc đẹp xõa xuống khuôn mặt, và Phoebe sẽ bị lãng quên trước khi hoàng hôn buông xuống.</p>
 
 <p class="para-en">“Just get on with it,” Phoebe tells herself.</p>
 
@@ -62,11 +62,11 @@
 
 <p class="para-en">“Are you seriously smoking?” the bride asks.</p>
 
-<p class="para-vi-sub">“Cô thực sự đang hút thuốc đấy à?” Lila Rossi-Winthrop hỏi.</p>
+<p class="para-vi-sub">“Cô thực sự đang hút thuốc đấy à?” Lila hỏi.</p>
 
 <p class="para-en">The bride walks into the room as if it is her own. The bride’s dress is bloodless now—another white one, but gauzier and with dramatic fluttery sleeves.</p>
 
-<p class="para-vi-sub">Lila Rossi-Winthrop bước vào phòng như thể đây là phòng của chính mình. Chiếc váy của Lila Rossi-Winthrop giờ đã không còn dính máu, lại một chiếc váy trắng khác, nhưng mỏng tang hơn và có phần tay áo bồng bềnh điệu đà.</p>
+<p class="para-vi-sub">Lila bước vào phòng như thể đây là phòng của chính mình. Chiếc váy của Lila giờ đã không còn dính máu, lại một chiếc váy trắng khác, nhưng mỏng tang hơn và có phần tay áo bồng bềnh điệu đà.</p>
 
 <p class="para-en">“Sure, yes, please do come in,” Phoebe says.</p>
 
@@ -74,11 +74,11 @@
 
 <p class="para-en">The bride’s hand is wrapped in gauze, and Phoebe wonders who wrapped it. Gary, the groom with the barely receding hairline? Her loving mother? Is the bride the kind of woman who has a loving mother? Yes, Phoebe decides. Phoebe has become good over the years at detecting who has a loving mother and who does not, because Phoebe believes a loving mother gives a person a kind of confidence to exist that Phoebe never quite had. Phoebe could never burst into someone else’s room and give orders like it’s her own.</p>
 
-<p class="para-vi-sub">Bàn tay của Lila Rossi-Winthrop được quấn băng gạc, và Phoebe tự hỏi ai là người đã băng bó cho cô ấy. Gary, chú rể với mái tóc mai đã hơi thưa thớt ư? Người mẹ yêu quý của cô ấy ư? Liệu cô dâu có phải kiểu phụ nữ có một người mẹ yêu thương mình không? Có chứ, Phoebe thầm quyết định. Qua năm tháng, Phoebe đã trở nên rất giỏi trong việc phán đoán ai là người có một người mẹ yêu thương và ai không, bởi vì Phoebe tin rằng một người mẹ yêu thương sẽ mang lại cho con cái thứ sự tự tin để tồn tại mà chưa bao giờ Phoebe có được trọn vẹn. Phoebe chẳng bao giờ dám xông vào phòng người khác và ra lệnh tỉnh bơ như phòng của mình.</p>
+<p class="para-vi-sub">Bàn tay của Lila được quấn băng gạc, và Phoebe tự hỏi ai là người đã băng bó cho cô ấy. Gary, chú rể với phần chân tóc mai chỉ hơi thụt nhẹ vào trong ư? Người mẹ yêu quý của cô ấy ư? Liệu cô dâu có phải kiểu phụ nữ có một người mẹ yêu thương mình không? Có chứ, Phoebe thầm quyết định. Qua năm tháng, Phoebe đã trở nên rất giỏi trong việc phán đoán ai là người có một người mẹ yêu thương và ai không, bởi vì Phoebe tin rằng một người mẹ yêu thương sẽ mang lại cho con cái thứ sự tự tin để tồn tại mà chưa bao giờ Phoebe có được trọn vẹn. Phoebe chẳng bao giờ dám xông vào phòng người khác và ra lệnh tỉnh bơ như phòng của mình.</p>
 
 <p class="para-en">“You can’t smoke,” the bride says.</p>
 
-<p class="para-vi-sub">“Cô không được hút thuốc,” Lila Rossi-Winthrop nói.</p>
+<p class="para-vi-sub">“Cô không được hút thuốc,” Lila nói.</p>
 
 <p class="para-en">The bride talks louder than she needs to, the way actors on the stage are present but locked and preserved behind the fourth wall, and for the first time, Phoebe wonders what the bride actually does for a living. Is she an actress? Or maybe she is an airline attendant, good at announcing things to forty-seven passengers.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">Phoebe waits for Lila to blush, but she doesn’t get embarrassed. She just gets angrier.</p>
 
-<p class="para-vi-sub">Phoebe đợi Lila đỏ mặt, nhưng cô chẳng hề ngượng ngùng chút nào. Cô chỉ càng thêm bực bội.</p>
+<p class="para-vi-sub">Phoebe đợi Lila đỏ mặt, nhưng cô dâu chẳng hề tỏ ra ngượng ngùng. Lila chỉ càng thêm bực bội.</p>
 
 <p class="para-en">“Who on earth would want a shoreline room then?” Lila asks. “Why would they even advertise a shoreline view like it’s something special? If I wanted to look at houses, I’d just stay home and look out my own window at houses. You know?”</p>
 
@@ -150,7 +150,7 @@
 
 <p class="para-en">“The word <i>balcony</i> is borrowed from Italian <i>balcone</i>,” Phoebe says. “Derived from medieval Italian <i>balco</i>, which originally meant ‘scaffold.’ And that comes from a Proto-Germanic word <i>balkô</i>, which probably meant something like ‘beam.’”</p>
 
-<p class="para-vi-sub">“Từ <i>balcony</i> (ban công) được mượn từ tiếng Ý <i>balcone</i>,” Phoebe nói. “Bắt nguồn từ tiếng Ý trung cổ <i>balco</i>, vốn ban đầu có nghĩa là 'giàn giáo'. Và từ đó lại xuất phát từ một từ tiếng Giéc-manh cổ <i>balkô</i>, mà có lẽ mang nghĩa tương tự như 'xà nhà'.”</p>
+<p class="para-vi-sub">“Từ <i>balcony</i> (ban công) được mượn từ tiếng Ý <i>balcone</i>,” Phoebe nói. “Bắt nguồn từ tiếng Ý trung cổ <i>balco</i>, vốn ban đầu có nghĩa là “giàn giáo”. Và từ đó lại xuất phát từ một từ tiếng Giéc-manh cổ <i>balkô</i>, mà có lẽ mang nghĩa tương tự như “xà nhà”.”</p>
 
 <p class="para-en">The bride stands there, confused.</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-en">“So, taken all together, we know that the word <i>balcony</i> originally referred to the beam or structure that holds up the balcony.” Phoebe releases a long, slow exhale of smoke before her final conclusion. “That’s how far outside the room it is. The balcony is not even the balcony.”</p>
 
-<p class="para-vi-sub">“Cho nên, gộp tất cả lại, chúng ta biết rằng từ <i>balcony</i> ban đầu dùng để chỉ thanh xà hoặc cấu trúc nâng đỡ cái ban công đó.” Phoebe thở ra một làn khói dài và chậm rãi trước khi đưa ra kết luận cuối cùng. “Nó vốn nằm ở tận ngoài căn phòng cơ đấy. Bản chất cái ban công thậm chí còn chẳng phải là cái ban công.”</p>
+<p class="para-vi-sub">“Cho nên, gộp tất cả lại, chúng ta biết rằng từ <i>balcony</i> ban đầu dùng để chỉ thanh xà hoặc cấu trúc nâng đỡ cái ban công đó.” Phoebe thở ra một làn khói dài và chậm rãi trước khi đưa ra kết luận cuối cùng. “Nó nằm tách biệt hẳn ở phía ngoài căn phòng đến thế cơ mà. Bản chất cái ban công thậm chí còn chẳng phải là cái ban công.”</p>
 
 <p class="para-en">“Who <i>are</i> you?” the bride asks.</p>
 
@@ -170,7 +170,7 @@
 
 <p class="para-en">“I’m a Victorianist,” Phoebe says.</p>
 
-<p class="para-vi-sub">“Tôi là một chuyên gia văn học Victoria,” Phoebe nói.</p>
+<p class="para-vi-sub">“Tôi là một chuyên gia văn học thời kỳ Victoria,” Phoebe nói.</p>
 
 <p class="para-en">“Huh?”</p>
 
@@ -178,7 +178,7 @@
 
 <p class="para-en">“A nineteenth centuryist,” Phoebe rephrases, thinking it might make more sense to the bride.</p>
 
-<p class="para-vi-sub">“Một nhà nghiên cứu thế kỷ mười chín,” Phoebe nói lại cho dễ hiểu hơn, nghĩ rằng cách này có lẽ sẽ lọt tai cô dâu hơn.</p>
+<p class="para-vi-sub">“Một chuyên gia văn học thế kỷ mười chín,” Phoebe nói lại cho dễ hiểu hơn, nghĩ rằng cách này có lẽ sẽ lọt tai cô dâu hơn.</p>
 
 <p class="para-en">“I still don’t know what that means,” the bride says.</p>
 
@@ -214,7 +214,7 @@
 
 <p class="para-en">“But I’m twenty-eight. I work at an art gallery,” the bride says. “I should know that.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi đã hai mươi tám tuổi rồi. Tôi làm việc ở một phòng trưng bày nghệ thuật,” cô dâu nói. “Lẽ ra tôi phải biết mấy chuyện đó chứ.”</p>
+<p class="para-vi-sub">“Nhưng tôi đã hai mươi tám tuổi rồi. Tôi làm việc ở một phòng tranh Winthrop,” cô dâu nói. “Lẽ ra tôi phải biết mấy chuyện đó chứ.”</p>
 
 <p class="para-en">Phoebe is surprised enough by this new information to want to ask her first question of the bride.</p>
 
@@ -270,7 +270,7 @@
 
 <p class="para-en">When Phoebe left for graduate school, she had very clear and beautiful ideas about art, how art is what elevates us, art is the magnificence wrung from the ugly dish towel of existence. Art helps us feel alive. And this had been true for Phoebe—Phoebe used to read books and feel astounded. She used to walk around galleries, inspired by the beautiful human urge to create. But that was years ago. Now she can’t stand the sight of her books. Can’t bear the thought of reading hundreds of pages just to watch Jane Eyre get married again.</p>
 
-<p class="para-vi-sub">Khi Phoebe lên đường học cao học, cô mang theo những ý niệm rất rõ ràng và tươi đẹp về nghệ thuật, rằng nghệ thuật là thứ nâng tầm chúng ta, nghệ thuật là sự tráng lệ được chắt chiu từ chiếc khăn lau bát đĩa nhàu nát đầy xấu xí của sự tồn tại. Nghệ thuật giúp chúng ta cảm thấy mình đang thực sự sống. Và điều đó từng đúng với Phoebe, Phoebe từng đọc sách và cảm thấy kinh ngạc tột độ. Cô từng rảo bước qua các phòng trưng bày, được truyền cảm hứng bởi khao khát sáng tạo đẹp đẽ của con người. Nhưng đó là chuyện của nhiều năm về trước. Giờ đây, cô không thể chịu nổi khi nhìn thấy những cuốn sách của mình. Không tài nào chịu đựng nổi ý nghĩ phải đọc hàng trăm trang sách chỉ để chứng kiến Jane Eyre kết hôn thêm lần nữa.</p>
+<p class="para-vi-sub">Khi Phoebe lên đường học cao học, cô mang theo những ý niệm rất rõ ràng và tươi đẹp về nghệ thuật, rằng nghệ thuật là thứ nâng tầm chúng ta, nghệ thuật là sự tráng lệ được chắt chiu từ chiếc khăn lau bát đĩa nhàu nát đầy xấu xí của sự tồn tại. Nghệ thuật giúp chúng ta cảm thấy mình đang thực sự sống. Và điều đó từng đúng với Phoebe, Phoebe từng đọc sách và cảm thấy kinh ngạc tột độ. Cô từng rảo bước qua các phòng trưng bày, được truyền cảm hứng bởi khao khát sáng tạo đẹp đẽ của con người. Nhưng đó là chuyện của nhiều năm về trước. Giờ đây, cô không thể chịu nổi khi nhìn thấy những cuốn sách của mình. Không tài nào chịu đựng nổi ý nghĩ phải đọc hàng trăm trang sách chỉ để chứng kiến <i>Jane Eyre</i> kết hôn thêm lần nữa.</p>
 
 <p class="para-en">“Well, that’s a relief to hear,” the bride says, like they’re old cousins again. “Nobody ever admits that. Everyone at the gallery walks around like, Oh, my, look at this white canvas. Look at what this painter has done with all this white space. He has chosen not to paint it! He has defied the conventions of painting by not actually painting! Isn’t that bold? Doesn’t that make you want to pay thousands of dollars for it? And some of the people are like, Yes, yes, it does, actually.”</p>
 
@@ -298,7 +298,7 @@
 
 <p class="para-en">“Killing myself?” Phoebe says.</p>
 
-<p class="para-vi-sub">“Tự sát à?” Phoebe nói.</p>
+<p class="para-vi-sub">“Tự kết liễu đời mình à?” Phoebe nói.</p>
 
 <p class="para-en">“Yes. Then I am going to tell the front desk.”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-en">“They can’t make a paying guest leave because the guest is sad.” Phoebe is amused by the thought. “‘I am so sorry, but we’ve all had a vote, and we’ve come to the conclusion that you are too sad to be here.’”</p>
 
-<p class="para-vi-sub">“Họ đâu thể đuổi một vị khách đang trả tiền chỉ vì vị khách đó buồn.” Phoebe thấy buồn cười trước ý nghĩ đó. “‘Tôi rất tiếc, nhưng tất cả chúng tôi đã bỏ phiếu rồi, và chúng tôi đi đến kết luận rằng cô quá buồn để ở lại đây.’”</p>
+<p class="para-vi-sub">“Họ đâu thể đuổi một vị khách đang trả tiền chỉ vì vị khách đó buồn.” Phoebe thấy buồn cười trước ý nghĩ đó. “Tôi rất tiếc, nhưng tất cả chúng tôi đã bỏ phiếu rồi, và chúng tôi đi đến kết luận rằng cô quá buồn để ở lại đây.”</p>
 
 <p class="para-en">“You’re not sad, you’re <i>suicidal</i>,” the bride says. “You should leave the hotel and seek help immediately.”</p>
 
@@ -318,7 +318,7 @@
 
 <p class="para-en">After her husband left, Phoebe tried so many things. She applied to forty-two teaching jobs. She took a virtual painting class. She purchased a brand-new bike with cute handlebars like her virtual therapist suggested. Go have real experiences, the virtual therapist commanded. Go read real books on your condition. So she read real books on depression. Books by real, depressed people. She journaled in real journals. She downloaded a meditation app. Ate bananas for breakfast every day. Started Lexapro, then stopped, because it didn’t make her feel any better, just made it impossible to orgasm. And that was the only time she felt relief from herself—in those few moments when she could make herself come, thinking of her husband being a terrible man.</p>
 
-<p class="para-vi-sub">Sau khi chồng cô bỏ đi, Phoebe đã thử vô số thứ. Cô nộp đơn vào bốn mươi hai vị trí giảng dạy. Cô tham gia một lớp học vẽ trực tuyến. Cô mua một chiếc xe đạp hoàn toàn mới với phần tay lái xinh xắn như nhà trị liệu ảo của cô đã gợi ý. Hãy ra ngoài và có những trải nghiệm thực tế đi, nhà trị liệu ảo ra lệnh. Hãy đọc những cuốn sách thực tế về tình trạng của cô đi. Thế là cô đọc những cuốn sách thực tế về trầm cảm. Sách do những người thực sự trầm cảm viết. Cô viết nhật ký vào những cuốn sổ thực tế. Cô tải một ứng dụng thiền. Ăn chuối vào bữa sáng mỗi ngày. Bắt đầu uống Lexapro, rồi lại dừng, bởi vì nó chẳng khiến cô cảm thấy khá hơn chút nào, mà chỉ khiến cô không thể đạt cực khoái nổi. Và đó là khoảnh khắc duy nhất cô cảm thấy được giải thoát khỏi chính mình, trong những khoảnh khắc hiếm hoi khi cô có thể tự làm mình lên đỉnh, khi nghĩ đến việc chồng mình là một kẻ tồi tệ thế nào.</p>
+<p class="para-vi-sub">Sau khi Matt dứt áo ra đi, Phoebe đã thử vô số thứ. Cô nộp đơn vào bốn mươi hai vị trí giảng dạy. Cô tham gia một lớp học vẽ trực tuyến. Cô mua một chiếc xe đạp hoàn toàn mới với phần tay lái xinh xắn như nhà trị liệu ảo của cô đã gợi ý. Hãy ra ngoài và có những trải nghiệm thực tế đi, nhà trị liệu ảo ra lệnh. Hãy đọc những cuốn sách thực tế về tình trạng của cô đi. Thế là cô đọc những cuốn sách thực tế về trầm cảm. Sách do những người thực sự trầm cảm viết. Cô viết nhật ký vào những cuốn sổ thực tế. Cô tải một ứng dụng thiền. Ăn chuối vào bữa sáng mỗi ngày. Bắt đầu uống Lexapro, rồi lại dừng, bởi vì nó chẳng khiến cô cảm thấy khá hơn chút nào, mà chỉ khiến cô không thể đạt cực khoái nổi. Và đó là khoảnh khắc duy nhất cô cảm thấy được giải thoát khỏi chính mình, trong những khoảnh khắc hiếm hoi khi cô có thể tự làm mình lên đỉnh, khi nghĩ đến việc chồng mình là một kẻ tồi tệ thế nào.</p>
 
 <p class="para-en">But orgasming didn’t save her, because after, she was still herself. She sobbed. She signed up for online dating sites, exchanged texts with a man who called himself Transatlantic and talked a lot about his job in biotech. But then Transatlantic met someone else, someone in real life, he explained, and she deleted her profile, turned on the TV, and basically never shut it off.</p>
 
@@ -330,7 +330,7 @@
 
 <p class="para-en">“I’m not rescheduling,” Phoebe says. “This is not a dentist appointment.”</p>
 
-<p class="para-vi-sub">“Tôi không dời lịch đâu,” Phoebe nói. “Đây có phải lịch hẹn nha sĩ đâu mà dời.”</p>
+<p class="para-vi-sub">“Tôi không đổi lịch đâu,” Phoebe nói. “Đây có phải là lịch hẹn khám nha khoa đâu.”</p>
 
 <p class="para-en">“I seriously don’t get it. What’s the rush? You’re going to be dead forever, you know. You might as well wait a week.”</p>
 
@@ -338,7 +338,7 @@
 
 <p class="para-en">Because if she doesn’t do it tonight, Phoebe knows she will lose the feeling. She knows this is the kind of thing that requires a certain feeling. And if she loses that feeling, she will have to wake up tomorrow and go home. She will have to clean up the crumbs on the counter. She will have to bury Harry. Then, she will have to drive to school in her gray blouse and watch her husband get coffee every morning with another woman.</p>
 
-<p class="para-vi-sub">Bởi vì nếu cô không làm điều đó tối nay, Phoebe biết cô sẽ đánh mất cảm giác này. Cô biết đây là kiểu việc đòi hỏi một cảm xúc nhất định. Và nếu cô mất đi cảm giác đó, cô sẽ phải thức dậy vào ngày mai và đi về nhà. Cô sẽ phải dọn dẹp những vụn bánh mì trên quầy bếp. Cô sẽ phải chôn cất Harry. Sau đó, cô sẽ phải lái xe đến trường trong chiếc áo sơ mi xám và nhìn chồng mình uống cà phê mỗi sáng với một người phụ nữ khác.</p>
+<p class="para-vi-sub">Bởi vì nếu cô không làm điều đó tối nay, Phoebe biết cô sẽ đánh mất cảm giác này. Cô biết đây là kiểu việc đòi hỏi một cảm xúc nhất định. Và nếu cô mất đi cảm giác đó, cô sẽ phải thức dậy vào ngày mai và đi về nhà. Cô sẽ phải dọn dẹp những vụn bánh mì trên quầy bếp. Cô sẽ phải chôn cất chú mèo Harry. Sau đó, cô sẽ phải lái xe đến trường trong chiếc áo blouse màu xám và nhìn chồng mình uống cà phê mỗi sáng với một người phụ nữ khác.</p>
 
 <p class="para-en">“It’s not like you’re going to live for much longer,” the bride says. “Might as well wait it out.”</p>
 
@@ -362,7 +362,7 @@
 
 <p class="para-en">“Maybe it was the vitamins that killed him,” Phoebe says.</p>
 
-<p class="para-vi-sub">“Biết đâu chínhMấy viên vitamin đó đã giết ông ấy thì sao,” Phoebe nói.</p>
+<p class="para-vi-sub">“Biết đâu chính những viên vitamin đó đã giết ông ấy thì sao,” Phoebe nói.</p>
 
 <p class="para-en">“It was colon cancer.”</p>
 
@@ -406,15 +406,15 @@
 
 <p class="para-en">“Nobody,” Lila says. “But don’t you think I’m just like, a little too rich? All we ever did in Catholic school was talk about how impossible it was for rich people like me to get into Heaven. And then they had us write this paper on Dante’s <i>Inferno</i>, which I actually got an A on, but for years, I had nightmares about being stuck in his different versions of Hell. It got so bad, I started seeing the guidance counselor about it.”</p>
 
-<p class="para-vi-sub">“Không ai cả,” Lila nói. “Nhưng cô có nghĩ là tôi, kiểu như, hơi quá giàu không? Tất cả những gì chúng tôi làm ở trường Công giáo là bàn về việc những người giàu có như tôi khó lòng vào Thiên đàng đến nhường nào. Và rồi họ bắt chúng tôi viết bài luận về cuốn <i>Hỏa ngục</i> của Dante, môn đó tôi thực sự được điểm A đấy, nhưng suốt nhiều năm trời, tôi đã gặp ác mộng về việc bị mắc kẹt trong các tầng Địa ngục khác nhau của ông ta. Mọi chuyện tệ đến mức tôi phải đi gặp chuyên viên tư vấn học đường vì chuyện đó luôn.”</p>
+<p class="para-vi-sub">“Không ai cả,” Lila nói. “Nhưng cô có nghĩ là tôi, kiểu như, hơi quá giàu không? Tất cả những gì chúng tôi làm ở trường Công giáo là bàn về việc những người giàu có như tôi khó lòng vào Thiên đàng đến nhường nào. Và rồi họ bắt chúng tôi viết bài luận về trường ca <i>Địa ngục</i> của Dante, môn đó tôi thực sự được điểm A đấy, nhưng suốt nhiều năm trời, tôi đã gặp ác mộng về việc bị mắc kẹt trong các tầng Địa ngục khác nhau của ông ta. Mọi chuyện tệ đến mức tôi phải đi gặp chuyên viên tư vấn học đường vì chuyện đó luôn.”</p>
 
 <p class="para-en">She said her dread of Hell was extra annoying, because despite going to a Catholic boarding school, her parents didn’t raise her to have any particular religion. Her parents couldn’t decide which one. Yes, she went to Portsmouth Abbey but only because that’s where her Catholic father went to school. And her mother was from a family of Protestants who dated back to the <i>Mayflower</i> and whenever Lila came home for the holidays, her mother whispered things about the Catholics being full of shit.</p>
 
-<p class="para-vi-sub">Lila nói rằng nỗi sợ hãi Địa ngục của cô ấy thực sự rất phiền toái, bởi vì dù từng theo học tại Trường Nội trú Tu viện Portsmouth, bố mẹ lại không hề nuôi dạy cô theo bất kỳ tôn giáo cụ thể nào. Bố mẹ cô không thể thống nhất được theo đạo nào. Phải, cô đã học ở Trường Nội trú Tu viện Portsmouth, nhưng chỉ vì đó là ngôi trường mà người cha theo đạo Công giáo của cô từng theo học. Còn mẹ cô lại xuất thân từ một gia đình theo phô-tít có từ thời con tàu <i>Mayflower</i>, và mỗi khi Lila trở về nhà nghỉ lễ, mẹ cô lại thì thầm những điều kiểu như bọn Công giáo toàn một lũ nhảm nhí.</p>
+<p class="para-vi-sub">Lila nói rằng nỗi sợ hãi Địa ngục của cô ấy thực sự rất phiền toái, bởi vì dù từng theo học tại Trường Nội trú Tu viện Portsmouth, bố mẹ lại không hề nuôi dạy cô theo bất kỳ tôn giáo cụ thể nào. Bố mẹ cô không thể thống nhất được theo đạo nào. Phải, cô đã học ở Trường Nội trú Tu viện Portsmouth, nhưng chỉ vì đó là ngôi trường mà người cha theo đạo Công giáo của cô từng theo học. Còn mẹ cô lại xuất thân từ một gia đình theo đạo Kháng Cách có dòng dõi từ thời con tàu <i>Mayflower</i>, và mỗi khi Lila trở về nhà nghỉ lễ, mẹ cô lại thì thầm những điều kiểu như bọn Công giáo toàn một lũ nhảm nhí.</p>
 
 <p class="para-en">“And I was like, Hey thanks, this isn’t confusing at all,” Lila says.</p>
 
-<p class="para-vi-sub">“Và em kiểu như, Ôi cảm ơn mẹ nhé, chuyện này chẳng gây hoang mang chút nào luôn,” Lila kể.</p>
+<p class="para-vi-sub">“Và tôi kiểu như: Ôi cảm ơn mẹ nhé, chuyện này chẳng gây hoang mang chút nào luôn,” Lila kể.</p>
 
 <p class="para-en">The nightmares went on for years.</p>
 
@@ -430,7 +430,7 @@
 
 <p class="para-en">“That’s what happens to the suicides in Dante,” Lila clarifies. “Except it’s not my mother plucking the leaves, obviously. It’s like, a bunch of random harpies.”</p>
 
-<p class="para-vi-sub">“Đó là số phận của những kẻ tự sát trong tác phẩm của Dante,” Lila đính chính. “Chỉ là rõ ràng người vặt lá không phải mẹ em. Mà là một lũ quái vật đầu chim móng vuốt sắc nhọn nào đó xuất hiện ngẫu nhiên.”</p>
+<p class="para-vi-sub">“Đó là số phận của những kẻ tự sát trong tác phẩm của Dante,” Lila đính chính. “Chỉ là rõ ràng người vặt lá không phải mẹ tôi. Mà là lũ quái điểu Harpy rỉa lá xé cành.”</p>
 
 <p class="para-en">“So I’ve read,” Phoebe says.</p>
 
@@ -442,7 +442,7 @@
 
 <p class="para-en">Phoebe learned trying to explain her feelings to her husband that you can’t explain this kind of darkness to someone who has never felt it. And the bride is very much like her husband. Phoebe can tell by the way she dresses, everything so tailored to her body. Up close, Phoebe can see that the romantic tangle of braids is actually a calculated system with the exact same number of braids on each side of her head. She is like a character from an Austen novel, sometimes disappointed in the sequence of events, but never psychically destroyed by them. Never paralyzed by existential horror. Always able to find relief from a long walk through the countryside or the busyness of the day. And that’s how Phoebe had been, too, during graduate school and most of her marriage. She couldn’t understand why someone like Tom wanted to die. But Mia is so beautiful? But Tom’s a doctor? But they have a baby? Phoebe could only think practically about such a thing then, just like the bride now.</p>
 
-<p class="para-vi-sub">Qua quãng thời gian cố gắng giải thích cảm xúc của mình cho người chồng cũ, Phoebe đã rút ra bài học rằng bạn không thể giải thích kiểu bóng tối này cho một kẻ chưa từng trải qua nó. Và cô cô dâu trước mặt đây cũng y hệt chồng cô vậy. Phoebe có thể nhận ra điều đó qua cách ăn mặc, mọi thứ đều được may đo hoàn hảo ôm sát lấy cơ thể. Nhìn cận cảnh, Phoebe nhận ra mớ tóc tết lãng mạn kia thực chất là một hệ thống được tính toán kỹ lưỡng với số lượng lọn tóc chính xác tuyệt đối ở mỗi bên đầu. Cô ta giống như một nhân vật trong tiểu thuyết của Jane Austen, đôi khi có chút thất vọng vì trình tự các sự kiện diễn ra không như ý, nhưng chưa bao giờ bị chúng tàn phá tâm can. Chưa bao giờ bị tê liệt bởi nỗi kinh hoàng hiện sinh. Luôn luôn có thể tìm thấy sự xoa dịu từ một chuyến đi dạo dài qua vùng thôn quê hay sự bận rộn của nhịp sống thường ngày. Phoebe cũng từng như thế, trong suốt thời gian học cao học và phần lớn cuộc hôn nhân của mình. Cô không thể hiểu tại sao một người như Tom lại muốn chết. Nhưng Mia xinh đẹp nhường ấy cơ mà? Nhưng Tom là bác sĩ cơ mà? Nhưng họ đã có một đứa con cơ mà? Hồi đó Phoebe chỉ có thể suy nghĩ mọi chuyện theo hướng thực tế, y hệt cô dâu lúc này.</p>
+<p class="para-vi-sub">Qua quãng thời gian cố gắng giải thích cảm xúc của mình cho Matt, Phoebe đã rút ra bài học rằng bạn không thể giải thích kiểu bóng tối này cho một kẻ chưa từng trải qua nó. Và cô dâu trước mặt đây cũng y hệt anh vậy. Phoebe có thể nhận ra điều đó qua cách ăn mặc, mọi thứ đều được may đo hoàn hảo ôm sát lấy cơ thể. Nhìn cận cảnh, Phoebe nhận ra mớ tóc tết lãng mạn kia thực chất là một hệ thống được tính toán kỹ lưỡng với số lượng lọn tóc chính xác tuyệt đối ở mỗi bên đầu. Cô ta giống như một nhân vật trong tiểu thuyết của Jane Austen, đôi khi có chút thất vọng vì trình tự các sự kiện diễn ra không như ý, nhưng chưa bao giờ bị chúng tàn phá tâm can. Chưa bao giờ bị tê liệt bởi nỗi kinh hoàng hiện sinh. Luôn luôn có thể tìm thấy sự xoa dịu từ một chuyến đi dạo dài qua vùng thôn quê hay sự bận rộn của nhịp sống thường ngày. Phoebe cũng từng như thế, trong suốt thời gian học cao học và phần lớn cuộc hôn nhân của mình. Cô không thể hiểu tại sao một người như Tom lại muốn chết. Nhưng Mia xinh đẹp nhường ấy cơ mà? Nhưng Tom là bác sĩ cơ mà? Nhưng họ đã có một đứa con cơ mà? Hồi đó Phoebe chỉ có thể suy nghĩ mọi chuyện theo hướng thực tế, y hệt cô dâu lúc này.</p>
 
 <p class="para-en">So Phoebe tries her best to speak the bride’s language.</p>
 
@@ -478,7 +478,7 @@
 
 <p class="para-en">“A million dollars,” she says, and then turns toward the ocean view like she might cry. “That’s what my father gave me when he got sick. Told me it was his dying wish to see his only daughter get married before he died. But then before we could have it, he died. And then there was a global pandemic for two years. So the least you could do is not die, too.”</p>
 
-<p class="para-vi-sub">“Một triệu đô la,” cô ta nói, rồi quay mặt ra hướng nhìn ra đại dương như thể chực khóc. “Đó là số tiền bố tôi đưa cho tôi khi ôngổ bệnh nặng. Ông bảo nguyện vọng cuối đời của mình là được nhìn thấy đứa con gái duy nhất lên xe hoa trước khi nhắm mắt xuôi tay. Nhưng rồi trước khi chúng tôi kịp tổ chức thì ông qua đời. Và sau đó lại thêm đại dịch toàn cầu suốt hai năm trời. Thế nên điều ít nhất cô có thể làm là đừng có chết, được chứ.”</p>
+<p class="para-vi-sub">“Một triệu đô la,” cô ta nói, rồi quay mặt ra hướng nhìn ra đại dương như thể chực khóc. “Đó là số tiền bố tôi đưa cho tôi khi ông lâm bệnh nặng. Ông bảo nguyện vọng cuối đời của mình là được nhìn thấy đứa con gái duy nhất lên xe hoa trước khi nhắm mắt xuôi tay. Nhưng rồi trước khi chúng tôi kịp tổ chức thì ông qua đời. Và sau đó lại thêm đại dịch toàn cầu suốt hai năm trời. Thế nên điều ít nhất cô có thể làm là đừng có chết, được chứ.”</p>
 
 <p class="para-en">Phoebe can hear in her voice that she is about to cry. Now more than ever it is important to sound forceful.</p>
 
@@ -518,7 +518,7 @@
 
 <p class="para-en">“I special-ordered rare orchids from Borneo for the centerpieces. I took a calligraphy class so I could learn how to handwrite every single table card. I had each cocktail glass hand-sprayed in guanciale fat. I flew in the same jazz band that played at Prince William’s wedding. And do you know how long it took to figure out who played at Prince William’s wedding? How many hours I spent on message boards?”</p>
 
-<p class="para-vi-sub">“Tôi đã đặt hàng riêng những giỏ phong lan quý hiếm từ Borneo để làm trung tâm bàn tiệc. Tôi đã tham gia một lớp học thư pháp chỉ để tự tay viết từng tấm thẻ ghi tên khách mời. Tôi đã yêu cầu phun thủ công mỡ má lợn lên từng chiếc ly cocktail tráng mỡ má lợn. Tôi đã thuê hẳn dàn nhạc jazz từng biểu diễn trong đám cưới của Hoàng tử William bay đến đây. Và cô có biết tôi mất bao lâu để tìm ra ban nhạc nào đã chơi trong đám cưới của Hoàng tử William không? Tôi đã lướt các diễn đàn trực tuyến mất bao nhiêu tiếng đồng hồ không?”</p>
+<p class="para-vi-sub">“Tôi đã đặt hàng riêng những giỏ phong lan quý hiếm từ Borneo để làm trung tâm bàn tiệc. Tôi đã tham gia một lớp học thư pháp chỉ để tự tay viết từng tấm thẻ ghi tên khách mời. Tôi đã yêu cầu tráng mỡ má lợn thủ công lên từng chiếc ly cocktail. Tôi đã thuê hẳn dàn nhạc jazz từng biểu diễn trong đám cưới của Hoàng tử William bay đến đây. Và cô có biết tôi mất bao lâu để tìm ra ban nhạc nào đã chơi trong đám cưới của Hoàng tử William không? Tôi đã lướt các diễn đàn trực tuyến mất bao nhiêu tiếng đồng hồ không?”</p>
 
 <p class="para-en">“You didn’t hire a wedding planner to do that?” Phoebe asks, genuinely shocked.</p>
 
@@ -530,7 +530,7 @@
 
 <p class="para-en">“I mean, yeah?”</p>
 
-<p class="para-vi-sub">“Ý em là, thật vậy á?”</p>
+<p class="para-vi-sub">“Ý tôi là, thật vậy á?”</p>
 
 <p class="para-en">“This money was the last thing my father ever gave me in this life. I wasn’t about to give thirty-three percent of it away to some wedding planner who suggested it might be nice to parachute into my own reception. No. I wanted my father to be proud of how I spent it, and I know he would be. I know this is going to be the most beautiful fucking wedding, and if I wake up to your corpse being rolled into the lobby tomorrow morning, you should know I’ll never recover from something like that.”</p>
 
@@ -554,7 +554,7 @@
 
 <p class="para-en">Phoebe doesn’t know. But after her husband left, her first impulse was to joke about it. She spent days making phone calls to friends from grad school that she hadn’t spoken to in years, saying, “Well, I never really liked the guy anyway,” in a high-pitched voice that didn’t sound like hers, because she wanted to impress people the way she had been impressed when she read what Edith Wharton said after seeing the names “Mr. and Mrs. Wharton” written in a guest book at a hotel she had never visited.</p>
 
-<p class="para-vi-sub">Phoebe chẳng biết tại sao. Nhưng sau khi chồng cô bỏ đi, phản ứng đầu tiên của cô là đem chuyện đó ra làm trò đùa. Cô đã dành nhiều ngày gọi điện cho những người bạn cao học mà cô đã mất liên lạc từ nhiều năm trước, nói rằng, “Thà vậy chứ tao vốn dĩ chẳng ưa gì gã đó,” với một giọng cao vút chẳng giống giọng của cô chút nào, bởi vì cô muốn gây ấn tượng với mọi người y như cách cô từng bị ấn tượng khi đọc câu nói của Edith Wharton sau khi nhìn thấy tên “Ông bà Wharton” được ghi trong sổ lưu bút tại một khách sạn mà bà chưa từng đặt chân tới.</p>
+<p class="para-vi-sub">Phoebe chẳng biết tại sao. Nhưng sau khi Matt dứt áo ra đi, phản ứng đầu tiên của cô là đem chuyện đó ra làm trò đùa. Cô đã dành nhiều ngày gọi điện cho những người bạn cao học mà cô đã mất liên lạc từ nhiều năm trước, nói rằng, “Thà vậy chứ mình vốn dĩ chẳng ưa gì anh ta,” với một giọng cao vút chẳng giống giọng của cô chút nào, bởi vì cô muốn gây ấn tượng với mọi người y như cách cô từng bị ấn tượng khi đọc câu nói của Edith Wharton sau khi nhìn thấy tên “Ông bà Wharton” được ghi trong sổ lưu bút tại một khách sạn mà bà chưa từng đặt chân tới.</p>
 
 <p class="para-en">“Apparently I <i>have</i> been here before,” Wharton said.</p>
 
@@ -574,7 +574,7 @@
 
 <p class="para-en">Phoebe doesn’t know how some girls grow up to become women like the bride, or like Mia, who treat everything, even this nineteenth-century mansion, even Phoebe’s husband, as their inheritance. Phoebe had been raised to feel sorry for everything—sorry for being born, sorry for almost drowning, sorry for getting an A-minus on my exam, sorry for not bearing children, sorry for not getting to the last three slides of the PowerPoint, everybody. Sometimes, Phoebe sent her class apology emails after lectures when she didn’t finish on time. Because she was a good professor. A good woman. But where is the line? When did Phoebe being good become Phoebe being nothing?</p>
 
-<p class="para-vi-sub">Phoebe không hiểu sao có những cô gái lớn lên lại trở thành kiểu phụ nữ như cô dâu, hoặc như Mia, những kẻ coi mọi thứ, thậm chí cả dinh thự thế kỷ mười chín này, thậm chí cả chồng của Phoebe, như thể tài sản thừa kế của riêng họ. Phoebe được nuôi dạy để luôn cảm thấy có lỗi với mọi thứ, có lỗi vì được sinh ra, có lỗi vì suýt chết đuối, có lỗi vì được điểm A trừ trong bài thi, có lỗi vì không sinh con đẻ cái, có lỗi vì không kịp chiếu ba trang PowerPoint cuối cùng, xin lỗi tất cả mọi người. Thỉnh thoảng, Phoebe còn gửi email xin lỗi cả lớp sau giờ giảng nếu cô không kịp giảng xong bài. Bởi vì cô là một giảng viên tận tâm. Một người phụ nữ tốt. Nhưng giới hạn ở đâu? Từ khi nào việc Phoebe sống tốt lại biến thành việc Phoebe chẳng còn là gì cả?</p>
+<p class="para-vi-sub">Phoebe không hiểu sao có những cô gái lớn lên lại trở thành kiểu phụ nữ như cô dâu, hoặc như Mia, những kẻ coi mọi thứ, thậm chí cả dinh thự thế kỷ mười chín này, thậm chí cả Matt của Phoebe, như thể tài sản thừa kế của riêng họ. Phoebe được nuôi dạy để luôn cảm thấy có lỗi với mọi thứ, có lỗi vì được sinh ra, có lỗi vì suýt chết đuối, có lỗi vì được điểm A trừ trong bài thi, có lỗi vì không sinh con đẻ cái, có lỗi vì không kịp chiếu ba trang PowerPoint cuối cùng, xin lỗi tất cả mọi người. Thỉnh thoảng, Phoebe còn gửi email xin lỗi cả lớp sau giờ giảng nếu cô không kịp giảng xong bài. Bởi vì cô là một giảng viên tận tâm. Một người phụ nữ tốt. Nhưng giới hạn ở đâu? Từ khi nào việc Phoebe sống tốt lại biến thành việc Phoebe chẳng còn là gì cả?</p>
 
 <p class="para-en">She doesn’t know. But she does know this.</p>
 
@@ -582,11 +582,11 @@
 
 <p class="para-en">“I paid eight hundred and thirty-six dollars to stay in this room for one single night!” Phoebe yells. “This is <i>my</i> fucking room!”</p>
 
-<p class="para-vi-sub">“Tôi đã trả tám trăm ba mươi sáu đô la để ở căn phòng này chỉ trong một đêm duy nhất đấy!” Phoebe hét lên. “Đây là phòng của mẹ kiếp <i>tôi</i>!”</p>
+<p class="para-vi-sub">“Tôi đã trả tám trăm ba mươi sáu đô la để ở căn phòng này chỉ trong một đêm duy nhất đấy!” Phoebe hét lên. “Đây là căn phòng chết tiệt của <i>tôi</i>!”</p>
 
 <p class="para-en">The bride looks stunned, as if nobody has ever shouted at her this loudly before. In the bride’s silence, Phoebe waits for some bad, foolish feeling to come, but she feels so exhilarated she wishes she had yelled at Mia like this. At her husband after he told her about the affair—but she couldn’t yell then. She was still trying so hard to be her best self, to stay reasonable, to save the marriage, to ask the right questions, gather all the information, as if understanding could help her solve the problem. But it didn’t matter how much he told her—she never understood. She was sick with information, sick with all the things she never said or did.</p>
 
-<p class="para-vi-sub">Cô dâu ngẩn người ra, cứ như thể chưa từng có ai lớn tiếng với cô ta đến thế. Trong sự im lặng của cô dâu, Phoebe chờ đợi một cảm giác tồi tệ, ngu ngốc nào đó xuất hiện, nhưng cô lại cảm thấy sảng khoái đến mức ước gì lúc trước mình cũng hét vào mặt Mia như thế này. Hay hét vào mặt chồng cũ sau khi hắn thú nhận chuyện ngoại tình, nhưng lúc đó cô nào dám hét. Cô vẫn đang cố gắng hết sức để giữ hình ảnh một người hoàn hảo, để giữ bình tĩnh, để cứu vãn cuộc hôn nhân, để đặt ra những câu hỏi đúng đắn, thu thập mọi thông tin, cứ như thể việc thấu hiểu có thể giúp cô giải quyết vấn đề. Nhưng dù hắn có kể bao nhiêu đi chăng nữa, cô cũng chẳng bao giờ hiểu nổi. Cô ngập ngụa trong thông tin, phát ốm vì tất cả những điều cô chưa từng nói hay chưa từng làm.</p>
+<p class="para-vi-sub">Cô dâu ngẩn người ra, cứ như thể chưa từng có ai lớn tiếng với cô ta đến thế. Trong sự im lặng của cô dâu, Phoebe chờ đợi một cảm giác tồi tệ, ngu ngốc nào đó xuất hiện, nhưng cô lại cảm thấy sảng khoái đến mức ước gì lúc trước mình cũng hét vào mặt Mia như thế này. Hay hét vào mặt Matt sau khi anh thú nhận chuyện ngoại tình, nhưng lúc đó cô nào dám hét. Cô vẫn đang cố gắng hết sức để làm một người vợ mẫu mực, để giữ bình tĩnh, để cứu vãn cuộc hôn nhân, để đặt ra những câu hỏi đúng đắn, thu thập mọi thông tin, cứ như thể việc thấu hiểu có thể giúp cô giải quyết vấn đề. Nhưng dù Matt có giãi bày bao nhiêu đi chăng nữa, cô cũng chẳng bao giờ hiểu nổi. Cô ngập ngụa trong thông tin, phát ốm vì tất cả những điều cô chưa từng nói hay chưa từng làm.</p>
 
 <p class="para-en">“Get <i>out</i>!” Phoebe screams.</p>
 
@@ -606,7 +606,7 @@
 
 <p class="para-en">But then the bride says “<i>Good”</i> so angrily, she bares her teeth just enough for Phoebe to see it again: the food.</p>
 
-<p class="para-vi-sub">Nhưng rồi cô dâu thốt lên câu “<i>Được thôi”</i> với vẻ tức giận đến độ nhe hàm răng ra vừa đủ để Phoebe lại nhìn thấy nó một lần nữa: mẩu thức ăn dắt trên kẽ răng.</p>
+<p class="para-vi-sub">Nhưng rồi cô dâu thốt lên câu “<i>Được thôi”</i> với vẻ hậm hực đến độ nhe răng ra vừa đủ để Phoebe lại nhìn thấy nó: mẩu thức ăn dính giữa kẽ răng.</p>
 
 <p class="para-en">Phoebe can’t believe it’s still there. Phoebe figured one of her friends would have told her by now. But maybe the bride is the kind of woman who doesn’t have friends like that, friends who are honest even when it’s embarrassing. Maybe that is why she is here in Phoebe’s room instead of down at her reception sipping on a fat-washed cocktail.</p>
 
@@ -618,7 +618,7 @@
 
 <p class="para-en">The cigarette ash falls on Phoebe’s leg. She is surprised by the burn. It feels like something awful being set in motion. The world gone bad. The bride will be sent down to her reception with food in her teeth and Phoebe will die.</p>
 
-<p class="para-vi-sub">Tàn thuốc lá rơi xuống chân Phoebe. Cô giật mình vì vết bỏng. Nó cứ như điềm báo cho một chuyện tồi tệ sắp sửa xảy ra. Thế giới này đã hỏng bet nhè rồi. Cô dâu sẽ quay lại bữa tiệc với mẩu thức ăn giắt trong kẽ răng, còn Phoebe sẽ chết.</p>
+<p class="para-vi-sub">Tàn thuốc lá rơi xuống chân Phoebe. Cô giật mình vì vết bỏng. Nó cứ như điềm báo cho một chuyện tồi tệ sắp sửa xảy ra. Thế giới này đã hoàn toàn đảo lộn rồi. Cô dâu sẽ quay lại bữa tiệc với mẩu thức ăn giắt trong kẽ răng, còn Phoebe sẽ chết.</p>
 
 <p class="para-en">But not yet.</p>
 
@@ -674,7 +674,7 @@
 
 <p class="para-en">“Can you bring floss to the Roaring Twenties?” the bride says. “Yes, that’s fine. I’ll wait. Thank you.”</p>
 
-<p class="para-vi-sub">“Anh có thể mang chỉ nha khoa lên phòng Roaring Twenties được không?” cô dâu nói. “Vâng, thế cũng được ạ. Tôi sẽ đợi. Cảm ơn anh.”</p>
+<p class="para-vi-sub">“Anh có thể mang chỉ nha khoa lên phòng Penthouse Thập Niên 20 Náo Nhiệt được không?” cô dâu nói. “Vâng, thế cũng được ạ. Tôi sẽ đợi. Cảm ơn anh.”</p>
 
 <p class="para-en">“Why are you having him bring it here?” Phoebe asks when she hangs up.</p>
 
@@ -726,7 +726,7 @@
 
 <p class="para-en">“It’s a nickname. My name is actually Delilah,” Lila says. “My mother named me after her favorite artist. And not even like a classically famous artist. Just some woman who lives in Bushwick and makes millions painting abstractions of babies eating womb-shaped fruit.”</p>
 
-<p class="para-vi-sub">“Đó là biệt danh thôi. Tên thật của tôi là Delilah,” Lila nói. “Mẹ tôi đặt tên tôi theo nghệ sĩ yêu thích của bà. Và thậm chí còn chẳng phải kiểu nghệ sĩ nổi tiếng kinh điển gì đâu. Chỉ là một bà cô nào đó sống ở Bushwick chuyên vẽ tranh trừu tượng về những đứa trẻ đang ăn loại trái cây có hình tử cung để kiếm hàng triệu đô.”</p>
+<p class="para-vi-sub">“Đó là biệt danh thôi. Tên thật của tôi là Delilah,” Lila nói. “Mẹ tôi đặt tên tôi theo nghệ sĩ yêu thích của bà. Thậm chí còn chẳng phải một danh họa kinh điển, mà chỉ là một người phụ nữ sống ở Bushwick kiếm hàng triệu đô nhờ vẽ tranh trừu tượng về những đứa trẻ đang ăn thứ quả có hình tử cung.”</p>
 
 <p class="para-en">Phoebe pours herself a little bit more of the wine, then offers the bottle to the bride. Why not? They have thirty minutes. And it’s her wine.</p>
 
@@ -778,11 +778,11 @@
 
 <p class="para-en">“They watched a woman die together, and now they’re like, bonded for life, I guess,” she says. “Jim comes over like every Saturday, even though that’s Gary’s one day off, and we spend it watching Jim cut up monkfish at the kitchen table while he brags about himself. He’s like, Oh, I’ve just been at home building my seaplane, even though I know for a fact he doesn’t have any of the parts. And did you know his great-uncle used to be in the Mob?”</p>
 
-<p class="para-vi-sub">“Họ từng cùng nhau chứng kiến một người phụ nữ qua đời, và giờ thì họ gắn kết với nhau cả đời luôn, tôi đoán thế,” cô nói. “Jim cứ sang chơi như cơm bữa vào mọi ngày thứ Bảy, mặc dù đó là ngày nghỉ duy nhất trong tuần của Gary, và chúng tôi dành trọn thời gian đó để nhìn Jim thái cá tuế ở bàn bếp trong lúc hắn ta khoác lác về bản thân. Hắn cứ ra vẻ kiểu, Ồ, tôi vừa ở nhà tự đóng một chiếc thủy phi cơ đấy, dù tôi biết tỏng là hắn chẳng có lấy một mảnh linh kiện nào trong tay. Và chị có biết là ông bác của hắn từng tham gia băng đảng Mafia không?”</p>
+<p class="para-vi-sub">“Họ từng cùng nhau chứng kiến một người phụ nữ qua đời, và giờ thì họ gắn kết với nhau cả đời luôn, tôi đoán thế,” cô nói. “Jim cứ sang chơi như cơm bữa vào mọi ngày thứ Bảy, mặc dù đó là ngày nghỉ duy nhất trong tuần của Gary, và chúng tôi dành trọn thời gian đó để nhìn Jim thái cá chày biển ở bàn bếp trong lúc anh ta khoác lác về bản thân. Anh ta cứ ra vẻ kiểu: Ồ, tôi vừa ở nhà tự đóng một chiếc thủy phi cơ đấy, dù tôi biết tỏng là anh ta chẳng có lấy một mảnh linh kiện nào trong tay. Và cô có biết là ông bác của anh ta từng tham gia băng đảng Mafia không?”</p>
 
 <p class="para-en">“How deep was his uncle in the Mob?”</p>
 
-<p class="para-vi-sub">“Ông bác của hắn ta lún sâu đến mức nào trong giới Mafia?”</p>
+<p class="para-vi-sub">“Ông bác của anh ta lún sâu đến mức nào trong giới Mafia?”</p>
 
 <p class="para-en">“That’s really not the point,” Lila says.</p>
 
@@ -794,15 +794,15 @@
 
 <p class="para-en">“The point is, I don’t get why Jim has to be around all of the time. They’d never be friends if Gary didn’t marry his sister.”</p>
 
-<p class="para-vi-sub">“Vấn đề là tôi không hiểu tại sao Jim cứ phải kè kè ở cạnh mọi lúc mọi nơi như thế. Bọn họ đời nào chơi thân với nhau nếu Gary không cưới em gái hắn.”</p>
+<p class="para-vi-sub">“Vấn đề là tôi không hiểu tại sao Jim cứ phải kè kè ở cạnh mọi lúc mọi nơi như thế. Bọn họ đời nào chơi thân với nhau nếu Gary không cưới em gái anh ta.”</p>
 
 <p class="para-en">She explains that her fiancé, Gary, is this handsome doctor who lives in Tiverton and spends his one day off running science experiments in the garden with his daughter, and Jim is an engineer who can’t keep a girlfriend longer than a month so he is always kind of hitting on everyone.</p>
 
-<p class="para-vi-sub">Cô giải thích rằng vị hôn phu của cô, Gary, là một bác sĩ điển trai sống ở Tiverton, người dành trọn ngày nghỉ duy nhất trong tuần để thực hiện các thí nghiệm khoa học trong vườn cùng con gái, còn Jim lại là một kỹ sư chẳng thể giữ chân nổi cô bạn gái nào quá một tháng nên lúc nào hắn cũng lân la tán tỉnh tất cả mọi người.</p>
+<p class="para-vi-sub">Cô giải thích rằng vị hôn phu của cô, Gary, là một bác sĩ điển trai sống ở Tiverton, người dành trọn ngày nghỉ duy nhất trong tuần để thực hiện các thí nghiệm khoa học trong vườn cùng con gái, còn Jim lại là một kỹ sư chẳng thể giữ chân nổi cô bạn gái nào quá một tháng nên lúc nào anh ta cũng lân la tán tỉnh tất cả mọi người.</p>
 
 <p class="para-en">“Even me,” she says. “He like, bought me a skirt for my birthday. I mean, isn’t that weird?”</p>
 
-<p class="para-vi-sub">“Kế cả tôi,” cô bảo. “Hắn ta kiểu như mua tặng tôi một chiếc chân váy vào dịp sinh nhật ấy. Ý tôi là, thế có dị hợm không cơ chứ?”</p>
+<p class="para-vi-sub">“Kể cả tôi,” cô bảo. “Anh ta kiểu như mua tặng tôi một chiếc chân váy vào dịp sinh nhật ấy. Ý tôi là, thế có dị hợm không cơ chứ?”</p>
 
 <p class="para-en">“I don’t know. Did you need a skirt?”</p>
 
@@ -826,7 +826,7 @@
 
 <p class="para-en">“This was some kind of professional skirt. The kind you’d buy at Macy’s or something to wear with a matching jacket. And when I showed Gary, he was just like, Yeah, I don’t think Jim understands how to buy presents for women.”</p>
 
-<p class="para-vi-sub">“Đây là một dạng chân váy công sở hẳn hoi. Kiểu mà bạn sẽ mua ở cửa hàng Macy's hay đại loại thế để mặc chung với một chiếc áo khoác đồng bộ. Và khi tôi mang ra cho Gary xem, anh ấy chỉ bảo là, À, anh nghĩ là Jim không biết cách mua quà cho phụ nữ cho lắm đâu.”</p>
+<p class="para-vi-sub">“Đây là một dạng chân váy công sở hẳn hoi. Kiểu mà bạn sẽ mua ở cửa hàng Macy’s hay đại loại thế để mặc chung với một chiếc áo khoác đồng bộ. Và khi tôi mang ra cho Gary xem, anh ấy chỉ bảo là, À, anh nghĩ là Jim không biết cách mua quà cho phụ nữ cho lắm đâu.”</p>
 
 <p class="para-en">Phoebe likes how Lila does Gary’s voice, too. Lila, it seems, is good at voices.</p>
 
@@ -846,7 +846,7 @@
 
 <p class="para-en">“That is … not my experience with doctors.”</p>
 
-<p class="para-vi-sub">“Đó... hoàn toàn không phải là trải nghiệm của tôi với các bác sĩ.”</p>
+<p class="para-vi-sub">“Đó… hoàn toàn không phải là trải nghiệm của tôi với các bác sĩ.”</p>
 
 <p class="para-en">“Well, maybe he’s just got this blind spot when it comes to Jim. It’s like, Wendy died and Jim did their dishes for a year straight, and took his daughter to school when Gary didn’t have the strength, and now Jim is a forever hero. And so is Wendy. That’s the dead wife.”</p>
 
@@ -862,7 +862,7 @@
 
 <p class="para-en">“There’s seriously no other way to describe her,” she says. “You can’t use her name. Anytime her name is spoken, somebody is required to have a complete mental breakdown. Sometimes it’s his daughter. Often, it’s me. But still.”</p>
 
-<p class="para-vi-sub">“Nói thật là chẳng còn cách nào khác để miêu tả cô ấy cả,” cô nói. “Cậu không thể dùng tên cô ấy được đâu. Bất cứ khi nào cái tên ấy được thốt lên, thế nào cũng sẽ có người lên cơn suy sụp tinh thần toàn tập. Thỉnh thoảng thì là con gái anh ấy. Thường thì là tôi. Dù sao thì vẫn cứ thế.”</p>
+<p class="para-vi-sub">“Nói thật là chẳng còn cách nào khác để miêu tả cô ấy cả,” cô nói. “Cô không thể dùng tên cô ấy được đâu. Bất cứ khi nào cái tên ấy được thốt lên, thế nào cũng sẽ có người lên cơn suy sụp tinh thần toàn tập. Thỉnh thoảng thì là con gái anh ấy. Thường thì là tôi. Dù sao thì vẫn cứ thế.”</p>
 
 <p class="para-en">Lila clutches the wine bottle, looks back down at her party.</p>
 
@@ -878,11 +878,11 @@
 
 <p class="para-en">“Apparently, it didn’t fly,” Lila says. “And fine, I get it. In his eyes, I’m his dead sister’s replacement and he always wants me to remember that. But this is my wedding week. And I can’t stop having this horrible feeling that somehow Jim is going to ruin it. I mean, if you don’t beat him to it.”</p>
 
-<p class="para-vi-sub">“Rõ ràng là nó chẳng bay nổi,” Lila nói. “Và thôi được rồi, tôi hiểu chứ. Trong mắt anh ta, tôi chỉ là kẻ thay thế cho người chị gái quá cố và anh ta luôn muốn tôi phải ghi nhớ điều đó. Nhưng đây là tuần lễ đám cưới của tôi cơ mà. Và tôi cứ có cái cảm giác tồi tệ rằng thế nào Jim cũng sẽ phá hỏng nó cho mà xem. Ý tôi là, nếu như cậu không ra tay trước.”</p>
+<p class="para-vi-sub">“Rõ ràng là nó chẳng bay nổi,” Lila nói. “Và thôi được rồi, tôi hiểu chứ. Trong mắt anh ta, tôi chỉ là kẻ thay thế cho người chị gái quá cố và anh ta luôn muốn tôi phải ghi nhớ điều đó. Nhưng đây là tuần lễ đám cưới của tôi cơ mà. Và tôi cứ có cái cảm giác tồi tệ rằng thế nào Jim cũng sẽ phá hỏng nó cho mà xem. Ý tôi là, nếu như cô không ra tay trước.”</p>
 
 <p class="para-en">Then Lila scans the reception with the binoculars again like she’s looking for Jim. When she finds him, she narrows her eyes with alarm.</p>
 
-<p class="para-vi-sub">Đoạn, Lila lại dùng ống nhòm rà soát khắp buổi tiệc cưới cứ như thể đang tìm kiếm Jim vậy. Khi tìm thấy cậu ta, cô liền nheo mắt đầy cảnh giác.</p>
+<p class="para-vi-sub">Đoạn, Lila lại dùng ống nhòm rà soát khắp buổi tiệc cưới cứ như thể đang tìm kiếm Jim vậy. Khi tìm thấy anh ta, cô liền nheo mắt đầy cảnh giác.</p>
 
 <p class="para-en">“Oh my God, is Jim seriously hitting on my <i>mother</i>?”</p>
 
@@ -894,7 +894,7 @@
 
 <p class="para-en">“Which one is your mother?” Phoebe asks.</p>
 
-<p class="para-vi-sub">“Ai mới là mẹ cậu cơ?” Phoebe hỏi.</p>
+<p class="para-vi-sub">“Ai mới là mẹ cô cơ?” Phoebe hỏi.</p>
 
 <p class="para-en">“The one who looks like she’s just about to go on <i>Dancing with the Stars</i>.”</p>
 
@@ -902,7 +902,7 @@
 
 <p class="para-en">“Can you be more specific?”</p>
 
-<p class="para-vi-sub">“Cậu có thể nói cụ thể hơn được không?”</p>
+<p class="para-vi-sub">“Cô có thể nói cụ thể hơn được không?”</p>
 
 <p class="para-en">“That’s actually very specific,” Lila says. But then she points to a woman in a yellow dress.</p>
 
@@ -914,7 +914,7 @@
 
 <p class="para-en">“They look like they’re just, you know, talking,” Phoebe says.</p>
 
-<p class="para-vi-sub">“Trông họ có vẻ như chỉ đang, cậu biết đấy, nói chuyện bình thường thôi mà,” Phoebe nói.</p>
+<p class="para-vi-sub">“Trông họ có vẻ như chỉ đang, cô biết đấy, nói chuyện bình thường thôi mà,” Phoebe nói.</p>
 
 <p class="para-en">“Oh, there is no just talking with my mother,” Lila says. “With her, it’s like always this intense spewing of information, like here is the last book on Gaudi that I just read and now I am going to tell you all about it verbatim. And my father used to just sit there and take it for thirty years, until he finally exploded and told us that he hated modern art. He actually confessed that to us on his deathbed. Isn’t that awful?”</p>
 
@@ -922,7 +922,7 @@
 
 <p class="para-en">“Wait, what?” Phoebe asks. “Your father confessed on his deathbed that he didn’t like modern art?”</p>
 
-<p class="para-vi-sub">“Khoan đã, cái gì cơ?” Phoebe hỏi. “Cha cậu thú nhận trên giường bệnh rằng ông không thích nghệ thuật hiện đại á?”</p>
+<p class="para-vi-sub">“Khoan đã, cái gì cơ?” Phoebe hỏi. “Cha cô thú nhận trên giường bệnh rằng ông không thích nghệ thuật hiện đại á?”</p>
 
 <p class="para-en">“That’s right,” Lila says. “My father called from the hospital and asked to be put on speaker, and we were all gathered around, because we never knew which call was going to be his last, and he was like, My darlings, every man must come to terms with his true nature at the end of his life, and it is time I do the same, and my mother was like, Are you sure that’s a good idea, Henry? And my father was just like, I have always despised modern art, particularly the Cubists and everything that followed.”</p>
 
@@ -942,7 +942,7 @@
 
 <p class="para-en">“So to find out that he only did all this just to impress my mother in the beginning,” Lila says. “Insert a montage of monologues from my mother about how her mother was right, how she never should have married a much older man who was literally in the business of trash, and how dare that man call anything a waste, let alone <i>Cubism</i>, and she knows now she really should have married her cousin’s cousin Gregory Lancaster like her mother had suggested, because the joke’s on her. Gregory is still alive.”</p>
 
-<p class="para-vi-sub">“Thế nên khi phát hiện ra rằng tất cả những chuyện đó ông chỉ làm để gây ấn tượng với mẹ tôi vào hồi mới quen,” Lila nói. “Chèn vào đây là một chuỗi những độc thoại phát biểu không dứt của mẹ tôi về việc mẹ bà đã đúng ra sao, rằng lẽ ra bà không bao giờ nên kết hôn với một người đàn ông lớn hơn rất nhiều tuổi mà lại làm cái nghề rác rưởi nghĩa đen như thế, và cái thá gì mà người đàn ông đó dám gọi bất cứ thứ gì là rác, chứ đừng nói chi đến nghệ thuật <i>Lập thể</i>, và giờ đây bà thừa hiểu là lẽ ra bà nên cưới cậu họ Gregory Lancaster như lời mẹ bà từng khuyên nhủ, bởi vì kẻ nếm mùi cay đắng hóa ra lại chính là bà. Gregory hiện vẫn còn sống nhăn ra kìa.”</p>
+<p class="para-vi-sub">“Thế nên khi phát hiện ra rằng tất cả những chuyện đó ông chỉ làm để gây ấn tượng với mẹ tôi vào hồi mới quen,” Lila nói. “Chèn vào đây là một chuỗi những độc thoại phát biểu không dứt của mẹ tôi về việc mẹ bà đã đúng ra sao, rằng lẽ ra bà không bao giờ nên kết hôn với một người đàn ông lớn hơn rất nhiều tuổi mà lại làm cái nghề rác rưởi nghĩa đen như thế, và cái thá gì mà người đàn ông đó dám gọi bất cứ thứ gì là rác, chứ đừng nói chi đến nghệ thuật <i>Lập thể</i>, và giờ đây bà thừa hiểu là lẽ ra bà nên cưới người anh họ Gregory Lancaster như lời mẹ bà từng khuyên nhủ, bởi vì kẻ nếm mùi cay đắng hóa ra lại chính là bà. Gregory hiện vẫn còn sống nhăn ra kìa.”</p>
 
 <p class="para-en">Phoebe looks through the binoculars and watches Jim walk away. She waits to see if anything comes over Lila’s mother’s face. She wonders if it’s hard to be at this wedding alone after her husband’s death. Is she worried about who she is going to talk to next? How long she’ll have to stand there alone?</p>
 
@@ -954,19 +954,19 @@
 
 <p class="para-en">“How do you know?”</p>
 
-<p class="para-vi-sub">“Sao cậu biết?”</p>
+<p class="para-vi-sub">“Sao cô biết?”</p>
 
 <p class="para-en">“She tells me! When she’s really loaded at two in the afternoon, she just says these things. She’s like, Lila, you don’t have to get married just because your father’s dying wish was to see you get married. What does it matter? He’s already dead! And then she goes off about how I might want to think twice about marrying an older man in waste management like she did.”</p>
 
-<p class="para-vi-sub">"Mẹ tớ nói thế đấy! Lúc mẹ say mèm vào lúc hai giờ chiều, mẹ cứ thế mà thốt ra mấy câu ấy thôi. Mẹ kiểu như, Lila, con đâu cần phải cưới chỉ vì ước nguyện cuối đời của bố là thấy con lên xe hoa. Có nghĩa lý gì đâu? Ông ấy chết mất tiêu rồi! Và rồi mẹ lại bắt đầu cằn nhằn về chuyện tớ nên suy nghĩ kỹ trước khi kết hôn với một người đàn ông lớn tuổi làm trong ngành quản lý rác thải y như bà ấy vậy."</p>
+<p class="para-vi-sub">“Mẹ tôi nói thế đấy! Lúc mẹ say mèm vào lúc hai giờ chiều, mẹ cứ thế mà thốt ra mấy câu ấy thôi. Mẹ kiểu như: Lila, con đâu cần phải cưới chỉ vì ước nguyện cuối đời của bố là thấy con lên xe hoa. Có nghĩa lý gì đâu? Ông ấy chết mất tiêu rồi! Và rồi mẹ lại bắt đầu cằn nhằn về chuyện tôi nên suy nghĩ kỹ trước khi kết hôn với một người đàn ông lớn tuổi làm trong ngành quản lý rác thải y như bà ấy vậy.”</p>
 
 <p class="para-en">“I thought Gary was a doctor?”</p>
 
-<p class="para-vi-sub">"Tớ cứ tưởng Gary là bác sĩ?"</p>
+<p class="para-vi-sub">“Tôi cứ tưởng Gary là bác sĩ?”</p>
 
 <p class="para-en">“My father owned landfills. Gary is a gastroenterologist. Totally different jobs, but my mother is just like, Like I said, they’re both in waste management. Two men, on a mission to help the country deal with their shit.”</p>
 
-<p class="para-vi-sub">"Bố tớ sở hữu các bãi chôn lấp rác. Còn Gary là bác sĩ chuyên khoa tiêu hóa. Hai công việc hoàn toàn khác nhau, nhưng mẹ tớ cứ theo kiểu, Thì mẹ đã bảo rồi đấy, cả hai đều làm trong lĩnh vực quản lý rác thải cả. Hai người đàn ông, với sứ mệnh giúp đất nước giải quyết đống rác rưởi của họ."</p>
+<p class="para-vi-sub">“Bố tôi sở hữu các bãi chôn lấp rác. Còn Gary là bác sĩ chuyên khoa tiêu hóa. Hai công việc hoàn toàn khác nhau, nhưng mẹ tôi cứ theo kiểu: Thì mẹ đã bảo rồi đấy, cả hai đều làm trong lĩnh vực quản lý rác thải cả. Hai người đàn ông, với sứ mệnh giúp thiên hạ dọn sạch thứ cặn bã trong người.”</p>
 
 <p class="para-en">Lila is quiet for a moment, like she is considering something deeply, perhaps the entire trajectory of her life.</p>
 
@@ -974,15 +974,15 @@
 
 <p class="para-en">“Can you imagine having a mother who talks to you like that?”</p>
 
-<p class="para-vi-sub">"Cậu có thể tưởng tượng nổi việc có một người mẹ nói chuyện với mình như thế không?"</p>
+<p class="para-vi-sub">“Cô có thể tưởng tượng nổi việc có một người mẹ nói chuyện với mình như thế không?”</p>
 
 <p class="para-en">“My mother is dead,” Phoebe says.</p>
 
-<p class="para-vi-sub">"Mẹ tôi mất rồi," Phoebe đáp.</p>
+<p class="para-vi-sub">“Mẹ tôi mất rồi,” Phoebe đáp.</p>
 
 <p class="para-en">“Oh. Well, you’re lucky then. My mother, she just monologues,” Lila says, as if she were not doing the same exact thing right now. “Which is absolutely why she is not getting a speech at this wedding. I kept telling her, Mom, the mother of the bride doesn’t even get a speech, and she was like, Yes, and why do we think that is, Lila? Why do you think the men have always wanted the mother of the bride to be silent?”</p>
 
-<p class="para-vi-sub">"Ồ. Vậy thì cậu may mắn thật đấy. Còn mẹ tớ, bà cứ độc thoại suốt thôi," Lila nói, cứ như thể bản thân cô vừa không hề làm đúng cái điều y hệt như vậy ngay lúc này. "Đó chính là lý do tại sao bà không đời nào được phát biểu trong đám cưới này. Tớ cứ nói đi nói lại với bà rằng, Mẹ ơi, mẹ cô dâu thậm chí còn chẳng có phần phát biểu, thế là bà kiểu như, Đúng thế, và theo con thì tại sao lại thế hả Lila? Tại sao con nghĩ đàn ông lúc nào cũng muốn mẹ cô dâu phải ngậm miệng?"</p>
+<p class="para-vi-sub">“Ồ. Vậy thì cô may mắn thật đấy. Còn mẹ tôi, bà cứ độc thoại suốt thôi,” Lila nói, cứ như thể bản thân cô vừa không hề làm đúng cái điều y hệt như vậy ngay lúc này. “Đó chính là lý do tại sao bà không đời nào được phát biểu trong đám cưới này. Tôi cứ nói đi nói lại với bà rằng: Mẹ ơi, mẹ cô dâu thậm chí còn chẳng có phần phát biểu, thế là bà kiểu như: Đúng thế, và theo con thì tại sao lại thế hả Lila? Tại sao con nghĩ đàn ông lúc nào cũng muốn mẹ cô dâu phải ngậm miệng?”</p>
 
 <p class="para-en">The bride takes another sip.</p>
 
@@ -990,15 +990,15 @@
 
 <p class="para-en">“And I’m like, It’s not about men! It’s about you! Why would I trust you with a speech? You’re just going to get loaded and stand up there and talk about how Gary is too old for me or something!”</p>
 
-<p class="para-vi-sub">"Và tớ lại kiểu như, Chẳng liên quan gì đến đàn ông cả! Là do mẹ đấy chứ! Tại sao con lại có thể tin tưởng giao phần phát biểu cho mẹ cơ chứ? Mẹ chỉ sắp sửa say mèm rồi đứng lên đó bô bô về chuyện Gary quá già so với con hay đại loại thế thôi!"</p>
+<p class="para-vi-sub">“Và tôi lại kiểu như: Chẳng liên quan gì đến đàn ông cả! Là do mẹ đấy chứ! Tại sao con lại có thể tin tưởng giao phần phát biểu cho mẹ cơ chứ? Mẹ chỉ sắp sửa say mèm rồi đứng lên đó bô bô về chuyện Gary quá già so với con hay đại loại thế thôi!”</p>
 
 <p class="para-en">Phoebe wonders how long Lila could go on without a response. Again, she wonders if this is the difference between growing up with and without a mother. Having a mother helps you believe that everybody wants to hear every little thing you think. Having a mother helps you speak without thinking. It allows you to trust in your most awful self, to yell and scream and cry, knowing that your mother will still love you by the end of it. In her teens, Phoebe was regularly astonished by how awful her friends were to their mothers, and the mothers just took it, because the mothers knew that sometimes they were awful, too. The mothers had made their own mistakes.</p>
 
-<p class="para-vi-sub">Phoebe tự hỏi không biết Lila có thể huyên thuyên đến bao giờ nếu không có ai đáp lời. Một lần nữa, cô tự hỏi đây có phải là điểm khác biệt giữa việc lớn lên có mẹ và không có mẹ hay không. Có mẹ giúp cậu tin rằng ai cũng muốn nghe từng li từng tí mọi suy nghĩ trong đầu cậu. Có mẹ giúp cậu nói năng mà chẳng cần suy nghĩ. Nó cho phép cậu thoải mái bộc lộ phần tồi tệ nhất của bản thân, được hét la, gào thét và khóc lóc, bởi cậu biết rằng dù thế nào đi nữa thì đến cuối cùng mẹ vẫn sẽ yêu thương cậu. Hồi tuổi thiếu niên, Phoebe thường xuyên kinh ngạc trước cách mấy đứa bạn đối xử tệ bạc với mẹ chúng, vậy mà các bà mẹ vẫn cứ dung thứ hết, bởi các bà mẹ thừa biết thỉnh thoảng chính họ cũng thật tệ hại. Các bà mẹ cũng từng mắc những sai lầm của riêng mình.</p>
+<p class="para-vi-sub">Phoebe tự hỏi không biết Lila có thể huyên thuyên đến bao giờ nếu không có ai đáp lời. Một lần nữa, cô tự hỏi đây có phải là điểm khác biệt giữa việc lớn lên có mẹ và không có mẹ hay không. Có mẹ giúp người ta tin rằng ai cũng muốn nghe từng li từng tí mọi suy nghĩ trong đầu mình. Có mẹ giúp người ta nói năng mà chẳng cần suy nghĩ. Nó cho phép người ta thoải mái bộc lộ phần tồi tệ nhất của bản thân, được hét la, gào thét và khóc lóc, bởi người ta biết rằng dù thế nào đi nữa thì đến cuối cùng mẹ vẫn sẽ yêu thương mình. Hồi tuổi thiếu niên, Phoebe thường xuyên kinh ngạc trước cách mấy đứa bạn đối xử tệ bạc với mẹ chúng, vậy mà các bà mẹ vẫn cứ dung thứ hết, bởi các bà mẹ thừa biết thỉnh thoảng chính họ cũng thật tệ hại. Các bà mẹ cũng từng mắc những sai lầm của riêng mình.</p>
 
 <p class="para-en">But Phoebe’s mother sat high up on the fireplace mantel, in a gilded frame, like a martyred saint. Under her gaze, Phoebe was careful never to make any mistakes. Phoebe was quiet and obedient, never talking too fast or too loudly, because she never wanted to be a burden to her father. She had felt this way in her marriage, too—careful never to cry too hard or tell meandering stories at dinner. Careful always to wear nice pajamas to bed. Careful never to lose control. Even at the end, when she learned about the affair, she stayed so calm that her husband was confused. “You’re being so nice about this,” Matt said.</p>
 
-<p class="para-vi-sub">Thế nhưng mẹ của Phoebe lại ngự trị trên bệ lò sưởi, nằm trong một chiếc khung mạ vàng, hệt như một vị thánh tử đạo. Dưới ánh mắt ấy, Phoebe luôn cẩn trọng để không bao giờ phạm phải bất kỳ sai lầm nào. Phoebe ngoan ngoãn và vâng lời, chẳng bao giờ nói quá nhanh hay quá lớn tiếng, bởi cô chưa bao giờ muốn trở thành gánh nặng cho bố. Cô cũng từng cảm thấy như vậy trong cuộc hôn nhân của mình, luôn dè dặt để không bao giờ khóc quá to hay kể lể những câu chuyện lan man bên bàn ăn. Luôn cẩn trọng mặc những bộ đồ ngủ thật đẹp khi lên giường. Luôn cẩn trọng để không bao giờ đánh mất sự kiểm soát. Ngay cả đến tận phút cuối, khi biết chuyện chồng ngoại tình, cô vẫn giữ được sự bình tĩnh đến mức khiến chồng phải bối rối. Matt đã nói, "Em cư xử cứ như thể mọi chuyện chẳng có gì to tát ấy nhỉ."</p>
+<p class="para-vi-sub">Thế nhưng di ảnh mẹ Phoebe lại ngự trên bệ lò sưởi, trong chiếc khung mạ vàng, tựa như một vị thánh tử đạo. Dưới ánh mắt ấy, Phoebe luôn cẩn trọng để không bao giờ phạm phải bất kỳ sai lầm nào. Phoebe ngoan ngoãn và vâng lời, chẳng bao giờ nói quá nhanh hay quá lớn tiếng, bởi cô chưa bao giờ muốn trở thành gánh nặng cho bố. Cô cũng từng cảm thấy như vậy trong cuộc hôn nhân của mình, luôn dè dặt để không bao giờ khóc quá to hay kể lể những câu chuyện lan man bên bàn ăn. Luôn cẩn trọng mặc những bộ đồ ngủ thật đẹp khi lên giường. Luôn cẩn trọng để không bao giờ đánh mất sự kiểm soát. Ngay cả đến tận phút cuối, khi biết chuyện chồng ngoại tình, cô vẫn giữ được sự bình tĩnh đến mức khiến chồng phải bối rối. Matt đã nói: “Em cư xử cứ như thể mọi chuyện chẳng có gì to tát ấy nhỉ.”</p>
 
 <p class="para-en">But Lila talks without end, without clear transitions from topic to topic, assuming that Phoebe, a total stranger who has already announced multiple times that she wants to die, is interested in hearing every detail about her personal life. Phoebe can’t tell if it’s the most appalling or most impressive display she’s ever witnessed.</p>
 
@@ -1010,35 +1010,35 @@
 
 <p class="para-en">“How much older than you is Gary?” Phoebe asks.</p>
 
-<p class="para-vi-sub">"Gary hơn cậu bao nhiêu tuổi vậy?" Phoebe hỏi.</p>
+<p class="para-vi-sub">“Gary hơn cô bao nhiêu tuổi vậy?” Phoebe hỏi.</p>
 
 <p class="para-en">“Only eleven and a half years,” the bride says. “He’s forty, but you can barely tell.”</p>
 
-<p class="para-vi-sub">"Chỉ mười một tuổi rưỡi thôi," cô dâu đáp. "Anh ấy bốn mươi rồi, nhưng trông gần như chẳng nhận ra đâu."</p>
+<p class="para-vi-sub">“Chỉ mười một tuổi rưỡi thôi,” cô dâu đáp. “Anh ấy bốn mươi rồi, nhưng trông gần như chẳng nhận ra đâu.”</p>
 
 <p class="para-en">“Oh,” Phoebe says, genuinely not impressed. “That’s not bad. I’ve seen much worse.”</p>
 
-<p class="para-vi-sub">"Ồ," Phoebe nói, hoàn toàn không chút ấn tượng. "Thế thì cũng bình thường mà. Tôi từng thấy những trường hợp tệ hơn nhiều."</p>
+<p class="para-vi-sub">“Ồ,” Phoebe nói, hoàn toàn không chút ấn tượng. “Thế thì cũng bình thường mà. Tôi từng thấy những trường hợp tệ hơn nhiều.”</p>
 
 <p class="para-en">“Like what?” The bride looks hopeful.</p>
 
-<p class="para-vi-sub">"Như thế nào cơ?" Cô dâu nhìn với vẻ đầy kỳ vọng.</p>
+<p class="para-vi-sub">“Như thế nào cơ?” Cô dâu nhìn với vẻ đầy kỳ vọng.</p>
 
 <p class="para-en">“Like this seventy-five-year-old historian at my university had an affair with the twenty-six-year-old admin.”</p>
 
-<p class="para-vi-sub">"Như việc một ông giáo sư sử học bảy mươi lăm tuổi ở trường đại học của tôi lại đi lại với cô nhân viên hành chính hai mươi sáu tuổi ấy."</p>
+<p class="para-vi-sub">“Như việc một ông giáo sư sử học bảy mươi lăm tuổi ở trường đại học của tôi lại đi lại với cô nhân viên hành chính hai mươi sáu tuổi ấy.”</p>
 
 <p class="para-en">“Jesus. That’s just weird.”</p>
 
-<p class="para-vi-sub">"Chúa tôi. Nghe dị hợm thật đấy."</p>
+<p class="para-vi-sub">“Chúa tôi. Nghe dị hợm thật đấy.”</p>
 
 <p class="para-en">“Especially since she wasn’t even trying to get her PhD,” Phoebe says. It feels good to talk about her old life so casually like that. As if it were all just funny subject material to share in conversation with Lila. “I mean, we could never figure out why she was doing it exactly. Like what would this admin with no aspirations in higher ed gain from dating a married geriatric academic?”</p>
 
-<p class="para-vi-sub">"Nhất là khi cô ta thậm chí còn chẳng có ý định lấy bằng tiến sĩ," Phoebe nói. Cảm giác được thản nhiên nhắc về cuộc sống cũ của mình một cách dửng dưng như thế thật dễ chịu làm sao. Cứ như thể tất cả chỉ là những chất liệu chuyện trò hài hước để chia sẻ với Lila vậy. "Ý tôi là, chúng tôi chẳng tài nào hiểu nổi rốt cuộc cô ta làm thế để làm gì. Kiểu như một nhân viên hành chính chẳng có chút hoài bão gì trong giới học thuật cao cấp thì sẽ vớt vát được gì từ việc hẹn hò với một lão học giả đã gần đất xa trời lại còn có vợ cơ chứ?"</p>
+<p class="para-vi-sub">“Nhất là khi cô ta thậm chí còn chẳng có ý định lấy bằng tiến sĩ,” Phoebe nói. Cảm giác được thản nhiên nhắc về cuộc sống cũ của mình một cách dửng dưng như thế thật dễ chịu làm sao. Cứ như thể tất cả chỉ là những chất liệu chuyện trò hài hước để chia sẻ với Lila vậy. “Ý tôi là, chúng tôi chẳng tài nào hiểu nổi rốt cuộc cô ta làm thế để làm gì. Kiểu như một nhân viên hành chính chẳng có chút hoài bão gì trong giới học thuật cao cấp thì sẽ vớt vát được gì từ việc hẹn hò với một lão học giả đã gần đất xa trời lại còn có vợ cơ chứ?”</p>
 
 <p class="para-en">“Maybe she was in love,” the bride says. “Not everything is a pathology, you know. I was like, Mom, not everything is about Dad dying! I didn’t even know Dad was dying when I met Gary. Gary just randomly came to our art gallery looking for some paintings to fill up his new house, and then two days later, I took my dad to his GI because we were expecting bad news, and I was shocked to see that Gary was the doctor. I mean, truly a wild coincidence. Gary and I both knew it had to mean something.”</p>
 
-<p class="para-vi-sub">"Biết đâu cô ấy yêu thật thì sao," cô dâu nói. "Đâu phải chuyện gì cũng là bệnh lý, cậu biết đấy. Tớ đã bảo mẹ thế này, Mẹ ơi, có phải chuyện gì cũng gắn liền với chuyện Bố sắp chết đâu! Tớ còn chẳng biết bố đang lâm bệnh nặng lúc gặp Gary cơ mà. Gary chỉ tình cờ ghé qua phòng tranh của gia đình để tìm vài bức tranh trang hoàng cho ngôi nhà mới của anh ấy, rồi hai ngày sau, tớ đưa bố đến gặp bác sĩ tiêu hóa vì nhà tớ đang trông chờ những tin tức xấu, và tớ đã tá hỏa khi thấy Gary chính là bác sĩ khám bệnh. Ý tớ là, đúng là một sự trùng hợp điên rồ. Cả tớ và Gary đều biết rằng chuyện này chắc chắn phải mang một ý nghĩa nào đó."</p>
+<p class="para-vi-sub">“Biết đâu cô ấy yêu thật thì sao,” cô dâu nói. “Đâu phải chuyện gì cũng là bệnh lý, cô biết đấy. Tôi đã bảo mẹ thế này: Mẹ ơi, có phải chuyện gì cũng gắn liền với chuyện Bố sắp chết đâu! Tôi còn chẳng biết bố đang lâm bệnh nặng lúc gặp Gary cơ mà. Gary chỉ tình cờ ghé qua phòng tranh của gia đình để tìm vài bức tranh trang hoàng cho ngôi nhà mới của anh ấy, rồi hai ngày sau, tôi đưa bố đến gặp bác sĩ chuyên khoa tiêu hóa vì gia đình tôi đang trông chờ những tin tức xấu, và tôi đã tá hỏa khi thấy Gary chính là bác sĩ khám bệnh. Ý tôi là, đúng là một sự trùng hợp điên rồ. Cả tôi và Gary đều biết rằng chuyện này chắc chắn phải mang một ý nghĩa nào đó.”</p>
 
 <p class="para-en">But her mother was not convinced.</p>
 
@@ -1046,7 +1046,7 @@
 
 <p class="para-en">“My mother is like, We all knew on some level that your father was going to die. And I’m like, Well yeah, I’ve always known that someday my father will die. But maybe, just maybe, it’s possible that Gary and I love each other? I mean, why does everything have to be about my father one day dying? And my mother is like, I didn’t make the rules, sweetheart. Take it up with Freud.”</p>
 
-<p class="para-vi-sub">"Mẹ tớ lại kiểu như, Sâu thẳm trong lòng chúng ta ai cũng biết rõ bố con rồi sẽ chết. Và tớ kiểu như, Vâng thì, con vẫn luôn biết rằng có ngày bố sẽ chết mà. Nhưng mà biết đâu đấy, liệu có khả năng là tớ và Gary yêu nhau thật lòng hay không? Ý tớ là, tại sao chuyện gì cũng phải xoay quanh việc một ngày nào đó bố sẽ chết cơ chứ? Và mẹ tớ lại bảo thế này, Mẹ có đặt ra luật lệ đâu cưng. Cứ đi mà phàn nàn với Freud ấy."</p>
+<p class="para-vi-sub">“Mẹ tôi lại kiểu như: Sâu thẳm trong lòng chúng ta ai cũng biết rõ bố con rồi sẽ chết. Và tôi kiểu như: Vâng thì, con vẫn luôn biết rằng có ngày bố sẽ chết mà. Nhưng mà biết đâu đấy, liệu có khả năng là tôi và Gary yêu nhau thật lòng hay không? Ý tôi là, tại sao chuyện gì cũng phải xoay quanh việc một ngày nào đó bố sẽ chết cơ chứ? Và mẹ tôi lại bảo thế này: Mẹ có đặt ra luật lệ đâu cưng. Cứ đi mà phàn nàn với Freud ấy.”</p>
 
 <p class="para-en">The bride sighs.</p>
 
@@ -1054,7 +1054,7 @@
 
 <p class="para-en">“We should have just gotten married right after he proposed,” Lila says. “My father was actually doing really well then, responding to the treatments the way Gary said he would. But we had just gone into lockdown, and so we kept postponing the wedding, thinking the lockdown would end at any moment. And then my dad got so much worse and after he was hospitalized, it didn’t feel right to celebrate anything. I mean, he hardly made any sense at the end. He was so high on morphine, it became unbearable to take his phone calls. We’d put him on speaker and be like, Hi, Dad, but then there would be nothing but this long dramatic pause until finally, he was like … Herbbbbballll Essences!”</p>
 
-<p class="para-vi-sub">“Lẽ ra chúng tôi nên cưới ngay sau khi anh ấy cầu hôn,” Lila nói. “Lúc đó bố tôi thực sự rất khỏe, đáp ứng các liệu trình đúng như những gì Gary đã nói. Nhưng chúng ta vừa bước vào giai đoạn phong tỏa, thế nên tụi tôi cứ chần chừ hoãn đám cưới lại, nghĩ rằng giai đoạn phong rồi sẽ chấm dứt bất cứ lúc nào. Và rồi bố tôi chuyển biến nặng hơn rất nhiều, sau khi ông nhập viện, tôi thấy chẳng còn đúng đắn gì để mà ăn mừng nữa. Ý tôi là, cuối đời ông chẳng còn nói năng minh mẫn nổi nữa. Ông phê mo-phin nặng đến mức những cuộc điện thoại của ông trở thành một cực hình. Tụi tôi bật loa ngoài rồi kiểu như, Chào bố ạ, nhưng rồi chẳng có gì ngoài khoảng lặng đầy kịch tính đó cho tới tận phút chót, khi ông thốt lên kiểu như… Dầu gội Herbal Essences!”</p>
+<p class="para-vi-sub">“Lẽ ra chúng tôi nên cưới ngay sau khi anh ấy cầu hôn,” Lila nói. “Lúc đó bố tôi thực sự rất khỏe, đáp ứng các liệu trình đúng như những gì Gary đã nói. Nhưng chúng ta vừa bước vào Giai đoạn phong tỏa, thế nên tụi tôi cứ chần chừ hoãn đám cưới lại, nghĩ rằng Giai đoạn phong tỏa rồi sẽ chấm dứt bất cứ lúc nào. Và rồi bố tôi chuyển biến nặng hơn rất nhiều, sau khi ông nhập viện, tôi thấy chẳng còn đúng đắn gì để mà ăn mừng nữa. Ý tôi là, cuối đời ông chẳng còn nói năng minh mẫn nổi nữa. Ông phê mo-phin nặng đến mức những cuộc điện thoại của ông trở thành một cực hình. Tụi tôi bật loa ngoài rồi kiểu như: Chào bố ạ, nhưng rồi chẳng có gì ngoài khoảng lặng đầy kịch tính đó cho tới tận phút chót, khi ông thốt lên kiểu như… Dầu gội Herbal Essences!”</p>
 
 <p class="para-en">Phoebe is confused. “Herbal Essences?”</p>
 
@@ -1062,7 +1062,7 @@
 
 <p class="para-en">“I don’t know,” the bride says. “That’s what he said. It made no sense. It was just … silence … and then Herbbballlllll Essences! And I was like, Okay, Dad. What <i>about</i> Herbal Essences? But he hung up. And then he died. And those were literally my father’s last words to me.”</p>
 
-<p class="para-vi-sub">“Tôi cũng chịu,” cô dâu nói. “Ổng nói vậy đấy. Chẳng có chút ý nghĩa nào cả. Chỉ là… khoảng lặng… rồi Herbal Essences! Và tôi kiểu, Vâng, thưa bố. Thế còn dầu gội Herbal Essences thì sao ạ? Nhưng ổng cúp máy luôn. Rồi ông qua đời. Và đó chính xác là những lời trăn trối cuối cùng của bố dành cho tôi.”</p>
+<p class="para-vi-sub">“Tôi cũng chịu,” cô dâu nói. “Ổng nói vậy đấy. Chẳng có chút ý nghĩa nào cả. Chỉ là… khoảng lặng… rồi Herbal Essences! Và tôi kiểu: Vâng, thưa bố. Thế còn dầu gội Herbal Essences thì sao ạ? Nhưng ổng cúp máy luôn. Rồi ông qua đời. Và đó chính xác là những lời trăn trối cuối cùng của bố dành cho tôi.”</p>
 
 <p class="para-en">Phoebe looks at Lila and Lila looks at Phoebe. The sadness of the story is so stark, her voice so monotone when she delivered it, they erupt into a laughter so intense it surprises Phoebe. Every time they are about to calm down, the bride says, “Herrbbbballl Essences!” and Phoebe starts laughing all over again. It makes her feel high.</p>
 
@@ -1078,7 +1078,7 @@
 
 <p class="para-en">The snipe makes it feel serious between them again. Phoebe can’t remember the last time she laughed like that. Maybe that time with her husband in the Ozarks when they found the <i>Sax for Lovers</i> CD? But that was so long ago. And they didn’t even really laugh—they smiled and joked and then had sex. But they had never, Phoebe thought, really laughed.</p>
 
-<p class="para-vi-sub">Lời mỉa mai sắc sảo ấy lại kéo bầu không khí giữa họ trở về vẻ nghiêm túc ban đầu. Phoebe không thể nhớ nổi lần cuối cùng mình cười như thế là từ bao giờ. Có lẽ là lần cùng chồng ở Ozarks khi họ tìm thấy chiếc đĩa CD <i>Sax for Lovers</i> chăng? Nhưng chuyện đó đã từ rất lâu rồi. Và thực ra họ cũng đâu có thực sự cười, họ chỉ mỉm cười, đùa cợt rồi làm tình với nhau. Nhưng Phoebe thầm nghĩ, họ chưa bao giờ thực sự bật cười thoải mái như vậy.</p>
+<p class="para-vi-sub">Lời mỉa mai sắc sảo ấy lại kéo bầu không khí giữa họ trở về vẻ nghiêm túc ban đầu. Phoebe không thể nhớ nổi lần cuối cùng mình cười như thế là từ bao giờ. Có lẽ là lần cùng Matt ở dãy núi Ozarks khi họ tìm thấy chiếc đĩa CD <i>Sax for Lovers</i> chăng? Nhưng chuyện đó đã từ rất lâu rồi. Và thực ra họ cũng đâu có thực sự cười, họ chỉ mỉm cười, đùa cợt rồi làm tình với nhau. Nhưng Phoebe thầm nghĩ, họ chưa bao giờ thực sự bật cười thoải mái như vậy.</p>
 
 <p class="para-en">Phoebe looks down at the reception, sees waiters in white shirts passing out tiny dots of food. Women in cocktail dresses eating olives off toothpicks. People already on their second drink. Phoebe wonders why Lila is so worried about her million-dollar wedding being ruined yet doesn’t seem concerned to be missing the start of it.</p>
 
@@ -1086,7 +1086,7 @@
 
 <p class="para-en">“It’s actually Gary’s sister, Marla, who is the worst about it all,” the bride says.</p>
 
-<p class="para-vi-sub">“Thực ra chính em gái của Gary, Marla, mới là người làm tôi phát bực nhất trong chuyện này,” cô dâu nói.</p>
+<p class="para-vi-sub">“Thực ra chính chị gái của Gary, Marla, mới là người làm tôi phát bực nhất trong chuyện này,” cô dâu nói.</p>
 
 <p class="para-en">“The worst about what?”</p>
 
@@ -1110,7 +1110,7 @@
 
 <p class="para-en">“Marla keeps making this big deal about me being super young whenever we’re together. Like earlier today in the lobby, she was like, Wait, what do twenty-eight-year-olds know again? I forget. And she doesn’t even think this is rude. She acts like it’s just professional curiosity, like she’s just getting to know twenty-eight-year-olds as a species.”</p>
 
-<p class="para-vi-sub">“Marla cứ làm như việc tôi còn quá trẻ là một vấn đề ghê gớm lắm mỗi khi chúng tôi gặp nhau. Kiểu như hồi đầu ngày ở sảnh sđó, chị ta kiểu, Khoan đã, bọn trẻ hai mươi tám tuổi thì biết cái gì nhỉ? Chị quên mất tiêu rồi. Mà chị ta còn chẳng thèm thấy thế là bất lịch sự. Chị ta hành xử cứ như thể đó chỉ là sự tò mò mang tính chuyên môn, cứ như đang tìm hiểu về loài người hai mươi tám tuổi vậy.”</p>
+<p class="para-vi-sub">“Marla cứ làm như việc tôi còn quá trẻ là một vấn đề ghê gớm lắm mỗi khi chúng tôi gặp nhau. Kiểu như hồi sáng nay ở sảnh, chị ta bảo: Khoan đã, bọn trẻ hai mươi tám tuổi thì biết cái gì nhỉ? Chị quên mất tiêu rồi. Mà chị ta còn chẳng thèm thấy thế là bất lịch sự. Chị ta hành xử cứ như thể đó chỉ là sự tò mò mang tính chuyên môn, cứ như đang tìm hiểu về loài người hai mươi tám tuổi vậy.”</p>
 
 <p class="para-en">“Is she an anthropologist?”</p>
 
@@ -1118,11 +1118,11 @@
 
 <p class="para-en">“She’s a lawyer, or well, she was until she became the mayor of her town. And now she acts like she’s the most moral human being to have ever walked the earth. Meanwhile, she’s the one who will probably have to resign for having an affair with a federal judge. And do I say a word about it? No.”</p>
 
-<p class="para-vi-sub">“Chị ta là luật sư, à thì, từng là luật sư trước khi trở thành thị trấn trưởng của một thị trấn nào đó. Và giờ thì chị ta ra vẻ mình là con người đạo đức nhất từng bước chân lên trái đất này. Trong khi chính chị ta lại là kẻ có lẽ sẽ phải từ chức vì lăng nhăng với một thẩm phán liên bang. Và tôi có hé răng nửa lời về chuyện đó không? Không hề.”</p>
+<p class="para-vi-sub">“Chị ta là luật sư, à thì, từng là luật sư trước khi trở thành nữ thị trưởng của thị trấn. Và giờ thì chị ta ra vẻ mình là con người đạo đức nhất từng bước chân lên trái đất này. Trong khi chính chị ta lại là kẻ có lẽ sẽ phải từ chức vì lăng nhăng với một thẩm phán liên bang. Và tôi có hé răng nửa lời về chuyện đó không? Không hề.”</p>
 
 <p class="para-en">Now Phoebe is really interested. She is curious about affairs, as if any affair can teach her something about her husband’s.</p>
 
-<p class="para-vi-sub">Lúc này thì Phoebe thực sự thấy hứng thú. Cô tò mò về chuyện ngoại tình, cứ như thể bất kỳ vụ ngoại tình nào cũng có thể dạy cho cô một bài học gì đó về chuyện của chồng mình.</p>
+<p class="para-vi-sub">Lúc này thì Phoebe thực sự thấy hứng thú. Cô tò mò về chuyện ngoại tình, cứ như thể bất kỳ vụ ngoại tình nào cũng có thể dạy cho cô một bài học gì đó về chuyện của Matt.</p>
 
 <p class="para-en">“Why did she have an affair with a federal judge?”</p>
 
@@ -1130,7 +1130,7 @@
 
 <p class="para-en">“She must have a fetish for judges, because that is exactly what her husband is, too,” Lila says. “Except he’s just like, a regular judge. But honestly, I don’t know much more than that. Gary doesn’t like to talk about his sister’s sex life, understandably, and the rest of the family doesn’t know about it. And she never talks to me about it, obviously. We’re not close. But I do know that her children and husband barely speak to her right now, which is why they probably aren’t coming to the wedding. And serves her right. Because she fucked up her life, for real. And sometimes, I just want to be like, What do <i>you</i> know, Marla? Do you know anything? Because even twenty-eight-year-olds know that being the mayor and then having an affair with a federal judge is definitely a terrible idea.”</p>
 
-<p class="para-vi-sub">“Chắc là chị ta có sở thích kỳ quái với các thẩm phán, bởi vì chồng chị ta cũng chính xác là một thẩm phán,” Lila nói. “Chỉ có điều anh ta chỉ là… một thẩm phán bình thường thôi. Nhưng thành thật mà nói, tôi cũng chẳng biết gì nhiều hơn thế. Gary không thích nói về đời sống tình dục của em gái mình, điều đó cũng dễ hiểu thôi, và những người còn lại trong gia đình cũng chẳng hay biết gì. Và hiển nhiên là chị ta chẳng bao giờ nói với tôi về chuyện đó rồi. Chúng tôi đâu có thân thiết. Nhưng tôi biết chắc chắn rằng các con và chồng chị ta hiện tại gần như chẳng thèm nói chuyện với chị ta, đó là lý do tại sao có lẽ họ không đến dự đám cưới. Và đáng đời chị ta lắm. Bởi vì chị ta đã tự tay phá nát cuộc đời mình, thực sự là thế. Và đôi khi, tôi chỉ muốn xông vào mặt chị ta và hỏi, Thế <i>chị</i> thì biết cái gì hả Marla? Chị có biết cái quái gì không? Bởi vì ngay cả một đứa hai mươi tám tuổi cũng thừa biết rằng việc làm thị trưởng rồi đi ngoại tình với một thẩm phán liên bang chắc chắn là một ý tồi tệ đến cùng cực.”</p>
+<p class="para-vi-sub">“Chắc là chị ta có sở thích kỳ quái với các thẩm phán, bởi vì chồng chị ta cũng chính xác là một thẩm phán,” Lila nói. “Chỉ có điều anh ta chỉ là… một thẩm phán bình thường thôi. Nhưng thành thật mà nói, tôi cũng chẳng biết gì nhiều hơn thế. Gary không thích nói về đời sống tình dục của em gái mình, điều đó cũng dễ hiểu thôi, và những người còn lại trong gia đình cũng chẳng hay biết gì. Và hiển nhiên là chị ta chẳng bao giờ nói với tôi về chuyện đó rồi. Chúng tôi đâu có thân thiết. Nhưng tôi biết chắc chắn rằng các con và chồng chị ta hiện tại gần như chẳng thèm nói chuyện với chị ta, đó là lý do tại sao có lẽ họ không đến dự đám cưới. Và đáng đời chị ta lắm. Bởi vì chị ta đã tự tay phá nát cuộc đời mình, thực sự là thế. Và đôi khi, tôi chỉ muốn xông vào mặt chị ta và hỏi: Thế <i>chị</i> thì biết cái gì hả Marla? Chị có biết cái quái gì không? Bởi vì ngay cả một đứa hai mươi tám tuổi cũng thừa biết rằng việc làm thị trưởng rồi đi ngoại tình với một thẩm phán liên bang chắc chắn là một ý tồi tệ đến cùng cực.”</p>
 
 <p class="para-en">“Did you say that to her?”</p>
 
@@ -1174,7 +1174,7 @@
 
 <p class="para-en">“It’s what my father said to me after we got his diagnosis. I couldn’t stop crying about it, and he was like, Lila, is there one thing you feel capable of doing right now instead of crying? And there always was.”</p>
 
-<p class="para-vi-sub">“Đó là điều bố tôi đã nói với tôi sau khi chúng tôi nhận được kết quả chẩn đoán bệnh của ông. Tôi không sao ngừng khóc được, còn ông thì bảo, Lila này, có điều gì mà con cảm thấy mình có khả năng làm ngay lúc này thay vì khóc không? Và lúc nào cũng có một việc như thế.”</p>
+<p class="para-vi-sub">“Đó là điều bố tôi đã nói với tôi sau khi chúng tôi nhận được kết quả chẩn đoán bệnh của ông. Tôi không sao ngừng khóc được, còn ông thì bảo: Lila này, có điều gì mà con cảm thấy mình có khả năng làm ngay lúc này thay vì khóc không? Và lúc nào cũng có một việc như thế.”</p>
 
 <p class="para-en">“What was it?” Phoebe asks.</p>
 

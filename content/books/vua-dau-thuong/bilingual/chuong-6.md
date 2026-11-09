@@ -139,4 +139,3 @@
 <p class="para-en">“It’s already been measured,” Van said. “Tenth grade, me ’n’ the boys passed a ruler around the locker room. Seven lousy inches. Proof there may be a devil—but there sure isn’t a God.”</p>
 
 <p class="para-vi-sub">“Năng lượng của tôi được đo từ lâu rồi,” Van chen vào. “Năm lớp mười, tôi với mấy thằng con trai chuyền tay nhau cái thước kẻ trong phòng thay đồ. Bảy inch thảm hại. Đó là bằng chứng cho thấy có thể có quỷ Satan, nhưng chắc chắn là chẳng có Chúa Trời nào hết.”</p>
-

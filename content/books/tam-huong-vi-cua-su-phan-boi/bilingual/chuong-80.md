@@ -56,6 +56,8 @@
 
 <p class="para-vi-sub">*Vậy thì cớ sao món trứng Điểu sư xào cà ri lại không thể được định danh như một biến thể taco độc nhất vô nhị cơ chứ?*</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -67,6 +69,8 @@
 <p class="para-en">But the Butcher repeats the statement. “I was making tacos.”</p>
 
 <p class="para-vi-sub">Thế nhưng Đồ Tể chỉ điềm nhiên lặp lại câu khẳng định chắc nịch ấy: “Tôi đang làm bánh taco.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">*   *   *</p>
 
@@ -171,4 +175,3 @@
 <p class="para-en">I’d somehow managed to merge the two recipes. I didn’t know it at the time, but I’d discovered greater fusion. And now that I had, the world would never be the same.</p>
 
 <p class="para-vi-sub">Và giờ đây, khi cánh cửa ma thuật ấy đã chính thức được mở toang, thế giới này sẽ vĩnh viễn không bao giờ còn như xưa nữa.</p>
-

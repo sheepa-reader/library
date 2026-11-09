@@ -56,6 +56,8 @@ Sửng sốt, Tauri đứng dậy, toan lao ra cửa nhưng rồi khựng lại.
 
 Tauri lẻn ra ngoài cửa và nhanh chóng biến mất vào màn đêm.
 
+<hr class="scene-break"/>
+
 Ngay khoảnh khắc chốt cửa sập xuống, Ana lập tức quay phắt về phía tôi.
 
 “Chà, nhóc con,” bà gầm lên. “Ta cực kỳ bực bội khi phát hiện ra cậu đã đếch thèm nghe theo mệnh lệnh trực tiếp của ta!”
@@ -134,6 +136,8 @@ Tôi nói thêm vào: “Em ấy đang truy tìm một người lùa gia súc. M
 
 “Tôi sẽ đi tìm cô ấy ngay,” Seriv nói rồi vội vã tiến ra phía cửa. “Tôi chẳng có tài cán gì với đám hóa chất hay cồn thuốc, nhưng người của tôi thì tìm người nhanh lắm.”
 
+<hr class="scene-break"/>
+
 Seriv không chỉ giữ lời mà còn làm tốt hơn kỳ vọng: chưa đầy ba tiếng đồng hồ sau, ông ấy đã quay trở lại căn phòng của Ana, tay khoác tay em gái tôi, vẻ mặt em trông khá hoảng hốt.
 
 “Đã xảy ra chuyện gì vậy?” Fotia hỏi Ana. “Sao bà lại cử lực lượng chấp pháp đi tìm tôi? Tôi tưởng bà muốn giữ bí mật nhiệm vụ của tôi cơ mà!”
@@ -189,6 +193,8 @@ Tôi lật đật làm theo, lóng ngóng đưa tờ giấy da cùng cây bút t
 “Vâng, vô cùng đau đớn. Đau đến mức Đế quốc cũng phải e dè khi đưa vào sử dụng. Nó thường để lại tổn hại rất lớn cho cơ thể nạn nhân…”
 
 “Chuyện đó chẳng hề gì đối với tôi! Cho tôi xin một cây. Không, hai cây đi. Tôi nghĩ chúng ta sẽ tận dụng triệt để bọn chúng đấy.”
+
+<hr class="scene-break"/>
 
 Khi màn đêm buông xuống, chúng tôi tất bật chuẩn bị thế cờ, hối hả chạy ngược chạy xuôi quanh các tòa nhà bao quanh Quán Người Chăn Bò Xanh.
 

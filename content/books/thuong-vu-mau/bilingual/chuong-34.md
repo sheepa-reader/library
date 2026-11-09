@@ -220,6 +220,8 @@
 
 <p class="para-vi-sub">Ippeas cúi đầu và hít một hơi thật sâu. “Vậy thì, đi thôi.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">The medikker’s ward had been transformed since the day Jalin Burav had made his mad escape: now there was a custodus in every hallway, and every door featured new locks. Even for myself, navigating its corridors meant repeatedly asking permission to enter, to leave, to be accompanied, and so on. Though I understood that Trikao Armenta had been gravely weakened by Ana’s thrust of the lance, the medikkers were taking no chances with him.</p>
 
 <p class="para-vi-sub">Khu bệnh xá của y sĩ đã hoàn toàn thay đổi kể từ ngày Jalin Burav thực hiện cuộc đào tẩu điên cuồng của cậu ta. Giờ đây, hành lang nào cũng có một lính gác chấp pháp túc trực, và mọi cánh cửa đều được trang bị những ổ khóa mới. Ngay cả đối với tôi, việc đi lại qua các hành lang này cũng đồng nghĩa với việc phải liên tục xin phép để được vào, được ra, phải có người hộ tống, cùng hàng tá thủ tục rườm rà khác. Dù tôi biết rõ Trikao Armenta đã suy kiệt nghiêm trọng sau cú đâm thương của Ana, các y sĩ vẫn không dám lơ là cảnh giác với ông ta.</p>
@@ -291,6 +293,8 @@
 <p class="para-en">“So you say,” I said. “But he wished me to tell you—I never asked for it.”</p>
 
 <p class="para-vi-sub">“Ông nói vậy,” tôi đáp. “Nhưng cậu ấy muốn tôi chuyển lời tới ông rằng: cậu ấy chưa từng cầu xin điều đó.”</p>
+
+<hr class="scene-break"/>
 
 <p class="para-en">I limped back to the Green Drover, Ana gripping my arm tight.</p>
 

@@ -48,6 +48,8 @@
 
 <p class="para-vi-sub">“Được rồi,” cô nói. “Tôi biết điều khi mình đã thua cuộc.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">Once she was in the car, Robin took her crutch away and laid it across the floor in the back seat. Tana slammed the door on her, as if Gwen might change her mind and try to leap out. It felt good to get off her feet. There was a hot twist of pain in the small of her back and she wondered if she was bleeding through the gauze already. She was shaky from exertion and thought, No way, NO WAY I can fight him like this.</p>
 
 <p class="para-vi-sub">✦  ✦  ✦ Ngay khi cô vừa ngồi vào xe, Robin liền giật lấy chiếc nạng của cô và vứt nằm dài ở sàn xe phía sau. Tana đóng sầm cửa lại ngay sát người cô, cứ như thể sợ Gwen sẽ đổi ý mà nhảy ra ngoài vậy. Thật dễ chịu làm sao khi không còn phải đứng trên đôi chân của mình. Một cơn đau buốt nhói lên ở thắt lưng và cô tự hỏi liệu máu có đang rỉ ra thấm qua lớp gạc từ lúc nào không hay. Cơ thể cô run lẩy bẩy vì gắng sức và cô thầm nghĩ, *Không đời nào, KHÔNG ĐỜI NÀO mình có thể đấu lại với hắn trong tình trạng này được*.</p>
@@ -151,4 +153,3 @@
 <p class="para-en">“See, and I’m always hearing I’m not a people person,” Donna said.</p>
 
 <p class="para-vi-sub">“Thấy chưa, thế mà tôi cứ mãi nghe thiên hạ chê bai rằng mình không phải là người biết cách hòa nhập với cộng đồng đấy thôi,” Donna nói.</p>
-

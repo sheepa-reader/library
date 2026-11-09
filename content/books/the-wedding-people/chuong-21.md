@@ -2,7 +2,7 @@
 
 # Chương 18
 
-Vào buổi sáng, Lila ghé qua trên đường tới chỗ tiệm bán hoa. Cô không nói gì về việc hai gia đình sắp về chung một nhà, mà chỉ phàn nàn về sự cố mất điện và đám hoa đang héo rũ trong tủ lạnh.
+Vào buổi sáng, Lila ghé qua trên đường tới tiệm bán hoa. Cô không nói gì về việc hai gia đình sắp về chung một nhà, mà chỉ phàn nàn về sự cố mất điện và đám hoa đang héo rũ trong tủ lạnh.
 
 “Héo rũ á?” Phoebe hỏi.
 
@@ -10,7 +10,7 @@ Nhưng Lila không giải thích thêm. “Em cần chị chở Gary đi làm v�
 
 “Sao lại thế?”
 
-“Anh ấy lại bị đau lưng. Lần này là do lướt sóng. May ơn phước là em không đi cùng. Thật là một thảm họa. Thử tưởng tượng hôm nay mà em không đi lại được thì sao chứ? Em chẳng biết Lila của quá khứ đang nghĩ cái quái gì khi lên lịch đi lướt sóng vào buổi sáng trước ngày cưới nữa.”
+“Anh ấy lại bị đau lưng. Lần này là do lướt sóng. May phúc là em không đi cùng. Thật là một thảm họa. Thử tưởng tượng hôm nay mà em không đi lại được thì sao chứ? Em chẳng biết Lila của quá khứ đang nghĩ cái quái gì khi lên lịch đi lướt sóng vào buổi sáng trước ngày cưới nữa.”
 
 “Chị muốn nhắc em rằng bây giờ mới là chín giờ sáng mà em đã tự nói về mình bằng ngôi thứ ba rồi đấy,” Phoebe nói, và Lila bật cười.
 
@@ -20,7 +20,7 @@ Nhưng Phoebe thì đang bận tâm, cô không chắc mình đã sẵn sàng ch
 
 “Sao Jim không chở Gary đi?” Phoebe hỏi.
 
-“Vì Gary phải thử bộ Âu phục và đến tiệm cắt tóc, mà em thì không đời nào tin tưởng Jim. Em chắc chắn rằng Jim sẽ kiểu gì cũng tống Gary trở về với một bộ vest hồng và cái đầu cạo trọc cho xem.”
+“Vì Gary phải thử bộ âu phục và đến tiệm cắt tóc, mà em thì không đời nào tin tưởng Jim. Em chắc chắn rằng Jim kiểu gì cũng tống Gary trở về với một bộ vest hồng và cái đầu cạo trọc cho xem.”
 
 Phoebe muốn nói thêm gì đó nhưng lại không biết nên nói gì. Lila quay người hướng về phía cửa.
 
@@ -32,99 +32,101 @@ Phoebe muốn nói thêm gì đó nhưng lại không biết nên nói gì. Lila
 
 Lila rời đi, và Phoebe nhìn lại tờ giấy ghi bài phát biểu một lần nữa.
 
-“Ôi không,” cô thốt lên. Dưới ánh sáng ban mai cay nghiệt, bài phát biểu hoàn toàn sai lệch. Nó quá thật thà. Chẳng có chút gì về Gary và Lila trong đó cả. Vừa giống một bài xã luận, vừa giống một bài phân tích văn học dài dòng, lại vừa tựa bài giảng đạo về những đám cưới xa hoa và ho phí nhất trong văn chương. “Mọi đám cưới, kể cả một đám cưới viên mãn, đều là một sự lãng phí,” Phoebe đã viết thế, tiếp theo là một loạt dẫn chứng từ văn học chứng minh đám cưới hiện đại đã trở nên hoàn toàn vượt khỏi tầm kiểm soát ra sao, cách cô đổ lỗi cho Nữ hoàng Victoria vì phần lớn chuyện này, bởi vì trước chiếc váy trắng bồng bềnh của bà, những đám cưới trong văn học thế kỷ XIX chỉ là những sự kiện nhỏ gọn diễn ra trong vỏn vẹn một câu: “Bạn đọc ạ, tôi đã cưới nàng.” Sau đó là một ý phụ kết luận hoàn toàn ngẫu nhiên và lạc quẻ về việc thật khó chịu làm sao khi nữ nhân vật chính cứ tuyên bố chẳng bao giờ muốn kết hôn, thế mà cuối cùng lại có được đám cưới hoành tráng nhất thị trấn.
+“Ôi không,” cô thốt lên. Dưới ánh sáng ban mai cay nghiệt, bài phát biểu hoàn toàn sai lệch. Nó quá thật thà. Chẳng có chút gì về Gary và Lila trong đó cả. Vừa giống một bài xã luận, vừa giống một bài phân tích văn học dài dòng, lại vừa tựa bài giảng đạo về những đám cưới xa hoa và hoang phí nhất trong văn chương. “Mọi đám cưới, kể cả một đám cưới viên mãn, đều là một sự lãng phí,” Phoebe đã viết thế, tiếp theo là một loạt dẫn chứng từ văn học chứng minh đám cưới hiện đại đã trở nên hoàn toàn vượt khỏi tầm kiểm soát ra sao, cách cô đổ lỗi cho Nữ hoàng Victoria vì phần lớn chuyện này, bởi vì trước chiếc váy trắng bồng bềnh của bà, những đám cưới trong văn học thế kỷ XIX chỉ là những sự kiện nhỏ gọn diễn ra trong vỏn vẹn một câu: “Bạn đọc ạ, tôi đã cưới nàng.” Sau đó là một ý phụ kết luận hoàn toàn ngẫu nhiên và lạc quẻ về việc thật khó chịu làm sao khi nữ nhân vật chính cứ tuyên bố chẳng bao giờ muốn kết hôn, thế mà cuối cùng lại có được đám cưới hoành tráng nhất thị trấn.
 
 Xem ra mình cứ ứng biến ngẫu hứng vậy thôi, Phoebe thầm nghĩ, và bất ngờ vì bản thân lại cảm thấy vô cùng hào hứng trước thử thách này. Cô luôn có những bài giảng xuất sắc nhất khi không lên kế hoạch quá kỹ, khi cô quá bận rộn để mà chuẩn bị trước. Nếu cô lên kế hoạch quá chi tiết, nếu cô viết ra mọi thứ từ trước, cô thường sẽ bị luống cuống giữa chừng, bởi vì chúng lúc nào cũng dài hơn cô tưởng. Cô đã làm quá lên. Cô hiếm khi tự tin sống thật với chính mình, mặc dù sinh viên thích cô hơn khi cô nhìn thẳng vào họ, khi cô đứng đó như một con người bằng xương bằng thịt và thành thật về tất cả những gì cô biết lẫn những gì cô không biết.
 
+<hr class="scene-break"/>
+
 <span class="caps">G</span><small>ARY ĐANG ĐỢI BÊN NGOÀI</small> sảnh trong chiếc xe ô tô của anh, một chiếc Hyundai bình thường chẳng có gì cổ điển. Anh đã ngồi sẵn ở ghế hành khách. Phoebe bước lên xe để lái.
 
-“Em nghe nói anh đang đau đớn lắm hả,” Phoebe lên tiếng.
+“Tôi nghe nói anh đang đau đớn lắm hả,” Phoebe lên tiếng.
 
-“Đau thấu xương thấu thịt luôn ấy chứ,” anh đáp. “Em có muốn nghe kể tường tận không?”
+“Đau thấu xương thấu thịt luôn ấy chứ,” anh đáp. “Cô có muốn nghe kể tường tận không?”
 
 “Nếu nó có thể làm nỗi đau biến mất, thì tất nhiên là có rồi.”
 
-“Nó sẽ làm cho cơn đau cảm thấy... có ích hơn. Cho chúng ta cái để mà nói chuyện, em biết đấy.”
+“Nó sẽ làm cho cơn đau cảm thấy… có ích hơn. Cho chúng ta cái để mà nói chuyện, cô biết đấy.”
 
 Phoebe hạ kính xuống. Cô muốn tận hưởng làn gió biển.
 
 “Thế nên, về cơn đau nhé,” anh bắt đầu.
 
-“Nó có... đau không?”
+“Nó có… đau không?”
 
 “Đúng thế. Đó chính là từ để tả nó. Đau đớn.”
 
-Họ bật cười. Xe lăn bánh. Anh kể về những chỗ ê ẩm nhức mỏi của mình, rồi cô lại kể về những chỗ đau nhức của cô, và rồi họ bàn với nhau rằng việc ngồi than thở về những cơn đau nhức thể xác mới thú vị làm sao, vui hơn nhiều so với những gì tuổi trẻ của họ từng tưởng tượng.
+Họ bật cười. Xe lăn bánh. Anh kể về những chỗ ê ẩm nhức mỏi của mình, rồi cô lại kể về những chỗ đau nhức của cô, và rồi họ bàn với nhau rằng việc ngồi than thở về những cơn đau nhức thể xác mới thú vị làm sao, vui hơn nhiều so với những gì thời trẻ của họ từng tưởng tượng.
 
 “Nói thật là nghe chẳng giống phàn nàn chút nào luôn,” Gary nói. “Cứ như là một đề tài nghiên cứu hợp lệ vậy.”
 
-“Em hoàn toàn đồng ý,” cô nói. “Làm sao mà chúng ta có thể không bàn về sự suy tàn từ từ của cơ thể mình cho được chứ?”
+“Tôi hoàn toàn đồng ý,” cô nói. “Làm sao mà chúng ta có thể không bàn về sự suy tàn từ từ của cơ thể mình cho được chứ?”
 
-“Đó thực sự là điều kịch tính nhất từng xảy ra với đời chúng ta,” anh nói. “Nó y hệt như việc đang ở trên một con tàu đắm vậy. Chỉ có điều là cậu không bao giờ được phép thừa nhận rằng con tàu đang chìm.”
+“Đó thực sự là điều kịch tính nhất từng xảy ra với đời chúng ta,” anh nói. “Nó y hệt như việc đang ở trên một con tàu đắm vậy. Chỉ có điều là người ta không bao giờ được phép thừa nhận rằng con tàu đang chìm.”
 
 “Và rồi mọi người sẽ đảo mắt ngán ngẩm mỗi khi anh nhắc đến chuyện con tàu có lẽ đang chìm dần,” Phoebe tiếp lời.
 
 Một chiếc xe tạt ngang qua họ ở cột đèn giao thông, bật nhạc Kesha lớn đến mức át cả cuộc trò chuyện. Họ đành ngồi im chờ đợi, như hai thần dân trung thành trong vũ trụ của Kesha.
 
-“Anh thực sự không thể hiểu nổi sao lại có những kẻ lái xe ngoài đường mà mở nhạc to đến thế,” Gary cất lời sau khi Phoebe rẽ phải.
+“Tôi thực sự không thể hiểu nổi sao lại có những người lái xe ngoài đường mà mở nhạc to đến thế,” Gary cất lời sau khi Phoebe rẽ phải.
 
-“Biết đâu họ nghĩ chúng ta cũng thích thì sao,” Phoebe bảo. “Kiểu như lúc anh phát cuồng vì một bài tủ nào đó và không thể tưởng tượng nổi có ai lại không muốn nghe nó tới một nghìn lần ấy. Chắc là họ đang lái xe quanh đây và nghĩ rằng mình đang làm ơn cho thiên hạ kiểu như, Mọiii ngườiii đều thích nhạc của tôi cho mà xem!!”
+“Biết đâu họ nghĩ chúng ta cũng thích thì sao,” Phoebe bảo. “Kiểu như lúc anh phát cuồng vì một bài tủ nào đó và không thể tưởng tượng nổi có ai lại không muốn nghe nó tới một nghìn lần ấy. Chắc là họ đang lái xe quanh đây và nghĩ rằng mình đang làm ơn cho thiên hạ kiểu như: Mọi người đều thích nhạc của tôi cho mà xem!”
 
-Cô cất giọng hát to câu cuối, và Gary cười phá lên. Anh hạ kính cửa sổ xuống và hát nhại lại câu của cô. “Mọiii ngườiii đều thích nhạc của tôi!”
+Cô cất giọng hát to câu cuối, và Gary cười phá lên. Anh hạ kính cửa sổ xuống và hát nhại lại câu của cô: “Mọi người đều thích nhạc của tôi!”
 
 Đây là ngày cuối cùng cô ở bên Gary. Cô biết rõ điều đó. Nó khiến cô buồn sâu sắc, nhưng đồng thời, cô cũng vô cùng biết ơn vì điều đó. Thậm chí còn cảm thấy phấn khích nữa. Cô quyết tâm tận hưởng nó, không mưu cầu gì từ ngày hôm nay ngoài chính bản thân ngày hôm nay mà thôi.
 
-“Em thỉnh thoảng cũng ao ước được hồn nhiên như họ đấy,” Phoebe nói.
+“Tôi thỉnh thoảng cũng ao ước được hồn nhiên như họ đấy,” Phoebe nói.
 
-“Thật á? Anh thì cực kỳ xấu hổ về gu âm nhạc của mình, đến mức có người ngồi trên xe là anh chẳng bao giờ dám bật đài lên luôn.”
+“Thật á? Tôi thì cực kỳ xấu hổ về gu âm nhạc của mình, đến mức có người ngồi trên xe là tôi chẳng bao giờ dám bật đài lên luôn.”
 
-“Em sẽ làm gì nếu anh bảo bật nhạc lên ngay lúc này nhỉ?”
+“Cô sẽ làm gì nếu tôi bảo bật nhạc lên ngay lúc này nhỉ?”
 
-“Em sẽ đánh trống lảng rồi hỏi anh muốn nghe bài gì, vì anh mới là tài xế mà. Tùy anh quyết định hết đấy.”
+“Tôi sẽ đánh trống lảng rồi hỏi anh muốn nghe bài gì, vì anh mới là chủ xe mà. Tùy anh quyết định hết đấy.”
 
-“Ồ, hóa ra em lại biến nỗi lo âu của mình thành một sự hy sinh cao cả nào đó cơ à.”
+“Ồ, hóa ra cô lại biến nỗi lo âu của mình thành một sự hy sinh cao cả nào đó cơ à.”
 
 “Chính xác luôn.”
 
-Cảm giác lúc này của cô thật vui vẻ, như thể mọi thứ trên đời đều là một trò đùa lớn. Ngay cả những cơn đau nhức mỏi của hai người cũng chỉ là một chuyện cười giữa họ thôi. Một thứ để sẻ chia cùng nhau. Cô rẽ trái vào Đại lộ Bellevue, và nếu như Phoebe tạm quên đi việc anh sắp sửa kết hôn vào ngày mai, và rằng cuộc đời cô đã chấm hết, thì đây quả là một chuyến lái xe tuyệt đẹp.
+Cảm giác lúc này của cô thật vui vẻ, như thể mọi thứ trên đời đều là một trò đùa lớn. Ngay cả những cơn đau nhức mỏi của hai người cũng chỉ là một chuyện cười giữa họ thôi. Một thứ để sẻ chia cùng nhau. Cô rẽ trái vào Đại lộ Bellevue, và nếu như Phoebe tạm quên đi việc anh sắp sửa kết hôn vào ngày mai, và rằng cuộc đời cô đã chấm dứt, thì đây quả là một chuyến lái xe tuyệt đẹp.
 
-Họ ghé vào cửa hàng bán đồ có cồn. “Chắc chỉ mất một phút thôi,” anh nói. “Đã đặt trước rồi mà.”
+Họ ghé vào cửa hàng bán đồ uống có cồn. “Chắc chỉ mất một phút thôi,” anh nói. “Đã đặt trước rồi mà.”
 
 Họ bước vào trong và Gary với tay định nhấc thùng hàng lên nhưng cái lưng đau lại không cho phép. “Khỉ thật.”
 
-“Để đấy em lo,” Phoebe nói. Khi xách thùng rượu ra xe của anh, cô chợt nhận ra rằng mình đang dùng chính sức lực thô thiển của bản thân để giúp Gary và Lila kết hôn. Nhưng mà, đó cũng là công việc của cô mà.
+“Để đấy tôi lo,” Phoebe nói. Khi xách thùng rượu ra xe của anh, cô chợt nhận ra rằng mình đang dùng chính sức lực thô thiển của bản thân để giúp Gary và Lila kết hôn. Nhưng mà, đó cũng là nhiệm vụ của cô mà.
 
 Vừa quay trở lại xe, điện thoại của cô liền reo lên một tiếng.
 
-“Là Geoffrey đấy!” Phoebe kêu lên. “Craigslist không chỉ dành cho bọn giết người đâu nhé!!”
+“Là Geoffrey đấy!” Phoebe kêu lên. “Craigslist không chỉ dành cho bọn giết người đâu nhé!”
 
 “Hả? Geoffrey là ai thế?”
 
-“Người quản gia biệt thự,” cô nói. Cô đưa điện thoại cho anh. “Cái bác làm việc vào mùa đông ấy. Này, anh đọc to cái này lên được không?”
+“Người quản lý biệt thự,” cô nói. Cô đưa điện thoại cho anh. “Cái bác tuyển người làm việc vào mùa đông ấy. Này, anh đọc to cái này lên được không?”
 
-“Có cần phải giả giọng gì đặc biệt không em?” anh hỏi.
+“Có cần phải giả giọng gì đặc biệt không cô?” anh hỏi.
 
 “Anh biết giả giọng cơ à?”
 
-“Anh chỉ giả khi ở cạnh người lạ hoàn toàn thôi.”
+“Tôi chỉ giả khi ở cạnh người lạ hoàn toàn thôi.”
 
-“Em có những lựa chọn nào nào?”
+“Tôi có những lựa chọn nào nào?”
 
-“New York,” anh đáp. “Boston. Rhode Island. Anh chỉ bị giới hạn theo vùng miền thôi đấy.”
+“New York,” anh đáp. “Boston. Rhode Island. Tôi chỉ bị giới hạn theo vùng miền thôi đấy.”
 
 “Vậy thì nhập gia tùy tục đi.”
 
 “Chào Phoebe,” anh cất giọng bằng chất giọng Rhode Island, nghe chẳng khác nào một phiên bản được phát âm rõ ràng hơn cái cách mà mẹ anh hay nói. “Cảm ơn sự quan tâm của cô dành cho Biệt thự Newcombe. Phải nói rằng, tôi rất mong được gặp cô, vì tôi vô cùng vui mừng khi biết cô có bằng tiến sĩ văn học thế kỷ XIX. Như cô đã biết, Biệt thự Newcombe được xây dựng vào năm 1845 bởi một anh hùng Nội chiến, Jonathan Newcombe, thế nên cơ duyên này quả là tình cờ. Tôi hy vọng mình sẽ có cơ hội được gặp gỡ một ứng viên có trình độ chuyên môn như cô.”
 
-“Đợi đã, quản gia mùa đông á?” Gary hỏi bằng giọng bình thường của mình. “Quản gia mùa đông là gì thế?”
+“Đợi đã, người trông nhà mùa đông á?” Gary hỏi bằng giọng bình thường của mình. “Người trông nhà mùa đông là gì thế?”
 
 “Những người trông nom biệt thự ấy mà. Vào mùa đông, khi các chủ nhà bận ở dinh thự chính của họ. Hóa ra ở Newport lại có công việc này đấy.”
 
 “Newcombe là một cơ ngơi có hai mươi phòng,” anh lại đọc tiếp bằng giọng điệu vừa rồi. “Tôi rất sẵn lòng dẫn cô đi tham quan. Tôi có thể gặp cô vào bất cứ lúc nào chiều nay hoặc ngày mai. Tôi rất hy vọng có thể chốt xong chuyện này trước khi cuối tuần khép lại.”
 
-“Trời đất quỷ thần ơi!” cô thốt lên. “Bảo anh ta là em có thể gặp vào chiều nay, sau khi đưa anh đi nhé.”
+“Trời đất quỷ thần ơi!” cô thốt lên. “Bảo ông ấy là tôi có thể gặp vào chiều nay, sau khi đưa anh đi nhé.”
 
-“Không, xin lỗi em,” anh nói. “Anh sẽ đi cùng em tới xem biệt thự này.”
+“Không, xin lỗi cô,” anh nói. “Tôi sẽ đi cùng cô tới xem biệt thự này.”
 
 “Nhưng mà chúng ta phải đi lấy lễ phục của anh cơ mà,” cô nói.
 
@@ -132,15 +134,17 @@ Vừa quay trở lại xe, điện thoại của cô liền reo lên một tiế
 
 “Khoan đã, sao anh không nói giọng Rhode Island vậy?” cô hỏi. “Chẳng phải anh sinh ra ở Rhode Island sao?”
 
-“Anh từng tham gia một lớp học luyện thanh ở Yale, tự ép mình bỏ được cái giọng đó rồi.”
+“Tôi từng tham gia một lớp học luyện thanh ở Yale, tự ép mình bỏ được cái giọng đó rồi.”
 
-“Chà,” cô nói. “Đồ phản bội.”
+“Chà,” cô nói. “Kẻ phản bội.”
+
+<hr class="scene-break"/>
 
 <span class="caps">B</span><small>IỆT THỰ</small> <span class="caps">N</span><small>EWCOMBE</small> được bảo vệ bởi những cánh cổng sắt cao vút mà ai đó đã sơn màu xanh lam. Cánh cổng tự động mở ra khi xe của họ tiến lại gần.
 
 “Dĩ nhiên rồi,” Gary lẩm bẩm.
 
-Geoffrey đang đứng chờ họ ở lối ra vào chính. Ông là một người đàn ông miền Nam vóc người nhỏ nhắn, diện bộâu phục màu hồng đào nhạt. Trông ông càng thêm phần bé nhỏ khi đứng cạnh tòa dinh thự to lớn này. Lối vào vô cùng trang trọng với những bức tượng quỷ gargoyle khổng lồ ngự trên mái nhà, và khi Phoebe cất tiếng chào, cô cứ ngỡ như Geoffrey sẽ cúi đầu hoặc nhún gối chào theo kiểu quý tộc đến nơi. Nhưng ông chỉ bắt tay cô như bất kỳ người Mỹ truyền thống nào khác.
+Geoffrey đang đứng chờ họ ở lối ra vào chính. Ông là một người đàn ông miền Nam vóc người nhỏ nhắn, diện bộ âu phục màu hồng đào nhạt. Trông ông càng thêm phần bé nhỏ khi đứng cạnh tòa dinh thự to lớn này. Lối vào vô cùng trang trọng với những bức tượng quỷ gargoyle khổng lồ ngự trên mái nhà, và khi Phoebe cất tiếng chào, cô cứ ngỡ như Geoffrey sẽ cúi đầu hoặc nhún gối chào theo kiểu quý tộc đến nơi. Nhưng ông chỉ bắt tay cô như bất kỳ người Mỹ truyền thống nào khác.
 
 Ông chào mừng cô vào nhà và mở đầu bằng việc thông báo rằng đây là vị trí chuyên trách việc quản lý không gian bên trong.
 
@@ -154,29 +158,33 @@ Cô kể cho ông nghe về những năm tháng miệt mài trong căn hầm lư
 
 “Tuyệt vời,” Geoffrey nói. “Bởi vì công việc này đòi hỏi sự nghiên cứu. Giả sử như lớp giấy dán tường bằng vải từ năm 1845 này bắt đầu bị rách. Cô sẽ làm gì?”
 
-“Em không biết ạ,” Phoebe thừa nhận. “Nhưng em sẽ nghiên cứu cho đến khi tìm được cách thì thôi.”
+“Tôi không biết ạ,” Phoebe thừa nhận. “Nhưng tôi sẽ nghiên cứu cho đến khi tìm được cách thì thôi.”
 
 Geoffrey bật cười.
 
 “Không hiểu sao, tôi lại tin cô đấy,” ông nói. “Chúng ta đi tiếp nhé?”
 
-Họ quay người hướng về phía cửa và Phoebe nhìn thấy mộtKhuôn mặt được chạm khắc trên gỗ. “Kia là Dante phải không ạ?”
+Họ quay người hướng về phía cửa và Phoebe nhìn thấy một khuôn mặt được chạm khắc trên gỗ. “Kia là Dante phải không ạ?”
 
 “Tôi thực sự rất vui vì cô nhận ra điều đó đấy,” Geoffrey nói.
 
+<hr class="scene-break"/>
+
 <span class="caps">Ô</span><small>NG DẪN HỌ</small> đi qua khu sân trong rộng lớn. Ông kể cho họ nghe về người chủ nhân, cách mà ông ấy đã cho xây dựng ngôi nhà này vì cô con gái Elizabeth của mình.
 
-“Em có thể ngắm bộ sưu tập nghệ thuật Paris của Elizabeth ở phòng ăn,” Geoffrey nói. “Bà ấy kết hôn với một chủ ngân hàng người Pháp, người mà bức chân dung được treo ngay ở đây này. Nhưng họ không hòa hợp lắm, nên Elizabeth dành phần lớn thời gian đi du lịch khắp thế giới, thu thập các tác phẩm nghệ thuật và những chiếc bình mà em sẽ thấy ở khắp mọi ngóc ngách trong ngôi nhà này.”
+“Cô có thể ngắm bộ sưu tập nghệ thuật Paris của Elizabeth ở phòng ăn,” Geoffrey nói. “Bà ấy kết hôn với một chủ ngân hàng người Pháp, người có bức chân dung được treo ngay ở đây này. Nhưng họ không hòa hợp lắm, nên Elizabeth dành phần lớn thời gian đi du lịch khắp thế giới, thu thập các tác phẩm nghệ thuật và những chiếc bình mà cô sẽ thấy ở khắp mọi ngóc ngách trong ngôi nhà này.”
 
 Đúng lúc đó, điện thoại ông reo.
 
-“Anh phải nghe cuộc gọi này cái đã,” Geoffrey nói. “Hai người cứ tự nhiên đi dạo quanh đây xem thế nào nhé, rồi cho anh biết cảm nhận ra sao?”
+“Tôi phải nghe cuộc gọi này cái đã,” Geoffrey nói. “Hai người cứ tự nhiên đi dạo quanh đây xem thế nào nhé, rồi cho tôi biết cảm nhận ra sao?”
+
+<hr class="scene-break"/>
 
 <span class="caps">H</span><small>Ọ THẢ BƯỚC ĐI QUA</small> từng gian phòng trong ngôi nhà. Khung cửa nào cũng được chạm trổ những đường nét gỗ vô cùng tinh xảo. Những nàng thơ mạ vàng ngự trị ở bốn góc tường. Gương mặt triết gia Cicero được chạm khắc ngay phía trên bồn tắm. Và một chiếc bồn tắm làm bằng đá cẩm thạch dày đến mức trông hệt như một cỗ quan tài. Phoebe đưa ngón tay lướt dọc theo khung chiếc gương trong phòng tắm.
 
-“Em nghĩ đây là lá vàng bạch kim đấy,” cô nói.
+“Tôi nghĩ đây là lá vàng bạch kim đấy,” cô nói.
 
-“Lá vàng bạch kim á?” Gary hỏi. “Anh còn chẳng biết thứ đó tồn tại trên đời đấy.”
+“Lá vàng bạch kim á?” Gary hỏi. “Tôi còn chẳng biết thứ đó tồn tại trên đời đấy.”
 
 Họ tiến vào phòng ngủ, nơi bộ sưu tập nghệ thuật của Elizabeth vẫn tiếp tục hiện diện.
 
@@ -186,15 +194,15 @@ Họ tiến vào phòng ngủ, nơi bộ sưu tập nghệ thuật của Elizabe
 
 “Chẳng lẽ không được sao?”
 
-“Anh nghĩ chúng ta đã nói về hạnh phúc một cách sai lầm hoàn toàn. Cứ làm như đó là một trạng thái cố định mà ta sẽ chạm tới được ấy. Cứ như thể chúng ta sẽ có thể sống ở đó mãi mãi. Nhưng trải nghiệm của anh về hạnh phúc lại không phải vậy. Đối với anh, nó đến rồi đi. Nó xuất hiện rồi lại biến mất nhanh chóng như một chiếc bong bóng xà phòng.”
+“Tôi nghĩ chúng ta đã nói về hạnh phúc một cách sai lầm hoàn toàn. Cứ làm như đó là một trạng thái cố định mà ta sẽ chạm tới được ấy. Cứ như thể chúng ta sẽ có thể sống ở đó mãi mãi. Nhưng trải nghiệm của tôi về hạnh phúc lại không phải vậy. Đối với tôi, nó đến rồi đi. Nó xuất hiện rồi lại biến mất nhanh chóng như một chiếc bong bóng xà phòng.”
 
-“Lần gần đây nhất anh thực sự hạnh phúc là khi nào, hả Gary?” Phoebe hỏi.
+“Lần gần đây nhất anh thực sự hạnh phúc là khi nào, Gary?” Phoebe hỏi.
 
 “Câu trả lời thật lòng nhé?” anh nói. “Là ngay lúc này đây.”
 
 Cô muốn gặng hỏi tại sao lại thế. Có phải vì ngày mai anh sắp kết hôn không? Hay vì cảm giác khi được đứng cạnh nhau ở tòa dinh thự này? Phoebe cảm thấy ngập tràn hạnh phúc một cách đáng kinh ngạc, cứ như thể sự kết nối giữa hai con người này có thể hàn gắn tất cả mọi thứ. Chỉ trong một khoảnh khắc ngắn ngủi, cô mơ mộng về viễn cảnh họ cùng nhau sống ở đây, thong thả dạo bước qua các hành lang, cùng trò chuyện về những bức tranh phong cách Paris vào bữa sáng.
 
-“Em nghĩ bản năng sưu tầm vừa đẹp đẽ lại vừa đáng ghét,” cô nói.
+“Tôi nghĩ bản năng sưu tầm vừa đẹp đẽ lại vừa đáng ghét,” cô nói.
 
 Sưu tầm có nghĩa là quan tâm đến mọi thứ nhiều hơn người bình thường. Nhưng đó đồng thời cũng là sự tích trữ ích kỷ. Là gom nhặt mọi thứ trên đời để biến chúng thành của riêng mình.
 
@@ -202,39 +210,39 @@ Sưu tầm có nghĩa là quan tâm đến mọi thứ nhiều hơn người bì
 
 Họ ngẩn ngơ ngắm nhìn chiếc giường ngủ của Elizabeth.
 
-“Đây sẽ là nơi em nằm ngủ chứ?” anh hỏi.
+“Đây sẽ là nơi cô nằm ngủ chứ?” anh hỏi.
 
-“Em nghĩ đây là nơi hồn ma của Elizabeth ngủ thì đúng hơn.”
+“Tôi nghĩ đây là nơi hồn ma của Elizabeth ngủ thì đúng hơn.”
 
 Anh bật cười, và cả hai cùng ngước lên nhìn bức chân dung Elizabeth treo phía trên đầu giường. Cô cảm thấy có một sợi dây liên kết kỳ lạ với người phụ nữ này. Có lẽ bởi vì bà ấy cũng vậy, cũng sống cô độc theo cách riêng của mình, sống cô độc ngay trong chính cuộc hôn nhân của mình.
 
-“Anh nghĩ em nói đúng đấy,” Gary nói, rồi anh quay sang cô. “Cho anh mượn điện thoại của em một lát nhé?”
+“Tôi nghĩ cô nói đúng đấy,” Gary nói, rồi anh quay sang cô. “Cho tôi mượn điện thoại của cô một lát nhé?”
 
 Cô đưa điện thoại cho anh. Thậm chí cô còn biết trước anh định làm gì ngay cả khi anh chưa kịp hành động.
 
-“Khi nào dọn đến đây sống, hãy gọi cho anh nếu em thực sự nhìn thấy ma nhé,” Gary nói vừa bấm số điện thoại của mình vào máy.
+“Khi nào dọn đến đây sống, hãy gọi cho tôi nếu cô thực sự nhìn thấy ma nhé,” Gary nói vừa bấm số điện thoại của mình vào máy.
 
 “Rồi anh định làm gì vụ đó?” cô hỏi.
 
-“Chẳng làm gì cả,” anh đáp. “Em nói đúng mà. Anh nổi tiếng là bất lực trước lũ ma quỷ cơ mà. Cứ hỏi Juice thì biết.”
+“Chẳng làm gì cả,” anh đáp. “Cô nói đúng mà. Tôi nổi tiếng là bất lực trước lũ ma quỷ cơ mà. Cứ hỏi Juice thì biết.”
 
 Cô bật cười.
 
-“Nhưng hứa là dù thế nào vẫn sẽ gọi cho anh nhé?” anh hỏi.
+“Nhưng hứa là dù thế nào vẫn sẽ gọi cho tôi nhé?” anh hỏi.
 
-“Em hứa.”
+“Tôi hứa.”
 
 Cô cúi nhìn xuống sàn gỗ cũ kỹ, rồi đút điện thoại vào túi áo. Cảm giác như thể cô vừa cất giấu một thứ gì đó vô cùng đặc biệt trong đó vậy. Một tương lai, nơi cô sống trong ngôi nhà xinh đẹp này và có thể gọi cho Gary bất cứ khi nào cô cần.
 
 Họ bước sang căn phòng kế tiếp.
 
-“Theo anh thì câu nói ‘Anh tin em’ của Geoffrey lúc nãy có ngụ ý gì? Đó có phải là một lời châm chọc không?”
+“Theo anh thì câu nói ‘Tôi tin cô’ của Geoffrey lúc nãy có ngụ ý gì? Đó có phải là một lời châm chọc không?”
 
-“Anh nghĩ, nếu câu đó thốt ra từ miệng Geoffrey, thì đó chính là lời khen ngợi cao quý nhất rồi.”
+“Tôi nghĩ, nếu câu đó thốt ra từ miệng Geoffrey, thì đó chính là lời khen ngợi cao quý nhất rồi.”
 
-“Là do giọng nói hay mái tóc của em nhỉ?” cô thắc mắc.
+“Là do giọng nói hay mái tóc của tôi nhỉ?” cô thắc mắc.
 
-“Anh nghĩ đơn giản là nhờ thần thái của em thôi,” Gary nói. “Em tạo cho người ta cảm giác… rất thông minh. Kiểu như em đã nghiên cứu qua mọi thứ trên đời và giờ đây đang mang trong mình toàn bộ tri thức nhân loại vậy.”
+“Tôi nghĩ đơn giản là nhờ thần thái của cô thôi,” Gary nói. “Cô tạo cho người ta cảm giác… rất thông thái. Kiểu như cô đã nghiên cứu qua mọi thứ trên đời và giờ đây đang mang trong mình toàn bộ tri thức nhân loại vậy.”
 
 “Nghe có vẻ kiêu căng khó ưa lắm không?”
 
@@ -254,111 +262,117 @@ Phòng ngủ dành cho cô có diện tích hơi nhỏ, nhưng từ trước đ�
 
 Sau đó, ông dẫn họ ra khu vườn, một khu vườn được cắt tỉa theo kiểu cách hoàng gia với những cây hoàng dương được uốn lượn thành hình xoắn ốc. Họ bước lên một ngọn đồi nhỏ và ngồi xuống chiếc ghế đá xinh xắn, bởi vì từ vị trí đó, họ có thể phóng tầm mắt ngắm trọn đại dương bao la.
 
-<span class="caps">K</span><small>HI HỌ QUAY TRỞ LẠI</small> xe, giới thiệu chiếc điện thoại của mình.
+<hr class="scene-break"/>
 
-“Chết tiệt, anh thực sự phải ghé qua văn phòng một chút để ký vài giấy tờ. Phải giải quyết xong xuôi mọi việc trước khi lên đường đi hưởng tuần trăng mật chứ. Em có phiền không?”
+<span class="caps">K</span><small>HI HỌ QUAY TRỞ LẠI</small> xe, Gary mở điện thoại của mình ra.
+
+“Chết tiệt, tôi thực sự phải ghé qua văn phòng một chút để ký vài giấy tờ. Phải giải quyết xong xuôi mọi việc trước khi lên đường đi hưởng tuần trăng mật chứ. Cô có phiền không?”
 
 Tuần trăng mật. Chỉ ba ngày nữa thôi, Gary và Lila sẽ bước lên chuyến bay đi St. Thomas. Họ sẽ chính thức kết hôn. Họ sẽ cùng nhau nhấm nháp ly champagne với những chiếc nhẫn lấp lánh trên ngón áp út. Và khi ấy, Phoebe sẽ đang ở đâu?
 
 “Vào một ngày Thứ Bảy á?” Phoebe hỏi.
 
-“Văn phòng bọn anh mở cửa đến tận trưa mà.”
+“Văn phòng chúng tôi mở cửa đến tận trưa mà.”
 
-Phòng khám của Gary nằm ở Tiverton. Trông nó giống như một ngôi nhà hơn. Tọa lạc ngay bên một con đường ven biển tuyệt đẹp, bởi hầu hết mọi con đường ở đây đều thơ mộng như thế. Nằm ở tận rìa của thị trấn. Nó mang lại cho Phoebe cảm giác như thể cô sắp rơi tõm xuống vực sâu đến nơi.
+Phòng khám của Gary nằm ở Tiverton. Trông nó giống như một ngôi nhà hơn. Tọa lạc ngay bên một con đường ven biển tuyệt đẹp, bởi hầu hết mọi con đường ở đây đều thơ mộng như thế. Nằm ở tận rìa của thị trấn. Nó mang lại cho Phoebe cảm giác như thể cô sắp rơi tõm xuống bờ vực đến nơi.
 
 Bên trong, các nhân viên lễ tân nhìn thấy Gary liền tỏ ra vô cùng phấn khích. Họ đã rất nhớ anh, nhưng đồng thời cũng muốn biết quái nào mà anh lại có mặt ở đây.
 
-"Lẽ ra bọn em không được gặp anh cho đến tận ngày mai ở đám cưới cơ mà!" một trong những nhân viên lễ tân lên tiếng.
+“Lẽ ra chúng em không được gặp anh cho đến tận ngày mai ở đám cưới cơ mà!” một trong những nhân viên lễ tân lên tiếng.
 
 Thật dễ thương làm sao, cô thầm nghĩ, khi anh mời cả nhân viên của mình đến dự lễ cưới.
 
-"Anh đành chịu không nhịn được," Gary trêu chọc, rồi bước thẳng vào phòng làm việc của mình.
+“Tôi đành chịu không nhịn được,” Gary trêu chọc, rồi bước thẳng vào phòng làm việc của mình.
 
-Phoebe ngồi chờ trên những chiếc ghế bên ngoài. Cô thử tưởng tượng Lila và bố cô ấy cũng từng ngồi đây làm điều tương thật như vậy, nhưng thật khó để hình dung ra khung cảnh ấy. Cô lắng nghe những bệnh nhân đứng ở quầy tiếp tân, hồn nhiên tuôn ra những câu chuyện bi thảm về gia đình mình với nhân viên lễ tân đang hỏi về các khoảng trống trong hồ sơ bệnh án của họ. Ông bà bị quét sạch bởi bệnh ung thư phổi. Một người bố mà đứa con gái chưa từng biết mặt. Và cô ấy bổ sung thêm rằng mình còn rất nhiều anh chị em nữa.
+Phoebe ngồi chờ trên những chiếc ghế bên ngoài. Cô thử tưởng tượng Lila và bố cô dâu cũng từng ngồi đây làm điều tương tự, nhưng thật khó để hình dung ra khung cảnh ấy. Cô lắng nghe những bệnh nhân đứng ở quầy tiếp tân, hồn nhiên tuôn ra những câu chuyện bi thảm về gia đình mình với nhân viên lễ tân đang hỏi về các khoảng trống trong hồ sơ bệnh án của họ. Ông bà bị quét sạch bởi bệnh ung thư phổi. Một người bố mà đứa con gái chưa từng biết mặt. Và người phụ nữ ấy bổ sung thêm rằng mình còn rất nhiều anh chị em nữa.
 
-"Nhưng tôi cũng chẳng biết mặt họ nốt," người phụ nữ nói, và giọng cô ấy chẳng hề có chút hổ thẹn nào cả. Đó đơn giản chỉ là một sự thật. Cô ấy chẳng có họ hàng thân thích gì sất. Rồi cô ấy ngồi xuống, và Phoebe cảm thấy vô cùng ấn tượng. Phoebe tự nhủ phải ghi nhớ để bắt đầu tập luyện thói quen đó, không cảm thấy xấu hổ về lịch sử gia đình mình mà hãy nhìn nhận nó như một hiển nhiên của cuộc sống.
+“Nhưng tôi cũng chẳng biết mặt họ nốt,” người phụ nữ nói, và giọng cô ấy chẳng hề có chút hổ thẹn nào cả. Đó đơn giản chỉ là một sự thật. Cô ấy chẳng có họ hàng thân thích gì sất. Rồi cô ấy ngồi xuống, và Phoebe cảm thấy vô cùng ấn tượng. Phoebe tự nhủ phải ghi nhớ để bắt đầu tập luyện thói quen đó, không cảm thấy xấu hổ về lịch sử gia đình mình mà hãy nhìn nhận nó như một điều hiển nhiên của cuộc sống.
 
 Trên tường có những chiếc màn hình máy tính cảm ứng để tìm hiểu thêm về chẩn đoán bệnh của bạn. Một góc nhỏ bày đồ chơi dành cho trẻ em. Đồ trang trí theo mùa cho mọi dịp lễ hội. Trên đường bước ra, Gary giải thích rằng chẳng có lý do gì phải dỡ chúng xuống chỉ để rồi lại treo lên. Và họ thích có tất cả các ngày lễ ở bên mình vào mọi thời điểm trong năm.
 
-"Thật tuyệt," Phoebe nói. "Sao lại không cơ chứ?"
+“Thật tuyệt,” Phoebe nói. “Sao lại không cơ chứ?”
 
-"Chính xác," Gary đáp.
+“Chính xác,” Gary đáp.
 
 Đây chính là cuộc đời của Gary, cô thầm nghĩ.
 
-<span class="caps">T</span><small>ẠI TIỆM MAY</small>, người thợ bảo anh có vóc dáng của một cầu thủ bóng đá. Bà bảo anh dang rộng chân ra.
+<hr class="scene-break"/>
 
-"Được rồi, vừa vặn lắm," bà nói và nhìn sang Phoebe. "Cô thấy thế nào?"
+<span class="caps">T</span><small>ẠI TIỆM MAY</small>, người thợ bảo anh có vóc dáng của một cầu thủ bóng bầu dục. Bà bảo anh dang rộng chân ra.
+
+“Được rồi, vừa vặn lắm,” bà nói và nhìn sang Phoebe. “Cô thấy thế nào?”
 
 Bà ấy tưởng Phoebe là vị hôn thê của anh sao? Gary nhìn cô, như thể anh cũng đang đợi xem cô nghĩ gì. Mà tại sao lại thế nhỉ? Nếu cô không thích, chẳng lẽ anh sẽ đòi đổi bộ khác hay sao? Chẳng lẽ anh sẽ hủy đám cưới à? Không đời nào.
 
-"Trông đẹp đấy," Phoebe nói. "Anh trông giống như... một chú rể thực thụ."
+“Trông đẹp đấy,” Phoebe nói. “Anh trông giống như… một chú rể thực thụ.”
 
 Ra ngoài đường phố, nơi sự giao tiếp chân thành có thể diễn ra một lần nữa, họ không nói gì. Giờ đây, họ đang ở đó, thui thủi bên nhau, bước về phía chiếc xe. Họ đang đứng bên bờ vực của quãng đời còn lại.
 
-"Vậy nếu em trở thành người quản lý nhà mùa đông, điều đó có nghĩa là em sẽ chuyển đến đây và nghỉ việc ở St. Louis chứ?" anh hỏi.
+“Vậy nếu cô trở thành người trông nhà mùa đông, điều đó có nghĩa là cô sẽ chuyển đến đây và nghỉ việc ở St. Louis chứ?” anh hỏi.
 
-"Vâng," cô đáp.
+“Vâng,” cô đáp.
 
-"Em cứ thế bỏ lại mọi thứ đằng sau sao?"
+“Cô cứ thế bỏ lại mọi thứ đằng sau sao?”
 
-"Đó là kế hoạch."
+“Đó là kế hoạch.”
 
-Anh ngập ngừng như thể vẫn còn hoài nghi về điều đó. "Em sẽ không nhớ nó sao?"
+Anh ngập ngừng như thể vẫn còn hoài nghi về điều đó. “Cô sẽ không nhớ nó sao?”
 
-"Đương nhiên là có chứ," cô nói. "Nhưng ngay cả khi còn ở đó, em đã nhớ nó rồi. Em lúc nào cũng nhớ mọi thứ."
+“Đương nhiên là có chứ,” cô nói. “Nhưng ngay cả khi còn ở đó, tôi đã thấy nhớ nó rồi. Tôi lúc nào cũng thấy nhớ mọi thứ.”
 
 Họ quay trở lại xe. Cô tự hỏi liệu cảm xúc của mình dành cho Gary có phải là một dạng tình yêu mới, một thứ tình yêu mà trước giờ cô chưa từng biết đến: tình yêu không đi kèm sự kỳ vọng. Tình yêu mà chỉ cần cảm nhận thôi là đã thấy đủ hạnh phúc rồi. Tình yêu mà bạn không cố gắng sở hữu nó như một bức tranh. Nhưng cô không biết đó có phải là một điều có thật hay không. Cô hy vọng là có thật. Cô nhìn ra bãi đậu xe xung quanh, giống như một đứa trẻ đi mua đồ cùng bố, lớn tiếng gọi tên bất cứ thứ gì nó nhìn thấy.
 
-"Kia là một biển quảng cáo rợn tóc gáy đấy," cô nói. "Âm nhạc yêu thích của xác ướp là gì cơ chứ? Sao lại có thể làm biển quảng cáo về thứ đó nhỉ?"
+“Kia là một biển quảng cáo rợn tóc gáy đấy,” cô nói. “Âm nhạc yêu thích của xác ướp là gì cơ chứ? Sao lại có thể làm biển quảng cáo về thứ đó nhỉ?”
 
-"Ý anh là nó ghi là, Thể loại nhạc yêu thích của <i>một</i> xác ướp là gì? Chứ không phải là Nhạc yêu thích của xác ướp đâu."
+“Ý tôi là nó ghi: Thể loại nhạc yêu thích của <i>một</i> xác ướp là gì? Chứ không phải là Nhạc yêu thích của xác ướp đâu.”
 
 Họ bắt đầu đoán xem một xác ướp sẽ thích thể loại âm nhạc nào.
 
-"Nhạc Baroque chăng?"
+“Nhạc Baroque chăng?”
 
-"Điều đó còn tùy thuộc vào việc xác ướp đó chết vào thời kỳ nào nữa."
+“Điều đó còn tùy thuộc vào việc xác ướp đó chết vào thời kỳ nào nữa.”
 
-"Nhạc Synth-pop."
+“Nhạc Synth-pop.”
 
-"Một xác ướp mang phong cách hậu hiện đại."
+“Một xác ướp mang phong cách hậu hiện đại.”
 
 Cô khởi động xe.
 
-"Sẵn sàng chưa?" anh hỏi.
+“Sẵn sàng chưa?” anh hỏi.
 
-"Sẵn sàng," cô đáp.
+“Sẵn sàng,” cô đáp.
 
-Nhưng họ vẫn ngồi đó thêm một lát nữa, cảm giác ấy y hệt như lúc ở trong bồn tắm nước nóng, cứ như thể có điều gì đó sắp xảy ra ngay lúc này, như thể cô nên nói một câu gì đó để bắt đầu cuộc đời mới tinh của mình, nhưng rốt cuộc là câu gì đây?
+Nhưng họ vẫn ngồi đó thêm một lát nữa, cảm giác ấy y hệt như lúc ở trong bồn nước nóng, cứ như thể có điều gì đó sắp xảy ra ngay lúc này, như thể cô nên nói một câu gì đó để bắt đầu cuộc đời mới tinh của mình, nhưng rốt cuộc là câu gì đây?
 
 Cô không thể phá hủy một đám cưới được. Đám cưới này quá lớn để có thể thất bại. Đám cưới này tựa như sự chuyển động quay của trái đất vậy. Nó sẽ cứ diễn ra cho dù Phoebe có nói gì hay không. Cho dù có ai thực sự yêu nhau hay không. Cô lấy quyền gì mà lên tiếng chứ?
 
-"Đi đâu nữa đây?" cô hỏi.
+“Đi đâu nữa đây?” cô hỏi.
 
 Cô cần phải quay lại, cần phải bước ra khỏi chiếc xe này trước khi bản thân thốt ra điều gì đó.
 
-"Đến tiệm cắt tóc," Gary nói.
+“Đến tiệm cắt tóc,” Gary nói.
 
-<span class="caps">H</span><small>Ọ ĐẾN GẶP</small> một anh thợ tên là Nick, người mà Gary thường lui tới cắt tóc từ hồi còn là một cậu nhóc. Dù đường đi có hơi vòng vèo nhưng rất đáng tiền, anh nói trên suốt chặng đường lái xe. Nick từng cạo hình tia chớp ở bên mai cho anh. Nick là người đã cắt hú trọc đầu cho anh lần đầu tiên. Rồi cạo râu cho đám cưới đầu tiên của anh nữa. Nhưng đã nhiều năm trôi qua rồi, Gary đã sắm một bộ tông đơ tự cắt tóc trong đợt dịch Covid và từ đó không bao giờ ngoảnh đầu nhìn lại nữa. Thế mà giờ đây, họ đang rẽ vào một con phố nhỏ, và trông Gary có vẻ vô cùng phấn khích, cứ như thể họ đang du hành vượt thời gian vậy.
+<hr class="scene-break"/>
 
-"Cậu có lịch hẹn trước không đấy?" Nick cất giọng hỏi ngay khi họ bước vào, nhưng đầu vẫn không quay lại vì đang bận tỉa tóc cho khách.
+<span class="caps">H</span><small>Ọ ĐẾN GẶP</small> một người thợ tên là Nick, người mà Gary thường lui tới cắt tóc từ hồi còn là một cậu nhóc. Dù đường đi có hơi vòng vèo nhưng rất đáng tiền, anh nói suốt chặng đường lái xe. Nick từng cạo hình tia chớp ở bên mai cho anh. Nick là người đã cắt húi cua cho anh lần đầu tiên. Rồi cạo râu cho đám cưới đầu tiên của anh nữa. Nhưng đã nhiều năm trôi qua rồi, Gary đã sắm một bộ tông đơ tự cắt tóc trong đợt dịch Covid và từ đó không bao giờ ngoảnh đầu nhìn lại nữa. Thế mà giờ đây, họ đang rẽ vào một con phố nhỏ, và trông Gary có vẻ vô cùng phấn khích, cứ như thể họ đang du hành vượt thời gian vậy.
 
-"Cậu có bao giờ nhận đặt lịch đâu," Gary nói.
+“Cậu có lịch hẹn trước không đấy?” Nick cất giọng hỏi ngay khi họ bước vào, nhưng đầu vẫn không quay lại vì đang bận tỉa tóc cho khách.
 
-"Bây giờ thì tôi có nhận đặt lịch rồi," Nick đáp. "Từ hồi dịch Covid đến nay đấy."
+“Anh có bao giờ nhận đặt lịch đâu,” Gary nói.
+
+“Bây giờ thì tôi có nhận đặt lịch rồi,” Nick đáp. “Từ hồi dịch Covid đến nay đấy.”
 
 Gary nhìn hàng dài những người đàn ông đang ngồi đợi trên ghế và bảo rằng nếu biết trước thì anh đã đặt lịch rồi.
 
-"Tôi vẫn còn trống lịch vào thứ Hai," Nick nói.
+“Tôi vẫn còn trống lịch vào thứ Hai,” Nick nói.
 
 “Thứ Hai thì muộn quá rồi. Dù sao cũng cảm ơn anh, Nick.”
 
-“Muộn á? Bộ cô chuẩn bị đi đánh nhau với người Anh hay gì à?”
+“Muộn á? Bộ cậu chuẩn bị đi đánh nhau với người Anh hay gì à?”
 
 “Đi cưới vợ,” Gary nói.
 
-“Cơ mà cô là cô dâu may mắn đấy chứ?”
+“Thế cô đây là cô dâu may mắn chứ gì?”
 
 “Không,” Phoebe đáp. “Tôi chỉ là bạn thôi.”
 
@@ -366,31 +380,31 @@ Nick nhìn cả hai người với ánh mắt có vẻ không tin lắm. Nếu k
 
 “Riêng chú rể thì tôi sẽ sắp xếp thời gian,” Nick nói. “Cậu cứ thong thả chờ một chút nhé.”
 
-Trong lúc chờ đợi, họ chẳng nói câu nào. Cả hai chỉ lắng nghe những người đàn ông trên tivi bàn về đội Celtics. Rồi đến mấy tuabin gió đang được lắp đặt dọc bờ biển. Rồi lại đến những làn đường dành cho xe đạp đang gây tranh cãi dữ dội ở Providence. Sự im lặng ấy mang một nét quen thuộc đến kỳ lạ, giống như khi ta ngồi trong một hàng ghế nhà thờ mà ai nấy đều biết điều nên giữ im lặng, ngay cả cậu bé nãy giờ cứ đung đưa đôi chân. Phải đến khi người đàn ông cuối cùng được gọi lên ghế của Nick, Gary mới cất lời.
+Trong lúc chờ đợi, họ chẳng nói câu nào. Cả hai chỉ lắng nghe những người đàn ông trên tivi bàn về đội Celtics. Rồi đến mấy tua-bin gió đang được lắp đặt dọc bờ biển. Rồi lại đến những làn đường dành cho xe đạp đang gây tranh cãi dữ dội ở Providence. Sự im lặng ấy mang một nét quen thuộc đến kỳ lạ, giống như khi ta ngồi trong một hàng ghế nhà thờ mà ai nấy đều biết ý nên giữ im lặng, ngay cả cậu bé nãy giờ cứ đung đưa đôi chân. Phải đến khi người đàn ông cuối cùng được gọi lên ghế của Nick, Gary mới cất lời.
 
-“Thế cậu thực sự không nhớ việc dạy học chút nào sao?” Gary hỏi, cứ như thể họ vừa có một cuộc trò chuyện dài về chủ đề đó vậy.
+“Thế cô thực sự không nhớ việc dạy học chút nào sao?” Gary hỏi, cứ như thể họ vừa có một cuộc trò chuyện dài về chủ đề đó vậy.
 
 “Tôi cũng có nhớ một vài điều về việc dạy học chứ,” Phoebe đáp.
 
 “Điều gì cơ?”
 
-“Những khoảnh khắc kết nối với học sinh,” cô nói. “Những lúc các em thực sự học được điều gì đó. Sự tương tác qua lại. Cảm giác khi có được một buổi lên lớp thực sự xuất sắc. Hồi mới bắt đầu, tôi đúng là rất yêu công việc ấy.”
+“Những khoảnh khắc kết nối với sinh viên,” cô nói. “Những lúc các em thực sự học được điều gì đó. Sự tương tác qua lại. Cảm giác khi có được một buổi lên lớp thực sự xuất sắc. Hồi mới bắt đầu, tôi đúng là rất yêu công việc ấy.”
 
-“Thế còn cái gì mà cậu không nhớ?”
+“Thế còn cái gì mà cô không nhớ?”
 
 “Sự giả vờ,” cô nói. “Tôi chưa bao giờ nhận ra công việc đó lại đòi hỏi nhiều sự giả vờ đến thế.”
 
 “Giả vờ làm gì cơ?”
 
-“Giả vờ hào hứng. Giả vờ như mình chưa từng kể đi kể lại chính xác một câu chuyện cười đó hết lần này đến lần khác. Giả vờ rằng kiến thức là một tấm chăn chắp vá đầy những sự kiện ngẫu nhiên mà đẹp đẽ, đầy may rủi. Giả vờ rằng mọi chuyện diễn ra đều có thể xâu chuỗi thành một câu chuyện tuyến tính, trọn vẹn.”
+“Giả vờ hào hứng. Giả vờ như mình chưa từng kể đi kể lại chính xác một câu chuyện đùa đó hết lần này đến lần khác. Giả vờ rằng kiến thức là một tấm chăn chắp vá đầy những sự kiện ngẫu nhiên mà đẹp đẽ, đầy may rủi. Giả vờ rằng mọi chuyện diễn ra đều có thể xâu chuỗi thành một câu chuyện tuyến tính, trọn vẹn.”
 
-“Đấy là những gì cậu nói trong buổi phỏng vấn xin việc à?”
+“Đấy là những gì cô nói trong buổi phỏng vấn xin việc à?”
 
 “Tôi còn nói những câu tệ hơn thế cơ. Tôi lôi cả Marx vào.”
 
-“Một cú đi vào lòng người đấy. Ai mà chẳng muốn thuê một tín đồ Marx cơ chứ.”
+“Một cú ghi điểm đấy. Ai mà chẳng muốn thuê một tín đồ Marx cơ chứ.”
 
-“Hồi đó tôi khá quyết tâm giả vờ làm một người theo chủ nghĩa Marx. Tôi cứ huyên thuyên mãi về việc thật khó để đo lường tiến bộ của học sinh thế nào, rằng chẳng có gì đảm bảo là họ đã học được gì, và rằng giáo viên cũng bị tha hóa khỏi sức lao động của chính mình ra sao. Chúng ta hiếm khi có cơ hội hiểu được ảnh hưởng của mình lên học sinh, nhưng dù thế nào thì chúng ta vẫn cứ làm việc.”
+“Hồi đó tôi khá quyết tâm giả vờ làm một người theo chủ nghĩa Marx. Tôi cứ huyên thuyên mãi về việc thật khó để đo lường tiến bộ của học sinh thế nào, rằng chẳng có gì đảm bảo là họ đã học được gì, và rằng giáo viên cũng bị tha hóa khỏi sức lao động của chính mình ra sao. Chúng ta hiếm khi có cơ hội hiểu được ảnh hưởng của mình lên học trò, nhưng dù thế nào thì chúng ta vẫn cứ làm việc.”
 
 Đó chính là lý do vì sao cô luôn cần đến việc nghiên cứu và viết lách.
 
@@ -400,57 +414,57 @@ Trong lúc chờ đợi, họ chẳng nói câu nào. Cả hai chỉ lắng nghe
 
 Rồi họ chỉ còn lại một mình trong tiệm. Cả hai chẳng nói năng gì. Chỉ có âm thanh từ chiếc tivi đang cố tình làm lu mờ khoảnh khắc này, biến nó thành một sự vô nghĩa.
 
-“Bây giờ cậu có đang giả vờ làm gì không đấy?” Gary hỏi.
+“Bây giờ cô có đang giả vờ làm gì không đấy?” Gary hỏi.
 
 “Ý anh là sao?”
 
-Mặt cô nóng bừng lên. Cô đang giả vờ chứ, đúng vậy. Cô đang giả vờ nói về chuyện giả vờ làm một người theo chủ nghĩa Marx trong khi thực ra cô chỉ muốn nói với anh rằng có lẽ cô đã yêu anh mất rồi, rằng cô chưa từng cảm thấy gắn kết với ai đến thế trong đời, ngay cả với chồng mình, bởi vì cô chưa từng dám nhìn thẳng vào mắt chồng và thú nhận rằng mình muốn chết, chưa từng thực sự phơi bày trọn vẹn con người thật của mình cho anh ta thấy. Cả tuần nay đã gắn kết cô lại với anh và việc cùng anh chạy đà cho mấy công việc vặt chẳng giúp ích gì cả. Có cái gì đó ở việc nhìn anh ký giấy tờ ở văn phòng, nhìn anh ngồi chờ ở tiệm cắt tóc, nhìn anh chỉ đơn giản là một Gary bình thường...
+Mặt cô nóng bừng lên. Cô đang giả vờ chứ, đúng vậy. Cô đang giả vờ nói về chuyện giả vờ làm một người theo chủ nghĩa Marx trong khi thực ra cô chỉ muốn nói với anh rằng có lẽ cô đã yêu anh mất rồi, rằng cô chưa từng cảm thấy gắn kết với ai đến thế trong đời, ngay cả với chồng cũ của mình, bởi vì cô chưa từng dám nhìn thẳng vào mắt chồng và thú nhận rằng mình muốn chết, chưa từng thực sự phơi bày trọn vẹn con người thật của mình cho anh ta thấy. Cả tuần nay đã gắn kết cô lại với anh và việc cùng anh chạy đôn chạy đáo lo mấy công việc vặt chẳng giúp ích gì cả. Có cái gì đó ở việc nhìn anh ký giấy tờ ở văn phòng, nhìn anh ngồi chờ ở tiệm cắt tóc, nhìn anh chỉ đơn giản là một Gary bình thường…
 
 Nhưng cô đã từng có tình yêu, một tình yêu lớn lao, và cuối cùng thì điều đó cũng có nghĩa lý gì đâu.
 
 “Tôi đang giả vờ là mình không bối rối,” Phoebe nói. “Tôi làm tốt không?”
 
-“Diễn xuất xuất sắc,” anh đáp. “Trông em chưa bao giờ tỏ ra bối rối cả.”
+“Diễn xuất xuất sắc,” anh đáp. “Trông cô chưa bao giờ tỏ ra bối rối cả.”
 
 “Thì, tôi đang bối rối đây.”
 
-“Em đang bối rối chuyện gì cơ?”
+“Cô đang bối rối chuyện gì cơ?”
 
 “Chuyện là không biết <i>anh</i> có đang giả vờ làm gì ngay lúc này không.”
 
-Anh khựng lại một nhịp. “Anh đang giả vờ rằng mình không muốn nói với em một chuyện ngay lúc này đây. Anh đang giả vờ rằng điều đó không làm anh cảm thấy vô cùng lo lắng.”
+Anh khựng lại một nhịp. “Tôi đang giả vờ rằng mình không muốn nói với cô một chuyện ngay lúc này đây. Tôi đang giả vờ rằng điều đó không làm tôi cảm thấy vô cùng lo lắng.”
 
 “Tôi có thể hỏi điều gì khiến anh sợ hãi đến thế không?”
 
-“Anh không biết phải diễn tả thế nào. Anh không biết phải nói ra sao. Anh không biết điều gì sẽ xảy ra sau khi anh nói ra điều đó.”
+“Tôi không biết phải diễn tả thế nào. Tôi không biết phải nói ra sao. Tôi không biết điều gì sẽ xảy ra sau khi tôi nói ra điều đó.”
 
-Cô có cảm giác rằng nếu cuộc trò chuyện này cứ tiếp tục, một điều gì đó không thể vãn hồi sẽ xảy ra.
+Cô có cảm giác rằng nếu cuộc trò chuyện này cứ tiếp tục, một điều gì đó không thể cứu vãn sẽ xảy ra.
 
-“Nhưng ngặt một nỗi là anh chẳng thể nói điều đó với ai khác,” anh nói. “Không có ai để trò chuyện về chuyện này... ngoại trừ em.”
+“Nhưng ngặt một nỗi là tôi chẳng thể nói điều đó với ai khác,” anh nói. “Không có ai để trò chuyện về chuyện này… ngoại trừ cô.”
 
 “Vậy thì hãy nói với tôi đi.”
 
-“Mọi thứ thật dễ dàng khi ở bên em,” anh nói. “Anh chẳng tài nào hiểu nổi.”
+“Mọi thứ thật dễ dàng khi ở bên cô,” anh nói. “Tôi chẳng tài nào hiểu nổi.”
 
 “Anh không hiểu điều gì?”
 
-“Anh đã cảm nhận được điều đó ngay trong đêm đầu tiên chúng ta trò chuyện. Thật lòng là anh không tài nào ngừng nghĩ về đêm đầu tiên trong bồn tắm ấy được. Và tin anh đi, anh đã thử rồi. Anh đã cố tìm hiểu xem tại sao mình cứ mãi nghĩ về em, bởi vì ngày mai anh chuẩn bị lấy vợ rồi cơ mà.”
+“Tôi đã cảm nhận được điều đó ngay trong đêm đầu tiên chúng ta trò chuyện. Thật lòng là tôi không tài nào ngừng nghĩ về đêm đầu tiên trong bồn nước nóng ấy được. Và tin tôi đi, tôi đã thử rồi. Tôi đã cố tìm hiểu xem tại sao mình cứ mãi nghĩ về cô, bởi vì ngày mai tôi chuẩn bị lấy vợ rồi cơ mà.”
 
 “Đúng vậy,” cô nói. “Ngày mai anh cưới rồi.”
 
-“Nhưng anh lại cảm thấy bị thu hút mạnh mẽ bởi em,” anh nói. “Anh chỉ muốn được ở bên em thôi, Phoebe ạ. Bởi vì khi ở bên em, anh thấy mọi thứ thật tốt đẹp. Anh thấy thật lòng với chính mình. Anh cảm thấy được là chính mình. Cảm giác như thể cuối cùng anh cũng hiểu lại được cuộc đời này là gì. Cuối cùng thì anh cũng biết phải nói gì, sau bao nhiêu năm trời chẳng biết phải làm hay nói cái quái gì nữa. Em có hiểu ý anh không?”
+“Nhưng tôi lại cảm thấy bị thu hút mạnh mẽ bởi cô,” anh nói. “Tôi chỉ muốn được ở bên cô thôi, Phoebe ạ. Bởi vì khi ở bên cô, tôi thấy mọi thứ thật tốt đẹp. Tôi thấy thật lòng với chính mình. Tôi cảm thấy được là chính mình. Cảm giác như thể cuối cùng tôi cũng hiểu lại được cuộc đời này là gì. Cuối cùng thì tôi cũng biết phải nói gì, sau bao nhiêu năm trời chẳng biết phải làm hay nói cái quái gì nữa. Cô có hiểu ý tôi không?”
 
 Phoebe hiểu chứ. Cô cũng cảm thấy thế. Hoàn toàn như vậy. Và cô rất muốn nói cho anh biết. Nói ra điều đó chắc chắn sẽ nhẹ nhõm biết bao.
 
-“Có điên không em?” Gary hỏi. “Em đang nhìn anh bằng ánh mắt như thể anh vừa nói một điều điên rồ vậy.”
+“Có điên rồ không cô?” Gary hỏi. “Cô đang nhìn tôi bằng ánh mắt như thể tôi vừa nói một điều điên rồ vậy.”
 
-“Em không nghĩ nó điên rồ. Em nghĩ nó đáng sợ.”
+“Tôi không nghĩ nó điên rồ. Tôi nghĩ nó đáng sợ.”
 
 “Đúng là đáng sợ thật,” anh nói.
 
-“Thật rất đáng sợ khi anh lại thổ lộ tất cả những điều này với em vào cái đêm trước ngày cưới của mình,” cô nói. “Em không nghĩ anh nên làm thế.”
+“Thật rất đáng sợ khi anh lại thổ lộ tất cả những điều này với tôi vào cái đêm trước ngày cưới của mình,” cô nói. “Tôi không nghĩ anh nên làm thế.”
 
-“Thế anh phải làm vào lúc nào nữa?” Gary hỏi. “Nếu bây giờ anh không nói, thì đến bao giờ mới nói?”
+“Thế tôi phải làm vào lúc nào nữa?” Gary hỏi. “Nếu bây giờ tôi không nói, thì đến bao giờ mới nói?”
 
 Tiếng chuông cửa vang lên. Nick đã quay lại.
 
@@ -458,74 +472,80 @@ Tiếng chuông cửa vang lên. Nick đã quay lại.
 
 “Kiểu quen thuộc,” Gary đáp.
 
-Gary chậm rãi đứng dậy. Phoebe dõi theo cú tông đơ của Nick lướt qua lớp râu dày rậm của Gary. Phoebe quan sát Nick làm việc giống như một nhà điêu khắc đang gọt giũa từng lớp của Gary cho đến khi ra được diện mạo “quen thuộc”. Việc nhìn những nhúm râu của Gary rơi lả tả xuống sàn từng mảng lớn khiến cô thấy bồn chồn. Sau đó, Nick đắp một chiếc khăn lên mặt Gary, và không hiểu sao, khi anh bắt đầu cạo râu, Phoebe không tài nào nhìn nổi. Cô cúi xuống nhìn cuốn tạp chí. Từ trước đến nay, cô vẫn luôn thích âm thanh của lưỡi dao cạo lướt trên lớp râu ngắn của đàn ông. Nghe giống như tiếng một người thợ nề đang trát vữa lên bức tường gạch vậy.
+Gary chậm rãi đứng dậy. Phoebe dõi theo đường tông đơ của Nick lướt qua lớp râu dày rậm của Gary. Phoebe quan sát Nick làm việc giống như một nhà điêu khắc đang gọt giũa từng lớp của Gary cho đến khi ra được diện mạo “quen thuộc”. Việc nhìn những nhúm râu của Gary rơi lả tả xuống sàn từng mảng lớn khiến cô thấy bồn chồn. Sau đó, Nick đắp một chiếc khăn lên mặt Gary, và không hiểu sao, khi người thợ bắt đầu cạo râu, Phoebe không tài nào nhìn nổi. Cô cúi xuống nhìn cuốn tạp chí. Từ trước đến nay, cô vẫn luôn thích âm thanh của lưỡi dao cạo lướt trên lớp râu ngắn của đàn ông. Nghe giống như tiếng một người thợ nề đang trát vữa lên bức tường gạch vậy.
 
 Khi gần xong việc, Phoebe ngẩng đầu lên, và ánh mắt họ chạm nhau trong gương. Họ cứ giữ nguyên tư thế ấy một lúc, chỉ lặng lẽ nhìn nhau. Nick lỡ tay làm xước một đường ở sau gáy Gary. Theo bản năng, Phoebe chồm người tới phía trước như thể muốn giúp anh cầm máu. Nhưng Nick đã xử lý xong xuôi.
 
 “Chuyện này xảy ra như cơm bữa ấy mà,” Nick nói, rồi áp chiếc khăn lên vùng da vừa bị xước.
 
-“Tôi không chắc mình muốn anh đi khoe cái câu đó với mọi khách hàng đâu đấy,” Gary nói, và cả hai người cùng bật cười.
+“Tôi không chắc mình muốn anh đi khoe câu đó với mọi khách hàng đâu đấy,” Gary nói, và cả hai người cùng bật cười.
 
 “Thế thì cậu vẫn cứ lắm lời như xưa nhỉ,” Nick nói.
 
-<span class="caps">T</span><small>ƯƠNG TỰ</small> như suốt cả quãng đường lái xe về nhà, cảm giác như thể cô đang ngồi cạnh một Gary hoàn toàn khác.
+<hr class="scene-break"/>
 
-“Lạ lắm à em?” Gary hỏi. “Mặt anh trông giống mấy đứa vừa bị cạo râu trọc lốc lắm không?”
+<span class="caps">T</span><small>ƯƠNG TỰ</small> như suốt cả quãng đường lái xe về, cảm giác như thể cô đang ngồi cạnh một Gary hoàn toàn khác.
 
-“Mặt râu trọc lốc là thế nào?”
+“Lạ lắm à cô?” Gary hỏi. “Mặt tôi trông giống mấy người vừa bị cạo râu nhẵn thín lắm không?”
 
-“Giống như kiểu mặt đeo kính ấy. Khi em chỉ quen nhìn ai đó mang kính, rồi đột nhiên họ tháo ra, và ngay lập tức họ biến thành một con người khác.”
+“Mặt nhẵn thín là thế nào?”
 
-“Có lẽ thế,” cô đáp. “Em thấy giống cảnh ai đó mang chó đi tỉa lông rồi lúc đón về trông con cún cứ như vừa bị cướp sạch tài sản hơn.”
+“Giống như kiểu mặt đeo kính ấy. Khi cô chỉ quen nhìn ai đó mang kính, rồi đột nhiên họ tháo ra, và ngay lập tức họ biến thành một con người khác.”
 
-“Ồ, chà, cảm ơn em nhé. Một con chó vừa bị cướp. Đúng là cái hình tượng mà anh đang hướng tới đấy.”
+“Có lẽ thế,” cô đáp. “Tôi thấy giống cảnh ai đó mang chó đi tỉa lông rồi lúc đón về trông con cún cứ như vừa bị cướp sạch tài sản hơn.”
+
+“Ồ, chà, cảm ơn cô nhé. Một con chó vừa bị cướp. Đúng là cái hình tượng mà tôi đang hướng tới đấy.”
 
 Cả hai bật cười. Anh ngắm mình trong gương, xoa xoa cằm như thể vẫn chưa quen với diện mạo mới.
 
-“Anh thực sự có cảm giác mình vừa bị cướp sạch thật đấy,” anh nói.
+“Tôi thực sự có cảm giác mình vừa bị cướp sạch thật đấy,” anh nói.
 
-Có lẽ đây sẽ là thời điểm một trong hai người nối lại câu chuyện còn dang dở ở tiệm của Nick, nhưng Gary lại nói, “Chết tiệt, anh quên mất chưa rút tiền mặt để trả cho bên cung cấp dịch vụ rồi. Anh xin lỗi nhé. Lại thêm một việc nữa phát sinh.”
+Có lẽ đây sẽ là thời điểm một trong hai người nối lại câu chuyện còn dang dở ở tiệm của Nick, nhưng Gary lại nói: “Chết tiệt, tôi quên mất chưa rút tiền mặt để trả cho bên cung cấp dịch vụ rồi. Tôi xin lỗi nhé. Lại thêm một việc nữa phát sinh.”
 
 “Không vấn đề gì đâu anh,” Phoebe nói.
 
-<span class="caps">H</span><small>Ọ KHÔNG THỂ</small> rút đủ số tiền mặt cần thiết ở cây ATM đầu tiên, thế là họ lại lái xe sang một ngân hàng khác, và ở điểm giao dịch thứ hai này, Phoebe chỉ ngồi chờ trong xe. Cô nhìn theo bóng anh khuất dần vào tòa nhà, rồi đưa mắt quan sát những người qua lại trên đường. Cô thấy những gia đình đi nghỉ mát. Những vị khách không liên quan đến đám cưới đang thong thả ăn kem. Những ly latte pha bột collagen. Mọi người chỉ đang mua sắm và tận hưởng cuộc sống của mình. Những con người hoàn toàn không hề hay biết về sự tồn thật của Lila và Gary.
+<hr class="scene-break"/>
 
-Thật kỳ diệu khi nghĩ rằng chỉ mới tuần trước thôi, Phoebe cũng là một trong số những con người đó. Lúc ấy cô thật táo bạo biết bao, làm chính xác những gì mình muốn có lẽ là lần đầu tiên trong cuộc đời. Cô muốn tìm lại cảm giác đó, cảm giác cô từng trải qua trong thang máy, cảm giác trong bồn tắm, cảm giác kiêu hãnh đứng thẳng trong bộ đồ lót của mình, khi chẳng nợ Lila bất kỳ điều gì, khi không trung thành với ai ngoài chính bản thân cô. Bởi vì Phoebe biết rõ những điều mà Lila vẫn chưa thể hay biết: Chẳng có lý do gì để bạn phải đưa ra những quyết định mà mình không hề muốn khi mới bước sang tuổi hai, tám. Chẳng có lý do gì để cưới một người đàn ông có phần mai tóc điểm bạc nếu cô căm ghét cái vẻ ngoài đó. Chúng sẽ chỉ ngày càng bạc thêm mà thôi.
+<span class="caps">H</span><small>Ọ KHÔNG THỂ</small> rút đủ số tiền mặt cần thiết ở cây ATM đầu tiên, thế là họ lại lái xe sang một ngân hàng khác, và ở điểm giao dịch thứ hai này, Phoebe chỉ ngồi chờ trong xe. Cô nhìn theo bóng anh khuất dần vào tòa nhà, rồi đưa mắt quan sát những người qua lại trên đường. Cô thấy những gia đình đi nghỉ mát. Những vị khách không liên quan đến đám cưới đang thong thả ăn kem. Những ly latte pha bột collagen. Mọi người chỉ đang mua sắm và tận hưởng cuộc sống của mình. Những con người hoàn toàn không hề hay biết về sự tồn tại của Lila và Gary.
+
+Thật kỳ diệu khi nghĩ rằng chỉ mới tuần trước thôi, Phoebe cũng là một trong số những con người đó. Lúc ấy cô thật táo bạo biết bao, làm chính xác những gì mình muốn có lẽ là lần đầu tiên trong cuộc đời. Cô muốn tìm lại cảm giác đó, cảm giác cô từng trải qua trong thang máy, cảm giác trong bồn tắm, cảm giác kiêu hãnh đứng thẳng trong bộ đồ lót của mình, khi chẳng nợ Lila bất kỳ điều gì, khi không trung thành với ai ngoài chính bản thân cô. Bởi vì Phoebe biết rõ những điều mà Lila vẫn chưa thể hay biết: Chẳng có lý do gì để bạn phải đưa ra những quyết định mà mình không hề muốn khi mới bước sang tuổi hai mươi tám. Chẳng có lý do gì để cưới một người đàn ông có phần mai tóc điểm bạc nếu bạn căm ghét cái vẻ ngoài đó. Chúng sẽ chỉ ngày càng bạc thêm mà thôi.
 
 Đúng vậy, rồi Lila sẽ ổn thôi, cô thầm nghĩ.
 
 Nhưng rồi cô thấy Gary bước ra từ ngân hàng, cất xấp tiền vào ví, rồi đút ví vào túi quần, và khoảnh khắc ấy mang lại cho Phoebe một cảm giác vô cùng dứt khoát. Trông anh chẳng khác nào một chú rể thực thụ, cạo râu nhẵn nhụi, cẩn thận bỏ tiền vào ví để trả chi phí cho đám cưới của chính mình. Và Phoebe lại thấy mình giống như một phù dâu một lần nữa, với thùng rượu nặng trĩu ở băng ghế sau.
 
-Bây giờ cô phải trung thành với Lila. Trung thành với vở kịch hoành tráng mang tên đám cưới này - đó mới chính là sự thật.
+Bây giờ cô phải trung thành với Lila. Trung thành với vở kịch hoành tráng mang tên đám cưới này, đó mới chính là sự thật.
 
-Khi Gary bước lên xe, anh hỏi, “Chúng ta có nên nói tiếp chuyện hồi nãy không em?”
+Khi Gary bước lên xe, anh hỏi: “Chúng ta có nên nói tiếp chuyện hồi nãy không cô?”
 
-Nhưng Phoebe từ chối. “Thành thật mà nói, em nghĩ chẳng còn gì để nói nữa đâu.”
+Nhưng Phoebe từ chối. “Thành thật mà nói, tôi nghĩ chẳng còn gì để nói nữa đâu.”
 
 Phoebe cứ thế đạp ga lái xe đi.
 
+<hr class="scene-break"/>
+
 <span class="caps">K</span><small>HI BƯỚC VÀO</small> sảnh khách sạn, không gian nơi đây mang lại cảm giác vô cùng trống vắng. Giống như một sân khấu ngay trước giờ màn khai mạc diễn ra. Chắc hẳn ai nấy đều đang bận rộn hoàn tất những công đoạn cuối cùng trước buổi tổng duyệt, xúng xính khoác lên mình những bộ trang phục chuẩn bị sẵn.
 
-Gary và Phoebe giữ im lặng trong suốt chuyến thang máy, lặng lẽ bước đi dọc hành lang khi Gary cầm chiếc áo tuxedo còn Phoebe xách thùng rượu trên tay. Gary nói, “Em cầm hộ anh cái này một lát nhé?” rồi đưa chiếc áo cho cô trong lúc anh đang mở cửa phòng. Cảm giác ấy thật gần gũi biết bao, tựa như họ đang mở cửa bước vào tổ ấm của chính mình sau một ngày dài tất bật ngược xuôi.
+Gary và Phoebe giữ im lặng trong suốt chuyến thang máy, lặng lẽ bước đi dọc hành lang khi Gary cầm chiếc áo tuxedo còn Phoebe xách thùng rượu trên tay. Gary nói: “Cô cầm hộ tôi cái này một lát nhé?”, rồi đưa chiếc áo cho cô trong lúc anh mở cửa phòng. Cảm giác ấy thật gần gũi biết bao, tựa như họ đang mở cửa bước vào tổ ấm của chính mình sau một ngày dài tất bật ngược xuôi.
 
-Nhưng trước khi họ kịp bước vào trong, Lila từ phòng mình đi ra. Lila nhìn Gary rồi quay sang nhìn Phoebe. Một thoáng lóe lên sự nhận thức - Phoebe đoan chắc là cô đã nhìn thấy điều đó. Đoan chắc rằng Lila đã biết chuyện. Phụ nữ có trực giác rất nhạy bén với những chuyện này. Họ thừa sức nhận ra. Phố-bi cũng từng nhận ra. Phoebe đã nhận ra ngay khoảnh khắc cô chứng kiến chồng mình cười đùa vui vẻ bên Mia. Tình yêu là thứ có thể nhìn thấy được - nó tô điểm bầu không khí giữa hai con người bằng một sắc màu khác biệt, và ai nấy đều có thể nhận ra điều đó.
+Nhưng trước khi họ kịp bước vào trong, Lila từ phòng mình đi ra. Lila nhìn Gary rồi quay sang nhìn Phoebe. Một thoáng lóe lên sự nhận thức, Phoebe đoan chắc là cô đã nhìn thấy điều đó. Đoan chắc rằng Lila đã biết chuyện. Phụ nữ có trực giác rất nhạy bén với những chuyện này. Họ thừa sức nhận ra. Phoebe cũng từng nhận ra. Phoebe đã nhận ra ngay khoảnh khắc cô chứng kiến chồng mình cười đùa vui vẻ bên Mia. Tình yêu là thứ có thể nhìn thấy được, nó tô điểm bầu không khí giữa hai con người bằng một sắc màu khác biệt, và ai nấy đều có thể nhận ra điều đó.
 
-Nhưng tất cả những gì Lila nói chỉ là, "Gary, lạy Chúa, trông mặt anh khác quá!"
+Nhưng tất cả những gì Lila nói chỉ là: “Gary, lạy Chúa, trông mặt anh khác quá!”
 
-"Khác theo hướng tốt á?" Gary hỏi. "Hay khác theo hướng xấu?"
+“Khác theo hướng tốt á?” Gary hỏi. “Hay khác theo hướng xấu?”
 
 Khác theo hướng xấu, Phoebe nghĩ thầm. Anh giờ là chú rể cạo râu nhẵn nhụi sẵn sàng cho lễ cưới của mình. Một người đàn ông mà có lẽ cô sẽ chẳng bao giờ thực sự thấu hiểu. Đến lúc bộ râu mọc trở lại, họ sẽ lại trở thành những kẻ xa lạ.
 
-"Đương nhiên là khác theo hướng tốt rồi," Lila nói.
+“Đương nhiên là khác theo hướng tốt rồi,” Lila nói.
 
-Phoebe đặt chai rượu lên bàn. Nhìn qua khung cửa sổ, Phoebe thấy Carlson đang sắp xếp những chiếc ghế cho buổi tiệc tổng duyệt tối nay. Phoebe cảm thấy một làn sương mù tang tóc, một nỗi trầm uất bất chợt kéo đến như cơn giông buổi chiều. Cảm giác như thể nếu cô không chạy trốn ngay bây giờ, nó sẽ nuốt chửng cô sống tươi.
+Phoebe đặt thùng rượu lên bàn. Nhìn qua khung cửa sổ, Phoebe thấy Carlson đang sắp xếp những chiếc ghế cho buổi tiệc tổng duyệt tối nay. Phoebe cảm thấy một làn sương mù tang tóc, một nỗi trầm uất bất chợt kéo đến như cơn giông buổi chiều. Cảm giác như thể nếu cô không chạy trốn ngay bây giờ, nó sẽ nuốt chửng cô sống tươi.
 
-"Tôi phải đi chuẩn bị đây," Phoebe nói.
+“Tôi phải đi chuẩn bị đây,” Phoebe nói.
 
 Lila dành cho Phoebe một cái ôm thật chặt và ấm áp hệt như ngày đầu họ gặp nhau. Có lẽ Lila không hề hay biết. Có lẽ tất cả những gì Lila có thể cảm nhận lúc này là nỗi sợ hãi trước những điều cô không muốn, tất cả những chuyện tồi tệ đang vây quanh cô như một con trăn siết, ngày càng thắt chặt.
 
-"Hai việc nhé," Lila nói. "Chỉ có hai đứa mình lái xe đến lễ cưới vào ngày mai thôi đấy. Và cậu có thể đảm bảo mẹ tôi tối nay không uống quá chén không vậy? Nghe nói bà ấy bắt đầu nốc rượu từ lúc hai giờ rồi. Sao bà ấy lại cứ làm thế nhỉ?"
+“Hai việc nhé,” Lila nói. “Chỉ có hai đứa mình lái xe đến lễ cưới vào ngày mai thôi đấy. Và chị có thể đảm bảo mẹ em tối nay không uống quá chén không vậy? Nghe nói bà ấy bắt đầu nốc rượu từ lúc hai giờ rồi. Sao bà ấy lại cứ làm thế nhỉ?”
 
 Đó là một câu hỏi tu từ, nhưng Phoebe không sao kìm lại được.
 
-"Bà ấy không thể không uống vào buổi tối được," Phoebe nói. "Rồi em sẽ hiểu, khi em lớn hơn."
+“Bác ấy không thể không uống vào buổi tối được,” Phoebe nói. “Rồi em sẽ hiểu, khi em lớn hơn.”

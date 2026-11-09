@@ -104,6 +104,8 @@ Tauri thở dài. “Chà, biến chuyển chẳng tốt đẹp gì cho lắm, �
 
 “Phải đấy,” Seriv lên tiếng. “Tốt nhất hãy để bà ta nghỉ ngơi một chút rồi lại cho uống thuốc. Lần này, có lẽ nên để Kol ở đây tra hỏi xem sao? Tôi đoán tay nghề của cậu ấy nhẹ nhàng hơn đôi chút.”
 
+<hr class="scene-break"/>
+
 “Họ… đều đã chết hết rồi sao?” Madi Istelia thều thào hỏi tôi. “Toàn bộ bọn họ?”
 
 Tôi chăm chú quan sát khi bà ta tựa lưng vào một cọc Dây leo Fretvine bám muội than đen kịt. Các y sĩ đã sắc một thang thuốc, rót vào tách trà, và bà ta đang nhấp từng ngụm chậm rãi. Khung cảnh ấy phủ lên toàn bộ tai họa này một bầu không khí phi thực đến kỳ quái: một người phụ nữ nồng nặc mùi rượu, đong đầy hãi hùng, lại đang thong thả nhấp trà giữa đống tàn tích hoang tàn cháy rụi, như thể đang hiện diện trong một buổi tiệc trà ngoài sân vườn.
@@ -169,6 +171,8 @@ Tôi chậm rãi đưa lọ tinh dầu khai tâm lên hít nhẹ khi thực hi�
 “Bà biết về căn hầm đó? Cả mật mã mở khóa nữa sao?”
 
 Một nụ cười thoáng qua trên gương mặt bà. “Như tôi đã nói với các ngài, tôi hầu hạ gia tộc Burav từ đời thuở nào rồi. Ít nhất cũng đủ lâu để biết được một vài bí mật.” Bà đau đớn xoa mặt. “Trong này nóng đến mức tôi đã đinh ninh mình sẽ chết hoặc bốc cháy ngùn ngụt. Và có lẽ tôi… có lẽ tôi đáng ra nên chết đi thì hơn. Quá nhiều bí mật. Quá nhiều cái chết. Tôi tự hỏi, nếu như mình lên tiếng, liệu tôi có thể ngăn chặn được điều gì không? Hay rốt cuộc cũng chẳng có một ai thèm lắng nghe?”
+
+<hr class="scene-break"/>
 
 Hoàng hôn đang chầm chậm buông xuống trên vòm trời khi các y sĩ đưa Istelia rời đi. Ánh tà dương biến toàn bộ những cột trụ và xà nhà xiêu vẹo thành một mạng nhện bóng tối dưới chân tôi, còn những bức tường thép của căn hầm thì rực sáng lên dưới những vệt nắng cuối ngày, hắt ra những mảng phản quang đỏ thẫm khắp bốn bề xung quanh.
 
@@ -237,6 +241,8 @@ Tauri cựa quậy, vẻ mặt đầy bồn chồn. “Điềm tĩnh?”
 “Vậy ra cậu ta đã cố cứu cha mình,” Seriv nói, “nhưng đã quá muộn.”
 
 “Cậu ta đã khắc sâu mệnh lệnh của mình vào linh hồn người cha,” bà điềm nhiên đáp, “chẳng khác nào cách cha cậu ta từng khắc mệnh lệnh lên toàn bộ những sinh thể hầu cận của Đế quốc. Những mệnh lệnh đó không thể bị cưỡng lại. Burilis không thể kháng cự, và thế là bỏ mạng. Jalin, trong nỗi hoảng loạn và tuyệt vọng, đã gieo mình qua cửa sổ, thân thể bị bỏng rát và gần như tan nát. Cậu ta tỉnh dậy trong bồn hồi phục sinh học và nhận thức sắc bén rằng kẻ sát nhân *thứ hai* vẫn đang lảng vảng ngoài kia, vẫn ẩn mình, vẫn đăm đăm sát ý, và giờ đây kẻ đó đã có một lý do cực kỳ thỏa đáng để thủ tiêu Jalin.” Bà lật sang một trang khác. “Vì thế các cậu thấy đấy, các chàng trai… ta không nghĩ Jalin trốn vào rừng vì một mục đích thần thánh hay huyền bí nào đâu. Ta tin cậu ta làm vậy chỉ vì sợ hãi, vì bản năng sinh tồn thuần túy. Cậu ta là một kẻ sát nhân hành động do bồng bột. Thế nhưng, kẻ còn lại… lại là một sự tồn tại hoàn toàn khác biệt.”
+
+<hr class="scene-break"/>
 
 Tauri thở dài.
 

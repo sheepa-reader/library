@@ -160,6 +160,8 @@
 
 <p class="para-vi-sub">“Anh họ,” Musta phàn nàn. “Trời đất ơi, tệ thật đấy.”</p>
 
+<hr class="scene-break"/>
+
 <p class="para-en">*   *   *</p>
 
 <p class="para-vi-sub">✦  ✦  ✦</p>
@@ -323,4 +325,3 @@
 <p class="para-en">“To the hunt,” Cori and I said as one.</p>
 
 <p class="para-vi-sub">“Vì cuộc săn,” Cori và tôi đồng thanh vang lên.</p>
-

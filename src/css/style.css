@@ -1797,16 +1797,49 @@ button {
   text-align: center !important;
 }
 
-/* Scene break divider (• • •, ✦ ✦ ✦, * * *) */
-.reader-content .scene-break,
-.reader-content p.scene-break {
+/* Scene break divider (<hr class="scene-break"/>, • • •, ✦ ✦ ✦, * * *) */
+.reader-content hr,
+.reader-content hr.scene-break,
+.reader-content hr.split-symbol {
+  border: 0 !important;
+  border-top: none !important;
+  border-bottom: none !important;
   text-align: center !important;
-  letter-spacing: 0.45em;
+  margin: 2.5rem auto !important;
+  height: auto !important;
+  width: 100% !important;
+  clear: both;
+  background: transparent !important;
+  display: block !important;
+  overflow: visible !important;
+}
+
+.reader-content hr::before,
+.reader-content hr.scene-break::before,
+.reader-content hr.split-symbol::before {
+  content: "✦ ✦ ✦";
+  color: #C5A059;
+  letter-spacing: 0.55em;
+  font-size: 1.15rem;
+  display: block;
+  text-align: center !important;
+  margin: 0 auto !important;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.reader-content .scene-break,
+.reader-content p.scene-break,
+.reader-content .split-symbol,
+.reader-content p.split-symbol {
+  text-align: center !important;
+  letter-spacing: 0.55em;
   margin: 2.25rem auto !important;
   font-size: 1.15rem;
-  color: var(--text-muted);
+  color: #C5A059;
   user-select: none;
   font-weight: 600;
+  display: block;
 }
 
 /* Trang Lời đề tặng (Dedication / Epigraph) */
@@ -2680,6 +2713,10 @@ button {
   text-align: center !important;
   border: none !important;
   background: transparent !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
 }
 
 .bilingual-pair.scene-break .bilingual-block,

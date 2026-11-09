@@ -1,7 +1,5 @@
 # Lời cảm ơn
 
-<h1 class="bmh"><span class="esans_kurosawahand_medium_">LỜI CẢM ƠN</span></h1>
-
 Cuốn sách này sẽ không thể thành hình nếu không có các đại diện văn học của tôi, Molly Friedrich và Lucy Carson, những người đã soi đường chỉ lối qua từng giai đoạn phát triển của nó, đặc biệt là khi nó hãy còn chỉ là một bản đề xuất sơ khai. Xin gửi lời cảm ơn đến tất cả những ai đang làm việc tại (hoặc cùng với) Friedrich Agency, Dana Spector tại CAA, người đã biến những giấc mơ thành hiện thực theo đúng nghĩa đen; Marin Takikawa, người với đôi mắt biên tập sắc sảo đã cứu rỗi tôi vào phút chót; Hannah Brattesani, người đã giúp cuốn sách này vươn ra thế giới ở những quốc gia và ngôn ngữ khác; và
 
 Heather Carr, người luôn kiên nhẫn giải đáp mọi thắc mắc của tôi.

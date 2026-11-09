@@ -22,6 +22,8 @@ Tôi bước lại gần, ánh mắt đầy dè chừng hướng về phía chú
 
 “Cậu hiểu đúng rồi đấy. Nhưng tôi nhắc lại, có khi chúng ta chẳng bao giờ phải dùng tới mấy công cụ tàn nhẫn này đâu, trừ phi vị Học sĩ của cậu nhất quyết không chịu chỉ ra cách tìm thấy Jalin.”
 
+<hr class="scene-break"/>
+
 Khi chúng tôi tới căn hầm ngầm, Ana đã bày sẵn một thứ gì đó tựa như trận đồ cho cả đội: sáu cuộn da dê được lựa chọn tỉ mỉ, xếp thành một hàng ngay ngắn phía trước chỗ bà đang ngồi xếp bằng trên sàn nhà.
 
 “Ta đã ngồi chờ,” bà cất giọng cộc lốc, “suốt *mấy tiếng đồng hồ* rồi đấy.”
@@ -65,6 +67,8 @@ Tauri nhìn chằm chằm vào tấm bản đồ bà đã ghi chú, đôi mắt 
 “Xong rồi,” Tauri thở dài nói. “Tôi đã ghi nhớ bản đồ của bà, Dolabra. Tôi hy vọng tất cả đều là sự thật, hoặc ít nhất là đúng đắn tới mức mà những điển tịch cổ xưa có thể cung cấp. Chúng tôi sẽ khởi hành ngay lập tức.”
 
 “Xin cứ tự nhiên, thưa ngài,” Ana nói. “Tuy nhiên, tôi xin phép giữ Din ở lại đây thêm một chút nữa.”
+
+<hr class="scene-break"/>
 
 Tôi đứng trong căn phòng mái vòm, chờ đợi Ana đưa ra thêm một nghi vấn nghiêm trọng nào đó về Chỉ huy Tauri. Nhưng thay vào đó, bà lục tìm dưới tà váy, lấy ra một túi da nhỏ, mở ra rồi trút toàn bộ những thứ bên trong vào lòng bàn tay.
 
