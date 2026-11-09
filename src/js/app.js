@@ -373,7 +373,7 @@
 
   async function loadQuotes() {
     try {
-      const res = await fetch('data/quotes.json');
+      const res = await fetch('data/quotes.json?v=' + Date.now());
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
@@ -1526,13 +1526,14 @@
 
     let contentHtml = '<p>Đang tải nội dung chương...</p>';
     try {
-      const res = await fetch(chapterPath);
+      const cacheBustUrl = (url) => url + (url.includes('?') ? '&' : '?') + 'v=' + Date.now();
+      const res = await fetch(cacheBustUrl(chapterPath));
       if (res.ok) {
         const mdText = await res.text();
         contentHtml = parseMarkdown(mdText, chapter, book);
       } else {
         const fallbackTarget = rawChapterPath || chapter.path || chapter.file || '';
-        const fbRes = fallbackTarget ? await fetch(fallbackTarget) : { ok: false };
+        const fbRes = fallbackTarget ? await fetch(cacheBustUrl(fallbackTarget)) : { ok: false };
         if (fbRes.ok) {
           const mdText = await fbRes.text();
           contentHtml = parseMarkdown(mdText, chapter, book);
@@ -2223,7 +2224,7 @@
 
   async function loadLibrarySettings() {
     try {
-      const res = await fetch('data/settings.json');
+      const res = await fetch('data/settings.json?v=' + Date.now());
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data.downloadPasscodes) && data.downloadPasscodes.length > 0) {
