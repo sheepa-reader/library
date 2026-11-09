@@ -29,19 +29,19 @@
 
 <p class="regular">Anh nhớ lại rằng Tarrou đã nhét thứ gì đó vào túi áo mình trong lúc hỗn loạn. Sau một hồi sục sạo nhanh chóng, anh rút ra một tờ giấy viết thư được gấp lại thành một hình vuông nhỏ nhàu nhĩ. Anh mở ra và nhận ra nét chữ viết tay trang trọng của Tarrou, càng về cuối thư càng to dần và có vẻ vội vã hơn. Nội dung như sau:</p>
 
-<p class="blockquote-firstpara">Tom thân mến,</p>
+<p class="blockquote-firstpara"><em>Tom thân mến,</em></p>
 
-<p class="blockquote-indentedpara">Thứ lỗi cho sự kịch cợm này, nhưng tôi tiêu đời rồi. Đội Chuông Xanh của Cao ủy Pound đang đến tìm tôi, và tôi chắc chắn họ định tước đoạt bộ râu của tôi. Những món nợ của tôi, cả về kinh tế lẫn vũ trụ, cuối cùng đã đuổi kịp tôi. Cậu có thể nói rằng chúng đã tóm được gót chân tôi rồi. Quả là một câu chuyện đáng buồn.</p>
+<p class="blockquote-indentedpara"><em>Thứ lỗi cho sự kệch cỡm này, nhưng tôi tiêu đời rồi. Đội Chuông Xanh của Cao ủy Pound đang đến tìm tôi, và tôi chắc chắn họ định tước đoạt bộ râu của tôi. Những món nợ của tôi, cả về kinh tế lẫn vũ trụ, cuối cùng đã đuổi kịp tôi. Cậu có thể nói rằng chúng đã tóm được gót chân tôi rồi. Quả là một câu chuyện đáng buồn.</em></p>
 
-<p class="blockquote-indentedpara">Tôi đã thực sự cố gắng, anh bạn ạ, để về nhà. Đó là một câu chuyện dài hơn những gì tôi từng kể. Tôi nghĩ một kẻ cau có đầy u ám như cậu sẽ hiểu việc tỏ ra thẳng thắn về những câu chuyện buồn và những gót chân bị tóm khó khăn đến nhường nào.</p>
+<p class="blockquote-indentedpara"><em>Tôi đã thực sự cố gắng, anh bạn ạ, để về nhà. Đó là một câu chuyện dài hơn những gì tôi từng kể. Tôi nghĩ một kẻ cau có đầy u ám như cậu sẽ hiểu việc tỏ ra thẳng thắn về những câu chuyện buồn và những gót chân bị tóm khó khăn đến nhường nào.</em></p>
 
-<p class="blockquote-indentedpara">Ogier là một kẻ đáng tin cậy. Gã cực kỳ khó ưa, nhưng lại đáng tin. Hãy tin tưởng gã. Tôi nghĩ gã chưa bao giờ lệch khỏi con đường lương tâm của mình. Tôi đã từ bỏ con đường đó từ nhiều năm trước, và tôi đã sống hạnh phúc mãi về sau. Hạnh phúc, nghĩa là, cho đến khi một tên du khách điên khùng đẩy tôi vào thế phải hành động. (Tôi xin thú nhận với tất cả những ai vô tình đọc được bức thư này: Tôi chính là chủ mưu đằng sau âm mưu chống lại Cao ủy. Tom hoàn toàn vô tội; anh ta quá thiếu trí tưởng tượng để có thể bịa ra một âm mưu như vậy.)</p>
+<p class="blockquote-indentedpara"><em>Ogier là một kẻ đáng tin cậy. Gã cực kỳ khó ưa, nhưng lại đáng tin. Hãy tin tưởng gã. Tôi nghĩ gã chưa bao giờ lệch khỏi con đường lương tâm của mình. Tôi đã từ bỏ con đường đó từ nhiều năm trước, và tôi đã sống hạnh phúc mãi về sau. Hạnh phúc, nghĩa là, cho đến khi một tên du khách điên khùng đẩy tôi vào thế phải hành động. (Tôi xin thú nhận với tất cả những ai vô tình đọc được bức thư này: Tôi chính là chủ mưu đằng sau âm mưu chống lại Cao ủy. Tom hoàn toàn vô tội; anh ta quá thiếu trí tưởng tượng để có thể bịa ra một âm mưu như vậy.)</em></p>
 
-<p class="blockquote-indentedpara">Tom, với tư cách là một học giả xuất sắc của Tháp Babel, hãy tiếp tục bám theo vợ của anh. Chấp nhận con người hiện tại của mình còn dễ dàng hơn là hoài niệm về con người anh trước kia. Hãy đi tìm cô ấy.</p>
+<p class="blockquote-indentedpara"><em>Tom, với tư cách là một học giả xuất sắc của Tháp Babel, hãy tiếp tục bám theo vợ của anh. Chấp nhận con người hiện tại của mình còn dễ dàng hơn là hoài niệm về con người anh trước kia. Hãy đi tìm cô ấy.</em></p>
 
-<p class="ca">Với nỗi buồn vô tận,</p>
+<p class="ca"><em>Với nỗi buồn vô tận,</em></p>
 
-<p class="ca1">J. Tarrou</p>
+<p class="ca1"><em>J. Tarrou</em></p>
 
 <p class="regular">Chữ ký viết tràn ra tận mép trang giấy.</p>
 
