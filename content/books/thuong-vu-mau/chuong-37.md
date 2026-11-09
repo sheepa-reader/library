@@ -1,71 +1,35 @@
 # LỜI CẢM ƠN
 
-*Nội Dung Tác Phẩm*
-
 Khi nhen nhóm ý tưởng cho bộ truyện này, điều tôi hằng ấp ủ là đặt hai điều tra viên Ana và Din vào những vị thế cho phép họ phanh phui từng ngóc ngách cơ quan nội tạng của Đế quốc. Rốt cuộc thì những con người dị biệt ấy đã tạo dựng nên các kỳ tích sinh học bằng cách nào? Họ trang bị vũ khí, định hình luật pháp, thao túng tâm trí, và có lẽ quan trọng hơn cả: họ làm sao để tự nuôi sống chính mình?
-
-  
 
 Việc một đế chế kỳ ảo tự cung tự cấp lương thực ra sao thoạt nghe có vẻ như một chủ đề khô khan, tẻ nhạt; dẫu trên thực tế, đây lại chính là đòn bẩy định đoạt hưng vong của hầu hết mọi đế chế dọc theo chiều dài lịch sử nhân loại. Nhưng càng nghiền ngẫm về phương thức chúng ta đang tự nuôi sống đồng loại trong thế giới thực hôm nay, tôi càng bàng hoàng nhận ra sợi dây liên kết giữa chúng sâu sắc đến nhường nào.
 
-  
-
 Người phương Tây chúng tôi — nếu không muốn nói là toàn thể xã hội loài người — bấy lâu nay vẫn bám víu lấy một niềm tin thâm căn cố đế: nông trang đồng ruộng mới chính là trạng thái nguyên bản tự nhiên của con người. Dù tỷ lệ người trực tiếp làm nông ngày nay đã teo tóp đi nhiều so với quá khứ, đâu đó vẫn âm ỉ một định kiến rằng nếp sống hiện đại chỉ là sự tha hóa, một bước đi lạc khỏi tự nhiên; và rằng chúng ta nên quay về với nếp sống thuần hậu thuở xưa: tiếng gia súc gọi đàn, những đôi ủng Wellington lấm bùn, mùi đất nồng ngai ngái vừa lật xới, cùng tiếng gà gáy vẳng lại từ bờ dậu xa xăm.
-
-  
 
 Thế nhưng, chính bản chất của nông nghiệp lại là thứ phản tự nhiên đến rợn ngườị.
 
-  
-
 Mỗi một nông trang thực chất là một ốc đảo nhân tạo tách rời thực tại, nơi cây trồng và vật nuôi được bọc trong lồng kính để thoát khỏi mọi quy luật sinh sát khắc nghiệt của giới tự nhiên. Trong ốc đảo ấy, chúng được vỗ béo bằng lượng thức ăn, nước uống và hơi ấm dồi dào một cách bất thường; chúng được nhồi nhét thuốc men để chống chọi sâu bệnh một cách gượng ép; thậm chí ngay cả hình hài của giống loài cũng đã bị biến đổi tới tận gốc rễ. Nếu từng được tận mắt nhìn thấy bản vẽ phục dựng tổ tiên tiền sử của bắp ngô hay củ khoai tây ngày nay, hẳn bạn sẽ phải kinh ngạc tự hỏi: làm sao người xưa có thể tin rằng họ sẽ thuần hóa và gây giống được mùa màng từ những mẫu vật còi cọc đến nhường ấy?
-
-  
 
 Đồng ruộng chưa bao giờ là chốn dung dưỡng những giá trị cổ phong thuần khiết. Nói đúng hơn, chúng là những phòng thí nghiệm khổng lồ cho các cuộc biến đổi sinh học dị thường. Chúng ta khăng khăng tin vào điều ngược lại chỉ vì một lẽ đơn giản: nếu chịu mở mắt nhìn thẳng vào sự thật trần trụi đó, nỗi bất an sẽ bóp nghẹt chúng ta mỗi khi ngồi vào bàn ăn.
 
-  
-
 Bởi lẽ ngày nay, ẩn sau lớp vỏ bọc mộc mạc điền viên, hiếm có ngành công nghiệp nào phung phí và ngông cuồng như nông nghiệp. Thật điên rồ khi dốc cạn nguồn nước ngầm quý giá chỉ để tưới cho những cánh đồng cỏ linh lăng trên sa mạc cằn cỗi ở Arizona làm thức ăn cho bò — vậy mà chúng ta vẫn làm. Thật rồ dại khi san phẳng rừng già Amazon để trồng đậu tương nuôi gà và lợn — vậy mà chúng ta vẫn làm. Thật rùng mình khi nghĩ đến cảnh xác lợn con bị nghiền nát thành bột đạm để bón ngược lại cho chính lợn mẹ — vậy mà đó lại là quy trình chăn nuôi công nghiệp phổ biến. Chỉ riêng diện tích đất đai phục vụ cho việc nuôi nhốt gia súc và trồng trọt thức ăn chăn nuôi đã phình to tới mức hoang đường. Đã có bao nhiêu cuộc chiến tranh đẫm máu trong lịch sử nổ ra chỉ để tranh giành một mẩu vụn của diện tích ấy? Vùng Ruhr hay xứ Aquitaine lẫy lừng khi đặt lên bàn cân so sánh cũng chỉ như hạt cát chẳng thấm vào đâu. Gần một nửa tổng quỹ đất nông nghiệp của nước Mỹ được dành trọn cho ngành chăn nuôi bò thịt, đổi lại chỉ cung cấp vỏn vẹn 3% tổng lượng calo cho bữa ăn con người. Còn từ ngữ nào chuẩn xác hơn để gọi tên thực tế này ngoài hai chữ “điên rồ”?
-
-  
 
 Trước mỗi nghịch lý đó, những bộ óc kiệt xuất hoàn toàn có thể đưa ra hàng ngàn lý lẽ thuyết phục để biện minh cho quy trình. Nhưng bóc trần đến tận cùng, lý do duy nhất vẫn chỉ là: loài người thèm khát những phong vị ấy, và đòi hỏi cơn thèm ăn phải được thỏa mãn bằng mọi giá. Mọi phương thức công nghiệp tàn nhẫn kia đơn giản chỉ là con đường ngắn nhất, hiệu quả nhất để đáp ứng lòng tham đó.
 
-  
-
 Càng chiêm nghiệm, tôi càng thấy bức tranh sinh học trong thế giới của chúng ta quái đản đến chừng nào. Chúng ta đã nhào nặn và bẻ cong tự nhiên tài tình ra sao, suốt từ Thời Đồ Đá cho đến tận kỷ nguyên thông tin hôm nay. Tôi sớm nhận ra rằng: nếu cố ép nền nông nghiệp của Đế quốc Khanum mô phỏng rập khuôn theo những phương thức của đời thực, độc giả hẳn sẽ lắc đầu chê bai tác phẩm là ngớ ngẩn, phi lý và thiển cận. Họ sẽ không ngần ngại quẳng cuốn sách vào góc phòng và phán cho nó hai chữ “lố bịch”.
-
-  
 
 Thế nhưng, chính cái nhìn thiển cận ấy mới là điều khiến tôi trĩu nặng âu lo vào lúc này. Tôi chắp bút những dòng này vào đầu tháng Giêng năm 2026, khi dải đất phía Nam và miền Tây nước Mỹ vừa trải qua một mùa đông kỳ dị bậc nhất trong ký ức của những người đương thời. Ngay giữa lòng Texas, lại thêm một năm nữa tôi mặc quần cộc áo phông đi treo đèn Giáng sinh, vừa loay hoay gắn dây điện vừa gạt muỗi đốt bu quanh. Nhiệt độ nơi đây thậm chí chưa một lần chạm ngưỡng đóng băng, và vùng đất này lại vừa rơi vào một đợt đại hạn khốc liệt. Phần lớn rặng Rocky trơ trọi không một hạt tuyết, kéo dài mãi lên tận Wyoming. Nắng hạn gay gắt của mùa hè vốn dĩ luôn được xoa dịu nhờ dòng nước tuyết tan; nhưng năm nay, tương lai phía trước chỉ hiển hiện một màu xám xịt đầy bất an.
 
-  
-
 Một nỗi âu lo không tên dâng nghẹn, một linh cảm lạnh gáy rằng ở đâu đó, cỗ máy tự nhiên đã trật bánh hoàn toàn khỏi quỹ đạo vốn có.
-
-  
 
 Chúng ta đang sống trong một kỷ nguyên biến dị, và tương lai đón đợi chúng ta sẽ còn quái đản hơn nhiều. Dẫu khó lòng cân đong bằng những con số tuyệt đối, có lẽ một phần ba tương lai dị thường ấy bắt nguồn từ chính nền nông nghiệp: từ những cánh rừng bị triệt hạ, từ lượng phân bón hóa học khổng lồ, cho đến công sức và tài nguyên không tưởng đổ vào việc nuôi nấng những khối thịt sống phục vụ dạ dày. Chúng ta có thể phác thảo đủ mọi viễn cảnh giải pháp cho các nguyên nhân gây biến đổi khí hậu, nhưng trước bài toán nông nghiệp, chúng ta gần như đứng trơ trọi không lời đáp. Thế nhưng guồng quay ấy tất yếu sẽ phải thu hẹp lại. Một năm không có băng giá mới chỉ là hồi chuông cảnh báo, nhưng một năm cạn kiệt không lấy một giọt mưa rơi mới thực sự là thảm họa giáng xuống đầu — và giờ đây, viễn cảnh kinh hoàng ấy đang hiển hiện sát sườn.
 
-  
-
 Để thích ứng với kỷ nguyên biến dị do chính bàn tay con người nhào nặn nên, chúng ta buộc phải hình dung và tạo tác ra những thứ còn phản tự nhiên hơn gấp bội so với những gì từng tồn tại trong lịch sử, bao gồm cả cách thức tạo ra miếng ăn hàng ngày. Tôi ngờ rằng tương lai rồi sẽ biến chúng ta thành một phiên bản rất giống với Đế quốc Khanum: nơi con người phải dấn thân thử nghiệm những biến đổi sinh học vừa quái gở vừa rợn ngợp, dẫu xét cho cùng, chúng cũng chẳng thể dị hợm hơn những việc ta đang làm ngoài đời thực.
-
-  
 
 Liệu nhân loại có vượt qua được canh bạc này hay không, câu trả lời hãy còn bỏ ngỏ. Đó không phải là vấn đề về sự tinh ranh, bởi tôi thừa biết giống loài này mưu mẹo đến mức nào; mà đó là bài toán về lòng can đảm, đức nhẫn nại và sự sáng suốt. Ở phương diện ấy, tôi chẳng dám đặt nhiều niềm tin. Thói quen và định kiến vốn là những xiềng xích khó bẻ gãy nhất, ngay cả khi mảnh đất cưu mang ta đã kiệt cùng sức sống.
 
-  
-
 Nhưng tự nhiên đã điểm hồi chuông phán quyết. Tương lai sẽ là một chuỗi những tạo tác dị thường — dù chúng ta có cam lòng chấp nhận hay không.
 
-  
-
-  
-
 Như thường lệ, tôi xin gửi lời tri ân sâu sắc nhất tới Julian, biên tập viên của tôi, cùng Cameron, người đại diện mẫn cán. Cả hai đã phải kiên nhẫn chịu đựng một trong những cuộc gọi tồi tệ và kéo dài nhất sự nghiệp cầm bút của tôi trong quá trình nhào nặn cuốn sách này. Ngồi bàn bạc về các phương án biên tập là một chuyện, nhưng việc cùng nhau cay đắng thừa nhận rằng cách duy nhất để cứu vãn tác phẩm là vứt phăng toàn bộ bản thảo chết tiệt ấy đi để viết lại từ đầu lại là một câu chuyện hoàn toàn khác.
-
-  
 
 Và sau cùng, xin dành trọn lòng biết ơn tới người vợ yêu dấu, hậu phương vững chắc đã luôn chở che tôi bằng muôn vàn cách — kể cả việc kiên nhẫn nhắc tôi nhớ hôm nay là ngày mấy, và họa hoằn lắm là cả tháng nào, năm nào. Lời cảm ơn sau chót xin gửi đến quý độc giả, những người bạn đồng hành mà tôi luôn hy vọng sẽ tiếp tục kề vai sát cánh khi chúng ta dấn bước sâu hơn vào những vùng đất u tối cùng các tập tục kỳ dị của Đế quốc Khanum.

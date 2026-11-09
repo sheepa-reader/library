@@ -153,7 +153,7 @@
   }
 
   // Helper check if book has bilingual edition
-  const BILINGUAL_BOOK_IDS = ['bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
+  const BILINGUAL_BOOK_IDS = ['thuong-vu-mau', 'bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
   function checkBookHasBilingual(book) {
     if (!book) return false;
     return Boolean(

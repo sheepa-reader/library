@@ -685,7 +685,8 @@
     "description": "Nối tiếp những chấn động dữ dội sau các sự kiện của Chiếc Chén Hoen Ố và Mầm Mống Tha Hóa, tác phẩm tiếp tục theo chân cặp bài trùng điều tra viên kỳ lạ của Tòa nhà Bộ Tư Pháp: nữ thanh tra mù lập dị Ana Dolabra và trợ lý sở hữu trí nhớ khắc sâu Din. Lần này, bức màn bí mật dẫn họ dấn sâu vào tâm chấn của quyền lực đế chế, nơi ranh giới giữa ma thuật công nghệ sinh học và sự tha hóa chính trị bị đẩy lên mức đỉnh điểm. Một vụ án mạng mới với những dấu hiệu huyết thuật và sự biến đổi cơ thể dị thường đe dọa làm sụp đổ toàn bộ hệ thống phòng thủ trước thảm họa Thủy quái Leviathan. Đứng trước những kẻ thù giấu mặt sẵn sàng đem máu và sinh mạng ra làm món hàng trao đổi, Ana và Din buộc phải bước vào một ván cờ sinh tử khốc liệt hơn bao giờ hết.",
     "downloads": {
       "epub": "content/downloads/thuong-vu-mau.epub",
-      "pdf": ""
+      "pdf": "",
+      "bilingual": "content/downloads/thuong-vu-mau-song-ngu.epub"
     },
     "chapters": [
       {
@@ -925,7 +926,8 @@
     },
     "awards": [
       "Đề cử Series Trinh thám Kỳ ảo xuất sắc"
-    ]
+    ],
+    "hasBilingual": true
   },
   {
     "id": "mr-yay",
