@@ -680,16 +680,30 @@ button {
 }
 
 .card-title {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: 700;
   letter-spacing: -0.01em;
-  line-height: 1.35;
-  margin-bottom: 0.3rem;
+  line-height: 1.3;
+  margin-bottom: 0.15rem;
+}
+
+.card-original-title {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-style: italic;
+  line-height: 1.25;
+  margin-top: -0.05rem;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  letter-spacing: 0.01em;
 }
 
 .card-author {
-  font-size: 0.88rem;
+  font-size: 0.84rem;
   color: var(--text-secondary);
+  line-height: 1.25;
 }
 
 /* Goodreads Star Rating in Cards (Grid & List) */
@@ -942,25 +956,26 @@ button {
 }
 
 .card-title {
-  font-size: 1.2rem;
+  font-size: 1.15rem;
   font-weight: 700;
   letter-spacing: -0.01em;
-  margin-bottom: 0.2rem;
+  line-height: 1.3;
+  margin-bottom: 0.15rem;
 }
 
 .card-author {
-  font-size: 0.85rem;
+  font-size: 0.84rem;
   color: var(--text-secondary);
 }
 
 .card-desc {
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: 1.25rem;
+  line-height: 1.48;
+  margin-bottom: 1rem;
   flex: 1;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -1082,11 +1097,11 @@ button {
 }
 
 .books-grid.list-view .card-desc {
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   line-height: 1.45;
   margin-bottom: 0;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

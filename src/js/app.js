@@ -1136,6 +1136,9 @@
                   <div class="card-content-wrap">
                     <div class="card-meta">
                       <h3 class="card-title">${escapeHtml(book.title)}</h3>
+                      ${book.originalTitle && book.originalTitle.trim().toLowerCase() !== book.title.trim().toLowerCase() ? `
+                        <div class="card-original-title" title="${escapeHtml(book.originalTitle)}">${escapeHtml(book.originalTitle)}</div>
+                      ` : ''}
                       <div class="card-author">${escapeHtml(book.author)}</div>
                       ${renderGoodreadsRating(book.rating)}
                     </div>
@@ -1183,6 +1186,9 @@
                   `}
                   <div class="card-meta">
                     <h3 class="card-title">${escapeHtml(book.title)}</h3>
+                    ${book.originalTitle && book.originalTitle.trim().toLowerCase() !== book.title.trim().toLowerCase() ? `
+                      <div class="card-original-title" title="${escapeHtml(book.originalTitle)}">${escapeHtml(book.originalTitle)}</div>
+                    ` : ''}
                     <div class="card-author">${escapeHtml(book.author)}</div>
                     ${renderGoodreadsRating(book.rating)}
                   </div>
