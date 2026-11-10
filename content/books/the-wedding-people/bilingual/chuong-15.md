@@ -1,6 +1,4 @@
-<p class="para-en">*THURSDAY • The Bachelorette Party*</p>
-
-<p class="para-vi-sub">*Thứ Năm • Bữa Tiệc Độc Thân Của Nàng*</p>
+*Thứ Năm • Bữa Tiệc Độc Thân Của Nàng*
 
 # Chương 12
 

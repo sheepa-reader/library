@@ -1,6 +1,4 @@
-<p class="para-en">*MONDAY • The Wedding Brunch*</p>
-
-<p class="para-vi-sub">*Thứ Hai • Tiệc Cưới Buổi Trưa*</p>
+*Thứ Hai • Tiệc Cưới Buổi Trưa*
 
 # Chương 24
 

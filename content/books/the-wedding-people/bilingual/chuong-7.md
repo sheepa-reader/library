@@ -1,6 +1,4 @@
-<p class="para-en">*TUESDAY • The Opening Reception*</p>
-
-<p class="para-vi-sub">*Thứ Ba • Buổi Tiệc Chào Mừng*</p>
+*Thứ Ba • Buổi Tiệc Chào Mừng*
 
 # Chương 4
 

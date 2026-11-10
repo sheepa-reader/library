@@ -1,6 +1,4 @@
-<p class="para-en">*SUNDAY • The Wedding*</p>
-
-<p class="para-vi-sub">*Chủ Nhật • Đám Cưới*</p>
+*Chủ Nhật • Đám Cưới*
 
 # Chương 23
 

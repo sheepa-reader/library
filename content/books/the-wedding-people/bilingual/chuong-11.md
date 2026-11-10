@@ -1,6 +1,4 @@
-<p class="para-en">*WEDNESDAY • Sailing*</p>
-
-<p class="para-vi-sub">*Thứ Tư • Ra Khơi*</p>
+*Thứ Tư • Ra Khơi*
 
 # Chương 8
 

@@ -1,6 +1,4 @@
-<p class="para-en">*FRIDAY • The Blending of the Families*</p>
-
-<p class="para-vi-sub">*Thứ Sáu • Sự Hợp Nhất Của Hai Gia Đình*</p>
+*Thứ Sáu • Sự Hợp Nhất Của Hai Gia Đình*
 
 # Chương 17
 

@@ -1,6 +1,4 @@
-<p class="para-en">*SATURDAY • The Rehearsal Dinner*</p>
-
-<p class="para-vi-sub">*Thứ Bảy • Buổi Tiệc Tổng Duyệt*</p>
+*Thứ Bảy • Buổi Tiệc Tổng Duyệt*
 
 # Chương 18
 
