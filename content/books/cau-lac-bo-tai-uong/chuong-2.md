@@ -1,6 +1,4 @@
-*Phần 1*
-
-# Chương 2
+# Giới thiệu
 
 Chào mừng đến với
 

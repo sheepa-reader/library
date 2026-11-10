@@ -1,6 +1,4 @@
-*Phần 1*
-
-# Chương 2
+# Giới thiệu
 
 <p class="para-en">Welcome to</p>
 
