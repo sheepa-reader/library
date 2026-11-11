@@ -5805,6 +5805,339 @@
     "authorId": "josiah-bancroft"
   },
   {
+    "id": "canh-tay-nhan-su",
+    "title": "Cánh Tay Nhân Sư",
+    "originalTitle": "The Arm of the Sphinx",
+    "series": "Biên Niên Sử Tháp Babel",
+    "volume": "Tập 2",
+    "author": "Josiah Bancroft",
+    "authorId": "josiah-bancroft",
+    "translator": "Sheepa",
+    "year": 2026,
+    "category": "Khoa học viễn tưởng • Hành động • Phiêu lưu",
+    "tags": [
+      "Khoa học viễn tưởng",
+      "Hành động",
+      "Phiêu lưu"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/canh-tay-nhan-su/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Rời khỏi tầng Nhà Tắm đầy suy đồi trong sự bầm dập, cựu thầy giáo trường làng Thomas Senlin nay đã trở thành thuyền trưởng bất đắc dĩ của con tàu bay cướp biển Mây Đá. Cùng với thủy thủ đoàn chắp vá gồm những kẻ lưu đày và bất hảo, Senlin buộc phải dấn thân vào con đường không tặc nguy hiểm trên bầu trời Tháp Babel nhằm tìm kiếm nguồn tiếp tế và manh mối về người vợ mất tích Marya. Khi mọi hy vọng dần cạn kiệt trước sự truy lùng gắt gao của các thế lực tháp, họ chỉ còn một lựa chọn điên rồ duy nhất: diện kiến Nhân Sư – nhà sáng chế cơ khí nửa người nửa máy bí ẩn, kẻ thao túng các tầng tháp từ trong bóng tối. Nhưng để đổi lấy sự trợ giúp của Nhân Sư, Senlin phải chấp nhận một giao kèo chết người: thâm nhập vào một vòng tháp hoang tàn ngập tràn những cạm bẫy máy móc kinh hoàng.",
+    "downloads": {
+      "epub": "content/downloads/canh-tay-nhan-su.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/canh-tay-nhan-su-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Giới thiệu",
+        "part": "",
+        "path": "content/books/canh-tay-nhan-su/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương Một",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương Hai",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương Ba",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương Bốn",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương Năm",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Sáu",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương Bảy",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương Tám",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương Chín",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương Mười",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương Mười Một",
+        "part": "Phần I: Tàu Tầng Mây Đá",
+        "path": "content/books/canh-tay-nhan-su/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương Một",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương Hai",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương Ba",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương Bốn",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương Năm",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương Sáu",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương Bảy",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương Tám",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương Chín",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương Mười",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương Mười Một",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương Mười Hai",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương Mười Ba",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương Mười Bốn",
+        "part": "Phần II: Sở Thú Vàng",
+        "path": "content/books/canh-tay-nhan-su/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương Một",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương Hai",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương Ba",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương Bốn",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương Năm",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương Sáu",
+        "part": "Phần III: Thư Viện Vô Đáy",
+        "path": "content/books/canh-tay-nhan-su/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương Bảy",
+        "part": "Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas",
+        "path": "content/books/canh-tay-nhan-su/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương Tám",
+        "part": "Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas",
+        "path": "content/books/canh-tay-nhan-su/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương Chín",
+        "part": "Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas",
+        "path": "content/books/canh-tay-nhan-su/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương Mười",
+        "part": "Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas",
+        "path": "content/books/canh-tay-nhan-su/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương Mười Một",
+        "part": "Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas",
+        "path": "content/books/canh-tay-nhan-su/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương Mười Hai",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương Mười Ba",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương Mười Bốn",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương Mười Lăm",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương Mười Sáu",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương Mười Bảy",
+        "part": "Phần V: Cô Voleta Boreas và Iren",
+        "path": "content/books/canh-tay-nhan-su/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương Mười Tám",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương Mười Chín",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương Hai Mươi",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương Hai Mốt",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương Hai Mươi Hai",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Chương Hai Mươi Ba",
+        "part": "Phần VI: Senlin & Quản Thư Viên",
+        "path": "content/books/canh-tay-nhan-su/chuong-49.md"
+      }
+    ],
+    "publishedAt": "2026-11-11",
+    "rating": {
+      "score": 4.3,
+      "count": "28.4k"
+    },
+    "awards": [
+      "Đề cử Giải thưởng Goodreads Choice cho Tác phẩm Kỳ ảo xuất sắc nhất"
+    ],
+    "hasBilingual": true
+  },
+  {
     "id": "the-wedding-people",
     "title": "Những Kẻ Trong Hôn Lễ",
     "originalTitle": "The Wedding People",
@@ -5847,7 +6180,7 @@
       },
       {
         "id": "chuong-3",
-        "title": "Trích dẫn",
+        "title": "Lời đề từ",
         "part": "",
         "path": "content/books/the-wedding-people/chuong-3.md",
         "noDropcap": true
@@ -6032,7 +6365,7 @@
     "statusText": "Hoàn thành",
     "cover": "content/books/cau-lac-bo-tai-uong/cover.jpg",
     "icon": "public/icons/glyph_sheep_love_book.png",
-    "description": "Lấy bối cảnh Mississippi vào thập niên 1930 với những đạo luật ưu sinh hà khắc, Câu Lạc Bộ Tai Ương theo chân Birdie Calhoun và cô bé mồ côi mười một tuổi Meg trong cuộc chiến sinh tồn đầy can trường chống lại sự áp bức và định kiến xã hội. Khi chị gái Frances vướng vào những bí mật đen tối của gia đình quý tộc Tartt và dinh thự Idlewilde đối mặt nguy cơ sụp đổ, Birdie cùng những người phụ nữ kiên cường đã sát cánh bên nhau, mở ra một hành trình ly kỳ, nhân văn và đầy xúc động từ tác giả của kiệt tác The Help - Người Giúp Việc.",
+    "description": "Lấy bối cảnh Mississippi vào thập niên 1930 với những đạo luật ưu sinh hà khắc, Câu Lạc Bộ Tai Ương theo chân Birdie Calhoun và cô bé mồ côi mười một tuổi Meg trong cuộc chiến sinh tồn đầy can trường chống lại sự áp bức và định kiến xã hội. Khi chị gái Frances vướng vào những bí mật đen tối của gia đình quý tộc Tartt và dinh thự Idlewilde đối mặt nguy cơ sụp đổ, Birdie cùng những người phụ nữ kiên cường đã sát cánh bên nhau, mở ra một hành trình ly kỳ, nhân văn và đầy xúc động từ tác giả của kiệt tác *The Help - Người Giúp Việc*.",
     "hasBilingual": true,
     "downloads": {
       "epub": "content/downloads/cau-lac-bo-tai-uong.epub",
