@@ -2243,6 +2243,7 @@
   let downloadPasscodes = ['thesheepa', 'sheepa', 'sheepa2024', 'sheepa2025', 'sheepa2026'];
   let bookPasscodesMap = {};
   let libraryTelegramUrl = 'https://t.me/thesheepa';
+  let libraryFacebookUrl = 'https://www.facebook.com/apeehseht/';
 
   async function loadLibrarySettings() {
     try {
@@ -2260,6 +2261,9 @@
         }
         if (data.telegramUrl) {
           libraryTelegramUrl = data.telegramUrl;
+        }
+        if (data.facebookUrl) {
+          libraryFacebookUrl = data.facebookUrl;
         }
       }
     } catch (e) {
