@@ -25,6 +25,9 @@
   "downloadPasscodes": [
     "sheepa2026"
   ],
-  "bookPasscodes": {},
+  "bookPasscodes": {
+	 "canh-tay-nhan-su": "babel2",
+	 "senlin-vuot-thap": "babel1"
+  },
   "telegramUrl": "https://t.me/thesheepa"
 }
