@@ -3039,10 +3039,112 @@ modal.innerHTML = `
     }
   });
 
+  // --- FOOTER LIVE COMMUNITY & DAILY STATS COUNTER ---
+  function initFooterStats() {
+    const onlineEl = document.getElementById('stat-online-count');
+    const dailyEl = document.getElementById('stat-daily-count');
+    if (!onlineEl || !dailyEl) return;
+
+    // 1. ONLINE SIMULATION (Phương án 3: Mô phỏng sinh động theo khung giờ)
+    const getTargetOnlineRange = () => {
+      const h = new Date().getHours();
+      if (h >= 0 && h < 6) return [3, 7];      // Đêm khuya: 3 - 7 bạn
+      if (h >= 6 && h < 9) return [6, 12];     // Sáng sớm: 6 - 12 bạn
+      if (h >= 9 && h < 12) return [11, 20];   // Giờ làm việc: 11 - 20 bạn
+      if (h >= 12 && h < 14) return [15, 26];  // Nghỉ trưa: 15 - 26 bạn
+      if (h >= 14 && h < 18) return [12, 22];  // Chiều: 12 - 22 bạn
+      return [18, 34];                         // Tối & Đỉnh điểm đọc sách: 18 - 34 bạn
+    };
+
+    let currentOnline = (() => {
+      const saved = sessionStorage.getItem('sheepa_sim_online');
+      const savedTime = parseInt(sessionStorage.getItem('sheepa_sim_online_time') || '0', 10);
+      const now = Date.now();
+      if (saved && (now - savedTime < 15 * 60 * 1000)) {
+        return parseInt(saved, 10);
+      }
+      const [min, max] = getTargetOnlineRange();
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    })();
+
+    const updateOnlineDisplay = () => {
+      onlineEl.textContent = currentOnline.toLocaleString('vi-VN');
+      sessionStorage.setItem('sheepa_sim_online', currentOnline);
+      sessionStorage.setItem('sheepa_sim_online_time', Date.now());
+    };
+    updateOnlineDisplay();
+
+    // Biến thiên tự nhiên nhẹ nhàng mỗi 15-25 giây (dao động ±1 hoặc ±2)
+    const driftOnline = () => {
+      const [min, max] = getTargetOnlineRange();
+      const r = Math.random();
+      let delta = 0;
+      if (r < 0.35) delta = 1;
+      else if (r < 0.70) delta = -1;
+      else if (r < 0.85) delta = (currentOnline < (min + max) / 2) ? 2 : -2;
+
+      currentOnline = Math.max(min, Math.min(max, currentOnline + delta));
+      updateOnlineDisplay();
+
+      const nextDelay = 15000 + Math.floor(Math.random() * 12000);
+      setTimeout(driftOnline, nextDelay);
+    };
+    setTimeout(driftOnline, 18000);
+
+    // 2. DAILY VISITOR COUNTER (Phương án 2: Gọi Abacus Counter API + baseline)
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    const todayKey = `${year}-${month}-${day}`;
+    const storageKey = `sheepa_daily_visit_${todayKey}`;
+
+    // Ước lượng nền tối thiểu ấm áp cho ngày mới (để thư viện không bị số 1 lạnh lẽo)
+    const baselineVisits = 38 + Math.floor(now.getHours() * 5.2);
+
+    const applyDailyCount = (count) => {
+      const finalCount = Math.max(count, baselineVisits);
+      dailyEl.textContent = finalCount.toLocaleString('vi-VN');
+      localStorage.setItem(`sheepa_cache_daily_${todayKey}`, String(finalCount));
+    };
+
+    // Hiển thị ngay từ cache gần nhất nếu có để không bị giật UI
+    const cachedCount = parseInt(localStorage.getItem(`sheepa_cache_daily_${todayKey}`) || '0', 10);
+    if (cachedCount > 0) {
+      applyDailyCount(cachedCount);
+    } else {
+      dailyEl.textContent = baselineVisits.toLocaleString('vi-VN');
+    }
+
+    const hasCountedSession = sessionStorage.getItem(storageKey);
+    const apiEndpoint = hasCountedSession
+      ? `https://abacus.jasoncameron.dev/get/sheepa-library/daily_${todayKey}`
+      : `https://abacus.jasoncameron.dev/hit/sheepa-library/daily_${todayKey}`;
+
+    fetch(apiEndpoint)
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
+      .then(data => {
+        if (typeof data.value === 'number') {
+          sessionStorage.setItem(storageKey, 'true');
+          applyDailyCount(data.value);
+        }
+      })
+      .catch(err => {
+        console.warn('Daily stats API notice:', err.message);
+        if (!cachedCount) {
+          applyDailyCount(baselineVisits);
+        }
+      });
+  }
+
   async function init() {
     initTheme();
     initHeaderControls();
     initQuoteEvents();
+    initFooterStats();
     await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
