@@ -288,7 +288,8 @@
       "Chiến thắng giải Goodreads Choice Award 2024 — Kỳ ảo xuất sắc nhất",
       "Sách bán chạy nhất New York Times (Bestseller)"
     ],
-    "authorId": "robert-jackson-bennett"
+    "authorId": "robert-jackson-bennett",
+    "downloadCountstart": 151
   },
   {
     "id": "mam-mong-tha-hoa",
@@ -668,7 +669,8 @@
     "awards": [
       "Tác phẩm Kỳ ảo & Trinh thám được mong đợi nhất của năm"
     ],
-    "authorId": "robert-jackson-bennett"
+    "authorId": "robert-jackson-bennett",
+    "downloadCountstart": 195
   },
   {
     "id": "thuong-vu-mau",
@@ -930,7 +932,8 @@
       "Đề cử Series Trinh thám Kỳ ảo xuất sắc"
     ],
     "hasBilingual": true,
-    "authorId": "robert-jackson-bennett"
+    "authorId": "robert-jackson-bennett",
+    "downloadCountstart": 173
   },
   {
     "id": "mr-yay",
@@ -1445,7 +1448,8 @@
       "Sách Hài hước & Kỳ ảo được yêu thích trên Amazon"
     ],
     "hasBilingual": true,
-    "authorId": "emily-jane"
+    "authorId": "emily-jane",
+    "downloadCountstart": 184
   },
   {
     "id": "bay-cong-thuc-lam-nen-cach-mang",
@@ -1938,7 +1942,8 @@
       "Series Thực Đơn Sinh Tồn — Top sách Phiêu lưu Kỳ ảo thịnh hành"
     ],
     "hasBilingual": true,
-    "authorId": "ryan-rose"
+    "authorId": "ryan-rose",
+    "downloadCountstart": 137
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
@@ -2570,7 +2575,8 @@
       "Series Thực Đơn Sinh Tồn Tập 2 — Độc giả bình chọn xuất sắc"
     ],
     "hasBilingual": true,
-    "authorId": "ryan-rose"
+    "authorId": "ryan-rose",
+    "downloadCountstart": 225
   },
   {
     "id": "cua-anh-cua-em",
@@ -2977,7 +2983,8 @@
       "Bestseller New York Times & Sunday Times"
     ],
     "hasBilingual": true,
-    "authorId": "alice-feeney"
+    "authorId": "alice-feeney",
+    "downloadCountstart": 129
   },
   {
     "id": "vong-lap-ky-uc",
@@ -3294,7 +3301,8 @@
       "Chiến thắng Goodreads Choice Award — Khoa học Viễn tưởng xuất sắc nhất",
       "Sách hay nhất năm của Amazon, Time Magazine & NPR"
     ],
-    "authorId": "blake-crouch"
+    "authorId": "blake-crouch",
+    "downloadCountstart": 124
   },
   {
     "id": "vua-dau-thuong",
@@ -4385,7 +4393,8 @@
       "Đề cử Goodreads Choice Award - Hạng mục Kỳ Ảo"
     ],
     "hasBilingual": true,
-    "authorId": "joe-hill"
+    "authorId": "joe-hill",
+    "downloadCountstart": 115
   },
   {
     "id": "dom-lua-trong-bong-dem",
@@ -4752,7 +4761,8 @@
       "Đề cử Goodreads Choice Award ◈ Hạng mục Bí Ẩn & Giật Gân",
       "Đề cử Goodreads Choice Award cho tiểu thuyết đầu tay"
     ],
-    "authorId": "stacy-willingham"
+    "authorId": "stacy-willingham",
+    "downloadCountstart": 232
   },
   {
     "id": "nhin-ky-lai-di",
@@ -5460,7 +5470,8 @@
       "Đề cử giải thưởng RUSA CODE"
     ],
     "noDropcap": true,
-    "authorId": "david-ellis"
+    "authorId": "david-ellis",
+    "downloadCountstart": 257
   },
   {
     "id": "senlin-vuot-thap",
@@ -5802,7 +5813,8 @@
       "Đề cử Giải thưởng Goodreads Choice ở hạng mục Kỳ ảo"
     ],
     "hasBilingual": true,
-    "authorId": "josiah-bancroft"
+    "authorId": "josiah-bancroft",
+    "downloadCountstart": 242
   },
   {
     "id": "canh-tay-nhan-su",
@@ -6134,7 +6146,8 @@
     "awards": [
       "Đề cử Giải thưởng Goodreads Choice cho Tác phẩm Kỳ ảo xuất sắc nhất"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "downloadCountstart": 62
   },
   {
     "id": "the-wedding-people",
@@ -6343,7 +6356,8 @@
     "awards": [
       "Giải thưởng Goodreads Choice năm 2024 • Tiểu thuyết hư cấu"
     ],
-    "authorId": "alison-espach"
+    "authorId": "alison-espach",
+    "downloadCountstart": 250
   },
   {
     "id": "cau-lac-bo-tai-uong",
@@ -6684,6 +6698,7 @@
       "score": 4.25,
       "count": "89.4k"
     },
-    "authorId": "kathryn-stockett"
+    "authorId": "kathryn-stockett",
+    "downloadCountstart": 191
   }
 ]

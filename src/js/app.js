@@ -2593,23 +2593,25 @@ modal.innerHTML = `
       });
     }
 
-    // --- Strictly Real Download Counter Tracking (Option A: 100% Real from 0) ---
+    // --- Book Download Counter Tracking (Option B: downloadCountstart + Real Downloads) ---
     const dlCountEl = document.getElementById('modal-download-count');
     const dlBadgeEl = modal.querySelector('.modal-download-badge');
 
-    const getLocalCount = (bId) => {
+    const startCount = parseInt(book.downloadCountstart ?? book.downloadCountStart ?? 0, 10);
+    const getLocalRealCount = (bId) => {
       return parseInt(localStorage.getItem(`sheepa_real_dl_${bId}`) || '0', 10);
     };
 
-    let realCount = getLocalCount(book.id);
+    let realCount = getLocalRealCount(book.id);
+    let totalDownloadCount = startCount + realCount;
 
     const renderDlCount = (val) => {
       if (!dlCountEl) return;
       dlCountEl.textContent = val.toLocaleString('vi-VN');
     };
-    renderDlCount(realCount);
+    renderDlCount(totalDownloadCount);
 
-    // Sync from serverless hit counter
+    // Sync real hits from serverless hit counter
     const dlKey = `dl_${book.id}`;
     fetch(`https://abacus.jasoncameron.dev/get/sheepa-library/${dlKey}`)
       .then(res => res.ok ? res.json() : null)
@@ -2617,7 +2619,8 @@ modal.innerHTML = `
         if (data && typeof data.value === 'number') {
           realCount = Math.max(realCount, data.value);
           localStorage.setItem(`sheepa_real_dl_${book.id}`, String(realCount));
-          renderDlCount(realCount);
+          totalDownloadCount = startCount + realCount;
+          renderDlCount(totalDownloadCount);
         }
       })
       .catch(() => {});
@@ -2630,7 +2633,8 @@ modal.innerHTML = `
           sessionStorage.setItem(dlSessionKey, 'true');
           realCount += 1;
           localStorage.setItem(`sheepa_real_dl_${book.id}`, String(realCount));
-          renderDlCount(realCount);
+          totalDownloadCount = startCount + realCount;
+          renderDlCount(totalDownloadCount);
 
           if (dlBadgeEl) {
             dlBadgeEl.classList.add('count-bumped');
