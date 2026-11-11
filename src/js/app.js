@@ -2593,44 +2593,31 @@ modal.innerHTML = `
       });
     }
 
-    // --- Live Book Download Counter Tracking ---
+    // --- Strictly Real Download Counter Tracking (Option A: 100% Real from 0) ---
     const dlCountEl = document.getElementById('modal-download-count');
     const dlBadgeEl = modal.querySelector('.modal-download-badge');
 
-    const getBaseDownloads = (b) => {
-      let hash = 0;
-      const str = b.id || 'book';
-      for (let i = 0; i < str.length; i++) {
-        hash = ((hash << 5) - hash) + str.charCodeAt(i);
-        hash |= 0;
-      }
-      if (b.publishedAt === '2026-11-11' || b.id === 'canh-tay-nhan-su') {
-        return 48 + (Math.abs(hash) % 22);
-      }
-      return 115 + (Math.abs(hash) % 155);
+    const getLocalCount = (bId) => {
+      return parseInt(localStorage.getItem(`sheepa_real_dl_${bId}`) || '0', 10);
     };
 
-    const getLocalAdded = (bId) => {
-      return parseInt(localStorage.getItem(`sheepa_dl_added_${bId}`) || '0', 10);
-    };
-
-    const baseCount = getBaseDownloads(book);
-    let localCount = getLocalAdded(book.id);
-    let totalDl = baseCount + localCount;
+    let realCount = getLocalCount(book.id);
 
     const renderDlCount = (val) => {
-      if (dlCountEl) dlCountEl.textContent = val.toLocaleString('vi-VN');
+      if (!dlCountEl) return;
+      dlCountEl.textContent = val.toLocaleString('vi-VN');
     };
-    renderDlCount(totalDl);
+    renderDlCount(realCount);
 
-    // Optional remote sync
+    // Sync from serverless hit counter
     const dlKey = `dl_${book.id}`;
     fetch(`https://abacus.jasoncameron.dev/get/sheepa-library/${dlKey}`)
       .then(res => res.ok ? res.json() : null)
       .then(data => {
         if (data && typeof data.value === 'number') {
-          totalDl = baseCount + localCount + data.value;
-          renderDlCount(totalDl);
+          realCount = Math.max(realCount, data.value);
+          localStorage.setItem(`sheepa_real_dl_${book.id}`, String(realCount));
+          renderDlCount(realCount);
         }
       })
       .catch(() => {});
@@ -2638,13 +2625,12 @@ modal.innerHTML = `
     // Listen to actual download clicks
     modal.querySelectorAll('a[download]').forEach(link => {
       link.addEventListener('click', () => {
-        const dlSessionKey = `sheepa_dl_clicked_${book.id}`;
+        const dlSessionKey = `sheepa_dl_session_${book.id}`;
         if (!sessionStorage.getItem(dlSessionKey)) {
           sessionStorage.setItem(dlSessionKey, 'true');
-          localCount += 1;
-          localStorage.setItem(`sheepa_dl_added_${book.id}`, String(localCount));
-          totalDl += 1;
-          renderDlCount(totalDl);
+          realCount += 1;
+          localStorage.setItem(`sheepa_real_dl_${book.id}`, String(realCount));
+          renderDlCount(realCount);
 
           if (dlBadgeEl) {
             dlBadgeEl.classList.add('count-bumped');
