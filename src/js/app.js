@@ -8,6 +8,7 @@
 
   // --- STATE ---
   let booksData = [];
+  let authorsData = [];
   let currentBook = null;
   let currentChapter = null;
   let activeTagFilter = 'all';
@@ -899,6 +900,13 @@
       document.title = 'Sheepa Library — Tủ Sách Tự Dịch';
       renderLibraryView();
       trackPageView(hash, document.title);
+        } else if (hash.startsWith('#/author/')) {
+      const authorId = hash.replace('#/author/', '').split('?')[0];
+      if (!document.querySelector('.library-layout')) {
+        renderLibraryView();
+      }
+      window.sheepaOpenAuthor(authorId);
+      trackPageView(hash, 'Tác giả — Sheepa Library');
     } else if (hash.startsWith('#/book/')) {
       const bookId = hash.replace('#/book/', '').split('?')[0];
       renderBookDetailView(bookId);
@@ -1139,7 +1147,7 @@
                       ${book.originalTitle && book.originalTitle.trim().toLowerCase() !== book.title.trim().toLowerCase() ? `
                         <div class="card-original-title" title="${escapeHtml(book.originalTitle)}">${escapeHtml(book.originalTitle)}</div>
                       ` : ''}
-                      <div class="card-author">${escapeHtml(book.author)}</div>
+                      <div class="card-author"><span class="author-interactive" onclick="event.stopPropagation(); window.sheepaOpenAuthor('${escapeHtml(book.authorId || '')}', '${escapeHtml(book.author || '')}');" title="Xem hồ sơ tác giả ${escapeHtml(book.author)}">${escapeHtml(book.author)}</span></div>
                       ${renderGoodreadsRating(book.rating)}
                     </div>
 
@@ -1189,7 +1197,7 @@
                     ${book.originalTitle && book.originalTitle.trim().toLowerCase() !== book.title.trim().toLowerCase() ? `
                       <div class="card-original-title" title="${escapeHtml(book.originalTitle)}">${escapeHtml(book.originalTitle)}</div>
                     ` : ''}
-                    <div class="card-author">${escapeHtml(book.author)}</div>
+                    <div class="card-author"><span class="author-interactive" onclick="event.stopPropagation(); window.sheepaOpenAuthor('${escapeHtml(book.authorId || '')}', '${escapeHtml(book.author || '')}');" title="Xem hồ sơ tác giả ${escapeHtml(book.author)}">${escapeHtml(book.author)}</span></div>
                     ${renderGoodreadsRating(book.rating)}
                   </div>
                 </div>
@@ -1404,9 +1412,9 @@
             ` : ''}
 
             <div class="detail-specs-grid">
-              <div class="spec-item">
+              <div class="spec-item spec-item-author" onclick="window.sheepaOpenAuthor('${escapeHtml(book.authorId || '')}', '${escapeHtml(book.author || '')}');" style="cursor: pointer;" title="Xem hồ sơ tác giả ${escapeHtml(book.author)}">
                 <strong>Tác giả</strong>
-                <span>${escapeHtml(book.author)}</span>
+                <span class="author-interactive">${escapeHtml(book.author)} <svg class="inline-author-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg></span>
               </div>
               <div class="spec-item">
                 <strong>Người dịch</strong>
@@ -2624,11 +2632,209 @@ modal.innerHTML = `
   }
 
   // --- BOOTSTRAP ---
+  
+  // --- AUTHOR PROFILE MODAL & BOTTOM SHEET ENGINE ---
+  let activeAuthorSheet = null;
+
+  async function loadAuthors() {
+    try {
+      const res = await fetch('data/authors.json?v=' + Date.now());
+      if (!res.ok) throw new Error('Cannot load authors');
+      authorsData = await res.json();
+    } catch (e) {
+      console.warn('Lỗi tải authors.json:', e);
+      authorsData = [];
+    }
+  }
+
+  function renderAuthorModal(author, authorBooks) {
+    let existing = document.getElementById('author-modal-overlay');
+    if (existing) existing.remove();
+
+    const initials = author.name
+      .split(' ')
+      .map(w => w[0])
+      .filter(Boolean)
+      .slice(0, 2)
+      .join('')
+      .toUpperCase() || 'TG';
+
+    const overlay = document.createElement('div');
+    overlay.id = 'author-modal-overlay';
+    overlay.className = 'author-modal-overlay';
+
+    const booksHtml = authorBooks.length > 0 ? authorBooks.map(b => {
+      const firstChId = b.chapters && b.chapters[0] ? b.chapters[0].id : 'chuong-1';
+      return `
+        <div class="author-book-item" onclick="window.location.hash = '#/book/${b.id}'; window.sheepaCloseAuthor();">
+          <div class="author-book-cover-wrap">
+            <img src="${b.cover || 'public/icons/01_sheep_reading.png'}" alt="${escapeHtml(b.title)}" class="author-book-cover" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
+          </div>
+          <div class="author-book-info">
+            <h4 class="author-book-title">${escapeHtml(b.title)}</h4>
+            ${b.originalTitle && b.originalTitle !== b.title ? `<div class="author-book-orig-title">${escapeHtml(b.originalTitle)}</div>` : ''}
+            <div class="author-book-meta">
+              ${b.series ? `<span class="author-book-badge">${escapeHtml(b.series)}</span>` : ''}
+              ${b.category ? `<span class="author-book-category">${escapeHtml(b.category)}</span>` : ''}
+            </div>
+          </div>
+          <div class="author-book-actions" onclick="event.stopPropagation();">
+            <a href="#/read/${b.id}/${firstChId}" class="btn-author-read" onclick="window.sheepaCloseAuthor();">Đọc ngay</a>
+          </div>
+        </div>
+      `;
+    }).join('') : `
+      <div class="author-empty-books">Chưa có tác phẩm nào của tác giả này trong thư viện.</div>
+    `;
+
+    overlay.innerHTML = `
+      <div class="author-sheet-content">
+        <div class="author-sheet-handle"></div>
+        <div class="author-sheet-header">
+          <div class="author-avatar-box">
+            ${author.avatar ? `
+              <img src="${author.avatar}" alt="${escapeHtml(author.name)}" class="author-avatar-img" onerror="this.onerror=null; this.parentElement.innerHTML='<div class=\'author-avatar-initials\'>${initials}</div>';">
+            ` : `
+              <div class="author-avatar-initials">${initials}</div>
+            `}
+          </div>
+          <div class="author-header-info">
+            <div class="author-header-top">
+              <h3 class="author-name">${escapeHtml(author.name)}</h3>
+              <button class="author-close-btn" onclick="window.sheepaCloseAuthor();" aria-label="Đóng" title="Đóng">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+              </button>
+            </div>
+            <div class="author-meta-badges">
+              ${author.country ? `<span class="author-meta-badge">📍 ${escapeHtml(author.country)}</span>` : ''}
+              ${author.birthYear ? `<span class="author-meta-badge">🎂 Sinh năm ${escapeHtml(author.birthYear)}</span>` : ''}
+              ${Array.isArray(author.genres) ? author.genres.map(g => `<span class="author-meta-badge genre-badge">${escapeHtml(g)}</span>`).join('') : ''}
+            </div>
+          </div>
+        </div>
+
+        ${author.bio ? `
+          <div class="author-bio-box">
+            <p>${escapeHtml(author.bio)}</p>
+          </div>
+        ` : ''}
+
+        <div class="author-books-section">
+          <div class="author-books-header">
+            <h4>Tác phẩm trong thư viện</h4>
+            <span class="author-books-count">${authorBooks.length} cuốn sách</span>
+          </div>
+          <div class="author-books-list">
+            ${booksHtml}
+          </div>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    // Click outside to close
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) window.sheepaCloseAuthor();
+    });
+
+    // Touch gesture for mobile swipe down to close
+    const content = overlay.querySelector('.author-sheet-content');
+    let startY = 0;
+    let currentY = 0;
+    let isDragging = false;
+
+    if (content) {
+      content.addEventListener('touchstart', (e) => {
+        if (content.scrollTop === 0) {
+          startY = e.touches[0].clientY;
+          isDragging = true;
+        }
+      }, { passive: true });
+
+      content.addEventListener('touchmove', (e) => {
+        if (!isDragging) return;
+        currentY = e.touches[0].clientY;
+        const deltaY = currentY - startY;
+        if (deltaY > 0) {
+          content.style.transform = `translateY(${deltaY}px)`;
+        }
+      }, { passive: true });
+
+      content.addEventListener('touchend', () => {
+        if (!isDragging) return;
+        isDragging = false;
+        const deltaY = currentY - startY;
+        if (deltaY > 80) {
+          window.sheepaCloseAuthor();
+        } else {
+          content.style.transform = '';
+        }
+      });
+    }
+
+    // Escape key
+    const onKeyDown = (e) => {
+      if (e.key === 'Escape') {
+        window.sheepaCloseAuthor();
+        document.removeEventListener('keydown', onKeyDown);
+      }
+    };
+    document.addEventListener('keydown', onKeyDown);
+
+    // Animate in
+    requestAnimationFrame(() => {
+      overlay.classList.add('active');
+    });
+
+    activeAuthorSheet = overlay;
+  }
+
+  window.sheepaOpenAuthor = function(authorId, authorName) {
+    let author = authorsData.find(a => 
+      (authorId && a.id === authorId) || 
+      (a.name && a.name.toLowerCase() === (authorName || '').trim().toLowerCase())
+    );
+
+    if (!author && authorName) {
+      author = {
+        id: authorId || '',
+        name: authorName,
+        country: '',
+        birthYear: '',
+        genres: [],
+        bio: 'Tác giả có tác phẩm được chọn lọc và biên dịch trong tủ sách Sheepa Library.',
+        avatar: ''
+      };
+    }
+
+    if (!author) return;
+
+    const authorBooks = booksData.filter(b => 
+      (author.id && b.authorId === author.id) || 
+      (b.author && b.author.trim().toLowerCase() === author.name.trim().toLowerCase())
+    );
+
+    renderAuthorModal(author, authorBooks);
+  };
+
+  window.sheepaCloseAuthor = function() {
+    if (activeAuthorSheet) {
+      activeAuthorSheet.classList.remove('active');
+      setTimeout(() => {
+        if (activeAuthorSheet && activeAuthorSheet.parentNode) {
+          activeAuthorSheet.parentNode.removeChild(activeAuthorSheet);
+        }
+        activeAuthorSheet = null;
+      }, 250);
+    }
+  };
+
   async function init() {
     initTheme();
     initHeaderControls();
     initQuoteEvents();
-    await Promise.all([loadBooks(), loadQuotes(), loadLibrarySettings()]);
+    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
