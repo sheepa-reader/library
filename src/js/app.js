@@ -902,7 +902,7 @@
       trackPageView(hash, document.title);
         } else if (hash.startsWith('#/author/')) {
       const authorId = hash.replace('#/author/', '').split('?')[0];
-      if (!document.querySelector('.library-layout')) {
+      if (!document.querySelector('.library-hero')) {
         renderLibraryView();
       }
       window.sheepaOpenAuthor(authorId);
