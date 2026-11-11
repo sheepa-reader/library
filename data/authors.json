@@ -1,0 +1,145 @@
+[
+  {
+    "id": "robert-jackson-bennett",
+    "name": "Robert Jackson Bennett",
+    "country": "Hoa Kỳ",
+    "birthYear": "1984",
+    "genres": [
+      "Kỳ ảo",
+      "Trinh thám",
+      "Bí ẩn"
+    ],
+    "bio": "Nhà văn người Mỹ nổi tiếng với phong cách trinh thám kỳ ảo độc đáo và thế giới quan phức tạp. Ông từng hai lần đạt giải Shirley Jackson Award, giải Sydney J. Bounds Award và là tác giả của các bộ ba đình đám như Divine Cities, Founders Trilogy cùng loạt trinh thám sinh học kỳ ảo mở đầu bằng Chiếc Chén Hoen Ố (The Tainted Cup).",
+    "avatar": "public/authors/robert-jackson-bennett.jpg"
+  },
+  {
+    "id": "emily-jane",
+    "name": "Emily Jane",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Tâm lý",
+      "Hài hước",
+      "Đương đại"
+    ],
+    "bio": "Cây bút tài năng với phong cách dẫn dắt câu chuyện cuốn hút, dí dỏm nhưng không kém phần sâu sắc. Các tác phẩm của cô thường khai thác những khía cạnh hài hước và éo le trong các mối quan hệ gia đình và tâm lý xã hội thời hiện đại.",
+    "avatar": ""
+  },
+  {
+    "id": "ryan-rose",
+    "name": "Ryan Rose",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Lịch sử",
+      "Chính trị",
+      "Tâm lý"
+    ],
+    "bio": "Tác giả chuyên nghiên cứu và sáng tác về các chủ đề lịch sử, công thức sáng tạo và những khúc quanh kịch tính trong tâm lý con người với góc nhìn sắc bén, bất ngờ và đầy tính khai phóng.",
+    "avatar": ""
+  },
+  {
+    "id": "alice-feeney",
+    "name": "Alice Feeney",
+    "country": "Vương quốc Anh",
+    "birthYear": "",
+    "genres": [
+      "Giật gân",
+      "Bí ẩn",
+      "Tâm lý"
+    ],
+    "bio": "Cựu nhà báo kiêm nhà sản xuất tin tức BBC, hiện là cây bút trinh thám giật gân tâm lý hàng đầu thế giới với nhiều tác phẩm bán chạy trên New York Times. Bà nổi tiếng với biệt tài xây dựng những cú bẻ lái (plot twist) nghẹt thở và đào sâu vào góc tối nội tâm nhân vật.",
+    "avatar": ""
+  },
+  {
+    "id": "blake-crouch",
+    "name": "Blake Crouch",
+    "country": "Hoa Kỳ",
+    "birthYear": "1978",
+    "genres": [
+      "Khoa học viễn tưởng",
+      "Giật gân",
+      "Hành động"
+    ],
+    "bio": "Nhà văn khoa học viễn tưởng - giật gân lừng danh thế giới, người đứng sau các kiệt tác hiện đại như Recursion (Vòng Lặp Ký Ức), Dark Matter (Người Về Từ Hư Vô) và bộ ba Wayward Pines. Tác phẩm của ông luôn cuốn hút độc giả bằng nhịp độ dồn dập, các giả thuyết khoa học sắc bén và chiều sâu cảm xúc nhân văn.",
+    "avatar": "public/authors/blake-crouch.jpg"
+  },
+  {
+    "id": "joe-hill",
+    "name": "Joe Hill",
+    "country": "Hoa Kỳ",
+    "birthYear": "1972",
+    "genres": [
+      "Kinh dị",
+      "Kỳ ảo",
+      "Bí ẩn"
+    ],
+    "bio": "Nhà văn kinh dị và giả tưởng người Mỹ (con trai của bậc thầy kinh dị Stephen King), chủ nhân của nhiều giải thưởng Bram Stoker danh giá và World Fantasy Award. Ông nổi tiếng với phong cách xây dựng bầu không khí u ám, kịch tính nghẹt thở và thế giới siêu nhiên giàu sức nặng cảm xúc.",
+    "avatar": "public/authors/joe-hill.jpg"
+  },
+  {
+    "id": "stacy-willingham",
+    "name": "Stacy Willingham",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Giật gân",
+      "Bí ẩn",
+      "Tội phạm"
+    ],
+    "bio": "Tác giả giật gân tâm lý bán chạy toàn cầu của New York Times, từng làm phóng viên trước khi chuyển hẳn sang viết văn. Cuốn tiểu thuyết đầu tay Đốm Lửa Trong Bóng Đêm (A Flicker in the Dark) đã gây tiếng vang lớn trên toàn cầu và được nhiều hãng phim săn đón chuyển thể.",
+    "avatar": ""
+  },
+  {
+    "id": "david-ellis",
+    "name": "David Ellis",
+    "country": "Hoa Kỳ",
+    "birthYear": "1967",
+    "genres": [
+      "Trinh thám",
+      "Giật gân",
+      "Pháp lý"
+    ],
+    "bio": "Thẩm phán tòa phúc thẩm bang Illinois kiêm tác giả tiểu thuyết trinh thám pháp lý đoạt giải Edgar Award. Với chuyên môn luật pháp sắc bén và kinh nghiệm thực tế dày dạn, ông tạo nên những tác phẩm kịch tính, lôi cuốn và đầy những bí mật đánh lừa tâm lý độc giả.",
+    "avatar": ""
+  },
+  {
+    "id": "josiah-bancroft",
+    "name": "Josiah Bancroft",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Khoa học viễn tưởng",
+      "Kỳ ảo",
+      "Phiêu lưu"
+    ],
+    "bio": "Nhà văn người Mỹ được mệnh danh là một trong những giọng văn kỳ ảo độc đáo và giàu chất thơ nhất của thời đại mới. Series Biên Niên Sử Tháp Babel bắt đầu từ Senlin Vượt Tháp (Senlin Ascends) đã chinh phục hàng triệu độc giả trên toàn thế giới bằng trí tưởng tượng kỳ vĩ và bút pháp văn chương trác tuyệt.",
+    "avatar": ""
+  },
+  {
+    "id": "alison-espach",
+    "name": "Alison Espach",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Hài hước",
+      "Tâm lý",
+      "Lãng mạn"
+    ],
+    "bio": "Nữ nhà văn kiêm giảng viên đại học dạy viết sáng tạo, nổi tiếng với sự kết hợp bậc thầy giữa hài hước hóm hỉnh và cảm xúc lắng đọng. Tiểu thuyết Những Kẻ Trong Hôn Lễ (The Wedding People) là cuốn sách bán chạy nổi bật trên New York Times và được chọn vào câu lạc bộ sách danh giá của Jenna Bush Hager.",
+    "avatar": "public/authors/alison-espach.jpg"
+  },
+  {
+    "id": "kathryn-stockett",
+    "name": "Kathryn Stockett",
+    "country": "Hoa Kỳ",
+    "birthYear": "1969",
+    "genres": [
+      "Chính kịch",
+      "Lịch sử",
+      "Tâm lý"
+    ],
+    "bio": "Nhà văn Mỹ gốc Mississippi, tác giả của hiện tượng văn học toàn cầu The Help (Người Giúp Việc) đã bán ra hơn 10 triệu bản và chuyển thể thành bộ phim đoạt giải Oscar. Năm 2024, bà trở lại đầy ấn tượng với Câu Lạc Bộ Tai Ương (The Calamity Club), một tác phẩm đào sâu vào lịch sử, phong trào ưu sinh và sức mạnh kiên cường của những người phụ nữ yếu thế.",
+    "avatar": "public/authors/kathryn-stockett.jpg"
+  }
+]

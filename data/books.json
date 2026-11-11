@@ -287,7 +287,8 @@
     "awards": [
       "Chiến thắng giải Goodreads Choice Award 2024 — Kỳ ảo xuất sắc nhất",
       "Sách bán chạy nhất New York Times (Bestseller)"
-    ]
+    ],
+    "authorId": "robert-jackson-bennett"
   },
   {
     "id": "mam-mong-tha-hoa",
@@ -666,7 +667,8 @@
     },
     "awards": [
       "Tác phẩm Kỳ ảo & Trinh thám được mong đợi nhất của năm"
-    ]
+    ],
+    "authorId": "robert-jackson-bennett"
   },
   {
     "id": "thuong-vu-mau",
@@ -927,7 +929,8 @@
     "awards": [
       "Đề cử Series Trinh thám Kỳ ảo xuất sắc"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "robert-jackson-bennett"
   },
   {
     "id": "mr-yay",
@@ -1441,7 +1444,8 @@
     "awards": [
       "Sách Hài hước & Kỳ ảo được yêu thích trên Amazon"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "emily-jane"
   },
   {
     "id": "bay-cong-thuc-lam-nen-cach-mang",
@@ -1933,7 +1937,8 @@
     "awards": [
       "Series Thực Đơn Sinh Tồn — Top sách Phiêu lưu Kỳ ảo thịnh hành"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "ryan-rose"
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
@@ -2564,7 +2569,8 @@
     "awards": [
       "Series Thực Đơn Sinh Tồn Tập 2 — Độc giả bình chọn xuất sắc"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "ryan-rose"
   },
   {
     "id": "cua-anh-cua-em",
@@ -2970,7 +2976,8 @@
       "Đề cử Goodreads Choice Award — Thể loại Trinh thám & Giật gân",
       "Bestseller New York Times & Sunday Times"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "alice-feeney"
   },
   {
     "id": "vong-lap-ky-uc",
@@ -3286,7 +3293,8 @@
     "awards": [
       "Chiến thắng Goodreads Choice Award — Khoa học Viễn tưởng xuất sắc nhất",
       "Sách hay nhất năm của Amazon, Time Magazine & NPR"
-    ]
+    ],
+    "authorId": "blake-crouch"
   },
   {
     "id": "vua-dau-thuong",
@@ -4376,7 +4384,8 @@
     "awards": [
       "Đề cử Goodreads Choice Award - Hạng mục Kỳ Ảo"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "joe-hill"
   },
   {
     "id": "dom-lua-trong-bong-dem",
@@ -4742,7 +4751,8 @@
     "awards": [
       "Đề cử Goodreads Choice Award ◈ Hạng mục Bí Ẩn & Giật Gân",
       "Đề cử Goodreads Choice Award cho tiểu thuyết đầu tay"
-    ]
+    ],
+    "authorId": "stacy-willingham"
   },
   {
     "id": "nhin-ky-lai-di",
@@ -5449,7 +5459,8 @@
     "awards": [
       "Đề cử giải thưởng RUSA CODE"
     ],
-    "noDropcap": true
+    "noDropcap": true,
+    "authorId": "david-ellis"
   },
   {
     "id": "senlin-vuot-thap",
@@ -5790,7 +5801,8 @@
       "Giải thưởng Bookworm Best cho Tác phẩm đầu tay xuất sắc nhất",
       "Đề cử Giải thưởng Goodreads Choice ở hạng mục Kỳ ảo"
     ],
-    "hasBilingual": true
+    "hasBilingual": true,
+    "authorId": "josiah-bancroft"
   },
   {
     "id": "the-wedding-people",
@@ -5998,7 +6010,8 @@
     },
     "awards": [
       "Giải thưởng Goodreads Choice năm 2024 • Tiểu thuyết hư cấu"
-    ]
+    ],
+    "authorId": "alison-espach"
   },
   {
     "id": "cau-lac-bo-tai-uong",
@@ -6338,6 +6351,7 @@
     "rating": {
       "score": 4.25,
       "count": "89.4k"
-    }
+    },
+    "authorId": "kathryn-stockett"
   }
 ]
