@@ -1,0 +1,57 @@
+[
+  {
+    "id": "log-20261111-02",
+    "timestamp": "2026-11-11T13:55:00+07:00",
+    "bookId": "mam-mong-tha-hoa",
+    "bookTitle": "Mầm Mống Tha Hóa",
+    "type": "ebook_update",
+    "typeName": "Upload lại Ebook",
+    "badgeClass": "badge-ebook",
+    "title": "Cập nhật file EPUB tải về",
+    "description": "Upload lại file EPUB tải về sau khi hoàn thiện tinh chỉnh định dạng đóng gói chuẩn 3.0 và kiểm tra hiển thị."
+  },
+  {
+    "id": "log-20261111-01",
+    "timestamp": "2026-11-11T13:25:00+07:00",
+    "bookId": "canh-tay-nhan-su",
+    "bookTitle": "Cánh Tay Nhân Sư",
+    "type": "new_release",
+    "typeName": "Đăng tải sách mới",
+    "badgeClass": "badge-release",
+    "title": "Phát hành trọn bộ Cánh Tay Nhân Sư (Biên Niên Sử Tháp Babel - Tập 2)",
+    "description": "Đồng bộ hoàn chỉnh 48 chương truyện và phần giới thiệu từ bản dịch tiếng Việt biên tập sang bản song ngữ Anh - Việt (đối soát 100% khớp từng đoạn 1-to-1). Phát hành file EPUB song ngữ & đơn ngữ và bản đọc trực tuyến."
+  },
+  {
+    "id": "log-20261110-01",
+    "timestamp": "2026-11-10T15:30:00+07:00",
+    "bookId": "cau-lac-bo-tai-uong",
+    "bookTitle": "Câu Lạc Bộ Tai Ương",
+    "type": "chapter_update",
+    "typeName": "Cập nhật chương",
+    "badgeClass": "badge-chapter",
+    "title": "Chỉnh sửa Chương 2 thành 'Giới thiệu về viện mồ côi'",
+    "description": "Cập nhật lại tiêu đề Chương 2 theo bản dịch hiệu đính mới nhất, đồng bộ đối soát lại toàn bộ 51 chương bản song ngữ Anh - Việt và cập nhật lại file EPUB tải về."
+  },
+  {
+    "id": "log-20261109-01",
+    "timestamp": "2026-11-09T18:00:00+07:00",
+    "bookId": "senlin-vuot-thap",
+    "bookTitle": "Senlin: Vượt Tháp",
+    "type": "proofread",
+    "typeName": "Hiệu đính bản dịch",
+    "badgeClass": "badge-proofread",
+    "title": "Rà soát đối soát song ngữ và cập nhật file EPUB",
+    "description": "Hoàn thiện hệ thống đọc song ngữ đối soát từng đoạn văn, cập nhật bản EPUB song ngữ chất lượng cao."
+  },
+  {
+    "id": "log-20261108-01",
+    "timestamp": "2026-11-08T10:15:00+07:00",
+    "bookId": "chiec-chen-hoen-o",
+    "bookTitle": "Chiếc Chén Hoen Ố",
+    "type": "proofread",
+    "typeName": "Hiệu đính bản dịch",
+    "badgeClass": "badge-proofread",
+    "title": "Hiệu đính bản dịch và hoàn thiện hệ thống đọc song ngữ",
+    "description": "Kiểm tra toàn bộ thuật ngữ trinh thám kỳ ảo, đối soát các cặp đoạn song ngữ và cập nhật bản đọc trực tuyến."
+  }
+]

@@ -292,6 +292,13 @@
         }
       });
     }
+
+    const changelogBtn = document.getElementById('header-changelog-btn');
+    if (changelogBtn) {
+      changelogBtn.addEventListener('click', () => {
+        openChangelogModal();
+      });
+    }
   }
 
   function updateViewToggleUI() {
@@ -2830,11 +2837,213 @@ modal.innerHTML = `
     }
   };
 
+  /* ==========================================================================
+     CHANGELOG / NHẬT KÝ CẬP NHẬT (3 NGÀY GẦN NHẤT)
+     ========================================================================== */
+  let changelogData = [];
+  let changelogFilterMode = 'recent'; // 'recent' (3 days) or 'all'
+
+  async function loadChangelogData() {
+    try {
+      const res = await fetch('data/changelog.json');
+      if (res.ok) {
+        changelogData = await res.json();
+      }
+    } catch (err) {
+      console.warn('Không thể tải data/changelog.json:', err);
+      changelogData = [];
+    }
+    updateChangelogBadge();
+  }
+
+  function getRecentChangelogItems() {
+    const now = new Date();
+    const THREE_DAYS_MS = 3 * 24 * 60 * 60 * 1000;
+    return changelogData.filter(item => {
+      const itemTime = new Date(item.timestamp).getTime();
+      return (now.getTime() - itemTime) <= THREE_DAYS_MS;
+    });
+  }
+
+  function updateChangelogBadge() {
+    const badge = document.getElementById('header-changelog-badge');
+    if (!badge) return;
+    const recent = getRecentChangelogItems();
+    if (recent.length > 0) {
+      badge.textContent = recent.length > 9 ? '9+' : recent.length;
+      badge.style.display = 'flex';
+      badge.setAttribute('title', `Có ${recent.length} cập nhật trong 3 ngày qua`);
+    } else {
+      badge.style.display = 'none';
+    }
+  }
+
+  function formatChangelogTimestamp(isoStr) {
+    try {
+      const d = new Date(isoStr);
+      const now = new Date();
+      const isToday = d.toDateString() === now.toDateString();
+      const yesterday = new Date(now);
+      yesterday.setDate(yesterday.getDate() - 1);
+      const isYesterday = d.toDateString() === yesterday.toDateString();
+
+      const hours = String(d.getHours()).padStart(2, '0');
+      const mins = String(d.getMinutes()).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      const month = String(d.getMonth() + 1).padStart(2, '0');
+      const year = d.getFullYear();
+
+      if (isToday) {
+        return `Hôm nay lúc ${hours}:${mins}`;
+      } else if (isYesterday) {
+        return `Hôm qua lúc ${hours}:${mins}`;
+      } else {
+        return `${day}/${month}/${year} lúc ${hours}:${mins}`;
+      }
+    } catch (e) {
+      return isoStr;
+    }
+  }
+
+  function renderChangelogList(items) {
+    if (!items || items.length === 0) {
+      return `
+        <div class="changelog-empty">
+          <img src="public/icons/glyph_sheep_sleep.png" alt="Không có cập nhật" class="changelog-empty-icon" onerror="this.style.display='none'">
+          <p>Chưa có cập nhật nội dung sách nào trong 3 ngày qua.</p>
+        </div>
+      `;
+    }
+
+    return `
+      <div class="changelog-timeline">
+        ${items.map(item => `
+          <div class="changelog-item">
+            <span class="changelog-dot"></span>
+            <div class="changelog-item-meta">
+              <span class="changelog-time">${formatChangelogTimestamp(item.timestamp)}</span>
+              <span class="changelog-badge ${item.badgeClass || 'badge-chapter'}">${item.typeName || 'Cập nhật'}</span>
+              <a href="#/book/${encodeURIComponent(item.bookId)}" class="changelog-book-link" title="Xem chi tiết sách">
+                📖 ${escapeHtml(item.bookTitle)}
+              </a>
+            </div>
+            <div class="changelog-item-title">${escapeHtml(item.title)}</div>
+            <p class="changelog-item-desc">${escapeHtml(item.description)}</p>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  function openChangelogModal() {
+    let overlay = document.getElementById('changelog-modal-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.id = 'changelog-modal-overlay';
+      overlay.className = 'changelog-modal-overlay';
+      document.body.appendChild(overlay);
+
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) closeChangelogModal();
+      });
+    }
+
+    const recentItems = getRecentChangelogItems();
+    const allItems = changelogData;
+    const itemsToDisplay = changelogFilterMode === 'all' ? allItems : recentItems;
+
+    overlay.innerHTML = `
+      <div class="changelog-modal-content">
+        <div class="changelog-header">
+          <div class="changelog-title-group">
+            <img src="public/icons/glyph_11_sheep_pen_write.png" alt="Nhật ký" class="changelog-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
+            <div>
+              <h3 class="changelog-title">Nhật Ký Cập Nhật</h3>
+              <p class="changelog-subtitle">Chỉnh sửa nội dung & file ebook trong 3 ngày gần nhất</p>
+            </div>
+          </div>
+          <button id="btn-close-changelog" class="icon-btn" aria-label="Đóng" title="Đóng">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <div class="changelog-filter-bar">
+          <span style="color: var(--text-muted); font-size: 0.8rem;">Hiển thị:</span>
+          <div class="changelog-tabs">
+            <button class="changelog-tab-btn ${changelogFilterMode === 'recent' ? 'active' : ''}" id="tab-changelog-recent">
+              3 ngày gần nhất (${recentItems.length})
+            </button>
+            <button class="changelog-tab-btn ${changelogFilterMode === 'all' ? 'active' : ''}" id="tab-changelog-all">
+              Tất cả (${allItems.length})
+            </button>
+          </div>
+        </div>
+
+        <div class="changelog-body" id="changelog-body-list">
+          ${renderChangelogList(itemsToDisplay)}
+        </div>
+
+        <div class="changelog-footer">
+          <span class="changelog-footer-note">Ghi nhận các tinh chỉnh chương, bản dịch & file EPUB</span>
+          <button class="btn btn-primary" id="btn-ack-changelog" style="padding: 0.4rem 1rem; font-size: 0.85rem;">Đã hiểu</button>
+        </div>
+      </div>
+    `;
+
+    overlay.classList.add('active');
+
+    // Bind close events
+    const closeBtn = document.getElementById('btn-close-changelog');
+    if (closeBtn) closeBtn.addEventListener('click', closeChangelogModal);
+    const ackBtn = document.getElementById('btn-ack-changelog');
+    if (ackBtn) ackBtn.addEventListener('click', closeChangelogModal);
+
+    // Bind tab clicks
+    const tabRecent = document.getElementById('tab-changelog-recent');
+    const tabAll = document.getElementById('tab-changelog-all');
+    if (tabRecent) {
+      tabRecent.addEventListener('click', () => {
+        changelogFilterMode = 'recent';
+        openChangelogModal();
+      });
+    }
+    if (tabAll) {
+      tabAll.addEventListener('click', () => {
+        changelogFilterMode = 'all';
+        openChangelogModal();
+      });
+    }
+
+    // Bind click on book links to close modal
+    const bookLinks = overlay.querySelectorAll('.changelog-book-link');
+    bookLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        closeChangelogModal();
+      });
+    });
+  }
+
+  function closeChangelogModal() {
+    const overlay = document.getElementById('changelog-modal-overlay');
+    if (overlay) {
+      overlay.classList.remove('active');
+    }
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      closeChangelogModal();
+    }
+  });
+
   async function init() {
     initTheme();
     initHeaderControls();
     initQuoteEvents();
-    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings()]);
+    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
