@@ -1,5 +1,7 @@
 # Mở đầu
 
+<em>Birdie - Tháng Chín năm 1933</em>
+
 <span class="SANS_Helvetica_Neue_LT_Pro_35_Thin_11s">C</span>ánh cửa ở hiệu thuốc Downtown có gắn một chiếc chuông, chỉ vang lên một tiếng teng duy nhất khi tôi đẩy cửa bước vào. Oxford Pharmacy thì có tận hai chiếc chuông nên tiếng kêu sẽ là ta-teng, dẫu chẳng có gì đáng giật mình cho cam. Thế nhưng, cánh cửa của Gathright-Reed Drug Co. lại treo hẳn một dải chuông đồng dài tới cả thước trên tay nắm. Chỉ cần vặn nhẹ, những quả cầu kim loại sẽ xủng xoảng va vào nhau, thông báo có kẻ đang bén mảng bước vào cái tiệm khỉ gió này, tốt nhất là nên quay đầu lại xem đó là ai đi. Và nếu tôi làm vậy, tôi sẽ thấy chính mình.
 
 Tại quầy thanh toán bên phía tay phải, một người phụ nữ to béo đang mua thứ gì đó. Đó là bà Pripp, kẻ nhiều chuyện nhất trong số vô vàn bạn bè của cô em gái Frances. Mái tóc vàng cắt ngắn uốn cụp của bà ta chĩa lệch sang cả hai bên nhiều hơn là rủ xuống trong buổi sáng tháng Chín oi bức này. “Birdie, lâu lắm không thấy cô nhỉ,” bà ta lên tiếng. Bà ta đang trả tiền cho một đôi tất vải rayon mà tôi dám cá là cỡ ngoại cỡ.

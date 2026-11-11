@@ -1,5 +1,7 @@
 # Mở đầu
 
+<em>Birdie - Tháng Chín năm 1933</em>
+
 <p class="para-en">Downtown Drugstore had a bell on the door that made a single tink sound when you opened it. Oxford Pharmacy had two bells on its door so it was more of a ta-tink, though nothing to startle over. But the Gathright-Reed Drug Co. door bore a foot-long strip of brass sleigh bells on its knob, which, when turned, sent metal balls clanging to announce somebody’s coming in the dang store so you better turn around and look see who it is. And if you did, you’d see me.</p>
 
 <p class="para-vi-sub"><span class="SANS_Helvetica_Neue_LT_Pro_35_Thin_11s">C</span>ánh cửa ở hiệu thuốc Downtown có gắn một chiếc chuông, chỉ vang lên một tiếng teng duy nhất khi tôi đẩy cửa bước vào. Oxford Pharmacy thì có tận hai chiếc chuông nên tiếng kêu sẽ là ta-teng, dẫu chẳng có gì đáng giật mình cho cam. Thế nhưng, cánh cửa của Gathright-Reed Drug Co. lại treo hẳn một dải chuông đồng dài tới cả thước trên tay nắm. Chỉ cần vặn nhẹ, những quả cầu kim loại sẽ xủng xoảng va vào nhau, thông báo có kẻ đang bén mảng bước vào cái tiệm khỉ gió này, tốt nhất là nên quay đầu lại xem đó là ai đi. Và nếu tôi làm vậy, tôi sẽ thấy chính mình.</p>
