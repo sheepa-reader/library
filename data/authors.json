@@ -23,7 +23,7 @@
       "Đương đại"
     ],
     "bio": "Cây bút tài năng với phong cách dẫn dắt câu chuyện cuốn hút, dí dỏm nhưng không kém phần sâu sắc. Các tác phẩm của cô thường khai thác những khía cạnh hài hước và éo le trong các mối quan hệ gia đình và tâm lý xã hội thời hiện đại.",
-    "avatar": ""
+    "avatar": "public/authors/emily-jane.jpg"
   },
   {
     "id": "ryan-rose",
@@ -36,7 +36,7 @@
       "Tâm lý"
     ],
     "bio": "Tác giả chuyên nghiên cứu và sáng tác về các chủ đề lịch sử, công thức sáng tạo và những khúc quanh kịch tính trong tâm lý con người với góc nhìn sắc bén, bất ngờ và đầy tính khai phóng.",
-    "avatar": ""
+    "avatar": "public/authors/ryan-rose.jpg"
   },
   {
     "id": "alice-feeney",
@@ -49,7 +49,7 @@
       "Tâm lý"
     ],
     "bio": "Cựu nhà báo kiêm nhà sản xuất tin tức BBC, hiện là cây bút trinh thám giật gân tâm lý hàng đầu thế giới với nhiều tác phẩm bán chạy trên New York Times. Bà nổi tiếng với biệt tài xây dựng những cú bẻ lái (plot twist) nghẹt thở và đào sâu vào góc tối nội tâm nhân vật.",
-    "avatar": ""
+    "avatar": "public/authors/alice-feeney.jpg"
   },
   {
     "id": "blake-crouch",
@@ -88,7 +88,7 @@
       "Tội phạm"
     ],
     "bio": "Tác giả giật gân tâm lý bán chạy toàn cầu của New York Times, từng làm phóng viên trước khi chuyển hẳn sang viết văn. Cuốn tiểu thuyết đầu tay Đốm Lửa Trong Bóng Đêm (A Flicker in the Dark) đã gây tiếng vang lớn trên toàn cầu và được nhiều hãng phim săn đón chuyển thể.",
-    "avatar": ""
+    "avatar": "public/authors/stacy-willingham.jpg"
   },
   {
     "id": "david-ellis",
@@ -101,7 +101,7 @@
       "Pháp lý"
     ],
     "bio": "Thẩm phán tòa phúc thẩm bang Illinois kiêm tác giả tiểu thuyết trinh thám pháp lý đoạt giải Edgar Award. Với chuyên môn luật pháp sắc bén và kinh nghiệm thực tế dày dạn, ông tạo nên những tác phẩm kịch tính, lôi cuốn và đầy những bí mật đánh lừa tâm lý độc giả.",
-    "avatar": ""
+    "avatar": "public/authors/david-ellis.jpg"
   },
   {
     "id": "josiah-bancroft",
@@ -114,7 +114,7 @@
       "Phiêu lưu"
     ],
     "bio": "Nhà văn người Mỹ được mệnh danh là một trong những giọng văn kỳ ảo độc đáo và giàu chất thơ nhất của thời đại mới. Series Biên Niên Sử Tháp Babel bắt đầu từ Senlin Vượt Tháp (Senlin Ascends) đã chinh phục hàng triệu độc giả trên toàn thế giới bằng trí tưởng tượng kỳ vĩ và bút pháp văn chương trác tuyệt.",
-    "avatar": ""
+    "avatar": "public/authors/josiah-bancroft.jpg"
   },
   {
     "id": "alison-espach",
