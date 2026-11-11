@@ -1,10 +1,30 @@
 {
+  "_huong_dan": {
+    "mo_ta": "HƯỚNG DẪN ĐẶT MÃ MỞ KHÓA TẢI SÁCH (PASSCODE) CHO SHEEPA LIBRARY",
+    "cach_1_ma_chung_toan_thu_vien": {
+      "giai_thich": "Người đọc nhập mã này sẽ mở khóa tải được TẤT CẢ các cuốn sách trong thư viện.",
+      "cach_dung": "Thêm hoặc sửa các mã trong mảng 'downloadPasscodes' bên dưới (viết thường, không dấu).",
+      "vi_du": [
+        "sheepa2026",
+        "thesheepa"
+      ]
+    },
+    "cach_2_dat_ma_rieng_ngay_tai_file_nay (Khuyen dung)": {
+      "giai_thich": "Đặt mã riêng cho từng cuốn sách cụ thể ngay tại đây mà không cần sửa file books.json.",
+      "cach_dung": "Thêm vào mục 'bookPasscodes' bên dưới theo mẫu: \"id_cuốn_sách\": \"mã_khóa_riêng\". (Lấy id_cuốn_sách ở đường link xem sách, ví dụ '#/book/canh-tay-nhan-su' thì id là 'canh-tay-nhan-su').",
+      "vi_du": {
+        "canh-tay-nhan-su": "nhansu2026",
+        "ten-sach-khac": "matma123"
+      }
+    },
+    "cach_3_dat_ma_rieng_trong_file_books_json": {
+      "giai_thich": "Mở file 'data/books.json', tìm đến cuốn sách cần khóa và thêm dòng thuộc tính: \"downloadPasscode\": \"mã_khóa_riêng\",",
+      "vi_du": "\"downloadPasscode\": \"nhansu2026\""
+    }
+  },
   "downloadPasscodes": [
-    "thesheepa",
-    "sheepa",
-    "sheepa2024",
-    "sheepa2025",
     "sheepa2026"
   ],
+  "bookPasscodes": {},
   "telegramUrl": "https://t.me/thesheepa"
 }

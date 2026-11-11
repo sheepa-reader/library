@@ -2241,6 +2241,7 @@
 
   // --- DOWNLOAD PASSCODE CONFIGURATION ---
   let downloadPasscodes = ['thesheepa', 'sheepa', 'sheepa2024', 'sheepa2025', 'sheepa2026'];
+  let bookPasscodesMap = {};
   let libraryTelegramUrl = 'https://t.me/thesheepa';
 
   async function loadLibrarySettings() {
@@ -2250,6 +2251,12 @@
         const data = await res.json();
         if (Array.isArray(data.downloadPasscodes) && data.downloadPasscodes.length > 0) {
           downloadPasscodes = data.downloadPasscodes.map(c => String(c).trim().toLowerCase());
+        }
+        if (data.bookPasscodes && typeof data.bookPasscodes === 'object') {
+          bookPasscodesMap = {};
+          for (const [k, v] of Object.entries(data.bookPasscodes)) {
+            if (v) bookPasscodesMap[k.trim().toLowerCase()] = String(v).trim().toLowerCase();
+          }
         }
         if (data.telegramUrl) {
           libraryTelegramUrl = data.telegramUrl;
@@ -2503,11 +2510,16 @@ modal.innerHTML = `
           return;
         }
 
-        const bookCode = (book.downloadPasscode || '').trim().toLowerCase();
-        const isMatch = downloadPasscodes.includes(entered) || (bookCode && entered === bookCode);
+        const bookCode = (book.downloadPasscode || bookPasscodesMap[book.id] || '').trim().toLowerCase();
+        const isGlobalMatch = downloadPasscodes.includes(entered);
+        const isBookMatch = bookCode && entered === bookCode;
 
-        if (isMatch) {
+        if (isGlobalMatch) {
           localStorage.setItem('sheepa_download_unlocked', 'true');
+          // Refresh modal to unlocked state immediately
+          openDownloadModal(book);
+        } else if (isBookMatch) {
+          localStorage.setItem(`sheepa_unlocked_${book.id}`, 'true');
           // Refresh modal to unlocked state immediately
           openDownloadModal(book);
         } else {
@@ -2524,6 +2536,7 @@ modal.innerHTML = `
     if (relockBtn) {
       relockBtn.addEventListener('click', () => {
         localStorage.removeItem('sheepa_download_unlocked');
+        localStorage.removeItem(`sheepa_unlocked_${book.id}`);
         openDownloadModal(book);
       });
     }
