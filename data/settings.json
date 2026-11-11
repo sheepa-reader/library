@@ -27,7 +27,10 @@
   ],
   "bookPasscodes": {
 	 "canh-tay-nhan-su": "babel2",
-	 "senlin-vuot-thap": "babel1"
+	 "senlin-vuot-thap": "babel1",
+	 "the-wedding-people": "wedding",
+	 "vong-lap-ky-uc": "recursion",
+	 "nhin-ky-lai-di": "closer"
   },
   "telegramUrl": "https://t.me/thesheepa"
 }
