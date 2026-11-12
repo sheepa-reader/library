@@ -714,11 +714,12 @@
         return line;
       }
 
-      // Nhận diện Lời đề từ / Trích dẫn đầu chương (Epigraph, Attribution, Citation, Blockquote)
+      // Nhận diện Lời đề từ / Trích dẫn đầu chương (Epigraph, Attribution, Citation, Blockquote, Trích đoạn hồi ký)
       // Các đoạn này KHÔNG được tính là narrative và KHÔNG nhận Drop Cap
-      const isEpigraphBlock = /class=["'][^"']*\b(epigraph|attribution|citation|quote-source|epigraph-text|epigraph-wrapper)\b[^"']/i.test(line) ||
+      const isEpigraphBlock = /class=["'][^"']*\b(epigraph|attribution|citation|quote-source|epigraph-text|epigraph-wrapper|p0|h-name-1)\b[^"']/i.test(line) ||
                               /^<(blockquote|div)[^>]*class=["'][^"']*\bepigraph\b/i.test(line) ||
-                              /^<blockquote\b/i.test(line);
+                              /^<blockquote\b/i.test(line) ||
+                              /TRÍCH\s+ĐOẠN\s+TỪ/i.test(plainText);
       if (isEpigraphBlock) {
         return line;
       }

@@ -1,5 +1,366 @@
 [
   {
+    "id": "cau-chuyen-nay-co-the-cuu-mang-ban",
+    "title": "Câu Chuyện Này Có Thể Cứu Mạng Bạn",
+    "originalTitle": "This Story Might Save Your Life",
+    "series": "",
+    "volume": "",
+    "author": "Tiffany Crum",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Giật Gân • Lãng Mạn • Bí Ẩn",
+    "tags": [
+      "Giật Gân",
+      "Lãng Mạn",
+      "Bí Ẩn"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/cover.jpg",
+    "icon": "public/icons/11_sheep_magnifier.png",
+    "description": "Câu Chuyện Này Có Thể Cứu Mạng Bạn của tác giả Tiffany Crum là cuốn tiểu thuyết trinh thám tâm lý đầy kịch tính, xoay quanh Benny Abbott và Joy Moore – đôi bạn thân cùng dẫn một chương trình podcast sinh tồn nổi tiếng. Một buổi sáng, Benny đến phòng thu thì bàng hoàng phát hiện ngôi nhà trống rỗng, cửa kính vỡ vụn và Joy đã biến mất không dấu vết, chỉ để lại một bản thảo hồi ký dang dở. Nhanh chóng bị cảnh sát đưa vào tầm ngắm như nghi phạm số một, Benny buộc phải tự mình giải mã những manh mối ẩn giấu, vạch trần sự thật đằng sau những mối quan hệ tưởng chừng hoàn hảo và chạy đua với thời gian để cứu lấy người bạn thân cũng như chính bản thân mình.",
+    "hasBilingual": true,
+    "downloadCountstart": 220,
+    "downloads": {
+      "epub": "content/downloads/cau-chuyen-nay-co-the-cuu-mang-ban.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/cau-chuyen-nay-co-the-cuu-mang-ban-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương 1: Joy Moore • Ngày Bắt Đầu",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương 2: Benny Abbott • Ngày Đầu Tiên",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương 3: Joy Moore • Những Ngày Đầu",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 4: Benny Abbott • Ngày Đầu Tiên",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 5: Joy Moore • Mười Ba Năm Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 6: Benny Abbott • Ngày Đầu Tiên",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 7: Joy Moore • Mười năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 8: Benny Abbott • Ngày Đầu Tiên",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 9: Joy Moore • Mười Một Năm Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 10: Benny Abbott • Ngày Đầu Tiên",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 11: Joy Moore • Chín năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 12: Benny Abbott • Ngày Thứ Hai",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 13: Joy Moore • Tám năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 14: Benny Abbott • Ngày Thứ Hai",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 15: Joy Moore • Bảy năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 16: Benny Abbott • Ngày Thứ Hai",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 17: Joy Moore • Bốn năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 18: Benny Abbott • Ngày Thứ Hai",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 19: Joy Moore • Bốn năm trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 20: Benny Abbott • Ngày Thứ Hai",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 21: Joy Moore • Hai mươi tháng trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 22: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 23: Joy Moore • Mười Sáu Tháng Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 24: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 25: Joy Moore • Mười Hai Tháng Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 26: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 27: Joy Moore • Chín Tháng Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 28: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương 29: Joy Moore • Hai Tháng Trước",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 30: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN MỘT",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 31: Joy Moore • Ngày Thứ Ba",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 32: Benny Abbott • Ngày Thứ Ba",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 33: Joy Moore • Ngày Thứ Tư",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương 34: Benny Abbott • Ngày Thứ Tư",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương 35: Joy Moore • Ngày Thứ Năm",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương 36: Benny Abbott • Ngày Thứ Năm",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương 37: Joy Moore • Ngày Thứ Năm",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương 38: Benny Abbott • Ngày Thứ Năm",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương 39: Joy Moore • Ngày Thứ Sáu",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương 40: Benny Abbott • Ngày Thứ Sáu",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương 41: Joy Moore • Ngày Thứ Sáu",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương 42: Benny Abbott • Ngày Thứ Sáu",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương 43: Joy Moore • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương 44: Benny Abbott • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương 45: Joy Moore • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương 46: Benny Abbott • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương 47: Benny Abbott • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương 48: Joy Moore • Ngày Chủ Nhật",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Chương 49: Benny Abbott • Ngày Thứ Bảy",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "Chương 50: Joy Moore • Ngày Thứ Tám",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "Chương 51: Benny Abbott • Ngày Thứ Ba Trăm Tám Mươi Lăm",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "Chương 52: Joy Moore • Ngày Thứ Ba Trăm Tám Mươi Sáu",
+        "part": "PHẦN HAI",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "Lời Cảm Ơn",
+        "part": "",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-53.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-54",
+        "title": "Về Tác Giả",
+        "part": "",
+        "path": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/chuong-54.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-12",
+    "rating": {
+      "score": 3.86,
+      "count": "221.1k"
+    }
+  },
+  {
     "id": "chiec-chen-hoen-o",
     "title": "Chiếc Chén Hoen Ố",
     "originalTitle": "The Tainted Cup",
