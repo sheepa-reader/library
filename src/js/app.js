@@ -2313,6 +2313,7 @@
         }
         if (data.pollApiUrl) {
           libraryPollApiUrl = data.pollApiUrl;
+          fetchPollCandidates();
         }
       }
     } catch (e) {
@@ -3165,23 +3166,53 @@ modal.innerHTML = `
   }
 
   // --- BOOK TRANSLATION POLL & COMMUNITY WISHLIST MODAL ---
+  // --- BOOK TRANSLATION POLL & COMMUNITY WISHLIST MODAL ---
   let cachedPollCandidates = null;
-
-  async function openPollModal() {
-    let overlay = document.getElementById('poll-modal-overlay');
-    if (!overlay) {
-      overlay = document.createElement('div');
-      overlay.id = 'poll-modal-overlay';
-      overlay.className = 'modal-overlay';
-      document.body.appendChild(overlay);
-
-      overlay.addEventListener('click', (e) => {
-        if (e.target === overlay) closePollModal();
-      });
+  try {
+    const saved = localStorage.getItem('sheepa_cached_poll_candidates');
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        cachedPollCandidates = parsed;
+      }
     }
+  } catch (e) {}
 
-    // Default Fallback Candidates
-    const defaultCandidates = [
+  let isFetchingPollCandidates = false;
+
+  async function fetchPollCandidates() {
+    if (!libraryPollApiUrl || isFetchingPollCandidates) return;
+    isFetchingPollCandidates = true;
+    try {
+      const cacheBustUrl = libraryPollApiUrl + (libraryPollApiUrl.includes('?') ? '&' : '?') + 't=' + Date.now();
+      const res = await fetch(cacheBustUrl);
+      if (res.ok) {
+        const data = await res.json();
+        if (data && data.success && Array.isArray(data.books)) {
+          cachedPollCandidates = data.books;
+          try {
+            localStorage.setItem('sheepa_cached_poll_candidates', JSON.stringify(data.books));
+          } catch (e) {}
+          updatePollCandidateListUI();
+        }
+      }
+    } catch (e) {
+      // ignore
+    } finally {
+      isFetchingPollCandidates = false;
+    }
+  }
+
+  function getPollCandidates() {
+    if (cachedPollCandidates && cachedPollCandidates.length > 0) {
+      return cachedPollCandidates;
+    }
+    // Khi đã cấu hình pollApiUrl (Google Sheets), không dùng sách demo fallback để tránh giật giao diện
+    if (libraryPollApiUrl) {
+      return null;
+    }
+    // Chỉ dùng sách mẫu khi chưa cấu hình URL Google Sheets
+    return [
       {
         id: 'hod-king',
         title: 'The Hod King',
@@ -3204,193 +3235,233 @@ modal.innerHTML = `
         votes: 25
       }
     ];
+  }
 
-    let candidates = cachedPollCandidates || defaultCandidates;
+  function renderPollCandidateCards(candidates) {
+    if (!candidates) {
+      return `
+        <div class="poll-loading-box" style="text-align: center; padding: 2rem 1rem; color: var(--text-secondary);">
+          <img src="public/icons/glyph_01_sheep_reading.png" alt="Loading" class="inline-glyph-icon" style="width: 32px; height: 32px; margin-bottom: 0.5rem; display: inline-block;">
+          <div style="font-size: 0.85rem; font-weight: 500;">Đang đồng bộ danh sách bình chọn...</div>
+        </div>
+      `;
+    }
 
-    // Render Modal Structure
-    const renderModalContent = () => {
-      const totalVotes = candidates.reduce((sum, b) => sum + (b.votes || 0), 0) || 1;
+    if (candidates.length === 0) {
+      return `
+        <div class="poll-empty-box" style="text-align: center; padding: 1.5rem; color: var(--text-secondary); font-size: 0.88rem;">
+          Chưa có cuốn sách nào trong danh sách bình chọn đợt này. Bạn hãy đề xuất cuốn sách bạn yêu thích ở bên dưới nhé!
+        </div>
+      `;
+    }
 
-      overlay.innerHTML = `
-        <div class="modal-content poll-modal-content">
-          <div class="modal-header">
-            <div class="poll-header-title-group">
-              <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Sheepa Idea" class="poll-header-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
-              <div>
-                <h3 class="poll-main-title">Bình Chọn Sách Dịch Tiếp Theo</h3>
-                <p class="poll-header-desc">Hãy cùng Sheepa quyết định những tác phẩm hấp dẫn tiếp theo sẽ được lên sóng!</p>
-              </div>
+    const totalVotes = candidates.reduce((sum, b) => sum + (b.votes || 0), 0) || 1;
+
+    return candidates.map(b => {
+      const hasVoted = localStorage.getItem(`sheepa_voted_${b.id}`) === 'true';
+      const percent = Math.round(((b.votes || 0) / totalVotes) * 100);
+      return `
+        <div class="poll-candidate-card" data-candidate-id="${escapeHtml(b.id)}">
+          <div class="poll-candidate-top">
+            <div>
+              <div class="poll-candidate-title">${escapeHtml(b.title)}</div>
+              <div class="poll-candidate-author">Tác giả: ${escapeHtml(b.author || 'Đang cập nhật')}</div>
             </div>
-            <button class="icon-btn" id="btn-close-poll" aria-label="Đóng" title="Đóng" style="width: 32px; height: 32px;">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-                <line x1="18" y1="6" x2="6" y2="18"></line>
-                <line x1="6" y1="6" x2="18" y2="18"></line>
-              </svg>
+            <button class="poll-vote-btn ${hasVoted ? 'voted' : ''}" ${hasVoted ? 'disabled' : ''} data-vote-id="${escapeHtml(b.id)}">
+              ${hasVoted ? '<span class="poll-check-icon">✓</span> Đã vote' : '<img src="public/icons/glyph_sheep_love_book.png" alt="Vote" class="poll-btn-glyph" onerror="this.src=\'public/icons/01_sheep_reading.png\'"> Bình chọn'}
             </button>
           </div>
-
-          <!-- Section 1: Candidate List -->
-          <div class="poll-section-title">
-            <img src="public/icons/glyph_04_book_stack_horizontal.png" alt="Sách" class="poll-section-icon" onerror="this.src='public/icons/04_book_stack_horizontal.png'">
-            <span>Các Ứng Viên Đang Bình Chọn</span>
-          </div>
-
-          <div class="poll-candidate-list" id="poll-candidate-list">
-            ${candidates.map(b => {
-              const hasVoted = localStorage.getItem(`sheepa_voted_${b.id}`) === 'true';
-              const percent = Math.round(((b.votes || 0) / totalVotes) * 100);
-              return `
-                <div class="poll-candidate-card" data-candidate-id="${escapeHtml(b.id)}">
-                  <div class="poll-candidate-top">
-                    <div>
-                      <div class="poll-candidate-title">${escapeHtml(b.title)}</div>
-                      <div class="poll-candidate-author">Tác giả: ${escapeHtml(b.author || 'Đang cập nhật')}</div>
-                    </div>
-                    <button class="poll-vote-btn ${hasVoted ? 'voted' : ''}" ${hasVoted ? 'disabled' : ''} data-vote-id="${escapeHtml(b.id)}">
-                      ${hasVoted ? '<span class="poll-check-icon">✓</span> Đã vote' : '<img src="public/icons/glyph_sheep_love_book.png" alt="Vote" class="poll-btn-glyph" onerror="this.src=\'public/icons/01_sheep_reading.png\'"> Bình chọn'}
-                    </button>
-                  </div>
-                  ${b.desc ? `<div class="poll-candidate-desc">${escapeHtml(b.desc)}</div>` : ''}
-                  <div class="poll-candidate-progress-wrap">
-                    <div class="poll-progress-bar">
-                      <div class="poll-progress-fill" style="width: ${percent}%;"></div>
-                    </div>
-                    <span class="poll-votes-text">${(b.votes || 0).toLocaleString('vi-VN')} phiếu (${percent}%)</span>
-                  </div>
-                </div>
-              `;
-            }).join('')}
-          </div>
-
-          <!-- Section 2: Suggestion Form -->
-          <div class="poll-section-title" style="margin-top: 1.5rem;">
-            <img src="public/icons/glyph_book_magic_sparkles.png" alt="Đề xuất" class="poll-section-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
-            <span>Bạn Muốn Đề Xuất Cuốn Sách Khác?</span>
-          </div>
-
-          <div class="poll-suggest-box">
-            <form id="poll-suggest-form" onsubmit="return false;">
-              <div class="poll-form-group">
-                <label class="poll-form-label" for="poll-reader-name">Tên bạn (không bắt buộc):</label>
-                <input type="text" id="poll-reader-name" class="poll-form-input" placeholder="Ví dụ: Cừu Đọc Sách, Ẩn danh..." autocomplete="name">
-              </div>
-
-              <div class="poll-form-group">
-                <label class="poll-form-label" for="poll-book-title">Tên sách & Tác giả muốn đề xuất <span style="color: #ef4444;">*</span>:</label>
-                <input type="text" id="poll-book-title" class="poll-form-input" placeholder="Ví dụ: Project Hail Mary - Andy Weir" required>
-              </div>
-
-              <div class="poll-form-group">
-                <label class="poll-form-label" for="poll-note">Lời nhắn hoặc lý do đề xuất (tùy chọn):</label>
-                <textarea id="poll-note" class="poll-form-textarea" placeholder="Chia sẻ cảm nhận của bạn về cuốn sách này..."></textarea>
-              </div>
-
-              <button type="submit" id="btn-poll-submit" class="poll-submit-btn">
-                <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
-                <span>Gửi đề xuất cho Sheepa</span>
-              </button>
-              <div id="poll-form-msg" class="poll-msg" style="display: none;"></div>
-            </form>
+          ${b.desc ? `<div class="poll-candidate-desc">${escapeHtml(b.desc)}</div>` : ''}
+          <div class="poll-candidate-progress-wrap">
+            <div class="poll-progress-bar">
+              <div class="poll-progress-fill" style="width: ${percent}%;"></div>
+            </div>
+            <span class="poll-votes-text">${(b.votes || 0).toLocaleString('vi-VN')} phiếu (${percent}%)</span>
           </div>
         </div>
       `;
+    }).join('');
+  }
 
-      // Bind close button
-      const closeBtn = document.getElementById('btn-close-poll');
-      if (closeBtn) closeBtn.addEventListener('click', closePollModal);
+  function bindPollVoteButtons() {
+    const listEl = document.getElementById('poll-candidate-list');
+    if (!listEl) return;
 
-      // Bind Vote Buttons
-      overlay.querySelectorAll('.poll-vote-btn:not(:disabled)').forEach(btn => {
-        btn.addEventListener('click', () => {
-          const bookId = btn.getAttribute('data-vote-id');
-          if (!bookId) return;
+    listEl.querySelectorAll('.poll-vote-btn:not(:disabled)').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const bookId = btn.getAttribute('data-vote-id');
+        if (!bookId) return;
 
-          localStorage.setItem(`sheepa_voted_${bookId}`, 'true');
+        localStorage.setItem(`sheepa_voted_${bookId}`, 'true');
 
+        const candidates = getPollCandidates();
+        if (candidates) {
           const target = candidates.find(c => c.id === bookId);
           if (target) {
             target.votes = (target.votes || 0) + 1;
+            try {
+              localStorage.setItem('sheepa_cached_poll_candidates', JSON.stringify(candidates));
+            } catch (e) {}
           }
+        }
 
-          renderModalContent();
+        updatePollCandidateListUI();
 
+        if (libraryPollApiUrl) {
+          fetch(libraryPollApiUrl, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: 'vote', bookId: bookId })
+          }).catch(() => {});
+        }
+      });
+    });
+  }
+
+  function updatePollCandidateListUI() {
+    const listEl = document.getElementById('poll-candidate-list');
+    if (!listEl) return;
+    const candidates = getPollCandidates();
+    listEl.innerHTML = renderPollCandidateCards(candidates);
+    bindPollVoteButtons();
+  }
+
+  async function openPollModal() {
+    let overlay = document.getElementById('poll-modal-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.id = 'poll-modal-overlay';
+      overlay.className = 'modal-overlay';
+      document.body.appendChild(overlay);
+
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) closePollModal();
+      });
+    }
+
+    const candidates = getPollCandidates();
+
+    overlay.innerHTML = `
+      <div class="modal-content poll-modal-content">
+        <div class="modal-header">
+          <div class="poll-header-title-group">
+            <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Sheepa Idea" class="poll-header-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
+            <div>
+              <h3 class="poll-main-title">Bình Chọn Sách Dịch Tiếp Theo</h3>
+              <p class="poll-header-desc">Hãy cùng Sheepa quyết định những tác phẩm hấp dẫn tiếp theo sẽ được lên sóng!</p>
+            </div>
+          </div>
+          <button class="icon-btn" id="btn-close-poll" aria-label="Đóng" title="Đóng" style="width: 32px; height: 32px;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Section 1: Candidate List -->
+        <div class="poll-section-title">
+          <img src="public/icons/glyph_04_book_stack_horizontal.png" alt="Sách" class="poll-section-icon" onerror="this.src='public/icons/04_book_stack_horizontal.png'">
+          <span>Các Ứng Viên Đang Bình Chọn</span>
+        </div>
+
+        <div class="poll-candidate-list" id="poll-candidate-list">
+          ${renderPollCandidateCards(candidates)}
+        </div>
+
+        <!-- Section 2: Suggestion Form -->
+        <div class="poll-section-title" style="margin-top: 1.5rem;">
+          <img src="public/icons/glyph_book_magic_sparkles.png" alt="Đề xuất" class="poll-section-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
+          <span>Bạn Muốn Đề Xuất Cuốn Sách Khác?</span>
+        </div>
+
+        <div class="poll-suggest-box">
+          <form id="poll-suggest-form" onsubmit="return false;">
+            <div class="poll-form-group">
+              <label class="poll-form-label" for="poll-reader-name">Tên bạn (không bắt buộc):</label>
+              <input type="text" id="poll-reader-name" class="poll-form-input" placeholder="Ví dụ: Cừu Đọc Sách, Ẩn danh..." autocomplete="name">
+            </div>
+
+            <div class="poll-form-group">
+              <label class="poll-form-label" for="poll-book-title">Tên sách & Tác giả muốn đề xuất <span style="color: #ef4444;">*</span>:</label>
+              <input type="text" id="poll-book-title" class="poll-form-input" placeholder="Ví dụ: Project Hail Mary - Andy Weir" required>
+            </div>
+
+            <div class="poll-form-group">
+              <label class="poll-form-label" for="poll-note">Lời nhắn hoặc lý do đề xuất (tùy chọn):</label>
+              <textarea id="poll-note" class="poll-form-textarea" placeholder="Chia sẻ cảm nhận của bạn về cuốn sách này..."></textarea>
+            </div>
+
+            <button type="submit" id="btn-poll-submit" class="poll-submit-btn">
+              <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
+              <span>Gửi đề xuất cho Sheepa</span>
+            </button>
+            <div id="poll-form-msg" class="poll-msg" style="display: none;"></div>
+          </form>
+        </div>
+      </div>
+    `;
+
+    // Bind close button
+    const closeBtn = document.getElementById('btn-close-poll');
+    if (closeBtn) closeBtn.addEventListener('click', closePollModal);
+
+    // Bind Vote Buttons
+    bindPollVoteButtons();
+
+    // Bind Suggest Form Submit
+    const suggestForm = document.getElementById('poll-suggest-form');
+    const submitBtn = document.getElementById('btn-poll-submit');
+    const msgEl = document.getElementById('poll-form-msg');
+
+    if (suggestForm) {
+      suggestForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const readerName = (document.getElementById('poll-reader-name')?.value || '').trim() || 'Bạn đọc ẩn danh';
+        const bookTitle = (document.getElementById('poll-book-title')?.value || '').trim();
+        const note = (document.getElementById('poll-note')?.value || '').trim();
+
+        if (!bookTitle) {
+          if (msgEl) {
+            msgEl.className = 'poll-msg error';
+            msgEl.textContent = 'Vui lòng nhập tên cuốn sách bạn muốn đề xuất nhé!';
+            msgEl.style.display = 'block';
+          }
+          return;
+        }
+
+        if (submitBtn) {
+          submitBtn.disabled = true;
+          submitBtn.innerHTML = '<span>Đang gửi đề xuất...</span>';
+        }
+
+        try {
           if (libraryPollApiUrl) {
-            fetch(libraryPollApiUrl, {
+            await fetch(libraryPollApiUrl, {
               method: 'POST',
               mode: 'no-cors',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({ action: 'vote', bookId: bookId })
-            }).catch(() => {});
-          }
-        });
-      });
-
-      // Bind Suggest Form Submit
-      const suggestForm = document.getElementById('poll-suggest-form');
-      const submitBtn = document.getElementById('btn-poll-submit');
-      const msgEl = document.getElementById('poll-form-msg');
-
-      if (suggestForm) {
-        suggestForm.addEventListener('submit', async (e) => {
-          e.preventDefault();
-          const readerName = (document.getElementById('poll-reader-name')?.value || '').trim() || 'Bạn đọc ẩn danh';
-          const bookTitle = (document.getElementById('poll-book-title')?.value || '').trim();
-          const note = (document.getElementById('poll-note')?.value || '').trim();
-
-          if (!bookTitle) {
-            if (msgEl) {
-              msgEl.className = 'poll-msg error';
-              msgEl.textContent = 'Vui lòng nhập tên cuốn sách bạn muốn đề xuất nhé!';
-              msgEl.style.display = 'block';
-            }
-            return;
+              body: JSON.stringify({
+                action: 'suggest',
+                readerName: readerName,
+                bookTitle: bookTitle,
+                note: note
+              })
+            });
           }
 
-          if (submitBtn) {
-            submitBtn.disabled = true;
-            submitBtn.innerHTML = '<span>Đang gửi đề xuất...</span>';
+          if (msgEl) {
+            msgEl.className = 'poll-msg success';
+            msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được gửi thẳng tới Sheepa.';
+            msgEl.style.display = 'block';
           }
+          const bookInput = document.getElementById('poll-book-title');
+          const noteInput = document.getElementById('poll-note');
+          if (bookInput) bookInput.value = '';
+          if (noteInput) noteInput.value = '';
 
-          try {
-            if (libraryPollApiUrl) {
-              await fetch(libraryPollApiUrl, {
-                method: 'POST',
-                mode: 'no-cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                  action: 'suggest',
-                  readerName: readerName,
-                  bookTitle: bookTitle,
-                  note: note
-                })
-              });
-            }
-
-            if (msgEl) {
-              msgEl.className = 'poll-msg success';
-              msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được gửi thẳng tới Sheepa.';
-              msgEl.style.display = 'block';
-            }
-            const bookInput = document.getElementById('poll-book-title');
-            const noteInput = document.getElementById('poll-note');
-            if (bookInput) bookInput.value = '';
-            if (noteInput) noteInput.value = '';
-
-            setTimeout(() => {
-              if (submitBtn) {
-                submitBtn.disabled = false;
-                submitBtn.innerHTML = `
-                  <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
-                  <span>Gửi đề xuất cho Sheepa</span>
-                `;
-              }
-            }, 3000);
-          } catch (err) {
-            if (msgEl) {
-              msgEl.className = 'poll-msg success';
-              msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được ghi nhận.';
-              msgEl.style.display = 'block';
-            }
+          setTimeout(() => {
             if (submitBtn) {
               submitBtn.disabled = false;
               submitBtn.innerHTML = `
@@ -3398,29 +3469,29 @@ modal.innerHTML = `
                 <span>Gửi đề xuất cho Sheepa</span>
               `;
             }
+          }, 3000);
+        } catch (err) {
+          if (msgEl) {
+            msgEl.className = 'poll-msg success';
+            msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được ghi nhận.';
+            msgEl.style.display = 'block';
           }
-        });
-      }
-    };
-
-    renderModalContent();
-    overlay.classList.add('active');
-
-    // Fetch live candidates from Google Apps Script if URL is present
-    if (libraryPollApiUrl && !cachedPollCandidates) {
-      try {
-        const res = await fetch(libraryPollApiUrl);
-        if (res.ok) {
-          const data = await res.json();
-          if (data && data.success && Array.isArray(data.books) && data.books.length > 0) {
-            cachedPollCandidates = data.books;
-            candidates = cachedPollCandidates;
-            renderModalContent();
+          if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = `
+              <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
+              <span>Gửi đề xuất cho Sheepa</span>
+            `;
           }
         }
-      } catch (e) {
-        // Fallback to default
-      }
+      });
+    }
+
+    overlay.classList.add('active');
+
+    // Fetch live candidates from Google Apps Script in background to ensure vote counts are 100% updated
+    if (libraryPollApiUrl) {
+      fetchPollCandidates();
     }
   }
 
