@@ -245,15 +245,49 @@
     }
   }
 
+  function updateHeaderFilterLabels() {
+    const tagLabel = document.getElementById('header-tag-filter-label');
+    const statusLabel = document.getElementById('header-status-filter-label');
+
+    if (tagLabel) {
+      if (activeTagFilter && activeTagFilter !== 'all') {
+        tagLabel.textContent = activeTagFilter;
+        tagLabel.title = `Thể loại: ${activeTagFilter}`;
+      } else {
+        tagLabel.textContent = 'Thể loại';
+        tagLabel.title = 'Lọc theo thể loại';
+      }
+    }
+
+    if (statusLabel) {
+      const statusMap = {
+        'completed': 'Hoàn thành',
+        'ongoing': 'Đang dịch',
+        'new': 'Dự án mới'
+      };
+      if (activeStatusFilter && activeStatusFilter !== 'all') {
+        const name = statusMap[activeStatusFilter] || activeStatusFilter;
+        statusLabel.textContent = name;
+        statusLabel.title = `Trạng thái: ${name}`;
+      } else {
+        statusLabel.textContent = 'Trạng thái';
+        statusLabel.title = 'Lọc theo trạng thái';
+      }
+    }
+  }
+
   // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, VIEW MODE TOGGLE) ---
   function initHeaderControls() {
     const tagSelect = document.getElementById('header-tag-filter');
     const statusSelect = document.getElementById('header-status-filter');
     const viewToggleBtn = document.getElementById('header-view-toggle-btn');
 
+    updateHeaderFilterLabels();
+
     if (tagSelect) {
       tagSelect.addEventListener('change', (e) => {
         activeTagFilter = e.target.value;
+        updateHeaderFilterLabels();
         currentPage = 1;
         randomizeQuote();
         const currentHash = window.location.hash || '';
@@ -268,6 +302,7 @@
     if (statusSelect) {
       statusSelect.addEventListener('change', (e) => {
         activeStatusFilter = e.target.value;
+        updateHeaderFilterLabels();
         currentPage = 1;
         randomizeQuote();
         const currentHash = window.location.hash || '';
@@ -333,6 +368,7 @@
       const hasOpt = Array.from(headerTagSelect.options).some(opt => opt.value === tagName);
       headerTagSelect.value = hasOpt ? tagName : 'all';
     }
+    updateHeaderFilterLabels();
     const currentHash = window.location.hash || '';
     if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
       window.location.hash = tagName === 'all' ? '#/' : '#/?tag=' + encodeURIComponent(tagName);
@@ -357,6 +393,7 @@
     if (headerTagSelect) headerTagSelect.value = 'all';
     const headerStatusSelect = document.getElementById('header-status-filter');
     if (headerStatusSelect) headerStatusSelect.value = 'all';
+    updateHeaderFilterLabels();
     const searchInput = document.getElementById('library-search');
     if (searchInput) searchInput.value = '';
     renderLibraryView();
@@ -1014,6 +1051,7 @@
 
     // Đồng bộ trạng thái nút chuyển Grid / List
     updateViewToggleUI();
+    updateHeaderFilterLabels();
 
     // Lọc sách client-side: Tags + Trạng thái + Tìm kiếm
     const filteredBooks = booksData.filter(b => {

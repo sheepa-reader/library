@@ -25,7 +25,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=43">
+  <link rel="stylesheet" href="src/css/style.css?v=44">
 </head>
 <body>
 
@@ -44,6 +44,10 @@
         <!-- Genre Tags Filter Dropdown -->
         <div class="header-filter-wrapper" title="Lọc theo thể loại">
           <img src="public/icons/glyph_13_book_ribbon.png" alt="Thể loại" class="header-filter-icon">
+          <span id="header-tag-filter-label" class="header-filter-label">Thể loại</span>
+          <svg class="header-filter-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
           <select id="header-tag-filter" class="header-filter-select" aria-label="Lọc theo thể loại">
             <option value="all">Tất cả</option>
           </select>
@@ -52,6 +56,10 @@
         <!-- Status Filter Dropdown -->
         <div class="header-filter-wrapper" title="Lọc theo trạng thái">
           <img src="public/icons/glyph_09_quill_inkwell.png" alt="Trạng thái" class="header-filter-icon">
+          <span id="header-status-filter-label" class="header-filter-label">Trạng thái</span>
+          <svg class="header-filter-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none">
+            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
           <select id="header-status-filter" class="header-filter-select" aria-label="Lọc theo trạng thái">
             <option value="all">Tất cả</option>
             <option value="completed">Hoàn thành</option>
@@ -146,6 +154,6 @@
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=49"></script>
+  <script src="src/js/app.js?v=50"></script>
 </body>
 </html>
