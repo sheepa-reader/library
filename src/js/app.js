@@ -3176,16 +3176,25 @@ modal.innerHTML = `
       overlay.innerHTML = `
         <div class="modal-content poll-modal-content">
           <div class="modal-header">
-            <div>
-              <h3>🗳️ Bình Chọn Sách Dịch Tiếp Theo</h3>
-              <p class="poll-header-desc">Hãy cùng Sheepa quyết định những tác phẩm hấp dẫn tiếp theo sẽ được lên sóng!</p>
+            <div class="poll-header-title-group">
+              <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Sheepa Idea" class="poll-header-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
+              <div>
+                <h3 class="poll-main-title">Bình Chọn Sách Dịch Tiếp Theo</h3>
+                <p class="poll-header-desc">Hãy cùng Sheepa quyết định những tác phẩm hấp dẫn tiếp theo sẽ được lên sóng!</p>
+              </div>
             </div>
-            <button class="icon-btn" id="btn-close-poll" style="width: 28px; height: 28px; font-size: 0.9rem;">✕</button>
+            <button class="icon-btn" id="btn-close-poll" aria-label="Đóng" title="Đóng" style="width: 32px; height: 32px;">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
           </div>
 
           <!-- Section 1: Candidate List -->
           <div class="poll-section-title">
-            <span>📚 Các Ứng Viên Đang Bình Chọn</span>
+            <img src="public/icons/glyph_04_book_stack_horizontal.png" alt="Sách" class="poll-section-icon" onerror="this.src='public/icons/04_book_stack_horizontal.png'">
+            <span>Các Ứng Viên Đang Bình Chọn</span>
           </div>
 
           <div class="poll-candidate-list" id="poll-candidate-list">
@@ -3200,7 +3209,7 @@ modal.innerHTML = `
                       <div class="poll-candidate-author">Tác giả: ${escapeHtml(b.author || 'Đang cập nhật')}</div>
                     </div>
                     <button class="poll-vote-btn ${hasVoted ? 'voted' : ''}" ${hasVoted ? 'disabled' : ''} data-vote-id="${escapeHtml(b.id)}">
-                      ${hasVoted ? '✓ Đã vote' : '🗳️ Bình chọn'}
+                      ${hasVoted ? '<span class="poll-check-icon">✓</span> Đã vote' : '<img src="public/icons/glyph_sheep_love_book.png" alt="Vote" class="poll-btn-glyph" onerror="this.src=\'public/icons/01_sheep_reading.png\'"> Bình chọn'}
                     </button>
                   </div>
                   ${b.desc ? `<div class="poll-candidate-desc">${escapeHtml(b.desc)}</div>` : ''}
@@ -3217,7 +3226,8 @@ modal.innerHTML = `
 
           <!-- Section 2: Suggestion Form -->
           <div class="poll-section-title" style="margin-top: 1.5rem;">
-            <span>✨ Bạn Muốn Đề Xuất Cuốn Sách Khác?</span>
+            <img src="public/icons/glyph_book_magic_sparkles.png" alt="Đề xuất" class="poll-section-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
+            <span>Bạn Muốn Đề Xuất Cuốn Sách Khác?</span>
           </div>
 
           <div class="poll-suggest-box">
@@ -3237,7 +3247,10 @@ modal.innerHTML = `
                 <textarea id="poll-note" class="poll-form-textarea" placeholder="Chia sẻ cảm nhận của bạn về cuốn sách này..."></textarea>
               </div>
 
-              <button type="submit" id="btn-poll-submit" class="poll-submit-btn">Gửi đề xuất cho Sheepa ✈</button>
+              <button type="submit" id="btn-poll-submit" class="poll-submit-btn">
+                <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
+                <span>Gửi đề xuất cho Sheepa</span>
+              </button>
               <div id="poll-form-msg" class="poll-msg" style="display: none;"></div>
             </form>
           </div>
@@ -3297,7 +3310,7 @@ modal.innerHTML = `
 
           if (submitBtn) {
             submitBtn.disabled = true;
-            submitBtn.textContent = 'Đang gửi đề xuất...';
+            submitBtn.innerHTML = '<span>Đang gửi đề xuất...</span>';
           }
 
           try {
@@ -3317,7 +3330,7 @@ modal.innerHTML = `
 
             if (msgEl) {
               msgEl.className = 'poll-msg success';
-              msgEl.textContent = '✨ Cảm ơn bạn! Đề xuất đã được gửi thẳng tới Sheepa.';
+              msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được gửi thẳng tới Sheepa.';
               msgEl.style.display = 'block';
             }
             const bookInput = document.getElementById('poll-book-title');
@@ -3328,18 +3341,24 @@ modal.innerHTML = `
             setTimeout(() => {
               if (submitBtn) {
                 submitBtn.disabled = false;
-                submitBtn.textContent = 'Gửi đề xuất cho Sheepa ✈';
+                submitBtn.innerHTML = `
+                  <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
+                  <span>Gửi đề xuất cho Sheepa</span>
+                `;
               }
             }, 3000);
           } catch (err) {
             if (msgEl) {
               msgEl.className = 'poll-msg success';
-              msgEl.textContent = '✨ Cảm ơn bạn! Đề xuất đã được ghi nhận.';
+              msgEl.textContent = 'Cảm ơn bạn! Đề xuất đã được ghi nhận.';
               msgEl.style.display = 'block';
             }
             if (submitBtn) {
               submitBtn.disabled = false;
-              submitBtn.textContent = 'Gửi đề xuất cho Sheepa ✈';
+              submitBtn.innerHTML = `
+                <img src="public/icons/glyph_sheep_run_delivery.png" alt="Gửi" class="poll-submit-icon" onerror="this.src='public/icons/15_sheep_run_delivery.png'">
+                <span>Gửi đề xuất cho Sheepa</span>
+              `;
             }
           }
         });
