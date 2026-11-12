@@ -460,6 +460,33 @@ def main():
         with open(bjson_path, 'w', encoding='utf-8') as f:
             json.dump(books_list, f, ensure_ascii=False, indent=2)
 
+    # 7. Cập nhật data/changelog.json
+    print("\n[7/7] Ghi nhận nhật ký cập nhật vào data/changelog.json...")
+    changelog_entry = {
+        "id": "log-20261112-01",
+        "timestamp": "2026-11-12T16:00:00+07:00",
+        "bookId": BOOK_ID,
+        "bookTitle": "Câu Chuyện Này Có Thể Cứu Mạng Bạn",
+        "type": "new_release",
+        "typeName": "Đăng tải sách mới",
+        "badgeClass": "badge-release",
+        "title": "Phát hành trọn bộ Câu Chuyện Này Có Thể Cứu Mạng Bạn (Tiffany Crum)",
+        "description": "Đồng bộ hoàn chỉnh 52 chương truyện cùng Lời Cảm Ơn và Về Tác Giả từ bản dịch tiếng Việt biên tập sang bản song ngữ Anh - Việt (đối soát 100% khớp từng đoạn 1-to-1). Phát hành file EPUB song ngữ & đơn ngữ và bản đọc trực tuyến."
+    }
+
+    for r_dir in [WORKSPACE_DIR, GIT_DIR]:
+        cjson_path = os.path.join(r_dir, "data", "changelog.json")
+        if os.path.exists(cjson_path):
+            with open(cjson_path, 'r', encoding='utf-8') as f:
+                logs_list = json.load(f)
+            existing_c = next((i for i, c in enumerate(logs_list) if c['id'] == changelog_entry['id']), None)
+            if existing_c is not None:
+                logs_list[existing_c] = changelog_entry
+            else:
+                logs_list.insert(0, changelog_entry)
+            with open(cjson_path, 'w', encoding='utf-8') as f:
+                json.dump(logs_list, f, ensure_ascii=False, indent=2)
+
     print("\n" + "=" * 80)
     print(f">>> HOÀN TẤT ĐỒNG BỘ 100%! ĐÃ CẬP NHẬT {len(chapters_meta)} CHƯƠNG LÊN SHEEPA LIBRARY! <<<")
     print("=" * 80)

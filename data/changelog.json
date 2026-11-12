@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261112-01",
+    "timestamp": "2026-11-12T16:00:00+07:00",
+    "bookId": "cau-chuyen-nay-co-the-cuu-mang-ban",
+    "bookTitle": "Câu Chuyện Này Có Thể Cứu Mạng Bạn",
+    "type": "new_release",
+    "typeName": "Đăng tải sách mới",
+    "badgeClass": "badge-release",
+    "title": "Phát hành trọn bộ Câu Chuyện Này Có Thể Cứu Mạng Bạn (Tiffany Crum)",
+    "description": "Đồng bộ hoàn chỉnh 52 chương truyện cùng Lời Cảm Ơn và Về Tác Giả từ bản dịch tiếng Việt biên tập sang bản song ngữ Anh - Việt (đối soát 100% khớp từng đoạn 1-to-1). Phát hành file EPUB song ngữ & đơn ngữ và bản đọc trực tuyến."
+  },
+  {
     "id": "log-20261111-02",
     "timestamp": "2026-11-11T13:55:00+07:00",
     "bookId": "mam-mong-tha-hoa",

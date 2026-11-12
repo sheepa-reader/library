@@ -3017,7 +3017,7 @@ modal.innerHTML = `
 
   async function loadChangelogData() {
     try {
-      const res = await fetch('data/changelog.json');
+      const res = await fetch('data/changelog.json?v=' + Date.now());
       if (res.ok) {
         changelogData = await res.json();
       }
