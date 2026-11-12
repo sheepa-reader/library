@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch21">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch21">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Hai mươi tháng trước</b></p>
+<p class="p-name text-center" align="center"><b>Hai mươi tháng trước</b></p>
 
-<p class="p1"><span class="drop-2">C</span>ác buổi biểu diễn thử nghiệm của chúng tôi có quy mô tương đối nhỏ nhưng lại rất lớn đối với những kẻ nghiệp dư như hai đứa: vài trăm khán giả vào các ngày trong tuần tại các câu lạc bộ hài kịch địa phương. Nếu bạn có mặt trong buổi diễn đầu tiên đó, bạn sẽ biết tôi đã lo lắng đến mức nào. Khoảnh khắc Benny và tôi bước qua tấm màn nhung, tôi bắt đầu khúc khích cười như một kẻ ngốc vì chúng tôi nghĩ mình là ai chứ? Sao đây lại là cuộc đời của chúng tôi cơ chứ? Khi ngồi vào ghế trên sân khấu, tôi đã nghĩ mình có thể giữ được bình tĩnh, nhưng tiếc là tôi lại chọn mở màn trước. Hóa ra, khi một tay cầm hai trang tài liệu nghiên cứu còn tay kia cầm micro, việc che giấu những tiếng run rẩy là điều bất khả thi.</p>
+<p class="p1">Các buổi biểu diễn thử nghiệm của chúng tôi có quy mô tương đối nhỏ nhưng lại rất lớn đối với những kẻ nghiệp dư như hai đứa: vài trăm khán giả vào các ngày trong tuần tại các câu lạc bộ hài kịch địa phương. Nếu bạn có mặt trong buổi diễn đầu tiên đó, bạn sẽ biết tôi đã lo lắng đến mức nào. Khoảnh khắc Benny và tôi bước qua tấm màn nhung, tôi bắt đầu khúc khích cười như một kẻ ngốc vì chúng tôi nghĩ mình là ai chứ? Sao đây lại là cuộc đời của chúng tôi cơ chứ? Khi ngồi vào ghế trên sân khấu, tôi đã nghĩ mình có thể giữ được bình tĩnh, nhưng tiếc là tôi lại chọn mở màn trước. Hóa ra, khi một tay cầm hai trang tài liệu nghiên cứu còn tay kia cầm micro, việc che giấu những tiếng run rẩy là điều bất khả thi.</p>
 
 <p class="p">Xin Chúa phù hộ cho tôi, tôi chỉ là một kẻ nghiệp dư. Miệng tôi khô khốc. Môi dính chặt vào răng. Những âm thanh kỳ quái phát ra từ cổ họng tôi, và việc đó lặp lại càng nhiều thì tôi lại càng hoảng hơn.</p>
 

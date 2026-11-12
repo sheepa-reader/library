@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch36">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch36">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Năm</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Năm</b></p>
 
-<p class="p1"><span class="drop-2">“R</span>ẽ phải ở phía trên kia,” tôi nói.</p>
+<p class="p1">“Rẽ phải ở phía trên kia,” tôi nói.</p>
 
 <p class="p">Sarah chỉ về phía trung tâm thương mại nhỏ nằm ngoài đại lộ chính: “Ở đó hả anh?”</p>
 

@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Năm</strong></p>
 
 <p class="para-en">Sarah and I sit at the kitchen table with our laptops open, uneaten peanut butter and jelly sandwiches hardening beside us, dogs at our feet. Outside, the moon rises over the reporters lining my sidewalk.</p>
-<p class="para-vi-sub"><span class="drop-2">S</span>arah và tôi ngồi bên bàn bếp với chiếc máy tính xách tay mở sẵn, những chiếc bánh mì kẹp bơ đậu phộng và mứt chưa ăn đang khô dần bên cạnh, mấy con chó nằm dưới chân chúng tôi. Bên ngoài, vầng trăng đang nhô lên trên đám phóng viên đang đứng xếp hàng dọc vỉa hè nhà tôi.</p>
+<p class="para-vi-sub">Sarah và tôi ngồi bên bàn bếp với chiếc máy tính xách tay mở sẵn, những chiếc bánh mì kẹp bơ đậu phộng và mứt chưa ăn đang khô dần bên cạnh, mấy con chó nằm dưới chân chúng tôi. Bên ngoài, vầng trăng đang nhô lên trên đám phóng viên đang đứng xếp hàng dọc vỉa hè nhà tôi.</p>
 
 <p class="para-en">“When I asked Mallory why she gave Keller the missing episode, she said it was because she didn’t know who to trust. And I’ll admit, it seemed true at the time. But what if it was all an act? What if she was purposely trying to throw Keller off the scent?”</p>
 <p class="para-vi-sub">“Khi anh hỏi Mallory tại sao cô ta lại đưa tập thu âm bị mất cho bà Keller, cô ta nói là vì cô ta không biết nên tin ai. Và anh phải thừa nhận, lúc đó điều đó có vẻ đúng. Nhưng điều gì sẽ xảy ra nếu tất cả chỉ là một màn kịch? Điều gì sẽ xảy ra nếu cô ta cố tình đánh lạc hướng bà Keller?”</p>

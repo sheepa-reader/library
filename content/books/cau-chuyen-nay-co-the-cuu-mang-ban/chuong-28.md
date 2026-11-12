@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch28">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch28">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">S</span>arah và tôi lo lắng chờ đợi dưới bóng râm của một cây lê cành lá xơ xác nằm ở rìa bãi đậu xe của trường tiểu học. Số người có mặt đông hơn tôi tưởng tượng. Một trăm? Hay hai trăm? Bất cứ khi nào tôi cố gắng đếm, lại có thêm nhiều người kéo đến, các câu khẩu hiệu <small>CÂU CHUYỆN NÀY CÓ THỂ CỨU MẠNG BẠN</small> và <small>ĐIỀU GÌ KHÔNG GIẾT ĐƯỢC BẠN SẼ… GIÚP BẠN SỐNG SÓT</small> như đang chế nhạo tôi từ những chiếc mũ và áo phông ở mọi hướng. Giờ đây, câu cửa miệng của chúng tôi bỗng trở nên ba hoa và thiếu chân thành. Tôi muốn gom hết đống đồ lưu niệm này lại và thiêu rụi chúng thành tro bụi.</p>
+<p class="p1">Sarah và tôi lo lắng chờ đợi dưới bóng râm của một cây lê cành lá xơ xác nằm ở rìa bãi đậu xe của trường tiểu học. Số người có mặt đông hơn tôi tưởng tượng. Một trăm? Hay hai trăm? Bất cứ khi nào tôi cố gắng đếm, lại có thêm nhiều người kéo đến, các câu khẩu hiệu <small>CÂU CHUYỆN NÀY CÓ THỂ CỨU MẠNG BẠN</small> và <small>ĐIỀU GÌ KHÔNG GIẾT ĐƯỢC BẠN SẼ… GIÚP BẠN SỐNG SÓT</small> như đang chế nhạo tôi từ những chiếc mũ và áo phông ở mọi hướng. Giờ đây, câu cửa miệng của chúng tôi bỗng trở nên ba hoa và thiếu chân thành. Tôi muốn gom hết đống đồ lưu niệm này lại và thiêu rụi chúng thành tro bụi.</p>
 
 <p class="p">“Luna đến rồi kìa,” Sarah lên tiếng.</p>
 

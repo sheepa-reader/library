@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch34">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch34">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Tư</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Tư</b></p>
 
-<p class="p1"><span class="drop-2">T</span>rời gần trưa khi tôi bước ra khỏi phòng ngủ, dù tôi chỉ chợp mắt được vài tiếng mệt mỏi. Trong phòng khách, tôi tiến thẳng ra các khung cửa sổ phía trước.</p>
+<p class="p1">Trời gần trưa khi tôi bước ra khỏi phòng ngủ, dù tôi chỉ chợp mắt được vài tiếng mệt mỏi. Trong phòng khách, tôi tiến thẳng ra các khung cửa sổ phía trước.</p>
 
 <p class="p">“Vẫn ở đó,” Sarah nói khi tôi liếc qua khe rèm.</p>
 

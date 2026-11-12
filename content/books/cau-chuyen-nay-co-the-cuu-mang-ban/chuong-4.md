@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch4">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch4">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Đầu Tiên</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Đầu Tiên</b></p>
 
-<p class="p1"><span class="drop-2">N</span>gay từ ngưỡng cửa, Mallory và tôi đã chết lặng nhìn những mảnh kính vỡ sắc nhọn vương vãi khắp mọi bề mặt trong phòng tắm của Joy và Xander: từ sàn nhà, chiếc bồn tắm chân rồng kiểu cổ, cả hai bồn rửa mặt cho đến tận nắp bồn cầu. Cả Joy lẫn Xander đều không ai bắt máy.</p>
+<p class="p1">Ngay từ ngưỡng cửa, Mallory và tôi đã chết lặng nhìn những mảnh kính vỡ sắc nhọn vương vãi khắp mọi bề mặt trong phòng tắm của Joy và Xander: từ sàn nhà, chiếc bồn tắm chân rồng kiểu cổ, cả hai bồn rửa mặt cho đến tận nắp bồn cầu. Cả Joy lẫn Xander đều không ai bắt máy.</p>
 
 <p class="p">“Bọn mình nên gọi cảnh sát đúng không?” Tôi hỏi. “Có nên gọi cảnh sát không em?”</p>
 

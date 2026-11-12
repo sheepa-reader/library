@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch51">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch51">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba Trăm Tám Mươi Lăm</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba Trăm Tám Mươi Lăm</b></p>
 
-<p class="p1"><span class="drop-2">B</span>ụng tôi cồn cào như có một tổ ong vò vẽ. Đứng cạnh tôi trong bóng tối, Joy đang chạy tại chỗ, liên tục tung những cú đấm vào không trung.</p>
+<p class="p1">Bụng tôi cồn cào như có một tổ ong vò vẽ. Đứng cạnh tôi trong bóng tối, Joy đang chạy tại chỗ, liên tục tung những cú đấm vào không trung.</p>
 
 <p class="p">“Cái quái gì thế này, bao giờ mới bắt đầu đây?” Cô ấy vừa thở hổn hển vừa hỏi.</p>
 

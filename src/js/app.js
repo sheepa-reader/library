@@ -695,11 +695,18 @@
       }
 
       // Chuẩn hóa thẻ EPUB đặc biệt (ví dụ <p class="split-symbol"> hoặc <p class="p-name">)
-      if (line.includes('class="split-symbol"')) {
-        return line.replace(/class="split-symbol"/g, 'class="scene-break" align="center"');
+      if (line.includes('split-symbol')) {
+        return line.replace(/class="[^"]*split-symbol[^"]*"/g, 'class="scene-break" align="center"');
       }
-      if (line.includes('class="p-name"')) {
-        return line.replace(/class="p-name"/g, 'class="chapter-subtitle text-center" align="center"');
+      if (line.includes('p-name') || line.includes('chapter-subtitle')) {
+        return line.replace(/class="[^"]*(?:p-name|chapter-subtitle)[^"]*"/g, 'class="chapter-subtitle text-center" align="center"');
+      }
+      if (line.includes('h2-1') || line.includes('chapter-title')) {
+        hasEncounteredHeading = true;
+        return line.replace(/class="[^"]*(?:h2-1|chapter-title)[^"]*"/g, 'class="h2-1 text-center" align="center"');
+      }
+      if (line.includes('p0') || /TRÍCH\s+ĐOẠN\s+TỪ/i.test(line)) {
+        return line.replace(/class="[^"]*p0[^"]*"/g, 'class="p0 text-center" align="center"');
       }
 
       // Nhận diện ký hiệu ngắt cảnh / phân đoạn trong tiểu thuyết (Scene break divider: • • •, ✦ ✦ ✦, * * *, ~ ~ ~, ...)
@@ -791,14 +798,15 @@
 
     let idx = 0;
     let hasDropCap = false;
+    let foundFirstNarrativePair = false;
 
     // A. Alternating <p class="para-en"> and <p class="para-vi-sub">
     const pairRegex = /(?:<p class="para-en">([\s\S]*?)<\/p>\s*<p class="para-vi-sub">([\s\S]*?)<\/p>|<p class="para-vi-sub">([\s\S]*?)<\/p>\s*<p class="para-en">([\s\S]*?)<\/p>)/gi;
 
     let transformed = html.replace(pairRegex, (match, en1, vi1, vi2, en2, offset) => {
       idx++;
-      const enText = (en1 !== undefined ? en1 : en2).trim();
-      const viText = (vi1 !== undefined ? vi1 : vi2).trim();
+      let enText = (en1 !== undefined ? en1 : en2).trim();
+      let viText = (vi1 !== undefined ? vi1 : vi2).trim();
 
       // Kiểm tra xem cặp đoạn có phải là ký hiệu ngắt cảnh (scene break) hay không
       const viPlain = viText.replace(/<[^>]+>/g, '').trim();
@@ -810,18 +818,31 @@
         return `\n<div class="bilingual-pair scene-break" data-pair-idx="${idx}"><p class="scene-break" align="center">${symbol}</p></div>\n`;
       }
 
-      // Kiểm tra xem cặp đoạn đầu tiên có phải là Mục lớn / Course / Phụ đề chương hay không
-      const isPartOrCoursePair = idx === 1 && (/^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Tháng\s+|Năm\s+|\b(?:19|20)\d{2}\b|Bảy\s+tuần|Trước\s+|Sau\s+|Halloween|Khúc\s+Chuyển|Khúc\s+Dạo|Khúc\s+Đệm|Hạ\s+Chí|Đông\s+Chí|Thu\s+Phân|Xuân\s+Phân|Sáu\s+tháng)/i.test(viPlain) || /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Six\s+months|January|February|March|April|May|June|July|August|September|October|November|December)/i.test(enPlain));
-      const isSubtitlePair = idx === 1 && (viText.startsWith('<em>') || viText.startsWith('*')) && (enText.startsWith('<em>') || enText.startsWith('*')) && viPlain.length < 150;
+      // Nhận diện cặp tiêu đề nhân vật/chương (POV, Tên chương: Joy Moore, Benny Abbott...)
+      const isTitleOrNamePair = !foundFirstNarrativePair && (
+        /^(?:Joy\s+Moore|Benny\s+Abbott|Chương\s+\d+|Chapter\s+\d+|Hồi\s+\d+)$/i.test(viPlain) ||
+        /^(?:Joy\s+Moore|Benny\s+Abbott|Chapter\s+\d+)$/i.test(enPlain) ||
+        (viText.startsWith('<strong>') && viPlain.length < 40 && !/[.?!,:]/.test(viPlain))
+      );
 
-      if (isPartOrCoursePair || isSubtitlePair) {
-        const cleanSubVi = viPlain.replace(/^[\*_\s]+|[\*_\s]+$/g, '');
-        return `\n<div class="bilingual-pair chapter-part-eyebrow text-center" data-pair-idx="${idx}"><p class="chapter-part-eyebrow text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
-      }
-      if (isSubtitlePair) {
-        const cleanSubVi = viPlain.replace(/^[\*_\s]+|[\*_\s]+$/g, '');
-        return `\n<div class="bilingual-pair chapter-subtitle-pair text-center" data-pair-idx="${idx}"><p class="chapter-subtitle text-center" align="center"><em>${cleanSubVi}</em></p></div>\n`;
-      }
+      // Nhận diện cặp trích đoạn hồi ký / Excerpt
+      const isExcerptPair = !foundFirstNarrativePair && (
+        /TRÍCH\s+ĐOẠN|EXCERPT/i.test(viPlain) ||
+        /TRÍCH\s+ĐOẠN|EXCERPT/i.test(enPlain) ||
+        /class=["'][^"']*\b(p0|h-name-1)\b[^"']/i.test(viText)
+      );
+
+      // Nhận diện cặp mốc thời gian / Phụ đề chương / Mục lớn
+      const isPartOrCoursePair = !foundFirstNarrativePair && (
+        /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Tháng\s+|Năm\s+|\b(?:19|20)\d{2}\b|Bảy\s+tuần|Trước\s+|Sau\s+|Halloween|Khúc\s+Chuyển|Khúc\s+Dạo|Khúc\s+Đệm|Hạ\s+Chí|Đông\s+Chí|Thu\s+Phân|Xuân\s+Phân|Sáu\s+tháng)/i.test(viPlain) ||
+        /^(?:Course|Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Book\s+|Part\s+|Six\s+months|January|February|March|April|May|June|July|August|September|October|November|December)/i.test(enPlain)
+      );
+
+      const isSubtitleOrTimePair = !foundFirstNarrativePair && (
+        /^(?:(?:Thứ\s+(?:Hai|Ba|Tư|Năm|Sáu|Bảy)|Chủ\s*nhật|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|Ngày|Tháng|Day|Early Days|Những Ngày Đầu)\b|\d+\s*(?:Years?|Năm|Months?|Tháng|Hours?|Giờ)\s*(?:Ago|Trước)|Mười\s|Hai\s|Ba\s|Bốn\s|Năm\s|Sáu\s|Bảy\s|Tám\s|Chín\s)/i.test(viPlain) ||
+        /^(?:Day\s+\w+|Early Days|\d+\s*(?:Years?|Months?|Hours?)\s*Ago)/i.test(enPlain) ||
+        ((viText.startsWith('<em>') || viText.startsWith('<strong>') || viText.startsWith('*')) && viPlain.length < 120 && !/[.?!]{2,}/.test(viPlain))
+      );
 
       // Bỏ qua Drop Cap nếu cặp đoạn này nằm trong khối Epigraph hoặc mang class Epigraph / Lời đề từ
       const beforeMatch = typeof offset === 'number' ? html.slice(0, offset) : '';
@@ -832,14 +853,32 @@
       const isEpigraphPair = isInsideEpigraph ||
                              /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(viText) ||
                              /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(enText);
+
+      const isMetaHeaderPair = isTitleOrNamePair || isExcerptPair || isPartOrCoursePair || isSubtitleOrTimePair || isEpigraphPair;
+
+      let pairExtraClass = '';
+      if (isTitleOrNamePair) {
+        pairExtraClass = ' chapter-title-pair text-center';
+      } else if (isExcerptPair) {
+        pairExtraClass = ' excerpt-pair text-center';
+      } else if (isPartOrCoursePair || isSubtitleOrTimePair) {
+        pairExtraClass = ' chapter-subtitle-pair text-center';
+      }
+
       let dropCapClass = '';
-      if (!hasDropCap && !isDropCapLocked && !isEpigraphPair) {
-        dropCapClass = ' has-dropcap';
-        hasDropCap = true;
+      if (!isMetaHeaderPair) {
+        foundFirstNarrativePair = true;
+        if (!hasDropCap && !isDropCapLocked) {
+          dropCapClass = ' has-dropcap';
+          hasDropCap = true;
+          // Chuẩn hóa loại bỏ các thẻ dropcap thô cũ trong bản dịch tiếng Việt
+          viText = viText.replace(/<span\s+class=["'](?:dropcap|drop-\d+)["']>([A-ZÀ-Ỹa-z0-9])<\/span>/gi, '$1');
+          enText = enText.replace(/<span\s+class=["'](?:dropcap|drop-\d+)["']>([A-ZÀ-Ỹa-z0-9])<\/span>/gi, '$1');
+        }
       }
 
       return `
-<div class="bilingual-pair" data-pair-idx="${idx}">
+<div class="bilingual-pair${pairExtraClass}" data-pair-idx="${idx}">
   <div class="bilingual-block bilingual-vi-block">
     <button class="bilingual-toggle-pill pill-vi" type="button" title="Chạm để ẩn/hiện tiếng Việt">
       <span class="pill-badge">VI</span>

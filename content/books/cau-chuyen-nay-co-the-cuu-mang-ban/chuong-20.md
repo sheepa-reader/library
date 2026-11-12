@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch20">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch20">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Hai</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Hai</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi lái xe phóng vụt qua sườn đồi trên chiếc Prius của mình và phát hiện ra Luna đã tự mở cửa vào nhà từ lúc nào. Một làn sóng hy vọng tràn ngập trong tôi khi tôi đạp phanh gấp và chạy băng qua cổng. Luna chắc chắn đã đợi bên ngoài nếu có người lạ ở trong nhà.</p>
+<p class="p1">Tôi lái xe phóng vụt qua sườn đồi trên chiếc Prius của mình và phát hiện ra Luna đã tự mở cửa vào nhà từ lúc nào. Một làn sóng hy vọng tràn ngập trong tôi khi tôi đạp phanh gấp và chạy băng qua cổng. Luna chắc chắn đã đợi bên ngoài nếu có người lạ ở trong nhà.</p>
 
 <p class="p">Tôi không gõ cửa. Đẩy tung cánh cửa mở ra, tôi gọi lớn: “Joy? Xander?”</p>
 

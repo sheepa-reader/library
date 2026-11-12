@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Năm</strong></p>
 
 <p class="para-en">“Turn right up there,” I say.</p>
-<p class="para-vi-sub"><span class="drop-2">“R</span>ẽ phải ở phía trên kia,” tôi nói.</p>
+<p class="para-vi-sub">“Rẽ phải ở phía trên kia,” tôi nói.</p>
 
 <p class="para-en">Sarah points to the strip mall off the main boulevard. “There?”</p>
 <p class="para-vi-sub">Sarah chỉ về phía trung tâm thương mại nhỏ nằm ngoài đại lộ chính: “Ở đó hả anh?”</p>

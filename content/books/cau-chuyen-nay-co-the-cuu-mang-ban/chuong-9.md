@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch9">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch9">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Mười Một Năm Trước</b></p>
+<p class="p-name text-center" align="center"><b>Mười Một Năm Trước</b></p>
 
-<p class="p1"><span class="drop-2">N</span>ăm đầu tiên của tôi bên Xander gói gọn trong một từ: như mơ. Anh tử tế, chu đáo và tôn trọng lịch sinh hoạt của tôi. Tôi đọc những kịch bản mà anh đang cân nhắc, còn anh góp ý cho các mẫu logo và trang web do tôi thiết kế. Chúng tôi xem phim với đôi chân tôi gác lên đùi anh và làm tình trên tấm nệm lót lông vũ của anh. Anh mang cà phê lên tận giường cho tôi, thỉnh thoảng có thêm trứng, đôi khi là bánh mì bột chua phết bơ cùng mứt. Chúng tôi cùng nhau đi dự các buổi giao lưu làm phim, các buổi nói chuyện về nghề thủ công, hội chợ thương mại và liên hoan phim. Anh gặp gỡ các đạo diễn cùng biên kịch, còn tôi làm quen với các giám đốc nghệ thuật và người viết quảng cáo. Chúng tôi đi du lịch đến Big Sur, Yosemite và Joshua Tree. Hai đứa cùng tập thể dục, cùng ngủ trưa, mọi thứ đều bình yên và nhẹ nhàng, để rồi trong đầu tôi bắt đầu hiện lên những từ như <i>trưởng thành</i>, <i>chín chắn</i> và <i>ổn định</i>. Tôi thích những từ đó, và tôi khá chắc là anh cũng thích chúng.</p>
+<p class="p1">Năm đầu tiên của tôi bên Xander gói gọn trong một từ: như mơ. Anh tử tế, chu đáo và tôn trọng lịch sinh hoạt của tôi. Tôi đọc những kịch bản mà anh đang cân nhắc, còn anh góp ý cho các mẫu logo và trang web do tôi thiết kế. Chúng tôi xem phim với đôi chân tôi gác lên đùi anh và làm tình trên tấm nệm lót lông vũ của anh. Anh mang cà phê lên tận giường cho tôi, thỉnh thoảng có thêm trứng, đôi khi là bánh mì bột chua phết bơ cùng mứt. Chúng tôi cùng nhau đi dự các buổi giao lưu làm phim, các buổi nói chuyện về nghề thủ công, hội chợ thương mại và liên hoan phim. Anh gặp gỡ các đạo diễn cùng biên kịch, còn tôi làm quen với các giám đốc nghệ thuật và người viết quảng cáo. Chúng tôi đi du lịch đến Big Sur, Yosemite và Joshua Tree. Hai đứa cùng tập thể dục, cùng ngủ trưa, mọi thứ đều bình yên và nhẹ nhàng, để rồi trong đầu tôi bắt đầu hiện lên những từ như <i>trưởng thành</i>, <i>chín chắn</i> và <i>ổn định</i>. Tôi thích những từ đó, và tôi khá chắc là anh cũng thích chúng.</p>
 
 <p class="p">Điểm trừ duy nhất trong thế giới riêng của hai chúng tôi là tôi ngày càng dành ít thời gian hơn cho Benny, người chẳng có chút hứng thú nào với việc làm kỳ đà cản mũi trong những chuyến đi chơi của chúng tôi. “Tạm biệt nhé, chúc đi chơi vui vẻ,” cậu ấy luôn nói vậy, nhưng sau một năm thì tôi không thể chịu đựng cảnh đó thêm nữa.</p>
 

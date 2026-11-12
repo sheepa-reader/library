@@ -8,7 +8,7 @@
 <p class="para-vi-sub"><strong>Chín năm trước</strong></p>
 
 <p class="para-en">“Why do you think your mom gave up custody?” I asked one morning, a year after Xander and I had moved in together.</p>
-<p class="para-vi-sub"><span class="drop-2">“A</span>nh nghĩ sao mà mẹ anh lại từ bỏ quyền nuôi con vậy?” Tôi hỏi vào một buổi sáng, một năm sau khi Xander và tôi dọn về ở chung.</p>
+<p class="para-vi-sub">“Anh nghĩ sao mà mẹ anh lại từ bỏ quyền nuôi con vậy?” Tôi hỏi vào một buổi sáng, một năm sau khi Xander và tôi dọn về ở chung.</p>
 
 <p class="para-en">He was manually juicing oranges; he finished twisting the cut half on the reamer before responding, “Where’d that come from?”</p>
 <p class="para-vi-sub">Anh đang tự vắt cam bằng tay; anh vặn nốt nửa quả cam trên dụng cụ vắt rồi mới đáp: “Câu hỏi này từ đâu ra thế?”</p>

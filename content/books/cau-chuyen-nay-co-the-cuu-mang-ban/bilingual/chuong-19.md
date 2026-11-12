@@ -8,7 +8,7 @@
 <p class="para-vi-sub"><strong>Bốn năm trước</strong></p>
 
 <p class="para-en">“A comedy survival podcast,” I said, finishing my margarita. “And by survival you mean…”</p>
-<p class="para-vi-sub"><span class="drop-2">“M</span>ột podcast hài về sinh tồn,” tôi nói, uống cạn ly margarita của mình. “Và ý cậu sinh tồn là…”</p>
+<p class="para-vi-sub">“Một podcast hài về sinh tồn,” tôi nói, uống cạn ly margarita của mình. “Và ý cậu sinh tồn là…”</p>
 
 <p class="para-en">“You know,” Benny said, “not dying.”</p>
 <p class="para-vi-sub">“Cậu biết đấy,” Benny nói, “là không chết.”</p>

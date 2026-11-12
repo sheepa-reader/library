@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Hai</strong></p>
 
 <p class="para-en">I tear over the hill in my Prius to find Luna’s already let herself in. A tidal wave of hope passes over me as I slam on the brakes and sprint through the gate. Luna would’ve waited if there was a stranger inside.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi lái xe phóng vụt qua sườn đồi trên chiếc Prius của mình và phát hiện ra Luna đã tự mở cửa vào nhà từ lúc nào. Một làn sóng hy vọng tràn ngập trong tôi khi tôi đạp phanh gấp và chạy băng qua cổng. Luna chắc chắn đã đợi bên ngoài nếu có người lạ ở trong nhà.</p>
+<p class="para-vi-sub">Tôi lái xe phóng vụt qua sườn đồi trên chiếc Prius của mình và phát hiện ra Luna đã tự mở cửa vào nhà từ lúc nào. Một làn sóng hy vọng tràn ngập trong tôi khi tôi đạp phanh gấp và chạy băng qua cổng. Luna chắc chắn đã đợi bên ngoài nếu có người lạ ở trong nhà.</p>
 
 <p class="para-en">I don’t knock. Swinging open the door, I call, “Joy? Xander?”</p>
 <p class="para-vi-sub">Tôi không gõ cửa. Đẩy tung cánh cửa mở ra, tôi gọi lớn: “Joy? Xander?”</p>

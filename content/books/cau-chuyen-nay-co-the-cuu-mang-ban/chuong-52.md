@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch52">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch52">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba Trăm Tám Mươi Sáu</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba Trăm Tám Mươi Sáu</b></p>
 
-<p class="p1"><span class="drop-2">T</span>rời còn sớm khi tôi đi bộ một nghìn sáu trăm bước qua ngọn đồi để đến ngôi nhà cũ của mình. Bên trong, tôi rót một ly nước và đi xuống văn phòng, tránh những chiếc hộp mở nắp mà tôi đã dùng để sắp xếp lại thập kỷ cuối cùng của cuộc đời mình.</p>
+<p class="p1">Trời còn sớm khi tôi đi bộ một nghìn sáu trăm bước qua ngọn đồi để đến ngôi nhà cũ của mình. Bên trong, tôi rót một ly nước và đi xuống văn phòng, tránh những chiếc hộp mở nắp mà tôi đã dùng để sắp xếp lại thập kỷ cuối cùng của cuộc đời mình.</p>
 
 <p class="p">Chờ máy tính xách tay khởi động, tôi lấy các thẻ nhớ SD từ trong túi ra. Tôi đã giữ chúng nhiều tháng nay, thực tế là mười tháng, kể từ ngày vụ án khép lại, nhưng cho đến nay tôi vẫn chưa thể thuyết phục bản thân xem lại chúng. Bây giờ, tôi lục lọi qua đám thẻ và cắm một chiếc vào đầu đọc thẻ: một thư mục bật lên, và tôi chỉ chần chừ một thoáng trước khi nhấp chuột.</p>
 

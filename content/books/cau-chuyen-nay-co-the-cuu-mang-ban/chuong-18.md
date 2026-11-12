@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch18">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch18">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Hai</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Hai</b></p>
 
-<p class="p1"><span class="drop-2">“C</span>ác anh chị có tin tức gì chưa?” Tôi hỏi, ánh mắt đảo nhanh giữa Keller và Price.</p>
+<p class="p1">“Các anh chị có tin tức gì chưa?” Tôi hỏi, ánh mắt đảo nhanh giữa Keller và Price.</p>
 
 <p class="p">“Không phải điều anh đang hy vọng đâu,” Keller nói. “Chúng tôi vào nhà được chứ?”</p>
 

@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch7">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch7">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Mười năm trước</b></p>
+<p class="p-name text-center" align="center"><b>Mười năm trước</b></p>
 
-<p class="p1"><span class="drop-2">M</span>ọi chuyện xảy ra quá đỗi bất ngờ. Một cơn nhồi máu cơ tim ngay tại trạm xăng. Chú Ronald tự mình bơm xăng rồi ngồi vào ghế lái chiếc xe bán tải của mình, và đến khi có người phát hiện ra chú gục ngã trên bảng điều khiển trung tâm thì chú đã qua đời từ lâu. Benny về quê để giải quyết di sản thừa kế rồi ở lại đó suốt ba tháng. Mặc dù sự ra đi quá sớm của cô Helen đã cho thấy sự mong manh của cuộc sống, chẳng ai lường trước được khả năng chú Ronald lại ra đi sớm đến vậy, khiến mọi việc hậu sự của chú đều rối tung lên. Lòng tôi đau thắt vì người bạn thân nhất của mình. Cậu ấy vẫn đang phải đối mặt với nỗi mất mát người mẹ, và giờ đây, không một lời báo trước, cậu ấy đã trở thành một đứa trẻ mồ côi. Tôi ngỏ ý muốn đến thăm, nhưng cậu ấy không muốn tôi phải di chuyển một mình. Đó là giai đoạn đầu khi tôi dùng một loại thuốc tăng cường nhận thức mới, cơ thể phải chịu đựng những cơn chóng mặt cùng chứng đau nửa đầu.</p>
+<p class="p1">Mọi chuyện xảy ra quá đỗi bất ngờ. Một cơn nhồi máu cơ tim ngay tại trạm xăng. Chú Ronald tự mình bơm xăng rồi ngồi vào ghế lái chiếc xe bán tải của mình, và đến khi có người phát hiện ra chú gục ngã trên bảng điều khiển trung tâm thì chú đã qua đời từ lâu. Benny về quê để giải quyết di sản thừa kế rồi ở lại đó suốt ba tháng. Mặc dù sự ra đi quá sớm của cô Helen đã cho thấy sự mong manh của cuộc sống, chẳng ai lường trước được khả năng chú Ronald lại ra đi sớm đến vậy, khiến mọi việc hậu sự của chú đều rối tung lên. Lòng tôi đau thắt vì người bạn thân nhất của mình. Cậu ấy vẫn đang phải đối mặt với nỗi mất mát người mẹ, và giờ đây, không một lời báo trước, cậu ấy đã trở thành một đứa trẻ mồ côi. Tôi ngỏ ý muốn đến thăm, nhưng cậu ấy không muốn tôi phải di chuyển một mình. Đó là giai đoạn đầu khi tôi dùng một loại thuốc tăng cường nhận thức mới, cơ thể phải chịu đựng những cơn chóng mặt cùng chứng đau nửa đầu.</p>
 
 <p class="p">Trong suốt ba tháng đó, tôi cảm thấy lo lắng và bất lực. Cô đơn.</p>
 

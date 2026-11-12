@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch3">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch3">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ BẢN HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ BẢN HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Những Ngày Đầu</b></p>
+<p class="p-name text-center" align="center"><b>Những Ngày Đầu</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi có thể ngủ ở bất cứ đâu. Lớp học, nhà hàng, rạp chiếu phim, những cung đường mòn đi bộ, cứ kể tên ra là chắc chắn tôi đã từng chợp mắt ở đó rồi. Chẳng có gì đáng ghen tị đâu, dù mấy người bạn mất ngủ của tôi thỉnh thoảng vẫn nói vậy. Trước khi thuốc men và thói quen sinh hoạt điều độ giúp tôi kiểm soát được cơ thể, tôi luôn sống trong trạng thái lơ mơ nửa tỉnh nửa mê. Những cơn buồn ngủ đột ngột chưa bao giờ là chuyện có hay không, mà chỉ là khi nào và ở đâu. Các bác sĩ gọi những cơn buồn ngủ không cưỡng lại được này là “những đợt tấn công giấc ngủ”. Còn tôi thích gọi đơn giản là những giấc chợp mắt. Đêm đầu tiên gặp Benny, tôi cũng đang chợp mắt như thế.</p>
+<p class="p1">Tôi có thể ngủ ở bất cứ đâu. Lớp học, nhà hàng, rạp chiếu phim, những cung đường mòn đi bộ, cứ kể tên ra là chắc chắn tôi đã từng chợp mắt ở đó rồi. Chẳng có gì đáng ghen tị đâu, dù mấy người bạn mất ngủ của tôi thỉnh thoảng vẫn nói vậy. Trước khi thuốc men và thói quen sinh hoạt điều độ giúp tôi kiểm soát được cơ thể, tôi luôn sống trong trạng thái lơ mơ nửa tỉnh nửa mê. Những cơn buồn ngủ đột ngột chưa bao giờ là chuyện có hay không, mà chỉ là khi nào và ở đâu. Các bác sĩ gọi những cơn buồn ngủ không cưỡng lại được này là “những đợt tấn công giấc ngủ”. Còn tôi thích gọi đơn giản là những giấc chợp mắt. Đêm đầu tiên gặp Benny, tôi cũng đang chợp mắt như thế.</p>
 
 <p class="p">Tối hôm đó, ban nhạc rock của một người hàng xóm biểu diễn tại The Echo. Có thể bạn biết nơi này, một câu lạc bộ nhạc sống ở Echo Park[6] chỉ có vé đứng, khán giả đứng chen chúc trong một căn phòng chữ nhật tối, nhỏ hơn cả phòng thể chất trường tiểu học. Nhưng không khí ở đó rất tuyệt.</p>
 

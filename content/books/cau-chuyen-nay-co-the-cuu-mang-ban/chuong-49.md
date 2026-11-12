@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch49">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch49">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">C</span>ha mẹ của Joy gọi điện từ giữa Đại Tây Dương trong lúc chúng tôi đang chờ đợi, và có rất nhiều tiếng khóc, cùng những câu hỏi, vô số câu hỏi, mà chúng tôi chỉ có những câu trả lời chưa trọn vẹn. Tôi gọi cho luật sư của mình và thông báo tình hình cho ông ấy. Ông ấy hỏi tôi có muốn ông ấy gặp chúng tôi ở đây không, và tôi nói cảm ơn nhưng không cần, tôi sẽ liên lạc lại với ông ấy sau. Tôi nắm tay Sarah trong lúc chúng tôi chờ đợi, và chờ đợi, và cuối cùng vị bác sĩ cũng quay lại, lần đầu để thông báo ca phẫu thuật đã diễn ra suôn sẻ, và lần tiếp theo để cho chúng tôi biết rằng Joy đã tỉnh lại: “Anh có phải là Benny không?” Bà ấy hỏi tôi.</p>
+<p class="p1">Cha mẹ của Joy gọi điện từ giữa Đại Tây Dương trong lúc chúng tôi đang chờ đợi, và có rất nhiều tiếng khóc, cùng những câu hỏi, vô số câu hỏi, mà chúng tôi chỉ có những câu trả lời chưa trọn vẹn. Tôi gọi cho luật sư của mình và thông báo tình hình cho ông ấy. Ông ấy hỏi tôi có muốn ông ấy gặp chúng tôi ở đây không, và tôi nói cảm ơn nhưng không cần, tôi sẽ liên lạc lại với ông ấy sau. Tôi nắm tay Sarah trong lúc chúng tôi chờ đợi, và chờ đợi, và cuối cùng vị bác sĩ cũng quay lại, lần đầu để thông báo ca phẫu thuật đã diễn ra suôn sẻ, và lần tiếp theo để cho chúng tôi biết rằng Joy đã tỉnh lại: “Anh có phải là Benny không?” Bà ấy hỏi tôi.</p>
 
 <p class="p">Tôi gật đầu.</p>
 

@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba Trăm Tám Mươi Sáu</strong></p>
 
 <p class="para-en">It’s early when I walk the 1,600 steps over the hill to my old house. Inside, I fill a glass with water and head down to the office, sidestepping the open boxes I’ve been using to sort through the last decade of my life.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>rời còn sớm khi tôi đi bộ một nghìn sáu trăm bước qua ngọn đồi để đến ngôi nhà cũ của mình. Bên trong, tôi rót một ly nước và đi xuống văn phòng, tránh những chiếc hộp mở nắp mà tôi đã dùng để sắp xếp lại thập kỷ cuối cùng của cuộc đời mình.</p>
+<p class="para-vi-sub">Trời còn sớm khi tôi đi bộ một nghìn sáu trăm bước qua ngọn đồi để đến ngôi nhà cũ của mình. Bên trong, tôi rót một ly nước và đi xuống văn phòng, tránh những chiếc hộp mở nắp mà tôi đã dùng để sắp xếp lại thập kỷ cuối cùng của cuộc đời mình.</p>
 
 <p class="para-en">Waiting for my laptop to boot up, I pull the SD cards from my pocket. I’ve had them for months—ten months, in fact, since the day the case was closed—but as of yet I’ve been unable to convince myself to watch them. Now, I sift through them and plug one into the card reader. A folder pops up, and I hesitate only a moment before clicking.</p>
 <p class="para-vi-sub">Chờ máy tính xách tay khởi động, tôi lấy các thẻ nhớ SD từ trong túi ra. Tôi đã giữ chúng nhiều tháng nay, thực tế là mười tháng, kể từ ngày vụ án khép lại, nhưng cho đến nay tôi vẫn chưa thể thuyết phục bản thân xem lại chúng. Bây giờ, tôi lục lọi qua đám thẻ và cắm một chiếc vào đầu đọc thẻ: một thư mục bật lên, và tôi chỉ chần chừ một thoáng trước khi nhấp chuột.</p>

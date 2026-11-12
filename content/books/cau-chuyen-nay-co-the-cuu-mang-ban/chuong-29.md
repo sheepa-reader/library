@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch29">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch29">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Hai Tháng Trước</b></p>
+<p class="p-name text-center" align="center"><b>Hai Tháng Trước</b></p>
 
-<p class="p1"><span class="drop-2">T</span>hật may mắn là bức ảnh ôm nhau không thu hút được nhiều sự chú ý. Một vài người đã thích nó nhưng không ai chia sẻ lại, và ngay khi vừa gây ra rắc rối, nó đã bị chôn vùi vào nghĩa địa của những nội dung mạng xã hội chết yểu. Tuy nhiên, nó không bị lãng quên trong ngôi nhà của tôi. “Đó không phải là những gì anh nghĩ đâu,” tôi liên tục nói với Xander. “Làm ơn hãy tin em.” Nhưng cơn giận của anh ấy vẫn âm ỉ như một đốm than hồng. Anh lái chiếc xe MG đi vòng quanh suốt hàng giờ để “hạ hỏa”, chỉ để rồi khi trở về nhà tâm trạng vẫn nóng như lửa đốt. Tôi ghét phải ở cạnh anh, nhưng tôi cũng cảm thấy tội lỗi vì đã khiến anh trở nên như vậy, dù tôi biết mình chẳng làm gì sai cả. Thật kỳ lạ khi tất cả những cảm xúc mâu thuẫn này lại có thể cùng tồn tại trong bộ não của bạn.</p>
+<p class="p1">Thật may mắn là bức ảnh ôm nhau không thu hút được nhiều sự chú ý. Một vài người đã thích nó nhưng không ai chia sẻ lại, và ngay khi vừa gây ra rắc rối, nó đã bị chôn vùi vào nghĩa địa của những nội dung mạng xã hội chết yểu. Tuy nhiên, nó không bị lãng quên trong ngôi nhà của tôi. “Đó không phải là những gì anh nghĩ đâu,” tôi liên tục nói với Xander. “Làm ơn hãy tin em.” Nhưng cơn giận của anh ấy vẫn âm ỉ như một đốm than hồng. Anh lái chiếc xe MG đi vòng quanh suốt hàng giờ để “hạ hỏa”, chỉ để rồi khi trở về nhà tâm trạng vẫn nóng như lửa đốt. Tôi ghét phải ở cạnh anh, nhưng tôi cũng cảm thấy tội lỗi vì đã khiến anh trở nên như vậy, dù tôi biết mình chẳng làm gì sai cả. Thật kỳ lạ khi tất cả những cảm xúc mâu thuẫn này lại có thể cùng tồn tại trong bộ não của bạn.</p>
 
 <p class="p">Trong suốt quá trình đó, chúng tôi vẫn duy trì lịch thu âm của mình. Các cuộc đàm phán cuối cùng cũng bắt đầu đi đến hồi kết, và lạy Chúa đừng để Apex Plus tin rằng có điều gì đó bất ổn đang xảy ra.</p>
 

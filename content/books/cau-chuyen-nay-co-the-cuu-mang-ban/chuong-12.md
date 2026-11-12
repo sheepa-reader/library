@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch12">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch12">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Hai</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Hai</b></p>
 
-<p class="p1"><span class="drop-2">C</span>on phố nhà Joy tấp nập xe tải chở hàng, xe cảnh sát, quay phim và những kẻ tò mò hiếu kỳ. Tôi hoàn toàn chưa sẵn sàng để đối mặt với mức độ hỗn độn này.</p>
+<p class="p1">Con phố nhà Joy tấp nập xe tải chở hàng, xe cảnh sát, quay phim và những kẻ tò mò hiếu kỳ. Tôi hoàn toàn chưa sẵn sàng để đối mặt với mức độ hỗn độn này.</p>
 
 <p class="p">“Chẳng ích gì khi cố chen vào đâu,” một phụ nữ trung niên nói khi chúng tôi tiến lại gần cổng. Dái tai của bà ta bị kéo giãn to bằng đồng xu, và trên tóc còn dính một vệt sơn màu vàng đã khô cứng. “Họ chẳng cho ai vào cả.”</p>
 

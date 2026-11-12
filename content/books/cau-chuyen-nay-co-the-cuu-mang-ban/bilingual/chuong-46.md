@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Bảy</strong></p>
 
 <p class="para-en">My body explodes with adrenaline. “You what?”</p>
-<p class="para-vi-sub"><span class="drop-2">C</span>ơ thể tôi bùng nổ với lượng adrenaline tràn trề: “Em nói <i>cái gì</i> cơ?”</p>
+<p class="para-vi-sub">Cơ thể tôi bùng nổ với lượng adrenaline tràn trề: “Em nói <i>cái gì</i> cơ?”</p>
 
 <p class="para-en">Sarah squeezes Luna’s arm. “Is she okay?”</p>
 <p class="para-vi-sub">Sarah siết chặt tay Luna: “Chị ấy ổn chứ?”</p>

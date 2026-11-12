@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch13">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch13">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA CÓ TIÊU ĐỀ VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA CÓ TIÊU ĐỀ VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Tám năm trước</b></p>
+<p class="p-name text-center" align="center"><b>Tám năm trước</b></p>
 
-<p class="p1"><span class="drop-2">X</span>ander và tôi hưởng tuần trăng mật ở Costa Rica. Trong ba tuần, chúng tôi nắm tay nhau đi dạo trên các bãi biển, ngâm mình trong suối nước nóng và nhâm nhi rượu vang dưới chân những ngọn núi lửa đang hoạt động. Chúng tôi ngắm chim chóc trong rừng mây, đi bộ đường dài trong rừng mưa nhiệt đới. Chúng tôi mắc kẹt giữa những cơn giông bão, đùa nghịch qua các thác nước và ăn món gallo pinto cho đến khi căng bụng. Mọi thứ thật hoàn hảo, chúng tôi thật hoàn hảo và tôi chưa bao giờ muốn rời đi.</p>
+<p class="p1">Xander và tôi hưởng tuần trăng mật ở Costa Rica. Trong ba tuần, chúng tôi nắm tay nhau đi dạo trên các bãi biển, ngâm mình trong suối nước nóng và nhâm nhi rượu vang dưới chân những ngọn núi lửa đang hoạt động. Chúng tôi ngắm chim chóc trong rừng mây, đi bộ đường dài trong rừng mưa nhiệt đới. Chúng tôi mắc kẹt giữa những cơn giông bão, đùa nghịch qua các thác nước và ăn món gallo pinto cho đến khi căng bụng. Mọi thứ thật hoàn hảo, chúng tôi thật hoàn hảo và tôi chưa bao giờ muốn rời đi.</p>
 
 <p class="p">Trở lại Los Angeles, chúng tôi cố gắng duy trì cảm giác kỳ diệu ấy. Chúng tôi đan tay vào nhau khi đi dạo trên phố, nằm dài trên giường rất lâu sau giờ phải thức dậy. Chúng tôi nhảy múa trong bếp, hôn nhau ở phòng giặt và nhắc lại những chi tiết trong đám cưới của mình đến phát chán.</p>
 

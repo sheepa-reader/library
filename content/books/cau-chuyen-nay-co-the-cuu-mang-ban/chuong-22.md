@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch22">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch22">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi trở về nhà sau nửa đêm và thức dậy vào lúc bình minh khi Richie đang liếm mặt mình. Từ cuối giường, Potsie nhìn chúng tôi với vẻ thất vọng, cứ như thể nó không thể tin được mình vẫn đang ở đây. Tôi dỗ dành nó lại gần và xoa đôi tai cụp của nó. Tôi thì thầm: “Bọn mình sẽ tìm thấy cô ấy thôi.”</p>
+<p class="p1">Tôi trở về nhà sau nửa đêm và thức dậy vào lúc bình minh khi Richie đang liếm mặt mình. Từ cuối giường, Potsie nhìn chúng tôi với vẻ thất vọng, cứ như thể nó không thể tin được mình vẫn đang ở đây. Tôi dỗ dành nó lại gần và xoa đôi tai cụp của nó. Tôi thì thầm: “Bọn mình sẽ tìm thấy cô ấy thôi.”</p>
 
 <p class="p">Tôi kiểm tra điện thoại và lại một lần nữa cảm thấy ngộp thở trước lượng tin nhắn đổ về qua mọi kênh liên lạc như tin nhắn trực tiếp, tin nhắn văn bản, các đường liên kết dẫn đến bài viết và video chứa những giả thuyết ngày càng hoang đường về việc Joy và Xander đang ở đâu hoặc chuyện gì có thể đã xảy ra. Có những bài đăng đẫm nước mắt trên TikTok thu hút hàng trăm nghìn lượt thích. Tôi nhận được không dưới ba mươi yêu cầu đưa ra tuyên bố công khai.</p>
 

@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch14">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch14">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Hai</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Hai</b></p>
 
-<p class="p1"><span class="drop-2">L</span>una chở bốn chúng tôi quay trở lại qua ngọn đồi trên chiếc xe Honda CR-V đời cũ của cô ấy. Mùi trong xe vẫn y nguyên, thoang thoảng mùi kem dưỡng da và da thuộc. “Anh không thể tin được là em vẫn giữ chiếc xe này,” tôi nói mà không suy nghĩ gì, vẫn đang cố gắng tiêu hóa những gì chúng tôi vừa biết được.</p>
+<p class="p1">Luna chở bốn chúng tôi quay trở lại qua ngọn đồi trên chiếc xe Honda CR-V đời cũ của cô ấy. Mùi trong xe vẫn y nguyên, thoang thoảng mùi kem dưỡng da và da thuộc. “Anh không thể tin được là em vẫn giữ chiếc xe này,” tôi nói mà không suy nghĩ gì, vẫn đang cố gắng tiêu hóa những gì chúng tôi vừa biết được.</p>
 
 <p class="p">“Anh đang nói gì thế? Nó gần như mới tinh mà.”</p>
 

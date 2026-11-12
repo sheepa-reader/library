@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch48">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch48">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Chủ Nhật</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Chủ Nhật</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi có cảm giác như mình đang lơ lửng. Thật kỳ lạ làm sao, khi mà tôi chẳng thể cử động nổi chân tay. Người y tá, hoặc bác sĩ, hay bất cứ ai vừa ở đây, đã hỏi tôi có biết hôm nay là ngày mấy không và tôi bật cười. Bật cười đấy nhé! Tôi chịu chẳng biết hôm nay là ngày mấy. Đã bao ngày nay tôi chẳng hề hay biết điều đó. Chuyện này cũng làm tôi buồn cười nốt. Người tôi nối đủ thứ dây dợ máy móc, tiếng bíp và ống truyền, và đây là lúc tôi cảm thấy khỏe khoắn nhất suốt bao lâu nay. Tôi chẳng buồn ngủ tẹo nào cả. Tôi có thể thức trắng suốt <i>Câu Chuyện Này Có Thể Cứu Mạng Bạn</i>…</p>
+<p class="p1">Tôi có cảm giác như mình đang lơ lửng. Thật kỳ lạ làm sao, khi mà tôi chẳng thể cử động nổi chân tay. Người y tá, hoặc bác sĩ, hay bất cứ ai vừa ở đây, đã hỏi tôi có biết hôm nay là ngày mấy không và tôi bật cười. Bật cười đấy nhé! Tôi chịu chẳng biết hôm nay là ngày mấy. Đã bao ngày nay tôi chẳng hề hay biết điều đó. Chuyện này cũng làm tôi buồn cười nốt. Người tôi nối đủ thứ dây dợ máy móc, tiếng bíp và ống truyền, và đây là lúc tôi cảm thấy khỏe khoắn nhất suốt bao lâu nay. Tôi chẳng buồn ngủ tẹo nào cả. Tôi có thể thức trắng suốt <i>Câu Chuyện Này Có Thể Cứu Mạng Bạn</i>…</p>
 
 <hr class="scene-break"/>
 

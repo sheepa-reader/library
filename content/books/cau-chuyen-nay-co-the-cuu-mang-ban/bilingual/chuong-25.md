@@ -8,7 +8,7 @@
 <p class="para-vi-sub"><strong>Mười Hai Tháng Trước</strong></p>
 
 <p class="para-en">I rehearsed for hours in my head.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi đã nhẩm lại trong đầu suốt hàng giờ liền.</p>
+<p class="para-vi-sub">Tôi đã nhẩm lại trong đầu suốt hàng giờ liền.</p>
 
 <p class="para-en">It’s not you, it’s me. Don’t take this personally. I am drowning.</p>
 <p class="para-vi-sub"><i>Không phải tại anh, là tại em. Đừng coi đây là chuyện cá nhân. Em đang thấy ngộp thở quá.</i></p>

@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch6">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch6">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Đầu Tiên</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Đầu Tiên</b></p>
 
-<p class="p1"><span class="drop-2">H</span>ai viên thám tử đứng trong phòng tắm của Joy có khoảng cách tuổi tác lớn đến mức tôi suýt hỏi đây có phải là Ngày Đưa Cháu Trai Đến Nơi Làm Việc hay không. Người trẻ hơn, Thám tử Price, có phần xương hàm mờ nhạt và làn da mịn màng của một người mới qua tuổi dậy thì, trên mặt cậu ta lúc nào cũng nở một nụ cười nửa miệng, có lẽ là để phòng thủ trước cho gương mặt trẻ con đó. Tôi lập tức không thích cậu ta và dồn toàn bộ sự chú ý sang viên thám tử lớn tuổi hơn, bà Keller, một phụ nữ có mái tóc bạc bện sam, đôi mắt hổ phách nổi bật và những nếp nhăn quanh môi của một người hút thuốc.</p>
+<p class="p1">Hai viên thám tử đứng trong phòng tắm của Joy có khoảng cách tuổi tác lớn đến mức tôi suýt hỏi đây có phải là Ngày Đưa Cháu Trai Đến Nơi Làm Việc hay không. Người trẻ hơn, Thám tử Price, có phần xương hàm mờ nhạt và làn da mịn màng của một người mới qua tuổi dậy thì, trên mặt cậu ta lúc nào cũng nở một nụ cười nửa miệng, có lẽ là để phòng thủ trước cho gương mặt trẻ con đó. Tôi lập tức không thích cậu ta và dồn toàn bộ sự chú ý sang viên thám tử lớn tuổi hơn, bà Keller, một phụ nữ có mái tóc bạc bện sam, đôi mắt hổ phách nổi bật và những nếp nhăn quanh môi của một người hút thuốc.</p>
 
 <p class="p">“Nói lại cho tôi nghe về việc này một lần nữa xem nào,” bà vừa nói vừa rút một chiếc găng tay cao su từ trong túi ra. “Anh đã ở đây tối qua.”</p>
 

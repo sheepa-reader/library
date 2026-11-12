@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Hai</strong></p>
 
 <p class="para-en">Luna drives the four of us back over the hill in her twenty-year-old Honda CR-V. It smells the same, like lotion and leather. “I can’t believe you still have this car,” I say without thinking, still trying to process what we’ve just learned.</p>
-<p class="para-vi-sub"><span class="drop-2">L</span>una chở bốn chúng tôi quay trở lại qua ngọn đồi trên chiếc xe Honda CR-V đời cũ của cô ấy. Mùi trong xe vẫn y nguyên, thoang thoảng mùi kem dưỡng da và da thuộc. “Anh không thể tin được là em vẫn giữ chiếc xe này,” tôi nói mà không suy nghĩ gì, vẫn đang cố gắng tiêu hóa những gì chúng tôi vừa biết được.</p>
+<p class="para-vi-sub">Luna chở bốn chúng tôi quay trở lại qua ngọn đồi trên chiếc xe Honda CR-V đời cũ của cô ấy. Mùi trong xe vẫn y nguyên, thoang thoảng mùi kem dưỡng da và da thuộc. “Anh không thể tin được là em vẫn giữ chiếc xe này,” tôi nói mà không suy nghĩ gì, vẫn đang cố gắng tiêu hóa những gì chúng tôi vừa biết được.</p>
 
 <p class="para-en">“What are you talking about? It’s practically brand-new.”</p>
 <p class="para-vi-sub">“Anh đang nói gì thế? Nó gần như mới tinh mà.”</p>

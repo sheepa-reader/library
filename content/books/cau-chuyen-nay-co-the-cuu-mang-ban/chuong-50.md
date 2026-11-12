@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch50">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch50">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Tám</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Tám</b></p>
 
-<p class="p1"><span class="drop-2">N</span>ữ thám tử lớn tuổi có làn da sương gió, tự xưng là Thám tử Keller, quả thực rất kỹ lưỡng. Bà ấy giục: “Vậy cô đã nói với anh ta là cô sẽ rời đi, và rồi sao nữa?”</p>
+<p class="p1">Nữ thám tử lớn tuổi có làn da sương gió, tự xưng là Thám tử Keller, quả thực rất kỹ lưỡng. Bà ấy giục: “Vậy cô đã nói với anh ta là cô sẽ rời đi, và rồi sao nữa?”</p>
 
 <p class="p">Các bác sĩ của tôi đã giữ các thám tử ở ngoài suốt hai mươi tư tiếng đồng hồ do trạng thái lơ mơ vì thuốc của tôi. Tôi vẫn có cảm giác như thể mình vừa bị một gánh xiếc lưu động cán qua, nhưng họ cần câu trả lời, và rõ ràng các phản hồi ban đầu của tôi chưa đủ tốt vì Thám tử Keller muốn tôi lặp lại mọi thứ trong trường hợp tôi quên mất điều gì đó ở lần đầu tiên.</p>
 

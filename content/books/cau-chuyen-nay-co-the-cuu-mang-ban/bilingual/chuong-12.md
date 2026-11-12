@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Hai</strong></p>
 
 <p class="para-en">Joy’s street is a beehive of cargo vans, police cars, cameramen, and gawkers. I am woefully underprepared for this level of commotion.</p>
-<p class="para-vi-sub"><span class="drop-2">C</span>on phố nhà Joy tấp nập xe tải chở hàng, xe cảnh sát, quay phim và những kẻ tò mò hiếu kỳ. Tôi hoàn toàn chưa sẵn sàng để đối mặt với mức độ hỗn độn này.</p>
+<p class="para-vi-sub">Con phố nhà Joy tấp nập xe tải chở hàng, xe cảnh sát, quay phim và những kẻ tò mò hiếu kỳ. Tôi hoàn toàn chưa sẵn sàng để đối mặt với mức độ hỗn độn này.</p>
 
 <p class="para-en">“No use trying,” says a middle-aged woman as we approach the gate. Her earlobes are stretched to the size of quarters, and there’s a hardened streak of yellow paint in her hair. “They haven’t let anyone in.”</p>
 <p class="para-vi-sub">“Chẳng ích gì khi cố chen vào đâu,” một phụ nữ trung niên nói khi chúng tôi tiến lại gần cổng. Dái tai của bà ta bị kéo giãn to bằng đồng xu, và trên tóc còn dính một vệt sơn màu vàng đã khô cứng. “Họ chẳng cho ai vào cả.”</p>

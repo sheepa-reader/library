@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch43">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch43">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">R</span>un rẩy, tôi chợp mắt nửa vời suốt nhiều tiếng đồng hồ, mắc kẹt trong ranh giới lập lờ của giấc ngủ. Khi tôi cuối cùng cũng đứng dậy để vào phòng tắm, tòa nhà chìm trong tĩnh lặng: không có tiếng ống nước rít, không có tiếng bước chân, không có tiếng trò chuyện văng vẳng từ xa.</p>
+<p class="p1">Run rẩy, tôi chợp mắt nửa vời suốt nhiều tiếng đồng hồ, mắc kẹt trong ranh giới lập lờ của giấc ngủ. Khi tôi cuối cùng cũng đứng dậy để vào phòng tắm, tòa nhà chìm trong tĩnh lặng: không có tiếng ống nước rít, không có tiếng bước chân, không có tiếng trò chuyện văng vẳng từ xa.</p>
 
 <p class="p">Nếu Mitali đã quay lại, em ấy không cho tôi biết điều đó, và cảm giác bất thường ngày càng lớn hơn trong sự vắng mặt của em ấy. Tôi chợt nhận ra với cảm giác sợ hãi râm ran rằng tôi hầu như không biết gì về em ấy ngoài những gì tôi tìm hiểu được ở phòng máy tính, và chừng đó chẳng đáng là bao. Kể từ đó, tôi đã gánh vác hầu hết việc trò chuyện: tôi đã trao gửi cho em ấy những bí mật thầm kín và đen tối nhất của mình, đồng thời nhờ em ấy giúp đỡ, và tất cả những gì tôi biết là em ấy dự định có con với người đàn ông có hành vi tồi tệ đã khiến em ấy phải tìm đến một nhà lưu trú cho nạn nhân bạo lực gia đình để trú ẩn. Thêm nữa, em ấy là một người hâm mộ cuồng nhiệt của podcast <i>Câu Chuyện Này Có Thể Cứu Mạng Bạn</i>.</p>
 

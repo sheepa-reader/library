@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Bảy</strong></p>
 
 <p class="para-en">Waking on the floor of Mitali’s bathroom, I try and fail to get up.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ỉnh giấc trên sàn phòng tắm của Mitali, tôi cố gắng đứng dậy nhưng bất thành.</p>
+<p class="para-vi-sub">Tỉnh giấc trên sàn phòng tắm của Mitali, tôi cố gắng đứng dậy nhưng bất thành.</p>
 
 <p class="para-en">The air is heavy, so heavy my limbs can’t compete. Lights flash behind my eyes, and I wonder if the pain will ever stop.</p>
 <p class="para-vi-sub">Không khí đặc quánh, nặng nề đến mức chân tay tôi chẳng tài nào cựa quậy nổi. Ánh sáng chớp lóe sau mí mắt, và tôi tự hỏi liệu cơn đau này có bao giờ chấm dứt.</p>

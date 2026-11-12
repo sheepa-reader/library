@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch45">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch45">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ỉnh giấc trên sàn phòng tắm của Mitali, tôi cố gắng đứng dậy nhưng bất thành.</p>
+<p class="p1">Tỉnh giấc trên sàn phòng tắm của Mitali, tôi cố gắng đứng dậy nhưng bất thành.</p>
 
 <p class="p">Không khí đặc quánh, nặng nề đến mức chân tay tôi chẳng tài nào cựa quậy nổi. Ánh sáng chớp lóe sau mí mắt, và tôi tự hỏi liệu cơn đau này có bao giờ chấm dứt.</p>
 

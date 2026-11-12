@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Sáu</strong></p>
 
 <p class="para-en">I’ve been pacing the Glendale Memorial waiting room for six hours when Keller finally returns my call.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi đã đi đi lại lại trong phòng chờ của Bệnh viện Memorial Glendale suốt sáu tiếng đồng hồ khi cuối cùng bà Keller cũng gọi lại cho tôi.</p>
+<p class="para-vi-sub">Tôi đã đi đi lại lại trong phòng chờ của Bệnh viện Memorial Glendale suốt sáu tiếng đồng hồ khi cuối cùng bà Keller cũng gọi lại cho tôi.</p>
 
 <p class="para-en">“I got your messages,” she says. I hear voices in the background, the slamming of a car door.</p>
 <p class="para-vi-sub">“Tôi nhận được tin nhắn của anh rồi,” bà ấy nói. Tôi nghe thấy tiếng người ở phía sau, tiếng đóng cửa xe cái rầm.</p>

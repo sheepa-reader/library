@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch17">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch17">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Bốn năm trước</b></p>
+<p class="p-name text-center" align="center"><b>Bốn năm trước</b></p>
 
-<p class="p1"><span class="drop-2">B</span>enny và tôi tình cờ gặp lại nhau vào một ngày mưa hiếm hoi trong tháng Sáu. Tôi mới bắt đầu tập vẽ tranh kiểu nhà búp bê, Xander gọi thế vì những khung toan nhỏ hơn cả bàn tay tôi, và lúc đó tôi đang ở cửa hàng Blick để mua thêm họa cụ. Tôi nghe thấy giọng của Benny trước, rồi đến tiếng cười của cậu ấy, và tôi đứng khựng lại. Chúng tôi đã không nói chuyện với nhau kể từ ngày Xander đuổi cậu ấy ra khỏi căn hộ của hai vợ chồng, và tôi xấu hổ khi phải thừa nhận điều này, nhưng tôi đã thoáng nghĩ đến việc quăng giỏ hàng xuống rồi bỏ chạy. Tôi không biết phải mở lời thế nào.</p>
+<p class="p1">Benny và tôi tình cờ gặp lại nhau vào một ngày mưa hiếm hoi trong tháng Sáu. Tôi mới bắt đầu tập vẽ tranh kiểu nhà búp bê, Xander gọi thế vì những khung toan nhỏ hơn cả bàn tay tôi, và lúc đó tôi đang ở cửa hàng Blick để mua thêm họa cụ. Tôi nghe thấy giọng của Benny trước, rồi đến tiếng cười của cậu ấy, và tôi đứng khựng lại. Chúng tôi đã không nói chuyện với nhau kể từ ngày Xander đuổi cậu ấy ra khỏi căn hộ của hai vợ chồng, và tôi xấu hổ khi phải thừa nhận điều này, nhưng tôi đã thoáng nghĩ đến việc quăng giỏ hàng xuống rồi bỏ chạy. Tôi không biết phải mở lời thế nào.</p>
 
 <p class="p">Vẻ mặt của cậu ấy khi rẽ qua góc kệ hàng và bắt gặp tôi đang đứng cạnh những chồng khung toan, đến tận bây giờ tôi vẫn còn nhớ như in: “Joy?” Cậu ấy thốt lên, cứ như thể người trước mặt chưa chắc đã là tôi, như thể cậu ấy đang nhìn thấy ảo ảnh vậy.</p>
 

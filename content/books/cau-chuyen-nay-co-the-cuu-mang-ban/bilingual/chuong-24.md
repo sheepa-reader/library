@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba</strong></p>
 
 <p class="para-en">“I told you not to come,” I say, embracing my sister the moment she’s inside.</p>
-<p class="para-vi-sub"><span class="drop-2">“A</span>nh đã bảo em đừng đến cơ mà,” tôi nói và ôm lấy em gái ngay khi con bé bước vào nhà.</p>
+<p class="para-vi-sub">“Anh đã bảo em đừng đến cơ mà,” tôi nói và ôm lấy em gái ngay khi con bé bước vào nhà.</p>
 
 <p class="para-en">“And I heard what you were really saying loud and clear.” Sarah kisses my wet cheek and holds me at arm’s length. “You look awful.”</p>
 <p class="para-vi-sub">“Và em đã nghe rõ mồn một điều anh <i>thật sự</i> muốn nói.” Sarah hôn lên má còn ướt nước mắt của tôi rồi đẩy tôi ra một chút để ngắm nghía: “Trông anh thảm hại quá đấy.”</p>

@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Tám</strong></p>
 
 <p class="para-en">The older detective, the one with weathered skin who calls herself Keller, is very thorough. “So you told him you were leaving him, and then what?” she prompts.</p>
-<p class="para-vi-sub"><span class="drop-2">N</span>ữ thám tử lớn tuổi có làn da sương gió, tự xưng là Thám tử Keller, quả thực rất kỹ lưỡng. Bà ấy giục: “Vậy cô đã nói với anh ta là cô sẽ rời đi, và rồi sao nữa?”</p>
+<p class="para-vi-sub">Nữ thám tử lớn tuổi có làn da sương gió, tự xưng là Thám tử Keller, quả thực rất kỹ lưỡng. Bà ấy giục: “Vậy cô đã nói với anh ta là cô sẽ rời đi, và rồi sao nữa?”</p>
 
 <p class="para-en">My doctors kept the detectives out for a full twenty-four hours due to my drug-induced haze. I still feel as though I’ve been run over by a traveling circus, but they need answers, and apparently my original responses weren’t good enough because Keller wants me to repeat everything in case I forgot something the first time.</p>
 <p class="para-vi-sub">Các bác sĩ của tôi đã giữ các thám tử ở ngoài suốt hai mươi tư tiếng đồng hồ do trạng thái lơ mơ vì thuốc của tôi. Tôi vẫn có cảm giác như thể mình vừa bị một gánh xiếc lưu động cán qua, nhưng họ cần câu trả lời, và rõ ràng các phản hồi ban đầu của tôi chưa đủ tốt vì Thám tử Keller muốn tôi lặp lại mọi thứ trong trường hợp tôi quên mất điều gì đó ở lần đầu tiên.</p>

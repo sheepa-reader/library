@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Tư</strong></p>
 
 <p class="para-en">It’s nearly noon when I exit my bedroom, though I’ve only managed a few hours of fitful sleep. In the living room, I head straight for the front windows.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>rời gần trưa khi tôi bước ra khỏi phòng ngủ, dù tôi chỉ chợp mắt được vài tiếng mệt mỏi. Trong phòng khách, tôi tiến thẳng ra các khung cửa sổ phía trước.</p>
+<p class="para-vi-sub">Trời gần trưa khi tôi bước ra khỏi phòng ngủ, dù tôi chỉ chợp mắt được vài tiếng mệt mỏi. Trong phòng khách, tôi tiến thẳng ra các khung cửa sổ phía trước.</p>
 
 <p class="para-en">“Still there,” Sarah says as I peek through the curtains.</p>
 <p class="para-vi-sub">“Vẫn ở đó,” Sarah nói khi tôi liếc qua khe rèm.</p>

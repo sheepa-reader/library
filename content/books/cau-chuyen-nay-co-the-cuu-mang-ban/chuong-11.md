@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch11">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch11">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Chín năm trước</b></p>
+<p class="p-name text-center" align="center"><b>Chín năm trước</b></p>
 
-<p class="p1"><span class="drop-2">“A</span>nh nghĩ sao mà mẹ anh lại từ bỏ quyền nuôi con vậy?” Tôi hỏi vào một buổi sáng, một năm sau khi Xander và tôi dọn về ở chung.</p>
+<p class="p1">“Anh nghĩ sao mà mẹ anh lại từ bỏ quyền nuôi con vậy?” Tôi hỏi vào một buổi sáng, một năm sau khi Xander và tôi dọn về ở chung.</p>
 
 <p class="p">Anh đang tự vắt cam bằng tay; anh vặn nốt nửa quả cam trên dụng cụ vắt rồi mới đáp: “Câu hỏi này từ đâu ra thế?”</p>
 

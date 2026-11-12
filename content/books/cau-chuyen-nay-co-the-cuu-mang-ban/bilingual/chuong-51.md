@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba Trăm Tám Mươi Lăm</strong></p>
 
 <p class="para-en">My stomach is a hornet’s nest. Beside me in the shadows, Joy runs in place, punching the air.</p>
-<p class="para-vi-sub"><span class="drop-2">B</span>ụng tôi cồn cào như có một tổ ong vò vẽ. Đứng cạnh tôi trong bóng tối, Joy đang chạy tại chỗ, liên tục tung những cú đấm vào không trung.</p>
+<p class="para-vi-sub">Bụng tôi cồn cào như có một tổ ong vò vẽ. Đứng cạnh tôi trong bóng tối, Joy đang chạy tại chỗ, liên tục tung những cú đấm vào không trung.</p>
 
 <p class="para-en">“Is this thing ever going to start?” she asks, panting.</p>
 <p class="para-vi-sub">“Cái quái gì thế này, bao giờ mới bắt đầu đây?” Cô ấy vừa thở hổn hển vừa hỏi.</p>

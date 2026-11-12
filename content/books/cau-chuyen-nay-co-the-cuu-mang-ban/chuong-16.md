@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch16">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch16">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Hai</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Hai</b></p>
 
-<p class="p1"><span class="drop-2">“C</span>ậu có nhớ lần tớ tưởng có ai đang sống trên gác xép không?” Joy hỏi khi đang đi được nửa chặng đường của tập podcast về con búp bê kỳ dị.</p>
+<p class="p1">“Cậu có nhớ lần tớ tưởng có ai đang sống trên gác xép không?” Joy hỏi khi đang đi được nửa chặng đường của tập podcast về con búp bê kỳ dị.</p>
 
 <p class="p">Tôi của quá khứ khịt mũi: “Đợi chút, câu chuyện này hay đấy. Để tớ giới thiệu cho thính giả nghe nhé. Lần đó là, bao nhiêu năm rồi nhỉ?”</p>
 

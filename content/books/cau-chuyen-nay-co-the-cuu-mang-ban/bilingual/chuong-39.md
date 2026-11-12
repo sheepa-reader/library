@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Sáu</strong></p>
 
 <p class="para-en">It’s early, just after sunup. I slept poorly last night, much of it consumed by visions of Xander. He knelt at my bedside, begging for forgiveness. He cried and flailed and swore he wasn’t dead. He murmured in my ear, reminding me how much I need him, how lost I will be without him.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>rời còn sớm, ngay sau lúc mặt trời mọc. Đêm qua tôi ngủ rất kém, phần lớn thời gian bị ám ảnh bởi những ảo ảnh về Xander: anh quỳ bên giường tôi, cầu xin sự tha thứ thiết tha; anh khóc lóc, quằn quại và thề rằng mình chưa chết; anh thì thầm vào tai tôi, nhắc nhở tôi cần anh đến nhường nào, tôi sẽ lạc lối ra sao nếu thiếu anh.</p>
+<p class="para-vi-sub">Trời còn sớm, ngay sau lúc mặt trời mọc. Đêm qua tôi ngủ rất kém, phần lớn thời gian bị ám ảnh bởi những ảo ảnh về Xander: anh quỳ bên giường tôi, cầu xin sự tha thứ thiết tha; anh khóc lóc, quằn quại và thề rằng mình chưa chết; anh thì thầm vào tai tôi, nhắc nhở tôi cần anh đến nhường nào, tôi sẽ lạc lối ra sao nếu thiếu anh.</p>
 
 <p class="para-en">The room undulates when I sit up, and it takes me a second to get my sea legs. Sweaty sleep clinging to my skin, I change into the clothes Gloria brought me the other day—a gray T-shirt, a pair of cotton pants.</p>
 <p class="para-vi-sub">Căn phòng chao đảo khi tôi ngồi dậy, và tôi mất một giây để lấy lại thăng bằng. Giấc ngủ đầm đìa mồ hôi còn bám dính trên da, tôi thay bộ quần áo mà Gloria mang cho tôi hôm trước gồm một chiếc áo phông xám và một chiếc quần cotton.</p>

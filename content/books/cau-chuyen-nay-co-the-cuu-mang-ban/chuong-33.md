@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch33">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch33">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Tư</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Tư</b></p>
 
-<p class="p1"><span class="drop-2">P</span>hòng của tôi rất đơn giản: những bức tường trắng trơn, một chiếc tủ đầu giường bằng gỗ thông cơ bản, một tủ đựng quần áo bằng gỗ sồi, và một phòng tắm cỡ nhà kho với sàn trải vải sơn màu kem cùng một buồng tắm đứng. Ga giường của tôi làm bằng vải cotton ngà đã sờn. Tấm chăn chần bông được khâu thủ công bằng nhiều sắc độ xanh khác nhau: hoa văn dừa cạn, họa tiết dây leo xanh hải quân, những ngôi sao xanh da trời.</p>
+<p class="p1">Phòng của tôi rất đơn giản: những bức tường trắng trơn, một chiếc tủ đầu giường bằng gỗ thông cơ bản, một tủ đựng quần áo bằng gỗ sồi, và một phòng tắm cỡ nhà kho với sàn trải vải sơn màu kem cùng một buồng tắm đứng. Ga giường của tôi làm bằng vải cotton ngà đã sờn. Tấm chăn chần bông được khâu thủ công bằng nhiều sắc độ xanh khác nhau: hoa văn dừa cạn, họa tiết dây leo xanh hải quân, những ngôi sao xanh da trời.</p>
 
 <p class="p">Từ dưới lớp chăn này, tôi lắng nghe tiếng xôn xao buổi sáng gồm tiếng chuông đồng hồ báo thức, tiếng nước chảy róc rách từ phòng tắm gần đó, tiếng còi reo của ấm đun nước. Khi ngày mới tiếp diễn, những âm thanh sẽ ngày càng lớn hơn: tiếng cửa sập mạnh, tiếng ti vi ở âm lượng tối đa, tiếng khóc và tiếng hét ngắt quãng, tiếng bước chân lộp cộp và giậm thình thịch ngay trên trần nhà tôi. Tôi mới chỉ rời khỏi phòng của mình một lần, khi tôi lảo đảo bước ra giữa đêm với khả năng giữ thăng bằng của một kẻ say rượu, áp tay lên tường để lấy lại thăng bằng khi cố gắng xác định phương hướng.</p>
 

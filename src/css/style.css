@@ -1799,6 +1799,37 @@ button {
   margin-bottom: 1rem;
 }
 
+/* Chapter Title & Excerpt in novel headers (Joy Moore, Benny Abbott, Trích đoạn hồi ký) */
+.reader-content h2.h2-1,
+.reader-content .h2-1,
+.reader-content h2.chapter-title,
+.reader-content .chapter-title,
+.reader-content p.p0,
+.reader-content .p0,
+.reader-content .h-name-1 {
+  text-align: center !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.reader-content p.p0 {
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  opacity: 0.9;
+}
+
+.bilingual-pair.chapter-title-pair .bilingual-vi-content,
+.bilingual-pair.chapter-title-pair .bilingual-en-content,
+.bilingual-pair.excerpt-pair .bilingual-vi-content,
+.bilingual-pair.excerpt-pair .bilingual-en-content,
+.bilingual-pair.chapter-subtitle-pair .bilingual-vi-content,
+.bilingual-pair.chapter-subtitle-pair .bilingual-en-content {
+  text-align: center !important;
+}
+
 .reader-content p {
   margin-bottom: 1.35rem;
   text-align: justify;

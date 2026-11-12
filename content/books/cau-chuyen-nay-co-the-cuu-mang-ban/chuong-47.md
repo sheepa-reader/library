@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch47">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch47">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">G</span>loria chạy vào trong và chúng tôi đứng lại nắm lấy cổng.</p>
+<p class="p1">Gloria chạy vào trong và chúng tôi đứng lại nắm lấy cổng.</p>
 
 <p class="p">“Chuyện gì đang xảy ra vậy anh?” Sarah hét lên.</p>
 

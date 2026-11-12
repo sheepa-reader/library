@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch2">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch2">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Đầu Tiên</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Đầu Tiên</b></p>
 
-<p class="p1"><span class="drop-2">C</span>ây đổ lúc nửa đêm, nhưng khi đó tôi chỉ nhìn thấy cành lá lấp lánh dưới ánh trăng. Giờ đây, nhìn đống đổ nát, bụng tôi quặn lại. Gian nhà phụ của tôi, vốn là phiên bản thu nhỏ của một ngôi nhà phong cách trang trại giữa thế kỷ trước, đã bẹp dúm dưới nửa tấn gỗ bạch đàn. Richie đi ngửi xung quanh đống gạch vụn rồi chui xuống dưới một cành cây, chỉ thò ra cái đuôi nhọn có chỏm lông trắng.</p>
+<p class="p1">Cây đổ lúc nửa đêm, nhưng khi đó tôi chỉ nhìn thấy cành lá lấp lánh dưới ánh trăng. Giờ đây, nhìn đống đổ nát, bụng tôi quặn lại. Gian nhà phụ của tôi, vốn là phiên bản thu nhỏ của một ngôi nhà phong cách trang trại giữa thế kỷ trước, đã bẹp dúm dưới nửa tấn gỗ bạch đàn. Richie đi ngửi xung quanh đống gạch vụn rồi chui xuống dưới một cành cây, chỉ thò ra cái đuôi nhọn có chỏm lông trắng.</p>
 
 <p class="p">Tiếng kim loại rít lên, tiếp theo là tiếng sập cửa mạnh. Qua hàng rào, tôi thấy gã hàng xóm Ted bước ra hiên sau. Ông ta mặc áo choàng tắm, để lộ cái bụng phệ trắng hếu phía trên thắt lưng. Cả hai không ai buồn chào ai. Đã một tháng nay chúng tôi chỉ trao đổi qua luật sư, nhưng tôi thấy rõ vẻ đắc thắng trên mặt ông ta. Gã từng cảnh báo tôi về cái cây này ngay ngày đầu tôi dọn đến.</p>
 
@@ -30,7 +30,7 @@
 
 <hr class="scene-break"/>
 
-<p class="p"><span class="drop-2">T</span>Ừ CỬA TRƯỚC NHÀ TÔI SANG NHÀ HỌ LÀ 1.528 BƯỚC. Joy đã đếm từng bước khi tôi chuyển về đây. 1.528 bước đối với tôi, 1.600 bước đối với cô ấy, và khoảng 4.000 bước đối với lũ chó. Richie kéo căng dây xích, hai chúng tôi bước qua những cành cọ gãy và rác rưởi bị gió thổi bay khắp nơi, đi dưới những bóng râm của hàng cây tuyết tùng và cây sồi. Khi nhìn thấy hàng rào hoa giấy và ngôi nhà trát vữa trắng của Joy và Xander, ngực tôi lại thắt lại. Người ta bảo chó thường nhận biết được tâm trạng của chủ, nhưng con chó của tôi thì không thế, vì vừa nhấc chốt cổng lên là Richie đã chạy thẳng xuống sân bậc thang.</p>
+<p class="p">TỪ CỬA TRƯỚC NHÀ TÔI SANG NHÀ HỌ LÀ 1.528 BƯỚC. Joy đã đếm từng bước khi tôi chuyển về đây. 1.528 bước đối với tôi, 1.600 bước đối với cô ấy, và khoảng 4.000 bước đối với lũ chó. Richie kéo căng dây xích, hai chúng tôi bước qua những cành cọ gãy và rác rưởi bị gió thổi bay khắp nơi, đi dưới những bóng râm của hàng cây tuyết tùng và cây sồi. Khi nhìn thấy hàng rào hoa giấy và ngôi nhà trát vữa trắng của Joy và Xander, ngực tôi lại thắt lại. Người ta bảo chó thường nhận biết được tâm trạng của chủ, nhưng con chó của tôi thì không thế, vì vừa nhấc chốt cổng lên là Richie đã chạy thẳng xuống sân bậc thang.</p>
 
 <p class="p">Lau mồ hôi trên trán, tôi gõ nhẹ lên cửa hông rồi mới cắm chìa khóa vào ổ.</p>
 

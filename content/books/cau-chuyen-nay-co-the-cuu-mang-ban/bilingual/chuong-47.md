@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Bảy</strong></p>
 
 <p class="para-en">Gloria runs inside and we’re left clutching the gate.</p>
-<p class="para-vi-sub"><span class="drop-2">G</span>loria chạy vào trong và chúng tôi đứng lại nắm lấy cổng.</p>
+<p class="para-vi-sub">Gloria chạy vào trong và chúng tôi đứng lại nắm lấy cổng.</p>
 
 <p class="para-en">“What’s happening?” Sarah shouts.</p>
 <p class="para-vi-sub">“Chuyện gì đang xảy ra vậy anh?” Sarah hét lên.</p>

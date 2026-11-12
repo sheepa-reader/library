@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch19">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch19">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Bốn năm trước</b></p>
+<p class="p-name text-center" align="center"><b>Bốn năm trước</b></p>
 
-<p class="p1"><span class="drop-2">“M</span>ột podcast hài về sinh tồn,” tôi nói, uống cạn ly margarita của mình. “Và ý cậu sinh tồn là…”</p>
+<p class="p1">“Một podcast hài về sinh tồn,” tôi nói, uống cạn ly margarita của mình. “Và ý cậu sinh tồn là…”</p>
 
 <p class="p">“Cậu biết đấy,” Benny nói, “là không chết.”</p>
 

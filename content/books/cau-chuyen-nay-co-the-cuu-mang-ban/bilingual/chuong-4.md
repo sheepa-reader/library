@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Đầu Tiên</strong></p>
 
 <p class="para-en">From the doorway, Mallory and I stare at the jagged shards blanketing every surface of Joy and Xander’s bathroom—the floor, the clawfoot tub, both sinks, even the toilet seat. Neither Joy nor Xander are answering their phones.</p>
-<p class="para-vi-sub"><span class="drop-2">N</span>gay từ ngưỡng cửa, Mallory và tôi đã chết lặng nhìn những mảnh kính vỡ sắc nhọn vương vãi khắp mọi bề mặt trong phòng tắm của Joy và Xander: từ sàn nhà, chiếc bồn tắm chân rồng kiểu cổ, cả hai bồn rửa mặt cho đến tận nắp bồn cầu. Cả Joy lẫn Xander đều không ai bắt máy.</p>
+<p class="para-vi-sub">Ngay từ ngưỡng cửa, Mallory và tôi đã chết lặng nhìn những mảnh kính vỡ sắc nhọn vương vãi khắp mọi bề mặt trong phòng tắm của Joy và Xander: từ sàn nhà, chiếc bồn tắm chân rồng kiểu cổ, cả hai bồn rửa mặt cho đến tận nắp bồn cầu. Cả Joy lẫn Xander đều không ai bắt máy.</p>
 
 <p class="para-en">“We should call the cops, right?” I ask. “Should we call the cops?”</p>
 <p class="para-vi-sub">“Bọn mình nên gọi cảnh sát đúng không?” Tôi hỏi. “Có nên gọi cảnh sát không em?”</p>

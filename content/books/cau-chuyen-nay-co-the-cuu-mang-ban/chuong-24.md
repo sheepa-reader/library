@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch24">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch24">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">“A</span>nh đã bảo em đừng đến cơ mà,” tôi nói và ôm lấy em gái ngay khi con bé bước vào nhà.</p>
+<p class="p1">“Anh đã bảo em đừng đến cơ mà,” tôi nói và ôm lấy em gái ngay khi con bé bước vào nhà.</p>
 
 <p class="p">“Và em đã nghe rõ mồn một điều anh <i>thật sự</i> muốn nói.” Sarah hôn lên má còn ướt nước mắt của tôi rồi đẩy tôi ra một chút để ngắm nghía: “Trông anh thảm hại quá đấy.”</p>
 

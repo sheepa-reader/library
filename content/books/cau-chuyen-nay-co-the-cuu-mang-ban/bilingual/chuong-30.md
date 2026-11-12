@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba</strong></p>
 
 <p class="para-en">My sides ache, and I’m dripping in sweat by the time I’m home.</p>
-<p class="para-vi-sub"><span class="drop-2">H</span>ai bên sườn tôi đau nhức, và mồ hôi đầm đìa khi tôi về đến nhà.</p>
+<p class="para-vi-sub">Hai bên sườn tôi đau nhức, và mồ hôi đầm đìa khi tôi về đến nhà.</p>
 
 <p class="para-en">“Can you please tell me now?” Sarah demands breathlessly, sliding in behind me through the front door. The dogs jump all over her as she presses hands to knees. Her hair is plastered to her head; round blotches of perspiration darken her tank top.</p>
 <p class="para-vi-sub">“Anh có thể <i>làm ơn</i> nói cho em biết <i>ngay bây giờ</i> được chưa?” Sarah thở dốc hỏi, lách qua cửa trước và bước vào sau tôi. Lũ chó nhảy chồm lên người con bé khi nó chống hai tay lên đầu gối. Tóc con bé bết lại vào đầu; những vệt mồ hôi tròn trịa làm sẫm màu chiếc áo ba lỗ của nó.</p>

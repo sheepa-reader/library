@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch30">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch30">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">H</span>ai bên sườn tôi đau nhức, và mồ hôi đầm đìa khi tôi về đến nhà.</p>
+<p class="p1">Hai bên sườn tôi đau nhức, và mồ hôi đầm đìa khi tôi về đến nhà.</p>
 
 <p class="p">“Anh có thể <i>làm ơn</i> nói cho em biết <i>ngay bây giờ</i> được chưa?” Sarah thở dốc hỏi, lách qua cửa trước và bước vào sau tôi. Lũ chó nhảy chồm lên người con bé khi nó chống hai tay lên đầu gối. Tóc con bé bết lại vào đầu; những vệt mồ hôi tròn trịa làm sẫm màu chiếc áo ba lỗ của nó.</p>
 

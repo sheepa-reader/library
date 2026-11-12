@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch38">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch38">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Năm</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Năm</b></p>
 
-<p class="p1"><span class="drop-2">S</span>arah và tôi ngồi bên bàn bếp với chiếc máy tính xách tay mở sẵn, những chiếc bánh mì kẹp bơ đậu phộng và mứt chưa ăn đang khô dần bên cạnh, mấy con chó nằm dưới chân chúng tôi. Bên ngoài, vầng trăng đang nhô lên trên đám phóng viên đang đứng xếp hàng dọc vỉa hè nhà tôi.</p>
+<p class="p1">Sarah và tôi ngồi bên bàn bếp với chiếc máy tính xách tay mở sẵn, những chiếc bánh mì kẹp bơ đậu phộng và mứt chưa ăn đang khô dần bên cạnh, mấy con chó nằm dưới chân chúng tôi. Bên ngoài, vầng trăng đang nhô lên trên đám phóng viên đang đứng xếp hàng dọc vỉa hè nhà tôi.</p>
 
 <p class="p">“Khi anh hỏi Mallory tại sao cô ta lại đưa tập thu âm bị mất cho bà Keller, cô ta nói là vì cô ta không biết nên tin ai. Và anh phải thừa nhận, lúc đó điều đó có vẻ đúng. Nhưng điều gì sẽ xảy ra nếu tất cả chỉ là một màn kịch? Điều gì sẽ xảy ra nếu cô ta cố tình đánh lạc hướng bà Keller?”</p>
 

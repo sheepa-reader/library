@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Năm</strong></p>
 
 <p class="para-en">Footsteps outside my door. Three taps. I get up, blinking away the spots before my eyes. Gloria holds out a tray—an apple and a granola bar this time. A bottle of juice.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>iếng bước chân bên ngoài cửa phòng tôi. Ba tiếng gõ. Tôi đứng dậy, chớp mắt để xua đi những đốm sáng trước mắt. Lần này Gloria đưa ra một chiếc khay đựng một quả táo và một thanh ngũ cốc, kèm theo một chai nước ép.</p>
+<p class="para-vi-sub">Tiếng bước chân bên ngoài cửa phòng tôi. Ba tiếng gõ. Tôi đứng dậy, chớp mắt để xua đi những đốm sáng trước mắt. Lần này Gloria đưa ra một chiếc khay đựng một quả táo và một thanh ngũ cốc, kèm theo một chai nước ép.</p>
 
 <p class="para-en">“Just checking in.”</p>
 <p class="para-vi-sub">“Chị kiểm tra tình hình em chút thôi.”</p>

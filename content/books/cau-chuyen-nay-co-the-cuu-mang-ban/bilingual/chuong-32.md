@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba</strong></p>
 
 <p class="para-en">The temperature in interview room three is alternately too hot or too cold. Presently, the air conditioner blasts, but soon it will shut off, and the outdoor heat will seep through the soundproof walls like odorless poison.</p>
-<p class="para-vi-sub"><span class="drop-2">N</span>hiệt độ trong phòng thẩm vấn số ba lúc thì quá nóng, lúc lại quá lạnh. Lúc này, điều hòa đang thổi vù vù, nhưng chẳng mấy chốc nó sẽ tắt và cái nóng ngoài trời sẽ ngấm qua những bức tường cách âm như một thứ độc chất không mùi.</p>
+<p class="para-vi-sub">Nhiệt độ trong phòng thẩm vấn số ba lúc thì quá nóng, lúc lại quá lạnh. Lúc này, điều hòa đang thổi vù vù, nhưng chẳng mấy chốc nó sẽ tắt và cái nóng ngoài trời sẽ ngấm qua những bức tường cách âm như một thứ độc chất không mùi.</p>
 
 <p class="para-en">So far, all I’ve learned is that Xander was found dead beside his MG deep in Angeles National Forest. At some point on Tuesday night he drove off a curve and crashed in a location not visible from the road. A hiker discovered him this afternoon. I receive this information with rising dread. “What about Joy? Was she in the car with him?”</p>
 <p class="para-vi-sub">Cho đến nay, tất cả những gì tôi biết được là Xander được phát hiện đã chết bên chiếc xe cổ MG đời 1964 trong Rừng Quốc gia Angeles. Vào một thời điểm nào đó trong đêm thứ Ba, anh ta đã lái xe lệch khỏi một khúc cua và gặp tai nạn tại một vị trí không thể nhìn thấy từ đường cái. Một người đi bộ đường dài đã phát hiện ra anh ta vào chiều nay. Tôi tiếp nhận thông tin này với sự sợ hãi dâng trào: “Còn Joy thì sao? Cô ấy có ở trong xe cùng anh ta không?”</p>

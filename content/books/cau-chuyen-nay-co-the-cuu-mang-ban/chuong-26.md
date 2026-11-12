@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch26">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch26">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">C</span>húng tôi kẹt xe. Xe cộ nối đuôi nhau ngay giây phút chúng tôi nhập vào làn đường cao tốc, thế nên tôi đổi hướng và rẽ vào các con đường phụ ngay khi vừa qua Công viên Elysian. Đến lúc chúng tôi tới con phố cũ của tôi thì trời đã giữa buổi sáng, và tôi phải đợi một chiếc xe tải chở rác dọn xong một hàng thùng rác thì mới chen được vào chỗ trống duy nhất dọc theo lề đường.</p>
+<p class="p1">Chúng tôi kẹt xe. Xe cộ nối đuôi nhau ngay giây phút chúng tôi nhập vào làn đường cao tốc, thế nên tôi đổi hướng và rẽ vào các con đường phụ ngay khi vừa qua Công viên Elysian. Đến lúc chúng tôi tới con phố cũ của tôi thì trời đã giữa buổi sáng, và tôi phải đợi một chiếc xe tải chở rác dọn xong một hàng thùng rác thì mới chen được vào chỗ trống duy nhất dọc theo lề đường.</p>
 
 <p class="p">Joy đã nói đúng. Tòa nhà đó không còn mang tên Chez Moi nữa.</p>
 

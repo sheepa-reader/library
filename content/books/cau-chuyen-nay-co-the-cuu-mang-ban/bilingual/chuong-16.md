@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Hai</strong></p>
 
 <p class="para-en">“Do you remember the time I thought someone was living in my attic?” Joy asks halfway through the creepy doll episode.</p>
-<p class="para-vi-sub"><span class="drop-2">“C</span>ậu có nhớ lần tớ tưởng có ai đang sống trên gác xép không?” Joy hỏi khi đang đi được nửa chặng đường của tập podcast về con búp bê kỳ dị.</p>
+<p class="para-vi-sub">“Cậu có nhớ lần tớ tưởng có ai đang sống trên gác xép không?” Joy hỏi khi đang đi được nửa chặng đường của tập podcast về con búp bê kỳ dị.</p>
 
 <p class="para-en">Past Me snorts. “Hold up, this is a good one. Let me set this up for our listeners. This was, what—twelve years ago?”</p>
 <p class="para-vi-sub">Tôi của quá khứ khịt mũi: “Đợi chút, câu chuyện này hay đấy. Để tớ giới thiệu cho thính giả nghe nhé. Lần đó là, bao nhiêu năm rồi nhỉ?”</p>

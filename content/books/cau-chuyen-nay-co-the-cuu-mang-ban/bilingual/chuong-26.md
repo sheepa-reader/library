@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba</strong></p>
 
 <p class="para-en">We hit traffic. It’s bumper to bumper the second we merge onto the freeway, so I change course and take side roads as soon as we pass Elysian Park. By the time we reach my old street it’s already midmorning, and I have to wait for a dump truck to finish upending a line of trash cans before snagging the only open spot along the curb.</p>
-<p class="para-vi-sub"><span class="drop-2">C</span>húng tôi kẹt xe. Xe cộ nối đuôi nhau ngay giây phút chúng tôi nhập vào làn đường cao tốc, thế nên tôi đổi hướng và rẽ vào các con đường phụ ngay khi vừa qua Công viên Elysian. Đến lúc chúng tôi tới con phố cũ của tôi thì trời đã giữa buổi sáng, và tôi phải đợi một chiếc xe tải chở rác dọn xong một hàng thùng rác thì mới chen được vào chỗ trống duy nhất dọc theo lề đường.</p>
+<p class="para-vi-sub">Chúng tôi kẹt xe. Xe cộ nối đuôi nhau ngay giây phút chúng tôi nhập vào làn đường cao tốc, thế nên tôi đổi hướng và rẽ vào các con đường phụ ngay khi vừa qua Công viên Elysian. Đến lúc chúng tôi tới con phố cũ của tôi thì trời đã giữa buổi sáng, và tôi phải đợi một chiếc xe tải chở rác dọn xong một hàng thùng rác thì mới chen được vào chỗ trống duy nhất dọc theo lề đường.</p>
 
 <p class="para-en">Joy was right. The building is no longer called Chez Moi.</p>
 <p class="para-vi-sub">Joy đã nói đúng. Tòa nhà đó không còn mang tên Chez Moi nữa.</p>

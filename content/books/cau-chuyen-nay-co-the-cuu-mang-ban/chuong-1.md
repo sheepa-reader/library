@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch1">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch1">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Bắt Đầu</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Bắt Đầu</b></p>
 
-<p class="p1"><span class="drop-2">M</span>ột luồng gió nóng ập đến làm rung chuyển ngôi nhà, khiến các khung cửa sổ kêu lách cách. Phía ngoài phòng thu dưới tầng hầm của tôi, những cây thích ngọt cao vút đang đung đưa trong gió, ném những chùm quả gai xuống sườn đồi.</p>
+<p class="p1">Một luồng gió nóng ập đến làm rung chuyển ngôi nhà, khiến các khung cửa sổ kêu lách cách. Phía ngoài phòng thu dưới tầng hầm của tôi, những cây thích ngọt cao vút đang đung đưa trong gió, ném những chùm quả gai xuống sườn đồi.</p>
 
 <p class="p">Benny nói: “Máy đang chạy rồi. Cậu sẵn sàng là chúng ta bắt đầu.”</p>
 

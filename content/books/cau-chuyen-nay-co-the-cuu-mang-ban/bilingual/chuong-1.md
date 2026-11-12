@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Bắt Đầu</strong></p>
 
 <p class="para-en">A blast of hot wind shakes the house, rattling the windows. Outside my basement studio, the towering sweetgums thrash and sway, flinging their prickly seedpods down the hill.</p>
-<p class="para-vi-sub"><span class="drop-2">M</span>ột luồng gió nóng ập đến làm rung chuyển ngôi nhà, khiến các khung cửa sổ kêu lách cách. Phía ngoài phòng thu dưới tầng hầm của tôi, những cây thích ngọt cao vút đang đung đưa trong gió, ném những chùm quả gai xuống sườn đồi.</p>
+<p class="para-vi-sub">Một luồng gió nóng ập đến làm rung chuyển ngôi nhà, khiến các khung cửa sổ kêu lách cách. Phía ngoài phòng thu dưới tầng hầm của tôi, những cây thích ngọt cao vút đang đung đưa trong gió, ném những chùm quả gai xuống sườn đồi.</p>
 
 <p class="para-en">“We’re rolling,” Benny says. “Whenever you’re ready.”</p>
 <p class="para-vi-sub">Benny nói: “Máy đang chạy rồi. Cậu sẵn sàng là chúng ta bắt đầu.”</p>

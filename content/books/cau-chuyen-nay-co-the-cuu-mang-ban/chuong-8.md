@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch8">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch8">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Đầu Tiên</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Đầu Tiên</b></p>
 
-<p class="p1"><span class="drop-2">L</span>ũ chó thở phì phò ngay sau gáy chúng tôi trong lúc Mallory lái xe vượt qua những con đường lộng gió để về nhà tôi. Cô đỗ xe ở lối vào, rồi mỗi người cầm một sợi dây dắt chó bước xuống. Vào trong nhà, tôi bật đèn rọi và từ từ đặt chiếc túi đồ xuống sàn. Căn nhà sạch sẽ không tì vết, mọi bề mặt đều sáng bóng, không khí phảng phất mùi chanh và giấm tươi mát. Cô dọn dẹp nhà cửa cho tôi chắc hẳn đã ra về từ nhiều tiếng trước. Khi rời đi vào sáng nay, tôi còn bảo cô ấy rằng tôi sẽ quay lại trước khi cô ấy làm xong. Tôi khó lòng mà tin nổi rằng tất cả những chuyện này vẫn đang diễn ra trong cùng một ngày.</p>
+<p class="p1">Lũ chó thở phì phò ngay sau gáy chúng tôi trong lúc Mallory lái xe vượt qua những con đường lộng gió để về nhà tôi. Cô đỗ xe ở lối vào, rồi mỗi người cầm một sợi dây dắt chó bước xuống. Vào trong nhà, tôi bật đèn rọi và từ từ đặt chiếc túi đồ xuống sàn. Căn nhà sạch sẽ không tì vết, mọi bề mặt đều sáng bóng, không khí phảng phất mùi chanh và giấm tươi mát. Cô dọn dẹp nhà cửa cho tôi chắc hẳn đã ra về từ nhiều tiếng trước. Khi rời đi vào sáng nay, tôi còn bảo cô ấy rằng tôi sẽ quay lại trước khi cô ấy làm xong. Tôi khó lòng mà tin nổi rằng tất cả những chuyện này vẫn đang diễn ra trong cùng một ngày.</p>
 
 <p class="p">Richie tỏ ra vô cùng phấn khích khi được quay về lãnh địa của riêng mình, nó nhảy tưng tưng khắp các món đồ nội thất giống như quả bóng vàng nảy trên màn hình video hát karaoke. Tuy nhiên, Potsie vẫn quẩn quanh dưới chân tôi, ngước nhìn tôi bằng đôi mắt dò xét.</p>
 

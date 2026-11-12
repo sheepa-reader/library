@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Bảy</strong></p>
 
 <p class="para-en">I roll out of bed at seven thirty, certain I’ve forgotten something. It bugs me while I make another one-handed attempt at scrubbing off the county jail, while I brew a strong pot of coffee, while I sort through emails and messages. And then, the moment I load our website, it hits me.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi lăn ra khỏi giường lúc bảy giờ rưỡi, chắc chắn rằng mình đã quên mất điều gì đó. Nó cứ bứt rứt trong đầu tôi khi tôi cố gắng dùng một tay để tẩy sạch mùi nhà giam quận, khi tôi pha một bình cà phê đậm đặc, và khi tôi lọc qua các email cùng tin nhắn. Và rồi, ngay khoảnh khắc tôi tải trang web của chúng tôi lên, mọi thứ lóe lên trong đầu.</p>
+<p class="para-vi-sub">Tôi lăn ra khỏi giường lúc bảy giờ rưỡi, chắc chắn rằng mình đã quên mất điều gì đó. Nó cứ bứt rứt trong đầu tôi khi tôi cố gắng dùng một tay để tẩy sạch mùi nhà giam quận, khi tôi pha một bình cà phê đậm đặc, và khi tôi lọc qua các email cùng tin nhắn. Và rồi, ngay khoảnh khắc tôi tải trang web của chúng tôi lên, mọi thứ lóe lên trong đầu.</p>
 
 <p class="para-en">Sarah joins me as I’m opening the files I imported last night. Rubbing the sleep out of her eyes, she says, “You’re up early. What are you looking at?”</p>
 <p class="para-vi-sub">Sarah nhập hội cùng tôi khi tôi đang mở các tệp tin đã nhập vào tối qua. Vừa dụi bay cơn buồn ngủ khỏi mắt, con bé vừa lên tiếng: “Anh dậy sớm thế. Đang xem cái gì đấy?”</p>

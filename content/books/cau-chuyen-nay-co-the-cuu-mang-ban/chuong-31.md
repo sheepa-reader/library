@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch31">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch31">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi tỉnh giấc bởi tiếng đập cửa dồn dập. Ba tiếng gõ sắc lẹm. Đầu tôi quay cuồng, và tôi lăn người về phía bức tường, từng thớ thịt trên cơ thể đều phản kháng lại nỗ lực đó. Chiếc gối cọ xát vào gò má sưng phồng khiến tôi suýt thét lên vì đau đớn, nhưng tôi cố gắng giữ im lặng khi chờ đợi. Tim tôi đập thình thịch khó chịu xuống tấm nệm. Quả nhiên, <i>cốc cốc cốc</i>.</p>
+<p class="p1">Tôi tỉnh giấc bởi tiếng đập cửa dồn dập. Ba tiếng gõ sắc lẹm. Đầu tôi quay cuồng, và tôi lăn người về phía bức tường, từng thớ thịt trên cơ thể đều phản kháng lại nỗ lực đó. Chiếc gối cọ xát vào gò má sưng phồng khiến tôi suýt thét lên vì đau đớn, nhưng tôi cố gắng giữ im lặng khi chờ đợi. Tim tôi đập thình thịch khó chịu xuống tấm nệm. Quả nhiên, <i>cốc cốc cốc</i>.</p>
 
 <p class="p">Hai lần thử, mỗi lần ba tiếng gõ. Đó là cách duy nhất tôi biết rằng một ngày nữa lại trôi qua.</p>
 

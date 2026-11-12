@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch37">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch37">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Năm</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Năm</b></p>
 
-<p class="p1"><span class="drop-2">T</span>iếng bước chân bên ngoài cửa phòng tôi. Ba tiếng gõ. Tôi đứng dậy, chớp mắt để xua đi những đốm sáng trước mắt. Lần này Gloria đưa ra một chiếc khay đựng một quả táo và một thanh ngũ cốc, kèm theo một chai nước ép.</p>
+<p class="p1">Tiếng bước chân bên ngoài cửa phòng tôi. Ba tiếng gõ. Tôi đứng dậy, chớp mắt để xua đi những đốm sáng trước mắt. Lần này Gloria đưa ra một chiếc khay đựng một quả táo và một thanh ngũ cốc, kèm theo một chai nước ép.</p>
 
 <p class="p">“Chị kiểm tra tình hình em chút thôi.”</p>
 

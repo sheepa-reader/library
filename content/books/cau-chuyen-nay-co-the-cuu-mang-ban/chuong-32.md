@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch32">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch32">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Ba</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Ba</b></p>
 
-<p class="p1"><span class="drop-2">N</span>hiệt độ trong phòng thẩm vấn số ba lúc thì quá nóng, lúc lại quá lạnh. Lúc này, điều hòa đang thổi vù vù, nhưng chẳng mấy chốc nó sẽ tắt và cái nóng ngoài trời sẽ ngấm qua những bức tường cách âm như một thứ độc chất không mùi.</p>
+<p class="p1">Nhiệt độ trong phòng thẩm vấn số ba lúc thì quá nóng, lúc lại quá lạnh. Lúc này, điều hòa đang thổi vù vù, nhưng chẳng mấy chốc nó sẽ tắt và cái nóng ngoài trời sẽ ngấm qua những bức tường cách âm như một thứ độc chất không mùi.</p>
 
 <p class="p">Cho đến nay, tất cả những gì tôi biết được là Xander được phát hiện đã chết bên chiếc xe cổ MG đời 1964 trong Rừng Quốc gia Angeles. Vào một thời điểm nào đó trong đêm thứ Ba, anh ta đã lái xe lệch khỏi một khúc cua và gặp tai nạn tại một vị trí không thể nhìn thấy từ đường cái. Một người đi bộ đường dài đã phát hiện ra anh ta vào chiều nay. Tôi tiếp nhận thông tin này với sự sợ hãi dâng trào: “Còn Joy thì sao? Cô ấy có ở trong xe cùng anh ta không?”</p>
 

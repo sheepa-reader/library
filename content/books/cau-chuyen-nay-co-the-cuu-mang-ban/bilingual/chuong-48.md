@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Chủ Nhật</strong></p>
 
 <p class="para-en">I feel as though I’m floating. An odd sensation, considering I can’t move my limbs. The nurse, or doctor, or whoever was just here, asked if I knew what day it was and I laughed. Laughed! I don’t know what day it is. I haven’t known what day it is for days. This too strikes me as funny. I’m strapped to things, bleeps and tubes, and this is the best I’ve felt in ages. I’m not sleepy at all. I could stay awake for …</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi có cảm giác như mình đang lơ lửng. Thật kỳ lạ làm sao, khi mà tôi chẳng thể cử động nổi chân tay. Người y tá, hoặc bác sĩ, hay bất cứ ai vừa ở đây, đã hỏi tôi có biết hôm nay là ngày mấy không và tôi bật cười. Bật cười đấy nhé! Tôi chịu chẳng biết hôm nay là ngày mấy. Đã bao ngày nay tôi chẳng hề hay biết điều đó. Chuyện này cũng làm tôi buồn cười nốt. Người tôi nối đủ thứ dây dợ máy móc, tiếng bíp và ống truyền, và đây là lúc tôi cảm thấy khỏe khoắn nhất suốt bao lâu nay. Tôi chẳng buồn ngủ tẹo nào cả. Tôi có thể thức trắng suốt <i>Câu Chuyện Này Có Thể Cứu Mạng Bạn</i>…</p>
+<p class="para-vi-sub">Tôi có cảm giác như mình đang lơ lửng. Thật kỳ lạ làm sao, khi mà tôi chẳng thể cử động nổi chân tay. Người y tá, hoặc bác sĩ, hay bất cứ ai vừa ở đây, đã hỏi tôi có biết hôm nay là ngày mấy không và tôi bật cười. Bật cười đấy nhé! Tôi chịu chẳng biết hôm nay là ngày mấy. Đã bao ngày nay tôi chẳng hề hay biết điều đó. Chuyện này cũng làm tôi buồn cười nốt. Người tôi nối đủ thứ dây dợ máy móc, tiếng bíp và ống truyền, và đây là lúc tôi cảm thấy khỏe khoắn nhất suốt bao lâu nay. Tôi chẳng buồn ngủ tẹo nào cả. Tôi có thể thức trắng suốt <i>Câu Chuyện Này Có Thể Cứu Mạng Bạn</i>…</p>
 
 <hr class="scene-break"/>
 

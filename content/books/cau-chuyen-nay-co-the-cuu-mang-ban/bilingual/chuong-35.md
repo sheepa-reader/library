@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Năm</strong></p>
 
 <p class="para-en">My room is dark, with only the faintest light from the setting moon filtering through the blinds. My first full thought upon waking is that I need to water my plants. I can’t recall the last time I watered them.</p>
-<p class="para-vi-sub"><span class="drop-2">P</span>hòng tôi tối om, chỉ có chút ánh sáng leo lắt từ vầng trăng lặn hắt qua khe cửa chớp. Suy nghĩ trọn vẹn đầu tiên khi tôi thức dậy là tôi cần phải tưới cây. Tôi không thể nhớ nổi lần cuối cùng mình tưới chúng là khi nào.</p>
+<p class="para-vi-sub">Phòng tôi tối om, chỉ có chút ánh sáng leo lắt từ vầng trăng lặn hắt qua khe cửa chớp. Suy nghĩ trọn vẹn đầu tiên khi tôi thức dậy là tôi cần phải tưới cây. Tôi không thể nhớ nổi lần cuối cùng mình tưới chúng là khi nào.</p>
 
 <p class="para-en">And then I remember Xander is dead. My husband is dead. I can process the words, but I don’t trust their meaning. Xander being dead is like the moon disappearing from the sky. My head aches as I try to understand. Angeles National Forest? Suspected foul play? Like so much of my life since adolescence, the narrative is filled with gaping holes.</p>
 <p class="para-vi-sub">Và rồi tôi nhớ ra Xander đã chết. Chồng tôi đã chết. Tôi có thể xử lý những từ ngữ đó, nhưng tôi không dám tin vào ý nghĩa của chúng. Việc Xander chết giống như mặt trăng biến mất khỏi bầu trời. Đầu tôi đau nhức khi cố gắng hiểu rõ sự việc. Rừng Quốc gia Angeles? Nghi án có dấu hiệu tội phạm? Giống như phần lớn cuộc đời tôi kể từ tuổi thiếu niên, câu chuyện này cũng đầy rẫy những khoảng trống lớn.</p>

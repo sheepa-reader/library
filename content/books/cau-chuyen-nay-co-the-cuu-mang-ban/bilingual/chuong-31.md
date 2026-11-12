@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Ba</strong></p>
 
 <p class="para-en">I wake to a hammering at my door. Three sharp raps. My head whirs, and I roll toward the wall, every inch of my body protesting the effort. The pillow rubs against my swollen cheekbone and I nearly yelp from the pain, but I manage to remain quiet as I wait. My heart pounds uncomfortably into the mattress. Sure enough, rap rap rap.</p>
-<p class="para-vi-sub"><span class="drop-2">T</span>ôi tỉnh giấc bởi tiếng đập cửa dồn dập. Ba tiếng gõ sắc lẹm. Đầu tôi quay cuồng, và tôi lăn người về phía bức tường, từng thớ thịt trên cơ thể đều phản kháng lại nỗ lực đó. Chiếc gối cọ xát vào gò má sưng phồng khiến tôi suýt thét lên vì đau đớn, nhưng tôi cố gắng giữ im lặng khi chờ đợi. Tim tôi đập thình thịch khó chịu xuống tấm nệm. Quả nhiên, <i>cốc cốc cốc</i>.</p>
+<p class="para-vi-sub">Tôi tỉnh giấc bởi tiếng đập cửa dồn dập. Ba tiếng gõ sắc lẹm. Đầu tôi quay cuồng, và tôi lăn người về phía bức tường, từng thớ thịt trên cơ thể đều phản kháng lại nỗ lực đó. Chiếc gối cọ xát vào gò má sưng phồng khiến tôi suýt thét lên vì đau đớn, nhưng tôi cố gắng giữ im lặng khi chờ đợi. Tim tôi đập thình thịch khó chịu xuống tấm nệm. Quả nhiên, <i>cốc cốc cốc</i>.</p>
 
 <p class="para-en">Two attempts, three raps each. It’s the only way I know another day has passed.</p>
 <p class="para-vi-sub">Hai lần thử, mỗi lần ba tiếng gõ. Đó là cách duy nhất tôi biết rằng một ngày nữa lại trôi qua.</p>

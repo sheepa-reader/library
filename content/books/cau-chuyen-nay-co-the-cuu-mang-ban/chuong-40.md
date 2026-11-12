@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch40">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch40">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Sáu</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Sáu</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi đã đi đi lại lại trong phòng chờ của Bệnh viện Memorial Glendale suốt sáu tiếng đồng hồ khi cuối cùng bà Keller cũng gọi lại cho tôi.</p>
+<p class="p1">Tôi đã đi đi lại lại trong phòng chờ của Bệnh viện Memorial Glendale suốt sáu tiếng đồng hồ khi cuối cùng bà Keller cũng gọi lại cho tôi.</p>
 
 <p class="p">“Tôi nhận được tin nhắn của anh rồi,” bà ấy nói. Tôi nghe thấy tiếng người ở phía sau, tiếng đóng cửa xe cái rầm.</p>
 

@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch23">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch23">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Mười Sáu Tháng Trước</b></p>
+<p class="p-name text-center" align="center"><b>Mười Sáu Tháng Trước</b></p>
 
-<p class="p1"><span class="drop-2">H</span>ậu trường Nhà hát Fox[16] ở Detroit là một mê cung gồm những hành lang và cầu thang phủ đầy chữ ký của tất cả những ai từng vinh dự bước lên sân khấu này trong ba mươi năm qua. Theo yêu cầu nài nỉ của một trợ lý sản xuất đầy hào hứng, chúng tôi đã góp thêm chữ ký của mình vào bộ sưu tập ở cầu thang bằng bút lông đen Sharpie ngay bên cạnh dàn diễn viên của chương trình <i>Sesame Street Live!</i> Chỉ còn mười phút để “thư giãn” trước giờ biểu diễn chính thức.</p>
+<p class="p1">Hậu trường Nhà hát Fox[16] ở Detroit là một mê cung gồm những hành lang và cầu thang phủ đầy chữ ký của tất cả những ai từng vinh dự bước lên sân khấu này trong ba mươi năm qua. Theo yêu cầu nài nỉ của một trợ lý sản xuất đầy hào hứng, chúng tôi đã góp thêm chữ ký của mình vào bộ sưu tập ở cầu thang bằng bút lông đen Sharpie ngay bên cạnh dàn diễn viên của chương trình <i>Sesame Street Live!</i> Chỉ còn mười phút để “thư giãn” trước giờ biểu diễn chính thức.</p>
 
 <p class="p">Chúng tôi từng biểu diễn ở rất nhiều nơi tuyệt vời, nhưng Fox vẫn là đỉnh nhất. Đã tròn một trăm tuổi, khoác lên mình sự pha trộn xa hoa giữa các họa tiết phương Đông, cung điện điện ảnh này từng chứng kiến sự góp mặt của Aretha Franklin, Elvis Presley, Stevie Wonder, Diana Ross, Prince. Chúng tôi nào có xứng tầm, vậy mà chúng tôi vẫn bán sạch tất cả 5.174 chỗ ngồi. Đây chính là màn đại kết thúc cho chuyến lưu diễn của chúng tôi.</p>
 

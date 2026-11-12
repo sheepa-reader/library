@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Sáu</strong></p>
 
 <p class="para-en">Staring out from under my handsewn quilt, I wish for the thousandth time I hadn’t visited the doctor. I wish I could go back and unlearn that Xander is dead. Wish I could unsee that tiny sac.</p>
-<p class="para-vi-sub"><span class="drop-2">N</span>ằm nhìn ra từ dưới tấm chăn do chính tay tôi khâu, tôi ước ao lần thứ một nghìn rằng mình đã không đến gặp bác sĩ. Tôi ước gì mình có thể quay ngược thời gian và quên đi việc Xander đã qua đời. Ước gì mình không phải nhìn thấy cái túi thai bé xíu đó.</p>
+<p class="para-vi-sub">Nằm nhìn ra từ dưới tấm chăn do chính tay tôi khâu, tôi ước ao lần thứ một nghìn rằng mình đã không đến gặp bác sĩ. Tôi ước gì mình có thể quay ngược thời gian và quên đi việc Xander đã qua đời. Ước gì mình không phải nhìn thấy cái túi thai bé xíu đó.</p>
 
 <p class="para-en">Dr. Singler asked me to come back in two days. “Perhaps then we’ll have a better idea about how to proceed.”</p>
 <p class="para-vi-sub">Bác sĩ Singler yêu cầu tôi quay lại sau hai ngày nữa: “Có lẽ khi đó chúng ta sẽ có cái nhìn rõ hơn về cách tiến hành tiếp theo.”</p>

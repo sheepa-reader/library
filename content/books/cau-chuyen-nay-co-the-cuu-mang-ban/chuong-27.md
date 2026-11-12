@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch27">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch27">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Chín Tháng Trước</b></p>
+<p class="p-name text-center" align="center"><b>Chín Tháng Trước</b></p>
 
-<p class="p1"><span class="drop-2">C</span>ác bài đăng trực tuyến vẫn tiếp tục xuất hiện đều đặn trong suốt dịp nghỉ lễ, kèm theo những bức ảnh chụp tôi ở nhà hàng, trong tiệm tạp hóa, và trên những chuyến xe cùng Xander trên chiếc xe cổ MG đời 1964 của anh ấy. Bạn có biết cảm giác tự ý thức râm ran mỗi khi bị theo dõi không? Tôi đã cảm nhận được điều đó liên tục. Kẻ bám đuôi tôi, lúc này tôi cũng đã quen dùng từ đó, biến mất ở mọi nơi và xuất hiện ở khắp mọi nơi. Chúng tôi đã ghi lại tài liệu, chặn và báo cáo, nhưng hắn vẫn không bao giờ chùn bước mà quay lại. Điều khiến chúng tôi lo lắng nhất chính là sự tập trung kiên định của hắn.</p>
+<p class="p1">Các bài đăng trực tuyến vẫn tiếp tục xuất hiện đều đặn trong suốt dịp nghỉ lễ, kèm theo những bức ảnh chụp tôi ở nhà hàng, trong tiệm tạp hóa, và trên những chuyến xe cùng Xander trên chiếc xe cổ MG đời 1964 của anh ấy. Bạn có biết cảm giác tự ý thức râm ran mỗi khi bị theo dõi không? Tôi đã cảm nhận được điều đó liên tục. Kẻ bám đuôi tôi, lúc này tôi cũng đã quen dùng từ đó, biến mất ở mọi nơi và xuất hiện ở khắp mọi nơi. Chúng tôi đã ghi lại tài liệu, chặn và báo cáo, nhưng hắn vẫn không bao giờ chùn bước mà quay lại. Điều khiến chúng tôi lo lắng nhất chính là sự tập trung kiên định của hắn.</p>
 
 <p class="p">Tôi chìm đắm trong những suy nghĩ đó đến mức suýt không nghe thấy những gì Benny nói khi cậu ấy ngồi xuống để chuẩn bị cho buổi thu âm đầu tháng Giêng: “Cậu… tớ xin lỗi, gì cơ? Cậu vừa nói gì thế?”</p>
 

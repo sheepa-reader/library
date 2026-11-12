@@ -5,7 +5,7 @@
 <p class="para-vi-sub"><strong>Ngày Thứ Hai</strong></p>
 
 <p class="para-en">“Do you have news?” I ask, gaze shifting rapidly between Keller and Price.</p>
-<p class="para-vi-sub"><span class="drop-2">“C</span>ác anh chị có tin tức gì chưa?” Tôi hỏi, ánh mắt đảo nhanh giữa Keller và Price.</p>
+<p class="para-vi-sub">“Các anh chị có tin tức gì chưa?” Tôi hỏi, ánh mắt đảo nhanh giữa Keller và Price.</p>
 
 <p class="para-en">“Not what you’re hoping for,” Keller says. “All right if we come in?”</p>
 <p class="para-vi-sub">“Không phải điều anh đang hy vọng đâu,” Keller nói. “Chúng tôi vào nhà được chứ?”</p>

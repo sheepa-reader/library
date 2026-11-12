@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch10">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch10">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Đầu Tiên</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Đầu Tiên</b></p>
 
-<p class="p1"><span class="drop-2">J</span>oy được nhìn thấy ở cửa hàng Nordstrom tại khu The Grove. Ở nhà ga Delta tại sân bay LAX. Cô ấy và Xander đang đánh bạc ở Las Vegas tối qua. Có phải là cô ấy ở siêu thị Walmart tại Bakersfield không? Xander có đổi kiểu tóc không? Joy có biết bơi không? Bởi vì rất có thể đó là cô ấy trên một chiếc thuyền ở bến du thuyền Long Beach. Cô ấy và Xander đang ở New York, Tennessee, Arizona, New Mexico, Algiers, Amsterdam, Sydney và Thành phố Mexico.</p>
+<p class="p1">Joy được nhìn thấy ở cửa hàng Nordstrom tại khu The Grove. Ở nhà ga Delta tại sân bay LAX. Cô ấy và Xander đang đánh bạc ở Las Vegas tối qua. Có phải là cô ấy ở siêu thị Walmart tại Bakersfield không? Xander có đổi kiểu tóc không? Joy có biết bơi không? Bởi vì rất có thể đó là cô ấy trên một chiếc thuyền ở bến du thuyền Long Beach. Cô ấy và Xander đang ở New York, Tennessee, Arizona, New Mexico, Algiers, Amsterdam, Sydney và Thành phố Mexico.</p>
 
 <p class="p">“Có lẽ đây là một ý tồi,” tôi nói và tiếp tục cuộn màn hình. Cũng có cả những lời chia buồn. Nhiều người đã vội nghĩ đến tình huống xấu nhất. Cầu nguyện, gửi năng lượng tích cực và những lời chúc tốt đẹp. Có những nhà ngoại cảm đang đưa ra lời tiên tri, và những người khác chỉ cung cấp thông tin nếu được trả phí. Vài chục người hâm mộ đã đề nghị lập một đội tìm kiếm.</p>
 

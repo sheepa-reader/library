@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch41">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch41">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Sáu</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Sáu</b></p>
 
-<p class="p1"><span class="drop-2">N</span>ằm nhìn ra từ dưới tấm chăn do chính tay tôi khâu, tôi ước ao lần thứ một nghìn rằng mình đã không đến gặp bác sĩ. Tôi ước gì mình có thể quay ngược thời gian và quên đi việc Xander đã qua đời. Ước gì mình không phải nhìn thấy cái túi thai bé xíu đó.</p>
+<p class="p1">Nằm nhìn ra từ dưới tấm chăn do chính tay tôi khâu, tôi ước ao lần thứ một nghìn rằng mình đã không đến gặp bác sĩ. Tôi ước gì mình có thể quay ngược thời gian và quên đi việc Xander đã qua đời. Ước gì mình không phải nhìn thấy cái túi thai bé xíu đó.</p>
 
 <p class="p">Bác sĩ Singler yêu cầu tôi quay lại sau hai ngày nữa: “Có lẽ khi đó chúng ta sẽ có cái nhìn rõ hơn về cách tiến hành tiếp theo.”</p>
 

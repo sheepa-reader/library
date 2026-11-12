@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch35">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch35">Joy Moore</h2>
 
-<p class="p-name"><b>Ngày Thứ Năm</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Năm</b></p>
 
-<p class="p1"><span class="drop-2">P</span>hòng tôi tối om, chỉ có chút ánh sáng leo lắt từ vầng trăng lặn hắt qua khe cửa chớp. Suy nghĩ trọn vẹn đầu tiên khi tôi thức dậy là tôi cần phải tưới cây. Tôi không thể nhớ nổi lần cuối cùng mình tưới chúng là khi nào.</p>
+<p class="p1">Phòng tôi tối om, chỉ có chút ánh sáng leo lắt từ vầng trăng lặn hắt qua khe cửa chớp. Suy nghĩ trọn vẹn đầu tiên khi tôi thức dậy là tôi cần phải tưới cây. Tôi không thể nhớ nổi lần cuối cùng mình tưới chúng là khi nào.</p>
 
 <p class="p">Và rồi tôi nhớ ra Xander đã chết. Chồng tôi đã chết. Tôi có thể xử lý những từ ngữ đó, nhưng tôi không dám tin vào ý nghĩa của chúng. Việc Xander chết giống như mặt trăng biến mất khỏi bầu trời. Đầu tôi đau nhức khi cố gắng hiểu rõ sự việc. Rừng Quốc gia Angeles? Nghi án có dấu hiệu tội phạm? Giống như phần lớn cuộc đời tôi kể từ tuổi thiếu niên, câu chuyện này cũng đầy rẫy những khoảng trống lớn.</p>
 

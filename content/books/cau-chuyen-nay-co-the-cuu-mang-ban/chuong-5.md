@@ -1,10 +1,10 @@
-<h2 class="h2-1" id="ch5">Joy Moore</h2>
+<h2 class="h2-1 text-center" align="center" id="ch5">Joy Moore</h2>
 
-<p class="p0"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
+<p class="p0 text-center" align="center"><span class="h-name-1"><b>TRÍCH ĐOẠN TỪ HỒI KÝ VIẾT CHUNG CHƯA ĐẶT TÊN VỚI BENNY ABBOTT</b></span></p>
 
-<p class="p-name"><b>Mười Ba Năm Trước</b></p>
+<p class="p-name text-center" align="center"><b>Mười Ba Năm Trước</b></p>
 
-<p class="p1"><span class="drop-2">N</span>hững điều tôi không biết về Los Angeles khi mới chuyển đến đây:</p>
+<p class="p1">Những điều tôi không biết về Los Angeles khi mới chuyển đến đây:</p>
 
 <p class="p">Phương tiện giao thông công cộng rất tệ. Có rất nhiều diễn viên chật vật tìm chỗ đứng đúng như lời đồn. Việc khoe quen biết người nổi tiếng diễn ra theo một cách kỳ lạ. Nơi đây có mật độ nghệ sĩ và sức sáng tạo tính trên đầu người cao hơn một thành phố bình thường. Nơi đây có mật độ cái đẹp tính trên đầu người cao hơn một thành phố bình thường. Bạn có thể kiếm hơn hai trăm nghìn đô một năm mà vẫn không đủ khả năng mua một căn nhà. Tranh graffiti xuất hiện khắp nơi, cũng giống như những hàng cây cọ thường rụng lá mỗi khi gió thổi. Nơi này thường xuyên có gió. Giao thông tồi tệ đúng như mọi người vẫn nói. Các buổi hòa nhạc tại Hollywood Bowl rất đẹp, và những bản giao hưởng tại Walt Disney Concert Hall cũng vậy. Bạn có thể kiếm hơn ba trăm nghìn đô một năm mà vẫn không đủ khả năng mua một căn nhà. Nếu không sống gần biển, mùa hè có thể rất nóng. Bờ biển Thái Bình Dương rất đẹp. Trời rất hiếm khi mưa. Mọi người thực sự thích việc trời hiếm khi mưa. Khi trời thực sự mưa, nước trút xuống như trong Kinh Thánh, kéo theo sạt lở đất, lũ lụt và những màn giải cứu chó tại sông Los Angeles. Kèm theo đó là các vụ tai nạn, vì người dân Angelenos không biết cách lái xe dưới mưa để giữ mạng cho mình. Đường phố thường xuyên bị chặn lại để quay phim. Đỗ xe trên phố là một cơn ác mộng. Ô tô là biểu tượng của địa vị. Mọi người hào hứng bàn chuyện chính trị. Cây cối rụng lá vào tháng Mười Hai và nở hoa vào tháng Giêng. Chỉ có vài tuyến đường đi bộ có đủ bóng râm. Bạn có thể kiếm hơn bốn trăm nghìn đô một năm mà vẫn không đủ khả năng mua một căn nhà “tử tế”. Những ngày chất lượng không khí kém xuất hiện thường xuyên. Nhờ các hạt bụi trong bầu không khí đó mà hoàng hôn trở nên rất đẹp. Tập thể dục tốt nhất là ở nơi công cộng: tập yoga ngoài công viên, tập tạ trong các phòng gym có tường kính, đạp xe trên bãi biển, chạy bộ trên những con đường bụi bặm. Taco đường phố rất ngon. Lễ hội Halloween ở Tây Hollywood không có đối thủ. Động đất hiếm khi xảy ra. Mùa cháy rừng rất đáng sợ. Việc bắt gặp người nổi tiếng là chuyện thường ngày. Sân bay LAX là một thảm họa. Và nếu bạn đi xem hòa nhạc một mình, rất có thể bạn sẽ gặp được tri kỷ của đời mình.</p>
 

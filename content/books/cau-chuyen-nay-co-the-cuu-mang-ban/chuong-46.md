@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch46">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch46">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">C</span>ơ thể tôi bùng nổ với lượng adrenaline tràn trề: “Em nói <i>cái gì</i> cơ?”</p>
+<p class="p1">Cơ thể tôi bùng nổ với lượng adrenaline tràn trề: “Em nói <i>cái gì</i> cơ?”</p>
 
 <p class="p">Sarah siết chặt tay Luna: “Chị ấy ổn chứ?”</p>
 

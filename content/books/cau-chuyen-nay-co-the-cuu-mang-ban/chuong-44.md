@@ -1,8 +1,8 @@
-<h2 class="h2-1" id="ch44">Benny Abbott</h2>
+<h2 class="h2-1 text-center" align="center" id="ch44">Benny Abbott</h2>
 
-<p class="p-name"><b>Ngày Thứ Bảy</b></p>
+<p class="p-name text-center" align="center"><b>Ngày Thứ Bảy</b></p>
 
-<p class="p1"><span class="drop-2">T</span>ôi lăn ra khỏi giường lúc bảy giờ rưỡi, chắc chắn rằng mình đã quên mất điều gì đó. Nó cứ bứt rứt trong đầu tôi khi tôi cố gắng dùng một tay để tẩy sạch mùi nhà giam quận, khi tôi pha một bình cà phê đậm đặc, và khi tôi lọc qua các email cùng tin nhắn. Và rồi, ngay khoảnh khắc tôi tải trang web của chúng tôi lên, mọi thứ lóe lên trong đầu.</p>
+<p class="p1">Tôi lăn ra khỏi giường lúc bảy giờ rưỡi, chắc chắn rằng mình đã quên mất điều gì đó. Nó cứ bứt rứt trong đầu tôi khi tôi cố gắng dùng một tay để tẩy sạch mùi nhà giam quận, khi tôi pha một bình cà phê đậm đặc, và khi tôi lọc qua các email cùng tin nhắn. Và rồi, ngay khoảnh khắc tôi tải trang web của chúng tôi lên, mọi thứ lóe lên trong đầu.</p>
 
 <p class="p">Sarah nhập hội cùng tôi khi tôi đang mở các tệp tin đã nhập vào tối qua. Vừa dụi bay cơn buồn ngủ khỏi mắt, con bé vừa lên tiếng: “Anh dậy sớm thế. Đang xem cái gì đấy?”</p>
 
