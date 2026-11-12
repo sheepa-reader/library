@@ -299,6 +299,13 @@
         openChangelogModal();
       });
     }
+
+    const pollBtn = document.getElementById('header-poll-btn');
+    if (pollBtn) {
+      pollBtn.addEventListener('click', () => {
+        openPollModal();
+      });
+    }
   }
 
   function updateViewToggleUI() {
@@ -993,7 +1000,7 @@
     if (headerTagSelect) {
       const hasSelected = allTags.includes(activeTagFilter);
       headerTagSelect.innerHTML = `
-        <option value="all">Tất cả thể loại</option>
+        <option value="all">Thể loại</option>
         ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
       `;
       headerTagSelect.value = hasSelected ? activeTagFilter : 'all';
@@ -2244,6 +2251,7 @@
   let bookPasscodesMap = {};
   let libraryTelegramUrl = 'https://t.me/thesheepa';
   let libraryFacebookUrl = 'https://www.facebook.com/apeehseht/';
+  let libraryPollApiUrl = '';
 
   async function loadLibrarySettings() {
     try {
@@ -2264,6 +2272,9 @@
         }
         if (data.facebookUrl) {
           libraryFacebookUrl = data.facebookUrl;
+        }
+        if (data.pollApiUrl) {
+          libraryPollApiUrl = data.pollApiUrl;
         }
       }
     } catch (e) {
@@ -3115,9 +3126,258 @@ modal.innerHTML = `
     }
   }
 
+  // --- BOOK TRANSLATION POLL & COMMUNITY WISHLIST MODAL ---
+  let cachedPollCandidates = null;
+
+  async function openPollModal() {
+    let overlay = document.getElementById('poll-modal-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.id = 'poll-modal-overlay';
+      overlay.className = 'modal-overlay';
+      document.body.appendChild(overlay);
+
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) closePollModal();
+      });
+    }
+
+    // Default Fallback Candidates
+    const defaultCandidates = [
+      {
+        id: 'hod-king',
+        title: 'The Hod King',
+        author: 'Josiah Bancroft',
+        desc: 'Tập 3 Tháp Babel — Cuộc hội ngộ đỉnh cao giữa Senlin và Sphinx trên chiến hạm bầu trời.',
+        votes: 48
+      },
+      {
+        id: 'piranesi',
+        title: 'Piranesi',
+        author: 'Susanna Clarke',
+        desc: 'Kiệt tác văn học kỳ ảo mê cung vô tận — Chiến thắng giải Women\'s Prize for Fiction.',
+        votes: 32
+      },
+      {
+        id: 'dark-matter',
+        title: 'Dark Matter',
+        author: 'Blake Crouch',
+        desc: 'Tiểu thuyết khoa học viễn tưởng đa vũ trụ ly kỳ của tác giả Vòng Lặp Ký Ức.',
+        votes: 25
+      }
+    ];
+
+    let candidates = cachedPollCandidates || defaultCandidates;
+
+    // Render Modal Structure
+    const renderModalContent = () => {
+      const totalVotes = candidates.reduce((sum, b) => sum + (b.votes || 0), 0) || 1;
+
+      overlay.innerHTML = `
+        <div class="modal-content poll-modal-content">
+          <div class="modal-header">
+            <div>
+              <h3>🗳️ Bình Chọn Sách Dịch Tiếp Theo</h3>
+              <p class="poll-header-desc">Hãy cùng Sheepa quyết định những tác phẩm hấp dẫn tiếp theo sẽ được lên sóng!</p>
+            </div>
+            <button class="icon-btn" id="btn-close-poll" style="width: 28px; height: 28px; font-size: 0.9rem;">✕</button>
+          </div>
+
+          <!-- Section 1: Candidate List -->
+          <div class="poll-section-title">
+            <span>📚 Các Ứng Viên Đang Bình Chọn</span>
+          </div>
+
+          <div class="poll-candidate-list" id="poll-candidate-list">
+            ${candidates.map(b => {
+              const hasVoted = localStorage.getItem(`sheepa_voted_${b.id}`) === 'true';
+              const percent = Math.round(((b.votes || 0) / totalVotes) * 100);
+              return `
+                <div class="poll-candidate-card" data-candidate-id="${escapeHtml(b.id)}">
+                  <div class="poll-candidate-top">
+                    <div>
+                      <div class="poll-candidate-title">${escapeHtml(b.title)}</div>
+                      <div class="poll-candidate-author">Tác giả: ${escapeHtml(b.author || 'Đang cập nhật')}</div>
+                    </div>
+                    <button class="poll-vote-btn ${hasVoted ? 'voted' : ''}" ${hasVoted ? 'disabled' : ''} data-vote-id="${escapeHtml(b.id)}">
+                      ${hasVoted ? '✓ Đã vote' : '🗳️ Bình chọn'}
+                    </button>
+                  </div>
+                  ${b.desc ? `<div class="poll-candidate-desc">${escapeHtml(b.desc)}</div>` : ''}
+                  <div class="poll-candidate-progress-wrap">
+                    <div class="poll-progress-bar">
+                      <div class="poll-progress-fill" style="width: ${percent}%;"></div>
+                    </div>
+                    <span class="poll-votes-text">${(b.votes || 0).toLocaleString('vi-VN')} phiếu (${percent}%)</span>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+
+          <!-- Section 2: Suggestion Form -->
+          <div class="poll-section-title" style="margin-top: 1.5rem;">
+            <span>✨ Bạn Muốn Đề Xuất Cuốn Sách Khác?</span>
+          </div>
+
+          <div class="poll-suggest-box">
+            <form id="poll-suggest-form" onsubmit="return false;">
+              <div class="poll-form-group">
+                <label class="poll-form-label" for="poll-reader-name">Tên bạn (không bắt buộc):</label>
+                <input type="text" id="poll-reader-name" class="poll-form-input" placeholder="Ví dụ: Cừu Đọc Sách, Ẩn danh..." autocomplete="name">
+              </div>
+
+              <div class="poll-form-group">
+                <label class="poll-form-label" for="poll-book-title">Tên sách & Tác giả muốn đề xuất <span style="color: #ef4444;">*</span>:</label>
+                <input type="text" id="poll-book-title" class="poll-form-input" placeholder="Ví dụ: Project Hail Mary - Andy Weir" required>
+              </div>
+
+              <div class="poll-form-group">
+                <label class="poll-form-label" for="poll-note">Lời nhắn hoặc lý do đề xuất (tùy chọn):</label>
+                <textarea id="poll-note" class="poll-form-textarea" placeholder="Chia sẻ cảm nhận của bạn về cuốn sách này..."></textarea>
+              </div>
+
+              <button type="submit" id="btn-poll-submit" class="poll-submit-btn">Gửi đề xuất cho Sheepa ✈</button>
+              <div id="poll-form-msg" class="poll-msg" style="display: none;"></div>
+            </form>
+          </div>
+        </div>
+      `;
+
+      // Bind close button
+      const closeBtn = document.getElementById('btn-close-poll');
+      if (closeBtn) closeBtn.addEventListener('click', closePollModal);
+
+      // Bind Vote Buttons
+      overlay.querySelectorAll('.poll-vote-btn:not(:disabled)').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const bookId = btn.getAttribute('data-vote-id');
+          if (!bookId) return;
+
+          localStorage.setItem(`sheepa_voted_${bookId}`, 'true');
+
+          const target = candidates.find(c => c.id === bookId);
+          if (target) {
+            target.votes = (target.votes || 0) + 1;
+          }
+
+          renderModalContent();
+
+          if (libraryPollApiUrl) {
+            fetch(libraryPollApiUrl, {
+              method: 'POST',
+              mode: 'no-cors',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ action: 'vote', bookId: bookId })
+            }).catch(() => {});
+          }
+        });
+      });
+
+      // Bind Suggest Form Submit
+      const suggestForm = document.getElementById('poll-suggest-form');
+      const submitBtn = document.getElementById('btn-poll-submit');
+      const msgEl = document.getElementById('poll-form-msg');
+
+      if (suggestForm) {
+        suggestForm.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          const readerName = (document.getElementById('poll-reader-name')?.value || '').trim() || 'Bạn đọc ẩn danh';
+          const bookTitle = (document.getElementById('poll-book-title')?.value || '').trim();
+          const note = (document.getElementById('poll-note')?.value || '').trim();
+
+          if (!bookTitle) {
+            if (msgEl) {
+              msgEl.className = 'poll-msg error';
+              msgEl.textContent = 'Vui lòng nhập tên cuốn sách bạn muốn đề xuất nhé!';
+              msgEl.style.display = 'block';
+            }
+            return;
+          }
+
+          if (submitBtn) {
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Đang gửi đề xuất...';
+          }
+
+          try {
+            if (libraryPollApiUrl) {
+              await fetch(libraryPollApiUrl, {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                  action: 'suggest',
+                  readerName: readerName,
+                  bookTitle: bookTitle,
+                  note: note
+                })
+              });
+            }
+
+            if (msgEl) {
+              msgEl.className = 'poll-msg success';
+              msgEl.textContent = '✨ Cảm ơn bạn! Đề xuất đã được gửi thẳng tới Sheepa.';
+              msgEl.style.display = 'block';
+            }
+            const bookInput = document.getElementById('poll-book-title');
+            const noteInput = document.getElementById('poll-note');
+            if (bookInput) bookInput.value = '';
+            if (noteInput) noteInput.value = '';
+
+            setTimeout(() => {
+              if (submitBtn) {
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Gửi đề xuất cho Sheepa ✈';
+              }
+            }, 3000);
+          } catch (err) {
+            if (msgEl) {
+              msgEl.className = 'poll-msg success';
+              msgEl.textContent = '✨ Cảm ơn bạn! Đề xuất đã được ghi nhận.';
+              msgEl.style.display = 'block';
+            }
+            if (submitBtn) {
+              submitBtn.disabled = false;
+              submitBtn.textContent = 'Gửi đề xuất cho Sheepa ✈';
+            }
+          }
+        });
+      }
+    };
+
+    renderModalContent();
+    overlay.classList.add('active');
+
+    // Fetch live candidates from Google Apps Script if URL is present
+    if (libraryPollApiUrl && !cachedPollCandidates) {
+      try {
+        const res = await fetch(libraryPollApiUrl);
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.success && Array.isArray(data.books) && data.books.length > 0) {
+            cachedPollCandidates = data.books;
+            candidates = cachedPollCandidates;
+            renderModalContent();
+          }
+        }
+      } catch (e) {
+        // Fallback to default
+      }
+    }
+  }
+
+  function closePollModal() {
+    const overlay = document.getElementById('poll-modal-overlay');
+    if (overlay) {
+      overlay.classList.remove('active');
+    }
+  }
+
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       closeChangelogModal();
+      closePollModal();
     }
   });
 

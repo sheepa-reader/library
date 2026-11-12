@@ -43,5 +43,6 @@
 	 "cau-lac-bo-tai-uong": "club"
   },
   "telegramUrl": "https://t.me/thesheepa",
-  "facebookUrl": "https://www.facebook.com/apeehseht/"
+  "facebookUrl": "https://www.facebook.com/apeehseht/",
+  "pollApiUrl": ""
 }
