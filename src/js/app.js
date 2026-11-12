@@ -1000,7 +1000,7 @@
     if (headerTagSelect) {
       const hasSelected = allTags.includes(activeTagFilter);
       headerTagSelect.innerHTML = `
-        <option value="all">Thể loại</option>
+        <option value="all">Tất cả</option>
         ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
       `;
       headerTagSelect.value = hasSelected ? activeTagFilter : 'all';
