@@ -1418,7 +1418,8 @@
         "id": "chuong-3",
         "title": "THUỞ BAN ĐẦU, ĐÃ CÓ RAP",
         "part": "",
-        "path": "content/books/mr-yay/chuong-3.md"
+        "path": "content/books/mr-yay/chuong-3.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-4",
