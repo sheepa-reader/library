@@ -1,0 +1,44 @@
+[
+  {
+    "id": "the-hod-king",
+    "title": "The Hod King (Vua Phu Kiệu)",
+    "author": "Josiah Bancroft",
+    "cover": "content/books/canh-tay-nhan-su/cover.jpg",
+    "category": "Kỳ ảo, Phiêu lưu",
+    "status": "bien_tap",
+    "progress": 92,
+    "currentChapter": "50/54 chương (Đang soát lỗi & hiệu đính)",
+    "targetDate": "2026-11-28",
+    "note": "Tập 3 của bộ Biên Niên Sử Tháp Babel — Cuộc hội ngộ đỉnh cao giữa Senlin và Sphinx trên chiến hạm bầu trời.",
+    "heartCount": 142,
+    "active": true
+  },
+  {
+    "id": "piranesi",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "cover": "content/books/cau-lac-bo-tai-uong/cover.jpg",
+    "category": "Kỳ ảo, Bí ẩn",
+    "status": "dang_dich",
+    "progress": 55,
+    "currentChapter": "18/32 mục nhật ký (Đang dịch Phần IV)",
+    "targetDate": "2026-12-15",
+    "note": "Kiệt tác văn học kỳ ảo mê cung vô tận — Chiêm ngưỡng vẻ đẹp và nỗi cô độc tuyệt đối.",
+    "heartCount": 89,
+    "active": true
+  },
+  {
+    "id": "dark-matter",
+    "title": "Dark Matter (Vật Chất Tối)",
+    "author": "Blake Crouch",
+    "cover": "content/books/vong-lap-ky-uc/cover.jpg",
+    "category": "Khoa học viễn tưởng, Giật gân",
+    "status": "sap_trien_khai",
+    "progress": 0,
+    "currentChapter": "Chuẩn bị bản dịch gốc & dàn trang",
+    "targetDate": "2027-01-05",
+    "note": "Tiểu thuyết khoa học viễn tưởng đa vũ trụ xuất sắc cùng tác giả với Vòng Lặp Ký Ức (Recursion).",
+    "heartCount": 115,
+    "active": true
+  }
+]

@@ -25,7 +25,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=45">
+  <link rel="stylesheet" href="src/css/style.css?v=46">
 </head>
 <body>
 
@@ -53,20 +53,11 @@
           </select>
         </div>
 
-        <!-- Status Filter Dropdown -->
-        <div class="header-filter-wrapper" title="Lọc theo trạng thái">
-          <img src="public/icons/glyph_09_quill_inkwell.png" alt="Trạng thái" class="header-filter-icon">
-          <span id="header-status-filter-label" class="header-filter-label">Trạng thái</span>
-          <svg class="header-filter-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none">
-            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <select id="header-status-filter" class="header-filter-select" aria-label="Lọc theo trạng thái">
-            <option value="all">Tất cả</option>
-            <option value="completed">Hoàn thành</option>
-            <option value="ongoing">Đang dịch</option>
-            <option value="new">Dự án mới</option>
-          </select>
-        </div>
+        <!-- Translation Progress Button -->
+        <button id="header-progress-btn" class="header-action-pill-btn" aria-label="Tiến độ dịch & Kế hoạch sách" title="Xem tiến độ dịch thuật & kế hoạch sách mới">
+          <img src="public/icons/glyph_sheep_glasses_write.png" alt="Tiến độ" class="header-action-pill-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
+          <span class="header-action-pill-label">Tiến độ</span>
+        </button>
 
         <!-- Book Translation Poll / Wishlist Button -->
         <button id="header-poll-btn" class="header-icon-btn header-poll-btn" aria-label="Bình chọn sách dịch" title="Bình chọn cuốn sách dịch tiếp theo & Gửi đề xuất">
@@ -154,6 +145,6 @@
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=54"></script>
+  <script src="src/js/app.js?v=55"></script>
 </body>
 </html>

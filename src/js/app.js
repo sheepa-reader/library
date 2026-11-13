@@ -341,6 +341,13 @@
         openPollModal();
       });
     }
+
+    const progressBtn = document.getElementById('header-progress-btn');
+    if (progressBtn) {
+      progressBtn.addEventListener('click', () => {
+        openProgressModal();
+      });
+    }
   }
 
   function updateViewToggleUI() {
@@ -2354,6 +2361,7 @@
         if (data.pollApiUrl) {
           libraryPollApiUrl = data.pollApiUrl;
           fetchPollCandidates();
+          fetchProgressProjects();
         }
       }
     } catch (e) {
@@ -3228,12 +3236,21 @@ modal.innerHTML = `
       const res = await fetch(cacheBustUrl);
       if (res.ok) {
         const data = await res.json();
-        if (data && data.success && Array.isArray(data.books)) {
-          cachedPollCandidates = data.books;
-          try {
-            localStorage.setItem('sheepa_cached_poll_candidates', JSON.stringify(data.books));
-          } catch (e) {}
-          updatePollCandidateListUI();
+        if (data && data.success) {
+          if (Array.isArray(data.books)) {
+            cachedPollCandidates = data.books;
+            try {
+              localStorage.setItem('sheepa_cached_poll_candidates', JSON.stringify(data.books));
+            } catch (e) {}
+            updatePollCandidateListUI();
+          }
+          if (Array.isArray(data.progress)) {
+            cachedProgressProjects = data.progress;
+            try {
+              localStorage.setItem('sheepa_cached_projects', JSON.stringify(data.progress));
+            } catch (e) {}
+            updateProgressModalListUI();
+          }
         }
       }
     } catch (e) {
@@ -3542,10 +3559,373 @@ modal.innerHTML = `
     }
   }
 
+  // --- TRANSLATION PROGRESS & UPCOMING PROJECTS MODAL ---
+  let cachedProgressProjects = null;
+  let isFetchingProgressProjects = false;
+  let activeProgressTab = 'all'; // 'all' | 'bien_tap' | 'dang_dich' | 'sap_trien_khai'
+
+  async function loadProgressProjects() {
+    if (cachedProgressProjects && cachedProgressProjects.length > 0) {
+      return cachedProgressProjects;
+    }
+
+    try {
+      const saved = localStorage.getItem('sheepa_cached_projects');
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          cachedProgressProjects = parsed;
+        }
+      }
+    } catch (e) {}
+
+    if (!cachedProgressProjects) {
+      try {
+        const res = await fetch('data/projects.json?v=' + Date.now());
+        if (res.ok) {
+          const list = await res.json();
+          if (Array.isArray(list)) {
+            cachedProgressProjects = list;
+          }
+        }
+      } catch (e) {}
+    }
+
+    if (libraryPollApiUrl) {
+      fetchProgressProjects();
+    }
+
+    return cachedProgressProjects || [];
+  }
+
+  async function fetchProgressProjects() {
+    if (!libraryPollApiUrl || isFetchingProgressProjects) return;
+    isFetchingProgressProjects = true;
+    try {
+      const cacheBustUrl = libraryPollApiUrl + (libraryPollApiUrl.includes('?') ? '&' : '?') + 'action=progress&t=' + Date.now();
+      const res = await fetch(cacheBustUrl);
+      if (res.ok) {
+        const data = await res.json();
+        const list = data.progress || (Array.isArray(data) ? data : null);
+        if (Array.isArray(list) && list.length > 0) {
+          cachedProgressProjects = list;
+          try {
+            localStorage.setItem('sheepa_cached_projects', JSON.stringify(list));
+          } catch (e) {}
+          updateProgressModalListUI();
+        }
+      }
+    } catch (e) {
+      // ignore
+    } finally {
+      isFetchingProgressProjects = false;
+    }
+  }
+
+  function formatProjectDate(dateStr) {
+    if (!dateStr) return 'Đang cập nhật';
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+      const parts = dateStr.split('-');
+      return `${parts[2]}/${parts[1]}/${parts[0]}`;
+    }
+    return dateStr;
+  }
+
+  function calculateCountdown(dateStr) {
+    if (!dateStr) return null;
+    let target;
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+      target = new Date(dateStr + 'T00:00:00');
+    } else if (/^\d{1,2}\/\d{1,2}\/\d{4}$/.test(dateStr)) {
+      const parts = dateStr.split('/');
+      target = new Date(`${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}T00:00:00`);
+    } else {
+      target = new Date(dateStr);
+    }
+
+    if (isNaN(target.getTime())) return null;
+
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const diffTime = target.getTime() - today.getTime();
+    const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+    if (diffDays > 0) {
+      return { days: diffDays, text: `Còn ${diffDays} ngày nữa` };
+    } else if (diffDays === 0) {
+      return { days: 0, text: `Khởi động hôm nay!` };
+    } else {
+      return { days: diffDays, text: `Sắp triển khai` };
+    }
+  }
+
+  function renderProgressCards(projects) {
+    if (!projects || projects.length === 0) {
+      return `
+        <div class="progress-empty-state">
+          <img src="public/icons/glyph_01_sheep_reading.png" alt="Sheepa" class="progress-empty-icon" onerror="this.src='public/icons/01_sheep_reading.png'">
+          <div class="progress-empty-title">Chưa có dự án nào trong mục này</div>
+          <p style="margin: 0; font-size: 0.85rem;">Sheepa đang chăm chỉ chuẩn bị các kế hoạch dịch thuật tiếp theo!</p>
+        </div>
+      `;
+    }
+
+    return projects.map(item => {
+      const status = item.status || 'dang_dich';
+      const progress = typeof item.progress === 'number' ? Math.max(0, Math.min(100, item.progress)) : 0;
+      const targetDateFormatted = formatProjectDate(item.targetDate);
+      const countdown = calculateCountdown(item.targetDate);
+
+      const storageKey = `sheepa_project_heart_${item.id}`;
+      const isHearted = localStorage.getItem(storageKey) === 'true';
+      const hearts = (item.heartCount || 0) + (isHearted ? 1 : 0);
+
+      let badgeHtml = '';
+      if (status === 'bien_tap') {
+        badgeHtml = `<span class="progress-badge badge-editing">✒️ Đang biên tập</span>`;
+      } else if (status === 'dang_dich') {
+        badgeHtml = `<span class="progress-badge badge-translating">📖 Đang dịch</span>`;
+      } else {
+        badgeHtml = `<span class="progress-badge badge-upcoming">⏳ Sắp triển khai</span>`;
+      }
+
+      let progressOrUpcomingHtml = '';
+      if (status === 'sap_trien_khai') {
+        progressOrUpcomingHtml = `
+          <div class="progress-upcoming-box">
+            <div class="progress-upcoming-top">
+              <div class="progress-date-pill">
+                <span>📅</span>
+                <span>Dự kiến triển khai: <strong>${targetDateFormatted}</strong></span>
+              </div>
+              ${countdown ? `
+                <div class="progress-countdown-pill" title="Thời gian dự kiến">
+                  <span>⏱️</span>
+                  <span>${countdown.text}</span>
+                </div>
+              ` : ''}
+            </div>
+            <div class="progress-upcoming-desc">
+              <span>✨</span>
+              <span>${escapeHtml(item.currentChapter || 'Đang chuẩn bị bản dịch gốc & dàn trang')}</span>
+            </div>
+          </div>
+        `;
+      } else {
+        progressOrUpcomingHtml = `
+          <div class="progress-meter-wrap">
+            <div class="progress-meter-header">
+              <span class="progress-meter-chapter">
+                <span>📝</span>
+                <span>${escapeHtml(item.currentChapter || `${progress}% hoàn thành`)}</span>
+              </span>
+              <span class="progress-meter-pct">${progress}%</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-bar-fill ${status === 'bien_tap' ? 'badge-editing-fill' : ''}" style="width: ${progress}%;"></div>
+            </div>
+          </div>
+          <div class="progress-date-row">
+            <div class="progress-date-pill">
+              <span>📅</span>
+              <span>Dự kiến ra mắt: <strong>${targetDateFormatted}</strong></span>
+            </div>
+          </div>
+        `;
+      }
+
+      return `
+        <div class="progress-project-card" data-project-id="${escapeHtml(item.id)}">
+          <div class="progress-card-cover-wrap">
+            <img src="${escapeHtml(item.cover || 'public/assets/cuu-logo.png')}" alt="${escapeHtml(item.title)}" class="progress-card-cover" onerror="this.src='public/assets/cuu-logo.png'">
+          </div>
+          <div class="progress-card-main">
+            <div class="progress-card-badges">
+              ${badgeHtml}
+              ${item.category ? `<span class="progress-category-tag">${escapeHtml(item.category)}</span>` : ''}
+            </div>
+            <h4 class="progress-book-title">${escapeHtml(item.title)}</h4>
+            <div class="progress-book-author">${escapeHtml(item.author || 'Đang cập nhật')}</div>
+
+            ${progressOrUpcomingHtml}
+
+            ${item.note ? `
+              <div class="progress-note-box">
+                <div class="progress-note-header">
+                  <span>💬</span>
+                  <span>Lời nhắn Sheepa:</span>
+                </div>
+                <p class="progress-note-text">${escapeHtml(item.note)}</p>
+              </div>
+            ` : ''}
+
+            <div class="progress-card-footer">
+              <button class="progress-heart-btn ${isHearted ? 'hearted' : ''}" data-project-id="${escapeHtml(item.id)}" title="${isHearted ? 'Bỏ theo dõi/hóng' : 'Thả tim hóng sách'}">
+                <svg width="15" height="15" viewBox="0 0 24 24">
+                  <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+                </svg>
+                <span class="heart-label">${isHearted ? 'Đã hóng' : 'Hóng sách'}</span>
+                <span class="heart-count">(${hearts})</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function updateProgressModalListUI() {
+    const listEl = document.getElementById('progress-projects-list');
+    if (!listEl) return;
+
+    const allProjects = (cachedProgressProjects || []).filter(p => p.active !== false && p.active !== 'FALSE');
+    let filtered = allProjects;
+    if (activeProgressTab !== 'all') {
+      filtered = allProjects.filter(p => p.status === activeProgressTab);
+    }
+
+    listEl.innerHTML = renderProgressCards(filtered);
+    bindProgressHeartButtons();
+  }
+
+  function bindProgressHeartButtons() {
+    const listEl = document.getElementById('progress-projects-list');
+    if (!listEl) return;
+
+    listEl.querySelectorAll('.progress-heart-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const projectId = btn.dataset.projectId;
+        if (!projectId) return;
+
+        const storageKey = `sheepa_project_heart_${projectId}`;
+        const isHearted = localStorage.getItem(storageKey) === 'true';
+        const newHearted = !isHearted;
+
+        if (newHearted) {
+          localStorage.setItem(storageKey, 'true');
+        } else {
+          localStorage.removeItem(storageKey);
+        }
+
+        updateProgressModalListUI();
+
+        if (libraryPollApiUrl && newHearted) {
+          fetch(libraryPollApiUrl, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: 'heart', projectId: projectId })
+          }).catch(() => {});
+        }
+      });
+    });
+  }
+
+  async function openProgressModal() {
+    let overlay = document.getElementById('progress-modal-overlay');
+    if (!overlay) {
+      overlay = document.createElement('div');
+      overlay.id = 'progress-modal-overlay';
+      overlay.className = 'modal-overlay';
+      document.body.appendChild(overlay);
+
+      overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) closeProgressModal();
+      });
+    }
+
+    const projects = await loadProgressProjects();
+    const activeProjects = projects.filter(p => p.active !== false && p.active !== 'FALSE');
+
+    const totalCount = activeProjects.length;
+    const editingCount = activeProjects.filter(p => p.status === 'bien_tap').length;
+    const translatingCount = activeProjects.filter(p => p.status === 'dang_dich').length;
+    const upcomingCount = activeProjects.filter(p => p.status === 'sap_trien_khai').length;
+
+    let filtered = activeProjects;
+    if (activeProgressTab !== 'all') {
+      filtered = activeProjects.filter(p => p.status === activeProgressTab);
+    }
+
+    overlay.innerHTML = `
+      <div class="progress-modal-content">
+        <div class="progress-modal-header">
+          <div class="progress-header-title-group">
+            <img src="public/icons/glyph_sheep_glasses_write.png" alt="Tiến độ dịch" class="progress-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
+            <div>
+              <h3 class="progress-main-title">Tiến Độ Dịch & Kế Hoạch Sách</h3>
+              <p class="progress-header-desc">Tiến trình dịch thuật, biên tập và thời gian dự kiến ra mắt sách mới</p>
+            </div>
+          </div>
+          <button class="icon-btn" id="btn-close-progress" aria-label="Đóng" title="Đóng" style="width: 32px; height: 32px;">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <div class="progress-tabs-container">
+          <button class="progress-tab-btn ${activeProgressTab === 'all' ? 'active' : ''}" data-tab="all">
+            <span>Tất cả</span>
+            <span class="progress-tab-count">${totalCount}</span>
+          </button>
+          <button class="progress-tab-btn ${activeProgressTab === 'bien_tap' ? 'active' : ''}" data-tab="bien_tap">
+            <span>✒️ Đang biên tập</span>
+            <span class="progress-tab-count">${editingCount}</span>
+          </button>
+          <button class="progress-tab-btn ${activeProgressTab === 'dang_dich' ? 'active' : ''}" data-tab="dang_dich">
+            <span>📖 Đang dịch</span>
+            <span class="progress-tab-count">${translatingCount}</span>
+          </button>
+          <button class="progress-tab-btn ${activeProgressTab === 'sap_trien_khai' ? 'active' : ''}" data-tab="sap_trien_khai">
+            <span>⏳ Sắp triển khai</span>
+            <span class="progress-tab-count">${upcomingCount}</span>
+          </button>
+        </div>
+
+        <div class="progress-list-container" id="progress-projects-list">
+          ${renderProgressCards(filtered)}
+        </div>
+      </div>
+    `;
+
+    const closeBtn = document.getElementById('btn-close-progress');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeProgressModal);
+    }
+
+    overlay.querySelectorAll('.progress-tab-btn').forEach(tabBtn => {
+      tabBtn.addEventListener('click', () => {
+        activeProgressTab = tabBtn.dataset.tab;
+        overlay.querySelectorAll('.progress-tab-btn').forEach(b => b.classList.remove('active'));
+        tabBtn.classList.add('active');
+        updateProgressModalListUI();
+      });
+    });
+
+    bindProgressHeartButtons();
+
+    overlay.classList.add('active');
+
+    if (libraryPollApiUrl) {
+      fetchProgressProjects();
+    }
+  }
+
+  function closeProgressModal() {
+    const overlay = document.getElementById('progress-modal-overlay');
+    if (overlay) {
+      overlay.classList.remove('active');
+    }
+  }
+
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       closeChangelogModal();
       closePollModal();
+      closeProgressModal();
     }
   });
 
@@ -3655,7 +4035,7 @@ modal.innerHTML = `
     initHeaderControls();
     initQuoteEvents();
     initFooterStats();
-    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData()]);
+    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
