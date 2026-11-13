@@ -61,7 +61,7 @@
       "Giật gân",
       "Hành động"
     ],
-    "bio": "Nhà văn khoa học viễn tưởng - giật gân lừng danh thế giới, người đứng sau các kiệt tác hiện đại như Recursion (Vòng Lặp Ký Ức), Dark Matter (Người Chạy Xuyên Không Gian) và bộ ba Wayward Pines. Tác phẩm của ông luôn cuốn hút độc giả bằng nhịp độ dồn dập, các giả thuyết khoa học sắc bén và chiều sâu cảm xúc nhân văn.",
+    "bio": "Nhà văn khoa học viễn tưởng - giật gân lừng danh thế giới, người đứng sau các kiệt tác hiện đại như Recursion (Vòng Lặp Ký Ức), Dark Matter (Người Về Từ Hư Vô) và bộ ba Wayward Pines. Tác phẩm của ông luôn cuốn hút độc giả bằng nhịp độ dồn dập, các giả thuyết khoa học sắc bén và chiều sâu cảm xúc nhân văn.",
     "avatar": "public/authors/blake-crouch.jpg"
   },
   {
@@ -141,5 +141,19 @@
     ],
     "bio": "Nhà văn Mỹ gốc Mississippi, tác giả của hiện tượng văn học toàn cầu The Help (Người Giúp Việc) đã bán ra hơn 10 triệu bản và chuyển thể thành bộ phim đoạt giải Oscar. Năm 2024, bà trở lại đầy ấn tượng với Câu Lạc Bộ Tai Ương (The Calamity Club), một tác phẩm đào sâu vào lịch sử, phong trào ưu sinh và sức mạnh kiên cường của những người phụ nữ yếu thế.",
     "avatar": "public/authors/kathryn-stockett.jpg"
+  },
+  {
+    "id": "tiffany-crum",
+    "name": "Tiffany Crum",
+    "country": "Hoa Kỳ",
+    "birthYear": "",
+    "genres": [
+      "Giật Gân",
+      "Lãng Mạn",
+      "Bí Ẩn",
+      "Tâm Lý"
+    ],
+    "bio": "Tiffany Crum lớn lên trong một trang trại sữa nằm sát một nhà tù an ninh tối đa. Từng có nhiều năm sinh sống tại California và làm việc trong ngành công nghiệp điện ảnh trước khi nhận bằng Thạc sĩ Nghệ thuật (MFA) về sáng tác văn học. Hiện cô sống tại Atlanta cùng gia đình. Câu Chuyện Này Có Thể Cứu Mạng Bạn (This Story Might Save Your Life) là cuốn tiểu thuyết đầu tay đầy kịch tính và thành công rực rỡ của cô.",
+    "avatar": "public/authors/tiffany-crum.jpg"
   }
 ]
