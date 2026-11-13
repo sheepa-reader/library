@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261113-01",
+    "timestamp": "2026-11-13T11:20:00+07:00",
+    "bookId": "toi-nguoi-chua-tung-biet-toi-dan-ong",
+    "bookTitle": "Tôi, Người Chưa Từng Biết Tới Đàn Ông",
+    "type": "new_release",
+    "typeName": "Đăng tải sách mới",
+    "badgeClass": "badge-release",
+    "title": "Phát hành trọn bộ Tôi, Người Chưa Từng Biết Tới Đàn Ông (Jacqueline Harpman)",
+    "description": "Đồng bộ hoàn chỉnh 3 phần tiểu thuyết cùng Lời Giới Thiệu (Sophie Mackintosh) và Về Tác Giả từ bản dịch tiếng Việt biên tập sang bản song ngữ Anh - Việt (đối soát 100% khớp từng đoạn 1-to-1). Phát hành file EPUB song ngữ & đơn ngữ và bản đọc trực tuyến."
+  },
+  {
     "id": "log-20261112-01",
     "timestamp": "2026-11-12T16:00:00+07:00",
     "bookId": "cau-chuyen-nay-co-the-cuu-mang-ban",

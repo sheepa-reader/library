@@ -1,5 +1,78 @@
 [
   {
+    "id": "toi-nguoi-chua-tung-biet-toi-dan-ong",
+    "title": "Tôi, Người Chưa Từng Biết Tới Đàn Ông",
+    "originalTitle": "I Who Have Never Known Men",
+    "series": "",
+    "volume": "",
+    "author": "Jacqueline Harpman",
+    "authorId": "jacqueline-harpman",
+    "translator": "Sheepa",
+    "year": "1995",
+    "category": "Phản Địa Đàng • Hư Cấu • Cổ Điển",
+    "tags": [
+      "Phản Địa Đàng",
+      "Hư Cấu",
+      "Cổ Điển",
+      "Bí Ẩn"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/cover.jpg",
+    "icon": "public/icons/glyph_01_sheep_reading.png",
+    "description": "Trong một căn hầm ngầm lạnh lẽo dưới lòng đất, ba mươi chín người phụ nữ cùng một cô gái trẻ bị giam cầm suốt nhiều năm trời dưới sự giám sát nghiêm ngặt của những tên lính canh câm lặng. Không ai biết họ bị bắt giữ vì lý do gì, thế giới bên trên đã xảy ra thảm họa gì, hay thời gian đã trôi qua bao lâu. Cô gái trẻ nhất nhóm, người chưa từng có bất kỳ ký ức nào về thế giới bên ngoài và chưa từng tiếp xúc với đàn ông, lớn lên trong sự cô lập tuyệt đối về mặt cảm xúc lẫn kiến thức. Một ngày nọ, tiếng còi báo động vang lên, những tên lính canh đột ngột biến mất và cánh cửa hầm mở toang, đưa bốn mươi người phụ nữ bước ra một bình nguyên hoang vắng không một bóng người. Từ đây, hành trình sinh tồn và đi tìm câu trả lời về sự tồn tại của chính họ bắt đầu giữa một thế giới tĩnh lặng đến rợn người.",
+    "hasBilingual": true,
+    "downloadCountstart": 280,
+    "downloads": {
+      "epub": "content/downloads/toi-nguoi-chua-tung-biet-toi-dan-ong.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/toi-nguoi-chua-tung-biet-toi-dan-ong-song-ngu.epub"
+    },
+    "awards": [
+      "Chung khảo Giải thưởng Văn học Pháp Prix Femina (1995)",
+      "Tác giả đạt giải thưởng danh giá Prix Médicis & Prix Victor-Rossel"
+    ],
+    "rating": {
+      "score": 4.02,
+      "count": "753.0k"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Lời Giới Thiệu (Sophie Mackintosh)",
+        "part": "",
+        "path": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "PHẦN MỘT",
+        "part": "PHẦN MỘT",
+        "path": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "PHẦN HAI",
+        "part": "PHẦN HAI",
+        "path": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "PHẦN BA",
+        "part": "PHẦN BA",
+        "path": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Về Tác Giả",
+        "part": "",
+        "path": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/chuong-5.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-13"
+  },
+  {
     "id": "cau-chuyen-nay-co-the-cuu-mang-ban",
     "title": "Câu Chuyện Này Có Thể Cứu Mạng Bạn",
     "originalTitle": "This Story Might Save Your Life",
