@@ -327,7 +327,7 @@
 
 <p class="para-en">“Are you really suggesting I follow his example? You want me to break my word? You want me to live as an invalid and a coward? Pride and honor aside, the Sphinx does not give up his toys easily, Tom. Short of surrounding myself with guns and slaves and living in a cage in a spider-infested hole, there’s nowhere to hide.”</p>
 
-<p class="para-vi-sub">“Anh thực sự khuyên tôi noi gương hắn ta đấy à? Anh muốn tôi bội ước với lời thề danh dự của mình sao? Anh muốn tôi chấp nhận sống như một kẻ tàn phế hèn mọn ư? Gạt lòng kiêu hãnh và liêm sỉ sang một bên, Nhân Sư không bao giờ dễ dàng buông tha cho những tạo tác của mình đâu, Tom. Trừ phi tôi tự cô lập mình bằng súng đạn, phu Hod và giam mình trong chiếc lồng sắt giữa cái xó xỉnh nhung nhúc nhện độc, bằng không chẳng có nơi nào trên cõi đời này để trốn chạy cả.”</p>
+<p class="para-vi-sub">“Anh thực sự khuyên tôi noi gương hắn ta đấy à? Anh muốn tôi bội ước với lời thề danh dự của mình sao? Anh muốn tôi chấp nhận sống như một kẻ tàn phế hèn mọn ư? Gạt lòng kiêu hãnh và liêm sỉ sang một bên, Nhân Sư không bao giờ dễ dàng buông tha cho những tạo tác của mình đâu, Tom. Trừ phi tôi tự cô lập mình bằng súng đạn, phu kiệu và giam mình trong chiếc lồng sắt giữa cái xó xỉnh nhung nhúc nhện độc, bằng không chẳng có nơi nào trên cõi đời này để trốn chạy cả.”</p>
 
 <p class="para-en">“You could go home.”</p>
 
@@ -379,7 +379,7 @@
 
 <p class="para-en">“I have Ogier’s painting, which he can sell to the commissioner or Marat or whomever. I don’t care. And we have information about Marat and his band of babblers. You said the Sphinx is concerned with maintaining the status quo. Don’t you think the Sphinx would like to know about the revolutionaries hiding out in the old park?”</p>
 
-<p class="para-vi-sub">“Tôi có bức tranh của Ogier, người đó có thể bán lại cho Cao ủy, cho Marat, hay bất kỳ ai tùy ý. Tôi không bận tâm. Và chúng ta nắm giữ toàn bộ thông tin tình báo về Marat cùng giáo đoàn phu Hod vũ trang của gã. Cô từng bảo Nhân Sư luôn muốn duy trì sự ổn định của Tòa Tháp. Chẳng lẽ người đó lại không muốn biết về một đạo quân cách mạng đang âm thầm tích trữ vũ khí trong công viên cũ sao?”</p>
+<p class="para-vi-sub">“Tôi có bức tranh của Ogier, người đó có thể bán lại cho Cao ủy, cho Marat, hay bất kỳ ai tùy ý. Tôi không bận tâm. Và chúng ta nắm giữ toàn bộ thông tin tình báo về Marat cùng giáo đoàn phu kiệu vũ trang của gã. Cô từng bảo Nhân Sư luôn muốn duy trì sự ổn định của Tòa Tháp. Chẳng lẽ người đó lại không muốn biết về một đạo quân cách mạng đang âm thầm tích trữ vũ khí trong công viên cũ sao?”</p>
 
 <p class="para-en">“That is an awful idea, Tom. Did you not listen to anything I said?”</p>
 

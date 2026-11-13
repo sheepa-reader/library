@@ -209,7 +209,7 @@
 
 <p class="para-en">“What did I tell you about believing those histories? They are so full of holes! Did your book say anything about the trail of the hods? Nothing? Of course, nothing! Listen. At the heart of the Silk Gardens is the Golden Zoo. It is a relic of the world before the war.”</p>
 
-<p class="para-vi-sub">“Ta vừa nói với cậu điều gì về thói nhẹ dạ cả tin vào những trang sử sách nhỉ? Chúng đầy rẫy những lỗ hổng dối trá! Cuốn sử của cậu có dòng nào đả động đến những con đường mòn bí mật của đám phu Hod khổ sai không? Không chứ gì? Dĩ nhiên là không rồi! Nghe cho kỹ đây: Ngay tại trung tâm của Vườn Lụa có một nơi gọi là Vườn Thú Hoàng Kim. Đó là tàn tích sót lại từ thời trước chiến tranh.”</p>
+<p class="para-vi-sub">“Ta vừa nói với cậu điều gì về thói nhẹ dạ cả tin vào những trang sử sách nhỉ? Chúng đầy rẫy những lỗ hổng dối trá! Cuốn sử của cậu có dòng nào đả động đến những con đường mòn bí mật của đám phu kiệu khổ sai không? Không chứ gì? Dĩ nhiên là không rồi! Nghe cho kỹ đây: Ngay tại trung tâm của Vườn Lụa có một nơi gọi là Vườn Thú Hoàng Kim. Đó là tàn tích sót lại từ thời trước chiến tranh.”</p>
 
 <p class="para-en">“A zoo? Are there animals there?”</p>
 
@@ -217,7 +217,7 @@
 
 <p class="para-en">“Perhaps. I’m not sure. But there is a man there who may help you. His name is Luc Marat. He is in charge of what little there is to be in charge of. He rescues hods, I’ve been told, and has turned the zoo into a kind of mission. He knows the trail of the hods very well. He can show you a way into Pelphia.”</p>
 
-<p class="para-vi-sub">“Có thể, ta không dám chắc. Nhưng ở đó có một người có thể giúp được cậu. Tên ông ta là Luc Marat. Ông ta đang cai quản mảnh đất hoang phế đó. Ta nghe đồn ông ta đứng ra cưu mang những phu Hod đào tẩu, và biến khu vườn thú thành một giáo đoàn bí mật. Ông ta thông thạo mọi ngóc ngách của mạng lưới phu Hod. Ông ta có thể chỉ cho cậu con đường bí mật dẫn thẳng vào lòng Pelphia.”</p>
+<p class="para-vi-sub">“Có thể, ta không dám chắc. Nhưng ở đó có một người có thể giúp được cậu. Tên ông ta là Luc Marat. Ông ta đang cai quản mảnh đất hoang phế đó. Ta nghe đồn ông ta đứng ra cưu mang những phu kiệu đào tẩu, và biến khu vườn thú thành một giáo đoàn bí mật. Ông ta thông thạo mọi ngóc ngách của mạng lưới phu kiệu. Ông ta có thể chỉ cho cậu con đường bí mật dẫn thẳng vào lòng Pelphia.”</p>
 
 <p class="para-en">“Is he dangerous, this Marat?”</p>
 
@@ -229,7 +229,7 @@
 
 <p class="para-en">The information sounded plausible: a hideout, an outlaw of some compassion and influence, and an overlooked entrance into Pelphia. It might be tricky to navigate the portals of the hods, but could it really be any more difficult than piracy?</p>
 
-<p class="para-vi-sub">Mọi manh mối nghe ra vô cùng thuyết phục: một cứ điểm ẩn dật, một thủ lĩnh ngoài vòng pháp luật giàu lòng trắc ẩn lại nắm trong tay thực quyền, cùng một lối ngách vào Pelphia bị lịch sử bỏ quên. Luồn lách qua các hầm ngục của phu Hod hẳn sẽ muôn vàn trắc trở, nhưng liệu nó có gian truân hiểm nghèo hơn kiếp cướp trời mà anh đang dấn thân vào?</p>
+<p class="para-vi-sub">Mọi manh mối nghe ra vô cùng thuyết phục: một cứ điểm ẩn dật, một thủ lĩnh ngoài vòng pháp luật giàu lòng trắc ẩn lại nắm trong tay thực quyền, cùng một lối ngách vào Pelphia bị lịch sử bỏ quên. Luồn lách qua các hầm ngục của phu kiệu hẳn sẽ muôn vàn trắc trở, nhưng liệu nó có gian truân hiểm nghèo hơn kiếp cướp trời mà anh đang dấn thân vào?</p>
 
 <p class="para-en">Senlin’s heart began to pile hope upon the possibility, consecrating the rumor, until it seemed to him a virtual certainty: This mystic, this Luc Marat, would lead him into Pelphia.</p>
 
@@ -245,7 +245,7 @@
 
 <p class="para-en">Senlin was surprised. His time in New Babel had shown him how relatively rare literacy was among the Tower’s working populations. A mission that had a need for books could only mean one thing: Marat was trying to educate the hods. It was a noble aspiration, and Senlin wondered if he might not find a kindred spirit in the zealot Marat.</p>
 
-<p class="para-vi-sub">Senlin không khỏi sững sờ. Quãng thời gian lưu lạc ở New Babel đã dạy cho anh hiểu con chữ là thứ xa xỉ phẩm hiếm hoi đến nhường nào đối với tầng lớp lao động cùng đinh của ngọn Tháp. Một giáo đoàn thèm khát sách vở chỉ có thể mang một ý nghĩa duy nhất: Marat đang dốc lòng khai sáng văn hóa cho đám phu Hod khổ sai. Đó quả là một sứ mệnh cao cả phi thường, và Senlin thầm tự hỏi liệu mình có thể tìm thấy một tâm hồn đồng điệu nơi con người cuồng tín ấy hay không.</p>
+<p class="para-vi-sub">Senlin không khỏi sững sờ. Quãng thời gian lưu lạc ở New Babel đã dạy cho anh hiểu con chữ là thứ xa xỉ phẩm hiếm hoi đến nhường nào đối với tầng lớp lao động cùng đinh của ngọn Tháp. Một giáo đoàn thèm khát sách vở chỉ có thể mang một ý nghĩa duy nhất: Marat đang dốc lòng khai sáng văn hóa cho đám phu kiệu khổ sai. Đó quả là một sứ mệnh cao cả phi thường, và Senlin thầm tự hỏi liệu mình có thể tìm thấy một tâm hồn đồng điệu nơi con người cuồng tín ấy hay không.</p>
 
 <p class="para-en">His reverie was interrupted by what he mistook for the cawing of a crow. He turned in time to see a shrieking man plunge past the naked frame of the cove. The spectacle was not sufficient to rouse Madame Bhata’s interest. Her shuttle swam on, cutting through the weft like a fish through reeds.</p>
 

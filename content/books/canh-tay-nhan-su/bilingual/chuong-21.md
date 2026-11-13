@@ -69,7 +69,7 @@
 
 <p class="para-en">Senlin marveled at how adept the human race was at injecting a sense of routine into peculiar environments; it seemed a certainty that once people were added, the mundane was sure to follow. He could sense the harmony of the place. Their host seemed touched with megalomania, but he had at least provided a home for these few and fortunate hods.</p>
 
-<p class="para-vi-sub">Senlin kinh ngạc trước khả năng hòa nhập tài tình của con người trong việc mang lại cảm giác thân thuộc vào những môi trường dị thường; có vẻ như một khi con người tụ họp đông đảo thì sự bình dị đời thường chắc chắn sẽ diễn ra. Cảm nhận được sự trật tự của nơi này, vị thủ lĩnh của họ có vẻ mang chứng vĩ cuồng, nhưng ít nhất gã cũng đã tạo ra một chốn dung thân cho những phu Hod may mắn thoát khỏi cảnh đày ải.</p>
+<p class="para-vi-sub">Senlin kinh ngạc trước khả năng hòa nhập tài tình của con người trong việc mang lại cảm giác thân thuộc vào những môi trường dị thường; có vẻ như một khi con người tụ họp đông đảo thì sự bình dị đời thường chắc chắn sẽ diễn ra. Cảm nhận được sự trật tự của nơi này, vị thủ lĩnh của họ có vẻ mang chứng vĩ cuồng, nhưng ít nhất gã cũng đã tạo ra một chốn dung thân cho những phu kiệu may mắn thoát khỏi cảnh đày ải.</p>
 
 <p class="para-en">Edith stood in the open doorway of the cage. Something either in her posture or the dazzle of the gold bars that framed her reminded him of the girl in Ogier’s painting. Edith looked similarly serene, and like the girl who stared so resolutely away from the shore, she seemed focused on something invisible, something internal. She looked unabashed and lovely and …</p>
 
@@ -81,11 +81,11 @@
 
 <p class="para-en">“I’m sorry we had to come all this way to learn what common sense might’ve told me: The hod trail is only fit for hods. Don’t you think Marat was being devious by suggesting that we could just dress the part? I can’t think of a more dangerous disguise. Once you put the vestment on, how would you ever get it off?”</p>
 
-<p class="para-vi-sub">“Tôi rất tiếc vì chúng ta phải lặn lội một quãng đường xa xôi nhường này chỉ để nhận ra điều mà lẽ ra lương tri thông thường có thể mách bảo: Thân phận phu Hod và Con Đường Đen chỉ dành riêng cho những người phu kiệu khổ sai mà thôi. Cô không thấy Marat đang mưu mô khi gợi ý rằng chúng ta có thể cải trang sao? Tôi không thể nghĩ ra lớp ngụy trang nào nguy hiểm hơn thế. Một khi cô đã tròng chiếc vòng cổ đó vào, làm sao cô có thể tháo nó ra được chứ?”</p>
+<p class="para-vi-sub">“Tôi rất tiếc vì chúng ta phải lặn lội một quãng đường xa xôi nhường này chỉ để nhận ra điều mà lẽ ra lương tri thông thường có thể mách bảo: Thân phận phu kiệu và Con Đường Đen chỉ dành riêng cho những người phu kiệu khổ sai mà thôi. Cô không thấy Marat đang mưu mô khi gợi ý rằng chúng ta có thể cải trang sao? Tôi không thể nghĩ ra lớp ngụy trang nào nguy hiểm hơn thế. Một khi cô đã tròng chiếc vòng cổ đó vào, làm sao cô có thể tháo nó ra được chứ?”</p>
 
 <p class="para-en">“You wouldn’t. Once a hod … Why did he leave the door open?” she asked, swinging around to face him.</p>
 
-<p class="para-vi-sub">“Chúng ta sẽ không thể nào tháo ra được. Một khi đã mang thân phận phu Hod… Nhưng tại sao hắn lại để cửa mở cơ chứ?” cô hỏi, xoay người lại đối mặt với anh.</p>
+<p class="para-vi-sub">“Chúng ta sẽ không thể nào tháo ra được. Một khi đã mang thân phận phu kiệu… Nhưng tại sao hắn lại để cửa mở cơ chứ?” cô hỏi, xoay người lại đối mặt với anh.</p>
 
 <hr class="scene-break"/>
 
@@ -103,7 +103,7 @@
 
 <p class="para-en">Then it dawned on him: The hods he’d seen scribbling away downstairs weren’t illuminating the manuscripts. They were destroying them. Senlin had assumed Marat was teaching these poor wretches to read, but that wasn’t the case at all. He was using them to obliterate these books.</p>
 
-<p class="para-vi-sub">Rồi anh bàng hoàng vỡ lẽ: Đám phu Hod mà anh nhìn thấy đang cắm cúi viết lách ở các tầng dưới không phải đang sao chép hay minh họa cho các bản thảo. Họ đang tỉ mỉ xóa sổ chúng. Senlin từng ngỡ Marat đang khai tâm dạy chữ cho những mảnh đời khốn khổ này, nhưng sự thật hoàn toàn ngược lại. Marat đang lợi dụng họ như một công cụ để tiêu diệt tri thức.</p>
+<p class="para-vi-sub">Rồi anh bàng hoàng vỡ lẽ: Đám phu kiệu mà anh nhìn thấy đang cắm cúi viết lách ở các tầng dưới không phải đang sao chép hay minh họa cho các bản thảo. Họ đang tỉ mỉ xóa sổ chúng. Senlin từng ngỡ Marat đang khai tâm dạy chữ cho những mảnh đời khốn khổ này, nhưng sự thật hoàn toàn ngược lại. Marat đang lợi dụng họ như một công cụ để tiêu diệt tri thức.</p>
 
 <p class="para-en">And Senlin had stolen a man’s library to contribute to the effort. The thought made him sick.</p>
 
@@ -111,7 +111,7 @@
 
 <p class="para-en">But what possible reason could Marat have for such senseless waste, not just of the knowledge and experience that the books embodied but of the effort it took to strike them out? If he loathed books so intensely, why not just burn them? Why meditate upon their destruction? Senlin couldn’t fathom it. But then, he had no idea what the point of this mission was. It didn’t seem humanitarian; it was too militant for that. What was the purpose of recruiting all these hods? Reformation? Criminal enterprise? Revolution? What?</p>
 
-<p class="para-vi-sub">Nhưng Marat có mục đích gì khi thực hiện sự lãng phí vô nghĩa nhường này, không chỉ là kiến thức và kinh nghiệm tích lũy qua nhiều thế hệ mà còn là bao công sức tỉ mẩn bỏ ra để bôi đen từng trang sách? Nếu căm thù sách vở đến thế, tại sao không đem đốt quách đi? Tại sao phải tốn công nghiền ngẫm về sự hủy diệt từng chữ một như vậy? Senlin không tài nào hiểu nổi. Nhưng mặt khác, anh cũng chẳng có chút manh mối nào về bản chất thực sự của giáo đoàn này. Nơi đây chẳng mang vẻ gì của sự cứu rỗi nhân đạo; mọi thứ toát lên kỷ luật quân sự sắt đá. Mục đích thực sự của việc chiêu mộ và vũ trang cho toàn bộ lực lượng phu Hod này là gì? Cải tạo ư? Băng đảng tội phạm ư? Hay là một cuộc nổi loạn vũ trang? Rốt cuộc là nhằm vào điều gì?</p>
+<p class="para-vi-sub">Nhưng Marat có mục đích gì khi thực hiện sự lãng phí vô nghĩa nhường này, không chỉ là kiến thức và kinh nghiệm tích lũy qua nhiều thế hệ mà còn là bao công sức tỉ mẩn bỏ ra để bôi đen từng trang sách? Nếu căm thù sách vở đến thế, tại sao không đem đốt quách đi? Tại sao phải tốn công nghiền ngẫm về sự hủy diệt từng chữ một như vậy? Senlin không tài nào hiểu nổi. Nhưng mặt khác, anh cũng chẳng có chút manh mối nào về bản chất thực sự của giáo đoàn này. Nơi đây chẳng mang vẻ gì của sự cứu rỗi nhân đạo; mọi thứ toát lên kỷ luật quân sự sắt đá. Mục đích thực sự của việc chiêu mộ và vũ trang cho toàn bộ lực lượng phu kiệu này là gì? Cải tạo ư? Băng đảng tội phạm ư? Hay là một cuộc nổi loạn vũ trang? Rốt cuộc là nhằm vào điều gì?</p>
 
 <p class="para-en">He felt a tinge of mania creep into his thoughts, and he made a concerted effort to swallow it as one might an upwelling of bile. “Madness,” he muttered, and then more loudly so Edith could hear: “They’ve ruined these books.”</p>
 
@@ -135,7 +135,7 @@
 
 <p class="para-en">“Someone would stop us,” she said, frowning at the thought. “This place is swarming with hods.”</p>
 
-<p class="para-vi-sub">“Sẽ có người chặn chúng ta lại,” cô nói, khẽ cau mày khi cân nhắc tình thế. “Nơi này nhung nhúc những phu Hod có vũ trang.”</p>
+<p class="para-vi-sub">“Sẽ có người chặn chúng ta lại,” cô nói, khẽ cau mày khi cân nhắc tình thế. “Nơi này nhung nhúc những phu kiệu có vũ trang.”</p>
 
 <p class="para-en">“I agree.” He clenched his hands to stop their trembling. Perhaps he’d caught a cold from his recent soaking, or perhaps he was just malnourished. The biscuits had hardly blunted his hunger. “What do you make of this place? It’s not what I’d pictured.”</p>
 
@@ -151,7 +151,7 @@
 
 <p class="para-en">Edith shook her head. “It’s no joke. Those guards downstairs had rifles on their shoulders. He’s arming the hods. I’m sure you can see the problem some of the ringdoms would have with that.”</p>
 
-<p class="para-vi-sub">Edith nghiêm mặt lắc đầu. “Đây không phải chuyện đùa đâu, Tom. Đám lính gác ở tầng dưới đều vác súng trường trên vai. Hắn đang trang bị vũ khí cho phu Hod. Tôi chắc anh thừa hiểu các Lãnh địa Vành Đai sẽ phản ứng dữ dội thế nào trước điều đó.”</p>
+<p class="para-vi-sub">Edith nghiêm mặt lắc đầu. “Đây không phải chuyện đùa đâu, Tom. Đám lính gác ở tầng dưới đều vác súng trường trên vai. Hắn đang trang bị vũ khí cho phu kiệu. Tôi chắc anh thừa hiểu các Lãnh địa Vành Đai sẽ phản ứng dữ dội thế nào trước điều đó.”</p>
 
 <p class="para-en">“Why did Marat call you a Wakeman? A Wakeman is a guard, isn’t it?”</p>
 
@@ -183,7 +183,7 @@
 
 <p class="para-en">“My word. How did a fraternity of hods manage to amass such an arsenal?”</p>
 
-<p class="para-vi-sub">“Lạy Chúa tôi. Làm thế nào mà một nhóm phu Hod lại có thể tích trữ được một kho vũ khí khổng lồ nhường này?”</p>
+<p class="para-vi-sub">“Lạy Chúa tôi. Làm thế nào mà một nhóm phu kiệu lại có thể tích trữ được một kho vũ khí khổng lồ nhường này?”</p>
 
 <p class="para-en">“There’s something else,” Edith said.</p>
 
@@ -237,11 +237,11 @@
 
 <p class="para-en">She hadn’t tiptoed between three trees before she heard something interesting: It sounded like the clinking of a hammer. She followed the ringing to a nearby glade where a troop of hods scoured laundry in a sudsy pool. Clothes dried on the rusting antlers of a herd of mechanical deer that encircled the cistern, pretending to drink the very thing that corroded them. The air held the sharp fragrance of detergent. The blacksmith who had attracted her with his hammer song hunched over an anvil. He seemed to be beating the brains out of a kneeling man. Then she realized he was striking the pin from the iron collar around the man’s neck. A moment later, the collar popped off with an exuberant ring. The freed man leapt to his feet, rubbing his neck with great relish. The blacksmith took the collar and clamped it about the neck of another hod, who accepted the irons without complaint. The blacksmith placed the hod’s neck on his anvil, and began hammering in a new pin.</p>
 
-<p class="para-vi-sub">Cô vừa lướt qua ba ngọn cây thì đã nghe thấy một âm thanh quen thuộc: tiếng búa gõ kim loại chan chát vang lên đều đặn. Cô lần theo âm thanh đó tới một khoảng rừng thưa gần đó, nơi một nhóm phu Hod đang giặt giũ quần áo trong một bồn nước xà phòng sủi bọt. Quần áo được vắt trên những chiếc sừng gỉ sét của một bầy hươu cơ khí vây quanh bể chứa, trông như thể chúng đang cúi đầu uống chính thứ nước tẩy rửa làm mục rữa thân mình. Mùi nồng hắc của kiềm và xà phòng bốc lên bao trùm không gian. Người thợ rèn thu hút sự chú ý của cô bằng tiếng búa gõ lanh lảnh đang khom lưng bên chiếc đe sắt. Thoạt nhìn, gã như thể đang chuẩn bị nện vỡ đầu một người đàn ông đang quỳ bên dưới. Nhưng rồi cô nhận ra gã đang tỉ mỉ đục chiếc chốt khóa của chiếc vòng kim loại quanh cổ người kia. Chỉ một thoáng sau, chiếc vòng cổ bản án bật tung ra với một tiếng va đập giòn giã. Người đàn ông vừa được giải thoát liền đứng bật dậy, vừa xoa cổ vừa nở nụ cười rạng rỡ đầy hân hoan. Người thợ rèn nhặt chiếc vòng sắt lên và tròng nó vào cổ một người phu Hod khác đang cúi đầu chờ sẵn mà không hề có nửa lời phản kháng. Người thợ rèn đặt chiếc vòng lên đe, rồi vung búa nện chặt chiếc chốt ghim mới vào.</p>
+<p class="para-vi-sub">Cô vừa lướt qua ba ngọn cây thì đã nghe thấy một âm thanh quen thuộc: tiếng búa gõ kim loại chan chát vang lên đều đặn. Cô lần theo âm thanh đó tới một khoảng rừng thưa gần đó, nơi một nhóm phu kiệu đang giặt giũ quần áo trong một bồn nước xà phòng sủi bọt. Quần áo được vắt trên những chiếc sừng gỉ sét của một bầy hươu cơ khí vây quanh bể chứa, trông như thể chúng đang cúi đầu uống chính thứ nước tẩy rửa làm mục rữa thân mình. Mùi nồng hắc của kiềm và xà phòng bốc lên bao trùm không gian. Người thợ rèn thu hút sự chú ý của cô bằng tiếng búa gõ lanh lảnh đang khom lưng bên chiếc đe sắt. Thoạt nhìn, gã như thể đang chuẩn bị nện vỡ đầu một người đàn ông đang quỳ bên dưới. Nhưng rồi cô nhận ra gã đang tỉ mỉ đục chiếc chốt khóa của chiếc vòng kim loại quanh cổ người kia. Chỉ một thoáng sau, chiếc vòng cổ bản án bật tung ra với một tiếng va đập giòn giã. Người đàn ông vừa được giải thoát liền đứng bật dậy, vừa xoa cổ vừa nở nụ cười rạng rỡ đầy hân hoan. Người thợ rèn nhặt chiếc vòng sắt lên và tròng nó vào cổ một người phu kiệu khác đang cúi đầu chờ sẵn mà không hề có nửa lời phản kháng. Người thợ rèn đặt chiếc vòng lên đe, rồi vung búa nện chặt chiếc chốt ghim mới vào.</p>
 
 <p class="para-en">A ratty beard and stringy hair clung to the head of the liberated hod. He was ushered to a stool where a woman shaved and sheared him. Now clean headed, he was given a fresh robe to wear. It was humble hospitality, but the man’s gratitude was profound. He kissed the hands of the women who dressed him and embraced the blacksmith, who hardly slowed his labor. It was a surreal little scene, and all of it occurred under the watchful eye of three armed hods. Voleta was fascinated. She understood why they would take their shackles off, but she couldn’t imagine why they would ever put them back on again.</p>
 
-<p class="para-vi-sub">Bộ râu rậm rạp cùng mái tóc bù xù bao phủ quanh đầu người vừa được tháo vòng cổ. Gã được dẫn tới một chiếc ghế đẩu, nơi một người phụ nữ cạo sạch tóc và cắt tỉa gọn gàng cho gã. Sau khi cái đầu đã nhẵn nhụi, gã được khoác lên một chiếc áo choàng màu trắng mới toanh. Đó chỉ là một sự tiếp đón mộc mạc, nhưng lòng biết ơn của người đàn ông lại vô cùng sâu sắc. Gã hôn lên tay người phụ nữ vừa trao áo cho mình rồi ôm chầm lấy người thợ rèn, người vẫn đang miệt mài gõ búa mà chẳng thèm ngẩng lên. Một cảnh tượng kỳ lạ diễn ra dưới sự canh chừng của ba phu Hod mang súng trường đứng gần đó. Voleta dõi theo đầy thích thú. Cô hiểu tại sao người ta khao khát được tháo bỏ xiềng xích, nhưng cô hoàn toàn không tài nào hiểu nổi tại sao lại có kẻ tự nguyện để người khác tròng gông cùm vào cổ mình một lần nữa.</p>
+<p class="para-vi-sub">Bộ râu rậm rạp cùng mái tóc bù xù bao phủ quanh đầu người vừa được tháo vòng cổ. Gã được dẫn tới một chiếc ghế đẩu, nơi một người phụ nữ cạo sạch tóc và cắt tỉa gọn gàng cho gã. Sau khi cái đầu đã nhẵn nhụi, gã được khoác lên một chiếc áo choàng màu trắng mới toanh. Đó chỉ là một sự tiếp đón mộc mạc, nhưng lòng biết ơn của người đàn ông lại vô cùng sâu sắc. Gã hôn lên tay người phụ nữ vừa trao áo cho mình rồi ôm chầm lấy người thợ rèn, người vẫn đang miệt mài gõ búa mà chẳng thèm ngẩng lên. Một cảnh tượng kỳ lạ diễn ra dưới sự canh chừng của ba phu kiệu mang súng trường đứng gần đó. Voleta dõi theo đầy thích thú. Cô hiểu tại sao người ta khao khát được tháo bỏ xiềng xích, nhưng cô hoàn toàn không tài nào hiểu nổi tại sao lại có kẻ tự nguyện để người khác tròng gông cùm vào cổ mình một lần nữa.</p>
 
 <p class="para-en">Squit, who had emerged from her sleeve, burrowed in and out of her thick, dark locks. Squit didn’t seem to like the gloamine, or perhaps the spiders had just put her off. Either way, the squirrel was swimming around in her tresses quite diligently, which didn’t make it any easier for Voleta to think. When she reached up, she discovered that Squit had gotten her little neck stuck inside a noose of curls. The squirrel began to thrash about in distress.</p>
 

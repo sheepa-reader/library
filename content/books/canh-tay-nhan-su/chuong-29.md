@@ -145,7 +145,7 @@ Một cánh cửa màu trắng khác đang chờ họ ở phía bên kia gian ph
 
 Họ bước ra một chiếc cầu bằng sắt rèn rung lên bần bật dưới chân. Nước ngập lênh láng mặt sàn bên dưới, dù trông không quá sâu. Những lỗ thông gió thấp thổi các luồng hơi ấm phả lên mặt nước, tạo ra những gợn sóng lăn tăn tựa ren thêu. Treo lơ lửng trên trần nhà, một quả cầu gương đang chầm chậm quay tròn, dệt nên những vệt sáng lung linh dát lên da thịt họ. Một bức bích họa trải dài trên bốn bức tường, khắc họa những quán cà phê hoa lệ sáng rực ánh đèn và những phòng thay đồ rực rỡ sắc màu.
 
-Senlin nhớ lại quãng thời gian ở Nhà Tắm với một nỗi chua xót nhói buốt: Khi ấy anh chỉ là một con tốt ngây thơ và vụng về, thế mà chẳng hiểu sao, một cách vô lý và trớ trêu, anh lại trốn thoát được trong khi Tarrou bị đày ải thành phu Hod còn họa sĩ Ogier thì bị sát hại tàn nhẫn. Thật là bất công khôn cùng.
+Senlin nhớ lại quãng thời gian ở Nhà Tắm với một nỗi chua xót nhói buốt: Khi ấy anh chỉ là một con tốt ngây thơ và vụng về, thế mà chẳng hiểu sao, một cách vô lý và trớ trêu, anh lại trốn thoát được trong khi Tarrou bị đày ải thành phu kiệu còn họa sĩ Ogier thì bị sát hại tàn nhẫn. Thật là bất công khôn cùng.
 
 “Anh thôi khoe mẽ đi được không, Byron? Ai nấy đều đã đủ kinh ngạc rồi, nhưng chẳng ai có hứng thú đi dạo trọn một vòng quanh Tòa Tháp mô hình này đâu.”
 

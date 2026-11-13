@@ -107,17 +107,17 @@ Anh hiểu bà sẽ chẳng đưa ra lời hứa hẹn nào dễ dãi hơn, vì 
 
 Senlin vừa ngỡ ngàng lại vừa hụt hẫng trước đáp án quá đỗi giản đơn ấy: “Tôi từng đọc thấy nơi đó đã bị niêm phong tuyệt đối kể từ khi cuộc chiến tranh giữa Pelphia và Algez bùng nổ. Toàn bộ các lối cầu thang bộ đều đã bị đánh sập và lấp kín bằng gạch vụn rồi mà.”
 
-“Ta vừa nói với cậu điều gì về thói nhẹ dạ cả tin vào những trang sử sách nhỉ? Chúng đầy rẫy những lỗ hổng dối trá! Cuốn sử của cậu có dòng nào đả động đến những con đường mòn bí mật của đám phu Hod khổ sai không? Không chứ gì? Dĩ nhiên là không rồi! Nghe cho kỹ đây: Ngay tại trung tâm của Vườn Lụa có một nơi gọi là Vườn Thú Hoàng Kim. Đó là tàn tích sót lại từ thời trước chiến tranh.”
+“Ta vừa nói với cậu điều gì về thói nhẹ dạ cả tin vào những trang sử sách nhỉ? Chúng đầy rẫy những lỗ hổng dối trá! Cuốn sử của cậu có dòng nào đả động đến những con đường mòn bí mật của đám phu kiệu khổ sai không? Không chứ gì? Dĩ nhiên là không rồi! Nghe cho kỹ đây: Ngay tại trung tâm của Vườn Lụa có một nơi gọi là Vườn Thú Hoàng Kim. Đó là tàn tích sót lại từ thời trước chiến tranh.”
 
 “Một vườn thú sao? Ở đó vẫn còn muông thú sinh sống ư?”
 
-“Có thể, ta không dám chắc. Nhưng ở đó có một người có thể giúp được cậu. Tên ông ta là Luc Marat. Ông ta đang cai quản mảnh đất hoang phế đó. Ta nghe đồn ông ta đứng ra cưu mang những phu Hod đào tẩu, và biến khu vườn thú thành một giáo đoàn bí mật. Ông ta thông thạo mọi ngóc ngách của mạng lưới phu Hod. Ông ta có thể chỉ cho cậu con đường bí mật dẫn thẳng vào lòng Pelphia.”
+“Có thể, ta không dám chắc. Nhưng ở đó có một người có thể giúp được cậu. Tên ông ta là Luc Marat. Ông ta đang cai quản mảnh đất hoang phế đó. Ta nghe đồn ông ta đứng ra cưu mang những phu kiệu đào tẩu, và biến khu vườn thú thành một giáo đoàn bí mật. Ông ta thông thạo mọi ngóc ngách của mạng lưới phu kiệu. Ông ta có thể chỉ cho cậu con đường bí mật dẫn thẳng vào lòng Pelphia.”
 
 “Gã Marat này có phải kẻ nguy hiểm không?”
 
 “Ông ta là một nhà huyền môn, mà hạng người đó bản tính vốn hướng thiện yêu hòa bình. Nhưng ông ta cũng là một kẻ cuồng tín, mà phường cuồng tín thì chẳng bao giờ nén nổi cơn lôi đình. Giáo lý của ông ta không vừa mắt giới thống trị, và khối kẻ trên ngọn Tháp này chỉ chực chờ tống cổ ông ta lên giá treo cổ. Bởi thế, trong mắt không ít người, ông ta là một tên tội đồ nguy hiểm. Ông ta luôn cảnh giác cao độ với người lạ, âu cũng là lẽ thường tình. Ta chịu, chẳng đoán nổi ông ta sẽ nhìn nhận cậu ra sao đâu. Không phải ai trên đời này cũng dễ tính niềm nở như ta đâu nhé.”
 
-Mọi manh mối nghe ra vô cùng thuyết phục: một cứ điểm ẩn dật, một thủ lĩnh ngoài vòng pháp luật giàu lòng trắc ẩn lại nắm trong tay thực quyền, cùng một lối ngách vào Pelphia bị lịch sử bỏ quên. Luồn lách qua các hầm ngục của phu Hod hẳn sẽ muôn vàn trắc trở, nhưng liệu nó có gian truân hiểm nghèo hơn kiếp cướp trời mà anh đang dấn thân vào?
+Mọi manh mối nghe ra vô cùng thuyết phục: một cứ điểm ẩn dật, một thủ lĩnh ngoài vòng pháp luật giàu lòng trắc ẩn lại nắm trong tay thực quyền, cùng một lối ngách vào Pelphia bị lịch sử bỏ quên. Luồn lách qua các hầm ngục của phu kiệu hẳn sẽ muôn vàn trắc trở, nhưng liệu nó có gian truân hiểm nghèo hơn kiếp cướp trời mà anh đang dấn thân vào?
 
 Trong lồng ngực Senlin, một tia hy vọng bỗng bừng sáng mãnh liệt, thắp lên niềm tin sắt đá rằng con người huyền bí mang tên Luc Marat kia chắc chắn sẽ là chìa khóa mở toang cánh cổng Pelphia cho anh.
 
@@ -125,7 +125,7 @@ Trong lồng ngực Senlin, một tia hy vọng bỗng bừng sáng mãnh liệt
 
 “Tốt nhất là cậu nên chuẩn bị một món lễ vật ra mắt. Ta được biết giáo đoàn của ông ta đang khao khát sách vở đến cháy bỏng, bất kể là loại sách gì.”
 
-Senlin không khỏi sững sờ. Quãng thời gian lưu lạc ở New Babel đã dạy cho anh hiểu con chữ là thứ xa xỉ phẩm hiếm hoi đến nhường nào đối với tầng lớp lao động cùng đinh của ngọn Tháp. Một giáo đoàn thèm khát sách vở chỉ có thể mang một ý nghĩa duy nhất: Marat đang dốc lòng khai sáng văn hóa cho đám phu Hod khổ sai. Đó quả là một sứ mệnh cao cả phi thường, và Senlin thầm tự hỏi liệu mình có thể tìm thấy một tâm hồn đồng điệu nơi con người cuồng tín ấy hay không.
+Senlin không khỏi sững sờ. Quãng thời gian lưu lạc ở New Babel đã dạy cho anh hiểu con chữ là thứ xa xỉ phẩm hiếm hoi đến nhường nào đối với tầng lớp lao động cùng đinh của ngọn Tháp. Một giáo đoàn thèm khát sách vở chỉ có thể mang một ý nghĩa duy nhất: Marat đang dốc lòng khai sáng văn hóa cho đám phu kiệu khổ sai. Đó quả là một sứ mệnh cao cả phi thường, và Senlin thầm tự hỏi liệu mình có thể tìm thấy một tâm hồn đồng điệu nơi con người cuồng tín ấy hay không.
 
 Dòng suy tưởng của anh bất ngờ bị xé toạc bởi một âm thanh rợn người mà thoạt đầu anh ngỡ là tiếng quạ kêu thảm thiết. Anh ngoái đầu lại vừa kịp lúc để chứng kiến bóng một gã đàn ông đang gào thét thất thanh, lao vun vút rơi tự do qua khoảng trống thông thênh của vách đá. Cảnh tượng chết chóc ấy chẳng mảy may làm xao động sự chú ý của Madame Bhata. Con thoi trên tay bà vẫn thoăn thoắt lướt đi, xé gió xuyên qua từng sợi dệt tựa như con thoi lách giữa đám lau sậy ven sông.
 

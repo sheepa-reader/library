@@ -1,5 +1,38 @@
 [
   {
+    "id": "log-20261113-04",
+    "timestamp": "2026-11-13T13:45:00+07:00",
+    "bookId": "canh-tay-nhan-su",
+    "bookTitle": "Cánh Tay Nhân Sư",
+    "type": "chapter_update",
+    "typeName": "Hiệu đính bản dịch",
+    "badgeClass": "badge-chapter",
+    "title": "Chuẩn hóa thuật ngữ 'phu kiệu / phu kiệu khổ sai' & 'Vua Phu Kiệu'",
+    "description": "Đồng bộ chuẩn hóa toàn bộ thuật ngữ 'phu kiệu / phu kiệu khổ sai' (thay thế cho 'phu Hod') và 'Vua Phu Kiệu' (thay thế cho 'Vua Hod') trên toàn bộ 48 chương đọc web, bản song ngữ Anh - Việt và cập nhật lại file EPUB tải về."
+  },
+  {
+    "id": "log-20261113-03",
+    "timestamp": "2026-11-13T13:40:00+07:00",
+    "bookId": "senlin-vuot-thap",
+    "bookTitle": "Senlin: Vượt Tháp",
+    "type": "chapter_update",
+    "typeName": "Hiệu đính bản dịch",
+    "badgeClass": "badge-chapter",
+    "title": "Chuẩn hóa thuật ngữ 'phu kiệu / phu kiệu khổ sai'",
+    "description": "Đồng bộ chuẩn hóa toàn bộ thuật ngữ 'phu kiệu' và 'phu kiệu khổ sai' (thay thế cho 'phu Hod') trên toàn bộ các chương đọc web, bản song ngữ Anh - Việt và cập nhật lại file EPUB tải về."
+  },
+  {
+    "id": "log-20261113-02",
+    "timestamp": "2026-11-13T13:05:00+07:00",
+    "bookId": "toi-nguoi-chua-tung-biet-toi-dan-ong",
+    "bookTitle": "Tôi, Người Chưa Từng Biết Tới Đàn Ông",
+    "type": "ebook_update",
+    "typeName": "Upload lại Ebook",
+    "badgeClass": "badge-ebook",
+    "title": "Cập nhật hoàn thiện file EPUB đơn ngữ & song ngữ tải về",
+    "description": "Upload lại toàn bộ file EPUB đơn ngữ tiếng Việt và EPUB song ngữ Anh - Việt đối soát sau khi hoàn thiện tinh chỉnh định dạng, mục lục và bìa sách."
+  },
+  {
     "id": "log-20261113-01",
     "timestamp": "2026-11-13T11:20:00+07:00",
     "bookId": "toi-nguoi-chua-tung-biet-toi-dan-ong",

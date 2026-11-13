@@ -85,11 +85,11 @@
 
 <p class="para-en">Cries rose over the explosion’s echoing coda. They peered through their open door and saw hods on every level of the Zoo rushing about. Those already on the second floor hastened toward the fire that the explosion had ignited. The red curtains on either side of the bombed-out cell had turned to yellow flames. A bucket line quickly formed between the elevator banks and the water tanks below.</p>
 
-<p class="para-vi-sub">Tiếng la hét hỗn loạn rộ lên át cả dư âm cuối cùng của vụ nổ. Nhìn qua cánh cửa để ngỏ, họ thấy đám phu Hod ở mọi tầng của Vườn Thú Vàng đang nháo nhào chạy tán loạn. Những kẻ ở tầng hai vội vã lao về phía đám cháy do vụ nổ gây ra. Những tấm rèm nhung đỏ ở hai bên gian phòng vừa bị đánh sập nay bùng lên thành những ngọn lửa rực sáng. Một hàng người chuyền tay nhau những xô nước nhanh chóng được thiết lập giữa khu thang máy và các bể chứa bên dưới.</p>
+<p class="para-vi-sub">Tiếng la hét hỗn loạn rộ lên át cả dư âm cuối cùng của vụ nổ. Nhìn qua cánh cửa để ngỏ, họ thấy đám phu kiệu ở mọi tầng của Vườn Thú Vàng đang nháo nhào chạy tán loạn. Những kẻ ở tầng hai vội vã lao về phía đám cháy do vụ nổ gây ra. Những tấm rèm nhung đỏ ở hai bên gian phòng vừa bị đánh sập nay bùng lên thành những ngọn lửa rực sáng. Một hàng người chuyền tay nhau những xô nước nhanh chóng được thiết lập giữa khu thang máy và các bể chứa bên dưới.</p>
 
 <p class="para-en">Senlin suspected that the hods would stifle the blaze soon enough, and then they would begin to wonder who had set it off.</p>
 
-<p class="para-vi-sub">Senlin đoán rằng đám phu Hod sẽ sớm dập tắt được ngọn lửa thôi, và khi đó bọn chúng sẽ bắt đầu lùng sục xem kẻ nào đã gây ra mớ hỗn độn này.</p>
+<p class="para-vi-sub">Senlin đoán rằng đám phu kiệu sẽ sớm dập tắt được ngọn lửa thôi, và khi đó bọn chúng sẽ bắt đầu lùng sục xem kẻ nào đã gây ra mớ hỗn độn này.</p>
 
 <hr class="scene-break"/>
 
@@ -155,7 +155,7 @@
 
 <p class="para-en">They crossed the clearing at a quick trot. A smaller secondary explosion clapped behind them and was answered by a renewed chorus of shouts. More hods emerged from the porcelain woods ahead, summoned by the blasts.</p>
 
-<p class="para-vi-sub">Họ băng qua bãi đất trống với tốc độ chạy nước rút. Một tiếng nổ phụ nhỏ hơn vang lên đằng sau lưng, kéo theo làn sóng la hét dữ dội hơn từ sảnh lớn. Thêm nhiều phu Hod từ bìa rừng phía trước túa ra, bị thu hút bởi những tiếng nổ liên tiếp.</p>
+<p class="para-vi-sub">Họ băng qua bãi đất trống với tốc độ chạy nước rút. Một tiếng nổ phụ nhỏ hơn vang lên đằng sau lưng, kéo theo làn sóng la hét dữ dội hơn từ sảnh lớn. Thêm nhiều phu kiệu từ bìa rừng phía trước túa ra, bị thu hút bởi những tiếng nổ liên tiếp.</p>
 
 <p class="para-en">The haze of smoke, the dampened glow, and the general commotion helped to distract everyone from the two figures running the wrong way. Senlin’s mind flew ahead to his ship. Would it be ready? Would Voleta be there? If they escaped, how long until they starved?</p>
 
@@ -163,7 +163,7 @@
 
 <p class="para-en">But his thoughts had wandered too far ahead of them. They were still a few strides shy of the cover of the woods when a hod, a woman with jowls and wiry eyebrows, pulled up short as they passed her. They did not turn to look even as she began to cry out like an operatic crow. They had been discovered.</p>
 
-<p class="para-vi-sub">Nhưng thực tại khốc liệt lập tức kéo anh trở lại. Họ chỉ còn cách bìa rừng vài sải chân thì một nữ phu Hod, với đôi má chảy xệ và cặp lông mày xếch ngược dữ tợn, chết sững khựng lại khi thấy họ lướt qua. Họ không hề ngoái đầu lại ngay cả khi mụ bắt đầu gào thét thất thanh như một con quạ bị chọc tiết. Họ đã bị lộ tẩy.</p>
+<p class="para-vi-sub">Nhưng thực tại khốc liệt lập tức kéo anh trở lại. Họ chỉ còn cách bìa rừng vài sải chân thì một nữ phu kiệu, với đôi má chảy xệ và cặp lông mày xếch ngược dữ tợn, chết sững khựng lại khi thấy họ lướt qua. Họ không hề ngoái đầu lại ngay cả khi mụ bắt đầu gào thét thất thanh như một con quạ bị chọc tiết. Họ đã bị lộ tẩy.</p>
 
 <p class="para-en">There was no time for subtlety now, no time to look for a trail. They ducked their heads and ran behind the plowshare of Edith’s raised arm. Senlin did his best to read his compass while the needle swung in sympathy to his pitching body. He nudged Edith one way then another until she felt like a rudder in a storm.</p>
 
@@ -171,15 +171,15 @@
 
 <p class="para-en">Senlin’s coat tugged at him. He turned, expecting to find it snagged on a branch, but instead he found a hod holding him by the coattail. The hod appeared wraithlike in his rags. He drew the barrel of his pistol level with Senlin’s forehead. Senlin kicked like a mule, catching the hod on the knee. The weapon discharged as the hod fell, his shot scattering the brittle timber above Senlin’s head.</p>
 
-<p class="para-vi-sub">Chiếc áo khoác của Senlin bỗng bị giật mạnh ngược lại. Anh quay phắt người, cứ ngỡ vạt áo vướng vào cành cây, nhưng trước mắt anh là một gã phu Hod đang túm chặt lấy gấu áo. Gã đàn ông gầy guộc rách rưới tựa một thây ma, tay kia gí thẳng họng súng ngắn vào trán Senlin. Không chút do dự, Senlin tung cước đá bạt mạng vào đầu gối gã. Khẩu súng cướp cò ngay khi gã ngã khuỵu xuống, đường đạn xé toạc những thớ gỗ giòn tan sát ngay trên đỉnh đầu Senlin.</p>
+<p class="para-vi-sub">Chiếc áo khoác của Senlin bỗng bị giật mạnh ngược lại. Anh quay phắt người, cứ ngỡ vạt áo vướng vào cành cây, nhưng trước mắt anh là một gã phu kiệu đang túm chặt lấy gấu áo. Gã đàn ông gầy guộc rách rưới tựa một thây ma, tay kia gí thẳng họng súng ngắn vào trán Senlin. Không chút do dự, Senlin tung cước đá bạt mạng vào đầu gối gã. Khẩu súng cướp cò ngay khi gã ngã khuỵu xuống, đường đạn xé toạc những thớ gỗ giòn tan sát ngay trên đỉnh đầu Senlin.</p>
 
 <p class="para-en">Incoherent shouts echoed behind them. The hods had recovered from their distraction and were coming for them now. They had no hope of escaping so long as they bored a hole through the woods. They had to find a clearing or a trail and try to conceal their progress. But there was nothing, nothing but rising voices, jabbing branches, and fleeing spiders.</p>
 
-<p class="para-vi-sub">Những tiếng hò hét vang dội đuổi sát phía sau. Lực lượng phu Hod đã định thần và ráo riết bủa vây truy sát. Chẳng còn chút hy vọng tẩu thoát nào nếu họ cứ phải tự dùng thân mình đục đường xuyên qua rừng rậm. Họ bắt buộc phải tìm ra một lối mòn bằng phẳng. Thế nhưng trước mắt chẳng có gì ngoài những tiếng gầm gào ngày một gần, những nhành cây sắc nhọn cào rách da thịt và bầy nhện đang hoảng loạn tháo chạy.</p>
+<p class="para-vi-sub">Những tiếng hò hét vang dội đuổi sát phía sau. Lực lượng phu kiệu đã định thần và ráo riết bủa vây truy sát. Chẳng còn chút hy vọng tẩu thoát nào nếu họ cứ phải tự dùng thân mình đục đường xuyên qua rừng rậm. Họ bắt buộc phải tìm ra một lối mòn bằng phẳng. Thế nhưng trước mắt chẳng có gì ngoài những tiếng gầm gào ngày một gần, những nhành cây sắc nhọn cào rách da thịt và bầy nhện đang hoảng loạn tháo chạy.</p>
 
 <p class="para-en">Suddenly, the arachnids were everywhere, darkening the forest to their right, overwhelming the luminous wood with their numbers. Spiders rained from the trees, their fat abdomens pelting Edith’s and Senlin’s backs like hailstones. With an undulating curtain of spiders before them and a posse of armed hods closing behind them, they were trapped between two terrible fates.</p>
 
-<p class="para-vi-sub">Chỉ trong chớp mắt, lũ nhện lại xuất hiện ở khắp mọi nơi, nhuộm đen khu rừng phía bên phải, lấn át cả ánh sáng của rêu lân quang bằng số lượng áp đảo. Nhện từ trên các tán cây trút xuống như mưa rào, những thân hình mập mạp nện bôm bốp lên lưng Edith và Senlin tựa như những hạt mưa đá. Với một bức tường nhện nhung nhúc chắn ngang trước mặt và toán phu Hod vũ trang đang áp sát sau lưng, họ rơi vào thế tiến thoái lưỡng nan.</p>
+<p class="para-vi-sub">Chỉ trong chớp mắt, lũ nhện lại xuất hiện ở khắp mọi nơi, nhuộm đen khu rừng phía bên phải, lấn át cả ánh sáng của rêu lân quang bằng số lượng áp đảo. Nhện từ trên các tán cây trút xuống như mưa rào, những thân hình mập mạp nện bôm bốp lên lưng Edith và Senlin tựa như những hạt mưa đá. Với một bức tường nhện nhung nhúc chắn ngang trước mặt và toán phu kiệu vũ trang đang áp sát sau lưng, họ rơi vào thế tiến thoái lưỡng nan.</p>
 
 <p class="para-en">Edith looked to Senlin for his preference, and he nodded grimly forward, and that was all the consultation she needed. She faced the arachnid host, and they breached the swarm.</p>
 
@@ -195,11 +195,11 @@
 
 <p class="para-en">Taking advantage of the momentary respite, Senlin consulted his compass while Edith shook the gloamine dust and a lingering spider from her hair. “The ship’s that way.” He pointed past the boulders to the far side of the clearing. “Maybe a mile off. I’m not sure,” he spoke in a whisper. They could still hear the chattering hods. Their pursuers seemed to have been detoured by the spiders, but they were quickly regrouping.</p>
 
-<p class="para-vi-sub">Tận dụng giây phút nghỉ ngơi ngắn ngủi, Senlin vội kiểm tra la bàn trong khi Edith phủi sạch bụi rêu lân quang cùng vài con nhện còn sót lại bám trên tóc. “Con tàu ở hướng đó.” Anh chỉ tay qua những khối đá sẫm màu sang tận bờ bên kia. “Cách chừng một dặm. Tôi tin là vậy,” anh thì thào. Họ vẫn nghe thấy tiếng la hét truy đuổi của đám phu Hod. Toán lính dường như đã bị bầy nhện làm cho tán loạn, nhưng chúng đang nhanh chóng tập hợp lại đội hình.</p>
+<p class="para-vi-sub">Tận dụng giây phút nghỉ ngơi ngắn ngủi, Senlin vội kiểm tra la bàn trong khi Edith phủi sạch bụi rêu lân quang cùng vài con nhện còn sót lại bám trên tóc. “Con tàu ở hướng đó.” Anh chỉ tay qua những khối đá sẫm màu sang tận bờ bên kia. “Cách chừng một dặm. Tôi tin là vậy,” anh thì thào. Họ vẫn nghe thấy tiếng la hét truy đuổi của đám phu kiệu. Toán lính dường như đã bị bầy nhện làm cho tán loạn, nhưng chúng đang nhanh chóng tập hợp lại đội hình.</p>
 
 <p class="para-en">“These hods are disciplined.” She touched the fresh dent in her arm.</p>
 
-<p class="para-vi-sub">“Lũ phu Hod này có tổ chức thật đấy,” cô khẽ chạm vào vết móp mới trên cánh tay kim loại.</p>
+<p class="para-vi-sub">“Lũ phu kiệu này có tổ chức thật đấy,” cô khẽ chạm vào vết móp mới trên cánh tay kim loại.</p>
 
 <p class="para-en">“Come on,” Senlin said. “We can’t keep beating a path; we need to find a trail.”</p>
 
@@ -227,7 +227,7 @@
 
 <p class="para-en">Senlin put his finger to his lips in an entirely needless signal for quiet. Their only hope was to slip past the drowsing spider-eaters and back into the woods before the hods broke upon the scene and roused the beasts.</p>
 
-<p class="para-vi-sub">Senlin đưa ngón tay lên môi làm dấu im lặng. Hy vọng mong manh duy nhất của họ lúc này là nhẹ nhàng luồn lách qua bầy quái thú đang ngủ say để trốn vào rừng trước khi đám phu Hod kéo đến đánh thức bầy ác thú.</p>
+<p class="para-vi-sub">Senlin đưa ngón tay lên môi làm dấu im lặng. Hy vọng mong manh duy nhất của họ lúc này là nhẹ nhàng luồn lách qua bầy quái thú đang ngủ say để trốn vào rừng trước khi đám phu kiệu kéo đến đánh thức bầy ác thú.</p>
 
 <p class="para-en">They recognized the hod who burst from the forest. He yelled in a voice that quavered with excitement, “Come and be free!” And then Koro fired his pistol at them.</p>
 
@@ -239,11 +239,11 @@
 
 <p class="para-en">Edith and Senlin cringed as the four other beasts stood up beside their large brother, who appeared not at all hurt by the bullet that had pricked its hide. At the same moment, the woods began to produce hod after hod, each silent and severe. Their numbers continued to swell until a legion of armed men lurked at the clearing’s edge.</p>
 
-<p class="para-vi-sub">Edith và Senlin co rúm người lại khi bốn con quái thú khác lần lượt lồm cồm đứng dậy quanh con đầu đàn to lớn, kẻ vừa dính một viên đạn sượt qua lớp da dày mà chẳng hề hấn gì. Cùng lúc ấy, khu rừng phía trước túa ra lớp lớp phu Hod, kẻ nào kẻ nấy đều lăm lăm vũ khí với vẻ mặt lạnh tanh vô cảm. Hàng ngũ của chúng ken dày cho đến khi cả một đạo quân vũ trang bịt kín toàn bộ lối ra của bãi đất trống.</p>
+<p class="para-vi-sub">Edith và Senlin co rúm người lại khi bốn con quái thú khác lần lượt lồm cồm đứng dậy quanh con đầu đàn to lớn, kẻ vừa dính một viên đạn sượt qua lớp da dày mà chẳng hề hấn gì. Cùng lúc ấy, khu rừng phía trước túa ra lớp lớp phu kiệu, kẻ nào kẻ nấy đều lăm lăm vũ khí với vẻ mặt lạnh tanh vô cảm. Hàng ngũ của chúng ken dày cho đến khi cả một đạo quân vũ trang bịt kín toàn bộ lối ra của bãi đất trống.</p>
 
 <p class="para-en">The spider-eaters held their scarecrow pose, and the hods, seeing what they had stumbled upon, turned to stone.</p>
 
-<p class="para-vi-sub">Đàn quái thú xơi nhện vẫn giương móng vuốt bất động, còn đám phu Hod, khi nhận ra thứ chướng ngại kinh hoàng trước mắt, cũng lập tức chết sững như hóa đá.</p>
+<p class="para-vi-sub">Đàn quái thú xơi nhện vẫn giương móng vuốt bất động, còn đám phu kiệu, khi nhận ra thứ chướng ngại kinh hoàng trước mắt, cũng lập tức chết sững như hóa đá.</p>
 
 <p class="para-en">Amid this terrible silence, they heard the approach of three distinct ascending squeaks. The notes played again and again like a music box harping upon a wretched song.</p>
 

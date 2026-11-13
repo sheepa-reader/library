@@ -165,7 +165,7 @@ Edith khẽ gật đầu như thể đang cố rũ bỏ một gánh nặng trong
 
 “Biết đâu cô có thể học cách sinh tồn mà không cần đến nguồn năng lượng của người đó. Nhìn Marat mà xem…”
 
-“Anh thực sự khuyên tôi noi gương hắn ta đấy à? Anh muốn tôi bội ước với lời thề danh dự của mình sao? Anh muốn tôi chấp nhận sống như một kẻ tàn phế hèn mọn ư? Gạt lòng kiêu hãnh và liêm sỉ sang một bên, Nhân Sư không bao giờ dễ dàng buông tha cho những tạo tác của mình đâu, Tom. Trừ phi tôi tự cô lập mình bằng súng đạn, phu Hod và giam mình trong chiếc lồng sắt giữa cái xó xỉnh nhung nhúc nhện độc, bằng không chẳng có nơi nào trên cõi đời này để trốn chạy cả.”
+“Anh thực sự khuyên tôi noi gương hắn ta đấy à? Anh muốn tôi bội ước với lời thề danh dự của mình sao? Anh muốn tôi chấp nhận sống như một kẻ tàn phế hèn mọn ư? Gạt lòng kiêu hãnh và liêm sỉ sang một bên, Nhân Sư không bao giờ dễ dàng buông tha cho những tạo tác của mình đâu, Tom. Trừ phi tôi tự cô lập mình bằng súng đạn, phu kiệu và giam mình trong chiếc lồng sắt giữa cái xó xỉnh nhung nhúc nhện độc, bằng không chẳng có nơi nào trên cõi đời này để trốn chạy cả.”
 
 “Cô hoàn toàn có thể trở về quê nhà.”
 
@@ -191,7 +191,7 @@ Anh hào hứng tiếp lời: “Có lẽ chúng ta đã đi sai nước cờ ng
 
 “Nhưng anh lấy gì ra để mặc cả với người đó?”
 
-“Tôi có bức tranh của Ogier, người đó có thể bán lại cho Cao ủy, cho Marat, hay bất kỳ ai tùy ý. Tôi không bận tâm. Và chúng ta nắm giữ toàn bộ thông tin tình báo về Marat cùng giáo đoàn phu Hod vũ trang của gã. Cô từng bảo Nhân Sư luôn muốn duy trì sự ổn định của Tòa Tháp. Chẳng lẽ người đó lại không muốn biết về một đạo quân cách mạng đang âm thầm tích trữ vũ khí trong công viên cũ sao?”
+“Tôi có bức tranh của Ogier, người đó có thể bán lại cho Cao ủy, cho Marat, hay bất kỳ ai tùy ý. Tôi không bận tâm. Và chúng ta nắm giữ toàn bộ thông tin tình báo về Marat cùng giáo đoàn phu kiệu vũ trang của gã. Cô từng bảo Nhân Sư luôn muốn duy trì sự ổn định của Tòa Tháp. Chẳng lẽ người đó lại không muốn biết về một đạo quân cách mạng đang âm thầm tích trữ vũ khí trong công viên cũ sao?”
 
 “Đó là một ý tưởng điên rồ, Tom. Anh chẳng nghe lọt tai lời cảnh báo nào của tôi nãy giờ à?”
 

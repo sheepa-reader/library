@@ -43,7 +43,7 @@
 
 <p class="para-en">The hod said something slurred and strange in return. It reminded Senlin of the dialect unique to inebriated men. He understood not a word of it.</p>
 
-<p class="para-vi-sub">Gã phu Hod nói một câu gì đó lắp bắp và kỳ lạ để đáp lại. Âm thanh làm Senlin nhớ đến phương ngữ lè nhè của những kẻ say xỉn. Anh không hiểu nổi một từ nào.</p>
+<p class="para-vi-sub">Gã phu kiệu nói một câu gì đó lắp bắp và kỳ lạ để đáp lại. Âm thanh làm Senlin nhớ đến phương ngữ lè nhè của những kẻ say xỉn. Anh không hiểu nổi một từ nào.</p>
 
 <p class="para-en">“I’m sorry?” Senlin said.</p>
 
@@ -51,11 +51,11 @@
 
 <p class="para-en">The hod repeated the drunken sentence exactly as he had before, and still it made no sense.</p>
 
-<p class="para-vi-sub">Gã phu Hod lặp lại câu nói lạ lùng đó y như trước, và nó vẫn hoàn toàn vô nghĩa.</p>
+<p class="para-vi-sub">Gã phu kiệu lặp lại câu nói lạ lùng đó y như trước, và nó vẫn hoàn toàn vô nghĩa.</p>
 
 <p class="para-en">“Maybe he’s been in the woods too long,” Edith said. She clapped the water from her ears. The hod maintained the anxious expression he’d come with and glanced all about even as he repeated for a third time the same babbling mess.</p>
 
-<p class="para-vi-sub">“Có lẽ gã đã ở trong rừng quá lâu rồi,” Edith nói. Cô vỗ vào tai để dốc nước ra ngoài. Gã phu Hod vẫn giữ nguyên vẻ mặt lo âu và liếc nhìn xung quanh ngay cả khi gã lặp lại lần thứ ba mớ âm thanh lảm nhảm đó.</p>
+<p class="para-vi-sub">“Có lẽ gã đã ở trong rừng quá lâu rồi,” Edith nói. Cô vỗ vào tai để dốc nước ra ngoài. Gã phu kiệu vẫn giữ nguyên vẻ mặt lo âu và liếc nhìn xung quanh ngay cả khi gã lặp lại lần thứ ba mớ âm thanh lảm nhảm đó.</p>
 
 <p class="para-en">Undaunted, Senlin extended his hand. “I am Captain Tom Mudd. I am looking for a man named Marat.”</p>
 
@@ -63,7 +63,7 @@
 
 <p class="para-en">As soon as the word <em>Marat</em> was spoken, the whole aspect of the hod changed. A moment before, he’d seemed ready to skitter off, and now he seemed quite self-possessed. He bowed at the waist. When he came up, his expression was almost pious. He said, “Marat, Marat, Marat,” and with a series of sweeping gestures, urged them to follow him down a narrow path into the forest.</p>
 
-<p class="para-vi-sub">Ngay khi từ <i>Marat</i> được thốt lên, toàn bộ diện mạo của gã phu Hod liền thay đổi. Một khoảnh khắc trước, gã còn có vẻ sắp sửa bỏ chạy, thì giờ đây gã trở nên khá mực thước. Gã cúi gập người sát eo. Khi ngẩng lên, nét mặt gã gần như mang vẻ sùng đạo. Gã nói, “Marat, Marat, Marat,” và với một loạt cử chỉ vung tay rộng rãi, gã thúc giục họ đi theo mình men theo một lối đi hẹp dẫn vào sâu trong rừng.</p>
+<p class="para-vi-sub">Ngay khi từ <i>Marat</i> được thốt lên, toàn bộ diện mạo của gã phu kiệu liền thay đổi. Một khoảnh khắc trước, gã còn có vẻ sắp sửa bỏ chạy, thì giờ đây gã trở nên khá mực thước. Gã cúi gập người sát eo. Khi ngẩng lên, nét mặt gã gần như mang vẻ sùng đạo. Gã nói, “Marat, Marat, Marat,” và với một loạt cử chỉ vung tay rộng rãi, gã thúc giục họ đi theo mình men theo một lối đi hẹp dẫn vào sâu trong rừng.</p>
 
 <p class="para-en">“Oh, I don’t like him,” Edith said. “He’s exactly the sort of lunatic you warn children about following into the woods. Or don’t you have those stories where you come from?”</p>
 
@@ -79,11 +79,11 @@
 
 <p class="para-en">“It’s a sea cave. They’re quite interesting, actually. You can find all sorts of urchins and crabs and octopuses in them,” Senlin said in an agreeable tone, which the hod smiled at gamely, though he didn’t seem to understand a word. “Look at him, though; he’s harmless. And I don’t think there’s any doubt that he knows Marat.”</p>
 
-<p class="para-vi-sub">“Đó là những hốc đá ven biển. Thực ra chúng rất thú vị. Cô có thể tìm thấy đủ loại nhím biển, cua và bạch tuộc trong đó,” Senlin nói bằng một giọng hòa nhã, và gã phu Hod mỉm cười hưởng ứng một cách hào hứng, mặc dù gã dường như chẳng hiểu một từ nào. “Nhưng hãy nhìn gã xem, gã vô hại mà. Và tôi không nghĩ có bất kỳ hoài nghi nào về việc gã biết Marat.”</p>
+<p class="para-vi-sub">“Đó là những hốc đá ven biển. Thực ra chúng rất thú vị. Cô có thể tìm thấy đủ loại nhím biển, cua và bạch tuộc trong đó,” Senlin nói bằng một giọng hòa nhã, và gã phu kiệu mỉm cười hưởng ứng một cách hào hứng, mặc dù gã dường như chẳng hiểu một từ nào. “Nhưng hãy nhìn gã xem, gã vô hại mà. Và tôi không nghĩ có bất kỳ hoài nghi nào về việc gã biết Marat.”</p>
 
 <p class="para-en">“Marat!” the hod said, and swept his arm at the glowing forest.</p>
 
-<p class="para-vi-sub">“Marat!” gã phu Hod nói, vung tay chỉ về phía khu rừng đang phát sáng.</p>
+<p class="para-vi-sub">“Marat!” gã phu kiệu nói, vung tay chỉ về phía khu rừng đang phát sáng.</p>
 
 <p class="para-en">“He does like that name,” Edith said.</p>
 
@@ -189,11 +189,11 @@
 
 <p class="para-en">The sheer number of hods was startling. There were hundreds of them, perhaps thousands. And they were not idle. They emerged from the forest carrying baskets of wood, great kettles of water, and laundry draped over poles. Sentries stood at the gates of the Zoo, armed with capable-looking rifles. The hods were dressed in an assortment of dishwater sarongs and shabby tabards, none of which were pretty but all of which seemed practical and warm. The camp was militant in its orderliness, a quality Senlin had not anticipated when Bhata referred to it as a mission.</p>
 
-<p class="para-vi-sub">Số lượng phu Hod đông đảo đến kinh ngạc. Có tới hàng trăm người, có lẽ là hàng nghìn người. Và họ không hề nhàn rỗi. Họ từ trong rừng bước ra, tay xách những chiếc giỏ đựng củi, những ấm nước lớn và quần áo phơi trên sào. Những lính canh đứng gác tại các cổng của Vườn Thú, mang theo những khẩu súng trường trông rất đáng gờm. Những người phu Hod mặc đủ loại váy quấn màu nước tro và áo khoác ngắn sờn rách, không bộ nào đẹp đẽ nhưng tất cả đều có vẻ thiết thực và ấm áp. Trại trú ẩn được tổ chức với kỷ luật quân sự nghiêm ngặt, một phẩm chất mà Senlin không hề dự liệu trước khi Madame Bhata gọi nơi này là một giáo đoàn truyền giáo.</p>
+<p class="para-vi-sub">Số lượng phu kiệu đông đảo đến kinh ngạc. Có tới hàng trăm người, có lẽ là hàng nghìn người. Và họ không hề nhàn rỗi. Họ từ trong rừng bước ra, tay xách những chiếc giỏ đựng củi, những ấm nước lớn và quần áo phơi trên sào. Những lính canh đứng gác tại các cổng của Vườn Thú, mang theo những khẩu súng trường trông rất đáng gờm. Những người phu kiệu mặc đủ loại váy quấn màu nước tro và áo khoác ngắn sờn rách, không bộ nào đẹp đẽ nhưng tất cả đều có vẻ thiết thực và ấm áp. Trại trú ẩn được tổ chức với kỷ luật quân sự nghiêm ngặt, một phẩm chất mà Senlin không hề dự liệu trước khi Madame Bhata gọi nơi này là một giáo đoàn truyền giáo.</p>
 
 <p class="para-en">Though he was a little surprised by their numbers, the sight of so many hods stoked his courage. Because where there were hods, there must also be an open path between the ringdoms. Which meant there was a way into Pelphia. Which meant there was hope.</p>
 
-<p class="para-vi-sub">Mặc dù hơi ngạc nhiên trước số lượng đông đảo của họ, cảnh tượng có quá nhiều phu kiệu khổ sai đã vực dậy lòng dũng cảm của Senlin. Bởi vì ở đâu có phu Hod, ở đó ắt phải có một con đường mở thông giữa các tầng Tháp. Điều đó có nghĩa là có một lối đi dẫn vào Pelphia. Điều đó có nghĩa là có hy vọng.</p>
+<p class="para-vi-sub">Mặc dù hơi ngạc nhiên trước số lượng đông đảo của họ, cảnh tượng có quá nhiều phu kiệu khổ sai đã vực dậy lòng dũng cảm của Senlin. Bởi vì ở đâu có phu kiệu, ở đó ắt phải có một con đường mở thông giữa các tầng Tháp. Điều đó có nghĩa là có một lối đi dẫn vào Pelphia. Điều đó có nghĩa là có hy vọng.</p>
 
 <p class="para-en">Still, Senlin thought it wise not to presume they would be given a warm welcome. Despite their guide’s apparent inability with the language, Senlin did not entirely trust their privacy, and so when he spoke to Edith as they walked across the queer lawn, he was purposefully oblique. “We are two lonesome travelers come to beg for our supper and some direction. We will accept whatever hospitality is offered; we will present our modest gift without condition; and we will forgo any discussion of our dependents until we are certain we aren’t bound for trouble.”</p>
 
@@ -221,7 +221,7 @@
 
 <p class="para-en">There were cots everywhere. They stood in ranks in the open court and in every cell. About half of the hods were busy with some domestic work: They cooked and sewed and braided rope. The other half of the population sat stooped in study, books open on their laps. They made feverish notations with nib and ink.</p>
 
-<p class="para-vi-sub">Có những chiếc giường gấp ở khắp mọi nơi. Chúng xếp thành hàng dài ở khoảng sân trống và trong mọi gian chuồng. Khoảng một nửa số phu Hod bận rộn với công việc sinh hoạt: Họ nấu ăn, may vá và bện thừng. Nửa còn lại ngồi khom lưng học tập, với những cuốn sách mở trên đùi. Họ cắm cúi ghi chép bằng ngòi bút và mực.</p>
+<p class="para-vi-sub">Có những chiếc giường gấp ở khắp mọi nơi. Chúng xếp thành hàng dài ở khoảng sân trống và trong mọi gian chuồng. Khoảng một nửa số phu kiệu bận rộn với công việc sinh hoạt: Họ nấu ăn, may vá và bện thừng. Nửa còn lại ngồi khom lưng học tập, với những cuốn sách mở trên đùi. Họ cắm cúi ghi chép bằng ngòi bút và mực.</p>
 
 <p class="para-en">Now that he was looking for them, Senlin saw that there were books everywhere. They stood in stacks under beds and up against the walls of cages. He had never seen so many books outside of a college library, and it made him a little hopeful.</p>
 
@@ -229,11 +229,11 @@
 
 <p class="para-en">After their soggy introduction beside the well, Senlin had concluded that their guide suffered from a defect of birth or was perhaps the victim of some traumatic accident, and it was to this that his gibbering could be attributed. But Senlin now discovered that his guide’s infirmity was not unique. The babbling was endemic. When Senlin tested the name “Marat” with the hods they passed, he got only nonsense in reply. The hods who labored over books didn’t even pay him the courtesy of looking up when he spoke to them, and he couldn’t help feeling a little foolish, like a latecomer to an exam.</p>
 
-<p class="para-vi-sub">Sau màn gặp gỡ sũng nước bên cạnh hồ, Senlin đã kết luận rằng người dẫn đường của họ bị khiếm khuyết bẩm sinh hoặc có lẽ là nạn nhân của một chấn thương nào đó, và những lời nói nhảm nhí của người này có thể bắt nguồn từ đó. Nhưng Senlin giờ đây phát hiện ra rằng tình trạng của người dẫn đường không phải là cá biệt. Thứ ngôn ngữ lải nhải ấy là một hiện tượng phổ biến. Khi Senlin thử nhắc đến cái tên Marat với những người phu Hod đi ngang qua, anh chỉ nhận lại những âm thanh kỳ quặc đáp lại. Những phu Hod miệt mài bên trang sách thậm chí còn không buồn ngẩng lên khi anh bắt chuyện, và anh không thể kìm được cảm giác hơi ngượng ngùng, như một cậu học trò đến muộn trong phòng thi.</p>
+<p class="para-vi-sub">Sau màn gặp gỡ sũng nước bên cạnh hồ, Senlin đã kết luận rằng người dẫn đường của họ bị khiếm khuyết bẩm sinh hoặc có lẽ là nạn nhân của một chấn thương nào đó, và những lời nói nhảm nhí của người này có thể bắt nguồn từ đó. Nhưng Senlin giờ đây phát hiện ra rằng tình trạng của người dẫn đường không phải là cá biệt. Thứ ngôn ngữ lải nhải ấy là một hiện tượng phổ biến. Khi Senlin thử nhắc đến cái tên Marat với những người phu kiệu đi ngang qua, anh chỉ nhận lại những âm thanh kỳ quặc đáp lại. Những phu kiệu miệt mài bên trang sách thậm chí còn không buồn ngẩng lên khi anh bắt chuyện, và anh không thể kìm được cảm giác hơi ngượng ngùng, như một cậu học trò đến muộn trong phòng thi.</p>
 
 <p class="para-en">Their guide led them to an elevator. From inside, the car seemed as delicate as a champagne flute. The hod closed the accordion door and worked the ornate throttle. The engine above them chugged and shook condensation onto their shoulders. The car began to rise. Senlin had never ridden in an elevator before, and he found the sensation a little unsettling. Then he looked down, and his disquiet turned to nausea. The floor was made of a thin pane of quartz through which the ground was distinctly visible. Startled, Senlin instinctively reached out for something to hold and grasped Edith’s clockwork hand. She gave him a consternated look, as if he had called her by the wrong name, and he dropped her hand as speedily as he’d taken it up.</p>
 
-<p class="para-vi-sub">Người dẫn đường đưa họ đến một chiếc thang máy. Từ bên trong, buồng thang có vẻ mỏng manh như một chiếc ly pha lê. Người phu Hod kéo cửa xếp và gạt chiếc cần điều khiển chạm khắc công phu. Động cơ phía trên đầu xình xịch hoạt động và làm rớt những giọt nước ngưng tụ lên vai họ. Buồng thang bắt đầu nâng lên. Senlin chưa bao giờ đi thang máy trước đây, và anh thấy cảm giác đó hơi hẫng hụt. Sau đó anh nhìn xuống, và sự bất an biến thành cảm giác buồn nôn. Sàn thang được làm bằng một tấm thạch anh trong suốt mà qua đó mặt đất bên dưới hiện ra rõ mồn một. Giật mình theo bản năng, Senlin vươn tay tìm điểm tựa và vô tình nắm chặt lấy bàn tay cơ khí của Edith. Cô nhìn anh với vẻ đầy ngỡ ngàng, như thể anh vừa gọi nhầm tên cô, và anh vội buông tay cô ra nhanh như khi vừa chộp lấy.</p>
+<p class="para-vi-sub">Người dẫn đường đưa họ đến một chiếc thang máy. Từ bên trong, buồng thang có vẻ mỏng manh như một chiếc ly pha lê. Người phu kiệu kéo cửa xếp và gạt chiếc cần điều khiển chạm khắc công phu. Động cơ phía trên đầu xình xịch hoạt động và làm rớt những giọt nước ngưng tụ lên vai họ. Buồng thang bắt đầu nâng lên. Senlin chưa bao giờ đi thang máy trước đây, và anh thấy cảm giác đó hơi hẫng hụt. Sau đó anh nhìn xuống, và sự bất an biến thành cảm giác buồn nôn. Sàn thang được làm bằng một tấm thạch anh trong suốt mà qua đó mặt đất bên dưới hiện ra rõ mồn một. Giật mình theo bản năng, Senlin vươn tay tìm điểm tựa và vô tình nắm chặt lấy bàn tay cơ khí của Edith. Cô nhìn anh với vẻ đầy ngỡ ngàng, như thể anh vừa gọi nhầm tên cô, và anh vội buông tay cô ra nhanh như khi vừa chộp lấy.</p>
 
 <p class="para-en">They debarked on the top floor of the Zoo, where long curtains blocked their view of every cell they passed. Their journey came to an end inside an open cell with thick stage curtains drawn over the adjacent rooms.</p>
 
@@ -249,15 +249,15 @@
 
 <p class="para-en">The hod must have sensed her unease because he held up both hands like a man surrendering and said, “Marat, Marat.”</p>
 
-<p class="para-vi-sub">Người phu Hod dường như cảm nhận được nỗi bất an của cô nên vội giơ cả hai tay lên như một kẻ đầu hàng, miệng lặp lại: “Marat, Marat.”</p>
+<p class="para-vi-sub">Người phu kiệu dường như cảm nhận được nỗi bất an của cô nên vội giơ cả hai tay lên như một kẻ đầu hàng, miệng lặp lại: “Marat, Marat.”</p>
 
 <p class="para-en">For a moment, Senlin thought the hod was announcing that he was Marat, and Senlin despaired at ever communicating their need to their babbling host. Then they heard an approaching squeak, which brought a smile to the hod’s face. The squeak played a phrase of three ascending notes that repeated again and again like a lovesick bird.</p>
 
-<p class="para-vi-sub">Trong giây lát, Senlin ngỡ người phu Hod đang thông báo rằng gã chính là Marat, và anh rơi vào tuyệt vọng trước viễn cảnh không biết làm sao để giãi bày thỉnh cầu với người chủ nhà nói thứ tiếng kỳ lạ này. Đúng lúc đó, họ nghe thấy tiếng kêu cót két chầm chậm tiến lại gần, mang lại nụ cười rạng rỡ trên khuôn mặt người dẫn đường. Tiếng cót két lặp đi lặp lại một chuỗi ba nốt nhạc đi lên đều đặn tựa như tiếng hót của một chú chim đang gọi bạn tình.</p>
+<p class="para-vi-sub">Trong giây lát, Senlin ngỡ người phu kiệu đang thông báo rằng gã chính là Marat, và anh rơi vào tuyệt vọng trước viễn cảnh không biết làm sao để giãi bày thỉnh cầu với người chủ nhà nói thứ tiếng kỳ lạ này. Đúng lúc đó, họ nghe thấy tiếng kêu cót két chầm chậm tiến lại gần, mang lại nụ cười rạng rỡ trên khuôn mặt người dẫn đường. Tiếng cót két lặp đi lặp lại một chuỗi ba nốt nhạc đi lên đều đặn tựa như tiếng hót của một chú chim đang gọi bạn tình.</p>
 
 <p class="para-en">Then the source of the squeak came into view on the skywalk outside the cell. It was a man in a wheelchair. His head was shaved, his shirt was plain, and in this way, he resembled any other hod. His smile radiated surety and good humor. Though middle-aged, his pale skin glowed with vitality, an impression that was not diminished by the presence of the wheelchair or the afghan that covered his legs. His face possessed those perfectly symmetrical features that are often reflected in art but seldom found in nature.</p>
 
-<p class="para-vi-sub">Sau đó, nguồn cơn của tiếng cót két xuất hiện trên hành lang lơ lửng bên ngoài gian chuồng. Đó là một người đàn ông ngồi xe lăn. Đầu người này cạo trọc, mặc trang phục giản dị, và thoạt nhìn chẳng khác nào những phu Hod bình thường khác. Nhưng nụ cười của người này tỏa ra sự trầm tĩnh và sức thuyết phục lạ kỳ. Dù đã ở độ tuổi trung niên, làn da tái nhợt của ông vẫn ánh lên vẻ sinh lực dồi dào, một ấn tượng không hề bị suy giảm bởi chiếc xe lăn hay tấm chăn len đắp ngang đôi chân. Gương mặt người đó sở hữu những đường nét cân đối hoàn hảo thường chỉ thấy trong các tác phẩm điêu khắc nghệ thuật chứ hiếm khi tồn tại ngoài đời thực.</p>
+<p class="para-vi-sub">Sau đó, nguồn cơn của tiếng cót két xuất hiện trên hành lang lơ lửng bên ngoài gian chuồng. Đó là một người đàn ông ngồi xe lăn. Đầu người này cạo trọc, mặc trang phục giản dị, và thoạt nhìn chẳng khác nào những phu kiệu bình thường khác. Nhưng nụ cười của người này tỏa ra sự trầm tĩnh và sức thuyết phục lạ kỳ. Dù đã ở độ tuổi trung niên, làn da tái nhợt của ông vẫn ánh lên vẻ sinh lực dồi dào, một ấn tượng không hề bị suy giảm bởi chiếc xe lăn hay tấm chăn len đắp ngang đôi chân. Gương mặt người đó sở hữu những đường nét cân đối hoàn hảo thường chỉ thấy trong các tác phẩm điêu khắc nghệ thuật chứ hiếm khi tồn tại ngoài đời thực.</p>
 
 <p class="para-en">“Welcome,” he said warmly. “I believe you are looking for me. My name is Luc Marat.”</p>
 

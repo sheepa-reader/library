@@ -117,7 +117,7 @@ Edith cảm thấy một luồng ớn lạnh chạy dọc sống lưng khi nghĩ
 
 “Nhưng cụ thể là ngài muốn tôi phải thi hành mệnh lệnh gì?”
 
-“Thời kỳ của sự kiềm chế ngoại giao và cân bằng hòa hoãn đã chính thức khép lại. Tòa Tháp đang bị đục khoét từ bên trong, và cô sẽ là lưỡi gươm nhân danh ý chí của ta đứng ra can thiệp trừng phạt. Cô sẽ xua tan những ảo tưởng tự phụ và nhắc nhở các Lãnh địa Vành Đai về quyền năng tối thượng của ta cũng như bổn phận sống còn của chúng. Cô sẽ đích thân dập tắt mầm mống nổi loạn từ phong trào phu Hod cùng Con Đường Đen. Ta đã chính thức hủy bỏ điều khoản kiêng kỵ trong bản khế ước cũ của cô — điều khoản cấm Người Thức Tỉnh được phép triệt hạ lẫn nhau.”
+“Thời kỳ của sự kiềm chế ngoại giao và cân bằng hòa hoãn đã chính thức khép lại. Tòa Tháp đang bị đục khoét từ bên trong, và cô sẽ là lưỡi gươm nhân danh ý chí của ta đứng ra can thiệp trừng phạt. Cô sẽ xua tan những ảo tưởng tự phụ và nhắc nhở các Lãnh địa Vành Đai về quyền năng tối thượng của ta cũng như bổn phận sống còn của chúng. Cô sẽ đích thân dập tắt mầm mống nổi loạn từ phong trào phu kiệu cùng Con Đường Đen. Ta đã chính thức hủy bỏ điều khoản kiêng kỵ trong bản khế ước cũ của cô — điều khoản cấm Người Thức Tỉnh được phép triệt hạ lẫn nhau.”
 
 “Ý ngài là tôi có quyền hạ sát đồng loại mang chi cơ khí của mình sao?”
 

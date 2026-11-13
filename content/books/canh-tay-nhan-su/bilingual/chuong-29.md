@@ -285,7 +285,7 @@
 
 <p class="para-en">Senlin recalled his time in the Baths with a pang of embarrassment: He’d been such a naive and bumbling pawn, and yet, inexplicably, unfairly, he had escaped while Tarrou was made a hod and Ogier was assassinated. What an absurdity.</p>
 
-<p class="para-vi-sub">Senlin nhớ lại quãng thời gian ở Nhà Tắm với một nỗi chua xót nhói buốt: Khi ấy anh chỉ là một con tốt ngây thơ và vụng về, thế mà chẳng hiểu sao, một cách vô lý và trớ trêu, anh lại trốn thoát được trong khi Tarrou bị đày ải thành phu Hod còn họa sĩ Ogier thì bị sát hại tàn nhẫn. Thật là bất công khôn cùng.</p>
+<p class="para-vi-sub">Senlin nhớ lại quãng thời gian ở Nhà Tắm với một nỗi chua xót nhói buốt: Khi ấy anh chỉ là một con tốt ngây thơ và vụng về, thế mà chẳng hiểu sao, một cách vô lý và trớ trêu, anh lại trốn thoát được trong khi Tarrou bị đày ải thành phu kiệu còn họa sĩ Ogier thì bị sát hại tàn nhẫn. Thật là bất công khôn cùng.</p>
 
 <p class="para-en">“Will you stop showing off, Byron. They’re all very impressed, but nobody wants to tour the whole Tower.”</p>
 

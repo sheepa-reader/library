@@ -15,9 +15,9 @@ Nhưng Senlin đã quên bẵng đi việc làm một đứa trẻ vốn dễ t�
 
 Bản hòa tấu cót két của chiếc xe lăn kết thúc bằng sự xuất hiện của Luc Marat ở bìa rừng. Gã không nói nửa lời, nhưng khuôn mặt tuấn tú kia lại bộc lộ vẻ tàn nhẫn mà gã đã cẩn thận giấu kín trong buổi thưởng trà ban chiều. Gã nhìn họ với ánh mắt lạnh lẽo của một kẻ hành quyết.
 
-Senlin nín thở chờ đợi một loạt đạn xé toạc không gian găm vào da thịt, nhưng không có loạt đạn nào vang lên cả. Quân đoàn phu Hod đứng lăm lăm vũ khí, chờ đợi mệnh lệnh khi Marat đã tới nơi. Thủ lĩnh phu Hod, linh cảm rằng công việc đẫm máu cũng sẽ được hoàn tất êm xuôi bởi bầy ác thú đang chực chờ vồ lấy những vị khách vượt ngục, đã không đưa ra bất kỳ tín hiệu nổ súng nào cho thuộc hạ. Gã chỉ khẽ nghiêng đầu, trước tiên là với Senlin rồi đến Edith. Senlin hiểu rõ cử chỉ tự đắc ấy: <i>Thấy chưa, đây là kết cục giáng xuống đầu những kẻ không có lấy nổi một đồng minh trong Tòa Tháp này. Đây là thảm họa mà ta vốn đã có thể cứu vớt các ngươi, giá như các ngươi chịu chấp nhận điều kiện hợp lý và gia nhập cùng ta.</i>
+Senlin nín thở chờ đợi một loạt đạn xé toạc không gian găm vào da thịt, nhưng không có loạt đạn nào vang lên cả. Quân đoàn phu kiệu đứng lăm lăm vũ khí, chờ đợi mệnh lệnh khi Marat đã tới nơi. Thủ lĩnh phu kiệu, linh cảm rằng công việc đẫm máu cũng sẽ được hoàn tất êm xuôi bởi bầy ác thú đang chực chờ vồ lấy những vị khách vượt ngục, đã không đưa ra bất kỳ tín hiệu nổ súng nào cho thuộc hạ. Gã chỉ khẽ nghiêng đầu, trước tiên là với Senlin rồi đến Edith. Senlin hiểu rõ cử chỉ tự đắc ấy: <i>Thấy chưa, đây là kết cục giáng xuống đầu những kẻ không có lấy nổi một đồng minh trong Tòa Tháp này. Đây là thảm họa mà ta vốn đã có thể cứu vớt các ngươi, giá như các ngươi chịu chấp nhận điều kiện hợp lý và gia nhập cùng ta.</i>
 
-Dĩ nhiên đám phu Hod sẽ không dại dột nổ súng: Làm vậy chỉ kích động bầy quái thú xơi nhện chuyển hướng tấn công vào chúng thay vì hai kẻ đột nhập đang đứng chắn trước hang ổ. Senlin đột ngột nhận ra niềm hy vọng duy nhất của anh và Edith lúc này là khiêu khích đám phu Hod khai hỏa vào lũ quái vật. Anh buộc phải ép Marat lộ diện điểm yếu.
+Dĩ nhiên đám phu kiệu sẽ không dại dột nổ súng: Làm vậy chỉ kích động bầy quái thú xơi nhện chuyển hướng tấn công vào chúng thay vì hai kẻ đột nhập đang đứng chắn trước hang ổ. Senlin đột ngột nhận ra niềm hy vọng duy nhất của anh và Edith lúc này là khiêu khích đám phu kiệu khai hỏa vào lũ quái vật. Anh buộc phải ép Marat lộ diện điểm yếu.
 
 Con quái thú xơi nhện ở ngay sau lưng anh phát ra tiếng kêu gừ gừ thứ hai, trầm đục và mang tính cảnh cáo đe dọa rõ rệt. Senlin biết mình không còn nhiều thời gian. Anh tung ra canh bạc cuối cùng.
 
@@ -33,11 +33,11 @@ Tín hiệu mà Marat phát ra cho Koro gần như không thể nhận thấy, c
 
 Edith và Senlin cùng lúc thả lỏng cơ thể và ngã sụp xuống bãi cát. Tiếng súng nổ chát chúa, tiếng đạn cắm phập vào lớp da thịt dày cộm, cùng những tiếng rống giận dữ xé lòng của bầy quái thú xơi nhện đâm thủng màng nhĩ họ. Senlin chưa kịp đưa tay che chắn thì một chiếc chân lông lá khổng lồ đã đá thẳng vào đầu anh. Anh ngã nhào về phía trước vào giữa những cặp chân đang giẫm đạp cuồng loạn của bầy quái vật và vội cuộn tròn người lại.
 
-Cát bụi cuộn lên mù mịt, nhưng qua màn hỗn chiến, Senlin nhìn thấy bầy quái thú xơi nhện dùng những cặp móng vuốt dài ngoằng quắp lấy đám phu Hod rồi quăng quật họ vào các thân cây sứ ngọc. Đòn trả đũa của bầy quái vật diễn ra nhanh gọn và tàn khốc: Chúng giẫm đạp lên những kẻ ngã xuống, hạ gục hàng loạt phu Hod trước khi bọn chúng kịp hạ súng lục xuống để tuốt gươm.
+Cát bụi cuộn lên mù mịt, nhưng qua màn hỗn chiến, Senlin nhìn thấy bầy quái thú xơi nhện dùng những cặp móng vuốt dài ngoằng quắp lấy đám phu kiệu rồi quăng quật họ vào các thân cây sứ ngọc. Đòn trả đũa của bầy quái vật diễn ra nhanh gọn và tàn khốc: Chúng giẫm đạp lên những kẻ ngã xuống, hạ gục hàng loạt phu kiệu trước khi bọn chúng kịp hạ súng lục xuống để tuốt gươm.
 
-Vẫn còn choáng váng và ôm chặt lấy đầu gối, Senlin đảo mắt tìm kiếm Luc Marat giữa trận địa hỗn loạn, nhưng anh không còn thấy bóng dáng của chiếc xe lăn ma quái đâu nữa. Gã thủ lĩnh đã nhanh chân rút lui ngay khi tiếng súng đầu tiên nổ ra. Rõ ràng sự trân quý mà gã dành cho tính mạng bản thân lại hoàn toàn vắng bóng nơi thuộc hạ của gã. Đám phu Hod lao vào tử địa gai góc với sự lỳ lợm đến mức cuồng tín. Bọn chúng không hề nao núng khi bị quái thú húc thủng ngực, quăng quật và nghiền nát thân mình xuống cát.
+Vẫn còn choáng váng và ôm chặt lấy đầu gối, Senlin đảo mắt tìm kiếm Luc Marat giữa trận địa hỗn loạn, nhưng anh không còn thấy bóng dáng của chiếc xe lăn ma quái đâu nữa. Gã thủ lĩnh đã nhanh chân rút lui ngay khi tiếng súng đầu tiên nổ ra. Rõ ràng sự trân quý mà gã dành cho tính mạng bản thân lại hoàn toàn vắng bóng nơi thuộc hạ của gã. Đám phu kiệu lao vào tử địa gai góc với sự lỳ lợm đến mức cuồng tín. Bọn chúng không hề nao núng khi bị quái thú húc thủng ngực, quăng quật và nghiền nát thân mình xuống cát.
 
-Tuy nhiên, những con quái thú xơi nhện dũng mãnh cũng không thể tránh khỏi thương vong trước sự liều chết của đám phu Hod. Những lưỡi gươm liên tục chém vào cơ thể lũ quái vật, và dù từng vết thương riêng lẻ không đủ gây tử vong tức thì, sự dồn dập đã khiến chúng suy kiệt. Máu đen chảy ra bết dính trên lớp lông rậm rạp của bầy thú. Con nhỏ nhất trong đàn đã bị đánh gục, nằm nghiêng sang một bên, giãy giụa tuyệt vọng khi từng tên phu Hod lao vào đâm những mũi kiếm xuyên qua lồng ngực nó. Tiếng kêu ré lên ở quãng cao của con thú non nghe vô cùng ai oán, khiến Senlin dâng lên một nỗi xót xa trước cái chết của con vật.
+Tuy nhiên, những con quái thú xơi nhện dũng mãnh cũng không thể tránh khỏi thương vong trước sự liều chết của đám phu kiệu. Những lưỡi gươm liên tục chém vào cơ thể lũ quái vật, và dù từng vết thương riêng lẻ không đủ gây tử vong tức thì, sự dồn dập đã khiến chúng suy kiệt. Máu đen chảy ra bết dính trên lớp lông rậm rạp của bầy thú. Con nhỏ nhất trong đàn đã bị đánh gục, nằm nghiêng sang một bên, giãy giụa tuyệt vọng khi từng tên phu kiệu lao vào đâm những mũi kiếm xuyên qua lồng ngực nó. Tiếng kêu ré lên ở quãng cao của con thú non nghe vô cùng ai oán, khiến Senlin dâng lên một nỗi xót xa trước cái chết của con vật.
 
 <hr class="scene-break"/>
 
@@ -107,7 +107,7 @@ Tranh thủ giây lát dừng chân, Senlin kiểm tra lại chiếc la bàn. H�
 
 Senlin tiến lại gần một cỗ máy cơ khí hoen gỉ nhô ra bên lối rẽ: “Nhìn kìa, người bạn đà điểu quen thuộc của chúng ta đây rồi.”
 
-Edith khẽ xoay cổ để thích ứng với sức nặng mới đè lên vai: “Chẳng lẽ trên các con đường mòn lại không đầy rẫy đám phu Hod của Con Đường Đen sao? Tôi nghĩ chúng ta cứ băng qua bụi rậm này thì an toàn hơn.”
+Edith khẽ xoay cổ để thích ứng với sức nặng mới đè lên vai: “Chẳng lẽ trên các con đường mòn lại không đầy rẫy đám phu kiệu của Con Đường Đen sao? Tôi nghĩ chúng ta cứ băng qua bụi rậm này thì an toàn hơn.”
 
 “Tôi không nghĩ vậy. Bọn chúng sắp đuổi kịp chúng ta rồi, nếu chưa muốn nói là đã vượt lên trước để chặn đường về tàu. Chúng ta buộc phải đi theo đường mòn để tăng tốc độ. Cô dẫn đường đi. Tôi sẽ cản hậu bất cứ kẻ nào đuổi tới từ phía sau.” Anh chật vật rút thanh đoản kiếm ra khỏi vỏ giữa những nhánh cây chằng chịt, động tác có phần vụng về nhưng dứt khoát.
 
@@ -117,7 +117,7 @@ Cô toan mở miệng tranh cãi, nhưng Senlin đã nghiêm giọng cắt ngang
 
 Edith tuốt thanh kiếm của mình với một đường kiếm uyển chuyển như muốn ngầm khẳng định: dù chỉ còn một tay lành lặn, cô vẫn là kiếm sĩ cừ khôi hơn anh rất nhiều.
 
-Lối mòn ngoằn ngoèo uốn lượn dưới thứ ánh sáng xanh mờ ảo của rêu lân quang, khiến tầm nhìn của họ bị giới hạn trong một khoảng cách rất ngắn. May mắn thay, con đường lúc này vẫn vắng lặng. Có lẽ đám phu Hod vẫn đang mắc kẹt trong cuộc chiến hỗn loạn với bầy quái thú xơi nhện, hoặc đã bị đàn ác thú đánh tan tác. Senlin và Edith không bận tâm đến nguyên do. Sau mỗi khúc quanh an toàn, bước chân của họ lại càng gấp gáp hơn và lồng ngực đập rộn ràng. Họ đã đến rất gần con tàu.
+Lối mòn ngoằn ngoèo uốn lượn dưới thứ ánh sáng xanh mờ ảo của rêu lân quang, khiến tầm nhìn của họ bị giới hạn trong một khoảng cách rất ngắn. May mắn thay, con đường lúc này vẫn vắng lặng. Có lẽ đám phu kiệu vẫn đang mắc kẹt trong cuộc chiến hỗn loạn với bầy quái thú xơi nhện, hoặc đã bị đàn ác thú đánh tan tác. Senlin và Edith không bận tâm đến nguyên do. Sau mỗi khúc quanh an toàn, bước chân của họ lại càng gấp gáp hơn và lồng ngực đập rộn ràng. Họ đã đến rất gần con tàu.
 
 Lối mòn cuối cùng cũng mở ra bãi cát trải dài và nghĩa địa xác tàu hoang tàn. Ánh nắng rực rỡ chiếu rọi qua cửa vòm bến cảng khiến họ gần như choáng ngợp vì nhẹ nhõm. Có một mùi hương sắc lạnh lan tỏa trong không khí; trong lành và hoàn toàn khác biệt với mùi ẩm mốc, lạnh lẽo của rêu phong và nước đọng trong rừng sâu.
 

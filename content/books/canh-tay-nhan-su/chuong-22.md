@@ -135,7 +135,7 @@ Thomas Senlin gác chân lên nhau và khoanh tay kê sau gáy. Ánh sáng từ 
 
 Anh giật mình bừng tỉnh trong cơn hốt hoảng khi nhận ra mình đã ngủ thiếp đi, và tệ hơn là họ không còn ở một mình trong phòng nữa.
 
-Một phu Hod còng lưng trong chiếc áo choàng dày đang ngồi thu lu ở cuối giường của anh, cái đầu trọc nhẵn bóng hắt bóng ngược lại ánh đèn từ sảnh lớn. Thomas Senlin bật dậy khỏi giường, sẵn sàng lao thẳng vào kẻ đột nhập. Nhưng cú lao người của anh bỗng khựng lại giữa chừng bởi một tiếng cười khúc khích quen thuộc tinh nghịch.
+Một phu kiệu còng lưng trong chiếc áo choàng dày đang ngồi thu lu ở cuối giường của anh, cái đầu trọc nhẵn bóng hắt bóng ngược lại ánh đèn từ sảnh lớn. Thomas Senlin bật dậy khỏi giường, sẵn sàng lao thẳng vào kẻ đột nhập. Nhưng cú lao người của anh bỗng khựng lại giữa chừng bởi một tiếng cười khúc khích quen thuộc tinh nghịch.
 
 Đôi mắt to tròn sáng ngời của Voleta đang nhìn trân trân vào anh. Mái tóc của cô bé, mái tóc bồng bềnh xinh xắn ngày nào, giờ đã bị cạo nham nhở ngắn củn như một lớp nhung kẻ.
 
@@ -143,7 +143,7 @@ Cô bé cất lời khi anh vẫn còn đang đứng hình vì kinh ngạc: “T
 
 Edith cũng ngồi bật dậy trên giường và thảng thốt: “Voleta?” Quần áo và tóc tai cô vẫn còn vương nét xộc xệch của giấc ngủ, nhưng ánh mắt đã nhanh chóng lấy lại sự sắc bén. “Em làm gì ở đây thế? Trời đất ơi… em đã làm gì với mái tóc của mình vậy?”
 
-“Em cắt đi rồi. Giờ em là một phu Hod chính hiệu đây này,” cô bé đáp đầy tự đắc.
+“Em cắt đi rồi. Giờ em là một phu kiệu chính hiệu đây này,” cô bé đáp đầy tự đắc.
 
 Senlin bàng hoàng hỏi: “Không đời nào là thật chứ?”
 
@@ -171,7 +171,7 @@ Khi Voleta cởi bỏ chiếc áo choàng rộng thùng thình ra, họ mới v�
 
 “Đây không phải là trò chơi con trẻ đâu,” Edith nghiêm giọng nói.
 
-“Em biết đây không phải trò chơi mà,” Voleta vừa nói vừa đưa tay xoa xoa lên mái đầu vừa cạo nhẵn. Nét mặt cô bé bỗng chùng xuống khi nhớ lại cảnh tượng kinh hoàng ban nãy. “Em đã thấy đám phu Hod ở cổng giết chết một người đàn ông. Anh ta chẳng làm gì hại bọn chúng cả. Anh ta chỉ là một phu Hod trên đường hầm muốn đi tiếp con đường của mình. Bọn chúng dụ dỗ bảo nếu gia nhập thì anh ta sẽ được tự do. Rồi chúng bóp cổ giết chết anh ta.”
+“Em biết đây không phải trò chơi mà,” Voleta vừa nói vừa đưa tay xoa xoa lên mái đầu vừa cạo nhẵn. Nét mặt cô bé bỗng chùng xuống khi nhớ lại cảnh tượng kinh hoàng ban nãy. “Em đã thấy đám phu kiệu ở cổng giết chết một người đàn ông. Anh ta chẳng làm gì hại bọn chúng cả. Anh ta chỉ là một phu kiệu trên đường hầm muốn đi tiếp con đường của mình. Bọn chúng dụ dỗ bảo nếu gia nhập thì anh ta sẽ được tự do. Rồi chúng bóp cổ giết chết anh ta.”
 
 “Những kẻ này cứ làm ra vẻ thanh cao đạo mạo cho đến khi người ta nói ‘Không, cảm ơn nhé’, rồi dao găm mới bắt đầu lộ ra,” Edith trầm giọng lầm bầm.
 
@@ -193,7 +193,7 @@ Khi Voleta cởi bỏ chiếc áo choàng rộng thùng thình ra, họ mới v�
 
 “Đó là lý do em đã chuẩn bị sẵn một kế hoạch dương đông kích tây,” Voleta nói, thoăn thoắt xoay người chui ngược trở lại chiếc áo choàng rộng. “Hai người cứ lách qua song sắt đu xuống, còn em sẽ gặp lại mọi người ở con tàu.”
 
-“Chúng ta không thể để em ở lại làm mồi nhử cho cả một đội quân phu Hod có vũ trang được. Em phải đi cùng chúng ta. Chúng ta chỉ cần thật cẩn trọng là được.”
+“Chúng ta không thể để em ở lại làm mồi nhử cho cả một đội quân phu kiệu có vũ trang được. Em phải đi cùng chúng ta. Chúng ta chỉ cần thật cẩn trọng là được.”
 
 “Sẽ không hiệu quả đâu, Thuyền trưởng. Hơn nữa, nếu ngài thực sự lo cho em, thì để em tự xoay xở một mình còn an toàn hơn nhiều. Em sẽ cao chạy xa bay vào trong rừng rậm từ đời nào trước khi ngòi cháy hết.”
 

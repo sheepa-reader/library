@@ -55,7 +55,7 @@ Cơn thịnh nộ trút xuống dồn dập và gay gắt đến mức Edith ho�
 
 Dù cảm thấy bứt rứt và nhục nhã tột cùng, Edith vẫn cắn răng nghiêng mặt đi, cố không nhìn vào cảnh tượng Nhân Sư đang thao tác thô bạo trên cơ thể mình. “Họ không phải là tân binh để buôn bán, thưa ngài. Đây là vị thuyền trưởng và các thuyền viên của tôi.”
 
-“Một gã khổng lồ một mắt, một kẻ mang tâm bệnh hoang tưởng, một con nhóc phu Hod, và một người phụ nữ lực lưỡng dường như vừa đánh mất chiếc thắt lưng của mình. Quả là một đám tàn quân đáng thương.”
+“Một gã khổng lồ một mắt, một kẻ mang tâm bệnh hoang tưởng, một con nhóc phu kiệu, và một người phụ nữ lực lưỡng dường như vừa đánh mất chiếc thắt lưng của mình. Quả là một đám tàn quân đáng thương.”
 
 Iren siết chặt cạp quần, vặn xoắn mép vải thô để kiềm chế cơn thôi thúc muốn bóp nát cổ họng Nhân Sư. Voleta vội đặt tay lên cẳng tay cô để vỗ về trấn an.
 
@@ -73,7 +73,7 @@ Adam đứng chết trân như vừa bị một nhát kiếm đâm trúng ngực
 
 “Cậu ta đang lao động khổ sai để trừ nợ,” Edith đáp dứt khoát.
 
-“Thế còn con bé phu Hod kia thì sao? Nó có mang dị tật hay tật bệnh gì không?”
+“Thế còn con bé phu kiệu kia thì sao? Nó có mang dị tật hay tật bệnh gì không?”
 
 “Thể chất hoàn toàn bình thường, duy chỉ có lương tâm và đạo đức thì đã chết yểu từ trong trứng nước, tôi e là vậy. Ban sáng chúng tôi suýt nữa đã tống cổ bỏ mặc nó lại trên vách đá.”
 
@@ -99,7 +99,7 @@ Byron cẩn thận ôm lấy cánh tay kim loại lạnh ngắt của cô mang v
 
 Chỉ đến khi Ferdinand bắt đầu khép hai bàn tay hộ pháp lại, Nhân Sư mới khẽ giơ một ngón tay đưa ra tín hiệu dừng. Hai lòng bàn tay kim loại, mỗi chiếc rộng như một tấm ván giặt, khựng lại cách mang tai Senlin chỉ trong đường tơ kẽ tóc. “Đây không phải là Tòa Tháp của ta. Nhưng xin mời, anh cứ tiếp tục bài diễn thuyết,” Nhân Sư điềm nhiên nói.
 
-“Tòa Tháp này thực chất là một cỗ máy phát điện khổng lồ. Tầng Hầm khai thác và bơm nước, Phòng Khách cung cấp nhiệt lượng sưởi ấm, Nhà Tắm tạo ra áp suất hơi nước, và tuabin của Tân Babel chuyển hóa toàn bộ thành dòng điện năng. Tôi tin chắc các Lãnh địa Vành Đai khác cũng đóng góp những mắt xích trọng yếu vào chu trình ấy. Kỹ nghệ cơ khí của ông biến điều đó thành hiện thực, nhưng xương máu và sức lực vận hành lại do hàng triệu sinh mạng con người gánh vác — một số là phu Hod khổ sai, một số là cư dân tự do nhưng đều đã dâng hiến trọn vẹn sức khỏe và tài sản cho guồng máy vô tận này. Và toàn bộ dòng năng lượng vĩ đại ấy chảy về đâu? Chà, nó tiêu biến ngay trước ngưỡng cửa căn phòng này của ông! Hàng ngàn ngọn đèn hồ quang thắp sáng rực rỡ dọc các hành lang hoang phế, thắp sáng những gian phòng mô hình trống trơn không bóng người, đó là cách ông đền đáp sự hy sinh của nhân loại sao? Thật cao thượng. Thật đáng tự hào làm sao!”
+“Tòa Tháp này thực chất là một cỗ máy phát điện khổng lồ. Tầng Hầm khai thác và bơm nước, Phòng Khách cung cấp nhiệt lượng sưởi ấm, Nhà Tắm tạo ra áp suất hơi nước, và tuabin của Tân Babel chuyển hóa toàn bộ thành dòng điện năng. Tôi tin chắc các Lãnh địa Vành Đai khác cũng đóng góp những mắt xích trọng yếu vào chu trình ấy. Kỹ nghệ cơ khí của ông biến điều đó thành hiện thực, nhưng xương máu và sức lực vận hành lại do hàng triệu sinh mạng con người gánh vác — một số là phu kiệu khổ sai, một số là cư dân tự do nhưng đều đã dâng hiến trọn vẹn sức khỏe và tài sản cho guồng máy vô tận này. Và toàn bộ dòng năng lượng vĩ đại ấy chảy về đâu? Chà, nó tiêu biến ngay trước ngưỡng cửa căn phòng này của ông! Hàng ngàn ngọn đèn hồ quang thắp sáng rực rỡ dọc các hành lang hoang phế, thắp sáng những gian phòng mô hình trống trơn không bóng người, đó là cách ông đền đáp sự hy sinh của nhân loại sao? Thật cao thượng. Thật đáng tự hào làm sao!”
 
 “Ta hoàn toàn đồng tình,” Nhân Sư cất lời.
 
@@ -107,9 +107,9 @@ Chỉ đến khi Ferdinand bắt đầu khép hai bàn tay hộ pháp lại, Nh�
 
 “Ở phần đáng để đồng tình.”
 
-Lách qua thân hình sừng sững của cỗ máy bảo vệ, Senlin dứt khoát bước thẳng tới đối diện với Nhân Sư. Byron toan buông lời quát tháo ngăn cản, nhưng Senlin không hề lùi bước. “Ông sở hữu những cỗ máy cơ khí này, những cỗ máy tự hành dũng mãnh, thừa sức thực hiện những kỳ công vượt quá giới hạn thể chất của con người.” Khoảng cách thu hẹp lại, hình ảnh phản chiếu lộn ngược của chính Senlin phóng to trên bề mặt chiếc mặt nạ gương lõm quái dị. “Lấy cỗ máy hộ pháp khổng lồ ngoài bến đỗ làm ví dụ: Tôi dám đánh cược rằng chỉ cần gã đó cùng vài cỗ máy tương tự là đủ sức thay thế toàn bộ lực lượng phu Hod đang còng lưng lao dịch trong lòng Tháp. Ông hoàn toàn có quyền năng giải phóng con người khỏi kiếp đày ải khổ sai nếu ông chịu buông tay giải phóng đàn tôi tớ máy móc của mình.”
+Lách qua thân hình sừng sững của cỗ máy bảo vệ, Senlin dứt khoát bước thẳng tới đối diện với Nhân Sư. Byron toan buông lời quát tháo ngăn cản, nhưng Senlin không hề lùi bước. “Ông sở hữu những cỗ máy cơ khí này, những cỗ máy tự hành dũng mãnh, thừa sức thực hiện những kỳ công vượt quá giới hạn thể chất của con người.” Khoảng cách thu hẹp lại, hình ảnh phản chiếu lộn ngược của chính Senlin phóng to trên bề mặt chiếc mặt nạ gương lõm quái dị. “Lấy cỗ máy hộ pháp khổng lồ ngoài bến đỗ làm ví dụ: Tôi dám đánh cược rằng chỉ cần gã đó cùng vài cỗ máy tương tự là đủ sức thay thế toàn bộ lực lượng phu kiệu đang còng lưng lao dịch trong lòng Tháp. Ông hoàn toàn có quyền năng giải phóng con người khỏi kiếp đày ải khổ sai nếu ông chịu buông tay giải phóng đàn tôi tớ máy móc của mình.”
 
-“Ồ, làm ơn đi, đừng diễn trò đạo đức giả trước mặt ta nữa,” Nhân Sư cúi thấp người xuống, tiến sát đến mức Senlin thấy hình ảnh phản chiếu của chính mình bị kéo giãn, méo mó rồi xoắn vặn lại thành những vệt sáng quái đản trước khi định hình trở lại. Cảm giác bị đe dọa bởi chính gương mặt phản chiếu của bản thân thật quái dị khôn tả. “Anh chẳng bận tâm đâu. Anh chẳng hề mảy may thương xót đám phu Hod hay những kẻ đang đạp xe mua vui và cào than kiếm sống. Anh thực chất chẳng hề quan tâm đến bất kỳ ai trên cõi đời này, kể cả đám tàn quân tự xưng là thủy thủ đoàn trung thành này của anh.”
+“Ồ, làm ơn đi, đừng diễn trò đạo đức giả trước mặt ta nữa,” Nhân Sư cúi thấp người xuống, tiến sát đến mức Senlin thấy hình ảnh phản chiếu của chính mình bị kéo giãn, méo mó rồi xoắn vặn lại thành những vệt sáng quái đản trước khi định hình trở lại. Cảm giác bị đe dọa bởi chính gương mặt phản chiếu của bản thân thật quái dị khôn tả. “Anh chẳng bận tâm đâu. Anh chẳng hề mảy may thương xót đám phu kiệu hay những kẻ đang đạp xe mua vui và cào than kiếm sống. Anh thực chất chẳng hề quan tâm đến bất kỳ ai trên cõi đời này, kể cả đám tàn quân tự xưng là thủy thủ đoàn trung thành này của anh.”
 
 “Thật thế sao?” Senlin gằn giọng, kiên quyết không rời mắt khỏi hình ảnh phản chiếu đang dao động của chính mình.
 
@@ -133,7 +133,7 @@ Iren rón rén ngồi ghé vào mép chiếc ghế bành, một phần vì khôn
 
 Thấy vị chủ nhân không hề có ý định ngồi xuống, Senlin cũng chọn đứng yên, anh bước lại gần bệ lò sưởi ấm áp — một vị trí giúp anh cảm thấy tự chủ hơn. Nhân Sư dõi theo từng cử động của anh nhưng không hề lên tiếng phản đối.
 
-“Bây giờ, ta sẽ chứng minh cho ngươi thấy rằng ngươi chẳng hề mảy may bận tâm đến phong trào Vua Hod cùng Con Đường Đen, không quan tâm đến những kẻ đồng hành trong chuyến đi, và thậm chí cũng chẳng hề tha thiết gì với đám thủy thủ đoàn của ngươi.”
+“Bây giờ, ta sẽ chứng minh cho ngươi thấy rằng ngươi chẳng hề mảy may bận tâm đến phong trào Vua Phu Kiệu cùng Con Đường Đen, không quan tâm đến những kẻ đồng hành trong chuyến đi, và thậm chí cũng chẳng hề tha thiết gì với đám thủy thủ đoàn của ngươi.”
 
 “Vâng, xin mời ngài cứ việc khai sáng cho tôi,” Senlin đáp.
 

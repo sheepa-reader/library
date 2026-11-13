@@ -115,11 +115,11 @@ Goll nắm chặt tay, đấm mạnh vào thành máng bia cho đến khi nó va
 
 “Tôi có kể.”
 
-“Và kết quả sao? Nó nói mấy lời tử tế, đầy hy vọng, tôi cá chắc thế. Nó biến anh thành một đứa trẻ trên tay, ru anh ngủ, rồi tiện tay móc túi anh luôn.” Goll lắc đầu mạnh đến mức mồ hôi văng ra từ những lọn tóc xoăn tối màu. “Chẳng có một linh hồn nào ở đây giúp anh đâu. Kẻ tốt thì chẳng có thực lực lẫn tâm trí, còn kẻ xấu thì chỉ chực hút cạn máu anh. Chúng sẽ bán cho anh tin đồn, bản đồ, sách hướng dẫn, mấy thứ thích hợp để gói cá hơn là tìm vợ! Anh sẽ nhận được nhiều sự giúp đỡ đến mức chẳng còn lấy một đồng shekel dắt lưng. Dĩ nhiên là với giả định anh chưa nghèo kiết xác như một phu Hod…” Lão ợ lên một tiếng.
+“Và kết quả sao? Nó nói mấy lời tử tế, đầy hy vọng, tôi cá chắc thế. Nó biến anh thành một đứa trẻ trên tay, ru anh ngủ, rồi tiện tay móc túi anh luôn.” Goll lắc đầu mạnh đến mức mồ hôi văng ra từ những lọn tóc xoăn tối màu. “Chẳng có một linh hồn nào ở đây giúp anh đâu. Kẻ tốt thì chẳng có thực lực lẫn tâm trí, còn kẻ xấu thì chỉ chực hút cạn máu anh. Chúng sẽ bán cho anh tin đồn, bản đồ, sách hướng dẫn, mấy thứ thích hợp để gói cá hơn là tìm vợ! Anh sẽ nhận được nhiều sự giúp đỡ đến mức chẳng còn lấy một đồng shekel dắt lưng. Dĩ nhiên là với giả định anh chưa nghèo kiết xác như một phu kiệu khổ sai…” Lão ợ lên một tiếng.
 
-“Cứ giả định là thế đi,” Senlin nói lảng. Dù Goll trông có vẻ bất hảo, nhưng những lời cảnh báo của gã lại rất có lý. Có lẽ phải cần nhiều hơn một người dẫn đường và một chiếc khăn tay để chèo chống qua Tháp Babel. “Phu Hod là gì?”
+“Cứ giả định là thế đi,” Senlin nói lảng. Dù Goll trông có vẻ bất hảo, nhưng những lời cảnh báo của gã lại rất có lý. Có lẽ phải cần nhiều hơn một người dẫn đường và một chiếc khăn tay để chèo chống qua Tháp Babel. “Phu kiệu là gì?”
 
-“Ông bạn chắc chắn đã thấy họ rồi. Mấy kẻ khốn khổ đầu trọc, gầy giơ xương, lưng trần mang vòng sắt ấy. Đó là những kiếp nô dịch. Phu Hod chính là phận nô lệ bị đày ải. Chúng vác từng bao cát, than và đá đi lên, đi lên mãi! Công trình vẫn tiếp tục dựng xây. Tháp Babel vẫn chưa buông tha chúng ta đâu. Ôi, mù mắt thật chứ, nghe tôi cứ như một vị ẩn sĩ huyền thuật vậy!”
+“Ông bạn chắc chắn đã thấy họ rồi. Mấy kẻ khốn khổ đầu trọc, gầy giơ xương, lưng trần mang vòng sắt ấy. Đó là những kiếp nô dịch. Phu kiệu chính là phận nô lệ bị đày ải. Chúng vác từng bao cát, than và đá đi lên, đi lên mãi! Công trình vẫn tiếp tục dựng xây. Tháp Babel vẫn chưa buông tha chúng ta đâu. Ôi, mù mắt thật chứ, nghe tôi cứ như một vị ẩn sĩ huyền thuật vậy!”
 
 Mới vài phút trước, Senlin còn cảm thấy mình thượng đẳng hơn người đàn ông thô kệch, không chút tự trọng này. Nhưng giờ đây, anh nghĩ giữ gã bên cạnh biết đâu lại có lợi. “Nghe này, ông Goll, tôi xin lỗi vì cách tôi đối xử với ông lúc nãy. Và tôi rất trân trọng những gì ông đã nói. Có lẽ ông sẽ cân nhắc việc làm người dẫn đường được thuê chứ…”
 

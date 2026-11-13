@@ -23,17 +23,17 @@ Khuôn mặt đang nhìn trộm thuộc về một người đàn ông hói đ�
 
 “Xin chào,” Senlin nói. Anh kéo vạt áo sũng nước của mình, vắt ra từng dòng nước ròng ròng.
 
-Gã phu Hod nói một câu gì đó lắp bắp và kỳ lạ để đáp lại. Âm thanh làm Senlin nhớ đến phương ngữ lè nhè của những kẻ say xỉn. Anh không hiểu nổi một từ nào.
+Gã phu kiệu nói một câu gì đó lắp bắp và kỳ lạ để đáp lại. Âm thanh làm Senlin nhớ đến phương ngữ lè nhè của những kẻ say xỉn. Anh không hiểu nổi một từ nào.
 
 “Xin lỗi?” Senlin nói.
 
-Gã phu Hod lặp lại câu nói lạ lùng đó y như trước, và nó vẫn hoàn toàn vô nghĩa.
+Gã phu kiệu lặp lại câu nói lạ lùng đó y như trước, và nó vẫn hoàn toàn vô nghĩa.
 
-“Có lẽ gã đã ở trong rừng quá lâu rồi,” Edith nói. Cô vỗ vào tai để dốc nước ra ngoài. Gã phu Hod vẫn giữ nguyên vẻ mặt lo âu và liếc nhìn xung quanh ngay cả khi gã lặp lại lần thứ ba mớ âm thanh lảm nhảm đó.
+“Có lẽ gã đã ở trong rừng quá lâu rồi,” Edith nói. Cô vỗ vào tai để dốc nước ra ngoài. Gã phu kiệu vẫn giữ nguyên vẻ mặt lo âu và liếc nhìn xung quanh ngay cả khi gã lặp lại lần thứ ba mớ âm thanh lảm nhảm đó.
 
 Không hề nao núng, Senlin chìa tay ra. “Tôi là Thuyền trưởng Tom Mudd. Tôi đang tìm một người tên là Marat.”
 
-Ngay khi từ <i>Marat</i> được thốt lên, toàn bộ diện mạo của gã phu Hod liền thay đổi. Một khoảnh khắc trước, gã còn có vẻ sắp sửa bỏ chạy, thì giờ đây gã trở nên khá mực thước. Gã cúi gập người sát eo. Khi ngẩng lên, nét mặt gã gần như mang vẻ sùng đạo. Gã nói, “Marat, Marat, Marat,” và với một loạt cử chỉ vung tay rộng rãi, gã thúc giục họ đi theo mình men theo một lối đi hẹp dẫn vào sâu trong rừng.
+Ngay khi từ <i>Marat</i> được thốt lên, toàn bộ diện mạo của gã phu kiệu liền thay đổi. Một khoảnh khắc trước, gã còn có vẻ sắp sửa bỏ chạy, thì giờ đây gã trở nên khá mực thước. Gã cúi gập người sát eo. Khi ngẩng lên, nét mặt gã gần như mang vẻ sùng đạo. Gã nói, “Marat, Marat, Marat,” và với một loạt cử chỉ vung tay rộng rãi, gã thúc giục họ đi theo mình men theo một lối đi hẹp dẫn vào sâu trong rừng.
 
 “Ồ, tôi không thích gã chút nào,” Edith nói. “Gã chính xác là kiểu kẻ kỳ quặc mà người ta hay cảnh báo trẻ con không được đi theo vào rừng. Hay là ở nơi anh sống không có những câu chuyện đó?”
 
@@ -41,9 +41,9 @@ Ngay khi từ <i>Marat</i> được thốt lên, toàn bộ diện mạo của g
 
 “Hang đá là thế nào?”
 
-“Đó là những hốc đá ven biển. Thực ra chúng rất thú vị. Cô có thể tìm thấy đủ loại nhím biển, cua và bạch tuộc trong đó,” Senlin nói bằng một giọng hòa nhã, và gã phu Hod mỉm cười hưởng ứng một cách hào hứng, mặc dù gã dường như chẳng hiểu một từ nào. “Nhưng hãy nhìn gã xem, gã vô hại mà. Và tôi không nghĩ có bất kỳ hoài nghi nào về việc gã biết Marat.”
+“Đó là những hốc đá ven biển. Thực ra chúng rất thú vị. Cô có thể tìm thấy đủ loại nhím biển, cua và bạch tuộc trong đó,” Senlin nói bằng một giọng hòa nhã, và gã phu kiệu mỉm cười hưởng ứng một cách hào hứng, mặc dù gã dường như chẳng hiểu một từ nào. “Nhưng hãy nhìn gã xem, gã vô hại mà. Và tôi không nghĩ có bất kỳ hoài nghi nào về việc gã biết Marat.”
 
-“Marat!” gã phu Hod nói, vung tay chỉ về phía khu rừng đang phát sáng.
+“Marat!” gã phu kiệu nói, vung tay chỉ về phía khu rừng đang phát sáng.
 
 “Gã có vẻ thích cái tên đó đấy,” Edith nói.
 
@@ -99,9 +99,9 @@ Một giờ sau khi cuộc hành trình vất vả bắt đầu, khu rừng đ�
 
 Vườn Thú Vàng trông giống một chiếc lồng chim khổng lồ, nhưng nói vậy thì chưa đủ và thậm chí còn gây hiểu lầm. Nó có hình chiếc chuông úp với mặt bằng hình tròn, mang một dáng vẻ tao nhã, nhưng sự tương đồng chỉ dừng lại ở đó. Vườn Thú Vàng là một pháo đài lấp lánh, một tòa thành mạ vàng với các thanh chắn dày đặc và đa dạng tựa như dây đàn hạc. Sự thanh thoát trong hình dáng tổng thể của Vườn Thú không hề phản ánh sự phức tạp ở bên trong, nơi bao gồm nhiều tầng và vô số ô chuồng, một số ô rực sáng ánh đèn, một số bị che khuất bởi rèm rủ, và rất nhiều nơi nhộn nhịp hoạt động của những con người bên trong. Khung cảnh đó gợi cho Senlin liên tưởng đến một tổ ong đang miệt mài làm việc.
 
-Số lượng phu Hod đông đảo đến kinh ngạc. Có tới hàng trăm người, có lẽ là hàng nghìn người. Và họ không hề nhàn rỗi. Họ từ trong rừng bước ra, tay xách những chiếc giỏ đựng củi, những ấm nước lớn và quần áo phơi trên sào. Những lính canh đứng gác tại các cổng của Vườn Thú, mang theo những khẩu súng trường trông rất đáng gờm. Những người phu Hod mặc đủ loại váy quấn màu nước tro và áo khoác ngắn sờn rách, không bộ nào đẹp đẽ nhưng tất cả đều có vẻ thiết thực và ấm áp. Trại trú ẩn được tổ chức với kỷ luật quân sự nghiêm ngặt, một phẩm chất mà Senlin không hề dự liệu trước khi Madame Bhata gọi nơi này là một giáo đoàn truyền giáo.
+Số lượng phu kiệu đông đảo đến kinh ngạc. Có tới hàng trăm người, có lẽ là hàng nghìn người. Và họ không hề nhàn rỗi. Họ từ trong rừng bước ra, tay xách những chiếc giỏ đựng củi, những ấm nước lớn và quần áo phơi trên sào. Những lính canh đứng gác tại các cổng của Vườn Thú, mang theo những khẩu súng trường trông rất đáng gờm. Những người phu kiệu mặc đủ loại váy quấn màu nước tro và áo khoác ngắn sờn rách, không bộ nào đẹp đẽ nhưng tất cả đều có vẻ thiết thực và ấm áp. Trại trú ẩn được tổ chức với kỷ luật quân sự nghiêm ngặt, một phẩm chất mà Senlin không hề dự liệu trước khi Madame Bhata gọi nơi này là một giáo đoàn truyền giáo.
 
-Mặc dù hơi ngạc nhiên trước số lượng đông đảo của họ, cảnh tượng có quá nhiều phu kiệu khổ sai đã vực dậy lòng dũng cảm của Senlin. Bởi vì ở đâu có phu Hod, ở đó ắt phải có một con đường mở thông giữa các tầng Tháp. Điều đó có nghĩa là có một lối đi dẫn vào Pelphia. Điều đó có nghĩa là có hy vọng.
+Mặc dù hơi ngạc nhiên trước số lượng đông đảo của họ, cảnh tượng có quá nhiều phu kiệu khổ sai đã vực dậy lòng dũng cảm của Senlin. Bởi vì ở đâu có phu kiệu, ở đó ắt phải có một con đường mở thông giữa các tầng Tháp. Điều đó có nghĩa là có một lối đi dẫn vào Pelphia. Điều đó có nghĩa là có hy vọng.
 
 Tuy nhiên, Senlin nghĩ rằng thật khôn ngoan khi không nên vội vã tin rằng họ sẽ nhận được sự chào đón nồng hậu. Bất chấp sự bất lực rõ ràng của người dẫn đường đối với ngôn ngữ, Senlin không hoàn toàn tin tưởng vào sự kín đáo của đôi bên, và vì vậy khi anh nói chuyện với Edith lúc họ bước đi trên thảm rêu kỳ lạ, anh đã cố tình dùng lời lẽ kín kẽ. Chúng ta là hai lữ khách đơn độc đến để xin một bữa ăn và vài lời chỉ dẫn. Chúng ta sẽ đón nhận bất kỳ lòng hiếu khách nào được ban phát; chúng ta sẽ dâng tặng món quà khiêm tốn của mình mà không kèm theo điều kiện nào; và chúng ta sẽ gác lại mọi cuộc thảo luận về những người đồng hành cho đến khi chúng ta chắc chắn rằng mình không gặp nguy hiểm.
 
@@ -115,13 +115,13 @@ Sảnh chính bên trong Vườn Thú Vàng rộng lớn như quảng trường 
 
 Senlin chưa từng thấy điều gì kỳ diệu đến thế, mặc dù cảnh tượng rực rỡ của vàng và pha lê trở nên lạ lùng bởi dòng người đàn ông và phụ nữ trong trang phục rách rưới đang qua lại nườm nượp.
 
-Có những chiếc giường gấp ở khắp mọi nơi. Chúng xếp thành hàng dài ở khoảng sân trống và trong mọi gian chuồng. Khoảng một nửa số phu Hod bận rộn với công việc sinh hoạt: Họ nấu ăn, may vá và bện thừng. Nửa còn lại ngồi khom lưng học tập, với những cuốn sách mở trên đùi. Họ cắm cúi ghi chép bằng ngòi bút và mực.
+Có những chiếc giường gấp ở khắp mọi nơi. Chúng xếp thành hàng dài ở khoảng sân trống và trong mọi gian chuồng. Khoảng một nửa số phu kiệu bận rộn với công việc sinh hoạt: Họ nấu ăn, may vá và bện thừng. Nửa còn lại ngồi khom lưng học tập, với những cuốn sách mở trên đùi. Họ cắm cúi ghi chép bằng ngòi bút và mực.
 
 Bây giờ khi chú ý tìm kiếm, Senlin thấy sách xuất hiện ở khắp mọi nơi. Chúng nằm thành từng chồng dưới gầm giường và xếp dọc các bức vách của lồng sắt. Anh chưa bao giờ thấy nhiều sách như vậy bên ngoài thư viện của một trường đại học, và điều đó nhen nhóm trong anh niềm hy vọng lớn lao.
 
-Sau màn gặp gỡ sũng nước bên cạnh hồ, Senlin đã kết luận rằng người dẫn đường của họ bị khiếm khuyết bẩm sinh hoặc có lẽ là nạn nhân của một chấn thương nào đó, và những lời nói nhảm nhí của người này có thể bắt nguồn từ đó. Nhưng Senlin giờ đây phát hiện ra rằng tình trạng của người dẫn đường không phải là cá biệt. Thứ ngôn ngữ lải nhải ấy là một hiện tượng phổ biến. Khi Senlin thử nhắc đến cái tên Marat với những người phu Hod đi ngang qua, anh chỉ nhận lại những âm thanh kỳ quặc đáp lại. Những phu Hod miệt mài bên trang sách thậm chí còn không buồn ngẩng lên khi anh bắt chuyện, và anh không thể kìm được cảm giác hơi ngượng ngùng, như một cậu học trò đến muộn trong phòng thi.
+Sau màn gặp gỡ sũng nước bên cạnh hồ, Senlin đã kết luận rằng người dẫn đường của họ bị khiếm khuyết bẩm sinh hoặc có lẽ là nạn nhân của một chấn thương nào đó, và những lời nói nhảm nhí của người này có thể bắt nguồn từ đó. Nhưng Senlin giờ đây phát hiện ra rằng tình trạng của người dẫn đường không phải là cá biệt. Thứ ngôn ngữ lải nhải ấy là một hiện tượng phổ biến. Khi Senlin thử nhắc đến cái tên Marat với những người phu kiệu đi ngang qua, anh chỉ nhận lại những âm thanh kỳ quặc đáp lại. Những phu kiệu miệt mài bên trang sách thậm chí còn không buồn ngẩng lên khi anh bắt chuyện, và anh không thể kìm được cảm giác hơi ngượng ngùng, như một cậu học trò đến muộn trong phòng thi.
 
-Người dẫn đường đưa họ đến một chiếc thang máy. Từ bên trong, buồng thang có vẻ mỏng manh như một chiếc ly pha lê. Người phu Hod kéo cửa xếp và gạt chiếc cần điều khiển chạm khắc công phu. Động cơ phía trên đầu xình xịch hoạt động và làm rớt những giọt nước ngưng tụ lên vai họ. Buồng thang bắt đầu nâng lên. Senlin chưa bao giờ đi thang máy trước đây, và anh thấy cảm giác đó hơi hẫng hụt. Sau đó anh nhìn xuống, và sự bất an biến thành cảm giác buồn nôn. Sàn thang được làm bằng một tấm thạch anh trong suốt mà qua đó mặt đất bên dưới hiện ra rõ mồn một. Giật mình theo bản năng, Senlin vươn tay tìm điểm tựa và vô tình nắm chặt lấy bàn tay cơ khí của Edith. Cô nhìn anh với vẻ đầy ngỡ ngàng, như thể anh vừa gọi nhầm tên cô, và anh vội buông tay cô ra nhanh như khi vừa chộp lấy.
+Người dẫn đường đưa họ đến một chiếc thang máy. Từ bên trong, buồng thang có vẻ mỏng manh như một chiếc ly pha lê. Người phu kiệu kéo cửa xếp và gạt chiếc cần điều khiển chạm khắc công phu. Động cơ phía trên đầu xình xịch hoạt động và làm rớt những giọt nước ngưng tụ lên vai họ. Buồng thang bắt đầu nâng lên. Senlin chưa bao giờ đi thang máy trước đây, và anh thấy cảm giác đó hơi hẫng hụt. Sau đó anh nhìn xuống, và sự bất an biến thành cảm giác buồn nôn. Sàn thang được làm bằng một tấm thạch anh trong suốt mà qua đó mặt đất bên dưới hiện ra rõ mồn một. Giật mình theo bản năng, Senlin vươn tay tìm điểm tựa và vô tình nắm chặt lấy bàn tay cơ khí của Edith. Cô nhìn anh với vẻ đầy ngỡ ngàng, như thể anh vừa gọi nhầm tên cô, và anh vội buông tay cô ra nhanh như khi vừa chộp lấy.
 
 Họ bước ra ở tầng cao nhất của Vườn Thú, nơi những tấm rèm dài buông rủ che khuất tầm nhìn vào các gian chuồng dọc lối đi. Hành trình của họ dừng lại bên trong một chiếc chuồng mở với những tấm rèm sân khấu dày kéo ngăn cách các phòng liền kề.
 
@@ -129,11 +129,11 @@ Ngoài những chồng sách có mặt ở khắp mọi nơi, căn phòng còn k
 
 Edith liếc nhìn Senlin đầy ẩn ý và đặt tay lên chuôi kiếm. Khẩu súng ngắn chưa nạp đạn của cô đã bị đánh rơi dưới hồ nước, nhưng điều đó chẳng mấy quan trọng. Cô không hề đưa ra một lời đe dọa suông; chẳng có chút hung hăng lộ liễu nào trong phong thái của cô. Cô tuyệt đối sẽ không để người dẫn đường đóng cửa chiếc lồng này lại. Biết rõ những gì cô từng phải trải qua trong lần cuối cùng bị giam cầm, Senlin khó lòng trách được sự cảnh giác ấy.
 
-Người phu Hod dường như cảm nhận được nỗi bất an của cô nên vội giơ cả hai tay lên như một kẻ đầu hàng, miệng lặp lại: “Marat, Marat.”
+Người phu kiệu dường như cảm nhận được nỗi bất an của cô nên vội giơ cả hai tay lên như một kẻ đầu hàng, miệng lặp lại: “Marat, Marat.”
 
-Trong giây lát, Senlin ngỡ người phu Hod đang thông báo rằng gã chính là Marat, và anh rơi vào tuyệt vọng trước viễn cảnh không biết làm sao để giãi bày thỉnh cầu với người chủ nhà nói thứ tiếng kỳ lạ này. Đúng lúc đó, họ nghe thấy tiếng kêu cót két chầm chậm tiến lại gần, mang lại nụ cười rạng rỡ trên khuôn mặt người dẫn đường. Tiếng cót két lặp đi lặp lại một chuỗi ba nốt nhạc đi lên đều đặn tựa như tiếng hót của một chú chim đang gọi bạn tình.
+Trong giây lát, Senlin ngỡ người phu kiệu đang thông báo rằng gã chính là Marat, và anh rơi vào tuyệt vọng trước viễn cảnh không biết làm sao để giãi bày thỉnh cầu với người chủ nhà nói thứ tiếng kỳ lạ này. Đúng lúc đó, họ nghe thấy tiếng kêu cót két chầm chậm tiến lại gần, mang lại nụ cười rạng rỡ trên khuôn mặt người dẫn đường. Tiếng cót két lặp đi lặp lại một chuỗi ba nốt nhạc đi lên đều đặn tựa như tiếng hót của một chú chim đang gọi bạn tình.
 
-Sau đó, nguồn cơn của tiếng cót két xuất hiện trên hành lang lơ lửng bên ngoài gian chuồng. Đó là một người đàn ông ngồi xe lăn. Đầu người này cạo trọc, mặc trang phục giản dị, và thoạt nhìn chẳng khác nào những phu Hod bình thường khác. Nhưng nụ cười của người này tỏa ra sự trầm tĩnh và sức thuyết phục lạ kỳ. Dù đã ở độ tuổi trung niên, làn da tái nhợt của ông vẫn ánh lên vẻ sinh lực dồi dào, một ấn tượng không hề bị suy giảm bởi chiếc xe lăn hay tấm chăn len đắp ngang đôi chân. Gương mặt người đó sở hữu những đường nét cân đối hoàn hảo thường chỉ thấy trong các tác phẩm điêu khắc nghệ thuật chứ hiếm khi tồn tại ngoài đời thực.
+Sau đó, nguồn cơn của tiếng cót két xuất hiện trên hành lang lơ lửng bên ngoài gian chuồng. Đó là một người đàn ông ngồi xe lăn. Đầu người này cạo trọc, mặc trang phục giản dị, và thoạt nhìn chẳng khác nào những phu kiệu bình thường khác. Nhưng nụ cười của người này tỏa ra sự trầm tĩnh và sức thuyết phục lạ kỳ. Dù đã ở độ tuổi trung niên, làn da tái nhợt của ông vẫn ánh lên vẻ sinh lực dồi dào, một ấn tượng không hề bị suy giảm bởi chiếc xe lăn hay tấm chăn len đắp ngang đôi chân. Gương mặt người đó sở hữu những đường nét cân đối hoàn hảo thường chỉ thấy trong các tác phẩm điêu khắc nghệ thuật chứ hiếm khi tồn tại ngoài đời thực.
 
 “Chào mừng,” người đó cất lời nồng nhiệt. “Tôi tin là quý khách đang tìm kiếm tôi. Tên tôi là Luc Marat.”
 

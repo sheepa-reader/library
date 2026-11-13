@@ -267,7 +267,7 @@
 
 <p class="para-en">A hunchbacked hod in a heavy cloak sat at the foot of his bed, his bald head backlit by the lamps of the atrium. Senlin bolted upright and prepared to throw himself at the intruder. His lunge was arrested by a familiar, goofy chuckle.</p>
 
-<p class="para-vi-sub">Một phu Hod còng lưng trong chiếc áo choàng dày đang ngồi thu lu ở cuối giường của anh, cái đầu trọc nhẵn bóng hắt bóng ngược lại ánh đèn từ sảnh lớn. Thomas Senlin bật dậy khỏi giường, sẵn sàng lao thẳng vào kẻ đột nhập. Nhưng cú lao người của anh bỗng khựng lại giữa chừng bởi một tiếng cười khúc khích quen thuộc tinh nghịch.</p>
+<p class="para-vi-sub">Một phu kiệu còng lưng trong chiếc áo choàng dày đang ngồi thu lu ở cuối giường của anh, cái đầu trọc nhẵn bóng hắt bóng ngược lại ánh đèn từ sảnh lớn. Thomas Senlin bật dậy khỏi giường, sẵn sàng lao thẳng vào kẻ đột nhập. Nhưng cú lao người của anh bỗng khựng lại giữa chừng bởi một tiếng cười khúc khích quen thuộc tinh nghịch.</p>
 
 <p class="para-en">Voleta’s wide eyes stared back at him. Her hair, her beautiful rolling hair, was shaved now as short as corduroy.</p>
 
@@ -283,7 +283,7 @@
 
 <p class="para-en">“I cut it. I’m a hod,” she said.</p>
 
-<p class="para-vi-sub">“Em cắt đi rồi. Giờ em là một phu Hod chính hiệu đây này,” cô bé đáp đầy tự đắc.</p>
+<p class="para-vi-sub">“Em cắt đi rồi. Giờ em là một phu kiệu chính hiệu đây này,” cô bé đáp đầy tự đắc.</p>
 
 <p class="para-en">“Not really?” Senlin asked, aghast.</p>
 
@@ -339,7 +339,7 @@
 
 <p class="para-en">“I know it’s not a game,” she said, scrubbing a hand back and forth over the side of her shaved head. Her expression clouded at an ugly memory. “I saw the local guards kill a man. He didn’t do anything to them. He was just a hod who wanted to go on. They told him that if he joined them, he’d be free. Then they killed him.”</p>
 
-<p class="para-vi-sub">“Em biết đây không phải trò chơi mà,” Voleta vừa nói vừa đưa tay xoa xoa lên mái đầu vừa cạo nhẵn. Nét mặt cô bé bỗng chùng xuống khi nhớ lại cảnh tượng kinh hoàng ban nãy. “Em đã thấy đám phu Hod ở cổng giết chết một người đàn ông. Anh ta chẳng làm gì hại bọn chúng cả. Anh ta chỉ là một phu Hod trên đường hầm muốn đi tiếp con đường của mình. Bọn chúng dụ dỗ bảo nếu gia nhập thì anh ta sẽ được tự do. Rồi chúng bóp cổ giết chết anh ta.”</p>
+<p class="para-vi-sub">“Em biết đây không phải trò chơi mà,” Voleta vừa nói vừa đưa tay xoa xoa lên mái đầu vừa cạo nhẵn. Nét mặt cô bé bỗng chùng xuống khi nhớ lại cảnh tượng kinh hoàng ban nãy. “Em đã thấy đám phu kiệu ở cổng giết chết một người đàn ông. Anh ta chẳng làm gì hại bọn chúng cả. Anh ta chỉ là một phu kiệu trên đường hầm muốn đi tiếp con đường của mình. Bọn chúng dụ dỗ bảo nếu gia nhập thì anh ta sẽ được tự do. Rồi chúng bóp cổ giết chết anh ta.”</p>
 
 <p class="para-en">“These people are all tea and biscuits until you tell them, ‘No, thank you,’ and then the knives come out,” Edith grumbled.</p>
 
@@ -383,7 +383,7 @@
 
 <p class="para-en">“We’re not going to leave you to bait a zoo full of armed hods. You’ll come with us. We’ll just have to be discreet.”</p>
 
-<p class="para-vi-sub">“Chúng ta không thể để em ở lại làm mồi nhử cho cả một đội quân phu Hod có vũ trang được. Em phải đi cùng chúng ta. Chúng ta chỉ cần thật cẩn trọng là được.”</p>
+<p class="para-vi-sub">“Chúng ta không thể để em ở lại làm mồi nhử cho cả một đội quân phu kiệu có vũ trang được. Em phải đi cùng chúng ta. Chúng ta chỉ cần thật cẩn trọng là được.”</p>
 
 <p class="para-en">“It won’t work, Captain. Besides, if you’re really worried about me, I’ll be safer on my own. I’ll be in the trees and halfway home before the fuse runs out.”</p>
 

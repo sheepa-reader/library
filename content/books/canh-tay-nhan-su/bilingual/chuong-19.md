@@ -41,7 +41,7 @@
 
 <p class="para-en">The hod looked up from his work at the sound of his name. Marat spoke a few words of gibberish to him, and the hod laughed at the inscrutable joke. “I asked him if he missed the good old days when we first arrived. You should have seen the Zoo then. The spiders had moved in. You’ve never seen such cobwebs. It was like cutting through a mattress.” He shook his head, knitting his perfect brow. Koro moved on to another boot. The swishing of his brush accompanied Marat’s dulcet voice. “There’s always that point when you undertake something new, that moment when everything is tentative and fragile. In our case, that period lasted for years. You might not suspect it to look at us now, but we came very close to extinction.”</p>
 
-<p class="para-vi-sub">Người phu Hod ngẩng lên khỏi công việc khi nghe thấy tên mình. Marat nói vài từ tiếng Hoddish với Koro, và người phu bật cười trước câu nói đùa khó hiểu đó. “Tôi vừa hỏi cậu ấy có nhớ những ngày tháng gian nan khi chúng tôi mới đặt chân tới đây hay không. Lúc đó các vị nên tận mắt nhìn Vườn Thú Vàng thì hơn. Lũ nhện đã biến nơi này thành ổ. Các vị chưa từng thấy những mạng nhện khổng lồ đến thế đâu. Cảm giác dọn dẹp chẳng khác nào dùng dao rạch qua một tấm nệm dày.” Marat lắc đầu, khẽ nhíu đôi lông mày hoàn mỹ. Koro chuyển sang chiếc giày tiếp theo. Tiếng bàn chải sột soạt hòa nhịp êm ả cùng giọng nói dịu dàng của Marat. “Luôn có thời điểm khi bạn khởi đầu một điều gì đó mới mẻ, khoảnh khắc mà mọi thứ đều chông chênh và thử nghiệm. Trong trường hợp của chúng tôi, giai đoạn đó kéo dài đằng đẵng nhiều năm trời. Nhìn cơ ngơi này bây giờ các vị khó mà tưởng tượng được, nhưng chúng tôi đã từng suýt bị xóa sổ.”</p>
+<p class="para-vi-sub">Người phu kiệu ngẩng lên khỏi công việc khi nghe thấy tên mình. Marat nói vài từ tiếng Hoddish với Koro, và người phu bật cười trước câu nói đùa khó hiểu đó. “Tôi vừa hỏi cậu ấy có nhớ những ngày tháng gian nan khi chúng tôi mới đặt chân tới đây hay không. Lúc đó các vị nên tận mắt nhìn Vườn Thú Vàng thì hơn. Lũ nhện đã biến nơi này thành ổ. Các vị chưa từng thấy những mạng nhện khổng lồ đến thế đâu. Cảm giác dọn dẹp chẳng khác nào dùng dao rạch qua một tấm nệm dày.” Marat lắc đầu, khẽ nhíu đôi lông mày hoàn mỹ. Koro chuyển sang chiếc giày tiếp theo. Tiếng bàn chải sột soạt hòa nhịp êm ả cùng giọng nói dịu dàng của Marat. “Luôn có thời điểm khi bạn khởi đầu một điều gì đó mới mẻ, khoảnh khắc mà mọi thứ đều chông chênh và thử nghiệm. Trong trường hợp của chúng tôi, giai đoạn đó kéo dài đằng đẵng nhiều năm trời. Nhìn cơ ngơi này bây giờ các vị khó mà tưởng tượng được, nhưng chúng tôi đã từng suýt bị xóa sổ.”</p>
 
 <p class="para-en">“There certainly are a lot of you,” Senlin said, and ate another biscuit. He thought they were quite nice, though they undoubtedly benefited from the seasoning of hunger.</p>
 
@@ -61,7 +61,7 @@
 
 <p class="para-en">Marat paused to speak to Koro, and whatever he said made the hod look terribly grave. “They die, Captain Mudd. They die in droves from exhaustion, injury, illness, thirst …” Speaking of these injustices soured their host’s mood. A moment before, he had been enjoying his tea. Now, he seemed embarrassed by even this humble luxury. He pushed the cup away.</p>
 
-<p class="para-vi-sub">Marat dừng lại để trò chuyện với Koro, và bất cứ điều gì gã nói ra cũng khiến người phu Hod trầm ngâm nghiêm nghị. “Họ ngã xuống, Thuyền trưởng Mudd. Họ chết thành từng đoàn vì kiệt sức, thương tật, bệnh dịch và khát cháy…” Nhắc đến những bất công này dường như làm hỏng hoàn toàn tâm trạng của vị chủ nhà. Mới một thoáng trước, gã còn đang thưởng trà khoan thai. Giờ đây, gã dường như cảm thấy hổ thẹn ngay cả trước sự đãi ngộ khiêm tốn này. Gã đẩy tách trà ra xa.</p>
+<p class="para-vi-sub">Marat dừng lại để trò chuyện với Koro, và bất cứ điều gì gã nói ra cũng khiến người phu kiệu trầm ngâm nghiêm nghị. “Họ ngã xuống, Thuyền trưởng Mudd. Họ chết thành từng đoàn vì kiệt sức, thương tật, bệnh dịch và khát cháy…” Nhắc đến những bất công này dường như làm hỏng hoàn toàn tâm trạng của vị chủ nhà. Mới một thoáng trước, gã còn đang thưởng trà khoan thai. Giờ đây, gã dường như cảm thấy hổ thẹn ngay cả trước sự đãi ngộ khiêm tốn này. Gã đẩy tách trà ra xa.</p>
 
 <p class="para-en">Senlin thought of his friend Tarrou, who had been ripped from his lounge chair beside the shining reservoir and thrown onto the black trail after a brief, bloody baptism. Perhaps Tarrou had succumbed to his wounds and was already dead. And perhaps death was preferable to the alternative Marat described.</p>
 
@@ -73,7 +73,7 @@
 
 <p class="para-en">Though Senlin was trying his best to be agreeable, he didn’t believe this for an instant. The hods he’d seen marching around the perimeter and the workers in the Zoo appeared generally vital and energetic. This was no field hospital.</p>
 
-<p class="para-vi-sub">Dù đang cố gắng tỏ ra lịch thiệp, Senlin không tin vào những lời này dù chỉ một giây. Những phu Hod mà anh nhìn thấy tuần tra quanh khuôn viên và những người đang làm việc trong Vườn Thú Vàng đều trông rất khỏe khoắn và dẻo dai. Nơi này hoàn toàn không giống một trạm xá tiếp tế người bệnh.</p>
+<p class="para-vi-sub">Dù đang cố gắng tỏ ra lịch thiệp, Senlin không tin vào những lời này dù chỉ một giây. Những phu kiệu mà anh nhìn thấy tuần tra quanh khuôn viên và những người đang làm việc trong Vườn Thú Vàng đều trông rất khỏe khoắn và dẻo dai. Nơi này hoàn toàn không giống một trạm xá tiếp tế người bệnh.</p>
 
 <p class="para-en">“Free to get your tea, you mean?” Edith said, revealing her own doubts.</p>
 
@@ -139,7 +139,7 @@
 
 <p class="para-en">“You’re not like the other Wakemen, are you? I can see you’re right on the verge, teetering between loyalty and revolt. Wonderful. That’s such an exciting place to be. Let me show you something,” Marat said with a delicate expression of arrogance that a less attractive face would’ve turned into a sneer. He spoke to Koro, who had finished with their boots. The hod smiled like a bulldog, then scuttled from the room.</p>
 
-<p class="para-vi-sub">Marat đáp rằng cô rất khác so với những Người Thức Tỉnh khác, và gã nhận thấy cô đang chông chênh bên bờ vực giữa lòng trung thành mù quáng và sự phản kháng quyết liệt. Một vị thế vô cùng thú vị. Marat nói với vẻ ngạo mạn mà nếu xuất hiện trên một khuôn mặt thô kệch thì đã biến thành sự khinh bỉ ghê tởm, rồi đề nghị cô chiêm ngưỡng một thứ. Gã ra hiệu cho Koro, người vừa hoàn tất việc đánh giày. Người phu Hod nở nụ cười ngoan ngoãn rồi lẳng lặng rời khỏi phòng.</p>
+<p class="para-vi-sub">Marat đáp rằng cô rất khác so với những Người Thức Tỉnh khác, và gã nhận thấy cô đang chông chênh bên bờ vực giữa lòng trung thành mù quáng và sự phản kháng quyết liệt. Một vị thế vô cùng thú vị. Marat nói với vẻ ngạo mạn mà nếu xuất hiện trên một khuôn mặt thô kệch thì đã biến thành sự khinh bỉ ghê tởm, rồi đề nghị cô chiêm ngưỡng một thứ. Gã ra hiệu cho Koro, người vừa hoàn tất việc đánh giày. Người phu kiệu nở nụ cười ngoan ngoãn rồi lẳng lặng rời khỏi phòng.</p>
 
 <p class="para-en">“You’ve probably figured out by now that there were never any animals here. The Golden Zoo was a collection of the Sphinx’s windups. They once filled these cages.”</p>
 
@@ -227,15 +227,15 @@
 
 <p class="para-en">“Absolutely. I live to serve my fellow hod.”</p>
 
-<p class="para-vi-sub">“Dĩ nhiên rồi. Tôi sống là để nâng đỡ những anh em phu Hod đồng cảnh ngộ của mình mà.”</p>
+<p class="para-vi-sub">“Dĩ nhiên rồi. Tôi sống là để nâng đỡ những anh em phu kiệu đồng cảnh ngộ của mình mà.”</p>
 
 <p class="para-en">“Fellow hod?”</p>
 
-<p class="para-vi-sub">“Phu Hod đồng cảnh ngộ ư?”</p>
+<p class="para-vi-sub">“Phu kiệu đồng cảnh ngộ ư?”</p>
 
 <p class="para-en">“You don’t seriously believe that you can walk the trail as you are? You wouldn’t survive the night. Not all hods are as magnanimous as I am. Some of them hold grudges against free men in general and Wakemen in particular. Even if you survived the walk to Pelphia, the moment you popped out, the local constabulary would arrest you and conscript you into hoddery.”</p>
 
-<p class="para-vi-sub">“Chẳng lẽ các vị nghĩ mình có thể đi trên con đường đó với thân phận tự do như hiện tại sao? Các vị sẽ không sống nổi qua đêm nay đâu. Không phải người phu Hod nào cũng có lòng từ tâm như tôi. Rất nhiều người trong số họ căm thù những kẻ tự do nói chung và những Người Thức Tỉnh nói riêng. Ngay cả khi các vị sống sót đến được Pelphia, thì ngay khoảnh khắc bước chân ra khỏi đường hầm, cảnh sát địa phương sẽ lập tức bắt giữ và tống các vị vào các công trường khổ sai.”</p>
+<p class="para-vi-sub">“Chẳng lẽ các vị nghĩ mình có thể đi trên con đường đó với thân phận tự do như hiện tại sao? Các vị sẽ không sống nổi qua đêm nay đâu. Không phải người phu kiệu nào cũng có lòng từ tâm như tôi. Rất nhiều người trong số họ căm thù những kẻ tự do nói chung và những Người Thức Tỉnh nói riêng. Ngay cả khi các vị sống sót đến được Pelphia, thì ngay khoảnh khắc bước chân ra khỏi đường hầm, cảnh sát địa phương sẽ lập tức bắt giữ và tống các vị vào các công trường khổ sai.”</p>
 
 <p class="para-en">Senlin’s expression darkened as Marat spoke. “So, you propose that we become hods willingly?”</p>
 

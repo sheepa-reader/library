@@ -227,7 +227,7 @@
 
 <p class="para-en">“The age of subtlety and diplomacy has passed. The Tower is infested, and you will intervene on my account. You will dispel the myths and remind the ringdoms of my power and their responsibilities. You will confront the threat of the hods. I have removed from your contract the restriction regarding other Wakemen.”</p>
 
-<p class="para-vi-sub">“Thời kỳ của sự kiềm chế ngoại giao và cân bằng hòa hoãn đã chính thức khép lại. Tòa Tháp đang bị đục khoét từ bên trong, và cô sẽ là lưỡi gươm nhân danh ý chí của ta đứng ra can thiệp trừng phạt. Cô sẽ xua tan những ảo tưởng tự phụ và nhắc nhở các Lãnh địa Vành Đai về quyền năng tối thượng của ta cũng như bổn phận sống còn của chúng. Cô sẽ đích thân dập tắt mầm mống nổi loạn từ phong trào phu Hod cùng Con Đường Đen. Ta đã chính thức hủy bỏ điều khoản kiêng kỵ trong bản khế ước cũ của cô — điều khoản cấm Người Thức Tỉnh được phép triệt hạ lẫn nhau.”</p>
+<p class="para-vi-sub">“Thời kỳ của sự kiềm chế ngoại giao và cân bằng hòa hoãn đã chính thức khép lại. Tòa Tháp đang bị đục khoét từ bên trong, và cô sẽ là lưỡi gươm nhân danh ý chí của ta đứng ra can thiệp trừng phạt. Cô sẽ xua tan những ảo tưởng tự phụ và nhắc nhở các Lãnh địa Vành Đai về quyền năng tối thượng của ta cũng như bổn phận sống còn của chúng. Cô sẽ đích thân dập tắt mầm mống nổi loạn từ phong trào phu kiệu cùng Con Đường Đen. Ta đã chính thức hủy bỏ điều khoản kiêng kỵ trong bản khế ước cũ của cô — điều khoản cấm Người Thức Tỉnh được phép triệt hạ lẫn nhau.”</p>
 
 <p class="para-en">“You’re saying I can kill my kin?”</p>
 

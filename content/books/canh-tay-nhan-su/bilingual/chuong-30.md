@@ -107,7 +107,7 @@
 
 <p class="para-en">“A cyclops, an addict, a hod, and an old woman who seems to have lost her belt. Quite the crew.”</p>
 
-<p class="para-vi-sub">“Một gã khổng lồ một mắt, một kẻ mang tâm bệnh hoang tưởng, một con nhóc phu Hod, và một người phụ nữ lực lưỡng dường như vừa đánh mất chiếc thắt lưng của mình. Quả là một đám tàn quân đáng thương.”</p>
+<p class="para-vi-sub">“Một gã khổng lồ một mắt, một kẻ mang tâm bệnh hoang tưởng, một con nhóc phu kiệu, và một người phụ nữ lực lưỡng dường như vừa đánh mất chiếc thắt lưng của mình. Quả là một đám tàn quân đáng thương.”</p>
 
 <p class="para-en">Iren pulled and twisted the waist of her pants, wringing their hem rather than the Sphinx’s neck. Voleta petted the amazon’s arm to calm her.</p>
 
@@ -143,7 +143,7 @@
 
 <p class="para-en">“What about the hod girl? Is she ill at all?”</p>
 
-<p class="para-vi-sub">“Thế còn con bé phu Hod kia thì sao? Nó có mang dị tật hay tật bệnh gì không?”</p>
+<p class="para-vi-sub">“Thế còn con bé phu kiệu kia thì sao? Nó có mang dị tật hay tật bệnh gì không?”</p>
 
 <p class="para-en">“Absolutely healthy, except for her conscience, which was stillborn, I’m afraid. We nearly left her on a ledge this morning.”</p>
 
@@ -195,7 +195,7 @@
 
 <p class="para-en">“The Tower is an electrical generator. The Basement pulls the water, the Parlor fires it, the Baths move the steam, and the turbine of New Babel turns out the current. I’m sure other ringdoms contribute to the process. Your machines make this possible, but much of the work is done by men and women, some of them slaves, some of them free but throwing all their health and wealth at this useless industry. Because what becomes of the electric current? Why, it drains out upon your doorstep. All those lamps burning away in your corridor, burning away in empty rooms—is that how you spend their sacrifice? How noble. How worthwhile.”</p>
 
-<p class="para-vi-sub">“Tòa Tháp này thực chất là một cỗ máy phát điện khổng lồ. Tầng Hầm khai thác và bơm nước, Phòng Khách cung cấp nhiệt lượng sưởi ấm, Nhà Tắm tạo ra áp suất hơi nước, và tuabin của Tân Babel chuyển hóa toàn bộ thành dòng điện năng. Tôi tin chắc các Lãnh địa Vành Đai khác cũng đóng góp những mắt xích trọng yếu vào chu trình ấy. Kỹ nghệ cơ khí của ông biến điều đó thành hiện thực, nhưng xương máu và sức lực vận hành lại do hàng triệu sinh mạng con người gánh vác — một số là phu Hod khổ sai, một số là cư dân tự do nhưng đều đã dâng hiến trọn vẹn sức khỏe và tài sản cho guồng máy vô tận này. Và toàn bộ dòng năng lượng vĩ đại ấy chảy về đâu? Chà, nó tiêu biến ngay trước ngưỡng cửa căn phòng này của ông! Hàng ngàn ngọn đèn hồ quang thắp sáng rực rỡ dọc các hành lang hoang phế, thắp sáng những gian phòng mô hình trống trơn không bóng người, đó là cách ông đền đáp sự hy sinh của nhân loại sao? Thật cao thượng. Thật đáng tự hào làm sao!”</p>
+<p class="para-vi-sub">“Tòa Tháp này thực chất là một cỗ máy phát điện khổng lồ. Tầng Hầm khai thác và bơm nước, Phòng Khách cung cấp nhiệt lượng sưởi ấm, Nhà Tắm tạo ra áp suất hơi nước, và tuabin của Tân Babel chuyển hóa toàn bộ thành dòng điện năng. Tôi tin chắc các Lãnh địa Vành Đai khác cũng đóng góp những mắt xích trọng yếu vào chu trình ấy. Kỹ nghệ cơ khí của ông biến điều đó thành hiện thực, nhưng xương máu và sức lực vận hành lại do hàng triệu sinh mạng con người gánh vác — một số là phu kiệu khổ sai, một số là cư dân tự do nhưng đều đã dâng hiến trọn vẹn sức khỏe và tài sản cho guồng máy vô tận này. Và toàn bộ dòng năng lượng vĩ đại ấy chảy về đâu? Chà, nó tiêu biến ngay trước ngưỡng cửa căn phòng này của ông! Hàng ngàn ngọn đèn hồ quang thắp sáng rực rỡ dọc các hành lang hoang phế, thắp sáng những gian phòng mô hình trống trơn không bóng người, đó là cách ông đền đáp sự hy sinh của nhân loại sao? Thật cao thượng. Thật đáng tự hào làm sao!”</p>
 
 <p class="para-en">“I agree,” the Sphinx said.</p>
 
@@ -211,11 +211,11 @@
 
 <p class="para-en">Ducking past the looming engine, Senlin approached the Sphinx. Byron raised huffing objections, but Senlin was undeterred. “You have these machines, these powerful, autonomous locomotives capable, I’m sure, of incredible feats of strength.” Narrowing the gap, his own upside-down reflection grew in the Sphinx’s mocking bowl of a face. “Take that colossus in your port, for example. I bet he and a few more like him could replace all the hods in the Tower. You could free men from their drudgery if you just released your valets.”</p>
 
-<p class="para-vi-sub">Lách qua thân hình sừng sững của cỗ máy bảo vệ, Senlin dứt khoát bước thẳng tới đối diện với Nhân Sư. Byron toan buông lời quát tháo ngăn cản, nhưng Senlin không hề lùi bước. “Ông sở hữu những cỗ máy cơ khí này, những cỗ máy tự hành dũng mãnh, thừa sức thực hiện những kỳ công vượt quá giới hạn thể chất của con người.” Khoảng cách thu hẹp lại, hình ảnh phản chiếu lộn ngược của chính Senlin phóng to trên bề mặt chiếc mặt nạ gương lõm quái dị. “Lấy cỗ máy hộ pháp khổng lồ ngoài bến đỗ làm ví dụ: Tôi dám đánh cược rằng chỉ cần gã đó cùng vài cỗ máy tương tự là đủ sức thay thế toàn bộ lực lượng phu Hod đang còng lưng lao dịch trong lòng Tháp. Ông hoàn toàn có quyền năng giải phóng con người khỏi kiếp đày ải khổ sai nếu ông chịu buông tay giải phóng đàn tôi tớ máy móc của mình.”</p>
+<p class="para-vi-sub">Lách qua thân hình sừng sững của cỗ máy bảo vệ, Senlin dứt khoát bước thẳng tới đối diện với Nhân Sư. Byron toan buông lời quát tháo ngăn cản, nhưng Senlin không hề lùi bước. “Ông sở hữu những cỗ máy cơ khí này, những cỗ máy tự hành dũng mãnh, thừa sức thực hiện những kỳ công vượt quá giới hạn thể chất của con người.” Khoảng cách thu hẹp lại, hình ảnh phản chiếu lộn ngược của chính Senlin phóng to trên bề mặt chiếc mặt nạ gương lõm quái dị. “Lấy cỗ máy hộ pháp khổng lồ ngoài bến đỗ làm ví dụ: Tôi dám đánh cược rằng chỉ cần gã đó cùng vài cỗ máy tương tự là đủ sức thay thế toàn bộ lực lượng phu kiệu đang còng lưng lao dịch trong lòng Tháp. Ông hoàn toàn có quyền năng giải phóng con người khỏi kiếp đày ải khổ sai nếu ông chịu buông tay giải phóng đàn tôi tớ máy móc của mình.”</p>
 
 <p class="para-en">“Oh, please, let’s not pretend,” the Sphinx said and leaned down, drawing so close that Senlin observed his upside-down face swell, twist into ribbons, and then coalesce again, enlarged and right-side up. It was strange to be menaced by his reflection. “You don’t care. Not about the hods or the masses pedaling for beer and stoking for a show. You don’t care about anyone really, not even this supposed crew of yours.”</p>
 
-<p class="para-vi-sub">“Ồ, làm ơn đi, đừng diễn trò đạo đức giả trước mặt ta nữa,” Nhân Sư cúi thấp người xuống, tiến sát đến mức Senlin thấy hình ảnh phản chiếu của chính mình bị kéo giãn, méo mó rồi xoắn vặn lại thành những vệt sáng quái đản trước khi định hình trở lại. Cảm giác bị đe dọa bởi chính gương mặt phản chiếu của bản thân thật quái dị khôn tả. “Anh chẳng bận tâm đâu. Anh chẳng hề mảy may thương xót đám phu Hod hay những kẻ đang đạp xe mua vui và cào than kiếm sống. Anh thực chất chẳng hề quan tâm đến bất kỳ ai trên cõi đời này, kể cả đám tàn quân tự xưng là thủy thủ đoàn trung thành này của anh.”</p>
+<p class="para-vi-sub">“Ồ, làm ơn đi, đừng diễn trò đạo đức giả trước mặt ta nữa,” Nhân Sư cúi thấp người xuống, tiến sát đến mức Senlin thấy hình ảnh phản chiếu của chính mình bị kéo giãn, méo mó rồi xoắn vặn lại thành những vệt sáng quái đản trước khi định hình trở lại. Cảm giác bị đe dọa bởi chính gương mặt phản chiếu của bản thân thật quái dị khôn tả. “Anh chẳng bận tâm đâu. Anh chẳng hề mảy may thương xót đám phu kiệu hay những kẻ đang đạp xe mua vui và cào than kiếm sống. Anh thực chất chẳng hề quan tâm đến bất kỳ ai trên cõi đời này, kể cả đám tàn quân tự xưng là thủy thủ đoàn trung thành này của anh.”</p>
 
 <p class="para-en">“Really?” Senlin said, and refused to look away from the shaking saucers of his own eyes.</p>
 
@@ -263,7 +263,7 @@
 
 <p class="para-en">“Now, I was about to prove to you that you don’t care about the hods, your fellow tourists, or even your crew.”</p>
 
-<p class="para-vi-sub">“Bây giờ, ta sẽ chứng minh cho ngươi thấy rằng ngươi chẳng hề mảy may bận tâm đến phong trào Vua Hod cùng Con Đường Đen, không quan tâm đến những kẻ đồng hành trong chuyến đi, và thậm chí cũng chẳng hề tha thiết gì với đám thủy thủ đoàn của ngươi.”</p>
+<p class="para-vi-sub">“Bây giờ, ta sẽ chứng minh cho ngươi thấy rằng ngươi chẳng hề mảy may bận tâm đến phong trào Vua Phu Kiệu cùng Con Đường Đen, không quan tâm đến những kẻ đồng hành trong chuyến đi, và thậm chí cũng chẳng hề tha thiết gì với đám thủy thủ đoàn của ngươi.”</p>
 
 <p class="para-en">“Yes, please, enlighten me.”</p>
 

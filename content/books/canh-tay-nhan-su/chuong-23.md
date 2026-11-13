@@ -45,9 +45,9 @@ Voleta rời đi được chừng một khắc thì ánh chớp bất ngờ lóe
 
 Một luồng khí nóng thổi thốc vào ngay khoảnh khắc tiếp theo, kéo theo tiếng nổ rung chuyển cả không gian. Các thanh sắt của lồng giam rung lên bần bật và va đập leng keng, đến mức có lúc Senlin ngỡ rằng Voleta đã vô tình làm nổ tung tất cả bọn họ. Nhưng rồi dư chấn của vụ nổ lắng dần, và ánh chớp nhường chỗ cho những cột khói đen mịt mù. Từng trang sách cháy xém từ các cuốn sách bị phá hủy bay lả tả qua các chấn song sắt lồng giam của họ.
 
-Tiếng la hét hỗn loạn rộ lên át cả dư âm cuối cùng của vụ nổ. Nhìn qua cánh cửa để ngỏ, họ thấy đám phu Hod ở mọi tầng của Vườn Thú Vàng đang nháo nhào chạy tán loạn. Những kẻ ở tầng hai vội vã lao về phía đám cháy do vụ nổ gây ra. Những tấm rèm nhung đỏ ở hai bên gian phòng vừa bị đánh sập nay bùng lên thành những ngọn lửa rực sáng. Một hàng người chuyền tay nhau những xô nước nhanh chóng được thiết lập giữa khu thang máy và các bể chứa bên dưới.
+Tiếng la hét hỗn loạn rộ lên át cả dư âm cuối cùng của vụ nổ. Nhìn qua cánh cửa để ngỏ, họ thấy đám phu kiệu ở mọi tầng của Vườn Thú Vàng đang nháo nhào chạy tán loạn. Những kẻ ở tầng hai vội vã lao về phía đám cháy do vụ nổ gây ra. Những tấm rèm nhung đỏ ở hai bên gian phòng vừa bị đánh sập nay bùng lên thành những ngọn lửa rực sáng. Một hàng người chuyền tay nhau những xô nước nhanh chóng được thiết lập giữa khu thang máy và các bể chứa bên dưới.
 
-Senlin đoán rằng đám phu Hod sẽ sớm dập tắt được ngọn lửa thôi, và khi đó bọn chúng sẽ bắt đầu lùng sục xem kẻ nào đã gây ra mớ hỗn độn này.
+Senlin đoán rằng đám phu kiệu sẽ sớm dập tắt được ngọn lửa thôi, và khi đó bọn chúng sẽ bắt đầu lùng sục xem kẻ nào đã gây ra mớ hỗn độn này.
 
 <hr class="scene-break"/>
 
@@ -81,19 +81,19 @@ Edith đáp xuống ngay sau đó, tiếp đất một cách cực kỳ gọn g�
 
 Anh đáp lại bằng một giọng khàn đặc cố giữ vẻ điềm tĩnh: “Cô nhớ theo sát vào đấy, Mister Winters.” Anh vội tháo lớp vải quấn tay ra và thở phào khi thấy lớp sơn ảo giác đã biến mất.
 
-Họ băng qua bãi đất trống với tốc độ chạy nước rút. Một tiếng nổ phụ nhỏ hơn vang lên đằng sau lưng, kéo theo làn sóng la hét dữ dội hơn từ sảnh lớn. Thêm nhiều phu Hod từ bìa rừng phía trước túa ra, bị thu hút bởi những tiếng nổ liên tiếp.
+Họ băng qua bãi đất trống với tốc độ chạy nước rút. Một tiếng nổ phụ nhỏ hơn vang lên đằng sau lưng, kéo theo làn sóng la hét dữ dội hơn từ sảnh lớn. Thêm nhiều phu kiệu từ bìa rừng phía trước túa ra, bị thu hút bởi những tiếng nổ liên tiếp.
 
 Màn khói mịt mù, ánh sáng nhập nhòe cùng khung cảnh náo loạn đã giúp họ qua mắt đám đông khi chạy ngược chiều. Tâm trí Senlin lao vút về phía trước, hướng về phía con tàu của mình: Liệu tàu Mây Đá đã sửa xong chưa? Liệu Voleta đã về đến nơi an toàn chưa? Nếu trốn thoát được, họ sẽ cầm cự được bao lâu trước khi chết đói?
 
-Nhưng thực tại khốc liệt lập tức kéo anh trở lại. Họ chỉ còn cách bìa rừng vài sải chân thì một nữ phu Hod, với đôi má chảy xệ và cặp lông mày xếch ngược dữ tợn, chết sững khựng lại khi thấy họ lướt qua. Họ không hề ngoái đầu lại ngay cả khi mụ bắt đầu gào thét thất thanh như một con quạ bị chọc tiết. Họ đã bị lộ tẩy.
+Nhưng thực tại khốc liệt lập tức kéo anh trở lại. Họ chỉ còn cách bìa rừng vài sải chân thì một nữ phu kiệu, với đôi má chảy xệ và cặp lông mày xếch ngược dữ tợn, chết sững khựng lại khi thấy họ lướt qua. Họ không hề ngoái đầu lại ngay cả khi mụ bắt đầu gào thét thất thanh như một con quạ bị chọc tiết. Họ đã bị lộ tẩy.
 
 Giờ thì chẳng còn chỗ cho sự lén lút hay lần mò theo lối mòn nữa. Họ cúi rạp người cắm đầu lao đi, nép sau cánh tay cơ khí đang vung gạt mở đường của Edith. Senlin cố hết sức để định vị bằng chiếc la bàn trong lúc kim từ tính dao động dữ dội theo từng bước chạy thục mạng. Anh liên tục ra hiệu cho Edith rẽ ngoặt hướng này rồi hướng khác để luồn lách qua các bụi rậm.
 
-Chiếc áo khoác của Senlin bỗng bị giật mạnh ngược lại. Anh quay phắt người, cứ ngỡ vạt áo vướng vào cành cây, nhưng trước mắt anh là một gã phu Hod đang túm chặt lấy gấu áo. Gã đàn ông gầy guộc rách rưới tựa một thây ma, tay kia gí thẳng họng súng ngắn vào trán Senlin. Không chút do dự, Senlin tung cước đá bạt mạng vào đầu gối gã. Khẩu súng cướp cò ngay khi gã ngã khuỵu xuống, đường đạn xé toạc những thớ gỗ giòn tan sát ngay trên đỉnh đầu Senlin.
+Chiếc áo khoác của Senlin bỗng bị giật mạnh ngược lại. Anh quay phắt người, cứ ngỡ vạt áo vướng vào cành cây, nhưng trước mắt anh là một gã phu kiệu đang túm chặt lấy gấu áo. Gã đàn ông gầy guộc rách rưới tựa một thây ma, tay kia gí thẳng họng súng ngắn vào trán Senlin. Không chút do dự, Senlin tung cước đá bạt mạng vào đầu gối gã. Khẩu súng cướp cò ngay khi gã ngã khuỵu xuống, đường đạn xé toạc những thớ gỗ giòn tan sát ngay trên đỉnh đầu Senlin.
 
-Những tiếng hò hét vang dội đuổi sát phía sau. Lực lượng phu Hod đã định thần và ráo riết bủa vây truy sát. Chẳng còn chút hy vọng tẩu thoát nào nếu họ cứ phải tự dùng thân mình đục đường xuyên qua rừng rậm. Họ bắt buộc phải tìm ra một lối mòn bằng phẳng. Thế nhưng trước mắt chẳng có gì ngoài những tiếng gầm gào ngày một gần, những nhành cây sắc nhọn cào rách da thịt và bầy nhện đang hoảng loạn tháo chạy.
+Những tiếng hò hét vang dội đuổi sát phía sau. Lực lượng phu kiệu đã định thần và ráo riết bủa vây truy sát. Chẳng còn chút hy vọng tẩu thoát nào nếu họ cứ phải tự dùng thân mình đục đường xuyên qua rừng rậm. Họ bắt buộc phải tìm ra một lối mòn bằng phẳng. Thế nhưng trước mắt chẳng có gì ngoài những tiếng gầm gào ngày một gần, những nhành cây sắc nhọn cào rách da thịt và bầy nhện đang hoảng loạn tháo chạy.
 
-Chỉ trong chớp mắt, lũ nhện lại xuất hiện ở khắp mọi nơi, nhuộm đen khu rừng phía bên phải, lấn át cả ánh sáng của rêu lân quang bằng số lượng áp đảo. Nhện từ trên các tán cây trút xuống như mưa rào, những thân hình mập mạp nện bôm bốp lên lưng Edith và Senlin tựa như những hạt mưa đá. Với một bức tường nhện nhung nhúc chắn ngang trước mặt và toán phu Hod vũ trang đang áp sát sau lưng, họ rơi vào thế tiến thoái lưỡng nan.
+Chỉ trong chớp mắt, lũ nhện lại xuất hiện ở khắp mọi nơi, nhuộm đen khu rừng phía bên phải, lấn át cả ánh sáng của rêu lân quang bằng số lượng áp đảo. Nhện từ trên các tán cây trút xuống như mưa rào, những thân hình mập mạp nện bôm bốp lên lưng Edith và Senlin tựa như những hạt mưa đá. Với một bức tường nhện nhung nhúc chắn ngang trước mặt và toán phu kiệu vũ trang đang áp sát sau lưng, họ rơi vào thế tiến thoái lưỡng nan.
 
 Edith liếc nhanh sang Senlin chờ đợi quyết định, và anh nghiến răng gật đầu dứt khoát. Đó là tất cả sự đồng thuận mà cô cần. Cô lao thẳng vào tâm đàn nhện, và cả hai xé toạc lớp phòng tuyến của bầy côn trùng đen đặc.
 
@@ -101,9 +101,9 @@ Mọi thứ họ va chạm trong màn đêm nhung nhúc ấy đều cựa quậy
 
 Cơn bão nhện đột ngột chấm dứt, và ánh sáng khu rừng lại bừng lên xung quanh họ vằng vặc như tuyết dưới trăng rằm. Họ đang đứng bên rìa một trảng đất bằng phẳng rải đầy cát mịn. Chẳng có hồ nước, chẳng có ghế nghỉ, cũng không có cỗ máy phế tích nào; thứ duy nhất ở đây là một đống đá tảng ngổn ngang bám đầy những lớp rêu xù xì.
 
-Tận dụng giây phút nghỉ ngơi ngắn ngủi, Senlin vội kiểm tra la bàn trong khi Edith phủi sạch bụi rêu lân quang cùng vài con nhện còn sót lại bám trên tóc. “Con tàu ở hướng đó.” Anh chỉ tay qua những khối đá sẫm màu sang tận bờ bên kia. “Cách chừng một dặm. Tôi tin là vậy,” anh thì thào. Họ vẫn nghe thấy tiếng la hét truy đuổi của đám phu Hod. Toán lính dường như đã bị bầy nhện làm cho tán loạn, nhưng chúng đang nhanh chóng tập hợp lại đội hình.
+Tận dụng giây phút nghỉ ngơi ngắn ngủi, Senlin vội kiểm tra la bàn trong khi Edith phủi sạch bụi rêu lân quang cùng vài con nhện còn sót lại bám trên tóc. “Con tàu ở hướng đó.” Anh chỉ tay qua những khối đá sẫm màu sang tận bờ bên kia. “Cách chừng một dặm. Tôi tin là vậy,” anh thì thào. Họ vẫn nghe thấy tiếng la hét truy đuổi của đám phu kiệu. Toán lính dường như đã bị bầy nhện làm cho tán loạn, nhưng chúng đang nhanh chóng tập hợp lại đội hình.
 
-“Lũ phu Hod này có tổ chức thật đấy,” cô khẽ chạm vào vết móp mới trên cánh tay kim loại.
+“Lũ phu kiệu này có tổ chức thật đấy,” cô khẽ chạm vào vết móp mới trên cánh tay kim loại.
 
 “Mau lên,” Senlin giục giã. “Chúng ta không thể cứ phá cây mở đường mãi được; phải tìm cho ra một lối mòn.”
 
@@ -117,14 +117,14 @@ Sự thật kinh hoàng ấy đồng thời lóe lên trong đầu cả hai, và
 
 Một con quái thú xơi nhện nằm ngay sát cùi chỏ Edith khẽ thở hắt ra trong giấc ngủ. Chiếc mõm ống dài ngoằng vươn ra từ thân hình đồ sộ, ngáp dài một cái rồi lại cuộn tròn lại. Cô khẽ nhếch mép cay đắng. Thật là một trò đùa nghiệt ngã của số phận: trốn thoát khỏi chiếc lồng Vườn Thú Vàng chỉ để đâm đầu thẳng vào hang ổ thú dữ.
 
-Senlin đưa ngón tay lên môi làm dấu im lặng. Hy vọng mong manh duy nhất của họ lúc này là nhẹ nhàng luồn lách qua bầy quái thú đang ngủ say để trốn vào rừng trước khi đám phu Hod kéo đến đánh thức bầy ác thú.
+Senlin đưa ngón tay lên môi làm dấu im lặng. Hy vọng mong manh duy nhất của họ lúc này là nhẹ nhàng luồn lách qua bầy quái thú đang ngủ say để trốn vào rừng trước khi đám phu kiệu kéo đến đánh thức bầy ác thú.
 
 Đúng lúc đó, một bóng người từ bìa rừng lao vụt ra. Gã hét lên bằng giọng run rẩy cuồng tín: “Hãy đến và nhận lấy tự do!” Và ngay sau tiếng thét, Koro bóp cò nổ súng thẳng về phía họ.
 
 Viên đạn cắm phập vào một trong những khối lông lá đang say ngủ với một tiếng bồm bộp khô khốc. Con quái thú xơi nhện vươn thẳng chiếc cổ dài dẫn đến cái mõm không răng. Một dải bờm xám rủ dài trước ức nó. Dựng đứng sừng sững trên hai chân sau, con quái vật dang rộng hai chi trước hết cỡ. Nó gầm lên một tiếng xé lòng, rền vang như tiếng đại bác và chói gắt tựa tiếng bản lề rỉ sét bị vặn gãy. Hơi thở hôi thối phả thẳng vào gáy Senlin khiến da gà da vịt anh nổi ngược.
 
-Edith và Senlin co rúm người lại khi bốn con quái thú khác lần lượt lồm cồm đứng dậy quanh con đầu đàn to lớn, kẻ vừa dính một viên đạn sượt qua lớp da dày mà chẳng hề hấn gì. Cùng lúc ấy, khu rừng phía trước túa ra lớp lớp phu Hod, kẻ nào kẻ nấy đều lăm lăm vũ khí với vẻ mặt lạnh tanh vô cảm. Hàng ngũ của chúng ken dày cho đến khi cả một đạo quân vũ trang bịt kín toàn bộ lối ra của bãi đất trống.
+Edith và Senlin co rúm người lại khi bốn con quái thú khác lần lượt lồm cồm đứng dậy quanh con đầu đàn to lớn, kẻ vừa dính một viên đạn sượt qua lớp da dày mà chẳng hề hấn gì. Cùng lúc ấy, khu rừng phía trước túa ra lớp lớp phu kiệu, kẻ nào kẻ nấy đều lăm lăm vũ khí với vẻ mặt lạnh tanh vô cảm. Hàng ngũ của chúng ken dày cho đến khi cả một đạo quân vũ trang bịt kín toàn bộ lối ra của bãi đất trống.
 
-Đàn quái thú xơi nhện vẫn giương móng vuốt bất động, còn đám phu Hod, khi nhận ra thứ chướng ngại kinh hoàng trước mắt, cũng lập tức chết sững như hóa đá.
+Đàn quái thú xơi nhện vẫn giương móng vuốt bất động, còn đám phu kiệu, khi nhận ra thứ chướng ngại kinh hoàng trước mắt, cũng lập tức chết sững như hóa đá.
 
 Giữa sự tĩnh lặng chết chóc ấy, tiếng cót két của chiếc xe lăn phát ra chuỗi ba nốt nhạc quen thuộc vang lên rõ mồn một từ phía sau hàng cây. Giai điệu lặp đi lặp lại không dứt, tựa như một chiếc hộp âm nhạc ma quái đang tấu lên một khúc ai điếu.

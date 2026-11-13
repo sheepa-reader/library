@@ -41,7 +41,7 @@
 
 <p class="para-en">It wasn’t self-control that kept him from doing it, either. It was fear. He was afraid that when he climbed out of the bottle again, it would be as a hod.</p>
 
-<p class="para-vi-sub">Cũng chẳng phải sự tự chủ đã ngăn anh làm điều đó. Đó là sự sợ hãi. Anh sợ rằng khi thoát ra khỏi cơn say của chai rượu, anh sẽ biến thành một phu Hod.</p>
+<p class="para-vi-sub">Cũng chẳng phải sự tự chủ đã ngăn anh làm điều đó. Đó là sự sợ hãi. Anh sợ rằng khi thoát ra khỏi cơn say của chai rượu, anh sẽ biến thành một phu kiệu.</p>
 
 <p class="para-en">Where was Tarrou? Probably scared off by the agents squatting on his patio, or sleeping off the previous evening’s celebrations. If Tarrou was off snoring somewhere, he’d picked a terrible time for it. Senlin needed his friend. He needed, of course, to ask him, plead with him if necessary, for a loan, but he also needed a foil for his thoughts. He still had to figure out how to smuggle in Ogier’s imitation and sneak out the original.</p>
 

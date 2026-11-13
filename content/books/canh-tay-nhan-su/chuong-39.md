@@ -55,7 +55,7 @@ Nhân Sư khẽ gạt chiếc ống truyền âm ra khỏi khóe miệng. “Nhi
 
 “Cháu cứ thắc mắc mãi khi nào thì bà mới chịu đi thẳng vào mục đích chính. Được thôi, cứ việc hỏi. Tung hết bài ra xem nào.”
 
-“Có phải Thomas Senlin đang ngấm ngầm cấu kết với đám phu Hod nổi loạn không?”
+“Có phải Thomas Senlin đang ngấm ngầm cấu kết với đám phu kiệu nổi loạn không?”
 
 “Cấu kết á? Thuyền trưởng ấy à? Cháu không nghĩ vậy đâu. Marat đã nhốt chặt hai người họ vào lồng sắt, và họ đã phải liều mạng mở đường máu để chạy trốn cơ mà.”
 
@@ -79,13 +79,13 @@ Nhân Sư khẽ gạt chiếc ống truyền âm ra khỏi khóe miệng. “Nhi
 
 “<i>Thuận buồm xuôi gió</i> là cụm từ cuối cùng mà bất kỳ ai trong đoàn tàu chúng cháu dám dùng để hình dung về chuỗi thảm họa vừa qua. Bà thực sự đang mắc chứng hoang tưởng rồi đấy.” Voleta phà hơi ấm lên vách kính đục ngầu của bể chứa khổng lồ rồi dùng ngón tay vẽ nguệch ngoạc một khuôn mặt cười lên lớp sương mờ.
 
-“Ta là kẻ đã nếm trải đủ mọi lọc lừa trên cõi đời này. Các người tán tụng rằng vị thuyền trưởng của mình là kẻ có nguyên tắc ư? Những thứ nguyên tắc ấy là thứ dễ bị lung lay và mua chuộc nhất. Chẳng cần trí tưởng tượng quá cao siêu cũng đoán được Marat đã dùng những luận điệu mị dân nào để thuyết phục thuyền trưởng của các người rằng lý tưởng khởi nghĩa của hắn là chính nghĩa cao cả. Và chẳng phải gã vừa lớn tiếng quở trách ta vì thiếu lòng trắc ẩn đối với nỗi khổ của đám phu Hod đó sao? Biết đâu vị thuyền trưởng đáng kính của các người đã sớm bị cảm hóa và quy phục phe nổi loạn rồi thì sao.” Những lời ấy thốt ra kèm theo một nụ cười nhếch mép sắc lạnh, để lộ ánh lấp lánh của chiếc răng nanh nạm hồng ngọc.
+“Ta là kẻ đã nếm trải đủ mọi lọc lừa trên cõi đời này. Các người tán tụng rằng vị thuyền trưởng của mình là kẻ có nguyên tắc ư? Những thứ nguyên tắc ấy là thứ dễ bị lung lay và mua chuộc nhất. Chẳng cần trí tưởng tượng quá cao siêu cũng đoán được Marat đã dùng những luận điệu mị dân nào để thuyết phục thuyền trưởng của các người rằng lý tưởng khởi nghĩa của hắn là chính nghĩa cao cả. Và chẳng phải gã vừa lớn tiếng quở trách ta vì thiếu lòng trắc ẩn đối với nỗi khổ của đám phu kiệu đó sao? Biết đâu vị thuyền trưởng đáng kính của các người đã sớm bị cảm hóa và quy phục phe nổi loạn rồi thì sao.” Những lời ấy thốt ra kèm theo một nụ cười nhếch mép sắc lạnh, để lộ ánh lấp lánh của chiếc răng nanh nạm hồng ngọc.
 
 “Nếu ý bà muốn nói rằng Thuyền trưởng thực sự xót xa trước những kiếp người đọa đày cùng cực mà chúng cháu chứng kiến dọc đường đi, thì đúng là như vậy đấy. Có lẽ là thế thật. Tất cả chúng cháu đều cảm thấy đau lòng. Chúng cháu đã phải phiêu bạt trên những mảnh giẻ rách tả tơi và bụi than đen đúa, ngấu nghiến từng mẩu thịt chim bồ câu dai nhách cứ như thể đó là sơn hào hải vị và mòn mỏi ước ao có một chốn dung thân bình yên để hạ cánh. Thế mà bà lại đang thảnh thơi ngự trị trên một chiếc khay trà bay kỳ diệu cứ như thể đó là điều hiển nhiên tầm thường nhất trên thế gian này.”
 
-“Mỗi một phát minh kỹ nghệ vĩ đại mà ta từng cống hiến cho thế giới này đều lập tức bị đám sát nhân và lũ bạo chúa hiếu chiến chiếm đoạt làm công cụ tàn sát. Hãy nhìn xem nhân loại đã trở nên tinh vi nhường nào trong việc thiêu rụi lẫn nhau bằng những cỗ khinh khí cầu chiến tranh! Hãy thử tưởng tượng xem chúng sẽ gây ra những thảm họa gì nếu nắm trong tay những chiếc khay bay và những cỗ máy hộ pháp của ta. Giờ thì, ta sẽ là người đầu tiên thẳng thắn thừa nhận rằng thế giới này ngập tràn rác rưởi và bất công, nhưng việc giải phóng đám phu Hod cùng Con Đường Đen tuyệt đối không thể làm cho Tòa Tháp này trở nên ngay thẳng và tốt đẹp hơn đâu.”
+“Mỗi một phát minh kỹ nghệ vĩ đại mà ta từng cống hiến cho thế giới này đều lập tức bị đám sát nhân và lũ bạo chúa hiếu chiến chiếm đoạt làm công cụ tàn sát. Hãy nhìn xem nhân loại đã trở nên tinh vi nhường nào trong việc thiêu rụi lẫn nhau bằng những cỗ khinh khí cầu chiến tranh! Hãy thử tưởng tượng xem chúng sẽ gây ra những thảm họa gì nếu nắm trong tay những chiếc khay bay và những cỗ máy hộ pháp của ta. Giờ thì, ta sẽ là người đầu tiên thẳng thắn thừa nhận rằng thế giới này ngập tràn rác rưởi và bất công, nhưng việc giải phóng đám phu kiệu cùng Con Đường Đen tuyệt đối không thể làm cho Tòa Tháp này trở nên ngay thẳng và tốt đẹp hơn đâu.”
 
-“Cháu không nghĩ đám phu Hod kia thực sự khao khát được giải phóng.”
+“Cháu không nghĩ đám phu kiệu kia thực sự khao khát được giải phóng.”
 
 “Ý cô là sao?” Chiếc thấu kính lúp trên mắt Nhân Sư khẽ xoay cơ học, thu hẹp tiêu cự lại sắc lẹm.
 
@@ -93,7 +93,7 @@ Nhân Sư khẽ gạt chiếc ống truyền âm ra khỏi khóe miệng. “Nhi
 
 “Cô còn tận mắt chứng kiến những gì nữa?”
 
-“Cháu thấy ba tên phu Hod nói thứ tiếng Hoddish kỳ quặc đã đánh chết một người anh em của chúng chỉ để cướp đoạt một thùng hàng gỗ.”
+“Cháu thấy ba tên phu kiệu nói thứ tiếng Hoddish kỳ quặc đã đánh chết một người anh em của chúng chỉ để cướp đoạt một thùng hàng gỗ.”
 
 “Thùng hàng đó chứa thứ gì bên trong?”
 

@@ -22,7 +22,7 @@ Trong khi cả hai cố gắng hết sức để không nuốt ngấu nghiến t
 
 “Chúng tôi đã ở đây chín năm,” gã nói. “Ban đầu chỉ có một nhóm nhỏ. Koro là một trong số ít những người dũng cảm ấy.”
 
-Người phu Hod ngẩng lên khỏi công việc khi nghe thấy tên mình. Marat nói vài từ tiếng Hoddish với Koro, và người phu bật cười trước câu nói đùa khó hiểu đó. “Tôi vừa hỏi cậu ấy có nhớ những ngày tháng gian nan khi chúng tôi mới đặt chân tới đây hay không. Lúc đó các vị nên tận mắt nhìn Vườn Thú Vàng thì hơn. Lũ nhện đã biến nơi này thành ổ. Các vị chưa từng thấy những mạng nhện khổng lồ đến thế đâu. Cảm giác dọn dẹp chẳng khác nào dùng dao rạch qua một tấm nệm dày.” Marat lắc đầu, khẽ nhíu đôi lông mày hoàn mỹ. Koro chuyển sang chiếc giày tiếp theo. Tiếng bàn chải sột soạt hòa nhịp êm ả cùng giọng nói dịu dàng của Marat. “Luôn có thời điểm khi bạn khởi đầu một điều gì đó mới mẻ, khoảnh khắc mà mọi thứ đều chông chênh và thử nghiệm. Trong trường hợp của chúng tôi, giai đoạn đó kéo dài đằng đẵng nhiều năm trời. Nhìn cơ ngơi này bây giờ các vị khó mà tưởng tượng được, nhưng chúng tôi đã từng suýt bị xóa sổ.”
+Người phu kiệu ngẩng lên khỏi công việc khi nghe thấy tên mình. Marat nói vài từ tiếng Hoddish với Koro, và người phu bật cười trước câu nói đùa khó hiểu đó. “Tôi vừa hỏi cậu ấy có nhớ những ngày tháng gian nan khi chúng tôi mới đặt chân tới đây hay không. Lúc đó các vị nên tận mắt nhìn Vườn Thú Vàng thì hơn. Lũ nhện đã biến nơi này thành ổ. Các vị chưa từng thấy những mạng nhện khổng lồ đến thế đâu. Cảm giác dọn dẹp chẳng khác nào dùng dao rạch qua một tấm nệm dày.” Marat lắc đầu, khẽ nhíu đôi lông mày hoàn mỹ. Koro chuyển sang chiếc giày tiếp theo. Tiếng bàn chải sột soạt hòa nhịp êm ả cùng giọng nói dịu dàng của Marat. “Luôn có thời điểm khi bạn khởi đầu một điều gì đó mới mẻ, khoảnh khắc mà mọi thứ đều chông chênh và thử nghiệm. Trong trường hợp của chúng tôi, giai đoạn đó kéo dài đằng đẵng nhiều năm trời. Nhìn cơ ngơi này bây giờ các vị khó mà tưởng tượng được, nhưng chúng tôi đã từng suýt bị xóa sổ.”
 
 “Quả thực lực lượng của các vị rất đông đảo,” Senlin nói và ăn thêm một miếng bánh quy. Anh thấy chúng khá ngon, dù chắc chắn hương vị ấy đậm đà hơn nhờ cảm giác đói lả sau chuyến đi dài.
 
@@ -32,13 +32,13 @@ Người phu Hod ngẩng lên khỏi công việc khi nghe thấy tên mình. Ma
 
 “Đó là tên chúng tôi gọi những đường hầm tối tăm nơi đồng bào mình bị đày ải. Con Đường Đen uốn lượn hàng dặm dài xuyên qua những bức tường đá của Tòa Tháp. Tôi chắc rằng các kiến trúc sư đã nghĩ họ thật nhân từ khi thiết kế một độ dốc thoai thoải, nhưng nó lại mang lại cảm giác vắt kiệt vô tận cho bất kỳ ai bước chân lên đó. Và vô cùng tàn nhẫn. Tôi từng thấy những cụ già với lá phổi rách nát đang gồng mình khuân vác những thùng nhựa đường bốc khói độc. Tôi từng thấy một cô bé kéo theo bao thuốc nổ bị nổ tung khi một tia lửa rơi xuống từ ngọn đèn gắn trên trán. Tôi từng thấy những người đàn ông bị nghiền nát làm đôi dưới những phiến đá sập. Thật là một kiếp sống đọa đày khi phải làm nô dịch cho gạch đá!”
 
-Marat dừng lại để trò chuyện với Koro, và bất cứ điều gì gã nói ra cũng khiến người phu Hod trầm ngâm nghiêm nghị. “Họ ngã xuống, Thuyền trưởng Mudd. Họ chết thành từng đoàn vì kiệt sức, thương tật, bệnh dịch và khát cháy…” Nhắc đến những bất công này dường như làm hỏng hoàn toàn tâm trạng của vị chủ nhà. Mới một thoáng trước, gã còn đang thưởng trà khoan thai. Giờ đây, gã dường như cảm thấy hổ thẹn ngay cả trước sự đãi ngộ khiêm tốn này. Gã đẩy tách trà ra xa.
+Marat dừng lại để trò chuyện với Koro, và bất cứ điều gì gã nói ra cũng khiến người phu kiệu trầm ngâm nghiêm nghị. “Họ ngã xuống, Thuyền trưởng Mudd. Họ chết thành từng đoàn vì kiệt sức, thương tật, bệnh dịch và khát cháy…” Nhắc đến những bất công này dường như làm hỏng hoàn toàn tâm trạng của vị chủ nhà. Mới một thoáng trước, gã còn đang thưởng trà khoan thai. Giờ đây, gã dường như cảm thấy hổ thẹn ngay cả trước sự đãi ngộ khiêm tốn này. Gã đẩy tách trà ra xa.
 
 Senlin chợt nghĩ về Tarrou, người bạn từng bị lôi khỏi băng ghế đá bên đài phun nước hoa lệ và bị quẳng vào Con Đường Đen sau một bản án vội vã đẫm máu. Có lẽ Tarrou đã không vượt qua nổi những vết thương và vùi thây nơi tăm tối ấy rồi. Hoặc có lẽ một cái chết êm thấm lại là sự giải thoát tốt hơn cảnh địa ngục trần gian mà Marat vừa miêu tả.
 
 “Chúng tôi không đủ sức cứu thoát tất cả. Chúng tôi chỉ đón nhận những người kiệt quệ nhất, những mảnh đời tàn tạ nhất. Với những người còn lại, chúng tôi nâng đỡ họ bằng niềm tin rằng một ngày nào đó họ sẽ được tự do.”
 
-Dù đang cố gắng tỏ ra lịch thiệp, Senlin không tin vào những lời này dù chỉ một giây. Những phu Hod mà anh nhìn thấy tuần tra quanh khuôn viên và những người đang làm việc trong Vườn Thú Vàng đều trông rất khỏe khoắn và dẻo dai. Nơi này hoàn toàn không giống một trạm xá tiếp tế người bệnh.
+Dù đang cố gắng tỏ ra lịch thiệp, Senlin không tin vào những lời này dù chỉ một giây. Những phu kiệu mà anh nhìn thấy tuần tra quanh khuôn viên và những người đang làm việc trong Vườn Thú Vàng đều trông rất khỏe khoắn và dẻo dai. Nơi này hoàn toàn không giống một trạm xá tiếp tế người bệnh.
 
 “Tự do để đi bưng trà rót nước cho các người, ý ông là thế sao?” Edith lạnh lùng lên tiếng, bộc lộ thẳng thắn những mối nghi ngại trong lòng.
 
@@ -72,7 +72,7 @@ Một biểu cảm lướt qua gương mặt Edith mà Senlin chưa từng thấ
 
 Khi Edith cất lời, giọng cô khô khốc và đanh gọn như đá lửa. Cô búng mạnh ngón tay vào miếng ốp vai, khiến cánh tay kim loại phát ra tiếng vang lanh lảnh tựa hồi chuông cảnh báo. Cô tuyên bố mình biết rõ cái giá phải trả khi mang lấy cánh tay này, và biết mình đang mang nợ một kẻ chẳng hề lương thiện, một kẻ luôn trục lợi trên sự khốn cùng của tha nhân. Cô sẵn sàng chấp nhận việc phần đời còn lại sẽ phải sống trong âu lo về ngày bị triệu hồi trở lại phục dịch cho hắn. Thế nhưng, cô đã không thể sống sót nếu không có sự can thiệp của Nhân Sư, nếu không có cánh tay cơ khí này. Cô khẳng định mình hiểu rõ bản thân là ai, Luc Marat, và điều cô không thể dung thứ là việc gã tự cho mình cái quyền được đứng ra phán xét cuộc đời cô.
 
-Marat đáp rằng cô rất khác so với những Người Thức Tỉnh khác, và gã nhận thấy cô đang chông chênh bên bờ vực giữa lòng trung thành mù quáng và sự phản kháng quyết liệt. Một vị thế vô cùng thú vị. Marat nói với vẻ ngạo mạn mà nếu xuất hiện trên một khuôn mặt thô kệch thì đã biến thành sự khinh bỉ ghê tởm, rồi đề nghị cô chiêm ngưỡng một thứ. Gã ra hiệu cho Koro, người vừa hoàn tất việc đánh giày. Người phu Hod nở nụ cười ngoan ngoãn rồi lẳng lặng rời khỏi phòng.
+Marat đáp rằng cô rất khác so với những Người Thức Tỉnh khác, và gã nhận thấy cô đang chông chênh bên bờ vực giữa lòng trung thành mù quáng và sự phản kháng quyết liệt. Một vị thế vô cùng thú vị. Marat nói với vẻ ngạo mạn mà nếu xuất hiện trên một khuôn mặt thô kệch thì đã biến thành sự khinh bỉ ghê tởm, rồi đề nghị cô chiêm ngưỡng một thứ. Gã ra hiệu cho Koro, người vừa hoàn tất việc đánh giày. Người phu kiệu nở nụ cười ngoan ngoãn rồi lẳng lặng rời khỏi phòng.
 
 Marat giải thích rằng có lẽ đến giờ họ đã nhận ra nơi này chưa từng nuôi nhốt bất kỳ loài thú sống nào. Vườn Thú Vàng từng là kho lưu trữ những cỗ máy dây cót tinh xảo của Nhân Sư, và chúng từng lấp đầy những chiếc lồng kim loại này.
 
@@ -116,11 +116,11 @@ Marat kéo tấm chăn phủ lại đôi chân kim loại bất động và bậ
 
 “Vậy, ông có sẵn lòng chỉ đường cho chúng tôi không?” Senlin hỏi.
 
-“Dĩ nhiên rồi. Tôi sống là để nâng đỡ những anh em phu Hod đồng cảnh ngộ của mình mà.”
+“Dĩ nhiên rồi. Tôi sống là để nâng đỡ những anh em phu kiệu đồng cảnh ngộ của mình mà.”
 
-“Phu Hod đồng cảnh ngộ ư?”
+“Phu kiệu đồng cảnh ngộ ư?”
 
-“Chẳng lẽ các vị nghĩ mình có thể đi trên con đường đó với thân phận tự do như hiện tại sao? Các vị sẽ không sống nổi qua đêm nay đâu. Không phải người phu Hod nào cũng có lòng từ tâm như tôi. Rất nhiều người trong số họ căm thù những kẻ tự do nói chung và những Người Thức Tỉnh nói riêng. Ngay cả khi các vị sống sót đến được Pelphia, thì ngay khoảnh khắc bước chân ra khỏi đường hầm, cảnh sát địa phương sẽ lập tức bắt giữ và tống các vị vào các công trường khổ sai.”
+“Chẳng lẽ các vị nghĩ mình có thể đi trên con đường đó với thân phận tự do như hiện tại sao? Các vị sẽ không sống nổi qua đêm nay đâu. Không phải người phu kiệu nào cũng có lòng từ tâm như tôi. Rất nhiều người trong số họ căm thù những kẻ tự do nói chung và những Người Thức Tỉnh nói riêng. Ngay cả khi các vị sống sót đến được Pelphia, thì ngay khoảnh khắc bước chân ra khỏi đường hầm, cảnh sát địa phương sẽ lập tức bắt giữ và tống các vị vào các công trường khổ sai.”
 
 Sắc mặt Senlin đanh lại trước từng lời của Marat. “Nghĩa là, ông muốn chúng tôi phải tự nguyện đóng giả làm phu kiệu khổ sai?”
 

@@ -29,11 +29,11 @@
 
 <p class="para-en"><em>The hod falls up. The hod falls down.</em></p>
 
-<p class="para-vi-sub"><i>Phu Hod bay lên, phu Hod ngã nhào.</i></p>
+<p class="para-vi-sub"><i>Phu kiệu bay lên, phu kiệu ngã sấp.</i></p>
 
 <p class="para-en"><em>The hod fills up the hollow ground.</em></p>
 
-<p class="para-vi-sub"><i>Phu Hod lấp đầy khoảng không mặt đất.</i></p>
+<p class="para-vi-sub"><i>Phu kiệu lấp đầy khoảng không mặt đất.</i></p>
 
 <p class="para-en">The simple verse was sung out happily again and again to the rhythmic stamp of the child’s leather slippers. Senlin pressed one finger to his ear, as if to keep the song and its morbid vision from lodging there. He hurried his step.</p>
 
@@ -80,7 +80,7 @@
 
 <p class="para-en">Despite the gruesome execution, despite his hopeless, floundering search for Marya, despite the hods and the vindictive commissioner, Senlin felt a glimmer of peace. Their argument and the wine had given him what he had numbly pursued in the streets: a sense of control and order. The feeling reminded him of the many summer mornings he spent crawling across his schoolhouse floor, hammering in nails that had been squeezed up by the wood’s swelling. Alone and shuffling along on bare knees, trousers rolled up in thick, snug cuffs, he raised the hammer over the heads of old nails. Each blow echoed among the rafters like the report of a gun. It filled him with a small but warming sense of accomplishment.</p>
 
-<p class="para-vi-sub">Bất chấp vụ xử tử rùng rợn, bất chấp cuộc tìm kiếm Marya vô vọng và chật vật, bất chấp tầng lớp phu Hod khổ sai và tên Cao ủy đầy thù hận, Senlin vẫn cảm nhận được một chút bình yên leo lét. Cuộc tranh cãi và ly rượu vừa rồi đã mang lại cho anh thứ mà anh vẫn mỏi mệt kiếm tìm trên đường phố: một cảm giác kiểm soát và trật tự. Cảm giác ấy gợi anh nhớ về những buổi sáng mùa hè khi anh bò lê bò càng trên sàn lớp học, dùng búa đóng lại những chiếc đinh bị lớp gỗ phồng rộp đẩy trồi lên. Chỉ có một mình, lê la trên đôi đầu gối trần, ống quần xắn lên thành những nếp gấp dày và gọn gàng, anh giáng búa xuống đầu những chiếc đinh cũ. Mỗi cú nện vang vọng giữa những vì kèo nhà hệt như tiếng súng nổ. Nó lấp đầy lòng anh bằng một cảm giác thành tựu nhỏ nhoi nhưng ấm áp.</p>
+<p class="para-vi-sub">Bất chấp vụ xử tử rùng rợn, bất chấp cuộc tìm kiếm Marya vô vọng và chật vật, bất chấp tầng lớp phu kiệu khổ sai và tên Cao ủy đầy thù hận, Senlin vẫn cảm nhận được một chút bình yên leo lét. Cuộc tranh cãi và ly rượu vừa rồi đã mang lại cho anh thứ mà anh vẫn mỏi mệt kiếm tìm trên đường phố: một cảm giác kiểm soát và trật tự. Cảm giác ấy gợi anh nhớ về những buổi sáng mùa hè khi anh bò lê bò càng trên sàn lớp học, dùng búa đóng lại những chiếc đinh bị lớp gỗ phồng rộp đẩy trồi lên. Chỉ có một mình, lê la trên đôi đầu gối trần, ống quần xắn lên thành những nếp gấp dày và gọn gàng, anh giáng búa xuống đầu những chiếc đinh cũ. Mỗi cú nện vang vọng giữa những vì kèo nhà hệt như tiếng súng nổ. Nó lấp đầy lòng anh bằng một cảm giác thành tựu nhỏ nhoi nhưng ấm áp.</p>
 
 <p class="para-en">Though every summer, the same nails sprouted anew.</p>
 

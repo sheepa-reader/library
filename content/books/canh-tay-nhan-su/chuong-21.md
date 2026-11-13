@@ -37,15 +37,15 @@ Adam bật cười khúc khích. “Tôi không dám đâu,” cậu nói, rồi
 
 Những tiếng nói chuyện âm ỉ vọng qua khu sảnh trống bên ngoài; những buồng thang máy bằng thạch anh lọc cọc di chuyển giữa các tầng. Mặc dù khu vực phòng giam của họ khá tĩnh mịch, phần còn lại của Vườn Thú Vàng vẫn rộn rã nhịp sống thường nhật.
 
-Senlin kinh ngạc trước khả năng hòa nhập tài tình của con người trong việc mang lại cảm giác thân thuộc vào những môi trường dị thường; có vẻ như một khi con người tụ họp đông đảo thì sự bình dị đời thường chắc chắn sẽ diễn ra. Cảm nhận được sự trật tự của nơi này, vị thủ lĩnh của họ có vẻ mang chứng vĩ cuồng, nhưng ít nhất gã cũng đã tạo ra một chốn dung thân cho những phu Hod may mắn thoát khỏi cảnh đày ải.
+Senlin kinh ngạc trước khả năng hòa nhập tài tình của con người trong việc mang lại cảm giác thân thuộc vào những môi trường dị thường; có vẻ như một khi con người tụ họp đông đảo thì sự bình dị đời thường chắc chắn sẽ diễn ra. Cảm nhận được sự trật tự của nơi này, vị thủ lĩnh của họ có vẻ mang chứng vĩ cuồng, nhưng ít nhất gã cũng đã tạo ra một chốn dung thân cho những phu kiệu may mắn thoát khỏi cảnh đày ải.
 
 Edith đứng ở khung cửa mở toang của chiếc lồng. Tư thế đứng cùng ánh lấp lánh của những thanh sắt mạ vàng bao quanh cô gợi cho anh nhớ đến hình ảnh cô gái trong bức tranh của Ogier. Edith trông cũng bình thản không kém, và giống như cô gái kiên quyết ngoảnh mặt đi khỏi bờ biển trong tranh, cô dường như đang đăm chiêu tập trung vào một điều gì đó vô hình trong sâu thẳm nội tâm. Trông cô thật tự nhiên, kiên cường và…
 
 Chà, cô trông thế nào cũng chẳng phải điều anh nên bận tâm. Anh vội xua tan ý nghĩ ấy đi.
 
-“Tôi rất tiếc vì chúng ta phải lặn lội một quãng đường xa xôi nhường này chỉ để nhận ra điều mà lẽ ra lương tri thông thường có thể mách bảo: Thân phận phu Hod và Con Đường Đen chỉ dành riêng cho những người phu kiệu khổ sai mà thôi. Cô không thấy Marat đang mưu mô khi gợi ý rằng chúng ta có thể cải trang sao? Tôi không thể nghĩ ra lớp ngụy trang nào nguy hiểm hơn thế. Một khi cô đã tròng chiếc vòng cổ đó vào, làm sao cô có thể tháo nó ra được chứ?”
+“Tôi rất tiếc vì chúng ta phải lặn lội một quãng đường xa xôi nhường này chỉ để nhận ra điều mà lẽ ra lương tri thông thường có thể mách bảo: Thân phận phu kiệu và Con Đường Đen chỉ dành riêng cho những người phu kiệu khổ sai mà thôi. Cô không thấy Marat đang mưu mô khi gợi ý rằng chúng ta có thể cải trang sao? Tôi không thể nghĩ ra lớp ngụy trang nào nguy hiểm hơn thế. Một khi cô đã tròng chiếc vòng cổ đó vào, làm sao cô có thể tháo nó ra được chứ?”
 
-“Chúng ta sẽ không thể nào tháo ra được. Một khi đã mang thân phận phu Hod… Nhưng tại sao hắn lại để cửa mở cơ chứ?” cô hỏi, xoay người lại đối mặt với anh.
+“Chúng ta sẽ không thể nào tháo ra được. Một khi đã mang thân phận phu kiệu… Nhưng tại sao hắn lại để cửa mở cơ chứ?” cô hỏi, xoay người lại đối mặt với anh.
 
 <hr class="scene-break"/>
 
@@ -55,11 +55,11 @@ Cảm thấy bất an, anh cầm lấy một cuốn khác có tựa đề <i>Bá
 
 Anh từng chứng kiến hành vi phá hoại có hệ thống này trước đây ở Nhà Tắm. Vào thời điểm đó, anh cứ ngỡ đó chỉ là trò phá phách của một kẻ đần độn địa phương nào đó. Nhưng đây hoàn toàn không phải sự ngẫu nhiên, mà là một chiến dịch có chủ đích rõ ràng.
 
-Rồi anh bàng hoàng vỡ lẽ: Đám phu Hod mà anh nhìn thấy đang cắm cúi viết lách ở các tầng dưới không phải đang sao chép hay minh họa cho các bản thảo. Họ đang tỉ mỉ xóa sổ chúng. Senlin từng ngỡ Marat đang khai tâm dạy chữ cho những mảnh đời khốn khổ này, nhưng sự thật hoàn toàn ngược lại. Marat đang lợi dụng họ như một công cụ để tiêu diệt tri thức.
+Rồi anh bàng hoàng vỡ lẽ: Đám phu kiệu mà anh nhìn thấy đang cắm cúi viết lách ở các tầng dưới không phải đang sao chép hay minh họa cho các bản thảo. Họ đang tỉ mỉ xóa sổ chúng. Senlin từng ngỡ Marat đang khai tâm dạy chữ cho những mảnh đời khốn khổ này, nhưng sự thật hoàn toàn ngược lại. Marat đang lợi dụng họ như một công cụ để tiêu diệt tri thức.
 
 Và Senlin đã đánh cắp toàn bộ số sách của vị bác sĩ để tiếp tay cho nỗ lực điên rồ đó. Ý nghĩ ấy khiến anh cảm thấy buồn nôn.
 
-Nhưng Marat có mục đích gì khi thực hiện sự lãng phí vô nghĩa nhường này, không chỉ là kiến thức và kinh nghiệm tích lũy qua nhiều thế hệ mà còn là bao công sức tỉ mẩn bỏ ra để bôi đen từng trang sách? Nếu căm thù sách vở đến thế, tại sao không đem đốt quách đi? Tại sao phải tốn công nghiền ngẫm về sự hủy diệt từng chữ một như vậy? Senlin không tài nào hiểu nổi. Nhưng mặt khác, anh cũng chẳng có chút manh mối nào về bản chất thực sự của giáo đoàn này. Nơi đây chẳng mang vẻ gì của sự cứu rỗi nhân đạo; mọi thứ toát lên kỷ luật quân sự sắt đá. Mục đích thực sự của việc chiêu mộ và vũ trang cho toàn bộ lực lượng phu Hod này là gì? Cải tạo ư? Băng đảng tội phạm ư? Hay là một cuộc nổi loạn vũ trang? Rốt cuộc là nhằm vào điều gì?
+Nhưng Marat có mục đích gì khi thực hiện sự lãng phí vô nghĩa nhường này, không chỉ là kiến thức và kinh nghiệm tích lũy qua nhiều thế hệ mà còn là bao công sức tỉ mẩn bỏ ra để bôi đen từng trang sách? Nếu căm thù sách vở đến thế, tại sao không đem đốt quách đi? Tại sao phải tốn công nghiền ngẫm về sự hủy diệt từng chữ một như vậy? Senlin không tài nào hiểu nổi. Nhưng mặt khác, anh cũng chẳng có chút manh mối nào về bản chất thực sự của giáo đoàn này. Nơi đây chẳng mang vẻ gì của sự cứu rỗi nhân đạo; mọi thứ toát lên kỷ luật quân sự sắt đá. Mục đích thực sự của việc chiêu mộ và vũ trang cho toàn bộ lực lượng phu kiệu này là gì? Cải tạo ư? Băng đảng tội phạm ư? Hay là một cuộc nổi loạn vũ trang? Rốt cuộc là nhằm vào điều gì?
 
 Anh cảm thấy sự rối bời đang len lỏi vào tâm trí, và anh phải nỗ lực nuốt khan để đè nén cảm giác đắng ngắt nơi cuống họng. “Thật điên rồ,” anh lẩm bẩm, rồi nói to hơn để Edith nghe thấy: “Họ đã bôi đen hủy hoại toàn bộ những cuốn sách này rồi.”
 
@@ -71,7 +71,7 @@ Nhưng cô không mấy bận tâm đến phát hiện của anh mà quay lại 
 
 “Đó là một suy nghĩ hợp lý.” Senlin cẩn thận xếp lại chồng sách bị bôi đen. Bàn tay anh bắt đầu run rẩy vì kiệt sức. “Nhưng điều gì sẽ xảy ra nếu chúng ta bước ra khỏi đó?”
 
-“Sẽ có người chặn chúng ta lại,” cô nói, khẽ cau mày khi cân nhắc tình thế. “Nơi này nhung nhúc những phu Hod có vũ trang.”
+“Sẽ có người chặn chúng ta lại,” cô nói, khẽ cau mày khi cân nhắc tình thế. “Nơi này nhung nhúc những phu kiệu có vũ trang.”
 
 “Tôi cũng nghĩ vậy.” Anh siết chặt hai bàn tay để kiềm chế cơn run. Có lẽ anh đã nhiễm lạnh sau lần lặn ngụp dưới hồ nước, hoặc cơ thể anh chỉ đơn giản là đang suy kiệt vì đói lả. Vài mẩu bánh quy ban nãy chẳng thấm vào đâu. “Cô nghĩ thế nào về nơi này? Nó hoàn toàn trái ngược với những gì tôi từng mường tượng.”
 
@@ -79,7 +79,7 @@ Nhưng cô không mấy bận tâm đến phát hiện của anh mà quay lại 
 
 “Tôi có thể nghĩ ra vài vị thủ thư sẵn sàng xé xác hắn ra từng mảnh đấy.”
 
-Edith nghiêm mặt lắc đầu. “Đây không phải chuyện đùa đâu, Tom. Đám lính gác ở tầng dưới đều vác súng trường trên vai. Hắn đang trang bị vũ khí cho phu Hod. Tôi chắc anh thừa hiểu các Lãnh địa Vành Đai sẽ phản ứng dữ dội thế nào trước điều đó.”
+Edith nghiêm mặt lắc đầu. “Đây không phải chuyện đùa đâu, Tom. Đám lính gác ở tầng dưới đều vác súng trường trên vai. Hắn đang trang bị vũ khí cho phu kiệu. Tôi chắc anh thừa hiểu các Lãnh địa Vành Đai sẽ phản ứng dữ dội thế nào trước điều đó.”
 
 “Tại sao Marat lại gọi cô là Người Thức Tỉnh? Tổ chức Người Thức Tỉnh là một đội lính gác à?”
 
@@ -95,7 +95,7 @@ Cô nheo mắt nhìn qua khe rèm. “Nhưng nếu chúng ta không có lựa ch
 
 Senlin bước nhanh qua phòng, nắm lấy mép rèm nơi cô đang giữ và nhìn qua khe hở. Căn phòng bên cạnh chất đầy những giá súng trường dựng đứng san sát nhau như rừng cây.
 
-“Lạy Chúa tôi. Làm thế nào mà một nhóm phu Hod lại có thể tích trữ được một kho vũ khí khổng lồ nhường này?”
+“Lạy Chúa tôi. Làm thế nào mà một nhóm phu kiệu lại có thể tích trữ được một kho vũ khí khổng lồ nhường này?”
 
 “Vẫn còn thứ này nữa,” Edith nói, giọng chùng xuống.
 
@@ -123,9 +123,9 @@ Cảm hứng chẳng bao giờ tìm đến khi cô chịu ngồi yên một ch�
 
 Thế là, cô bắt đầu chuyền cành để khơi thông suy nghĩ.
 
-Cô vừa lướt qua ba ngọn cây thì đã nghe thấy một âm thanh quen thuộc: tiếng búa gõ kim loại chan chát vang lên đều đặn. Cô lần theo âm thanh đó tới một khoảng rừng thưa gần đó, nơi một nhóm phu Hod đang giặt giũ quần áo trong một bồn nước xà phòng sủi bọt. Quần áo được vắt trên những chiếc sừng gỉ sét của một bầy hươu cơ khí vây quanh bể chứa, trông như thể chúng đang cúi đầu uống chính thứ nước tẩy rửa làm mục rữa thân mình. Mùi nồng hắc của kiềm và xà phòng bốc lên bao trùm không gian. Người thợ rèn thu hút sự chú ý của cô bằng tiếng búa gõ lanh lảnh đang khom lưng bên chiếc đe sắt. Thoạt nhìn, gã như thể đang chuẩn bị nện vỡ đầu một người đàn ông đang quỳ bên dưới. Nhưng rồi cô nhận ra gã đang tỉ mỉ đục chiếc chốt khóa của chiếc vòng kim loại quanh cổ người kia. Chỉ một thoáng sau, chiếc vòng cổ bản án bật tung ra với một tiếng va đập giòn giã. Người đàn ông vừa được giải thoát liền đứng bật dậy, vừa xoa cổ vừa nở nụ cười rạng rỡ đầy hân hoan. Người thợ rèn nhặt chiếc vòng sắt lên và tròng nó vào cổ một người phu Hod khác đang cúi đầu chờ sẵn mà không hề có nửa lời phản kháng. Người thợ rèn đặt chiếc vòng lên đe, rồi vung búa nện chặt chiếc chốt ghim mới vào.
+Cô vừa lướt qua ba ngọn cây thì đã nghe thấy một âm thanh quen thuộc: tiếng búa gõ kim loại chan chát vang lên đều đặn. Cô lần theo âm thanh đó tới một khoảng rừng thưa gần đó, nơi một nhóm phu kiệu đang giặt giũ quần áo trong một bồn nước xà phòng sủi bọt. Quần áo được vắt trên những chiếc sừng gỉ sét của một bầy hươu cơ khí vây quanh bể chứa, trông như thể chúng đang cúi đầu uống chính thứ nước tẩy rửa làm mục rữa thân mình. Mùi nồng hắc của kiềm và xà phòng bốc lên bao trùm không gian. Người thợ rèn thu hút sự chú ý của cô bằng tiếng búa gõ lanh lảnh đang khom lưng bên chiếc đe sắt. Thoạt nhìn, gã như thể đang chuẩn bị nện vỡ đầu một người đàn ông đang quỳ bên dưới. Nhưng rồi cô nhận ra gã đang tỉ mỉ đục chiếc chốt khóa của chiếc vòng kim loại quanh cổ người kia. Chỉ một thoáng sau, chiếc vòng cổ bản án bật tung ra với một tiếng va đập giòn giã. Người đàn ông vừa được giải thoát liền đứng bật dậy, vừa xoa cổ vừa nở nụ cười rạng rỡ đầy hân hoan. Người thợ rèn nhặt chiếc vòng sắt lên và tròng nó vào cổ một người phu kiệu khác đang cúi đầu chờ sẵn mà không hề có nửa lời phản kháng. Người thợ rèn đặt chiếc vòng lên đe, rồi vung búa nện chặt chiếc chốt ghim mới vào.
 
-Bộ râu rậm rạp cùng mái tóc bù xù bao phủ quanh đầu người vừa được tháo vòng cổ. Gã được dẫn tới một chiếc ghế đẩu, nơi một người phụ nữ cạo sạch tóc và cắt tỉa gọn gàng cho gã. Sau khi cái đầu đã nhẵn nhụi, gã được khoác lên một chiếc áo choàng màu trắng mới toanh. Đó chỉ là một sự tiếp đón mộc mạc, nhưng lòng biết ơn của người đàn ông lại vô cùng sâu sắc. Gã hôn lên tay người phụ nữ vừa trao áo cho mình rồi ôm chầm lấy người thợ rèn, người vẫn đang miệt mài gõ búa mà chẳng thèm ngẩng lên. Một cảnh tượng kỳ lạ diễn ra dưới sự canh chừng của ba phu Hod mang súng trường đứng gần đó. Voleta dõi theo đầy thích thú. Cô hiểu tại sao người ta khao khát được tháo bỏ xiềng xích, nhưng cô hoàn toàn không tài nào hiểu nổi tại sao lại có kẻ tự nguyện để người khác tròng gông cùm vào cổ mình một lần nữa.
+Bộ râu rậm rạp cùng mái tóc bù xù bao phủ quanh đầu người vừa được tháo vòng cổ. Gã được dẫn tới một chiếc ghế đẩu, nơi một người phụ nữ cạo sạch tóc và cắt tỉa gọn gàng cho gã. Sau khi cái đầu đã nhẵn nhụi, gã được khoác lên một chiếc áo choàng màu trắng mới toanh. Đó chỉ là một sự tiếp đón mộc mạc, nhưng lòng biết ơn của người đàn ông lại vô cùng sâu sắc. Gã hôn lên tay người phụ nữ vừa trao áo cho mình rồi ôm chầm lấy người thợ rèn, người vẫn đang miệt mài gõ búa mà chẳng thèm ngẩng lên. Một cảnh tượng kỳ lạ diễn ra dưới sự canh chừng của ba phu kiệu mang súng trường đứng gần đó. Voleta dõi theo đầy thích thú. Cô hiểu tại sao người ta khao khát được tháo bỏ xiềng xích, nhưng cô hoàn toàn không tài nào hiểu nổi tại sao lại có kẻ tự nguyện để người khác tròng gông cùm vào cổ mình một lần nữa.
 
 Squit, chú sóc nhỏ vừa chui ra khỏi ống tay áo, đang luồn lách kiếm tìm sự an toàn bên trong mái tóc dày rối bù của cô. Chú sóc dường như sợ bóng tối chập choạng, hoặc có lẽ cảnh tượng lũ nhện ban nãy vẫn còn làm nó hoảng hốt. Dù thế nào thì việc con sóc cứ cào cấu vẫy vùng trên đầu cũng chẳng giúp cô suy nghĩ thông suốt hơn chút nào. Khi cô đưa tay lên gỡ, cô phát hiện chiếc cổ nhỏ xíu của Squit đã bị quấn chặt vào một lọn tóc xoăn tít. Con vật nhỏ bắt đầu giãy giụa trong cơn hoảng loạn.
 

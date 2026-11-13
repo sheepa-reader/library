@@ -105,7 +105,7 @@
 
 <p class="para-en">“Is Thomas Senlin conspiring with the hods?”</p>
 
-<p class="para-vi-sub">“Có phải Thomas Senlin đang ngấm ngầm cấu kết với đám phu Hod nổi loạn không?”</p>
+<p class="para-vi-sub">“Có phải Thomas Senlin đang ngấm ngầm cấu kết với đám phu kiệu nổi loạn không?”</p>
 
 <p class="para-en">“Conspiring? The captain? I shouldn’t think so. Marat locked them up, and they had to fight their way out.”</p>
 
@@ -153,7 +153,7 @@
 
 <p class="para-en">“I am experienced. You say your captain has principles? Those are easily appealed to and plied. It doesn’t take much of an imagination to guess what Marat might’ve said to convince your captain that his cause was just. And didn’t he reproach me for my lack of charity toward the hods? Perhaps your captain was converted.” The words came out with a sneer, showing the gleam of a ruby tooth.</p>
 
-<p class="para-vi-sub">“Ta là kẻ đã nếm trải đủ mọi lọc lừa trên cõi đời này. Các người tán tụng rằng vị thuyền trưởng của mình là kẻ có nguyên tắc ư? Những thứ nguyên tắc ấy là thứ dễ bị lung lay và mua chuộc nhất. Chẳng cần trí tưởng tượng quá cao siêu cũng đoán được Marat đã dùng những luận điệu mị dân nào để thuyết phục thuyền trưởng của các người rằng lý tưởng khởi nghĩa của hắn là chính nghĩa cao cả. Và chẳng phải gã vừa lớn tiếng quở trách ta vì thiếu lòng trắc ẩn đối với nỗi khổ của đám phu Hod đó sao? Biết đâu vị thuyền trưởng đáng kính của các người đã sớm bị cảm hóa và quy phục phe nổi loạn rồi thì sao.” Những lời ấy thốt ra kèm theo một nụ cười nhếch mép sắc lạnh, để lộ ánh lấp lánh của chiếc răng nanh nạm hồng ngọc.</p>
+<p class="para-vi-sub">“Ta là kẻ đã nếm trải đủ mọi lọc lừa trên cõi đời này. Các người tán tụng rằng vị thuyền trưởng của mình là kẻ có nguyên tắc ư? Những thứ nguyên tắc ấy là thứ dễ bị lung lay và mua chuộc nhất. Chẳng cần trí tưởng tượng quá cao siêu cũng đoán được Marat đã dùng những luận điệu mị dân nào để thuyết phục thuyền trưởng của các người rằng lý tưởng khởi nghĩa của hắn là chính nghĩa cao cả. Và chẳng phải gã vừa lớn tiếng quở trách ta vì thiếu lòng trắc ẩn đối với nỗi khổ của đám phu kiệu đó sao? Biết đâu vị thuyền trưởng đáng kính của các người đã sớm bị cảm hóa và quy phục phe nổi loạn rồi thì sao.” Những lời ấy thốt ra kèm theo một nụ cười nhếch mép sắc lạnh, để lộ ánh lấp lánh của chiếc răng nanh nạm hồng ngọc.</p>
 
 <p class="para-en">“If you mean, has he been affected by the pitiful states of humanity we’ve seen along the way, then yes. Probably. We all have. We’ve been flying along on threads and coal dust, eating pigeons like they were ambrosia and dreaming of a safe place to alight. And here you are, sitting on a flying tea tray like it’s not the most miraculous thing.”</p>
 
@@ -161,11 +161,11 @@
 
 <p class="para-en">“Every piece of technology I have ever released to the world has been immediately adopted by the murderers and warmongers. Look at how good they have gotten at killing each other with balloons! Imagine what they would do with my tea trays and titans. Now, I would be the first to admit there is trouble and inequity in the world, but freeing the hods is not going to set the Tower aright.”</p>
 
-<p class="para-vi-sub">“Mỗi một phát minh kỹ nghệ vĩ đại mà ta từng cống hiến cho thế giới này đều lập tức bị đám sát nhân và lũ bạo chúa hiếu chiến chiếm đoạt làm công cụ tàn sát. Hãy nhìn xem nhân loại đã trở nên tinh vi nhường nào trong việc thiêu rụi lẫn nhau bằng những cỗ khinh khí cầu chiến tranh! Hãy thử tưởng tượng xem chúng sẽ gây ra những thảm họa gì nếu nắm trong tay những chiếc khay bay và những cỗ máy hộ pháp của ta. Giờ thì, ta sẽ là người đầu tiên thẳng thắn thừa nhận rằng thế giới này ngập tràn rác rưởi và bất công, nhưng việc giải phóng đám phu Hod cùng Con Đường Đen tuyệt đối không thể làm cho Tòa Tháp này trở nên ngay thẳng và tốt đẹp hơn đâu.”</p>
+<p class="para-vi-sub">“Mỗi một phát minh kỹ nghệ vĩ đại mà ta từng cống hiến cho thế giới này đều lập tức bị đám sát nhân và lũ bạo chúa hiếu chiến chiếm đoạt làm công cụ tàn sát. Hãy nhìn xem nhân loại đã trở nên tinh vi nhường nào trong việc thiêu rụi lẫn nhau bằng những cỗ khinh khí cầu chiến tranh! Hãy thử tưởng tượng xem chúng sẽ gây ra những thảm họa gì nếu nắm trong tay những chiếc khay bay và những cỗ máy hộ pháp của ta. Giờ thì, ta sẽ là người đầu tiên thẳng thắn thừa nhận rằng thế giới này ngập tràn rác rưởi và bất công, nhưng việc giải phóng đám phu kiệu cùng Con Đường Đen tuyệt đối không thể làm cho Tòa Tháp này trở nên ngay thẳng và tốt đẹp hơn đâu.”</p>
 
 <p class="para-en">“I don’t think the hods need liberating.”</p>
 
-<p class="para-vi-sub">“Cháu không nghĩ đám phu Hod kia thực sự khao khát được giải phóng.”</p>
+<p class="para-vi-sub">“Cháu không nghĩ đám phu kiệu kia thực sự khao khát được giải phóng.”</p>
 
 <p class="para-en">“What do you mean?” The Sphinx’s loupe twisted to a more narrow focus.</p>
 
@@ -181,7 +181,7 @@
 
 <p class="para-en">“I saw some of the babblers kill a hod to get at his cargo.”</p>
 
-<p class="para-vi-sub">“Cháu thấy ba tên phu Hod nói thứ tiếng Hoddish kỳ quặc đã đánh chết một người anh em của chúng chỉ để cướp đoạt một thùng hàng gỗ.”</p>
+<p class="para-vi-sub">“Cháu thấy ba tên phu kiệu nói thứ tiếng Hoddish kỳ quặc đã đánh chết một người anh em của chúng chỉ để cướp đoạt một thùng hàng gỗ.”</p>
 
 <p class="para-en">“What was he carrying?”</p>
 
