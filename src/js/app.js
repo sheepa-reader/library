@@ -2375,6 +2375,61 @@
     return false;
   }
 
+  // --- UNIFIED BOTTOM SHEET MOBILE TOUCH GESTURES ---
+  function attachBottomSheetGestures(overlay, content, closeFn) {
+    if (!content || !closeFn) return;
+    let startY = 0;
+    let currentY = 0;
+    let isDragging = false;
+
+    if (content._hasBottomSheetGestures) return;
+    content._hasBottomSheetGestures = true;
+
+    content.addEventListener('touchstart', (e) => {
+      const isHandle = e.target.closest('.modal-sheet-handle, .author-sheet-handle, .modal-header, .changelog-header, .progress-modal-header');
+      if (content.scrollTop <= 2 || isHandle) {
+        startY = e.touches[0].clientY;
+        currentY = startY;
+        isDragging = true;
+      }
+    }, { passive: true });
+
+    content.addEventListener('touchmove', (e) => {
+      if (!isDragging) return;
+      currentY = e.touches[0].clientY;
+      const deltaY = currentY - startY;
+      if (deltaY > 0) {
+        content.style.transform = `translateY(${deltaY}px)`;
+        content.style.transition = 'none';
+      } else {
+        content.style.transform = '';
+      }
+    }, { passive: true });
+
+    const endDrag = () => {
+      if (!isDragging) return;
+      isDragging = false;
+      const deltaY = currentY - startY;
+      content.style.transition = 'transform 0.25s cubic-bezier(0.16, 1, 0.3, 1)';
+      if (deltaY > 75) {
+        content.style.transform = 'translateY(100%)';
+        setTimeout(() => {
+          content.style.transform = '';
+          content.style.transition = '';
+          closeFn();
+        }, 220);
+      } else {
+        content.style.transform = '';
+        setTimeout(() => {
+          content.style.transition = '';
+        }, 250);
+      }
+    };
+
+    content.addEventListener('touchend', endDrag);
+    content.addEventListener('touchcancel', endDrag);
+  }
+
   // --- DOWNLOAD MODAL (EPUB & PDF WITH PASSCODE LOCK) ---
   function openDownloadModal(book) {
     let modal = document.getElementById('download-modal');
@@ -2438,6 +2493,7 @@
     }
 modal.innerHTML = `
       <div class="modal-content">
+        <div class="modal-sheet-handle"></div>
         <div class="modal-header">
           <div class="modal-header-titles">
             <h3>Tải sách "${escapeHtml(book.title)}"</h3>
@@ -2593,6 +2649,7 @@ modal.innerHTML = `
     `;
 
     modal.classList.add('active');
+    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), () => modal.classList.remove('active'));
 
     // Close events
     const closeBtn = document.getElementById('btn-close-modal');
@@ -2757,6 +2814,7 @@ modal.innerHTML = `
 
     modal.innerHTML = `
       <div class="modal-content" style="max-height: 80vh; display: flex; flex-direction: column;">
+        <div class="modal-sheet-handle"></div>
         <div class="modal-header">
           <h3 style="margin: 0;">Mục lục (${book.chapters.length} chương)</h3>
           <button class="icon-btn" id="btn-close-toc" style="width: 32px; height: 32px;">✕</button>
@@ -2768,6 +2826,7 @@ modal.innerHTML = `
     `;
 
     modal.classList.add('active');
+    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), () => modal.classList.remove('active'));
     const closeBtn = document.getElementById('btn-close-toc');
     if (closeBtn) closeBtn.addEventListener('click', () => modal.classList.remove('active'));
     modal.addEventListener('click', (e) => {
@@ -2974,38 +3033,7 @@ modal.innerHTML = `
 
     // Touch gesture for mobile swipe down to close
     const content = overlay.querySelector('.author-sheet-content');
-    let startY = 0;
-    let currentY = 0;
-    let isDragging = false;
-
-    if (content) {
-      content.addEventListener('touchstart', (e) => {
-        if (content.scrollTop === 0) {
-          startY = e.touches[0].clientY;
-          isDragging = true;
-        }
-      }, { passive: true });
-
-      content.addEventListener('touchmove', (e) => {
-        if (!isDragging) return;
-        currentY = e.touches[0].clientY;
-        const deltaY = currentY - startY;
-        if (deltaY > 0) {
-          content.style.transform = `translateY(${deltaY}px)`;
-        }
-      }, { passive: true });
-
-      content.addEventListener('touchend', () => {
-        if (!isDragging) return;
-        isDragging = false;
-        const deltaY = currentY - startY;
-        if (deltaY > 80) {
-          window.sheepaCloseAuthor();
-        } else {
-          content.style.transform = '';
-        }
-      });
-    }
+    attachBottomSheetGestures(overlay, content, window.sheepaCloseAuthor);
 
     // Escape key
     const onKeyDown = (e) => {
@@ -3210,6 +3238,7 @@ modal.innerHTML = `
 
     overlay.innerHTML = `
       <div class="changelog-modal-content">
+        <div class="modal-sheet-handle"></div>
         <div class="changelog-header">
           <div class="changelog-title-group">
             <img src="public/icons/glyph_11_sheep_pen_write.png" alt="Nhật ký" class="changelog-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
@@ -3250,6 +3279,7 @@ modal.innerHTML = `
     `;
 
     overlay.classList.add('active');
+    attachBottomSheetGestures(overlay, overlay.querySelector('.changelog-modal-content'), closeChangelogModal);
 
     // Bind close events
     const closeBtn = document.getElementById('btn-close-changelog');
@@ -3477,6 +3507,7 @@ modal.innerHTML = `
 
     overlay.innerHTML = `
       <div class="modal-content poll-modal-content">
+        <div class="modal-sheet-handle"></div>
         <div class="modal-header">
           <div class="poll-header-title-group">
             <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Sheepa Idea" class="poll-header-icon" onerror="this.src='public/icons/14_sheep_lightbulb.png'">
@@ -3621,6 +3652,7 @@ modal.innerHTML = `
     }
 
     overlay.classList.add('active');
+    attachBottomSheetGestures(overlay, overlay.querySelector('.poll-modal-content'), closePollModal);
 
     // Fetch live candidates from Google Apps Script in background to ensure vote counts are 100% updated
     if (libraryPollApiUrl) {
@@ -3969,6 +4001,7 @@ modal.innerHTML = `
 
     overlay.innerHTML = `
       <div class="progress-modal-content">
+        <div class="modal-sheet-handle"></div>
         <div class="progress-modal-header">
           <div class="progress-header-title-group">
             <img src="public/icons/glyph_sheep_desk_lamp.png" alt="Tiến độ dịch" class="progress-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
@@ -4027,6 +4060,7 @@ modal.innerHTML = `
     bindProgressHeartButtons();
 
     overlay.classList.add('active');
+    attachBottomSheetGestures(overlay, overlay.querySelector('.progress-modal-content'), closeProgressModal);
 
     if (libraryPollApiUrl) {
       fetchProgressProjects();
