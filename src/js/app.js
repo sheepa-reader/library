@@ -3622,28 +3622,48 @@ modal.innerHTML = `
     }
   }
 
-  function formatProjectDate(dateStr) {
-    if (!dateStr) return 'Đang cập nhật';
-    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
-      const parts = dateStr.split('-');
+  function formatProjectDate(dateVal) {
+    if (!dateVal) return 'Đang cập nhật';
+
+    // 1. Chuỗi DD/MM/YYYY sẵn
+    if (typeof dateVal === 'string' && /^\d{1,2}\/\d{1,2}\/\d{4}$/.test(dateVal.trim())) {
+      const parts = dateVal.trim().split('/');
+      return `${parts[0].padStart(2, '0')}/${parts[1].padStart(2, '0')}/${parts[2]}`;
+    }
+
+    // 2. Chuỗi YYYY-MM-DD
+    if (typeof dateVal === 'string' && /^\d{4}-\d{2}-\d{2}/.test(dateVal.trim())) {
+      const parts = dateVal.trim().slice(0, 10).split('-');
       return `${parts[2]}/${parts[1]}/${parts[0]}`;
     }
-    return dateStr;
-  }
 
-  function calculateCountdown(dateStr) {
-    if (!dateStr) return null;
-    let target;
-    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
-      target = new Date(dateStr + 'T00:00:00');
-    } else if (/^\d{1,2}\/\d{1,2}\/\d{4}$/.test(dateStr)) {
-      const parts = dateStr.split('/');
-      target = new Date(`${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}T00:00:00`);
-    } else {
-      target = new Date(dateStr);
+    // 3. Date object hoặc chuỗi ngày phức tạp (như "Sat Nov 28 2026 00:00:00 GMT+0700 (Giờ Đông Dương)")
+    const d = new Date(dateVal);
+    if (!isNaN(d.getTime())) {
+      const day = String(d.getDate()).padStart(2, '0');
+      const month = String(d.getMonth() + 1).padStart(2, '0');
+      const year = d.getFullYear();
+      return `${day}/${month}/${year}`;
     }
 
-    if (isNaN(target.getTime())) return null;
+    return String(dateVal).trim();
+  }
+
+  function calculateCountdown(dateVal) {
+    if (!dateVal) return null;
+    let target = null;
+
+    if (typeof dateVal === 'string' && /^\d{1,2}\/\d{1,2}\/\d{4}$/.test(dateVal.trim())) {
+      const parts = dateVal.trim().split('/');
+      target = new Date(`${parts[2]}-${parts[1].padStart(2, '0')}-${parts[0].padStart(2, '0')}T00:00:00`);
+    } else if (typeof dateVal === 'string' && /^\d{4}-\d{2}-\d{2}/.test(dateVal.trim())) {
+      const parts = dateVal.trim().slice(0, 10).split('-');
+      target = new Date(`${parts[0]}-${parts[1]}-${parts[2]}T00:00:00`);
+    } else {
+      target = new Date(dateVal);
+    }
+
+    if (!target || isNaN(target.getTime())) return null;
 
     const now = new Date();
     const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -3852,7 +3872,7 @@ modal.innerHTML = `
       <div class="progress-modal-content">
         <div class="progress-modal-header">
           <div class="progress-header-title-group">
-            <img src="public/icons/glyph_sheep_glasses_write.png" alt="Tiến độ dịch" class="progress-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
+            <img src="public/icons/glyph_sheep_desk_lamp.png" alt="Tiến độ dịch" class="progress-header-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
             <div>
               <h3 class="progress-main-title">Tiến Độ Dịch & Kế Hoạch Sách</h3>
               <p class="progress-header-desc">Tiến trình dịch thuật, biên tập và thời gian dự kiến ra mắt sách mới</p>
