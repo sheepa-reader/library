@@ -3679,6 +3679,28 @@ modal.innerHTML = `
     }
   }
 
+  function normalizeCoverUrl(url) {
+    if (!url) return 'public/assets/cuu-logo.png';
+    let clean = String(url).trim();
+    // Bỏ dấu nháy kép/đơn bao quanh nếu có
+    clean = clean.replace(/^["']+|["']+$/g, '').trim();
+    // Đổi gạch chéo ngược Windows \ thành gạch chéo web /
+    clean = clean.replace(/\\/g, '/');
+
+    // Nếu người dùng dán đường dẫn tuyệt đối ổ đĩa Windows (D:/.../content/...)
+    const contentIdx = clean.toLowerCase().indexOf('content/');
+    if (contentIdx !== -1) {
+      clean = clean.slice(contentIdx);
+    } else {
+      const publicIdx = clean.toLowerCase().indexOf('public/');
+      if (publicIdx !== -1) {
+        clean = clean.slice(publicIdx);
+      }
+    }
+
+    return clean;
+  }
+
   function renderProgressCards(projects) {
     if (!projects || projects.length === 0) {
       return `
@@ -3695,6 +3717,7 @@ modal.innerHTML = `
       const progress = typeof item.progress === 'number' ? Math.max(0, Math.min(100, item.progress)) : 0;
       const targetDateFormatted = formatProjectDate(item.targetDate);
       const countdown = calculateCountdown(item.targetDate);
+      const coverUrl = normalizeCoverUrl(item.cover);
 
       const storageKey = `sheepa_project_heart_${item.id}`;
       const isHearted = localStorage.getItem(storageKey) === 'true';
@@ -3757,7 +3780,7 @@ modal.innerHTML = `
       return `
         <div class="progress-project-card" data-project-id="${escapeHtml(item.id)}">
           <div class="progress-card-cover-wrap">
-            <img src="${escapeHtml(item.cover || 'public/assets/cuu-logo.png')}" alt="${escapeHtml(item.title)}" class="progress-card-cover" onerror="this.src='public/assets/cuu-logo.png'">
+            <img src="${escapeHtml(coverUrl)}" alt="${escapeHtml(item.title)}" class="progress-card-cover" onerror="this.src='public/assets/cuu-logo.png'">
           </div>
           <div class="progress-card-main">
             <div class="progress-card-badges">
