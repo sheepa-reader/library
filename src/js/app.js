@@ -2880,47 +2880,27 @@ modal.innerHTML = `
     if (authorUpcomingProjects && authorUpcomingProjects.length > 0) {
       const upcomingCardsHtml = authorUpcomingProjects.map(p => {
         const coverUrl = normalizeCoverUrl(p.cover);
-        const status = p.status || 'sap_trien_khai';
-        const progress = typeof p.progress === 'number' ? Math.max(0, Math.min(100, p.progress)) : 0;
-        const targetDateFormatted = formatProjectDate(p.targetDate);
-
-        let stageBadgeHtml = '';
-        if (status === 'bien_tap') {
-          stageBadgeHtml = `<span class="author-badge-stage stage-editing">✒️ Đang biên tập</span>`;
-        } else if (status === 'dang_dich') {
-          stageBadgeHtml = `<span class="author-badge-stage stage-translating">📖 Đang dịch</span>`;
-        } else {
-          stageBadgeHtml = `<span class="author-badge-stage stage-upcoming">⏳ Sắp triển khai</span>`;
-        }
+        const projectSeries = p.series || (
+          authorBooks.find(b => b.series && (p.title.includes(b.series) || (p.note && p.note.includes(b.series))))?.series || ''
+        );
 
         return `
-          <div class="author-book-item author-upcoming-item" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();" title="Bấm để xem chi tiết tiến độ dịch">
+          <div class="author-book-item" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();" title="Bấm để xem tiến độ">
             <div class="author-book-cover-wrap author-upcoming-cover-wrap">
-              <img src="${coverUrl}" alt="${escapeHtml(p.title)}" class="author-book-cover" onerror="this.onerror=null; this.src='public/icons/glyph_01_sheep_reading.png';">
+              <img src="${coverUrl}" alt="${escapeHtml(p.title)}" class="author-book-cover" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
               <span class="author-upcoming-pill">Sắp Ra Mắt</span>
             </div>
             <div class="author-book-info">
-              <div class="author-upcoming-header-row">
-                <span class="author-badge-upcoming">Sắp Ra Mắt</span>
-                ${stageBadgeHtml}
-                ${progress > 0 ? `<span class="author-badge-pct">${progress}%</span>` : ''}
-              </div>
               <h4 class="author-book-title">${escapeHtml(p.title)}</h4>
-              <div class="author-book-meta author-upcoming-meta">
+              ${p.originalTitle && p.originalTitle !== p.title ? `<div class="author-book-orig-title">${escapeHtml(p.originalTitle)}</div>` : ''}
+              <div class="author-book-meta">
+                <span class="author-book-badge author-badge-upcoming">Sắp Ra Mắt</span>
+                ${projectSeries ? `<span class="author-book-badge">${escapeHtml(projectSeries)}</span>` : ''}
                 ${p.category ? `<span class="author-book-category">${escapeHtml(p.category)}</span>` : ''}
-                ${p.currentChapter ? `<span class="author-upcoming-chapter">📝 ${escapeHtml(p.currentChapter)}</span>` : ''}
-                ${p.targetDate ? `<span class="author-upcoming-date">📅 Dự kiến: <strong>${escapeHtml(targetDateFormatted)}</strong></span>` : ''}
               </div>
-              ${progress > 0 ? `
-                <div class="author-mini-progress">
-                  <div class="author-mini-progress-bar" style="width: ${progress}%;"></div>
-                </div>
-              ` : ''}
             </div>
             <div class="author-book-actions" onclick="event.stopPropagation();">
-              <button class="btn-author-progress" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();" title="Xem chi tiết tiến trình dịch">
-                Tiến độ
-              </button>
+              <button class="btn-author-progress" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();">Tiến độ</button>
             </div>
           </div>
         `;
@@ -2929,11 +2909,8 @@ modal.innerHTML = `
       upcomingSectionHtml = `
         <div class="author-books-section author-upcoming-section">
           <div class="author-books-header">
-            <h4>
-              <span class="author-upcoming-icon">⏳</span>
-              <span>Sắp Ra Mắt</span>
-            </h4>
-            <span class="author-books-count author-upcoming-count">${authorUpcomingProjects.length} tác phẩm</span>
+            <h4>Sắp ra mắt</h4>
+            <span class="author-books-count">${authorUpcomingProjects.length} cuốn sách</span>
           </div>
           <div class="author-books-list">
             ${upcomingCardsHtml}
