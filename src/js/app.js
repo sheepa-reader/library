@@ -2834,7 +2834,7 @@ modal.innerHTML = `
     }
   }
 
-  function renderAuthorModal(author, authorBooks) {
+  function renderAuthorModal(author, authorBooks, authorUpcomingProjects = []) {
     let existing = document.getElementById('author-modal-overlay');
     if (existing) existing.remove();
 
@@ -2870,9 +2870,77 @@ modal.innerHTML = `
           </div>
         </div>
       `;
-    }).join('') : `
-      <div class="author-empty-books">Chưa có tác phẩm nào của tác giả này trong thư viện.</div>
-    `;
+    }).join('') : (
+      authorUpcomingProjects.length > 0 
+        ? `<div class="author-empty-books">Chưa có tác phẩm đã phát hành chính thức. Mời bạn đón đọc các tác phẩm sắp ra mắt bên dưới!</div>`
+        : `<div class="author-empty-books">Chưa có tác phẩm nào của tác giả này trong thư viện.</div>`
+    );
+
+    let upcomingSectionHtml = '';
+    if (authorUpcomingProjects && authorUpcomingProjects.length > 0) {
+      const upcomingCardsHtml = authorUpcomingProjects.map(p => {
+        const coverUrl = normalizeCoverUrl(p.cover);
+        const status = p.status || 'sap_trien_khai';
+        const progress = typeof p.progress === 'number' ? Math.max(0, Math.min(100, p.progress)) : 0;
+        const targetDateFormatted = formatProjectDate(p.targetDate);
+
+        let stageBadgeHtml = '';
+        if (status === 'bien_tap') {
+          stageBadgeHtml = `<span class="author-badge-stage stage-editing">✒️ Đang biên tập</span>`;
+        } else if (status === 'dang_dich') {
+          stageBadgeHtml = `<span class="author-badge-stage stage-translating">📖 Đang dịch</span>`;
+        } else {
+          stageBadgeHtml = `<span class="author-badge-stage stage-upcoming">⏳ Sắp triển khai</span>`;
+        }
+
+        return `
+          <div class="author-book-item author-upcoming-item" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();" title="Bấm để xem chi tiết tiến độ dịch">
+            <div class="author-book-cover-wrap author-upcoming-cover-wrap">
+              <img src="${coverUrl}" alt="${escapeHtml(p.title)}" class="author-book-cover" onerror="this.onerror=null; this.src='public/icons/glyph_01_sheep_reading.png';">
+              <span class="author-upcoming-pill">Sắp Ra Mắt</span>
+            </div>
+            <div class="author-book-info">
+              <div class="author-upcoming-header-row">
+                <span class="author-badge-upcoming">Sắp Ra Mắt</span>
+                ${stageBadgeHtml}
+                ${progress > 0 ? `<span class="author-badge-pct">${progress}%</span>` : ''}
+              </div>
+              <h4 class="author-book-title">${escapeHtml(p.title)}</h4>
+              <div class="author-book-meta author-upcoming-meta">
+                ${p.category ? `<span class="author-book-category">${escapeHtml(p.category)}</span>` : ''}
+                ${p.currentChapter ? `<span class="author-upcoming-chapter">📝 ${escapeHtml(p.currentChapter)}</span>` : ''}
+                ${p.targetDate ? `<span class="author-upcoming-date">📅 Dự kiến: <strong>${escapeHtml(targetDateFormatted)}</strong></span>` : ''}
+              </div>
+              ${progress > 0 ? `
+                <div class="author-mini-progress">
+                  <div class="author-mini-progress-bar" style="width: ${progress}%;"></div>
+                </div>
+              ` : ''}
+            </div>
+            <div class="author-book-actions" onclick="event.stopPropagation();">
+              <button class="btn-author-progress" onclick="window.sheepaCloseAuthor(); if (window.sheepaOpenProgress) window.sheepaOpenProgress();" title="Xem chi tiết tiến trình dịch">
+                Tiến độ
+              </button>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      upcomingSectionHtml = `
+        <div class="author-books-section author-upcoming-section">
+          <div class="author-books-header">
+            <h4>
+              <span class="author-upcoming-icon">⏳</span>
+              <span>Sắp Ra Mắt</span>
+            </h4>
+            <span class="author-books-count author-upcoming-count">${authorUpcomingProjects.length} tác phẩm</span>
+          </div>
+          <div class="author-books-list">
+            ${upcomingCardsHtml}
+          </div>
+        </div>
+      `;
+    }
 
     overlay.innerHTML = `
       <div class="author-sheet-content">
@@ -2915,6 +2983,8 @@ modal.innerHTML = `
             ${booksHtml}
           </div>
         </div>
+
+        ${upcomingSectionHtml}
       </div>
     `;
 
@@ -2977,7 +3047,7 @@ modal.innerHTML = `
     activeAuthorSheet = overlay;
   }
 
-  window.sheepaOpenAuthor = function(authorId, authorName) {
+  window.sheepaOpenAuthor = async function(authorId, authorName) {
     let author = authorsData.find(a => 
       (authorId && a.id === authorId) || 
       (a.name && a.name.toLowerCase() === (authorName || '').trim().toLowerCase())
@@ -3002,7 +3072,36 @@ modal.innerHTML = `
       (b.author && b.author.trim().toLowerCase() === author.name.trim().toLowerCase())
     );
 
-    renderAuthorModal(author, authorBooks);
+    // Lọc các tác phẩm sắp ra mắt / đang dịch từ hệ thống Tiến độ
+    let authorUpcomingProjects = [];
+    try {
+      const allProjects = await loadProgressProjects();
+      const aName = (author.name || '').trim().toLowerCase();
+      const aId = (author.id || '').trim().toLowerCase();
+
+      authorUpcomingProjects = (allProjects || []).filter(p => {
+        if (p.active === false || String(p.active).toUpperCase() === 'FALSE') return false;
+        const pAuthor = String(p.author || '').trim().toLowerCase();
+        const pAuthorId = String(p.authorId || '').trim().toLowerCase();
+        if (!pAuthor && !pAuthorId) return false;
+
+        // Khớp theo authorId hoặc tên tác giả
+        const matchesAuthor = (pAuthorId && aId && pAuthorId === aId) ||
+                              (pAuthor && aName && (pAuthor === aName || pAuthor.includes(aName) || aName.includes(pAuthor)));
+        if (!matchesAuthor) return false;
+
+        // Bỏ qua các sách đã phát hành chính thức trong authorBooks
+        const isAlreadyPublished = authorBooks.some(b => 
+          (b.id && p.id && b.id.toLowerCase() === p.id.toLowerCase()) ||
+          (b.title && p.title && b.title.trim().toLowerCase() === p.title.trim().toLowerCase())
+        );
+        return !isAlreadyPublished;
+      });
+    } catch (err) {
+      console.warn('Lỗi khi lọc tiến độ cho tác giả:', err);
+    }
+
+    renderAuthorModal(author, authorBooks, authorUpcomingProjects);
   };
 
   window.sheepaCloseAuthor = function() {
@@ -3963,6 +4062,9 @@ modal.innerHTML = `
       overlay.classList.remove('active');
     }
   }
+
+  window.sheepaOpenProgress = openProgressModal;
+  window.sheepaCloseProgress = closeProgressModal;
 
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
