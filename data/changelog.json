@@ -1,5 +1,27 @@
 [
   {
+    "id": "log-20261114-01",
+    "timestamp": "2026-11-14T10:30:00+07:00",
+    "bookId": "vua-phu-kieu",
+    "bookTitle": "Vua Phu Kiệu (The Hod King)",
+    "type": "book_add",
+    "typeName": "Xuất bản mới",
+    "badgeClass": "badge-book",
+    "title": "Phát hành trọn bộ Tập 3 - Biên Niên Sử Tháp Babel (Đơn ngữ & Song ngữ)",
+    "description": "Chính thức ra mắt độc giả trọn bộ 54 chương tác phẩm 'Vua Phu Kiệu' (The Hod King) của tác giả Josiah Bancroft. Hỗ trợ đầy đủ trải nghiệm đọc đơn ngữ tiếng Việt chuẩn biên tập và song ngữ Anh - Việt đối chiếu từng đoạn, tải trọn vẹn 2 bản EPUB."
+  },
+  {
+    "id": "log-20261113-05",
+    "timestamp": "2026-11-13T14:30:00+07:00",
+    "bookId": "toi-nguoi-chua-tung-biet-toi-dan-ong",
+    "bookTitle": "Tôi, Người Chưa Từng Biết Tới Đàn Ông",
+    "type": "ebook_update",
+    "typeName": "Cập nhật Ebook",
+    "badgeClass": "badge-chapter",
+    "title": "Cập nhật bản EPUB tiếng Việt biên tập chuẩn và bản song ngữ đối chiếu",
+    "description": "Hiệu chỉnh và đồng bộ lại toàn bộ file EPUB tiếng Việt biên tập hoàn chỉnh cùng bản EPUB song ngữ Anh - Việt đối chiếu chuẩn xác từng đoạn để độc giả tải về."
+  },
+  {
     "id": "log-20261113-04",
     "timestamp": "2026-11-13T13:45:00+07:00",
     "bookId": "canh-tay-nhan-su",

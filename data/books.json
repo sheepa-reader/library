@@ -1418,8 +1418,7 @@
         "id": "chuong-3",
         "title": "THUỞ BAN ĐẦU, ĐÃ CÓ RAP",
         "part": "",
-        "path": "content/books/mr-yay/chuong-3.md",
-        "noDropcap": true
+        "path": "content/books/mr-yay/chuong-3.md"
       },
       {
         "id": "chuong-4",
@@ -6588,6 +6587,376 @@
     ],
     "hasBilingual": true,
     "downloadCountstart": 62
+  },
+  {
+    "id": "vua-phu-kieu",
+    "title": "Vua Phu Kiệu",
+    "originalTitle": "The Hod King",
+    "series": "Biên Niên Sử Tháp Babel",
+    "volume": "Tập 3",
+    "author": "Josiah Bancroft",
+    "authorId": "josiah-bancroft",
+    "translator": "Sheepa",
+    "year": 2026,
+    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "tags": [
+      "Khoa học viễn tưởng",
+      "Phiêu lưu",
+      "Kỳ ảo"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/vua-phu-kieu/cover.jpg",
+    "icon": "public/icons/20_sheep_pillar.png",
+    "description": "Sau những biến cố nghẹt thở trong Tập 2 - \"Cánh Tay Nhân Sư\", Thomas Senlin buộc phải chia rẽ thủy thủ đoàn tàu State of Art để tiến vào tầng tháp xa hoa nhưng thối nát bậc nhất của Babel: Pelphia. Trong vai một gián điệp đóng giả quý tộc hào hoa, Senlin thâm nhập vào giới thượng lưu phù phiếm nhằm điều tra âm mưu chính trị đang đe dọa sự tồn vong của tòa tháp, đồng thời tiếp tục lần theo dấu vết người vợ mất tích Marya. Trong khi đó, ở tầng đáy tối tăm nơi giai cấp phu kiệu khổ sai (the Hods) bị bóc lột đến tận xương tủy, một lời tiên tri về \"Vua Phu Kiệu\" đang âm ỉ châm ngòi cho một cuộc nổi dậy đẫm máu. Từng mảnh ghép tưởng chừng rời rạc của các thành viên thủy thủ đoàn dần hội tụ trong một cơn bão chính biến khổng lồ sắp nhấn chìm mọi trật tự cổ xưa.",
+    "downloads": {
+      "epub": "content/downloads/vua-phu-kieu.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/vua-phu-kieu-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Dành tặng",
+        "part": "",
+        "path": "content/books/vua-phu-kieu/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời đề từ",
+        "part": "",
+        "path": "content/books/vua-phu-kieu/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Phần I: Cô Tiên Cá",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương Một",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương Hai",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương Ba",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Bốn",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương Năm",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương Sáu",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương Bảy",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương Tám",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương Chín",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương Mười",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương Mười Một",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương Mười Hai",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương Mười Ba",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương Mười Bốn",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Giai cấp Phu kiệu khổ sai và Con Đường Đen",
+        "part": "Phần I: Cô Tiên Cá",
+        "path": "content/books/vua-phu-kieu/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Phần II: Quý Bà Nhảy Múa",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-19.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương Một",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương Hai",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương Ba",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương Bốn",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương Năm",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương Sáu",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương Bảy",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương Tám",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương Chín",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương Mười",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương Mười Một",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương Mười Hai",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương Mười Ba",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Giai cấp Phu kiệu khổ sai và Con Đường Đen",
+        "part": "Phần II: Quý Bà Nhảy Múa",
+        "path": "content/books/vua-phu-kieu/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Phần III: Chiếc Đồng Hồ Vàng",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-34.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương Một",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương Hai",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương Ba",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương Bốn",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương Năm",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương Sáu",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương Bảy",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương Tám",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương Chín",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương Mười",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương Mười Một",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương Mười Hai",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương Mười Ba",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương Mười Bốn",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Chương Mười Lăm",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "Chương Mười Sáu",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-50.md"
+      },
+      {
+        "id": "chuong-51",
+        "title": "Chương Mười Bảy",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "Chương Mười Tám",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "Giai cấp Phu kiệu khổ sai và Con đường Đen",
+        "part": "Phần III: Chiếc Đồng Hồ Vàng",
+        "path": "content/books/vua-phu-kieu/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "Lời cảm ơn",
+        "part": "",
+        "path": "content/books/vua-phu-kieu/chuong-54.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-14",
+    "rating": {
+      "score": 4.43,
+      "count": "12.2k"
+    },
+    "awards": [
+      "Đề cử Giải BookNest • Tiểu thuyết Xuất bản Truyền thống Xuất sắc nhất"
+    ],
+    "hasBilingual": true,
+    "downloadCountstart": 55,
+    "downloadCount": 55
   },
   {
     "id": "the-wedding-people",

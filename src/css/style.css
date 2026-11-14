@@ -3404,9 +3404,7 @@ button {
 .is-hidden,
 .hidden-header,
 .sr-only,
-.reader-content .invi,
 .reader-content .hide,
-.reader-content h1.invi,
 .reader-content h1.hide,
 .reader-content h2.invi,
 .reader-content h2.hide,
@@ -3421,6 +3419,25 @@ button {
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
+}
+
+/* Hiển thị tiêu đề Header 1 có class invi trên nền tảng đọc trang web theo yêu cầu */
+.reader-content h1.invi,
+.reader-content h1.toc-title {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  clip: auto !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  margin: 1.5rem auto 1.25rem !important;
+  text-align: center !important;
+  display: block !important;
+  font-size: 1.65rem !important;
+  font-weight: 700 !important;
+  color: var(--text-primary) !important;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
 /* --- EPIGRAPH & ATTRIBUTION (LỜI ĐỀ TỪ / TRÍCH DẪN ĐẦU CHƯƠNG) --- */

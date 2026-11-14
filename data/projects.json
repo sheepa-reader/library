@@ -1,20 +1,5 @@
 [
   {
-    "id": "the-hod-king",
-    "title": "The Hod King (Vua Phu Kiệu)",
-    "author": "Josiah Bancroft",
-    "series": "Biên Niên Sử Tháp Babel",
-    "cover": "content/books/vua-phu-kieu/cover.jpg",
-    "category": "Kỳ ảo, Phiêu lưu",
-    "status": "bien_tap",
-    "progress": 92,
-    "currentChapter": "50/54 chương (Đang soát lỗi & hiệu đính)",
-    "targetDate": "2026-11-28",
-    "note": "Tập 3 của bộ Biên Niên Sử Tháp Babel — Cuộc hội ngộ đỉnh cao giữa Senlin và Sphinx trên chiến hạm bầu trời.",
-    "heartCount": 142,
-    "active": true
-  },
-  {
     "id": "su-sup-do-cua-thap-babel",
     "title": "Sự Sụp Đổ Của Tháp Babel",
     "author": "Josiah Bancroft",
