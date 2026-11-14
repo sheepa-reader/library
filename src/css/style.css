@@ -3522,12 +3522,34 @@ button {
   border-radius: 6px;
 }
 
+.reader-content .chapter-title-img,
 .reader-content p > img:only-child,
-.reader-content div > img:only-child,
-.reader-content .chapter-title-img {
+.reader-content div > img:only-child {
   display: block;
   margin: 1.5rem auto 2.2rem;
   text-align: center;
+}
+
+.reader-content .chapter-title-img img,
+.reader-content .reader-image {
+  max-width: 100%;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.reader-content .mess-icon img {
+  display: inline-block;
+  vertical-align: middle;
+  height: 1.35em;
+  width: auto;
+  margin: 0 0.15rem;
+  border-radius: 2px;
+  box-shadow: none;
 }
 
 /* ==========================================================================

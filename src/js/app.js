@@ -533,11 +533,29 @@
     return lockedPatterns.some(regex => regex.test(title));
   }
 
-  // Ki?m tra xem chuong co phai la L?i d? t?ng (Dedication / Epigraph) hay khong d? can gi?a ngh? thu?t
+  // Kiểm tra xem chương có phải là Lời đề tặng (Dedication / Epigraph) hay không để căn giữa nghệ thuật
   function isDedicationChapter(chapter) {
     if (!chapter || !chapter.title) return false;
     const title = chapter.title.trim().toLowerCase();
     return /lời\s*đề\s*tặng|^đề\s*tặng|dedication|epigraph/i.test(title);
+  }
+
+  // Chuẩn hóa đường dẫn ảnh tương đối sang đường dẫn tuyệt đối theo thư mục sách
+  function resolveReaderImageSrc(src, book = null, chapter = null) {
+    if (!src) return '';
+    src = src.trim();
+    if (/^(?:https?:|\/\/|\/|data:)/i.test(src)) {
+      return src;
+    }
+    if (src.startsWith('content/') || src.startsWith('public/')) {
+      return src;
+    }
+    const targetBook = book || currentBook;
+    if (targetBook && targetBook.id) {
+      const cleanSrc = src.replace(/^\.\//, '');
+      return `content/books/${targetBook.id}/${cleanSrc}`;
+    }
+    return src;
   }
 
   // --- SIMPLE LIGHTWEIGHT MARKDOWN PARSER ---
@@ -681,7 +699,17 @@
       // Ordered lists
       .replace(/^\s*\d+\.\s+(.*$)/gim, '<li>$1</li>')
       // Horizontal rules
-      .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr class="scene-break"/>');
+      .replace(/^\s*(\-\-\-|\*\*\*)\s*$/gim, '<hr class="scene-break"/>')
+      // Markdown Images: ![alt](src)
+      .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, src) => {
+        const resolved = resolveReaderImageSrc(src, targetBook, chapter);
+        return `<p class="chapter-title-img text-center" align="center"><img src="${resolved}" alt="${escapeHtml(alt || '')}" class="reader-image" loading="lazy" /></p>`;
+      })
+      // HTML <img> tags with relative paths
+      .replace(/<img\b([^>]*?)\bsrc=["']([^"']+)["']([^>]*?)>/gi, (match, prefix, src, suffix) => {
+        const resolved = resolveReaderImageSrc(src, targetBook, chapter);
+        return `<img${prefix}src="${resolved}"${suffix}>`;
+      });
 
     // Paragraph wrapping for loose lines with smart Drop Cap assignment
     const pLines = html.split(/\n\s*\n/);
@@ -739,7 +767,7 @@
       }
 
       // Nhận diện Ảnh độc lập / Ảnh tên chương (Standalone chapter title image)
-      if (/^<(p|div)[^>]*>\s*<img\b[^>]*>\s*<\/(p|div)>$/i.test(line) || /^<img\b[^>]*>$/i.test(line)) {
+      if (/^<(?:p|div)[^>]*>\s*<img\b[^>]*>(?:\s*<\/(?:p|div)>)?$/i.test(line) || /^<img\b/i.test(line) || line.includes('chapter-title-img') || line.includes('reader-image')) {
         return line;
       }
 
