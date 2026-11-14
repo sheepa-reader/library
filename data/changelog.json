@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261114-02",
+    "timestamp": "2026-11-14T17:00:00+07:00",
+    "bookId": "giua-hai-ngon-lua",
+    "bookTitle": "Giữa Hai Ngọn Lửa (Between Two Fires)",
+    "type": "book_add",
+    "typeName": "Xuất bản mới",
+    "badgeClass": "badge-book",
+    "title": "Phát hành kiệt tác kinh dị lịch sử Giữa Hai Ngọn Lửa (Đơn ngữ & Song ngữ)",
+    "description": "Chính thức ra mắt độc giả tác phẩm 'Giữa Hai Ngọn Lửa' (Between Two Fires) của tác giả Christopher Buehlman với trọn vẹn 50 chương. Hỗ trợ đầy đủ trải nghiệm đọc đơn ngữ tiếng Việt biên tập chuẩn mực và song ngữ Anh - Việt đối chiếu từng đoạn, tải trọn vẹn 2 bản EPUB."
+  },
+  {
     "id": "log-20261114-01",
     "timestamp": "2026-11-14T10:30:00+07:00",
     "bookId": "vua-phu-kieu",

@@ -169,5 +169,18 @@
     ],
     "bio": "Jacqueline Harpman (1929 – 2012) là nhà văn kiêm nhà phân tâm học danh tiếng người Bỉ. Trải qua tuổi thơ tị nạn trong Thế chiến II, bà từng giành giải Prix Victor-Rossel (1959) và giải thưởng văn học danh giá của Pháp Prix Médicis (1996 với tiểu thuyết Orlanda). Kiến thức phân tâm học sâu rộng đã mang lại cho văn phong của bà chiều sâu tâm lý sắc bén, lạnh lùng nhưng đầy rung cảm. Kiệt tác phản địa đàng Tôi, Người Chưa Từng Biết Tới Đàn Ông (I Who Have Never Known Men, 1995) sau nhiều thập kỷ đã tạo nên một hiện tượng văn học toàn cầu chấn động.",
     "avatar": "public/authors/Jacqueline-Harpman.png"
+  },
+  {
+    "id": "christopher-buehlman",
+    "name": "Christopher Buehlman",
+    "country": "Hoa Kỳ",
+    "birthYear": "1969",
+    "genres": [
+      "Kinh dị",
+      "Đen tối",
+      "Kỳ ảo"
+    ],
+    "bio": "Tiểu thuyết gia, nhà thơ và nghệ sĩ biểu diễn tài hoa người Mỹ, nổi tiếng với biệt tài pha trộn giữa chất sử thi thời Trung Cổ, kinh dị gothic và ngôn từ giàu nhạc tính. Xuất thân từ một nghệ sĩ trình diễn tại các lễ hội Phục Hưng (Renaissance Faire), ông sở hữu vốn kiến thức sâu rộng về lịch sử, tôn giáo và văn hóa dân gian châu Âu, giúp thế giới trong trang sách hiện lên chân thực đến rợn người. Văn phong của Buehlman vừa bạo liệt, trần trụi, hài hước đen tối lại vừa thấm đẫm lòng trắc ẩn sâu sắc dành cho những kẻ lạc lối. Ngoài kiệt tác Giữa Hai Ngọn Lửa (Between Two Fires), ông còn ghi dấu ấn vang dội với Those Across the River, The Lesser Dead và siêu phẩm kỳ ảo The Blacktongue Thief.",
+    "avatar": "public/authors/christopher-buehlman.png"
   }
 ]

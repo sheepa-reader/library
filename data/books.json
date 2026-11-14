@@ -7522,5 +7522,344 @@
     },
     "authorId": "kathryn-stockett",
     "downloadCountstart": 191
+  },
+  {
+    "id": "giua-hai-ngon-lua",
+    "title": "Giữa Hai Ngọn Lửa",
+    "originalTitle": "Between Two Fires",
+    "series": "",
+    "volume": "",
+    "author": "Christopher Buehlman",
+    "translator": "Sheepa",
+    "year": "2012",
+    "category": "Kinh Dị • Đen Tối • Kỳ Ảo",
+    "tags": [
+      "Kinh dị",
+      "Đen tối",
+      "Kỳ ảo"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/giua-hai-ngon-lua/cover.jpg",
+    "icon": "public/icons/glyph_book_magic_sparkles.png",
+    "description": "Lấy bối cảnh nước Pháp năm 1348 khi Đại Diệt Vong đang càn quét nhân loại và cuộc Chiến tranh Trăm Năm đẩy vùng thôn dã vào cảnh hoang tàn, Thomas, một cựu hiệp sĩ sa cơ bị rút phép thông công nay sống kiếp cướp đường, tình cờ giải cứu một cô bé mồ côi kỳ lạ tên Delphine khỏi tay lũ lưu manh. Cô bé mang trong mình những mặc khải thiêng liêng và khẳng định rằng dịch bệnh không phải tai ương tự nhiên, mà là màn dạo đầu cho Cuộc Chiến Mới của các thiên thần sa ngã chống lại Thiên Đàng. Bất đắc dĩ trở thành người bảo hộ đưa cô bé băng qua vùng đất chết chóc để đến thành phố Giáo hoàng Avignon, Thomas buộc phải đối đầu không chỉ với sự tàn bạo của con người mà còn với những thực thể ma quỷ bước ra từ các bức tranh Địa Ngục thời Trung Cổ. Giữa lửa chiến tranh ở hạ giới và ngọn lửa phán xét của thần thánh, hành trình của họ trở thành cuộc chuộc tội cuối cùng cho một linh hồn đã đánh mất đức tin.",
+    "downloads": {
+      "epub": "content/downloads/giua-hai-ngon-lua.epub",
+      "pdf": "",
+      "bilingualEpub": "content/downloads/giua-hai-ngon-lua-song-ngu.epub",
+      "bilingual": "content/downloads/giua-hai-ngon-lua-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Phần I",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương Một: Về con lừa",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương Hai: Về Mật Ongvà Cây Thánh Giá Bị Gãy",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương Ba: Về Ngọn Tháp và Ngôi Nhà Thờ Bị Cướp Phá",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương Bốn: Về Tu Viện vàThứ Rượu Ngon NhấtTrong Vòng Bảy Năm",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương Năm: Bàn về Con vậttrong Vũng Lầy",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Sáu: Về Hôn Lễ Trên Bờ Sông Và Cuộc Viếng Thăm Trong Chuồng Ngựa",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương Bảy: Về Trận ChiếnTại Chanson-des-Anges",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương Tám: Về Bữa Tiệc vàCuộc Đấu Thương Đêm",
+        "part": "Phần I",
+        "path": "content/books/giua-hai-ngon-lua/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Phần II",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương Chín: Về Thành Phố Paris",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương Mười: Về Trận Chiến Crécy",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương Mười Một: Về khu chợ trên phố Mont-Fetard",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương Mười Hai: Về Những Tượng đá gõ cửa ban đêm",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương Mười Ba: Về Những Giọt Mưa Và Hình Hài Của Tử Thần",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương Mười Bốn: Về vị linh mục mang vết nhơ và sự trả thù của góa phụ",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương Mười Lăm: Về cuộc viếng thăm trong chuồng ngựa",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương Mười Sáu: Về Cây Phong",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương Mười Bảy: Về Thánh Lazarus và Quả Trái Mục Rữa",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương Mười Tám: Bàn về Tín đồ Hành xác và về Auxerre",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương Mười Chín: Về Cuộc Chiến Đang Đến Gần",
+        "part": "Phần II",
+        "path": "content/books/giua-hai-ngon-lua/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Phần III",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương Hai Mươi: Về vị tu sĩ áo trắng",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương Hai Mươi Một: Về Quái Vật và Những Lời Chúc Lành",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương Hai Mươi Hai: Về Những Kẻ Đánh Cá Người",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương Hai Mươi Ba: Về Hòn đảo của Những người chết",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương Hai Mươi Tư: Về Ngôi Nhà Nhỏ Và Về Khúc Ca",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương Hai Mươi Lăm: Về Delphinevà Con Bù Nhìn",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương Hai Mươi Sáu: Về Thomas,và một lời thềđã khất quá lâu",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương Hai Mươi Bảy: BọnRoutiers",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương Hai Mươi Tám: Về Vấn Đề Danh Dự",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương Hai Mươi Chín: Về Marguerite de Péronne",
+        "part": "Phần III",
+        "path": "content/books/giua-hai-ngon-lua/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Phần IV",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương Ba Mươi: Về Người Em TraiCủa Vị Linh Mục",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương Ba Mươi Mốt: Về bữa tiệcvà cuộc săn hươu",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương Ba Mươi Hai: Bàn Về Những KẻLàm Rượu Đêm",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương Ba Mươi Ba: Trong khu vườncủa Giáo hoàng",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương Ba Mươi Tư: Về Vụ Bắt Giữ",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương Ba Mươi Lăm: Về vị Bác sĩ",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khívà Đêm Canh Thức",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương Ba Mươi Bảy: Về cuộc viếng thămtại Villeneuve",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương Ba Mươi Tám: Bàn về các Chiếc nhẫncủa Lazarus vànhững Kẻ tắm mình",
+        "part": "Phần IV",
+        "path": "content/books/giua-hai-ngon-lua/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Phần V",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương Ba Mươi Chín: Về Cặp Song Sinhvà Sự Lật Mặt",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương Bốn Mươi: Về Sự Giáng Lâm CủaĐạo Binh Thiên Đàng",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương Bốn Mươi Mốt: Về cái chết của hiệp sĩ, và về sự phán xét",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương Bốn Mươi Hai: Về CuộcCàn Quét Địa Ngục",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương Bốn Mươi Ba: Về Ngày Cuối Tháng Mười, và Về Tháng Mười Một",
+        "part": "Phần V",
+        "path": "content/books/giua-hai-ngon-lua/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Lời bạt",
+        "part": "Lời bạt",
+        "path": "content/books/giua-hai-ngon-lua/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "Lời cảm tạ",
+        "part": "Lời cảm tạ",
+        "path": "content/books/giua-hai-ngon-lua/chuong-50.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-14",
+    "rating": {
+      "score": 4.16,
+      "count": "118.2k"
+    },
+    "awards": [],
+    "hasBilingual": true,
+    "downloadCountstart": 68,
+    "downloadCount": 68
   }
 ]

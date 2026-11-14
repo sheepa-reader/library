@@ -167,7 +167,8 @@
     'toi-nguoi-chua-tung-biet-toi-dan-ong',
     'cau-chuyen-nay-co-the-cuu-mang-ban',
     'cau-lac-bo-tai-uong',
-    'vua-dau-thuong'
+    'vua-dau-thuong',
+    'giua-hai-ngon-lua'
   ];
   function checkBookHasBilingual(book) {
     if (!book) return false;
