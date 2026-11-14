@@ -1,5 +1,8 @@
 # THÁNG BA
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">MR. YAY WANTED a bottle of rum from the duty-free shop.</p>
 
 <p class="para-vi-sub">**MR. YAY MUỐN CÓ** một chai rượu rum từ cửa hàng miễn thuế.</p>

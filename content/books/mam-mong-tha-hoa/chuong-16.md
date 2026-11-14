@@ -2,6 +2,8 @@
 
 *PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI*
 
+![PHẦN II: CẢ THẾ GIAN LÀ KHU VƯỜN HOANG DẠI](images/p2.jpg)
+
 ## CHƯƠNG 15
 
   

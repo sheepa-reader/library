@@ -4,6 +4,8 @@
 
 # Món Thứ Tám • Bánh Cưới
 
+![Món Thứ Tám • Bánh Cưới](images/p8.jpg)
+
 <p class="para-en">Expected Endurance Effect(s):</p>
 
 <p class="para-vi-sub">**Hiệu ứng Sức bền ma thuật Dự kiến:**</p>

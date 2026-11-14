@@ -126,6 +126,9 @@ Tux Chân Bật Tốc. Chú Chó Điền Kinh McChạy Bộ.
 
 *Chạy đi, Tux, chạy đi.*
 
+![Chương](images/chapter.jpg)
+
+
 Anh hít một hơi thật sâu rồi hòa mình vào bữa tiệc.
 
 Có lẽ ngay đêm đầu tiên anh đã vui chơi hơi quá trớn. Quá nhiều ly piña colada đựng trong gáo dừa. Quá nhiều lượt cạn chén từ thanh ván trượt Shot-Ski uống rượu liên hoàn. Bratty vẫn mải miết lắc lư nhảy nhót ngay cả khi bộ não của anh đã chính thức ngừng ghi nhận dữ liệu. Sáng hôm sau, anh thức giấc trên chiếc ghế dài cạnh hồ bơi, bên dưới vòm trời xanh lơ điểm xuyết những dải mây trắng tựa viền ren. Anh gọi trứng cùng khoai tây bào chiên giòn rụm mang thẳng ra tận ghế nằm. Thêm một tách cà phê và một ly cocktail mimosa. Thế rồi anh lại thiếp đi lúc nào không hay. Cho đến khi Tommy tìm thấy anh.

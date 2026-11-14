@@ -2,6 +2,8 @@
 
 *PHẦN III: TỦY CỰ THÚ*
 
+![PHẦN III: TỦY CỰ THÚ](images/p3.jpg)
+
 ## CHƯƠNG 26
 
   

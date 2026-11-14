@@ -150,6 +150,9 @@ Jack nhìn Miriam. Ánh mắt anh như muốn nói:
 
 *Em thấy chưa? Nhìn họ bây giờ xem? Em có nhớ ngày trước họ như thế nào không?*
 
+![Chương](images/chapter.jpg)
+
+
 Cô nhớ Fred từng giống hệt Tom. Cùng chiếc áo sơ mi kẻ sọc, cùng chiếc quần jeans là phẳng tắp, cùng kiểu tóc ngắn gọn gàng. Cô nhớ Kate từng mặc áo lót nâng ngực, tóc nhuộm, móng tay sơn hồng bóng lộn.
 
 “Này, tôi có câu hỏi này muốn hỏi hai người,” Jack nói với hai người hàng xóm. “Hai người có nhớ một chương trình truyền hình có tên *The Adventures of Mr. Yay* không?”

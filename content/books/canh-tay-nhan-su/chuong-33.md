@@ -1,5 +1,7 @@
 *Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas*
 
+![Phần IV: Quý cô Edith Winters và Bậc thầy Adamos Boreas](images/vol2p4.jpg)
+
 # Chương Bảy
 
 <div class="epigraph">

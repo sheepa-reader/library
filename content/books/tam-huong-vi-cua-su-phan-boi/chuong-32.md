@@ -1,5 +1,7 @@
 # Món Thứ Ba • Thức Ăn Chuyến Bay
 
+![Món Thứ Ba • Thức Ăn Chuyến Bay](images/p3.jpg)
+
 *Món Thứ Ba • Thức Ăn Chuyến Bay*
 
 *Một món ăn vặt hoàn hảo để mang theo trên đường, những quả trứng luộc chiên này bùng nổ hương vị khiến người ta chỉ muốn kề bên một ngụm bia đen mát lạnh và làn gió biển mơn man. Để có một hương vị thanh mát hơn, hãy gói chúng lại bằng rau xà lách lá (không dùng xà lách Romaine!).*

@@ -1,5 +1,8 @@
 # BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU TÂM LÝ
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">Miriam: How are you? Where are you?</p>
 
 <p class="para-vi-sub">Miriam: *Cậu thế nào rồi? Đang ở đâu đấy?*</p>

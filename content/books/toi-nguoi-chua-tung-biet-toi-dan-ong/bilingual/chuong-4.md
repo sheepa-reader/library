@@ -1,3 +1,5 @@
+![PHẦN BA](images/3.jpg)
+
 <p class="para-en"><strong>PART THREE</strong></p>
 <p class="para-vi-sub"><strong>PHẦN BA</strong></p>
 

@@ -2,6 +2,8 @@
 
 *VĨ THANH: NGƯỜI CANH GÁC*
 
+![VĨ THANH: NGƯỜI CANH GÁC](images/p6.jpg)
+
 ## CHƯƠNG 55
 
   

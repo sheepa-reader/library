@@ -1,5 +1,8 @@
 # CÁI QUÁI GÌ THẾ, CON HƯƠU?
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">FOR THE SECOND NIGHT IN A ROW, Jack came home before dinner. Roxster met him at the door, teeth bared, but his barks were intermingled with sloppy licks. Jack fended off the dog with his briefcase. He set the briefcase on the floor. Roxster thwacked it with his tail, knocking it over. It landed with a hollow thud, as if it was almost empty.</p>
 
 <p class="para-vi-sub">**ĐÂY ĐÃ LÀ ĐÊM THỨ HAI LIÊN TIẾP** Jack về nhà trước giờ ăn tối. Roxster đón anh ngay ngoài cửa, nhe răng đe dọa nhưng tiếng sủa lại đan xen với những cú liếm đẫm nước dãi. Jack gạt chú chó ra bằng chiếc cặp táp của mình. Anh đặt cặp xuống sàn, nhưng Roxster đã quật đuôi khiến nó đổ chỏng gọng. Chiếc cặp rơi xuống phát ra một tiếng *bịch* rỗng tuếch, như thể bên trong chẳng có mấy đồ đạc.</p>

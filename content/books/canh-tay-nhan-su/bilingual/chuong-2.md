@@ -1,5 +1,7 @@
 *Phần I: Tàu Tầng Mây Đá*
 
+![Phần I: Tàu Tầng Mây Đá](images/vol2p1.jpg)
+
 # Chương Một
 
 <div class="epigraph">

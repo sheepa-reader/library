@@ -1,3 +1,5 @@
+![PHẦN HAI](images/2.jpg)
+
 <p class="para-en"><strong>PART TWO</strong></p>
 <p class="para-vi-sub"><strong>PHẦN HAI</strong></p>
 

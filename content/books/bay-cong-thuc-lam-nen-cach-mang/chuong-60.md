@@ -2,6 +2,8 @@
 
 # Món Thứ Sáu • Gia vị ướp Emphon
 
+![Món Thứ Sáu • Thịt Ướp Emphon](images/p6.jpg)
+
 Món ăn này còn được biết đến với tên gọi Bánh Taco Emphon. Món Gia vị ướp Emphon Cường hóa phát huy hương vị tuyệt hảo nhất khi dùng kèm một ly bia nhẹ hoặc bia chua, ăn cùng đĩa salad thanh đạm, đậu nghiền chiên hoặc cơm. Đối với những ai ít ăn được cay, nên dùng thêm kem chua để làm dịu vị nồng.
 
 

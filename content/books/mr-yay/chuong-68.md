@@ -34,6 +34,9 @@ Tiếng khóa lách cách vang lên. Cánh cửa bật mở. Miriam trừng mắ
 
 **SCIENCE, BITCHES!**
 
+![Chương](images/chapter.jpg)
+
+
 Anh ta dắt theo một chú chó bằng dây xích, một chú chó corgi. “Tôi là SherLok Ohms. Tôi tới vì chuyện liên quan đến Mr. Yay.”
 
 “Ồ. Jack đang ở ngoài sân sau,” cô nói. “Mời anh đi đường này.”

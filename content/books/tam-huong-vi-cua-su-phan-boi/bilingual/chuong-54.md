@@ -1,3 +1,5 @@
+![Món Thứ Năm • Bánh mì nướng bơ tỏi Dũng Khí](images/p5.jpg)
+
 <p class="para-en">*Course 4: Stormsquall Steak (Enhanced)*</p>
 
 <p class="para-vi-sub">*Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*</p>

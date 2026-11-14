@@ -8,6 +8,9 @@ Anh mặc áo khoác nhung kẻ, đội mũ fedora và châm một điếu thu�
 
 *Người đàn ông này là ai?*
 
+![Chương](images/chapter.jpg)
+
+
 Biết đâu anh là tài tử của một bộ phim noir thập niên 1940. Biết đâu trong gấu áo anh có giắt một khẩu súng. Biết đâu anh từng đem lòng yêu một cô nàng nguy hiểm sở hữu đôi môi đỏ như máu, người sẽ chẳng bao giờ thèm đáp lại tình cảm của anh.
 
 Biết đâu anh chỉ là một kẻ thích trầm ngâm đăm chiêu nhìn qua những mái nhà. Thế nhưng ánh mắt anh lại bị hút về căn phòng bên trong: chiếc bàn bếp, cốc cà phê trống rỗng, bút viết, bút nhớ dòng cùng những mảnh giấy ghi nhớ rực rỡ sắc màu, máy tính xách tay và một đống sách luật. Anh là kiểu người rồi sẽ làm nên trò trống, nhất quyết không chịu sống cuộc đời mòn mẫn, lại càng không chấp nhận lụi tàn hay chìm vào quên lãng. Anh sở hữu trọn vẹn sự tự tin đến mức quyết đoán của tuổi trẻ.

@@ -4,6 +4,8 @@
 
 # Món Thứ Năm • Ớt ma thuật kiểm soát tâm trí
 
+![Món Thứ Năm • Kiểm Soát Ớt Cay](images/p5.jpg)
+
 <p class="para-en">A meal best left untouched.</p>
 <p class="para-vi-sub">Một món ăn tốt nhất là đừng bao giờ đụng tới.</p>
 

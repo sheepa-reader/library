@@ -1,5 +1,7 @@
 *Phần I: Tầng Hầm & Phòng Khách*
 
+![Phần I: Tầng Hầm & Phòng Khách](images/Q1P1.jpg)
+
 # Chương Một
 
 <div class="epigraph">

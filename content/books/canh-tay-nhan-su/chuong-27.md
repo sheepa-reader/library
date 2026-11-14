@@ -1,5 +1,7 @@
 *Phần III: Thư Viện Vô Đáy*
 
+![Phần III: Thư Viện Vô Đáy](images/vol2p3.jpg)
+
 # Chương Một
 
 <div class="epigraph">

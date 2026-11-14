@@ -1,5 +1,8 @@
 # THÁNG GIÊNG
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">Bradford: Thanks for, you know, pushing this back a week. And switching to video call.</p>
 
 <p class="para-vi-sub">Bradford: Cảm ơn cô vì đã dời lịch lại một tuần giúp cháu. Cả việc chuyển sang gọi video thế này nữa.</p>

@@ -1,5 +1,7 @@
 # Món Thứ Nhất • Hương Vị Đầu Tiên
 
+![Món Thứ Nhất • Hương Vị Đầu Tiên](images/p1.jpg)
+
 <p class="para-en">A meager cut, the First Flavor is best served as an appetizer or alongside a salad of herbaceous greens in a vinaigrette for acidity. Pair with a light red wine to start your evening.</p>
 <p class="para-vi-sub">Vốn là phần thịt cắt ra không nhiều, Hương Vị Đầu Tiên ngon nhất khi dùng làm món khai vị hoặc thưởng thức cùng đĩa salad rau thơm trộn sốt giấm chua thanh. Hãy nhâm nhi cùng một ly vang đỏ nhẹ để mở đầu cho bữa tối trọn vẹn.</p>
 

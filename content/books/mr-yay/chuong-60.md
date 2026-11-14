@@ -109,3 +109,5 @@
         
 
 *Cháu sẽ đến gặp bố cháu. Ông ấy vẫn chưa biết tí gì đâu. Khi đó cháu sẽ nói cho ông ấy biết. Và dù ông ấy có nói gì đi nữa… kệ mẹ nó. Cháu sẽ không sợ hãi nữa.*
+
+![Chương](images/chapter.jpg)

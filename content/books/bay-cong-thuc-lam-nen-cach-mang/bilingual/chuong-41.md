@@ -1,6 +1,8 @@
 <p class="para-en">*Course 4: Steak Fries*</p>
 
-<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*</p>
+<p class="para-vi-sub">*Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*
+
+![Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng](images/p4.jpg)</p>
 
 # 33 Thật là một tình thế khó khăn
 

@@ -1,3 +1,5 @@
+![PHẦN MỘT](images/1.jpg)
+
 <p class="para-en"><strong>PART ONE</strong></p>
 <p class="para-vi-sub"><strong>PHẦN MỘT</strong></p>
 

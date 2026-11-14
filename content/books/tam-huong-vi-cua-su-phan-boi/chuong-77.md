@@ -1,5 +1,7 @@
 # Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
+![Món Thứ Bảy • Sữa chua lassi Sinh Mệnh](images/p7.jpg)
+
 *Món Thứ Bảy • Sữa chua lassi Sinh Mệnh*
 
 *Một thức uống căng tràn nhựa sống có thể thực sự tái sinh cuộc đời bạn nếu bạn hữu tâm khao khát điều đó. Rất thích hợp để dùng kèm với nhiều món ăn Hoàng gia, đặc biệt là những món mang tính nhiệt cao.*

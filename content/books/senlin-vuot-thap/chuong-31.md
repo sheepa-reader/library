@@ -1,5 +1,7 @@
 *Phần III: Tân Babel*
 
+![Phần III: Tân Babel](images/Q1P3.jpg)
+
 # Chương Một
 
 <div class="epigraph">

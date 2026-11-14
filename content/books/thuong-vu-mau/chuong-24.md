@@ -1,5 +1,7 @@
 *PHẦN IV: TRÁI TIM MỤC NÁT*
 
+![PHẦN IV: TRÁI TIM MỤC NÁT](images/p4.png)
+
 # CHƯƠNG 23
 
 Ánh mặt trời hửng đông bắt gặp tôi đang ngồi phía sau một chiếc xe ngựa trần, xung quanh là các viên chức của Viện Orbiis, khi chúng tôi ọc ạch lăn bánh về phía đông, hướng đến lãnh địa của gia tộc Armenta. Một cơn mưa nhẹ bắt đầu rơi, và những người thuộc Viện Orbiis liền tỏ ra phấn khích; họ há miệng, để mặc cho những giọt nước tí tách rơi vào. Có người đảo những giọt nước trong miệng như thể đang nhấp từng hớp rượu ngon, rồi thì thầm bàn luận với nhau về hương vị và niên đại của cơn mưa. Những người khác lại khum tay hứng nước, chăm chú nhìn vào lòng bàn tay, nghiêng qua nghiêng lại những giọt nước li ti như thể có thể đọc được tương lai ẩn chứa bên trong.

@@ -1,5 +1,7 @@
 *Phần V: Bóng Hình Thủy Quái*
 
+![Phần V: Bóng Hình Thủy Quái](images/p5.jpg)
+
 # Chương 34
 
 Tôi dứt lời, cổ họng đã khản đặc, hai mí mắt giật giật nhức nhối. Âm vang từ câu nói cuối cùng của tôi dội vào vách phòng xét xử rồi chìm lịm trong sự tịch mịch.

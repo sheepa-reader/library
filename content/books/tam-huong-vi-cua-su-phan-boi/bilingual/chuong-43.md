@@ -1,3 +1,5 @@
+![Món Thứ Tư • Bánh Phô Mai Đắng](images/p4.jpg)
+
 <p class="para-en">*Course 1: Insight Enchiladas*</p>
 
 <p class="para-vi-sub">*Món Thứ Nhất • Bánh Enchilada Thấu Suốt*</p>

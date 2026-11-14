@@ -4,6 +4,8 @@
 
 # Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon
 
+![Món Thứ Sáu • Bánh Cuộn Quái Thú Werephon](images/p6.jpg)
+
 <p class="para-en">Ingredients (serves 2–4):</p>
 
 <p class="para-vi-sub">**Nguyên liệu** (khẩu phần cho 2 - 4 người):</p>

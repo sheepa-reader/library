@@ -1,5 +1,7 @@
 *Phần VI: Senlin & Quản Thư Viên*
 
+![Phần VI: Senlin & Quản Thư Viên](images/vol2p7.jpg)
+
 # Chương Mười Tám
 
 <div class="epigraph">

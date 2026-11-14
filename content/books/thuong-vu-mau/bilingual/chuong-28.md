@@ -1,6 +1,8 @@
 <p class="para-en">*Part V: The Taste of the Knife*</p>
 
-<p class="para-vi-sub">*PHẦN V: VỊ CỦA LƯỠI DAO*</p>
+<p class="para-vi-sub">*PHẦN V: VỊ CỦA LƯỠI DAO*
+
+![PHẦN V: VỊ CỦA LƯỠI DAO](images/p5.png)</p>
 
 # CHƯƠNG 27
 

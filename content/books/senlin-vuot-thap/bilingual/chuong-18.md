@@ -1,6 +1,8 @@
 <p class="para-en">*Part II: The Baths*</p>
 
-<p class="para-vi-sub">*Phần II: Nhà Tắm*</p>
+<p class="para-vi-sub">*Phần II: Nhà Tắm*
+
+![Phần II: Nhà Tắm](images/Q1P2.jpg)</p>
 
 # Chương Một
 

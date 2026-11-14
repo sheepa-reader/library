@@ -1,6 +1,8 @@
 <p class="para-en">*Part II: Fortune and Her Trail of Dead*</p>
 
-<p class="para-vi-sub">*PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*</p>
+<p class="para-vi-sub">*PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
+
+![PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN](images/p2.png)</p>
 
 # CHƯƠNG 9
 

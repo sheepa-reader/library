@@ -1,3 +1,5 @@
+![Món Thứ Năm • Bánh mì nướng bơ tỏi Dũng Khí](images/p5.jpg)
+
 *Món Thứ Tư • Bít Tết Bão Tố Tăng Cường*
 
 # 42 CHIẾN TRANH

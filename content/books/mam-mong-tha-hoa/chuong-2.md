@@ -2,6 +2,8 @@
 
 *PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT*
 
+![PHẦN I: NGƯỜI ĐÀN ÔNG BIẾN MẤT](images/p1.jpg)
+
 ## CHƯƠNG 1
 
   

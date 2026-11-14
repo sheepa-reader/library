@@ -362,6 +362,9 @@ Miriam tinh tế để mặc cô bạn ở đó. Cô rảo bước men theo mé 
 
 *Anh ta đã đi đâu rồi?*
 
+![Chương](images/chapter.jpg)
+
+
 Nhưng Miriam chẳng thể cất lời đáp. Chú gấu mèo ngoảnh đầu quay đi rồi nhanh chân lủi mất vào bóng tối.
 
 Cô lấy điếu thuốc mới, châm lửa từ đốm tàn đỏ rực của điếu vừa tàn. Từ lùm cây gần đó lại vang lên một tiếng sột soạt khác. Miriam tiến về phía phát ra tiếng động, ngỡ tưởng sẽ lại bắt gặp một sinh linh kỳ lạ thoắt ẩn thoắt hiện nào đó. Thế nhưng, đập vào mắt cô lại là bóng dáng của một người đàn ông. Cô nhận ra đốm lửa đỏ rực lập lòe nơi đầu điếu thuốc anh đang cầm.

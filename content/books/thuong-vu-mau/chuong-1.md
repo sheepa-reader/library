@@ -1,3 +1,7 @@
+![Bản đồ Đế chế](images/worldmap.jpg)
+
+![Bảng Phân Cấp](images/CAPBAC.jpg)
+
 # GIỚI THIỆU
 
 Từ trước khi ký ức thành hình, trước cả khi lịch sử được ghi chép, loài thủy quái Leviathan đã trị vì. Chúng là những quái thú khổng lồ, dị dạng, cứ mỗi mùa mưa lại trỗi dậy tràn lên bờ, lê bước khắp các vùng đồng bằng, gieo rắc tai ương, chết chóc cùng nỗi kinh hoàng. Suốt nhiều thế kỷ, cư dân trên mảnh đất này phải sống phụ thuộc vào lòng thương hại tàn nhẫn của chúng, chẳng biết đến điều gì ngoài sợ hãi và đau thương.

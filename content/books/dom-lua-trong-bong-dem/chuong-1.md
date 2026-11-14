@@ -1,3 +1,5 @@
+![Stacy Willingham](images/Stacy Willingham.png)
+
 # Introduction
 
 TÁC GIẢ

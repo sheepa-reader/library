@@ -1,5 +1,8 @@
 # MẤT NIỀM TIN
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">THE KIDS HELD a memorial service for the leg in the backyard.</p>
 
 <p class="para-vi-sub">**BỌN TRẺ TỔ CHỨC** một lễ tưởng niệm cho cái chân ở sân sau.</p>

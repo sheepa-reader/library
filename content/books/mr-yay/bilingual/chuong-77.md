@@ -1,5 +1,8 @@
 # HẠ CHÍ - MR. YAY LÀM NÊN CHUYỆN
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">MR. YAY WAS BACKSTAGE. In a moment, the show would begin.</p>
 
 <p class="para-vi-sub">**MR. YAY ĐANG Ở PHÍA SAU HẬU TRƯỜNG.** Chỉ chốc lát nữa thôi, buổi diễn sẽ bắt đầu.</p>

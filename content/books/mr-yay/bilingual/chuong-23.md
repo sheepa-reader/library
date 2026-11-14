@@ -1,5 +1,8 @@
 # GÓC HOÀI NIỆM
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">MIRIAM + JACK</p>
 
 <p class="para-vi-sub">**MIRIAM + JACK**</p>

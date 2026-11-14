@@ -1,6 +1,8 @@
 <p class="para-en">*Part IV: The Rot in All Our Hearts*</p>
 
-<p class="para-vi-sub">*PHẦN IV: TRÁI TIM MỤC NÁT*</p>
+<p class="para-vi-sub">*PHẦN IV: TRÁI TIM MỤC NÁT*
+
+![PHẦN IV: TRÁI TIM MỤC NÁT](images/p4.png)</p>
 
 # CHƯƠNG 23
 

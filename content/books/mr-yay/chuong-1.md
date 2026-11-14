@@ -1,3 +1,5 @@
+![Emily Jane](images/emily Jane.png)
+
 # TÁC GIẢ
 
 **EMILY JANE**

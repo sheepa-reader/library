@@ -2,6 +2,8 @@
 
 *PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH*
 
+![PHẦN IV: ÁN MẠNG Ở THƯỢNG THÀNH](images/p4.jpg)
+
 ## CHƯƠNG 32
 
   

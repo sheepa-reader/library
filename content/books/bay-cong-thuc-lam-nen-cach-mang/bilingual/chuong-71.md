@@ -1,5 +1,7 @@
 # Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa (Cường Hóa)
 
+![Món Thứ Bảy • Súp Bắp Bò Phóng Hỏa](images/p7.jpg)
+
 <p class="para-en">Also known as Sesa’s Sourdough Stew, the Enhanced version of Shank Stew is a complete meal by itself. The bread bowl provides ample starch, and the stew itself, all the variety of flavor you could need.</p>
 <p class="para-vi-sub">Còn được biết đến với tên gọi Súp bánh mì men chua của Sesa, phiên bản Cường hóa Ma thuật của món Súp bắp bò phóng hỏa - Đại công thức 7 tự thân nó đã là một bữa ăn hoàn chỉnh. Chiếc bát làm bằng bánh mì cung cấp lượng tinh bột dồi dào, còn bản thân món súp lại mang trọn vẹn mọi tầng hương vị phong phú mà người ta hằng mong ước. Hãy thưởng thức kèm một loại đồ uống tùy chọn và cảm nhận trọn vẹn sự thỏa mãn ngập tràn sau khi dùng xong bữa.</p>
 

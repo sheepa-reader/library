@@ -4,6 +4,9 @@
 
 **HÃY TƯỞNG TƯỢNG BẠN** là một gã đánh cá.
 
+![Chương](images/chapter.jpg)
+
+
 Cả đời bạn gắn chặt với cái kiếp ngư dân lênh đênh trên biển Aegean. Cuộc sống của bạn từng êm ả đẹp như mơ, dư dả ấm no — cho tới một mùa hè trời đánh nào đó lũ cá bắt đầu lặn mất tăm. Sang mùa hè tiếp theo thì cá mú lại càng hẻo lánh, rồi cứ thế cạn sạch sành sanh. Đã nghèo còn mắc cái eo, một cơn bão quét qua đập tan tành con thuyền. Bạn nhẵn túi, chẳng còn đồng cắc nào để trả lương cho thủy thủ đoàn. Đến lúc chắp vá xong xuôi mớ tàn tích nổi lềnh bềnh ấy thì bạn chỉ còn lại trơ trọi một mình. Bạn và thằng con giai cưng.
 
 Thằng nhóc thì hăng hái khỏi bàn. Cái đấy phải công nhận. Nó máu me ra khơi đánh cá ra trò. Ngặt nỗi sức vóc nó chỉ bằng nửa người lớn, còn cái mồm thì hoạt động với công suất gấp mười lần. Nó lải nhải, bắn liên thanh, nói không ngơi nghỉ lấy một giây. Bạn cũng ráng mà tỏ vẻ biết ơn số phận, cơ mà đời nào có cho bạn được một khắc bình yên. Tiếng sóng vỗ rì rào bạn còn chẳng nghe nổi, vì thằng nhóc bận thao thao bất tuyệt từ lúc vừa banh mắt dậy cho tới tận lúc bị cơn buồn ngủ quật ngã. Thậm chí lắm hôm, nó còn nói mớ liến thoắng cả trong mơ.

@@ -1,3 +1,5 @@
+![Jacqueline Harpman](images/Jacqueline-Harpman.png)
+
 <p class="para-en"><strong>About the Author</strong></p>
 <p class="para-vi-sub"><strong>Về Tác Giả</strong></p>
 

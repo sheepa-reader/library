@@ -4,6 +4,9 @@
 
 **HÃY TƯỞNG TƯỢNG BẠN** là một chú chó.
 
+![Chương](images/chapter.jpg)
+
+
 Hãy tưởng tượng bạn là một chú chó
 
 Bạn buồn bã, ngoại trừ những lúc chìm vào giấc mơ kỳ lạ kia. Trong mơ, bạn có một gia đình động vật. Bạn được đội một chiếc mũ vô cùng bảnh bao. Ở đó có gió, có nước, có ánh nắng ngập tràn, và quan trọng nhất, bạn được yêu thương. Bạn Nổi Tiếng. Con người xúm lại vuốt ve, gãi cằm và bắt tay bạn, ai nấy đều không tiếc lời ngợi khen bạn là một Chú Chó Cực Kỳ Ngoan.

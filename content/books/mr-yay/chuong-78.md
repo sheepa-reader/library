@@ -45,3 +45,5 @@ Bratty lại bật cười khúc khích. “Một ảo giác à? Hay một giấ
 ---
 
 **HẾT**
+
+![Chương](images/chapter.jpg)

@@ -4,6 +4,8 @@
 
 # Món Thứ Ba • Thức Ăn Chuyến Bay
 
+![Món Thứ Ba • Thức Ăn Chuyến Bay](images/p3.jpg)
+
 <p class="para-en">A perfect snack to take on the go, these fried boiled eggs burst with flavor that calls out for a cold dark beer and an ocean breeze. For a more refreshing bite, wrap with leaf lettuce (not romaine!).</p>
 
 <p class="para-vi-sub">Một món ăn vặt hoàn hảo để mang theo trên đường, những quả trứng luộc chiên này bùng nổ hương vị khiến người ta chỉ muốn kề bên một ngụm bia đen mát lạnh và làn gió biển mơn man. Để có một hương vị thanh mát hơn, hãy gói chúng lại bằng rau xà lách lá (không dùng xà lách Romaine!).</p>

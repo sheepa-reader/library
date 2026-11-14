@@ -8,6 +8,9 @@
 
 # BRATTY VÀ CHUYÊN VIÊN TRỊ LIỆU CỦA CẬU
 
+![Chương](images/chapter.jpg)
+
+
 
 
   

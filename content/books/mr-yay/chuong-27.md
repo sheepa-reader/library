@@ -178,6 +178,9 @@ Rory nhe răng cười khoái chí rồi ngấu nghiến ăn sạch. Lindsey nh�
 
 *Ôi, tốt quá. Gật đầu. Mỉm cười.*
 
+![Chương](images/chapter.jpg)
+
+
 “Một đàn chim thuộc loài có nguy cơ tuyệt chủng rất cao trên một hòn đảo hẻo lánh ở Thái Bình Dương vừa biến mất một cách bí ẩn.”
 
 “Chúng đi đâu rồi ạ?” Lindsey hỏi.

@@ -1,6 +1,8 @@
 <p class="para-en">*Part III: Calm, Calm*</p>
 
-<p class="para-vi-sub">*PHẦN III: BÌNH TĨNH, BÌNH TĨNH*</p>
+<p class="para-vi-sub">*PHẦN III: BÌNH TĨNH, BÌNH TĨNH*
+
+![PHẦN III: BÌNH TĨNH, BÌNH TĨNH](images/p3.png)</p>
 
 # CHƯƠNG 15
 

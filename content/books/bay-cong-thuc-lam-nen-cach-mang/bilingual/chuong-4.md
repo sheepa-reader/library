@@ -1,3 +1,7 @@
+![Bản đồ Thế giới](images/world.jpg)
+
+![Bản đồ Thành phố Ranch](images/Thanh Pho Ranch.jpg)
+
 # Bày biện bàn ăn
 
 <p class="para-en">Before he was Paprick the Butcher, he was Paprick, a butcher. Not in earnest yet, but an apprentice still. Little more than a common farmboy, indentured to the factory, slicing emphon flanks the size of a bison into strips and steaks. It is no wonder he became the Butcher. The King’s Factory churned out but one product: flesh.</p>

@@ -1,5 +1,7 @@
 *Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng*
 
+![Món Thứ Tư • Khoai Tây Chiên Bít Tết Nướng](images/p4.jpg)
+
 # 33 Thật là một tình thế khó khăn
 
 Quên Vanil đi. Quên cả chuyện tìm kiếm chỗ dựa bằng cách lùng mua thứ gia vị ấy đi. Giờ đây, tôi đang săn lùng lũ cuồng quái thú. Tôi muốn trả thù. Nhưng trước hết, chúng tôi phải giải quyết cho xong chuyện của Laven. Dĩ nhiên là cậu ấy tò mò, không hiểu vì sao chúng tôi lại chặn đứng được đám thích khách và tại sao lại đưa cậu ấy về căn hộ của các mẹ tôi.

@@ -4,6 +4,8 @@
 
 # Món Thứ Bảy • Sữa chua lassi Sinh Mệnh
 
+![Món Thứ Bảy • Sữa chua lassi Sinh Mệnh](images/p7.jpg)
+
 <p class="para-en">Ingredients (serves 4):</p>
 
 <p class="para-vi-sub">**Thành phần** (khẩu phần dành cho 4 người):</p>

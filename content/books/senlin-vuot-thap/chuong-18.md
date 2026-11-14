@@ -1,5 +1,7 @@
 *Phần II: Nhà Tắm*
 
+![Phần II: Nhà Tắm](images/Q1P2.jpg)
+
 # Chương Một
 
 <div class="epigraph">

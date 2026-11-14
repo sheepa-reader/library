@@ -1,6 +1,8 @@
 <p class="para-en">*Part I: The Basement and the Parlor*</p>
 
-<p class="para-vi-sub">*Phần I: Tầng Hầm & Phòng Khách*</p>
+<p class="para-vi-sub">*Phần I: Tầng Hầm & Phòng Khách*
+
+![Phần I: Tầng Hầm & Phòng Khách](images/Q1P1.jpg)</p>
 
 # Chương Một
 

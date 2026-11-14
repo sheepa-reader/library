@@ -120,6 +120,9 @@ Cô chẳng hề biết anh. Ngoại trừ việc thỉnh thoảng anh lại hà
 
 *Ngày hôm sau nữa, Roger Harmon bắt gặp Elaine ở khu trung tâm, bên cạnh một người đàn ông đang ôm eo cô. Người đàn ông đó chính là Dale Golding. Roger tiến lại gần hai người. Ông cảm thấy bị phản bội cùng cực. Dù mới hẹn hò với Elaine được vài tháng, nhưng ông đã dành trọn tình cảm sâu đậm cho cô. Ông muốn đối chất ba mặt một lời, thế nhưng chẳng bao giờ có được cơ hội ấy. Elaine vừa trông thấy ông là lập tức co giò bỏ chạy. Cô phóng vụt qua dãy phố rồi biến mất sau góc ngoặt trước khi Roger hoặc Dale kịp giữ lại. Roger…*
 
+![Chương](images/chapter.jpg)
+
+
 “Anh thôi đọc được rồi đấy,” Miriam lên tiếng.
 
 “Nhưng đã hết đâu em.”

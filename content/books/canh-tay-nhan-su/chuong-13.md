@@ -1,5 +1,7 @@
 *Phần II: Sở Thú Vàng*
 
+![Phần II: Sở Thú Vàng](images/vol2p2.jpg)
+
 # Chương Một
 
 <div class="epigraph">

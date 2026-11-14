@@ -2,6 +2,8 @@
 
 # Món Thứ Hai • Salad Tỉnh Táo
 
+![Món Thứ Hai • Xà Lách Mất Ngủ](images/p2.jpg)
+
 *Một món salad thanh mát, đậm đà, thưởng thức tuyệt vời nhất vào giữa trưa dưới ánh mặt trời. Để hương vị thêm phần tròn trịa, hãy bày món ăn trong một chiếc bát làm từ bánh tortilla và dùng kèm với nước chanh đá (có thể pha thêm chút rượu tequila hoặc không).*
 
 

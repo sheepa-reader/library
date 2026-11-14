@@ -1,6 +1,8 @@
 <p class="para-en">*Part III: New Babel*</p>
 
-<p class="para-vi-sub">*Phần III: Tân Babel*</p>
+<p class="para-vi-sub">*Phần III: Tân Babel*
+
+![Phần III: Tân Babel](images/Q1P3.jpg)</p>
 
 # Chương Một
 

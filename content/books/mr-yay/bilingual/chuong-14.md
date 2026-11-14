@@ -1,5 +1,8 @@
 # KHÚC DẠO ĐẦU
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">IMAGINE YOU are a fisherman.</p>
 
 <p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một gã đánh cá.</p>

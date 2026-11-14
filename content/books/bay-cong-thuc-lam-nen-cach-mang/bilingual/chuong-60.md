@@ -4,6 +4,8 @@
 
 # Món Thứ Sáu • Gia vị ướp Emphon
 
+![Món Thứ Sáu • Thịt Ướp Emphon](images/p6.jpg)
+
 <p class="para-en">Also known as the Emphon Taco, the Enhanced Emphon Rub is best paired with a light or sour beer and a light salad, refried beans, and/or rice. For those with a lower spice tolerance, sour cream is recommended.</p>
 <p class="para-vi-sub">Món ăn này còn được biết đến với tên gọi Bánh Taco Emphon. Món Gia vị ướp Emphon Cường hóa phát huy hương vị tuyệt hảo nhất khi dùng kèm một ly bia nhẹ hoặc bia chua, ăn cùng đĩa salad thanh đạm, đậu nghiền chiên hoặc cơm. Đối với những ai ít ăn được cay, nên dùng thêm kem chua để làm dịu vị nồng.</p>
 

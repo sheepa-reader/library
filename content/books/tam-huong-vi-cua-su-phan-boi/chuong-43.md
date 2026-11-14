@@ -1,3 +1,5 @@
+![Món Thứ Tư • Bánh Phô Mai Đắng](images/p4.jpg)
+
 *Món Thứ Nhất • Bánh Enchilada Thấu Suốt*
 
 # 33 NHỮNG CUỘC TRÒ CHUYỆN GIAN NAN, PHẦN HAI

@@ -1,5 +1,8 @@
 # BẬC THẦY MÔNG ĐÍT
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">WHERE WAS MR. YAY?</p>
 
 <p class="para-vi-sub">**MR. YAY ĐANG Ở ĐÂU?**</p>

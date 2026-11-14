@@ -2,6 +2,8 @@
 
 *PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG*
 
+![PHẦN V: SỰ TRỖI DẬY CỦA BẠCH VƯƠNG](images/p5.jpg)
+
 ## CHƯƠNG 43
 
   

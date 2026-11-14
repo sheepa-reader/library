@@ -1,3 +1,5 @@
+![Emily Jane](images/emily Jane.png)
+
 # TÁC GIẢ
 
 <p class="para-en">EMILY JANE IS THE USA Today bestselling author of On Earth as It Is on Television,  Here Beside the Rising Tide, and American Werewolves. She grew up in Boise, Boulder, and San Francisco. She earned her BA in psychology from the University of San Francisco and her JD from UC Law San Francisco. She lives on an urban farm in Cincinnati with her husband, Steve; their two children; their cats, Scully and Ripley; and their husky, Nymeria.</p>

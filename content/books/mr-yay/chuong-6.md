@@ -126,6 +126,9 @@ Bradford đeo chiếc ba lô đựng chó lên lưng. Anh trèo qua bậu cửa 
 
 *Kỳ quặc dị hợm*, mẹ kế anh từng bĩu môi phán thế. Dĩ nhiên bà ta chẳng dại gì nói thẳng vào mặt anh, nhưng luôn cố tình nói thật to trong tầm tai anh nghe thấy: *Béo đến phát tởm.*
 
+![Chương](images/chapter.jpg)
+
+
 Ừ thì, nhưng làm gì đến mức đấy. Anh đâu có tệ hại như vậy. Anh chỉ đang đứng giữa ranh giới của béo tiêu chuẩn và mập mạp thôi mà. Bộ khung xương to ấn tượng, Tommy từng nói thế một lần.
 
 Anh cố học cách đón nhận điều đó. Bố mẹ đã đặt cho anh cái tên Bradford Pierson III. Nhưng mặc xác họ, anh là Fatty Bratty.

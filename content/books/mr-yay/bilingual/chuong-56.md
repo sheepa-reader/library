@@ -1,5 +1,8 @@
 # HỐ BÙN
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">THEY FOUND, after hours in the hammock and more hours at the kitchen table, all the photographs and relics of their lives spread out around them, that they remembered the exact same things, except for meat loaf and Mr. Yay, which led Jack to deduce that Mr. Yay—a farther-reaching phenomenon than meat loaf—was at the center of all of this, whatever all of this was. He was the linchpin.</p>
 
 <p class="para-vi-sub">**HỌ NHẬN RA,** sau hàng giờ đung đưa trên võng rồi lại thêm hàng giờ ngồi quanh bàn ăn nhà bếp, giữa la liệt những bức ảnh cùng di vật cuộc đời bày ra trước mặt, rằng cả hai nhớ như in những điều giống hệt nhau (ngoại trừ món thịt nướng meatloaf và Mr. Yay). Điều đó dẫn Jack đến một kết luận mang tính triết học: Mr. Yay, một hiện tượng rõ ràng có tầm ảnh hưởng sâu rộng hơn hẳn món thịt nướng meatloaf, chính là tâm điểm của toàn bộ mớ bòng bong này. Dù mớ bòng bong ấy rốt cuộc là cái quái gì đi chăng nữa, ông ấy chính là chìa khóa.</p>

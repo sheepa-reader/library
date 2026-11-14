@@ -1,5 +1,7 @@
 # Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
+![Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt](images/p1.jpg)
+
 *Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt*
 
 *Dù bản thân nó đã là một bữa ăn thịnh soạn và cân bằng dinh dưỡng, món bánh enchilada này thường an toàn nhất khi được dùng kèm với một lượng rượu kha khá hoặc các chất kích thích khác nhằm làm bạn phân tâm khỏi các Hiệu ứng của chúng, ít nhất là khi ngồi giữa những người bạn muốn tin tưởng.*

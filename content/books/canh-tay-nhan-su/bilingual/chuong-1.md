@@ -1,3 +1,7 @@
+![Bản đồ Tháp Babel](images/maps.jpg)
+
+![Sơ đồ Chiến hạm Stone Cloud](images/stonecloud-vi.jpg)
+
 # Giới thiệu
 
 <div class="epigraph">

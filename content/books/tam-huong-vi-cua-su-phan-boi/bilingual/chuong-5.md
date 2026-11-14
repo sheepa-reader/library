@@ -4,6 +4,8 @@
 
 # Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt
 
+![Món Thứ Nhất • Bánh Cuốn Enchilada Thấu Suốt](images/p1.jpg)
+
 <p class="para-en">Ingredients (serves 3–4):</p>
 
 <p class="para-vi-sub">**Nguyên liệu** (khẩu phần cho 3 đến 4 người):</p>

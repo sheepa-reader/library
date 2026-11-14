@@ -254,6 +254,9 @@ Nằm giữa chiếc ghế sofa và khung cửa sổ là một chiếc bàn nh�
 
 ***Tao sẽ làm bậc thầy của rap***
 
+![Chương](images/chapter.jpg)
+
+
 Bratty có thể nghe thấy đoạn rap ấy vang lên mồn một trong tâm trí. Anh mở máy tính xách tay, bắt đầu nhào nặn những đoạn beat. Anh lơ đãng nghịch ngợm vài thanh âm và tiết tấu, trong khi chú chó lười nhác nằm bên cạnh, bình thản gác cái đầu nặng trịch lên đùi anh. Thế rồi, ừ thì, anh thong thả nhai một viên kẹo dẻo cần sa, lục lọi quầy minibar và tự hỏi cái quái quỷ gì đang diễn ra ở đây. Hình bóng phản chiếu của anh trông chẳng khác nào một bóng ma lướt nhẹ trên kính, với đôi mắt thẫn thờ nhìn xuống khung cảnh Vegas tráng lệ ngoài cửa sổ (nơi người ta tưởng chừng các vị thần từng ngồi xổm giữa sa mạc rồi xả ra hàng tỷ hạt đá quý lấp lánh, từ kim cương, hồng ngọc, lam ngọc cho đến vàng bạc và mấy thứ của nợ linh tinh). Thật choáng ngợp chết tiệt. Và kỳ quặc đến phát điên.
 
 Anh chìm đắm hoàn toàn vào trong âm nhạc.

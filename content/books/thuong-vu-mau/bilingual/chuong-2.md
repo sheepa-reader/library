@@ -1,6 +1,8 @@
 <p class="para-en">*Part I: A Most Curated Butchering*</p>
 
-<p class="para-vi-sub">*PHẦN I: NGHỆ THUẬT ĐỒ TỀ*</p>
+<p class="para-vi-sub">*PHẦN I: NGHỆ THUẬT ĐỒ TỀ*
+
+![PHẦN I: NGHỆ THUẬT ĐỒ TỀ](images/p1.png)</p>
 
 # CHƯƠNG 1
 

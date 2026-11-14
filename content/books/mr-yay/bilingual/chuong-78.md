@@ -1,5 +1,8 @@
 # THU PHÂN - NHỮNG BƯỚC ĐI TIẾP THEO CỦA MR. YAY
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">THE FIRE CRACKLED and the crickets croaked and the wind hummed through the trees, and yet the forest felt still, and silent. Silent like a starfish.</p>
 
 <p class="para-vi-sub">**ĐỐNG LỬA NỔ LÁCH TÁCH**, tiếng dế rỉ rả hòa cùng cơn gió rì rào qua những tán cây, vậy mà cánh rừng vẫn mang lại cảm giác tĩnh mịch đến lạ kỳ. *Im lặng như một con sao biển.*</p>

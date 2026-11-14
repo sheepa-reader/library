@@ -1,3 +1,7 @@
+![Bản đồ Đế chế](images/worldmap.jpg)
+
+![Bảng Phân Cấp](images/CAPBAC.jpg)
+
 # GIỚI THIỆU
 
 *Nội Dung Tác Phẩm*

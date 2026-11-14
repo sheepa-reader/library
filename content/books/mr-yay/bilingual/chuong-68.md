@@ -1,5 +1,8 @@
 # ROBERT KAI
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">A WEEK AFTER they’d returned home, Jack left mysteriously with the dog. A few hours later, he and the dog returned. He wouldn’t say where they’d gone.</p>
 
 <p class="para-vi-sub">**MỘT TUẦN SAU KHI** trở về nhà, Jack bí mật ôm chú chó rời đi. Vài giờ sau, anh cùng chú chó lững thững quay về. Anh nhất quyết không chịu hé răng nửa lời về nơi họ vừa tới.</p>

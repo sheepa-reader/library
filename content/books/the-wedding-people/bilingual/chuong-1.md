@@ -1,3 +1,5 @@
+![Alison Espach](images/Alison Espach.png)
+
 # Về tác giả
 
 <p class="para-en"><h1 class="atah" id="ata"><span class="esans_kurosawahand_bold_b_">ABOUT THE AUTHOR</span></h1></p>

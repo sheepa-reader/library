@@ -170,6 +170,9 @@ Jack cũng đang nhún nhảy đầy phấn khích. Đôi mắt anh lấp lánh 
 
 *Mr. Yay đang ở đâu?!*
 
+![Chương](images/chapter.jpg)
+
+
 Mọi thứ đồng loạt chuyển động, về mọi hướng, cùng một thời điểm.
 
 Xung quanh họ, dường như ai nấy đều phát cuồng (hoặc vốn dĩ họ đã ẩn chứa sự điên rồ ấy từ trước, và giờ đây nó mới có dịp tự do bộc phát). Đám đông xô đẩy, hò hét, khóc lóc, nhảy múa và hòa giọng. Tiếng nhạc tiếp tục vang lên, lộng lẫy và hoàn hảo vô ngần, nhưng rồi bất chợt trở nên choáng ngợp tới mức ngạt thở.

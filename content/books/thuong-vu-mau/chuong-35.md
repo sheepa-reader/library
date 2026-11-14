@@ -1,5 +1,7 @@
 *VĨ THANH: CHÉN THIÊN ĐƯỜNG*
 
+![VĨ THANH: CHÉN THIÊN ĐƯỜNG](images/p6.png)
+
 # CHƯƠNG 34
 
 Tôi và Tauri ngồi im lặng trong bầu không khí ảm đạm khi cỗ xe ngựa rầm rầm lăn bánh về phía bắc, băng qua những đồng cỏ của vùng Lacanthim. Điều này cũng dễ hiểu, bởi bầu không khí u uất và tĩnh mịch đã bao trùm toàn bộ lãnh địa suốt những ngày qua, kể từ khi Trikao bị lột mặt nạ. Từ những người lùa gia súc lão luyện nhất cho đến những cô tớ gái dọn dẹp máng mổ ở xưởng lột da, bất kỳ ai làm việc trong ngành chăn nuôi lúc này cũng đều cảm thấy bất an sâu sắc về tương lai phía trước. Chỉ trong vòng một tuần, cả hai đại gia tộc thống trị ngành chăn nuôi đều đã sụp đổ, đẩy tất cả vào cảnh hỗn loạn không lối thoát. Ngay cả Ana dường như cũng bị ảnh hưởng. Dù bình thường bà luôn tỏ ra hoàn toàn thờ ơ trước nỗi đau của kẻ khác, nhưng khi chúng tôi tiến về phía khu rừng, một luồng khí u uẩn dường như đã xâm chiếm lấy bà, khiến bà ngồi im phăng phắc, không hề gật gù hay đung đưa như mọi khi.

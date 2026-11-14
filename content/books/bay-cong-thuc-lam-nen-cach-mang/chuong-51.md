@@ -2,6 +2,8 @@
 
 # Món Thứ Năm • Ớt ma thuật kiểm soát tâm trí
 
+![Món Thứ Năm • Kiểm Soát Ớt Cay](images/p5.jpg)
+
 Một món ăn tốt nhất là đừng bao giờ đụng tới.
 
 

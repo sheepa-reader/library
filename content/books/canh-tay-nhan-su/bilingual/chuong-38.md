@@ -1,5 +1,7 @@
 *Phần V: Cô Voleta Boreas và Iren*
 
+![Phần V: Cô Voleta Boreas và Iren](images/vol2p5.jpg)
+
 # Chương Mười Hai
 
 <div class="epigraph">

@@ -1,5 +1,7 @@
 *PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN*
 
+![PHẦN II: VỆT MÁU DƯỚI GÓT CHÂN NỮ THẦN](images/p2.png)
+
 # CHƯƠNG 9
 
 Trong vô số khúc tụng ca và thi phẩm, luôn có những câu chuyện kể về các gia đình ly tán bởi chiến tranh, nạn đói, thủy quái hay dịch bệnh, và trong những tích truyện ấy, rốt cuộc luôn xuất hiện khoảnh khắc họ được đoàn tụ. Họ nhận ra nhau, cất tiếng gọi tên nhau trong niềm vỡ òa khôn xiết, ôm chầm lấy nhau, vừa khóc vừa cười khi bao năm tháng đằng đẵng cùng muôn dặm cách biệt bỗng chốc tan biến.

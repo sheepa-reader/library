@@ -2,6 +2,8 @@
 
 # Món Thứ Ba • Thịt băm Emphon
 
+![Món Thứ Ba • Thịt Tái Emphon](images/p3.jpg)
+
 Thưởng thức ngon nhất khi dùng từng lượng nhỏ làm món khai vị. Đây là lựa chọn hoàn hảo cho những ai muốn nhận được lợi ích từ Sức bền ma thuật mà không cần phải dùng quái thú bò mộng Emphon làm món chính trong bữa ăn. Khác với nhiều món ăn khác, hiệu ứng của Đại công thức ma thuật này xuất hiện ngay sau miếng cắn đầu tiên và kéo dài lâu hơn nếu thực khách thưởng thức một cách từ tốn. Dùng kèm với rượu vang trắng, hoặc rượu tequila bạc nếu bạn thích cảm giác mạnh.
 
 

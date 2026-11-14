@@ -1,6 +1,8 @@
 <p class="para-en">*Epilogue: The Cup of Heaven*</p>
 
-<p class="para-vi-sub">*VĨ THANH: CHÉN THIÊN ĐƯỜNG*</p>
+<p class="para-vi-sub">*VĨ THANH: CHÉN THIÊN ĐƯỜNG*
+
+![VĨ THANH: CHÉN THIÊN ĐƯỜNG](images/p6.png)</p>
 
 # CHƯƠNG 34
 

@@ -1,5 +1,8 @@
 # TOM VÀ FRED TRÒN BA-MƯƠI-TÁM TUỔI
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">TOM AND FRED TURN 38!!!</p>
 
 <p class="para-vi-sub">TOM VÀ FRED TRÒN 38 TUỔI!!!</p>

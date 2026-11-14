@@ -1,3 +1,7 @@
+![Bản đồ Đế chế](images/worldmap.jpg)
+
+![Bảng Phân Cấp](images/CAPBAC.jpg)
+
 # GIỚI THIỆU
 
 <p class="para-en">Before there was memory, before there was history, there were the leviathans: the colossal, monstrous creatures that lumbered ashore each wet season and went wandering the plains, bringing death and panic with them. For centuries, the folk of the land lived at their whim, and knew only fear and suffering.</p>

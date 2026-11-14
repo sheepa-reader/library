@@ -4,6 +4,8 @@
 
 # Món Thứ Ba • Thịt băm Emphon
 
+![Món Thứ Ba • Thịt Tái Emphon](images/p3.jpg)
+
 <p class="para-en">Best served in small quantities as an appetizer, Emphon Tartare is the meal of choice for those who want the benefits of Endurance without the emphon being the centerpiece of the meal. Unlike many others, this greater recipe’s effects apply immediately after the first bite and last longer if the meal is enjoyed slowly. Pair with white wine—or silver tequila, if you’re feeling dangerous.</p>
 <p class="para-vi-sub">Thưởng thức ngon nhất khi dùng từng lượng nhỏ làm món khai vị. Đây là lựa chọn hoàn hảo cho những ai muốn nhận được lợi ích từ Sức bền ma thuật mà không cần phải dùng quái thú bò mộng Emphon làm món chính trong bữa ăn. Khác với nhiều món ăn khác, hiệu ứng của Đại công thức ma thuật này xuất hiện ngay sau miếng cắn đầu tiên và kéo dài lâu hơn nếu thực khách thưởng thức một cách từ tốn. Dùng kèm với rượu vang trắng, hoặc rượu tequila bạc nếu bạn thích cảm giác mạnh.</p>
 

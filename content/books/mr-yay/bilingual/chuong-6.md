@@ -1,5 +1,8 @@
 # ĐÔNG CHÍ
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">MAYBE THIS RANDOM DOG was why he dreamed of the dog. Him and the dog on a boat, waves sloshing all around them, water the color of a blue raspberry slushy. A pod of dolphins swam alongside the boat, except the dolphins were also dogs. Dogphins. A man rode one of the dogphins. He wore a denim jumpsuit and a fat gold chain. He waved and said, We’re making it stronger! The Dream Dog gave a thumbs-up﻿, even though he didn’t have thumbs. The Dream Dog wore a captain’s hat.</p>
 
 <p class="para-vi-sub">**CÓ LẼ CHÚ CHÓ TỪ TRÊN TRỜI RƠI XUỐNG NÀY** chính là lý do khiến anh nằm mơ thấy một con chó. Trong mơ, anh cùng chú chó lênh đênh trên một con thuyền, sóng nước vỗ bì bõm xung quanh, mặt nước mang màu xanh ngắt như món đá bào siro mâm xôi xanh. Một đàn cá heo bơi lội tung tăng bên mạn thuyền, có điều bầy cá heo đó lại là những chú chó. Chó heo. Một người đàn ông cưỡi trên lưng một trong những con chó heo ấy. Gã diện bộ jumpsuit bò kèm một sợi dây chuyền vàng to bản. Gã vẫy tay rồi cất tiếng: *Chúng ta đang làm cho nó mạnh mẽ hơn đấy!* Chú Chó Trong Mơ giơ ngón tay cái lên làm dấu tán thành, dẫu cho loài chó vốn dĩ chẳng hề có ngón cái. Chú Chó Trong Mơ đội một chiếc mũ thuyền trưởng.</p>

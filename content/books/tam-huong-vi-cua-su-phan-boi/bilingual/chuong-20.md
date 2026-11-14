@@ -4,6 +4,8 @@
 
 # Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
+![Món Thứ Hai • Cà ri khô Điểu sư Gryphon](images/p2.jpg)
+
 <p class="para-en">Ingredients (serves 2):</p>
 
 <p class="para-vi-sub">**Nguyên liệu** (phần 2 người ăn):</p>

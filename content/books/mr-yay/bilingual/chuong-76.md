@@ -1,5 +1,8 @@
 # KHÚC ĐỆM - MỘT CHÚ CHÓ CỰC KỲ NGOAN
 
+![Chương](images/chapter.jpg)
+
+
 <p class="para-en">IMAGINE YOU are a dog.</p>
 
 <p class="para-vi-sub">**HÃY TƯỞNG TƯỢNG BẠN** là một chú chó.</p>

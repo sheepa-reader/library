@@ -1,5 +1,7 @@
 # Món Thứ Tám • Bánh Cưới
 
+![Món Thứ Tám • Bánh Cưới](images/p8.jpg)
+
 *Món Thứ Tám • Bánh Cưới*
 
 *Trong một thế giới công bằng và tự do, sẽ chẳng có món tráng miệng nào tuyệt mỹ hơn thế, cũng chẳng có yến tiệc nào xứng đáng hơn cho khúc hoan ca khải hoàn. Món ăn này có thể hòa quyện trọn vẹn với muôn vàn phong vị mà chẳng cần đến bất kỳ món phụ nào đi kèm. Các bạn buộc phải hỏi Laven về công thức ấy. Bản thân tôi thì không tài nào ép nổi tâm trí mình học thuộc.*

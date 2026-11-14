@@ -1,5 +1,7 @@
 # Món Thứ Hai • Cà ri khô Điểu sư Gryphon
 
+![Món Thứ Hai • Cà ri khô Điểu sư Gryphon](images/p2.jpg)
+
 *Món Thứ Hai • Cà ri khô Điểu sư Gryphon*
 
 *Là một trong những món ăn cay nồng bậc nhất Đế quốc, món thịt quái thú Gryphon băm này ngon nhất khi dùng kèm với cơm trắng, một đĩa rau củ xào giòn và sinh tố sữa chua nhằm xoa dịu vị cay tổng thể.*
