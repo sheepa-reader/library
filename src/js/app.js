@@ -154,7 +154,21 @@
   }
 
   // Helper check if book has bilingual edition
-  const BILINGUAL_BOOK_IDS = ['the-wedding-people', 'senlin-vuot-thap', 'thuong-vu-mau', 'bay-cong-thuc-lam-nen-cach-mang', 'cua-anh-cua-em', 'mr-yay', 'tam-huong-vi-cua-su-phan-boi'];
+  const BILINGUAL_BOOK_IDS = [
+    'the-wedding-people',
+    'senlin-vuot-thap',
+    'canh-tay-nhan-su',
+    'vua-phu-kieu',
+    'thuong-vu-mau',
+    'bay-cong-thuc-lam-nen-cach-mang',
+    'cua-anh-cua-em',
+    'mr-yay',
+    'tam-huong-vi-cua-su-phan-boi',
+    'toi-nguoi-chua-tung-biet-toi-dan-ong',
+    'cau-chuyen-nay-co-the-cuu-mang-ban',
+    'cau-lac-bo-tai-uong',
+    'vua-dau-thuong'
+  ];
   function checkBookHasBilingual(book) {
     if (!book) return false;
     return Boolean(
@@ -165,6 +179,27 @@
       book.bilingualChapters ||
       BILINGUAL_BOOK_IDS.includes(book.id)
     );
+  }
+
+  // Helper get bilingual EPUB download path
+  function getBilingualEpubPath(book) {
+    if (!book) return null;
+    if (typeof book.downloads?.bilingual === 'string' && book.downloads.bilingual.trim()) {
+      return book.downloads.bilingual.trim();
+    }
+    if (typeof book.downloads?.bilingual?.epub === 'string' && book.downloads.bilingual.epub.trim()) {
+      return book.downloads.bilingual.epub.trim();
+    }
+    if (typeof book.downloads?.bilingualEpub === 'string' && book.downloads.bilingualEpub.trim()) {
+      return book.downloads.bilingualEpub.trim();
+    }
+    if (typeof book.bilingualEpub === 'string' && book.bilingualEpub.trim()) {
+      return book.bilingualEpub.trim();
+    }
+    if (checkBookHasBilingual(book)) {
+      return `content/downloads/${book.id}-song-ngu.epub`;
+    }
+    return null;
   }
 
   // --- THEME ENGINE (3 CHẾ ĐỘ: SÁNG - GIẤY CŨ - TỐI) ---
@@ -2471,13 +2506,8 @@
     const hasEpub = Boolean(book.downloads?.epub);
     const hasPdf = Boolean(book.downloads?.pdf);
     const hasBilingual = checkBookHasBilingual(book);
-    const bilingualEpub = book.downloads?.bilingual?.epub || book.downloads?.bilingualEpub || (
-      book.id === 'bay-cong-thuc-lam-nen-cach-mang' ? 'content/downloads/bay-cong-thuc-lam-nen-cach-mang-song-ngu.epub' :
-      book.id === 'cua-anh-cua-em' ? 'content/downloads/cua-anh-cua-em-song-ngu.epub' :
-      book.id === 'mr-yay' ? 'content/downloads/mr-yay-song-ngu.epub' :
-      book.id === 'tam-huong-vi-cua-su-phan-boi' ? 'content/downloads/tam-huong-vi-cua-su-phan-boi-song-ngu.epub' : null
-    );
-    const bilingualPdf = book.downloads?.bilingual?.pdf || book.downloads?.bilingualPdf || null;
+    const bilingualEpub = getBilingualEpubPath(book);
+    const bilingualPdf = (typeof book.downloads?.bilingual === 'object' ? book.downloads?.bilingual?.pdf : null) || book.downloads?.bilingualPdf || null;
     const hasBilingualEpub = Boolean(bilingualEpub);
     const hasBilingualPdf = Boolean(bilingualPdf);
     const isUnlocked = isDownloadUnlocked(book);
