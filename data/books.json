@@ -6970,6 +6970,469 @@
     "downloadCount": 55
   },
   {
+    "id": "su-sup-do-cua-thap-babel",
+    "title": "Sự Sụp Đổ Của Tháp Babel",
+    "originalTitle": "The Fall of Babel",
+    "series": "Biên Niên Sử Tháp Babel",
+    "volume": "Tập 4 - Hồi kết",
+    "author": "Josiah Bancroft",
+    "authorId": "josiah-bancroft",
+    "translator": "Sheepa",
+    "year": 2026,
+    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "tags": [
+      "Khoa học viễn tưởng",
+      "Phiêu lưu",
+      "Kỳ ảo"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/su-sup-do-cua-thap-babel/cover.jpg",
+    "icon": "public/icons/20_sheep_pillar.png",
+    "description": "Sau biến cố rung chuyển ở Pelphia, Thomas Senlin và thủy thủ đoàn tàu State of Art bị chia cắt và đẩy đến bờ vực sinh tử giữa lúc toàn bộ Tháp Babel rơi vào hỗn loạn. Khi cuộc cách mạng của giai cấp Phu Kiệu bùng nổ dữ dội và tham vọng của các thế lực cầm quyền đe dọa xé nát từng vòng tháp, ranh giới giữa bạn và thù trở nên mong manh hơn bao giờ hết. Trong khi mỗi thành viên thủy thủ đoàn phải chiến đấu ngoan cường trên những chiến tuyến riêng biệt để bảo vệ lý tưởng và đồng đội, Senlin buộc phải tiến lên những tầng tháp cao nhất và bí ẩn nhất để đối mặt với chân tướng cuối cùng của tòa tháp cũng như số phận thực sự của người vợ Marya. Đây là hồi kết bi tráng, nơi mọi bí mật về nguồn gốc Tháp Babel được phơi bày và cái giá của tự do được trả bằng cả máu lẫn nước mắt.",
+    "downloads": {
+      "epub": "content/downloads/su-sup-do-cua-thap-babel.epub",
+      "pdf": "",
+      "bilingual": "",
+      "bilingualEpub": ""
+    },
+    "publishedAt": "2026-11-15",
+    "rating": {
+      "score": 3.99,
+      "count": "9.5k"
+    },
+    "downloadCountstart": 50,
+    "downloadCount": 50,
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Dành tặng",
+        "part": "",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời đề từ",
+        "part": "",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Bản Ôn Tập Dành Cho Những Người Hâm Mộ Trường Ca Senlin",
+        "part": "",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Phần I: Người Anh Trai Liều Lĩnh",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-4.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương Một",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương Hai",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Ba",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương Bốn",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương Năm",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương Sáu",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương Bảy",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương Tám",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương Chín",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương Mười",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương Mười Một",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương Mười Hai",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương Mười Ba",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương Mười Bốn",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương Mười Lăm",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương Mười Sáu",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương Mười Bảy",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương Mười Tám",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương Mười Chín",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương Hai Mươi",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Từ Trong Bụng Quái Thú 1",
+        "part": "Phần I: Người Anh Trai Liều Lĩnh",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Phần II: Chim Sắt, Sâu Gang",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-26.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương Một",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương Hai",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương Ba",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương Bốn",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương Năm",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương Sáu",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Từ Trong Bụng Quái Thú 2",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-33.md"
+      },
+      {
+        "id": "chuong-34",
+        "title": "Chương Bảy",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-34.md"
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương Tám",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-35.md"
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương Chín",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-36.md"
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương Mười",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-37.md"
+      },
+      {
+        "id": "chuong-38",
+        "title": "Chương Mười Một",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-38.md"
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương Mười Hai",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-39.md"
+      },
+      {
+        "id": "chuong-40",
+        "title": "Từ Trong Bụng Quái Thú 3",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-40.md"
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương Mười Ba",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-41.md"
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương Mười Bốn",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-42.md"
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương Mười Lăm",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-43.md"
+      },
+      {
+        "id": "chuong-44",
+        "title": "Chương Mười Sáu",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-44.md"
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương Mười Bảy",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-45.md"
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương Mười Tám",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-46.md"
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương Mười Chín",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-47.md"
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương Hai Mươi",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-48.md"
+      },
+      {
+        "id": "chuong-49",
+        "title": "Từ Trong Bụng Quái Thú 4",
+        "part": "Phần II: Chim Sắt, Sâu Gang",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-49.md"
+      },
+      {
+        "id": "chuong-50",
+        "title": "Phần III: Cầu Babel",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-50.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-51",
+        "title": "Chương Một",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-51.md"
+      },
+      {
+        "id": "chuong-52",
+        "title": "Chương Hai",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-52.md"
+      },
+      {
+        "id": "chuong-53",
+        "title": "Chương Ba",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-53.md"
+      },
+      {
+        "id": "chuong-54",
+        "title": "Chương Bốn",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-54.md"
+      },
+      {
+        "id": "chuong-55",
+        "title": "Chương Năm",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-55.md"
+      },
+      {
+        "id": "chuong-56",
+        "title": "Chương Sáu",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-56.md"
+      },
+      {
+        "id": "chuong-57",
+        "title": "Chương Bảy",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-57.md"
+      },
+      {
+        "id": "chuong-58",
+        "title": "Chương Tám",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-58.md"
+      },
+      {
+        "id": "chuong-59",
+        "title": "Chương Chín",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-59.md"
+      },
+      {
+        "id": "chuong-60",
+        "title": "Chương Mười",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-60.md"
+      },
+      {
+        "id": "chuong-61",
+        "title": "Chương Mười Một",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-61.md"
+      },
+      {
+        "id": "chuong-62",
+        "title": "Chương Mười Hai",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-62.md"
+      },
+      {
+        "id": "chuong-63",
+        "title": "Chương Mười Ba",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-63.md"
+      },
+      {
+        "id": "chuong-64",
+        "title": "Chương Mười Bốn",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-64.md"
+      },
+      {
+        "id": "chuong-65",
+        "title": "Chương Mười Lăm",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-65.md"
+      },
+      {
+        "id": "chuong-66",
+        "title": "Chương Mười Sáu",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-66.md"
+      },
+      {
+        "id": "chuong-67",
+        "title": "Chương Mười Bảy",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-67.md"
+      },
+      {
+        "id": "chuong-68",
+        "title": "Chương Mười Tám",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-68.md"
+      },
+      {
+        "id": "chuong-69",
+        "title": "Chương Mười Chín",
+        "part": "Phần III: Cầu Babel",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-69.md"
+      },
+      {
+        "id": "chuong-70",
+        "title": "Lời cảm ơn",
+        "part": "",
+        "path": "content/books/su-sup-do-cua-thap-babel/chuong-70.md",
+        "noDropcap": true
+      }
+    ]
+  },
+  {
     "id": "the-wedding-people",
     "title": "Những Kẻ Trong Hôn Lễ",
     "originalTitle": "The Wedding People",

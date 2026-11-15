@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261115-01",
+    "timestamp": "2026-11-15T21:30:00+07:00",
+    "bookId": "su-sup-do-cua-thap-babel",
+    "bookTitle": "Sự Sụp Đổ Của Tháp Babel (The Fall of Babel)",
+    "type": "book_add",
+    "typeName": "Xuất bản mới",
+    "badgeClass": "badge-book",
+    "title": "Phát hành Tập 4 (Hồi kết) - Biên Niên Sử Tháp Babel",
+    "description": "Chính thức hoàn thành và phát hành trọn vẹn 70 chương của Tập 4 'Sự Sụp Đổ Của Tháp Babel' (The Fall of Babel) của Josiah Bancroft. Khép lại hành trình kỳ vĩ của Thomas Senlin và thủy thủ đoàn tàu State of Art."
+  },
+  {
     "id": "log-20261114-02",
     "timestamp": "2026-11-14T17:00:00+07:00",
     "bookId": "giua-hai-ngon-lua",

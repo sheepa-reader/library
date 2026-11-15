@@ -1,20 +1,5 @@
 [
   {
-    "id": "su-sup-do-cua-thap-babel",
-    "title": "Sự Sụp Đổ Của Tháp Babel",
-    "author": "Josiah Bancroft",
-    "series": "Biên Niên Sử Tháp Babel",
-    "cover": "content/books/su-sup-do-cua-thap-babel/cover.jpg",
-    "category": "Kỳ ảo, Phiêu lưu",
-    "status": "bien_tap",
-    "progress": 75,
-    "currentChapter": "35/48 chương (Đang soát lỗi & hiệu đính)",
-    "targetDate": "2026-12-25",
-    "note": "Tập cuối cùng khép lại thiên sử thi Tháp Babel hoành tráng của Josiah Bancroft.",
-    "heartCount": 78,
-    "active": true
-  },
-  {
     "id": "piranesi",
     "title": "Piranesi",
     "author": "Susanna Clarke",
