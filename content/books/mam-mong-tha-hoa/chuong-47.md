@@ -6,11 +6,7 @@
 
   
 
-Nhà chiêm đoán nam bắt đầu gõ nhịp.
-
-  
-
-Ngay khi gã gõ nhịp, Ghrelin cất giọng tụng niệm mơ màng, ma mị như chìm trong sương khói, đầu ông lắc lư qua lại theo từng con chữ cuộn chảy qua thân xác.
+Tiên Luận Sư nam bắt đầu gõ nhịp. Ngay khi gã gõ nhịp, Ghrelin cất giọng tụng niệm mơ màng, ma mị như chìm trong sương khói, đầu ông lắc lư qua lại theo từng con chữ cuộn chảy qua thân xác.
 
   
 
@@ -38,11 +34,11 @@ Ngay khi gã gõ nhịp, Ghrelin cất giọng tụng niệm mơ màng, ma mị 
 
   
 
-Đôi mắt to bè, đờ đẫn của người đàn ông đảo qua đảo lại trên cơ thể tôi, rồi gã lại gõ nhịp: “Ngươi biết về tủy. Ta cảm nhận được dường như ngươi thậm chí đã từng tận mắt chứng kiến chiến lợi phẩm của chúng ta. Ngươi biết đấy, khi những Mùa mưa lên tới đỉnh điểm và Bộ Quân đoàn hạ gục một cự thú, những kẻ chiêm đoán chúng ta sẽ luồn lách vào những tầng sâu thẳm của những thực thể khổng lồ mục rữa này, đi qua những khoang rỗng, mạch máu và hốc xương sâu như những mỏ quặng tăm tối nhất.”
+Đôi mắt to bè, đờ đẫn của người đàn ông đảo qua đảo lại trên cơ thể tôi, rồi gã lại gõ nhịp: “Ngươi biết về tủy. Ta cảm nhận được dường như ngươi thậm chí đã từng tận mắt chứng kiến chiến lợi phẩm của chúng ta. Ngươi biết đấy, khi những Mùa mưa lên tới đỉnh điểm và Bộ Quân đoàn hạ gục một cự thú, những Tiên Luận Sư chúng ta sẽ luồn lách vào những tầng sâu thẳm của những thực thể khổng lồ mục rữa này, đi qua những khoang rỗng, mạch máu và hốc xương sâu như những mỏ quặng tăm tối nhất.”
 
   
 
-“Chính chúng tôi là những kẻ đọc cơ thể chúng, đọc từng thớ thịt của chúng,” người phụ nữ gõ nhịp. “Như những kẻ tìm mạch nước ngầm nơi thảo nguyên, cảm nhận dòng nước ngủ vùi dưới tầng đất sét uốn lượn. Đây chẳng phải là việc dễ dàng. Phải cần đến rất nhiều tâm trí, và phải là những tâm trí đầy uy lực, mới có thể đọc được da thịt của loài Thủy quái Leviathan.”
+“Chính chúng tôi là những kẻ đọc cơ thể chúng, đọc từng thớ thịt của chúng,” người phụ nữ gõ nhịp. “Như những kẻ tìm mạch nước ngầm nơi thảo nguyên, cảm nhận dòng nước ngủ vùi dưới tầng đất sét uốn lượn. Đây chẳng phải là việc dễ dàng. Phải cần đến rất nhiều tâm trí, và phải là những tâm trí đầy uy lực, mới có thể đọc được da thịt của loài Thủy Quái Leviathan.”
 
   
 
@@ -62,7 +58,7 @@ Ngay khi gã gõ nhịp, Ghrelin cất giọng tụng niệm mơ màng, ma mị 
 
   
 
-Sau đó, người đàn ông lên tiếng, thận trọng và đầy vẻ âu lo: “Thế nhưng… những kẻ chiêm đoán chúng ta rất giỏi thấu triệt bản tính con người. Đây là điều quan trọng nhất trong một *polytia*. Nghi ngờ đồng sự của mình khi đang lang thang nơi lồng ngực một cự thú… đồng nghĩa với cái chết chắc chắn. Nhưng khi nói đến Pyktis…”
+Sau đó, người đàn ông lên tiếng, thận trọng và đầy vẻ âu lo: “Thế nhưng… những Tiên Luận Sư chúng ta rất giỏi thấu triệt bản tính con người. Đây là điều quan trọng nhất trong một *polytia*. Nghi ngờ đồng sự của mình khi đang lang thang nơi lồng ngực một cự thú… đồng nghĩa với cái chết chắc chắn. Nhưng khi nói đến Pyktis…”
 
   
 
@@ -110,7 +106,7 @@ Tôi nhớ lại những gì Ghrelin đã nói với tôi:
 
   
 
-Những chiêm bái sư cau mày. Người phụ nữ lục lọi chiếc áo choàng gắn đầy giấy ghi chép của mình rồi rút ra một mẩu da dê nham nhở khác, thứ mà cô chăm chú soi xét như thể đó là thánh thư. Rồi cô lơ đãng gõ một tay lên tấm bảng của mình, và Ghrelin dịch lại: “Không… không hoàn toàn như vậy. Bởi vì đôi khi ông ấy *thực sự* để lộ một mặt ẩn giấu sâu kín của bản thân. Vào những ngày tưởng niệm.”
+Những Tiên Luận Sư cau mày. Người phụ nữ lục lọi chiếc áo choàng gắn đầy giấy ghi chép của mình rồi rút ra một mẩu da dê nham nhở khác, thứ mà cô chăm chú soi xét như thể đó là thánh thư. Rồi cô lơ đãng gõ một tay lên tấm bảng của mình, và Ghrelin dịch lại: “Không… không hoàn toàn như vậy. Bởi vì đôi khi ông ấy *thực sự* để lộ một mặt ẩn giấu sâu kín của bản thân. Vào những ngày tưởng niệm.”
 
   
 
@@ -118,7 +114,7 @@ Tôi nhớ Ghrelin từng nhắc đến điều này khi chúng tôi đi thị s
 
   
 
-“Đó là một ngày lễ thiêng trên Tấm Màn Chắn, cứ sáu tháng một lần,” người đàn ông giải thích. “Vào những ngày này, chúng tôi tưởng nhớ những người đã ngã xuống. Các chiêm bái sư và sĩ quan thiệt mạng khi đang thi hành phận sự, cặm cụi lao động bên xác những bí ẩn vĩ đại này.”
+“Đó là một ngày lễ thiêng trên Tấm Màn Chắn, cứ sáu tháng một lần,” người đàn ông giải thích. “Vào những ngày này, chúng tôi tưởng nhớ những người đã ngã xuống. Các Tiên Luận Sư và sĩ quan thiệt mạng khi đang thi hành phận sự, cặm cụi lao động bên xác những bí ẩn vĩ đại này.”
 
   
 
@@ -170,7 +166,7 @@ Người phụ nữ gõ: “Sau chuyện đó, hành vi này xuất hiện thư�
 
   
 
-Người đàn ông uể oải gõ lên tấm bảng của mình, và Ghrelin chậm rãi dịch lại: “Chúng tôi từng nghĩ thủ phạm chính là việc sắp hết nhiệm kỳ. Chiêm đoán quá nhiều. Dành quá nhiều thời gian trên Tấm Màn Chắn. Tâm trí sẽ sụp đổ.”
+Người đàn ông uể oải gõ lên tấm bảng của mình, và Ghrelin chậm rãi dịch lại: “Chúng tôi từng nghĩ thủ phạm chính là việc sắp hết nhiệm kỳ. Tiên luận quá nhiều. Dành quá nhiều thời gian trên Tấm Màn Chắn. Tâm trí sẽ sụp đổ.”
 
   
 
@@ -186,7 +182,7 @@ Tôi cau mày trước điều đó, bởi trong tất cả những gì tôi t�
 
   
 
-Hai nhà chiêm đoán lại trao nhau một ánh nhìn bí hiểm khôn dò.
+Hai Tiên Luận Sư lại trao nhau một ánh nhìn bí hiểm khôn dò.
 
   
 
@@ -202,7 +198,7 @@ Người đàn ông nói: “Nhưng đó chưa phải là tất cả. Các Khanu
 
   
 
-Người phụ nữ gõ: “Đó chính là bản chất của thuật chiêm đoán. Nó là nỗ lực nhằm tái hiện lại sự thăng hoa đầy quyền năng này. Tuy nhiên, chúng tôi mới chỉ tìm ra cách để nó vận hành trên các Tiên Luận Sư, chứ không phải bất kỳ Thăng Hoa Thể nào khác. Và nó cũng bị giới hạn theo đúng cách thức như vậy.”
+Người phụ nữ gõ: “Đó chính là bản chất của dược chất Tiên Tri. Nó là nỗ lực nhằm tái hiện lại sự thăng hoa đầy quyền năng này. Tuy nhiên, chúng tôi mới chỉ tìm ra cách để nó vận hành trên các Tiên Luận Sư, chứ không phải bất kỳ Thăng Hoa Thể nào khác. Và nó cũng bị giới hạn theo đúng cách thức như vậy.”
 
   
 
@@ -210,7 +206,7 @@ Người đàn ông tiếp tục: “Bởi các Khanum thời xưa càng già đ
 
   
 
-Người phụ nữ gõ: “Thuật chiêm đoán cũng gây ra chính điều tương tự, nhưng trong một khoảng thời gian ngắn hơn rất nhiều, chỉ vỏn vẹn ba năm, và năm thứ ba có thể vô cùng nguy hiểm. Nó cuồng loạn và dữ dội. Đó là thời điểm những người thuộc hội chúng tôi bộc lộ chứng hoang tưởng nặng nề nhất, cùng những hành vi thất thường nhất.”
+Người phụ nữ gõ: “Dược chất Tiên Tri cũng gây ra chính điều tương tự, nhưng trong một khoảng thời gian ngắn hơn rất nhiều, chỉ vỏn vẹn ba năm, và năm thứ ba có thể vô cùng nguy hiểm. Nó cuồng loạn và dữ dội. Đó là thời điểm những người thuộc hội chúng tôi bộc lộ chứng hoang tưởng nặng nề nhất, cùng những hành vi thất thường nhất.”
 
   
 
@@ -239,8 +235,6 @@ Lời hồi đáp của người đàn ông rất nhanh. Nuốt khan một ngụ
   
 
 Người phụ nữ gõ: “Tự sát. Đúng vậy.”
-
-  
 
   
 
@@ -288,7 +282,7 @@ Người đàn ông gõ: “Nhưng ông ấy đã cố giấu giếm thứ gì �
 
   
 
-“Và rồi…” Đôi mắt của nữ chiêm bái sư dõi dần lên những bức tường rồi dừng lại đăm đăm nhìn lên trần nhà. “Tai nạn ập đến. Và bản chất của tai nạn này, nó… nó…”
+“Và rồi…” Đôi mắt của nữ Tiên Luận Sư dõi dần lên những bức tường rồi dừng lại đăm đăm nhìn lên trần nhà. “Tai nạn ập đến. Và bản chất của tai nạn này, nó… nó…”
 
   
 
@@ -296,7 +290,7 @@ Họ rơi vào im lặng: tôi nhận thấy đây là lần đầu tiên họ t
 
   
 
-Nam chiêm bái sư nghiêng người về phía trước, nhìn thẳng vào mắt tôi, những ngón tay của anh gõ điên cuồng lên mặt bảng trong khi Ghrelin cất lời: “Chúng tôi đã nghĩ đó là một sai lầm có chủ ý. Giống như một kẻ tự giăng bẫy chính mình, treo sẵn một thòng lọng vừa vặn, rồi cứ thế để bản thân trải qua một ngày bình thường, tự huyễn hoặc rằng mình không hề hay biết bản thân đang bước qua những giây phút cuối cùng do chính tay mình sắp đặt.”
+Nam Tiên Luận Sư nghiêng người về phía trước, nhìn thẳng vào mắt tôi, những ngón tay của anh gõ điên cuồng lên mặt bảng trong khi Ghrelin cất lời: “Chúng tôi đã nghĩ đó là một sai lầm có chủ ý. Giống như một kẻ tự giăng bẫy chính mình, treo sẵn một thòng lọng vừa vặn, rồi cứ thế để bản thân trải qua một ngày bình thường, tự huyễn hoặc rằng mình không hề hay biết bản thân đang bước qua những giây phút cuối cùng do chính tay mình sắp đặt.”
 
   
 
@@ -324,7 +318,7 @@ Một sự im lặng dằn vặt bao trùm lấy họ.
 
   
 
-Tôi ngồi thẳng dậy, trực giác mách bảo có điều gì đó ẩn khuất sau những lời giãi bày của anh. Tôi cất tiếng hỏi: “Tại sao anh lại nói ông ấy yêu thương các bạn khi làm ra một chuyện như thế?”
+Tôi ngồi thẳng dậy, trực giác mách bảo có điều gì đó ẩn khuất sau những lời giãi bày của anh. Tôi cất tiếng hỏi: “Tại sao các vị lại nói ông ấy yêu thương các vị khi làm ra một chuyện như thế?”
 
   
 
@@ -332,7 +326,7 @@ Người đàn ông ngập ngừng: “Bởi vì lẽ ra người tiếp cận t
 
   
 
-Tôi nói: “Nhưng giờ đây các bạn lại nghĩ rằng ông ấy làm vậy là để cứu các bạn thoát khỏi cái chết.”
+Tôi nói: “Nhưng giờ đây các vị lại nghĩ rằng ông ấy làm vậy là để cứu các vị thoát khỏi cái chết.”
 
   
 
@@ -364,15 +358,15 @@ Lại một ô cửa sổ khác, lại một vụ biến mất khác.
 
   
 
-Tôi lên tiếng: “Nhưng các người đã quay lại ô cửa sổ đó, trong tòa tháp. Và các người phát hiện ra ông ấy không hề có ý định nhảy xuống. Các người nhận ra ông ấy đang trèo ra ngoài, đúng không?”
+Tôi lên tiếng: “Nhưng các vị đã quay lại ô cửa sổ đó, trong tòa tháp. Và các vị phát hiện ra ông ấy không hề có ý định nhảy xuống. Các vị nhận ra ông ấy đang trèo ra ngoài, đúng không?”
 
   
 
-Nỗi u sầu biến mất khỏi gương mặt hai nhà tiên tri. Họ nhìn tôi chằm chằm, vừa bị cuốn hút vừa có phần phẫn nộ.
+Nỗi u sầu biến mất khỏi gương mặt hai Tiên Luận Sư. Họ nhìn tôi chằm chằm, vừa bị cuốn hút vừa có phần phẫn nộ.
 
   
 
-Những ngón tay của người phụ nữ chuyển động nhanh đến nhòe đi, và cô gõ: “Làm sao điều này lại được biết đến? Làm sao anh biết được chuyện này?”
+Những ngón tay của người phụ nữ chuyển động nhanh đến nhòe đi, và cô gõ: “Làm sao điều này lại được biết đến? Làm sao cậu biết được chuyện này?”
 
   
 
@@ -384,11 +378,11 @@ Tôi im lặng.
 
   
 
-Người phụ nữ rùng mình, đôi môi mím chặt: “Anh thật tàn nhẫn. Chúng tôi như những kẻ lữ hành trên sa mạc, cầu xin nước lã, còn anh chỉ ban cho chúng tôi cát bụi.”
+Người phụ nữ rùng mình, đôi môi mím chặt: “Cậu thật tàn nhẫn. Chúng tôi như những kẻ lữ hành trên sa mạc, cầu xin nước lã, còn cậu chỉ ban cho chúng tôi cát bụi.”
 
   
 
-“Các người đã tìm thấy gì?” tôi hỏi.
+“Các vị đã tìm thấy gì?” tôi hỏi.
 
   
 
@@ -412,7 +406,7 @@ Người đàn ông gõ: “Vì cuối cùng chúng tôi đã lần theo dấu c
 
   
 
-Lại một khoảng lặng. Hai nhà tiên tri trao nhau cái nhìn căng thẳng. Rồi người đàn ông gõ ra: “Chúng tôi tìm thấy một điện thờ.”
+Lại một khoảng lặng. Hai Tiên Luận Sư trao nhau cái nhìn căng thẳng. Rồi người đàn ông gõ ra: “Chúng tôi tìm thấy một điện thờ.”
 
   
 
@@ -432,17 +426,11 @@ Lại một khoảng lặng. Hai nhà tiên tri trao nhau cái nhìn căng thẳ
 
   
 
-“Tại sao phải miêu tả,” người phụ nữ nói, “khi chúng tôi có thể cho anh tận mắt chứng kiến?”
+“Tại sao phải miêu tả,” người phụ nữ nói, “khi chúng tôi có thể cho cậu tận mắt chứng kiến?”
 
   
 
-  
-
-Hai nhà tiên tri
-
-  
-
-Họ lại sục sạo vào trong vạt áo choàng của mình, như thể đang tìm kiếm một lời tiên tri khác, nhưng thứ họ lấy ra không phải là những cuộn giấy da mà là ba bức tượng gỗ nhỏ, được chạm khắc tỉ mỉ, vẫn còn buộc vào áo choàng bằng những sợi dây mảnh. Sau đó, bằng những động tác chậm rãi, đầy suy tư, họ cởi trói cho chúng rồi đặt trước tấm kính để tôi nhìn rõ.
+Hai Tiên Luận Sư lại sục sạo vào trong vạt áo choàng của mình, như thể đang tìm kiếm một lời tiên tri khác, nhưng thứ họ lấy ra không phải là những cuộn giấy da mà là ba bức tượng gỗ nhỏ, được chạm khắc tỉ mỉ, vẫn còn buộc vào áo choàng bằng những sợi dây mảnh. Sau đó, bằng những động tác chậm rãi, đầy suy tư, họ cởi trói cho chúng rồi đặt trước tấm kính để tôi nhìn rõ.
 
   
 
@@ -490,7 +478,7 @@ Người phụ nữ gõ mạnh lên bảng: “Ý cậu là gì?”
 
   
 
-Trí óc tôi quay cuồng, lao nhanh về phía những suy nghĩ tưởng chừng như vô lý. Pyktis từng là một nhà tiên tri vĩ đại, một Rathras Apoth, được trọng vọng trong hàng ngũ Tấm Màn Chắn. Ông ta không thể là ai khác được.
+Trí óc tôi quay cuồng, lao nhanh về phía những suy nghĩ tưởng chừng như vô lý. Pyktis từng là một Tiên Luận Sư vĩ đại, một Dược sư xứ Rathras, được trọng vọng trong hàng ngũ Tấm Màn Chắn. Ông ta không thể là ai khác được.
 
   
 
@@ -506,7 +494,7 @@ Nhưng chuyện đó hoàn toàn có thể xảy ra. Có lẽ thực sự là nh
 
   
 
-Run rẩy, tôi hắng giọng và hỏi: “Thứ kim loại mà các người nhìn thấy trong tay Pyktis, vào cái ngày các người tìm thấy ông ta bên bậu cửa sổ. Nó có màu gì?”
+Run rẩy, tôi hắng giọng và hỏi: “Thứ kim loại mà các vị nhìn thấy trong tay Pyktis, vào cái ngày các vị tìm thấy ông ta bên bậu cửa sổ. Nó có màu gì?”
 
   
 
@@ -522,7 +510,7 @@ Mắt tôi lại chớp liên hồi, và tôi nhớ thêm những lời của Da
 
   
 
-*Cậu có nhìn thấy chiếc vòng bạc trên trán hoàng tử không? Và cả sợi xích bạc quanh cổ ngài ấy nữa?… Đó là những dấu hiệu nhận biết người thừa kế được nhà vua lựa chọn. Những món đồ bạc thuộc về ngài ấy, và chỉ thuộc về một mình ngài ấy mà thôi.*
+*Cậu có nhìn thấy chiếc vòng bạc trên trán vương tử không? Và cả sợi xích bạc quanh cổ ngài ấy nữa?… Đó là những dấu hiệu nhận biết người thừa kế được nhà vua lựa chọn. Những món đồ bạc thuộc về ngài ấy, và chỉ thuộc về một mình ngài ấy mà thôi.*
 
   
 
@@ -546,7 +534,7 @@ Thế nhưng, nó lại hoàn toàn khớp. Một chiếc vòng cổ có lẽ t�
 
   
 
-Tiếng gõ lách cách vang lên trong không trung. Rồi giọng nói của Học sĩ Ghrelin vang lên, dịch lại lời của nam chiêm bái sư: “Cậu ta biết. Cậu ta đã nhìn thấy một sự thật. Một sự thật ngay cả mắt chúng ta cũng không thể nhìn thấu.”
+Tiếng gõ lách cách vang lên trong không trung. Rồi giọng nói của Học sĩ Ghrelin vang lên, dịch lại lời của nam Tiên Luận Sư: “Cậu ta biết. Cậu ta đã nhìn thấy một sự thật. Một sự thật ngay cả mắt chúng ta cũng không thể nhìn thấu.”
 
   
 
@@ -578,15 +566,15 @@ Tôi đứng dậy, toàn thân run rẩy. Tôi phải rời khỏi đây, phả
 
   
 
-“Tôi không thể,” tôi nói. “Các người biết rõ điều đó mà.”
+“Tôi không thể,” tôi nói. “Các vị biết rõ điều đó mà.”
 
   
 
-Rồi người phụ nữ gõ: “Không, không. Cậu có biết cảm giác của những chiêm bái sư như chúng tôi khi chỉ nắm giữ một mảnh thông tin quá nhỏ bé là thế nào không? Đủ để khơi gợi sự tò mò, nhưng lại không đủ để thấu hiểu?”
+Rồi người phụ nữ gõ: “Không, không. Cậu có biết cảm giác của những Tiên Luận Sư như chúng tôi khi chỉ nắm giữ một mảnh thông tin quá nhỏ bé là thế nào không? Đủ để khơi gợi sự tò mò, nhưng lại không đủ để thấu hiểu?”
 
   
 
-Người đàn ông gõ: “Và lại là về người đàn ông này trong số tất cả mọi người, về kẻ này trong số tất cả các chiêm bái sư chúng tôi? Cậu có hình dung nổi điều này dày vò chúng tôi đến mức nào không?”
+Người đàn ông gõ: “Và lại là về người đàn ông này trong số tất cả mọi người, về kẻ này trong số tất cả các Tiên Luận Sư chúng tôi? Cậu có hình dung nổi điều này dày vò chúng tôi đến mức nào không?”
 
   
 
@@ -594,7 +582,7 @@ Tôi chăm chú quan sát họ. Lúc mới gặp, tôi từng nghĩ họ là nh�
 
   
 
-“Tôi không thể nói gì nhiều hơn những gì các người đã biết,” tôi nói. “Sunus Pyktis đã sống trong một câu chuyện giả tạo khi ở cùng các người. Khi làm vậy, tôi tin rằng ông ấy không chỉ làm hại các người mà còn tự hủy hoại chính bản thân mình. Nếu các người tìm thấy tôi sau khi nhiệm kỳ của các người kết thúc, tôi sẽ kể cho các người nghe tất cả những gì tôi biết.”
+“Tôi không thể nói gì nhiều hơn những gì các vị đã biết,” tôi nói. “Sunus Pyktis đã sống trong một câu chuyện giả tạo khi ở cùng các vị. Khi làm vậy, tôi tin rằng ông ấy không chỉ làm hại các vị mà còn tự hủy hoại chính bản thân mình. Nếu các vị tìm thấy tôi sau khi nhiệm kỳ của các vị kết thúc, tôi sẽ kể cho các vị nghe tất cả những gì tôi biết.”
 
   
 
@@ -610,7 +598,7 @@ Người đàn ông gõ: “Mọi chuyện sẽ chỉ như một giấc mơ. Sun
 
   
 
-Tôi cúi người xuống để đánh thức Học sĩ Ghrelin ra khỏi trạng thái xuất thần. Thế nhưng nữ chiêm bái sư đột ngột bật dậy, những ngón tay của cô lướt nhanh như chớp trên tấm bảng.
+Tôi cúi người xuống để đánh thức Học sĩ Ghrelin ra khỏi trạng thái xuất thần. Thế nhưng nữ Tiên Luận Sư đột ngột bật dậy, những ngón tay của cô lướt nhanh như chớp trên tấm bảng.
 
   
 
