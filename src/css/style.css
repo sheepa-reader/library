@@ -5324,24 +5324,24 @@ button {
 
 
 
-/* --- FLOATING TOAST / PILL THÔNG BÁO SHEEPA --- */
+/* --- FLOATING TOAST / PILL THÔNG BÁO SHEEPA (COMPACT MINI) --- */
 .sheepa-banner-container {
   position: fixed;
-  bottom: 24px;
-  right: 24px;
+  bottom: 18px;
+  right: 18px;
   z-index: 990;
   font-family: inherit;
   transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
 }
 
 .sheepa-notice-card {
-  width: 290px;
-  max-width: calc(100vw - 32px);
+  width: 245px;
+  max-width: calc(100vw - 28px);
   background: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-radius: 14px;
-  padding: 13px 15px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.16), 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  padding: 10px 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16), 0 2px 6px rgba(0, 0, 0, 0.06);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   transform-origin: bottom right;
@@ -5353,41 +5353,41 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 9px;
-  padding-bottom: 7px;
+  margin-bottom: 7px;
+  padding-bottom: 5px;
   border-bottom: 1px solid var(--border-color);
 }
 
 .sheepa-notice-brand {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 6px;
 }
 
 .sheepa-notice-avatar {
-  width: 22px;
-  height: 22px;
+  width: 18px;
+  height: 18px;
   object-fit: contain;
   display: block;
 }
 
 .sheepa-notice-title {
-  font-size: 0.82rem;
+  font-size: 0.76rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
   color: var(--accent);
 }
 
 .sheepa-notice-close {
   background: transparent;
   border: none;
-  font-size: 0.85rem;
+  font-size: 0.75rem;
   line-height: 1;
   color: var(--text-muted);
   cursor: pointer;
-  padding: 4px 6px;
-  border-radius: 6px;
+  padding: 2px 5px;
+  border-radius: 4px;
   transition: all 0.2s ease;
   display: flex;
   align-items: center;
@@ -5402,36 +5402,36 @@ button {
 .sheepa-notice-body {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 6px;
 }
 
 .sheepa-notice-alert {
-  font-size: 0.82rem;
-  line-height: 1.45;
+  font-size: 0.75rem;
+  line-height: 1.38;
   color: var(--text-main);
   margin: 0;
-  padding: 7px 10px;
-  border-radius: 8px;
+  padding: 6px 8px;
+  border-radius: 6px;
   background: rgba(230, 138, 46, 0.09);
   border: 1px solid rgba(230, 138, 46, 0.22);
 }
 
 .sheepa-notice-badge {
   display: inline-block;
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   font-weight: 700;
   text-transform: uppercase;
-  padding: 1px 5px;
-  border-radius: 4px;
+  padding: 1px 4px;
+  border-radius: 3px;
   background: #e67e22;
   color: #fff;
-  margin-right: 4px;
+  margin-right: 3px;
   vertical-align: middle;
 }
 
 .sheepa-notice-text {
-  font-size: 0.81rem;
-  line-height: 1.4;
+  font-size: 0.74rem;
+  line-height: 1.35;
   color: var(--text-muted);
   margin: 0;
 }
@@ -5440,39 +5440,41 @@ button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 7px;
+  gap: 6px;
   width: 100%;
-  padding: 7px 12px;
+  padding: 5px 10px;
   margin-top: 2px;
   background: #2aabee;
   color: #ffffff !important;
-  font-size: 0.82rem;
+  font-size: 0.76rem;
   font-weight: 600;
-  border-radius: 8px;
+  border-radius: 6px;
   text-decoration: none !important;
-  box-shadow: 0 3px 10px rgba(42, 171, 238, 0.28);
+  box-shadow: 0 2px 8px rgba(42, 171, 238, 0.25);
   transition: all 0.2s ease;
 }
 
 .sheepa-notice-cta:hover {
   background: #2299d6;
   transform: translateY(-1px);
-  box-shadow: 0 5px 14px rgba(42, 171, 238, 0.38);
+  box-shadow: 0 4px 12px rgba(42, 171, 238, 0.35);
 }
 
 .sheepa-tg-icon {
   flex-shrink: 0;
+  width: 14px;
+  height: 14px;
 }
 
 /* Collapsed Pill Button (Chú cừu nhỏ mang thư) */
 .sheepa-notice-pill {
   display: none;
-  width: 46px;
-  height: 46px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: var(--bg-card);
   border: 1.5px solid var(--border-color);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.16);
   cursor: pointer;
   align-items: center;
   justify-content: center;
@@ -5483,31 +5485,31 @@ button {
 
 .sheepa-notice-pill:hover {
   transform: scale(1.08) translateY(-2px);
-  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
 }
 
 .sheepa-pill-icon {
-  width: 28px;
-  height: 28px;
+  width: 24px;
+  height: 24px;
   object-fit: contain;
   display: block;
 }
 
 .sheepa-pill-dot {
   position: absolute;
-  top: 2px;
-  right: 2px;
-  width: 9px;
-  height: 9px;
+  top: 1px;
+  right: 1px;
+  width: 8px;
+  height: 8px;
   background: #e74c3c;
-  border: 2px solid var(--bg-card);
+  border: 1.5px solid var(--bg-card);
   border-radius: 50%;
   animation: sheepaPulse 2s infinite;
 }
 
 @keyframes sheepaPulse {
   0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(231, 76, 60, 0.7); }
-  70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(231, 76, 60, 0); }
+  70% { transform: scale(1); box-shadow: 0 0 0 5px rgba(231, 76, 60, 0); }
   100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(231, 76, 60, 0); }
 }
 
@@ -5531,10 +5533,10 @@ button {
 /* Mobile responsive */
 @media (max-width: 600px) {
   .sheepa-banner-container {
-    bottom: 16px;
-    right: 16px;
+    bottom: 14px;
+    right: 14px;
   }
   .sheepa-notice-card {
-    width: calc(100vw - 32px);
+    width: calc(100vw - 28px);
   }
 }
