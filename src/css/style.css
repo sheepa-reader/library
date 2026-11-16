@@ -5365,8 +5365,8 @@ button {
 }
 
 .sheepa-notice-avatar {
-  width: 18px;
-  height: 18px;
+  width: 22px;
+  height: 22px;
   object-fit: contain;
   display: block;
 }
@@ -5469,12 +5469,12 @@ button {
 /* Collapsed Pill Button (Chú cừu nhỏ mang thư) */
 .sheepa-notice-pill {
   display: none;
-  width: 40px;
-  height: 40px;
+  width: 46px;
+  height: 46px;
   border-radius: 50%;
   background: var(--bg-card);
   border: 1.5px solid var(--border-color);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.16);
   cursor: pointer;
   align-items: center;
   justify-content: center;
@@ -5489,8 +5489,8 @@ button {
 }
 
 .sheepa-pill-icon {
-  width: 24px;
-  height: 24px;
+  width: 38px;
+  height: 38px;
   object-fit: contain;
   display: block;
 }
