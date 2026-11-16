@@ -20,9 +20,6 @@ Iren chưa từng nhìn thấy nhiều vùng đất cao đến thế. Cô có c�
 Iren cảm thấy suy nghĩ đó thật an ủi. Cô thậm chí còn cố gắng vẫy tay và nhăn mặt tạo ra thứ gì đó có thể coi là một nụ cười. Nhưng rồi giấy hoa châu bay vào miệng cô và một làn sương rượu sâm-panh xộc thẳng làm cay xè đôi mắt, vào lúc đó cô quyết định tốt nhất là nên nhường phần diễu hành lại cho những chuyên gia như Voleta, và cô rút lui ra sau vành mũ bonnet để che đậy.
 
 <hr class="scene-break"/>
-
-<hr class="scene-break"/>
-
 Voleta cảm thấy tiếc cho Iren vì đã có một khoảng thời gian khốn khổ như vậy, bởi bản thân cô bé lại thấy toàn bộ cảnh tượng này vô cùng giải trí. Phải, sự đón tiếp dành cho họ là hoàn toàn thừa thãi và có phần làm quá lên, và cô bé không hề nghi ngờ gì về việc sự mới mẻ này sẽ sớm phai nhạt đi, nhưng sau nhiều ngày liền bị giam cầm bên trong tàu <i>State of Art</i>, thật tuyệt khi có được một sự phân tâm triệt để đến thế.
 
 Đoàn diễu hành đưa họ đi qua những cửa hàng sô-cô-la, tiệm bánh ngọt và cửa hàng nước hoa. Những cô gái bán hàng chạy ra đường để nhét kẹo vào tay Voleta và xịt nước hoa lên cổ cô bé. Cô bé được trao một tách trà đầy sô-cô-la nóng ngọt lịm đến mức khiến răng cô bé ê ẩm. Cuộc diễu hành di chuyển qua một khu vực mà cô nàng ngực vàng Haste gọi là Khu ổ chuột của thợ đóng giày. Ở đó, những người mẫu trẻ tuổi dang rộng đôi chân vắt vẻo từ các ban công, khoe ra những đôi dép và bốt thiết yếu nhất của vòng luân chuyển thời trang Pelphia. Voleta bước theo cái bóng của Edith khi cô tiến qua mái hiên nhô ra của một nhà hát, lướt qua những tấm áp phích của các diễn viên thường trực đang nhìn đăm đăm ra ngoài với một cường độ gần như có thể coi là thông minh.

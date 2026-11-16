@@ -34,9 +34,6 @@
 <p class="para-vi-sub">Iren cảm thấy suy nghĩ đó thật an ủi. Cô thậm chí còn cố gắng vẫy tay và nhăn mặt tạo ra thứ gì đó có thể coi là một nụ cười. Nhưng rồi giấy hoa châu bay vào miệng cô và một làn sương rượu sâm-panh xộc thẳng làm cay xè đôi mắt, vào lúc đó cô quyết định tốt nhất là nên nhường phần diễu hành lại cho những chuyên gia như Voleta, và cô rút lui ra sau vành mũ bonnet để che đậy.</p>
 
 <hr class="scene-break"/>
-
-<hr class="scene-break"/>
-
 <p class="para-en">Voleta was sorry to see that Iren was having such a miserable time because she was finding the whole spectacle quite entertaining. Yes, <span epub:type="pagebreak" id="PageRef_21957" title="198"></span>their reception was unnecessary and overdone, and she had no doubt the novelty of it would soon subside, but after days and days of being shut up inside the <em>State of Art</em>, it was nice to have such a thorough distraction.</p>
 
 <p class="para-vi-sub">Voleta cảm thấy tiếc cho Iren vì đã có một khoảng thời gian khốn khổ như vậy, bởi bản thân cô bé lại thấy toàn bộ cảnh tượng này vô cùng giải trí. Phải, sự đón tiếp dành cho họ là hoàn toàn thừa thãi và có phần làm quá lên, và cô bé không hề nghi ngờ gì về việc sự mới mẻ này sẽ sớm phai nhạt đi, nhưng sau nhiều ngày liền bị giam cầm bên trong tàu <i>State of Art</i>, thật tuyệt khi có được một sự phân tâm triệt để đến thế.</p>

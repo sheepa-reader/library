@@ -608,6 +608,9 @@
     // 2. Tự động xóa hoàn toàn dòng chữ thừa 'Nội Dung Tác Phẩm' hoặc 'Nội Dung'
     text = text.replace(/^[ \t]*[\*_]*[ \t]*(?:Nội\s+Dung(?:\s+Tác\s+Phẩm)?|Tác\s+Phẩm)[ \t]*[\*_]*[ \t]*$/gim, '');
 
+    // 2b. Tự động gộp dải phân cách <hr> trùng lặp liên tiếp
+    text = text.replace(/(?:<hr\b[^>]*\/?>\s*){2,}/gi, '<hr class="scene-break"/>\n\n');
+
     // 3. Tách các dòng để loại bỏ tiêu đề chương bị lặp lại hoặc số chương mồ côi ở đầu nội dung
     const rawLines = text.split('\n');
     let firstHeadingTitle = '';
@@ -819,6 +822,10 @@
         const isPartOrCourse = /^(?:Món\s+thứ|Phần\s+|Hồi\s+|Chương\s+|Quyển\s+|Tập\s+|Act\s+|Scene\s+|Course\s+|Book\s+|Part\s+|Tháng\s+|Năm\s+|\b(?:19|20)\d{2}\b|Bảy\s+tuần|Trước\s+|Sau\s+|Halloween|Khúc\s+Chuyển|Khúc\s+Dạo|Khúc\s+Đệm|Hạ\s+Chí|Đông\s+Chí|Thu\s+Phân|Xuân\s+Phân|Sáu\s+tháng)/i.test(plainText) && plainText.length < 120;
         const isItalicSubtitle = (/^<em>[^<]+<\/em>$/i.test(line) || /^\*[^*]+\*$/.test(plainText)) && plainText.length < 150;
         const isCharacterNamePOV = (/^<strong>[^<]+<\/strong>$/i.test(line) || /^<b>[^<]+<\/b>$/i.test(line) || /^\*\*[^*]+\*\*$/.test(plainText) || /^<p class="p-name">/i.test(line)) && plainText.length < 50;
+        const isCenteredText = /class=["'][^"']*\b(?:text-center|chapter-subtitle|p-center)\b[^"']/i.test(line) ||
+                               /text-align:\s*center/i.test(line) ||
+                               /\balign=["']center["']/i.test(line) ||
+                               /^<center\b/i.test(line);
 
         // Bất kỳ dòng tiêu đề phụ/mục lớn nằm TRƯỚC tiêu đề h1 đều là Eyebrow (nhỏ, in nghiêng, xám, nằm trên)
         if (!hasEncounteredHeading && (isPartOrCourse || isItalicSubtitle || isDateTimePattern)) {
@@ -829,6 +836,9 @@
         }
         if (isDateTimePattern || isItalicSubtitle || isCharacterNamePOV) {
           return `<p class="chapter-subtitle text-center" align="center">${line}</p>`;
+        }
+        if (isCenteredText) {
+          return line;
         }
       }
 

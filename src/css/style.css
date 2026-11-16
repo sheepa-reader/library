@@ -3500,6 +3500,24 @@ button {
   font-style: italic;
 }
 
+
+/* Ngăn tuyệt đối Drop Cap xuất hiện trên các đoạn căn giữa, tiêu đề phụ */
+.reader-content p.text-center::first-letter,
+.reader-content p[align="center"]::first-letter,
+.reader-content .chapter-subtitle::first-letter,
+.reader-content .chapter-part-eyebrow::first-letter,
+.reader-content p.has-dropcap.text-center::first-letter,
+.reader-content p.has-dropcap[style*="text-align: center"]::first-letter,
+.reader-content p.has-dropcap[align="center"]::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  font-weight: inherit !important;
+  color: inherit !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
 /* Ngăn tuyệt đối Drop Cap xuất hiện bên trong Epigraph */
 .reader-content .epigraph::first-letter,
 .reader-content .epigraph p::first-letter,

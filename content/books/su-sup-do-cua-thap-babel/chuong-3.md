@@ -3,8 +3,6 @@
 <p class="text-center" style="text-align: center;"><b>(Để Đón Chờ Hồi Kết Của Nó)</b><br/><i>bởi Oren Robinson</i></p>
 
 <hr class="scene-break"/>
-<hr class="scene-break"/>
-
 Lại một mùa kịch nữa đến, lại thêm một hồi trong vở bi hài kịch trường thiên <i>Biên Niên Sử Tháp Babel</i>!
 
 Như thường lệ, gánh nặng hồi sinh các màn diễn cùng những lượt ra vào sân khấu của các vở trước do vị kịch tác gia được trả thù lao quá hậu hĩnh kia chấp bút lại đè nặng lên vai tôi, hỡi độc giả thân mến. Tôi, Oren Robinson, nhà phê bình văn hóa kiêm kẻ sành sỏi mọi ngõ ngách kinh thành (hoặc ít nhất là căn nhà phố của chính mình), từ đây sẽ cố gắng thổi bùng những tàn tro đam mê đang nguội lạnh trong lòng quý vị đối với một câu chuyện mà, tựa như gã khách say khướt đã bắt đầu ngả nghiêng dựa vào rèm cửa, hạ màn chẳng sớm hơn lấy một khoảnh khắc nào! Tôi xin dâng lên bản tóm lược này xuất phát từ tấm lòng hào hiệp của bản thân lẫn nghĩa vụ hợp đồng với ban biên tập tờ <i>Daily Reverie</i>.

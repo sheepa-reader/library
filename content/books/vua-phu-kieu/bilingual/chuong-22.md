@@ -54,9 +54,6 @@
 <p class="para-vi-sub">Tôi đã quan sát thấy vài sự lo lắng về việc tại sao Nhân Sư lại chọn cảng của chúng ta làm nơi đầu tiên chào đón chiến thuyền của ngài. Đó có phải là một lời đe dọa? Đó có phải là một cuộc xâm lược, và nếu vậy, chúng ta có nên mong đợi một lễ đăng quang quái dị không? Thỉnh thoảng tôi tự hỏi tại sao chúng ta lại nhanh chóng suy đoán điều tồi tệ nhất về các vị khách của mình như vậy. Tôi thích tin rằng Nhân Sư đã chọn chúng ta bởi vì ngài biết chúng ta giỏi nhất về điều gì. Ngài muốn có ai đó làm rùm beng lên vì mình. Và mọi người đều biết cư dân Pelphia chúng ta không có đối thủ trong nghệ thuật làm rùm beng.</p>
 
 <hr class="scene-break"/>
-
-<hr class="scene-break"/>
-
 <p class="para-en">Ships bustled in and out of Port Virtue like bees through a rosebush. Of the Lower Ringdoms, no skyport saw more traffic in a day than Pelphia’s north harbor.</p>
 
 <p class="para-vi-sub">Những con tàu tấp nập ra vào Cảng Đức Hạnh như ong vỡ tổ qua bụi hoa hồng. Trong số các Lãnh địa Vành Đai dưới, không cảng hàng không nào có lưu lượng qua lại trong một ngày lớn hơn cảng phía bắc của Pelphia.</p>
