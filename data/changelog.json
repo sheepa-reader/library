@@ -1,16 +1,25 @@
 [
   {
-    "version": "v3.6",
-    "date": "16/11/2026",
-    "title": "Ra mắt tác phẩm: Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
-    "description": "Bổ sung kiệt tác hài hước, lãng mạn và chữa lành đầy xúc động của Annie Hartnett với định dạng đọc đơn ngữ, song ngữ câu-nối-câu đối chiếu trực quan và tải EPUB.",
-    "type": "major",
-    "highlights": [
-      "Phát hành \"Đường Về Miền Dịu Êm\" của Annie Hartnett (Bản đơn ngữ & Song ngữ Anh - Việt)",
-      "Hoàn thiện biên tập và đối chiếu chuẩn xác 100% từng đoạn song ngữ liên tục",
-      "Tích hợp đầy đủ hồ sơ tác giả Annie Hartnett, giải thưởng và minh họa đặc sắc",
-      "Hỗ trợ tải sách EPUB bản tiếng Việt và bản Song ngữ Anh - Việt"
-    ]
+    "id": "log-20261116-01",
+    "timestamp": "2026-11-16T14:30:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "type": "book_add",
+    "typeName": "Xuất bản mới",
+    "badgeClass": "badge-book",
+    "title": "Phát hành kiệt tác Đường Về Miền Dịu Êm (Đơn ngữ & Song ngữ)",
+    "description": "Chính thức ra mắt độc giả tiểu thuyết 'Đường Về Miền Dịu Êm' (The Road to Tender Hearts) của nữ nhà văn Annie Hartnett trọn vẹn 53 chương cùng Lời đề từ, Bối cảnh và Lời cảm ơn. Hỗ trợ đầy đủ trải nghiệm đọc đơn ngữ tiếng Việt chuẩn biên tập và song ngữ Anh - Việt đối chiếu chuẩn xác 1-1 từng đoạn văn, tải trọn vẹn 2 bản EPUB chất lượng cao."
+  },
+  {
+    "id": "log-20261115-02",
+    "timestamp": "2026-11-15T19:47:00+07:00",
+    "bookId": "mam-mong-tha-hoa",
+    "bookTitle": "Mầm Mống Tha Hóa (A Drop of Corruption)",
+    "type": "chapter_update",
+    "typeName": "Cập nhật Ebook",
+    "badgeClass": "badge-chapter",
+    "title": "Cập nhật nội dung Chương 45 & đồng bộ lại file EPUB tải về",
+    "description": "Hiệu chỉnh, hoàn thiện biên dịch và cấu trúc văn bản Chương 45 cuốn Mầm Mống Tha Hóa trên web reader, đồng thời đóng gói và đồng bộ lại file EPUB tiếng Việt tải về mới nhất."
   },
   {
     "id": "log-20261115-01",

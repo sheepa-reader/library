@@ -5,8 +5,10 @@
     "originalTitle": "The Road to Tender Hearts",
     "author": "Annie Hartnett",
     "authorId": "annie-hartnett",
-    "rating": 4.31,
-    "ratingsCount": "184.5k",
+    "rating": {
+      "score": 4.31,
+      "count": "184.5k"
+    },
     "genres": [
       "Hài Hước",
       "Lãng Mạn",
@@ -19,8 +21,6 @@
     "description": "Ở tuổi sáu mươi ba, PJ Halliday — một ông lão trúng xổ số triệu đô tại Massachusetts — đáng lẽ phải là người đàn ông may mắn nhất thị trấn nếu cuộc đời không giáng xuống những bi kịch: cái chết đột ngột của cô con gái cả, cuộc hôn nhân tan vỡ và ba cơn đau tim suýt lấy mạng ông. Thế nhưng, khi tình cờ đọc được cáo phó của tình địch cũ và biết tin mối tình đầu thời trung học Michelle Cobb đã độc thân trở lại, PJ lập tức nung nấu kế hoạch lái xe xuyên nước Mỹ tới viện dưỡng lão Tender Hearts ở Arizona để chinh phục lại người thương. Chưa kịp lên đường, một biến cố bất ngờ khiến ông trở thành người giám hộ bất đắc dĩ của hai đứa cháu mồ côi. Thay vì hủy chuyến đi, PJ quyết định kéo theo cả hai đứa trẻ, cô con gái trưởng thành đang lạc lối Sophie, cùng Pancakes — một chú mèo trị liệu có biệt tài tiên tri cái chết — bước vào hành trình tìm lại cơ hội thứ hai cho tình yêu và gia đình.",
     "cover": "content/books/duong-ve-mien-diu-em/cover.jpg",
     "hasBilingual": true,
-    "epubFile": "content/downloads/duong-ve-mien-diu-em.epub",
-    "bilingualEpubFile": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub",
     "chapters": [
       {
         "id": "chuong-1",
@@ -368,7 +368,28 @@
         "path": "content/books/duong-ve-mien-diu-em/chuong-57.md",
         "noDropcap": true
       }
-    ]
+    ],
+    "series": "",
+    "volume": "",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Hài Hước • Lãng Mạn • Chữa Lành",
+    "tags": [
+      "Hài Hước",
+      "Lãng Mạn",
+      "Chữa Lành"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "icon": "public/icons/glyph_01_sheep_reading.png",
+    "downloadCountstart": 195,
+    "publishedAt": "2026-11-16",
+    "downloads": {
+      "epub": "content/downloads/duong-ve-mien-diu-em.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub",
+      "bilingualEpub": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub"
+    }
   },
   {
     "id": "toi-nguoi-chua-tung-biet-toi-dan-ong",
