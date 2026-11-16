@@ -22,7 +22,7 @@ Một người đàn ông to lớn đang đứng đó, mặc chiếc quần bơi
 
 Luna gật đầu, đón lấy Pancakes từ tay người đàn ông rồi đóng sầm cửa lại mà chẳng nói một lời cảm ơn. “Mèo hư,” Luna thì thầm vào tai chú mèo, nhưng trong lòng lại chẳng hề nghĩ vậy. Cô bé rất yêu chú mèo này. Pancakes là sinh vật dễ yêu nhất mà Luna từng gặp trong đời, và cô bé thích việc chú mèo có chính kiến riêng của mình. Luna tự nhủ rằng Pancakes không hề có ý định bỏ trốn, chú mèo chỉ muốn khám phá khách sạn sang trọng này mà thôi. Cô bé ôm chú mèo lên giường cùng mình, nhẹ nhàng vuốt ve và Pancakes cất tiếng kêu gừ gừ.
 
-“Chuyện gì sẽ xảy ra với bọn em đây?” Luna hỏi chú mèo. “Chuyện gì sẽ xảy ra với em trai em và em?”
+“Chuyện gì sẽ xảy ra với bọn tao đây?” Luna hỏi chú mèo. “Chuyện gì sẽ xảy ra với hai chị em tao?”
 
 Đau khổ, chú mèo đáp lại. Và niềm vui.
 

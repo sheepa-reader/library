@@ -300,7 +300,7 @@
 <p class="para-vi-sub">Trong phòng tắm, cuối cùng cũng được ở một mình trong phút chốc, Luna ngồi lên bồn cầu, gục đầu giữa hai đầu gối. Có tiếng kêu meo meo phát ra trong phòng, và Luna ngẩng đầu lên. Có một chú mèo màu cam đang nằm dài trong chiếc bồn tắm trống không. Pancakes đã ngủ trong đó cả ngày trời. Chú mèo chìa chiếc bụng màu trắng của mình ra cho cô bé. Luna lau nước mắt rồi ngồi xuống cạnh bồn tắm và đưa tay luồn vào bộ lông của chú mèo. Cô bé cảm thấy khá hơn ngay lập tức. Chú mèo cứ gừ gừ mãi và hít hà bàn tay cô bé bằng chiếc mũi hồng nho nhỏ. Mùi hương của cô bé quá quen thuộc với chú, nhưng thoạt đầu chú không tài nào nhớ ra được.</p>
 
 <p class="para-en">“I’m going to run away,” she told the cat. She looked up from the tub to the window above the toilet. “Do you think I can fit through that window?” she asked him.</p>
-<p class="para-vi-sub">Cô bé nói với chú mèo: “Tôi chuẩn bị bỏ trốn đây.” Cô bé ngẩng đầu từ bồn tắm nhìn lên khung cửa sổ phía trên bồn cầu. Cô bé hỏi chú mèo: “Mày nghĩ tao có chui qua nổi cái cửa sổ đó không?”</p>
+<p class="para-vi-sub">Cô bé nói với chú mèo: “Tao chuẩn bị bỏ trốn đây.” Cô bé ngẩng đầu từ bồn tắm nhìn lên khung cửa sổ phía trên bồn cầu. Cô bé hỏi chú mèo: “Mày nghĩ tao có chui qua nổi cái cửa sổ đó không?”</p>
 
 <p class="para-en">The cat sat up and jumped from the tub to the toilet. He looked at the size of the window and the size of Luna. No problem, he thought.</p>
 <p class="para-vi-sub">Chú mèo ngồi dậy rồi nhảy từ bồn tắm lên bồn cầu. Chú nhìn kích thước của cửa sổ và kích thước của Luna. Chú thầm nghĩ: Không vấn đề gì.</p>

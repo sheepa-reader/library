@@ -100,7 +100,7 @@ Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu nội của 
 
 Chú mèo nhìn ông.
 
-“Tôi và anh trai không thân nhau,” ông nói với chú mèo. Khi Chip còn ở quán rượu, họ thường ngồi ở hai đầu đối diện. Ai ở quán rượu cũng biết hai kẻ đó căm ghét lẫn nhau, nhưng hầu hết mọi người không biết họ là anh em ruột. Khi Chip chết, PJ đã bao trọn một lượt đồ uống cho cả quán để ăn mừng. Một vài kẻ nghĩ điều đó thật kém sang, vì gã đàn ông đó đã tự kết liễu đời mình, nhưng chẳng ai từ chối ly rượu miễn phí cả.
+“Tao và anh trai không thân nhau,” ông nói với chú mèo. Khi Chip còn ở quán rượu, họ thường ngồi ở hai đầu đối diện. Ai ở quán rượu cũng biết hai kẻ đó căm ghét lẫn nhau, nhưng hầu hết mọi người không biết họ là anh em ruột. Khi Chip chết, PJ đã bao trọn một lượt đồ uống cho cả quán để ăn mừng. Một vài kẻ nghĩ điều đó thật kém sang, vì gã đàn ông đó đã tự kết liễu đời mình, nhưng chẳng ai từ chối ly rượu miễn phí cả.
 
 PJ đi lên lầu vào phòng làm việc của Fred. Ông ngồi vào bàn làm việc, bật máy tính lên và nhập mật khẩu email của mình. Nó đây rồi: Từ Belinda Bell, Nhân viên Công tác Xã hội được Cấp phép. Đính kèm là danh sách những thứ trẻ em cần. Nước, thức ăn, chỗ ngủ, đồ ngủ, quần áo, sách vở và đồ chơi. PJ đã biết thừa mấy thứ này rồi. Ông đã nuôi nấng hai đứa con cơ mà; ông có phải là đồ đần đâu.
 
