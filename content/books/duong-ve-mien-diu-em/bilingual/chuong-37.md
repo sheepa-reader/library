@@ -1,252 +1,90 @@
-*Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)*
+*Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm*
 
-# Chương 34
+# Chương 28
 
-<p class="para-en">As they approached Little Rock, Sophie decided she needed another coffee; the coffee at Cracker Barrel had been terribly weak. They stopped at a place called She’s Got Big Mugs, and PJ bought himself a coffee mug made of two ceramic breasts wearing a bikini; the coffee was poured into the neck where the head should go. Ollie thought it was the funniest thing he’d seen in his life, and he begged to drink a cup of coffee out of it, but Uncle PJ told Ollie he should really stop drinking coffee, it would stunt his growth, and try switching to soda instead.</p>
-<p class="para-vi-sub">Khi tiến gần đến Little Rock, Sophie quyết định cô cần thêm một ly cà phê nữa vì cà phê ở Cracker Barrel dở tệ và nhạt nhẽo vô cùng. Họ ghé vào một quán có tên là She’s Got Big Mugs, và PJ tự mua cho mình một chiếc cốc cà phê hình bầu ngực bằng gốm mặc áo bikini, phần cà phê được rót vào phần cổ nơi đáng lẽ ra là cái đầu. Ollie nghĩ đó là thứ buồn cười nhất mà cậu bé từng thấy trong đời, và cậu bé nài nỉ được uống một ngụm cà phê từ chiếc cốc đó, nhưng chú PJ bảo Ollie thực sự nên dừng uống cà phê lại, nó sẽ làm cậu bé còi cọc đấy, và thử đổi sang uống nước ngọt xem sao.</p>
+<p class="para-en">They stopped in Nashville to see the Honky Tonk strip, to walk down the street and hear all the live music coming from every restaurant. When they got back in the car, PJ played Elvis Presley and Dolly Parton songs using Sophie’s phone, having finally figured out how to use the music app. They played card games. Twenty questions and the license plate game, and the game where you try to think of the most movies that begin with a certain letter.</p>
+<p class="para-vi-sub">Họ ghé qua Nashville để ngắm khu phố Honky Tonk, đi bộ dọc con đường và lắng nghe âm nhạc sống phát ra từ mọi nhà hàng. Khi quay trở lại xe, PJ bật các bài hát của Elvis Presley và Dolly Parton bằng điện thoại của Sophie sau khi mò ra cách sử dụng ứng dụng âm nhạc. Họ chơi trò chơi bài, trò hai mươi câu hỏi, trò đoán biển số xe, cùng trò cố gắng nghĩ ra nhiều bộ phim nhất bắt đầu bằng một chữ cái cụ thể.</p>
 
-<p class="para-en">Sophie watched Ollie laughing at the boobs mug—the boy laughing so easily and freely after their weird, sad morning—it’s one reason why adults don’t think children are affected as seriously by death, because they can go back to laughing and playing so quickly. Resilient, that’s what people say about kids. But playing and laughing can be a child’s way of processing, it doesn’t mean they’ve recovered. Blanche had told Sophie all about this in therapy, talking about Sophie’s childhood. Sophie worried about these kids, what they had just gone through so soon after losing their parents. Sophie’s chest ached, but she didn’t really know how to make this situation better for them. She’d never even figured out how to make things better for herself.</p>
-<p class="para-vi-sub">Sophie nhìn Ollie đang cười nắc nẻ trước chiếc cốc hình bầu ngực, cậu bé cười dễ dàng và vô tư đến thế sau buổi sáng kỳ quặc và đượm buồn vừa rồi, đó chính là một lý do khiến người lớn thường nghĩ rằng trẻ em không bị ảnh hưởng quá nghiêm trọng bởi cái chết, bởi vì chúng có thể quay lại với việc cười đùa và chơi giỡn nhanh đến thế. Khả năng phục hồi, đó là những gì người ta vẫn nói về lũ trẻ. Nhưng việc chơi đùa và cười cợt có thể chỉ là cách trẻ nhỏ xử lý cảm xúc, chứ điều đó không có nghĩa là chúng đã thực sự bình phục. Blanche đã kể cho Sophie nghe tất cả về điều này trong các buổi trị liệu, khi nói về tuổi thơ của Sophie. Sophie lo lắng cho hai đứa trẻ này, những gì chúng vừa phải trải qua ngay sau khi mất đi cha mẹ. Lồng ngực Sophie nhói đau, nhưng cô thực sự chẳng biết làm cách nào để tình hình khá hơn cho chúng. Bản thân cô thậm chí còn chưa bao giờ tìm ra cách để làm cho mọi thứ tốt đẹp hơn đối với chính mình.</p>
+<p class="para-en">By nightfall, they were in west Tennessee. Headlights lit up a stretch of rural highway. Above them, the bats were eating mosquitos, the bloodsuckers big as moths down there. There was an inn up ahead, two red cherries painted on a yellow sign. The Golden Cherry Inn & Suites. Vacancy. There wasn’t much else on the road, except for an abandoned Laundromat. “Let’s stop here,” PJ said.</p>
+<p class="para-vi-sub">Đến chập tối, họ đã ở miền tây Tennessee. Đèn pha chiếu sáng một đoạn đường cao tốc nông thôn. Phía trên họ, đàn dơi đang ăn muỗi, lũ hút máu to bằng cả mấy con bướm đêm dưới ấy. Phía trước có một nhà nghỉ, trên biển hiệu màu vàng vẽ hai quả anh đào màu đỏ. Nhà nghỉ & Căn hộ The Golden Cherry. Còn phòng. Trên đường chẳng còn gì mấy, ngoài một tiệm giặt là đã bỏ hoang. “Chúng ta dừng lại ở đây đi,” PJ nói.</p>
 
-<p class="para-en">Leaving the coffee shop, Sophie noticed the Purse and Handbag Museum across the street. Despite wearing all black all the time, Sophie liked to look at beautiful clothes, and thought maybe a museum would be soothing. Art gave life meaning, didn’t it? It was a small museum, and admission was only ten bucks. “Let’s go in,” Sophie said.</p>
-<p class="para-vi-sub">Rời khỏi quán cà phê, Sophie nhìn thấy Bảo tàng Ví và Túi xách ở ngay bên kia đường. Dù lúc nào cũng mặc đồ đen từ đầu đến chân, Sophie vẫn thích ngắm những bộ trang phục đẹp đẽ, và cô nghĩ biết đâu một bảo tàng sẽ mang lại cảm giác dễ chịu. Nghệ thuật đem lại ý nghĩa cho cuộc sống mà, phải không? Đó là một bảo tàng nhỏ, và giá vé vào cửa chỉ có mười đô la. Sophie nói: “Chúng ta vào trong đó đi.”</p>
+<p class="para-en">“I’m fine to keep going,” Sophie said. “We can get to Memphis. We’re in the middle of nowhere now.”</p>
+<p class="para-vi-sub">“Con đi tiếp cũng được mà,” Sophie nói. “Chúng ta có thể tới Memphis. Giờ tụi mình đang ở cái xó xỉnh khỉ ho cò gáy nào rồi đây.”</p>
 
-<p class="para-en">“No,” Luna said.</p>
-<p class="para-vi-sub">Luna đáp: “Không.”</p>
+<p class="para-en">“We’re not in the middle of nowhere,” PJ said, and smiled. “You’re never going to believe it, Sophie-Soo, but we’re in the middle of Somewhere. That’s the town name. Somewhere, Tennessee. I saw the sign a mile back. It’s perfect. We all wanted to go somewhere, and now we’re here.” It was too perfect, they had to stay in Somewhere. Besides, PJ was pretty sure that rooms in the Golden Cherry wouldn’t be expensive.</p>
+<p class="para-vi-sub">“Chúng ta không ở xó xỉnh khỉ ho cò gáy đâu,” PJ nói rồi mỉm cười. “Con sẽ không bao giờ tin nổi đâu, Sophie-Soo, tụi mình đang ở ngay giữa Somewhere. Tên thị trấn đấy. Somewhere, Tennessee. Bố thấy tấm biển cách đây một dặm rồi. Quá hoàn hảo. Tất cả chúng ta đều muốn đi đâu đó, và giờ thì chúng ta đã ở đây.” Mọi thứ hoàn hảo đến mức họ buộc phải ở lại Somewhere. Hơn nữa, PJ khá chắc chắn giá phòng ở The Golden Cherry sẽ không đắt đỏ gì.</p>
 
-<p class="para-en">“Just for twenty minutes.”</p>
-<p class="para-vi-sub">“Chỉ mười phút thôi.”</p>
+<p class="para-en">Sophie pulled into the hotel lot. If her dad wanted to stay in this creepy hotel, whatever, it couldn’t be worse than the town named after the gates of hell. There were five other cars in the lot, and one motorcycle. Sophie turned off the car and immediately escaped into the glow of her phone. A guy she’d slept with last month had texted wanting to know if she was around to do it again. Her friend Sara from work had texted to ask if she’d been doing all right since they’d both lost their jobs.</p>
+<p class="para-vi-sub">Sophie tấp xe vào bãi đỗ của nhà nghỉ. Nếu bố cô muốn ở lại cái nhà nghỉ rợn gáy này thì tùy, chắc cũng chẳng tệ hơn cái thị trấn được đặt tên theo cổng địa ngục đâu. Có năm chiếc xe hơi khác và một chiếc mô-tô trong bãi. Sophie tắt máy xe và lập tức trốn vào màn hình điện thoại đang phát sáng. Một tay cô từng ngủ cùng tháng trước vừa nhắn tin muốn biết cô có rảnh để làm chuyện đó lần nữa không. Sara, cô bạn đồng nghiệp, nhắn tin hỏi dạo này cô thế nào kể từ khi cả hai bị sa thải.</p>
 
-<p class="para-en">Luna refused. “I’ll wait in the gift shop.”</p>
-<p class="para-vi-sub">Luna kiên quyết từ chối: “Cháu sẽ đợi ở cửa hàng lưu niệm.”</p>
+<p class="para-en">No, Sophie texted back to Sara. Are you?</p>
+<p class="para-vi-sub">Không, Sophie nhắn lại cho Sara. Cậu thì sao?</p>
 
-<p class="para-en">“Fine. Don’t steal anything.”</p>
-<p class="para-vi-sub">“Tùy cháu. Đừng có ăn cắp thứ gì đấy nhé.”</p>
+<p class="para-en">Things have never been bleaker, Sara responded, which is why she and Sophie were friends. Ever since the layoffs two months ago, Sara had been home alone with her kids while her dumb husband got to go to work.</p>
+<p class="para-vi-sub">Mọi thứ chưa bao giờ ảm đạm thế này, Sara đáp lại, đó là lý do vì sao cô và Sophie chơi thân với nhau. Kể từ vụ sa thải hai tháng trước, Sara đã phải thui thủi ở nhà một mình với đám nhóc trong lúc cái tên chồng ngốc nghễnh được đi làm.</p>
 
-<p class="para-en">“Here’s my credit card,” PJ said to the girl. “Buy anything you want.”</p>
-<p class="para-vi-sub">PJ nói với cô nhân viên: “Đây là thẻ tín dụng của bố. Con cứ mua bất cứ thứ gì con thích.”</p>
+<p class="para-en">If you think that’s bad, wait until you hear about the road trip I’m on with my dad —Sophie typed back.</p>
+<p class="para-vi-sub">Nếu cậu thấy thế là tệ rồi, thì cứ chờ cho đến khi nghe về chuyến road trip tớ đang đi cùng bố tớ đã nhé, Sophie gõ phím trả lời.</p>
 
-<p class="para-en">“Jesus, Dad.”</p>
-<p class="para-vi-sub">“Chúa ơi, bố.”</p>
+<p class="para-en">“You guys stay here, I’ll go check in,” PJ said. He hesitated a second and then grabbed the cat. He figured if he was going to tell the hotel that the cat was a service animal, it was more believable if he brought the cat with him.</p>
+<p class="para-vi-sub">“Mấy đứa ở lại đây nhé, bố vào làm thủ tục nhận phòng,” PJ nói. Ông chần chừ một giây rồi túm lấy chú mèo. Ông nghĩ nếu mình định nói với nhà nghỉ rằng chú mèo là động vật hỗ trợ, thì việc mang theo chú bên người sẽ có sức thuyết phục hơn.</p>
 
-<p class="para-en">“It’s my money.”</p>
-<p class="para-vi-sub">“Tiền của bố cơ mà.”</p>
+<p class="para-en">PJ walked into the lobby of the Golden Cherry Inn & Suites, where he was met with a mustard-yellow carpet, cherry wallpaper all over the walls, an old couch, a coffee table with a chess game set up on it, and a big fish tank with tropical fish inside. To his left was the reception desk. Two people were leaning against the desk, making out. They were in their thirties probably, the man wearing a leather jacket and the woman in a short white dress. She had bleach-blond hair. It must have been their motorcycle PJ had seen out in the parking lot. They didn’t notice PJ at first; they were too busy sucking face. The cat jumped down from PJ’s arms and began to rub against their legs, snaking in between them. “What the fuck?” the man said, looking down. Hells Angels, the man’s jacket read. “Where did this cat come from?”</p>
+<p class="para-vi-sub">PJ bước vào sảnh của Nhà nghỉ & Căn hộ The Golden Cherry, nơi đập vào mắt ông là tấm thảm màu vàng mù tạt, giấy dán tường họa tiết quả anh đào phủ kín các bức tường, một chiếc ghế dài cũ kỹ, một chiếc bàn cà phê bày sẵn ván cờ vua, cùng một bể cá lớn thả đầy cá nhiệt đới. Bên trái ông là quầy lễ tân. Hai người đang tựa người vào quầy, hôn nhau thắm thiết. Họ chắc ở độ tuổi ba mươi, người đàn ông mặc áo khoác da còn người phụ nữ mặc chiếc váy ngắn màu trắng. Cô ta nhuộm tóc vàng bạch kim. Chắc hẳn đó là chiếc mô-tô của họ mà PJ đã thấy ngoài bãi đỗ xe. Ban đầu họ không để ý đến PJ; họ đang bận mải ngấu nghiến môi nhau. Chú mèo nhảy xuống từ tay PJ và bắt đầu cọ vào chân họ, lượn lách luồn lách qua giữa hai người. “Cái quái gì thế?” người đàn ông vừa nói vừa nhìn xuống. Áo khoác của người đàn ông thêu chữ Hells Angels. “Con mèo này ở đâu chui ra thế?”</p>
 
-<p class="para-en">Sophie shook her head, before she walked off to look at the displays of purses. She just wanted a little time alone to look at beautiful things, and to pretend everything was fine.</p>
-<p class="para-vi-sub">Sophie lắc đầu rồi bước đi để ngắm nhìn các khu trưng bày túi xách. Cô chỉ muốn có một chút thời gian một mình để ngắm nhìn những thứ đẹp đẽ, và để giả vờ rằng mọi chuyện vẫn ổn.</p>
+<p class="para-en">“Sorry,” PJ said. “He gets a little too friendly with strangers.” There had been an incident at a gas station earlier that day where Pancakes had tried to jump into a van of old ladies on a road trip to a bingo convention.</p>
+<p class="para-vi-sub">“Xin lỗi nhé,” PJ nói. “Chú mèo hơi bị thân thiện quá mức với người lạ.” Hôm đó từng xảy ra một sự cố ở trạm xăng khi Pancakes cố nhảy thốc lên một chiếc xe van chở mấy bà cụ đang đi dự đại hội bingo.</p>
 
-<p class="para-en">Away from his daughter, PJ walked around the purse museum, holding the cat in his arms. The woman at the counter said it was fine to bring in the cat, so long as he was leashed. PJ was prepared to be bored in the museum, but the purses were divided up by decade, and his heart seized when he saw the display of purses from the 1950s. He could picture his mother carrying one. The purple velvet one with a silver clasp. PJ’s mother had been dead ten years now, and she could still pop up every now and then in his mind, totally alive. He thought about how proud she would be of him, for traveling the country just like she had. For finally seeing there was more to the world than Pondville. All the fantastic stories his mom used to tell him about her travels at bedtime, cuddled together with their dog, Arthur, a Yorkie-terrier mix, and now he had stories of his own. He felt overwhelming gratitude for these kids, the kids who had gotten him out of the house and onto the road.</p>
-<p class="para-vi-sub">Rời xa con gái, PJ đi một vòng quanh bảo tàng túi xách, ôm chú mèo trên tay. Người phụ nữ ở quầy tiếp tân nói rằng mang mèo vào thì hoàn toàn được, miễn là chú mèo phải được xích lại. PJ vốn chuẩn bị tâm lý là sẽ thấy chán ngắt khi ở trong bảo tàng, nhưng những chiếc ví được phân chia theo từng thập kỷ, và tim ông như thắt lại khi nhìn thấy khu trưng bày ví từ những năm 1950. Ông có thể hình dung ra cảnh mẹ mình đang xách một chiếc như thế. Chiếc ví bằng vải nhung màu tím với chiếc khóa bằng bạc. Mẹ của PJ đã qua đời được mười năm rồi, và bà vẫn thỉnh thoảng xuất hiện trong tâm trí ông, hoàn toàn sống động. Ông nghĩ về việc bà sẽ tự hào biết bao về ông, vì đã đi du lịch khắp đất nước giống như bà từng làm. Vì cuối cùng cũng nhận ra rằng thế giới này rộng lớn hơn Pondville rất nhiều. Tất cả những câu chuyện tuyệt diệu mà mẹ thường kể cho ông nghe về những chuyến đi của bà vào giờ đi ngủ, khi hai mẹ con cuộn tròn bên chú chó Arthur thuộc giống Yorkshire lai của họ, và giờ đây chính ông cũng đã có những câu chuyện của riêng mình. Ông cảm thấy lòng biết ơn ngập tràn dành cho lũ trẻ, những đứa trẻ đã kéo ông ra khỏi ngôi nhà và đưa ông lên những cung đường.</p>
+<p class="para-en">“Come here, pussy cat,” the woman said, and picked up Pancakes. Pancakes liked the nickname, and the Hells Angel liked to see his woman happy. If she liked the cat, he liked the cat.</p>
+<p class="para-vi-sub">“Lại đây nào mèo cưng,” người phụ nữ nói rồi bế thốc Pancakes lên. Pancakes rất thích cái biệt danh đó, và tên trùm Băng mô-tô Hells Angels thích nhìn người phụ nữ của mình hạnh phúc. Nếu cô ấy thích chú mèo, thì anh ta cũng thích chú mèo.</p>
 
-<p class="para-en">“It’s really wonderful for me to do this with you all,” PJ told the kids and the cat once they were back in the car. “I’m sixty-three and I’ve never traveled. Never been anywhere.”</p>
-<p class="para-vi-sub">Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc chú cùng làm điều này với các cháu thật sự rất tuyệt vời. Chú sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”</p>
+<p class="para-en">“Sorry for the PDA,” he said to PJ. “We’re on our honeymoon.”</p>
+<p class="para-vi-sub">“Xin lỗi vì màn âu yếm công khai nhé,” anh ta nói với PJ. “Bọn tôi đang đi hưởng tuần trăng mật.”</p>
 
-<p class="para-en">“What about Vietnam?” Luna asked, as she held Pancakes in her arms. “You’ve been to Vietnam. And you said you’ve already been to Texas before.” They would be in Texas soon, crossing the border from Arkansas. Luna couldn’t wait.</p>
-<p class="para-vi-sub">Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Chú từng đến Việt Nam mà. Và chú cũng bảo là chú từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.</p>
+<p class="para-en">“Oh, congratulations. That’s wonderful. So happy to meet you both at this happy moment.”</p>
+<p class="para-vi-sub">“Ồ, chúc mừng hai cháu nhé. Tuyệt vời thật đấy. Thật hạnh phúc khi được gặp cả hai trong khoảnh khắc tuyệt vời này.”</p>
 
-<p class="para-en">“Yup, Bastrop. But I was stuck at the training camp, didn’t travel around at all. Nothing special about Camp Swift.”</p>
-<p class="para-vi-sub">“Ừ, Bastrop. Nhưng chú bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”</p>
+<p class="para-en">The man smiled and dinged the bell on the desk that came with a little sign that said: Ring bell for service. “We still have to concentrate the marriage before it’s legal.”</p>
+<p class="para-vi-sub">Người đàn ông mỉm cười rồi bấm vào cái chuông đặt trên quầy kèm theo tấm biển nhỏ ghi: Hãy rung chuông nếu cần phục vụ. “Bọn tôi vẫn phải tập trung hoàn thành cuộc hôn nhân trước khi nó có hiệu lực pháp luật.”</p>
 
-<p class="para-en">“What about Vietnam?”</p>
-<p class="para-vi-sub">“Thế còn Việt Nam?”</p>
+<p class="para-en">“It’s consummate, baby,” the woman said, and then smiled at PJ. “I didn’t marry him for his brain.” Then she rang the bell herself, six times in a row. “Who do I have to blow around here to get a room key?” she yelled toward the back.</p>
+<p class="para-vi-sub">“Là động phòng đấy, cưng ạ,” người phụ nữ nói rồi mỉm cười với PJ. “Tôi đâu có cưới anh ta vì trí thông minh.” Đoạn, cô ta tự tay bấm chuông, sáu lần liên tiếp. “Tôi phải thổi kèn cho đứa nào quanh đây thì mới lấy được chìa khóa phòng hả trời?” cô ta hét lớn về phía hành lang phía sau.</p>
 
-<p class="para-en">“Well, I was only there for three weeks before I was shot.”</p>
-<p class="para-vi-sub">“À, chú ở đó vỏn vẹn ba tuần trước khi bị bắn.”</p>
+<p class="para-en">“That would be me,” a man said, coming around the corner. He had a mustache so thin it looked like it had been drawn on, and he had a gold earring in one ear. His name tag said Gregor. “Let’s get you your keys, thanks for your patience,” Gregor said. After a few minutes of paperwork, he handed the couple two plastic key cards. “Upgraded you to the honeymoon suite, Room 101,” he said. “Thanks again for your patience. And I do have to apologize, our pool is broken. The heater is out of whack. Repairman coming tomorrow—”</p>
+<p class="para-vi-sub">“Là tôi đây,” Gregor vừa nói vừa bước ra từ góc khuất. Gregor để kiểu ria mép mỏng dính trông như được vẽ bằng bút chì và đeo một chiếc khuyên tai vàng bên tai trái. Huy hiệu tên của anh ta ghi Gregor. “Để tôi lấy chìa khóa cho anh chị nhé, cảm ơn sự kiên nhẫn của anh chị,” Gregor nói. Sau vài phút làm thủ tục giấy tờ, Gregor trao cho cặp đôi hai chiếc thẻ từ mở phòng. “Đã nâng hạng cho anh chị lên phòng tân hôn, Phòng 101,” Gregor nói. “Cảm ơn sự kiên nhẫn của anh chị một lần nữa. Và tôi cũng phải xin lỗi, bể bơi bên tôi đang bị hỏng. Bộ phận làm ấm nước đang gặp trục trặc, thợ sửa chữa sẽ đến vào ngày mai...”</p>
 
-<p class="para-en">“You were shot? Did it hurt?”</p>
-<p class="para-vi-sub">“Chú bị bắn á? Có đau không ạ?”</p>
+<p class="para-en">But the couple was off down the hall now, groping each other.</p>
+<p class="para-vi-sub">Nhưng cặp đôi đã biến mất dọc hành lang từ lúc nào, vừa đi vừa sờ soạn nhau.</p>
 
-<p class="para-en">“Like a motherfucker.”</p>
-<p class="para-vi-sub">“Đau như cha sinh mẹ đẻ.”</p>
+<p class="para-en">“No worries about the pool,” PJ said. “The kids aren’t swimmers.”</p>
+<p class="para-vi-sub">“Chuyện bể bơi không vấn đề gì đâu,” PJ nói. “Mấy đứa nhỏ nhà tôi không biết bơi.”</p>
 
-<p class="para-en">“Dad!” Sophie scolded, even though she was the one who said the f-word the most.</p>
-<p class="para-vi-sub">Sophie mắng: “Bố!” dù cô mới chính là người hay văng tục nhiều nhất.</p>
+<p class="para-en">“I thought it was just you and the cat.”</p>
+<p class="para-vi-sub">“Tôi cứ tưởng chỉ có ông và chú mèo.”</p>
 
-<p class="para-en">“Who shot you? The enemy?” Ollie asked. “Did you shoot him back?”</p>
-<p class="para-vi-sub">Ollie hỏi: “Ai bắn chú thế? Kẻ địch à? Chú có bắn trả hắn không?”</p>
+<p class="para-en">“No. It’s me and my daughter, and the two kids.”</p>
+<p class="para-vi-sub">“Không. Là tôi đi cùng con gái tôi, và hai đứa trẻ nữa.”</p>
 
-<p class="para-en">“Nope. I looked him in the eye, and I told him I was sorry.”</p>
-<p class="para-vi-sub">“Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”</p>
+<p class="para-en">“Ah,” Gregor said. “Well, I’ve only got one room left. Two queen beds. The couple in front of you took the suite with two rooms.”</p>
+<p class="para-vi-sub">“À,” Gregor nói. “Chà, tôi chỉ còn một phòng trống. Hai giường đôi cỡ lớn. Cặp đôi đứng trước ông đã lấy dãy phòng hai gian rồi.”</p>
 
-<p class="para-en">“Oh.” Ollie was disappointed. “Right, because you were a pacifist.”</p>
-<p class="para-vi-sub">Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì chú là một người theo chủ nghĩa hòa bình.”</p>
+<p class="para-en">PJ was annoyed. The couple did not need two rooms, not when they’d spend the whole night in one bed. “Do you have a cot?”</p>
+<p class="para-vi-sub">PJ cảm thấy bực mình. Cặp đôi đó đâu cần đến hai phòng, nhất là khi họ sẽ dành cả đêm trên cùng một chiếc giường. “Cậu có giường xếp không?”</p>
 
-<p class="para-en">“Well, that. And because the man who shot me was my brother.”</p>
-<p class="para-vi-sub">“À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”</p>
+<p class="para-en">“I’m using our only cot in my office. But I can do a sleeping bag for an extra fifteen.”</p>
+<p class="para-vi-sub">“Tôi đang dùng chiếc giường xếp duy nhất ở văn phòng rồi. Nhưng tôi có thể cho mượn túi ngủ với giá mười lăm đô la phụ thu.”</p>
 
-<p class="para-en">“What?” Luna asked. “Really?”</p>
-<p class="para-vi-sub">Luna ngạc nhiên hỏi: “Gì cơ? Thật ạ?”</p>
+<p class="para-en">PJ wondered if Sophie would be willing to share a bed with him, go half-and-half, but he didn’t think so. That was all right. He could sleep in a sleeping bag for one night; despite his older bones, he slept on the bench by the bogs all the time back in Pondville. And there were no other rooms available; it was a small inn. The price was right, and Gregor seemed fine with the cat. “He’s an assistance animal,” PJ said. “If you were wondering. He tells me if I’m going to have a heart attack.”</p>
+<p class="para-vi-sub">PJ tự hỏi liệu Sophie có chịu ngủ chung giường với mình, chia đôi không gian không, nhưng ông nghĩ là không. Đành vậy cũng chẳng sao. PJ có thể ngủ trong túi ngủ một đêm; dẫu cho xương cốt đã già, ông vẫn ngủ trên chiếc ghế dài cạnh đầm lầy suốt ở Pondville cơ mà. Và chẳng còn phòng nào khác; đây là một nhà trọ nhỏ. Giá cả lại hợp lý, và Gregor có vẻ không phiền hà gì về chú mèo. “Chú ấy là động vật hỗ trợ,” PJ nói. “Nếu cậu thắc mắc. Chú ấy báo cho tôi biết nếu tôi sắp bị cơn đau tim tấn công.”</p>
 
-<p class="para-en">“Our grandpa?” Ollie asked.</p>
-<p class="para-vi-sub">Ollie hỏi: “Ông nội chúng cháu á?”</p>
+<p class="para-en">“As long as he doesn’t smoke in the room.”</p>
+<p class="para-vi-sub">“Miễn là nó không hút thuốc trong phòng.”</p>
 
-<p class="para-en">“Are you sure about this story, Dad?” Sophie asked. Sophie didn’t know this story, or not the version he was about to tell. In the versions of the story she’d heard, it was her dad’s mentally ill friend who shot him, not her dad’s brother, because Sophie hadn’t known about her dad’s brother until a few days ago. Chip Duggins, the crazy old man who owned the bowling alley before it closed. Her uncle. The man who was the grandfather of these kids. “Are you kids sure you want to hear this?”</p>
-<p class="para-vi-sub">Sophie hỏi: “Bố có chắc về câu chuyện này không đấy?” Sophie không hề biết câu chuyện này, hoặc ít ra là không phải phiên bản mà ông sắp kể. Trong những phiên bản câu chuyện mà cô từng nghe, người bắn bố cô là một người bạn mắc bệnh tâm thần của ông, chứ không phải anh trai ông, bởi vì Sophie thậm chí còn chẳng hề biết về người bác của mình cho đến tận vài ngày trước. Chip Duggins, lão già điên sở hữu tiệm chơi bowling trước khi nó đóng cửa. Bác của cô. Người đàn ông vốn là ông nội của những đứa trẻ này. “Các cháu có chắc là mình muốn nghe chuyện này không đấy?”</p>
+<p class="para-en">PJ laughed. Maybe Gregor was all right. Maybe Gregor would be his good friend. “Is there a bar in the hotel?” he asked. “Or somewhere nearby?”</p>
+<p class="para-vi-sub">PJ bật cười. Có lẽ Gregor cũng được đấy chứ. Có lẽ Gregor sẽ trở thành bạn tốt của ông. “Ở khách sạn có quầy bar không?” ông hỏi. “Hoặc chỗ nào gần đây không?”</p>
 
-<p class="para-en">“I do,” Luna said. Her eyes were bright like a hamster’s. “I definitely do. I want to know why Grandpa shot Uncle PJ.”</p>
-<p class="para-vi-sub">Luna đáp: “Cháu muốn chứ.” Đôi mắt cô bé sáng lấp lánh như mắt chuột hamster. “Cháu rất muốn biết tại sao ông nội lại bắn chú PJ.”</p>
+<p class="para-en">Gregor shook his head. “Somewhere is a dry town.”</p>
+<p class="para-vi-sub">Gregor lắc đầu. “Somewhere là một thị trấn cấm đồ có cồn.”</p>
 
-<p class="para-en">“I do if Luna does,” Ollie agreed. “And don’t worry, Sophie. We already knew he was crazy. We lived with him.”</p>
-<p class="para-vi-sub">Ollie đồng tình: “Cháu cũng muốn nghe nếu chị Luna muốn. Và đừng lo, Sophie. Bọn cháu vốn biết ổng điên từ lâu rồi mà. Bọn cháu từng sống chung với ổng cơ mà.”</p>
-
-<p class="para-en">Sophie shrugged. She had tried.</p>
-<p class="para-vi-sub">Sophie nhún vai. Cô đã cố gắng cảnh báo rồi đấy chứ.</p>
-
-<p class="para-en">PJ nodded. He knew these kids liked stories, real stories, good ones. “Well, one day, my brother, Chip, older than me by eleven years, and a commander in the army, he found me in the canteen and told me to run. He shot me twice in the ass when I did. When I was on the ground, he stood over me, and I think was going to kill me, but I said I was sorry, and I loved him, and I was sorry we weren’t real brothers. Chip didn’t know what to do with that, because no man had ever told him he loved him before.”</p>
-<p class="para-vi-sub">PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai chú là Chip, lớn hơn chú mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được chú ở căng tin rồi bảo chú chạy đi. Cậu ta bắn thẳng hai phát vào mông chú lúc chú vừa cắm cổ chạy. Khi chú ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, chú cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng chú lại bảo chú xin lỗi, rằng chú rất yêu quý anh ấy, và chú tiếc vì bọn chú không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”</p>
-
-<p class="para-en">“So, what did he do?”</p>
-<p class="para-vi-sub">“Thế rồi ông ấy làm gì ạ?”</p>
-
-<p class="para-en">“He walked away.”</p>
-<p class="para-vi-sub">“Cậu ta quay lưng bỏ đi.”</p>
-
-<p class="para-en">“Why did he shoot you?”</p>
-<p class="para-vi-sub">“Sao ông ấy lại bắn chú thế ạ?”</p>
-
-<p class="para-en">“Chip hated me all his life, blamed me for the crap deal he got, blamed me that our mother raised me when she’d left him. I always thought my mother never should have come back to Pondville after she’d left the first time, that she should have raised me someplace else, but she’d wanted to try to be in Chip’s life. But Chip was too angry by then, mad at her for leaving. And that anger would only grow with age, morph into putrid hatred. So, when Chip and I both ended up in Vietnam at the same time, in the same camp, and he saw the chance to shoot me, he took it.”</p>
-<p class="para-vi-sub">“Chip căm ghét chú suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu chú, đổ lỗi cho chú vì mẹ đã nuôi dưỡng chú sau khi bỏ rơi cậu ta. Chú vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng chú ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả chú và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn chú, cậu ta liền ra tay.”</p>
-
-<p class="para-en">“Did they put him in jail?”</p>
-<p class="para-vi-sub">“Họ có tống cổ ông ấy vào tù không ạ?”</p>
-
-<p class="para-en">“Nah. They dishonorably discharged him, though. He went to a mental hospital, then he went home to live with my mother.”</p>
-<p class="para-vi-sub">“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”</p>
-
-<p class="para-en">Ollie leaned forward in his seat, straining against the seatbelt. “With your mother? But he hated her! He shot you!”</p>
-<p class="para-vi-sub">Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả chú nữa chứ!”</p>
-
-<p class="para-en">“She was trying to help him out; his father was dead, he had nowhere to live, and I think she felt that because he hadn’t killed me, it was all right. She was trying to make it up to him, for leaving him behind when she did. But then he burnt down her house.”</p>
-<p class="para-vi-sub">“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”</p>
-
-<p class="para-en">Luna remembered the story. Her grandpa had told it to her. How he’d burnt down a house with his mother inside. How he didn’t regret it. How he wasn’t sorry. He had told Luna that story several times, after school. And then he would put on a war movie, one with explosions. He loved war movies with explosions.</p>
-<p class="para-vi-sub">Luna nhớ lại câu chuyện đó. Ông nội đã kể cho cô bé nghe rồi. Chuyện ông đã châm lửa đốt trụi một ngôi nhà mà người mẹ ruột vẫn còn đang kẹt bên trong. Chuyện ông chẳng hề cảm thấy hối hận chút nào. Chuyện ông không một chút ăn năn. Ông đã kể câu chuyện đó cho Luna nghe vài lần, ngay sau những giờ tan học. Và rồi ông sẽ bật một bộ phim chiến tranh lên xem, thể loại phim có ngập tràn những màn cháy nổ tưng bừng. Ông cực kỳ mê phim chiến tranh có nhiều cảnh nổ tung trời.</p>
-
-<p class="para-en">“My mother escaped with third-degree burns all over her body. She was badly disfigured, and in pain for the rest of her life.”</p>
-<p class="para-vi-sub">“Mẹ chú trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”</p>
-
-<p class="para-en">“That’s who caused the fire?” Sophie asked. She’d always heard it was her grandmother’s tenant, someone renting a room. She had been lied to all her life about why her grandma was a burn victim.</p>
-<p class="para-vi-sub">Sophie hỏi: “Hóa ra đó là kẻ đã gây ra vụ hỏa hoạn ư?” Từ trước đến nay cô vẫn luôn nghe kể đó là người thuê nhà của bà ngoại, một kẻ thuê trọ một căn phòng. Cô đã bị lừa dối suốt cả cuộc đời về nguyên nhân thực sự khiến bà ngoại trở thành nạn nhân của vụ bỏng khủng khiếp ấy.</p>
-
-<p class="para-en">“Yup,” PJ confirmed.</p>
-<p class="para-vi-sub">“Chuẩn rồi con,” PJ xác nhận.</p>
-
-<p class="para-en">“I wish you’d shot him back,” Luna said. “In the canteen.”</p>
-<p class="para-vi-sub">Luna lẩm bẩm: “Cháu ước gì chú bắn trả lại hắn. Ngay ở căng tin ấy.”</p>
-
-<p class="para-en">“Yeah, kiddo. Sometimes I wish that too.”</p>
-<p class="para-vi-sub">“Ừ, nhóc con. Lắm lúc chú cũng ước mình làm thế.”</p>
-
-<p class="para-en">“And you came back to Pondville after Vietnam too?” Ollie asked. “And you never left?”</p>
-<p class="para-vi-sub">Ollie hỏi tiếp: “Rồi chú cũng quay lại Pondville sau chiến tranh nữa ạ? Và chú chưa từng rời đi lần nào nữa sao?”</p>
-
-<p class="para-en">“Moved in with a buddy of mine. And then I met Ivy, and we got married, and she got a job, and I got one too. And I vowed never to leave my family like my mom had left hers. I understand why my mom did what she did, but I vowed I would never get a divorce. I would never leave my kids.”</p>
-<p class="para-vi-sub">“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng chú tự hứa với lòng mình sẽ không bao giờ ly hôn. Chú sẽ không bao giờ bỏ rơi các con của mình.”</p>
-
-<p class="para-en">“But you did get a divorce,” Ollie said.</p>
-<p class="para-vi-sub">Ollie vặn lại: “Nhưng chú đã ly hôn còn gì.”</p>
-
-<p class="para-en">“Not my choice.”</p>
-<p class="para-vi-sub">“Đâu phải do chú chọn.”</p>
-
-<p class="para-en">Sophie was annoyed. “Dad, you really can’t act like it’s Mom’s fault you got a divorce—”</p>
-<p class="para-vi-sub">Sophie cảm thấy bực dọc vô cùng. “Bố, bố thực sự không thể cứ ăn nói như thể lỗi ly hôn hoàn toàn thuộc về mẹ được...”</p>
-
-<p class="para-en">“I didn’t say I blamed your mother for leaving me. I would have left me too. But I never wanted a divorce. I would have loved her until the end.”</p>
-<p class="para-vi-sub">“Bố có nói là bố đổ lỗi cho mẹ con vì chuyện bỏ đi đâu. Đổi lại là bố thì bố cũng chuồn ngay từ lâu rồi. Nhưng bố chưa bao giờ muốn ly hôn cả. Bố sẽ yêu bà ấy đến tận hơi thở cuối cùng.”</p>
-
-<p class="para-en">“But then you wouldn’t have gotten a second chance with Michelle Cobb,” Ollie pointed out.</p>
-<p class="para-vi-sub">Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì chú đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”</p>
-
-<p class="para-en">“You’re right,” PJ said. “I wouldn’t have gotten a second chance with Michelle Cobb.”</p>
-<p class="para-vi-sub">PJ đáp: “Cháu nói chuẩn đấy. Chú đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”</p>
-
-<p class="para-en">“And Michelle Cobb is the best thing that will ever happen to you.”</p>
-<p class="para-vi-sub">“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”</p>
-
-<p class="para-en">“Yes, that’s right, Ollie, that’s right.”</p>
-<p class="para-vi-sub">“Đúng thế, chính xác là thế đấy Ollie, chuẩn không cần chỉnh.”</p>
-
-<p class="para-en">“Give me a fucking break,” Sophie muttered.</p>
-<p class="para-vi-sub">Sophie lầm bầm: “Lạy hồn tha cho con mệt quá.”</p>
-
-<p class="para-en">“What?”</p>
-<p class="para-vi-sub">“Gì thế con?”</p>
-
-<p class="para-en">Sophie exploded. “ Mom is the best thing that ever happened to you. She divorced you because she had to, because she needed to take care of me and because you were killing her, but even after that, she stayed your friend even though you’re a jackass. She makes your breakfast every day. Does your shopping. Cuts up your fucking newspaper. She takes care of everything.”</p>
-<p class="para-vi-sub">Sophie bùng nổ. “ Mẹ mới là điều tuyệt vời nhất từng bước chân vào cuộc đời bố. Mẹ ly hôn với bố vì bà buộc phải làm thế, vì bà cần phải chăm sóc con và bởi vì bố đang bức tử tinh thần bà, nhưng ngay cả sau chuyện đó, bà vẫn ở bên làm bạn với bố mặc dù bố đúng là một tên đần độn khốn khiếp. Mẹ pha cà phê bữa sáng cho bố mỗi ngày. Đi chợ mua sắm giùm bố. Cắt dán từng mẩu báo khỉ gió cho bố. Mẹ lo toan hết thảy mọi thứ trên đời.”</p>
-
-<p class="para-en">“Sophie, I know that. Don’t you think I know that? But, Sophie, your mother is getting married again. To my best friend. What am I supposed to do now? Sit on my ass and wait to die?”</p>
-<p class="para-vi-sub">“Sophie, bố thừa biết điều đó chứ. Con tưởng bố không nhận ra chắc? Nhưng mà Sophie này, mẹ con sắp sửa tái hôn rồi đấy. Lại còn lấy bạn thân nhất của bố nữa chứ. Giờ con muốn bố phải làm sao hả? Ngồi ì một đống trên mông rồi chờ chết chắc?”</p>
-
-<p class="para-en">“Yes.”</p>
-<p class="para-vi-sub">“Vâng.”</p>
-
-<p class="para-en">“Oh.” PJ was quiet for a minute. He folded his hands and looked like he was praying.</p>
-<p class="para-vi-sub">“Ồ.” PJ im bặt đi mất một phút. Ông đan chặt hai tay vào nhau trông như đang thành tâm cầu nguyện.</p>
-
-<p class="para-en">“I didn’t mean that.”</p>
-<p class="para-vi-sub">“Con không có ý đấy.”</p>
-
-<p class="para-en">He didn’t answer her.</p>
-<p class="para-vi-sub">Ông chẳng thèm đáp lại cô.</p>
-
-<p class="para-en">“I just meant…I just meant I think you should appreciate Mom and all she’s done for you. Which means not saying another woman is the best thing that ever happened to you.”</p>
-<p class="para-vi-sub">“Ý con chỉ là… ý con là con nghĩ bố nên biết trân trọng mẹ và tất cả những gì mẹ đã làm vì bố. Điều đó đồng nghĩa với việc đừng bao giờ thốt lên rằng một người phụ nữ khác mới là điều tuyệt vời nhất từng xảy ra với cuộc đời bố nữa.”</p>
-
-<p class="para-en">“Okay. Fine. I won’t say it again.”</p>
-<p class="para-vi-sub">“Được rồi. Tùy con. Bố sẽ không nói thế nữa.”</p>
-
-<p class="para-en">“But it might be true,” Ollie pointed out.</p>
-<p class="para-vi-sub">Ollie chêm vào: “Nhưng biết đâu điều đó là thật thì sao ạ.”</p>
-
-<p class="para-en">“Shut up, Ollie,” Sophie said, and instantly regretted it. “I’m sorry, Ollie,” she said. “That was wrong. I’m mad at him, not at you.”</p>
-<p class="para-vi-sub">Sophie quát: “Câm mồm đi Ollie,” và lập tức cảm thấy hối hận ngay khoảnh khắc đó. Cô dịu giọng: “Chị xin lỗi Ollie nhé. Chị không cố ý. Chị đang nổi khùng với ông ấy, chứ có phải với em đâu.”</p>
-
-<p class="para-en">“It’s okay,” Ollie mumbled. “I don’t care.”</p>
-<p class="para-vi-sub">Ollie lẩm bẩm: “Em không sao. Em quan tâm làm gì.”</p>
-
-<p class="para-en">“She didn’t mean it, kiddo,” PJ said. “You talk all you want. Children should be seen and heard, that’s what the social worker said.”</p>
-<p class="para-vi-sub">PJ lên tiếng: “Chị ấy không có ý đó đâu nhóc con. Cứ nói thoải mái đi cháu. Trẻ con là phải được nhìn thấy và được lắng nghe, nhân viên công tác xã hội đã dạy thế mà.”</p>
-
-<p class="para-en">“I said it’s fine,” Ollie said. “Leave me alone.” The cat walked across the backseat and tried to climb in Ollie’s lap, but Ollie pushed Pancakes away.</p>
-<p class="para-vi-sub">Ollie nói: “Cháu bảo không sao cơ mà. Để yên cho cháu.” Chú mèo thong thả bước ngang qua băng ghế sau rồi định trèo lên đùi Ollie, nhưng Ollie liền đẩy Pancakes ra.</p>
-
-<p class="para-en">They drove in silence for a while. Sophie felt terrible.</p>
-<p class="para-vi-sub">Bọn họ cứ thế lái xe trong sự im lặng suốt một hồi lâu. Sophie cảm thấy áy náy khôn tả.</p>
-
-<p class="para-en">After another few miles, Luna leaned forward. “Hey, Sophie?”</p>
-<p class="para-vi-sub">Đi thêm được vài dặm đường nữa, Luna chồm người lên trước. “Này Sophie?”</p>
-
-<p class="para-en">“Yeah?” Sophie waited for Luna to yell at her for being mean to her little brother. She waited for Luna to take out her scissors.</p>
-<p class="para-vi-sub">“Gì thế?” Sophie chờ đợi Luna quát mắng vì dám đối xử thô lỗ với em trai. Cô chờ đợi Luna rút kéo ra.</p>
-
-<p class="para-en">But Luna didn’t say anything about Sophie telling Ollie to shut up. Luna told Ollie to shut up all the time. “I got you a present,” she said instead. “Uncle PJ got French donuts, so I thought you needed something too.”</p>
-<p class="para-vi-sub">Nhưng Luna chẳng nói gì về chuyện Sophie bảo Ollie ngậm miệng lại. Luna vẫn hay bảo Ollie ngậm miệng suốt ngày. “Em mua quà cho chị đấy,” cô bé đáp thay vào đó. “Chú PJ mua bánh beignet rồi, nên em nghĩ chị cũng cần được tặng gì đó.”</p>
-
-<p class="para-en">Sophie sighed. “What did you steal?”</p>
-<p class="para-vi-sub">Sophie thở dài. “Em ăn trộm cái gì thế?”</p>
-
-<p class="para-en">“I didn’t steal it, I bought it.” Luna handed something forward. Sophie kept one hand on the wheel and took what Luna was handing her in the other. She glanced down, and oh, how it glittered! It was a purse; one she’d admired in the museum. They sold a replica of it in the gift shop. It was a rhinestone-encrusted clutch in the shape of a pineapple. The strap was a delicate gold chain.</p>
-<p class="para-vi-sub">“Em có ăn trộm đâu, em mua mà.” Luna chìa thứ gì đó về phía trước. Sophie vẫn đặt một tay lên vô lăng và dùng tay còn lại nhận lấy món quà từ Luna. Cô liếc xuống, chà, nó lấp lánh làm sao! Đó là một chiếc ví; món đồ mà cô từng trầm trồ khiêm tốn ngắm nghía trong viện bảo tàng. Họ có bán bản sao của nó ở cửa hàng lưu niệm. Đó là chiếc ví hình quả dứa đính đá lấp lánh. Quai đeo là một sợi dây xích vàng mảnh mai.</p>
-
-<p class="para-en">Sophie never in a million years would have bought this purse for herself, but now that she had it, it was perfect. It really was. “I love it, Luna,” she said. “I really, really love it. Thank you.”</p>
-<p class="para-vi-sub">Sophie có nằm mơ cũng đời nào tự mua chiếc ví này cho mình, nhưng giờ khi đã cầm nó trong tay, mọi thứ thật hoàn hảo. Đúng thế thật. “Chị rất thích, Luna,” cô nói. “Chị thực sự, thực sự rất thích. Cảm ơn em.”</p>
-
-<p class="para-en">“The lady in the store said that pineapples are a symbol for home,” Luna explained. “I wanted to thank you for taking me home. Home to my real dad, where I am finally going to be happy, because of you.”</p>
-<p class="para-vi-sub">“Bà cô trong cửa hàng bảo rằng quả dứa là biểu tượng cho mái nhà,” Luna giải thích. “Em muốn cảm ơn chị vì đã đưa em về nhà. Về nhà với bố ruột của em, nơi em cuối cùng cũng sẽ được hạnh phúc, tất cả là nhờ chị.”</p>
-
-<p class="para-en">Oh no, Sophie thought. The girl was going to get her heart broken. This man they are going to meet in Texas would break her heart. Sophie didn’t know exactly how he’d do it, but she knew he would.</p>
-<p class="para-vi-sub">Ôi không, Sophie thầm nghĩ. Cô bé sắp bị tổn thương tâm can rồi đây. Người đàn ông mà họ sắp gặp ở Texas sẽ làm trái tim cô bé tan nát. Sophie không rõ chính xác cách ông ta làm điều đó thế nào, nhưng cô biết chắc ông ta sẽ làm vậy.</p>
-
-<p class="para-en">“You bought it with the credit card?” PJ asked. “How much was it?”</p>
-<p class="para-vi-sub">“Cháu mua bằng thẻ tín dụng à?” PJ hỏi. “Nó bao nhiêu tiền thế?”</p>
-
-<p class="para-en">“Two thousand dollars,” Luna said proudly. “The shop lady said the crystals are real.”</p>
-<p class="para-vi-sub">“Hai nghìn đô la,” Luna tự hào đáp. “Bà bán hàng bảo mấy hạt pha lê này là thật đấy.”</p>
-
-<p class="para-en">“Jesus Christ,” PJ said, and put his face in his hands and laughed, then looked up again. “Well, Sophie-Soo, you can’t say I never gave you anything.”</p>
-<p class="para-vi-sub">“Lạy Chúa,” PJ thốt lên, rồi ôm mặt cười nấc lên trước khi ngẩng đầu nhìn lên lần nữa. “Này Sophie-Soo, con không thể nói là bố chưa từng tặng con thứ gì đâu nhé.”</p>
-
-<p class="para-en">“It’s a gift from Luna,” Sophie snapped. She could see the price tag still on the chain. The girl wasn’t lying. It was a $2,000 pineapple purse.</p>
-<p class="para-vi-sub">“Đó là quà từ Luna,” Sophie gắt lên. Cô có thể nhìn thấy chiếc mác giá vẫn còn treo lủng lẳng trên dây xích. Cô bé không hề nói dối. Đó là một chiếc ví hình quả dứa trị giá 2.000 đô la.</p>
+<p class="para-en">“Oh,” PJ said, cursing the whole place.</p>
+<p class="para-vi-sub">“Ồ,” PJ nói, thầm rủa cái xứ sở quái quỷ này.</p>

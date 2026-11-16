@@ -1,7 +1,3 @@
-*Phần I: Tri Thức Cổ Xưa*
+# Bản Đồ Chuyến Đi Xuyên Nước Mỹ
 
-# Pondville, Massachusetts
-
-Pondville, Massachusetts
-
-Mùa xuân năm 2014
+![Bản đồ chuyến đi xuyên nước Mỹ của PJ](images/maps.jpg)

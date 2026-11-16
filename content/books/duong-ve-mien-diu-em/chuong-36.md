@@ -1,55 +1,57 @@
-*Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)*
+*Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm*
 
-# Chương 33
+# Chương 27
 
-Chẳng ai thống nhất được nên nghe thể loại nhạc gì, buồn bã hay sôi động, vừa mừng vì thoát chết nhưng cũng vừa xót xa vì người khác đã bỏ mạng, thế nên cuối cùng Sophie đành bật lại cuộn sách nói luyện thi GRE. Âm thanh đều đều của người đàn ông cứ lải nhải hết từ này đến từ khác mà lẽ ra Sophie phải nắm lòng nếu thực sự tham gia kỳ thi ấy mang lại cảm giác thật dịu nhẹ.
+Họ đã quay trở lại chiếc Volvo Chuồng Chim cùng với một chồng áo len lông alpaca mới mặc vào thì nóng quá mức, và Luna quyết định mình nên hỏi Sophie và chú PJ một vài câu. Cô bé có vài điều cần phải làm cho ra nhẽ trước khi đến Texas và gặp Mark Stackpole. “Chúa có yêu tất cả mọi người không ạ?” cô bé hỏi. “Hay Ngài chỉ yêu một số người thôi?”
 
-Họ lái xe suốt một tiếng đồng hồ trước khi lũ trẻ bắt đầu kêu đói, vậy nên Sophie tạt vào một nhà hàng Cracker Barrel, nơi cô chắc chắn lũ trẻ sẽ thích, kể cả Ollie, cậu bé vẫn luôn tranh thủ đòi ăn McDonald’s vào mọi bữa. Nhưng PJ nói ông không muốn ăn gì cả; ông muốn có chút thời gian riêng tư trong ô tô. Bỏ bữa vốn không phải phong cách của ông, nhất là sau khi đã nhịn bữa sáng, nhưng hôm nay không phải là một buổi sáng bình thường. Sophie hỏi xin thẻ ngân hàng của PJ, và ông ngoan ngoãn đưa tấm thẻ Visa, nhưng ông cũng hỏi liệu mình có thể mượn điện thoại của cô được không.
+Có một khoảng lặng dài trong chiếc Volvo, và Sophie chờ bố trả lời, nhưng ông không nói gì. Ông đang bận đọc cuốn sách hướng dẫn cách sinh tồn trong rừng.
 
-“Để làm gì vậy bố?” Sophie hỏi.
+“Ừm, chị nghĩ đó là ý của ngài ấy,” cuối cùng Sophie cũng lên tiếng. “Có chứ, nếu có Chúa, thì ngài yêu tất cả mọi người.”
 
-“Giải trí,” PJ đáp. Có một vài thứ ông muốn tra cứu trên mạng. Ông muốn xem người ta bàn tán gì về Nhà nghỉ The Golden Cherry, xem đã có tin tức gì trên mạng chưa, liệu những người sống sót có được nhắc tới trên bản tin hay không. Sophie miễn cưỡng đưa điện thoại cho PJ, kèm theo cả chìa khóa xe để ông bật điều hòa, tránh việc trong xe quá nóng cho chú mèo, rồi họ để mặc PJ và Pancakes ở lại một mình trong xe.
+“Còn Chúa Jesus thì sao ạ?”
 
-Ngay khi Sophie và lũ trẻ vừa rời đi, PJ liền bước ra khỏi ghế hành khách và trèo lên ghế lái của chiếc Volvo Chuồng Chim. Chìa khóa vẫn đang cắm trong ổ điện. Đôi tay ông đã đặt lên vô lăng. Ông muốn lái xe lượn vài vòng cho khuây khỏa. PJ vừa cứu mạng tất cả bọn họ khỏi một vụ rò rỉ khí ga; ông hoàn toàn xứng đáng được lái xe. Chỉ quanh quẩn khu phố này thôi. Dù sao đây cũng chẳng phải lần đầu tiên ông lái xe sau tám năm trời, ông từng lái chiếc Volvo của Fred đi mua đồ tạp hóa, ra IKEA và Walmart rồi cơ mà, nhưng hôm nay sẽ khác biệt. Hôm nay ông sẽ chính thức trở thành một tài xế có bằng lái. Gần như thế. Ông vẫn phải đến sở giao thông vận tải. Không biết họ có bắt ông phải thi lái xe lại từ đầu hay không. Vấn đề là PJ đã là một người tự do.
+“Chị nghĩ họ có chung quan điểm. Chị nghĩ họ kiểu như là một người nhưng ở những thân xác khác nhau. Nếu Chúa, ừm, có một thân xác.” Cô thực sự không chuẩn bị tinh thần cho cuộc trò chuyện này. Cô biết Jesus có một thân xác. Chúa thì có không? Sophie không chắc lắm.
 
-Chú mèo đặt chân lên tay PJ.
+“Thế Chúa có yêu những kẻ sát nhân không ạ?”
 
-“Mày không nghĩ tao nên lái chứ?”
+“À, ừm, không, chị không nghĩ ngài yêu những kẻ sát nhân.”
 
-Đừng có làm thế, chú mèo thầm nghĩ.
+“Đó là lý do địa ngục ra đời,” Ollie chêm vào để giảng giải. “Dành cho bọn sát nhân.”
 
-“Mày không tin tưởng tao à?”
+Trái tim Sophie lỡ mất một nhịp. Cô vẫn thấy mình vừa suýt thoát khỏi một thứ gì đó ở Hellsgate, một thứ thực sự tồi tệ.
 
-Ta không tin ông đâu, chú mèo đồng tình.
+“Thế còn những kẻ hay ăn cắp vặt thì sao ạ?” Luna hỏi.
 
-Điện thoại của Sophie bắt đầu đổ chuông từ vị trí đặt trong hộc đựng cốc.
+“Ăn cắp thì không giống như giết người. Nên có chứ. Chúa yêu những kẻ hay ăn cắp vặt.”
 
-Ai gọi thế? chú mèo hỏi.
+“Chị có nghĩ bố mẹ chúng ta đang ở dưới địa ngục không ạ?” Ollie hỏi.
 
-“À, điện thoại của Sophie mà,” PJ nói, “nên chắc mình không nên nghe máy đâu.” Nhưng dòng chữ hiển thị rõ mồn một trên màn hình lại là: SỞ TRẺ EM MASSACHUSETTS. “Mẹ kiếp,” PJ lẩm bẩm khi nhìn thấy dòng chữ đó. “Họ muốn gì cơ chứ?”
+“Không,” Sophie đáp ngay. “Chị không nghĩ họ ở địa ngục đâu.” Mặc dù Sophie đang mặc chiếc áo phông có dòng chữ Satan là bố ruột của tôi , cô không hề thấy thoải mái khi tống bố mẹ của Luna xuống địa ngục.
 
-Điện thoại vẫn tiếp tục đổ chuông, rồi chuyển sang chế độ hộp thư thoại. PJ không hề nhấc máy, nhưng họ đã để lại tin nhắn thoại. Sau một phút chần chừ, PJ quyết định phát đoạn tin nhắn đó lên. Đó là Belinda Bell. Belinda thông báo cho Sophie rằng cô được ghi tên làm người liên hệ khẩn cấp của Paul Halliday, và cô chắc chắn rằng Paul đã kể cho Sophie nghe về hai đứa trẻ đang được ông chăm sóc. Cô cảm thấy lo lắng, bởi cô nghe được từ giáo viên ở trường tiểu học White Rock rằng lũ trẻ không đến lớp, và khi cô ghé qua nhà thì chẳng thấy PJ lẫn lũ trẻ đâu cả, Belinda muốn biết liệu Sophie có liên lạc được với ông hay không.
+“Chú không tin vào điều đó,” PJ đồng tình, cuối cùng cũng ngẩng đầu lên khỏi cuốn sách.
 
-“Mẹ kiếp,” PJ lặp lại. Ông chỉ muốn Belinda Bell và Sở Trẻ em và Gia đình Bang Massachusetts biến quách đi cho khuất mắt. Bọn trẻ bây giờ đang rất vui vẻ. Chúng có cả máy tính bảng iPad. Chúng hoàn toàn an toàn.
+“Không tin vào cái gì cơ ạ?” Luna hỏi.
 
-Ông ấn nút đỏ và xóa luôn tin nhắn thoại trong điện thoại của Sophie. Thế là xong chuyện. Chắc chắn Belinda Bell sẽ không gọi lại lần nữa đâu. Chắc chắn cô ta sẽ bận rộn với những việc khác thôi.
+“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Chú thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”
 
-PJ thay đổi ý định và quyết định sẽ không lái xe nữa. Chưa phải lúc này. Nhất là khi các nhân viên xã hội đang dòm ngó ông.
+“Thế chú PJ tin vào điều gì ạ?” Ollie hỏi.
 
-Alleluia, chú mèo thầm nghĩ.
+PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà chú nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”
 
-Khi Sophie và lũ trẻ bước ra từ quán Cracker Barrel, PJ đã ngồi ngoan ngoãn trở lại ghế hành khách.
+“Kiếp trước bố là con gì thế, bố?” Sophie hỏi, cảm thấy nhẹ nhõm hơn sau khi bố tiếp quản câu chuyện.
 
-“Này chú PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho chú đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.
+PJ vuốt ve chú mèo đang nằm trên đùi mình. “À, bố nghĩ trong kiếp trước của chú ấy , Pancakes từng là một kẻ chăn dê ở Mông Cổ. Và bố tin rằng mình từng là một trong những con dê của chú mèo.”
 
-“Lũ trẻ nhìn thấy món này trong thực đơn,” Sophie nói. “Đây là lời cảm ơn chân thành vì bố đã cứu mạng bọn con đấy.”
+“Một con dê á?” Ollie vừa cười vừa hỏi. “Chú nghĩ mình từng là một con dê á?”
 
-“Chẳng phải bố đã trả tiền bữa ăn rồi sao?”
+“Ừ. Hoặc có lẽ là một con bò Tây Tạng. Nhưng Pancakes và chú đã tìm thấy nhau lần nữa, trong cuộc đời này, và đó là một điều tuyệt vời.”
 
-“Cứ mở ra xem đi bố.”
+Pancakes kêu gừ gừ trước sự quan tâm đó, tỏ vẻ buồn cười khi thấy PJ đang cố gắng tìm hiểu về thế giới bên kia.
 
-“Cháu ăn thử một cái rồi. Ngon lắm chú ạ,” Ollie nói.
+Nhưng Luna gật đầu. Cô bé thích ý tưởng này. “Vậy, kiểu như, bây giờ bố mẹ chúng cháu có thể là loài giun đất.”
 
-PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Chú không nghĩ có ai lại làm điều gì tử tế thế này cho chú đâu. Chưa bao giờ luôn.”
+“Biết đâu đấy,” PJ đồng tình.
 
-Ollie và Luna cười toe toét, còn Sophie đảo mắt ngán ngẩm, nhưng cô vẫn để mặc ông tận hưởng khoảnh khắc ngọt ngào này cùng lũ trẻ.
+“Vâng,” Ollie nói.
+
+Sophie tự hỏi liệu cô hoặc bố có nên gợi ý một loài động vật nào đó uy quyền hơn mà bố mẹ tụi nhỏ có thể tái sinh thành không, nhưng đối với Luna, việc tưởng tượng bố mẹ mình là loài giun đất cũng không đến nỗi nào, còn dễ chịu hơn là tưởng tượng họ bị tra tấn đến muôn đời muôn kiếp, đó là những gì Luna từng nghe thấy trong vài lần bố mẹ dẫn đi nhà thờ. Luna vừa ghét bố mẹ mình, vừa yêu họ, và không muốn họ bị tra tấn đời đời kiếp kiếp. Luna nhắm mắt lại và tưởng tượng cảnh họ đang ăn xà lách trong đống phân ủ của ai đó, cảnh tượng ấy mới bình yên làm sao. Mọi thứ không nhất thiết phải tồi tệ. Luna tự thề với lòng mình sẽ dời những con giun đất khỏi vỉa hè vào lần trời mưa tới.

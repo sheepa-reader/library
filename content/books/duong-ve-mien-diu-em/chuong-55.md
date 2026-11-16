@@ -1,53 +1,103 @@
-*Phần III • Hai Tuần Tiếp Theo*
+*Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy*
 
-# Chương 52
+# Chương 44
 
-Sau khi cúp máy, PJ đi tìm Sophie. Nhân viên ở quầy lễ tân chỉ đường cho ông ra ngoài, và PJ thấy cô đang ngồi trên một chiếc ghế đá cạnh tấm biển đồng của Ed Cobb. Nơi đó trông rất giống chiếc ghế đá tưởng niệm Kate ở quê nhà. PJ nhận ra Sophie vừa khóc xong với đôi mắt đỏ hoe. “Bố ngồi cùng được chứ?” ông hỏi.
+Sophie ngước nhìn tấm bản đồ các trạm dừng dọc theo tuyến xe buýt treo lơ lửng trên đầu. Một danh sách tên các con đường nằm trên một đường thẳng. Freeman St., Pressier Garage, Beechnut SC, HWY 36, Hillside Road. Chẳng cái tên nào trong số đó có ý nghĩa gì với cô cả. Làm sao cô biết được họ đã xuống ở trạm nào chứ? Chẳng có cách nào để đoán được. Có tới hai mươi trạm dừng và chẳng trạm nào trông quen mắt cả.
 
-“Con không cản đâu.”
+Khi chiếc xe buýt tiếp tục lăn bánh, lao đi vùn vụt qua Sugar Land, Sophie nhắm nghiền mắt lại. Trong buổi trị liệu, Blanche từng bảo rằng nếu Sophie cảm thấy quá tải, cô nên nhắm mắt lại và tưởng tượng mình đang ở một nơi nào đó khác. Họ đã từng tập luyện việc này trong văn phòng của Blanche, và Blanche sẽ đánh một tiếng chuông nhỏ khi kết thúc.
 
-“Thế nhé, Sophie.”
+Sophie tưởng tượng cô đang ngồi ở một chiếc bàn dã ngoại, bên bãi biển cạnh một hồ nước. Sophie biết rõ hồ nước đó. Hồ Ossipee. Đó là một ký ức; họ đang đi nghỉ mát ở New Hampshire. Em gái cô cũng ở đó, và mẹ họ đã mang theo những chiếc bánh mì kẹp dài cho bữa trưa mua từ tiệm bánh pizza. Những chiếc bánh mì được gói trong giấy gói thịt màu trắng. Đó là lần đầu tiên Sophie được ăn bánh mì kẹp kiểu Ý, và cô đã tuyên bố với cả bàn rằng khi lớn lên, cô sẽ chỉ ăn mỗi món đó. Những chiếc bánh mì kẹp y như vậy. Thật mặn và ngập dầu làm sao.
 
-“Vâng.”
+Điện thoại của ai đó reo lên, và Sophie mở bừng mắt nhìn không gian xe buýt xung quanh. Cô chẳng thấy bình tĩnh hơn chút nào, và đó cũng chẳng phải một ký ức hữu ích gì. Mọi thứ vẫn tệ hại như trước.
 
-“Bố không thể tin là con đã giấu bố chuyện này.”
+Nhưng chờ đã, lũ trẻ vẫn chưa ăn trưa vào ngày hôm đó. Không có chiếc bánh mì kẹp nào cả. Đã không có thời gian để ghé lại ăn trưa, họ đang vội vã đến buổi giao lưu gặp gỡ người hâm mộ. Đến giờ này, Ollie chắc đang mè nheo đòi ăn, và Luna sẽ phải xoay sở với điều đó. Sophie nhìn qua cửa sổ để xem liệu họ có thể dừng chân ở đâu để ăn uống. Cô cầu nguyện được nhìn thấy những vòm vàng của McDonald’s xuất hiện. Nếu chiếc xe buýt chạy ngang qua một tiệm McDonald’s, đó chắc chắn là nơi bọn trẻ đã tới. Ollie sẽ nằng nặc đòi vào, và Luna sẽ phải nhượng bộ để bắt cậu bé ngậm miệng lại.
 
-Sophie biết điều gì sắp xảy ra, và cô chờ đợi màn cằn nhằn khó ưa của bố về việc lẽ ra ông phải là người đầu tiên biết bất kỳ tin tức y tế nào về vợ cũ của mình. Chờ đợi ông nói rằng ông không thể tin mình lại bị gạt ra ngoài lề, rằng ông mới là người chồng đầu tiên của bà, và có phải mọi người đã quên tiệt sự tồn tại của ông rồi không? Sophie không thể chịu nổi điều đó. Mặc dù PJ vẫn đang hồi phục sau vụ bị xe tông, cô hoàn toàn có thể đấm thẳng vào đầu ông.
+Bên ngoài xe buýt, trời bắt đầu đổ mưa.
 
-“Bố không thể tin là con đã phải tự mình gánh vác mọi chuyện từng ấy thời gian. Sophie, chắc hẳn điều đó rất khó khăn phải không con?” ông nói, thay vì thốt ra tất cả những điều mà cô nghĩ bố sẽ nói. “Con đã rất dũng cảm khi vừa phải chăm lo cho Ollie và Luna, vừa phải đối phó với bố trong lúc bản thân cũng đang gánh chịu chuyện này. Con là một người cực kỳ mạnh mẽ. Dũng cảm lắm. Con đã rất dũng cảm.”
+“Ôi không,” PJ nói. “Bọn trẻ sẽ bị ướt và khốn khổ mất.”
 
-Sophie buông lỏng bàn tay đang nắm chặt, thả lỏng hàm. Cô ngạc nhiên khi nghe được những điều mình đang rất cần từ PJ. Nghe được rằng bản thân không hề đáng bị mặc định phải tự mình xoay xở mọi thứ. Sophie đã bị bỏ lại phía sau trong khi Fred và Ivy có nhau, và cô đã cô độc biết bao. Cô đã phải gồng mình chống chọi và cô độc, và cô có quyền tự hào về bản thân. Sophie sụt sùi. “Con rất muốn nói cho bố biết,” cô nói, bởi vì cô thực sự muốn thế. Giá mà có ai đó để cùng trò chuyện về chuyện này thì thật tốt biết mấy.
+Nếu lũ trẻ có bị ướt và khốn khổ, Sophie thầm nghĩ, thì ít ra chúng vẫn còn sống.
 
-“Bố hiểu tại sao con lại không nói.”
+Không, đừng nghĩ thế chứ, Sophie tự tranh luận với chính mình. Đương nhiên là chúng còn sống rồi. Lần này không giống như mọi khi, khi cô đi tìm bố mình. Chúng còn khỏe mạnh, còn trẻ và thực chất đâu có bị bắt cóc. Chúng biết cách dùng vạch sang đường để qua đường an toàn. Luna đã đúng ngay vào ngày đầu tiên của chuyến đi đường dài ấy: Chúng đâu phải lũ trẻ sơ sinh. Chúng có thể tự chăm sóc bản thân. Ít nhất là trong một khoảng thời gian ngắn, chúng có thể tự lo cho mình. Cuối cùng thì chuyện tồi tệ rồi cũng sẽ xảy ra với chúng thôi, nhưng Sophie chắc chắn là chưa có chuyện gì tồi tệ xảy ra lúc này cả. Cô và bố chỉ cần tìm thấy bọn trẻ trước khi điều đó kịp xảy ra.
 
-“Cảm ơn bố.”
+Xe buýt dừng lại, nhưng chẳng có tiệm McDonald’s nào trong tầm mắt. Xung quanh cũng chẳng có nhà hàng nào khác; đây chỉ là một khu dân cư.
 
-“Ngày mai chúng ta sẽ về nhà. Mẹ con sẽ cần có con bên cạnh.”
+“Xuống đây à con?” PJ hỏi.
 
-“Mẹ cũng cần có bố nữa, bố ạ. Đó là lý do mẹ bảo chú Fred gọi cho bố.”
+Sophie lắc đầu nguầy nguậy và tiếp tục dán mắt ra ngoài cửa sổ. Một người bà và một đứa trẻ nhỏ chuẩn bị bước lên xe, nhưng đứa trẻ đang cầm một chiếc ô mở tung và nhất quyết không chịu để bà gấp lại, mặc dù người bà cố gắng giải thích rằng một trong các nan hoa bằng kim loại có thể chọc mù mắt ai đó. Cô bé chỉ mới khoảng ba tuổi và chẳng thèm quan tâm đến mắt mũi của ai cả. Cô bé chỉ quan tâm đến việc được cầm một chiếc ô đang mở.
 
-“Bố không chắc lắm đâu. Bố không thể tưởng tượng nổi mẹ con sẽ cần đến bố để làm gì, sau tất cả những chuyện bố đã gây ra cho bà ấy.”
+“KHÔNG SAO ĐÂU THƯA BÀ,” tài xế xe buýt cất giọng cực lớn. “CỨ LÊN XE ĐI. AI MÀ KHÔNG TRẢI QUA CHUYỆN ĐÓ RỒI.”
 
-Sophie không đáp lại câu đó. Cô không muốn làm PJ tổn thương thêm nữa khi bản thân ông cũng đang đau đớn. Sophie biết bố yêu mẹ biết nhường nào, và ông vẫn luôn như thế. Có rất nhiều điều Sophie từng không chắc chắn, nhưng riêng điều đó thì cô luôn luôn biết rõ.
+Chiếc xe buýt đã chật kín hành khách, thế là PJ đứng dậy nhường ghế cho hai bà cháu.
 
-Thế là thay vì nói chuyện, họ cứ thế ngồi lặng yên, lắng nghe tiếng chim chóc. Ngay cả ở Tucson, giữa vùng sa mạc khô cằn này, vẫn có những loài chim sinh sống. Chim chóc chính là minh chứng cho sự sống. PJ có thể hiểu tại sao Fred lại yêu loài chim đến vậy. Sophie tựa đầu lên vai PJ.
+“Đúng là một người đàn ông lịch thiệp,” người phụ nữ mỉm cười nói. “Nói cảm ơn chú lịch thiệp đi con, Abby.”
 
-“Bố nghĩ đó là lỗi của chúng ta không?” cuối cùng cô cất lời hỏi ông. “Việc mẹ mắc bệnh ung thư não ấy? Do căng thẳng ư?” Sophie đã tra cứu Google rất nhiều lần về vấn đề này, và câu trả lời lúc nào cũng giống nhau: Mặc dù căng thẳng có thể gây ra nhiều vấn đề sức khỏe, bao gồm huyết áp cao, bệnh tim và trầm cảm, nhưng không có bằng chứng thuyết phục nào chứng minh rằng căng thẳng gây ra ung thư não.
+Abby chẳng nói gì cả. Nhưng Abby lúc này lại đang ngồi ngay cạnh Sophie, và chiếc ô đang mở của cô bé cứ chình ình ngay trước mặt Sophie. Sophie không muốn đứng dậy nhường ghế của mình, vì cô cần phải nhìn ra ngoài cửa sổ để tìm tiệm McDonald’s, nhưng giờ thì cô lại bị kẹt cứng với một chiếc ô mở toang ngay trước mặt. Cứ như thể mọi chuyện chưa đủ khốn nạn rồi ấy, Sophie thầm nghĩ.
 
-“Chà, đó là một suy nghĩ vô cùng tăm tối đấy,” PJ nói, vừa ngẫm nghĩ vừa đáp. “Nhưng không đâu, Sophie. Bố không nghĩ mẹ con mắc ung thư não là vì con đâu. Tính theo lượng căng thẳng mà con gây ra cho bà ấy, con cũng đồng thời mang lại cho bà ấy chừng ấy tình yêu thương và niềm vui. Thậm chí là nhiều tình yêu và niềm vui hơn thế rất nhiều.”
+Có lẽ cô nên cầu nguyện với ai đó để tìm thấy lũ trẻ, tìm thấy chúng bình an vô sự, nhưng cô chẳng có mối liên hệ nào mấy với Chúa hay Chúa Jesus hay bất kỳ vị nào trong số đó cả. Nhưng có lẽ cô có thể cầu nguyện với Kate. Thỉnh thoảng cô vẫn hay nói chuyện với Kate, khi cô ở một mình và chẳng có ai khác để trò chuyện. Sẽ thật tuyệt làm sao nếu có một người chị em gái. Một người có thể cùng cô oán thán về người bố ngốc nghếch của họ. Làm ơn, Sophie thầm nghĩ. Làm ơn, Kate, hãy giúp em lúc này. Giúp em cứu lấy lũ trẻ đi. Chúng đang sợ hãi và đang giận bố lắm... chị còn nhớ cảm giác khi giận bố là thế nào không? Việc bố chẳng bao giờ chịu lắng nghe và luôn làm bất cứ điều gì mình muốn ấy? Việc bố nghĩ mình hài hước lắm sao? Việc mọi người đều yêu quý bố, nhưng chẳng ai biết được cảm giác khi có một người bố như vậy là thế nào, người mà lẽ ra chị phải dựa vào nhưng lại chẳng thể dựa vào nổi?
 
-“Nghe lọt tai phết đấy, bố,” Sophie nói, và cô hy vọng điều đó là sự thật.
+“Tớ nhớ chứ,” cô bé cầm ô nói, rõ mồn một như ban ngày, Sophie thề là cô đã nghe thấy cô bé nói thế, và một luồng lạnh sống lưng chạy dọc sống lưng cô. Nhớ là một từ quá lớn đối với một đứa trẻ lên ba, nhưng Sophie chắc chắn cô bé đã thốt ra từ đó.
 
-Họ lại im lặng trong chốc lát.
+“Thật á?” cô hỏi cô bé. “Cháu nhớ thật à?”
 
-“Bố cá là mẹ sẽ rất tự hào về bố vì đã cai được rượu đấy,” PJ nói. Trong mười hai ngày họ ở Tender Hearts, PJ ngày nào cũng tham gia các buổi sinh hoạt của nhóm cai rượu AA.
+Nhưng cô bé chẳng thèm trả lời. Thay vào đó, cô bé đang ngoáy mũi.
 
-“Đương nhiên là mẹ sẽ tự hào rồi. Ai mà chẳng tự hào về bố vì điều đó chứ.”
+“Abby, con nhớ lúc đi xe buýt không?” người bà của cô bé hỏi.
 
-“Cảm ơn con, Sophie. Bố đã không thể làm được điều đó nếu thiếu con.” Và cuối cùng PJ cũng tin rằng mình có thể duy trì được lối sống không rượu chè. Ông đã tham gia nhóm AA, và ông có một câu chuyện về hành trình cai rượu, một câu chuyện mà ông rất thích kể. Nó liên quan đến hai đứa trẻ mồ côi, một con cá sấu, một vụ rò rỉ khí ga, và chuyến lái xe xuyên quốc gia trong tâm trạng tưởng rằng mình đang yêu chính em gái mình. Đó là một câu chuyện dài, nhưng cuối cùng, PJ nhận ra rằng ông phải giữ mình tỉnh táo vì lũ trẻ, và trên thế giới này chẳng có người phụ nữ nào dành cho ông ngoài người vợ cũ. Ông sẽ chẳng bao giờ có thể bước tiếp khỏi Ivy, không bao giờ thực sự quên được. Bà là tình yêu của đời ông, và mãi mãi sẽ là như vậy.
+“Mẹ kiếp,” PJ lẩm bẩm, vừa vỗ vào các túi quần hộp của mình. “Mẹ kiếp. Khỉ thật. Mẹ kiếp.”
 
-“Bố không thể tin nổi là mẹ con lại ra đi trước bố,” PJ nói. “Thật là bất công quá sức.”
+Sophie quay đi chỗ khác, không dám nhìn cô bé nữa vì cảm thấy ngượng ngùng khi có cả người bà xen vào, rồi cô ngước lên nhìn bố. “Giờ sao nữa?”
 
-“Vâng,” Sophie đồng tình. “Đúng vậy thật.”
+“Cái nhẫn. Nó biến mất rồi.”
 
-Pancakes theo dõi PJ và Sophie từ trên cao. Chú mèo đang ngồi trên mái khu lăng mộ, đậu chễm chệ ở đó để có thể rình bắt đám chim chích xương rồng đang hót líu lo gần đó. Pancakes cảm thấy buồn cười trước hai con người ngốc nghếch này, cứ ngồi bàn tán về chuyện cái chết bất công ra sao, trong khi đó lại là một trong số ít những điều mà ai rồi cũng sẽ nhận được. Chết là một phát minh vĩ đại, Pancakes biết rõ điều đó, bởi chính sự phù du của cuộc đời mới là thứ tạo nên vẻ đẹp của nó.
+“Nhẫn nào?”
+
+“Bố để một chiếc nhẫn trong túi áo.”
+
+“Nhẫn gì cơ?”
+
+“Bố cho mấy đứa nhỏ xem một tối. Đêm chúng ta xem bộ phim về mấy con cá voi sát thủ ấy. Chúng hào hứng lắm. Hào hứng chuyện bố sẽ cầu hôn Michelle.”
+
+“Bố mua nhẫn cho Michelle Cobb á?”
+
+“Không, không, không. Bố không mua. Hoặc là bố có mua, từ đời tám hoánh nào rồi. Chắc con bé Luna sẽ mang ra hiệu cầm đồ để bán lấy tiền mặt mất.”
+
+Sophie thừa hiểu bố đã lấy chiếc nhẫn đó từ đâu, và đôi mắt cô lại sắc lẹm như tia laser quen thuộc. “Bố lấy trộm nhẫn đính hôn cũ của mẹ để đem cho người phụ nữ khác á?”
+
+“Bà ấy có dùng đến nữa đâu.”
+
+“Bố ích kỷ vãi đái thật đấy, bố ạ. Sao lại có thể ích kỷ vô lối thế cơ chứ. Bố không thể đem nhẫn đính hôn của mẹ cho người phụ nữ khác được. Đó là của mẹ. Là của mẹ con. Những ký ức đó rất quan trọng với mẹ. Quan trọng với cả con nữa.”
+
+“Làm ơn chú ý ngôn từ,” người bà của đứa trẻ cầm ô lên tiếng nhắc nhở.
+
+“Tôi xin lỗi,” PJ nói. “Tôi không nghĩ là hai người lại để tâm. Mẹ con bé có đeo nó bao giờ đâu. Chưa bao giờ đeo luôn.”
+
+“Bởi vì bố mẹ ly hôn rồi còn gì. Nhưng đó là của mẹ, bố ạ. Bố đừng hòng lấy thêm bất cứ thứ gì từ mẹ nữa. Mẹ đã cho bố quá nhiều rồi. Mẹ đã dâng hiến tất cả những gì mình có cho bố, và đôi khi con nghĩ... con nghĩ việc cứ phải loay hoay chăm sóc bố từng ấy năm trời đã làm tổn thương mẹ. Mẹ đã phải trải qua quãng đời quá dài trong căng thẳng.”
+
+“Bố nghi là ở Alaska thì chẳng có gì mà căng thẳng.”
+
+“Chắc chắn là có đấy, bố. Mẹ thế nào cũng đang căng thẳng chết đi được vì lo lắng không biết bố đã gây ra đống rắc rối tày đình gì ở nhà rồi. Mà đúng là thế thật! Bố đã đẩy chúng ta vào một đống rắc rối khốn nạn thật rồi đấy!”
+
+Bà của đứa trẻ cầm ô đứng phắt dậy và nói gì đó với tài xế xe buýt.
+
+“HAI NGƯỜI KIA!” tài xế gào lên với người ở cuối xe. Giọng oang oang thế thì thừa sức đi thi hát opera. “HAI NGƯỜI XUỐNG Ở TRẠM TIẾP THEO NHANH LÊN! TRÊN XE TÔI KHÔNG CÓ NÓI TỤC BẬY GÌ SẤT!”
+
+“Trạm tiếp theo là ở đâu thế?” PJ hỏi.
+
+“TRUNG TÂM MUA SẮM!”
+
+“Trung tâm mua sắm á?” Sophie lặp lại. Trên bản đồ, trạm dừng đó có tên là Beechnut SC, một cái tên chẳng gợi lên chút ý nghĩa nào với Sophie, một kẻ xa lạ ở Sugar Land, hoàn toàn mù tịt chuyện chữ SC viết tắt cho cụm từ trung tâm mua sắm. Nhưng ở trung tâm mua sắm thì có đồ ăn nhanh cho Ollie. Mấy hiệu cầm đồ thường chẳng mọc ở trung tâm mua sắm, nhưng Luna chắc mẩm có thể bán chiếc nhẫn cho bất kỳ cửa hàng trang sức nào trong đó. Cô bé có khi đã bước thẳng đến quầy giao dịch ở Zales và hỏi nhân viên xem họ mua lại với giá bao nhiêu. Biết đâu Zales lại mua thật, biết đâu họ có chương trình thu mua vàng, khối cửa hàng trang sức vẫn làm thế mà. Và rồi lũ trẻ sẽ có thêm tiền để tiếp tục bỏ trốn. Chết tiệt, nhỡ chúng có đủ tiền để chạy trốn tiếp thì sao? Nếu chúng rời khỏi Sugar Land, việc tìm kiếm sẽ là bất khả thi nếu không nhờ cảnh sát. Thật vô vọng. Chắc chắn là vô vọng lắm rồi còn gì.
+
+Ngay lúc đó, điện thoại Sophie reo lên một tiếng. Chào chị. Zander đây! tin nhắn hiện lên. Có người vừa nhìn thấy! Bạn em thấy một cậu nhóc mặc áo thun hình chai sốt cà chua đang nôn ọe bên ngoài khu vui chơi bạt nhún.
+
+Sophie há hốc mồm. Khu vui chơi bạt nhún nào? cô nhắn lại ngay lập tức.
+
+Chiếc xe buýt trờ tới trạm dừng tiếp theo và khựng lại với tiếng rít chói tai. “XUỐNG XE ĐI LŨ ĐẦN ĐỘN NÀY,” tài xế quát.
+
+Sophie khựng lại, chờ Zander trả lời. Nếu khu vui chơi bạt nhún đó nằm ở một nơi nào khác tại Sugar Land, một trạm dừng xa hơn trên tuyến đường này, có lẽ cô có thể van xin tài xế xe buýt và người bà ôm ô hình quả dưa hấu cho họ tiếp tục ở lại trên xe. Họ không thể lãng phí thêm chút thời gian nào nữa, nhất là khi đã biết Ollie đang ở đâu, hoặc gần đây từng xuất hiện ở đâu. Đứng còng lưng nôn mửa bên ngoài khu vui chơi bạt nhún cơ chứ. Chắc chắn cậu bé đã nhún nhảy trên mấy tấm bạt ngay sau khi ăn xong. Luna hẳn đã hứa hẹn sẽ cho em ăn McDonald’s và chơi bạt nhún nếu chịu đi cùng. “Nào Zander, trả lời tôi đi chứ,” Sophie vừa lẩm bẩm vừa dán mắt vào màn hình điện thoại trong lúc tài xế đang chờ cô dắt hành lý xuống. Bố cô đã xuống xe từ đời nào, đang đứng cầm vali dưới làn mưa.
+
+“Nhanh lên, nhanh lên, nhanh lên,” cô van vỉ khi ba dấu chấm hiện lên cho thấy Zander đang gõ phản hồi.
+
+Khu vui chơi bạt nhún FunTime, Zander viết. Nằm trong Trung tâm thương mại Beechnut Galleria.
+
+Sophie vội vớ lấy chiếc vali, nhưng trước khi nhảy xuống xe buýt, cô liếc nhìn lần cuối về phía cô bé cầm ô hình quả dưa hấu, đứa nhóc suýt thì chọc mù mắt cô bằng mấy nan ô. Cô từng nghe người ta bảo lũ trẻ con đôi khi đúng là thế thật, chúng có thể nhìn thấy hồn ma và đọc được suy nghĩ. Nhưng lúc này Sophie không có thời gian để giao tiếp với Kate thông qua một đứa trẻ đồng cốt. Cô còn những đứa trẻ bằng xương bằng thịt đang cần tìm kiếm.

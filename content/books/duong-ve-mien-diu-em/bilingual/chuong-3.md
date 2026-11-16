@@ -1,9 +1,6 @@
-*Phần I: Tri Thức Cổ Xưa*
+# Bản Đồ Chuyến Đi Xuyên Nước Mỹ
 
-# Pondville, Massachusetts
+![Bản đồ chuyến đi xuyên nước Mỹ của PJ](images/maps.jpg)
 
-<p class="para-en">Pondville, Massachusetts</p>
-<p class="para-vi-sub">Pondville, Massachusetts</p>
-
-<p class="para-en">Spring 2014</p>
-<p class="para-vi-sub">Mùa xuân năm 2014</p>
+<p class="para-en">PJ’s Cross-Country Road Trip Map</p>
+<p class="para-vi-sub">Bản đồ chuyến đi xuyên nước Mỹ của PJ và các cháu</p>

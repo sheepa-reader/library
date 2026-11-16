@@ -1,141 +1,93 @@
-*Phần II: Rời Pondville • Ngày 2 (Thứ Tư)*
+*Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba*
 
-# Chương 19
+# Chương 15
 
-<p class="para-en">Sophie had woken up next to many strange men in her life, but never once next to an old woman. The woman on the pillow next to her had gray hair and a pink silk sleeping mask. “What the fuck,” Sophie said. “Who are you?”</p>
-<p class="para-vi-sub">Sophie đã thức dậy bên cạnh rất nhiều người đàn ông lạ trong đời, nhưng chưa từng có lần nào ở cạnh một bà lão. Người phụ nữ nằm trên chiếc gối bên cạnh cô có mái tóc xám và chiếc bịt mắt ngủ bằng lụa màu hồng. Sophie nói: “Quái quỷ thật. Bà là ai?”</p>
+<p class="para-en">There was a sign up ahead for the visitor center at Niagara Falls. “We made it,” PJ said when Sophie poked him awake. “We’re really here.”</p>
+<p class="para-vi-sub">Có một tấm biển báo chỉ đường phía trước dẫn đến trung tâm du khách ở Thác Niagara. “Chúng ta đến nơi rồi,” PJ nói khi Sophie khều đánh thức ông. “Chúng ta thực sự tới đây rồi.”</p>
 
-<p class="para-en">In the other bed, her father sat up. “Oh, Sophie, don’t be rude. That’s Edith.”</p>
-<p class="para-vi-sub">Trên chiếc giường bên kia, PJ ngồi dậy. “Ối, Sophie, đừng có hỗn. Đó là Edith.”</p>
+<p class="para-en">“Yup,” Sophie agreed. She had driven a long way by herself, with her dad and the kids all sleeping. Even when she’d stopped for gas, they hadn’t woken up. She’d turned off Björk and downloaded an audiobook on her phone: 100,000 Words You Might Need to Know for the GRE and played it over the speakers in the car. She might as well use the time productively, she figured, and if she was really going to apply to graduate school like Fred wanted her to, she would need to take the GRE. On the GRE-prep audiobook, a man first read the word, the definition, and then used it in a sentence. “Epicure,” the man droned over the speaker. “A person with fine tastes, especially in food or wine.”</p>
+<p class="para-vi-sub">“Vâng,” Sophie đồng tình. Cô tự mình lái xe suốt chặng đường dài trong lúc bố và lũ trẻ đều đang ngủ say. Ngay cả khi cô dừng lại để đổ xăng, chúng cũng chẳng màng tỉnh giấc. Cô đã tắt nhạc của Björk và tải một cuốn sách nói trên điện thoại: 100.000 Từ Vựng Bạn Có Thể Cần Dùng Cho Kỳ Thi GRE rồi phát qua hệ thống loa trên xe. Cô nghĩ thà tận dụng thời gian cho có ích còn hơn, và nếu cô thực sự định nộp đơn vào trường cao học theo ý Fred muốn, cô sẽ cần phải thi GRE. Trên cuốn sách nói luyện thi GRE, một người đàn ông đọc từ vựng trước, tiếp đến là định nghĩa, rồi dùng từ đó trong một câu ví dụ. “Epicure,” giọng người đàn ông vang lên đều đều qua loa. “Một người có gu thưởng thức tinh tế, đặc biệt là về đồ ăn hoặc thức uống.”</p>
 
-<p class="para-en">The woman lifted her eye mask. “Edna,” she said. “Edna Gardner, owner of this hotel. And you’ve got a sailor’s mouth.”</p>
-<p class="para-vi-sub">Người phụ nữ kéo chiếc bịt mắt lên. Edna nói: “Edna Gardner, chủ của khách sạn này. Và cái miệng của cô thì thô như thủy thủ ấy.”</p>
+<p class="para-en">PJ heard the word wine, and even though he was a beer and hard-liquor guy, he wanted a drink, and he’d take a wine. It was getting to be the time of day when it was the hardest not to drink. He wished he hadn’t told Sophie he’d stopped drinking. That had been a mistake. Now she would be spying on him, all the time. He wondered how much longer he could hold out. It had been thirty-one days since his last drink. Since Fred and Ivy had left. He had made it to the one-month mark, somehow. He almost wished he’d been going to AA so they would give him the prize of the thirty-day gold coin. He would like a prize for making it this far.</p>
+<p class="para-vi-sub">PJ nghe thấy từ thức uống, và mặc dù ông là một tín đồ của bia và rượu mạnh, ông vẫn thèm một ly, và ông sẵn sàng chấp nhận một ly rượu vang. Đang là thời điểm trong ngày mà việc nhịn uống trở nên khó khăn nhất. Ông ước gì mình đã không nói với Sophie rằng ông đã bỏ rượu. Đó là một sai lầm. Giờ thì cô sẽ kè kè theo dõi ông suốt. Ông tự hỏi mình có thể trụ được bao lâu nữa. Đã ba mươi mốt ngày trôi qua kể từ ngụm rượu cuối cùng của ông. Kể từ khi Fred và Ivy rời đi. Không hiểu sao ông đã kiên trì được đến mốc một tháng. Ông gần như ước gì mình đã tham gia chương trình cai rượu ẩn danh để họ trao cho chiếc huy hiệu vàng đánh dấu mốc ba mươi ngày. Ông rất muốn nhận được một phần thưởng vì đã đi được chặng đường xa đến thế này.</p>
 
-<p class="para-en">“Dad!” Sophie said, getting out of bed to hit him with a pillow over and over. “When I was in the room? Are you crazy? Are you out of your fucking mind?”</p>
-<p class="para-vi-sub">Sophie vừa nói vừa bước xuống giường vớ lấy chiếc gối đập liên hồi vào người PJ: “Bố! Khi con còn ở trong phòng? Bố điên rồi à? Bố mất trí thật rồi phải không?”</p>
+<p class="para-en">“We’re here?” Ollie said in the back, sounding groggy. “Luna, wake up, we’re here.”</p>
+<p class="para-vi-sub">“Chúng ta đến nơi rồi sao?” Ollie nói ở hàng ghế sau với giọng ngái ngủ. “Luna, dậy đi, chúng ta tới rồi.”</p>
 
-<p class="para-en">“Oh, Sophie-Soo, you could sleep through a freight train.”</p>
-<p class="para-vi-sub">“Ối dào, Sophie-Soo, con có thể ngủ say như chết ngay cả khi có một đoàn tàu hỏa chạy qua.”</p>
+<p class="para-en">“We’re here?” Luna wiped her eyes.</p>
+<p class="para-vi-sub">“Đến nơi rồi á?” Luna dụi mắt.</p>
 
-<p class="para-en">“Oh my God. I need a shower. I need a long shower.”</p>
-<p class="para-vi-sub">“Ôi Chúa ơi. Con cần đi tắm. Con cần tắm một trận thật lâu.”</p>
+<p class="para-en">They were in the parking lot. It cost ten dollars to park, which seemed like highway robbery to PJ. They all got out of the car. PJ held the cat in his arms, buckled his leash into the loop on his harness. The leash said #1 pup in stitched white lettering. PJ put the cat down, and the cat acted like he’d been walking on a leash all his life. “A superb traveling companion,” PJ declared.</p>
+<p class="para-vi-sub">Họ đang ở trong bãi đậu xe. Phí đậu xe là mười đô la, điều này khiến PJ thấy giống như ăn cướp ban ngày vậy. Tất cả bước xuống xe. PJ bồng chú mèo trên tay, cài dây dắt vào vòng đai trên người chú. Chiếc dây dắt có thêu chữ #1 pup bằng chỉ trắng. PJ thả chú mèo xuống, và chú tỏ ra cứ như thể mình đã quen đi dạo bằng dây dắt suốt cả cuộc đời vậy. “Một bạn đồng hành tuyệt vời trên đường đi,” PJ lớn tiếng tuyên bố.</p>
 
-<p class="para-en">“Don’t worry, honey,” Edna said. “He’s messing with you. We had our fun in the Presidential Suite. But your father wanted to be here when the kids woke up. He has a kind heart. And then, well, I guess I got back in the wrong bed after I got up to use the bathroom in the night. I don’t see so well in the dark.”</p>
-<p class="para-vi-sub">“Đừng lo, cưng à,” Edna nói. “Ông ấy đang đùa con đấy. Bọn ta đã có khoảng thời gian vui vẻ ở Phòng Tổng thống. Nhưng bố con muốn có mặt ở đây khi bọn trẻ thức giấc. Ông ấy là người có trái tim nhân hậu. Và rồi, ừm, ta đoán là mình đã trèo nhầm giường sau khi thức dậy đi vệ sinh vào ban đêm. Mắt ta nhìn không rõ lắm trong bóng tối.”</p>
+<p class="para-en">At the edge of the parking lot, near the visitor center, a man in a green vest was smiling at them and blocking the path. Ask me about The Maid of the Mist, read a yellow button pin on his chest. “Hello, folks,” he said. “Here to throw that cat over the falls?”</p>
+<p class="para-vi-sub">Ởrìa bãi đậu xe, gần trung tâm du khách, một người đàn ông mặc áo vest xanh lá đang mỉm cười với họ và chắn ngang lối đi. Hãy hỏi tôi về du thuyền Maid of the Mist, dòng chữ trên chiếc huy hiệu cài ngực màu vàng của anh ta viết thế. “Chào mọi người,” anh ta nói. “Đến đây để ném con mèo đó xuống thác nước à?”</p>
 
-<p class="para-en">Sophie hit her dad with a pillow again.</p>
-<p class="para-vi-sub">Sophie lại ném gối nện vào người PJ.</p>
+<p class="para-en">“Excuse me?” PJ asked. He bent over to pick up Pancakes.</p>
+<p class="para-vi-sub">“Ý anh là sao?” PJ hỏi. Ông cúi người xuống để bế Pancakes lên.</p>
 
-<p class="para-en">“Pillow fight!” Ollie said, standing in the doorway between rooms. “Luna, throw me a pillow!” The kids had been up for hours, waiting for the adults to wake up. Ollie had made himself a cup of coffee in the pot in the room. Even after the poisoning, he found he was still addicted to caffeine. He put in six sugars and three creamers, like his dad used to drink it.</p>
-<p class="para-vi-sub">Ollie đang đứng ở khung cửa giữa hai căn phòng liền hô lên: “Đánh gối đi! Luna, ném cho em một chiếc gối!” Bọn trẻ đã thức dậy từ mấy tiếng trước, ngóng chờ người lớn tỉnh giấc. Ollie đã tự pha cho mình một cốc cà phê bằng chiếc máy pha trong phòng. Ngay cả sau vụ đầu độc, cậu nhận ra mình vẫn nghiện caffeine. Cậu bỏ vào đó sáu thìa đường và ba gói kem béo, y như cách PJ vẫn hay uống.</p>
+<p class="para-en">Throw the what over the what? thought the cat.</p>
+<p class="para-vi-sub">Ném cái gì xuống cái gì cơ chứ? chú mèo thầm nghĩ.</p>
 
-<p class="para-en">Luna appeared in the door next to him, without a pillow. “Who are you?” she asked.</p>
-<p class="para-vi-sub">Luna xuất hiện ở khung cửa bên cạnh cậu, không cầm gối. Luna hỏi: “Bà là ai?”</p>
+<p class="para-en">“Sorry, sorry,” the man in the green vest said. “I forget not everyone knows the story of Annie Edson Taylor. She went over the falls in a barrel as a stunt. But as a test, first she sent a cat in the barrel.”</p>
+<p class="para-vi-sub">“Xin lỗi, xin lỗi,” người đàn ông mặc áo vest xanh lá nói. “Tôi quên mất không phải ai cũng biết câu chuyện về Annie Edson Taylor [6] . Bà ấy đã vượt thác trong một chiếc thùng phuy như một màn biểu diễn mạo hiểm. Nhưng để thử nghiệm trước, bà ấy đã thả một con mèo vào trong thùng phuy.”</p>
 
-<p class="para-en">“Kids, this is Edith—Edna. She’s a wonderful woman I met last night.”</p>
-<p class="para-vi-sub">“Mấy đứa này, đây là Edith... Ý bố là Edna. Bà ấy là một người phụ nữ tuyệt vời mà bố gặp tối qua.”</p>
+<p class="para-en">“Did the cat survive?” Sophie asked.</p>
+<p class="para-vi-sub">“Con mèo có sống sót không?” Sophie hỏi.</p>
 
-<p class="para-en">“Are you going to marry Uncle PJ?” Ollie asked.</p>
-<p class="para-vi-sub">Ollie hỏi: “Bố có định cưới bà Edna không?”</p>
+<p class="para-en">“Without a scratch.” The man chuckled.</p>
+<p class="para-vi-sub">“Không hề hấn gì.” Người đàn ông cười khúc khích.</p>
 
-<p class="para-en">Edna laughed. “I don’t think so, honey, but it was a lovely night. Brought me back to life.”</p>
-<p class="para-vi-sub">Edna phì cười. “Ta không nghĩ vậy đâu cưng, nhưng đó là một đêm tuyệt vời. Nó làm ta thấy như sống lại vậy.”</p>
+<p class="para-en">Sophie didn’t think that was true. She imagined the cat had died shortly after from the trauma, but the man was still talking: “Annie Edson Taylor went over in the barrel the next day. She survived too. The first person to survive going over the falls in a barrel.”</p>
+<p class="para-vi-sub">Sophie không nghĩ điều đó là thật. Cô tưởng tượng con mèo đã chết không lâu sau đó vì bị chấn thương tâm lý, nhưng người đàn ông vẫn tiếp tục nói: “Annie Edson Taylor đã vượt thác bằng thùng phuy vào ngày hôm sau. Bà ấy cũng sống sót. Người đầu tiên sống sót khi vượt thác trong thùng phuy.”</p>
 
-<p class="para-en">“I need a shower.” Sophie went and closed the bathroom door. She really needed to scream, and curse, and punch something, but a hot shower would have to do.</p>
-<p class="para-vi-sub">“Con phải đi tắm đây.” Sophie bước tới khép cửa phòng tắm lại. Thực sự cô rất muốn hét lên, chửi thề và đấm vào thứ gì đó, nhưng một bồn nước nóng lúc này là thứ duy nhất có thể giải tỏa.</p>
+<p class="para-en">“What a moronic idea,” Luna said.</p>
+<p class="para-vi-sub">“Đúng là một ý tưởng ngớ ngẩn,” Luna nói.</p>
 
-<p class="para-en">Edna got out of bed and smoothed the sheets, fluffed the pillow. She was wearing a flannel nightgown. “Who wants breakfast? We do a great continental.”</p>
-<p class="para-vi-sub">Edna bước ra khỏi giường và vuốt phẳng ga nệm, vỗ phồng chiếc gối. Bà đang mặc một chiếc áo ngủ bằng vải flannel. “Ai muốn ăn sáng nào? Khách sạn chúng ta có bữa sáng kiểu lục địa tuyệt cú mèo.”</p>
+<p class="para-en">“Stupid,” Ollie agreed.</p>
+<p class="para-vi-sub">“Ngu ngốc thật,” Ollie đồng tình.</p>
 
-<p class="para-en">“You work here?” Luna asked. “Are you a maid?”</p>
-<p class="para-vi-sub">Luna hỏi: “Bà làm việc ở đây à? Bà là người dọn phòng hả?”</p>
+<p class="para-en">“In 1901, people were very impressed,” the man in the green vest said. “We are all a product of our own times.” The man turned to PJ. “Now, may I interest you and your family in tickets to get on the Maid of the Mist ? An all-electric boat ride, right up close to the falls. There’s one more boat ride this evening, or I can get you on a boat tomorrow.”</p>
+<p class="para-vi-sub">“Vào năm 1901, mọi người rất ấn tượng,” người đàn ông mặc áo vest xanh lá nói. “Chúng ta đều là sản phẩm của thời đại mình sống mà.” Người đàn ông quay sang PJ. “Nào, tôi có thể mời bác và gia đình mua vé lên chuyến du thuyền Maid of the Mist được không? Một chuyến đi thuyền hoàn toàn chạy bằng điện, tiến sát ngay chân thác. Vẫn còn một chuyến thuyền nữa vào tối nay, hoặc tôi có thể xếp cho nhà mình lên thuyền vào ngày mai.”</p>
 
-<p class="para-en">“I do work here. Are you enjoying your stay?”</p>
-<p class="para-vi-sub">“Ta có làm việc ở đây. Các cháu có tận hưởng kỳ nghỉ của mình không?”</p>
+<p class="para-en">“He’s not my family,” Luna muttered. “He’s an old man who put me in his car. I barely know him.”</p>
+<p class="para-vi-sub">“Ông ấy không phải gia đình cháu,” Luna lầm bầm. “Ông ấy là một ông già bắt cóc cháu lên xe của ổng. Cháu hầu như chẳng biết gì về ông ấy cả.”</p>
 
-<p class="para-en">“Sort of.”</p>
-<p class="para-vi-sub">“Cũng tạm.”</p>
+<p class="para-en">“I think we’ll skip the boat,” PJ said, giving Luna a side-eye. He did not want to get questioned for kidnapping this close to the Canadian border.</p>
+<p class="para-vi-sub">“Chắc chúng tôi bỏ qua vụ đi thuyền thôi,” PJ nói, liếc nhìn Luna một cái sắc lẹm. Ông không muốn bị tra hỏi về tội bắt cóc khi đang ở gần biên giới Canada thế này.</p>
 
-<p class="para-en">“Well, dear, don’t write that review up online. I’m the owner of this hotel, and we aim to do better than sort of. ”</p>
-<p class="para-vi-sub">“Thế thì, cưng à, đừng viết đánh giá đó lên mạng nhé. Ta là chủ khách sạn này, và bọn ta hướng tới những trải nghiệm tuyệt vời hơn là chữ cũng tạm .”</p>
+<p class="para-en">“But, sir, it’s not a trip to Niagara Falls without a ride on the Maid of the Mist. Most people say it’s the most alive they’ve felt in years.”</p>
+<p class="para-vi-sub">“Nhưng thưa bác, đến Thác Niagara mà không đi du thuyền Maid of the Mist thì coi như chưa tới. Hầu hết mọi người đều bảo đó là khoảnh khắc họ cảm thấy sống động nhất trong nhiều năm trời.”</p>
 
-<p class="para-en">“The owner?” Luna asked.</p>
-<p class="para-vi-sub">Luna hỏi: “Chủ khách sạn á?”</p>
+<p class="para-en">PJ took a pamphlet, hoping it would shut this guy up.</p>
+<p class="para-vi-sub">PJ cầm lấy một tờ rơi, hy vọng nó sẽ làm anh ta ngậm miệng lại.</p>
 
-<p class="para-en">“It’s really nice,” Ollie said. “It’s decadent. ”</p>
-<p class="para-vi-sub">Ollie nói: “Nơi này thật tuyệt. Thật là xa hoa .”</p>
+<p class="para-en">“The falls are right up ahead,” the man said, finally stepping out of their way.</p>
+<p class="para-vi-sub">“Ngọn thác ở ngay phía trước kìa,” người đàn ông nói, cuối cùng cũng chịu tránh đường cho họ.</p>
 
-<p class="para-en">“Where’d you learn that word?” Luna looked at her brother, her eyes narrowing. She didn’t like when Ollie was too smart.</p>
-<p class="para-vi-sub">Luna nhìn chằm chằm cậu em trai, đôi mắt nheo lại: “Em học từ đó ở đâu ra vậy?” Luna không thích khi Ollie tỏ ra quá khôn ranh.</p>
+<p class="para-en">“I can hear it,” Ollie said, excitedly. “I can hear the water.”</p>
+<p class="para-vi-sub">“Em nghe thấy tiếng nước rồi,” Ollie hào hứng nói. “Em nghe thấy tiếng nước chảy rồi.”</p>
 
-<p class="para-en">“It was on Sophie’s audiobook.” Ollie had heard some of the GRE words as he drifted in and out of sleep in the car the day before. Ollie liked learning new words.</p>
-<p class="para-vi-sub">“Nó có trong sách nói của Sophie.” Ollie đã nghe được một vài từ vựng trong kỳ thi GRE khi lơ mơ chìm vào giấc ngủ trên xe ngày hôm trước. Ollie thích học những từ mới.</p>
+<p class="para-en">And when they turned the corner, they could see the falls, cascading down. It wasn’t as tall as PJ had imagined it would be, but it was much, much wider. He knew he was a better man for having seen this waterfall. It jolted him back, out of wanting a drink, reminding him that this was his great life adventure, and he hadn’t been this far from home since Vietnam, and he hadn’t gone to Vietnam for long. He’d been shot in the ass and sent right home.</p>
+<p class="para-vi-sub">Và khi họ rẽ qua góc khuất, họ có thể nhìn thấy ngọn thác đang cuồn cuộn đổ xuống. Nó không cao như những gì PJ từng tưởng tượng, nhưng lại rộng hơn rất nhiều. Ông biết mình trở thành một con người tốt hơn nhờ việc được tận mắt chứng kiến ngọn thác này. Nó kéo ông bừng tỉnh khỏi cơn thèm rượu, nhắc nhở rằng đây chính là cuộc phiêu lưu vĩ đại trong đời ông, và ông đã không đi xa nhà đến thế này kể từ sau chiến tranh Việt Nam, mà thực ra ông cũng chẳng ở lại Việt Nam lâu la gì. Ông bị bắn vào mông rồi được tống cổ về nước ngay lập tức.</p>
 
-<p class="para-en">Luna let it go and looked back at Edna. “You must be really, really rich. Richer than Uncle PJ.”</p>
-<p class="para-vi-sub">Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả chú PJ.”</p>
+<p class="para-en">“It’s beautiful,” Ollie said.</p>
+<p class="para-vi-sub">“Đẹp quá,” Ollie nói.</p>
 
-<p class="para-en">Edna laughed. “I live a comfortable enough life. When my husband was alive, we were very happy. But my husband died three years ago.”</p>
-<p class="para-vi-sub">Edna bật cười. “Ta có một cuộc sống đủ đầy thoải mái. Khi chồng ta còn sống, chúng ta rất hạnh phúc. Nhưng chồng ta đã qua đời ba năm trước rồi.”</p>
+<p class="para-en">“Wow,” Sophie said. “Wow. It’s glorious.”</p>
+<p class="para-vi-sub">“Chao ôi,” Sophie thốt lên. “Chao ôi. Thật hùng vĩ.”</p>
 
-<p class="para-en">“We bonded over that. We both lost our spouses,” PJ explained.</p>
-<p class="para-vi-sub">PJ giải thích: “Chúng tôi đã đồng điệu vì điều đó. Cả hai chúng tôi đều mất đi người bạn đời.”</p>
+<p class="para-en">“It’s the best thing I’ve ever seen,” Luna agreed.</p>
+<p class="para-vi-sub">“Đây là cảnh tuyệt nhất cháu từng thấy,” Luna đồng tình.</p>
 
-<p class="para-en">“Mom’s not dead,” Sophie said, opening the door to the bathroom, wearing a white bathrobe, not showered yet, and still looking angry, angrier even than before.</p>
-<p class="para-vi-sub">Sophie mở cửa phòng tắm bước ra, trên người quấn chiếc áo choàng tắm màu trắng, vẫn chưa tắm táp gì và trông còn giận dữ hơn, giận hơn cả lúc trước.</p>
+<p class="para-en">Pancakes pulled on the leash and sniffed a sign that said Don’t Jump! A man in his forties in a bright-yellow windbreaker was standing near the sign, and he moved away, looking at PJ strangely, as if he’d never seen a cat on a leash before.</p>
+<p class="para-vi-sub">Pancakes giật mạnh sợi dây dắt và hít hà tấm biển có dòng chữ Đừng nhảy! Một người đàn ông tầm bốn mươi tuổi mặc chiếc áo khoác gió màu vàng chói đang đứng cạnh tấm biển, và ông ta bước tránh ra, nhìn PJ với ánh mắt kỳ lạ, cứ như thể ông ta chưa từng thấy con mèo nào đi dạo bằng dây dắt bao giờ trong đời vậy.</p>
 
-<p class="para-en">She has lasers in her eyes, Ollie thought, watching Sophie, like the superheroes in the comic books Ollie had left back at his house. Luna had gotten some of her things from Deerfield Lane, but Ollie hadn’t gotten to take anything except for the clothes the social workers had packed. He still didn’t have underwear. He missed his Wonder Woman figurine, with the blue streaks in her hair just like Sophie had, even though his dad said he shouldn’t play so much with a fucking Barbie. She wasn’t even a Barbie. She was Wonder Woman.</p>
-<p class="para-vi-sub">Ollie thầm nghĩ, quan sát Sophie: Ánh mắt phóng tia laser tới nơi rồi đây, giống như mấy siêu anh hùng trong cuốn truyện tranh mà Ollie đã bỏ lại nhà. Luna đã lấy được một số đồ đạc của mình ở đường Deerfield, nhưng Ollie chẳng thể mang theo thứ gì ngoài đống quần áo mà nhân viên công tác xã hội đã gói ghém giúp. Cậu vẫn chưa có cả quần lót để mặc. Cậu nhớ con búp bê Wonder Woman của mình quá, con búp bê có những vệt màu xanh trong mái tóc y hệt như Sophie, mặc dù PJ bảo cậu không nên chơi thứ đồ chơi giống hệt búp bê Barbie khỉ gió ấy. Nó có phải búp bê Barbie đâu cơ chứ. Đó là Wonder Woman cơ mà.</p>
+<p class="para-en">PJ looked over the railing at the water rushing below. He had only thought of jumping off anything once, at that big powder-blue bridge down in Fall River a few months after Kate died. He had climbed onto the other side and looked down at the water. If he had slipped, it would have been all over. There was no angel to appear from It’s a Wonderful Life telling PJ how rotten the world would be without him. It was just PJ, afraid to jump.</p>
+<p class="para-vi-sub">PJ nhìn qua lan can xuống dòng nước đang cuồn cuộn chảy xiết bên dưới. Ông mới chỉ nghĩ đến chuyện nhảy xuống khỏi một thứ gì đó đúng một lần, tại cây cầu xanh nhạt to lớn ở Fall River vài tháng sau khi Kate qua đời. Ông đã trèo sang phía bên kia và nhìn xuống dòng nước. Nếu ông trượt chân, mọi chuyện đã chấm hết. Chẳng có thiên thần nào từ bộ phim It’s a Wonderful Life xuất hiện để nói cho PJ biết thế giới này sẽ tồi tệ thế nào nếu vắng bóng ông. Chỉ có một mình PJ đứng đó, sợ hãi không dám nhảy.</p>
 
-<p class="para-en">“Don’t you dare say that Mom is dead,” Sophie said. “Don’t you dare use that line to pick up women.”</p>
-<p class="para-vi-sub">Sophie nói: “Đừng có mà dám nói là mẹ đã chết. Đừng có dùng cái văn vở đó để cưa cẩm phụ nữ nữa.”</p>
+<p class="para-en">They all stared at the rushing water for a good long while. How powerful it was, how vast. How small and insignificant they were against the majesty of nature.</p>
+<p class="para-vi-sub">Tất cả đứng nhìn dòng nước cuồn cuộn trong một khoảng thời gian khá lâu. Nó mạnh mẽ làm sao, bao la làm sao. Mọi người mới nhỏ bé và tầm thường làm sao trước sự vĩ đại của thiên nhiên.</p>
 
-<p class="para-en">“I know, I know,” PJ said, putting his hands up to show he was innocent. “She’s not. But she’s getting remarried in the fall. I did lose her. A divorce is like a death.”</p>
-<p class="para-vi-sub">PJ giơ hai tay lên ra hiệu mình vô tội: “Bố biết rồi, bố biết rồi. Mẹ chưa chết. Nhưng mẹ sắp tái hôn vào mùa thu này. Bố đã mất mẹ thật mà. Ly hôn cũng giống như cái chết vậy.”</p>
-
-<p class="para-en">“It’s not, Dad. It’s really not. Not even close.”</p>
-<p class="para-vi-sub">“Không phải đâu bố. Thực sự không phải thế. Chẳng có điểm nào giống nổi.”</p>
-
-<p class="para-en">“And you’re the best man,” Edna said, pointing out the bright side. She smiled kindly at the children. “I heard all about it at the bar.”</p>
-<p class="para-vi-sub">Edna chỉ ra mặt tích cực của vấn đề: “Và con sẽ là phù rể.” Bà mỉm cười trìu mến với lũ trẻ. “Ta đã nghe hết chuyện đó ở quán rượu rồi.”</p>
-
-<p class="para-en">“I can’t believe you went to the bar,” Sophie said, her arms crossed.</p>
-<p class="para-vi-sub">Sophie khoanh tay nói: “Con không thể tin nổi là bố lại đi ra quán rượu đấy.”</p>
-
-<p class="para-en">“Hey, you were here with the kids. I didn’t leave them alone again.”</p>
-<p class="para-vi-sub">“Này, con ở đây với lũ trẻ cơ mà. Bố có bỏ rơi tụi nó lần nữa đâu.”</p>
-
-<p class="para-en">“ Again? ” Luna asked. This meant there were no adults Luna could count on. Except maybe Mark Stackpole. She had to find him. The situation was dire. She went back in the other bedroom to play with the cat. She’d been pulling feathers out of the down pillow and throwing them in the air and letting Pancakes chase them.</p>
-<p class="para-vi-sub">Luna hỏi: “ Lần nữa? ” Điều này có nghĩa là chẳng có người lớn nào mà Luna có thể dựa dẫm được nữa. Trừ phi đó là Mark Stackpole. Cô bé phải tìm cho bằng được anh ta. Tình hình đã nguy cấp lắm rồi. Luna quay trở lại phòng bên để chơi với chú mèo. Cô bé cứ rút từng chiếc lông vũ ra khỏi chiếc gối lông tơ rồi tung lên không trung để Pancakes đuổi theo vồ lấy.</p>
-
-<p class="para-en">PJ sat up in bed and looked straight at Sophie. “I’ll have you know I did not drink last night. Diet Cokes. Had about twenty of them.”</p>
-<p class="para-vi-sub">PJ ngồi thẳng trên giường và nhìn thẳng vào Sophie. “Bố cho con biết là tối qua bố không hề uống một giọt rượu nào nhé. Toàn Diet Coke thôi. Bố nốc phải tầm hai mươi lon rồi đấy.”</p>
-
-<p class="para-en">“It’s true,” Edna said. “I’m in recovery, and he was an absolute gentleman about it.”</p>
-<p class="para-vi-sub">Edna lên tiếng: “Đúng thế đấy. Ta đang trong quá trình cai rượu, và ông ấy cư xử lịch thiệp hết chỗ nói.”</p>
-
-<p class="para-en">“Okay. He’s an alcoholic too. You two are a club.”</p>
-<p class="para-vi-sub">“Được rồi. Chú ta cũng là một kẻ nghiện rượu. Hai người đúng là một hội.”</p>
-
-<p class="para-en">“Yes, he said you would say that. But he didn’t have a drop. A perfect gentleman.”</p>
-<p class="para-vi-sub">“Ừ, ông ấy đã bảo là con sẽ nói thế mà. Nhưng ông ấy không hề chạm một giọt nào cả. Quả là một quý ông hoàn hảo.”</p>
-
-<p class="para-en">Sophie didn’t believe it for one second that her father had gone to the bar and hadn’t had a drink. He had probably paid Edna to lie for him.</p>
-<p class="para-vi-sub">Sophie không tin dù chỉ một giây rằng bố đã đến quán rượu mà không uống một giọt nào. Chắc chắn bố đã trả tiền để Edna nói dối hộ rồi.</p>
-
-<p class="para-en">“Well, I’ve got to go get freshened up before work,” Edna said. She took the other white hotel robe hanging on the door and wrapped it around her over her nightgown. She had left her clothes in the Presidential Suite. “You kids enjoy your breakfast,” she said. “We do a waffle bar. Strawberries and whipped cream on a Belgian waffle.”</p>
-<p class="para-vi-sub">“Thôi, tôi phải đi chỉnh đốn lại đầu tóc quần áo trước giờ làm đây,” Edna nói. Bà lấy chiếc áo choàng tắm trắng còn lại đang treo trên cửa rồi khoác lên người bên ngoài chiếc váy ngủ. Bà đã để quên quần áo ở Phòng Tổng thống. “Mấy đứa cứ thưởng thức bữa sáng nhé,” bà nói. “Bên mình có quầy bánh waffle tự chọn đấy. Dâu tây và kem tươi ăn kèm bánh waffle Bỉ.”</p>
-
-<p class="para-en">“Do you have chocolate chips?” Ollie asked.</p>
-<p class="para-vi-sub">“Cháu có được chọn vụn chocolate không ạ?” Ollie hỏi.</p>
-
-<p class="para-en">“We sure do.”</p>
-<p class="para-vi-sub">“Chắc chắn là có chứ.”</p>
-
-<p class="para-en">“Let me walk you to the elevator,” PJ said.</p>
-<p class="para-vi-sub">“Để tôi tiễn cô ra thang máy,” PJ nói.</p>
-
-<p class="para-en">“Such a gentleman,” Edna said, blushing. “Your family should appreciate you more.”</p>
-<p class="para-vi-sub">“Đúng là một quý ông lịch thiệp,” Edna nói, má hơi ửng đỏ. “Gia đình anh nên biết trân trọng anh hơn mới phải.”</p>
-
-<p class="para-en">Ollie looked at Sophie. Here come the laser eyes, he thought. He loved to see them. Yup, there they were, burning hot and red into the back of Edna’s tufted gray hair as she walked out the door, the lasers most definitely liquefying her brain. Sophie even wore bracelets on her wrists, where Wonder Woman wore her gold arm cuffs, which are impervious to fire, bullets, arrows. Impervious was another GRE word, but Ollie already knew that one, from the comic books.</p>
-<p class="para-vi-sub">Ollie nhìn sang Sophie. Ánh mắt phóng tia laser tới nơi rồi đây, cậu nghĩ. Cậu rất thích nhìn thấy biểu cảm đó. Quả nhiên là vậy, ánh nhìn rực đỏ và nóng bỏng đang xoáy thẳng vào sau gáy mái tóc xám bồng bềnh của Edna khi bà bước ra cửa, mấy tia laser ấy chắc chắn đang làm tan chảy bộ não của bà. Sophie còn đeo vòng trên cổ tay, giống như Wonder Woman đeo đôi vòng vàng có khả năng chống chịu lửa, đạn và tên. Chống chịu là một từ vựng GRE khác, nhưng Ollie đã biết nghĩa từ đó từ trước rồi, qua mấy cuốn truyện tranh.</p>
+<p class="para-en">But eventually, both kids said they needed to pee. It’s hard for children to stare at anything, no matter how majestic, for too long.</p>
+<p class="para-vi-sub">Nhưng rồi cuối cùng, cả hai đứa trẻ đều bảo rằng chúng cần đi tiểu. Thật khó để lũ trẻ tập trung nhìn chằm chằm vào bất cứ thứ gì, dù có vĩ đại đến đâu, trong một thời gian quá dài.</p>

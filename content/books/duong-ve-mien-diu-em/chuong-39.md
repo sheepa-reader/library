@@ -1,97 +1,57 @@
-*Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)*
+*Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm*
 
-# Chương 36
+# Chương 30
 
-Đồng hồ trên bàn đầu giường chỉ đúng mười giờ tối, và Ollie có thể nghe thấy tiếng tất cả bọn họ đang đều đều thở. Cuối cùng thì mọi người cũng đã ngủ say, thế nên cậu bé nhích người khỏi chỗ Sophie đang nằm ở chính giữa rồi lăn ra khỏi giường nhẹ nhàng như một ninja. Cậu bé khẽ kéo ngăn kéo bàn đầu giường ra thật êm ái rồi lấy chiếc chìa khóa bạc nhỏ xíu nằm cạnh cuốn Kinh thánh. Cậu bé có rất nhiều kinh nghiệm chơi đùa với còng tay của bố. Cậu bé biết cách mở khóa một cặp còng tay, và đó chính xác là việc cậu bé cần làm.
+P J thấy việc ngủ trong túi ngủ thật kinh khủng, đôi chân bị gò bó quá mức, thế nên cuối cùng ông đành đứng dậy và cầm lấy chiếc điện thoại của Sophie trên bàn đầu giường. Sophie đang ngủ, bọn trẻ cũng vậy, nhưng ông biết đây là điều những người khác vẫn làm khi họ không ngủ được: họ cắm mặt vào điện thoại. Thứ máy tính thu nhỏ tuyệt diệu đang hủy hoại bộ não của tất cả mọi người. Ông mở thanh tìm kiếm trên internet và gõ vào đó: Hình ảnh phụ nữ đẹp từ 50 tuổi trở lên , nhưng không, điều đó có vẻ không đúng lắm. Chẳng phải phép chút nào khi cứ ngắm nghía phụ nữ, nhất là khi đang ở cùng phòng với Sophie và bọn trẻ. Và lại càng không phải lúc Michelle Cobb đang sờ sờ ngay trước mắt.
 
-Bởi vì Ollie tính toán rằng nếu chú PJ biến mất trong đêm, nếu buổi sáng bọn họ phải đi tìm chú, nhỡ chú đi lạc ở đâu đó thật xa, thì họ có thể sẽ không đến kịp Sugar Land để tham dự buổi gặp mặt giao lưu. Bởi vì Ollie không muốn gặp Mark Stackpole. Cậu bé không muốn chuyển đến sống trong một căn biệt thự giống như lời chị gái đã hứa. Chị ấy từng bảo phòng của cậu bé sẽ chỉ là một cái tủ đựng quần áo, và cậu bé phải hứa là không được quá phiền phức. Bởi vì Ollie sẽ chẳng phải con ruột của Mark Stackpole, cậu bé chỉ là một đứa trẻ được bố thí lòng thương hại mà thôi. Đó là cách Luna diễn đạt điều đó. Ollie không muốn trở thành một kẻ ăn bám nhận sự bố thí. Cậu bé muốn ở lại với Sophie và chú PJ, những người đã mua cho cậu bé một chiếc bạt nhún lò xo cùng một chiếc iPad, và Sophie còn tặng cho cậu bé với Luna những chiếc vòng tay bằng da để bảo vệ, và họ thực sự đã mua cho cậu bé một ly sữa lắc vị vani ở McDonald’s khi cậu bé xin một ly sữa lắc vị vani chứ không hề gọi cậu bé là đứa ham ăn tục uống giống như bố mẹ vẫn thường làm.
+Nhưng vào lúc này, việc cảm thấy hào hứng với Michelle Cobb và tương lai của họ lại càng khó khăn hơn. Ông thấy lòng mình nặng trĩu sau khi kể cho lũ trẻ nghe câu chuyện về lần đầu tiên Kate chết, và có lẽ đó mới là lý do thực sự khiến ông không sao chớp mắt được. Có lẽ nó chẳng liên quan gì đến chiếc túi ngủ, mà là vì phải khơi lại ký ức cũ kỹ về cái ôm siết chặt kéo dài mà Kate đã dành cho ông. Ông đã muốn lũ trẻ thấy mình là một người hùng, nhưng thực ra, câu chuyện đó chỉ khiến ông càng căm ghét bản thân hơn vì đã không thể cứu Kate đến hai lần.
 
-Ollie tháo còng tay ra, rồi áp sát mặt vào tai chú PJ. Tai chú PJ có những sợi lông xám cứng ngoắc mọc tua tủa ra ngoài ống tai, nhưng Ollie vẫn ghé môi vào đấy. Rồi cậu bé thì thầm một từ duy nhất bằng đôi môi chúm chím ngọt ngào của đứa trẻ lên chín.
+Những ngón tay của PJ lơ lửng trên bàn phím điện thoại nhỏ xíu: Nỗi đau kéo dài sau khi mất con , cuối cùng ông gõ dòng chữ ấy. Kết quả tìm kiếm trả về một danh sách các đường dây nóng hỗ trợ tự tử, kết quả đứng đầu có số điện thoại y hệt như số mà bác sĩ tâm lý của Sophie đã để lại trong chế độ vắng mặt. Nhưng PJ chẳng hề hay biết gì về bác sĩ tâm lý của Sophie, người mà Fred đang trả tiền. Ông không biết Sophie đang nhận tiền từ Fred. Điều đó hẳn sẽ làm ông tổn thương, khi Sophie cần tiền mà lại không mở lời với chính bố ruột của mình, một người trúng xổ số.
 
-“Bia,” cậu bé nói.
+Hãy nói chuyện với ai đó , Google gợi ý.
 
-Ba phút sau, PJ khịt mũi rồi bỗng chốc ngồi bật dậy. Chắc là ông vừa thiếp đi, ông thầm nghĩ, ông chẳng nhớ gì về việc mình đã đi ngủ cả. Ai đó đã đắp cho ông một chiếc chăn trên chiếc ghế sofa kéo ra. Lũ trẻ và Sophie đang ngủ, trong phòng tối om. Đồng hồ phát sáng chỉ mười giờ ba phút tối, vẫn chưa quá muộn. Các quán rượu vẫn còn mở cửa. PJ cần uống rượu. Ông đang khao khát được uống đến phát điên. Ông không thể chờ đợi thêm một giây nào nữa. Phải, ông thừa biết mình không nên làm thế, nhưng ông rất cần nó. Ông đã nhìn thấy một xác chết vào sáng nay, tội nghiệp Gregor, và hơn thế nữa, ông đã cứu Sophie cùng lũ trẻ khỏi một thảm kịch tương tự. Ông xứng đáng được uống. Ông là một người hùng.
+“Bố cũng muốn thế lắm chứ,” ông lẩm bẩm đồng tình.
 
-Bia, bia, bia, chiếc mũ trên đầu ông lẩm bẩm. Chà, đó lại là một từ mới tinh cho chiếc mũ. PJ lục tìm trong chiếc túi xách tay của Sophie để lấy chìa khóa chiếc Volvo.
+Bố nhớ con , chiếc mũ trên đầu ông cất lời.
 
-Không, PJ tự nhủ. Ông đã trải qua chuyện này ban nãy rồi. Ông không thể lái chiếc Volvo Chuồng Chim được, nhất là khi cô nhân viên xã hội đó cứ bám sát nút như vậy. Ông sẽ phải đi bộ đến quán rượu gần nhất. Khi đó ông có thể uống say sưa tùy thích mà chẳng phải cắn rứt điều gì. Thế nên ông không lấy chìa khóa xe, mà chỉ cầm theo gói kẹo dẻo nhỏ xíu mà ông thấy trong túi của Sophie, bởi vì PJ rất hảo ngọt vào lúc đêm muộn. Sau đó, ông nhẹ nhàng tự mở cửa phòng nhà nghỉ bước ra ngoài, đi dọc theo lối đi lát xi măng trước những cánh cửa màu đỏ.
+“Câm mồm đi,” PJ bảo chiếc mũ. Ông không muốn nói chuyện với chiếc mũ. Ông muốn nói chuyện với một con người bằng xương bằng thịt, và ông muốn nói về Kate, về việc ông nhớ con bé biết bao, và về việc ông biết chẳng có cách nào để nói về nỗi đau mất người thân trong những ngày bình thường của bất kỳ ai.
 
-Khi đến văn phòng ở góc tòa nhà, ông có thể nhìn thấy Destiny qua các khung cửa sổ. Cô vẫn đang xem TV, vừa ăn một gói bim bim vừa gác chân lên bàn làm việc. Ông đẩy cửa bước vào, và chiếc chuông gió kêu lanh lảnh. “Cô mở cửa đấy chứ?” ông hỏi.
+Ông cầm điện thoại của Sophie ra ngoài hành lang. Ivy là người duy nhất có thể thấu hiểu. Ông bấm số gọi cho bà. Cuộc gọi chuyển thẳng đến lời nhắn ghi âm rằng hộp thư thoại đã đầy. Thế là, ông gọi cho Fred. Hộp thư thoại của ông ta cũng chẳng còn chỗ trống nào. Ông mở phần tin nhắn trong điện thoại của Sophie. Chức năng tự động sửa lỗi cứ liên tục thay đổi những gì ông định nói, nhưng cuối cùng ông cũng gõ đúng: Ivy , ông viết. Chúng ta có thể nói chuyện về Kate không? Sắp tròn mười lăm năm rồi, và anh hy vọng em đang tận hưởng chuyến đi Alaska, nhưng anh đang rất khó khăn. Nhân tiện đây là PJ.
 
-Destiny vội rụt chân khỏi bàn làm việc rồi phủi những vụn bánh vương vãi trên áo len. Cô không hề nghe thấy tiếng ông bước tới. Đó là một tập phim CSI rất hay. “Tôi có thể giúp gì cho ông đây, ông Halliday?” cô hỏi. Destiny có một biệt tài là rất nhớ tên khách lưu trú.
+PJ định viết thêm rằng ông đang có một chuyến đi xuyên quốc gia cùng Sophie và hai đứa cháu họ, nhưng điều đó sẽ phải giải thích quá dài dòng, vì Ivy chưa từng nghe nói về bọn trẻ. Bà sẽ hỏi quá nhiều câu hỏi; Ivy lúc nào cũng thế. Bà sẽ hỏi rốt cuộc PJ đang nghĩ cái quái gì trong đầu, và PJ thì chẳng muốn nói về chuyện đó chút nào.
 
-“Tôi đang tìm quán rượu gần đây nhất. Nơi nào mà đi bộ tới được ấy.”
+PJ dán mắt nhìn ba dấu chấm xuất hiện trên màn hình điện thoại. Ivy đang gõ tin nhắn! Nhìn xem kìa! Ông không hoàn toàn cô độc trên cõi đời này. Bà chưa hề bỏ rơi ông. Nếu ông vẫn cần bà, thực sự cần bà để trò chuyện về đứa con gái chung, bà sẽ luôn ở bên ông. Ngay cả khi bà đang ở Alaska và sắp kết hôn với một người đàn ông khác.
 
-“Tôi rất tiếc, thưa ông, chẳng có quán nào đâu ạ. Trừ khi ông có sức đi bộ tận chín dặm.”
+Paul , dòng tin nhắn hiện lên, điều đó có nghĩa đây hoàn toàn không phải từ Ivy, mà là Fred ở đầu dây bên kia, đang gõ từ điện thoại của bà. Paul , ông ta đã viết. Chúng tôi đang ở Alaska. Chúng tôi cần tập trung vào việc ở Alaska. Chúng tôi phải tập trung vào những gì đang diễn ra ngay lúc này. Chúng tôi yêu và nhớ ông, sẽ gọi lại khi có thể. Và rồi ông ta gửi kèm bức ảnh một con chim hải âu rụt cổ, thứ mà có lẽ ông ta bắt gặp ở đâu đó dọc bờ biển Alaska.
 
-PJ cân nhắc điều đó. “Có xe taxi không?”
+“Tao thèm quan tâm đến con chim biển chết tiệt nhà mày chắc,” PJ càu nhàu lầm bầm, mặc dù dĩ nhiên bình thường ông sẽ vô cùng phấn khích trước bức ảnh chim hải âu rụt cổ, vì chúng trông đáng yêu làm sao, trông cứ như những chú chim cánh cụt đang hóa trang thành chú hề vậy. Nhưng ngay lúc này đây, ông chẳng buồn ngó ngàng tới nó. Ông quay lại phòng khách sạn và đặt chiếc điện thoại lên bàn đầu giường để Sophie không biết ông đã đụng vào nó. Sau đó, ông lay vai gọi Sophie dậy.
 
-“Làm gì có ở Purity Springs này.”
+“Gì cơ?” cô hỏi, ngồi bật dậy. “Có chuyện gì thế? Ai bị thương à?”
 
-“Chà, tôi không tài nào ngủ được nếu thiếu một ly rượu đêm. Cô lấy bao nhiêu tiền để chở tôi ra quán rượu?”
+“ Suỵt. Đừng làm bọn trẻ thức giấc. Nhưng bố cần nói chuyện với con. Bố không nghĩ mẹ con nên kết hôn với Fred đâu. Vừa rồi ông ta cư xử rất thô lỗ với bố đấy.”
 
-“Tôi không được phép rời khỏi quầy trực,” Destiny nói và lắc đầu. “Nhà nghỉ của chúng tôi nổi tiếng là hoạt động suốt hai mươi tư giờ. Các bác tài xe tải thường ghé vào đây muộn, và… ừ thì, những vị khách khác cũng đến muộn nữa. Tôi phải ở đây để làm thủ tục nhận phòng cho họ.”
+“Ôi trời ạ. Bố. Mẹ gần như đã kết hôn với Fred mất rồi. Và họ đã yêu cầu chúng ta để họ yên cơ mà.” Sophie nằm phịch xuống giường và trùm gối lên đầu.
 
-“Viết một tờ giấy nhắn để lại, nói là cô sẽ quay lại sau hai mươi phút đi. Tôi sẽ trả tiền cho cô.”
+“Bố chỉ muốn nói chuyện với vợ cũ của mình vài phút thôi. Bố nghĩ mình có quyền làm điều đó chứ. Bố nghĩ nên có ai đó ở bên cạnh lúc này.”
 
-“Tôi xin lỗi, thưa ông, tôi không thể.”
+Sophie rên rỉ bên dưới tấm gối. Cô chẳng muốn nghe thêm chút nào nữa.
 
-“Cứ ra giá đi. Ai mà chẳng có cái giá của mình.”
+Trái tim PJ chùng xuống. Sophie cũng đã từ chối ông rồi.
 
-Destiny nhún vai. Người đàn ông này đúng là một ca khó nhằn. “Một trăm đô la.”
+PJ chẳng có gì trong tay. Ông có tiền trúng vé số, nhưng thứ đó chẳng có nghĩa lý gì sất. Liệu người ta có khắc điều đó lên bia mộ của ông không? PJ Halliday, Kẻ Trúng Vé Số. Ông muốn trên đó khắc dòng chữ Người chồng và người cha kính yêu hơn, nhưng đời nào chuyện đó xảy ra. Ông đã là một người chồng tồi tệ, một người cha thất bại, và giờ đây người ta lại trông đợi ông làm lại điều đó lần nữa sao? Chăm sóc cho Ollie và Luna ư? Ông chẳng thể chăm sóc nổi chúng. Ông còn chẳng lo nổi cho chính mình. Ông thậm chí còn chẳng giữ nổi số tiền trúng số. Tất cả đã bay sạch. Ông chỉ còn lại một mình với nỗi buồn, sự thất bại và niềm đau đớn tột cùng. PJ không thể chịu đựng thêm nổi nữa.
 
-“Tôi trả gấp đôi,” PJ nói. Ông mở ví, đếm ra những tờ tiền mặt.
+Lúc này chỉ còn đúng một việc duy nhất phải làm. Chỉ có đúng một việc duy nhất bất cứ ai cũng sẽ làm trong hoàn cảnh này. PJ cần phải uống thật say, say hoành tráng.
 
-“Mẹ kiếp,” Destiny thốt lên, đứng phắt dậy khỏi ghế. “Được rồi.” Cô xỏ chân vào giày, đôi giày bít mũi thoải mái màu đen mà cô thích đi làm, rồi với lấy chùm chìa khóa trên giá. Cô đặt một tấm biển lên cửa với dòng chữ: Năm phút nữa về. Khi cô vừa treo tấm biển lên, Pancakes liền bước ra từ gầm bàn làm việc của cô, vừa đi vừa liếm mép.
+Nhưng kiếm đâu ra rượu ở một thị trấn cấm bán đồ uống có cồn vào giờ này cơ chứ?
 
-“Xin lỗi cô,” PJ nói. “Sao chú ấy lại chui ra được thế?”
+PJ thầm nghĩ có lẽ cặp vợ chồng mới cưới phòng bên vẫn chưa ngủ, và biết đâu họ có chút rượu lậu nào đó sẵn sàng chia sẻ trong cái chốn ngục tù này. Ông áp tai vào tường, nhưng chẳng nghe thấy gì ngoài sự tĩnh lặng. PJ bước sang bức tường bên kia để nghe ngóng xem có ai ở đó không, và vô tình làm chú mèo trên giường giật mình. Chú mèo nhảy phắt khỏi giường, lao vút qua căn phòng và nhảy lên lò sưởi. Pancakes cào cào vào khung cửa sổ đang đóng kín. Không khí trong lành kìa! chú mèo ra hiệu. Ta đòi hỏi điều đó!
 
-“Đó là mèo của ông á?”
+“Trong này hơi ngột ngạt thật,” PJ đồng tình, thế là ông bước tới và mở tung cửa sổ.
 
-“Đúng vậy, đó là Pancakes. Xin lỗi nếu chú ấy làm phiền cô nhé. Chú ấy là một con quỷ ranh ma lắm. Cứ hay trốn ra ngoài.”
+Pancakes lại cào cào cả cửa sổ bên kia nữa. PJ cũng mở luôn cánh cửa đó ra, bầu không khí ban đêm tràn vào mang theo cảm giác tươi mát và dễ chịu, nhưng rồi chú mèo bỗng lao người một cú, nhảy thẳng qua khung cửa sổ và rơi ùm xuống bãi đậu xe phía dưới, rồi chạy đuổi theo một con chuột hay con chim vô hình nào đó. “Mẹ kiếp,” PJ lẩm bẩm khi nhìn thấy chú mèo lao vút vào màn đêm. “Quay lại đây mau!” ông gầm gừ, cố gắng giữ giọng để không đánh thức lũ trẻ. Ông lắc lắc gói bánh quy hình con cá.
 
-“Lúc nhận phòng ông có dắt theo con mèo nào đâu.”
+Nhưng chú mèo nào có quay lại. Chú mèo này có phải chó săn vàng đâu. “Khỉ thật chứ lị,” PJ lẩm bẩm. Ông sẽ phải dành phần lớn thời gian ban đêm để đi tìm chú mèo mất nết đó. PJ buộc phải đi tìm chú mèo trước khi chú ấy bị sói đồng cỏ ăn thịt. Ông chẳng biết ở Tennessee có sói đồng cỏ hay không, nhưng chắc là có. Hoặc những con chó hoang lang thang ngoài đường, hay biết đâu chú mèo sẽ cứ thế lang thang rồi đi lạc mất. Họ đang ở một nơi khỉ ho cò gáy chẳng có ma nào qua lại. Chẳng có điều gì tốt đẹp từng xảy ra ở một thị trấn cấm rượu cả. Phải, để chú mèo ở ngoài trời qua đêm thế này là không an toàn chút nào. Chuyện xấu có thể xảy ra, và PJ sẽ chẳng thể sống nổi với bản thân nếu điều đó thực sự xảy ra.
 
-“À. Chà, chết tiệt thật, chắc tôi để quên chú ấy trên xe rồi, mà thường thì tôi mang chú ấy đi khắp mọi nơi.”
+Nhưng trước tiên, PJ sẽ ghé qua quầy lễ tân và bấm chuông. Ông nghĩ rất có thể người bạn Gregor có cất giấu chút rượu ở căn phòng phía sau, cái căn phòng nhỏ có chiếc giường gấp ấy. Phải, trước tiên ông sẽ nói chuyện với Gregor về bất kỳ chai rượu nào anh ta đang bày biện quanh đây.
 
-“Chắc tôi tưởng là mèo hoang. Tôi có cho chú ấy ăn chút cá ngừ. Trông có vẻ đói.”
-
-“Cảm ơn cô. Chú ấy lúc nào cũng đói cả. Tôi sẽ đưa chú ấy về phòng rồi chúng ta đi.” PJ hy vọng cô sẽ không nhắc gì đến tấm biển Cấm Nuôi Thú Cưng treo sau quầy lễ tân bây giờ, khi ông đang đưa cho cô hai trăm đô la tiền mặt để chở ông chín dặm tới quán rượu phía cuối đường và thả ông ở đó.
-
-“Thực ra...” Destiny nói. “Ông có phiền không nếu… tôi có thể giữ chú ấy lại qua đêm nay được không? Có bạn đồng hành qua đêm thì cũng thích mà. Tôi từng hỏi sếp xem có được mang chó đi làm không, nhưng ông ấy không chịu.”
-
-“Được chứ,” PJ đồng ý. “Sáng mai tôi sẽ qua đón chú ấy.” Ông đặt Pancakes xuống, và chú mèo liền nhảy phóc lên chiếc ghế xoay trống trong phòng làm việc của Destiny, chỗ ngồi vẫn còn ấm áp từ nãy.
-
-Ta sẽ đợi ông ở đây, chú mèo thầm nghĩ.
-
-Ngoài bãi đậu xe, chiếc xe của Destiny là một chiếc Mazda màu đỏ, và PJ tự mình mở cửa ghế phụ. Trên ghế trước có một tập tài liệu. PJ cầm chúng lên để không ngồi đè lên.
-
-“Ồ, cứ vứt đại ra ghế sau là được,” Destiny nói.
-
-“Được rồi,” PJ đáp, nhưng ông thoáng thấy dòng chữ in ở phần đầu trang. KHOA UNG BƯỚU, dòng chữ ghi rõ như thế. Phòng khám Mercy. PJ không phải là người thông minh nhất trên đời, nhưng ông cũng đủ khôn để biết ung thư nghĩa là gì. Ông và Ivy từng đến trung tâm ung thư ở Boston rất nhiều lần, nhưng Ivy đã chiến thắng căn bệnh đó. Biết đâu Destiny cũng sẽ chiến thắng nó. Biết đâu đây sẽ là một chuyến đi tràn đầy hy vọng. Destiny khởi động xe.
-
-“Chuyện không phải của tôi, tôi biết,” PJ nói, đặt tập tài liệu xuống ghế sau nhẹ nhàng nhất có thể để chúng không bị xáo trộn ở đằng đó. “Nhưng cô sẽ ổn chứ?”
-
-Destiny nhún vai và dán mắt vào mặt đường. “Không. Tôi sắp chết rồi, và chẳng có gì gọi là ổn ở đây cả.”
-
-“Ừ, chẳng có gì ổn cả,” ông đồng ý.
-
-“Tôi sẽ không được nhìn thấy con gái mình tốt nghiệp cấp ba. Con bé đang học năm thứ mười một. Bác sĩ bảo tôi sẽ không sống qua nổi năm sau. Ông ấy bảo tôi nên cầu xin một phép màu nếu muốn có phép màu.”
-
-PJ chợt nhớ lại lễ tốt nghiệp cấp ba của Sophie, nhớ chuyện ông đã say khướt trước buổi lễ đến mức tè dầm ra quần ngay trong bài phát biểu của thủ khoa. Ông hoàn toàn không biết mình đã làm thế cho đến khi Ivy hất cả xô nước đá vào người vừa để trừng phạt vừa để che giấu mùi hôi. PJ định kể cho Destiny nghe chuyện đó. Ông cũng định bảo với cô rằng lễ tốt nghiệp cấp ba vừa dài vừa nóng lại vừa chán ngắt, rằng khi họ còn sống chung, Ivy từng bắt ông đến dự mỗi năm mặc dù chẳng ai thèm quan tâm xem chồng của cô giáo mỹ thuật có đến dự lễ tốt nghiệp của họ hay không. Nhưng PJ vẫn cứ đi, bởi vì ông đã cố gắng làm một người chồng tốt của Ivy. PJ cũng muốn nói với Destiny rằng ông sẵn sàng đánh đổi mọi thứ, mọi thứ, cánh tay phải, cẳng chân trái, một quả thận hay một lá phổi, chỉ để được nhìn thấy cô con gái lớn tốt nghiệp, thế nhưng ông đã không làm được, bởi vì buổi khiêu vũ tổng kết của con bé diễn ra trước đó đúng một tuần. Nhưng PJ không nói bất cứ điều gì trong số đó. Đây là cuộc đời và bi kịch của Destiny, không phải của ông. “Tôi rất tiếc,” ông cất lời thay cho mọi câu nói. “Đó quả là một cú sốc tồi tệ mà cô phải gánh chịu.”
-
-“Cảm ơn ông, người anh em,” Destiny nói, rồi cô rẽ phải vào một bãi đậu xe đất đá, nơi có một quán rượu với tấm biển hiệu đèn neon Pabst Blue Ribbon rực sáng bên ô cửa sổ. Quán rượu The Half-Moon. “Đến nơi rồi đấy. Cứ bảo với Miguel là tôi giới thiệu nhé.”
-
-Có ba chiếc xe khác đang đậu trong bãi. Một chiếc Ford Taurus màu đỏ, một chiếc xe tải F-150, và một chiếc Dodge Challenger cổ màu cam sản xuất từ thập niên 1970. Chiếc Challenger có dán một miếng sticker ở cản xe mang dòng chữ Hook’em Horns! , khẩu hiệu cổ vũ của đội bóng bầu dục Longhorns. PJ không có ý kiến gì về đội bóng bầu dục đó, nhưng ông cực kỳ mê kiểu xe như vậy. “Tôi sẽ bảo với Miguel là Destiny giới thiệu,” ông hứa, “và tôi sẽ gặp lại cô ở nhà nghỉ lát nữa nhé.”
-
-“Ừ. Hẹn gặp lại ông sau. Tối muộn nếu ông bảo, Miguel sẽ chở ông về nhà.”
-
-PJ gật đầu, và ông thầm hy vọng Miguel chính là chủ nhân của chiếc xe Dodge Challenger kia. Ông nhờ Destiny nhét một mẩu giấy dưới cửa phòng để Sophie biết ông đang ở đâu và báo cho họ hay rằng cô đang giữ chú mèo trong phòng làm việc. “Để bọn nhỏ không phải lo lắng,” ông nói.
-
-“Được rồi, ông Halliday. Tôi sẽ nhắn lại cho họ.”
-
-“Đợi đã,” PJ nói trước khi khép cửa lại. “Tôi còn cái này cho cô đây.” Ông rút cuốn sổ séc ra từ chiếc quần sọc túi hộp. Ông viết một tấm séc trị giá một nghìn đô la. “Cho con bé nhà cô đấy. Quà tốt nghiệp.”
-
-“Thôi nào ông Halliday, thôi nào,” cô nói, đôi mắt mở to ngạc nhiên. “Cẩn thận đấy nhé, người anh em. Cẩn thận nhé.”
-
-PJ thích việc Destiny không cảm ơn ông quá nhiều, hay đúng hơn là cô ấy chưa hề nói cảm ơn một câu nào, phải không nhỉ? Ông ước gì mình có thể cho cô ấy nhiều tiền hơn, nhưng ông sắp cạn sạch rồi. Ông vẫn còn phải lo cho lũ trẻ, mà đám nhóc đó toàn là những đứa tiêu tiền bạt mạng. Hai ngàn đô cho một chiếc ví hình quả dứa, lạy chúa Sophie. Nhưng PJ sẽ lo liệu chuyện tiền nong sau, còn bây giờ Destiny đã giúp ông rồi. Cô ấy đã chở ông đến được quán rượu.
+Và rồi ông sẽ bước ra ngoài để đi tìm chú mèo chết tiệt đó.

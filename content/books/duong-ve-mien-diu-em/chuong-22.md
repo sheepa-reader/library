@@ -1,95 +1,63 @@
-*Phần II: Rời Pondville • Ngày 2 (Thứ Tư)*
+*Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba*
 
-# Chương 19
+# Chương 15
 
-Sophie đã thức dậy bên cạnh rất nhiều người đàn ông lạ trong đời, nhưng chưa từng có lần nào ở cạnh một bà lão. Người phụ nữ nằm trên chiếc gối bên cạnh cô có mái tóc xám và chiếc bịt mắt ngủ bằng lụa màu hồng. Sophie nói: “Quái quỷ thật. Bà là ai?”
+Có một tấm biển báo chỉ đường phía trước dẫn đến trung tâm du khách ở Thác Niagara. “Chúng ta đến nơi rồi,” PJ nói khi Sophie khều đánh thức ông. “Chúng ta thực sự tới đây rồi.”
 
-Trên chiếc giường bên kia, PJ ngồi dậy. “Ối, Sophie, đừng có hỗn. Đó là Edith.”
+“Vâng,” Sophie đồng tình. Cô tự mình lái xe suốt chặng đường dài trong lúc bố và lũ trẻ đều đang ngủ say. Ngay cả khi cô dừng lại để đổ xăng, chúng cũng chẳng màng tỉnh giấc. Cô đã tắt nhạc của Björk và tải một cuốn sách nói trên điện thoại: 100.000 Từ Vựng Bạn Có Thể Cần Dùng Cho Kỳ Thi GRE rồi phát qua hệ thống loa trên xe. Cô nghĩ thà tận dụng thời gian cho có ích còn hơn, và nếu cô thực sự định nộp đơn vào trường cao học theo ý Fred muốn, cô sẽ cần phải thi GRE. Trên cuốn sách nói luyện thi GRE, một người đàn ông đọc từ vựng trước, tiếp đến là định nghĩa, rồi dùng từ đó trong một câu ví dụ. “Epicure,” giọng người đàn ông vang lên đều đều qua loa. “Một người có gu thưởng thức tinh tế, đặc biệt là về đồ ăn hoặc thức uống.”
 
-Người phụ nữ kéo chiếc bịt mắt lên. Edna nói: “Edna Gardner, chủ của khách sạn này. Và cái miệng của cô thì thô như thủy thủ ấy.”
+PJ nghe thấy từ thức uống, và mặc dù ông là một tín đồ của bia và rượu mạnh, ông vẫn thèm một ly, và ông sẵn sàng chấp nhận một ly rượu vang. Đang là thời điểm trong ngày mà việc nhịn uống trở nên khó khăn nhất. Ông ước gì mình đã không nói với Sophie rằng ông đã bỏ rượu. Đó là một sai lầm. Giờ thì cô sẽ kè kè theo dõi ông suốt. Ông tự hỏi mình có thể trụ được bao lâu nữa. Đã ba mươi mốt ngày trôi qua kể từ ngụm rượu cuối cùng của ông. Kể từ khi Fred và Ivy rời đi. Không hiểu sao ông đã kiên trì được đến mốc một tháng. Ông gần như ước gì mình đã tham gia chương trình cai rượu ẩn danh để họ trao cho chiếc huy hiệu vàng đánh dấu mốc ba mươi ngày. Ông rất muốn nhận được một phần thưởng vì đã đi được chặng đường xa đến thế này.
 
-Sophie vừa nói vừa bước xuống giường vớ lấy chiếc gối đập liên hồi vào người PJ: “Bố! Khi con còn ở trong phòng? Bố điên rồi à? Bố mất trí thật rồi phải không?”
+“Chúng ta đến nơi rồi sao?” Ollie nói ở hàng ghế sau với giọng ngái ngủ. “Luna, dậy đi, chúng ta tới rồi.”
 
-“Ối dào, Sophie-Soo, con có thể ngủ say như chết ngay cả khi có một đoàn tàu hỏa chạy qua.”
+“Đến nơi rồi á?” Luna dụi mắt.
 
-“Ôi Chúa ơi. Con cần đi tắm. Con cần tắm một trận thật lâu.”
+Họ đang ở trong bãi đậu xe. Phí đậu xe là mười đô la, điều này khiến PJ thấy giống như ăn cướp ban ngày vậy. Tất cả bước xuống xe. PJ bồng chú mèo trên tay, cài dây dắt vào vòng đai trên người chú. Chiếc dây dắt có thêu chữ #1 pup bằng chỉ trắng. PJ thả chú mèo xuống, và chú tỏ ra cứ như thể mình đã quen đi dạo bằng dây dắt suốt cả cuộc đời vậy. “Một bạn đồng hành tuyệt vời trên đường đi,” PJ lớn tiếng tuyên bố.
 
-“Đừng lo, cưng à,” Edna nói. “Ông ấy đang đùa con đấy. Bọn ta đã có khoảng thời gian vui vẻ ở Phòng Tổng thống. Nhưng bố con muốn có mặt ở đây khi bọn trẻ thức giấc. Ông ấy là người có trái tim nhân hậu. Và rồi, ừm, ta đoán là mình đã trèo nhầm giường sau khi thức dậy đi vệ sinh vào ban đêm. Mắt ta nhìn không rõ lắm trong bóng tối.”
+Ởrìa bãi đậu xe, gần trung tâm du khách, một người đàn ông mặc áo vest xanh lá đang mỉm cười với họ và chắn ngang lối đi. Hãy hỏi tôi về du thuyền Maid of the Mist, dòng chữ trên chiếc huy hiệu cài ngực màu vàng của anh ta viết thế. “Chào mọi người,” anh ta nói. “Đến đây để ném con mèo đó xuống thác nước à?”
 
-Sophie lại ném gối nện vào người PJ.
+“Ý anh là sao?” PJ hỏi. Ông cúi người xuống để bế Pancakes lên.
 
-Ollie đang đứng ở khung cửa giữa hai căn phòng liền hô lên: “Đánh gối đi! Luna, ném cho em một chiếc gối!” Bọn trẻ đã thức dậy từ mấy tiếng trước, ngóng chờ người lớn tỉnh giấc. Ollie đã tự pha cho mình một cốc cà phê bằng chiếc máy pha trong phòng. Ngay cả sau vụ đầu độc, cậu nhận ra mình vẫn nghiện caffeine. Cậu bỏ vào đó sáu thìa đường và ba gói kem béo, y như cách PJ vẫn hay uống.
+Ném cái gì xuống cái gì cơ chứ? chú mèo thầm nghĩ.
 
-Luna xuất hiện ở khung cửa bên cạnh cậu, không cầm gối. Luna hỏi: “Bà là ai?”
+“Xin lỗi, xin lỗi,” người đàn ông mặc áo vest xanh lá nói. “Tôi quên mất không phải ai cũng biết câu chuyện về Annie Edson Taylor [6] . Bà ấy đã vượt thác trong một chiếc thùng phuy như một màn biểu diễn mạo hiểm. Nhưng để thử nghiệm trước, bà ấy đã thả một con mèo vào trong thùng phuy.”
 
-“Mấy đứa này, đây là Edith... Ý bố là Edna. Bà ấy là một người phụ nữ tuyệt vời mà bố gặp tối qua.”
+“Con mèo có sống sót không?” Sophie hỏi.
 
-Ollie hỏi: “Bố có định cưới bà Edna không?”
+“Không hề hấn gì.” Người đàn ông cười khúc khích.
 
-Edna phì cười. “Ta không nghĩ vậy đâu cưng, nhưng đó là một đêm tuyệt vời. Nó làm ta thấy như sống lại vậy.”
+Sophie không nghĩ điều đó là thật. Cô tưởng tượng con mèo đã chết không lâu sau đó vì bị chấn thương tâm lý, nhưng người đàn ông vẫn tiếp tục nói: “Annie Edson Taylor đã vượt thác bằng thùng phuy vào ngày hôm sau. Bà ấy cũng sống sót. Người đầu tiên sống sót khi vượt thác trong thùng phuy.”
 
-“Con phải đi tắm đây.” Sophie bước tới khép cửa phòng tắm lại. Thực sự cô rất muốn hét lên, chửi thề và đấm vào thứ gì đó, nhưng một bồn nước nóng lúc này là thứ duy nhất có thể giải tỏa.
+“Đúng là một ý tưởng ngớ ngẩn,” Luna nói.
 
-Edna bước ra khỏi giường và vuốt phẳng ga nệm, vỗ phồng chiếc gối. Bà đang mặc một chiếc áo ngủ bằng vải flannel. “Ai muốn ăn sáng nào? Khách sạn chúng ta có bữa sáng kiểu lục địa tuyệt cú mèo.”
+“Ngu ngốc thật,” Ollie đồng tình.
 
-Luna hỏi: “Bà làm việc ở đây à? Bà là người dọn phòng hả?”
+“Vào năm 1901, mọi người rất ấn tượng,” người đàn ông mặc áo vest xanh lá nói. “Chúng ta đều là sản phẩm của thời đại mình sống mà.” Người đàn ông quay sang PJ. “Nào, tôi có thể mời bác và gia đình mua vé lên chuyến du thuyền Maid of the Mist được không? Một chuyến đi thuyền hoàn toàn chạy bằng điện, tiến sát ngay chân thác. Vẫn còn một chuyến thuyền nữa vào tối nay, hoặc tôi có thể xếp cho nhà mình lên thuyền vào ngày mai.”
 
-“Ta có làm việc ở đây. Các cháu có tận hưởng kỳ nghỉ của mình không?”
+“Ông ấy không phải gia đình cháu,” Luna lầm bầm. “Ông ấy là một ông già bắt cóc cháu lên xe của ổng. Cháu hầu như chẳng biết gì về ông ấy cả.”
 
-“Cũng tạm.”
+“Chắc chúng tôi bỏ qua vụ đi thuyền thôi,” PJ nói, liếc nhìn Luna một cái sắc lẹm. Ông không muốn bị tra hỏi về tội bắt cóc khi đang ở gần biên giới Canada thế này.
 
-“Thế thì, cưng à, đừng viết đánh giá đó lên mạng nhé. Ta là chủ khách sạn này, và bọn ta hướng tới những trải nghiệm tuyệt vời hơn là chữ cũng tạm .”
+“Nhưng thưa bác, đến Thác Niagara mà không đi du thuyền Maid of the Mist thì coi như chưa tới. Hầu hết mọi người đều bảo đó là khoảnh khắc họ cảm thấy sống động nhất trong nhiều năm trời.”
 
-Luna hỏi: “Chủ khách sạn á?”
+PJ cầm lấy một tờ rơi, hy vọng nó sẽ làm anh ta ngậm miệng lại.
 
-Ollie nói: “Nơi này thật tuyệt. Thật là xa hoa .”
+“Ngọn thác ở ngay phía trước kìa,” người đàn ông nói, cuối cùng cũng chịu tránh đường cho họ.
 
-Luna nhìn chằm chằm cậu em trai, đôi mắt nheo lại: “Em học từ đó ở đâu ra vậy?” Luna không thích khi Ollie tỏ ra quá khôn ranh.
+“Em nghe thấy tiếng nước rồi,” Ollie hào hứng nói. “Em nghe thấy tiếng nước chảy rồi.”
 
-“Nó có trong sách nói của Sophie.” Ollie đã nghe được một vài từ vựng trong kỳ thi GRE khi lơ mơ chìm vào giấc ngủ trên xe ngày hôm trước. Ollie thích học những từ mới.
+Và khi họ rẽ qua góc khuất, họ có thể nhìn thấy ngọn thác đang cuồn cuộn đổ xuống. Nó không cao như những gì PJ từng tưởng tượng, nhưng lại rộng hơn rất nhiều. Ông biết mình trở thành một con người tốt hơn nhờ việc được tận mắt chứng kiến ngọn thác này. Nó kéo ông bừng tỉnh khỏi cơn thèm rượu, nhắc nhở rằng đây chính là cuộc phiêu lưu vĩ đại trong đời ông, và ông đã không đi xa nhà đến thế này kể từ sau chiến tranh Việt Nam, mà thực ra ông cũng chẳng ở lại Việt Nam lâu la gì. Ông bị bắn vào mông rồi được tống cổ về nước ngay lập tức.
 
-Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả chú PJ.”
+“Đẹp quá,” Ollie nói.
 
-Edna bật cười. “Ta có một cuộc sống đủ đầy thoải mái. Khi chồng ta còn sống, chúng ta rất hạnh phúc. Nhưng chồng ta đã qua đời ba năm trước rồi.”
+“Chao ôi,” Sophie thốt lên. “Chao ôi. Thật hùng vĩ.”
 
-PJ giải thích: “Chúng tôi đã đồng điệu vì điều đó. Cả hai chúng tôi đều mất đi người bạn đời.”
+“Đây là cảnh tuyệt nhất cháu từng thấy,” Luna đồng tình.
 
-Sophie mở cửa phòng tắm bước ra, trên người quấn chiếc áo choàng tắm màu trắng, vẫn chưa tắm táp gì và trông còn giận dữ hơn, giận hơn cả lúc trước.
+Pancakes giật mạnh sợi dây dắt và hít hà tấm biển có dòng chữ Đừng nhảy! Một người đàn ông tầm bốn mươi tuổi mặc chiếc áo khoác gió màu vàng chói đang đứng cạnh tấm biển, và ông ta bước tránh ra, nhìn PJ với ánh mắt kỳ lạ, cứ như thể ông ta chưa từng thấy con mèo nào đi dạo bằng dây dắt bao giờ trong đời vậy.
 
-Ollie thầm nghĩ, quan sát Sophie: Ánh mắt phóng tia laser tới nơi rồi đây, giống như mấy siêu anh hùng trong cuốn truyện tranh mà Ollie đã bỏ lại nhà. Luna đã lấy được một số đồ đạc của mình ở đường Deerfield, nhưng Ollie chẳng thể mang theo thứ gì ngoài đống quần áo mà nhân viên công tác xã hội đã gói ghém giúp. Cậu vẫn chưa có cả quần lót để mặc. Cậu nhớ con búp bê Wonder Woman của mình quá, con búp bê có những vệt màu xanh trong mái tóc y hệt như Sophie, mặc dù PJ bảo cậu không nên chơi thứ đồ chơi giống hệt búp bê Barbie khỉ gió ấy. Nó có phải búp bê Barbie đâu cơ chứ. Đó là Wonder Woman cơ mà.
+PJ nhìn qua lan can xuống dòng nước đang cuồn cuộn chảy xiết bên dưới. Ông mới chỉ nghĩ đến chuyện nhảy xuống khỏi một thứ gì đó đúng một lần, tại cây cầu xanh nhạt to lớn ở Fall River vài tháng sau khi Kate qua đời. Ông đã trèo sang phía bên kia và nhìn xuống dòng nước. Nếu ông trượt chân, mọi chuyện đã chấm hết. Chẳng có thiên thần nào từ bộ phim It’s a Wonderful Life xuất hiện để nói cho PJ biết thế giới này sẽ tồi tệ thế nào nếu vắng bóng ông. Chỉ có một mình PJ đứng đó, sợ hãi không dám nhảy.
 
-Sophie nói: “Đừng có mà dám nói là mẹ đã chết. Đừng có dùng cái văn vở đó để cưa cẩm phụ nữ nữa.”
+Tất cả đứng nhìn dòng nước cuồn cuộn trong một khoảng thời gian khá lâu. Nó mạnh mẽ làm sao, bao la làm sao. Mọi người mới nhỏ bé và tầm thường làm sao trước sự vĩ đại của thiên nhiên.
 
-PJ giơ hai tay lên ra hiệu mình vô tội: “Bố biết rồi, bố biết rồi. Mẹ chưa chết. Nhưng mẹ sắp tái hôn vào mùa thu này. Bố đã mất mẹ thật mà. Ly hôn cũng giống như cái chết vậy.”
-
-“Không phải đâu bố. Thực sự không phải thế. Chẳng có điểm nào giống nổi.”
-
-Edna chỉ ra mặt tích cực của vấn đề: “Và con sẽ là phù rể.” Bà mỉm cười trìu mến với lũ trẻ. “Ta đã nghe hết chuyện đó ở quán rượu rồi.”
-
-Sophie khoanh tay nói: “Con không thể tin nổi là bố lại đi ra quán rượu đấy.”
-
-“Này, con ở đây với lũ trẻ cơ mà. Bố có bỏ rơi tụi nó lần nữa đâu.”
-
-Luna hỏi: “ Lần nữa? ” Điều này có nghĩa là chẳng có người lớn nào mà Luna có thể dựa dẫm được nữa. Trừ phi đó là Mark Stackpole. Cô bé phải tìm cho bằng được anh ta. Tình hình đã nguy cấp lắm rồi. Luna quay trở lại phòng bên để chơi với chú mèo. Cô bé cứ rút từng chiếc lông vũ ra khỏi chiếc gối lông tơ rồi tung lên không trung để Pancakes đuổi theo vồ lấy.
-
-PJ ngồi thẳng trên giường và nhìn thẳng vào Sophie. “Bố cho con biết là tối qua bố không hề uống một giọt rượu nào nhé. Toàn Diet Coke thôi. Bố nốc phải tầm hai mươi lon rồi đấy.”
-
-Edna lên tiếng: “Đúng thế đấy. Ta đang trong quá trình cai rượu, và ông ấy cư xử lịch thiệp hết chỗ nói.”
-
-“Được rồi. Chú ta cũng là một kẻ nghiện rượu. Hai người đúng là một hội.”
-
-“Ừ, ông ấy đã bảo là con sẽ nói thế mà. Nhưng ông ấy không hề chạm một giọt nào cả. Quả là một quý ông hoàn hảo.”
-
-Sophie không tin dù chỉ một giây rằng bố đã đến quán rượu mà không uống một giọt nào. Chắc chắn bố đã trả tiền để Edna nói dối hộ rồi.
-
-“Thôi, tôi phải đi chỉnh đốn lại đầu tóc quần áo trước giờ làm đây,” Edna nói. Bà lấy chiếc áo choàng tắm trắng còn lại đang treo trên cửa rồi khoác lên người bên ngoài chiếc váy ngủ. Bà đã để quên quần áo ở Phòng Tổng thống. “Mấy đứa cứ thưởng thức bữa sáng nhé,” bà nói. “Bên mình có quầy bánh waffle tự chọn đấy. Dâu tây và kem tươi ăn kèm bánh waffle Bỉ.”
-
-“Cháu có được chọn vụn chocolate không ạ?” Ollie hỏi.
-
-“Chắc chắn là có chứ.”
-
-“Để tôi tiễn cô ra thang máy,” PJ nói.
-
-“Đúng là một quý ông lịch thiệp,” Edna nói, má hơi ửng đỏ. “Gia đình anh nên biết trân trọng anh hơn mới phải.”
-
-Ollie nhìn sang Sophie. Ánh mắt phóng tia laser tới nơi rồi đây, cậu nghĩ. Cậu rất thích nhìn thấy biểu cảm đó. Quả nhiên là vậy, ánh nhìn rực đỏ và nóng bỏng đang xoáy thẳng vào sau gáy mái tóc xám bồng bềnh của Edna khi bà bước ra cửa, mấy tia laser ấy chắc chắn đang làm tan chảy bộ não của bà. Sophie còn đeo vòng trên cổ tay, giống như Wonder Woman đeo đôi vòng vàng có khả năng chống chịu lửa, đạn và tên. Chống chịu là một từ vựng GRE khác, nhưng Ollie đã biết nghĩa từ đó từ trước rồi, qua mấy cuốn truyện tranh.
+Nhưng rồi cuối cùng, cả hai đứa trẻ đều bảo rằng chúng cần đi tiểu. Thật khó để lũ trẻ tập trung nhìn chằm chằm vào bất cứ thứ gì, dù có vĩ đại đến đâu, trong một thời gian quá dài.

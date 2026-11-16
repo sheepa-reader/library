@@ -1,157 +1,153 @@
-*Phần II: Rời Pondville • Ngày 1 (Thứ Ba)*
+*Phần I: Tri Thức Cổ Xưa*
 
-# Chương 13
+# Chương 11
 
-Vào buổi sáng, khi lũ trẻ đang nhảy trên tấm nhún lò xo, PJ chờ phi công phụ của mình. Ông không thể tin được là Sophie đã đồng ý đi cùng. Ông cất những chiếc túi rác của lũ trẻ vào phía sau chiếc xe Volvo. Ông nghĩ về việc mình sẽ phải mua cho lũ trẻ một vài chiếc vali đàng hoàng. Có rất nhiều thứ ông sẽ phải mua cho chúng. Rất nhiều thứ mà trẻ con cần.
+P J đưa tay che mắt, nhận ra chiếc xe đang tiến lại gần là xe quen; đó là xe của con gái ông, Sophie. Sophie là con gái út, đứa con còn sống, năm nay hai mươi sáu tuổi, đang lái chiếc Honda Civic cũ rích. Đó là chiếc xe cô đã đi từ khi lên mười sáu, trước thời điểm trúng số, chiếc xe mà Sophie nhất định không cho PJ đổi sang đời mới hơn. Sophie không hề ủng hộ việc PJ trúng ngần ấy tiền. Cô cho rằng điều đó đã làm ông suy sụp, tạo điều kiện cho ông tiếp tục chìm trong men rượu đến hết đời. Sophie tuyên bố không cần dù chỉ một xu.
 
-Mình nhớ cô ấy... chiếc mũ cất lên từ trên đầu ông. Chiếc mũ của Kate. Từ khi nào mà ông lại đội chiếc mũ bóng mềm lên đầu thế này? Ông không thể nhớ nổi. Ông chắc chắn là mình không ngủ mà đội nó, nhưng giờ ông lại đang đội nó lần nữa. Nó đã rời khỏi tay nắm cửa, nơi thuộc về nó, nhưng chiếc mũ có vẻ rất vui vì được đội lại. Một chiếc mũ sinh ra là để được đội, để che mắt ai đó khỏi ánh mặt trời để họ có thể bắt được một quả bóng bay cao. Ông có thể nhắm mắt lại và hình dung ra sân bóng mềm ở trường trung học, mùi cỏ thơm thế nào, lớp bụi đỏ gỉ từ sân bóng xoáy tròn trong không khí. Ông có thể nghe thấy đám con gái hô vang những câu cổ vũ khi chúng ngồi trên ghế băng. Các cầu thủ bóng mềm có nhiều tiếng hô hơn cả đội cổ vũ, chỉ là tiếng hô của họ giống những lời chế nhạo hơn. Có một câu cổ vũ mà PJ nhớ về một bạn trai, và bạn trai đó tên là Ed, nhưng Ed lại cổ vũ cho đội khác, thế nên họ đã bắn vào đầu hắn! PJ khúc khích cười khi nghĩ đến điều đó.
+PJ nhìn con gái đang tấp xe vào lề. Đứa con gái yêu dấu của ông. Trông Sophie có vẻ hơi tái nhợt, nhưng có lẽ đó là do ánh trăng. Sophie kẻ mắt quá đậm; Ivy vẫn luôn phàn nàn về điều đó, nhưng PJ nghĩ nó rất hợp với cô. Mái tóc đen của Sophie có những lọn nhuộm màu xanh, trên mũi đeo một chiếc khuyên vàng. PJ hoàn toàn có thể sống thiếu chiếc khuyên mũi đó, nhưng đó là mặt của Sophie, chứ không phải của ông. Sophie đeo những chiếc vòng tay bằng da dày để che đi những vết sẹo.
 
-PJ tự hỏi liệu Ollie và Luna có biết cách bắt và ném một quả bóng hay không. Tài liệu không nói gì về khả năng thể thao của chúng ở phần ghi nhận những vụ bạo lực gia đình được báo cáo tại nhà chúng. Nếu lũ trẻ ở lại với ông, nếu chúng không đến sống với Mark Stackpole ở Los Angeles đó, có lẽ chúng sẽ muốn chơi bóng chày và bóng mềm. Ông và Michelle Cobb có thể nuôi nấng chúng ở Tucson, trong thời tiết ấm áp, chúng có thể chơi quanh năm suốt tháng...
+Ai ở Pondville cũng biết PJ thường xuyên ngủ lại đây trên chiếc ghế đá sau khi rời quán rượu, thỉnh thoảng Sophie lại ra đây đón ông, nếu Fred không làm được việc đó. Nhưng tối nay, khi ông leo vào ghế phụ lái trên xe của Sophie, ôm chú mèo trong tay, Sophie trông rất giận dữ, giận dữ hơn bình thường, dù PJ chẳng hề nồng nặc mùi rượu. Cô không hỏi về chú mèo. Sophie nói bản thân đã đến nhà ông trước, nhưng ông không có nhà và ý ông là cái quái gì trong cái tin nhắn thoại rằng ông đã nhận nuôi hai đứa trẻ nhưng lại để lạc mất một đứa, Sophie bực bội hỏi.
 
-Mọi chuyện sẽ không giống như trước đâu, một giọng nói cất lên, và nó không phát ra từ chiếc mũ; chiếc mũ chưa bao giờ nói nhiều đến thế. Đó là một giọng nói khác từ đâu đó phía dưới. Một giọng khàn khàn. PJ nhìn xuống gầm xe. Pancakes ở đó, ngậm một con chim chết trong miệng. Ông không hiểu sao chú mèo có thể nói chuyện được nếu đang ngậm một con sẻ trong miệng. PJ chỉ đang nghe nhầm thôi. Dạo gần đây ông ngủ không ngon giấc do hội chứng cai rượu, và ông đã dậy từ rất sớm để hoàn thành việc vạch ra lịch trình cho chuyến đi. PJ cảm thấy nhói lòng vì Pancakes đã giết một con chim trong khuôn viên nhà Fred, ông biết rằng cái chết của một con chim sẽ làm bạn thân của ông buồn lòng. “Lại đây nào,” PJ nói, với tay xuống gầm xe và tóm lấy phần giữa thân của Pancakes. “Nhả ra mau, đến lúc lên đường rồi. Chúng ta sẽ đi khám phá nước Mỹ.”
+“Ồ, bố tìm thấy con bé rồi, bố tìm thấy rồi,” ông trấn an cô. “Cả hai đứa đều an toàn. Chúng ở nhà rồi, đang ngủ.”
 
-Pancakes nhả con chim ra, dù chú vừa mới bắt được con mồi. Chú ngửi thấy mùi PJ đã gói đồ ăn vặt cho mèo trong chiếc túi trống, và đó là loại ngon, làm từ thịt cá hồi thật! , gan gà và gôm guar, được tạo hình thành những chú cá nhỏ xíu. PJ đã đặt một chiếc khay vệ sinh trên sàn xe ở hàng ghế sau, ở khu vực phẳng giữa chỗ để chân của lũ trẻ.
+“Mẹ kiếp chuyện gì đang xảy ra thế, bố? Mẹ vừa để bố ở một mình có năm phút mà bố đã nhận nuôi hai đứa trẻ rồi à? Ai đưa cho bố mấy đứa trẻ này thế? Bố đi thẳng vào cô nhi viện à?”
 
-Và rồi Sophie lái chiếc xe Honda Civic tồi tàn cũ kỹ của cô tới, PJ liền gọi lớn ra sân sau bảo lũ trẻ mau ra lên xe Volvo; họ đang lãng phí thời gian ban ngày và ngoài kia trên đường có bao nhiêu thứ đang chờ được ngắm nhìn.
+“Bây giờ người ta không thực sự có cô nhi viện nữa đâu; chúng đã bị loại bỏ dần qua hệ thống nhận nuôi từ những năm 50 và 60...”
 
-Mười lăm phút sau, tất cả bọn họ đã nhồi nhét vào chiếc xe Volvo màu đỏ với biển số BIRD BRN , hướng thẳng ra rìa thị trấn, nơi tấm biển cảnh báo họ phải Cẩn Thận Khi Ra Ngoài Kia!
+“Bố, bố kiếm lũ trẻ ở đâu ra vậy?”
 
-“Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng chú PJ sẽ lái xe.
+“Được rồi, được rồi.” Chúng là cháu của anh trai ông. Chúng đã mồ côi. Chúng chẳng còn ai khác. Ông buộc phải đồng ý, nếu không chúng sẽ tiếp tục ở lại hệ thống chăm sóc nuôi dưỡng và chẳng ai biết điều gì sẽ xảy ra với chúng khi đó. Ai mà chẳng từng nghe những câu chuyện kinh hoàng.
 
-“Cô đang giúp chú của các cháu chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”
+“Bố, bố làm gì có anh em nào.” Sophie chỉ muốn nghe sự thật về việc làm thế nào mà ông có được những đứa trẻ này để Sophie có thể tìm cách trả chúng về. Nếu mẹ không có nhà, Sophie sẽ phải tự mình dọn dẹp cái đống hỗn độn này. Mẹ đã dặn Sophie cả ngàn lần là phải trông chừng bố khi bà và Fred đi vắng.
 
-“Chú ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”
+“Bố có anh trai chứ,” PJ khăng khăng. “Hoặc là bố từng có anh trai, nhưng ông ấy chết rồi. Mất cách đây khoảng một năm gì đó. Con thật may mắn khi chưa từng gặp ông ấy, nhưng đó không phải lỗi của lũ trẻ. Hoặc thực ra có khi con đã gặp rồi ấy chứ. Ông ấy làm chủ sân bowling.”
 
-“Ừ,” Ollie hùa theo, mặc dù cậu bé khá thích việc Sophie có những lọn tóc vệt xanh.
+“Chip Duggins á? Bố ơi, ông ấy có phải anh em gì với bố đâu.”
 
-“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ chú vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”
+“Ông ấy là. Vẫn là.”
 
-“Con không phải kẹo bông dẻo,” Sophie cằn nhằn.
+“Sao ông ấy lại khác họ?”
 
-Luna suy nghĩ lại về người phụ nữ đang lái chiếc xe này. Một cô nàng kẹo bông dẻo đeo kẻ mắt đen. Có thêm một người phụ nữ giúp cô bé tìm bố thì có lẽ sẽ hữu ích đây. “Chị có biết kế hoạch không?” Luna hỏi. “Chú PJ đã nói cho chị nghe kế hoạch chưa?”
+“Khác bố. Cùng mẹ. Bố của ông ấy là Roy Duggins. Đúng là một tên khốn đích thực.”
 
-“Chúng ta sẽ đến California để tìm bố của hai đứa.” Chắc là Sophie đã không hỏi han đủ điều trước khi bước lên xe cùng bố cô và mấy đứa trẻ này, nhưng cô cũng thấy mừng vì được lái xe rời khỏi Massachusetts, nơi chẳng còn gì cho cô sau khi công việc mà cô gắn bó gần bốn năm trời bỗng tan thành mây khói. Cô mừng vì được lái xe rời xa những gã đàn ông đội mũ Red Sox mà cô từng ngủ cùng dạo gần đây. “Em là đứa con gái goth đầu tiên của anh đấy,” tất cả bọn họ đều nói vậy. Sophie không thích việc mình trở thành một mục tiêu trong danh sách những việc cần làm trước khi chết, nhưng dù sao cô vẫn về nhà với bọn họ. Blanche nói rằng chính căn bệnh trầm cảm lâm sàng của cô đang đưa ra các quyết định thay cho cô, và một ngày nào đó cô sẽ phải bắt căn bệnh trầm cảm lâm sàng đó ngừng cầm lái. Chà, ngay lúc này đây cô đang lái chiếc xe Volvo của Fred, và giúp bố cô chăm sóc hai đứa trẻ mồ côi. Trầm cảm lâm sàng không làm được việc đó đâu.
+“Và những đứa trẻ này, chúng đang ngủ ở nhà bố á?”
 
-Luna rất vui vì cô nàng kẹo dẻo này không nói với cô bé rằng việc tìm kiếm người cha ruột là điều bất khả thi. “Ông ta không biết mình là bố em, nhưng đúng là vậy. Ollie và em trông không giống nhau vì chúng em chỉ là chị em cùng mẹ khác cha. Chúng em có chung một người mẹ, nhưng mẹ đã tự sát.”
+“Ở nhà Fred. Nhà mẹ con. Con biết là bố không thể để lũ trẻ ở nhà bố được rồi. Lũ trẻ mồ côi, và chúng cần một nơi để ở,” PJ nói. PJ thò tay vào chiếc quần soóc túi hộp của mình và lấy ra bức ảnh lũ trẻ đi kèm trong tập hồ sơ của Belinda Bell. Ông giơ lên cho Sophie xem. “Nhìn này,” ông nói. “Chúng là những đứa trẻ ngoan. Một đứa trong số chúng còn biết chơi piano cơ đấy.”
 
-Chà, từng đó thông tin là quá nhiều cho một buổi sáng sớm, dù Sophie đã biết trước câu chuyện này. Sophie từng tra cứu trên mạng những gì đã xảy ra với bọn trẻ, đã đọc các bài báo, nhưng cô không ngờ bọn trẻ lại nhắc đến chuyện đó trực diện như vậy. “Chị rất tiếc vì sự mất mát của các em,” cô nói. Điều đó có vẻ thật gượng gạo khi nói với một đứa trẻ.
+Sophie liếc nhìn bức ảnh của lũ trẻ. Một cậu bé tóc đỏ và một cô bé tóc nâu nhỏ nhắn. Trông chúng có vẻ là những đứa trẻ ổn đối với Sophie, nhưng PJ Halliday, kẻ đóng vai Người Bố Tồi Tệ Nhất Thế Giới, không phải là kiểu người nên chịu trách nhiệm chăm sóc độc lập cho trẻ em. Ông không phải là kiểu người nên nhận nuôi những đứa trẻ mồ côi. Ông là kiểu người dành cả cuối tuần trong phòng giam vì say rượu. Ông là kiểu người chỉ gọi điện cho con gái khi ông cần thứ gì đó. Tuần trước ông đã gọi cho cô vì ông gặp rắc rối không biết cách lắp ráp chiếc giường tầng IKEA thế nào, đã để lại một tin nhắn thoại dài dòng, lủng củng, vô nghĩa, và giờ thì nó đã có vẻ hợp lý hơn rồi. “Thế kế hoạch của bố là gì? Bố đang sống ở nhà Fred cùng với những đứa trẻ mồ côi này á?”
 
-Luna ghét việc người lớn cứ nói như vậy. Cô bé sẽ không thèm nói chuyện với Sophie nữa nếu Sophie cũng tỏ ra ngớ ngẩn như những người lớn khác. Luna lục lọi trong chiếc túi xách hồng to bản của mình để tìm việc khác làm; chiếc túi chứa đầy đồ đạc từ căn phòng cũ của cô bé, cùng với cuốn kỷ yếu và nhật ký của mẹ. Cô bé có thể xem lại cuốn kỷ yếu thêm lần nữa. Gương mặt của Mark Stackpole được khoanh tròn bên trong. Thậm chí Luna còn chẳng phải là người khoanh tròn nó; chính mẹ cô bé đã làm điều đó.
+“Chỉ tạm thời thôi. Ngày mai chúng ta sẽ lên đường đi chơi xa. Lũ trẻ có một người họ hàng ở Los Angeles, và chúng ta sẽ lái xe đến đó để gặp ông ta. Đảm bảo rằng ông ta đủ tư cách. Bố mẹ của lũ trẻ vừa mới qua đời trong một vụ án giết người tự sát, nên đây là một tình huống tế nhị.”
 
-“Sophie, báo cho bố biết khi nào con mệt nhé, rồi bố sẽ lái thay,” PJ nói.
+“Đi chơi xa á? Bố định dẫn chúng đi rạp xiếc luôn không? Hay Disney World?”
 
-“Bố ơi, bố không lái xe được đâu.”
+“Rất buồn cười đấy, Sophie, nhưng có vẻ như người đàn ông ở California này có thể chính là bố ruột của con bé. Chúng ta phải bắt người đàn ông này chịu trách nhiệm về bọn trẻ. Bố chỉ chăm sóc lũ trẻ đến hết mùa hè thôi. Sau đó chúng sẽ đến sống với ông ta.”
 
-“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ chú có vấn đề gì à?”
+“Ồ,” Sophie nói, và điều đó phần nào làm thay đổi cục diện. Chỉ cho đến hết mùa hè. Bố cô giống một người vận chuyển hơn là một người giám hộ hợp pháp. Ông chỉ phải đưa lũ trẻ đến gặp bố ruột của chúng ở California. “Và nếu ông ta không chịu nhận trách nhiệm làm cha của chúng thì sao?”
 
-“Đúng thế,” Sophie nói.
+PJ lại nói dối nữa rồi. Lần này ông rất có hứng. “Bên nhân viên công tác xã hội đã sắp xếp người khác vào tháng Chín. Bố bảo họ là bố có thể lo cho hai đứa bé vào mùa hè này, và bố muốn thử khuyên nhủ anh chàng này trước đã. Cho anh ta thấy bản thân sẽ bỏ lỡ những gì nếu không chịu tìm hiểu về các con của mình. Đó là bố của đứa con gái, nhưng bố đang hy vọng anh ta sẽ nhận luôn cả thằng bé. Có vẻ rất quan trọng việc chúng được ở cùng nhau. Chúng là Sinh đôi Ireland chỉ cách nhau chưa đầy một năm.”
 
-“Chú uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng chú đang khá lên rồi.”
+Mọi chuyện không tệ như Sophie nghĩ, dù cô không hiểu tại sao bố mình lại phải là người đi khuyên nhủ kẻ vô trách nhiệm này, nhưng Sophie thực sự không biết dịch vụ nhận nuôi tạm thời hoạt động ra sao. Có lẽ không có ai khác quan tâm đến những đứa trẻ này. Rõ ràng, hệ thống đã hỏng hóc rồi. Ai cũng nghe điều đó cả. “Và ai sẽ là người lái xe trong chuyến đi này thế? Bố lấy lại được bằng lái chưa?”
 
-“Bố của chúng cháu cũng lái xe đấy chứ,” Ollie nói. “Bố là cảnh sát. Và bố cũng uống rất nhiều bia.”
+Ông lắc đầu. “Chưa. Bốn ngày nữa mới hết thời hạn bị tước bằng.” Nhưng ông vẫn muốn khởi hành vào ngày mai. Muốn tận dụng tối đa kỳ nghỉ hè của lũ trẻ và đoàn tụ với Michelle Cobb càng sớm càng tốt. Ông đã tính toán sẽ lái xe cẩn thận để không bị cảnh sát tuýt còi. “Bố nghĩ con có thể lái xe chở chúng ta,” ông nói. “Nếu con muốn.”
 
-“Người ta cho phép cảnh sát làm bất cứ điều gì mà,” Sophie nói.
+“Không, bố ạ. Không, con cảm ơn. Không đời nào.”
 
-“Chú không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Chú là một người say vui vẻ. Chú là một người rất yêu thương con cái.”
+“Được rồi, được rồi, bố chỉ gợi ý thế thôi. Con không cần phải quyết định ngay lập tức. Chiếc Honda Civic già nua này không thể đi chuyến đường dài được, nhưng Fred đã cho bố mượn chiếc Volvo để đi rồi.”
 
-Sophie đảo mắt ngán ngẩm. Thật kinh khủng khi có bất kỳ loại bợm nhậu nào làm bố, dù là bợm nhậu vui vẻ hay bợm nhậu cục súc. Mọi thứ luôn thật rối rắm và đáng sợ. Đó luôn là kẻ đặt rượu chè lên trên việc chăm sóc bạn.
+“Thật ạ?”
 
-Một chiếc xe thể thao màu trắng lao vút qua họ, cúp đầu xe của họ, và PJ với tay sang phía Sophie rồi bấm còi inh ỏi.
+PJ gật đầu.
 
-“Bố!”
+Sophie trầm ngâm suy nghĩ. Nếu Fred thấy việc bố giúp đỡ những đứa trẻ này là ổn, vậy thì có lẽ nó ổn thật. Sophie tin tưởng Fred.
 
-“Chắc chắn bố lái xe giỏi hơn cái tên khốn đó.”
+PJ nhìn con gái mình. Đó không hẳn là một lời nói dối hoàn toàn; chẳng phải PJ có chìa khóa trong tay hay sao? Fred đã cho ông mượn chiếc Volvo để đi mua đồ tạp hóa, và nếu ông dùng nó cho việc lớn hơn một chút thì sao nào? Việc ông đang làm rất quan trọng mà. PJ biết Freddy sẽ cho phép ông lấy chiếc xe nếu biết rõ toàn bộ hoàn cảnh, nhưng mỗi lần gọi cho Fred trong suốt tháng qua kể từ khi rời đi, PJ đều nhận được hộp thư thoại đáng ghét. Thế nhưng Fred rất yêu quý trẻ con và chắc chắn sẽ muốn giúp đỡ chúng. Và Sophie có vẻ tin rằng Fred thực sự đã giao chiếc Volvo cho ông trong chuyến đi này, bởi vì cô không hề mắng mỏ ông về chuyện đó, và nếu điều đó có thể tin được thì nó gần như là sự cho phép vậy.
 
-“Bố không được phép chạm vào vô lăng. Và đừng có chửi thề trước mặt bọn trẻ.”
+Sophie lái xe vào đường dẫn vào nhà và cảm thấy nhẹ nhõm khi thấy nhà của Fred vẫn còn nguyên vẹn. Chiếc xe Volvo màu đỏ đang đỗ ở lối đi, chờ được đưa đi xuất phát. Cơn đau thắt lại trong lồng ngực Sophie khi cô nghĩ đến chuyện gì có thể xảy ra với những đứa trẻ ở trong nhà mà không có người lớn nào bên cạnh; nhỡ đâu một đứa ngã xuống cầu thang tầng hầm, hoặc vô tình uống phải dung dịch tẩy cống, hay bị bỏng bởi bếp lò thì sao. Cô bước vào nhà, cửa trước không khóa, và chạy vội lên lầu. Cô nhìn vào phòng làm việc của Fred và thấy lũ trẻ đang ở trên giường, cả hai đứa đều có mặt đầy đủ, an toàn và đang ngủ say sưa. Nếu chúng đang phải chịu bất kỳ nỗi đau nào, nó hoàn toàn không lộ ra trên gương mặt của chúng.
 
-“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Chú có muốn cháu kể ra hết không?”
+Sophie tựa người vào khung cửa để lấy lại hơi thở. Bố mẹ chúng đã qua đời trong một vụ tự sát sau khi giết người, và ngày mai chúng sẽ bắt đầu chuyến đi đường dài cùng bố cô. Một sự phân tâm vui vẻ đây mà, chắc ông đang nghĩ vậy. Thậm chí ông còn chẳng thèm lên lầu cùng cô để kiểm tra tình hình lũ trẻ.
 
-“Có chứ,” Luna nói.
+Sophie cũng ở tuổi xấp xỉ chúng khi chị gái cô qua đời, và cô nhớ mẹ mình thực ra từng gửi cô đi chuyến du lịch tới Disney World vào hai năm sau đó. Bố mẹ cô không đi cùng, Sophie tự mình lên máy bay với một nhóm trẻ em khác. Một tổ chức nào đó đã tổ chức chuyến đi Disney kéo dài năm ngày dành riêng cho những đứa trẻ mất đi anh chị em ruột. Họ tặng Sophie một chiếc áo phông có dòng chữ: Anh chị em còn sống, cứ như thể đó là một câu lạc bộ vui vẻ nào đó vậy. Chiếc áo phông có màu đỏ thẫm.
 
-“Có,” PJ nói.
+Tất cả những đứa trẻ khác trong chuyến đi đều có anh chị em qua đời vì bệnh tật kéo dài, điều đó khiến Sophie cảm thấy có chút lạc lõng, rằng cô chưa từng hiến tủy xương để cố gắng cứu lấy chị gái mình. Tất cả bọn họ đều là thiếu niên trong chuyến đi, thế nên họ không quá hứng thú với công viên giải trí; sự kỳ diệu của Disney đã phai mờ, và tất cả lũ thiếu niên chỉ muốn uống say rồi sờ soạng lẫn nhau. Đó là lần đầu tiên Sophie bị một cậu con trai luồn tay vào quần và thò ngón tay lục lọi khắp nơi như thể đang tìm thứ gì đó rơi xuống cống bồn rửa bát. Em giờ là một người phụ nữ rồi đấy, Sophie dường như nghe thấy tiếng Kate văng vẳng bên tai mình. Kate đã mất đi trinh tiết vài tuần trước khi qua đời, với cậu thiếu niên sẽ là bạn cặp cùng cô bé trong buổi khiêu vũ cuối cấp. Kate đã kể cho Sophie nghe tất cả về chuyện đó, mặc dù lúc ấy Sophie mới chỉ mười một tuổi, nhưng Kate rất thích kể cho cô em gái nghe mọi điều thú vị mà tuổi thiếu niên đang chờ đợi phía trước.
 
-“Tuyệt đối không,” Sophie nói. “Bố, nói chuyện với bọn trẻ đi. Kể cho chúng nghe một câu chuyện gì đó đi.”
+“Con có khoảng thời gian tuyệt vời chứ?” Mẹ của Sophie hỏi khi cô trở về sau chuyến đi Disney. “Con có kết bạn được không?”
 
-“Ồ, còn hơi sớm để kể một trong số những câu chuyện của chú, nhưng mà... ồ đợi đã, chú có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc lò nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.
+Sophie đã gật đầu, bởi vì cô biết rằng nếu cô hạnh phúc, mẹ cô có thể cảm thấy hạnh phúc. Sophie cất chiếc áo phông họ tặng vào ngăn kéo dưới cùng của Kate, nơi cô biết chắc sẽ chẳng ai tìm thấy nó. Vài tháng sau, khi học về Nữ hoàng Victoria trong lớp lịch sử, cách mà Nữ hoàng Victoria mặc đồ đen suốt bốn mươi năm sau cái chết của Albert, Sophie bắt đầu đến trường mặc đồ đen từ đầu đến chân. Có lẽ điều đó thật sáo rỗng, nhưng dẫu sao nó còn hơn chiếc áo phông màu hồng lớn tiếng tuyên bố rằng bạn đã sống sót.
 
-“Chú mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.
+“Khỉ thật. Mình phải giúp mấy đứa nhỏ này thôi,” Sophie nói lớn, nhìn gương mặt chúng, bình thản và vô tư dưới ánh sáng dịu nhẹ hắt ra từ chiếc máy chiếu hình sao. Phải có ai đó giúp chúng chứ. Không thể cứ để chúng ở một mình với người bố ngốc nghếch của mình được. Mà cô còn vướng bận việc gì khác khiến cô không thể đi du lịch cơ chứ? Không có gì cả. Cô chẳng có gì bận tâm cả. Sophie nhớ lại sự tử tế của một nhân viên tư vấn trong chuyến đi Disney, người đã hứa với cô rằng cô sẽ không phải buồn mãi mãi như thế. Dù điều đó không hẳn là hoàn toàn đúng sự thật, nhưng nghe thật ấm lòng làm sao vào thời điểm ấy.
 
-Luna hỏi: “Chú giàu lắm hả chú PJ?”
+Sophie khép cửa phòng làm việc của Fred lại và quay trở lại tầng dưới, thấy PJ đang nằm trên chiếc ghế bành của Fred, bế chú mèo trên tay.
 
-Sophie khịt mũi. “Bố chưa kể cho các em nghe à?” cô hỏi.
+“Thấy chưa?” ông vừa nói vừa ngước lên nhìn. “Mấy đứa nhỏ ngoan lắm phải không? Đều đang ở xứ sở thần tiên cả rồi đúng không?”
 
-“Kể cái gì cơ?” Ollie hỏi.
+“Bố. Bố không được phép để trẻ con ở nhà một mình nữa đâu. Tuyệt đối không bao giờ được thế nữa. Chuyện tồi tệ đã có thể xảy ra rồi đấy. Một chuyện thực sự tồi tệ.”
 
-“Bố chị là người trúng giải xổ số triệu đô đấy. Đó là thành tựu vĩ đại nhất đời ông ấy. Ông ấy thậm chí còn mặc cái áo nỉ mà họ tặng nữa cơ.” Sự thật là vậy, Xổ số Tiểu bang Massachusetts đã tặng cho PJ một chiếc áo hoodie có khóa kéo. Họ tặng nó cho bất kỳ ai trúng thưởng trên một mức tiền nhất định; đó là quảng cáo tốt. Để chứng minh rằng ngoài đời thực có những người trúng xổ số.
+“Bố xin lỗi. Con nói đúng, dĩ nhiên là con nói đúng rồi. Bố cứ nghĩ tụi nhỏ sẽ ổn thôi vì chúng đang ngủ, nhưng con nói đúng.”
 
-“Là một triệu rưỡi cơ,” PJ tự hào nói. “Từ một tấm vé cào đấy.”
+“Đương nhiên là thế rồi,” Sophie nói. “Chúng suýt nữa thì bị thương nặng đấy.”
 
-“Chà,” Ollie nói. “Chú thực sự trúng xổ số luôn á?”
+“Con nói năng thật khó nghe quá đấy, Sophie.”
 
-Luna thì thầm: “Cảm ơn chú,” rồi ôm chiếc iPad vào ngực.
+“Đó là một việc làm quá ư là tồi tệ.”
 
-PJ mỉm cười, cảm thấy vô cùng đắc ý. Trẻ con hiểu được việc trúng xổ số ấn tượng đến thế nào, đó không phải là thứ mà ai cũng có thể làm được. Ông ghét cái cách Sophie coi thường chuyện chơi vé cào cứ như đó là trò của đám người vô lại tầng lớp hạ lưu vậy. Ông đã trúng thưởng đường đường chính chính, và ông đã dùng số tiền của mình để làm những việc có ích. Ông đã là một công dân có đóng góp cho cộng đồng Pondville.
+“Bố đã bảo là bố sẽ không tái phạm nữa cơ mà.”
 
-“Tối nay chúng ta được ở khách sạn sang trọng chứ ạ?” Ollie hỏi.
+“Tốt.” Và rồi Sophie chần chừ không muốn rời đi. Cô chẳng muốn đứng đó đôi co với bố mình chút nào, nhưng cô cũng chẳng buồn lái xe quay về căn hộ của mình ở New Bedford. Suốt hai tháng qua, cô chỉ thui thủi một mình trong phòng ngủ của căn hộ đó, ăn bim bim phô mai và xem tivi nhảm nhí. Cô đang thất nghiệp, đã thất nghiệp được hai tháng trời rồi. Cô ở chung với bốn người bạn cùng phòng, và cô ghét ba người trong số đó. “Rồi bố kiếm đâu ra con mèo này thế?” cuối cùng cô cũng cất lời hỏi, dù cô chẳng mấy mặn mà gì với việc nghe những câu chuyện dài dòng của ông.
 
-PJ bật cười. “Đương nhiên rồi.”
+“Bố nhặt con mèo này cách đây hai tuần, nó là mèo hoang,” PJ đáp gọn lỏn. “Nó cứ lẽo đẽo đi theo bố về nhà. Nó tên là Pancakes.” Ông vuốt ve lưng chú mèo.
 
-“Và gọi khoai tây chiên qua dịch vụ phòng chứ ạ?” Ollie từng xem một bộ phim về một đứa trẻ nhà giàu sống một mình trong khách sạn, và cậu bé vẫn luôn khao khát được sống theo cách đó. Được ăn ngập mặt khoai tây chiên và kem phục vụ trên đĩa bạc.
+“Bố biết con bị dị ứng mèo cơ mà.”
 
-“Chắc chắn rồi. Chú sẽ gọi khoai tây chiên cho cháu.”
+À, PJ thầm nghĩ. Ra là thế. Sophie mới là đứa bị dị ứng. “Bố sẽ mua thuốc Claritin cho con. Chú mèo là bạn nhỏ của bố, bố không bỏ nó đâu. Đây là một quãng thời gian vô cùng hào hứng trong đời bố đấy, Sophie ạ, thực sự là vậy đấy. Với lại còn chuyện này nữa, con sẽ không thể tin được đâu, nhưng bố đã bỏ rượu rồi. Bố đã cai sạch giọt nào kể từ khi mẹ con bỏ đi.”
 
-“Có khách sạn nào có hồ bơi không ạ?” Luna hỏi.
+Sophie nhìn ông. Cô đâu có ngu ngơ. Mới có một tháng kể từ ngày Fred và mẹ cô rời đi, mặc dù tối nay trông ông có vẻ tỉnh táo thật. Bình thường ông sẽ hát hò suốt dọc đường về nhà từ cánh đồng nam việt quất, nhưng lần này ông lại trò chuyện với cô. Một cuộc trò chuyện có vẻ kỳ quặc, nhưng rành mạch. “Thế thì tuyệt quá, bố ạ,” cô nói, không dám tin hoàn toàn là điều đó có thể xảy ra. “Bằng cách nào vậy? Bố có đang tham gia Hội Người Nghiện Rượu Ẩn Danh không?” Trước đây ông chưa bao giờ kiên trì nổi với hội đó trong những lần hiếm hoi mẹ Sophie ép ông đi.
 
-“Không,” PJ nói, nét mặt tối sầm lại. “Không. Không có hồ bơi nào hết. Tuyệt đối không có hồ bơi trong chuyến đi này.”
+“Không hội họp gì sất,” ông tự hào đáp, bởi vì hội nhóm đó chẳng qua chỉ là một lũ thất bại tụ tập dưới tầng hầm nhà thờ. “Bố tự cai hoàn toàn một mình cho đám cưới đấy. Bố sẽ làm phù rể trong đám cưới của mẹ con.”
 
-“Cơ mà chị ấy có chết đuối trong hồ bơi đâu, bố,” Sophie nói.
+Sophie ngạc nhiên khi bố cô biết chuyện đám cưới, cô cứ tưởng họ sẽ giấu tiệt không cho ông biết chứ. “Fred kể cho bố nghe về lễ đính hôn à?”
 
-“Ai cơ?” Luna hỏi. “Ai chết đuối vậy?”
+“Đương nhiên là Fred phải kể cho bố rồi! Bố là phù rể của ông ấy cơ mà. Và bố sẽ dẫn theo Michelle Cobb đi cùng với tư cách là khách mời đi kèm. Bố sẽ giữ tỉnh táo cho đến lúc đó, để làm thật tốt vai trò phù rể của mình.”
 
-“Con gái chú, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời chú.”
+Sophie liền sập bẫy. “Michelle Cobb là ai?”
 
-“Nhưng không phải ở hồ bơi đâu,” Sophie nói. “Ở đầm lầy nam việt quất cơ.”
+“À, cô ấy là mối tình đầu của bố. Người mà bố đã bỏ lỡ. Cô ấy đã lấy người khác khi bố đi lính ở Việt Nam. Và giờ cô ấy cuối cùng cũng độc thân trở lại rồi. Cô ấy đang sống ở Tucson, bang Arizona, và bố cùng mấy đứa nhỏ sẽ ghé qua thăm cô ấy trên đường đi California.”
 
-“Làm sao mà người ta lại chết đuối ở đầm lầy nam việt quất được nhỉ?” Luna hỏi. “Chúng có sâu lắm đâu.” Mọi người ở Pondville đều biết rõ về quả nam việt quất.
+“Bố vẫn hay gọi điện trò chuyện với Michelle đấy à?”
 
-“Đó là bi kịch lớn nhất cuộc đời chú,” PJ nói.
+“À, cô ấy có biết là bố đến đâu. Bố không muốn làm cô ấy hoảng sợ. Chồng cô ấy mới mất cách đây chưa lâu.”
 
-“Cháu rất tiếc vì sự mất mát của chú,” Ollie nói.
+Sophie đưa tay ôm mặt. “Sao lúc nào bố cũng chẳng thể bình thường được như người ta hả?”
 
-“Em thật tốt bụng, Ollie,” Sophie nói. Cô rất quý cậu bé ngọt ngào này. Cậu bé bị thưa răng cửa, nên mỗi khi nói chuyện lại phát ra một tiếng gió xì xèo rất khẽ.
+“Bố là một người lãng mạn. Bố chỉ là một ông già đang tìm kiếm một người đi cùng đến đám cưới của vợ cũ thôi mà.”
 
-“Cháu ghét việc mọi người cứ nói câu đó,” Luna nói. “Nó không đúng nghĩa của từ xin lỗi. Xin lỗi là khi bạn làm tổn thương người khác và ước gì mình đừng làm thế.”
+Sophie nhướng mày. Thôi được rồi, cô thầm nghĩ. Cứ để ông đi tìm Michelle Cobb đi. Biết đâu bà ấy lại có ích cho ông. Cô thấy mừng vì ông không tỏ ra khó chịu về đám cưới. Trông thậm chí còn có vẻ vui mừng nữa là khác. Và bố cô rất cần một ai đó chăm sóc ông. Biết đâu Michelle Cobb lại gánh vác được công việc đó. Chúc bà ấy may mắn vậy. “Được rồi,” cô nói.
 
-Sophie hối hận vì đã nói với cô bé rằng cô rất tiếc về sự mất mát của em. Đó là một câu nói sáo rỗng, Sophie thầm công nhận. Nó cũng chưa từng cứu vãn được điều gì cho chính Sophie.
+“Được rồi là sao?”
 
-Ollie phá vỡ sự im lặng bằng câu nói: “Luna từng đấm Elsie Dawson trong vở kịch ở trường năm ngoái. Và chị ấy đã không chịu xin lỗi.”
+“Con sẽ giúp bố trông mấy đứa nhỏ. Con sẽ đi cùng trong chuyến du lịch xuyên bang của bố. Con thất nghiệp rồi, nên con đi được.”
 
-PJ lên tiếng: “Chú chắc chắn là Elsie đáng bị như vậy.”
+“Thế công việc của con bị sao thế?”
 
-Luna mỉm cười. Cô bé không ngờ chú PJ lại nói thế.
+“Công ty phá sản rồi,” Sophie nói; đó chỉ là một phần nhỏ của câu chuyện, nhưng cô không định ém nhẹm mọi chuyện với bố. Kể từ khi Sophie mất việc làm trợ lý cho giám đốc điều hành của một công ty sản xuất thiệp chúc mừng, Fred vẫn luôn chu cấp tiền nhà và tiền đi chợ cho cô. Fred nói rằng ông rất sẵn lòng làm điều đó miễn là Sophie đừng kể với mẹ rằng mình đang thất nghiệp. Fred nghĩ Ivy lo lắng quá nhiều, và ông muốn bà được thảnh thơi. Ông muốn đưa bà đến Alaska nơi bà có thể thư giãn. “Bà ấy đã dành cả đời để lo lắng,” Fred từng nói, cứ như thể ông đã xuất hiện trong suốt cuộc đời của mẹ Sophie vậy. “Cứ cho bà ấy vài tháng này để thư giãn đi. Và biết đâu, con thử nghĩ đến chuyện nộp đơn học cao học xem nào? Điều đó sẽ làm bà ấy vui đấy.” Fred bảo Sophie rằng cô nên thực sự cân nhắc ngành trị liệu ngôn ngữ. Đó là một nghề nghiệp ổn định và có mức lương cao, và đó sẽ là một cách tuyệt vời để tưởng nhớ người chị quá cố của cô. Kate từng cần gặp một chuyên viên trị liệu ngôn ngữ khi còn học cấp hai, và chắc hẳn mẹ đã kể chuyện đó cho Fred nghe, điều khiến Sophie ngạc nhiên, bởi vì mẹ cô hầu như chẳng bao giờ nhắc đến Kate.
 
-PJ hứa hẹn: “Chúng ta sẽ ở một khách sạn sang trọng khi đến Thác Niagara.” PJ đã lên kế hoạch cho chuyến đi, in một bản đồ từ máy tính của Fred và quyết định Thác Niagara sẽ là điểm dừng chân đầu tiên của họ. “Chúng ta sẽ làm rất nhiều điều tuyệt vời.”
+Nhưng Sophie chẳng nộp đơn vào chương trình sau đại học nào cả, cũng chưa hề thi GRE [5] . Cô cứ nằm lì trên giường, hút cần sa và xem các tập phim của Arrested Development . “Ý con là, bố ạ, con có thể giúp.”
 
-Ollie tiếp lời: “Nhưng không được bơi.”
+“Ừ, thế thì tuyệt. Thực sự tuyệt đấy, Sophie. Chúng ta sẽ khởi hành vào ngày mai.”
 
-PJ đồng tình: “Không bơi lội gì hết.”
+“Nhưng sao chúng ta không bay thẳng đến California nhỉ? Mình có thể giải quyết xong xuôi tình hình cho bọn trẻ, rồi từ đó bố có thể bắt chuyến bay khác đi Tucson.”
 
-Luna bĩu môi: “Ngớ ngẩn.”
+“Sophie.”
 
-Ngớ ngẩn thật, Sophie thầm đồng tình. Phần tuyệt vời nhất khi ở khách sạn lúc nhỏ chính là hồ bơi. Khi họ đi nghỉ mát, trước khi Kate qua đời, họ luôn xuống hồ bơi. Cô nhớ có lần họ đến New Hampshire dự một đám cưới, và Kate đã dạy cô cách chơi trò đấu vật trên vai dưới nước, nhấc bổng Sophie lên vai mình. Sophie từng cào vào mặt một cậu bé khác khiến cậu bé chạy đi khóc với mẹ. Cả Sophie và Kate đều gặp rắc rối, nhưng điều đó hoàn toàn xứng đáng. Họ đã chiến thắng trận đấu đó. Họ là nhà vô địch đấu vật dưới nước bất bại cho đến khi rời khỏi hồ bơi. Mắt Sophie rưng rưng. Cô lẩm bẩm: “Mẹ kiếp, tại con mèo.” Cô rẽ ở lối ra tiếp theo để tìm một cửa hàng CVS.
+“Gì ạ?”
 
-Ollie ngẩng đầu lên từ chiếc iPad và hỏi: “Chúng ta sắp tới chưa ạ?”
+PJ không thích đi máy bay, chúng vẫn luôn có vẻ quá nguy hiểm, và ông luôn tránh né chúng kể từ khi chính phủ Hoa Kỳ đưa ông bay về từ Việt Nam. Hơn nữa, PJ ôm ấp một tầm nhìn lãng mạn cho chuyến đi, muốn thực hiện nó theo cách mà mẹ ông từng du hành khắp đất nước, bằng ô tô và tàu hỏa. Ông cần Sophie đồng lòng với mình. “Sophie. Con là người tham gia muộn vào kế hoạch này. Bố nghĩ việc con muốn giúp bố chăm sóc bọn trẻ là rất tuyệt, bố rất trân trọng điều đó, nhưng bố sẽ làm theo cách của mình. Bố cần được ngắm nhìn đất nước này. Michelle Cobb và chồng bà ấy đã đi đến mọi nơi. Chuyện đó được viết trong cáo phó của ông ấy, rằng họ đã đi khắp đất nước trên một chiếc xe RV. Ở New Orleans, họ đã ăn bánh beignet. Con có biết bánh beignet là gì không?”
 
-Họ vẫn còn năm tiếng rưỡi nữa mới đến Thác Niagara.
+“Nó giống bánh rán kiểu Pháp ạ?”
 
-Sophie đáp: “Chưa, chị chỉ dừng lại mua thuốc dị ứng thôi. Mọi người có cần gì không?”
+“Chính xác. Một chiếc bánh rán kiểu Pháp. Và bố chưa bao giờ được ăn nó cả. Bố đã sáu mươi ba tuổi rồi mà chẳng đi đến đâu cả. Bố chẳng làm được tích sự gì.”
 
-Ollie nói: “Đồ ăn vặt.”
+Sophie mím chặt môi. Kể từ khi chị gái qua đời, bố cô chẳng làm gì ngoài việc vùi đầu vào uống rượu cho đến chết. Nhưng cô cũng chẳng đi đến đâu cả. Sự trì trệ tuổi trưởng thành, cô từng thấy người ta gọi như vậy. Những người ở độ tuổi đôi mươi chẳng chịu dịch chuyển đi đâu xa nhà. Cô đã theo học trường cao đẳng tiểu bang địa phương cách nhà hai mươi phút rồi cứ thế bám trụ lại khu vực đó để làm việc sau khi tốt nghiệp.
 
-PJ nói thêm: “Bao cao su.” Ông không biết Michelle Cobb đã làm những gì kể từ khi Gene qua đời, và ông đã xem chuyên mục trên chương trình 60 Minutes nói về các bệnh lây truyền qua đường tình dục ở các cộng đồng người cao tuổi.
+“Được rồi,” Sophie nói với bố. “Thôi được. Chúng ta sẽ lái xe.”
 
-“Ghê quá, bố. Không đời nào.”
-
-Luna tháo dây an toàn và bảo: “Em sẽ vào cùng chị.”
-
-“Được chứ. Thế thì tuyệt quá.” Luna khiến Sophie hơi căng thẳng. Sophie muốn cô bé thích mình, nhưng có vẻ như cô bé chẳng thích ai cả. Luna cứ cau mày suốt, hoặc khi cười trông giống như thể có ác quỷ vừa thì thầm điều gì đó vào tai và người nghe biết hắn đang đến tìm mình.
+PJ mỉm cười. “Đó mới là con gái của bố chứ.”

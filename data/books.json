@@ -38,334 +38,411 @@
       },
       {
         "id": "chuong-3",
-        "title": "Pondville, Massachusetts",
-        "part": "Phần I: Tri Thức Cổ Xưa",
+        "title": "Bản Đồ Chuyến Đi",
+        "part": "",
         "path": "content/books/duong-ve-mien-diu-em/chuong-3.md",
         "noDropcap": true
       },
       {
         "id": "chuong-4",
-        "title": "Chương 1",
+        "title": "Pondville, Massachusetts",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-4.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-4.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-5",
-        "title": "Chương 2",
+        "title": "Phần I: Tri Thức Cổ Xưa",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-5.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-5.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-6",
-        "title": "Chương 3",
+        "title": "Chương 1",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-6.md"
       },
       {
         "id": "chuong-7",
-        "title": "Chương 4",
+        "title": "Chương 2",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-7.md"
       },
       {
         "id": "chuong-8",
-        "title": "Chương 5",
+        "title": "Chương 3",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-8.md"
       },
       {
         "id": "chuong-9",
-        "title": "Chương 6",
+        "title": "Chương 4",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-9.md"
       },
       {
         "id": "chuong-10",
-        "title": "Chương 7",
+        "title": "Chương 5",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-10.md"
       },
       {
         "id": "chuong-11",
-        "title": "Chương 8",
+        "title": "Chương 6",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-11.md"
       },
       {
         "id": "chuong-12",
-        "title": "Chương 9",
+        "title": "Chương 7",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-12.md"
       },
       {
         "id": "chuong-13",
-        "title": "Chương 10",
+        "title": "Chương 8",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-13.md"
       },
       {
         "id": "chuong-14",
-        "title": "Chương 11",
+        "title": "Chương 9",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-14.md"
       },
       {
         "id": "chuong-15",
-        "title": "Chương 12",
+        "title": "Chương 10",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-15.md"
       },
       {
         "id": "chuong-16",
-        "title": "Chương 13",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
+        "title": "Chương 11",
+        "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-16.md"
       },
       {
         "id": "chuong-17",
-        "title": "Chương 14",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
+        "title": "Chương 12",
+        "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-17.md"
       },
       {
         "id": "chuong-18",
-        "title": "Chương 15",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-18.md"
+        "title": "Phần II: Rời Pondville",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-18.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-19",
-        "title": "Chương 16",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-19.md"
+        "title": "Ngày Đầu Tiên: Thứ Ba",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-19.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-20",
-        "title": "Chương 17",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
+        "title": "Chương 13",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-20.md"
       },
       {
         "id": "chuong-21",
-        "title": "Chương 18",
-        "part": "Phần II: Rời Pondville • Ngày 1 (Thứ Ba)",
+        "title": "Chương 14",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-21.md"
       },
       {
         "id": "chuong-22",
-        "title": "Chương 19",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
+        "title": "Chương 15",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-22.md"
       },
       {
         "id": "chuong-23",
-        "title": "Chương 20",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
+        "title": "Chương 16",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-23.md"
       },
       {
         "id": "chuong-24",
-        "title": "Chương 21",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
+        "title": "Chương 17",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-24.md"
       },
       {
         "id": "chuong-25",
-        "title": "Chương 22",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
+        "title": "Chương 18",
+        "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-25.md"
       },
       {
         "id": "chuong-26",
-        "title": "Chương 23",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-26.md"
+        "title": "Ngày Thứ Hai: Thứ Tư",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-26.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-27",
-        "title": "Chương 24",
-        "part": "Phần II: Rời Pondville • Ngày 2 (Thứ Tư)",
+        "title": "Chương 19",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-27.md"
       },
       {
         "id": "chuong-28",
-        "title": "Chương 25",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
+        "title": "Chương 20",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-28.md"
       },
       {
         "id": "chuong-29",
-        "title": "Chương 26",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
+        "title": "Chương 21",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-29.md"
       },
       {
         "id": "chuong-30",
-        "title": "Chương 27",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
+        "title": "Chương 22",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-30.md"
       },
       {
         "id": "chuong-31",
-        "title": "Chương 28",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
+        "title": "Chương 23",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-31.md"
       },
       {
         "id": "chuong-32",
-        "title": "Chương 29",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
+        "title": "Chương 24",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-32.md"
       },
       {
         "id": "chuong-33",
-        "title": "Chương 30",
-        "part": "Phần II: Rời Pondville • Ngày 3 (Thứ Năm)",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-33.md"
+        "title": "Ngày Thứ Ba: Thứ Năm",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-33.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-34",
-        "title": "Chương 31",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 25",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-34.md"
       },
       {
         "id": "chuong-35",
-        "title": "Chương 32",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 26",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-35.md"
       },
       {
         "id": "chuong-36",
-        "title": "Chương 33",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 27",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-36.md"
       },
       {
         "id": "chuong-37",
-        "title": "Chương 34",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 28",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-37.md"
       },
       {
         "id": "chuong-38",
-        "title": "Chương 35",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 29",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-38.md"
       },
       {
         "id": "chuong-39",
-        "title": "Chương 36",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 30",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-39.md"
       },
       {
         "id": "chuong-40",
-        "title": "Chương 37",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-40.md"
+        "title": "Ngày Thứ Tư: Thứ Sáu",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-40.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-41",
-        "title": "Chương 38",
-        "part": "Phần II: Rời Pondville • Ngày 4 (Thứ Sáu)",
+        "title": "Chương 31",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-41.md"
       },
       {
         "id": "chuong-42",
-        "title": "Chương 39",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 32",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-42.md"
       },
       {
         "id": "chuong-43",
-        "title": "Chương 40",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 33",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-43.md"
       },
       {
         "id": "chuong-44",
-        "title": "Chương 41",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 34",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-44.md"
       },
       {
         "id": "chuong-45",
-        "title": "Chương 42",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 35",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-45.md"
       },
       {
         "id": "chuong-46",
-        "title": "Chương 43",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 36",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-46.md"
       },
       {
         "id": "chuong-47",
-        "title": "Chương 44",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 37",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-47.md"
       },
       {
         "id": "chuong-48",
-        "title": "Chương 45",
-        "part": "Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)",
+        "title": "Chương 38",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-48.md"
       },
       {
         "id": "chuong-49",
-        "title": "Chương 46",
-        "part": "Phần III",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-49.md"
+        "title": "Ngày Thứ Năm: Thứ Bảy",
+        "part": "Phần II: Rời Pondville",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-49.md",
+        "noDropcap": true
       },
       {
         "id": "chuong-50",
-        "title": "Chương 47",
-        "part": "Phần III",
+        "title": "Chương 39",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-50.md"
       },
       {
         "id": "chuong-51",
-        "title": "Chương 48",
-        "part": "Phần III • Ngày 6 (Chủ Nhật)",
+        "title": "Chương 40",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-51.md"
       },
       {
         "id": "chuong-52",
-        "title": "Chương 49",
-        "part": "Phần III • Ngày 6 (Chủ Nhật)",
+        "title": "Chương 41",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-52.md"
       },
       {
         "id": "chuong-53",
-        "title": "Chương 50",
-        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "title": "Chương 42",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-53.md"
       },
       {
         "id": "chuong-54",
-        "title": "Chương 51",
-        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "title": "Chương 43",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-54.md"
       },
       {
         "id": "chuong-55",
-        "title": "Chương 52",
-        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "title": "Chương 44",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-55.md"
       },
       {
         "id": "chuong-56",
-        "title": "Chương 53",
-        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "title": "Chương 45",
+        "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-56.md"
       },
       {
         "id": "chuong-57",
+        "title": "Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết",
+        "part": "Phần III",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-57.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-58",
+        "title": "Chương 46",
+        "part": "Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-58.md"
+      },
+      {
+        "id": "chuong-59",
+        "title": "Chương 47",
+        "part": "Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-59.md"
+      },
+      {
+        "id": "chuong-60",
+        "title": "Ngày Thứ Sáu: Chủ Nhật",
+        "part": "Phần III",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-60.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-61",
+        "title": "Chương 48",
+        "part": "Phần III • Ngày Thứ Sáu: Chủ Nhật",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-61.md"
+      },
+      {
+        "id": "chuong-62",
+        "title": "Chương 49",
+        "part": "Phần III • Ngày Thứ Sáu: Chủ Nhật",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-62.md"
+      },
+      {
+        "id": "chuong-63",
+        "title": "Hai Tuần Tiếp Theo",
+        "part": "Phần III",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-63.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-64",
+        "title": "Chương 50",
+        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-64.md"
+      },
+      {
+        "id": "chuong-65",
+        "title": "Chương 51",
+        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-65.md"
+      },
+      {
+        "id": "chuong-66",
+        "title": "Chương 52",
+        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-66.md"
+      },
+      {
+        "id": "chuong-67",
+        "title": "Chương 53",
+        "part": "Phần III • Hai Tuần Tiếp Theo",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-67.md"
+      },
+      {
+        "id": "chuong-68",
         "title": "Lời Cảm Ơn",
         "part": "",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-57.md",
+        "path": "content/books/duong-ve-mien-diu-em/chuong-68.md",
         "noDropcap": true
       }
     ],

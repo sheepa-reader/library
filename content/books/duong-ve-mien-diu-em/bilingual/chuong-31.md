@@ -1,90 +1,180 @@
-*Phần II: Rời Pondville • Ngày 3 (Thứ Năm)*
+*Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư*
 
-# Chương 28
+# Chương 23
 
-<p class="para-en">They stopped in Nashville to see the Honky Tonk strip, to walk down the street and hear all the live music coming from every restaurant. When they got back in the car, PJ played Elvis Presley and Dolly Parton songs using Sophie’s phone, having finally figured out how to use the music app. They played card games. Twenty questions and the license plate game, and the game where you try to think of the most movies that begin with a certain letter.</p>
-<p class="para-vi-sub">Họ ghé qua Nashville để ngắm khu phố Honky Tonk, đi bộ dọc con đường và lắng nghe âm nhạc sống phát ra từ mọi nhà hàng. Khi quay trở lại xe, PJ bật các bài hát của Elvis Presley và Dolly Parton bằng điện thoại của Sophie sau khi mò ra cách sử dụng ứng dụng âm nhạc. Họ chơi trò chơi bài, trò hai mươi câu hỏi, trò đoán biển số xe, cùng trò cố gắng nghĩ ra nhiều bộ phim nhất bắt đầu bằng một chữ cái cụ thể.</p>
+<p class="para-en">In Ashtabula, Ohio, they stopped for lunch at a diner, and the waitress came over in a turquoise uniform and matching eyeshadow. She had cigarette lines around her mouth. She said her name was Traci, and she didn’t say anything about the cat they had in the carrier. PJ asked Traci for some Ashtabula history, and she said she didn’t know any. “I grew up in Nevada,” she said, holding her pen to the pad of paper.</p>
+<p class="para-vi-sub">Ở Ashtabula, Ohio, họ dừng chân ăn trưa tại một quán ăn nhỏ, nơi cô nhân viên phục vụ bước đến trong bộ đồng phục màu ngọc lam kết hợp cùng lớp phấn mắt xuyệt tông. Cô có những đường nếp nhăn do hút thuốc quanh miệng. Cô giới thiệu mình tên Traci, và chẳng hề nói nửa lời về chú mèo họ đang nhốt trong lồng vận chuyển. PJ hỏi Traci chút lịch sử về Ashtabula, và cô bảo chẳng biết gì sất. Cô vừa cầm bút giữ chặt cuốn sổ ghi gọi món vừa nói: “Tôi lớn lên ở Nevada.”</p>
 
-<p class="para-en">By nightfall, they were in west Tennessee. Headlights lit up a stretch of rural highway. Above them, the bats were eating mosquitos, the bloodsuckers big as moths down there. There was an inn up ahead, two red cherries painted on a yellow sign. The Golden Cherry Inn & Suites. Vacancy. There wasn’t much else on the road, except for an abandoned Laundromat. “Let’s stop here,” PJ said.</p>
-<p class="para-vi-sub">Đến chập tối, họ đã ở miền tây Tennessee. Đèn pha chiếu sáng một đoạn đường cao tốc nông thôn. Phía trên họ, đàn dơi đang ăn muỗi, lũ hút máu to bằng cả mấy con bướm đêm dưới ấy. Phía trước có một nhà nghỉ, trên biển hiệu màu vàng vẽ hai quả anh đào màu đỏ. Nhà nghỉ & Căn hộ The Golden Cherry. Còn phòng. Trên đường chẳng còn gì mấy, ngoài một tiệm giặt là đã bỏ hoang. “Chúng ta dừng lại ở đây đi,” PJ nói.</p>
+<p class="para-en">But first PJ wanted to know how Traci had gotten all the way here to Ashtabula from Nevada, and then Traci put down her pen and she told the story about her ex-boyfriend Rodney and his motorbike, and the road trip they’d been on when one day she woke up in the Ashtabula motel alone. She’d been stuck there ever since.</p>
+<p class="para-vi-sub">Nhưng trước tiên PJ muốn biết bằng cách nào Traci lại lặn lội tới tận đây từ Nevada, thế là Traci đặt bút xuống và bắt đầu kể câu chuyện về người yêu cũ tên Rodney cùng chiếc mô-tô của hắn, về chuyến đi xuyên nước Mỹ mà một ngày nọ cô thức dậy trong một nhà nghỉ ở Ashtabula chỉ có một mình. Cô đã mắc kẹt ở đó từ dạo ấy.</p>
 
-<p class="para-en">“I’m fine to keep going,” Sophie said. “We can get to Memphis. We’re in the middle of nowhere now.”</p>
-<p class="para-vi-sub">“Con đi tiếp cũng được mà,” Sophie nói. “Chúng ta có thể tới Memphis. Giờ tụi mình đang ở cái xó xỉnh khỉ ho cò gáy nào rồi đây.”</p>
+<p class="para-en">Sophie was worried her dad was going to offer Traci a ride back to Nevada, and wished her dad was the type to leave waitresses alone, but instead, her dad said: “I’m so sorry he abandoned you,” and told her how much more she was worth than that guy, who was clearly a dumb shit.</p>
+<p class="para-vi-sub">Sophie lo lắng bố mình sắp ngỏ ý cho Traci đi nhờ xe về lại Nevada, đồng thời thầm ước bố là kiểu người biết giữ khoảng cách với các nữ nhân viên phục vụ, nhưng ngặt nỗi, bố lại nói: “Bố rất tiếc vì hắn đã bỏ rơi con,” rồi bảo rằng giá trị của cô cao hơn hẳn gã đàn ông rõ là một tên ngốc nghếch kia rất nhiều.</p>
 
-<p class="para-en">“We’re not in the middle of nowhere,” PJ said, and smiled. “You’re never going to believe it, Sophie-Soo, but we’re in the middle of Somewhere. That’s the town name. Somewhere, Tennessee. I saw the sign a mile back. It’s perfect. We all wanted to go somewhere, and now we’re here.” It was too perfect, they had to stay in Somewhere. Besides, PJ was pretty sure that rooms in the Golden Cherry wouldn’t be expensive.</p>
-<p class="para-vi-sub">“Chúng ta không ở xó xỉnh khỉ ho cò gáy đâu,” PJ nói rồi mỉm cười. “Con sẽ không bao giờ tin nổi đâu, Sophie-Soo, tụi mình đang ở ngay giữa Somewhere. Tên thị trấn đấy. Somewhere, Tennessee. Bố thấy tấm biển cách đây một dặm rồi. Quá hoàn hảo. Tất cả chúng ta đều muốn đi đâu đó, và giờ thì chúng ta đã ở đây.” Mọi thứ hoàn hảo đến mức họ buộc phải ở lại Somewhere. Hơn nữa, PJ khá chắc chắn giá phòng ở The Golden Cherry sẽ không đắt đỏ gì.</p>
+<p class="para-en">When Traci brought out their food, she also had a small plate of plain grilled salmon on the tray. “On the house,” she said, “for our extra guest.” She pointed to the cat carrier.</p>
+<p class="para-vi-sub">Khi Traci bưng thức ăn ra, trên khay của cô còn có thêm một đĩa nhỏ đựng cá hồi nướng không tẩm ướp. Cô vừa đặt xuống vừa nói: “Đãi đấy, cho vị khách đặc biệt của chúng ta.” Cô chỉ tay về phía chiếc lồng mèo.</p>
 
-<p class="para-en">Sophie pulled into the hotel lot. If her dad wanted to stay in this creepy hotel, whatever, it couldn’t be worse than the town named after the gates of hell. There were five other cars in the lot, and one motorcycle. Sophie turned off the car and immediately escaped into the glow of her phone. A guy she’d slept with last month had texted wanting to know if she was around to do it again. Her friend Sara from work had texted to ask if she’d been doing all right since they’d both lost their jobs.</p>
-<p class="para-vi-sub">Sophie tấp xe vào bãi đỗ của nhà nghỉ. Nếu bố cô muốn ở lại cái nhà nghỉ rợn gáy này thì tùy, chắc cũng chẳng tệ hơn cái thị trấn được đặt tên theo cổng địa ngục đâu. Có năm chiếc xe hơi khác và một chiếc mô-tô trong bãi. Sophie tắt máy xe và lập tức trốn vào màn hình điện thoại đang phát sáng. Một tay cô từng ngủ cùng tháng trước vừa nhắn tin muốn biết cô có rảnh để làm chuyện đó lần nữa không. Sara, cô bạn đồng nghiệp, nhắn tin hỏi dạo này cô thế nào kể từ khi cả hai bị sa thải.</p>
+<p class="para-en">PJ looked adoringly at Traci. “What a real dipshit that boyfriend was, letting you go. Cheers to Traci, for her beauty and her kindness to animals.”</p>
+<p class="para-vi-sub">PJ nhìn Traci với ánh mắt đầy say đắm. “Đúng là một gã đần độn chính hiệu khi để lỡ mất em. Cạn ly vì Traci, vì vẻ đẹp và lòng nhân hậu của em dành cho động vật.”</p>
 
-<p class="para-en">No, Sophie texted back to Sara. Are you?</p>
-<p class="para-vi-sub">Không, Sophie nhắn lại cho Sara. Cậu thì sao?</p>
+<p class="para-en">Luna lifted her lemonade and Ollie lifted his coffee cup. “Cheers,” they said. “Cheers,” Sophie said, but didn’t lift her ice water.</p>
+<p class="para-vi-sub">Luna nâng cốc nước chanh lên còn Ollie nâng ly cà phê của cậu bé. Cả hai đồng thanh: “Cạn ly.” Sophie cũng nói: “Cạn ly,” nhưng không nhấc ly nước đá của mình lên.</p>
 
-<p class="para-en">Things have never been bleaker, Sara responded, which is why she and Sophie were friends. Ever since the layoffs two months ago, Sara had been home alone with her kids while her dumb husband got to go to work.</p>
-<p class="para-vi-sub">Mọi thứ chưa bao giờ ảm đạm thế này, Sara đáp lại, đó là lý do vì sao cô và Sophie chơi thân với nhau. Kể từ vụ sa thải hai tháng trước, Sara đã phải thui thủi ở nhà một mình với đám nhóc trong lúc cái tên chồng ngốc nghễnh được đi làm.</p>
+<p class="para-en">At the end of lunch, Traci gave PJ a hug and told him to stay in touch.</p>
+<p class="para-vi-sub">Lúc bữa trưa kết thúc, Traci ôm từ giã PJ và dặn ông nhớ giữ liên lạc.</p>
 
-<p class="para-en">If you think that’s bad, wait until you hear about the road trip I’m on with my dad —Sophie typed back.</p>
-<p class="para-vi-sub">Nếu cậu thấy thế là tệ rồi, thì cứ chờ cho đến khi nghe về chuyến road trip tớ đang đi cùng bố tớ đã nhé, Sophie gõ phím trả lời.</p>
+<p class="para-en">“Don’t get any ideas,” Ollie said. “He’s marrying Michelle Cobb.”</p>
+<p class="para-vi-sub">“Đừng có mà ôm mộng tưởng gì đấy,” Ollie nói. “Chú ấy đang định kết hôn với Michelle Cobb cơ mà.”</p>
 
-<p class="para-en">“You guys stay here, I’ll go check in,” PJ said. He hesitated a second and then grabbed the cat. He figured if he was going to tell the hotel that the cat was a service animal, it was more believable if he brought the cat with him.</p>
-<p class="para-vi-sub">“Mấy đứa ở lại đây nhé, bố vào làm thủ tục nhận phòng,” PJ nói. Ông chần chừ một giây rồi túm lấy chú mèo. Ông nghĩ nếu mình định nói với nhà nghỉ rằng chú mèo là động vật hỗ trợ, thì việc mang theo chú bên người sẽ có sức thuyết phục hơn.</p>
+<p class="para-en">Traci laughed. “I wouldn’t dream of it.”</p>
+<p class="para-vi-sub">Traci bật cười. “Tôi dám mơ tới chắc.”</p>
 
-<p class="para-en">PJ walked into the lobby of the Golden Cherry Inn & Suites, where he was met with a mustard-yellow carpet, cherry wallpaper all over the walls, an old couch, a coffee table with a chess game set up on it, and a big fish tank with tropical fish inside. To his left was the reception desk. Two people were leaning against the desk, making out. They were in their thirties probably, the man wearing a leather jacket and the woman in a short white dress. She had bleach-blond hair. It must have been their motorcycle PJ had seen out in the parking lot. They didn’t notice PJ at first; they were too busy sucking face. The cat jumped down from PJ’s arms and began to rub against their legs, snaking in between them. “What the fuck?” the man said, looking down. Hells Angels, the man’s jacket read. “Where did this cat come from?”</p>
-<p class="para-vi-sub">PJ bước vào sảnh của Nhà nghỉ & Căn hộ The Golden Cherry, nơi đập vào mắt ông là tấm thảm màu vàng mù tạt, giấy dán tường họa tiết quả anh đào phủ kín các bức tường, một chiếc ghế dài cũ kỹ, một chiếc bàn cà phê bày sẵn ván cờ vua, cùng một bể cá lớn thả đầy cá nhiệt đới. Bên trái ông là quầy lễ tân. Hai người đang tựa người vào quầy, hôn nhau thắm thiết. Họ chắc ở độ tuổi ba mươi, người đàn ông mặc áo khoác da còn người phụ nữ mặc chiếc váy ngắn màu trắng. Cô ta nhuộm tóc vàng bạch kim. Chắc hẳn đó là chiếc mô-tô của họ mà PJ đã thấy ngoài bãi đỗ xe. Ban đầu họ không để ý đến PJ; họ đang bận mải ngấu nghiến môi nhau. Chú mèo nhảy xuống từ tay PJ và bắt đầu cọ vào chân họ, lượn lách luồn lách qua giữa hai người. “Cái quái gì thế?” người đàn ông vừa nói vừa nhìn xuống. Áo khoác của người đàn ông thêu chữ Hells Angels. “Con mèo này ở đâu chui ra thế?”</p>
+<p class="para-en">When they were back in the car, everyone well fed including the cat, Ollie asked for the rest of the story about Michelle Cobb.</p>
+<p class="para-vi-sub">Lúc họ quay lại xe, ai nấy đều đã được ăn uống no nê kể cả chú mèo, Ollie liền nài nỉ nghe phần còn lại của câu chuyện về Michelle Cobb.</p>
 
-<p class="para-en">“Sorry,” PJ said. “He gets a little too friendly with strangers.” There had been an incident at a gas station earlier that day where Pancakes had tried to jump into a van of old ladies on a road trip to a bingo convention.</p>
-<p class="para-vi-sub">“Xin lỗi nhé,” PJ nói. “Chú mèo hơi bị thân thiện quá mức với người lạ.” Hôm đó từng xảy ra một sự cố ở trạm xăng khi Pancakes cố nhảy thốc lên một chiếc xe van chở mấy bà cụ đang đi dự đại hội bingo.</p>
+<p class="para-en">“Yes, Uncle PJ,” Luna agreed. “What happened after you went to jail?”</p>
+<p class="para-vi-sub">Luna hùa theo: “Đúng thế, chú PJ. Chuyện gì đã xảy ra sau khi chú vào tù vậy ạ?”</p>
 
-<p class="para-en">“Come here, pussy cat,” the woman said, and picked up Pancakes. Pancakes liked the nickname, and the Hells Angel liked to see his woman happy. If she liked the cat, he liked the cat.</p>
-<p class="para-vi-sub">“Lại đây nào mèo cưng,” người phụ nữ nói rồi bế thốc Pancakes lên. Pancakes rất thích cái biệt danh đó, và tên trùm Băng mô-tô Hells Angels thích nhìn người phụ nữ của mình hạnh phúc. Nếu cô ấy thích chú mèo, thì anh ta cũng thích chú mèo.</p>
+<p class="para-en">“We were supposed to save that for bedtime,” PJ said, but then again, they did have a long way to go in the car. Ohio was a big state.</p>
+<p class="para-vi-sub">“Lẽ ra chúng ta phải để dành chuyện đó đến giờ đi ngủ chứ,” PJ đáp, nhưng ngẫm lại thì họ vẫn còn một chặng đường dài phải đi trên ô tô. Ohio quả là một bang rộng lớn.</p>
 
-<p class="para-en">“Sorry for the PDA,” he said to PJ. “We’re on our honeymoon.”</p>
-<p class="para-vi-sub">“Xin lỗi vì màn âu yếm công khai nhé,” anh ta nói với PJ. “Bọn tôi đang đi hưởng tuần trăng mật.”</p>
+<p class="para-en">Eighteen-year-old PJ lay on the bench in the single jail cell at the Pondville police precinct. He was bleeding to death, he was sure. Most people don’t know you can bleed to death by losing a finger, and PJ’s finger was barely hanging on. At some point, in his daze, PJ realized his head was in the lap of another man, who smelled strongly of piss. He looked up into the man’s face. The man was missing some of his teeth. “Hi, dear boy,” the man said. “Are you awake?”</p>
+<p class="para-vi-sub">PJ năm mười tám tuổi nằm dài trên chiếc ghế băng trong phòng giam đơn tại đồn cảnh sát Pondville. Cậu đinh ninh rằng mình sắp mất mạng vì chảy máu đến chết. Hầu hết mọi người đều không biết rằng bạn có thể mất mạng chỉ vì đứt lìa một ngón tay, và ngón tay của PJ lúc đó thì đã gần như lủng lẳng sắp rụng. Đến một lúc nào đó, trong cơn mơ màng, PJ nhận ra đầu mình đang gối lên đùi của một người đàn ông khác, kẻ tỏa ra một mùi nước tiểu nồng nặc. Cậu ngước nhìn lên khuôn mặt người đó. Người đàn ông bị mẻ vài chiếc răng. Ông ta cất lời: “Chào cậu bạn nhỏ. Cậu tỉnh rồi đấy à?”</p>
 
-<p class="para-en">“Oh, congratulations. That’s wonderful. So happy to meet you both at this happy moment.”</p>
-<p class="para-vi-sub">“Ồ, chúc mừng hai cháu nhé. Tuyệt vời thật đấy. Thật hạnh phúc khi được gặp cả hai trong khoảnh khắc tuyệt vời này.”</p>
+<p class="para-en">“Am I in heaven?” PJ asked. “Are you my dad?”</p>
+<p class="para-vi-sub">“Tôi đang ở trên thiên đàng sao?” PJ hỏi. “Ông là bố tôi à?”</p>
 
-<p class="para-en">The man smiled and dinged the bell on the desk that came with a little sign that said: Ring bell for service. “We still have to concentrate the marriage before it’s legal.”</p>
-<p class="para-vi-sub">Người đàn ông mỉm cười rồi bấm vào cái chuông đặt trên quầy kèm theo tấm biển nhỏ ghi: Hãy rung chuông nếu cần phục vụ. “Bọn tôi vẫn phải tập trung hoàn thành cuộc hôn nhân trước khi nó có hiệu lực pháp luật.”</p>
+<p class="para-en">PJ had never known who his own father was and didn’t know if his dad was dead or alive. His mother, Regina Halliday, had once been married to a man named Roy Duggins, but she had walked out on her family when PJ’s older brother, Chip, was ten. Women never did that back then, it was men who went out for a pack of smokes and never returned, but Regina Halliday was ahead of her time. She had left her husband and child, and she hitchhiked around the country. She saw the Grand Canyon, she rode horses in Wyoming, she made friends with a young Frank Sinatra. She was in a movie too, but the film was lost in a fire. She had seen the whole country. She camped out in Death Valley and came out alive. She’d been bitten by a snake and sucked out the venom. She carried a pistol in her bra, she sang on stages for money. She had eaten an entire ten-foot submarine sandwich and won free lunch at a café in Roberta for the rest of her life. She had dozens of boyfriends, and each one loved her more than the last. But when she got pregnant again, she decided to come back to Pondville. She said it was a safe place to raise children, even if she had failed with her first. She moved into a house down the street from her ex-husband and her son. Her ex-husband was married again, and never acknowledged her return, but her son Chip egged her house once a week.</p>
+<p class="para-vi-sub">Cậu chưa bao giờ biết bố ruột mình là ai và cũng chẳng hay ông còn sống hay đã qua đời. Mẹ cậu, Regina Halliday, từng kết hôn với một người đàn ông tên Roy Duggins, nhưng bà đã bỏ bê gia đình khi anh trai cả của cậu là Chip mới lên mười. Phụ nữ thời đó chẳng ai làm thế cả, toàn là đàn ông ra ngoài mua một bao thuốc lá rồi một đi không trở lại, nhưng Regina Halliday lại là người đi trước thời đại. Bà đã bỏ chồng bỏ con để đi nhờ xe khắp đất nước. Bà từng tận mắt ngắm nhìn Hẻm núi lớn Grand Canyon, cưỡi ngựa ở Wyoming, kết bạn với một chàng trai trẻ tên Frank Sinatra. Bà cũng từng đóng phim, nhưng cuộn phim đã bị thiêu rụi trong một trận hỏa hoạn. Bà đã đi qua khắp mọi miền đất nước. Bà từng dựng lều qua đêm ở Thung lũng Chết và sống sót trở lại. Bà từng bị rắn cắn rồi tự hút nọc độc ra. Bà dắt theo một khẩu súng ngắn giấu trong áo ngực, ca hát trên các sân khấu để kiếm tiền. Bà từng ăn sạch một chiếc bánh mì dài ba mét rưỡi và giành quyền ăn trưa miễn phí tại một quán cà phê ở Roberta đến hết cuộc đời. Bà có hàng tá người tình, và mối tình sau lúc nào cũng yêu bà nhiều hơn mối tình trước. Nhưng khi mang thai lần nữa, bà quyết định quay trở lại Pondville. Bà bảo đó là một nơi an toàn để nuôi dạy con cái, dẫu cho bà đã thất bại trong việc nuôi dạy đứa con đầu lòng. Bà chuyển đến một ngôi nhà nằm cách nhà của chồng cũ và con trai chỉ vài con phố. Chồng cũ của bà đã tái hôn và phớt lờ sự trở lại của bà, nhưng con trai cả Chip thì ném trứng thối vào nhà bà mỗi tuần một lần.</p>
 
-<p class="para-en">“It’s consummate, baby,” the woman said, and then smiled at PJ. “I didn’t marry him for his brain.” Then she rang the bell herself, six times in a row. “Who do I have to blow around here to get a room key?” she yelled toward the back.</p>
-<p class="para-vi-sub">“Là động phòng đấy, cưng ạ,” người phụ nữ nói rồi mỉm cười với PJ. “Tôi đâu có cưới anh ta vì trí thông minh.” Đoạn, cô ta tự tay bấm chuông, sáu lần liên tiếp. “Tôi phải thổi kèn cho đứa nào quanh đây thì mới lấy được chìa khóa phòng hả trời?” cô ta hét lớn về phía hành lang phía sau.</p>
+<p class="para-en">As PJ grew up in Pondville, his mother told him many stories of her travels, how wonderful it had been on the road, but she never told him about who his father was, not even when he begged. Whoever he was, he always sent PJ’s mother white envelopes full of cash, no return address on them.</p>
+<p class="para-vi-sub">Lớn lên ở Pondville, cậu được mẹ kể cho nghe rất nhiều câu chuyện về những chuyến đi của bà, về việc những tháng ngày lang thang trên các cung đường tuyệt vời ra sao, nhưng bà chưa bao giờ kể cho cậu nghe về người bố của mình, ngay cả khi cậu nài nỉ van xin. Dù là ai đi nữa, người đó vẫn luôn gửi cho mẹ cậu những phong bì thư màu trắng đựng đầy tiền mặt, hoàn toàn không ghi địa chỉ người gửi.</p>
 
-<p class="para-en">“That would be me,” a man said, coming around the corner. He had a mustache so thin it looked like it had been drawn on, and he had a gold earring in one ear. His name tag said Gregor. “Let’s get you your keys, thanks for your patience,” Gregor said. After a few minutes of paperwork, he handed the couple two plastic key cards. “Upgraded you to the honeymoon suite, Room 101,” he said. “Thanks again for your patience. And I do have to apologize, our pool is broken. The heater is out of whack. Repairman coming tomorrow—”</p>
-<p class="para-vi-sub">“Là tôi đây,” Gregor vừa nói vừa bước ra từ góc khuất. Gregor để kiểu ria mép mỏng dính trông như được vẽ bằng bút chì và đeo một chiếc khuyên tai vàng bên tai trái. Huy hiệu tên của anh ta ghi Gregor. “Để tôi lấy chìa khóa cho anh chị nhé, cảm ơn sự kiên nhẫn của anh chị,” Gregor nói. Sau vài phút làm thủ tục giấy tờ, Gregor trao cho cặp đôi hai chiếc thẻ từ mở phòng. “Đã nâng hạng cho anh chị lên phòng tân hôn, Phòng 101,” Gregor nói. “Cảm ơn sự kiên nhẫn của anh chị một lần nữa. Và tôi cũng phải xin lỗi, bể bơi bên tôi đang bị hỏng. Bộ phận làm ấm nước đang gặp trục trặc, thợ sửa chữa sẽ đến vào ngày mai...”</p>
+<p class="para-en">His father could be anyone. So maybe it was this man, holding PJ’s head so tenderly in his lap in the jail cell. “Are you my father?” PJ asked the man again. Maybe the man hadn’t heard him the first time.</p>
+<p class="para-vi-sub">Bố cậu có thể là bất cứ ai. Thế nên biết đâu chừng, chính là người đàn ông này, người đang dịu dàng ôm đầu cậu trên đùi trong phòng giam. Cậu lại cất lời hỏi người đàn ông đó: “Ông có phải là bố tôi không?” Biết đâu người đàn ông vừa rồi đã không nghe rõ câu hỏi của cậu.</p>
 
-<p class="para-en">But the couple was off down the hall now, groping each other.</p>
-<p class="para-vi-sub">Nhưng cặp đôi đã biến mất dọc hành lang từ lúc nào, vừa đi vừa sờ soạn nhau.</p>
+<p class="para-en">The man stroked his hair like a father would. “Here now, you’re going to be all right. You’re not going to die here, don’t you worry about that, I can see you thinking about that. But no, son, I’m not your father.”</p>
+<p class="para-vi-sub">Người đàn ông vuốt ve mái tóc cậu hệt như một người cha. “Thôi nào, cậu sẽ ổn thôi. Cậu sẽ không phải bỏ mạng ở đây đâu, đừng có lo lắng vớ vẩn thế, ta thấy cậu đang nghĩ ngợi lung tung đấy. Nhưng không đâu con trai, ta không phải bố của cậu.”</p>
 
-<p class="para-en">“No worries about the pool,” PJ said. “The kids aren’t swimmers.”</p>
-<p class="para-vi-sub">“Chuyện bể bơi không vấn đề gì đâu,” PJ nói. “Mấy đứa nhỏ nhà tôi không biết bơi.”</p>
+<p class="para-en">PJ looked up at this man, and even though he smelled terrible, and he wasn’t his father, he loved him. PJ loved this man as much as he’d ever loved anyone. This man who said he wasn’t going to die.</p>
+<p class="para-vi-sub">Cậu ngước nhìn người đàn ông này, và dù cho ông ta bốc mùi khủng khiếp, và dù ông ta không phải bố mình, cậu vẫn cảm thấy yêu quý ông. Cậu yêu người đàn ông này nhiều như bất kỳ ai mà cậu từng yêu trong đời. Người đàn ông vừa khẳng định rằng cậu sẽ không chết.</p>
 
-<p class="para-en">“I thought it was just you and the cat.”</p>
-<p class="para-vi-sub">“Tôi cứ tưởng chỉ có ông và chú mèo.”</p>
+<p class="para-en">“No, you’re not going to die anytime soon,” the man said. “Not today and not in Vietnam either.”</p>
+<p class="para-vi-sub">“Không, cậu sẽ không chết sớm đâu,” người đàn ông nói. “Không phải hôm nay và cũng chẳng phải ở chiến trường Việt Nam.”</p>
 
-<p class="para-en">“No. It’s me and my daughter, and the two kids.”</p>
-<p class="para-vi-sub">“Không. Là tôi đi cùng con gái tôi, và hai đứa trẻ nữa.”</p>
+<p class="para-en">“How do you know?” PJ asked. “You’re an angel?”</p>
+<p class="para-vi-sub">“Sao ông biết được?” cậu hỏi. “Ông là thiên thần à?”</p>
 
-<p class="para-en">“Ah,” Gregor said. “Well, I’ve only got one room left. Two queen beds. The couple in front of you took the suite with two rooms.”</p>
-<p class="para-vi-sub">“À,” Gregor nói. “Chà, tôi chỉ còn một phòng trống. Hai giường đôi cỡ lớn. Cặp đôi đứng trước ông đã lấy dãy phòng hai gian rồi.”</p>
+<p class="para-en">The old man said he wasn’t an angel, far from it, but he could still tell PJ three things about the future: the worst thing that would ever happen to him, the best thing that would happen to him, and how he would die. “It will cost you though,” the man said. “Like I said, I’m not an angel.”</p>
+<p class="para-vi-sub">Người đàn ông lớn tuổi nói ông ta không phải thiên thần, còn lâu mới thế, nhưng ông ta vẫn có thể nói cho cậu biết ba điều về tương lai: điều tồi tệ nhất từng xảy ra với cậu, điều tuyệt vời nhất sẽ xảy ra với cậu, và cách mà ông ta sẽ chết. “Nhưng cậu sẽ phải trả phí đấy,” người đàn ông nói. “Như ta đã bảo, ta không phải thiên thần đâu.”</p>
 
-<p class="para-en">PJ was annoyed. The couple did not need two rooms, not when they’d spend the whole night in one bed. “Do you have a cot?”</p>
-<p class="para-vi-sub">PJ cảm thấy bực mình. Cặp đôi đó đâu cần đến hai phòng, nhất là khi họ sẽ dành cả đêm trên cùng một chiếc giường. “Cậu có giường xếp không?”</p>
+<p class="para-en">PJ had money in his wallet, but the cops had taken everything in his pockets. “I can pay you,” he said. “When they let me out of here. I’ve got money.”</p>
+<p class="para-vi-sub">Cậu có tiền trong ví, nhưng lũ cảnh sát đã tịch thu mọi thứ trong túi áo túi quần của cậu. “Tôi có thể trả tiền cho ông,” cậu nói. “Khi nào họ thả tôi ra khỏi đây. Tôi có tiền.”</p>
 
-<p class="para-en">“I’m using our only cot in my office. But I can do a sleeping bag for an extra fifteen.”</p>
-<p class="para-vi-sub">“Tôi đang dùng chiếc giường xếp duy nhất ở văn phòng rồi. Nhưng tôi có thể cho mượn túi ngủ với giá mười lăm đô la phụ thu.”</p>
+<p class="para-en">The man shook his head. “I don’t want your money. But there’s a vending machine in the lobby.” They could see it from the jail cell.</p>
+<p class="para-vi-sub">Người đàn ông lắc đầu. “Ta không cần tiền của cậu. Nhưng ở sảnh có một máy bán hàng tự động.” Họ có thể nhìn thấy nó ngay từ trong buồng giam.</p>
 
-<p class="para-en">PJ wondered if Sophie would be willing to share a bed with him, go half-and-half, but he didn’t think so. That was all right. He could sleep in a sleeping bag for one night; despite his older bones, he slept on the bench by the bogs all the time back in Pondville. And there were no other rooms available; it was a small inn. The price was right, and Gregor seemed fine with the cat. “He’s an assistance animal,” PJ said. “If you were wondering. He tells me if I’m going to have a heart attack.”</p>
-<p class="para-vi-sub">PJ tự hỏi liệu Sophie có chịu ngủ chung giường với mình, chia đôi không gian không, nhưng ông nghĩ là không. Đành vậy cũng chẳng sao. PJ có thể ngủ trong túi ngủ một đêm; dẫu cho xương cốt đã già, ông vẫn ngủ trên chiếc ghế dài cạnh đầm lầy suốt ở Pondville cơ mà. Và chẳng còn phòng nào khác; đây là một nhà trọ nhỏ. Giá cả lại hợp lý, và Gregor có vẻ không phiền hà gì về chú mèo. “Chú ấy là động vật hỗ trợ,” PJ nói. “Nếu cậu thắc mắc. Chú ấy báo cho tôi biết nếu tôi sắp bị cơn đau tim tấn công.”</p>
+<p class="para-en">“They had vending machines back then?” Ollie asked.</p>
+<p class="para-vi-sub">“Hồi đó cũng có máy bán hàng tự động cơ à?” Ollie hỏi.</p>
 
-<p class="para-en">“As long as he doesn’t smoke in the room.”</p>
-<p class="para-vi-sub">“Miễn là nó không hút thuốc trong phòng.”</p>
+<p class="para-en">“They did,” PJ assured the boy.</p>
+<p class="para-vi-sub">“Có chứ,” PJ trấn an cậu nhóc.</p>
 
-<p class="para-en">PJ laughed. Maybe Gregor was all right. Maybe Gregor would be his good friend. “Is there a bar in the hotel?” he asked. “Or somewhere nearby?”</p>
-<p class="para-vi-sub">PJ bật cười. Có lẽ Gregor cũng được đấy chứ. Có lẽ Gregor sẽ trở thành bạn tốt của ông. “Ở khách sạn có quầy bar không?” ông hỏi. “Hoặc chỗ nào gần đây không?”</p>
+<p class="para-en">And the old man said, in exchange for telling young PJ his fortune, PJ would need to buy him a bag of pretzels from the vending machine, after PJ got bailed out, which the man was sure PJ would, very soon.</p>
+<p class="para-vi-sub">Và người đàn ông nói, để đổi lấy việc bói vận mệnh cho PJ trẻ tuổi, PJ sẽ cần mua cho ông ta một gói bánh quy mặn từ chiếc máy bán hàng tự động, sau khi PJ được tại ngoại, điều mà ông ta chắc chắn PJ sẽ đạt được, rất sớm thôi.</p>
 
-<p class="para-en">Gregor shook his head. “Somewhere is a dry town.”</p>
-<p class="para-vi-sub">Gregor lắc đầu. “Somewhere là một thị trấn cấm đồ có cồn.”</p>
+<p class="para-en">“A bag of pretzels?” PJ asked. “Why a bag of pretzels?” They only cost about a nickel, but PJ wanted to know what the hitch was.</p>
+<p class="para-vi-sub">“Một gói bánh quy mặn?” cậu hỏi. “Sao lại là bánh quy mặn?” Chúng chỉ có giá khoảng một xu rưỡi, nhưng cậu muốn biết cái bẫy nằm ở đâu.</p>
 
-<p class="para-en">“Oh,” PJ said, cursing the whole place.</p>
-<p class="para-vi-sub">“Ồ,” PJ nói, thầm rủa cái xứ sở quái quỷ này.</p>
+<p class="para-en">The man smiled. One of his silver teeth glinted. “Well, boy, it’s how I’m going to die. I’m going to choke on a pretzel from that vending machine. But someone else has to buy them for me. That’s the prophecy, as I see it. Some good young person kills me, in an act of kindness.”</p>
+<p class="para-vi-sub">Người đàn ông mỉm cười. Một chiếc răng bạc lóe lên. “À nhóc, đó là cách mà ta sẽ chết. Ta sẽ nghẹn thở vì một gói bánh quy mặn lấy từ cái máy bán hàng tự động đó. Nhưng phải có ai khác mua chúng cho ta cơ. Lời tiên tri là thế, theo như ta thấy. Sẽ có một người trẻ tuổi tốt bụng giết chết ta, như một hành động tử tế.”</p>
+
+<p class="para-en">PJ got a shot of adrenaline after that. He didn’t want to kill anybody, not in this jail cell, not in the boys’ bathroom at the dance, and not in the war somewhere far away. He got the strength to get up and move away to the other side of the cell. He banged on the bars. He was wrong to love this man. The man was deranged, perhaps dangerous. “Can someone help me?” he called. “I need a doctor!”</p>
+<p class="para-vi-sub">PJ thấy adrenaline dâng trào sau câu nói đó. Cậu không muốn giết ai cả, không phải trong buồng giam này, không phải trong phòng vệ sinh nam ở buổi khiêu vũ, và không phải trong cuộc chiến tranh ở một nơi xa lắc xa lơ nào đó. Cậu lấy lại sức để đứng dậy rồi di chuyển sang phía bên kia buồng giam, đoạn đập tay vào các thanh sắt. Cậu đã lầm khi thấy mến người đàn ông này. Gã ta thật điên rồ, có lẽ còn nguy hiểm nữa. “Có ai giúp tôi với không?” cậu gọi lớn. “Tôi cần bác sĩ!”</p>
+
+<p class="para-en">Thankfully, PJ heard a voice then, someone he recognized. It was Gene Bartlett. He was there to pay PJ’s bail.</p>
+<p class="para-vi-sub">Thật may mắn, PJ nghe thấy một giọng nói lúc đó, một người mà cậu nhận ra. Đó là Gene Bartlett. Cậu ta đến để nộp tiền tại ngoại cho PJ.</p>
+
+<p class="para-en">There was another voice with him. A girl’s voice. It was Michelle Cobb. Michelle and Gene had met when the cops took their statements, and Michelle told Gene how it was all Ricky’s fault, all of it, she was sure. Gene agreed, it wasn’t like Pauly Halliday to start a fight, and Gene and Michelle decided to drive over to the jail to vouch for PJ. By the time they arrived at the police station, Gene was already deeply in love with Michelle Cobb. She was beautiful, and kind.</p>
+<p class="para-vi-sub">Có một giọng nói khác đi cùng cậu ta, giọng của một cô gái: đó là Michelle Cobb. Michelle và Gene đã gặp nhau khi cảnh sát lấy lời khai của họ, và Michelle đã nói với Gene rằng tất cả là tại Ricky, toàn bộ sự việc, cô chắc chắn là thế. Gene đồng ý, Pauly Halliday vốn không phải kiểu người gây sự trước, thế là Gene và Michelle quyết định lái xe đến đồn cảnh sát để bảo lãnh cho PJ. Vào thời điểm họ đến đồn cảnh sát, Gene đã hoàn toàn chìm đắm trong tình yêu với Michelle Cobb. Cô vừa xinh đẹp lại vừa tốt bụng.</p>
+
+<p class="para-en">After Gene paid the bail, the police officer released PJ, and PJ fell into Gene’s arms.</p>
+<p class="para-vi-sub">Sau khi Gene nộp tiền tại ngoại, viên cảnh sát thả PJ ra, và PJ ngã nhào vào vòng tay của Gene.</p>
+
+<p class="para-en">“Hey, kid,” the old man said. “How about our deal?”</p>
+<p class="para-vi-sub">“Này nhóc,” người đàn ông lớn tuổi nói. “Thế còn giao kèo của chúng ta thì sao?”</p>
+
+<p class="para-en">PJ shook his head. “I can’t, sir.”</p>
+<p class="para-vi-sub">PJ lắc đầu. “Tôi không làm thế được đâu, thưa ông.”</p>
+
+<p class="para-en">The man snarled, gnashed his teeth, gripped the bars. “You’re a boy. You’re a little boy. You’re a little boy going off to war to kill innocent people.”</p>
+<p class="para-vi-sub">Người đàn ông gầm gừ, nghiến răng ken két, bám chặt lấy các thanh sắt. “Cậu chỉ là một thằng nhóc. Một thằng nhóc tì. Một thằng nhóc tì sắp sửa ra trận để giết những người vô tội.”</p>
+
+<p class="para-en">“Shush,” Michelle Cobb said to the man. “Who does that help? It’s not his choice to go.”</p>
+<p class="para-vi-sub">“Trật tự đi,” Michelle Cobb nói với người đàn ông. “Làm thế thì được tích sự gì chứ? Có phải cậu ấy muốn đi đâu.”</p>
+
+<p class="para-en">The old man looked at Michelle Cobb and his whole body relaxed. His face softened. She was a vision, a vision in orange, like sunshine herself had walked into that grimy jail. “I’m sorry, miss,” he said. “I don’t know what’s gotten into me.”</p>
+<p class="para-vi-sub">Người đàn ông nhìn Michelle Cobb và toàn bộ cơ thể ông ta thả lỏng ra. Gương mặt ông ta dịu lại. Cô đúng là một hiện thân tuyệt mĩ, một hiện thân rực rỡ sắc cam, tựa như ánh dương vừa bước vào buồng giam nhếch nhác này. “Tôi xin lỗi, cô gái,” ông ta nói. “Tôi không biết chuyện gì đã nhập vào mình nữa.”</p>
+
+<p class="para-en">“I’m sure you’ve had a hard night too,” Michelle said sweetly.</p>
+<p class="para-vi-sub">“Chắc hẳn ông cũng có một đêm tồi tệ,” Michelle ngọt ngào nói.</p>
+
+<p class="para-en">“I can tell the best thing that’ll ever happen to you for free,” the old man said to PJ, who could barely stand and was leaning against Gene Bartlett. “It’s that girl right there. She’s the best thing that will ever happen to you. And to you too,” he said, looking at Gene. “Don’t screw it up, boys.”</p>
+<p class="para-vi-sub">“Ta có thể đoán trước điều tuyệt vời nhất sẽ xảy ra với cậu là gì mà chẳng cần trả công,” người đàn ông nói với PJ, người lúc bấy giờ đang đứng không vững và phải dựa người vào Gene Bartlett. “Chính là cô gái đứng ngay kia kìa. Cô ấy là điều tuyệt vời nhất từng đến với cậu. Và với cả cậu nữa,” ông ta nói, nhìn sang Gene. “Đừng có làm hỏng chuyện đấy nhé, mấy cậu trai.”</p>
+
+<p class="para-en">“I won’t,” young PJ and young Gene Bartlett promised, at exactly the same time.</p>
+<p class="para-vi-sub">“Tôi không làm hỏng đâu,” PJ trẻ tuổi và Gene Bartlett trẻ tuổi cùng đồng thanh hứa hẹn vào đúng một thời điểm.</p>
+
+<p class="para-en">Gene helped PJ out to the car, and then Michelle said she had to go back inside. She’d forgotten her purse on the bench in the precinct. She went back in to get it and was back out a few minutes later.</p>
+<p class="para-vi-sub">Gene dìu PJ ra chiếc xe hơi, rồi Michelle nói cô phải quay lại bên trong. Cô để quên chiếc ví của mình trên chiếc ghế dài ở khu vực hành chính, quay lại lấy nó và trở ra chỉ vài phút sau đó.</p>
+
+<p class="para-en">“That poor man in the jail,” she said, returning with her purse and climbing into the backseat of Gene’s Pontiac GTO. “He was hungry. He was only hungry. He didn’t mean it, Pauly, what he said about killing innocent people.”</p>
+<p class="para-vi-sub">“Tội nghiệp người đàn ông trong buồng giam đó quá,” cô nói khi cầm chiếc ví quay ra rồi trèo lên ghế sau chiếc Pontiac GTO của Gene. “Ông ấy đói. Ông ấy chỉ đói thôi. Pauly à, ông ấy không cố ý nói những lời đó về việc giết người vô tội đâu.”</p>
+
+<p class="para-en">“Did you buy him something to eat?” Gene asked.</p>
+<p class="para-vi-sub">“Em đã mua gì cho ông ta ăn à?” Gene hỏi.</p>
+
+<p class="para-en">“Of course I did. A bag of pretzels.”</p>
+<p class="para-vi-sub">“Đương nhiên rồi. Một gói bánh quy mặn.”</p>
+
+<p class="para-en">PJ wondered if he should say anything, but instead he closed his eyes and waited to get to the doctor. Michelle Cobb was so sweet, it would have scarred her forever if she knew. Better let her think she helped the man by buying him the pretzels from the vending machine. Better let her think she had done a good thing.</p>
+<p class="para-vi-sub">PJ tự hỏi liệu mình có nên nói gì không, nhưng thay vào đó, cậu nhắm nghiền mắt lại và chờ đợi để được đến gặp bác sĩ. Michelle Cobb quá đỗi ngọt ngào, nếu biết sự thật thì điều đó sẽ để lại vết sẹo trong tâm hồn cô mãi mãi. Thật tốt hơn khi cứ để cô nghĩ rằng mình đã giúp người đàn ông đó bằng cách mua cho ông ta gói bánh quy mặn từ máy bán hàng tự động. Thật tốt hơn khi để cô tin rằng mình vừa làm một việc tốt.</p>
+
+<p class="para-en">“So why didn’t you marry Michelle Cobb?” Ollie asked. “If she was the best thing to ever happen to you?”</p>
+<p class="para-vi-sub">“Thế sao chú không cưới Michelle Cobb?” Ollie hỏi. “Nếu cô ấy là điều tuyệt vời nhất từng đến với chú?”</p>
+
+<p class="para-en">“Did they sew the finger back on?” Luna asked. “Can I see the scar?”</p>
+<p class="para-vi-sub">“Họ có khâu lại ngón tay cho chú không?” Luna hỏi. “Cháu xem vết sẹo được không?”</p>
+
+<p class="para-en">PJ held up his hand and there was a visible jagged scar that wrapped around his pointer finger. “It’s faded with time,” he said, but Luna was satisfied. “As for Michelle, well, she chose Gene. He was the safer choice, I understood. He’d gotten a medical deferment, so he didn’t have to go to Vietnam. Bone spurs, my ass. Have you ever heard of bone spurs?”</p>
+<p class="para-vi-sub">PJ giơ bàn tay lên và có một vết sẹo ngoằn ngoèo rõ mồn một quấn quanh ngón trỏ của ông. “Nó đã mờ dần theo thời gian rồi,” ông nói, và Luna tỏ ra hài lòng. “Còn về Michelle, thì cô ấy đã chọn Gene. Đó là lựa chọn an toàn hơn, chú hiểu được. Cậu ta được hoãn nghĩa vụ quân sự vì lý do y tế, nên không phải đi chiến đấu ở Việt Nam. Bệnh gai xương gót chân cái nỗi gì chứ. Cháu đã bao giờ nghe nói về bệnh gai xương gót chân chưa?”</p>
+
+<p class="para-en">The kids had not.</p>
+<p class="para-vi-sub">Hai đứa trẻ chưa từng nghe bao giờ.</p>
+
+<p class="para-en">“But I get a second chance with Michelle Cobb now. The best thing that’s ever happened to me could still happen. It’s not too late.”</p>
+<p class="para-vi-sub">“Nhưng giờ chú lại có cơ hội thứ hai với Michelle Cobb rồi. Điều tuyệt vời nhất từng xảy ra với chú vẫn có thể xảy ra. Vẫn chưa quá muộn đâu.”</p>
+
+<p class="para-en">“And the worst has already happened,” Luna said.</p>
+<p class="para-vi-sub">“Và điều tồi tệ nhất thì đã xảy ra rồi,” Luna nói.</p>
+
+<p class="para-en">“The worst is over,” PJ agreed.</p>
+<p class="para-vi-sub">“Điều tồi tệ nhất đã qua rồi,” PJ đồng tình.</p>
+
+<p class="para-en">“I can’t wait to meet her,” Ollie said. “She sounds really nice.”</p>
+<p class="para-vi-sub">“Cháu rất nóng lòng được gặp cô ấy,” Ollie nói. “Nghe có vẻ cô ấy rất tốt bụng.”</p>
+
+<p class="para-en">Sophie rolled her eyes. If Michelle Cobb was the best thing that had ever happened to her dad, her mom sure had put up with a lot of shit.</p>
+<p class="para-vi-sub">Sophie đảo mắt. Nếu Michelle Cobb là điều tuyệt vời nhất từng đến với bố, chắc chắn mẹ đã phải chịu đựng biết bao nhiêu điều khốn khổ.</p>
+
+<p class="para-en">But Sophie did like the part of her dad’s story about her grandmother; she’d always liked Grandma Regina’s stories. Grandma Regina used to take care of Sophie and Kate every Tuesday after school. Kate and Sophie particularly loved to hear about all the boyfriends Grandma Regina had once had.</p>
+<p class="para-vi-sub">Nhưng Sophie thực sự thích phần trong câu chuyện của bố về bà ngoại; cô vẫn luôn thích những câu chuyện của bà ngoại Regina. Bà ngoại Regina từng chăm sóc Sophie và Kate vào mọi ngày Thứ Ba sau giờ tan trường. Kate và Sophie đặc biệt thích nghe kể về tất cả những người bạn trai mà bà ngoại Regina từng có thuở trước.</p>
+
+<p class="para-en">“Goodbye, my brave and smart girls,” Grandma Regina used to say, when their mom picked them up. “You take care of those beautiful faces until I see them again.”</p>
+<p class="para-vi-sub">“Tạm biệt những cô bé dũng cảm và thông minh của bà,” bà ngoại Regina thường nói khi mẹ đón họ về. “Các cháu hãy giữ gìn những khuôn mặt xinh đẹp ấy cho đến khi bà gặp lại nhé.”</p>
+
+<p class="para-en">“You too, Grandma Regina,” Kate used to say back, and Sophie never knew if Kate was being mean or not. Their grandma had suffered nearly full-body third-degree burns in a house fire. She was missing part of her nose.</p>
+<p class="para-vi-sub">“Bà cũng vậy nhé, bà ngoại Regina,” Kate thường đáp lại, và Sophie chẳng bao giờ biết được liệu Kate có ý châm chọc hay không. Bà ngoại của họ từng bị bỏng độ ba gần như toàn thân trong một vụ hỏa hoạn ở nhà. Bà bị mất một phần mũi.</p>
+
+<p class="para-en">She died five years after Kate.</p>
+<p class="para-vi-sub">Bà qua đời năm năm sau khi Kate ra đi.</p>

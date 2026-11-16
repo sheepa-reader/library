@@ -1,129 +1,157 @@
-*Phần II: Rời Pondville • Ngày 1 (Thứ Ba)*
+*Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba*
 
-# Chương 17
+# Chương 13
 
-“C hú mèo này là mèo trị liệu,” PJ giải thích ở quầy lễ tân của Khách sạn Roger Woodward về sinh vật nhỏ màu cam đang nằm trong vòng tay ông, và nhân viên trực sảnh mặc đồng phục màu đỏ sẫm liền đáp rằng động vật trị liệu luôn được chào đón tại Woodward, cũng như thú cưng vậy. Chủ khách sạn là một người yêu động vật, vô cùng chu đáo ngay khi khách vừa làm quen.
+Vào buổi sáng, khi lũ trẻ đang nhảy trên tấm nhún lò xo, PJ chờ phi công phụ của mình. Ông không thể tin được là Sophie đã đồng ý đi cùng. Ông cất những chiếc túi rác của lũ trẻ vào phía sau chiếc xe Volvo. Ông nghĩ về việc mình sẽ phải mua cho lũ trẻ một vài chiếc vali đàng hoàng. Có rất nhiều thứ ông sẽ phải mua cho chúng. Rất nhiều thứ mà trẻ con cần.
 
-Sau khi gọi đồ ăn phục vụ tận phòng cho hai căn phòng thông nhau của họ, Sophie bảo rằng cô sẽ lên phòng tập thể dục, chạy nước rút trên máy chạy bộ, rồi dự định ngậm một viên kẹo dừa cần sa và ngâm mình trong bồn nước nóng ở khu spa trên tầng năm. Cô không nói phần thứ hai của kế hoạch, cô bỏ qua phần đó. Không có hồ bơi nào ở Khách sạn Roger Woodward cả, nhưng có một phòng tập thể dục và spa, và Sophie đã nhìn thấy tấm biển đó. Cô hy vọng bố mình không nhìn thấy biển báo quán rượu.
+Mình nhớ cô ấy... chiếc mũ cất lên từ trên đầu ông. Chiếc mũ của Kate. Từ khi nào mà ông lại đội chiếc mũ bóng mềm lên đầu thế này? Ông không thể nhớ nổi. Ông chắc chắn là mình không ngủ mà đội nó, nhưng giờ ông lại đang đội nó lần nữa. Nó đã rời khỏi tay nắm cửa, nơi thuộc về nó, nhưng chiếc mũ có vẻ rất vui vì được đội lại. Một chiếc mũ sinh ra là để được đội, để che mắt ai đó khỏi ánh mặt trời để họ có thể bắt được một quả bóng bay cao. Ông có thể nhắm mắt lại và hình dung ra sân bóng mềm ở trường trung học, mùi cỏ thơm thế nào, lớp bụi đỏ gỉ từ sân bóng xoáy tròn trong không khí. Ông có thể nghe thấy đám con gái hô vang những câu cổ vũ khi chúng ngồi trên ghế băng. Các cầu thủ bóng mềm có nhiều tiếng hô hơn cả đội cổ vũ, chỉ là tiếng hô của họ giống những lời chế nhạo hơn. Có một câu cổ vũ mà PJ nhớ về một bạn trai, và bạn trai đó tên là Ed, nhưng Ed lại cổ vũ cho đội khác, thế nên họ đã bắn vào đầu hắn! PJ khúc khích cười khi nghĩ đến điều đó.
 
-“Mẹ con bảo con tập thể dục quá nhiều đấy,” ông nói khi cô đang mang giày thể thao.
+PJ tự hỏi liệu Ollie và Luna có biết cách bắt và ném một quả bóng hay không. Tài liệu không nói gì về khả năng thể thao của chúng ở phần ghi nhận những vụ bạo lực gia đình được báo cáo tại nhà chúng. Nếu lũ trẻ ở lại với ông, nếu chúng không đến sống với Mark Stackpole ở Los Angeles đó, có lẽ chúng sẽ muốn chơi bóng chày và bóng mềm. Ông và Michelle Cobb có thể nuôi nấng chúng ở Tucson, trong thời tiết ấm áp, chúng có thể chơi quanh năm suốt tháng...
 
-“Còn hơn là say bí tỉ mỗi đêm.”
+Mọi chuyện sẽ không giống như trước đâu, một giọng nói cất lên, và nó không phát ra từ chiếc mũ; chiếc mũ chưa bao giờ nói nhiều đến thế. Đó là một giọng nói khác từ đâu đó phía dưới. Một giọng khàn khàn. PJ nhìn xuống gầm xe. Pancakes ở đó, ngậm một con chim chết trong miệng. Ông không hiểu sao chú mèo có thể nói chuyện được nếu đang ngậm một con sẻ trong miệng. PJ chỉ đang nghe nhầm thôi. Dạo gần đây ông ngủ không ngon giấc do hội chứng cai rượu, và ông đã dậy từ rất sớm để hoàn thành việc vạch ra lịch trình cho chuyến đi. PJ cảm thấy nhói lòng vì Pancakes đã giết một con chim trong khuôn viên nhà Fred, ông biết rằng cái chết của một con chim sẽ làm bạn thân của ông buồn lòng. “Lại đây nào,” PJ nói, với tay xuống gầm xe và tóm lấy phần giữa thân của Pancakes. “Nhả ra mau, đến lúc lên đường rồi. Chúng ta sẽ đi khám phá nước Mỹ.”
 
-“Này, bố có phải là người nói câu đó đâu. Đừng có trút giận lên người đưa tin chứ.”
+Pancakes nhả con chim ra, dù chú vừa mới bắt được con mồi. Chú ngửi thấy mùi PJ đã gói đồ ăn vặt cho mèo trong chiếc túi trống, và đó là loại ngon, làm từ thịt cá hồi thật! , gan gà và gôm guar, được tạo hình thành những chú cá nhỏ xíu. PJ đã đặt một chiếc khay vệ sinh trên sàn xe ở hàng ghế sau, ở khu vực phẳng giữa chỗ để chân của lũ trẻ.
 
-Sophie giơ các ngón tay tạo hình khẩu súng, vờ như đang bắn về phía bố mình, rồi cô lui ra hành lang khách sạn.
+Và rồi Sophie lái chiếc xe Honda Civic tồi tàn cũ kỹ của cô tới, PJ liền gọi lớn ra sân sau bảo lũ trẻ mau ra lên xe Volvo; họ đang lãng phí thời gian ban ngày và ngoài kia trên đường có bao nhiêu thứ đang chờ được ngắm nhìn.
 
-PJ chỉ ở lại một mình với lũ trẻ, và ông thấy hơi giống như một sự phản bội nhỏ nhoi, vừa bị bắn xong lại bị bỏ rơi. Sophie đã hứa giúp ông trông nom lũ trẻ cơ mà.
+Mười lăm phút sau, tất cả bọn họ đã nhồi nhét vào chiếc xe Volvo màu đỏ với biển số BIRD BRN , hướng thẳng ra rìa thị trấn, nơi tấm biển cảnh báo họ phải Cẩn Thận Khi Ra Ngoài Kia!
 
-Ollie bật ti vi lên và lướt qua các kênh. Luna muốn xem một bộ phim tài liệu về cá voi sát thủ. PJ nghĩ nó sẽ khá là u ám, nhưng ông cứ để mặc chúng xem. Dù sao thì nó cũng mang tính giáo dục. Hơn nữa, ông nghĩ cá voi sát thủ sẽ không đến nỗi u ám như loài gấu Bắc Cực. Mấy con cá voi sát thủ đâu cần băng tan trên các tảng băng trôi đâu, phải không?
+“Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng chú PJ sẽ lái xe.
 
-Chắc chắn PJ đã chợp mắt được một lúc, bởi vì ông giật mình tỉnh dậy khi Luna đập tay vào ngực ông. “Dậy đi, chú PJ. Hết phim rồi. Chú phải kể chuyện trước khi ngủ cho bọn cháu nghe chứ.”
+“Cô đang giúp chú của các cháu chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”
 
-PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Chú bị bệnh tim đấy.”
+“Chú ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”
 
-“Con mèo đâu rồi ạ?” Ollie hỏi. “Nó sẽ kể cho bọn cháu nghe.”
+“Ừ,” Ollie hùa theo, mặc dù cậu bé khá thích việc Sophie có những lọn tóc vệt xanh.
 
-“Không, không, chú không bị lên cơn đau tim đâu. Đừng lo, nhóc con, chú ổn mà. Chú mèo chắc đang ở dưới gầm giường thôi.”
+“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ chú vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”
 
-“Kể chuyện đi ạ,” Luna mè nheo. “Cháu không thích đi ngủ mà không có chuyện nghe kể đâu.”
+“Con không phải kẹo bông dẻo,” Sophie cằn nhằn.
 
-“Được rồi, nhóc con, thế kể về cái gì đây?”
+Luna suy nghĩ lại về người phụ nữ đang lái chiếc xe này. Một cô nàng kẹo bông dẻo đeo kẻ mắt đen. Có thêm một người phụ nữ giúp cô bé tìm bố thì có lẽ sẽ hữu ích đây. “Chị có biết kế hoạch không?” Luna hỏi. “Chú PJ đã nói cho chị nghe kế hoạch chưa?”
 
-“Hồi xưa mẹ hay kể cho bọn cháu nghe về thời trung học,” Ollie nói. “Hoặc về hồi mẹ còn là một cô bé.”
+“Chúng ta sẽ đến California để tìm bố của hai đứa.” Chắc là Sophie đã không hỏi han đủ điều trước khi bước lên xe cùng bố cô và mấy đứa trẻ này, nhưng cô cũng thấy mừng vì được lái xe rời khỏi Massachusetts, nơi chẳng còn gì cho cô sau khi công việc mà cô gắn bó gần bốn năm trời bỗng tan thành mây khói. Cô mừng vì được lái xe rời xa những gã đàn ông đội mũ Red Sox mà cô từng ngủ cùng dạo gần đây. “Em là đứa con gái goth đầu tiên của anh đấy,” tất cả bọn họ đều nói vậy. Sophie không thích việc mình trở thành một mục tiêu trong danh sách những việc cần làm trước khi chết, nhưng dù sao cô vẫn về nhà với bọn họ. Blanche nói rằng chính căn bệnh trầm cảm lâm sàng của cô đang đưa ra các quyết định thay cho cô, và một ngày nào đó cô sẽ phải bắt căn bệnh trầm cảm lâm sàng đó ngừng cầm lái. Chà, ngay lúc này đây cô đang lái chiếc xe Volvo của Fred, và giúp bố cô chăm sóc hai đứa trẻ mồ côi. Trầm cảm lâm sàng không làm được việc đó đâu.
 
-“Vậy được thôi. Chú sẽ kể cho các cháu nghe một câu chuyện thời trung học. Chú sẽ kể về hồi chú gặp Michelle Cobb, người mà chúng ta đang trên đường đến gặp. Người mà chúng ta lái xe một quãng đường dài đến tận Arizona đấy.”
+Luna rất vui vì cô nàng kẹo dẻo này không nói với cô bé rằng việc tìm kiếm người cha ruột là điều bất khả thi. “Ông ta không biết mình là bố em, nhưng đúng là vậy. Ollie và em trông không giống nhau vì chúng em chỉ là chị em cùng mẹ khác cha. Chúng em có chung một người mẹ, nhưng mẹ đã tự sát.”
 
-“Hy vọng câu chuyện hay đấy,” Luna nói. “Cháu sẽ hét lên nếu nó nhàm chán đấy nhé.”
+Chà, từng đó thông tin là quá nhiều cho một buổi sáng sớm, dù Sophie đã biết trước câu chuyện này. Sophie từng tra cứu trên mạng những gì đã xảy ra với bọn trẻ, đã đọc các bài báo, nhưng cô không ngờ bọn trẻ lại nhắc đến chuyện đó trực diện như vậy. “Chị rất tiếc vì sự mất mát của các em,” cô nói. Điều đó có vẻ thật gượng gạo khi nói với một đứa trẻ.
 
-“Sẽ không nhàm chán đâu,” PJ hứa chắc nịch, bởi vì ông từng kể câu chuyện này ở quán rượu, và nó lúc nào cũng đắt khách cả.
+Luna ghét việc người lớn cứ nói như vậy. Cô bé sẽ không thèm nói chuyện với Sophie nữa nếu Sophie cũng tỏ ra ngớ ngẩn như những người lớn khác. Luna lục lọi trong chiếc túi xách hồng to bản của mình để tìm việc khác làm; chiếc túi chứa đầy đồ đạc từ căn phòng cũ của cô bé, cùng với cuốn kỷ yếu và nhật ký của mẹ. Cô bé có thể xem lại cuốn kỷ yếu thêm lần nữa. Gương mặt của Mark Stackpole được khoanh tròn bên trong. Thậm chí Luna còn chẳng phải là người khoanh tròn nó; chính mẹ cô bé đã làm điều đó.
 
-Đó là năm 1969, vào mùa xuân năm cuối trung học của PJ, chỉ vài tuần trước lễ tốt nghiệp, và trường trung học đang tổ chức một buổi dạ hội giao lưu với một trường trung học khác vào tối thứ Sáu. Dạ hội giao lưu là cách gọi những buổi khiêu vũ hồi đó.
+“Sophie, báo cho bố biết khi nào con mệt nhé, rồi bố sẽ lái thay,” PJ nói.
 
-Tại buổi khiêu vũ này, buổi dạ hội này, Michelle Cobb đang đứng cạnh bát đựng nước trái cây, một cô nàng tóc đỏ mặc chiếc váy hoa màu cam, khoác ngoài chiếc áo len cardigan màu cam. Trông cô giống như một ly nước trái cây xinh xắn. PJ nói với cô rằng ông chưa từng thấy ai đẹp đến thế, và ông hỏi cô có muốn khiêu vũ không. Cô bảo có. Cô đến từ thị trấn bên cạnh, Middleborough, và học tại Học viện Nữ sinh Sacred Heart. Cha cô làm chủ tiệm bánh nếp ở Middleborough trên phố Center, và cô muốn biết PJ đã từng đến đó chưa. “Rồi chứ,” ông đáp, bởi vì ai trong vùng cũng biết tiệm bánh của Ed Cobb, và ai cũng quý Ed Cobb cả. Nhưng mặc dù Michelle có người cha làm khuôn mẫu cho hình ảnh một người đàn ông chuẩn mực, cô nàng Michelle lại không có gu chọn bạn trai xuất sắc cho lắm. Cô đến buổi dạ hội giao lưu cùng Ricky Fafard, người mà PJ biết từ lớp học thủ công, và Ricky thực sự là một tên khốn.
+“Bố ơi, bố không lái xe được đâu.”
 
-Đúng lúc đó Ricky bước tới, mặt mày tức tối. “Cậu đang làm cái quái gì với Michelle thế?” hắn hỏi. “Tôi đã bảo là tôi quay lại ngay cơ mà.”
+“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ chú có vấn đề gì à?”
 
-“Chỉ là một điệu nhảy thôi mà, Ricky,” Michelle nói.
+“Đúng thế,” Sophie nói.
 
-“Chỉ là một điệu nhảy thôi mà,” PJ đồng tình, dẫu trong lòng ông sướng rơn khi thấy Ricky nổi điên.
+“Chú uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng chú đang khá lên rồi.”
 
-Ricky hầm hầm bỏ đi, và PJ cùng Michelle Cobb nhảy thêm vài điệu nữa. Điệu Jerk, rồi điệu Watusi.
+“Bố của chúng cháu cũng lái xe đấy chứ,” Ollie nói. “Bố là cảnh sát. Và bố cũng uống rất nhiều bia.”
 
-“Đó là tên các điệu nhảy hả chú?” Luna hỏi.
+“Người ta cho phép cảnh sát làm bất cứ điều gì mà,” Sophie nói.
 
-PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông tua nhanh qua phần còn lại của buổi khiêu vũ, bởi ông đang háo hức muốn kể đến đoạn hấp dẫn nhất của câu chuyện: vụ ẩu đả trong phòng vệ sinh.
+“Chú không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Chú là một người say vui vẻ. Chú là một người rất yêu thương con cái.”
 
-Cuối cùng, PJ đành cáo lỗi để đi vệ sinh, và trên đường đến phòng vệ sinh nam, PJ ngoái đầu nhìn lại thì thấy Ricky đã bám theo sau. PJ bảo: “Cậu muốn gì thế? Tôi không muốn gây sự đâu. Chỉ là một điệu nhảy thôi. Chỉ vài điệu nhảy thôi mà. Bạn gái của cậu nhảy cừ thật đấy.”
+Sophie đảo mắt ngán ngẩm. Thật kinh khủng khi có bất kỳ loại bợm nhậu nào làm bố, dù là bợm nhậu vui vẻ hay bợm nhậu cục súc. Mọi thứ luôn thật rối rắm và đáng sợ. Đó luôn là kẻ đặt rượu chè lên trên việc chăm sóc bạn.
 
-Khuôn mặt Ricky sầm lại, trong ánh mắt hằn lên vẻ sát khí. PJ chưa từng nghĩ Ricky lại là kiểu thiếu niên bạo lực như thế, cái kiểu sẵn sàng thượng cẳng chân hạ cẳng tay vì một cô gái, nhưng ngẫm lại, Ricky cũng sắp bị gọi nhập ngũ rồi, cả cậu ta lẫn PJ chẳng khác nào những con cừu non đem đi làm thịt. Khi ấy, PJ thoáng thấy một ánh bạc lóe lên trong tay Ricky. Ricky Fafard cầm theo một con dao. Đó là con dao bấm do người anh trai tặng cho Ricky vào đêm đi khám tuyển nghĩa vụ quân sự. Đã đến lúc Ricky phải tỏ ra ra dáng đàn ông rồi.
+Một chiếc xe thể thao màu trắng lao vút qua họ, cúp đầu xe của họ, và PJ với tay sang phía Sophie rồi bấm còi inh ỏi.
 
-“Này, này, này,” PJ nói với Ricky trong phòng vệ sinh của nhà ăn trường trung học nơi đang diễn ra buổi khiêu vũ. “Bình tĩnh nói chuyện đi nào. Michelle bảo hai người vừa mới bắt đầu hẹn hò, cô ấy bảo cậu đang quá nghiêm túc với cô ấy đấy.” PJ đảo mắt nhìn quanh phòng vệ sinh. Ông thầm hy vọng có ai đó sẽ bước ra từ một buồng vệ sinh để cứu nguy cho mình, nhưng ở đó chẳng còn ai khác ngoài họ. Chỉ có ông, Ricky Fafard và con dao.
+“Bố!”
 
-“Chú bảo với cậu ta đó chỉ là một điệu nhảy; chú bảo chú là một người ưa hòa bình,” PJ kể lại cho lũ trẻ nghe.
+“Chắc chắn bố lái xe giỏi hơn cái tên khốn đó.”
 
-Nhưng Ricky Fafard nào có bận tâm. Cậu ta vung dao lao vào PJ. PJ đưa tay lên đỡ để tự vệ, kết quả là ngón tay bị chém một nhát rất sâu. Máu tuôn xối xả khắp nơi. Mạch máu phun ra tựa vòi nước.
+“Bố không được phép chạm vào vô lăng. Và đừng có chửi thề trước mặt bọn trẻ.”
 
-Chà, Ricky Fafard chưa từng cắt trúng ai bằng con dao đó bao giờ. Và hóa ra Ricky Fafard lại là kẻ sợ máu. Cậu ta ngất lịm ngay lập tức và đập đầu vào bồn rửa mặt trên đà ngã xuống. Cậu ta nằm bất tỉnh trên sàn lát gạch, trong lúc PJ bắt đầu dùng giấy vệ sinh băng bó bàn tay đang tuôn máu.
+“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Chú có muốn cháu kể ra hết không?”
 
-Đúng lúc đó thì có một cậu nhóc khác bước vào phòng vệ sinh. Gene Bartlett.
+“Có chứ,” Luna nói.
 
-PJ nhìn thấy Gene, người dính đầy máu, đang ngồi cạnh một cái xác nằm dưới đất, và PJ mỉm cười với người bạn của mình rồi nói: “Chào Gene nhé! Cậu đến hơi muộn rồi đấy!”
+“Có,” PJ nói.
 
-“Thế Gene đã làm gì ạ?” Ollie hỏi.
+“Tuyệt đối không,” Sophie nói. “Bố, nói chuyện với bọn trẻ đi. Kể cho chúng nghe một câu chuyện gì đó đi.”
 
-“Tội nghiệp Gene quay đầu chạy biến. Chú đã làm cậu ta hoảng sợ. Tất nhiên là lúc đó chú cũng lú lẫn vì mất máu quá nhiều. Đến khi cảnh sát có mặt, chú cố gắng giải thích rằng mình chỉ muốn khiêu vũ với bạn gái của Ricky, nhưng lúc đó chú nói năng chẳng còn mạch lạc gì nữa. Cảnh sát đinh ninh rằng chính chú đã đánh tơi bời Ricky, vì cậu ta mới là kẻ đang nằm bất động dưới sàn, thế là họ tống thẳng chú vào nhà giam,” PJ kể. “Ngón tay chú lúc đó chỉ còn dính lủng lẳng bằng một chút da thịt, và nếu không được khâu lại ngay thì chú sẽ chẳng thể đi lính nổi.”
+“Ồ, còn hơi sớm để kể một trong số những câu chuyện của chú, nhưng mà... ồ đợi đã, chú có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc lò nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.
 
-“Sao lại thế ạ?” Luna hỏi.
+“Chú mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.
 
-“Đó là ngón tay bóp cò của chú. Không thể bắn súng nếu thiếu ngón tay đó. Không thể ra trận nếu không có súng.”
+Luna hỏi: “Chú giàu lắm hả chú PJ?”
 
-“Nhưng chú đã đi lính cơ mà,” Ollie nói. “Chính chú bảo thế còn gì.”
+Sophie khịt mũi. “Bố chưa kể cho các em nghe à?” cô hỏi.
 
-“Thế nên, các cháu đã biết trước một phần câu chuyện rồi đấy. Chú sẽ kể nốt phần còn lại vào ngày mai, nhưng hôm nay pin của chú cạn sạch rồi.”
+“Kể cái gì cơ?” Ollie hỏi.
 
-“Nhưng thế còn Ricky thì sao ạ?” Luna hỏi.
+“Bố chị là người trúng giải xổ số triệu đô đấy. Đó là thành tựu vĩ đại nhất đời ông ấy. Ông ấy thậm chí còn mặc cái áo nỉ mà họ tặng nữa cơ.” Sự thật là vậy, Xổ số Tiểu bang Massachusetts đã tặng cho PJ một chiếc áo hoodie có khóa kéo. Họ tặng nó cho bất kỳ ai trúng thưởng trên một mức tiền nhất định; đó là quảng cáo tốt. Để chứng minh rằng ngoài đời thực có những người trúng xổ số.
 
-“Cậu ta đập đầu khá mạnh vào bồn rửa mặt và rơi vào trạng thái hôn mê kể từ dạo đó. Bốn mươi lăm năm hôn mê sâu. Ở Bệnh viện Pondville, tầng ba, phòng đầu tiên bên trái. Mẹ cậu ta vẫn đến thăm cậu ta mỗi ngày. Bà ấy nay đã chín mươi mốt tuổi, và chú nghe nói khi bà ấy qua đời, người ta sẽ rút ống thở của cậu ta. Thỉnh thoảng chú vẫn ghé thăm cậu ta. Các y tá cho phép chú tỉa tót bộ râu cho cậu ta; bộ râu chẳng bao giờ ngừng mọc cả.”
+“Là một triệu rưỡi cơ,” PJ tự hào nói. “Từ một tấm vé cào đấy.”
 
-“Chuyện đó có thật không ạ?” Ollie hỏi.
+“Chà,” Ollie nói. “Chú thực sự trúng xổ số luôn á?”
 
-“Đó chỉ là một câu chuyện trước khi đi ngủ thôi. Quan tâm làm gì chuyện thật hay giả.”
+Luna thì thầm: “Cảm ơn chú,” rồi ôm chiếc iPad vào ngực.
 
-“Thế nghĩa là không có thật ạ.”
+PJ mỉm cười, cảm thấy vô cùng đắc ý. Trẻ con hiểu được việc trúng xổ số ấn tượng đến thế nào, đó không phải là thứ mà ai cũng có thể làm được. Ông ghét cái cách Sophie coi thường chuyện chơi vé cào cứ như đó là trò của đám người vô lại tầng lớp hạ lưu vậy. Ông đã trúng thưởng đường đường chính chính, và ông đã dùng số tiền của mình để làm những việc có ích. Ông đã là một công dân có đóng góp cho cộng đồng Pondville.
 
-“Khi nào chúng ta quay lại Pondville, nếu tụi mình thực sự quay về Pondville, chú sẽ dẫn các cháu đi gặp Ricky.”
+“Tối nay chúng ta được ở khách sạn sang trọng chứ ạ?” Ollie hỏi.
 
-“Cháu rất thích điều đó,” Ollie đồng tình.
+PJ bật cười. “Đương nhiên rồi.”
 
-“Chú PJ ơi?” Luna gọi.
+“Và gọi khoai tây chiên qua dịch vụ phòng chứ ạ?” Ollie từng xem một bộ phim về một đứa trẻ nhà giàu sống một mình trong khách sạn, và cậu bé vẫn luôn khao khát được sống theo cách đó. Được ăn ngập mặt khoai tây chiên và kem phục vụ trên đĩa bạc.
 
-“Sao thế cháu?”
+“Chắc chắn rồi. Chú sẽ gọi khoai tây chiên cho cháu.”
 
-“Cảm ơn chú vì đã không kể cho bọn cháu nghe một câu chuyện nhảm nhí dành cho trẻ con. Cảm ơn chú vì đã kể một câu chuyện thực tế.”
+“Có khách sạn nào có hồ bơi không ạ?” Luna hỏi.
 
-PJ hiểu tại sao Luna lại muốn nghe một câu chuyện thực tế, rằng cô bé muốn được đối xử nghiêm túc, và tại sao cô bé lại không muốn bị bỏ mặc trong sự nhàm chán. Cảm giác chán chường chẳng có gì là vui thú cả. Đó cũng là một trong những điều mà rượu mang lại tác dụng. Nhưng PJ còn có thứ khác có thể khiến lũ trẻ phấn khích hơn. Ông thọc tay vào túi và lấy ra một chiếc hộp nhỏ. Ông đưa cho bọn trẻ xem chiếc nhẫn mà ông chuẩn bị sẵn cho Michelle Cobb. Một chiếc nhẫn kim cương nhỏ lấp lánh.
+“Không,” PJ nói, nét mặt tối sầm lại. “Không. Không có hồ bơi nào hết. Tuyệt đối không có hồ bơi trong chuyến đi này.”
 
-“Ồ,” Luna thốt lên. “Nó là thật ạ?”
+“Cơ mà chị ấy có chết đuối trong hồ bơi đâu, bố,” Sophie nói.
 
-“Thật chứ. Chú định ngỏ lời cầu hôn Michelle Cobb để cô ấy cùng chú trải qua phần đời còn lại.”
+“Ai cơ?” Luna hỏi. “Ai chết đuối vậy?”
 
-“Gớm thật đấy,” Ollie bình luận.
+“Con gái chú, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời chú.”
 
-“Đây là một thời điểm vô cùng hào hứng đối với chú, và chú rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Chú sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”
+“Nhưng không phải ở hồ bơi đâu,” Sophie nói. “Ở đầm lầy nam việt quất cơ.”
 
-“Chúc chú PJ ngủ ngon ạ,” hai đứa trẻ đồng thanh đáp, và chúng nói tự nhiên cứ như thể cả hai đã chúc chú PJ ngủ ngon hàng ngàn lần trước đó rồi. Trẻ con quả thật rất dễ thích nghi, PJ thầm nghĩ. Thật là kỳ diệu.
+“Làm sao mà người ta lại chết đuối ở đầm lầy nam việt quất được nhỉ?” Luna hỏi. “Chúng có sâu lắm đâu.” Mọi người ở Pondville đều biết rõ về quả nam việt quất.
 
-PJ rất nóng lòng muốn kể cho Sophie nghe về việc ông đã trông nom lũ trẻ tốt thế nào, nhưng khi sang phòng bên cạnh, PJ thấy Sophie đã ngủ say sưa trên chiếc giường đôi cỡ lớn của khách sạn, chăn đắp kín người và chìm vào giấc ngủ sâu không biết trời đất là gì. Quả thực, ông chưa từng thấy ai ngủ say đến thế, và tự hỏi điều gì đã khiến cô kiệt sức đến vậy. Ông nào có biết đến năm dặm cô chạy trên máy chạy bộ, tiếp theo là hai viên kẹo dẻo cần sa, cùng ba mươi phút cô ngồi trong bồn nước nóng trên lầu tại khu spa của khách sạn, trong khi lũ trẻ đang xem bộ phim tài liệu về cá voi sát thủ. Thế nhưng PJ lại muốn có ai đó để trò chuyện, thế nên ông rất muốn Sophie tỉnh dậy. Cô chẳng mảy may nhúc nhích khi ông bật tivi hay đi lại lịch bịch quanh phòng.
+“Đó là bi kịch lớn nhất cuộc đời chú,” PJ nói.
 
-PJ nhận ra mình biết quá ít về cuộc đời của Sophie, và những gì ông biết đều là qua lời Fred và Ivy kể trong bữa sáng. Ông biết cô từng làm trợ lý ở đâu đó với công việc gì đó. Ông biết dạo gần đây cô chạy bộ rất nhiều, và mẹ cô cho rằng đó là tập luyện quá mức. Ông biết Fred nghĩ Sophie nên quay lại trường để học làm chuyên gia trị liệu ngôn ngữ. Ông biết Fred đã tự mãn thế nào khi đưa ra gợi ý đó, dẫu PJ thấy điều này đi ngược lại quy tắc vàng của Ivy: không nói quá nhiều về Kate, bởi Sophie sẽ không đời nào chịu để bản thân bị định nghĩa là đứa trẻ có người chị đã khuất. Ivy đã đặt ra quy tắc đó từ rất sớm.
+“Cháu rất tiếc vì sự mất mát của chú,” Ollie nói.
 
-Chúng ta không thể mãi nhắc về Kate được, Ivy từng nói, ngay cả trong những ngày đầu đau khổ. Chúng ta phải tập trung vào Sophie. Ivy bị ám ảnh bởi việc làm cho Sophie hạnh phúc, cho cô mọi thứ, đưa cô đi khắp mọi nơi. Học piano, lớp học nhảy, tập bóng đá và bơi lội. Ivy dành đúng một tiếng mỗi tuần để khóc trong phòng Kate, còn ngoài ra, bà chỉ tập trung vào Sophie.
+“Em thật tốt bụng, Ollie,” Sophie nói. Cô rất quý cậu bé ngọt ngào này. Cậu bé bị thưa răng cửa, nên mỗi khi nói chuyện lại phát ra một tiếng gió xì xèo rất khẽ.
 
-Sophie vẫn nhẫn nhịn toàn bộ sự quan tâm từ mẹ mình. Ngay cả sau khi Sophie bắt đầu mặc toàn đồ đen, trông có vẻ u tối và nổi loạn, cô vẫn tham gia mọi hoạt động do mẹ đăng ký. Cô đạt điểm số cao. Cô trúng tuyển vào NYU, nhưng lại không đi học. PJ từng nghĩ lẽ ra Ivy nên ép cô đi. Ivy bảo đó là quyết định của Sophie, nhưng PJ thấy hình như Ivy còn tỏ ra quá đỗi vui mừng khi Sophie chọn học một trường đại học tiểu bang cách nhà chỉ hai mươi phút. Bao nhiêu hoạt động ngoại khóa để làm đẹp hồ sơ, thế mà Ivy thậm chí còn chẳng bận tâm việc Sophie có vào được trường đại học tốt nhất mà cô trúng tuyển hay không.
+“Cháu ghét việc mọi người cứ nói câu đó,” Luna nói. “Nó không đúng nghĩa của từ xin lỗi. Xin lỗi là khi bạn làm tổn thương người khác và ước gì mình đừng làm thế.”
 
-PJ rất muốn trò chuyện với Sophie về tất cả những chuyện này, xem liệu cô có bất kỳ điều gì hối tiếc hay không. PJ mở rồi lại đóng hộc tủ đầu giường trong khách sạn ngay sát đầu Sophie, nhưng hoặc là cô đang chìm trong giấc ngủ cực kỳ sâu, hoặc cô chính là người giả vờ giỏi nhất mà PJ từng thấy.
+Sophie hối hận vì đã nói với cô bé rằng cô rất tiếc về sự mất mát của em. Đó là một câu nói sáo rỗng, Sophie thầm công nhận. Nó cũng chưa từng cứu vãn được điều gì cho chính Sophie.
 
-Àthì, vẫn có những người khác để trò chuyện, ở quầy bar trên tầng. Nhưng thực sự thì PJ không nên đến quầy bar. Ông thực sự định sẽ cố gắng không uống gì cho đến ngày cưới, khi đó ông sẽ nâng một ly champagne trong bài phát biểu của phù rể.
+Ollie phá vỡ sự im lặng bằng câu nói: “Luna từng đấm Elsie Dawson trong vở kịch ở trường năm ngoái. Và chị ấy đã không chịu xin lỗi.”
 
-Nghĩ lại thì, việc ông đến quầy bar đâu có nghĩa là ông phải uống rượu. Ở Pondville có một người đàn ông tên là David Keller, đêm nào cũng đến quầy bar để trò chuyện kể từ khi vợ ông ấy qua đời. Ông ấy luôn gọi một chai Dr Pepper nguyên chất. Thế nhưng mọi người ở Quán rượu Wild Orchid đối xử với ông ấy cũng giống như bao người khác. Họ để ông ấy nói chuyện, thỉnh thoảng có người mời ông ấy một ly, thỉnh thoảng ông ấy mời lại bạn một ly. PJ hoàn toàn có thể ra quầy bar, chỉ để có người trò chuyện cùng. Chắc chắn có ai đó bầu bạn cùng sẽ tuyệt biết bao.
+PJ lên tiếng: “Chú chắc chắn là Elsie đáng bị như vậy.”
+
+Luna mỉm cười. Cô bé không ngờ chú PJ lại nói thế.
+
+PJ hứa hẹn: “Chúng ta sẽ ở một khách sạn sang trọng khi đến Thác Niagara.” PJ đã lên kế hoạch cho chuyến đi, in một bản đồ từ máy tính của Fred và quyết định Thác Niagara sẽ là điểm dừng chân đầu tiên của họ. “Chúng ta sẽ làm rất nhiều điều tuyệt vời.”
+
+Ollie tiếp lời: “Nhưng không được bơi.”
+
+PJ đồng tình: “Không bơi lội gì hết.”
+
+Luna bĩu môi: “Ngớ ngẩn.”
+
+Ngớ ngẩn thật, Sophie thầm đồng tình. Phần tuyệt vời nhất khi ở khách sạn lúc nhỏ chính là hồ bơi. Khi họ đi nghỉ mát, trước khi Kate qua đời, họ luôn xuống hồ bơi. Cô nhớ có lần họ đến New Hampshire dự một đám cưới, và Kate đã dạy cô cách chơi trò đấu vật trên vai dưới nước, nhấc bổng Sophie lên vai mình. Sophie từng cào vào mặt một cậu bé khác khiến cậu bé chạy đi khóc với mẹ. Cả Sophie và Kate đều gặp rắc rối, nhưng điều đó hoàn toàn xứng đáng. Họ đã chiến thắng trận đấu đó. Họ là nhà vô địch đấu vật dưới nước bất bại cho đến khi rời khỏi hồ bơi. Mắt Sophie rưng rưng. Cô lẩm bẩm: “Mẹ kiếp, tại con mèo.” Cô rẽ ở lối ra tiếp theo để tìm một cửa hàng CVS.
+
+Ollie ngẩng đầu lên từ chiếc iPad và hỏi: “Chúng ta sắp tới chưa ạ?”
+
+Họ vẫn còn năm tiếng rưỡi nữa mới đến Thác Niagara.
+
+Sophie đáp: “Chưa, chị chỉ dừng lại mua thuốc dị ứng thôi. Mọi người có cần gì không?”
+
+Ollie nói: “Đồ ăn vặt.”
+
+PJ nói thêm: “Bao cao su.” Ông không biết Michelle Cobb đã làm những gì kể từ khi Gene qua đời, và ông đã xem chuyên mục trên chương trình 60 Minutes nói về các bệnh lây truyền qua đường tình dục ở các cộng đồng người cao tuổi.
+
+“Ghê quá, bố. Không đời nào.”
+
+Luna tháo dây an toàn và bảo: “Em sẽ vào cùng chị.”
+
+“Được chứ. Thế thì tuyệt quá.” Luna khiến Sophie hơi căng thẳng. Sophie muốn cô bé thích mình, nhưng có vẻ như cô bé chẳng thích ai cả. Luna cứ cau mày suốt, hoặc khi cười trông giống như thể có ác quỷ vừa thì thầm điều gì đó vào tai và người nghe biết hắn đang đến tìm mình.

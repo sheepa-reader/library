@@ -1,37 +1,69 @@
-*Phần II: Rời Pondville • Ngày 2 (Thứ Tư)*
+*Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba*
 
-# Chương 20
+# Chương 16
 
-Sau bữa sáng, khi họ ra quầy lễ tân khách sạn Woodward để trả phòng, họ phát hiện cả hai phòng đều đã được thanh toán miễn phí. “Đã có người lo xong rồi,” người phụ nữ ở quầy lễ tân nói. “Quà của bà Edna đấy.”
+Sau khi đi vệ sinh xong, Sophie nói rằng cô muốn vào Bảo tàng Lịch sử Tượng sáp Niagara. Nơi này quảng cáo là có “Mọi nhân vật công chúng từng đến thăm Niagara!”. Có một bức tượng sáp méo mó của Marilyn Monroe đứng ở cửa sổ, mặc chiếc váy trắng kinh điển của cô. Cô từng quay một bộ phim ở Niagara. Cuối phim, cô bị chính chồng mình bóp cổ sát hại.
 
-“Đúng là một người phụ nữ tuyệt vời,” PJ vừa nói vừa bế Pancakes trên tay. Mấy người ở sảnh cứ liên tục chạy lại để vuốt ve chú mèo. Cả PJ lẫn chú mèo đều thích sự chú ý đó. Sáng hôm đó, PJ cảm thấy vô cùng tự hào về bản thân vì đã ra quầy bar mà không đụng đến một giọt rượu nào. Việc Edna là người duy nhất có mặt ở quầy bar tối hôm đó đã giúp ích phần nào, và bà ấy lại không uống rượu. Quả là may mắn.
+“Được chứ, vào thôi nào.” PJ bế chú mèo lên, ôm trọn chú trong tay rồi bước vào bảo tàng.
 
-“Cháu có thể mua vài món ở cửa hàng lưu niệm không?” Luna hỏi.
+“Không được mang mèo vào,” người phụ nữ ở cửa nói. Bà đeo một chiếc khăn lụa đỏ và đôi khuyên tai bạc. Bà chỉ tay vào một tấm biển: Không mang theo thú cưng, phải đi giày dép, vé vào cửa 8 đô la, không chạm vào các bức tượng sáp. Chào mừng động vật hỗ trợ.
 
-“Em cũng vậy,” Ollie nói. “Em muốn mua một quả cầu tuyết. Và một chiếc áo phông. Cả kẹo nữa. Em cần rất nhiều kẹo.”
+“Chú mèo này là động vật hỗ trợ,” PJ nói, ứng biến nhanh chóng.
 
-“Hay là chú cho các cháu ít tiền tiêu vặt để dùng trên đường nhé,” PJ vừa nói vừa đặt chú mèo xuống và rút ví ra. “Rồi các cháu tự quyết định cách tiêu số tiền đó nhé.” Nhưng khi mở chiếc ví da của mình ra, PJ nhận thấy mình còn rất ít tiền mặt. Ông đã tiêu sạch số tiền có trong ví vào tối hôm trước cho mấy lon Diet Coke. Edna từng bảo chẳng có lý do gì để ông phải trả tiền đồ uống cho bà ấy ngay tại khách sạn của bà, nhưng ông vẫn khăng khăng đòi trả. Ông là một quý ông lịch thiệp mà. Đó là vào khoảng thời gian khi bà nhắc đến Phòng Tổng thống.
+“Hỗ trợ việc gì?” người phụ nữ hỏi, bởi bà đã quá quen với những lời nhảm nhí từ khách du lịch. “Nó hỗ trợ ông trong tình trạng bệnh lý nào?”
 
-“Ở đây có cây rút tiền tự động nào không vậy?” PJ hỏi nhân viên tiếp tân, người này chỉ tay về phía chiếc máy ATM màu đen nhỏ đặt ở sảnh. PJ bước đến chiếc hộp nhựa màu đen mảnh dẻ. Ông gõ số tiền 2.000 đô la vì nghĩ mình sẽ chẳng cần dùng đến nhiều tiền mặt hơn thế. Chiếc máy nhả ra những tờ tiền mệnh giá một trăm đô la và tự động in một tờ hóa đơn. Ở cây ATM tại Pondville, bạn có thể chọn không lấy hóa đơn trước khi máy nhả tiền. PJ liếc nhìn mẩu giấy rồi nhét nó vào ví cùng mấy tờ tiền, sau đó quay lại chỗ Sophie và bọn trẻ với cảm giác buồn nôn cồn cào.
+PJ khựng lại. Ông nghĩ hỏi thế là phạm luật. Bạn của ông là Hank vẫn mang con chó pitbull vào quán rượu suốt, và nếu có ai hỏi thì Meatball chính là chó hỗ trợ. Chẳng ai buồn hỏi Meatball hỗ trợ việc gì cả. “Chú mèo này theo dõi tim tôi,” PJ quyết định. “Nó sẽ phát điên nếu tim tôi lệch nhịp.” Thú thực là tim PJ lúc nào cũng lệch nhịp. Ông bị chứng loạn nhịp tim. Ngay lúc này, chú mèo đang lắng nghe nhịp đập lộn xộn đó của ông. “Tôi có tiền sử bị nhồi máu cơ tim lâu năm.”
 
-Ông ước gì mình đã không nhìn vào cái tờ hóa đơn chết tiệt đó, ước gì mình cứ thế vò nát nó đi mà chẳng cần liếc mắt, nhưng ông đã kịp thấy con số: 21.000 đô la trong tài khoản séc của mình, tính cả tiền lẻ.
+“Đúng thế đấy,” Sophie nói. “Bố đã bị nhồi máu cơ tim ba lần rồi.”
 
-Con số đó chẳng thấm vào đâu so với một triệu rưỡi đô la, số tiền ông bắt đầu có từ tám năm trước, trước khi trừ thuế. Lẽ ra anh phải đầu tư chứ, tai ông như văng vẳng câu nói của Hank ở quầy bar. Lẽ ra tôi đã có thể nhân đôi số tiền của anh rồi, Hank vẫn thường nói thế, cứ làm như Hank biết khỉ khô gì về đầu tư vậy. Hank sống trong một căn hộ chung cư một phòng ngủ ngay sát đường cao tốc. PJ nghĩ mình đã tiêu tiền đúng mục đích; chỉ là ông không ngờ có ngày mình lại vướng vào hai đứa trẻ cần được chăm sóc. Suốt nhiều năm trời, ông cứ đinh ninh rằng mình sắp chết đến nơi rồi, thế nên ông đã đem tiền cống hiến cho cộng đồng thay vì tích trữ cho riêng mình. Ông có một số thứ để tự hào. Sân chơi ở trường mẫu giáo chẳng hạn.
+“Chú PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”
 
-Ông mở ví ra và đưa cho Ollie cùng Luna mỗi đứa một tờ một trăm đô la phẳng phiu. Cả hai đứa liền cắm cổ chạy vào cửa hàng lưu niệm.
+“Cháu hy vọng chú ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”
 
-“Một trăm đô la á?” Sophie hỏi. “Bố ơi, lạy Chúa, tụi nhỏ định làm gì với một trăm đô la cơ chứ?”
+Người phụ nữ thở dài. Đã muộn màng gì đâu mà phải nghe mấy chuyện này. “Chào mừng đến với Bảo tàng Lịch sử Tượng sáp Niagara.” Bà nhận tiền rồi đóng dấu lên tay từng người bằng một con dấu cao su in khuôn mặt nổi tiếng của Marilyn Monroe.
 
-“Chắc không phải mua ma túy đâu, bố hy vọng thế. Con có muốn chút tiền không?” Ông giơ chiếc ví lên.
+“Cảm ơn bà,” PJ nói.
 
-“Không.”
+Bảo tàng chủ yếu là một hành lang dài, với vài căn phòng nhỏ nằm ở bên cạnh. Các bức tượng sáp trông thật tồi tệ, có lẽ đã bị tan chảy theo thời gian hoặc vốn dĩ chưa bao giờ đẹp đẽ cho cam, lại được chiếu đèn hắt lên từ dưới sàn nên trông vô cùng rợn tóc gáy. Có một bức tượng Công nương Diana với chiếc mũi củ hành cùng mái tóc giả thảm họa. Ngay gần đó, Mark Twain cùng bộ ria mép bạc trắng đang ngồi trên một chiếc ghế dài.
 
-“Sao con chẳng bao giờ chịu nhận tiền từ bố thế nhỉ? Bố rất muốn được chăm sóc con mà.”
+Ollie đấm mạnh tay vào một chiếc thùng kim loại được trưng bày. Trông nó giống như một thùng phuy đựng dầu. Ngay cạnh chiếc thùng là bức tượng của một người tên là Bobby Leach [7] . Tấm biển giải thích rằng Bobby Leach là người thứ hai vượt thác bằng thùng phuy mà vẫn sống sót. “Nhưng có bao nhiêu người vượt thác bằng thùng phuy rồi chết vậy ạ?” Ollie hỏi.
 
-Sophie trừng mắt nhìn ông. Cô muốn nói với ông rằng có những cách chăm sóc người khác tốt hơn là ném tiền vào mặt họ, nhưng cô chẳng thấy việc đó có ích gì cả. Sophie sẽ chẳng bao giờ sống sót nổi qua chuyến đi này mất. Tại sao cô lại nhận lời đi cùng cơ chứ? Cô nghĩ đến bộ phim Thelma & Louise và chợt hiểu vì sao cuối phim họ lại tự lái xe lao xuống vách đá.
+“Câu hỏi hay đấy,” PJ tán thành. Chẳng có tấm biển nào giải thích về chuyện đó cả.
 
-PJ hy vọng Sophie không nhận ra ông đang có điều bất ổn, hy vọng cô không cách nào đánh hơi thấy ông vừa phát hiện ra số tiền ít ỏi còn lại của mình qua cây ATM. Nhưng trông Sophie chẳng có vẻ gì là biết chuyện. Cô trông vẫn cáu bẳn như mọi khi, nhưng không hề có vẻ nghi ngờ. Ông nghĩ mình đang giấu giếm rất giỏi. Và đến khi bọn trẻ chọn xong quà lưu niệm, là hai quả cầu tuyết đôi cùng một cái đồ khui nắp chai mà Luna nhanh tay vơ lấy nhét vào túi áo khoác, PJ đã vạch ra được hướng giải quyết: Ngay khi họ ổn định chỗ ở tại Arizona, ông có thể đi kiếm một công việc. Đơn giản thế thôi. Phải, cứ đến được Arizona cái đã, rồi PJ sẽ tính tiếp.
+Thay vào đó, lại có một vật trưng bày là vỏ cam đặt trên chiếc gối nhung nhỏ, trông giống như chiếc giày thủy tinh của Lọ Lem. “Nào, nhìn xem này,” PJ nói. “Vận may của Bobby đã cạn kiệt.” Vài năm sau, theo tấm bảng đồng nhỏ ghi lại, diễn viên đóng thế nổi tiếng Bobby Leach đã trượt chân ngã vào một vỏ cam và bị thương nặng ở chân. Chân của ông ta đã phải cưa đứt, và Bobby qua đời vì các biến chứng chỉ hai tháng sau đó.
 
-PJ lại ra quầy lễ tân một lần nữa và hỏi nhân viên tiếp tân xem Edna có ở quanh đây không; ông muốn nói lời cảm ơn và tạm biệt bà, đồng thời cũng muốn hỏi xem chiếc máy rút tiền tự động ở sảnh có cung cấp thông tin chính xác không. Nhân viên tiếp tân bảo hiện tại Edna đang bận họp mất rồi.
+“Kiểu chết vì vỏ cam đó chẳng có chút gì mùi-mẫn cả,” PJ nói, và Ollie bật cười phá lên. PJ rất vui vì đã làm cậu bé bật cười. Ông đảo mắt tìm cô bé xem có thích câu đùa đó không, nhưng Luna đã đi đâu đó một mình và bỏ lỡ mất rồi.
 
-Thực ra, nhân viên tiếp tân chẳng có manh mối nào về việc Edna đang ở đâu. Toàn bộ nhân viên khách sạn Woodward lúc đó cũng đang ráo riết đi tìm Edna. Họ cần bà để xử lý khủng hoảng. Đêm qua, có một người đàn ông đã bị kẹt trong phòng xông hơi, ngay sau khi ông ta trả lại con mèo đi lạc cho đứa trẻ kỳ lạ kia. Cái chốt cửa phòng xông hơi vốn rất khó mở, và đội dọn dẹp đã phát hiện ra người đàn ông đó vào sáng nay. Cơ thể ông ta vẫn còn ấm nhưng đã chết từ lâu, làn da khô giòn lại như một củ khoai tây nướng. Ông ta đi du lịch một mình; chắc chắn họ sẽ phải gọi thông báo cho gia đình ông ta. Nhân viên khách sạn rất cần sự trợ giúp của Edna trong chuyện này, tình hình đang cực kỳ khẩn cấp, nhưng lúc này Edna lại đang ở trên Phòng Tổng thống để tranh thủ chợp mắt.
+Trong một căn phòng nhỏ nằm tách biệt với hành lang chính, Luna đang đứng cạnh bức tượng Abraham Lincoln cao sáu foot bốn inch với bàn tay giơ ra chào đón.
+
+“Cháu chào bác,” Luna cất lời, tự nhắc bản thân đứng thẳng người trong lúc nhẩm lại những gì mình định nói. “Tên cháu là Luna Meeklin, mười tuổi rưỡi, và dựa trên những gì cháu đọc được trong nhật ký của mẹ cháu về các sự kiện trong bữa tiệc đêm giao thừa, cháu tin rằng bác chính là bố ruột của cháu.”
+
+Luna đổi sang giọng trầm hơn: “Bác nhớ rất rõ đêm hôm đó, cô bé ạ. Cháu có muốn đến ở trong nhà bác không?” Abraham Lincoln cất lời, trong vai trò của Mark Stackpole.
+
+“Em trai cháu có được đi cùng không ạ?” Luna hỏi.
+
+Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với chú PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”
+
+“Vâng,” Luna ngẫm nghĩ. “Em ấy ăn nhiều lắm, lại chẳng phải lúc nào cũng nghe lời chị. Nhưng chị đã hứa là sẽ không bỏ rơi Ollie cơ mà.”
+
+Mark Stackpole trong hình hài Abraham Lincoln trầm ngâm suy nghĩ. “Thưa Luna, cháu biết là bác có thể làm mọi thứ vì cháu mà. Được chứ, cháu có thể đưa cậu bé theo. Nó có thể ngủ trong tủ quần áo của cháu, nhưng cháu phải ngoéo tay hứa rằng cậu bé sẽ không gây ra nhiều phiền phức đấy nhé.”
+
+Luna liền ngoéo tay với bức tượng Mark Stackpole để thực hiện lời hứa, và khi ngón tay cô bé chạm vào, cô bé cảm nhận được bàn tay của người bố ruột, một người chưa bao giờ làm tổn thương hay khiến cô bé sợ hãi, một người sẽ che chở và bảo ban Luna rằng cô bé rất thông minh lại còn xinh xắn nữa, một người sẽ gọi cô bé là “đứa con tuyệt mỹ của bố”, và cái chạm từ người bố thực sự ấy, khi ngón út chạm vào ngón út, khi lớp sáp lạnh chạm vào da thịt ấm áp, đã rung động lan truyền tận sâu trong xương tủy và huyết mạch, chữa lành cho cô bé đôi chút, để Luna cảm nhận được tình yêu thương mà cô bé vẫn luôn khao khát từ bố mình.
+
+Nhưng có lẽ rung động của tình yêu là quá sức chịu đựng đối với ngài Lincoln, bởi vì khi Luna vừa rụt ngón út lại, cánh tay và cẳng tay của Lincoln đã gãy lìa ngay khuỷu tay, rồi rơi bịch một tiếng nặng nề xuống sàn nhà. “Ôi không, ôi không,” Luna nói. “Ôi chết tiệt,” cô bé lẩm bẩm thêm, vì lúc này còn ai ở quanh đây để mắng mỏ cô bé nữa chứ? Bố mẹ cô bé đã chết. Đây chỉ là một bức tượng sáp ngốc nghếch. Ngay từ cửa vào đã có một tấm biển lớn ghi rõ là không được chạm vào tượng rồi.
+
+“Nhét cánh tay vào túi xách đi,” Abraham Lincoln thì thầm. “Không ai thấy đâu.”
+
+“Cảm ơn ngài Lincoln,” Luna nói. Cô bé chộp lấy cánh tay, rồi ngập ngừng cúi đầu chào ông trước khi rời khỏi phòng. Luna chẳng biết phải thể hiện sự tôn kính thế nào với một cựu tổng thống, người đồng thời cũng là một hình mẫu người cha đối với mình. Ông mỉm cười hiền từ với cô bé khi Luna bước đi. Trở ra căn phòng trưng bày các bức tượng chính, Luna thấy mọi người đang đứng tụ tập xung quanh bức tượng của Julia Roberts.
+
+“Cháu đây rồi,” PJ mỉm cười nói.
+
+“Cháu sẵn sàng đi rồi ạ,” Luna nói.
+
+“Được chứ, cháu yêu. Chú cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”
+
+Và tất cả bắt đầu đi ra cửa trước. Luna đang vã mồ hôi lạnh. Cô bé ôm chặt chiếc túi xách vào ngực lúc bước ra ngoài, nhưng không có tiếng còi báo động nào vang lên, cũng chẳng có ai đuổi theo Luna. Ollie đã đánh lạc hướng rất tốt khi hỏi người phụ nữ ở quầy lễ tân bảo tàng xem khách sạn nào sang trọng nhất ở Niagara. Người phụ nữ giới thiệu Khách sạn Roger Woodward [8] , một khách sạn được đặt theo tên cậu bé từng rơi qua thác nước mà không cần đến thùng phuy bảo vệ. Cậu bé rơi khỏi thuyền và lao xuống thác, nhưng hầu như vẫn bình an vô sự khi được vớt lên, không ai có thể tin nổi điều đó, nhưng đôi khi con người ta vẫn sống sót qua những tai họa không tưởng mà chẳng cần cố gắng làm trò mạo hiểm nào.
+
+Khi họ đã quay lại bãi đậu xe và ngồi vào trong xe, Luna mới thở phào nhẹ nhõm. Cô bé đang giấu cánh tay của Lincoln trong túi xách. Vụ trộm thành công thứ hai của Luna. Cô bé là một kẻ ngoài vòng pháp luật. Cô bé là một đứa trẻ mồ côi, chẳng ai thèm bận tâm cô bé làm gì.
+
+Khi họ lái xe rời khỏi ngọn thác, chú mèo Pancakes chồm người đứng bằng hai chân sau để nhìn qua cửa sổ phía sau. Khi chiếc xe Volvo rẽ qua góc đường, họ lại nhìn thấy dòng thác từ đằng xa. Pancakes là sinh vật duy nhất trong xe ngoảnh đầu nhìn lại, là kẻ duy nhất nhận ra cái đốm vàng rực rơi khỏi mép vực rồi lao thẳng xuống dòng thác cuồn cuộn bọt trắng bên dưới. Chiếc áo gió màu neon đứng cạnh tấm biển Đừng nhảy! . Vẫn luôn có những kẻ phớt lờ biển báo, dù cho nó có rõ ràng và trực diện đến thế nào đi chăng nữa.

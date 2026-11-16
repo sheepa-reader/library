@@ -1,257 +1,171 @@
 *Phần I: Tri Thức Cổ Xưa*
 
-# Chương 8
+# Chương 6
 
-Hai tuần sau, vào một buổi chiều thứ Hai đầu tháng Sáu, lũ trẻ nhà Meeklin đang ngồi ở lối ra vào của mái ấm nhận nuôi, chờ xe đến đón. Những đứa trẻ còn lại ở bên trong, đang xem đứa lớn nhất chơi trò chơi điện tử một người chơi. Những người lớn bảo rằng thủ tục giấy tờ cuối cùng cũng xong xuôi. Tất cả những gì họ cần làm bây giờ là đảm bảo ngôi nhà của ông bác ruột thích hợp cho trẻ em, và cuộc kiểm tra nhà là bước cuối cùng cần hoàn tất. Lũ trẻ đang chờ ai đó đón chúng đến ngôi nhà của người bác này, và chúng ngồi cạnh những chiếc túi rác đựng đầy đồ đạc của mình. Chúng không có vali tử tế, bởi vì những kẻ xa lạ đã gói ghém đồ đạc hộ chúng, những người lớn đã xông vào nhà và nhồi nhét quần áo vào túi rác. Ollie không có lấy một chiếc quần lót nào, và cậu bé đã thả rông như thế suốt một tháng nay. Lũ trẻ không được phép quay lại ngôi nhà của chính mình để lấy đồ, sau khi Luna bước xuống xe buýt trường học và phát hiện mẹ chúng đang cầm một chiếc điện thoại ở một tay và một khẩu súng ở tay kia. Luna vẫn mặc chiếc áo khoác giả lông thú họa tiết da báo mà cô bé đã mặc kể từ ngày hôm đó, dù thời tiết đang dần trở nên quá oi bức cho chiếc áo đó, cùng với một chiếc váy màu tím và đôi giày Converse màu hồng yêu thích. Ollie mặc luân phiên ba chiếc áo phông, một chiếc trông giống chai tương cà, một chiếc trông giống chai mù tạt, và một chiếc áo phông WrestleMania màu đen in hình hai người đàn ông đang nổi giận. Bố chúng đã mua chiếc áo phông đấu vật đó cho cậu bé, dù Ollie chẳng thích WrestleMania chút nào. Bố chúng luôn muốn Ollie thích những thứ giống mình, nhưng ông chẳng quan tâm Luna nghĩ gì về bất cứ điều gì. Luna vẫn muốn làm xét nghiệm ADN để chứng minh ông không phải là bố cô bé.
+Đó là mười một giờ sáng vào ngày thứ mười ba không có Fred và Ivy, và PJ vẫn chưa ăn sáng. Ông cũng chẳng ăn tối vào tối hôm qua. Ông đã cạn sạch đồ ăn. Ivy vẫn luôn là người đi chợ giúp ông. Mọi chuyện dễ dàng hơn với bà; bà có xe ô tô, và bà thường để những túi đồ trên hiên trước nhà để ông tự bê vào. Ivy từ chối bước vào ngôi nhà đó thêm lần nào nữa, ngôi nhà vẫn còn giữ nguyên căn phòng ngăn nắp và sạch sẽ của Kate, những tấm áp phích thần tượng tuổi teen trên tường, trong khi phần còn lại của ngôi nhà đã tàn tạ, giấy dán tường bong tróc. Quá đau đớn cho Ivy khi bước vào ngôi nhà ấy, thế nên bà chỉ để đồ ăn trên hiên nhà.
 
-Ollie liên tục bảo chị gái từ bỏ ý định đó. “Họ sẽ tách chúng ta ra,” cậu bé khăng khăng. “Nếu họ nghĩ chúng ta không có họ hàng, họ sẽ tách chúng ta ra. Họ sẽ gửi chị đến một mái ấm dành cho những đứa trẻ hư đốn thực sự, còn em sẽ được đến một mái ấm đầy yêu thương.”
+Trước khi Fred và Ivy đi Alaska, họ đã bàn về vấn đề này, về PJ và chuyện chợ búa của ông. Họ có thể bảo Sophie đi mua hộ, nhưng Ivy không muốn làm phiền cô con gái quá nhiều, người lẽ ra phải đang sống cuộc đời của riêng mình dưới New Bedford. Cuối cùng, với chút do dự, Fred đã đưa cho PJ chìa khóa chiếc Volvo của ông, chiếc xe ga dòng station wagon hình hộp cũ kỹ vẫn còn nguyên vẹn hoàn hảo, không một vết xước trên lớp sơn đỏ, với chiếc biển số cá nhân hóa là BIRD BRN , vốn được cho là viết tắt của từ “Bird Brain” nhưng PJ luôn bảo Fred rằng trông nó giống “Bird Barn” hơn, và điều đó chẳng có ý nghĩa gì cho lắm. Fred đã bảo PJ rằng ông có thể dùng Chiếc Volvo Chuồng Chim để đi siêu thị và làm những việc vặt cần thiết ngay khi lấy lại bằng lái vào tháng Sáu, và thậm chí có thể sớm hơn thế, miễn là PJ thực sự, thực sự cẩn thận, tuân thủ giới hạn tốc độ và chỉ lái xe khi hoàn toàn tỉnh táo, điều đó là hiển nhiên nhưng Fred vẫn cứ phải dặn lại.
 
-“Chúng ta có họ hàng mà. Chị chỉ nghĩ là chúng ta khác bố thôi, và bố chị vẫn còn sống, và ông ấy ở trên vô tuyến. Hơn nữa, tại sao chị lại không được đến một mái ấm đầy yêu thương cơ chứ?”
+Thế nên, vào buổi sáng hôm đó, ngày thứ mười ba không có Ivy, PJ biết mình có thể tự lái chiếc Volvo ra siêu thị, nhưng ông cũng khá chắc chắn rằng vẫn còn rất nhiều đồ ăn ngon trong nhà của vợ cũ, và chẳng có ai ăn cả. Phần lớn chắc chắn sẽ hết hạn. Ông đóng nắp chiếc xe Jaguar lại. Ông chắc chắn sẽ cần đặt mua một linh kiện thay thế. Đã lâu lắm rồi ông không đụng đến việc sửa xe. Ông đã học sửa xe trong lớp kỹ thuật ở trường trung học, đúng vào khoảng thời gian ông gặp Michelle Cobb tại một buổi giao lưu vào mùa xuân năm 1969. Một đời người trước.
 
-“Vì chị toàn gây sự đánh nhau.”
+Ông bắt đầu đi bộ sang nhà Fred và Ivy. Cảm giác đi bộ theo lối đó thật dễ chịu.
 
-“Chị chưa bao giờ khơi mào đánh nhau cả,” cô bé định nói tiếp, nhưng Belinda Bell đã lái chiếc xe tải chở khách màu trắng đỗ lại, thế là Luna ngậm chặt miệng lại. Khi có người lớn xung quanh, Luna đã ngừng nói chuyện. Các nhân viên công tác xã hội bảo rằng việc không nói chuyện là một phản ứng sau sang chấn, nhưng thực ra, Luna đã chán ngấy việc trò chuyện với những kẻ chẳng thèm lắng nghe mình. Cô bé đã đòi làm xét nghiệm ADN hết lần này đến lần khác trong tuần đầu tiên ở mái ấm, thế mà mọi người vẫn cứ mãi bàn tán về người ông bác mà chúng chưa từng nghe tên bao giờ, dù ông sống cách chúng chưa đầy một dặm. Ông sống trên con đường dẫn đến Bãi tắm Clear Pond.
+Khi PJ đi, ông nhận thấy chiếc áo phông của mình dính đầy dầu máy, nhưng Fred có cả một tủ quần áo, tất cả đều sạch sẽ. Fred sẽ không bận tâm đâu. Fred là một người rộng rãi. Đó là một trong những điều PJ thích ở người bạn thân nhất của mình. Ví dụ như việc đưa cho ông chìa khóa chiếc Volvo, dù PJ vẫn chưa lấy lại được bằng lái. Fred là thẩm phán và từng xét xử những vụ án khủng khiếp liên quan đến việc lái xe khi say rượu, và việc Fred nghĩ ông xứng đáng có cơ hội thứ hai có ý nghĩa rất lớn. PJ biết mình thật may mắn khi chưa từng làm tổn thương ai ngoài chính bản thân mình, nhưng điều đó vẫn găm chặt trong tâm trí ông, rằng ông hoàn toàn có thể làm thế. Ông đã có thể giết chết một tài xế khác, hoặc một người qua đường. Một đứa trẻ. Một lần phạm lỗi lái xe khi say rượu là một sai lầm; ba lần phạm lỗi biến ông thành kẻ bỏ đi của nhân loại. Đó là cách Ivy từng nói. Sau này bà nói rằng bà hối hận vì đã thốt ra câu đó, nhưng bà đã nói rồi. Và một phần trong bà chắc chắn đã cảm thấy như vậy, dù bà vẫn chào đón ông đến ăn sáng mỗi ngày và giữ ông trong cuộc đời mình. PJ rưng rưng nước mắt khi đi dọc con đường, nghĩ về người vợ thân yêu Ivy và tất cả những cách ông từng khiến bà thất vọng.
 
-“Em cá là ông ấy rất yêu trẻ con,” Ollie nói.
+Ông đang lau nước mắt thì bắt gặp Stan Weiderman đang đứng trước nhà, cúi lom khom bên hiên. Stan thấy PJ đi tới nên đứng thẳng dậy. Stan đang cầm một bình xịt loại gì đó, đeo găng tay làm vườn và kính bảo hộ làm mộc. Stan là kẻ lắm mồm. Mẹ kiếp, PJ nghĩ thầm. Ông đang cô đơn, nhưng chưa đến mức phải nói chuyện với Stan Weiderman.
 
-“Tốt nhất là ông ấy phải giàu,” Luna thì thầm với Ollie.
+“Nuôi mèo mới à?” Stan hỏi.
 
-Ollie cảm thấy hơi nhẹ nhõm khi chị gái mình ngừng nói chuyện lúc có người lớn xung quanh, vì cậu bé thực sự chắc chắn rằng họ sẽ tách hai chị em ra nếu phát hiện ra cô bé có thể tồi tệ đến mức nào. Cậu bé không muốn bị chia cắt với chị gái mình. Mọi chuyện đã đủ khó khăn khi bố mẹ chúng đã qua đời, và họ đã rất cay nghiệt trong phần lớn thời gian, đặc biệt là bố, còn mẹ thì ngày càng trở nên kỳ lạ, bắt đầu lẩm bẩm nói chuyện một mình suốt. Thậm chí có những khoảnh khắc Ollie cảm thấy mừng vì cả bố lẫn mẹ đều đã qua đời, và rồi cậu bé lại cảm thấy tội lỗi vì đã suy nghĩ như vậy, rồi cứ ước gì bố mẹ quay trở lại.
+“Hả?”
 
-“Ông bác của tụi cháu bao nhiêu tuổi ạ?” Ollie hỏi Belinda Bell khi cô đang mở cửa xe tải.
+“Con mèo kìa?”
 
-“Không quá già đâu,” Belinda Bell đáp. “Ông ấy có vẻ là một người trẻ trung trong tâm hồn khi cô trò chuyện qua điện thoại.”
+“Cái gì cơ?” PJ hỏi. Ông không ngờ Stan Weiderman lại lú lẫn trước cả mình. Stan Weiderman trẻ hơn rất nhiều, lại còn vô cùng nhanh nhẹn.
 
-“Liệu ông ấy có chết sớm không ạ?” Ollie hỏi, trèo lên xe tải và kéo theo chiếc túi rác phía sau. Luna cũng trèo lên theo.
+“Có con mèo đang bám theo anh kìa,” Stan nói, vừa dùng chiếc găng tay làm vườn thêu hoa chỉ ra phía sau.
 
-“Cô hy vọng là không,” Belinda nói. Đó là một điều nữa mà cô không thể hứa với lũ trẻ, rằng chúng sẽ hạnh phúc hoặc sẽ không có ai khác qua đời nữa. Cô từng tìm được những mái ấm tốt cho trẻ em trước đây và người giám hộ lại lăn đùng ra chết ngay sau đó. Chuyện đó vẫn thỉnh thoảng xảy ra.
+PJ quay người lại. Quả thực có chú mèo đang lẽo đẽo theo sau ông. Một chú mèo mướp màu cam nhạt. Chú mèo dừng lại, ngồi xuống rồi liếm láp chân. Chú mèo có vẻ biết họ đang bàn về mình, dù PJ tự hỏi chú mèo có thể nghe rõ đến mức nào. Chú bị mất một phần tai. “Chào nhóc,” PJ nói.
 
-“Nhưng nếu ông ấy không chết, chúng cháu sẽ đến sống cùng ông ấy chứ ạ?” Ollie hỏi.
+“Nếu nó không phải mèo của anh, chắc tôi phải gọi dịch vụ kiểm soát động vật thôi,” Stan nói. “Trông nó như mèo hoang ấy.”
 
-“Đúng vậy, và các cháu vẫn có thể đi học cùng một trường và có tất cả những người bạn cũ. Các cháu thật may mắn khi có một người ông bác ở cùng thị trấn.”
+“Ồ, đúng rồi, xin lỗi,” PJ nói. “Ừ, đó là mèo của tôi.”
 
-Luna mở miệng và thò ngón tay vào, làm động tác giả vờ như cô bé sắp nôn.
+“Sao nãy anh không nói luôn?”
 
-“Có chuyện gì thế, Luna?” Belinda hỏi.
+“Tôi không nhận ra nó.”
 
-Luna lắc đầu để thể hiện rằng cô bé sẽ không trả lời. Đừng hòng lừa được cô bé dễ dàng thế.
+“Anh không nhận ra mèo của mình á?”
 
-Ollie nhún vai. “Luna có lẽ sẽ thấy hạnh phúc hơn ở một ngôi trường dành cho trẻ em có năng khiếu.”
+“Nó mới cắt tóc kiểu mới. Trông cứ như thợ cắt tóc tiện tay cắt luôn một phần tai, nhưng rồi nó sẽ lành thôi. Bọn tôi đang định sang nhà Ivy ăn sáng đây.”
 
-“Thế thì cô bé sẽ phải bắt đầu nói chuyện đấy.”
+“Tôi cứ tưởng Ivy đi vắng rồi chứ. Fred bảo tôi là họ đi Alaska cơ mà,” Stan nói, đoạn tháo một chiếc găng tay làm vườn ra. Bàn tay Stan đang sưng phồng lên; ông ta vừa bị ong đốt lúc trước. Bình xịt ông ta đang cầm trên tay chính là bình xịt côn trùng.
 
-“Chị ấy có thể nói mà. Chỉ là chị ấy chọn không nói thôi.”
+“Ivy đúng là đi vắng, nhưng phải có người trông nom nhà cửa chứ,” PJ giải thích. “Nghe này, tôi phải đi đây, nhưng nhớ chườm đá vào vết ong đốt đó đi, Stan, rồi gọi thợ diệt côn trùng đi nhé. Đừng có dại dột tự đi dỡ tổ ong.”
 
-“Cô biết chứ,” Belinda nói rồi khởi động xe tải.
+“Chắc anh nói đúng,” Stan đồng tình, nhìn xuống kích cỡ bàn tay mình. “Cứ để mấy chuyên gia lo đi.”
 
-Một tiếng sau, xe đỗ trước ngôi nhà trên đường Clear Pond. Belinda đã ghé vào một trạm xăng dọc đường để mua nước đá bào vị trái cây loại lớn cho hai đứa trẻ. Cô luôn mua cho chúng một món quà vặt trước khi nói lời tạm biệt, bởi vì cô không tài nào đoán trước được chuyện gì sẽ xảy ra tiếp theo với chúng và cô muốn chúng có được một điều tốt đẹp cuối cùng. Luna chọn vị mâm xôi xanh còn Ollie chọn vị anh đào đỏ. Luna cũng tiện tay chôm luôn nửa bao thuốc lá từ trong túi xách của một người phụ nữ lúc họ đi dạo quanh cửa hàng trạm xăng. Cô bé chôm luôn cả bật lửa của người đó. Luna vốn không hút thuốc lá, nhưng cô bé nghĩ mình có thể sẽ bắt đầu tập hút. Giờ thì cô bé đã là người lớn rồi, nếu bố mẹ chúng đã chết. Hoặc ít nhất là mẹ cô bé. Bố ruột của cô bé vẫn còn sống. Có lẽ ông ta là một kẻ hút thuốc. Cô bé từng nghe nói tất cả các diễn viên đều hút thuốc. Số thuốc lá đó là hiệu Lucky Strikes. Vẫn còn mười hai điếu; Luna đã tranh thủ đếm trong lúc Belinda đang tập trung lái xe. Ollie nhìn thấy cô bé làm vậy, nhưng em trai cô bé chưa từng mách lẻo ai bao giờ, ngoại trừ gần đây là mách y tá trường học. Luna đang cố tính xem mình có phải trừng phạt cậu em vì chuyện đó không, nhưng cậu bé đã bị đầu độc rồi, mà thế thì quá tệ.
+PJ giơ ngón tay cái ra hiệu rồi tiếp tục bước đi. Khi ngoảnh đầu nhìn lại vài ngôi nhà sau đó, Stan đã bò xuống đất, nằm sóng xoài ở đó, có lẽ lại đang cố bò chui vào gầm hiên để tìm tổ ong bắp cày. Đúng là có những kẻ chẳng bao giờ chịu nghe lời. PJ cũng thấy chú mèo đã biến mất khỏi vỉa hè, và ông khẽ mỉm cười. Ngay cả chú mèo cũng thừa biết Stan Weiderman đúng là một thằng ngốc. PJ đã phát ngán một vài tên hàng xóm kiểu này. Phải nói thật là ông phát ngán tất cả bọn họ, kể cả những kẻ ông thương yêu. Không có Fred và Ivy, ông chẳng còn thiết tha gì Pondville nữa. Đó lại càng là lý do chính đáng để tu sửa lại chiếc xe mui trần và cao chạy xa bay, lên đường hướng thẳng tới Arizona.
 
-Ngôi nhà trên đường Clear Pond là một căn nhà gỗ kiểu Cape nhỏ nhắn với các tấm chớp cửa màu xanh lá và ván lợp bằng gỗ tự nhiên. PJ đang ngồi trên chiếc ghế bãi biển ngoài bãi cỏ trước nhà. Ông mỉm cười và vẫy tay. Ông đang mặc một chiếc áo phông sạch lấy từ tủ quần áo của Fred, cùng với kính râm, quần soóc túi hộp, tất và dép Birkenstock. Ông đã chải tóc gọn gàng. Bộ râu của ông cần được tỉa tót, nhưng ông sẽ không làm thế. Đây đâu phải đám cưới. Ông đang uống một chai Coca-Cola, vì ông rất thèm uống bia, nhưng ông biết làm vậy là không khôn ngoan chút nào. Ông muốn gây ấn tượng tốt với cô nhân viên công tác xã hội.
+Biết đâu đấy, có lẽ ông sẽ ở lại hẳn Arizona. Biết đâu ông và Michelle Cobb sẽ có cả một cuộc đời hoàn toàn mới tại Cộng đồng Hưu trí Tender Hearts. Chắc là ở đó có máy lạnh, có hồ bơi, có cả trò đẩy đĩa tròn nữa. Tất cả những thứ bạn cần để tận hưởng một cuộc sống thoải mái. PJ chẳng biết cách chơi đẩy đĩa tròn thế nào, nhưng ông nghĩ mình có thể học.
 
-“Thế ra chú ấy không giàu nhỉ,” Luna nói khi nhìn thấy ông, nhỏ giọng hết mức có thể để chỉ mình Ollie nghe thấy.
+PJ đi bộ về đến ngôi nhà nhỏ màu nâu bên hồ mà không đụng độ thêm tên hàng xóm nào nữa. Ông lấy chìa khóa giấu dưới chậu hoa rồi hì hục xoay xở với ổ khóa. Ông vốn không quen việc cửa nẻo bị khóa thế này, hơn nữa khung cửa lại bị kẹt cứng, nên ông phải chồm cả vai vào đẩy, và đến khi cuối cùng cũng mở được cửa ra, ông liền thấy một vật màu cam lao vút qua chân mình rồi chạy thẳng vào nhà.
 
-“Tôi là Belinda Bell, nhân viên công tác xã hội,” Belinda nói, đưa tay ra định bắt tay PJ.
+Chú mèo chết tiệt đó đã xông vào nhà! Chú mèo đã chạy tót lên lầu.
 
-“Hân hạnh được gặp cô,” PJ nói.
+PJ chẳng có tâm trạng đâu mà đi bắt mèo khi bụng đói meo. “Tao sẽ xử lý mày sau bữa sáng,” PJ gọi vọng lên cầu thang. Ông tiến đến tủ lạnh và mở cửa ra. Bên trong có đủ thứ; chắc chắn Ivy biết kiểu gì ông cũng sẽ lục lọi tủ lạnh của bà. Ivy biết tuốt mọi thứ. Ông lấy trứng ra và đập ba quả vào bát. PJ chẳng phải đầu bếp gì cừ khôi, nhưng món trứng bác thì ông làm được. Ông làm xong phần trứng, lấy bánh mì trong tủ đông ra rồi nhét vài lát vào máy nướng. Ông nhấc điện thoại bàn ra khỏi máy và gọi tổng đài tra cứu số điện thoại của trạm cứu hộ động vật. Alana, người quen sơ sơ với PJ, đã nhấc máy ở trạm cứu hộ; cô ấy cũng là bạn với con gái Sophie.
 
-“Và đây là hai đứa trẻ, Ollie và Luna Meeklin.”
+Alana bảo rằng dạo gần đây chẳng có ai gọi điện hỏi tìm mèo thất lạc cả, nhưng bên ngoài trạm cứu hộ có một chiếc bảng thông báo dán các tờ áp phích tìm mèo lạc; một vài tấm trong số đó đã treo ở đấy từ nhiều năm trước rồi. Alana động viên PJ cứ ghé qua xem thử mấy bức ảnh xem có con nào giống không.
 
-“Chào mấy đứa,” PJ nói, đặt tay lên bụng vì ông biết trẻ con tầm tuổi này không thích bắt tay. “Chú là chú của các cháu. Chú họ. Thậm chí là người chú tuyệt vời nhất trên đời.”
+“Tôi sẽ ghé,” PJ đáp, có chút thất vọng vì không được ca tụng ngay lập tức như một người hùng vì tội đi tìm mèo. “Tôi hy vọng sẽ có ai đó vui mừng vì tôi đã tìm thấy nó. Trông nó có vẻ là một chú mèo ngoan. Tôi vẫn luôn thích mèo cam.”
 
-“Cháu là Ollie,” Ollie nói.
+Alana khựng lại đôi chút. “Một chú mèo cam á?”
 
-“Cái tên nghe rắn rỏi đấy. Lấy theo tên Oliver Twist phỏng?”
+“Đúng vậy. Một chú mèo cam.”
 
-“Đó là ai ạ?”
+“Biết đâu lại là Pancakes. Nó có hưởng ứng khi gọi tên Pancakes không?”
 
-“Thằng bé đó là một...” PJ định nói, nhưng không sao thốt nên lời đứa trẻ mồ côi, “thằng bé là một nhân vật nổi tiếng trong văn học. Của nhà văn Dickens.”
+“Nó lẻn vào nhà và chạy vụt lên lầu. Tôi còn chưa kịp hỏi tên nó cơ.”
 
-“Ồ. Không ạ, cháu nghĩ mẹ cháu không đặt tên cháu theo ai đâu.”
+“Buổi sáng vui vẻ thật đấy, ông Halliday.” Alana đã quá quen với việc mọi người hay đánh giá thấp trí thông minh của loài vật. “Ông có thể cho tôi biết thêm điều gì về nó nữa không?”
 
-“Chúng ta sẽ xem phim đó. Roman Polanski đã làm một bản chuyển thể khá hay. Thế còn đây là ai?”
+“Ờ, để xem nào... nó bị mất một mẩu tai. Nhưng chắc chắn là mới bị gần đây thôi, trên mặt nó vẫn còn dính máu kìa.”
 
-Luna đang đứng đó với vẻ mặt cau có.
+“Ồ, tôi chắc chắn đó là Pancakes rồi,” cô nói, nghĩ bụng Pancakes chính là kiểu mèo hay gây sự đánh nhau. Nó từng gây ra không ít rắc rối ở trạm cứu hộ, bày cho mấy con vật khác thấy rằng việc trốn thoát là hoàn toàn có thể xảy ra, dù nó chỉ ở đó có vài tiếng đồng hồ. “Nó đã trốn khỏi trạm cứu hộ từ vài tuần trước,” Alana kể, trước khi giải thích cho PJ nghe rằng có một tên điên đã đem con mèo đến đây gửi gắm. Tên đó bảo rằng Pancakes là một con mèo ngoan, và hắn rất yêu quý nó, nhưng ngặt nỗi nó lại là một sát thủ. Alana bảo cô từng gợi ý nên đeo cho nó một chiếc vòng chuông, nhưng hắn khăng khăng rằng con mèo chính là Sứ giả của thần chết.
 
-“Đó là Luna,” Ollie nói. “Chị ấy cũng không được đặt tên theo ai cả. Chị ấy biết nói chuyện nhưng hiện tại đang chọn cách im lặng.”
+“Ra vậy,” PJ nói.
 
-“Chú hiểu rồi. Ồ thế thì cháu không cần phải nói chuyện đâu, cô bé Luna. Chú thấy thế cũng ổn thôi. Trẻ con thì chỉ nên để người ta nhìn thấy chứ không nên lên tiếng, đúng không nhỉ, cô... Bell thì phải?” PJ đang cố gắng thể hiện phong độ tốt nhất của mình.
+“Trông hắn ta cứ như vừa nhìn thấy ma vậy,” Alana kể tiếp. Cô bảo mình từng gọi cho người đàn ông đó sau khi Pancakes tẩu thoát để xem con mèo đã tìm được đường về nhà chưa, nhưng lại được thông báo rằng người đàn ông ấy đã đột tử ngay trên bàn làm việc của mình.
 
-“Đó là một câu nói mang tính lăng mạ đấy, ông Halliday,” Belinda nói. “Tôi chắc là ông không suy nghĩ theo chiều hướng đó chứ?”
+“Tôi chẳng bao giờ hiểu nổi sao lại có những kẻ làm thế,” PJ lên tiếng.
 
-“Ôi, không. Không, không, không. Tôi rất thích trẻ con nói chuyện. Chúng nói mấy câu nhảm nhí buồn cười lắm.”
+“Làm gì cơ ạ?”
 
-“Không được dùng từ tục tĩu,” cô nhắc nhở. “Và bộ phim mà ông vừa nhắc tới, nó dán nhãn PG-13 đấy.”
+“Làm việc đến mức vắt kiệt cả sức lực.”
 
-“Thôi được rồi, bỏ qua vụ đó luôn.”
+Alana đồng tình. Cô thích làm việc ở trạm cứu hộ động vật vì ở đó cô có thể thoải mái phê pha trong giờ làm việc mà chẳng có ai đến quấy rầy.
 
-“Cháu đã xem bảy bộ phim dán nhãn R rồi,” Ollie nói. “Trong bộ phim mà cháu xem cùng bố, có hai người tỉnh dậy và có một gã tên là Jigsaw...” Luna huých cùi chỏ vào người cậu bé. Cô bé lườm em trai mình một cái. “Được rồi, được rồi,” Ollie nói. “Luna muốn biết liệu chúng cháu có phòng riêng của mình không.”
+“Tôi có nên mang nó trả lại không?”
 
-“Ồ,” PJ nói. “Đáng tiếc là hai cháu sẽ phải ở chung phòng rồi. Chú được bảo là các cháu đã quen ngủ chung phòng và ngôi nhà này khá nhỏ. Chỉ có hai phòng ngủ thôi.” Căn nhà dưới cuối phố có tới ba phòng ngủ, ông thầm nghĩ, nhưng nó lại chứa đầy đồ đạc lỉnh kỉnh. “Này, sao cháu lại biết Luna muốn hỏi gì mà cô bé chẳng mở miệng nói câu nào thế? Hai đứa đọc được suy nghĩ của nhau à?”
+“Chà, ông Halliday, điều đó hoàn toàn tùy thuộc vào ông thôi.”
 
-“Chúng cháu là Sinh đôi Ireland [4] . Thật dễ để biết chị ấy đang nghĩ gì ạ.”
+“Nếu tôi mang về thì chuyện gì sẽ xảy ra với nó?”
 
-“Thế nào là Sinh đôi Ireland?”
+Qua điện thoại, Alana phát ra một âm thanh thường đi kèm với động tác lấy ngón tay quẹt qua cổ. PJ không chắc cô có làm điệu bộ đó thật không, nhưng ông hoàn toàn hiểu được ý cô. Tiêm thuốc trợ tử, điệp khúc quen thuộc vào cuối mỗi tháng. Đó là một phần quy trình công việc tại trạm cứu hộ động vật.
 
-“Tôi nghĩ đó không phải là một thuật ngữ chính trị đúng đắn đâu,” Belinda Bell lên tiếng.
+“Hiểu rồi,” PJ nói. “Thế nghĩa là chẳng có ai đang tìm nó cả phải không?”
 
-“Ý cháu là chúng cháu cách nhau mười một tháng tuổi,” Ollie nói. “Điều đó có nghĩa là chúng cháu học cùng một khối và thân thiết hơn anh em bình thường, nên tâm trí chúng cháu liên kết với nhau.”
+“Nếu ông muốn nuôi con mèo đó, ông Halliday,” Alana nói, “nó là của ông đấy.”
 
-“Chú từng nghe về chuyện đó rồi,” PJ vừa nói vừa gật đầu, cảm thấy vui mừng vì những gì ông từng nghe về bọn trẻ sinh đôi là sự thật, rằng chúng có chút gì đó siêu nhiên, cho dù những đứa trẻ này không hẳn là sinh đôi thực thụ. Chúng chỉ sát tuổi nhau thôi. Mấy đứa con của ông cách nhau tận bảy tuổi cơ mà.
+“Tôi sẽ suy nghĩ về điều đó,” ông nói, đoạn cảm ơn Alana và cúp máy. Dù cảm thấy thương cho sinh vật nhỏ bé đến đâu, PJ cũng không nghĩ rằng mình muốn hay cần một con mèo. Nhưng ông cũng chẳng việc gì phải đưa ra quyết định ngay lúc này; bữa sáng vẫn đang chờ sẵn. Ông ngồi xuống với món trứng, bánh mì nướng và một cốc nước ép. Ông chẳng thèm bận tâm đến tờ báo. Nếu bị cơn đau tim ghé thăm, ông sẽ cô độc một mình. Ông không muốn chết một mình trong ngôi nhà của vợ cũ. Ông không muốn Fred và Ivy quay về vào tháng Chín để rồi tìm thấy bộ xương khô của mình bên chiếc bàn bếp, với những khúc xương đã được Sứ giả của thần chết trên gác rỉa sạch bóng.
 
-“Sinh đôi sát tháng cũng có nghĩa là mẹ chúng cháu không bao giờ lấy lại được vóc dáng thời con gái,” Ollie nói, lặp lại điều mà cậu bé đã nghe người ta nói đi nói lại quá nhiều lần.
+Thế nên thay vì đọc báo, ông lôi ra một tấm bản đồ đường đi nước Mỹ từ trong túi quần túi hộp của mình và với lấy một cây bút từ ngăn kéo đựng đồ lặt vặt. Tuyến đường thẳng nhất đến Tucson sẽ là đi xuyên qua phần trung tâm đất nước, ông thầm tính. Nhưng có lẽ sẽ thú vị hơn nếu đi xuống miền nam nước Mỹ và ngắm nhìn Nashville, Atlanta. Hoặc ông có thể đi qua phía bắc rồi ghé thăm Chicago, Núi Rushmore, sau đó lái xe xuống Nevada, ngắm nhìn Las Vegas, Hẻm núi lớn Grand Canyon. PJ chưa từng đặt chân đến bất kỳ nơi nào trong số đó. Ông dùng bút phác thảo ra ba tuyến đường. Ông sẽ chọn một lộ trình và lên đường ngay khi lấy lại được bằng lái. Nếu không được mời sang Alaska, ông sẽ tự tạo cho mình một chuyến phiêu lưu. Ivy và Fred cứ việc xuống âm phủ mà chơi.
 
-“Ờ,” PJ nói, cảm thấy không thoải mái trước lời nhận xét kém duyên về người mẹ quá cố của chúng, khi mà bà vừa mới qua đời chưa lâu. “Thế mấy đứa có muốn đi tham quan ngôi nhà không? Chú có một điều bất ngờ ở sau vườn đấy.”
+Hài lòng với kế hoạch của mình, PJ quay lại với chiếc đĩa để ăn nốt phần trứng, nhưng chiếc đĩa đã trống không. Chú mèo đang ngồi thẳng lưng ngay tại bàn ở chỗ ngồi của Fred, một mẩu trứng nhỏ vẫn dính trên bộ râu mèo. Chú mèo đang đăm đăm nhìn chằm chằm vào tấm bản đồ.
 
-“Chắc chắn là chúng cháu muốn xem điều bất ngờ đó rồi,” Ollie nói. Cậu bé kéo lê chiếc túi rác đựng quần áo qua cửa ra vào. Luna cũng kéo lê chiếc túi của mình vào theo, và cả hai vứt phịch chúng cạnh giá treo áo khoác. Cả ba đang đứng ở sảnh trước với giấy dán tường kẻ sọc cùng chiếc đồng hồ quả lắc đứng, và Luna lại tự hỏi không biết rốt cuộc chú PJ có giàu thật hay không. Từ đó, chú PJ dẫn chúng vào nhà bếp với những bức tường màu vàng, khăn trải bàn hình hoa hướng dương và tủ đựng chén bát màu anh đào có tay nắm bằng đồng vàng.
+“Trứng ngon lắm phải không?” PJ hỏi.
 
-“Ngôi nhà đẹp thật đấy,” Belinda vừa nói vừa đi vòng quanh, ngắm nhìn những chiếc tủ mà tự tay Fred đã làm.
+Chú mèo ngước lên nhìn ông. Món trứng vừa rồi quả thực tuyệt hảo. Trước đây chú mèo chỉ toàn ăn trứng làm từ bột khô, vì đó là tất cả những gì họ phục vụ ở viện dưỡng lão Pondville. Món trứng bác thực thụ đúng là một nhóm thực phẩm hoàn toàn khác biệt. Chú mèo thấy thật may mắn vì đã đi theo khi người đàn ông có râu này nhắc đến bữa sáng, thay vì cứ ở lại với người đàn ông đang nằm trên mặt đất sắp chết vì sốc phản vệ.
 
-“Đúng thế,” PJ nói. Ông vẫn luôn ngưỡng mộ gu thẩm mỹ của Fred, và Ivy đã tô điểm thêm cho nó những nét nữ tính của bà.
+PJ đưa tay ra xem chú mèo có muốn được gãi cằm không, và chú mèo liền nhấc mũi lên hít hà bàn tay ấy. Chú mèo có vẻ ưng ý với mùi hương trên người PJ, và Pancakes dụi đầu vào lòng bàn tay PJ để làm nũng. Chà, đáng yêu phết nhỉ. PJ đứng dậy lấy một chiếc giẻ lau dưới bồn rửa chén rồi nhẹ nhàng rửa sạch vết máu khô trên mặt chú mèo. Chú mèo ngồi im thin thít để PJ lau dọn cho mình. “Mèo ngoan,” PJ nói. “Đẹp đẽ như mới luôn.”
 
-“Món quà bất ngờ là gì thế ạ?” Ollie hỏi.
+Chú mèo cất tiếng rừ rừ. PJ hiểu ý. Chú mèo đang cảm ơn vì đã được giúp đỡ. Chú mèo rừ rừ to hơn và bắt đầu chảy dãi. “Chắc tao sẽ cần một bạn đồng hành trên những chặng đường dài,” PJ vừa vuốt ve chú mèo vừa nói. “Tao sẽ thấy cô đơn trên đường, chẳng có ai để trò chuyện cùng. Nhưng mày sẽ phải học cách nói chuyện đấy nhé.”
 
-PJ đẩy cánh cửa kính trượt dẫn ra sân sau, và khi bọn trẻ nhìn thấy, cả hai liền reo hò và chạy ngay ra sân. Ổng giàu thật đấy! Luna nghĩ với vẻ thích thú. Có một cửa hàng Walmart nằm cạnh IKEA và PJ đã không thể kìm được việc quẹt thẻ để mua thêm chiếc lò nhún cỡ tám foot. Ông đã phải trả tiền vận chuyển vì gói hàng quá lớn không thể nhét vừa xe hơi.
+Tôi sẽ cố gắng, chú mèo hứa hẹn.
 
-“Lò nhún thường dẫn đến những chuyến đi cấp cứu viện,” Belinda Bell nói với PJ khi cô nhìn thấy món quà bất ngờ ở sân sau, nhưng cô phải thừa nhận rằng thật vui khi thấy bọn trẻ cười. Chúng thậm chí còn chẳng cười nổi khi cô mua cho chúng những cốc nước Big Gulp.
+Không biết loài mèo có hợp với ô tô không nhỉ? PJ tự hỏi. PJ chưa từng nuôi mèo bao giờ. Một trong hai cô con gái của ông bị dị ứng. Ông quên mất là đứa nào rồi và tự nhủ phải nhớ hỏi lại chúng cho ra lẽ.
 
-PJ cũng để lại một gói kẹo ở giữa lò nhún, và lũ trẻ đã lao vào xé gói kẹo dẻo hình ếch và giun.
+Thỉnh thoảng, ông vẫn nghĩ về cả hai cô con gái theo cách ấy, cả hai đều đang hiện hữu ở thì hiện tại.
 
-“Cảm ơn chú PJ,” Ollie nói với một con sâu kẹo ngậm một nửa trong miệng, và thậm chí Luna còn giơ ngón tay cái về phía ông. PJ mỉm cười trước cái tên mới. Chú PJ. Ông thích cái tên đó.
+Đó sẽ là mười lăm năm vào ngày 15 tháng Sáu, chỉ còn vài tuần nữa thôi, kể từ ngày người ta tìm thấy Kate Halliday nằm úp mặt trong một trong những đầm lầy nam việt quất gần khu bảo tồn Eagle Neck, sau khi cô bé mất tích nhiều ngày liền sau buổi dạ tiệc cuối cấp. Cô bé đã chết đuối trong vũng nước nông chưa đầy hai inch, được tìm thấy khi vẫn đang mặc chiếc váy dạ hội và đội vương miện. Không có dấu hiệu của sự giằng co. Đã có một buổi đốt lửa trại trong rừng sau vũ hội, một truyền thống của Trường Trung học Pondville, nơi lũ trẻ uống bia và nâng ly chúc mừng cho ngày kết thúc đời học sinh. Nhưng vào một lúc nào đó, Kate đã đi lang thang khỏi bữa tiệc và sa chân xuống đầm lầy. Trong trạng thái say xỉn và mất phương hướng, chắc hẳn cô bé đã vấp ngã, hoặc đơn giản là nằm xuống rãnh nước để ngủ.
 
-PJ và Belinda Bell để mặc bọn trẻ ở ngoài và quay lại nhà để kiểm tra ngôi nhà. Belinda vặn vòi nước ở nhà bếp. Cô nhúng một dải giấy nhỏ vào nước, đợi xem nó có chuyển sang màu cam hay không. “Không có chì,” cô thông báo.
+PJ từng muốn kiện nhà máy nước ép, nhưng bạn chẳng thể kiện ai vì tội trồng nam việt quất cả. Ivy muốn kiện lũ trẻ đã mang rượu đến bãi đốt lửa sau buổi vũ hội, nhưng mọi người trong thị trấn đều nghĩ điều đó thật kỳ cục khi phát ra từ gia đình Halliday. Ngay cả hồi đó, PJ vẫn kè kè ở quán rượu suốt ngày suốt buổi. PJ từ xưa đã thích uống rượu rồi. Ivy thừa biết điều đó khi quyết định kết hôn với ông.
 
-“Khỉ thật,” PJ nói. “Tôi sẽ phải rắc nó vào ngũ cốc của chúng mới được.”
+Kate cũng thích uống rượu. Cô bé từng bị phạt cấm túc vài lần vào năm cuối cấp vì tội về nhà trong trạng thái say xỉn. Kate là kiểu thiếu niên lúc nào cũng ra vẻ đang mưu tính chuyện gì đó, và thực tế là thế thật. Kiểu thiếu niên hay ngồi lên bàn giáo viên và chớp chớp hàng mi để đổi lấy điểm số cao hơn. Sau khi cô bé qua đời, PJ và Ivy đã nghe được những câu chuyện kiểu đó. Ai nấy dường như đều mang theo một lời thú tội nào đó. Rằng họ đã đối xử với Kate không được tốt cho lắm hồi cấp hai, quãng thời gian cô bé bị tật nói lắp. Hoặc họ từng giúp cô bé gian lận trong một bài kiểm tra. Rằng họ đã thầm yêu Kate, chưa bao giờ có cơ hội thổ lộ và nghĩ rằng mình nên nói lại điều đó với bố mẹ cô bé.
 
-“Ông Halliday,” Belinda Bell nói, và cô không hề cười, “tôi có cần phải nhắc nhở ông rằng một trong những đứa trẻ này gần đây đã gặp phải một vụ ngộ độc không?”
+“Cô bé có sức hút kỳ lạ,” vị hiệu trưởng từng phát biểu trong buổi lễ khánh thành chiếc ghế tưởng niệm. “Cô bé là bạn thân nhất của tôi,” một vài thiếu nữ phát biểu, những người mà PJ chưa từng nhìn thấy bao giờ. Lauren Cleary, người bạn thân thực sự của Kate, lại chẳng nói lời nào trong buổi lễ khánh thành ấy. “Cô bé có tương lai rộng mở,” tất cả mọi người tại buổi lễ tưởng niệm đều đồng tình. Lẽ ra Kate đã theo học tại Đại học Florida State nhờ một suất học bổng bóng mềm. Mẹ cô bé từng lo lắng đó là một ngôi trường chuyên ăn chơi. Trong các bài báo viết về cái chết của cô bé, vụ đuối nước, người ta đã liệt kê nồng độ cồn trong máu của Kate. Các tờ báo gọi Kate là một “cô nàng tiệc tùng,” cứ như thể điều đó có nghĩa là cô bé đáng phải chết. Cứ như thể điều đó có nghĩa là các bậc phụ huynh khác không cần phải lo lắng cho con cái họ, cứ như thể bất kỳ bậc cha mẹ tử tế nào cũng sẽ đoán trước được chuyện đó.
 
-“Tôi xin lỗi, cô Bell. Chỉ là nói đùa thôi. Không có chì trong ngũ cốc của chúng, đã kiểm tra.”
+PJ thừa nhận Kate thỉnh thoảng có lấy trộm bia trong tủ lạnh của mình. Kate có lẽ đã lấy trộm vài chai bia để mang đến buổi đốt lửa trại sau vũ hội tốt nghiệp, nhưng PJ không thể chắc chắn hoàn toàn, ông có kiểm kê từng chai bia trong tủ lạnh đâu mà biết. Ivy thì đổ lỗi cho hai cậu thiếu niên đã pha loại đồ uống vodka gì đó với bột Kool-Aid trong một chiếc thùng rác. Đám học sinh cấp ba đã uống thứ nước từ thùng rác đó vào cái đêm một trong số chúng bỏ mạng. Trong quá trình khám nghiệm tử thi, viên giám định y khoa phát hiện lưỡi của Kate bị nhuộm đỏ. Đó là chi tiết duy nhất khiến PJ cảm thấy nhẹ nhõm phần nào, rằng không phải những chai bia của chính ông đã khiến con gái mình say khướt đến mức nằm ngửa ra giữa đầm lầy.
 
-“Tôi cần ông phải xem xét việc này nghiêm túc,” Belinda Bell nói. Cô cảm thấy nản lòng trước những người đàn ông mãi chẳng chịu lớn.
+Ivy lúc nào cũng nổi đóa với PJ vì ông cứ tiếp tục uống rượu, ngay cả khi chính rượu chè là nguyên nhân cướp đi sinh mạng của Kate. Ivy đã từ bỏ hoàn toàn rượu vang. Nhưng PJ thì không thể làm được điều đó. PJ từng nghĩ, nếu có ngày mình cai được rượu, thì chính cái nỗi đau đớn quằn quại khi phải tỉnh táo hoàn toàn trong một thế giới vắng bóng Kate mới là thứ giết chết ông.
 
-“Được rồi,” PJ nói. “Tôi sẽ nghiêm túc.”
+Thế nhưng giờ đây Ivy đã bỏ mặc ông để đến Alaska và ông đã cai rượu được mười ba ngày, vượt qua giai đoạn tồi tệ nhất của cơn cai rượu, và nó chẳng hề giết chết ông.
 
-Trên lầu, Belinda Bell kiểm tra phòng ngủ của bọn trẻ, chiếc giường tầng màu trắng mới mua từ IKEA. PJ cuối cùng cũng lắp ráp xong xuôi, công việc tưởng chừng như bất khả thi ấy, thậm chí ông còn gọi điện cho con gái để nhờ giúp đỡ nhưng cô không bắt máy. Sau khi làm xong, ông đã nằm rạp trên sàn hàng giờ liền và chờ cơn đau tim đột ngột ập đến, nhưng ông đã sống sót.
+Điều đó suýt chút nữa lại làm ông thấy hụt hẫng.
 
-“Mới,” Belinda nói khi lắc lắc chiếc giường. “Chắc chắn.”
+PJ không muốn ở lại thị trấn vào cái ngày tháng Sáu định mệnh đó, tròn mười lăm năm vắng bóng Kate. Ông muốn ở Arizona, tại khu Cộng đồng Hưu trí Tender Hearts, chơi trò đẩy đĩa tròn và cá cược với tất cả mọi người trong ván bài xì phé hàng tuần. PJ càng thêm quả quyết về ý định đến Arizona khi bây giờ ông đã có chú mèo Pancakes làm bạn đồng hành. Có một người bầu bạn chính xác là thứ ông đang cần. Ông từng xem một bộ phim, kể về một ông già trên đường hành trình cùng một chú mèo. Art Carney từng giành giải Oscar nhờ bộ phim đó, nếu PJ nhớ không lầm. PJ nghĩ có lẽ PJ và Pancakes có thể cùng nhau xem lại bộ phim ấy, ngặt một nỗi ông không thể nhớ nổi đoạn kết, rằng chú mèo đã sống sót hay bỏ mạng.
 
-“Đồ nội thất Thụy Điển đấy. Chỉ có chuẩn nhất thôi.”
+Thế nên, thay vào đó, ông ngồi phịch xuống chiếc ghế bành ưa thích của Fred và bật kênh nấu ăn lên. Trong lúc Ina Garten làm món bánh quy bơ sữa cho người chồng yêu dấu của bà, PJ nhắm nghiền mắt để chợp mắt một lát sau bữa sáng, và tâm trí ông trôi dạt về ký ức của một buổi tối quây quần trên chiếc ghế y như thế này, vào thời điểm gia đình họ vẫn còn đầy đủ thành viên.
 
-“Và cái gì trong mấy chiếc hộp kia thế?”
+Sophie lúc đó khoảng bốn tuổi, má hồng hào sau khi tắm, thoang thoảng mùi hương hoa oải hương tươi mát, và Sophie đã trèo lên đùi ông để nũng nịu đòi ôm ấp. Kate và Ivy đã đến tiệm làm tóc vào buổi chiều hôm đó và sẽ về nhà bất cứ lúc nào. PJ đã nấu món mì Ý cho cả nhà, một trong số ít những món tủ của ông. Nồi mì đang được ninh trên bếp.
 
-PJ vẫn chưa chuyển hết các thùng tài liệu ra nhà xe, vì ông quá mệt mỏi sau khi cố gắng lắp ráp chiếc giường tầng, nên vẫn còn vài thùng để lại trong phòng. “Ồ, đó chỉ là đồ của vợ cũ tôi thôi.”
+Ông có thể nghe thấy tiếng Ivy ở ngoài sảnh chính. “Tụi mình đang tổ chức trình diễn thời trang đây!” Ivy gọi vọng vào.
 
-Belinda Bell nhấc một chiếc nắp bìa cứng lên. Phía trên là một mẩu tin cắt báo. Rò rỉ khí gas cướp đi sinh mạng của cả gia đình, bao gồm cả trẻ em và chú chó. Cô lấy ra một mẩu khác: Bé gái vô tình bắn chết em trai. PJ ngay lập tức hiểu trong chiếc hộp đó có gì, trong vô số chiếc hộp kia, hoàn toàn không phải là những hồ sơ vụ án cũ của Thẩm phán Fred, ông hiểu ra ngay lập tức, Belinda Bell chẳng cần phải tiếp tục lục lọi nữa. Đó tất cả là những tin tức tồi tệ mà vợ cũ của ông đã thu gom trong suốt bao nhiêu năm qua. Vì lý do gì đó, Ivy đã không thể vứt bỏ những mẩu tin cắt đó đi. Ông hiểu điều đó, cái sự thôi thúc tích trữ, tất nhiên là ông hiểu chứ, việc biến những thứ bình thường trở nên thiêng liêng. Bà đang giữ lại những tin tức tồi tệ vì bà biết cảm giác khi tin tức tồi tệ của mình được in trên báo, rồi ngày hôm sau ai nấy đều mang nó ra tái chế. Có lẽ điều đó xảy ra với bất cứ ai mất đi một đứa con, rằng bạn giữ lại mọi thứ bởi vì bạn biết rõ hơn bất kỳ ai khác rằng chẳng có thứ gì trên đời này mà người ta thực sự có thể giữ lại được mãi. Ôi, Ivy, ông nghĩ. Ông muốn ôm lấy vợ cũ của mình, nhưng bà không có ở đó để ôm và Belinda Bell lại đang đứng đó, chờ đợi một lời giải thích. “Vợ cũ tôi là giáo viên mỹ thuật,” ông nói, điều đó hoàn toàn là sự thật. “Cô biết cách lũ nghệ sĩ sưu tầm báo chí rồi đấy. Để làm giấy bồi.” Ivy chưa bao giờ xúc phạm trí thông minh của học sinh cấp ba của mình bằng cách bắt chúng làm giấy bồi, nhưng nhân viên công tác xã hội thì không cần phải biết điều đó.
+“Bọn anh sẵn sàng rồi đây!” PJ lớn tiếng đáp lại.
 
-“Hai người mới ly hôn gần đây à?”
+Ivy kiêu hãnh bước vào. Ivy diện một bộ trang phục hoàn toàn mới, mặc dù trước đó Ivy từng bảo PJ rằng họ phải thắt chặt chi tiêu và không được phung phí tiền bạc nữa. Ivy mặc một chiếc áo khoác màu vàng, và mái tóc thì được cắt ngắn kiểu tém pixie.
 
-“Đúng vậy,” PJ nói. “À, cách đây tám năm rồi. Chúng tôi vẫn rất thân thiết.” Ông chỉ vào một trong những bức ảnh trên tường. “Đó là cô ấy và chồng tương lai của cô ấy, bạn trai cô ấy, Fred. Anh ta sắp cầu hôn. Sắp sửa đến nơi rồi. Họ đang ở trên Alaska. Tôi đã thấy chiếc nhẫn rồi. Kim cương kích thước vừa phải. Nếu tôi định kết hôn lại với cô ấy, tôi sẽ mua cho cô ấy một chiếc to hơn, nhưng tôi nghĩ cô ấy sẽ hài lòng với chiếc nhẫn đó.”
+“Mẹ trông đẹp lắm ạ,” Sophie thốt lên.
 
-“Ông giữ khung ảnh chụp họ cơ à?” Belinda Bell hỏi. Thực ra có rất nhiều bức ảnh đóng khung của Ivy và Fred được bày biện rải rác xung quanh nhà, nhưng Belinda chưa nhìn thấy hết.
+“Thấy chưa?” PJ nói, ôm ghì lấy Sophie và trân quý tấm lòng chân thật, hồn nhiên của trẻ thơ.
 
-“Tôi là phù rể trong đám cưới đấy,” PJ nói, ưỡn ngực tự hào. “Tôi cũng đang hy vọng cô ấy sẽ đồng ý để tôi dắt tay cô ấy vào lễ đường.”
+Rồi Kate cũng bước vào, diện một chiếc đầm đỏ mới tinh. Kate xoay một vòng điệu nghệ ngay giữa phòng khách như đang ở trên sàn diễn thời trang. Kate mới chỉ mười một tuổi, nhưng trông Kate đã phảng phất nét quyến rũ của Barbarella. Kate lúc nào cũng trông giống như kiểu thiếu niên sinh ra để tham gia các cuộc thi sắc đẹp, nhưng Ivy không phải là tuýp người mẹ thích đưa con mình vào những cuộc đua chen đó.
 
-Belinda lập tức có cái nhìn mềm mỏng hơn với PJ. “Ồ, thật đáng yêu làm sao, ông Halliday. Tôi phải nói là, tôi ước gì chồng cũ của tôi cũng tỏ ra chín chắn như vậy.”
+“Trông chị Kate còn đẹp hơn cơ,” Sophie nhận xét, và quả thực đúng là như vậy, Kate trông rực rỡ nhất, nhưng Kate vẫn giữ nguyên mái tóc dài mà Kate đã để khi rời khỏi nhà vào đầu ngày hôm đó.
 
-Ông gật đầu. “Cô ấy biết ơn tôi lắm.”
+“Bố cứ tưởng con cũng sẽ cắt tóc cơ chứ,” PJ nói.
 
-“Thế còn các con của ông thì sao?” cô hỏi. “Ông có mối quan hệ tốt với chúng chứ?”
+“Con có cắt mà, bố. Con cắt tóc mái rồi đây.”
 
-“Chúng tôi rất gắn bó,” ông nói, đó lại là một lời nói dối, bởi vì Sophie hầu như chẳng bao giờ nhấc máy nghe điện thoại của PJ, và đứa con gái kia của PJ thì đã qua đời gần mười lăm năm rồi. Nhưng nhân viên công tác xã hội này không muốn nghe sự thật. PJ có thể nhận ra cách mọi việc vận hành ở đây. Nhân viên công tác xã hội này muốn nghe những gì cô ấy muốn nghe và ghi chép lại vào tờ khai của mình. Rằng đây là một mái nhà an toàn cho trẻ em, và công việc của cô ấy ở đây đã hoàn thành.
+“Nhưng mà...”
 
-Họ gọi pizza của hãng Domino cho bữa tối, bao gồm cả một đĩa salad mà không ai thèm động đến, nhưng PJ muốn chứng minh là ông biết chút ít về việc ăn uống lành mạnh. Ông bày bánh pizza và đĩa giấy lên bàn ở phòng ăn, căn phòng mà Fred và Ivy chỉ dùng cho các bữa tiệc ngày lễ. Đó là một căn phòng hẹp và dài nằm ở một bên của ngôi nhà, với một chiếc bàn ăn bằng gỗ gụ ở đầu này, cùng một chiếc ghế bành đôi và một cây đàn đại dương cầm màu trắng ở đầu kia. Luna đi thẳng về phía cây đàn piano và ngồi xuống.
+“Mẹ không cho con bé cắt,” Ivy chen ngang. “Cả hai mẹ con cùng rụng tóc thì có ích gì.” Phần tóc tém còn lại của Ivy sẽ rụng sạch trong vài tháng tới. Ivy bị ung thư vú và chuẩn bị bắt đầu quá trình hóa trị, nhưng bác sĩ rất tự tin rằng họ sẽ chiến thắng căn bệnh này. Sau đó Ivy sẽ nói cho PJ biết sự thật, rằng Kate đã chùn bước ngay khi vừa ngồi vào ghế cắt tóc. “Chẳng có đứa con gái nào ở lớp con để tóc ngắn cả,” Kate từng nói. “Cũng chẳng có đứa trẻ nào có mẹ bị ung thư hết.”
 
-PJ nói với vẻ tự hào rằng đứa trẻ đã chú ý đến nhạc cụ tuyệt đẹp đó: “Đó từng là cây đàn piano của chú. Nhưng vợ cũ của chú đã lấy nó trong vụ ly hôn. Cô ấy bảo chú sẽ không biết chăm sóc nó, và cô ấy đã tốn quá nhiều tiền cho nó để rồi phải nhìn nó hỏng hóc mất.”
+“Em hiểu mà,” Ivy từng nói. “Thật là bất công.”
 
-Belinda hỏi: “Thế sao nó lại ở trong nhà ông?”
+Và đó là lúc người thợ làm tóc gợi ý để kiểu tóc mái, chìa ra một bức ảnh trên tạp chí.
 
-PJ đáp: “Hả?”
+PJ đã thấy thất vọng vì Kate đã không làm theo; ông từng nghĩ đó là một cách tuyệt vời để ủng hộ mẹ mình. Đó vốn là ý tưởng của Kate, rồi con bé lại không làm thế. Nói rằng mình sẽ làm gì đó rồi lại không làm thì chẳng đẹp đẽ gì cho cam. Ông tự hỏi về những đứa con gái mà họ đang nuôi dưỡng, và điều gì sẽ xảy ra với chúng nếu ông phải một mình nuôi nấng chúng.
 
-“Sao cây đàn piano lại ở trong nhà ông nếu cô ấy giành được nó trong vụ ly hôn?”
+Hồi đó, PJ từng nghĩ chẩn đoán ung thư vú, những tháng ngày hóa trị, nỗi sợ mất đi Ivy, chính là điều tồi tệ nhất mà gia đình họ phải trải qua, mà quên mất tri thức cổ xưa rằng điều tồi tệ nhất có thể xảy ra với bất kỳ ai chính là cái chết của một đứa con.
 
-PJ nói: “Ồ.” Ông cố gắng suy nghĩ. “À, cô ấy trả lại rồi. Cô ấy đi Alaska nên đã trả lại nó.”
-
-Belinda gật đầu. “Chắc là quá nặng để mang lên máy bay, một cây đàn piano cỡ đó.”
-
-PJ nói với vẻ hào hứng vì đã bịa ra được một lời nói dối nữa: “Đúng vậy. Cô ấy sẽ phải chở nó bằng thuyền hoặc xe tải. Và sẽ tốn kém lắm. Quá tốn kém để mang theo đến Alaska.” Ông cắn một miếng bánh pizza Domino của mình. Ông nói: “Pizza ngon đấy.”
-
-Ollie đang ăn miếng thứ hai, nhưng Luna vẫn ngồi ở cây đàn piano, chưa chịu qua lấy phần pizza của mình. Cô bé đang chăm chú nhìn vào những phím đàn.
-
-Belinda Bell nói: “Chơi cho cô chú nghe một bài đi, Luna. Chơi một bài đi nếu cháu không định ăn. Cháu có thể làm tiết mục giải trí cho bữa tối.”
-
-Ollie giải thích: “Chị ấy hát hay nhưng không biết chơi piano đâu.”
-
-Nhưng Luna đặt tay lên các phím đàn và nhấn xuống. Phím đàn vang lên tiếng Ting. Ting, ting, ting. Và rồi những ngón tay của cô bé cứ thế chuyển động, và âm nhạc vang lên. Có một bài hát, một bài thực sự chứ không phải “Kìa con bướm vàng” hay “Chopsticks”. Đó là một bài gì đó khác. Nó thật tuyệt vời.
-
-Khi Luna dừng lại, Belinda Bell nói: “Tuyệt vời quá.”
-
-Ollie hỏi: “Từ bao giờ mà chị lại biết chơi piano thế?” Cậu bé ghét việc chị gái mình có những bí mật.
-
-PJ nói: “Debussy. Bản ‘Serenade for the Doll’. Đó chính là bài đó. Mẹ đã dạy chú chơi bài đó. Chắc là bà cũng dạy anh trai chú chơi rồi. Có thể ông ấy đã dạy cháu chăng?”
-
-Luna nhìn người đàn ông lớn tuổi này, người đàn ông lớn tuổi mà cô bé phải sống cùng, kẻ biết rõ tên bài hát mà cô bé vừa chơi. Cô bé chưa từng biết người đàn ông này có họ hàng với ông ngoại mình, bởi vì chẳng có ai giải thích cho cô bé thế nào là ông bác, nhưng giờ thì cô bé đã tự suy ra được. Luna quay đi khỏi PJ và hướng về phía cây đàn piano, nhưng trước tiên PJ tưởng như ông nhìn thấy một điều gì đó mà ông thấu hiểu trong đôi mắt cô bé. Một nỗi tổn thương và sự tức giận mà ông nhận ra. Ông cảm thấy lo lắng cho cô bé, còn quá nhỏ tuổi mà lại mang trong mình nỗi tổn thương kiểu đó. Cả Belinda Bell và Ollie đều nghĩ Luna chuẩn bị chơi bản nhạc thứ hai trên đàn piano, một giai điệu tuyệt đẹp khác, nhưng thay vào đó, cô bé nôn thốc nôn tháo, một thứ chất dịch màu xanh rực rỡ phun tung tóe khắp cây đàn piano, với những khối nhầy nửa nhai gồm lũ ếch và kẹo dẻo bắn tung tóe lên các phím đàn.
-
-Belinda Bell nói: “Cái cốc Big Gulp. Ôi Chúa ơi, cái cốc Big Gulp.”
-
-Ollie trầm ngâm nói: “Cái lò nhún. Nó làm chị ấy bị xóc ruột.”
-
-PJ vừa nói vừa chạy đi lấy khăn lau và nước tẩy rửa thảm: “Chú sẽ lấy giẻ lau.” Lại có cả chất nhầy màu xanh trên tấm thảm màu be nữa, những mảnh kẹo dẻo vương vãi khắp nơi. Ông đang nghĩ xem Fred sẽ nói gì về tấm thảm này. Fred rất khó tính về tấm thảm trong căn phòng này. Đây là phòng ăn trang trọng, đó là lý do tại sao Fred và Ivy chỉ dùng nó vào các dịp lễ, nhưng đây lại là một dịp đặc biệt. Đây là bữa tối đầu tiên của lũ trẻ trong ngôi nhà này.
-
-Luna bật khóc nức nở rồi chạy vào phòng tắm và đóng sầm cửa lại. Belinda và PJ không chạy theo cô bé; họ tập trung vào việc dọn dẹp bãi chiến trường. Ngay cả Ollie cũng không làm phiền chị gái ngay lúc đầu, bởi vì cậu bé đang lo lắng thứ nước đá xay màu đỏ của mình có thể trào ngược ra bất cứ lúc nào. Cậu bé đã bị xóc tung lên trên chiếc lò nhún giống hệt như Luna, và cậu bé luôn bị nôn ọe mỗi khi Luna nôn mửa. Họ gắn kết với nhau theo cách đó. Ollie không bao giờ có thể vui vẻ trừ khi Luna cũng thế.
-
-Trong phòng tắm, cuối cùng cũng được ở một mình trong phút chốc, Luna ngồi lên bồn cầu, gục đầu giữa hai đầu gối. Có tiếng kêu meo meo phát ra trong phòng, và Luna ngẩng đầu lên. Có một chú mèo màu cam đang nằm dài trong chiếc bồn tắm trống không. Pancakes đã ngủ trong đó cả ngày trời. Chú mèo chìa chiếc bụng màu trắng của mình ra cho cô bé. Luna lau nước mắt rồi ngồi xuống cạnh bồn tắm và đưa tay luồn vào bộ lông của chú mèo. Cô bé cảm thấy khá hơn ngay lập tức. Chú mèo cứ gừ gừ mãi và hít hà bàn tay cô bé bằng chiếc mũi hồng nho nhỏ. Mùi hương của cô bé quá quen thuộc với chú, nhưng thoạt đầu chú không tài nào nhớ ra được.
-
-Cô bé nói với chú mèo: “Tôi chuẩn bị bỏ trốn đây.” Cô bé ngẩng đầu từ bồn tắm nhìn lên khung cửa sổ phía trên bồn cầu. Cô bé hỏi chú mèo: “Mày nghĩ tao có chui qua nổi cái cửa sổ đó không?”
-
-Chú mèo ngồi dậy rồi nhảy từ bồn tắm lên bồn cầu. Chú nhìn kích thước của cửa sổ và kích thước của Luna. Chú thầm nghĩ: Không vấn đề gì.
-
-Cô bé nói: “Được rồi. Đi thôi.” Cô bé dùng tay quay để mở cửa sổ ra; ở đây không có lưới chống côn trùng. Chú mèo đứng nhìn cô bé trèo ra ngoài cửa sổ, nhìn cô bé đứng chênh vênh trên bệ cửa sổ với đôi giày Converse màu hồng trong giây lát, ngập ngừng một thoáng, trước khi nhảy xuống những bụi cây ở phía dưới. Pancakes theo sau cô bé, uyển chuyển hơn rất nhiều, và chẳng hề do dự chút nào trước khi nhảy.
-
-“Mày có được phép ra ngoài không vậy?” Luna hỏi chú mèo, vừa gỡ vài cái cành cây dính trên tóc.
-
-Nhưng chú mèo cứ thế chạy biến đi và lững thững bước nhanh về phía trước dọc theo con đường. Chú biết họ đang đi đâu. Ngôi nhà trắng trên đường Deerfield. Chú từng đến đó trước đây trong những tuần lang thang khi ngôi nhà còn trống không. Chú đã ngủ trên giường của Luna. Điều đó giải thích vì sao chú đã quen với mùi của cô bé. Từ tấm ga trải giường màu tím mà chú đã ngủ qua mấy đêm liền. Chú mèo Pancakes biết rằng họ đang quay lại ngôi nhà từng nồng nặc mùi tử khí ấy, nhưng tấm ga trải giường màu tím in họa tiết bướm lại mang một mùi hương dịu ngọt, từ mồ hôi của một đứa trẻ đang yên giấc.
-
-Vài phút sau, Ollie gõ cửa phòng tắm để kiểm tra chị gái, mà không biết rằng cô bé đã trèo qua cửa sổ và rời khỏi khuôn viên nhà. “Chị có sao không?” cậu bé hỏi. Cậu bé không ngờ Luna sẽ trả lời, bởi cô bé vẫn giữ quy tắc không nói chuyện khi có người lớn ở quanh, và cô bé sẽ không thể biết ai đang nghe lỏm khi cửa đang đóng. Cậu bé thử vặn nắm đấm cửa, nhưng nó đã bị khóa. “Bãi nôn không làm ố thảm đâu,” cậu bé nói. “Không ai giận đâu.”
-
-“Dĩ nhiên là chúng ta không giận rồi,” Belinda Bell lên tiếng từ phía sau Ollie. “Ai mà chẳng có lúc ốm. Cháu ổn chứ, Luna? Cháu có cần giúp gì không?” cô hỏi vọng vào cửa.
-
-Nhưng chẳng có lời đáp nào từ bên trong.
-
-“Này nhóc, đừng lo lắng gì cả nhé, làm ơn đấy. Đó là đàn của vợ cũ chú, sao chú lại phải giận cơ chứ?” PJ trấn an cô bé. “Cô ấy bỏ chú đi theo người đàn ông khác. Cô ấy sẽ kết hôn vào mùa thu này. Này, cháu có muốn làm phù dâu không? Họ sẽ cần phù dâu đấy.” PJ nghĩ rằng điều đó có thể dụ được cô bé ra ngoài. Ông vẫn chưa hiểu rõ về Luna. Chưa biết rằng Luna không phải là kiểu đứa trẻ thích làm phù dâu bao giờ.
-
-“Luna, mở cửa cho em đi,” Ollie nói. “Làm ơn mở cửa cho em đi, Luna.”
-
-“Cô nghĩ Luna chỉ cần chút thời gian ở một mình thôi,” Belinda Bell nói. “Cô bé biết là không ai giận nó cả. Cô bé sẽ ra ngoài khi sẵn sàng. Chúng ta quay lại ăn nốt pizza đi.”
-
-Thế là mọi người quay trở lại phòng ăn, bao gồm cả Ollie, để mặc Luna một mình trong căn phòng tắm khóa kín để hờn dỗi. PJ lẽ ra đã ở lại lâu hơn để cố gắng dỗ dành cô bé ra ngoài, nhưng Belinda Bell mới là chuyên gia. Cô được trả tiền để biết điều gì là tốt nhất cho lũ trẻ.
-
-Sau bữa tối, những chiếc đĩa giấy được vứt vào sọt rác, và Belinda Bell thông báo rằng mọi việc ở đây có vẻ ổn thỏa cả rồi. Cô chuẩn bị rời đi. “Còn nhiều vụ giao trẻ tệ hơn thế này nhiều, tin tôi đi,” cô nói khi PJ hỏi liệu cô có chắc là không muốn ở lại cho đến khi Luna bước ra khỏi phòng tắm. Belinda bảo rằng cô sẽ ghé lại kiểm tra sau vài tuần nữa, và cô luôn chỉ cách một cuộc điện thoại. Cô để lại một tập hồ sơ trên quầy bếp, gồm giấy khai sinh và hồ sơ y tế của bọn trẻ, kèm theo một mẩu giấy nhớ ghi số điện thoại của mình. PJ cố gắng không hoảng loạn. Chuyện này đang diễn ra. Nó thực sự đang diễn ra, và không thể đảo ngược được nữa. Đã quá muộn để hủy bỏ nó chưa? Mà nghĩ lại, ông cũng chẳng muốn quay lại cuộc sống cô độc mãi mãi. Và một trong hai đứa trẻ có thể chơi bản nhạc Debussy trên đàn piano. Ai mà biết họ sẽ còn làm những gì cùng nhau nữa chứ? Mọi thứ có thể sẽ rất tuyệt vời. Tương lai phía trước có lẽ sẽ vô cùng tuyệt vời.
-
-“Ồ,” Belinda nói trong lúc thu dọn đồ đạc. “Còn một điều cuối cùng ông nên biết: Luna nghĩ rằng Frank Meeklin không phải là bố ruột của cô bé. Khi cô bé bắt đầu nói chuyện trở lại, nó sẽ đòi làm xét nghiệm ADN. Cô bé đang trải qua nỗi đau buồn phức tạp, nhưng tốt nhất là ông nên phớt lờ yêu cầu này.”
-
-“Trông cháu y hệt bố cháu,” Ollie giải thích. “Bản sao thu nhỏ của ông ấy. Đó là lý do ông ấy thích cháu hơn. Nhưng chị ấy trông không giống ông ấy, cũng chẳng giống mẹ cháu cho lắm.”
-
-PJ gãi đầu. PJ cảm thấy nhẹ nhõm khi nghe về kẽ hở tiềm năng này. Nếu có ai đó khác có thể nhận nuôi bọn trẻ, thì có lẽ sẽ tốt hơn. Biết đâu PJ chỉ cần chăm sóc chúng một đêm mỗi tuần; thế thì tuyệt quá. “Chà, sao không cho cô bé làm xét nghiệm ADN nhỉ? Ý tôi là, biết đâu Frank Meeklin không phải bố cô bé thì sao? Hoàn toàn có thể chứ, đúng không? Cô có biết ai là ứng viên còn lại không?”
-
-Belinda Bell thì thầm vào tai PJ, kể về lý thuyết quan hệ ba người của Luna. Luna từng cho Belinda xem bài thuyết trình PowerPoint trước khi cô bé ngừng nói. Belinda đời nào lại thốt ra cụm từ Quan hệ ba người trước mặt một đứa trẻ, dù cho Ollie đã từng nghe về chuyện đó từ chị gái mình rồi.
-
-“Ôi trời,” PJ thốt lên.
-
-Belinda Bell tiếp tục nói, không còn thì thầm nữa. “Và đó chưa phải là tất cả, người đàn ông mà cô bé nói là bố ruột của mình lại là một nhân vật trên truyền hình, một diễn viên đóng phim truyền hình dài tập. Ông ta lớn lên ở Pondville, nhưng đã không sống ở đây kể từ thời trung học. Tôi nghĩ ông có thể hiểu được, ông Halliday, rằng sẽ là không đúng mực nếu chúng ta đòi hỏi xét nghiệm quan hệ cha con từ một người chưa từng gặp lũ trẻ và không có tên trên giấy khai sinh, đặc biệt là một người của công chúng và lại sống tận ở Los Angeles. Điều đó sẽ mang lại sự xấu hổ cho Sở Trẻ em và Gia đình Bang Massachusetts.”
-
-“Xấu hổ á?” PJ hỏi. Ông nghĩ điều đó có phần làm quá lên rồi.
-
-“Đúng vậy,” Belinda Bell nói. “Chúng tôi không có lý do gì để tin rằng Frank Meeklin không phải là cha đẻ của cô bé. Nhưng Luna sớm muộn gì cũng sẽ nhắc lại chuyện này với ông, có lẽ ngay khi cô bé bắt đầu nói chuyện trở lại, thế nên tôi nghĩ ông nên chuẩn bị trước tâm lý.”
-
-“Được rồi, tôi hiểu mà. Tôi cũng ước gì bố mình là một ngôi sao lớn trên truyền hình.” PJ nháy mắt với Ollie, nhưng cậu bé tội nghiệp trông có vẻ buồn rười rượi. PJ thấy thương cậu bé. PJ chưa từng gặp bố của mình, bất kể người bố đó là ai thì cũng chỉ gửi cho mẹ PJ một phong bì tiền mặt vài lần một năm, và mẹ PJ không chịu nói về ông, chỉ nói rằng bà rất yêu ông và đã gặp ông khi đi du lịch một mình khắp đất nước. Mẹ PJ có rất nhiều câu chuyện về những chuyến đi một mình khắp đất nước, những cuộc phiêu lưu mà bà từng trải qua. Những thứ bà từng nhìn thấy, ngoài Pondville.
-
-Giờ đây, cậu bé Ollie này cũng sẽ lớn lên ở Pondville mà không có bố. PJ hiểu rõ sự cô đơn ấy lớn đến nhường nào.
-
-“Khoan đã,” PJ nói với Belinda. “Giờ thì, tôi không rành lắm về chuyện này, nhưng cô có thể xét nghiệm cho thằng bé được không? Xét nghiệm ADN chẳng phải sẽ cho biết chúng là anh chị em ruột thịt hay cùng cha khác mẹ sao?”
-
-“Cháu không muốn cô xét nghiệm cháu đâu,” Ollie nói. “Cháu không cho cô làm thế đâu.” Cậu bé tưởng tượng xét nghiệm ADN chắc sẽ đau lắm.
-
-“Như tôi đã nói,” Belinda Bell lên tiếng, “ông tốt nhất là cứ mặc kệ mọi chuyện đi, ông Halliday ạ. Ông sẽ chỉ tự rước họa vào thân nếu cứ để cô bé đó muốn gì được nấy thôi.” Và rồi Belinda chúc PJ gặp nhiều may mắn với lũ trẻ, đoạn bước ra cửa và phóng đi trên chiếc xe tải màu trắng của cô. Ollie trông có vẻ buồn khi thấy Belinda rời đi.
-
-“Cháu có muốn chơi điện tử không?” PJ hỏi Ollie, nghĩ đến thứ gì đó có thể làm cậu bé vui lên. “Chú có mua một máy PlayStation cho cháu, nhưng chú cần cháu giúp cắm nó vào TV đấy.” PJ đã hơi cuồng mua sắm khi ghé Walmart.
-
-Ollie gật đầu và cười toe toét.
+Nghĩ lại thì, PJ chưa từng nghĩ điều đó lại xảy ra với mình.

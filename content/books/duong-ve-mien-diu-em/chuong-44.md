@@ -1,47 +1,169 @@
-*Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)*
+*Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu*
 
-# Chương 41
+# Chương 34
 
-Sophie, Ollie và Luna cuối cùng cũng tiến lên được tới đầu hàng, nơi Mark Stackpole đang đứng với toàn bộ vẻ hào nhoáng của lớp xịt da rám nắng màu cam, mỉm cười bằng bộ răng sứ trắng hoàn hảo. Luna tự giới thiệu trong khi Ollie và Sophie đứng lùi lại phía sau. “Cháu tên là Luna Meeklin,” cô bé nói đầy tự tin, giống như thể mình đã luyện tập kỹ lưỡng với bức tượng của Abraham Lincoln vậy. “Mười tuổi rưỡi. Chúng cháu lái xe từ Massachusetts đến đây. Mẹ cháu là Elaine Meeklin.”
+Khi tiến gần đến Little Rock, Sophie quyết định cô cần thêm một ly cà phê nữa vì cà phê ở Cracker Barrel dở tệ và nhạt nhẽo vô cùng. Họ ghé vào một quán có tên là She’s Got Big Mugs, và PJ tự mua cho mình một chiếc cốc cà phê hình bầu ngực bằng gốm mặc áo bikini, phần cà phê được rót vào phần cổ nơi đáng lẽ ra là cái đầu. Ollie nghĩ đó là thứ buồn cười nhất mà cậu bé từng thấy trong đời, và cậu bé nài nỉ được uống một ngụm cà phê từ chiếc cốc đó, nhưng chú PJ bảo Ollie thực sự nên dừng uống cà phê lại, nó sẽ làm cậu bé còi cọc đấy, và thử đổi sang uống nước ngọt xem sao.
 
-“Vậy, gửi Elaine nhé ?” Mark đã hỏi, chiếc bút Sharpie lơ lửng trên tờ giấy bóng, sẵn sàng ký tên lên đó. “Elaine viết bằng chữ E à?”
+Sophie nhìn Ollie đang cười nắc nẻ trước chiếc cốc hình bầu ngực, cậu bé cười dễ dàng và vô tư đến thế sau buổi sáng kỳ quặc và đượm buồn vừa rồi, đó chính là một lý do khiến người lớn thường nghĩ rằng trẻ em không bị ảnh hưởng quá nghiêm trọng bởi cái chết, bởi vì chúng có thể quay lại với việc cười đùa và chơi giỡn nhanh đến thế. Khả năng phục hồi, đó là những gì người ta vẫn nói về lũ trẻ. Nhưng việc chơi đùa và cười cợt có thể chỉ là cách trẻ nhỏ xử lý cảm xúc, chứ điều đó không có nghĩa là chúng đã thực sự bình phục. Blanche đã kể cho Sophie nghe tất cả về điều này trong các buổi trị liệu, khi nói về tuổi thơ của Sophie. Sophie lo lắng cho hai đứa trẻ này, những gì chúng vừa phải trải qua ngay sau khi mất đi cha mẹ. Lồng ngực Sophie nhói đau, nhưng cô thực sự chẳng biết làm cách nào để tình hình khá hơn cho chúng. Bản thân cô thậm chí còn chưa bao giờ tìm ra cách để làm cho mọi thứ tốt đẹp hơn đối với chính mình.
 
-“Xin lỗi, tên mẹ cháu là Elaine Duggins, chứ không phải Elaine Meeklin, vào thời gian chú quen mẹ. Mẹ cháu đã đổi họ sau khi kết hôn với bố cháu. Chú có nhớ Elaine Duggins không?”
+Rời khỏi quán cà phê, Sophie nhìn thấy Bảo tàng Ví và Túi xách ở ngay bên kia đường. Dù lúc nào cũng mặc đồ đen từ đầu đến chân, Sophie vẫn thích ngắm những bộ trang phục đẹp đẽ, và cô nghĩ biết đâu một bảo tàng sẽ mang lại cảm giác dễ chịu. Nghệ thuật đem lại ý nghĩa cho cuộc sống mà, phải không? Đó là một bảo tàng nhỏ, và giá vé vào cửa chỉ có mười đô la. Sophie nói: “Chúng ta vào trong đó đi.”
 
-Mark Stackpole đặt chiếc bút Sharpie xuống và nhìn Luna. Anh ta không hề mỉm cười. “Thế ra, cháu chính là đứa trẻ đó,” anh ta nói. Sau đó, anh ta ra hiệu cho một người đàn ông mặc comple tiến lại gần. Có thể là vệ sĩ, quản lý, hoặc luật sư của anh ta, hay là cả ba. “Đây chính là đứa nhóc cứ viết thư cho tôi về chuyện huyết thống đây. Đi gọi Christine ra đây.”
+Luna đáp: “Không.”
 
-“Christine cũng ở đây ạ?” Luna hỏi. “Mấy đứa trẻ cũng có ở đây không ạ?” Người duy nhất mà cô bé biết tên là Sassafras, nhưng cô bé biết còn bốn đứa trẻ khác nữa. Những người anh chị em cùng cha khác mẹ với mình.
+“Chỉ mười phút thôi.”
 
-Mark Stackpole lắc đầu. “Mấy đứa nhỏ đang ở Los Angeles với đám vú em rồi.”
+Luna kiên quyết từ chối: “Cháu sẽ đợi ở cửa hàng lưu niệm.”
 
-“Vú em,” Luna thì thầm. Những người cực kỳ giàu có mới thuê nhiều vú em đến vậy. Mẹ cô bé trước đây vẫn thường phàn nàn và nói rằng bà ước gì mình cũng có một cô vú em và một người giúp việc. Luna huých tay Sophie. “Nói với chú ấy đi,” cô bé nói. “Nói với chú ấy rằng chúng cháu là những đứa trẻ ngoan đi.”
+“Tùy cháu. Đừng có ăn cắp thứ gì đấy nhé.”
 
-Sophie đỏ bừng cả mặt, nhưng cô vẫn làm theo. “Chúng là những đứa trẻ ngoan ạ. Cả Luna lẫn em trai con bé đều là những đứa trẻ rất ngoan.”
+PJ nói với cô nhân viên: “Đây là thẻ tín dụng của bố. Con cứ mua bất cứ thứ gì con thích.”
 
-Mark Stackpole không nhìn Sophie mà tiếp tục nói chuyện với Luna. “Nghe này nhóc, chúng ta sẽ giải quyết những thắc mắc của cháu. Nhưng chú thực sự cần cháu bước sang một bên lúc này, để chú có thể ký xong đồ lưu niệm cho người hâm mộ của chương trình. Sau việc này, chúng ta sẽ nói chuyện sau nhé.” Mark Stackpole lại mỉm cười, nhưng nụ cười đó trông có vẻ gượng gạo. “Chú rất vui vì cháu đã đến. Dù sao thì Pondville dạo này thế nào rồi?”
+“Chúa ơi, bố.”
 
-“Vẫn tốt ạ,” Luna nói, rạng rỡ hẳn lên. Người đàn ông có khả năng là bố cô bé lại rất vui mừng khi được gặp cô bé. Anh ta không hề bảo cô bé biến đi, hay tự đi mà lao xuống đại dương gần nhất tự tử như cô bé từng tưởng tượng. Cô bé từng tưởng tượng anh ta sẽ thốt ra đủ loại lời cay độc, nhưng anh ta lại không làm thế. Anh ta chỉ đơn giản bảo luật sư của mình đi tìm vợ và yêu cầu cô bé bước ra khỏi hàng để anh ta có thể trò chuyện với những người hâm mộ còn lại. Chuyện đó cũng không đến nỗi tệ lắm. Người phụ nữ tiếp theo xếp hàng mang theo cả một chồng áo lót để anh ta ký lên phần cúp ngực, và Luna chăm chú theo dõi với vẻ đầy hứng thú. Mark Stackpole đã ký mà không hề phàn nàn một tiếng nào, bất chấp chúa Jesus có nói gì đi chăng nữa về việc chạm vào đồ lót của người phụ nữ khác. Biết đâu Mark Stackpole cuối cùng vẫn có thể yêu thương Luna, bất chấp những lỗi lầm to lớn của cô bé.
+“Tiền của bố cơ mà.”
 
-Khi Sophie và lũ trẻ đứng dạt sang một bên, chờ Mark Stackpole ký xong cho người hâm mộ, họ quan sát những gì đang diễn ra ở các hàng khác. Mọi thứ đang trở nên cực kỳ náo loạn ở phía bên kia chiếc lều. Đây chính là lý do vì sao Elvira cùng Betsy và tất cả những người phụ nữ khác năm này qua năm khác vẫn tình nguyện tham gia. Bởi vì sự kiện này lúc nào cũng là một màn trình diễn mãn nhãn.
+Sophie lắc đầu rồi bước đi để ngắm nhìn các khu trưng bày túi xách. Cô chỉ muốn có một chút thời gian một mình để ngắm nhìn những thứ đẹp đẽ, và để giả vờ rằng mọi chuyện vẫn ổn.
 
-Taylor Selfridge trong bộ phim Invitation to Love đã cởi phăng áo của mình ra, và tất cả mọi người đang hò hét rầm rộ vì chuyện đó, cổ vũ nhiệt tình cho anh ta, đồng thời phớt lờ diễn viên đứng ngay bên cạnh, Dallas Fieldstone, người cũng là một diễn viên trong Invitation to Love và đang cạnh tranh trực tiếp thời lượng lên hình với Taylor. Taylor trẻ trung và tươi mới hơn, trong khi Dallas bắt đầu cảm thấy mình đã hết thời. Anh ta không thể để gã đàn ông trẻ tuổi này hủy hoại sự nghiệp của mình được. Nếu Taylor có lượng người hâm mộ đủ mạnh, họ có thể gạt Dallas khỏi chương trình để nhường toàn bộ ánh hào quang cho Taylor. Dallas hoàn toàn không hề an toàn, dù anh ta là nhân vật chính. Ngay cả một nhân vật chính cũng có thể bị cho “bay màu” bất cứ lúc nào.
+Rời xa con gái, PJ đi một vòng quanh bảo tàng túi xách, ôm chú mèo trên tay. Người phụ nữ ở quầy tiếp tân nói rằng mang mèo vào thì hoàn toàn được, miễn là chú mèo phải được xích lại. PJ vốn chuẩn bị tâm lý là sẽ thấy chán ngắt khi ở trong bảo tàng, nhưng những chiếc ví được phân chia theo từng thập kỷ, và tim ông như thắt lại khi nhìn thấy khu trưng bày ví từ những năm 1950. Ông có thể hình dung ra cảnh mẹ mình đang xách một chiếc như thế. Chiếc ví bằng vải nhung màu tím với chiếc khóa bằng bạc. Mẹ của PJ đã qua đời được mười năm rồi, và bà vẫn thỉnh thoảng xuất hiện trong tâm trí ông, hoàn toàn sống động. Ông nghĩ về việc bà sẽ tự hào biết bao về ông, vì đã đi du lịch khắp đất nước giống như bà từng làm. Vì cuối cùng cũng nhận ra rằng thế giới này rộng lớn hơn Pondville rất nhiều. Tất cả những câu chuyện tuyệt diệu mà mẹ thường kể cho ông nghe về những chuyến đi của bà vào giờ đi ngủ, khi hai mẹ con cuộn tròn bên chú chó Arthur thuộc giống Yorkshire lai của họ, và giờ đây chính ông cũng đã có những câu chuyện của riêng mình. Ông cảm thấy lòng biết ơn ngập tràn dành cho lũ trẻ, những đứa trẻ đã kéo ông ra khỏi ngôi nhà và đưa ông lên những cung đường.
 
-Dallas quyết định cũng cởi áo ra, và mặc dù anh ta lớn tuổi hơn Taylor gần một thập kỷ, anh ta vẫn là một cực phẩm nam nhi vô cùng hoàn hảo, với cơ bắp cuồn cuộn đến mức cơ bụng của anh ta dường như cũng có thêm những múi cơ nhỏ. Và chẳng mấy chốc Dallas đang thực hiện một màn múa khiêu khích trên đùi của một người phụ nữ trong khi những người phụ nữ khác dùng thanh thịt bò khô quất vào cơ bụng và mông của anh ta, anh ta cũng đã cởi cả quần dài ra, chỉ mặc mỗi chiếc quần đùi boxer hiệu Calvin Klein, và đám đông phụ nữ đang quất anh ta bằng những thanh thịt bò khô khắc chữ Tôi ♥ Mấy Anh Chàng Vạm Vỡ nằm trong túi quà chào mừng. Không khí trong lều đang trở nên vô cùng oi bức, và một người phụ nữ đã ngất xỉu vì sốc nhiệt, để rồi sẽ qua đời vào lúc họ đưa được cô đến bệnh viện.
+Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc chú cùng làm điều này với các cháu thật sự rất tuyệt vời. Chú sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”
 
-Nhưng hiện tại, mọi người đều đang có những giây phút vô cùng tuyệt vời, sự kiện Gặp gỡ Trai đẹp đang dần định hình để trở thành buổi họp mặt thành công nhất từ trước đến nay, và rồi T. Boone Pickens bước vào chiếc lều trắng. Con cá sấu đang tìm kiếm thứ gì đó để ăn nếu nó không thể xơi tái chú mèo, và nó đã ngửi thấy mùi của tất cả những thanh thịt bò khô. Nó bò vào giữa chiếc lều trắng giống như một vị khách dự đám cưới quá chén, há to miệng và thở dài một hơi, âm thanh phát ra nghe giống như luồng hỏa diệm sơn của một con rồng vậy.
+Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Chú từng đến Việt Nam mà. Và chú cũng bảo là chú từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.
 
-Trong khoảnh khắc, mọi thứ bỗng trở nên tĩnh lặng. Không ai có thể chạy trốn được nữa. Chỉ có một lối vào lều duy nhất, và con cá sấu đang đứng chình ình ngay giữa lối đó. Con cá sấu lại phát ra tiếng kêu xì xì.
+“Ừ, Bastrop. Nhưng chú bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”
 
-Mọi người bắt đầu chen chúc dồn vào góc phòng, la hét và hoảng loạn, và rồi một người phụ nữ mặc chiếc váy ngắn màu đỏ với đôi chân dài miên man như Tina Turner bước lên phía trước khiến tất cả mọi người lại im phăng phắc. Bài hát “Sex Bomb” của Tom Jones đang vang lên qua chiếc loa phát thanh.
+“Thế còn Việt Nam?”
 
-“Đó là Christine,” Luna thì thầm.
+“À, chú ở đó vỏn vẹn ba tuần trước khi bị bắn.”
 
-Christine Stackpole đang mang đôi giày cao gót tấc rưỡi. “Chào cưng,” cô nói với con cá sấu. “Đằng này.” Christine là người gốc Florida, từng là Hoa hậu Florida trước khi đăng quang Hoa hậu Mỹ, và cô chẳng sợ con cá sấu nào sất. Chúng là loài động vật lười biếng, chúng ăn lòng mề gà ở các trang trại cá sấu. Christine đã từng tham quan rất nhiều trang trại cá sấu, hồi còn là Hoa hậu Florida. Cô thấy con cá sấu này muốn gì liền bóc vài thanh thịt khô mà mấy người phụ nữ vừa dùng để quất vào cơ bụng và mông của Dallas Fieldstone rồi ném từng cái vào cái miệng đang há rộng của T. Boone Pickens. Con cá sấu lúc lắc cái đầu qua lại đầy thỏa mãn. Nó vốn chẳng muốn ăn thịt ai cả. Nó là một con cá sấu ở sân golf, gần như đã được thuần hóa. Nó chỉ muốn được cho ăn.
+“Chú bị bắn á? Có đau không ạ?”
 
-“Cô ấy có thể sẽ là mẹ kế của chúng ta đấy,” Luna nói với Ollie, huých nhẹ vào người em trai. “Cô ấy sẽ chăm sóc chúng ta thật chu đáo cho xem.” Sophie thoáng cảm thấy một nhói đau bất ngờ khi nghe lén được câu đó.
+“Đau như cha sinh mẹ đẻ.”
 
-Nhưng liệu bản thân cô có thực sự muốn cái công việc ấy không? Làm người chăm sóc hai đứa trẻ, lo lắng cho chúng suốt ngày, kể cho chúng nghe những câu chuyện không hồi kết, lái xe đưa đón chúng đi khắp nơi, chuẩn bị đồ ăn vặt liên tục, giải quyết rắc rối khi lũ trẻ khác đối xử tệ bạc với chúng, nói chuyện với hiệu trưởng mỗi khi Luna lại đấm ai đó, làm cơm trưa mỗi sáng và giúp chúng làm bài tập về nhà mỗi tối? Liệu Sophie có còn nhớ cách làm toán cơ bản không? Không, cô chẳng nhớ gì sất. Không, cảm ơn nhé. Chuyện đó sẽ hủy hoại đời cô mất.
+Sophie mắng: “Bố!” dù cô mới chính là người hay văng tục nhiều nhất.
 
-“Christine Stackpole tự dạy học cho con ở nhà đấy,” Luna nói khi họ nhìn cô ấy cho cá sấu ăn.
+Ollie hỏi: “Ai bắn chú thế? Kẻ địch à? Chú có bắn trả hắn không?”
 
-Ollie gật đầu, đầy vẻ nể phục. Có lẽ việc sống trong một cái tủ quần áo cũng chẳng có gì là tệ.
+“Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”
+
+Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì chú là một người theo chủ nghĩa hòa bình.”
+
+“À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”
+
+Luna ngạc nhiên hỏi: “Gì cơ? Thật ạ?”
+
+Ollie hỏi: “Ông nội chúng cháu á?”
+
+Sophie hỏi: “Bố có chắc về câu chuyện này không đấy?” Sophie không hề biết câu chuyện này, hoặc ít ra là không phải phiên bản mà ông sắp kể. Trong những phiên bản câu chuyện mà cô từng nghe, người bắn bố cô là một người bạn mắc bệnh tâm thần của ông, chứ không phải anh trai ông, bởi vì Sophie thậm chí còn chẳng hề biết về người bác của mình cho đến tận vài ngày trước. Chip Duggins, lão già điên sở hữu tiệm chơi bowling trước khi nó đóng cửa. Bác của cô. Người đàn ông vốn là ông nội của những đứa trẻ này. “Các cháu có chắc là mình muốn nghe chuyện này không đấy?”
+
+Luna đáp: “Cháu muốn chứ.” Đôi mắt cô bé sáng lấp lánh như mắt chuột hamster. “Cháu rất muốn biết tại sao ông nội lại bắn chú PJ.”
+
+Ollie đồng tình: “Cháu cũng muốn nghe nếu chị Luna muốn. Và đừng lo, Sophie. Bọn cháu vốn biết ổng điên từ lâu rồi mà. Bọn cháu từng sống chung với ổng cơ mà.”
+
+Sophie nhún vai. Cô đã cố gắng cảnh báo rồi đấy chứ.
+
+PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai chú là Chip, lớn hơn chú mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được chú ở căng tin rồi bảo chú chạy đi. Cậu ta bắn thẳng hai phát vào mông chú lúc chú vừa cắm cổ chạy. Khi chú ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, chú cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng chú lại bảo chú xin lỗi, rằng chú rất yêu quý anh ấy, và chú tiếc vì bọn chú không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”
+
+“Thế rồi ông ấy làm gì ạ?”
+
+“Cậu ta quay lưng bỏ đi.”
+
+“Sao ông ấy lại bắn chú thế ạ?”
+
+“Chip căm ghét chú suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu chú, đổ lỗi cho chú vì mẹ đã nuôi dưỡng chú sau khi bỏ rơi cậu ta. Chú vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng chú ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả chú và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn chú, cậu ta liền ra tay.”
+
+“Họ có tống cổ ông ấy vào tù không ạ?”
+
+“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”
+
+Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả chú nữa chứ!”
+
+“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”
+
+Luna nhớ lại câu chuyện đó. Ông nội đã kể cho cô bé nghe rồi. Chuyện ông đã châm lửa đốt trụi một ngôi nhà mà người mẹ ruột vẫn còn đang kẹt bên trong. Chuyện ông chẳng hề cảm thấy hối hận chút nào. Chuyện ông không một chút ăn năn. Ông đã kể câu chuyện đó cho Luna nghe vài lần, ngay sau những giờ tan học. Và rồi ông sẽ bật một bộ phim chiến tranh lên xem, thể loại phim có ngập tràn những màn cháy nổ tưng bừng. Ông cực kỳ mê phim chiến tranh có nhiều cảnh nổ tung trời.
+
+“Mẹ chú trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”
+
+Sophie hỏi: “Hóa ra đó là kẻ đã gây ra vụ hỏa hoạn ư?” Từ trước đến nay cô vẫn luôn nghe kể đó là người thuê nhà của bà ngoại, một kẻ thuê trọ một căn phòng. Cô đã bị lừa dối suốt cả cuộc đời về nguyên nhân thực sự khiến bà ngoại trở thành nạn nhân của vụ bỏng khủng khiếp ấy.
+
+“Chuẩn rồi con,” PJ xác nhận.
+
+Luna lẩm bẩm: “Cháu ước gì chú bắn trả lại hắn. Ngay ở căng tin ấy.”
+
+“Ừ, nhóc con. Lắm lúc chú cũng ước mình làm thế.”
+
+Ollie hỏi tiếp: “Rồi chú cũng quay lại Pondville sau chiến tranh nữa ạ? Và chú chưa từng rời đi lần nào nữa sao?”
+
+“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng chú tự hứa với lòng mình sẽ không bao giờ ly hôn. Chú sẽ không bao giờ bỏ rơi các con của mình.”
+
+Ollie vặn lại: “Nhưng chú đã ly hôn còn gì.”
+
+“Đâu phải do chú chọn.”
+
+Sophie cảm thấy bực dọc vô cùng. “Bố, bố thực sự không thể cứ ăn nói như thể lỗi ly hôn hoàn toàn thuộc về mẹ được...”
+
+“Bố có nói là bố đổ lỗi cho mẹ con vì chuyện bỏ đi đâu. Đổi lại là bố thì bố cũng chuồn ngay từ lâu rồi. Nhưng bố chưa bao giờ muốn ly hôn cả. Bố sẽ yêu bà ấy đến tận hơi thở cuối cùng.”
+
+Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì chú đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”
+
+PJ đáp: “Cháu nói chuẩn đấy. Chú đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”
+
+“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”
+
+“Đúng thế, chính xác là thế đấy Ollie, chuẩn không cần chỉnh.”
+
+Sophie lầm bầm: “Lạy hồn tha cho con mệt quá.”
+
+“Gì thế con?”
+
+Sophie bùng nổ. “ Mẹ mới là điều tuyệt vời nhất từng bước chân vào cuộc đời bố. Mẹ ly hôn với bố vì bà buộc phải làm thế, vì bà cần phải chăm sóc con và bởi vì bố đang bức tử tinh thần bà, nhưng ngay cả sau chuyện đó, bà vẫn ở bên làm bạn với bố mặc dù bố đúng là một tên đần độn khốn khiếp. Mẹ pha cà phê bữa sáng cho bố mỗi ngày. Đi chợ mua sắm giùm bố. Cắt dán từng mẩu báo khỉ gió cho bố. Mẹ lo toan hết thảy mọi thứ trên đời.”
+
+“Sophie, bố thừa biết điều đó chứ. Con tưởng bố không nhận ra chắc? Nhưng mà Sophie này, mẹ con sắp sửa tái hôn rồi đấy. Lại còn lấy bạn thân nhất của bố nữa chứ. Giờ con muốn bố phải làm sao hả? Ngồi ì một đống trên mông rồi chờ chết chắc?”
+
+“Vâng.”
+
+“Ồ.” PJ im bặt đi mất một phút. Ông đan chặt hai tay vào nhau trông như đang thành tâm cầu nguyện.
+
+“Con không có ý đấy.”
+
+Ông chẳng thèm đáp lại cô.
+
+“Ý con chỉ là… ý con là con nghĩ bố nên biết trân trọng mẹ và tất cả những gì mẹ đã làm vì bố. Điều đó đồng nghĩa với việc đừng bao giờ thốt lên rằng một người phụ nữ khác mới là điều tuyệt vời nhất từng xảy ra với cuộc đời bố nữa.”
+
+“Được rồi. Tùy con. Bố sẽ không nói thế nữa.”
+
+Ollie chêm vào: “Nhưng biết đâu điều đó là thật thì sao ạ.”
+
+Sophie quát: “Câm mồm đi Ollie,” và lập tức cảm thấy hối hận ngay khoảnh khắc đó. Cô dịu giọng: “Chị xin lỗi Ollie nhé. Chị không cố ý. Chị đang nổi khùng với ông ấy, chứ có phải với em đâu.”
+
+Ollie lẩm bẩm: “Em không sao. Em quan tâm làm gì.”
+
+PJ lên tiếng: “Chị ấy không có ý đó đâu nhóc con. Cứ nói thoải mái đi cháu. Trẻ con là phải được nhìn thấy và được lắng nghe, nhân viên công tác xã hội đã dạy thế mà.”
+
+Ollie nói: “Cháu bảo không sao cơ mà. Để yên cho cháu.” Chú mèo thong thả bước ngang qua băng ghế sau rồi định trèo lên đùi Ollie, nhưng Ollie liền đẩy Pancakes ra.
+
+Bọn họ cứ thế lái xe trong sự im lặng suốt một hồi lâu. Sophie cảm thấy áy náy khôn tả.
+
+Đi thêm được vài dặm đường nữa, Luna chồm người lên trước. “Này Sophie?”
+
+“Gì thế?” Sophie chờ đợi Luna quát mắng vì dám đối xử thô lỗ với em trai. Cô chờ đợi Luna rút kéo ra.
+
+Nhưng Luna chẳng nói gì về chuyện Sophie bảo Ollie ngậm miệng lại. Luna vẫn hay bảo Ollie ngậm miệng suốt ngày. “Em mua quà cho chị đấy,” cô bé đáp thay vào đó. “Chú PJ mua bánh beignet rồi, nên em nghĩ chị cũng cần được tặng gì đó.”
+
+Sophie thở dài. “Em ăn trộm cái gì thế?”
+
+“Em có ăn trộm đâu, em mua mà.” Luna chìa thứ gì đó về phía trước. Sophie vẫn đặt một tay lên vô lăng và dùng tay còn lại nhận lấy món quà từ Luna. Cô liếc xuống, chà, nó lấp lánh làm sao! Đó là một chiếc ví; món đồ mà cô từng trầm trồ khiêm tốn ngắm nghía trong viện bảo tàng. Họ có bán bản sao của nó ở cửa hàng lưu niệm. Đó là chiếc ví hình quả dứa đính đá lấp lánh. Quai đeo là một sợi dây xích vàng mảnh mai.
+
+Sophie có nằm mơ cũng đời nào tự mua chiếc ví này cho mình, nhưng giờ khi đã cầm nó trong tay, mọi thứ thật hoàn hảo. Đúng thế thật. “Chị rất thích, Luna,” cô nói. “Chị thực sự, thực sự rất thích. Cảm ơn em.”
+
+“Bà cô trong cửa hàng bảo rằng quả dứa là biểu tượng cho mái nhà,” Luna giải thích. “Em muốn cảm ơn chị vì đã đưa em về nhà. Về nhà với bố ruột của em, nơi em cuối cùng cũng sẽ được hạnh phúc, tất cả là nhờ chị.”
+
+Ôi không, Sophie thầm nghĩ. Cô bé sắp bị tổn thương tâm can rồi đây. Người đàn ông mà họ sắp gặp ở Texas sẽ làm trái tim cô bé tan nát. Sophie không rõ chính xác cách ông ta làm điều đó thế nào, nhưng cô biết chắc ông ta sẽ làm vậy.
+
+“Cháu mua bằng thẻ tín dụng à?” PJ hỏi. “Nó bao nhiêu tiền thế?”
+
+“Hai nghìn đô la,” Luna tự hào đáp. “Bà bán hàng bảo mấy hạt pha lê này là thật đấy.”
+
+“Lạy Chúa,” PJ thốt lên, rồi ôm mặt cười nấc lên trước khi ngẩng đầu nhìn lên lần nữa. “Này Sophie-Soo, con không thể nói là bố chưa từng tặng con thứ gì đâu nhé.”
+
+“Đó là quà từ Luna,” Sophie gắt lên. Cô có thể nhìn thấy chiếc mác giá vẫn còn treo lủng lẳng trên dây xích. Cô bé không hề nói dối. Đó là một chiếc ví hình quả dứa trị giá 2.000 đô la.

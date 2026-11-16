@@ -1,186 +1,336 @@
-*Phần II: Rời Pondville • Ngày 3 (Thứ Năm)*
+*Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư*
 
-# Chương 29
+# Chương 24
 
-<p class="para-en">For the first night of the trip, the kids would have to share a bed, since there was only one room. Luna made Ollie promise he wouldn’t pee in it, and he blushed and said that had been only once.</p>
-<p class="para-vi-sub">Đêm đầu tiên của chuyến đi, lũ trẻ phải ngủ chung một giường vì chỉ có một phòng duy nhất. Luna bắt Ollie thề là cậu bé không được đái dầm lên giường, rồi cậu bé đỏ bừng mặt và đáp rằng chuyện đó chỉ xảy ra có một lần.</p>
+<p class="para-en">They checked in to a Days Inn in Hellsgate, Kentucky, where PJ insisted on stopping because of the name. “The gates of hell!” he said. “Sophie, your mother has been trying to get me to come here for years!”</p>
+<p class="para-vi-sub">Họ nhận phòng tại một khách sạn Days Inn ở Hellsgate, bang Kentucky, nơi PJ khăng khăng muốn dừng chân chỉ vì cái tên của nó. “Cổng địa ngục!” ông nói. “Sophie, mẹ con đã cố nài nỉ bố đến đây từ nhiều năm nay rồi!”</p>
 
-<p class="para-en">“No shame in pissing the bed,” PJ said. “Done it many times.”</p>
-<p class="para-vi-sub">“Có gì mà phải xấu hổ chuyện đái dầm,” PJ bảo. “Bố đái dầm bao nhiêu lần rồi còn gì.”</p>
+<p class="para-en">“Very funny, Dad.”</p>
+<p class="para-vi-sub">“Thật là buồn cười quá, bố.”</p>
 
-<p class="para-en">“Gross, Dad,” Sophie said, even though she knew it was true.</p>
-<p class="para-vi-sub">“Kinh quá, bố,” Sophie nói, dù cô thừa biết đó là sự thật.</p>
+<p class="para-en">“I thought so.”</p>
+<p class="para-vi-sub">“Bố thấy thế.”</p>
 
-<p class="para-en">“Are you going for a run?” he asked her.</p>
-<p class="para-vi-sub">“Con có đi chạy không đấy?” PJ hỏi cô.</p>
+<p class="para-en">As the kids were getting ready for bed, Sophie announced she was going out for a run. They’d had McDonald’s for dinner, because Ollie begged for it. He said that he liked McDonald’s because it was the same everywhere. Pancakes had been fed several bites of hamburger, and he agreed with Ollie, they should go to that restaurant every day. But Sophie’s Big Mac was sitting in her stomach like a rock.</p>
+<p class="para-vi-sub">Khi lũ trẻ đang chuẩn bị đi ngủ, Sophie thông báo rằng cô sẽ ra ngoài chạy bộ. Buổi tối họ đã ăn McDonald’s, vì Ollie cứ nài nỉ đòi ăn. Cậu bé nói rằng thích McDonald’s vì ở đâu cũng giống hệt nhau. Chú mèo Pancakes đã được cho ăn vài miếng bánh mì kẹp thịt, và Pancakes đồng tình với Ollie rằng họ nên đến nhà hàng đó mỗi ngày. Nhưng chiếc bánh Big Mac của Sophie thì cứ nằm nghẹn trong dạ dày cô như một hòn đá.</p>
 
-<p class="para-en">“No,” she said. “Day off.”</p>
-<p class="para-vi-sub">“Không,” cô đáp. “Ngày nghỉ mà.”</p>
+<p class="para-en">“You’re going for a run? It’s nine p.m. ,” her dad pointed out, as if Sophie couldn’t read the time. Sophie told him she had a headlamp, and she did it often, went running at night. She told him he was going to stay with the kids in the hotel and not to leave under any circumstances.</p>
+<p class="para-vi-sub">“Con định đi chạy à? Đã chín giờ tối rồi đấy,” bố cô nhắc nhở, cứ làm như Sophie không biết đọc giờ vậy. Sophie bảo ông rằng cô có đèn đội đầu, và cô vẫn thường xuyên làm thế, đi chạy vào ban đêm. Cô dặn ông là phải ở lại khách sạn với lũ trẻ và tuyệt đối không được đi đâu dưới bất kỳ hoàn cảnh nào.</p>
 
-<p class="para-en">Her dad nodded. “Good to give yourself time to recover,” he said, as if he knew something about what happened last night. But he just meant that muscles need time to rest.</p>
-<p class="para-vi-sub">Bố cô gật đầu. “Cũng tốt khi cho bản thân thời gian hồi phục,” ông nói, cứ như thể ông biết chút gì về những gì đã xảy ra tối qua. Nhưng ý ông chỉ là cơ bắp cần thời gian nghỉ ngơi.</p>
+<p class="para-en">“Got it. Call me if you get lost or mugged,” he said, as if he were the adult here. And what number would she call anyway—he didn’t have a cell phone. Fred and her mother didn’t think it was a good idea, said PJ would only pick up more phone calls from strangers asking for money. Fred and her mother infantilized him. They didn’t even let him have a computer in his own house, they said he had to come over and use Fred’s. They didn’t want him to get scammed.</p>
+<p class="para-vi-sub">“Biết rồi. Gọi cho bố nếu con bị lạc hoặc bị cướp nhé,” ông nói, cứ như thể ông mới là người lớn ở đây vậy. Mà rốt cuộc thì cô sẽ gọi vào số nào cơ chứ, ông có điện thoại di động đâu. Fred và mẹ cô không cho rằng đó là một ý hay, họ bảo PJ sẽ chỉ rước thêm mấy cuộc gọi đòi tiền từ những kẻ xa lạ mà thôi. Fred và mẹ cô đối xử với ông như một đứa trẻ. Họ thậm chí còn không cho phép ông có máy tính trong chính ngôi nhà của mình, họ bảo ông phải sang nhà Fred để dùng nhờ. Họ không muốn ông bị lừa đảo.</p>
 
-<p class="para-en">“We’ll need a bedtime story, Uncle PJ,” Luna said. “A good one. Another one about high school. About Michelle Cobb.”</p>
-<p class="para-vi-sub">“Chú PJ phải kể chuyện trước khi ngủ chứ ạ,” Luna nói. “Một câu chuyện hay cơ. Chuyện khác về hồi cấp ba ấy. Về Michelle Cobb.”</p>
+<p class="para-en">Sophie went out and let the Days Inn door close behind her, heard the satisfying click of the automatic lock. She was alone with the night, and her feet on the pavement. She put in her headphones, put on her sad music, and started to run. The first mile was always her hardest, but she got into the flow after that. She liked to run seven miles. Seven always seemed the most perfect number to her.</p>
+<p class="para-vi-sub">Sophie bước ra ngoài và để cánh cửa khách sạn Days Inn tự khép lại sau lưng, nghe thấy tiếng khóa tự động kêu cách một cái rất vừa tai. Cô chỉ còn lại một mình với màn đêm và đôi giày thể thao trên mặt đường nhựa. Cô nhét tai nghe vào tai, bật những bản nhạc buồn của mình lên và bắt đầu chạy. Dặm đường đầu tiên luôn là chặng khó khăn nhất đối với cô, nhưng sau đó cô đã bắt nhịp được với guồng quay. Cô thích chạy bảy dặm. Con số bảy luôn có vẻ là con số hoàn hảo nhất đối với cô.</p>
 
-<p class="para-en">PJ didn’t have any more stories about Michelle Cobb. He’d gone away to Vietnam, and she’d left town with Gene and he’d never seen her again. The only contact he’d had with Michelle in the past forty-five years was right after Kate died; she and Gene had sent flowers to the funeral home. PJ had been deeply touched, had wondered how they had heard about Kate’s death all the way out west. “How about instead I’ll tell you a story about when my kids were kids,” PJ offered. “I’ll tell you a story about my daughter Kate.”</p>
-<p class="para-vi-sub">PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó chú sẽ kể cho các cháu nghe một câu chuyện về hồi các con của chú còn nhỏ nhé,” PJ đề nghị. “Chú sẽ kể cho các cháu nghe về con gái Kate của chú.”</p>
+<p class="para-en">Hellsgate was a small city, no big buildings, but residential streets mixed with commercial ones. There was a Kroger supermarket, a brew pub. Many of the homes were ranch-style, red brick. She used the running app on her phone to map out a loop around the city.</p>
+<p class="para-vi-sub">Hellsgate là một thành phố nhỏ, không có những tòa nhà lớn, nhưng các con phố dân cư xen lẫn với các khu thương mại. Có một siêu thị Kroger, một quán bia thủ công. Nhiều ngôi nhà mang kiến trúc theo kiểu trang trại với gạch đỏ. Cô sử dụng ứng dụng chạy bộ trên điện thoại để vạch ra một cung đường chạy vòng quanh thành phố.</p>
 
-<p class="para-en">“Kate is Sophie’s dead sister? Your daughter who drowned?”</p>
-<p class="para-vi-sub">“Kate là người chị đã mất của Sophie á? Con gái của chú mà bị chết đuối ấy ạ?”</p>
+<p class="para-en">As she ran, Sophie thought about her mom and Fred. If it had been worth it to go to Alaska. Her mom had sent her a few pictures, but not much else, and Fred had said so many times not to call, because he was afraid Sophie would tell her mom that she had lost her job and that would ruin her mom’s ability to relax. Sophie wondered what they were doing now. She kept running, before the sadness engulfed her. It hurt that Fred and her mom had left her behind. They were cutting her out.</p>
+<p class="para-vi-sub">Trong lúc chạy, Sophie nghĩ về mẹ và Fred. Liệu chuyến đi đến Alaska có thực sự đáng giá không. Mẹ cô đã gửi cho cô một vài bức ảnh, nhưng chẳng có gì nhiều hơn thế, và Fred đã dặn đi dặn lại rất nhiều lần là đừng gọi điện, vì anh sợ Sophie sẽ kể với mẹ rằng anh đã mất việc và điều đó sẽ làm hỏng khả năng thư giãn của mẹ cô. Sophie tự hỏi bây giờ họ đang làm gì. Cô tiếp tục chạy trước khi nỗi buồn nhấn chìm bản thân. Thật tổn thương khi Fred và mẹ đã bỏ rơi cô lại phía sau. Họ đang loại cô ra khỏi cuộc sống của họ.</p>
 
-<p class="para-en">“Yup. Kate is the dead sister.”</p>
-<p class="para-vi-sub">“Ừ. Kate là người chị đã mất.”</p>
+<p class="para-en">At mile three, Sophie ran by a place called Heaven for Dummies. She didn’t like to stop that early in the run, but curiosity took over and she had to stop to read the sign. Heaven for Dummies, it turned out, was a ventriloquist museum, with thousands of puppets inside. A small sign said that dummies are what ventriloquists call their puppets, because the ventriloquist is the one who gives a puppet its brain. One of the dummies was sitting on a chair in the window, brainless but still smiling with its rows of square teeth. Sophie felt a chill, and she swore the puppet’s eyes followed her as she ran off.</p>
+<p class="para-vi-sub">Đến dặm thứ ba, Sophie chạy ngang qua một nơi mang tên Bảo tàng Rối nói tiếng bụng ‘Heaven for Dummies’. Cô vốn không thích dừng lại sớm như vậy trong buổi chạy, nhưng sự tò mò đã chiếm lấy cô và cô buộc phải dừng lại để đọc tấm biển. Heaven for Dummies hóa ra lại là một bảo tàng nghệ thuật múa rối, với hàng ngàn con rối bên trong. Một tấm biển nhỏ ghi rằng “kẻ ngốc” (dummy) là từ mà những nghệ sĩ múa rối dùng để gọi những con rối của họ, bởi vì nghệ sĩ múa rối mới chính là người ban cho con rối bộ não của nó. Một trong những con rối đang ngồi trên chiếc ghế bên cửa sổ, không có bộ não nhưng vẫn mỉm cười với hàng răng vuông vức. Sophie cảm thấy lạnh sống lưng, và cô thề là ánh mắt của con rối đó đã dõi theo cô khi cô chạy đi.</p>
 
-<p class="para-en">“Great. I want to know about her.”</p>
-<p class="para-vi-sub">“Tuyệt vời. Cháu muốn nghe về chị ấy.”</p>
+<p class="para-en">She ran faster.</p>
+<p class="para-vi-sub">Cô chạy nhanh hơn.</p>
 
-<p class="para-en">“Me too,” Ollie agreed.</p>
-<p class="para-vi-sub">“Cháu cũng thế,” Ollie hùa theo.</p>
+<p class="para-en">She ran by Mount Olive Elementary school. In the fall, Ollie and Luna would have to go back to a school like that one and the teacher would ask them what they’d done over the summer. They would probably have to write a whole report on this road trip. Sophie had to do that on the first day of sixth grade after her sister died, talk about the summer, because that’s what everyone did on the first day of school. Sophie had been sent to the principal after she said she’d seen a dead body for the first time and that it was totally unforgettable, the way the other kids had described their sleepover camp. The teacher accused Sophie of disrupting the class.</p>
+<p class="para-vi-sub">Cô chạy qua trường tiểu học Mount Olive. Vào mùa thu, Ollie và Luna sẽ phải quay lại một ngôi trường giống như thế và giáo viên sẽ hỏi chúng đã làm những gì trong suốt kỳ nghỉ hè. Chắc chắn chúng sẽ phải viết cả một bài báo cáo về chuyến đi đường dài này. Sophie đã từng phải làm điều đó vào ngày đầu tiên của năm lớp sáu sau khi em gái cô qua đời, phải nói về mùa hè, bởi vì đó là những gì mà tất cả mọi người đều làm vào ngày đầu tiên đi học. Sophie đã bị đuổi đến phòng hiệu trưởng sau khi cô nói rằng cô đã nhìn thấy một cái xác chết lần đầu tiên và rằng nó hoàn toàn khó quên, giống như cách mà những đứa trẻ khác miêu tả về trại hè ngủ lại của chúng vậy. Giáo viên đã cáo buộc Sophie làm rối loạn lớp học.</p>
 
-<p class="para-en">Sophie didn’t know if her dead sister made for a good bedtime story, but Sophie did like to hear stories about Kate, and she rarely did. Her mom kept her memories of Kate locked away like the boxes of news clippings she kept in Fred’s office. Her mother didn’t even hang any old pictures of Kate on Fred’s walls when she redecorated his house. Sophie would have thought it would be good to remember.</p>
-<p class="para-vi-sub">Sophie không biết liệu người chị đã khuất của mình có thích hợp để làm một câu chuyện trước khi ngủ hay không, nhưng Sophie lại rất thích nghe những câu chuyện về Kate, và cô rất hiếm khi được nghe. Mẹ cô cất kỹ những ký ức về Kate như thể những hộp đựng bài báo cắt dán mà mẹ cất trong phòng làm việc của Fred. Mẹ thậm chí còn chẳng thèm treo bất kỳ bức ảnh cũ nào của Kate lên tường nhà Fred khi bà trang trí lại ngôi nhà. Sophie từng nghĩ việc nhớ về chị là một điều tốt.</p>
+<p class="para-en">“She was being sarcastic,” her mom had said to the principal. “The kid is in pain. ”</p>
+<p class="para-vi-sub">“Con bé đang mỉa mai thôi,” Ivy đã nói với hiệu trưởng như vậy. “Đứa trẻ đang rất đau khổ. ”</p>
 
-<p class="para-en">Sophie remembered Kate only in flashes, brief scenes of childhood. There were times Kate paid a lot of attention to her, like when they were on family vacations or home on Saturday mornings, but there were many more times when Kate told Sophie to buzz off, to stop spying on her and her friends. And Sophie had loved spying on Kate and her friends.</p>
-<p class="para-vi-sub">Sophie chỉ nhớ về Kate qua những khoảnh khắc chớp nhoáng, những cảnh tượng ngắn ngủi thời thơ ấu. Có những lúc Kate rất quan tâm đến cô, chẳng hạn như khi họ đi nghỉ mát cùng gia đình hoặc ở nhà vào những sáng thứ Bảy, nhưng có vô số lần Kate bảo Sophie cút đi, đừng có mà theo dõi cô và bạn bè của cô nữa. Và Sophie thì lại cực kỳ thích theo dõi Kate cùng hội bạn.</p>
+<p class="para-en">Her dad had joined them in the principal’s office then, still in his postal-worker uniform and obviously drunk, and the principal had asked them all to leave. It was the only time Sophie could remember that her dad’s drinking had helped her. She didn’t have to stay in the principal’s office and got to go home instead.</p>
+<p class="para-vi-sub">PJ đã nhập cục với họ trong phòng hiệu trưởng khi ấy, vẫn mặc bộ đồng phục nhân viên bưu điện và rõ ràng là đang say rượu, và thầy hiệu trưởng đã yêu cầu tất cả bọn họ rời đi. Đó là lần duy nhất mà Sophie có thể nhớ được rằng việc uống rượu của bố đã giúp ích cho cô. Cô không phải ở lại phòng hiệu trưởng mà được đi về nhà thay vào đó.</p>
 
-<p class="para-en">“What are you doing up here?” Sophie had asked once, climbing up after Kate and two other girls into the treehouse. Kate was already eighteen, much too old to use the treehouse. “Are you smoking cigarettes?” Sophie asked. She knew cigarettes killed you. She had learned that in school.</p>
-<p class="para-vi-sub">“Chị đang làm gì ở trên này thế?” Sophie từng hỏi một lần, trèo lên nhà trên cây theo sau Kate và hai cô gái khác. Kate khi ấy đã mười tám tuổi, quá lớn để chơi nhà trên cây rồi. “Chị đang hút thuốc lá à?” Sophie hỏi. Cô biết thuốc lá sẽ làm người ta chết. Cô đã được học điều đó ở trường.</p>
+<p class="para-en">Sophie’s heart ached for Ollie and Luna, for what they would go through when they went back to school. She hoped someone could help them. Children go through lots of pain when they’re at school, and often no one helps them.</p>
+<p class="para-vi-sub">Trái tim Sophie quặn thắt vì Ollie và Luna, vì những gì chúng sẽ phải trải qua khi quay trở lại trường học. Cô hy vọng sẽ có ai đó giúp đỡ chúng. Trẻ con phải trải qua rất nhiều nỗi đau khi chúng ở trường, và thường thì chẳng có ai giúp đỡ chúng cả.</p>
 
-<p class="para-en">“Not cigarettes,” Kate had said with a smile. “Come over here and I’ll share some.”</p>
-<p class="para-vi-sub">“Không phải thuốc lá,” Kate mỉm cười đáp. “Lại đây tao chia cho ít.”</p>
+<p class="para-en">Sophie ran by the national cemetery, rows and rows of white stones with little white crosses on them, all the same. The soldiers in uniform, even in death. Kate was buried in the Pickens Cemetery in Pondville. Beloved daughter, sister, and friend, the stone said. Her parents had already bought the two plots next to her so they could be with Kate forever. They hadn’t gotten Sophie one, and when she asked her mother about it, her mom told her not to be morbid.</p>
+<p class="para-vi-sub">Sophie chạy qua nghĩa trang quốc gia, những hàng đá trắng tăm tắp với những cây thánh giá nhỏ màu trắng trên đó, tất cả đều giống hệt nhau. Những người lính trong bộ đồng phục, ngay cả trong cái chết. Kate được chôn cất tại Nghĩa trang Pickens ở Pondville. Người con gái, người chị và người bạn vô cùng yêu quý, tấm bia khắc dòng chữ đó. Bố mẹ cô đã mua sẵn hai phần mộ bên cạnh phần mộ của con bé để họ có thể ở bên Kate mãi mãi. Họ đã không mua cho Sophie một phần mộ nào, và khi cô hỏi mẹ về điều đó, bà đã bảo cô đừng có mà suy nghĩ u ám như thế.</p>
 
-<p class="para-en">And Sophie, because she was eleven and worshipped her big sister, stood there as Kate and her friends Lauren and Hannah took turns blowing smoke in her face. Sophie tried not to cough. “If you tell Mom and Dad, I’ll kill you,” Kate said when they were done. “Now you’re a woman.”</p>
-<p class="para-vi-sub">Và Sophie, vì khi ấy mới mười một tuổi và tôn sùng người chị cả hết mực, đã đứng im ở đó khi Kate cùng hai người bạn Lauren và Hannah thay phiên nhau thổi khói thuốc vào mặt cô. Sophie cố gắng không ho. “Mày mà đi mách bố mẹ là tao giết,” Kate dặn sau khi họ xong việc. “Giờ thì mày đã là phụ nữ rồi đấy.”</p>
+<p class="para-en">Sophie ran by the library. She ran by a large fountain, a Smoothie King, a bank. It was nice to run somewhere she hadn’t run before; she had been running the same routes for so many years.</p>
+<p class="para-vi-sub">Sophie chạy ngang qua thư viện, một đài phun nước lớn, một cửa hàng Smoothie King rồi một ngân hàng. Thật tuyệt khi được chạy ở một nơi mà cô chưa từng chạy trước đây; cô đã gắn bó với những lộ trình quen thuộc ấy trong từng ấy năm.</p>
 
-<p class="para-en">“Now I’m a woman,” Sophie repeated, and then Kate told her to scram. Sophie had gone inside and watched cartoons and it was the best television she’d ever seen. It was a happy memory for Sophie, and it took her a long time to see how fucked up that was. But siblings did fucked-up things to each other, didn’t they? It was part of the rules. It was why kids with siblings were lucky. They made you tough against the rest of the world.</p>
-<p class="para-vi-sub">“Giờ mình đã là phụ nữ,” Sophie lẩm bẩm nhắc lại, rồi Kate bảo cô biến đi. Sophie đã đi vào nhà xem hoạt hình và đó là chương trình truyền hình tuyệt vời nhất mà cô từng được xem. Đó là một kỷ niệm vui đối với Sophie, và cô phải mất một thời gian dài mới nhận ra chuyện đó quái đản thế nào. Nhưng anh chị em ruột thì vẫn hay làm những trò quái đản với nhau đấy thôi, phải không nào? Đó là một phần của luật lệ. Đó là lý do tại sao những đứa trẻ có anh chị em ruột lại rất may mắn. Họ rèn luyện cho bạn sự cứng cỏi để đối mặt với phần còn lại của thế giới.</p>
+<p class="para-en">Mile six, almost done with the run, finishing her loop back toward the Days Inn, she ran by a pet shop. There were puppies in the side window, all asleep, but in the center window, a red parrot stared out at her. The bird was in a large cage, some kind of macaw. She stopped to admire him. She thought about breaking the glass and setting him free. She didn’t think a pet shop was anyplace for a parrot, although neither were the streets of this small city in Kentucky, so setting him free wouldn’t do him much good. Sophie didn’t want a parrot as a pet. The bird whistled. One of the windows was open a crack, so she could hear him through the glass. He whistled again, like he was catcalling her.</p>
+<p class="para-vi-sub">Dặm thứ sáu, chặng chạy sắp kết thúc, hoàn thành vòng quay trở lại hướng khách sạn Days Inn, cô chạy qua một cửa hàng thú cưng. Có những chú chó con ở ô cửa kính bên cạnh, tất cả đều đang ngủ, nhưng ở ô cửa chính giữa, một con vẹt đỏ đang nhìn chằm chằm ra về phía cô. Con chim nằm trong một cái lồng lớn, một loại vẹt đuôi dài nào đó. Cô dừng lại để ngắm nó. Cô đã nghĩ đến việc đập vỡ kính và thả nó ra. Cô không nghĩ cửa hàng thú cưng là nơi dành cho một con vẹt, mặc dù đường phố của thành phố nhỏ ở Kentucky này cũng chẳng phải vậy, thế nên việc thả nó đi cũng chẳng ích gì cho nó lắm. Sophie không hề muốn nuôi một con vẹt làm thú cưng. Con chim cất tiếng huýt gió. Một trong những ô cửa kính mở hé nên cô có thể nghe thấy tiếng nó xuyên qua lớp kính. Nó lại huýt gió, giống như đang trêu ghẹo cô vậy.</p>
 
-<p class="para-en">“I’ll tell you about the first time Kate died,” Sophie’s dad said to Ollie and Luna now, in the dingy room at the Golden Cherry. “And how she came back to life.”</p>
-<p class="para-vi-sub">“Chú sẽ kể cho các cháu nghe về lần đầu tiên Kate chết,” bố của Sophie giờ đây cất lời kể với Ollie và Luna, trong căn phòng tồi tàn ở nhà nghỉ Golden Cherry. “Và cách con bé sống lại như thế nào.”</p>
+<p class="para-en">“Hi, pretty bird,” Sophie said.</p>
+<p class="para-vi-sub">“Chào chú chim xinh đẹp,” Sophie nói.</p>
 
-<p class="para-en">“Is it true?” Ollie asked.</p>
-<p class="para-vi-sub">“Thật ạ?” Ollie hỏi.</p>
+<p class="para-en">“Pretty bird,” the bird repeated. When he opened his mouth, Sophie could see his tongue was black.</p>
+<p class="para-vi-sub">“Chim xinh đẹp,” con vẹt nhắc lại. Khi nó há mỏ ra, Sophie có thể thấy lưỡi nó có màu đen.</p>
 
-<p class="para-en">“Shut up and listen,” Luna scolded, and so Ollie did.</p>
-<p class="para-vi-sub">“Câm mồm vào mà nghe,” Luna mắng, thế là Ollie liền im bặt.</p>
+<p class="para-en">“Are you okay in there?” she asked. “Are you happy?”</p>
+<p class="para-vi-sub">“Mày ổn chứ hả?” cô hỏi. “Mày có vui không?”</p>
 
-<p class="para-en">The first time Kate died, she was twelve years old, about to be a seventh grader. It was late summer, and she was riding her bike down the street to Clear Pond to get an ice cream at the snack shack. Kate loved riding her bike. The bike was pink with a white seat, and Kate was wearing a red helmet over her blond hair; Ivy always insisted on a helmet. PJ was following Kate, on foot. He had never been the type of man to ride a bike. Sophie wasn’t with them, she was only five, and she was at home with Ivy, having a nap.</p>
-<p class="para-vi-sub">Lần đầu tiên Kate chết là khi cô bé lên mười hai tuổi, chuẩn bị bước vào lớp bảy. Đó là một buổi chiều muộn cuối hè, cô bé đang đạp xe dọc con đường đến hồ Clear Pond để mua một ly kem ở quán giải khát ven đường. Kate rất thích đạp xe. Chiếc xe đạp màu hồng với chiếc yên màu trắng, và Kate đội một chiếc mũ bảo hiểm màu đỏ trên mái tóc vàng; Ivy lúc nào cũng bắt cô bé phải đội mũ bảo hiểm. PJ đi bộ theo sau Kate. Ông chưa bao giờ là kiểu người thích đạp xe. Sophie không đi cùng hai cha con, con bé mới năm tuổi và đang ở nhà cùng Ivy để ngủ trưa.</p>
+<p class="para-en">“Are you happy?” the bird responded.</p>
+<p class="para-vi-sub">“Mày có vui không?” con vẹt đáp lại.</p>
 
-<p class="para-en">It might have all been a nice August night, ice cream on the beach with his daughter, but Mrs. DeAngelis was backing out of her driveway without looking, off to pick up her boys from summer football, and she backed right into Kate and her pink bicycle, sending Kate and her bike flying. She was in flight for several seconds before she fell splat on the pavement, three driveways down.</p>
-<p class="para-vi-sub">Đó lẽ ra đã là một đêm tháng Tám tuyệt vời, ăn kem trên bãi biển cùng con gái, nhưng bà DeAngelis lại cho xe lùi ra khỏi đường lái xe mà chẳng thèm quan sát để đi đón mấy cậu con trai đi tập bóng đá mùa hè, và bà đã tông thẳng vào Kate cùng chiếc xe đạp màu hồng, hất văng cả người lẫn xe bay lên không trung. Cô bé bay lơ lửng trên không trung vài giây trước khi rơi bịch xuống mặt đường, cách đó ba lối rẽ xe.</p>
+<p class="para-en">Sophie knew it would be stupid to answer the bird. It wouldn’t help anything. It didn’t even really help to talk to Blanche about not being happy in therapy; she certainly wasn’t going to say so to a bird.</p>
+<p class="para-vi-sub">Sophie biết rằng trả lời con chim là một hành động ngu ngốc. Nó chẳng giúp ích được gì cả. Việc nói chuyện với Blanche trong buổi trị liệu về việc bản thân không hạnh phúc vốn dĩ cũng chẳng giúp ích được bao nhiêu; cô chắc chắn sẽ không đời nào đi giãi bày điều đó với một con vẹt.</p>
 
-<p class="para-en">PJ ran to her, his baby, his first baby, limp as a doll on the pavement. He looked around her helmet for blood, but there was none. There was no blood, but he also couldn’t find a pulse, but maybe he wasn’t checking in the right spot. He felt on her wrist, and then back again on her neck. She was limp in his arms. He looked up into the bright, bright sun, a sun that was hotter than usual, and he begged it to take him instead.</p>
-<p class="para-vi-sub">PJ chạy lao về phía cô bé, đứa con gái cưng, đứa con đầu lòng của ông, mềm oặt như một con búp bê trên mặt đường nhựa. Ông tìm kiếm vết máu quanh chiếc mũ bảo hiểm của cô bé, nhưng chẳng có giọt máu nào cả. Chẳng có máu, nhưng ông cũng chẳng thể tìm thấy mạch đập của cô bé, hay là do ông đã đặt tay không đúng chỗ nhỉ. Ông sờ lên cổ tay cô bé, rồi lại rờ xuống cổ con bé. Cô bé mềm nhũn trong vòng tay ông. Ông ngước nhìn lên ánh mặt trời chói chang, chói chang vô cùng, một thứ ánh sáng rực rỡ hơn bất kỳ ngày nào, và ông cầu xin ánh mặt trời hãy mang mạng sống của ông đi thay cho con.</p>
+<p class="para-en">“I hope you kill yourself, you cocksucker,” the parrot said next. “That’ll be forty dollars.”</p>
+<p class="para-vi-sub">“Tao mong mày tự tử đi, đồ khốn nạn,” con vẹt tiếp lời. “Thế là hết bốn mươi đô.”</p>
 
-<p class="para-en">PJ’s eyes rolled back in his head, and he collapsed as if hit on the back of the head with a frying pan. He felt his face hit the concrete. It was his first heart attack. He had asked for it. He had wanted it to happen. He had willed it. The sun watched from above. She had a perfect view, no clouds out that day. The sky was robin’s-egg blue.</p>
-<p class="para-vi-sub">PJ đảo ngược mắt lên trán, rồi ngã quỵ xuống như thể vừa bị cái chảo rán giáng một cú vào gáy. PJ cảm thấy mặt mình đập thẳng xuống nền bê tông. Đó là cơn đau tim đầu tiên trong đời ông. Ông đã tự chuốc lấy nó. Ông muốn điều đó xảy ra. Ông đã dùng ý chí để ép nó xảy ra. Mặt trời quan sát từ trên cao. Cô có một góc nhìn hoàn hảo, hôm ấy không một bóng mây. Bầu trời xanh ngắt một màu trứng chim cổ tú.</p>
+<p class="para-en">Sophie burst into laughter. She wished she weren’t the only person to hear the bird say that. It was the type of thing that would have been better to share with someone.</p>
+<p class="para-vi-sub">Sophie phì cười. Cô ước gì mình không phải là người duy nhất nghe thấy con chim nói câu đó. Đó là kiểu chuyện mà chia sẻ với ai đó thì sẽ tuyệt hơn rất nhiều.</p>
 
-<p class="para-en">PJ woke up in the hospital; a defibrillator had brought him back. He immediately started calling for his daughter Kate, who was elsewhere, in the children’s wing. “The helmet saved her,” the doctors said, but PJ knew it was the deal he’d made, his soul for her soul, with the sun or God or the devil or the universe, someone had been listening.</p>
-<p class="para-vi-sub">PJ tỉnh dậy trong bệnh viện; một chiếc máy khử rung tim đã kéo ông về với cõi đời. PJ lập tức cất tiếng gọi con gái Kate, lúc ấy đang ở cánh nhà dành cho trẻ em. “Chiếc mũ bảo hiểm đã cứu con bé,” các bác sĩ nói, nhưng PJ thừa nhận đó là thỏa thuận mà ông đã thực hiện, đánh đổi linh hồn mình lấy linh hồn con bé, với mặt trời hoặc Chúa hay ác quỷ hoặc vũ trụ, ai đó đã lắng nghe.</p>
+<p class="para-en">Sophie walked away from the pet-shop window. She wasn’t going to free the parrot; there was no point in pretending. She hadn’t finished all seven miles, but she couldn’t keep running after what the bird had said. It had to be the end of the run. It was the perfect finish, and she had lost the flow anyway. So instead she ate two weed gummies she’d packed in her little runner’s belt, where she kept other things she needed for the run.</p>
+<p class="para-vi-sub">Sophie bước đi khỏi khung cửa sổ cửa hàng thú cưng. Cô sẽ không giải cứu con vẹt; chẳng có ích gì khi phải giả vờ nữa. Cô vẫn chưa hoàn thành đủ bảy dặm đường, nhưng cô không thể tiếp tục chạy sau những gì con vẹt vừa nói. Phải cho đây là điểm kết thúc của buổi chạy thôi. Đó là một cái kết hoàn hảo, và đằng nào thì cô cũng đã mất đi nhịp độ rồi. Thế là thay vào đó, cô ăn hai viên kẹo dẻo cần sa mà cô đã giấu trong chiếc túi đeo hông nhỏ dành cho người chạy bộ, nơi cô cất giữ những món đồ cần thiết khác cho chuyến chạy.</p>
 
-<p class="para-en">So, miracle of miracles, they both had lived. PJ had saved Kate. But Ivy hadn’t treated him like a hero, wouldn’t hear anything of the sort. He was the one with Kate when she was hit. Ivy would never have let either child get hit by a car. It had to be someone’s fault, and it was PJ’s. PJ would have liked to blame Mrs. DeAngelis.</p>
-<p class="para-vi-sub">Thế nên, một phép màu trong những phép màu, cả hai cha con đều sống sót. PJ đã cứu được Kate. Nhưng Ivy không đối xử với ông như một người hùng, chẳng thèm nghe lấy một lời như thế. PJ mới là người ở bên Kate khi cô bé bị tông. Ivy đời nào để mặc đứa con nào của mình bị xe tông trúng. Thế nào cũng phải có kẻ chịu lỗi, và đó chính là PJ. PJ ước gì mình có thể đổ lỗi cho bà DeAngelis.</p>
+<p class="para-en">Sophie loved getting high after a long run. How her legs turned boneless. She’d read somewhere that 80 percent of professional athletes get high after a workout, that it helped with the pain. She would walk back to the Days Inn. It was about a mile away. It would be a nice walk. Her legs began to turn to rubber.</p>
+<p class="para-vi-sub">Sophie rất thích cảm giác phê pha sau một chặng chạy dài. Cách đôi chân cô trở nên mềm nhũn như không xương. Cô từng đọc được ở đâu đó rằng tám mươi phần trăm các vận động viên chuyên nghiệp đều phê thuốc sau khi tập luyện, rằng nó giúp làm dịu cơn đau. Cô sẽ đi bộ quay lại khách sạn Days Inn. Quãng đường còn khoảng một dặm. Đó sẽ là một buổi đi bộ dễ chịu. Đôi chân cô bắt đầu rũ ra như cao su.</p>
 
-<p class="para-en">And even though Kate had survived, she still had a long road ahead, the doctors told them. She had suffered a traumatic brain injury, which can cause all sorts of problems, short-term and long-term. A few weeks after the accident, Kate was still having trouble speaking. The accident had caused nerve damage, which caused her to have difficulty controlling the muscles in her mouth and tongue. She had trouble making words, and she stuttered when she spoke.</p>
-<p class="para-vi-sub">Và dù Kate đã sống sót, cô bé vẫn phải đối mặt với một chặng đường dài phía trước, các bác sĩ nói với họ. Cô bé đã chịu một tổn thương não bộ nghiêm trọng, thứ có thể gây ra đủ loại vấn đề, cả ngắn hạn lẫn dài hạn. Vài tuần sau tai nạn, Kate vẫn gặp khó khăn trong việc nói năng. Tai nạn đã gây tổn thương dây thần kinh, khiến cô bé gặp khó khăn trong việc kiểm soát các cơ ở miệng và lưỡi. Cô bé gặp khó khăn khi phát âm các từ, và bị lắp bắp khi nói.</p>
+<p class="para-en">Ahead, she saw a Waffle House, with the yellow neon lights and the glass windows. Waffles sounded great. She hadn’t wanted waffles that morning at the Woodward Hotel, but she wanted them now. Sophie had never been to a Waffle House, a chain nonexistent in New England. It would be a shame not to try it. The Waffle House was open twenty-four hours, and inside, there were several clusters of people eating and laughing, being drunk and rowdy. Sophie sat at a booth with red plastic pillowing. She looked at the menu. She wanted to order one of everything. She had her credit card in her running belt.</p>
+<p class="para-vi-sub">Phía trước, cô nhìn thấy một nhà hàng Waffle House, với những bảng hiệu đèn neon vàng và những ô cửa kính. Món bánh quế nghe có vẻ tuyệt đấy. Sáng nay ở khách sạn Days Inn cô chẳng hề thèm bánh quế chút nào, nhưng giờ thì cô lại muốn ăn chúng. Sophie chưa từng đến Waffle House bao giờ, một chuỗi cửa hàng vốn không hề tồn tại ở New England. Thật đáng tiếc nếu không thử ghé qua. Nhà hàng Waffle House mở cửa suốt hai mươi tư giờ, và bên trong có vài nhóm người đang ăn uống, cười đùa, say xỉn và náo nhiệt. Sophie ngồi vào một chiếc ghế bọc đệm nhựa đỏ. Cô nhìn vào thực đơn. Cô muốn gọi mỗi thứ một món. Cô có thẻ tín dụng trong chiếc túi đeo chạy bộ của mình.</p>
 
-<p class="para-en">That’s when Kate started to see the speech pathologist, Miss Kristen. And Miss Kristen was a genius. One session, a few months in, Miss Kristen came up with a clever plan to strengthen Kate’s speech muscles: Kate would suck on lollipops. Dozens a day. It was just crazy enough to work.</p>
-<p class="para-vi-sub">Đó là lúc Kate bắt đầu gặp chuyên gia âm ngữ trị liệu, cô Kristen. Và cô Kristen đúng là một thiên tài. Trong một buổi trị liệu vài tháng sau đó, cô Kristen đưa ra một kế hoạch thông minh để tăng cường cơ miệng cho Kate: Kate sẽ ngậm cây kẹo mút. Hàng tá chiếc mỗi ngày. Nó đủ điên rồ để có thể mang lại hiệu quả.</p>
+<p class="para-en">The waitress came over. Her nameplate said Yvonne. “Just so you know,” Yvonne said. “Someone overdosed in the bathroom last night and I had to be the one to find him, so I am kindly asking you not to shoot up in the bathroom tonight.”</p>
+<p class="para-vi-sub">Cô nhân viên phục vụ bước tới. Biển tên của cô ấy đề là Yvonne. “Để cô biết trước nhé,” Yvonne nói. “Có ai đó đã bị sốc thuốc trong phòng vệ sinh tối qua và cô phải là người phát hiện ra anh ta, thế nên cô chân thành đề nghị cháu đừng có chích choác trong phòng vệ sinh tối nay đấy.”</p>
 
-<p class="para-en">And it did! Slowly, the words came back. Kate still stuttered, but she was making improvements. Ivy said they would deal with the cavities later.</p>
-<p class="para-vi-sub">Và đúng là hiệu quả thật! Dần dần, những từ ngữ đã quay trở lại. Kate vẫn bị lắp bắp, nhưng cô bé đang tiến bộ hơn. Ivy bảo họ sẽ giải quyết mấy cái răng sâu sau.</p>
+<p class="para-en">“Oh. Wow. Okay. No, I won’t do that.”</p>
+<p class="para-vi-sub">“Ồ. Chà. Được rồi. Không, cháu sẽ không làm thế đâu.”</p>
 
-<p class="para-en">Everything was looking up, until one day at the end of winter, PJ came home from a long day delivering mail. He wanted to put his feet up and have a cold one, but Ivy was blocking the TV. “Kate is being bullied at school,” she said. “You need to do something about it.”</p>
-<p class="para-vi-sub">Mọi chuyện đang dần khởi sắc, cho đến một ngày cuối mùa đông, PJ trở về nhà sau một ngày dài phát thư. PJ muốn gác chân lên nghỉ ngơi và làm một cốc bia lạnh, nhưng Ivy đang đứng chắn ngang chiếc TV. “Kate đang bị bắt nạt ở trường,” Ivy nói. “Anh cần phải làm gì đó đi.”</p>
+<p class="para-en">“So, what can I getcha?”</p>
+<p class="para-vi-sub">“Thế, cô lấy cho cháu món gì nào?”</p>
 
-<p class="para-en">“What is she being bullied for?”</p>
-<p class="para-vi-sub">“Con bé bị bắt nạt vì chuyện gì chứ?”</p>
+<p class="para-en">Sophie ordered a pecan waffle and a patty melt and hash browns.</p>
+<p class="para-vi-sub">Sophie gọi một phần bánh quế hồ đào, một chiếc bánh mì kẹp thịt phô mai nướng và bánh khoai tây bào chiên giòn.</p>
 
-<p class="para-en">“The lollipops. They are making fun of the lollipops.”</p>
-<p class="para-vi-sub">“Mấy cây kẹo mút. Bọn chúng đang chế nhạo chuyện kẹo mút.”</p>
+<p class="para-en">Yvonne walked off with her order, leaving Sophie alone in the booth to look at her phone, and when she wasn’t paying attention, two men slid into the booth with her. One sat next to her and one across. They were huge men; it was like two rhinoceroses had just joined her at the table. The one across from her was wearing a Frosted Flakes T-shirt, with a tiger giving a thumbs-up. “We were thinking you looked awfully lonely, so we thought we would join you for dinner.”</p>
+<p class="para-vi-sub">Yvonne mang theo tờ ghi món bước đi, để lại Sophie ngồi một mình ở buồng ghế để cặm cụi nhìn điện thoại, và khi cô không để ý, hai người đàn ông đã trượt chân bước vào ngồi chung buồng ghế với cô. Một người ngồi cạnh cô và một người ngồi đối diện. Họ là những gã đàn ông to lớn; cứ như thể có hai con tê giác vừa nhập tiệc cùng cô ở cái bàn này vậy. Gã ngồi đối diện cô đang mặc một chiếc áo thun hình Frosted Flakes, in hình một chú hổ đang giơ ngón tay cái tán thành. “Bọn anh thấy em có vẻ cô đơn quá, nên bọn anh nghĩ mình sẽ nhập tiệc ăn tối cùng em cho vui.”</p>
 
-<p class="para-en">“She’s making great progress! She was hit by a car!”</p>
-<p class="para-vi-sub">“Con bé đang tiến bộ rất nhiều! Con bé vừa bị xe tông đấy!”</p>
+<p class="para-en">“No, thank you,” Sophie said. “Not lonely.”</p>
+<p class="para-vi-sub">“Không, cảm ơn các anh,” Sophie nói. Sophie không cô đơn.</p>
 
-<p class="para-en">Ivy scowled. “That girl Winnie Gleason is a hyena.”</p>
-<p class="para-vi-sub">Ivy cau mày. “Con ranh Winnie Gleason đó đúng là một con linh cẩu.”</p>
+<p class="para-en">“Where’s your boyfriend, sweetie?” the one with a face tattoo said, putting his arm around her. “Can I be your new boyfriend?”</p>
+<p class="para-vi-sub">“Bạn trai của em đâu rồi, cưng ơi,” gã có hình xăm trên mặt nói, vừa vòng tay ôm lấy cô. “Anh làm bạn trai mới của em được không?”</p>
 
-<p class="para-en">PJ shrugged. “What can we do about it? Kids are cruel; they always have been.”</p>
-<p class="para-vi-sub">PJ nhún vai. “Chúng ta làm gì được chứ? Trẻ con vốn tàn nhẫn; xưa nay vẫn thế mà.”</p>
+<p class="para-en">“Not my type.”</p>
+<p class="para-vi-sub">“Không phải gu của tôi.”</p>
 
-<p class="para-en">“I don’t know what you’ll do,” Ivy said, arms crossed. “But I’m sure you’ll figure something out.”</p>
-<p class="para-vi-sub">“Em không biết anh sẽ làm gì,” Ivy nói, khoanh tay trước ngực. “Nhưng em chắc chắn anh sẽ nghĩ ra cách nào đó thôi.”</p>
+<p class="para-en">“I get it,” Face Tattoo said. “But I can make anyone my type.”</p>
+<p class="para-vi-sub">“Anh hiểu mà,” Gã Xăm Mặt nói. “Nhưng anh có thể biến bất kỳ ai thành gu của mình hết.”</p>
 
-<p class="para-en">PJ would forever be punished by his wife for letting Kate ride her bike down the street, even though she’d always been allowed to ride her bike down the street. He said he would need a day to think about it. “Let me walk it out,” he said to Ivy, which he often said when there was a big problem. He would spend the day delivering mail, walking, and ruminating on the problem. So that’s what he did. And when he came home that night, he had it all figured out. Excited, he told Ivy: “We just need kids to think differently about lollipops.”</p>
-<p class="para-vi-sub">PJ sẽ mãi mãi bị vợ trừng phạt vì đã để Kate đạp xe xuống phố, dù cô bé vẫn luôn được phép đạp xe xuống phố. Ông bảo mình sẽ cần một ngày để suy nghĩ về chuyện đó. “Để anh đi bộ giải tỏa đã,” ông nói với Ivy, câu mà ông vẫn thường thốt lên mỗi khi có một rắc rối lớn. Ông sẽ dành cả ngày để phát thư, đi bộ và nghiền ngẫm về vấn đề đó. Thế là ông làm đúng như vậy. Và khi ông về nhà tối hôm đó, ông đã tính toán xong xuôi mọi chuyện. Đầy phấn khích, ông bảo với Ivy: “Chúng ta chỉ cần lũ trẻ nhìn nhận khác đi về cây kẹo mút thôi.”</p>
+<p class="para-en">“Bag over the head,” Frosted Flakes agreed.</p>
+<p class="para-vi-sub">“Trùm bao tải lên đầu là xong,” gã mặc áo Frosted Flakes hùa theo.</p>
 
-<p class="para-en">“I think children like lollipops fine!” Ivy said, mad again. “It’s candy!”</p>
-<p class="para-vi-sub">“Em nghĩ trẻ con thấy cây kẹo mút bình thường mà!” Ivy nói, lại nổi giận. “Đó là kẹo cơ mà!”</p>
+<p class="para-en">Sophie felt the chill of fear, real fear, worse than the fear she’d felt when she saw the creepy ventriloquist puppet. That was only horror-movie fear, and this was real fear. Nothing fun about it.</p>
+<p class="para-vi-sub">Sophie cảm nhận được sự lạnh lẽo của nỗi sợ hãi, nỗi sợ thực sự, tồi tệ hơn cả cảm giác sợ hãi khi cô nhìn thấy con rối nói tiếng bụng rùng rợn kia. Đó chỉ là nỗi sợ kiểu phim kinh dị, còn đây mới chính là nỗi sợ thật sự. Chẳng có gì vui vẻ ở đây cả.</p>
 
-<p class="para-en">“But Kate is the only one who is allowed to have candy in class. She’s different. Kids hate different. They see it as unfair, or weird.”</p>
-<p class="para-vi-sub">“Nhưng Kate là người duy nhất được phép ăn kẹo trong lớp. Con bé khác biệt. Trẻ con thì ghét sự khác biệt. Bọn chúng coi đó là bất công, hoặc kỳ cục.”</p>
+<p class="para-en">The rhinoceroses stank of booze. This is why women shouldn’t run alone at night, she heard someone say in her ear. She wasn’t sure if that voice was her mother or Fred or her therapist, but whoever it was, it was someone wiser than her. Then again, Sophie wasn’t running right now. She was in a well-lit Waffle House. She had a tiny bottle of pepper spray in her running belt, which Fred had given her to take on her runs, but she couldn’t reach it right then, with the man’s arm around her. Sophie remembered how proud Fred had been when he’d given her the pepper spray in a handy-dandy keychain, as if it were a magic wand that would protect her forever.</p>
+<p class="para-vi-sub">Những tên tê giác nồng nặc mùi rượu. Đây là lý do tại sao phụ nữ không nên chạy bộ một mình vào ban đêm, cô nghe thấy ai đó thì thầm bên tai. Cô không chắc giọng nói đó là của mẹ cô, của Fred hay của nhà trị liệu của cô, nhưng bất kể đó là ai, thì đó cũng là một người khôn ngoan hơn cô. Mà nghĩ lại thì, lúc này Sophie có đang chạy đâu cơ chứ. Cô đang ở trong một nhà hàng Waffle House sáng trưng đèn. Cô có một lọ xịt cay nhỏ xíu trong túi đeo hông chạy bộ, thứ mà Fred đã đưa cho cô để mang theo trong những buổi chạy, nhưng cô chẳng thể với tới nó ngay lúc này được, khi mà cánh tay của gã đàn ông đang quàng lấy cô. Sophie chợt nhớ lại Fred đã tự hào thế nào khi trao cho cô bình xịt cay gắn vào một chiếc móc khóa tiện lợi, cứ như thể đó là một cây đũa thần có thể bảo vệ cô mãi mãi.</p>
 
-<p class="para-en">“It’s for medical reasons!”</p>
-<p class="para-vi-sub">“Đó là vì lý do y tế cơ mà!”</p>
+<p class="para-en">“So, Wednesday Addams,” Frosted Flakes said, and then chuckled as if Sophie had never heard that Wednesday Addams line before. “Can we get you a drink?”</p>
+<p class="para-vi-sub">“Thế nào, Wednesday Addams,” gã áo Frosted Flakes cất lời, rồi khúc khích cười như thể Sophie chưa từng nghe qua câu nói đùa về Wednesday Addams đó bao giờ. “Bọn anh gọi cho em ly đồ uống nhé?”</p>
 
-<p class="para-en">“I’ll take care of it,” PJ said. “Don’t you worry. But it will take me a few days. Give me a few days.”</p>
-<p class="para-vi-sub">“Anh sẽ lo việc này,” PJ nói. “Em đừng lo. Nhưng anh sẽ mất vài ngày. Cho anh vài ngày nhé.”</p>
+<p class="para-en">“It’s not a bar,” Sophie mumbled.</p>
+<p class="para-vi-sub">“Đây không phải quán bar,” Sophie lầm bầm.</p>
 
-<p class="para-en">“Fine. You handle it,” Ivy said.</p>
-<p class="para-vi-sub">“Được thôi. Tùy anh xử lý đấy,” Ivy nói.</p>
+<p class="para-en">“We make a good cocktail.”</p>
+<p class="para-vi-sub">“Bọn anh pha cocktail ngon lắm đấy.”</p>
 
-<p class="para-en">“I’ll need to get permission from the teachers,” PJ said, tapping his chin and walking away.</p>
-<p class="para-vi-sub">“Anh sẽ cần xin phép các giáo viên,” PJ nói, gõ ngón tay lên cằm rồi bước đi.</p>
+<p class="para-en">“It’s a double.” They chuckled again. Sophie tried to move her hand behind her to get to the pepper spray in the sack on her belt.</p>
+<p class="para-vi-sub">“Bọn tôi nói đôi đấy.” Bọn chúng lại cười khúc khích. Sophie cố đưa tay ra sau lưng để với lấy bình xịt cay trong chiếc túi ở thắt lưng.</p>
 
-<p class="para-en">On a Friday, Kate and Sophie woke up and went down for breakfast, same as usual. But when they went outside to walk Kate to the bus stop, everything looked entirely new, and spectacular. It was the first day of spring, and the trees were dripping in what looked like small pieces of colorful stained glass. There were lollipops, wrapped in plastic, growing from every single tree outside. Orange ones, yellow ones, green ones, red ones, purple. The sun glinting off the lollipops. No one in Pondville had ever seen anything like it.</p>
-<p class="para-vi-sub">Vào một ngày thứ Sáu, Kate và Sophie thức dậy rồi xuống ăn sáng, mọi thứ vẫn diễn ra như thường lệ. Nhưng khi họ bước ra ngoài để đưa Kate ra bến xe buýt, mọi thứ trông hoàn toàn mới mẻ và ngoạn mục. Đó là ngày đầu tiên của mùa xuân, và những cái cây đang trĩu nặng thứ trông giống như những mảnh kính màu rực rỡ nhỏ xíu. Có những cây kẹo mút, được bọc trong lớp nhựa trong, mọc lên từ mọi cái cây ở bên ngoài. Kẹo màu cam, màu vàng, màu xanh lá, màu đỏ, màu tím. Ánh mặt trời phản chiếu lấp lánh trên những cây kẹo mút. Chưa ai ở Pondville từng chứng kiến cảnh tượng nào như thế.</p>
+<p class="para-en">“Hey,” someone called from behind the counter. “Hey, idiots! Leave her alone!”</p>
+<p class="para-vi-sub">“Này,” một người gọi từ phía sau quầy. “Này, mấy thằng đần! Để cô ấy yên!”</p>
 
-<p class="para-en">And at school that day, all the kids had lollipops in their mouths because they’d picked them off the trees. PJ had gotten permission from the teachers to let all the kids have lollipops. He had also paid the janitor fifty bucks to write Suck it, Winnie, on Winnie Gleason’s locker, and pretend it was the handiwork of another kid.</p>
-<p class="para-vi-sub">Và ở trường vào ngày hôm đó, tất cả lũ trẻ đều ngậm cây kẹo mút trong miệng bởi vì chúng đã hái chúng xuống từ trên cây. PJ đã xin phép các giáo viên để cho tất cả học sinh được ngậm cây kẹo mút. Ông cũng đã trả cho nhân viên lao công năm mươi đô để viết dòng chữ Ngậm vào đi, Winnie, lên tủ đồ của Winnie Gleason, và giả vờ như đó là tác phẩm của một đứa trẻ khác.</p>
+<p class="para-en">“What’s the problem, Brandon?” Frosted Flakes asked. “You call dibs?”</p>
+<p class="para-vi-sub">“Gì thế Brandon?” Tóc Bông Xù hỏi. “Mày chấm trước à?”</p>
 
-<p class="para-en">Kate ran into the house that day after school and gave PJ the longest hug he’d ever had in his life. Ivy had timed it.</p>
-<p class="para-vi-sub">Hôm đó tan học về, Kate chạy ù vào nhà và dành tặng PJ cái ôm lâu nhất mà ông từng nhận được trong đời. Ivy đã bấm giờ hẳn hoi.</p>
+<p class="para-en">“I did actually,” the Waffle House cook said. “That’s my new girlfriend.”</p>
+<p class="para-vi-sub">“Thật ra là có,” đầu bếp quán Waffle House đáp. “Bạn gái mới của tao đấy.”</p>
 
-<p class="para-en">“It repaired my marriage, for a little while,” PJ said, after the story. “Not forever, of course. You know Ivy left me for Fred.”</p>
-<p class="para-vi-sub">“Chuyện đó đã hàn gắn cuộc hôn nhân của chú, được một khoảng thời gian,” PJ nói, sau câu chuyện. “Tất nhiên là không phải mãi mãi rồi. Các cháu biết đấy, Ivy đã bỏ chú để theo Fred.”</p>
+<p class="para-en">“New girlfriend? You finally left your bitch wife?”</p>
+<p class="para-vi-sub">“Bạn gái mới á? Cuối cùng mày cũng bỏ được con vợ đanh đá rồi à?”</p>
 
-<p class="para-en">Ollie and Luna nodded. “So, how’d you do it, Uncle PJ?” Luna asked. “How’d you get all the lollipops in the trees?”</p>
-<p class="para-vi-sub">Ollie và Luna gật đầu. “Thế chú PJ làm cách nào ạ?” Luna hỏi. “Sao chú gắn được từng ấy cây kẹo mút lên cây hay thế?”</p>
+<p class="para-en">“Brittany kicked me out.”</p>
+<p class="para-vi-sub">“Brittany đuổi tao ra khỏi nhà rồi.”</p>
 
-<p class="para-en">PJ smiled, remembering. Another life. “The best thing about being a mailman is you get to know everyone. I knew the candy-store owner, and she made a call to her supplier, and I knew the bread baker, and he made a call to the company that makes the twist-ties they put on bread bags, and then I had all the men in town twist-tying lollipops to tree branches overnight. It all came down to the good friends I had in Pondville. They helped me out.”</p>
-<p class="para-vi-sub">PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt vời nhất khi làm nhân viên đưa thư là cháu sẽ quen biết tất cả mọi người. Chú quen chủ tiệm kẹo, và cô ấy gọi điện cho nhà cung cấp của mình, rồi chú quen thợ làm bánh mì, và cậu ta gọi điện cho công ty sản xuất cái dây kẽm buộc miệng túi bánh mì, để rồi thế là chú huy động được tất cả đàn ông trong thị trấn buộc cây kẹo mút vào cành cây qua đêm. Tất cả là nhờ những người bạn tốt ở Pondville. Họ đã giúp chú một tay.”</p>
+<p class="para-en">“Did she take the kids?” Frosted Flakes asked.</p>
+<p class="para-vi-sub">“Cô ta có mang theo lũ trẻ không?” Tóc Bông Xù hỏi.</p>
 
-<p class="para-en">“And it wasn’t on every single tree in town,” Sophie said. “Just one tree outside every middle schooler’s house.”</p>
-<p class="para-vi-sub">“Và nó không phải ở tất cả mọi cái cây trong thị trấn,” Sophie nói. “Chỉ là một cái cây bên ngoài nhà của mỗi đứa học sinh cấp hai thôi.”</p>
+<p class="para-en">“Sure did.”</p>
+<p class="para-vi-sub">“Có chứ.”</p>
 
-<p class="para-en">“Sophie,” PJ grumbled, annoyed. “Don’t spoil the story.”</p>
-<p class="para-vi-sub">“Sophie,” PJ làu bàu, tỏ vẻ khó chịu. “Đừng có phá hỏng câu chuyện chứ.”</p>
+<p class="para-en">The Waffle House cook was fit and tattooed, Sophie noticed, and he was valiantly coming to her rescue. If he needed a new wife, Sophie could do it.</p>
+<p class="para-vi-sub">Sophie nhận thấy anh đầu bếp Waffle House có thể hình vạm vỡ và xăm trổ, và anh đang dũng cảm đến giải cứu cô. Nếu anh cần một người vợ mới, Sophie có thể đảm nhận.</p>
 
-<p class="para-en">“Sorry.”</p>
-<p class="para-vi-sub">“Xin lỗi bố.”</p>
+<p class="para-en">“Hey, doll,” Brandon said. “Come back here and eat with me.”</p>
+<p class="para-vi-sub">“Này cưng,” Brandon nói. “Lại đây ăn với anh đi.”</p>
 
-<p class="para-en">“Uncle PJ?” Ollie asked, sounding very sleepy.</p>
-<p class="para-vi-sub">“Chú PJ?” Ollie hỏi, giọng nghe rất ngái ngủ.</p>
+<p class="para-en">Sophie looked at the rhinoceros next to her, blocking her way, and she prayed he would move. He did. He backed away and got out of the booth and stormed off to another part of the restaurant. His friend followed. It was like watching a pair of T-rexes decide they were going to hunt and eat someone else. Sophie stood and scrambled over to the kitchen, where Brandon welcomed her to the other side of the counter. “Thank you,” she said. Her heart was pounding.</p>
+<p class="para-vi-sub">Sophie nhìn tên khổng lồ bên cạnh đang chắn đường cô, và cô cầu nguyện hắn sẽ tránh ra. Hắn đã làm vậy. Hắn lùi lại, rời khỏi buồng ghế và hùng hổ bước sang khu vực khác của nhà hàng. Tên bạn hắn đi theo sau. Giống như việc nhìn thấy một cặp khủng long bạo chúa quyết định sẽ đi săn và ăn thịt người khác. Sophie đứng dậy và lách sang khu vực nhà bếp, nơi Brandon chào đón cô ở phía bên kia quầy. Sophie nói: “Cảm ơn anh.” Tim cô đang đập thình thịch.</p>
 
-<p class="para-en">“Yes, buddy?”</p>
-<p class="para-vi-sub">“Sao thế, Ollie?”</p>
+<p class="para-en">“You have to wear one of these if you’re back here,” he said. “May I?”</p>
+<p class="para-vi-sub">Brandon nói: “Em phải đeo một cái thế này nếu đứng ở trong này. Anh đeo cho nhé?”</p>
 
-<p class="para-en">“When we get home, will you make us a lollipop tree too?”</p>
-<p class="para-vi-sub">“Lúc chúng cháu về nhà, chú làm cho chúng cháu một cây kẹo mút nữa nhé?”</p>
+<p class="para-en">She nodded, and he put a hairnet on her like she was a queen. She loved him.</p>
+<p class="para-vi-sub">Cô gật đầu, và Brandon đội chiếc lưới trùm tóc lên đầu cô cứ như thể cô là một nữ hoàng. Cô yêu anh mất rồi.</p>
 
-<p class="para-en">“Sure I will. Of course I will.”</p>
-<p class="para-vi-sub">“Chắc chắn rồi. Đương nhiên là có rồi.”</p>
+<p class="para-en">“They’re just drunk,” Brandon said, as if that excused them. Sophie was glad at least that he didn’t say those two drunk men were harmless. She could feel from the hairs on her neck that they were not harmless.</p>
+<p class="para-vi-sub">Brandon nói, cứ như thể điều đó có thể bào chữa cho hành vi của họ: “Bọn chúng chỉ say rượu thôi.” Sophie ít nhất cũng thấy mừng vì anh không nói hai kẻ say xỉn đó vô hại. Bằng những sợi lông tơ trên cổ, cô có thể cảm nhận được rằng bọn chúng hoàn toàn không vô hại.</p>
 
-<p class="para-en">“I’m not going back to Pondville,” Luna said.</p>
-<p class="para-vi-sub">“Cháu không về Pondville đâu,” Luna nói.</p>
+<p class="para-en">Brandon served her the pecan waffle and the patty melt and the side of hash browns on three separate plates. She picked up the waffle and ate it without cutting it up, the way she had seen Luna bite into hers that morning. It was phenomenal.</p>
+<p class="para-vi-sub">Brandon phục vụ cô chiếc bánh waffle hồ đào, bánh mì kẹp thịt phô mai và một phần khoai tây bào chiên trên ba chiếc đĩa riêng biệt. Cô nhấc chiếc bánh waffle lên và ăn mà không cắt nhỏ ra, theo cách mà cô đã thấy Luna cắn bánh vào sáng hôm đó. Nó ngon tuyệt cú mèo.</p>
 
-<p class="para-en">“ We know, ” Ollie said. “Because you say it all the time. You don’t have to keep saying it.”</p>
-<p class="para-vi-sub">“ Bọn cháu biết rồi, ” Ollie nói. “Vì chị cứ nói điều đó suốt. Chị không cần phải cứ nhắc hoài đâu.”</p>
+<p class="para-en">“This,” she said, chewing, “is the best waffle I’ve ever had.”</p>
+<p class="para-vi-sub">Cô vừa nhai vừa nói: “Cái này là chiếc bánh waffle ngon nhất mà em từng ăn.”</p>
 
-<p class="para-en">“Now, now, let’s be kind to each other tonight,” PJ said. “It’s been a long day.”</p>
-<p class="para-vi-sub">“Nào nào, tối nay chúng ta hãy đối xử tử tế với nhau nhé,” PJ nói. “Hôm nay là một ngày dài đấy.”</p>
+<p class="para-en">“Glad you think so.”</p>
+<p class="para-vi-sub">Brandon đáp: “Anh rất vui vì em nghĩ vậy.”</p>
 
-<p class="para-en">Indeed, it had, Sophie thought, but she’d been glad to hear the story, even if her dad had exaggerated the number of lollipop trees—it was a happy story. Good for bedtime. Made everyone feel cozy and safe. Well, it was happy if you stopped the story early enough, didn’t stick around to hear the very end. It was an ugly-duckling fairy tale: Kate had learned to talk again, recovered miraculously from her brain injury, and she grew up to be beautiful, so beautiful they made her prom queen on the night she died.</p>
-<p class="para-vi-sub">Quả thực là vậy, Sophie nghĩ, nhưng cô vẫn thấy vui khi được nghe câu chuyện, ngay cả khi bố cô đã phóng đại số lượng cây kẹo mút, đó là một câu chuyện có hậu. Rất hợp để kể trước giờ đi ngủ. Khiến cho mọi người đều cảm thấy ấm cúng và an toàn. Ờ thì, nó sẽ có hậu nếu như bạn dừng câu chuyện lại sớm, không nán lại để nghe đến cái kết cuối cùng. Đó là một câu chuyện cổ tích về chú vịt con xấu xí: Kate đã tập nói lại được, hồi phục kỳ diệu sau chấn thương sọ não, rồi lớn lên trở thành một thiếu nữ xinh đẹp, xinh đẹp đến mức cô được bầu làm nữ hoàng vũ hội vào đúng đêm cô qua đời.</p>
+<p class="para-en">“We don’t have Waffle House where I live.”</p>
+<p class="para-vi-sub">“Chỗ bọn em ở không có Waffle House.”</p>
+
+<p class="para-en">“A Yankee, huh?”</p>
+<p class="para-vi-sub">“Người miền Bắc à?”</p>
+
+<p class="para-en">“Massachusetts.”</p>
+<p class="para-vi-sub">“Massachusetts.”</p>
+
+<p class="para-en">“A real Yankee. What brings you to Kentucky?”</p>
+<p class="para-vi-sub">“Đúng là người miền Bắc chính hiệu rồi. Gió nào đưa em đến Kentucky vậy?”</p>
+
+<p class="para-en">“I’m on a road trip with my dad.”</p>
+<p class="para-vi-sub">“Em đang đi phượt cùng bố.”</p>
+
+<p class="para-en">“Where’s he?”</p>
+<p class="para-vi-sub">“Ông ấy đâu rồi?”</p>
+
+<p class="para-en">“Back at the hotel. I was going for a run, and I was walking back to the hotel when I saw the Waffle House. It seemed like a good idea at the time.”</p>
+<p class="para-vi-sub">“Ở lại khách sạn rồi ạ. Em định đi chạy bộ, rồi đang đi bộ về khách sạn thì nhìn thấy Waffle House. Lúc đó em thấy đó là một ý tưởng hay.”</p>
+
+<p class="para-en">“I’ll take you back to the hotel,” Brandon offered. “Can’t have you walking home this time of night.”</p>
+<p class="para-vi-sub">Brandon đề nghị: “Để anh đưa em về khách sạn. Không thể để em đi bộ về một mình vào giờ này đêm hôm thế này được.”</p>
+
+<p class="para-en">“Okay,” Sophie agreed. “It’s just the Days Inn. It’s only a mile down the road.”</p>
+<p class="para-vi-sub">Sophie đồng ý: “Vâng. Chỉ là khách sạn Days Inn thôi ạ. Cách đây có một dặm.”</p>
+
+<p class="para-en">“Hey, Diamond,” Brandon said to another one of the cooks. “Cover for me? I’ll be back before the rush.”</p>
+<p class="para-vi-sub">Brandon nói với một đầu bếp khác: “Này Diamond, trông hàng hộ tao nhé? Tao sẽ quay lại trước giờ đông khách.”</p>
+
+<p class="para-en">“I got you,” Diamond agreed.</p>
+<p class="para-vi-sub">Diamond đồng ý: “Cứ để đấy cho tao.”</p>
+
+<p class="para-en">Brandon took his apron off, and he pulled off Sophie’s hairnet. She felt a little tremble of pleasure when he touched her.</p>
+<p class="para-vi-sub">Brandon cởi tạp dề, và anh tháo lưới trùm tóc của Sophie ra. Cô cảm thấy một chút run rẩy dễ chịu khi anh chạm vào người mình.</p>
+
+<p class="para-en">“Hey, Brandon, where are you going?” Frosted Flakes called, when he saw Brandon leaving in the middle of his night shift.</p>
+<p class="para-vi-sub">Khi thấy Brandon bỏ đi giữa ca trực đêm, Tóc Bông Xù gọi với theo: “Này Brandon, mày đi đâu đấy?”</p>
+
+<p class="para-en">“I’m taking my girlfriend home,” Brandon announced to the room, and the rhinoceros men applauded, as if Brandon had just announced their engagement. Sophie smiled, and she felt special. As if she really were the chosen one.</p>
+<p class="para-vi-sub">Brandon thông báo với cả phòng: “Tao đưa bạn gái tao về nhà,” và những tên khổng lồ vỗ tay tán thưởng, cứ như thể Brandon vừa thông báo lễ đính hôn của họ vậy. Sophie mỉm cười, và cô cảm thấy mình thật đặc biệt. Cứ như thể cô thực sự là người được chọn vậy.</p>
+
+<p class="para-en">In the parking lot, Sophie found out that Brandon drove a white catering van. “Look at this,” he said. “Isn’t this sweet?” He opened the sliding doors, and in the back, there was a bed. “I’m living here for now,” he told her. “After my wife kicked me out.”</p>
+<p class="para-vi-sub">Ởbãi đậu xe, Sophie phát hiện ra Brandon lái một chiếc xe van giao hàng màu trắng. Brandon nói: “Nhìn xem. Tuyệt không?” Anh mở cửa lùi sang một bên, và ở phía sau có một chiếc giường. Anh nói với cô: “Hiện tại anh đang sống ở đây. Sau khi vợ anh đá ra đường.”</p>
+
+<p class="para-en">“Brittany, your bitch wife,” she said, repeating what the Frosted Flakes douchebag had called her.</p>
+<p class="para-vi-sub">Cô nói, nhắc lại cái cách mà gã khốn Tóc Bông Xù đã gọi cô ta: “Brittany, con vợ đanh đá của anh.”</p>
+
+<p class="para-en">“Yup. My bitch wife. She’s got the kids right now.”</p>
+<p class="para-vi-sub">“Ừ. Con vợ đanh đá của anh. Cô ta đang giữ lũ trẻ.”</p>
+
+<p class="para-en">“How many kids?”</p>
+<p class="para-vi-sub">“Mấy đứa con ạ?”</p>
+
+<p class="para-en">“Three. I’m going to try to get fifty-fifty custody in the divorce, but the courts always favor the mother. And I probably don’t have a shot getting custody at all for the eldest, since I’m not her real dad. I’m going to try, though.”</p>
+<p class="para-vi-sub">“Ba đứa. Anh sẽ cố gắng giành quyền nuôi con năm mươi phần trăm trong vụ ly hôn, nhưng tòa án lúc nào cũng ưu tiên người mẹ. Và anh có lẽ chẳng có chút hy vọng nào để giành quyền nuôi đứa con lớn, vì anh không phải bố ruột của thằng bé. Dù sao thì anh vẫn sẽ cố.”</p>
+
+<p class="para-en">“Good for you.”</p>
+<p class="para-vi-sub">“Tốt cho anh đấy.”</p>
+
+<p class="para-en">“She calls her dad by his first name. Jeremiah. She won’t even call him Jerry, as if they are total strangers. She has no affection for him. She calls me Daddy.”</p>
+<p class="para-vi-sub">“Thằng bé gọi bố ruột bằng tên thật. Jeremiah. Thằng bé thậm chí còn không thèm gọi là Jerry, cứ như thể họ là người dưng nước lã vậy. Thằng bé chẳng có chút tình cảm nào với ông ta cả. Thằng bé gọi anh là Bố.”</p>
+
+<p class="para-en">“That’s nice. I mean, it’s nice that she calls you Daddy.”</p>
+<p class="para-vi-sub">“Thế thì tuyệt. Ý em là, thật tuyệt khi thằng bé gọi anh là Bố.”</p>
+
+<p class="para-en">“Glad you think so. Maybe you can write me a character reference.”</p>
+<p class="para-vi-sub">“Anh rất vui vì em nghĩ vậy. Hay là em viết cho anh một lá thư xác nhận nhân phẩm nhé?”</p>
+
+<p class="para-en">“Sure.”</p>
+<p class="para-vi-sub">“Được chứ.”</p>
+
+<p class="para-en">“You want to get high?”</p>
+<p class="para-vi-sub">“Em có muốn phê pha tí không?”</p>
+
+<p class="para-en">“What kind of high?” she asked, because she remembered the waitress warning her not to use heroin in the bathroom. She was, also, already high.</p>
+<p class="para-vi-sub">Sophie hỏi: “Phê pha kiểu gì?” vì cô nhớ lời cô phục vụ bàn cảnh báo không được dùng heroin trong nhà vệ sinh. Hơn nữa, cô cũng đã ngà ngà say rồi.</p>
+
+<p class="para-en">“Just weed. I grow it myself. Mellow stuff.”</p>
+<p class="para-vi-sub">“Chỉ là cỏ thôi. Anh tự trồng đấy. Loại êm dịu thôi.”</p>
+
+<p class="para-en">So, they smoked Brandon’s weed in the back of the van. Sophie noticed his necklace strung with white shells, or maybe the teeth of an animal, and when she asked about it, he said it was the baby teeth of all his three kids. Sweet, Sophie thought, and weird. Super weird, but people who had kids did strange things. And then, Brandon leaned in and kissed her. He was a good kisser. He took off his shirt, and there Brittany’s name was, right above his nipple, along with three other names below, probably the names of the kids. Sophie took off her shirt, too, didn’t wait for him to do it. She stank a little, from the run, but Brandon didn’t seem to care. He put his hands underneath the elastic of her sports bra.</p>
+<p class="para-vi-sub">Thế là họ cùng hút số cỏ của Brandon ở phía sau chiếc xe van. Sophie để ý thấy chiếc vòng cổ của anh xâu những chiếc vỏ sò màu trắng, hoặc có lẽ là răng của một loài động vật nào đó, và khi cô hỏi về nó, anh nói đó là răng sữa của cả ba đứa con anh. Ngọt ngào, Sophie nghĩ, và thật kỳ quặc. Cực kỳ kỳ quặc, nhưng những kẻ có con thường làm những điều kỳ lạ. Và rồi, Brandon chồm tới và hôn cô. Anh hôn rất giỏi. Anh cởi áo ra, và cái tên Brittany hiện lên ngay phía trên núm vú của anh, cùng với ba cái tên khác ở phía dưới, có lẽ là tên của lũ trẻ. Sophie cũng cởi áo của mình ra, không đợi anh phải làm điều đó. Cô hơi có mùi mồ hôi vì buổi chạy bộ, nhưng Brandon có vẻ chẳng bận tâm. Anh luồn tay vào dưới lớp chun áo thể thao của cô.</p>
+
+<p class="para-en">Afterward, she lay wrapped in a blanket in the back of the van. It was a Paw Patrol blanket with the girl dog on it, brown ears in a pink superhero outfit. Sophie wondered what Brittany and the kids were doing right then, and she pictured Brittany in a bed next to one of the children, who was awake from a nightmare, and she was scratching the child’s back with her fake fingernails, trying to calm the kid down back to sleep. She imagined Brittany was a good mom. “Were you and Brittany ever happy?” she asked.</p>
+<p class="para-vi-sub">Sau đó, cô nằm quấn chăn ở phía sau xe tải. Đó là một chiếc chăn Paw Patrol in hình cô chó con với đôi tai nâu mặc bộ đồ siêu anh hùng màu hồng. Sophie tự hỏi lúc đó Brittany và lũ trẻ đang làm gì, và cô hình dung Brittany đang nằm trên giường cạnh một đứa trẻ vừa tỉnh dậy sau cơn ác mộng, và cô ấy đang dùng bộ móng tay giả gãi lưng cho đứa trẻ, cố gắng dỗ dành đứa trẻ ngủ lại. Cô tưởng tượng Brittany là một người mẹ tốt. “Anh và Brittany đã từng hạnh phúc không?” cô hỏi.</p>
+
+<p class="para-en">He shrugged. “Yeah. We were really happy once. She was my best friend.”</p>
+<p class="para-vi-sub">Anh nhún vai. “Ừ. Đã có lúc bọn anh thực sự hạnh phúc. Cô ấy là bạn thân của anh.”</p>
+
+<p class="para-en">“What happened?”</p>
+<p class="para-vi-sub">“Chuyện gì đã xảy ra?”</p>
+
+<p class="para-en">“I don’t know. She started being a bitch. She wants me to figure out my life. She wants me to aim higher. But I have figured out my life. I’m going to work two years as a short-order cook at Waffle House, and then I’ll be able to work in any kitchen I want. Everyone knows if you can handle the pressure at Waffle House, the drunk customers starting fights you have to break up, combined with the speed of the cooking, then they’ll hire you anywhere.”</p>
+<p class="para-vi-sub">“Anh không biết. Cô ấy bắt đầu trở thành một con khốn. Cô ấy muốn anh tự định hướng cuộc đời mình. Cô ấy muốn anh vươn lên cao hơn. Nhưng anh đã định hướng được cuộc đời mình rồi. Anh sẽ làm đầu bếp làm món nhanh hai năm tại Waffle House, và sau đó anh có thể làm việc ở bất kỳ căn phòng bếp nào anh muốn. Ai cũng biết nếu em có thể chịu đựng được áp lực tại Waffle House, những khách hàng say xỉn gây gổ mà em phải đứng ra can thiệp, kết hợp với tốc độ nấu nướng, thì họ sẽ thuê em ở bất cứ đâu.”</p>
+
+<p class="para-en">“Oh,” Sophie said. “I mean, that does sound like a good plan.”</p>
+<p class="para-vi-sub">“Ồ,” Sophie nói. “Ý em là, đó nghe có vẻ là một kế hoạch hay.”</p>
+
+<p class="para-en">“Thanks.”</p>
+<p class="para-vi-sub">“Cảm ơn.”</p>
+
+<p class="para-en">“It’s much more of a plan than I have.”</p>
+<p class="para-vi-sub">“Nó có vẻ ra dáng một kế hoạch hơn là những gì em có.”</p>
+
+<p class="para-en">“You got a job?”</p>
+<p class="para-vi-sub">“Em có việc làm chưa?”</p>
+
+<p class="para-en">Sophie shook her head.</p>
+<p class="para-vi-sub">Sophie lắc đầu.</p>
+
+<p class="para-en">“Kids?”</p>
+<p class="para-vi-sub">“Con cái thì sao?”</p>
+
+<p class="para-en">Sophie thought of Ollie and Luna, but they weren’t hers. “No. No kids.”</p>
+<p class="para-vi-sub">Sophie nghĩ đến Ollie và Luna, nhưng chúng không phải con cô. “Không. Không có con.”</p>
+
+<p class="para-en">“You’ll need something,” he said. “If you expect to be happy. My dad always said a person needs three things to be happy: something to do; someone to love; and something to look forward to.”</p>
+<p class="para-vi-sub">“Em sẽ cần thứ gì đó,” anh nói. “Nếu em mong đợi được hạnh phúc. Bố anh luôn nói một người cần ba thứ để hạnh phúc: một việc để làm; một người để yêu; và một thứ để mong chờ.”</p>
+
+<p class="para-en">Sophie didn’t know if she had any of those things. She didn’t look forward to anything, not right now. Well, that wasn’t true. She looked forward to getting into the clean sheets of the hotel bed. Ollie had checked all the mattresses for bedbugs when they first checked in, the boy was neurotic about bedbugs, so Sophie knew it was safe to just crawl in. “Can you take me back to the hotel now?” she asked. It was already one a.m. Sophie hoped her dad was worried about her. She hoped he hadn’t left the kids alone in the room.</p>
+<p class="para-vi-sub">Sophie không biết mình có những thứ đó không. Cô chẳng mong chờ điều gì, ít nhất là lúc này. À, điều đó không đúng. Cô mong được rúc vào những chiếc ga trải giường sạch sẽ trên chiếc giường khách sạn. Ollie đã kiểm tra tất cả các tấm nệm xem có rệp giường không khi họ mới nhận phòng, cậu bé bị ám ảnh thần kinh về rệp giường, nên Sophie biết là hoàn toàn an toàn để cứ thế trèo lên giường. “Anh có thể chở em về khách sạn ngay bây giờ được không?” cô hỏi. Đã là một giờ sáng rồi. Sophie hy vọng bố cô đang lo lắng cho cô. Cô hy vọng ông đã không để lũ trẻ ở một mình trong phòng.</p>
+
+<p class="para-en">He nodded and started the van. “You should get a hobby. Besides my kids and my job, I play poker once a week. I look forward to it, every week. Time with my friends. They’re the craziest bastards. You wouldn’t believe the stories.”</p>
+<p class="para-vi-sub">Anh gật đầu và khởi động xe tải. “Em nên kiếm một sở thích đi. Ngoài các con anh và công việc ra, anh chơi poker mỗi tuần một lần. Anh rất mong chờ buổi đó, mỗi tuần. Thời gian bên những người bạn của anh. Họ là những tên khốn điên rồ nhất. Em sẽ không tin nổi những câu chuyện đó đâu.”</p>
+
+<p class="para-en">“I’m sure I wouldn’t,” Sophie said, thinking about the man in the Frosted Flakes shirt, wondering if he was part of the poker club. She didn’t want to ask.</p>
+<p class="para-vi-sub">“Em chắc chắn là mình sẽ không tin,” Sophie nói, nghĩ về người đàn ông mặc áo phông in hình Frosted Flakes, tự hỏi liệu ông ta có phải là thành viên của câu lạc bộ poker không. Cô không muốn hỏi.</p>
+
+<p class="para-en">Brandon pulled his van into the lot at the Days Inn, and the headlights shone on the window where Sophie’s dad was sleeping, and there was Pancakes, peering out between the maroon curtains. “Is that your cat in the window?”</p>
+<p class="para-vi-sub">Brandon lái xe tải vào bãi đỗ tại khách sạn Days Inn, và đèn pha chiếu vào ô cửa sổ nơi bố Sophie đang ngủ, và có chú mèo Pancakes đang ló mặt nhìn ra từ giữa tấm rèm màu đỏ sẫm. “Đó có phải con mèo của bố em ở cửa sổ không?”</p>
+
+<p class="para-en">“Yup. That’s Pancakes.”</p>
+<p class="para-vi-sub">“Vâng. Đó là Pancakes.”</p>
+
+<p class="para-en">“He’s waiting up for you. That’s so sweet.”</p>
+<p class="para-vi-sub">“Nó đang thức đợi em kìa. Thật là ngọt ngào.”</p>
+
+<p class="para-en">“He’s my dad’s cat, really. I don’t think he likes me. I’m allergic.”</p>
+<p class="para-vi-sub">“Thực ra chú ấy là mèo của bố em. Em không nghĩ chú ấy thích em đâu. Em bị dị ứng.”</p>
+
+<p class="para-en">“He likes you enough to wait up and see if you got home safe. He wants to make sure the serial killer of Hellsgate didn’t get you.”</p>
+<p class="para-vi-sub">“Nó thích em đủ để thức đợi và xem em đã về nhà an toàn chưa. Nó muốn chắc chắn là kẻ sát nhân hàng loạt ở Hellsgate không tóm được em.”</p>
+
+<p class="para-en">“There’s a serial killer in Hellsgate?”</p>
+<p class="para-vi-sub">“Có kẻ sát nhân hàng loạt ở Hellsgate á?”</p>
+
+<p class="para-en">“Of course there is; there are serial killers everywhere. But I’ve got to get back to work tonight. Don’t have time to dispose of a body before the three a.m. rush.” Brandon winked.</p>
+<p class="para-vi-sub">“Tất nhiên là có rồi; đâu đâu mà chẳng có kẻ sát nhân hàng loạt. Nhưng anh phải quay lại làm việc tối nay đây. Không có thời gian để phi tang một cái xác trước giờ cao điểm lúc ba giờ sáng đâu.” Brandon nháy mắt.</p>
+
+<p class="para-en">“Oh,” Sophie said, and she knew he was probably joking, he was almost definitely joking, but she felt the fear in her rising again. The hairs on the back of her neck standing up. The necklace made from human teeth looked awfully sinister now. She didn’t want to show her fear, so she leaned over and kissed Brandon on the lips. Not a make-out, but a quick and simple kiss, as if Brandon were her boyfriend and he was dropping her off at home after a date. She thanked him and climbed down from the van, then tried to walk quickly but not too quickly to her room and looked back once to make sure he wasn’t following her. She opened the door with the plastic keycard, and then she was inside. The automatic lock clicked behind her, and that click was the world’s most beautiful sound.</p>
+<p class="para-vi-sub">“Ồ,” Sophie nói, và cô biết có lẽ Brandon đang đùa, anh hầu như chắc chắn đang đùa, nhưng cô lại cảm thấy nỗi sợ hãi dâng lên trong lòng. Những sợi tóc sau gáy cô dựng cả lên. Chiếc vòng cổ làm từ răng người trông thật đáng sợ vào lúc này. Cô không muốn tỏ ra sợ hãi, vì vậy cô rướn người sang hôn lên môi Brandon. Không phải là một nụ hôn sâu, mà chỉ là một nụ hôn nhanh và đơn giản, cứ như thể Brandon là bạn trai cô và anh đang đưa cô về nhà sau một buổi hẹn hò. Cô cảm ơn anh rồi trèo xuống xe tải, sau đó cố gắng bước đi thật nhanh nhưng không quá nhanh về phòng mình và ngoảnh lại nhìn một lần để chắc chắn rằng anh không đi theo mình. Cô mở cửa bằng thẻ khóa nhựa rồi bước vào trong. Ổ khóa tự động kêu cách một tiếng sau lưng cô, và tiếng click đó chính là âm thanh tuyệt vời nhất trên thế giới.</p>

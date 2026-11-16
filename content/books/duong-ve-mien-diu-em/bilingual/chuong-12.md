@@ -1,135 +1,174 @@
 *Phần I: Tri Thức Cổ Xưa*
 
-# Chương 9
+# Chương 7
 
-<p class="para-en">It was nearly bedtime, and Luna still wouldn’t answer when they knocked on the bathroom door, not even when Ollie described the two-player videogames they could play together. Ollie and Luna hadn’t been allowed a turn at the videogames at the foster home; that was only for the big kids, the teenagers. But Luna wouldn’t come out, not for anything. Finally, PJ was fed up, and he dug out the screwdriver and he took the bathroom door off its hinges. He found the bathroom empty, the window open. “Holy shit, Ollie, she’s gone out the window.”</p>
-<p class="para-vi-sub">Trời đã gần đến giờ đi ngủ mà Luna vẫn không chịu trả lời khi họ gõ cửa phòng tắm, ngay cả khi Ollie kể về trò chơi điện tử hai người mà hai chị em có thể chơi cùng nhau. Ollie và Luna trước giờ không được phép chơi điện tử ở nhà nuôi dưỡng, trò đó chỉ dành cho mấy đứa lớn, bọn thanh thiếu niên thôi. Thế nhưng Luna nhất quyết không chịu bước ra, cho dù có chuyện gì đi nữa. Cuối cùng, PJ đã hết kiên nhẫn, ông lôi tua-vít ra và tháo tung cánh cửa phòng tắm khỏi bản lề. Ông thấy bên trong trống không, cửa sổ mở toang. “Trời đất quỷ thần ơi, Ollie, Luna trèo cửa sổ đi mất rồi.”</p>
+<p class="para-en">Forty-five minutes into his nap, a new cooking show episode had started, and PJ jerked awake when the phone rang in the kitchen. It took PJ a minute to realize where he was, at Fred and Ivy’s house, and he had no business picking up their phone, but he thought perhaps Fred had set up a camera somewhere and was calling to yell at him for being in their house. The cat was sleeping on his chest, so he pushed Pancakes off and ran to grab the phone. “Freddy?” he said into the receiver, hoping it was his best friend.</p>
+<p class="para-vi-sub">Chợp mắt được bốn mươi lăm phút, một tập mới của chương trình nấu ăn vừa bắt đầu thì PJ giật mình tỉnh giấc khi điện thoại trong bếp đổ chuông. PJ mất một phút mới định thần lại được mình đang ở đâu, là nhà của Fred và Ivy, và ông chẳng có lý do gì để nhấc điện thoại của họ lên, nhưng ông thầm nghĩ biết đâu Fred đã lắp camera ở đâu đó và đang gọi tới để mắng xối xả vì ông dám bén mảng vào nhà họ. Chú mèo đang ngủ trên ngực ông, thế là PJ đẩy Pancakes ra rồi vùng chạy đi nhấc máy. “Freddy?” ông nói vào ống nghe, hy vọng đó chính là người bạn thân thiết của mình.</p>
 
-<p class="para-en">“Out the window?” Ollie said, not believing it. “Did she fall?”</p>
-<p class="para-vi-sub">“Trèo cửa sổ ạ?” Ollie nói, tỏ vẻ không tin nổi. “Chị ấy có ngã không hả chú?”</p>
+<p class="para-en">“Um, hello,” a woman said on the other line. It wasn’t Fred, and it wasn’t Ivy either. PJ didn’t recognize her voice. “I’m calling to speak with Ivy Halliday?” the woman said. Ivy had kept PJ’s last name after the divorce, which PJ considered a victory. It was their family name.</p>
+<p class="para-vi-sub">“Ừm, xin chào,” một phụ nữ vang lên ở đầu dây bên kia. Đó không phải là Fred, cũng chẳng phải là Ivy. PJ không nhận ra giọng cô ta. “Tôi gọi để nói chuyện với Ivy Halliday phải không ạ?” người phụ nữ nói. Ivy vẫn giữ họ của PJ sau khi ly hôn, điều mà PJ coi là một chiến thắng. Đó là họ của gia đình họ.</p>
 
-<p class="para-en">“It’s not a long drop to the ground. She’s probably not hurt, but she’s gone. She’s run away. I’ll call the police.”</p>
-<p class="para-vi-sub">“Khoảng cách xuống mặt đất không cao lắm đâu. Chắc con bé không bị thương đâu, nhưng nó chuồn mất rồi. Nó bỏ nhà đi rồi đấy. Chú sẽ gọi cảnh sát.”</p>
+<p class="para-en">“I’m sorry, Ivy is occupied at the moment,” PJ said. He had always liked saying that to callers, because everyone knew it meant the person they were calling for was on the shitter. “This is her ex-husband; can I take a message?”</p>
+<p class="para-vi-sub">“Tôi rất tiếc, Ivy hiện đang bận,” PJ nói. Ông vẫn luôn thích nói câu đó với những người gọi tới, bởi ai cũng hiểu ý nghĩa của nó là người mà họ đang tìm đang ngồi bệt trên cái xí bệt. “Tôi là chồng cũ của cô ấy, tôi có thể nhắn lại lời nhắn không?”</p>
 
-<p class="para-en">“No,” Ollie said, shaking his head. “You do not want to call the cops. They’ll beat you up.”</p>
-<p class="para-vi-sub">“Không ạ,” Ollie vừa nói vừa lắc đầu. “Chú không muốn gọi cảnh sát đâu. Họ sẽ đánh chú nhừ tử đấy.”</p>
+<p class="para-en">“Oh, I can call back another time…”</p>
+<p class="para-vi-sub">“Ồ, vậy để tôi gọi lại lúc khác...”</p>
 
-<p class="para-en">“Why would they beat me up?” PJ asked. PJ was no friend to cops, but he thought he needed the police in this situation. A missing child was exactly why you called the cops.</p>
-<p class="para-vi-sub">“Sao họ lại đánh chú nhừ tử chứ?” PJ hỏi. PJ vốn chẳng ưa gì cảnh sát, nhưng ông nghĩ mình thực sự cần cảnh sát trong tình huống này. Một đứa trẻ mất tích chính là lý do rành rành để gọi cảnh sát chứ còn gì nữa.</p>
+<p class="para-en">“She’ll be in Alaska for a while.”</p>
+<p class="para-vi-sub">“Cô ấy sẽ ở Alaska một thời gian đấy.”</p>
 
-<p class="para-en">Ollie crossed his arms. “The cops are all my dad’s friends, and they will beat you up for losing my sister. They even might kill you.”</p>
-<p class="para-vi-sub">Ollie khoanh tay trước ngực. “Cảnh sát toàn là bạn của bố cháu, và họ sẽ đánh chú tơi bời vì dám để lạc mất chị cháu. Thậm chí họ còn có thể giết chú nữa cơ.”</p>
+<p class="para-en">“I’m sorry, did you say you’re her ex-husband? I’m currently speaking with Paul Halliday?”</p>
+<p class="para-vi-sub">“Xin lỗi, ông vừa nói ông là chồng cũ của cô ấy phải không? Tôi đang nói chuyện với Paul Halliday đúng không ạ?”</p>
 
-<p class="para-en">“Okay, okay, good point,” PJ said, trying not to panic. “We’ll go look for her first. She can’t have gone far.” His heart clutched in his chest. Not now, he thought to his heart. He had to find this poor kid. She was probably frightened. His mind went to the bogs, to the edge of town.</p>
-<p class="para-vi-sub">“Được rồi, được rồi, có lý đấy,” PJ nói, cố kìm nén cơn hoảng loạn. “Chúng ta sẽ đi tìm con bé trước đã. Nó không thể đi quá xa được đâu.” Tim ông thắt lại trong lồng ngực. Đừng có giở chứng lúc này nhé, ông thầm nhủ với trái tim mình. Ông phải tìm cho bằng được đứa trẻ tội nghiệp này. Chắc con bé đang sợ hãi lắm. Tâm trí ông bất giác hướng về phía những đầm lầy, về tận rìa thị trấn.</p>
+<p class="para-en">“Everyone calls me PJ, unless you’re my mother.” PJ’s mother had been dead for ten years. “And who’s this?”</p>
+<p class="para-vi-sub">“Ai cũng gọi tôi là PJ cả, trừ khi cô là mẹ tôi.” Mẹ của PJ đã qua đời được mười năm rồi. “Và cô là ai thế?”</p>
 
-<p class="para-en">“I’ll find her,” Ollie said. He took off before PJ could stop him.</p>
-<p class="para-vi-sub">“Cháu sẽ tìm thấy chị ấy,” Ollie nói. Cậu bé liền cắm cổ chạy vụt đi trước khi PJ kịp ngăn lại.</p>
+<p class="para-en">“My name is Belinda Bell and I’m a social worker with the Massachusetts Department of Children and Families. I’ve been trying to reach you actually. You’re hard to reach. We’ve been calling every day.”</p>
+<p class="para-vi-sub">“Tên tôi là Belinda Bell và tôi là nhân viên công tác xã hội thuộc Sở Trẻ em và Gia đình Bang Massachusetts. Thực ra tôi đã cố liên lạc với ông từ nãy đến giờ. Ông khó liên lạc thật đấy. Chúng tôi đã gọi mỗi ngày luôn.”</p>
 
-<p class="para-en">“No, come back!” PJ called, but it was too late. The boy was fast, and young. PJ tried to follow where Ollie had gone running. The social worker had said the children had lived only a few streets down when their parents were alive, but PJ couldn’t remember the street, didn’t know where their old house was, and Ollie was out of sight. PJ tried to run to catch up, but he was in no shape for this. “Luna!” he called. “Luna! Ollie! Luna!”</p>
-<p class="para-vi-sub">“Không, quay lại đây!” PJ gọi với theo, nhưng đã quá muộn. Ollie vừa nhanh nhẹn lại vừa trẻ tuổi. PJ cố gắng đuổi theo hướng Ollie vừa chạy mất hút. Nhân viên công tác xã hội từng bảo rằng khi bố mẹ còn sống, nhà của hai đứa trẻ chỉ cách đó vài con phố, nhưng PJ chẳng thể nhớ nổi đó là phố nào, cũng chẳng biết nhà cũ của chúng nằm ở đâu, mà Ollie thì đã khuất tầm mắt rồi. PJ ráng chạy để bắt kịp, nhưng thể trạng của ông lúc này chẳng cho phép làm chuyện đó. “Luna!” ông hét lên. “Luna! Ollie! Luna!”</p>
+<p class="para-en">“You’re calling from child services? My daughter Sophie’s full-grown. If you wanted to take her away, you missed your window.” He chuckled.</p>
+<p class="para-vi-sub">“Cô gọi từ bên dịch vụ trẻ em á? Con gái tôi Sophie đã trưởng thành rồi. Nếu cô muốn mang nó đi thì đã qua mất thời gian rồi đấy.” Ông khúc khích cười.</p>
 
-<p class="para-en">PJ walked up and down the street, but eventually he found his way back to Fred and Ivy’s and went back inside. There had to be someone he could call for help. He looked at the number for Belinda Bell on the paperwork on the table, and thought about calling her, begging her to come back. This was a mistake, he wanted to tell her. This was a huge mistake. I’ve already raised children, and I’ve been through too much. I lost one and I failed another, I didn’t tell you the truth when you were here, and it’s all a terrible idea for me to try it again.</p>
-<p class="para-vi-sub">PJ đi dọc theo con phố rồi lại quay về, nhưng cuối cùng ông vẫn tìm được đường quay lại nhà của Fred và Ivy rồi bước vào trong. Phải có ai đó để ông gọi nhờ giúp đỡ chứ. Ông nhìn vào số điện thoại của Belinda Bell trên đống giấy tờ đặt trên bàn, và thầm nghĩ đến việc gọi cho cô, cầu xin cô quay lại. Đây là một sai lầm, ông muốn nói với Belinda biết bao. Đây thực sự là một sai lầm to lớn. Tôi đã nuôi nấng con cái trưởng thành rồi, và tôi cũng đã trải qua quá nhiều biến cố rồi. Tôi đã đánh mất một người con và làm hỏng một người con khác, khi cô ở đây tôi đã không nói sự thật với cô, và việc tôi cứ cố gắng làm lại điều đó quả là một ý tưởng tồi tệ.</p>
+<p class="para-en">“No, no, no,” Belinda Bell said, although it was perhaps a little alarming to her that PJ was joking about his own daughter being taken away. “You’ve been mentioned in a family will,” she said, because she didn’t want to say family suicide note. “And we’re trying to determine the best path forward—”</p>
+<p class="para-vi-sub">“Không, không, không,” Belinda Bell lên tiếng, dù có lẽ cô thấy hơi đáng sợ khi PJ lại đem chuyện đứa con gái ruột của mình bị bắt đi ra để đùa cợt. “Ông có tên trong di chúc của gia đình,” cô nói, bởi cô không muốn thốt lên từ thư tuyệt mệnh của gia đình . “Và chúng tôi đang cố gắng tìm ra hướng giải quyết tốt nhất...”</p>
 
-<p class="para-en">But when PJ opened the folder, there was a photograph of the two children paper-clipped to the top. He looked at the picture of the children, smiling on the front steps of a white house, two kids who didn’t look much alike despite being siblings. But he remembered that Ollie and Luna were Irish twins, even if that wasn’t PC to say, and that made them a bit supernatural, didn’t it? Ollie would find her. It would be all right. It would be nothing like it had been before. Nothing like that.</p>
-<p class="para-vi-sub">Nhưng khi PJ mở tập hồ sơ ra, có một bức ảnh chụp hai đứa trẻ được kẹp ghim ở trang trên cùng. Ông nhìn bức ảnh hai đứa trẻ đang cười tươi trên bậc thềm trước của một ngôi nhà màu trắng, hai đứa trẻ trông chẳng có nét nào giống nhau dù là anh em ruột thịt. Thế nhưng ông nhớ ra Ollie và Luna là Sinh đôi Ireland, dù nói thế nghe có vẻ không hợp thời cho lắm, và điều đó khiến chúng trở nên hơi đặc biệt, phải vậy không nhỉ? Ollie sẽ tìm được con bé thôi. Mọi chuyện sẽ ổn cả thôi. Sẽ không giống như trước đây đâu. Sẽ không bao giờ có chuyện đó nữa.</p>
+<p class="para-en">“Oh, you can stop yourself right there,” PJ said. “I don’t want his money. I’m glad he’s dead. I’m sorry I didn’t kill him myself.”</p>
+<p class="para-vi-sub">“Ồ, cô có thể dừng luôn ở đó được rồi,” PJ nói. “Tôi không thèm tiền của hắn đâu. Tôi mừng vì hắn chết. Tôi chỉ tiếc là mình không tự tay giết hắn thôi.”</p>
 
-<p class="para-en">So. PJ didn’t call Belinda Bell. And he didn’t call the police, because he realized the police would take the kids away as soon as they found Luna, they would take them away from him and put them back in foster care. What good would that do? And he didn’t call Fred and Ivy, because what could they do all the way in Alaska? Nothing. Instead, he called his daughter Sophie, who was only down in New Bedford, close enough to be in Pondville in twenty-two minutes, but of course Sophie didn’t pick up the call. He left a long, rambling voicemail, explaining the situation, begging for some help here. Then he took the photo of Ollie and Luna from the social worker’s folder of paperwork and went out into the night to show any neighbors who might be out walking their dogs, ask if they had seen these kids.</p>
-<p class="para-vi-sub">Thế nên, PJ đã không gọi cho Belinda Bell. Ông cũng chẳng gọi cảnh sát, bởi ông nhận ra cảnh sát sẽ mang bọn trẻ đi ngay khi tìm thấy Luna, họ sẽ tách chúng khỏi ông và tống chúng trở lại hệ thống chăm sóc nuôi dưỡng. Làm vậy thì có ích gì chứ? Và ông cũng không gọi cho Fred và Ivy, bởi ở tận tuốt bên Alaska thì họ có thể làm được gì cơ chứ? Chẳng làm được gì sất. Thay vào đó, ông gọi cho con gái Sophie, người hiện đang ở tận New Bedford, đủ gần để có thể có mặt ở Pondville trong vòng hai mươi hai phút, nhưng tất nhiên là Sophie không chịu nhấc máy. Ông để lại một lời nhắn thoại dài dòng, luyên thuyên giải thích tình hình, van xin sự giúp đỡ ở đây. Sau đó, ông lấy bức ảnh chụp Ollie và Luna ra khỏi tập hồ sơ của nhân viên công tác xã hội rồi bước ra màn đêm để hỏi thăm bất kỳ người hàng xóm nào đang dắt chó đi dạo ngoài đường, xem họ có nhìn thấy mấy đứa trẻ này không.</p>
+<p class="para-en">“Mr. Halliday, you’re glad Frank Meeklin is dead?”</p>
+<p class="para-vi-sub">“Ông Halliday, ông mừng vì Frank Meeklin chết sao?”</p>
 
-<p class="para-en">Three streets over, in the white house on Deerfield Lane, Ollie ducked under the yellow caution tape still wrapped around the house. The cops had left it up, and no one dared remove the yellow tape in the month since, even if it was getting to be an eyesore. The three vultures that were usually circling the house were roosted in the branches of the tree in the yard for the night, and the birds watched the boy go in, and each rocked their weight from foot to foot. The birds huddled closer on the branch, putting their ugly heads together to discuss what would happen next.</p>
-<p class="para-vi-sub">Cách đó ba con phố, tại ngôi nhà trắng trên đường Deerfield, Ollie chui qua đoạn dây cảnh báo màu vàng vẫn đang giăng quanh ngôi nhà. Cảnh sát đã rào nó lại, và suốt cả tháng trời qua chẳng ai dám bén mảng đến tháo dỡ dải băng vàng ấy xuống, dù trông nó ngày càng chướng mắt. Ba con kền kền vẫn thường lượn lờ quanh ngôi nhà đang đậu trên cành cây ở sân để qua đêm, chúng chăm chú nhìn cậu bé bước vào, rồi lần lượt chuyển trọng lượng cơ thể từ chân này sang chân kia. Lũ chim xích lại gần nhau hơn trên cành cây, túm những cái đầu xấu xí lại để bàn tán xem chuyện gì sắp xảy ra tiếp theo.</p>
+<p class="para-en">“No, Christ. I’m glad my brother is dead. Who’s Frank Meeklin?”</p>
+<p class="para-vi-sub">“Không, lạy Chúa. Tôi mừng vì anh trai tôi chết cơ. Frank Meeklin là cái thá gì?”</p>
 
-<p class="para-en">Ollie found his sister sitting on the floor, in the spot where Luna had found their mother after she got off the school bus that day. Someone had cleaned it all up. Ollie wondered who had that job. He had never seen the mess, but his sister had described it, and Ollie could see it clearly, how it had looked. But the floor was clean now, and Luna was holding a big orange cat in her arms. Next to her was one of her mother’s purses, the big pink one that said Mama on the side, which Luna had stuffed with some of her things from their bedroom. “Hi, Ollie,” she said.</p>
-<p class="para-vi-sub">Ollie tìm thấy chị mình đang ngồi bệt trên sàn nhà, ngay đúng chỗ mà Luna từng tìm thấy mẹ sau khi cô bé bước xuống khỏi xe buýt đưa đón học sinh vào ngày hôm đó. Đã có ai đó dọn dẹp sạch sẽ bãi chiến trường ấy rồi. Ollie tự hỏi không biết ai lại phải nhận cái công việc đó nhỉ. Cậu bé chưa từng phải chứng kiến mớ hỗn độn đó, nhưng chị cậu đã miêu tả lại, và Ollie có thể hình dung rất rõ ràng mọi thứ trông ra sao. Dù vậy, sàn nhà giờ đây đã sạch bóng, và Luna đang ôm chặt một chú mèo béo ú màu cam trong tay. Ngay bên cạnh cô bé là chiếc túi xách của mẹ, cái túi màu hồng to bản có thêu chữ Mama ở bên sườn, thứ mà Luna đã nhồi nhét vào đó vài món đồ của mình lấy từ phòng ngủ chung. “Chào em, Ollie,” cô bé nói.</p>
+<p class="para-en">“You don’t know Frank Meeklin?”</p>
+<p class="para-vi-sub">“Ông không biết Frank Meeklin là ai à?”</p>
 
-<p class="para-en">“Luna. You scared us.”</p>
-<p class="para-vi-sub">“Luna, chị làm chúng em sợ muốn chết.”</p>
+<p class="para-en">“No, I do not. Did he deserve to die?”</p>
+<p class="para-vi-sub">“Không, tôi không biết. Hắn có đáng phải chết không?”</p>
 
-<p class="para-en">“Who’s us?”</p>
-<p class="para-vi-sub">“Chúng em là ai?”</p>
+<p class="para-en">“Frank Meeklin was married to your niece.”</p>
+<p class="para-vi-sub">“Frank Meeklin kết hôn với cháu gái ông mà.”</p>
 
-<p class="para-en">“Me and Uncle PJ.”</p>
-<p class="para-vi-sub">“Là em với chú PJ chứ ai.”</p>
+<p class="para-en">“Ah,” PJ said. “And who’s my niece?”</p>
+<p class="para-vi-sub">“À,” PJ thốt lên. “Và cháu gái tôi là ai thế?”</p>
 
-<p class="para-en">“What about Ms. Belinda?”</p>
-<p class="para-vi-sub">“Còn cô Belinda thì sao?”</p>
+<p class="para-en">Belinda Bell explained about Elaine Meeklin, who was the daughter of PJ’s brother, and married to Frank. She couldn’t believe he didn’t know this stuff, basic family history.</p>
+<p class="para-vi-sub">Belinda Bell giải thích về Elaine Meeklin, người là con gái của anh trai PJ và đã kết hôn với Frank. Cô không thể tin nổi là ông lại mù tịt về những chuyện này, những kiến thức cơ bản về gia phả dòng họ.</p>
 
-<p class="para-en">“Ms. Belinda’s gone.”</p>
-<p class="para-vi-sub">“Cô Belinda đi rồi.”</p>
+<p class="para-en">“My brother and I were estranged,” PJ explained. “We didn’t speak for over forty years. He burnt our mother’s house down, a few months after he tried to kill me.”</p>
+<p class="para-vi-sub">“Anh trai tôi và tôi cắt đứt quan hệ,” PJ giải thích. “Chúng tôi không nói chuyện với nhau hơn bốn mươi năm trời. Hắn đã châm lửa đốt nhà mẹ chúng tôi, chỉ vài tháng sau khi hắn cố giết tôi.”</p>
 
-<p class="para-en">“Oh,” Luna said. “Good.” She was grateful Ms. Belinda was gone, because Belinda didn’t listen. She was another adult who didn’t listen. Luna was also grateful Ollie had found her, because she didn’t have a plan from here. Luna had meant to go to the bus station next, but she realized she didn’t know where the bus station was, and she also didn’t have any money for a ticket. She had hoped she would find some money in the house, but it seemed like whoever had cleaned up the mess her mother had left had also taken the shoebox full of cash from under the bed. People had a way of disappointing Luna, all the time. “I found a cat,” Luna said to her brother, showing him the cat in her arms.</p>
-<p class="para-vi-sub">“Ồ,” Luna nói. “Tốt.” Cô bé thấy nhẹ nhõm vì cô Belinda đã đi, bởi Belinda chẳng chịu lắng nghe gì cả. Cô ấy lại là một người lớn khác không biết lắng nghe. Luna cũng thấy nhẹ nhõm vì Ollie đã tìm ra mình, bởi từ đây cô bé chẳng có kế hoạch nào tiếp theo cả. Ban đầu Luna định đến bến xe buýt, nhưng rồi cô bé nhận ra mình chẳng biết bến xe buýt nằm ở đâu, và cũng chẳng có đồng xu nào để mua vé. Cô bé từng hy vọng sẽ tìm được ít tiền trong nhà, nhưng có vẻ như kẻ dọn dẹp bãi chiến trường do mẹ cô bé để lại cũng đã cuỗm luôn chiếc hộp giày đựng đầy tiền mặt giấu dưới gầm giường. Loài người luôn có cách làm Luna thất vọng, hết lần này đến lần khác. “Chị tìm được một con mèo rồi đây,” Luna nói với em trai, giơ chú mèo đang ôm trong tay ra.</p>
+<p class="para-en">“I see,” Belinda Bell said. It was her job to be unflappable. “Well, Frank and Elaine Meeklin lived two streets down from you. Less than half a mile.”</p>
+<p class="para-vi-sub">“Tôi hiểu rồi,” Belinda Bell nói. Giữ cho tâm trạng không nao núng chính là công việc của cô. “Và thế này, Frank và Elaine Meeklin sống cách nhà ông hai con phố. Chưa đầy nửa dặm.”</p>
 
-<p class="para-en">“Where did you find him?”</p>
-<p class="para-vi-sub">“Chị tìm thấy nó ở đâu thế?”</p>
+<p class="para-en">“And Frank’s dead?”</p>
+<p class="para-vi-sub">“Và Frank đã chết rồi á?”</p>
 
-<p class="para-en">“In Uncle PJ’s bathtub. He followed me out the window when I was running away.”</p>
-<p class="para-vi-sub">“Trong bồn tắm của chú PJ. Nó chạy theo chị ra cửa sổ lúc chị đang bỏ trốn.”</p>
+<p class="para-en">“They’re both dead.” She explained what had happened, the car accident, the poisoning, the suicide, how the kids were left without parents. PJ’s heart ached. The boy had made a complete recovery from the poisoning, and PJ was glad to hear that.</p>
+<p class="para-vi-sub">“Cả hai người họ đều đã qua đời.” Cô giải thích những chuyện đã xảy ra, vụ tai nạn xe hơi, vụ đầu độc, vụ tự sát, và việc những đứa trẻ bị bỏ lại không còn cha mẹ bên cạnh. Trái tim PJ nhói lên một nhịp. Cậu con trai đã hồi phục hoàn toàn sau vụ đầu độc, và PJ thấy rất mừng khi nghe điều đó.</p>
 
-<p class="para-en">“You were…really running away?”</p>
-<p class="para-vi-sub">“Chị thực sự đang bỏ trốn á?”</p>
+<p class="para-en">“We’d like to get them in a stable home as soon as possible,” Belinda said.</p>
+<p class="para-vi-sub">“Chúng tôi muốn đưa chúng vào một mái ấm ổn định càng sớm càng tốt,” Belinda nói.</p>
 
-<p class="para-en">“Yeah.”</p>
-<p class="para-vi-sub">“Ừ.”</p>
+<p class="para-en">“Sounds like that would be best.”</p>
+<p class="para-vi-sub">“Nghe có vẻ đó là điều tốt nhất rồi.”</p>
 
-<p class="para-en">Tears were in Ollie’s eyes. “You were running away without me?”</p>
-<p class="para-vi-sub">Đôi mắt Ollie ngấn lệ. “Chị bỏ trốn mà không rủ em à?”</p>
+<p class="para-en">“Well, yes, that’s why I was hoping to talk to you, PJ. The mother, Elaine Meeklin, named you as the guardian of the children.”</p>
+<p class="para-vi-sub">“Vâng, đúng vậy, đó là lý do tôi hy vọng được nói chuyện với ông, PJ ạ. Người mẹ, Elaine Meeklin, đã chỉ định ông làm người giám hộ cho lũ trẻ.”</p>
 
-<p class="para-en">Luna stared at him. “Well, you don’t listen to me.”</p>
-<p class="para-vi-sub">Luna trừng mắt nhìn cậu bé. “Thì em có thèm nghe lời chị đâu.”</p>
+<p class="para-en">“Huh? What? Me? Why? I’m a stranger.”</p>
+<p class="para-vi-sub">“Hả? Gì cơ? Tôi á? Sao lại thế? Tôi là người dưng nước lã cơ mà.”</p>
 
-<p class="para-en">“Because you’re not the boss.”</p>
-<p class="para-vi-sub">“Vì chị có phải sếp đâu.”</p>
+<p class="para-en">“You’re a blood relative.”</p>
+<p class="para-vi-sub">“Ông là họ hàng ruột thịt.”</p>
 
-<p class="para-en">“You shouldn’t have told the nurse what I told you. I told you not to tell. Mom told me I shouldn’t even tell you about it. She said you’d never understand because you’re a boy.”</p>
-<p class="para-vi-sub">“Lẽ ra em không nên kể cho y tá nghe chuyện chị dặn. Chị đã bảo em đừng nói cơ mà. Mẹ bảo chị thậm chí không được kể cho em nghe chuyện ấy. Mẹ bảo em sẽ chẳng bao giờ hiểu được vì em là con trai.”</p>
+<p class="para-en">“I’m an old man. One foot in the grave.”</p>
+<p class="para-vi-sub">“Tôi là một ông già rồi. Một chân bước vào quan tài.”</p>
 
-<p class="para-en">The cat jumped out of Luna’s arms and went to sniff Ollie’s feet. One of Ollie’s tears fell onto the cat’s head, and the droplet was absorbed into the orange fur. “Okay,” Ollie said. “Fine. I’m sorry.”</p>
-<p class="para-vi-sub">Chú mèo nhảy khỏi tay Luna và tiến lại ngửi chân Ollie. Một giọt nước mắt của Ollie rơi trúng đầu chú mèo, và giọt nước ấy thấm ngay vào lớp lông màu cam. “Được rồi,” Ollie nói. “Thôi được. Em xin lỗi.”</p>
+<p class="para-en">“You’re in your sixties, the paperwork said? Not so old.”</p>
+<p class="para-vi-sub">“Ông đang ở độ tuổi sáu mươi, trong giấy tờ ghi thế mà? Đâu có già lắm đâu.”</p>
 
-<p class="para-en">“What are you sorry for?” Luna asked. She was testing him.</p>
-<p class="para-vi-sub">Luna hỏi dồn: “Em xin lỗi vì điều gì?” Cô bé đang thử thách cậu em.</p>
+<p class="para-en">“Right. Not so old, I guess. If you say so.” The cat meowed, and PJ reached to pet him. The cat meowed again, so PJ went to the fridge and poured out some milk, one day away from its expiration date. As the cat drank the milk, and Belinda Bell told him more about these poor children, PJ thought of Pancakes in the animal shelter, waiting for a home, waiting to be euthanized. Of course, the foster-care system didn’t euthanize the children at the end of the month, but it wasn’t a real home, it was a brick building crammed with children in the worst part of Springfield, that was how Belinda Bell described it. PJ Halliday believed all children should have a real home. But also, he didn’t know if he was able to do it. Take care of two kids by himself.</p>
+<p class="para-vi-sub">“Phải. Chắc là không quá già đâu nhỉ. Nếu cô nói thế.” Chú mèo kêu meo meo, và PJ với tay xoa đầu chú. Chú mèo lại kêu meo meo lần nữa, thế là PJ bước ra tủ lạnh rồi rót một ít sữa ra bát, loại sữa chỉ còn một ngày nữa là hết hạn. Trong khi chú mèo uống sữa, và Belinda Bell tiếp tục kể cho ông nghe nhiều hơn về những đứa trẻ đáng thương này, PJ nghĩ về Pancakes trong trạm cứu hộ động vật, đang chờ đợi một mái nhà, đang chờ đợi bị tiêm thuốc trợ tử. Tất nhiên, hệ thống chăm sóc nuôi dưỡng không tiêm thuốc trợ tử cho lũ trẻ vào cuối tháng, nhưng đó không phải là một mái nhà thực sự, đó chỉ là một tòa nhà gạch chật ních trẻ em nằm ở khu tồi tàn nhất Springfield, đó chính là cách mà Belinda Bell miêu tả nó. PJ Halliday tin rằng tất cả trẻ em đều xứng đáng có một mái nhà thực sự. Nhưng đồng thời, ông cũng chẳng biết liệu mình có đủ khả năng làm điều đó hay không. Tự mình chăm sóc hai đứa trẻ.</p>
 
-<p class="para-en">“For being a boy. And for not listening to you. I’ll listen to you.”</p>
-<p class="para-vi-sub">“Vì làm con trai. Và vì đã không chịu nghe lời chị. Từ giờ em sẽ nghe lời chị.”</p>
+<p class="para-en">“What happens if I say no?” PJ asked. “What happens if I can’t do it?”</p>
+<p class="para-vi-sub">“Chuyện gì sẽ xảy ra nếu tôi nói không?” PJ hỏi. “Chuyện gì sẽ xảy ra nếu tôi không làm nổi?”</p>
 
-<p class="para-en">“Always?”</p>
-<p class="para-vi-sub">“Luôn luôn nhé?”</p>
+<p class="para-en">“You can say no, of course you can, no one would blame you. If you decide you can’t be the guardian of the children, the children will remain in the care of the state. We will find them placement in foster homes. But for many reasons, we prefer to place children in the homes of blood relatives, especially children who have been through extreme trauma, so we believe you are their ideal caretaker.”</p>
+<p class="para-vi-sub">“Ông có thể nói không, tất nhiên là được chứ, chẳng ai trách ông đâu. Nếu ông quyết định mình không thể làm người giám hộ cho bọn trẻ, chúng sẽ tiếp tục ở lại trong sự bảo bọc của tiểu bang. Chúng tôi sẽ tìm cho chúng chỗ ở tại các gia đình nhận nuôi. Nhưng vì rất nhiều lý do, chúng tôi vẫn ưu tiên đưa trẻ về những gia đình họ hàng huyết thống, đặc biệt là những đứa trẻ từng trải qua sang chấn tâm lý nặng nề, thế nên chúng tôi tin rằng ông chính là người chăm sóc lý tưởng nhất.”</p>
 
-<p class="para-en">“Yes. But you can’t leave without me again.”</p>
-<p class="para-vi-sub">“Vâng. Nhưng chị không được phép bỏ đi mà không có em nữa đấy.”</p>
+<p class="para-en">“I see.” PJ liked hearing himself described as an ideal caretaker.</p>
+<p class="para-vi-sub">“Tôi hiểu rồi.” PJ khá thích thú khi nghe bản thân được miêu tả là một người chăm sóc lý tưởng.</p>
 
-<p class="para-en">“Deal,” she said. “I won’t leave without you again.”</p>
-<p class="para-vi-sub">“Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”</p>
+<p class="para-en">“Do you have experience caring for children, Mr. Halliday?”</p>
+<p class="para-vi-sub">“Ông đã có kinh nghiệm chăm sóc trẻ con chưa, thưa ông Halliday?”</p>
 
-<p class="para-en">“Good.” He wiped his eyes. “Are you coming back to Uncle PJ’s? He’s not bad, Luna, he’s not mean or crazy like Grandpa, I can tell. He got us a trampoline, and a PlayStation. And bunk beds. Brand-new. They still have plastic on the mattresses. No bugs.” There had been bedbugs at the foster home in Springfield. “And he said he loves us,” Ollie lied. “He said he loves us already.”</p>
-<p class="para-vi-sub">“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Chú ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và chú ấy bảo chú ấy yêu quý chúng ta,” Ollie nói dối. “Chú ấy bảo chú ấy đã yêu quý chúng ta rồi.”</p>
+<p class="para-en">“Yes,” PJ said. “I have two kids of my own.” He did not tell her one of them was dead, because it was none of this woman’s business. But when the kids were little, man, you know what, he had been a good dad. He was always home from the post office before they got back from school, and he got on the floor with the Legos, he did bedtime stories, made afterschool sandwiches. He asked them questions about their lives and let them know he was always there to talk about their problems. He held them when they cried. He bought them gifts to make them happy. He tried not to lose his patience. He tried to never yell. He only went to the bar twice or three times a week.</p>
+<p class="para-vi-sub">“Có chứ,” PJ nói. “Tôi có hai đứa con ruột.” Ông không nói với cô rằng một trong số chúng đã chết, vì đó không phải là chuyện của người phụ nữ này. Nhưng khi bọn trẻ còn nhỏ, trời ạ, bạn biết đấy, ông đã là một người bố tốt. Ông luôn về nhà từ bưu điện trước khi chúng tan học, và ông ngồi bệt xuống sàn chơi Lego, kể chuyện trước giờ đi ngủ, làm bánh mì kẹp ăn xế cho chúng. Ông hỏi han về cuộc sống của chúng và cho chúng biết ông luôn ở đó để trò chuyện về mọi rắc rối. Ông ôm chúng khi chúng khóc. Ông mua quà để chúng vui. Ông cố gắng không mất kiên nhẫn. Ông cố gắng không bao giờ quát tháo. Ông chỉ đến quán rượu hai hoặc ba lần một tuần.</p>
 
-<p class="para-en">“I’ll stay there for tonight, I guess,” Luna agreed. “I can’t stay here,” she said, looking around their old house, which seemed so different than it had. Musty. Haunted. But it had never been an especially safe place, when her grandpa lived there, or when her dad got too angry or drunk, or when her mom called their neighbor Michael Hoonhaut and accused him of looking into their windows, which Luna was pretty sure he’d never done. It was a scary and confusing place, where it had always felt like anything could happen at any time, and you didn’t know when you woke up if it would be a good day or a bad one.</p>
-<p class="para-vi-sub">“Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.</p>
+<p class="para-en">Sure, after the tragedy with Kate, he’d checked out a little. Started drinking more. That was when he started going down to the bar every day. That was when three beers a night became ten a night, and eventually PJ could put away thirty beers in a day. He wasn’t proud of it. PJ was sorry he hadn’t been the best father to Sophie after Kate’s death, during all of Sophie’s teenage years and into her twenties. He gotten so drunk he peed his pants at her high school graduation, then wasn’t invited to her college one. He had missed so many things. Lately, he wished he could get a second chance with Sophie. Well, this was a second chance, on the phone with Belinda Bell. A different kind of chance from the one he’d hoped for, but still a second chance to be a good father figure. A grandfather figure. “Okay,” he said into the phone to Belinda Bell. “I’ll do it. I’ll take care of them.”</p>
+<p class="para-vi-sub">Đương nhiên, sau thảm kịch của Kate, ông đã có chút buông xuôi. Bắt đầu uống nhiều hơn. Đó là lúc ông bắt đầu lai vãng đến quán rượu mỗi ngày. Đó là lúc ba ly bia mỗi đêm biến thành mười ly, và cuối cùng PJ có thể nốc sạch ba mươi ly bia trong một ngày. Ông không tự hào gì về điều đó. PJ hối hận vì đã không là một người bố tốt nhất cho Sophie sau cái chết của Kate, suốt những năm tháng tuổi thiếu niên và bước sang tuổi hai mươi của Sophie. Ông đã say mèm đến mức tè dầm trong lễ tốt nghiệp trung học của cô, rồi không được mời đến lễ tốt nghiệp đại học của cô. Ông đã bỏ lỡ quá nhiều thứ. Dạo gần đây, ông ước gì mình có được một cơ hội thứ hai với Sophie. Vâng, đây chính là cơ hội thứ hai, qua điện thoại với Belinda Bell. Một loại cơ hội khác với những gì ông từng hy vọng, nhưng vẫn là cơ hội thứ hai để làm một hình mẫu người bố tốt. Một hình mẫu ông nội. “Được rồi,” ông nói vào điện thoại với Belinda Bell. “Tôi sẽ làm. Tôi sẽ chăm sóc chúng.”</p>
 
-<p class="para-en">“No,” Ollie agreed, also looking around the house. “I never want to come back here again.”</p>
-<p class="para-vi-sub">“Không,” Ollie đồng thời cũng nhìn quanh nhà và hùa theo. “Em chẳng bao giờ muốn quay lại đây nữa.”</p>
+<p class="para-en">“I’m very glad to hear that. But I do have one more thing to ask you, Mr. Halliday. We did find the DUIs on your record. Can you tell me about those?”</p>
+<p class="para-vi-sub">“Tôi rất vui khi nghe điều đó. Nhưng tôi còn một điều nữa muốn hỏi ông, ông Halliday. Chúng tôi có tìm thấy các lỗi lái xe khi say rượu trong lý lịch của ông. Ông có thể kể cho tôi nghe về những lần đó không?”</p>
 
-<p class="para-en">“Should we burn it down?” Luna asked, because she had the lighter from the woman she’d stolen the cigarettes from, but Ollie said no, he didn’t want to. Luna knew her grandfather had burned down a house once; he had told her the story. He had tried to burn down the house with a woman inside, but the woman had escaped. Her grandpa had lots of terrifying stories like that, things he’d done or wanted to do. “Uncle PJ really said he loves us?” Luna asked.</p>
-<p class="para-vi-sub">“Hay chúng ta đốt quách nó đi nhỉ?” Luna đề nghị, bởi cô bé đang mang theo chiếc bật lửa lấy từ người phụ nữ mà cô bé đã ăn cắp thuốc lá, nhưng Ollie bảo không, cậu bé không muốn thế. Luna biết ông ngoại từng đốt nhà một lần rồi; ông đã kể cho cô bé nghe câu chuyện đó. Ông từng cố châm lửa đốt căn nhà có một người phụ nữ bên trong, nhưng người phụ nữ ấy đã chạy thoát. Ông ngoại có rất nhiều câu chuyện đáng sợ kiểu như thế, những việc ông từng làm hoặc muốn làm. “Chú PJ thực sự nói chú ấy yêu quý chúng ta á?” Luna hỏi lại.</p>
+<p class="para-en">“Oh, I’m sober now. Been sober for a long time.” It hadn’t been a long time, not really, but it felt like a long time. He knew Ivy would have scolded him for lying, smacked him on the back of his head and asked him what he was thinking. But Ivy wasn’t there.</p>
+<p class="para-vi-sub">“Ồ, giờ tôi đã cai rượu rồi. Đã cai được một thời gian dài rồi.” Thực ra thì chưa lâu lắm, không hẳn thế, nhưng có cảm giác như đã lâu lắm rồi. Ông biết Ivy sẽ mắng cho một trận vì tội nói dối, giáng cho một cái tát vào gáy và hỏi ông đang nghĩ cái quái gì trong đầu. Nhưng Ivy không có ở đó.</p>
 
-<p class="para-en">“Yes,” Ollie lied again. “He did.”</p>
-<p class="para-vi-sub">“Vâng,” Ollie lại nói dối. “Chú ấy nói thế.”</p>
+<p class="para-en">“Just what I was hoping to hear,” Belinda Bell said. “And it was eight years ago? No problems since?”</p>
+<p class="para-vi-sub">“Đúng điều tôi đang hy vọng được nghe,” Belinda Bell nói. “Và chuyện đó đã cách đây tám năm rồi phải không? Không có rắc rối nào kể từ đó chứ?”</p>
 
-<p class="para-en">Luna could see Ollie was lying, but she let herself be comforted anyway.</p>
-<p class="para-vi-sub">Luna thừa biết Ollie đang nói dối, nhưng cô bé vẫn để mặc bản thân được an ủi.</p>
+<p class="para-en">“No problems since.”</p>
+<p class="para-vi-sub">“Không có rắc rối nào kể từ đó.”</p>
 
-<p class="para-en">“And if he doesn’t, we’ll run away together. We’ll find your dad,” Ollie promised.</p>
-<p class="para-vi-sub">“Và nếu chú ấy không thương, chúng ta sẽ lại cùng nhau bỏ trốn. Chúng ta sẽ đi tìm bố của chị,” Ollie hứa hẹn.</p>
+<p class="para-en">“Good. We can forgive things that happened in the distant past, if you’ve modified your behavior.”</p>
+<p class="para-vi-sub">“Tốt. Chúng ta có thể bỏ qua những chuyện xảy ra trong quá khứ xa xôi, nếu ông đã sửa đổi hành vi của mình.”</p>
 
-<p class="para-en">“Okay,” Luna said. She needed to hear that too.</p>
-<p class="para-vi-sub">“Được,” Luna đáp. Cô bé cũng đang rất cần được nghe câu đó.</p>
+<p class="para-en">The distant past, PJ thought. He liked how that sounded. It was far behind him. “I have,” he assured her.</p>
+<p class="para-vi-sub">Quá khứ xa xôi, PJ thầm nghĩ. Ông thích cách cụm từ đó vang lên. Nó đã lùi lại rất xa phía sau ông. “Tôi đã sửa đổi,” ông đoan chắc với cô.</p>
 
-<p class="para-en">The vultures in the maple tree outside the house craned their long, ugly necks and watched the Meeklin children leave the house on Deerfield Lane, the girl carrying the orange cat. The birds watched the children walking back toward Clear Pond Road, listening to the distant calls of Uncle PJ shouting their names. Luna stayed silent, but Ollie called back: “We’re here! We have your cat, Uncle PJ! She’s alive!”</p>
-<p class="para-vi-sub">Lũ kền kền đậu trên cây thích ngoài ngôi nhà vươn những chiếc cổ dài và xấu xí của chúng ra, chăm chú nhìn hai chị em nhà Meeklin rời khỏi căn nhà trên đường Deerfield, cô chị đang bế chú mèo màu cam trên tay. Lũ chim dõi theo bóng hai đứa trẻ đang đi ngược về phía đường Clear Pond, vẳng nghe tiếng PJ gọi tên chúng từ đằng xa. Luna giữ im lặng, nhưng Ollie hét lớn đáp lời: “Bọn cháu đây ạ! Bọn cháu tìm được mèo của chú PJ rồi chú PJ ơi! Nó vẫn còn sống!”</p>
+<p class="para-en">“I’m looking at my calendar now,” Belinda Bell continued. “I’ll bring the kids to you and check out the house and if everything looks good, they’ll be yours.”</p>
+<p class="para-vi-sub">“Tôi đang xem lịch của mình đây,” Belinda Bell tiếp tục. “Tôi sẽ đưa lũ trẻ đến chỗ ông, kiểm tra ngôi nhà và nếu mọi thứ ổn thỏa, chúng sẽ thuộc về ông.”</p>
 
-<p class="para-en">Alive, the buzzards agreed, stretching their wings and bobbing their naked heads. Alive, alive, alive, they rasped. Vultures don’t screech or call like other birds; they only hiss and make clicking sounds. They’re otherwise silent animals, like death itself. But here was something new: the vultures chanting the word alive over and over, hoping those poor children would stay safe and protected, forever and ever, amen.</p>
-<p class="para-vi-sub">Còn sống, lũ kền kền đồng thanh xác nhận, chúng xòe rộng đôi cánh và ngẩng cái đầu trụi lông lên xuống. Sống, sống, sống, chúng khàn giọng rít khẽ. Kền kền không hề kêu éc éc hay hót như những loài chim khác; chúng chỉ xì xè và phát ra những tiếng lách cách. Về cơ bản chúng là loài vật trầm lặng, y như thần chết vậy. Nhưng ở đây lại có một điều hoàn toàn mới lạ: bầy kền kền cứ cất tiếng lặp đi lặp lại từ sống mãi không thôi, như thể đang cầu mong cho hai đứa trẻ tội nghiệp ấy được bình an và chở che, mãi mãi về sau, amen.</p>
+<p class="para-en">“They’ll be mine ? Just like that?”</p>
+<p class="para-vi-sub">“Chúng sẽ thuộc về tôi á? Cứ thế này thôi ư?”</p>
+
+<p class="para-en">“There’s far fewer hoops to jump through with next of kin, and so we will always favor this sort of placement. Let’s say the Monday after Memorial Day, that’ll give you about two weeks to get ready. Does that Monday work?”</p>
+<p class="para-vi-sub">“Có rất ít thủ tục rườm rà khi xét đến người thân ruột thịt, và vì thế chúng tôi sẽ luôn ưu tiên hình thức sắp xếp này. Cứ cho là vào thứ Hai tuần sau Lễ Tưởng Niệm đi, như vậy ông sẽ có khoảng hai tuần để chuẩn bị. Thứ Hai đó có ổn không?”</p>
+
+<p class="para-en">PJ knew he didn’t have anything on that Monday, without needing to look at any calendar. And then Belinda Bell was confirming PJ’s home address on the phone, and that’s when PJ realized, this social worker could not be allowed to see the state of his house. His piles and piles. It was no place for a child, let alone two. “Actually,” PJ said. “There’s a typo. It’s 33 Clear Pond Road, not 13 Clear Pond.”</p>
+<p class="para-vi-sub">PJ biết chắc chắn vào thứ Hai đó ông chẳng bận gì sất, chẳng cần phải nhìn vào bất kỳ cuốn lịch nào. Và rồi Belinda Bell xác nhận lại địa chỉ nhà của PJ qua điện thoại, chính lúc đó PJ mới nhận ra, nhân viên công tác xã hội này tuyệt đối không được phép nhìn thấy tình trạng ngôi nhà của ông. Những đống rác chất cao như núi của ông. Đó không phải là nơi dành cho một đứa trẻ, chứ đừng nói là hai đứa. “Thực ra,” PJ nói. “Có một lỗi đánh máy. Phải là ngôi nhà số 33 đường Clear Pond, chứ không phải ngôi nhà số 13 đường Clear Pond.”</p>
+
+<p class="para-en">“Oh,” Belinda Bell said. “Let me get that changed.” She also needed an email address. PJ didn’t have a computer, but he had his own email address. His daughter Sophie had set it up for him in case he ever wanted to apply for a job. Belinda said she’d send all the initial paperwork right over. A list of things the kids would need in order for PJ to pass the home visit. To prove he could give children a proper home.</p>
+<p class="para-vi-sub">“Ồ,” Belinda Bell nói. “Để tôi sửa lại chỗ đó.” Cô ấy cũng cần một địa chỉ email. PJ không có máy tính, nhưng ông có địa chỉ email của riêng mình. Con gái Sophie đã lập cho ông phòng khi ông muốn xin việc làm. Belinda nói cô ấy sẽ gửi toàn bộ giấy tờ ban đầu qua email ngay lập tức. Một danh sách những thứ bọn trẻ cần để PJ có thể vượt qua buổi kiểm tra nhà cửa. Để chứng minh PJ có thể mang lại một mái ấm tử tế cho trẻ em.</p>
+
+<p class="para-en">When PJ Halliday hung up, he was shaking. “My brother’s grandkids, holy shit,” he said. It had not occurred to him that his brother had grandkids. He tried to never think about his brother.</p>
+<p class="para-vi-sub">Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu nội của anh trai tôi, lạy Chúa quỷ tha ma bắt,” ông lẩm bẩm. Ông chưa bao giờ nghĩ đến chuyện anh trai mình lại có cháu nội. Ông vẫn luôn cố gắng không bao giờ nghĩ về người anh trai đó.</p>
+
+<p class="para-en">The cat looked at him.</p>
+<p class="para-vi-sub">Chú mèo nhìn ông.</p>
+
+<p class="para-en">“My brother and I weren’t close,” he told the cat. When Chip was at the bar, they would sit at opposite ends. Everyone at the bar knew the two men hated each other, but most people didn’t know they were brothers. When Chip died, PJ bought everyone at the bar a round in celebration. Some people thought it was in bad taste, since the man had killed himself, but no one turned down the free drink.</p>
+<p class="para-vi-sub">“Tôi và anh trai không thân nhau,” ông nói với chú mèo. Khi Chip còn ở quán rượu, họ thường ngồi ở hai đầu đối diện. Ai ở quán rượu cũng biết hai kẻ đó căm ghét lẫn nhau, nhưng hầu hết mọi người không biết họ là anh em ruột. Khi Chip chết, PJ đã bao trọn một lượt đồ uống cho cả quán để ăn mừng. Một vài kẻ nghĩ điều đó thật kém sang, vì gã đàn ông đó đã tự kết liễu đời mình, nhưng chẳng ai từ chối ly rượu miễn phí cả.</p>
+
+<p class="para-en">PJ went upstairs to Fred’s office. He sat at the desk and turned on the computer, put in the password for his email. There it was: From Belinda Bell, Licensed Social Worker. Attached was a list of things children needed. Water and food and a place to sleep, pajamas and clothes and books and toys. PJ already knew all this. He had raised two children; he wasn’t a moron.</p>
+<p class="para-vi-sub">PJ đi lên lầu vào phòng làm việc của Fred. Ông ngồi vào bàn làm việc, bật máy tính lên và nhập mật khẩu email của mình. Nó đây rồi: Từ Belinda Bell, Nhân viên Công tác Xã hội được Cấp phép. Đính kèm là danh sách những thứ trẻ em cần. Nước, thức ăn, chỗ ngủ, đồ ngủ, quần áo, sách vở và đồ chơi. PJ đã biết thừa mấy thứ này rồi. Ông đã nuôi nấng hai đứa con cơ mà; ông có phải là đồ đần đâu.</p>
+
+<p class="para-en">“They’ll need new beds, for starters,” PJ announced to the room full of filing boxes. The cat hadn’t followed him upstairs, so PJ was talking to himself, but some things have to be planned aloud. “And we’ll have to clear this room out,” he said.</p>
+<p class="para-vi-sub">“Trước hết chúng sẽ cần những chiếc giường mới,” PJ lớn tiếng thông báo với căn phòng toàn những hộp đựng tài liệu. Chú mèo không đi theo ông lên lầu, thế nên PJ đang tự nói chuyện một mình, nhưng có những thứ bắt buộc phải được lên kế hoạch ra thành tiếng. “Và chúng ta sẽ phải dọn sạch căn phòng này,” ông nói.</p>
+
+<p class="para-en">PJ opened the other attachment in Belinda Bell’s email. It was a photograph. Two kids, nine or ten years old. Both smiling for the camera. They didn’t look too much alike, PJ thought, a big redhead and a small brunette. Then again, he and his brother hadn’t looked too much alike, and for that PJ had always been thankful. PJ was the big one, his brother had been thin, and eagle-nosed. PJ typed into the computer: Where to buy beds for children?</p>
+<p class="para-vi-sub">PJ mở tệp đính kèm còn lại trong email của Belinda Bell. Đó là một bức ảnh. Hai đứa trẻ, khoảng chín hoặc mười tuổi. Cả hai đang mỉm cười trước ống kính. PJ thầm nghĩ trông chúng không giống nhau cho lắm, một đứa tóc đỏ to lớn và một đứa tóc nâu nhỏ nhắn. Mà nghĩ lại thì, ông và anh trai ông cũng có giống nhau đâu, và vì điều đó mà PJ luôn cảm thấy biết ơn. PJ là đứa to con, còn anh trai ông thì gầy gò và có chiếc mũi khoằm như chim ưng. PJ gõ vào máy tính: Mua giường cho trẻ em ở đâu?</p>
+
+<p class="para-en">IKEA, the computer replied. PJ had never been to an IKEA. The nearest one was forty minutes away.</p>
+<p class="para-vi-sub">IKEA, máy tính trả lời. PJ chưa từng đến IKEA bao giờ. Cửa hàng gần nhất cách đó bốn mươi phút lái xe.</p>
+
+<p class="para-en">Downstairs, PJ grabbed the Volvo keys and found the cat perched on the kitchen table, sitting on top of the road map, his golden eyes intense, his tail twitching. You’ve forgotten our plan, the cat seemed to be saying. For the past hour, PJ had indeed forgotten about the road trip he had planned, he’d been thinking only about these children, these poor children who needed a home. Dammit, he wanted to go on that trip. If Fred and Ivy were going to be in Alaska, he wanted to go somewhere too. And he needed a date for the wedding.</p>
+<p class="para-vi-sub">Ởdưới nhà, PJ cầm lấy chìa khóa chiếc Volvo và bắt gặp chú mèo đang ngự trên bàn bếp, ngồi lên tấm bản đồ đường đi, đôi mắt vàng rực đầy vẻ đăm chiêu, chiếc đuôi ngoe nguẩy liên hồi. Mày quên mất kế hoạch của chúng ta rồi, chú mèo như đang muốn nói vậy. Suốt một tiếng đồng hồ qua, PJ thực sự đã quên bẵng đi chuyến đi đường dài mà ông từng lên kế hoạch, đầu óc ông lúc này chỉ toàn nghĩ về những đứa trẻ đó, những đứa trẻ tội nghiệp đang cần một mái nhà. Mẹ kiếp, ông vẫn muốn thực hiện chuyến đi đó. Nếu Fred và Ivy định tới Alaska, ông cũng muốn đi đâu đó cho bằng được. Và ông đang cần một người đi cùng dự đám cưới.</p>
+
+<p class="para-en">Well. Maybe it didn’t need to be called off. They would arrive right after Memorial Day, and children had a summer vacation coming up soon after that, didn’t they? Maybe they would like to go on a trip. Michelle Cobb probably loved children. But they would have to take the Volvo. He couldn’t drive the convertible, what with it not running yet, and not if he had two children with him, plus the cat. The Volvo had a good safety rating, everyone knows that about Volvos, and people with children cared about things like that. He remembered how angry Ivy had been, way back when, when he’d first bought the two-seater Jaguar convertible for his own fortieth birthday. She had wanted to know how she was going to cart their two children around town in that thing. He had told her it was his midlife crisis, it wasn’t about the children, and she hadn’t spoken to him for three weeks.</p>
+<p class="para-vi-sub">Àthì. Có lẽ mọi thứ không cần phải hủy bỏ đâu. Chúng sẽ đến ngay sau Lễ Tưởng Niệm, và lũ trẻ sắp có kỳ nghỉ hè ngay sau đó đúng không nhỉ? Biết đâu chúng lại thích đi chơi xa một chuyến thì sao. Michelle Cobb có lẽ rất thích trẻ con. Nhưng họ sẽ phải đi bằng chiếc Volvo. PJ không thể lái chiếc mui trần được, vả lại nó vẫn chưa chạy được, và chắc chắn không thể dùng nó nếu ông chở theo hai đứa trẻ cùng với chú mèo. Chiếc Volvo có mức độ an toàn rất cao, ai cũng biết điều đó về dòng xe Volvo, và những người có con cái thường rất quan tâm đến những chuyện như thế. PJ nhớ lại Ivy đã tức giận đến mức nào vào cái dạo ấy, khi ông vừa mua chiếc xe mui trần Jaguar hai chỗ ngồi nhân dịp sinh nhật tuổi bốn mươi của mình. Ivy đã muốn biết làm thế nào để chở hai đứa con của họ đi khắp thị trấn bằng cái thứ đó. PJ đã bảo với bà đó là cơn khủng hoảng tuổi trung niên của ông, nó chẳng liên quan gì đến lũ trẻ cả, và thế là Ivy đã không thèm nói chuyện với ông suốt ba tuần liền.</p>
+
+<p class="para-en">Yes, PJ would have to take the red Volvo Bird Barn on the trip and ask for Fred’s forgiveness later. And today, he would go to IKEA to get bunk beds, and to the PetSmart for some cat food and a leash and a harness. Alaska didn’t look like such a big adventure now. He had errands to run. Things to buy. PJ knew from experience: Children need so many things. It’s how you end up with a house full of crap, once your children have grown up or are otherwise gone.</p>
+<p class="para-vi-sub">Đúng vậy, PJ sẽ phải lái chiếc Volvo Chuồng Chim màu đỏ cho chuyến đi này và sau đó sẽ xin Fred tha lỗi sau. Còn hôm nay, PJ sẽ đến IKEA để mua giường tầng, và ghé PetSmart để mua thức ăn cho mèo cùng với một sợi dây dắt và dây đai ngực. Chuyến đi Alaska giờ đây trông chẳng còn vẻ gì là phiêu lưu to tát nữa. PJ còn khối việc phải chạy đôn chạy đáo. Đồ đạc phải mua. Kinh nghiệm xương máu đã dạy cho PJ biết rằng: Trẻ con cần rất nhiều thứ. Đó là lý do vì sao nhà bạn lại chất đầy những đống rác rưởi một khi lũ trẻ đã lớn khôn hoặc đã đi vắng mất rồi.</p>

@@ -1,129 +1,81 @@
-*Phần II: Rời Pondville • Ngày 5 (Thứ Bảy)*
+*Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu*
 
-# Chương 40
+# Chương 33
 
-<p class="para-en">PJ woke up as they were approaching their destination, his head throbbing. There was a bus stop outside the country-club gates with a poster taped on the side for a lost cat. Always a sad thing, to see a poster like that. Heartbreaking. And then they drove the Volvo inside the iron gates of the country club, and the lost cat was quickly forgotten.</p>
-<p class="para-vi-sub">P J tỉnh giấc khi họ đang tiến đến điểm hẹn, đầu đau như búa bổ. Có một trạm xe buýt ngay bên ngoài cổng câu lạc bộ đồng quê, trên thành trạm dán một tờ rơi tìm mèo lạc. Trông mấy tờ rơi kiểu này lúc nào cũng buồn tê tái. Đau thắt cả ruột gan. Rồi chiếc Volvo lao qua những cánh cổng sắt của câu lạc bộ đồng quê, và chuyện con mèo lạc nhanh chóng bị gạt phăng đi.</p>
+<p class="para-en">No one could agree on what music to listen to, somber or upbeat, glad they had survived but also so sorry other people had died, so finally Sophie put the GRE audiobook back on. It was soothing, listening to the man drone on and on about the words Sophie was supposed to know if she ever actually took the test.</p>
+<p class="para-vi-sub">Chẳng ai thống nhất được nên nghe thể loại nhạc gì, buồn bã hay sôi động, vừa mừng vì thoát chết nhưng cũng vừa xót xa vì người khác đã bỏ mạng, thế nên cuối cùng Sophie đành bật lại cuộn sách nói luyện thi GRE. Âm thanh đều đều của người đàn ông cứ lải nhải hết từ này đến từ khác mà lẽ ra Sophie phải nắm lòng nếu thực sự tham gia kỳ thi ấy mang lại cảm giác thật dịu nhẹ.</p>
 
-<p class="para-en">“Have I died and gone to heaven?” PJ asked, looking out the window. The parking lot was flooded with women, all over forty, and all these women were dressed up like they were going to a summer wedding. PJ had never in his life seen so much floral, so many beautiful flowers, each woman a garden. PJ wondered if there was time for one more fling before they got to Michelle Cobb. Then again, maybe not, because oh man, did his head hurt. They had made it to the meet-and-greet, and PJ wasn’t even sure he could get out of the car. “I’m going to stay in the car and rest,” he said. “You take them in.”</p>
-<p class="para-vi-sub">“Bố chết rồi lên thiên đàng hay sao ấy nhỉ?” PJ hỏi, nhìn ra ngoài cửa sổ. Bãi đậu xe đông nghịt phụ nữ, ai nấy đều trên bốn mươi tuổi, và tất cả bọn họ đều ăn diện như thể sắp sửa dự một đám cưới mùa hè. Cả đời PJ chưa từng thấy lắm họa tiết hoa hòe hoa sói đến thế, lắm đóa hoa rực rỡ đến thế, mỗi người phụ nữ trông như một khu vườn di động. PJ tự hỏi liệu có kịp tạt qua làm thêm một cuộc tình chớp nhoáng nữa trước khi họ tìm đến Michelle Cobb hay không. Mà thôi, nghĩ lại thì chắc là không, vì ôi trời ơi, đầu ông đau quá cơ. Họ đã đến được buổi giao lưu rồi, và PJ thậm chí còn chẳng chắc mình có nổi sức để bước ra khỏi xe nữa không. “Bố ở lại trên xe nghỉ ngơi đây,” ông nói. “Con đưa tụi nhỏ vào đi.”</p>
+<p class="para-en">They drove for an hour before the kids started complaining about their hunger, so Sophie stopped at a Cracker Barrel, which she was sure the kids would like, even Ollie, who still campaigned for McDonald’s at every meal. But her dad said he didn’t want anything to eat; he wanted some time to himself in the car. It wasn’t like him to miss out on a meal, especially after skipping breakfast, but it had not been an ordinary morning. Sophie asked him for his credit card, and he forked the Visa over, but he also asked if he could use her phone.</p>
+<p class="para-vi-sub">Họ lái xe suốt một tiếng đồng hồ trước khi lũ trẻ bắt đầu kêu đói, vậy nên Sophie tạt vào một nhà hàng Cracker Barrel, nơi cô chắc chắn lũ trẻ sẽ thích, kể cả Ollie, cậu bé vẫn luôn tranh thủ đòi ăn McDonald’s vào mọi bữa. Nhưng PJ nói ông không muốn ăn gì cả; ông muốn có chút thời gian riêng tư trong ô tô. Bỏ bữa vốn không phải phong cách của ông, nhất là sau khi đã nhịn bữa sáng, nhưng hôm nay không phải là một buổi sáng bình thường. Sophie hỏi xin thẻ ngân hàng của PJ, và ông ngoan ngoãn đưa tấm thẻ Visa, nhưng ông cũng hỏi liệu mình có thể mượn điện thoại của cô được không.</p>
 
-<p class="para-en">“You’re feeling all right?” Sophie asked. “Should we go to the hospital now?” Sophie thought maybe she could just leave the kids here and pick them up later.</p>
-<p class="para-vi-sub">“Bố thấy ổn không đấy?” Sophie hỏi. “Hay chúng ta đến bệnh viện luôn đi?” Sophie thầm nghĩ hay là cứ để tụi nhỏ ở đây rồi quay lại đón sau nhỉ.</p>
+<p class="para-en">“What for?” she asked.</p>
+<p class="para-vi-sub">“Để làm gì vậy bố?” Sophie hỏi.</p>
 
-<p class="para-en">“I’m fine, I’m fine,” PJ said. But he didn’t want to go with Sophie and the kids. He didn’t want to look Mark Stackpole in the face. Luna’s real father. Because in his headshot, the picture PJ had seen, Mark Stackpole did look a lot like Luna. And maybe PJ really was about to lose these kids forever. The kids who were his final shot at a new life. He hoped Mark Stackpole was a decent man. The kids would be better off, he told himself. Better off without him.</p>
-<p class="para-vi-sub">“Bố ổn, bố ổn mà,” PJ nói. Nhưng ông chẳng muốn đi cùng Sophie và lũ trẻ chút nào. Ông chẳng muốn phải giáp mặt Mark Stackpole chút nào. Bố ruột của Luna. Bởi vì trong bức ảnh chân dung quảng bá mà PJ từng thấy, trông Mark Stackpole rất giống Luna. Và biết đâu PJ sắp phải mất vĩnh viễn lũ trẻ này thật rồi. Những đứa trẻ vốn là cơ hội cuối cùng để ông làm lại cuộc đời. Ông thầm hy vọng Mark Stackpole là một người đàn ông đàng hoàng. Lũ trẻ ở với ông ta sẽ tốt hơn, ông tự nhủ. Sống mà không có ông thì chúng sẽ tốt hơn.</p>
+<p class="para-en">“Entertainment,” he said. There were some things he wanted to google. He wanted to see what they were saying about the Golden Cherry, if anything was online yet, if the survivors had been mentioned on the news. Sophie reluctantly gave her phone to him, and the car keys so he could put the air on so it wouldn’t get too hot for the cat, and they left him and Pancakes alone in the car.</p>
+<p class="para-vi-sub">“Giải trí,” PJ đáp. Có một vài thứ ông muốn tra cứu trên mạng. Ông muốn xem người ta bàn tán gì về Nhà nghỉ The Golden Cherry, xem đã có tin tức gì trên mạng chưa, liệu những người sống sót có được nhắc tới trên bản tin hay không. Sophie miễn cưỡng đưa điện thoại cho PJ, kèm theo cả chìa khóa xe để ông bật điều hòa, tránh việc trong xe quá nóng cho chú mèo, rồi họ để mặc PJ và Pancakes ở lại một mình trong xe.</p>
 
-<p class="para-en">“Let’s go,” Luna said.</p>
-<p class="para-vi-sub">“Đi thôi,” Luna nói.</p>
+<p class="para-en">Once Sophie and the kids were gone, PJ got out of the passenger seat and climbed into the driver’s seat of the Bird Barn. The key was in the ignition. His hands were on the wheel. He wanted to take the car for a little spin. He had saved them all from a gas leak; he deserved to drive. Just around the block. It wasn’t like it was his first time driving in eight years, he’d already taken Fred’s Volvo to the grocery store and the IKEA and the Walmart, but today it would be different. Today he would be a licensed driver again. Practically. He still had to go to the DMV. He wondered if they would make him take a driving test again. The point was, PJ was a free man.</p>
+<p class="para-vi-sub">Ngay khi Sophie và lũ trẻ vừa rời đi, PJ liền bước ra khỏi ghế hành khách và trèo lên ghế lái của chiếc Volvo Chuồng Chim. Chìa khóa vẫn đang cắm trong ổ điện. Đôi tay ông đã đặt lên vô lăng. Ông muốn lái xe lượn vài vòng cho khuây khỏa. PJ vừa cứu mạng tất cả bọn họ khỏi một vụ rò rỉ khí ga; ông hoàn toàn xứng đáng được lái xe. Chỉ quanh quẩn khu phố này thôi. Dù sao đây cũng chẳng phải lần đầu tiên ông lái xe sau tám năm trời, ông từng lái chiếc Volvo của Fred đi mua đồ tạp hóa, ra IKEA và Walmart rồi cơ mà, nhưng hôm nay sẽ khác biệt. Hôm nay ông sẽ chính thức trở thành một tài xế có bằng lái. Gần như thế. Ông vẫn phải đến sở giao thông vận tải. Không biết họ có bắt ông phải thi lái xe lại từ đầu hay không. Vấn đề là PJ đã là một người tự do.</p>
 
-<p class="para-en">“Let’s go,” Sophie agreed. She had a paternity test in her bag. She had picked it up at a CVS on the way. It was an at-home paternity test; you swabbed your cheek and then it was sent away to a lab. There was a man cuddling a baby on the box.</p>
-<p class="para-vi-sub">“Đi thôi,” Sophie đồng tình. Cô đang mang theo một bộ xét nghiệm ADN trong túi xách. Cô đã ghé mua nó ở một hiệu thuốc CVS dọc đường. Đó là bộ xét nghiệm ADN tại nhà, chỉ cần dùng tăm bông quệt bên trong má rồi gửi đến phòng thí nghiệm. Trên hộp có hình một người đàn ông đang ôm ấp một đứa trẻ.</p>
+<p class="para-en">The cat put his paw on PJ’s hand.</p>
+<p class="para-vi-sub">Chú mèo đặt chân lên tay PJ.</p>
 
-<p class="para-en">Ollie followed Luna and Sophie reluctantly. He wondered if he would even have a bed when he slept in the closet, or if it would just be a pillow and a blanket on the floor.</p>
-<p class="para-vi-sub">Ollie miễn cưỡng bước theo Luna và Sophie. Cậu bé tự hỏi không biết lúc ngủ trong tủ quần áo thì mình có nổi chiếc giường nào không, hay chỉ là một chiếc chăn và cái gối dưới sàn nhà.</p>
+<p class="para-en">“You don’t think I should do it?”</p>
+<p class="para-vi-sub">“Mày không nghĩ tao nên lái chứ?”</p>
 
-<p class="para-en">The check-in table at the meet-and-greet was staffed with women wearing pink fuzzy cowboy hats. They were handing out free samples of the same protein powder Luna had already gotten in the mail. Everyone got a goody bag, with bumper stickers that said Honk if you love soap operas ! and heart-shaped red sunglasses, and there were several sticks of packaged beef jerky in each bag, custom labeled with I ♥ Beefy Hunks . They were giving out Vitamin Waters. Everything was sponsored by Soaps.com.</p>
-<p class="para-vi-sub">Bàn đăng ký ở buổi giao lưu do những người phụ nữ đội mũ cao bồi lông xù màu hồng túc trực. Họ đang phát những gói bột protein dùng thử miễn phí, đúng loại mà Luna từng nhận được qua đường bưu điện. Ai nấy đều nhận được một túi quà lưu niệm, gồm những miếng dán cản xe với dòng chữ Bóp còi nếu bạn cuồng phim truyền hình dài tập! và kính râm màu đỏ hình trái tim, cùng vài thanh thịt bò khô đóng gói trong mỗi túi, được in nhãn riêng với dòng chữ Tôi ♥ Mấy Anh Chàng Vạm Vỡ . Họ đang phát nước tăng lực Vitamin Water. Mọi thứ đều do trang web Soaps.com tài trợ.</p>
+<p class="para-en">Don’t do it, thought the cat.</p>
+<p class="para-vi-sub">Đừng có làm thế, chú mèo thầm nghĩ.</p>
 
-<p class="para-en">“Excuse me,” Luna asked one of the women in hats. “Where can we meet the stars?”</p>
-<p class="para-vi-sub">“Xin lỗi cô,” Luna hỏi một trong những người phụ nữ đội mũ. “Bọn cháu có thể gặp các ngôi sao ở đâu ạ?”</p>
+<p class="para-en">“You don’t trust me?”</p>
+<p class="para-vi-sub">“Mày không tin tưởng tao à?”</p>
 
-<p class="para-en">“That’s the Hunk Area,” the woman said, pointing to the white tent on the other side of a small pond, down the path. “All the actors are inside.”</p>
-<p class="para-vi-sub">“Đó là Khu Vực Trai Đẹp,” người phụ nữ nọ đáp, chỉ tay về phía chiếc lều màu trắng nằm bên kia một cái ao nhỏ dọc theo lối đi. “Tất cả các diễn viên đều ở bên trong.”</p>
+<p class="para-en">I don’t trust you, the cat agreed.</p>
+<p class="para-vi-sub">Ta không tin ông đâu, chú mèo đồng tình.</p>
 
-<p class="para-en">“Our Hunks sure know how to pitch a tent,” another pink hat said, and someone else slapped her arm.</p>
-<p class="para-vi-sub">“Mấy anh chàng đẹp mã của chúng ta đúng là biết cách dựng lều ghê cơ,” một người đội mũ hồng khác lên tiếng, và có ai đó đét vào tay cô ta.</p>
+<p class="para-en">Sophie’s phone started ringing from where it sat in the cup holder.</p>
+<p class="para-vi-sub">Điện thoại của Sophie bắt đầu đổ chuông từ vị trí đặt trong hộc đựng cốc.</p>
 
-<p class="para-en">“Oh, Elvira, you’re so bad!”</p>
-<p class="para-vi-sub">“Ôi giồi ôi, Elvira, cậu hư quá đấy!”</p>
+<p class="para-en">Who’s calling? asked the cat.</p>
+<p class="para-vi-sub">Ai gọi thế? chú mèo hỏi.</p>
 
-<p class="para-en">“Not in front of the kids!” Everyone giggled. They couldn’t get enough. They had waited for this day all year. Last year’s event had been such a big success.</p>
-<p class="para-vi-sub">“Đừng có nói thế trước mặt lũ trẻ chứ!” Tất cả khúc khích cười. Bọn họ chẳng bao giờ thấy đủ cả. Họ đã ngóng chờ ngày này suốt cả năm trời. Sự kiện của năm ngoái đã thành công vang dội đến thế cơ mà.</p>
+<p class="para-en">“Well, it’s Sophie’s phone,” PJ said, “so I shouldn’t answer it.” But across the screen, it said clearly: MASS DEPT OF CHILDREN. “Shit,” PJ said when he saw that. “What do they want?”</p>
+<p class="para-vi-sub">“À, điện thoại của Sophie mà,” PJ nói, “nên chắc mình không nên nghe máy đâu.” Nhưng dòng chữ hiển thị rõ mồn một trên màn hình lại là: SỞ TRẺ EM MASSACHUSETTS. “Mẹ kiếp,” PJ lẩm bẩm khi nhìn thấy dòng chữ đó. “Họ muốn gì cơ chứ?”</p>
 
-<p class="para-en">“Hi, little girl, are you a General Hospital fan?” Elvira asked Luna. “Or Invitation to Love ?”</p>
-<p class="para-vi-sub">“Chào cô bé, cháu là fan của bộ phim General Hospital à?” Elvira hỏi Luna. “Hay phim Invitation to Love ?”</p>
+<p class="para-en">The phone kept ringing, and then it went to voicemail. PJ hadn’t answered it, but they had left a voicemail. After a minute of hesitation, PJ played the message. It was Belinda Bell. Belinda told Sophie that she was listed as Paul Halliday’s emergency contact, and she said she was sure Paul had told her about the two children who were under his care. She was concerned, because she had heard from the teacher at White Rock Elementary that the kids weren’t in school, and she had gone by the house and Paul Halliday and the kids weren’t there—Belinda was wondering if Sophie had heard from him.</p>
+<p class="para-vi-sub">Điện thoại vẫn tiếp tục đổ chuông, rồi chuyển sang chế độ hộp thư thoại. PJ không hề nhấc máy, nhưng họ đã để lại tin nhắn thoại. Sau một phút chần chừ, PJ quyết định phát đoạn tin nhắn đó lên. Đó là Belinda Bell. Belinda thông báo cho Sophie rằng cô được ghi tên làm người liên hệ khẩn cấp của Paul Halliday, và cô chắc chắn rằng Paul đã kể cho Sophie nghe về hai đứa trẻ đang được ông chăm sóc. Cô cảm thấy lo lắng, bởi cô nghe được từ giáo viên ở trường tiểu học White Rock rằng lũ trẻ không đến lớp, và khi cô ghé qua nhà thì chẳng thấy PJ lẫn lũ trẻ đâu cả, Belinda muốn biết liệu Sophie có liên lạc được với ông hay không.</p>
 
-<p class="para-en">“ The Tears of the Rich, ” Luna said. “My father is Mark Stackpole. I’m surprising him today.”</p>
-<p class="para-vi-sub">“ Nước Mắt Của Người Giàu, ” Luna đáp. “Bố cháu là Mark Stackpole. Hôm nay cháu đến để gây bất ngờ cho chú ấy.”</p>
+<p class="para-en">“Shit,” PJ said again. PJ wanted Belinda Bell and the Massachusetts Department of Children and Families to go the hell away. The children were happy now. They had iPads. They were safe.</p>
+<p class="para-vi-sub">“Mẹ kiếp,” PJ lặp lại. Ông chỉ muốn Belinda Bell và Sở Trẻ em và Gia đình Bang Massachusetts biến quách đi cho khuất mắt. Bọn trẻ bây giờ đang rất vui vẻ. Chúng có cả máy tính bảng iPad. Chúng hoàn toàn an toàn.</p>
 
-<p class="para-en">“I’m her brother,” Ollie said, wanting to be included.</p>
-<p class="para-vi-sub">“Cháu là em trai chị ấy,” Ollie lên tiếng, muốn được góp mặt.</p>
+<p class="para-en">PJ pressed the red button and deleted the voicemail off Sophie’s phone. That would take care of it. Surely Belinda Bell wouldn’t call again. Surely she would get busy with other things.</p>
+<p class="para-vi-sub">Ông ấn nút đỏ và xóa luôn tin nhắn thoại trong điện thoại của Sophie. Thế là xong chuyện. Chắc chắn Belinda Bell sẽ không gọi lại lần nữa đâu. Chắc chắn cô ta sẽ bận rộn với những việc khác thôi.</p>
 
-<p class="para-en">“Half-brother,” Luna corrected, never letting Ollie get away with anything. “We have the same mom, but we’re pretty sure we have different dads. We’re going to ask Mark Stackpole to take a paternity test.”</p>
-<p class="para-vi-sub">“Em cùng mẹ khác cha,” Luna đính chính, không bao giờ để Ollie thoát tội nói hớ. “Bọn cháu chung một mẹ, nhưng bọn cháu khá chắc là khác bố. Bọn cháu đến đây để yêu cầu Mark Stackpole làm xét nghiệm ADN.”</p>
+<p class="para-en">PJ changed his mind and decided he wouldn’t drive the car. Not yet. Not if the social workers were watching him.</p>
+<p class="para-vi-sub">PJ thay đổi ý định và quyết định sẽ không lái xe nữa. Chưa phải lúc này. Nhất là khi các nhân viên xã hội đang dòm ngó ông.</p>
 
-<p class="para-en">“Oh my,” said one of the fuzzy hats. They all looked at Sophie, who was standing behind the kids.</p>
-<p class="para-vi-sub">“Ôi chao,” một người đội mũ lông xù thốt lên. Tất cả bọn họ đều nhìn sang Sophie, người đang đứng phía sau lũ trẻ.</p>
+<p class="para-en">Hallelujah, thought the cat.</p>
+<p class="para-vi-sub">Alleluia, chú mèo thầm nghĩ.</p>
 
-<p class="para-en">Sophie turned red. “No, I’m not their mother. I’m the nanny.”</p>
-<p class="para-vi-sub">Sophie đỏ bừng mặt. “Không, tôi không phải mẹ của tụi nhỏ. Tôi là bảo mẫu.”</p>
+<p class="para-en">When Sophie and the kids came out of the Cracker Barrel, PJ was back in the passenger seat where he belonged.</p>
+<p class="para-vi-sub">Khi Sophie và lũ trẻ bước ra từ quán Cracker Barrel, PJ đã ngồi ngoan ngoãn trở lại ghế hành khách.</p>
 
-<p class="para-en">“Okay,” Elvira said. “Where’s the camera crew?”</p>
-<p class="para-vi-sub">“Ồ,” Elvira nói. “Thế đoàn làm phim đâu rồi?”</p>
+<p class="para-en">“Hey, Uncle PJ,” Luna said when she got in the car. “We got you something.” She was holding a little Styrofoam box and passed it up.</p>
+<p class="para-vi-sub">“Này chú PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho chú đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.</p>
 
-<p class="para-en">“There isn’t one,” Luna said. “We drove all the way from Massachusetts.”</p>
-<p class="para-vi-sub">“Làm gì có đoàn nào,” Luna nói. “Bọn cháu lái xe một mạch từ Massachusetts đến đây cơ mà.”</p>
+<p class="para-en">“The kids noticed it on the menu,” Sophie said. “It’s a big thank-you for saving our lives.”</p>
+<p class="para-vi-sub">“Lũ trẻ nhìn thấy món này trong thực đơn,” Sophie nói. “Đây là lời cảm ơn chân thành vì bố đã cứu mạng bọn con đấy.”</p>
 
-<p class="para-en">“Massachusetts?” another woman asked. Betsy, it said on her stick-on name tag. “That’s awfully far.”</p>
-<p class="para-vi-sub">“Massachusetts á?” một người phụ nữ khác hỏi. Trên bảng tên dán áo của cô ta đề chữ Betsy . “Xa thế cơ à.”</p>
+<p class="para-en">“Didn’t I pay for the meal?”</p>
+<p class="para-vi-sub">“Chẳng phải bố đã trả tiền bữa ăn rồi sao?”</p>
 
-<p class="para-en">“Our parents just died,” Ollie explained. “It’s a road trip with our great-uncle. But he was hit by a car last night so he’s taking a rest with the cat.”</p>
-<p class="para-vi-sub">“Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua chú ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”</p>
+<p class="para-en">“Just open it, Dad.”</p>
+<p class="para-vi-sub">“Cứ mở ra xem đi bố.”</p>
 
-<p class="para-en">“I’ve never been on reality TV,” Elvira said, looking around. “Do I need to sign a waiver? I don’t want you to blur my face. I’ll give you permission to use my likeness.”</p>
-<p class="para-vi-sub">“Tôi chưa bao giờ lên truyền hình thực tế cả,” Elvira nói, đảo mắt nhìn quanh. “Tôi có cần phải ký giấy miễn trừ trách nhiệm gì không nhỉ? Tôi không muốn các vị làm mờ mặt tôi đâu đấy. Tôi cho phép các vị dùng hình ảnh của tôi đấy nhé.”</p>
+<p class="para-en">“I already had one. They’re really good,” Ollie said.</p>
+<p class="para-vi-sub">“Cháu ăn thử một cái rồi. Ngon lắm chú ạ,” Ollie nói.</p>
 
-<p class="para-en">“No, no,” Sophie said. “I promise, we didn’t bring any cameras. We just want to meet Mr. Stackpole. We won’t cause any trouble.”</p>
-<p class="para-vi-sub">“Không, không đâu ạ,” Sophie nói. “Tôi hứa đấy, chúng tôi có mang theo máy quay nào đâu. Chúng tôi chỉ muốn gặp Mark Stackpole thôi. Chúng tôi sẽ không gây rắc rối gì đâu.”</p>
+<p class="para-en">PJ opened the container. It was a takeaway box of Cracker Barrel miniature beignets, sprinkled with white powdered sugar. “French donuts,” he said, and he burst into tears. “Wow. How thoughtful. I don’t think anyone has ever done anything this nice for me. Ever.”</p>
+<p class="para-vi-sub">PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Chú không nghĩ có ai lại làm điều gì tử tế thế này cho chú đâu. Chưa bao giờ luôn.”</p>
 
-<p class="para-en">“Alrighty,” Elvira said, not believing one word of that no-trouble BS. There was trouble at the Meet the Hunks luncheon every year, but viewership always went up for all the soaps in the three months after. Viewers like to see people on TV that they’ve met in real life, the television execs had figured out. It gives them a false closeness. Makes them feel like they’re watching a good friend on the screen. And personally, as a volunteer, Elvira hoped for trouble. It gave her a good story for the rest of the year, for all her dinner parties. Last year, a woman had bitten one of the Hunks, because he was so delicious. That particular Hunk had declined to return this year, so they’d booked a new actor in his stead, but it was good to mix it up anyway, year-to-year. “New blood,” the planning committee had joked.</p>
-<p class="para-vi-sub">“Được rồi,” Elvira nói, chẳng tin nổi một chữ nào trong cái điệp khúc không-rắc rối vớ vẩn đó. Năm nào buổi tiệc trưa Gặp gỡ Trai đẹp cũng có chuyện rắc rối xảy ra, nhưng lượng người xem của tất cả các bộ phim truyền hình dài tập luôn tăng vọt trong ba tháng sau đó. Các nhà điều hành truyền hình nhận ra rằng khán giả thích nhìn thấy trên TV những người từng gặp ngoài đời thực. Điều đó tạo ra một sự thân thiết giả tạo, khiến họ cảm thấy như thể mình đang ngắm nhìn một người bạn thân trên màn ảnh. Về phần mình, với tư cách là một tình nguyện viên, Elvira rất mong có rắc rối. Chuyện đó mang lại cho cô ấy một câu chuyện hay để kể suốt thời gian còn lại trong năm trong mọi bữa tiệc tối. Năm ngoái, một phụ nữ đã cắn một trong số các Trai đẹp vì anh ta trông quá ngon lành. Cụ thể thì chàng Trai đẹp đó từ chối quay lại vào năm nay, thế nên họ đã thuê một nam diễn viên mới để thay thế, nhưng dù sao thì việc thay đổi nhân sự từ năm này sang năm khác cũng rất thú vị. “Máu mới,” ban tổ chức đã nói đùa như vậy.</p>
-
-<p class="para-en">“Go meet Mark Stackpole in the tent down that path,” Elvira directed the children and their nanny, the only children she’d ever seen come to the Hunks meet-and-greet in her seven years of volunteering.</p>
-<p class="para-vi-sub">“Hãy đi gặp Mark Stackpole ở cái lều dọc theo con đường kia kìa,” Elvira chỉ dẫn cho lũ trẻ và cô bảo mẫu của chúng, những đứa trẻ duy nhất cô ấy từng thấy đến buổi giao lưu Trai đẹp trong suốt bảy năm làm tình nguyện viên.</p>
-
-<p class="para-en">“And don’t be scared of the alligator in the pond,” the volunteer named Betsy assured them. “He’s the mascot of the country club, we all love him here.” Betsy played golf at the Sugar Land course three days a week. Betsy had been happy since her divorce, deciding how to spend her own time. Playing golf and watching soaps.</p>
-<p class="para-vi-sub">“Và đừng sợ con cá sấu trong hồ nhé,” tình nguyện viên tên Betsy trấn an họ. “Nó là linh vật của câu lạc bộ golf đấy, ở đây ai cũng yêu quý nó cả.” Betsy chơi golf tại sân Sugar Land ba ngày một tuần. Cô ấy cảm thấy rất hạnh phúc kể từ sau vụ ly hôn, khi được tự mình quyết định cách tiêu pha thời gian bản thân, dành trọn cho việc chơi golf và xem phim dài tập.</p>
-
-<p class="para-en">“I thought there were only alligators in Florida,” Ollie said.</p>
-<p class="para-vi-sub">“Cháu cứ nghĩ ở Florida mới có cá sấu chứ,” Ollie nói.</p>
-
-<p class="para-en">“Oh, we got ’em in Texas too. And they’re bigger in Texas. That one in the pond there is named T. Boone Pickens, and he’s eleven feet long. Gentle giant, though, never bothers anyone. You can walk right by him.”</p>
-<p class="para-vi-sub">“Ồ, ở Texas chúng tôi cũng có chứ. Và cá sấu ở Texas còn to hơn cơ. Con trong hồ kia tên là T. Boone Pickens, nó dài tới mười một feet. Dù vậy nó hiền như bụt, chẳng bao giờ làm phiền ai đâu. Cháu có thể đi ngang qua nó thoải mái.”</p>
-
-<p class="para-en">“Okay,” Ollie said, feeling nervous. He’d never seen an alligator before, and he always assumed you couldn’t walk right by an alligator, that you had to outrun them. He remembered his stuffed alligator, the one he’d had as a baby, and how his mom used to pretend to eat him with it. The stuffed alligator was still in the house on Deerfield Lane, unless someone had cleaned out their things by now. Thrown them all away.</p>
-<p class="para-vi-sub">“Vâng ạ,” Ollie nói, cảm thấy khá hồi hộp. Cậu bé chưa từng nhìn thấy cá sấu bao giờ, và vẫn luôn mặc định chẳng ai lại đi ngang qua cá sấu làm gì, mà phải chạy trốn nhanh hơn chúng mới phải. Cậu bé nhớ đến con cá sấu nhồi bông của mình, món đồ chơi từng có hồi còn bé xíu, và cách mẹ từng dùng nó để giả vờ ăn thịt mình. Con cá sấu nhồi bông ấy vẫn nằm trong ngôi nhà trên đường Deerfield, trừ khi bây giờ có ai đó đã dọn dẹp đồ đạc của họ đi, đã vứt bỏ tất cả vào sọt rác.</p>
-
-<p class="para-en">Sure enough, when they walked by T. Boone Pickens, the gator stayed where he was, lying half in and half out of the water, looking like a fallen tree.</p>
-<p class="para-vi-sub">Quả nhiên, khi họ đi ngang qua T. Boone Pickens, con cá sấu vẫn nằm yên ở đó, một nửa thân ngập trong nước và một nửa phơi trên bờ, trông giống hệt một khúc cây mục.</p>
-
-<p class="para-en">Inside the big white tent, there were five lines of people queued up, all women, everyone waiting for each Hunk. The General Hospital hunk’s line was the longest. Women had glossy pictures to sign, and calendars, and TV guides, and DVDs. Several women had loose bras in their arms, waiting to be signed on their satin cups.</p>
-<p class="para-vi-sub">Bên trong chiếc lều trắng lớn, năm hàng người đang xếp thành các dãy dài, toàn là phụ nữ ngóng đợi từng chàng Trai đẹp. Hàng người xếp hàng cho chàng Trai đẹp của phim General Hospital là dài nhất. Các bà các cô cầm theo những bức ảnh láng bóng để xin chữ ký, rồi lịch treo tường, tạp chí truyền hình và cả đĩa DVD. Một vài người phụ nữ còn kẹp những chiếc áo ngực lỏng lẻo trong tay, chờ được ký tên lên phần cúp ngực bằng vải satin.</p>
-
-<p class="para-en">“I can see him,” Luna said. “I can see him! Can you see him, Ollie? He’s over there, in the corner! He’s glowing!”</p>
-<p class="para-vi-sub">“Chị thấy chú ấy rồi,” Luna nói. “Chị nhìn thấy chú ấy rồi! Em có thấy không, Ollie? Chú ấy ở đằng kia kìa, ở góc phòng ấy! Chú ấy đang tỏa sáng kìa!”</p>
-
-<p class="para-en">Ollie nodded. There was a stone in his stomach. There was the man that their mother always said was Luna’s father, whenever their dad wasn’t home and their mom had a few glasses of white wine. She told them stories at bedtime about the life she could have had if she had only left Pondville with Mark Stackpole, who had been obsessed with her in high school. There he was. And he was glowing, but Ollie was pretty sure that was called a spray tan.</p>
-<p class="para-vi-sub">Ollie gật đầu. Có một hòn đá đang đè nặng trong dạ dày. Kia chính là người đàn ông mà mẹ bọn trẻ vẫn luôn bảo là bố của Luna, mỗi khi bố chúng không có nhà và mẹ uống vài ly vang trắng. Mẹ từng kể cho chúng nghe trước giờ đi ngủ về cuộc sống mà đáng lẽ bà đã có thể có nếu như chịu rời khỏi Pondville cùng Mark Stackpole, người từng mê mẩn bà hồi học trung học. Kia rồi. Và đúng là Mark Stackpole đang tỏa sáng thật, nhưng Ollie khá chắc đó là do xịt rám da.</p>
-
-<p class="para-en">Now all they had to do was stand in the line and wait.</p>
-<p class="para-vi-sub">Giờ thì tất cả những gì họ phải làm là đứng vào hàng và chờ đợi.</p>
-
-<p class="para-en">Their line seemed to be barely moving, but soon one of the other lines was getting a little rowdy, with one of the actors from Invitation to Love taking his shirt off and giving out lap dances. Taylor Selfridge was the actor who hadn’t been here last year, a newbie to the circuit, and Taylor had such a minor part on the soap that he felt he had to give these women a little somethin’-somethin’ to get their attention, and maybe then the fan base would demand his character get more lines, more time onscreen, maybe someone would even start a petition for the show writers to give Taylor’s character an evil twin so he could play two characters at once. That happened often enough on soap operas, and it might as well happen to Taylor, as long as he could get these fans worked into a frenzy over his abdominal muscles. No one had told Taylor about what had happened last year, the medical care the other actor had to get after the meet-and-greet, how hard the crazed fan had bit him, that she’d not only broken the skin but had also partially ruptured an organ.</p>
-<p class="para-vi-sub">Hàng của họ có vẻ nhích lên rất chậm, nhưng chẳng mấy chốc một trong những hàng bên cạnh bắt đầu trở nên hơi hỗn loạn, khi một trong các nam diễn viên của phim Invitation to Love cởi phăng áo ra và nhảy múa ôm ấp tại chỗ ngồi của khán giả. Taylor Selfridge là nam diễn viên năm ngoái không có mặt ở đây, một gương mặt mới tinh trong vòng lưu diễn này, và Taylor đóng một vai phụ mờ nhạt đến mức anh ta cảm thấy mình phải mang lại cho những người phụ nữ này một chút kích thích nho nhỏ để thu hút sự chú ý của họ, và biết đâu khi đó lượng người hâm mộ sẽ đòi đoàn làm phim cho nhân vật của anh ta có nhiều lời thoại hơn, nhiều thời lượng xuất hiện trên màn ảnh hơn, thậm chí biết đâu có ai đó sẽ khởi xướng một bản kiến nghị yêu cầu các biên kịch phim cho nhân vật của Taylor có một người anh em sinh đôi ác độc để anh ta có thể đóng liền lúc hai vai. Chuyện đó vẫn thường xảy ra trong các bộ phim dài tập, và nó hoàn toàn có thể xảy ra với Taylor, miễn là anh ta có thể khiến những người hâm mộ này phát cuồng vì cơ bụng của mình. Chẳng ai kịp kể cho Taylor nghe về chuyện đã xảy ra vào năm ngoái, về việc chăm sóc y tế mà nam diễn viên kia buộc phải nhận sau buổi giao lưu, về việc người hâm mộ cuồng nhiệt đã cắn anh ta đau đớn thế nào, rằng cô ta không chỉ cắn rách da mà còn làm dập một phần nội tạng của anh ta ra sao.</p>
-
-<p class="para-en">While Sophie and the kids waited in line inside the white tent, PJ and the cat got out of the car. It was hot in the Volvo, and PJ couldn’t put the air conditioning on because Sophie hadn’t left him with the keys. Sophie didn’t trust him anymore. It hurt him, that his own daughter, his only living daughter, didn’t trust him.</p>
-<p class="para-vi-sub">Trong khi Sophie và lũ trẻ đang xếp hàng bên trong chiếc lều trắng, PJ và chú mèo Pancakes bước ra khỏi xe. Trong chiếc Volvo trời khá nóng, và PJ không thể bật điều hòa vì Sophie chẳng để lại chìa khóa cho ông. Sophie không còn tin tưởng ông nữa. Điều đó làm ông tổn thương, khi chính cô con gái của mình, đứa con gái ruột thịt duy nhất còn sống trên đời, lại không tin tưởng ông.</p>
-
-<p class="para-en">But of course, he couldn’t blame her. PJ could see himself clearly enough to get it. So, because there was no air conditioning in the car, and it was hot in June in Texas, he decided to take Pancakes out on his leash, and they would go for a walk. His head still hurt, but he felt steady enough to walk, and sometimes it helped to walk off the pain. They started a loop around the golf course.</p>
-<p class="para-vi-sub">Nhưng dĩ nhiên, ông chẳng thể trách cô được. PJ tự nhìn nhận bản thân mình đủ rõ để hiểu điều đó. Thế nên, vì trong xe không có điều hòa, lại thêm cái nóng oi bức của tháng Sáu ở Texas, ông quyết định dắt chú mèo Pancakes đi dạo bằng dây xích, hai bác cháu sẽ đi dạo một vòng. Đầu ông vẫn còn đau, nhưng ông cảm thấy đủ vững vàng để bước đi, và đôi khi đi bộ giúp xua đi cơn đau. Họ bắt đầu đi một vòng quanh sân golf.</p>
-
-<p class="para-en">Up ahead, PJ saw a little pond, where a giant alligator was sunning himself. When the gator smelled the cat, and the blood from PJ’s open head wound, he opened up his eyes. Golden eyes, lizard eyes, a black slit through the middle. He took a step toward PJ and the cat. PJ scooped up Pancakes. He would protect the cat at any cost. “Shoo,” he told the gator. “Shoo!”</p>
-<p class="para-vi-sub">Phía trước, PJ nhìn thấy một cái ao nhỏ, nơi một con cá sấu khổng lồ đang nằm phơi nắng. Khi ngửi thấy mùi của chú mèo Pancakes và mùi máu rỉ ra từ vết thương hở trên đầu PJ, nó liền mở mắt. Đôi mắt vàng rực, mắt loài bò sát, với một đường xẻ đen sì ở giữa. Nó bước một bước về phía PJ và chú mèo Pancakes. PJ ôm xốc lấy chú mèo Pancakes. Bằng mọi giá, ông phải bảo vệ chú mèo này. “Biến đi,” PJ bảo con cá sấu. “Biến mau!”</p>
-
-<p class="para-en">The alligator opened his mouth, as if about to laugh, but he did turn his giant lizard head away, and crawled off.</p>
-<p class="para-vi-sub">Con cá sấu mở to miệng như thể sắp cười, nhưng nó cũng quay cái đầu thằn lằn khổng lồ đi chỗ khác rồi bò mất dạng.</p>
-
-<p class="para-en">“That’s right!” PJ called after him. “Go on! Eat someone else!”</p>
-<p class="para-vi-sub">“Đúng rồi đấy!” PJ gọi với theo nó. “Cút đi! Đi mà nuốt kẻ khác đi!”</p>
+<p class="para-en">Ollie and Luna grinned, and Sophie rolled her eyes, but she let him have it. This sweet moment with the kids.</p>
+<p class="para-vi-sub">Ollie và Luna cười toe toét, còn Sophie đảo mắt ngán ngẩm, nhưng cô vẫn để mặc ông tận hưởng khoảnh khắc ngọt ngào này cùng lũ trẻ.</p>

@@ -1,21 +1,37 @@
-*Phần II: Rời Pondville • Ngày 3 (Thứ Năm)*
+*Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư*
 
-# Chương 25
+# Chương 20
 
-Khi mở mắt vào buổi sáng, Sophie chạm tay lên hai bên má rồi đặt bàn tay lên giữa ngực để cảm nhận nhịp đập của chính mình. “Mình vẫn sống,” cô thì thầm. “Mình ổn.” Cô nhìn bức tranh xấu tệ trên tường phòng khách sạn Days Inn và thấy nó chẳng khác nào một kiệt tác.
+Sau bữa sáng, khi họ ra quầy lễ tân khách sạn Woodward để trả phòng, họ phát hiện cả hai phòng đều đã được thanh toán miễn phí. “Đã có người lo xong rồi,” người phụ nữ ở quầy lễ tân nói. “Quà của bà Edna đấy.”
 
-“Tối qua chạy bộ vui chứ con?” bố cô hỏi.
+“Đúng là một người phụ nữ tuyệt vời,” PJ vừa nói vừa bế Pancakes trên tay. Mấy người ở sảnh cứ liên tục chạy lại để vuốt ve chú mèo. Cả PJ lẫn chú mèo đều thích sự chú ý đó. Sáng hôm đó, PJ cảm thấy vô cùng tự hào về bản thân vì đã ra quầy bar mà không đụng đến một giọt rượu nào. Việc Edna là người duy nhất có mặt ở quầy bar tối hôm đó đã giúp ích phần nào, và bà ấy lại không uống rượu. Quả là may mắn.
 
-Sophie không trả lời. Cô không thể kể cho bố nghe chuyện gì đã xảy ra, và cô đã sợ hãi đến nhường nào. Rằng việc leo lên chiếc xe tải của một kẻ lạ mặt vốn chẳng phải là ý hay chút nào. Nhưng cô đã sống sót. “Bố ở đây với bọn trẻ á?” cô hỏi. “Cả đêm luôn sao?”
+“Cháu có thể mua vài món ở cửa hàng lưu niệm không?” Luna hỏi.
 
-“Cả đêm chứ,” bố cô tự hào đáp. “Bố đã kể cho chúng nghe câu chuyện bố gặp mẹ con đấy.”
+“Em cũng vậy,” Ollie nói. “Em muốn mua một quả cầu tuyết. Và một chiếc áo phông. Cả kẹo nữa. Em cần rất nhiều kẹo.”
 
-“Thật tốt quá,” Sophie nói, và cô chợt ước gì mình có mặt ở đó, để nghe bố đã yêu mẹ từ cái nhìn đầu tiên ra sao khi trông thấy bà ở quán rượu Wild Orchid cách đây bốn mươi ba năm.
+“Hay là chú cho các cháu ít tiền tiêu vặt để dùng trên đường nhé,” PJ vừa nói vừa đặt chú mèo xuống và rút ví ra. “Rồi các cháu tự quyết định cách tiêu số tiền đó nhé.” Nhưng khi mở chiếc ví da của mình ra, PJ nhận thấy mình còn rất ít tiền mặt. Ông đã tiêu sạch số tiền có trong ví vào tối hôm trước cho mấy lon Diet Coke. Edna từng bảo chẳng có lý do gì để ông phải trả tiền đồ uống cho bà ấy ngay tại khách sạn của bà, nhưng ông vẫn khăng khăng đòi trả. Ông là một quý ông lịch thiệp mà. Đó là vào khoảng thời gian khi bà nhắc đến Phòng Tổng thống.
 
-Họ thu dọn hành lý rồi xuống sảnh khách sạn Days Inn, nơi có bày sẵn một bữa sáng kiểu lục địa. Tất cả cùng ăn những hộp ngũ cốc nhỏ và bánh muffin Otis Spunkmeyer béo ngậy mềm xốp cho bữa sáng, rồi sau đó tất cả lại lên xe. Sophie thấy mừng vì được rời khỏi Hellsgate và tự hỏi liệu các địa danh có luôn tìm cách sống đúng với cái tên của chúng, giống như con người hay không. Sophie từng nghe nói những người mang họ “Doctor” (Bác sĩ) thường có tỷ lệ trở thành bác sĩ cao hơn nhiều so với phần dân số còn lại. Hệ thống định vị GPS đang chỉ hướng về Sugar Land, Texas, vẫn còn mười lăm giờ năm mươi tám phút nữa mới tới, và biết đâu mọi thứ sẽ ngọt ngào ở nơi đó. Biết đâu Mark Stackpole thực sự chính là bố ruột của Luna và sẽ chào đón cả hai đứa trẻ bằng vòng tay rộng mở.
+“Ở đây có cây rút tiền tự động nào không vậy?” PJ hỏi nhân viên tiếp tân, người này chỉ tay về phía chiếc máy ATM màu đen nhỏ đặt ở sảnh. PJ bước đến chiếc hộp nhựa màu đen mảnh dẻ. Ông gõ số tiền 2.000 đô la vì nghĩ mình sẽ chẳng cần dùng đến nhiều tiền mặt hơn thế. Chiếc máy nhả ra những tờ tiền mệnh giá một trăm đô la và tự động in một tờ hóa đơn. Ở cây ATM tại Pondville, bạn có thể chọn không lấy hóa đơn trước khi máy nhả tiền. PJ liếc nhìn mẩu giấy rồi nhét nó vào ví cùng mấy tờ tiền, sau đó quay lại chỗ Sophie và bọn trẻ với cảm giác buồn nôn cồn cào.
 
-Sophie chỉnh lại chiếc gương chiếu hậu để có thể nhìn ra băng ghế sau. Luna đang làm một bức ảnh cắt dán từ một trong số các cuốn Tạp chí Soap Opera Digest bằng chiếc kéo cô bé đang cầm và một thỏi keo dán nhặt được ở đâu đó. Sophie biết có lẽ mình nên lấy lại chiếc kéo, không chỉ vì cô không muốn mất thêm tóc mà còn vì dùng kéo trên xe ô tô có lẽ chẳng an toàn chút nào, nhưng Sophie cũng hiểu bọn trẻ cần có việc để làm cho đỡ chán trong chuyến đi dài như thế này. Cô thầm cảm ơn vì Luna có thể tự loay hoay bận rộn một mình. Ollie đang cắm cúi chơi iPad. Bố cô đang đọc một cuốn sách lấy từ kệ sách miễn phí tại sảnh khách sạn Days Inn, có tựa đề Cách sinh tồn trong rừng sâu . Theo những gì Sophie biết, bố thậm chí còn chẳng nhóm nổi một đống lửa.
+Ông ước gì mình đã không nhìn vào cái tờ hóa đơn chết tiệt đó, ước gì mình cứ thế vò nát nó đi mà chẳng cần liếc mắt, nhưng ông đã kịp thấy con số: 21.000 đô la trong tài khoản séc của mình, tính cả tiền lẻ.
 
-Ởbăng ghế sau, Luna giở đến phần giữa của cuốn tạp chí, phần trang linh thiêng mà cô bé không dùng kéo cắt xén, ba trang ở chính giữa viết về Mark và Christine Stackpole cùng đứa con mới sinh Sassafras, cũng như những góc nhìn vào tổ ấm và cuộc sống bận rộn của họ với năm đứa con. Trong tạp chí cũng có bài viết về việc Mark Stackpole yêu mến Chúa đến nhường nào, và đó là lý do vì sao anh đã có tận năm đứa con, bởi vì vợ chồng anh tin rằng Chúa đã kêu gọi họ sinh càng nhiều con càng tốt.
+Con số đó chẳng thấm vào đâu so với một triệu rưỡi đô la, số tiền ông bắt đầu có từ tám năm trước, trước khi trừ thuế. Lẽ ra anh phải đầu tư chứ, tai ông như văng vẳng câu nói của Hank ở quầy bar. Lẽ ra tôi đã có thể nhân đôi số tiền của anh rồi, Hank vẫn thường nói thế, cứ làm như Hank biết khỉ khô gì về đầu tư vậy. Hank sống trong một căn hộ chung cư một phòng ngủ ngay sát đường cao tốc. PJ nghĩ mình đã tiêu tiền đúng mục đích; chỉ là ông không ngờ có ngày mình lại vướng vào hai đứa trẻ cần được chăm sóc. Suốt nhiều năm trời, ông cứ đinh ninh rằng mình sắp chết đến nơi rồi, thế nên ông đã đem tiền cống hiến cho cộng đồng thay vì tích trữ cho riêng mình. Ông có một số thứ để tự hào. Sân chơi ở trường mẫu giáo chẳng hạn.
 
-Luna ngẫm nghĩ những thông tin trong tạp chí. Phần nói về việc có nhiều con là một điều tốt, và Luna chẳng có vấn đề gì với một người em cùng cha khác mẹ tên Sassafras, nhưng cô bé không biết mình cảm thấy thế nào về Chúa, hoặc Chúa sẽ cảm thấy thế nào về mình.
+Ông mở ví ra và đưa cho Ollie cùng Luna mỗi đứa một tờ một trăm đô la phẳng phiu. Cả hai đứa liền cắm cổ chạy vào cửa hàng lưu niệm.
+
+“Một trăm đô la á?” Sophie hỏi. “Bố ơi, lạy Chúa, tụi nhỏ định làm gì với một trăm đô la cơ chứ?”
+
+“Chắc không phải mua ma túy đâu, bố hy vọng thế. Con có muốn chút tiền không?” Ông giơ chiếc ví lên.
+
+“Không.”
+
+“Sao con chẳng bao giờ chịu nhận tiền từ bố thế nhỉ? Bố rất muốn được chăm sóc con mà.”
+
+Sophie trừng mắt nhìn ông. Cô muốn nói với ông rằng có những cách chăm sóc người khác tốt hơn là ném tiền vào mặt họ, nhưng cô chẳng thấy việc đó có ích gì cả. Sophie sẽ chẳng bao giờ sống sót nổi qua chuyến đi này mất. Tại sao cô lại nhận lời đi cùng cơ chứ? Cô nghĩ đến bộ phim Thelma & Louise và chợt hiểu vì sao cuối phim họ lại tự lái xe lao xuống vách đá.
+
+PJ hy vọng Sophie không nhận ra ông đang có điều bất ổn, hy vọng cô không cách nào đánh hơi thấy ông vừa phát hiện ra số tiền ít ỏi còn lại của mình qua cây ATM. Nhưng trông Sophie chẳng có vẻ gì là biết chuyện. Cô trông vẫn cáu bẳn như mọi khi, nhưng không hề có vẻ nghi ngờ. Ông nghĩ mình đang giấu giếm rất giỏi. Và đến khi bọn trẻ chọn xong quà lưu niệm, là hai quả cầu tuyết đôi cùng một cái đồ khui nắp chai mà Luna nhanh tay vơ lấy nhét vào túi áo khoác, PJ đã vạch ra được hướng giải quyết: Ngay khi họ ổn định chỗ ở tại Arizona, ông có thể đi kiếm một công việc. Đơn giản thế thôi. Phải, cứ đến được Arizona cái đã, rồi PJ sẽ tính tiếp.
+
+PJ lại ra quầy lễ tân một lần nữa và hỏi nhân viên tiếp tân xem Edna có ở quanh đây không; ông muốn nói lời cảm ơn và tạm biệt bà, đồng thời cũng muốn hỏi xem chiếc máy rút tiền tự động ở sảnh có cung cấp thông tin chính xác không. Nhân viên tiếp tân bảo hiện tại Edna đang bận họp mất rồi.
+
+Thực ra, nhân viên tiếp tân chẳng có manh mối nào về việc Edna đang ở đâu. Toàn bộ nhân viên khách sạn Woodward lúc đó cũng đang ráo riết đi tìm Edna. Họ cần bà để xử lý khủng hoảng. Đêm qua, có một người đàn ông đã bị kẹt trong phòng xông hơi, ngay sau khi ông ta trả lại con mèo đi lạc cho đứa trẻ kỳ lạ kia. Cái chốt cửa phòng xông hơi vốn rất khó mở, và đội dọn dẹp đã phát hiện ra người đàn ông đó vào sáng nay. Cơ thể ông ta vẫn còn ấm nhưng đã chết từ lâu, làn da khô giòn lại như một củ khoai tây nướng. Ông ta đi du lịch một mình; chắc chắn họ sẽ phải gọi thông báo cho gia đình ông ta. Nhân viên khách sạn rất cần sự trợ giúp của Edna trong chuyện này, tình hình đang cực kỳ khẩn cấp, nhưng lúc này Edna lại đang ở trên Phòng Tổng thống để tranh thủ chợp mắt.
