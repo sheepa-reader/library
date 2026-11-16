@@ -5545,3 +5545,37 @@ button {
     width: calc(100vw - 28px);
   }
 }
+
+
+/* ==========================================================================
+   BODY SCROLL LOCK & MOBILE MODAL TOUCH ISOLATION (Ngăn cuộn xuyên trang nền)
+   ========================================================================== */
+body.modal-open {
+  overflow: hidden !important;
+  touch-action: none !important;
+  -webkit-overflow-scrolling: auto !important;
+}
+
+.modal-overlay,
+.author-modal-overlay,
+.changelog-modal-overlay,
+.poll-modal-overlay {
+  overscroll-behavior: contain !important;
+  touch-action: none !important;
+}
+
+.modal-content,
+.poll-modal-content,
+.progress-modal-content,
+.changelog-modal-content,
+.author-sheet-content {
+  overscroll-behavior: contain !important;
+  -webkit-overflow-scrolling: touch !important;
+  touch-action: pan-y !important;
+}
+
+.modal-sheet-handle,
+.author-sheet-handle {
+  touch-action: none !important;
+  cursor: grab;
+}

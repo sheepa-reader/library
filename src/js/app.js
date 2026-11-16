@@ -1061,6 +1061,10 @@
 
   async function handleRoute() {
     const hash = window.location.hash || '#/';
+    // Giải phóng và đóng mọi modal nếu có khi chuyển route
+    if (typeof unlockBodyScroll === 'function') unlockBodyScroll();
+    const openModals = document.querySelectorAll('.modal-overlay.active, .author-modal-overlay.active, .changelog-modal-overlay.active');
+    openModals.forEach(m => m.classList.remove('active'));
     const noticeContainer = document.getElementById('sheepa-floating-banner-container');
     if (noticeContainer) {
       if (hash.startsWith('#/reader')) {
@@ -2457,6 +2461,39 @@
     return false;
   }
 
+  // --- BODY SCROLL LOCK MANAGER (Fix Mobile Background Scroll Chaining on Sheets & Modals) ---
+  const activeModalsSet = new Set();
+  let savedScrollY = 0;
+
+  function lockBodyScroll(modalId) {
+    if (activeModalsSet.has(modalId)) return;
+    activeModalsSet.add(modalId);
+    if (activeModalsSet.size === 1) {
+      savedScrollY = window.scrollY || window.pageYOffset || document.documentElement.scrollTop || 0;
+      document.body.classList.add('modal-open');
+      document.body.style.top = `-${savedScrollY}px`;
+      document.body.style.position = 'fixed';
+      document.body.style.width = '100%';
+    }
+  }
+
+  function unlockBodyScroll(modalId) {
+    if (modalId) {
+      activeModalsSet.delete(modalId);
+    } else {
+      activeModalsSet.clear();
+    }
+    if (activeModalsSet.size === 0) {
+      const top = document.body.style.top;
+      document.body.classList.remove('modal-open');
+      document.body.style.position = '';
+      document.body.style.top = '';
+      document.body.style.width = '';
+      const restoreY = top ? Math.abs(parseInt(top, 10)) : savedScrollY;
+      window.scrollTo(0, restoreY);
+    }
+  }
+
   // --- UNIFIED BOTTOM SHEET MOBILE TOUCH GESTURES ---
   function attachBottomSheetGestures(overlay, content, closeFn) {
     if (!content || !closeFn) return;
@@ -2467,12 +2504,25 @@
     if (content._hasBottomSheetGestures) return;
     content._hasBottomSheetGestures = true;
 
+    // Chặn hoàn toàn cử chỉ vuốt trên nền mờ bên ngoài thẻ
+    if (overlay && !overlay._hasOverlayTouchHandler) {
+      overlay._hasOverlayTouchHandler = true;
+      overlay.addEventListener('touchmove', (e) => {
+        if (e.target === overlay && e.cancelable) {
+          e.preventDefault();
+        }
+      }, { passive: false });
+    }
+
     content.addEventListener('touchstart', (e) => {
+      if (e.touches.length !== 1) return;
       const isHandle = e.target.closest('.modal-sheet-handle, .author-sheet-handle, .modal-header, .changelog-header, .progress-modal-header');
       if (content.scrollTop <= 2 || isHandle) {
         startY = e.touches[0].clientY;
         currentY = startY;
         isDragging = true;
+      } else {
+        isDragging = false;
       }
     }, { passive: true });
 
@@ -2480,13 +2530,19 @@
       if (!isDragging) return;
       currentY = e.touches[0].clientY;
       const deltaY = currentY - startY;
-      if (deltaY > 0) {
+
+      // Khi người dùng vuốt xuống từ đỉnh thẻ (kéo trượt để đóng):
+      // Ngăn chặn trình duyệt cuộn trang web phía sau!
+      if (deltaY > 0 && content.scrollTop <= 2) {
+        if (e.cancelable) e.preventDefault();
         content.style.transform = `translateY(${deltaY}px)`;
         content.style.transition = 'none';
-      } else {
+      } else if (deltaY < 0) {
+        // Vuốt lên: hủy kéo để người dùng cuộn nội dung danh sách tự nhiên
+        isDragging = false;
         content.style.transform = '';
       }
-    }, { passive: true });
+    }, { passive: false });
 
     const endDrag = () => {
       if (!isDragging) return;
@@ -2508,8 +2564,8 @@
       }
     };
 
-    content.addEventListener('touchend', endDrag);
-    content.addEventListener('touchcancel', endDrag);
+    content.addEventListener('touchend', endDrag, { passive: true });
+    content.addEventListener('touchcancel', endDrag, { passive: true });
   }
 
   // --- DOWNLOAD MODAL (EPUB & PDF WITH PASSCODE LOCK) ---
@@ -2725,16 +2781,24 @@ modal.innerHTML = `
       </div>
     `;
 
+    function closeDownloadModal() {
+      if (modal.classList.contains('active')) {
+        modal.classList.remove('active');
+        unlockBodyScroll('download');
+      }
+    }
+
     modal.classList.add('active');
-    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), () => modal.classList.remove('active'));
+    lockBodyScroll('download');
+    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), closeDownloadModal);
 
     // Close events
     const closeBtn = document.getElementById('btn-close-modal');
     if (closeBtn) {
-      closeBtn.addEventListener('click', () => modal.classList.remove('active'));
+      closeBtn.addEventListener('click', closeDownloadModal);
     }
     modal.addEventListener('click', (e) => {
-      if (e.target === modal) modal.classList.remove('active');
+      if (e.target === modal) closeDownloadModal();
     });
 
     // Passcode Form Submit & Validation
@@ -2902,12 +2966,20 @@ modal.innerHTML = `
       </div>
     `;
 
+    function closeTocDrawer() {
+      if (modal.classList.contains('active')) {
+        modal.classList.remove('active');
+        unlockBodyScroll('toc');
+      }
+    }
+
     modal.classList.add('active');
-    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), () => modal.classList.remove('active'));
+    lockBodyScroll('toc');
+    attachBottomSheetGestures(modal, modal.querySelector('.modal-content'), closeTocDrawer);
     const closeBtn = document.getElementById('btn-close-toc');
-    if (closeBtn) closeBtn.addEventListener('click', () => modal.classList.remove('active'));
+    if (closeBtn) closeBtn.addEventListener('click', closeTocDrawer);
     modal.addEventListener('click', (e) => {
-      if (e.target === modal) modal.classList.remove('active');
+      if (e.target === modal) closeTocDrawer();
     });
 
     // Lắng nghe click chọn chương: chặn mọi hành vi download của trình duyệt, đóng modal an toàn và chuyển chương
@@ -2916,7 +2988,7 @@ modal.innerHTML = `
       link.addEventListener('click', (e) => {
         e.preventDefault();
         e.stopPropagation();
-        modal.classList.remove('active');
+        closeTocDrawer();
 
         const targetHash = link.getAttribute('data-target-hash') || link.getAttribute('href');
         const chapId = link.getAttribute('data-chap-id');
@@ -3124,6 +3196,7 @@ modal.innerHTML = `
     // Animate in
     requestAnimationFrame(() => {
       overlay.classList.add('active');
+      lockBodyScroll('author');
     });
 
     activeAuthorSheet = overlay;
@@ -3189,6 +3262,7 @@ modal.innerHTML = `
   window.sheepaCloseAuthor = function() {
     if (activeAuthorSheet) {
       activeAuthorSheet.classList.remove('active');
+      unlockBodyScroll('author');
       setTimeout(() => {
         if (activeAuthorSheet && activeAuthorSheet.parentNode) {
           activeAuthorSheet.parentNode.removeChild(activeAuthorSheet);
@@ -3356,6 +3430,7 @@ modal.innerHTML = `
     `;
 
     overlay.classList.add('active');
+    lockBodyScroll('changelog');
     attachBottomSheetGestures(overlay, overlay.querySelector('.changelog-modal-content'), closeChangelogModal);
 
     // Bind close events
@@ -3393,6 +3468,7 @@ modal.innerHTML = `
     const overlay = document.getElementById('changelog-modal-overlay');
     if (overlay) {
       overlay.classList.remove('active');
+      unlockBodyScroll('changelog');
     }
   }
 
@@ -3729,6 +3805,7 @@ modal.innerHTML = `
     }
 
     overlay.classList.add('active');
+    lockBodyScroll('poll');
     attachBottomSheetGestures(overlay, overlay.querySelector('.poll-modal-content'), closePollModal);
 
     // Fetch live candidates from Google Apps Script in background to ensure vote counts are 100% updated
@@ -3741,6 +3818,7 @@ modal.innerHTML = `
     const overlay = document.getElementById('poll-modal-overlay');
     if (overlay) {
       overlay.classList.remove('active');
+      unlockBodyScroll('poll');
     }
   }
 
@@ -4137,6 +4215,7 @@ modal.innerHTML = `
     bindProgressHeartButtons();
 
     overlay.classList.add('active');
+    lockBodyScroll('progress');
     attachBottomSheetGestures(overlay, overlay.querySelector('.progress-modal-content'), closeProgressModal);
 
     if (libraryPollApiUrl) {
@@ -4148,6 +4227,7 @@ modal.innerHTML = `
     const overlay = document.getElementById('progress-modal-overlay');
     if (overlay) {
       overlay.classList.remove('active');
+      unlockBodyScroll('progress');
     }
   }
 
