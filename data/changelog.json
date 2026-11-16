@@ -1,5 +1,18 @@
 [
   {
+    "version": "v3.6",
+    "date": "16/11/2026",
+    "title": "Ra mắt tác phẩm: Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "description": "Bổ sung kiệt tác hài hước, lãng mạn và chữa lành đầy xúc động của Annie Hartnett với định dạng đọc đơn ngữ, song ngữ câu-nối-câu đối chiếu trực quan và tải EPUB.",
+    "type": "major",
+    "highlights": [
+      "Phát hành \"Đường Về Miền Dịu Êm\" của Annie Hartnett (Bản đơn ngữ & Song ngữ Anh - Việt)",
+      "Hoàn thiện biên tập và đối chiếu chuẩn xác 100% từng đoạn song ngữ liên tục",
+      "Tích hợp đầy đủ hồ sơ tác giả Annie Hartnett, giải thưởng và minh họa đặc sắc",
+      "Hỗ trợ tải sách EPUB bản tiếng Việt và bản Song ngữ Anh - Việt"
+    ]
+  },
+  {
     "id": "log-20261115-01",
     "timestamp": "2026-11-15T21:30:00+07:00",
     "bookId": "su-sup-do-cua-thap-babel",
