@@ -25,7 +25,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=53">
+  <link rel="stylesheet" href="src/css/style.css?v=54">
 </head>
 <body>
 
@@ -144,7 +144,42 @@
     </div>
   </footer>
 
+    <!-- Floating Sheepa Notice Banner -->
+  <div id="sheepa-floating-banner-container" class="sheepa-banner-container">
+    <!-- Expanded Card -->
+    <div id="sheepa-notice-card" class="sheepa-notice-card" role="region" aria-label="Thông báo SHEEPA">
+      <div class="sheepa-notice-header">
+        <div class="sheepa-notice-brand">
+          <img src="public/icons/glyph_01_sheep_reading.png" alt="Sheepa" class="sheepa-notice-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
+          <span class="sheepa-notice-title">Thông báo SHEEPA</span>
+        </div>
+        <button id="sheepa-notice-close" class="sheepa-notice-close" aria-label="Thu nhỏ thông báo" title="Thu nhỏ thông báo">✕</button>
+      </div>
+      <div class="sheepa-notice-body">
+        <p class="sheepa-notice-alert">
+          <span class="sheepa-notice-badge">Chạy thử</span>
+          Hệ thống sẽ kết thúc chạy thử vào <strong>23:59:00 ngày 30/11</strong>.
+        </p>
+        <p class="sheepa-notice-text">
+          Hãy kết nối với SHEEPA để nhận sớm các ưu đãi!
+        </p>
+        <a href="https://t.me/thesheepa" target="_blank" rel="noopener noreferrer" class="sheepa-notice-cta">
+          <svg class="sheepa-tg-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+          </svg>
+          <span>Kết nối Telegram</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Collapsed Trigger Pill (Chú cừu nhỏ mang thư) -->
+    <button id="sheepa-notice-pill" class="sheepa-notice-pill" aria-label="Mở thông báo SHEEPA" title="Mở thông báo SHEEPA">
+      <img src="public/icons/glyph_sheep_run_delivery.png" alt="Sheepa Notice" class="sheepa-pill-icon" onerror="this.src='public/icons/01_sheep_reading.png'">
+      <span class="sheepa-pill-dot"></span>
+    </button>
+  </div>
+
   <!-- Application Script -->
-  <script src="src/js/app.js?v=65"></script>
+  <script src="src/js/app.js?v=66"></script>
 </body>
 </html>
