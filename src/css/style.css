@@ -23,6 +23,7 @@
   --text-secondary: #6e6b65;
   --text-tertiary: #9c978f;
   --accent: #27272a;
+  --primary-accent: var(--accent);
   --accent-contrast: #ffffff;
   --accent-badge: #e4e0d7;
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
@@ -656,9 +657,11 @@ button {
 }
 
 .pagination-btn.active {
-  background: var(--primary-accent);
-  color: #fff;
-  border-color: var(--primary-accent);
+  background: var(--accent);
+  color: var(--accent-contrast, #ffffff);
+  border-color: var(--accent);
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
   pointer-events: none;
 }
 
