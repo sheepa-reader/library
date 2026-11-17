@@ -228,7 +228,7 @@ Chính ngươi là kẻ đã giấu đồng xu thề nguyện trong hang ổ c�
 
   
 
-“Các người thấy đấy, chính Pyktis, kẻ giờ đây đang giả dạng vương tử,” Ana nói, “đã thả thuốc độc vào cốc của nhà vua. Hắn làm việc đó khi bưng chiếc cốc trở lại ấm trà, biết rằng Kardas sẽ sớm rót đầy nó một lần nữa. Tất nhiên chúng ta không bao giờ nghi ngờ vương tử là kẻ sát nhân, bởi vì vương tử thật sự sẽ không bao giờ làm một việc như thế.” Bà quay lại nhìn Pyktis. “Mọi chuyện đã diễn ra vô cùng suôn sẻ với ngươi… cho đến khi ta đến và vạch trần Gorthaus là kẻ phản bội nhanh hơn nhiều so với những gì ngươi dự tính. Điều đó khiến ngươi có chút tuyệt vọng, nhưng ngươi đã sớm sắp xếp mọi việc. Đúng là ngươi chỉ ở một mình trong thánh tích điện, túc trực bên linh cữu cha mình theo đúng truyền thống của Yarrow. Không một lính canh nào nói rằng ngươi đã rời khỏi căn phòng đó trong lúc Gorthaus bỏ mạng, nhưng tôi đoán là họ thực sự đã nhìn thấy một lính canh lẻn ra ngoài. Bởi vì ngươi đã trở nên khá thành thạo trong việc cải trang rồi, đúng không? Suy cho cùng, cải trang là gì ngoài những tín hiệu, những khuôn mẫu và những cử chỉ? Tất cả đều là những thứ vô cùng dễ dàng để tâm trí của một Tiên Luận Sư tháo gỡ. Ngươi đã cải trang, lẻn vào các hành lang, đâm Hiệu úy Gorthaus bằng lưỡi dao tẩm độc của mình trước khi cô ta kịp làm lộ quá nhiều quân bài quá sớm, rồi nhanh chóng quay trở lại, một lần nữa hóa thân thành Vương tử. Và giờ đây khi việc đó đã xong, ngai vàng đã thuộc về ngươi, và chẳng mấy chốc ngươi sẽ làm vua.”
+“Các người thấy đấy, chính Pyktis, kẻ giờ đây đang giả dạng vương tử,” Ana nói, “đã thả thuốc độc vào cốc của nhà vua. Hắn làm việc đó khi bưng chiếc cốc trở lại ấm trà, biết rằng Kardas sẽ sớm rót đầy nó một lần nữa. Tất nhiên chúng ta không bao giờ nghi ngờ vương tử là kẻ sát nhân, bởi vì vương tử thật sự sẽ không bao giờ làm một việc như thế.” Bà quay lại nhìn Pyktis. “Mọi chuyện đã diễn ra vô cùng suôn sẻ với ngươi… cho đến khi ta đến và vạch trần Gorthaus là kẻ phản bội nhanh hơn nhiều so với những gì ngươi dự tính. Điều đó khiến ngươi có chút tuyệt vọng, nhưng ngươi đã sớm sắp xếp mọi việc. Đúng là ngươi chỉ ở một mình trong thánh tích điện, túc trực bên linh cữu cha mình theo đúng truyền thống của Yarrow. Không một lính canh nào nói rằng ngươi đã rời khỏi căn phòng đó trong lúc Gorthaus bỏ mạng, nhưng ta đoán là họ thực sự đã nhìn thấy một lính canh lẻn ra ngoài. Bởi vì ngươi đã trở nên khá thành thạo trong việc cải trang rồi, đúng không? Suy cho cùng, cải trang là gì ngoài những tín hiệu, những khuôn mẫu và những cử chỉ? Tất cả đều là những thứ vô cùng dễ dàng để tâm trí của một Tiên Luận Sư tháo gỡ. Ngươi đã cải trang, lẻn vào các hành lang, đâm Hiệu úy Gorthaus bằng lưỡi dao tẩm độc của mình trước khi cô ta kịp làm lộ quá nhiều quân bài quá sớm, rồi nhanh chóng quay trở lại, một lần nữa hóa thân thành Vương tử. Và giờ đây khi việc đó đã xong, ngai vàng đã thuộc về ngươi, và chẳng mấy chốc ngươi sẽ làm vua.”
 
   
 
@@ -332,7 +332,7 @@ Hắn im lặng một lát. Rồi hắn thì thầm: “Là vì… diện mạo 
 
   
 
-“Những vị vua.” Pyktis rùng mình. “Suốt một thời gian dài, tôi được dạy rằng họ là những người cha tuyệt vời, những bậc quân chủ có tầm nhìn xa trông rộng được thần linh chạm đến. Quy luật tự nhiên của sức mạnh, của vương miện, của ngai vàng, một thứ cao quý, không giống như Đế quốc, quá đỗi phi tự nhiên và đầy rẫy sự ngụy tạo. Nhưng khi tôi nhìn vào cha mình, tôi nhận ra họ cũng chỉ là… những con người tầm thường. Những kẻ tiểu nhân với tâm trí vẩn đục, xấu xí, sa ngã vào những trò đồi bại tầm thường như bất kỳ ai khác.” Gương mặt hắn vặn vẹo. “Giống hệt như mọi kẻ trong Đế quốc này. Giống hệt như Thelenai.”
+“Những vị vua.” Pyktis rùng mình. “Suốt một thời gian dài, ta được dạy rằng họ là những người cha tuyệt vời, những bậc quân chủ có tầm nhìn xa trông rộng được thần linh chạm đến. Quy luật tự nhiên của sức mạnh, của vương miện, của ngai vàng, một thứ cao quý, không giống như Đế quốc, quá đỗi phi tự nhiên và đầy rẫy sự ngụy tạo. Nhưng khi ta nhìn vào cha mình, ta nhận ra họ cũng chỉ là… những con người tầm thường. Những kẻ tiểu nhân với tâm trí vẩn đục, xấu xí, sa ngã vào những trò đồi bại tầm thường như bất kỳ ai khác.” Gương mặt hắn vặn vẹo. “Giống hệt như mọi kẻ trong Đế quốc này. Giống hệt như Thelenai.”
 
   
 
@@ -340,7 +340,7 @@ Hắn im lặng một lát. Rồi hắn thì thầm: “Là vì… diện mạo 
 
   
 
-“Bà ta cũng giống hệt như cha tôi, bà có biết không?” hắn hỏi. “Bà ta biến chúng tôi thành công cụ, bắt chúng tôi phải hy sinh bản thân, mạo hiểm cả mạng sống lẫn tâm trí vì kho báu nhỏ mọn của riêng bà ta. Tất cả các người đều thế. Đế quốc khóc thương thật long trọng, ban tặng vàng bạc và đất đai cho người chết, nhưng… nó vẫn chẳng khác gì cha tôi. Các người gọi đó là phụng sự. Nhưng các người chỉ là những kẻ nô lệ, và những kẻ làm chủ các người sẽ không bao giờ phải gánh chịu bất kỳ hậu quả nào.”
+“Bà ta cũng giống hệt như cha ta, ngươi có biết không?” hắn hỏi. “Bà ta biến chúng ta thành công cụ, bắt bọn ta phải hy sinh bản thân, mạo hiểm cả mạng sống lẫn tâm trí vì kho báu nhỏ mọn của riêng bà ta. Tất cả các người đều thế. Đế quốc khóc thương thật long trọng, ban tặng vàng bạc và đất đai cho người chết, nhưng… nó vẫn chẳng khác gì cha ta. Các người gọi đó là phụng sự. Nhưng các người chỉ là những kẻ nô lệ, và những kẻ làm chủ các người sẽ không bao giờ phải gánh chịu bất kỳ hậu quả nào.”
 
   
 
@@ -348,7 +348,7 @@ Hắn im lặng một lát. Rồi hắn thì thầm: “Là vì… diện mạo 
 
   
 
-“Bà ta sẽ luồn lách để thoát khỏi chúng thôi,” Pyktis cay đắng nói. “Ở mọi quốc gia trên thế giới này đều thế cả. Hoặc ngươi là nô lệ, hoặc ngươi là chủ nhân. Tôi đã có cơ hội của mình. Và tôi đã đưa ra lựa chọn.”
+“Bà ta sẽ luồn lách để thoát khỏi chúng thôi,” Pyktis cay đắng nói. “Ở mọi quốc gia trên thế giới này đều thế cả. Hoặc ngươi là nô lệ, hoặc ngươi là chủ nhân. Ta đã có cơ hội của mình. Và ta đã đưa ra lựa chọn.”
 
   
 
@@ -368,7 +368,7 @@ Pyktis nhìn quanh và dường như lần đầu tiên nhận ra rằng mọi c
 
   
 
-“Tôi… tôi là một công dân Đế quốc,” Pyktis nói. “Tôi yêu cầu quyền được xét xử theo công lý của Đế quốc…”
+“Ta… ta là một công dân Đế quốc,” Pyktis nói. “Ta yêu cầu quyền được xét xử theo công lý của Đế quốc…”
 
   
 
