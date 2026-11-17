@@ -25,12 +25,29 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=59">
+  <link rel="stylesheet" href="src/css/style.css?v=60">
 </head>
 <body>
 
   <!-- Sticky Site Header -->
   <header class="site-header">
+    <!-- Top Announcement Bar (Ghim đỉnh trang) -->
+    <div id="sheepa-top-bar" class="sheepa-top-bar" role="region" aria-label="Thông báo hệ thống">
+      <div class="top-bar-inner">
+        <div class="top-bar-content">
+          <span class="top-bar-icon">📢</span>
+          <span class="top-bar-text">Hệ thống sẽ kết thúc chạy thử vào <strong>23:59:59 ngày 30/11</strong>. Hãy kết nối với SHEEPA để nhận sớm các ưu đãi!</span>
+          <a href="https://t.me/thesheepa" target="_blank" rel="noopener noreferrer" class="top-bar-cta">
+            <span>Kết nối ngay</span>
+            <svg class="top-bar-arrow" width="10" height="10" viewBox="0 0 12 12" fill="none">
+              <path d="M2.5 9.5L9.5 2.5M9.5 2.5H4.5M9.5 2.5V7.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+        <button id="sheepa-top-bar-close" class="top-bar-close" aria-label="Đóng thông báo" title="Đóng thông báo">✕</button>
+      </div>
+    </div>
+
     <div class="header-container">
       <a href="#/" class="brand-link">
         <img src="public/assets/cuu-logo.png" alt="Sheepa Logo" class="brand-logo" onerror="this.src='public/icons/01_sheep_reading.png'">
@@ -180,6 +197,6 @@
   </div>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=70"></script>
+  <script src="src/js/app.js?v=71"></script>
 </body>
 </html>

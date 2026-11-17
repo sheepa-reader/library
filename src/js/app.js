@@ -2440,6 +2440,8 @@
         }
         if (data.telegramUrl) {
           libraryTelegramUrl = data.telegramUrl;
+        const topBarCta = document.querySelector('.top-bar-cta');
+        if (topBarCta) topBarCta.href = libraryTelegramUrl;
         }
         if (data.facebookUrl) {
           libraryFacebookUrl = data.facebookUrl;
@@ -4344,6 +4346,25 @@ modal.innerHTML = `
   }
 
   
+  // --- TOP ANNOUNCEMENT BAR (GHIM ĐỈNH TRANG) ---
+  function initTopAnnouncementBar() {
+    const topBar = document.getElementById('sheepa-top-bar');
+    const closeBtn = document.getElementById('sheepa-top-bar-close');
+    if (!topBar || !closeBtn) return;
+
+    // Kiểm tra trạng thái đã đóng trong phiên hay chưa
+    const isDismissed = sessionStorage.getItem('sheepa_top_bar_dismissed') === 'true';
+    if (isDismissed) {
+      topBar.classList.add('is-hidden');
+    }
+
+    closeBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      topBar.classList.add('is-hidden');
+      sessionStorage.setItem('sheepa_top_bar_dismissed', 'true');
+    });
+  }
+
   // --- FLOATING NOTICE BANNER (THÔNG BÁO CHẠY THỬ / ƯU ĐÃI) ---
   function initFloatingNoticeBanner() {
     const container = document.getElementById('sheepa-floating-banner-container');
@@ -4375,6 +4396,7 @@ modal.innerHTML = `
     initHeaderControls();
     initQuoteEvents();
     initFooterStats();
+    initTopAnnouncementBar();
     initFloatingNoticeBanner();
     await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects()]);
     randomizeQuote();
