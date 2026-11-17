@@ -2521,6 +2521,10 @@
   const GOOGLE_CLIENT_ID = '536093895523-mqc1kvobv403affhsv7nocp3mfb96ev2.apps.googleusercontent.com';
   let currentUser = null;
   let whitelistEmails = [];
+  let authConfig = {
+    enforceAuth: false,
+    enforceDate: '2026-12-01T00:00:00+07:00'
+  };
   let windowCurrentModalBook = null;
 
   function parseJwt(token) {
@@ -2543,12 +2547,31 @@
         const data = await res.json();
         if (Array.isArray(data)) {
           whitelistEmails = data;
+        } else if (data && typeof data === 'object') {
+          whitelistEmails = Array.isArray(data.emails) ? data.emails : [];
+          if (typeof data.enforceAuth === 'boolean') {
+            authConfig.enforceAuth = data.enforceAuth;
+          }
+          if (data.enforceDate) {
+            authConfig.enforceDate = data.enforceDate;
+          }
         }
       }
     } catch (e) {
       console.warn('Could not load whitelist:', e);
       whitelistEmails = [];
     }
+  }
+
+  function isAuthEnforced() {
+    if (authConfig.enforceAuth === true) return true;
+    if (authConfig.enforceDate) {
+      const targetTime = new Date(authConfig.enforceDate).getTime();
+      if (!isNaN(targetTime) && Date.now() >= targetTime) {
+        return true;
+      }
+    }
+    return false;
   }
 
   function getStoredUser() {
@@ -2567,6 +2590,10 @@
   }
 
   function isUserAllowedToDownload() {
+    // Nếu chưa đến thời điểm áp dụng phân quyền (hoặc enforceAuth: false): mở tải tự do
+    if (!isAuthEnforced()) return true;
+
+    // Khi đã kích hoạt phân quyền: kiểm tra tài khoản và Whitelist
     if (!currentUser || !currentUser.email) return false;
     const email = currentUser.email.toLowerCase().trim();
     return whitelistEmails.some(em => typeof em === 'string' && em.toLowerCase().trim() === email);
@@ -2832,67 +2859,103 @@
     const isUnlocked = isUserAllowedToDownload();
 
     let authBoxHtml = '';
-    if (!currentUser) {
-      authBoxHtml = `
-        <div class="download-auth-card">
-          <div class="auth-card-header">
-            <span class="auth-lock-icon">🔒</span>
-            <div>
-              <div class="auth-card-title">Đăng nhập bằng Google để tải sách</div>
-              <div class="auth-card-desc">Tính năng tải Ebook (.EPUB & .PDF) chỉ dành cho thành viên được cấp quyền. Đăng nhập nhanh bằng Google để tiếp tục:</div>
+    const authRequired = isAuthEnforced();
+
+    if (!authRequired) {
+      // Giai đoạn mở tải tự do trước ngày 01/12/2026
+      if (currentUser) {
+        authBoxHtml = `
+          <div class="download-auth-card auth-card-success" style="padding: 0.85rem 1rem;">
+            <div class="auth-card-header" style="margin-bottom: 0; align-items: center;">
+              <img src="${currentUser.picture || 'public/icons/01_sheep_reading.png'}" alt="Avatar" class="auth-user-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
+              <div style="flex: 1;">
+                <div class="vip-status-badge">
+                  Xin chào, ${escapeHtml((currentUser.name || currentUser.email).split(' ')[0])}
+                  <span class="vip-user-email">(${escapeHtml(currentUser.email)})</span>
+                </div>
+                <div class="auth-card-desc">Thư viện đang mở tải tự do toàn bộ Ebook (.EPUB & .PDF) đến ngày 01/12/2026.</div>
+              </div>
+              <button type="button" id="btn-modal-logout-action" class="btn-logout-small" title="Đăng xuất">Đăng xuất</button>
             </div>
           </div>
-          <div class="auth-btn-row">
-            <div id="modal-google-btn-slot"></div>
-          </div>
-          <div class="auth-card-hint">
-            Bạn chưa được cấp quyền tải? Nhắn tin Gmail của bạn qua <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a> để được duyệt mở khóa.
-          </div>
-        </div>
-      `;
-    } else if (!isUnlocked) {
-      authBoxHtml = `
-        <div class="download-auth-card auth-card-warning">
-          <div class="auth-card-header">
-            <span class="auth-warn-icon">⏳</span>
-            <div style="flex: 1;">
-              <div class="auth-card-title">Tài khoản chưa được cấp quyền tải sách</div>
-              <div class="auth-card-desc">
-                Bạn đang đăng nhập bằng: <strong>${escapeHtml(currentUser.email)}</strong>.<br>
-                Tài khoản này chưa có trong danh sách thành viên được tải Ebook.
+        `;
+      } else {
+        authBoxHtml = `
+          <div class="download-auth-card" style="background: rgba(59, 130, 246, 0.05); border-color: rgba(59, 130, 246, 0.22); padding: 0.85rem 1rem;">
+            <div class="auth-card-header" style="margin-bottom: 0; align-items: center;">
+              <span style="font-size: 1.25rem; line-height: 1;">🎁</span>
+              <div style="flex: 1;">
+                <div class="auth-card-title" style="color: var(--text-main); font-size: 0.88rem;">Đang mở tải tự do toàn bộ Ebook</div>
+                <div class="auth-card-desc" style="font-size: 0.78rem;">Bạn có thể tải ngay file .EPUB và .PDF bên dưới. Từ ngày <strong>01/12/2026</strong>, tính năng tải sách sẽ chuyển sang chế độ thành viên.</div>
               </div>
             </div>
           </div>
-          <div class="auth-action-buttons">
-            <button type="button" id="btn-copy-email-action" class="btn-copy-email">
-              📋 Sao chép email của bạn
-            </button>
-            <a href="${libraryTelegramUrl}" target="_blank" rel="noopener" class="btn-contact-tg">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.99 1.27-5.62 3.72-.53.36-1.01.54-1.44.53-.47-.01-1.38-.27-2.06-.49-.83-.27-1.49-.42-1.43-.88.03-.24.38-.49 1.03-.75 4.04-1.76 6.74-2.92 8.09-3.5 3.85-1.63 4.65-1.91 5.17-1.92.11 0 .37.03.54.17.14.12.18.28.2.45-.01.07.01.21 0 .28z"/></svg>
-              Gửi tới Telegram @thesheepa để duyệt
-            </a>
-          </div>
-          <div class="auth-card-switch">
-            Muốn dùng Gmail khác? <button type="button" id="btn-switch-google-acc" class="btn-text-link">Đổi tài khoản</button>
-          </div>
-        </div>
-      `;
+        `;
+      }
     } else {
-      authBoxHtml = `
-        <div class="download-auth-card auth-card-success">
-          <div class="auth-card-header" style="margin-bottom: 0; align-items: center;">
-            <img src="${currentUser.picture || 'public/icons/01_sheep_reading.png'}" alt="Avatar" class="auth-user-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
-            <div style="flex: 1;">
-              <div class="vip-status-badge">
-                ✓ ĐÃ MỞ KHÓA TẢI EBOOK
-                <span class="vip-user-email">(${escapeHtml(currentUser.email)})</span>
+      // Khi đã áp dụng phân quyền bắt buộc
+      if (!currentUser) {
+        authBoxHtml = `
+          <div class="download-auth-card">
+            <div class="auth-card-header">
+              <span class="auth-lock-icon">🔒</span>
+              <div>
+                <div class="auth-card-title">Đăng nhập bằng Google để tải sách</div>
+                <div class="auth-card-desc">Tính năng tải Ebook (.EPUB & .PDF) chỉ dành cho thành viên được cấp quyền. Đăng nhập nhanh bằng Google để tiếp tục:</div>
               </div>
-              <div class="auth-card-desc">Bạn có quyền tải trọn bộ bản dịch (.EPUB và .PDF). Chúc bạn đọc sách vui vẻ!</div>
             </div>
-            <button type="button" id="btn-modal-logout-action" class="btn-logout-small" title="Đăng xuất">Đăng xuất</button>
+            <div class="auth-btn-row">
+              <div id="modal-google-btn-slot"></div>
+            </div>
+            <div class="auth-card-hint">
+              Bạn chưa được cấp quyền tải? Nhắn tin Gmail của bạn qua <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a> để được duyệt mở khóa.
+            </div>
           </div>
-        </div>
-      `;
+        `;
+      } else if (!isUnlocked) {
+        authBoxHtml = `
+          <div class="download-auth-card auth-card-warning">
+            <div class="auth-card-header">
+              <span class="auth-warn-icon">⏳</span>
+              <div style="flex: 1;">
+                <div class="auth-card-title">Tài khoản chưa được cấp quyền tải sách</div>
+                <div class="auth-card-desc">
+                  Bạn đang đăng nhập bằng: <strong>${escapeHtml(currentUser.email)}</strong>.<br>
+                  Tài khoản này chưa có trong danh sách thành viên được tải Ebook.
+                </div>
+              </div>
+            </div>
+            <div class="auth-action-buttons">
+              <button type="button" id="btn-copy-email-action" class="btn-copy-email">
+                📋 Sao chép email của bạn
+              </button>
+              <a href="${libraryTelegramUrl}" target="_blank" rel="noopener" class="btn-contact-tg">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.99 1.27-5.62 3.72-.53.36-1.01.54-1.44.53-.47-.01-1.38-.27-2.06-.49-.83-.27-1.49-.42-1.43-.88.03-.24.38-.49 1.03-.75 4.04-1.76 6.74-2.92 8.09-3.5 3.85-1.63 4.65-1.91 5.17-1.92.11 0 .37.03.54.17.14.12.18.28.2.45-.01.07.01.21 0 .28z"/></svg>
+                Gửi tới Telegram @thesheepa để duyệt
+              </a>
+            </div>
+            <div class="auth-card-switch">
+              Muốn dùng Gmail khác? <button type="button" id="btn-switch-google-acc" class="btn-text-link">Đổi tài khoản</button>
+            </div>
+          </div>
+        `;
+      } else {
+        authBoxHtml = `
+          <div class="download-auth-card auth-card-success">
+            <div class="auth-card-header" style="margin-bottom: 0; align-items: center;">
+              <img src="${currentUser.picture || 'public/icons/01_sheep_reading.png'}" alt="Avatar" class="auth-user-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
+              <div style="flex: 1;">
+                <div class="vip-status-badge">
+                  ✓ ĐÃ MỞ KHÓA TẢI EBOOK
+                  <span class="vip-user-email">(${escapeHtml(currentUser.email)})</span>
+                </div>
+                <div class="auth-card-desc">Bạn có quyền tải trọn bộ bản dịch (.EPUB và .PDF). Chúc bạn đọc sách vui vẻ!</div>
+              </div>
+              <button type="button" id="btn-modal-logout-action" class="btn-logout-small" title="Đăng xuất">Đăng xuất</button>
+            </div>
+          </div>
+        `;
+      }
     }
 
     modal.innerHTML = `

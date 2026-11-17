@@ -1,3 +1,8 @@
-[
-  "sheepa.reader@gmail.com"
-]
+{
+  "enforceAuth": false,
+  "enforceDate": "2026-12-01T00:00:00+07:00",
+  "note": "enforceAuth: false = mo tai tu do; true = bat buoc dang nhap va nam trong danh sach emails. Tu dong kich hoat khi den enforceDate.",
+  "emails": [
+    "sheepa.reader@gmail.com"
+  ]
+}
