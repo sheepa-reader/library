@@ -4337,22 +4337,46 @@ modal.innerHTML = `
   }
 
   
-  // --- TOP ANNOUNCEMENT BAR (GHIM ĐỈNH TRANG) ---
+  // --- TOP ANNOUNCEMENT BAR (GHIM ĐỈNH TRANG - TỰ ĐỘNG HIỆN LẠI SAU 5 PHÚT) ---
   function initTopAnnouncementBar() {
     const topBar = document.getElementById('sheepa-top-bar');
     const closeBtn = document.getElementById('sheepa-top-bar-close');
     if (!topBar || !closeBtn) return;
 
-    // Kiểm tra trạng thái đã đóng trong phiên hay chưa
-    const isDismissed = sessionStorage.getItem('sheepa_top_bar_dismissed') === 'true';
-    if (isDismissed) {
-      topBar.classList.add('is-hidden');
+    const COOLDOWN_MS = 5 * 60 * 1000; // Chu kỳ 5 phút (300.000ms)
+    let reopenTimer = null;
+
+    function scheduleReopen(delayMs) {
+      if (reopenTimer) clearTimeout(reopenTimer);
+      reopenTimer = setTimeout(() => {
+        try {
+          localStorage.removeItem('sheepa_top_bar_dismissed_until');
+        } catch (e) {}
+        topBar.classList.remove('is-hidden');
+      }, Math.max(delayMs, 0));
+    }
+
+    try {
+      const dismissedUntil = parseInt(localStorage.getItem('sheepa_top_bar_dismissed_until') || '0', 10);
+      const now = Date.now();
+      if (dismissedUntil && dismissedUntil > now) {
+        topBar.classList.add('is-hidden');
+        scheduleReopen(dismissedUntil - now);
+      } else {
+        localStorage.removeItem('sheepa_top_bar_dismissed_until');
+        topBar.classList.remove('is-hidden');
+      }
+    } catch (e) {
+      topBar.classList.remove('is-hidden');
     }
 
     closeBtn.addEventListener('click', (e) => {
       e.stopPropagation();
       topBar.classList.add('is-hidden');
-      sessionStorage.setItem('sheepa_top_bar_dismissed', 'true');
+      try {
+        localStorage.setItem('sheepa_top_bar_dismissed_until', String(Date.now() + COOLDOWN_MS));
+      } catch (err) {}
+      scheduleReopen(COOLDOWN_MS);
     });
   }
 
