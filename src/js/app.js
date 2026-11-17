@@ -3357,7 +3357,6 @@ modal.innerHTML = `
               </a>
             </div>
             <div class="changelog-item-title">${escapeHtml(item.title)}</div>
-            <p class="changelog-item-desc">${escapeHtml(item.description)}</p>
           </div>
         `).join('')}
       </div>

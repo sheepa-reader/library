@@ -4192,7 +4192,8 @@ button {
 
 .changelog-item {
   position: relative;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.15rem;
+  padding-bottom: 0.15rem;
 }
 
 .changelog-item:last-child {
@@ -4279,10 +4280,11 @@ button {
 }
 
 .changelog-item-title {
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: var(--text-main);
-  margin: 0.2rem 0 0.35rem 0;
+  font-size: 0.86rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  line-height: 1.45;
+  margin: 0.15rem 0 0 0;
 }
 
 .changelog-item-desc {
