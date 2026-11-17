@@ -1065,14 +1065,6 @@
     if (typeof unlockBodyScroll === 'function') unlockBodyScroll();
     const openModals = document.querySelectorAll('.modal-overlay.active, .author-modal-overlay.active, .changelog-modal-overlay.active');
     openModals.forEach(m => m.classList.remove('active'));
-    const noticeContainer = document.getElementById('sheepa-floating-banner-container');
-    if (noticeContainer) {
-      if (hash.startsWith('#/reader')) {
-        noticeContainer.classList.add('in-reader');
-      } else {
-        noticeContainer.classList.remove('in-reader');
-      }
-    }
     window.scrollTo(0, 0);
     randomizeQuote();
 
@@ -4365,39 +4357,12 @@ modal.innerHTML = `
     });
   }
 
-  // --- FLOATING NOTICE BANNER (THÔNG BÁO CHẠY THỬ / ƯU ĐÃI) ---
-  function initFloatingNoticeBanner() {
-    const container = document.getElementById('sheepa-floating-banner-container');
-    const closeBtn = document.getElementById('sheepa-notice-close');
-    const pillBtn = document.getElementById('sheepa-notice-pill');
-    if (!container || !closeBtn || !pillBtn) return;
-
-    // Kiểm tra trạng thái đã thu nhỏ trước đó hay chưa
-    const isCollapsed = sessionStorage.getItem('sheepa_notice_collapsed') === 'true';
-    if (isCollapsed) {
-      container.classList.add('collapsed');
-    }
-
-    closeBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      container.classList.add('collapsed');
-      sessionStorage.setItem('sheepa_notice_collapsed', 'true');
-    });
-
-    pillBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      container.classList.remove('collapsed');
-      sessionStorage.setItem('sheepa_notice_collapsed', 'false');
-    });
-  }
-
   async function init() {
     initTheme();
     initHeaderControls();
     initQuoteEvents();
     initFooterStats();
     initTopAnnouncementBar();
-    initFloatingNoticeBanner();
     await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects()]);
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
