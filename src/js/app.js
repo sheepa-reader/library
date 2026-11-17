@@ -2449,10 +2449,259 @@
     }
   }
 
+    // ==========================================================================
+  // BẢO VỆ NỘI DUNG & CHỐNG SAO CHÉP (ANTI-COPY PROTECTION)
+  // ==========================================================================
+  function showCopyToast() {
+    let toast = document.getElementById('sheepa-copy-toast');
+    if (!toast) {
+      toast = document.createElement('div');
+      toast.id = 'sheepa-copy-toast';
+      toast.className = 'sheepa-copy-toast';
+      toast.innerHTML = `
+        <span class="copy-toast-icon">🛡️</span>
+        <span>Bản dịch thuộc sở hữu của Sheepa Library. Vui lòng không sao chép văn bản.</span>
+      `;
+      document.body.appendChild(toast);
+    }
+    toast.classList.add('show');
+    clearTimeout(toast._timer);
+    toast._timer = setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2400);
+  }
+
+  function showGlobalToast(message) {
+    let toast = document.getElementById('sheepa-copy-toast');
+    if (!toast) {
+      toast = document.createElement('div');
+      toast.id = 'sheepa-copy-toast';
+      toast.className = 'sheepa-copy-toast';
+      document.body.appendChild(toast);
+    }
+    toast.innerHTML = `<span>${escapeHtml(message)}</span>`;
+    toast.classList.add('show');
+    clearTimeout(toast._timer);
+    toast._timer = setTimeout(() => {
+      toast.classList.remove('show');
+    }, 3200);
+  }
+
+  function initAntiCopyProtection() {
+    // Chặn sự kiện copy trong chế độ đọc
+    document.addEventListener('copy', (e) => {
+      if (window.location.hash.startsWith('#/reader')) {
+        e.preventDefault();
+        showCopyToast();
+      }
+    });
+
+    // Chặn chuột phải trong vùng đọc sách
+    document.addEventListener('contextmenu', (e) => {
+      if (window.location.hash.startsWith('#/reader') && e.target.closest('#reader-container, .reader-content, .bilingual-pair, .reader-body, .reader-chapter-content, .reader-text')) {
+        e.preventDefault();
+        showCopyToast();
+      }
+    });
+
+    // Chặn phím tắt copy & in ấn & lưu trang
+    document.addEventListener('keydown', (e) => {
+      if (window.location.hash.startsWith('#/reader')) {
+        if ((e.ctrlKey || e.metaKey) && ['c', 'u', 's', 'p'].includes(e.key.toLowerCase())) {
+          e.preventDefault();
+          showCopyToast();
+        }
+      }
+    });
+  }
+
+  // ==========================================================================
+  // GOOGLE SIGN-IN & XÁC THỰC QUYỀN TẢI EBOOK (WHITELIST)
+  // ==========================================================================
+  const GOOGLE_CLIENT_ID = '536093895523-mqc1kvobv403affhsv7nocp3mfb96ev2.apps.googleusercontent.com';
+  let currentUser = null;
+  let whitelistEmails = [];
+  let windowCurrentModalBook = null;
+
+  function parseJwt(token) {
+    try {
+      const base64Url = token.split('.')[1];
+      const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+      const jsonPayload = decodeURIComponent(atob(base64).split('').map(function(c) {
+        return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+      }).join(''));
+      return JSON.parse(jsonPayload);
+    } catch (e) {
+      return null;
+    }
+  }
+
+  async function loadWhitelist() {
+    try {
+      const res = await fetch('data/whitelist.json?v=' + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data)) {
+          whitelistEmails = data;
+        }
+      }
+    } catch (e) {
+      console.warn('Could not load whitelist:', e);
+      whitelistEmails = [];
+    }
+  }
+
+  function getStoredUser() {
+    try {
+      const raw = localStorage.getItem('sheepa_auth_user');
+      if (!raw) return null;
+      const user = JSON.parse(raw);
+      if (user && user.exp && (Date.now() / 1000 > user.exp)) {
+        localStorage.removeItem('sheepa_auth_user');
+        return null;
+      }
+      return user;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function isUserAllowedToDownload() {
+    if (!currentUser || !currentUser.email) return false;
+    const email = currentUser.email.toLowerCase().trim();
+    return whitelistEmails.some(em => typeof em === 'string' && em.toLowerCase().trim() === email);
+  }
+
+  function handleGoogleCredentialResponse(response) {
+    if (!response || !response.credential) return;
+    const payload = parseJwt(response.credential);
+    if (!payload || !payload.email) return;
+
+    currentUser = payload;
+    localStorage.setItem('sheepa_auth_user', JSON.stringify(payload));
+    renderHeaderAuth();
+
+    if (windowCurrentModalBook && document.getElementById('download-modal')?.classList.contains('active')) {
+      openDownloadModal(windowCurrentModalBook);
+    }
+
+    if (isUserAllowedToDownload()) {
+      showGlobalToast(`Xin chào ${payload.name || payload.email}! Bạn đã được mở khóa tải Ebook.`);
+    } else {
+      showGlobalToast(`Đã đăng nhập: ${payload.email} (Chưa được cấp quyền tải).`);
+    }
+  }
+
+  function logoutUser() {
+    currentUser = null;
+    localStorage.removeItem('sheepa_auth_user');
+    renderHeaderAuth();
+    if (windowCurrentModalBook && document.getElementById('download-modal')?.classList.contains('active')) {
+      openDownloadModal(windowCurrentModalBook);
+    }
+    showGlobalToast('Đã đăng xuất tài khoản Google.');
+  }
+
+  function renderGoogleAuthButtons() {
+    if (typeof google === 'undefined' || !google.accounts || !google.accounts.id) return;
+
+    // 1. Render nút trên Header nếu chưa đăng nhập
+    const headerBtnSlot = document.getElementById('header-google-btn-slot');
+    if (headerBtnSlot && !currentUser) {
+      headerBtnSlot.innerHTML = '';
+      google.accounts.id.renderButton(headerBtnSlot, {
+        theme: 'outline',
+        size: 'medium',
+        type: 'standard',
+        shape: 'pill',
+        text: 'signin',
+        locale: 'vi'
+      });
+    }
+
+    // 2. Render nút trong Download Modal nếu có slot
+    const modalBtnSlot = document.getElementById('modal-google-btn-slot');
+    if (modalBtnSlot && !currentUser) {
+      modalBtnSlot.innerHTML = '';
+      google.accounts.id.renderButton(modalBtnSlot, {
+        theme: 'filled_blue',
+        size: 'large',
+        type: 'standard',
+        shape: 'pill',
+        text: 'continue_with',
+        locale: 'vi',
+        width: 250
+      });
+    }
+  }
+
+  function renderHeaderAuth() {
+    const container = document.getElementById('header-auth-container');
+    if (!container) return;
+
+    if (!currentUser) {
+      container.innerHTML = `<div id="header-google-btn-slot" class="header-google-slot"></div>`;
+      renderGoogleAuthButtons();
+    } else {
+      const isAllowed = isUserAllowedToDownload();
+      container.innerHTML = `
+        <div class="header-user-profile" title="Tài khoản: ${escapeHtml(currentUser.email)}">
+          <img src="${currentUser.picture || 'public/icons/01_sheep_reading.png'}" alt="${escapeHtml(currentUser.name)}" class="header-user-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
+          <span class="header-user-name">${escapeHtml((currentUser.name || 'User').split(' ')[0])}</span>
+          ${isAllowed ? '<span class="header-vip-tag" title="Đã được cấp quyền tải Ebook">VIP</span>' : '<span class="header-pending-tag" title="Chưa được cấp quyền tải Ebook">Chờ duyệt</span>'}
+          <button id="header-logout-btn" class="header-logout-btn" title="Đăng xuất khỏi ${escapeHtml(currentUser.email)}">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
+          </button>
+        </div>
+      `;
+      const logoutBtn = document.getElementById('header-logout-btn');
+      if (logoutBtn) {
+        logoutBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          logoutUser();
+        });
+      }
+    }
+  }
+
+  function initGoogleAuth() {
+    currentUser = getStoredUser();
+    renderHeaderAuth();
+
+    function checkAndInitGIS() {
+      if (typeof google !== 'undefined' && google.accounts && google.accounts.id) {
+        google.accounts.id.initialize({
+          client_id: GOOGLE_CLIENT_ID,
+          callback: handleGoogleCredentialResponse,
+          auto_select: false,
+          cancel_on_tap_outside: true
+        });
+        renderGoogleAuthButtons();
+      } else {
+        setTimeout(checkAndInitGIS, 250);
+      }
+    }
+    checkAndInitGIS();
+  }
+
+  function fallbackCopyText(text) {
+    const textArea = document.createElement("textarea");
+    textArea.value = text;
+    textArea.style.top = "0";
+    textArea.style.left = "0";
+    textArea.style.position = "fixed";
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+    try {
+      document.execCommand('copy');
+      showGlobalToast(`Đã sao chép: ${text}`);
+    } catch (err) {}
+    document.body.removeChild(textArea);
+  }
+
   function isDownloadUnlocked(book) {
-    if (localStorage.getItem('sheepa_download_unlocked') === 'true') return true;
-    if (book && localStorage.getItem(`sheepa_unlocked_${book.id}`) === 'true') return true;
-    return false;
+    return isUserAllowedToDownload();
   }
 
   // --- BODY SCROLL LOCK MANAGER (Fix Mobile Background Scroll Chaining on Sheets & Modals) ---
@@ -2564,6 +2813,7 @@
 
   // --- DOWNLOAD MODAL (EPUB & PDF WITH PASSCODE LOCK) ---
   function openDownloadModal(book) {
+    windowCurrentModalBook = book;
     let modal = document.getElementById('download-modal');
     if (!modal) {
       modal = document.createElement('div');
@@ -2579,46 +2829,73 @@
     const bilingualPdf = (typeof book.downloads?.bilingual === 'object' ? book.downloads?.bilingual?.pdf : null) || book.downloads?.bilingualPdf || null;
     const hasBilingualEpub = Boolean(bilingualEpub);
     const hasBilingualPdf = Boolean(bilingualPdf);
-    const isUnlocked = isDownloadUnlocked(book);
+    const isUnlocked = isUserAllowedToDownload();
 
-    let lockBoxHtml = '';
-    if (!isUnlocked) {
-      lockBoxHtml = `
-        <div class="download-lock-box">
-          <div class="lock-box-header">
-            <span class="lock-icon-badge">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
-                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
-              </svg>
-            </span>
-            <span class="lock-box-title">Khu vực tải sách có mã khóa</span>
+    let authBoxHtml = '';
+    if (!currentUser) {
+      authBoxHtml = `
+        <div class="download-auth-card">
+          <div class="auth-card-header">
+            <span class="auth-lock-icon">🔒</span>
+            <div>
+              <div class="auth-card-title">Đăng nhập bằng Google để tải sách</div>
+              <div class="auth-card-desc">Tính năng tải Ebook (.EPUB & .PDF) chỉ dành cho thành viên được cấp quyền. Đăng nhập nhanh bằng Google để tiếp tục:</div>
+            </div>
           </div>
-          <div class="lock-box-desc">
-            Nhập mã thành viên để mở khóa tải toàn bộ tài liệu (.EPUB & .PDF):
+          <div class="auth-btn-row">
+            <div id="modal-google-btn-slot"></div>
           </div>
-          <form id="download-passcode-form" class="passcode-input-group" onsubmit="return false;">
-            <input type="password" id="download-passcode-input" placeholder="Nhập mã truy cập..." autocomplete="off">
-            <button type="submit" class="btn-primary" id="btn-unlock-download">Mở khóa</button>
-          </form>
-          <div id="passcode-error-msg" class="passcode-error-msg" style="display: none;"></div>
-          <div class="passcode-hint">
-            Chưa có mã? Nhận mã mở khóa miễn phí tại <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a>
+          <div class="auth-card-hint">
+            Bạn chưa được cấp quyền tải? Nhắn tin Gmail của bạn qua <a href="${libraryTelegramUrl}" target="_blank" rel="noopener">Telegram @thesheepa</a> để được duyệt mở khóa.
+          </div>
+        </div>
+      `;
+    } else if (!isUnlocked) {
+      authBoxHtml = `
+        <div class="download-auth-card auth-card-warning">
+          <div class="auth-card-header">
+            <span class="auth-warn-icon">⏳</span>
+            <div style="flex: 1;">
+              <div class="auth-card-title">Tài khoản chưa được cấp quyền tải sách</div>
+              <div class="auth-card-desc">
+                Bạn đang đăng nhập bằng: <strong>${escapeHtml(currentUser.email)}</strong>.<br>
+                Tài khoản này chưa có trong danh sách thành viên được tải Ebook.
+              </div>
+            </div>
+          </div>
+          <div class="auth-action-buttons">
+            <button type="button" id="btn-copy-email-action" class="btn-copy-email">
+              📋 Sao chép email của bạn
+            </button>
+            <a href="${libraryTelegramUrl}" target="_blank" rel="noopener" class="btn-contact-tg">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69.01-.03.01-.14-.07-.19-.08-.05-.19-.02-.27 0-.12.03-1.99 1.27-5.62 3.72-.53.36-1.01.54-1.44.53-.47-.01-1.38-.27-2.06-.49-.83-.27-1.49-.42-1.43-.88.03-.24.38-.49 1.03-.75 4.04-1.76 6.74-2.92 8.09-3.5 3.85-1.63 4.65-1.91 5.17-1.92.11 0 .37.03.54.17.14.12.18.28.2.45-.01.07.01.21 0 .28z"/></svg>
+              Gửi tới Telegram @thesheepa để duyệt
+            </a>
+          </div>
+          <div class="auth-card-switch">
+            Muốn dùng Gmail khác? <button type="button" id="btn-switch-google-acc" class="btn-text-link">Đổi tài khoản</button>
           </div>
         </div>
       `;
     } else {
-      lockBoxHtml = `
-        <div class="download-unlocked-box">
-          <div class="unlocked-status-badge">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            Đã mở khóa tải sách thành viên
+      authBoxHtml = `
+        <div class="download-auth-card auth-card-success">
+          <div class="auth-card-header" style="margin-bottom: 0; align-items: center;">
+            <img src="${currentUser.picture || 'public/icons/01_sheep_reading.png'}" alt="Avatar" class="auth-user-avatar" onerror="this.src='public/icons/01_sheep_reading.png'">
+            <div style="flex: 1;">
+              <div class="vip-status-badge">
+                ✓ ĐÃ MỞ KHÓA TẢI EBOOK
+                <span class="vip-user-email">(${escapeHtml(currentUser.email)})</span>
+              </div>
+              <div class="auth-card-desc">Bạn có quyền tải trọn bộ bản dịch (.EPUB và .PDF). Chúc bạn đọc sách vui vẻ!</div>
+            </div>
+            <button type="button" id="btn-modal-logout-action" class="btn-logout-small" title="Đăng xuất">Đăng xuất</button>
           </div>
-          <button class="btn-relock" id="btn-relock-downloads" title="Khóa lại chức năng tải để bảo mật">Khóa lại</button>
         </div>
       `;
     }
-modal.innerHTML = `
+
+    modal.innerHTML = `
       <div class="modal-content">
         <div class="modal-sheet-handle"></div>
         <div class="modal-header">
@@ -2638,7 +2915,7 @@ modal.innerHTML = `
           <button class="icon-btn" id="btn-close-modal" style="width: 28px; height: 28px; font-size: 0.9rem;">✕</button>
         </div>
 
-        ${lockBoxHtml}
+        ${authBoxHtml}
 
         <p class="modal-subtitle">Chọn định dạng tải về:</p>
 
@@ -2660,12 +2937,12 @@ modal.innerHTML = `
               <span class="download-badge">TẢI VỀ</span>
             </a>
           ` : `
-            <div class="download-option-btn download-locked-btn" id="btn-locked-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+            <div class="download-option-btn download-locked-btn" id="btn-locked-epub" style="cursor: pointer;" title="Vui lòng đăng nhập hoặc yêu cầu duyệt để tải">
               <div>
                 <div class="download-opt-title">Sách Tiếng Việt (.EPUB)</div>
                 <div class="download-opt-desc">Định dạng chuẩn cho Kindle, Apple Books, Kobo, Boox</div>
               </div>
-              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">${currentUser ? '🔒 CHƯA ĐƯỢC DUYỆT' : '🔒 CẦN ĐĂNG NHẬP'}</span>
             </div>
           `
         ) : `
@@ -2689,12 +2966,12 @@ modal.innerHTML = `
               <span class="download-badge">TẢI VỀ</span>
             </a>
           ` : `
-            <div class="download-option-btn download-locked-btn" id="btn-locked-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+            <div class="download-option-btn download-locked-btn" id="btn-locked-pdf" style="cursor: pointer;" title="Vui lòng đăng nhập hoặc yêu cầu duyệt để tải">
               <div>
                 <div class="download-opt-title">Tài Liệu Đọc In (.PDF)</div>
                 <div class="download-opt-desc">Bố cục trang in chuẩn cho máy tính và máy tính bảng</div>
               </div>
-              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+              <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">${currentUser ? '🔒 CHƯA ĐƯỢC DUYỆT' : '🔒 CẦN ĐĂNG NHẬP'}</span>
             </div>
           `
         ) : `
@@ -2725,12 +3002,12 @@ modal.innerHTML = `
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
             ` : `
-              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-epub" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-epub" style="cursor: pointer;" title="Vui lòng đăng nhập hoặc yêu cầu duyệt để tải">
                 <div>
                   <div class="download-opt-title">Sách Song Ngữ (.EPUB)</div>
                   <div class="download-opt-desc">1 đoạn tiếng Việt xen kẽ 1 đoạn tiếng Anh đối chiếu</div>
                 </div>
-                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">${currentUser ? '🔒 CHƯA ĐƯỢC DUYỆT' : '🔒 CẦN ĐĂNG NHẬP'}</span>
               </div>
             `
           ) : `
@@ -2754,12 +3031,12 @@ modal.innerHTML = `
                 <span class="download-badge badge-bilingual-download">TẢI VỀ</span>
               </a>
             ` : `
-              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-pdf" style="cursor: pointer;" title="Vui lòng nhập mã khóa ở trên để mở tải">
+              <div class="download-option-btn download-locked-btn" id="btn-locked-bilingual-pdf" style="cursor: pointer;" title="Vui lòng đăng nhập hoặc yêu cầu duyệt để tải">
                 <div>
                   <div class="download-opt-title">Tài Liệu Song Ngữ (.PDF)</div>
                   <div class="download-opt-desc">Định dạng trang in song ngữ đối chiếu song song</div>
                 </div>
-                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">🔒 CẦN MÃ KHÓA</span>
+                <span class="badge-tag" style="background: var(--bg-hover); color: var(--text-secondary);">${currentUser ? '🔒 CHƯA ĐƯỢC DUYỆT' : '🔒 CẦN ĐĂNG NHẬP'}</span>
               </div>
             `
           ) : `
@@ -2795,93 +3072,64 @@ modal.innerHTML = `
       if (e.target === modal) closeDownloadModal();
     });
 
-    // Passcode Form Submit & Validation
-    const passForm = document.getElementById('download-passcode-form');
-    const passInput = document.getElementById('download-passcode-input');
-    const passError = document.getElementById('passcode-error-msg');
-    const relockBtn = document.getElementById('btn-relock-downloads');
-    const lockedEpub = document.getElementById('btn-locked-epub');
-    const lockedPdf = document.getElementById('btn-locked-pdf');
+    // Render GIS button in modal if unauthenticated
+    if (!currentUser) {
+      renderGoogleAuthButtons();
+    }
 
-    if (passForm && passInput) {
-      passForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-        const entered = (passInput.value || '').trim().toLowerCase();
-        if (!entered) {
-          if (passError) {
-            passError.textContent = 'Vui lòng nhập mã khóa.';
-            passError.style.display = 'block';
+    // Copy email action
+    const copyEmailBtn = document.getElementById('btn-copy-email-action');
+    if (copyEmailBtn) {
+      copyEmailBtn.addEventListener('click', () => {
+        const emailToCopy = currentUser?.email || '';
+        if (emailToCopy) {
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(emailToCopy).then(() => {
+              copyEmailBtn.textContent = '✓ Đã sao chép email!';
+              showGlobalToast(`Đã sao chép: ${emailToCopy}`);
+              setTimeout(() => {
+                copyEmailBtn.textContent = '📋 Sao chép email của bạn';
+              }, 2500);
+            }).catch(() => {
+              fallbackCopyText(emailToCopy);
+            });
+          } else {
+            fallbackCopyText(emailToCopy);
           }
-          passInput.focus();
-          return;
         }
+      });
+    }
 
-        const bookCode = (book.downloadPasscode || bookPasscodesMap[book.id] || '').trim().toLowerCase();
-        const isGlobalMatch = downloadPasscodes.includes(entered);
-        const isBookMatch = bookCode && entered === bookCode;
+    // Switch account action
+    const switchBtn = document.getElementById('btn-switch-google-acc');
+    if (switchBtn) {
+      switchBtn.addEventListener('click', () => {
+        logoutUser();
+      });
+    }
 
-        if (isGlobalMatch) {
-          localStorage.setItem('sheepa_download_unlocked', 'true');
-          // Refresh modal to unlocked state immediately
-          openDownloadModal(book);
-        } else if (isBookMatch) {
-          localStorage.setItem(`sheepa_unlocked_${book.id}`, 'true');
-          // Refresh modal to unlocked state immediately
-          openDownloadModal(book);
-        } else {
-          if (passError) {
-            passError.textContent = 'Mã khóa không chính xác. Hãy kiểm tra lại hoặc liên hệ Telegram @thesheepa.';
-            passError.style.display = 'block';
+    // Logout action in modal
+    const logoutModalBtn = document.getElementById('btn-modal-logout-action');
+    if (logoutModalBtn) {
+      logoutModalBtn.addEventListener('click', () => {
+        logoutUser();
+      });
+    }
+
+    // Click locked download buttons
+    modal.querySelectorAll('.download-locked-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (!currentUser) {
+          const slot = document.getElementById('modal-google-btn-slot');
+          if (slot) {
+            slot.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
-          passInput.style.borderColor = '#e53e3e';
-          passInput.select();
+          showGlobalToast('Vui lòng đăng nhập Google để tải sách.');
+        } else if (!isUnlocked) {
+          showGlobalToast(`Tài khoản ${currentUser.email} chưa được duyệt. Vui lòng liên hệ Telegram @thesheepa.`);
         }
       });
-    }
-
-    if (relockBtn) {
-      relockBtn.addEventListener('click', () => {
-        localStorage.removeItem('sheepa_download_unlocked');
-        localStorage.removeItem(`sheepa_unlocked_${book.id}`);
-        openDownloadModal(book);
-      });
-    }
-
-    if (lockedEpub) {
-      lockedEpub.addEventListener('click', () => {
-        if (passInput) {
-          passInput.focus();
-          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      });
-    }
-    if (lockedPdf) {
-      lockedPdf.addEventListener('click', () => {
-        if (passInput) {
-          passInput.focus();
-          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      });
-    }
-
-    const lockedBiEpub = document.getElementById('btn-locked-bilingual-epub');
-    const lockedBiPdf = document.getElementById('btn-locked-bilingual-pdf');
-    if (lockedBiEpub) {
-      lockedBiEpub.addEventListener('click', () => {
-        if (passInput) {
-          passInput.focus();
-          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      });
-    }
-    if (lockedBiPdf) {
-      lockedBiPdf.addEventListener('click', () => {
-        if (passInput) {
-          passInput.focus();
-          passInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      });
-    }
+    });
 
     // --- Book Download Counter Tracking (Option B: downloadCountstart + Real Downloads) ---
     const dlCountEl = document.getElementById('modal-download-count');
@@ -4386,7 +4634,9 @@ modal.innerHTML = `
     initQuoteEvents();
     initFooterStats();
     initTopAnnouncementBar();
-    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects()]);
+    initAntiCopyProtection();
+    await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects(), loadWhitelist()]);
+    initGoogleAuth();
     randomizeQuote();
     window.addEventListener('hashchange', handleRoute);
     handleRoute();

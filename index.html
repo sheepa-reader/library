@@ -25,7 +25,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=64">
+  <link rel="stylesheet" href="src/css/style.css?v=65">
+  <!-- Google Identity Services (Sign In with Google) -->
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
 </head>
 <body>
 
@@ -91,6 +93,9 @@
         <button id="header-view-toggle-btn" class="header-icon-btn" aria-label="Chuyển chế độ xem" title="Chuyển sang chế độ Danh sách">
           <img id="header-view-toggle-icon" src="public/icons/glyph_12_sheep_book_lines.png" alt="Chế độ xem" class="header-btn-icon">
         </button>
+
+        <!-- Google User Profile / Login Action -->
+        <div id="header-auth-container" class="header-auth-container"></div>
 
         <!-- Theme Switcher (Light / Sepia / Dark) -->
         <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Đổi giao diện Sáng / Giấy Cũ / Tối" title="Đổi giao diện">
@@ -162,6 +167,6 @@
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=75"></script>
+  <script src="src/js/app.js?v=76"></script>
 </body>
 </html>
