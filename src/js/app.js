@@ -2692,11 +2692,15 @@
         }
         if (data.telegramUrl) {
           libraryTelegramUrl = data.telegramUrl;
-        const topBarCta = document.querySelector('.top-bar-cta');
-        if (topBarCta) topBarCta.href = libraryTelegramUrl;
+          const topBarTgLink = document.getElementById('top-bar-tg-link');
+          if (topBarTgLink) topBarTgLink.href = libraryTelegramUrl;
+          const topBarCta = document.querySelector('.top-bar-cta');
+          if (topBarCta) topBarCta.href = libraryTelegramUrl;
         }
         if (data.facebookUrl) {
           libraryFacebookUrl = data.facebookUrl;
+          const topBarFbLink = document.getElementById('top-bar-fb-link');
+          if (topBarFbLink) topBarFbLink.href = libraryFacebookUrl;
         }
         if (data.pollApiUrl) {
           libraryPollApiUrl = data.pollApiUrl;
