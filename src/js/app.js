@@ -148,6 +148,38 @@
   };
 
   // Helper to normalize series names (handling 'và' vs '&')
+  
+  // --- CHUẨN HÓA THỂ LOẠI (CANONICAL GENRE MAPPING) ---
+  const GENRE_CANONICAL_MAP = {
+    'bí ẩn': 'Bí Ẩn',
+    'chính trị': 'Chính Trị',
+    'chữa lành': 'Chữa Lành',
+    'cổ điển': 'Cổ Điển',
+    'đen tối': 'Đen Tối',
+    'giật gân': 'Giật Gân',
+    'hài hước': 'Hài Hước',
+    'hành động': 'Hành Động',
+    'hư cấu': 'Hư Cấu',
+    'khoa học viễn tưởng': 'Khoa Học Viễn Tưởng',
+    'kinh dị': 'Kinh Dị',
+    'kỳ ảo': 'Kỳ Ảo',
+    'lãng mạn': 'Lãng Mạn',
+    'lịch sử': 'Lịch Sử',
+    'phản địa đàng': 'Phản Địa Đàng',
+    'phiêu lưu': 'Phiêu Lưu',
+    'tâm lý': 'Tâm Lý',
+    'trinh thám': 'Trinh Thám',
+    'tội phạm': 'Tội Phạm',
+    'pháp lý': 'Pháp Lý',
+    'chính kịch': 'Chính Kịch',
+    'đương đại': 'Đương Đại'
+  };
+  function normalizeGenreTag(tag) {
+    if (!tag) return '';
+    const clean = String(tag).trim();
+    return GENRE_CANONICAL_MAP[clean.toLowerCase()] || clean;
+  }
+
   function normalizeSeriesName(str) {
     if (!str) return '';
     return str.toLowerCase().replace(/\s+và\s+/g, ' & ').replace(/\s+/g, ' ').trim();
@@ -385,6 +417,113 @@
         openProgressModal();
       });
     }
+
+    // --- HEADER SEARCH ENGINE (ICON BUTTON + EXPANDABLE POPOVER) ---
+    const searchBtn = document.getElementById('header-search-btn');
+    const searchBox = document.getElementById('header-search-box');
+    const searchInput = document.getElementById('header-search-input');
+    const searchClearBtn = document.getElementById('header-search-clear-btn');
+    const searchCloseBtn = document.getElementById('header-search-close-btn');
+
+    function openHeaderSearch() {
+      if (!searchBox) return;
+      searchBox.classList.remove('is-hidden');
+      if (searchBtn) searchBtn.classList.add('is-active');
+      if (searchInput) {
+        searchInput.focus();
+        if (searchQuery) {
+          searchInput.value = searchQuery;
+          if (searchClearBtn) searchClearBtn.classList.remove('is-hidden');
+        }
+      }
+    }
+
+    function closeHeaderSearch() {
+      if (!searchBox) return;
+      searchBox.classList.add('is-hidden');
+      if (searchBtn && !searchQuery) searchBtn.classList.remove('is-active');
+    }
+
+    if (searchBtn) {
+      searchBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (searchBox && !searchBox.classList.contains('is-hidden')) {
+          closeHeaderSearch();
+        } else {
+          openHeaderSearch();
+        }
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.trim();
+        currentPage = 1;
+        if (searchClearBtn) {
+          if (e.target.value) {
+            searchClearBtn.classList.remove('is-hidden');
+          } else {
+            searchClearBtn.classList.add('is-hidden');
+          }
+        }
+        if (searchBtn) {
+          if (searchQuery) searchBtn.classList.add('is-active');
+        }
+        
+        // Chuyển về trang thư viện nếu đang ở trang con
+        const currentHash = window.location.hash || '';
+        if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/') || currentHash.startsWith('#/author/')) {
+          window.location.hash = '#/';
+        } else {
+          renderLibraryView();
+        }
+      });
+
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          closeHeaderSearch();
+        }
+      });
+    }
+
+    if (searchClearBtn) {
+      searchClearBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (searchInput) searchInput.value = '';
+        searchQuery = '';
+        searchClearBtn.classList.add('is-hidden');
+        if (searchBtn) searchBtn.classList.remove('is-active');
+        currentPage = 1;
+        renderLibraryView();
+        if (searchInput) searchInput.focus();
+      });
+    }
+
+    if (searchCloseBtn) {
+      searchCloseBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeHeaderSearch();
+      });
+    }
+
+    // Đóng popup tìm kiếm khi click ra ngoài
+    document.addEventListener('click', (e) => {
+      const searchWrapper = document.getElementById('header-search-wrapper');
+      if (searchWrapper && !searchWrapper.contains(e.target)) {
+        if (searchBox && !searchBox.classList.contains('is-hidden')) {
+          closeHeaderSearch();
+        }
+      }
+    });
+
+    // Phím tắt '/' để kích hoạt tìm kiếm nhanh
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/' && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement?.tagName)) {
+        e.preventDefault();
+        openHeaderSearch();
+      }
+    });
+
   }
 
   function updateViewToggleUI() {
@@ -440,9 +579,28 @@
     updateHeaderFilterLabels();
     const searchInput = document.getElementById('library-search');
     if (searchInput) searchInput.value = '';
+    const hSearchInput = document.getElementById('header-search-input');
+    if (hSearchInput) hSearchInput.value = '';
+    const hClearBtn = document.getElementById('header-search-clear-btn');
+    if (hClearBtn) hClearBtn.classList.add('is-hidden');
+    const hSearchBtn = document.getElementById('header-search-btn');
+    if (hSearchBtn) hSearchBtn.classList.remove('is-active');
     renderLibraryView();
   }
   window.resetAllFilters = resetAllFilters;
+
+  window.clearLibrarySearch = function() {
+    const input = document.getElementById('header-search-input');
+    if (input) input.value = '';
+    searchQuery = '';
+    const clearBtn = document.getElementById('header-search-clear-btn');
+    if (clearBtn) clearBtn.classList.add('is-hidden');
+    const searchBtn = document.getElementById('header-search-btn');
+    if (searchBtn) searchBtn.classList.remove('is-active');
+    currentPage = 1;
+    renderLibraryView();
+  };
+
 
   // --- QUOTES & TAGLINES ENGINE (KHO LƯU TRỮ & RANDOM TAGLINE DƯỚI HERO) ---
   function formatQuoteHtml(item) {
@@ -1148,16 +1306,23 @@
     // Show main header
     document.querySelector('.site-header').style.display = 'block';
 
-    // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách (chỉ lấy thể loại thực, loại trừ series và song ngữ)
-    const allTags = Array.from(new Set(
-      booksData.flatMap(b => {
-        return Array.isArray(b.tags) && b.tags.length > 0 
-          ? [...b.tags] 
-          : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []);
-      })
-    ))
-    .filter(t => t && t.toLowerCase() !== 'song ngữ' && !booksData.some(b => b.series && b.series.toLowerCase() === t.toLowerCase()))
-    .sort((a, b) => a.localeCompare(b, 'vi'));
+    // Tự động thu thập toàn bộ các tag thể loại từ tất cả các cuốn sách (chuẩn hóa Title Case, không trùng lặp)
+    const tagMap = new Map();
+    booksData.forEach(b => {
+      const rawTags = (Array.isArray(b.tags) && b.tags.length > 0)
+        ? b.tags
+        : (Array.isArray(b.genres) && b.genres.length > 0
+          ? b.genres
+          : (b.category ? b.category.split(/[•,&/]/).map(s => s.trim()) : []));
+      rawTags.forEach(t => {
+        if (!t) return;
+        const norm = normalizeGenreTag(t);
+        if (norm && norm.toLowerCase() !== 'song ngữ' && !booksData.some(bk => bk.series && bk.series.toLowerCase() === norm.toLowerCase())) {
+          tagMap.set(norm.toLowerCase(), norm);
+        }
+      });
+    });
+    const allTags = Array.from(tagMap.values()).sort((a, b) => a.localeCompare(b, 'vi'));
 
     // Đồng bộ dropdown thể loại trên header (chỉ thể loại thực, không series/song ngữ)
     const headerTagSelect = document.getElementById('header-tag-filter');
@@ -1268,16 +1433,10 @@
           <div class="hero-tagline" id="hero-dynamic-tagline" title="Bấm để đổi câu ngẫu nhiên" style="cursor: pointer;">${heroQuoteHtml}</div>
         </div>
 
-        <!-- Search & Filter Controls -->
+        <!-- Category Filter Pills -->
         <div class="search-filter-section">
-          <div class="search-box-wrapper">
-            <img src="public/icons/glyph_11_sheep_magnifier.png" class="search-icon-img" alt="search" onerror="this.style.display='none'">
-            <input type="text" id="library-search" class="search-input" placeholder="Tìm theo tên sách, tác giả, thể loại, tựa gốc..." value="${escapeHtml(searchQuery)}">
-          </div>
-
-          <!-- Single-row randomized tags -->
           <div class="filter-tags">
-            <button class="filter-btn ${activeTagFilter === 'all' && activeStatusFilter === 'all' ? 'active' : ''}" data-filter-tag="all">Tất cả sách</button>
+            <button class="filter-btn ${activeTagFilter === 'all' && activeStatusFilter === 'all' && !searchQuery ? 'active' : ''}" data-filter-tag="all">Tất cả sách</button>
             ${displayTags.map(tag => `
               <button class="filter-btn ${normalizeSeriesName(activeTagFilter) === normalizeSeriesName(tag) ? 'active' : ''}" data-filter-tag="${escapeHtml(tag)}">${escapeHtml(tag)}</button>
             `).join('')}
@@ -1287,6 +1446,7 @@
         <!-- Toolbar (Count & Sort) -->
         <div class="library-toolbar">
           <div class="toolbar-info">
+            ${searchQuery ? `<span class="search-active-pill">Tìm kiếm: "<strong>${escapeHtml(searchQuery)}</strong>" <button type="button" class="search-clear-inline" onclick="window.clearLibrarySearch()" title="Xóa tìm kiếm">✕</button> • </span>` : ''}
             Hiển thị <strong>${filteredBooks.length > 0 ? (currentPage - 1) * BOOKS_PER_PAGE + 1 : 0} - ${Math.min(currentPage * BOOKS_PER_PAGE, filteredBooks.length)}</strong> trên tổng số <strong>${filteredBooks.length}</strong> cuốn
           </div>
           <div class="sort-select-wrapper">
@@ -1423,20 +1583,23 @@
       </div>
     `;
 
-    // Event listeners
-    const searchInput = document.getElementById('library-search');
-    if (searchInput) {
-      searchInput.addEventListener('input', (e) => {
-        searchQuery = e.target.value;
-        currentPage = 1;
-        renderLibraryView();
-        // Keep focus
-        const nextInput = document.getElementById('library-search');
-        if (nextInput) {
-          nextInput.focus();
-          nextInput.setSelectionRange(nextInput.value.length, nextInput.value.length);
-        }
-      });
+    // Đồng bộ trạng thái ô tìm kiếm trên Header
+    const hSearchInput = document.getElementById('header-search-input');
+    const hSearchBtn = document.getElementById('header-search-btn');
+    const hClearBtn = document.getElementById('header-search-clear-btn');
+    if (hSearchInput && hSearchInput.value !== searchQuery) {
+      hSearchInput.value = searchQuery;
+    }
+    if (hSearchBtn) {
+      if (searchQuery) hSearchBtn.classList.add('is-active');
+      else {
+        const hBox = document.getElementById('header-search-box');
+        if (!hBox || hBox.classList.contains('is-hidden')) hSearchBtn.classList.remove('is-active');
+      }
+    }
+    if (hClearBtn) {
+      if (searchQuery) hClearBtn.classList.remove('is-hidden');
+      else hClearBtn.classList.add('is-hidden');
     }
 
     // Sort listener in toolbar

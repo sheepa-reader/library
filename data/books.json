@@ -1069,7 +1069,7 @@
     "authorId": "jacqueline-harpman",
     "translator": "Sheepa",
     "year": "1995",
-    "category": "Phản Địa Đàng • Hư Cấu • Cổ Điển",
+    "category": "Phản Địa Đàng • Hư Cấu • Cổ Điển • Bí Ẩn",
     "tags": [
       "Phản Địa Đàng",
       "Hư Cấu",
@@ -1131,7 +1131,13 @@
         "noDropcap": true
       }
     ],
-    "publishedAt": "2026-11-13"
+    "publishedAt": "2026-11-13",
+    "genres": [
+      "Phản Địa Đàng",
+      "Hư Cấu",
+      "Cổ Điển",
+      "Bí Ẩn"
+    ]
   },
   {
     "id": "cau-chuyen-nay-co-the-cuu-mang-ban",
@@ -1498,6 +1504,11 @@
     "awards": [
       "Đề cử Goodreads Choice 2026 • Giật Gân / Tác phẩm đầu tay",
       "Đề cử She Reads Best of • Sách nói xuất sắc nhất"
+    ],
+    "genres": [
+      "Giật Gân",
+      "Lãng Mạn",
+      "Bí Ẩn"
     ]
   },
   {
@@ -1509,7 +1520,7 @@
     "author": "Robert Jackson Bennett",
     "translator": "Sheepa",
     "year": "2024",
-    "category": "Trinh thám • Bí ẩn • Kỳ ảo",
+    "category": "Trinh Thám • Bí Ẩn • Kỳ Ảo",
     "status": "completed",
     "statusText": "Hoàn thành",
     "cover": "content/books/chiec-chen-hoen-o/cover.jpg",
@@ -1776,9 +1787,9 @@
       }
     ],
     "tags": [
-      "Trinh thám",
-      "Bí ẩn",
-      "Kỳ ảo"
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Kỳ Ảo"
     ],
     "publishedAt": "2026-11-03",
     "rating": {
@@ -1790,7 +1801,12 @@
       "Sách bán chạy nhất New York Times (Bestseller)"
     ],
     "authorId": "robert-jackson-bennett",
-    "downloadCountstart": 151
+    "downloadCountstart": 151,
+    "genres": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Kỳ Ảo"
+    ]
   },
   {
     "id": "mam-mong-tha-hoa",
@@ -1801,7 +1817,7 @@
     "author": "Robert Jackson Bennett",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Trinh thám • Bí ẩn • Kỳ ảo",
+    "category": "Trinh Thám • Bí Ẩn • Kỳ Ảo • Chính Trị",
     "status": "completed",
     "statusText": "Hoàn thành",
     "cover": "content/books/mam-mong-tha-hoa/cover.jpg",
@@ -2157,10 +2173,10 @@
       }
     ],
     "tags": [
-      "Trinh thám",
-      "Bí ẩn",
-      "Kỳ ảo",
-      "Chính trị"
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Kỳ Ảo",
+      "Chính Trị"
     ],
     "publishedAt": "2026-11-03",
     "rating": {
@@ -2171,7 +2187,13 @@
       "Tác phẩm Kỳ ảo & Trinh thám được mong đợi nhất của năm"
     ],
     "authorId": "robert-jackson-bennett",
-    "downloadCountstart": 195
+    "downloadCountstart": 195,
+    "genres": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Kỳ Ảo",
+      "Chính Trị"
+    ]
   },
   {
     "id": "thuong-vu-mau",
@@ -2182,7 +2204,7 @@
     "author": "Robert Jackson Bennett",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Kỳ ảo • Trinh thám • Hành động",
+    "category": "Kỳ Ảo • Trinh Thám • Hành Động",
     "status": "completed",
     "statusText": "Hoàn thành",
     "cover": "content/books/thuong-vu-mau/cover.jpg",
@@ -2421,9 +2443,9 @@
       }
     ],
     "tags": [
-      "Kỳ ảo",
-      "Trinh thám",
-      "Hành động"
+      "Kỳ Ảo",
+      "Trinh Thám",
+      "Hành Động"
     ],
     "publishedAt": "2026-11-03",
     "rating": {
@@ -2435,7 +2457,12 @@
     ],
     "hasBilingual": true,
     "authorId": "robert-jackson-bennett",
-    "downloadCountstart": 173
+    "downloadCountstart": 173,
+    "genres": [
+      "Kỳ Ảo",
+      "Trinh Thám",
+      "Hành Động"
+    ]
   },
   {
     "id": "mr-yay",
@@ -2446,11 +2473,11 @@
     "author": "Emily Jane",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Kỳ ảo • Hài hước • Phiêu lưu",
+    "category": "Kỳ Ảo • Hài Hước • Phiêu Lưu",
     "tags": [
-      "Kỳ ảo",
-      "Hài hước",
-      "Phiêu lưu"
+      "Kỳ Ảo",
+      "Hài Hước",
+      "Phiêu Lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -2952,7 +2979,12 @@
     ],
     "hasBilingual": true,
     "authorId": "emily-jane",
-    "downloadCountstart": 184
+    "downloadCountstart": 184,
+    "genres": [
+      "Kỳ Ảo",
+      "Hài Hước",
+      "Phiêu Lưu"
+    ]
   },
   {
     "id": "bay-cong-thuc-lam-nen-cach-mang",
@@ -2963,11 +2995,11 @@
     "author": "Ryan Rose",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Kỳ ảo • Hành động • Phiêu lưu",
+    "category": "Kỳ Ảo • Hành Động • Phiêu Lưu",
     "tags": [
-      "Kỳ ảo",
-      "Hành động",
-      "Phiêu lưu"
+      "Kỳ Ảo",
+      "Hành Động",
+      "Phiêu Lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -3447,7 +3479,12 @@
     ],
     "hasBilingual": true,
     "authorId": "ryan-rose",
-    "downloadCountstart": 137
+    "downloadCountstart": 137,
+    "genres": [
+      "Kỳ Ảo",
+      "Hành Động",
+      "Phiêu Lưu"
+    ]
   },
   {
     "id": "tam-huong-vi-cua-su-phan-boi",
@@ -3458,11 +3495,11 @@
     "author": "Ryan Rose",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Kỳ ảo • Hành động • Phiêu lưu",
+    "category": "Kỳ Ảo • Hành Động • Phiêu Lưu",
     "tags": [
-      "Kỳ ảo",
-      "Hành động",
-      "Phiêu lưu"
+      "Kỳ Ảo",
+      "Hành Động",
+      "Phiêu Lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -4081,7 +4118,12 @@
     ],
     "hasBilingual": true,
     "authorId": "ryan-rose",
-    "downloadCountstart": 225
+    "downloadCountstart": 225,
+    "genres": [
+      "Kỳ Ảo",
+      "Hành Động",
+      "Phiêu Lưu"
+    ]
   },
   {
     "id": "cua-anh-cua-em",
@@ -4092,11 +4134,11 @@
     "author": "Alice Feeney",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Trinh thám • Tâm lý • Giật gân",
+    "category": "Trinh Thám • Tâm Lý • Giật Gân",
     "tags": [
-      "Trinh thám",
-      "Tâm lý",
-      "Giật gân"
+      "Trinh Thám",
+      "Tâm Lý",
+      "Giật Gân"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -4490,7 +4532,12 @@
     ],
     "hasBilingual": true,
     "authorId": "alice-feeney",
-    "downloadCountstart": 129
+    "downloadCountstart": 129,
+    "genres": [
+      "Trinh Thám",
+      "Tâm Lý",
+      "Giật Gân"
+    ]
   },
   {
     "id": "vong-lap-ky-uc",
@@ -4501,11 +4548,11 @@
     "author": "Blake Crouch",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Khoa Học Viễn Tưởng • Bí ẩn • Tâm lý",
+    "category": "Khoa Học Viễn Tưởng • Bí Ẩn • Tâm Lý",
     "tags": [
       "Khoa Học Viễn Tưởng",
-      "Bí ẩn",
-      "Tâm lý"
+      "Bí Ẩn",
+      "Tâm Lý"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -4808,7 +4855,12 @@
       "Sách hay nhất năm của Amazon, Time Magazine & NPR"
     ],
     "authorId": "blake-crouch",
-    "downloadCountstart": 124
+    "downloadCountstart": 124,
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Bí Ẩn",
+      "Tâm Lý"
+    ]
   },
   {
     "id": "vua-dau-thuong",
@@ -4819,11 +4871,11 @@
     "author": "Joe Hill",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Kinh dị • Kỳ ảo • Giật gân",
+    "category": "Kinh Dị • Kỳ Ảo • Giật Gân",
     "tags": [
-      "Kinh dị",
-      "Kỳ ảo",
-      "Giật gân"
+      "Kinh Dị",
+      "Kỳ Ảo",
+      "Giật Gân"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -5901,7 +5953,12 @@
     ],
     "hasBilingual": true,
     "authorId": "joe-hill",
-    "downloadCountstart": 115
+    "downloadCountstart": 115,
+    "genres": [
+      "Kinh Dị",
+      "Kỳ Ảo",
+      "Giật Gân"
+    ]
   },
   {
     "id": "dom-lua-trong-bong-dem",
@@ -5912,11 +5969,11 @@
     "author": "Stacy Willingham",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Trinh thám • Bí ẩn • Giật gân",
+    "category": "Trinh Thám • Bí Ẩn • Giật Gân",
     "tags": [
-      "Trinh thám",
-      "Bí ẩn",
-      "Giật gân"
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Giật Gân"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -6269,7 +6326,12 @@
       "Đề cử Goodreads Choice Award cho tiểu thuyết đầu tay"
     ],
     "authorId": "stacy-willingham",
-    "downloadCountstart": 232
+    "downloadCountstart": 232,
+    "genres": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Giật Gân"
+    ]
   },
   {
     "id": "nhin-ky-lai-di",
@@ -6280,11 +6342,11 @@
     "author": "David Ellis",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Bí ẩn • Tâm lý • Giật gân",
+    "category": "Bí Ẩn • Tâm Lý • Giật Gân",
     "tags": [
-      "Bí ẩn",
-      "Tâm lý",
-      "Giật gân"
+      "Bí Ẩn",
+      "Tâm Lý",
+      "Giật Gân"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -6978,7 +7040,12 @@
     ],
     "noDropcap": true,
     "authorId": "david-ellis",
-    "downloadCountstart": 257
+    "downloadCountstart": 257,
+    "genres": [
+      "Bí Ẩn",
+      "Tâm Lý",
+      "Giật Gân"
+    ]
   },
   {
     "id": "senlin-vuot-thap",
@@ -6989,10 +7056,10 @@
     "author": "Josiah Bancroft",
     "translator": "Sheepa",
     "year": "2026",
-    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "category": "Khoa Học Viễn Tưởng • Phiêu Lưu",
     "tags": [
-      "Khoa học viễn tưởng",
-      "Phiêu lưu"
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -7322,7 +7389,11 @@
     ],
     "hasBilingual": true,
     "authorId": "josiah-bancroft",
-    "downloadCountstart": 242
+    "downloadCountstart": 242,
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
+    ]
   },
   {
     "id": "canh-tay-nhan-su",
@@ -7334,10 +7405,10 @@
     "authorId": "josiah-bancroft",
     "translator": "Sheepa",
     "year": 2026,
-    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "category": "Khoa Học Viễn Tưởng • Phiêu Lưu",
     "tags": [
-      "Khoa học viễn tưởng",
-      "Phiêu lưu"
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -7656,7 +7727,11 @@
       "Đề cử Giải thưởng Goodreads Choice cho Tác phẩm Kỳ ảo xuất sắc nhất"
     ],
     "hasBilingual": true,
-    "downloadCountstart": 62
+    "downloadCountstart": 62,
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu"
+    ]
   },
   {
     "id": "vua-phu-kieu",
@@ -7668,11 +7743,11 @@
     "authorId": "josiah-bancroft",
     "translator": "Sheepa",
     "year": 2026,
-    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "category": "Khoa Học Viễn Tưởng • Phiêu Lưu • Kỳ Ảo",
     "tags": [
-      "Khoa học viễn tưởng",
-      "Phiêu lưu",
-      "Kỳ ảo"
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -8027,7 +8102,12 @@
     ],
     "hasBilingual": true,
     "downloadCountstart": 55,
-    "downloadCount": 55
+    "downloadCount": 55,
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
+    ]
   },
   {
     "id": "su-sup-do-cua-thap-babel",
@@ -8039,11 +8119,11 @@
     "authorId": "josiah-bancroft",
     "translator": "Sheepa",
     "year": 2026,
-    "category": "Khoa học viễn tưởng • Phiêu lưu",
+    "category": "Khoa Học Viễn Tưởng • Phiêu Lưu • Kỳ Ảo",
     "tags": [
-      "Khoa học viễn tưởng",
-      "Phiêu lưu",
-      "Kỳ ảo"
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -8490,6 +8570,11 @@
         "path": "content/books/su-sup-do-cua-thap-babel/chuong-70.md",
         "noDropcap": true
       }
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Phiêu Lưu",
+      "Kỳ Ảo"
     ]
   },
   {
@@ -8501,11 +8586,11 @@
     "author": "Alison Espach",
     "translator": "Sheepa",
     "year": "2024",
-    "category": "Hài hước • Tâm lý • Lãng mạn",
+    "category": "Hài Hước • Tâm Lý • Lãng Mạn",
     "tags": [
-      "Hài hước",
-      "Tâm lý",
-      "Lãng mạn"
+      "Hài Hước",
+      "Tâm Lý",
+      "Lãng Mạn"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -8701,7 +8786,12 @@
       "Giải thưởng Goodreads Choice năm 2024 • Tiểu thuyết hư cấu"
     ],
     "authorId": "alison-espach",
-    "downloadCountstart": 250
+    "downloadCountstart": 250,
+    "genres": [
+      "Hài Hước",
+      "Tâm Lý",
+      "Lãng Mạn"
+    ]
   },
   {
     "id": "cau-lac-bo-tai-uong",
@@ -8712,11 +8802,11 @@
     "author": "Kathryn Stockett",
     "translator": "Sheepa",
     "year": "2024",
-    "category": "Bí ẩn • Giật gân • Lịch sử",
+    "category": "Bí Ẩn • Giật Gân • Lịch Sử",
     "tags": [
-      "Bí ẩn",
-      "Giật gân",
-      "Lịch sử"
+      "Bí Ẩn",
+      "Giật Gân",
+      "Lịch Sử"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -9044,7 +9134,12 @@
       "count": "89.4k"
     },
     "authorId": "kathryn-stockett",
-    "downloadCountstart": 191
+    "downloadCountstart": 191,
+    "genres": [
+      "Bí Ẩn",
+      "Giật Gân",
+      "Lịch Sử"
+    ]
   },
   {
     "id": "giua-hai-ngon-lua",
@@ -9057,9 +9152,9 @@
     "year": "2012",
     "category": "Kinh Dị • Đen Tối • Kỳ Ảo",
     "tags": [
-      "Kinh dị",
-      "Đen tối",
-      "Kỳ ảo"
+      "Kinh Dị",
+      "Đen Tối",
+      "Kỳ Ảo"
     ],
     "status": "completed",
     "statusText": "Hoàn thành",
@@ -9383,6 +9478,11 @@
     "awards": [],
     "hasBilingual": true,
     "downloadCountstart": 68,
-    "downloadCount": 68
+    "downloadCount": 68,
+    "genres": [
+      "Kinh Dị",
+      "Đen Tối",
+      "Kỳ Ảo"
+    ]
   }
 ]

@@ -50,52 +50,75 @@
       </div>
     </div>
 
-    <div class="header-container">
-      <a href="#/" class="brand-link">
-        <img src="public/assets/cuu-logo.png" alt="Sheepa Logo" class="brand-logo" onerror="this.src='public/icons/01_sheep_reading.png'">
-        <div class="brand-text">
-          <span class="brand-title">Sheepa Library</span>
-          <span class="brand-subtitle">Tủ Sách Tự Dịch</span>
+        <div class="header-container">
+      <!-- CỤM TRÁI: Logo thương hiệu + Thể loại, Tiến độ, Đề xuất, Lịch sử -->
+      <div class="header-left">
+        <a href="#/" class="brand-link">
+          <img src="public/assets/cuu-logo.png" alt="Sheepa Logo" class="brand-logo" onerror="this.src='public/icons/01_sheep_reading.png'">
+          <div class="brand-text">
+            <span class="brand-title">Sheepa Library</span>
+            <span class="brand-subtitle">Tủ Sách Tự Dịch</span>
+          </div>
+        </a>
+
+        <nav class="header-nav-left" aria-label="Điều hướng chính">
+          <!-- Genre Tags Filter Dropdown -->
+          <div class="header-filter-wrapper" title="Lọc theo thể loại">
+            <img src="public/icons/glyph_13_book_ribbon.png" alt="Thể loại" class="header-filter-icon">
+            <span id="header-tag-filter-label" class="header-filter-label">Thể loại</span>
+            <svg class="header-filter-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none">
+              <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <select id="header-tag-filter" class="header-filter-select" aria-label="Lọc theo thể loại">
+              <option value="all">Tất cả</option>
+            </select>
+          </div>
+
+          <!-- Translation Progress Button -->
+          <button id="header-progress-btn" class="header-action-pill-btn" aria-label="Tiến độ dịch & Kế hoạch sách" title="Xem tiến độ dịch thuật & kế hoạch sách mới">
+            <img src="public/icons/glyph_sheep_desk_lamp.png" alt="Tiến độ" class="header-action-pill-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
+            <span class="header-action-pill-label">Tiến độ</span>
+          </button>
+
+          <!-- Book Translation Poll / Wishlist Button (Có nhãn Đề xuất) -->
+          <button id="header-poll-btn" class="header-action-pill-btn header-poll-btn" aria-label="Bình chọn sách dịch" title="Bình chọn cuốn sách dịch tiếp theo & Gửi đề xuất">
+            <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Đề xuất" class="header-action-pill-icon">
+            <span class="header-action-pill-label">Đề xuất</span>
+          </button>
+
+          <!-- Changelog / Update History Button (Có nhãn Lịch sử) -->
+          <button id="header-changelog-btn" class="header-action-pill-btn header-changelog-btn" aria-label="Nhật ký cập nhật" title="Nhật ký cập nhật nội dung (3 ngày gần nhất)">
+            <img src="public/icons/glyph_11_sheep_pen_write.png" alt="Lịch sử" class="header-action-pill-icon">
+            <span class="header-action-pill-label">Lịch sử</span>
+            <span id="header-changelog-badge" class="header-changelog-badge" style="display: none;"></span>
+          </button>
+        </nav>
+      </div>
+
+      <!-- CỤM PHẢI: Đăng nhập Google -> Biểu tượng Tìm kiếm -> Xem List/Grid -> Theme Sáng/Vàng/Tối -->
+      <div class="header-right">
+        <!-- Google User Profile / Login Action -->
+        <div id="header-auth-container" class="header-auth-container"></div>
+
+        <!-- Biểu tượng Tìm kiếm & Khung tìm kiếm mở rộng -->
+        <div class="header-search-wrapper" id="header-search-wrapper">
+          <button id="header-search-btn" class="header-icon-btn header-search-btn" aria-label="Tìm kiếm sách" title="Tìm kiếm sách (phím tắt /)">
+            <img src="public/icons/glyph_11_sheep_magnifier.png" alt="Tìm kiếm" class="header-btn-icon">
+          </button>
+          <div id="header-search-box" class="header-search-box is-hidden">
+            <div class="header-search-box-inner">
+              <img src="public/icons/glyph_11_sheep_magnifier.png" alt="" class="header-search-box-icon">
+              <input type="text" id="header-search-input" class="header-search-input" placeholder="Tìm theo tên sách, tác giả, thể loại, tựa gốc..." autocomplete="off" spellcheck="false">
+              <button id="header-search-clear-btn" class="header-search-clear-btn is-hidden" aria-label="Xóa tìm kiếm" title="Xóa tìm kiếm">✕</button>
+              <button id="header-search-close-btn" class="header-search-close-btn" aria-label="Đóng tìm kiếm" title="Đóng tìm kiếm (Esc)">✕</button>
+            </div>
+          </div>
         </div>
-      </a>
-
-      <div class="nav-actions">
-        <!-- Genre Tags Filter Dropdown -->
-        <div class="header-filter-wrapper" title="Lọc theo thể loại">
-          <img src="public/icons/glyph_13_book_ribbon.png" alt="Thể loại" class="header-filter-icon">
-          <span id="header-tag-filter-label" class="header-filter-label">Thể loại</span>
-          <svg class="header-filter-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none">
-            <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <select id="header-tag-filter" class="header-filter-select" aria-label="Lọc theo thể loại">
-            <option value="all">Tất cả</option>
-          </select>
-        </div>
-
-        <!-- Translation Progress Button -->
-        <button id="header-progress-btn" class="header-action-pill-btn" aria-label="Tiến độ dịch & Kế hoạch sách" title="Xem tiến độ dịch thuật & kế hoạch sách mới">
-          <img src="public/icons/glyph_sheep_desk_lamp.png" alt="Tiến độ" class="header-action-pill-icon" onerror="this.src='public/icons/09_quill_inkwell.png'">
-          <span class="header-action-pill-label">Tiến độ</span>
-        </button>
-
-        <!-- Book Translation Poll / Wishlist Button -->
-        <button id="header-poll-btn" class="header-icon-btn header-poll-btn" aria-label="Bình chọn sách dịch" title="Bình chọn cuốn sách dịch tiếp theo & Gửi đề xuất">
-          <img src="public/icons/glyph_sheep_lightbulb_idea.png" alt="Bình chọn" class="header-btn-icon">
-        </button>
-
-        <!-- Changelog / Update History Button -->
-        <button id="header-changelog-btn" class="header-icon-btn header-changelog-btn" aria-label="Nhật ký cập nhật" title="Nhật ký cập nhật nội dung (3 ngày gần nhất)">
-          <img src="public/icons/glyph_11_sheep_pen_write.png" alt="Nhật ký" class="header-btn-icon">
-          <span id="header-changelog-badge" class="header-changelog-badge" style="display: none;"></span>
-        </button>
 
         <!-- View Mode Switcher Button (Grid / List) -->
         <button id="header-view-toggle-btn" class="header-icon-btn" aria-label="Chuyển chế độ xem" title="Chuyển sang chế độ Danh sách">
           <img id="header-view-toggle-icon" src="public/icons/glyph_12_sheep_book_lines.png" alt="Chế độ xem" class="header-btn-icon">
         </button>
-
-        <!-- Google User Profile / Login Action -->
-        <div id="header-auth-container" class="header-auth-container"></div>
 
         <!-- Theme Switcher (Light / Sepia / Dark) -->
         <button id="theme-toggle-btn" class="theme-toggle-btn" aria-label="Đổi giao diện Sáng / Giấy Cũ / Tối" title="Đổi giao diện">
@@ -167,7 +190,7 @@
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=80"></script>
+  <script src="src/js/app.js?v=81"></script>
   <!-- Floating Countdown Widget (Góc phải màn hình - Siêu nhỏ gọn) -->
   <div id="sheepa-countdown-widget" class="sheepa-countdown-widget is-hidden" role="complementary" aria-label="Đếm ngược kết thúc chạy thử">
     <button id="sheepa-cd-close" class="sheepa-cd-close" aria-label="Ẩn đếm ngược (nhắc lại sau 10 phút)" title="Ẩn đếm ngược (hiển thị lại sau 10 phút)">
