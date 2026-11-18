@@ -1067,6 +1067,7 @@
     openModals.forEach(m => m.classList.remove('active'));
     window.scrollTo(0, 0);
     randomizeQuote();
+    if (typeof updateCountdownRouteVisibility === 'function') updateCountdownRouteVisibility();
 
     if (hash === '#/' || hash === '' || hash.startsWith('#/?')) {
       if (hash.includes('?tag=')) {
@@ -4691,12 +4692,115 @@
     });
   }
 
+  // ==========================================================================
+  // FLOATING COUNTDOWN POPUP (Đếm ngược kết thúc chạy thử đến 23:59:59 30/11/2026)
+  // ==========================================================================
+  function updateCountdownRouteVisibility() {
+    const widget = document.getElementById('sheepa-countdown-widget');
+    if (!widget) return;
+    if (window.location.hash.startsWith('#/reader')) {
+      widget.classList.add('reader-hidden');
+    } else {
+      widget.classList.remove('reader-hidden');
+    }
+  }
+
+  function initFloatingCountdown() {
+    const widget = document.getElementById('sheepa-countdown-widget');
+    const closeBtn = document.getElementById('sheepa-cd-close');
+    const daysEl = document.getElementById('cd-days');
+    const hoursEl = document.getElementById('cd-hours');
+    const minsEl = document.getElementById('cd-mins');
+    const secsEl = document.getElementById('cd-secs');
+
+    if (!widget || !daysEl || !hoursEl || !minsEl || !secsEl) return;
+
+    // Thời điểm đích: 23:59:59 ngày 30/11/2026 (GMT+7)
+    const targetDate = new Date('2026-11-30T23:59:59+07:00').getTime();
+    const CD_COOLDOWN_MS = 10 * 60 * 1000; // Chu kỳ nhắc lại sau 10 phút (600.000 ms)
+    let cdReopenTimer = null;
+
+    function scheduleCdReopen(delayMs) {
+      if (cdReopenTimer) clearTimeout(cdReopenTimer);
+      cdReopenTimer = setTimeout(() => {
+        try {
+          localStorage.removeItem('sheepa_cd_dismissed_until');
+        } catch (e) {}
+        if (!window.location.hash.startsWith('#/reader')) {
+          widget.classList.remove('is-hidden');
+        }
+      }, Math.max(delayMs, 0));
+    }
+
+    // Kiểm tra trạng thái ẩn/hiện từ localStorage
+    try {
+      const dismissedUntil = parseInt(localStorage.getItem('sheepa_cd_dismissed_until') || '0', 10);
+      const now = Date.now();
+      if (dismissedUntil && dismissedUntil > now) {
+        widget.classList.add('is-hidden');
+        scheduleCdReopen(dismissedUntil - now);
+      } else {
+        localStorage.removeItem('sheepa_cd_dismissed_until');
+        if (!window.location.hash.startsWith('#/reader')) {
+          widget.classList.remove('is-hidden');
+        }
+      }
+    } catch (e) {
+      if (!window.location.hash.startsWith('#/reader')) {
+        widget.classList.remove('is-hidden');
+      }
+    }
+
+    // Sự kiện bấm nút đóng (✕) -> Ẩn và hẹn giờ 10 phút sau mở lại
+    if (closeBtn) {
+      closeBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        widget.classList.add('is-hidden');
+        const reopenTime = Date.now() + CD_COOLDOWN_MS;
+        try {
+          localStorage.setItem('sheepa_cd_dismissed_until', String(reopenTime));
+        } catch (err) {}
+        scheduleCdReopen(CD_COOLDOWN_MS);
+      });
+    }
+
+    // Cập nhật bộ đếm thời gian mỗi giây
+    function updateCountdownTimer() {
+      const now = Date.now();
+      const diff = targetDate - now;
+
+      if (diff <= 0) {
+        daysEl.textContent = '00';
+        hoursEl.textContent = '00';
+        minsEl.textContent = '00';
+        secsEl.textContent = '00';
+        widget.classList.add('is-hidden');
+        return;
+      }
+
+      const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+      const mins = Math.floor((diff / (1000 * 60)) % 60);
+      const secs = Math.floor((diff / 1000) % 60);
+
+      daysEl.textContent = String(days).padStart(2, '0');
+      hoursEl.textContent = String(hours).padStart(2, '0');
+      minsEl.textContent = String(mins).padStart(2, '0');
+      secsEl.textContent = String(secs).padStart(2, '0');
+    }
+
+    updateCountdownTimer();
+    setInterval(updateCountdownTimer, 1000);
+  }
+
   async function init() {
     initTheme();
     initHeaderControls();
     initQuoteEvents();
     initFooterStats();
     initTopAnnouncementBar();
+    initFloatingCountdown();
     initAntiCopyProtection();
     await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects(), loadWhitelist()]);
     initGoogleAuth();

@@ -5797,3 +5797,170 @@ body.modal-open {
   color: #ef4444;
   border-color: #ef4444;
 }
+
+
+/* --- FLOATING COUNTDOWN POPUP (Xinh xắn, góc phải màn hình) --- */
+.sheepa-countdown-widget {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 998;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 10px 14px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12), 0 2px 8px rgba(0, 0, 0, 0.05);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  width: 220px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease, visibility 0.25s;
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  visibility: visible;
+}
+
+[data-theme="dark"] .sheepa-countdown-widget {
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.45), 0 2px 10px rgba(0, 0, 0, 0.3);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.sheepa-countdown-widget.is-hidden {
+  opacity: 0;
+  transform: translateY(16px) scale(0.96);
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.sheepa-countdown-widget.reader-hidden {
+  display: none !important;
+}
+
+.sheepa-cd-close {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--text-tertiary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  transition: all var(--transition-fast);
+}
+
+.sheepa-cd-close:hover {
+  background: var(--bg-secondary);
+  color: var(--text-main);
+}
+
+.cd-header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-right: 18px;
+}
+
+.cd-badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: rgba(239, 68, 68, 0.1);
+  color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+[data-theme="dark"] .cd-badge {
+  background: rgba(248, 113, 113, 0.15);
+  color: #f87171;
+}
+
+.cd-title {
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+.cd-grid {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2px;
+  background: var(--bg-secondary);
+  padding: 5px 8px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.cd-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 32px;
+}
+
+.cd-val {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-main);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.cd-unit {
+  font-size: 0.58rem;
+  font-weight: 500;
+  color: var(--text-tertiary);
+  text-transform: lowercase;
+  margin-top: 1px;
+}
+
+.cd-colon {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  margin-bottom: 7px;
+}
+
+.cd-footer-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 2px 0;
+  border-radius: 6px;
+  transition: all var(--transition-fast);
+}
+
+.cd-footer-link:hover {
+  opacity: 0.8;
+  transform: translateX(1px);
+}
+
+@media (max-width: 640px) {
+  .sheepa-countdown-widget {
+    bottom: 16px;
+    right: 16px;
+    width: 205px;
+    padding: 8px 12px;
+  }
+}
