@@ -168,7 +168,8 @@
     'cau-chuyen-nay-co-the-cuu-mang-ban',
     'cau-lac-bo-tai-uong',
     'vua-dau-thuong',
-    'giua-hai-ngon-lua'
+    'giua-hai-ngon-lua',
+    'cuon-sach-nay-khien-anh-nho-em'
   ];
   function checkBookHasBilingual(book) {
     if (!book) return false;

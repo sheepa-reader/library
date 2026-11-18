@@ -195,5 +195,18 @@
     ],
     "bio": "Annie Hartnett là tác giả của các tiểu thuyết được đánh giá cao như Rabbit Cake (chung khảo giải New England Book Award, sách hay nhất năm của Kirkus Reviews) và Unlikely Animals (giành giải Julia Ward Howe, sơ khảo giải Joyce Carol Oates). Cô từng nhận học bổng và chương trình lưu trú nghệ thuật từ MacDowell, Sewanee Writers’ Conference và Thư viện Công cộng Boston. Hiện cô sống tại Massachusetts cùng gia đình.",
     "avatar": "public/authors/annie-hartnett.png"
+  },
+  {
+    "id": "libby-page",
+    "name": "Libby Page",
+    "country": "Vương quốc Anh",
+    "birthYear": "1992",
+    "genres": [
+      "Hư Cấu",
+      "Lãng Mạn",
+      "Chữa Lành"
+    ],
+    "bio": "Libby Page là nữ nhà văn người Anh, tốt nghiệp ngành Thời trang tại London College of Fashion và từng làm việc trong lĩnh vực báo chí, truyền thông trước khi trở thành tác giả toàn thời gian. Cuốn tiểu thuyết đầu tay The Lido trở thành hiện tượng toàn cầu, lọt vào danh sách bán chạy nhất của The Sunday Times và được dịch ra hơn hai mươi thứ tiếng. Cô nổi tiếng với văn phong dịu dàng, ấm áp, sâu sắc về tình người và sức mạnh gắn kết của cộng đồng, sách vở.",
+    "avatar": "public/authors/libby-page.jpg"
   }
 ]

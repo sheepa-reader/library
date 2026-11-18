@@ -1,5 +1,596 @@
 [
   {
+    "id": "cuon-sach-nay-khien-anh-nho-em",
+    "title": "Cuốn Sách Này Khiến Anh Nhớ Em",
+    "originalTitle": "This Book Made Me Think of You",
+    "author": "Libby Page",
+    "authorId": "libby-page",
+    "rating": {
+      "score": 4.3,
+      "count": "175.2k"
+    },
+    "genres": [
+      "Hư Cấu",
+      "Lãng Mạn",
+      "Chữa Lành"
+    ],
+    "awards": [
+      "Bestseller Sunday Times • Cuốn sách của tháng do Indie Bookshops bình chọn"
+    ],
+    "description": "Vào ngày sinh nhật của mình, Tilly Nightingale bất ngờ nhận được cuộc gọi từ hiệu sách địa phương báo rằng có một món quà do chồng cô gửi lại đang chờ sẵn. Điều khiến cô bàng hoàng không chỉ vì đã lâu rồi cô không còn đọc sách để giải trí, mà bởi người chồng yêu dấu của cô – Joe – đã qua đời cách đó năm tháng. Món quà ấy là mười hai cuốn sách được Joe tỉ mỉ lựa chọn trước lúc ra đi, tương ứng với mỗi tháng một cuốn cùng những lá thư tay nhắn nhủ, nhằm giúp cô từng bước lật sang trang mới trong năm đầu tiên thiếu vắng anh. Theo chân từng cuốn sách, Tilly bắt đầu những chuyến phiêu lưu mới mẻ vòng quanh thế giới, ghi lại hành trình qua các vlog và kết nối lại với những người xung quanh. Với sự đồng hành ấm áp của Alfie – anh chủ hiệu sách tốt bụng – liệu \"một năm của những cuốn sách\" có đủ sức chữa lành trái tim tan vỡ và dạy Tilly cách mở lòng để yêu thêm lần nữa?",
+    "cover": "content/books/cuon-sach-nay-khien-anh-nho-em/cover.jpg",
+    "hasBilingual": true,
+    "series": "",
+    "volume": "",
+    "translator": "Sheepa",
+    "year": "2026",
+    "category": "Hư Cấu • Lãng Mạn • Chữa Lành",
+    "tags": [
+      "Hư Cấu",
+      "Lãng Mạn",
+      "Chữa Lành"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "icon": "public/icons/glyph_01_sheep_reading.png",
+    "downloadCountstart": 210,
+    "publishedAt": "2026-11-18",
+    "downloads": {
+      "epub": "content/downloads/cuon-sach-nay-khien-anh-nho-em.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/cuon-sach-nay-khien-anh-nho-em-song-ngu.epub",
+      "bilingualEpub": "content/downloads/cuon-sach-nay-khien-anh-nho-em-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Về Tác Giả",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời Nhắn Nhủ Trước Khi Đọc",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Lời Đề Từ",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "Tháng Giêng",
+        "part": "Tháng Giêng",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-4.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 1",
+        "part": "Tháng Giêng",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-5.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 2",
+        "part": "Tháng Giêng",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-6.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 3",
+        "part": "Tháng Giêng",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-7.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-8",
+        "title": "Tháng Hai",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-8.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 4",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-9.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 5",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-10.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 6",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-11.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 7",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-12.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 8",
+        "part": "Tháng Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-13.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-14",
+        "title": "Tháng Ba",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-14.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 9",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-15.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 10",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-16.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 11",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-17.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 12",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-18.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 13",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-19.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 14",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-20.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 15",
+        "part": "Tháng Ba",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-21.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-22",
+        "title": "Tháng Tư",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-22.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 16",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-23.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 17",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-24.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 18",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-25.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 19",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-26.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 20",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-27.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 21",
+        "part": "Tháng Tư",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-28.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-29",
+        "title": "Tháng Năm",
+        "part": "Tháng Năm",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-29.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 22",
+        "part": "Tháng Năm",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-30.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 23",
+        "part": "Tháng Năm",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-31.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 24",
+        "part": "Tháng Năm",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-32.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 25",
+        "part": "Tháng Năm",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-33.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-34",
+        "title": "Tháng Sáu",
+        "part": "Tháng Sáu",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-34.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-35",
+        "title": "Chương 26",
+        "part": "Tháng Sáu",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-35.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-36",
+        "title": "Chương 27",
+        "part": "Tháng Sáu",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-36.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-37",
+        "title": "Chương 28",
+        "part": "Tháng Sáu",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-37.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-38",
+        "title": "Tháng Bảy",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-38.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-39",
+        "title": "Chương 29",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-39.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-40",
+        "title": "Chương 30",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-40.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-41",
+        "title": "Chương 31",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-41.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-42",
+        "title": "Chương 32",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-42.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-43",
+        "title": "Chương 33",
+        "part": "Tháng Bảy",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-43.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-44",
+        "title": "Tháng Tám",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-44.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-45",
+        "title": "Chương 34",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-45.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-46",
+        "title": "Chương 35",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-46.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-47",
+        "title": "Chương 36",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-47.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-48",
+        "title": "Chương 37",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-48.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-49",
+        "title": "Chương 38",
+        "part": "Tháng Tám",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-49.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-50",
+        "title": "Tháng Chín",
+        "part": "Tháng Chín",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-50.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-51",
+        "title": "Chương 39",
+        "part": "Tháng Chín",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-51.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-52",
+        "title": "Chương 40",
+        "part": "Tháng Chín",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-52.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-53",
+        "title": "Chương 41",
+        "part": "Tháng Chín",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-53.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-54",
+        "title": "Chương 42",
+        "part": "Tháng Chín",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-54.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-55",
+        "title": "Tháng Mười",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-55.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-56",
+        "title": "Chương 43",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-56.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-57",
+        "title": "Chương 44",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-57.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-58",
+        "title": "Chương 45",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-58.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-59",
+        "title": "Chương 46",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-59.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-60",
+        "title": "Chương 47",
+        "part": "Tháng Mười",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-60.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-61",
+        "title": "Tháng Mười Một",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-61.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-62",
+        "title": "Chương 48",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-62.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-63",
+        "title": "Chương 49",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-63.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-64",
+        "title": "Chương 50",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-64.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-65",
+        "title": "Chương 51",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-65.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-66",
+        "title": "Chương 52",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-66.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-67",
+        "title": "Chương 53",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-67.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-68",
+        "title": "Chương 54",
+        "part": "Tháng Mười Một",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-68.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-69",
+        "title": "Tháng Mười Hai",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-69.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-70",
+        "title": "Chương 55",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-70.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-71",
+        "title": "Chương 56",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-71.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-72",
+        "title": "Chương 57",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-72.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-73",
+        "title": "Chương 58",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-73.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-74",
+        "title": "Chương 59",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-74.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-75",
+        "title": "Chương 60",
+        "part": "Tháng Mười Hai",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-75.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-76",
+        "title": "Lời Cảm Ơn",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-76.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-77",
+        "title": "Câu Hỏi Thảo Luận",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-77.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-78",
+        "title": "Chú Thích",
+        "part": "",
+        "path": "content/books/cuon-sach-nay-khien-anh-nho-em/chuong-78.md",
+        "noDropcap": true
+      }
+    ]
+  },
+  {
     "id": "duong-ve-mien-diu-em",
     "title": "Đường Về Miền Dịu Êm",
     "originalTitle": "The Road to Tender Hearts",
