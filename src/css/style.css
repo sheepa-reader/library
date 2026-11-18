@@ -279,15 +279,16 @@ button {
 .header-filter-wrapper {
   display: inline-flex;
   align-items: center;
-  gap: 0.45rem;
+  gap: 0.5rem;
   height: 38px;
-  padding: 0 0.65rem 0 0.55rem;
-  border-radius: 8px;
+  padding: 0 0.8rem 0 0.65rem;
+  border-radius: 10px;
   border: 1px solid var(--border-color);
   background: var(--bg-card);
   transition: all var(--transition-fast);
   position: relative;
   cursor: pointer;
+  user-select: none;
 }
 
 .header-filter-wrapper:hover {
@@ -295,7 +296,45 @@ button {
   background: var(--bg-hover);
 }
 
-/* Header Action Pill Button (Tiến độ) */
+.header-filter-wrapper.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(40, 116, 240, 0.15);
+}
+
+.header-filter-wrapper.active .header-filter-arrow {
+  transform: rotate(180deg);
+}
+
+.header-filter-icon {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  opacity: 0.9;
+  flex-shrink: 0;
+  pointer-events: none;
+}
+
+.header-filter-label {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-main);
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  pointer-events: none;
+  user-select: none;
+}
+
+.header-filter-arrow {
+  flex-shrink: 0;
+  color: var(--text-secondary);
+  pointer-events: none;
+  margin-left: -0.1rem;
+  transition: transform 0.2s ease;
+}
+
+/* Header Action Pill Button (Tiến độ, Đề xuất, Lịch sử) */
 .header-action-pill-btn {
   display: inline-flex;
   align-items: center;
@@ -340,50 +379,91 @@ button {
   white-space: nowrap;
 }
 
-.header-filter-icon {
-  width: 22px;
-  height: 22px;
-  object-fit: contain;
-  opacity: 0.9;
-  flex-shrink: 0;
-  pointer-events: none;
+/* Custom Dropdown Menu for Thể loại */
+.header-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 7px);
+  left: 0;
+  min-width: 230px;
+  max-width: 320px;
+  max-height: 380px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+  padding: 6px;
+  z-index: 1050;
+  display: none;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: opacity 0.18s ease, transform 0.18s ease;
+  scrollbar-width: thin;
 }
 
-.header-filter-label {
-  font-size: 0.82rem;
+.header-filter-wrapper.active .header-dropdown-menu {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.header-dropdown-menu::-webkit-scrollbar {
+  width: 5px;
+}
+.header-dropdown-menu::-webkit-scrollbar-track {
+  background: transparent;
+}
+.header-dropdown-menu::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 10px;
+}
+.header-dropdown-menu::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+.header-dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 0.84rem;
   font-weight: 500;
   color: var(--text-main);
-  max-width: 110px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  pointer-events: none;
-  user-select: none;
-}
-
-.header-filter-arrow {
-  flex-shrink: 0;
-  color: var(--text-secondary);
-  pointer-events: none;
-  margin-left: -0.1rem;
-}
-
-.header-filter-select {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
   cursor: pointer;
-  -webkit-appearance: menulist;
-  appearance: menulist;
+  transition: background var(--transition-fast), color var(--transition-fast);
+  white-space: nowrap;
 }
 
-.header-filter-select option {
-  background: var(--bg-primary);
-  color: var(--text-main);
-  padding: 4px;
+.header-dropdown-item:hover {
+  background: var(--bg-hover);
+  color: var(--accent);
+}
+
+.header-dropdown-item.active {
+  background: var(--bg-hover);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.header-dropdown-check {
+  flex-shrink: 0;
+  color: var(--accent);
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  pointer-events: none !important;
 }
 
 /* Header View Mode Toggle & Icon Buttons */
@@ -4269,17 +4349,17 @@ button {
 
 .changelog-title {
   margin: 0;
-  font-size: 1.15rem;
+  font-size: 1.02rem;
   font-weight: 700;
   color: var(--text-main);
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.45rem;
 }
 
 .changelog-subtitle {
-  margin: 0.2rem 0 0 0;
-  font-size: 0.8rem;
+  margin: 0.15rem 0 0 0;
+  font-size: 0.75rem;
   color: var(--text-muted);
 }
 
@@ -4287,24 +4367,24 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.65rem 1.25rem;
+  padding: 0.55rem 1.15rem;
   background: var(--bg-main);
   border-bottom: 1px solid var(--border-color);
-  font-size: 0.825rem;
+  font-size: 0.78rem;
 }
 
 .changelog-tabs {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.45rem;
 }
 
 .changelog-tab-btn {
   background: transparent;
   border: 1px solid var(--border-color);
   color: var(--text-muted);
-  padding: 0.3rem 0.75rem;
+  padding: 0.25rem 0.65rem;
   border-radius: 20px;
-  font-size: 0.775rem;
+  font-size: 0.72rem;
   cursor: pointer;
   font-weight: 500;
   transition: all var(--transition-fast);
@@ -4323,14 +4403,14 @@ button {
 }
 
 .changelog-body {
-  padding: 1.25rem;
+  padding: 1.1rem 1.15rem;
   overflow-y: auto;
   flex: 1;
 }
 
 .changelog-timeline {
   position: relative;
-  padding-left: 1.5rem;
+  padding-left: 1.35rem;
 }
 
 .changelog-timeline::before {
@@ -4345,8 +4425,8 @@ button {
 
 .changelog-item {
   position: relative;
-  margin-bottom: 1.15rem;
-  padding-bottom: 0.15rem;
+  margin-bottom: 0.95rem;
+  padding-bottom: 0.1rem;
 }
 
 .changelog-item:last-child {
@@ -4355,13 +4435,13 @@ button {
 
 .changelog-dot {
   position: absolute;
-  left: -1.5rem;
+  left: -1.35rem;
   top: 4px;
-  width: 12px;
-  height: 12px;
+  width: 11px;
+  height: 11px;
   border-radius: 50%;
   background: var(--bg-card);
-  border: 2.5px solid var(--accent);
+  border: 2px solid var(--accent);
   box-shadow: 0 0 0 2px var(--bg-card);
   z-index: 1;
 }
@@ -4370,21 +4450,21 @@ button {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 0.4rem;
+  gap: 0.45rem;
+  margin-bottom: 0.3rem;
 }
 
 .changelog-time {
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: var(--text-muted);
 }
 
 .changelog-badge {
-  font-size: 0.72rem;
+  font-size: 0.67rem;
   font-weight: 600;
-  padding: 0.15rem 0.55rem;
-  border-radius: 12px;
+  padding: 0.12rem 0.45rem;
+  border-radius: 10px;
   display: inline-flex;
   align-items: center;
   gap: 0.25rem;
@@ -4420,8 +4500,8 @@ button {
 [data-theme="dark"] .badge-proofread { color: #ba68c8; }
 
 .changelog-book-link {
-  font-size: 0.95rem;
-  font-weight: 700;
+  font-size: 0.82rem;
+  font-weight: 600;
   color: var(--text-main);
   text-decoration: none;
   transition: color var(--transition-fast);
@@ -4433,26 +4513,26 @@ button {
 }
 
 .changelog-item-title {
-  font-size: 0.86rem;
+  font-size: 0.76rem;
   font-weight: 500;
   color: var(--text-secondary);
-  line-height: 1.45;
-  margin: 0.15rem 0 0 0;
+  line-height: 1.4;
+  margin: 0.1rem 0 0 0;
 }
 
 .changelog-item-desc {
-  font-size: 0.825rem;
+  font-size: 0.74rem;
   color: var(--text-secondary);
-  line-height: 1.5;
-  margin: 0;
+  line-height: 1.45;
+  margin: 0.3rem 0 0 0;
   background: var(--bg-main);
-  padding: 0.55rem 0.75rem;
+  padding: 0.45rem 0.65rem;
   border-radius: 8px;
   border: 1px solid var(--border-color);
 }
 
 .changelog-footer {
-  padding: 0.85rem 1.25rem;
+  padding: 0.75rem 1.15rem;
   border-top: 1px solid var(--border-color);
   display: flex;
   align-items: center;
@@ -4461,7 +4541,7 @@ button {
 }
 
 .changelog-footer-note {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   color: var(--text-muted);
 }
 
@@ -4573,7 +4653,47 @@ button {
   font-weight: 700;
   color: var(--text-main);
   line-height: 1.35;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
 }
+
+.poll-rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.45rem;
+  border-radius: 6px;
+  background: var(--bg-hover);
+  color: var(--text-muted);
+  border: 1px solid var(--border-color);
+  line-height: 1;
+}
+
+.poll-rank-badge.top-1 {
+  background: rgba(245, 158, 11, 0.15);
+  color: #d97706;
+  border-color: rgba(245, 158, 11, 0.35);
+}
+
+.poll-rank-badge.top-2 {
+  background: rgba(107, 114, 128, 0.15);
+  color: #4b5563;
+  border-color: rgba(107, 114, 128, 0.35);
+}
+
+.poll-rank-badge.top-3 {
+  background: rgba(180, 83, 9, 0.15);
+  color: #b45309;
+  border-color: rgba(180, 83, 9, 0.35);
+}
+
+[data-theme="dark"] .poll-rank-badge.top-1 { color: #fbbf24; }
+[data-theme="dark"] .poll-rank-badge.top-2 { color: #9ca3af; }
+[data-theme="dark"] .poll-rank-badge.top-3 { color: #d97706; }
 
 .poll-candidate-author {
   font-size: 0.78rem;

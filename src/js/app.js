@@ -345,26 +345,127 @@
     }
   }
 
+  function syncHeaderTagDropdownActive() {
+    const menu = document.getElementById('header-tag-dropdown-menu');
+    if (!menu) return;
+    const items = menu.querySelectorAll('.header-dropdown-item');
+    items.forEach(item => {
+      const val = item.getAttribute('data-value');
+      const isSel = (val === activeTagFilter) || (val === 'all' && (!activeTagFilter || activeTagFilter === 'all'));
+      item.classList.toggle('active', isSel);
+      item.setAttribute('aria-selected', isSel ? 'true' : 'false');
+      const existingCheck = item.querySelector('.header-dropdown-check');
+      if (isSel && !existingCheck) {
+        item.insertAdjacentHTML('beforeend', '<svg class="header-dropdown-check" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>');
+      } else if (!isSel && existingCheck) {
+        existingCheck.remove();
+      }
+    });
+  }
+
+  function renderHeaderTagDropdown(allTags) {
+    const headerTagSelect = document.getElementById('header-tag-filter');
+    if (headerTagSelect) {
+      const hasSelected = allTags.includes(activeTagFilter);
+      headerTagSelect.innerHTML = `
+        <option value="all">Tất cả</option>
+        ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
+      `;
+      headerTagSelect.value = hasSelected ? activeTagFilter : 'all';
+    }
+
+    const menu = document.getElementById('header-tag-dropdown-menu');
+    if (!menu) return;
+
+    const items = [
+      { value: 'all', label: 'Tất cả thể loại' },
+      ...allTags.map(t => ({ value: t, label: t }))
+    ];
+
+    menu.innerHTML = items.map(item => {
+      const isSelected = (activeTagFilter === item.value) || (item.value === 'all' && (!activeTagFilter || activeTagFilter === 'all'));
+      return `
+        <div class="header-dropdown-item ${isSelected ? 'active' : ''}" data-value="${escapeHtml(item.value)}" role="option" aria-selected="${isSelected ? 'true' : 'false'}">
+          <span>${escapeHtml(item.label)}</span>
+          ${isSelected ? '<svg class="header-dropdown-check" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>' : ''}
+        </div>
+      `;
+    }).join('');
+
+    menu.querySelectorAll('.header-dropdown-item').forEach(itemEl => {
+      itemEl.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const val = itemEl.getAttribute('data-value');
+        selectHeaderTag(val);
+      });
+    });
+  }
+
+  function selectHeaderTag(tagName) {
+    activeTagFilter = tagName;
+    const wrapper = document.getElementById('header-filter-wrapper');
+    if (wrapper) {
+      wrapper.classList.remove('active');
+      wrapper.setAttribute('aria-expanded', 'false');
+    }
+    const headerTagSelect = document.getElementById('header-tag-filter');
+    if (headerTagSelect) {
+      headerTagSelect.value = (tagName && tagName !== 'all') ? tagName : 'all';
+    }
+    updateHeaderFilterLabels();
+    syncHeaderTagDropdownActive();
+    currentPage = 1;
+    randomizeQuote();
+    const currentHash = window.location.hash || '';
+    if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
+      window.location.hash = '#/';
+    } else {
+      renderLibraryView();
+    }
+  }
+
   // --- HEADER CONTROLS (TAG FILTER, STATUS FILTER, VIEW MODE TOGGLE) ---
   function initHeaderControls() {
     const tagSelect = document.getElementById('header-tag-filter');
     const statusSelect = document.getElementById('header-status-filter');
     const viewToggleBtn = document.getElementById('header-view-toggle-btn');
+    const tagWrapper = document.getElementById('header-filter-wrapper');
 
     updateHeaderFilterLabels();
 
+    if (tagWrapper) {
+      tagWrapper.addEventListener('click', (e) => {
+        if (e.target.closest('#header-tag-dropdown-menu')) return;
+        const willBeActive = !tagWrapper.classList.contains('active');
+        tagWrapper.classList.toggle('active', willBeActive);
+        tagWrapper.setAttribute('aria-expanded', willBeActive ? 'true' : 'false');
+      });
+
+      tagWrapper.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          if (!e.target.closest('#header-tag-dropdown-menu')) {
+            e.preventDefault();
+            const willBeActive = !tagWrapper.classList.contains('active');
+            tagWrapper.classList.toggle('active', willBeActive);
+            tagWrapper.setAttribute('aria-expanded', willBeActive ? 'true' : 'false');
+          }
+        } else if (e.key === 'Escape') {
+          tagWrapper.classList.remove('active');
+          tagWrapper.setAttribute('aria-expanded', 'false');
+        }
+      });
+    }
+
+    document.addEventListener('click', (e) => {
+      if (tagWrapper && !tagWrapper.contains(e.target)) {
+        tagWrapper.classList.remove('active');
+        tagWrapper.setAttribute('aria-expanded', 'false');
+      }
+    });
+
     if (tagSelect) {
       tagSelect.addEventListener('change', (e) => {
-        activeTagFilter = e.target.value;
-        updateHeaderFilterLabels();
-        currentPage = 1;
-        randomizeQuote();
-        const currentHash = window.location.hash || '';
-        if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
-          window.location.hash = '#/';
-        } else {
-          renderLibraryView();
-        }
+        selectHeaderTag(e.target.value);
       });
     }
 
@@ -552,6 +653,7 @@
       headerTagSelect.value = hasOpt ? tagName : 'all';
     }
     updateHeaderFilterLabels();
+    syncHeaderTagDropdownActive();
     const currentHash = window.location.hash || '';
     if (currentHash.startsWith('#/book/') || currentHash.startsWith('#/read/')) {
       window.location.hash = tagName === 'all' ? '#/' : '#/?tag=' + encodeURIComponent(tagName);
@@ -577,6 +679,7 @@
     const headerStatusSelect = document.getElementById('header-status-filter');
     if (headerStatusSelect) headerStatusSelect.value = 'all';
     updateHeaderFilterLabels();
+    syncHeaderTagDropdownActive();
     const searchInput = document.getElementById('library-search');
     if (searchInput) searchInput.value = '';
     const hSearchInput = document.getElementById('header-search-input');
@@ -1325,15 +1428,7 @@
     const allTags = Array.from(tagMap.values()).sort((a, b) => a.localeCompare(b, 'vi'));
 
     // Đồng bộ dropdown thể loại trên header (chỉ thể loại thực, không series/song ngữ)
-    const headerTagSelect = document.getElementById('header-tag-filter');
-    if (headerTagSelect) {
-      const hasSelected = allTags.includes(activeTagFilter);
-      headerTagSelect.innerHTML = `
-        <option value="all">Tất cả</option>
-        ${allTags.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join('')}
-      `;
-      headerTagSelect.value = hasSelected ? activeTagFilter : 'all';
-    }
+    renderHeaderTagDropdown(allTags);
 
     // Đồng bộ dropdown trạng thái trên header
     const headerStatusSelect = document.getElementById('header-status-filter');
@@ -3942,13 +4037,15 @@
   }
 
   // --- BOOK TRANSLATION POLL & COMMUNITY WISHLIST MODAL ---
-  // --- BOOK TRANSLATION POLL & COMMUNITY WISHLIST MODAL ---
   let cachedPollCandidates = null;
   try {
     const saved = localStorage.getItem('sheepa_cached_poll_candidates');
     if (saved) {
       const parsed = JSON.parse(saved);
       if (Array.isArray(parsed) && parsed.length > 0) {
+        parsed.forEach((b, idx) => {
+          if (b._sheetIndex === undefined) b._sheetIndex = idx;
+        });
         cachedPollCandidates = parsed;
       }
     }
@@ -3966,6 +4063,9 @@
         const data = await res.json();
         if (data && data.success) {
           if (Array.isArray(data.books)) {
+            data.books.forEach((b, idx) => {
+              b._sheetIndex = idx;
+            });
             cachedPollCandidates = data.books;
             try {
               localStorage.setItem('sheepa_cached_poll_candidates', JSON.stringify(data.books));
@@ -3988,6 +4088,21 @@
     }
   }
 
+  function sortPollCandidates(list) {
+    if (!Array.isArray(list)) return [];
+    return [...list].sort((a, b) => {
+      const votesA = Number(a.votes) || 0;
+      const votesB = Number(b.votes) || 0;
+      if (votesB !== votesA) {
+        return votesB - votesA; // Nhiều vote nhất xếp trước (từ nhiều xuống ít)
+      }
+      // Cùng số vote: xếp theo thời gian thêm vào Google Sheet (thứ tự dòng trong sheet)
+      const idxA = a._sheetIndex !== undefined ? a._sheetIndex : 999999;
+      const idxB = b._sheetIndex !== undefined ? b._sheetIndex : 999999;
+      return idxA - idxB;
+    });
+  }
+
   function getPollCandidates() {
     if (cachedPollCandidates && cachedPollCandidates.length > 0) {
       return cachedPollCandidates;
@@ -4003,27 +4118,30 @@
         title: 'The Hod King',
         author: 'Josiah Bancroft',
         desc: 'Tập 3 Tháp Babel — Cuộc hội ngộ đỉnh cao giữa Senlin và Sphinx trên chiến hạm bầu trời.',
-        votes: 48
+        votes: 48,
+        _sheetIndex: 0
       },
       {
         id: 'piranesi',
         title: 'Piranesi',
         author: 'Susanna Clarke',
         desc: 'Kiệt tác văn học kỳ ảo mê cung vô tận — Chiến thắng giải Women\'s Prize for Fiction.',
-        votes: 32
+        votes: 32,
+        _sheetIndex: 1
       },
       {
         id: 'dark-matter',
         title: 'Dark Matter',
         author: 'Blake Crouch',
         desc: 'Tiểu thuyết khoa học viễn tưởng đa vũ trụ ly kỳ của tác giả Vòng Lặp Ký Ức.',
-        votes: 25
+        votes: 25,
+        _sheetIndex: 2
       }
     ];
   }
 
-  function renderPollCandidateCards(candidates) {
-    if (!candidates) {
+  function renderPollCandidateCards(rawCandidates) {
+    if (!rawCandidates) {
       return `
         <div class="poll-loading-box" style="text-align: center; padding: 2rem 1rem; color: var(--text-secondary);">
           <img src="public/icons/glyph_01_sheep_reading.png" alt="Loading" class="inline-glyph-icon" style="width: 32px; height: 32px; margin-bottom: 0.5rem; display: inline-block;">
@@ -4031,6 +4149,8 @@
         </div>
       `;
     }
+
+    const candidates = sortPollCandidates(rawCandidates);
 
     if (candidates.length === 0) {
       return `
@@ -4040,16 +4160,21 @@
       `;
     }
 
-    const totalVotes = candidates.reduce((sum, b) => sum + (b.votes || 0), 0) || 1;
+    const totalVotes = candidates.reduce((sum, b) => sum + (Number(b.votes) || 0), 0) || 1;
 
-    return candidates.map(b => {
+    return candidates.map((b, rankIdx) => {
       const hasVoted = localStorage.getItem(`sheepa_voted_${b.id}`) === 'true';
-      const percent = Math.round(((b.votes || 0) / totalVotes) * 100);
+      const votes = Number(b.votes) || 0;
+      const percent = Math.round((votes / totalVotes) * 100);
+      const rankClass = rankIdx === 0 ? 'top-1' : (rankIdx === 1 ? 'top-2' : (rankIdx === 2 ? 'top-3' : ''));
       return `
         <div class="poll-candidate-card" data-candidate-id="${escapeHtml(b.id)}">
           <div class="poll-candidate-top">
             <div>
-              <div class="poll-candidate-title">${escapeHtml(b.title)}</div>
+              <div class="poll-candidate-title">
+                <span class="poll-rank-badge ${rankClass}">#${rankIdx + 1}</span>
+                <span>${escapeHtml(b.title)}</span>
+              </div>
               <div class="poll-candidate-author">Tác giả: ${escapeHtml(b.author || 'Đang cập nhật')}</div>
             </div>
             <button class="poll-vote-btn ${hasVoted ? 'voted' : ''}" ${hasVoted ? 'disabled' : ''} data-vote-id="${escapeHtml(b.id)}">
@@ -4061,7 +4186,7 @@
             <div class="poll-progress-bar">
               <div class="poll-progress-fill" style="width: ${percent}%;"></div>
             </div>
-            <span class="poll-votes-text">${(b.votes || 0).toLocaleString('vi-VN')} phiếu (${percent}%)</span>
+            <span class="poll-votes-text">${votes.toLocaleString('vi-VN')} phiếu (${percent}%)</span>
           </div>
         </div>
       `;

@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261118-01",
+    "timestamp": "2026-11-18T10:00:00+07:00",
+    "bookId": "cuon-sach-nay-khien-anh-nho-em",
+    "bookTitle": "Cuốn Sách Này Khiến Anh Nhớ Em (This Book Made Me Think of You)",
+    "type": "book_add",
+    "typeName": "Xuất bản mới",
+    "badgeClass": "badge-book",
+    "title": "Phát hành tác phẩm: Cuốn Sách Này Khiến Anh Nhớ Em (Đơn ngữ & Song ngữ)",
+    "description": "Chính thức ra mắt bạn đọc tiểu thuyết chữa lành ấm áp 'Cuốn Sách Này Khiến Anh Nhớ Em' của nữ tác giả Libby Page với trọn vẹn 78 chương. Đầy đủ bản đọc online đơn ngữ tiếng Việt biên tập kỹ lưỡng và song ngữ Anh - Việt đối chiếu chuẩn xác từng đoạn, hỗ trợ tải 2 bản EPUB chất lượng cao."
+  },
+  {
     "id": "log-20261116-01",
     "timestamp": "2026-11-16T14:30:00+07:00",
     "bookId": "duong-ve-mien-diu-em",
