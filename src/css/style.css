@@ -7142,10 +7142,6 @@ body.modal-open {
   transform: scale(1.08);
 }
 
-.reader-audio-player-card.audio-mode-exited {
-  display: none !important;
-}
-
 .audio-download-disabled-btn {
   opacity: 0.45;
   cursor: not-allowed !important;

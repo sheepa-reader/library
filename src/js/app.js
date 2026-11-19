@@ -3070,30 +3070,15 @@
       });
     }
 
-    // Exit audiobook mode completely
-    function exitAudioMode(e) {
-      if (e) e.stopPropagation();
-      if (audio) {
-        audio.pause();
-        audio.currentTime = 0;
-      }
-      setPlayingUI(false);
-      clearAllActiveHighlights();
-      hideSeekPrompt();
-      activeSegment = null;
-      if (miniBar) {
-        miniBarDismissed = true;
-        miniBar.classList.remove('is-visible');
-      }
-      if (card) {
-        card.classList.add('audio-mode-exited');
-      }
-      showGlobalToast('Đã dừng và thoát chế độ sách nói', 2200);
-    }
-
-    // Highlight sentence and paragraph currently being read
+    // Highlight sentence and paragraph currently being read (ONLY while audio is actively playing)
     function updateActiveHighlight(curTime) {
       if (!segments || segments.length === 0) return;
+      // If audio is paused or stopped, do not highlight text; return to clean reading interface
+      if (!audio || audio.paused) {
+        clearAllActiveHighlights();
+        activeSegment = null;
+        return;
+      }
       const cur = curTime !== undefined ? curTime : audio.currentTime;
       const matched = segments.find(seg => cur >= seg.start && cur < seg.end);
 
@@ -3114,12 +3099,17 @@
     // Jump to the sentence/paragraph currently being read and pulse highlight
     function scrollToActiveReading(e) {
       if (e) e.stopPropagation();
-      if (activeSegment && activeSegment.el) {
-        activeSegment.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        activeSegment.el.classList.add('audio-pulse-focus');
+      let seg = activeSegment;
+      if (!seg && segments && segments.length > 0) {
+        const cur = audio ? (audio.currentTime || 0) : 0;
+        seg = segments.find(s => cur >= s.start && cur < s.end) || segments[0];
+      }
+      if (seg && seg.el) {
+        seg.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        seg.el.classList.add('audio-pulse-focus');
         setTimeout(() => {
-          if (activeSegment && activeSegment.el) {
-            activeSegment.el.classList.remove('audio-pulse-focus');
+          if (seg && seg.el) {
+            seg.el.classList.remove('audio-pulse-focus');
           }
         }, 1600);
       } else if (card) {
@@ -3192,6 +3182,12 @@
         miniPauseIcon.style.display = isPlaying ? 'block' : 'none';
       }
 
+      // If paused or stopped, immediately clear all highlights and quote styles to return to clean reading interface
+      if (!isPlaying) {
+        clearAllActiveHighlights();
+        activeSegment = null;
+      }
+
       checkMiniBarVisibility();
     }
 
@@ -3240,12 +3236,14 @@
           await audio.play();
           miniBarDismissed = false; // Reset close state on play
           setPlayingUI(true);
+          updateActiveHighlight(audio.currentTime);
         } catch (e) {
           console.warn('Playback error:', e);
         }
       } else {
         audio.pause();
         setPlayingUI(false);
+        clearAllActiveHighlights();
       }
     }
 
@@ -3269,7 +3267,9 @@
     audio.addEventListener('timeupdate', () => {
       if (!isSeeking) {
         updateProgressUI();
-        updateActiveHighlight(audio.currentTime);
+        if (!audio.paused) {
+          updateActiveHighlight(audio.currentTime);
+        }
       }
       if (Math.floor(audio.currentTime) % 3 === 0) {
         try {
@@ -3298,16 +3298,10 @@
     if (headerAudioBtn) {
       headerAudioBtn.addEventListener('click', () => {
         if (card) {
-          card.classList.remove('audio-mode-exited');
           card.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
         togglePlay();
       });
-    }
-
-    const cardExitBtn = document.getElementById('audio-btn-exit');
-    if (cardExitBtn) {
-      cardExitBtn.addEventListener('click', exitAudioMode);
     }
 
     const cardJumpBtn = document.getElementById('audio-btn-jump-current');
@@ -3329,7 +3323,19 @@
     if (miniPulseBtn) miniPulseBtn.addEventListener('click', scrollToActiveReading);
 
     if (miniCloseBtn) {
-      miniCloseBtn.addEventListener('click', exitAudioMode);
+      miniCloseBtn.addEventListener('click', (e) => {
+        if (e) e.stopPropagation();
+        if (audio && !audio.paused) {
+          audio.pause();
+        }
+        setPlayingUI(false);
+        clearAllActiveHighlights();
+        hideSeekPrompt();
+        if (miniBar) {
+          miniBarDismissed = true;
+          miniBar.classList.remove('is-visible');
+        }
+      });
     }
 
     // Skip controls (-10s / +10s) on both main card and mini player
