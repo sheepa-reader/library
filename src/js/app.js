@@ -1591,6 +1591,16 @@
                       `).join('')}
                       ${book.series ? `<span class="badge-tag badge-series" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(book.series.replace(/'/g, "\\'"))}');" title="Lọc các tập trong bộ sách '${escapeHtml(book.series)}'">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                       <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                  ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
+                    <span class="badge-tag badge-audio" title="Tác phẩm có bản đọc Sách nói (Audiobook)">
+                      <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink: 0;"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>Audio
+                    </span>
+                  ` : ''}
+                      ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
+                        <span class="badge-tag badge-audio" title="Tác phẩm có bản đọc Sách nói (Audiobook)">
+                          <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink: 0;"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>Audio
+                        </span>
+                      ` : ''}
                       ${hasBilingual ? `
                         <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
                           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Song Ngữ
@@ -1643,6 +1653,11 @@
                   `).join('')}
                   ${book.series ? `<span class="badge-tag badge-series" onclick="event.stopPropagation(); setTagFilter('${escapeHtml(book.series.replace(/'/g, "\\'"))}');" title="Lọc các tập trong bộ sách '${escapeHtml(book.series)}'">${escapeHtml(book.series)}${book.volume ? ' • ' + escapeHtml(book.volume) : ''}</span>` : ''}
                   <span class="badge-status ${book.status}">${book.statusText || 'Đang cập nhật'}</span>
+                  ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
+                    <span class="badge-tag badge-audio" title="Tác phẩm có bản đọc Sách nói (Audiobook)">
+                      <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink: 0;"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>Audio
+                    </span>
+                  ` : ''}
                   ${hasBilingual ? `
                     <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
                       <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Song Ngữ
@@ -1865,6 +1880,15 @@
                 <strong>Ngày đăng tải</strong>
                 <span>${formatDisplayDate(book.publishedAt || book.createdAt)}</span>
               </div>
+              ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
+                <div class="spec-item spec-item-audio">
+                  <strong>Sách nói</strong>
+                  <span class="spec-audio-value">
+                    <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>
+                    Có Audio
+                  </span>
+                </div>
+              ` : ''}
             </div>
 
             <div class="detail-actions">
@@ -2053,6 +2077,14 @@
             ` : ''}
 
             <div class="reader-tools">
+              ${chapter.audio ? `
+                <button class="icon-btn has-audio-btn" id="reader-audio-toggle-btn" title="Nghe sách nói (Audiobook)">
+                  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 18v-6a9 9 0 0 1 18 0v6"></path>
+                    <path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>
+                  </svg>
+                </button>
+              ` : ''}
               ${nextChapter ? `
                 <a href="#/read/${book.id}/${nextChapter.id}${queryStr}" class="icon-btn" title="Chương sau: ${escapeHtml(nextChapter.title)}">
                   <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></svg>
@@ -2077,6 +2109,92 @@
 
         <!-- Reading Article -->
         <main class="reader-article-container" style="max-width: ${readerSettings.maxWidth}px;">
+          ${chapter.audio ? `
+            <!-- Audiobook Player Card -->
+            <div class="reader-audio-player-card" id="reader-audio-player">
+              <div class="audio-player-header">
+                <div class="audio-player-title-group">
+                  <div class="audio-player-icon-pulse">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/>
+                    </svg>
+                  </div>
+                  <div>
+                    <div class="audio-player-label">SÁCH NÓI • AUDIOBOOK</div>
+                    <div class="audio-player-name">${escapeHtml(chapter.title)} — ${escapeHtml(book.title)}</div>
+                  </div>
+                </div>
+                <div class="audio-player-speed-wrap">
+                  <button class="audio-speed-btn" id="audio-speed-toggle" title="Thay đổi tốc độ phát (0.8x, 1.0x, 1.25x, 1.5x)">1.0x</button>
+                </div>
+              </div>
+
+              <!-- Audio Timeline Wrap -->
+              <div class="audio-timeline-wrap">
+                <span class="audio-time-current" id="audio-time-current">00:00</span>
+                <div class="audio-progress-bar" id="audio-progress-container" role="progressbar" tabindex="0" title="Bấm hoặc kéo để tua">
+                  <div class="audio-progress-buffer" id="audio-progress-buffer"></div>
+                  <div class="audio-progress-fill" id="audio-progress-fill"></div>
+                  <div class="audio-progress-handle" id="audio-progress-handle"></div>
+                </div>
+                <span class="audio-time-duration" id="audio-time-duration">--:--</span>
+              </div>
+
+              <!-- Audio Controls Row -->
+              <div class="audio-controls-row">
+                <div class="audio-controls-left">
+                  <button class="audio-ctrl-btn" id="audio-btn-rewind" title="Lùi lại 10 giây">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M11 17l-5-5 5-5M18 17l-5-5 5-5"/>
+                    </svg>
+                    <span class="audio-skip-text">-10s</span>
+                  </button>
+                  <button class="audio-play-btn" id="audio-btn-play" title="Phát / Dừng sách nói (Phím Space)">
+                    <svg class="audio-icon-play" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                      <polygon points="6 3 20 12 6 21 6 3"></polygon>
+                    </svg>
+                    <svg class="audio-icon-pause" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="display: none;">
+                      <rect x="6" y="4" width="4" height="16"></rect>
+                      <rect x="14" y="4" width="4" height="16"></rect>
+                    </svg>
+                  </button>
+                  <button class="audio-ctrl-btn" id="audio-btn-forward" title="Tua tới 10 giây">
+                    <span class="audio-skip-text">+10s</span>
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M13 17l5-5-5-5M6 17l5-5-5-5"/>
+                    </svg>
+                  </button>
+                </div>
+
+                <div class="audio-controls-right">
+                  <div class="audio-volume-wrap">
+                    <button class="audio-ctrl-btn" id="audio-btn-mute" title="Tắt / Bật tiếng">
+                      <svg class="audio-icon-volume" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                      </svg>
+                      <svg class="audio-icon-muted" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: none;">
+                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                        <line x1="23" y1="9" x2="17" y2="15"></line>
+                        <line x1="17" y1="9" x2="23" y2="15"></line>
+                      </svg>
+                    </button>
+                    <input type="range" class="audio-volume-slider" id="audio-volume-slider" min="0" max="1" step="0.05" value="1" title="Âm lượng">
+                  </div>
+                  <a href="${escapeHtml(chapter.audio)}" download="${escapeHtml(book.title)} - ${escapeHtml(chapter.title)}.mp3" class="audio-ctrl-btn" title="Tải file audio về máy">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                      <polyline points="7 10 12 15 17 10"></polyline>
+                      <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+
+              <audio id="reader-html5-audio" src="${escapeHtml(chapter.audio)}" preload="metadata"></audio>
+            </div>
+          ` : ''}
+
           <article class="reader-content ${(!isDropCapLocked && readerSettings.dropCap) ? 'enable-dropcap' : ''} ${isDropCapLocked ? 'dropcap-locked' : ''} ${isDedicationChapter(chapter) ? 'is-dedication' : ''} ${isBilingualActive ? 'has-bilingual-pairs' : ''}" 
                    id="reader-body" 
                    data-reader-mode="${currentMode}" 
@@ -2110,6 +2228,31 @@
             `}
           </div>
         </main>
+
+        ${chapter.audio ? `
+          <!-- Floating Mini Audio Bar (Sticky at bottom when scrolled down) -->
+          <div class="reader-audio-mini-bar" id="reader-audio-mini-bar" role="complementary" aria-label="Bộ điều khiển mini sách nói">
+            <div class="mini-audio-pulse-icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/>
+              </svg>
+            </div>
+            <div class="mini-audio-info" id="mini-audio-info-click" title="Bấm để cuộn về bộ phát audio đầy đủ">
+              <span class="mini-audio-title">${escapeHtml(chapter.title)}</span>
+              <span class="mini-audio-time" id="mini-audio-time">00:00 / --:--</span>
+            </div>
+            <button class="mini-audio-play-btn" id="mini-audio-btn-play" title="Phát / Dừng">
+              <svg class="mini-icon-play" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <polygon points="6 3 20 12 6 21 6 3"></polygon>
+              </svg>
+              <svg class="mini-icon-pause" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display: none;">
+                <rect x="6" y="4" width="4" height="16"></rect>
+                <rect x="14" y="4" width="4" height="16"></rect>
+              </svg>
+            </button>
+            <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Ẩn thanh điều khiển mini">✕</button>
+          </div>
+        ` : ''}
 
         <!-- Quick Settings Drawer -->
         <div class="settings-drawer" id="reader-settings-drawer">
@@ -2524,6 +2667,41 @@
       }
     };
     window.addEventListener('keydown', handleKeyNav, { once: true });
+
+    // Initialize Chapter Audio Player
+    if (chapter.audio) {
+      initChapterAudioPlayer(chapter, book);
+    }
+  }
+
+  // Helper: Render individual chapter row in TOC with Audio badge & listen pill
+  function renderTocChapterItem(book, chap, idx, isSubItem = false) {
+    const hasAudio = !!chap.audio;
+    return `
+      <a href="#/read/${book.id}/${chap.id}" class="toc-item-link ${isSubItem ? 'toc-sub-item' : ''}">
+        <div class="toc-item-left">
+          <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
+          <span class="toc-title">${escapeHtml(chap.title)}</span>
+          ${hasAudio ? `
+            <span class="toc-audio-badge" title="Chương này có bản đọc Sách nói (Audiobook)">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/>
+              </svg>
+              <span>Audio</span>
+            </span>
+          ` : ''}
+        </div>
+        <div class="toc-item-right">
+          ${hasAudio ? `
+            <span class="toc-listen-pill" title="Nghe sách nói chương này">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"></polygon></svg>
+              <span>Nghe</span>
+            </span>
+          ` : ''}
+          <span class="toc-arrow">→</span>
+        </div>
+      </a>
+    `;
   }
 
   // --- HIERARCHICAL TOC RENDERER (H1 Parts -> H2 Chapters with Collapse / Expand) ---
@@ -2531,15 +2709,7 @@
   function renderHierarchicalToc(book) {
     const hasParts = book.chapters.some(c => c.part && c.part !== 'Nội Dung Tác Phẩm' && !c.part.toLowerCase().includes('nội dung'));
     if (!hasParts) {
-      return book.chapters.map((chap, idx) => `
-        <a href="#/read/${book.id}/${chap.id}" class="toc-item-link">
-          <div>
-            <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-            <span>${escapeHtml(chap.title)}</span>
-          </div>
-          <span class="toc-arrow">→</span>
-        </a>
-      `).join('');
+      return book.chapters.map((chap, idx) => renderTocChapterItem(book, chap, idx, false)).join('');
     }
 
     // Nhóm các chương theo Phần lớn (Part)
@@ -2565,15 +2735,7 @@
       if (!g.part) {
         // Các chương không thuộc phần lớn nào (như Lời nói đầu, Giới thiệu...) hiển thị ngay ở trên cùng
         g.items.forEach(({ chap, idx }) => {
-          html += `
-            <a href="#/read/${book.id}/${chap.id}" class="toc-item-link">
-              <div>
-                <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-                <span>${escapeHtml(chap.title)}</span>
-              </div>
-              <span class="toc-arrow">→</span>
-            </a>
-          `;
+          html += renderTocChapterItem(book, chap, idx, false);
         });
       } else {
         partIdx++;
@@ -2595,17 +2757,7 @@
               </div>
             </div>
             <div class="toc-group-content">
-              ${g.items.map(({ chap, idx }) => {
-                return `
-                  <a href="#/read/${book.id}/${chap.id}" class="toc-item-link toc-sub-item">
-                    <div>
-                      <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-                      <span>${escapeHtml(chap.title)}</span>
-                    </div>
-                    <span class="toc-arrow">→</span>
-                  </a>
-                `;
-              }).join('')}
+              ${g.items.map(({ chap, idx }) => renderTocChapterItem(book, chap, idx, true)).join('')}
             </div>
           </div>
         `;
@@ -2622,20 +2774,337 @@
     return book.chapters.map((chap, idx) => {
       const isActive = currentChapId === chap.id;
       const targetHash = `#/read/${book.id}/${chap.id}${queryStr}`;
+      const hasAudio = !!chap.audio;
       return `
         <a href="${targetHash}" 
            data-target-hash="${targetHash}"
            data-chap-id="${chap.id}"
            class="toc-item-link ${isActive ? 'active-chapter' : ''}" 
            style="${isActive ? 'background: var(--bg-hover); font-weight: 700;' : ''}">
-          <div>
+          <div class="toc-item-left">
             <span class="toc-index">${String(idx + 1).padStart(2, '0')}</span>
-            <span>${escapeHtml(chap.title)}</span>
+            <span class="toc-title">${escapeHtml(chap.title)}</span>
+            ${hasAudio ? `
+              <span class="toc-audio-badge" title="Chương này có bản đọc Sách nói (Audiobook)">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/>
+                </svg>
+                <span>Audio</span>
+              </span>
+            ` : ''}
           </div>
-          <span class="toc-arrow">→</span>
+          <div class="toc-item-right">
+            ${hasAudio ? `
+              <span class="toc-listen-pill" title="Nghe sách nói chương này">
+                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"></polygon></svg>
+                <span>Nghe</span>
+              </span>
+            ` : ''}
+            <span class="toc-arrow">→</span>
+          </div>
         </a>
       `;
     }).join('');
+  }
+
+  // --- AUDIOBOOK CONTROLLER LOGIC ---
+  let currentActiveAudio = null;
+
+  function initChapterAudioPlayer(chapter, book) {
+    if (!chapter || !chapter.audio) return;
+
+    const audio = document.getElementById('reader-html5-audio');
+    const card = document.getElementById('reader-audio-player');
+    const playBtn = document.getElementById('audio-btn-play');
+    const miniBar = document.getElementById('reader-audio-mini-bar');
+    const miniPlayBtn = document.getElementById('mini-audio-btn-play');
+    const miniCloseBtn = document.getElementById('mini-audio-btn-close');
+    const miniInfo = document.getElementById('mini-audio-info-click');
+    const miniTime = document.getElementById('mini-audio-time');
+    const progressContainer = document.getElementById('audio-progress-container');
+    const progressFill = document.getElementById('audio-progress-fill');
+    const progressBuffer = document.getElementById('audio-progress-buffer');
+    const progressHandle = document.getElementById('audio-progress-handle');
+    const timeCurrent = document.getElementById('audio-time-current');
+    const timeDuration = document.getElementById('audio-time-duration');
+    const rewindBtn = document.getElementById('audio-btn-rewind');
+    const forwardBtn = document.getElementById('audio-btn-forward');
+    const speedBtn = document.getElementById('audio-speed-toggle');
+    const muteBtn = document.getElementById('audio-btn-mute');
+    const volumeSlider = document.getElementById('audio-volume-slider');
+    const headerAudioBtn = document.getElementById('reader-audio-toggle-btn');
+
+    if (!audio) return;
+
+    // Cleanup previous audio if any
+    if (currentActiveAudio && currentActiveAudio !== audio) {
+      try {
+        currentActiveAudio.pause();
+      } catch (e) {}
+    }
+    currentActiveAudio = audio;
+
+    let isSeeking = false;
+    let miniBarDismissed = false;
+    const storageKey = `sheepa_audio_pos_${book.id}_${chapter.id}`;
+
+    const speeds = [1.0, 1.25, 1.5, 0.8];
+    let currentSpeedIdx = 0;
+
+    function formatTime(sec) {
+      if (isNaN(sec) || sec < 0) return '00:00';
+      const m = Math.floor(sec / 60);
+      const s = Math.floor(sec % 60);
+      const h = Math.floor(m / 60);
+      const remM = m % 60;
+      if (h > 0) {
+        return `${h}:${String(remM).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+      }
+      return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+
+    function setPlayingUI(isPlaying) {
+      if (card) card.classList.toggle('is-playing', isPlaying);
+      if (miniBar) miniBar.classList.toggle('is-playing', isPlaying);
+
+      const playIcon = playBtn ? playBtn.querySelector('.audio-icon-play') : null;
+      const pauseIcon = playBtn ? playBtn.querySelector('.audio-icon-pause') : null;
+      if (playIcon && pauseIcon) {
+        playIcon.style.display = isPlaying ? 'none' : 'block';
+        pauseIcon.style.display = isPlaying ? 'block' : 'none';
+      }
+
+      const miniPlayIcon = miniPlayBtn ? miniPlayBtn.querySelector('.mini-icon-play') : null;
+      const miniPauseIcon = miniPlayBtn ? miniPlayBtn.querySelector('.mini-icon-pause') : null;
+      if (miniPlayIcon && miniPauseIcon) {
+        miniPlayIcon.style.display = isPlaying ? 'none' : 'block';
+        miniPauseIcon.style.display = isPlaying ? 'block' : 'none';
+      }
+
+      checkMiniBarVisibility();
+    }
+
+    function updateProgressUI() {
+      if (!audio.duration) return;
+      const cur = audio.currentTime;
+      const dur = audio.duration;
+      const pct = Math.max(0, Math.min(100, (cur / dur) * 100));
+
+      if (timeCurrent) timeCurrent.textContent = formatTime(cur);
+      if (timeDuration) timeDuration.textContent = formatTime(dur);
+      if (progressFill) progressFill.style.width = `${pct}%`;
+      if (progressHandle) progressHandle.style.left = `${pct}%`;
+      if (miniTime) miniTime.textContent = `${formatTime(cur)} / ${formatTime(dur)}`;
+
+      if (audio.buffered.length > 0 && progressBuffer) {
+        const bufferedEnd = audio.buffered.end(audio.buffered.length - 1);
+        const bufPct = Math.min(100, (bufferedEnd / dur) * 100);
+        progressBuffer.style.width = `${bufPct}%`;
+      }
+    }
+
+    function checkMiniBarVisibility() {
+      if (!miniBar || miniBarDismissed) return;
+      if (!card) return;
+
+      const rect = card.getBoundingClientRect();
+      const isCardOutOfView = rect.bottom < 50;
+
+      if (isCardOutOfView && !audio.paused) {
+        miniBar.classList.add('is-visible');
+      } else if (!isCardOutOfView) {
+        miniBar.classList.remove('is-visible');
+      }
+    }
+
+    async function togglePlay() {
+      if (audio.paused) {
+        try {
+          await audio.play();
+          setPlayingUI(true);
+        } catch (e) {
+          console.warn('Playback error:', e);
+        }
+      } else {
+        audio.pause();
+        setPlayingUI(false);
+      }
+    }
+
+    // Restore saved position
+    audio.addEventListener('loadedmetadata', () => {
+      if (timeDuration) timeDuration.textContent = formatTime(audio.duration);
+      try {
+        const saved = localStorage.getItem(storageKey);
+        if (saved) {
+          const pos = parseFloat(saved);
+          if (!isNaN(pos) && pos > 2 && pos < audio.duration - 5) {
+            audio.currentTime = pos;
+            updateProgressUI();
+          }
+        }
+      } catch (e) {}
+    });
+
+    audio.addEventListener('timeupdate', () => {
+      if (!isSeeking) updateProgressUI();
+      if (Math.floor(audio.currentTime) % 3 === 0) {
+        try {
+          localStorage.setItem(storageKey, audio.currentTime.toString());
+        } catch (e) {}
+      }
+    });
+
+    audio.addEventListener('play', () => setPlayingUI(true));
+    audio.addEventListener('pause', () => setPlayingUI(false));
+    audio.addEventListener('ended', () => {
+      setPlayingUI(false);
+      try { localStorage.removeItem(storageKey); } catch (e) {}
+    });
+
+    if (playBtn) playBtn.addEventListener('click', togglePlay);
+    if (miniPlayBtn) miniPlayBtn.addEventListener('click', togglePlay);
+
+    if (headerAudioBtn) {
+      headerAudioBtn.addEventListener('click', () => {
+        if (card) {
+          card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+        togglePlay();
+      });
+    }
+
+    if (miniInfo) {
+      miniInfo.addEventListener('click', () => {
+        if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      });
+    }
+
+    if (miniCloseBtn) {
+      miniCloseBtn.addEventListener('click', () => {
+        miniBarDismissed = true;
+        if (miniBar) miniBar.classList.remove('is-visible');
+      });
+    }
+
+    // Skip controls (-10s / +10s)
+    if (rewindBtn) {
+      rewindBtn.addEventListener('click', () => {
+        audio.currentTime = Math.max(0, audio.currentTime - 10);
+        updateProgressUI();
+      });
+    }
+    if (forwardBtn) {
+      forwardBtn.addEventListener('click', () => {
+        audio.currentTime = Math.min(audio.duration || Infinity, audio.currentTime + 10);
+        updateProgressUI();
+      });
+    }
+
+    // Speed toggle
+    if (speedBtn) {
+      speedBtn.addEventListener('click', () => {
+        currentSpeedIdx = (currentSpeedIdx + 1) % speeds.length;
+        const spd = speeds[currentSpeedIdx];
+        audio.playbackRate = spd;
+        speedBtn.textContent = `${spd.toFixed(1)}x`;
+      });
+    }
+
+    // Volume & Mute
+    function updateMuteUI() {
+      const volIcon = muteBtn ? muteBtn.querySelector('.audio-icon-volume') : null;
+      const mutedIcon = muteBtn ? muteBtn.querySelector('.audio-icon-muted') : null;
+      const isMuted = audio.muted || audio.volume === 0;
+      if (volIcon && mutedIcon) {
+        volIcon.style.display = isMuted ? 'none' : 'block';
+        mutedIcon.style.display = isMuted ? 'block' : 'none';
+      }
+    }
+
+    if (volumeSlider) {
+      volumeSlider.addEventListener('input', (e) => {
+        const val = parseFloat(e.target.value);
+        audio.volume = val;
+        audio.muted = (val === 0);
+        updateMuteUI();
+      });
+    }
+
+    if (muteBtn) {
+      muteBtn.addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        updateMuteUI();
+      });
+    }
+
+    // Seek scrubber
+    if (progressContainer) {
+      const handleSeek = (e) => {
+        const rect = progressContainer.getBoundingClientRect();
+        const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+        const pct = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+        if (audio.duration) {
+          audio.currentTime = pct * audio.duration;
+          updateProgressUI();
+        }
+      };
+
+      progressContainer.addEventListener('mousedown', (e) => {
+        isSeeking = true;
+        handleSeek(e);
+        const onMouseMove = (moveEvt) => handleSeek(moveEvt);
+        const onMouseUp = () => {
+          isSeeking = false;
+          window.removeEventListener('mousemove', onMouseMove);
+          window.removeEventListener('mouseup', onMouseUp);
+        };
+        window.addEventListener('mousemove', onMouseMove);
+        window.addEventListener('mouseup', onMouseUp);
+      });
+
+      progressContainer.addEventListener('touchstart', (e) => {
+        isSeeking = true;
+        handleSeek(e);
+        const onTouchMove = (moveEvt) => handleSeek(moveEvt);
+        const onTouchEnd = () => {
+          isSeeking = false;
+          window.removeEventListener('touchmove', onTouchMove);
+          window.removeEventListener('touchend', onTouchEnd);
+        };
+        window.addEventListener('touchmove', onTouchMove);
+        window.addEventListener('touchend', onTouchEnd);
+      }, { passive: true });
+    }
+
+    // Scroll listener for Mini Bar
+    window.addEventListener('scroll', checkMiniBarVisibility, { passive: true });
+
+    // Spacebar shortcut
+    const onKeyDown = (e) => {
+      if (e.code === 'Space' && !['INPUT', 'TEXTAREA', 'BUTTON'].includes(document.activeElement.tagName)) {
+        e.preventDefault();
+        togglePlay();
+      }
+    };
+    window.addEventListener('keydown', onKeyDown);
+
+    // Auto-pause when navigating away
+    const onHashChange = () => {
+      if (audio && !audio.paused) {
+        try { audio.pause(); } catch (e) {}
+      }
+      window.removeEventListener('scroll', checkMiniBarVisibility);
+      window.removeEventListener('keydown', onKeyDown);
+      window.removeEventListener('hashchange', onHashChange);
+    };
+    window.addEventListener('hashchange', onHashChange, { once: true });
+
+    // Auto-play if ?playAudio=1
+    const params = new URLSearchParams(window.location.hash.split('?')[1] || '');
+    if (params.get('playAudio') === '1') {
+      setTimeout(() => togglePlay(), 350);
+    }
   }
 
   function toggleTocPart(groupId) {

@@ -652,7 +652,8 @@
         "id": "chuong-6",
         "title": "Chương 1",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-6.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-6.md",
+        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter1.mp3"
       },
       {
         "id": "chuong-7",
@@ -1057,7 +1058,8 @@
       "pdf": "",
       "bilingual": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub",
       "bilingualEpub": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub"
-    }
+    },
+    "hasAudio": true
   },
   {
     "id": "toi-nguoi-chua-tung-biet-toi-dan-ong",
