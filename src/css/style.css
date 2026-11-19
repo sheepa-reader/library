@@ -6316,65 +6316,139 @@ body.modal-open {
 
 @media (max-width: 768px) {
   .header-container {
-    padding: 0.55rem 0.85rem;
-    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    gap: 0.35rem;
     flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: visible;
   }
   .header-left {
-    gap: 0.5rem;
-    overflow-x: auto;
-    scrollbar-width: none;
-    -webkit-overflow-scrolling: touch;
-  }
-  .header-left::-webkit-scrollbar {
-    display: none;
-  }
-  .header-nav-left {
+    display: flex;
+    align-items: center;
     gap: 0.35rem;
+    flex-shrink: 0;
+    overflow: visible;
   }
   .brand-text {
-    display: none;
+    display: none !important;
   }
-  .header-right {
+  .brand-logo {
+    width: 28px;
+    height: 28px;
+  }
+  .header-nav-left {
+    display: flex;
+    align-items: center;
     gap: 0.35rem;
+    flex-shrink: 0;
   }
+
+  /* Hide text labels on mobile: display ONLY icons! */
+  .header-filter-label,
+  .header-filter-arrow,
+  .header-action-pill-label {
+    display: none !important;
+  }
+
   .header-action-pill-btn {
-    height: 34px;
-    padding: 0 0.55rem 0 0.45rem;
-    gap: 0.35rem;
+    width: 36px;
+    height: 36px;
+    padding: 0 !important;
+    justify-content: center;
+    border-radius: 8px;
+    flex-shrink: 0;
+    position: relative;
   }
   .header-action-pill-icon {
-    width: 19px;
-    height: 19px;
+    width: 20px;
+    height: 20px;
   }
-  .header-action-pill-label {
-    font-size: 0.75rem;
-  }
+
   .header-filter-wrapper {
-    height: 34px;
-    padding: 0 0.5rem 0 0.4rem;
-    gap: 0.35rem;
-  }
-  .header-filter-label {
-    max-width: 75px;
-    font-size: 0.75rem;
+    width: 36px;
+    height: 36px;
+    padding: 0 !important;
+    justify-content: center;
+    border-radius: 8px;
+    flex-shrink: 0;
   }
   .header-filter-icon {
-    width: 19px;
-    height: 19px;
+    width: 20px;
+    height: 20px;
   }
+
+  .header-changelog-btn {
+    position: relative;
+  }
+  .header-changelog-badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    min-width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 9px;
+    padding: 0 3px;
+    border-radius: 10px;
+  }
+
+  /* Right Header on Mobile */
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+
   .header-icon-btn, .theme-toggle-btn {
-    width: 34px;
-    height: 34px;
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
   }
   .header-btn-icon {
-    width: 21px;
-    height: 21px;
+    width: 20px;
+    height: 20px;
   }
   .theme-toggle-btn svg {
     width: 18px;
     height: 18px;
   }
+
+  /* Google auth on mobile: hide text, show icon only */
+  .header-auth-container {
+    flex-shrink: 0;
+  }
+  .header-google-slot {
+    min-width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .header-user-name,
+  .header-vip-tag,
+  .header-pending-tag {
+    display: none !important;
+  }
+  .header-user-profile {
+    padding: 2px !important;
+    gap: 3px !important;
+    background: transparent !important;
+    border: none !important;
+  }
+  .header-user-avatar {
+    width: 28px !important;
+    height: 28px !important;
+  }
+  .header-logout-btn {
+    width: 24px !important;
+    height: 24px !important;
+  }
+
   .header-search-box {
     position: fixed;
     top: 54px;
@@ -6384,20 +6458,29 @@ body.modal-open {
   }
 }
 
-@media (max-width: 540px) {
-  .header-action-pill-label {
-    display: none;
+@media (max-width: 380px) {
+  .header-container {
+    padding: 0.45rem 0.5rem;
+    gap: 0.25rem;
   }
-  .header-action-pill-btn {
-    padding: 0;
-    width: 34px;
-    justify-content: center;
+  .header-left, .header-nav-left, .header-right {
+    gap: 0.25rem;
   }
-  .header-filter-label {
-    display: none;
+  .header-action-pill-btn,
+  .header-filter-wrapper,
+  .header-icon-btn,
+  .theme-toggle-btn {
+    width: 32px;
+    height: 32px;
   }
-  .header-filter-wrapper {
-    padding: 0 0.4rem;
+  .header-action-pill-icon,
+  .header-filter-icon {
+    width: 18px;
+    height: 18px;
+  }
+  .brand-logo {
+    width: 24px;
+    height: 24px;
   }
 }
 
@@ -7153,4 +7236,70 @@ body.modal-open {
   color: var(--text-secondary) !important;
   transform: none !important;
   border-color: var(--border-color) !important;
+}
+
+
+/* --- FLOATING SCROLL TO TOP BUTTON (Góc trái cân đối với đếm ngược góc phải) --- */
+.sheepa-scroll-top-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 998;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease, background var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), visibility 0.25s;
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  visibility: visible;
+}
+
+[data-theme="dark"] .sheepa-scroll-top-btn {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4), 0 1px 6px rgba(0, 0, 0, 0.25);
+  border-color: rgba(255, 255, 255, 0.12);
+  color: var(--text-main);
+}
+
+.sheepa-scroll-top-btn:hover {
+  background: var(--bg-hover);
+  color: #d97706;
+  border-color: rgba(245, 158, 11, 0.4);
+  transform: translateY(-2px) scale(1.06);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="dark"] .sheepa-scroll-top-btn:hover {
+  color: #fbbf24;
+  border-color: rgba(251, 191, 36, 0.4);
+}
+
+.sheepa-scroll-top-btn.is-hidden {
+  opacity: 0;
+  transform: translateY(12px) scale(0.9);
+  pointer-events: none;
+  visibility: hidden;
+}
+
+@media (max-width: 640px) {
+  .sheepa-scroll-top-btn {
+    bottom: 14px;
+    left: 14px;
+    width: 36px;
+    height: 36px;
+  }
+  .sheepa-scroll-top-btn svg {
+    width: 16px;
+    height: 16px;
+  }
 }

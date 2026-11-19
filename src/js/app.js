@@ -3764,15 +3764,16 @@
   function renderGoogleAuthButtons() {
     if (typeof google === 'undefined' || !google.accounts || !google.accounts.id) return;
 
-    // 1. Render nút trên Header nếu chưa đăng nhập
+    // 1. Render nút trên Header nếu chưa đăng nhập (Mobile: Icon circle, Desktop: Standard pill)
     const headerBtnSlot = document.getElementById('header-google-btn-slot');
     if (headerBtnSlot && !currentUser) {
       headerBtnSlot.innerHTML = '';
+      const isMobile = window.innerWidth <= 768;
       google.accounts.id.renderButton(headerBtnSlot, {
         theme: 'outline',
         size: 'medium',
-        type: 'standard',
-        shape: 'pill',
+        type: isMobile ? 'icon' : 'standard',
+        shape: isMobile ? 'circle' : 'pill',
         text: 'signin',
         locale: 'vi'
       });
@@ -5955,6 +5956,51 @@
     setInterval(updateCountdownTimer, 1000);
   }
 
+  /* ==========================================================================
+     FLOATING SCROLL TO TOP BUTTON (Cân đối góc trái)
+     ========================================================================== */
+  function initScrollTopBtn() {
+    const btn = document.getElementById('sheepa-scroll-top-btn');
+    if (!btn) return;
+
+    let ticking = false;
+    function updateScrollVisibility() {
+      const scrollY = window.scrollY || document.documentElement.scrollTop || 0;
+      if (scrollY > 280) {
+        btn.classList.remove('is-hidden');
+      } else {
+        btn.classList.add('is-hidden');
+      }
+      ticking = false;
+    }
+
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateScrollVisibility);
+        ticking = true;
+      }
+    }, { passive: true });
+
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+
+    updateScrollVisibility();
+  }
+
+  // Auto re-render Google button on screen resize between mobile and desktop
+  let googleResizeTimer = null;
+  window.addEventListener('resize', () => {
+    clearTimeout(googleResizeTimer);
+    googleResizeTimer = setTimeout(() => {
+      renderGoogleAuthButtons();
+    }, 250);
+  });
+
   async function init() {
     initTheme();
     initHeaderControls();
@@ -5962,6 +6008,7 @@
     initFooterStats();
     initTopAnnouncementBar();
     initFloatingCountdown();
+    initScrollTopBtn();
     initAntiCopyProtection();
     await Promise.all([loadBooks(), loadAuthors(), loadQuotes(), loadLibrarySettings(), loadChangelogData(), loadProgressProjects(), loadWhitelist()]);
     initGoogleAuth();
