@@ -2232,25 +2232,39 @@
         ${chapter.audio ? `
           <!-- Floating Mini Audio Bar (Sticky at bottom when scrolled down) -->
           <div class="reader-audio-mini-bar" id="reader-audio-mini-bar" role="complementary" aria-label="Bộ điều khiển mini sách nói">
-            <div class="mini-audio-pulse-icon">
+            <div class="mini-audio-pulse-icon" id="mini-audio-btn-pulse" title="Bấm để cuộn đến đoạn đang đọc">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/>
               </svg>
             </div>
-            <div class="mini-audio-info" id="mini-audio-info-click" title="Bấm để cuộn về bộ phát audio đầy đủ">
+            <div class="mini-audio-info" id="mini-audio-info-click" title="Bấm để cuộn đến đoạn đang đọc">
               <span class="mini-audio-title">${escapeHtml(chapter.title)}</span>
               <span class="mini-audio-time" id="mini-audio-time">00:00 / --:--</span>
             </div>
-            <button class="mini-audio-play-btn" id="mini-audio-btn-play" title="Phát / Dừng">
-              <svg class="mini-icon-play" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                <polygon points="6 3 20 12 6 21 6 3"></polygon>
-              </svg>
-              <svg class="mini-icon-pause" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display: none;">
-                <rect x="6" y="4" width="4" height="16"></rect>
-                <rect x="14" y="4" width="4" height="16"></rect>
-              </svg>
-            </button>
-            <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Ẩn thanh điều khiển mini">✕</button>
+            <div class="mini-audio-controls-group">
+              <button class="mini-audio-ctrl-btn" id="mini-audio-btn-rewind" title="Lùi lại 10 giây (-10s)">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M11 17l-5-5 5-5M18 17l-5-5 5-5"/>
+                </svg>
+                <span class="mini-skip-text">-10s</span>
+              </button>
+              <button class="mini-audio-play-btn" id="mini-audio-btn-play" title="Phát / Dừng">
+                <svg class="mini-icon-play" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="6 3 20 12 6 21 6 3"></polygon>
+                </svg>
+                <svg class="mini-icon-pause" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="display: none;">
+                  <rect x="6" y="4" width="4" height="16"></rect>
+                  <rect x="14" y="4" width="4" height="16"></rect>
+                </svg>
+              </button>
+              <button class="mini-audio-ctrl-btn" id="mini-audio-btn-forward" title="Tua tới 10 giây (+10s)">
+                <span class="mini-skip-text">+10s</span>
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M13 17l5-5-5-5M6 17l5-5-5-5"/>
+                </svg>
+              </button>
+            </div>
+            <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Ẩn thanh điều khiển (sẽ hiện lại khi phát audio)">✕</button>
           </div>
         ` : ''}
 
@@ -2820,7 +2834,10 @@
     const miniPlayBtn = document.getElementById('mini-audio-btn-play');
     const miniCloseBtn = document.getElementById('mini-audio-btn-close');
     const miniInfo = document.getElementById('mini-audio-info-click');
+    const miniPulseBtn = document.getElementById('mini-audio-btn-pulse');
     const miniTime = document.getElementById('mini-audio-time');
+    const miniRewindBtn = document.getElementById('mini-audio-btn-rewind');
+    const miniForwardBtn = document.getElementById('mini-audio-btn-forward');
     const progressContainer = document.getElementById('audio-progress-container');
     const progressFill = document.getElementById('audio-progress-fill');
     const progressBuffer = document.getElementById('audio-progress-buffer');
@@ -2833,6 +2850,7 @@
     const muteBtn = document.getElementById('audio-btn-mute');
     const volumeSlider = document.getElementById('audio-volume-slider');
     const headerAudioBtn = document.getElementById('reader-audio-toggle-btn');
+    const readerBody = document.getElementById('reader-body');
 
     if (!audio) return;
 
@@ -2851,6 +2869,10 @@
     const speeds = [1.0, 1.25, 1.5, 0.8];
     let currentSpeedIdx = 0;
 
+    let segments = [];
+    let activeSegment = null;
+    let activePillEl = null;
+
     function formatTime(sec) {
       if (isNaN(sec) || sec < 0) return '00:00';
       const m = Math.floor(sec / 60);
@@ -2861,6 +2883,185 @@
         return `${h}:${String(remM).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
       }
       return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+
+    // Helper: Split sentences safely while protecting abbreviations (Dr., Mr., etc.)
+    function splitSentencesSafe(text) {
+      const placeholder = '___DOT___';
+      const t = text.replace(/\b(Dr|Mr|Mrs|Ms|Prof|GS|TS|ThS|BS)\./gi, '$1' + placeholder)
+                    .replace(/\b(v\.v)\./gi, '$1' + placeholder);
+      const re = /([^.!?…]+(?:[.!?…]+["”']?\s*|$))/g;
+      const list = [];
+      let m;
+      while ((m = re.exec(t)) !== null) {
+        const raw = m[1].trim();
+        if (raw) {
+          const restored = raw.replace(new RegExp(placeholder, 'g'), '.');
+          list.push(restored);
+        }
+      }
+      return list;
+    }
+
+    // Setup Text-to-Audio Synchronized Segments across Reader Content
+    function setupTextSync(duration) {
+      if (!readerBody || !duration || duration <= 0) return;
+      if (segments.length > 0) return; // already set up
+
+      const paragraphs = Array.from(readerBody.querySelectorAll('p:not(.scene-break):not(.chapter-title-img):not(.chapter-part-eyebrow):not(.chapter-subtitle)'));
+      if (paragraphs.length === 0) return;
+
+      let totalWeight = 0;
+      const pData = paragraphs.map((p, idx) => {
+        const text = p.textContent.trim();
+        const weight = Math.max(10, text.length) + 18;
+        totalWeight += weight;
+        return { p, text, weight, idx };
+      });
+
+      let curTime = 0;
+      segments = [];
+
+      pData.forEach(({ p, text, weight }, idx) => {
+        const pDur = (weight / totalWeight) * duration;
+        const pStart = curTime;
+        const pEnd = (idx === pData.length - 1) ? duration : (pStart + pDur);
+        curTime = pEnd;
+
+        p.dataset.audioStart = pStart.toFixed(2);
+        p.dataset.audioEnd = pEnd.toFixed(2);
+        p.classList.add('audio-sync-paragraph');
+
+        const sents = splitSentencesSafe(text);
+        const containsComplexHTML = p.children.length > 0;
+
+        if (sents.length > 1 && !containsComplexHTML) {
+          const sentTotalLen = sents.reduce((sum, s) => sum + s.length, 0);
+          p.innerHTML = sents.map((s, sIdx) => {
+            return `<span class="audio-sentence" data-sent-idx="${sIdx}">${escapeHtml(s)} </span>`;
+          }).join('');
+
+          const spanEls = p.querySelectorAll('.audio-sentence');
+          let curSentTime = pStart;
+
+          sents.forEach((s, sIdx) => {
+            const sDur = (s.length / sentTotalLen) * (pEnd - pStart);
+            const sStart = curSentTime;
+            const sEnd = (sIdx === sents.length - 1) ? pEnd : (sStart + sDur);
+            curSentTime = sEnd;
+
+            const spanEl = spanEls[sIdx] || p;
+            spanEl.dataset.audioStart = sStart.toFixed(2);
+            spanEl.dataset.audioEnd = sEnd.toFixed(2);
+
+            segments.push({
+              el: spanEl,
+              parentP: p,
+              start: sStart,
+              end: sEnd,
+              text: s
+            });
+          });
+        } else {
+          segments.push({
+            el: p,
+            parentP: p,
+            start: pStart,
+            end: pEnd,
+            text: text
+          });
+        }
+      });
+    }
+
+    // Highlight sentence and paragraph currently being read
+    function updateActiveHighlight(curTime) {
+      if (!segments || segments.length === 0) return;
+      const cur = curTime || audio.currentTime;
+      const matched = segments.find(seg => cur >= seg.start && cur < seg.end);
+
+      if (matched !== activeSegment) {
+        if (activeSegment) {
+          if (activeSegment.el) {
+            activeSegment.el.classList.remove('audio-active-sentence', 'audio-active-segment');
+          }
+          if (activeSegment.parentP) {
+            activeSegment.parentP.classList.remove('audio-active-paragraph');
+          }
+        }
+        activeSegment = matched || null;
+        if (activeSegment) {
+          if (activeSegment.el) {
+            activeSegment.el.classList.add('audio-active-sentence', 'audio-active-segment');
+          }
+          if (activeSegment.parentP) {
+            activeSegment.parentP.classList.add('audio-active-paragraph');
+          }
+        }
+      }
+    }
+
+    // Jump to the sentence/paragraph currently being read and pulse highlight
+    function scrollToActiveReading(e) {
+      if (e) e.stopPropagation();
+      if (activeSegment && activeSegment.el) {
+        activeSegment.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        activeSegment.el.classList.add('audio-pulse-focus');
+        setTimeout(() => {
+          if (activeSegment && activeSegment.el) {
+            activeSegment.el.classList.remove('audio-pulse-focus');
+          }
+        }, 1600);
+      } else if (card) {
+        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+
+    // Floating Seek Prompt ("🎧 Nghe từ đoạn này ▶")
+    function hideSeekPrompt() {
+      if (activePillEl) {
+        activePillEl.remove();
+        activePillEl = null;
+      }
+    }
+
+    function showSeekPrompt(targetEl, startTime) {
+      hideSeekPrompt();
+      const pill = document.createElement('div');
+      pill.className = 'audio-seek-prompt-pill';
+      pill.innerHTML = `
+        <span class="seek-prompt-icon">🎧</span>
+        <span class="seek-prompt-text">Nghe từ đoạn này</span>
+        <svg class="seek-prompt-arrow" width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+          <polygon points="5 3 19 12 5 21 5 3"></polygon>
+        </svg>
+      `;
+
+      // Position above target element
+      const rect = targetEl.getBoundingClientRect();
+      const scrollX = window.pageXOffset || document.documentElement.scrollLeft;
+      const scrollY = window.pageYOffset || document.documentElement.scrollTop;
+
+      pill.style.left = `${rect.left + scrollX + rect.width / 2}px`;
+      pill.style.top = `${rect.top + scrollY - 6}px`;
+
+      pill.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        hideSeekPrompt();
+        audio.currentTime = startTime;
+        updateProgressUI();
+        updateActiveHighlight(startTime);
+        try {
+          await audio.play();
+          miniBarDismissed = false;
+          setPlayingUI(true);
+        } catch (err) {
+          console.warn('Playback error:', err);
+        }
+      });
+
+      document.body.appendChild(pill);
+      activePillEl = pill;
     }
 
     function setPlayingUI(isPlaying) {
@@ -2904,8 +3105,14 @@
     }
 
     function checkMiniBarVisibility() {
-      if (!miniBar || miniBarDismissed) return;
+      if (!miniBar) return;
       if (!card) return;
+
+      // If user closed with X and audio is paused, stay hidden
+      if (miniBarDismissed && audio.paused) {
+        miniBar.classList.remove('is-visible');
+        return;
+      }
 
       const rect = card.getBoundingClientRect();
       const isCardOutOfView = rect.bottom < 50;
@@ -2921,6 +3128,7 @@
       if (audio.paused) {
         try {
           await audio.play();
+          miniBarDismissed = false; // Reset close state on play
           setPlayingUI(true);
         } catch (e) {
           console.warn('Playback error:', e);
@@ -2931,9 +3139,10 @@
       }
     }
 
-    // Restore saved position
+    // Restore saved position & setup segments
     audio.addEventListener('loadedmetadata', () => {
       if (timeDuration) timeDuration.textContent = formatTime(audio.duration);
+      setupTextSync(audio.duration);
       try {
         const saved = localStorage.getItem(storageKey);
         if (saved) {
@@ -2941,13 +3150,17 @@
           if (!isNaN(pos) && pos > 2 && pos < audio.duration - 5) {
             audio.currentTime = pos;
             updateProgressUI();
+            updateActiveHighlight(pos);
           }
         }
       } catch (e) {}
     });
 
     audio.addEventListener('timeupdate', () => {
-      if (!isSeeking) updateProgressUI();
+      if (!isSeeking) {
+        updateProgressUI();
+        updateActiveHighlight(audio.currentTime);
+      }
       if (Math.floor(audio.currentTime) % 3 === 0) {
         try {
           localStorage.setItem(storageKey, audio.currentTime.toString());
@@ -2955,7 +3168,14 @@
       }
     });
 
-    audio.addEventListener('play', () => setPlayingUI(true));
+    audio.addEventListener('play', () => {
+      miniBarDismissed = false; // When playing, restore visibility capability
+      if (audio.duration && segments.length === 0) {
+        setupTextSync(audio.duration);
+      }
+      setPlayingUI(true);
+    });
+
     audio.addEventListener('pause', () => setPlayingUI(false));
     audio.addEventListener('ended', () => {
       setPlayingUI(false);
@@ -2974,32 +3194,75 @@
       });
     }
 
-    if (miniInfo) {
-      miniInfo.addEventListener('click', () => {
-        if (card) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      });
-    }
+    // Clicking mini player info or pulse icon jumps directly to active reading sentence/paragraph!
+    if (miniInfo) miniInfo.addEventListener('click', scrollToActiveReading);
+    if (miniPulseBtn) miniPulseBtn.addEventListener('click', scrollToActiveReading);
 
     if (miniCloseBtn) {
-      miniCloseBtn.addEventListener('click', () => {
+      miniCloseBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
         miniBarDismissed = true;
         if (miniBar) miniBar.classList.remove('is-visible');
       });
     }
 
-    // Skip controls (-10s / +10s)
+    // Skip controls (-10s / +10s) on both main card and mini player
     if (rewindBtn) {
       rewindBtn.addEventListener('click', () => {
         audio.currentTime = Math.max(0, audio.currentTime - 10);
         updateProgressUI();
+        updateActiveHighlight(audio.currentTime);
       });
     }
     if (forwardBtn) {
       forwardBtn.addEventListener('click', () => {
         audio.currentTime = Math.min(audio.duration || Infinity, audio.currentTime + 10);
         updateProgressUI();
+        updateActiveHighlight(audio.currentTime);
       });
     }
+
+    if (miniRewindBtn) {
+      miniRewindBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        audio.currentTime = Math.max(0, audio.currentTime - 10);
+        updateProgressUI();
+        updateActiveHighlight(audio.currentTime);
+      });
+    }
+    if (miniForwardBtn) {
+      miniForwardBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        audio.currentTime = Math.min(audio.duration || Infinity, audio.currentTime + 10);
+        updateProgressUI();
+        updateActiveHighlight(audio.currentTime);
+      });
+    }
+
+    // Click on text paragraph / sentence -> Show "🎧 Nghe từ đoạn này" prompt
+    if (readerBody) {
+      readerBody.addEventListener('click', (e) => {
+        // If clicking on links, notes, or controls, ignore
+        if (e.target.closest('a, button, input, .audio-seek-prompt-pill')) return;
+
+        const targetEl = e.target.closest('.audio-sentence') || e.target.closest('.audio-sync-paragraph');
+        if (targetEl && targetEl.dataset.audioStart) {
+          const startTime = parseFloat(targetEl.dataset.audioStart);
+          if (!isNaN(startTime)) {
+            showSeekPrompt(targetEl, startTime);
+          }
+        } else {
+          hideSeekPrompt();
+        }
+      });
+    }
+
+    // Dismiss prompt when clicking elsewhere
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('#reader-body') && !e.target.closest('.audio-seek-prompt-pill')) {
+        hideSeekPrompt();
+      }
+    });
 
     // Speed toggle
     if (speedBtn) {
@@ -3047,6 +3310,7 @@
         if (audio.duration) {
           audio.currentTime = pct * audio.duration;
           updateProgressUI();
+          updateActiveHighlight(audio.currentTime);
         }
       };
 
@@ -3091,6 +3355,7 @@
 
     // Auto-pause when navigating away
     const onHashChange = () => {
+      hideSeekPrompt();
       if (audio && !audio.paused) {
         try { audio.pause(); } catch (e) {}
       }
@@ -3103,7 +3368,9 @@
     // Auto-play if ?playAudio=1
     const params = new URLSearchParams(window.location.hash.split('?')[1] || '');
     if (params.get('playAudio') === '1') {
-      setTimeout(() => togglePlay(), 350);
+      setTimeout(() => {
+        togglePlay();
+      }, 500);
     }
   }
 

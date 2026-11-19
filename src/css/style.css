@@ -6893,3 +6893,182 @@ body.modal-open {
     max-width: 140px;
   }
 }
+
+
+/* --- Audiobook Enhancements (Mini Controls, Sentence Highlight, Seek Prompt) --- */
+.mini-audio-controls-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.mini-audio-ctrl-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  height: 28px;
+  padding: 0 7px;
+  border-radius: 14px;
+  border: 1px solid var(--border-color);
+  background: var(--bg-hover, rgba(0, 0, 0, 0.04));
+  color: var(--text-main);
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.mini-audio-ctrl-btn:hover {
+  background: rgba(245, 158, 11, 0.12);
+  border-color: rgba(245, 158, 11, 0.4);
+  color: #d97706;
+  transform: scale(1.05);
+}
+
+.mini-skip-text {
+  font-size: 10px;
+  font-family: inherit;
+  letter-spacing: -0.2px;
+}
+
+/* Sentence & Paragraph Highlighting */
+.audio-sentence {
+  transition: background-color 0.25s ease, box-shadow 0.25s ease;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.audio-sentence:hover {
+  background-color: rgba(245, 158, 11, 0.08);
+}
+
+.audio-sentence.audio-active-sentence {
+  background: rgba(245, 158, 11, 0.22) !important;
+  box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.28) !important;
+  border-radius: 4px;
+  color: inherit;
+}
+
+[data-theme="sepia"] .audio-sentence.audio-active-sentence {
+  background: rgba(180, 83, 9, 0.22) !important;
+  box-shadow: 0 0 0 2px rgba(180, 83, 9, 0.28) !important;
+}
+
+[data-theme="dark"] .audio-sentence.audio-active-sentence {
+  background: rgba(251, 191, 36, 0.25) !important;
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.35) !important;
+}
+
+.audio-sync-paragraph {
+  transition: border-color 0.3s ease, padding 0.3s ease;
+}
+
+.audio-sync-paragraph.audio-active-paragraph {
+  border-left: 3px solid #d97706;
+  padding-left: 10px;
+  margin-left: -13px;
+}
+
+[data-theme="dark"] .audio-sync-paragraph.audio-active-paragraph {
+  border-left-color: #fbbf24;
+}
+
+@keyframes audioPulseFocus {
+  0% {
+    background-color: rgba(245, 158, 11, 0.45);
+    box-shadow: 0 0 0 4px rgba(245, 158, 11, 0.4);
+    transform: scale(1.01);
+  }
+  50% {
+    background-color: rgba(245, 158, 11, 0.3);
+    box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.3);
+  }
+  100% {
+    background-color: rgba(245, 158, 11, 0.22);
+    box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.28);
+    transform: scale(1);
+  }
+}
+
+.audio-pulse-focus {
+  animation: audioPulseFocus 1.2s ease-out forwards;
+}
+
+/* Floating Seek Prompt Pill (Click paragraph -> Listen from here) */
+.audio-seek-prompt-pill {
+  position: absolute;
+  z-index: 1050;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  background: #111827;
+  color: #ffffff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.15);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  pointer-events: auto;
+  user-select: none;
+  animation: audioPillPop 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  transition: transform 0.15s ease, background 0.15s ease;
+  transform: translate(-50%, -100%);
+  margin-top: -8px;
+}
+
+.audio-seek-prompt-pill::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #111827;
+}
+
+[data-theme="dark"] .audio-seek-prompt-pill {
+  background: #1f2937;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+[data-theme="dark"] .audio-seek-prompt-pill::after {
+  border-top-color: #1f2937;
+}
+
+.audio-seek-prompt-pill:hover {
+  background: #d97706;
+  color: #ffffff;
+  transform: translate(-50%, -100%) scale(1.05);
+}
+.audio-seek-prompt-pill:hover::after {
+  border-top-color: #d97706;
+}
+
+.seek-prompt-icon {
+  font-size: 13px;
+}
+
+.seek-prompt-text {
+  white-space: nowrap;
+}
+
+.seek-prompt-arrow {
+  margin-left: 2px;
+}
+
+@keyframes audioPillPop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -85%) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -100%) scale(1);
+  }
+}
