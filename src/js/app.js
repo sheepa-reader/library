@@ -1596,11 +1596,7 @@
                       <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink: 0;"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>Audio
                     </span>
                   ` : ''}
-                      ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
-                        <span class="badge-tag badge-audio" title="Tác phẩm có bản đọc Sách nói (Audiobook)">
-                          <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink: 0;"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>Audio
-                        </span>
-                      ` : ''}
+
                       ${hasBilingual ? `
                         <span class="badge-tag badge-bilingual" onclick="event.stopPropagation(); setTagFilter('Song Ngữ');" title="Sách có bản đọc Song Ngữ Anh - Việt (Bấm để lọc)">
                           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>Song Ngữ
@@ -1868,9 +1864,13 @@
                 <strong>Tác giả</strong>
                 <span class="author-interactive">${escapeHtml(book.author)} <svg class="inline-author-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg></span>
               </div>
-              <div class="spec-item">
-                <strong>Người dịch</strong>
-                <span>${escapeHtml(book.translator || 'Sheepa')}</span>
+              <div class="spec-item spec-item-audio">
+                <strong>Sách nói</strong>
+                ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
+                  <span class="spec-audio-value"><span class="spec-audio-check">✔️</span> Audio</span>
+                ` : `
+                  <span class="spec-audio-updating">Đang cập nhật</span>
+                `}
               </div>
               <div class="spec-item">
                 <strong>Quy mô</strong>
@@ -1880,15 +1880,6 @@
                 <strong>Ngày đăng tải</strong>
                 <span>${formatDisplayDate(book.publishedAt || book.createdAt)}</span>
               </div>
-              ${(book.hasAudio || (Array.isArray(book.chapters) && book.chapters.some(c => c.audio))) ? `
-                <div class="spec-item spec-item-audio">
-                  <strong>Sách nói</strong>
-                  <span class="spec-audio-value">
-                    <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12v6c0 1.66 1.34 3 3 3h1c.55 0 1-.45 1-1v-6c0-.55-.45-1-1-1H4v-1c0-4.41 3.59-8 8-8s8 3.59 8 8v1h-2c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1c1.66 0 3-1.34 3-3v-6c0-5.52-4.48-10-10-10z"/></svg>
-                    Có Audio
-                  </span>
-                </div>
-              ` : ''}
             </div>
 
             <div class="detail-actions">

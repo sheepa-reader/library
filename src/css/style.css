@@ -6468,14 +6468,25 @@ body.modal-open {
 
 /* 2. Specs Grid Audio Item */
 .spec-audio-value {
-  color: #d97706;
+  color: #059669;
   font-weight: 600;
   display: inline-flex;
   align-items: center;
   gap: 4px;
 }
 [data-theme="dark"] .spec-audio-value {
-  color: #fbbf24;
+  color: #34d399;
+}
+[data-theme="sepia"] .spec-audio-value {
+  color: #15803d;
+}
+.spec-audio-check {
+  font-size: 0.9em;
+  line-height: 1;
+}
+.spec-audio-updating {
+  color: var(--text-tertiary);
+  font-weight: 500;
 }
 
 /* 3. Card Audio Badge */
