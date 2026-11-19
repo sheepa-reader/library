@@ -673,13 +673,15 @@
         "id": "chuong-9",
         "title": "Chương 4",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-9.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-9.md",
+        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter4.mp3"
       },
       {
         "id": "chuong-10",
         "title": "Chương 5",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-10.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-10.md",
+        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter5.mp3"
       },
       {
         "id": "chuong-11",
