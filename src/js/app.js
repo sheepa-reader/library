@@ -2904,74 +2904,155 @@
     }
 
     // Setup Text-to-Audio Synchronized Segments across Reader Content
-    function setupTextSync(duration) {
+    async function setupTextSync(duration) {
       if (!readerBody || !duration || duration <= 0) return;
       if (segments.length > 0) return; // already set up
 
       const paragraphs = Array.from(readerBody.querySelectorAll('p:not(.scene-break):not(.chapter-title-img):not(.chapter-part-eyebrow):not(.chapter-subtitle)'));
       if (paragraphs.length === 0) return;
 
-      let totalWeight = 0;
-      const pData = paragraphs.map((p, idx) => {
-        const text = p.textContent.trim();
-        const weight = Math.max(10, text.length) + 18;
-        totalWeight += weight;
-        return { p, text, weight, idx };
-      });
+      // Try fetching pre-computed ground-truth sync JSON
+      let syncMap = null;
+      try {
+        const syncUrl = `content/books/${book.id}/audio/sync_${chapter.id}.json?v=` + Date.now();
+        const resp = await fetch(syncUrl);
+        if (resp.ok) {
+          syncMap = await resp.json();
+          console.log(`Loaded exact audio sync data for ${chapter.id} (${syncMap.length} sentences)`);
+        }
+      } catch (err) {
+        syncMap = null;
+      }
 
-      let curTime = 0;
       segments = [];
 
-      pData.forEach(({ p, text, weight }, idx) => {
-        const pDur = (weight / totalWeight) * duration;
-        const pStart = curTime;
-        const pEnd = (idx === pData.length - 1) ? duration : (pStart + pDur);
-        curTime = pEnd;
+      if (syncMap && Array.isArray(syncMap) && syncMap.length > 0) {
+        // USE EXACT GROUND-TRUTH SYNCHRONIZATION
+        paragraphs.forEach((p, pIdx) => {
+          const text = p.textContent.trim();
+          p.classList.add('audio-sync-paragraph');
 
-        p.dataset.audioStart = pStart.toFixed(2);
-        p.dataset.audioEnd = pEnd.toFixed(2);
-        p.classList.add('audio-sync-paragraph');
+          const sents = splitSentencesSafe(text);
+          const containsComplexHTML = p.children.length > 0;
 
-        const sents = splitSentencesSafe(text);
-        const containsComplexHTML = p.children.length > 0;
+          if (sents.length > 1 && !containsComplexHTML) {
+            p.innerHTML = sents.map((s, sIdx) => {
+              return `<span class="audio-sentence" data-p-idx="${pIdx}" data-sent-idx="${sIdx}">${escapeHtml(s)} </span>`;
+            }).join('');
 
-        if (sents.length > 1 && !containsComplexHTML) {
-          const sentTotalLen = sents.reduce((sum, s) => sum + s.length, 0);
-          p.innerHTML = sents.map((s, sIdx) => {
-            return `<span class="audio-sentence" data-sent-idx="${sIdx}">${escapeHtml(s)} </span>`;
-          }).join('');
+            const spanEls = p.querySelectorAll('.audio-sentence');
+            let pMinStart = Infinity;
+            let pMaxEnd = -1;
 
-          const spanEls = p.querySelectorAll('.audio-sentence');
-          let curSentTime = pStart;
+            sents.forEach((s, sIdx) => {
+              const rec = syncMap.find(item => item.p === pIdx && item.s === sIdx);
+              const sStart = rec ? rec.start : 0;
+              const sEnd = rec ? rec.end : 0;
 
-          sents.forEach((s, sIdx) => {
-            const sDur = (s.length / sentTotalLen) * (pEnd - pStart);
-            const sStart = curSentTime;
-            const sEnd = (sIdx === sents.length - 1) ? pEnd : (sStart + sDur);
-            curSentTime = sEnd;
+              if (sStart < pMinStart) pMinStart = sStart;
+              if (sEnd > pMaxEnd) pMaxEnd = sEnd;
 
-            const spanEl = spanEls[sIdx] || p;
-            spanEl.dataset.audioStart = sStart.toFixed(2);
-            spanEl.dataset.audioEnd = sEnd.toFixed(2);
+              const spanEl = spanEls[sIdx] || p;
+              spanEl.dataset.audioStart = sStart.toFixed(2);
+              spanEl.dataset.audioEnd = sEnd.toFixed(2);
+
+              segments.push({
+                el: spanEl,
+                parentP: p,
+                start: sStart,
+                end: sEnd,
+                text: s
+              });
+            });
+
+            if (pMinStart !== Infinity && pMaxEnd !== -1) {
+              p.dataset.audioStart = pMinStart.toFixed(2);
+              p.dataset.audioEnd = pMaxEnd.toFixed(2);
+            }
+          } else {
+            // Single sentence or complex HTML paragraph
+            const rec = syncMap.find(item => item.p === pIdx);
+            const sStart = rec ? rec.start : 0;
+            const sEnd = rec ? rec.end : 0;
+
+            p.dataset.audioStart = sStart.toFixed(2);
+            p.dataset.audioEnd = sEnd.toFixed(2);
 
             segments.push({
-              el: spanEl,
+              el: p,
               parentP: p,
               start: sStart,
               end: sEnd,
-              text: s
+              text: text
             });
-          });
-        } else {
-          segments.push({
-            el: p,
-            parentP: p,
-            start: pStart,
-            end: pEnd,
-            text: text
-          });
-        }
-      });
+          }
+        });
+      } else {
+        // IMPROVED DYNAMIC ESTIMATION FALLBACK (With speech onset offset & natural pause weights)
+        const speechOnset = 2.0; // Audio lead-in offset
+        const usableDur = Math.max(10, duration - speechOnset - 1.5);
+
+        let totalWeight = 0;
+        const pData = paragraphs.map((p, idx) => {
+          const text = p.textContent.trim();
+          const weight = Math.max(10, text.length) + 35; // 35 chars = 1.2s paragraph pause
+          totalWeight += weight;
+          return { p, text, weight, idx };
+        });
+
+        let curTime = speechOnset;
+
+        pData.forEach(({ p, text, weight }, idx) => {
+          const pDur = (weight / totalWeight) * usableDur;
+          const pStart = curTime;
+          const pEnd = (idx === pData.length - 1) ? duration : (pStart + pDur);
+          curTime = pEnd;
+
+          p.dataset.audioStart = pStart.toFixed(2);
+          p.dataset.audioEnd = pEnd.toFixed(2);
+          p.classList.add('audio-sync-paragraph');
+
+          const sents = splitSentencesSafe(text);
+          const containsComplexHTML = p.children.length > 0;
+
+          if (sents.length > 1 && !containsComplexHTML) {
+            const sentTotalLen = sents.reduce((sum, s) => sum + s.length + 14, 0);
+            p.innerHTML = sents.map((s, sIdx) => {
+              return `<span class="audio-sentence" data-sent-idx="${sIdx}">${escapeHtml(s)} </span>`;
+            }).join('');
+
+            const spanEls = p.querySelectorAll('.audio-sentence');
+            let curSentTime = pStart;
+
+            sents.forEach((s, sIdx) => {
+              const sDur = ((s.length + 14) / sentTotalLen) * (pEnd - pStart);
+              const sStart = curSentTime;
+              const sEnd = (sIdx === sents.length - 1) ? pEnd : (sStart + sDur);
+              curSentTime = sEnd;
+
+              const spanEl = spanEls[sIdx] || p;
+              spanEl.dataset.audioStart = sStart.toFixed(2);
+              spanEl.dataset.audioEnd = sEnd.toFixed(2);
+
+              segments.push({
+                el: spanEl,
+                parentP: p,
+                start: sStart,
+                end: sEnd,
+                text: s
+              });
+            });
+          } else {
+            segments.push({
+              el: p,
+              parentP: p,
+              start: pStart,
+              end: pEnd,
+              text: text
+            });
+          }
+        });
+      }
     }
 
     // Highlight sentence and paragraph currently being read
@@ -3048,7 +3129,7 @@
       pill.addEventListener('click', async (e) => {
         e.stopPropagation();
         hideSeekPrompt();
-        audio.currentTime = startTime;
+        audio.currentTime = Math.max(0, startTime - 0.2);
         updateProgressUI();
         updateActiveHighlight(startTime);
         try {
