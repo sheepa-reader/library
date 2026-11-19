@@ -2124,8 +2124,21 @@
                     <div class="audio-player-name">${escapeHtml(chapter.title)} — ${escapeHtml(book.title)}</div>
                   </div>
                 </div>
-                <div class="audio-player-speed-wrap">
+                <div class="audio-player-top-actions">
+                  <button class="audio-action-pill-btn" id="audio-btn-jump-current" title="Cuộn màn hình đến đoạn đang đọc trong tác phẩm">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                      <circle cx="12" cy="12" r="10"></circle>
+                      <polyline points="12 6 12 12 16 14"></polyline>
+                    </svg>
+                    <span>Đoạn đang đọc</span>
+                  </button>
                   <button class="audio-speed-btn" id="audio-speed-toggle" title="Thay đổi tốc độ phát (0.8x, 1.0x, 1.25x, 1.5x)">1.0x</button>
+                  <button class="audio-card-close-btn" id="audio-btn-exit" title="Thoát chế độ sách nói">
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                      <line x1="18" y1="6" x2="6" y2="18"></line>
+                      <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                  </button>
                 </div>
               </div>
 
@@ -2181,13 +2194,13 @@
                     </button>
                     <input type="range" class="audio-volume-slider" id="audio-volume-slider" min="0" max="1" step="0.05" value="1" title="Âm lượng">
                   </div>
-                  <a href="${escapeHtml(chapter.audio)}" download="${escapeHtml(book.title)} - ${escapeHtml(chapter.title)}.mp3" class="audio-ctrl-btn" title="Tải file audio về máy">
+                  <button class="audio-ctrl-btn audio-download-disabled-btn" id="audio-download-locked-btn" title="Tải sách nói (Tính năng dành cho thành viên - Sắp ra mắt)" aria-disabled="true">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                       <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                       <polyline points="7 10 12 15 17 10"></polyline>
                       <line x1="12" y1="15" x2="12" y2="3"></line>
                     </svg>
-                  </a>
+                  </button>
                 </div>
               </div>
 
@@ -2264,7 +2277,7 @@
                 </svg>
               </button>
             </div>
-            <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Ẩn thanh điều khiển (sẽ hiện lại khi phát audio)">✕</button>
+            <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Thoát chế độ sách nói">✕</button>
           </div>
         ` : ''}
 
@@ -3055,21 +3068,46 @@
       }
     }
 
+    // Clear all active sentence and paragraph highlights completely
+    function clearAllActiveHighlights() {
+      if (!readerBody) return;
+      readerBody.querySelectorAll('.audio-active-sentence, .audio-active-segment').forEach(el => {
+        el.classList.remove('audio-active-sentence', 'audio-active-segment');
+      });
+      readerBody.querySelectorAll('.audio-active-paragraph').forEach(el => {
+        el.classList.remove('audio-active-paragraph');
+      });
+    }
+
+    // Exit audiobook mode completely
+    function exitAudioMode(e) {
+      if (e) e.stopPropagation();
+      if (audio) {
+        audio.pause();
+        audio.currentTime = 0;
+      }
+      setPlayingUI(false);
+      clearAllActiveHighlights();
+      hideSeekPrompt();
+      activeSegment = null;
+      if (miniBar) {
+        miniBarDismissed = true;
+        miniBar.classList.remove('is-visible');
+      }
+      if (card) {
+        card.classList.add('audio-mode-exited');
+      }
+      showGlobalToast('Đã dừng và thoát chế độ sách nói', 2200);
+    }
+
     // Highlight sentence and paragraph currently being read
     function updateActiveHighlight(curTime) {
       if (!segments || segments.length === 0) return;
-      const cur = curTime || audio.currentTime;
+      const cur = curTime !== undefined ? curTime : audio.currentTime;
       const matched = segments.find(seg => cur >= seg.start && cur < seg.end);
 
       if (matched !== activeSegment) {
-        if (activeSegment) {
-          if (activeSegment.el) {
-            activeSegment.el.classList.remove('audio-active-sentence', 'audio-active-segment');
-          }
-          if (activeSegment.parentP) {
-            activeSegment.parentP.classList.remove('audio-active-paragraph');
-          }
-        }
+        clearAllActiveHighlights(); // Always clean all previous highlights completely
         activeSegment = matched || null;
         if (activeSegment) {
           if (activeSegment.el) {
@@ -3269,9 +3307,29 @@
     if (headerAudioBtn) {
       headerAudioBtn.addEventListener('click', () => {
         if (card) {
+          card.classList.remove('audio-mode-exited');
           card.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
         togglePlay();
+      });
+    }
+
+    const cardExitBtn = document.getElementById('audio-btn-exit');
+    if (cardExitBtn) {
+      cardExitBtn.addEventListener('click', exitAudioMode);
+    }
+
+    const cardJumpBtn = document.getElementById('audio-btn-jump-current');
+    if (cardJumpBtn) {
+      cardJumpBtn.addEventListener('click', scrollToActiveReading);
+    }
+
+    const lockedDlBtn = document.getElementById('audio-download-locked-btn');
+    if (lockedDlBtn) {
+      lockedDlBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        showGlobalToast('Tính năng tải file Audiobook sẽ sớm mở dành cho thành viên Sheepa!', 3200);
       });
     }
 
@@ -3280,11 +3338,7 @@
     if (miniPulseBtn) miniPulseBtn.addEventListener('click', scrollToActiveReading);
 
     if (miniCloseBtn) {
-      miniCloseBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        miniBarDismissed = true;
-        if (miniBar) miniBar.classList.remove('is-visible');
-      });
+      miniCloseBtn.addEventListener('click', exitAudioMode);
     }
 
     // Skip controls (-10s / +10s) on both main card and mini player
