@@ -1,5 +1,27 @@
 [
   {
+    "id": "log-20261119-02",
+    "timestamp": "2026-11-19T11:00:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "type": "chapter_update",
+    "typeName": "Cập nhật Ebook",
+    "badgeClass": "badge-chapter",
+    "title": "Chuẩn hóa đại từ xưng hô (Anh - Tôi) giữa PJ & Fred, cập nhật lại Ebook",
+    "description": "Rà soát toàn bộ tác phẩm và chuẩn hóa cặp đại từ xưng hô giữa PJ Halliday và Fred thành Anh - Tôi lịch thiệp, tự nhiên. Đồng bộ nội dung đọc online đơn ngữ, song ngữ và đóng gói cập nhật lại 2 bản EPUB tải về."
+  },
+  {
+    "id": "log-20261119-01",
+    "timestamp": "2026-11-19T10:30:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "type": "audio_add",
+    "typeName": "Sách nói Audio",
+    "badgeClass": "badge-audio",
+    "title": "Bổ sung sách nói Audiobook chất lượng cao cho Chương 1 & Chương 2",
+    "description": "Tích hợp file audio sách nói trực tiếp cho Chương 1 và Chương 2 kèm trình phát Audiobook thông minh (hỗ trợ tua 10s, điều chỉnh tốc độ đọc, ghi nhớ vị trí và mini player khi cuộn trang)."
+  },
+  {
     "id": "log-20261118-01",
     "timestamp": "2026-11-18T10:00:00+07:00",
     "bookId": "cuon-sach-nay-khien-anh-nho-em",

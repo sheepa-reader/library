@@ -39,7 +39,7 @@
 <p class="para-vi-sub">“Chắc chắn rồi, em có váy chứ,” Natasha đáp.</p>
 
 <p class="para-en">“Fred, Freddy, Fred,” PJ said, into the phone. “I’m so sorry about the car, I really am, and I hope Alaska is wonderful, but someone better be dead, because you’re interrupting something special with a woman friend—What? You didn’t…why?” He looked at Sophie. She looked away. “Ivy,” he said. “Not my Ivy.” He put the phone down and laid himself flat on the thick beige carpet of the condo. “Not my Ivy,” he was saying, over and over again.</p>
-<p class="para-vi-sub">“Fred, Freddy, Fred,” PJ nói vào ống nghe. “Tớ thực sự xin lỗi về vụ chiếc xe, tớ xin lỗi lắm, và tớ hy vọng chuyến đi Alaska rất tuyệt vời, nhưng tốt hơn là có ai đó vừa chết, vì cậu đang phá hỏng một khoảnh khắc đặc biệt với một người bạn nữ đấy. Cái gì? Cậu không... tại sao chứ?” Ông nhìn sang Sophie. Cô quay mặt đi nơi khác. “Ivy,” ông nói. “Không phải Ivy của tôi đâu.” Ông đặt điện thoại xuống rồi nằm bẹp trên tấm thảm màu be dày cộp của căn hộ. “Không phải Ivy của tôi,” ông cứ lặp đi lặp lại câu đó mãi.</p>
+<p class="para-vi-sub">“Fred, Freddy, Fred,” PJ nói vào ống nghe. “Tôi thực sự xin lỗi về vụ chiếc xe, tôi xin lỗi lắm, và tôi hy vọng chuyến đi Alaska rất tuyệt vời, nhưng tốt hơn là có ai đó vừa chết, vì anh đang phá hỏng một khoảnh khắc đặc biệt với một người bạn nữ đấy. Cái gì? Anh không... tại sao chứ?” Ông nhìn sang Sophie. Cô quay mặt đi nơi khác. “Ivy,” ông nói. “Không phải Ivy của tôi đâu.” Ông đặt điện thoại xuống rồi nằm bẹp trên tấm thảm màu be dày cộp của căn hộ. “Không phải Ivy của tôi,” ông cứ lặp đi lặp lại câu đó mãi.</p>
 
 <p class="para-en">“Is he all right?” Natasha Eskolsky asked, in the doorway. She had come out of her bedroom with three dresses in her arms to show him the options. “Ivy is his ex-wife?”</p>
 <p class="para-vi-sub">“Ông ấy ổn chứ?” Natasha Eskolsky hỏi từ ngoài cửa. Bà vừa bước ra khỏi phòng ngủ với ba chiếc váy trên tay để khoe cho ông chọn. “Ivy là vợ cũ của ông ấy sao?”</p>
@@ -66,28 +66,28 @@
 <p class="para-vi-sub">Sophie nhận ra khi bố đang gọi điện, rằng nếu Fred gọi đến, điều đó có nghĩa là phương pháp điều trị đã thất bại. Fred không gọi chỉ để thông báo cho PJ; ông gọi để thông báo cho cả hai bố con rằng chuyến đi Alaska chẳng đem lại kết quả gì. Sophie thừa biết hy vọng mong manh đến nhường nào, nhưng cô vẫn nuôi chút ít niềm tin. Cô nghĩ rằng thể nào cũng có ai đó nhận được một phép màu, và nếu có bất kỳ ai xứng đáng nhận được điều đó, thì đó chính là mẹ cô. Sophie cần ra ngoài hít thở chút không khí trong lành. Hoặc có lẽ cô cần xuống lầu rồi úp mặt xuống hồ bơi mà hét lên một tiếng thật to. Mẹ cô sắp chết rồi. Mọi chuyện đã thất bại. Điều tồi tệ nhất đang diễn ra. Cô để lại chiếc điện thoại cùng bố cho Natasha Eskolsky rồi một mình bước xuống dưới lầu. Cô sẽ tìm một cư dân nào đó thích hút cần sa vì lý do y tế và xin một ít.</p>
 
 <p class="para-en">“When were you going to tell me?” PJ asked Fred, still lying on the ground but having picked up the phone off the carpet. Fred had waited on the other end of the line until PJ was ready to talk. Fred knew he had to be patient with PJ.</p>
-<p class="para-vi-sub">“Khi nào thì cậu định nói cho tôi biết?” PJ hỏi Fred, vẫn đang nằm bẹp dưới sàn nhà nhưng đã nhặt chiếc điện thoại lên từ tấm thảm. Fred đã kiên nhẫn chờ đợi ở đầu dây bên kia cho đến khi PJ sẵn sàng nói chuyện. Fred biết mình phải thật kiên nhẫn với PJ.</p>
+<p class="para-vi-sub">“Khi nào thì anh định nói cho tôi biết?” PJ hỏi Fred, vẫn đang nằm bẹp dưới sàn nhà nhưng đã nhặt chiếc điện thoại lên từ tấm thảm. Fred đã kiên nhẫn chờ đợi ở đầu dây bên kia cho đến khi PJ sẵn sàng nói chuyện. Fred biết mình phải thật kiên nhẫn với PJ.</p>
 
 <p class="para-en">“I’m telling you now,” Fred said. “Ivy is ready to tell you now. She wants you to come home.”</p>
-<p class="para-vi-sub">“Tôi đang nói cho cậu đây,” Fred đáp. “Ivy đã sẵn sàng nói cho cậu biết rồi. Bà ấy muốn cậu về nhà.”</p>
+<p class="para-vi-sub">“Tôi đang nói cho anh đây,” Fred đáp. “Ivy đã sẵn sàng nói cho anh biết rồi. Bà ấy muốn anh về nhà.”</p>
 
 <p class="para-en">“What for?” PJ said, angry he’d been left out. “Because you need the car? Well, Fred, I don’t have the car.”</p>
-<p class="para-vi-sub">“Về để làm gì?” PJ hỏi, tỏ vẻ bực bội vì bị gạt ra rìa. “Vì cậu cần chiếc xe chắc? Này Fred, tôi có còn chiếc xe nào nữa đâu.”</p>
+<p class="para-vi-sub">“Về để làm gì?” PJ hỏi, tỏ vẻ bực bội vì bị gạt ra rìa. “Vì anh cần chiếc xe chắc? Này Fred, tôi có còn chiếc xe nào nữa đâu.”</p>
 
 <p class="para-en">“It would be nice to have a car. But we need you home because we need you for the wedding. We want to do it while she’s still feeling good. You should fly home. Fly home tomorrow and help us get ready for the wedding.”</p>
-<p class="para-vi-sub">“Có một chiếc xe thì vẫn tiện hơn chứ. Nhưng chúng tôi cần cậu về nhà vì chúng tôi cần cậu có mặt trong đám cưới. Chúng tôi muốn tổ chức khi bà ấy vẫn còn cảm thấy khỏe khoắn. Cậu nên bay về đi. Bay về ngày mai đi và giúp chúng tôi chuẩn bị cho đám cưới.”</p>
+<p class="para-vi-sub">“Có một chiếc xe thì vẫn tiện hơn chứ. Nhưng chúng tôi cần anh về nhà vì chúng tôi cần anh có mặt trong đám cưới. Chúng tôi muốn tổ chức khi bà ấy vẫn còn cảm thấy khỏe khoắn. Anh nên bay về đi. Bay về ngày mai đi và giúp chúng tôi chuẩn bị cho đám cưới.”</p>
 
 <p class="para-en">“I prefer not to fly—”</p>
 <p class="para-vi-sub">“Tôi không thích đi máy bay lắm...”</p>
 
 <p class="para-en">“Fly home. I’m not asking. I’m telling you.”</p>
-<p class="para-vi-sub">“Bay về đi. Tôi không đang hỏi ý kiến cậu đâu. Tôi đang ra lệnh đấy.”</p>
+<p class="para-vi-sub">“Bay về đi. Tôi không đang hỏi ý kiến anh đâu. Tôi đang ra lệnh đấy.”</p>
 
 <p class="para-en">“Okay. Okay.” And then PJ took a deep breath and told Fred about the two dates he would be bringing to the wedding. Ages nine and ten, Ollie and Luna Meeklin, his new grandkids.</p>
 <p class="para-vi-sub">“Được rồi. Được rồi.” Và rồi PJ hít một hơi thật sâu và kể cho Fred nghe về hai vị khách đi cùng mà ông sẽ dẫn đến đám cưới. Hai đứa trẻ chín và mười tuổi, Ollie và Luna Meeklin, hai đứa cháu họ mới của ông.</p>
 
 <p class="para-en">“Where did you buy grandkids?” Fred asked, but he was only joking. Fred and Ivy had gotten home to Pondville a few days earlier and found the bunk beds in Fred’s office. And the trampoline in the backyard. Then they found the whole town was talking about how PJ Halliday had adopted the poor Meeklin children, and how PJ had such a good heart. Practically a saint.</p>
-<p class="para-vi-sub">“Cậu mua lũ cháu ở đâu thế?” Fred hỏi, nhưng ông chỉ đang nói đùa. Fred và Ivy đã trở về Pondville vài ngày trước đó và phát hiện ra chiếc giường tầng trong phòng làm việc của Fred. Cả chiếc bạt nhún lò xo ở sân sau nữa. Sau đó, họ thấy cả thị trấn đang bàn tán về việc PJ Halliday đã nhận nuôi những đứa trẻ nhà Meeklin tội nghiệp ra sao, và PJ có một trái tim nhân hậu thế nào. Gần như một vị thánh.</p>
+<p class="para-vi-sub">“Anh mua lũ cháu ở đâu thế?” Fred hỏi, nhưng ông chỉ đang nói đùa. Fred và Ivy đã trở về Pondville vài ngày trước đó và phát hiện ra chiếc giường tầng trong phòng làm việc của Fred. Cả chiếc bạt nhún lò xo ở sân sau nữa. Sau đó, họ thấy cả thị trấn đang bàn tán về việc PJ Halliday đã nhận nuôi những đứa trẻ nhà Meeklin tội nghiệp ra sao, và PJ có một trái tim nhân hậu thế nào. Gần như một vị thánh.</p>
 
 <p class="para-en">“That’s me,” PJ agreed, wiping his eyes. “I’m a giver.”</p>
 <p class="para-vi-sub">“Tôi đấy,” PJ đồng tình, đưa tay lau mắt. “Tôi là người chuyên cho đi.”</p>

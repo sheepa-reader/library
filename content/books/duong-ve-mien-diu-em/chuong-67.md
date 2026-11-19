@@ -6,11 +6,11 @@ Chiếc máy bay hạ cánh xuống Boston và PJ thấy thật ngạc nhiên kh
 
 Họ tìm thấy Fred đang đợi ở khu nhận hành lý. Fred đã thuê một chiếc xe minivan. Fred nói: “Chỉ là xe thuê thôi. Nhưng tôi nghĩ chúng ta cần một chiếc minivan nếu trong nhà có trẻ con.”
 
-PJ nói: “Thật chu đáo đấy, Fred,” rồi ôm chầm lấy người bạn và hôn lên trán Fred. “Tôi nhớ cậu quá, bạn già ạ.”
+PJ nói: “Thật chu đáo đấy, Fred,” rồi ôm chầm lấy người bạn và hôn lên trán Fred. “Tôi nhớ anh quá, bạn già ạ.”
 
-Fred rưng rưng nước mắt nói: “Tôi cũng nhớ cậu. Mấy tháng qua thực sự quá vất vả.”
+Fred rưng rưng nước mắt nói: “Tôi cũng nhớ anh. Mấy tháng qua thực sự quá vất vả.”
 
-PJ nói: “Tôi hiểu mà,” rồi bất ngờ tự thốt lên: “Tôi không thể tưởng tượng nổi.” Không phải PJ không đủ khả năng tưởng tượng ra điều đó, mà ý ông thực sự là Tôi công nhận cậu đã phải trải qua một khoảng thời gian vô cùng khó khăn. Tôi công nhận cậu đã phải vắt kiệt sức lực nhiều hơn những gì cậu từng nghĩ mình có, và tôi thực sự nể phục vì cậu vẫn đang đứng vững. Nếu chuyện đó xảy ra với tôi, chắc tôi chẳng đứng nổi nữa đâu, thế mà nhìn cậu xem, vẫn đang đứng kìa! Bằng chính đôi chân của mình!
+PJ nói: “Tôi hiểu mà,” rồi bất ngờ tự thốt lên: “Tôi không thể tưởng tượng nổi.” Không phải PJ không đủ khả năng tưởng tượng ra điều đó, mà ý ông thực sự là Tôi công nhận anh đã phải trải qua một khoảng thời gian vô cùng khó khăn. Tôi công nhận anh đã phải vắt kiệt sức lực nhiều hơn những gì anh từng nghĩ mình có, và tôi thực sự nể phục vì anh vẫn đang đứng vững. Nếu chuyện đó xảy ra với tôi, chắc tôi chẳng đứng nổi nữa đâu, thế mà nhìn anh xem, vẫn đang đứng kìa! Bằng chính đôi chân của mình!
 
 Trên đường về nhà bằng xe minivan, suốt một tiếng đồng hồ từ Boston về Pondville, lũ trẻ nói chuyện gần như suốt chặng đường. Chúng kể cho Fred nghe mọi thứ chúng nhìn thấy khi lái xe xuyên qua đất nước. Những chú lạc đà alpaca kêu vo vo, chiếc bánh nướng ngon nhất ở Kentucky, những chiếc bảng thông báo hài hước nhất, bảo tàng tượng sáp, bể bơi tại Tender Hearts. Fred ngạc nhiên vì bản thân cảm thấy phấn chấn hẳn lên nhờ lũ trẻ cùng những câu chuyện của chúng, sau ngần ấy tuần lễ chìm đắm trong sự tĩnh lặng và nỗi buồn sâu sắc.
 
