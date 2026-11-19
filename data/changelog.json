@@ -18,8 +18,8 @@
     "type": "audio_add",
     "typeName": "Sách nói Audio",
     "badgeClass": "badge-audio",
-    "title": "Bổ sung sách nói Audiobook chất lượng cao cho Chương 1, Chương 2 & Chương 3",
-    "description": "Tích hợp file audio sách nói trực tiếp cho Chương 1, Chương 2 và Chương 3 kèm trình phát Audiobook thông minh (hỗ trợ tua 10s, điều chỉnh tốc độ đọc, ghi nhớ vị trí và mini player khi cuộn trang)."
+    "title": "Bổ sung sách nói Audiobook chất lượng cao từ Chương 1 đến Chương 8",
+    "description": "Tích hợp file audio sách nói trực tiếp cho các Chương 1 đến Chương 8 kèm trình phát thông minh đồng bộ khớp highlight từng câu chữ chuẩn xác."
   },
   {
     "id": "log-20261118-01",
