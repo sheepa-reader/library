@@ -2124,7 +2124,7 @@
                     <span>Đoạn đang đọc</span>
                   </button>
                   <button class="audio-speed-btn" id="audio-speed-toggle" title="Thay đổi tốc độ phát (0.8x, 1.0x, 1.25x, 1.5x)">1.0x</button>
-                  <button class="audio-card-close-btn" id="audio-btn-exit" title="Thoát chế độ sách nói">
+                  <button class="audio-card-close-btn" id="audio-btn-exit" title="Dừng phát và chuyển về đoạn đang đọc dở">
                     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
                       <line x1="18" y1="6" x2="6" y2="18"></line>
                       <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -3117,6 +3117,42 @@
       }
     }
 
+    // Stop playback, clear quotes/highlights, return to normal reading interface, and scroll to current sentence
+    function stopAndScrollToCurrent(e) {
+      if (e) e.stopPropagation();
+
+      let seg = activeSegment;
+      if (!seg && segments && segments.length > 0) {
+        const cur = audio ? (audio.currentTime || 0) : 0;
+        seg = segments.find(s => cur >= s.start && cur < s.end) || segments[0];
+      }
+
+      if (audio && !audio.paused) {
+        audio.pause();
+      }
+      setPlayingUI(false);
+      clearAllActiveHighlights();
+      hideSeekPrompt();
+      activeSegment = null;
+
+      if (miniBar) {
+        miniBarDismissed = true;
+        miniBar.classList.remove('is-visible');
+      }
+
+      if (seg && seg.el) {
+        seg.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        seg.el.classList.add('audio-pulse-focus');
+        setTimeout(() => {
+          if (seg && seg.el) {
+            seg.el.classList.remove('audio-pulse-focus');
+          }
+        }, 1600);
+      }
+
+      showGlobalToast('Đã dừng phát và chuyển về đoạn đang đọc', 2200);
+    }
+
     // Floating Seek Prompt ("🎧 Nghe từ đoạn này ▶")
     function hideSeekPrompt() {
       if (activePillEl) {
@@ -3309,6 +3345,11 @@
       cardJumpBtn.addEventListener('click', scrollToActiveReading);
     }
 
+    const cardExitBtn = document.getElementById('audio-btn-exit');
+    if (cardExitBtn) {
+      cardExitBtn.addEventListener('click', stopAndScrollToCurrent);
+    }
+
     const lockedDlBtn = document.getElementById('audio-download-locked-btn');
     if (lockedDlBtn) {
       lockedDlBtn.addEventListener('click', (e) => {
@@ -3323,19 +3364,7 @@
     if (miniPulseBtn) miniPulseBtn.addEventListener('click', scrollToActiveReading);
 
     if (miniCloseBtn) {
-      miniCloseBtn.addEventListener('click', (e) => {
-        if (e) e.stopPropagation();
-        if (audio && !audio.paused) {
-          audio.pause();
-        }
-        setPlayingUI(false);
-        clearAllActiveHighlights();
-        hideSeekPrompt();
-        if (miniBar) {
-          miniBarDismissed = true;
-          miniBar.classList.remove('is-visible');
-        }
-      });
+      miniCloseBtn.addEventListener('click', stopAndScrollToCurrent);
     }
 
     // Skip controls (-10s / +10s) on both main card and mini player
