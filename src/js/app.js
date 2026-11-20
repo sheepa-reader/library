@@ -1566,13 +1566,20 @@
               return `
                 <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
                   <div class="card-top">
-                    ${book.cover ? `
-                      <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
-                    ` : `
-                      <div class="card-icon-frame">
-                        <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
-                      </div>
-                    `}
+                    <div class="card-cover-wrapper">
+                      ${book.cover ? `
+                        <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
+                      ` : `
+                        <div class="card-icon-frame">
+                          <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+                        </div>
+                      `}
+                      ${book.teaser ? `
+                        <button class="cover-teaser-badge" onclick="event.stopPropagation(); window.sheepaOpenTeaser('${escapeHtml(book.id)}', '${escapeHtml(book.title)}', '${escapeHtml(book.teaser)}');" title="Xem Trailer / Teaser của ${escapeHtml(book.title)}" aria-label="Xem Teaser">
+                          <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"></polygon></svg>
+                        </button>
+                      ` : ''}
+                    </div>
                   </div>
 
                   <div class="card-content-wrap">
@@ -1625,13 +1632,20 @@
             return `
               <div class="book-card" onclick="window.location.hash = '#/book/${book.id}'" style="cursor: pointer;">
                 <div class="card-top">
-                  ${book.cover ? `
-                    <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
-                  ` : `
-                    <div class="card-icon-frame">
-                      <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
-                    </div>
-                  `}
+                  <div class="card-cover-wrapper">
+                    ${book.cover ? `
+                      <img src="${book.cover}" class="book-cover-real" alt="${escapeHtml(book.title)}" onerror="this.onerror=null; this.src='public/icons/01_sheep_reading.png';">
+                    ` : `
+                      <div class="card-icon-frame">
+                        <img src="${book.icon || 'public/icons/04_book_stack_horizontal.png'}" alt="${escapeHtml(book.title)}">
+                      </div>
+                    `}
+                    ${book.teaser ? `
+                      <button class="cover-teaser-badge" onclick="event.stopPropagation(); window.sheepaOpenTeaser('${escapeHtml(book.id)}', '${escapeHtml(book.title)}', '${escapeHtml(book.teaser)}');" title="Xem Trailer / Teaser của ${escapeHtml(book.title)}" aria-label="Xem Teaser">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"></polygon></svg>
+                      </button>
+                    ` : ''}
+                  </div>
                   <div class="card-meta">
                     <h3 class="card-title">${escapeHtml(book.title)}</h3>
                     ${book.originalTitle && book.originalTitle.trim().toLowerCase() !== book.title.trim().toLowerCase() ? `
@@ -1898,6 +1912,12 @@
                   Bắt đầu đọc
                 </a>
               `}
+              ${book.teaser ? `
+                <button class="btn-lg btn-teaser" onclick="window.sheepaOpenTeaser('${escapeHtml(book.id)}', '${escapeHtml(book.title)}', '${escapeHtml(book.teaser)}');" title="Xem video Teaser / Trailer của ${escapeHtml(book.title)}">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                  Xem Teaser
+                </button>
+              ` : ''}
               <button class="btn-lg btn-outline" id="btn-open-download-modal">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
                 Tải sách về
@@ -6029,6 +6049,61 @@
       renderGoogleAuthButtons();
     }, 250);
   });
+
+  // --- TEASER VIDEO LIGHTBOX PLAYER ---
+  window.sheepaOpenTeaser = function(bookId, bookTitle, videoSrc) {
+    if (!videoSrc) return;
+    let lightbox = document.getElementById('sheepa-teaser-lightbox');
+    if (!lightbox) return;
+
+    // Tạm dừng trình đọc sách nói nếu đang phát
+    const readerAudio = document.getElementById('reader-html5-audio');
+    if (readerAudio && !readerAudio.paused) {
+      readerAudio.pause();
+    }
+
+    const titleEl = document.getElementById('teaser-title-text');
+    if (titleEl) titleEl.textContent = bookTitle || 'Teaser tác phẩm';
+
+    const videoEl = document.getElementById('sheepa-teaser-video');
+    const sourceEl = document.getElementById('sheepa-teaser-source');
+    if (videoEl && sourceEl) {
+      sourceEl.src = videoSrc;
+      videoEl.load();
+      const playPromise = videoEl.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {});
+      }
+    }
+
+    lightbox.classList.remove('is-hidden');
+    document.body.classList.add('teaser-modal-open');
+
+    // Lắng nghe phím Escape để đóng
+    window._sheepaTeaserEscHandler = function(e) {
+      if (e.key === 'Escape') {
+        window.sheepaCloseTeaser();
+      }
+    };
+    document.addEventListener('keydown', window._sheepaTeaserEscHandler);
+  };
+
+  window.sheepaCloseTeaser = function() {
+    const lightbox = document.getElementById('sheepa-teaser-lightbox');
+    if (lightbox) {
+      lightbox.classList.add('is-hidden');
+    }
+    const videoEl = document.getElementById('sheepa-teaser-video');
+    if (videoEl) {
+      videoEl.pause();
+      videoEl.currentTime = 0;
+    }
+    document.body.classList.remove('teaser-modal-open');
+    if (window._sheepaTeaserEscHandler) {
+      document.removeEventListener('keydown', window._sheepaTeaserEscHandler);
+      window._sheepaTeaserEscHandler = null;
+    }
+  };
 
   async function init() {
     initTheme();

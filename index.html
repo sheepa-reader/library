@@ -25,7 +25,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet (v10: Harmonious Cover & Locked 4-Col Specs Grid) -->
-  <link rel="stylesheet" href="src/css/style.css?v=75">
+  <link rel="stylesheet" href="src/css/style.css?v=76">
   <!-- Google Identity Services (Sign In with Google) -->
   <script src="https://accounts.google.com/gsi/client" async defer></script>
 </head>
@@ -206,7 +206,7 @@
   </footer>
 
   <!-- Application Script -->
-  <script src="src/js/app.js?v=95"></script>
+  <script src="src/js/app.js?v=96"></script>
   <!-- Floating Countdown Widget (Góc phải màn hình - Siêu nhỏ gọn) -->
     <!-- Floating Scroll To Top Button (Góc dưới bên trái, cân đối với đếm ngược góc phải) -->
   <button id="sheepa-scroll-top-btn" class="sheepa-scroll-top-btn is-hidden" aria-label="Cuộn lên đầu trang" title="Cuộn lên đầu trang">
@@ -242,6 +242,31 @@
       <div class="cd-box">
         <span class="cd-val" id="cd-secs">00</span>
         <span class="cd-unit">giây</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Teaser Video Lightbox Modal -->
+  <div id="sheepa-teaser-lightbox" class="teaser-lightbox is-hidden" role="dialog" aria-modal="true" aria-label="Xem Teaser tác phẩm">
+    <div class="teaser-lightbox-backdrop" onclick="window.sheepaCloseTeaser()"></div>
+    <div class="teaser-lightbox-content">
+      <div class="teaser-lightbox-header">
+        <div class="teaser-header-title">
+          <span class="teaser-badge">🎬 Teaser</span>
+          <h3 class="teaser-title-text" id="teaser-title-text">Đường Về Miền Dịu Êm</h3>
+        </div>
+        <button class="teaser-close-btn" onclick="window.sheepaCloseTeaser()" title="Đóng (Esc)" aria-label="Đóng video">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div class="teaser-video-wrapper">
+        <video id="sheepa-teaser-video" controls playsinline preload="auto">
+          <source id="sheepa-teaser-source" src="" type="video/mp4">
+          Trình duyệt của bạn không hỗ trợ thẻ video HTML5.
+        </video>
       </div>
     </div>
   </div>

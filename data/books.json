@@ -1071,7 +1071,8 @@
       "bilingual": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub",
       "bilingualEpub": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub"
     },
-    "hasAudio": true
+    "hasAudio": true,
+    "teaser": "content/books/duong-ve-mien-diu-em/video/teaser.mp4"
   },
   {
     "id": "toi-nguoi-chua-tung-biet-toi-dan-ong",

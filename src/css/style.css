@@ -7303,3 +7303,249 @@ body.modal-open {
     height: 16px;
   }
 }
+
+/* ==========================================================================
+   TEASER VIDEO & FLOATING BADGE ENHANCEMENTS
+   ========================================================================== */
+
+/* 1. Card Cover Wrapper & Floating Teaser Play Badge (Library Outer View) */
+.card-cover-wrapper {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  border-radius: 6px;
+  overflow: visible;
+}
+
+.cover-teaser-badge {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(15, 23, 42, 0.88);
+  color: #ffffff;
+  border: 1.5px solid rgba(255, 255, 255, 0.65);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  padding: 0;
+  z-index: 3;
+}
+
+.cover-teaser-badge svg {
+  margin-left: 2px;
+  fill: #ff6e40;
+  transition: all 0.2s ease;
+}
+
+.cover-teaser-badge:hover {
+  transform: scale(1.18);
+  background: #ff5722;
+  border-color: #ffffff;
+  box-shadow: 0 6px 18px rgba(255, 87, 34, 0.65);
+}
+
+.cover-teaser-badge:hover svg {
+  fill: #ffffff;
+}
+
+/* 2. Detail Actions - "Xem Teaser" Button */
+.btn-teaser {
+  background: linear-gradient(135deg, #fff3eb 0%, #ffe5d8 100%);
+  color: #c84113;
+  border: 1.5px solid #ffbe99;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(200, 65, 19, 0.08);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-teaser svg {
+  fill: #c84113;
+  transition: fill 0.18s ease;
+}
+
+.btn-teaser:hover {
+  background: linear-gradient(135deg, #ff6e40 0%, #c84113 100%);
+  color: #ffffff;
+  border-color: #c84113;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(200, 65, 19, 0.28);
+}
+
+.btn-teaser:hover svg {
+  fill: #ffffff;
+}
+
+[data-theme="dark"] .btn-teaser {
+  background: rgba(200, 65, 19, 0.16);
+  color: #ff8a65;
+  border: 1.5px solid rgba(255, 110, 64, 0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+[data-theme="dark"] .btn-teaser svg {
+  fill: #ff8a65;
+}
+
+[data-theme="dark"] .btn-teaser:hover {
+  background: linear-gradient(135deg, #ff6e40 0%, #c84113 100%);
+  color: #ffffff;
+  border-color: #ff6e40;
+  box-shadow: 0 6px 20px rgba(255, 110, 64, 0.35);
+}
+
+[data-theme="dark"] .btn-teaser:hover svg {
+  fill: #ffffff;
+}
+
+/* 3. Teaser Lightbox Modal Player */
+.teaser-lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+.teaser-lightbox.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.teaser-lightbox-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 15, 29, 0.85);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.teaser-lightbox-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 880px;
+  background: #111827;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.75), 0 0 0 1px rgba(255, 255, 255, 0.12);
+  animation: teaserModalPop 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes teaserModalPop {
+  from { transform: scale(0.94); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.teaser-lightbox-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1.25rem;
+  background: #1f2937;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.teaser-header-title {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  overflow: hidden;
+  min-width: 0;
+}
+
+.teaser-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.55rem;
+  border-radius: 6px;
+  background: linear-gradient(135deg, #ff6e40, #c84113);
+  color: #fff;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.teaser-title-text {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #f3f4f6;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.teaser-close-btn {
+  background: transparent;
+  border: none;
+  color: #9ca3af;
+  cursor: pointer;
+  padding: 0.4rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+  flex-shrink: 0;
+  margin-left: 0.75rem;
+}
+
+.teaser-close-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  transform: rotate(90deg);
+}
+
+.teaser-video-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  background: #000;
+}
+
+.teaser-video-wrapper video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  outline: none;
+  background: #000;
+}
+
+body.teaser-modal-open {
+  overflow: hidden !important;
+}
+
+@media (max-width: 640px) {
+  .teaser-lightbox {
+    padding: 0.75rem;
+  }
+  .teaser-lightbox-content {
+    border-radius: 12px;
+  }
+  .teaser-lightbox-header {
+    padding: 0.65rem 0.85rem;
+  }
+  .teaser-title-text {
+    font-size: 0.9rem;
+  }
+}
