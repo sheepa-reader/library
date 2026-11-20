@@ -729,7 +729,8 @@
         "id": "chuong-17",
         "title": "Chương 12",
         "part": "Phần I: Tri Thức Cổ Xưa",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-17.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-17.md",
+        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter12.mp3"
       },
       {
         "id": "chuong-18",
@@ -749,7 +750,8 @@
         "id": "chuong-20",
         "title": "Chương 13",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
-        "path": "content/books/duong-ve-mien-diu-em/chuong-20.md"
+        "path": "content/books/duong-ve-mien-diu-em/chuong-20.md",
+        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter13.mp3"
       },
       {
         "id": "chuong-21",
