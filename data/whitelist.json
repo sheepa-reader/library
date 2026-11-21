@@ -3,6 +3,8 @@
   "enforceDate": "2026-12-01T00:00:00+07:00",
   "note": "enforceAuth: false = mo tai tu do; true = bat buoc dang nhap va nam trong danh sach emails. Tu dong kich hoat khi den enforceDate.",
   "emails": [
-    "sheepa.reader@gmail.com"
+    "sheepa.reader@gmail.com",
+    "phanminhtrang1906@gmail.com",
+    "lcienepe@gmail.com"
   ]
 }
