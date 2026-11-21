@@ -15,13 +15,13 @@
 <p class="para-vi-sub">Ollie nhún vai. “Chắc là phép thuật thôi,” cậu bé nói.</p>
 
 <p class="para-en">“Well, we’re going on without him,” Luna said. “We can come back for him later. We can’t miss the meet-and-greet.”</p>
-<p class="para-vi-sub">“Thôi, chúng ta cứ đi mà không cần có chú ấy,” Luna nói. “Chốc nữa quay lại tìm cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”</p>
+<p class="para-vi-sub">“Thôi, chúng ta cứ đi mà không cần có ông ấy,” Luna nói. “Chốc nữa quay lại tìm cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”</p>
 
 <p class="para-en">“Let’s look around for a few minutes first,” Sophie said. She got out of the bed she’d shared with the kids and looked out the window. The red Volvo was there, safe in the lot. Wherever he’d gone, he’d gone on foot. Sophie knew Luna was right—they probably should go on without him. He should be punished, really punished, for something for once. But she couldn’t leave her dad behind, no matter what he’d done. Couldn’t leave him here to die in Purity Springs. Her mom had asked Sophie to take care of her dad while she was away.</p>
 <p class="para-vi-sub">“Để chị tìm quanh đây vài phút đã,” Sophie nói. Cô bước ra khỏi chiếc giường ngủ chung với lũ trẻ và nhìn ra ngoài cửa sổ. Chiếc Volvo màu đỏ vẫn ở đó, nằm yên vị trong bãi đỗ. Dù bố có đi đâu đi nữa, ông cũng đi bằng đôi chân của mình. Sophie thừa biết Luna nói đúng, có lẽ họ nên cứ đi mà không cần đợi ông. Bố cần phải bị trừng phạt, thực sự bị trừng phạt vì điều gì đó cho bõ tức. Nhưng cô không thể bỏ lại bố mình đằng sau được, dù ông đã làm gì đi nữa. Không thể bỏ mặc ông chết quách ở Purity Springs này. Mẹ đã nhờ Sophie chăm sóc bố khi mẹ vắng nhà rồi.</p>
 
 <p class="para-en">“Oh my God. Pancakes is gone too,” Luna said, frantically looking under the beds and in the bathtub and behind the pillows. “He took the cat.”</p>
-<p class="para-vi-sub">“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Chú ấy mang theo cả chú mèo rồi.”</p>
+<p class="para-vi-sub">“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Ông ấy mang theo cả chú mèo rồi.”</p>
 
 <p class="para-en">Ollie was pleased. It was all working out. He would not have to live in a closet in a mansion now. He would not be Mark Stackpole’s charity case. Luna would never leave the cat behind, not even to go meet the guy from TV she wished was her dad.</p>
 <p class="para-vi-sub">Ollie thấy vô cùng mãn nguyện. Mọi chuyện đang diễn ra đúng như ý muốn. Giờ thì cậu bé không phải sống trong cái tủ quần áo ở một căn biệt thự nào nữa. Cậu bé cũng không phải thành món quà từ thiện của Mark Stackpole. Luna tuyệt đối sẽ không đời nào bỏ lại chú mèo, ngay cả khi chuẩn bị đi gặp gã đàn ông trên TV mà cô bé hằng mơ ước làm bố mình.</p>
@@ -99,7 +99,7 @@
 <p class="para-vi-sub">“Chị biết em không xấu tính.”</p>
 
 <p class="para-en">“Don’t worry, Sophie, we’ll find him!” Ollie called, still in the car but leaning out the window. “We’ll never give up on him!”</p>
-<p class="para-vi-sub">“Đừng lo, Sophie, tụi mình sẽ tìm được chú ấy!” Ollie gọi với ra, vẫn ngồi trong xe nhưng rướn nửa người qua cửa sổ. “Tụi mình sẽ không bao giờ bỏ cuộc đâu!”</p>
+<p class="para-vi-sub">“Đừng lo, Sophie, tụi mình sẽ tìm được ông ấy!” Ollie gọi với ra, vẫn ngồi trong xe nhưng rướn nửa người qua cửa sổ. “Tụi mình sẽ không bao giờ bỏ cuộc đâu!”</p>
 
 <p class="para-en">Sophie shook her head. She wanted to cry, hearing that. It would be hard for these kids, if they never gave up on her dad. Sophie looked at her phone. She knew what she had to do next. She had to start calling around to the hospitals, and to the county jail after that. But there was no cell service at the Half-Moon Bar. She would have to drive back toward the Boar’s Tooth Motel. “Let’s get in the car,” she said.</p>
 <p class="para-vi-sub">Sophie lắc đầu. Nghe câu nói đó, cô chỉ muốn khóc. Sẽ thật khó khăn cho mấy đứa nhỏ nếu chúng cứ mãi bám chấp lấy bố cô. Sophie nhìn vào điện thoại của mình. Cô biết mình phải làm gì tiếp theo. Cô phải bắt đầu gọi điện cho các bệnh viện, và sau đó là nhà giam quận. Nhưng ở Quán rượu The Half-Moon lại chẳng có sóng điện thoại. Cô sẽ phải lái xe quay ngược lại hướng Boar’s Tooth Motel. “Lên xe nào,” cô nói.</p>
@@ -123,7 +123,7 @@
 <p class="para-vi-sub">“Gì thế?” Sophie hỏi. “Cái gì vậy?”</p>
 
 <p class="para-en">“Stop the car!” Luna yelled. “Stop the car! Don’t hit him!”</p>
-<p class="para-vi-sub">“Dừng xe lại!” Luna la oai oái. “Dừng xe lại! Đừng đè vào chú ấy!”</p>
+<p class="para-vi-sub">“Dừng xe lại!” Luna la oai oái. “Dừng xe lại! Đừng đè vào ông ấy!”</p>
 
 <p class="para-en">Sophie slammed on the brakes. “What happened?”</p>
 <p class="para-vi-sub">Sophie đạp thốc phanh. “Có chuyện gì thế?”</p>
@@ -174,13 +174,13 @@
 <p class="para-vi-sub">“Chú PJ, cháu rất mừng vì chú còn sống,” Ollie nói. “Chúng cháu đã lo lắng lắm.”</p>
 
 <p class="para-en">“I wasn’t going to leave you,” Luna said. “Even though you were ruining my chances of happiness, I wasn’t going to leave you.” Both kids were hugging him now.</p>
-<p class="para-vi-sub">“Cháu không định bỏ mặc chú đâu,” Luna nói. “Dù chú đang phá hủy cơ hội hạnh phúc của cháu, cháu cũng không định bỏ mặc chú đâu.” Cả hai đứa trẻ lúc này đều đang ôm chầm lấy ông.</p>
+<p class="para-vi-sub">“Cháu không định bỏ mặc ông đâu,” Luna nói. “Dù ông đang phá hủy cơ hội hạnh phúc của cháu, cháu cũng không định bỏ mặc ông đâu.” Cả hai đứa trẻ lúc này đều đang ôm chầm lấy ông.</p>
 
 <p class="para-en">PJ closed his eyes. Right, it was the day he was supposed to take the kid to meet the man Luna was convinced was her father, and she had spent the morning looking for him instead, finding him in a bush on the side of the road.</p>
 <p class="para-vi-sub">PJ nhắm mắt lại. Phải rồi, hôm nay là ngày ông phải đưa cô bé đi gặp người đàn ông mà Luna đinh ninh là cha cô bé, và thay vào đó, cô bé đã dành cả buổi sáng để đi tìm ông, tìm thấy ông nằm trong một lùm cây bên vệ đường.</p>
 
 <p class="para-en">“Careful, kids,” Sophie said. “Don’t hug him too much. We don’t know if anything is broken.”</p>
-<p class="para-vi-sub">“Cẩn thận hai đứa,” Sophie nói. “Đừng ôm chú ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”</p>
+<p class="para-vi-sub">“Cẩn thận hai đứa,” Sophie nói. “Đừng ôm ông ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”</p>
 
 <p class="para-en">“Just my head. Just my head hurts.”</p>
 <p class="para-vi-sub">“Chỉ đầu chú thôi. Chỉ có đầu chú đau thôi.”</p>
@@ -192,7 +192,7 @@
 <p class="para-vi-sub">Nhưng PJ có thể đứng lên, và chầm chậm, ông đã làm được vậy. Ông vòng tay qua vai Sophie, và họ bước lên bờ cỏ dốc hướng về phía chiếc Volvo. PJ run rẩy như một chú lạc đà alpaca con trên đôi chân mới tập đi, nhưng ông vẫn có thể bước đi. Ông có thể vượt qua phần ta luy dốc đứng.</p>
 
 <p class="para-en">“Put him in the car and let’s go,” Luna said. “Let’s go to the meet-and-greet.”</p>
-<p class="para-vi-sub">“Cho chú ấy lên xe rồi đi thôi,” Luna nói. “Chúng ta đến buổi gặp gỡ đi.”</p>
+<p class="para-vi-sub">“Cho ông ấy lên xe rồi đi thôi,” Luna nói. “Chúng ta đến buổi gặp gỡ đi.”</p>
 
 <p class="para-en">“No, no, no,” Sophie said. “We have to go to the hospital.”</p>
 <p class="para-vi-sub">“Không, không, không,” Sophie nói. “Chúng ta phải đến bệnh viện.”</p>

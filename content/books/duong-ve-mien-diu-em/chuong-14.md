@@ -4,15 +4,15 @@
 
 Trời đã gần đến giờ đi ngủ mà Luna vẫn không chịu trả lời khi họ gõ cửa phòng tắm, ngay cả khi Ollie kể về trò chơi điện tử hai người mà hai chị em có thể chơi cùng nhau. Ollie và Luna trước giờ không được phép chơi điện tử ở nhà nuôi dưỡng, trò đó chỉ dành cho mấy đứa lớn, bọn thanh thiếu niên thôi. Thế nhưng Luna nhất quyết không chịu bước ra, cho dù có chuyện gì đi nữa. Cuối cùng, PJ đã hết kiên nhẫn, ông lôi tua-vít ra và tháo tung cánh cửa phòng tắm khỏi bản lề. Ông thấy bên trong trống không, cửa sổ mở toang. “Trời đất quỷ thần ơi, Ollie, Luna trèo cửa sổ đi mất rồi.”
 
-“Trèo cửa sổ ạ?” Ollie nói, tỏ vẻ không tin nổi. “Chị ấy có ngã không hả chú?”
+“Trèo cửa sổ ạ?” Ollie nói, tỏ vẻ không tin nổi. “Chị ấy có ngã không hả ông?”
 
-“Khoảng cách xuống mặt đất không cao lắm đâu. Chắc con bé không bị thương đâu, nhưng nó chuồn mất rồi. Nó bỏ nhà đi rồi đấy. Chú sẽ gọi cảnh sát.”
+“Khoảng cách xuống mặt đất không cao lắm đâu. Chắc con bé không bị thương đâu, nhưng nó chuồn mất rồi. Nó bỏ nhà đi rồi đấy. Ông sẽ gọi cảnh sát.”
 
-“Không ạ,” Ollie vừa nói vừa lắc đầu. “Chú không muốn gọi cảnh sát đâu. Họ sẽ đánh chú nhừ tử đấy.”
+“Không ạ,” Ollie vừa nói vừa lắc đầu. “Ông không muốn gọi cảnh sát đâu. Họ sẽ đánh ông nhừ tử đấy.”
 
-“Sao họ lại đánh chú nhừ tử chứ?” PJ hỏi. PJ vốn chẳng ưa gì cảnh sát, nhưng ông nghĩ mình thực sự cần cảnh sát trong tình huống này. Một đứa trẻ mất tích chính là lý do rành rành để gọi cảnh sát chứ còn gì nữa.
+“Sao họ lại đánh ông nhừ tử chứ?” PJ hỏi. PJ vốn chẳng ưa gì cảnh sát, nhưng ông nghĩ mình thực sự cần cảnh sát trong tình huống này. Một đứa trẻ mất tích chính là lý do rành rành để gọi cảnh sát chứ còn gì nữa.
 
-Ollie khoanh tay trước ngực. “Cảnh sát toàn là bạn của bố cháu, và họ sẽ đánh chú tơi bời vì dám để lạc mất chị cháu. Thậm chí họ còn có thể giết chú nữa cơ.”
+Ollie khoanh tay trước ngực. “Cảnh sát toàn là bạn của bố cháu, và họ sẽ đánh ông tơi bời vì dám để lạc mất chị cháu. Thậm chí họ còn có thể giết ông nữa cơ.”
 
 “Được rồi, được rồi, có lý đấy,” PJ nói, cố kìm nén cơn hoảng loạn. “Chúng ta sẽ đi tìm con bé trước đã. Nó không thể đi quá xa được đâu.” Tim ông thắt lại trong lồng ngực. Đừng có giở chứng lúc này nhé, ông thầm nhủ với trái tim mình. Ông phải tìm cho bằng được đứa trẻ tội nghiệp này. Chắc con bé đang sợ hãi lắm. Tâm trí ông bất giác hướng về phía những đầm lầy, về tận rìa thị trấn.
 
@@ -70,19 +70,19 @@ Luna hỏi dồn: “Em xin lỗi vì điều gì?” Cô bé đang thử thách
 
 “Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”
 
-“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Chú ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và chú ấy bảo chú ấy yêu quý chúng ta,” Ollie nói dối. “Chú ấy bảo chú ấy đã yêu quý chúng ta rồi.”
+“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”
 
 “Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.
 
 “Không,” Ollie đồng thời cũng nhìn quanh nhà và hùa theo. “Em chẳng bao giờ muốn quay lại đây nữa.”
 
-“Hay chúng ta đốt quách nó đi nhỉ?” Luna đề nghị, bởi cô bé đang mang theo chiếc bật lửa lấy từ người phụ nữ mà cô bé đã ăn cắp thuốc lá, nhưng Ollie bảo không, cậu bé không muốn thế. Luna biết ông ngoại từng đốt nhà một lần rồi; ông đã kể cho cô bé nghe câu chuyện đó. Ông từng cố châm lửa đốt căn nhà có một người phụ nữ bên trong, nhưng người phụ nữ ấy đã chạy thoát. Ông ngoại có rất nhiều câu chuyện đáng sợ kiểu như thế, những việc ông từng làm hoặc muốn làm. “Chú PJ thực sự nói chú ấy yêu quý chúng ta á?” Luna hỏi lại.
+“Hay chúng ta đốt quách nó đi nhỉ?” Luna đề nghị, bởi cô bé đang mang theo chiếc bật lửa lấy từ người phụ nữ mà cô bé đã ăn cắp thuốc lá, nhưng Ollie bảo không, cậu bé không muốn thế. Luna biết ông ngoại từng đốt nhà một lần rồi; ông đã kể cho cô bé nghe câu chuyện đó. Ông từng cố châm lửa đốt căn nhà có một người phụ nữ bên trong, nhưng người phụ nữ ấy đã chạy thoát. Ông ngoại có rất nhiều câu chuyện đáng sợ kiểu như thế, những việc ông từng làm hoặc muốn làm. “Ông PJ thực sự nói ông ấy yêu quý chúng ta á?” Luna hỏi lại.
 
-“Vâng,” Ollie lại nói dối. “Chú ấy nói thế.”
+“Vâng,” Ollie lại nói dối. “Ông ấy nói thế.”
 
 Luna thừa biết Ollie đang nói dối, nhưng cô bé vẫn để mặc bản thân được an ủi.
 
-“Và nếu chú ấy không thương, chúng ta sẽ lại cùng nhau bỏ trốn. Chúng ta sẽ đi tìm bố của chị,” Ollie hứa hẹn.
+“Và nếu ông ấy không thương, chúng ta sẽ lại cùng nhau bỏ trốn. Chúng ta sẽ đi tìm bố của chị,” Ollie hứa hẹn.
 
 “Được,” Luna đáp. Cô bé cũng đang rất cần được nghe câu đó.
 

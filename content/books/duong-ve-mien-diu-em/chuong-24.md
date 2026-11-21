@@ -18,13 +18,13 @@ PJ chỉ ở lại một mình với lũ trẻ, và ông thấy hơi giống nh�
 
 Ollie bật ti vi lên và lướt qua các kênh. Luna muốn xem một bộ phim tài liệu về cá voi sát thủ. PJ nghĩ nó sẽ khá là u ám, nhưng ông cứ để mặc chúng xem. Dù sao thì nó cũng mang tính giáo dục. Hơn nữa, ông nghĩ cá voi sát thủ sẽ không đến nỗi u ám như loài gấu Bắc Cực. Mấy con cá voi sát thủ đâu cần băng tan trên các tảng băng trôi đâu, phải không?
 
-Chắc chắn PJ đã chợp mắt được một lúc, bởi vì ông giật mình tỉnh dậy khi Luna đập tay vào ngực ông. “Dậy đi, chú PJ. Hết phim rồi. Chú phải kể chuyện trước khi ngủ cho bọn cháu nghe chứ.”
+Chắc chắn PJ đã chợp mắt được một lúc, bởi vì ông giật mình tỉnh dậy khi Luna đập tay vào ngực ông. “Dậy đi, ông PJ. Hết phim rồi. Ông phải kể chuyện trước khi ngủ cho bọn cháu nghe chứ.”
 
-PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Chú bị bệnh tim đấy.”
+PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Ông bị bệnh tim đấy.”
 
 “Con mèo đâu rồi ạ?” Ollie hỏi. “Nó sẽ kể cho bọn cháu nghe.”
 
-“Không, không, chú không bị lên cơn đau tim đâu. Đừng lo, nhóc con, chú ổn mà. Chú mèo chắc đang ở dưới gầm giường thôi.”
+“Không, không, ông không bị lên cơn đau tim đâu. Đừng lo, nhóc con, ông ổn mà. Chú mèo chắc đang ở dưới gầm giường thôi.”
 
 “Kể chuyện đi ạ,” Luna mè nheo. “Cháu không thích đi ngủ mà không có chuyện nghe kể đâu.”
 
@@ -32,7 +32,7 @@ PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Chú bị bệnh tim đấy
 
 “Hồi xưa mẹ hay kể cho bọn cháu nghe về thời trung học,” Ollie nói. “Hoặc về hồi mẹ còn là một cô bé.”
 
-“Vậy được thôi. Chú sẽ kể cho các cháu nghe một câu chuyện thời trung học. Chú sẽ kể về hồi chú gặp Michelle Cobb, người mà chúng ta đang trên đường đến gặp. Người mà chúng ta lái xe một quãng đường dài đến tận Arizona đấy.”
+“Vậy được thôi. Ông sẽ kể cho các cháu nghe một câu chuyện thời trung học. Ông sẽ kể về hồi ông gặp Michelle Cobb, người mà chúng ta đang trên đường đến gặp. Người mà chúng ta lái xe một quãng đường dài đến tận Arizona đấy.”
 
 “Hy vọng câu chuyện hay đấy,” Luna nói. “Cháu sẽ hét lên nếu nó nhàm chán đấy nhé.”
 
@@ -50,7 +50,7 @@ Tại buổi khiêu vũ này, buổi dạ hội này, Michelle Cobb đang đứn
 
 Ricky hầm hầm bỏ đi, và PJ cùng Michelle Cobb nhảy thêm vài điệu nữa. Điệu Jerk, rồi điệu Watusi.
 
-“Đó là tên các điệu nhảy hả chú?” Luna hỏi.
+“Đó là tên các điệu nhảy hả ông?” Luna hỏi.
 
 PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông tua nhanh qua phần còn lại của buổi khiêu vũ, bởi ông đang háo hức muốn kể đến đoạn hấp dẫn nhất của câu chuyện: vụ ẩu đả trong phòng vệ sinh.
 
@@ -58,7 +58,7 @@ PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông 
 
 Ricky hầm hầm bỏ đi, và PJ cùng Michelle Cobb nhảy thêm vài điệu nữa. Điệu Jerk, rồi điệu Watusi.
 
-“Đó là tên các điệu nhảy hả chú?” Luna hỏi.
+“Đó là tên các điệu nhảy hả ông?” Luna hỏi.
 
 PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông tua nhanh qua phần còn lại của buổi khiêu vũ, bởi ông đang háo hức muốn kể đến đoạn hấp dẫn nhất của câu chuyện: vụ ẩu đả trong phòng vệ sinh.
 
@@ -68,7 +68,7 @@ Khuôn mặt Ricky sầm lại, trong ánh mắt hằn lên vẻ sát khí. PJ c
 
 “Này, này, này,” PJ nói với Ricky trong phòng vệ sinh của nhà ăn trường trung học nơi đang diễn ra buổi khiêu vũ. “Bình tĩnh nói chuyện đi nào. Michelle bảo hai người vừa mới bắt đầu hẹn hò, cô ấy bảo cậu đang quá nghiêm túc với cô ấy đấy.” PJ đảo mắt nhìn quanh phòng vệ sinh. Ông thầm hy vọng có ai đó sẽ bước ra từ một buồng vệ sinh để cứu nguy cho mình, nhưng ở đó chẳng còn ai khác ngoài họ. Chỉ có ông, Ricky Fafard và con dao.
 
-“Chú bảo với cậu ta đó chỉ là một điệu nhảy; chú bảo chú là một người ưa hòa bình,” PJ kể lại cho lũ trẻ nghe.
+“Ông bảo với cậu ta đó chỉ là một điệu nhảy; ông bảo ông là một người ưa hòa bình,” PJ kể lại cho lũ trẻ nghe.
 
 Nhưng Ricky Fafard nào có bận tâm. Cậu ta vung dao lao vào PJ. PJ đưa tay lên đỡ để tự vệ, kết quả là ngón tay bị chém một nhát rất sâu. Máu tuôn xối xả khắp nơi. Mạch máu phun ra tựa vòi nước.
 
@@ -80,19 +80,19 @@ PJ nhìn thấy Gene, người dính đầy máu, đang ngồi cạnh một cái
 
 “Thế Gene đã làm gì ạ?” Ollie hỏi.
 
-“Tội nghiệp Gene quay đầu chạy biến. Chú đã làm cậu ta hoảng sợ. Tất nhiên là lúc đó chú cũng lú lẫn vì mất máu quá nhiều. Đến khi cảnh sát có mặt, chú cố gắng giải thích rằng mình chỉ muốn khiêu vũ với bạn gái của Ricky, nhưng lúc đó chú nói năng chẳng còn mạch lạc gì nữa. Cảnh sát đinh ninh rằng chính chú đã đánh tơi bời Ricky, vì cậu ta mới là kẻ đang nằm bất động dưới sàn, thế là họ tống thẳng chú vào nhà giam,” PJ kể. “Ngón tay chú lúc đó chỉ còn dính lủng lẳng bằng một chút da thịt, và nếu không được khâu lại ngay thì chú sẽ chẳng thể đi lính nổi.”
+“Tội nghiệp Gene quay đầu chạy biến. Ông đã làm cậu ta hoảng sợ. Tất nhiên là lúc đó ông cũng lú lẫn vì mất máu quá nhiều. Đến khi cảnh sát có mặt, ông cố gắng giải thích rằng mình chỉ muốn khiêu vũ với bạn gái của Ricky, nhưng lúc đó ông nói năng chẳng còn mạch lạc gì nữa. Cảnh sát đinh ninh rằng chính ông đã đánh tơi bời Ricky, vì cậu ta mới là kẻ đang nằm bất động dưới sàn, thế là họ tống thẳng ông vào nhà giam,” PJ kể. “Ngón tay ông lúc đó chỉ còn dính lủng lẳng bằng một chút da thịt, và nếu không được khâu lại ngay thì ông sẽ chẳng thể đi lính nổi.”
 
 “Sao lại thế ạ?” Luna hỏi.
 
-“Đó là ngón tay bóp cò của chú. Không thể bắn súng nếu thiếu ngón tay đó. Không thể ra trận nếu không có súng.”
+“Đó là ngón tay bóp cò của ông. Không thể bắn súng nếu thiếu ngón tay đó. Không thể ra trận nếu không có súng.”
 
-“Nhưng chú đã đi lính cơ mà,” Ollie nói. “Chính chú bảo thế còn gì.”
+“Nhưng ông đã đi lính cơ mà,” Ollie nói. “Chính ông bảo thế còn gì.”
 
-“Thế nên, các cháu đã biết trước một phần câu chuyện rồi đấy. Chú sẽ kể nốt phần còn lại vào ngày mai, nhưng hôm nay pin của chú cạn sạch rồi.”
+“Thế nên, các cháu đã biết trước một phần câu chuyện rồi đấy. Ông sẽ kể nốt phần còn lại vào ngày mai, nhưng hôm nay pin của ông cạn sạch rồi.”
 
 “Nhưng thế còn Ricky thì sao ạ?” Luna hỏi.
 
-“Cậu ta đập đầu khá mạnh vào bồn rửa mặt và rơi vào trạng thái hôn mê kể từ dạo đó. Bốn mươi lăm năm hôn mê sâu. Ở Bệnh viện Pondville, tầng ba, phòng đầu tiên bên trái. Mẹ cậu ta vẫn đến thăm cậu ta mỗi ngày. Bà ấy nay đã chín mươi mốt tuổi, và chú nghe nói khi bà ấy qua đời, người ta sẽ rút ống thở của cậu ta. Thỉnh thoảng chú vẫn ghé thăm cậu ta. Các y tá cho phép chú tỉa tót bộ râu cho cậu ta; bộ râu chẳng bao giờ ngừng mọc cả.”
+“Cậu ta đập đầu khá mạnh vào bồn rửa mặt và rơi vào trạng thái hôn mê kể từ dạo đó. Bốn mươi lăm năm hôn mê sâu. Ở Bệnh viện Pondville, tầng ba, phòng đầu tiên bên trái. Mẹ cậu ta vẫn đến thăm cậu ta mỗi ngày. Bà ấy nay đã chín mươi mốt tuổi, và ông nghe nói khi bà ấy qua đời, người ta sẽ rút ống thở của cậu ta. Thỉnh thoảng ông vẫn ghé thăm cậu ta. Các y tá cho phép ông tỉa tót bộ râu cho cậu ta; bộ râu chẳng bao giờ ngừng mọc cả.”
 
 “Chuyện đó có thật không ạ?” Ollie hỏi.
 
@@ -100,7 +100,7 @@ PJ nhìn thấy Gene, người dính đầy máu, đang ngồi cạnh một cái
 
 “Thế nghĩa là không có thật ạ.”
 
-“Khi nào chúng ta quay lại Pondville, nếu tụi mình thực sự quay về Pondville, chú sẽ dẫn các cháu đi gặp Ricky.”
+“Khi nào chúng ta quay lại Pondville, nếu tụi mình thực sự quay về Pondville, ông sẽ dẫn các cháu đi gặp Ricky.”
 
 “Cháu rất thích điều đó,” Ollie đồng tình.
 
@@ -108,17 +108,17 @@ PJ nhìn thấy Gene, người dính đầy máu, đang ngồi cạnh một cái
 
 “Sao thế cháu?”
 
-“Cảm ơn chú vì đã không kể cho bọn cháu nghe một câu chuyện nhảm nhí dành cho trẻ con. Cảm ơn chú vì đã kể một câu chuyện thực tế.”
+“Cảm ơn ông vì đã không kể cho bọn cháu nghe một câu chuyện nhảm nhí dành cho trẻ con. Cảm ơn ông vì đã kể một câu chuyện thực tế.”
 
 PJ hiểu tại sao Luna lại muốn nghe một câu chuyện thực tế, rằng cô bé muốn được đối xử nghiêm túc, và tại sao cô bé lại không muốn bị bỏ mặc trong sự nhàm chán. Cảm giác chán chường chẳng có gì là vui thú cả. Đó cũng là một trong những điều mà rượu mang lại tác dụng. Nhưng PJ còn có thứ khác có thể khiến lũ trẻ phấn khích hơn. Ông thọc tay vào túi và lấy ra một chiếc hộp nhỏ. Ông đưa cho bọn trẻ xem chiếc nhẫn mà ông chuẩn bị sẵn cho Michelle Cobb. Một chiếc nhẫn kim cương nhỏ lấp lánh.
 
 “Ồ,” Luna thốt lên. “Nó là thật ạ?”
 
-“Thật chứ. Chú định ngỏ lời cầu hôn Michelle Cobb để cô ấy cùng chú trải qua phần đời còn lại.”
+“Thật chứ. Ông định ngỏ lời cầu hôn Michelle Cobb để cô ấy cùng ông trải qua phần đời còn lại.”
 
 “Gớm thật đấy,” Ollie bình luận.
 
-“Đây là một thời điểm vô cùng hào hứng đối với chú, và chú rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Chú sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”
+“Đây là một thời điểm vô cùng hào hứng đối với ông, và ông rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Ông sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”
 
 “Chúc chú PJ ngủ ngon ạ,” hai đứa trẻ đồng thanh đáp, và chúng nói tự nhiên cứ như thể cả hai đã chúc chú PJ ngủ ngon hàng ngàn lần trước đó rồi. Trẻ con quả thật rất dễ thích nghi, PJ thầm nghĩ. Thật là kỳ diệu.
 

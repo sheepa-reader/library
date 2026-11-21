@@ -10,11 +10,11 @@
 
 Ollie nhún vai. “Chắc là phép thuật thôi,” cậu bé nói.
 
-“Thôi, chúng ta cứ đi mà không cần có chú ấy,” Luna nói. “Chốc nữa quay lại tìm cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”
+“Thôi, chúng ta cứ đi mà không cần có ông ấy,” Luna nói. “Chốc nữa quay lại tìm cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”
 
 “Để chị tìm quanh đây vài phút đã,” Sophie nói. Cô bước ra khỏi chiếc giường ngủ chung với lũ trẻ và nhìn ra ngoài cửa sổ. Chiếc Volvo màu đỏ vẫn ở đó, nằm yên vị trong bãi đỗ. Dù bố có đi đâu đi nữa, ông cũng đi bằng đôi chân của mình. Sophie thừa biết Luna nói đúng, có lẽ họ nên cứ đi mà không cần đợi ông. Bố cần phải bị trừng phạt, thực sự bị trừng phạt vì điều gì đó cho bõ tức. Nhưng cô không thể bỏ lại bố mình đằng sau được, dù ông đã làm gì đi nữa. Không thể bỏ mặc ông chết quách ở Purity Springs này. Mẹ đã nhờ Sophie chăm sóc bố khi mẹ vắng nhà rồi.
 
-“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Chú ấy mang theo cả chú mèo rồi.”
+“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Ông ấy mang theo cả chú mèo rồi.”
 
 Ollie thấy vô cùng mãn nguyện. Mọi chuyện đang diễn ra đúng như ý muốn. Giờ thì cậu bé không phải sống trong cái tủ quần áo ở một căn biệt thự nào nữa. Cậu bé cũng không phải thành món quà từ thiện của Mark Stackpole. Luna tuyệt đối sẽ không đời nào bỏ lại chú mèo, ngay cả khi chuẩn bị đi gặp gã đàn ông trên TV mà cô bé hằng mơ ước làm bố mình.
 
@@ -66,7 +66,7 @@ Luna dậm chân thình thịch vì tức giận. “Chúng ta phải đi ngay l
 
 “Chị biết em không xấu tính.”
 
-“Đừng lo, Sophie, tụi mình sẽ tìm được chú ấy!” Ollie gọi với ra, vẫn ngồi trong xe nhưng rướn nửa người qua cửa sổ. “Tụi mình sẽ không bao giờ bỏ cuộc đâu!”
+“Đừng lo, Sophie, tụi mình sẽ tìm được ông ấy!” Ollie gọi với ra, vẫn ngồi trong xe nhưng rướn nửa người qua cửa sổ. “Tụi mình sẽ không bao giờ bỏ cuộc đâu!”
 
 Sophie lắc đầu. Nghe câu nói đó, cô chỉ muốn khóc. Sẽ thật khó khăn cho mấy đứa nhỏ nếu chúng cứ mãi bám chấp lấy bố cô. Sophie nhìn vào điện thoại của mình. Cô biết mình phải làm gì tiếp theo. Cô phải bắt đầu gọi điện cho các bệnh viện, và sau đó là nhà giam quận. Nhưng ở Quán rượu The Half-Moon lại chẳng có sóng điện thoại. Cô sẽ phải lái xe quay ngược lại hướng Boar’s Tooth Motel. “Lên xe nào,” cô nói.
 
@@ -82,7 +82,7 @@ Sophie lắc đầu. Nghe câu nói đó, cô chỉ muốn khóc. Sẽ thật kh
 
 “Gì thế?” Sophie hỏi. “Cái gì vậy?”
 
-“Dừng xe lại!” Luna la oai oái. “Dừng xe lại! Đừng đè vào chú ấy!”
+“Dừng xe lại!” Luna la oai oái. “Dừng xe lại! Đừng đè vào ông ấy!”
 
 Sophie đạp thốc phanh. “Có chuyện gì thế?”
 
@@ -116,11 +116,11 @@ Thực ra đó không phải là một vụ tông xe rồi bỏ chạy, nhưng S
 
 “Chú PJ, cháu rất mừng vì chú còn sống,” Ollie nói. “Chúng cháu đã lo lắng lắm.”
 
-“Cháu không định bỏ mặc chú đâu,” Luna nói. “Dù chú đang phá hủy cơ hội hạnh phúc của cháu, cháu cũng không định bỏ mặc chú đâu.” Cả hai đứa trẻ lúc này đều đang ôm chầm lấy ông.
+“Cháu không định bỏ mặc ông đâu,” Luna nói. “Dù ông đang phá hủy cơ hội hạnh phúc của cháu, cháu cũng không định bỏ mặc ông đâu.” Cả hai đứa trẻ lúc này đều đang ôm chầm lấy ông.
 
 PJ nhắm mắt lại. Phải rồi, hôm nay là ngày ông phải đưa cô bé đi gặp người đàn ông mà Luna đinh ninh là cha cô bé, và thay vào đó, cô bé đã dành cả buổi sáng để đi tìm ông, tìm thấy ông nằm trong một lùm cây bên vệ đường.
 
-“Cẩn thận hai đứa,” Sophie nói. “Đừng ôm chú ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”
+“Cẩn thận hai đứa,” Sophie nói. “Đừng ôm ông ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”
 
 “Chỉ đầu chú thôi. Chỉ có đầu chú đau thôi.”
 
@@ -128,7 +128,7 @@ PJ nhắm mắt lại. Phải rồi, hôm nay là ngày ông phải đưa cô b�
 
 Nhưng PJ có thể đứng lên, và chầm chậm, ông đã làm được vậy. Ông vòng tay qua vai Sophie, và họ bước lên bờ cỏ dốc hướng về phía chiếc Volvo. PJ run rẩy như một chú lạc đà alpaca con trên đôi chân mới tập đi, nhưng ông vẫn có thể bước đi. Ông có thể vượt qua phần ta luy dốc đứng.
 
-“Cho chú ấy lên xe rồi đi thôi,” Luna nói. “Chúng ta đến buổi gặp gỡ đi.”
+“Cho ông ấy lên xe rồi đi thôi,” Luna nói. “Chúng ta đến buổi gặp gỡ đi.”
 
 “Không, không, không,” Sophie nói. “Chúng ta phải đến bệnh viện.”
 

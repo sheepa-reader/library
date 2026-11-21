@@ -6,7 +6,7 @@
 <p class="para-vi-sub">Quay lại ngôi nhà, sau khi đã đánh răng, cho bọn trẻ lên giường đi ngủ và mọi thứ đã dịu xuống, ông ngồi trên một chiếc ghế đặt cạnh giường. Đó là chiếc ghế văn phòng có thể xoay do Fred sử dụng. Chú mèo nhảy lên đùi ông. Luna nằm ở giường tầng dưới, còn Ollie ở tầng trên.</p>
 
 <p class="para-en">“So, tell me about this guy,” PJ said to Luna. “The man you think is your father.”</p>
-<p class="para-vi-sub">“Thế nên, hãy kể cho chú nghe về người này đi cháu,” ông nói với Luna. “Người mà cháu nghĩ là bố cháu ấy.”</p>
+<p class="para-vi-sub">“Thế nên, hãy kể cho ông nghe về người này đi cháu,” ông nói với Luna. “Người mà cháu nghĩ là bố cháu ấy.”</p>
 
 <p class="para-en">Luna looked at him for a minute, considering whether she could trust this old man, but she could see the cat liked him, and Luna liked the cat. She reached under her pillow, brought out a glossy portrait. An actor’s headshot. It was signed: All my love, Mark Stackpole. PJ took it from her gingerly, trying to keep his fingers only at the edge so he didn’t leave greasy fingerprints on the photograph. “Oh dear,” he said. “He sent you this?”</p>
 <p class="para-vi-sub">Luna nhìn ông một phút, cân nhắc xem mình có thể tin tưởng ông già này không, nhưng cô bé thấy chú mèo thích ông, và cô bé cũng thích chú mèo. Cô bé thò tay xuống dưới gối, lấy ra một bức ảnh bóng bẩy. Ảnh chân dung của một diễn viên. Trên ảnh có chữ ký: Gửi tất cả tình yêu của anh, Mark Stackpole. Ông cầm lấy bức ảnh từ tay cô bé thận trọng, cố chỉ chạm ngón tay vào rìa để không để lại dấu vân tay nhờ nhờ trên bức ảnh. “Trời ạ,” ông nói. “Cậu ta gửi bức ảnh này cho cháu á?”</p>
@@ -18,16 +18,16 @@
 <p class="para-vi-sub">Ông ngắm nghía bức ảnh chân dung trên tay. “Đẹp trai phết nhỉ. Cháu trông cũng hơi giống anh ta đấy.”</p>
 
 <p class="para-en">Luna sat up. “You think so?” she asked.</p>
-<p class="para-vi-sub">Luna ngồi bật dậy. “Chú nghĩ vậy thật ạ?” cô bé hỏi.</p>
+<p class="para-vi-sub">Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.</p>
 
 <p class="para-en">“Yes,” PJ said, glad to hear the kid’s voice for the first time. “I do. I really do.”</p>
-<p class="para-vi-sub">“Đúng thế,” ông nói, cảm thấy vui mừng khi nghe giọng nói của đứa trẻ lần đầu tiên. “Chú nghĩ thế. Thật đấy.”</p>
+<p class="para-vi-sub">“Đúng thế,” ông nói, cảm thấy vui mừng khi nghe giọng nói của đứa trẻ lần đầu tiên. “Ông nghĩ thế. Thật đấy.”</p>
 
 <p class="para-en">“Can you get me a DNA test?”</p>
-<p class="para-vi-sub">“Chú kiếm cho cháu một bài xét nghiệm ADN được không?”</p>
+<p class="para-vi-sub">“Ông kiếm cho cháu một bài xét nghiệm ADN được không?”</p>
 
 <p class="para-en">“Well, I wouldn’t know the first thing about a DNA test. But I can take you to LA to meet this guy.”</p>
-<p class="para-vi-sub">“À, chú thì mù tịt về ba cái vụ xét nghiệm ADN. Nhưng chú có thể đưa cháu đến Los Angeles để gặp người này.”</p>
+<p class="para-vi-sub">“À, ông thì mù tịt về ba cái vụ xét nghiệm ADN. Nhưng ông có thể đưa cháu đến Los Angeles để gặp người này.”</p>
 
 <p class="para-en">“You can?”</p>
 <p class="para-vi-sub">“Cháu đi được ạ?”</p>
@@ -57,10 +57,10 @@
 <p class="para-vi-sub">“Thế còn đi máy bay thì sao ạ? Chúng ta đi máy bay được không? Ollie toàn đánh rắm trên ô tô thôi.”</p>
 
 <p class="para-en">“Good question, kiddo, but here’s the thing: And I don’t want to scare you, because I know your parents just passed away, but I’m getting to be an old man and I’ve never been on a big adventure. I went on one adventure, but the United States government made me go, and I almost didn’t survive.”</p>
-<p class="para-vi-sub">“Câu hỏi hay đấy, nhóc con ạ, nhưng cơ sự là thế này: Chú không muốn làm cháu sợ đâu, vì chú biết bố mẹ các cháu vừa mới qua đời, nhưng chú đang già đi và chưa từng có một chuyến phiêu lưu lớn nào trong đời. Chú từng có một chuyến phiêu lưu, nhưng là do chính phủ Hợp chủng quốc bắt chú đi, và suýt chút nữa thì chú không sống nổi mà về.”</p>
+<p class="para-vi-sub">“Câu hỏi hay đấy, nhóc con ạ, nhưng cơ sự là thế này: Ông không muốn làm cháu sợ đâu, vì ông biết bố mẹ các cháu vừa mới qua đời, nhưng ông đang già đi và chưa từng có một chuyến phiêu lưu lớn nào trong đời. Ông từng có một chuyến phiêu lưu, nhưng là do chính phủ Hợp chủng quốc bắt ông đi, và suýt chút nữa thì ông không sống nổi mà về.”</p>
 
 <p class="para-en">“You were in the CIA?” Ollie asked, piping up from the top bunk.</p>
-<p class="para-vi-sub">“Chú từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.</p>
+<p class="para-vi-sub">“Ông từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.</p>
 
 <p class="para-en">PJ shook his head. “I was in the war.”</p>
 <p class="para-vi-sub">Ông lắc đầu. “Chú đi lính trong chiến tranh.”</p>
@@ -117,10 +117,10 @@
 <p class="para-vi-sub">Luna cảm thấy vô cùng ấn tượng với Ollie. Thường ngày cậu bé chẳng lanh lợi thế này bao giờ. Cô bé mới là đứa lanh lợi, còn cậu em chỉ toàn hùa theo cô bé. Cô bé thầm thấy hối hận vì đã bỏ lại cậu em khi cô bé bỏ nhà đi.</p>
 
 <p class="para-en">“I mean, it’s basically summer break already, huh?” PJ said, thinking it over. He remembered Ivy always said there was no real school in June anyway, it was just packing up the classroom and the kids goofing off.</p>
-<p class="para-vi-sub">“Ý chú là, tính ra thì bây giờ cũng coi như là nghỉ hè rồi còn gì, đúng không?” PJ vừa nói vừa ngẫm nghĩ. Ông nhớ Ivy vẫn hay bảo đằng nào thì tháng Sáu cũng có học hành gì mấy đâu, toàn là dọn dẹp lớp học với lũ trẻ nghịch phá khắp nơi.</p>
+<p class="para-vi-sub">“Ý ông là, tính ra thì bây giờ cũng coi như là nghỉ hè rồi còn gì, đúng không?” PJ vừa nói vừa ngẫm nghĩ. Ông nhớ Ivy vẫn hay bảo đằng nào thì tháng Sáu cũng có học hành gì mấy đâu, toàn là dọn dẹp lớp học với lũ trẻ nghịch phá khắp nơi.</p>
 
 <p class="para-en">“Yup, we’re only going to watch movies for the rest of the year,” Luna said, practically reading PJ’s mind. “You can show us some movies if you want. Your favorite movies.” Luna knew adults love to show kids their favorite movies, and she wanted to leave before PJ changed his mind about taking her to meet her father. And Luna did not want to go back to that school where she hated everyone. The talent show was coming up and she already knew Elsie Dawson, the girl who played Tinker Bell last year, would win, and Luna wouldn’t be able to punch her again because the teachers would be watching her the whole time.</p>
-<p class="para-vi-sub">“Đúng vậy, bọn cháu chỉ xem phim trong suốt phần còn lại của năm thôi,” Luna nói, như thể đọc được suy nghĩ của PJ. “Chú có thể cho bọn cháu xem vài bộ phim nếu chú thích. Những bộ phim yêu thích của chú ấy.” Luna biết người lớn thích cho lũ trẻ xem những bộ phim yêu thích của họ, và cô bé muốn rời đi trước khi PJ đổi ý về việc đưa mình đi gặp bố. Và Luna không muốn quay lại cái ngôi trường mà cô bé căm ghét tất cả mọi người ở đó. Hội diễn tài năng sắp diễn ra và cô bé thừa biết Elsie Dawson, đứa con gái đóng vai Tinker Bell năm ngoái, sẽ giành chiến thắng, và Luna sẽ không thể đấm cô bé đó thêm lần nữa vì các giáo viên sẽ canh chừng cô bé suốt thời gian đó.</p>
+<p class="para-vi-sub">“Đúng vậy, bọn cháu chỉ xem phim trong suốt phần còn lại của năm thôi,” Luna nói, như thể đọc được suy nghĩ của PJ. “Ông có thể cho bọn cháu xem vài bộ phim nếu ông thích. Những bộ phim yêu thích của ông ấy.” Luna biết người lớn thích cho lũ trẻ xem những bộ phim yêu thích của họ, và cô bé muốn rời đi trước khi PJ đổi ý về việc đưa mình đi gặp bố. Và Luna không muốn quay lại cái ngôi trường mà cô bé căm ghét tất cả mọi người ở đó. Hội diễn tài năng sắp diễn ra và cô bé thừa biết Elsie Dawson, đứa con gái đóng vai Tinker Bell năm ngoái, sẽ giành chiến thắng, và Luna sẽ không thể đấm cô bé đó thêm lần nữa vì các giáo viên sẽ canh chừng cô bé suốt thời gian đó.</p>
 
 <p class="para-en">PJ thought it over. He did want to get out of town before prom, before he started to miss Kate so much it ached. Kate used to smile and say to him after a softball game: “How much money did you lose betting against us?” It was their joke, that he was always betting against her, even though nothing could have been further from the truth. PJ wanted to leave Pondville before he started seeing balloons in the yard for graduation parties, signs that read Congratulations, Graduate! because Kate had never made it that far.</p>
 <p class="para-vi-sub">PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị trấn trước kỳ vũ hội tốt nghiệp, trước khi ông bắt đầu nhớ Kate đến mức đau thắt cả ruột gan. Kate thường mỉm cười và nói với ông sau một trận bóng mềm rằng: “Bố thua bao nhiêu tiền khi cược chống lại bọn con thế?” Đó là câu nói đùa giữa hai bố con, rằng ông lúc nào cũng cược cho đội đối thủ, dù sự thật hoàn toàn trái ngược. PJ muốn rời khỏi Pondville trước khi ông bắt đầu nhìn thấy những chùm bóng bay mừng tốt nghiệp giăng đầy sân, những tấm biển đề dòng chữ Chúc mừng tân tú tài! bởi vì Kate chưa bao giờ sống đến ngày đó.</p>
@@ -153,13 +153,13 @@
 <p class="para-vi-sub">“Dạ?”</p>
 
 <p class="para-en">“I want you to know, my brother was a total asshole. Your grandfather. He was mentally ill, and that wasn’t his fault, but he was also an asshole. A person can be both those things, and you don’t have to forgive him for whatever cruel thing he did to you. Maybe you loved him but I’m guessing you didn’t.”</p>
-<p class="para-vi-sub">“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng chú đoán là không đâu.”</p>
+<p class="para-vi-sub">“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”</p>
 
 <p class="para-en">“Luna, I didn’t tell him about it,” Ollie said. “I promise. I swear.”</p>
-<p class="para-vi-sub">“Luna, em không hề kể gì cho chú ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”</p>
+<p class="para-vi-sub">“Luna, em không hề kể gì cho ông ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”</p>
 
 <p class="para-en">“He didn’t tell me anything,” PJ said. “That’s the truth. I just know my brother was an asshole and I could see he hurt you somehow, when you played the piano. I could tell. But he was an asshole, and it’s good he’s gone now. We should be happy about that.”</p>
-<p class="para-vi-sub">“Cậu bé không hề kể gì với chú đâu,” PJ nói. “Đó là sự thật. Chú chỉ biết anh trai mình là một kẻ khốn nạn và chú có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Chú nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”</p>
+<p class="para-vi-sub">“Cậu bé không hề kể gì với ông đâu,” PJ nói. “Đó là sự thật. Ông chỉ biết anh trai mình là một kẻ khốn nạn và ông có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Ông nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”</p>
 
 <p class="para-en">“Okay,” Luna said, quietly. “Thanks, Uncle PJ.” Then she closed her eyes tight before opening them again to see if she felt any different, now that she had heard someone say something aloud she had wished and wished her parents had said. That it was good her grandpa was dead, and she didn’t have to forgive him. When she opened her eyes there were stars on the ceiling, because PJ had turned on the star projector that he’d bought at IKEA, in case the kids were afraid of the dark. His older daughter had always slept with a nightlight and the door open, even as a teen.</p>
 <p class="para-vi-sub">“Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn chú PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.</p>

@@ -39,13 +39,13 @@
 <p class="para-vi-sub">Rời xa con gái, PJ đi một vòng quanh bảo tàng túi xách, ôm chú mèo trên tay. Người phụ nữ ở quầy tiếp tân nói rằng mang mèo vào thì hoàn toàn được, miễn là chú mèo phải được xích lại. PJ vốn chuẩn bị tâm lý là sẽ thấy chán ngắt khi ở trong bảo tàng, nhưng những chiếc ví được phân chia theo từng thập kỷ, và tim ông như thắt lại khi nhìn thấy khu trưng bày ví từ những năm 1950. Ông có thể hình dung ra cảnh mẹ mình đang xách một chiếc như thế. Chiếc ví bằng vải nhung màu tím với chiếc khóa bằng bạc. Mẹ của PJ đã qua đời được mười năm rồi, và bà vẫn thỉnh thoảng xuất hiện trong tâm trí ông, hoàn toàn sống động. Ông nghĩ về việc bà sẽ tự hào biết bao về ông, vì đã đi du lịch khắp đất nước giống như bà từng làm. Vì cuối cùng cũng nhận ra rằng thế giới này rộng lớn hơn Pondville rất nhiều. Tất cả những câu chuyện tuyệt diệu mà mẹ thường kể cho ông nghe về những chuyến đi của bà vào giờ đi ngủ, khi hai mẹ con cuộn tròn bên chú chó Arthur thuộc giống Yorkshire lai của họ, và giờ đây chính ông cũng đã có những câu chuyện của riêng mình. Ông cảm thấy lòng biết ơn ngập tràn dành cho lũ trẻ, những đứa trẻ đã kéo ông ra khỏi ngôi nhà và đưa ông lên những cung đường.</p>
 
 <p class="para-en">“It’s really wonderful for me to do this with you all,” PJ told the kids and the cat once they were back in the car. “I’m sixty-three and I’ve never traveled. Never been anywhere.”</p>
-<p class="para-vi-sub">Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc chú cùng làm điều này với các cháu thật sự rất tuyệt vời. Chú sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”</p>
+<p class="para-vi-sub">Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc ông cùng làm điều này với các cháu thật sự rất tuyệt vời. Ông sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”</p>
 
 <p class="para-en">“What about Vietnam?” Luna asked, as she held Pancakes in her arms. “You’ve been to Vietnam. And you said you’ve already been to Texas before.” They would be in Texas soon, crossing the border from Arkansas. Luna couldn’t wait.</p>
-<p class="para-vi-sub">Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Chú từng đến Việt Nam mà. Và chú cũng bảo là chú từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.</p>
+<p class="para-vi-sub">Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Ông từng đến Việt Nam mà. Và ông cũng bảo là ông từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.</p>
 
 <p class="para-en">“Yup, Bastrop. But I was stuck at the training camp, didn’t travel around at all. Nothing special about Camp Swift.”</p>
-<p class="para-vi-sub">“Ừ, Bastrop. Nhưng chú bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”</p>
+<p class="para-vi-sub">“Ừ, Bastrop. Nhưng ông bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”</p>
 
 <p class="para-en">“What about Vietnam?”</p>
 <p class="para-vi-sub">“Thế còn Việt Nam?”</p>
@@ -63,13 +63,13 @@
 <p class="para-vi-sub">Sophie mắng: “Bố!” dù cô mới chính là người hay văng tục nhiều nhất.</p>
 
 <p class="para-en">“Who shot you? The enemy?” Ollie asked. “Did you shoot him back?”</p>
-<p class="para-vi-sub">Ollie hỏi: “Ai bắn chú thế? Kẻ địch à? Chú có bắn trả hắn không?”</p>
+<p class="para-vi-sub">Ollie hỏi: “Ai bắn ông thế? Kẻ địch à? Ông có bắn trả hắn không?”</p>
 
 <p class="para-en">“Nope. I looked him in the eye, and I told him I was sorry.”</p>
 <p class="para-vi-sub">“Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”</p>
 
 <p class="para-en">“Oh.” Ollie was disappointed. “Right, because you were a pacifist.”</p>
-<p class="para-vi-sub">Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì chú là một người theo chủ nghĩa hòa bình.”</p>
+<p class="para-vi-sub">Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì ông là một người theo chủ nghĩa hòa bình.”</p>
 
 <p class="para-en">“Well, that. And because the man who shot me was my brother.”</p>
 <p class="para-vi-sub">“À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”</p>
@@ -93,7 +93,7 @@
 <p class="para-vi-sub">Sophie nhún vai. Cô đã cố gắng cảnh báo rồi đấy chứ.</p>
 
 <p class="para-en">PJ nodded. He knew these kids liked stories, real stories, good ones. “Well, one day, my brother, Chip, older than me by eleven years, and a commander in the army, he found me in the canteen and told me to run. He shot me twice in the ass when I did. When I was on the ground, he stood over me, and I think was going to kill me, but I said I was sorry, and I loved him, and I was sorry we weren’t real brothers. Chip didn’t know what to do with that, because no man had ever told him he loved him before.”</p>
-<p class="para-vi-sub">PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai chú là Chip, lớn hơn chú mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được chú ở căng tin rồi bảo chú chạy đi. Cậu ta bắn thẳng hai phát vào mông chú lúc chú vừa cắm cổ chạy. Khi chú ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, chú cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng chú lại bảo chú xin lỗi, rằng chú rất yêu quý anh ấy, và chú tiếc vì bọn chú không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”</p>
+<p class="para-vi-sub">PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai ông là Chip, lớn hơn ông mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được ông ở căng tin rồi bảo ông chạy đi. Cậu ta bắn thẳng hai phát vào mông ông lúc ông vừa cắm cổ chạy. Khi ông ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, ông cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng ông lại bảo ông xin lỗi, rằng ông rất yêu quý anh ấy, và ông tiếc vì bọn ông không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”</p>
 
 <p class="para-en">“So, what did he do?”</p>
 <p class="para-vi-sub">“Thế rồi ông ấy làm gì ạ?”</p>
@@ -114,7 +114,7 @@
 <p class="para-vi-sub">“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”</p>
 
 <p class="para-en">Ollie leaned forward in his seat, straining against the seatbelt. “With your mother? But he hated her! He shot you!”</p>
-<p class="para-vi-sub">Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả chú nữa chứ!”</p>
+<p class="para-vi-sub">Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả ông nữa chứ!”</p>
 
 <p class="para-en">“She was trying to help him out; his father was dead, he had nowhere to live, and I think she felt that because he hadn’t killed me, it was all right. She was trying to make it up to him, for leaving him behind when she did. But then he burnt down her house.”</p>
 <p class="para-vi-sub">“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”</p>
@@ -132,22 +132,22 @@
 <p class="para-vi-sub">“Chuẩn rồi con,” PJ xác nhận.</p>
 
 <p class="para-en">“I wish you’d shot him back,” Luna said. “In the canteen.”</p>
-<p class="para-vi-sub">Luna lẩm bẩm: “Cháu ước gì chú bắn trả lại hắn. Ngay ở căng tin ấy.”</p>
+<p class="para-vi-sub">Luna lẩm bẩm: “Cháu ước gì ông bắn trả lại hắn. Ngay ở căng tin ấy.”</p>
 
 <p class="para-en">“Yeah, kiddo. Sometimes I wish that too.”</p>
-<p class="para-vi-sub">“Ừ, nhóc con. Lắm lúc chú cũng ước mình làm thế.”</p>
+<p class="para-vi-sub">“Ừ, nhóc con. Lắm lúc ông cũng ước mình làm thế.”</p>
 
 <p class="para-en">“And you came back to Pondville after Vietnam too?” Ollie asked. “And you never left?”</p>
-<p class="para-vi-sub">Ollie hỏi tiếp: “Rồi chú cũng quay lại Pondville sau chiến tranh nữa ạ? Và chú chưa từng rời đi lần nào nữa sao?”</p>
+<p class="para-vi-sub">Ollie hỏi tiếp: “Rồi ông cũng quay lại Pondville sau chiến tranh nữa ạ? Và ông chưa từng rời đi lần nào nữa sao?”</p>
 
 <p class="para-en">“Moved in with a buddy of mine. And then I met Ivy, and we got married, and she got a job, and I got one too. And I vowed never to leave my family like my mom had left hers. I understand why my mom did what she did, but I vowed I would never get a divorce. I would never leave my kids.”</p>
-<p class="para-vi-sub">“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng chú tự hứa với lòng mình sẽ không bao giờ ly hôn. Chú sẽ không bao giờ bỏ rơi các con của mình.”</p>
+<p class="para-vi-sub">“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”</p>
 
 <p class="para-en">“But you did get a divorce,” Ollie said.</p>
-<p class="para-vi-sub">Ollie vặn lại: “Nhưng chú đã ly hôn còn gì.”</p>
+<p class="para-vi-sub">Ollie vặn lại: “Nhưng ông đã ly hôn còn gì.”</p>
 
 <p class="para-en">“Not my choice.”</p>
-<p class="para-vi-sub">“Đâu phải do chú chọn.”</p>
+<p class="para-vi-sub">“Đâu phải do ông chọn.”</p>
 
 <p class="para-en">Sophie was annoyed. “Dad, you really can’t act like it’s Mom’s fault you got a divorce—”</p>
 <p class="para-vi-sub">Sophie cảm thấy bực dọc vô cùng. “Bố, bố thực sự không thể cứ ăn nói như thể lỗi ly hôn hoàn toàn thuộc về mẹ được...”</p>
@@ -156,10 +156,10 @@
 <p class="para-vi-sub">“Bố có nói là bố đổ lỗi cho mẹ con vì chuyện bỏ đi đâu. Đổi lại là bố thì bố cũng chuồn ngay từ lâu rồi. Nhưng bố chưa bao giờ muốn ly hôn cả. Bố sẽ yêu bà ấy đến tận hơi thở cuối cùng.”</p>
 
 <p class="para-en">“But then you wouldn’t have gotten a second chance with Michelle Cobb,” Ollie pointed out.</p>
-<p class="para-vi-sub">Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì chú đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”</p>
+<p class="para-vi-sub">Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì ông đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”</p>
 
 <p class="para-en">“You’re right,” PJ said. “I wouldn’t have gotten a second chance with Michelle Cobb.”</p>
-<p class="para-vi-sub">PJ đáp: “Cháu nói chuẩn đấy. Chú đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”</p>
+<p class="para-vi-sub">PJ đáp: “Cháu nói chuẩn đấy. Ông đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”</p>
 
 <p class="para-en">“And Michelle Cobb is the best thing that will ever happen to you.”</p>
 <p class="para-vi-sub">“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”</p>

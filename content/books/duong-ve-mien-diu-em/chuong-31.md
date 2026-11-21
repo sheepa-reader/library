@@ -16,13 +16,13 @@ Luna nâng cốc nước chanh lên còn Ollie nâng ly cà phê của cậu bé
 
 Lúc bữa trưa kết thúc, Traci ôm từ giã PJ và dặn ông nhớ giữ liên lạc.
 
-“Đừng có mà ôm mộng tưởng gì đấy,” Ollie nói. “Chú ấy đang định kết hôn với Michelle Cobb cơ mà.”
+“Đừng có mà ôm mộng tưởng gì đấy,” Ollie nói. “Ông ấy đang định kết hôn với Michelle Cobb cơ mà.”
 
 Traci bật cười. “Tôi dám mơ tới chắc.”
 
 Lúc họ quay lại xe, ai nấy đều đã được ăn uống no nê kể cả chú mèo, Ollie liền nài nỉ nghe phần còn lại của câu chuyện về Michelle Cobb.
 
-Luna hùa theo: “Đúng thế, chú PJ. Chuyện gì đã xảy ra sau khi chú vào tù vậy ạ?”
+Luna hùa theo: “Đúng thế, ông PJ. Chuyện gì đã xảy ra sau khi ông vào tù vậy ạ?”
 
 “Lẽ ra chúng ta phải để dành chuyện đó đến giờ đi ngủ chứ,” PJ đáp, nhưng ngẫm lại thì họ vẫn còn một chặng đường dài phải đi trên ô tô. Ohio quả là một bang rộng lớn.
 
@@ -94,15 +94,15 @@ Gene dìu PJ ra chiếc xe hơi, rồi Michelle nói cô phải quay lại bên 
 
 PJ tự hỏi liệu mình có nên nói gì không, nhưng thay vào đó, cậu nhắm nghiền mắt lại và chờ đợi để được đến gặp bác sĩ. Michelle Cobb quá đỗi ngọt ngào, nếu biết sự thật thì điều đó sẽ để lại vết sẹo trong tâm hồn cô mãi mãi. Thật tốt hơn khi cứ để cô nghĩ rằng mình đã giúp người đàn ông đó bằng cách mua cho ông ta gói bánh quy mặn từ máy bán hàng tự động. Thật tốt hơn khi để cô tin rằng mình vừa làm một việc tốt.
 
-“Thế sao chú không cưới Michelle Cobb?” Ollie hỏi. “Nếu cô ấy là điều tuyệt vời nhất từng đến với chú?”
+“Thế sao ông không cưới Michelle Cobb?” Ollie hỏi. “Nếu cô ấy là điều tuyệt vời nhất từng đến với ông?”
 
-“Họ có khâu lại ngón tay cho chú không?” Luna hỏi. “Cháu xem vết sẹo được không?”
+“Họ có khâu lại ngón tay cho ông không?” Luna hỏi. “Cháu xem vết sẹo được không?”
 
-PJ giơ bàn tay lên và có một vết sẹo ngoằn ngoèo rõ mồn một quấn quanh ngón trỏ của ông. “Nó đã mờ dần theo thời gian rồi,” ông nói, và Luna tỏ ra hài lòng. “Còn về Michelle, thì cô ấy đã chọn Gene. Đó là lựa chọn an toàn hơn, chú hiểu được. Cậu ta được hoãn nghĩa vụ quân sự vì lý do y tế, nên không phải đi chiến đấu ở Việt Nam. Bệnh gai xương gót chân cái nỗi gì chứ. Cháu đã bao giờ nghe nói về bệnh gai xương gót chân chưa?”
+PJ giơ bàn tay lên và có một vết sẹo ngoằn ngoèo rõ mồn một quấn quanh ngón trỏ của ông. “Nó đã mờ dần theo thời gian rồi,” ông nói, và Luna tỏ ra hài lòng. “Còn về Michelle, thì cô ấy đã chọn Gene. Đó là lựa chọn an toàn hơn, ông hiểu được. Cậu ta được hoãn nghĩa vụ quân sự vì lý do y tế, nên không phải đi chiến đấu ở Việt Nam. Bệnh gai xương gót chân cái nỗi gì chứ. Cháu đã bao giờ nghe nói về bệnh gai xương gót chân chưa?”
 
 Hai đứa trẻ chưa từng nghe bao giờ.
 
-“Nhưng giờ chú lại có cơ hội thứ hai với Michelle Cobb rồi. Điều tuyệt vời nhất từng xảy ra với chú vẫn có thể xảy ra. Vẫn chưa quá muộn đâu.”
+“Nhưng giờ ông lại có cơ hội thứ hai với Michelle Cobb rồi. Điều tuyệt vời nhất từng xảy ra với ông vẫn có thể xảy ra. Vẫn chưa quá muộn đâu.”
 
 “Và điều tồi tệ nhất thì đã xảy ra rồi,” Luna nói.
 

@@ -16,9 +16,9 @@ Bố cô gật đầu. “Cũng tốt khi cho bản thân thời gian hồi ph�
 
 “Chú PJ phải kể chuyện trước khi ngủ chứ ạ,” Luna nói. “Một câu chuyện hay cơ. Chuyện khác về hồi cấp ba ấy. Về Michelle Cobb.”
 
-PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó chú sẽ kể cho các cháu nghe một câu chuyện về hồi các con của chú còn nhỏ nhé,” PJ đề nghị. “Chú sẽ kể cho các cháu nghe về con gái Kate của chú.”
+PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó ông sẽ kể cho các cháu nghe một câu chuyện về hồi các con của ông còn nhỏ nhé,” PJ đề nghị. “Ông sẽ kể cho các cháu nghe về con gái Kate của ông.”
 
-“Kate là người chị đã mất của Sophie á? Con gái của chú mà bị chết đuối ấy ạ?”
+“Kate là người chị đã mất của Sophie á? Con gái của ông mà bị chết đuối ấy ạ?”
 
 “Ừ. Kate là người chị đã mất.”
 
@@ -38,7 +38,7 @@ Và Sophie, vì khi ấy mới mười một tuổi và tôn sùng người ch�
 
 “Giờ mình đã là phụ nữ,” Sophie lẩm bẩm nhắc lại, rồi Kate bảo cô biến đi. Sophie đã đi vào nhà xem hoạt hình và đó là chương trình truyền hình tuyệt vời nhất mà cô từng được xem. Đó là một kỷ niệm vui đối với Sophie, và cô phải mất một thời gian dài mới nhận ra chuyện đó quái đản thế nào. Nhưng anh chị em ruột thì vẫn hay làm những trò quái đản với nhau đấy thôi, phải không nào? Đó là một phần của luật lệ. Đó là lý do tại sao những đứa trẻ có anh chị em ruột lại rất may mắn. Họ rèn luyện cho bạn sự cứng cỏi để đối mặt với phần còn lại của thế giới.
 
-“Chú sẽ kể cho các cháu nghe về lần đầu tiên Kate chết,” bố của Sophie giờ đây cất lời kể với Ollie và Luna, trong căn phòng tồi tàn ở nhà nghỉ Golden Cherry. “Và cách con bé sống lại như thế nào.”
+“Ông sẽ kể cho các cháu nghe về lần đầu tiên Kate chết,” bố của Sophie giờ đây cất lời kể với Ollie và Luna, trong căn phòng tồi tàn ở nhà nghỉ Golden Cherry. “Và cách con bé sống lại như thế nào.”
 
 “Thật ạ?” Ollie hỏi.
 
@@ -96,11 +96,11 @@ Và ở trường vào ngày hôm đó, tất cả lũ trẻ đều ngậm cây 
 
 Hôm đó tan học về, Kate chạy ù vào nhà và dành tặng PJ cái ôm lâu nhất mà ông từng nhận được trong đời. Ivy đã bấm giờ hẳn hoi.
 
-“Chuyện đó đã hàn gắn cuộc hôn nhân của chú, được một khoảng thời gian,” PJ nói, sau câu chuyện. “Tất nhiên là không phải mãi mãi rồi. Các cháu biết đấy, Ivy đã bỏ chú để theo Fred.”
+“Chuyện đó đã hàn gắn cuộc hôn nhân của ông, được một khoảng thời gian,” PJ nói, sau câu chuyện. “Tất nhiên là không phải mãi mãi rồi. Các cháu biết đấy, Ivy đã bỏ ông để theo Fred.”
 
-Ollie và Luna gật đầu. “Thế chú PJ làm cách nào ạ?” Luna hỏi. “Sao chú gắn được từng ấy cây kẹo mút lên cây hay thế?”
+Ollie và Luna gật đầu. “Thế ông PJ làm cách nào ạ?” Luna hỏi. “Sao ông gắn được từng ấy cây kẹo mút lên cây hay thế?”
 
-PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt vời nhất khi làm nhân viên đưa thư là cháu sẽ quen biết tất cả mọi người. Chú quen chủ tiệm kẹo, và cô ấy gọi điện cho nhà cung cấp của mình, rồi chú quen thợ làm bánh mì, và cậu ta gọi điện cho công ty sản xuất cái dây kẽm buộc miệng túi bánh mì, để rồi thế là chú huy động được tất cả đàn ông trong thị trấn buộc cây kẹo mút vào cành cây qua đêm. Tất cả là nhờ những người bạn tốt ở Pondville. Họ đã giúp chú một tay.”
+PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt vời nhất khi làm nhân viên đưa thư là cháu sẽ quen biết tất cả mọi người. Ông quen chủ tiệm kẹo, và cô ấy gọi điện cho nhà cung cấp của mình, rồi ông quen thợ làm bánh mì, và cậu ta gọi điện cho công ty sản xuất cái dây kẽm buộc miệng túi bánh mì, để rồi thế là ông huy động được tất cả đàn ông trong thị trấn buộc cây kẹo mút vào cành cây qua đêm. Tất cả là nhờ những người bạn tốt ở Pondville. Họ đã giúp ông một tay.”
 
 “Và nó không phải ở tất cả mọi cái cây trong thị trấn,” Sophie nói. “Chỉ là một cái cây bên ngoài nhà của mỗi đứa học sinh cấp hai thôi.”
 
@@ -112,7 +112,7 @@ PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt v�
 
 “Sao thế, Ollie?”
 
-“Lúc chúng cháu về nhà, chú làm cho chúng cháu một cây kẹo mút nữa nhé?”
+“Lúc chúng cháu về nhà, ông làm cho chúng cháu một cây kẹo mút nữa nhé?”
 
 “Chắc chắn rồi. Đương nhiên là có rồi.”
 

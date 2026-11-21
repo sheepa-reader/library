@@ -46,7 +46,7 @@ Sophie đỏ bừng mặt. “Không, tôi không phải mẹ của tụi nhỏ.
 
 “Massachusetts á?” một người phụ nữ khác hỏi. Trên bảng tên dán áo của cô ta đề chữ Betsy . “Xa thế cơ à.”
 
-“Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua chú ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”
+“Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua ông ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”
 
 “Tôi chưa bao giờ lên truyền hình thực tế cả,” Elvira nói, đảo mắt nhìn quanh. “Tôi có cần phải ký giấy miễn trừ trách nhiệm gì không nhỉ? Tôi không muốn các vị làm mờ mặt tôi đâu đấy. Tôi cho phép các vị dùng hình ảnh của tôi đấy nhé.”
 

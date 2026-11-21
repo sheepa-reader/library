@@ -69,7 +69,7 @@
 <p class="para-vi-sub">“Massachusetts á?” một người phụ nữ khác hỏi. Trên bảng tên dán áo của cô ta đề chữ Betsy . “Xa thế cơ à.”</p>
 
 <p class="para-en">“Our parents just died,” Ollie explained. “It’s a road trip with our great-uncle. But he was hit by a car last night so he’s taking a rest with the cat.”</p>
-<p class="para-vi-sub">“Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua chú ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”</p>
+<p class="para-vi-sub">“Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua ông ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”</p>
 
 <p class="para-en">“I’ve never been on reality TV,” Elvira said, looking around. “Do I need to sign a waiver? I don’t want you to blur my face. I’ll give you permission to use my likeness.”</p>
 <p class="para-vi-sub">“Tôi chưa bao giờ lên truyền hình thực tế cả,” Elvira nói, đảo mắt nhìn quanh. “Tôi có cần phải ký giấy miễn trừ trách nhiệm gì không nhỉ? Tôi không muốn các vị làm mờ mặt tôi đâu đấy. Tôi cho phép các vị dùng hình ảnh của tôi đấy nhé.”</p>

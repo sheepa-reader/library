@@ -26,11 +26,11 @@ Sophie lắc đầu rồi bước đi để ngắm nhìn các khu trưng bày t�
 
 Rời xa con gái, PJ đi một vòng quanh bảo tàng túi xách, ôm chú mèo trên tay. Người phụ nữ ở quầy tiếp tân nói rằng mang mèo vào thì hoàn toàn được, miễn là chú mèo phải được xích lại. PJ vốn chuẩn bị tâm lý là sẽ thấy chán ngắt khi ở trong bảo tàng, nhưng những chiếc ví được phân chia theo từng thập kỷ, và tim ông như thắt lại khi nhìn thấy khu trưng bày ví từ những năm 1950. Ông có thể hình dung ra cảnh mẹ mình đang xách một chiếc như thế. Chiếc ví bằng vải nhung màu tím với chiếc khóa bằng bạc. Mẹ của PJ đã qua đời được mười năm rồi, và bà vẫn thỉnh thoảng xuất hiện trong tâm trí ông, hoàn toàn sống động. Ông nghĩ về việc bà sẽ tự hào biết bao về ông, vì đã đi du lịch khắp đất nước giống như bà từng làm. Vì cuối cùng cũng nhận ra rằng thế giới này rộng lớn hơn Pondville rất nhiều. Tất cả những câu chuyện tuyệt diệu mà mẹ thường kể cho ông nghe về những chuyến đi của bà vào giờ đi ngủ, khi hai mẹ con cuộn tròn bên chú chó Arthur thuộc giống Yorkshire lai của họ, và giờ đây chính ông cũng đã có những câu chuyện của riêng mình. Ông cảm thấy lòng biết ơn ngập tràn dành cho lũ trẻ, những đứa trẻ đã kéo ông ra khỏi ngôi nhà và đưa ông lên những cung đường.
 
-Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc chú cùng làm điều này với các cháu thật sự rất tuyệt vời. Chú sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”
+Khi tất cả đã quay lại xe, PJ bảo lũ trẻ và chú mèo: “Việc ông cùng làm điều này với các cháu thật sự rất tuyệt vời. Ông sáu mươi ba tuổi rồi mà chưa từng đi du lịch bao giờ. Chưa từng đặt chân đi đâu cả.”
 
-Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Chú từng đến Việt Nam mà. Và chú cũng bảo là chú từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.
+Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Ông từng đến Việt Nam mà. Và ông cũng bảo là ông từng đến Texas rồi còn gì.” Chẳng mấy chốc nữa là họ sẽ đến Texas, vượt qua biên giới bang Arkansas. Luna không thể đợi được nữa.
 
-“Ừ, Bastrop. Nhưng chú bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”
+“Ừ, Bastrop. Nhưng ông bị kẹt lại ở trại huấn luyện, có đi đâu tham quan đâu. Trại Swift chẳng có gì đặc biệt cả.”
 
 “Thế còn Việt Nam?”
 
@@ -42,11 +42,11 @@ Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Chú từng 
 
 Sophie mắng: “Bố!” dù cô mới chính là người hay văng tục nhiều nhất.
 
-Ollie hỏi: “Ai bắn chú thế? Kẻ địch à? Chú có bắn trả hắn không?”
+Ollie hỏi: “Ai bắn ông thế? Kẻ địch à? Ông có bắn trả hắn không?”
 
 “Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”
 
-Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì chú là một người theo chủ nghĩa hòa bình.”
+Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì ông là một người theo chủ nghĩa hòa bình.”
 
 “À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”
 
@@ -62,7 +62,7 @@ Ollie đồng tình: “Cháu cũng muốn nghe nếu chị Luna muốn. Và đ�
 
 Sophie nhún vai. Cô đã cố gắng cảnh báo rồi đấy chứ.
 
-PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai chú là Chip, lớn hơn chú mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được chú ở căng tin rồi bảo chú chạy đi. Cậu ta bắn thẳng hai phát vào mông chú lúc chú vừa cắm cổ chạy. Khi chú ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, chú cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng chú lại bảo chú xin lỗi, rằng chú rất yêu quý anh ấy, và chú tiếc vì bọn chú không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”
+PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những câu chuyện thực tế và có đầu có đuôi. “Ừ thì, có lần nọ, anh trai ông là Chip, lớn hơn ông mười một tuổi và là một sĩ quan chỉ huy trong quân đội, đã tóm được ông ở căng tin rồi bảo ông chạy đi. Cậu ta bắn thẳng hai phát vào mông ông lúc ông vừa cắm cổ chạy. Khi ông ngã nhúm xuống đất, cậu ta đứng sừng sững ngay trên đầu, ông cứ nghĩ lúc ấy cậu ta chuẩn bị tiễn mình về chầu diêm vương luôn rồi, nhưng ông lại bảo ông xin lỗi, rằng ông rất yêu quý anh ấy, và ông tiếc vì bọn ông không phải anh em ruột thịt thực sự. Chip chẳng biết phải xử lý ra sao trước câu nói đó, bởi từ trước đến nay chưa có một gã đàn ông nào dám nói yêu cậu ta cả.”
 
 “Thế rồi ông ấy làm gì ạ?”
 
@@ -76,7 +76,7 @@ PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những
 
 “Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”
 
-Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả chú nữa chứ!”
+Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả ông nữa chứ!”
 
 “Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”
 
@@ -88,25 +88,25 @@ Sophie hỏi: “Hóa ra đó là kẻ đã gây ra vụ hỏa hoạn ư?” T�
 
 “Chuẩn rồi con,” PJ xác nhận.
 
-Luna lẩm bẩm: “Cháu ước gì chú bắn trả lại hắn. Ngay ở căng tin ấy.”
+Luna lẩm bẩm: “Cháu ước gì ông bắn trả lại hắn. Ngay ở căng tin ấy.”
 
-“Ừ, nhóc con. Lắm lúc chú cũng ước mình làm thế.”
+“Ừ, nhóc con. Lắm lúc ông cũng ước mình làm thế.”
 
-Ollie hỏi tiếp: “Rồi chú cũng quay lại Pondville sau chiến tranh nữa ạ? Và chú chưa từng rời đi lần nào nữa sao?”
+Ollie hỏi tiếp: “Rồi ông cũng quay lại Pondville sau chiến tranh nữa ạ? Và ông chưa từng rời đi lần nào nữa sao?”
 
-“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng chú tự hứa với lòng mình sẽ không bao giờ ly hôn. Chú sẽ không bao giờ bỏ rơi các con của mình.”
+“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”
 
-Ollie vặn lại: “Nhưng chú đã ly hôn còn gì.”
+Ollie vặn lại: “Nhưng ông đã ly hôn còn gì.”
 
-“Đâu phải do chú chọn.”
+“Đâu phải do ông chọn.”
 
 Sophie cảm thấy bực dọc vô cùng. “Bố, bố thực sự không thể cứ ăn nói như thể lỗi ly hôn hoàn toàn thuộc về mẹ được...”
 
 “Bố có nói là bố đổ lỗi cho mẹ con vì chuyện bỏ đi đâu. Đổi lại là bố thì bố cũng chuồn ngay từ lâu rồi. Nhưng bố chưa bao giờ muốn ly hôn cả. Bố sẽ yêu bà ấy đến tận hơi thở cuối cùng.”
 
-Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì chú đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”
+Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì ông đã chẳng có được cơ hội thứ hai bên Michelle Cobb.”
 
-PJ đáp: “Cháu nói chuẩn đấy. Chú đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”
+PJ đáp: “Cháu nói chuẩn đấy. Ông đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”
 
 “Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”
 

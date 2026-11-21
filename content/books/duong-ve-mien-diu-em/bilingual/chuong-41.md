@@ -18,19 +18,19 @@
 <p class="para-vi-sub">Luna đáp: “Chuồn mất dạng. Bỏ mặc chúng ta bơ vơ. Chị có còn chở tụi em đi Texas nữa không?”</p>
 
 <p class="para-en">Sophie looked over at the sleeping bag on the floor. An empty nylon carcass. Sophie wanted so badly to call her mom at that moment, tell her what her dad had done this time. Maybe she would call her mom later. Just once. Not tell her the whole story, only part of it. But Fred had asked her not to call. He wanted Ivy to relax. Her dad was right; Fred could be a real dick. “Let’s go ask the front desk,” she told the kids. “Maybe they’ve seen him.” She saw the car keys still on the bedside table. “He can’t have gone far.”</p>
-<p class="para-vi-sub">Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố đã giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy chú ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Chú ấy không thể đi đâu xa được.”</p>
+<p class="para-vi-sub">Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố đã giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy ông ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Ông ấy không thể đi đâu xa được.”</p>
 
 <p class="para-en">The kids grabbed their suitcases, so Sophie grabbed hers and her dad’s suitcase too. They would check out and then go find him. At the front desk, Sophie rang the bell, but the clerk didn’t come to answer it. She could see his boots poking out from the edge of his cot in his office. She rang once more, but the man still didn’t stir.</p>
 <p class="para-vi-sub">Bọn trẻ vớ lấy vali của chúng, thế là Sophie đành xách cả vali của cô lẫn vali của bố. Họ sẽ trả phòng rồi đi tìm ông. Đến quầy lễ tân, Sophie bấm chuông nhưng nhân viên không ra trả lời. Cô nhìn thấy đôi bốt của anh ta ló ra từ mép chiếc giường gấp trong phòng làm việc. Cô bấm thêm lần nữa nhưng người đàn ông vẫn chẳng nhúc nhích.</p>
 
 <p class="para-en">“We found him!” the kids called from outside.</p>
-<p class="para-vi-sub">Bọn trẻ từ ngoài gọi vọng vào: “Tụi em tìm thấy chú ấy rồi!”</p>
+<p class="para-vi-sub">Bọn trẻ từ ngoài gọi vọng vào: “Tụi em tìm thấy ông ấy rồi!”</p>
 
 <p class="para-en">Sophie ran out the front doors, carrying all the bags like a mule. Her father was in the front seat of the Volvo, reclined, clutching the cat to his chest. The cat was wearing his harness and leash. There was a bottle of Colt 45 on the passenger seat.</p>
 <p class="para-vi-sub">Sophie chạy ra cửa trước, vác đống hành lý lỉnh kỉnh như con la chở đồ. PJ đang ngồi ở ghế trước chiếc xe Volvo, ngả lưng ra sau, ôm chặt chú mèo vào ngực. Chú mèo đang đeo đai ngực và dây dắt. Có một chai Colt 45 nằm trên ghế hành khách.</p>
 
 <p class="para-en">“Is he dead?” Luna asked.</p>
-<p class="para-vi-sub">Luna hỏi: “Chú ấy chết chưa?”</p>
+<p class="para-vi-sub">Luna hỏi: “Ông ấy chết chưa?”</p>
 
 <p class="para-en">“Better be,” Sophie said, feeling anger rising. So that was why the desk clerk didn’t get up when she rang the bell. He was probably passed out too; he and her father must have been up all night drinking. Her dad could make drinking buddies wherever he went. Sophie opened the car door and he sputtered to life. “What are you doing out here?”</p>
 <p class="para-vi-sub">Sophie đáp, cơn giận bắt đầu dâng lên: “Mong là thế.” Thảo nào nhân viên lễ tân không thèm đứng dậy khi cô bấm chuông. Anh ta chắc cũng say khướt rồi, hẳn là anh ta và PJ đã thức trắng đêm để chè chén. PJ có tài kiếm bạn nhậu ở bất cứ nơi nào ông đặt chân tới. Sophie mở cửa xe và PJ cựa quậy sống lại. “Bố đang làm gì ngoài này thế?”</p>
@@ -39,7 +39,7 @@
 <p class="para-vi-sub">PJ vừa xoa mặt vừa nói: “Ôi Sophie, một đêm thật tơi bời. Chú mèo chết tiệt cứ nhảy ra ngoài cửa sổ và bố đã mất cả đêm để tìm chú ấy, nhưng nhìn xem, bố bắt được rồi đây! Bình an vô sự. Đã đến giờ ăn sáng chưa?”</p>
 
 <p class="para-en">“You smell like beer,” Ollie said.</p>
-<p class="para-vi-sub">Ollie nói: “Người chú nồng mùi bia.”</p>
+<p class="para-vi-sub">Ollie nói: “Người ông nồng mùi bia.”</p>
 
 <p class="para-en">“Yuck,” Luna agreed.</p>
 <p class="para-vi-sub">Luna hùa theo: “Ghê quá.”</p>
@@ -114,7 +114,7 @@
 <p class="para-vi-sub">Sophie rên rỉ, nhưng bố cô đã rảo bước về hướng lối vào của Nhà nghỉ The Golden Cherry rồi. “Làm ơn nhanh chân lên!” cô hét với theo qua cửa sổ.</p>
 
 <p class="para-en">“Let’s leave without him,” Luna said, and Sophie was tempted.</p>
-<p class="para-vi-sub">“Hay mình cứ đi mà không cần đợi chú ấy đi chị,” Luna bảo, và Sophie suýt nữa đã xiêu lòng.</p>
+<p class="para-vi-sub">“Hay mình cứ đi mà không cần đợi ông ấy đi chị,” Luna bảo, và Sophie suýt nữa đã xiêu lòng.</p>
 
 <p class="para-en">Sophie was pissed, so pissed at her dad that morning, but also—it was somehow reassuring that he was still drinking. That he couldn’t change. He would die long before he could change, so Sophie shouldn’t bother hoping for him to be any different than he was. She was off the hook. She didn’t need to hope anymore, because it was hopeless.</p>
 <p class="para-vi-sub">Sophie đang rất bực bội, giận bố khủng khiếp vào sáng hôm đó, nhưng đồng thời, việc ông vẫn còn đang nốc rượu lại mang đến một cảm giác yên tâm kỳ lạ. Rằng ông chẳng thể nào thay đổi được đâu. Ông sẽ chết từ đời nào rồi trước khi kịp thay đổi, thế nên Sophie chẳng việc gì phải nuôi hy vọng rằng ông sẽ khác đi so với bản chất hiện tại. Cô được giải thoát rồi. Cô không cần phải hy vọng nữa, bởi vì mọi thứ hoàn toàn vô vọng.</p>

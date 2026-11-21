@@ -18,7 +18,7 @@ PJ khựng lại. Ông nghĩ hỏi thế là phạm luật. Bạn của ông là
 
 “Chú PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”
 
-“Cháu hy vọng chú ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”
+“Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”
 
 Người phụ nữ thở dài. Đã muộn màng gì đâu mà phải nghe mấy chuyện này. “Chào mừng đến với Bảo tàng Lịch sử Tượng sáp Niagara.” Bà nhận tiền rồi đóng dấu lên tay từng người bằng một con dấu cao su in khuôn mặt nổi tiếng của Marilyn Monroe.
 

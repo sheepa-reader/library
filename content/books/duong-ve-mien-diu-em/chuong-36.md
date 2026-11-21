@@ -28,23 +28,23 @@ Trái tim Sophie lỡ mất một nhịp. Cô vẫn thấy mình vừa suýt tho
 
 “Không,” Sophie đáp ngay. “Chị không nghĩ họ ở địa ngục đâu.” Mặc dù Sophie đang mặc chiếc áo phông có dòng chữ Satan là bố ruột của tôi , cô không hề thấy thoải mái khi tống bố mẹ của Luna xuống địa ngục.
 
-“Chú không tin vào điều đó,” PJ đồng tình, cuối cùng cũng ngẩng đầu lên khỏi cuốn sách.
+“Ông không tin vào điều đó,” PJ đồng tình, cuối cùng cũng ngẩng đầu lên khỏi cuốn sách.
 
 “Không tin vào cái gì cơ ạ?” Luna hỏi.
 
-“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Chú thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”
+“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Ông thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”
 
 “Thế chú PJ tin vào điều gì ạ?” Ollie hỏi.
 
-PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà chú nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”
+PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà ông nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”
 
 “Kiếp trước bố là con gì thế, bố?” Sophie hỏi, cảm thấy nhẹ nhõm hơn sau khi bố tiếp quản câu chuyện.
 
-PJ vuốt ve chú mèo đang nằm trên đùi mình. “À, bố nghĩ trong kiếp trước của chú ấy , Pancakes từng là một kẻ chăn dê ở Mông Cổ. Và bố tin rằng mình từng là một trong những con dê của chú mèo.”
+PJ vuốt ve chú mèo đang nằm trên đùi mình. “À, ông nghĩ trong kiếp trước của chú ấy, Pancakes từng là một kẻ chăn dê ở Mông Cổ. Và ông tin rằng mình từng là một trong những con dê của chú mèo.”
 
-“Một con dê á?” Ollie vừa cười vừa hỏi. “Chú nghĩ mình từng là một con dê á?”
+“Một con dê á?” Ollie vừa cười vừa hỏi. “Ông nghĩ mình từng là một con dê á?”
 
-“Ừ. Hoặc có lẽ là một con bò Tây Tạng. Nhưng Pancakes và chú đã tìm thấy nhau lần nữa, trong cuộc đời này, và đó là một điều tuyệt vời.”
+“Ừ. Hoặc có lẽ là một con bò Tây Tạng. Nhưng Pancakes và ông đã tìm thấy nhau lần nữa, trong cuộc đời này, và đó là một điều tuyệt vời.”
 
 Pancakes kêu gừ gừ trước sự quan tâm đó, tỏ vẻ buồn cười khi thấy PJ đang cố gắng tìm hiểu về thế giới bên kia.
 

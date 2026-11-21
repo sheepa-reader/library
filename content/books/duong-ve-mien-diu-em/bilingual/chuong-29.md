@@ -51,19 +51,19 @@
 <p class="para-vi-sub">“Chú PJ, chúng cháu không phải cún con,” Ollie từ ghế sau lên tiếng. “Chúng cháu là trẻ con mà.” Giọng cậu bé chẳng hề giận dữ chút nào. Cậu bé nghe có vẻ buồn bã.</p>
 
 <p class="para-en">“Oh, I know that, bud. I know you’re not dogs.”</p>
-<p class="para-vi-sub">“À, chú biết chứ, nhóc con. Chú biết các cháu không phải chó mà.”</p>
+<p class="para-vi-sub">“À, ông biết chứ, nhóc con. Ông biết các cháu không phải chó mà.”</p>
 
 <p class="para-en">“I thought you wanted us because your daughter died,” Ollie said. “I thought you wanted us as replacements.”</p>
-<p class="para-vi-sub">“Cháu tưởng chú nhận nuôi chúng cháu vì con gái chú đã mất,” Ollie nói. “Cháu tưởng chú muốn chúng cháu làm kẻ thay thế.”</p>
+<p class="para-vi-sub">“Cháu tưởng ông nhận nuôi chúng cháu vì con gái ông đã mất,” Ollie nói. “Cháu tưởng ông muốn chúng cháu làm kẻ thay thế.”</p>
 
 <p class="para-en">“Oh no, no, it wasn’t like that. They just called me and said I had to take you because everyone else in the family is dead. They said I was your best option.”</p>
-<p class="para-vi-sub">“Ôi không, không, không phải thế đâu. Họ chỉ gọi cho chú và bảo chú phải đón các cháu vì tất cả những người khác trong họ hàng đều chết hết rồi. Họ bảo chú là lựa chọn tốt nhất của các cháu.”</p>
+<p class="para-vi-sub">“Ôi không, không, không phải thế đâu. Họ chỉ gọi cho ông và bảo ông phải đón các cháu vì tất cả những người khác trong họ hàng đều chết hết rồi. Họ bảo ông là lựa chọn tốt nhất của các cháu.”</p>
 
 <p class="para-en">“You didn’t apply to adopt us?”</p>
-<p class="para-vi-sub">“Chú không tự nộp đơn nhận nuôi chúng cháu á?”</p>
+<p class="para-vi-sub">“Ông không tự nộp đơn nhận nuôi chúng cháu á?”</p>
 
 <p class="para-en">“I have enough problems, bud. I wasn’t seeking to adopt.”</p>
-<p class="para-vi-sub">“Chú có đủ rắc rối rồi, nhóc ạ. Chú có đi tìm cách nhận nuôi ai đâu.”</p>
+<p class="para-vi-sub">“Ông có đủ rắc rối rồi, nhóc ạ. Ông có đi tìm cách nhận nuôi ai đâu.”</p>
 
 <p class="para-en">“Oh,” the boy said.</p>
 <p class="para-vi-sub">“Ôi,” cậu bé thốt lên.</p>
@@ -90,7 +90,7 @@
 <p class="para-vi-sub">“Con có cần tỉa tót gì đâu! Luna, nếu em tức giận ai đó,” Sophie nói, “thì hãy tức giận lão ta ấy. Cắt tóc lão ấy đi!” Sophie từng thề là sẽ không chửi thề trước mặt lũ trẻ, người bạn Sara ở cơ quan từng kể về việc cô ấy cố gắng không nói bậy trước mặt con cái ra sao, thế nhưng mọi lời hứa hẹn với bản thân của Sophie lúc này đều bay sạch. Bị nghiền nát bét hệt như con chồn hôi mà họ thấy bên đường lúc nãy, với phần ruột màu hồng phèo phè tràn ra ngoài.</p>
 
 <p class="para-en">“I’m sure Luna didn’t mean it,” PJ said. “You didn’t mean it, did you, Luna?”</p>
-<p class="para-vi-sub">“Chú chắc là Luna không có ý đó đâu,” PJ nói. “Cháu không có ý thế phải không, Luna?”</p>
+<p class="para-vi-sub">“Ông chắc là Luna không có ý đó đâu,” PJ nói. “Cháu không có ý thế phải không, Luna?”</p>
 
 <p class="para-en">Luna didn’t answer. If she opened her mouth, she would start to cry. And she didn’t want to cry. Adults hate it when kids cry, and she didn’t want to do anything to make herself more unwanted.</p>
 <p class="para-vi-sub">Luna không đáp lời. Chỉ cần hé miệng ra là cô bé sẽ òa khóc mất. Và cô bé không muốn khóc chút nào. Người lớn cực kỳ ghét việc lũ trẻ khóc, và cô bé không muốn làm bất cứ điều gì khiến bản thân trở nên thừa thãi hay không được mong muốn thêm nữa.</p>

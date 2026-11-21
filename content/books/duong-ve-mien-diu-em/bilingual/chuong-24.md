@@ -27,16 +27,16 @@
 <p class="para-vi-sub">Ollie bật ti vi lên và lướt qua các kênh. Luna muốn xem một bộ phim tài liệu về cá voi sát thủ. PJ nghĩ nó sẽ khá là u ám, nhưng ông cứ để mặc chúng xem. Dù sao thì nó cũng mang tính giáo dục. Hơn nữa, ông nghĩ cá voi sát thủ sẽ không đến nỗi u ám như loài gấu Bắc Cực. Mấy con cá voi sát thủ đâu cần băng tan trên các tảng băng trôi đâu, phải không?</p>
 
 <p class="para-en">PJ must have dozed off at some point, because he woke up when Luna smacked him on the chest. “Wake up, Uncle PJ. Movie’s over. We need a bedtime story.”</p>
-<p class="para-vi-sub">Chắc chắn PJ đã chợp mắt được một lúc, bởi vì ông giật mình tỉnh dậy khi Luna đập tay vào ngực ông. “Dậy đi, chú PJ. Hết phim rồi. Chú phải kể chuyện trước khi ngủ cho bọn cháu nghe chứ.”</p>
+<p class="para-vi-sub">Chắc chắn PJ đã chợp mắt được một lúc, bởi vì ông giật mình tỉnh dậy khi Luna đập tay vào ngực ông. “Dậy đi, ông PJ. Hết phim rồi. Ông phải kể chuyện trước khi ngủ cho bọn cháu nghe chứ.”</p>
 
 <p class="para-en">PJ coughed. “Careful, kid. I’ve got a weak heart.”</p>
-<p class="para-vi-sub">PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Chú bị bệnh tim đấy.”</p>
+<p class="para-vi-sub">PJ ho khụ khụ. “Cẩn thận chứ, cô nhóc. Ông bị bệnh tim đấy.”</p>
 
 <p class="para-en">“Where’s the cat?” Ollie asked. “He’ll tell us.”</p>
 <p class="para-vi-sub">“Con mèo đâu rồi ạ?” Ollie hỏi. “Nó sẽ kể cho bọn cháu nghe.”</p>
 
 <p class="para-en">“No, no, I’m not having a heart attack. Don’t worry, kiddo, I’m fine. The cat is probably under the bed.”</p>
-<p class="para-vi-sub">“Không, không, chú không bị lên cơn đau tim đâu. Đừng lo, nhóc con, chú ổn mà. Chú mèo chắc đang ở dưới gầm giường thôi.”</p>
+<p class="para-vi-sub">“Không, không, ông không bị lên cơn đau tim đâu. Đừng lo, nhóc con, ông ổn mà. Chú mèo chắc đang ở dưới gầm giường thôi.”</p>
 
 <p class="para-en">“Tell us a story,” Luna whined. “I don’t like to go to sleep without a story.”</p>
 <p class="para-vi-sub">“Kể chuyện đi ạ,” Luna mè nheo. “Cháu không thích đi ngủ mà không có chuyện nghe kể đâu.”</p>
@@ -48,7 +48,7 @@
 <p class="para-vi-sub">“Hồi xưa mẹ hay kể cho bọn cháu nghe về thời trung học,” Ollie nói. “Hoặc về hồi mẹ còn là một cô bé.”</p>
 
 <p class="para-en">“Okay, then. I’ll tell you a story about high school. I’ll tell you about when I met Michelle Cobb, the woman we’re going to meet. The woman we’re driving all the way to Arizona for.”</p>
-<p class="para-vi-sub">“Vậy được thôi. Chú sẽ kể cho các cháu nghe một câu chuyện thời trung học. Chú sẽ kể về hồi chú gặp Michelle Cobb, người mà chúng ta đang trên đường đến gặp. Người mà chúng ta lái xe một quãng đường dài đến tận Arizona đấy.”</p>
+<p class="para-vi-sub">“Vậy được thôi. Ông sẽ kể cho các cháu nghe một câu chuyện thời trung học. Ông sẽ kể về hồi ông gặp Michelle Cobb, người mà chúng ta đang trên đường đến gặp. Người mà chúng ta lái xe một quãng đường dài đến tận Arizona đấy.”</p>
 
 <p class="para-en">“It better be good,” Luna said. “I’ll scream if it’s boring.”</p>
 <p class="para-vi-sub">“Hy vọng câu chuyện hay đấy,” Luna nói. “Cháu sẽ hét lên nếu nó nhàm chán đấy nhé.”</p>
@@ -75,7 +75,7 @@
 <p class="para-vi-sub">Ricky hầm hầm bỏ đi, và PJ cùng Michelle Cobb nhảy thêm vài điệu nữa. Điệu Jerk, rồi điệu Watusi.</p>
 
 <p class="para-en">“Those were the names of dances?” Luna asked.</p>
-<p class="para-vi-sub">“Đó là tên các điệu nhảy hả chú?” Luna hỏi.</p>
+<p class="para-vi-sub">“Đó là tên các điệu nhảy hả ông?” Luna hỏi.</p>
 
 <p class="para-en">PJ nodded at the girl’s question, but in his mind, he was staring into Michelle Cobb’s blue eyes. How they had sparkled that night. They talked and talked and wondered how they’d never met before as her boyfriend Ricky sulked in the corner. Michelle kept telling PJ to ignore him as PJ felt Ricky’s eyes burn into his back. But soon PJ was too caught up in Michelle’s blue eyes and the way her body moved when she did the chicken-wings part of the Frug to worry too much about Ricky.</p>
 <p class="para-vi-sub">PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông tua nhanh qua phần còn lại của buổi khiêu vũ, bởi ông đang háo hức muốn kể đến đoạn hấp dẫn nhất của câu chuyện: vụ ẩu đả trong phòng vệ sinh.</p>
@@ -87,7 +87,7 @@
 <p class="para-vi-sub">Ricky hầm hầm bỏ đi, và PJ cùng Michelle Cobb nhảy thêm vài điệu nữa. Điệu Jerk, rồi điệu Watusi.</p>
 
 <p class="para-en">“Whoa, whoa, whoa,” PJ said to Ricky in the bathroom of the high school cafeteria, where the mixer was being held. “Let’s talk. She said you just started going steady, she said you’re getting too serious about her.” PJ looked around the bathroom. He was hoping someone would pop out of a stall to help him here, but there was no one else in there with them. It was him and Ricky Fafard and the knife.</p>
-<p class="para-vi-sub">“Đó là tên các điệu nhảy hả chú?” Luna hỏi.</p>
+<p class="para-vi-sub">“Đó là tên các điệu nhảy hả ông?” Luna hỏi.</p>
 
 <p class="para-en">“I told him it was only a dance; I told him I was a peaceful guy,” PJ told the kids.</p>
 <p class="para-vi-sub">PJ gật đầu trước câu hỏi của cô bé, nhưng trong tâm trí, ông tua nhanh qua phần còn lại của buổi khiêu vũ, bởi ông đang háo hức muốn kể đến đoạn hấp dẫn nhất của câu chuyện: vụ ẩu đả trong phòng vệ sinh.</p>
@@ -102,7 +102,7 @@
 <p class="para-vi-sub">“Này, này, này,” PJ nói với Ricky trong phòng vệ sinh của nhà ăn trường trung học nơi đang diễn ra buổi khiêu vũ. “Bình tĩnh nói chuyện đi nào. Michelle bảo hai người vừa mới bắt đầu hẹn hò, cô ấy bảo cậu đang quá nghiêm túc với cô ấy đấy.” PJ đảo mắt nhìn quanh phòng vệ sinh. Ông thầm hy vọng có ai đó sẽ bước ra từ một buồng vệ sinh để cứu nguy cho mình, nhưng ở đó chẳng còn ai khác ngoài họ. Chỉ có ông, Ricky Fafard và con dao.</p>
 
 <p class="para-en">PJ saw Gene, and he was covered in blood, sitting next to a body on the ground, and PJ smiled at his friend and said: “Hi, Geney! You’re a little late!”</p>
-<p class="para-vi-sub">“Chú bảo với cậu ta đó chỉ là một điệu nhảy; chú bảo chú là một người ưa hòa bình,” PJ kể lại cho lũ trẻ nghe.</p>
+<p class="para-vi-sub">“Ông bảo với cậu ta đó chỉ là một điệu nhảy; ông bảo ông là một người ưa hòa bình,” PJ kể lại cho lũ trẻ nghe.</p>
 
 <p class="para-en">“What did Gene do?” Ollie asked.</p>
 <p class="para-vi-sub">Nhưng Ricky Fafard nào có bận tâm. Cậu ta vung dao lao vào PJ. PJ đưa tay lên đỡ để tự vệ, kết quả là ngón tay bị chém một nhát rất sâu. Máu tuôn xối xả khắp nơi. Mạch máu phun ra tựa vòi nước.</p>
@@ -120,25 +120,25 @@
 <p class="para-vi-sub">“Thế Gene đã làm gì ạ?” Ollie hỏi.</p>
 
 <p class="para-en">“So, you already know part of it. I’ll tell you the rest tomorrow, but that’s all the gas I got for tonight.”</p>
-<p class="para-vi-sub">“Tội nghiệp Gene quay đầu chạy biến. Chú đã làm cậu ta hoảng sợ. Tất nhiên là lúc đó chú cũng lú lẫn vì mất máu quá nhiều. Đến khi cảnh sát có mặt, chú cố gắng giải thích rằng mình chỉ muốn khiêu vũ với bạn gái của Ricky, nhưng lúc đó chú nói năng chẳng còn mạch lạc gì nữa. Cảnh sát đinh ninh rằng chính chú đã đánh tơi bời Ricky, vì cậu ta mới là kẻ đang nằm bất động dưới sàn, thế là họ tống thẳng chú vào nhà giam,” PJ kể. “Ngón tay chú lúc đó chỉ còn dính lủng lẳng bằng một chút da thịt, và nếu không được khâu lại ngay thì chú sẽ chẳng thể đi lính nổi.”</p>
+<p class="para-vi-sub">“Tội nghiệp Gene quay đầu chạy biến. Ông đã làm cậu ta hoảng sợ. Tất nhiên là lúc đó ông cũng lú lẫn vì mất máu quá nhiều. Đến khi cảnh sát có mặt, ông cố gắng giải thích rằng mình chỉ muốn khiêu vũ với bạn gái của Ricky, nhưng lúc đó ông nói năng chẳng còn mạch lạc gì nữa. Cảnh sát đinh ninh rằng chính ông đã đánh tơi bời Ricky, vì cậu ta mới là kẻ đang nằm bất động dưới sàn, thế là họ tống thẳng ông vào nhà giam,” PJ kể. “Ngón tay ông lúc đó chỉ còn dính lủng lẳng bằng một chút da thịt, và nếu không được khâu lại ngay thì ông sẽ chẳng thể đi lính nổi.”</p>
 
 <p class="para-en">“But what happened to Ricky?” Luna asked.</p>
 <p class="para-vi-sub">“Sao lại thế ạ?” Luna hỏi.</p>
 
 <p class="para-en">“He hit his head pretty hard on that sink, and he’s been in a coma ever since. Forty-five years in a coma. At the Pondville hospital, third floor, first room on the left. His mother still visits him every day. She’s ninety-one now, and I heard when she dies, they’ll unplug him. I go see him sometimes. The nurses let me trim his beard; it’s never stopped growing.”</p>
-<p class="para-vi-sub">“Đó là ngón tay bóp cò của chú. Không thể bắn súng nếu thiếu ngón tay đó. Không thể ra trận nếu không có súng.”</p>
+<p class="para-vi-sub">“Đó là ngón tay bóp cò của ông. Không thể bắn súng nếu thiếu ngón tay đó. Không thể ra trận nếu không có súng.”</p>
 
 <p class="para-en">“Is that true?” Ollie asked.</p>
-<p class="para-vi-sub">“Nhưng chú đã đi lính cơ mà,” Ollie nói. “Chính chú bảo thế còn gì.”</p>
+<p class="para-vi-sub">“Nhưng ông đã đi lính cơ mà,” Ollie nói. “Chính ông bảo thế còn gì.”</p>
 
 <p class="para-en">“It’s a bedtime story. Who cares if it’s true.”</p>
-<p class="para-vi-sub">“Thế nên, các cháu đã biết trước một phần câu chuyện rồi đấy. Chú sẽ kể nốt phần còn lại vào ngày mai, nhưng hôm nay pin của chú cạn sạch rồi.”</p>
+<p class="para-vi-sub">“Thế nên, các cháu đã biết trước một phần câu chuyện rồi đấy. Ông sẽ kể nốt phần còn lại vào ngày mai, nhưng hôm nay pin của ông cạn sạch rồi.”</p>
 
 <p class="para-en">“So, it’s not true.”</p>
 <p class="para-vi-sub">“Nhưng thế còn Ricky thì sao ạ?” Luna hỏi.</p>
 
 <p class="para-en">“When we get back to Pondville, if we ever go back to Pondville, I’ll take you to see Ricky.”</p>
-<p class="para-vi-sub">“Cậu ta đập đầu khá mạnh vào bồn rửa mặt và rơi vào trạng thái hôn mê kể từ dạo đó. Bốn mươi lăm năm hôn mê sâu. Ở Bệnh viện Pondville, tầng ba, phòng đầu tiên bên trái. Mẹ cậu ta vẫn đến thăm cậu ta mỗi ngày. Bà ấy nay đã chín mươi mốt tuổi, và chú nghe nói khi bà ấy qua đời, người ta sẽ rút ống thở của cậu ta. Thỉnh thoảng chú vẫn ghé thăm cậu ta. Các y tá cho phép chú tỉa tót bộ râu cho cậu ta; bộ râu chẳng bao giờ ngừng mọc cả.”</p>
+<p class="para-vi-sub">“Cậu ta đập đầu khá mạnh vào bồn rửa mặt và rơi vào trạng thái hôn mê kể từ dạo đó. Bốn mươi lăm năm hôn mê sâu. Ở Bệnh viện Pondville, tầng ba, phòng đầu tiên bên trái. Mẹ cậu ta vẫn đến thăm cậu ta mỗi ngày. Bà ấy nay đã chín mươi mốt tuổi, và ông nghe nói khi bà ấy qua đời, người ta sẽ rút ống thở của cậu ta. Thỉnh thoảng ông vẫn ghé thăm cậu ta. Các y tá cho phép ông tỉa tót bộ râu cho cậu ta; bộ râu chẳng bao giờ ngừng mọc cả.”</p>
 
 <p class="para-en">“I’d like that,” Ollie agreed.</p>
 <p class="para-vi-sub">“Chuyện đó có thật không ạ?” Ollie hỏi.</p>
@@ -150,7 +150,7 @@
 <p class="para-vi-sub">“Thế nghĩa là không có thật ạ.”</p>
 
 <p class="para-en">“Thanks for not telling us a story for babies. Thanks for telling us a real story.”</p>
-<p class="para-vi-sub">“Khi nào chúng ta quay lại Pondville, nếu tụi mình thực sự quay về Pondville, chú sẽ dẫn các cháu đi gặp Ricky.”</p>
+<p class="para-vi-sub">“Khi nào chúng ta quay lại Pondville, nếu tụi mình thực sự quay về Pondville, ông sẽ dẫn các cháu đi gặp Ricky.”</p>
 
 <p class="para-en">PJ understood why Luna wanted a real story, that she wanted to be treated seriously, and why she didn’t want to be bored. It wasn’t fun to be bored. It was another one of the things alcohol was good for. But PJ had something else that might excite the kids. He reached into his pocket and pulled out a small box. He showed them the ring he had for Michelle Cobb. A small sparkly diamond ring.</p>
 <p class="para-vi-sub">“Cháu rất thích điều đó,” Ollie đồng tình.</p>
@@ -162,7 +162,7 @@
 <p class="para-vi-sub">“Sao thế cháu?”</p>
 
 <p class="para-en">“Serious,” Ollie said.</p>
-<p class="para-vi-sub">“Cảm ơn chú vì đã không kể cho bọn cháu nghe một câu chuyện nhảm nhí dành cho trẻ con. Cảm ơn chú vì đã kể một câu chuyện thực tế.”</p>
+<p class="para-vi-sub">“Cảm ơn ông vì đã không kể cho bọn cháu nghe một câu chuyện nhảm nhí dành cho trẻ con. Cảm ơn ông vì đã kể một câu chuyện thực tế.”</p>
 
 <p class="para-en">“It’s an exciting time for me, and I’m so glad you kids can be part of it. But good night, now. I’ll see you both in the funny papers in the morning.”</p>
 <p class="para-vi-sub">PJ hiểu tại sao Luna lại muốn nghe một câu chuyện thực tế, rằng cô bé muốn được đối xử nghiêm túc, và tại sao cô bé lại không muốn bị bỏ mặc trong sự nhàm chán. Cảm giác chán chường chẳng có gì là vui thú cả. Đó cũng là một trong những điều mà rượu mang lại tác dụng. Nhưng PJ còn có thứ khác có thể khiến lũ trẻ phấn khích hơn. Ông thọc tay vào túi và lấy ra một chiếc hộp nhỏ. Ông đưa cho bọn trẻ xem chiếc nhẫn mà ông chuẩn bị sẵn cho Michelle Cobb. Một chiếc nhẫn kim cương nhỏ lấp lánh.</p>
@@ -171,13 +171,13 @@
 <p class="para-vi-sub">“Ồ,” Luna thốt lên. “Nó là thật ạ?”</p>
 
 <p class="para-en">PJ couldn’t wait to tell Sophie what a good job he’d done with the kids, but in the adjoining room, PJ found Sophie already asleep in her queen hotel bed, under the covers and completely dead to the world. He’d never seen someone so asleep, in fact, wondering what could have tuckered her out like that. He didn’t know about the five miles she’d run on the treadmill, followed by taking two weed gummies, and the thirty minutes she’d spent sitting in the hot tub upstairs in the hotel spa, all while the kids were watching the documentary on killer whales. But PJ wanted someone to talk to, so he wanted Sophie to wake up. She didn’t stir when he turned on the TV or stomped around the room.</p>
-<p class="para-vi-sub">“Thật chứ. Chú định ngỏ lời cầu hôn Michelle Cobb để cô ấy cùng chú trải qua phần đời còn lại.”</p>
+<p class="para-vi-sub">“Thật chứ. Ông định ngỏ lời cầu hôn Michelle Cobb để cô ấy cùng ông trải qua phần đời còn lại.”</p>
 
 <p class="para-en">PJ knew so little about Sophie’s life, he realized, and what he knew he knew from what Fred and Ivy said at breakfast. He knew she’d had a job as an assistant somewhere doing something. He knew she had been running a lot lately, and her mom thought it was too much exercise. He knew Fred thought Sophie should go back to school to be a speech pathologist. He knew Fred had thought he was so smart for suggesting that, even if PJ thought it went against Ivy’s golden rule: not to talk too much about Kate, because Sophie wasn’t going to be defined as the kid who had a dead sister. Ivy had made that rule early on.</p>
 <p class="para-vi-sub">“Gớm thật đấy,” Ollie bình luận.</p>
 
 <p class="para-en">We cannot talk about Kate all the time, Ivy had said, even in the early days of their grief. We have to focus on Sophie. Ivy was obsessed with making Sophie happy, giving her everything, taking her everywhere. Piano lessons and dance classes and soccer practices and swimming. Ivy had her one hour of crying in Kate’s room a week, and other than that, she focused on Sophie.</p>
-<p class="para-vi-sub">“Đây là một thời điểm vô cùng hào hứng đối với chú, và chú rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Chú sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”</p>
+<p class="para-vi-sub">“Đây là một thời điểm vô cùng hào hứng đối với ông, và ông rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Ông sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”</p>
 
 <p class="para-en">Sophie put up with all her mother’s attention. Even after Sophie started wearing all the black clothes, looking dark and rebellious, she still did all the activities her mother signed her up for. She got good grades. She got into NYU, but she hadn’t gone. PJ had thought Ivy should have made her go. Ivy had said it was Sophie’s decision, but PJ thought Ivy seemed too happy when Sophie chose to go to the state school twenty minutes away. All those extracurricular activities to pad her résumé, and Ivy didn’t even care if Sophie went to the best college she got into.</p>
 <p class="para-vi-sub">“Chúc chú PJ ngủ ngon ạ,” hai đứa trẻ đồng thanh đáp, và chúng nói tự nhiên cứ như thể cả hai đã chúc chú PJ ngủ ngon hàng ngàn lần trước đó rồi. Trẻ con quả thật rất dễ thích nghi, PJ thầm nghĩ. Thật là kỳ diệu.</p>

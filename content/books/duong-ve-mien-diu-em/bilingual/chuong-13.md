@@ -72,7 +72,7 @@
 <p class="para-vi-sub">Ngôi nhà trên đường Clear Pond là một căn nhà gỗ kiểu Cape nhỏ nhắn với các tấm chớp cửa màu xanh lá và ván lợp bằng gỗ tự nhiên. PJ đang ngồi trên chiếc ghế bãi biển ngoài bãi cỏ trước nhà. Ông mỉm cười và vẫy tay. Ông đang mặc một chiếc áo phông sạch lấy từ tủ quần áo của Fred, cùng với kính râm, quần soóc túi hộp, tất và dép Birkenstock. Ông đã chải tóc gọn gàng. Bộ râu của ông cần được tỉa tót, nhưng ông sẽ không làm thế. Đây đâu phải đám cưới. Ông đang uống một chai Coca-Cola, vì ông rất thèm uống bia, nhưng ông biết làm vậy là không khôn ngoan chút nào. Ông muốn gây ấn tượng tốt với cô nhân viên công tác xã hội.</p>
 
 <p class="para-en">“So, he’s not rich,” Luna said when she saw him, as quietly as she could, so only Ollie would hear.</p>
-<p class="para-vi-sub">“Thế ra chú ấy không giàu nhỉ,” Luna nói khi nhìn thấy ông, nhỏ giọng hết mức có thể để chỉ mình Ollie nghe thấy.</p>
+<p class="para-vi-sub">“Thế ra ông ấy không giàu nhỉ,” Luna nói khi nhìn thấy ông, nhỏ giọng hết mức có thể để chỉ mình Ollie nghe thấy.</p>
 
 <p class="para-en">“I’m Belinda Bell, social worker,” Belinda Bell said, extending her hand to PJ.</p>
 <p class="para-vi-sub">“Tôi là Belinda Bell, nhân viên công tác xã hội,” Belinda nói, đưa tay ra định bắt tay PJ.</p>
@@ -84,7 +84,7 @@
 <p class="para-vi-sub">“Và đây là hai đứa trẻ, Ollie và Luna Meeklin.”</p>
 
 <p class="para-en">“Hi, kids,” PJ said, putting his hands on his stomach because he knew kids that age don’t like to shake hands. “I’m your uncle. Great-uncle. The greatest uncle, in fact.”</p>
-<p class="para-vi-sub">“Chào mấy đứa,” PJ nói, đặt tay lên bụng vì ông biết trẻ con tầm tuổi này không thích bắt tay. “Chú là chú của các cháu. Chú họ. Thậm chí là người chú tuyệt vời nhất trên đời.”</p>
+<p class="para-vi-sub">“Chào mấy đứa,” PJ nói, đặt tay lên bụng vì ông biết trẻ con tầm tuổi này không thích bắt tay. “Ông là ông chú của các cháu. Ông chú họ. Thậm chí là người ông tuyệt vời nhất trên đời.”</p>
 
 <p class="para-en">“I’m Ollie,” Ollie said.</p>
 <p class="para-vi-sub">“Cháu là Ollie,” Ollie nói.</p>
@@ -111,7 +111,7 @@
 <p class="para-vi-sub">“Đó là Luna,” Ollie nói. “Chị ấy cũng không được đặt tên theo ai cả. Chị ấy biết nói chuyện nhưng hiện tại đang chọn cách im lặng.”</p>
 
 <p class="para-en">“I see. Well, you don’t have to talk, Miss Luna. Fine with me. Children should be seen and not heard, right, Ms.—Bell, was it?” PJ was trying to be on his best behavior.</p>
-<p class="para-vi-sub">“Chú hiểu rồi. Ồ thế thì cháu không cần phải nói chuyện đâu, cô bé Luna. Chú thấy thế cũng ổn thôi. Trẻ con thì chỉ nên để người ta nhìn thấy chứ không nên lên tiếng, đúng không nhỉ, cô... Bell thì phải?” PJ đang cố gắng thể hiện phong độ tốt nhất của mình.</p>
+<p class="para-vi-sub">“Ông hiểu rồi. Ồ thế thì cháu không cần phải nói chuyện đâu, cô bé Luna. Ông thấy thế cũng ổn thôi. Trẻ con thì chỉ nên để người ta nhìn thấy chứ không nên lên tiếng, đúng không nhỉ, cô... Bell thì phải?” PJ đang cố gắng thể hiện phong độ tốt nhất của mình.</p>
 
 <p class="para-en">“That’s an abusive phrase, Mr. Halliday,” Belinda Bell said. “I’m sure you don’t feel that way?”</p>
 <p class="para-vi-sub">“Đó là một câu nói mang tính lăng mạ đấy, ông Halliday,” Belinda nói. “Tôi chắc là ông không suy nghĩ theo chiều hướng đó chứ?”</p>
@@ -129,7 +129,7 @@
 <p class="para-vi-sub">“Cháu đã xem bảy bộ phim dán nhãn R rồi,” Ollie nói. “Trong bộ phim mà cháu xem cùng bố, có hai người tỉnh dậy và có một gã tên là Jigsaw...” Luna huých cùi chỏ vào người cậu bé. Cô bé lườm em trai mình một cái. “Được rồi, được rồi,” Ollie nói. “Luna muốn biết liệu chúng cháu có phòng riêng của mình không.”</p>
 
 <p class="para-en">“Oh,” PJ said. “Unfortunately, you’re going to have to share. I was told you’re used to sharing a room, and it’s a small house. Only a two-bedroom.” The house down the street was three bedrooms, he thought, but it was full of junk. “Hey, how’d that work, that you knew what Luna wanted to ask without her saying anything? You can read each other’s minds?”</p>
-<p class="para-vi-sub">“Ồ,” PJ nói. “Đáng tiếc là hai cháu sẽ phải ở chung phòng rồi. Chú được bảo là các cháu đã quen ngủ chung phòng và ngôi nhà này khá nhỏ. Chỉ có hai phòng ngủ thôi.” Căn nhà dưới cuối phố có tới ba phòng ngủ, ông thầm nghĩ, nhưng nó lại chứa đầy đồ đạc lỉnh kỉnh. “Này, sao cháu lại biết Luna muốn hỏi gì mà cô bé chẳng mở miệng nói câu nào thế? Hai đứa đọc được suy nghĩ của nhau à?”</p>
+<p class="para-vi-sub">“Ồ,” PJ nói. “Đáng tiếc là hai cháu sẽ phải ở chung phòng rồi. Ông được bảo là các cháu đã quen ngủ chung phòng và ngôi nhà này khá nhỏ. Chỉ có hai phòng ngủ thôi.” Căn nhà dưới cuối phố có tới ba phòng ngủ, ông thầm nghĩ, nhưng nó lại chứa đầy đồ đạc lỉnh kỉnh. “Này, sao cháu lại biết Luna muốn hỏi gì mà cô bé chẳng mở miệng nói câu nào thế? Hai đứa đọc được suy nghĩ của nhau à?”</p>
 
 <p class="para-en">“We’re Irish twins. It’s easy to know what she’s thinking.”</p>
 <p class="para-vi-sub">“Chúng cháu là Sinh đôi Ireland [4] . Thật dễ để biết chị ấy đang nghĩ gì ạ.”</p>
@@ -144,13 +144,13 @@
 <p class="para-vi-sub">“Ý cháu là chúng cháu cách nhau mười một tháng tuổi,” Ollie nói. “Điều đó có nghĩa là chúng cháu học cùng một khối và thân thiết hơn anh em bình thường, nên tâm trí chúng cháu liên kết với nhau.”</p>
 
 <p class="para-en">“I’ve heard about that,” PJ said, nodding, glad to know what he had heard about twins was true, that they were a little bit supernatural, even if these children weren’t exactly real twins. They were close in age. His own kids had been seven years apart.</p>
-<p class="para-vi-sub">“Chú từng nghe về chuyện đó rồi,” PJ vừa nói vừa gật đầu, cảm thấy vui mừng vì những gì ông từng nghe về bọn trẻ sinh đôi là sự thật, rằng chúng có chút gì đó siêu nhiên, cho dù những đứa trẻ này không hẳn là sinh đôi thực thụ. Chúng chỉ sát tuổi nhau thôi. Mấy đứa con của ông cách nhau tận bảy tuổi cơ mà.</p>
+<p class="para-vi-sub">“Ông từng nghe về chuyện đó rồi,” PJ vừa nói vừa gật đầu, cảm thấy vui mừng vì những gì ông từng nghe về bọn trẻ sinh đôi là sự thật, rằng chúng có chút gì đó siêu nhiên, cho dù những đứa trẻ này không hẳn là sinh đôi thực thụ. Chúng chỉ sát tuổi nhau thôi. Mấy đứa con của ông cách nhau tận bảy tuổi cơ mà.</p>
 
 <p class="para-en">“Irish twins also meant our mom never lost the baby weight,” Ollie said, repeating something he’d heard so many times.</p>
 <p class="para-vi-sub">“Sinh đôi sát tháng cũng có nghĩa là mẹ chúng cháu không bao giờ lấy lại được vóc dáng thời con gái,” Ollie nói, lặp lại điều mà cậu bé đã nghe người ta nói đi nói lại quá nhiều lần.</p>
 
 <p class="para-en">“Oh,” PJ said, uncomfortable at this unflattering mention of their mother, so soon after her death. “Well, do you kids want to see the house? I’ve got a surprise in the backyard.”</p>
-<p class="para-vi-sub">“Ờ,” PJ nói, cảm thấy không thoải mái trước lời nhận xét kém duyên về người mẹ quá cố của chúng, khi mà bà vừa mới qua đời chưa lâu. “Thế mấy đứa có muốn đi tham quan ngôi nhà không? Chú có một điều bất ngờ ở sau vườn đấy.”</p>
+<p class="para-vi-sub">“Ờ,” PJ nói, cảm thấy không thoải mái trước lời nhận xét kém duyên về người mẹ quá cố của chúng, khi mà bà vừa mới qua đời chưa lâu. “Thế mấy đứa có muốn đi tham quan ngôi nhà không? Ông có một điều bất ngờ ở sau vườn đấy.”</p>
 
 <p class="para-en">“We definitely want to see the surprise,” Ollie said. He dragged his trash bag full of clothes through the door. Luna dragged hers in too, and they both dropped them by the coat rack. They were all standing in the front hall with the striped wallpaper and the grandfather clock, and Luna was wondering again if Uncle PJ was rich after all. From there, Uncle PJ led them into the kitchen with its yellow walls and sunflower tablecloth and cherry cabinets with gold knobs.</p>
 <p class="para-vi-sub">“Chắc chắn là chúng cháu muốn xem điều bất ngờ đó rồi,” Ollie nói. Cậu bé kéo lê chiếc túi rác đựng quần áo qua cửa ra vào. Luna cũng kéo lê chiếc túi của mình vào theo, và cả hai vứt phịch chúng cạnh giá treo áo khoác. Cả ba đang đứng ở sảnh trước với giấy dán tường kẻ sọc cùng chiếc đồng hồ quả lắc đứng, và Luna lại tự hỏi không biết rốt cuộc chú PJ có giàu thật hay không. Từ đó, chú PJ dẫn chúng vào nhà bếp với những bức tường màu vàng, khăn trải bàn hình hoa hướng dương và tủ đựng chén bát màu anh đào có tay nắm bằng đồng vàng.</p>
@@ -165,16 +165,16 @@
 <p class="para-vi-sub">“Món quà bất ngờ là gì thế ạ?” Ollie hỏi.</p>
 
 <p class="para-en">PJ opened the glass sliding door to the backyard and when the kids saw it, they both squealed and went running out into the yard immediately. He is rich! Luna thought with glee. There had been a Walmart next to the IKEA and PJ hadn’t been able to stop himself from adding the eight-foot trampoline to the credit card. He’d had to pay for delivery, the package too big to fit in the car.</p>
-<p class="para-vi-sub">PJ đẩy cánh cửa kính trượt dẫn ra sân sau, và khi bọn trẻ nhìn thấy, cả hai liền reo hò và chạy ngay ra sân. Ổng giàu thật đấy! Luna nghĩ với vẻ thích thú. Có một cửa hàng Walmart nằm cạnh IKEA và PJ đã không thể kìm được việc quẹt thẻ để mua thêm chiếc lò nhún cỡ tám foot. Ông đã phải trả tiền vận chuyển vì gói hàng quá lớn không thể nhét vừa xe hơi.</p>
+<p class="para-vi-sub">PJ đẩy cánh cửa kính trượt dẫn ra sân sau, và khi bọn trẻ nhìn thấy, cả hai liền reo hò và chạy ngay ra sân. Ổng giàu thật đấy! Luna nghĩ với vẻ thích thú. Có một cửa hàng Walmart nằm cạnh IKEA và PJ đã không thể kìm được việc quẹt thẻ để mua thêm chiếc bạt nhún cỡ tám foot. Ông đã phải trả tiền vận chuyển vì gói hàng quá lớn không thể nhét vừa xe hơi.</p>
 
 <p class="para-en">“Trampolines often result in trips to the ER,” Belinda Bell told PJ when she saw the surprise in the yard, but she had to admit it was nice to see the kids smile. They hadn’t even smiled when she’d bought them the Big Gulps.</p>
-<p class="para-vi-sub">“Lò nhún thường dẫn đến những chuyến đi cấp cứu viện,” Belinda Bell nói với PJ khi cô nhìn thấy món quà bất ngờ ở sân sau, nhưng cô phải thừa nhận rằng thật vui khi thấy bọn trẻ cười. Chúng thậm chí còn chẳng cười nổi khi cô mua cho chúng những cốc nước Big Gulp.</p>
+<p class="para-vi-sub">“Bạt nhún thường dẫn đến những chuyến vào phòng cấp cứu,” Belinda Bell nói với PJ khi cô nhìn thấy món quà bất ngờ ở sân sau, nhưng cô phải thừa nhận rằng thật vui khi thấy bọn trẻ cười. Chúng thậm chí còn chẳng cười nổi khi cô mua cho chúng những cốc nước Big Gulp.</p>
 
 <p class="para-en">PJ had also left a bag of candy in the middle of the trampoline, and the kids tore into it, packages of gummy frogs and gummy worms.</p>
-<p class="para-vi-sub">PJ cũng để lại một gói kẹo ở giữa lò nhún, và lũ trẻ đã lao vào xé gói kẹo dẻo hình ếch và giun.</p>
+<p class="para-vi-sub">PJ cũng để lại một gói kẹo ở giữa bạt nhún, và lũ trẻ đã lao vào xé gói kẹo dẻo hình ếch và giun.</p>
 
 <p class="para-en">“Thanks, Uncle PJ,” Ollie said, a worm halfway out of his mouth, and even Luna gave him a thumbs-up. PJ smiled at the new name. Uncle PJ. He liked that.</p>
-<p class="para-vi-sub">“Cảm ơn chú PJ,” Ollie nói với một con sâu kẹo ngậm một nửa trong miệng, và thậm chí Luna còn giơ ngón tay cái về phía ông. PJ mỉm cười trước cái tên mới. Chú PJ. Ông thích cái tên đó.</p>
+<p class="para-vi-sub">“Cảm ơn ông PJ,” Ollie nói với một con sâu kẹo ngậm một nửa trong miệng, và thậm chí Luna còn giơ ngón tay cái về phía ông. PJ mỉm cười trước cái tên mới. Ông PJ. Ông thích cái tên đó.</p>
 
 <p class="para-en">PJ and Belinda Bell left the kids and went back inside for the home inspection. Belinda turned on the tap water in the kitchen. She put a little paper strip in the water, waited to see if it turned orange. “No lead,” she reported.</p>
 <p class="para-vi-sub">PJ và Belinda Bell để mặc bọn trẻ ở ngoài và quay lại nhà để kiểm tra ngôi nhà. Belinda vặn vòi nước ở nhà bếp. Cô nhúng một dải giấy nhỏ vào nước, đợi xem nó có chuyển sang màu cam hay không. “Không có chì,” cô thông báo.</p>
@@ -240,7 +240,7 @@
 <p class="para-vi-sub">Họ gọi pizza của hãng Domino cho bữa tối, bao gồm cả một đĩa salad mà không ai thèm động đến, nhưng PJ muốn chứng minh là ông biết chút ít về việc ăn uống lành mạnh. Ông bày bánh pizza và đĩa giấy lên bàn ở phòng ăn, căn phòng mà Fred và Ivy chỉ dùng cho các bữa tiệc ngày lễ. Đó là một căn phòng hẹp và dài nằm ở một bên của ngôi nhà, với một chiếc bàn ăn bằng gỗ gụ ở đầu này, cùng một chiếc ghế bành đôi và một cây đàn đại dương cầm màu trắng ở đầu kia. Luna đi thẳng về phía cây đàn piano và ngồi xuống.</p>
 
 <p class="para-en">“That used to be my piano,” PJ said, feeling proud the kid had noticed the beautiful instrument. “But my ex-wife got it in the divorce. She said I wouldn’t take care of it, and she’d spent too much money on it to watch it fall apart.”</p>
-<p class="para-vi-sub">PJ nói với vẻ tự hào rằng đứa trẻ đã chú ý đến nhạc cụ tuyệt đẹp đó: “Đó từng là cây đàn piano của chú. Nhưng vợ cũ của chú đã lấy nó trong vụ ly hôn. Cô ấy bảo chú sẽ không biết chăm sóc nó, và cô ấy đã tốn quá nhiều tiền cho nó để rồi phải nhìn nó hỏng hóc mất.”</p>
+<p class="para-vi-sub">PJ nói với vẻ tự hào rằng đứa trẻ đã chú ý đến nhạc cụ tuyệt đẹp đó: “Đó từng là cây đàn piano của ông. Nhưng vợ cũ của ông đã lấy nó trong vụ ly hôn. Cô ấy bảo ông sẽ không biết chăm sóc nó, và cô ấy đã tốn quá nhiều tiền cho nó để rồi phải nhìn nó hỏng hóc mất.”</p>
 
 <p class="para-en">“Why is it in your house then?” Belinda asked.</p>
 <p class="para-vi-sub">Belinda hỏi: “Thế sao nó lại ở trong nhà ông?”</p>
@@ -264,7 +264,7 @@
 <p class="para-vi-sub">Ollie đang ăn miếng thứ hai, nhưng Luna vẫn ngồi ở cây đàn piano, chưa chịu qua lấy phần pizza của mình. Cô bé đang chăm chú nhìn vào những phím đàn.</p>
 
 <p class="para-en">“Play us a song, Luna,” Belinda Bell said. “Play us a song if you’re not going to eat. You can be the dinner entertainment.”</p>
-<p class="para-vi-sub">Belinda Bell nói: “Chơi cho cô chú nghe một bài đi, Luna. Chơi một bài đi nếu cháu không định ăn. Cháu có thể làm tiết mục giải trí cho bữa tối.”</p>
+<p class="para-vi-sub">Belinda Bell nói: “Chơi cho cô và ông nghe một bài đi, Luna. Chơi một bài đi nếu cháu không định ăn. Cháu có thể làm tiết mục giải trí cho bữa tối.”</p>
 
 <p class="para-en">“She’s a good singer but she doesn’t play the piano,” Ollie explained.</p>
 <p class="para-vi-sub">Ollie giải thích: “Chị ấy hát hay nhưng không biết chơi piano đâu.”</p>
@@ -279,7 +279,7 @@
 <p class="para-vi-sub">Ollie hỏi: “Từ bao giờ mà chị lại biết chơi piano thế?” Cậu bé ghét việc chị gái mình có những bí mật.</p>
 
 <p class="para-en">“Debussy. ‘Serenade for the Doll,’ ” PJ said. “That’s what that was. My mother taught me to play that. I suppose she taught my brother to play it too. Maybe he taught you?”</p>
-<p class="para-vi-sub">PJ nói: “Debussy. Bản ‘Serenade for the Doll’. Đó chính là bài đó. Mẹ đã dạy chú chơi bài đó. Chắc là bà cũng dạy anh trai chú chơi rồi. Có thể ông ấy đã dạy cháu chăng?”</p>
+<p class="para-vi-sub">PJ nói: “Debussy. Bản ‘Serenade for the Doll’. Đó chính là bài đó. Mẹ đã dạy ông chơi bài đó. Chắc là bà cũng dạy anh trai ông chơi rồi. Có thể ông ấy đã dạy cháu chăng?”</p>
 
 <p class="para-en">Luna looked at this old man, this old man she was supposed to live with, who knew the name of the song she had played. She had not known this man was related to her grandfather, because no one had explained to her what a great-uncle was, but she figured it out now. Luna turned away from PJ and back to the piano, but first PJ thought he saw something he understood in her eyes. A hurt and an anger he recognized. He was worried for her, being so young and having that kind of hurt. Belinda Bell and Ollie both thought Luna was about to play a second song on the piano, another something beautiful, but instead, she vomited, projectile, a brilliant blue, all over the piano, with half-chewed lumps of frogs and gummy worms hitting the keys.</p>
 <p class="para-vi-sub">Luna nhìn người đàn ông lớn tuổi này, người đàn ông lớn tuổi mà cô bé phải sống cùng, kẻ biết rõ tên bài hát mà cô bé vừa chơi. Cô bé chưa từng biết người đàn ông này có họ hàng với ông ngoại mình, bởi vì chẳng có ai giải thích cho cô bé thế nào là ông bác, nhưng giờ thì cô bé đã tự suy ra được. Luna quay đi khỏi PJ và hướng về phía cây đàn piano, nhưng trước tiên PJ tưởng như ông nhìn thấy một điều gì đó mà ông thấu hiểu trong đôi mắt cô bé. Một nỗi tổn thương và sự tức giận mà ông nhận ra. Ông cảm thấy lo lắng cho cô bé, còn quá nhỏ tuổi mà lại mang trong mình nỗi tổn thương kiểu đó. Cả Belinda Bell và Ollie đều nghĩ Luna chuẩn bị chơi bản nhạc thứ hai trên đàn piano, một giai điệu tuyệt đẹp khác, nhưng thay vào đó, cô bé nôn thốc nôn tháo, một thứ chất dịch màu xanh rực rỡ phun tung tóe khắp cây đàn piano, với những khối nhầy nửa nhai gồm lũ ếch và kẹo dẻo bắn tung tóe lên các phím đàn.</p>
@@ -288,13 +288,13 @@
 <p class="para-vi-sub">Belinda Bell nói: “Cái cốc Big Gulp. Ôi Chúa ơi, cái cốc Big Gulp.”</p>
 
 <p class="para-en">“The trampoline,” Ollie said, somberly. “It shook her up.”</p>
-<p class="para-vi-sub">Ollie trầm ngâm nói: “Cái lò nhún. Nó làm chị ấy bị xóc ruột.”</p>
+<p class="para-vi-sub">Ollie trầm ngâm nói: “Cái bạt nhún. Nó làm chị ấy bị xóc ruột.”</p>
 
 <p class="para-en">“I’ll get a rag,” PJ said, running for the towels and some carpet cleaner. There was blue goo in the beige carpet, too, pieces of gummy candy everywhere. He was thinking about what Fred would say about the carpet. Fred was tricky about the carpet in this room. It was the formal dining room, that’s why Fred and Ivy only used it for holidays, but this had been a special occasion. It was the kids’ first dinner in the house.</p>
-<p class="para-vi-sub">PJ vừa nói vừa chạy đi lấy khăn lau và nước tẩy rửa thảm: “Chú sẽ lấy giẻ lau.” Lại có cả chất nhầy màu xanh trên tấm thảm màu be nữa, những mảnh kẹo dẻo vương vãi khắp nơi. Ông đang nghĩ xem Fred sẽ nói gì về tấm thảm này. Fred rất khó tính về tấm thảm trong căn phòng này. Đây là phòng ăn trang trọng, đó là lý do tại sao Fred và Ivy chỉ dùng nó vào các dịp lễ, nhưng đây lại là một dịp đặc biệt. Đây là bữa tối đầu tiên của lũ trẻ trong ngôi nhà này.</p>
+<p class="para-vi-sub">PJ vừa nói vừa chạy đi lấy khăn lau và nước tẩy rửa thảm: “Ông sẽ lấy giẻ lau.” Lại có cả chất nhầy màu xanh trên tấm thảm màu be nữa, những mảnh kẹo dẻo vương vãi khắp nơi. Ông đang nghĩ xem Fred sẽ nói gì về tấm thảm này. Fred rất khó tính về tấm thảm trong căn phòng này. Đây là phòng ăn trang trọng, đó là lý do tại sao Fred và Ivy chỉ dùng nó vào các dịp lễ, nhưng đây lại là một dịp đặc biệt. Đây là bữa tối đầu tiên của lũ trẻ trong ngôi nhà này.</p>
 
 <p class="para-en">Luna burst into tears and ran for the bathroom and shut the door. Belinda and PJ didn’t run after her; they were focused on cleaning up. Even Ollie didn’t bother his sister, at first, because he was worried his red slushie would come up at any second too. He had been shaken up on the trampoline just like Luna had, and he always gagged whenever Luna vomited. They were connected that way. Ollie could never be happy unless Luna was too.</p>
-<p class="para-vi-sub">Luna bật khóc nức nở rồi chạy vào phòng tắm và đóng sầm cửa lại. Belinda và PJ không chạy theo cô bé; họ tập trung vào việc dọn dẹp bãi chiến trường. Ngay cả Ollie cũng không làm phiền chị gái ngay lúc đầu, bởi vì cậu bé đang lo lắng thứ nước đá xay màu đỏ của mình có thể trào ngược ra bất cứ lúc nào. Cậu bé đã bị xóc tung lên trên chiếc lò nhún giống hệt như Luna, và cậu bé luôn bị nôn ọe mỗi khi Luna nôn mửa. Họ gắn kết với nhau theo cách đó. Ollie không bao giờ có thể vui vẻ trừ khi Luna cũng thế.</p>
+<p class="para-vi-sub">Luna bật khóc nức nở rồi chạy vào phòng tắm và đóng sầm cửa lại. Belinda và PJ không chạy theo cô bé; họ tập trung vào việc dọn dẹp bãi chiến trường. Ngay cả Ollie cũng không làm phiền chị gái ngay lúc đầu, bởi vì cậu bé đang lo lắng thứ nước đá xay màu đỏ của mình có thể trào ngược ra bất cứ lúc nào. Cậu bé đã bị xóc tung lên trên chiếc bạt nhún giống hệt như Luna, và cậu bé luôn bị nôn ọe mỗi khi Luna nôn mửa. Họ gắn kết với nhau theo cách đó. Ollie không bao giờ có thể vui vẻ trừ khi Luna cũng thế.</p>
 
 <p class="para-en">In the bathroom, finally alone for a minute, Luna sat on the toilet, put her head between her knees. Something in the room meowed, and Luna looked up. There was an orange cat, lying stretched out in the empty bathtub. Pancakes had been sleeping in there all day. He offered the girl his white belly. Luna wiped her eyes and sat next to the tub and put her hands into his fur. She felt better immediately. He purred and purred and sniffed her hand with his little pink nose. Her smell was so familiar to him, but at first he couldn’t place it.</p>
 <p class="para-vi-sub">Trong phòng tắm, cuối cùng cũng được ở một mình trong phút chốc, Luna ngồi lên bồn cầu, gục đầu giữa hai đầu gối. Có tiếng kêu meo meo phát ra trong phòng, và Luna ngẩng đầu lên. Có một chú mèo màu cam đang nằm dài trong chiếc bồn tắm trống không. Pancakes đã ngủ trong đó cả ngày trời. Chú mèo chìa chiếc bụng màu trắng của mình ra cho cô bé. Luna lau nước mắt rồi ngồi xuống cạnh bồn tắm và đưa tay luồn vào bộ lông của chú mèo. Cô bé cảm thấy khá hơn ngay lập tức. Chú mèo cứ gừ gừ mãi và hít hà bàn tay cô bé bằng chiếc mũi hồng nho nhỏ. Mùi hương của cô bé quá quen thuộc với chú, nhưng thoạt đầu chú không tài nào nhớ ra được.</p>
@@ -324,7 +324,7 @@
 <p class="para-vi-sub">Nhưng chẳng có lời đáp nào từ bên trong.</p>
 
 <p class="para-en">“Hey, kiddo, don’t worry about it, please. It’s my ex-wife’s piano, why would I be mad?” PJ reassured her. “She left me for another man. She’s marrying him in the fall. Hey, would you like to be a flower girl? They’ll need a flower girl.” PJ thought that might get her out. He didn’t know Luna yet. Didn’t know that Luna was not the type of kid who ever wanted to be a flower girl.</p>
-<p class="para-vi-sub">“Này nhóc, đừng lo lắng gì cả nhé, làm ơn đấy. Đó là đàn của vợ cũ chú, sao chú lại phải giận cơ chứ?” PJ trấn an cô bé. “Cô ấy bỏ chú đi theo người đàn ông khác. Cô ấy sẽ kết hôn vào mùa thu này. Này, cháu có muốn làm phù dâu không? Họ sẽ cần phù dâu đấy.” PJ nghĩ rằng điều đó có thể dụ được cô bé ra ngoài. Ông vẫn chưa hiểu rõ về Luna. Chưa biết rằng Luna không phải là kiểu đứa trẻ thích làm phù dâu bao giờ.</p>
+<p class="para-vi-sub">“Này nhóc, đừng lo lắng gì cả nhé, làm ơn đấy. Đó là đàn của vợ cũ ông, sao ông lại phải giận cơ chứ?” PJ trấn an cô bé. “Cô ấy bỏ ông đi theo người đàn ông khác. Cô ấy sẽ kết hôn vào mùa thu này. Này, cháu có muốn làm phù dâu không? Họ sẽ cần phù dâu đấy.” PJ nghĩ rằng điều đó có thể dụ được cô bé ra ngoài. Ông vẫn chưa hiểu rõ về Luna. Chưa biết rằng Luna không phải là kiểu đứa trẻ thích làm phù dâu bao giờ.</p>
 
 <p class="para-en">“Luna, let me in,” Ollie said. “Please let me in, Luna.”</p>
 <p class="para-vi-sub">“Luna, mở cửa cho em đi,” Ollie nói. “Làm ơn mở cửa cho em đi, Luna.”</p>
@@ -378,7 +378,7 @@
 <p class="para-vi-sub">“Như tôi đã nói,” Belinda Bell lên tiếng, “ông tốt nhất là cứ mặc kệ mọi chuyện đi, ông Halliday ạ. Ông sẽ chỉ tự rước họa vào thân nếu cứ để cô bé đó muốn gì được nấy thôi.” Và rồi Belinda chúc PJ gặp nhiều may mắn với lũ trẻ, đoạn bước ra cửa và phóng đi trên chiếc xe tải màu trắng của cô. Ollie trông có vẻ buồn khi thấy Belinda rời đi.</p>
 
 <p class="para-en">“You want to play videogames?” PJ asked the boy, thinking of something that might cheer him up. “I bought you a PlayStation, but I’ll need your help getting it hooked up to the TV.” PJ had gone a little crazy at Walmart.</p>
-<p class="para-vi-sub">“Cháu có muốn chơi điện tử không?” PJ hỏi Ollie, nghĩ đến thứ gì đó có thể làm cậu bé vui lên. “Chú có mua một máy PlayStation cho cháu, nhưng chú cần cháu giúp cắm nó vào TV đấy.” PJ đã hơi cuồng mua sắm khi ghé Walmart.</p>
+<p class="para-vi-sub">“Cháu có muốn chơi điện tử không?” PJ hỏi Ollie, nghĩ đến thứ gì đó có thể làm cậu bé vui lên. “Ông có mua một máy PlayStation cho cháu, nhưng ông cần cháu giúp cắm nó vào TV đấy.” PJ đã hơi cuồng mua sắm khi ghé Walmart.</p>
 
 <p class="para-en">Ollie nodded and grinned.</p>
 <p class="para-vi-sub">Ollie gật đầu và cười toe toét.</p>

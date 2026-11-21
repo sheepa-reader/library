@@ -6,19 +6,19 @@
 <p class="para-vi-sub">Trời đã gần đến giờ đi ngủ mà Luna vẫn không chịu trả lời khi họ gõ cửa phòng tắm, ngay cả khi Ollie kể về trò chơi điện tử hai người mà hai chị em có thể chơi cùng nhau. Ollie và Luna trước giờ không được phép chơi điện tử ở nhà nuôi dưỡng, trò đó chỉ dành cho mấy đứa lớn, bọn thanh thiếu niên thôi. Thế nhưng Luna nhất quyết không chịu bước ra, cho dù có chuyện gì đi nữa. Cuối cùng, PJ đã hết kiên nhẫn, ông lôi tua-vít ra và tháo tung cánh cửa phòng tắm khỏi bản lề. Ông thấy bên trong trống không, cửa sổ mở toang. “Trời đất quỷ thần ơi, Ollie, Luna trèo cửa sổ đi mất rồi.”</p>
 
 <p class="para-en">“Out the window?” Ollie said, not believing it. “Did she fall?”</p>
-<p class="para-vi-sub">“Trèo cửa sổ ạ?” Ollie nói, tỏ vẻ không tin nổi. “Chị ấy có ngã không hả chú?”</p>
+<p class="para-vi-sub">“Trèo cửa sổ ạ?” Ollie nói, tỏ vẻ không tin nổi. “Chị ấy có ngã không hả ông?”</p>
 
 <p class="para-en">“It’s not a long drop to the ground. She’s probably not hurt, but she’s gone. She’s run away. I’ll call the police.”</p>
-<p class="para-vi-sub">“Khoảng cách xuống mặt đất không cao lắm đâu. Chắc con bé không bị thương đâu, nhưng nó chuồn mất rồi. Nó bỏ nhà đi rồi đấy. Chú sẽ gọi cảnh sát.”</p>
+<p class="para-vi-sub">“Khoảng cách xuống mặt đất không cao lắm đâu. Chắc con bé không bị thương đâu, nhưng nó chuồn mất rồi. Nó bỏ nhà đi rồi đấy. Ông sẽ gọi cảnh sát.”</p>
 
 <p class="para-en">“No,” Ollie said, shaking his head. “You do not want to call the cops. They’ll beat you up.”</p>
-<p class="para-vi-sub">“Không ạ,” Ollie vừa nói vừa lắc đầu. “Chú không muốn gọi cảnh sát đâu. Họ sẽ đánh chú nhừ tử đấy.”</p>
+<p class="para-vi-sub">“Không ạ,” Ollie vừa nói vừa lắc đầu. “Ông không muốn gọi cảnh sát đâu. Họ sẽ đánh ông nhừ tử đấy.”</p>
 
 <p class="para-en">“Why would they beat me up?” PJ asked. PJ was no friend to cops, but he thought he needed the police in this situation. A missing child was exactly why you called the cops.</p>
-<p class="para-vi-sub">“Sao họ lại đánh chú nhừ tử chứ?” PJ hỏi. PJ vốn chẳng ưa gì cảnh sát, nhưng ông nghĩ mình thực sự cần cảnh sát trong tình huống này. Một đứa trẻ mất tích chính là lý do rành rành để gọi cảnh sát chứ còn gì nữa.</p>
+<p class="para-vi-sub">“Sao họ lại đánh ông nhừ tử chứ?” PJ hỏi. PJ vốn chẳng ưa gì cảnh sát, nhưng ông nghĩ mình thực sự cần cảnh sát trong tình huống này. Một đứa trẻ mất tích chính là lý do rành rành để gọi cảnh sát chứ còn gì nữa.</p>
 
 <p class="para-en">Ollie crossed his arms. “The cops are all my dad’s friends, and they will beat you up for losing my sister. They even might kill you.”</p>
-<p class="para-vi-sub">Ollie khoanh tay trước ngực. “Cảnh sát toàn là bạn của bố cháu, và họ sẽ đánh chú tơi bời vì dám để lạc mất chị cháu. Thậm chí họ còn có thể giết chú nữa cơ.”</p>
+<p class="para-vi-sub">Ollie khoanh tay trước ngực. “Cảnh sát toàn là bạn của bố cháu, và họ sẽ đánh ông tơi bời vì dám để lạc mất chị cháu. Thậm chí họ còn có thể giết ông nữa cơ.”</p>
 
 <p class="para-en">“Okay, okay, good point,” PJ said, trying not to panic. “We’ll go look for her first. She can’t have gone far.” His heart clutched in his chest. Not now, he thought to his heart. He had to find this poor kid. She was probably frightened. His mind went to the bogs, to the edge of town.</p>
 <p class="para-vi-sub">“Được rồi, được rồi, có lý đấy,” PJ nói, cố kìm nén cơn hoảng loạn. “Chúng ta sẽ đi tìm con bé trước đã. Nó không thể đi quá xa được đâu.” Tim ông thắt lại trong lồng ngực. Đừng có giở chứng lúc này nhé, ông thầm nhủ với trái tim mình. Ông phải tìm cho bằng được đứa trẻ tội nghiệp này. Chắc con bé đang sợ hãi lắm. Tâm trí ông bất giác hướng về phía những đầm lầy, về tận rìa thị trấn.</p>
@@ -105,7 +105,7 @@
 <p class="para-vi-sub">“Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”</p>
 
 <p class="para-en">“Good.” He wiped his eyes. “Are you coming back to Uncle PJ’s? He’s not bad, Luna, he’s not mean or crazy like Grandpa, I can tell. He got us a trampoline, and a PlayStation. And bunk beds. Brand-new. They still have plastic on the mattresses. No bugs.” There had been bedbugs at the foster home in Springfield. “And he said he loves us,” Ollie lied. “He said he loves us already.”</p>
-<p class="para-vi-sub">“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Chú ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và chú ấy bảo chú ấy yêu quý chúng ta,” Ollie nói dối. “Chú ấy bảo chú ấy đã yêu quý chúng ta rồi.”</p>
+<p class="para-vi-sub">“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”</p>
 
 <p class="para-en">“I’ll stay there for tonight, I guess,” Luna agreed. “I can’t stay here,” she said, looking around their old house, which seemed so different than it had. Musty. Haunted. But it had never been an especially safe place, when her grandpa lived there, or when her dad got too angry or drunk, or when her mom called their neighbor Michael Hoonhaut and accused him of looking into their windows, which Luna was pretty sure he’d never done. It was a scary and confusing place, where it had always felt like anything could happen at any time, and you didn’t know when you woke up if it would be a good day or a bad one.</p>
 <p class="para-vi-sub">“Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.</p>
@@ -114,16 +114,16 @@
 <p class="para-vi-sub">“Không,” Ollie đồng thời cũng nhìn quanh nhà và hùa theo. “Em chẳng bao giờ muốn quay lại đây nữa.”</p>
 
 <p class="para-en">“Should we burn it down?” Luna asked, because she had the lighter from the woman she’d stolen the cigarettes from, but Ollie said no, he didn’t want to. Luna knew her grandfather had burned down a house once; he had told her the story. He had tried to burn down the house with a woman inside, but the woman had escaped. Her grandpa had lots of terrifying stories like that, things he’d done or wanted to do. “Uncle PJ really said he loves us?” Luna asked.</p>
-<p class="para-vi-sub">“Hay chúng ta đốt quách nó đi nhỉ?” Luna đề nghị, bởi cô bé đang mang theo chiếc bật lửa lấy từ người phụ nữ mà cô bé đã ăn cắp thuốc lá, nhưng Ollie bảo không, cậu bé không muốn thế. Luna biết ông ngoại từng đốt nhà một lần rồi; ông đã kể cho cô bé nghe câu chuyện đó. Ông từng cố châm lửa đốt căn nhà có một người phụ nữ bên trong, nhưng người phụ nữ ấy đã chạy thoát. Ông ngoại có rất nhiều câu chuyện đáng sợ kiểu như thế, những việc ông từng làm hoặc muốn làm. “Chú PJ thực sự nói chú ấy yêu quý chúng ta á?” Luna hỏi lại.</p>
+<p class="para-vi-sub">“Hay chúng ta đốt quách nó đi nhỉ?” Luna đề nghị, bởi cô bé đang mang theo chiếc bật lửa lấy từ người phụ nữ mà cô bé đã ăn cắp thuốc lá, nhưng Ollie bảo không, cậu bé không muốn thế. Luna biết ông ngoại từng đốt nhà một lần rồi; ông đã kể cho cô bé nghe câu chuyện đó. Ông từng cố châm lửa đốt căn nhà có một người phụ nữ bên trong, nhưng người phụ nữ ấy đã chạy thoát. Ông ngoại có rất nhiều câu chuyện đáng sợ kiểu như thế, những việc ông từng làm hoặc muốn làm. “Ông PJ thực sự nói ông ấy yêu quý chúng ta á?” Luna hỏi lại.</p>
 
 <p class="para-en">“Yes,” Ollie lied again. “He did.”</p>
-<p class="para-vi-sub">“Vâng,” Ollie lại nói dối. “Chú ấy nói thế.”</p>
+<p class="para-vi-sub">“Vâng,” Ollie lại nói dối. “Ông ấy nói thế.”</p>
 
 <p class="para-en">Luna could see Ollie was lying, but she let herself be comforted anyway.</p>
 <p class="para-vi-sub">Luna thừa biết Ollie đang nói dối, nhưng cô bé vẫn để mặc bản thân được an ủi.</p>
 
 <p class="para-en">“And if he doesn’t, we’ll run away together. We’ll find your dad,” Ollie promised.</p>
-<p class="para-vi-sub">“Và nếu chú ấy không thương, chúng ta sẽ lại cùng nhau bỏ trốn. Chúng ta sẽ đi tìm bố của chị,” Ollie hứa hẹn.</p>
+<p class="para-vi-sub">“Và nếu ông ấy không thương, chúng ta sẽ lại cùng nhau bỏ trốn. Chúng ta sẽ đi tìm bố của chị,” Ollie hứa hẹn.</p>
 
 <p class="para-en">“Okay,” Luna said. She needed to hear that too.</p>
 <p class="para-vi-sub">“Được,” Luna đáp. Cô bé cũng đang rất cần được nghe câu đó.</p>

@@ -27,7 +27,7 @@
 <p class="para-vi-sub">“Chú PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”</p>
 
 <p class="para-en">“I hope he doesn’t die,” Ollie said. “I don’t know who I’d live with.”</p>
-<p class="para-vi-sub">“Cháu hy vọng chú ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”</p>
+<p class="para-vi-sub">“Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”</p>
 
 <p class="para-en">The woman sighed. It was too late in the day for this. “Welcome to the Wax Museum of Niagara History.” She took their money and stamped each of their hands with a rubber stamp of Marilyn Monroe’s famous face.</p>
 <p class="para-vi-sub">Người phụ nữ thở dài. Đã muộn màng gì đâu mà phải nghe mấy chuyện này. “Chào mừng đến với Bảo tàng Lịch sử Tượng sáp Niagara.” Bà nhận tiền rồi đóng dấu lên tay từng người bằng một con dấu cao su in khuôn mặt nổi tiếng của Marilyn Monroe.</p>

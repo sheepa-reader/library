@@ -144,37 +144,37 @@
 <p class="para-vi-sub">“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Chú muốn chăm sóc các cháu cho tốt. Và chú cần tiền để chăm sóc các cháu cho đàng hoàng. Chú là một ông già không có bằng lái xe. Chú lại thất nghiệp. Tìm được một công việc với chú đâu phải chuyện dễ. Hơn nữa... chú đã sợ hãi. Chú không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Chú đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của chú đã chết và đứa kia thì... à thì, con bé căm ghét chú.”</p>
 
 <p class="para-en">“Sophie doesn’t hate you,” Ollie said. “She’s just mad that you can’t stay in your bed all night.”</p>
-<p class="para-vi-sub">“Sophie có ghét chú đâu,” Ollie nói. “Chỉ là chị ấy bực vì chú không chịu nằm yên trên giường suốt đêm thôi.”</p>
+<p class="para-vi-sub">“Sophie có ghét chú đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”</p>
 
 <p class="para-en">“Appreciate that, Ollie. But I’m going to try to do better this time. I’m going to stop drinking, and I’m going to do a better job this time. Will you let me try to do a better job?”</p>
-<p class="para-vi-sub">“Cảm ơn cháu đã nói thế, Ollie. Nhưng lần này chú sẽ cố gắng làm tốt hơn. Chú sẽ cai rượu, và chú sẽ làm tốt hơn trong lần này. Các cháu có để cho chú thử làm tốt hơn không?”</p>
+<p class="para-vi-sub">“Cảm ơn cháu đã nói thế, Ollie. Nhưng lần này ông sẽ cố gắng làm tốt hơn. Ông sẽ cai rượu, và ông sẽ làm tốt hơn trong lần này. Các cháu có để cho ông thử làm tốt hơn không?”</p>
 
 <p class="para-en">“You’ve said that before!” Luna called. “You always say you’re going to stop drinking!”</p>
-<p class="para-vi-sub">“Chú từng nói thế rồi!” Luna lớn tiếng. “Lần nào chú cũng bảo chú sắp cai rượu!”</p>
+<p class="para-vi-sub">“Ông từng nói thế rồi!” Luna lớn tiếng. “Lần nào ông cũng bảo ông sắp cai rượu!”</p>
 
 <p class="para-en">“I’ve been messed up for a long time. It’s hard to change.”</p>
-<p class="para-vi-sub">“Chú đã bết bát suốt một thời gian dài. Thay đổi đâu phải chuyện dễ.”</p>
+<p class="para-vi-sub">“Ông đã bết bát suốt một thời gian dài. Thay đổi đâu phải chuyện dễ.”</p>
 
 <p class="para-en">“I don’t think you can ever change!”</p>
-<p class="para-vi-sub">“Cháu nghĩ chú chẳng bao giờ thay đổi được đâu!”</p>
+<p class="para-vi-sub">“Cháu nghĩ ông chẳng bao giờ thay đổi được đâu!”</p>
 
 <p class="para-en">PJ felt wounded to hear this from Luna, struck by how much she sounded like Sophie, but perhaps it was true. “I’m going to try,” he said. “I’m going to really try. Is that okay?”</p>
-<p class="para-vi-sub">PJ cảm thấy nhói lòng khi nghe Luna nói vậy, sững sờ nhận ra cô bé nói năng giống hệt Sophie, nhưng có lẽ điều đó là sự thật. “Chú sẽ cố gắng,” ông nói. “Chú sẽ thực sự cố gắng. Được chứ?”</p>
+<p class="para-vi-sub">PJ cảm thấy nhói lòng khi nghe Luna nói vậy, sững sờ nhận ra cô bé nói năng giống hệt Sophie, nhưng có lẽ điều đó là sự thật. “Ông sẽ cố gắng,” ông nói. “Ông sẽ thực sự cố gắng. Được chứ?”</p>
 
 <p class="para-en">“No. It’s not good enough. It’s scary when we wake up and you’re not there.”</p>
-<p class="para-vi-sub">“Không. Thế vẫn chưa đủ. Sợ lắm khi bọn cháu tỉnh dậy mà không thấy chú đâu.”</p>
+<p class="para-vi-sub">“Không. Thế vẫn chưa đủ. Sợ lắm khi bọn cháu tỉnh dậy mà không thấy ông đâu.”</p>
 
 <p class="para-en">“He’s going to try, Luna,” Ollie said.</p>
-<p class="para-vi-sub">“Chú ấy sẽ cố gắng mà, Luna,” Ollie nói.</p>
+<p class="para-vi-sub">“Ông ấy sẽ cố gắng mà, Luna,” Ollie nói.</p>
 
 <p class="para-en">“And why do you need money from Mark Stackpole?” Luna asked. “You’re a millionaire.”</p>
-<p class="para-vi-sub">“Và sao chú lại cần tiền từ Mark Stackpole?” Luna hỏi. “Chú là triệu phú cơ mà.”</p>
+<p class="para-vi-sub">“Và sao ông lại cần tiền từ Mark Stackpole?” Luna hỏi. “Ông là triệu phú cơ mà.”</p>
 
 <p class="para-en">“I’m not. Not anymore. I have twenty thousand dollars in my bank account, last I checked, and we’ve been spending it since.”</p>
-<p class="para-vi-sub">“Chú không phải. Hết lâu rồi. Lần cuối kiểm tra tài khoản chú còn hai mươi nghìn đô la, và từ đó đến nay chúng ta vẫn tiêu dần vào khoản đấy.”</p>
+<p class="para-vi-sub">“Ông không phải. Hết lâu rồi. Lần cuối kiểm tra tài khoản ông còn hai mươi nghìn đô la, và từ đó đến nay chúng ta vẫn tiêu dần vào khoản đấy.”</p>
 
 <p class="para-en">“You spent it all?” Ollie asked.</p>
-<p class="para-vi-sub">“Chú tiêu hết sạch luôn á?” Ollie hỏi.</p>
+<p class="para-vi-sub">“Ông tiêu hết sạch luôn á?” Ollie hỏi.</p>
 
 <p class="para-en">“Most of it.”</p>
 <p class="para-vi-sub">“Gần hết rồi.”</p>
@@ -183,13 +183,13 @@
 <p class="para-vi-sub">Đám đông trân trân nhìn người đàn ông đi dép Birkenstocks, mặc quần đùi hộp và áo ba lỗ. Trông ông chẳng giống một kẻ từng tiêu cả triệu đô la chút nào.</p>
 
 <p class="para-en">“So, you didn’t want us because you can’t afford to take care of us?” Luna asked. “That was the only reason?”</p>
-<p class="para-vi-sub">“Thế ra, chú không muốn nhận nuôi chúng cháu vì chú không đủ tiền lo cho bọn cháu à?” Luna hỏi. “Lý do duy nhất là thế thôi á?”</p>
+<p class="para-vi-sub">“Thế ra, ông không muốn nhận nuôi chúng cháu vì ông không đủ tiền lo cho bọn cháu à? Lý do duy nhất là thế thôi á?”</p>
 
 <p class="para-en">PJ rubbed his beard. The truth was, of course, that he hadn’t wanted the kids at first. Not really. He had wanted to get to Arizona and spend the rest of his days playing shuffleboard and massaging Michelle Cobb’s feet. He bet Michelle Cobb had great feet. That was the easy life, the one he could still imagine, still almost wish for, but now that the kids were part of his life—now that they were people, real people to him, with personalities, likes and dislikes, things he liked about them and things that annoyed him about them—he felt he couldn’t live without them. He felt like he would be incomplete without them. Wherever they were, he wanted to be too.</p>
 <p class="para-vi-sub">PJ xoa cằm. Sự thật đương nhiên là ban đầu ông chẳng muốn vướng vào lũ trẻ. Không hề. Ông chỉ muốn đến Arizona và dành phần đời còn lại để chơi đẩy gậy đẩy đĩa rồi bóp chân cho Michelle Cobb. Ông cá là bàn chân của Michelle Cobb đẹp tuyệt. Đó là một cuộc sống nhàn hạ, cuộc sống mà ông vẫn có thể hình dung ra, vẫn gần như ao ước, nhưng giờ đây khi lũ trẻ đã trở thành một phần cuộc đời ông, giờ đây khi chúng là những con người, những con người bằng xương bằng thịt đối với ông, có tính cách, có sở thích và điều ghét bỏ, có những điểm ông yêu quý và những điểm làm ông phát bực, ông cảm thấy mình không thể sống thiếu chúng. Ông cảm thấy mình sẽ trở nên khuyết thiếu nếu không có chúng ở bên. Bọn trẻ ở đâu, ông cũng muốn ở đó.</p>
 
 <p class="para-en">“Yes,” he said. “That’s it. I mean, would you want to live with me if I don’t have any money? If I can’t buy any more trampolines or PlayStations or pineapple purses?”</p>
-<p class="para-vi-sub">“Đúng thế,” ông đáp. “Chỉ vậy thôi. Ý chú là, các cháu có muốn sống cùng chú nữa không nếu chú chẳng có xu dính túi? Nếu chú không thể mua thêm cái bạt nhún, máy PlayStation hay chiếc ví hình quả dứa nào nữa?”</p>
+<p class="para-vi-sub">“Đúng thế,” ông đáp. “Chỉ vậy thôi. Ý ông là, các cháu có muốn sống cùng ông nữa không nếu ông chẳng có xu dính túi? Nếu ông không thể mua thêm cái bạt nhún, máy PlayStation hay chiếc ví hình quả dứa nào nữa?”</p>
 
 <p class="para-en">“No,” Ollie said. “I wouldn’t like that.”</p>
 <p class="para-vi-sub">“Không,” Ollie nói. “Cháu không thích thế đâu.”</p>
@@ -204,22 +204,22 @@
 <p class="para-vi-sub">“Chết tiệt,” viên bảo vệ lẩm bẩm. “Tôi tiêu đời rồi.” Anh ta quay phắt người ngay lúc đó, định quay lại phòng an ninh để lấy chiếc vợt bắt cá lớn. Trước đó anh ta chẳng hiểu tại sao họ lại giữ một chiếc vợt bắt cá lớn trong văn phòng, nhưng giờ thì anh ta đã hiểu. Nó dùng cho những tình huống quái quỷ thế này. Đề phòng trường hợp bạn cần bắt mèo. Anh ta cũng sẽ lấy cả súng điện, phòng khi có ai chống đối việc anh ta tịch thu chú mèo. Nhưng bạn không thể mang mèo vào trung tâm thương mại được. Cắm cổ chạy về phía phòng an ninh, anh ta chạy vụt qua lối vào Khu vui chơi bạt nhún FunTime. Anh ta chạy ngang qua đúng chỗ Ollie vừa nôn thốc tháo cả một cốc sữa lắc vani. Vẫn có biển Cảnh báo màu vàng bằng nhựa quen thuộc, thế nhưng viên bảo vệ vẫn trượt chân ngã trên sàn nhà vừa mới lau chùi và đập đầu thật mạnh vào tấm gạch nhựa cứng của trung tâm thương mại. Anh ta đã chết chỉ một phút sau đó.</p>
 
 <p class="para-en">“Will you love us, even if you can’t buy us stuff?” Luna asked PJ.</p>
-<p class="para-vi-sub">“Chú có yêu thương chúng cháu, ngay cả khi chú không thể mua cho chúng cháu thứ gì không?” Luna Meeklin hỏi PJ.</p>
+<p class="para-vi-sub">“Ông có yêu thương chúng cháu, ngay cả khi ông không thể mua cho chúng cháu thứ gì không?” Luna Meeklin hỏi PJ.</p>
 
 <p class="para-en">“Of course I will.”</p>
-<p class="para-vi-sub">“Đương nhiên là chú có chứ.”</p>
+<p class="para-vi-sub">“Đương nhiên là ông có chứ.”</p>
 
 <p class="para-en">“How will we know you love us if you can’t buy us anything?” Ollie asked.</p>
-<p class="para-vi-sub">“Làm sao chúng cháu biết chú yêu thương tụi cháu nếu chú chẳng mua cho gì cả?” Ollie Meeklin hỏi.</p>
+<p class="para-vi-sub">“Làm sao chúng cháu biết ông yêu thương tụi cháu nếu ông chẳng mua cho gì cả?” Ollie Meeklin hỏi.</p>
 
 <p class="para-en">“You won’t, I guess,” PJ admitted. “But I’ll tell you what loving kids is all about,” he said. He was preparing a speech. His best-man speech. This was his moment. Everyone in the mall was looking at him. “Loving your kids is protecting them from stupid shit that they think they want to do, like run away to Mexico or jump off the top of the stairs or go on a boat without a lifejacket or when they’re in high school and they want to drink hard liquor. Loving kids is teaching them new things, and being delighted when they learn it. Loving children is when they hold your hand with their little sweaty, meaty paw and you feel a direct wire to your heart. Loving children is even though they drive you up the wall, and life was so much easier before they were around, you hope they always, always come back home, and you miss them as soon as they’re gone. You miss them as soon as the school bus takes them away in the morning, and you worry about them, you constantly worry about them, hoping and praying that, somehow, they will be one of the lucky ones. One of the lucky ones who is happy, and safe, and stays off drugs and lives to a hundred and two and never knows any heartbreak or pain.”</p>
-<p class="para-vi-sub">“Chắc là các cháu sẽ không biết đâu,” PJ thừa nhận. “Nhưng chú sẽ nói cho các cháu nghe việc yêu thương trẻ con là thế nào,” ông nói. Ông đang chuẩn bị cho một bài phát biểu. Bài phát biểu của phù rể. Đây chính là khoảnh khắc của ông. Tất cả mọi người trong trung tâm thương mại đều đang nhìn ông. “Yêu thương con cái chính là bảo vệ chúng khỏi những thứ ngu ngốc mà chúng tưởng rằng mình muốn làm, kiểu như bỏ nhà trốn sang Mexico hay nhảy xuống từ tầng trên cùng của cầu thang hoặc đi trên một chiếc thuyền mà không mặc áo phao hoặc khi chúng học trung học và muốn uống rượu mạnh. Yêu thương trẻ con là dạy chúng những điều mới mẻ, và cảm thấy vui sướng khi chúng học được điều đó. Yêu thương trẻ con là khi chúng nắm lấy bàn tay chú bằng cái bàn tay nhỏ xíu đẫm mồ hôi và đầy thịt của mình để rồi chú cảm nhận được một đường dây trực tiếp nối thẳng đến trái tim. Yêu thương trẻ con là dẫu cho chúng có làm chú tức điên lên, và cuộc sống trước khi chúng xuất hiện vốn dĩ nhẹ nhàng hơn rất nhiều, chú vẫn mong chúng sẽ luôn luôn, luôn luôn quay trở về nhà, và chú sẽ nhớ chúng ngay khi chúng vừa rời đi. Chú sẽ nhớ chúng ngay khi chiếc xe buýt trường học đón chúng đi vào buổi sáng, và chú sẽ lo lắng cho chúng, chú luôn luôn lo lắng cho chúng, hằng mong và cầu nguyện rằng, cách này hay cách khác, chúng sẽ là một trong số những đứa trẻ may mắn. Một trong những đứa trẻ may mắn hạnh phúc, được bình an, tránh xa ma túy và sống đến tuổi một trăm linh hai và chẳng bao giờ phải trải qua bất kỳ nỗi đau đớn hay tan vỡ nào.”</p>
+<p class="para-vi-sub">“Chắc là các cháu sẽ không biết đâu,” PJ thừa nhận. “Nhưng ông sẽ nói cho các cháu nghe việc yêu thương trẻ con là thế nào,” ông nói. Ông đang chuẩn bị cho một bài phát biểu. Bài phát biểu của phù rể. Đây chính là khoảnh khắc của ông. Tất cả mọi người trong trung tâm thương mại đều đang nhìn ông. “Yêu thương con cái chính là bảo vệ chúng khỏi những thứ ngu ngốc mà chúng tưởng rằng mình muốn làm, kiểu như bỏ nhà trốn sang Mexico hay nhảy xuống từ tầng trên cùng của cầu thang hoặc đi trên một chiếc thuyền mà không mặc áo phao hoặc khi chúng học trung học và muốn uống rượu mạnh. Yêu thương trẻ con là dạy chúng những điều mới mẻ, và cảm thấy vui sướng khi chúng học được điều đó. Yêu thương trẻ con là khi chúng nắm lấy bàn tay ông bằng cái bàn tay nhỏ xíu đẫm mồ hôi và đầy thịt của mình để rồi ông cảm nhận được một đường dây trực tiếp nối thẳng đến trái tim. Yêu thương trẻ con là dẫu cho chúng có làm ông tức điên lên, và cuộc sống trước khi chúng xuất hiện vốn dĩ nhẹ nhàng hơn rất nhiều, ông vẫn mong chúng sẽ luôn luôn, luôn luôn quay trở về nhà, và ông sẽ nhớ chúng ngay khi chúng vừa rời đi. Ông sẽ nhớ chúng ngay khi chiếc xe buýt trường học đón chúng đi vào buổi sáng, và ông sẽ lo lắng cho chúng, ông luôn luôn lo lắng cho chúng, hằng mong và cầu nguyện rằng, cách này hay cách khác, chúng sẽ là một trong số những đứa trẻ may mắn. Một trong những đứa trẻ may mắn hạnh phúc, được bình an, tránh xa ma túy và sống đến tuổi một trăm linh hai và chẳng bao giờ phải trải qua bất kỳ nỗi đau đớn hay tan vỡ nào.”</p>
 
 <p class="para-en">“So, you do want us?” Ollie asked. “You want to love us like that? You want to miss us when we’re at school?”</p>
-<p class="para-vi-sub">“Thế chú có thực sự muốn tụi cháu không?” Ollie Meeklin hỏi. “Chú muốn yêu thương tụi cháu như thế sao? Chú muốn nhớ tụi cháu khi tụi cháu ở trường ư?”</p>
+<p class="para-vi-sub">“Thế ông có thực sự muốn tụi cháu không?” Ollie Meeklin hỏi. “Ông muốn yêu thương tụi cháu như thế sao? Ông muốn nhớ tụi cháu khi tụi cháu ở trường ư?”</p>
 
 <p class="para-en">“Yes!” PJ said. And he found it was true, he really did. PJ had always loved children, all children, they were the jewels of the world, but now he loved these particular ones the most. He loved how strong-willed Luna was, and how sweet Ollie was, and how smart they were, how kids could pick up new words and new facts all the time. He loved that they did thoughtful things, like bring him beignets from the Cracker Barrel in Tennessee, even though he had hoped to try the French donuts somewhere a little classier, like a bakery in New Orleans. He loved their weird interests, although Luna would not be allowed to cut and paste any more ransom notes. They made his life harder; they made his life so much harder, and still he wanted them. “I want you. I need to figure out how I can afford to raise you, but I want you. I really do.”</p>
-<p class="para-vi-sub">“Có chứ!” PJ đáp. Và ông nhận ra điều đó là sự thật, ông thực sự muốn thế. PJ vẫn luôn yêu thương trẻ con, tất cả những đứa trẻ trên đời, chúng chính là những viên ngọc quý của thế giới, nhưng giờ đây ông lại yêu thương những đứa trẻ đặc biệt này hơn cả. Ông yêu cái tính khí cương quyết của Luna Meeklin, yêu sự ngọt ngào của Ollie Meeklin, và yêu cả sự thông minh của chúng, cách mà lũ trẻ có thể tiếp thu những từ ngữ mới và những sự thật mới mọi lúc mọi nơi. Ông yêu việc chúng làm những điều chu đáo, chẳng hạn như mang cho ông bánh beignet từ quán Cracker Barrel, dẫu cho ông vẫn thầm hy vọng được nếm thử món bánh rán kiểu Pháp ở một nơi nào đó sang trọng hơn một chút, chẳng hạn như một tiệm bánh ở New Orleans. Ông yêu những sở thích kỳ quặc của chúng, mặc dù Luna Meeklin sẽ không được phép cắt và dán bất kỳ bức thư tống tiền nào nữa. Chúng làm cho cuộc sống của ông trở nên vất vả hơn; chúng làm cuộc sống của ông rối ren hơn rất nhiều, vậy mà ông vẫn muốn có chúng. “Chú muốn các cháu. Chú cần phải tìm cách xem làm sao mình có thể lo nổi tiền nuôi nấng các cháu, nhưng chú muốn có các cháu. Chú thực sự muốn thế.”</p>
+<p class="para-vi-sub">“Có chứ!” PJ đáp. Và ông nhận ra điều đó là sự thật, ông thực sự muốn thế. PJ vẫn luôn yêu thương trẻ con, tất cả những đứa trẻ trên đời, chúng chính là những viên ngọc quý của thế giới, nhưng giờ đây ông lại yêu thương những đứa trẻ đặc biệt này hơn cả. Ông yêu cái tính khí cương quyết của Luna Meeklin, yêu sự ngọt ngào của Ollie Meeklin, và yêu cả sự thông minh của chúng, cách mà lũ trẻ có thể tiếp thu những từ ngữ mới và những sự thật mới mọi lúc mọi nơi. Ông yêu việc chúng làm những điều chu đáo, chẳng hạn như mang cho ông bánh beignet từ quán Cracker Barrel, dẫu cho ông vẫn thầm hy vọng được nếm thử món bánh rán kiểu Pháp ở một nơi nào đó sang trọng hơn một chút, chẳng hạn như một tiệm bánh ở New Orleans. Ông yêu những sở thích kỳ quặc của chúng, mặc dù Luna Meeklin sẽ không được phép cắt và dán bất kỳ bức thư tống tiền nào nữa. Chúng làm cho cuộc sống của ông trở nên vất vả hơn; chúng làm cuộc sống của ông rối ren hơn rất nhiều, vậy mà ông vẫn muốn có chúng. “Ông muốn các cháu. Ông cần phải tìm cách xem làm sao mình có thể lo nổi tiền nuôi nấng các cháu, nhưng ông muốn có các cháu. Ông thực sự muốn thế.”</p>
 
 <p class="para-en">Sophie wasn’t surprised her dad was out of money. She knew it was a matter of time. Maybe now he’d finally get it together. Maybe this was the rock bottom they’d been waiting for.</p>
 <p class="para-vi-sub">Sophie Halliday không hề ngạc nhiên khi bố đã cạn sạch tiền. Cô biết chuyện đó chỉ là vấn đề thời gian mà thôi. Có lẽ giờ đây bố cuối cùng cũng sẽ xốc lại tinh thần. Có lẽ đây chính là đáy vực mà họ vẫn hằng mong đợi.</p>

@@ -34,15 +34,15 @@ Sophie khựng lại. Cô thực sự tổn thương khi mẹ không hề mời 
 
 “Chú PJ, chúng cháu không phải cún con,” Ollie từ ghế sau lên tiếng. “Chúng cháu là trẻ con mà.” Giọng cậu bé chẳng hề giận dữ chút nào. Cậu bé nghe có vẻ buồn bã.
 
-“À, chú biết chứ, nhóc con. Chú biết các cháu không phải chó mà.”
+“À, ông biết chứ, nhóc con. Ông biết các cháu không phải chó mà.”
 
-“Cháu tưởng chú nhận nuôi chúng cháu vì con gái chú đã mất,” Ollie nói. “Cháu tưởng chú muốn chúng cháu làm kẻ thay thế.”
+“Cháu tưởng ông nhận nuôi chúng cháu vì con gái ông đã mất,” Ollie nói. “Cháu tưởng ông muốn chúng cháu làm kẻ thay thế.”
 
-“Ôi không, không, không phải thế đâu. Họ chỉ gọi cho chú và bảo chú phải đón các cháu vì tất cả những người khác trong họ hàng đều chết hết rồi. Họ bảo chú là lựa chọn tốt nhất của các cháu.”
+“Ôi không, không, không phải thế đâu. Họ chỉ gọi cho ông và bảo ông phải đón các cháu vì tất cả những người khác trong họ hàng đều chết hết rồi. Họ bảo ông là lựa chọn tốt nhất của các cháu.”
 
-“Chú không tự nộp đơn nhận nuôi chúng cháu á?”
+“Ông không tự nộp đơn nhận nuôi chúng cháu á?”
 
-“Chú có đủ rắc rối rồi, nhóc ạ. Chú có đi tìm cách nhận nuôi ai đâu.”
+“Ông có đủ rắc rối rồi, nhóc ạ. Ông có đi tìm cách nhận nuôi ai đâu.”
 
 “Ôi,” cậu bé thốt lên.
 
@@ -60,7 +60,7 @@ Sophie cảm nhận được sự nhẹ bẫng ở một bên đầu, một cả
 
 “Con có cần tỉa tót gì đâu! Luna, nếu em tức giận ai đó,” Sophie nói, “thì hãy tức giận lão ta ấy. Cắt tóc lão ấy đi!” Sophie từng thề là sẽ không chửi thề trước mặt lũ trẻ, người bạn Sara ở cơ quan từng kể về việc cô ấy cố gắng không nói bậy trước mặt con cái ra sao, thế nhưng mọi lời hứa hẹn với bản thân của Sophie lúc này đều bay sạch. Bị nghiền nát bét hệt như con chồn hôi mà họ thấy bên đường lúc nãy, với phần ruột màu hồng phèo phè tràn ra ngoài.
 
-“Chú chắc là Luna không có ý đó đâu,” PJ nói. “Cháu không có ý thế phải không, Luna?”
+“Ông chắc là Luna không có ý đó đâu,” PJ nói. “Cháu không có ý thế phải không, Luna?”
 
 Luna không đáp lời. Chỉ cần hé miệng ra là cô bé sẽ òa khóc mất. Và cô bé không muốn khóc chút nào. Người lớn cực kỳ ghét việc lũ trẻ khóc, và cô bé không muốn làm bất cứ điều gì khiến bản thân trở nên thừa thãi hay không được mong muốn thêm nữa.
 

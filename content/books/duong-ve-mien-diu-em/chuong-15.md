@@ -4,7 +4,7 @@
 
 Quay lại ngôi nhà, sau khi đã đánh răng, cho bọn trẻ lên giường đi ngủ và mọi thứ đã dịu xuống, ông ngồi trên một chiếc ghế đặt cạnh giường. Đó là chiếc ghế văn phòng có thể xoay do Fred sử dụng. Chú mèo nhảy lên đùi ông. Luna nằm ở giường tầng dưới, còn Ollie ở tầng trên.
 
-“Thế nên, hãy kể cho chú nghe về người này đi cháu,” ông nói với Luna. “Người mà cháu nghĩ là bố cháu ấy.”
+“Thế nên, hãy kể cho ông nghe về người này đi cháu,” ông nói với Luna. “Người mà cháu nghĩ là bố cháu ấy.”
 
 Luna nhìn ông một phút, cân nhắc xem mình có thể tin tưởng ông già này không, nhưng cô bé thấy chú mèo thích ông, và cô bé cũng thích chú mèo. Cô bé thò tay xuống dưới gối, lấy ra một bức ảnh bóng bẩy. Ảnh chân dung của một diễn viên. Trên ảnh có chữ ký: Gửi tất cả tình yêu của anh, Mark Stackpole. Ông cầm lấy bức ảnh từ tay cô bé thận trọng, cố chỉ chạm ngón tay vào rìa để không để lại dấu vân tay nhờ nhờ trên bức ảnh. “Trời ạ,” ông nói. “Cậu ta gửi bức ảnh này cho cháu á?”
 
@@ -12,13 +12,13 @@ Luna gật đầu. Đó là lý do cô bé phải quay lại ngôi nhà cũ. Đ�
 
 Ông ngắm nghía bức ảnh chân dung trên tay. “Đẹp trai phết nhỉ. Cháu trông cũng hơi giống anh ta đấy.”
 
-Luna ngồi bật dậy. “Chú nghĩ vậy thật ạ?” cô bé hỏi.
+Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
-“Đúng thế,” ông nói, cảm thấy vui mừng khi nghe giọng nói của đứa trẻ lần đầu tiên. “Chú nghĩ thế. Thật đấy.”
+“Đúng thế,” ông nói, cảm thấy vui mừng khi nghe giọng nói của đứa trẻ lần đầu tiên. “Ông nghĩ thế. Thật đấy.”
 
-“Chú kiếm cho cháu một bài xét nghiệm ADN được không?”
+“Ông kiếm cho cháu một bài xét nghiệm ADN được không?”
 
-“À, chú thì mù tịt về ba cái vụ xét nghiệm ADN. Nhưng chú có thể đưa cháu đến Los Angeles để gặp người này.”
+“À, ông thì mù tịt về ba cái vụ xét nghiệm ADN. Nhưng ông có thể đưa cháu đến Los Angeles để gặp người này.”
 
 “Cháu đi được ạ?”
 
@@ -38,9 +38,9 @@ Luna ngồi bật dậy. “Chú nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Thế còn đi máy bay thì sao ạ? Chúng ta đi máy bay được không? Ollie toàn đánh rắm trên ô tô thôi.”
 
-“Câu hỏi hay đấy, nhóc con ạ, nhưng cơ sự là thế này: Chú không muốn làm cháu sợ đâu, vì chú biết bố mẹ các cháu vừa mới qua đời, nhưng chú đang già đi và chưa từng có một chuyến phiêu lưu lớn nào trong đời. Chú từng có một chuyến phiêu lưu, nhưng là do chính phủ Hợp chủng quốc bắt chú đi, và suýt chút nữa thì chú không sống nổi mà về.”
+“Câu hỏi hay đấy, nhóc con ạ, nhưng cơ sự là thế này: Ông không muốn làm cháu sợ đâu, vì ông biết bố mẹ các cháu vừa mới qua đời, nhưng ông đang già đi và chưa từng có một chuyến phiêu lưu lớn nào trong đời. Ông từng có một chuyến phiêu lưu, nhưng là do chính phủ Hợp chủng quốc bắt ông đi, và suýt chút nữa thì ông không sống nổi mà về.”
 
-“Chú từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.
+“Ông từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.
 
 Ông lắc đầu. “Chú đi lính trong chiến tranh.”
 
@@ -78,9 +78,9 @@ Luna ngồi bật dậy. “Chú nghĩ vậy thật ạ?” cô bé hỏi.
 
 Luna cảm thấy vô cùng ấn tượng với Ollie. Thường ngày cậu bé chẳng lanh lợi thế này bao giờ. Cô bé mới là đứa lanh lợi, còn cậu em chỉ toàn hùa theo cô bé. Cô bé thầm thấy hối hận vì đã bỏ lại cậu em khi cô bé bỏ nhà đi.
 
-“Ý chú là, tính ra thì bây giờ cũng coi như là nghỉ hè rồi còn gì, đúng không?” PJ vừa nói vừa ngẫm nghĩ. Ông nhớ Ivy vẫn hay bảo đằng nào thì tháng Sáu cũng có học hành gì mấy đâu, toàn là dọn dẹp lớp học với lũ trẻ nghịch phá khắp nơi.
+“Ý ông là, tính ra thì bây giờ cũng coi như là nghỉ hè rồi còn gì, đúng không?” PJ vừa nói vừa ngẫm nghĩ. Ông nhớ Ivy vẫn hay bảo đằng nào thì tháng Sáu cũng có học hành gì mấy đâu, toàn là dọn dẹp lớp học với lũ trẻ nghịch phá khắp nơi.
 
-“Đúng vậy, bọn cháu chỉ xem phim trong suốt phần còn lại của năm thôi,” Luna nói, như thể đọc được suy nghĩ của PJ. “Chú có thể cho bọn cháu xem vài bộ phim nếu chú thích. Những bộ phim yêu thích của chú ấy.” Luna biết người lớn thích cho lũ trẻ xem những bộ phim yêu thích của họ, và cô bé muốn rời đi trước khi PJ đổi ý về việc đưa mình đi gặp bố. Và Luna không muốn quay lại cái ngôi trường mà cô bé căm ghét tất cả mọi người ở đó. Hội diễn tài năng sắp diễn ra và cô bé thừa biết Elsie Dawson, đứa con gái đóng vai Tinker Bell năm ngoái, sẽ giành chiến thắng, và Luna sẽ không thể đấm cô bé đó thêm lần nữa vì các giáo viên sẽ canh chừng cô bé suốt thời gian đó.
+“Đúng vậy, bọn cháu chỉ xem phim trong suốt phần còn lại của năm thôi,” Luna nói, như thể đọc được suy nghĩ của PJ. “Ông có thể cho bọn cháu xem vài bộ phim nếu ông thích. Những bộ phim yêu thích của ông ấy.” Luna biết người lớn thích cho lũ trẻ xem những bộ phim yêu thích của họ, và cô bé muốn rời đi trước khi PJ đổi ý về việc đưa mình đi gặp bố. Và Luna không muốn quay lại cái ngôi trường mà cô bé căm ghét tất cả mọi người ở đó. Hội diễn tài năng sắp diễn ra và cô bé thừa biết Elsie Dawson, đứa con gái đóng vai Tinker Bell năm ngoái, sẽ giành chiến thắng, và Luna sẽ không thể đấm cô bé đó thêm lần nữa vì các giáo viên sẽ canh chừng cô bé suốt thời gian đó.
 
 PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị trấn trước kỳ vũ hội tốt nghiệp, trước khi ông bắt đầu nhớ Kate đến mức đau thắt cả ruột gan. Kate thường mỉm cười và nói với ông sau một trận bóng mềm rằng: “Bố thua bao nhiêu tiền khi cược chống lại bọn con thế?” Đó là câu nói đùa giữa hai bố con, rằng ông lúc nào cũng cược cho đội đối thủ, dù sự thật hoàn toàn trái ngược. PJ muốn rời khỏi Pondville trước khi ông bắt đầu nhìn thấy những chùm bóng bay mừng tốt nghiệp giăng đầy sân, những tấm biển đề dòng chữ Chúc mừng tân tú tài! bởi vì Kate chưa bao giờ sống đến ngày đó.
 
@@ -102,11 +102,11 @@ PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị tr
 
 “Dạ?”
 
-“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng chú đoán là không đâu.”
+“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”
 
-“Luna, em không hề kể gì cho chú ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”
+“Luna, em không hề kể gì cho ông ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”
 
-“Cậu bé không hề kể gì với chú đâu,” PJ nói. “Đó là sự thật. Chú chỉ biết anh trai mình là một kẻ khốn nạn và chú có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Chú nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”
+“Cậu bé không hề kể gì với ông đâu,” PJ nói. “Đó là sự thật. Ông chỉ biết anh trai mình là một kẻ khốn nạn và ông có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Ông nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”
 
 “Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn chú PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.
 

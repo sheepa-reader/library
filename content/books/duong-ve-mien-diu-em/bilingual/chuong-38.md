@@ -24,10 +24,10 @@
 <p class="para-vi-sub">“Chú PJ phải kể chuyện trước khi ngủ chứ ạ,” Luna nói. “Một câu chuyện hay cơ. Chuyện khác về hồi cấp ba ấy. Về Michelle Cobb.”</p>
 
 <p class="para-en">PJ didn’t have any more stories about Michelle Cobb. He’d gone away to Vietnam, and she’d left town with Gene and he’d never seen her again. The only contact he’d had with Michelle in the past forty-five years was right after Kate died; she and Gene had sent flowers to the funeral home. PJ had been deeply touched, had wondered how they had heard about Kate’s death all the way out west. “How about instead I’ll tell you a story about when my kids were kids,” PJ offered. “I’ll tell you a story about my daughter Kate.”</p>
-<p class="para-vi-sub">PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó chú sẽ kể cho các cháu nghe một câu chuyện về hồi các con của chú còn nhỏ nhé,” PJ đề nghị. “Chú sẽ kể cho các cháu nghe về con gái Kate của chú.”</p>
+<p class="para-vi-sub">PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó ông sẽ kể cho các cháu nghe một câu chuyện về hồi các con của ông còn nhỏ nhé,” PJ đề nghị. “Ông sẽ kể cho các cháu nghe về con gái Kate của ông.”</p>
 
 <p class="para-en">“Kate is Sophie’s dead sister? Your daughter who drowned?”</p>
-<p class="para-vi-sub">“Kate là người chị đã mất của Sophie á? Con gái của chú mà bị chết đuối ấy ạ?”</p>
+<p class="para-vi-sub">“Kate là người chị đã mất của Sophie á? Con gái của ông mà bị chết đuối ấy ạ?”</p>
 
 <p class="para-en">“Yup. Kate is the dead sister.”</p>
 <p class="para-vi-sub">“Ừ. Kate là người chị đã mất.”</p>
@@ -57,7 +57,7 @@
 <p class="para-vi-sub">“Giờ mình đã là phụ nữ,” Sophie lẩm bẩm nhắc lại, rồi Kate bảo cô biến đi. Sophie đã đi vào nhà xem hoạt hình và đó là chương trình truyền hình tuyệt vời nhất mà cô từng được xem. Đó là một kỷ niệm vui đối với Sophie, và cô phải mất một thời gian dài mới nhận ra chuyện đó quái đản thế nào. Nhưng anh chị em ruột thì vẫn hay làm những trò quái đản với nhau đấy thôi, phải không nào? Đó là một phần của luật lệ. Đó là lý do tại sao những đứa trẻ có anh chị em ruột lại rất may mắn. Họ rèn luyện cho bạn sự cứng cỏi để đối mặt với phần còn lại của thế giới.</p>
 
 <p class="para-en">“I’ll tell you about the first time Kate died,” Sophie’s dad said to Ollie and Luna now, in the dingy room at the Golden Cherry. “And how she came back to life.”</p>
-<p class="para-vi-sub">“Chú sẽ kể cho các cháu nghe về lần đầu tiên Kate chết,” bố của Sophie giờ đây cất lời kể với Ollie và Luna, trong căn phòng tồi tàn ở nhà nghỉ Golden Cherry. “Và cách con bé sống lại như thế nào.”</p>
+<p class="para-vi-sub">“Ông sẽ kể cho các cháu nghe về lần đầu tiên Kate chết,” bố của Sophie giờ đây cất lời kể với Ollie và Luna, trong căn phòng tồi tàn ở nhà nghỉ Golden Cherry. “Và cách con bé sống lại như thế nào.”</p>
 
 <p class="para-en">“Is it true?” Ollie asked.</p>
 <p class="para-vi-sub">“Thật ạ?” Ollie hỏi.</p>
@@ -144,13 +144,13 @@
 <p class="para-vi-sub">Hôm đó tan học về, Kate chạy ù vào nhà và dành tặng PJ cái ôm lâu nhất mà ông từng nhận được trong đời. Ivy đã bấm giờ hẳn hoi.</p>
 
 <p class="para-en">“It repaired my marriage, for a little while,” PJ said, after the story. “Not forever, of course. You know Ivy left me for Fred.”</p>
-<p class="para-vi-sub">“Chuyện đó đã hàn gắn cuộc hôn nhân của chú, được một khoảng thời gian,” PJ nói, sau câu chuyện. “Tất nhiên là không phải mãi mãi rồi. Các cháu biết đấy, Ivy đã bỏ chú để theo Fred.”</p>
+<p class="para-vi-sub">“Chuyện đó đã hàn gắn cuộc hôn nhân của ông, được một khoảng thời gian,” PJ nói, sau câu chuyện. “Tất nhiên là không phải mãi mãi rồi. Các cháu biết đấy, Ivy đã bỏ ông để theo Fred.”</p>
 
 <p class="para-en">Ollie and Luna nodded. “So, how’d you do it, Uncle PJ?” Luna asked. “How’d you get all the lollipops in the trees?”</p>
-<p class="para-vi-sub">Ollie và Luna gật đầu. “Thế chú PJ làm cách nào ạ?” Luna hỏi. “Sao chú gắn được từng ấy cây kẹo mút lên cây hay thế?”</p>
+<p class="para-vi-sub">Ollie và Luna gật đầu. “Thế ông PJ làm cách nào ạ?” Luna hỏi. “Sao ông gắn được từng ấy cây kẹo mút lên cây hay thế?”</p>
 
 <p class="para-en">PJ smiled, remembering. Another life. “The best thing about being a mailman is you get to know everyone. I knew the candy-store owner, and she made a call to her supplier, and I knew the bread baker, and he made a call to the company that makes the twist-ties they put on bread bags, and then I had all the men in town twist-tying lollipops to tree branches overnight. It all came down to the good friends I had in Pondville. They helped me out.”</p>
-<p class="para-vi-sub">PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt vời nhất khi làm nhân viên đưa thư là cháu sẽ quen biết tất cả mọi người. Chú quen chủ tiệm kẹo, và cô ấy gọi điện cho nhà cung cấp của mình, rồi chú quen thợ làm bánh mì, và cậu ta gọi điện cho công ty sản xuất cái dây kẽm buộc miệng túi bánh mì, để rồi thế là chú huy động được tất cả đàn ông trong thị trấn buộc cây kẹo mút vào cành cây qua đêm. Tất cả là nhờ những người bạn tốt ở Pondville. Họ đã giúp chú một tay.”</p>
+<p class="para-vi-sub">PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt vời nhất khi làm nhân viên đưa thư là cháu sẽ quen biết tất cả mọi người. Ông quen chủ tiệm kẹo, và cô ấy gọi điện cho nhà cung cấp của mình, rồi ông quen thợ làm bánh mì, và cậu ta gọi điện cho công ty sản xuất cái dây kẽm buộc miệng túi bánh mì, để rồi thế là ông huy động được tất cả đàn ông trong thị trấn buộc cây kẹo mút vào cành cây qua đêm. Tất cả là nhờ những người bạn tốt ở Pondville. Họ đã giúp ông một tay.”</p>
 
 <p class="para-en">“And it wasn’t on every single tree in town,” Sophie said. “Just one tree outside every middle schooler’s house.”</p>
 <p class="para-vi-sub">“Và nó không phải ở tất cả mọi cái cây trong thị trấn,” Sophie nói. “Chỉ là một cái cây bên ngoài nhà của mỗi đứa học sinh cấp hai thôi.”</p>
@@ -168,7 +168,7 @@
 <p class="para-vi-sub">“Sao thế, Ollie?”</p>
 
 <p class="para-en">“When we get home, will you make us a lollipop tree too?”</p>
-<p class="para-vi-sub">“Lúc chúng cháu về nhà, chú làm cho chúng cháu một cây kẹo mút nữa nhé?”</p>
+<p class="para-vi-sub">“Lúc chúng cháu về nhà, ông làm cho chúng cháu một cây kẹo mút nữa nhé?”</p>
 
 <p class="para-en">“Sure I will. Of course I will.”</p>
 <p class="para-vi-sub">“Chắc chắn rồi. Đương nhiên là có rồi.”</p>

@@ -42,31 +42,31 @@
 <p class="para-vi-sub">“Không,” Sophie đáp ngay. “Chị không nghĩ họ ở địa ngục đâu.” Mặc dù Sophie đang mặc chiếc áo phông có dòng chữ Satan là bố ruột của tôi , cô không hề thấy thoải mái khi tống bố mẹ của Luna xuống địa ngục.</p>
 
 <p class="para-en">“I don’t believe in it,” PJ agreed, finally looking up from his book.</p>
-<p class="para-vi-sub">“Chú không tin vào điều đó,” PJ đồng tình, cuối cùng cũng ngẩng đầu lên khỏi cuốn sách.</p>
+<p class="para-vi-sub">“Ông không tin vào điều đó,” PJ đồng tình, cuối cùng cũng ngẩng đầu lên khỏi cuốn sách.</p>
 
 <p class="para-en">“Don’t believe in what?” Luna asked.</p>
 <p class="para-vi-sub">“Không tin vào cái gì cơ ạ?” Luna hỏi.</p>
 
 <p class="para-en">“Hell. It doesn’t make any sense. Why the actions over your short life-span would determine what happens to your soul for the rest of eternity. If you live for eighty years, that’s a tiny blip against the scale of eternity. It seems overkill to me, to have one short chance when God is supposed to be endlessly forgiving.”</p>
-<p class="para-vi-sub">“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Chú thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”</p>
+<p class="para-vi-sub">“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Ông thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”</p>
 
 <p class="para-en">“Well, what do you believe in then, Uncle PJ?” Ollie asked.</p>
 <p class="para-vi-sub">“Thế chú PJ tin vào điều gì ạ?” Ollie hỏi.</p>
 
 <p class="para-en">PJ didn’t really know what he believed about the afterlife or God or any of it; it had been hard to believe in a higher power after Kate died, but he also didn’t like to think that Kate’s spirit, that her soul, was gone completely. There had to be some answer for where all that life went. “Well,” PJ said, considering what to tell the kids if there was no hell. Surely not everyone could go to heaven. Surely not everyone deserved a free pass. “Past lives. That’s a theory I think I like. You might come back a better animal than a human, or you might come back a worse one.”</p>
-<p class="para-vi-sub">PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà chú nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”</p>
+<p class="para-vi-sub">PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà ông nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”</p>
 
 <p class="para-en">“What were you in your past life, Dad?” Sophie asked, relaxing after her dad took over the conversation.</p>
 <p class="para-vi-sub">“Kiếp trước bố là con gì thế, bố?” Sophie hỏi, cảm thấy nhẹ nhõm hơn sau khi bố tiếp quản câu chuyện.</p>
 
 <p class="para-en">PJ pet the cat in his lap. “Well, I think in his past life, Pancakes was a goat herder in Mongolia. And I believe I was one of his goats.”</p>
-<p class="para-vi-sub">PJ vuốt ve chú mèo đang nằm trên đùi mình. “À, bố nghĩ trong kiếp trước của chú ấy , Pancakes từng là một kẻ chăn dê ở Mông Cổ. Và bố tin rằng mình từng là một trong những con dê của chú mèo.”</p>
+<p class="para-vi-sub">PJ vuốt ve chú mèo đang nằm trên đùi mình. “À, ông nghĩ trong kiếp trước của chú ấy, Pancakes từng là một kẻ chăn dê ở Mông Cổ. Và ông tin rằng mình từng là một trong những con dê của chú mèo.”</p>
 
 <p class="para-en">“A goat?” Ollie asked, laughing. “You think you were a goat?”</p>
-<p class="para-vi-sub">“Một con dê á?” Ollie vừa cười vừa hỏi. “Chú nghĩ mình từng là một con dê á?”</p>
+<p class="para-vi-sub">“Một con dê á?” Ollie vừa cười vừa hỏi. “Ông nghĩ mình từng là một con dê á?”</p>
 
 <p class="para-en">“Yup. Or perhaps a yak. But Pancakes and I found each other again, in this life, which is a beautiful thing.”</p>
-<p class="para-vi-sub">“Ừ. Hoặc có lẽ là một con bò Tây Tạng. Nhưng Pancakes và chú đã tìm thấy nhau lần nữa, trong cuộc đời này, và đó là một điều tuyệt vời.”</p>
+<p class="para-vi-sub">“Ừ. Hoặc có lẽ là một con bò Tây Tạng. Nhưng Pancakes và ông đã tìm thấy nhau lần nữa, trong cuộc đời này, và đó là một điều tuyệt vời.”</p>
 
 <p class="para-en">Pancakes purred at this attention, amused at PJ trying to make sense of the afterlife.</p>
 <p class="para-vi-sub">Pancakes kêu gừ gừ trước sự quan tâm đó, tỏ vẻ buồn cười khi thấy PJ đang cố gắng tìm hiểu về thế giới bên kia.</p>

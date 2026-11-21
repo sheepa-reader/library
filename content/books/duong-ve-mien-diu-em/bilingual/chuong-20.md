@@ -27,16 +27,16 @@
 <p class="para-vi-sub">“Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng chú PJ sẽ lái xe.</p>
 
 <p class="para-en">“I’m helping my dad out with you,” Sophie said. “And I’m driving the car.”</p>
-<p class="para-vi-sub">“Cô đang giúp chú của các cháu chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”</p>
+<p class="para-vi-sub">“Cô đang giúp bố cô chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”</p>
 
 <p class="para-en">“He doesn’t need help with us,” Luna said, her arms crossed. “We’re not babies.”</p>
-<p class="para-vi-sub">“Chú ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”</p>
+<p class="para-vi-sub">“Ông ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”</p>
 
 <p class="para-en">“Yeah,” Ollie agreed, although he liked that Sophie had blue streaks in her hair.</p>
 <p class="para-vi-sub">“Ừ,” Ollie hùa theo, mặc dù cậu bé khá thích việc Sophie có những lọn tóc vệt xanh.</p>
 
 <p class="para-en">“She’s an instrumental part of this trip,” PJ assured Luna. “She’ll keep me in line. And don’t worry, Luna, Sophie only looks scary with all the makeup she wears. She’s a marshmallow.”</p>
-<p class="para-vi-sub">“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ chú vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”</p>
+<p class="para-vi-sub">“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ ông vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”</p>
 
 <p class="para-en">“I’m not a marshmallow,” Sophie grumbled.</p>
 <p class="para-vi-sub">“Con không phải kẹo bông dẻo,” Sophie cằn nhằn.</p>
@@ -69,7 +69,7 @@
 <p class="para-vi-sub">“Đúng thế,” Sophie nói.</p>
 
 <p class="para-en">“I drink too much,” PJ said, because there was no point in hiding it. “But I’m getting better.”</p>
-<p class="para-vi-sub">“Chú uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng chú đang khá lên rồi.”</p>
+<p class="para-vi-sub">“Ông uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng ông đang khá lên rồi.”</p>
 
 <p class="para-en">“Our dad could drive,” Ollie said. “He was a police officer. And he drank too much beer too.”</p>
 <p class="para-vi-sub">“Bố của chúng cháu cũng lái xe đấy chứ,” Ollie nói. “Bố là cảnh sát. Và bố cũng uống rất nhiều bia.”</p>
@@ -78,7 +78,7 @@
 <p class="para-vi-sub">“Người ta cho phép cảnh sát làm bất cứ điều gì mà,” Sophie nói.</p>
 
 <p class="para-en">“I’m not the kind of drinker your dad was,” PJ said, because he had seen some notes from a social worker in the file, and he got the gist. “I’m a happy drunk. I’m a loving guy.”</p>
-<p class="para-vi-sub">“Chú không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Chú là một người say vui vẻ. Chú là một người rất yêu thương con cái.”</p>
+<p class="para-vi-sub">“Ông không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Ông là một người say vui vẻ. Ông là một người rất yêu thương con cái.”</p>
 
 <p class="para-en">Sophie rolled her eyes. It was terrible to have any kind of alcoholic as a father, a happy drunk or a mean one. It’s always confusing and scary. It’s always someone who chooses booze over taking care of you.</p>
 <p class="para-vi-sub">Sophie đảo mắt ngán ngẩm. Thật kinh khủng khi có bất kỳ loại bợm nhậu nào làm bố, dù là bợm nhậu vui vẻ hay bợm nhậu cục súc. Mọi thứ luôn thật rối rắm và đáng sợ. Đó luôn là kẻ đặt rượu chè lên trên việc chăm sóc bạn.</p>
@@ -96,7 +96,7 @@
 <p class="para-vi-sub">“Bố không được phép chạm vào vô lăng. Và đừng có chửi thề trước mặt bọn trẻ.”</p>
 
 <p class="para-en">“I know all the swears already,” Ollie said proudly. “Do you want me to list them?”</p>
-<p class="para-vi-sub">“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Chú có muốn cháu kể ra hết không?”</p>
+<p class="para-vi-sub">“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Ông có muốn cháu kể ra hết không?”</p>
 
 <p class="para-en">“Yes,” Luna said.</p>
 <p class="para-vi-sub">“Có chứ,” Luna nói.</p>
@@ -108,10 +108,10 @@
 <p class="para-vi-sub">“Tuyệt đối không,” Sophie nói. “Bố, nói chuyện với bọn trẻ đi. Kể cho chúng nghe một câu chuyện gì đó đi.”</p>
 
 <p class="para-en">“Oh, it’s a little early for one of my stories, but—oh, wait, I’ve got something to keep them busy!” He went into the tote bag at his feet. At the Walmart, the saleswoman who’d helped him with the trampoline and the PlayStation had told him that if he was really going to be babysitting children, what he truly needed was an iPad. It was her number-one parenting trick, the iPad. PJ pulled the tablets out of the bag. He’d bought two of them, and headphones too. He’d even charged them up for the trip. He handed them back.</p>
-<p class="para-vi-sub">“Ồ, còn hơi sớm để kể một trong số những câu chuyện của chú, nhưng mà... ồ đợi đã, chú có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc lò nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.</p>
+<p class="para-vi-sub">“Ồ, còn hơi sớm để kể một trong số những câu chuyện của ông, nhưng mà... ồ đợi đã, ông có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc bạt nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.</p>
 
 <p class="para-en">“You bought us iPads?” Ollie said, his eyes wide.</p>
-<p class="para-vi-sub">“Chú mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.</p>
+<p class="para-vi-sub">“Ông mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.</p>
 
 <p class="para-en">“Are you rich, Uncle PJ?” Luna asked.</p>
 <p class="para-vi-sub">Luna hỏi: “Chú giàu lắm hả chú PJ?”</p>
@@ -129,10 +129,10 @@
 <p class="para-vi-sub">“Là một triệu rưỡi cơ,” PJ tự hào nói. “Từ một tấm vé cào đấy.”</p>
 
 <p class="para-en">“Wow,” Ollie said. “You really won the lottery?”</p>
-<p class="para-vi-sub">“Chà,” Ollie nói. “Chú thực sự trúng xổ số luôn á?”</p>
+<p class="para-vi-sub">“Chà,” Ollie nói. “Ông thực sự trúng xổ số luôn á?”</p>
 
 <p class="para-en">“Thank you,” Luna whispered, bringing the iPad to her chest.</p>
-<p class="para-vi-sub">Luna thì thầm: “Cảm ơn chú,” rồi ôm chiếc iPad vào ngực.</p>
+<p class="para-vi-sub">Luna thì thầm: “Cảm ơn ông,” rồi ôm chiếc iPad vào ngực.</p>
 
 <p class="para-en">PJ smiled, feeling good. Kids understood how impressive it was to win the lottery, it wasn’t something anyone could do. He hated how Sophie looked down on it like it was a white-trash thing to play the scratch-offs. He’d won, fair and square, and he’d done good things with his money. He’d been a contributing member of the Pondville community.</p>
 <p class="para-vi-sub">PJ mỉm cười, cảm thấy vô cùng đắc ý. Trẻ con hiểu được việc trúng xổ số ấn tượng đến thế nào, đó không phải là thứ mà ai cũng có thể làm được. Ông ghét cái cách Sophie coi thường chuyện chơi vé cào cứ như đó là trò của đám người vô lại tầng lớp hạ lưu vậy. Ông đã trúng thưởng đường đường chính chính, và ông đã dùng số tiền của mình để làm những việc có ích. Ông đã là một công dân có đóng góp cho cộng đồng Pondville.</p>
@@ -147,7 +147,7 @@
 <p class="para-vi-sub">“Và gọi khoai tây chiên qua dịch vụ phòng chứ ạ?” Ollie từng xem một bộ phim về một đứa trẻ nhà giàu sống một mình trong khách sạn, và cậu bé vẫn luôn khao khát được sống theo cách đó. Được ăn ngập mặt khoai tây chiên và kem phục vụ trên đĩa bạc.</p>
 
 <p class="para-en">“Absolutely. We’ll get you French fries.”</p>
-<p class="para-vi-sub">“Chắc chắn rồi. Chú sẽ gọi khoai tây chiên cho cháu.”</p>
+<p class="para-vi-sub">“Chắc chắn rồi. Ông sẽ gọi khoai tây chiên cho cháu.”</p>
 
 <p class="para-en">“A hotel with a pool?” Luna asked.</p>
 <p class="para-vi-sub">“Có khách sạn nào có hồ bơi không ạ?” Luna hỏi.</p>
@@ -162,7 +162,7 @@
 <p class="para-vi-sub">“Ai cơ?” Luna hỏi. “Ai chết đuối vậy?”</p>
 
 <p class="para-en">“My daughter, Kate. When she was eighteen, she drowned. The tragedy of my life.”</p>
-<p class="para-vi-sub">“Con gái chú, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời chú.”</p>
+<p class="para-vi-sub">“Con gái ông, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời ông.”</p>
 
 <p class="para-en">“Not in a pool, though,” Sophie said. “In a cranberry bog.”</p>
 <p class="para-vi-sub">“Nhưng không phải ở hồ bơi đâu,” Sophie nói. “Ở đầm lầy nam việt quất cơ.”</p>
@@ -171,10 +171,10 @@
 <p class="para-vi-sub">“Làm sao mà người ta lại chết đuối ở đầm lầy nam việt quất được nhỉ?” Luna hỏi. “Chúng có sâu lắm đâu.” Mọi người ở Pondville đều biết rõ về quả nam việt quất.</p>
 
 <p class="para-en">“It’s the greatest tragedy of my life,” PJ said.</p>
-<p class="para-vi-sub">“Đó là bi kịch lớn nhất cuộc đời chú,” PJ nói.</p>
+<p class="para-vi-sub">“Đó là bi kịch lớn nhất cuộc đời ông,” PJ nói.</p>
 
 <p class="para-en">“I’m sorry for your loss,” Ollie said.</p>
-<p class="para-vi-sub">“Cháu rất tiếc vì sự mất mát của chú,” Ollie nói.</p>
+<p class="para-vi-sub">“Cháu rất tiếc vì sự mất mát của ông,” Ollie nói.</p>
 
 <p class="para-en">“That’s very kind, Ollie,” Sophie said. She liked the sweet boy. He had a gap between his teeth, so when he talked there was a soft whistling sound.</p>
 <p class="para-vi-sub">“Em thật tốt bụng, Ollie,” Sophie nói. Cô rất quý cậu bé ngọt ngào này. Cậu bé bị thưa răng cửa, nên mỗi khi nói chuyện lại phát ra một tiếng gió xì xèo rất khẽ.</p>
@@ -189,7 +189,7 @@
 <p class="para-vi-sub">Ollie phá vỡ sự im lặng bằng câu nói: “Luna từng đấm Elsie Dawson trong vở kịch ở trường năm ngoái. Và chị ấy đã không chịu xin lỗi.”</p>
 
 <p class="para-en">“I’m sure Elsie deserved it,” PJ said.</p>
-<p class="para-vi-sub">PJ lên tiếng: “Chú chắc chắn là Elsie đáng bị như vậy.”</p>
+<p class="para-vi-sub">PJ lên tiếng: “Ông chắc chắn là Elsie đáng bị như vậy.”</p>
 
 <p class="para-en">Luna smiled. She hadn’t expected Uncle PJ to say that.</p>
 <p class="para-vi-sub">Luna mỉm cười. Cô bé không ngờ chú PJ lại nói thế.</p>

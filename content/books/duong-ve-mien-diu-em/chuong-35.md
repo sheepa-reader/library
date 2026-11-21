@@ -6,13 +6,13 @@
 
 “Chúng ta cần đến Texas,” Sophie nhắc nhở bố. “Bố đã hứa đưa lũ trẻ đến Texas cơ mà.”
 
-“Chú ấy hứa với mỗi Luna thôi,” Ollie làu bàu. “Cháu có thực sự muốn đến Texas đâu.”
+“Ông ấy hứa với mỗi Luna thôi,” Ollie làu bàu. “Cháu có thực sự muốn đến Texas đâu.”
 
 “Chúng ta vẫn còn vài ngày để đến Texas cơ mà,” PJ nói. “Vẫn kịp ghé dọc đường chứ. Mới ngắm mỗi thác Niagara chứ đã thấy gì đâu. Chẳng thấy gì thêm về đất nước vĩ đại này cả.”
 
-“Chúng ta chỉ còn đúng hai ngày để đến Texas thôi,” Luna vừa ngẩng lên từ đống tạp chí và kéo vừa đính chính. “Hôm nay và ngày mai. Sự kiện diễn ra vào sáng thứ Bảy mà. Chú có muốn xem lại quảng cáo không? Mười giờ sáng đến một giờ chiều ngày mùng bảy tháng Sáu.”
+“Chúng ta chỉ còn đúng hai ngày để đến Texas thôi,” Luna vừa ngẩng lên từ đống tạp chí và kéo vừa đính chính. “Hôm nay và ngày mai. Sự kiện diễn ra vào sáng thứ Bảy mà. Ông có muốn xem lại quảng cáo không? Mười giờ sáng đến một giờ chiều ngày mùng bảy tháng Sáu.”
 
-Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin chú, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối chú PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.
+Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin ông, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối chú PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.
 
 Sophie đành thừa nhận rằng được xuống xe đi lại một chút chắc sẽ rất tuyệt. Cô thấy mừng vì hôm nay mình vẫn tỉnh dậy và còn sống, và việc không phải ngồi phịch trên xe cả ngày dài quả là một ý hay. Phía trước có một tấm biển quảng cáo cho Trang trại Lạc đà Alpaca lớn của Big Kevin! kèm theo bức ảnh một chú lạc đà alpaca đeo kính râm. “Hay là chúng ta ghé vào đó nhỉ?” Sophie hỏi.
 
@@ -26,7 +26,7 @@ Tấm biển quảng cáo tiếp theo mà họ đi qua giới thiệu quán ăn 
 
 Sophie rẽ vào, và khi họ lái xe dọc theo lối đi dài, lũ lạc đà alpaca liền chạy ào ra hàng rào để ngắm những vị khách mới đến. Chúng xô đẩy nhau để có được góc nhìn đẹp nhất xem ai đang lái xe vào. Đó là một biển lạc đà alpaca với đủ các loại màu sắc từ nâu, trắng, xám cho đến đen. Chúng có chiếc cổ dài và đôi mắt to tròn, trông giống sự kết hợp giữa mấy chú hươu cao cổ con và cừu vậy.
 
-“Lạc đà alpaca có cả loại sống hoang dã hả chú?” Ollie hỏi.
+“Lạc đà alpaca có cả loại sống hoang dã hả ông?” Ollie hỏi.
 
 Luna đáp: “Trông đần độn thế kia thì làm sao sống sót nổi ngoài hoang dã.”
 
@@ -192,7 +192,7 @@ Lần này PJ đã chuẩn bị tinh thần đón nhận cú giật, nhưng ông
 
 “Thế là tuyệt nhất luôn,” Ollie đồng tình.
 
-“Đi thôi trước khi mấy đứa nướng chín chú thật đấy,” PJ nói.
+“Đi thôi trước khi mấy đứa nướng chín ông thật đấy,” PJ nói.
 
 “Ừ, tôi nghĩ ba cú giật là hơi nhiều rồi đấy,” ông Big Kevin đồng tình.
 
@@ -202,7 +202,7 @@ Nhưng trước khi đai giữ được tháo ra, Sophie liền với tay bấm 
 
 “Xin lỗi,” cô nói, nhún vai. “Con cứ tưởng ai cũng có một lượt.”
 
-“Cháu yêu chú,” Ollie nói, và rồi tất cả im bặt trong một phút, để câu Cháu yêu chú vọng lại quanh căn nhà kho rồi lắng xuống như một lớp bụi mỏng.
+“Cháu yêu ông,” Ollie nói, và rồi tất cả im bặt trong một phút, để câu Cháu yêu ông vọng lại quanh căn nhà kho rồi lắng xuống như một lớp bụi mỏng.
 
 “Đi tìm chú mèo thôi,” Sophie nói, vì cô biết giờ có nói lại câu đó thì đã quá muộn rồi.
 

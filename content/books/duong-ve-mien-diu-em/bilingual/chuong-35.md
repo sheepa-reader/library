@@ -9,16 +9,16 @@
 <p class="para-vi-sub">“Chúng ta cần đến Texas,” Sophie nhắc nhở bố. “Bố đã hứa đưa lũ trẻ đến Texas cơ mà.”</p>
 
 <p class="para-en">“You promised Luna,” Ollie muttered. “I don’t really want to go to Texas.”</p>
-<p class="para-vi-sub">“Chú ấy hứa với mỗi Luna thôi,” Ollie làu bàu. “Cháu có thực sự muốn đến Texas đâu.”</p>
+<p class="para-vi-sub">“Ông ấy hứa với mỗi Luna thôi,” Ollie làu bàu. “Cháu có thực sự muốn đến Texas đâu.”</p>
 
 <p class="para-en">“We’ve got a few days to get to Texas,” PJ said. “We’ve got time to stop. We’ve only seen Niagara Falls and nothing else. Nothing else of this great country of ours.”</p>
 <p class="para-vi-sub">“Chúng ta vẫn còn vài ngày để đến Texas cơ mà,” PJ nói. “Vẫn kịp ghé dọc đường chứ. Mới ngắm mỗi thác Niagara chứ đã thấy gì đâu. Chẳng thấy gì thêm về đất nước vĩ đại này cả.”</p>
 
 <p class="para-en">“We only have two days to get to Texas,” Luna corrected, looking up from her project with the magazine and scissors. “Today and tomorrow. The event is on Saturday morning. Do you want to see the advertisement again? Ten a.m. to one on June seventh.”</p>
-<p class="para-vi-sub">“Chúng ta chỉ còn đúng hai ngày để đến Texas thôi,” Luna vừa ngẩng lên từ đống tạp chí và kéo vừa đính chính. “Hôm nay và ngày mai. Sự kiện diễn ra vào sáng thứ Bảy mà. Chú có muốn xem lại quảng cáo không? Mười giờ sáng đến một giờ chiều ngày mùng bảy tháng Sáu.”</p>
+<p class="para-vi-sub">“Chúng ta chỉ còn đúng hai ngày để đến Texas thôi,” Luna vừa ngẩng lên từ đống tạp chí và kéo vừa đính chính. “Hôm nay và ngày mai. Sự kiện diễn ra vào sáng thứ Bảy mà. Ông có muốn xem lại quảng cáo không? Mười giờ sáng đến một giờ chiều ngày mùng bảy tháng Sáu.”</p>
 
 <p class="para-en">Ollie looked at the clock on the car dashboard for the time. 11:36. If they were at school, it would be math time right now. “Can we please stop and do something?” Ollie begged. He didn’t want to think about what they were doing at school, or if he and Luna would get in trouble for missing it. He was sorry he had lied to Uncle PJ about how much school they had left in the year, and his iPad had died and he knew Luna wouldn’t let him use hers.</p>
-<p class="para-vi-sub">Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin chú, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối chú PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.</p>
+<p class="para-vi-sub">Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin ông, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối chú PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.</p>
 
 <p class="para-en">Sophie had to agree it would be nice to get out of the car for a while. She was glad to have woken up alive today, and it would be good to not spend the whole day in the car. Up ahead was a billboard for Big Kevin’s Big Alpaca Ranch ! with a photo of an alpaca wearing sunglasses. “How about stopping there?” Sophie asked.</p>
 <p class="para-vi-sub">Sophie đành thừa nhận rằng được xuống xe đi lại một chút chắc sẽ rất tuyệt. Cô thấy mừng vì hôm nay mình vẫn tỉnh dậy và còn sống, và việc không phải ngồi phịch trên xe cả ngày dài quả là một ý hay. Phía trước có một tấm biển quảng cáo cho Trang trại Lạc đà Alpaca lớn của Big Kevin! kèm theo bức ảnh một chú lạc đà alpaca đeo kính râm. “Hay là chúng ta ghé vào đó nhỉ?” Sophie hỏi.</p>
@@ -39,7 +39,7 @@
 <p class="para-vi-sub">Sophie rẽ vào, và khi họ lái xe dọc theo lối đi dài, lũ lạc đà alpaca liền chạy ào ra hàng rào để ngắm những vị khách mới đến. Chúng xô đẩy nhau để có được góc nhìn đẹp nhất xem ai đang lái xe vào. Đó là một biển lạc đà alpaca với đủ các loại màu sắc từ nâu, trắng, xám cho đến đen. Chúng có chiếc cổ dài và đôi mắt to tròn, trông giống sự kết hợp giữa mấy chú hươu cao cổ con và cừu vậy.</p>
 
 <p class="para-en">“Is there such thing as wild alpacas?” Ollie asked.</p>
-<p class="para-vi-sub">“Lạc đà alpaca có cả loại sống hoang dã hả chú?” Ollie hỏi.</p>
+<p class="para-vi-sub">“Lạc đà alpaca có cả loại sống hoang dã hả ông?” Ollie hỏi.</p>
 
 <p class="para-en">“They look too dumb to survive in the wild,” Luna said.</p>
 <p class="para-vi-sub">Luna đáp: “Trông đần độn thế kia thì làm sao sống sót nổi ngoài hoang dã.”</p>
@@ -288,7 +288,7 @@
 <p class="para-vi-sub">“Thế là tuyệt nhất luôn,” Ollie đồng tình.</p>
 
 <p class="para-en">“Let’s get going before you kids fry me,” PJ said.</p>
-<p class="para-vi-sub">“Đi thôi trước khi mấy đứa nướng chín chú thật đấy,” PJ nói.</p>
+<p class="para-vi-sub">“Đi thôi trước khi mấy đứa nướng chín ông thật đấy,” PJ nói.</p>
 
 <p class="para-en">“Yes, I think three shocks might be too many,” Big Kevin agreed.</p>
 <p class="para-vi-sub">“Ừ, tôi nghĩ ba cú giật là hơi nhiều rồi đấy,” ông Big Kevin đồng tình.</p>
@@ -303,7 +303,7 @@
 <p class="para-vi-sub">“Xin lỗi,” cô nói, nhún vai. “Con cứ tưởng ai cũng có một lượt.”</p>
 
 <p class="para-en">“I love you, Sophie,” Ollie said, and then they were all silent for a minute, letting the I love you echo around the barn and settle like dust.</p>
-<p class="para-vi-sub">“Cháu yêu chú,” Ollie nói, và rồi tất cả im bặt trong một phút, để câu Cháu yêu chú vọng lại quanh căn nhà kho rồi lắng xuống như một lớp bụi mỏng.</p>
+<p class="para-vi-sub">“Cháu yêu ông,” Ollie nói, và rồi tất cả im bặt trong một phút, để câu Cháu yêu ông vọng lại quanh căn nhà kho rồi lắng xuống như một lớp bụi mỏng.</p>
 
 <p class="para-en">“Let’s go find the cat,” Sophie said, because she knew it was too late to say it back.</p>
 <p class="para-vi-sub">“Đi tìm chú mèo thôi,” Sophie nói, vì cô biết giờ có nói lại câu đó thì đã quá muộn rồi.</p>

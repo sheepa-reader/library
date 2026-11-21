@@ -207,7 +207,7 @@
 <p class="para-vi-sub">PJ nuốt nước bọt hỏi: “Anh em ư?”</p>
 
 <p class="para-en">“You and Michelle are brother and sister?” Luna said. “Gross!”</p>
-<p class="para-vi-sub">Luna nói: “Chú và cô Michelle là anh em ruột ư? Ghê quá!”</p>
+<p class="para-vi-sub">Luna nói: “Ông và cô Michelle là anh em ruột ư? Ghê quá!”</p>
 
 <p class="para-en">“Ew,” Ollie agreed.</p>
 <p class="para-vi-sub">Ollie đồng tình: “E hèm.”</p>

@@ -14,15 +14,15 @@ Zander nhún vai. “Chắc thế. Chú ấy toàn lái xe chở khách đi Las 
 
 “Sao bố không thể bình thường lấy một lần được hả?” Sophie hỏi.
 
-“Vì chú ấy là chú PJ của bọn em mà,” Luna nói. “Chú ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”
+“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”
 
 “Không sao đâu.” Sophie thề là đời này cô chẳng bao giờ muốn nhìn thấy tấm thiệp chúc mừng nào nữa hết.
 
 “Nào Sophie, đi thôi, làm chuyến đi đến nơi đến chốn đi,” Ollie giục. “Khoan đã, Michelle Cobb có hồ bơi không nhỉ?”
 
-“Chú cũng chịu chẳng biết một cộng đồng hưu trí sẽ ra sao nếu thiếu hồ bơi đấy,” PJ mỉm cười nói.
+“Ông cũng chịu chẳng biết một cộng đồng hưu trí sẽ ra sao nếu thiếu hồ bơi đấy,” PJ mỉm cười nói.
 
-“Đi đi mà, chú nhé?” Cả Ollie và Luna đồng thanh nài nỉ.
+“Đi đi mà, ông nhé?” Cả Ollie và Luna đồng thanh nài nỉ.
 
 Và điều đó đã đánh gục Sophie, chính tình cảm mà lũ trẻ dành cho bố cô. Bọn nhóc đúng là ngốc nghếch khi cứ cắm đầu yêu thương ông, nhưng chúng vẫn làm thế, và cô chẳng muốn chen ngang phá hỏng chuyện đó. “Được rồi,” cô nói. “Hoàn thành nốt chuyến đi này thôi.” Cô gọi cho hãng Green Bean Limousine và Enzo bắt máy ngay lập tức. Anh bảo anh rất sẵn lòng lái xe chở họ thâu đêm suốt sáng đến Arizona, không thành vấn đề.
 

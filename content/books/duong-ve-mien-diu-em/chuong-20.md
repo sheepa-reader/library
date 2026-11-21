@@ -18,13 +18,13 @@ Mười lăm phút sau, tất cả bọn họ đã nhồi nhét vào chiếc xe 
 
 “Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng chú PJ sẽ lái xe.
 
-“Cô đang giúp chú của các cháu chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”
+“Cô đang giúp bố cô chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”
 
-“Chú ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”
+“Ông ấy không cần ai giúp chăm sóc chúng cháu cả,” Luna nói, khoanh tay lại. “Chúng cháu không phải trẻ con.”
 
 “Ừ,” Ollie hùa theo, mặc dù cậu bé khá thích việc Sophie có những lọn tóc vệt xanh.
 
-“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ chú vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”
+“Cô ấy là một phần quan trọng trong chuyến đi này,” PJ trấn an Luna. “Cô ấy sẽ giữ ông vào khuôn phép. Và đừng lo, Luna, trông Sophie có vẻ đáng sợ với đống lớp trang điểm đó thôi. Cô ấy mềm như kẹo bông dẻo vậy.”
 
 “Con không phải kẹo bông dẻo,” Sophie cằn nhằn.
 
@@ -46,13 +46,13 @@ Luna ghét việc người lớn cứ nói như vậy. Cô bé sẽ không thèm
 
 “Đúng thế,” Sophie nói.
 
-“Chú uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng chú đang khá lên rồi.”
+“Ông uống hơi nhiều rượu,” PJ nói, bởi vì giấu giếm cũng chẳng để làm gì. “Nhưng ông đang khá lên rồi.”
 
 “Bố của chúng cháu cũng lái xe đấy chứ,” Ollie nói. “Bố là cảnh sát. Và bố cũng uống rất nhiều bia.”
 
 “Người ta cho phép cảnh sát làm bất cứ điều gì mà,” Sophie nói.
 
-“Chú không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Chú là một người say vui vẻ. Chú là một người rất yêu thương con cái.”
+“Ông không phải kiểu người nát rượu như bố của các cháu,” PJ nói, bởi vì ông từng đọc được vài ghi chú từ nhân viên công tác xã hội trong hồ sơ và cũng nắm được đại khái. “Ông là một người say vui vẻ. Ông là một người rất yêu thương con cái.”
 
 Sophie đảo mắt ngán ngẩm. Thật kinh khủng khi có bất kỳ loại bợm nhậu nào làm bố, dù là bợm nhậu vui vẻ hay bợm nhậu cục súc. Mọi thứ luôn thật rối rắm và đáng sợ. Đó luôn là kẻ đặt rượu chè lên trên việc chăm sóc bạn.
 
@@ -64,7 +64,7 @@ Một chiếc xe thể thao màu trắng lao vút qua họ, cúp đầu xe của
 
 “Bố không được phép chạm vào vô lăng. Và đừng có chửi thề trước mặt bọn trẻ.”
 
-“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Chú có muốn cháu kể ra hết không?”
+“Cháu biết hết mấy từ chửi thề rồi mà,” Ollie hào hứng nói. “Ông có muốn cháu kể ra hết không?”
 
 “Có chứ,” Luna nói.
 
@@ -72,9 +72,9 @@ Một chiếc xe thể thao màu trắng lao vút qua họ, cúp đầu xe của
 
 “Tuyệt đối không,” Sophie nói. “Bố, nói chuyện với bọn trẻ đi. Kể cho chúng nghe một câu chuyện gì đó đi.”
 
-“Ồ, còn hơi sớm để kể một trong số những câu chuyện của chú, nhưng mà... ồ đợi đã, chú có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc lò nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.
+“Ồ, còn hơi sớm để kể một trong số những câu chuyện của ông, nhưng mà... ồ đợi đã, ông có thứ này để giữ chân hai đứa đây!” PJ lục lọi chiếc túi vải dưới chân mình. Ở cửa hàng Walmart, nhân viên bán hàng từng giúp ông mua chiếc bạt nhún và máy PlayStation từng bảo rằng nếu thực sự phải trông trẻ, thứ ông cần chính là một chiếc iPad. Đó là tuyệt chiêu nuôi dạy con số một của cô ấy, chiếc iPad. PJ rút những chiếc máy tính bảng ra khỏi túi. Ông đã mua tận hai chiếc, kèm cả tai nghe nữa. Thậm chí ông đã sạc đầy pin cho chuyến đi. Ông đưa chúng ra phía sau.
 
-“Chú mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.
+“Ông mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.
 
 Luna hỏi: “Chú giàu lắm hả chú PJ?”
 
@@ -86,9 +86,9 @@ Sophie khịt mũi. “Bố chưa kể cho các em nghe à?” cô hỏi.
 
 “Là một triệu rưỡi cơ,” PJ tự hào nói. “Từ một tấm vé cào đấy.”
 
-“Chà,” Ollie nói. “Chú thực sự trúng xổ số luôn á?”
+“Chà,” Ollie nói. “Ông thực sự trúng xổ số luôn á?”
 
-Luna thì thầm: “Cảm ơn chú,” rồi ôm chiếc iPad vào ngực.
+Luna thì thầm: “Cảm ơn ông,” rồi ôm chiếc iPad vào ngực.
 
 PJ mỉm cười, cảm thấy vô cùng đắc ý. Trẻ con hiểu được việc trúng xổ số ấn tượng đến thế nào, đó không phải là thứ mà ai cũng có thể làm được. Ông ghét cái cách Sophie coi thường chuyện chơi vé cào cứ như đó là trò của đám người vô lại tầng lớp hạ lưu vậy. Ông đã trúng thưởng đường đường chính chính, và ông đã dùng số tiền của mình để làm những việc có ích. Ông đã là một công dân có đóng góp cho cộng đồng Pondville.
 
@@ -98,7 +98,7 @@ PJ bật cười. “Đương nhiên rồi.”
 
 “Và gọi khoai tây chiên qua dịch vụ phòng chứ ạ?” Ollie từng xem một bộ phim về một đứa trẻ nhà giàu sống một mình trong khách sạn, và cậu bé vẫn luôn khao khát được sống theo cách đó. Được ăn ngập mặt khoai tây chiên và kem phục vụ trên đĩa bạc.
 
-“Chắc chắn rồi. Chú sẽ gọi khoai tây chiên cho cháu.”
+“Chắc chắn rồi. Ông sẽ gọi khoai tây chiên cho cháu.”
 
 “Có khách sạn nào có hồ bơi không ạ?” Luna hỏi.
 
@@ -108,15 +108,15 @@ PJ bật cười. “Đương nhiên rồi.”
 
 “Ai cơ?” Luna hỏi. “Ai chết đuối vậy?”
 
-“Con gái chú, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời chú.”
+“Con gái ông, Kate. Khi con bé mười tám tuổi, nó đã chết đuối. Bi kịch lớn nhất cuộc đời ông.”
 
 “Nhưng không phải ở hồ bơi đâu,” Sophie nói. “Ở đầm lầy nam việt quất cơ.”
 
 “Làm sao mà người ta lại chết đuối ở đầm lầy nam việt quất được nhỉ?” Luna hỏi. “Chúng có sâu lắm đâu.” Mọi người ở Pondville đều biết rõ về quả nam việt quất.
 
-“Đó là bi kịch lớn nhất cuộc đời chú,” PJ nói.
+“Đó là bi kịch lớn nhất cuộc đời ông,” PJ nói.
 
-“Cháu rất tiếc vì sự mất mát của chú,” Ollie nói.
+“Cháu rất tiếc vì sự mất mát của ông,” Ollie nói.
 
 “Em thật tốt bụng, Ollie,” Sophie nói. Cô rất quý cậu bé ngọt ngào này. Cậu bé bị thưa răng cửa, nên mỗi khi nói chuyện lại phát ra một tiếng gió xì xèo rất khẽ.
 
@@ -126,7 +126,7 @@ Sophie hối hận vì đã nói với cô bé rằng cô rất tiếc về sự
 
 Ollie phá vỡ sự im lặng bằng câu nói: “Luna từng đấm Elsie Dawson trong vở kịch ở trường năm ngoái. Và chị ấy đã không chịu xin lỗi.”
 
-PJ lên tiếng: “Chú chắc chắn là Elsie đáng bị như vậy.”
+PJ lên tiếng: “Ông chắc chắn là Elsie đáng bị như vậy.”
 
 Luna mỉm cười. Cô bé không ngờ chú PJ lại nói thế.
 

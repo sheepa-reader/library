@@ -40,7 +40,7 @@ Alleluia, chú mèo thầm nghĩ.
 
 Khi Sophie và lũ trẻ bước ra từ quán Cracker Barrel, PJ đã ngồi ngoan ngoãn trở lại ghế hành khách.
 
-“Này chú PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho chú đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.
+“Này ông PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho ông đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.
 
 “Lũ trẻ nhìn thấy món này trong thực đơn,” Sophie nói. “Đây là lời cảm ơn chân thành vì bố đã cứu mạng bọn con đấy.”
 
@@ -48,8 +48,8 @@ Khi Sophie và lũ trẻ bước ra từ quán Cracker Barrel, PJ đã ngồi ng
 
 “Cứ mở ra xem đi bố.”
 
-“Cháu ăn thử một cái rồi. Ngon lắm chú ạ,” Ollie nói.
+“Cháu ăn thử một cái rồi. Ngon lắm ông ạ,” Ollie nói.
 
-PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Chú không nghĩ có ai lại làm điều gì tử tế thế này cho chú đâu. Chưa bao giờ luôn.”
+PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Ông không nghĩ có ai lại làm điều gì tử tế thế này cho ông đâu. Chưa bao giờ luôn.”
 
 Ollie và Luna cười toe toét, còn Sophie đảo mắt ngán ngẩm, nhưng cô vẫn để mặc ông tận hưởng khoảnh khắc ngọt ngào này cùng lũ trẻ.

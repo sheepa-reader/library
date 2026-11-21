@@ -34,9 +34,9 @@ Ngay tại lối vào chính của Nhà nghỉ The Golden Cherry, toàn bộ c�
 
 “Có chuyện rồi đây,” PJ nói.
 
-“Chắc họ tưởng chú sát hại ổng đấy,” Luna nói. “Trong một cơn cuồng nộ do say xỉn.” Frank Meeklin từng nổi cơn thịnh nộ rồi bảo rằng sáng hôm sau hắn chẳng nhớ gì sất. Luna vẫn chưa quên chuyện đó. Những gì người đàn ông tự nhận là cha cô bé đã làm.
+“Chắc họ tưởng ông sát hại ổng đấy,” Luna nói. “Trong một cơn cuồng nộ do say xỉn.” Frank Meeklin từng nổi cơn thịnh nộ rồi bảo rằng sáng hôm sau hắn chẳng nhớ gì sất. Luna vẫn chưa quên chuyện đó. Những gì người đàn ông tự nhận là cha cô bé đã làm.
 
-“Cháu sẽ làm nhân chứng ngoại phạm cho chú,” Ollie đề nghị.
+“Cháu sẽ làm nhân chứng ngoại phạm cho ông,” Ollie đề nghị.
 
 “Cảm ơn cháu nhé, nhóc,” PJ nói.
 
@@ -90,13 +90,13 @@ Nhưng ngay lúc đó chiếc xe cứu hỏa đã tới nơi. Nếu tòa nhà s�
 
 Luna há hốc miệng ngạc nhiên. Cô bé ôm chặt lấy chú mèo, siết thật chặt giống như ôm một con gấu bông, và Pancakes liền cắn cô bé một cú; chú không thích bị siết chặt như vậy. Luna buông chú mèo ra. “Cảm ơn mày,” cô bé nói. “Cảm ơn mày.”
 
-“Chú đã cứu chúng cháu phải không, chú PJ?” Ollie hỏi.
+“Ông đã cứu chúng cháu phải không, ông PJ?” Ollie hỏi.
 
 “Chú mèo đó đấy.”
 
-“Chú đã mở cửa sổ mà, chú PJ. Chú đã nghe lời chú mèo.”
+“Ông đã mở cửa sổ mà, ông PJ. Ông đã nghe lời chú mèo.”
 
-“Chú đã làm thế.” PJ gật đầu. “Chú với chú mèo. Chú đã làm một việc tốt,” PJ tự lẩm bẩm. Ông ngạc nhiên tột độ. “Có lý do để bố vẫn còn sống. Bố vẫn còn sống để có thể bảo vệ các con.”
+“Ông đã làm thế.” PJ gật đầu. “Ông với chú mèo. Ông đã làm một việc tốt,” PJ tự lẩm bẩm. Ông ngạc nhiên tột độ. “Có lý do để bố vẫn còn sống. Bố vẫn còn sống để có thể bảo vệ các con.”
 
 “Chắc vậy rồi,” Sophie đồng tình.
 

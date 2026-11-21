@@ -51,10 +51,10 @@
 <p class="para-vi-sub">“Có chuyện rồi đây,” PJ nói.</p>
 
 <p class="para-en">“Bet they think you killed him,” Luna said. “In a drunken rage.” Frank Meeklin used to go into rages and say he didn’t remember it in the morning. Luna hadn’t forgotten about that. What the man who claimed to be her father had done.</p>
-<p class="para-vi-sub">“Chắc họ tưởng chú sát hại ổng đấy,” Luna nói. “Trong một cơn cuồng nộ do say xỉn.” Frank Meeklin từng nổi cơn thịnh nộ rồi bảo rằng sáng hôm sau hắn chẳng nhớ gì sất. Luna vẫn chưa quên chuyện đó. Những gì người đàn ông tự nhận là cha cô bé đã làm.</p>
+<p class="para-vi-sub">“Chắc họ tưởng ông sát hại ổng đấy,” Luna nói. “Trong một cơn cuồng nộ do say xỉn.” Frank Meeklin từng nổi cơn thịnh nộ rồi bảo rằng sáng hôm sau hắn chẳng nhớ gì sất. Luna vẫn chưa quên chuyện đó. Những gì người đàn ông tự nhận là cha cô bé đã làm.</p>
 
 <p class="para-en">“I’ll be your alibi,” offered Ollie.</p>
-<p class="para-vi-sub">“Cháu sẽ làm nhân chứng ngoại phạm cho chú,” Ollie đề nghị.</p>
+<p class="para-vi-sub">“Cháu sẽ làm nhân chứng ngoại phạm cho ông,” Ollie đề nghị.</p>
 
 <p class="para-en">“Thanks, bud,” PJ said.</p>
 <p class="para-vi-sub">“Cảm ơn cháu nhé, nhóc,” PJ nói.</p>
@@ -135,16 +135,16 @@
 <p class="para-vi-sub">Luna há hốc miệng ngạc nhiên. Cô bé ôm chặt lấy chú mèo, siết thật chặt giống như ôm một con gấu bông, và Pancakes liền cắn cô bé một cú; chú không thích bị siết chặt như vậy. Luna buông chú mèo ra. “Cảm ơn mày,” cô bé nói. “Cảm ơn mày.”</p>
 
 <p class="para-en">“You saved us, Uncle PJ?” Ollie asked.</p>
-<p class="para-vi-sub">“Chú đã cứu chúng cháu phải không, chú PJ?” Ollie hỏi.</p>
+<p class="para-vi-sub">“Ông đã cứu chúng cháu phải không, ông PJ?” Ollie hỏi.</p>
 
 <p class="para-en">“That cat did.”</p>
 <p class="para-vi-sub">“Chú mèo đó đấy.”</p>
 
 <p class="para-en">“You opened the window, Dad. You listened to the cat.”</p>
-<p class="para-vi-sub">“Chú đã mở cửa sổ mà, chú PJ. Chú đã nghe lời chú mèo.”</p>
+<p class="para-vi-sub">“Ông đã mở cửa sổ mà, ông PJ. Ông đã nghe lời chú mèo.”</p>
 
 <p class="para-en">“I did.” He nodded. “Me and the cat. I did a good thing,” he said. He marveled. “There is a reason I am still alive. I am still alive so I can protect you kids.”</p>
-<p class="para-vi-sub">“Chú đã làm thế.” PJ gật đầu. “Chú với chú mèo. Chú đã làm một việc tốt,” PJ tự lẩm bẩm. Ông ngạc nhiên tột độ. “Có lý do để bố vẫn còn sống. Bố vẫn còn sống để có thể bảo vệ các con.”</p>
+<p class="para-vi-sub">“Ông đã làm thế.” PJ gật đầu. “Ông với chú mèo. Ông đã làm một việc tốt,” PJ tự lẩm bẩm. Ông ngạc nhiên tột độ. “Có lý do để bố vẫn còn sống. Bố vẫn còn sống để có thể bảo vệ các con.”</p>
 
 <p class="para-en">“Guess so,” Sophie agreed.</p>
 <p class="para-vi-sub">“Chắc vậy rồi,” Sophie đồng tình.</p>

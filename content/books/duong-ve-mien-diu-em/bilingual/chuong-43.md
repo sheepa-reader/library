@@ -60,7 +60,7 @@
 <p class="para-vi-sub">Khi Sophie và lũ trẻ bước ra từ quán Cracker Barrel, PJ đã ngồi ngoan ngoãn trở lại ghế hành khách.</p>
 
 <p class="para-en">“Hey, Uncle PJ,” Luna said when she got in the car. “We got you something.” She was holding a little Styrofoam box and passed it up.</p>
-<p class="para-vi-sub">“Này chú PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho chú đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.</p>
+<p class="para-vi-sub">“Này ông PJ,” Luna nói khi bước lên xe. “Bọn cháu mua cái này cho ông đấy.” Cô bé đang cầm một chiếc hộp xốp nhỏ và đưa lên phía trước.</p>
 
 <p class="para-en">“The kids noticed it on the menu,” Sophie said. “It’s a big thank-you for saving our lives.”</p>
 <p class="para-vi-sub">“Lũ trẻ nhìn thấy món này trong thực đơn,” Sophie nói. “Đây là lời cảm ơn chân thành vì bố đã cứu mạng bọn con đấy.”</p>
@@ -72,10 +72,10 @@
 <p class="para-vi-sub">“Cứ mở ra xem đi bố.”</p>
 
 <p class="para-en">“I already had one. They’re really good,” Ollie said.</p>
-<p class="para-vi-sub">“Cháu ăn thử một cái rồi. Ngon lắm chú ạ,” Ollie nói.</p>
+<p class="para-vi-sub">“Cháu ăn thử một cái rồi. Ngon lắm ông ạ,” Ollie nói.</p>
 
 <p class="para-en">PJ opened the container. It was a takeaway box of Cracker Barrel miniature beignets, sprinkled with white powdered sugar. “French donuts,” he said, and he burst into tears. “Wow. How thoughtful. I don’t think anyone has ever done anything this nice for me. Ever.”</p>
-<p class="para-vi-sub">PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Chú không nghĩ có ai lại làm điều gì tử tế thế này cho chú đâu. Chưa bao giờ luôn.”</p>
+<p class="para-vi-sub">PJ mở hộp đựng ra. Đó là một phần bánh beignet mini mang đi của Cracker Barrel, được rắc một lớp đường bột trắng tinh bên trên. “Bánh rán kiểu Pháp,” ông nói, rồi òa khóc nức nở. “Chao ôi. Chu đáo thật đấy. Ông không nghĩ có ai lại làm điều gì tử tế thế này cho ông đâu. Chưa bao giờ luôn.”</p>
 
 <p class="para-en">Ollie and Luna grinned, and Sophie rolled her eyes, but she let him have it. This sweet moment with the kids.</p>
 <p class="para-vi-sub">Ollie và Luna cười toe toét, còn Sophie đảo mắt ngán ngẩm, nhưng cô vẫn để mặc ông tận hưởng khoảnh khắc ngọt ngào này cùng lũ trẻ.</p>

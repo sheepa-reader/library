@@ -12,21 +12,21 @@ Luna nói thêm: “Và chú PJ đi mất rồi.”
 
 Luna đáp: “Chuồn mất dạng. Bỏ mặc chúng ta bơ vơ. Chị có còn chở tụi em đi Texas nữa không?”
 
-Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố đã giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy chú ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Chú ấy không thể đi đâu xa được.”
+Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố đã giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy ông ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Ông ấy không thể đi đâu xa được.”
 
 Bọn trẻ vớ lấy vali của chúng, thế là Sophie đành xách cả vali của cô lẫn vali của bố. Họ sẽ trả phòng rồi đi tìm ông. Đến quầy lễ tân, Sophie bấm chuông nhưng nhân viên không ra trả lời. Cô nhìn thấy đôi bốt của anh ta ló ra từ mép chiếc giường gấp trong phòng làm việc. Cô bấm thêm lần nữa nhưng người đàn ông vẫn chẳng nhúc nhích.
 
-Bọn trẻ từ ngoài gọi vọng vào: “Tụi em tìm thấy chú ấy rồi!”
+Bọn trẻ từ ngoài gọi vọng vào: “Tụi em tìm thấy ông ấy rồi!”
 
 Sophie chạy ra cửa trước, vác đống hành lý lỉnh kỉnh như con la chở đồ. PJ đang ngồi ở ghế trước chiếc xe Volvo, ngả lưng ra sau, ôm chặt chú mèo vào ngực. Chú mèo đang đeo đai ngực và dây dắt. Có một chai Colt 45 nằm trên ghế hành khách.
 
-Luna hỏi: “Chú ấy chết chưa?”
+Luna hỏi: “Ông ấy chết chưa?”
 
 Sophie đáp, cơn giận bắt đầu dâng lên: “Mong là thế.” Thảo nào nhân viên lễ tân không thèm đứng dậy khi cô bấm chuông. Anh ta chắc cũng say khướt rồi, hẳn là anh ta và PJ đã thức trắng đêm để chè chén. PJ có tài kiếm bạn nhậu ở bất cứ nơi nào ông đặt chân tới. Sophie mở cửa xe và PJ cựa quậy sống lại. “Bố đang làm gì ngoài này thế?”
 
 PJ vừa xoa mặt vừa nói: “Ôi Sophie, một đêm thật tơi bời. Chú mèo chết tiệt cứ nhảy ra ngoài cửa sổ và bố đã mất cả đêm để tìm chú ấy, nhưng nhìn xem, bố bắt được rồi đây! Bình an vô sự. Đã đến giờ ăn sáng chưa?”
 
-Ollie nói: “Người chú nồng mùi bia.”
+Ollie nói: “Người ông nồng mùi bia.”
 
 Luna hùa theo: “Ghê quá.”
 
@@ -76,7 +76,7 @@ Nhà nghỉ The Golden Cherry hóa ra cũng chẳng đẹp đẽ gì cho cam. Ch
 
 Sophie rên rỉ, nhưng bố cô đã rảo bước về hướng lối vào của Nhà nghỉ The Golden Cherry rồi. “Làm ơn nhanh chân lên!” cô hét với theo qua cửa sổ.
 
-“Hay mình cứ đi mà không cần đợi chú ấy đi chị,” Luna bảo, và Sophie suýt nữa đã xiêu lòng.
+“Hay mình cứ đi mà không cần đợi ông ấy đi chị,” Luna bảo, và Sophie suýt nữa đã xiêu lòng.
 
 Sophie đang rất bực bội, giận bố khủng khiếp vào sáng hôm đó, nhưng đồng thời, việc ông vẫn còn đang nốc rượu lại mang đến một cảm giác yên tâm kỳ lạ. Rằng ông chẳng thể nào thay đổi được đâu. Ông sẽ chết từ đời nào rồi trước khi kịp thay đổi, thế nên Sophie chẳng việc gì phải nuôi hy vọng rằng ông sẽ khác đi so với bản chất hiện tại. Cô được giải thoát rồi. Cô không cần phải hy vọng nữa, bởi vì mọi thứ hoàn toàn vô vọng.
 

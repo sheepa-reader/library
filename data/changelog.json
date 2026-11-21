@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261121-01",
+    "timestamp": "2026-11-21T15:00:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "type": "chapter_update",
+    "typeName": "Cập nhật Ebook",
+    "badgeClass": "badge-chapter",
+    "title": "Chuẩn hóa xưng hô (Ông - Cháu) giữa PJ và hai đứa trẻ, cập nhật bản Ebook mới",
+    "description": "Cập nhật đồng bộ cặp đại từ xưng hô giữa cụ PJ và hai chị em Ollie - Luna (chuyển sang gọi ông - xưng cháu / ông chú cho đúng quan hệ gia đình và độ tuổi). Đồng bộ nội dung đọc online đơn ngữ, song ngữ, cập nhật bản EPUB tải về và nâng cấp ảnh bìa độ nét cao."
+  },
+  {
     "id": "log-20261119-02",
     "timestamp": "2026-11-19T11:00:00+07:00",
     "bookId": "duong-ve-mien-diu-em",

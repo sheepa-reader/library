@@ -138,7 +138,7 @@ Michelle Cobb Bartlett nói: “Ba tiếng sau em đã chào đời, sinh non m�
 
 PJ nuốt nước bọt hỏi: “Anh em ư?”
 
-Luna nói: “Chú và cô Michelle là anh em ruột ư? Ghê quá!”
+Luna nói: “Ông và cô Michelle là anh em ruột ư? Ghê quá!”
 
 Ollie đồng tình: “E hèm.”
 

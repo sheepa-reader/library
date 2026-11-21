@@ -21,7 +21,7 @@
 <p class="para-vi-sub">“Sao bố không thể bình thường lấy một lần được hả?” Sophie hỏi.</p>
 
 <p class="para-en">“Because he’s our Uncle PJ,” Luna said. “He’s a wacko. And he’s loved Michelle Cobb for a million years. It’s a beautiful love story. Better than a thousand greeting cards, no offense.”</p>
-<p class="para-vi-sub">“Vì chú ấy là chú PJ của bọn em mà,” Luna nói. “Chú ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”</p>
+<p class="para-vi-sub">“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”</p>
 
 <p class="para-en">“None taken.” Sophie never wanted to look at a greeting card ever again.</p>
 <p class="para-vi-sub">“Không sao đâu.” Sophie thề là đời này cô chẳng bao giờ muốn nhìn thấy tấm thiệp chúc mừng nào nữa hết.</p>
@@ -30,10 +30,10 @@
 <p class="para-vi-sub">“Nào Sophie, đi thôi, làm chuyến đi đến nơi đến chốn đi,” Ollie giục. “Khoan đã, Michelle Cobb có hồ bơi không nhỉ?”</p>
 
 <p class="para-en">“I don’t know what a retirement community would be without a pool,” PJ said, smiling.</p>
-<p class="para-vi-sub">“Chú cũng chịu chẳng biết một cộng đồng hưu trí sẽ ra sao nếu thiếu hồ bơi đấy,” PJ mỉm cười nói.</p>
+<p class="para-vi-sub">“Ông cũng chịu chẳng biết một cộng đồng hưu trí sẽ ra sao nếu thiếu hồ bơi đấy,” PJ mỉm cười nói.</p>
 
 <p class="para-en">“Please?” Ollie and Luna both asked.</p>
-<p class="para-vi-sub">“Đi đi mà, chú nhé?” Cả Ollie và Luna đồng thanh nài nỉ.</p>
+<p class="para-vi-sub">“Đi đi mà, ông nhé?” Cả Ollie và Luna đồng thanh nài nỉ.</p>
 
 <p class="para-en">And it broke Sophie, the love these kids had for her father. They were fools for loving him, but they did anyway, and she didn’t want to mess with it. “Fine,” she said. “Let’s finish the trip.” She called Green Bean Limousine and Enzo picked up immediately. He said he was glad to drive them all night to Arizona, no problem.</p>
 <p class="para-vi-sub">Và điều đó đã đánh gục Sophie, chính tình cảm mà lũ trẻ dành cho bố cô. Bọn nhóc đúng là ngốc nghếch khi cứ cắm đầu yêu thương ông, nhưng chúng vẫn làm thế, và cô chẳng muốn chen ngang phá hỏng chuyện đó. “Được rồi,” cô nói. “Hoàn thành nốt chuyến đi này thôi.” Cô gọi cho hãng Green Bean Limousine và Enzo bắt máy ngay lập tức. Anh bảo anh rất sẵn lòng lái xe chở họ thâu đêm suốt sáng đến Arizona, không thành vấn đề.</p>
