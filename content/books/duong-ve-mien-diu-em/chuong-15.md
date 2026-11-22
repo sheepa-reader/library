@@ -22,7 +22,7 @@ Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Cháu đi được ạ?”
 
-“Thì hè này chúng ta cũng cần việc gì đó để làm chứ, đúng không? Chú đang định làm một chuyến xuyên Mỹ. Nhưng trước tiên cháu phải đi cùng chú tới Tucson đã. Nó nằm trên đường đi mà. Chúng ta sẽ lái xe tới Arizona, rồi mới sang California. Hai tiểu bang đó ở cạnh nhau như hàng xóm vậy.”
+“Thì hè này chúng ta cũng cần việc gì đó để làm chứ, đúng không? Ông đang định làm một chuyến xuyên Mỹ. Nhưng trước tiên cháu phải đi cùng ông tới Tucson đã. Nó nằm trên đường đi mà. Chúng ta sẽ lái xe tới Arizona, rồi mới sang California. Hai tiểu bang đó ở cạnh nhau như hàng xóm vậy.”
 
 “Ở Tucson có gì ạ?”
 
@@ -46,7 +46,7 @@ Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Chiến tranh thế giới thứ nhất hay thứ hai ạ?”
 
-“Các cháu nghĩ chú bao nhiêu tuổi rồi hả?”
+“Các cháu nghĩ ông bao nhiêu tuổi rồi hả?”
 
 “Chín mươi,” Luna nói.
 
@@ -96,7 +96,7 @@ PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị tr
 
 “Vâng,” Ollie nói, và có lẽ thế là đủ tốt rồi, rằng mọi chuyện sẽ rất vui, và cậu bé cùng Luna sẽ không phải đến trường nơi mọi người nhìn họ bằng ánh mắt kỳ quặc. Cậu bé rúc sâu vào chiếc túi ngủ, lớp nhựa bọc nệm kêu sột soạt. Cậu bé không muốn tháo lớp nhựa đó ra cho đến khi chắc chắn rằng ở đây hoàn toàn không có rệp giường.
 
-“Cảm ơn chú PJ,” Luna nói.
+“Cảm ơn ông PJ,” Luna nói.
 
 “Không có chi,” PJ nói, cảm thấy bản thân giống như một người hùng. “Được rồi, mấy đứa nhóc, đến giờ đi ngủ rồi đấy. Sáng mai gặp lại mấy đứa trên trang truyện tranh nhé.” Ông thường nói câu đó mỗi tối với Sophie và Kate khi đắp chăn cho hai đứa. Mấy đứa nhỏ ngày trước hay hỏi ông câu đó có nghĩa là gì, và ông sẽ đáp rằng trông chúng ngộ nghĩnh giống như nhân vật trên truyện tranh vậy, nhưng dù sao thì đó vẫn là một câu nói đáng yêu để thủ thỉ với trẻ con, và việc được nói lại câu ấy với bọn trẻ khiến ông cảm thấy vô cùng dễ chịu. Nhưng sau khi tắt đèn, PJ nhận ra ông cần phải nói thêm một điều nữa với cô bé. Nói lúc tắt đèn sẽ dễ hơn nhiều. “Này, Luna?”
 
@@ -108,7 +108,7 @@ PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị tr
 
 “Cậu bé không hề kể gì với ông đâu,” PJ nói. “Đó là sự thật. Ông chỉ biết anh trai mình là một kẻ khốn nạn và ông có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Ông nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”
 
-“Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn chú PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.
+“Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn ông PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.
 
 PJ khép hờ cửa phòng ngủ của lũ trẻ. Ông cảm thấy tuyệt vời hơn bất cứ khoảng thời gian nào trong suốt một thời gian dài vừa qua. Việc cho lũ trẻ đi ngủ hóa ra lại là một việc tuyệt diệu. Ông đã làm một việc đúng đắn khi nói với Luna rằng ông ngoại cô bé là một kẻ khốn nạn, điều đó có vẻ đã giúp ích cho cô bé. Và cô bé đã chịu mở miệng nói chuyện trở lại. PJ nghĩ rằng bản thân có quyền tự hào về điều đó. Belinda Bell từng bảo Luna rồi sẽ đến lúc nói chuyện lại, nhưng ông chỉ mất vỏn vẹn một đêm để khiến cô bé cất lời. Ông rất có tay nuôi dạy trẻ con. Ông gần như là Mary Poppins phiên bản đời thực rồi còn gì.
 

@@ -16,7 +16,7 @@ Và rồi Sophie lái chiếc xe Honda Civic tồi tàn cũ kỹ của cô tới
 
 Mười lăm phút sau, tất cả bọn họ đã nhồi nhét vào chiếc xe Volvo màu đỏ với biển số BIRD BRN , hướng thẳng ra rìa thị trấn, nơi tấm biển cảnh báo họ phải Cẩn Thận Khi Ra Ngoài Kia!
 
-“Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng chú PJ sẽ lái xe.
+“Tại sao cô ấy phải đi cùng cơ chứ?” Luna hỏi. Cô bé tỏ ra nghi ngờ về Sophie, người đã xuất hiện vào sáng hôm đó mà không hề báo trước. Người đeo khuyên mũi trông như con bò. Người đang ngồi sau vô lăng, trong khi Luna cứ đinh ninh rằng ông PJ sẽ lái xe.
 
 “Cô đang giúp bố cô chăm sóc hai đứa đây,” Sophie đáp. “Và cô là người lái xe.”
 
@@ -28,7 +28,7 @@ Mười lăm phút sau, tất cả bọn họ đã nhồi nhét vào chiếc xe 
 
 “Con không phải kẹo bông dẻo,” Sophie cằn nhằn.
 
-Luna suy nghĩ lại về người phụ nữ đang lái chiếc xe này. Một cô nàng kẹo bông dẻo đeo kẻ mắt đen. Có thêm một người phụ nữ giúp cô bé tìm bố thì có lẽ sẽ hữu ích đây. “Chị có biết kế hoạch không?” Luna hỏi. “Chú PJ đã nói cho chị nghe kế hoạch chưa?”
+Luna suy nghĩ lại về người phụ nữ đang lái chiếc xe này. Một cô nàng kẹo bông dẻo đeo kẻ mắt đen. Có thêm một người phụ nữ giúp cô bé tìm bố thì có lẽ sẽ hữu ích đây. “Chị có biết kế hoạch không?” Luna hỏi. “Ông PJ đã nói cho chị nghe kế hoạch chưa?”
 
 “Chúng ta sẽ đến California để tìm bố của hai đứa.” Chắc là Sophie đã không hỏi han đủ điều trước khi bước lên xe cùng bố cô và mấy đứa trẻ này, nhưng cô cũng thấy mừng vì được lái xe rời khỏi Massachusetts, nơi chẳng còn gì cho cô sau khi công việc mà cô gắn bó gần bốn năm trời bỗng tan thành mây khói. Cô mừng vì được lái xe rời xa những gã đàn ông đội mũ Red Sox mà cô từng ngủ cùng dạo gần đây. “Em là đứa con gái goth đầu tiên của anh đấy,” tất cả bọn họ đều nói vậy. Sophie không thích việc mình trở thành một mục tiêu trong danh sách những việc cần làm trước khi chết, nhưng dù sao cô vẫn về nhà với bọn họ. Blanche nói rằng chính căn bệnh trầm cảm lâm sàng của cô đang đưa ra các quyết định thay cho cô, và một ngày nào đó cô sẽ phải bắt căn bệnh trầm cảm lâm sàng đó ngừng cầm lái. Chà, ngay lúc này đây cô đang lái chiếc xe Volvo của Fred, và giúp bố cô chăm sóc hai đứa trẻ mồ côi. Trầm cảm lâm sàng không làm được việc đó đâu.
 
@@ -76,7 +76,7 @@ Một chiếc xe thể thao màu trắng lao vút qua họ, cúp đầu xe của
 
 “Ông mua iPad cho chúng cháu thật á?” Ollie nói, mắt mở to tròn.
 
-Luna hỏi: “Chú giàu lắm hả chú PJ?”
+Luna hỏi: “Ông giàu lắm hả ông PJ?”
 
 Sophie khịt mũi. “Bố chưa kể cho các em nghe à?” cô hỏi.
 
@@ -128,7 +128,7 @@ Ollie phá vỡ sự im lặng bằng câu nói: “Luna từng đấm Elsie Daw
 
 PJ lên tiếng: “Ông chắc chắn là Elsie đáng bị như vậy.”
 
-Luna mỉm cười. Cô bé không ngờ chú PJ lại nói thế.
+Luna mỉm cười. Cô bé không ngờ ông PJ lại nói thế.
 
 PJ hứa hẹn: “Chúng ta sẽ ở một khách sạn sang trọng khi đến Thác Niagara.” PJ đã lên kế hoạch cho chuyến đi, in một bản đồ từ máy tính của Fred và quyết định Thác Niagara sẽ là điểm dừng chân đầu tiên của họ. “Chúng ta sẽ làm rất nhiều điều tuyệt vời.”
 

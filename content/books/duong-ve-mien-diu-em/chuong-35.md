@@ -12,7 +12,7 @@
 
 “Chúng ta chỉ còn đúng hai ngày để đến Texas thôi,” Luna vừa ngẩng lên từ đống tạp chí và kéo vừa đính chính. “Hôm nay và ngày mai. Sự kiện diễn ra vào sáng thứ Bảy mà. Ông có muốn xem lại quảng cáo không? Mười giờ sáng đến một giờ chiều ngày mùng bảy tháng Sáu.”
 
-Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin ông, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối chú PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.
+Ollie liếc nhìn chiếc đồng hồ trên bảng điều khiển ô tô để xem giờ. Mười một giờ ba mươi sáu phút. Giờ này mà ở trường thì chắc đang là giờ toán rồi. “Cháu xin ông, dừng lại đâu đó chơi một lát đi được không?” Ollie nài nỉ. Cậu bé không muốn nghĩ đến việc ở trường bọn bạn đang làm gì, hay việc cậu bé và Luna có bị phạt vì nghỉ học không nữa. Cậu bé thấy hối hận vì đã nói dối ông PJ về số ngày học còn lại trong năm của hai chị em, thêm việc chiếc iPad đã hết sạch pin và cậu bé biết chắc Luna sẽ không đời nào cho cậu mượn máy của chị ấy đâu.
 
 Sophie đành thừa nhận rằng được xuống xe đi lại một chút chắc sẽ rất tuyệt. Cô thấy mừng vì hôm nay mình vẫn tỉnh dậy và còn sống, và việc không phải ngồi phịch trên xe cả ngày dài quả là một ý hay. Phía trước có một tấm biển quảng cáo cho Trang trại Lạc đà Alpaca lớn của Big Kevin! kèm theo bức ảnh một chú lạc đà alpaca đeo kính râm. “Hay là chúng ta ghé vào đó nhỉ?” Sophie hỏi.
 
@@ -62,7 +62,7 @@ Ollie đứng thẳng người, đối diện với ông Big Kevin theo đúng c
 
 “Luna!” Sophie mắng.
 
-“Sao cơ? Chị cũng nói bậy cơ mà. Chú PJ cũng thế còn gì.”
+“Sao cơ? Chị cũng nói bậy cơ mà. Ông PJ cũng thế còn gì.”
 
 “Thôi được rồi. Luật mới: cấm chửi thề khi ở ngoài xe.”
 
@@ -96,7 +96,7 @@ Bên trong chuồng, mấy bé lạc đà alpaca con tiến lại gần mép c�
 
 “Cháu cũng vậy,” Sophie hùa theo.
 
-Ollie ngước nhìn chú PJ, tự hỏi liệu chú có nghe thấy những gì Sophie và Luna vừa nói hay không, về chuyện sẽ không bao giờ phải buồn nữa. Tự hỏi liệu họ có thể thả một con alpaca ở sau sân nhà cạnh tấm bạt nhún lò xo không. Cậu bé muốn chị mình được hạnh phúc, nhưng cậu bé không muốn đến sống với Mark Stackpole. Sẽ dễ dàng hơn biết mấy nếu họ có thể quay về Pondville và nhờ chú PJ mua cho một con alpaca, loài vật sẽ rừ rừ vui sướng khi nhìn thấy họ, hệt như một chú chó lớn ngốc nghếch có chiếc cổ dài. Chẳng có ai khác ở trường có alpaca cả, kể cả Gabriel hay River hay Johnny hay Elsie Dawson. Với Ollie, điều đó nghe có vẻ là một kế hoạch tuyệt vời hơn nhiều so với việc đi tìm Mark Stackpole ở tận Texas. Ollie chắc mẩm rằng chuyến đi Texas sẽ là một thảm họa, nhưng chẳng có ai thèm hỏi ý kiến cậu bé cả.
+Ollie ngước nhìn ông PJ, tự hỏi liệu chú có nghe thấy những gì Sophie và Luna vừa nói hay không, về chuyện sẽ không bao giờ phải buồn nữa. Tự hỏi liệu họ có thể thả một con alpaca ở sau sân nhà cạnh tấm bạt nhún lò xo không. Cậu bé muốn chị mình được hạnh phúc, nhưng cậu bé không muốn đến sống với Mark Stackpole. Sẽ dễ dàng hơn biết mấy nếu họ có thể quay về Pondville và nhờ ông PJ mua cho một con alpaca, loài vật sẽ rừ rừ vui sướng khi nhìn thấy họ, hệt như một chú chó lớn ngốc nghếch có chiếc cổ dài. Chẳng có ai khác ở trường có alpaca cả, kể cả Gabriel hay River hay Johnny hay Elsie Dawson. Với Ollie, điều đó nghe có vẻ là một kế hoạch tuyệt vời hơn nhiều so với việc đi tìm Mark Stackpole ở tận Texas. Ollie chắc mẩm rằng chuyến đi Texas sẽ là một thảm họa, nhưng chẳng có ai thèm hỏi ý kiến cậu bé cả.
 
 “Mấy đứa trẻ ngoan quá nhỉ,” ông Big Kevin nói với Sophie. “Tôi cũng có ba đứa con. Ba cậu con trai. Đều lớn cả rồi.”
 
@@ -184,7 +184,7 @@ Ollie với tay ấn luôn cả hai nút cùng một lúc. Cậu bé không kìm
 
 “Có, đau chứ,” ông xác nhận. Nó đau hơn nhiều so với những gì ông tưởng tượng. “Luna có muốn đến lượt mình ấn nút không?”
 
-Dù Luna rất muốn được thử, cô bé vẫn chần chừ. Cô bé đã định bụng sẽ giật điện Ollie nếu cậu bé ngồi lên ghế, nhưng dù sao cậu bé cũng là em trai cô bé còn chú PJ lại là một ông già. Một cú giật điện có thể làm ông bị thương. Cô bé nhớ lại những gì Mark Stackpole đã nói trên tạp chí, rằng quỷ dữ đã thử thách anh ta rất nhiều lần, nhưng Chúa luôn giúp anh ta tìm ra câu trả lời đúng đắn. Nhưng rồi Luna vẫn với tay ấn cả hai nút.
+Dù Luna rất muốn được thử, cô bé vẫn chần chừ. Cô bé đã định bụng sẽ giật điện Ollie nếu cậu bé ngồi lên ghế, nhưng dù sao cậu bé cũng là em trai cô bé còn ông PJ lại là một ông già. Một cú giật điện có thể làm ông bị thương. Cô bé nhớ lại những gì Mark Stackpole đã nói trên tạp chí, rằng quỷ dữ đã thử thách anh ta rất nhiều lần, nhưng Chúa luôn giúp anh ta tìm ra câu trả lời đúng đắn. Nhưng rồi Luna vẫn với tay ấn cả hai nút.
 
 Lần này PJ đã chuẩn bị tinh thần đón nhận cú giật, nhưng ông vẫn hét lên vì đau đớn. Máu trong người dồn dập bơm, ông có thể cảm thấy đầu ngón tay mình nhói buốt.
 

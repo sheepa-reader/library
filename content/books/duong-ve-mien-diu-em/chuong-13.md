@@ -2,7 +2,7 @@
 
 # Chương 8
 
-Hai tuần sau, vào một buổi chiều thứ Hai đầu tháng Sáu, lũ trẻ nhà Meeklin đang ngồi ở lối ra vào của mái ấm nhận nuôi, chờ xe đến đón. Những đứa trẻ còn lại ở bên trong, đang xem đứa lớn nhất chơi trò chơi điện tử một người chơi. Những người lớn bảo rằng thủ tục giấy tờ cuối cùng cũng xong xuôi. Tất cả những gì họ cần làm bây giờ là đảm bảo ngôi nhà của ông bác ruột thích hợp cho trẻ em, và cuộc kiểm tra nhà là bước cuối cùng cần hoàn tất. Lũ trẻ đang chờ ai đó đón chúng đến ngôi nhà của người bác này, và chúng ngồi cạnh những chiếc túi rác đựng đầy đồ đạc của mình. Chúng không có vali tử tế, bởi vì những kẻ xa lạ đã gói ghém đồ đạc hộ chúng, những người lớn đã xông vào nhà và nhồi nhét quần áo vào túi rác. Ollie không có lấy một chiếc quần lót nào, và cậu bé đã thả rông như thế suốt một tháng nay. Lũ trẻ không được phép quay lại ngôi nhà của chính mình để lấy đồ, sau khi Luna bước xuống xe buýt trường học và phát hiện mẹ chúng đang cầm một chiếc điện thoại ở một tay và một khẩu súng ở tay kia. Luna vẫn mặc chiếc áo khoác giả lông thú họa tiết da báo mà cô bé đã mặc kể từ ngày hôm đó, dù thời tiết đang dần trở nên quá oi bức cho chiếc áo đó, cùng với một chiếc váy màu tím và đôi giày Converse màu hồng yêu thích. Ollie mặc luân phiên ba chiếc áo phông, một chiếc trông giống chai tương cà, một chiếc trông giống chai mù tạt, và một chiếc áo phông WrestleMania màu đen in hình hai người đàn ông đang nổi giận. Bố chúng đã mua chiếc áo phông đấu vật đó cho cậu bé, dù Ollie chẳng thích WrestleMania chút nào. Bố chúng luôn muốn Ollie thích những thứ giống mình, nhưng ông chẳng quan tâm Luna nghĩ gì về bất cứ điều gì. Luna vẫn muốn làm xét nghiệm ADN để chứng minh ông không phải là bố cô bé.
+Hai tuần sau, vào một buổi chiều thứ Hai đầu tháng Sáu, lũ trẻ nhà Meeklin đang ngồi ở lối ra vào của mái ấm nhận nuôi, chờ xe đến đón. Những đứa trẻ còn lại ở bên trong, đang xem đứa lớn nhất chơi trò chơi điện tử một người chơi. Những người lớn bảo rằng thủ tục giấy tờ cuối cùng cũng xong xuôi. Tất cả những gì họ cần làm bây giờ là đảm bảo ngôi nhà của ông chú ruột thích hợp cho trẻ em, và cuộc kiểm tra nhà là bước cuối cùng cần hoàn tất. Lũ trẻ đang chờ ai đó đón chúng đến ngôi nhà của người ông chú này, và chúng ngồi cạnh những chiếc túi rác đựng đầy đồ đạc của mình. Chúng không có vali tử tế, bởi vì những kẻ xa lạ đã gói ghém đồ đạc hộ chúng, những người lớn đã xông vào nhà và nhồi nhét quần áo vào túi rác. Ollie không có lấy một chiếc quần lót nào, và cậu bé đã thả rông như thế suốt một tháng nay. Lũ trẻ không được phép quay lại ngôi nhà của chính mình để lấy đồ, sau khi Luna bước xuống xe buýt trường học và phát hiện mẹ chúng đang cầm một chiếc điện thoại ở một tay và một khẩu súng ở tay kia. Luna vẫn mặc chiếc áo khoác giả lông thú họa tiết da báo mà cô bé đã mặc kể từ ngày hôm đó, dù thời tiết đang dần trở nên quá oi bức cho chiếc áo đó, cùng với một chiếc váy màu tím và đôi giày Converse màu hồng yêu thích. Ollie mặc luân phiên ba chiếc áo phông, một chiếc trông giống chai tương cà, một chiếc trông giống chai mù tạt, và một chiếc áo phông WrestleMania màu đen in hình hai người đàn ông đang nổi giận. Bố chúng đã mua chiếc áo phông đấu vật đó cho cậu bé, dù Ollie chẳng thích WrestleMania chút nào. Bố chúng luôn muốn Ollie thích những thứ giống mình, nhưng ông chẳng quan tâm Luna nghĩ gì về bất cứ điều gì. Luna vẫn muốn làm xét nghiệm ADN để chứng minh ông không phải là bố cô bé.
 
 Ollie liên tục bảo chị gái từ bỏ ý định đó. “Họ sẽ tách chúng ta ra,” cậu bé khăng khăng. “Nếu họ nghĩ chúng ta không có họ hàng, họ sẽ tách chúng ta ra. Họ sẽ gửi chị đến một mái ấm dành cho những đứa trẻ hư đốn thực sự, còn em sẽ được đến một mái ấm đầy yêu thương.”
 
@@ -10,7 +10,7 @@ Ollie liên tục bảo chị gái từ bỏ ý định đó. “Họ sẽ tách
 
 “Vì chị toàn gây sự đánh nhau.”
 
-“Chị chưa bao giờ khơi mào đánh nhau cả,” cô bé định nói tiếp, nhưng Belinda Bell đã lái chiếc xe tải chở khách màu trắng đỗ lại, thế là Luna ngậm chặt miệng lại. Khi có người lớn xung quanh, Luna đã ngừng nói chuyện. Các nhân viên công tác xã hội bảo rằng việc không nói chuyện là một phản ứng sau sang chấn, nhưng thực ra, Luna đã chán ngấy việc trò chuyện với những kẻ chẳng thèm lắng nghe mình. Cô bé đã đòi làm xét nghiệm ADN hết lần này đến lần khác trong tuần đầu tiên ở mái ấm, thế mà mọi người vẫn cứ mãi bàn tán về người ông bác mà chúng chưa từng nghe tên bao giờ, dù ông sống cách chúng chưa đầy một dặm. Ông sống trên con đường dẫn đến Bãi tắm Clear Pond.
+“Chị chưa bao giờ khơi mào đánh nhau cả,” cô bé định nói tiếp, nhưng Belinda Bell đã lái chiếc xe tải chở khách màu trắng đỗ lại, thế là Luna ngậm chặt miệng lại. Khi có người lớn xung quanh, Luna đã ngừng nói chuyện. Các nhân viên công tác xã hội bảo rằng việc không nói chuyện là một phản ứng sau sang chấn, nhưng thực ra, Luna đã chán ngấy việc trò chuyện với những kẻ chẳng thèm lắng nghe mình. Cô bé đã đòi làm xét nghiệm ADN hết lần này đến lần khác trong tuần đầu tiên ở mái ấm, thế mà mọi người vẫn cứ mãi bàn tán về người ông chú mà chúng chưa từng nghe tên bao giờ, dù ông sống cách chúng chưa đầy một dặm. Ông sống trên con đường dẫn đến Bãi tắm Clear Pond.
 
 “Em cá là ông ấy rất yêu trẻ con,” Ollie nói.
 
@@ -18,7 +18,7 @@ Ollie liên tục bảo chị gái từ bỏ ý định đó. “Họ sẽ tách
 
 Ollie cảm thấy hơi nhẹ nhõm khi chị gái mình ngừng nói chuyện lúc có người lớn xung quanh, vì cậu bé thực sự chắc chắn rằng họ sẽ tách hai chị em ra nếu phát hiện ra cô bé có thể tồi tệ đến mức nào. Cậu bé không muốn bị chia cắt với chị gái mình. Mọi chuyện đã đủ khó khăn khi bố mẹ chúng đã qua đời, và họ đã rất cay nghiệt trong phần lớn thời gian, đặc biệt là bố, còn mẹ thì ngày càng trở nên kỳ lạ, bắt đầu lẩm bẩm nói chuyện một mình suốt. Thậm chí có những khoảnh khắc Ollie cảm thấy mừng vì cả bố lẫn mẹ đều đã qua đời, và rồi cậu bé lại cảm thấy tội lỗi vì đã suy nghĩ như vậy, rồi cứ ước gì bố mẹ quay trở lại.
 
-“Ông bác của tụi cháu bao nhiêu tuổi ạ?” Ollie hỏi Belinda Bell khi cô đang mở cửa xe tải.
+“Ông chú của tụi cháu bao nhiêu tuổi ạ?” Ollie hỏi Belinda Bell khi cô đang mở cửa xe tải.
 
 “Không quá già đâu,” Belinda Bell đáp. “Ông ấy có vẻ là một người trẻ trung trong tâm hồn khi cô trò chuyện qua điện thoại.”
 
@@ -28,7 +28,7 @@ Ollie cảm thấy hơi nhẹ nhõm khi chị gái mình ngừng nói chuyện l
 
 “Nhưng nếu ông ấy không chết, chúng cháu sẽ đến sống cùng ông ấy chứ ạ?” Ollie hỏi.
 
-“Đúng vậy, và các cháu vẫn có thể đi học cùng một trường và có tất cả những người bạn cũ. Các cháu thật may mắn khi có một người ông bác ở cùng thị trấn.”
+“Đúng vậy, và các cháu vẫn có thể đi học cùng một trường và có tất cả những người bạn cũ. Các cháu thật may mắn khi có một người ông chú ở cùng thị trấn.”
 
 Luna mở miệng và thò ngón tay vào, làm động tác giả vờ như cô bé sắp nôn.
 
@@ -102,7 +102,7 @@ Luna đang đứng đó với vẻ mặt cau có.
 
 “Ờ,” PJ nói, cảm thấy không thoải mái trước lời nhận xét kém duyên về người mẹ quá cố của chúng, khi mà bà vừa mới qua đời chưa lâu. “Thế mấy đứa có muốn đi tham quan ngôi nhà không? Ông có một điều bất ngờ ở sau vườn đấy.”
 
-“Chắc chắn là chúng cháu muốn xem điều bất ngờ đó rồi,” Ollie nói. Cậu bé kéo lê chiếc túi rác đựng quần áo qua cửa ra vào. Luna cũng kéo lê chiếc túi của mình vào theo, và cả hai vứt phịch chúng cạnh giá treo áo khoác. Cả ba đang đứng ở sảnh trước với giấy dán tường kẻ sọc cùng chiếc đồng hồ quả lắc đứng, và Luna lại tự hỏi không biết rốt cuộc chú PJ có giàu thật hay không. Từ đó, chú PJ dẫn chúng vào nhà bếp với những bức tường màu vàng, khăn trải bàn hình hoa hướng dương và tủ đựng chén bát màu anh đào có tay nắm bằng đồng vàng.
+“Chắc chắn là chúng cháu muốn xem điều bất ngờ đó rồi,” Ollie nói. Cậu bé kéo lê chiếc túi rác đựng quần áo qua cửa ra vào. Luna cũng kéo lê chiếc túi của mình vào theo, và cả hai vứt phịch chúng cạnh giá treo áo khoác. Cả ba đang đứng ở sảnh trước với giấy dán tường kẻ sọc cùng chiếc đồng hồ quả lắc đứng, và Luna lại tự hỏi không biết rốt cuộc ông PJ có giàu thật hay không. Từ đó, ông PJ dẫn chúng vào nhà bếp với những bức tường màu vàng, khăn trải bàn hình hoa hướng dương và tủ đựng chén bát màu anh đào có tay nắm bằng đồng vàng.
 
 “Ngôi nhà đẹp thật đấy,” Belinda vừa nói vừa đi vòng quanh, ngắm nhìn những chiếc tủ mà tự tay Fred đã làm.
 
@@ -188,7 +188,7 @@ Ollie hỏi: “Từ bao giờ mà chị lại biết chơi piano thế?” Cậ
 
 PJ nói: “Debussy. Bản ‘Serenade for the Doll’. Đó chính là bài đó. Mẹ đã dạy ông chơi bài đó. Chắc là bà cũng dạy anh trai ông chơi rồi. Có thể ông ấy đã dạy cháu chăng?”
 
-Luna nhìn người đàn ông lớn tuổi này, người đàn ông lớn tuổi mà cô bé phải sống cùng, kẻ biết rõ tên bài hát mà cô bé vừa chơi. Cô bé chưa từng biết người đàn ông này có họ hàng với ông ngoại mình, bởi vì chẳng có ai giải thích cho cô bé thế nào là ông bác, nhưng giờ thì cô bé đã tự suy ra được. Luna quay đi khỏi PJ và hướng về phía cây đàn piano, nhưng trước tiên PJ tưởng như ông nhìn thấy một điều gì đó mà ông thấu hiểu trong đôi mắt cô bé. Một nỗi tổn thương và sự tức giận mà ông nhận ra. Ông cảm thấy lo lắng cho cô bé, còn quá nhỏ tuổi mà lại mang trong mình nỗi tổn thương kiểu đó. Cả Belinda Bell và Ollie đều nghĩ Luna chuẩn bị chơi bản nhạc thứ hai trên đàn piano, một giai điệu tuyệt đẹp khác, nhưng thay vào đó, cô bé nôn thốc nôn tháo, một thứ chất dịch màu xanh rực rỡ phun tung tóe khắp cây đàn piano, với những khối nhầy nửa nhai gồm lũ ếch và kẹo dẻo bắn tung tóe lên các phím đàn.
+Luna nhìn người đàn ông lớn tuổi này, người đàn ông lớn tuổi mà cô bé phải sống cùng, kẻ biết rõ tên bài hát mà cô bé vừa chơi. Cô bé chưa từng biết người đàn ông này có họ hàng với ông ngoại mình, bởi vì chẳng có ai giải thích cho cô bé thế nào là ông chú, nhưng giờ thì cô bé đã tự suy ra được. Luna quay đi khỏi PJ và hướng về phía cây đàn piano, nhưng trước tiên PJ tưởng như ông nhìn thấy một điều gì đó mà ông thấu hiểu trong đôi mắt cô bé. Một nỗi tổn thương và sự tức giận mà ông nhận ra. Ông cảm thấy lo lắng cho cô bé, còn quá nhỏ tuổi mà lại mang trong mình nỗi tổn thương kiểu đó. Cả Belinda Bell và Ollie đều nghĩ Luna chuẩn bị chơi bản nhạc thứ hai trên đàn piano, một giai điệu tuyệt đẹp khác, nhưng thay vào đó, cô bé nôn thốc nôn tháo, một thứ chất dịch màu xanh rực rỡ phun tung tóe khắp cây đàn piano, với những khối nhầy nửa nhai gồm lũ ếch và kẹo dẻo bắn tung tóe lên các phím đàn.
 
 Belinda Bell nói: “Cái cốc Big Gulp. Ôi Chúa ơi, cái cốc Big Gulp.”
 

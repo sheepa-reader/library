@@ -72,7 +72,7 @@ Thần chết rồi sẽ tìm đến tất cả chúng ta thôi, chiếc mũ bó
 
 Thần chết rồi sẽ tìm đến tất cả chúng ta thôi, chú mèo Pancakes cất tiếng trong lồng.
 
-“Ôi trời ơi,” Ollie kêu lên. “Cháu xin lỗi chú PJ nhiều lắm ạ.” Cậu bé bắt đầu bật khóc nức nở. Sophie ôm chầm lấy cậu bé vào lòng.
+“Ôi trời ơi,” Ollie kêu lên. “Cháu xin lỗi ông PJ nhiều lắm ạ.” Cậu bé bắt đầu bật khóc nức nở. Sophie ôm chầm lấy cậu bé vào lòng.
 
 “Michelle!” PJ gọi lớn. “Bọn anh đã lặn lội đường xá xa xôi đến đây để tìm em đấy!”
 

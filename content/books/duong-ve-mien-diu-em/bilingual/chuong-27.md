@@ -72,7 +72,7 @@
 <p class="para-vi-sub">“Nó có trong sách nói của Sophie.” Ollie đã nghe được một vài từ vựng trong kỳ thi GRE khi lơ mơ chìm vào giấc ngủ trên xe ngày hôm trước. Ollie thích học những từ mới.</p>
 
 <p class="para-en">Luna let it go and looked back at Edna. “You must be really, really rich. Richer than Uncle PJ.”</p>
-<p class="para-vi-sub">Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả chú PJ.”</p>
+<p class="para-vi-sub">Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả ông PJ.”</p>
 
 <p class="para-en">Edna laughed. “I live a comfortable enough life. When my husband was alive, we were very happy. But my husband died three years ago.”</p>
 <p class="para-vi-sub">Edna bật cười. “Ta có một cuộc sống đủ đầy thoải mái. Khi chồng ta còn sống, chúng ta rất hạnh phúc. Nhưng chồng ta đã qua đời ba năm trước rồi.”</p>

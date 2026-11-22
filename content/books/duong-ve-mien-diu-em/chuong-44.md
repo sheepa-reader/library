@@ -2,7 +2,7 @@
 
 # Chương 34
 
-Khi tiến gần đến Little Rock, Sophie quyết định cô cần thêm một ly cà phê nữa vì cà phê ở Cracker Barrel dở tệ và nhạt nhẽo vô cùng. Họ ghé vào một quán có tên là She’s Got Big Mugs, và PJ tự mua cho mình một chiếc cốc cà phê hình bầu ngực bằng gốm mặc áo bikini, phần cà phê được rót vào phần cổ nơi đáng lẽ ra là cái đầu. Ollie nghĩ đó là thứ buồn cười nhất mà cậu bé từng thấy trong đời, và cậu bé nài nỉ được uống một ngụm cà phê từ chiếc cốc đó, nhưng chú PJ bảo Ollie thực sự nên dừng uống cà phê lại, nó sẽ làm cậu bé còi cọc đấy, và thử đổi sang uống nước ngọt xem sao.
+Khi tiến gần đến Little Rock, Sophie quyết định cô cần thêm một ly cà phê nữa vì cà phê ở Cracker Barrel dở tệ và nhạt nhẽo vô cùng. Họ ghé vào một quán có tên là She’s Got Big Mugs, và PJ tự mua cho mình một chiếc cốc cà phê hình bầu ngực bằng gốm mặc áo bikini, phần cà phê được rót vào phần cổ nơi đáng lẽ ra là cái đầu. Ollie nghĩ đó là thứ buồn cười nhất mà cậu bé từng thấy trong đời, và cậu bé nài nỉ được uống một ngụm cà phê từ chiếc cốc đó, nhưng ông PJ bảo Ollie thực sự nên dừng uống cà phê lại, nó sẽ làm cậu bé còi cọc đấy, và thử đổi sang uống nước ngọt xem sao.
 
 Sophie nhìn Ollie đang cười nắc nẻ trước chiếc cốc hình bầu ngực, cậu bé cười dễ dàng và vô tư đến thế sau buổi sáng kỳ quặc và đượm buồn vừa rồi, đó chính là một lý do khiến người lớn thường nghĩ rằng trẻ em không bị ảnh hưởng quá nghiêm trọng bởi cái chết, bởi vì chúng có thể quay lại với việc cười đùa và chơi giỡn nhanh đến thế. Khả năng phục hồi, đó là những gì người ta vẫn nói về lũ trẻ. Nhưng việc chơi đùa và cười cợt có thể chỉ là cách trẻ nhỏ xử lý cảm xúc, chứ điều đó không có nghĩa là chúng đã thực sự bình phục. Blanche đã kể cho Sophie nghe tất cả về điều này trong các buổi trị liệu, khi nói về tuổi thơ của Sophie. Sophie lo lắng cho hai đứa trẻ này, những gì chúng vừa phải trải qua ngay sau khi mất đi cha mẹ. Lồng ngực Sophie nhói đau, nhưng cô thực sự chẳng biết làm cách nào để tình hình khá hơn cho chúng. Bản thân cô thậm chí còn chưa bao giờ tìm ra cách để làm cho mọi thứ tốt đẹp hơn đối với chính mình.
 
@@ -54,9 +54,9 @@ Luna ngạc nhiên hỏi: “Gì cơ? Thật ạ?”
 
 Ollie hỏi: “Ông nội chúng cháu á?”
 
-Sophie hỏi: “Bố có chắc về câu chuyện này không đấy?” Sophie không hề biết câu chuyện này, hoặc ít ra là không phải phiên bản mà ông sắp kể. Trong những phiên bản câu chuyện mà cô từng nghe, người bắn bố cô là một người bạn mắc bệnh tâm thần của ông, chứ không phải anh trai ông, bởi vì Sophie thậm chí còn chẳng hề biết về người bác của mình cho đến tận vài ngày trước. Chip Duggins, lão già điên sở hữu tiệm chơi bowling trước khi nó đóng cửa. Bác của cô. Người đàn ông vốn là ông nội của những đứa trẻ này. “Các cháu có chắc là mình muốn nghe chuyện này không đấy?”
+Sophie hỏi: “Bố có chắc về câu chuyện này không đấy?” Sophie không hề biết câu chuyện này, hoặc ít ra là không phải phiên bản mà ông sắp kể. Trong những phiên bản câu chuyện mà cô từng nghe, người bắn bố cô là một người bạn mắc bệnh tâm thần của ông, chứ không phải anh trai ông, bởi vì Sophie thậm chí còn chẳng hề biết về người bác của mình cho đến tận vài ngày trước. Chip Duggins, lão già điên sở hữu tiệm chơi bowling trước khi nó đóng cửa. Bác của cô. Người đàn ông vốn là ông ngoại của những đứa trẻ này. “Các cháu có chắc là mình muốn nghe chuyện này không đấy?”
 
-Luna đáp: “Cháu muốn chứ.” Đôi mắt cô bé sáng lấp lánh như mắt chuột hamster. “Cháu rất muốn biết tại sao ông nội lại bắn chú PJ.”
+Luna đáp: “Cháu muốn chứ.” Đôi mắt cô bé sáng lấp lánh như mắt chuột hamster. “Cháu rất muốn biết tại sao ông ngoại lại bắn ông PJ.”
 
 Ollie đồng tình: “Cháu cũng muốn nghe nếu chị Luna muốn. Và đừng lo, Sophie. Bọn cháu vốn biết ổng điên từ lâu rồi mà. Bọn cháu từng sống chung với ổng cơ mà.”
 
@@ -148,7 +148,7 @@ Bọn họ cứ thế lái xe trong sự im lặng suốt một hồi lâu. Soph
 
 “Gì thế?” Sophie chờ đợi Luna quát mắng vì dám đối xử thô lỗ với em trai. Cô chờ đợi Luna rút kéo ra.
 
-Nhưng Luna chẳng nói gì về chuyện Sophie bảo Ollie ngậm miệng lại. Luna vẫn hay bảo Ollie ngậm miệng suốt ngày. “Em mua quà cho chị đấy,” cô bé đáp thay vào đó. “Chú PJ mua bánh beignet rồi, nên em nghĩ chị cũng cần được tặng gì đó.”
+Nhưng Luna chẳng nói gì về chuyện Sophie bảo Ollie ngậm miệng lại. Luna vẫn hay bảo Ollie ngậm miệng suốt ngày. “Em mua quà cho chị đấy,” cô bé đáp thay vào đó. “Ông PJ mua bánh beignet rồi, nên em nghĩ chị cũng cần được tặng gì đó.”
 
 Sophie thở dài. “Em ăn trộm cái gì thế?”
 

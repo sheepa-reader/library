@@ -9,7 +9,7 @@
 <p class="para-vi-sub">“Được rồi, họ đến rồi đấy, đi thôi,” Luna nói.</p>
 
 <p class="para-en">Ollie poked his sister. “Luna, Uncle PJ’s friend died. Be nice for once.”</p>
-<p class="para-vi-sub">Ollie chọc vào người chị gái. “Luna, bạn của chú PJ đã chết rồi đấy. Sống tử tế một chút đi.”</p>
+<p class="para-vi-sub">Ollie chọc vào người chị gái. “Luna, bạn của ông PJ đã chết rồi đấy. Sống tử tế một chút đi.”</p>
 
 <p class="para-en">“I am nice.”</p>
 <p class="para-vi-sub">“Chị rất tử tế đấy chứ.”</p>

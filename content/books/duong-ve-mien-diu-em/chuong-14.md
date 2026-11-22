@@ -34,7 +34,7 @@ Ollie tìm thấy chị mình đang ngồi bệt trên sàn nhà, ngay đúng ch
 
 “Chúng em là ai?”
 
-“Là em với chú PJ chứ ai.”
+“Là em với ông PJ chứ ai.”
 
 “Còn cô Belinda thì sao?”
 
@@ -44,7 +44,7 @@ Ollie tìm thấy chị mình đang ngồi bệt trên sàn nhà, ngay đúng ch
 
 “Chị tìm thấy nó ở đâu thế?”
 
-“Trong bồn tắm của chú PJ. Nó chạy theo chị ra cửa sổ lúc chị đang bỏ trốn.”
+“Trong bồn tắm của ông PJ. Nó chạy theo chị ra cửa sổ lúc chị đang bỏ trốn.”
 
 “Chị thực sự đang bỏ trốn á?”
 
@@ -70,7 +70,7 @@ Luna hỏi dồn: “Em xin lỗi vì điều gì?” Cô bé đang thử thách
 
 “Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”
 
-“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”
+“Tốt.” Ollie lau mắt. “Chị có về nhà ông PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”
 
 “Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.
 
@@ -86,6 +86,6 @@ Luna thừa biết Ollie đang nói dối, nhưng cô bé vẫn để mặc bả
 
 “Được,” Luna đáp. Cô bé cũng đang rất cần được nghe câu đó.
 
-Lũ kền kền đậu trên cây thích ngoài ngôi nhà vươn những chiếc cổ dài và xấu xí của chúng ra, chăm chú nhìn hai chị em nhà Meeklin rời khỏi căn nhà trên đường Deerfield, cô chị đang bế chú mèo màu cam trên tay. Lũ chim dõi theo bóng hai đứa trẻ đang đi ngược về phía đường Clear Pond, vẳng nghe tiếng PJ gọi tên chúng từ đằng xa. Luna giữ im lặng, nhưng Ollie hét lớn đáp lời: “Bọn cháu đây ạ! Bọn cháu tìm được mèo của chú PJ rồi chú PJ ơi! Nó vẫn còn sống!”
+Lũ kền kền đậu trên cây thích ngoài ngôi nhà vươn những chiếc cổ dài và xấu xí của chúng ra, chăm chú nhìn hai chị em nhà Meeklin rời khỏi căn nhà trên đường Deerfield, cô chị đang bế chú mèo màu cam trên tay. Lũ chim dõi theo bóng hai đứa trẻ đang đi ngược về phía đường Clear Pond, vẳng nghe tiếng PJ gọi tên chúng từ đằng xa. Luna giữ im lặng, nhưng Ollie hét lớn đáp lời: “Bọn cháu đây ạ! Bọn cháu tìm được mèo của ông PJ rồi ông PJ ơi! Nó vẫn còn sống!”
 
 Còn sống, lũ kền kền đồng thanh xác nhận, chúng xòe rộng đôi cánh và ngẩng cái đầu trụi lông lên xuống. Sống, sống, sống, chúng khàn giọng rít khẽ. Kền kền không hề kêu éc éc hay hót như những loài chim khác; chúng chỉ xì xè và phát ra những tiếng lách cách. Về cơ bản chúng là loài vật trầm lặng, y như thần chết vậy. Nhưng ở đây lại có một điều hoàn toàn mới lạ: bầy kền kền cứ cất tiếng lặp đi lặp lại từ sống mãi không thôi, như thể đang cầu mong cho hai đứa trẻ tội nghiệp ấy được bình an và chở che, mãi mãi về sau, amen.

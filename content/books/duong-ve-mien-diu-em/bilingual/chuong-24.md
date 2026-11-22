@@ -156,7 +156,7 @@
 <p class="para-vi-sub">“Cháu rất thích điều đó,” Ollie đồng tình.</p>
 
 <p class="para-en">“Wow,” Luna said. “Is it real?”</p>
-<p class="para-vi-sub">“Chú PJ ơi?” Luna gọi.</p>
+<p class="para-vi-sub">“Ông PJ ơi?” Luna gọi.</p>
 
 <p class="para-en">“It is. I’m going to ask Michelle Cobb to spend the rest of her life with me.”</p>
 <p class="para-vi-sub">“Sao thế cháu?”</p>
@@ -180,7 +180,7 @@
 <p class="para-vi-sub">“Đây là một thời điểm vô cùng hào hứng đối với ông, và ông rất vui vì các cháu có thể trở thành một phần trong đó. Thôi, giờ thì chúc các cháu ngủ ngon nhé. Ông sẽ gặp lại cả hai trên trang truyện tranh vào buổi sáng.”</p>
 
 <p class="para-en">Sophie put up with all her mother’s attention. Even after Sophie started wearing all the black clothes, looking dark and rebellious, she still did all the activities her mother signed her up for. She got good grades. She got into NYU, but she hadn’t gone. PJ had thought Ivy should have made her go. Ivy had said it was Sophie’s decision, but PJ thought Ivy seemed too happy when Sophie chose to go to the state school twenty minutes away. All those extracurricular activities to pad her résumé, and Ivy didn’t even care if Sophie went to the best college she got into.</p>
-<p class="para-vi-sub">“Chúc chú PJ ngủ ngon ạ,” hai đứa trẻ đồng thanh đáp, và chúng nói tự nhiên cứ như thể cả hai đã chúc chú PJ ngủ ngon hàng ngàn lần trước đó rồi. Trẻ con quả thật rất dễ thích nghi, PJ thầm nghĩ. Thật là kỳ diệu.</p>
+<p class="para-vi-sub">“Chúc ông PJ ngủ ngon ạ,” hai đứa trẻ đồng thanh đáp, và chúng nói tự nhiên cứ như thể cả hai đã chúc ông PJ ngủ ngon hàng ngàn lần trước đó rồi. Trẻ con quả thật rất dễ thích nghi, PJ thầm nghĩ. Thật là kỳ diệu.</p>
 
 <p class="para-en">PJ would have liked to talk to Sophie about all this, if she had any regrets. PJ opened and closed the hotel nightstand drawer next to Sophie’s head, but she was either in a deep, deep sleep, or the best faker PJ had ever seen.</p>
 <p class="para-vi-sub">PJ rất nóng lòng muốn kể cho Sophie nghe về việc ông đã trông nom lũ trẻ tốt thế nào, nhưng khi sang phòng bên cạnh, PJ thấy Sophie đã ngủ say sưa trên chiếc giường đôi cỡ lớn của khách sạn, chăn đắp kín người và chìm vào giấc ngủ sâu không biết trời đất là gì. Quả thực, ông chưa từng thấy ai ngủ say đến thế, và tự hỏi điều gì đã khiến cô kiệt sức đến vậy. Ông nào có biết đến năm dặm cô chạy trên máy chạy bộ, tiếp theo là hai viên kẹo dẻo cần sa, cùng ba mươi phút cô ngồi trong bồn nước nóng trên lầu tại khu spa của khách sạn, trong khi lũ trẻ đang xem bộ phim tài liệu về cá voi sát thủ. Thế nhưng PJ lại muốn có ai đó để trò chuyện, thế nên ông rất muốn Sophie tỉnh dậy. Cô chẳng mảy may nhúc nhích khi ông bật tivi hay đi lại lịch bịch quanh phòng.</p>

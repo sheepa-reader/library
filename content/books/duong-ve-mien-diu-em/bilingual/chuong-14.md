@@ -51,7 +51,7 @@
 <p class="para-vi-sub">“Chúng em là ai?”</p>
 
 <p class="para-en">“Me and Uncle PJ.”</p>
-<p class="para-vi-sub">“Là em với chú PJ chứ ai.”</p>
+<p class="para-vi-sub">“Là em với ông PJ chứ ai.”</p>
 
 <p class="para-en">“What about Ms. Belinda?”</p>
 <p class="para-vi-sub">“Còn cô Belinda thì sao?”</p>
@@ -66,7 +66,7 @@
 <p class="para-vi-sub">“Chị tìm thấy nó ở đâu thế?”</p>
 
 <p class="para-en">“In Uncle PJ’s bathtub. He followed me out the window when I was running away.”</p>
-<p class="para-vi-sub">“Trong bồn tắm của chú PJ. Nó chạy theo chị ra cửa sổ lúc chị đang bỏ trốn.”</p>
+<p class="para-vi-sub">“Trong bồn tắm của ông PJ. Nó chạy theo chị ra cửa sổ lúc chị đang bỏ trốn.”</p>
 
 <p class="para-en">“You were…really running away?”</p>
 <p class="para-vi-sub">“Chị thực sự đang bỏ trốn á?”</p>
@@ -105,7 +105,7 @@
 <p class="para-vi-sub">“Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”</p>
 
 <p class="para-en">“Good.” He wiped his eyes. “Are you coming back to Uncle PJ’s? He’s not bad, Luna, he’s not mean or crazy like Grandpa, I can tell. He got us a trampoline, and a PlayStation. And bunk beds. Brand-new. They still have plastic on the mattresses. No bugs.” There had been bedbugs at the foster home in Springfield. “And he said he loves us,” Ollie lied. “He said he loves us already.”</p>
-<p class="para-vi-sub">“Tốt.” Ollie lau mắt. “Chị có về nhà chú PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”</p>
+<p class="para-vi-sub">“Tốt.” Ollie lau mắt. “Chị có về nhà ông PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”</p>
 
 <p class="para-en">“I’ll stay there for tonight, I guess,” Luna agreed. “I can’t stay here,” she said, looking around their old house, which seemed so different than it had. Musty. Haunted. But it had never been an especially safe place, when her grandpa lived there, or when her dad got too angry or drunk, or when her mom called their neighbor Michael Hoonhaut and accused him of looking into their windows, which Luna was pretty sure he’d never done. It was a scary and confusing place, where it had always felt like anything could happen at any time, and you didn’t know when you woke up if it would be a good day or a bad one.</p>
 <p class="para-vi-sub">“Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.</p>
@@ -129,7 +129,7 @@
 <p class="para-vi-sub">“Được,” Luna đáp. Cô bé cũng đang rất cần được nghe câu đó.</p>
 
 <p class="para-en">The vultures in the maple tree outside the house craned their long, ugly necks and watched the Meeklin children leave the house on Deerfield Lane, the girl carrying the orange cat. The birds watched the children walking back toward Clear Pond Road, listening to the distant calls of Uncle PJ shouting their names. Luna stayed silent, but Ollie called back: “We’re here! We have your cat, Uncle PJ! She’s alive!”</p>
-<p class="para-vi-sub">Lũ kền kền đậu trên cây thích ngoài ngôi nhà vươn những chiếc cổ dài và xấu xí của chúng ra, chăm chú nhìn hai chị em nhà Meeklin rời khỏi căn nhà trên đường Deerfield, cô chị đang bế chú mèo màu cam trên tay. Lũ chim dõi theo bóng hai đứa trẻ đang đi ngược về phía đường Clear Pond, vẳng nghe tiếng PJ gọi tên chúng từ đằng xa. Luna giữ im lặng, nhưng Ollie hét lớn đáp lời: “Bọn cháu đây ạ! Bọn cháu tìm được mèo của chú PJ rồi chú PJ ơi! Nó vẫn còn sống!”</p>
+<p class="para-vi-sub">Lũ kền kền đậu trên cây thích ngoài ngôi nhà vươn những chiếc cổ dài và xấu xí của chúng ra, chăm chú nhìn hai chị em nhà Meeklin rời khỏi căn nhà trên đường Deerfield, cô chị đang bế chú mèo màu cam trên tay. Lũ chim dõi theo bóng hai đứa trẻ đang đi ngược về phía đường Clear Pond, vẳng nghe tiếng PJ gọi tên chúng từ đằng xa. Luna giữ im lặng, nhưng Ollie hét lớn đáp lời: “Bọn cháu đây ạ! Bọn cháu tìm được mèo của ông PJ rồi ông PJ ơi! Nó vẫn còn sống!”</p>
 
 <p class="para-en">Alive, the buzzards agreed, stretching their wings and bobbing their naked heads. Alive, alive, alive, they rasped. Vultures don’t screech or call like other birds; they only hiss and make clicking sounds. They’re otherwise silent animals, like death itself. But here was something new: the vultures chanting the word alive over and over, hoping those poor children would stay safe and protected, forever and ever, amen.</p>
 <p class="para-vi-sub">Còn sống, lũ kền kền đồng thanh xác nhận, chúng xòe rộng đôi cánh và ngẩng cái đầu trụi lông lên xuống. Sống, sống, sống, chúng khàn giọng rít khẽ. Kền kền không hề kêu éc éc hay hót như những loài chim khác; chúng chỉ xì xè và phát ra những tiếng lách cách. Về cơ bản chúng là loài vật trầm lặng, y như thần chết vậy. Nhưng ở đây lại có một điều hoàn toàn mới lạ: bầy kền kền cứ cất tiếng lặp đi lặp lại từ sống mãi không thôi, như thể đang cầu mong cho hai đứa trẻ tội nghiệp ấy được bình an và chở che, mãi mãi về sau, amen.</p>

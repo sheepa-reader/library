@@ -72,7 +72,7 @@
 <p class="para-vi-sub">Tim PJ thắt lại nghẹn ở cổ họng. Ông đã tìm thấy lũ trẻ rồi, nhưng ông sẽ cho Ollie một trận nhừ tử nếu cậu nhóc dám thả chú mèo rơi xuống. Tuy nhiên ông không muốn lũ trẻ nghĩ rằng mình đang nổi giận, kẻo chúng lại bỏ chạy nữa thì PJ chẳng có mảy may cơ hội nào mà đuổi theo kịp. Ông thì già mà chúng lại còn trẻ, ông thì chậm chạp trong khi chúng vô cùng nhanh nhẹn. Ông buộc phải nói cho đúng lời. Ông có thể đùa cợt một chút về chuyện này xem sao. “Này, Annie Edson Taylor ơi!” ông hét lớn. “Đừng có ném chú mèo đó xuống thác nước đấy nhé!”</p>
 
 <p class="para-en">“Uncle PJ!” Ollie said, but he was still holding the cat over the edge. “You found us! She made me go! I didn’t want to go!”</p>
-<p class="para-vi-sub">“Chú PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Chú tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”</p>
+<p class="para-vi-sub">“Ông PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Ông tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”</p>
 
 <p class="para-en">Luna looked over the edge. “ How did you find us?”</p>
 <p class="para-vi-sub">Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”</p>
@@ -123,10 +123,10 @@
 <p class="para-vi-sub">Luna khựng lại. “Đúng thế,” cô bé đồng tình. Cô bé vô cùng mừng vì từ nay không phải sống trong ngôi nhà đó nữa. Cô bé thực sự nghĩ rằng có lẽ một số người làm giun làm dế thì tốt hơn. Cô bé đã căm ghét bố mình sau khi ông bẻ gãy tay Ollie. Có rất nhiều điều người lớn làm mà Luna có thể tha thứ, nhưng cô bé không thể tha thứ cho chuyện đó. Sẽ không bao giờ.</p>
 
 <p class="para-en">“And I want to live with Uncle PJ and Michelle Cobb in Arizona,” Ollie said.</p>
-<p class="para-vi-sub">“Và cháu muốn sống với chú PJ và Michelle Cobb ở Arizona,” Ollie nói.</p>
+<p class="para-vi-sub">“Và cháu muốn sống với ông PJ và Michelle Cobb ở Arizona,” Ollie nói.</p>
 
 <p class="para-en">At that, Luna’s face turned red. She was furious. Ollie had not listened to her. She had told him everything on the bus on the way to the mall, how he needed to think about things, how they were alone now, that they had each other but no one else, no one else in the entire world, and he hadn’t listened. “Uncle PJ doesn’t want us, Ollie! Face it! He tried to give us away to Mark Stackpole. He drove us all the way to Texas to get rid of us. He told Mark Stackpole he wanted money to take care of us! A lot of money! He wanted seven thousand dollars!”</p>
-<p class="para-vi-sub">Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ollie chẳng thèm nghe lời cô bé gì cả. Cô bé đã dặn dò đủ điều trên chuyến xe buýt đến trung tâm thương mại, rằng cậu bé phải suy nghĩ cho kỹ, rằng giờ đây hai chị em chỉ có nhau chứ chẳng còn ai khác, không một ai khác trên đời này, thế mà cậu bé chẳng thèm nghe. “Chú PJ không muốn chúng ta đâu, Ollie! Chịu khó chấp nhận sự thật đi! Chú ấy đã cố tống khứ chúng ta cho Mark Stackpole đấy thôi. Chú ấy lái xe tuốt tận sang Texas chỉ để rũ bỏ bọn mình. Chú ấy còn bảo Mark Stackpole phải đưa tiền mới chịu nuôi chúng ta cơ mà! Đòi rất nhiều tiền! Chú ấy đòi tận bảy nghìn đô la!”</p>
+<p class="para-vi-sub">Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ollie chẳng thèm nghe lời cô bé gì cả. Cô bé đã dặn dò đủ điều trên chuyến xe buýt đến trung tâm thương mại, rằng cậu bé phải suy nghĩ cho kỹ, rằng giờ đây hai chị em chỉ có nhau chứ chẳng còn ai khác, không một ai khác trên đời này, thế mà cậu bé chẳng thèm nghe. “Ông PJ không muốn chúng ta đâu, Ollie! Chịu khó chấp nhận sự thật đi! Ông ấy đã cố tống khứ chúng ta cho Mark Stackpole đấy thôi. Ông ấy lái xe tuốt tận sang Texas chỉ để rũ bỏ bọn mình. Ông ấy còn bảo Mark Stackpole phải đưa tiền mới chịu nuôi chúng ta cơ mà! Đòi rất nhiều tiền! Ông ấy đòi tận bảy nghìn đô la!”</p>
 
 <p class="para-en">“So?”</p>
 <p class="para-vi-sub">“Thì sao?”</p>
@@ -141,10 +141,10 @@
 <p class="para-vi-sub">“Lẽ ra chị phải thế! Mọi chuyện sẽ tốt hơn nhiều nếu chị là chúa tể vũ trụ!”</p>
 
 <p class="para-en">“Hey, Luna, it is love,” PJ said. “I want to take good care of you. And I need money to take good care of you. I’m an old man without a license. I’m unemployed. It’s not easy for me to get a job. And also—I was scared. I wasn’t sure I could do it. Parenting again. I messed it up so bad the first time. One of my daughters died and the other one—well, she hates me.”</p>
-<p class="para-vi-sub">“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Chú muốn chăm sóc các cháu cho tốt. Và chú cần tiền để chăm sóc các cháu cho đàng hoàng. Chú là một ông già không có bằng lái xe. Chú lại thất nghiệp. Tìm được một công việc với chú đâu phải chuyện dễ. Hơn nữa... chú đã sợ hãi. Chú không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Chú đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của chú đã chết và đứa kia thì... à thì, con bé căm ghét chú.”</p>
+<p class="para-vi-sub">“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Ông muốn chăm sóc các cháu cho tốt. Và ông cần tiền để chăm sóc các cháu cho đàng hoàng. Ông là một ông già không có bằng lái xe. Ông lại thất nghiệp. Tìm được một công việc với ông đâu phải chuyện dễ. Hơn nữa... ông đã sợ hãi. Ông không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Ông đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của ông đã chết và đứa kia thì... à thì, con bé căm ghét ông.”</p>
 
 <p class="para-en">“Sophie doesn’t hate you,” Ollie said. “She’s just mad that you can’t stay in your bed all night.”</p>
-<p class="para-vi-sub">“Sophie có ghét chú đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”</p>
+<p class="para-vi-sub">“Sophie có ghét ông đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”</p>
 
 <p class="para-en">“Appreciate that, Ollie. But I’m going to try to do better this time. I’m going to stop drinking, and I’m going to do a better job this time. Will you let me try to do a better job?”</p>
 <p class="para-vi-sub">“Cảm ơn cháu đã nói thế, Ollie. Nhưng lần này ông sẽ cố gắng làm tốt hơn. Ông sẽ cai rượu, và ông sẽ làm tốt hơn trong lần này. Các cháu có để cho ông thử làm tốt hơn không?”</p>

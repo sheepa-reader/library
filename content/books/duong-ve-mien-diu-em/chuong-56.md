@@ -48,7 +48,7 @@ Luna khoanh tay trước ngực, đáp gọn: “Chúng ta có phải gia đình
 
 Tim PJ thắt lại nghẹn ở cổ họng. Ông đã tìm thấy lũ trẻ rồi, nhưng ông sẽ cho Ollie một trận nhừ tử nếu cậu nhóc dám thả chú mèo rơi xuống. Tuy nhiên ông không muốn lũ trẻ nghĩ rằng mình đang nổi giận, kẻo chúng lại bỏ chạy nữa thì PJ chẳng có mảy may cơ hội nào mà đuổi theo kịp. Ông thì già mà chúng lại còn trẻ, ông thì chậm chạp trong khi chúng vô cùng nhanh nhẹn. Ông buộc phải nói cho đúng lời. Ông có thể đùa cợt một chút về chuyện này xem sao. “Này, Annie Edson Taylor ơi!” ông hét lớn. “Đừng có ném chú mèo đó xuống thác nước đấy nhé!”
 
-“Chú PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Chú tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”
+“Ông PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Ông tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”
 
 Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”
 
@@ -82,9 +82,9 @@ Ollie sụt sịt. Cậu bé bắt đầu khóc, và không thể đưa tay lau 
 
 Luna khựng lại. “Đúng thế,” cô bé đồng tình. Cô bé vô cùng mừng vì từ nay không phải sống trong ngôi nhà đó nữa. Cô bé thực sự nghĩ rằng có lẽ một số người làm giun làm dế thì tốt hơn. Cô bé đã căm ghét bố mình sau khi ông bẻ gãy tay Ollie. Có rất nhiều điều người lớn làm mà Luna có thể tha thứ, nhưng cô bé không thể tha thứ cho chuyện đó. Sẽ không bao giờ.
 
-“Và cháu muốn sống với chú PJ và Michelle Cobb ở Arizona,” Ollie nói.
+“Và cháu muốn sống với ông PJ và Michelle Cobb ở Arizona,” Ollie nói.
 
-Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ollie chẳng thèm nghe lời cô bé gì cả. Cô bé đã dặn dò đủ điều trên chuyến xe buýt đến trung tâm thương mại, rằng cậu bé phải suy nghĩ cho kỹ, rằng giờ đây hai chị em chỉ có nhau chứ chẳng còn ai khác, không một ai khác trên đời này, thế mà cậu bé chẳng thèm nghe. “Chú PJ không muốn chúng ta đâu, Ollie! Chịu khó chấp nhận sự thật đi! Chú ấy đã cố tống khứ chúng ta cho Mark Stackpole đấy thôi. Chú ấy lái xe tuốt tận sang Texas chỉ để rũ bỏ bọn mình. Chú ấy còn bảo Mark Stackpole phải đưa tiền mới chịu nuôi chúng ta cơ mà! Đòi rất nhiều tiền! Chú ấy đòi tận bảy nghìn đô la!”
+Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ollie chẳng thèm nghe lời cô bé gì cả. Cô bé đã dặn dò đủ điều trên chuyến xe buýt đến trung tâm thương mại, rằng cậu bé phải suy nghĩ cho kỹ, rằng giờ đây hai chị em chỉ có nhau chứ chẳng còn ai khác, không một ai khác trên đời này, thế mà cậu bé chẳng thèm nghe. “Ông PJ không muốn chúng ta đâu, Ollie! Chịu khó chấp nhận sự thật đi! Ông ấy đã cố tống khứ chúng ta cho Mark Stackpole đấy thôi. Ông ấy lái xe tuốt tận sang Texas chỉ để rũ bỏ bọn mình. Ông ấy còn bảo Mark Stackpole phải đưa tiền mới chịu nuôi chúng ta cơ mà! Đòi rất nhiều tiền! Ông ấy đòi tận bảy nghìn đô la!”
 
 “Thì sao?”
 
@@ -94,9 +94,9 @@ Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ol
 
 “Lẽ ra chị phải thế! Mọi chuyện sẽ tốt hơn nhiều nếu chị là chúa tể vũ trụ!”
 
-“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Chú muốn chăm sóc các cháu cho tốt. Và chú cần tiền để chăm sóc các cháu cho đàng hoàng. Chú là một ông già không có bằng lái xe. Chú lại thất nghiệp. Tìm được một công việc với chú đâu phải chuyện dễ. Hơn nữa... chú đã sợ hãi. Chú không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Chú đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của chú đã chết và đứa kia thì... à thì, con bé căm ghét chú.”
+“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Ông muốn chăm sóc các cháu cho tốt. Và ông cần tiền để chăm sóc các cháu cho đàng hoàng. Ông là một ông già không có bằng lái xe. Ông lại thất nghiệp. Tìm được một công việc với ông đâu phải chuyện dễ. Hơn nữa... ông đã sợ hãi. Ông không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Ông đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của ông đã chết và đứa kia thì... à thì, con bé căm ghét ông.”
 
-“Sophie có ghét chú đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”
+“Sophie có ghét ông đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”
 
 “Cảm ơn cháu đã nói thế, Ollie. Nhưng lần này ông sẽ cố gắng làm tốt hơn. Ông sẽ cai rượu, và ông sẽ làm tốt hơn trong lần này. Các cháu có để cho ông thử làm tốt hơn không?”
 

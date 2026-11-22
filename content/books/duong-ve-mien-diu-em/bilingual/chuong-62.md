@@ -54,7 +54,7 @@
 <p class="para-vi-sub">Ollie định mở lời giải thích rằng PJ thực chất chỉ là chú của tụi nhóc, còn ông nội ruột và bố mẹ tụi nhóc đều đã qua đời cả rồi, rằng giờ tất cả bọn họ đều đã chui xuống đất làm mồi cho giun cả rồi, nhưng Luna đã kịp đưa tay bịt miệng em trai mình lại.</p>
 
 <p class="para-en">“Our grandpa told us all about you,” she said.</p>
-<p class="para-vi-sub">“Chú PJ đã kể cho chúng cháu nghe tất cả về bà đấy ạ,” cô bé nói.</p>
+<p class="para-vi-sub">“Ông PJ đã kể cho chúng cháu nghe tất cả về bà đấy ạ,” cô bé nói.</p>
 
 <p class="para-en">“Good things, I hope!” Michelle said.</p>
 <p class="para-vi-sub">“Toàn những điều tốt đẹp, hy vọng là thế!” Michelle nói.</p>
@@ -135,7 +135,7 @@
 <p class="para-vi-sub">PJ đáp: “Anh nhớ chứ.”</p>
 
 <p class="para-en">“Uncle PJ told us the story,” Ollie said.</p>
-<p class="para-vi-sub">Ollie nói: “Chú PJ đã kể cho chúng cháu nghe câu chuyện đó.”</p>
+<p class="para-vi-sub">Ollie nói: “Ông PJ đã kể cho chúng cháu nghe câu chuyện đó.”</p>
 
 <p class="para-en">“It’s true then?” Luna asked.</p>
 <p class="para-vi-sub">Luna hỏi: “Vậy hóa ra là thật sao?”</p>
@@ -147,7 +147,7 @@
 <p class="para-vi-sub">Michelle nói: “Sau đêm đó, em về nhà và kể cho mẹ nghe về hai chàng trai mà em đã gặp ở buổi tiệc giao lưu, rằng mọi chuyện giữa em và Ricky đã chấm dứt, và chuyện anh ta đang phải duy trì sự sống bằng máy thở trong bệnh viện.”</p>
 
 <p class="para-en">“Ricky’s still in a coma,” Ollie said. “Sometimes Uncle PJ goes in and combs his beard.”</p>
-<p class="para-vi-sub">Ollie nói: “Ricky vẫn đang trong tình trạng hôn mê. Thỉnh thoảng chú PJ lại vào chải râu cho chú ấy.”</p>
+<p class="para-vi-sub">Ollie nói: “Ricky vẫn đang trong tình trạng hôn mê. Thỉnh thoảng ông PJ lại vào chải râu cho chú ấy.”</p>
 
 <p class="para-en">“Oh,” Michelle said, and she looked confused.</p>
 <p class="para-vi-sub">Michelle thốt lên: “Ồ,” và trông bà có vẻ bối rối.</p>

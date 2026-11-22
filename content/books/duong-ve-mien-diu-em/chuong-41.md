@@ -6,7 +6,7 @@ Bọn trẻ đang đứng ngay trên đầu Sophie, phả hơi thở nóng hổi
 
 Ollie nói: “Đã chín giờ sáng rồi.” Chúng chưa bao giờ được phép đánh thức bố mẹ trước chín giờ vào dịp cuối tuần hay kỳ nghỉ. Hôm nay là thứ Sáu, nên không phải cuối tuần, nhưng tính ra cũng hơi giống một kỳ nghỉ.
 
-Luna nói thêm: “Và chú PJ đi mất rồi.”
+Luna nói thêm: “Và ông PJ đi mất rồi.”
 
 “Cái gì?”
 

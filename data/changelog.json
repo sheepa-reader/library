@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261122-01",
+    "timestamp": "2026-11-22T10:00:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm",
+    "type": "chapter_update",
+    "typeName": "Chuẩn hóa Đại từ & Tái xuất bản",
+    "badgeClass": "badge-chapter",
+    "title": "Chuẩn hóa toàn diện quan hệ gia tộc, đại từ xưng hô Ông - Cháu giữa PJ và Ollie/Luna",
+    "description": "Rà soát chuẩn hóa triệt để toàn bộ 27 chương tác phẩm: chuyển toàn bộ cách xưng hô của lũ trẻ (Ollie và Luna) dành cho PJ từ 'Chú PJ' thành 'Ông PJ' / 'Ông', PJ xưng với lũ trẻ là 'Ông - Cháu'; nắn chỉnh quan hệ gia tộc chuẩn xác khi PJ là 'ông chú ruột' (thay vì 'ông bác'); Chip Duggins là 'ông ngoại' và Ollie/Luna là 'cháu ngoại của anh trai tôi' (thay vì 'cháu nội'). Cập nhật đồng bộ toàn bộ bản đọc online (đơn ngữ & song ngữ), đóng gói lại EPUB tải về và hệ thống cơ sở dữ liệu."
+  },
+  {
     "id": "log-20261121-01",
     "timestamp": "2026-11-21T15:00:00+07:00",
     "bookId": "duong-ve-mien-diu-em",

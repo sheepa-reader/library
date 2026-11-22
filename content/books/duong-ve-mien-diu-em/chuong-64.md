@@ -46,7 +46,7 @@ Sophie chạy đi tìm Luna.
 
 “Chắc vậy rồi,” Luna đồng tình.
 
-Luna đối mặt với chuyện đó khá ổn, ít ra là trong mắt mọi người, chuyện Mark Stackpole là bố ruột của cô bé mà anh ta vẫn chẳng thèm nhận. Luna chẳng cần anh ta, hay người vợ tồi tệ cùng mấy đứa con ngốc nghếch của anh ta, khi cô bé đã có Sophie, người mà cô bé thực sự có thể tin cậy, và có Ollie, người vẫn là em trai kiêm bạn thân nhất, dù hai chị em chỉ cùng chung một nửa huyết thống. Và cô bé còn có chú PJ cùng Michelle, Pancakes cùng tất cả những con người ở Cộng đồng Hưu trí Tender Hearts, những người luôn khen cô bé thông minh, đáng yêu và hát rất hay.
+Luna đối mặt với chuyện đó khá ổn, ít ra là trong mắt mọi người, chuyện Mark Stackpole là bố ruột của cô bé mà anh ta vẫn chẳng thèm nhận. Luna chẳng cần anh ta, hay người vợ tồi tệ cùng mấy đứa con ngốc nghếch của anh ta, khi cô bé đã có Sophie, người mà cô bé thực sự có thể tin cậy, và có Ollie, người vẫn là em trai kiêm bạn thân nhất, dù hai chị em chỉ cùng chung một nửa huyết thống. Và cô bé còn có ông PJ cùng Michelle, Pancakes cùng tất cả những con người ở Cộng đồng Hưu trí Tender Hearts, những người luôn khen cô bé thông minh, đáng yêu và hát rất hay.
 
 “Chúng ta vẫn là Sinh đôi Ireland chứ?” Ollie hỏi.
 

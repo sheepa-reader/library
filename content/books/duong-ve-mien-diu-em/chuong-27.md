@@ -48,7 +48,7 @@ Luna nhìn chằm chằm cậu em trai, đôi mắt nheo lại: “Em học từ
 
 “Nó có trong sách nói của Sophie.” Ollie đã nghe được một vài từ vựng trong kỳ thi GRE khi lơ mơ chìm vào giấc ngủ trên xe ngày hôm trước. Ollie thích học những từ mới.
 
-Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả chú PJ.”
+Luna bỏ qua chuyện đó và quay sang nhìn Edna. “Chắc bà phải giàu lắm, giàu cực kỳ luôn. Giàu hơn cả ông PJ.”
 
 Edna bật cười. “Ta có một cuộc sống đủ đầy thoải mái. Khi chồng ta còn sống, chúng ta rất hạnh phúc. Nhưng chồng ta đã qua đời ba năm trước rồi.”
 

@@ -14,7 +14,7 @@
 
 Bố cô gật đầu. “Cũng tốt khi cho bản thân thời gian hồi phục,” ông nói, cứ như thể ông biết chút gì về những gì đã xảy ra tối qua. Nhưng ý ông chỉ là cơ bắp cần thời gian nghỉ ngơi.
 
-“Chú PJ phải kể chuyện trước khi ngủ chứ ạ,” Luna nói. “Một câu chuyện hay cơ. Chuyện khác về hồi cấp ba ấy. Về Michelle Cobb.”
+“Ông PJ phải kể chuyện trước khi ngủ chứ ạ,” Luna nói. “Một câu chuyện hay cơ. Chuyện khác về hồi cấp ba ấy. Về Michelle Cobb.”
 
 PJ chẳng còn câu chuyện nào khác về Michelle Cobb nữa. Ông đã đi lính ở tận chiến tranh Việt Nam, còn bà thì rời khỏi thị trấn cùng Gene và ông chưa bao giờ gặp lại bà từ dạo ấy. Mối liên lạc duy nhất ông có với Michelle trong suốt bốn mươi lăm năm qua là ngay sau khi Kate qua đời; bà và Gene đã gửi hoa đến nhà tang lễ. PJ đã vô cùng cảm động, tự hỏi làm sao họ lại hay tin về cái chết của Kate ở tận miền Tây xa xôi ấy. “Hay là thay vào đó ông sẽ kể cho các cháu nghe một câu chuyện về hồi các con của ông còn nhỏ nhé,” PJ đề nghị. “Ông sẽ kể cho các cháu nghe về con gái Kate của ông.”
 
@@ -108,7 +108,7 @@ PJ mỉm cười nhớ lại. Một kiếp người khác. “Điều tuyệt v�
 
 “Xin lỗi bố.”
 
-“Chú PJ?” Ollie hỏi, giọng nghe rất ngái ngủ.
+“Ông PJ?” Ollie hỏi, giọng nghe rất ngái ngủ.
 
 “Sao thế, Ollie?”
 

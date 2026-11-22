@@ -24,7 +24,7 @@
 <p class="para-vi-sub">“Đúng thế đấy,” Sophie nói. “Bố đã bị nhồi máu cơ tim ba lần rồi.”</p>
 
 <p class="para-en">“Uncle PJ could die any minute,” Luna said. “That’s why it’s very important we find my real father.”</p>
-<p class="para-vi-sub">“Chú PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”</p>
+<p class="para-vi-sub">“Ông PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”</p>
 
 <p class="para-en">“I hope he doesn’t die,” Ollie said. “I don’t know who I’d live with.”</p>
 <p class="para-vi-sub">“Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”</p>
@@ -63,7 +63,7 @@
 <p class="para-vi-sub">“Em trai cháu có được đi cùng không ạ?” Luna hỏi.</p>
 
 <p class="para-en">Lincoln shook his head. “Unfortunately, no, he cannot. I don’t think there’s room in the mansion. He can stay with Uncle PJ and Sophie, can’t he? I heard they have a trampoline and a PlayStation. He’ll be all right.”</p>
-<p class="para-vi-sub">Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với chú PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”</p>
+<p class="para-vi-sub">Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với ông PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”</p>
 
 <p class="para-en">“Well,” Luna considered. “He does eat a lot, and he doesn’t always listen to me. But I promised I wouldn’t leave him.”</p>
 <p class="para-vi-sub">“Vâng,” Luna ngẫm nghĩ. “Em ấy ăn nhiều lắm, lại chẳng phải lúc nào cũng nghe lời chị. Nhưng chị đã hứa là sẽ không bỏ rơi Ollie cơ mà.”</p>

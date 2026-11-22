@@ -27,7 +27,7 @@
 <p class="para-vi-sub">Ngay khi mang hành lý lên phòng, PJ liền kéo chiếc sofa giường ra rồi nằm phịch xuống định thử một chút, nhưng chỉ vài giây sau đã ngáy khò khò, vẫn nguyên quần áo, dép xăng đan và đội cả mũ bóng chày trên đầu.</p>
 
 <p class="para-en">“Uncle PJ didn’t brush his teeth before bed,” Ollie reported. “He’s going to get cavities.”</p>
-<p class="para-vi-sub">“Chú PJ không đánh răng trước khi đi ngủ kìa,” Ollie chỉ điểm. “Chú ấy sẽ bị sâu răng mất thôi.”</p>
+<p class="para-vi-sub">“Ông PJ không đánh răng trước khi đi ngủ kìa,” Ollie chỉ điểm. “Ông ấy sẽ bị sâu răng mất thôi.”</p>
 
 <p class="para-en">“I don’t think it matters at his age,” Sophie said, putting a blanket over her father. “He’ll need dentures soon anyway.”</p>
 <p class="para-vi-sub">“Tầm tuổi bố thì chắc chẳng quan trọng nữa đâu,” Sophie vừa nói vừa đắp chăn lên người bố. “Đằng nào thì chẳng mấy chốc nữa cũng phải lắp hàm giả.”</p>
@@ -45,7 +45,7 @@
 <p class="para-vi-sub">Ollie cau mày lườm nguýt.</p>
 
 <p class="para-en">“Let’s handcuff Uncle PJ to the bed, so he doesn’t wander off tonight,” Luna said. “We’ll need to be on the road tomorrow to get to the meet-and-greet.”</p>
-<p class="para-vi-sub">“Hay mình còng tay chú PJ vào giường đi, để tối nay chú ấy không đi lang thang nữa,” Luna đề xuất. “Ngày mai chúng ta còn phải lên đường để kịp buổi giao lưu nữa chứ.”</p>
+<p class="para-vi-sub">“Hay mình còng tay ông PJ vào giường đi, để tối nay ông ấy không đi lang thang nữa,” Luna đề xuất. “Ngày mai chúng ta còn phải lên đường để kịp buổi giao lưu nữa chứ.”</p>
 
 <p class="para-en">“With what handcuffs?” Sophie asked. She wasn’t opposed to the idea.</p>
 <p class="para-vi-sub">“Lấy gì mà còng?” Sophie hỏi. Bản thân cô cũng chẳng phản đối ý tưởng này lắm.</p>
@@ -57,7 +57,7 @@
 <p class="para-vi-sub">“Lạy Chúa, Luna, em phải bỏ cái thói ăn cắp này đi thôi. Nhất là lại đi ăn cắp của cảnh sát.”</p>
 
 <p class="para-en">“He didn’t notice,” Luna assured her. Luna fastened one side to Uncle PJ’s wrist and the other side of the cuffs to the metal bar of the pullout couch. “There,” she said. “Perfect.” She put the tiny silver key in the motel drawer next to the Bible, and then she got into bed. “Tell us a story,” she begged Sophie. “I can’t sleep without a story.”</p>
-<p class="para-vi-sub">“Chú ấy có để ý đâu,” Luna trấn an. Cô bé khóa một đầu vào cổ tay chú PJ và đầu kia vào thanh sắt của chiếc sofa kéo. “Xong,” cô bé nói. “Hoàn hảo.” Cô bé nhét chiếc chìa khóa bạc nhỏ xíu vào ngăn kéo nhà nghỉ ngay cạnh cuốn Kinh thánh, rồi leo lên giường. “Kể chuyện cho bọn em nghe đi,” cô bé nài nỉ Sophie. “Em không ngủ được nếu không có chuyện để nghe đâu.”</p>
+<p class="para-vi-sub">“Ông ấy có để ý đâu,” Luna trấn an. Cô bé khóa một đầu vào cổ tay ông PJ và đầu kia vào thanh sắt của chiếc sofa kéo. “Xong,” cô bé nói. “Hoàn hảo.” Cô bé nhét chiếc chìa khóa bạc nhỏ xíu vào ngăn kéo nhà nghỉ ngay cạnh cuốn Kinh thánh, rồi leo lên giường. “Kể chuyện cho bọn em nghe đi,” cô bé nài nỉ Sophie. “Em không ngủ được nếu không có chuyện để nghe đâu.”</p>
 
 <p class="para-en">“My dad’s the storyteller. Can I read you something instead? A book? How to Survive in the Woods ?”</p>
 <p class="para-vi-sub">“Bố chị mới là người giỏi kể chuyện cơ mà. Hay để chị đọc cho hai đứa nghe một cuốn sách nhé? Cách sinh tồn trong rừng sâu thì sao?”</p>
@@ -207,7 +207,7 @@
 <p class="para-vi-sub">Mẹ kiếp, Sophie thầm nghĩ. Sống vì bố của mình quả là một sai lầm chết người, dù đó là bố ruột hay là người đàn ông mà thỉnh thoảng cô bé vẫn tự huyễn hoặc là bố mình. Sophie đã từng phải chịu quá nhiều thất vọng từ những bóng hình người cha trong đời. Vị giáo sư đại học từng cưỡng hôn cô trong phòng làm việc rồi hỏi xem cô có thể kín đáo về mối quan hệ mập mờ ấy không. Alan Diamond vì dám chết đi khi cô vẫn cần ông giúp mình định hướng cuộc đời. Thậm chí cả Fred, người cứ cằn nhằn mãi chuyện cô khiến mẹ lo lắng quá mức. Chẳng phải bố mẹ sinh ra là để lo cho con cái hay sao?</p>
 
 <p class="para-en">“That was two stories about fires in one day,” Ollie pointed out. “The fire at your job, and the one our grandfather set in Uncle PJ’s mom’s house.”</p>
-<p class="para-vi-sub">“Đó là hai câu chuyện về hỏa hoạn trong cùng một ngày đấy nhé,” Ollie chỉ ra. “Vụ cháy ở chỗ làm của chị, và vụ do ông nội bọn em châm lửa đốt ở nhà mẹ của chú PJ.”</p>
+<p class="para-vi-sub">“Đó là hai câu chuyện về hỏa hoạn trong cùng một ngày đấy nhé,” Ollie chỉ ra. “Vụ cháy ở chỗ làm của chị, và vụ do ông ngoại bọn em châm lửa đốt ở nhà mẹ của ông PJ.”</p>
 
 <p class="para-en">“Oh,” Sophie said. It had been a long day. “You’re right.”</p>
 <p class="para-vi-sub">“Ờ,” Sophie nói. Hôm nay quả là một ngày dài đằng đẵng. “Em nói đúng.”</p>
@@ -219,7 +219,7 @@
 <p class="para-vi-sub">“Không, chị không biết chuyện đó.”</p>
 
 <p class="para-en">“We never knew our firefighter grandpa,” Luna said. “We only knew our mom’s dad. The one who shot Uncle PJ and set the fire.”</p>
-<p class="para-vi-sub">“Bọn em chưa từng gặp ông nội lính cứu hỏa bao giờ,” Luna nói. “Bọn em chỉ biết ông ngoại thôi. Người đã bắn chú PJ và châm lửa đốt nhà ấy.”</p>
+<p class="para-vi-sub">“Bọn em chưa từng gặp ông nội lính cứu hỏa bao giờ,” Luna nói. “Bọn em chỉ biết ông ngoại thôi. Người đã bắn ông PJ và châm lửa đốt nhà ấy.”</p>
 
 <p class="para-en">“I see.”</p>
 <p class="para-vi-sub">“Ra vậy.”</p>
@@ -312,10 +312,10 @@
 <p class="para-vi-sub">“Chuẩn luôn,” Luna nói. “Và tụi mình sắp được gặp Mark Stackpole rồi. Cả biệt thự của anh ta, vợ anh ta là cô Christine, em bé Sassafras cùng tất cả những đứa trẻ khác nữa.”</p>
 
 <p class="para-en">Sophie took a deep breath. “You also have me,” she said. “You have me, and you also have Uncle PJ. And we’re going to try to help you any way we can. My dad isn’t perfect, but he really cares about you kids.”</p>
-<p class="para-vi-sub">Sophie hít một hơi thật sâu. “Các em còn có cả chị nữa,” cô nói. “Các em có chị, và cũng có cả chú PJ nữa. Tụi chị sẽ cố gắng giúp đỡ các em bằng bất cứ cách nào có thể. Bố chị không hoàn hảo, nhưng bố thực sự quan tâm đến các em.”</p>
+<p class="para-vi-sub">Sophie hít một hơi thật sâu. “Các em còn có cả chị nữa,” cô nói. “Các em có chị, và cũng có cả ông PJ nữa. Tụi chị sẽ cố gắng giúp đỡ các em bằng bất cứ cách nào có thể. Bố chị không hoàn hảo, nhưng bố thực sự quan tâm đến các em.”</p>
 
 <p class="para-en">“You can visit us in our mansion,” Luna offered. “You can visit us anytime. Uncle PJ can bring Michelle Cobb. And Pancakes, obviously.”</p>
-<p class="para-vi-sub">Luna gợi ý: “Chị có thể đến thăm bọn em ở biệt thự nhé. Chị đến lúc nào cũng được. Chú PJ có thể dẫn theo Michelle Cobb. Cả Pancakes nữa, hiển nhiên rồi.”</p>
+<p class="para-vi-sub">Luna gợi ý: “Chị có thể đến thăm bọn em ở biệt thự nhé. Chị đến lúc nào cũng được. Ông PJ có thể dẫn theo Michelle Cobb. Cả Pancakes nữa, hiển nhiên rồi.”</p>
 
 <p class="para-en">Sophie had to say something. Luna and her dad might both be delusional about this trip—it might work out for one of them, but it probably wouldn’t work out for both of them, and it might not work out for either. Sophie had seen so many things not work out before. “Luna, I need to tell you something before tomorrow. If I’m going to take you to meet Mark Stackpole, I have to tell you this first.”</p>
 <p class="para-vi-sub">Sophie buộc phải nói điều gì đó. Luna và bố cô có thể đều đang ảo tưởng về chuyến đi này, nó có thể suôn sẻ với một trong hai người, nhưng khả năng cao là chẳng suôn sẻ cho cả hai, hoặc thậm chí chẳng thành công với bất cứ ai. Sophie đã chứng kiến quá nhiều thứ đổ vỡ trước đây rồi. “Luna, trước ngày mai, chị phải nói với em chuyện này. Nếu chị đưa em đi gặp Mark Stackpole, chị phải nói điều này trước đã.”</p>
@@ -363,7 +363,7 @@
 <p class="para-vi-sub">“Pancakes đâu rồi ạ?” Luna hỏi.</p>
 
 <p class="para-en">“He’s under the covers with Uncle PJ,” Ollie said, because he swore he had seen a cat-shaped lump under the covers while Luna was handcuffing their great-uncle to the bed.</p>
-<p class="para-vi-sub">“Chú mèo đang rúc dưới chăn với chú PJ,” Ollie đáp, bởi vì cậu bé thề là mình đã nhìn thấy một khối phình hình con mèo nằm dưới lớp chăn lúc Luna đang còng tay ông chú họ của chúng vào giường.</p>
+<p class="para-vi-sub">“Chú mèo đang rúc dưới chăn với ông PJ,” Ollie đáp, bởi vì cậu bé thề là mình đã nhìn thấy một khối phình hình con mèo nằm dưới lớp chăn lúc Luna đang còng tay ông chú họ của chúng vào giường.</p>
 
 <p class="para-en">“Okay,” Luna said, disappointed that the cat wouldn’t be sleeping with her. “Hey, Sophie?”</p>
 <p class="para-vi-sub">“Vâng ạ,” Luna nói với vẻ hụt hẫng vì chú mèo sẽ không ngủ cùng mình. “À này, chị Sophie?”</p>

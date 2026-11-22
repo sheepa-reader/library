@@ -33,7 +33,7 @@
 <p class="para-vi-sub">“Cháu đi được ạ?”</p>
 
 <p class="para-en">“Well, we’ll need something to do this summer, won’t we? I was thinking we’d go on a road trip. But you’ll have to come with me to Tucson first. It’s on the way. We’ll drive to Arizona, and then go to California. They’re next-door neighbors.”</p>
-<p class="para-vi-sub">“Thì hè này chúng ta cũng cần việc gì đó để làm chứ, đúng không? Chú đang định làm một chuyến xuyên Mỹ. Nhưng trước tiên cháu phải đi cùng chú tới Tucson đã. Nó nằm trên đường đi mà. Chúng ta sẽ lái xe tới Arizona, rồi mới sang California. Hai tiểu bang đó ở cạnh nhau như hàng xóm vậy.”</p>
+<p class="para-vi-sub">“Thì hè này chúng ta cũng cần việc gì đó để làm chứ, đúng không? Ông đang định làm một chuyến xuyên Mỹ. Nhưng trước tiên cháu phải đi cùng ông tới Tucson đã. Nó nằm trên đường đi mà. Chúng ta sẽ lái xe tới Arizona, rồi mới sang California. Hai tiểu bang đó ở cạnh nhau như hàng xóm vậy.”</p>
 
 <p class="para-en">“What’s in Tucson?”</p>
 <p class="para-vi-sub">“Ở Tucson có gì ạ?”</p>
@@ -69,7 +69,7 @@
 <p class="para-vi-sub">“Chiến tranh thế giới thứ nhất hay thứ hai ạ?”</p>
 
 <p class="para-en">“How old do you think I am?”</p>
-<p class="para-vi-sub">“Các cháu nghĩ chú bao nhiêu tuổi rồi hả?”</p>
+<p class="para-vi-sub">“Các cháu nghĩ ông bao nhiêu tuổi rồi hả?”</p>
 
 <p class="para-en">“Ninety,” Luna said.</p>
 <p class="para-vi-sub">“Chín mươi,” Luna nói.</p>
@@ -144,7 +144,7 @@
 <p class="para-vi-sub">“Vâng,” Ollie nói, và có lẽ thế là đủ tốt rồi, rằng mọi chuyện sẽ rất vui, và cậu bé cùng Luna sẽ không phải đến trường nơi mọi người nhìn họ bằng ánh mắt kỳ quặc. Cậu bé rúc sâu vào chiếc túi ngủ, lớp nhựa bọc nệm kêu sột soạt. Cậu bé không muốn tháo lớp nhựa đó ra cho đến khi chắc chắn rằng ở đây hoàn toàn không có rệp giường.</p>
 
 <p class="para-en">“Thanks, Uncle PJ,” Luna said.</p>
-<p class="para-vi-sub">“Cảm ơn chú PJ,” Luna nói.</p>
+<p class="para-vi-sub">“Cảm ơn ông PJ,” Luna nói.</p>
 
 <p class="para-en">“No problem,” PJ said, feeling like a hero. “All right, kiddos, it’s time to get some rest. I’ll see you in the funny papers in the morning.” He used to say that every night to Sophie and Kate when he tucked them in. The girls used to ask him what it meant, and he would say that they were funny-looking enough to be in the comics, but it still felt like a lovely thing to say to kids somehow, and it was soothing to him to say it to children again. But after the light was off, PJ realized he needed to say one more thing to the girl. It was easier to say with the lights out. “Hey, Luna?”</p>
 <p class="para-vi-sub">“Không có chi,” PJ nói, cảm thấy bản thân giống như một người hùng. “Được rồi, mấy đứa nhóc, đến giờ đi ngủ rồi đấy. Sáng mai gặp lại mấy đứa trên trang truyện tranh nhé.” Ông thường nói câu đó mỗi tối với Sophie và Kate khi đắp chăn cho hai đứa. Mấy đứa nhỏ ngày trước hay hỏi ông câu đó có nghĩa là gì, và ông sẽ đáp rằng trông chúng ngộ nghĩnh giống như nhân vật trên truyện tranh vậy, nhưng dù sao thì đó vẫn là một câu nói đáng yêu để thủ thỉ với trẻ con, và việc được nói lại câu ấy với bọn trẻ khiến ông cảm thấy vô cùng dễ chịu. Nhưng sau khi tắt đèn, PJ nhận ra ông cần phải nói thêm một điều nữa với cô bé. Nói lúc tắt đèn sẽ dễ hơn nhiều. “Này, Luna?”</p>
@@ -162,7 +162,7 @@
 <p class="para-vi-sub">“Cậu bé không hề kể gì với ông đâu,” PJ nói. “Đó là sự thật. Ông chỉ biết anh trai mình là một kẻ khốn nạn và ông có thể thấy ông ta đã làm tổn thương cháu theo cách nào đó, khi cháu chơi đàn piano. Ông nhận ra điều đó. Nhưng ông ta là một kẻ khốn nạn, và thật tốt vì bây giờ ông ta đã chết rồi. Chúng ta nên cảm thấy vui vì điều đó mới phải.”</p>
 
 <p class="para-en">“Okay,” Luna said, quietly. “Thanks, Uncle PJ.” Then she closed her eyes tight before opening them again to see if she felt any different, now that she had heard someone say something aloud she had wished and wished her parents had said. That it was good her grandpa was dead, and she didn’t have to forgive him. When she opened her eyes there were stars on the ceiling, because PJ had turned on the star projector that he’d bought at IKEA, in case the kids were afraid of the dark. His older daughter had always slept with a nightlight and the door open, even as a teen.</p>
-<p class="para-vi-sub">“Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn chú PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.</p>
+<p class="para-vi-sub">“Vâng,” Luna đáp, giọng nhỏ nhẹ. “Cảm ơn ông PJ ạ.” Rồi cô bé nhắm nghiền hai mắt lại trước khi mở bừng ra để xem bản thân có cảm thấy khác biệt chút nào không, ngay sau khi nghe được ai đó thốt lên thành lời điều mà cô bé vẫn luôn hằng mong ước bố mẹ mình từng nói. Rằng việc ông ngoại chết đi là một điều tốt, và cô bé không buộc phải tha thứ cho ông ta. Khi mở mắt ra, cô bé nhìn thấy những ánh sao trên trần nhà, bởi vì PJ đã bật chiếc máy chiếu hình ngôi sao mua ở cửa hàng IKEA, đề phòng trường hợp lũ trẻ sợ bóng tối. Cô con gái lớn của ông từ nhỏ vẫn luôn ngủ bật đèn ngủ và để hé cửa, ngay cả khi đã ở tuổi thiếu niên.</p>
 
 <p class="para-en">PJ left their bedroom door open a crack. He felt more wonderful than he had in a long time. It was a good thing to put kids to bed. He had done a good thing by telling Luna her grandfather was an asshole; that seemed to have helped her. And she was talking again. PJ thought he should be proud of that. Belinda Bell had said Luna would start talking again, eventually, but it had only taken him one night to get her speaking. He was good with the kids. He was practically Mary Poppins.</p>
 <p class="para-vi-sub">PJ khép hờ cửa phòng ngủ của lũ trẻ. Ông cảm thấy tuyệt vời hơn bất cứ khoảng thời gian nào trong suốt một thời gian dài vừa qua. Việc cho lũ trẻ đi ngủ hóa ra lại là một việc tuyệt diệu. Ông đã làm một việc đúng đắn khi nói với Luna rằng ông ngoại cô bé là một kẻ khốn nạn, điều đó có vẻ đã giúp ích cho cô bé. Và cô bé đã chịu mở miệng nói chuyện trở lại. PJ nghĩ rằng bản thân có quyền tự hào về điều đó. Belinda Bell từng bảo Luna rồi sẽ đến lúc nói chuyện lại, nhưng ông chỉ mất vỏn vẹn một đêm để khiến cô bé cất lời. Ông rất có tay nuôi dạy trẻ con. Ông gần như là Mary Poppins phiên bản đời thực rồi còn gì.</p>

@@ -14,7 +14,7 @@ Zander nhún vai. “Chắc thế. Chú ấy toàn lái xe chở khách đi Las 
 
 “Sao bố không thể bình thường lấy một lần được hả?” Sophie hỏi.
 
-“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”
+“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và ông ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”
 
 “Không sao đâu.” Sophie thề là đời này cô chẳng bao giờ muốn nhìn thấy tấm thiệp chúc mừng nào nữa hết.
 

@@ -2,11 +2,11 @@
 
 # Chương 18
 
-Sau khi chú PJ khép cánh cửa ngăn giữa hai căn phòng, Ollie ngáy khò khè gần như ngay lập tức, bỏ mặc Luna một mình trong bóng tối. Luna bèn bò ra khỏi chiếc giường mà hai chị em đang nằm chung, bởi vì có lần Ollie từng tè dầm khi họ đến New Jersey và ở lại khách sạn. Cô bé chuyển sang chiếc giường đôi còn lại, chiếc giường trống mà chú PJ vừa ngồi lúc nãy, rồi trằn trọc lăn lộn suốt quãng thời gian dài dằng dặc.
+Sau khi ông PJ khép cánh cửa ngăn giữa hai căn phòng, Ollie ngáy khò khè gần như ngay lập tức, bỏ mặc Luna một mình trong bóng tối. Luna bèn bò ra khỏi chiếc giường mà hai chị em đang nằm chung, bởi vì có lần Ollie từng tè dầm khi họ đến New Jersey và ở lại khách sạn. Cô bé chuyển sang chiếc giường đôi còn lại, chiếc giường trống mà ông PJ vừa ngồi lúc nãy, rồi trằn trọc lăn lộn suốt quãng thời gian dài dằng dặc.
 
 Có tiếng gõ cửa.
 
-Luna đợi chú PJ ra mở cửa, nhưng chú không ra. Mở cửa là việc của người lớn cơ mà, đúng không? Chú ấy đâu rồi? Sophie đâu rồi?
+Luna đợi ông PJ ra mở cửa, nhưng ông không ra. Mở cửa là việc của người lớn cơ mà, đúng không? Ông ấy đâu rồi? Sophie đâu rồi?
 
 Người bên ngoài lại gõ cửa, lớn tiếng hơn, thế là Luna đành đi ra cửa. Cô bé cố nhìn qua lỗ nhòm gắn trên cánh cửa, nhưng chiều cao lại không với tới, thế là Luna quyết định mở toang cửa ra để xem kẻ nào đang đứng ở bên kia. Chuyện tồi tệ nhất có thể xảy ra là gì chứ? cô bé tự hỏi bản thân, cứ như thể đáp án cho câu hỏi đó không phải là một danh sách dài dằng dặc những điều tồi tệ vậy.
 

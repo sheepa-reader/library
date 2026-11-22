@@ -50,13 +50,13 @@ PJ hỏi khi họ quay trở lại xe: “Con đã mua bao cao su chưa thế?�
 
 “Không đời nào; không thể nhốt một con mãnh thú vào lồng được.”
 
-Sophie lắc đầu rồi lái xe rời khỏi bãi đậu xe. Chẳng bao giờ có ích gì khi tranh cãi với bố; ông sẽ vẫn tiếp tục làm bất cứ điều gì ông muốn cho đến hết cuộc đời. Sophie hướng mắt nhìn về phía trước và cố gắng không thét lên khi Luna đưa một túi nhỏ đầy dây chun lên ghế trước rồi hỏi chú PJ rằng đó có phải loại bao cao su mà chú muốn không. Sophie nhận ra ngay lập tức rằng cô bé đã ăn trộm cả túi dây chun đó như một món quà. Chuyện đó sẽ gần như dễ thương, nếu như nó không mấy phần kỳ quặc.
+Sophie lắc đầu rồi lái xe rời khỏi bãi đậu xe. Chẳng bao giờ có ích gì khi tranh cãi với bố; ông sẽ vẫn tiếp tục làm bất cứ điều gì ông muốn cho đến hết cuộc đời. Sophie hướng mắt nhìn về phía trước và cố gắng không thét lên khi Luna đưa một túi nhỏ đầy dây chun lên ghế trước rồi hỏi ông PJ rằng đó có phải loại bao cao su mà ông muốn không. Sophie nhận ra ngay lập tức rằng cô bé đã ăn trộm cả túi dây chun đó như một món quà. Chuyện đó sẽ gần như dễ thương, nếu như nó không mấy phần kỳ quặc.
 
 PJ cười lớn đến mức Sophie thầm mong ông sẽ bị nghẹn vì trận cười đó, vì tội cư xử thô tục ngay trước mặt lũ trẻ.
 
-Sau khi chú PJ ngừng cười sằng sặc trước một câu nói đùa mà Luna chẳng hiểu gì cả, cô bé bắt đầu đọc tạp chí của mình trong khi mút viên kẹo Jolly Rancher vị dưa hấu. Cuốn tạp chí là một số báo cũ của Tạp chí Soap Opera Digest . Luna đã lấy hai cuốn tạp chí của mẹ khi cô bé quay lại để lấy cuốn kỷ yếu, bao gồm cả số báo có bài viết về chuyến tham quan ngôi nhà của gia đình Stackpole, một dinh thự lớn với đài phun nước ở phía trước. Luna sẽ chẳng cần phải ăn trộm bất cứ thứ gì một khi cô bé sống ở đó. Gia đình Stackpole chắc hẳn có vô số kẹo trong những chiếc lọ thủy tinh lớn đặt ở phòng đựng thức ăn. Một số người có tất cả mọi thứ trên đời.
+Sau khi ông PJ ngừng cười sằng sặc trước một câu nói đùa mà Luna chẳng hiểu gì cả, cô bé bắt đầu đọc tạp chí của mình trong khi mút viên kẹo Jolly Rancher vị dưa hấu. Cuốn tạp chí là một số báo cũ của Tạp chí Soap Opera Digest . Luna đã lấy hai cuốn tạp chí của mẹ khi cô bé quay lại để lấy cuốn kỷ yếu, bao gồm cả số báo có bài viết về chuyến tham quan ngôi nhà của gia đình Stackpole, một dinh thự lớn với đài phun nước ở phía trước. Luna sẽ chẳng cần phải ăn trộm bất cứ thứ gì một khi cô bé sống ở đó. Gia đình Stackpole chắc hẳn có vô số kẹo trong những chiếc lọ thủy tinh lớn đặt ở phòng đựng thức ăn. Một số người có tất cả mọi thứ trên đời.
 
-PJ không có tất cả mọi thứ, dù chú là một người trúng vé số, bởi vì Luna từng thấy nhà của chú PJ, và nó còn lâu mới đẹp bằng nhà của Mark Stackpole. Nhà của chú PJ chỉ là một ngôi nhà bình thường có đặt một chiếc bạt nhún.
+PJ không có tất cả mọi thứ, dù chú là một người trúng vé số, bởi vì Luna từng thấy nhà của ông PJ, và nó còn lâu mới đẹp bằng nhà của Mark Stackpole. Nhà của ông PJ chỉ là một ngôi nhà bình thường có đặt một chiếc bạt nhún.
 
 Có những thông tin hay khác trong tạp chí, không chỉ có những bức ảnh về căn biệt thự. Mark đã kết hôn với một người phụ nữ tên là Christine, một cựu hoa hậu. Ngày lễ yêu thích của Christine là Ngày Valentine, và cô yêu các con của mình hơn cả sinh mạng, cô đã nói trong bài phỏng vấn. Vợ chồng Stackpole vừa sinh đứa con thứ năm. Họ đặt tên cho đứa bé là Sassafras, một cái tên nghe không giống tên thật đối với Luna. Có bức ảnh của em bé và thậm chí còn có nhiều bức ảnh hơn về ngôi nhà sáu phòng ngủ. Nó có hai lò sưởi. Mẹ của Luna từng thèm thuồng cuốn tạp chí ấy, ước gì cô có được những thứ đó, giá như mọi chuyện khác đi. Một người đàn ông yêu cô, và hai cái ống khói. Luna luôn đồng ý với mẹ về điều đó: cuộc sống của họ hẳn đã tốt hơn rất nhiều nếu mọi thứ khác đi.
 
@@ -80,7 +80,7 @@ Sophie tự hỏi tại sao Luna lại không đưa cho cô viên vitamin nào v
 
 Nhưng PJ đã chìm vào giấc ngủ không lâu sau khi John Prine hát xong, bỗng nhiên buồn ngủ trầm trọng, mà chẳng hề hay biết rằng mình đã bị chuốc thuốc bởi một đứa trẻ mười tuổi với tổ hợp ba thành phần gồm melatonin, L-theanine và hoa cúc la mã, thế nên Sophie lại bật nhạc của Björk lên.
 
-“Chú PJ nói đúng đấy,” Ollie lên tiếng. “Sao chị lại nghe thể loại này cơ chứ?”
+“Ông PJ nói đúng đấy,” Ollie lên tiếng. “Sao chị lại nghe thể loại này cơ chứ?”
 
 “Lo nhìn cái iPad của em đi,” Sophie bảo Ollie.
 

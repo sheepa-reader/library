@@ -6,7 +6,7 @@
 
 “Chú mèo á?” Sophie vừa hỏi vừa dụi mắt. “Pancakes chạy mất à?”
 
-“Không, chú PJ cơ mà! Ông bố ngốc nghếch của chị ấy kìa! Làm sao mà chú ấy mở được còng tay thế?”
+“Không, ông PJ cơ mà! Ông bố ngốc nghếch của chị ấy kìa! Làm sao mà ông ấy mở được còng tay thế?”
 
 Ollie nhún vai. “Chắc là phép thuật thôi,” cậu bé nói.
 
@@ -48,7 +48,7 @@ Destiny chúc cô gặp nhiều may mắn.
 
 Luna và Ollie đã ngồi sẵn trên xe, Luna ôm khư khư chú mèo trong lòng với bộ dạng sẵn sàng ăn tươi nuốt sống bất kỳ ai. Họ sắp đến muộn buổi gặp gỡ giao lưu mất rồi. Cô bé vốn định là người đứng đầu tiên trong hàng để gặp Mark Stackpole, anh ta thể nào cũng sẽ nhận ra cô bé ngay lập tức rồi ôm chầm lấy cô bé trước mặt tất cả mọi người.
 
-Ollie ngồi phị mặt đầy đắc ý trên ghế, hai tay đan vào nhau. Mọi chuyện xuôi chèo mát mái cả rồi. Bọn họ sẽ chẳng bao giờ đến được buổi gặp gỡ đó đâu, họ sẽ ở lại với Sophie và chú PJ. Bọn họ sẽ tìm ra chú PJ thôi, Ollie chẳng lo lắng gì sất. Cho đến nay thì lần nào bọn họ chẳng tìm thấy ông. Ollie hạ cửa sổ xe xuống vì cậu bé biết chị gái mình rất ghét gió thốc vào mặt. Cậu bé rất yêu quý chị mình và muốn chị được hạnh phúc chứ không phải chìm trong trầm cảm, nhưng đồng thời cậu bé cũng sắp biến ngày hôm nay của chị thành một cơn ác mộng thực sự. Chị muốn cậu bé phải sống trong một cái tủ quần áo cơ mà. Cậu bé phải trừng phạt chị chứ, bởi chị muốn cậu bé trở thành đứa trẻ duy nhất trong gia đình không được ai yêu thương, kẻ duy nhất chẳng thuộc về bất kỳ ai. Giờ thì cậu bé cũng chẳng thuộc về ai thật, chẳng thực sự là của ai cả, nhưng ở nhà chú PJ thì cậu bé có một cái bạt nhún lò xo. Chiếc bạt nhún lò xo đó là của riêng cậu bé.
+Ollie ngồi phị mặt đầy đắc ý trên ghế, hai tay đan vào nhau. Mọi chuyện xuôi chèo mát mái cả rồi. Bọn họ sẽ chẳng bao giờ đến được buổi gặp gỡ đó đâu, họ sẽ ở lại với Sophie và ông PJ. Bọn họ sẽ tìm ra ông PJ thôi, Ollie chẳng lo lắng gì sất. Cho đến nay thì lần nào bọn họ chẳng tìm thấy ông. Ollie hạ cửa sổ xe xuống vì cậu bé biết chị gái mình rất ghét gió thốc vào mặt. Cậu bé rất yêu quý chị mình và muốn chị được hạnh phúc chứ không phải chìm trong trầm cảm, nhưng đồng thời cậu bé cũng sắp biến ngày hôm nay của chị thành một cơn ác mộng thực sự. Chị muốn cậu bé phải sống trong một cái tủ quần áo cơ mà. Cậu bé phải trừng phạt chị chứ, bởi chị muốn cậu bé trở thành đứa trẻ duy nhất trong gia đình không được ai yêu thương, kẻ duy nhất chẳng thuộc về bất kỳ ai. Giờ thì cậu bé cũng chẳng thuộc về ai thật, chẳng thực sự là của ai cả, nhưng ở nhà ông PJ thì cậu bé có một cái bạt nhún lò xo. Chiếc bạt nhún lò xo đó là của riêng cậu bé.
 
 Chín dặm sau, Sophie, lũ trẻ và chú mèo phóng xe đến Quán rượu The Half-Moon. Họ chẳng thấy ai đi bộ trên đường, và bãi đỗ xe thì trống hoắc. Tấm bảng hiệu đèn neon Pabst Blue Ribbon không sáng đèn. Luna và Sophie bước xuống xe, nhưng Ollie vẫn ngồi nguyên trên ghế với dây an toàn thắt chặt. Cậu bé bật chiếc iPad lên như thể chẳng có chuyện khẩn cấp nào đang diễn ra, điều đó làm Luna thực sự nổi cáu.
 
@@ -62,7 +62,7 @@ Luna dậm chân thình thịch vì tức giận. “Chúng ta phải đi ngay l
 
 “Chị biết em không ngu.”
 
-“Và em cũng chẳng xấu tính nữa. Mọi người ở trường đều nghĩ em xấu tính, nhưng em không phải vậy, và sẽ rất tệ bạc nếu bỏ lại chú PJ ở đây, cho dù chú ấy luôn làm mọi chuyện rối tung lên.”
+“Và em cũng chẳng xấu tính nữa. Mọi người ở trường đều nghĩ em xấu tính, nhưng em không phải vậy, và sẽ rất tệ bạc nếu bỏ lại ông PJ ở đây, cho dù ông ấy luôn làm mọi chuyện rối tung lên.”
 
 “Chị biết em không xấu tính.”
 
@@ -96,7 +96,7 @@ Luna đã mở tung cửa xe, lao đầu chạy thục mạng về phía khu r�
 
 “Ôi Chúa ơi!” Sophie tháo dây an toàn và đẩy cửa bước xuống. “Chú ấy nhảy ra khỏi xe á? Chuyện quái gì thế này?”
 
-“Chú ấy muốn tự tử vì không có chú PJ,” Ollie nói. “Em phá hỏng mọi chuyện mất rồi.”
+“Nó muốn tự tử vì không có ông PJ,” Ollie nói. “Em phá hỏng mọi chuyện mất rồi.”
 
 Chú mèo này lúc nào cũng nhảy qua cửa sổ. Chú mèo này lúc nào cũng tìm cách trốn thoát. Nhưng trước đây chú chưa từng nhảy ra khỏi một chiếc ô tô đang chuyển động bao giờ. Đây là lần đầu tiên. Thật may mắn làm sao, đoạn đường nông thôn này chẳng có chiếc xe nào khác qua lại. “Chúng ta sẽ tìm thấy chú ấy thôi,” Sophie bảo Ollie. Ollie đang sụt sùi khóc. “Nhìn kìa, Ollie. Chú ấy không sao đâu,” Sophie vừa nói vừa chỉ tay về phía trước. “Nhìn kìa, chú ấy ở ngay dưới kia kìa. Luna đã tóm được chú ấy rồi.”
 
@@ -114,7 +114,7 @@ Và ông đang nằm ở đó, ẩn khuất sau một bụi cây. Chân mất t�
 
 Thực ra đó không phải là một vụ tông xe rồi bỏ chạy, nhưng Sophie không thể nào biết được điều đó. Chỉ một tiếng trước, một chiếc xe cứu thương và một chiếc xe cẩu đã có mặt ở đoạn đường đó để giải quyết chiếc Dodge Challenger cùng người đàn ông đã tử vong mặc chiếc áo đấu của đội Longhorns, người có tên là Wade Fletcher. Họ đã nhìn thấy vết máu trên nắp ca-pô và kính chắn gió, nhưng họ đinh ninh rằng Wade đã tông phải một con hươu, và con hươu đã khập khiễng bỏ chạy vào trong rừng. Lái xe cẩu từng tông phải một con nai sừng tấm một lần, và anh ta thề rằng con nai sừng tấm đó đi mất mà không có một vết xước nào trên người. Họ đã mặc định rằng chỉ có một con hươu mới có thể để lại vết lõm lớn cỡ đó trên nắp ca-pô chiếc Dodge Challenger, còn thân hình của PJ thì bị lùm cây che khuất. Họ đã không nhìn thấy chiếc dép Birkenstock đơn độc nằm trong bụi độc diệp. Họ đã không ngửi thấy mùi của ông, cách mà chú mèo đã ngửi thấy. Thật dễ dàng để chú mèo bắt được một luồng mùi khi đi ngang qua ông với cửa sổ xe mở tung của Ollie. Giữa cái nóng của buổi sáng tháng Sáu ở Texas, PJ đã bốc mùi từ lâu.
 
-“Chú PJ, cháu rất mừng vì chú còn sống,” Ollie nói. “Chúng cháu đã lo lắng lắm.”
+“Ông PJ, cháu rất mừng vì ông còn sống,” Ollie nói. “Chúng cháu đã lo lắng lắm.”
 
 “Cháu không định bỏ mặc ông đâu,” Luna nói. “Dù ông đang phá hủy cơ hội hạnh phúc của cháu, cháu cũng không định bỏ mặc ông đâu.” Cả hai đứa trẻ lúc này đều đang ôm chầm lấy ông.
 

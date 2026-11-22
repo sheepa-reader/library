@@ -18,7 +18,7 @@ PJ quay lại xe để lấy đồ đạc và đưa Ollie vào, trong khi Sophie
 
 Ngay khi mang hành lý lên phòng, PJ liền kéo chiếc sofa giường ra rồi nằm phịch xuống định thử một chút, nhưng chỉ vài giây sau đã ngáy khò khò, vẫn nguyên quần áo, dép xăng đan và đội cả mũ bóng chày trên đầu.
 
-“Chú PJ không đánh răng trước khi đi ngủ kìa,” Ollie chỉ điểm. “Chú ấy sẽ bị sâu răng mất thôi.”
+“Ông PJ không đánh răng trước khi đi ngủ kìa,” Ollie chỉ điểm. “Ông ấy sẽ bị sâu răng mất thôi.”
 
 “Tầm tuổi bố thì chắc chẳng quan trọng nữa đâu,” Sophie vừa nói vừa đắp chăn lên người bố. “Đằng nào thì chẳng mấy chốc nữa cũng phải lắp hàm giả.”
 
@@ -30,7 +30,7 @@ Ngay khi mang hành lý lên phòng, PJ liền kéo chiếc sofa giường ra r�
 
 Ollie cau mày lườm nguýt.
 
-“Hay mình còng tay chú PJ vào giường đi, để tối nay chú ấy không đi lang thang nữa,” Luna đề xuất. “Ngày mai chúng ta còn phải lên đường để kịp buổi giao lưu nữa chứ.”
+“Hay mình còng tay ông PJ vào giường đi, để tối nay ông ấy không đi lang thang nữa,” Luna đề xuất. “Ngày mai chúng ta còn phải lên đường để kịp buổi giao lưu nữa chứ.”
 
 “Lấy gì mà còng?” Sophie hỏi. Bản thân cô cũng chẳng phản đối ý tưởng này lắm.
 
@@ -38,7 +38,7 @@ Ollie cau mày lườm nguýt.
 
 “Lạy Chúa, Luna, em phải bỏ cái thói ăn cắp này đi thôi. Nhất là lại đi ăn cắp của cảnh sát.”
 
-“Chú ấy có để ý đâu,” Luna trấn an. Cô bé khóa một đầu vào cổ tay chú PJ và đầu kia vào thanh sắt của chiếc sofa kéo. “Xong,” cô bé nói. “Hoàn hảo.” Cô bé nhét chiếc chìa khóa bạc nhỏ xíu vào ngăn kéo nhà nghỉ ngay cạnh cuốn Kinh thánh, rồi leo lên giường. “Kể chuyện cho bọn em nghe đi,” cô bé nài nỉ Sophie. “Em không ngủ được nếu không có chuyện để nghe đâu.”
+“Ông ấy có để ý đâu,” Luna trấn an. Cô bé khóa một đầu vào cổ tay ông PJ và đầu kia vào thanh sắt của chiếc sofa kéo. “Xong,” cô bé nói. “Hoàn hảo.” Cô bé nhét chiếc chìa khóa bạc nhỏ xíu vào ngăn kéo nhà nghỉ ngay cạnh cuốn Kinh thánh, rồi leo lên giường. “Kể chuyện cho bọn em nghe đi,” cô bé nài nỉ Sophie. “Em không ngủ được nếu không có chuyện để nghe đâu.”
 
 “Bố chị mới là người giỏi kể chuyện cơ mà. Hay để chị đọc cho hai đứa nghe một cuốn sách nhé? Cách sinh tồn trong rừng sâu thì sao?”
 
@@ -138,7 +138,7 @@ Cảm giác nghẹn đắng dâng lên cổ họng Sophie. Kỳ vọng của cô
 
 Mẹ kiếp, Sophie thầm nghĩ. Sống vì bố của mình quả là một sai lầm chết người, dù đó là bố ruột hay là người đàn ông mà thỉnh thoảng cô bé vẫn tự huyễn hoặc là bố mình. Sophie đã từng phải chịu quá nhiều thất vọng từ những bóng hình người cha trong đời. Vị giáo sư đại học từng cưỡng hôn cô trong phòng làm việc rồi hỏi xem cô có thể kín đáo về mối quan hệ mập mờ ấy không. Alan Diamond vì dám chết đi khi cô vẫn cần ông giúp mình định hướng cuộc đời. Thậm chí cả Fred, người cứ cằn nhằn mãi chuyện cô khiến mẹ lo lắng quá mức. Chẳng phải bố mẹ sinh ra là để lo cho con cái hay sao?
 
-“Đó là hai câu chuyện về hỏa hoạn trong cùng một ngày đấy nhé,” Ollie chỉ ra. “Vụ cháy ở chỗ làm của chị, và vụ do ông nội bọn em châm lửa đốt ở nhà mẹ của chú PJ.”
+“Đó là hai câu chuyện về hỏa hoạn trong cùng một ngày đấy nhé,” Ollie chỉ ra. “Vụ cháy ở chỗ làm của chị, và vụ do ông ngoại bọn em châm lửa đốt ở nhà mẹ của ông PJ.”
 
 “Ờ,” Sophie nói. Hôm nay quả là một ngày dài đằng đẵng. “Em nói đúng.”
 
@@ -146,7 +146,7 @@ Mẹ kiếp, Sophie thầm nghĩ. Sống vì bố của mình quả là một sa
 
 “Không, chị không biết chuyện đó.”
 
-“Bọn em chưa từng gặp ông nội lính cứu hỏa bao giờ,” Luna nói. “Bọn em chỉ biết ông ngoại thôi. Người đã bắn chú PJ và châm lửa đốt nhà ấy.”
+“Bọn em chưa từng gặp ông nội lính cứu hỏa bao giờ,” Luna nói. “Bọn em chỉ biết ông ngoại thôi. Người đã bắn ông PJ và châm lửa đốt nhà ấy.”
 
 “Ra vậy.”
 
@@ -208,9 +208,9 @@ Luna nhìn cô. Cô bé thực sự cảm nhận được sự ái ngại từ S
 
 “Chuẩn luôn,” Luna nói. “Và tụi mình sắp được gặp Mark Stackpole rồi. Cả biệt thự của anh ta, vợ anh ta là cô Christine, em bé Sassafras cùng tất cả những đứa trẻ khác nữa.”
 
-Sophie hít một hơi thật sâu. “Các em còn có cả chị nữa,” cô nói. “Các em có chị, và cũng có cả chú PJ nữa. Tụi chị sẽ cố gắng giúp đỡ các em bằng bất cứ cách nào có thể. Bố chị không hoàn hảo, nhưng bố thực sự quan tâm đến các em.”
+Sophie hít một hơi thật sâu. “Các em còn có cả chị nữa,” cô nói. “Các em có chị, và cũng có cả ông PJ nữa. Tụi chị sẽ cố gắng giúp đỡ các em bằng bất cứ cách nào có thể. Bố chị không hoàn hảo, nhưng bố thực sự quan tâm đến các em.”
 
-Luna gợi ý: “Chị có thể đến thăm bọn em ở biệt thự nhé. Chị đến lúc nào cũng được. Chú PJ có thể dẫn theo Michelle Cobb. Cả Pancakes nữa, hiển nhiên rồi.”
+Luna gợi ý: “Chị có thể đến thăm bọn em ở biệt thự nhé. Chị đến lúc nào cũng được. Ông PJ có thể dẫn theo Michelle Cobb. Cả Pancakes nữa, hiển nhiên rồi.”
 
 Sophie buộc phải nói điều gì đó. Luna và bố cô có thể đều đang ảo tưởng về chuyến đi này, nó có thể suôn sẻ với một trong hai người, nhưng khả năng cao là chẳng suôn sẻ cho cả hai, hoặc thậm chí chẳng thành công với bất cứ ai. Sophie đã chứng kiến quá nhiều thứ đổ vỡ trước đây rồi. “Luna, trước ngày mai, chị phải nói với em chuyện này. Nếu chị đưa em đi gặp Mark Stackpole, chị phải nói điều này trước đã.”
 
@@ -242,7 +242,7 @@ Sophie thừa nhận rằng nếu không có vòng tay che đậy, lũ trẻ s�
 
 “Pancakes đâu rồi ạ?” Luna hỏi.
 
-“Chú mèo đang rúc dưới chăn với chú PJ,” Ollie đáp, bởi vì cậu bé thề là mình đã nhìn thấy một khối phình hình con mèo nằm dưới lớp chăn lúc Luna đang còng tay ông chú họ của chúng vào giường.
+“Chú mèo đang rúc dưới chăn với ông PJ,” Ollie đáp, bởi vì cậu bé thề là mình đã nhìn thấy một khối phình hình con mèo nằm dưới lớp chăn lúc Luna đang còng tay ông chú họ của chúng vào giường.
 
 “Vâng ạ,” Luna nói với vẻ hụt hẫng vì chú mèo sẽ không ngủ cùng mình. “À này, chị Sophie?”
 

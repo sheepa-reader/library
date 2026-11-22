@@ -96,7 +96,7 @@ PJ biết chắc chắn vào thứ Hai đó ông chẳng bận gì sất, chẳn
 
 “Ồ,” Belinda Bell nói. “Để tôi sửa lại chỗ đó.” Cô ấy cũng cần một địa chỉ email. PJ không có máy tính, nhưng ông có địa chỉ email của riêng mình. Con gái Sophie đã lập cho ông phòng khi ông muốn xin việc làm. Belinda nói cô ấy sẽ gửi toàn bộ giấy tờ ban đầu qua email ngay lập tức. Một danh sách những thứ bọn trẻ cần để PJ có thể vượt qua buổi kiểm tra nhà cửa. Để chứng minh PJ có thể mang lại một mái ấm tử tế cho trẻ em.
 
-Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu nội của anh trai tôi, lạy Chúa quỷ tha ma bắt,” ông lẩm bẩm. Ông chưa bao giờ nghĩ đến chuyện anh trai mình lại có cháu nội. Ông vẫn luôn cố gắng không bao giờ nghĩ về người anh trai đó.
+Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu ngoại của anh trai tôi, lạy Chúa quỷ tha ma bắt,” ông lẩm bẩm. Ông chưa bao giờ nghĩ đến chuyện anh trai mình lại có cháu ngoại. Ông vẫn luôn cố gắng không bao giờ nghĩ về người anh trai đó.
 
 Chú mèo nhìn ông.
 

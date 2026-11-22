@@ -9,7 +9,7 @@
 <p class="para-vi-sub">Ollie nói: “Đã chín giờ sáng rồi.” Chúng chưa bao giờ được phép đánh thức bố mẹ trước chín giờ vào dịp cuối tuần hay kỳ nghỉ. Hôm nay là thứ Sáu, nên không phải cuối tuần, nhưng tính ra cũng hơi giống một kỳ nghỉ.</p>
 
 <p class="para-en">“And Uncle PJ’s gone,” Luna added.</p>
-<p class="para-vi-sub">Luna nói thêm: “Và chú PJ đi mất rồi.”</p>
+<p class="para-vi-sub">Luna nói thêm: “Và ông PJ đi mất rồi.”</p>
 
 <p class="para-en">“What?”</p>
 <p class="para-vi-sub">“Cái gì?”</p>

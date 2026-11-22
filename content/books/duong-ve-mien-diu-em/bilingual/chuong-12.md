@@ -144,7 +144,7 @@
 <p class="para-vi-sub">“Ồ,” Belinda Bell nói. “Để tôi sửa lại chỗ đó.” Cô ấy cũng cần một địa chỉ email. PJ không có máy tính, nhưng ông có địa chỉ email của riêng mình. Con gái Sophie đã lập cho ông phòng khi ông muốn xin việc làm. Belinda nói cô ấy sẽ gửi toàn bộ giấy tờ ban đầu qua email ngay lập tức. Một danh sách những thứ bọn trẻ cần để PJ có thể vượt qua buổi kiểm tra nhà cửa. Để chứng minh PJ có thể mang lại một mái ấm tử tế cho trẻ em.</p>
 
 <p class="para-en">When PJ Halliday hung up, he was shaking. “My brother’s grandkids, holy shit,” he said. It had not occurred to him that his brother had grandkids. He tried to never think about his brother.</p>
-<p class="para-vi-sub">Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu nội của anh trai tôi, lạy Chúa quỷ tha ma bắt,” ông lẩm bẩm. Ông chưa bao giờ nghĩ đến chuyện anh trai mình lại có cháu nội. Ông vẫn luôn cố gắng không bao giờ nghĩ về người anh trai đó.</p>
+<p class="para-vi-sub">Khi PJ Halliday cúp máy, tay ông đang run lẩy bẩy. “Cháu ngoại của anh trai tôi, lạy Chúa quỷ tha ma bắt,” ông lẩm bẩm. Ông chưa bao giờ nghĩ đến chuyện anh trai mình lại có cháu ngoại. Ông vẫn luôn cố gắng không bao giờ nghĩ về người anh trai đó.</p>
 
 <p class="para-en">The cat looked at him.</p>
 <p class="para-vi-sub">Chú mèo nhìn ông.</p>

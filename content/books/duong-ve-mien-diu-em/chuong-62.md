@@ -36,7 +36,7 @@ Michelle bảo không sao cả, họ hầu như tuần nào cũng chứng kiến
 
 Ollie định mở lời giải thích rằng PJ thực chất chỉ là chú của tụi nhóc, còn ông nội ruột và bố mẹ tụi nhóc đều đã qua đời cả rồi, rằng giờ tất cả bọn họ đều đã chui xuống đất làm mồi cho giun cả rồi, nhưng Luna đã kịp đưa tay bịt miệng em trai mình lại.
 
-“Chú PJ đã kể cho chúng cháu nghe tất cả về bà đấy ạ,” cô bé nói.
+“Ông PJ đã kể cho chúng cháu nghe tất cả về bà đấy ạ,” cô bé nói.
 
 “Toàn những điều tốt đẹp, hy vọng là thế!” Michelle nói.
 
@@ -90,7 +90,7 @@ Michelle thở dài. “Bố em đã kiên quyết rằng mẹ của anh không 
 
 PJ đáp: “Anh nhớ chứ.”
 
-Ollie nói: “Chú PJ đã kể cho chúng cháu nghe câu chuyện đó.”
+Ollie nói: “Ông PJ đã kể cho chúng cháu nghe câu chuyện đó.”
 
 Luna hỏi: “Vậy hóa ra là thật sao?”
 
@@ -98,7 +98,7 @@ PJ nhún vai. Họ muốn tin thế nào thì tùy.
 
 Michelle nói: “Sau đêm đó, em về nhà và kể cho mẹ nghe về hai chàng trai mà em đã gặp ở buổi tiệc giao lưu, rằng mọi chuyện giữa em và Ricky đã chấm dứt, và chuyện anh ta đang phải duy trì sự sống bằng máy thở trong bệnh viện.”
 
-Ollie nói: “Ricky vẫn đang trong tình trạng hôn mê. Thỉnh thoảng chú PJ lại vào chải râu cho chú ấy.”
+Ollie nói: “Ricky vẫn đang trong tình trạng hôn mê. Thỉnh thoảng ông PJ lại vào chải râu cho chú ấy.”
 
 Michelle thốt lên: “Ồ,” và trông bà có vẻ bối rối.
 

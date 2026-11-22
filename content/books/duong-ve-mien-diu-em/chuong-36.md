@@ -2,7 +2,7 @@
 
 # Chương 27
 
-Họ đã quay trở lại chiếc Volvo Chuồng Chim cùng với một chồng áo len lông alpaca mới mặc vào thì nóng quá mức, và Luna quyết định mình nên hỏi Sophie và chú PJ một vài câu. Cô bé có vài điều cần phải làm cho ra nhẽ trước khi đến Texas và gặp Mark Stackpole. “Chúa có yêu tất cả mọi người không ạ?” cô bé hỏi. “Hay Ngài chỉ yêu một số người thôi?”
+Họ đã quay trở lại chiếc Volvo Chuồng Chim cùng với một chồng áo len lông alpaca mới mặc vào thì nóng quá mức, và Luna quyết định mình nên hỏi Sophie và ông PJ một vài câu. Cô bé có vài điều cần phải làm cho ra nhẽ trước khi đến Texas và gặp Mark Stackpole. “Chúa có yêu tất cả mọi người không ạ?” cô bé hỏi. “Hay Ngài chỉ yêu một số người thôi?”
 
 Có một khoảng lặng dài trong chiếc Volvo, và Sophie chờ bố trả lời, nhưng ông không nói gì. Ông đang bận đọc cuốn sách hướng dẫn cách sinh tồn trong rừng.
 
@@ -34,7 +34,7 @@ Trái tim Sophie lỡ mất một nhịp. Cô vẫn thấy mình vừa suýt tho
 
 “Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Ông thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”
 
-“Thế chú PJ tin vào điều gì ạ?” Ollie hỏi.
+“Thế ông PJ tin vào điều gì ạ?” Ollie hỏi.
 
 PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà ông nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”
 

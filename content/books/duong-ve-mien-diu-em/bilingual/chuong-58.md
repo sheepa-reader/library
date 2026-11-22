@@ -21,7 +21,7 @@
 <p class="para-vi-sub">“Sao bố không thể bình thường lấy một lần được hả?” Sophie hỏi.</p>
 
 <p class="para-en">“Because he’s our Uncle PJ,” Luna said. “He’s a wacko. And he’s loved Michelle Cobb for a million years. It’s a beautiful love story. Better than a thousand greeting cards, no offense.”</p>
-<p class="para-vi-sub">“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và chú ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”</p>
+<p class="para-vi-sub">“Vì ông ấy là ông PJ của bọn em mà,” Luna nói. “Ông ấy đúng là một ông dở hơi. Và ông ấy đã yêu Michelle Cobb từ đời tám hoánh nào rồi. Đó là một câu chuyện tình đẹp tuyệt trần. Đáng giá hơn cả ngàn tấm thiệp chúc mừng, nói thế không có ý xúc phạm đâu nhé.”</p>
 
 <p class="para-en">“None taken.” Sophie never wanted to look at a greeting card ever again.</p>
 <p class="para-vi-sub">“Không sao đâu.” Sophie thề là đời này cô chẳng bao giờ muốn nhìn thấy tấm thiệp chúc mừng nào nữa hết.</p>

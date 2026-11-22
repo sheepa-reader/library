@@ -3,7 +3,7 @@
 # Chương 27
 
 <p class="para-en">They were back in the Bird Barn with a stack of new alpaca wool sweaters that were much too hot to wear, and Luna decided she should ask a few questions to Sophie and Uncle PJ. She had some things to figure out before she got to Texas and met Mark Stackpole. “Does God love everyone?” she asked. “Or does he just love some people?”</p>
-<p class="para-vi-sub">Họ đã quay trở lại chiếc Volvo Chuồng Chim cùng với một chồng áo len lông alpaca mới mặc vào thì nóng quá mức, và Luna quyết định mình nên hỏi Sophie và chú PJ một vài câu. Cô bé có vài điều cần phải làm cho ra nhẽ trước khi đến Texas và gặp Mark Stackpole. “Chúa có yêu tất cả mọi người không ạ?” cô bé hỏi. “Hay Ngài chỉ yêu một số người thôi?”</p>
+<p class="para-vi-sub">Họ đã quay trở lại chiếc Volvo Chuồng Chim cùng với một chồng áo len lông alpaca mới mặc vào thì nóng quá mức, và Luna quyết định mình nên hỏi Sophie và ông PJ một vài câu. Cô bé có vài điều cần phải làm cho ra nhẽ trước khi đến Texas và gặp Mark Stackpole. “Chúa có yêu tất cả mọi người không ạ?” cô bé hỏi. “Hay Ngài chỉ yêu một số người thôi?”</p>
 
 <p class="para-en">There was a long silence in the Volvo, and Sophie waited for her father to answer, but he didn’t. He was busy reading his book about how to survive in the woods.</p>
 <p class="para-vi-sub">Có một khoảng lặng dài trong chiếc Volvo, và Sophie chờ bố trả lời, nhưng ông không nói gì. Ông đang bận đọc cuốn sách hướng dẫn cách sinh tồn trong rừng.</p>
@@ -51,7 +51,7 @@
 <p class="para-vi-sub">“Địa ngục. Chẳng có lý gì cả. Tại sao những hành động trong quãng đời ngắn ngủi của con người lại quyết định số phận linh hồn họ suốt cõi vĩnh hằng. Nếu cháu sống được tám mươi năm, đó chỉ là một chấm nhỏ xíu so với quy mô của cõi vĩnh hằng. Ông thấy việc chỉ có một cơ hội ngắn ngủi trong khi Chúa lại là đấng bao dung vô hạn là quá mức tàn nhẫn.”</p>
 
 <p class="para-en">“Well, what do you believe in then, Uncle PJ?” Ollie asked.</p>
-<p class="para-vi-sub">“Thế chú PJ tin vào điều gì ạ?” Ollie hỏi.</p>
+<p class="para-vi-sub">“Thế ông PJ tin vào điều gì ạ?” Ollie hỏi.</p>
 
 <p class="para-en">PJ didn’t really know what he believed about the afterlife or God or any of it; it had been hard to believe in a higher power after Kate died, but he also didn’t like to think that Kate’s spirit, that her soul, was gone completely. There had to be some answer for where all that life went. “Well,” PJ said, considering what to tell the kids if there was no hell. Surely not everyone could go to heaven. Surely not everyone deserved a free pass. “Past lives. That’s a theory I think I like. You might come back a better animal than a human, or you might come back a worse one.”</p>
 <p class="para-vi-sub">PJ thực sự không biết mình tin điều gì về thế giới bên kia hay về Chúa hay bất cứ thứ gì trong số đó; thật khó để tin vào một đấng tối cao sau khi Kate qua đời, nhưng ông cũng không thích nghĩ rằng linh hồn của Kate đã biến mất hoàn toàn. Phải có câu trả lời nào đó cho việc toàn bộ sinh khí ấy đã đi về đâu chứ. “À,” PJ vừa nói vừa ngẫm nghĩ xem nên nói gì với lũ trẻ nếu không có địa ngục. Chắc chắn không phải ai cũng có thể lên thiên đường. Chắc chắn không phải ai cũng xứng đáng được miễn vé. “Kiếp trước. Đó là một lý thuyết mà ông nghĩ mình thích. Cháu có thể tái sinh thành một con vật tốt hơn con người, hoặc cũng có thể thành một con tồi tệ hơn.”</p>

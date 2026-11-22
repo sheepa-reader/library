@@ -32,7 +32,7 @@ Và vừa thốt lên câu đó, Sophie chợt nhận ra: Fred đời nào lại
 
 Sophie khựng lại. Cô thực sự tổn thương khi mẹ không hề mời cô đi cùng trong chuyến đi đó. Dĩ nhiên là cô rất muốn đi rồi.
 
-“Chú PJ, chúng cháu không phải cún con,” Ollie từ ghế sau lên tiếng. “Chúng cháu là trẻ con mà.” Giọng cậu bé chẳng hề giận dữ chút nào. Cậu bé nghe có vẻ buồn bã.
+“Ông PJ, chúng cháu không phải cún con,” Ollie từ ghế sau lên tiếng. “Chúng cháu là trẻ con mà.” Giọng cậu bé chẳng hề giận dữ chút nào. Cậu bé nghe có vẻ buồn bã.
 
 “À, ông biết chứ, nhóc con. Ông biết các cháu không phải chó mà.”
 
@@ -48,7 +48,7 @@ Sophie khựng lại. Cô thực sự tổn thương khi mẹ không hề mời 
 
 Sophie bỏ tay khỏi vô lăng rồi đấm mạnh vào tay bố. “Bố có thể không say rượu, nhưng đúng là một tên khốn.” Cô quay ra nhìn hàng ghế sau. Cậu bé không khóc, nhưng lại cuộn tròn người lại thành một cục nhỏ xíu. “Chị xin lỗi nhé, Ollie,” Sophie nói. “Bố chị bị tổn thương não do nhiều năm nghiện rượu nặng. Bố chị không có ý nói thế đâu.”
 
-Ởchiếc ghế sau bên kia, ngay phía sau Sophie, đôi mắt Luna nheo lại. Chú PJ có ý gì đi chăng nữa thì chú ấy vẫn thốt ra những lời đó, và chúng đã làm tổn thương em trai cô bé. Cô bé lục lọi trong túi xách của mình. Cô bé hiểu cảm giác không được mong muốn là thế nào; cô bé lớn hơn Ollie gần trọn một tuổi. Một số đứa trẻ có tất cả mọi thứ, giống như bé Sassafras và con nhỏ ngốc nghếch Elsie Dawson ở trường, còn Luna và Ollie chẳng có gì trong tay. Luna thò tay vào túi xách, lấy ra bộ dụng cụ thủ công mà cô bé mang theo rồi rướn người về phía trước, dùng kéo cắt phăng một nhúm tóc đen nhánh dày cộp của Sophie.
+Ởchiếc ghế sau bên kia, ngay phía sau Sophie, đôi mắt Luna nheo lại. Ông PJ có ý gì đi chăng nữa thì ông ấy vẫn thốt ra những lời đó, và chúng đã làm tổn thương em trai cô bé. Cô bé lục lọi trong túi xách của mình. Cô bé hiểu cảm giác không được mong muốn là thế nào; cô bé lớn hơn Ollie gần trọn một tuổi. Một số đứa trẻ có tất cả mọi thứ, giống như bé Sassafras và con nhỏ ngốc nghếch Elsie Dawson ở trường, còn Luna và Ollie chẳng có gì trong tay. Luna thò tay vào túi xách, lấy ra bộ dụng cụ thủ công mà cô bé mang theo rồi rướn người về phía trước, dùng kéo cắt phăng một nhúm tóc đen nhánh dày cộp của Sophie.
 
 Sophie cảm nhận được sự nhẹ bẫng ở một bên đầu, một cảm giác hụt hẫng bất thường ở nơi mái tóc vừa bị xén mất, và tay cô lập tức đưa lên đầu. “Ôi Chúa ơi!” Sophie thốt lên khi chạm vào phần đuôi tóc bị cắt cụt, ngắn hơn bình thường rất nhiều. “Ôi Chúa ơi! Cái quái gì thế này? Đồ ranh con chết tiệt!”
 

@@ -16,7 +16,7 @@ PJ khựng lại. Ông nghĩ hỏi thế là phạm luật. Bạn của ông là
 
 “Đúng thế đấy,” Sophie nói. “Bố đã bị nhồi máu cơ tim ba lần rồi.”
 
-“Chú PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”
+“Ông PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”
 
 “Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”
 
@@ -42,7 +42,7 @@ Luna đổi sang giọng trầm hơn: “Bác nhớ rất rõ đêm hôm đó, c
 
 “Em trai cháu có được đi cùng không ạ?” Luna hỏi.
 
-Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với chú PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”
+Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với ông PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”
 
 “Vâng,” Luna ngẫm nghĩ. “Em ấy ăn nhiều lắm, lại chẳng phải lúc nào cũng nghe lời chị. Nhưng chị đã hứa là sẽ không bỏ rơi Ollie cơ mà.”
 

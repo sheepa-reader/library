@@ -3,13 +3,13 @@
 # Chương 18
 
 <p class="para-en">After Uncle PJ had closed the door between the rooms, Ollie was snoring nearly immediately, so Luna was left alone in the dark. She got out of the bed they were sharing, because once he’d wet the bed when they went to New Jersey and stayed in a hotel. She moved to the other queen bed, the empty one, where Uncle PJ had been sitting, and she tossed and turned for what felt like a really long time.</p>
-<p class="para-vi-sub">Sau khi chú PJ khép cánh cửa ngăn giữa hai căn phòng, Ollie ngáy khò khè gần như ngay lập tức, bỏ mặc Luna một mình trong bóng tối. Luna bèn bò ra khỏi chiếc giường mà hai chị em đang nằm chung, bởi vì có lần Ollie từng tè dầm khi họ đến New Jersey và ở lại khách sạn. Cô bé chuyển sang chiếc giường đôi còn lại, chiếc giường trống mà chú PJ vừa ngồi lúc nãy, rồi trằn trọc lăn lộn suốt quãng thời gian dài dằng dặc.</p>
+<p class="para-vi-sub">Sau khi ông PJ khép cánh cửa ngăn giữa hai căn phòng, Ollie ngáy khò khè gần như ngay lập tức, bỏ mặc Luna một mình trong bóng tối. Luna bèn bò ra khỏi chiếc giường mà hai chị em đang nằm chung, bởi vì có lần Ollie từng tè dầm khi họ đến New Jersey và ở lại khách sạn. Cô bé chuyển sang chiếc giường đôi còn lại, chiếc giường trống mà ông PJ vừa ngồi lúc nãy, rồi trằn trọc lăn lộn suốt quãng thời gian dài dằng dặc.</p>
 
 <p class="para-en">There was a knock on the door.</p>
 <p class="para-vi-sub">Có tiếng gõ cửa.</p>
 
 <p class="para-en">Luna waited for Uncle PJ to answer it, but he didn’t. It was the adult’s job to answer the door, wasn’t it? Where was he? Where was Sophie?</p>
-<p class="para-vi-sub">Luna đợi chú PJ ra mở cửa, nhưng chú không ra. Mở cửa là việc của người lớn cơ mà, đúng không? Chú ấy đâu rồi? Sophie đâu rồi?</p>
+<p class="para-vi-sub">Luna đợi ông PJ ra mở cửa, nhưng ông không ra. Mở cửa là việc của người lớn cơ mà, đúng không? Ông ấy đâu rồi? Sophie đâu rồi?</p>
 
 <p class="para-en">The person knocked again, louder, so Luna went to the door. She tried looking through the peephole, but she wasn’t tall enough, so she decided just to open the door and see who was on the other side. What was the worst that could happen? she asked herself, as if the answer to that wasn’t a very, very long list of bad things.</p>
 <p class="para-vi-sub">Người bên ngoài lại gõ cửa, lớn tiếng hơn, thế là Luna đành đi ra cửa. Cô bé cố nhìn qua lỗ nhòm gắn trên cánh cửa, nhưng chiều cao lại không với tới, thế là Luna quyết định mở toang cửa ra để xem kẻ nào đang đứng ở bên kia. Chuyện tồi tệ nhất có thể xảy ra là gì chứ? cô bé tự hỏi bản thân, cứ như thể đáp án cho câu hỏi đó không phải là một danh sách dài dằng dặc những điều tồi tệ vậy.</p>

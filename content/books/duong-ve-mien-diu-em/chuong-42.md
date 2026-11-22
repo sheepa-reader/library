@@ -6,7 +6,7 @@ Họ ngồi lặng lẽ trong chiếc Volvo Chuồng Chim ở bãi đậu xe c�
 
 “Được rồi, họ đến rồi đấy, đi thôi,” Luna nói.
 
-Ollie chọc vào người chị gái. “Luna, bạn của chú PJ đã chết rồi đấy. Sống tử tế một chút đi.”
+Ollie chọc vào người chị gái. “Luna, bạn của ông PJ đã chết rồi đấy. Sống tử tế một chút đi.”
 
 “Chị rất tử tế đấy chứ.”
 
