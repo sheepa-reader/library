@@ -1,5 +1,5 @@
 {
-  "enforceAuth": false,
+  "enforceAuth": true,
   "enforceDate": "2026-12-01T00:00:00+07:00",
   "note": "enforceAuth: false = mo tai tu do; true = bat buoc dang nhap va nam trong danh sach emails. Tu dong kich hoat khi den enforceDate.",
   "emails": [
@@ -7,6 +7,7 @@
     "phanminhtrang1906@gmail.com",
     "lcienepe@gmail.com",
 	"congsuattieuthu19@gmail.com",
-	"builebahung78@gmail.com"
+	"builebahung78@gmail.com",
+	"lilo.azonehn@gmail.com",
   ]
 }
