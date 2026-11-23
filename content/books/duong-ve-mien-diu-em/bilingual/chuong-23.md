@@ -90,7 +90,7 @@
 <p class="para-vi-sub">“Cháu sẵn sàng đi rồi ạ,” Luna nói.</p>
 
 <p class="para-en">“Sure thing, kid. Me too. Let’s bust this popsicle stand.”</p>
-<p class="para-vi-sub">“Được chứ, cháu yêu. Chú cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”</p>
+<p class="para-vi-sub">“Được chứ, cháu yêu. Ông cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”</p>
 
 <p class="para-en">And they all began to walk to the front door. Luna was in a cold sweat. She held the purse tightly to her chest as they exited, but no alarm sounded, no one chased after her. Ollie provided a good distraction, asking the woman at the front desk of the museum what the fanciest hotel in Niagara was. The woman recommended the Roger Woodward, a hotel named after a young boy who had survived going over the falls, and not protected by a barrel either. He’d fallen out of a boat and gone over, was mostly fine when they pulled him out, and no one could believe it, but sometimes people survive the impossible without even trying to pull a stunt.</p>
 <p class="para-vi-sub">Và tất cả bắt đầu đi ra cửa trước. Luna đang vã mồ hôi lạnh. Cô bé ôm chặt chiếc túi xách vào ngực lúc bước ra ngoài, nhưng không có tiếng còi báo động nào vang lên, cũng chẳng có ai đuổi theo Luna. Ollie đã đánh lạc hướng rất tốt khi hỏi người phụ nữ ở quầy lễ tân bảo tàng xem khách sạn nào sang trọng nhất ở Niagara. Người phụ nữ giới thiệu Khách sạn Roger Woodward [8] , một khách sạn được đặt theo tên cậu bé từng rơi qua thác nước mà không cần đến thùng phuy bảo vệ. Cậu bé rơi khỏi thuyền và lao xuống thác, nhưng hầu như vẫn bình an vô sự khi được vớt lên, không ai có thể tin nổi điều đó, nhưng đôi khi con người ta vẫn sống sót qua những tai họa không tưởng mà chẳng cần cố gắng làm trò mạo hiểm nào.</p>

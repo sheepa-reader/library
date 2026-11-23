@@ -52,9 +52,9 @@ Tim PJ thắt lại nghẹn ở cổ họng. Ông đã tìm thấy lũ trẻ r�
 
 Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”
 
-“Chú lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”
+“Ông lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”
 
-“Sao chú tìm lâu thế hả?” Ollie thắc mắc. “Bọn cháu ở đây từ đời thuở nào rồi ấy!”
+“Sao ông tìm lâu thế hả?” Ollie thắc mắc. “Bọn cháu ở đây từ đời thuở nào rồi ấy!”
 
 PJ từng nghĩ thật đáng kinh ngạc vì sao ông và Sophie lại tìm thấy bọn trẻ nhanh đến vậy. Bất chấp mọi xác suất, họ thực sự đã tìm thấy chúng. Và thật may mắn làm sao khi ông đã kịp có mặt ở đây trước khi bọn trẻ kịp ra tay với chú mèo. “Ollie, nhóc con, cháu có thể đưa chú mèo vào nơi an toàn được không? Chú ấy chắc đang sợ lắm đấy. Loài mèo không thích ở độ cao cho lắm đâu; chuyện chúng luôn tiếp đất bằng bốn chân hoàn toàn không đúng sự thật đâu, nhất là khi bị ném từ độ cao thế này.”
 
@@ -68,7 +68,7 @@ Nhưng Ollie đã xem đủ phim để hiểu một tình huống bắt cóc di�
 
 “Và cháu muốn chị cháu phải vui lên! Chị ấy lúc nào cũng buồn bã hoặc cáu gắt và cháu muốn chị ấy vui lên cơ!”
 
-“Đó là một yêu cầu khó đấy, nhóc con ạ. Người trong đời cháu không phải lúc nào cũng vui vẻ được đâu. Đôi khi chúng ta sẽ phải đau lòng, hoặc chán nản. Chú nghĩ chị cháu đang rơi vào cả hai trạng thái đó.”
+“Đó là một yêu cầu khó đấy, nhóc con ạ. Người trong đời cháu không phải lúc nào cũng vui vẻ được đâu. Đôi khi chúng ta sẽ phải đau lòng, hoặc chán nản. Ông nghĩ chị cháu đang rơi vào cả hai trạng thái đó.”
 
 “Thế sao không ai cho chị ấy uống thuốc Prozac? Hoặc tìm bác sĩ tâm lý cho chị ấy? Trên tivi người ta toàn làm thế khi có ai đó bị trầm cảm mà.”
 

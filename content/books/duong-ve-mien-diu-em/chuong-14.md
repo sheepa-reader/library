@@ -70,7 +70,7 @@ Luna hỏi dồn: “Em xin lỗi vì điều gì?” Cô bé đang thử thách
 
 “Chốt,” cô bé nói. “Chị sẽ không bao giờ bỏ đi mà không có em nữa.”
 
-“Tốt.” Ollie lau mắt. “Chị có về nhà ông PJ nữa không? Chú ấy không tệ đâu Luna, chú ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”
+“Tốt.” Ollie lau mắt. “Chị có về nhà ông PJ nữa không? Ông ấy không tệ đâu Luna, ông ấy không hề xấu tính hay điên khùng như ông ngoại, em nhận ra điều đó mà. Ông ấy mua cho chúng ta một cái bạt nhún, và cả một máy PlayStation nữa. Cả giường tầng nữa chứ. Hàng mới tinh luôn. Mấy tấm nệm vẫn còn bọc nilon. Không có rệp đâu.” Hồi ở nhà nhận nuôi bên Springfield từng có rệp giường. “Và ông ấy bảo ông ấy yêu quý chúng ta,” Ollie nói dối. “Ông ấy bảo ông ấy đã yêu quý chúng ta rồi.”
 
 “Chắc tối nay chị sẽ ở lại đó,” Luna đành đồng ý. “Chị không thể ở lại đây được,” cô bé nói, đảo mắt nhìn quanh ngôi nhà cũ kỹ vốn trông đã khác xưa rất nhiều. Mốc meo. U ám. Nhưng nơi này chưa bao giờ là một chốn an toàn thực sự, dù là khi ông ngoại còn sống ở đó, hay lúc Frank nổi giận lôi đình hoặc say xỉn, hay khi Elaine gọi điện cho người hàng xóm Michael Hoonhaut và buộc tội ông ấy dòm ngó qua cửa sổ nhà họ, điều mà Luna khá chắc là ông ấy chưa từng làm bao giờ. Đó là một nơi đáng sợ và hỗn độn, nơi mà người ta luôn cảm thấy chuyện gì cũng có thể xảy ra vào bất cứ lúc nào, và khi thức dậy, bạn chẳng thể biết đó sẽ là một ngày tốt lành hay tồi tệ.
 

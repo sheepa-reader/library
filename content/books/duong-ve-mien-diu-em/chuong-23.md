@@ -60,7 +60,7 @@ Nhưng có lẽ rung động của tình yêu là quá sức chịu đựng đ�
 
 “Cháu sẵn sàng đi rồi ạ,” Luna nói.
 
-“Được chứ, cháu yêu. Chú cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”
+“Được chứ, cháu yêu. Ông cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”
 
 Và tất cả bắt đầu đi ra cửa trước. Luna đang vã mồ hôi lạnh. Cô bé ôm chặt chiếc túi xách vào ngực lúc bước ra ngoài, nhưng không có tiếng còi báo động nào vang lên, cũng chẳng có ai đuổi theo Luna. Ollie đã đánh lạc hướng rất tốt khi hỏi người phụ nữ ở quầy lễ tân bảo tàng xem khách sạn nào sang trọng nhất ở Niagara. Người phụ nữ giới thiệu Khách sạn Roger Woodward [8] , một khách sạn được đặt theo tên cậu bé từng rơi qua thác nước mà không cần đến thùng phuy bảo vệ. Cậu bé rơi khỏi thuyền và lao xuống thác, nhưng hầu như vẫn bình an vô sự khi được vớt lên, không ai có thể tin nổi điều đó, nhưng đôi khi con người ta vẫn sống sót qua những tai họa không tưởng mà chẳng cần cố gắng làm trò mạo hiểm nào.
 

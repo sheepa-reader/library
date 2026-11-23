@@ -183,7 +183,7 @@
 <p class="para-vi-sub">“Cẩn thận hai đứa,” Sophie nói. “Đừng ôm ông ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”</p>
 
 <p class="para-en">“Just my head. Just my head hurts.”</p>
-<p class="para-vi-sub">“Chỉ đầu chú thôi. Chỉ có đầu chú đau thôi.”</p>
+<p class="para-vi-sub">“Chỉ có đầu bố bị đau thôi.”</p>
 
 <p class="para-en">“Okay, can you stand up?” Sophie asked. She looked at her phone to see if she could call an ambulance, but she still had no service.</p>
 <p class="para-vi-sub">“Được rồi, bố có đứng lên được không?” Sophie hỏi. Cô nhìn điện thoại của mình xem có gọi được xe cứu thương không, nhưng cô vẫn hoàn toàn mất sóng.</p>

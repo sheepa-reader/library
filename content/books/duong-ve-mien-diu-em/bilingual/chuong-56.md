@@ -78,10 +78,10 @@
 <p class="para-vi-sub">Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”</p>
 
 <p class="para-en">“I’ll always find you!” PJ yelled up. “Now, please put the cat on the ground.”</p>
-<p class="para-vi-sub">“Chú lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”</p>
+<p class="para-vi-sub">“Ông lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”</p>
 
 <p class="para-en">“What took you so long?” Ollie asked. “We’ve been here forever!”</p>
-<p class="para-vi-sub">“Sao chú tìm lâu thế hả?” Ollie thắc mắc. “Bọn cháu ở đây từ đời thuở nào rồi ấy!”</p>
+<p class="para-vi-sub">“Sao ông tìm lâu thế hả?” Ollie thắc mắc. “Bọn cháu ở đây từ đời thuở nào rồi ấy!”</p>
 
 <p class="para-en">PJ had thought it was remarkable how quickly he and Sophie had found the children. Against all odds, they’d found them. And that he was lucky he’d gotten here before they killed the cat. “Ollie, buddy, can you bring the cat over to safety? He must be scared. Cats don’t like heights so much; it’s not true that they land on their feet, not if dropped from so high.”</p>
 <p class="para-vi-sub">PJ từng nghĩ thật đáng kinh ngạc vì sao ông và Sophie lại tìm thấy bọn trẻ nhanh đến vậy. Bất chấp mọi xác suất, họ thực sự đã tìm thấy chúng. Và thật may mắn làm sao khi ông đã kịp có mặt ở đây trước khi bọn trẻ kịp ra tay với chú mèo. “Ollie, nhóc con, cháu có thể đưa chú mèo vào nơi an toàn được không? Chú ấy chắc đang sợ lắm đấy. Loài mèo không thích ở độ cao cho lắm đâu; chuyện chúng luôn tiếp đất bằng bốn chân hoàn toàn không đúng sự thật đâu, nhất là khi bị ném từ độ cao thế này.”</p>
@@ -102,7 +102,7 @@
 <p class="para-vi-sub">“Và cháu muốn chị cháu phải vui lên! Chị ấy lúc nào cũng buồn bã hoặc cáu gắt và cháu muốn chị ấy vui lên cơ!”</p>
 
 <p class="para-en">“That’s a tough one, buddy. People in your life aren’t always going to be happy. Sometimes we’re going to be heartbroken, or depressed. I think your sister is both those things.”</p>
-<p class="para-vi-sub">“Đó là một yêu cầu khó đấy, nhóc con ạ. Người trong đời cháu không phải lúc nào cũng vui vẻ được đâu. Đôi khi chúng ta sẽ phải đau lòng, hoặc chán nản. Chú nghĩ chị cháu đang rơi vào cả hai trạng thái đó.”</p>
+<p class="para-vi-sub">“Đó là một yêu cầu khó đấy, nhóc con ạ. Người trong đời cháu không phải lúc nào cũng vui vẻ được đâu. Đôi khi chúng ta sẽ phải đau lòng, hoặc chán nản. Ông nghĩ chị cháu đang rơi vào cả hai trạng thái đó.”</p>
 
 <p class="para-en">“So why doesn’t anyone put her on Prozac? Or get her a therapist? That’s what they do on TV when somebody’s depressed.”</p>
 <p class="para-vi-sub">“Thế sao không ai cho chị ấy uống thuốc Prozac? Hoặc tìm bác sĩ tâm lý cho chị ấy? Trên tivi người ta toàn làm thế khi có ai đó bị trầm cảm mà.”</p>

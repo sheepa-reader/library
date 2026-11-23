@@ -34,9 +34,9 @@ Luna ôm Pancakes trong tay và hỏi: “Còn Việt Nam thì sao? Ông từng 
 
 “Thế còn Việt Nam?”
 
-“À, chú ở đó vỏn vẹn ba tuần trước khi bị bắn.”
+“À, ông ở đó vỏn vẹn ba tuần trước khi bị bắn.”
 
-“Chú bị bắn á? Có đau không ạ?”
+“Ông bị bắn á? Có đau không ạ?”
 
 “Đau như cha sinh mẹ đẻ.”
 
@@ -44,11 +44,11 @@ Sophie mắng: “Bố!” dù cô mới chính là người hay văng tục nhi
 
 Ollie hỏi: “Ai bắn ông thế? Kẻ địch à? Ông có bắn trả hắn không?”
 
-“Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”
+“Không. Ông nhìn thẳng vào mắt hắn và bảo rằng ông xin lỗi.”
 
 Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì ông là một người theo chủ nghĩa hòa bình.”
 
-“À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”
+“À, cũng đúng một phần. Và bởi vì kẻ bắn ông chính là anh trai ông.”
 
 Luna ngạc nhiên hỏi: “Gì cơ? Thật ạ?”
 
@@ -68,21 +68,21 @@ PJ gật đầu. Ông thừa nhận lũ trẻ thích nghe kể chuyện, những
 
 “Cậu ta quay lưng bỏ đi.”
 
-“Sao ông ấy lại bắn chú thế ạ?”
+“Sao ông ấy lại bắn ông thế ạ?”
 
-“Chip căm ghét chú suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu chú, đổ lỗi cho chú vì mẹ đã nuôi dưỡng chú sau khi bỏ rơi cậu ta. Chú vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng chú ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả chú và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn chú, cậu ta liền ra tay.”
+“Chip căm ghét ông suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu ông, đổ lỗi cho ông vì mẹ đã nuôi dưỡng ông sau khi bỏ rơi cậu ta. Ông vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng ông ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả ông và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn ông, cậu ta liền ra tay.”
 
 “Họ có tống cổ ông ấy vào tù không ạ?”
 
-“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”
+“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ ông.”
 
 Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả ông nữa chứ!”
 
-“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”
+“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và ông nghĩ mẹ cảm thấy vì cậu ta chưa giết chết ông nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”
 
 Luna nhớ lại câu chuyện đó. Ông nội đã kể cho cô bé nghe rồi. Chuyện ông đã châm lửa đốt trụi một ngôi nhà mà người mẹ ruột vẫn còn đang kẹt bên trong. Chuyện ông chẳng hề cảm thấy hối hận chút nào. Chuyện ông không một chút ăn năn. Ông đã kể câu chuyện đó cho Luna nghe vài lần, ngay sau những giờ tan học. Và rồi ông sẽ bật một bộ phim chiến tranh lên xem, thể loại phim có ngập tràn những màn cháy nổ tưng bừng. Ông cực kỳ mê phim chiến tranh có nhiều cảnh nổ tung trời.
 
-“Mẹ chú trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”
+“Mẹ ông trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”
 
 Sophie hỏi: “Hóa ra đó là kẻ đã gây ra vụ hỏa hoạn ư?” Từ trước đến nay cô vẫn luôn nghe kể đó là người thuê nhà của bà ngoại, một kẻ thuê trọ một căn phòng. Cô đã bị lừa dối suốt cả cuộc đời về nguyên nhân thực sự khiến bà ngoại trở thành nạn nhân của vụ bỏng khủng khiếp ấy.
 
@@ -94,7 +94,7 @@ Luna lẩm bẩm: “Cháu ước gì ông bắn trả lại hắn. Ngay ở că
 
 Ollie hỏi tiếp: “Rồi ông cũng quay lại Pondville sau chiến tranh nữa ạ? Và ông chưa từng rời đi lần nào nữa sao?”
 
-“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”
+“Ông dọn đến ở cùng một chiến hữu. Rồi sau đó ông gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và ông cũng vậy. Ông đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ ông từng bỏ rơi gia đình bà. Ông hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”
 
 Ollie vặn lại: “Nhưng ông đã ly hôn còn gì.”
 
@@ -108,7 +108,7 @@ Ollie chỉ ra điểm bất hợp lý: “Nhưng nếu thế thì ông đã ch�
 
 PJ đáp: “Cháu nói chuẩn đấy. Ông đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”
 
-“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”
+“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời ông.”
 
 “Đúng thế, chính xác là thế đấy Ollie, chuẩn không cần chỉnh.”
 

@@ -51,10 +51,10 @@
 <p class="para-vi-sub">“Thế còn Việt Nam?”</p>
 
 <p class="para-en">“Well, I was only there for three weeks before I was shot.”</p>
-<p class="para-vi-sub">“À, chú ở đó vỏn vẹn ba tuần trước khi bị bắn.”</p>
+<p class="para-vi-sub">“À, ông ở đó vỏn vẹn ba tuần trước khi bị bắn.”</p>
 
 <p class="para-en">“You were shot? Did it hurt?”</p>
-<p class="para-vi-sub">“Chú bị bắn á? Có đau không ạ?”</p>
+<p class="para-vi-sub">“Ông bị bắn á? Có đau không ạ?”</p>
 
 <p class="para-en">“Like a motherfucker.”</p>
 <p class="para-vi-sub">“Đau như cha sinh mẹ đẻ.”</p>
@@ -66,13 +66,13 @@
 <p class="para-vi-sub">Ollie hỏi: “Ai bắn ông thế? Kẻ địch à? Ông có bắn trả hắn không?”</p>
 
 <p class="para-en">“Nope. I looked him in the eye, and I told him I was sorry.”</p>
-<p class="para-vi-sub">“Không. Chú nhìn thẳng vào mắt hắn và bảo rằng chú xin lỗi.”</p>
+<p class="para-vi-sub">“Không. Ông nhìn thẳng vào mắt hắn và bảo rằng ông xin lỗi.”</p>
 
 <p class="para-en">“Oh.” Ollie was disappointed. “Right, because you were a pacifist.”</p>
 <p class="para-vi-sub">Ollie có vẻ cụt hứng: “Ồ. Hóa ra là vậy, vì ông là một người theo chủ nghĩa hòa bình.”</p>
 
 <p class="para-en">“Well, that. And because the man who shot me was my brother.”</p>
-<p class="para-vi-sub">“À, cũng đúng một phần. Và bởi vì kẻ bắn chú chính là anh trai chú.”</p>
+<p class="para-vi-sub">“À, cũng đúng một phần. Và bởi vì kẻ bắn ông chính là anh trai ông.”</p>
 
 <p class="para-en">“What?” Luna asked. “Really?”</p>
 <p class="para-vi-sub">Luna ngạc nhiên hỏi: “Gì cơ? Thật ạ?”</p>
@@ -102,28 +102,28 @@
 <p class="para-vi-sub">“Cậu ta quay lưng bỏ đi.”</p>
 
 <p class="para-en">“Why did he shoot you?”</p>
-<p class="para-vi-sub">“Sao ông ấy lại bắn chú thế ạ?”</p>
+<p class="para-vi-sub">“Sao ông ấy lại bắn ông thế ạ?”</p>
 
 <p class="para-en">“Chip hated me all his life, blamed me for the crap deal he got, blamed me that our mother raised me when she’d left him. I always thought my mother never should have come back to Pondville after she’d left the first time, that she should have raised me someplace else, but she’d wanted to try to be in Chip’s life. But Chip was too angry by then, mad at her for leaving. And that anger would only grow with age, morph into putrid hatred. So, when Chip and I both ended up in Vietnam at the same time, in the same camp, and he saw the chance to shoot me, he took it.”</p>
-<p class="para-vi-sub">“Chip căm ghét chú suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu chú, đổ lỗi cho chú vì mẹ đã nuôi dưỡng chú sau khi bỏ rơi cậu ta. Chú vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng chú ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả chú và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn chú, cậu ta liền ra tay.”</p>
+<p class="para-vi-sub">“Chip căm ghét ông suốt cả cuộc đời, trút mọi bất công cuộc đời lên đầu ông, đổ lỗi cho ông vì mẹ đã nuôi dưỡng ông sau khi bỏ rơi cậu ta. Ông vẫn luôn nghĩ lẽ ra mẹ không nên quay lại Pondville sau lần bỏ đi đầu tiên, lẽ ra bà nên nuôi nấng ông ở một nơi nào khác, nhưng bà vẫn muốn tìm cách quay về gắn kết với cuộc đời của Chip. Chỉ có điều, lúc đó Chip đã quá căm phẫn, giận dữ vì bị mẹ bỏ rơi. Và sự giận dữ ấy cứ lớn dần theo năm tháng, biến chất thành lòng thù hận nhơ nhớp. Thế nên, khi cả ông và Chip cùng dạt vào chiến trường Việt Nam vào cùng một thời điểm, ở cùng một trại lính, và cậu ta nhìn thấy cơ hội để bắn ông, cậu ta liền ra tay.”</p>
 
 <p class="para-en">“Did they put him in jail?”</p>
 <p class="para-vi-sub">“Họ có tống cổ ông ấy vào tù không ạ?”</p>
 
 <p class="para-en">“Nah. They dishonorably discharged him, though. He went to a mental hospital, then he went home to live with my mother.”</p>
-<p class="para-vi-sub">“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ chú.”</p>
+<p class="para-vi-sub">“Không. Nhưng họ tước danh dự và trục xuất cậu ta khỏi quân ngũ. Cậu ta vào bệnh viện tâm thần, rồi sau đó về nhà sống chung với mẹ ông.”</p>
 
 <p class="para-en">Ollie leaned forward in his seat, straining against the seatbelt. “With your mother? But he hated her! He shot you!”</p>
 <p class="para-vi-sub">Ollie chồm người lên phía trước, rướn cả người căng đét vào chiếc dây an toàn. “Sống với mẹ ông ấy á? Nhưng ông ấy căm ghét bà cơ mà! Lại còn bắn cả ông nữa chứ!”</p>
 
 <p class="para-en">“She was trying to help him out; his father was dead, he had nowhere to live, and I think she felt that because he hadn’t killed me, it was all right. She was trying to make it up to him, for leaving him behind when she did. But then he burnt down her house.”</p>
-<p class="para-vi-sub">“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và chú nghĩ mẹ cảm thấy vì cậu ta chưa giết chết chú nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”</p>
+<p class="para-vi-sub">“Bà đang cố giúp đỡ cậu ta thôi; cha của cậu ta đã qua đời, cậu ta chẳng có nơi nào để dung thân, và ông nghĩ mẹ cảm thấy vì cậu ta chưa giết chết ông nên mọi chuyện vẫn ổn thỏa. Bà đang cố bù đắp cho cậu ta, vì đã bỏ rơi cậu ta lại phía sau từ thuở trước. Nhưng rồi cậu ta đã thiêu rụi cả ngôi nhà của bà.”</p>
 
 <p class="para-en">Luna remembered the story. Her grandpa had told it to her. How he’d burnt down a house with his mother inside. How he didn’t regret it. How he wasn’t sorry. He had told Luna that story several times, after school. And then he would put on a war movie, one with explosions. He loved war movies with explosions.</p>
 <p class="para-vi-sub">Luna nhớ lại câu chuyện đó. Ông nội đã kể cho cô bé nghe rồi. Chuyện ông đã châm lửa đốt trụi một ngôi nhà mà người mẹ ruột vẫn còn đang kẹt bên trong. Chuyện ông chẳng hề cảm thấy hối hận chút nào. Chuyện ông không một chút ăn năn. Ông đã kể câu chuyện đó cho Luna nghe vài lần, ngay sau những giờ tan học. Và rồi ông sẽ bật một bộ phim chiến tranh lên xem, thể loại phim có ngập tràn những màn cháy nổ tưng bừng. Ông cực kỳ mê phim chiến tranh có nhiều cảnh nổ tung trời.</p>
 
 <p class="para-en">“My mother escaped with third-degree burns all over her body. She was badly disfigured, and in pain for the rest of her life.”</p>
-<p class="para-vi-sub">“Mẹ chú trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”</p>
+<p class="para-vi-sub">“Mẹ ông trốn thoát được với những vết bỏng độ ba chi chít khắp cơ thể. Bà bị biến dạng nặng nề, và phải chịu đựng những cơn đau đớn quằn quại trong suốt quãng đời còn lại.”</p>
 
 <p class="para-en">“That’s who caused the fire?” Sophie asked. She’d always heard it was her grandmother’s tenant, someone renting a room. She had been lied to all her life about why her grandma was a burn victim.</p>
 <p class="para-vi-sub">Sophie hỏi: “Hóa ra đó là kẻ đã gây ra vụ hỏa hoạn ư?” Từ trước đến nay cô vẫn luôn nghe kể đó là người thuê nhà của bà ngoại, một kẻ thuê trọ một căn phòng. Cô đã bị lừa dối suốt cả cuộc đời về nguyên nhân thực sự khiến bà ngoại trở thành nạn nhân của vụ bỏng khủng khiếp ấy.</p>
@@ -141,7 +141,7 @@
 <p class="para-vi-sub">Ollie hỏi tiếp: “Rồi ông cũng quay lại Pondville sau chiến tranh nữa ạ? Và ông chưa từng rời đi lần nào nữa sao?”</p>
 
 <p class="para-en">“Moved in with a buddy of mine. And then I met Ivy, and we got married, and she got a job, and I got one too. And I vowed never to leave my family like my mom had left hers. I understand why my mom did what she did, but I vowed I would never get a divorce. I would never leave my kids.”</p>
-<p class="para-vi-sub">“Chú dọn đến ở cùng một chiến hữu. Rồi sau đó chú gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và chú cũng vậy. Chú đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ chú từng bỏ rơi gia đình bà. Chú hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”</p>
+<p class="para-vi-sub">“Ông dọn đến ở cùng một chiến hữu. Rồi sau đó ông gặp Ivy, hai người kết hôn, cô ấy tìm được một công việc ổn định, và ông cũng vậy. Ông đã thề độc sẽ không bao giờ bỏ rơi gia đình mình như cách mẹ ông từng bỏ rơi gia đình bà. Ông hiểu lý do vì sao mẹ làm những việc bà đã làm, nhưng ông tự hứa với lòng mình sẽ không bao giờ ly hôn. Ông sẽ không bao giờ bỏ rơi các con của mình.”</p>
 
 <p class="para-en">“But you did get a divorce,” Ollie said.</p>
 <p class="para-vi-sub">Ollie vặn lại: “Nhưng ông đã ly hôn còn gì.”</p>
@@ -162,7 +162,7 @@
 <p class="para-vi-sub">PJ đáp: “Cháu nói chuẩn đấy. Ông đã chẳng thể có cơ hội thứ hai bên Michelle Cobb.”</p>
 
 <p class="para-en">“And Michelle Cobb is the best thing that will ever happen to you.”</p>
-<p class="para-vi-sub">“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời chú.”</p>
+<p class="para-vi-sub">“Và Michelle Cobb chính là điều tuyệt vời nhất từng đến với cuộc đời ông.”</p>
 
 <p class="para-en">“Yes, that’s right, Ollie, that’s right.”</p>
 <p class="para-vi-sub">“Đúng thế, chính xác là thế đấy Ollie, chuẩn không cần chỉnh.”</p>

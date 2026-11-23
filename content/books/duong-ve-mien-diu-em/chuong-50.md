@@ -122,7 +122,7 @@ PJ nhắm mắt lại. Phải rồi, hôm nay là ngày ông phải đưa cô b�
 
 “Cẩn thận hai đứa,” Sophie nói. “Đừng ôm ông ấy mạnh quá. Chúng ta không biết có chỗ nào bị gãy không.”
 
-“Chỉ đầu chú thôi. Chỉ có đầu chú đau thôi.”
+“Chỉ có đầu bố bị đau thôi.”
 
 “Được rồi, bố có đứng lên được không?” Sophie hỏi. Cô nhìn điện thoại của mình xem có gọi được xe cứu thương không, nhưng cô vẫn hoàn toàn mất sóng.
 

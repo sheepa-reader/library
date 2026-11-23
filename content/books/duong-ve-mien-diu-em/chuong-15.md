@@ -26,13 +26,13 @@ Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Ở Tucson có gì ạ?”
 
-“Bạn gái thời trung học của chú. Cô ấy lại đang độc thân. Vừa mới trở thành góa phụ. Chú đã gặp lại cô ấy sau bốn mươi lăm năm đâu.”
+“Bạn gái thời trung học của ông. Cô ấy lại đang độc thân. Vừa mới trở thành góa phụ. Ông đã gặp lại cô ấy sau bốn mươi lăm năm đâu.”
 
-“Chú thực sự yêu cô ấy đến thế cơ à?”
+“Ông thực sự yêu cô ấy đến thế cơ à?”
 
-“Chú không biết mình có còn yêu không nữa. Nhưng cứ thử một phen xem sao.”
+“Ông không biết mình có còn yêu không nữa. Nhưng cứ thử một phen xem sao.”
 
-“Chú định lái xe từng ấy quãng đường chỉ để thử một phen á?”
+“Ông định lái xe từng ấy quãng đường chỉ để thử một phen á?”
 
 “Ừ.”
 
@@ -42,7 +42,7 @@ Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Ông từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.
 
-Ông lắc đầu. “Chú đi lính trong chiến tranh.”
+Ông lắc đầu. “Ông đi lính trong chiến tranh.”
 
 “Chiến tranh thế giới thứ nhất hay thứ hai ạ?”
 
@@ -52,7 +52,7 @@ Luna ngồi bật dậy. “Ông nghĩ vậy thật ạ?” cô bé hỏi.
 
 “Một trăm,” Ollie tiếp lời.
 
-“Chú sáu mươi ba tuổi, và chú từng tham gia chiến tranh ở Việt Nam, đó là một cuộc chiến khủng khiếp, rồi chú trở về Pondville, nhận việc làm bưu tá, có vợ con cùng bao trách nhiệm đè nặng trên vai và chẳng bao giờ rời đi từ dạo ấy. Thế nên, chú nghĩ mình nợ bản thân một chuyến phiêu lưu lớn để đời. Chú muốn được nhìn ngắm đất nước này.”
+“Ông sáu mươi ba tuổi, và ông từng tham gia chiến tranh ở Việt Nam, đó là một cuộc chiến khủng khiếp, rồi ông trở về Pondville, nhận việc làm bưu tá, có vợ con cùng bao trách nhiệm đè nặng trên vai và chẳng bao giờ rời đi từ dạo ấy. Thế nên, ông nghĩ mình nợ bản thân một chuyến phiêu lưu lớn để đời. Ông muốn được nhìn ngắm đất nước này.”
 
 “Bọn cháu từng đến New Jersey rồi,” Ollie góp chuyện. “Đó là nơi bố bọn cháu sinh ra.”
 
@@ -102,7 +102,7 @@ PJ ngẫm nghĩ về điều đó. Ông thực sự muốn rời khỏi thị tr
 
 “Dạ?”
 
-“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”
+“Ông muốn cháu biết điều này, anh trai ông đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”
 
 “Luna, em không hề kể gì cho ông ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”
 

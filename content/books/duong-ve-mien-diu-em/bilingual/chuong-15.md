@@ -39,16 +39,16 @@
 <p class="para-vi-sub">“Ở Tucson có gì ạ?”</p>
 
 <p class="para-en">“My high school girlfriend. She’s single again. A brand-new widow. I haven’t seen her in forty-five years.”</p>
-<p class="para-vi-sub">“Bạn gái thời trung học của chú. Cô ấy lại đang độc thân. Vừa mới trở thành góa phụ. Chú đã gặp lại cô ấy sau bốn mươi lăm năm đâu.”</p>
+<p class="para-vi-sub">“Bạn gái thời trung học của ông. Cô ấy lại đang độc thân. Vừa mới trở thành góa phụ. Ông đã gặp lại cô ấy sau bốn mươi lăm năm đâu.”</p>
 
 <p class="para-en">“You really love her that much?”</p>
-<p class="para-vi-sub">“Chú thực sự yêu cô ấy đến thế cơ à?”</p>
+<p class="para-vi-sub">“Ông thực sự yêu cô ấy đến thế cơ à?”</p>
 
 <p class="para-en">“I don’t know if I do. But it’s worth a shot.”</p>
-<p class="para-vi-sub">“Chú không biết mình có còn yêu không nữa. Nhưng cứ thử một phen xem sao.”</p>
+<p class="para-vi-sub">“Ông không biết mình có còn yêu không nữa. Nhưng cứ thử một phen xem sao.”</p>
 
 <p class="para-en">“You’re going to drive all that way to give it a shot?”</p>
-<p class="para-vi-sub">“Chú định lái xe từng ấy quãng đường chỉ để thử một phen á?”</p>
+<p class="para-vi-sub">“Ông định lái xe từng ấy quãng đường chỉ để thử một phen á?”</p>
 
 <p class="para-en">“Yup.”</p>
 <p class="para-vi-sub">“Ừ.”</p>
@@ -63,7 +63,7 @@
 <p class="para-vi-sub">“Ông từng làm trong CIA ạ?” Ollie hỏi, cất giọng tò mò từ tầng trên.</p>
 
 <p class="para-en">PJ shook his head. “I was in the war.”</p>
-<p class="para-vi-sub">Ông lắc đầu. “Chú đi lính trong chiến tranh.”</p>
+<p class="para-vi-sub">Ông lắc đầu. “Ông đi lính trong chiến tranh.”</p>
 
 <p class="para-en">“World War One or Two?”</p>
 <p class="para-vi-sub">“Chiến tranh thế giới thứ nhất hay thứ hai ạ?”</p>
@@ -78,7 +78,7 @@
 <p class="para-vi-sub">“Một trăm,” Ollie tiếp lời.</p>
 
 <p class="para-en">“I’m sixty-three, and I was in Vietnam, which was a terrible war, and then I came home to Pondville, and got a job as a postman and had a wife and kids and responsibilities and I never left after that. So, I think I owe myself one great adventure. I’d like to see the country.”</p>
-<p class="para-vi-sub">“Chú sáu mươi ba tuổi, và chú từng tham gia chiến tranh ở Việt Nam, đó là một cuộc chiến khủng khiếp, rồi chú trở về Pondville, nhận việc làm bưu tá, có vợ con cùng bao trách nhiệm đè nặng trên vai và chẳng bao giờ rời đi từ dạo ấy. Thế nên, chú nghĩ mình nợ bản thân một chuyến phiêu lưu lớn để đời. Chú muốn được nhìn ngắm đất nước này.”</p>
+<p class="para-vi-sub">“Ông sáu mươi ba tuổi, và ông từng tham gia chiến tranh ở Việt Nam, đó là một cuộc chiến khủng khiếp, rồi ông trở về Pondville, nhận việc làm bưu tá, có vợ con cùng bao trách nhiệm đè nặng trên vai và chẳng bao giờ rời đi từ dạo ấy. Thế nên, ông nghĩ mình nợ bản thân một chuyến phiêu lưu lớn để đời. Ông muốn được nhìn ngắm đất nước này.”</p>
 
 <p class="para-en">“We’ve been to New Jersey,” Ollie offered. “That’s where our dad was born.”</p>
 <p class="para-vi-sub">“Bọn cháu từng đến New Jersey rồi,” Ollie góp chuyện. “Đó là nơi bố bọn cháu sinh ra.”</p>
@@ -153,7 +153,7 @@
 <p class="para-vi-sub">“Dạ?”</p>
 
 <p class="para-en">“I want you to know, my brother was a total asshole. Your grandfather. He was mentally ill, and that wasn’t his fault, but he was also an asshole. A person can be both those things, and you don’t have to forgive him for whatever cruel thing he did to you. Maybe you loved him but I’m guessing you didn’t.”</p>
-<p class="para-vi-sub">“Chú muốn cháu biết điều này, anh trai chú đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”</p>
+<p class="para-vi-sub">“Ông muốn cháu biết điều này, anh trai ông đúng là một kẻ khốn nạn tột cùng. Ông ngoại của cháu ấy. Ông ta bị tâm thần, và đó không phải lỗi của ông ta, nhưng ông ta đồng thời cũng là một kẻ khốn nạn. Một người có thể mang cả hai điều đó trên mình, và cháu không phải tha thứ cho ông ta vì bất cứ điều tàn nhẫn nào ông ta đã gây ra cho cháu. Có lẽ cháu từng yêu quý ông ta nhưng ông đoán là không đâu.”</p>
 
 <p class="para-en">“Luna, I didn’t tell him about it,” Ollie said. “I promise. I swear.”</p>
 <p class="para-vi-sub">“Luna, em không hề kể gì cho ông ấy nghe đâu,” Ollie nói. “Em hứa đấy. Em thề luôn.”</p>

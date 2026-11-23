@@ -63,7 +63,7 @@
 <p class="para-vi-sub">“Bố ơi, bố không lái xe được đâu.”</p>
 
 <p class="para-en">“Why not?” Luna asked, looking up from the yearbook. “Is there something wrong with you?”</p>
-<p class="para-vi-sub">“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ chú có vấn đề gì à?”</p>
+<p class="para-vi-sub">“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ ông có vấn đề gì à?”</p>
 
 <p class="para-en">“Yes,” Sophie said.</p>
 <p class="para-vi-sub">“Đúng thế,” Sophie nói.</p>

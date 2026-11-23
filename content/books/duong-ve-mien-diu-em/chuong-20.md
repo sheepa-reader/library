@@ -42,7 +42,7 @@ Luna ghét việc người lớn cứ nói như vậy. Cô bé sẽ không thèm
 
 “Bố ơi, bố không lái xe được đâu.”
 
-“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ chú có vấn đề gì à?”
+“Tại sao lại không?” Luna hỏi, ngẩng lên khỏi cuốn kỷ yếu. “Bộ ông có vấn đề gì à?”
 
 “Đúng thế,” Sophie nói.
 
