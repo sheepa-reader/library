@@ -75,7 +75,7 @@
 <p class="para-vi-sub">“Ông PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Ông tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”</p>
 
 <p class="para-en">Luna looked over the edge. “ How did you find us?”</p>
-<p class="para-vi-sub">Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”</p>
+<p class="para-vi-sub">Luna nhìn xuống mép vực. “Làm sao ông tìm được tụi cháu vậy ạ?”</p>
 
 <p class="para-en">“I’ll always find you!” PJ yelled up. “Now, please put the cat on the ground.”</p>
 <p class="para-vi-sub">“Ông lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”</p>

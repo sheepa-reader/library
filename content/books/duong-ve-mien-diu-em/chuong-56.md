@@ -50,7 +50,7 @@ Tim PJ thắt lại nghẹn ở cổ họng. Ông đã tìm thấy lũ trẻ r�
 
 “Ông PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Ông tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”
 
-Luna nhìn xuống mép vực. “ Làm sao chú tìm được tụi cháu vậy ạ?”
+Luna nhìn xuống mép vực. “Làm sao ông tìm được tụi cháu vậy ạ?”
 
 “Ông lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”
 
