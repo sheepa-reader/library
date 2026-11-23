@@ -3703,7 +3703,7 @@
   let currentUser = null;
   let whitelistEmails = [];
   let authConfig = {
-    enforceAuth: false,
+    enforceAuth: true,
     enforceDate: '2026-12-01T00:00:00+07:00'
   };
   let windowCurrentModalBook = null;
@@ -3725,7 +3725,9 @@
     try {
       const res = await fetch('data/whitelist.json?v=' + Date.now());
       if (res.ok) {
-        const data = await res.json();
+        const rawText = await res.text();
+        const cleanedText = rawText.replace(/,\s*([\]}])/g, '$1');
+        const data = JSON.parse(cleanedText);
         if (Array.isArray(data)) {
           whitelistEmails = data;
         } else if (data && typeof data === 'object') {
@@ -3740,7 +3742,7 @@
       }
     } catch (e) {
       console.warn('Could not load whitelist:', e);
-      whitelistEmails = [];
+      authConfig.enforceAuth = true;
     }
   }
 
@@ -5909,27 +5911,18 @@
   function updateCountdownRouteVisibility() {
     const widget = document.getElementById('sheepa-countdown-widget');
     if (!widget) return;
-    if (window.location.hash.startsWith('#/reader')) {
-      widget.classList.add('reader-hidden');
-    } else {
-      widget.classList.remove('reader-hidden');
-    }
+    widget.style.display = 'none';
+    widget.classList.add('reader-hidden');
   }
 
   function initFloatingCountdown() {
     const widget = document.getElementById('sheepa-countdown-widget');
-    const closeBtn = document.getElementById('sheepa-cd-close');
-    const daysEl = document.getElementById('cd-days');
-    const hoursEl = document.getElementById('cd-hours');
-    const minsEl = document.getElementById('cd-mins');
-    const secsEl = document.getElementById('cd-secs');
-
-    if (!widget || !daysEl || !hoursEl || !minsEl || !secsEl) return;
-
-    // Thời điểm đích: 23:59:59 ngày 30/11/2026 (GMT+7)
-    const targetDate = new Date('2026-11-30T23:59:59+07:00').getTime();
-    const CD_COOLDOWN_MS = 10 * 60 * 1000; // Chu kỳ nhắc lại sau 10 phút (600.000 ms)
-    let cdReopenTimer = null;
+    if (widget) {
+      widget.style.display = 'none';
+      widget.classList.add('is-hidden');
+    }
+    // Giai đoạn chạy thử đã kết thúc, đóng widget đếm ngược
+    return;
 
     function scheduleCdReopen(delayMs) {
       if (cdReopenTimer) clearTimeout(cdReopenTimer);
