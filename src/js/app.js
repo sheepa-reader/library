@@ -187,6 +187,7 @@
 
   // Helper check if book has bilingual edition
   const BILINGUAL_BOOK_IDS = [
+    'elmer-gantry',
     'the-wedding-people',
     'senlin-vuot-thap',
     'canh-tay-nhan-su',

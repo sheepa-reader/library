@@ -1,0 +1,357 @@
+# Chương XVII
+
+<p class="para-en"><strong>I</strong></p>
+
+<p class="para-vi-sub"><strong>I</strong></p>
+
+<p class="para-en">Frank Shallard had graduated from Mizpah Theological Seminary and taken his first pulpit. And now that he was a minister, theoretically different from all ordinary people, he was wondering whether there was any value to the ministry whatever.</p>
+
+<p class="para-vi-sub">Frank Shallard đã tốt nghiệp Chủng viện Thần học Mizpah và nhận nhiệm sở quản nhiệm nhà thờ đầu tiên. Và giờ đây, khi đã trở thành một mục sư, về mặt lý thuyết thì khác biệt hoàn toàn với mọi người bình thường, anh lại đang tự hỏi liệu chức vụ mục sư này rốt cuộc có chút giá trị nào hay không.</p>
+
+<p class="para-en">Of what value were doggerel hymns raggedly sung? What value in sermons, when the congregation seemed not at all different from people who never heard sermons? Were all ministers and all churches, Frank wondered, merely superstitious survivals, merely fire-insurance? Suppose there were such things as inspiring sermons. Suppose there could be such a curious office as minister, as Professional Good Man; such a thing as learning Goodness just as one learned plumbing or dentistry. Even so, what training had he or his classmates, or his professors﻿—whose <abbr epub:type="z3998:name-title">D.D.</abbr> degrees did not protect them from indigestion and bad tempers﻿—in this trade of Professional Goodness?</p>
+
+<p class="para-vi-sub">Những bài thánh ca lủng củng được cất lên lệch nhịp thì có giá trị gì? Các bài giảng đạo có ý nghĩa gì khi giáo đoàn trông chẳng khác gì những kẻ chưa từng nghe giảng đạo? Frank tự hỏi, phải chăng tất cả các mục sư và nhà thờ chỉ là những tàn tích của sự mê tín, chỉ là một thứ bảo hiểm hỏa hoạn? Giả sử có những bài giảng đầy cảm hứng. Giả sử có một chức vụ kỳ lạ như mục sư, như một Kẻ Thiện Lành Chuyên Nghiệp; một thứ nghề học cách làm Người Thiện Lành hệt như học nghề thợ nước hay nha sĩ. Cho dù là vậy, thì bản thân anh, các bạn cùng khóa, hay các giáo sư của anh, những người mang học vị tiến sĩ thần học nhưng vẫn bị chứng khó tiêu và tính khí cáu bẳn làm cho khốn đốn, lại có sự chuẩn bị nào cho cái nghề Người Thiện Lành chuyên nghiệp này?</p>
+
+<p class="para-en">He was supposed to cure an affliction called vice. But he had never encountered vice; he didn’t know just what were the interesting things that people did when they were being vicious. How long would a drunkard listen to the counsel of one who had never been inside a saloon?</p>
+
+<p class="para-vi-sub">Anh được cho là có nhiệm vụ chữa lành một căn bệnh gọi là thói hư tật xấu. Nhưng anh chưa từng chạm trán với thói hư tật xấu nào cả; anh chẳng biết chính xác những điều thú vị mà người ta thường làm khi họ buông thả là gì. Một kẻ nghiện rượu sẽ lắng nghe lời khuyên răn của một kẻ chưa từng đặt chân vào quán rượu trong bao lâu?</p>
+
+<p class="para-en">He was supposed to bring peace to mankind. But what did he know of the forces which cause wars, personal or class or national; what of drugs, passion, criminal desire; of capitalism, banking, labor, wages, taxes; international struggles for trade, munition trusts, ambitious soldiers?</p>
+
+<p class="para-vi-sub">Anh được cho là mang lại sự bình yên cho nhân loại. Nhưng anh biết gì về những thế lực gây ra chiến tranh, dù là chiến tranh cá nhân, giai cấp hay quốc gia; biết gì về ma túy, dục vọng, ham muốn tội ác; về chủ nghĩa tư bản, hệ thống ngân hàng, lao động, tiền lương, thuế khóa; về các cuộc tranh giành thị trường quốc tế, các tập đoàn sản xuất vũ khí, hay những kẻ hiếu chiến?</p>
+
+<p class="para-en">He was supposed to comfort the sick. But what did he know of sickness? How could he tell when he ought to pray and when he ought to recommend salts?</p>
+
+<p class="para-vi-sub">Anh được cho là an ủi người bệnh. Nhưng anh biết gì về bệnh tật? Làm sao anh có thể phân biệt được khi nào thì nên cầu nguyện và khi nào thì nên khuyên họ dùng thuốc tẩy?</p>
+
+<p class="para-en">He was supposed to explain to troubled mankind the purposes of God Almighty, to chat with him, and even advise him about his duties as regards rainfall and the church debt. But which God Almighty? Professor Bruno Zechlin had introduced Frank to a hundred gods besides the Jewish Jehovah, or Yahveh, who had been but a poor and rather surly relation of such serene aristocrats as Zeus.</p>
+
+<p class="para-vi-sub">Anh được cho là phải giải thích cho nhân loại đang khốn đốn hiểu về ý định của Thượng Đế Toàn Năng, trò chuyện với Ngài, thậm chí đưa ra lời khuyên cho Ngài về các nghĩa vụ liên quan đến lượng mưa và khoản nợ của nhà thờ. Nhưng rốt cuộc là vị Thượng Đế Toàn Năng nào? Giáo sư Bruno Zechlin đã giới thiệu cho Frank biết hàng trăm vị thần khác ngoài Jehovah hay Yahveh của người Do Thái, vị thần vốn dĩ chỉ là một kẻ nghèo túng và có phần cau có nếu đặt cạnh những bậc vĩ nhân thanh cao như thần Zeus.</p>
+
+<p class="para-en">He was supposed to have undergone a mystic change whereby it was possible to live without normal appetites. He was supposed to behold girls’ ankles without interest and, for light amusement, to be satisfied by reading church papers and shaking hands with deacons. But he found himself most uncomfortably interested in the flicker of ankles, he longed for the theater, and no repentance could keep him from reading novels, though his professors had exposed them as time-wasting and frivolous.</p>
+
+<p class="para-vi-sub">Anh được cho là đã trải qua một sự biến đổi huyền bí để có thể sống mà không cần những ham muốn bình thường. Anh được cho là nhìn thấy mắt cá chân của các thiếu nữ mà chẳng mảy may động lòng, và để giải trí nhẹ nhàng, anh phải cảm thấy mãn nguyện với việc đọc các ấn phẩm của nhà thờ và bắt tay với các Chấp sự. Nhưng anh nhận ra mình lại cực kỳ tò mò đến khó chịu trước cái lấp ló của những đôi mắt cá chân, anh thèm khát được đến nhà hát, và chẳng sự ăn năn nào ngăn nổi việc anh đọc tiểu thuyết, mặc dù các giáo sư từng lên án chúng là trò vô bổ và phù phiếm.</p>
+
+<p class="para-en">What had he learned?</p>
+
+<p class="para-vi-sub">Anh đã học được những gì?</p>
+
+<p class="para-en">Enough Hebrew and Greek to be able to crawl through the Bible by using lexicons﻿—so that, like all his classmates once they were out of the seminary, he always read it in English. A good many of the more condemnatory texts of the Bible﻿—rather less than the average Holy Roller carpenter-evangelist. The theory that India and Africa have woes because they are not Christianized, but that Christianized Bangor and Des Moines have woes because the devil, a being obviously more potent than omnipotent God, sneaks around counteracting the work of Baptist preachers.</p>
+
+<p class="para-vi-sub">Đủ tiếng Hy Lạp và tiếng Do Thái để có thể lết qua cuốn Kinh Thánh nhờ cậy vào từ điển, để rồi cũng giống như mọi bạn học cũ sau khi rời chủng viện, anh toàn đọc nó bằng tiếng Anh. Một lượng lớn các đoạn văn trừng phạt trong Kinh Thánh, tính ra thì ít hơn một chút so với mấy gã thợ mộc đi truyền đạo dạo theo phái Holiness. Cái lý thuyết cho rằng Ấn Độ và châu Phi khốn khổ là vì chưa được Cơ Đốc giáo hóa, nhưng Bangor và Des Moines dù đã được Cơ Đốc giáo hóa vẫn khốn khổ là vì con quỷ dữ, một sinh vật rõ ràng còn quyền lực hơn cả Thượng Đế Toàn Năng, đang lén lút phá hoại công sức của các mục sư Báp-tít.</p>
+
+<p class="para-en">He had learned, in theory, the ways of raising money through church fairs; he had learned what he was to say on pastoral visits. He had learned that Roger Williams, Adoniram Judson, Luther, Calvin, Jonathan Edwards, and George Washington were the greatest men in history; that Lincoln was given to fervent prayer at all crises; and that Ingersoll had called his nonexistent son to his deathbed and bidden him become an orthodox Christian. He had learned that the Pope at Rome was plotting to come to America and get hold of the government, and was prevented only by the denunciations of the Baptist clergy with a little help from the Methodists and Presbyterians; that most crime was caused either by alcohol or by people leaving the Baptist fold for Unitarianism; and that clergymen ought not to wear red ties.</p>
+
+<p class="para-vi-sub">Anh đã học được, về mặt lý thuyết, cách gây quỹ qua các hội chợ nhà thờ; anh đã học được những điều cần nói trong những chuyến thăm mục vụ. Anh đã học được rằng Roger Williams, Adoniram Judson, Luther, Calvin, Jonathan Edwards và George Washington là những người vĩ đại nhất trong lịch sử; rằng Lincoln luôn cầu nguyện sốt sắng trong mọi cuộc khủng hoảng; và rằng Robert G. Ingersoll đã gọi đứa con không hề tồn tại của mình đến bên giường bệnh rồi khuyên nó hãy trở thành một Cơ Đốc nhân chính thống. Anh đã học được rằng Giáo hoàng ở Roma đang âm mưu đến nước Mỹ để thâu tóm chính phủ, và chỉ bị ngăn chặn nhờ những lời lên án của giới giáo sĩ Báp-tít với sự hỗ trợ chút ít từ phía phái Giám lý và Ban Chấp sự Chính thức; rằng phần lớn tội phạm xuất phát từ rượu chè hoặc từ những kẻ rời bỏ Giáo hội Báp-tít để theo phái Nhất vị luận; và rằng các giáo sĩ không nên đeo cà vạt đỏ.</p>
+
+<p class="para-en">He had learned how to assemble Jewist texts, Greek philosophy, and Middle-Western evangelistic anecdotes into a sermon. And he had learned that poverty is blessed, but that bankers make the best deacons.</p>
+
+<p class="para-vi-sub">Anh đã học cách lắp ghép các văn bản Do Thái, triết học Hy Lạp và những giai thoại truyền giảng miền Trung Tây thành một bài giảng đạo. Và anh đã học được rằng nghèo khó là một diễm phúc, nhưng các chủ ngân hàng mới là những Chấp sự tuyệt vời nhất.</p>
+
+<p class="para-en">Otherwise, as he wretchedly examined his equipment, facing his career, Frank did not seem to have learned anything whatever.</p>
+
+<p class="para-vi-sub">Ngoại trừ những điều đó, khi Frank Shallard khốn khổ kiểm điểm lại hành trang của mình để bước vào sự nghiệp, anh dường như chẳng học được bất cứ thứ gì khác.</p>
+
+<p class="para-en">From Elmer Gantry’s relations to Lulu Bains, from Harry Zenz’s almost frank hint that he was an atheist, Frank perceived that a preacher can be a scoundrel or a hypocrite and still be accepted by his congregation. From the manners of Dean Trosper, who served his God with vinegar, he perceived that a man may be free of all the skilled sins, may follow every rule of the church, and still bring only fear to his flock. Listening to the celebrated divines who visited the seminary and showed off to the infant prophets, he perceived that a man could make scholarly and violent sounds and yet not say anything which remained in the mind for six minutes.</p>
+
+<p class="para-vi-sub">Từ mối quan hệ của Elmer Gantry với Lulu Bains, từ lời ám chỉ gần như thẳng thắn của Harry Zenz rằng gã là một kẻ vô thần, Frank Shallard nhận ra rằng một nhà thuyết giáo có thể là một tên đểu cáng hoặc kẻ đạo đức giả mà vẫn được giáo đoàn chấp nhận. Từ phong thái của Jacob Trosper, người phục vụ Thượng Đế của mình bằng sự cay đắng, anh nhận ra rằng một kẻ có thể miễn nhiễm với mọi tội lỗi tinh vi, tuân thủ mọi quy định của nhà thờ, nhưng chỉ mang lại sự sợ hãi cho bầy chiên của mình. Lắng nghe những bậc tôn sư nổi tiếng đến thăm chủng viện và khoe mẽ trước những nhà tiên tri non trẻ, anh nhận ra rằng một người có thể phát ra những âm thanh uyên bác, đao to búa lớn mà chẳng nói được điều gì đọng lại trong tâm trí người nghe dù chỉ sáu phút.</p>
+
+<p class="para-en">He concluded, in fact, that if there was any value in churches and a ministry, of which he was not very certain, in any case there could be no value in himself as a minister.</p>
+
+<p class="para-vi-sub">Tóm lại, anh đi đến kết luận rằng nếu các nhà thờ và chức vụ mục sư có bất kỳ giá trị nào, điều mà anh không chắc chắn cho lắm, thì trong mọi trường hợp, bản thân anh trong vai trò một mục sư chắc chắn chẳng có chút giá trị nào.</p>
+
+<p class="para-en">Yet he had been ordained, he had taken a pulpit.</p>
+
+<p class="para-vi-sub">Thế mà anh vẫn được phong chức mục sư, vẫn nhận một nhiệm sở.</p>
+
+<p class="para-en">It was doubtful whether he could have endured the necessary lying had it not been for Dean Trosper’s bullying and his father’s confusing pleas. Frank’s father was easygoing enough, but he had been a Baptist clergyman for so many years that the church was sacred to him. To have had his son deny it would have broken him. He would have been shocked to be told that he was advising Frank to lie, but he explained that the answers to the ordination examination were after all poetic symbols, sanctified by generations of loving usage; that they need not be taken literally.</p>
+
+<p class="para-vi-sub">Vẫn còn là một dấu hỏi liệu anh có thể chịu đựng được những lời dối trá cần thiết đó nếu không vì sự áp tải của Jacob Trosper và những lời nài nỉ rối rắm của cha anh. Cha của Frank Shallard tuy dễ tính, nhưng ông đã làm mục sư Báp-tít bao nhiêu năm trời đến mức nhà thờ đã trở thành một thứ thiêng liêng đối với ông. Việc con trai mình chối bỏ điều đó sẽ làm ông tan nát cõi lòng. Ông sẽ bị sốc nếu được cho biết rằng ông đang khuyên Frank Shallard nói dối, nhưng ông giải thích rằng những câu trả lời trong kỳ thi Lễ phong chức mục sư thực ra chỉ là những biểu tượng thơ ca, được thánh hóa bởi nhiều thế hệ yêu mến áp dụng; rằng chúng không cần phải được hiểu theo nghĩa đen.</p>
+
+<p class="para-en">So Frank Shallard, pupil of Bruno Zechlin, said nervously to an examining cleric that, yes, he did believe that baptism by immersion was appointed by God himself, as the only valid way of beginning a righteous life; that, yes, unrepentant sinners would go to a literal Hell; that, yes, these unrepentant sinners included all persons who did not go to evangelical churches if they had the chance; and that, yes, the Maker of a universe with stars a hundred thousand light-years apart was interested, furious, and very personal about it if a small boy played baseball on Sunday afternoon.</p>
+
+<p class="para-vi-sub">Thế là Frank Shallard, học trò của Bruno Zechlin, đành cất lời đáp đầy phảng phất âu lo trước một vị giáo sĩ khảo hạch rằng, vâng, anh tin chắc Phép báp-têm dìm mình chính là nghi thức do chính Thượng Đế ấn định, là con đường duy nhất hợp lệ để bước vào một đời sống thanh bạch; rằng, vâng, những kẻ tội nhân chưa từng ăn năn sẽ phải đày đọa xuống một địa ngục hỏa ngục thật sự; rằng, vâng, đám tội nhân ngoan cố ấy bao gồm tất cả những ai không chịu bước chân vào các nhà thờ truyền giáo dẫu họ có cơ hội; và rằng, vâng, Đấng Sáng Tạo của một vũ trụ bao la với những vì sao cách xa nhau hàng trăm ngàn năm ánh sáng lại vô cùng quan tâm, nổi giận đùng đùng và cực kỳ để tâm đến chuyện đó nếu một cậu bé trót lỡ chơi bóng chày vào chiều Chúa nhật.</p>
+
+<p class="para-en">Half an hour after the ordination and the somewhat comforting welcome by veterans of the ministry, he hated himself, and ached to flee, but again the traditional “not wanting to hurt his father” kept him from being honest. So he stayed in the church﻿ ﻿… and went on hurting his father for years instead of for a day.</p>
+
+<p class="para-vi-sub">Chỉ nửa tiếng sau buổi Lễ phong chức mục sư và những lời chào mừng có phần an ủi từ các kỳ cựu trong giới mục vụ, anh đâm ra căm ghét chính mình, khao khát đến cháy bỏng được trốn chạy, thế nhưng thói quen truyền thống mang tên không muốn làm tổn thương cha lại một lần nữa ngăn cản anh sống thật với lòng mình. Thế là anh cứ tiếp tục ở lại nhà thờ... để rồi thay vì chỉ làm tổn thương cha mình trong một ngày, anh lại tiếp tục dằn vặt ông trong suốt nhiều năm trời.</p>
+
+<p class="para-en"><strong>II</strong></p>
+
+<p class="para-vi-sub"><strong>II</strong></p>
+
+<p class="para-en">It was a lonely and troubled young man, the Frank Shallard who for his first pastorate came to the Baptist Church at Catawba, a town of eighteen hundred, in the same state with Zenith and the Mizpah Seminary. The town liked him, and did not take him seriously. They said his sermons were “real poetic”; they admired him for being able to sit with old <abbr epub:type="z3998:name-title">Mrs.</abbr> Randall, who had been an invalid for thirty years, a bore for sixty, and never ill a day in her life. They admired him for trying to start a boys’ club, though they did not go so far in their support as to contribute anything. They all called him “Reverend,” and told him that he was amazingly sound in doctrine for one so unfortunately well educated; and he stayed on, in a vacuum.</p>
+
+<p class="para-vi-sub">Đó là một chàng thanh niên cô đơn và đầy trăn trở, một Frank Shallard đến nhận chức vụ quản nhiệm đầu tiên tại Giáo hội Báp-tít ở Thị trấn Catawba, một thị trấn có dân số mười tám trăm người, nằm cùng bang với Thành phố Zenith và Chủng viện Thần học Mizpah. Thị trấn rất quý mến anh, nhưng lại chẳng mảy may coi anh là điều gì đó to tát. Họ bảo những bài giảng của anh thơ mộng thật đấy; họ ngưỡng mộ vì anh có thể kiên nhẫn ngồi bầu bạn cùng cụ bà Randall, người đã chịu cảnh ốm liệt giường suốt ba mươi năm, làm phiền thiên hạ tròn sáu mươi năm, mà chưa từng có lấy một ngày bình yên trong đời. Họ ca ngợi anh vì đã cố gắng thành lập một câu lạc bộ dành cho các thiếu niên, mặc dù họ chẳng thèm góp một đồng xu cắc bạc nào để ủng hộ. Ai nấy đều gọi anh là Mục sư, và bảo rằng học vấn của anh dẫu có trót uyên bác đến mức đáng tiếc thì giáo lý của anh vẫn chuẩn mực đến ngạc nhiên; và thế là anh cứ thế bám trụ lại đó, trong một cõi chân không tĩnh lặng.</p>
+
+<p class="para-en">Frank felt well about his fifth sermon in Catawba; felt that he was done with hesitations. He had decided to ignore controversial theology, ignore all dogma, and concentrate on the leadership of Jesus. That was his topic, there in the chapel with its walls of glaring robin’s-egg blue﻿—the eager-eyed, curly-headed boy, his rather shrill voice the wail of a violin as he gave his picture of Jesus, the kindly friend, the unfailing refuge, the gallant leader.</p>
+
+<p class="para-vi-sub">Frank cảm thấy vô cùng hài lòng về bài giảng thứ năm của mình tại Catawba; anh cảm thấy mình đã dứt bỏ được mọi sự do dự. Anh đã hạ quyết tâm sẽ phớt lờ thần học tranh cãi, phớt lờ mọi thứ giáo điều, và chỉ tập trung vào tấm gương lãnh đạo của Chúa Giê-su. Đó chính là chủ đề của anh, ở ngay nơi nhà nguyện với những bức tường sơn màu xanh trứng chim cổ rực chói chang, với cậu thanh niên có ánh mắt thiết tha, mái tóc xoăn tít, cùng chất giọng có phần lanh lảnh tựa tiếng vĩ cầm nghẹn ngào khi anh phác họa bức chân dung về Chúa Giê-su, vị bằng hữu nhân từ, chốn nương náu vững chắc, người lãnh đạo hào hiệp.</p>
+
+<p class="para-en">He was certain that he had done well; he was thinking of it on Monday morning as he walked from his boardinghouse to the post office.</p>
+
+<p class="para-vi-sub">Anh đinh ninh rằng mình đã làm rất tốt; ý nghĩ ấy cứ quẩn quanh trong đầu anh vào sáng thứ Hai khi anh sải bước từ nhà trọ ra bưu điện.</p>
+
+<p class="para-en">He saw one Lem Staples, a jovial horse-doctor who was known as the Village Atheist, sitting on a decayed carriage seat in front of the Fashion Livery Barn. Doc Staples was a subscriber to the <i epub:type="se:name.publication.magazine">Truth Seeker</i>, a periodical said to be infidel, and he quoted Robert Ingersoll, Ed Howe, Colonel Watterson, Elbert Hubbard, and other writers who were rumored to believe that a Catholic was as good as a Methodist or Baptist. The Doc lived alone, “baching it” in a little yellow cottage, and Frank had heard that he sat up till all hours, eleven and even later, playing cribbage in Mart Blum’s saloon.</p>
+
+<p class="para-vi-sub">Anh bắt gặp Lem Staples, một tay bác sĩ thú y bợm bãi nổi tiếng trong vùng với danh xưng Người theo chủ nghĩa tự do tư tưởng của làng, đang ngồi trên chiếc ghế xe ngựa mục nát trước hiên Trại ngựa cho thuê Fashion. Lão bác sĩ Staples là một khách quen mua tờ báo <i>Truth Seeker</i>, một ấn phẩm đồn đại là mang tư tưởng tà đạo, và lão hay trích dẫn lời của Robert Ingersoll, Ed Howe, Đại tá Watterson, Elbert Hubbard cùng nhiều cây bút khác bị xì xào là dám nghĩ rằng một tín đồ Công giáo cũng chẳng thua kém gì một tín đồ Giám lý hay Báp-tít. Lão bác sĩ sống thui thủi một mình cảnh gà trống nuôi thân trong một ngôi nhà gỗ nhỏ màu vàng, và Frank từng nghe đồn rằng lão thức trắng đêm, tận mười một giờ đêm hoặc thậm chí muộn hơn, để chơi bài cribbage trong quán rượu của Mart Blum.</p>
+
+<p class="para-en">Frank disliked him, and did not know him. He was prepared to welcome honest inquiry, but a fellow who was an avowed athetist, why, Frank raged, he was a fool! Who made the flowers, the butterflies, the sunsets, the laughter of little children? Those things didn’t just <em>happen</em>! Besides: why couldn’t the man keep his doubts to himself, and not try to take from other people the religion which was their one comfort and strength in illness, sorrow, want? A matter not of Morality but of reverence for other people’s belief, in fact of Good Taste﻿—</p>
+
+<p class="para-vi-sub">Frank vốn chẳng ưa gì lão, và cũng chẳng quen biết gì. Anh sẵn sàng hoan nghênh những câu hỏi thành tâm, nhưng còn cái tên tự xưng là kẻ vô thần này á, chà, Frank nổi giận đùng đùng, hắn đích thị là một kẻ ngốc! Ai đã tạo ra những đóa hoa, những cánh bướm, những buổi hoàng hôn, và tiếng cười giòn tan của trẻ thơ cơ chứ? Những thứ đó đâu thể tự nhiên mà có được! Hơn nữa, cớ sao lão ta không giữ lại mấy nỗi hoài nghi ấy cho riêng mình, mà lại cứ nhăm nhe tước đoạt đi chỗ dựa tinh thần duy nhất giúp xoa dịu những đau khổ, buồn tủi và thiếu thốn của người khác? Đó không phải là vấn đề Đạo đức mà là sự tôn trọng niềm tin của người khác, xét cho cùng thì đó là Vấn đề Văn hóa...</p>
+
+<p class="para-en">This morning, as Frank scampered down Vermont Street, Lem Staples called to him, “Fine day, Reverend. Say! In a hurry?”</p>
+
+<p class="para-vi-sub">Sáng nay, khi Frank đang rảo bước nhanh trên phố Vermont, Lem Staples liền cất tiếng gọi với theo: “Ngày mới tốt lành nhé, Mục sư. Này! Đang bận lắm hả?”</p>
+
+<p class="para-en">“I’m﻿—No, not especially.”</p>
+
+<p class="para-vi-sub">“Tôi... Không, không bận lắm.”</p>
+
+<p class="para-en">“Come sit down. Couple o’ questions I’m worried about.”</p>
+
+<p class="para-vi-sub">“Lại đây ngồi chơi chút đi. Tôi đang vướng mắc đôi câu hỏi.”</p>
+
+<p class="para-en">Frank sat, his neck prickling with embarrassment.</p>
+
+<p class="para-vi-sub">Frank bước đến ngồi xuống, cổ gáy nổi gai vì ngượng ngùng.</p>
+
+<p class="para-en">“Say, Reverend, old Ma Gherkins was telling me about your sermon yesterday. You figger that no matter what kind of a creed a fellow’s got, the one thing we can all bank on, absolute, is the teaching of Jesus?”</p>
+
+<p class="para-vi-sub">“Này Mục sư, mụ già Gherkins vừa kể cho tôi nghe về bài giảng của anh hôm qua đấy. Anh cho rằng dẫu một người có theo tín điều gì đi chăng nữa, thì điều duy nhất mà tất cả chúng ta đều có thể hoàn toàn tin tưởng tuyệt đối chính là những lời giáo huấn của Chúa Giê-su phải không?”</p>
+
+<p class="para-en">“Why, yes, that’s it roughly, Doctor.”</p>
+
+<p class="para-vi-sub">“À, vâng, đại khái là thế, thưa bác sĩ.”</p>
+
+<p class="para-en">“And you feel that any sensible fellow will follow his teaching?”</p>
+
+<p class="para-vi-sub">“Và anh cảm thấy bất cứ ai có óc phán đoán đều sẽ tuân theo những lời giáo huấn ấy chứ?”</p>
+
+<p class="para-en">“Why, yes, certainly.”</p>
+
+<p class="para-vi-sub">“À, vâng, chắc chắn rồi.”</p>
+
+<p class="para-en">“And you feel that the churches, no matter what faults they may have, do hand out this truth of Jesus better than if we didn’t have no churches at all?”</p>
+
+<p class="para-vi-sub">“Và anh cảm thấy các nhà thờ, dẫu có vướng phải bất kỳ khiếm khuyết nào đi nữa, vẫn truyền tải chân lý này của Chúa Giê-su tốt hơn là khi chúng ta chẳng có chút nhà thờ nào đúng không?”</p>
+
+<p class="para-en">“Certainly. Otherwise, I shouldn’t be in the church!”</p>
+
+<p class="para-vi-sub">“Tất nhiên rồi. Bằng không, tôi đã chẳng gia nhập nhà thờ!”</p>
+
+<p class="para-en">“Then can you tell me why it is that nine-tenths of the really sure-enough on-the-job membership of the churches is made up of two classes: the plumb ignorant, that’re scared of hell and that swallow any fool doctrine, and, second, the awful respectable folks that play the church so’s to seem more respectable? Why is that? Why is it the high-class skilled workmen and the smart professional men usually snicker at the church and don’t go near it once a month? Why is it?”</p>
+
+<p class="para-vi-sub">“Thế thì anh có thể giải thích cho tôi hiểu tại sao chín phần mười những giáo dân thực sự tâm huyết và gắn bó hết mình với nhà thờ lại rơi vào hai thành phần này không: một là đám dân dốt nát đến cùng cực, lũ người sợ hãi hỏa ngục và sẵn sàng nuốt trọn bất kỳ thứ giáo lý nhảm nhí nào, và hai là tầng lớp thượng lưu đạo đức giả dùng nhà thờ để che đậy nhằm ra vẻ ta đây đáng kính hơn? Tại sao lại thế hả? Tại sao những công nhân tay nghề cao cùng giới trí thức chuyên môn thượng thặng lại thường cười nhạo nhà thờ và chẳng thèm bén mảng tới đó lấy một lần trong suốt cả tháng trời? Tại sao vậy?”</p>
+
+<p class="para-en">“It isn’t true, perhaps that’s why!” Frank felt triumphant. He looked across at the pile of rusty horseshoes and plowshares among the mullen weeds beside the blacksmith’s shop; he reflected that he would clean up this town, be a power for good. Less snappishly he explained, “Naturally, I haven’t any statistics about it, but the fact is that almost every intelligent and influential man in the country belongs to some church or other.”</p>
+
+<p class="para-vi-sub">“Đó không phải là sự thật, có lẽ vì thế nên mới vậy!” Frank cảm thấy vô cùng đắc thắng. Anh liếc nhìn đống móng ngựa và lưỡi cày rỉ sét lẫn trong đám cỏ dại mọc lúp xúp bên cạnh tiệm thợ rèn; anh tự nhủ rằng mình sẽ thanh lọc cái thị trấn này, sẽ trở thành một nguồn sức mạnh hướng thiện. Dịu giọng hơn một chút, anh giải thích: “Đương nhiên là tôi chẳng có số liệu thống kê nào về chuyện đó, nhưng thực tế là hầu như mọi người đàn ông thông minh và có ảnh hưởng ở đất nước này đều gia nhập một giáo hội nào đó.”</p>
+
+<p class="para-en">“Yeh﻿—belongs. But does he go?”</p>
+
+<p class="para-vi-sub">“Ừ thì... gia nhập. Nhưng liệu họ có đi lễ không?”</p>
+
+<p class="para-en">Frank plodded off, annoyed. He tried to restore himself by insisting that Doc Staples was a lout, very amusing in the way he mingled rustic grammar with half-digested words from his adult reading. But he was jarred. Here was the Common Man whom the church was supposed to convince.</p>
+
+<p class="para-vi-sub">Frank lầm lũi bỏ đi với vẻ bực dọc. Anh cố gắng trấn an bản thân bằng cách đinh ninh rằng lão bác sĩ Staples chỉ là một tên nhà quê thô lỗ, cực kỳ nực cười ở cái cách lão pha trộn ngữ pháp quê mùa với những từ ngữ chưa tiêu hóa nổi từ việc đọc sách tuổi trưởng thành. Thế nhưng lòng anh vẫn dấy lên những gợn sóng bất an. Kia chính là Người Dân Bình Thường mà nhà thờ có nhiệm vụ phải thuyết phục cơ mà.</p>
+
+<p class="para-en">Frank remembered from his father’s pastorates how many theoretical church-members seemed blithely able month on month to stay away from the sermonizing; he remembered the merchants who impressively passed the contribution plate yet afterward, in conversation with his father, seemed to have but vague notions of what the sermon had been.</p>
+
+<p class="para-vi-sub">Frank nhớ lại qua những nhiệm sở trước của cha mình rằng có biết bao giáo dân trên danh nghĩa dường như vẫn vô tư nghỉ nghe giảng tuần này qua tuần khác; anh nhớ đến những thương gia ngẩng cao đầu bước qua chiếc đĩa quyên góp nhưng sau đó, khi trò chuyện với cha anh, lại có vẻ chỉ mơ hồ về nội dung bài giảng vừa diễn ra.</p>
+
+<p class="para-en">He studied his own congregation. There they were: the stiff-collared village respectables, and the simple, kindly, rustic mass, who understood him only when he promised Heaven as a reward for a life of monogamy and honest chicken-raising, or threatened them with Hell for drinking hard cider.</p>
+
+<p class="para-vi-sub">Anh quan sát chính hội thánh của mình. Họ ở ngay đó: những kẻ bề thế ở làng với chiếc cổ áo cứng ngắc, và tầng lớp bình dân mộc mạc, tử tế, những người chỉ hiểu anh khi anh hứa hẹn Thiên Đường như phần thưởng cho một đời một vợ một chồng cùng nghề nuôi gà lương thiện, hoặc đe dọa họ xuống Địa Ngục vì tội uống rượu táo lên men.</p>
+
+<p class="para-en">Catawba had﻿—its only urban feature﻿—a furniture factory with unusually competent workmen, few of whom attended church. Now Frank Shallard had all his life been insulated from what he gently despised as “the working class.” Maids at his father’s house and the elderly, devout, and incompetent negroes who attended the furnace; plumbers or electricians coming to the parsonage for repairs; railway men to whom he tried to talk on journeys; only these had he known, and always with unconscious superiority.</p>
+
+<p class="para-vi-sub">Thị trấn Catawba có một đặc điểm duy nhất mang dáng dấp đô thị là một nhà máy đồ gỗ với những thợ mộc tay nghề xuất sắc lạ thường, nhưng rất ít người trong số họ đến nhà thờ. Từ trước đến nay, Frank Shallard luôn được bao bọc khỏi cái gọi là “tầng lớp lao động” mà anh vẫn hờ hững khinh bỉ. Những người hầu gái trong nhà cha anh, những người da đen già nua, sùng đạo và vụng về làm công việc nhóm lò; thợ sửa ống nước hay thợ điện đến nhà xứ sửa chữa; những nhân viên đường sắt mà anh cố trò chuyện trong các chuyến đi; chỉ có từng ấy người là anh từng biết, và luôn đi kèm với sự bề trên vô thức.</p>
+
+<p class="para-en">Now he timidly sought to get acquainted with the cabinetmakers as they sat at lunch in the factory grounds. They accepted him good-naturedly, but he felt that they chuckled behind his back when he crept away.</p>
+
+<p class="para-vi-sub">Giờ đây, anh rụt rè tìm cách làm quen với những người thợ mộc khi họ ngồi ăn trưa trong khuôn viên nhà máy. Họ đón nhận anh cởi mở, nhưng anh cảm thấy họ lén cười sau lưng khi anh lủi thủi bước đi.</p>
+
+<p class="para-en">For the first time he was ashamed of being a preacher, of being a Christian. He longed to prove he was nevertheless a “real man,” and didn’t know how to prove it. He found that all the cabinetmakers save the Catholics laughed at the church and thanked the God in whom they did not believe that they did not have to listen to sermons on Sunday mornings, when there were beautiful back porches to sit on, beautiful sporting news to read, beautiful beer to drink. Even the Catholics seemed rather doubtful about the power of a purchased mass to help their deceased relatives out of Purgatory. Several of them admitted that they merely “did their Easter duty”﻿—went to confession and mass but once a year.</p>
+
+<p class="para-vi-sub">Lần đầu tiên trong đời, anh cảm thấy xấu hổ vì là một mục sư, vì là một tín hữu Cơ Đốc. Anh khao khát chứng minh bản thân rằng anh dẫu sao vẫn là một người đàn ông thực thụ, nhưng lại chẳng biết phải chứng minh thế nào. Anh nhận ra rằng ngoại trừ những người Công giáo, tất cả các thợ mộc đều chế giễu nhà thờ và cảm tạ vị Thượng Đế mà họ không tin vì họ không phải nghe những bài giảng đạo vào sáng Chúa nhật, khi ngoài kia có những hiên nhà tuyệt đẹp để ngồi, những bản tin thể thao tuyệt vời để đọc, những ly bia tuyệt hảo để thưởng thức. Ngay cả những người Công giáo cũng tỏ ra hoài nghi về quyền năng của một thánh lễ được mua bằng tiền trong việc giúp người thân quá cố thoát khỏi Luyện ngục. Một vài người trong số họ thừa nhận rằng họ chỉ làm tròn bổn phận Phục sinh là xưng tội và dự lễ thánh đúng một năm một lần.</p>
+
+<p class="para-en">It occurred to him that he had never known how large a race of intelligent and independent workmen there were in between the masters and the human truck-horses. He had never known how casually these manual aristocrats despised the church; how they jeered at their leaders, officers of the <abbr epub:type="z3998:initialism">A.F.</abbr> of <abbr epub:type="z3998:initialism">L.</abbr>, who played safe by adhering to a voluble Christianity. He could not get away from his discoveries. They made him self-conscious as he went about the village streets trying to look like a junior prophet and feeling like a masquerader.</p>
+
+<p class="para-vi-sub">Anh chợt nhận ra mình chưa từng biết rằng có một tầng lớp thợ mộc thông minh và độc lập đông đảo đến nhường nào nằm ở khoảng giữa tầng lớp chủ xưởng và tầng lớp lao động chân tay cùng khổ. Anh chưa từng biết những người quý tộc lao động này dửng dưng khinh bỉ nhà thờ ra sao; họ chế nhạo các thủ lĩnh của mình như thế nào, những quan chức của Liên đoàn Lao động Mỹ (<abbr epub:type="z3998:initialism">A.F.</abbr> of <abbr epub:type="z3998:initialism">L.</abbr>) là những kẻ chọn giải pháp an toàn bằng cách bám lấy một thứ đạo Cơ Đốc ba hoa khoác lác. Anh không sao rũ bỏ được những phát hiện ấy. Chúng khiến anh trở nên ngượng ngùng khi đi trên những con đường làng, cố tỏ ra giống như một vị tiên tri trẻ tuổi nhưng thực chất lại cảm thấy mình giống như một kẻ đang đeo mặt nạ giả trang.</p>
+
+<p class="para-en">He might have left the ministry but for the Reverend Andrew Pengilly, pastor of the Catawba Methodist Church.</p>
+
+<p class="para-vi-sub">Có lẽ anh đã rời bỏ giáo hội nếu không có Mục sư Andrew Pengilly, quản nhiệm Nhà thờ Giám lý Catawba.</p>
+
+<p class="para-en"><strong>III</strong></p>
+
+<p class="para-vi-sub"><strong>III</strong></p>
+
+<p class="para-en">If you had cut Andrew Pengilly to the core, you would have found him white clear through. He was a type of clergyman favored in pious fiction, yet he actually did exist.</p>
+
+<p class="para-vi-sub">Nếu xẻ đôi Andrew Pengilly ra đến tận cùng, người ta sẽ thấy ông hoàn toàn trong sạch từ trong ra ngoài. Ông là một mẫu giáo sĩ thường được ca ngợi trong văn tiểu thuyết sùng đạo, nhưng ngoài đời thực thì ông thực sự tồn tại.</p>
+
+<p class="para-en">To every congregation he had served these forty years, he had been a shepherd. They had loved him, listened to him, and underpaid him. In 1906, when Frank came to Catawba, <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly was a frail stooped veteran with silver hair, thin silver mustache, and a slow smile which embraced the world.</p>
+
+<p class="para-vi-sub">Đối với mỗi giáo đoàn mà ông đã phục vụ suốt bốn mươi năm qua, ông luôn là một người chăn chiên. Họ đã yêu mến ông, lắng nghe ông và trả lương cho ông bèo bọt. Vào năm 1906, khi Frank đến Catawba, <abbr epub:type="z3998:name-title">ông</abbr> Pengilly đã là một cựu chiến binh gầy gò còng lưng với mái tóc bạc phơ, bộ ria mép bạc mỏng manh và nụ cười từ tốn ôm trọn cả thế giới.</p>
+
+<p class="para-en">Andrew Pengilly had gone into the Civil War as a drummer boy, slept blanketless and barefoot and wounded in the frost of Tennessee mountains, and come out still a child, to “clerk in a store” and teach Sunday School. He had been converted at ten, but at twenty-five he was overpowered by the preaching of Osage Joe, the Indian evangelist, became a Methodist preacher, and never afterward doubted the peace of God. He was married at thirty to a passionate, singing girl with kind lips. He loved her so romantically﻿—just to tuck the crazy-quilt about her was poetry, and her cowhide shoes were to him fairy slippers﻿—he loved her so ungrudgingly that when she died, in childbirth, within a year after their marriage, he had nothing left for any other woman. He lived alone, with the undiminished vision of her. Not the most scandalmongering Mother in Zion had ever hinted that <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly looked damply upon the widows in his fold.</p>
+
+<p class="para-vi-sub">Andrew Pengilly từng bước vào cuộc Nội chiến với tư cách là một nhân viên bán hàng lưu động trẻ tuổi, từng ngủ không chăn, chân trần và chịu thương tích giữa giá lạnh của những ngọn núi Tennessee, rồi bước ra khỏi chiến tranh vẫn với tâm hồn trẻ thơ để rồi làm nhân viên bán hàng trong cửa hàng và dạy Trường Chúa nhật. Ông đã cải đạo từ năm lên mười, nhưng đến tuổi hai mươi lăm, ông bị thu phục bởi những bài giảng của Osage Joe, nhà truyền giáo người da đỏ, để rồi trở thành một mục sư Giám lý và chưa bao giờ một phút nghi ngờ sự bình an của Thượng Đế. Ông kết hôn ở tuổi ba mươi với một thiếu nữ đầy nhiệt huyết, thích ca hát và có đôi môi nhân hậu. Ông yêu cô đắm say đến mức chỉ cần đắp chiếc chăn chắp vá cho cô cũng đủ là thơ ca, và những đôi giày da bò của cô đối với ông chẳng khác nào giày thủy tinh của nàng tiên cá; ông yêu cô vô điều kiện đến nỗi khi cô qua đời vì sinh khó chỉ trong vòng một năm sau ngày cưới, trong lòng ông chẳng còn chỗ cho bất kỳ người phụ nữ nào khác. Ông sống độc thân với hình bóng không bao giờ phai nhạt về cô. Ngay cả những bà mẹ nhiều chuyện nhất trong giáo hội cũng chưa từng hé môi đồn đại rằng <abbr epub:type="z3998:name-title">ông</abbr> Pengilly có ý đồ ong bướm với những góa phụ trong đoàn chiên của mình.</p>
+
+<p class="para-en">Little book-learning had Andrew Pengilly in his youth, and to this day he knew nothing of Biblical criticism, of the origin of religions, of the sociology which was beginning to absorb church-leaders, but his Bible he knew, and believed, word by word, and somehow he had drifted into the reading of ecstatic books of mysticism. He was a mystic, complete; the world of plows and pavements and hatred was less to him than the world of angels, whose silver robes seemed to flash in the air about him as he meditated alone in his cottage. He was as ignorant of Modern Sunday School Methods as of single tax or Lithuanian finances, yet few Protestants had read more in the Early Fathers.</p>
+
+<p class="para-vi-sub">Andrew Pengilly có rất ít học vấn sách vở thời trẻ, và cho đến tận bây giờ ông vẫn mù tịt về phê bình Kinh Thánh, về nguồn gốc các tôn giáo, về xã hội học vốn đang bắt đầu thu hút các thủ lĩnh giáo hội, nhưng Kinh Thánh của ông thì ông nắm rõ và tin tưởng từng câu từng chữ, và chẳng hiểu bằng cách nào ông lại đâm ra say mê đọc những cuốn sách huyền học đầy xuất thần. Ông là một nhà huyền học thực thụ; thế giới của những chiếc cày bừa, những con đường nhựa và lòng thù hận đối với ông chẳng có nghĩa lý gì bằng thế giới của các thiên thần, những kẻ có chiếc áo choàng bằng bạc dường như lấp lánh trong không gian quanh ông mỗi khi ông trầm ngâm một mình trong ngôi nhà tranh. Ông dốt nát về Các phương pháp Trường Chúa nhật hiện đại chẳng kém gì về thuế đơn hay tài chính Litva, thế nhưng rất ít tín đồ Tin Lành nào từng đọc nhiều sách của các Giáo phụ thời kỳ đầu như ông.</p>
+
+<p class="para-en">On Frank Shallard’s first day in Catawba, when he was unpacking his books in his room at the residence of Deacon Halter, the druggist, the Reverend <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly was announced. Frank went down to the parlor (gilded cattails and a basket of stereopticon views) and his loneliness was warmed by <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly’s enveloping smile, his drawling voice:</p>
+
+<p class="para-vi-sub">Vào ngày đầu tiên của Frank Shallard tại Catawba, khi anh đang mở thùng đựng sách trong phòng ngủ tại nhà Chấp sự Halter, người bán thuốc, người ta loan tin rằng Mục sư <abbr epub:type="z3998:name-title">ông</abbr> Pengilly đang đến thăm. Frank bước xuống phòng khách, nơi có những cây đuôi mèo mạ vàng và một giỏ ảnh lập thể, và sự cô đơn của anh đã được sưởi ấm bởi nụ cười bao bọc của <abbr epub:type="z3998:name-title">ông</abbr> Pengilly cùng chất giọng bè sệt của ông:</p>
+
+<p class="para-en">“Welcome, Brother! I’m Pengilly, of the Methodist Church. I never was much of a hand at seeing any difference between the denominations, and I hope we’ll be able to work together for the glory of God. I do hope so! And I hope you’ll go fishing with me. I know,” enthusiastically, “a pond where there’s some elegant pickerel!”</p>
+
+<p class="para-vi-sub">“Chào mừng Sư huynh! Tôi là Pengilly, quản nhiệm Nhà thờ Giám lý. Tôi chưa bao giờ là người quá câu nệ về sự khác biệt giữa các hệ phái, và tôi hy vọng chúng ta sẽ có thể cùng nhau làm việc vì vinh quang của Thượng Đế. Tôi thực sự hy vọng thế! Và tôi hy vọng cậu sẽ đi câu cá với tôi. Tôi biết một cái ao,” ông hào hứng nói, “nơi có rất nhiều cá tầm hương tuyệt hảo!”</p>
+
+<p class="para-en">Many evenings they spent in <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly’s cottage, which was less littered and odorous than that of the village atheist, Doc Lem Staples, only because the stalwart ladies of <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly’s congregation vied in sweeping for him, dusting for him, disarranging his books and hen-tracked sermon-notes, and bullying him in the matters of rubbers and winter flannels. They would not let him prepare his own meals﻿—they made him endure the several boardinghouses in turn﻿—but sometimes of an evening he would cook scrambled eggs for Frank. He had pride in his cooking. He had never tried anything but scrambled eggs.</p>
+
+<p class="para-vi-sub">Nhiều buổi tối, hai người thường quây quần trong ngôi nhà nhỏ của Mục sư Pengilly. Nơi đây ít bề bộn và ít vương mùi hơn hẳn căn nhà của kẻ vô thần trong làng, Lão Lem Staples, đơn giản chỉ vì những nữ tín đồ xốc vác trong hội chúng của Mục sư Pengilly luôn tranh nhau quét dọn, lau bụi, đảo lộn tung tóe sách vở cùng những bản thảo bài giảng ngoằn ngoèo như gà bới của ông, đồng thời săm soi áp đảo ông trong chuyện nhắc nhở mặc áo mưa hay áo len mùa đông. Họ không đời nào để ông tự chuẩn bị bữa ăn, bắt ông phải chịu trận luân phiên tại các nhà trọ trong vùng, nhưng đôi khi vào buổi tối, ông vẫn tự tay tráng trứng cho Frank ăn. Ông rất tự hào về tài nghệ nấu nướng của mình, dẫu chưa từng thử nấu bất kỳ món nào khác ngoài trứng tráng.</p>
+
+<p class="para-en">His living-room was overpowering with portraits and carbon prints. Though every local official board pled with him about it, he insisted on including madonnas, cinquecento resurrections, <abbr>St.</abbr> Francis of Assisi, and even a Sacred Heart, with such Methodist worthies as Leonidas Hamline and the cloaked romantic Francis Asbury. In the bay window was a pyramid of wire shelves filled with geraniums. <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly was an earnest gardener, except during such weeks as he fell into dreams and forgot to weed and water, and through the winter he watched for the geranium leaves to wither enough so that he could pick them off and be able to feel busy.</p>
+
+<p class="para-vi-sub">Phòng khách nhà ông ngập tràn chân dung và tranh in thạch bản. Mặc dù mọi Ban Chấp sự Chính thức ở địa phương đều hết lời khuyên can, ông vẫn khăng khăng treo đủ các bức tranh Đức Mẹ, cảnh Phục sinh thời Cinquecento, Thánh Francis thành Assisi, thậm chí cả Trái Tim Cực Thánh, cạnh các bậc chân tu lừng lẫy của Giáo hội Giám lý như Leonidas Hamline và nhà lãng hành mặc áo choàng Francis Asbury. Ngay bên cửa sổ lồi là một giàn kệ dây leo chất đầy hoa phong lữ. Mục sư Pengilly là một người làm vườn nhiệt thành, ngoại trừ những tuần ông chìm đắm trong mộng tưởng để rồi quên bẵng việc làm cỏ hay tưới nước, và suốt cả mùa đông, ông cứ ngóng chờ cho những chiếc lá phong lữ héo úa vừa độ để có thể ngắt chúng đi và cảm thấy mình đang bận rộn.</p>
+
+<p class="para-en">All over the room were the aged dog and ancient cat, who detested each other, never ceased growling at each other, and at night slept curled together.</p>
+
+<p class="para-vi-sub">Khắp căn phòng là sự hiện diện của chú chó già và con mèo lão, hai sinh vật căm ghét cay đắng lẫn nhau, chẳng lúc nào ngớt gừ gừ hăm dọa đối phương, thế nhưng đêm đến lại cuộn tròn ngủ chung với nhau.</p>
+
+<p class="para-en">In an antiquated and badly listed rocking-chair, padded with calico cushions, Frank listened to <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly’s ramblings. For a time they talked only of externals; gossip of their parishes; laughter at the man who went from church to church fretting the respectable by shouting “Hallelujah”; local chatter not without a wholesome and comforting malice. Frank was at first afraid to bare his youthful hesitancies to so serene an old saint, but at last he admitted his doubts.</p>
+
+<p class="para-vi-sub">Ngồi trên chiếc ghế bập bênh cổ lỗ sĩ đã mòn vẹt, được đệm lót bằng những tấm vải hoa chintz, anh lắng nghe những lời tâm sự lan man của Mục sư Pengilly. Ban đầu, họ chỉ trò chuyện về những chuyện bên lề; bàn tán rôm rả về các giáo xứ; cười trừ trước gã đi hết nhà thờ này đến nhà thờ khác làm phiền lòng những kẻ bề thế bằng tiếng hô vang “Hallelujah”; những câu chuyện phiếm làng xã phảng phất sự mỉa mai lành mạnh và an ủi. Lúc đầu, anh còn e dè không dám phơi bày những nỗi hoài nghi tuổi trẻ trước một vị thánh già điềm tĩnh nhường ấy, nhưng cuối cùng anh cũng thú nhận những băn khoăn trong lòng.</p>
+
+<p class="para-en">How, he demanded, could you reconcile a Loving God with one who would strike down an Uzza for the laudable act of trying to save the Ark of the Covenant from falling, who would kill forty-two children (and somewhat ludicrously) for shouting at Elisha as any small boy in Catawba today would shout? Was it reasonable? And, if it wasn’t, if any part of the Bible was mythical, where to stop? How would we know if anything in the Bible was “inspired”?</p>
+
+<p class="para-vi-sub">Anh chất vấn rằng, làm sao có thể dung hòa một Thượng Đế đầy lòng từ ái với Đấng sẵn sàng đánh phạt chết tươi Uzza chỉ vì hành động đáng khen là cố gắng đỡ lấy Hòm Giao Ước khỏi bị rơi, hay kẻ tiêu diệt bốn mươi đứa trẻ (có phần buồn cười) chỉ vì chúng dám la ó Eliseo giống hệt cách bất kỳ đứa nhóc nào ở Catawba ngày nay vẫn làm? Liệu điều đó có hợp lý hay không? Và nếu không, nếu bất kỳ phần nào của Kinh Thánh chỉ là thần thoại, thì phải dừng lại ở đâu? Làm sao chúng ta biết được liệu bất cứ điều gì trong Kinh Thánh thực sự mang “sự linh hứng”?</p>
+
+<p class="para-en"><abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly was not shocked, nor was he very agitated. His thin fingers together, far down in his worn plush chair, he mused:</p>
+
+<p class="para-vi-sub">Mục sư Pengilly không hề tỏ ra kinh ngạc, cũng chẳng chút bấn loạn. Với những ngón tay gầy guộc đan vào nhau, lọt thỏm sâu trong chiếc ghế nhung đã sờn, ông trầm ngâm:</p>
+
+<p class="para-en">“Yes, I’m told the higher critics ask these things. I believe it bothers people. But I wonder if perhaps God hasn’t put these stumbling blocks in the Bible as a test of our faith, of our willingness to accept with all our hearts and souls a thing that may seem ridiculous to our minds? You see, our minds don’t go far. Think﻿—how much does even an astronomer know about folks on Mars, if there are any folks there? Isn’t it with our hearts, our faith, that we have to accept Jesus Christ, and not with our historical charts? Don’t we <em>feel</em> his influence on our lives? Isn’t it the biggest men that feel it the most? Maybe God wants to keep out of the ministry all the folks that are so stuck on their poor minds that they can’t be humble and just accept the great overpowering truth of Christ’s mercy. Do you﻿—When do you feel nearest to God? When you’re reading some awful smart book criticizing the Bible or when you kneel in prayer and your spirit just flows forth and you <em>know</em> that you’re in communion with him?”</p>
+
+<p class="para-vi-sub">“Ừ, ta nghe nói các nhà phê bình Kinh Thánh thường đặt ra những câu hỏi ấy. Ta tin là nó làm phiền lòng khối kẻ. Nhưng ta tự hỏi liệu có khi nào Thượng Đế cố tình đặt những hòn đá vấp vãnh ấy vào Kinh Thánh như một phép thử cho đức tin của chúng ta, thử xem liệu chúng ta có sẵn sàng đón nhận bằng cả trái tim và linh hồn mình một điều có vẻ ngớ ngẩn đối với lý trí hay không? Cháu thấy đấy, lý trí của chúng ta có đi được bao xa đâu. Thử nghĩ xem, ngay cả một nhà thiên văn học thì biết được bao nhiêu về những con người trên sao Hỏa, nếu ở đó thực sự có con người? Chẳng phải chúng ta phải đón nhận Chúa Giê-su Ki-tô bằng trái tim, bằng đức tin của mình, chứ có phải bằng những biểu đồ lịch sử đâu? Chẳng phải chúng ta đang <i>cảm nhận</i> được ảnh hưởng của Ngài lên cuộc đời mình đó sao? Chẳng phải những con người vĩ đại nhất là những kẻ cảm nhận điều đó rõ rệt nhất hay sao? Có lẽ Thượng Đế muốn loại bỏ khỏi hàng ngũ mục sư tất cả những kẻ cứ mãi bám chấp vào cái lý trí nghèo nàn của bản thân đến mức chẳng chịu khiêm nhường mà chỉ biết đón nhận chân lý vĩ đại choáng ngợp về lòng thương xót của Chúa Ki-tô. Cháu có thấy... Khi nào thì cháu cảm thấy mình gần gũi với Thượng Đế nhất? Là khi cháu đọc mấy cuốn sách khôn lỏi nào đó soi mói bắt bẻ Kinh Thánh, hay là khi cháu quỳ xuống cầu nguyện để tâm hồn tuôn trào và cháu <i>biết chắc</i> rằng mình đang được hiệp thông với Ngài?”</p>
+
+<p class="para-en">“Oh, of course﻿—”</p>
+
+<p class="para-vi-sub">“Ôi, dĩ nhiên là...”</p>
+
+<p class="para-en">“Don’t you think maybe he will explain all these puzzling things in his own good time? And meanwhile wouldn’t you rather be a help to poor sick worried folks than write a cute little book finding a fault?”</p>
+
+<p class="para-vi-sub">“Cháu có nghĩ rằng có lẽ Ngài sẽ tự mình giải thích tất cả những điều hóc búa ấy vào đúng thời điểm của Ngài không? Và trong lúc này, chẳng lẽ cháu không thà làm chỗ dựa cho những con người bệnh tật, khốn khổ và lo âu còn hơn là ngồi viết một cuốn sách nhỏ xíu ranh mãnh đi vạch lá tìm sâu hay sao?”</p>
+
+<p class="para-en">“Oh, well﻿—”</p>
+
+<p class="para-vi-sub">“Ôi, chà...”</p>
+
+<p class="para-en">“And has there ever been anything like the Old Book for bringing lost souls home to happiness? Hasn’t it <em>worked</em>?”</p>
+
+<p class="para-vi-sub">“Và từ trước đến nay, đã có thứ gì sánh được với Cuốn Sách Cổ ấy trong sứ mệnh đưa những linh hồn lầm lạc trở về với bến bờ hạnh phúc chưa? Chẳng phải nó đã <i>phát huy hiệu quả</i> đó sao?”</p>
+
+<p class="para-en">In Andrew Pengilly’s solacing presence these seemed authentic arguments, actual revelations; Bruno Zechlin was far off and gray; and Frank was content.</p>
+
+<p class="para-vi-sub">Trước sự hiện diện mang tính xoa dịu của Andrew Pengilly, tất cả những điều đó tựa hồ như những lập luận xác thực, những sự mặc khải đích thực; Bruno Zechlin bỗng trở nên mờ mịt và xa xôi; và lòng Frank thấy thật mãn nguyện.</p>
+
+<p class="para-en">Equally did <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly console him about the intelligent workmen who would have none of the church. The old man simply laughed.</p>
+
+<p class="para-vi-sub">Mục sư Pengilly cũng xoa dịu anh theo cách tương tự về những người thợ thuyền thông minh nhưng kiên quyết quay lưng với nhà thờ. Cụ già chỉ cười lớn.</p>
+
+<p class="para-en">“Good Heavens, boy! What do you expect, as a preacher? A whole world that’s saved, and nothing for you to do? Reckon you don’t get much salary, but how do you expect to earn that much? These folks don’t go to any Christian church? Huh! When the Master started out, wa’nt anybody going to a Christian church! Go out and get ’em!”</p>
+
+<p class="para-vi-sub">“Lạy Chúa tôi, cậu trai! Cậu còn mong đợi điều gì ở cương vị một người rao giảng hả? Cả thế giới này đã được cứu rỗi hết rồi thì còn việc gì cho cậu làm nữa? Chắc là cậu chẳng lãnh được bao nhiêu lương bổng, nhưng cậu nghĩ bằng cách nào mình xứng đáng nhận ngần ấy tiền? Mấy người đó không thèm đến nhà thờ Cơ Đốc giáo nào ư? Hừ! Khi Sư Tôn bước chân ra đi, nào có ai thèm đến nhà thờ Cơ Đốc giáo đâu! Hãy đi ra ngoài kia mà thu phục họ về!”</p>
+
+<p class="para-en">Which seemed disastrously reasonable to the shamed Frank; and he went out to get ’em, and didn’t do so, and continued in his ministry.</p>
+
+<p class="para-vi-sub">Lời nói ấy vang lên với một sự hợp lý đầy cay đắng đối với kẻ đang mang mặc cảm hổ thẹn như Frank; và anh đã bước ra ngoài để thu phục họ, để rồi chẳng thu được gì, và cứ thế tiếp tục con đường mục sư của mình.</p>
+
+<p class="para-en">He had heard in theological seminary of the “practise of the presence of God” as a papist mystery. Now he encountered it. <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly taught him to kneel, his mind free of all worries, all prides, all hunger, his lips repeating “Be thou visibly present with me”﻿—not as a charm but that his lips might not be soiled with more earthly phrases﻿—and, when he had become strained and weary and exalted, to feel a Something glowing and almost terrifying about him, and to experience thus, he was certain, the actual, loving, proven nearness of the Divinity.</p>
+
+<p class="para-vi-sub">Anh từng nghe đồn về khái niệm thực hành sự hiện diện của Thượng Đế như một thứ huyền bí giáo điều trong các chủng viện thần học. Giờ đây, anh đã thực sự trải nghiệm nó. Mục sư Pengilly dạy anh cách quỳ xuống, tâm trí hoàn toàn trống rỗng khỏi mọi bận âu, mọi kiêu căng, mọi khát vọng, đôi môi lặp đi lặp lại câu “Xin Ngài hãy hiện diện hữu hình cùng con” không phải như một thứ bùa chú mà để đôi môi không bị vấy bẩn bởi những ngôn từ phàm tục hơn; và rồi, khi bản thân đã trở nên căng thẳng, mệt mỏi và thăng hoa, anh cảm nhận được một Thực Thể rực rỡ và gần như đáng sợ đang bao trùm lấy mình, để qua đó, anh tin chắc rằng, mình đang chạm đến sự gần gũi thực sự, đầy yêu thương và đã được chứng thực của đấng Thần Linh.</p>
+
+<p class="para-en">He began to call his mentor Father Pengilly, and the old man eluded him only a little﻿ ﻿… presently did not chide him at all.</p>
+
+<p class="para-vi-sub">Anh bắt đầu gọi người thầy của mình là Cha Pengilly, và cụ già chỉ hơi né tránh đôi chút... rồi chẳng mấy chốc mà thôi chẳng quở trách anh lấy một lời.</p>
+
+<p class="para-en">For all his innocence and his mysticism, Father Pengilly was not a fool nor weak. He spoke up harshly to a loud-mouthed grocer, new come to town, who considered the patriarch a subject for what he called “kidding,” and who shouted, “Well, I’m getting tired of waiting for you preachers to pray for rain. Guess you don’t believe the stuff much yourselves!” He spoke up to old Miss Udell, the purity specialist of the town, when she came to snuffle that Amy Dove was carrying on with the boys in the twilight. “I know how you like a scandal, Sister,” said he. “Maybe taint Christian to deny you one. But I happen to know all about Amy. Now if you’d go out and help poor old crippled Sister Eckstein do her washing, maybe you’d keep busy enough so’s you could get along without your daily scandal.”</p>
+
+<p class="para-vi-sub">Dù mang bản tính ngây thơ và đượm màu huyền bí, Cha Pengilly không hề ngốc nghếch hay yếu đuối. Ông lớn tiếng quở trách một tên hàng xóm mới chuyển đến thị trấn, kẻ huênh hoang coi vị Chấp sự là đối tượng để đùa cợt rồi gào lên rằng: “Này, Frank phát ngấy cái cảnh chờ đợi mấy ông thầy tu tụi ông cầu mưa rồi đấy. Chắc chính các ông cũng chả tin mấy cái thứ đó lắm đâu!” Ông cũng chẳng nể nang gì Miss Udell già, mụ chuyên viên thanh lọc đạo đức của thị trấn, khi mụ đến để hếch mũi hít hà tố cáo Amy Dove đang tằng tịu với lũ trai tráng trong bóng chiều chạng vạng. “Tôi biết chị thích bê bối thế nào rồi đấy, Sơ ạ,” ông nói. “Có lẽ từ chối ban cho chị một vụ bê bối thì chẳng ra dáng Cơ Đốc nhân cho lắm. Nhưng ngẫu nhiên là tôi biết rõ mọi chuyện về Amy. Giờ nếu chị chịu ra ngoài giúp đỡ Sơ Eckstein tội nghiệp bị què quặt giặt giũ đống quần áo, có lẽ chị sẽ bận rộn đến mức chẳng còn thời gian mà hóng hớt mấy chuyện tai tiếng hằng ngày nữa.”</p>
+
+<p class="para-en">He had humor, as well, Father Pengilly. He could smile over the cranks in the congregation. And he liked the village atheist, Doc Lem Staples. He had him at the house, and it healed Frank’s spirit to hear with what beatific calm Father Pengilly listened to the Doc’s jibes about the penny-pinchers and the sinners in the church.</p>
+
+<p class="para-vi-sub">Cha Pengilly cũng có khiếu hài hước. Ông có thể mỉm cười trước những gã quái đản trong giáo đoàn. Và ông quý người theo chủ nghĩa tự do tư tưởng của làng, Doc Lem Staples. Ông mời hắn đến nhà, và điều đó xoa dịu tâm hồn Frank khi nghe Cha Pengilly điềm tĩnh lắng nghe những lời châm chọc của Doc về những kẻ keo kiệt và những tội nhân trong nhà thờ với một vẻ bình thản thánh thiện.</p>
+
+<p class="para-en">“Lem,” said Father Pengilly, “you’ll be surprised at this, but I must tell you that there’s two-three sinners in your fold, too. Why, I’ve heard of even horse-thieves that didn’t belong to churches. That must prove something, I guess. Yes, sir, I admire to hear you tell about the kindhearted atheists, after reading about the cannibals, who are remarkably little plagued with us Methodists and Baptists.”</p>
+
+<p class="para-vi-sub">“Lem,” Cha Pengilly nói, “cậu sẽ ngạc nhiên khi nghe điều này, nhưng tôi phải nói với cậu rằng trong đàn chiên của tôi cũng có vài ba kẻ tội nhân đấy. Chà, thậm chí tôi còn nghe nói có cả những tên trộm ngựa mà chẳng thuộc giáo hội nào nữa cơ. Chắc điều đó cũng chứng minh được điều gì đó đấy. Vâng, thưa anh bạn, tôi rất ngưỡng mộ khi nghe cậu kể về những kẻ vô thần tốt bụng, sau khi đọc về những kẻ ăn thịt người, những kẻ vốn chẳng mấy khi bị mấy ông Giám lý và Báp-tít tụi mình làm cho phiền lòng.”</p>
+
+<p class="para-en">Not in his garden only but in the woods, along the river, Father Pengilly found God in Nature. He was insane about fishing﻿—though indifferent to the catching of any actual fish. Frank floated with him in a mossy scow, in a placid backwater under the willows. He heard the gurgle of water among the roots and watched the circles from a leaping bass. The old man (his ruddy face and silver mustache shaded by a shocking hayfield straw hat) hummed “There’s a wideness in God’s mercy like the wideness of the sea.” When Father Pengilly mocked him, “And you have to go to books to find God, young man!” then Frank was content to follow him, to be his fellow preacher, to depend more on Pengilly’s long experience than on irritating questions, to take any explanation of the validity of the Bible, of the mission of the church, the leadership of Christ, which might satisfy this soldier of the cross.</p>
+
+<p class="para-vi-sub">Không chỉ trong khu vườn mà ngay cả trong những khu rừng, dọc theo bờ sông, Cha Pengilly vẫn tìm thấy Thượng Đế trong Thiên Nhiên. Ông phát cuồng vì câu cá, mặc dù chẳng màng đến việc bắt được một con cá nào thực sự. Frank chèo thuyền cùng ông trên một chiếc xuồng phủ đầy rêu, ở một khúc sông phẳng lặng dưới bóng những rặng liễu. Anh nghe tiếng nước róc rách qua các rễ cây và ngắm nhìn những vòng sóng lan ra từ một con cá vược nhảy lên. Ông cụ (với khuôn mặt hồng hào và bộ ria mép bạc phơ bị che khuất bởi chiếc mũ rơm làm cỏ khô trông đến là buồn cười) ngân nga câu hát “Có sự rộng lượng trong lòng thương xót của Chúa, giống như sự bao la của đại dương.” Khi Cha Pengilly trêu chọc anh rằng, “Và cháu lại phải tìm đến sách vở để kiếm tìm Thượng Đế đấy, cậu trai!”, khi đó Frank cảm thấy mãn nguyện khi được đi theo ông, làm một người đồng sự giảng đạo với ông, dựa dẫm vào bề dày kinh nghiệm của Pengilly nhiều hơn là những thắc mắc phiền toái, chấp nhận bất kỳ lời giải thích nào về tính xác thực của Kinh Thánh, về sứ mệnh của giáo hội, về sự dẫn dắt của Chúa Kitô, những thứ có thể làm hài lòng người chiến sĩ của cây thánh giá này.</p>
+
+<p class="para-en">Frank became more powerful as a preacher. He went from Catawba, via pastorates in two or three larger towns, to Eureka, a camp of forty thousand brisk industrialists, and here he was picked up and married by the amiable Bess.</p>
+
+<p class="para-vi-sub">Frank ngày càng trở nên mạnh mẽ hơn trong vai trò một mục sư. Anh chuyển từ Thị trấn Catawba, qua các xứ đạo ở hai hoặc ba thị trấn lớn hơn, đến Eureka, một trại công nghiệp với bốn mươi nghìn công nhân nhanh nhẹn, và tại đây anh đã được Bess dễ mến để ý và cưới làm chồng.</p>
+
+<p class="para-en"><strong>IV</strong></p>
+
+<p class="para-vi-sub"><strong>IV</strong></p>
+
+<p class="para-en">Bess Needham, later to be Bess Shallard, was remarkably like a robin. She had the same cheerfulness, the same round ruddiness, and the same conviction that early rising, chirping, philoprogenitiveness, and strict attention to food were the aims of existence. She had met Frank at a church “social,” she had pitied what she regarded as his underfed pallor, she had directed her father, an amiable and competent dentist, to invite Frank home, for “a real feed” and bright music on the phonograph. She listened fondly to his talk﻿—she had no notion what it was about, but she liked the sound of it.</p>
+
+<p class="para-vi-sub">Bess Needham, sau này là Bess Shallard, trông giống y hệt một con chim cổ đỏ. Cô có sự vui vẻ hệt như vậy, sự hồng hào tròn trịa hệt như vậy, và cùng một niềm xác tín rằng việc thức dậy sớm, hót líu lo, ham sinh sôi nảy nở cùng sự chú ý nghiêm ngặt đến chuyện ăn uống chính là mục đích của sự tồn tại. Cô đã gặp Frank tại một buổi sinh hoạt nhà thờ, cô đã thương hại cái mà cô cho là vẻ xanh xao vì thiếu ăn của anh, cô đã chỉ đạo cha mình, một nha sĩ tử tế và tài năng, mời Frank về nhà để được ăn một bữa thịnh soạn thực sự và nghe những giai điệu tươi vui phát ra từ chiếc máy hát đĩa. Cô đắm chìm lắng nghe những lời anh nói, dẫu chẳng hiểu anh đang nói về cái gì, nhưng cô thích âm thanh của những lời đó.</p>
+
+<p class="para-en">He was stirred by her sleek neck, her comfortable bosom, by the dimpled fingers which stroked his hair before he knew that he longed for it. He was warmed by her assertion that he “put it all over” the <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Dr.</abbr> Seager, the older Baptist parson in Eureka. So she was able to marry him without a struggle, and they had three children in the shortest possible time.</p>
+
+<p class="para-vi-sub">Anh bị kích thích bởi chiếc cổ nhẵn nhụi của cô, bởi bầu ngực đầy đặn dễ chịu, bởi những ngón tay có lúm đồng tiền vuốt ve mái tóc anh trước khi anh kịp nhận ra mình khao khát điều đó đến nhường nào. Anh cảm thấy ấm lòng trước lời khẳng định của cô rằng anh đã vượt mặt hoàn toàn Mục sư Tiến sĩ Seager, vị mục sư Báp-tít lớn tuổi hơn ở Eureka. Thế là cô đã có thể kết hôn với anh mà không gặp chút khó khăn nào, và họ có với nhau ba mặt con trong khoảng thời gian ngắn nhất có thể.</p>
+
+<p class="para-en">She was an admirable wife and mother. She filled the hot water bottle for his bed, she cooked corn beef and cabbage perfectly, she was polite to the most exasperating parishioners, she saved money, and when he sat with fellow clerics companionably worrying about the sacraments, she listened to him, and him alone, with beaming motherliness.</p>
+
+<p class="para-vi-sub">Cô là một người vợ và người mẹ tuyệt vời. Cô đổ nước nóng đầy bình cho giường ngủ của anh, cô nấu món bò muối bắp cải hoàn hảo đến mức không chê vào đâu được, cô lịch sự với cả những giáo dân khó tính nhất, cô biết tiết kiệm tiền, và khi anh ngồi cùng các đồng nghiệp lo lắng tâm sự về các bí tích, cô lắng nghe anh, chỉ một mình anh với tình yêu thương bao la ngập tràn của người mẹ.</p>
+
+<p class="para-en">He realized that with a wife and three children he could not consider leaving the church; and the moment he realized it he began to feel trapped and to worry about his conscience all the more.</p>
+
+<p class="para-vi-sub">Anh nhận ra rằng với một người vợ và ba đứa con, anh không thể nghĩ đến việc rời khỏi nhà thờ; và ngay khoảnh khắc nhận ra điều đó, anh bắt đầu cảm thấy mình như rơi vào bẫy và càng lo lắng hơn về lương tâm của chính mình.</p>
+
+<p class="para-en"><strong>V</strong></p>
+
+<p class="para-vi-sub"><strong>V</strong></p>
+
+<p class="para-en">There was, in Eureka, with its steel mills, its briskness, its conflict between hard-fisted manufacturers and hardheaded socialists, nothing of the contemplation of Catawba, where thoughts seemed far-off stars to gaze on through the mist. Here was a violent rush of ideas, and from this rose the “Preachers’ Liberal Club,” toward which Frank was drawn before he had been in Eureka a fortnight.</p>
+
+<p class="para-vi-sub">Ở Eureka, với những nhà máy thép, sự nhộn nhịp, và cuộc xung đột giữa những nhà tư bản keo kiệt và những kẻ xã hội chủ nghĩa đầu óc thực tế, hoàn toàn không có sự chiêm nghiệm như ở Catawba, nơi những suy nghĩ tựa như những vì sao xa xôi để ngắm nhìn qua làn sương mù. Nơi đây là một luồng tư tưởng ào ạt tuôn trào, và từ đó đã sinh ra Câu lạc bộ Tự do của các Mục sư, nơi Frank bị thu hút vào đó từ trước khi anh đặt chân đến Eureka được nửa tháng.</p>
+
+<p class="para-en">The ringleader of these liberals was Hermann Kassebaum, the modernist rabbi﻿—young, handsome, black of eye and blacker of hair, full of laughter, regarded by the elect of the town as a shallow charlatan and a dangerous fellow, and actually the most scholarly man Frank had ever encountered, except for Bruno Zechlin. With him consorted a placidly atheistic Unitarian minister, a Presbyterian who was orthodox on Sunday and revolutionary on Monday, a wavering Congregationalist, and an Anglo-Catholic Episcopalian, who was enthusiastic about the beauties of the ritual and the Mithraic origin of the same.</p>
+
+<p class="para-vi-sub">Kẻ cầm đầu của nhóm những người tự do này là Hermann Kassebaum, vị giáo sĩ Do Thái theo chủ nghĩa hiện đại, trẻ tuổi, đẹp trai, mắt đen và tóc còn đen hơn, đầy ắp tiếng cười, bị những kẻ ưu tú trong thị trấn coi là một tên lang băm nông cạn và một kẻ nguy hiểm, nhưng thực chất lại là người uyên bác nhất mà Frank từng gặp, ngoại trừ Bruno Zechlin. Tụ tập cùng gã ta còn có một mục sư phái Nhất vị luận theo chủ nghĩa vô thần điềm tĩnh, một tín đồ Giám lý vào ngày Chủ nhật nhưng lại nổi loạn vào ngày Thứ Hai, một tín đồ Giáo hội Tự trị còn đang dao động, và một giáo sĩ Anh giáo theo khuynh hướng Giáo hội Cao, người rất nhiệt tình với vẻ đẹp của các nghi lễ cũng như nguồn gốc Mithra của chúng.</p>
+
+<p class="para-en">And Frank’s fretting wearily started all over again. He reread Harnack’s <i epub:type="se:name.publication.book">What Is Christianity?</i> Sunderland’s <i epub:type="se:name.publication.book">Origin and Nature of the Bible</i>, James’s <i epub:type="se:name.publication.book">Varieties of Religious Experience</i>, Fraser’s <i epub:type="se:name.publication.book">Golden Bough</i>.</p>
+
+<p class="para-vi-sub">Và nỗi dằn vặt mệt mỏi của Frank lại bắt đầu tái diễn. Anh đọc lại cuốn <i epub:type="se:name.publication.book">Kitô giáo là gì?</i> của Harnack, cuốn <i epub:type="se:name.publication.book">Nguồn gốc và Bản chất của Kinh Thánh</i> của Sunderland, cuốn <i epub:type="se:name.publication.book">Các trạng thái trải nghiệm tôn giáo</i> của James, và cuốn <i epub:type="se:name.publication.book">Nhánh cây vàng</i> của Fraser.</p>
+
+<p class="para-en">He was in the pleasing situation where whatever he did was wrong. He could not content himself with the discussions of the Liberal Club. “If you fellows believe that way, why don’t you get out of the church?” he kept demanding. Yet he could not leave them; could not, therefore, greatly succeed among the Baptist brethren. His good wife, Bess, when he diffidently hinted of his doubts, protested, “You can’t reach people just through their minds. Besides, they wouldn’t understand you if you <em>did</em> come right out and tell ’em the truth﻿—as you see it. They aren’t ready for it.”</p>
+
+<p class="para-vi-sub">Anh đang lâm vào cái thế kẹt khó xử mà hễ cứ làm gì là sai nấy. Anh không thể tự mãn nguyện với những cuộc tranh luận tại Câu lạc bộ Tự do. “Nếu các cậu thực sự suy nghĩ theo hướng đó, tại sao các cậu không rời khỏi nhà thờ?” anh cứ gặng hỏi mãi. Thế nhưng, anh lại chẳng thể dứt áo ra đi; vì thế, anh cũng chẳng tài nào đạt được thành công lớn lao gì giữa các anh em Giáo hội Báp-tít. Người vợ hiền thảo của anh là Bess, khi nghe anh rụt rè bóng gió về những hoài nghi của mình, liền phản đối, “Anh không thể tiếp cận lòng người chỉ qua lý trí của họ được đâu. Hơn nữa, họ sẽ chẳng hiểu anh nổi nếu anh <i>thực sự</i> nói thẳng ra sự thật theo cách anh nhìn nhận. Họ chưa sẵn sàng đón nhận điều đó đâu.”</p>
+
+<p class="para-en">His worst doubt was the doubt of himself. And in this quite undignified wavering he remained, envying equally Rabbi Kassebaum’s public scoffing at all religion and the thundering certainties of the cover-to-cover evangelicals. He who each Sunday morning neatly pointed his congregation the way to Heaven was himself tossed in a Purgatory of self-despising doubt, where his every domestic virtue was cowardice, his every mystic aspiration a superstitious mockery, and his every desire to be honest a cruelty which he must spare Bess and his well-loved brood.</p>
+
+<p class="para-vi-sub">Mối hoài nghi tồi tệ nhất của anh chính là hoài nghi về bản thân mình. Và anh cứ mãi chìm đắm trong trạng thái dao động đầy kém cỏi ấy, vừa ganh tị với những lời công khai giễu cợt mọi tôn giáo của Giáo sĩ Kassebaum, vừa ghen tị với những chân lý sấm sét chắc như đinh đóng cột của đám tín đồ truyền giáo bảo thủ tôn thờ từng câu chữ trong Kinh Thánh. Con người vào mỗi sáng Chúa nhật vẫn khéo léo chỉ đường dẫn lối cho giáo đoàn của mình về Thiên đàng ấy lại đang tự mình oằn mình trong Luyện ngục của nỗi hoài nghi tự khinh miệt, nơi mọi đức tính gia đình của anh đều hóa thành sự hèn nhát, mọi khát vọng huyền bí đều thành trò nhạo báng mê tín, và mọi mong muốn sống thành thật lại là một sự tàn nhẫn mà anh buộc phải tha cho Bess cùng bầy con thơ yêu dấu.</p>
+
+<p class="para-en">He was in this mood when the Reverend Elmer Gantry suddenly came, booming and confident, big and handsome and glossy, into his study, and explained that if Frank could let him have a hundred dollars, Elmer, and presumably the Lord, would be grateful and return the money within two weeks.</p>
+
+<p class="para-vi-sub">Anh đang ở trong tâm trạng ấy thì Mục sư Elmer Gantry đột ngột xuất hiện, vang dội và tự tin, to lớn, bảnh bao và bóng bẩy bước vào phòng làm việc của anh, rồi giải thích rằng nếu Frank có thể cho mình vay một trăm đô-la, thì Elmer, và phỏng chừng là cả Chúa nữa, sẽ vô cùng biết ơn và sẽ hoàn trả lại số tiền ấy trong vòng hai tuần.</p>
+
+<p class="para-en">The sight of Elmer as a fellow pastor was too much for Frank. To get rid of him, he hastily gave Elmer the hundred he had saved up toward payment of the last two obstetrical bills, and sat afterward at his desk, his head between his lax hands, praying, “O Lord, guide me!”</p>
+
+<p class="para-vi-sub">Cảnh tượng Elmer xuất hiện trong tư cách một đồng nghiệp mục sư quả thực quá sức chịu đựng đối với Frank. Để tống khứ gã đi cho khuất mắt, anh vội vã đưa cho Elmer một trăm đô-la mà anh đã dành dụm để trả hai hóa đơn sinh nở cuối cùng, rồi thừ người ngồi bên bàn làm việc sau đó, hai tay ôm lấy đầu, khẩn cầu, “Lạy Chúa, xin hãy dẫn dắt con!”</p>
+
+<p class="para-en">He leapt up. “No! Elmer said the Lord had been guiding <em>him</em>! I’ll take a chance on guiding myself! I will﻿—” Again, weakly, “But how can I hurt Bess, hurt my dad, hurt Father Pengilly? Oh, I’ll go on!”</p>
+
+<p class="para-vi-sub">Anh bật dậy. “Không! Elmer bảo rằng Chúa đã dẫn dắt anh ta cơ mà! Ta sẽ đánh cược một phen để tự dẫn dắt lấy mình! Ta sẽ...” Lại một lần nữa, yếu mềm, anh tự nhủ, “Nhưng làm sao mình có thể làm tổn thương Bess, làm tổn thương bố, làm tổn thương Cha Pengilly đây? Ôi, thôi cứ tiếp tục chịu đựng vậy!”</p>

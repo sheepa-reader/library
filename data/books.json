@@ -1,5 +1,251 @@
 [
   {
+    "id": "elmer-gantry",
+    "title": "Elmer Gantry",
+    "originalTitle": "Elmer Gantry",
+    "series": "",
+    "volume": "",
+    "author": "Sinclair Lewis",
+    "translator": "Sheepa",
+    "year": "1927",
+    "category": "Kinh Điển • Hiện Thực • Trào Phúng",
+    "tags": [
+      "Kinh Điển",
+      "Hiện Thực",
+      "Trào Phúng",
+      "Văn Học Mỹ"
+    ],
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "cover": "content/books/elmer-gantry/cover.jpg",
+    "icon": "public/icons/glyph_sheep_open_book.png",
+    "description": "Một gã đội trưởng bóng bầu dục mê rượu chè, cờ bạc và đàn bà, bỗng chốc khoác lên mình chiếc áo mục sư với giọng nam trung trầm ấm như đàn cello, đứng trên bục giảng thét vang những lời rao giảng đạo đức đầy khí thế, để rồi phía sau ánh hào quang ấy là một bộ máy tính toán tham vọng, quyền lực và sự tự dối mình tinh vi. Elmer Gantry không chỉ phơi bày một kẻ cơ hội khoác áo tôn giáo, mà còn soi thẳng vào cơn khát niềm tin, sự sùng bái hào nhoáng và thói đạo đức giả của cả một thời đại.",
+    "hasBilingual": true,
+    "downloads": {
+      "epub": "content/downloads/elmer-gantry.epub",
+      "pdf": "",
+      "bilingual": "content/downloads/elmer-gantry-song-ngu.epub",
+      "bilingualEpub": "content/downloads/elmer-gantry-song-ngu.epub"
+    },
+    "publishedAt": "2026-11-24",
+    "rating": {
+      "score": 4.01,
+      "count": "6.6k"
+    },
+    "awards": [
+      "Tiểu thuyết bán chạy nhất nước Mỹ năm 1927",
+      "Tác phẩm trọng điểm mang lại Giải Nobel Văn học năm 1930 cho Sinclair Lewis (Nhà văn Mỹ đầu tiên đoạt giải Nobel)",
+      "Bản chuyển thể điện ảnh kinh điển (1960) xuất sắc giành 3 giải Oscar"
+    ],
+    "authorId": "sinclair-lewis",
+    "downloadCountstart": 250,
+    "genres": [
+      "Kinh Điển",
+      "Hiện Thực",
+      "Trào Phúng"
+    ],
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Chương 1",
+        "path": "content/books/elmer-gantry/chuong-1.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-1.md"
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương 2",
+        "path": "content/books/elmer-gantry/chuong-2.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-2.md"
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương 3",
+        "path": "content/books/elmer-gantry/chuong-3.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-3.md"
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 4",
+        "path": "content/books/elmer-gantry/chuong-4.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 5",
+        "path": "content/books/elmer-gantry/chuong-5.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 6",
+        "path": "content/books/elmer-gantry/chuong-6.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 7",
+        "path": "content/books/elmer-gantry/chuong-7.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 8",
+        "path": "content/books/elmer-gantry/chuong-8.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 9",
+        "path": "content/books/elmer-gantry/chuong-9.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 10",
+        "path": "content/books/elmer-gantry/chuong-10.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 11",
+        "path": "content/books/elmer-gantry/chuong-11.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 12",
+        "path": "content/books/elmer-gantry/chuong-12.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 13",
+        "path": "content/books/elmer-gantry/chuong-13.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 14",
+        "path": "content/books/elmer-gantry/chuong-14.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 15",
+        "path": "content/books/elmer-gantry/chuong-15.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 16",
+        "path": "content/books/elmer-gantry/chuong-16.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 17",
+        "path": "content/books/elmer-gantry/chuong-17.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 18",
+        "path": "content/books/elmer-gantry/chuong-18.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 19",
+        "path": "content/books/elmer-gantry/chuong-19.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 20",
+        "path": "content/books/elmer-gantry/chuong-20.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 21",
+        "path": "content/books/elmer-gantry/chuong-21.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 22",
+        "path": "content/books/elmer-gantry/chuong-22.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 23",
+        "path": "content/books/elmer-gantry/chuong-23.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 24",
+        "path": "content/books/elmer-gantry/chuong-24.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 25",
+        "path": "content/books/elmer-gantry/chuong-25.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 26",
+        "path": "content/books/elmer-gantry/chuong-26.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 27",
+        "path": "content/books/elmer-gantry/chuong-27.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 28",
+        "path": "content/books/elmer-gantry/chuong-28.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương 29",
+        "path": "content/books/elmer-gantry/chuong-29.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 30",
+        "path": "content/books/elmer-gantry/chuong-30.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 31",
+        "path": "content/books/elmer-gantry/chuong-31.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 32",
+        "path": "content/books/elmer-gantry/chuong-32.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 33",
+        "path": "content/books/elmer-gantry/chuong-33.md",
+        "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-33.md"
+      }
+    ]
+  },
+  {
     "id": "cuon-sach-nay-khien-anh-nho-em",
     "title": "Cuốn Sách Này Khiến Anh Nhớ Em",
     "originalTitle": "This Book Made Me Think of You",
