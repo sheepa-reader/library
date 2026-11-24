@@ -1,8 +1,6 @@
 # Chương XX
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">He had two days to prepare his first sermon and unpack his trunk, his bags, and the books which he had purchased in Zenith.</p>
 
@@ -24,9 +22,7 @@
 
 <p class="para-vi-sub">Thực ra gã đã có đủ một thư viện, điều mà ông Toomis từng dí dỏm gọi là pháo binh của Chúa in trên giấy trắng mực đen, để có thể nắm rõ mọi chi tiết trong việc hành nghề Người Tốt Chuyên Nghiệp. Gã sẽ có thể tạo ra những bài giảng chứa đựng lượng thông tin phong phú về địa lý Palestine, đồng thời lại hữu ích cho những tín đồ có ý định lén lút đọc tạp chí vào ngày Sa-bát. Nhờ sự dẫn dắt đó, gã có thể gia tăng số lượng tín đồ cho giáo hội, gã có thể đưa ra lời khuyên cho những thanh niên lầm đường lạc lối, gã có thể gây quỹ truyền giáo để những kẻ ngoại đạo ở Calcutta và Bắc Kinh có thể có cơ hội trở nên giống như Elmer Gantry.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Though Cleo took him for a drive through the country, most of the time before Sunday he dedicated to refurbishing a sermon which he had often and successfully used with Sharon. The text was from Romans 1:16: “For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to everyone that believeth.”</p>
 
@@ -108,9 +104,7 @@
 
 <p class="para-vi-sub">Và cô tiến lại gần gã với hai bàn tay giơ ra, và gã suýt nữa đã hôn cô.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Sunday School was held after morning service. Elmer determined that he was not going to attend Sunday School every week﻿—“not on your life; sneak in a nap before dinner”﻿—but this morning he was affably and expansively there, encouraging the little ones by a bright short talk in which he advised them to speak the truth, obey their fathers and mothers, and give heed to the revelations of their teachers, such as Miss Mittie Lamb, the milliner, and Oscar Scholtz, manager of the potato warehouse.</p>
 
@@ -128,9 +122,7 @@
 
 <p class="para-vi-sub">“Cô ấy sẽ là một người vợ và người mẹ tuyệt vời, một người vợ tuyệt vời cho một mục sư, một người vợ tuyệt vời cho một giám mục”, gã thầm ghi nhận.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Evening services at the Banjo Crossing Methodist Church had normally drawn less than forty people, but there were a hundred tonight, when, fumblingly, Elmer broke away from old-fashioned church practise and began what was later to become his famous Lively Sunday Evenings.</p>
 
@@ -200,9 +192,7 @@
 
 <p class="para-vi-sub">“Ồ, vâng, vâng, vâng, thật tuyệt vời làm sao, vinh quang huy hoàng của Tình yêu Thiên Chúa. Các vị có <i>cảm nhận</i> được điều đó không? Ý tôi là thế đấy. Tôi không chỉ muốn nói đến sự chấp nhận sụt sùi, lười biếng, máy móc, mà là một sự khao khát nồng cháy...”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">He had them!</p>
 
@@ -232,17 +222,13 @@
 
 <p class="para-vi-sub">Cô nói như một kẻ đang mộng du, cô dường như không biết rằng gã đang nắm lấy tay mình thật dịu dàng, cô bước ra khỏi nhà thờ bên cạnh gã, lặng thinh, và trước vẻ thánh thiện xuất thần của cô, gã cảm thấy hơi kính sợ.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">In his attention to business, Elmer had not given especial heed to the collections. It had not been carelessness, for he knew his technique as a Professional Good Man. But the first day, he felt, he ought to establish himself as a spiritual leader, and when they all understood that, he would see to it that they paid suitably for the spiritual leadership. Was not the Laborer worthy of his Hire?</p>
 
 <p class="para-vi-sub">Trong sự tập trung cho công việc kinh doanh, gã đã không chú ý đặc biệt đến các khoản tiền quyên góp. Đó không phải là sự bất cẩn, vì gã rất rành kỹ thuật của một Kẻ Thiện Lương Chuyên nghiệp. Nhưng ngày đầu tiên, gã cảm thấy mình phải thiết lập vị thế như một lãnh đạo tâm linh, và khi tất cả bọn họ đã hiểu điều đó, gã sẽ đảm bảo rằng họ phải trả thù lao xứng đáng cho vị lãnh đạo tâm linh ấy. Chẳng phải người lao động xứng đáng với tiền công của mình sao?</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">The reception to welcome Elmer was held the next Tuesday evening in the basement of the church. From seven-thirty, when they met, till a quarter of eight, he was busy with a prodigious amount of handshaking.</p>
 
@@ -268,9 +254,7 @@
 
 <p class="para-vi-sub">Mọi thứ rất buồn tẻ và, đối với gã, lại vô cùng dễ chịu. Gã cảm thấy được chấp nhận, an toàn và sẵn sàng bắt đầu công việc của mình.</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">He had plans for the Wednesday evening prayer-meeting. He knew what a prayer-meeting in Banjo Crossing would be like. They would drone a couple of hymns and the faithful, half a dozen of them, always using the same words, would pop up and mumble, “Oh, I thank the Lord that he has revealed himself to me and has shown me the error of my ways and oh that those who have not seen his light and whose hearts are heavy with sin may turn to him this evening while they still have life and breath”﻿—which they never did. And the sullenly unhappy woman in the faded jacket, at the back, would demand, “I want the prayers of the congregation to save my husband from the sins of smoking and drinking.”</p>
 
@@ -316,9 +300,7 @@
 
 <p class="para-vi-sub">Nhưng gã thấy rằng nếu muốn chiếm giữ vị trí tương xứng với mình trong vương quốc tôn giáo, gã phải học tập, phải thu thập thêm nhiều ý tưởng và vô số từ ngữ mới, để rồi kết hợp lại nhằm khai sáng cho thế hệ đương thời.</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">His duties at Banjo Crossing were not violent, and hour after hour, in his quiet chamber at the residence of the Widow Clark, he gave himself trustingly to scholarship.</p>
 
@@ -380,9 +362,7 @@
 
 <p class="para-vi-sub">“Được rồi, lạy Chúa”, vị thánh bị đánh giá sai lầm nổi giận, và: “Ồ, quỷ tha ma bắt, xá gì mấy chuyện đó. Dù sao thì cũng có chứng chỉ rồi, và ông ta bảo mình có thể lấy bằng Cử nhân Thần học bằng cách vượt qua kỳ thi. Vấn đề với lão Trosper là lão ta cứ hay ra vẻ thông thái. Mặc thây lão.”</p>
 
-<p class="para-en"><strong>X</strong></p>
-
-<p class="para-vi-sub"><strong>X</strong></p>
+### X
 
 <p class="para-en">Along with his theological and ecclesiastical researches, Elmer applied himself to more worldly literature. He borrowed books from Cleo and from the tiny village library, housed in the public school; and on his occasional trips to Sparta, the nearest sizable city, he even bought a volume or two, when he could find good editions secondhand.</p>
 
@@ -516,9 +496,7 @@
 
 <p class="para-vi-sub">Rồi gã đụng độ Josiah Royce.</p>
 
-<p class="para-en"><strong>XI</strong></p>
-
-<p class="para-vi-sub"><strong>XI</strong></p>
+### XI
 
 <p class="para-en">Bishop Wesley <abbr epub:type="z3998:given-name">R.</abbr> Toomis had suggested to Elmer that he ought to read philosophy, and he had recommended Royce. He himself, he said, hadn’t been able to give so much time to Royce as he would have liked, but he knew that here was a splendid field for any intellectual adventurer. So Elmer came back from Sparta with the two volumes of Royce’s <i epub:type="se:name.publication.book">The World and the Individual</i>, and two new detective stories.</p>
 
@@ -560,9 +538,7 @@
 
 <p class="para-vi-sub">Từ đó về sau, gã không bao giờ đọc thêm bất kỳ cuốn triết học nào uyên thâm hơn tác phẩm của Wallace D. Wattles hay Edward Bok nữa.</p>
 
-<p class="para-en"><strong>XII</strong></p>
-
-<p class="para-vi-sub"><strong>XII</strong></p>
+### XII
 
 <p class="para-en">He did not neglect his not very arduous duties. He went fishing﻿—which gained him credit among the males. He procured a dog, also a sound, manly thing to do, and though he occasionally kicked the dog in the country, he was clamorously affectionate with it in town. He went up to Sparta now and then to buy books, attend the movies, and sneak into theaters; and though he was tempted by other diversions even less approved by the Methodist Discipline, he really did make an effort to keep from falling.</p>
 

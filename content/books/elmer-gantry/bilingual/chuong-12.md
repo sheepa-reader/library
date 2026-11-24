@@ -1,8 +1,6 @@
 # Chương XII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Two more series of meetings Sharon Falconer held that summer, and at each of them the power in the machinery world appeared and chronicled his conversion by the Gideon Bible and the eloquence of Sister Falconer.</p>
 
@@ -164,9 +162,7 @@
 
 <p class="para-vi-sub">Nụ hôn của cô nhẹ tựa cánh én lướt qua, và gã vâng lời bước ra ngoài, ngẩn ngơ tự hỏi làm sao mà Elmer Gantry có lúc lại yêu sâu đậm đến mức chẳng mủm mỉm khăng khăng đòi hỏi chuyện ái ân.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">In New York he had bought a suit of Irish homespun and a heather cap. He looked bulky but pleasantly pastoral as he gaped romantically from the Pullman window at the fields of Virginia. “Ole Virginny﻿—ole Virginny,” he hummed happily. Worm fences, negro cabins, gallant horses in rocky pastures, a longing to see the gentry who rode such horses, and ever the blue hills. It was an older world than his baking Kansas, older than Mizpah Seminary, and he felt a desire to be part of this traditional age to which Sharon belonged. Then, as the miles which still separated him from the town of Broughton crept back of him, he forgot the warm-tinted land in anticipation of her.</p>
 
@@ -276,9 +272,7 @@
 
 <p class="para-vi-sub">Nhưng ngày tháng Mười ngập tràn ánh nắng thanh bình đến mức chẳng phù hợp với sự ngổ ngáo của gã, thế là họ ngoan ngoãn dìu nhau lên đồi, tay trong tay đung đưa, họ điềm đạm trò chuyện, gã đã cố gắng hết sức để xứng tầm với gia phả nhà Falconer, một dinh thự cổ, và những người vú nuôi da màu, về những hiểm họa đe dọa nhân loại của phong trào Phê bình Kinh Thánh và tài năng của <abbr epub:type="z3998:given-name">E. O.</abbr> Excell trong vai trò một nhà soạn nhạc thánh ca nhưng mang giai điệu cực kỳ bắt tai.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">While he dressed, that is, while he put on the brown suit and a superior new tie, Elmer worried. This sure intimacy was too perfect. Sharon had spoken vaguely of brothers, of high-nosed aunts and cousins, of a cloud of Falconer witnesses, and the house was large enough to secrete along its corridors a horde of relatives. Would he, at dinner, have to meet hostile relics who would stare at him and make him talk and put him down as a piece of Terwillinger provinciality? He could see the implications in their level faded eyes; he could see Sharon swayed by their scorn and delivered from such uncertain fascination as his lustiness and boldness had cast over her.</p>
 
@@ -500,9 +494,7 @@
 
 <p class="para-vi-sub">Câu thơ đó Elmer Gantry chẳng bao giờ đọc hết, bởi vì Sharon Falconer ngả người sang một bên khi đang quỳ trước bàn thờ, rồi lả vào vòng tay Elmer Gantry, đôi môi hé mở.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">They sat on the hilltop, looking down on noon in the valley, sleepily talking till he roused with: “Why won’t you marry me?”</p>
 

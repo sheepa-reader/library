@@ -1,8 +1,6 @@
 # Chương XIV
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Sedate as a long married couple, intimate and secure, were Elmer and Sharon on most days, and always he was devoted. It was Sharon who was incalculable. Sometimes she was a priestess and a looming disaster, sometimes she was intimidating in grasping passion, sometimes she was thin and writhing and anguished with chagrined doubt of herself, sometimes she was pale and nun-like and still, sometimes she was a chilly business woman, and sometimes she was a little girl. In the last, quite authentic role, Elmer loved her fondly﻿—except when she assumed it just as she was due to go out and hypnotize three thousand people.</p>
 
@@ -36,9 +34,7 @@
 
 <p class="para-vi-sub">Và hai tiếng sau, khi cả hai ngồi trên xe taxi trở về khách sạn, cô lại nức nở vùi đầu vào ngực gã: “Ôm em thật chặt vào. Em thấy cô đơn, sợ hãi và lạnh lẽo quá.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Among his various relations to her, Elmer was Sharon’s employee. And he resented the fact that she was making five times more than he of that money for which he had a reverent admiration.</p>
 
@@ -64,9 +60,7 @@
 
 <p class="para-vi-sub">Và rồi qua tháng này qua tháng khác, cô không bao giờ đả động gì đến chuyện tiền lương nữa. Điều đó khiến gã thấy gai mắt. Gã thừa biết cô kiếm được hơn hai mươi nghìn một năm, và chẳng mấy chốc cô sẽ thu về đến năm mươi nghìn. Nhưng vì quá yêu cô nên gã hiếm khi nghĩ về điều đó quá ba hay bốn lần một tháng.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Sharon continued to house her troupe in hotels, for independence. But an unfortunate misunderstanding came up. Elmer had stayed late in her room, engaged in a business conference, so late that he accidentally fell asleep across the foot of her bed. So tired were they both that neither of them awoke till nine in the morning, when they were aroused by Adelbert Shoop knocking and innocently skipping in.</p>
 
@@ -92,9 +86,7 @@
 
 <p class="para-vi-sub">Họ củng cố sự trung thành của gã bằng những lời nịnh nọt, và viên Nhân viên bán hàng lưu động nhận lệnh phải tìm cho bằng được một căn nhà rộng rãi có sẵn nội thất tại thành phố tiếp theo mà họ đặt chân tới.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">The renting of furnished houses for the Falconer Evangelistic Party was a ripe cause for new quarrels with local committees, particularly after the party had left town.</p>
 
@@ -116,9 +108,7 @@
 
 <p class="para-vi-sub">Từ những vụ rắc rối đòi bồi thường, Elmer đã học được một mẹo vặt khá khôn ngoan để cắt giảm chi phí. Vào ngày kết thúc thời gian lưu trú, họ cứ lờ đi không chịu trả tiền thuê nhà. Sau khi đã rời đi, họ mới thông báo cho ủy ban địa phương rằng phía ủy ban từng hứa sẽ lo chỗ ăn ở miễn phí, và sự việc chỉ đơn giản có thế thôi... Đã có rất nhiều thư từ qua lại được tốn giấy mực.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">One of Sharon’s chief troubles was getting her crew to bed. Like most actors, they were high-strung after the show. Some of them were too nervous to sleep till they had read the <i epub:type="se:name.publication.magazine">Saturday Evening Post</i>; others never could eat till after the meetings, and till one o’clock they fried eggs and scrambled eggs and burnt toast and quarreled over the dish-washing. Despite their enlightened public stand against the Demon Rum, some of the performers had to brace up their nerves with an occasional quart of whisky, and there was dancing and assorted glee.</p>
 
@@ -136,9 +126,7 @@
 
 <p class="para-vi-sub">Sau những ngày mà Art Nichols, tay kèn cornet, cùng Adolph Klebs, tay vĩ cầm, bị những trận đau đầu như búa bổ vào lúc mười giờ sáng đến mức phải uống thuốc giải rượu khẩn cấp, sẽ lại là những ngày mà tất cả bọn họ, kể cả Art và Adolph, bỗng trở nên sùng đạo đến mức cuồng loạn, khi mà họ thầm kín cầu nguyện, ăn năn, rồi cất cao giọng với những tiếng ngân nga nức nở đầy ngây ngất thánh thiện, khiến Sharon phải bực bội thốt lên rằng cô chẳng biết mình nên thích bị đánh thức bởi những trò náo loạn địa ngục hay bởi những khúc alleluia hơn nữa. Thế nhưng, có lần cô vẫn mua hẳn một chiếc máy hát xách tay cho họ, kèm theo vô số đĩa nhạc, một nửa là những bản nhạc nhảy cuồng nhiệt và nửa kia là các bài thánh ca.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">Though her presence nearly took away his need of other stimulants, of tobacco and alcohol and most of his cursing, it was a year before Elmer was altogether secure from the thought of them. But gradually he saw himself certain of future power and applause as a clergyman. His ambition became more important than the titillation of alcohol, and he felt very virtuous and pleased.</p>
 

@@ -1,8 +1,6 @@
 # Chương IX
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The relations of Brother Gantry and Brother Shallard were not ardent, toward Chrismastide, even in the intimacy of pumping a handcar.</p>
 
@@ -44,9 +42,7 @@
 
 <p class="para-vi-sub">Elmer ngồi trong phòng mình, sục sôi niềm kiêu hãnh chiến thắng của một nhà truyền giảng. Gã thành tâm đến mức phải mất một lúc lâu mới nhớ ra rằng từ nay anh sẽ không còn là vật cản cho mối quan hệ giữa gã và Lulu Bains nữa.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">A score of times before March, in her own house, in an abandoned log barn, at the church, Elmer contrived to have meetings with Lulu. But he wearied of her trusting babble. Even her admiration, since she always gushed the same things in the same way, began to irritate him. Her lovemaking was equally unimaginative. She always kissed and expected to be kissed in the same way. Even before March he had had enough, but she was so completely devoted to him that he wondered if he might not have to give up the Schoenheim church to get rid of her. He felt injured.</p>
 
@@ -72,9 +68,7 @@
 
 <p class="para-vi-sub">Gã sẽ phải đối xử phũ phàng để cô ta chán ngấy lên thì thôi.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">They were alone in the Schoenheim church after morning meeting. She had whispered to him at the door, “I’ve got something I have to tell you.”</p>
 
@@ -340,9 +334,7 @@
 
 <p class="para-vi-sub">Chủ nhật tuần đó, cô không xuất hiện ở nhà thờ. Elmer cảm thấy vô cùng đắc ý đến mức gã lại tơ tưởng đến chuyện hẹn hò với cô thêm lần nữa.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Deacon Bains and his good wife had noticed how pale and absentminded was their normally bouncing daughter.</p>
 
@@ -464,9 +456,7 @@
 
 <p class="para-vi-sub">Vào những vùng đất ấy và trong những năm tháng ấy, thường hay diễn ra những nghi thức được gọi là Đám cưới chạy bầu.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">The Reverend Elmer Gantry was reading an illustrated pink periodical devoted to prizefighters and chorus girls in his room at Elizabeth J. Schmutz Hall late of an afternoon when two large men walked in without knocking.</p>
 
@@ -592,9 +582,7 @@
 
 <p class="para-vi-sub">Gã ngủ lại đó qua đêm, và vì tràn trề ái tình thánh thiện nên khi cả nhà đã chìm vào giấc ngủ, gã liền lẻn vào phòng ngủ của cô. Cô cựa mình trên gối rồi thì thào: “Ôi, người yêu dấu của anh. Và anh đã tha thứ cho em. Ôi, em yêu anh biết bao” trong khi gã hôn mái tóc thơm ngát của cô.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">It was usual for the students of Mizpah to let Dean Trosper know if they should become engaged. The dean recommended them for ministerial appointments, and the status of marriage made a difference. Bachelors were more likely to become assistants in large city churches; married men, particularly those whose wives had lively piety and a knowledge of cooking, were usually sent to small churches of their own.</p>
 
@@ -620,9 +608,7 @@
 
 <p class="para-vi-sub">“Quái quỷ thật, ý ông ta là gì nhỉ?” gã lầm bầm phàn nàn trên đường về nhà.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">He had to work quickly. He had less than two months before the threatened marriage.</p>
 

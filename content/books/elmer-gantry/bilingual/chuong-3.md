@@ -1,8 +1,6 @@
 # Chương III
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Early in January was the Annual College <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr> Week of Prayer. It was a countrywide event, but in Terwillinger College it was of especial power that year because they were privileged to have with them for three days none other than Judson Roberts, State Secretary of the <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr>, and a man great personally as well as officially.</p>
 
@@ -276,9 +274,7 @@
 
 <p class="para-vi-sub">Nhưng gã vẫn đến buổi nhóm họp của Judson Roberts vào tối hôm sau, không có Jim đi cùng để bảo vệ. Jim ở lại nhà với tâm trạng tồi tệ đến mức gã đã phải gọi bác sĩ rồi lẻn ra khỏi phòng suốt cả buổi chiều.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">It was undoubtedly Eddie who wrote or telegraphed to <abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry that she would do well to be present at the meeting. Paris was only forty miles from Gritzmacher Springs.</p>
 
@@ -324,9 +320,7 @@
 
 <p class="para-vi-sub">Khi bước ra ngoài, gã ngoái lại nhìn Jim. Cậu đang ngồi dậy run rẩy trên giường, ánh mắt đầy khẩn khoản.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">The climactic meeting of the Annual Prayer Week, to be addressed by President Quarles, four ministers, and a rich trustee who was in the pearl-button business, with Judson Roberts as star soloist, was not held at the <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr> but at the largest auditorium in town, the Baptist Church, with hundreds of townpeople joining the collegians.</p>
 
@@ -652,9 +646,7 @@
 
 <p class="para-vi-sub">Cứ thế trong suốt một giờ bước đi chóng mặt, lúc thì lạnh buốt vì hoài nghi hơn là vì cơn gió thảo nguyên, lúc thì lấy lại được phần nào sự phấn khích của cuộc phiêu lưu tâm linh, nhưng lúc nào gã cũng biết rằng mình phải thú nhận với một Jim vô cùng cứng rắn.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">It was after one. Surely Jim would be asleep, and by next day there might be a miracle. Morning always promises miracles.</p>
 
@@ -880,9 +872,7 @@
 
 <p class="para-vi-sub">“Xàm ghê. Chắc gì tối nay có đứa nào ở đó từng đọc Ingersoll. Cứ vặn lại hắn là xong. Hơn nữa tao sẽ tự sửa đi đổi lại một chút.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">When President Quarles called for him, Elmer’s exhortation was outlined, and he had changed to his Sunday-best blue serge double-breasted suit and sleeked his hair.</p>
 
@@ -896,9 +886,7 @@
 
 <p class="para-vi-sub">“Cậu xuống địa ngục đi.” gã đáp.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">There was a sizable and extremely curious gathering at the <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr> All day the campus had debated, “Did Hellcat really sure-enough get saved? Is he going to cut out his hell-raising?”</p>
 
@@ -968,9 +956,7 @@
 
 <p class="para-vi-sub">“Ồ” gã khiêm tốn đáp, “tôi hầu như chẳng dám nhận chúng là của mình đâu, thưa Giáo sư. Chắc là tôi chỉ nhận được chúng nhờ cầu nguyện thôi.”</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">Judson Roberts, ex-football-star, state secretary of the <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr>, was on the train to Concordia, Kansas. In the vestibule he had three puffs of an illegal cigarette and crushed it out.</p>
 
@@ -980,9 +966,7 @@
 
 <p class="para-vi-sub">“Không, thực ra việc đó không đến nỗi tệ đối với anh ta, cái tên Elmer gì gì đó, khi cải đạo. Giả sử chẳng có chút tâm linh nào trong chuyện đó đi chăng nữa. Dù sao thì việc bỏ bớt một vài thói hư tật xấu trong một thời gian cũng chẳng hại gì cho anh ta. Và làm sao mà chúng ta biết được chứ? Biết đâu Đức Thánh Linh thực sự giáng lâm thì sao. Chẳng hề phi lý hơn điện năng là mấy. Ước gì tôi có thể rũ bỏ được mối hoài nghi này. Tôi quên bén nó đi khi làm cho đám đông phấn khích trong một buổi nhóm truyền giáo, nhưng khi ngắm nhìn một tên đồ tể lực lưỡng như anh ta, với cái vẻ mặt cười cợt ngu ngốc chết tiệt trên đôi má ấy, tôi tin là mình sẽ chuyển sang kinh doanh bất động sản mất thôi. Tôi không nghĩ mình đang làm tổn hại đến những thanh niên này, nhưng tôi thực sự ước gì mình có thể sống thành thật. Ôi Chúa ơi, Chúa ơi, Chúa ơi, ước gì tôi có một công việc thật tốt là đi bán bất động sản.”</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">Elmer walked home firmly. “Just what right has <abbr epub:type="z3998:name-title">Mr.</abbr> James <abbr epub:type="z3998:given-name">B.</abbr> Lefferts got to tell me I mustn’t use my ability to get a crowd going? And I certainly had ’em going! Never knew I could spiel like that. Easy as feetball! And Prexy saying I was a born preacher! Huh!”</p>
 

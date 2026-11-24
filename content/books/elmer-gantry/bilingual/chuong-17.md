@@ -1,8 +1,6 @@
 # Chương XVII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Frank Shallard had graduated from Mizpah Theological Seminary and taken his first pulpit. And now that he was a minister, theoretically different from all ordinary people, he was wondering whether there was any value to the ministry whatever.</p>
 
@@ -76,9 +74,7 @@
 
 <p class="para-vi-sub">Chỉ nửa tiếng sau buổi Lễ phong chức mục sư và những lời chào mừng có phần an ủi từ các kỳ cựu trong giới mục vụ, anh đâm ra căm ghét chính mình, khao khát đến cháy bỏng được trốn chạy, thế nhưng thói quen truyền thống mang tên không muốn làm tổn thương cha lại một lần nữa ngăn cản anh sống thật với lòng mình. Thế là anh cứ tiếp tục ở lại nhà thờ... để rồi thay vì chỉ làm tổn thương cha mình trong một ngày, anh lại tiếp tục dằn vặt ông trong suốt nhiều năm trời.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">It was a lonely and troubled young man, the Frank Shallard who for his first pastorate came to the Baptist Church at Catawba, a town of eighteen hundred, in the same state with Zenith and the Mizpah Seminary. The town liked him, and did not take him seriously. They said his sermons were “real poetic”; they admired him for being able to sit with old <abbr epub:type="z3998:name-title">Mrs.</abbr> Randall, who had been an invalid for thirty years, a bore for sixty, and never ill a day in her life. They admired him for trying to start a boys’ club, though they did not go so far in their support as to contribute anything. They all called him “Reverend,” and told him that he was amazingly sound in doctrine for one so unfortunately well educated; and he stayed on, in a vacuum.</p>
 
@@ -184,9 +180,7 @@
 
 <p class="para-vi-sub">Có lẽ anh đã rời bỏ giáo hội nếu không có Mục sư Andrew Pengilly, quản nhiệm Nhà thờ Giám lý Catawba.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">If you had cut Andrew Pengilly to the core, you would have found him white clear through. He was a type of clergyman favored in pious fiction, yet he actually did exist.</p>
 
@@ -300,9 +294,7 @@
 
 <p class="para-vi-sub">Frank ngày càng trở nên mạnh mẽ hơn trong vai trò một mục sư. Anh chuyển từ Thị trấn Catawba, qua các xứ đạo ở hai hoặc ba thị trấn lớn hơn, đến Eureka, một trại công nghiệp với bốn mươi nghìn công nhân nhanh nhẹn, và tại đây anh đã được Bess dễ mến để ý và cưới làm chồng.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Bess Needham, later to be Bess Shallard, was remarkably like a robin. She had the same cheerfulness, the same round ruddiness, and the same conviction that early rising, chirping, philoprogenitiveness, and strict attention to food were the aims of existence. She had met Frank at a church “social,” she had pitied what she regarded as his underfed pallor, she had directed her father, an amiable and competent dentist, to invite Frank home, for “a real feed” and bright music on the phonograph. She listened fondly to his talk﻿—she had no notion what it was about, but she liked the sound of it.</p>
 
@@ -320,9 +312,7 @@
 
 <p class="para-vi-sub">Anh nhận ra rằng với một người vợ và ba đứa con, anh không thể nghĩ đến việc rời khỏi nhà thờ; và ngay khoảnh khắc nhận ra điều đó, anh bắt đầu cảm thấy mình như rơi vào bẫy và càng lo lắng hơn về lương tâm của chính mình.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">There was, in Eureka, with its steel mills, its briskness, its conflict between hard-fisted manufacturers and hardheaded socialists, nothing of the contemplation of Catawba, where thoughts seemed far-off stars to gaze on through the mist. Here was a violent rush of ideas, and from this rose the “Preachers’ Liberal Club,” toward which Frank was drawn before he had been in Eureka a fortnight.</p>
 

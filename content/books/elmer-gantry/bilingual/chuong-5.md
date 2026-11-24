@@ -1,8 +1,6 @@
 # Chương V
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">In the cottonwood grove by the muddy river, three miles west of Paris, Kansas, the godly were gathered with lunch-baskets, linen dusters, and moist unhappy babies for the all-day celebration. Brothers Elmer Gantry and Edward Fislinger had been licensed to preach before, but now they were to be ordained as full-fledged preachers, as Baptist ministers.</p>
 
@@ -48,9 +46,7 @@
 
 <p class="para-vi-sub">Và dẫu cho suýt trượt môn tiếng Hy Lạp, bài luận của gã với tựa đề “Mười sáu cách để trả nợ cho nhà thờ” đã giành được giải thưởng mười đô la trong môn Thuyết giảng học.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">He walked among the Kayooska Valley communicants, beside his mother. She was a small-town business woman; she was not unduly wrinkled or shabby; indeed she wore a good little black hat and a new brown silk frock with a long gold chain; but she was inconspicuous beside his bulk and sober magnificence.</p>
 
@@ -148,9 +144,7 @@
 
 <p class="para-vi-sub">“Ôi, không đâu. Sẽ chẳng bao giờ có chuyện con và Mẹ không còn là đôi bạn thân thiết nhất, hay chuyện con không cần đến nguồn cảm hứng từ những lời cầu nguyện của Mẹ.” Elmer đáp bằng giọng điệu du dương cùng tiếng cười nam tính nhưng đầy tao nhã.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">They were assembling on benches, wagon-seats and boxes for the ceremony of ordination.</p>
 

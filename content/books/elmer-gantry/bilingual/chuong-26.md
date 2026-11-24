@@ -1,8 +1,6 @@
 # Chương XXVI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">In the autumn of his first year in Zenith Elmer started his famous Lively Sunday Evenings. Mornings, he announced, he would give them solid religious meat to sustain them through the week, but Sunday evenings he would provide the best cream puffs. Christianity was a Glad Religion, and he was going to make it a lot gladder.</p>
 
@@ -72,9 +70,7 @@
 
 <p class="para-vi-sub">Thế nhưng gã liền thanh minh rằng gã coi cô Coey chẳng khác nào một con ngốc, rằng chạm vào cô ta chỉ tổ làm gã phát tởm, rằng gã đối xử nhã nhặn với cô ta chẳng qua vì mục đích quảng bá tên tuổi, và Cleo thấy rằng mọi việc đều đường đường chính chính và thật cao thượng làm sao... ngay cả khi trên những bản tin phát hành hàng tuần của nhà thờ do chính tay gã viết, gã đã hân hoan tuyên bố: “Nào, tất cả chúng ta hãy cùng chúc mừng Sư muội Coey, người đang đại diện vô cùng rực rỡ cho nghệ thuật trong cộng đồng chúng ta, vì bài viết xuất sắc của cô trên tờ <i epub:type="se:name.publication.newspaper">Gazette</i> gần đây về người đàn bà nghiện ngượu đã được Cứu Thế Quân cứu rỗi. Mục sư của các bạn đã cảm thấy dòng nước mắt nóng hổi chực trào lên khóe mi khi đọc nó, đó chính là minh chứng cho tài năng biểu đạt của Sư muội Coey. Và ngài luôn hoan hỉ được giao lưu với Cứu Thế Quân, cũng như với tất cả các nhánh khác của Giáo hội Tin Lành Phổ quát Chân chính. Nhà thờ Giám lý Wellspring chính là ngôi nhà của lòng khoan dung, miễn là nó không làm xói mòn đạo đức hay các nguyên tắc đã được kiểm chứng của Kitô giáo Kinh Thánh.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">As important as publicity to Elmer was the harassing drive of finance.</p>
 
@@ -104,9 +100,7 @@
 
 <p class="para-vi-sub">Nhờ có ông Webster và ông Wink gánh vác hộ phần lớn các công việc vụn vặt của nhà thờ, Elmer không những không rảnh rỗi hơn mà lại càng bận rộn thêm. Gã không chỉ đơn thuần mời mọc công chúng nữa, mà phóng xe hộc tốc ra ngoài rồi lôi cổ họ vào. Gã không chỉ đơn thuần mắng mỏ tội lỗi. Gã trực tiếp tiêu diệt nó vô cùng mãn nguyện.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">When he had been in Zenith for a year and three-quarters, Elmer formed the Committee on Public Morals, and conducted his raids on the red-light district.</p>
 
@@ -272,9 +266,7 @@
 
 <p class="para-vi-sub">“Tuyệt cú mèo. Mà tôi biết một tay, gã từng là đặc vụ liên bang thuộc đội kiểm soát Lệnh Cấm rượu, nhưng bị sa thải vì tội uống rượu chè và tống tiền. Gã không hẳn là kẻ lật lọng, đàng hoàng hơn đa số mấy tay đặc vụ kiểm soát Lệnh Cấm rượu khác, nhưng tôi nghĩ gã có thể tuồn cho chúng ta vài địa chỉ chính xác. Để tôi bảo gã qua gặp anh.”</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">When from his pulpit the Reverend Elmer Gantry announced that the authorities of Zenith were “deliberately conniving in protected vice,” and that he could give the addresses and ownerships of sixteen brothels, eleven blind tigers, and two agencies for selling cocaine and heroin, along with an obscene private burlesque show so dreadful that he could only hint at the nature of its program, when he attacked the chief of police and promised to give more detailed complaints next Sunday, then the town exploded.</p>
 
@@ -316,9 +308,7 @@
 
 <p class="para-vi-sub">“Tôi biết chứ. Tôi chỉ định chọn vài tên tép riu tự nấu rượu lậu và chẳng có sự bảo kê nào của cảnh sát ngoài việc nhét năm mươi hay một trăm đô cho tên cảnh sát khu vực thôi. Báo chí sẽ thêu dệt chúng thành những tên gangster giết người không gớm tay để câu khách, thế là chúng ta vừa có tiếng tăm mà chẳng cần phải liều lĩnh hay dại dột làm gì.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">At least a thousand people were trying to get near the Central Police Station on the evening when a dozen armed policemen marched down the steps of the station-house and stood at attention, looking up at the door, awaiting their leader.</p>
 
@@ -336,9 +326,7 @@
 
 <p class="para-vi-sub">Gã đã hứa với đám đông ít nhất một ổ mại dâm chính hiệu.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">There were two amiable young females who, tired of working in a rather nasty bread factory and of being unremuneratively seduced by the large, pale, puffy bakers on Sunday afternoons, had found it easier and much jollier to set up a small flat in a street near Elmer’s church. They were fond of reading the magazines and dancing to the phonograph and of going to church﻿—usually Elmer’s church. If their relations to their gentlemen friends were more comforting than a preacher could expect, after his experience of the sacred and chilly state of matrimony, they entertained only a few of these friends, often they darned their socks, and almost always they praised Elmer’s oratory.</p>
 
@@ -380,9 +368,7 @@
 
 <p class="para-vi-sub">Rồi Elmer dẫn họ đến một sào huyệt bí mật, nơi theo những nguồn tin đáng tin cậy, đàn ông đang hủy hoại thể xác và tâm hồn mình bằng cách nốc thứ nước giải khát của quỷ dữ là cồn.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en"><abbr epub:type="z3998:name-title">Mr.</abbr> Oscar Hochlauf had been a saloon-keeper in the days before prohibition, but when prohibition came, he was a saloon-keeper. A very sound, old-fashioned, drowsy, agreeable resort was Oscar’s Place; none of the grander public houses had more artistic soap scrawls on the mirror behind the bar; none had spicier pickled herring.</p>
 
@@ -440,9 +426,7 @@
 
 <p class="para-vi-sub">Và Bill Kingdom lầm bầm với chính mình: “Vị mục sư dũng cảm đơn thương độc mã đối đầu với quán rượu đầy những tên côn đồ hiểm ác và quở trách chúng vì đã dám mạo phạm danh thánh Chúa. Ồ, tôi sẽ vớ được một bài báo hay tuyệt cú mèo... Sau đó có lẽ tôi sẽ tự sát cho rồi.”</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">The attendant crowd and the policemen had whispered that, from the careful way in which he followed instead of leading, it might be judged that the Reverend Lieutenant Gantry was afraid of the sinister criminals whom he was attacking. And it is true that Elmer had no large fancy for revolver duels. But he had not lost his delight in conflict; he was physically no coward; and they were all edified to see this when the raiders dashed into the resort of Nick Spoletti.</p>
 
@@ -460,9 +444,7 @@
 
 <p class="para-vi-sub">“Chà trời, vị mục sư này ra đòn nặng đô thật đấy chứ”, viên trung sĩ lầm bầm càu nhàu, còn Bill Kingdom thở dài: “Cũng ra trò phết đấy chứ”, và Elmer biết rằng mình đã chiến thắng... rằng gã sẽ là người hùng của Thành phố Zenith... rằng giờ đây gã vừa là hiệp sĩ Lancelot vừa là William Jennings Bryan của Giáo hội Giám lý.</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">After two more raids he was delivered at his home by patrol wagon, and left with not entirely sardonic cheers by the policemen.</p>
 

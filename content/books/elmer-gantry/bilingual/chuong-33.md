@@ -1,8 +1,6 @@
 # Chương XXXIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">When <abbr epub:type="z3998:name-title">Mr.</abbr> Mannie Silverhorn awoke at ten, with a head, he remembered that he had been talking, and with agitation he looked at the morning’s <i epub:type="se:name.publication.newspaper">Advocate-Times</i>. He was cheered to see that there was no trace of his indiscretion.</p>
 
@@ -12,17 +10,13 @@
 
 <p class="para-vi-sub">Nhưng vào sáng hôm sau, ông Silverhorn và Mục sư Tiến sĩ Gantry gần như cùng một lúc chú ý thấy trên trang nhất tờ <i epub:type="se:name.publication.newspaper">Advocate-Times</i> đăng bản chụp một văn bản trong đó Emmanuel Silverhorn, luật sư, khẳng định rằng trừ khi Tiến sĩ Gantry chịu dàn xếp ngoài tòa, nếu không gã sẽ bị ông Oscar Dowler kiện vì tội làm rạn nứt tình cảm vợ chồng, mà theo Dowler, Tiến sĩ Gantry đã lợi dụng người vợ của ông ta không thể bào chữa.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">It was not so much the clamor of the Zenith reporters, tracking him from his own house to that of <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg and out to the country﻿—it was not so much the sketches of his career and hints of his uncovered wickedness in every Zenith paper, morning and evening﻿—it was not so much the thought that he had lost the respect of his congregation. What appalled him was the fact that the Associated Press spread the story through the country, and that he had telegrams from <abbr epub:type="z3998:name-title">Dr.</abbr> Wilkie Bannister of the Yorkville Methodist Church and from the directors of the Napap to the effect: Is this story true? Until the matter is settled, of course we must delay action.</p>
 
 <p class="para-vi-sub">Không phải vì sự săn lùng ráo riết của đám phóng viên Thành phố Zenith, đeo bám gã từ tận nhà riêng cho đến nhà của T. J. Rigg rồi ra tận vùng ngoại ô, cũng không phải vì những bài viết phác thảo cuộc đời gã cùng những lời ám chỉ về thói đồi bại bị phơi bày trên mọi tờ báo Zenith buổi sáng lẫn buổi chiều, và cũng chẳng phải vì ý nghĩ rằng gã đã đánh mất sự tôn trọng của các tín đồ trong giáo đoàn. Điều khiến gã chết điếng chính là việc Hãng thông tấn Associated Press đã lan truyền câu chuyện này đi khắp cả nước, và việc gã nhận được những bức điện từ Tiến sĩ Wilkie Bannister thuộc Nhà thờ Giám lý Yorkville cùng các giám đốc của Hiệp hội Quốc gia Thanh lọc Nghệ thuật và Báo chí với nội dung: “Câu chuyện này có thật không? Cho đến khi sự việc được giải quyết, dĩ nhiên chúng tôi phải tạm hoãn mọi hành động.”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">At the second conference with Mannie Silverhorn and Oscar Dowler, Hettie was present, along with Elmer and <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg, who was peculiarly amiable.</p>
 
@@ -128,9 +122,7 @@
 
 <p class="para-vi-sub">Đó là sáng thứ Bảy.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">The afternoon papers had front-page stories reproducing Hettie’s confession, joyfully announcing Elmer’s innocence, recounting his labors for purity, and assaulting the booze interests which had bribed this poor, weak, silly girl to attack Elmer.</p>
 
@@ -140,9 +132,7 @@
 
 <p class="para-vi-sub">Trước tám giờ sáng Chúa nhật, những bức điện tín từ Nhà thờ Giám lý Yorkville và Hiệp hội Quốc gia Thanh lọc Nghệ thuật và Báo chí đã gửi tới, chúc mừng Elmer, khẳng định rằng họ chưa từng hoài nghi sự vô tội của gã, đồng thời ngỏ ý mời gã nhận chức quản nhiệm tại Yorkville và tổng thư ký điều hành của hiệp hội.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">When the papers had first made charges against Elmer, Cleo had said furiously, “Oh, what a wicked, wicked lie﻿—darling, you know I’ll stand back of you!” but his mother had crackled, “Just how much of this is true, Elmy? I’m getting kind of sick and tired of your carryings on!”</p>
 
@@ -156,9 +146,7 @@
 
 <p class="para-vi-sub">“Ôi anh yêu, em thật sự rất vui và tự hào!” Cleo kêu lên; còn mẹ Elmer, một bà lão đã còng lưng và trông vô cùng khổ sở, lẩm bẩm: “Ôi, xin hãy tha thứ cho mẹ, con trai của mẹ! Mẹ đã tệ hại chẳng khác nào con mụ Dowler kia!”</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">But for all that, would his congregation believe him?</p>
 

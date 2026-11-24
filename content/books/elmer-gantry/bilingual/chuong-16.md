@@ -1,8 +1,6 @@
 # Chương XVI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Though to the commonplace and unspeculative eye <abbr epub:type="z3998:name-title">Mrs.</abbr> Evans Riddle was but a female blacksmith, yet <abbr epub:type="z3998:name-title">Mrs.</abbr> Riddle and her followers knew, in a bland smirking way, that she was instituting an era in which sickness, poverty, and folly would be ended forever.</p>
 
@@ -20,9 +18,7 @@
 
 <p class="para-vi-sub">Bà ta có cả một đội ngũ nhân sự, bao gồm một đạo sư Hindu chính hiệu, dù sao thì ông ta cũng là một người Hindu chính hiệu, nhưng bà ta vẫn đang tìm kiếm một trợ lý cao cấp.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">The Reverend Elmer Gantry had failed as an independent evangelist.</p>
 
@@ -108,9 +104,7 @@
 
 <p class="para-vi-sub">“Gantry, anh là một tên ăn cắp. Anh bị sa thải. Anh có hợp đồng đấy, nhưng cứ đi mà kiện đi cho rách việc. Jackson. Một tên người hầu da đen to lớn bước ra. Vứt cổ tên bịp bợm này ra ngoài cho ta, nghe chưa?”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">He felt dazed and homeless and poor, but he started out with Prosperity Classes of his own.</p>
 

@@ -1,8 +1,6 @@
 # Chương XXIX
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">However impatient he was with Frank, Philip McGarry’s last wish was to set Elmer Gantry piously baying on Frank’s trail. It was rather an accident. Philip sat next to Elmer at a dinner to discuss missionary funds; he remembered that Frank and Elmer had been classmates; and with a sincerely affectionate “It’s too bad the poor boy worries so over what are really matters for Faith,” he gave away to Elmer most of Frank’s heresies.</p>
 
@@ -32,9 +30,7 @@
 
 <p class="para-vi-sub">“Vâng, thưa ngài, ơn Chúa, cuối cùng thì cũng tìm ra được chỗ dụng võ. Ha, ha, ha!” T. J. Rigg phụ họa.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">In less than a month Frank maddened the citizens of Zenith by asserting, in the pulpit, that though he was in favor of temperance, he was not for Prohibition; that the methods of the Anti-Saloon League were those of a lumber lobby.</p>
 
@@ -96,9 +92,7 @@
 
 <p class="para-vi-sub">“Chà, được thôi...”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Frank was so simple as to lose his temper when Elmer had bullied him, roared at him, bulked at him, long enough, with Frank’s own deacons accepting Elmer as an authority. He was irritated out of all caution, and he screamed back at Elmer that he did not accept Jesus Christ as divine; that he was not sure of a future life; that he wasn’t even certain of a personal God.</p>
 
@@ -128,9 +122,7 @@
 
 <p class="para-vi-sub">“Cả hội thánh sẽ làm cái quái đó đấy, cứ chờ mà xem!” Chấp sự William Dollinger Styles đốp chát.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">“What are we going to do, dear?” Bess said wearily. “I’ll stand by you, of course, but let’s be practical. Don’t you think it would make less trouble if you did resign?”</p>
 
@@ -156,9 +148,7 @@
 
 <p class="para-vi-sub">“Quá đáng kính. Quá sợ hãi. Vẫn mấy cái văn phong thánh thiện cũ kỹ mà anh đang cố rũ bỏ, và e rằng sẽ chẳng bao giờ rũ bỏ nổi hoàn toàn.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">A meeting of the church body had been called to decide on Frank’s worthiness, and the members had been informed by Styles that Frank was attacking all religion. Instantly a number of the adherents who had been quite unalarmed by what they themselves had heard in the pulpit perceived that Frank was a dangerous fellow and more than likely to injure omnipotent God.</p>
 
@@ -192,9 +182,7 @@
 
 <p class="para-vi-sub">Từ Andrew Pengilly gửi đến một bức thư nguệch ngoạc đầy run rẩy, nài nỉ Frank hãy giữ vững lập trường và chí hướng, đừng dâng giáo đoàn mà anh được bổ nhiệm vào tay quỷ dữ. Điều đó thật sự nhói lòng.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">The first church business meeting did not settle the question of Frank’s remaining. He was questioned about his doctrines, and he shocked them by being candid, but the men whom he had helped, the women whom he had consoled in sickness, the fathers who had gone to him when their daughters “had gotten into trouble,” stood by him for all the threats of Styles.</p>
 
@@ -232,9 +220,7 @@
 
 <p class="para-vi-sub">Sau đó, Tiến sĩ G. Prosper Edwards thuộc Nhà thờ Tự trị Pilgrim đã than thở với hiền thê của mình rằng: “Sao quỷ tha ma bắt mà chúng ta lại không nghĩ ra cảnh đến thẳng chỗ William Dollinger Styles để mời mượn lão về với phe ta nhỉ? Mọi chuyện đơn giản đến thế mà chúng ta chẳng mảy may mường tượng tới. Tôi thực sự thấy bực mình quá đi mất. Sao em lại không nghĩ ra cơ chứ?”</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">The second church meeting was postponed. It looked to Elmer as though Frank would be able to stay on at Dorchester Congregational and thus defy Elmer as the spiritual and moral leader of the city.</p>
 
@@ -268,9 +254,7 @@
 
 <p class="para-vi-sub">Elmer Gantry, trong bài giảng tiếp theo sau đó, đã lớn tiếng tuyên bố rằng gã vốn là kẻ có tư tưởng vô cùng phóng khoáng nên sẵn sàng rộng lượng chào đón một kẻ ngoại đạo như Shallard bước vào nhà thờ của mình, với điều kiện gã đó phải ăn năn hối cải.</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">When he found that he liked the Charity Organization Society and his work in that bleak institution no better than his work in the church, Frank laughed.</p>
 
@@ -360,9 +344,7 @@
 
 <p class="para-vi-sub">“Giáo hội Công giáo La Mã vượt trội hơn hẳn Giáo hội Kháng cách chiến đấu. Nó không ép buộc anh phải từ bỏ khiếu thẩm mỹ, khiếu hài hước hay những thói hư tật xấu dễ chịu của mình. Nó chỉ đòi hỏi anh phải từ bỏ sự trung thực, lý trí cùng trái tim và tâm hồn mình mà thôi.”</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">Frank had been with the Charity Organization Society for three years, and he had become assistant general secretary at the time of the Dayton evolution trial. It was at this time that the brisker conservative clergymen saw that their influence and oratory and incomes were threatened by any authentic learning. A few of them were so intelligent as to know that not only was biology dangerous to their positions, but also history﻿—which gave no very sanctified reputation to the Christian church; astronomy﻿—which found no convenient Heaven in the skies and snickered politely at the notion of making the sun stand still in order to win a Jewish border skirmish; psychology﻿—which doubted the superiority of a Baptist preacher fresh from the farm to trained laboratory researchers; and all the other sciences of the modern university. They saw that a proper school should teach nothing but bookkeeping, agriculture, geometry, dead languages made deader by leaving out all the amusing literature, and the Hebrew Bible as interpreted by men superbly trained to ignore contradictions, men technically called “Fundamentalists.”</p>
 
@@ -564,9 +546,7 @@
 
 <p class="para-vi-sub">Gã pha chế túm lấy hai tay Frank quặt ra sau lưng, bẻ ngược lên gần như muốn gãy xương, và ngay lập tức, với nỗi đau đớn khủng khiếp không thể tưởng tượng nổi, chiếc roi quất rách má Frank, rướm máu, rồi ngay lập tức lại giáng xuống... lại giáng xuống... trong một màn đêm ngập tràn cơn đau xé thịt.</p>
 
-<p class="para-en"><strong>X</strong></p>
-
-<p class="para-vi-sub"><strong>X</strong></p>
+### X
 
 <p class="para-en">Consciousness returned waveringly as dawn crawled over the cornfield and the birds were derisive. Frank’s only clear emotion was a longing to escape from this agony by death. His whole face reeked with pain. He could not understand why he could scarce see. When he fumblingly raised his hand, he discovered that his right eye was a pulp of blind flesh, and along his jaw he could feel the exposed bone.</p>
 
@@ -596,9 +576,7 @@
 
 <p class="para-vi-sub">“Lại một tên say xỉn!” Cảnh sát viên vui vẻ nói, gạt chân chống chiếc xe máy xuống. Nhưng khi cúi xuống nhìn rõ gương mặt bị che khuất một phần của Frank, anh ta thốt lên thì thầm: “Lạy Chúa toàn năng!”</p>
 
-<p class="para-en"><strong>XI</strong></p>
-
-<p class="para-vi-sub"><strong>XI</strong></p>
+### XI
 
 <p class="para-en">The doctors told him that though the right eye was gone completely, he might not entirely lose the sight of the other for perhaps a year.</p>
 
@@ -620,9 +598,7 @@
 
 <p class="para-vi-sub">Được nghe đọc sách to, trong suốt quãng đời còn lại...</p>
 
-<p class="para-en"><strong>XII</strong></p>
-
-<p class="para-vi-sub"><strong>XII</strong></p>
+### XII
 
 <p class="para-en">Elmer called and raged, “This is the most outrageous thing I’ve ever heard of in my life, Frank! Believe me, I’m going to give the fellows that did this to you the most horrible beating they ever got, right from my pulpit! Even though it may hinder me in getting money for my new church﻿—say, we’re going to have a bang-up plant there, right up to date, cost over half a million dollars, seat over two thousand. But nobody can shut <em>me</em> up! I’m going to denounce those fiends in a way <em>they’ll</em> never forget!”</p>
 

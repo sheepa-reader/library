@@ -1,8 +1,6 @@
 # Chương XXIV
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">It was during his inquiry about clerical allies and rivals﻿—they were the same thing﻿—that Elmer learned that two of his classmates at Mizpah Seminary were stationed in Zenith.</p>
 
@@ -40,9 +38,7 @@
 
 <p class="para-vi-sub">“Và chuyện đó sẽ xảy ra vào khoảng mười sáu năm sau Ngày Phán xét”, gã khịt mũi một cái rõ to.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Not all the tenderness, all the serene uprightness, all the mystic visions of Andrew Pengilly, that village saint, had been able to keep Frank Shallard satisfied with the Baptist ministry after his association with the questioning rabbi and the Unitarian minister at Eureka. These liberals proved admirably the assertion of the Baptist fundamentalists that to tamper with biology and ethnology was to lose one’s Baptist faith, wherefore State University education should be confined to algebra, agriculture, and Bible study.</p>
 

@@ -1,8 +1,6 @@
 # Chương I
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Elmer Gantry was drunk. He was eloquently drunk, lovingly and pugnaciously drunk. He leaned against the bar of the Old Home Sample Room, the most gilded and urbane saloon in Cato, Missouri, and requested the bartender to join him in “<span epub:type="se:name.music.song">The Good Old Summer Time</span>,” the waltz of the day.</p>
 
@@ -96,9 +94,7 @@
 
 <p class="para-vi-sub">Ồ, gã hân hoan thầm nghĩ, đây quả là một buổi tiệc tuyệt vời. Lần đầu tiên sau nhiều tuần lễ, gã được giải thoát khỏi sự nhàm chán của Đại học Terwillinger.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Elmer Gantry, best known to classmates as Hellcat, had, this autumn of 1902, been football captain and led the best team Terwillinger College had known in ten years. They had won the championship of the East-middle Kansas Conference, which consisted of ten denominational colleges, all of them with buildings and presidents and chapel services and yells and colors and a standard of scholarship equal to the best high-schools. But since the last night of the football season, with the glorious bonfire in which the young gentlemen had burned up nine tar barrels, the sign of the Jew tailor, and the president’s tabby-cat, Elmer had been tortured by boredom.</p>
 
@@ -136,9 +132,7 @@
 
 <p class="para-vi-sub">Thật đáng tiếc khi nhìn thấy một chàng trai vạm vỡ thế này, kẻ lẽ ra sẽ cực kỳ hạnh phúc trên võ đài quyền Anh, chợ cá hay sàn chứng khoán, lại phải cặm cụi lê bước qua những hành lang giăng đầy mạng nhện của Terwillinger.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Terwillinger College, founded and preserved by the more zealous Baptists, is on the outskirts of Gritzmacher Springs, Kansas. (The springs have dried up and the Gritzmachers have gone to Los Angeles, to sell bungalows and delicatessen.) It huddles on the prairie, which is storm-racked in winter, frying and dusty in summer, lovely only in the grass-rustling spring or drowsy autumn.</p>
 
@@ -272,9 +266,7 @@
 
 <p class="para-vi-sub">Gã không thể tài nào hiểu nổi những gã đàn ông sợ hãi máu me, thích thơ ca hay hoa hồng, những kẻ không buông lời tán tỉnh sỗ sàng mọi cô gái có thể tán tỉnh. Trong những cuộc tranh luận hùng hồn với Jim, gã khẳng định rằng đám sinh viên suốt ngày cắm cổ học hành chỉ làm vẻ ta đây cao ngạo để khoe mẽ với mấy lão giáo sư trong huyết quản chỉ toàn nước chanh.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Chief adornment of their room was the escritoire of the first Gritzmacher, which held their library. Elmer owned two volumes of Conan Doyle, one of <abbr epub:type="z3998:given-name">E. P.</abbr> Roe, and a priceless copy of <i epub:type="se:name.publication.book">Only a Boy</i>. Jim had invested in an encyclopedia which explained any known subject in ten lines, in a <i epub:type="se:name.publication.book">Pickwick Papers</i>, and from some unknown source he had obtained a complete Swinburne, into which he was never known to have looked.</p>
 
@@ -328,9 +320,7 @@
 
 <p class="para-vi-sub">Jim cứ lơ lửng như sợi tóc treo trên gió bên vực thẳm địa ngục, và bề ngoài có vẻ như đang tận hưởng điều đó đầy khoái chí, trong khi sự ngông cuồng của cậu vừa khiến Elmer Gantry cảm thấy mê hoặc lại vừa làm cho gã sợ hãi.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">That November day of 1902, November of their Senior year, was greasy of sky, and slush blotted the wooden sidewalks of Gritzmacher Springs. There was nothing to do in town, and their room was dizzying with the stench of the stove, first lighted now since spring.</p>
 
@@ -560,9 +550,7 @@
 
 <p class="para-vi-sub">“Ồ, Juanita...”</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">They were gone, Elmer and Jim, before the return of Nellie’s aunt. As they were not entertaining the girls, they dined on pork chops, coffee, and apple pie at the Maginnis Lunch.</p>
 

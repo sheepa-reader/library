@@ -1,8 +1,6 @@
 # Chương IV
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">President Quarles urged him.</p>
 
@@ -68,9 +66,7 @@
 
 <p class="para-vi-sub">Ơn Kêu Gọi vẫn không đến, suốt nhiều tuần lễ, khi Lễ Phục Sinh đã qua đi mà vẫn chưa có quyết định nào về việc gã sẽ làm gì vào năm tới.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Spring on the prairie, high spring. Lilacs masked the speckled brick and stucco of the college buildings, spiræa made a flashing wall, and from the Kansas fields came soft airs and the whistle of meadow larks.</p>
 
@@ -260,9 +256,7 @@
 
 <p class="para-vi-sub">“Tạ ơn Chúa” vị khoa trưởng nói và liếc nhìn đồng hồ.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">On their way home, they two alone, the oldest faculty-member said to the dean, “Yes, it was a fine gratifying moment. And﻿—herumph!﻿—slightly surprising. I’d hardly thought that young Gantry would go on being content with the mild blisses of salvation. Herumph! Curious smell of peppermint he had about him.”</p>
 

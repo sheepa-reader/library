@@ -1,8 +1,6 @@
 # Chương XV
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">It was not her eloquence but her healing of the sick which raised Sharon to such eminence that she promised to become the most renowned evangelist in America. People were tired of eloquence; and the whole evangelist business was limited, since even the most ardent were not likely to be saved more than three or four times. But they could be healed constantly, and of the same disease.</p>
 
@@ -108,9 +106,7 @@
 
 <p class="para-vi-sub">Elmer bị mê hoặc bởi vẻ chưa từng được khai phá của cô nàng. Trong khi vẫn tỏ ra tận tụy với Sharon, qua bờ vai của cô, gã luôn liếc nhìn vẻ ngọt ngào nhợt nhạt của Lily, và đôi môi gã đẫm nước bọt.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">They sat on the beach by moonlight, Sharon and Elmer, the night before the opening service.</p>
 
@@ -208,9 +204,7 @@
 
 <p class="para-vi-sub">Đấy đúng là một cô bé dễ thương, và cô ấy rất ngưỡng mộ gã, chắc chắn chẳng bao giờ dám mắng mỏ gã đâu.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">He tiptoed to Lily’s virgin door and tapped lightly.</p>
 
@@ -384,9 +378,7 @@
 
 <p class="para-vi-sub">Lily trừng mắt nhìn gã. Gã cũng nghe thấy tiếng chìa khóa ấy, và một mình đứng chơ vơ ngoài hành lang.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Not till one in the morning, sitting in flabby dejection, did he have his story shaped and watertight.</p>
 
@@ -428,9 +420,7 @@
 
 <p class="para-vi-sub">“Ừm. Cô ta nói thế thật á? Hừ, cô ta chẳng xứng đáng tẹo nào! Và cô ta cứ việc ở nguyên trạng thái bị đuổi việc đi. Còn anh, tên lậu mồm lém lỉnh của ta, nếu anh còn dám liếc nhìn một ả đàn bà nào khác dù chỉ một lần nữa, ta sẽ sa thải anh vĩnh viễn… Ôi, Elmer, sao anh có thể nhẫn tâm thế hả, đồ người yêu dấu? Khi mà em đã dâng hiến cho anh tất cả! Ôi, cứ nói dối đi, tiếp tục nói dối đi! Hãy bịa ra một lời nói dối thật nặng ký để em có thể tin sái cổ đi! Rồi lại đây hôn em nào!”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">Banners, banners, banners lifting along the rafters, banners on the walls of the tabernacle, banners moving to the air that was sifted in from the restless sea. Night of the opening of Waters of Jordan Tabernacle, night of the opening of Sharon’s crusade to conquer the world.</p>
 

@@ -1,8 +1,6 @@
 # Chương XXVII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Elmer, in court, got convictions of sixteen out of the twenty-seven fiends whom he had arrested, with an extra six months for Oscar Hochlauf for resisting arrest and the use of abusive and profane language. The judge praised him; the mayor forgave him; the chief of police shook his hand and invited him to use a police squad at any time; and some of the younger reporters did not cover their mouths with their hands.</p>
 
@@ -196,9 +194,7 @@
 
 <p class="para-vi-sub">Trên đường lái xe về nhà, gã vô cùng phấn khích, “Rồi có ngày, ta sẽ sánh vai ngang hàng với những kẻ sừng sỏ nhất trong giới thượng lưu. Khi ta lên làm giám mục, xin thưa là ta sẽ chẳng buồn la cà đôi co về mấy phương pháp dạy học Trường Chúa nhật đâu nhé! Ta sẽ giao du với giới thượng lưu, các nghị sĩ và đủ mọi thành phần… Cleo trông hẳn sẽ rất kiêu sa trong một bữa tiệc lớn, với bộ đầm đúng điệu… Giá mà cô ta đừng có ra điều ta đây đạo mạo đến thế. Ồ, hay là cô ta lăn ra chết trước lúc đó nhỉ… Chắc ta sẽ cưới một cô vợ theo Anh giáo… Không biết nếu ta sang cái đám mặc áo thụng đó thì có với tới chức giám mục của họ được không nhỉ? Sang trọng hơn. Không; nhà thờ Giám lý to hơn; mà chắc mấy vị bên Anh giáo cũng chẳng nuốt trôi nổi mấy bài giảng sùng sục máu nóng về thói hư tật xấu và đủ thứ chuyện đời tư.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">The Gilfeather Chautauqua<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn7" id="bodyftn7">[7]</a> Corporation, which conducts week-long Chautauquas in small towns, had not been interested when Elmer had hinted, three years ago, that he had a Message to the Youth of America, one worth at least a hundred a week, and that he would be glad to go right out to the Youth and deliver it. But when Elmer’s demolition of all vice in Zenith had made him celebrated, and even gained him a paragraph or two as the Crusading Parson, in New York and Chicago, the Gilfeather Corporation had a new appreciation. They came to him, besieged him, offered him two hundred a week and headlines in the posters, for a three-months tour.</p>
 
@@ -228,9 +224,7 @@
 
 <p class="para-vi-sub">Và tất nhiên, gã đã tìm thấy điều đó.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Elmer’s metaphysical lecture, entitled “Whoa Up, Youth!” with its counsel about abstinence, chastity, industry, and honesty, its heaven-vaulting poetic passage about Love (the only bow on life’s dark cloud, the morning and the evening star), and its anecdote of his fight to save a college-mate named Jim from drink and atheism, became one of the classics among Chautauqua masterpieces.</p>
 
@@ -260,9 +254,7 @@
 
 <p class="para-vi-sub">Gã đến thị trấn Blackfoot Creek ở Bang Indiana với một tiếng vang rền và ánh hào quang chói lọi, và tại đó, ban tổ chức địa phương đã cho phép vị mục sư Giám lý là Andrew Pengilly được tiếp đón người anh em linh mục danh tiếng của ông.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Always a little lonely, lost in the ceaseless unfolding of his mysticism, old Andrew Pengilly had been the lonelier since Frank Shallard had left him.</p>
 
@@ -276,9 +268,7 @@
 
 <p class="para-vi-sub">Ông từng đọc về Mục sư Gantry như một diễn giả đầy uy lực, một chiến binh dũng cảm chống lại tội lỗi. Ông Pengilly thở dài. Bản thân ông, chẳng hiểu sao, chưa bao giờ có thể tìm thấy quá nhiều tội lỗi quanh mình. Đó là lỗi của ông. Một kẻ mộng mơ già cỗi ngốc nghếch. Ông vô cùng hân hoan khi vị linh mục làng mạc tầm thường như một con chuột nhắt này sắp được một vị Tổng lãnh thiên thần Michael mặc áo giáp chói lọi đến đây để làm rạng rỡ cho ngôi nhà nhỏ bé của mình.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">After the evening Chautauqua Elmer sat in <abbr epub:type="z3998:name-title">Mr.</abbr> Pengilly’s hovel, and he was graciously condescending.</p>
 

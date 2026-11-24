@@ -1,8 +1,6 @@
 # Chương XIX
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">A Thursday in June 1913.</p>
 
@@ -188,9 +186,7 @@
 
 <p class="para-vi-sub">Gã lại sẵn sàng chinh phục Banjo Crossing, chinh phục Giáo hội Giám lý; và khi hành lý lẫn hòm rương đã tới nơi, trước khi kịp dỡ đồ, gã liền lên đường đi ngắm nghía vương quốc của mình.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Banjo Crossing was not extensive, but to find the key to the First Methodist Church was a Scotland Yard melodrama.</p>
 
@@ -268,9 +264,7 @@
 
 <p class="para-vi-sub">Họ bắt tay nhau đầy vẻ trang trọng và ngồi nhìn nhau cười rạng rỡ trên một chiếc ghế băng ở hàng đầu. Elmer thông báo với Cleo rằng gã tin chắc là “sắp có một sự bùng nổ tâm linh lớn diễn ra ở đây”, còn Cleo kể cho gã nghe về những con người đáng yêu trong hội thánh, trong làng, và ở cả vùng nông thôn xung quanh. Và lồng ngực phập phồng của Cleo thì thầm với gã rằng cô, ái nữ của ông trùm tài phiệt trong làng, đã lập tức đem lòng yêu Elmer.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Cleo Benham had spent three years in the Sparta Women’s College, specializing in piano, organ, French, English literature, strictly expurgated, and study of the Bible. Returned to Banjo Crossing, she was a fervent church-worker. She played the organ and rehearsed the choir; she was the superintendent of the juvenile department in the Sunday School; she decorated the church for Easter, for funerals, for the Halloween Supper.</p>
 
@@ -320,9 +314,7 @@
 
 <p class="para-vi-sub">Elmer thừa biết Cleo chính là hình mẫu người vợ có thể giúp gã giành lấy một ghế giám mục. Elmer tự thuyết phục bản thân rằng, bên cạnh tất cả đức hạnh ấy, cuối cùng thì Cleo cũng sẽ rất thú vị để hôn. Elmer thầm nhận xét rằng họ trông “thật xứng đôi vừa lứa”. Elmer tự nhủ rằng Cleo là người phụ nữ đầu tiên gã từng tìm thấy xứng đáng với mình... Thế rồi Elmer chợt nhớ đến Sharon... Nhưng nỗi ray rứt ấy chỉ kéo dài trong khoảnh khắc giữa khung cảnh làng quê yên bình, trong dòng âm thanh dịu dàng phát ra từ giọng nói của Cleo.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Once he was out of the sacred briskness of his store, <abbr epub:type="z3998:name-title">Mr.</abbr> Nathaniel Benham forgot discounts and became an affable host. He said, “Well, well, Brother,” ever so many times, and shook hands profusely. <abbr epub:type="z3998:name-title">Mrs.</abbr> Benham﻿—she was a large woman, rather handsome; she wore figured foulard, with an apron over it, as she had been helping in the kitchen﻿—<abbr epub:type="z3998:name-title">Mrs.</abbr> Benham was equally cordial. “I’ll just bet you’re hungry, Brother!” cried she.</p>
 

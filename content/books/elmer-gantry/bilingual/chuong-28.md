@@ -1,8 +1,6 @@
 # Chương XXVIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">His friendship with <abbr epub:type="z3998:name-title">Dr.</abbr> Philip McGarry of the Arbor Church was all, Frank Shallard felt, that kept him in the church. As to his round little wife Bess and the three respectable children, he had for them less passion than compassion, and he could, he supposed, make enough money somehow to care for them.</p>
 

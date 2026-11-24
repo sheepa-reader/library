@@ -1,8 +1,6 @@
 # Chương XVIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The Reverend Elmer Gantry was writing letters﻿—he had no friends, and the letters were all to inquirers about his Prosperity Classes﻿—at a small oak-desk in the lobby of the O’Hearn House in Zenith.</p>
 
@@ -104,9 +102,7 @@
 
 <p class="para-vi-sub">Một mình trong phòng, Elmer hân hoan nghĩ ngợi: “Đúng bài rồi đấy. Mình chán ngấy cái cảnh tự thân vận động đơn độc này lắm rồi. Nhập bọn với một cỗ máy khổng lồ thực sự như bọn Giám lý xem sao, dù có thể phải bắt đầu từ chân lon ton rồi thăng tiến vùn vụt, mươi năm nữa tự tay ngồi vào ghế giám mục, với toàn bộ tiền tài, nhà thờ hoành tráng, tín đồ đông đảo cùng mọi thứ hậu thuẫn đằng sau. Mình chơi lớn vụ này luôn. Lạy Chúa, Ngài đã dẫn dắt con... Không, nói thật đấy, con nghiêm túc đấy... Hết thời quậy phá tung trời rồi. Từ nay trở đi là tôn giáo đích thực. Hoan hô. Ôi Đức Giám mục kính yêu, ông cứ chờ mà xem tôi nịnh hót ông dẻo quẹo cỡ nào nhé.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">The Episcopal Palace. Beyond the somber length of the drawing-room an alcove with groined arches and fan-tracery﻿—remains of the Carthusian chapel. A dolorous crucifixion by a pupil of El Greco, the sky menacing and wind-driven behind the gaunt figure of the dying god. Mullioned windows that still sparkled with the bearings of hard-riding bishops long since ignoble dust. The refectory table, a stony expanse of ancient oak, set round with grudging monkish chairs. And the library﻿—on either side the lofty fireplace, austerely shining rows of calf-bound wisdom now dead as were the bishops.</p>
 
@@ -152,9 +148,7 @@
 
 <p class="para-vi-sub">Kia là Ngôi đền Thiên đàn ở Bắc Kinh, với vị giám mục đứng ngay trước mặt. Kia là Đại kim tự tháp, với Mrs. Toomis đứng ngay trước mặt. Kia là nhà thờ lớn ở Milan, với cả hai người đứng ngay trước mặt, bức này do một hướng dẫn viên người Italy bấm máy giúp họ, một quý ông nhiệt tình đã đoan chắc với vị giám mục rằng anh ta rất tin tưởng vào Lệnh Cấm rượu.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Into this room Elmer Gantry came with overpowering politeness. He bent, almost as though he were going to kiss it, over the hand of <abbr epub:type="z3998:name-title">Mrs.</abbr> Toomis, who was a large lady with eyeglasses and modest sprightliness, and he murmured, “If you could only know what a privilege this is!”</p>
 
@@ -232,9 +226,7 @@
 
 <p class="para-vi-sub">Câu nói ấy thành công rực rỡ. Vị giám mục lặp lại nó, cười đến sặc sụa.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Elmer managed, during supper, to let them know that not only was he a theological seminary man, not only had he mastered psychology, Oriental occultism, and the methods of making millions, but also he had been general manager for the famous Miss Sharon Falconer.</p>
 
@@ -296,9 +288,7 @@
 
 <p class="para-vi-sub">“Đó sẽ là một vấn đề rất đơn giản. Vì cậu đã được phong chức rồi, tôi có thể để Hội nghị Địa phương, nơi sẽ họp vào tháng tới tại Thành phố Sparta, giới thiệu cậu với Hội nghị Thường niên để kết nạp hội viên. Tôi chắc chắn rằng khi Hội nghị Thường niên họp vào mùa xuân năm tới, tính ra là chưa đầy một năm nữa, với số tín chỉ từ Đại học Terwillinger và Chủng viện Thần học Mizpah của cậu, tôi có thể đưa cậu gia nhập Hội nghị và được công nhận các chức thánh. Cho đến lúc đó, tôi có thể giúp cậu được chấp nhận làm Mục sư thử việc. Và tôi đang có sẵn một nhà thờ ngay tại Thị trấn Banjo Crossing, đang rất cần sự lãnh đạo mà cậu có thể cung cấp. Thị trấn Banjo Crossing chỉ có vỏn vẹn chín trăm dân, nhưng cậu hiểu rằng việc bắt đầu từ con số không là điều cần thiết đối với cậu. Các sư huynh trong đạo sẽ rất có lý khi tỏ ra ghen tị nếu ngay từ đầu tôi giao cho cậu một chức vụ hạng nhất. Nhưng tôi chắc chắn mình có thể giúp cậu thăng tiến nhanh chóng. Vâng, chúng ta phải đưa cậu về với giáo hội. Công việc dành cho những bàn tay tận hiến thật lớn lao... và tôi dám cá là tôi sẽ sống để chứng kiến chính cậu trở thành giám mục.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">He couldn’t, Elmer complained, back in the refuge of his hotel, sink to a crossroads of nine hundred people, with a salary of perhaps eleven hundred dollars; not after the big tent and Sharon’s throngs, not after suites and morning coats and being <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry to brokers’ wives in ballrooms.</p>
 

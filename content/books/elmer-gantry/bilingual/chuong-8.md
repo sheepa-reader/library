@@ -1,8 +1,6 @@
 # Chương VIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The ardor of Lulu, the pride of having his own church at Schoenheim, the pleasure of watching Frank Shallard puff in agony over the handcar, all these did not make up to Elmer for his boredom in seminary classes from Monday to Friday﻿—that boredom which all preachers save a few sporting country parsons, a few managers of factory-like institutional churches, must endure throughout their lives.</p>
 
@@ -64,9 +62,7 @@
 
 <p class="para-vi-sub">Nhưng Frank Shallard lại vô cùng yêu mến Tiến sĩ Zechlin, người duy nhất trong số các giảng viên khiến anh kính trọng.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Frank Shallard’s father was a Baptist minister, sweet-tempered, bookish, mildy liberal, not unsuccessful; his mother was of a Main Line family, slightly run to seed. He was born in Harrisburg and reared in Pittsburgh, always under the shadow of the spires﻿—in his case, a kindly shadow and serene, though his father did labor long at family prayers and instruct his young to avoid all worldly pollution, which included dancing, the theater, and the libidinous works of Balzac.</p>
 
@@ -216,9 +212,7 @@
 
 <p class="para-vi-sub">Anh đã ở lại.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">By Senior year he had read many of <abbr epub:type="z3998:name-title">Dr.</abbr> Zechlin’s bootlegged books: Davenport’s <i epub:type="se:name.publication.book">Primitive Traits in Religious Revivals</i>, which asserted that the shoutings and foamings and twitchings at revival meetings were no more sanctified than any other barbaric religious frenzies, Dods and Sunderland on the origin of the Bible, which indicated that the Bible was no more holy and infallible than Homer; Nathaniel Schmidt’s revolutionary life of Jesus, <i epub:type="se:name.publication.book">The Prophet of Nazareth</i>, and White’s <i epub:type="se:name.publication.book">History of the Warfare of Science with Theology</i>, which painted religion as the enemy, not the promoter, of human progress. He was indeed﻿—in a Baptist seminary!﻿—a specimen of the “young man ruined by godless education” whom the Baptist periodicals loved to paint.</p>
 
@@ -236,9 +230,7 @@
 
 <p class="para-vi-sub">Sau những lý lẽ ngụy biện đó, thật là một sự giải tỏa lớn lao khi có được một cảm xúc sống động như lòng căm ghét ngọt ngào, trong trẻo và vang dội dành cho Sư huynh Elmer Gantry.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Frank had always disliked Elmer’s thickness, his glossiness, his smut, and his inability to understand the most elementary abstraction. But Frank was ordinarily no great hater, and when they went off together to guard the flock at Schoenheim, he almost liked Elmer in his vigorous excitement﻿—beautiful earthy excitement of an athlete.</p>
 
@@ -268,9 +260,7 @@
 
 <p class="para-vi-sub">“À, phải”, ông lão trầm ngâm, “đó vẫn là vị Chúa mà ta hằng mơ ước, Đứa Trẻ với mái tóc ngời sáng, Đứa Trẻ Chúa Giê-su bé bỏng thân thương người Đức, một câu chuyện cổ tích tuyệt đẹp, còn những ông Trosper của cậu lại biến Chúa Giê-su thành một quái vật căm ghét tuổi trẻ và tiếng cười, <i>Wein, Weib und Gesang</i>. Thật tội nghiệp cho Ngài. Ngài thật bất hạnh làm sao, vị Chúa ấy, khi không có ông Trosper tốt bụng ở bên trong bữa tiệc cưới để giải thích rằng Ngài không được phép hóa nước thành rượu. Chk. Chk. Ta tự hỏi liệu mình đã quá già để bắt đầu một trang trại nhỏ với một vườn nho lớn và bảy cuốn sách hay chưa.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">Elmer Gantry was always very witty about <abbr epub:type="z3998:name-title">Dr.</abbr> Bruno Zechlin. Sometimes he called him “Old Fuzzy.” Sometimes he said, “That old coot <em>ought</em> to teach Hebrew﻿—he looks like a page of Yid himself.” Elmer could toss off things like that. The applause of Eddie Fislinger, who was heard to say in hallways and lavatories that Zechlin lacked spirituality, encouraged Elmer to create his masterpiece.</p>
 

@@ -1,8 +1,6 @@
 # Chương XXX
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The Reverend Elmer Gantry was in his oak and Spanish leather study at the great new Wellspring Church.</p>
 
@@ -92,9 +90,7 @@
 
 <p class="para-vi-sub">Elmer thầm đắc ý: “Thế mà mình từng nghe nói lão Mahlon Potts phải mất toi sáu trăm đô-la cho tấm bằng Tiến sĩ Thần học đấy. Ồ vâng, thưa ngài Viện trưởng, chúng ta sẽ bắt đầu quyên tiền cho Abernathy trong vòng hai năm nữa... chúng ta sẽ bắt đầu.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">The chapel of Abernathy College was full. In front were the gowned seniors, looking singularly like a row of armchairs covered with dust-cloths. On the platform, with the president and the senior members of the faculty, were the celebrities whose achievements were to be acknowledged by honorary degrees.</p>
 
@@ -116,9 +112,7 @@
 
 <p class="para-vi-sub">Họ hò reo vang dội, và Elmer đã chính thức trở thành Mục sư Tiến sĩ Gantry.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">It was a great relief at the Rotary Club. They had long felt uncomfortable in calling so weighty a presence “Elmer,” and now, with a pride of their own in his new dignity, they called him “Doc.”</p>
 
@@ -128,9 +122,7 @@
 
 <p class="para-vi-sub">Nhà thờ tổ chức một buổi tiệc tiếp đón gã và nâng mức lương lên bảy ngàn rưỡi đô-la.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">The <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry was the first clergyman in the state of Winnemac, almost the first in the country, to have his services broadcast by radio. He suggested it himself. At that time, the one broadcasting station in Zenith, that of the Celebes Gum and Chicle Company, presented only jazz orchestras and retired sopranos, to advertise the renowned Jolly Jack Gum. For fifty dollars a week Wellspring Church was able to use the radio Sunday mornings from eleven to twelve-thirty. Thus Elmer increased the number of his hearers from two thousand to ten thousand﻿—and in another pair of years it would be a hundred thousand.</p>
 
@@ -152,9 +144,7 @@
 
 <p class="para-vi-sub">“...và tôi muốn nói với các vị rằng kẻ nào bị lòng tham ăn mòn thì đang đặt những vinh quang của thế gian này lên trên vinh quang của Thiên đàng. Ồ, giá như tôi có thể giúp các vị hiểu rằng chính sự khiêm nhường, chính lòng nhân ái giản dị, chính sự trung thành dịu dàng mới là thứ duy nhất làm cho tâm hồn hoan hỉ. Nào, nếu các vị cho phép tôi kể một câu chuyện: nó làm tôi nhớ đến hai người Ai-len tên là Mike và Pat...”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">For years Elmer had had a waking nightmare of seeing Jim Lefferts sitting before him in the audience, scoffing. It would be a dramatic encounter and terrible; he wasn’t sure but that Jim would speak up and by some magic kick him out of the pulpit.</p>
 
@@ -236,9 +226,7 @@
 
 <p class="para-vi-sub">Gã không bao giờ gặp lại Jim Lefferts thêm lần nào nữa, và chỉ trong vòng một tuần, gã đã quên bẵng đi mất, ngoại trừ việc cảm thấy thật nhẹ nhõm vì đã gột bỏ được sự ngượng ngùng trước nụ cười giễu cợt của anh, nấc thang cuối cùng chắn giữa gã và sự vĩ đại đầy tự tin.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">It was in the summer of 1924 that Elmer was granted a three-months leave, and for the first time Cleo and he visited Europe.</p>
 
@@ -252,9 +240,7 @@
 
 <p class="para-vi-sub">Elmer chu đáo lo toan sao cho chính mình cũng phải được mời gọi. Gã nhờ Giám mục Toomis viết thư cho các đồng nghiệp theo phái Wesleyan, nhờ ông Rigg và ông William Dollinger Styles viết thư cho các mối quan hệ kinh doanh theo phái Kháng cách bất đồng chính kiến của họ ở Luân Đôn, và một tháng trước khi nhổ neo, gã đã nhận được Ơn Kêu Gọi phát biểu tại Nhà nguyện Brompton Road nổi tiếng, khiến gã hào hứng lên đường không chỉ với tâm thế phiêu lưu mà còn mang theo một sứ mệnh lớn lao.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en"><abbr epub:type="z3998:name-title">Dr.</abbr> Elmer Gantry was walking the deck of the <i epub:type="se:name.vessel.ship">Scythia</i>, a bright, confident, manly figure in a blue suit, a yachting cap, and white canvas shoes, swinging his arms and beaming pastorally on his fellow athletic maniacs.</p>
 
@@ -320,9 +306,7 @@
 
 <p class="para-vi-sub">“Chỉ một lần đó thôi, mình yêu ạ.”</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">Elmer considered, “Well, I’ve given those poor old birds some cheerfulness to go on with. By golly, there’s nothing more important than to give people some happiness and faith to cheer them along life’s dark pathway.”</p>
 
@@ -352,9 +336,7 @@
 
 <p class="para-vi-sub">Khi Elmer giải thích với nhân viên quản lý tàu rằng gã sẵn sàng đảm nhận vai trò chủ tịch buổi biểu diễn văn nghệ, người quản lý với vẻ mặt đầy mồ hôi và tiếc nuối tột cùng đã đáp rằng Ngài Huân tước Lionel Smith rất tiếc là đã được mời giữ ghế chủ tịch từ trước rồi.</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">Cleo had not been more obnoxiously colorless than usual, but she had been seasick, and Elmer saw that it had been an error to bring her along. He had not talked to her an hour all the way. There had been so many interesting and broadening contacts; the man from China, who gave him enough ideas for a dozen missionary sermons; the professor from Higgins Presbyterian Institute, who explained that no really up-to-date scientist accepted evolution; the pretty journalist lady who needed consolation.</p>
 
@@ -380,9 +362,7 @@
 
 <p class="para-vi-sub">“Chà, ơn trời, hóa ra đây là cái mà người ta gọi là một nhà ga ở Luân Đôn ư. Thật tình anh chẳng ấn tượng gì sất. Cứ nhìn tất cả mấy cái đoàn tàu tí xíu cỏn con kia kìa. Này nhé, một kỹ sư xe lửa người Mỹ chắc sẽ phải cảm thấy xấu hổ khi cầm lái những đoàn tàu cỡ trẻ con như thế. Mà chẳng có lấy một chút đá cẩm thạch nào trong nhà ga cả.”</p>
 
-<p class="para-en"><strong>X</strong></p>
-
-<p class="para-vi-sub"><strong>X</strong></p>
+### X
 
 <p class="para-en">The page who took their bags up to their room in the Savoy was a brisk and smiling boy with fabulous pink cheeks.</p>
 
@@ -444,9 +424,7 @@
 
 <p class="para-vi-sub">“Thế ra là vậy ư. Em có nghe thấy gì không, Cleo? Chà, quả thật đây là một điều rất đáng để ghi nhớ đấy.”</p>
 
-<p class="para-en"><strong>XI</strong></p>
-
-<p class="para-vi-sub"><strong>XI</strong></p>
+### XI
 
 <p class="para-en">When he regarded the meager audience at Brompton Road Chapel, Elmer had an inspiration.</p>
 
@@ -492,9 +470,7 @@
 
 <p class="para-vi-sub">“‘Bởi vì Chúa Giê-su vẫn luôn ở bên tôi suốt mọi lúc mọi nơi.’”</p>
 
-<p class="para-en"><strong>XII</strong></p>
-
-<p class="para-vi-sub"><strong>XII</strong></p>
+### XII
 
 <p class="para-en">They almost applauded.</p>
 
@@ -520,9 +496,7 @@
 
 <p class="para-vi-sub">“Chuẩn quá cơ.”</p>
 
-<p class="para-en"><strong>XIII</strong></p>
-
-<p class="para-vi-sub"><strong>XIII</strong></p>
+### XIII
 
 <p class="para-en">He stood impatiently on a corner of the Rue de la Paix, while Cleo gaped into the window of a perfumer. (She was too well trained to dream of asking him to buy expensive perfume.) He looked at the façades in the Place Vendôme.</p>
 
@@ -552,9 +526,7 @@
 
 <p class="para-vi-sub">“Chà. Chúa ơi. Hai franc một tấm á?” Elmer vồ lấy xấp bưu thiếp, mắt dán vào săm soi đầy thích thú, nhưng cô bỗng nhiên sầm tới bên cạnh, khiến Elmer vội vàng nhét trả lại tập tranh và quát lớn: “Anh biến ngay khỏi đây mau, bằng không tôi gọi cảnh sát đấy. Lại còn bày đặt bán tranh ảnh đồi trụy, mà lại dám chìa ra trước mặt một mục sư của lời Chúa cơ à. Cleo ạ, mấy kẻ châu Âu này đúng là có đầu óc đen tối thật đấy.”</p>
 
-<p class="para-en"><strong>XIV</strong></p>
-
-<p class="para-vi-sub"><strong>XIV</strong></p>
+### XIV
 
 <p class="para-en">It was on the steamer home that he met and became intimate with <abbr epub:type="z3998:given-name">J. E.</abbr> North, the renowned vice-slayer, executive secretary of the National Association for the Purification of Art and the Press﻿—affectionately known through all the evangelical world as “the Napap.” <abbr epub:type="z3998:name-title">Mr.</abbr> North was not a clergyman (though he was a warm Presbyterian layman), but no clergyman in the country had more furiously pursued wickedness, more craftily forced congressmen, through threats in their home districts, to see legislation in the same reasonable manner as himself. For several sessions of Congress he had backed a bill for a federal censorship of all fiction, plays, and moving pictures, with a penitentiary sentence for any author mentioning adultery even by implication, ridiculing prohibition, or making light of any Christian sect or minister.</p>
 
@@ -588,9 +560,7 @@
 
 <p class="para-vi-sub">“Ồ, đó lại đúng là sinh nhật vợ tôi, và chúng tôi vẫn thường xem đó là một ngày lễ gia đình ấm cúng, chúng tôi tự hào là một gia đình truyền thống gắn kết mà, nhưng tôi biết chắc rằng Cleo sẽ chẳng bao giờ để chuyện đó ngáng đường việc tôi thực hiện bất cứ sứ mệnh nào nhằm mở rộng Vương quốc của Chúa đâu.”</p>
 
-<p class="para-en"><strong>XV</strong></p>
-
-<p class="para-vi-sub"><strong>XV</strong></p>
+### XV
 
 <p class="para-en">So Elmer came, though tardily, to the Great Idea which was to revolutionize his life and bring him eternal and splendid fame.</p>
 
@@ -624,9 +594,7 @@
 
 <p class="para-vi-sub">“Một vị <i>giám mục</i> ư? <i>Mình?</i> Một Wes Toomis kẻ đó ư? Khỉ thật, đừng có ngớ ngẩn thế chứ. Mình sắp trở thành hoàng đế của nước Mỹ, và có lẽ là của cả thế giới cơ đấy. Thật mừng vì mình đã lóe lên ý tưởng này từ sớm, khi mới chỉ bước sang tuổi bốn mươi ba. Mình sẽ làm được. Mình nhất định sẽ làm được”, Elmer hân hoan phớ lớ. “Bây giờ hãy xem nào: bước đầu tiên là nịnh bợ lão <abbr epub:type="z3998:given-name">J. E.</abbr> North này, và làm bất cứ điều gì lão muốn cho đến khi đến thời điểm tống cổ lão đi, rồi kiếm một nhà thờ ở Thành phố New York để thiên hạ biết rằng mình thuộc hàng thượng lưu... Chúa tôi, vậy mà Jim Lefferts lại từng tìm cách ngăn cản mình trở thành một mục sư.”</p>
 
-<p class="para-en"><strong>XVI</strong></p>
-
-<p class="para-vi-sub"><strong>XVI</strong></p>
+### XVI
 
 <p class="para-en">“﻿—and I stood,” Elmer was explaining, in the pulpit of Wellspring Church, “there on the Roo deluh Pay in Paris, filled almost to an intolerable historical appreciation of those aged and historical structures, when suddenly up to me comes a man obviously a Frenchman.</p>
 

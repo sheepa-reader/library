@@ -1,8 +1,6 @@
 # Chương XXXI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">For over a year now it had been murmured through the church-world that no speaker was more useful to the reform organization than the <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Dr.</abbr> Elmer Gantry of Zenith. His own church regretted losing his presence so often, but they were proud to hear of him as speaking in New York, in Los Angeles, in Toronto.</p>
 
@@ -20,9 +18,7 @@
 
 <p class="para-vi-sub">Nhưng người ta cũng biết chắc chắn một điều, than ôi, rằng gã có khả năng được mời về quản nhiệm Nhà thờ Giám lý Yorkville tại Thành phố New York, nơi có các thành viên gồm Tiến sĩ Wilkie Bannister, vị tín đồ theo Chủ nghĩa Chính thống cứng rắn, đồng thời là một trong những bác sĩ phẫu thuật nổi tiếng nhất cả nước, cùng Peter F. Durbar, triệu phú dầu mỏ, và Jackie Oaks, danh hài kịch ca nhạc. Vị giám mục giáo hạt New York sẵn sàng trao cho Tiến sĩ Gantry chức vụ đó. Nhưng chà... có những câu chuyện mâu thuẫn; một phiên bản nói rằng Tiến sĩ Gantry chưa quyết định nhận chức vụ ở Yorkville; phiên bản kia lại nói rằng Yorkville, tức là Tiến sĩ Bannister, chưa quyết định nhận Tiến sĩ Gantry. Dù thế nào đi nữa, bầy chiên ở Wellspring vẫn hy vọng rằng vị mục sư, người bảo hộ tâm linh, người bạn và người anh em của họ sẽ không rời bỏ họ.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">After he had discharged Miss Bundle, the church secretary﻿—and that was a pleasant moment; she cried so ludicrously﻿—Elmer had to depend on a series of incapable girls, good Methodists but rotten stenographers.</p>
 
@@ -40,9 +36,7 @@
 
 <p class="para-vi-sub">Và gã đã mệt mỏi biết bao với sự sùng kính quê mùa và thiếu trí tưởng tượng của Lulu Bains! Nếu cô ta còn thốt lên bằng giọng ngọng nghịu rằng “Ôi, Elmer, anh mạnh mẽ làm sao,” dù chỉ một lần nữa thôi, gã sẽ đấm cho cô ta một cú tơi bời.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">In the cue of people who came up after the morning service to shake hands with the Reverend <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry was a young woman whom the pastor noted with interest.</p>
 
@@ -88,9 +82,7 @@
 
 <p class="para-vi-sub">“Em rất sẵn lòng.”</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Not even the nights when they worked together, alone in the church, were more thrilling than their swift mocking kisses between the calls of solemn parishioners. To be able to dash across the study and kiss her soft temple after a lugubrious widow had waddled out, and to have her whisper, “Darling, you were <em>too</em> wonderful with that awful old hen; oh, you are so dear!”﻿—that was life to him.</p>
 
@@ -136,9 +128,7 @@
 
 <p class="para-vi-sub">Cô còn gánh vác một nhiệm vụ khó khăn và quan trọng hơn, đó là khích lệ William Dollinger Styles, người chưa bao giờ tỏ ra thân thiện như Rigg. Cô nói với ông ta rằng ông ta là một vị hoàng đế tài chính của giới kinh doanh. Cô suýt đi quá giới hạn trong sự quan tâm dành cho Styles; cô đã đi ăn trưa riêng với ông ta. Elmer phản đối đầy ghen tuông, và cô đã vui vẻ đồng ý không bao giờ gặp lại Styles bên ngoài nhà thờ nữa.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">That was a hard, a rather miserable job, getting rid of the Lulu Bains whom Hettie had made superfluous.</p>
 
@@ -204,9 +194,7 @@
 
 <p class="para-vi-sub">Năm sau, người chồng lấy làm mừng khi thấy vợ mình, nhờ một phép màu nào đó, đã đánh rơi cái sự đầy hoài bão từng khiến hắn phiền lòng, và rằng tối này qua tối khác cô sẵn sàng ở nhà chơi bài cribbage. Nhưng hắn lại tức tối và lải nhải không ngớt trước thực tế là cứ hễ bước chân về nhà là hắn lại thấy cô ngồi thừ mặt ra, thẫn thờ chẳng màng động tay động chân, và rằng cô đã trở nên quá ư xập xệ, lôi thôi với mái tóc của mình. Dù sao thì đời vẫn là đời, và hắn rồi cũng quen dần với cảnh cô lê la cả ngày trong bộ áo choàng tắm, thỉnh thoảng còn văng ra mùi rượu gin.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">By recommendation of <abbr epub:type="z3998:given-name">J. E.</abbr> North, it was Elmer who was chosen by the Sacred Sabbath League to lead the fight against Sunday motion pictures in Zenith. “This will be fine training for you,” <abbr epub:type="z3998:name-title">Mr.</abbr> North wrote to Elmer, “in case the directors elect you my successor in the Napap; training for the day when you will be laying down the law not merely to a city council but to congressmen and senators.”</p>
 
@@ -264,9 +252,7 @@
 
 <p class="para-vi-sub">Trên thực tế, dựa trên các lệnh bắt do Mục sư Tiến sĩ Elmer Gantry ký bảo đảm, toàn bộ những cá nhân dính líu đến hành vi báng bổ ngày Sa-bát qua việc tổ chức chiếu phim đã bị tống giam trong suốt ba ngày Chủ nhật liên tiếp (sau đó các rạp chiếu phim lại tiếp tục hoạt động như cũ), và Elmer nhận được những bức điện tín bày tỏ lòng kính trọng từ Liên đoàn Thánh nhật, J. E. North, Tiến sĩ Wilkie Bannister thuộc Nhà thờ Giám lý Yorkville tại Thành phố New York, cùng hàng trăm vị giáo sĩ cộm cán trên khắp cả nước.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">Within twenty-four hours <abbr epub:type="z3998:name-title">Mr.</abbr> <abbr epub:type="z3998:given-name">J. E.</abbr> North let Elmer know that he was really resigning in a month, and that the choice for his successor lay between Elmer and only two other holy men; and <abbr epub:type="z3998:name-title">Dr.</abbr> Wilkie Bannister wrote that the Official Board of the Yorkville Methodist Church, after watching Elmer’s career for the last few months, was ready to persuade the bishop to offer him the pastorate, providing he should not be too much distracted by outside interests.</p>
 
@@ -292,9 +278,7 @@
 
 <p class="para-vi-sub">Chính Hettie Dowler là người đã soạn thảo những bức thư này, nhưng Elmer đã sửa lại vài dấu phẩy và thể hiện sự ghi nhận bằng cách hôn cô trong lúc cô đang đánh máy.</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">It was too vexatious that at this climax of his life Elmer’s mother should have invited herself to come and stay with them.</p>
 

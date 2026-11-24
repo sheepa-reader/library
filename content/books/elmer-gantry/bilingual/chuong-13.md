@@ -1,8 +1,6 @@
 # Chương XIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Not till December did Sharon Falconer take Elmer on as assistant.</p>
 
@@ -48,9 +46,7 @@
 
 <p class="para-vi-sub">Nếu trong suốt hai năm đó, Sharon là một tu sĩ dervish cuồng nhiệt, thì cô chính là một ngôi sao băng; đầy cảm hứng khi giảng đạo, nồng cháy bên gã, rồi lại hóa thành một đứa trẻ ngỗ nghịch cười vang và từ chối trở nên nghiêm túc ngay cả trong giờ giảng; hào phóng đầy trượng nghĩa, rồi bỗng chốc trở thành một mụ đàn bà đanh đá keo kiệt tranh chấp từng xu tiền mua tem thư. Dù ở bất kỳ tâm trạng rực rỡ màu sắc nào, cô vẫn luôn là tôn giáo và là lý do tồn tại của gã.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">When she attacked the larger towns and asked for the support of the richer churches, Sharon had to create several new methods in the trade of evangelism. The churches were suspicious of women evangelists﻿—women might do very well in visiting the sick, knitting for the heathen, and giving strawberry festivals, but they couldn’t shout loud enough to scare the devil out of sinners. Indeed all evangelists, men and women, were under attack. Sound churchmen here and there were asking whether there was any peculiar spiritual value in frightening people into groveling maniacs. They were publishing statistics which asserted that not ten percent of the converts at emotional revival meetings remained church-members. They were even so commercial as to inquire why a pastor with a salary of two thousand dollars a year﻿—when he got it﻿—should agonize over helping an evangelist to make ten thousand, forty thousand.</p>
 
@@ -76,9 +72,7 @@
 
 <p class="para-vi-sub">Nhân viên truyền thông mới cuối cùng đã trở nên vô cùng ấn tượng trước những vẻ đẹp của công cuộc truyền giáo, trái ngược hẳn với những gánh xiếc và bất động sản trước đây của gã, đến mức chính bản thân gã cũng cải đạo. Đôi khi có mặt ở thị trấn cùng đoàn lưu diễn, gã còn đứng hát trong dàn hợp xướng và phát biểu trước các lớp học báo chí của Hiệp hội Thanh niên Cơ Đốc. Nhưng ngay cả những lý lẽ của Elmer cũng chẳng tài nào khiến gã từ bỏ được niềm đam mê bền bỉ, kiên định dành cho môn bài poker.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">The contract signed, the advance-man remembered his former newspaper labors, and for a few days became touchingly friendly with all the reporters in town. There were late parties at his hotel; there was much sending of bellboys for more bottles of Wilson and White Horse and Green River. The press-agent admitted that he really did think that Miss Falconer was the greatest woman since Sarah Bernhardt, and he let the boys have stories, guaranteed held exclusive, of her beauty, the glories of her family, her miraculous power of fetching sinners or rain by prayer, and the rather vaguely dated time when, as a young girl, she had been recognized by Dwight Moody as his successor.</p>
 
@@ -164,9 +158,7 @@
 
 <p class="para-vi-sub">“Tất cả các anh đều phải hướng về phía trước, và với niềm hân hoan, hãy sẵn sàng hy sinh thời gian lẫn tiền bạc cho những buổi lễ này. Chúng ta đã lặn lội đến đây với sự hy sinh to lớn, và chúng ta có mặt ở đây chỉ để giúp đỡ các anh mà thôi.”</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">The afternoon and evening sermons﻿—those were the high points of the meetings, when Sharon cried in a loud voice, her arms out to them, “Surely the Lord is in this place and I knew it not,” and “All our righteousness is as filthy rags,” and “We have sinned and come short of the glory of God,” and “Oh, for the man to arise in me, that the man I am may cease to be,” and “Get right with God,” and “I am not ashamed of the gospel of Christ, for it is the power of God unto salvation.”</p>
 
@@ -240,9 +232,7 @@
 
 <p class="para-vi-sub">Nhiều cậu thanh niên còn đang chần chừ, vốn có chút phát ngấy trước bầu không khí nữ tính u sầu và sướt mướt trong lời kêu gọi của Sharon, cứ thế được lôi kéo bước lên bệ đoàn để bắt tay Elmer và thấu hiểu những hồng ân của tôn giáo.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">The gospel crew could never consider their converts as human beings, like waiters or manicurists or brakemen, but they had in them such a professional interest as surgeons take in patients, critics in an author, fishermen in trout.</p>
 
@@ -268,9 +258,7 @@
 
 <p class="para-vi-sub">Không, Elmer không thể nào coi lũ người cải đạo đó là con người được. Thỉnh thoảng, khi đứng dưới hàng ghế khán giả để diễn trò tên gã hùng hách dịch mà Judson Roberts từng áp dụng với gã ngày trước, gã ngước nhìn lên bục giảng, nơi một hàng đàn ông đang trải qua sự thức tỉnh tội lỗi quỳ gối tì tay lên ghế với cái mông chổng ngược về phía đám đông, gã lại thèm thuồng muốn khúc khích cười và cầm lấy một thanh ván nhỏ quất cho mấy phát. Nhưng chỉ năm phút sau, gã đã có mặt ở đó, quỳ gối cạnh một tay bán máy khâu đang run rẩy vì hậu quả cơn say ngày hôm trước, khoác tay lên vai người khách hàng, nài nỉ bằng giọng điệu của một con bò cái đang gọi con: “Anh không thể khuất phục trước Chúa sao, huynh đệ? Anh không muốn từ bỏ tất cả những thói hư tật xấu đang tàn phá đời mình, đang kìm hãm anh vươn tới thành công hay sao? Lắng nghe này! Chúa sẽ giúp anh làm nên sự nghiệp! Và khi cô độc, anh bạn già ạ, hãy nhớ rằng Ngài vẫn luôn ở đó, đang ngóng chờ để được trò chuyện cùng anh!”</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">They generally, before the end of the meetings, worked up gratifying feeling. Often young women knelt panting, their eyes blank, their lips wide with ecstasy. Sometimes, when Sharon was particularly fired, they actually had the phenomena of the great revivals of 1800. People twitched and jumped with the holy jerks, old people under pentecostal inspiration spoke in unknown tongues﻿—completely unknown; women stretched out senseless, their tongues dripping; and once occurred what connoisseurs regard as the highest example of religious inspiration. Four men and two women crawled about a pillar, barking like dogs, “barking the devil out of the tree.”</p>
 
@@ -280,9 +268,7 @@
 
 <p class="para-vi-sub">Sharon rất tận hưởng những phép lạ này. Chúng cho thấy tài năng của cô; chúng là những biểu hiện xác thực của Quyền năng Thần thánh Nội tại. Nhưng đôi khi chúng mang lại cho các buổi truyền giảng tiếng tăm không mấy tốt đẹp, và bọn hoài nghi khiến cô suy sụp khi bàn tán về những kẻ lăn lóc trong ơn thánh. Chính vì sự cay độc đó và vì niềm phấn khích mà cô tìm thấy trong những buổi họp được Chúa Thánh Thần ưu ái nhường ấy, Elmer luôn phải đặc biệt dỗ dành cô sau mỗi buổi lễ.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">All the members of the evangelistic crew planned effects to throw a brighter limelight on Sharon. There was feverish discussions of her costumes. Adelbert had planned the girdled white robe in which she appeared as priestess, and he wanted her to wear it always. “You are so queeeeenly,” he whimpered. But Elmer insisted on changes, on keeping the robe for crucial meetings, and Sharon went out for embroidered golden velvet frocks, and, at meetings for business women, smart white flannel suits.</p>
 

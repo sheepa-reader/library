@@ -1,8 +1,6 @@
 # Chương XXII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">A year he spent in Rudd Center, three years in Vulcan, and two years in Sparta. As there were 4,100 people in Rudd Center, 47,000 in Vulcan, and 129,000 in Sparta, it may be seen that the Reverend Elmer Gantry was climbing swiftly in Christian influence and character.</p>
 
@@ -76,9 +74,7 @@
 
 <p class="para-vi-sub">“Lạy Chúa, nếu con cứ tiếp tục đi bên Sharon, có lẽ con đã có thể trở thành một người đàng hoàng”, gã than thở, trong nỗi buồn tỏ ra đồng cảm với toàn nhân loại. Nhưng vào ngày hôm sau, tại chánh điện, gã sẽ xoa dịu nỗi buồn đó bằng cách gầm lên: “Và những kẻ chủ tiệm khiêu vũ này, những kẻ cám dỗ những thiếu nữ ngây thơ xinh đẹp, những cánh cửa mở ra hố sâu của sự chết chóc và kinh hoàng ấy, chúng sẽ nhận được phần thưởng xứng đáng... chúng sẽ bị thiêu rụi trong địa ngục đời đời... bị thiêu rụi theo nghĩa đen... <b>thiêu rụi</b>... và trước sự đau khổ của chúng, chúng ta sẽ chỉ cảm thấy hoan hỉ vì công lý của Chúa đã được thực thi kiên quyết.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Something like statewide fame began to cling about the Reverend Elmer Gantry during his two years in Sparta﻿—1918 to 1920. In the spring of ’18 he was one of the most courageous defenders of the Midwest against the imminent invasion of the Germans. He was a Four-Minute Man. He said violent things about atrocities, and sold Liberty Bonds hugely. He threatened to leave Sparta to its wickedness while he went out to “take care of our poor boys” as a chaplain, and he might have done so had the war lasted another year.</p>
 
@@ -96,9 +92,7 @@
 
 <p class="para-vi-sub"><em><p class="p0"><b>Bạn Có Muốn Mẹ Mình Đi Tắm Mà Không Mặc Vớ Hay Không?</b></p> <p class="p0">Bạn có tin vào phẩm giá phụ nữ truyền thống, những người vừa biết yêu thương, biết cười vui mà vẫn là biểu tượng cho sự công chính của Thượng Đế, khiến người ta phải rớm lệ khi nhớ về sự dịu dàng che chở của họ? Bạn có muốn thấy chính người mẹ kính yêu của mình tham gia tắm chung nam nữ hay nhảy nhịp một, cái trò hề nhăng nhố do chính Địa Ngục đẻ ra ấy không?</p> <p class="p0"><b>Mục sư Elmer Gantry</b></p> <p class="p0">sẽ trả lời những câu hỏi này và nhiều vấn đề khác vào sáng Chủ nhật tới đây. Gantry luôn nói thẳng không vòng vo.</p> <p class="p0"><b>Nhà thờ Giám lý Đại lộ Poplar</b></p> <p class="p0">Hãy theo chân đám đông đến với những giây phút tuyệt vời <br/> Tại ngôi nhà thờ tuyệt vời cùng tiếng chuông ngân tuyệt vời.</p></em></p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">While he was in Sparta, national prohibition arrived, with its high-colored opportunities for pulpit-orators, and in Sparta he was inspired to his greatest political campaign.</p>
 
@@ -172,9 +166,7 @@
 
 <p class="para-vi-sub">Và ngay sau sự kiện ấy, sáu tháng trước thềm Hội nghị Thường niên năm 1920, Giám mục Toomis đã cho gọi Elmer đến gặp.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">“At first I was afraid,” said the bishop, “you were making a great mistake in soiling yourself in this Sparta campaign. After all, it’s our mission to preach the pure gospel and the saving blood of Jesus, and not to monkey with politics. But you’ve been so successful that I can forgive you, and the time has come﻿—At the next Conference I shall be able to offer you at last a church here in Zenith, and a very large one, but with problems that call for heroic energy. It’s the old Wellspring Church, down here on Stanley Avenue, corner of Dodsworth, in what we call ‘Old Town.’ It used to be the most fashionable and useful Methodist church in town, but the section has run down, and the membership has declined from something like fourteen hundred to about eight hundred, and under the present pastor﻿—you know him﻿—old Seriere, fine noble Christian gentleman, great soul, but a pretty rotten speaker﻿—I don’t guess they have more than a hundred or so at morning service. Shame, Elmer, wicked shame to see this great institution, meant for the quickening of such vast multitudes of souls, declining and, by thunder, not hardly giving a cent for missions! I wonder if you could revive it? Go look it over, and the neighborhood, and let me know what you think. Or whether you’d rather stay on in Sparta. You’ll get less salary at Wellspring than you’re getting in Sparta﻿—four thousand, isn’t it?﻿—but if you build up the church, guess the Official Board will properly remunerate your labors.”</p>
 

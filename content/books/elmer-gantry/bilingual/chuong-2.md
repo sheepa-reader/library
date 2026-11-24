@@ -1,8 +1,6 @@
 # Chương II
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">For years the state of sin in which dwelt Elmer Gantry and Jim Lefferts had produced fascinated despair in the Christian hearts of Terwillinger College. No revival but had flung its sulphur-soaked arrows at them﻿—usually in their absence. No prayer at the <abbr epub:type="z3998:initialism">Y.M.C.A.</abbr> meetings but had worried over their staggering folly.</p>
 
@@ -132,9 +130,7 @@
 
 <p class="para-vi-sub">Thực tế là gã đã học được mọi thứ từ nhà thờ và Trường Chúa nhật, ngoại trừ, có lẽ là bất kỳ niềm khao khát nào dẫu chỉ là nhỏ nhất đối với sự tao nhã, lòng tốt và lý trí.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Even had Elmer not known the church by habit, he would have been led to it by his mother. Aside from his friendship for Jim Lefferts, Elmer’s only authentic affection was for his mother, and she was owned by the church.</p>
 
@@ -196,9 +192,7 @@
 
 <p class="para-vi-sub">Mỗi khi Elmer ở nhà, dù gã cố gắng đầy âu yếm để sống theo những dự định mà mẹ đã vạch ra cho mình, dù không mấy khi cằn nhằn mà chịu lên giường vào lúc chín giờ rưỡi, quét vôi chuồng gà và đi dự lễ cùng bà, thì Mrs. Gantry vẫn hồ nghi rằng thỉnh thoảng gã có uống bia và hoài nghi về chuyện Jonah, để rồi Elmer đầy bất an khi nghe thấy tiếng mẹ nức nở quỳ gối bên chiếc giường cổ có lớp phủ trải giường trắng phau, phồng cao của bà.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">With alarmed evangelistic zeal, Jim Lefferts struggled to keep Elmer true to the faith, after his exposure to religion in defending Eddie at Cato.</p>
 

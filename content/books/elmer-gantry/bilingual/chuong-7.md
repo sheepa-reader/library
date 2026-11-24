@@ -1,8 +1,6 @@
 # Chương VII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The Reverend Jacob Trosper, <abbr epub:type="z3998:name-title">D.D.</abbr>, <abbr epub:type="z3998:name-title">Ph. D.</abbr>, <abbr epub:type="z3998:name-title">LL.D.</abbr>, dean and chief executive of Mizpah Theological Seminary, and Professor of Practical Theology and Homiletics, was a hard-faced active man with a large active voice. His cheeks were gouged with two deep channels. His eyebrows were heavy. His hair, now gray and bristly, must once have been rusty, like Eddie Fislinger’s. He would have made an excellent top-sergeant. He looked through the students and let them understand that he knew their sins and idlenesses before they confessed them.</p>
 
@@ -52,9 +50,7 @@
 
 <p class="para-vi-sub">Nhà thờ đầu tiên của gã... của riêng gã... vậy mà Frank lại phải chịu sự điều động dưới quyền gã.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">In the virginal days of 1905 section gangs went out to work on the railway line not by gasoline power but on a handcar, a platform with two horizontal bars worked up and down like pump-handles.</p>
 
@@ -196,9 +192,7 @@
 
 <p class="para-vi-sub">Gã chẳng thèm chúc mừng anh vì đã vượt qua được nỗi sợ hãi trước những cử tọa nhà quê đờ đẫn (anh vốn sống ở thành phố) hay vì đã biến ngôi đền của Solomon thành không chỉ một đối tượng chán ngắt cấu thành từ một thứ chất liệu gọi là cẩm thạch mà là một đền thờ thực sự nơi ngự trị của một vị thần linh sống động và đầy kinh hoàng.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">For two Sundays now Elmer had striven to impress Lulu not only as an efficient young prophet but as a desirable man. There were always too many people about. Only once did he have her alone. They walked half a mile then to call on a sick old woman. On their way Lulu had fluttered at him (gray-and-white kitten in a close bonnet of soft fuzzy gray, which he wanted to stroke).</p>
 
@@ -276,9 +270,7 @@
 
 <p class="para-vi-sub">Mục sư Gantry liền lên kế hoạch mang lại sự thú vị cho cô.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Elmer and Frank had gone down on Saturday afternoon to decorate the church for the Thanksgiving service. To save the trip to Babylon and back, they were to spend Saturday night in the broad farmhouse of Deacon Bains, and Lulu Bains and her spinster cousin, Miss Baldwin, were assisting in the decoration﻿—in other words doing it. They were stringing pine boughs across the back of the hall, and arranging a harvest feast of pumpkins, yellow corn, and velvety sumach in front of the pulpit.</p>
 
@@ -516,9 +508,7 @@
 
 <p class="para-vi-sub">“Nghe này, cưng. Em cứ nghĩ anh già dặn lắm, và tất nhiên anh phải ra dáng trước mặt bao người khi đứng trên bục giảng, nhưng em thì nhìn thấu được con người anh... anh thực ra chỉ là một thằng nhóc lớn xác, nhút nhát, và rất cần sự giúp đỡ của em. Em có biết không, cưng ạ, em làm anh nhớ đến mẹ anh...”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">Frank Shallard turned on Elmer in their bedroom, while they were washing for supper﻿—their first moment alone since Lulu and Miss Baldwin had driven them to the Bains farm to spend the night before the Thanksgiving service.</p>
 
@@ -628,9 +618,7 @@
 
 <p class="para-vi-sub">“Lạy Chúa tôi, Gantry, cậu đúng là một sinh vật hoàn hảo đến mức nực cười.”</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">Deacon and <abbr epub:type="z3998:name-title">Mrs.</abbr> Bains﻿—an angry-faced, generous, grasping, horsy, black-mustached man he was, and she a dumpling﻿—managed to treat Frank and Elmer simultaneously as professors of the sacred mysteries and as two hungry boys who were starved at Mizpah and who were going to catch up tonight. Fried chicken, creamed chipped beef, homemade sausages, pickles and mince pie in which Elmer suspected, and gratefully suspected, the presence of unrighteous brandy, were only part of the stout trencher-work required of the young prophets. <abbr epub:type="z3998:name-title">Mr.</abbr> Bains roared every three minutes at the swollen and suffering Frank, “Nonsense, nonsense, Brother, you haven’t begun to eat yet! What’s the matter with you? Pass up your plate for another helpin’.”</p>
 
@@ -664,9 +652,7 @@
 
 <p class="para-vi-sub">Anh mở miệng hai lần rồi lại ngậm lại. Sau đó thì đã quá muộn. Ông Bains đã kịp vùi dập anh bằng màn cải đạo và bánh nướng nhân thịt.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">Lulu was at the other end of the table from Elmer. He was rather relieved. He despised Frank’s weakness, but he was never, as with Eddie Fislinger, sure what Frank would do or say, and he determined to be cautious. Once or twice he glanced at Lulu intimately, but he kept all his conversation (which, for Lulu’s admiration, he tried to make learned yet virile) for <abbr epub:type="z3998:name-title">Mr.</abbr> Bains and the other deacons.</p>
 
@@ -772,9 +758,7 @@
 
 <p class="para-vi-sub">Charley, cũng giống như các vị chấp sự khác, đã biến vào trong bếp từ lúc nào sau lưng Sư huynh Bains. Có tiếng động trầm đục phát ra giống như tiếng mở nắp chum rượu, trong khi đám phụ nữ và các vị chức sắc thì lớn tiếng trò chuyện với vẻ mặt đầy thông cảm. Chẳng mấy chốc, đám đàn ông xuất hiện ở cửa, dùng mu bàn tay đầy lông quệt quệt khóe miệng.</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">After the tremendous leave-taking, to a yawning host Elmer suggested, “If it won’t bother you and Sister Bains, I’m going to stay down here by the fire a few minutes and complete my notes for my sermon tomorrow. And then I won’t keep Brother Shallard awake.”</p>
 
@@ -880,9 +864,7 @@
 
 <p class="para-vi-sub">Cô giật phắt tay lại, nhanh chóng hôn lên thái dương gã rồi chạy vụt đi. Gã điên cuồng bước đi cồng kềnh khắp căn phòng, lúc thì hân hoan đắc thắng, lúc lại khao khát đến tối tăm mặt mày.</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">During their handcar return to Babylon and the Seminary, Elmer and Frank had little to say.</p>
 

@@ -1,8 +1,6 @@
 # Chương XXXII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Two evenings after Elmer’s mother had almost alienated him, he settled down in his study at home to prepare three or four sermons, with a hope of being in bed by eleven. He was furious when the Lithuanian maid came in and said, “Somebody on the phone, Doctor,” but when he heard Hettie the ragged edges went out of his voice.</p>
 
@@ -52,9 +50,7 @@
 
 <p class="para-vi-sub">Gã giải thích với cô và mẹ rằng mình phải đi an ủi một cụ bà đang hấp hối <i lang="la" xml:lang="la">in extremis</i>, nhận lấy những lời ca ngợi của họ dành cho sự hy sinh vì đạo của gã, rồi vội vã chuồn thẳng.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Elmer was sitting beside Hettie on the damask couch, under the standard lamp, stroking her hand and explaining how unjust his mother was, when the door of her suite opened gravely and a thin, twitching-faced, gimlet-eyed man walked in.</p>
 
@@ -140,9 +136,7 @@
 
 <p class="para-vi-sub">“Thì sao nào, đồ ngốc nghếch to xác kia. Tụi tao đã nắm thóp mày rồi nhé. Những bức thư của mày nghe sẽ hay tuyệt cú mèo trên tòa cho mà xem. Nhưng đừng có mà mơ tưởng dù chỉ một phút rằng những tay cộng tác cừ khôi như Oscar và tao lại đi lãng phí thời gian vào một tên mục sư giả hiệu trong túi không có nổi mười đồng. Mục tiêu ban đầu của bọn tao là William Dollinger Styles cơ. Nhưng ông ta không phải là kẻ đần độn như mày, ông ta đã từ chối thẳng thừng khi tao nhận lời đi ăn trưa và rủ ông ta hẹn hò. Thế nên, vì bọn tao đã mất công dàn dựng cơ ngơi này, bọn tao nghĩ thà cứ vơ vét chút chi phí đi lại và ít tiền lẻ từ mày còn hơn, đồ keo kiệt bủn xỉn ạ, và mẹ kiếp, bọn tao sẽ làm thế thật đấy. Giờ thì cút ngay khỏi đây. Tao chán ngấy cái giọng lè nhè của mày lắm rồi. Không, tao nghĩ mày tốt nhất là đừng có đấm tao. Oscar đang đợi sẵn ngoài cửa đấy. Tiếc quá vì ngày mai tao không có mặt ở nhà thờ được, đừng lo lắng gì về đồ đạc hay tiền lương của tao nhé, tao đã lĩnh sạch từ chiều nay rồi.”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">At midnight, his mouth hanging open, Elmer was ringing at the house of <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg. He rang and rang, desperately. No answer. He stood outside then and bawled “<abbr epub:type="z3998:given-name">T. J.</abbr>! <abbr epub:type="z3998:given-name">T. J.</abbr>!”</p>
 
@@ -204,9 +198,7 @@
 
 <p class="para-vi-sub">“Anh có thể biến nó thành một bài giảng đấy, và chắc chắn anh sẽ làm thế.”</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">The chastened and positively-for-the-last-time-reformed Elmer lasted for days. He was silent at the conference with Oscar Dowler, Oscar’s lawyer, Mannie Silverhorn, and <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg in the church study next noon. Rigg and Silverhorn did the talking. (And Elmer was dismayed to see how friendly and jocose Rigg was with Silverhorn, of whom he had spoken in most un-Methodist terms.)</p>
 
@@ -248,9 +240,7 @@
 
 <p class="para-vi-sub">“Lúc hai giờ kém mười lăm sáng nay, tôi đã nói chuyện với Pete Reese thuộc Hãng Thám tử Reese, bảo anh ta vào cuộc rồi. Chúng ta sẽ nắm được khối thứ về nhà Dowler trong vài ngày tới. Thế nên cứ yên tâm đi.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">Elmer was sufficiently consoled not to agonize that week, yet not so consoled but that he became a humble and tender Christian. To the embarrassed astonishment of his children, he played with them every evening. To Cleo he was almost uxorious.</p>
 
@@ -276,9 +266,7 @@
 
 <p class="para-vi-sub">“Vâng, và chính sự giáo dưỡng của mẹ đã biến con thành một tín đồ Cơ Đốc và một nhà truyền giáo. Ồ, một người đàn ông thực sự mang ơn quá lớn đối với một người mẹ sùng đạo”, Elmer nói.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">Mannie Silverhorn was one of the best ambulance-chasers in Zenith. A hundred times he had made the streetcar company pay damages to people whom they had not damaged; a hundred times he had made motorists pay for injuring people whom they had not injured. But with all his talent, Mannie had one misfortune﻿—he would get drunk.</p>
 

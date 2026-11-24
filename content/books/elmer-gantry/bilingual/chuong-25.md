@@ -1,8 +1,6 @@
 # Chương XXV
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Elmer had, even in Zenith, to meet plenty of solemn and whiskery persons whose only pleasure aside from not doing agreeable things was keeping others from doing them. But the general bleakness of his sect was changing, and he found in Wellspring Church a Young Married Set who were nearly as cheerful as though they did not belong to a church.</p>
 
@@ -56,9 +54,7 @@
 
 <p class="para-vi-sub">Sau những suy tính đó, gã lại tìm đến sự hiếu khách của <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg; trong ngôi nhà bừa bộn nhưng vui vẻ của lão ta, gã có thể hoàn toàn thư giãn và khai thác những thông tin về sự nghiệp kinh doanh mờ ám của những nhà tài trợ hào phóng nhất. Thế nhưng suốt khoảng thời gian ấy, sự hấp dẫn từ Beryl Gilson, ảo ảnh về đôi vai mịn màng như chim bồ câu của cô ta cứ quấy đảo khiến gã phát điên.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">He had not noticed them during that Sunday morning sermon in late autumn, not noticed them among the admirers who came up afterward to shake hands. Then he startled and croaked, so that the current hand-shaker thought he was ill.</p>
 
@@ -208,9 +204,7 @@
 
 <p class="para-vi-sub">Gã hôn cô. “Ôi, cô nàng ngốc nghếch của anh!” gã nói.</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">They had to be careful. Elmer had singularly little relish for having the horny-handed Floyd Naylor come in some afternoon and find him with Lulu.</p>
 

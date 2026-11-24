@@ -1,8 +1,6 @@
 # Chương VI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">The state of Winnemac lies between Pittsburgh and Chicago, and in Winnemac, perhaps a hundred miles south of the city of Zenith, is Babylon, a town which suggests New England more than the Middle West. Large elms shade it, there are white pillars beyond lilac bushes, and round about the town is a serenity unknown on the gusty prairies.</p>
 

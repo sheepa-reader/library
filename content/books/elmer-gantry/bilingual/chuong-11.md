@@ -1,8 +1,6 @@
 # Chương XI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">Elmer Gantry was twenty-eight and for two years he had been a traveling salesman for the Pequot Company.</p>
 
@@ -376,9 +374,7 @@
 
 <p class="para-vi-sub">Cô ném cho gã một nụ cười không chút niềm nở rồi rảo bước đi thẳng. Elmer cảm thấy người mình nặng trịch, vụng về và ngu ngốc đến mức không sao tả xiết, nhưng gã tức tối thề bồi: “Mặc thây cô, rồi mình sẽ tóm được cô vào lúc cô không còn bận bịu ngập đầu trong công việc và cái thói tự cao tự đại ngớ ngẩn của chính mình nữa cho mà xem, lúc đó mình sẽ bắt cô phải sáng mắt ra, cô em ạ.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">He had to do nine days’ work, to visit nine towns, in five days, but he was back in Sautersville on Sunday evening and he was on the eleven-o’clock train for Lincoln﻿—in the new brown suit.</p>
 
@@ -544,9 +540,7 @@
 
 <p class="para-vi-sub">“Hừm. Mọi chuyện nghe có vẻ khá chân thành đấy, ngoại trừ đoạn cuối cùng kia, chắc chắn là anh đã từng dùng bài đó với ai rồi. Anh biết không, tôi lại thích anh đấy. Anh hoàn toàn trơ tráo, hoàn toàn vô liêm sỉ và ngu dốt đầy phước hạnh. Dạo này tôi đã phải tiếp xúc với quá nhiều kẻ đạo đức giả rồi. Thật thú vị khi thấy anh thực sự nghĩ rằng mình có thể thu hút được tôi. Đồ ngốc nghếch ạ. Tôi đang trọ tại Khách sạn Antlers ở Thành phố Lincoln... nhân tiện thì anh đừng có tốn công kiếm phòng gần khu suite của tôi làm gì, vì tôi đã thuê trọn gần như cả một tầng lầu rồi... và tôi sẽ gặp anh ở phòng ăn ở đó vào lúc chín giờ rưỡi.”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">Though he did not sleep well, he was up early and at his toilet; he shaved, he touched up his bluff handsomeness with lilac water and talcum, he did his nails, sitting in athletic underwear, awaiting his new suit, sent down for pressing. The new purpose in a life recently so dispirited gave vitality to his bold eyes and spring to his thick muscles as he strode through the gold-and-marble lobby of the Antlers Hotel and awaited Sharon at the restaurant door. She came down fresh in white crash bordered with blue. As they met they laughed, admitting comradeship in folly. He took her arm gaily, led her through a flutter of waitresses excited over the coming of the celebrated lady of God, and ordered competently.</p>
 
@@ -620,9 +614,7 @@
 
 <p class="para-vi-sub">“Không đời nào. Anh chàng đáng yêu ạ, chấm hết cho việc em cư xử ngớ ngẩn trong tuần này rồi nhé. Từ khoảnh khắc này trở đi, em sẽ là một kẻ được xức dầu thánh, và nếu anh muốn em có thiện cảm với anh, thì Chúa phù hộ cho anh nếu anh dám lảng vảng đến với cái điệu bộ mèo méo mèo meo trong lúc em đang quần thảo với đám huynh đệ cứng cổ trong Chúa này đấy. Hẹn gặp anh vào thứ Sáu, em sẽ ăn tối với anh, ngay tại đây, trước buổi họp. Và em có thể tin tưởng vào anh chứ? Tốt lắm.”</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Cecil Aylston was a good deal of a mystic, a good deal of a ritualist, a bit of a rogue, something of a scholar, frequently a drunkard, more frequently an ascetic, always a gentleman, and always an adventurer. He was thirty-two now. At Winchester and New College, he had been known for sprinting, snobbishness, and Greek versification. He had taken orders, served as a curate in a peculiarly muddy and ancient and unlighted church in the East End, and become fanatically Anglo-Catholic. While he was considering taking the three vows and entering a Church of England monastery, his vicar kicked him out, and no one was ever quite certain whether it was because of his “Romish tendencies” or the navvy’s daughter whom he had got with child.</p>
 
@@ -656,9 +648,7 @@
 
 <p class="para-vi-sub">Cô từng bối rối vì gã, phát bực vì gã, ngoan ngoãn để gã dẫn dắt, và giờ đây cô đã cảm thấy mệt mỏi với lòng tận tụy kiêu kỳ của gã. Gã tận tụy với cô hơn cả sinh mạng mình, và vì cô, gã đã từ chối một người đàn bà góa chồng thực sự hấp dẫn, kẻ có thể đưa gã trở lại vòng tay của Giáo hội Giám mục và kiếm cho gã thứ giáo xứ mờ ảo giàu có mà gã hằng khao khát sau những tháng ngày sống giữa đám mạt cưa và những kẻ cải đạo đầm đìa mồ hôi.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">When Elmer descended from the train in Lincoln Friday afternoon, he stopped before a red-and-black poster announcing that Elmer Gantry was a power in the machinery world, that he was an eloquent and entertaining speaker, and that his address “Increasing Sales with God and the Gideons” would be a “revelation of the new world of better business.”</p>
 
@@ -796,9 +786,7 @@
 
 <p class="para-vi-sub">Họ ngồi chống cùi chỏ lên bàn, khoe khoang với nhau về sự nghèo khó tỉnh lẻ, tuyên bố tình thân ái, trong khi anh ta ngồi nhìn với vẻ mặt lạnh tanh.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">Elmer’s speech at the evangelistic meeting was a cloudburst.</p>
 

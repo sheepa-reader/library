@@ -1,8 +1,6 @@
 # Chương XXI
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">With women Elmer had always considered himself what he called a “quick worker,” but the properties of the ministry, the delighted suspicion with which the gossips watched a preacher who went courting, hindered his progress with Cleo. He could not, like the young blades in town, walk with Cleo up the railroad tracks or through the willow-shaded pasture by Banjo River. He could hear ten thousand Methodist elders croaking, “Avoid the vurry <em>appearance</em> of evil.”</p>
 
@@ -40,9 +38,7 @@
 
 <p class="para-vi-sub">Ngay cả khi chỉ có hai người với Cleo, lúc cô lái chiếc xe hơi kiêu kỳ của gia đình Benham chở gã đi thăm mục vụ ở vùng quê, ngay cả khi gã đang bô bô tự nhủ cô xinh đẹp nhường nào, gã vẫn chưa bao giờ thực sự tự nhiên khi ở bên cô.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">He called on an evening of late November, and both her parents were out, attending Eastern Star. She looked dreary and red-eyed. He crowed benevolently while they stood at the parlor door, “Why, Sister Cleo, what’s the matter? You look kind of sad.”</p>
 
@@ -76,9 +72,7 @@
 
 <p class="para-vi-sub">Vợ chồng Benham trở về nhà, bà Benham sung sướng khóc nghẹn vì lễ đính hôn, còn ông Benham thì liên tục vỗ vai bốp chát và tung ra những câu trêu chọc kiểu như: “Chà, phen này thì tao có một ông mục sư bằng xương bằng thịt hẳn hoi trong nhà rồi, chắc tao phải sống thật thà đến mức cái cửa hàng chẳng kiếm chác được gì nữa quá!”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">His mother came on from Kansas for the wedding, in January. Her happiness in seeing him in his pulpit, in seeing the beauty and purity of Cleo﻿—and the prosperity of Cleo’s father﻿—was such that she forgot her long dragging sorrow in his many disloyalties to the God she had given him, in his having deserted the Baptist sanctuary for the dubious, the almost agnostic liberalisms of the Methodists.</p>
 
@@ -108,9 +102,7 @@
 
 <p class="para-vi-sub">Nhưng gã vẫn tỏ ra rất nam tính, thậm chí rất lịch thiệp; gã che giấu sự chán ghét đối với Cleo và giải khuây cho Cleo bằng cách kể về những nét đẹp trong thơ ca của Longfellow.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Cleo looked tired, and toward the end of the journey, in the winter evening, with the gale desolate, she seemed scarce to be listening to his observations on graded Sunday School lessons, the treatment of corns, his triumphs at Sister Falconer’s meetings, and the inferiority of the Reverend Clyde Tippey.</p>
 
@@ -160,9 +152,7 @@
 
 <p class="para-vi-sub">Nhưng Elmer vỗ về bàn tay cô, nói về ngôi nhà nhỏ mà họ sắp sửa sắm sửa đồ đạc ở Banjo Crossing; và khi nghĩ đến Thành phố Zenith đang đến gần, đến căn phòng của họ ở Khách sạn O’Hearn House (lần này chẳng cần phải thuê cả một dãy phòng như trước kia, khi gã còn phải tạo ấn tượng với các học viên Lớp học Thịnh vượng), gã trở nên nồng nhiệt hơn, thì thầm vào tai cô rằng cô rất xinh đẹp, vuốt ve cánh tay cô cho đến khi cô run lên.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">The bellboy had scarcely closed the door of their room, with its double bed, when he had seized her, torn off her overcoat, with its snow-wet collar, and hurled it on the floor. He kissed her throat. When he had loosened his clasp, she retreated, the back of her hand fearfully at her lips, her voice terrified as she begged, “Oh, don’t! Not now! I’m afraid!”</p>
 
@@ -212,9 +202,7 @@
 
 <p class="para-vi-sub">“Cô nhìn lại mình xem nào! Việc cô là vợ một mục sư không có nghĩa là cô không còn là con người nữa nhé! Cô hay ho thật đấy khi đi dạy dỗ lũ trẻ con ở Trường Chúa nhật!” gã nói, kèm theo vô số lời lẽ đanh thép khác, trong khi cô khóc nức nở, mái tóc xõa xòa quanh khuôn mặt hiền lành mà gã lấy làm ghét cay ghét đắng.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">The discovery that Cleo would never be a lively lover threw him the more into ambition when they had returned to Banjo Crossing.</p>
 
@@ -272,9 +260,7 @@
 
 <p class="para-vi-sub">“Tuyệt vời!” Elmer rạng rỡ thốt lên. “Chúa ơi, tôi sẽ rất vui mừng nếu được rời khỏi đây. Mấy kẻ nhà quê ở đây tiếp thu tôn giáo cao cấp, loại mà tôi ban phát cho họ, cũng chẳng khác nào một bầy la tiếp thu tri thức!”</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">Ishuah Rogers was dead, and they were holding his funeral at the Methodist Church. As farmer, as storekeeper, as postmaster, he had lived all his seventy-nine years in Banjo Crossing.</p>
 
@@ -316,9 +302,7 @@
 
 <p class="para-vi-sub">Dựa vào sức mạnh đầy tự tin của Elmer, cụ Whittlesey già nua đã tìm thấy sự an ủi. Cụ níu chặt lấy gã, lẩm bẩm: “Chúa phù hộ anh, Sư huynh,” trước khi khập khiễng bước ra ngoài.</p>
 
-<p class="para-en"><strong>VIII</strong></p>
-
-<p class="para-vi-sub"><strong>VIII</strong></p>
+### VIII
 
 <p class="para-en">“You were wonderful at the funeral today! I’ve never seen you so sure of immortality,” worshiped Cleo, as they walked home.</p>
 
@@ -372,9 +356,7 @@
 
 <p class="para-vi-sub">“Tao nghĩ tuần này mình nên tạt qua Sparta xem sao,” gã lầm bầm, rồi lại nghĩ: “Không! Hội nghị sắp diễn ra trong mười ngày nữa; không thể liều lĩnh cho đến sau thời điểm đó được.”</p>
 
-<p class="para-en"><strong>IX</strong></p>
-
-<p class="para-vi-sub"><strong>IX</strong></p>
+### IX
 
 <p class="para-en">The Annual Conference, held in Sparta, late in March. The high time of the year, when the Methodist preachers of half a dozen districts met together for prayer and rejoicing, to hear of the progress of the Kingdom and incidentally to learn whether they were to have better jobs this coming year.</p>
 
@@ -452,9 +434,7 @@
 
 <p class="para-vi-sub">“Cậu thấy chưa, Sư huynh Elmer, ta đã nói có sai đâu! Giáo hội Giám lý hoàn toàn phù hợp với cậu,” đức giám mục cất lời, đôi mắt sáng rực dưới hàng chân mày đáng sợ. “Ta đã có thể giao cho cậu một nhà thờ lớn hơn rồi đấy. Làm vậy thì không đúng phép lịch sự theo kiểu người Anh chút nào, à, nước Anh! Có lúc nào đó cậu sẽ thích thú biết bao khi đặt chân đến đó; cậu sẽ tìm thấy một nguồn cảm hứng vô cùng dồi dào cho những bài giảng mang tầm vóc rộng lớn hơn qua những chuyến du ngoạn; ta biết rằng cậu và người vợ xinh đẹp của cậu, ta đã có vinh dự được người ta chỉ cho thấy mặt cô ấy, hai vợ chồng cậu rồi sẽ sớm thấu hiểu niềm vui và sự lãng mạn của những chuyến đi. Nhưng như ta vừa nói đấy: Lần này ta có thể giao cho cậu cai quản một thị trấn lớn hơn kha khá, mặc dù sẽ là không đúng mực nếu ta tiết lộ đó là nơi nào trước khi đọc danh sách phân công chính thức trước Hội nghị. Và trong tương lai không xa, nếu cậu tiếp tục duy trì sự chuyên cần trong học tập, quan tâm sát sao đến nhu cầu của bầy chiên chúng ta, cùng với lối sống ngày một xuất sắc mà giám thị quận đã ghi nhận, thì ừm, cậu sẽ đến lúc được trao phó một trường hoạt động <i>lớn hơn rất nhiều</i>. Chúa phù hộ cậu!”</p>
 
-<p class="para-en"><strong>X</strong></p>
-
-<p class="para-vi-sub"><strong>X</strong></p>
+### X
 
 <p class="para-en">Elmer was examined by the Conference and readily admitted to membership.</p>
 
@@ -496,9 +476,7 @@
 
 <p class="para-vi-sub">Để ăn mừng việc từ bỏ mọi dục vọng và khoái lạc xác thịt bằng cách ngốn sạch một miếng bít tết, hành tây chiên, khoai tây chiên, bắp ngọt, ba tách cà phê, cùng hai phần bánh táo tráng miệng kèm kem tươi, Elmer ban ơn tỏ thái độ bề trên với Cleo rằng: “Anh vượt qua vòng khảo hạch dễ như trở bàn tay! Mấy cái tên ngốc nghếch ở chủng viện cùng khóa với anh mà gặp cảnh đó thì đố đứa nào đối đáp trôi chảy được như anh đấy!”</p>
 
-<p class="para-en"><strong>XI</strong></p>
-
-<p class="para-vi-sub"><strong>XI</strong></p>
+### XI
 
 <p class="para-en">They listened to reports on collections for missions, on the creation of new schools and churches; they heard ever so many prayers; they were polite during what were known as “inspirational addresses” by the bishop and the <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Dr.</abbr> <abbr epub:type="z3998:given-name">S.</abbr> Palmer Shootz. But they were waiting for the moment when the bishop should read the list of appointments.</p>
 

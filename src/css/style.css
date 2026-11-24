@@ -1984,6 +1984,37 @@ button {
   margin-bottom: 1rem;
 }
 
+.reader-content h3 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-align: center !important;
+  margin-top: 2.85rem;
+  margin-bottom: 1.65rem;
+  letter-spacing: 0.08em;
+  color: var(--text-primary);
+  line-height: 1.4;
+  display: block;
+  clear: both;
+}
+
+/* Tinh chỉnh khoảng cách khi h3 nằm ngay sau h1 hoặc tiêu đề chương */
+.reader-content h1 + h3 {
+  margin-top: 2.1rem;
+  margin-bottom: 1.65rem;
+}
+
+@media (max-width: 768px) {
+  .reader-content h3 {
+    font-size: 1.18rem;
+    margin-top: 2.2rem;
+    margin-bottom: 1.25rem;
+  }
+  .reader-content h1 + h3 {
+    margin-top: 1.6rem;
+    margin-bottom: 1.25rem;
+  }
+}
+
 /* Chapter Title & Excerpt in novel headers (Joy Moore, Benny Abbott, Trích đoạn hồi ký) */
 .reader-content h2.h2-1,
 .reader-content .h2-1,

@@ -1,8 +1,6 @@
 # Chương X
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">As he tramped back to Babylon that evening, Elmer did not enjoy his deliverance so much as he had expected. But he worked manfully at recalling Lulu’s repetitious chatter, her humorless ignorance, her pawing, her unambitious rusticity, and all that he had escaped.</p>
 
@@ -32,9 +30,7 @@
 
 <p class="para-vi-sub">“Thôi nào, thôi nào, cậu bạn trẻ. Chúa sẽ nhẹ bớt gánh nặng cho cậu vào thời điểm Ngài thấy thích hợp. Có lẽ đây sẽ là một phước lành trá hình, cậu thật may mắn khi rũ bỏ được một người phụ nữ như thế, và chuyện này sẽ mang lại cho cậu sự khiêm nhường đó, khao khát sâu sắc hơn về sự công chính mà tôi vẫn luôn cảm thấy cậu còn thiếu, bất kể chất giọng giảng đạo tuyệt vời của cậu. Giờ tôi có việc này để hướng sự chú ý của cậu ra khỏi nỗi buồn đây. Có một nhà nguyện nhỏ khá xinh xắn ở vùng rìa Thành phố Monarch đang khuyết vị trí quản nhiệm. Ban đầu tôi định cử Sư huynh Hudkins xuống đó, cậu biết đấy, chính là vị mục sư già đã nghỉ hưu sống ở ngoài khu lò gạch, thỉnh thoảng vẫn đến lớp nghe giảng ấy. Tôi tính cử ông ấy đi làm lễ Phục sinh. Nhưng tôi sẽ đổi thành cử cậu, và thực ra, nếu cậu gặp ban chấp sự, tôi đoán cậu có thể thu xếp để giữ chân vị trí này lâu dài, ít nhất là cho đến lúc tốt nghiệp. Họ trả mười lăm đô la một chủ nhật kèm tiền vé xe đi lại. Mà lại ở một thành phố như Thành phố Monarch, cậu có thể tham gia hiệp hội mục sư này nọ, ở lại đó cho đến trưa thứ Hai hàng tuần, tạo những mối quan hệ tuyệt vời, và biết đâu đấy, hè tới cậu sẽ lọt vào danh sách ứng viên cho vị trí trợ lý tại một trong những nhà thờ lớn. Có chuyến tàu buổi sáng đi Thành phố Monarch, lúc mười giờ hai mươi mốt phút phải không nhỉ? Sáng mai cậu cứ bắt chuyến tàu đó, rồi đi tìm một vị luật sư tên là Eversley. Ông có văn phòng... thư của ông ấy để đâu nhỉ... văn phòng của ông ấy nằm trong Tòa nhà Quản lý Hoàng gia. Ông ấy là một chấp sự. Tôi sẽ đánh điện cho ông ấy có mặt vào chiều mai, hoặc ít ra cũng để lại lời nhắn, để cậu tự bàn thảo mọi việc. Nhà thờ Báp-tít Flowerdale, tên nó là thế đấy, đúng là một cơ ngơi nhỏ hiện đại rất dễ thương, với những con người đáng yêu. Giờ thì cậu hãy về phòng mình mà cầu nguyện đi, tôi chắc chắn cậu sẽ thấy khá hơn nhiều.”</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">It was an hilarious Elmer Gantry who took the 10:21 train to Monarch, a city of perhaps three hundred thousand. He sat in the day-coach planning his Easter discourse. Jiminy! His first sermon in a real city! Might lead to anything. Better give ’em something red-hot and startling. Let’s see: He’d get away from this Christ is Risen stuff﻿—mention it of course, just bring it in, but have some other theme. Let’s see: Faith. Hope. Repentance﻿—no, better go slow on that repentance idea; this Deacon Eversley, the lawyer, might be pretty well-to-do and get sore if you suggested he had anything to repent of. Let’s see: Courage. Chastity. Love﻿—that was it﻿—love!</p>
 
@@ -224,9 +220,7 @@
 
 <p class="para-vi-sub">“Tuyệt quá.”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">From the Ishawonga Hotel, at noon, Elmer telephoned to the office of <abbr epub:type="z3998:name-title">Mr.</abbr> Eversley, the brightest light of the Flowerdale Baptist Church. There was no answer.</p>
 
@@ -352,9 +346,7 @@
 
 <p class="para-vi-sub">“Nhưng thế là chấm hết. Sáng mai mình sẽ xắn tay áo lên gặp ông Eversley và dàn xếp mọi chuyện cho ổn thỏa”, Elmer tự nhủ.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">In that era long-distance telephoning was an uncommon event, but Eversley, deacon and lawyer, was a bustler. When the new preacher had not appeared by six on Saturday afternoon, Eversley telephoned to Babylon, waited while Dean Trosper was fetched to the Babylon central, and spoke with considerable irritation about the absence of the ecclesiastical hired hand.</p>
 
@@ -372,9 +364,7 @@
 
 <p class="para-vi-sub">Lúc bấy giờ, Mục sư Hudkins đã có nhiều năm điều hành một nhà nguyện ở Phố South Clark tại Chicago, và ông ta thừa rành rẽ những chuyện nhơ nhớp ở đời. Ông từng nhìn thấy Elmer Gantry trong các lớp học ở Chủng viện Thần học Mizpah. Khi kết thúc các buổi lễ sáng chủ nhật ở Thành phố Monarch, ông không chỉ đến sở cảnh sát và các bệnh viện mà còn bắt đầu một vòng lùng sục qua các khách sạn, nhà hàng và quán bar. Thế là, trong khi Elmer đang hào hứng nuốt trôi tôm hùm xuống cổ họng bằng rượu vang đỏ California, thỉnh thoảng lại dừng lại để hôn cô ả tóc vàng bên cạnh và theo yêu cầu lặp lại lời nâng cốc của mình vào tối hôm đó, thì gã đang bị Mục sư Hudkins âm thầm quan sát từ cửa quán cà phê trong cái vai trò đầy hứng khởi của một vị thiên sứ báo thù.</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">When Elmer telephoned Eversley, Monday morning, to explain his sickness, the deacon snapped, “All right. Got somebody else.”</p>
 

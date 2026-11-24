@@ -1,8 +1,6 @@
 # Chương XXIII
 
-<p class="para-en"><strong>I</strong></p>
-
-<p class="para-vi-sub"><strong>I</strong></p>
+### I
 
 <p class="para-en">He did not stand by the altar now, uplifted in a vow that he would be good and reverent. He was like the new general manager of a factory as he bustled for the first time through the Wellspring Methodist Church, Zenith, and his first comment was “The plant’s run down﻿—have to buck it up.”</p>
 
@@ -36,9 +34,7 @@
 
 <p class="para-vi-sub">Phải mất ba ngày sau Elmer mới ngẫu nhiên nghĩ đến việc Cleo có lẽ cũng muốn tới thăm nhà thờ.</p>
 
-<p class="para-en"><strong>II</strong></p>
-
-<p class="para-vi-sub"><strong>II</strong></p>
+### II
 
 <p class="para-en">Though there were nearly four hundred thousand people in Zenith and only nine hundred in Banjo Crossing, Elmer’s reception in the Zenith church-basement was remarkably like his reception in the Banjo basement. There were the same rugged, hard-handed brothers, the same ample sisters renowned for making doughnuts, the same brisk little men given to giggling and pious jests. There were the same homemade ice cream and homemade oratory. But there were five times as many people as at the Banjo reception, and Elmer was ever a lover of quantity. And among the transplanted rustics were several prosperous professional men, several well-gowned women, and some pretty girls who looked as though they went to dancing school, Discipline or not.</p>
 
@@ -140,9 +136,7 @@
 
 <p class="para-vi-sub">“Mình sẽ có khoảng thời gian vui vẻ với mấy người đó đây,” gã ta thầm nghĩ trong sự tiện nghi của chiếc taxi. “Chỉ có điều, tốt nhất là nên cẩn thận với lão Rigg. Lão là một tay cáo già ranh mãnh, và lão đã nắm thóp được mình rồi... Mà nắm thóp cái gì chứ?” gã ta phẫn nộ tự hỏi. “Nắm thóp cái gì mà nắm thóp? Có cái quái gì để mà nắm thóp đâu chứ? Tôi đã từ chối một ly rượu và một điếu xì gà còn gì? Tôi có bao giờ chửi thề trừ khi nổi giận đâu nào? Tôi đang sống một cuộc đời hoàn toàn theo đạo Cơ Đốc. Và tôi đang đưa được nhiều linh hồn vào nhà thờ hơn bất cứ kẻ đạo đức giả rụt rè nào vốn chỉ sợ việc cười đùa và pha trò với mọi người. Nắm thóp cái khỉ gió ấy!”</p>
 
-<p class="para-en"><strong>III</strong></p>
-
-<p class="para-vi-sub"><strong>III</strong></p>
+### III
 
 <p class="para-en">On Saturday morning, on the page of religious advertisements in the Zenith newspapers, Elmer’s first sermon was announced in a two-column spread as dealing with the promising problem: “Can Strangers Find Haunts of Vice in Zenith?”</p>
 
@@ -176,9 +170,7 @@
 
 <p class="para-vi-sub">Nhưng, “Ồ, anh ta chẳng qua chỉ là một hiện tượng giật gân mới nổi, sẽ chẳng trụ được lâu đâu, lại thiếu chữ nghĩa và khả năng bám trụ. Hơn nữa, Khu Phố Cổ đã tàn tạ lắm rồi,” mấy kẻ đồng nghiệp cùng buôn rượu của Elmer bàn tán, đặc biệt là những tín đồ Giám lý đồng nghiệp đang vô cùng chướng tai gai mắt.</p>
 
-<p class="para-en"><strong>IV</strong></p>
-
-<p class="para-vi-sub"><strong>IV</strong></p>
+### IV
 
 <p class="para-en">Cleo and he had found a gracious old house in Old Town, to be had cheap because of the ragged neighborhood. He had hinted to her that since he was making such a spiritual sacrifice as to take a lower salary in coming to Zenith, her father, as a zealous Christian, ought to help them out; and if she should be unable to make her father perceive this, Elmer would regretfully have to be angry with her.</p>
 
@@ -220,9 +212,7 @@
 
 <p class="para-vi-sub">“Nhưng tất cả đều là một khoản đầu tư ngon nghẻ cả,” gã nói. “Khi tôi gặp gỡ đám Chóp Bu, họ sẽ thấy rằng tôi có thể giữ một cái nhà thờ rách nát ở khu xó xỉnh đi chăng nữa nhưng tôi vẫn có thể trưng ra một vẻ bề ngoài bảnh bao chẳng kém gì lúc đang giảng đạo trên Đại lộ Chickasaw.”</p>
 
-<p class="para-en"><strong>V</strong></p>
-
-<p class="para-vi-sub"><strong>V</strong></p>
+### V
 
 <p class="para-en">If in Banjo Crossing Elmer had been bored by inactivity, in Zenith he was almost exhausted by the demands.</p>
 
@@ -288,9 +278,7 @@
 
 <p class="para-vi-sub">Và người ta trông đợi Elmer Gantry, ngoài những bức thư nặc danh đầy cay độc ấy, phải trả lời tất cả bọn chúng... ngay trong căn phòng làm việc ngột ngạt của mình, đối mặt với dãy sách bìa đen, đọc cho cô thư ký khốn khổ Miss Bundle chép lại, người chẳng bao giờ ghi kịp địa chỉ, người luôn đánh máy đơn cho những bức thư đáng lẽ phải đánh máy đôi, và sở hữu một tốc độ đánh máy tưởng chừng như đủ dùng cho đến khi nhận ra cô ta đạt được tốc độ đó bằng cách bỏ sót phần lớn các động từ và tính từ.</p>
 
-<p class="para-en"><strong>VI</strong></p>
-
-<p class="para-vi-sub"><strong>VI</strong></p>
+### VI
 
 <p class="para-en">Whether or not he was irritable on weekdays, Sundays were to his nervous family a hell of keeping out of his way, and for himself they had the strain of a theatrical first night.</p>
 
@@ -332,9 +320,7 @@
 
 <p class="para-vi-sub">Nhưng vượt qua tất cả những nhọc nhằn và sự thiếu thốn sự thấu cảm gia đình ấy, gã vẫn kiên cường chiến đấu.</p>
 
-<p class="para-en"><strong>VII</strong></p>
-
-<p class="para-vi-sub"><strong>VII</strong></p>
+### VII
 
 <p class="para-en">Elmer was as friendly as ever with Bishop Toomis.</p>
 
