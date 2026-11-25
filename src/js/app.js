@@ -2145,6 +2145,12 @@
                     <span>Đoạn đang đọc</span>
                   </button>
                   <button class="audio-speed-btn" id="audio-speed-toggle" title="Thay đổi tốc độ phát (0.8x, 1.0x, 1.25x, 1.5x)">1.0x</button>
+                  <button class="audio-sleep-btn" id="audio-sleep-toggle" title="Hẹn giờ tắt sách nói (Sleep Timer)">
+                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <span class="sleep-btn-label">Hẹn giờ</span>
+                  </button>
                   <button class="audio-card-close-btn" id="audio-btn-exit" title="Dừng phát và chuyển về đoạn đang đọc dở">
                     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
                       <line x1="18" y1="6" x2="6" y2="18"></line>
@@ -2287,6 +2293,12 @@
                 <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M13 17l5-5-5-5M6 17l5-5-5-5"/>
                 </svg>
+              </button>
+              <button class="mini-audio-ctrl-btn mini-audio-sleep-btn" id="mini-audio-btn-sleep" title="Hẹn giờ tắt (Sleep Timer)">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+                <span class="mini-sleep-label" style="display: none;"></span>
               </button>
             </div>
             <button class="mini-audio-close-btn" id="mini-audio-btn-close" title="Thoát chế độ sách nói">✕</button>
@@ -2848,6 +2860,7 @@
 
   // --- AUDIOBOOK CONTROLLER LOGIC ---
   let currentActiveAudio = null;
+  let currentAudioCleanup = null;
 
   function initChapterAudioPlayer(chapter, book) {
     if (!chapter || !chapter.audio) return;
@@ -2872,6 +2885,8 @@
     const rewindBtn = document.getElementById('audio-btn-rewind');
     const forwardBtn = document.getElementById('audio-btn-forward');
     const speedBtn = document.getElementById('audio-speed-toggle');
+    const sleepBtn = document.getElementById('audio-sleep-toggle');
+    const miniSleepBtn = document.getElementById('mini-audio-btn-sleep');
     const muteBtn = document.getElementById('audio-btn-mute');
     const volumeSlider = document.getElementById('audio-volume-slider');
     const headerAudioBtn = document.getElementById('reader-audio-toggle-btn');
@@ -2880,6 +2895,10 @@
     if (!audio) return;
 
     // Cleanup previous audio if any
+    if (typeof currentAudioCleanup === 'function') {
+      try { currentAudioCleanup(); } catch (e) {}
+      currentAudioCleanup = null;
+    }
     if (currentActiveAudio && currentActiveAudio !== audio) {
       try {
         currentActiveAudio.pause();
@@ -2897,6 +2916,289 @@
     let segments = [];
     let activeSegment = null;
     let activePillEl = null;
+
+    // --- Sleep Timer State & Logic ---
+    let sleepMode = 'off'; // 'off' | '15' | '30' | '45' | '60' | 'end_chapter'
+    let sleepRemainingSec = 0;
+    let sleepInterval = null;
+    let baseVolume = (audio.volume !== undefined && audio.volume > 0) ? audio.volume : 1.0;
+    let isFadingOut = false;
+
+    function formatCountdown(sec) {
+      if (isNaN(sec) || sec <= 0) return '00:00';
+      const m = Math.floor(sec / 60);
+      const s = Math.floor(sec % 60);
+      return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+    }
+
+    function updateSleepButtonsUI() {
+      const cardSleepLabel = sleepBtn ? sleepBtn.querySelector('.sleep-btn-label') : null;
+      const miniSleepLabel = miniSleepBtn ? miniSleepBtn.querySelector('.mini-sleep-label') : null;
+
+      if (sleepMode === 'off') {
+        if (sleepBtn) {
+          sleepBtn.classList.remove('is-active');
+          if (cardSleepLabel) cardSleepLabel.textContent = 'Hẹn giờ';
+          sleepBtn.title = 'Hẹn giờ tắt sách nói (Sleep Timer)';
+        }
+        if (miniSleepBtn) {
+          miniSleepBtn.classList.remove('is-active');
+          if (miniSleepLabel) {
+            miniSleepLabel.style.display = 'none';
+            miniSleepLabel.textContent = '';
+          }
+          miniSleepBtn.title = 'Hẹn giờ tắt (Sleep Timer)';
+        }
+      } else if (sleepMode === 'end_chapter') {
+        if (sleepBtn) {
+          sleepBtn.classList.add('is-active');
+          if (cardSleepLabel) cardSleepLabel.textContent = 'Hết chương';
+          sleepBtn.title = 'Đang hẹn giờ: Tự động dừng khi hết chương này';
+        }
+        if (miniSleepBtn) {
+          miniSleepBtn.classList.add('is-active');
+          if (miniSleepLabel) {
+            miniSleepLabel.style.display = 'inline';
+            miniSleepLabel.textContent = 'Hết ch.';
+          }
+          miniSleepBtn.title = 'Đang hẹn giờ: Tự động dừng khi hết chương';
+        }
+      } else {
+        const timeStr = formatCountdown(sleepRemainingSec);
+        const minsLeft = Math.ceil(sleepRemainingSec / 60);
+        if (sleepBtn) {
+          sleepBtn.classList.add('is-active');
+          if (cardSleepLabel) cardSleepLabel.textContent = timeStr;
+          sleepBtn.title = `Đang hẹn giờ tắt: còn ${timeStr}`;
+        }
+        if (miniSleepBtn) {
+          miniSleepBtn.classList.add('is-active');
+          if (miniSleepLabel) {
+            miniSleepLabel.style.display = 'inline';
+            miniSleepLabel.textContent = minsLeft > 1 ? `${minsLeft}m` : timeStr;
+          }
+          miniSleepBtn.title = `Đang hẹn giờ tắt: còn ${timeStr}`;
+        }
+      }
+
+      // Live update status inside modal if currently open
+      const statusBanner = document.getElementById('sleep-timer-status-banner');
+      const statusText = document.getElementById('sleep-status-text');
+      if (statusBanner && statusText) {
+        if (sleepMode === 'off') {
+          statusBanner.style.display = 'none';
+        } else {
+          statusBanner.style.display = 'flex';
+          if (sleepMode === 'end_chapter') {
+            statusText.textContent = 'Đang hẹn giờ: Tắt khi hết chương';
+          } else {
+            statusText.textContent = `Đang hẹn giờ: Còn ${formatCountdown(sleepRemainingSec)}`;
+          }
+        }
+      }
+    }
+
+    function clearSleepTimer(isUserCancelled = false) {
+      if (sleepInterval) {
+        clearInterval(sleepInterval);
+        sleepInterval = null;
+      }
+      sleepMode = 'off';
+      sleepRemainingSec = 0;
+      if (isFadingOut) {
+        audio.volume = baseVolume;
+        isFadingOut = false;
+      }
+      updateSleepButtonsUI();
+      if (isUserCancelled) {
+        showGlobalToast('Đã tắt hẹn giờ', 2000);
+      }
+    }
+
+    function stopBySleepTimer(reasonText) {
+      if (sleepInterval) {
+        clearInterval(sleepInterval);
+        sleepInterval = null;
+      }
+      sleepMode = 'off';
+      sleepRemainingSec = 0;
+      isFadingOut = false;
+      audio.volume = baseVolume;
+      try {
+        localStorage.setItem(storageKey, audio.currentTime.toString());
+      } catch (e) {}
+      audio.pause();
+      setPlayingUI(false);
+      updateSleepButtonsUI();
+      showGlobalToast(reasonText || 'Đã dừng phát sách nói (Hẹn giờ ngủ) 🌙', 3500);
+    }
+
+    function startSleepTimer(mode) {
+      if (sleepInterval) {
+        clearInterval(sleepInterval);
+        sleepInterval = null;
+      }
+      if (isFadingOut) {
+        audio.volume = baseVolume;
+        isFadingOut = false;
+      } else {
+        baseVolume = (audio.volume !== undefined && audio.volume > 0) ? audio.volume : 1.0;
+      }
+
+      sleepMode = mode;
+      if (mode === 'off') {
+        clearSleepTimer(true);
+        return;
+      }
+
+      if (mode === 'end_chapter') {
+        updateSleepButtonsUI();
+        showGlobalToast('Đã hẹn giờ: Tự động dừng khi hết chương 📖', 2500);
+        return;
+      }
+
+      const minutes = parseInt(mode, 10);
+      if (isNaN(minutes) || minutes <= 0) {
+        clearSleepTimer();
+        return;
+      }
+
+      sleepRemainingSec = minutes * 60;
+      updateSleepButtonsUI();
+      showGlobalToast(`Đã hẹn giờ tắt sách nói: ${minutes} phút 🌙`, 2500);
+
+      sleepInterval = setInterval(() => {
+        sleepRemainingSec--;
+        if (sleepRemainingSec <= 0) {
+          stopBySleepTimer('Đã dừng phát sách nói (Hẹn giờ ngủ) 🌙');
+          return;
+        }
+
+        // Smooth fade-out during the last 15 seconds
+        if (sleepRemainingSec <= 15) {
+          isFadingOut = true;
+          const ratio = Math.max(0, sleepRemainingSec / 15);
+          audio.volume = Math.max(0, baseVolume * ratio);
+        }
+
+        updateSleepButtonsUI();
+      }, 1000);
+    }
+
+    function ensureSleepTimerModal() {
+      let modal = document.getElementById('sleep-timer-modal');
+      if (!modal) {
+        modal = document.createElement('div');
+        modal.id = 'sleep-timer-modal';
+        modal.className = 'modal-overlay';
+        modal.innerHTML = `
+          <div class="modal-content sleep-timer-sheet" style="max-width: 380px;">
+            <div class="sleep-timer-header">
+              <div class="sleep-timer-title-wrap">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="color: #f59e0b;">
+                  <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+                <h3 class="sleep-timer-title">Hẹn giờ tắt sách nói</h3>
+              </div>
+              <button class="sleep-timer-close-btn" id="sleep-timer-close" title="Đóng">✕</button>
+            </div>
+            <div class="sleep-timer-status" id="sleep-timer-status-banner" style="display: none;">
+              <div class="sleep-status-info">
+                <span class="sleep-status-dot"></span>
+                <span id="sleep-status-text">Đang hẹn giờ...</span>
+              </div>
+              <button class="sleep-cancel-quick-btn" id="sleep-quick-cancel">Tắt hẹn giờ</button>
+            </div>
+            <div class="sleep-timer-options" id="sleep-timer-options-list">
+              <button class="sleep-timer-option" data-timer="15">
+                <span class="sleep-opt-icon">⏱️</span>
+                <span class="sleep-opt-text">15 phút</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+              <button class="sleep-timer-option" data-timer="30">
+                <span class="sleep-opt-icon">⏱️</span>
+                <span class="sleep-opt-text">30 phút</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+              <button class="sleep-timer-option" data-timer="45">
+                <span class="sleep-opt-icon">⏱️</span>
+                <span class="sleep-opt-text">45 phút</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+              <button class="sleep-timer-option" data-timer="60">
+                <span class="sleep-opt-icon">⏱️</span>
+                <span class="sleep-opt-text">60 phút (1 giờ)</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+              <button class="sleep-timer-option" data-timer="end_chapter">
+                <span class="sleep-opt-icon">📖</span>
+                <span class="sleep-opt-text">Khi hết chương này</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+              <button class="sleep-timer-option sleep-timer-off" data-timer="off">
+                <span class="sleep-opt-icon">⏹️</span>
+                <span class="sleep-opt-text">Tắt hẹn giờ</span>
+                <span class="sleep-opt-check">✓</span>
+              </button>
+            </div>
+            <div class="sleep-timer-footer-note">
+              <span>💡 Âm lượng sẽ tự động giảm dần êm dịu (fade-out) trong 15 giây cuối trước khi dừng hẳn để bạn không bị giật mình khi ngủ.</span>
+            </div>
+          </div>
+        `;
+        document.body.appendChild(modal);
+
+        modal.addEventListener('click', (e) => {
+          if (e.target === modal) closeSleepTimerModal();
+        });
+
+        const closeBtn = modal.querySelector('#sleep-timer-close');
+        if (closeBtn) closeBtn.addEventListener('click', closeSleepTimerModal);
+
+        const quickCancelBtn = modal.querySelector('#sleep-quick-cancel');
+        if (quickCancelBtn) {
+          quickCancelBtn.addEventListener('click', () => {
+            clearSleepTimer(true);
+            closeSleepTimerModal();
+          });
+        }
+
+        const options = modal.querySelectorAll('.sleep-timer-option');
+        options.forEach(opt => {
+          opt.addEventListener('click', () => {
+            const val = opt.getAttribute('data-timer');
+            startSleepTimer(val);
+            closeSleepTimerModal();
+          });
+        });
+      }
+      return modal;
+    }
+
+    function openSleepTimerModal() {
+      const modal = ensureSleepTimerModal();
+      const options = modal.querySelectorAll('.sleep-timer-option');
+      options.forEach(opt => {
+        const val = opt.getAttribute('data-timer');
+        opt.classList.toggle('is-selected', val === sleepMode);
+      });
+      updateSleepButtonsUI();
+      modal.classList.add('active');
+      lockBodyScroll('sleep-timer');
+    }
+
+    function closeSleepTimerModal() {
+      const modal = document.getElementById('sleep-timer-modal');
+      if (modal) {
+        modal.classList.remove('active');
+        unlockBodyScroll('sleep-timer');
+      }
+    }
+
+    currentAudioCleanup = () => {
+      clearSleepTimer();
+      closeSleepTimerModal();
+    };
 
     function formatTime(sec) {
       if (isNaN(sec) || sec < 0) return '00:00';
@@ -3328,6 +3630,15 @@
           updateActiveHighlight(audio.currentTime);
         }
       }
+      // If Sleep Timer is set to "end_chapter", fade out gently during last 15s
+      if (sleepMode === 'end_chapter' && audio.duration && !audio.paused) {
+        const remainingInChapter = audio.duration - audio.currentTime;
+        if (remainingInChapter <= 15 && remainingInChapter > 0) {
+          isFadingOut = true;
+          const ratio = Math.max(0, remainingInChapter / 15);
+          audio.volume = Math.max(0, baseVolume * ratio);
+        }
+      }
       if (Math.floor(audio.currentTime) % 3 === 0) {
         try {
           localStorage.setItem(storageKey, audio.currentTime.toString());
@@ -3345,8 +3656,12 @@
 
     audio.addEventListener('pause', () => setPlayingUI(false));
     audio.addEventListener('ended', () => {
-      setPlayingUI(false);
-      try { localStorage.removeItem(storageKey); } catch (e) {}
+      if (sleepMode === 'end_chapter') {
+        stopBySleepTimer('Đã dừng phát sách nói (Hết chương) 📖');
+      } else {
+        setPlayingUI(false);
+        try { localStorage.removeItem(storageKey); } catch (e) {}
+      }
     });
 
     if (playBtn) playBtn.addEventListener('click', togglePlay);
@@ -3471,6 +3786,9 @@
       volumeSlider.addEventListener('input', (e) => {
         const val = parseFloat(e.target.value);
         audio.volume = val;
+        if (!isFadingOut) {
+          baseVolume = val;
+        }
         audio.muted = (val === 0);
         updateMuteUI();
       });
@@ -3480,6 +3798,21 @@
       muteBtn.addEventListener('click', () => {
         audio.muted = !audio.muted;
         updateMuteUI();
+      });
+    }
+
+    // Sleep Timer Button Click Handlers
+    if (sleepBtn) {
+      sleepBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        openSleepTimerModal();
+      });
+    }
+
+    if (miniSleepBtn) {
+      miniSleepBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        openSleepTimerModal();
       });
     }
 
@@ -3535,9 +3868,13 @@
     };
     window.addEventListener('keydown', onKeyDown);
 
-    // Auto-pause when navigating away
+    // Auto-pause and cleanup when navigating away
     const onHashChange = () => {
       hideSeekPrompt();
+      if (typeof currentAudioCleanup === 'function') {
+        try { currentAudioCleanup(); } catch (e) {}
+        currentAudioCleanup = null;
+      }
       if (audio && !audio.paused) {
         try { audio.pause(); } catch (e) {}
       }
