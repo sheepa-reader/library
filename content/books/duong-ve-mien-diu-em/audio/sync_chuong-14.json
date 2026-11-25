@@ -3,1147 +3,1161 @@
     "p": 0,
     "s": 0,
     "start": 0.0,
-    "end": 11.49,
+    "end": 15.44,
     "text": "Trời đã gần đến giờ đi ngủ mà Luna vẫn k"
   },
   {
     "p": 0,
     "s": 1,
-    "start": 11.49,
-    "end": 18.62,
+    "start": 15.44,
+    "end": 23.2,
     "text": "Ollie và Luna trước giờ không được phép "
   },
   {
     "p": 0,
     "s": 2,
-    "start": 18.62,
-    "end": 23.82,
+    "start": 23.2,
+    "end": 28.8,
     "text": "Thế nhưng Luna nhất quyết không chịu bướ"
   },
   {
     "p": 0,
     "s": 3,
-    "start": 23.82,
-    "end": 28.97,
-    "text": "Cuối cùng, PJ đã hết kiên nhẫn, ông lôi "
+    "start": 28.8,
+    "end": 33.96,
+    "text": "Cuối cùng, PJ hết kiên nhẫn, ông lôi tua"
   },
   {
     "p": 0,
     "s": 4,
-    "start": 28.97,
-    "end": 33.8,
+    "start": 33.96,
+    "end": 35.96,
     "text": "Ông thấy bên trong trống không, cửa sổ m"
   },
   {
     "p": 0,
     "s": 5,
-    "start": 33.8,
-    "end": 35.75,
+    "start": 35.96,
+    "end": 40.12,
     "text": "“Trời đất quỷ thần ơi, Ollie, Luna trèo "
   },
   {
     "p": 1,
     "s": 0,
-    "start": 35.75,
-    "end": 37.65,
+    "start": 40.12,
+    "end": 42.36,
     "text": "“Trèo cửa sổ ạ?”"
   },
   {
     "p": 1,
     "s": 1,
-    "start": 37.65,
-    "end": 39.9,
+    "start": 42.36,
+    "end": 44.96,
     "text": "Ollie nói, tỏ vẻ không tin nổi."
   },
   {
     "p": 1,
     "s": 2,
-    "start": 39.9,
-    "end": 41.94,
-    "text": "“Chị ấy có ngã không hả ông?”"
+    "start": 44.96,
+    "end": 46.64,
+    "text": "“Chị ấy có bị ngã không hả ông?”"
   },
   {
     "p": 2,
     "s": 0,
-    "start": 41.94,
-    "end": 44.72,
+    "start": 46.64,
+    "end": 48.24,
     "text": "“Khoảng cách xuống mặt đất không cao lắm"
   },
   {
     "p": 2,
     "s": 1,
-    "start": 44.72,
-    "end": 47.97,
-    "text": "Chắc con bé không bị thương đâu, nhưng n"
+    "start": 48.24,
+    "end": 51.92,
+    "text": "Chắc con bé không bị thương đâu, nhưng c"
   },
   {
     "p": 2,
     "s": 2,
-    "start": 47.97,
-    "end": 49.86,
-    "text": "Nó bỏ nhà đi rồi đấy."
+    "start": 51.92,
+    "end": 52.68,
+    "text": "Con bé bỏ nhà đi rồi đấy."
   },
   {
     "p": 2,
     "s": 3,
-    "start": 49.86,
-    "end": 51.5,
+    "start": 52.68,
+    "end": 54.36,
     "text": "Ông sẽ gọi cảnh sát.”"
   },
   {
     "p": 3,
     "s": 0,
-    "start": 51.5,
-    "end": 52.53,
-    "text": "“Không ạ,” Ollie vừa nói vừa lắc đầu."
+    "start": 54.36,
+    "end": 58.36,
+    "text": "“Không ạ,” Ollie vừa nói vừa lắc đầu quả"
   },
   {
     "p": 3,
     "s": 1,
-    "start": 52.53,
-    "end": 54.23,
+    "start": 58.36,
+    "end": 60.8,
     "text": "“Ông không muốn gọi cảnh sát đâu."
   },
   {
     "p": 3,
     "s": 2,
-    "start": 54.23,
-    "end": 58.23,
+    "start": 60.8,
+    "end": 62.24,
     "text": "Họ sẽ đánh ông nhừ tử đấy.”"
   },
   {
     "p": 4,
     "s": 0,
-    "start": 58.23,
-    "end": 60.7,
+    "start": 62.24,
+    "end": 64.24,
     "text": "“Sao họ lại đánh ông nhừ tử chứ?”"
   },
   {
     "p": 4,
     "s": 1,
-    "start": 60.7,
-    "end": 62.09,
+    "start": 64.24,
+    "end": 67.32,
     "text": "PJ hỏi."
   },
   {
     "p": 4,
     "s": 2,
-    "start": 62.09,
-    "end": 64.05,
+    "start": 67.32,
+    "end": 72.4,
     "text": "PJ vốn chẳng ưa gì cảnh sát, nhưng ông n"
   },
   {
     "p": 4,
     "s": 3,
-    "start": 64.05,
-    "end": 69.79,
+    "start": 72.4,
+    "end": 74.28,
     "text": "Một đứa trẻ mất tích chính là lý do rành"
   },
   {
     "p": 5,
     "s": 0,
-    "start": 69.79,
-    "end": 71.98,
+    "start": 74.28,
+    "end": 79.52,
     "text": "Ollie khoanh tay trước ngực."
   },
   {
     "p": 5,
     "s": 1,
-    "start": 71.98,
-    "end": 79.33,
-    "text": "“Cảnh sát toàn là bạn của bố cháu, và họ"
+    "start": 79.52,
+    "end": 82.6,
+    "text": "“Cảnh sát toàn là bạn của bố cháu, họ sẽ"
   },
   {
     "p": 5,
     "s": 2,
-    "start": 79.33,
-    "end": 82.48,
+    "start": 82.6,
+    "end": 83.76,
     "text": "Thậm chí họ còn có thể giết ông nữa cơ.”"
   },
   {
     "p": 6,
     "s": 0,
-    "start": 82.48,
-    "end": 83.65,
+    "start": 83.76,
+    "end": 89.72,
     "text": "“Được rồi, được rồi, có lý đấy,” PJ nói,"
   },
   {
     "p": 6,
     "s": 1,
-    "start": 83.65,
-    "end": 86.95,
+    "start": 89.72,
+    "end": 91.84,
     "text": "“Chúng ta sẽ đi tìm con bé trước đã."
   },
   {
     "p": 6,
     "s": 2,
-    "start": 86.95,
-    "end": 89.36,
-    "text": "Nó không thể đi quá xa được đâu.”"
+    "start": 91.84,
+    "end": 93.56,
+    "text": "Con bé không thể đi quá xa được đâu.”"
   },
   {
     "p": 6,
     "s": 3,
-    "start": 89.36,
-    "end": 91.54,
+    "start": 93.56,
+    "end": 97.6,
     "text": "Tim ông thắt lại trong lồng ngực."
   },
   {
     "p": 6,
     "s": 4,
-    "start": 91.54,
-    "end": 93.42,
+    "start": 97.6,
+    "end": 99.96,
     "text": "Đừng có giở chứng lúc này nhé, ông thầm "
   },
   {
     "p": 6,
     "s": 5,
-    "start": 93.42,
-    "end": 97.45,
+    "start": 99.96,
+    "end": 104.76,
     "text": "Ông phải tìm cho bằng được đứa trẻ tội n"
   },
   {
     "p": 6,
     "s": 6,
-    "start": 97.45,
-    "end": 99.87,
+    "start": 104.76,
+    "end": 106.36,
     "text": "Chắc con bé đang sợ hãi lắm."
   },
   {
     "p": 6,
     "s": 7,
-    "start": 99.87,
-    "end": 104.64,
+    "start": 106.36,
+    "end": 109.24,
     "text": "Tâm trí ông bất giác hướng về phía những"
   },
   {
     "p": 7,
     "s": 0,
-    "start": 104.64,
-    "end": 106.05,
+    "start": 109.24,
+    "end": 112.76,
     "text": "“Cháu sẽ tìm thấy chị ấy,” Ollie nói."
   },
   {
     "p": 7,
     "s": 1,
-    "start": 106.05,
-    "end": 108.96,
-    "text": "Cậu bé liền cắm cổ chạy vụt đi trước khi"
+    "start": 112.76,
+    "end": 114.96,
+    "text": "Cậu bé cắm cổ chạy vụt đi trước khi PJ k"
   },
   {
     "p": 8,
     "s": 0,
-    "start": 108.96,
-    "end": 112.53,
+    "start": 114.96,
+    "end": 117.76,
     "text": "“Không, quay lại đây!”"
   },
   {
     "p": 8,
     "s": 1,
-    "start": 112.53,
-    "end": 113.2,
+    "start": 117.76,
+    "end": 120.32,
     "text": "PJ gọi với theo, nhưng đã quá muộn."
   },
   {
     "p": 8,
     "s": 2,
-    "start": 113.2,
-    "end": 117.43,
-    "text": "Ollie vừa nhanh nhẹn lại vừa trẻ tuổi."
+    "start": 120.32,
+    "end": 123.56,
+    "text": "Cậu bé chạy rất nhanh và còn khỏe sức."
   },
   {
     "p": 8,
     "s": 3,
-    "start": 117.43,
-    "end": 119.95,
+    "start": 123.56,
+    "end": 126.88,
     "text": "PJ cố gắng đuổi theo hướng Ollie vừa chạ"
   },
   {
     "p": 8,
     "s": 4,
-    "start": 119.95,
-    "end": 133.96,
+    "start": 126.88,
+    "end": 138.16,
     "text": "Nhân viên công tác xã hội từng bảo rằng "
   },
   {
     "p": 8,
     "s": 5,
-    "start": 133.96,
-    "end": 138.0,
+    "start": 138.16,
+    "end": 142.4,
     "text": "PJ ráng chạy để bắt kịp, nhưng thể trạng"
   },
   {
     "p": 8,
     "s": 6,
-    "start": 138.0,
-    "end": 141.08,
+    "start": 142.4,
+    "end": 145.44,
     "text": "“Luna!”"
   },
   {
     "p": 8,
     "s": 7,
-    "start": 141.08,
-    "end": 142.15,
+    "start": 145.44,
+    "end": 146.36,
     "text": "ông hét lên."
   },
   {
     "p": 8,
     "s": 8,
-    "start": 142.15,
-    "end": 145.14,
+    "start": 146.36,
+    "end": 149.36,
     "text": "“Luna!"
   },
   {
     "p": 8,
     "s": 9,
-    "start": 145.14,
-    "end": 146.14,
+    "start": 149.36,
+    "end": 154.12,
     "text": "Ollie!"
   },
   {
     "p": 8,
     "s": 10,
-    "start": 146.14,
-    "end": 149.25,
+    "start": 154.12,
+    "end": 156.96,
     "text": "Luna!”"
   },
   {
     "p": 9,
     "s": 0,
-    "start": 149.25,
-    "end": 152.03,
+    "start": 156.96,
+    "end": 160.92,
     "text": "PJ đi dọc theo con phố rồi lại quay về, "
   },
   {
     "p": 9,
     "s": 1,
-    "start": 152.03,
-    "end": 153.89,
+    "start": 160.92,
+    "end": 165.52,
     "text": "Phải có ai đó để ông gọi nhờ giúp đỡ chứ"
   },
   {
     "p": 9,
     "s": 2,
-    "start": 153.89,
-    "end": 160.75,
+    "start": 165.52,
+    "end": 167.8,
     "text": "Ông nhìn vào số điện thoại của Belinda B"
   },
   {
     "p": 9,
     "s": 3,
-    "start": 160.75,
-    "end": 163.89,
+    "start": 167.8,
+    "end": 169.96,
     "text": "Đây là một sai lầm, ông muốn nói với Bel"
   },
   {
     "p": 9,
     "s": 4,
-    "start": 163.89,
-    "end": 165.41,
+    "start": 169.96,
+    "end": 175.16,
     "text": "Đây thực sự là một sai lầm to lớn."
   },
   {
     "p": 9,
     "s": 5,
-    "start": 165.41,
-    "end": 169.87,
+    "start": 175.16,
+    "end": 176.84,
     "text": "Tôi đã nuôi nấng con cái trưởng thành rồ"
   },
   {
     "p": 9,
     "s": 6,
-    "start": 169.87,
-    "end": 184.63,
-    "text": "Tôi đã đánh mất một người con và làm hỏn"
+    "start": 176.84,
+    "end": 185.32,
+    "text": "Tôi đã đánh mất một đứa con và thất bại "
   },
   {
     "p": 10,
     "s": 0,
-    "start": 184.63,
-    "end": 187.41,
+    "start": 185.32,
+    "end": 191.16,
     "text": "Nhưng khi PJ mở tập hồ sơ ra, có một bức"
   },
   {
     "p": 10,
     "s": 1,
-    "start": 187.41,
-    "end": 199.42,
+    "start": 191.16,
+    "end": 203.36,
     "text": "Ông nhìn bức ảnh hai đứa trẻ đang cười t"
   },
   {
     "p": 10,
     "s": 2,
-    "start": 199.42,
-    "end": 209.17,
+    "start": 203.36,
+    "end": 213.56,
     "text": "Thế nhưng ông nhớ ra Ollie và Luna là Si"
   },
   {
     "p": 10,
     "s": 3,
-    "start": 209.17,
-    "end": 211.38,
-    "text": "Ollie sẽ tìm được con bé thôi."
+    "start": 213.56,
+    "end": 215.16,
+    "text": "Ollie sẽ tìm được cô bé thôi."
   },
   {
     "p": 10,
     "s": 4,
-    "start": 211.38,
-    "end": 213.33,
+    "start": 215.16,
+    "end": 217.96,
     "text": "Mọi chuyện sẽ ổn cả thôi."
   },
   {
     "p": 10,
     "s": 5,
-    "start": 213.33,
-    "end": 215.04,
-    "text": "Sẽ không giống như trước đây đâu."
+    "start": 217.96,
+    "end": 222.92,
+    "text": "Sẽ không giống như bi kịch trước đây đâu"
   },
   {
     "p": 10,
     "s": 6,
-    "start": 215.04,
-    "end": 217.82,
+    "start": 222.92,
+    "end": 227.16,
     "text": "Sẽ không bao giờ có chuyện đó nữa."
   },
   {
     "p": 11,
     "s": 0,
-    "start": 217.82,
-    "end": 218.75,
+    "start": 227.16,
+    "end": 231.4,
     "text": "Thế nên, PJ đã không gọi cho Belinda Bel"
   },
   {
     "p": 11,
     "s": 1,
-    "start": 218.75,
-    "end": 231.08,
+    "start": 231.4,
+    "end": 235.6,
     "text": "Ông cũng chẳng gọi cảnh sát, bởi ông nhậ"
   },
   {
     "p": 11,
     "s": 2,
-    "start": 231.08,
-    "end": 235.42,
+    "start": 235.6,
+    "end": 239.16,
     "text": "Làm vậy thì có ích gì chứ?"
   },
   {
     "p": 11,
     "s": 3,
-    "start": 235.42,
-    "end": 239.06,
+    "start": 239.16,
+    "end": 242.04,
     "text": "Và ông cũng không gọi cho Fred và Ivy, b"
   },
   {
     "p": 11,
     "s": 4,
-    "start": 239.06,
-    "end": 241.95,
+    "start": 242.04,
+    "end": 245.52,
     "text": "Chẳng làm được gì sất."
   },
   {
     "p": 11,
     "s": 5,
-    "start": 241.95,
-    "end": 251.64,
+    "start": 245.52,
+    "end": 257.28,
     "text": "Thay vào đó, ông gọi cho con gái Sophie,"
   },
   {
     "p": 11,
     "s": 6,
-    "start": 251.64,
-    "end": 258.09,
+    "start": 257.28,
+    "end": 263.16,
     "text": "Ông để lại một lời nhắn thoại dài dòng, "
   },
   {
     "p": 11,
     "s": 7,
-    "start": 258.09,
-    "end": 272.24,
+    "start": 263.16,
+    "end": 274.64,
     "text": "Sau đó, ông lấy bức ảnh chụp Ollie và Lu"
   },
   {
     "p": 12,
     "s": 0,
-    "start": 272.24,
-    "end": 279.83,
+    "start": 274.64,
+    "end": 284.36,
     "text": "Cách đó ba con phố, tại ngôi nhà trắng t"
   },
   {
     "p": 12,
     "s": 1,
-    "start": 279.83,
-    "end": 290.39,
+    "start": 284.36,
+    "end": 291.36,
     "text": "Cảnh sát đã rào nó lại, và suốt cả tháng"
   },
   {
     "p": 12,
     "s": 2,
-    "start": 290.39,
-    "end": 304.4,
+    "start": 291.36,
+    "end": 304.76,
     "text": "Ba con kền kền vẫn thường lượn lờ quanh "
   },
   {
     "p": 12,
     "s": 3,
-    "start": 304.4,
-    "end": 310.19,
+    "start": 304.76,
+    "end": 312.24,
     "text": "Lũ chim xích lại gần nhau hơn trên cành "
   },
   {
     "p": 13,
     "s": 0,
-    "start": 310.19,
-    "end": 318.75,
+    "start": 312.24,
+    "end": 323.8,
     "text": "Ollie tìm thấy chị mình đang ngồi bệt tr"
   },
   {
     "p": 13,
     "s": 1,
-    "start": 318.75,
-    "end": 323.69,
-    "text": "Đã có ai đó dọn dẹp sạch sẽ bãi chiến tr"
+    "start": 323.8,
+    "end": 325.56,
+    "text": "Đã có ai đó dọn dẹp sạch sẽ vết tích ấy "
   },
   {
     "p": 13,
     "s": 2,
-    "start": 323.69,
-    "end": 328.66,
+    "start": 325.56,
+    "end": 329.32,
     "text": "Ollie tự hỏi không biết ai lại phải nhận"
   },
   {
     "p": 13,
     "s": 3,
-    "start": 328.66,
-    "end": 337.46,
-    "text": "Cậu bé chưa từng phải chứng kiến mớ hỗn "
+    "start": 329.32,
+    "end": 337.64,
+    "text": "Cậu bé chưa từng chứng kiến mớ hỗn độn ấ"
   },
   {
     "p": 13,
     "s": 4,
-    "start": 337.46,
-    "end": 345.14,
+    "start": 337.64,
+    "end": 345.36,
     "text": "Dù vậy, sàn nhà giờ đây đã sạch bóng, và"
   },
   {
     "p": 13,
     "s": 5,
-    "start": 345.14,
-    "end": 355.09,
+    "start": 345.36,
+    "end": 352.8,
     "text": "Ngay bên cạnh cô bé là chiếc túi xách củ"
   },
   {
     "p": 13,
     "s": 6,
-    "start": 355.09,
-    "end": 357.02,
+    "start": 352.8,
+    "end": 355.4,
     "text": "“Chào em, Ollie,” cô bé nói."
   },
   {
     "p": 14,
     "s": 0,
-    "start": 357.02,
-    "end": 358.98,
-    "text": "“Luna, chị làm chúng em sợ muốn chết.”"
+    "start": 355.4,
+    "end": 357.16,
+    "text": "“Chị Luna."
+  },
+  {
+    "p": 14,
+    "s": 1,
+    "start": 357.16,
+    "end": 359.16,
+    "text": "Chị làm tụi em sợ muốn chết.”"
   },
   {
     "p": 15,
     "s": 0,
-    "start": 358.98,
-    "end": 361.14,
-    "text": "“Chúng em là ai?”"
+    "start": 359.16,
+    "end": 361.44,
+    "text": "“Tụi em là ai?”"
   },
   {
     "p": 16,
     "s": 0,
-    "start": 361.14,
-    "end": 361.91,
-    "text": "“Là em với ông PJ chứ ai.”"
+    "start": 361.44,
+    "end": 362.16,
+    "text": "“Em với ông PJ chứ ai.”"
   },
   {
     "p": 17,
     "s": 0,
-    "start": 361.91,
-    "end": 364.41,
+    "start": 362.16,
+    "end": 364.52,
     "text": "“Còn cô Belinda thì sao?”"
   },
   {
     "p": 18,
     "s": 0,
-    "start": 364.41,
-    "end": 367.13,
+    "start": 364.52,
+    "end": 370.28,
     "text": "“Cô Belinda đi rồi.”"
   },
   {
     "p": 19,
     "s": 0,
-    "start": 367.13,
-    "end": 369.9,
+    "start": 370.28,
+    "end": 373.12,
     "text": "“Ồ,” Luna nói."
   },
   {
     "p": 19,
     "s": 1,
-    "start": 369.9,
-    "end": 375.93,
+    "start": 373.12,
+    "end": 376.2,
     "text": "“Tốt.”"
   },
   {
     "p": 19,
     "s": 2,
-    "start": 375.93,
-    "end": 378.25,
+    "start": 376.2,
+    "end": 378.36,
     "text": "Cô bé thấy nhẹ nhõm vì cô Belinda đã đi,"
   },
   {
     "p": 19,
     "s": 3,
-    "start": 378.25,
-    "end": 381.48,
+    "start": 378.36,
+    "end": 384.2,
     "text": "Cô ấy lại là một người lớn khác không bi"
   },
   {
     "p": 19,
     "s": 4,
-    "start": 381.48,
-    "end": 383.96,
+    "start": 384.2,
+    "end": 386.92,
     "text": "Luna cũng thấy nhẹ nhõm vì Ollie đã tìm "
   },
   {
     "p": 19,
     "s": 5,
-    "start": 383.96,
-    "end": 389.0,
+    "start": 386.92,
+    "end": 394.24,
     "text": "Ban đầu Luna định đến bến xe buýt, nhưng"
   },
   {
     "p": 19,
     "s": 6,
-    "start": 389.0,
-    "end": 399.92,
+    "start": 394.24,
+    "end": 398.24,
     "text": "Cô bé từng hy vọng sẽ tìm được ít tiền t"
   },
   {
     "p": 19,
     "s": 7,
-    "start": 399.92,
-    "end": 405.46,
-    "text": "Loài người luôn có cách làm Luna thất vọ"
+    "start": 398.24,
+    "end": 404.0,
+    "text": "Người lớn luôn có cách làm Luna thất vọn"
   },
   {
     "p": 19,
     "s": 8,
-    "start": 405.46,
-    "end": 411.11,
+    "start": 404.0,
+    "end": 408.08,
     "text": "“Chị tìm được một con mèo rồi đây,” Luna"
   },
   {
     "p": 20,
     "s": 0,
-    "start": 411.11,
-    "end": 413.42,
+    "start": 408.08,
+    "end": 411.48,
     "text": "“Chị tìm thấy nó ở đâu thế?”"
   },
   {
     "p": 21,
     "s": 0,
-    "start": 413.42,
-    "end": 414.57,
+    "start": 411.48,
+    "end": 413.88,
     "text": "“Trong bồn tắm của ông PJ."
   },
   {
     "p": 21,
     "s": 1,
-    "start": 414.57,
-    "end": 416.43,
+    "start": 413.88,
+    "end": 415.0,
     "text": "Nó chạy theo chị ra cửa sổ lúc chị đang "
   },
   {
     "p": 22,
     "s": 0,
-    "start": 416.43,
-    "end": 418.95,
-    "text": "“Chị thực sự đang bỏ trốn á?”"
+    "start": 415.0,
+    "end": 416.64,
+    "text": "“Chị thực sự..."
+  },
+  {
+    "p": 22,
+    "s": 1,
+    "start": 416.64,
+    "end": 418.36,
+    "text": "đang bỏ trốn á?”"
   },
   {
     "p": 23,
     "s": 0,
-    "start": 418.95,
-    "end": 421.25,
+    "start": 418.36,
+    "end": 419.2,
     "text": "“Ừ.”"
   },
   {
     "p": 24,
     "s": 0,
-    "start": 421.25,
-    "end": 423.35,
+    "start": 419.2,
+    "end": 421.36,
     "text": "Đôi mắt Ollie ngấn lệ."
   },
   {
     "p": 24,
     "s": 1,
-    "start": 423.35,
-    "end": 425.45,
-    "text": "“Chị bỏ trốn mà không rủ em à?”"
+    "start": 421.36,
+    "end": 423.68,
+    "text": "“Chị bỏ trốn mà không dẫn em theo à?”"
   },
   {
     "p": 25,
     "s": 0,
-    "start": 425.45,
-    "end": 428.64,
+    "start": 423.68,
+    "end": 425.84,
     "text": "Luna trừng mắt nhìn cậu bé."
   },
   {
     "p": 25,
     "s": 1,
-    "start": 428.64,
-    "end": 430.8,
-    "text": "“Thì em có thèm nghe lời chị đâu.”"
+    "start": 425.84,
+    "end": 428.8,
+    "text": "“Thì tại em có chịu nghe lời chị đâu.”"
   },
   {
     "p": 26,
     "s": 0,
-    "start": 430.8,
-    "end": 434.03,
-    "text": "“Vì chị có phải sếp đâu.”"
+    "start": 428.8,
+    "end": 431.12,
+    "text": "“Vì chị đâu phải sếp.”"
   },
   {
     "p": 27,
     "s": 0,
-    "start": 434.03,
-    "end": 436.43,
-    "text": "“Lẽ ra em không nên kể cho y tá nghe chu"
+    "start": 431.12,
+    "end": 434.36,
+    "text": "“Lẽ ra em không nên kể cho cô y tá nghe "
   },
   {
     "p": 27,
     "s": 1,
-    "start": 436.43,
-    "end": 438.13,
+    "start": 434.36,
+    "end": 436.52,
     "text": "Chị đã bảo em đừng nói cơ mà."
   },
   {
     "p": 27,
     "s": 2,
-    "start": 438.13,
-    "end": 440.14,
+    "start": 436.52,
+    "end": 438.48,
     "text": "Mẹ bảo chị thậm chí không được kể cho em"
   },
   {
     "p": 27,
     "s": 3,
-    "start": 440.14,
-    "end": 441.88,
+    "start": 438.48,
+    "end": 440.28,
     "text": "Mẹ bảo em sẽ chẳng bao giờ hiểu được vì "
   },
   {
     "p": 28,
     "s": 0,
-    "start": 441.88,
-    "end": 444.64,
+    "start": 440.28,
+    "end": 442.16,
     "text": "Chú mèo nhảy khỏi tay Luna và tiến lại n"
   },
   {
     "p": 28,
     "s": 1,
-    "start": 444.64,
-    "end": 449.84,
+    "start": 442.16,
+    "end": 449.12,
     "text": "Một giọt nước mắt của Ollie rơi trúng đầ"
   },
   {
     "p": 28,
     "s": 2,
-    "start": 449.84,
-    "end": 451.24,
+    "start": 449.12,
+    "end": 450.12,
     "text": "“Được rồi,” Ollie nói."
   },
   {
     "p": 28,
     "s": 3,
-    "start": 451.24,
-    "end": 452.68,
+    "start": 450.12,
+    "end": 451.56,
     "text": "“Thôi được."
   },
   {
     "p": 28,
     "s": 4,
-    "start": 452.68,
-    "end": 454.22,
+    "start": 451.56,
+    "end": 454.36,
     "text": "Em xin lỗi.”"
   },
   {
     "p": 29,
     "s": 0,
-    "start": 454.22,
-    "end": 456.27,
+    "start": 454.36,
+    "end": 456.76,
     "text": "Luna hỏi dồn: “Em xin lỗi vì điều gì?”"
   },
   {
     "p": 29,
     "s": 1,
-    "start": 456.27,
-    "end": 457.93,
+    "start": 456.76,
+    "end": 458.24,
     "text": "Cô bé đang thử thách cậu em."
   },
   {
     "p": 30,
     "s": 0,
-    "start": 457.93,
-    "end": 459.87,
+    "start": 458.24,
+    "end": 459.96,
     "text": "“Vì làm con trai."
   },
   {
     "p": 30,
     "s": 1,
-    "start": 459.87,
-    "end": 462.4,
-    "text": "Và vì đã không chịu nghe lời chị."
+    "start": 459.96,
+    "end": 462.72,
+    "text": "Và vì đã không nghe lời chị."
   },
   {
     "p": 30,
     "s": 2,
-    "start": 462.4,
-    "end": 463.85,
+    "start": 462.72,
+    "end": 464.32,
     "text": "Từ giờ em sẽ nghe lời chị.”"
   },
   {
     "p": 31,
     "s": 0,
-    "start": 463.85,
-    "end": 464.88,
-    "text": "“Luôn luôn nhé?”"
+    "start": 464.32,
+    "end": 465.12,
+    "text": "“Lúc nào cũng vậy chứ?”"
   },
   {
     "p": 32,
     "s": 0,
-    "start": 464.88,
-    "end": 467.87,
+    "start": 465.12,
+    "end": 468.64,
     "text": "“Vâng."
   },
   {
     "p": 32,
     "s": 1,
-    "start": 467.87,
-    "end": 468.99,
-    "text": "Nhưng chị không được phép bỏ đi mà không"
+    "start": 468.64,
+    "end": 470.08,
+    "text": "Nhưng chị không được bỏ đi mà không có e"
   },
   {
     "p": 33,
     "s": 0,
-    "start": 468.99,
-    "end": 470.0,
-    "text": "“Chốt,” cô bé nói."
+    "start": 470.08,
+    "end": 472.76,
+    "text": "“Nhất trí,” cô bé nói."
   },
   {
     "p": 33,
     "s": 1,
-    "start": 470.0,
-    "end": 472.65,
+    "start": 472.76,
+    "end": 475.44,
     "text": "“Chị sẽ không bao giờ bỏ đi mà không có "
   },
   {
     "p": 34,
     "s": 0,
-    "start": 472.65,
-    "end": 475.24,
+    "start": 475.44,
+    "end": 477.64,
     "text": "“Tốt.”"
   },
   {
     "p": 34,
     "s": 1,
-    "start": 475.24,
-    "end": 477.09,
-    "text": "Ollie lau mắt."
+    "start": 477.64,
+    "end": 482.12,
+    "text": "Cậu bé lau mắt."
   },
   {
     "p": 34,
     "s": 2,
-    "start": 477.09,
-    "end": 477.52,
+    "start": 482.12,
+    "end": 483.76,
     "text": "“Chị có về nhà ông PJ nữa không?"
   },
   {
     "p": 34,
     "s": 3,
-    "start": 477.52,
-    "end": 481.89,
-    "text": "Chú ấy không tệ đâu Luna, chú ấy không h"
+    "start": 483.76,
+    "end": 486.04,
+    "text": "Ông ấy không tệ đâu Luna, ông ấy không h"
   },
   {
     "p": 34,
     "s": 4,
-    "start": 481.89,
-    "end": 485.92,
+    "start": 486.04,
+    "end": 488.36,
     "text": "Ông ấy mua cho chúng ta một cái bạt nhún"
   },
   {
     "p": 34,
     "s": 5,
-    "start": 485.92,
-    "end": 488.13,
+    "start": 488.36,
+    "end": 490.0,
     "text": "Cả giường tầng nữa chứ."
   },
   {
     "p": 34,
     "s": 6,
-    "start": 488.13,
-    "end": 489.7,
+    "start": 490.0,
+    "end": 491.4,
     "text": "Hàng mới tinh luôn."
   },
   {
     "p": 34,
     "s": 7,
-    "start": 489.7,
-    "end": 491.08,
+    "start": 491.4,
+    "end": 493.56,
     "text": "Mấy tấm nệm vẫn còn bọc nilon."
   },
   {
     "p": 34,
     "s": 8,
-    "start": 491.08,
-    "end": 493.34,
+    "start": 493.56,
+    "end": 494.96,
     "text": "Không có rệp đâu.”"
   },
   {
     "p": 34,
     "s": 9,
-    "start": 493.34,
-    "end": 494.75,
+    "start": 494.96,
+    "end": 496.96,
     "text": "Hồi ở nhà nhận nuôi bên Springfield từng"
   },
   {
     "p": 34,
     "s": 10,
-    "start": 494.75,
-    "end": 498.04,
-    "text": "“Và ông ấy bảo ông ấy yêu quý chúng ta,”"
+    "start": 496.96,
+    "end": 498.32,
+    "text": "“Và ông ấy bảo ông ấy thương chúng ta,” "
   },
   {
     "p": 34,
     "s": 11,
-    "start": 498.04,
-    "end": 501.41,
-    "text": "“Ông ấy bảo ông ấy đã yêu quý chúng ta r"
+    "start": 498.32,
+    "end": 500.48,
+    "text": "“Ông ấy bảo ông ấy đã thương tụi mình rồ"
   },
   {
     "p": 35,
     "s": 0,
-    "start": 501.41,
-    "end": 504.56,
+    "start": 500.48,
+    "end": 504.76,
     "text": "“Chắc tối nay chị sẽ ở lại đó,” Luna đàn"
   },
   {
     "p": 35,
     "s": 1,
-    "start": 504.56,
-    "end": 510.74,
+    "start": 504.76,
+    "end": 510.88,
     "text": "“Chị không thể ở lại đây được,” cô bé nó"
   },
   {
     "p": 35,
     "s": 2,
-    "start": 510.74,
-    "end": 514.2,
+    "start": 510.88,
+    "end": 514.36,
     "text": "Mốc meo."
   },
   {
     "p": 35,
     "s": 3,
-    "start": 514.2,
-    "end": 514.68,
+    "start": 514.36,
+    "end": 515.72,
     "text": "U ám."
   },
   {
     "p": 35,
     "s": 4,
-    "start": 514.68,
-    "end": 532.53,
+    "start": 515.72,
+    "end": 529.56,
     "text": "Nhưng nơi này chưa bao giờ là một chốn a"
   },
   {
     "p": 35,
     "s": 5,
-    "start": 532.53,
-    "end": 542.97,
+    "start": 529.56,
+    "end": 543.2,
     "text": "Đó là một nơi đáng sợ và hỗn độn, nơi mà"
   },
   {
     "p": 36,
     "s": 0,
-    "start": 542.97,
-    "end": 546.69,
-    "text": "“Không,” Ollie đồng thời cũng nhìn quanh"
+    "start": 543.2,
+    "end": 546.36,
+    "text": "“Không,” Ollie đồng tình và cũng nhìn qu"
   },
   {
     "p": 36,
     "s": 1,
-    "start": 546.69,
-    "end": 549.0,
+    "start": 546.36,
+    "end": 549.44,
     "text": "“Em chẳng bao giờ muốn quay lại đây nữa."
   },
   {
     "p": 37,
     "s": 0,
-    "start": 549.0,
-    "end": 551.25,
-    "text": "“Hay chúng ta đốt quách nó đi nhỉ?”"
+    "start": 549.44,
+    "end": 551.56,
+    "text": "“Hay chị em mình đốt quách nó đi nhỉ?”"
   },
   {
     "p": 37,
     "s": 1,
-    "start": 551.25,
-    "end": 559.38,
+    "start": 551.56,
+    "end": 559.72,
     "text": "Luna đề nghị, bởi cô bé đang mang theo c"
   },
   {
     "p": 37,
     "s": 2,
-    "start": 559.38,
-    "end": 567.85,
+    "start": 559.72,
+    "end": 568.0,
     "text": "Luna biết ông ngoại từng đốt nhà một lần"
   },
   {
     "p": 37,
     "s": 3,
-    "start": 567.85,
-    "end": 572.67,
+    "start": 568.0,
+    "end": 572.84,
     "text": "Ông từng cố châm lửa đốt căn nhà có một "
   },
   {
     "p": 37,
     "s": 4,
-    "start": 572.67,
-    "end": 579.51,
+    "start": 572.84,
+    "end": 578.32,
     "text": "Ông ngoại có rất nhiều câu chuyện đáng s"
   },
   {
     "p": 37,
     "s": 5,
-    "start": 579.51,
-    "end": 582.96,
-    "text": "“Ông PJ thực sự nói ông ấy yêu quý chúng"
+    "start": 578.32,
+    "end": 579.96,
+    "text": "“Ông PJ thực sự nói ông ấy thương tụi mì"
   },
   {
     "p": 37,
     "s": 6,
-    "start": 582.96,
-    "end": 585.81,
+    "start": 579.96,
+    "end": 583.16,
     "text": "Luna hỏi lại."
   },
   {
     "p": 38,
     "s": 0,
-    "start": 585.81,
-    "end": 588.57,
+    "start": 583.16,
+    "end": 585.96,
     "text": "“Vâng,” Ollie lại nói dối."
   },
   {
     "p": 38,
     "s": 1,
-    "start": 588.57,
-    "end": 590.25,
-    "text": "“Ông ấy nói thế.”"
+    "start": 585.96,
+    "end": 589.08,
+    "text": "“Ông ấy nói thế thật mà.”"
   },
   {
     "p": 39,
     "s": 0,
-    "start": 590.25,
-    "end": 592.45,
+    "start": 589.08,
+    "end": 590.4,
     "text": "Luna thừa biết Ollie đang nói dối, nhưng"
   },
   {
     "p": 40,
     "s": 0,
-    "start": 592.45,
-    "end": 594.27,
-    "text": "“Và nếu ông ấy không thương, chúng ta sẽ"
+    "start": 590.4,
+    "end": 594.36,
+    "text": "“Và nếu ông ấy không thương, chị em mình"
   },
   {
     "p": 40,
     "s": 1,
-    "start": 594.27,
-    "end": 597.25,
-    "text": "Chúng ta sẽ đi tìm bố của chị,” Ollie hứ"
+    "start": 594.36,
+    "end": 597.56,
+    "text": "Chị em mình sẽ đi tìm bố của chị,” Ollie"
   },
   {
     "p": 41,
     "s": 0,
-    "start": 597.25,
-    "end": 600.33,
+    "start": 597.56,
+    "end": 600.56,
     "text": "“Được,” Luna đáp."
   },
   {
     "p": 41,
     "s": 1,
-    "start": 600.33,
-    "end": 603.87,
-    "text": "Cô bé cũng đang rất cần được nghe câu đó"
+    "start": 600.56,
+    "end": 604.04,
+    "text": "Cô bé cũng đang rất cần được nghe câu nó"
   },
   {
     "p": 42,
     "s": 0,
-    "start": 603.87,
-    "end": 616.31,
+    "start": 604.04,
+    "end": 619.16,
     "text": "Lũ kền kền đậu trên cây thích ngoài ngôi"
   },
   {
     "p": 42,
     "s": 1,
-    "start": 616.31,
-    "end": 622.28,
+    "start": 619.16,
+    "end": 622.4,
     "text": "Lũ chim dõi theo bóng hai đứa trẻ đang đ"
   },
   {
     "p": 42,
     "s": 2,
-    "start": 622.28,
-    "end": 625.39,
+    "start": 622.4,
+    "end": 627.08,
     "text": "Luna giữ im lặng, nhưng Ollie hét lớn đá"
   },
   {
     "p": 42,
     "s": 3,
-    "start": 625.39,
-    "end": 628.6,
-    "text": "Bọn cháu tìm được mèo của ông PJ rồi ông"
+    "start": 627.08,
+    "end": 629.04,
+    "text": "Bọn cháu tìm thấy mèo của ông PJ rồi ông"
   },
   {
     "p": 42,
     "s": 4,
-    "start": 628.6,
-    "end": 637.38,
-    "text": "Nó vẫn còn sống!”"
+    "start": 629.04,
+    "end": 637.56,
+    "text": "Chú mèo vẫn còn sống!”"
   },
   {
     "p": 43,
     "s": 0,
-    "start": 637.38,
-    "end": 639.33,
+    "start": 637.56,
+    "end": 643.92,
     "text": "Còn sống, lũ kền kền đồng thanh xác nhận"
   },
   {
     "p": 43,
     "s": 1,
-    "start": 639.33,
-    "end": 643.74,
-    "text": "Sống, sống, sống, chúng khàn giọng rít k"
+    "start": 643.92,
+    "end": 645.96,
+    "text": "Còn sống, còn sống, còn sống, chúng khàn"
   },
   {
     "p": 43,
     "s": 2,
-    "start": 643.74,
-    "end": 645.84,
-    "text": "Kền kền không hề kêu éc éc hay hót như n"
+    "start": 645.96,
+    "end": 649.8,
+    "text": "Kền kền không hề kêu rống hay hót như nh"
   },
   {
     "p": 43,
     "s": 3,
-    "start": 645.84,
-    "end": 649.73,
+    "start": 649.8,
+    "end": 653.2,
     "text": "Về cơ bản chúng là loài vật trầm lặng, y"
   },
   {
     "p": 43,
     "s": 4,
-    "start": 649.73,
+    "start": 653.2,
     "end": 667.14,
     "text": "Nhưng ở đây lại có một điều hoàn toàn mớ"
   }

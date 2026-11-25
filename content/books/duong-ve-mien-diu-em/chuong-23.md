@@ -1,69 +1,67 @@
-*Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba*
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">16</h1>
 
-# Chương 16
+Sau khi đi vệ sinh xong, Sophie nói rằng cô muốn vào Bảo tàng Tượng sáp Thác Niagara. Nơi này phô trương tấm bảng quảng cáo: “Có mặt mọi nhân vật công chúng từng ghé thăm Niagara!”. Ở cửa sổ trưng bày một bức tượng sáp biến dạng của Marilyn Monroe trong chiếc váy trắng kinh điển. Cô từng quay một bộ phim tại Niagara, và đến cuối phim thì bị chính người chồng của mình bóp cổ đến chết.
 
-Sau khi đi vệ sinh xong, Sophie nói rằng cô muốn vào Bảo tàng Lịch sử Tượng sáp Niagara. Nơi này quảng cáo là có “Mọi nhân vật công chúng từng đến thăm Niagara!”. Có một bức tượng sáp méo mó của Marilyn Monroe đứng ở cửa sổ, mặc chiếc váy trắng kinh điển của cô. Cô từng quay một bộ phim ở Niagara. Cuối phim, cô bị chính chồng mình bóp cổ sát hại.
+“Được chứ, vào thôi con.” PJ bế chú mèo lên, ôm gọn chú trong tay rồi bước vào bảo tàng.
 
-“Được chứ, vào thôi nào.” PJ bế chú mèo lên, ôm trọn chú trong tay rồi bước vào bảo tàng.
+“Không được mang mèo vào,” người phụ nữ ở cửa nói. Bà đeo một chiếc khăn lụa đỏ và đôi khuyên tai bằng bạc, chỉ tay về phía tấm biển nội quy: Không mang theo thú cưng, phải đi giày dép, vé vào cửa 8 đô la, không chạm vào các bức tượng sáp. Luôn chào mừng động vật hỗ trợ.
 
-“Không được mang mèo vào,” người phụ nữ ở cửa nói. Bà đeo một chiếc khăn lụa đỏ và đôi khuyên tai bạc. Bà chỉ tay vào một tấm biển: Không mang theo thú cưng, phải đi giày dép, vé vào cửa 8 đô la, không chạm vào các bức tượng sáp. Chào mừng động vật hỗ trợ.
+“Chú mèo này là động vật hỗ trợ,” PJ nói, phản ứng nhanh nhạy.
 
-“Chú mèo này là động vật hỗ trợ,” PJ nói, ứng biến nhanh chóng.
+“Hỗ trợ việc gì?” người phụ nữ hỏi, bởi bà đã quá quen nghe những lời nhảm nhí từ du khách. “Nó hỗ trợ ông trong tình trạng bệnh lý nào?”
 
-“Hỗ trợ việc gì?” người phụ nữ hỏi, bởi bà đã quá quen với những lời nhảm nhí từ khách du lịch. “Nó hỗ trợ ông trong tình trạng bệnh lý nào?”
+PJ khựng lại một chút. Ông không nghĩ bà ta có quyền hợp pháp để hỏi điều đó. Bạn của ông là Hank vẫn thường xuyên mang con chó pitbull đến quán rượu, và nếu có ai hỏi thì Meatball là chó hỗ trợ, nhưng chẳng bao giờ có ai buồn thắc mắc Meatball hỗ trợ cái gì. “Chú mèo này theo dõi tim tôi,” PJ quyết định trả lời. “Nó sẽ nháo nhào lên nếu nhịp tim tôi bị loạn.” Thực tế thì tim của PJ lúc nào cũng loạn nhịp, ông mắc chứng loạn nhịp tim mãn tính. Ngay lúc này, chú mèo đang lắng nghe nhịp đập lộn xộn ấy của ông. “Tôi có tiền sử nhồi máu cơ tim nhiều lần.”
 
-PJ khựng lại. Ông nghĩ hỏi thế là phạm luật. Bạn của ông là Hank vẫn mang con chó pitbull vào quán rượu suốt, và nếu có ai hỏi thì Meatball chính là chó hỗ trợ. Chẳng ai buồn hỏi Meatball hỗ trợ việc gì cả. “Chú mèo này theo dõi tim tôi,” PJ quyết định. “Nó sẽ phát điên nếu tim tôi lệch nhịp.” Thú thực là tim PJ lúc nào cũng lệch nhịp. Ông bị chứng loạn nhịp tim. Ngay lúc này, chú mèo đang lắng nghe nhịp đập lộn xộn đó của ông. “Tôi có tiền sử bị nhồi máu cơ tim lâu năm.”
+“Đúng thế đấy ạ,” Sophie nói thêm vào. “Bố cháu đã bị nhồi máu cơ tim ba lần rồi.”
 
-“Đúng thế đấy,” Sophie nói. “Bố đã bị nhồi máu cơ tim ba lần rồi.”
+“Ông PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna lên tiếng. “Đó là lý do vì sao việc tìm lại bố ruột của cháu lại cực kỳ quan trọng.”
 
-“Ông PJ có thể lăn đùng ra chết bất cứ lúc nào,” Luna nói. “Đó là lý do việc tìm bố ruột của cháu là vô cùng quan trọng.”
+“Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ sống với ai nếu không có ông ấy.”
 
-“Cháu hy vọng ông ấy không chết,” Ollie nói. “Cháu chẳng biết mình sẽ ở với ai nữa.”
-
-Người phụ nữ thở dài. Đã muộn màng gì đâu mà phải nghe mấy chuyện này. “Chào mừng đến với Bảo tàng Lịch sử Tượng sáp Niagara.” Bà nhận tiền rồi đóng dấu lên tay từng người bằng một con dấu cao su in khuôn mặt nổi tiếng của Marilyn Monroe.
+Người phụ nữ thở dài. Bà đã quá mệt mỏi vào lúc cuối ngày thế này để phải đôi co với những chuyện nhảm nhí đó. “Chào mừng đến với Bảo tàng Lịch sử Tượng sáp Niagara.” Bà thu tiền rồi dùng con dấu cao su in hình khuôn mặt nổi tiếng của Marilyn Monroe đóng lên lưng bàn tay từng người.
 
 “Cảm ơn bà,” PJ nói.
 
-Bảo tàng chủ yếu là một hành lang dài, với vài căn phòng nhỏ nằm ở bên cạnh. Các bức tượng sáp trông thật tồi tệ, có lẽ đã bị tan chảy theo thời gian hoặc vốn dĩ chưa bao giờ đẹp đẽ cho cam, lại được chiếu đèn hắt lên từ dưới sàn nên trông vô cùng rợn tóc gáy. Có một bức tượng Công nương Diana với chiếc mũi củ hành cùng mái tóc giả thảm họa. Ngay gần đó, Mark Twain cùng bộ ria mép bạc trắng đang ngồi trên một chiếc ghế dài.
+Bảo tàng về bản chất là một hành lang dài với vài căn phòng nhỏ nằm nép bên cạnh. Các bức tượng sáp trông vô cùng tệ hại, có lẽ đã bị chảy xệ theo thời gian hoặc vốn dĩ ngay từ đầu đã chẳng đẹp đẽ gì, lại thêm đèn chiếu hắt ngược từ dưới sàn lên khiến chúng trông vô cùng rợn tóc gáy. Có một bức tượng Công nương Diana với chiếc mũi củ hành cùng mái tóc giả xấu xí. Ngay gần đó, Mark Twain cùng bộ ria mép bạc trắng đang ngồi trên một chiếc ghế dài.
 
-Ollie đấm mạnh tay vào một chiếc thùng kim loại được trưng bày. Trông nó giống như một thùng phuy đựng dầu. Ngay cạnh chiếc thùng là bức tượng của một người tên là Bobby Leach [7] . Tấm biển giải thích rằng Bobby Leach là người thứ hai vượt thác bằng thùng phuy mà vẫn sống sót. “Nhưng có bao nhiêu người vượt thác bằng thùng phuy rồi chết vậy ạ?” Ollie hỏi.
+Ollie đấm mạnh tay vào chiếc thùng kim loại trưng bày gần đó. Trông nó giống như một thùng phuy đựng dầu. Bên cạnh chiếc thùng là bức tượng của một người tên Bobby Leach[7]. Tấm biển giải thích rằng Bobby Leach là người thứ hai chui vào thùng phuy lao xuống thác nước mà vẫn sống sót. “Nhưng có bao nhiêu người chui vào thùng phuy lao xuống thác rồi chết hả ông?” Ollie hỏi.
 
-“Câu hỏi hay đấy,” PJ tán thành. Chẳng có tấm biển nào giải thích về chuyện đó cả.
+“Câu hỏi hay đấy,” PJ tán thành. Nhưng chẳng có tấm biển nào ghi lại điều đó cả.
 
-Thay vào đó, lại có một vật trưng bày là vỏ cam đặt trên chiếc gối nhung nhỏ, trông giống như chiếc giày thủy tinh của Lọ Lem. “Nào, nhìn xem này,” PJ nói. “Vận may của Bobby đã cạn kiệt.” Vài năm sau, theo tấm bảng đồng nhỏ ghi lại, diễn viên đóng thế nổi tiếng Bobby Leach đã trượt chân ngã vào một vỏ cam và bị thương nặng ở chân. Chân của ông ta đã phải cưa đứt, và Bobby qua đời vì các biến chứng chỉ hai tháng sau đó.
+Thay vào đó là một vỏ cam được trưng bày trên chiếc gối nhung nhỏ, trông giống như chiếc chiếc giày thủy tinh của Lọ Lem. “Nào, nhìn xem này,” PJ nói. “Vận may của Bobby đã cạn sạch.” Vài năm sau biến cố ngọn thác, theo tấm bảng đồng nhỏ ghi lại, diễn viên đóng thế nổi tiếng Bobby Leach đã trượt chân ngã vì một vỏ cam và bị thương nặng ở chân. Chân của ông ta buộc phải cắt bỏ, và Bobby qua đời vì biến chứng hai tháng sau đó.
 
-“Kiểu chết vì vỏ cam đó chẳng có chút gì mùi-mẫn cả,” PJ nói, và Ollie bật cười phá lên. PJ rất vui vì đã làm cậu bé bật cười. Ông đảo mắt tìm cô bé xem có thích câu đùa đó không, nhưng Luna đã đi đâu đó một mình và bỏ lỡ mất rồi.
+“Kiểu chết vì vỏ cam đó đúng là chẳng có gì hấp dẫn tẹo nào,” PJ chêm vào một câu đùa chơi chữ, và Ollie bật cười phá lên. PJ rất vui vì đã làm cậu bé cười. Ông quay sang tìm cô bé xem có thích câu đùa đó không, nhưng Luna đã bỏ đi đâu đó một mình từ lúc nào.
 
-Trong một căn phòng nhỏ nằm tách biệt với hành lang chính, Luna đang đứng cạnh bức tượng Abraham Lincoln cao sáu foot bốn inch với bàn tay giơ ra chào đón.
+Trong một căn phòng nhỏ nằm tách biệt với hành lang chính, Luna đang đứng đối diện với bức tượng Abraham Lincoln cao sáu foot bốn inch đang giơ tay ra chào đón.
 
-“Cháu chào bác,” Luna cất lời, tự nhắc bản thân đứng thẳng người trong lúc nhẩm lại những gì mình định nói. “Tên cháu là Luna Meeklin, mười tuổi rưỡi, và dựa trên những gì cháu đọc được trong nhật ký của mẹ cháu về các sự kiện trong bữa tiệc đêm giao thừa, cháu tin rằng bác chính là bố ruột của cháu.”
+“Cháu chào bác,” Luna cất lời, tự nhắc bản thân phải đứng thẳng người trong lúc nhẩm lại những lời định nói. “Tên cháu là Luna Meeklin, mười tuổi rưỡi, và dựa trên những gì cháu đọc được trong nhật ký của mẹ cháu về các sự kiện diễn ra tại đêm tiệc Giao thừa, cháu tin rằng bác chính là bố ruột của cháu.”
 
-Luna đổi sang giọng trầm hơn: “Bác nhớ rất rõ đêm hôm đó, cô bé ạ. Cháu có muốn đến ở trong nhà bác không?” Abraham Lincoln cất lời, trong vai trò của Mark Stackpole.
+Luna hạ thấp giọng, tự đóng vai Mark Stackpole trong hình hài Abraham Lincoln: “Bác nhớ rất rõ đêm hôm đó, cô bé ạ. Cháu có muốn đến ở trong dinh thự của bác không?”
 
 “Em trai cháu có được đi cùng không ạ?” Luna hỏi.
 
-Lincoln lắc đầu. “Đáng tiếc là không, cậu bé không thể đi cùng được. Bác nghĩ dinh thự không còn chỗ đâu. Thằng bé cứ ở lại với ông PJ và Sophie nhé? Bác nghe nói họ có cả bạt nhún và máy PlayStation cơ mà. Thằng bé sẽ ổn thôi.”
+Lincoln lắc đầu: “Rất tiếc là không thể được, cô bé. Bác e là dinh thự không còn đủ chỗ. Cậu bé cứ ở lại với ông PJ và Sophie có được không? Bác nghe nói họ có cả bạt nhún lẫn máy chơi game PlayStation đấy. Cậu bé sẽ ổn thôi mà.”
 
-“Vâng,” Luna ngẫm nghĩ. “Em ấy ăn nhiều lắm, lại chẳng phải lúc nào cũng nghe lời chị. Nhưng chị đã hứa là sẽ không bỏ rơi Ollie cơ mà.”
+“Dạ,” Luna ngẫm nghĩ. “Em ấy ăn nhiều lắm, lại chẳng mấy khi chịu nghe lời cháu. Nhưng cháu đã hứa là sẽ không bao giờ bỏ rơi em ấy.”
 
-Mark Stackpole trong hình hài Abraham Lincoln trầm ngâm suy nghĩ. “Thưa Luna, cháu biết là bác có thể làm mọi thứ vì cháu mà. Được chứ, cháu có thể đưa cậu bé theo. Nó có thể ngủ trong tủ quần áo của cháu, nhưng cháu phải ngoéo tay hứa rằng cậu bé sẽ không gây ra nhiều phiền phức đấy nhé.”
+Mark Stackpole trong lốt Abraham Lincoln trầm ngâm suy tính: “Được rồi, Luna, cháu biết là bác có thể làm tất cả vì cháu mà. Cháu có thể đưa cậu bé theo. Cậu bé có thể ngủ trong tủ quần áo của cháu, nhưng cháu phải móc ngoéo hứa với bác là cậu bé sẽ không gây ra quá nhiều phiền phức đấy nhé.”
 
-Luna liền ngoéo tay với bức tượng Mark Stackpole để thực hiện lời hứa, và khi ngón tay cô bé chạm vào, cô bé cảm nhận được bàn tay của người bố ruột, một người chưa bao giờ làm tổn thương hay khiến cô bé sợ hãi, một người sẽ che chở và bảo ban Luna rằng cô bé rất thông minh lại còn xinh xắn nữa, một người sẽ gọi cô bé là “đứa con tuyệt mỹ của bố”, và cái chạm từ người bố thực sự ấy, khi ngón út chạm vào ngón út, khi lớp sáp lạnh chạm vào da thịt ấm áp, đã rung động lan truyền tận sâu trong xương tủy và huyết mạch, chữa lành cho cô bé đôi chút, để Luna cảm nhận được tình yêu thương mà cô bé vẫn luôn khao khát từ bố mình.
+Luna vươn ngón tay út ra ngoéo lấy ngón tay của Mark Stackpole để thực hiện lời hứa, và khoảnh khắc ngón tay cô bé chạm vào bức tượng, cô bé như cảm nhận được bàn tay của người bố ruột thực sự, một người sẽ không bao giờ tổn thương hay làm cô bé sợ hãi, người sẽ luôn bảo vệ cô bé, sẽ ngợi khen cô bé thông minh và xinh đẹp, người sẽ gọi cô bé là “đứa con tuyệt mỹ của bố”. Cái chạm từ người bố thực sự ấy, ngón út lồng vào ngón út, lớp sáp lạnh đan vào da thịt ấm áp, đã truyền một làn sóng rung động chạy dọc vào tận xương tủy và huyết mạch, xoa dịu vết thương lòng của cô bé, cho cô bé cảm nhận được tình yêu thương mà mình luôn khao khát từ bố.
 
-Nhưng có lẽ rung động của tình yêu là quá sức chịu đựng đối với ngài Lincoln, bởi vì khi Luna vừa rụt ngón út lại, cánh tay và cẳng tay của Lincoln đã gãy lìa ngay khuỷu tay, rồi rơi bịch một tiếng nặng nề xuống sàn nhà. “Ôi không, ôi không,” Luna nói. “Ôi chết tiệt,” cô bé lẩm bẩm thêm, vì lúc này còn ai ở quanh đây để mắng mỏ cô bé nữa chứ? Bố mẹ cô bé đã chết. Đây chỉ là một bức tượng sáp ngốc nghếch. Ngay từ cửa vào đã có một tấm biển lớn ghi rõ là không được chạm vào tượng rồi.
+Nhưng có lẽ sự rung động của tình yêu thương ấy là quá sức chịu đựng đối với ngài Lincoln, bởi ngay khi Luna vừa rụt ngón tay út lại, cả bàn tay lẫn cẳng tay của Lincoln đã gãy lìa ngay tại khuỷu tay, rơi bịch một tiếng nặng nề xuống sàn nhà. “Ôi không, ôi không,” Luna thốt lên. “Ôi chết tiệt,” cô bé chửi thầm, vì lúc này làm gì có ai xung quanh để mắng mỏ cô bé nữa chứ? Bố mẹ cô bé đều đã chết. Đây chỉ là một bức tượng sáp ngốc nghếch. Ngay ngoài cửa đã có tấm biển lớn nhắc nhở không được chạm vào các bức tượng.
 
-“Nhét cánh tay vào túi xách đi,” Abraham Lincoln thì thầm. “Không ai thấy đâu.”
+“Nhét cánh tay vào túi xách đi,” Abraham Lincoln thì thầm. “Không ai nhìn thấy đâu.”
 
-“Cảm ơn ngài Lincoln,” Luna nói. Cô bé chộp lấy cánh tay, rồi ngập ngừng cúi đầu chào ông trước khi rời khỏi phòng. Luna chẳng biết phải thể hiện sự tôn kính thế nào với một cựu tổng thống, người đồng thời cũng là một hình mẫu người cha đối với mình. Ông mỉm cười hiền từ với cô bé khi Luna bước đi. Trở ra căn phòng trưng bày các bức tượng chính, Luna thấy mọi người đang đứng tụ tập xung quanh bức tượng của Julia Roberts.
+“Cảm ơn bác Lincoln,” Luna nói. Cô bé chộp lấy cánh tay sáp, ngập ngừng một chút rồi cúi đầu chào ông trước khi rời khỏi phòng. Cô bé chẳng biết làm cách nào khác để thể hiện sự tôn kính với một vị cựu tổng thống, người đồng thời cũng là một hình mẫu người cha đối với mình. Bức tượng mỉm cười hiền từ nhìn cô bé bước đi. Trở ra sảnh chính đầy những bức tượng sáp, Luna thấy mọi người đang đứng vây quanh bức tượng Julia Roberts.
 
 “Cháu đây rồi,” PJ mỉm cười nói.
 
-“Cháu sẵn sàng đi rồi ạ,” Luna nói.
+“Cháu sẵn sàng đi rồi ạ,” Luna đáp.
 
-“Được chứ, cháu yêu. Ông cũng thế. Cút xéo khỏi cái chỗ rợn tóc gáy này thôi.”
+“Được rồi, cô nhóc. Ông cũng vậy. Chuồn khỏi cái chỗ rợn người này thôi nào.”
 
-Và tất cả bắt đầu đi ra cửa trước. Luna đang vã mồ hôi lạnh. Cô bé ôm chặt chiếc túi xách vào ngực lúc bước ra ngoài, nhưng không có tiếng còi báo động nào vang lên, cũng chẳng có ai đuổi theo Luna. Ollie đã đánh lạc hướng rất tốt khi hỏi người phụ nữ ở quầy lễ tân bảo tàng xem khách sạn nào sang trọng nhất ở Niagara. Người phụ nữ giới thiệu Khách sạn Roger Woodward [8] , một khách sạn được đặt theo tên cậu bé từng rơi qua thác nước mà không cần đến thùng phuy bảo vệ. Cậu bé rơi khỏi thuyền và lao xuống thác, nhưng hầu như vẫn bình an vô sự khi được vớt lên, không ai có thể tin nổi điều đó, nhưng đôi khi con người ta vẫn sống sót qua những tai họa không tưởng mà chẳng cần cố gắng làm trò mạo hiểm nào.
+Tất cả bắt đầu bước ra cửa chính. Luna vã mồ hôi lạnh, ôm chặt chiếc túi xách trước ngực khi bước qua cửa, nhưng không có tiếng còi báo động nào vang lên, cũng chẳng có ai đuổi theo cô bé. Ollie đã tạo ra một sự xao nhãng tuyệt vời khi đứng hỏi người phụ nữ ở quầy lễ tân xem khách sạn nào sang trọng nhất ở Niagara. Người phụ nữ giới thiệu Khách sạn Roger Woodward[8], một khách sạn được đặt theo tên cậu bé từng sống sót khi lao xuống thác nước mà không hề có thùng phuy bảo vệ. Cậu bé bị ngã khỏi thuyền rồi bị dòng nước cuốn văng xuống thác, lúc được vớt lên thì gần như vẫn lành lặn hoàn toàn khiến không ai có thể tin nổi, nhưng đôi khi con người ta vẫn sống sót qua những điều kỳ diệu vượt ngoài tưởng tượng mà chẳng cần cố thực hiện trò mạo hiểm nào.
 
-Khi họ đã quay lại bãi đậu xe và ngồi vào trong xe, Luna mới thở phào nhẹ nhõm. Cô bé đang giấu cánh tay của Lincoln trong túi xách. Vụ trộm thành công thứ hai của Luna. Cô bé là một kẻ ngoài vòng pháp luật. Cô bé là một đứa trẻ mồ côi, chẳng ai thèm bận tâm cô bé làm gì.
+Khi đã quay lại bãi đậu xe và ngồi vào trong xe, Luna mới thở phào nhẹ nhõm. Cô bé đã giấu gọn cánh tay của Lincoln trong túi xách. Vụ trộm thành công thứ hai của cô bé. Luna tự thấy mình là một kẻ ngoài vòng pháp luật, một đứa trẻ mồ côi mà chẳng ai thèm bận tâm xem cô bé sẽ làm gì.
 
-Khi họ lái xe rời khỏi ngọn thác, chú mèo Pancakes chồm người đứng bằng hai chân sau để nhìn qua cửa sổ phía sau. Khi chiếc xe Volvo rẽ qua góc đường, họ lại nhìn thấy dòng thác từ đằng xa. Pancakes là sinh vật duy nhất trong xe ngoảnh đầu nhìn lại, là kẻ duy nhất nhận ra cái đốm vàng rực rơi khỏi mép vực rồi lao thẳng xuống dòng thác cuồn cuộn bọt trắng bên dưới. Chiếc áo gió màu neon đứng cạnh tấm biển Đừng nhảy! . Vẫn luôn có những kẻ phớt lờ biển báo, dù cho nó có rõ ràng và trực diện đến thế nào đi chăng nữa.
+Khi chiếc xe lăn bánh rời xa ngọn thác, chú mèo Pancakes chồm hai chân sau đứng lên nhìn qua cửa kính phía sau. Lúc chiếc Volvo rẽ qua góc đường, họ lại nhìn thấy ngọn thác từ đằng xa. Pancakes là sinh vật duy nhất trong xe ngoảnh đầu nhìn lại, là kẻ duy nhất nhận ra cái đốm vàng rực rơi khỏi mép vực rồi lao thẳng xuống dòng nước xiết cuồn cuộn bọt trắng bên dưới. Chiếc áo gió màu neon đứng cạnh tấm biển Đừng nhảy!. Vẫn luôn có những kẻ phớt lờ biển cảnh báo, dù cho nó có rõ ràng và trực diện đến thế nào đi chăng nữa.

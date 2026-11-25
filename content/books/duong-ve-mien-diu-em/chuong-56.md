@@ -1,10 +1,8 @@
-*Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy*
-
-# Chương 45
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">45</h1>
 
 Bãi đậu xe tại Trung tâm thương mại Beechnut Galleria đông nghẹt ô tô, dòng người kéo đến trung tâm thương mại vào một buổi chiều muộn ngày thứ Bảy đông đúc đến vậy.
 
-“Chúng ta nên tách ra,” Sophie nói với bố. Đó là một trung tâm thương mại khổng lồ. Thực tế thì nó chẳng khác nào một thành phố cả. “Bố bắt đầu từ lối vào này, con sẽ bắt đầu từ lối kia. Con sẽ qua chỗ bảo vệ trung tâm thương mại. Họ sẽ giúp chúng ta. Họ không phải cảnh sát thật đâu.” Mọi người vẫn hay lạc con cái ở trung tâm thương mại suốt, mấy anh bảo vệ trung tâm thương mại hiểu rõ chuyện đó. Họ sẽ không gọi dịch vụ bảo trợ trẻ em vì một chuyện bình thường như vậy đâu.
+“Chúng ta nên tách ra,” Sophie nói với bố. Đó là một trung tâm thương mại khổng lồ. Thực tế thì nó chẳng khác nào một thành phố thu nhỏ. “Bố bắt đầu từ lối vào này, con sẽ bắt đầu từ lối kia. Con sẽ qua trao đổi với bảo vệ trung tâm thương mại. Họ sẽ giúp chúng ta. Họ không phải cảnh sát thật đâu.” Mọi người vẫn hay lạc con cái ở trung tâm thương mại suốt, mấy anh bảo vệ hiểu rất rõ chuyện đó. Họ sẽ không gọi cho bên bảo trợ trẻ em chỉ vì một vụ việc thường nhật như thế này đâu.
 
 PJ gật đầu. Ông thầm cảm kích vì Sophie đã đứng ra chủ động lo liệu. Sophie nói đúng, lẽ ra ông không bao giờ nên lấy chiếc nhẫn cũ của Ivy để đem tặng cho người phụ nữ khác. Cuộc hôn nhân của họ là một ký ức quan trọng, và chiếc nhẫn chính là món đồ kỷ niệm cho hạnh phúc giữa hai người. Và họ đã từng hạnh phúc biết bao. Khi gặp lại Ivy, ông sẽ xin lỗi vì đã lấy nó ra khỏi hộp trang sức của bà, cùng với vô số chuyện khác nữa.
 
@@ -22,19 +20,19 @@ Phía trước trong trung tâm thương mại, có mấy người phụ nữ m�
 
 “Ồ,” người phụ nữ đầu tiên lên tiếng. “Tội nghiệp người mẹ của chúng quá. Thật vất vả khi có những đứa con sạt tuổi nhau.”
 
-PJ biết mình nên tiếp tục đi. Những người phụ nữ mặc đồ nhung hồng chẳng liên quan gì đến chuyện này, và họ cũng chẳng giúp ích gì được, nhưng ông vẫn phải nói cho mấy bà già lắm điều này nghe một câu: “Các cô không nên mặc định là mẹ chúng chăm sóc tụi nhỏ đâu. Đó là việc của tôi . Chăm sóc lũ trẻ là việc của tôi .” Mấy người phụ nữ giật mình thon thót. PJ bước tiếp, tiếp tục rảo bước qua trung tâm thương mại.
+PJ biết mình nên tiếp tục đi. Những người phụ nữ mặc đồ nhung hồng chẳng liên quan gì đến chuyện này, và họ cũng chẳng giúp ích gì được, nhưng ông vẫn phải nói cho mấy bà già lắm điều này nghe một câu: “Các cô không nên mặc định là mẹ chúng chăm sóc tụi nhỏ đâu. Đó là việc của tôi. Chăm sóc lũ trẻ là việc của tôi.” Mấy người phụ nữ giật mình thon thót. PJ bước tiếp, tiếp tục rảo bước qua trung tâm thương mại.
 
 Ông trông thấy một cửa hàng trang sức, nơi có lẽ Luna đã định đem bán chiếc nhẫn, nhưng cửa hàng Zales đó trống không, chẳng có ai ngoài mấy tủ kính và một nhân viên mặc áo polo đen đang lộ rõ vẻ chán chường. PJ nhìn vào khung cửa kính tiếp theo. Rồi đến cửa hàng kế tiếp. Chẳng có đứa trẻ nào trong cửa hàng Gap, hay ở Apple Store cả. Chẳng có đứa trẻ nào ở Lucky Brand Jeans. Có vẻ như trung tâm thương mại này toàn là thiếu niên, phụ nữ trung niên với người già, chẳng thấy bóng dáng trẻ con đâu cả. Lũ trẻ đi đâu hết rồi cơ chứ? Không còn ai dẫn chúng ra ngoài nhà để đi mua sắm nữa sao?
 
 PJ nhìn về phía trước, và ở tận góc xa của trung tâm thương mại, ngay trước cửa hàng Macy’s, sát cạnh chiếc thang cuốn, có một đám đông đang tụ tập quanh một đài phun nước nhỏ ở tầng trệt. PJ tự hỏi liệu họ có đang ném xu xuống đài phun nước để cầu mong vận may tốt hơn không. Hy vọng trúng xổ số. Mong tìm được tình yêu trong năm đó. Có em bé. Đỗ đại học. Cầu cho năm nay là năm họ thoát khỏi cái thị trấn này để rồi không bao giờ, không bao giờ, không bao giờ quay lại đây nữa.
 
-Nhưng không, đám đông không hề ném tiền xuống đài phun nước. Thay vào đó, tất cả bọn họ đều ngẩng đầu nhìn lên phía trên, tầng hai của trung tâm thương mại. PJ cũng ngẩng nhìn lên. Ollie đang đứng tựa lưng vào lan can và giơ chú mèo Pancakes lơ lửng ngay mép vực, giống hệt cách khỉ đột bế Simba trong phim Vua Sư Tử .
+Nhưng không, đám đông không hề ném tiền xuống đài phun nước. Thay vào đó, tất cả bọn họ đều ngẩng đầu nhìn lên phía trên, tầng hai của trung tâm thương mại. PJ cũng ngẩng nhìn lên. Ollie đang đứng tựa lưng vào lan can và giơ chú mèo Pancakes lơ lửng ngay mép vực, giống hệt cách chú khỉ giơ cao Simba trong phim Vua Sư Tử.
 
-“NGHE TÔI NÓI ĐÂY, Luna!” Ollie đang gào lên. “NGHE TÔI NÓI NẾU KHÔNG TÔI SẼ THẢ CHÚ MÈO XUỐNG ĐẤY!”
+“NGHE TÔI NÓI ĐÂY, LUNA!” Ollie đang gào lên. “NGHE TÔI NÓI NẾU KHÔNG TÔI SẼ THẢ CHÚ MÈO XUỐNG ĐẤY!”
 
 “Đừng thả chú mèo xuống!” những người ở phía dưới hò hét. “Nghe cậu bé đi, Luna!”
 
-Ởphía trên tầng hai, PJ có thể thấy Luna đang đứng gần Ollie, cách cậu bé chừng ba mét.
+Ở phía trên tầng hai, PJ có thể thấy Luna đang đứng gần Ollie, cách cậu bé chừng ba mét.
 
 “Em đang nghe đây,” Luna nói. “Xin anh đừng làm hại chú mèo. Chú mèo là anh hùng đấy, anh nhớ không? Chú ấy đã cứu mạng chúng ta mà.”
 
@@ -50,13 +48,13 @@ Tim PJ thắt lại nghẹn ở cổ họng. Ông đã tìm thấy lũ trẻ r�
 
 “Ông PJ!” Ollie gọi vọng lại, nhưng cậu nhóc vẫn đang giữ chú mèo lơ lửng ngoài mép lan can. “Ông tìm thấy bọn cháu rồi! Tại chị ấy bắt cháu đi đấy chứ! Cháu có muốn đi đâu cơ chứ!”
 
-Luna nhìn xuống mép vực. “Làm sao ông tìm được tụi cháu vậy ạ?”
+Luna nhìn xuống mép vực. “Làm sao ông tìm được tụi cháu vậy?”
 
 “Ông lúc nào chẳng tìm ra các cháu!” PJ hét lớn lên trên. “Giờ thì, làm ơn đặt chú mèo xuống đất đi cháu.”
 
 “Sao ông tìm lâu thế hả?” Ollie thắc mắc. “Bọn cháu ở đây từ đời thuở nào rồi ấy!”
 
-PJ từng nghĩ thật đáng kinh ngạc vì sao ông và Sophie lại tìm thấy bọn trẻ nhanh đến vậy. Bất chấp mọi xác suất, họ thực sự đã tìm thấy chúng. Và thật may mắn làm sao khi ông đã kịp có mặt ở đây trước khi bọn trẻ kịp ra tay với chú mèo. “Ollie, nhóc con, cháu có thể đưa chú mèo vào nơi an toàn được không? Chú ấy chắc đang sợ lắm đấy. Loài mèo không thích ở độ cao cho lắm đâu; chuyện chúng luôn tiếp đất bằng bốn chân hoàn toàn không đúng sự thật đâu, nhất là khi bị ném từ độ cao thế này.”
+PJ từng nghĩ thật đáng kinh ngạc vì sao ông và Sophie lại tìm thấy bọn trẻ nhanh đến vậy. Bất chấp mọi xác suất, họ thực sự đã tìm thấy chúng. Và thật may mắn làm sao khi ông đã kịp có mặt ở đây trước khi bọn trẻ kịp ra tay với chú mèo. “Ollie, nhóc con, cháu có thể đưa chú mèo vào nơi an toàn được không? Chú ấy chắc đang sợ lắm đấy. Loài mèo không thích ở độ cao cho lắm đâu, chuyện chúng luôn tiếp đất bằng bốn chân hoàn toàn không đúng sự thật đâu, nhất là khi bị ném từ độ cao thế này.”
 
 Nhưng Ollie đã xem đủ phim để hiểu một tình huống bắt cóc diễn ra thế nào. “KHÔNG!” cậu bé nói. “Cháu có yêu sách đấy!”
 
@@ -80,7 +78,7 @@ Ollie sụt sịt. Cậu bé bắt đầu khóc, và không thể đưa tay lau 
 
 “Nhưng cháu cũng mừng vì chúng ta không phải sống cùng họ nữa.”
 
-Luna khựng lại. “Đúng thế,” cô bé đồng tình. Cô bé vô cùng mừng vì từ nay không phải sống trong ngôi nhà đó nữa. Cô bé thực sự nghĩ rằng có lẽ một số người làm giun làm dế thì tốt hơn. Cô bé đã căm ghét bố mình sau khi ông bẻ gãy tay Ollie. Có rất nhiều điều người lớn làm mà Luna có thể tha thứ, nhưng cô bé không thể tha thứ cho chuyện đó. Sẽ không bao giờ.
+Luna khựng lại. “Đúng thế,” cô bé đồng tình. Cô bé vô cùng mừng vì từ nay không phải sống trong ngôi nhà đó nữa. Cô bé thực sự nghĩ rằng có lẽ một số người làm giun làm dế thì tốt hơn. Cô bé đã căm ghét bố mình sau khi ông ta bẻ gãy tay Ollie. Có rất nhiều điều người lớn làm mà Luna có thể tha thứ, nhưng cô bé không thể tha thứ cho chuyện đó. Sẽ không bao giờ.
 
 “Và cháu muốn sống với ông PJ và Michelle Cobb ở Arizona,” Ollie nói.
 
@@ -94,7 +92,7 @@ Nghe vậy, mặt Luna đỏ bừng lên. Cô bé nổi giận đùng đùng. Ol
 
 “Lẽ ra chị phải thế! Mọi chuyện sẽ tốt hơn nhiều nếu chị là chúa tể vũ trụ!”
 
-“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Ông muốn chăm sóc các cháu cho tốt. Và ông cần tiền để chăm sóc các cháu cho đàng hoàng. Ông là một ông già không có bằng lái xe. Ông lại thất nghiệp. Tìm được một công việc với ông đâu phải chuyện dễ. Hơn nữa... ông đã sợ hãi. Ông không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Ông đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của ông đã chết và đứa kia thì... à thì, con bé căm ghét ông.”
+“Này, Luna, đúng là tình yêu đấy,” PJ lên tiếng. “Ông muốn chăm sóc các cháu cho tốt. Và ông cần tiền để chăm sóc các cháu cho đàng hoàng. Ông là một ông già không có bằng lái xe. Ông lại thất nghiệp. Tìm được một công việc với ông đâu phải chuyện dễ. Hơn nữa, ông đã sợ hãi. Ông không chắc mình kham nổi không. Lại làm cha mẹ lần nữa ấy. Ông đã làm hỏng bét mọi chuyện ở lần đầu tiên rồi. Một đứa con gái của ông đã chết và đứa kia thì, à thì, con bé căm ghét ông.”
 
 “Sophie có ghét ông đâu,” Ollie nói. “Chỉ là chị ấy bực vì ông không chịu nằm yên trên giường suốt đêm thôi.”
 
@@ -132,35 +130,41 @@ PJ xoa cằm. Sự thật đương nhiên là ban đầu ông chẳng muốn vư
 
 Một nhân viên bảo vệ trung tâm thương mại đang bước tới, đi cạnh là Sophie. “Lạy Chúa,” Sophie thốt lên. “Lạy Chúa tôi.”
 
-Cằm của viên bảo vệ trung tâm thương mại trễ xuống khi anh ta chứng kiến cậu bé đang lơ lửng cầm chú mèo trên miệng thác nước. Anh ta sắp bị sa thải vì mớ hỗn độn này nếu không kịp thời ngăn chặn ngay lập tức. Gần đây tình trạng trộm cắp vặt trong trung tâm thương mại diễn ra như cơm bữa, và sếp anh ta đã rất gắt gao về chuyện đó, nhưng tình cảnh này thì đã lên một tầm cao khác. Có một con động vật đang gặp nguy hiểm. Động vật vốn không được phép vào trung tâm thương mại, trừ chó nghiệp vụ, và ở trên kia, đó hoàn toàn không phải một chú chó nghiệp vụ. Đó là một chú mèo. Một chú mèo mướp màu cam. Một chú mèo mướp màu cam đang nhìn thẳng vào anh ta.
+Cằm của viên bảo vệ trễ xuống khi anh ta chứng kiến cậu bé đang lơ lửng cầm chú mèo trên miệng thác nước. Anh ta sắp bị sa thải vì mớ hỗn độn này nếu không kịp thời ngăn chặn ngay lập tức. Gần đây tình trạng trộm cắp vặt trong trung tâm thương mại diễn ra như cơm bữa, và sếp anh ta đã rất gắt gao về chuyện đó, nhưng tình cảnh này thì đã lên một tầm cao khác. Có một con động vật đang gặp nguy hiểm. Động vật vốn không được phép vào trung tâm thương mại, trừ chó nghiệp vụ, và ở trên kia, đó hoàn toàn không phải một chú chó nghiệp vụ. Đó là một chú mèo. Một chú mèo mướp màu cam. Một chú mèo mướp màu cam đang nhìn thẳng vào anh ta.
 
 “Chết tiệt,” viên bảo vệ lẩm bẩm. “Tôi tiêu đời rồi.” Anh ta quay phắt người ngay lúc đó, định quay lại phòng an ninh để lấy chiếc vợt bắt cá lớn. Trước đó anh ta chẳng hiểu tại sao họ lại giữ một chiếc vợt bắt cá lớn trong văn phòng, nhưng giờ thì anh ta đã hiểu. Nó dùng cho những tình huống quái quỷ thế này. Đề phòng trường hợp bạn cần bắt mèo. Anh ta cũng sẽ lấy cả súng điện, phòng khi có ai chống đối việc anh ta tịch thu chú mèo. Nhưng bạn không thể mang mèo vào trung tâm thương mại được. Cắm cổ chạy về phía phòng an ninh, anh ta chạy vụt qua lối vào Khu vui chơi bạt nhún FunTime. Anh ta chạy ngang qua đúng chỗ Ollie vừa nôn thốc tháo cả một cốc sữa lắc vani. Vẫn có biển Cảnh báo màu vàng bằng nhựa quen thuộc, thế nhưng viên bảo vệ vẫn trượt chân ngã trên sàn nhà vừa mới lau chùi và đập đầu thật mạnh vào tấm gạch nhựa cứng của trung tâm thương mại. Anh ta đã chết chỉ một phút sau đó.
 
-“Ông có yêu thương chúng cháu, ngay cả khi ông không thể mua cho chúng cháu thứ gì không?” Luna Meeklin hỏi PJ.
+“Ông có yêu thương chúng cháu, ngay cả khi ông không thể mua cho chúng cháu thứ gì không?” Luna hỏi PJ.
 
 “Đương nhiên là ông có chứ.”
 
-“Làm sao chúng cháu biết ông yêu thương tụi cháu nếu ông chẳng mua cho gì cả?” Ollie Meeklin hỏi.
+“Làm sao chúng cháu biết ông yêu thương tụi cháu nếu ông chẳng mua cho gì cả?” Ollie hỏi.
 
 “Chắc là các cháu sẽ không biết đâu,” PJ thừa nhận. “Nhưng ông sẽ nói cho các cháu nghe việc yêu thương trẻ con là thế nào,” ông nói. Ông đang chuẩn bị cho một bài phát biểu. Bài phát biểu của phù rể. Đây chính là khoảnh khắc của ông. Tất cả mọi người trong trung tâm thương mại đều đang nhìn ông. “Yêu thương con cái chính là bảo vệ chúng khỏi những thứ ngu ngốc mà chúng tưởng rằng mình muốn làm, kiểu như bỏ nhà trốn sang Mexico hay nhảy xuống từ tầng trên cùng của cầu thang hoặc đi trên một chiếc thuyền mà không mặc áo phao hoặc khi chúng học trung học và muốn uống rượu mạnh. Yêu thương trẻ con là dạy chúng những điều mới mẻ, và cảm thấy vui sướng khi chúng học được điều đó. Yêu thương trẻ con là khi chúng nắm lấy bàn tay ông bằng cái bàn tay nhỏ xíu đẫm mồ hôi và đầy thịt của mình để rồi ông cảm nhận được một đường dây trực tiếp nối thẳng đến trái tim. Yêu thương trẻ con là dẫu cho chúng có làm ông tức điên lên, và cuộc sống trước khi chúng xuất hiện vốn dĩ nhẹ nhàng hơn rất nhiều, ông vẫn mong chúng sẽ luôn luôn, luôn luôn quay trở về nhà, và ông sẽ nhớ chúng ngay khi chúng vừa rời đi. Ông sẽ nhớ chúng ngay khi chiếc xe buýt trường học đón chúng đi vào buổi sáng, và ông sẽ lo lắng cho chúng, ông luôn luôn lo lắng cho chúng, hằng mong và cầu nguyện rằng, cách này hay cách khác, chúng sẽ là một trong số những đứa trẻ may mắn. Một trong những đứa trẻ may mắn hạnh phúc, được bình an, tránh xa ma túy và sống đến tuổi một trăm linh hai và chẳng bao giờ phải trải qua bất kỳ nỗi đau đớn hay tan vỡ nào.”
 
-“Thế ông có thực sự muốn tụi cháu không?” Ollie Meeklin hỏi. “Ông muốn yêu thương tụi cháu như thế sao? Ông muốn nhớ tụi cháu khi tụi cháu ở trường ư?”
+“Thế ông có thực sự muốn tụi cháu không?” Ollie hỏi. “Ông muốn yêu thương tụi cháu như thế sao? Ông muốn nhớ tụi cháu khi tụi cháu ở trường ư?”
 
-“Có chứ!” PJ đáp. Và ông nhận ra điều đó là sự thật, ông thực sự muốn thế. PJ vẫn luôn yêu thương trẻ con, tất cả những đứa trẻ trên đời, chúng chính là những viên ngọc quý của thế giới, nhưng giờ đây ông lại yêu thương những đứa trẻ đặc biệt này hơn cả. Ông yêu cái tính khí cương quyết của Luna Meeklin, yêu sự ngọt ngào của Ollie Meeklin, và yêu cả sự thông minh của chúng, cách mà lũ trẻ có thể tiếp thu những từ ngữ mới và những sự thật mới mọi lúc mọi nơi. Ông yêu việc chúng làm những điều chu đáo, chẳng hạn như mang cho ông bánh beignet từ quán Cracker Barrel, dẫu cho ông vẫn thầm hy vọng được nếm thử món bánh rán kiểu Pháp ở một nơi nào đó sang trọng hơn một chút, chẳng hạn như một tiệm bánh ở New Orleans. Ông yêu những sở thích kỳ quặc của chúng, mặc dù Luna Meeklin sẽ không được phép cắt và dán bất kỳ bức thư tống tiền nào nữa. Chúng làm cho cuộc sống của ông trở nên vất vả hơn; chúng làm cuộc sống của ông rối ren hơn rất nhiều, vậy mà ông vẫn muốn có chúng. “Ông muốn các cháu. Ông cần phải tìm cách xem làm sao mình có thể lo nổi tiền nuôi nấng các cháu, nhưng ông muốn có các cháu. Ông thực sự muốn thế.”
+“Có chứ!” PJ đáp. Và ông nhận ra điều đó là sự thật, ông thực sự muốn thế. PJ vẫn luôn yêu thương trẻ con, tất cả những đứa trẻ trên đời, chúng chính là những viên ngọc quý của thế giới, nhưng giờ đây ông lại yêu thương những đứa trẻ đặc biệt này hơn cả. Ông yêu cái tính khí cương quyết của Luna, yêu sự ngọt ngào của Ollie, và yêu cả sự thông minh của chúng, cách mà lũ trẻ có thể tiếp thu những từ ngữ mới và những sự thật mới mọi lúc mọi nơi. Ông yêu việc chúng làm những điều chu đáo, chẳng hạn như mang cho ông bánh beignet từ quán Cracker Barrel ở Tennessee, dẫu cho ông vẫn thầm hy vọng được nếm thử món bánh rán kiểu Pháp ở một nơi nào đó sang trọng hơn một chút, chẳng hạn như một tiệm bánh ở New Orleans. Ông yêu những sở thích kỳ quặc của chúng, mặc dù Luna sẽ không được phép cắt và dán bất kỳ bức thư tống tiền nào nữa. Chúng làm cho cuộc sống của ông trở nên vất vả hơn, chúng làm cuộc sống của ông rối ren hơn rất nhiều, vậy mà ông vẫn muốn có chúng. “Ông muốn các cháu. Ông cần phải tìm cách xem làm sao mình có thể lo nổi tiền nuôi nấng các cháu, nhưng ông muốn có các cháu. Ông thực sự muốn thế.”
 
-Sophie Halliday không hề ngạc nhiên khi bố đã cạn sạch tiền. Cô biết chuyện đó chỉ là vấn đề thời gian mà thôi. Có lẽ giờ đây bố cuối cùng cũng sẽ xốc lại tinh thần. Có lẽ đây chính là đáy vực mà họ vẫn hằng mong đợi.
+Sophie không hề ngạc nhiên khi bố đã cạn sạch tiền. Cô biết chuyện đó chỉ là vấn đề thời gian mà thôi. Có lẽ giờ đây bố cuối cùng cũng sẽ xốc lại tinh thần. Có lẽ đây chính là đáy vực mà họ vẫn hằng mong đợi.
 
-Đám đông bắt đầu reo hò, bởi vì cậu nhóc đã đưa chú mèo qua khỏi lan can trở lại. Ollie Meeklin đang cố ôm lấy chú mèo. “Cháu xin lỗi,” cậu bé nói. “Cháu xin lỗi, xin lỗi, xin lỗi. Cháu thực sự xin lỗi.” Chú mèo Pancakes giãy giụa, móng vuốt giương ra. Đồ vô ơn tệ hại, chú mèo nghĩ thầm. Chú nhảy tót vào vòng tay của Luna Meeklin.
+Đám đông bắt đầu reo hò, bởi vì cậu nhóc đã đưa chú mèo qua khỏi lan can trở lại. Ollie đang cố ôm lấy chú mèo. “Cháu xin lỗi,” cậu bé nói. “Cháu xin lỗi, xin lỗi, xin lỗi. Cháu thực sự xin lỗi.” Chú mèo Pancakes giãy giụa, móng vuốt giương ra.
+
+Đồ vô ơn tệ hại, chú mèo nghĩ thầm. Chú nhảy tót vào vòng tay của Luna.
 
 Luna ôm chặt lấy chú mèo rồi bắt đầu khóc. Cô bé khóc nức nở và ôm siết lấy chú mèo.
 
-Không sao đâu cô bé, chú mèo nghĩ. Chú mèo ngoan không bị thương đâu. Chú mèo ngoan chẳng hề hấn gì cả.
+Không sao đâu cô bé, chú mèo nghĩ.
+
+Chú mèo ngoan không bị thương đâu.
+
+Chú mèo ngoan chẳng hề hấn gì cả.
 
 Đám đông vẫn tiếp tục vỗ tay tán thưởng. Họ không thực sự hiểu kịch bản cho lắm, nhưng đã khá lâu rồi mới có màn nghệ thuật trình diễn xuất hiện trong trung tâm thương mại. Từng có một màn nhảy flash mob cách đây vài năm, nhưng chẳng có gì tương tự như thế xảy ra kể từ dạo đó.
 
 PJ lúc này đang chạy ngược lên chiếc thang cuốn, hướng về phía lũ trẻ. Ông sắp ôm lấy chúng, ông sẽ ôm chầm lấy chúng và chẳng bao giờ buông tay nữa. Ông sẽ làm cho chúng biết chúng trân quý biết nhường nào, và ông sẽ không bao giờ để chúng quên đi điều đó. Ông sẽ nói cho chúng nghe điều ấy mỗi ngày.
 
-Sophie cũng bắt đầu chạy ngược lên chiếc thang cuốn, ngay phía sau PJ. Họ đã tìm thấy lũ trẻ rồi. Bằng cách này hay cách khác, họ cuối cùng cũng tìm thấy chúng. PJ chạy về phía Ollie, còn Sophie chạy về phía Luna. Chú mèo nhảy phóc ra khỏi vòng tay Luna rồi chạy đến cọ mình vào cổ chân PJ, tỏ ý biết ơn vì đã được cứu mạng.
+Sophie cũng bắt đầu chạy ngược lên chiếc thang cuốn, ngay phía sau bố. Họ đã tìm thấy lũ trẻ rồi. Bằng cách này hay cách khác, họ cuối cùng cũng tìm thấy chúng. PJ chạy về phía Ollie, còn Sophie chạy về phía Luna. Chú mèo nhảy phóc ra khỏi vòng tay Luna rồi chạy đến cọ mình vào cổ chân PJ, tỏ ý biết ơn vì đã được cứu mạng.
 
 Luna vẫn đang khóc, Sophie ôm chầm lấy cô bé và cảm thấy cơ thể đứa trẻ đang run lên. “Em không sao đâu,” Sophie nói. “Suỵt. Bây giờ em không sao rồi. Em được an toàn rồi. Bọn chị đã tìm thấy em.”
 
@@ -168,7 +172,7 @@ Luna rấm rứt. “Em muốn mẹ,” cô bé nói.
 
 “Chị biết. Chị biết. Thật tồi tệ khi mẹ không ở đây.”
 
-“Em không muốn mẹ của em .”
+“Em không muốn mẹ của em.”
 
 “À.”
 
@@ -190,6 +194,8 @@ Luna nhìn thẳng vào mắt Sophie. “Sao chị biết em ăn cắp nó?”
 
 Luna gật đầu. Cô bé đã chờ đợi để được gặp rắc rối lớn, nhưng cho đến nay thì vẫn chưa gặp phải. “Em xin lỗi,” cô bé nói. “Chị có giận không?”
 
-Chị không phải mẹ của em, Sophie suýt muốn thốt lên, giống như cô từng nói những lần khác trong chuyến đi này. Chị chỉ là bảo mẫu. Người trông trẻ. Cô sẽ không bao giờ làm mẹ của chúng, dù có chuyện gì đi nữa. Nhưng cô muốn thử giữ cho Luna và em trai cô bé được an toàn. Cô muốn làm điều đó. Một người để yêu thương, một việc để làm, một điều để mong chờ. Lũ trẻ sẽ mang lại cho cô tất cả những điều đó trong cùng một gói gọn.
+Chị không phải mẹ của em, Sophie suýt muốn thốt lên, giống như cô từng nói những lần khác trong chuyến đi này. Chị chỉ là bảo mẫu. Người trông trẻ. Cô sẽ không bao giờ làm mẹ của chúng, dù có chuyện gì đi nữa. Nhưng cô muốn thử giữ cho Luna và em trai cô bé được an toàn. Cô muốn làm điều đó.
+
+Một người để yêu thương, một việc để làm, một điều để mong chờ. Lũ trẻ sẽ mang lại cho cô tất cả những điều đó trong cùng một gói gọn.
 
 “Không sao đâu,” Sophie nói. “Không, chị không giận. Chị chỉ vô cùng nhẹ nhõm vì em được an toàn thôi. Chị không biết mình sẽ làm gì nếu có chuyện chẳng lành xảy ra với em nữa.” Và cô lại ôm Luna thêm lần nữa, siết chặt hơn lúc nãy. Cô vẫn không thể tin nổi là họ đã tìm thấy lũ trẻ. Chuyện này còn tồi tệ hơn bất kỳ lần nào cô phải đi tìm bố mình, bởi vì nếu bố cô được tìm thấy đã chết, nghẹn thở vì chính chất nôn của ông, thì ít nhất đó cũng là lỗi một nửa thuộc về ông. Ông đã tự đưa ra những lựa chọn cuộc đời dẫn đến cái kết đó. Nhưng người ta không thể đổ lỗi cho lũ trẻ vì bất cứ điều gì chúng làm. Chúng chỉ là trẻ con. Việc của chúng là thử thách giới hạn, là ăn cắp vặt ở cửa hàng và thử dùng ma túy rồi uống rượu tự pha trong thùng rác, và hầu hết bọn chúng cuối cùng vẫn ổn thỏa cả thôi.

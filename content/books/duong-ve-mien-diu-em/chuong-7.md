@@ -1,8 +1,6 @@
-*Phần I: Tri Thức Cổ Xưa*
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">2</h1>
 
-# Chương 2
-
-Cáo phó của Dr. Gust được đăng trên Tờ nhật báo The South Coast Daily Sun hai tuần sau đó, chính xác là vào ngày 3 tháng 5 năm 2014, lại thêm một ngày nữa mà PJ Halliday, cư dân sáu mươi ba tuổi ở Pondville, thức dậy trong sự cô độc quen thuộc tại căn nhà ngập ngụa rác rưởi của mình. Sáng hôm ấy, PJ chẳng hề mảy may hay biết, không hề có lấy một linh cảm nhỏ nhoi rằng cuộc đời ông sắp sửa đảo lộn đến nhường nào. PJ Halliday không đọc cáo phó của Dr. Gust, dù nó nằm ngay bên cạnh một cáo phó khác vào ngày hôm đó, cái cáo phó sẽ thay đổi hoàn toàn cuộc đời ông, và tất cả mọi chuyện ấy cuối cùng đều có sự liên kết chặt chẽ với nhau. PJ vốn chẳng quen biết Dr. Gust, nên việc người đàn ông đó qua đời trong tư thế gục mặt xuống bàn làm việc, lấy bàn phím làm chiếc gối cuối cùng cũng chẳng có ý nghĩa gì đặc biệt với ông. Trong quá trình khám nghiệm tử thi, người ta đã tìm thấy một lượng lớn lông mèo trong lỗ mũi của Dr. Gust, bị hút vào từ bàn phím trong những hơi thở cuối cùng của ông. Đương nhiên là chi tiết đó không được đưa lên báo, những kiểu chi tiết ấy chẳng bao giờ xuất hiện trên cáo phó cả. Nhưng một lần nữa, PJ Halliday đã không đọc cáo phó của Dr. Gust. Chính cái cáo phó còn lại, được in ngay bên cạnh, mới là thứ thu hút sự chú ý của PJ và đẩy ông bước vào một ngã rẽ cuộc đời hoàn toàn mới.
+Cáo phó của Bác sĩ Gust được đăng trên Tờ nhật báo The South Coast Daily Sun hai tuần sau đó, chính xác là vào ngày 3 tháng 5 năm 2014, lại thêm một ngày nữa mà PJ Halliday, cư dân sáu mươi ba tuổi ở Pondville, thức dậy trong sự cô độc quen thuộc tại căn nhà ngập ngụa rác rưởi của mình. Sáng hôm ấy, PJ chẳng hề mảy may hay biết, không hề có lấy một linh cảm nhỏ nhoi rằng cuộc đời ông sắp sửa đảo lộn đến nhường nào. PJ Halliday không đọc cáo phó của Bác sĩ Gust, dù nó nằm ngay bên cạnh một cáo phó khác vào ngày hôm đó, cái cáo phó sẽ thay đổi hoàn toàn cuộc đời ông, và tất cả mọi chuyện ấy cuối cùng đều có sự liên kết chặt chẽ với nhau. PJ vốn chẳng quen biết Bác sĩ Gust, nên việc người đàn ông đó qua đời trong tư thế gục mặt xuống bàn làm việc, lấy bàn phím làm chiếc gối cuối cùng cũng chẳng có ý nghĩa gì đặc biệt với ông. Trong quá trình khám nghiệm tử thi, người ta đã tìm thấy một lượng lớn lông mèo trong lỗ mũi của Bác sĩ Gust, bị hút vào từ bàn phím trong những hơi thở cuối cùng của ông. Đương nhiên là chi tiết đó không được đưa lên báo, những kiểu chi tiết ấy chẳng bao giờ xuất hiện trên cáo phó cả. Nhưng một lần nữa, PJ Halliday đã không đọc cáo phó của Bác sĩ Gust. Chính cái cáo phó còn lại, được in ngay bên cạnh, mới là thứ thu hút sự chú ý của PJ và đẩy ông bước vào một ngã rẽ cuộc đời hoàn toàn mới.
 
 Nhưng trước hết, ngày hôm ấy đã bắt đầu hết sức bình thường: vẫn còn mặc bộ đồ ngủ, PJ xỏ chân vào đôi dép lê rách rưới rồi đi xuống nhà bếp, nơi ông được chào đón bởi những đống đồ đạc ngổn ngang. Hết đống này đến đống khác, chất chồng lên nhau.
 
@@ -36,11 +34,11 @@ Vị bác sĩ đã kê cho ông thuốc statin cùng một cuốn tài liệu nh
 
 Đúng tám giờ linh năm, PJ bước ra khỏi cửa để đi dạo buổi sáng. Đi bộ từng là một phần công việc của một người đưa thư, và cho đến giờ ông vẫn đi bộ khắp mọi nơi. Ông vẫn luôn tập thể dục đủ độ, chỉ là khung xương ông to thôi, nhưng các bác sĩ chẳng bao giờ chịu lắng nghe khi bạn nói về xương to cả. PJ chẳng buồn khóa cửa trước đằng sau khi bước ra ngoài. Người dân ở Pondville hiếm khi khóa cửa nhà, trừ khi họ đi nghỉ mát dài ngày, và sáng hôm đó, PJ chẳng có kế hoạch đi đâu cả. Ra đến ngoài đường, PJ vẫy tay chào người hàng xóm Kellyanne Thomas đang trên đường đi làm tại trụ sở nhà máy sản xuất nước ép nam việt quất. Cô ấy làm việc ở văn phòng công ty, và PJ cảm thấy vô cùng thương hại cho cô khi cứ phải mặc đồ công sở cứng nhắc đến cơ quan. PJ từng căm ghét bộ đồng phục công việc của chính mình, chiếc quần vải polyester màu xanh hải quân và chiếc áo sơ mi xanh nhạt, nhưng ông đã bị sa thải khỏi công việc đưa thư từ lâu lắm rồi. “Dạo này thế nào, PJ?” Kellyanne Thomas gọi với theo ông từ lối ra vào nhà.
 
-“Chúng ta đang đến gần ngày tận thế hơn một ngày rồi đấy!” ông gọi đáp lại.
+“Chúng ta lại tiến gần hơn một ngày đến hồi kết rồi đấy!” ông gọi đáp lại.
 
-“Tận thế của cái gì cơ?” cô hỏi.
+“Hồi kết của cái gì cơ?” cô hỏi.
 
-“Khoảng thời gian chúng ta ở bên nhau! Nhưng anh đã trân trọng từng phút giây.”
+“Khoảng thời gian chúng ta ở bên nhau! Nhưng tôi đã trân trọng từng phút giây.”
 
 Cô bật cười. “Ừ thì, em cũng vậy thôi, PJ.”
 
@@ -64,7 +62,7 @@ Ivy mở cửa; bà đã đợi sẵn ông từ nãy. Vợ cũ của PJ vẫn xi
 
 “Chẳng có ai bỏ mặc anh ở đây để chết cả,” Ivy nói, đảo mắt ngán ngẩm. “Bọn em chỉ đi có bốn tháng thôi. Từ tháng Năm đến hết tháng Tám.”
 
-“Nhớ uống thuốc đều đặn đấy nhé,” Fred nhắc nhở PJ khi ông đi xuống lầu để nhập bọn cùng hai người. Fred vừa mới tắm xong và đang mặc chiếc áo len cổ chữ V bằng chất liệu cashmere. “Và bớt nhậu nhẹt đi.”
+“Ông nhớ uống thuốc đều đặn đấy nhé,” Fred nhắc nhở PJ khi ông đi xuống lầu để nhập bọn cùng hai người. Fred vừa mới tắm xong và đang mặc chiếc áo len cổ chữ V bằng chất liệu cashmere. “Và bớt nhậu nhẹt đi.”
 
 “Rồi, rồi.” PJ phịch xuống ghế bàn ăn và cầm tờ báo mà Ivy đã chuẩn bị sẵn. Tờ báo đã bị cắt xén tả tơi, bởi vì Ivy đã cắt nó cho ông từ trước cả khi ông đặt chân đến nhà bà. PJ muốn đọc tin tức, muốn nắm bắt tình hình thời sự, nhưng ông rất yêu động vật và trẻ em, chúng là những báu vật của thế giới, và ông không muốn nghe về những điều tồi tệ xảy ra với chúng. Ông quá nhạy cảm. Trái tim ông không chịu nổi mấy chuyện đó. Ông đã bị lên cơn đau tim ba lần rồi. Lần thứ tư rất có thể sẽ là nhát dao kết liễu đời ông.
 
@@ -76,13 +74,13 @@ Chỉ có Fred là được ăn thịt xông khói làm từ thịt gà tây, lu
 
 “Kẻ nịnh bợ,” PJ thường gọi trêu ông như thế, nhưng Fred chẳng hề bận tâm. Ông đúng là rất thích những quả táo của nhà Ivy và muốn chăm chút cho chúng thật bóng bẩy.
 
-Sáng hôm đó, bữa ăn sáng cuối cùng của họ trước chuyến đi Alaska, Ivy đã cắt một lỗ thật to trên trang nhất của cả hai tờ báo. Họ đặt mua hai tờ báo mỗi buổi sáng: một tờ cho PJ, một tờ để Fred và Ivy chia sẻ với nhau. Họ chính là những người góp phần duy trì sự tồn tại của Tờ nhật báo The South Coast Daily Sun ; hầu hết mọi người đều đã chuyển sang đọc The Boston Globe hay thậm chí là The New York Times rồi, nhưng PJ vốn là kẻ bảo thủ ngại thay đổi, và Ivy luôn chiều chuộng ông. Dù vậy, rất hiếm khi bà cắt xén cả hai tờ báo, thế nên bất kể tin tức trang nhất sáng hôm đó là gì, chắc chắn nó phải vô cùng tồi tệ và khủng khiếp. PJ cố gắng không nghĩ xem nó tệ đến mức nào, nhưng đoán rằng Fred và Ivy hẳn đã bàn tán về chuyện đó trước khi ông đến, và có lẽ đó là lý do vì sao hôm nay Ivy không bày biện mâm cao cỗ đầy. Bữa ăn chỉ đơn giản là trứng bác và bánh mì nướng, nhưng khi PJ cắn một miếng, ông nhận ra chiếc bánh mì đã được phết bơ ngon tuyệt hảo đến mức hoàn hảo. PJ tự nhủ không được phép xem nhẹ những điều giản dị. “Tôi hy vọng anh luôn biết trân trọng những gì mình đang có ở đó nhé,” ông nói với Fred, hất cằm về phía Ivy đang lúi húi trong bếp.
+Sáng hôm đó, bữa ăn sáng cuối cùng của họ trước chuyến đi Alaska, Ivy đã cắt một lỗ thật to trên trang nhất của cả hai tờ báo. Họ đặt mua hai tờ báo mỗi buổi sáng: một tờ cho PJ, một tờ để Fred và Ivy chia sẻ với nhau. Họ chính là những người góp phần duy trì sự tồn tại của Tờ nhật báo The South Coast Daily Sun; hầu hết mọi người đều đã chuyển sang đọc The Boston Globe hay thậm chí là The New York Times rồi, nhưng PJ vốn là kẻ bảo thủ ngại thay đổi, và Ivy luôn chiều chuộng ông. Dù vậy, rất hiếm khi bà cắt xén cả hai tờ báo, thế nên bất kể tin tức trang nhất sáng hôm đó là gì, chắc chắn nó phải vô cùng tồi tệ và khủng khiếp. PJ cố gắng không nghĩ xem nó tệ đến mức nào, nhưng đoán rằng Fred và Ivy hẳn đã bàn tán về chuyện đó trước khi ông đến, và có lẽ đó là lý do vì sao hôm nay Ivy không bày biện mâm cao cỗ đầy. Bữa ăn chỉ đơn giản là trứng bác và bánh mì nướng, nhưng khi PJ cắn một miếng, ông nhận ra chiếc bánh mì đã được phết bơ ngon tuyệt hảo đến mức hoàn hảo. PJ tự nhủ không được phép xem nhẹ những điều giản dị. “Tôi hy vọng ông luôn biết trân trọng những gì mình đang có ở đó nhé,” ông nói với Fred, hất cằm về phía Ivy đang lúi húi trong bếp.
 
 “Tôi có trân trọng cô ấy chứ, dĩ nhiên là có rồi,” Fred nói. “Ai cũng thấy rõ là tôi trân trọng cô ấy mà.”
 
-“Anh có trân trọng em không hả PJ?” Ivy lên tiếng hỏi, quay người lại đối diện với chồng cũ. “Bởi vì thỉnh thoảng em vẫn phải tự hỏi đấy.”
+“Anh có trân trọng em không hả PJ?” Ivy lên tiếng hỏi, quay người lại đối diện với chồng cũ.
 
-“Từ khi em bỏ anh mà đi, anh chưa từng ngủ với bất kỳ người phụ nữ nào khác. Không một lần nào trong suốt tám năm trời. Thế mà em lại bảo đấy không phải là sự trân trọng à?”
+“Từ khi em bỏ anh mà đi, anh chưa từng ăn nằm với người phụ nữ nào khác. Không một lần nào trong suốt tám năm trời. Thế mà em lại bảo đấy không phải là sự trân trọng à?”
 
 Ivy bật cười và khoanh tay trước ngực.
 
@@ -100,7 +98,7 @@ Ivy bật cười và khoanh tay trước ngực.
 
 “Lạy Chúa tôi, Fred,” Ivy nói. “Chẳng có ai tán tỉnh ai cả.”
 
-“Lúc nào tôi cũng tán tỉnh cô ấy hết,” PJ nói. “Rồi có ngày tôi sẽ cưa đổ cô ấy lại cho mà xem. Cứ đợi đấy. Có khi là ngay sau khi cô ấy chán ngấy mấy vấn đề phong độ trong phòng ngủ của anh.” PJ từng tận mắt nhìn thấy mấy viên Viagra trong ngăn kéo bàn cạnh giường ngủ của Fred vào một hôm khi ông đang la cà lục lọi trên lầu.
+“Lúc nào tôi cũng tán tỉnh cô ấy hết,” PJ nói. “Rồi có ngày tôi sẽ cưa đổ cô ấy lại cho mà xem. Cứ đợi đấy. Có khi là ngay sau khi cô ấy chán ngấy mấy vấn đề phong độ trong phòng ngủ của ông.” PJ từng tận mắt nhìn thấy mấy viên Viagra trong ngăn kéo bàn cạnh giường ngủ của Fred vào một hôm khi ông đang la cà lục lọi trên lầu.
 
 “Hừ,” Ivy bật cười. “Chó chê mèo lắm lông.”
 
@@ -122,7 +120,7 @@ Ivy bật cười và khoanh tay trước ngực.
 
 “Hồi đó chúng ta làm gì có tiền để đi nghỉ mát. Em nhớ hồi đó mọi chuyện thế nào mà...” PJ bắt đầu nói, dù ông thừa biết Ivy không thích nhớ lại chuyện cũ. Bà hầu như chưa bao giờ muốn nhắc đến những kỷ niệm về Kate, kể cả những kỷ niệm hạnh phúc.
 
-“Thôi thừa nhận đi, Paul, anh là một kẻ thích quẩn quanh ở nhà,” Fred nói, cảm nhận được việc PJ sắp sửa quay về với quá khứ. Fred luôn gọi PJ bằng tên khai sinh, mặc dù chẳng ai khác làm vậy. “Anh là một kẻ thích quẩn quanh ở nhà, và Alaska thì thực sự rất xa. Một người như anh sẽ chẳng thay đổi đâu, Paul. Anh thích những gì anh thích, và anh thích Pondville. Anh sẽ không đời nào biến thành Ernest Shackleton [2] chỉ sau một đêm đâu.”
+“Thôi thừa nhận đi, Paul, cậu đúng là kẻ chỉ thích quẩn quanh ở nhà,” Fred nói, cảm nhận được việc PJ sắp sửa quay về với quá khứ. Fred luôn gọi PJ bằng tên khai sinh, mặc dù chẳng ai khác làm vậy. “Cậu là một kẻ thích quẩn quanh ở nhà, và Alaska thì thực sự rất xa. Một người như cậu sẽ chẳng thay đổi đâu, Paul. Cậu thích những gì cậu thích, và cậu thích Pondville. Cậu sẽ không đời nào biến thành Ernest Shackleton[2] chỉ sau một đêm đâu.”
 
 “Biết đâu tôi đã đi nếu được mời,” PJ hậm hực đáp, và chợt chẳng thể nhớ nổi Ernest Shackleton là ai. Nhưng quả thực Pondville là nhà, và ông cảm thấy thoải mái khi ở nhà. Thị trưởng Pondville, mọi người ở Quán rượu Wild Orchid thường gọi ông như vậy, bởi vì PJ quen biết tất cả mọi người trong quán và nhớ tên của từng người. Pondville chẳng có thị trưởng thật sự nào cả, chỉ có một hội đồng tuyển chọn. Toàn lũ khốn nạn cả ba đứa, theo lời PJ. Nhưng ông thích tất cả những người còn lại, hầu hết là vậy, và mọi người cũng thích ông. Tất cả mọi người ở bưu điện đã vô cùng tiếc nuối khi họ buộc phải sa thải ông. Và sau khi PJ trúng vé số, mức độ nổi tiếng của ông lại càng tăng lên. Ông đã quyên góp tiền cho nhà thờ, hợp tác xã nông nghiệp, câu lạc bộ Lions. Dù ông thậm chí chẳng thuộc giáo hội nhà thờ, hợp tác xã nông nghiệp hay câu lạc bộ Lions nào cả. Ông đã mua một sân chơi mới cho trường mẫu giáo. Nếu một người bạn cần tiền, PJ sẽ lập tức viết một tấm séc. Ivy, Fred và cô con gái Sophie sẽ không bao giờ nhận tiền của ông, nhưng tất cả những người khác trong thị trấn đều vui vẻ nhận tiền cứu trợ. PJ thường xuyên chiêu đãi toàn bộ quán rượu một lượt đồ uống, đôi khi là hai lượt, ngoại trừ người anh trai ghẻ lạnh Chip, kẻ có tự lo nổi cái hóa đơn chết tiệt của hắn thì lo, đối với PJ là vậy, nhưng dù sao thì Chip cũng đã qua đời từ một năm rưỡi trước rồi. Chip không còn là vấn đề nữa. Phải, PJ là một người rất được lòng người ở Pondville. Ông chưa từng có mong muốn rời đi, cho đến khi Ivy và Fred lên kế hoạch cho chuyến đi Alaska này mà không có ông. Ông rất thích nếu mình được mời.
 
@@ -154,13 +152,13 @@ PJ rời khỏi bàn ăn và đi lên lầu vào phòng làm việc của Fred �
 
 Và rồi có tiếng gõ cửa cốc cốc cốc, Fred bước xộc vào. Fred không hỏi PJ đang làm gì trên máy tính, bởi vì PJ vẫn hay dùng chiếc máy tính đó suốt, ông chẳng có internet ở nhà mà.
 
-“Này Paul, tôi cho anh xem cái này được không?” Fred hỏi.
+“Này Paul, tôi cho ông xem cái này được không?” Fred hỏi.
 
 “Hy vọng nó không phải là thứ gì ghê tởm đấy, Fred,” PJ đáp, bởi vì Fred bị chứng chai chân, và đúng lúc đó Fred rút ra một chiếc nhẫn. Viên kim cương có kích thước vừa phải, điều này khiến PJ vô cùng cảm kích. Viên kim cương trên chiếc nhẫn đính hôn mà ông từng tặng Ivy từ nhiều năm trước nhỏ đến mức có lẽ nó đã mòn vẹt đi thành một hạt cát khi nằm im lìm không được đeo trong hộp trang sức của bà.
 
-“Tôi muốn xin phép anh cho chúng tôi đến với nhau,” Fred nói. “Và tôi cũng muốn hỏi xem anh có đồng ý làm phù rể cho tôi không. Tình bạn giữa chúng ta thật kỳ lạ nhưng nó...”
+“Tôi muốn xin ông lời chúc phúc,” Fred nói. “Và tôi cũng muốn hỏi xem ông có đồng ý làm phù rể cho tôi không. Tình bạn giữa chúng ta thật kỳ lạ nhưng nó...”
 
-PJ không để Fred nói hết câu, bởi vì ông đã chộp lấy mặt Fred và hôn lên miệng Fred. Ông vô cùng mừng rỡ khi được xin phép, và việc Fred muốn có mặt ông trong đám cưới, muốn ông đóng một vai trò quan trọng. “Được chứ, tất nhiên rồi, anh bạn. Và tôi sẽ bắt đầu lên kế hoạch cho bữa tiệc độc thân hoành tráng của chúng ta.”
+PJ không để Fred nói hết câu, bởi vì ông đã chộp lấy mặt Fred và hôn lên miệng Fred. Ông vô cùng mừng rỡ khi được xin phép, và việc Fred muốn có mặt ông trong đám cưới, muốn ông đóng một vai trò quan trọng. “Được chứ, tất nhiên rồi, cậu bạn. Và tôi sẽ bắt đầu lên kế hoạch cho bữa tiệc độc thân hoành tráng của chúng ta.”
 
 “Không có tiệc tùng gì hết,” Fred nói, lại bày ra cái vẻ ngốc nghếch khó ưa.
 

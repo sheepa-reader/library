@@ -1,6 +1,4 @@
-*Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu*
-
-# Chương 31
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">31</h1>
 
 Bọn trẻ đang đứng ngay trên đầu Sophie, phả hơi thở nóng hổi xuống. Sophie bảo: “Chúa ơi. Lại chuyện gì nữa đây?”
 
@@ -10,19 +8,19 @@ Luna nói thêm: “Và ông PJ đi mất rồi.”
 
 “Cái gì?”
 
-Luna đáp: “Chuồn mất dạng. Bỏ mặc chúng ta bơ vơ. Chị có còn chở tụi em đi Texas nữa không?”
+Luna đáp: “Chuồn mất dạng rồi. Bỏ mặc tụi em bơ vơ. Chị có còn chở tụi em đi Texas nữa không?”
 
-Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố đã giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy ông ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Ông ấy không thể đi đâu xa được.”
+Sophie liếc nhìn chiếc túi ngủ dưới sàn. Chỉ còn lại một cái vỏ nylon trống rỗng. Sophie thèm gọi cho mẹ vào lúc này biết bao, muốn kể cho mẹ nghe lần này bố lại giở trò gì. Có lẽ lát nữa cô sẽ gọi cho mẹ. Chỉ một lần thôi. Không kể toàn bộ câu chuyện, chỉ một phần thôi. Nhưng Fred đã dặn cô đừng gọi. Ông muốn Ivy được thảnh thơi. Bố cô nói đúng, đôi khi Fred thật sự là một tên khốn. Cô bảo bọn trẻ: “Đi ra quầy lễ tân hỏi xem sao. Biết đâu họ có thấy ông ấy.” Cô thấy chìa khóa xe vẫn nằm trên bàn cạnh giường. “Ông ấy không thể đi đâu xa được.”
 
 Bọn trẻ vớ lấy vali của chúng, thế là Sophie đành xách cả vali của cô lẫn vali của bố. Họ sẽ trả phòng rồi đi tìm ông. Đến quầy lễ tân, Sophie bấm chuông nhưng nhân viên không ra trả lời. Cô nhìn thấy đôi bốt của anh ta ló ra từ mép chiếc giường gấp trong phòng làm việc. Cô bấm thêm lần nữa nhưng người đàn ông vẫn chẳng nhúc nhích.
 
 Bọn trẻ từ ngoài gọi vọng vào: “Tụi em tìm thấy ông ấy rồi!”
 
-Sophie chạy ra cửa trước, vác đống hành lý lỉnh kỉnh như con la chở đồ. PJ đang ngồi ở ghế trước chiếc xe Volvo, ngả lưng ra sau, ôm chặt chú mèo vào ngực. Chú mèo đang đeo đai ngực và dây dắt. Có một chai Colt 45 nằm trên ghế hành khách.
+Sophie chạy ra cửa trước, vác đống hành lý lỉnh kỉnh như con la chở đồ. Bố cô đang ngồi ở ghế trước chiếc xe Volvo, ngả lưng ra sau, ôm chặt chú mèo vào ngực. Chú mèo đang đeo đai ngực và dây dắt. Có một chai Colt 45 nằm trên ghế hành khách.
 
 Luna hỏi: “Ông ấy chết chưa?”
 
-Sophie đáp, cơn giận bắt đầu dâng lên: “Mong là thế.” Thảo nào nhân viên lễ tân không thèm đứng dậy khi cô bấm chuông. Anh ta chắc cũng say khướt rồi, hẳn là anh ta và PJ đã thức trắng đêm để chè chén. PJ có tài kiếm bạn nhậu ở bất cứ nơi nào ông đặt chân tới. Sophie mở cửa xe và PJ cựa quậy sống lại. “Bố đang làm gì ngoài này thế?”
+Sophie đáp, cơn giận bắt đầu dâng lên: “Mong là thế.” Thảo nào nhân viên lễ tân không thèm đứng dậy khi cô bấm chuông. Anh ta chắc cũng say khướt rồi, hẳn là anh ta và bố cô đã thức trắng đêm để chè chén. Bố cô có tài kiếm bạn nhậu ở bất cứ nơi nào ông đặt chân tới. Sophie mở cửa xe và bố cô cựa quậy tỉnh dậy. “Bố đang làm gì ngoài này thế?”
 
 PJ vừa xoa mặt vừa nói: “Ôi Sophie, một đêm thật tơi bời. Chú mèo chết tiệt cứ nhảy ra ngoài cửa sổ và bố đã mất cả đêm để tìm chú ấy, nhưng nhìn xem, bố bắt được rồi đây! Bình an vô sự. Đã đến giờ ăn sáng chưa?”
 
@@ -34,11 +32,11 @@ Luna hùa theo: “Ghê quá.”
 
 Sophie hỏi: “Bố còn chút liêm sỉ nào không hả?”
 
-“Hết sạch rồi. Nhưng chỉ là một đêm thôi mà Sophie. Sáng nay bố đã cai rượu trở lại rồi.”
+“Hết sạch rồi. Nhưng chỉ là một đêm thôi mà Sophie. Sáng nay bố lại quay về lộ trình cai rượu rồi.”
 
-“Làm gì có chuyện đó hả bố. Nó có phải tuyến xe buýt miễn phí quanh thị trấn đâu. Bố không thể thích thì lên, không thích thì nhảy xuống được.”
+“Làm gì có chuyện đó hả bố. Nó đâu phải chuyến xe điện miễn phí dạo quanh thị trấn. Bố không thể thích thì nhảy lên, không thích thì nhảy xuống được.”
 
-PJ phớt lờ con gái. PJ biết mình có thể bỏ rượu, vì trước đây ông đã làm được rồi, suốt hơn một tháng trời. Đủ lâu để nhận chiếc huy chương vàng ba mươi ngày của hội AA, nếu ông muốn. Ông biết mình có thể làm lại được lần nữa. Giờ thì ông đã làm được một lần rồi còn gì. PJ nói: “Con không hiểu đâu. Fred đã nói những lời rất tổn thương. Và con cũng chẳng muốn nghe. Bố chỉ muốn nói chuyện với mẹ về Kate, về việc ngày giỗ của con bé sắp đến gần, nhưng mẹ lại không muốn nói chuyện với bố. Bố còn biết làm sao khác chứ?”
+PJ phớt lờ con gái. Ông biết mình có thể bỏ rượu, vì trước đây ông đã làm được rồi, suốt hơn một tháng trời. Đủ lâu để nhận chiếc huy chương vàng ba mươi ngày của hội AA, nếu ông muốn. Ông biết mình có thể làm lại được lần nữa. Giờ thì ông đã làm được một lần rồi còn gì. PJ nói: “Con không hiểu đâu. Fred đã nói những lời rất tổn thương. Và con cũng chẳng muốn nghe. Bố chỉ muốn nói chuyện với mẹ về Kate, về việc ngày giỗ của con bé sắp đến gần, nhưng mẹ lại không muốn nói chuyện với bố. Bố còn biết làm sao khác chứ?”
 
 Sophie đáp: “Trước tiên là đừng uống rượu mạnh mạch nha chứ. Bố. Lắng nghe này. Bố không thể cứ tiếp tục làm mấy trò khốn nạn này mãi được.”
 
@@ -84,7 +82,7 @@ Sophie đã chuẩn bị tinh thần cho cái chết của bố mình không bi�
 
 Sophie thường sẽ tìm thấy bố mình đang nằm bệt trên chiếc ghế bành giữa đống rác ngập ngụa. Nếu ông không ở đó, cô sẽ tìm thấy ông ở chiếc ghế dài cạnh đầm lầy Nam việt quất. Hoặc đôi khi cô sẽ thấy ông nằm ngửa gần bãi đốt lửa trong rừng. Cô lúc nào cũng đinh ninh sẽ tìm thấy ông trong trạng thái đã chết ngắc, nghẹn thở vì chất nôn của chính mình, hoặc mất máu do loét dạ dày, hay do cơn đau tim thứ tư và cũng là cú sốc cuối cùng. Và ông hoàn toàn xứng đáng nhận lấy kết cục đó. Đó là lỗi của chính ông. Đó là những gì cô từng nghĩ sẽ xảy ra khi lũ trẻ đánh thức cô dậy vào sáng hôm đó và bảo rằng ông đã chuồn mất tiêu.
 
-Nhưng giờ đây PJ lại bước ra từ Nhà nghỉ & Căn hộ The Golden Cherry, vẫn đang nhăn răng sống nhăn. “Chúng ta gặp rắc rối rồi,” ông bảo.
+Nhưng giờ đây PJ lại bước ra từ Nhà nghỉ & Căn hộ The Golden Cherry, vẫn còn sống nhăn răng. “Chúng ta gặp rắc rối rồi,” ông bảo.
 
 “Gì nữa đây hả bố?” Sophie hỏi.
 

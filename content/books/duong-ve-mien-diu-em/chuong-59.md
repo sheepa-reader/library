@@ -1,6 +1,4 @@
-*Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết*
-
-# Chương 47
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">47</h1>
 
 Bọn trẻ đã ngủ say, chú mèo cuộn tròn như chiếc bánh donut, nhưng PJ và Sophie vẫn thức trong chiếc xe limousine. Họ cứ ngồi đó trong không gian tĩnh lặng, tĩnh tâm lại sau một ngày dài mệt mỏi. Họ đang ở đâu đó giữa vùng Texas, vẫn còn một chặng đường dài nữa mới đến Arizona. Texas rộng lớn chẳng khác gì một quốc gia độc lập. PJ nhìn Sophie, đường nét gương mặt xinh đẹp của cô ẩn hiện trong bóng tối. Kiểu tóc mới rất hợp với cô, ông nghĩ thầm. “Thật tuyệt vời,” ông nói với con. “Thật đáng kinh ngạc khi con tìm ra được lũ trẻ. Bố rất tự hào về con.”
 
@@ -20,9 +18,9 @@ Sophie thở dài. Cô vẫn đang giận bố, nhưng cô không thể làm đi
 
 “Ôi, Sophie...”
 
-“Nếu và khi nào con tìm thấy bố đã chết, con đã tập trước những việc mình sẽ làm rồi. Con sẽ vạch mí mắt bố ra, nhìn thẳng vào mắt bố và nói rằng con đã bảo trước rồi mà. Nhưng còn mẹ... nếu mẹ nhìn thấy bố như thế... điều đó sẽ giết chết mẹ mất.” Sophie thốt được câu cuối cùng trong nghẹn ngào, vì lúc này cô đang khóc, đang nức nở. Con đập nào đó bên trong cô đã vỡ vụn. Cô khóc nức nở và chẳng biết liệu mình có bao giờ ngừng khóc được không.
+“Một khi con tìm thấy xác bố, con đã tập dượt sẵn những việc mình sẽ làm rồi. Con sẽ vạch mí mắt bố ra, nhìn thẳng vào mắt bố và nói rằng con đã bảo trước rồi mà. Nhưng còn mẹ... nếu mẹ nhìn thấy bố như thế... điều đó sẽ giết chết mẹ mất.” Sophie thốt được câu cuối cùng trong nghẹn ngào, vì lúc này cô đang khóc, đang nức nở. Con đập nào đó bên trong cô đã vỡ vụn. Cô khóc nức nở và chẳng biết liệu mình có bao giờ ngừng khóc được không.
 
-PJ dịch người sang bên cạnh và ôm lấy Sophie vào lòng. Ông ôm chặt lấy con khi cô khóc. Đứa con gái đáng thương của ông. Người con duy nhất còn lại trên đời. Ông để cô khóc liền tù tì một lúc lâu. “Bố xin lỗi,” cuối cùng ông cũng cất lời. “Bố thực sự xin lỗi. Bố biết mình ích kỷ. Bố biết bố đã lợi dụng con, mẹ con và cả Fred nữa.”
+PJ dịch người sang bên cạnh và ôm lấy Sophie vào lòng. Ông ôm chặt lấy con khi cô khóc. Đứa con gái đáng thương của ông. Người con duy nhất còn lại trên đời. Ông để cô khóc một lúc lâu. “Bố xin lỗi,” cuối cùng ông cũng cất lời. “Bố thực sự xin lỗi. Bố biết mình ích kỷ. Bố biết bố đã lợi dụng con, mẹ con và cả Fred nữa.”
 
 “Vâng,” Sophie nói. “Bố đã làm thế đấy.” Tiếng khóc của cô nhỏ dần. Cô đang kìm nén lại cảm xúc của mình. Hóa ra cô sẽ không khóc mãi mãi đâu. Chẳng ai có thể khóc mãi được cả. Cô gỡ tay ông ra, có chút ngượng ngùng vì đã để ông ôm mình.
 
@@ -54,7 +52,7 @@ Sophie và PJ nhìn hai đứa trẻ đang nằm dài trên băng ghế của ch
 
 “Bố nghĩ là sẽ ổn. Trẻ con vốn kiên cường mà.”
 
-“Không đâu, bố. Trẻ con không hề kiên cường. Đó là điều người lớn thích nói để bản thân cảm thấy dễ chịu hơn thôi. Để giả vờ rằng trẻ con không cảm nhận sâu sắc như người lớn. Nhưng trẻ con chính là tất cả những gì xảy ra với chúng. Chúng là những miếng bọt biển. Mọi điều tồi tệ, mọi điều tốt đẹp. Mọi câu nói tổn thương bố thốt ra. Mọi cử chỉ yêu thương nữa.”
+“Không đâu, bố. Trẻ con không hề kiên cường. Đó là điều người lớn thích nói để bản thân cảm thấy dễ chịu hơn thôi. Để giả vờ rằng trẻ con không cảm nhận sâu sắc như người lớn. Nhưng trẻ con chính là tất cả những gì xảy ra với chúng. Chúng là những miếng bọt biển. Mọi điều tồi tệ, mọi điều tốt đẹp. Mọi lời làm tổn thương thốt ra. Mọi cử chỉ yêu thương nữa.”
 
 PJ cảm thấy hổ thẹn vì mình lại nói sai điều gì đó. “Trẻ con không kiên cường,” ông lặp lại. “Sao người ta cứ hay nói thế nhỉ?”
 

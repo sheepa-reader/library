@@ -1,181 +1,181 @@
-*Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu*
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">37</h1>
 
-# Chương 37
+Quán bar Half-Moon đúng là kiểu quán mà PJ yêu thích, một không gian tối tăm với những xà nhà bằng gỗ trầm mặc và vô số bức poster treo kín tường để ngắm nhìn. Nơi đây có cả một bảng phi tiêu. Nó mang lại cảm giác ấm cúng như ở nhà, dù không vẽ mấy cô vũ nữ hula trên tường như quán Wild Orchid tận Pondville.
 
-Quán bar Half-Moon là kiểu quán mà PJ yêu thích, một quán bar tối tăm với những xà nhà bằng gỗ và rất nhiều poster treo tường để ngắm nghía. Có cả bảng phi tiêu. Nơi này mang lại cảm giác thân thuộc như ở nhà, dù không có mấy cô vũ nữ hula vẽ trên tường như ở quán Wild Orchid tận Pondville.
-
-“Ông dùng gì nào?” người pha chế hỏi, mặc chiếc áo phông trắng với một cánh tay xăm trổ kín mít. Người này có lẽ là Miguel.
+“Ông dùng gì đây?” người pha chế lên tiếng hỏi. Anh ta mặc chiếc áo phông trắng với một cánh tay xăm trổ kín mít. Người này có lẽ chính là Miguel.
 
 PJ gọi một chai Bud Light. “Destiny gửi lời chào cậu đấy,” ông nói.
 
 “Ồ thế à? Ai cơ chứ?”
 
-“Ở Boar’s Tooth Motel,” ông nói. “Cô ấy bảo cậu quen cô ấy. Cô ấy đã cho tôi đi nhờ xe.”
+“Cô gái ở nhà nghỉ Boar’s Tooth Motel ấy,” ông đáp. “Cô ấy bảo có quen cậu. Cô ấy vừa cho tôi đi nhờ xe.”
 
-Miguel nhún vai. “Lần tới khi nào cô ấy ghé qua, cứ bảo Destiny tự giới thiệu nhé.”
+Miguel nhún vai. “Lần tới nếu cô ấy có ghé qua, cứ bảo Destiny tự đến giới thiệu nhé.”
 
 “Tôi không nghĩ cô ấy sẽ còn ghé lại đây đâu.”
 
-“Và tại sao lại thế? Quán của tôi không đủ tầm với cô ta chắc?”
+“Tại sao lại thế? Quán của tôi không đủ tầm với cô ta chắc?”
 
-“Không thưa cậu, không phải vậy đâu, cậu thấy đấy, cô ấy sắp chết rồi. Cô ấy bị ung thư. Cô ấy muốn dành toàn bộ thời gian bên đứa con trước khi ra đi.”
+“Không thưa cậu, không phải vậy đâu. Cậu thấy đấy, cô ấy sắp qua đời rồi. Cô ấy bị ung thư. Cô ấy muốn dành trọn vẹn phần thời gian còn lại bên đứa con trước khi ra đi.”
 
-“Đó là một câu chuyện buồn mà ông vừa mang vào đây đấy.”
+“Câu chuyện ông vừa mang vào đây nghe buồn thật đấy.”
 
-“À, tôi chỉ định gửi lời chào thay cô ấy. Và gửi lời tạm biệt hộ cô ấy thôi.”
+“À, tôi chỉ định gửi lời chào thay cô ấy... và cũng là gửi lời chào tạm biệt hộ cô ấy thôi.”
 
-“Đúng là chuyện chó chết thật, về đứa con của cô ấy ấy,” Miguel nói, vừa lau quầy bar. “Ông có con không?”
+“Đúng là chuyện chó chết thật, về đứa con của cô ấy,” Miguel vừa lau quầy bar vừa nói. “Ông có con không?”
 
-“Hai đứa. Hoặc bốn, tùy theo cách cậu tính. Hoặc ba, tùy theo cách cậu tính.”
+“Hai đứa. Hoặc bốn đứa, tùy theo cách cậu tính. Hoặc ba đứa, cũng tùy theo cách tính.”
 
-“Ông cần phải giải thích rõ hơn đấy.”
+“Ông phải giải thích rõ hơn xem nào.”
 
-“Tôi có hai đứa con ruột, một đứa đã mất, và tôi mới nhận thừa kế thêm hai đứa nữa gần đây.”
+“Tôi có hai đứa con ruột, một đứa đã mất, và gần đây tôi mới nhận thừa kế thêm hai đứa nữa.”
 
-“Nhận thừa kế?”
+“Nhận thừa kế cơ á?”
 
-“À, cháu gái tôi qua đời. Đã để lại bọn trẻ cho tôi trong di chúc. Chắc là con bé nghe tin tôi trúng vé số. Và vì con bé chẳng còn ai khác. Tất cả mọi người trong gia đình bên phía tôi đều đã qua đời cả rồi. Rồi còn con gái Sophie của tôi nữa, con bé vẫn sống. Chính con bé sẽ là cô con gái trẻ tuổi bực bội đến lôi cổ tôi ra khỏi đây. Cậu sẽ thích con bé cho xem.”
+“À, cháu gái tôi qua đời. Con bé để lại bọn trẻ cho tôi trong di chúc. Chắc là vì nghe tin tôi trúng vé số, và cũng vì con bé chẳng còn người thân nào khác. Tất cả mọi người trong dòng họ bên phía tôi đều đã chết sạch cả rồi. Ngoài ra tôi còn cô con gái Sophie, con bé vẫn sống. Chính con bé sẽ là cô gái trẻ tràn đầy bực bội sắp sửa đến lôi cổ tôi ra khỏi đây đấy. Cậu sẽ thích con bé cho xem.”
 
-“Ông trúng được bao nhiêu tiền?” một người đàn ông khác ở quầy bar hỏi. Anh ta mặc chiếc áo đấu màu cam của đội Longhorns, có lẽ là chủ nhân của chiếc xe Dodge Challenger ngoài kia.
+“Ông trúng được bao nhiêu tiền?” một người đàn ông khác ngồi ở quầy bar cất tiếng hỏi. Anh ta mặc chiếc áo đấu màu cam của đội Longhorns, có lẽ là chủ nhân chiếc xe Dodge Challenger đỗ bên ngoài.
 
-PJ đáp: “Một triệu rưỡi đô.” Ông thích câu hỏi đó. Nó đưa ông trở lại với mặt đất vững chắc. Ông là một người trúng vé số, ông đang ở quán bar, ông đến đây để vui vẻ.
+PJ đáp: “Một triệu rưỡi đô la.” Ông thích câu hỏi đó. Nó kéo ông trở lại với mặt đất vững chắc. Ông là một người trúng vé số, ông đang ở trong quán bar, và ông đến đây để tìm kiếm niềm vui.
 
-“Mẹ kiếp, ông bạn,” người đàn ông mặc áo Longhorns nói. “Chúa ơi. Tiền nước hôm nay ông bao nhé.”
+“Mẹ kiếp, ông bạn,” người đàn ông mặc áo Longhorns thốt lên. “Tuyệt thật đấy. Chấu nhậu hôm nay ông bao nhé.”
 
-“Được thôi,” PJ nói, nhưng rồi ông thở dài. Ông đến đây để nói chuyện. Ông cần được nói chuyện. Ông cần một ai đó để nói lên sự thật, và việc nói ra sự thật ở quán bar sẽ dễ dàng hơn. Quán bar là nơi PJ cảm thấy an toàn nhất, dù ở nơi đất khách quê người này. “À, số tiền đó hầu như đã tiêu sạch rồi,” ông thừa nhận. “Lần kiểm tra gần nhất tôi chỉ còn lại hai mươi nghìn trong ngân hàng, và tôi đã đưa một nghìn hai trăm đô cho Destiny vì tội chở tôi đến đây từ nhà nghỉ. Giờ thì tôi đang phải chăm sóc hai đứa trẻ mồ côi còn nhỏ. Tôi là tất cả những gì mà hai đứa nhỏ đó có kể từ khi bố mẹ chúng qua đời. Một vụ giết người tự sát, theo những gì tôi nghe được. Lẽ ra tôi đã đọc được về cái chết của bố mẹ chúng trên báo rồi, nhưng tôi lại không thể đọc báo vì bệnh tim của mình. Không thể nghe tin xấu được. Quá nhạy cảm.”
+“Được thôi,” PJ nói, nhưng rồi ông lại thở dài. Ông đến đây là để nói chuyện. Ông thực sự cần được giãi bày. Ông cần một ai đó để trút bỏ sự thật, và việc nói ra sự thật ở một quán bar bao giờ cũng dễ dàng hơn. Quán bar là nơi PJ cảm thấy an toàn nhất, dù là ở tận nơi đất khách quê người này. “Thực ra thì, số tiền đó hầu như đã tiêu sạch rồi,” ông thừa nhận. “Lần kiểm tra tài khoản gần nhất tôi chỉ còn lại hai mươi nghìn đô trong ngân hàng, và tôi vừa mới đưa cho Destiny một nghìn hai trăm đô làm tiền công chở tôi đến đây từ nhà nghỉ. Giờ thì tôi đang phải nuôi hai đứa trẻ mồ côi còn rất nhỏ. Tôi là điểm tựa duy nhất mà hai đứa nhỏ đó có kể từ khi bố mẹ chúng qua đời. Một vụ giết người rồi tự sát, theo những gì tôi nghe được. Lẽ ra tôi đã có thể đọc được tin về cái chết của bố mẹ chúng trên báo rồi, nhưng tôi lại không thể đọc báo vì căn bệnh tim của mình. Tôi không chịu nổi những tin xấu. Cơ thể quá nhạy cảm.”
 
-“Thôi quên chuyện đó đi,” người đàn ông mặc áo Longhorns nói. “Để tôi mời ông một ly.”
+“Thôi bỏ qua đi,” người đàn ông mặc áo Longhorns nói. “Để tôi đãi ông một ly.”
 
-“Thật tốt quá,” PJ nói. “Nhưng tôi vẫn đang xoay sở được mà. Bọn trẻ đang có quãng thời gian rất vui vẻ trong chuyến đi này. Chúng tôi đã đi xem thác Niagara. Trang trại lạc đà alpaca lớn nhất Kentucky. Một bảo tàng túi xách. Chúng tôi đã gặp những con người tuyệt vời. Và chúng tôi còn sống sót sau một vụ rò rỉ khí ga nữa.” PJ uống cạn cốc bia của mình. Thế là tốt rồi. Ông cảm thấy khá hơn. Ông đang có một khoảng thời gian tuyệt vời.
+“Thật tốt quá,” PJ nói. “Nhưng tôi vẫn đang xoay sở ổn cả thôi. Bọn trẻ đang có một khoảng thời gian rất vui vẻ trong chuyến đi này. Chúng tôi đã ghé thăm thác Niagara. Rồi trang trại nuôi lạc đà alpaca lớn nhất Kentucky. Cả một bảo tàng túi xách nữa. Chúng tôi đã gặp gỡ những con người rất tuyệt vời... và thậm chí còn sống sót qua một vụ rò rỉ khí độc.” PJ uống cạn cốc bia của mình. Thế là tốt rồi. Ông cảm thấy lòng nhẹ nhõm hơn. Ông đang có một khoảng thời gian dễ chịu.
 
-Ông kể cho người đàn ông mặc áo Longhorns nghe về cái chết của cô con gái lớn, về việc Kate đã qua đời cách đây mười lăm năm như thế nào, cách cô bé say mèm trong một bữa tiệc sau buổi vũ hội tốt nghiệp và chết đuối chỉ trong vài inch nước. Ông kể rằng ở quê nhà, nhà trường đã gây quỹ để dựng một chiếc ghế đá nhằm đảm bảo mọi người không quên cô bé. Trên đó có khắc tên Kate. Nhưng ông vẫn cảm thấy mọi người đã lãng quên cô bé. Bọn trẻ trong thị trấn vẫn đang uống rượu bên cái hố lửa trong khu rừng phía sau nhà hoang, cứ như thể chưa từng có một thiếu niên nào thiệt mạng vì chuyện đó mười lăm năm về trước. Đôi khi PJ sẽ ra cái hố lửa đó và uống rượu cùng chúng. Ông muốn tưởng tượng xem những giờ phút cuối đời của con gái mình diễn ra như thế nào. Lũ học sinh trung học đều biết rõ PJ, biết rằng ông vô hại và sẽ không mách chuyện với bố mẹ chúng. Chúng gọi ông là “Huấn luyện viên PJ,” mặc dù PJ chưa từng huấn luyện cái quái gì bao giờ.
+Ông kể cho người đàn ông mặc áo Longhorns nghe về cái chết của cô con gái lớn, về việc Kate đã qua đời mười lăm năm trước ra sao, cô bé đã say mèm trong một bữa tiệc sau đêm vũ hội tốt nghiệp rồi chết đuối thế nào chỉ trong vài inch nước nông. Ông kể rằng ở quê nhà, trường học đã gây quỹ để dựng một chiếc ghế đá nhằm giúp mọi người luôn nhớ đến cô bé. Trên đó có khắc tên Kate. Nhưng ông vẫn cảm thấy mọi người đã lãng quên con gái mình rồi. Bọn trẻ trong thị trấn vẫn cứ tụ tập uống rượu bên hố đốt lửa trong khu rừng phía sau nhà vòm chứa máy bay, cứ như thể chưa từng có một thiếu niên nào thiệt mạng ở chính nơi đó mười lăm năm về trước. Đôi khi PJ lại mò ra hố lửa đó để uống rượu cùng chúng. Ông muốn hình dung xem những giờ phút cuối cùng trong cuộc đời của con gái mình đã diễn ra như thế nào. Lũ học sinh trung học đều biết rõ PJ, biết ông hoàn toàn vô hại và sẽ không đời nào mách méo khiến chúng gặp rắc rối với bố mẹ. Chúng gọi ông là “Huấn luyện viên PJ,” mặc dù PJ chưa từng huấn luyện bất kỳ đội bóng nào.
 
-Tại quầy bar, người đàn ông mặc áo Longhorns gật đầu. Anh ta nhấp một ngụm đồ uống của mình. “Chị gái tôi chết trong một vụ tai nạn máy bay,” anh ta nói. “Và bố tôi đã dành phần đời còn lại để nghiên cứu về động cơ của chiếc máy bay đó, vì muốn biết chính xác điều gì đã xảy ra. Nó có thể khiến một người phát điên lên được, khi cứ mãi trăn trở muốn biết những giây phút cuối cùng trong cuộc đời của đứa con mình trông như thế nào.”
+Tại quầy bar, người đàn ông mặc áo Longhorns gật đầu đồng cảm. Anh ta nhấp một ngụm đồ uống. “Chị gái tôi từng thiệt mạng trong một vụ tai nạn máy bay,” anh ta chia sẻ. “Và bố tôi đã dành trọn phần đời còn lại chỉ để nghiên cứu về động cơ của chiếc máy bay đó, chỉ vì muốn biết chính xác điều gì đã chệch hướng. Chuyện đó có thể khiến một người đàn ông phát điên, cái nỗi khao khát muốn biết những giây cuối cùng trong đời con mình diễn ra ra sao ấy.”
 
-“Anh hiểu mà,” PJ nói, cảm thấy vô cùng nhẹ nhõm, rất vui vì đã đến được quán bar này. “Vợ cũ của tôi không muốn nói về chuyện đó với tôi nữa. Ivy bảo bà ấy đã quá chán ngấy việc phải bàn về nó rồi.”
+“Anh hiểu cảm giác đó mà,” PJ nói, cảm thấy lòng tràn ngập sự nhẹ nhõm, thật may mắn biết bao khi ông tìm đến quán bar này. “Vợ cũ của tôi không còn muốn nói về chuyện đó với tôi nữa. Ivy bảo bà ấy đã quá chán ngấy việc cứ phải nhắc lại nó rồi.”
 
-“Ồ, đàn ông thì cần phải nói chuyện chứ,” người đàn ông mặc áo Longhorns nói. “Ông có biết tại sao họ cứ đưa các cựu chiến binh Thế chiến thứ hai đi giao lưu tại các thư viện và trung tâm cộng đồng mỗi năm không?”
+“Ồ, đàn ông thì luôn cần phải giải tỏa chứ,” người đàn ông mặc áo Longhorns nói. “Ông có biết tại sao hằng năm người ta vẫn đưa các cựu chiến binh Thế chiến thứ hai đi giao lưu, nói chuyện ở các thư viện và trung tâm cộng đồng không?”
 
-“Để bảo tồn lịch sử á?”
+“Để bảo tồn lịch sử sao?”
 
-“Không. Họ đưa mấy lão già đó đi vòng quanh là vì họ không muốn chiến tranh quay trở lại trong tâm trí những lão ta, họ không muốn bộ não đang già đi của mình đánh lừa rằng họ đang ở dưới chiến hào một lần nữa. Và cách duy nhất để làm điều đó là kể câu chuyện ấy ra. Kể đi kể lại câu chuyện đó. Ông kể câu chuyện đó cốt là để kiểm soát câu chuyện ấy.”
+“Không phải đâu. Người ta đưa mấy lão già đó đi khắp nơi vì không muốn chiến tranh quay trở lại ám ảnh tâm trí họ, không muốn bộ não già cỗi đánh lừa khiến họ nghĩ rằng mình lại đang ở dưới chiến hào một lần nữa. Và cách duy nhất để làm được điều đó là phải kể câu chuyện ấy ra. Kể đi kể lại câu chuyện đó. Người ta kể chuyện là để làm chủ được câu chuyện.”
 
-“Hừm,” PJ lẩm bẩm. Nghe có vẻ hợp lý đấy.
+“Hừm,” PJ lẩm bẩm. Nghe có lý đấy chứ.
 
-“Nếu ông không nói về nó, nó sẽ mãi ám ảnh ông thôi,” người đàn ông mặc áo Longhorns nói.
+“Nếu ông không chịu nói ra, nó sẽ mãi ám ảnh ông thôi,” người đàn ông mặc áo Longhorns tiếp lời.
 
-PJ gật đầu. Ông bị ám ảnh. Ông cần phải nói ra điều đó, hoặc ông cần uống rượu để xóa nhòa nỗi đau bằng hơi men. Hoặc cả hai. Ông cần cả hai.
+PJ gật đầu. Ông đúng là đang bị ám ảnh. Ông cần phải nói ra, hoặc ông cần phải uống rượu để dùng hơi men xóa nhòa nỗi đau. Hoặc cả hai. Ông cần cả hai điều đó.
 
-“Ông không nói ra thì nó sẽ đẩy ông đến chỗ nghiện rượu đấy. Ông uống nhiều lắm à?”
+“Chính việc giữ khép kín lòng mình sẽ đẩy ông tìm đến ma túy và rượu xịn đấy. Ông uống nhiều lắm đúng không?”
 
-PJ gật đầu.
+PJ lại gật đầu.
 
-“Ừ, đó cũng là lý do tại sao nhóm cai rượu vô danh lại hiệu quả với một số người,” anh ta nói. “Việc kể chuyện ấy mà. Đó là một nơi an toàn để kể những câu chuyện của ông. Chia sẻ với những người bạn cũng từng trải qua hoàn cảnh đó. Tôi vẫn luôn nói với những chiến hữu trong nhóm cai rượu của mình rằng: hãy cứ bày ra những chuyện kinh khủng mà ông từng làm, tôi sẽ cùng ông cười vào những điều đó.”
+“Ừm, đó cũng là lý do tại sao Hội Cai rượu Vô danh lại phát huy hiệu quả với một số người,” anh ta nói. “Chính là nhờ việc kể chuyện đấy. Đó là một nơi an toàn để ông trải lòng về những câu chuyện của mình, chia sẻ với những người bạn cũng từng nếm trải hoàn cảnh tương tự. Tôi vẫn thường bảo với mấy chiến hữu trong Hội Cai rượu: cứ đem những chuyện tồi tệ nhất ông từng làm ra đây, tôi sẽ cùng ông cười vào nó.”
 
-PJ chưa bao giờ thích tụ tập với những kẻ thất bại đáng thương khác ngồi thành một nửa vòng tròn. Ông không thích việc cố gắng thề không dính dáng đến các mối quan hệ mới trong suốt một năm, hay việc kiểm điểm lại đạo đức, hoặc tất cả những thứ vớ vẩn khác mà ông phải làm trong mười hai bước. Nhưng có lẽ nếu PJ coi các buổi họp của nhóm cai rượu là nơi để kể những câu chuyện hay nhất của mình, thì ông có thể tham gia. Ivy sẽ rất vui nếu PJ chịu đi họp nhóm. Bà vẫn luôn nói đó là cách duy nhất để một người có thể cai rượu. Ồ, ông biết đấy, giờ thì PJ đã tỉnh táo rồi. Gần như vậy. Mới chỉ có một chai bia thôi mà. Ông có thể giữ cho mình tỉnh táo, ông biết điều đó. Ông đã làm rất tốt trước khi sa ngã trở lại ở Nhà nghỉ The Golden Cherry. Ông có thể làm lại được. “Anh thực sự là một người rất thông minh,” PJ nói với anh chàng mặc áo Longhorns. “Tôi thật may mắn khi gặp được anh.”
+PJ chưa bao giờ thích tụ tập với những kẻ thất bại đáng thương khác ngồi thành hình bán nguyệt. Ông không thích việc phải thề thốt tránh xa các mối quan hệ mới trong suốt một năm, hay việc tự kiểm điểm đạo đức, cùng tất cả những thứ vớ vẩn khác trong quy trình mười hai bước. Nhưng có lẽ nếu PJ coi các buổi họp mặt của Hội Cai rượu chỉ đơn thuần là nơi để kể lại những câu chuyện thú vị nhất của đời mình, thì ông hoàn toàn có thể tham gia. Ivy chắc chắn sẽ rất vui nếu thấy PJ chịu đi họp nhóm. Bà vẫn luôn khẳng định đó là con đường duy nhất để một người có thể tỉnh rượu. Ồ, nhưng ông biết không, hiện tại PJ đã hoàn toàn tỉnh táo rồi. Gần như thế. Ông mới chỉ uống đúng một chai bia thôi mà. Ông thừa sức giữ cho mình tỉnh táo, ông biết rõ điều đó. Ông đã làm rất tốt trước khi sa ngã trở lại ở nhà nghỉ Golden Cherry. Ông nhất định sẽ làm lại được. “Anh thực sự là một người rất tinh tế,” PJ nói với người đàn ông mặc áo Longhorns. “May mắn cho tôi là đã gặp được anh đêm nay.”
 
-“Tôi chẳng là gì ngoài một gã bợm rượu già,” anh chàng mặc áo Longhorns nói. “Nhóm cai rượu chẳng bao giờ có tác dụng với tôi cả. Nhưng này, cứ thử đi. Kể cho tôi nghe câu chuyện tồi tệ nhất của ông đi. Điều kinh khủng nhất mà ông từng làm, và tôi sẽ cùng cười với ông về điều đó.”
+“Tôi chẳng qua cũng chỉ là một gã bợm rượu già mà thôi,” anh ta nhún vai. “Hội Cai rượu chẳng có tác dụng gì với tôi cả. Nhưng này, ông cứ thử xem sao. Kể cho tôi nghe câu chuyện tồi tệ nhất của ông đi. Điều kinh khủng nhất ông từng làm ấy, và tôi sẽ cùng cười với ông về nó.”
 
-“Được thôi,” PJ nói. Ông suy nghĩ về nó. Đó không phải là điều tồi tệ nhất mà ông từng làm, nhưng nó là một trong số đó.
+“Được thôi,” PJ nói. Ông trầm ngâm suy nghĩ. Đó không phải là điều tồi tệ nhất ông từng làm, nhưng chắc chắn là một trong số đó.
 
-Sophie mười hai tuổi khi chuyện đó xảy ra, đúng bằng tuổi của Kate khi cô bé bị xe tông. Một năm không may mắn đối với những đứa trẻ nhà Halliday. Sophie đang ở ngoài trời, tự chơi một mình. Cô bé đang ở giai đoạn cuối cùng của tuổi thơ, trước khi trí tưởng tượng rời bỏ bạn vĩnh viễn. Cô bé đang đi dọc theo bức tường đá ở sân sau ngôi nhà nằm trên góc đường Clear Pond, giả vờ làm một nghệ sĩ đi dây thăng bằng. Trước đó, cô bé từng là một lực sĩ, một kẻ phun lửa, và một người huấn luyện sư tử. Cô bé là một gánh xiếc một người. Lẽ ra PJ phải trông chừng cô bé, nhưng một đứa trẻ mười hai tuổi thì đâu cần phải lúc nào cũng có người giám sát. PJ đang ở trong nhà, xem bóng đá. Hôm đó là thứ Bảy, và ông đã nốc sạch mười tám chai bia, ứng với mỗi năm tuổi mà cô con gái lớn của ông đã trải qua. Ivy đi vắng vào cuối tuần, tham gia một trong những chuyến đi ngắm chim của bà ở vùng Cape. Người thích ngắm chim thân thiện có ngôi nhà thứ hai nằm ở cuối phố đã mời bà đi cùng. Một người đàn ông tên là Fred, một thẩm phán ở tận Boston, người hay xuống Pondville vào các ngày cuối tuần để nghỉ ngơi và tổ chức các chuyến đi ở vùng Cape để tìm chim. PJ đã khuyến khích vợ mình đi.
+Sophie mười hai tuổi khi sự cố đó xảy ra, đúng bằng độ tuổi của Kate khi cô bé bị xe đụng. Một cái tuổi đầy vận xui đối với những đứa trẻ nhà Halliday. Hôm ấy Sophie đang chơi một mình ở ngoài sân. Cô bé đang sống trong những khoảnh khắc cuối cùng của thời thơ ấu, trước khi trí tưởng tượng vĩnh viễn bay biến khỏi tâm trí. Cô bé đi dọc theo bức tường đá ở sân sau ngôi nhà nằm trên góc đường Clear Pond, giả vờ làm một nghệ sĩ đi dây thăng bằng.
 
-Thế là PJ ở nhà một mình với Sophie, và ông đã lăn quay ra ngủ gục trước trận đấu bóng đá. Ở bên ngoài, Sophie vẫn đang mải miết trên sợi dây thăng bằng của mình, trên bức tường đá cao một mét, và cô bé đã trượt chân ngã vào một đám rêu dày. Cô bé cố gắng bấu víu vào hông nhà để giữ thăng bằng, nhưng ngay ở đó lại có một tấm kính cửa sổ, và cô bé ngã xuyên thẳng qua cửa sổ, lao người qua đó, khiến cả hai cổ tay bị cắt rách tơi tả. PJ ở ngay trong nhà nhưng ông không nghe thấy tiếng cô bé hét lên, vì đã say khướt vì bia và trận bóng đá được bật quá to.
+Mới lúc trước, cô bé còn hóa thân thành một lực sĩ sĩ, rồi kẻ nuốt lửa, rồi người huấn luyện sư tử. Cô bé là cả một gánh xiếc thu nhỏ của riêng mình. Lẽ ra PJ phải có nhiệm vụ trông chừng cô bé, nhưng một đứa trẻ mười hai tuổi thì đâu cần phải lúc nào cũng có người dán mắt theo dõi. PJ lúc đó đang ở trong nhà xem bóng đá. Hôm ấy là thứ Bảy, và ông đã nốc sạch mười tám chai bia, tương ứng với mỗi năm tuổi mà cô con gái lớn của ông từng sống trên đời. Ivy đi vắng vào cuối tuần để tham gia một trong những chuyến ngắm chim ở vùng Cape. Một người thích ngắm chim thân thiện có ngôi nhà thứ hai nằm ngay cuối phố đã mời bà đi cùng. Đó là một người đàn ông tên Fred, thẩm phán ở Boston, thường xuống Pondville vào cuối tuần để thư giãn và đứng ra tổ chức các chuyến thám hiểm ngắm chim ở Cape. Chính PJ đã ủng hộ và khuyến khích vợ mình chuyến đi đó.
 
-Bà DeAngelis tìm thấy Sophie ở lối ra xe với máu chảy đầm đìa trên hai tay, không thể thốt nên lời vì bị sốc, và bà đã đưa Sophie lên xe rồi chở đến phòng cấp cứu trên chính chiếc xe Buick cũ kỹ từng cán qua người Kate và chiếc xe đạp của cô bé bảy năm về trước. Sophie đã làm máu vương vãi khắp nội thất bọc vải và gây ra thiệt hại cho chiếc xe lớn hơn nhiều so với những gì chị gái cô bé từng làm.
+Vì thế, PJ ở nhà một mình với Sophie, và ông đã say gục ngay trước màn hình ti vi đang phát trận đấu. Ở bên ngoài, Sophie vẫn mải miết đi trên sợi dây thăng bằng tưởng tượng, bước đi trên bức tường đá cao gần một mét, và rồi cô bé trượt chân vào một mảng rêu dày. Cô bé cố gắng vịn tay vào hông nhà vòm để giữ thăng bằng, nhưng ngay tại đó lại có một ô cửa sổ kính. Cô bé ngã nhào, lao thẳng qua lớp kính, khiến cả hai cổ tay bị rách tơi tả và máu chảy lênh láng. PJ ở ngay trong nhà nhưng chẳng hề nghe thấy tiếng la hóc thảm thiết của con gái, bởi ông đã say khướt vì bia và tiếng ti vi phát trận bóng đá được vặn quá to.
 
-Bà DeAngelis và một viên cảnh sát đã đến gõ cửa nhà PJ hai tiếng sau đó, và đó là lúc họ đánh thức PJ dậy.
+Bà DeAngelis tìm thấy Sophie ở lối ra xe với máu chảy đầm đìa xuống hai cánh tay, cô bé hoảng loạn đến mức không thể thốt lên lời. Bà lập tức bế Sophie lên xe và chở thẳng đến phòng cấp cứu trên chính chiếc Buick cũ kỹ từng đụng phải Kate cùng chiếc xe đạp của cô bé mười năm về trước. Sophie đã làm máu vương vãi khắp nội thất bọc vải, gây ra sự hỗn loạn lớn hơn nhiều so với tai nạn của chị gái mình.
 
-“Con gái ông vừa tự tử đấy,” viên cảnh sát nói thẳng thừng không vòng vo.
+Bà DeAngelis cùng một viên cảnh sát tìm đến gõ cửa nhà PJ hai tiếng sau đó, và đó mới là lúc họ đập cửa làm PJ tỉnh giấc.
 
-“Tôi đã đưa con bé đến bệnh viện,” bà DeAngelis nói. “Tôi cứ nghĩ không có ai ở nhà. Tôi không biết là anh có nhà. Nhưng tôi đã đưa con bé đến đó kịp thời. Họ đã khâu lại cổ tay cho con bé. Con bé đã tự rạch nát chúng ra.”
+“Con gái ông vừa tìm cách tự tử đấy,” viên cảnh sát nói thẳng thừng, không hề dè dặt.
 
-Không ai nói rằng cô bé làm thế là do vô tình, bởi vì tất cả mọi người đều mặc định rằng đó là hành động cố ý, cô con gái nhà Halliday có người chị gái đã chết đuối vào năm trước. Chắc hẳn cô bé đã không thể đối phó nổi với sự mất mát đó. PJ lắc đầu, đầu óc mơ hồ choáng váng. Viên cảnh sát muốn đưa PJ về đồn để thẩm vấn vì tội nguy hại đến trẻ vị thành niên, bỏ mặc con bé không có người giám sát, mặc dù hầu hết mọi người vẫn thường xuyên để những đứa trẻ mười hai tuổi ở nhà một mình.
+“Tôi đã đưa con bé đến bệnh viện rồi,” bà DeAngelis chen vào. “Tôi cứ nghĩ không có ai ở nhà. Tôi không biết là anh lại đang ở trong nhà. Nhưng may mà tôi đưa con bé đến kịp. Họ đã khâu lại cổ tay cho con bé. Con bé đã tự rạch rách cả hai bên.”
 
-Khi PJ đến bệnh viện, Sophie đã kể cho ông nghe mọi chuyện đã xảy ra, về khung cửa sổ, và cách cô bé gọi tên ông, và việc cô bé đã sợ hãi đến thế nào khi phải ở một mình trong bệnh viện, nơi chẳng có ai lắng nghe cô bé và ai nấy đều nói những điều đáng sợ. Khi Ivy trở về vào vài giờ sau đó sau chuyến ngắm chim, bà đã đập thẳng chiếc ống nhòm vào mặt PJ, làm nứt các thấu kính và gãy một chiếc răng của ông.
+Chẳng một ai chịu tin rằng cô bé chỉ vô tình gặp tai nạn, bởi tất cả mọi người đều mặc định đó là hành động cố ý, cô con gái nhỏ nhà Halliday có người chị gái vừa chết đuối mười lăm năm trước. Chắc hẳn cô bé không thể vượt qua nổi bi kịch mất mát ấy. PJ lắc đầu, đầu óc choáng váng mơ hồ. Viên cảnh sát thậm chí còn muốn đưa PJ về đồn thẩm vấn vì tội đe dọa an toàn của trẻ vị thành niên, bỏ mặc con nhỏ không người giám sát, mặc dù hầu hết mọi người vẫn thường xuyên để những đứa trẻ mười hai tuổi ở nhà một mình.
 
-“Đó thực sự là dấu chấm hết cho cuộc hôn nhân của chúng tôi,” PJ giải thích với anh chàng mặc áo Longhorns. “Ivy coi chuyện đó là tồi tệ hơn bất kỳ vụ tai nạn lái xe khi say rượu nào, và bà ấy đổ lỗi cho tôi về chuyện đó nhiều hơn. Các bác sĩ không tin chúng tôi, họ không tin Sophie, rằng cô bé chỉ ngã xuyên qua cửa sổ, rằng đó chỉ là một tai nạn. Họ bắt cô bé phải chịu sự giám sát tâm thần bắt buộc trong bảy mươi hai giờ. Họ đặt ra cho đứa trẻ tội nghiệp ấy những câu hỏi mà không một đứa trẻ nào phải chịu đựng.”
+Khi PJ chạy đến bệnh viện, Sophie đã kể cho ông nghe toàn bộ sự việc, về ô cửa sổ kính, về việc cô bé đã gào khóc gọi tên ông ra sao, và cô bé đã khiếp sợ thế nào khi phải ở một mình trong bệnh viện, nơi chẳng ai chịu lắng nghe cô bé mà chỉ toàn thốt ra những lời đe dọa đáng sợ. Vài tiếng sau, khi Ivy từ chuyến đi ngắm chim trở về hospital, bà đã dùng chiếc ống nhòm đập thẳng vào mặt PJ, làm nứt cả thấu kính và đập gãy một chiếc răng của ông.
 
-Anh chàng mặc áo Longhorns giơ ngón tay ra hiệu gọi Miguel lấy thêm đồ uống.
+“Đó thực sự là dấu chấm hết cho cuộc hôn nhân của chúng tôi,” PJ giải thích với người đàn ông mặc áo Longhorns. “Ivy coi chuyện đó tồi tệ hơn bất kỳ vụ tai nạn lái xe khi say rượu nào tôi từng gây ra, bà ấy đổ hết mọi lỗi lầm lên đầu tôi. Các bác sĩ không tin lời chúng tôi, họ không tin Sophie khi con bé giải thích rằng mình chỉ vô tình ngã qua ô cửa kính, rằng đó thuần túy là một tai nạn. Họ ép cô bé phải chịu sự giám sát tâm thần bắt buộc trong suốt bảy mươi hai giờ. Họ tra hỏi đứa trẻ tội nghiệp đó những câu hỏi mà không một đứa trẻ nào trên đời này đáng phải gánh chịu.”
 
-PJ chờ anh ta hỏi xem chiếc răng nào của ông bị gãy, như Ollie và Luna từng hỏi để xem bằng chứng cho thấy câu chuyện là thật. Nhưng anh chàng mặc áo Longhorns không hỏi, và PJ chưa bao giờ thực sự làm gãy chiếc răng nào của mình; đó là phần duy nhất trong câu chuyện mà PJ đã bịa ra. Ivy không hề đánh ông. Thay vào đó, ở bệnh viện, Ivy để Fred, người đàn ông lạ mặt ở cuối phố, ôm lấy con bé trong lúc cô bé khóc. Cô bé không đời nào để PJ đến gần.
+Người đàn ông mặc áo Longhorns giơ tay ra hiệu gọi Miguel lấy thêm một ly nữa.
 
-PJ tiếp tục nói với anh chàng mặc áo Longhorns: “Nhưng sau đó, Sophie vẫn ổn. Con bé đạt điểm số cao. Con bé thừa sức vào Đại học NYU. Con bé đã đậu NYU! Con bé không cần phải cứ quẩn quanh ở Pondville. NYU là một ngôi trường tuyệt vời. Nhưng con bé đã không đi, vì nghĩ rằng mình cần mẹ, và nghĩ rằng mẹ cần mình. Tôi thấy điều đó chẳng lành mạnh chút nào.”
+PJ dừng lại, chờ đợi người đàn ông mặc áo Longhorns hỏi xem Ivy đã làm gãy chiếc răng nào của ông, giống như cách Ollie và Luna vẫn hay tò mò đòi xem bằng chứng để xác nhận câu chuyện là thật. Nhưng người đàn ông mặc áo Longhorns không hỏi, và trên thực tế PJ cũng chưa từng bị gãy chiếc răng nào, đó là chi tiết duy nhất trong câu chuyện mà PJ tự bịa ra. Ivy không hề ra tay đánh ông. Thay vào đó, ngay tại bệnh viện, Ivy đã để Fred, người đàn ông xa lạ ở cuối phố, ôm lấy mình trong lúc bà khóc nức nở. Bà tuyệt đối không cho phép PJ tiến lại gần.
 
-Anh chàng mặc áo Longhorns nói: “Nghe có vẻ phụ thuộc lẫn nhau quá nhỉ.”
+PJ tiếp tục tâm sự: “Nhưng sau chuyện đó, Sophie vẫn vươn lên rất tốt. Con bé đạt điểm số rất cao. Con bé hoàn toàn đủ sức vào Đại học NYU. Con bé thậm chí đã trúng tuyển vào NYU! Con bé đâu cần phải cứ quẩn quanh ở Pondville làm gì. NYU là một ngôi trường vô cùng tuyệt vời. Nhưng con bé lại quyết định không đi, chỉ vì nghĩ rằng mình cần phải ở bên mẹ, và nghĩ rằng mẹ cũng cần có mình. Tôi thì lại không thấy điều đó lành mạnh chút nào.”
 
-PJ đáp: “Đúng vậy, từ chính xác là thế đấy. Phụ thuộc lẫn nhau. Nhưng sau khi Sophie vào đại học, mối quan hệ giữa Ivy và Fred trở nên nghiêm túc hơn, ông ta chuyển hẳn về Pondville sống toàn thời gian để ở bên bà ấy. Tôi nghĩ Sophie bắt đầu cảm thấy mình như kẻ thừa sau chuyện đó, giống như tôi vậy.”
+“Nghe có vẻ bị phụ thuộc cảm xúc lẫn nhau đấy nhỉ,” người đàn ông mặc áo Longhorns nhận xét.
 
-“Fred là gã ngắm chim ấy hả? Bà ấy bỏ ông vì ông ta à?”
+“Đúng thế, chính xác là cái từ đó đấy. Phụ thuộc lẫn nhau. Nhưng sau khi Sophie hoàn thành việc học đại học, mối quan hệ giữa Ivy và Fred trở nên sâu đậm hơn, ông ta chuyển hẳn về Pondville sống để ở bên bà ấy. Tôi nghĩ từ dạo đó Sophie bắt đầu cảm thấy mình giống như kẻ thừa thãi... chẳng khác nào cảm giác của tôi.”
 
-“Ừ.”
+“Fred chính là gã thích ngắm chim đó sao? Vợ ông bỏ ông để theo gã đó à?”
 
-“Ông ta là một tên khốn đúng nghĩa, phải không?”
+“Đúng vậy.”
 
-PJ ngẫm nghĩ. Những tin nhắn gần đây của Fred, bảo ông hãy để họ yên, rằng Fred và Ivy cần tập trung cho cuộc sống ở Alaska. Đính hôn ở Alaska. Không mời ông hay Sophie đến Alaska. Cuối cùng, PJ nói: “Không. Fred không phải là một tên khốn. Tôi rất quý ông ấy.” Ông lau mắt. “Tôi nhớ ông ấy rất nhiều.”
+“Ông ta là một tên khốn nạn đúng không?”
 
-“Chà, nghe ngọt ngào phết nhỉ.”
+PJ lặng người suy ngẫm. Những tin nhắn gần đây của Fred, yêu cầu ông hãy để họ yên, rằng Fred và Ivy cần phải tập trung trọn vẹn cho chuyến đi Alaska. Họ chuẩn bị đính hôn ở Alaska. Họ không hề mời ông lẫn Sophie cùng đi Alaska. Cuối cùng, PJ nhẹ nhàng đáp: “Không. Fred không phải là tên khốn. Tôi rất thương ông ấy.” Ông đưa tay lau nước mắt. “Tôi nhớ ông ấy nhiều lắm.”
 
-“Tôi cứ tưởng anh sẽ giúp tôi cười trừ vì chuyện này chứ.”
+“Chà, nghe tình cảm phết nhỉ.”
 
-Anh chàng mặc áo Longhorns nhún vai. “Đôi khi khóc lại hay hơn đấy. Quan trọng là mình còn cảm nhận được điều gì đó.”
+“Tôi cứ tưởng anh sẽ giúp tôi cười trừ qua chuyện này chứ.”
 
-PJ nói: “Tôi hiểu chứ. Mọi chuyện thực sự tồi tệ, những gì tôi đã làm ấy.”
+Người đàn ông mặc áo Longhorns nhún vai. “Đôi khi rơi nước mắt lại tốt hơn nhiều. Điều quan trọng nhất là mình vẫn còn cảm nhận được cảm xúc.”
 
-“Ông có muốn nghe câu chuyện của tôi không? Nó cũng nói về cách tôi đánh mất người vợ của mình.”
+“Tôi hiểu mà,” PJ gật đầu. “Những việc tôi đã làm thực sự quá tồi tệ.”
 
-“Chắc chắn rồi. Đương nhiên là tôi muốn nghe.”
+“Ông có muốn nghe câu chuyện của tôi không? Nó cũng liên quan đến việc tôi đã đánh mất người vợ của mình ra sao.”
 
-“Tôi đã sát hại cô ấy trong một đêm lái xe say xỉn. Tôi đã tự tay giết vợ mình.”
+“Chắc chắn rồi. Tất nhiên là tôi muốn nghe.”
 
-Miệng PJ hơi há hốc. Ông biết mình từng rất may mắn, rằng ông chưa bao giờ làm ai bị thương khi lái xe trong tình trạng say xỉn. Chưa từng có ai ngồi trên xe cùng ông. Chưa từng có ai đi trên đường vào lúc ông lấn sang làn đường khác rồi lật xe, hay lái chiếc xe chở thư lao xuống hồ. Ông đã rất may mắn. PJ nói: “Đó là một câu chuyện kinh khủng. Tôi rất tiếc vì chuyện đó.”
+“Tôi đã làm chết vợ mình trong một đêm lái xe say xỉn. Chính tay tôi đã cướp đi mạng sống của vợ mình.”
 
-“Đó chưa phải là câu chuyện chính. Phần hay ho của câu chuyện là, vào ngày giỗ vợ tôi, hai năm trước, tôi đã thuê phòng ở Boar’s Tooth Motel.”
+Miệng PJ hơi há hốc ra. Ông nhận ra bản thân đã may mắn đến nhường nào, khi ông chưa từng làm ai bị thương mỗi lúc cầm lái trong cơn say. Chưa từng có ai ngồi chung xe với ông. Chưa từng có ai xuất hiện trên đường vào thời điểm ông lấn sang làn đường đối diện rồi lật xe, hay lao thẳng chiếc xe chở thư xuống hồ. Ông đã quá đỗi may mắn. PJ nghẹn ngào: “Đó đúng là một câu chuyện bi thảm. Tôi rất làm tiếc về điều đó.”
 
-“Chúng tôi đang trọ ở đó đấy.”
+“Đó vẫn chưa phải là toàn bộ câu chuyện đâu. Điểm mấu chốt của câu chuyện là, vào ngày giỗ vợ tôi cách đây hai năm, tôi đã đến thuê phòng tại Boar’s Tooth Motel.”
 
-“Đó là chỗ trọ duy nhất trong thị trấn. Và nó vốn nổi tiếng là nơi tuyệt vời nhất trong thị trấn để tự sát.”
+“Bố con tôi cũng đang trọ ở đó đấy!”
 
-“Ồ. Tôi không có ý định làm thế.”
+“Đó là chỗ trọ duy nhất trong cái thị trấn này. Và nó nổi tiếng là địa điểm lý tưởng nhất vùng để tìm đến cái chết.”
 
-“Chà, đó chính xác là lý do tại sao tôi đăng ký thuê phòng. Khi một người dân địa phương đến nhà nghỉ một mình, nhân viên ở đó thừa biết điều gì sẽ xảy ra vào buổi sáng hôm sau. Người quản lý nhà nghỉ sẽ đánh dấu căn phòng đó trên lịch đặt phòng bằng một chữ X màu đỏ.”
+“Ồ. Tôi thì không có ý định đó.”
 
-PJ nói: “Destiny. Cô ấy là quản lý.”
+“Chà, đó chính xác là lý do tại sao tôi lại thuê phòng ở đó. Khi một dân địa phương tự mình đến thuê phòng một mình tại nhà nghỉ đó, nhân viên ở đấy thừa hiểu chuyện gì sẽ xảy ra vào sáng hôm sau. Người quản lý nhà nghỉ sẽ đánh dấu căn phòng đó trên lịch đặt phòng bằng một dấu X màu đỏ.”
 
-Anh chàng mặc áo Longhorns nói: “Chính xác, Destiny.”
+PJ thốt lên: “Destiny. Cô ấy chính là quản lý.”
 
-“Destiny không cố gắng ngăn cản người ta tự sát sao? Nếu cô ấy biết họ chuẩn bị làm điều đó?”
+“Chính xác,” người đàn ông mặc áo Longhorns gật đầu. “Là Destiny.”
 
-“Tôi nghĩ cô ấy cho rằng đó không phải việc của mình. Nhưng cô ấy bắt người ta phải trả tiền trước.”
+“Destiny không tìm cách ngăn cản họ tự sát sao? Nếu cô ấy biết tống táng họ chuẩn bị làm điều đó?”
 
-PJ lẩm bẩm: “Hừm,” ông thầm nghĩ thật khó mà ngủ ngon giấc vào ban đêm nếu biết ai đó sắp chết ở cách vài căn phòng mà mình lại chẳng làm gì để ngăn cản. Có lẽ đó là lý do tại sao Destiny luôn bật tivi to tiếng đến vậy.
+“Tôi nghĩ cô ấy cho rằng đó không phải việc của mình. Nhưng cô ấy bắt người ta phải thanh toán tiền phòng trước.”
 
-“Thế là tôi trả tiền phòng, mang theo một khẩu súng bên mình, loại súng ổ quay sáu viên, rồi tôi ngồi bên mép giường, ghê tởm chính bản thân vì đã đâm xe vào gốc cây và giết chết vợ mình, vậy mà tôi vẫn tiếp tục sống nhăn ra, không một vết xước. Tôi chĩa nòng súng vào miệng. Tôi bóp cò, và nó kêu cách một tiếng. Tôi bóp cò lần nữa. Vẫn kêu cách. Không có viên đạn nào cả. Tôi bóp cò cả sáu lần. Vẫn sống nhăn. Tôi ném phăng khẩu súng qua căn phòng trong sự ghê tởm và chán ngán vì bản thân thậm chí không thể tự kết liễu đời mình cho ra hồn, dù bằng xe hơi hay bằng súng. Tôi ném khẩu súng đi, nó đập vào tường rồi cướp cò, viên đạn nảy ngược lại và bắn trúng chân tôi. Đến tự sát cũng không xong.” Anh chàng mặc áo Longhorns bắt đầu cười lớn. Anh ta không thể dừng lại được. Anh ta cười cứ như thể ai đó vừa kể một câu chuyện cười hài hước nhất mà anh ta từng nghe. PJ nhìn người đàn ông tội nghiệp, suýt ngã khỏi ghế xuống sàn nhà.
+“Hừm,” PJ lẩm bẩm. Ông thầm nghĩ thật khó mà chợp mắt nổi vào ban đêm nếu biết rõ ai đó sắp kết liễu đời mình ở ngay căn phòng cách đó vài bước chân mà bản thân lại chẳng làm gì để can thiệp. Có lẽ đó là lý do tại sao Destiny luôn bật ti vi với âm lượng lớn đến thế.
 
-PJ vừa nói vừa đặt tay lên vai anh ta để giữ thăng bằng: “Tôi rất xin lỗi.”
+“Thế là tôi trả tiền phòng, mang theo một khẩu súng ổ quay sáu viên, rồi tôi ngồi trên mép giường, ghê tởm chính bản thân vì đã đâm xe vào gốc cây làm chết vợ mình, vậy mà bản thân tôi vẫn sống nhăn răng, không một vết xước. Tôi chĩa nòng súng vào miệng. Tôi bóp cò, và nó kêu cách một tiếng. Tôi bóp cò lần nữa. Vẫn kêu cách. Không có đạn. Tôi bóp cò cả sáu lần. Vẫn sống nguyên. Tôi ném phăng khẩu súng sang bên kia phòng trong sự ghê tởm và chán nản tột cùng, vì đến cả việc tự kết liễu đời mình cho đàng hoàng mà tôi cũng chẳng làm nổi, dù là bằng ô tô hay bằng súng. Tôi văng khẩu súng đi, nó đập mạnh vào tường rồi cướp cò, viên đạn nảy ngược trở lại và cắm thẳng vào chân tôi. Đến tự sát mà cũng không xong!” Người đàn ông mặc áo Longhorns bắt đầu bật cười ngặt ngẹo. Anh ta không thể dừng lại được. Anh ta cười lớn như thể vừa được nghe một câu chuyện đùa hài hước nhất trên đời. PJ trố mắt nhìn người đàn ông tội nghiệp, anh ta cười đến mức suýt ngã từ trên ghế xuống sàn nhà.
 
-“Đừng thế. Đừng thương hại tôi.”
+PJ vội đặt tay lên vai người đàn ông để giữ cho anh ta khỏi ngã: “Tôi rất làm tiếc...”
 
-PJ đáp: “Được rồi.” Ông chẳng biết anh ta còn muốn gì nữa, nếu không phải là sự thương hại. “Nghe này, cảm ơn vì buổi trò chuyện tối nay, nhưng tôi phải đi đây. Phải quay lại với lũ trẻ thôi.” Tập trung vào Alaska, ông nghe văng vẳng tiếng Fred bên tai. Chúng ta phải tập trung vào những gì đang diễn ra ngay lúc này. Sophie đã nói sáng hôm đó rằng ông cần phải tập trung cho Ollie và Luna. Giống như Ivy từng bảo ông phải tập trung vào Sophie thay vì cái chết của Kate. PJ cần phải tập trung vào lũ trẻ đó. Chúng cần ông. Chúng cực kỳ cần ông. Ông đã hứa sẽ đưa Luna đi gặp Mark Stackpole, và ông là một người giữ lời hứa. Ông bảo anh chàng mặc áo Longhorns: “Giờ thì anh tự chăm sóc bản thân nhé,” rồi ông để lại 100 đô la trên quầy bar để trả tiền nước cho cả hai, dẫu cho PJ chỉ uống có một chai bia. Lần đầu tiên trong đời, PJ đã biết dừng lại ở một chai bia.
+“Đừng. Đừng thương hại tôi.”
 
-“Đến tự sát cũng không xong,” anh chàng mặc áo Longhorns lẩm bẩm.
+PJ đáp: “Được rồi.” Ông chẳng biết người đàn ông này còn muốn gì hơn nữa, nếu như không phải là sự thương cảm. “Nghe này, cảm ơn vì buổi trò chuyện tối nay, nhưng tôi phải quay về đây. Phải về với bọn trẻ thôi.” Hãy tập trung vào chuyến đi Alaska, ông lại nghe văng vẳng giọng nói của Fred bên tai. Chúng ta phải tập trung vào những gì đang diễn ra ngay lúc này. Sophie sáng nay cũng đã dặn ông rằng ông cần phải tập trung lo cho Ollie và Luna. Giống như ngày trước Ivy từng bảo ông hãy tập trung chăm sóc Sophie thay vì cứ đắm chìm trong cái chết của Kate. PJ cần phải dồn hết tâm trí cho lũ trẻ. Chúng đang cần ông. Chúng cực kỳ cần ông. Ông đã hứa sẽ đưa Luna đi gặp Mark Stackpole, và ông là một người đàn ông giữ lời. “Anh tự giữ gìn sức khỏe nhé,” ông bảo người đàn ông mặc áo Longhorns, rồi đặt lại 100 đô la trên quầy bar để trả tiền nước cho cả hai, mặc dù PJ chỉ mới uống đúng một chai bia. Lần đầu tiên trong đời, PJ đã biết dừng lại chỉ sau một chai bia.
 
-“Tôi chắc chắn là ngày nào đó mọi chuyện sẽ ổn thôi,” PJ nói, bởi vì ông thấu hiểu cảm giác đó. Ông đã mắc kẹt trong cảm giác ấy nhiều năm trời, một nửa muốn mọi thứ sớm kết thúc và một nửa muốn tìm cách tiếp tục sống đồng thời hy vọng mọi chuyện sẽ khá hơn. Nhưng đêm nay ông không muốn chết. Ông còn mấy đứa nhỏ ở nhà nghỉ. Ông cần phải bỏ rượu. Và có lẽ ông thậm chí sẽ thử tham gia hội người cai nghiện AA. Ngồi trong tầng hầm nhà thờ cùng những kẻ thất bại khác. Điều đó sẽ làm Ivy vui. Ông muốn làm Ivy vui. Ông muốn làm tất cả bọn họ vui. Sophie, Ivy, Fred, lũ trẻ.
+“Đến tự sát cũng không xong,” người đàn ông mặc áo Longhorns vẫn thì thầm lẩm bẩm.
 
-“Về nhà à?” Miguel hỏi khi PJ tiến ra cửa.
+“Tôi tin là rồi sẽ đến lúc mọi chuyện ổn thỏa thôi,” PJ nói, bởi ông quá thấu hiểu cảm giác đó. Ông đã mắc kẹt trong cái đống cảm xúc hỗn độn ấy suốt nhiều năm trời, một nửa muốn mọi chuyện sớm kết thúc cho xong, một nửa lại khao khát tìm ra con đường để tiếp tục sống và hy vọng mọi thứ rồi sẽ tốt đẹp hơn. Nhưng đêm nay ông tuyệt đối không muốn chết. Ông còn có bọn trẻ đang chờ ở nhà nghỉ. Ông cần phải từ bỏ rượu. Và có lẽ ông sẽ thử tham gia Hội Cai rượu Vô danh xem sao. Ngồi trong tầng hầm nhà thờ cùng những kẻ thất bại khác. Điều đó chắc chắn sẽ làm Ivy vui. Ông muốn làm cho Ivy vui. Ông muốn làm cho tất cả bọn họ được hạnh phúc. Sophie, Ivy, Fred, và cả bọn trẻ nữa.
 
-“Ừ,” PJ nói, ngẩng cao ngực. “Đêm nay chỉ một ly thôi. Tôi đang trên đường đi gặp người phụ nữ của đời mình. Và ở nhà nghỉ có mấy đứa nhỏ đang cần sự giúp đỡ của tôi. Tôi có cơ hội thứ hai trong đời. Tôi là một thằng khốn may mắn khi sống sót được đến giờ này.”
+“Về nhà nghỉ sao ông?” Miguel cất tiếng hỏi khi thấy PJ tiến ra phía cửa.
 
-“Amen,” Miguel nói.
+“Ừ,” PJ đáp, ưỡn ngực đầy tự hào. “Đêm nay chỉ đúng một ly thôi. Tôi đang trên đường đi gặp người phụ nữ trong mơ của đời mình. Và ở nhà nghỉ còn có mấy đứa nhỏ đang rất cần sự giúp đỡ của tôi. Tôi đã được trao cơ hội thứ hai trong đời. Tôi đúng là một thằng khốn may mắn khi sống sót được đến nông nỗi này.”
 
-“Chúc ông may mắn,” anh chàng mặc áo Longhorns hùa theo.
+“Amen,” Miguel mỉm cười nói.
 
-“Cứ đi thẳng là về tới Boar’s Tooth Motel phải không?” PJ hỏi, dừng lại ở cửa.
+“Chúc ông may mắn nhé,” người đàn ông mặc áo Longhorns nói với theo.
 
-“Ừ,” Miguel nói. “Rẽ trái, rồi cứ đi thẳng mười ba dặm theo hướng đó.”
+“Cứ đi thẳng một mạch là về tới Boar’s Tooth Motel phải không?” PJ dừng lại ở cửa hỏi lại.
 
-“Tôi tưởng có chín dặm chứ.”
+“Đúng thế,” Miguel đáp. “Rẽ trái, rồi cứ đi thẳng mười ba dặm theo hướng đó.”
 
-“Từ đây đến đó là chín dặm,” Miguel nói. “Còn đường về là mười ba dặm.”
+“Tôi tưởng từ đó tới đây chỉ có chín dặm thôi chứ?”
 
-Điều đó chẳng có chút logic nào cả, nhưng PJ vẫn giơ ngón cái với cậu ta rồi bước ra cửa. Ông từng là một nhân viên phát thư; ông có thể đi bộ mười ba dặm.
+“Từ đó đến đây thì đúng là chín dặm,” Miguel cười nhe răng. “Nhưng chiều ngược lại để quay về thì phải là mười ba dặm.”
+
+Điều đó nghe chẳng có chút logic nào cả, nhưng PJ vẫn giơ ngón tay cái ra hiệu chào cậu ta rồi bước ra ngoài. Ông từng là một nhân viên bưu điện; ông thừa sức đi bộ mười ba dặm.

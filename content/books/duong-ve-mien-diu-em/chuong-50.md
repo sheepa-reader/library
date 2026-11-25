@@ -1,26 +1,24 @@
-*Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy*
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">39</h1>
 
-# Chương 39
-
-“H ắn trốn mất rồi!” Luna gào lên vào buổi sáng. “Sao đời nào mà hắn thoát ra được cơ chứ?” Cô bé nhìn xuống gầm giường. Còng số tám vẫn ở đó nhưng đã được mở khóa.
+“Ông ấy trốn mất rồi!” Luna gào lên vào buổi sáng. “Sao mà ông ấy thoát ra được cơ chứ?” Cô bé nhìn xuống gầm giường. Chiếc còng số tám vẫn nằm ở đó nhưng đã được mở khóa.
 
 “Chú mèo á?” Sophie vừa hỏi vừa dụi mắt. “Pancakes chạy mất à?”
 
-“Không, ông PJ cơ mà! Ông bố ngốc nghếch của chị ấy kìa! Làm sao mà ông ấy mở được còng tay thế?”
+“Không, ông PJ cơ mà! Ông bố ngốc nghếch của chị đấy! Làm sao mà ông ấy mở được còng tay thế?”
 
 Ollie nhún vai. “Chắc là phép thuật thôi,” cậu bé nói.
 
-“Thôi, chúng ta cứ đi mà không cần có ông ấy,” Luna nói. “Chốc nữa quay lại tìm cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”
+“Thôi, chúng ta cứ đi mà không cần ông ấy,” Luna nói. “Chốc nữa quay lại tìm sau cũng được. Chúng ta không thể lỡ buổi gặp gỡ giao lưu đâu.”
 
-“Để chị tìm quanh đây vài phút đã,” Sophie nói. Cô bước ra khỏi chiếc giường ngủ chung với lũ trẻ và nhìn ra ngoài cửa sổ. Chiếc Volvo màu đỏ vẫn ở đó, nằm yên vị trong bãi đỗ. Dù bố có đi đâu đi nữa, ông cũng đi bằng đôi chân của mình. Sophie thừa biết Luna nói đúng, có lẽ họ nên cứ đi mà không cần đợi ông. Bố cần phải bị trừng phạt, thực sự bị trừng phạt vì điều gì đó cho bõ tức. Nhưng cô không thể bỏ lại bố mình đằng sau được, dù ông đã làm gì đi nữa. Không thể bỏ mặc ông chết quách ở Purity Springs này. Mẹ đã nhờ Sophie chăm sóc bố khi mẹ vắng nhà rồi.
+“Để chị tìm quanh đây vài phút đã,” Sophie nói. Cô bước ra khỏi chiếc giường ngủ chung với lũ trẻ và nhìn ra ngoài cửa sổ. Chiếc Volvo màu đỏ vẫn ở đó, nằm yên vị trong bãi đỗ. Dù bố có đi đâu đi nữa, ông cũng đi bằng đôi chân của mình. Sophie thừa biết Luna nói đúng, có lẽ họ nên cứ đi mà không cần đợi ông. Bố cần phải bị trừng phạt, thực sự bị trừng phạt vì điều gì đó dù chỉ một lần. Nhưng cô không thể bỏ lại bố mình đằng sau được, dù ông đã làm gì đi nữa. Không thể bỏ mặc ông chết quách ở Purity Springs này. Mẹ đã nhờ Sophie chăm sóc bố khi mẹ vắng nhà rồi.
 
-“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Ông ấy mang theo cả chú mèo rồi.”
+“Ôi trời ơi. Cả Pancakes cũng biến mất rồi,” Luna vừa hoảng hốt lục tung dưới gầm giường, trong bồn tắm lẫn sau mấy chiếc gối vừa la lên. “Ông ấy mang theo chú mèo rồi.”
 
 Ollie thấy vô cùng mãn nguyện. Mọi chuyện đang diễn ra đúng như ý muốn. Giờ thì cậu bé không phải sống trong cái tủ quần áo ở một căn biệt thự nào nữa. Cậu bé cũng không phải thành món quà từ thiện của Mark Stackpole. Luna tuyệt đối sẽ không đời nào bỏ lại chú mèo, ngay cả khi chuẩn bị đi gặp gã đàn ông trên TV mà cô bé hằng mơ ước làm bố mình.
 
 Sophie nhìn thấy một mảnh giấy nằm trên tấm thảm gần cửa ra vào. Cô nhặt nó lên. Ở phía trên cùng, tiêu đề giấy ghi rõ: Lời nhắn từ nhân viên Boar’s Tooth Motel:
 
-Chú mèo của các người đang ở dưới văn phòng với tôi này, chú ấy đang bầu bạn với tôi đây. Bố các người đã đến quán rượu rồi. Ông ấy không muốn các người phải lo lắng đâu.
+Chú mèo của mọi người đang ở dưới văn phòng với tôi này, chú ấy đang bầu bạn với tôi đây. Bố các người đã đến quán rượu rồi. Ông ấy không muốn mọi người phải lo lắng đâu.
 
 Thân ái, Destiny, Quản lý văn phòng
 
@@ -42,7 +40,7 @@ Destiny đang ở trong văn phòng. Cô nàng diện một bộ đồ mới tin
 
 “Ồ chà. Thế thì khả năng cao là ông ấy đến quán rượu của Miguel rồi. Quán rượu The Half-Moon ấy.” Destiny quyết giấu nhẹm chuyện ông đã nhét cho cô hai trăm đô la để lái xe đưa đến đó. Destiny đâu có ngốc. “Cứ đi thẳng đường này, chín dặm sau khi rẽ phải khỏi bãi đỗ xe là tới. Tôi đoán kiểu gì ông ấy cũng la cà dọc đường đang đi bộ về thôi.”
 
-Hoặc đang nằm ngủ trên ghế đá hay dưới gốc cây nào đó đâu đây, Sophie thầm nghĩ, bởi đây đâu phải lần đầu cô phải trải qua cảnh này. Cô biết bố thích ngủ ở ngoài trời để tìm cách đến gần hơn với những gì đã xảy ra với Kate, như muốn cám dỗ tai họa ấy lặp lại trên chính thân mình. Chuyện đó thoạt nhìn gần như có chút gì đó đẹp đẽ, nếu như bạn không phải là kẻ phải đi tìm ông vào buổi sáng hôm sau. Nhưng hôm qua Sophie cứ đinh ninh rằng cuối cùng cô đã khuyên nhủ được bố thông suốt, rằng ông cần phải tập trung lo cho Ollie cùng Luna và tương lai của hai đứa trẻ thay vì cứ đắm chìm trong nỗi đau của chính mình. “Cảm ơn sự giúp đỡ của cô nhé,” Sophie nói với Destiny.
+Hoặc đang nằm ngủ trên ghế đá hay dưới gốc cây nào đó đâu đây, Sophie thầm nghĩ, bởi đây đâu phải lần đầu cô nếm trải cảnh này. Cô biết bố thích ngủ ở ngoài trời để tìm cách đến gần hơn với những gì đã xảy ra với Kate, như muốn cám dỗ tai họa ấy lặp lại trên chính thân mình. Chuyện đó thoạt nhìn gần như có chút gì đó đẹp đẽ, nếu như bạn không phải là kẻ phải đi tìm ông vào buổi sáng hôm sau. Nhưng hôm qua Sophie cứ đinh ninh rằng cuối cùng cô đã khuyên nhủ được bố thông suốt, rằng ông cần phải tập trung lo cho Ollie cùng Luna và tương lai của hai đứa trẻ thay vì cứ đắm chìm trong nỗi đau của chính mình. “Cảm ơn sự giúp đỡ của cô nhé,” Sophie nói với Destiny.
 
 Destiny chúc cô gặp nhiều may mắn.
 
@@ -56,7 +54,7 @@ Sophie kéo tay nắm cửa quán rượu nhưng cửa đã khóa. Cô và Luna 
 
 Luna dậm chân thình thịch vì tức giận. “Chúng ta phải đi ngay lập tức nếu muốn đến nơi đúng giờ.”
 
-“Chị xin lỗi,” Sophie nói, và cô thực sự thấy thế. “Chúng ta không thể bỏ mặc chú ấy.”
+“Chị xin lỗi,” Sophie nói, và cô thực sự thấy thế. “Chúng ta không thể bỏ mặc ông ấy.”
 
 “Em biết chứ. Em đâu có ngu ngốc.”
 
@@ -96,7 +94,7 @@ Luna đã mở tung cửa xe, lao đầu chạy thục mạng về phía khu r�
 
 “Ôi Chúa ơi!” Sophie tháo dây an toàn và đẩy cửa bước xuống. “Chú ấy nhảy ra khỏi xe á? Chuyện quái gì thế này?”
 
-“Nó muốn tự tử vì không có ông PJ,” Ollie nói. “Em phá hỏng mọi chuyện mất rồi.”
+“Chú ấy muốn tự tử vì không có ông PJ,” Ollie nói. “Em phá hỏng mọi chuyện mất rồi.”
 
 Chú mèo này lúc nào cũng nhảy qua cửa sổ. Chú mèo này lúc nào cũng tìm cách trốn thoát. Nhưng trước đây chú chưa từng nhảy ra khỏi một chiếc ô tô đang chuyển động bao giờ. Đây là lần đầu tiên. Thật may mắn làm sao, đoạn đường nông thôn này chẳng có chiếc xe nào khác qua lại. “Chúng ta sẽ tìm thấy chú ấy thôi,” Sophie bảo Ollie. Ollie đang sụt sùi khóc. “Nhìn kìa, Ollie. Chú ấy không sao đâu,” Sophie vừa nói vừa chỉ tay về phía trước. “Nhìn kìa, chú ấy ở ngay dưới kia kìa. Luna đã tóm được chú ấy rồi.”
 

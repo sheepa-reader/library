@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261125-05",
+    "timestamp": "2026-11-25T21:30:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm",
+    "type": "chapter_update",
+    "typeName": "Hoàn thiện QA & Tái xuất bản",
+    "badgeClass": "badge-chapter",
+    "title": "Cập nhật bản hoàn thiện QA & đồng bộ toàn diện Đường Về Miền Dịu Êm (The Road to Tender Hearts)",
+    "description": "Hoàn tất cập nhật và đồng bộ toàn diện bản dịch hoàn thiện sau biên tập QA tác phẩm Đường Về Miền Dịu Êm (The Road to Tender Hearts - Annie Hartnett): rà soát và chuẩn hóa trọn vẹn 68 chương tiếng Việt và song ngữ đối chiếu đoạn theo đoạn; đồng bộ chuẩn xác toàn bộ hệ thống audio highlight chạy theo câu cho 25 chương audio; căn giữa các tiêu đề số; cập nhật file EPUB tiếng Việt và song ngữ mới nhất cho độc giả tải về."
+  },
+  {
     "id": "log-20261125-04",
     "timestamp": "2026-11-25T17:45:00+07:00",
     "bookId": "giua-hai-ngon-lua",

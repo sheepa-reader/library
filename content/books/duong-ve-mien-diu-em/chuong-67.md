@@ -1,22 +1,20 @@
-*Phần III • Hai Tuần Tiếp Theo*
-
-# Chương 53
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">53</h1>
 
 Chiếc máy bay hạ cánh xuống Boston và PJ thấy thật ngạc nhiên khi việc bay ngang qua đất nước lại dễ dàng đến thế. PJ nói: “Từ giờ chắc đi đâu bố cũng đi máy bay thôi,” rồi Sophie đảo mắt ngán ngẩm.
 
 Họ tìm thấy Fred đang đợi ở khu nhận hành lý. Fred đã thuê một chiếc xe minivan. Fred nói: “Chỉ là xe thuê thôi. Nhưng tôi nghĩ chúng ta cần một chiếc minivan nếu trong nhà có trẻ con.”
 
-PJ nói: “Thật chu đáo đấy, Fred,” rồi ôm chầm lấy người bạn và hôn lên trán Fred. “Tôi nhớ anh quá, bạn già ạ.”
+PJ nói: “Thật chu đáo đấy, Fred,” rồi ôm chầm lấy người bạn và hôn lên trán Fred. “Tôi nhớ ông quá, bạn già ạ.”
 
-Fred rưng rưng nước mắt nói: “Tôi cũng nhớ anh. Mấy tháng qua thực sự quá vất vả.”
+Fred rưng rưng nước mắt nói: “Tôi cũng nhớ ông. Mấy tháng qua thực sự quá vất vả.”
 
-PJ nói: “Tôi hiểu mà,” rồi bất ngờ tự thốt lên: “Tôi không thể tưởng tượng nổi.” Không phải PJ không đủ khả năng tưởng tượng ra điều đó, mà ý ông thực sự là Tôi công nhận anh đã phải trải qua một khoảng thời gian vô cùng khó khăn. Tôi công nhận anh đã phải vắt kiệt sức lực nhiều hơn những gì anh từng nghĩ mình có, và tôi thực sự nể phục vì anh vẫn đang đứng vững. Nếu chuyện đó xảy ra với tôi, chắc tôi chẳng đứng nổi nữa đâu, thế mà nhìn anh xem, vẫn đang đứng kìa! Bằng chính đôi chân của mình!
+PJ nói: “Tôi hiểu mà,” rồi bất ngờ tự thốt lên: “Tôi không thể tưởng tượng nổi.” Không phải PJ không đủ khả năng tưởng tượng ra điều đó, mà ý ông thực sự là Tôi công nhận ông đã phải trải qua một khoảng thời gian vô cùng khó khăn. Tôi công nhận ông đã phải vắt kiệt sức lực nhiều hơn những gì ông từng nghĩ mình có, và tôi thực sự nể phục vì ông vẫn đang đứng vững. Nếu chuyện đó xảy ra với tôi, chắc tôi chẳng đứng nổi nữa đâu, thế mà nhìn ông xem, vẫn đang đứng kìa! Bằng chính đôi chân của mình!
 
 Trên đường về nhà bằng xe minivan, suốt một tiếng đồng hồ từ Boston về Pondville, lũ trẻ nói chuyện gần như suốt chặng đường. Chúng kể cho Fred nghe mọi thứ chúng nhìn thấy khi lái xe xuyên qua đất nước. Những chú lạc đà alpaca kêu vo vo, chiếc bánh nướng ngon nhất ở Kentucky, những chiếc bảng thông báo hài hước nhất, bảo tàng tượng sáp, bể bơi tại Tender Hearts. Fred ngạc nhiên vì bản thân cảm thấy phấn chấn hẳn lên nhờ lũ trẻ cùng những câu chuyện của chúng, sau ngần ấy tuần lễ chìm đắm trong sự tĩnh lặng và nỗi buồn sâu sắc.
 
 Khi đi vào Pondville, họ lái xe lướt qua những đầm lầy ở rìa thị trấn. PJ nhìn ra cửa sổ phía trước. Chào Pauly nhé, những khóm nam việt quất cất tiếng thì thầm. Vào thời điểm đầu mùa hè này, các cánh đồng nam việt quất được phủ kín bởi một thảm hoa hồng phơ phớt, trước khi những quả mọng nhỏ bằng đầu kim màu trắng xuất hiện, rồi chúng sẽ chuyển sang màu đỏ vào mùa thu, sau đó những người nông dân sẽ cho ngập nước các đầm lầy và người ta sẽ lái xe từ Boston đến để chiêm ngưỡng vẻ đẹp của những trái nam việt quất nổi bồng bềnh lên tận mặt nước.
 
-Ước gì, chiếc mũ trên đầu PJ cất lời. Thật khó chịu khi cứ phải nghe cái mũ lải nhải suốt ngày. Khi về đến nhà, PJ sẽ treo nó lại lên tay nắm cửa. Trở về đúng vị trí thuộc về nó, nơi Kate đã để lại.
+Ước gì... chiếc mũ trên đầu PJ cất lời. Thật khó chịu khi cứ phải nghe cái mũ lải nhải suốt ngày. Khi về đến nhà, PJ sẽ treo nó lại lên tay nắm cửa. Trở về đúng vị trí thuộc về nó, nơi Kate đã để lại.
 
 PJ tìm kiếm một tia chớp bạc của chiếc đuôi cá dưới những rãnh đầm lầy, nhưng mặt nước vẫn phẳng lặng như tờ. PJ nóng lòng muốn kể cho Ivy nghe rằng ông đã nhìn thấy nàng tiên cá. Nàng tiên cá mà ông đã tìm kiếm suốt cả cuộc đời, cuối cùng ông lại nhìn thấy cô ở những đầm lầy không thuộc về thế giới của cô. Nàng tiên cá mà mẹ ông từng kể cho nghe. Regina Halliday đã từng bơi cùng nàng tiên cá một lần, thả mình trôi truồng dưới làn nước sau khi trời tối. Mẹ đã kể với PJ rằng bà từng chạm vào mái tóc của nàng tiên cá, bảo rằng nó nhầy nhụa như rong biển. PJ vẫn tin vào câu chuyện đó.
 
@@ -48,7 +46,7 @@ Fred tấp xe vào đường lái vào nhà mình trên đường Clear Pond, ng
 
 Luna không chạy theo em trai; thay vào đó, cô bé cúi xuống mở khóa kéo lồng vận chuyển mèo để kiểm tra tình trạng của Pancakes sau khi ngấm thuốc an thần, rồi cô bé cố nhấc bế chú mèo lên, nhưng chú mèo đã hoàn toàn tỉnh táo, cảnh giác và nhảy phốc khỏi vòng tay cô bé, lách qua chân mọi người, chen qua người Fred lúc này đang mở cửa trước của ngôi nhà. Chú mèo là kẻ bước vào nhà đầu tiên.
 
-“Kể từ ngày tôi gặp chú mèo đó,” PJ nói, “chú ấy cứ luôn tìm cách lẻn vào nhà Fred. Chắc chú ấy biết chỗ nào có đồ ăn ngon.”
+“Kể từ ngày tôi gặp chú mèo đó,” PJ nói, “chú ấy cứ luôn tìm cách lẻn vào nhà ông. Chắc chú ấy biết chỗ nào có đồ ăn ngon.”
 
 Fred mỉm cười, mặc dù tủ đựng thức ăn của họ lúc này chẳng có gì ngoài không khí. Sẽ phải có ai đó đi mua sắm. Có lẽ PJ có thể làm việc đó.
 
@@ -59,6 +57,3 @@ Pancakes phi thẳng lên lầu, hướng về phòng ngủ chính, nơi Ivy đa
 Và rồi, thật kỳ lạ, khi chú mèo cuộn tròn người lại sát cơ thể mỏng manh của Ivy, bà chợt thấy khá hơn một chút. Được an tâm. Ấm áp. Bà vuốt ve chú mèo, và chú ấy bắt đầu gừ gừ.
 
 Bà đây rồi, Pancakes nghĩ. Ta tìm bà nãy giờ khắp nơi.
-
-
-![Hết truyện](images/end6.png)

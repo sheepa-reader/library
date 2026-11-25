@@ -1,10 +1,8 @@
-*Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy*
+<h1 class="chapter-num" style="text-align: center; margin-top: 1.5rem; margin-bottom: 2rem;">40</h1>
 
-# Chương 40
+PJ tỉnh giấc khi họ đang tiến gần đến điểm hẹn, đầu ông đau như búa bổ. Có một trạm xe buýt ngay bên ngoài cổng câu lạc bộ đồng quê, trên thành trạm dán một tờ rơi tìm mèo lạc. Nhìn mấy tờ rơi kiểu đó lúc nào cũng thấy buồn tê tái. Đau thắt cả ruột gan. Rồi chiếc Volvo lao qua những cánh cổng sắt của câu lạc bộ đồng quê, và chuyện con mèo lạc nhanh chóng bị gạt phăng khỏi trí óc.
 
-P J tỉnh giấc khi họ đang tiến đến điểm hẹn, đầu đau như búa bổ. Có một trạm xe buýt ngay bên ngoài cổng câu lạc bộ đồng quê, trên thành trạm dán một tờ rơi tìm mèo lạc. Trông mấy tờ rơi kiểu này lúc nào cũng buồn tê tái. Đau thắt cả ruột gan. Rồi chiếc Volvo lao qua những cánh cổng sắt của câu lạc bộ đồng quê, và chuyện con mèo lạc nhanh chóng bị gạt phăng đi.
-
-“Bố chết rồi lên thiên đàng hay sao ấy nhỉ?” PJ hỏi, nhìn ra ngoài cửa sổ. Bãi đậu xe đông nghịt phụ nữ, ai nấy đều trên bốn mươi tuổi, và tất cả bọn họ đều ăn diện như thể sắp sửa dự một đám cưới mùa hè. Cả đời PJ chưa từng thấy lắm họa tiết hoa hòe hoa sói đến thế, lắm đóa hoa rực rỡ đến thế, mỗi người phụ nữ trông như một khu vườn di động. PJ tự hỏi liệu có kịp tạt qua làm thêm một cuộc tình chớp nhoáng nữa trước khi họ tìm đến Michelle Cobb hay không. Mà thôi, nghĩ lại thì chắc là không, vì ôi trời ơi, đầu ông đau quá cơ. Họ đã đến được buổi giao lưu rồi, và PJ thậm chí còn chẳng chắc mình có nổi sức để bước ra khỏi xe nữa không. “Bố ở lại trên xe nghỉ ngơi đây,” ông nói. “Con đưa tụi nhỏ vào đi.”
+“Bố chết rồi được lên thiên đàng hay sao ấy nhỉ?” PJ hỏi, nhìn ra ngoài cửa sổ. Bãi đậu xe đông nghịt phụ nữ, ai nấy đều trên bốn mươi tuổi, và tất cả bọn họ đều ăn diện như thể sắp sửa dự một đám cưới mùa hè. Cả đời PJ chưa từng thấy lắm họa tiết hoa hòe hoa sói đến thế, lắm đóa hoa rực rỡ đến thế, mỗi người phụ nữ trông như một khu vườn di động. PJ tự hỏi liệu có kịp tạt qua làm thêm một cuộc tình chớp nhoáng nữa trước khi họ tìm đến Michelle Cobb hay không. Mà thôi, nghĩ lại thì chắc là không, vì ôi trời ơi, đầu ông đau quá cơ. Họ đã đến được buổi giao lưu rồi, và PJ thậm chí còn chẳng chắc mình có nổi sức để bước ra khỏi xe nữa không. “Bố ở lại trên xe nghỉ ngơi đây,” ông nói. “Con đưa tụi nhỏ vào đi.”
 
 “Bố thấy ổn không đấy?” Sophie hỏi. “Hay chúng ta đến bệnh viện luôn đi?” Sophie thầm nghĩ hay là cứ để tụi nhỏ ở đây rồi quay lại đón sau nhỉ.
 
@@ -12,25 +10,25 @@ P J tỉnh giấc khi họ đang tiến đến điểm hẹn, đầu đau như b
 
 “Đi thôi,” Luna nói.
 
-“Đi thôi,” Sophie đồng tình. Cô đang mang theo một bộ xét nghiệm ADN trong túi xách. Cô đã ghé mua nó ở một hiệu thuốc CVS dọc đường. Đó là bộ xét nghiệm ADN tại nhà, chỉ cần dùng tăm bông quệt bên trong má rồi gửi đến phòng thí nghiệm. Trên hộp có hình một người đàn ông đang ôm ấp một đứa trẻ.
+“Đi thôi,” Sophie đồng tình. Cô đang mang theo một bộ xét nghiệm ADN trong túi xách. Cô đã ghé mua nó ở một hiệu thuốc CVS dọc đường. Đó là bộ xét nghiệm ADN tại nhà, chỉ cần dùng tăm bông quệt bên trong má rồi gửi đến phòng thí nghiệm. Trên vỏ hộp in hình một người đàn ông đang âu yếm một em bé.
 
-Ollie miễn cưỡng bước theo Luna và Sophie. Cậu bé tự hỏi không biết lúc ngủ trong tủ quần áo thì mình có nổi chiếc giường nào không, hay chỉ là một chiếc chăn và cái gối dưới sàn nhà.
+Ollie miễn cưỡng bước theo Luna và Sophie. Cậu bé tự hỏi không biết lúc ngủ trong tủ quần áo thì mình có nổi chiếc giường nào không, hay chỉ là một chiếc chăn và cái gối đặt tạm dưới sàn nhà.
 
-Bàn đăng ký ở buổi giao lưu do những người phụ nữ đội mũ cao bồi lông xù màu hồng túc trực. Họ đang phát những gói bột protein dùng thử miễn phí, đúng loại mà Luna từng nhận được qua đường bưu điện. Ai nấy đều nhận được một túi quà lưu niệm, gồm những miếng dán cản xe với dòng chữ Bóp còi nếu bạn cuồng phim truyền hình dài tập! và kính râm màu đỏ hình trái tim, cùng vài thanh thịt bò khô đóng gói trong mỗi túi, được in nhãn riêng với dòng chữ Tôi ♥ Mấy Anh Chàng Vạm Vỡ . Họ đang phát nước tăng lực Vitamin Water. Mọi thứ đều do trang web Soaps.com tài trợ.
+Bàn đăng ký ở buổi giao lưu do những người phụ nữ đội mũ cao bồi lông xù màu hồng túc trực. Họ đang phát những gói bột protein dùng thử miễn phí, đúng loại mà Luna từng nhận được qua đường bưu điện. Ai nấy đều nhận được một túi quà lưu niệm, gồm những miếng dán cản xe với dòng chữ Bóp còi nếu bạn cuồng phim truyền hình dài tập! và kính râm màu đỏ hình trái tim, cùng vài thanh thịt bò khô đóng gói trong mỗi túi, được in nhãn riêng với dòng chữ Tôi ♥ Mấy Anh Chàng Vạm Vỡ. Họ đang phát nước tăng lực Vitamin Water. Mọi thứ đều do trang web Soaps.com tài trợ.
 
 “Xin lỗi cô,” Luna hỏi một trong những người phụ nữ đội mũ. “Bọn cháu có thể gặp các ngôi sao ở đâu ạ?”
 
 “Đó là Khu Vực Trai Đẹp,” người phụ nữ nọ đáp, chỉ tay về phía chiếc lều màu trắng nằm bên kia một cái ao nhỏ dọc theo lối đi. “Tất cả các diễn viên đều ở bên trong.”
 
-“Mấy anh chàng đẹp mã của chúng ta đúng là biết cách dựng lều ghê cơ,” một người đội mũ hồng khác lên tiếng, và có ai đó đét vào tay cô ta.
+“Mấy anh chàng đẹp mã của chúng ta đúng là biết cách dựng lều ghê cơ,” một người đội mũ hồng khác tếu táo lên tiếng, và có ai đó đét vào tay cô ta.
 
 “Ôi giồi ôi, Elvira, cậu hư quá đấy!”
 
 “Đừng có nói thế trước mặt lũ trẻ chứ!” Tất cả khúc khích cười. Bọn họ chẳng bao giờ thấy đủ cả. Họ đã ngóng chờ ngày này suốt cả năm trời. Sự kiện của năm ngoái đã thành công vang dội đến thế cơ mà.
 
-“Chào cô bé, cháu là fan của bộ phim General Hospital à?” Elvira hỏi Luna. “Hay phim Invitation to Love ?”
+“Chào cô bé, cháu là fan của bộ phim General Hospital à?” Elvira hỏi Luna. “Hay phim Invitation to Love?”
 
-“ Nước Mắt Của Người Giàu, ” Luna đáp. “Bố cháu là Mark Stackpole. Hôm nay cháu đến để gây bất ngờ cho chú ấy.”
+“Nước Mắt Của Người Giàu,” Luna đáp. “Bố cháu là Mark Stackpole. Hôm nay cháu đến để tạo bất ngờ cho bố.”
 
 “Cháu là em trai chị ấy,” Ollie lên tiếng, muốn được góp mặt.
 
@@ -44,7 +42,7 @@ Sophie đỏ bừng mặt. “Không, tôi không phải mẹ của tụi nhỏ.
 
 “Làm gì có đoàn nào,” Luna nói. “Bọn cháu lái xe một mạch từ Massachusetts đến đây cơ mà.”
 
-“Massachusetts á?” một người phụ nữ khác hỏi. Trên bảng tên dán áo của cô ta đề chữ Betsy . “Xa thế cơ à.”
+“Massachusetts á?” một người phụ nữ khác hỏi. Trên bảng tên dán áo của cô ta đề chữ Betsy. “Xa thế cơ à.”
 
 “Bố mẹ bọn cháu vừa mới qua đời,” Ollie giải thích. “Đây là chuyến đi chơi xa cùng ông chú họ. Nhưng tối qua ông ấy bị xe tông nên đang nằm nghỉ với chú mèo rồi.”
 
@@ -52,7 +50,7 @@ Sophie đỏ bừng mặt. “Không, tôi không phải mẹ của tụi nhỏ.
 
 “Không, không đâu ạ,” Sophie nói. “Tôi hứa đấy, chúng tôi có mang theo máy quay nào đâu. Chúng tôi chỉ muốn gặp Mark Stackpole thôi. Chúng tôi sẽ không gây rắc rối gì đâu.”
 
-“Được rồi,” Elvira nói, chẳng tin nổi một chữ nào trong cái điệp khúc không-rắc rối vớ vẩn đó. Năm nào buổi tiệc trưa Gặp gỡ Trai đẹp cũng có chuyện rắc rối xảy ra, nhưng lượng người xem của tất cả các bộ phim truyền hình dài tập luôn tăng vọt trong ba tháng sau đó. Các nhà điều hành truyền hình nhận ra rằng khán giả thích nhìn thấy trên TV những người từng gặp ngoài đời thực. Điều đó tạo ra một sự thân thiết giả tạo, khiến họ cảm thấy như thể mình đang ngắm nhìn một người bạn thân trên màn ảnh. Về phần mình, với tư cách là một tình nguyện viên, Elvira rất mong có rắc rối. Chuyện đó mang lại cho cô ấy một câu chuyện hay để kể suốt thời gian còn lại trong năm trong mọi bữa tiệc tối. Năm ngoái, một phụ nữ đã cắn một trong số các Trai đẹp vì anh ta trông quá ngon lành. Cụ thể thì chàng Trai đẹp đó từ chối quay lại vào năm nay, thế nên họ đã thuê một nam diễn viên mới để thay thế, nhưng dù sao thì việc thay đổi nhân sự từ năm này sang năm khác cũng rất thú vị. “Máu mới,” ban tổ chức đã nói đùa như vậy.
+“Được rồi,” Elvira nói, chẳng tin nổi một chữ nào trong cái điệp khúc không-rắc-rối vớ vẩn đó. Năm nào buổi tiệc trưa Gặp gỡ Trai đẹp cũng có chuyện rắc rối xảy ra, nhưng lượng người xem của tất cả các bộ phim truyền hình dài tập luôn tăng vọt trong ba tháng sau đó. Các nhà điều hành truyền hình nhận ra rằng khán giả thích nhìn thấy trên TV những người từng gặp ngoài đời thực. Điều đó tạo ra một sự thân thiết giả tạo, khiến họ cảm thấy như thể mình đang ngắm nhìn một người bạn thân trên màn ảnh. Về phần mình, với tư cách là một tình nguyện viên, Elvira rất mong có rắc rối. Chuyện đó mang lại cho cô ấy một câu chuyện hay để kể suốt thời gian còn lại trong năm trong mọi bữa tiệc tối. Năm ngoái, một phụ nữ đã cắn một trong số các Trai đẹp vì anh ta trông quá ngon lành. Cụ thể thì chàng Trai đẹp đó từ chối quay lại vào năm nay, thế nên họ đã thuê một nam diễn viên mới để thay thế, nhưng dù sao thì việc thay đổi nhân sự từ năm này sang năm khác cũng rất thú vị. “Máu mới,” ban tổ chức đã nói đùa như vậy.
 
 “Hãy đi gặp Mark Stackpole ở cái lều dọc theo con đường kia kìa,” Elvira chỉ dẫn cho lũ trẻ và cô bảo mẫu của chúng, những đứa trẻ duy nhất cô ấy từng thấy đến buổi giao lưu Trai đẹp trong suốt bảy năm làm tình nguyện viên.
 
@@ -80,7 +78,7 @@ Trong khi Sophie và lũ trẻ đang xếp hàng bên trong chiếc lều trắn
 
 Nhưng dĩ nhiên, ông chẳng thể trách cô được. PJ tự nhìn nhận bản thân mình đủ rõ để hiểu điều đó. Thế nên, vì trong xe không có điều hòa, lại thêm cái nóng oi bức của tháng Sáu ở Texas, ông quyết định dắt chú mèo Pancakes đi dạo bằng dây xích, hai bác cháu sẽ đi dạo một vòng. Đầu ông vẫn còn đau, nhưng ông cảm thấy đủ vững vàng để bước đi, và đôi khi đi bộ giúp xua đi cơn đau. Họ bắt đầu đi một vòng quanh sân golf.
 
-Phía trước, PJ nhìn thấy một cái ao nhỏ, nơi một con cá sấu khổng lồ đang nằm phơi nắng. Khi ngửi thấy mùi của chú mèo Pancakes và mùi máu rỉ ra từ vết thương hở trên đầu PJ, nó liền mở mắt. Đôi mắt vàng rực, mắt loài bò sát, với một đường xẻ đen sì ở giữa. Nó bước một bước về phía PJ và chú mèo Pancakes. PJ ôm xốc lấy chú mèo Pancakes. Bằng mọi giá, ông phải bảo vệ chú mèo này. “Biến đi,” PJ bảo con cá sấu. “Biến mau!”
+Phía trước, PJ nhìn thấy một cái ao nhỏ, nơi một con cá sấu khổng lồ đang nằm phơi nắng. Khi ngửi thấy mùi của chú mèo Pancakes và mùi máu rỉ ra từ vết thương hở trên đầu PJ, nó liền mở mắt. Đôi mắt vàng rực, mắt loài bò sát, với một đường xẻ đen sì ở giữa. Nó bước một bước về phía PJ và chú mèo Pancakes. PJ bế xốc Pancakes lên. Bằng mọi giá, ông phải bảo vệ chú mèo này. “Xéo đi,” ông bảo con cá sấu. “Xéo mau!”
 
 Con cá sấu mở to miệng như thể sắp cười, nhưng nó cũng quay cái đầu thằn lằn khổng lồ đi chỗ khác rồi bò mất dạng.
 
