@@ -8,27 +8,27 @@ Gã thừa biết cô đang yêu gã, đã yêu từ ngay lần đầu tiên cô
 
 Chà, không hiểu sao, cô lại chẳng thể khơi gợi được cảm xúc trong gã. Phải chăng gã sợ hãi việc kết hôn, việc chôn chân một chỗ và sự chung thủy một vợ một chồng? Hay đơn giản là vì cô cần được đánh thức? Nhưng làm sao gã có thể đánh thức cô khi lão bố vợ tương lai cứ liên tục ngáng đường?
 
-Mỗi lần gã đến chơi, lão Benham lại khăng khăng ngồi lỳ trong phòng khách. Ngoài giờ làm việc ra, lão là một ngoại đạo thích bàn chuyện tôn giáo và rất khoái khoe khoang về điều đó. Ngay khoảnh khắc Elmer, được cây đàn piano che khuất, đang định nắm lấy tay Cleo, lão Benham lại lầm lũi bước tới và cất giọng eo éo: “Ý anh thế nào, thưa Sư huynh? Anh tin rằng ơn cứu rỗi đến từ đức tin hay từ việc làm?”
+Mỗi lần gã đến chơi, lão Benham lại khăng khăng ngồi lỳ trong phòng khách. Ngoài giờ làm việc ra, lão là một người nghiệp dư thích bàn chuyện tôn giáo và rất khoái khoe khoang về điều đó. Ngay khoảnh khắc Elmer, được cây đàn piano che khuất, đang định nắm lấy tay Cleo, lão Benham lại lầm lũi bước tới và cất giọng eo éo: “Ý anh thế nào, thưa Sư huynh? Anh tin rằng ơn cứu rỗi đến từ đức tin hay từ việc làm?”
 
 Elmer liền giảng giải rành mạch mọi chuyện, trong bụng thì thầm rủa: “Đồ quỷ sứ nhà ông, với cái cửa hàng chuyên chặt chém thiên hạ đấy, tốt nhất là ông nên dựa vào đức tin để lên Thiên Đàng đi, vì Chúa thừa biết chẳng đời nào ông bén mảng tới đó bằng việc làm đâu!”
 
 Và khi Elmer định chuồn ra bếp cùng cô để pha nước chanh, lão Benham lại níu chân gã bằng câu hỏi: “Anh nghĩ thế nào về giáo lý sự trọn vẹn của John Wesley?”
 
-Elmer đành đáp: “Ồ, nó hoàn toàn chuẩn xác và đã được minh chứng,” trong khi trong đầu tự hỏi quỷ sứ nào mà biết cái giáo lý về sự trọn vẹn của lão Wesley kia ra sao.
+Elmer đành đáp: “Ồ, nó hoàn toàn chuẩn xác và đã được minh chứng,” trong khi trong đầu tự hỏi quỷ sứ nào mà biết cái giáo lý về sự trọn vẹn của Mục sư Wesley kia ra sao.
 
-Rất có thể sự hiện diện của hai ông bà Benham, vốn ngăn cản sự tiếp xúc quá gần gũi với Cleo, đã khiến Elmer không nhận ra ý nghĩa thực sự đằng sau việc gã chẳng hề tha thiết khao khát ôm ấp cô. Gã biến sự thiếu thốn khao khát ấy thành một thứ đạo đức giả hiệu, tự nhủ rằng bản thân quả thực là một con người đã cải tạo và hoàn thiện rồi cứ thế đi về nhà, lảng vảng quanh khu bếp và tán gẫu với cô bé Jane Clark bằng giọng điệu trêu đùa của mục sư.
+Rất có thể sự hiện diện của hai ông bà Benham, vốn ngăn cản sự tiếp xúc quá gần gũi với Cleo, đã khiến Elmer không nhận ra ý nghĩa thực sự đằng sau việc gã chẳng hề tha thiết khao khát ôm ấp cô. Gã biến sự thiếu thốn khao khát ấy thành một thứ đạo đức giả hiệu, tự nhủ rằng bản thân quả thực là một con người đã cải tạo và hoàn thiện... rồi cứ thế đi về nhà, lảng vảng quanh khu bếp, tán gẫu với cô bé Jane Clark bằng giọng điệu trêu đùa của mục sư.
 
 Ngay cả khi chỉ có hai người với Cleo, lúc cô lái chiếc xe hơi kiêu kỳ của gia đình Benham chở gã đi thăm mục vụ ở vùng quê, ngay cả khi gã đang bô bô tự nhủ cô xinh đẹp nhường nào, gã vẫn chưa bao giờ thực sự tự nhiên khi ở bên cô.
 
 ### II
 
-Gã đến thăm vào một buổi tối cuối tháng Mười; hôm ấy có buổi sinh hoạt hội Ngôi sao Phương Đông nên cả bố mẹ cô đều vắng nhà. Trông cô ủ rũ với đôi mắt đỏ hoe. Elmer cười vang đầy nhân ái khi họ đứng ở cửa phòng khách: “Ơ kìa, Sơ Cleo, có chuyện gì thế? Trông cô có vẻ buồn bã vậy.”
+Gã đến thăm vào một buổi tối cuối tháng Mười Một, hôm ấy có buổi sinh hoạt hội Ngôi sao Phương Đông nên cả bố mẹ cô đều vắng nhà. Trông cô ủ rũ với đôi mắt đỏ hoe. Elmer cười vang đầy nhân ái khi họ đứng ở cửa phòng khách: “Ơ kìa, Sơ Cleo, có chuyện gì thế? Trông cô có vẻ buồn bã vậy.”
 
 “Ồ, có gì đâu...”
 
 “Nào, nói đi chứ! Kể cho tôi nghe xem nào! Tôi sẽ cầu nguyện cho cô, hoặc tẩn cho đứa nào một trận, tùy cô chọn đấy!”
 
-“Ồ, em nghĩ anh không nên đùa cợt về chuyện... Dù sao thì thực ra cũng chẳng có gì đâu.”
+“Ồ, em nghĩ anh không nên đùa cợt về... Dù sao thì thực ra cũng chẳng có gì đâu.”
 
 Cô đang cúi dán mắt xuống sàn nhà. Elmer cảm thấy vô cùng phấn chấn và chiếm ưu thế, thấy mình mạnh mẽ hơn cô đến xiết bao. Gã dùng ngón tay trỏ nâng cằm cô lên, ép buộc: “Bây giờ thì nhìn thẳng vào tôi xem nào!”
 
@@ -36,7 +36,7 @@ Trong đôi mắt trần trụi của cô hiện lên một nỗi khao khát đ�
 
 Khi cô ngồi lên đùi gã, khi cô mềm nhũn nép vào người gã không chút kháng cự, gã tin chắc rằng cô vô cùng xinh đẹp và hoàn toàn đáng khao khát.
 
-Vợ chồng Benham trở về nhà, bà Benham sung sướng khóc nghẹn vì lễ đính hôn, còn ông Benham thì liên tục vỗ vai bốp chát và tung ra những câu trêu chọc kiểu như: “Chà, phen này thì tao có một ông mục sư bằng xương bằng thịt hẳn hoi trong nhà rồi, chắc tao phải sống thật thà đến mức cái cửa hàng chẳng kiếm chác được gì nữa quá!”
+Vợ chồng Benham trở về nhà, bà Benham sung sướng khóc nghẹn vì lễ đính hôn, còn ông Benham thì liên tục vỗ vai bốp chát và tung ra những câu trêu chọc kiểu như: “Chà, phen này thì tôi có một ông mục sư bằng xương bằng thịt hẳn hoi trong nhà rồi, chắc tôi phải sống thật thà đến mức cái cửa hàng chẳng kiếm chác được gì nữa quá!”
 
 ### III
 
@@ -44,73 +44,73 @@ Mẹ Elmer từ Bang Kansas đến dự đám cưới vào tháng Giêng. Niềm
 
 Có sự hiện diện của mẹ, với một Cleo đang ngập tràn trong sự phấn khích đỏ hồng cả mặt, với bà Benham tất bật đóng vai người mẹ chu toàn cho tất cả mọi người và đầu tắt mặt tối trong bếp, cùng ông Benham kéo Elmer ra hiên sau rồi trao tận tay một tấm séc trị giá năm nghìn đô-la, Elmer bỗng có cảm giác mình thực sự có một gia đình, có cội rễ, vững chãi và an toàn.
 
-Đám cưới có hàng chục chiếc bánh dừa, hàng trăm bông hoa cam, những đóa hồng từ một tiệm hoa thành phố chính hiệu ở Sparta, những bức ảnh mới tinh cho cuốn album gia đình, một thùng punch hoàn toàn không cồn cùng những món đồ lót đẹp đẽ nhưng kín đáo dành cho Cleo. Mọi thứ thật hoành tráng. Nhưng Elmer lại hơi chạnh lòng vì chẳng có lấy một ai mà Elmer muốn chọn làm phù rể, chẳng có nổi một người bạn nào gắn bó với Elmer kể từ thời Jim Lefferts.
+Đám cưới có hàng chục chiếc bánh dừa, hàng trăm bông hoa cam, những đóa hồng từ một tiệm hoa thành phố chính hiệu ở Sparta, những bức ảnh mới tinh cho cuốn album gia đình, một thùng punch hoàn toàn không cồn cùng những món đồ lót đẹp đẽ nhưng kín đáo dành cho Cleo. Mọi thứ thật hoành tráng. Nhưng Elmer lại hơi chạnh lòng vì chẳng có lấy một ai mà gã muốn chọn làm phù rể, chẳng có nổi một người bạn nào gắn bó với gã kể từ thời Jim Lefferts.
 
-Elmer đành nhờ Ray Faucett, thợ làm bơ ở xưởng sữa đồng thời là ca sĩ trong đội hợp xướng của nhà thờ, và cả ngôi làng cảm thấy vô cùng hãnh diện khi biết rằng trong hàng trăm mối thân tình mà Elmer chắc chắn phải có ở thế giới rộng lớn ngoài kia, Elmer lại chọn đúng một cậu thanh niên của làng mình.
+Gã đành nhờ Ray Faucett, thợ làm bơ ở xưởng sữa đồng thời là ca sĩ trong đội hợp xướng của nhà thờ, và cả ngôi làng cảm thấy vô cùng hãnh diện khi biết rằng trong hàng trăm mối thân tình mà Elmer chắc chắn phải có ở thế giới rộng lớn ngoài kia, gã lại chọn đúng một cậu thanh niên của làng mình.
 
 Họ kết hôn dưới một trận bão tuyết lất phất, do vị giám thị quận chủ trì. Cả hai lên chuyến tàu đi Thành phố Zenith, nghỉ qua đêm ở đó trước khi tiếp tục hành trình đến Chicago.
 
-Mãi cho đến lúc lên tàu, khi những tiếng hô hò và màn tung gạo chúc phúc đã lùi lại phía sau, Elmer mới giật mình thở dốc, nhìn nụ cười có phần bất biến của Cleo Benham rồi thầm nghĩ: “Ối chà, lạy Chúa nhân từ, mình tự trói buộc đời mình mất rồi, và từ nay mình chẳng còn được vui thú gì nữa!”
+Mãi cho đến lúc lên tàu, khi những tiếng hô hò và màn tung gạo chúc phúc đã lùi lại phía sau, Elmer mới giật mình thở dốc, nhìn nụ cười có phần bất biến của Cleo rồi thầm nghĩ: “Ối chà, lạy Chúa nhân từ, mình tự trói buộc đời mình mất rồi, và từ nay mình chẳng còn được vui thú gì nữa!”
 
-Nhưng gã vẫn tỏ ra rất nam tính, thậm chí rất lịch thiệp; gã che giấu sự chán ghét đối với Cleo và giải khuây cho Cleo bằng cách kể về những nét đẹp trong thơ ca của Longfellow.
+Nhưng gã vẫn tỏ ra rất nam tính, thậm chí rất lịch thiệp; gã che giấu sự chán ghét đối với Cleo và giải khuây cho cô bằng cách kể về những nét đẹp trong thơ ca của Longfellow.
 
 ### IV
 
-Cleo Benham trông có vẻ mệt mỏi, và khi chuyến hành trình dần khép lại giữa buổi chiều mùa đông với gió lùa hoang vắng, Cleo dường như hầu như chẳng buồn lắng nghe những lời gã huyên thuyên về các bài học Trường Chúa nhật phân theo cấp lớp, cách chữa chai chân, những chiến tích của gã trong các buổi nhóm họp của Sơ Falconer, hay sự kém cỏi của Mục sư Clyde Tippey.
+Cleo trông có vẻ mệt mỏi, và khi chuyến hành trình dần khép lại giữa buổi chiều mùa đông với gió lùa hoang vắng, cô dường như hầu như chẳng buồn lắng nghe những lời gã huyên thuyên về các bài học Trường Chúa nhật phân theo cấp lớp, cách chữa chai chân, những chiến tích của gã trong các buổi nhóm họp của Sơ Falconer, hay sự kém cỏi của Mục sư Clyde Tippey.
 
-“Này, ít ra cô cũng phải chú ý đến tôi một chút chứ!” Elmer gắt lên.
+“Này, ít ra em cũng phải chú ý đến anh một chút chứ!” gã gắt lên.
 
 “Ối, em xin lỗi! Thật sự là em vẫn đang chú ý mà. Chỉ là em mệt thôi, bao nhiêu việc chuẩn bị cho đám cưới và đủ thứ chuyện.”
 
-Cleo Benham nhìn gã bằng ánh mắt cầu khẩn. “Ôi, Elmer, anh phải chăm sóc em đấy nhé! Em đang hiến dâng trọn vẹn cuộc đời mình cho anh... hoàn toàn trọn vẹn đấy.”
+Cô nhìn gã bằng ánh mắt cầu khẩn. “Ôi, Elmer, anh phải chăm sóc em đấy nhé! Em đang hiến dâng trọn vẹn cuộc đời mình cho anh... hoàn toàn trọn vẹn đấy.”
 
-“Hừ! Thế ra cô coi việc lấy tôi là một sự hy sinh cơ à!”
+“Hừ! Thế ra em coi việc lấy anh là một sự hy sinh cơ à!”
 
 “Ối, không, ý em không phải thế...”
 
-“Và chắc là cô nghĩ tôi không có ý định chăm sóc cô chắc! Chắc chắn thế rồi! Chắc là tôi hay la cà chơi bài bạc, đỏ đen, chè chén và lăng nhăng đuổi theo đàn bà suốt đêm quá! Dĩ nhiên rồi! Tôi đâu phải là một mục sư rao giảng phúc âm, tôi là chủ quán rượu cơ mà!”
+“Và chắc là em nghĩ anh không có ý định chăm sóc em chắc! Chắc chắn thế rồi! Chắc là anh hay la cà chơi bài bạc, đỏ đen, chè chén và lăng nhăng đuổi theo đàn bà suốt đêm quá! Dĩ nhiên rồi! Anh đâu phải là một mục sư rao giảng phúc âm, anh là chủ quán rượu cơ mà!”
 
 “Ôi trời ơi, ôi trời ơi, ôi người yêu dấu của em, em không có ý làm tổn thương anh! Ý em chỉ là... Anh vừa khỏe mạnh lại vừa to lớn, còn em... ôi, tất nhiên là em không phải một đứa bé tí tẹo, nhưng em không có được sức vóc như anh.”
 
 Elmer rất tận hưởng cảm giác thấy mình bị tổn thương, nhưng gã tự cảnh cáo bản thân: “Câm cái mồm lại đi, đồ ngốc! Mình sẽ chẳng bao giờ dạy khôn nổi cô ta để mà ân ái nếu cứ lớn tiếng mắng mỏ người ta như thế.”
 
-Gã ra điều rộng lượng an ủi Cleo: “Ôi, anh biết rồi. Dĩ nhiên là thế, tội nghiệp em yêu của anh. Mà cũng ngốc thật, tại mẹ em cứ thích bày vẽ cái đám cưới to tát này, rồi nào đồ ăn thức uống với họ hàng kéo đến đủ kiểu.”
+Gã ra điều rộng lượng an ủi cô: “Ôi, anh biết rồi. Dĩ nhiên là thế, tội nghiệp em yêu của anh. Mà cũng ngốc thật, tại mẹ em cứ thích bày vẽ cái đám cưới to tát này, rồi nào đồ ăn thức uống với họ hàng kéo đến đủ kiểu.”
 
-Dù vậy, Cleo trông vẫn có vẻ rầu rĩ.
+Dù vậy, cô trông vẫn có vẻ rầu rĩ.
 
-Nhưng Elmer vỗ về bàn tay cô, nói về ngôi nhà nhỏ mà họ sắp sửa sắm sửa đồ đạc ở Banjo Crossing; và khi nghĩ đến Thành phố Zenith đang đến gần, đến căn phòng của họ ở Khách sạn O’Hearn House (lần này chẳng cần phải thuê cả một dãy phòng như trước kia, khi gã còn phải tạo ấn tượng với các học viên Lớp học Thịnh vượng), gã trở nên nồng nhiệt hơn, thì thầm vào tai cô rằng cô rất xinh đẹp, vuốt ve cánh tay cô cho đến khi cô run lên.
+Nhưng gã vỗ về bàn tay cô, nói về ngôi nhà nhỏ mà họ sắp sửa sắm sửa đồ đạc ở Banjo Crossing; và khi nghĩ đến Thành phố Zenith đang đến gần, đến căn phòng của họ ở Khách sạn O’Hearn House (lần này chẳng cần phải thuê cả một dãy phòng như trước kia, khi gã còn phải tạo ấn tượng với các học viên Lớp học Thịnh vượng), gã trở nên nồng nhiệt hơn, thì thầm vào tai cô rằng cô rất xinh đẹp, vuốt ve cánh tay cô cho đến khi cô run lên.
 
 ### V
 
-Cậu nhân viên khuân vác vừa đóng cánh cửa phòng có chiếc giường đôi lại, Elmer đã chộp lấy Cleo Benham, giật phăng chiếc áo khoác với phần cổ áo còn ướt tuyết rồi quăng thẳng xuống sàn. Gã hôn lên cổ cô. Khi gã vừa nới lỏng vòng tay, Cleo Benham liền lùi lại, mu bàn tay run rẩy che lên môi, giọng hoảng sợ nài nỉ: “Ôi, đừng! Đừng lúc này! Em sợ lắm!”
+Cậu nhân viên khuân vác vừa đóng cánh cửa phòng có chiếc giường đôi lại, Elmer đã chộp lấy Cleo, giật phăng chiếc áo khoác với phần cổ áo còn ướt tuyết rồi quăng thẳng xuống sàn. Gã hôn lên cổ cô. Khi gã vừa nới lỏng vòng tay, cô liền lùi lại, mu bàn tay run rẩy che lên môi, giọng hoảng sợ nài nỉ: “Ôi, đừng! Đừng lúc này! Em sợ lắm!”
 
-“Thật là nhảm nhí hết chỗ nói!” Elmer gầm lên, tiến lại chèn ép khi cô lùi dần về phía sau.
+“Thật là nhảm nhí hết chỗ nói!” gã gầm lên, tiến lại chèn ép khi cô lùi dần về phía sau.
 
 “Ôi, không, xin anh!”
 
-“Này, quỷ tha ma bắt thế cô nghĩ hôn nhân là cái gì hả?”
+“Này, quỷ tha ma bắt thế em nghĩ hôn nhân là cái gì hả?”
 
 “Ôi, chưa bao giờ em nghe thấy anh chửi thề!”
 
-“Lạy Chúa tôi, tôi sẽ chẳng bao giờ thề thốt nếu cô không cư xử kiểu làm thử thách sự kiên nhẫn của một vị thánh trên đài tưởng niệm!” Gã tự kìm chế lại. “Thôi nào, thôi nào, thôi nào! Anh xin lỗi! Chắc là anh cũng hơi mệt đấy. Thôi nào, cô bé ngoan. Anh không có ý làm em sợ đâu. Tha lỗi cho anh nhé. Chỉ là anh chứng tỏ anh phát cuồng vì em thôi, cô không thấy thế à?”
+“Lạy Chúa tôi, anh sẽ chẳng bao giờ thề thốt nếu em không cư xử kiểu thử thách sự kiên nhẫn của một vị thánh trên đài tưởng niệm!” Gã tự kìm chế lại. “Thôi nào, thôi nào, thôi nào! Anh xin lỗi! Chắc là anh cũng hơi mệt đấy. Thôi nào, cô bé ngoan. Anh không có ý làm em sợ đâu. Tha lỗi cho anh nhé. Chỉ là anh chứng tỏ anh phát cuồng vì em thôi, em không thấy thế à?”
 
-Trước nụ cười nhếch mép mang vẻ bề trên và đậm chất tông đồ của gã, Cleo Benham đáp lại bằng một nụ cười yếu ớt, và Elmer lại chộp lấy cô, đặt bàn tay to bè lên ngực cô. Giữa những cái ôm siết dài, dẫu cơn giận vì sự mềm oặt của cô đang dâng lên, gã vẫn cố khích lệ cô bằng cách quát lớn: “Nào, Clee, tỏ ra có khí phách một chút xem nào!”
+Trước nụ cười nhếch mép mang vẻ bề trên và đậm chất tông đồ của gã, Cleo đáp lại bằng một nụ cười yếu ớt, và Elmer lại chộp lấy cô, đặt bàn tay to bè lên ngực cô. Giữa những cái ôm siết dài, dẫu cơn giận vì sự mềm oặt của cô đang dâng lên, gã vẫn cố khích lệ cô bằng cách quát lớn: “Nào, Clee, tỏ ra có khí phách một chút xem nào!”
 
 Cô không còn cự tuyệt gã nữa; cô chỉ là một khối phục tùng tái nhợt, ngoại trừ lúc đỏ bừng mặt mũi vì tủi hổ khi gã chế giễu chiếc áo ngủ dài tay lỗi thời mà cô rụt rè mặc vào trong chốn riêng tư chẳng mấy thoải mái ở phòng tắm.
 
-“Trời ạ, cô mặc luôn một chiếc bao bố cho rồi!” Elmer gầm lên, dang rộng vòng tay. Cleo Benham cố ra vẻ tự tin khi chậm rãi bước về phía gã. Nhưng cô chẳng thể làm được.
+“Trời ạ, em mặc luôn một chiếc bao bố cho rồi!” gã gầm lên, dang rộng vòng tay. Cleo cố ra vẻ tự tin khi chậm rãi bước về phía gã. Nhưng cô chẳng thể làm được.
 
 “Đôi khi đàn ông cứ phải tàn nhẫn một chút, cũng chỉ vì lợi ích của cô ta thôi,” gã tự nhủ rồi túm lấy đôi vai cô.
 
 Đến khi thức giấc bên cạnh cô và phát hiện cô đang khóc, Elmer thực sự phải lên tiếng dạy bảo cô một trận.
 
-“Cô nhìn lại mình xem nào! Việc cô là vợ một mục sư không có nghĩa là cô không còn là con người nữa nhé! Cô hay ho thật đấy khi đi dạy dỗ lũ trẻ con ở Trường Chúa nhật!” gã nói, kèm theo vô số lời lẽ đanh thép khác, trong khi cô khóc nức nở, mái tóc xõa xòa quanh khuôn mặt hiền lành mà gã lấy làm ghét cay ghét đắng.
+“Em nhìn lại mình xem nào! Việc em là vợ một mục sư không có nghĩa là em không còn là con người nữa nhé! Em hay ho thật đấy khi đi dạy dỗ lũ trẻ con ở Trường Chúa nhật!” gã nói, kèm theo vô số lời lẽ đanh thép khác, trong khi cô khóc nức nở, mái tóc xõa xòa quanh khuôn mặt hiền lành mà gã lấy làm ghét cay ghét đắng.
 
 ### VI
 
-Việc phát hiện ra Cleo Benham chẳng bao giờ trở thành một người tình nồng nhiệt lại càng đẩy Elmer dấn thân sâu hơn vào con đường danh vọng sau khi họ trở về Banjo Crossing.
+Việc phát hiện ra Cleo chẳng bao giờ trở thành một người tình nồng nhiệt lại càng đẩy Elmer dấn thân sâu hơn vào con đường danh vọng sau khi họ trở về Banjo Crossing.
 
-Cleo Benham, dẫu không ngừng hoang mang trước những cơn cuồng nộ của gã, vẫn tìm thấy niềm hạnh phúc nhất định trong việc sắm sửa ngôi nhà nhỏ, sắp xếp mấy giá sách cho gã, sùng bái tài hùng biện trên bục giảng của chồng, và được đón nhận sự kính trọng từ chính những người bạn cũ với tư cách là Vợ Mục sư. Elmer đã có thể quên đi cô, và toàn bộ tâm trí gã dồn hết vào công cuộc leo cao chót vót trên đường thánh thiện. Gã vô cùng mong chờ Hội nghị Thường niên diễn ra vào mùa xuân; gã phải tiến lên, tới một thị trấn lớn hơn, một nhà thờ lớn hơn.
+Cleo, dẫu không ngừng hoang mang trước những cơn cuồng nộ của gã, vẫn tìm thấy niềm hạnh phúc nhất định trong việc sắm sửa ngôi nhà nhỏ, sắp xếp mấy giá sách cho gã, sùng bái tài hùng biện trên bục giảng của chồng, và được đón nhận sự kính trọng từ chính những người bạn cũ với tư cách là Vợ Mục sư. Elmer đã có thể quên đi cô, và toàn bộ tâm trí gã dồn hết vào công cuộc leo cao chót vót trên đường thánh thiện. Gã vô cùng mong chờ Hội nghị Thường niên diễn ra vào mùa xuân; gã phải tiến lên, tới một thị trấn lớn hơn, một nhà thờ lớn hơn.
 
 Thị trấn Banjo Crossing làm gã phát chán. Cuộc sống của một mục sư ở thị trấn nhỏ, bị tước đoạt cả những niềm vui điền viên giản dị, thậm chí còn tẻ nhạt hơn cả công việc của một gã nhân viên gác chắn tàu hỏa.
 
@@ -154,7 +154,7 @@ Họ hát bài “Lạy Chúa, Đấng Cứu Giúp Chúng Ta Trong Các Thời �
 
 Họ nối đuôi nhau đi ngang qua cỗ quan tài. Khi Whittlesey thoáng nhìn thấy khuôn mặt hốc hác của Ishuah lần cuối, đôi mắt khô khốc của cụ tối sầm lại và lão lảo đảo bước đi.
 
-Elmer vươn đôi tay vạm vỡ đỡ lấy cụ rồi thì thầm: “Cậu ấy đã về với cõi vinh quang, về với phần thưởng lớn lao của mình! Chúng ta đừng đau buồn vì cậu ấy nữa!”
+Elmer vươn đôi tay vạm vỡ đỡ lấy cụ rồi thì thầm: “Cụ ấy đã về với cõi vinh quang, về với phần thưởng lớn lao của mình! Chúng ta đừng đau buồn vì cụ ấy nữa!”
 
 Dựa vào sức mạnh đầy tự tin của Elmer, cụ Whittlesey già nua đã tìm thấy sự an ủi. Cụ níu chặt lấy gã, lẩm bẩm: “Chúa phù hộ anh, Sư huynh,” trước khi khập khiễng bước ra ngoài.
 
@@ -184,7 +184,7 @@ Cô phấp phới bước về phía gã.
 
 Gã cảm thấy toàn bộ cơ thể mình đang khao khát hướng về cô. Vội vã, gã rời đi và lại ước gì mình đừng rời đi, rồi rảo bước thật nhanh để ra thật xa khỏi mối đe dọa đối với sự đứng đắn của bản thân. Gã lại ghét Cleo lần nữa, với một sự bực bội và khó hiểu.
 
-“Tao nghĩ tuần này mình nên tạt qua Sparta xem sao,” gã lầm bầm, rồi lại nghĩ: “Không! Hội nghị sắp diễn ra trong mười ngày nữa; không thể liều lĩnh cho đến sau thời điểm đó được.”
+“Mình nghĩ tuần này mình nên tạt qua Sparta xem sao,” gã lầm bầm, rồi lại nghĩ: “Không! Hội nghị sắp diễn ra trong mười ngày nữa; không thể liều lĩnh cho đến sau thời điểm đó được.”
 
 ### IX
 
@@ -224,7 +224,7 @@ Và họ thừa biết gã đã được đức giám mục cho gọi tới gặ
 
 Thế nhưng ngài lại cho gọi Elmer, thậm chí còn thân mật gọi thẳng tên thánh của gã.
 
-“Cậu thấy chưa, Sư huynh Elmer, ta đã nói có sai đâu! Giáo hội Giám lý hoàn toàn phù hợp với cậu,” đức giám mục cất lời, đôi mắt sáng rực dưới hàng chân mày đáng sợ. “Ta đã có thể giao cho cậu một nhà thờ lớn hơn rồi đấy. Làm vậy thì không đúng phép lịch sự theo kiểu người Anh chút nào, à, nước Anh! Có lúc nào đó cậu sẽ thích thú biết bao khi đặt chân đến đó; cậu sẽ tìm thấy một nguồn cảm hứng vô cùng dồi dào cho những bài giảng mang tầm vóc rộng lớn hơn qua những chuyến du ngoạn; ta biết rằng cậu và người vợ xinh đẹp của cậu, ta đã có vinh dự được người ta chỉ cho thấy mặt cô ấy, hai vợ chồng cậu rồi sẽ sớm thấu hiểu niềm vui và sự lãng mạn của những chuyến đi. Nhưng như ta vừa nói đấy: Lần này ta có thể giao cho cậu cai quản một thị trấn lớn hơn kha khá, mặc dù sẽ là không đúng mực nếu ta tiết lộ đó là nơi nào trước khi đọc danh sách phân công chính thức trước Hội nghị. Và trong tương lai không xa, nếu cậu tiếp tục duy trì sự chuyên cần trong học tập, quan tâm sát sao đến nhu cầu của bầy chiên chúng ta, cùng với lối sống ngày một xuất sắc mà giám thị quận đã ghi nhận, thì ừm, cậu sẽ đến lúc được trao phó một trường hoạt động <i>lớn hơn rất nhiều</i>. Chúa phù hộ cậu!”
+“Cậu thấy chưa, Sư huynh Elmer, tôi đã nói có sai đâu! Giáo hội Giám lý hoàn toàn phù hợp với cậu,” đức giám mục cất lời, đôi mắt sáng rực dưới hàng chân mày đáng sợ. “Tôi đã có thể giao cho cậu một nhà thờ lớn hơn rồi đấy. Làm vậy thì không đúng phép lịch sự theo kiểu người Anh chút nào, à, nước Anh! Có lúc nào đó cậu sẽ thích thú biết bao khi đặt chân đến đó; cậu sẽ tìm thấy một nguồn cảm hứng vô cùng dồi dào cho những bài giảng mang tầm vóc rộng lớn hơn qua những chuyến du ngoạn; tôi biết rằng cậu và người vợ xinh đẹp của cậu, tôi đã có vinh dự được người ta chỉ cho thấy mặt cô ấy, hai vợ chồng cậu rồi sẽ sớm thấu hiểu niềm vui và sự lãng mạn của những chuyến đi. Nhưng như tôi vừa nói đấy: Lần này tôi có thể giao cho cậu cai quản một thị trấn lớn hơn kha khá, mặc dù sẽ là không đúng mực nếu tôi tiết lộ đó là nơi nào trước khi đọc danh sách phân công chính thức trước Hội nghị. Và trong tương lai không xa, nếu cậu tiếp tục duy trì sự chuyên cần trong học tập, quan tâm sát sao đến nhu cầu của bầy chiên chúng ta, cùng với lối sống ngày một xuất sắc mà giám thị quận đã ghi nhận, thì ừm, cậu sẽ đến lúc được trao phó một trường hoạt động <i>lớn hơn rất nhiều</i>. Chúa phù hộ cậu!”
 
 ### X
 

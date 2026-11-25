@@ -2,33 +2,33 @@
 
 ### I
 
-Dù có bất mãn với Frank đến đâu chăng nữa, nguyện vọng cuối cùng của Philip McGarry tuyệt đối không phải là xúi giục Elmer Gantry sùng đạo lùng sục bám theo dấu chân Frank. Đó chỉ là một sự tình cờ. Philip ngồi cạnh Elmer trong một bữa tối bàn về quỹ truyền giáo; anh chợt nhớ ra Frank và Elmer từng là bạn học cùng khóa; thế là với một câu nói đầy vẻ quan tâm chân thành rằng thật đáng tiếc khi tội nghiệp cậu thanh niên ấy cứ phải bận lòng về những chuyện vốn thuộc về Đức Tin, anh đã vô tình tiết lộ cho Elmer hầu hết các tư tưởng dị giáo của Frank.
+Dù có bất mãn với Frank đến đâu chăng nữa, nguyện vọng cuối cùng của Philip McGarry tuyệt đối không phải là sùng đạo đến mức xúi giục Elmer Gantry bám theo dấu vết của Frank như chó săn lùng mồi. Đó chỉ là một sự tình cờ. Philip ngồi cạnh Elmer trong một bữa tối bàn về quỹ truyền giáo, anh chợt nhớ ra Frank và Elmer từng là bạn học cùng khóa, thế là với một câu nói đầy vẻ quan tâm chân thành rằng thật đáng tiếc khi tội nghiệp cậu thanh niên ấy cứ phải dằn dặt về những chuyện vốn thuộc về Đức Tin, anh đã vô tình tiết lộ cho Elmer hầu hết các tư tưởng dị giáo của Frank.
 
-Lúc bấy giờ, giữa lúc đang bận rộn gây quỹ để xây dựng một ngôi nhà thờ mới hoành tráng, Elmer đã quên bẵng đi ý định cứu rỗi nhà tư bản kim khí lừng danh, William Dollinger Styles, cùng hàng triệu đô-la của ông khỏi sự vẩn đục bởi những lời báng bổ của Frank.
+Lúc bấy giờ, giữa lúc đang bận rộn gây quỹ để xây dựng một ngôi nhà thờ mới hoành tráng, Elmer đã quên bẵng đi ý định cứu rỗi nhà tư bản kim khí lừng danh, ông William Dollinger Styles, cùng hàng triệu đô-la của ông khỏi sự vẩn đục bởi những lời báng bổ của Frank.
 
-“Chúng ta hoàn toàn có thể tranh thủ lão Styles, và cậu sẽ vớt vát được một mớ tiếng tăm kha khá bằng cách tấn công cái trò định cướp Chúa Giê-su lẫn Hỏa ngục khỏi tay chúng ta của tên Shallard,” T. J. Rigg hiến kế khi được hỏi ý kiến.
+“Chúng ta hoàn toàn có thể tranh thủ lão Styles, và cậu sẽ kiếm được một mớ tiếng tăm kha khá bằng cách tấn công mưu đồ định cướp Chúa Giê-su lẫn Hỏa ngục khỏi tay chúng ta của tên Shallard,” T. J. Rigg hiến kế khi được hỏi ý kiến.
 
-“Này, ý kiến hay đấy chứ. Cách mà chủ nghĩa tự do dẫn dắt người ta đến với chủ nghĩa vô thần. Tuyệt cú mèo! Cứ chờ mà xem cái gã Mục sư Frank Shallard há miệng mắc quai thêm lần nữa đi!” Mục sư Elmer Gantry hào hứng đáp. “Này, tôi tự hỏi làm thế nào để kiếm được bản tường thuật các bài giảng của hắn nhỉ? Cái thây ma tội nghiệp ấy chẳng đủ tầm quan trọng để bọn báo chí thèm đếm xỉa hay đăng tải mấy thứ rác rưởi của hắn lên mặt báo đâu.”
+“Này, ý kiến hay đấy chứ. Chủ đề cách thức chủ nghĩa tự do dẫn dắt người ta đến chủ nghĩa vô thần. Tuyệt cú mèo! Cứ chờ xem gã Mục sư Frank Shallard há miệng mắc quai thêm lần nữa đi!” Mục sư Elmer Gantry hào hứng đáp. “Này, tôi tự hỏi làm thế nào để kiếm được bản tường thuật các bài giảng của hắn nhỉ? Cái thây ma tội nghiệp ấy chẳng đủ tầm quan trọng để bọn báo chí thèm đếm xỉa hay đăng tải mấy thứ rác rưởi của hắn lên mặt báo đâu.”
 
 “Việc đó cứ để tôi lo. Tôi có một cô nhân viên trong văn phòng, gõ máy tốc ký cừ khôi lắm, tôi sẽ cử cô ta đến dự và ghi chép lại toàn bộ các bài giảng của hắn. Người ta sẽ chỉ tưởng cô ta đang luyện tay nghề tốc ký mà thôi.”
 
-“Chà, Chúa tôi, đó quả là một công dụng thiết thực cho mấy bài giảng đấy chứ. Ha, ha, ha!” Elmer cười lớn.
+“Chà, ơn Chúa, đó quả là một công dụng thiết thực cho mấy bài giảng đấy chứ. Ha, ha, ha!” Elmer cười lớn.
 
-“Vâng, thưa ngài, ơn Chúa, cuối cùng thì cũng tìm ra được chỗ dụng võ. Ha, ha, ha!” T. J. Rigg phụ họa.
+“Vâng, thưa ngài, ơn Chúa, cuối cùng cũng tìm ra được chỗ dụng võ. Ha, ha, ha!” T. J. Rigg phụ họa.
 
 ### II
 
-Chưa đầy một tháng sau, Frank đã khiến người dân Thành phố Zenith nổi điên khi tuyên bố ngay trên bục giảng rằng dù bản thân ủng hộ phong trào tiết độ, anh lại không tán thành Lệnh Cấm rượu; rằng các phương pháp hoạt động của Liên đoàn Chống Quán rượu<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn7">[7]</a> chẳng khác nào thủ đoạn của một nhóm vận động hành lang lâm nghiệp.
+Chưa đầy một tháng sau, Frank đã khiến người dân Thành phố Zenith nổi điên khi tuyên bố ngay trên bục giảng rằng dù bản thân ủng hộ phong trào tiết độ, anh lại không tán thành Lệnh Cấm rượu, rằng các phương pháp hoạt động của Liên đoàn Chống Quán rượu<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn7">[7]</a> chẳng khác nào thủ đoạn của một nhóm vận động hành lang lâm nghiệp.
 
 Elmer đã có trong tay cơ hội vàng.
 
-Gã liền cho đăng quảng cáo rùm beng rằng mình sẽ diễn thuyết về đề tài “Những Mục Sư Giả Mạo Và Chân Dung Của Bọn Chúng.”
+Gã liền cho đăng quảng cáo rùm beng rằng mình sẽ diễn thuyết về đề tài “Những Mục sư Giả mạo và Bọn họ là Ai.”
 
-Trong bài giảng của mình, gã lớn tiếng tuyên bố rằng Frank Shallard là một kẻ dối trá, một tên ngốc, một kẻ vô ơn bội nghĩa từng được gã ra sức giúp đỡ hồi còn ở chủng viện, một tên trộm đang nhăm nhe cướp đoạt Đấng Christ khỏi một thế giới đang đau yếu bệnh tật.
+Trong bài giảng của mình, gã đích danh chỉ rõ Frank Shallard là một kẻ dối trá, một tên ngốc, một kẻ vô ơn bội nghĩa từng được gã ra sức giúp đỡ hồi còn ở chủng viện, một tên trộm đang nhăm nhe cướp đoạt Đấng Christ khỏi một thế giới đang đau yếu bệnh tật.
 
-Elmer cũng chủ động sắp xếp, T. J. Rigg đã lo liệu một nhóm bốn người, để được chơi golf cùng William Dollinger Styles vào tuần đó.
+Elmer cũng chủ động sắp xếp, T. J. Rigg đã lo liệu một nhóm bốn người, để gã được chơi golf cùng William Dollinger Styles vào tuần đó.
 
-“Tôi thực sự lấy làm tiếc, thưa ông Styles,” gã mở lời, “khi thấy đó là bổn phận của mình phải lên tiếng chỉ trích mục sư của ông, Mục sư Shallard, vào Chúa nhật tuần trước, nhưng khi một gã dám đứng lên nhạo báng Chúa Giê-su Ki-tô, chà, đã đến lúc phải dẹp bỏ sự khoan dung sang một bên!”
+“Tôi thực sự lấy làm tiếc, thưa ông Styles,” gã mở lời, “khi thấy đó là bổn phận của mình phải lên tiếng chỉ trích mục sư của ông, Mục sư Shallard, vào Chúa nhật tuần trước. Nhưng khi một gã dám đứng lên nhạo báng Chúa Giê-su Ki-tô, chà, đã đến lúc phải dẹp bỏ sự khoan dung sang một bên!”
 
 “Tôi thấy anh hơi khắt khe với cậu ta đấy chứ. Bản thân tôi chẳng đến nghe bài giảng ấy, tôi là một tín đồ nhà thờ, nhưng khốn nỗi công việc ở văn phòng cứ dồn ứ lại khiến tuần nào tôi cũng phải cắm mặt ở đó suốt buổi sáng Chúa nhật. Thế nhưng qua những gì người ta kể lại, tôi thấy cậu ta đâu đến nỗi quá khích.”
 
@@ -44,21 +44,21 @@ Elmer cũng chủ động sắp xếp, T. J. Rigg đã lo liệu một nhóm b�
 
 “Ừ thì, cậu ta trông có vẻ là một thanh niên tốt.” Ông Styles tỏ ra lúng túng. “Nhưng nếu anh nói đúng về việc cậu ta thực sự là một kẻ dị giáo, thì tôi không biết mình có thể bỏ qua được không.”
 
-“Thế này thì sao: tối thứ Sáu tới, ông cùng vài vị Chấp sự và cả Shallard đến dùng bữa tối với tôi tại một phòng riêng ở Câu lạc bộ Thể thao nhé?”
+“Thế này thì sao, tối thứ Sáu tới, ông cùng vài vị Chấp sự và cả Shallard đến dùng bữa tối với tôi tại một phòng riêng ở Câu lạc bộ Thể thao nhé?”
 
 “Chà, được thôi...”
 
 ### III
 
-Frank lại quá ư khờ khạo khi để mất bình tĩnh sau khi bị Elmer dồn ép, gầm gừ và chèn ép đủ đường trong một thời gian dài, nhất là khi chính các vị Chấp sự trong hội thánh của Frank lại hùa theo coi Elmer là bậc bề trên có thẩm quyền. Anh đã bị chọc giận đến mức vứt bỏ mọi sự thận trọng, lớn tiếng gào lên đáp trả Elmer rằng anh không công nhận Chúa Giê-su Ki-tô là đấng thiêng liêng; rằng anh không chắc chắn về một cuộc sống mai sau; rằng anh thậm chí còn chẳng dám chắc có một Thượng Đế tồn tại dưới dạng cá thể.
+Frank lại quá ư khờ khạo khi để mất bình tĩnh sau khi bị Elmer dồn ép, gầm gừ và chèn ép đủ đường trong một thời gian dài, nhất là khi chính các vị Chấp sự trong hội thánh của Frank lại hùa theo coi Elmer là bậc bề trên có thẩm quyền. Anh đã bị chọc giận đến mức vứt bỏ mọi sự thận trọng, lớn tiếng gào lên đáp trả Elmer rằng anh không công nhận Chúa Giê-su Ki-tô là đấng thiêng liêng, rằng anh không chắc chắn về một cuộc sống mai sau, rằng anh thậm chí còn chẳng dám chắc có một Thượng Đế tồn tại dưới dạng cá thể.
 
 Ông William Dollinger Styles liền lạnh lùng gạt đi, “Vậy thì tại sao, thưa Mục sư Shallard, anh không tự tước bỏ chức vụ mục sư của mình trước khi bị đá văng ra khỏi đó?”
 
-“Bởi vì tôi vẫn chưa chắc chắn. Dù tôi thực sự nghĩ rằng các nhà thờ hiện tại của chúng ta ngớ ngẩn chẳng khác nào niềm tin vào phù thủy, nhưng tôi tin rằng vẫn có thể tồn tại một thứ giáo hội không vướng bận mê tín dị đoan, một nơi thực sự giúp ích cho những mảnh đời khốn khó và mang lại cho con người cái thứ cảm giác huyền bí mãnh liệt hơn cả lý trí, cái cảm giác được nâng niu thăng hoa trong sự thờ phượng chung hướng về một quyền năng thiện lương vô hình nào đó. Bản thân tôi, tôi sẽ cảm thấy cô độc xiết bao nếu xung quanh chỉ toàn những câu lạc bộ tranh luận khô khan lạnh ngắt. Tôi nghĩ, ít ra tôi vẫn nghĩ rằng đối với rất nhiều tâm hồn, nhu cầu thờ phượng ấy là có thật, thậm chí kể cả những nghi thức trang trọng đẹp đẽ...”
+“Bởi vì tôi vẫn chưa chắc chắn. Dù tôi thực sự nghĩ rằng các nhà thờ hiện tại của chúng ta ngớ ngẩn chẳng khác nào niềm tin vào phù thủy, nhưng tôi tin rằng vẫn có thể tồn tại một thứ giáo hội không vướng bận mê tín dị đoan, một nơi thực sự giúp ích cho những mảnh đời khốn khó và mang lại cho con người cảm giác huyền bí mãnh liệt hơn cả lý trí, cái cảm giác được thăng hoa trong sự thờ phượng chung hướng về một quyền năng thiện lương vô hình nào đó. Bản thân tôi, tôi sẽ cảm thấy cô độc xiết bao nếu xung quanh chỉ toàn những câu lạc bộ tranh luận khô khan lạnh ngắt. Tôi nghĩ, ít ra tôi vẫn nghĩ rằng đối với rất nhiều tâm hồn, nhu cầu thờ phượng ấy là có thật, thậm chí kể cả những nghi thức trang trọng đẹp đẽ...”
 
-“Nhu cầu tôn giáo huyền bí! Sức mạnh thiện lương không thể thấu hiểu! Toàn lời là lời! Sữa pha nước! <i>Đó</i> là những gì cậu đem ra bái lạy và noi theo trong khi trước mặt lại là hình bóng vinh quang và chắc chắn của Chúa Giê-su!” Elmer gầm lên. “Thưa các vị, xin lỗi vì đã xen vào, nhưng nghe một gã tự cho mình hiểu biết đến mức có thể vứt xơ vứt xác Đấng Christ mà cả thế giới văn minh đã tôn kính suốt bao nhiêu thế kỷ qua ra ngoài cửa sổ, thực tình tôi không chỉ thấy nực cười với tư cách một mục sư mà còn buồn nôn với tư cách một tín đồ khiêm nhường và sùng đạo! Lại còn định thay thế Ngài bằng một đống ngôn từ sáo rỗng nữa chứ! Xin lỗi ông Styles, nhưng suy cho cùng, tôn giáo là một vấn đề vô cùng nghiêm túc, và nếu chúng ta đã tự nhận mình là người theo đạo Cơ Đốc, chúng ta phải làm chứng cho chân lý hiển nhiên về Thượng Đế. Xin lỗi các vị.”
+“‘Nhu cầu thờ phụng huyền bí!’ ‘Quyền năng thiện lương vô hình!’ Toàn là lời lẽ sáo rỗng! Sữa pha nước! <i>Đó</i> là những gì cậu đem ra bái lạy và noi theo trong khi trước mặt lại là hình bóng vinh quang và chắc chắn của Chúa Giê-su Ki-tô!” Elmer gầm lên. “Thưa các vị, xin lỗi vì đã xen vào, nhưng nghe một gã tự cho mình hiểu biết đến mức có thể vứt xơ vứt xác Đấng Christ mà cả thế giới văn minh đã tôn kính suốt bao nhiêu thế kỷ qua ra ngoài cửa sổ, thực tình tôi không chỉ thấy nực cười với tư cách một mục sư mà còn buồn nôn với tư cách một tín đồ khiêm nhường và sùng đạo! Lại còn định thay thế Ngài bằng một đống ngôn từ sáo rỗng nữa chứ! Xin lỗi ông Styles, nhưng suy cho cùng, tôn giáo là một vấn đề vô cùng nghiêm túc, và nếu chúng ta đã tự nhận mình là người theo đạo Cơ Đốc, chúng ta phải làm chứng cho chân lý hiển nhiên về Thượng Đế. Xin lỗi các vị.”
 
-“Không sao đâu, Tiến sĩ Gantry. Tôi hiểu cảm giác của anh mà,” Styles nói. “Và dù tôi không phải là chuyên gia về tôn giáo, tôi cũng có cảm giác y như anh, chắc các vị ở đây cũng vậy thôi… Thưa anh Shallard, anh có quyền giữ quan điểm riêng của mình, nhưng không phải trên bục giảng của chúng tôi! Sao anh không từ chức quách đi trước khi chúng tôi tống cổ anh ra ngoài?”
+“Không sao đâu, Tiến sĩ Gantry. Tôi hiểu cảm giác của anh mà,” Styles nói. “Và dù tôi không phải là chuyên gia về tôn giáo, tôi cũng có cảm giác y như anh, chắc các vị ở đây cũng vậy thôi... Thưa anh Shallard, anh có quyền giữ quan điểm riêng của mình, nhưng không phải trên bục giảng của chúng tôi! Sao anh không từ chức quách đi trước khi chúng tôi tống cổ anh ra ngoài?”
 
 “Các người không tống cổ tôi được đâu! Phải có toàn thể hội thánh mới làm được việc đó!”
 
@@ -84,7 +84,7 @@ Một cuộc họp của hội đồng nhà thờ đã được triệu tập đ
 
 Trước buổi họp, một người phụ nữ vẫn còn quý mến anh đã cằn nhằn với Frank rằng: “Ôi, sao anh lại không thể hiểu nổi việc mình đang làm tồi tệ đến thế nào khi đặt câu hỏi về thần tính của Chúa Giê-su cơ chứ? Em sợ rằng anh sắp làm tổn hại vĩnh viễn đến tôn giáo mất thôi. Ước gì anh mở mắt ra mà nhìn, ước gì anh hiểu được tôn giáo có ý nghĩa thế nào đối với em trong những lúc tuyệt vọng! Em chẳng biết mình sẽ xoay xở thế nào trong trận ốm thương hàn nếu không có sự an ủi đó! Khi chịu suy nghĩ thì anh là một người sáng dạ và thông minh đấy chứ. Sao anh không chịu đến trò chuyện thật tử tế với Tiến sĩ G. Prosper Edwards nhỉ? Thầy ấy lớn tuổi hơn anh, lại là một tiến sĩ thần học, và thầy có rất đông tín chúng ở Nhà thờ Pilgrim, em chắc chắn thầy có thể chỉ cho anh thấy anh đã sai ở đâu và làm cho mọi thứ trở nên hoàn toàn rõ ràng đối với anh.”
 
-Em gái của Frank, người giờ đã kết hôn với một luật sư ở Akron, đến thăm hai vợ chồng. Họ đã từng có những ngày tháng hạnh phúc, Frank và cô, trong ngôi nhà ấm cúng nhưng nhạt nhòa của người cha làm mục sư; họ từng chơi trò làm nhà thờ với búp bê và lọ đựng muối làm giáo đoàn; sách vở luôn vây quanh họ, trở thành một phần tự nhiên trong đời sống; và bên bàn ăn của cha mình, họ từng nghe các bác sĩ, mục sư, luật sư, chính trị gia bàn luận về những vấn đề lớn lao.
+Em gái của Frank, người giờ đã kết hôn với một luật sư ở Akron, đến thăm hai vợ chồng. Họ đã từng có những ngày tháng hạnh phúc, Frank và cô, trong ngôi nhà ấm cúng nhưng nhạt nhòa của người cha làm mục sư, họ từng chơi trò làm nhà thờ với búp bê và lọ đựng muối làm giáo đoàn, sách vở luôn vây quanh họ, trở thành một phần tự nhiên trong đời sống, và bên bàn ăn của cha mình, họ từng nghe các bác sĩ, mục sư, luật sư, chính trị gia bàn luận về những vấn đề lớn lao.
 
 Cô em gái tíu tít nói với Bess: “Chị biết không, Frank chẳng tin nổi một nửa những gì nó nói đâu! Nó chỉ thích làm trò ra oai đấy thôi. Thực chất nó là một tín đồ Cơ Đốc cực kỳ ngoan đạo, nếu tự nó nhận ra điều đó. Chà, nó từng là một thiếu niên Cơ Đốc gương mẫu, từng dẫn dắt cả Liên đoàn Epworth, đời nào nó lại xa rời Chúa để sa vào mấy cái điều nhảm nhí chẳng ai thèm coi trọng ngoại trừ một lũ điên đầu bù tóc rối và bẩn thỉu chứ! Rồi nó sẽ làm tan nát trái tim cha nó mất thôi! Em phải có một buổi nói chuyện nghiêm túc với cái gã trẻ tuổi đó và kéo nó về với thực tại mới được.”
 
@@ -104,11 +104,11 @@ Một cuộc họp thứ hai sẽ phải được triệu tập trước khi h�
 
 Khi Elmer đọc được tin này, gã liền phi nước đại đến gặp T. J. Rigg. “Cơ hội của chúng ta đây rồi!” gã hân hoan thốt lên. “Nếu cuộc họp đầu tiên mà đá văng Frank đi, khéo William Dollinger Styles lại cứ gắn bó với cái nhà thờ ấy mất, mặc dù tôi thực tình nghĩ rằng lão ta rất chuộng gu thần học cùng chính sách Cộng hòa của tôi. Nhưng sao anh không đến gặp lão ngay bây giờ đi, T. J., rồi bắn tiếng bóng gió về chuyện nhà thờ đã lăng mạ lão ra sao?”
 
-“Được thôi, Elmer. Lại cứu được thêm một linh hồn nữa đây. Sư huynh William Dollinger Styles vẫn giữ khư khư đồng đô-la đầu tiên hắn kiếm được trong đời, nhưng biết đâu chúng ta lại nẫng được mười xu từ tay lão cho cái nhà thờ mới thì sao. Chỉ có điều... vì lão ta giàu có hơn tôi nhiều lắm, tôi hy vọng cậu sẽ không chạy đến xin lời khuyên tâm linh và nguồn cảm hứng từ lão thay vì tìm đến tôi đấy nhé.”
+“Được thôi, Elmer. Lại cứu được thêm một linh hồn nữa đây. Sư huynh William Dollinger Styles vẫn giữ khư khư đồng đô-la đầu tiên hắn kiếm được trong đời, nhưng biết đâu chúng ta lại nẫng được mười xu từ tay lão cho cái nhà thờ mới thì sao. Chỉ có điều, vì lão ta giàu có hơn tôi nhiều lắm, tôi hy vọng cậu sẽ không chạy đến xin lời khuyên tâm linh và nguồn cảm hứng từ lão thay vì tìm đến tôi đấy nhé.”
 
 “Anh đừng lo chuyện đó, T. J.! Chưa ai từng dám buộc tội Elmer Gantry là kẻ phản bội bạn bè cả! Hy vọng duy nhất của tôi là sự dìu dắt của anh đối với nhà thờ này cũng mang lại chút giá trị nào đó cho chính bản thân anh.”
 
-“Chà... thì... cũng có chút đỉnh theo cách này hay cách khác. Tôi đã có ba khách hàng theo đạo Giám lý từ Wellspring tìm đến nhờ can thiệp, hai vụ ăn trộm và một vụ làm giả giấy tờ. Nhưng quan trọng là tôi thích nhìn guồng máy quay đều thôi.”
+“Chà, thì, cũng có chút đỉnh theo cách này hay cách khác. Tôi đã có ba khách hàng theo đạo Giám lý từ Wellspring tìm đến nhờ can thiệp, hai vụ ăn trộm và một vụ làm giả giấy tờ. Nhưng quan trọng là tôi thích nhìn guồng máy quay đều thôi.”
 
 Ông Rigg đang nói, một giờ sau đó, với ông William Dollinger Styles rằng: “Nếu ông đến và gia nhập với chúng tôi, tôi biết chắc ông sẽ thích mê cho mà xem. Ông đã thấy Tiến sĩ Gantry là một đấng nam nhi chính hiệu, đường hoàng, tài ba và vững vàng đến nhường nào rồi đấy. Hoàn toàn bén nhạy trong kinh doanh. Và đó sẽ là một đòn giáng cực kỳ đanh thép vào cái nhà thờ dám chối bỏ lời khuyên nhủ của ông. Nhưng ngặt một nỗi chúng tôi lại ngại ngùng không dám ngỏ lời mời ông về với đội của mình, thực ra Tiến sĩ Gantry đã cấm tiệt tôi không được gặp ông, chỉ vì sợ ông lại nghĩ chúng tôi làm thế đơn giản vì ông giàu có.”
 
@@ -122,13 +122,13 @@ Cuộc họp nhà thờ thứ hai đành phải hoãn lại. Trong mắt Elmer, 
 
 Elmer hành động không chút do dự.
 
-Trong hết bài giảng này đến bài giảng khác, gã không ngừng réo gọi cái lũ vô thần đang ẩn nấp ngoài Dorchester kia. Các giáo dân của Frank âm thầm hoảng hốt. Họ buộc phải tìm cách giải thích (chỉ là bản thân họ còn chẳng rõ mình đang thanh minh cái quái gì nữa) với khách hàng, với hàng xóm láng giềng, với những hội viên cùng sinh hoạt trong các hội quán. Họ cảm thấy nhục nhã, và thế là một cuộc họp thứ hai đã được triệu tập.
+Trong hết bài giảng này đến bài giảng khác, gã không ngừng réo gọi cái lũ vô thần đang ẩn nấp ngoài Dorchester kia. Các giáo dân của Frank âm thầm hoảng hốt. Họ buộc phải tìm cách giải thích, chỉ là bản thân họ còn chẳng rõ mình đang thanh minh cái quái gì nữa, với khách hàng, với hàng xóm láng giềng, với những hội viên cùng sinh hoạt trong các hội quán. Họ cảm thấy nhục nhã, và thế là một cuộc họp thứ hai đã được triệu tập.
 
 Lúc này, Frank từng ôm ấp ý định về một màn từ chức thật hoành tráng. Anh tưởng tượng ra cảnh mình đứng trước một cử tọa đang trố mắt kinh ngạc và dõng dạc tuyên bố: “Tôi đã đi đến quyết định rằng không một ai trong căn phòng này, kể cả mục sư của các vị, thực sự tin tưởng vào tôn giáo Cơ Đốc. Không một ai trong chúng ta dám chìa má bên kia ra cho kẻ khác tát. Không một ai dám bán hết gia tài để bố thí cho người nghèo. Không một ai dám dâng chiếc áo khoác của mình cho kẻ đã cướp mất chiếc áo bành tô. Tất cả chúng ta đều cặm cụi tích lũy từng chút tài sản có thể. Chúng ta chẳng hề thực hành đạo Cơ Đốc. Chúng ta cũng chẳng có ý định thực hành nó. Thế nên, chúng ta chẳng hề tin vào nó. Vì lý do đó, tôi xin từ chức, và tôi khuyên các vị hãy chấm dứt ngay mấy trò lừa dối này đi rồi giải tán quách cho rồi.”
 
 Anh mường tượng ra cảnh mình hiên ngang bước xuống lối đi giữa những gương mặt đang há hốc của đám đông giáo dân, rồi dứt áo ra đi khỏi nhà thờ vĩnh viễn.
 
-Thế nhưng: “Mình mệt mỏi lắm rồi. Quá đỗi não nề. Mà hà cớ gì phải làm tổn thương những tâm hồn tội nghiệp u mê ấy chứ? Hơn nữa... mình kiệt sức mất rồi.”
+Thế nhưng: “Mình mệt mỏi lắm rồi. Quá đỗi não nề. Mà hà cớ gì phải làm tổn thương những tâm hồn tội nghiệp u mê ấy chứ? Hơn nữa, mình kiệt sức mất rồi.”
 
 Anh đứng dậy ngay khúc dạo đầu của cuộc họp thứ hai và điềm đạm cất lời: “Tôi từng từ chối từ chức. Tôi vẫn cảm thấy mình có quyền chính đáng để sở hữu một bục giảng chân chính. Nhưng tôi lại đang khoét sâu thêm sự chia rẽ giữa những người anh em với nhau. Tôi không phải là một Lý tưởng cao cả, tôi chỉ là một người bạn. Tôi đã yêu mến tất cả các vị và công việc này, yêu tiếng hát hòa quyện của những người bạn, yêu niềm hạnh phúc khi tề tựu bên nhau vào những buổi sáng Chúa nhật thảnh thơi. Tôi xin từ bỏ tất cả những điều đó. Tôi xin từ chức, và ước gì tôi có thể thốt lên câu: ‘Nguyện Chúa ở cùng và ban phước cho tất cả anh chị em.’ Nhưng những tín đồ đạo đức kia đã nhào nặn Chúa thành một kẻ côn đồ đe dọa đáng sợ, và ngay cả trong khoảnh khắc cuối cùng này của một cuộc đời trọn vẹn dâng hiến cho tôn giáo, khi mà tôi chuẩn bị bước xuống bục giảng vĩnh viễn, tôi cũng chẳng tài nào thốt lên nổi câu ‘Nguyện Chúa ban phước cho anh chị em’.”
 
@@ -150,7 +150,7 @@ Giữa cái sự hoàn hảo đầy tính axit ấy, Frank lại khao khát cái
 
 Anh thừa nhận rằng việc tin theo từng câu chữ vào Luyện ngục và Đức Mẹ Vô nhiễm Nguyên tội, vào sự Hiện hữu Thực sự và quyền uy của hàng giáo phẩm, đối với anh cũng bất khả thi chẳng khác nào việc tin vào thần Zeus.
 
-“Nhưng,” anh trầm ngâm tự hỏi, “chẳng lẽ toàn bộ chuyện này chỉ là một câu chuyện cổ tích lộng lẫy đến mức việc chỉ trích nó chẳng khác nào cố chứng minh rằng Jack không hề giết người khổng lồ hay sao? Chẳng có vị linh mục tỉnh táo nào lại mong một kẻ có học thức kha khá lại nghĩ rằng việc đọc các thánh lễ có thể tác động đến các linh hồn trong Luyện ngục; họ sẽ mong người ta đón nhận toàn bộ sự việc hệt như cách thưởng thức một bản giao hưởng. Và ôi, sao mà tôi thấy cô đơn vì thèm khát tình bằng hữu của giáo hội đến thế!”
+“Nhưng,” anh trầm ngâm tự hỏi, “chẳng lẽ toàn bộ chuyện này chỉ là một câu chuyện cổ tích lộng lẫy đến mức việc chỉ trích nó chẳng khác nào cố chứng minh rằng Jack không hề giết người khổng lồ hay sao? Chẳng có vị linh mục tỉnh táo nào lại mong một kẻ có học thức kha khá lại nghĩ rằng việc đọc các thánh lễ có thể tác động đến các linh hồn trong Luyện ngục, họ sẽ mong người ta đón nhận toàn bộ sự việc hệt như cách thưởng thức một bản giao hưởng. Và ôi, sao mà tôi thấy cô đơn vì thèm khát tình bằng hữu của giáo hội đến thế!”
 
 Anh bèn tìm gặp cha Matthew Smeesby để trao đổi. Họ từng gặp nhau với tư cách là những đồng nghiệp trong giới mục sư tại nhiều buổi tiệc tối.
 
@@ -208,9 +208,9 @@ Hội trường nơi anh diễn thuyết chỉ lấp đầy một nửa khi anh 
 
 Nhóm người đáng kính này lầm bầm khe khẽ, rồi xì xào một chút khi Frank bắt đầu cất lời với vẻ bồi hồi.
 
-Anh phát biểu rằng nước Mỹ, trong tiếng cười nhạo dành cho “phiên tòa khỉ” ở Dayton, đã không hiểu được mối đe dọa thực sự từ cuộc thập tự chinh của những người theo Chủ nghĩa Chính thống. (“Thật quá sức chịu đựng!” từ quý ông đầu tóc bờm sư tử.) Giờ đây họ hãy còn ôn hòa chán; họ cất lời nhân danh đức hạnh; nhưng cứ thả lỏng cho họ xem, một Tòa án Dị giáo mới, một cuộc săn lùng phù thủy mới sẽ ra đời. Chúng ta có thể sẽ sống để chứng kiến cảnh con người bị thiêu sống chỉ vì từ chối tham gia các nhà thờ Tin Lành.
+Anh phát biểu rằng nước Mỹ, trong tiếng cười nhạo dành cho “phiên tòa xử khỉ” ở Dayton, đã không hiểu được mối đe dọa thực sự từ cuộc thập tự chinh của những người theo Chủ nghĩa Chính thống. (“Thật quá sức chịu đựng!” từ quý ông đầu tóc bờm sư tử.) Giờ đây họ hãy còn ôn hòa chán, họ cất lời nhân danh đức hạnh, nhưng cứ thả lỏng cho họ xem, một Tòa án Dị giáo mới, một cuộc săn lùng phù thủy mới sẽ ra đời. Chúng ta có thể sẽ sống để chứng kiến cảnh con người bị thiêu sống chỉ vì từ chối tham gia các nhà thờ Tin Lành.
 
-Frank trích dẫn lời của một tín đồ Chủ nghĩa Chính thống khẳng định rằng những người ủng hộ thuyết tiến hóa thực chất là những kẻ sát nhân đích thực, bởi vì họ đã giết chết đức tin chính thống, và do đó đáng bị treo cổ xử tử; cùng William Jennings Bryan với đề xuất rằng bất kỳ người Mỹ nào uống rượu bên ngoài đất nước đều phải bị trục xuất vĩnh viễn.
+Frank trích dẫn lời của một tín đồ Chủ nghĩa Chính thống khẳng định rằng những người ủng hộ thuyết tiến hóa thực chất là những kẻ sát nhân đích thực, bởi vì họ đã giết chết đức tin chính thống, và do đó đáng bị treo cổ xử tử, cùng William Jennings Bryan với đề xuất rằng bất kỳ người Mỹ nào uống rượu bên ngoài đất nước đều phải bị trục xuất vĩnh viễn.
 
 “Đó là cách những kẻ này lên tiếng, dẫu quyền lực hãy còn hạn hẹp, cho đến lúc này!” Frank biện luận. “Hãy vận dụng trí tưởng tượng của quý vị xem! Hãy nghĩ xem họ sẽ cai trị quốc gia này ra sao, và ép buộc một nửa số mục sư bán tự do dễ dãi kia phải hợp tác với họ thế nào, nếu họ nắm trong tay quyền lực!”
 
@@ -218,7 +218,7 @@ Từ phía sau liên tục vang lên những tiếng gầm gừ “Đó là mộ
 
 “Và ngay tại thành phố của các vị đây,” Frank tiếp tục, “cũng có một mục sư phúc âm thích thú gào thét rằng bất kỳ ai không đồng quan điểm với anh ta đều là một tên Giu-đa.”
 
-“Thế là đủ rồi!” một kẻ ở phía sau gào lên, và đám thanh niên bặm trợn lao ầm ầm xuống lối đi về phía Frank, đôi mắt hừng hực vẻ tàn độc, hàm răng nhe ra như loài chó chiến, đôi bàn tay khua khoắng; anh có thể cảm nhận thấy chúng đang chực chờ bóp cổ mình. Bọn chúng đã bị chặn lại và kìm chân trong chốc lát bởi những người có cảm tình ở hàng ghế đầu. Frank nhìn thấy người thợ may tật nguyền bị đánh ngã nhào bởi một kẻ giẫm đạp lên thân hình ông ta để lao tới trước.
+“Thế là đủ rồi!” một kẻ ở phía sau gào lên, và đám thanh niên bặm trợn lao ầm ầm xuống lối đi về phía Frank, đôi mắt hừng hực vẻ tàn độc, hàm răng nhe ra như loài chó chiến, đôi bàn tay khua khoắng, anh có thể cảm nhận thấy chúng đang chực chờ bóp cổ mình. Bọn chúng đã bị chặn lại và kìm chân trong chốc lát bởi những người có cảm tình ở hàng ghế đầu. Frank nhìn thấy người thợ may tật nguyền bị đánh ngã nhào bởi một kẻ giẫm đạp lên thân hình ông ta để lao tới trước.
 
 Với một nỗi chán chường kỳ lạ nhiều hơn là cảm giác sợ hãi, Frank thở dài: “Khỉ thật, mình lại phải tham gia vào cuộc chiến này và bỏ mạng thôi!”
 
@@ -230,7 +230,7 @@ Frank bị đẩy qua một cánh cửa lao thẳng vào một con hẻm mờ �
 
 Một chiếc ô tô đang đợi sẵn, cạnh đó là hai gã đàn ông, một gã thét lên: “Lên ngay đây, Sư huynh.”
 
-Đó là một chiếc xe sedan lớn; trông nó giống như sự an toàn, giống như sự sống. Nhưng khi Frank vừa lựng chựng bước lên xe, anh nhận ra gã tài xế đang cầm vô lăng, rồi nhìn kỹ hơn những kẻ còn lại. Gã cầm vô lăng không có môi mà chỉ là một đường cắt khô khốc đanh ngạnh trên khuôn mặt... cái miệng của một kẻ hành quyết. Trong hai gã còn lại, một kẻ trông giống như một tên pha chế chưa hoàn lương, với bộ râu mép xoăn tít và lọn tóc uốn kiểu thợ cắt tóc; kẻ kia gầy gò, đôi mắt điên dại.
+Đó là một chiếc xe sedan lớn, trông nó giống như sự an toàn, giống như sự sống. Nhưng khi Frank vừa lựng chựng bước lên xe, anh nhận ra gã tài xế đang cầm vô lăng, rồi nhìn kỹ hơn những kẻ còn lại. Gã cầm vô lăng không có môi mà chỉ là một đường cắt khô khốc đanh ngạnh trên khuôn mặt, cái miệng của một kẻ hành quyết. Trong hai gã còn lại, một kẻ trông giống như một tên pha chế chưa hoàn lương, với bộ râu mép xoăn tít và lọn tóc uốn kiểu thợ cắt tóc, kẻ kia gầy gò, đôi mắt điên dại.
 
 “Các anh là ai?” anh gặng hỏi.
 
@@ -270,7 +270,7 @@ Máy móc, đôi chân bủn rủn, Frank lảo đảo bước ra ngoài. Anh ng
 
 “Không,” gã gầy gò ngăn lại. “Chỉ đánh cho nó nhớ đời thôi, rồi để nó lết về mà kể cho mấy tên bạn vô thần của nó nghe rằng bén mảng đến vùng đất thuần chất Cơ Đốc này không sống thọ đâu. Đi đi, đồ chó!”
 
-Frank lê bước đi trước chúng, im lặng đến rợn người. Chúng đi theo một lối mòn xuyên qua cánh đồng ngô dẫn đến một khoảng trũng. Bọn dế đang kêu ran vui vẻ; vầng trăng vẫn vô tư tỏa sáng.
+Frank lê bước đi trước chúng, im lặng đến rợn người. Chúng đi theo một lối mòn xuyên qua cánh đồng ngô dẫn đến một khoảng trũng. Bọn dế đang kêu ran vui vẻ, vầng trăng vẫn vô tư tỏa sáng.
 
 “Thế này là đủ rồi,” gã gầy gò nghiến răng, đoạn quay sang Frank: “Bây giờ thì chuẩn bị sảng khoái đi nhé.”
 
@@ -302,7 +302,7 @@ Một giờ sau, một cảnh sát đi mô tô đã tìm thấy Frank dưới m�
 
 Các bác sĩ bảo Frank rằng mặc dù con mắt bên phải đã mất hoàn toàn, có lẽ anh vẫn chưa mất hẳn thị lực của con mắt còn lại trong khoảng một năm nữa.
 
-Bess không hề thét lên khi nhìn thấy anh; cô chỉ đứng đó với đôi bàn tay run rẩy ôm ngực.
+Bess không hề thét lên khi nhìn thấy anh, cô chỉ đứng đó với đôi bàn tay run rẩy ôm ngực.
 
 Cô dường như chần chừ trước khi đặt nụ hôn lên cái miệng vốn từng là của anh. Nhưng cô nói với giọng tươi tỉnh:
 
@@ -314,4 +314,4 @@ Cô dường như chần chừ trước khi đặt nụ hôn lên cái miệng v
 
 Elmer đến thăm và nổi trận lôi đình: “Đây là điều bất công khủng khiếp nhất mà đời này tôi từng nghe nói tới, Frank! Tin tôi đi, tôi sẽ cho đám khốn nạn đã làm chuyện này với cậu một trận đòn đau đớn nhất đời chúng từ chính bục giảng của tôi! Mặc dù điều đó có thể cản trở tôi đi quyên tiền xây nhà thờ mới của mình, mà này, chúng ta sắp có một cơ ngơi hoành tráng ở đó đấy, hiện đại bậc nhất, tốn hơn nửa triệu đô-la, chứa được hơn hai ngàn chỗ ngồi. Nhưng không ai có thể bịt miệng <i>tôi</i> lại được đâu! Tôi sẽ tố cáo lũ ác ma đó theo cách mà <i>chúng</i> sẽ không bao giờ quên được!”
 
-Và đó cũng là lần cuối cùng người ta ghi nhận Elmer nhắc đến vấn đề này, dù là riêng tư hay công khai.
+Và đó cũng là lần cuối cùng người ta ghi nhận Elmer nhắc đến chủ đề này, dù là riêng tư hay công khai.

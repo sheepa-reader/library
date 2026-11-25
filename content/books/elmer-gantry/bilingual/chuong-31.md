@@ -4,29 +4,29 @@
 
 <p class="para-en">For over a year now it had been murmured through the church-world that no speaker was more useful to the reform organization than the <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Dr.</abbr> Elmer Gantry of Zenith. His own church regretted losing his presence so often, but they were proud to hear of him as speaking in New York, in Los Angeles, in Toronto.</p>
 
-<p class="para-vi-sub">Suốt hơn một năm qua, trong thế giới nhà thờ râm ran lời đồn đại rằng không có diễn giả nào hữu ích cho tổ chức cải cách hơn Mục sư Tiến sĩ Elmer Gantry ở Thành phố Zenith. Giáo hội của chính gã cảm thấy tiếc nuối khi phải để gã vắng mặt liên tục, nhưng họ vẫn kiêu hãnh nghe tin gã đang diễn thuyết ở Thành phố New York, ở Los Angeles, ở Toronto.</p>
+<p class="para-vi-sub">Suốt hơn một năm qua, trong thế giới nhà thờ râm ran lời đồn đại rằng không có diễn giả nào hữu ích cho tổ chức cải cách hơn Mục sư Tiến sĩ Elmer Gantry ở Zenith. Giáo hội của chính gã cảm thấy tiếc nuối khi phải để gã vắng mặt liên tục, nhưng họ vẫn kiêu hãnh nghe tin gã đang diễn thuyết ở Thành phố New York, ở Los Angeles, ở Toronto.</p>
 
 <p class="para-en">It was said that when <abbr epub:type="z3998:name-title">Mr.</abbr> <abbr epub:type="z3998:given-name">J. E.</abbr> North retired from the Napap because of the press of his private interests (he was the owner of the Eppsburg, <abbr epub:type="z3998:initialism">N.Y.</abbr>, <i epub:type="se:name.publication.newspaper">Times-Scimitar</i>), <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry would be elected executive secretary of the Napap in his stead. It was said that no one in America was a more relentless foe of so-called liberalism in theology and of misconduct in private life.</p>
 
-<p class="para-vi-sub">Người ta đồn rằng khi ông J. E. North rút lui khỏi Hiệp hội Quốc gia Thanh lọc Nghệ thuật và Báo chí do bận rộn với công việc kinh doanh riêng, Tiến sĩ Gantry sẽ được bầu làm tổng thư ký điều hành của hiệp hội thay thế cho ông ta. Người ta đồn rằng không ai ở nước Mỹ là kẻ thù không khoan nhượng hơn gã đối với cái gọi là chủ nghĩa tự do trong thần học và những hành vi sai trái trong đời sống riêng tư.</p>
+<p class="para-vi-sub">Người ta đồn rằng khi ông J. E. North rút lui khỏi Napap do bận rộn với công việc kinh doanh riêng, ông ta là chủ sở hữu tờ <i>Times-Scimitar</i> ở Eppsburg, New York, Tiến sĩ Gantry sẽ được bầu làm tổng thư ký điều hành của Napap thay thế cho ông ta. Người ta đồn rằng không ai ở nước Mỹ là kẻ thù không khoan nhượng hơn Tiến sĩ Gantry đối với cái gọi là chủ nghĩa tự do trong thần học và những hành vi sai trái trong đời sống riêng tư.</p>
 
 <p class="para-en">It was said that <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry had refused support for election as a bishop at the 1928 General Conference of the Methodist Church, North, two years from now. And it was definitely known that he had refused the presidency of Swenson University in Nebraska.</p>
 
-<p class="para-vi-sub">Người ta đồn rằng Tiến sĩ Gantry đã từ chối sự hậu thuẫn để tranh cử chức giám mục tại Hội nghị Thường niên năm 1928 của Giáo hội Giám lý Miền Bắc, diễn ra hai năm nữa. Và người ta biết chắc chắn rằng gã đã từ chối chiếc ghế hiệu trưởng Đại học Swenson ở Bang Nebraska.</p>
+<p class="para-vi-sub">Người ta đồn rằng Tiến sĩ Gantry đã từ chối sự hậu thuẫn để tranh cử chức giám mục tại Hội nghị Thường niên năm 1928 của Giáo hội Giám lý Miền Bắc, diễn ra hai năm nữa. Và người ta biết chắc chắn rằng gã đã từ chối chiếc ghế hiệu trưởng Đại học Swenson ở Nebraska.</p>
 
 <p class="para-en">But it was also definitely known, alas, that he was likely to be invited to take the pastorate of the Yorkville Methodist Church in New York City, which included among its members <abbr epub:type="z3998:name-title">Dr.</abbr> Wilkie Bannister, that resolute cover-to-cover fundamentalist who was also one of the most celebrated surgeons in the country, Peter <abbr epub:type="z3998:given-name">F.</abbr> Durbar, the oil millionaire, and Jackie Oaks, the musical-comedy clown. The bishop of the New York area was willing to give <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry the appointment. But﻿—Well, there were contradictory stories; one version said that <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry had not decided to take the Yorkville appointment; the other said that Yorkville, which meant <abbr epub:type="z3998:name-title">Dr.</abbr> Bannister, had not decided to take <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry. Anyway, the Wellspring flock hoped that their pastor, their spiritual guardian, their friend and brother, would not leave them.</p>
 
-<p class="para-vi-sub">Nhưng người ta cũng biết chắc chắn một điều, than ôi, rằng gã có khả năng được mời về quản nhiệm Nhà thờ Giám lý Yorkville tại Thành phố New York, nơi có các thành viên gồm Tiến sĩ Wilkie Bannister, vị tín đồ theo Chủ nghĩa Chính thống cứng rắn, đồng thời là một trong những bác sĩ phẫu thuật nổi tiếng nhất cả nước, cùng Peter F. Durbar, triệu phú dầu mỏ, và Jackie Oaks, danh hài kịch ca nhạc. Vị giám mục giáo hạt New York sẵn sàng trao cho Tiến sĩ Gantry chức vụ đó. Nhưng chà... có những câu chuyện mâu thuẫn; một phiên bản nói rằng Tiến sĩ Gantry chưa quyết định nhận chức vụ ở Yorkville; phiên bản kia lại nói rằng Yorkville, tức là Tiến sĩ Bannister, chưa quyết định nhận Tiến sĩ Gantry. Dù thế nào đi nữa, bầy chiên ở Wellspring vẫn hy vọng rằng vị mục sư, người bảo hộ tâm linh, người bạn và người anh em của họ sẽ không rời bỏ họ.</p>
+<p class="para-vi-sub">Nhưng người ta cũng biết chắc chắn một điều, than ôi, rằng gã có khả năng được mời về quản nhiệm Nhà thờ Giám lý Yorkville tại Thành phố New York, nơi có các thành viên gồm Tiến sĩ Wilkie Bannister, vị tín đồ theo Chủ nghĩa Chính thống cứng rắn, đồng thời là một trong những bác sĩ phẫu thuật nổi tiếng nhất cả nước, Peter F. Durbar, triệu phú dầu mỏ, và Jackie Oaks, danh hài kịch ca nhạc. Vị giám mục giáo hạt New York sẵn sàng trao cho Tiến sĩ Gantry chức vụ đó. Nhưng, chà, có những câu chuyện mâu thuẫn; một phiên bản nói rằng Tiến sĩ Gantry chưa quyết định nhận chức vụ ở Yorkville; phiên bản kia lại nói rằng Yorkville, tức là Tiến sĩ Bannister, chưa quyết định nhận Tiến sĩ Gantry. Dù thế nào đi nữa, bầy chiên ở Wellspring vẫn hy vọng rằng vị mục sư, người bảo hộ tâm linh, người bạn và người anh em của họ sẽ không rời bỏ họ.</p>
 
 ### II
 
 <p class="para-en">After he had discharged Miss Bundle, the church secretary﻿—and that was a pleasant moment; she cried so ludicrously﻿—Elmer had to depend on a series of incapable girls, good Methodists but rotten stenographers.</p>
 
-<p class="para-vi-sub">Sau khi sa thải cô Bundle, thư ký nhà thờ, và đó là một khoảnh khắc thật dễ chịu, cô ta khóc lóc trông đến là buồn cười, Elmer đành phải dựa vào một loạt những cô gái bất tài; họ là những tín đồ Giám lý ngoan đạo nhưng lại là những tay đánh máy tồi tệ.</p>
+<p class="para-vi-sub">Sau khi sa thải cô Bundle, thư ký nhà thờ, và đó là một khoảnh khắc thật dễ chịu, cô ta khóc lóc trông đến là buồn cười, Elmer đành phải dựa vào một loạt những cô gái bất tài, họ là những tín đồ Giám lý ngoan đạo nhưng lại là những tay đánh máy tồi tệ.</p>
 
 <p class="para-en">It almost made him laugh to think that while everybody supposed he was having such a splendid time with his new fame, he was actually running into horrible luck. This confounded <abbr epub:type="z3998:given-name">J. E.</abbr> North, with all his pretenses of friendship, kept delaying his resignation from the Napap. <abbr epub:type="z3998:name-title">Dr.</abbr> Wilkie Bannister, the conceited chump﻿—a fellow who thought he knew more about theology than a preacher!﻿—delayed in advising the Official Board of the Yorkville Church to call Elmer. And his secretaries infuriated him. One of them was shocked when he said just the least little small “damn”!</p>
 
-<p class="para-vi-sub">Gã gần như muốn phì cười khi nghĩ rằng trong khi mọi người đều đinh ninh gã đang có những khoảng thời gian tuyệt vời với danh tiếng mới, thì thực chất gã lại đang gặp phải vận đen tồi tệ. Lão J. E. North chết tiệt này, với tất cả sự thân thiết giả tạo, cứ khất lần việc từ chức ở hiệp hội. Tiến sĩ Wilkie Bannister, cái tên ngốc kiêu căng, một kẻ tưởng mình hiểu biết về thần học hơn cả mục sư, lại cứ chần chừ trong việc tham mưu cho Ban Chấp sự Chính thức của Nhà thờ Giám lý Yorkville mời Elmer. Và đám thư ký thì làm gã phát điên lên được. Một trong số họ đã hoảng hốt khi gã chỉ lỡ thốt ra một từ quỷ tha ma bắt nhỏ xíu.</p>
+<p class="para-vi-sub">Gã gần như muốn phì cười khi nghĩ rằng trong khi mọi người đều đinh ninh gã đang có những khoảng thời gian tuyệt vời với danh tiếng mới, thì thực chất gã lại đang gặp phải vận đen tồi tệ. Lão J. E. North chết tiệt này, với tất cả sự thân thiết giả tạo, cứ khất lần việc từ chức ở Napap. Tiến sĩ Wilkie Bannister, cái tên ngốc kiêu căng, một kẻ tưởng mình hiểu biết về thần học hơn cả mục sư, lại cứ chần chừ trong việc tham mưu cho Ban Chấp sự Chính thức của Nhà thờ Yorkville mời Elmer. Và đám thư ký thì làm gã phát điên lên được. Một trong số họ đã hoảng hốt khi gã chỉ lỡ thốt ra một từ "chết tiệt" nhỏ xíu!</p>
 
 <p class="para-en">Nobody appreciated the troubles of a man destined to be the ruler of America; no one knew what he was sacrificing in his campaign for morality.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-en">And how tired he was of the rustic and unimaginative devotion of Lulu Bains! If she lisped “Oh, Elmer, you are so strong!” just once more, he’d have to clout her!</p>
 
-<p class="para-vi-sub">Và gã đã mệt mỏi biết bao với sự sùng kính quê mùa và thiếu trí tưởng tượng của Lulu Bains! Nếu cô ta còn thốt lên bằng giọng ngọng nghịu rằng “Ôi, Elmer, anh mạnh mẽ làm sao,” dù chỉ một lần nữa thôi, gã sẽ đấm cho cô ta một cú tơi bời.</p>
+<p class="para-vi-sub">Và gã đã mệt mỏi biết bao với sự sùng kính quê mùa và thiếu trí tưởng tượng của Lulu Bains! Nếu cô ta còn thốt lên bằng giọng ngọng nghịu rằng “Ôi, Elmer, anh mạnh mẽ làm sao!” dù chỉ một lần nữa thôi, gã sẽ đấm cho cô ta một cú tơi bời!</p>
 
 ### III
 
@@ -48,19 +48,19 @@
 
 <p class="para-en">If a Marquis of the seventeenth century could have been turned into a girl of perhaps twenty-five, completely and ardently feminine yet with the haughty head, the slim hooked nose, the imperious eyes of <abbr epub:type="z3998:name-title">M.</abbr> le Marquis, that would have been the woman who held Elmer’s hand, and said:</p>
 
-<p class="para-vi-sub">Nếu một vị hầu tước thế kỷ thứ mười bảy có thể hóa thân thành một cô gái tầm hai mươi lăm tuổi, vừa hoàn toàn nồng nhiệt mang nữ tính nhưng lại sở hữu chiếc cằm kiêu hãnh, chiếc mũi khoằm thanh tú, ánh mắt hống hách của ngài hầu tước, thì đó chính là người phụ nữ đang nắm lấy bàn tay Elmer và cất lời:</p>
+<p class="para-vi-sub">Nếu một vị Ngài Hầu tước thế kỷ thứ mười bảy có thể hóa thân thành một cô gái tầm hai mươi lăm tuổi, hoàn toàn nồng nhiệt mang nữ tính nhưng lại sở hữu cái đầu kiêu hãnh, chiếc mũi khoằm thanh tú, ánh mắt hống hách của Ngài Hầu tước, thì đó chính là người phụ nữ đang nắm lấy bàn tay Elmer và cất lời:</p>
 
 <p class="para-en">“May I tell you, Doctor, that you are the first person in my whole life who has given me a sense of reality in religion?”</p>
 
-<p class="para-vi-sub">“Thưa Tiến sĩ, em có thể nói rằng ngài là người đầu tiên trong đời đã mang lại cho em cảm giác chân thực về tôn giáo không?”</p>
+<p class="para-vi-sub">“Thưa Tiến sĩ, em có thể nói rằng anh là người đầu tiên trong cả cuộc đời em đã mang lại cho em cảm giác chân thực về tôn giáo không?”</p>
 
 <p class="para-en">“Sister, I am very grateful,” said the Reverend <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry, while Elmer was saying within, “Say, you’re a kid I’d like to get acquainted with!”</p>
 
-<p class="para-vi-sub">“Thưa cô, tôi vô cùng biết ơn,” Mục sư Tiến sĩ Gantry đáp lời, trong khi Elmer thầm nghĩ trong bụng: “Này, cô em là một nhóc anh rất muốn làm quen đấy.”</p>
+<p class="para-vi-sub">“Thưa cô, tôi vô cùng biết ơn,” Mục sư Tiến sĩ Gantry đáp lời, trong khi Elmer thầm nghĩ trong bụng: “Chà, cô em là một nhóc mình rất muốn làm quen đấy!”</p>
 
 <p class="para-en">“<abbr epub:type="z3998:name-title">Dr.</abbr> Gantry, aside from my tribute﻿—which is quite genuine﻿—I have a perfectly unscrupulous purpose in coming and speaking to you. My name is Hettie Dowler﻿—<em>Miss</em>, unfortunately! I’ve had two years in the University of Wisconsin. I’ve been secretary of <abbr epub:type="z3998:name-title">Mr.</abbr> Labenheim of the Tallahassee Life Insurance Company for the last year, but he’s been transferred to Detroit. I’m really quite a good secretary. And I’m a Methodist﻿—a member of Central, but I’ve been planning to switch to Wellspring. Now what I’m getting at is: If you should happen to need a secretary in the next few months﻿—I’m filling in as one of the hotel stenographers at the Thornleigh﻿—”</p>
 
-<p class="para-vi-sub">“Thưa Tiến sĩ Gantry, ngoài lời ca tụng của em, vốn hoàn toàn chân thành, em còn có một mục đích hoàn toàn chẳng từ thủ đoạn nào khi đến đây và trò chuyện với ngài. Tên em là Hettie Dowler, và rất tiếc là vẫn độc thân! Em đã có hai năm học tại Đại học Wisconsin. Em làm thư ký cho ông Labenheim thuộc Công ty Bảo hiểm Nhân thọ Tallahassee trong suốt năm qua, nhưng ông ấy đã thuyên chuyển sang Detroit. Em thực sự là một cô thư ký khá giỏi. Và em là một tín đồ Giám lý, thuộc giáo hội Trung tâm, nhưng em đang tính chuyển sang Wellspring. Vấn đề em muốn nói là: Nếu ngài vô tình cần đến một thư ký trong vài tháng tới, em hiện đang làm thư ký tạm thời tại khách sạn Thornleigh...”</p>
+<p class="para-vi-sub">“Thưa Tiến sĩ Gantry, ngoài lời ca tụng của em, vốn hoàn toàn chân thành, em còn có một mục đích hoàn toàn chẳng từ thủ đoạn nào khi đến đây và trò chuyện với anh. Tên em là Hettie Dowler, và rất tiếc là vẫn độc thân! Em đã có hai năm học tại Đại học Wisconsin. Em làm thư ký cho ông Labenheim thuộc Công ty Bảo hiểm Nhân thọ Tallahassee trong suốt năm qua, nhưng ông ấy đã thuyên chuyển sang Detroit. Em thực sự là một cô thư ký khá giỏi. Và em là một tín đồ Giám lý, thuộc giáo hội Trung tâm, nhưng em đang tính chuyển sang Wellspring. Vấn đề em muốn nói là: Nếu anh vô tình cần đến một thư ký trong vài tháng tới, em hiện đang làm thư ký tạm thời tại khách sạn Thornleigh...”</p>
 
 <p class="para-en">They looked at each other, unswerving, comprehending. They shook hands again, more firmly.</p>
 
@@ -72,7 +72,7 @@
 
 <p class="para-en">“Thank you.”</p>
 
-<p class="para-vi-sub">“Em cảm ơn ngài.”</p>
+<p class="para-vi-sub">“Em cảm ơn anh.”</p>
 
 <p class="para-en">“May I drive you home?”</p>
 
@@ -90,7 +90,7 @@
 
 <p class="para-en">He went often of an evening to Hettie Dowler’s flat﻿—a pleasant white-and-blue suite in one of the new apartment hotels, with an absurd kitchenette and an electric refrigerator. She curled, in long leopard-like lines, on the damask couch, while he marched up and down rehearsing his sermons and stopped for the applause of her kiss.</p>
 
-<p class="para-vi-sub">Gã thường xuyên đến căn hộ của Hettie Dowler vào buổi tối, một dãy phòng màu trắng và xanh dễ chịu nằm trong một trong những khách sạn căn hộ mới xây, có một góc bếp ngớ ngẩn và tủ lạnh chạy điện. Cô cuộn tròn người trong những đường cong mềm mại như báo hoa mai trên chiếc ghế bành bọc gấm, trong khi gã sải bước qua lại để luyện tập các bài giảng và dừng lại để nhận phần thưởng là những nụ hôn của cô.</p>
+<p class="para-vi-sub">Gã thường xuyên đến căn hộ của Hettie Dowler vào buổi tối, một dãy phòng màu trắng và xanh dễ chịu nằm trong một trong những khách sạn căn hộ mới xây, có một góc bếp nhỏ xinh và tủ lạnh chạy điện. Cô cuộn tròn người trong những đường cong mềm mại như báo hoa mai trên chiếc ghế bành bọc gấm, trong khi gã sải bước qua lại để luyện tập các bài giảng và dừng lại để nhận phần thưởng là những nụ hôn của cô.</p>
 
 <p class="para-en">Always he slipped down to the pantry at his house and telephoned good night to her before retiring, and when she was kept home by illness he telephoned to her from his study every hour or scrawled notes to her. That she liked best. “Your letters are so dear and funny and sweet,” she told him. So he wrote in his unformed script:</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-en"><em><p class="p">Dearest ittle honeykins bunnykins, oo is such a darlings, I adore you, I haven’t got another doggoned thing to say but I say that six hundred million trillion times. Elmer.</p></em></p>
 
-<p class="para-vi-sub"><em><p class="p0">Cục cưng thỏ con bé bỏng nhất đời anh, anh đúng là một cục vàng, anh tôn thờ em, anh chẳng còn quái quỷ gì để nói nữa đâu nhưng anh sẽ nói câu đó sáu trăm triệu tỉ lần. Elmer.</p></em></p>
+<p class="para-vi-sub"><em><p class="p0">Cục cưng thỏ con bé bỏng nhất đời anh, em đúng là một thiên thần, anh tôn thờ em, anh chẳng còn cái quái gì để nói nữa nhưng anh sẽ nói câu đó sáu trăm triệu tỉ lần. Elmer.</p></em></p>
 
 <p class="para-en"><em>But</em>﻿—and he would never have let himself love her otherwise, for his ambition to become the chief moral director of the country was greater even than his delight in her﻿—Hettie Dowler was all this time a superb secretary.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-en">No dictation was too swift for her; she rarely made errors; she made of a typed page a beautiful composition; she noted down for him the telephone numbers of people who called during his absence; and she had a cool sympathetic way of getting rid of the idiots who came to bother the Reverend <abbr epub:type="z3998:name-title">Dr.</abbr> Gantry with their unimportant woes. And she had such stimulating suggestions for sermons. In these many years, neither Cleo nor Lulu had ever made a sermon-suggestion worth anything but a groan, but Hettie﻿—why, it was she who outlined the sermon on “The Folly of Fame” which caused such a sensation at Terwillinger College when Elmer received his <abbr epub:type="z3998:name-title">LL.D.</abbr>, got photographed laying a wreath on the grave of the late President Willoughby Quarles, and in general obtained publicity for himself and his “dear old Alma Mater.”</p>
 
-<p class="para-vi-sub">Không tốc ký nào nhanh quá mức với cô; cô hiếm khi mắc lỗi; cô biến một trang bản thảo đánh máy thành một tác phẩm đẹp đẽ; cô ghi chép lại cho gã số điện thoại của những người gọi đến trong lúc gã vắng mặt; và cô có cách cư xử điềm tĩnh, đầy cảm thông để tống khứ lũ ngốc đến làm phiền Mục sư <abbr epub:type="z3998:name-title">Tiến sĩ</abbr> Gantry bằng những nỗi buồn không đâu của chúng. Và cô lại có những gợi ý vô cùng kích thích cho các bài giảng. Trong ngần ấy năm, chưa từng có ai như Cleo hay Lulu đưa ra được một gợi ý bài giảng nào đáng giá ngoài một tiếng thở dài, thế mà Hettie, chà, chính cô là người phác thảo bài giảng về “Sự ngu ngốc của danh tiếng” từng gây ra tiếng vang lớn tại Đại học Terwillinger khi Elmer nhận bằng <abbr epub:type="z3998:name-title">LL.D.</abbr>, được chụp ảnh đang đặt vòng hoa lên mộ cố Hiệu trưởng Willoughby Quarles, và nói chung là tạo được tiếng tăm cho chính bản thân cũng như cho “ngôi trường thân yêu cũ” của gã.</p>
+<p class="para-vi-sub">Không tốc ký nào nhanh quá mức với cô; cô hiếm khi mắc lỗi; cô biến một trang bản thảo đánh máy thành một tác phẩm đẹp đẽ; cô ghi chép lại cho gã số điện thoại của những người gọi đến trong lúc gã vắng mặt; và cô có cách cư xử điềm tĩnh, đầy cảm thông để tống khứ lũ ngốc đến làm phiền Mục sư <abbr epub:type="z3998:name-title">Tiến sĩ</abbr> Gantry bằng những nỗi buồn không đâu của chúng. Và cô lại có những gợi ý vô cùng kích thích cho các bài giảng. Trong ngần ấy năm, chưa từng có Cleo hay Lulu đưa ra được một gợi ý bài giảng nào đáng giá ngoài một tiếng thở dài, thế mà Hettie, chà, chính cô là người phác thảo bài giảng về “Sự ngu ngốc của danh tiếng” từng gây ra tiếng vang lớn tại Đại học Terwillinger khi Elmer nhận bằng <abbr epub:type="z3998:name-title">LL.D.</abbr>, được chụp ảnh đang đặt vòng hoa lên mộ cố Hiệu trưởng Willoughby Quarles, và nói chung là tạo được tiếng tăm cho chính bản thân cũng như cho “ngôi trường thân yêu cũ” của gã.</p>
 
 <p class="para-en">He felt, sometimes, that Hettie was the reincarnation of Sharon.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-en">She carried out a harder, more important task﻿—she encouraged William Dollinger Styles, who was never so friendly as Rigg. She told him that he was a Napoleon of Finance. She almost went too far in her attentions to Styles; she lunched with him, alone. Elmer protested, jealously, and she amiably agreed never to see Styles again outside of the church.</p>
 
-<p class="para-vi-sub">Cô còn gánh vác một nhiệm vụ khó khăn và quan trọng hơn, đó là khích lệ William Dollinger Styles, người chưa bao giờ tỏ ra thân thiện như Rigg. Cô nói với ông ta rằng ông ta là một vị hoàng đế tài chính của giới kinh doanh. Cô suýt đi quá giới hạn trong sự quan tâm dành cho Styles; cô đã đi ăn trưa riêng với ông ta. Elmer phản đối đầy ghen tuông, và cô đã vui vẻ đồng ý không bao giờ gặp lại Styles bên ngoài nhà thờ nữa.</p>
+<p class="para-vi-sub">Cô còn gánh vác một nhiệm vụ khó khăn và quan trọng hơn, đó là khích lệ William Dollinger Styles, người chưa bao giờ tỏ ra thân thiện như Rigg. Cô nói với ông ta rằng ông ta là một Napoleon của giới tài chính. Cô suýt đi quá giới hạn trong sự quan tâm dành cho Styles; cô đã đi ăn trưa riêng với ông ta. Elmer phản đối đầy ghen tuông, và cô đã vui vẻ đồng ý không bao giờ gặp lại Styles bên ngoài nhà thờ nữa.</p>
 
 ### V
 
@@ -152,7 +152,7 @@
 
 <p class="para-en">“Lulu, I’ve got something dreadful to tell you. In spite of our carefulness, Cleo﻿—<abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry﻿—is onto us. It simply breaks my heart, but we must stop seeing each other privately. Indeed﻿—”</p>
 
-<p class="para-vi-sub">“Lulu, anh có điều kinh khủng muốn nói với em. Bất chấp sự cẩn trọng của chúng ta, Cleo, <abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry, đã phát hiện ra chuyện của chúng ta rồi. Anh đau đớn đến tan nát cõi lòng, nhưng chúng ta phải dừng việc gặp gỡ riêng tư lại. Thật sự là...”</p>
+<p class="para-vi-sub">“Lulu, anh có điều kinh khủng muốn nói với em. Bất chấp sự cẩn trọng của chúng ta, Cleo, <abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry, đã phát hiện ra chuyện của chúng ta rồi. Anh đau đòn đến tan nát cõi lòng, nhưng chúng ta phải dừng việc gặp gỡ riêng tư lại. Thật sự là...”</p>
 
 <p class="para-en">“Oh, Elmer, Elmer, oh, my lover, <em>please</em>!”</p>
 
@@ -168,7 +168,7 @@
 
 <p class="para-en">“Well, last evening she just calmly said to me﻿—You can imagine how surprised I was; like a bolt out of the blue! She said﻿—my wife said, ‘Well, tomorrow I suppose you’ll be meeting that person that teaches cooking again, and get home as late as usual!’ Well, I stalled for time, and I found that she was actually thinking of putting detectives on us!”</p>
 
-<p class="para-vi-sub">“Chà, tối qua cô ấy điềm tĩnh nói với anh rằng... Em có thể tưởng tượng anh ngạc nhiên đến thế nào đấy; cứ như sét đánh ngang tai! Cô ấy nói, vợ anh nói thế này, ‘Ừ, ngày mai chắc anh lại đi gặp cái cô dạy nấu ăn đó nữa rồi về nhà muộn như thường lệ cho mà xem!’ Chà, anh đã tìm cách kéo dài thời gian để né tránh, và anh phát hiện ra cô ấy thực sự đang tính thuê thám tử theo dõi chúng ta đấy!”</p>
+<p class="para-vi-sub">“Chà, tối qua cô ấy điềm tĩnh nói với anh rằng, em có thể tưởng tượng anh ngạc nhiên đến thế nào đấy, cứ như sét đánh ngang tai! Cô ấy nói, vợ anh nói thế này, ‘Ừ, ngày mai chắc anh lại đi gặp cái cô dạy nấu ăn đó nữa rồi về nhà muộn như thường lệ cho mà xem!’ Chà, anh đã tìm cách kéo dài thời gian để né tránh, và anh phát hiện ra cô ấy thực sự đang tính thuê thám tử theo dõi chúng ta đấy!”</p>
 
 <p class="para-en">“Oh, my dear, my poor dear! I won’t ever see you again! You mustn’t be disgraced, with your wonderful fame that I’ve been so proud of!”</p>
 
@@ -184,7 +184,7 @@
 
 <p class="para-en">“Now you look here, young woman! I’ll have none of this idiotic suicide talk!” He had sprung up; he was standing over her, an impressive priestly figure. “It’s absolutely against every injunction of God, who gave us our lives to use for his service and glory, to even think of self-slaughter! Why, I could never have imagined that you could say such a wicked, wicked, <em>wicked</em> thing!”</p>
 
-<p class="para-vi-sub">“Này cô gái, cô nghe đây! Tôi không muốn nghe thêm bất kỳ lời bàn nhảm nhí nào về việc tự tử nữa!” Gã đã chồm dậy; gã đứng sừng sững trước mặt cô, ra dáng một vị tư tế đầy uy nghi. “Việc nghĩ đến chuyện tự sát là hoàn toàn đi ngược lại mọi điều răn của Thượng Đế, đấng đã ban cho chúng ta sự sống để phục vụ và làm vinh danh Ngài! Chà, tôi chưa bao giờ có thể tưởng tượng nổi rằng cô lại thốt ra một điều tồi tệ, tồi tệ, <i>tồi tệ</i> đến thế!”</p>
+<p class="para-vi-sub">“Này cô gái, cô nghe đây! Tôi không chấp nhận bất kỳ lời bàn nhảm nhí nào về việc tự tử nữa!” Gã đã chồm dậy; gã đứng sừng sững trước mặt cô, ra dáng một vị tư tế đầy uy nghi. “Việc nghĩ đến chuyện tự sát là hoàn toàn đi ngược lại mọi điều răn của Thượng Đế, đấng đã ban cho chúng ta sự sống để phục vụ và làm vinh danh Ngài! Chà, tôi chưa bao giờ có thể tưởng tượng nổi rằng cô lại thốt ra một điều tồi tệ, tồi tệ, <i>tồi tệ</i> đến thế!”</p>
 
 <p class="para-en">She crawled out after a time, a little figure in a shabby topcoat over her proud new dress. She stood waiting for a trolley car, alone under an arc-light, fingering her new beaded purse, which she loved because in his generosity He had given it to her. From time to time she wiped her eyes and blew her nose, and all the time she was quite stupidly muttering, “Oh, my dear, my dear, to think I made trouble for you﻿—oh, my dear, my very dear!”</p>
 
@@ -234,11 +234,11 @@
 
 <p class="para-en">“Nobody? Nobody? Only a couple of hundred thousand citizens and church-members! Bankers, lawyers, doctors, decent people! And only an equal number of wops and hunkies and yids and atheists and papes want you to let the Sabbath be desecrated! Now you look here, Edelstein! Unless you pinch every last man, movie owners and operators and ushers and the whole kit and bilin’ of ’em that are responsible for this disgraceful and illegal traffic of Sunday movies, I’m going to call a giant mass-meeting of all the good citizens in town, and I’m going to talk a lot less to ’em about the movie-proprietors than I am about <em>you</em>, and it’s one fine fat, nice chance you’ll have of being reelected, if two hundred thousand electors of this county (and the solid birds that take the trouble to vote) are out for your hide﻿—”</p>
 
-<p class="para-vi-sub">“Chẳng ai ư? Không một ai ư? Chỉ có vài trăm nghìn công dân và tín đồ nhà thờ thôi! Các chủ ngân hàng, luật sư, bác sĩ, những con người tử tế! Và chỉ có chừng ấy cái đám dân Ý, dân lao động chân tay, dân Do Thái, vô thần và dân ngoại giáo muốn anh để cho ngày Sa-bát bị bôi nhọ thôi! Giờ thì anh nghe cho rõ đây, Edelstein! Trừ khi anh tóm cổ từng mống một, từ chủ rạp chiếu phim, nhân viên vận hành, người soát vé cho đến toàn bộ cái dây chuyền chịu trách nhiệm cho cái tệ nạn nhơ nhuốc và bất hợp pháp của những buổi chiếu phim ngày Chủ nhật này, nếu không ta sẽ triệu tập một buổi đại hội quần chúng của tất cả các công dân tốt đẹp trong thị trấn này, và ta sẽ nói với họ về chủ rạp chiếu phim thì ít mà sẽ nói về <i>chính anh</i> thì nhiều, và khi hai trăm nghìn cử tri của hạt này (cùng đám dân đàng hoàng cất công đi bỏ phiếu) đã nhắm vào cái mạng của anh thì chà, anh cứ mơ đi mà mong được tái đắc cử...”</p>
+<p class="para-vi-sub">“Chẳng ai ư? Không một ai ư? Chỉ có vài trăm nghìn công dân và tín đồ nhà thờ thôi! Các chủ ngân hàng, luật sư, bác sĩ, những con người tử tế! Và chỉ có chừng ấy cái đám dân Ý, dân lao động chân tay, dân Do Thái, vô thần và dân ngoại giáo muốn anh để cho ngày Sa-bát bị bôi nhọ thôi! Giờ thì anh nghe cho rõ đây, Edelstein! Trừ khi anh tóm cổ từng mống một, từ chủ rạp chiếu phim, nhân viên vận hành, người soát vé cho đến toàn bộ cái dây chuyền chịu trách nhiệm cho cái tệ nạn nhơ nhuốc và bất hợp pháp của những buổi chiếu phim ngày Chủ nhật này, nếu không tôi sẽ triệu tập một buổi đại hội quần chúng của tất cả các công dân tốt đẹp trong thị trấn này, và tôi sẽ nói với họ về chủ rạp chiếu phim thì ít mà sẽ nói về <i>chính anh</i> thì nhiều, và khi hai trăm nghìn cử tri của hạt này (cùng đám dân đàng hoàng cất công đi bỏ phiếu) đã nhắm vào cái mạng của anh thì chà, anh cứ mơ đi mà mong được tái đắc cử...”</p>
 
 <p class="para-en">“Say, who do you think is running this county? The Methodists and Baptists and Presbyterians?”</p>
 
-<p class="para-vi-sub">“Này, anh tưởng ai đang điều hành hạt này hả? Mấy gã Giám lý, Báp-tít và Giáo hội Tự trị chắc?”</p>
+<p class="para-vi-sub">“Này, anh tưởng ai đang điều hành hạt này hả? Mấy gã Giám lý, Báp-tít và Giáo hội Trưởng lão chắc?”</p>
 
 <p class="para-en">“Certainly!”</p>
 
@@ -342,7 +342,7 @@
 
 <p class="para-en">“Hell!” he said. “These women want me to be a house dog! To hell with ’em! No! Not with mother, but﻿—Oh, damn it, she’ll understand when I’m the pastor of Yorkville! O God, why can’t Cleo die, so I can marry Hettie!”</p>
 
-<p class="para-vi-sub">“Quỷ tha ma bắt!” gã thốt lên. “Mấy người phụ nữ này muốn biến ta thành một con chó giữ nhà chắc! Mặc thây họ! Không! Không phải với mẹ, nhưng... Ôi chết tiệt, rồi bà ấy sẽ hiểu khi ta trở thành quản nhiệm của Yorkville! Lạy Chúa, sao Cleo không chết quách đi, để con có thể cưới Hettie!”</p>
+<p class="para-vi-sub">“Quỷ tha ma bắt!” gã thốt lên. “Mấy người phụ nữ này muốn biến gã thành một con chó giữ nhà chắc! Mặc thây họ! Không! Không phải với mẹ, nhưng... Ôi chết tiệt, rồi bà ấy sẽ hiểu khi gã trở thành quản nhiệm của Yorkville! Lạy Chúa, sao Cleo không chết quách đi, để con có thể cưới Hettie!”</p>
 
 <p class="para-en">Two minutes later he was murmuring to Hettie Dowler, from the telephone instrument in the pantry, while the cook was grumbling and picking over the potatoes down in the basement, “Dear, will you just say something nice to me﻿—anything﻿—anything!”</p>
 

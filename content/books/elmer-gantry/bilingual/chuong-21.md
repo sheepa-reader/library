@@ -16,7 +16,7 @@
 
 <p class="para-en">Whenever he called on her, old Benham insisted on staying in the parlor. He was, strictly outside of business hours, an amateur of religion, fond of talking about it. Just as Elmer, shielded by the piano, was ready to press Cleo’s hand, Benham would lumber up and twang, “What do you think, Brother? Do you believe salvation comes by faith or works?”</p>
 
-<p class="para-vi-sub">Mỗi lần gã đến chơi, lão Benham lại khăng khăng ngồi lỳ trong phòng khách. Ngoài giờ làm việc ra, lão là một ngoại đạo thích bàn chuyện tôn giáo và rất khoái khoe khoang về điều đó. Ngay khoảnh khắc Elmer, được cây đàn piano che khuất, đang định nắm lấy tay Cleo, lão Benham lại lầm lũi bước tới và cất giọng eo éo: “Ý anh thế nào, thưa Sư huynh? Anh tin rằng ơn cứu rỗi đến từ đức tin hay từ việc làm?”</p>
+<p class="para-vi-sub">Mỗi lần gã đến chơi, lão Benham lại khăng khăng ngồi lỳ trong phòng khách. Ngoài giờ làm việc ra, lão là một người nghiệp dư thích bàn chuyện tôn giáo và rất khoái khoe khoang về điều đó. Ngay khoảnh khắc Elmer, được cây đàn piano che khuất, đang định nắm lấy tay Cleo, lão Benham lại lầm lũi bước tới và cất giọng eo éo: “Ý anh thế nào, thưa Sư huynh? Anh tin rằng ơn cứu rỗi đến từ đức tin hay từ việc làm?”</p>
 
 <p class="para-en">Elmer made it all clear﻿—muttering to himself, “Well, you, you old devil, with that cutthroat store of yours, you better get into Heaven on faith, for God knows you’ll never do it on works!”</p>
 
@@ -28,11 +28,11 @@
 
 <p class="para-en">“Oh, it’s absolutely sound and proven,” admitted Elmer, wondering what the devil <abbr epub:type="z3998:name-title">Mr.</abbr> Wesley’s doctrine of perfection might be.</p>
 
-<p class="para-vi-sub">Elmer đành đáp: “Ồ, nó hoàn toàn chuẩn xác và đã được minh chứng,” trong khi trong đầu tự hỏi quỷ sứ nào mà biết cái giáo lý về sự trọn vẹn của lão Wesley kia ra sao.</p>
+<p class="para-vi-sub">Elmer đành đáp: “Ồ, nó hoàn toàn chuẩn xác và đã được minh chứng,” trong khi trong đầu tự hỏi quỷ sứ nào mà biết cái giáo lý về sự trọn vẹn của Mục sư Wesley kia ra sao.</p>
 
 <p class="para-en">It is possible that the presence of the elder Benhams, preventing too close a communion with Cleo, kept Elmer from understanding what it meant that he should not greatly have longed to embrace her. He translated his lack of urgency into virtue; and went about assuring himself that he was indeed a reformed and perfected character﻿ ﻿… and so went home and hung about the kitchen, chattering with little Jane Clark in pastoral jokiness.</p>
 
-<p class="para-vi-sub">Rất có thể sự hiện diện của hai ông bà Benham, vốn ngăn cản sự tiếp xúc quá gần gũi với Cleo, đã khiến Elmer không nhận ra ý nghĩa thực sự đằng sau việc gã chẳng hề tha thiết khao khát ôm ấp cô. Gã biến sự thiếu thốn khao khát ấy thành một thứ đạo đức giả hiệu, tự nhủ rằng bản thân quả thực là một con người đã cải tạo và hoàn thiện rồi cứ thế đi về nhà, lảng vảng quanh khu bếp và tán gẫu với cô bé Jane Clark bằng giọng điệu trêu đùa của mục sư.</p>
+<p class="para-vi-sub">Rất có thể sự hiện diện của hai ông bà Benham, vốn ngăn cản sự tiếp xúc quá gần gũi với Cleo, đã khiến Elmer không nhận ra ý nghĩa thực sự đằng sau việc gã chẳng hề tha thiết khao khát ôm ấp cô. Gã biến sự thiếu thốn khao khát ấy thành một thứ đạo đức giả hiệu, tự nhủ rằng bản thân quả thực là một con người đã cải tạo và hoàn thiện... rồi cứ thế đi về nhà, lảng vảng quanh khu bếp, tán gẫu với cô bé Jane Clark bằng giọng điệu trêu đùa của mục sư.</p>
 
 <p class="para-en">Even when he was alone with Cleo, when she drove him in the proud Benham motor for calls in the country, even while he was volubly telling himself how handsome she was, he was never quite natural with her.</p>
 
@@ -42,7 +42,7 @@
 
 <p class="para-en">He called on an evening of late November, and both her parents were out, attending Eastern Star. She looked dreary and red-eyed. He crowed benevolently while they stood at the parlor door, “Why, Sister Cleo, what’s the matter? You look kind of sad.”</p>
 
-<p class="para-vi-sub">Gã đến thăm vào một buổi tối cuối tháng Mười; hôm ấy có buổi sinh hoạt hội Ngôi sao Phương Đông nên cả bố mẹ cô đều vắng nhà. Trông cô ủ rũ với đôi mắt đỏ hoe. Elmer cười vang đầy nhân ái khi họ đứng ở cửa phòng khách: “Ơ kìa, Sơ Cleo, có chuyện gì thế? Trông cô có vẻ buồn bã vậy.”</p>
+<p class="para-vi-sub">Gã đến thăm vào một buổi tối cuối tháng Mười Một, hôm ấy có buổi sinh hoạt hội Ngôi sao Phương Đông nên cả bố mẹ cô đều vắng nhà. Trông cô ủ rũ với đôi mắt đỏ hoe. Elmer cười vang đầy nhân ái khi họ đứng ở cửa phòng khách: “Ơ kìa, Sơ Cleo, có chuyện gì thế? Trông cô có vẻ buồn bã vậy.”</p>
 
 <p class="para-en">“Oh, it’s nothing﻿—”</p>
 
@@ -54,7 +54,7 @@
 
 <p class="para-en">“Oh, I don’t think you ought to joke about﻿—Anyway, it’s really nothing.”</p>
 
-<p class="para-vi-sub">“Ồ, em nghĩ anh không nên đùa cợt về chuyện... Dù sao thì thực ra cũng chẳng có gì đâu.”</p>
+<p class="para-vi-sub">“Ồ, em nghĩ anh không nên đùa cợt về... Dù sao thì thực ra cũng chẳng có gì đâu.”</p>
 
 <p class="para-en">She was staring at the floor. He felt buoyant and dominating, so delightfully stronger than she. He lifted her chin with his forefinger, demanding, “Look up at me now!”</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-en">The Benhams came home﻿—<abbr epub:type="z3998:name-title">Mrs.</abbr> Benham to cry happily over the engagement, and <abbr epub:type="z3998:name-title">Mr.</abbr> Benham to indulge in a deal of cordial back-slapping, and such jests as, “Well, by golly, now I’m going to have a real live preacher in the family, guess I’ll have to be so doggone honest that the store won’t hardly pay!”</p>
 
-<p class="para-vi-sub">Vợ chồng Benham trở về nhà, bà Benham sung sướng khóc nghẹn vì lễ đính hôn, còn ông Benham thì liên tục vỗ vai bốp chát và tung ra những câu trêu chọc kiểu như: “Chà, phen này thì tao có một ông mục sư bằng xương bằng thịt hẳn hoi trong nhà rồi, chắc tao phải sống thật thà đến mức cái cửa hàng chẳng kiếm chác được gì nữa quá!”</p>
+<p class="para-vi-sub">Vợ chồng Benham trở về nhà, bà Benham sung sướng khóc nghẹn vì lễ đính hôn, còn ông Benham thì liên tục vỗ vai bốp chát và tung ra những câu trêu chọc kiểu như: “Chà, phen này thì tôi có một ông mục sư bằng xương bằng thịt hẳn hoi trong nhà rồi, chắc tôi phải sống thật thà đến mức cái cửa hàng chẳng kiếm chác được gì nữa quá!”</p>
 
 ### III
 
@@ -84,11 +84,11 @@
 
 <p class="para-en">For the wedding there were scores of coconut cakes and hundreds of orange blossoms, roses from a real city florist in Sparta, new photographs for the family album, a tub of strictly temperance punch and beautiful but modest lingerie for Cleo. It was tremendous. But Elmer was a little saddened by the fact that there was no one whom he wanted for best man; no one who had been his friend since Jim Lefferts.</p>
 
-<p class="para-vi-sub">Đám cưới có hàng chục chiếc bánh dừa, hàng trăm bông hoa cam, những đóa hồng từ một tiệm hoa thành phố chính hiệu ở Sparta, những bức ảnh mới tinh cho cuốn album gia đình, một thùng punch hoàn toàn không cồn cùng những món đồ lót đẹp đẽ nhưng kín đáo dành cho Cleo. Mọi thứ thật hoành tráng. Nhưng Elmer lại hơi chạnh lòng vì chẳng có lấy một ai mà Elmer muốn chọn làm phù rể, chẳng có nổi một người bạn nào gắn bó với Elmer kể từ thời Jim Lefferts.</p>
+<p class="para-vi-sub">Đám cưới có hàng chục chiếc bánh dừa, hàng trăm bông hoa cam, những đóa hồng từ một tiệm hoa thành phố chính hiệu ở Sparta, những bức ảnh mới tinh cho cuốn album gia đình, một thùng punch hoàn toàn không cồn cùng những món đồ lót đẹp đẽ nhưng kín đáo dành cho Cleo. Mọi thứ thật hoành tráng. Nhưng Elmer lại hơi chạnh lòng vì chẳng có lấy một ai mà gã muốn chọn làm phù rể, chẳng có nổi một người bạn nào gắn bó với gã kể từ thời Jim Lefferts.</p>
 
 <p class="para-en">He asked Ray Faucett, butter-maker at the creamery and choir-singer in the church, and the village was flattered that out of the hundreds of intimates Elmer must have in the great world outside, he should have chosen one of their own boys.</p>
 
-<p class="para-vi-sub">Elmer đành nhờ Ray Faucett, thợ làm bơ ở xưởng sữa đồng thời là ca sĩ trong đội hợp xướng của nhà thờ, và cả ngôi làng cảm thấy vô cùng hãnh diện khi biết rằng trong hàng trăm mối thân tình mà Elmer chắc chắn phải có ở thế giới rộng lớn ngoài kia, Elmer lại chọn đúng một cậu thanh niên của làng mình.</p>
+<p class="para-vi-sub">Gã đành nhờ Ray Faucett, thợ làm bơ ở xưởng sữa đồng thời là ca sĩ trong đội hợp xướng của nhà thờ, và cả ngôi làng cảm thấy vô cùng hãnh diện khi biết rằng trong hàng trăm mối thân tình mà Elmer chắc chắn phải có ở thế giới rộng lớn ngoài kia, gã lại chọn đúng một cậu thanh niên của làng mình.</p>
 
 <p class="para-en">They were married, during a half blizzard, by the district superintendent. They took the train for Zenith, to stop overnight on their way to Chicago.</p>
 
@@ -96,21 +96,21 @@
 
 <p class="para-en">Not till he was on the train, the shouting and the rice-showers over, did Elmer gasp to himself, looking at Cleo’s rather unchanging smile, “Oh, good God, I’ve gone and tied myself up, and I never can have any fun again!”</p>
 
-<p class="para-vi-sub">Mãi cho đến lúc lên tàu, khi những tiếng hô hò và màn tung gạo chúc phúc đã lùi lại phía sau, Elmer mới giật mình thở dốc, nhìn nụ cười có phần bất biến của Cleo Benham rồi thầm nghĩ: “Ối chà, lạy Chúa nhân từ, mình tự trói buộc đời mình mất rồi, và từ nay mình chẳng còn được vui thú gì nữa!”</p>
+<p class="para-vi-sub">Mãi cho đến lúc lên tàu, khi những tiếng hô hò và màn tung gạo chúc phúc đã lùi lại phía sau, Elmer mới giật mình thở dốc, nhìn nụ cười có phần bất biến của Cleo rồi thầm nghĩ: “Ối chà, lạy Chúa nhân từ, mình tự trói buộc đời mình mất rồi, và từ nay mình chẳng còn được vui thú gì nữa!”</p>
 
 <p class="para-en">But he was very manly, gentlemanly in fact; he concealed his distaste for her and entertained her with an account of the beauties of Longfellow.</p>
 
-<p class="para-vi-sub">Nhưng gã vẫn tỏ ra rất nam tính, thậm chí rất lịch thiệp; gã che giấu sự chán ghét đối với Cleo và giải khuây cho Cleo bằng cách kể về những nét đẹp trong thơ ca của Longfellow.</p>
+<p class="para-vi-sub">Nhưng gã vẫn tỏ ra rất nam tính, thậm chí rất lịch thiệp; gã che giấu sự chán ghét đối với Cleo và giải khuây cho cô bằng cách kể về những nét đẹp trong thơ ca của Longfellow.</p>
 
 ### IV
 
 <p class="para-en">Cleo looked tired, and toward the end of the journey, in the winter evening, with the gale desolate, she seemed scarce to be listening to his observations on graded Sunday School lessons, the treatment of corns, his triumphs at Sister Falconer’s meetings, and the inferiority of the Reverend Clyde Tippey.</p>
 
-<p class="para-vi-sub">Cleo Benham trông có vẻ mệt mỏi, và khi chuyến hành trình dần khép lại giữa buổi chiều mùa đông với gió lùa hoang vắng, Cleo dường như hầu như chẳng buồn lắng nghe những lời gã huyên thuyên về các bài học Trường Chúa nhật phân theo cấp lớp, cách chữa chai chân, những chiến tích của gã trong các buổi nhóm họp của Sơ Falconer, hay sự kém cỏi của Mục sư Clyde Tippey.</p>
+<p class="para-vi-sub">Cleo trông có vẻ mệt mỏi, và khi chuyến hành trình dần khép lại giữa buổi chiều mùa đông với gió lùa hoang vắng, cô dường như hầu như chẳng buồn lắng nghe những lời gã huyên thuyên về các bài học Trường Chúa nhật phân theo cấp lớp, cách chữa chai chân, những chiến tích của gã trong các buổi nhóm họp của Sơ Falconer, hay sự kém cỏi của Mục sư Clyde Tippey.</p>
 
 <p class="para-en">“Well, you might pay a <em>little</em> attention to me, anyway!” he snarled.</p>
 
-<p class="para-vi-sub">“Này, ít ra cô cũng phải chú ý đến tôi một chút chứ!” Elmer gắt lên.</p>
+<p class="para-vi-sub">“Này, ít ra em cũng phải chú ý đến anh một chút chứ!” gã gắt lên.</p>
 
 <p class="para-en">“Oh, I’m sorry! I really was paying attention. I’m just tired﻿—all the preparations for the wedding and everything.”</p>
 
@@ -118,11 +118,11 @@
 
 <p class="para-en">She looked at him beseechingly. “Oh, Elmer, you must take care of me! I’m giving myself to you entirely﻿—oh, completely.”</p>
 
-<p class="para-vi-sub">Cleo Benham nhìn gã bằng ánh mắt cầu khẩn. “Ôi, Elmer, anh phải chăm sóc em đấy nhé! Em đang hiến dâng trọn vẹn cuộc đời mình cho anh... hoàn toàn trọn vẹn đấy.”</p>
+<p class="para-vi-sub">Cô nhìn gã bằng ánh mắt cầu khẩn. “Ôi, Elmer, anh phải chăm sóc em đấy nhé! Em đang hiến dâng trọn vẹn cuộc đời mình cho anh... hoàn toàn trọn vẹn đấy.”</p>
 
 <p class="para-en">“Huh! So you look at it as a <em>sacrifice</em> to marry me, do you!”</p>
 
-<p class="para-vi-sub">“Hừ! Thế ra cô coi việc lấy tôi là một sự hy sinh cơ à!”</p>
+<p class="para-vi-sub">“Hừ! Thế ra em coi việc lấy anh là một sự hy sinh cơ à!”</p>
 
 <p class="para-en">“Oh, no, I didn’t mean it that way﻿—”</p>
 
@@ -130,7 +130,7 @@
 
 <p class="para-en">“And I suppose you think I don’t intend to take care of you! Sure! Prob’ly I stay out late nights and play cards and gamble and drink and run around after women! Of course! I’m not a minister of the gospel﻿—I’m a saloon-keeper!”</p>
 
-<p class="para-vi-sub">“Và chắc là cô nghĩ tôi không có ý định chăm sóc cô chắc! Chắc chắn thế rồi! Chắc là tôi hay la cà chơi bài bạc, đỏ đen, chè chén và lăng nhăng đuổi theo đàn bà suốt đêm quá! Dĩ nhiên rồi! Tôi đâu phải là một mục sư rao giảng phúc âm, tôi là chủ quán rượu cơ mà!”</p>
+<p class="para-vi-sub">“Và chắc là em nghĩ anh không có ý định chăm sóc em chắc! Chắc chắn thế rồi! Chắc là anh hay la cà chơi bài bạc, đỏ đen, chè chén và lăng nhăng đuổi theo đàn bà suốt đêm quá! Dĩ nhiên rồi! Anh đâu phải là một mục sư rao giảng phúc âm, anh là chủ quán rượu cơ mà!”</p>
 
 <p class="para-en">“Oh, dear, dear, dear, oh, my dearest, I didn’t mean to hurt you! I just meant﻿—You’re so strong, and big, and I’m﻿—oh, of course I’m not a tiny little thing, but I haven’t got your strength.”</p>
 
@@ -142,25 +142,25 @@
 
 <p class="para-en">He magnanimously comforted her: “Oh, I know. Of course, you poor dear. Fool thing anyway, your mother having this big wedding, and all the eats and the relatives coming in and everything.”</p>
 
-<p class="para-vi-sub">Gã ra điều rộng lượng an ủi Cleo: “Ôi, anh biết rồi. Dĩ nhiên là thế, tội nghiệp em yêu của anh. Mà cũng ngốc thật, tại mẹ em cứ thích bày vẽ cái đám cưới to tát này, rồi nào đồ ăn thức uống với họ hàng kéo đến đủ kiểu.”</p>
+<p class="para-vi-sub">Gã ra điều rộng lượng an ủi cô: “Ôi, anh biết rồi. Dĩ nhiên là thế, tội nghiệp em yêu của anh. Mà cũng ngốc thật, tại mẹ em cứ thích bày vẽ cái đám cưới to tát này, rồi nào đồ ăn thức uống với họ hàng kéo đến đủ kiểu.”</p>
 
 <p class="para-en">And with all this, she still seemed distressed.</p>
 
-<p class="para-vi-sub">Dù vậy, Cleo trông vẫn có vẻ rầu rĩ.</p>
+<p class="para-vi-sub">Dù vậy, cô trông vẫn có vẻ rầu rĩ.</p>
 
 <p class="para-en">But he patted her hand, and talked about the cottage they were going to furnish in Banjo Crossing; and as he thought of the approaching Zenith, of their room at the O’Hearn House (there was no necessity for a whole suite, as formerly, when he had had to impress his Prosperity pupils), he became more ardent, whispered to her that she was beautiful, stroked her arm till she trembled.</p>
 
-<p class="para-vi-sub">Nhưng Elmer vỗ về bàn tay cô, nói về ngôi nhà nhỏ mà họ sắp sửa sắm sửa đồ đạc ở Banjo Crossing; và khi nghĩ đến Thành phố Zenith đang đến gần, đến căn phòng của họ ở Khách sạn O’Hearn House (lần này chẳng cần phải thuê cả một dãy phòng như trước kia, khi gã còn phải tạo ấn tượng với các học viên Lớp học Thịnh vượng), gã trở nên nồng nhiệt hơn, thì thầm vào tai cô rằng cô rất xinh đẹp, vuốt ve cánh tay cô cho đến khi cô run lên.</p>
+<p class="para-vi-sub">Nhưng gã vỗ về bàn tay cô, nói về ngôi nhà nhỏ mà họ sắp sửa sắm sửa đồ đạc ở Banjo Crossing; và khi nghĩ đến Thành phố Zenith đang đến gần, đến căn phòng của họ ở Khách sạn O’Hearn House (lần này chẳng cần phải thuê cả một dãy phòng như trước kia, khi gã còn phải tạo ấn tượng với các học viên Lớp học Thịnh vượng), gã trở nên nồng nhiệt hơn, thì thầm vào tai cô rằng cô rất xinh đẹp, vuốt ve cánh tay cô cho đến khi cô run lên.</p>
 
 ### V
 
 <p class="para-en">The bellboy had scarcely closed the door of their room, with its double bed, when he had seized her, torn off her overcoat, with its snow-wet collar, and hurled it on the floor. He kissed her throat. When he had loosened his clasp, she retreated, the back of her hand fearfully at her lips, her voice terrified as she begged, “Oh, don’t! Not now! I’m afraid!”</p>
 
-<p class="para-vi-sub">Cậu nhân viên khuân vác vừa đóng cánh cửa phòng có chiếc giường đôi lại, Elmer đã chộp lấy Cleo Benham, giật phăng chiếc áo khoác với phần cổ áo còn ướt tuyết rồi quăng thẳng xuống sàn. Gã hôn lên cổ cô. Khi gã vừa nới lỏng vòng tay, Cleo Benham liền lùi lại, mu bàn tay run rẩy che lên môi, giọng hoảng sợ nài nỉ: “Ôi, đừng! Đừng lúc này! Em sợ lắm!”</p>
+<p class="para-vi-sub">Cậu nhân viên khuân vác vừa đóng cánh cửa phòng có chiếc giường đôi lại, Elmer đã chộp lấy Cleo, giật phăng chiếc áo khoác với phần cổ áo còn ướt tuyết rồi quăng thẳng xuống sàn. Gã hôn lên cổ cô. Khi gã vừa nới lỏng vòng tay, cô liền lùi lại, mu bàn tay run rẩy che lên môi, giọng hoảng sợ nài nỉ: “Ôi, đừng! Đừng lúc này! Em sợ lắm!”</p>
 
 <p class="para-en">“That’s damned nonsense!” he raged, stalking her as she backed away.</p>
 
-<p class="para-vi-sub">“Thật là nhảm nhí hết chỗ nói!” Elmer gầm lên, tiến lại chèn ép khi cô lùi dần về phía sau.</p>
+<p class="para-vi-sub">“Thật là nhảm nhí hết chỗ nói!” gã gầm lên, tiến lại chèn ép khi cô lùi dần về phía sau.</p>
 
 <p class="para-en">“Oh, no, please!”</p>
 
@@ -168,7 +168,7 @@
 
 <p class="para-en">“Say, what the devil do you think marriage is?”</p>
 
-<p class="para-vi-sub">“Này, quỷ tha ma bắt thế cô nghĩ hôn nhân là cái gì hả?”</p>
+<p class="para-vi-sub">“Này, quỷ tha ma bắt thế em nghĩ hôn nhân là cái gì hả?”</p>
 
 <p class="para-en">“Oh, I’ve never heard you curse before!”</p>
 
@@ -176,11 +176,11 @@
 
 <p class="para-en">“My God, I wouldn’t, if you didn’t act so’s it’d try the patience of a saint on a monument!” He controlled himself. “Now, now, now! I’m sorry! Guess I’m kind of tired, too. There, there, little girl. Didn’t mean to scare you. Excuse me. Just showed I was crazy in love with you, don’t you see?”</p>
 
-<p class="para-vi-sub">“Lạy Chúa tôi, tôi sẽ chẳng bao giờ thề thốt nếu cô không cư xử kiểu làm thử thách sự kiên nhẫn của một vị thánh trên đài tưởng niệm!” Gã tự kìm chế lại. “Thôi nào, thôi nào, thôi nào! Anh xin lỗi! Chắc là anh cũng hơi mệt đấy. Thôi nào, cô bé ngoan. Anh không có ý làm em sợ đâu. Tha lỗi cho anh nhé. Chỉ là anh chứng tỏ anh phát cuồng vì em thôi, cô không thấy thế à?”</p>
+<p class="para-vi-sub">“Lạy Chúa tôi, anh sẽ chẳng bao giờ thề thốt nếu em không cư xử kiểu thử thách sự kiên nhẫn của một vị thánh trên đài tưởng niệm!” Gã tự kìm chế lại. “Thôi nào, thôi nào, thôi nào! Anh xin lỗi! Chắc là anh cũng hơi mệt đấy. Thôi nào, cô bé ngoan. Anh không có ý làm em sợ đâu. Tha lỗi cho anh nhé. Chỉ là anh chứng tỏ anh phát cuồng vì em thôi, em không thấy thế à?”</p>
 
 <p class="para-en">To his broad and apostolic smirk she responded with a weak smile, and he seized her again, laid his thick hand on her breast. Between his long embraces, though his anger at her limpness was growing, he sought to encourage her by shouting, “Come on now, Clee, show some spunk!”</p>
 
-<p class="para-vi-sub">Trước nụ cười nhếch mép mang vẻ bề trên và đậm chất tông đồ của gã, Cleo Benham đáp lại bằng một nụ cười yếu ớt, và Elmer lại chộp lấy cô, đặt bàn tay to bè lên ngực cô. Giữa những cái ôm siết dài, dẫu cơn giận vì sự mềm oặt của cô đang dâng lên, gã vẫn cố khích lệ cô bằng cách quát lớn: “Nào, Clee, tỏ ra có khí phách một chút xem nào!”</p>
+<p class="para-vi-sub">Trước nụ cười nhếch mép mang vẻ bề trên và đậm chất tông đồ của gã, Cleo đáp lại bằng một nụ cười yếu ớt, và Elmer lại chộp lấy cô, đặt bàn tay to bè lên ngực cô. Giữa những cái ôm siết dài, dẫu cơn giận vì sự mềm oặt của cô đang dâng lên, gã vẫn cố khích lệ cô bằng cách quát lớn: “Nào, Clee, tỏ ra có khí phách một chút xem nào!”</p>
 
 <p class="para-en">She did not forbid him again; she was merely a pale acquiescence﻿—pale save when she flushed unhappily as he made fun of the old-fashioned, long-sleeved nightgown which she timidly put on in the indifferent privacy of the bathroom.</p>
 
@@ -188,7 +188,7 @@
 
 <p class="para-en">“Gee, you might as well wear a gunnysack!” he roared, holding out his arms. She tried to look confident as she slowly moved toward him. She did not succeed.</p>
 
-<p class="para-vi-sub">“Trời ạ, cô mặc luôn một chiếc bao bố cho rồi!” Elmer gầm lên, dang rộng vòng tay. Cleo Benham cố ra vẻ tự tin khi chậm rãi bước về phía gã. Nhưng cô chẳng thể làm được.</p>
+<p class="para-vi-sub">“Trời ạ, em mặc luôn một chiếc bao bố cho rồi!” gã gầm lên, dang rộng vòng tay. Cleo cố ra vẻ tự tin khi chậm rãi bước về phía gã. Nhưng cô chẳng thể làm được.</p>
 
 <p class="para-en">“Fellow <em>ought</em> to be brutal, for her own sake,” he told himself, and seized her shoulders.</p>
 
@@ -200,17 +200,17 @@
 
 <p class="para-en">“You look here now! The fact you’re a preacher’s wife doesn’t keep you from being human! You’re a fine one to teach brats in Sunday School!” he said, and many other strong spirited things, while she wept, her hair disordered round her meek face, which he hated.</p>
 
-<p class="para-vi-sub">“Cô nhìn lại mình xem nào! Việc cô là vợ một mục sư không có nghĩa là cô không còn là con người nữa nhé! Cô hay ho thật đấy khi đi dạy dỗ lũ trẻ con ở Trường Chúa nhật!” gã nói, kèm theo vô số lời lẽ đanh thép khác, trong khi cô khóc nức nở, mái tóc xõa xòa quanh khuôn mặt hiền lành mà gã lấy làm ghét cay ghét đắng.</p>
+<p class="para-vi-sub">“Em nhìn lại mình xem nào! Việc em là vợ một mục sư không có nghĩa là em không còn là con người nữa nhé! Em hay ho thật đấy khi đi dạy dỗ lũ trẻ con ở Trường Chúa nhật!” gã nói, kèm theo vô số lời lẽ đanh thép khác, trong khi cô khóc nức nở, mái tóc xõa xòa quanh khuôn mặt hiền lành mà gã lấy làm ghét cay ghét đắng.</p>
 
 ### VI
 
 <p class="para-en">The discovery that Cleo would never be a lively lover threw him the more into ambition when they had returned to Banjo Crossing.</p>
 
-<p class="para-vi-sub">Việc phát hiện ra Cleo Benham chẳng bao giờ trở thành một người tình nồng nhiệt lại càng đẩy Elmer dấn thân sâu hơn vào con đường danh vọng sau khi họ trở về Banjo Crossing.</p>
+<p class="para-vi-sub">Việc phát hiện ra Cleo chẳng bao giờ trở thành một người tình nồng nhiệt lại càng đẩy Elmer dấn thân sâu hơn vào con đường danh vọng sau khi họ trở về Banjo Crossing.</p>
 
 <p class="para-en">Cleo, though she was unceasingly bewildered by his furies, found something of happiness in furnishing their small house, arranging his books, adoring his pulpit eloquence, and in receiving, as the Pastor’s Wife, homage even from her old friends. He was able to forget her, and all his thought went to his holy climbing. He was eager for the Annual Conference, in spring; he had to get on, to a larger town, a larger church.</p>
 
-<p class="para-vi-sub">Cleo Benham, dẫu không ngừng hoang mang trước những cơn cuồng nộ của gã, vẫn tìm thấy niềm hạnh phúc nhất định trong việc sắm sửa ngôi nhà nhỏ, sắp xếp mấy giá sách cho gã, sùng bái tài hùng biện trên bục giảng của chồng, và được đón nhận sự kính trọng từ chính những người bạn cũ với tư cách là Vợ Mục sư. Elmer đã có thể quên đi cô, và toàn bộ tâm trí gã dồn hết vào công cuộc leo cao chót vót trên đường thánh thiện. Gã vô cùng mong chờ Hội nghị Thường niên diễn ra vào mùa xuân; gã phải tiến lên, tới một thị trấn lớn hơn, một nhà thờ lớn hơn.</p>
+<p class="para-vi-sub">Cleo, dẫu không ngừng hoang mang trước những cơn cuồng nộ của gã, vẫn tìm thấy niềm hạnh phúc nhất định trong việc sắm sửa ngôi nhà nhỏ, sắp xếp mấy giá sách cho gã, sùng bái tài hùng biện trên bục giảng của chồng, và được đón nhận sự kính trọng từ chính những người bạn cũ với tư cách là Vợ Mục sư. Elmer đã có thể quên đi cô, và toàn bộ tâm trí gã dồn hết vào công cuộc leo cao chót vót trên đường thánh thiện. Gã vô cùng mong chờ Hội nghị Thường niên diễn ra vào mùa xuân; gã phải tiến lên, tới một thị trấn lớn hơn, một nhà thờ lớn hơn.</p>
 
 <p class="para-en">He was bored by Banjo Crossing. The life of a small-town preacher, prevented from engaging even in the bucolic pleasures, is rather duller than that of a watchman at a railroad-crossing.</p>
 
@@ -296,7 +296,7 @@
 
 <p class="para-en">Elmer caught him with his great arms, and whispered, “He has gone to his glory, to his great reward! Don’t let’s sorrow for him!”</p>
 
-<p class="para-vi-sub">Elmer vươn đôi tay vạm vỡ đỡ lấy cụ rồi thì thầm: “Cậu ấy đã về với cõi vinh quang, về với phần thưởng lớn lao của mình! Chúng ta đừng đau buồn vì cậu ấy nữa!”</p>
+<p class="para-vi-sub">Elmer vươn đôi tay vạm vỡ đỡ lấy cụ rồi thì thầm: “Cụ ấy đã về với cõi vinh quang, về với phần thưởng lớn lao của mình! Chúng ta đừng đau buồn vì cụ ấy nữa!”</p>
 
 <p class="para-en">In Elmer’s confident strength old Whittlesey found reassurance. He clung to him, muttering, “God bless you, Brother,” before he hobbled out.</p>
 
@@ -354,7 +354,7 @@
 
 <p class="para-en">“I think I’ll sneak up to Sparta this week,” he fumed, then: “No! Conference coming in ten days; can’t take any chances till after that.”</p>
 
-<p class="para-vi-sub">“Tao nghĩ tuần này mình nên tạt qua Sparta xem sao,” gã lầm bầm, rồi lại nghĩ: “Không! Hội nghị sắp diễn ra trong mười ngày nữa; không thể liều lĩnh cho đến sau thời điểm đó được.”</p>
+<p class="para-vi-sub">“Mình nghĩ tuần này mình nên tạt qua Sparta xem sao,” gã lầm bầm, rồi lại nghĩ: “Không! Hội nghị sắp diễn ra trong mười ngày nữa; không thể liều lĩnh cho đến sau thời điểm đó được.”</p>
 
 ### IX
 
@@ -432,7 +432,7 @@
 
 <p class="para-en">“You see, Brother Elmer, I was right! The Methodist Church just suits you,” said the bishop, his eyes bright under his formidable brows. “I am able to give you a larger church already. It wouldn’t be cricket, as the English say﻿—ah, England! how you will enjoy going there some time; you will find such a fruitful source of the broader type of sermons in travel; I know that you and your lovely bride﻿—I’ve had the pleasure of having her pointed out to me﻿—you will both know the joy and romance of travel one of these days. But as I was saying: I can give you a rather larger town this time, though it wouldn’t be proper to tell you which one till I read the list of appointments to the Conference. And in the near future, if you continue as you have in your studies and attention to the needs of our flock and in your excellence of daily living, which the district superintendent has noted, why, you’ll be due for a <em>much</em> larger field of service. God bless you!”</p>
 
-<p class="para-vi-sub">“Cậu thấy chưa, Sư huynh Elmer, ta đã nói có sai đâu! Giáo hội Giám lý hoàn toàn phù hợp với cậu,” đức giám mục cất lời, đôi mắt sáng rực dưới hàng chân mày đáng sợ. “Ta đã có thể giao cho cậu một nhà thờ lớn hơn rồi đấy. Làm vậy thì không đúng phép lịch sự theo kiểu người Anh chút nào, à, nước Anh! Có lúc nào đó cậu sẽ thích thú biết bao khi đặt chân đến đó; cậu sẽ tìm thấy một nguồn cảm hứng vô cùng dồi dào cho những bài giảng mang tầm vóc rộng lớn hơn qua những chuyến du ngoạn; ta biết rằng cậu và người vợ xinh đẹp của cậu, ta đã có vinh dự được người ta chỉ cho thấy mặt cô ấy, hai vợ chồng cậu rồi sẽ sớm thấu hiểu niềm vui và sự lãng mạn của những chuyến đi. Nhưng như ta vừa nói đấy: Lần này ta có thể giao cho cậu cai quản một thị trấn lớn hơn kha khá, mặc dù sẽ là không đúng mực nếu ta tiết lộ đó là nơi nào trước khi đọc danh sách phân công chính thức trước Hội nghị. Và trong tương lai không xa, nếu cậu tiếp tục duy trì sự chuyên cần trong học tập, quan tâm sát sao đến nhu cầu của bầy chiên chúng ta, cùng với lối sống ngày một xuất sắc mà giám thị quận đã ghi nhận, thì ừm, cậu sẽ đến lúc được trao phó một trường hoạt động <i>lớn hơn rất nhiều</i>. Chúa phù hộ cậu!”</p>
+<p class="para-vi-sub">“Cậu thấy chưa, Sư huynh Elmer, tôi đã nói có sai đâu! Giáo hội Giám lý hoàn toàn phù hợp với cậu,” đức giám mục cất lời, đôi mắt sáng rực dưới hàng chân mày đáng sợ. “Tôi đã có thể giao cho cậu một nhà thờ lớn hơn rồi đấy. Làm vậy thì không đúng phép lịch sự theo kiểu người Anh chút nào, à, nước Anh! Có lúc nào đó cậu sẽ thích thú biết bao khi đặt chân đến đó; cậu sẽ tìm thấy một nguồn cảm hứng vô cùng dồi dào cho những bài giảng mang tầm vóc rộng lớn hơn qua những chuyến du ngoạn; tôi biết rằng cậu và người vợ xinh đẹp của cậu, tôi đã có vinh dự được người ta chỉ cho thấy mặt cô ấy, hai vợ chồng cậu rồi sẽ sớm thấu hiểu niềm vui và sự lãng mạn của những chuyến đi. Nhưng như tôi vừa nói đấy: Lần này tôi có thể giao cho cậu cai quản một thị trấn lớn hơn kha khá, mặc dù sẽ là không đúng mực nếu tôi tiết lộ đó là nơi nào trước khi đọc danh sách phân công chính thức trước Hội nghị. Và trong tương lai không xa, nếu cậu tiếp tục duy trì sự chuyên cần trong học tập, quan tâm sát sao đến nhu cầu của bầy chiên chúng ta, cùng với lối sống ngày một xuất sắc mà giám thị quận đã ghi nhận, thì ừm, cậu sẽ đến lúc được trao phó một trường hoạt động <i>lớn hơn rất nhiều</i>. Chúa phù hộ cậu!”</p>
 
 ### X
 

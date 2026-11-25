@@ -60,11 +60,11 @@
 
 <p class="para-en">“That’s right,” agreed Elmer Gantry. “Say, I had﻿—I was holding a meeting at Grauten, Kansas, last summer, and there was a big boob that kept interrupting, so I just jumped down from the platform and went up to him, and he says, ‘Say, Parson,’ he says, ‘Can you tell us what the Almighty wants us to do about prohibition, considering he told Paul to take some wine for his stomach’s sake?’ ‘I don’t know as I can,’ I says, ‘but you want to remember he also commanded us to cast out devils!’ and I yanked that yahoo out of his seat and threw him out on his ear, and say, the whole crowd﻿—well, there weren’t so awfully many there, but they certainly did give him the ha-ha! You bet. And to be husky makes a hit with the whole congregation, men’s well as women. But there’s more’n one high-toned preacher that got his pulpit because the deacons felt he could lick ’em. Of course praying and all that is all ok, but you got to be practical! We’re here to do good, but first you have to cinch a job that you can do good in!”</p>
 
-<p class="para-vi-sub">“Đúng thế”, Elmer đồng tình. “Này, tao đã... tao từng tổ chức một buổi truyền giảng ở Grauten, bang Kansas, vào mùa hè năm ngoái, có một thằng đần cứ đứng lên phá đám, thế là tao liền nhảy ùm từ bục giảng xuống tiến thẳng đến chỗ nó, rồi nó bảo: ‘Này, thưa Mục sư, ông có thể cho chúng tôi biết Đấng Toàn Năng muốn chúng ta làm gì về Lệnh Cấm rượu không, khi mà Ngài từng bảo Phao-lô hãy uống chút rượu vì cái dạ dày?’ ‘Tao chịu, tao không biết có làm được thế không,’ tao bảo, ‘nhưng mày nên nhớ Ngài cũng ra lệnh cho chúng ta phải trừ quỷ chứ’, và tao tóm cổ cái gã ngu ngốc đó lôi bật khỏi ghế rồi tống cổ nó ra ngoài một cú, thế là, cả đám đông... à, dĩ nhiên ở đó không có quá nhiều người, nhưng bọn họ quả nhiên đã cười vào mặt nó một trận thả phanh. Mày cứ tin đi. Việc có một cơ thể vạm vỡ luôn tạo được tiếng vang lớn với toàn thể giáo chúng, cả đàn ông lẫn phụ nữ. Nhưng có khối vị mục sư cao sang kiếm được bục giảng chỉ vì mấy ông chấp sự cảm thấy gã có thể đấm vỡ mồm họ. Dĩ nhiên cầu nguyện hay mấy thứ tương tự thì đều ổn cả, nhưng cậu phải thực tế. Chúng ta ở đây để làm việc thiện, nhưng trước tiên cậu phải chớp lấy một cái ghế mà cậu có thể làm việc thiện trong đó chứ.”</p>
+<p class="para-vi-sub">“Đúng thế”, Elmer đồng tình. “Này, tao đã... tao từng tổ chức một buổi truyền giảng ở Grauten, bang Kansas, vào mùa hè năm ngoái, có một thằng đần cứ đứng lên phá đám, thế là tao liền nhảy ùm từ bục giảng xuống tiến thẳng đến chỗ nó, rồi nó bảo: ‘Này, thưa Mục sư, ông có thể cho chúng tôi biết Đấng Toàn Năng muốn chúng ta làm gì về Lệnh Cấm rượu không, khi mà Ngài từng bảo Phao-lô hãy uống chút rượu vì cái dạ dày?’ ‘Tao chịu, tao không biết có làm được thế không’, tao bảo, ‘nhưng mày nên nhớ Ngài cũng ra lệnh cho chúng ta phải trừ quỷ chứ’, và tao tóm cổ cái gã ngu ngốc đó lôi bật khỏi ghế rồi tống cổ nó ra ngoài một cú, thế là, cả đám đông... à, dĩ nhiên ở đó không có quá nhiều người, nhưng bọn họ quả nhiên đã cười vào mặt nó một trận thả phanh. Mày cứ tin đi. Việc có một cơ thể vạm vỡ luôn tạo được tiếng vang lớn với toàn thể giáo chúng, cả đàn ông lẫn phụ nữ. Nhưng có khối vị mục sư cao sang kiếm được bục giảng chỉ vì mấy ông chấp sự cảm thấy gã có thể đấm vỡ mồm họ. Dĩ nhiên cầu nguyện hay mấy thứ tương tự thì đều ổn cả, nhưng cậu phải thực tế. Chúng ta ở đây để làm việc thiện, nhưng trước tiên cậu phải chớp lấy một cái ghế mà cậu có thể làm việc thiện trong đó chứ.”</p>
 
 <p class="para-en">“You’re commercial!” protested Eddie Fislinger, and Frank Shallard: “Good heavens, Gantry, is that all your religion means to you?”</p>
 
-<p class="para-vi-sub">“Cậu thực dụng quá đấy.” Eddie Fislinger phản đối, còn Frank Shallard thì lên tiếng: “Lạy Chúa, Gantry, tôn giáo đối với cậu chỉ có từng đó thôi sao?”</p>
+<p class="para-vi-sub">“Cậu thực dụng quá đấy”, Eddie Fislinger phản đối, còn Frank Shallard thì lên tiếng: “Lạy Chúa, Gantry, tôn giáo đối với cậu chỉ có từng đó thôi sao?”</p>
 
 <p class="para-en">“Besides,” said Horace Carp, “you have the wrong angle. It isn’t mere brute force that appeals to women﻿—to congregations. It’s a beautiful voice. I don’t envy you your bulk, Elmer﻿—besides, you’re going to get fat﻿—”</p>
 
@@ -84,7 +84,7 @@
 
 <p class="para-en">“Yes, you prob’ly would read ’em poetry!” said Elmer. “That’s the trouble with you highfalutin’ guys. You think you can get people by a lot of poetry and junk. What gets ’em and holds ’em and brings ’em to their pews every Sunday is the straight gospel﻿—and it don’t hurt one bit to scare ’em into being righteous with the good old-fashioned Hell!”</p>
 
-<p class="para-vi-sub">“Ừ, chắc cậu sẽ ngâm thơ cho họ nghe thật đấy.” Elmer nói. “Đó là cái thói dở hơi của mấy gã màu mè các cậu. Cứ nghĩ rằng có thể câu dẫn thiên hạ bằng dăm ba cái thứ thơ thẩn vớ vẩn. Thứ giữ chân được họ và kéo họ đến ghế băng mỗi ngày Chúa nhật chính là phúc âm thuần túy... và việc dọa họ phải sống lương thiện bằng cái hỏa ngục truyền thống tốt đẹp chẳng hại gì đâu.”</p>
+<p class="para-vi-sub">“Ừ, chắc cậu sẽ ngâm thơ cho họ nghe thật đấy”, Elmer nói. “Đó là cái thói dở hơi của mấy gã màu mè các cậu. Cứ nghĩ rằng có thể câu dẫn thiên hạ bằng dăm ba cái thứ thơ thẩn vớ vẩn. Thứ giữ chân được họ và kéo họ đến ghế băng mỗi ngày Chúa nhật chính là phúc âm thuần túy... và việc dọa họ phải sống lương thiện bằng cái hỏa ngục truyền thống tốt đẹp chẳng hại gì đâu.”</p>
 
 <p class="para-en">“You bet﻿—providing you encourage ’em to keep their bodies in swell shape, too,” condescended Wallace Umstead. “Well, I don’t want to talk as a prof﻿—after all I’m glad I can still remain just one of the Boys﻿—but you aren’t going to develop any very big horsepower in your praying tomorrow morning if you don’t get your sleep. And me to my little downy! G’night!”</p>
 
@@ -120,15 +120,15 @@
 
 <p class="para-en">“That’s not true!” from Eddie Fislinger.</p>
 
-<p class="para-vi-sub">“Đâu có thật.” cậu ta kêu lên.</p>
+<p class="para-vi-sub">“Đâu có thật”, Eddie Fislinger phản đối.</p>
 
 <p class="para-en">“Don’t talk that way!” Don Pickens begged. Don was Frank’s roommate: a slight youth, so gentle, so affectionate, that even that raging lion of righteousness, Dean Trosper, was moved to spare him.</p>
 
-<p class="para-vi-sub">“Đừng nói kiểu đó chứ.” Don Pickens nài nỉ. Cậu ta là bạn cùng phòng với Frank: một thiếu niên mảnh khảnh, hiền lành và tình cảm đến mức ngay cả con sư tử hung hãn của sự công chính là ông Trosper cũng động lòng mà tha cho cậu ta.</p>
+<p class="para-vi-sub">“Đừng nói kiểu đó chứ”, Don Pickens nài nỉ. Don là bạn cùng phòng với Frank: một thiếu niên mảnh khảnh, hiền lành và tình cảm đến mức ngay cả con sư tử hung hãn của sự công chính là ông Trosper cũng động lòng mà tha cho cậu ta.</p>
 
 <p class="para-en">Harry Zenz patted his arm. “Oh, you, Don﻿—you’ll always be a monk. But if you don’t believe it, Fislinger, look at the statistics of the five thousand odd crimes committed by clergymen﻿—that is those who got caught﻿—since the eighties, and note the percentage of sex offenses﻿—rape, incest, bigamy, enticing young girls﻿—oh, a lovely record!”</p>
 
-<p class="para-vi-sub">Harry Zenz vỗ nhẹ lên tay cậu ta. “Ồ, cậu đấy, Don... cậu sẽ mãi là một tu sĩ thôi. Nhưng nếu cậu không tin, anh hãy nhìn vào thống kê về năm nghìn tội ác lớn nhỏ do các giáo sĩ thực hiện... nghĩa là những kẻ bị bắt... kể từ thập niên tám mươi, và để ý đến tỷ lệ các tội tình dục... cưỡng hiếp, loạn luân, song hôn, dụ dỗ thiếu nữ... ôi, một thành tích đáng yêu làm sao.”</p>
+<p class="para-vi-sub">Harry Zenz vỗ nhẹ lên tay cậu ta. “Ồ, cậu đấy, Don... cậu sẽ mãi là một tu sĩ thôi. Nhưng nếu cậu không tin, Fislinger, hãy nhìn vào thống kê về năm nghìn tội ác lớn nhỏ do các giáo sĩ thực hiện... nghĩa là những kẻ bị bắt... kể từ thập niên tám mươi, và để ý đến tỷ lệ các tội tình dục... cưỡng hiếp, loạn luân, song hôn, dụ dỗ thiếu nữ... ôi, một thành tích đáng yêu làm sao.”</p>
 
 <p class="para-en">Elmer was yawning, “Oh, God, I do get so sick of you fellows yammering and arguing and discussing. All perfectly simple﻿—maybe we preachers aren’t perfect: don’t pretend to be; but we do a lot of good.”</p>
 
@@ -136,7 +136,7 @@
 
 <p class="para-en">“That’s right,” said Eddie. “But maybe it is true that﻿—The snares of sex are so dreadful that even ministers of the gospel get trapped. And the perfectly simple solution is continence﻿—just take it out in prayer and good hard exercise.”</p>
 
-<p class="para-vi-sub">“Đúng thế”, cậu ta hưởng ứng. “Nhưng có lẽ sự thật là... Cạm bẫy của xác thịt thật kinh khủng đến nỗi ngay cả các mục sư của phúc âm cũng sập bẫy. Và giải pháp hoàn toàn đơn giản là sự tiết chế... cứ trút nó vào lời cầu nguyện và những bài tập thể lực thật hăng say.”</p>
+<p class="para-vi-sub">“Đúng thế”, Eddie hưởng ứng. “Nhưng có lẽ sự thật là... Cạm bẫy của xác thịt thật kinh khủng đến nỗi ngay cả các mục sư của phúc âm cũng sập bẫy. Và giải pháp hoàn toàn đơn giản là sự tiết chế... cứ trút nó vào lời cầu nguyện và những bài tập thể lực thật hăng say.”</p>
 
 <p class="para-en">“Oh, sure, Eddie, you bet; what a help you’re going to be to the young men in your church,” purred Harry Zenz.</p>
 
@@ -152,7 +152,7 @@
 
 <p class="para-en">“You certainly have a fine high view of the ministry!” growled Elmer.</p>
 
-<p class="para-vi-sub">“Cậu đúng là có một cái nhìn cao đẹp tuyệt vời về chức mục sư nhỉ.” Elmer cáu kỉnh cằn nhằn.</p>
+<p class="para-vi-sub">“Cậu đúng là có một cái nhìn cao đẹp tuyệt vời về chức mục sư nhỉ”, Elmer cáu kỉnh cằn nhằn.</p>
 
 <p class="para-en">“Well, all right, what’s your fine high purpose in becoming a Man of God, Brother Gantry?”</p>
 
@@ -180,11 +180,11 @@
 
 <p class="para-en">“I never preach about any such a doggone thing!” Elmer protested. “I just give ’em a good helpful sermon, with some jokes sprinkled in to make it interesting and some stuff about the theater or something that’ll startle ’em a little and wake ’em up, and help ’em to lead better and fuller daily lives.”</p>
 
-<p class="para-vi-sub">“Tôi có bao giờ giảng về cái thứ quái quỷ đó đâu.” Elmer phẫn nộ thanh minh. “Tôi chỉ tặng họ một bài giảng hữu ích, bổ ích, có pha chút trò đùa cho nó sinh động và dăm ba chuyện về kịch trường hay thứ gì đó có thể khiến họ giật mình một chút, đánh thức họ dậy và giúp họ hướng tới một cuộc sống hàng ngày tốt đẹp và trọn vẹn hơn.”</p>
+<p class="para-vi-sub">“Tôi có bao giờ giảng về cái thứ quái quỷ đó đâu”, Elmer phẫn nộ thanh minh. “Tôi chỉ tặng họ một bài giảng hữu ích, bổ ích, có pha chút trò đùa cho nó sinh động và dăm ba chuyện về kịch trường hay thứ gì đó có thể khiến họ giật mình một chút, đánh thức họ dậy và giúp họ hướng tới một cuộc sống hàng ngày tốt đẹp và trọn vẹn hơn.”</p>
 
 <p class="para-en">“Oh, do you, dearie!” said Zenz. “My error. I thought you probably gave ’em a lot of helpful hints about the <i lang="la" xml:lang="la">innascibilitas</i> attribute and the <i lang="la" xml:lang="la">res sacramenti.</i> Well, Frank, why did you become a theologue?”</p>
 
-<p class="para-vi-sub">“Ồ, thế hả, cưng.” Harry Zenz châm chọc. “Tôi nhầm. Tôi cứ tưởng anh mang đến cho họ vô số lời khuyên hữu ích về thuộc tính <i lang="la" xml:lang="la">innascibilitas</i> và bí tích <i lang="la" xml:lang="la">res sacramenti</i> cơ đấy. Nào, Frank, sao anh lại đâm đầu vào học thần học thế?”</p>
+<p class="para-vi-sub">“Ồ, thế hả, cưng”, Harry Zenz châm chọc. “Tôi nhầm. Tôi cứ tưởng anh mang đến cho họ vô số lời khuyên hữu ích về thuộc tính <i lang="la" xml:lang="la">innascibilitas</i> và bí tích <i lang="la" xml:lang="la">res sacramenti</i> cơ đấy. Nào, Frank, sao anh lại đâm đầu vào học thần học thế?”</p>
 
 <p class="para-en">“I can’t tell you when you put it sneeringly. I believe there are mystic experiences which you can follow only if you are truly set apart.”</p>
 
@@ -192,11 +192,11 @@
 
 <p class="para-en">“Well, I know why I came here,” said Don Pickens. “My dad sent me!”</p>
 
-<p class="para-vi-sub">“Ừm, tôi thì biết tại sao mình lại có mặt ở đây”, cậu ta lên tiếng. “Bố tôi bắt tôi đến đấy chứ.”</p>
+<p class="para-vi-sub">“Ừm, tôi thì biết tại the sao mình lại có mặt ở đây”, Don Pickens lên tiếng. “Bố tôi bắt tôi đến đấy chứ.”</p>
 
 <p class="para-en">“So did mine!” complained Horace Carp. “But what I can’t understand is: Why are any of us in an ole Baptist school? Horrible denomination﻿—all these moldy barns of churches, and people coughing illiterate hymns, and long-winded preachers always springing a bright new idea like ‘All the world needs to solve its problems is to get back to the gospel of Jesus Christ.’ The only church is the Episcopal! Music! Vestments! Stately prayers! Lovely architecture! Dignity! Authority! Believe me, as soon as I can make the break, I’m going to switch over to the Episcopalians. And then I’ll have a social position, and be able to marry a nice rich girl.”</p>
 
-<p class="para-vi-sub">“Bố tôi cũng thế.” Horace Carp càu nhàu. “Nhưng điều tôi không sao hiểu nổi là: Tại sao bất cứ ai trong chúng ta lại chui vào một ngôi trường Báp-tít quái gở này nhỉ? Một giáo phái kinh khủng... toàn những cái nhà thờ cũ rích mốc meo như cái chuồng lợn, rồi đám đông cất tiếng hò hòa mấy bài thánh ca dốt nát, và mấy gã mục sư dài dòng văn tự luôn ném ra một ý tưởng sáng chói mới mẻ kiểu như ‘Tất cả những gì thế giới cần để giải quyết các vấn đề của mình là quay trở lại với phúc âm của Chúa Giê-su Ki-tô.’ Nhà thờ duy nhất đáng giá là nhà thờ Giám mục Anh giáo. Âm nhạc. Lễ phục. Những lời cầu nguyện trang nghiêm. Kiến trúc tuyệt mỹ. Sự uy nghi. Quyền lực. Tin tôi đi, ngay khi có cơ hội thoát thân, tôi sẽ chuyển sang theo phái Giám mục Anh giáo. Và khi đó tôi sẽ có địa vị xã hội, và có thể cưới được một cô vợ giàu có xinh đẹp.”</p>
+<p class="para-vi-sub">“Bố tôi cũng thế”, Horace Carp càu nhàu. “Nhưng điều tôi không sao hiểu nổi là: Tại sao bất cứ ai trong chúng ta lại chui vào một ngôi trường Báp-tít quái gở này nhỉ? Một giáo phái kinh khủng... toàn những cái nhà thờ cũ rích mốc meo như cái chuồng lợn, rồi đám đông cất tiếng hò hòa mấy bài thánh ca dốt nát, và mấy gã mục sư dài dòng văn tự luôn ném ra một ý tưởng sáng chói mới mẻ kiểu như ‘Tất cả những gì thế giới cần để giải quyết các vấn đề của mình là quay trở lại với phúc âm của Chúa Giê-su Ki-tô.’ Nhà thờ duy nhất đáng giá là nhà thờ Giám mục Anh giáo. Âm nhạc. Lễ phục. Những lời cầu nguyện trang nghiêm. Kiến trúc tuyệt mỹ. Sự uy nghi. Quyền lực. Tin tôi đi, ngay khi có cơ hội thoát thân, tôi sẽ chuyển sang theo phái Giám mục Anh giáo. Và khi đó tôi sẽ có địa vị xã hội, và có thể cưới được một cô vợ giàu có xinh đẹp.”</p>
 
 <p class="para-en">“No, you’re wrong,” said Zenz. “The Baptist Church is the only denomination worth while, except possibly the Methodist.”</p>
 
@@ -204,7 +204,7 @@
 
 <p class="para-en">“I’m glad to hear you say that,” marveled Eddie.</p>
 
-<p class="para-vi-sub">“Tôi rất mừng khi nghe anh nói vậy đấy”, cậu ta ngạc nhiên thốt lên.</p>
+<p class="para-vi-sub">“Tôi rất mừng khi nghe anh nói vậy đấy”, Eddie Fislinger ngạc nhiên thốt lên.</p>
 
 <p class="para-en">“Because the Baptists and the Methodists have all the numbskulls﻿—except those that belong to the Catholic Church and the henhouse sects﻿—and so even you, Horace, can get away with being a prophet. There are some intelligent people in the Episcopal and Congregational Churches, and a few of the Campbellite flocks, and they check up on you. Of course all Presbyterians are half-wits, too, but they have a standard doctrine, and they can trap you into a heresy trial. But in the Baptist and Methodist Churches, man! There’s the berth for philosophers like me and hoot-owls like you, Eddie! All you have to do with Baptists and Methodists, as Father Carp suggests﻿—”</p>
 
@@ -220,11 +220,11 @@
 
 <p class="para-en">“You make me tired, Harry!” complained Eddie. “You just want to show off, that’s all. You’re a lot better Baptist and a lot better Christian than you let on to be, and I can prove it. Folks wouldn’t go on listening to your sermons unless they carried conviction. No sir! You can fool folks once or twice with a lot of swell-sounding words but in the long run it’s sincerity they look for. And one thing that makes me know you’re on the right side is that you don’t practise open communion. Golly, I feel that everything we Baptists stand for is threatened by those darn so-called liberals that are beginning to practise open communion.”</p>
 
-<p class="para-vi-sub">“Anh làm tôi phát mệt lên được, Harry.” cậu ta phàn nàn. “Anh chỉ muốn làm màu ra vẻ thôi, có thế thôi. Anh thực ra là một tín đồ Báp-tít tốt hơn nhiều và một Cơ Đốc nhân tốt hơn nhiều so với cái vẻ ngoài anh đang bày đặt, và tôi có thể chứng minh điều đó. Thiên hạ sẽ không đời nào tiếp tục ngồi nghe mấy bài giảng của anh trừ khi chúng mang lại sự thức tỉnh thực sự. Không đời nào. Anh có thể lừa bịp mọi người một hoặc hai lần bằng một đống từ ngữ kêu vang lừng lẫy, nhưng về lâu về dài thì sự chân thành mới là thứ họ tìm kiếm. Và có một điều làm tôi chắc chắn rằng anh đang đứng về phía đúng đắn, đó là anh không thực hành Tiệc Thánh mở rộng. Chúa ơi, tôi cảm thấy tất cả những gì chúng ta, những người Báp-tít, đại diện đang bị đe dọa bởi lũ người tự xưng là tự do chủ nghĩa chết tiệt đó đang bắt đầu thực hành Tiệc Thánh mở rộng.”</p>
+<p class="para-vi-sub">“Anh làm tôi phát mệt lên được, Harry”, Eddie phàn nàn. “Anh chỉ muốn làm màu ra vẻ thôi, có thế thôi. Anh thực ra là một tín đồ Báp-tít tốt hơn nhiều và một Cơ Đốc nhân tốt hơn nhiều so với cái vẻ ngoài anh đang bày đặt, và tôi có thể chứng minh điều đó. Thiên hạ sẽ không đời nào tiếp tục ngồi nghe mấy bài giảng của anh trừ khi chúng mang lại sự thức tỉnh thực sự. Không đời nào. Anh có thể lừa bịp mọi người một hoặc hai lần bằng một đống từ ngữ kêu vang lừng lẫy, nhưng về lâu về dài thì sự chân thành mới là thứ họ tìm kiếm. Và có một điều làm tôi chắc chắn rằng anh đang đứng về phía đúng đắn, đó là anh không thực hành Tiệc Thánh mở rộng. Chúa ơi, tôi cảm thấy tất cả những gì chúng ta, những người Báp-tít, đại diện đang bị đe dọa bởi lũ người tự xưng là tự do chủ nghĩa chết tiệt đó đang bắt đầu thực hành Tiệc Thánh mở rộng.”</p>
 
 <p class="para-en">“Rats!” grumbled Harry. “Of all the fool Baptist egotisms, close communion is the worst! Nobody but people <em>we</em> consider saved to be allowed to take communion with us! Nobody can meet God unless we introduce ’em! Self-appointed guardians of the blood and body of Jesus Christ! Whew!”</p>
 
-<p class="para-vi-sub">“Đồ khốn.” Harry làu bàu. “Trong tất cả những thói kiêu ngạo ngu ngốc của dân Báp-tít, Tiệc Thánh khép kín là tệ hại nhất. Chẳng có ai ngoài những người mà <i>chúng ta</i> coi là được cứu rỗi mới được phép dự Tiệc Thánh cùng chúng ta cả. Chẳng ai có thể gặp được Chúa trừ khi chính chúng ta giới thiệu họ. Mấy kẻ tự phong là người canh giữ huyết và thân thể của Chúa Giê-su Ki-tô. Choáng thật đấy.”</p>
+<p class="para-vi-sub">“Đồ khốn”, Harry làu bàu. “Trong tất cả những thói kiêu ngạo ngu ngốc của dân Báp-tít, Tiệc Thánh khép kín là tệ hại nhất. Chẳng có ai ngoài những người mà <i>chúng ta</i> coi là được cứu rỗi mới được phép dự Tiệc Thánh cùng chúng ta cả. Chẳng ai có thể gặp được Chúa trừ khi chính chúng ta giới thiệu họ. Mấy kẻ tự phong là người canh giữ huyết và thân thể của Chúa Giê-su Ki-tô. Choáng thật đấy.”</p>
 
 <p class="para-en">“Absolutely,” from Horace Carp. “And there is absolutely no Scriptural basis for close communion.”</p>
 
@@ -232,7 +232,7 @@
 
 <p class="para-en">“There certainly is!” shrieked Eddie. “Frank, where’s your Bible?”</p>
 
-<p class="para-vi-sub">“Chắc chắn là có chứ.” cậu ta hét lên. “Frank, Kinh Thánh của cậu đâu rồi?”</p>
+<p class="para-vi-sub">“Chắc chắn là có chứ”, Eddie hét lên. “Frank, Kinh Thánh của cậu đâu rồi?”</p>
 
 <p class="para-en">“Gee, I left it in <abbr epub:type="z3998:initialism">O.T.E.</abbr> Where’s yours, Don?”</p>
 
@@ -240,7 +240,7 @@
 
 <p class="para-en">“Well, I’ll be switched! I had the darn thing here just this evening,” lamented Don Pickens, after a search.</p>
 
-<p class="para-vi-sub">“Chà, đúng là quái quỷ. Tớ vừa để cái quái xế này ở đây ngay tối nay cơ mà”, cậu ta than thở sau một hồi lục lọi.</p>
+<p class="para-vi-sub">“Chà, đúng là quái quỷ. Tớ vừa để cuốn sách ấy ở đây ngay tối nay cơ mà”, Don Pickens than thở sau một hồi lục lọi.</p>
 
 <p class="para-en">“Oh, I remember. I was killing a cockroach with it. It’s on top of your wardrobe,” said Elmer.</p>
 
@@ -248,7 +248,7 @@
 
 <p class="para-en">“Gee, honest, you hadn’t ought to kill cockroaches with a Bible!” mourned Eddie Fislinger. “Now here’s the Bible, good and straight, for close communion, Harry. It says in First Corinthians, 11:27 and 29: ‘Whoever shall eat this bread and drink this cup of the Lord unworthily shall be guilty of the body and the blood of the Lord. For he that eateth and drinketh unworthily eateth and drinketh damnation to himself.’ And how can there be a worthy Christian unless he’s been baptized by immersion?”</p>
 
-<p class="para-vi-sub">“Trời đất, thật đấy, cậu không nên dùng Kinh Thánh để đập gián chứ.” cậu ta tiếc rẻ. “Này, Kinh Thánh đây rồi, rành mạch và chuẩn xác về Tiệc Thánh khép kín nhé, Harry. Sách Cô-rin-tô thư thứ nhất, chương 11, câu 27 và 29 có ghi: ‘Kẻ nào ăn bánh hoặc uống chén của Chúa cách bất xứng, thì sẽ phạm đến thân và huyết của Chúa. Vì kẻ nào ăn và uống mà không phân biệt thân Chúa, ấy là ăn và uống sự phán xét cho chính mình.’ Và làm sao có thể có một người Cơ Đốc xứng đáng nếu anh ta chưa từng chịu Phép báp-têm dìm mình chứ?”</p>
+<p class="para-vi-sub">“Trời đất, thật đấy, cậu không nên dùng Kinh Thánh để đập gián chứ”, Eddie tiếc rẻ. “Này, Kinh Thánh đây rồi, rành mạch và chuẩn xác về Tiệc Thánh khép kín nhé, Harry. Sách Cô-rin-tô thư thứ nhất, chương 11, câu 27 và 29 có ghi: ‘Kẻ nào ăn bánh hoặc uống chén của Chúa cách bất xứng, thì sẽ phạm đến thân và huyết của Chúa. Vì kẻ nào ăn và uống mà không phân biệt thân Chúa, ấy là ăn và uống sự phán xét cho chính mình.’ Và làm sao có thể có một người Cơ Đốc xứng đáng nếu anh ta chưa từng chịu Phép báp-têm dìm mình chứ?”</p>
 
 <p class="para-en">“I do wonder sometimes,” mused Frank Shallard, “if we aren’t rather impious, we Baptists, to set ourselves up as the keepers of the gates of God, deciding just who is righteous, who is worthy to commune.”</p>
 
@@ -256,7 +256,7 @@
 
 <p class="para-en">“But there’s nothing else we can do,” explained Eddie. “The Baptist Church, being the only pure Scriptural church, is the one real church of God, and we’re not setting ourselves up﻿—we’re just following God’s ordinances.”</p>
 
-<p class="para-vi-sub">“Nhưng chúng ta chẳng thể làm gì khác được”, cậu ta giải thích. “Giáo hội Báp-tít, với tư cách là hội thánh thuần khiết duy nhất theo đúng Kinh Thánh, chính là hội thánh đích thực duy nhất của Chúa, và chúng ta không tự nâng mình lên đâu, chúng ta chỉ đang tuân theo các thánh lệ của Chúa mà thôi.”</p>
+<p class="para-vi-sub">“Nhưng chúng ta chẳng thể làm gì khác được”, Eddie giải thích. “Giáo hội Báp-tít, với tư cách là hội thánh thuần khiết duy nhất theo đúng Kinh Thánh, chính là hội thánh đích thực duy nhất của Chúa, và chúng ta không tự nâng mình lên đâu, chúng ta chỉ đang tuân theo các thánh lệ của Chúa mà thôi.”</p>
 
 <p class="para-en">Horace Carp had also been reveling in the popular Mizpah sport of looking up Biblical texts to prove a preconceived opinion. “I don’t find anything here about Baptists,” he said.</p>
 
@@ -264,7 +264,7 @@
 
 <p class="para-en">“Nor about your doggoned ole Episcopalians, either﻿—darn snobs! and the preachers wearing nightshirts!” from Eddie.</p>
 
-<p class="para-vi-sub">“Cả mấy gã Giám mục theo đạo Episcopal quái quỷ của cậu nữa, cũng chẳng có đâu, lũ kiêu kỳ chết tiệt. Mà đám mục sư còn mặc cả áo ngủ đi giảng nữa chứ.” cậu ta cãi lại.</p>
+<p class="para-vi-sub">“Cả mấy gã Giám mục theo đạo Episcopal quái quỷ của cậu nữa, cũng chẳng có đâu, lũ kiêu kỳ chết tiệt. Mà đám mục sư còn mặc cả áo ngủ đi giảng nữa chứ”, Eddie cãi lại.</p>
 
 <p class="para-en">“You bet your life you find something﻿—it talks about bishops, and that means Episcopal bishops﻿—the papes and the Methodists are uncanonical bishops,” rejoiced Horace. “I’ll bet you two dollars and sixty-seven cents I wind up as an Episcopal bishop, and, believe me, I’ll be high-church as hell﻿—all the candles I can get on the altar.”</p>
 
@@ -308,7 +308,7 @@
 
 <p class="para-en">“Harry says,” wailed Eddie Fislinger, “that there’s nothing in the Bible that says Christians have to have a church or preachers.”</p>
 
-<p class="para-vi-sub">“Harry bảo rằng”, cậu ta mếu máo, “trong Kinh Thánh chẳng có câu nào bắt buộc tín đồ Cơ Đốc phải có nhà thờ hay mục sư cả.”</p>
+<p class="para-vi-sub">“Harry bảo rằng”, Eddie Fislinger mếu máo, “trong Kinh Thánh chẳng có câu nào bắt buộc tín đồ Cơ Đốc phải có nhà thờ hay mục sư cả.”</p>
 
 <p class="para-en">“Huh! And him that thinks he’s so educated. Where’s a Bible?”</p>
 
@@ -328,7 +328,7 @@
 
 <p class="para-en">“Oh, you make me tired,” said Eddie.</p>
 
-<p class="para-vi-sub">“Ồ, ông làm tôi phát ốm lên được”, cậu ta nói.</p>
+<p class="para-vi-sub">“Ồ, ông làm tôi phát ốm lên được”, Eddie nói.</p>
 
 <p class="para-en">“You make me tired﻿—always twisting the plain commands of Scripture,” said Brother Karkis, shutting the door﻿—weightily, and from the outside.</p>
 
@@ -336,15 +336,15 @@
 
 <p class="para-en">“You all make me tired. My God, how you fellows can argue!” said Elmer, chewing his Pittsburgh stogie.</p>
 
-<p class="para-vi-sub">“Tất cả các cậu đều làm tôi phát ốm. Lạy Chúa, sao mấy ông tướng các cậu lại có thể cãi cọ giỏi thế nhỉ.” Elmer vừa nói vừa nhai điếu xì gà Pittsburgh của mình.</p>
+<p class="para-vi-sub">“Tất cả các cậu đều làm tôi phát ốm. Lạy Chúa, sao mấy ông tướng các cậu lại có thể cãi cọ giỏi thế nhỉ”, Elmer vừa nói vừa nhai điếu xì gà Pittsburgh của mình.</p>
 
 <p class="para-en">The room was thick now with tobacco fumes. Though in Mizpah Seminary smoking was frowned on, practically forbidden by custom, all of the consecrated company save Eddie Fislinger were at it.</p>
 
-<p class="para-vi-sub">Căn phòng giờ đây đặc quánh khói thuốc lá. Dù tại Chủng viện Thần học Mizpah, việc hút thuốc vốn bị coi là chướng tai gai mắt, hầu như bị cấm theo lệ thường, nhưng toàn bộ đám người sùng đạo ấy, ngoại trừ cậu ta, đều đang phì phèo nhả khói.</p>
+<p class="para-vi-sub">Căn phòng giờ đây đặc quánh khói thuốc lá. Dù tại Chủng viện Thần học Mizpah, việc hút thuốc vốn bị coi là chướng tai gai mắt, hầu như bị cấm theo lệ thường, nhưng toàn bộ đám người sùng đạo ấy, ngoại trừ Eddie Fislinger, đều đang phì phèo nhả khói.</p>
 
 <p class="para-en">He rasped, “This air is something terrible! Why you fellows touch that vile weed﻿—Worms and men are the only animals who indulge in tobacco! I’m going to get out of here.”</p>
 
-<p class="para-vi-sub">Cậu ta càu nhàu: “Không khí ở đây tệ hại thật đấy. Sao mấy cậu lại có thể dây dưa với cái thứ cỏ dại gớm ghiếc đó cơ chứ... Sâu bọ và loài người là những sinh vật duy nhất ham hố thuốc lá. Tôi phải chuồn khỏi đây thôi.”</p>
+<p class="para-vi-sub">Eddie càu nhàu: “Không khí ở đây tệ hại thật đấy. Sao mấy cậu lại có thể dây dưa với cái thứ cỏ dại gớm ghiếc đó cơ chứ... Sâu bọ và loài người là những sinh vật duy nhất ham hố thuốc lá. Tôi phải chuồn khỏi đây thôi.”</p>
 
 <p class="para-en">There was strangely little complaint.</p>
 
@@ -356,11 +356,11 @@
 
 <p class="para-en">Frank Shallard and Don Pickens were virgins, timid and fascinated, respectful and urgent; Horace Carp had had one fumbling little greensick experience; and all three listened with nervous eagerness to the experiences of Elmer and Harry Zenz. Tonight Elmer’s mind reeked with it, and he who had been almost silent during the ecclesiastical wrangling was voluble now. The youngsters panted as he chronicled his meetings with a willing choir-singer, this summer past.</p>
 
-<p class="para-vi-sub">Frank Shallard và cậu ta vẫn còn là những kẻ trinh nguyên, vừa rụt rè vừa bị mê hoặc, đầy kính trọng lẫn thèm khát, Horace Carp đã có một lần trải nghiệm lóng ngóng vụng dại kiểu thiếu niên mới lớn, và cả ba đang chăm chú lắng nghe với sự háo hức đầy bồn chồn trước những chiến tích của Elmer và Harry Zenz. Đêm nay, tâm trí Elmer sực nức mùi xác thịt, và gã, kẻ vốn ngậm miệng ăn tiền suốt buổi cãi vã giáo lý hồi nãy, giờ lại tuôn ra không dứt. Mấy tên nhóc thở dốc khi nghe gã kể lể về những cuộc gặp gỡ với một cô nữ tu sĩ trong ca đoàn đầy dễ dãi vào mùa hè năm ngoái.</p>
+<p class="para-vi-sub">Frank Shallard và Don Pickens vẫn còn là những kẻ trinh nguyên, vừa rụt rè vừa bị mê hoặc, đầy kính trọng lẫn thèm khát, Horace Carp đã có một lần trải nghiệm lóng ngóng vụng dại kiểu thiếu niên mới lớn, và cả ba đang chăm chú lắng nghe với sự háo hức đầy bồn chồn trước những chiến tích của Elmer và Harry Zenz. Đêm nay, tâm trí Elmer sực nức mùi xác thịt, và gã, kẻ vốn ngậm miệng ăn tiền suốt buổi cãi vã giáo lý hồi nãy, giờ lại tuôn ra không dứt. Mấy tên nhóc thở dốc khi nghe gã kể lể về những cuộc gặp gỡ với một cô nữ tu sĩ trong ca đoàn đầy dễ dãi vào mùa hè năm ngoái.</p>
 
 <p class="para-en">“Tell me﻿—tell me,” fretted Don. “Do girls, oh﻿—nice girls﻿—do they really ever﻿—uh﻿—go with a preacher? And aren’t you ashamed to face them afterwards, in church?”</p>
 
-<p class="para-vi-sub">“Nói tao nghe xem... nói tao nghe xem nào”, cậu ta bứt rứt. “Liệu con gái... ồ... những cô gái tử tế... liệu họ có thực sự bao giờ... ừm... qua lại với một ông mục sư không? Và bộ anh không thấy ngượng ngùng khi phải giáp mặt họ sau đó ở nhà thờ sao?”</p>
+<p class="para-vi-sub">“Nói tao nghe xem... nói tao nghe xem nào”, Don bứt rứt. “Liệu con gái... ồ... những cô gái tử tế... liệu họ có thực sự bao giờ... ừm... qua lại với một ông mục sư không? Và bộ anh không thấy ngượng ngùng khi phải giáp mặt họ sau đó ở nhà thờ sao?”</p>
 
 <p class="para-en">“Huh!” observed Zenz, and “Ashamed? They worship you!” declared Elmer. “They stand by you the way no wife ever would﻿—as long as they do fall for you. Why, this girl﻿—Oh, well, she sang something elegant.”</p>
 
@@ -376,7 +376,7 @@
 
 <p class="para-en">Elmer posed at the door, smirking, his hands on his hips, “Oh, no. Not a-tall.” He looked at his watch. (It was a watch which reminded you of Elmer himself: large, thick, shiny, with a near-gold case.) “I merely have a date with a girl, that’s all!”</p>
 
-<p class="para-vi-sub">Elmer tạo dáng ngay trước cửa, miệng cười nhếch mép nửa miệng, hai tay chống nạnh vào hông: “Ồ, không. Chẳng đi đâu cả.” Gã nhìn đồng hồ. Đó là một chiếc trông hệt như chính bản thân Elmer: to bản, dày cộp, bóng loáng, với lớp vỏ mạ vàng giả. “Tôi chỉ có hẹn hò với một cô em, thế thôi.”</p>
+<p class="para-vi-sub">Elmer tạo dáng ngay trước cửa, miệng cười nhếch mép nửa miệng, hai tay chống nạnh vào hông: “Ồ, không. Chẳng đi đâu cả.” Gã nhìn đồng hồ. (Đó là một chiếc đồng hồ gợi nhắc chính bản thân Elmer: to bản, dày cộp, bóng loáng, với lớp vỏ mạ vàng giả.) “Tôi chỉ có hẹn hò với một cô em, thế thôi.”</p>
 
 <p class="para-en">He was lying, but he had been roused by his own stories, and he would have given a year of life if his boast were true. He returned to his solitary room in a fever. “God, if Juanita were only here, or Agatha, or even that little chambermaid at Solomon Junction﻿—what the dickens was her name now?” he longed.</p>
 

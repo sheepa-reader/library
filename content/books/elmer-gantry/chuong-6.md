@@ -30,9 +30,9 @@ Trong căn phòng ấy, ngồi thu lu trên những chiếc ghế tựa thẳng 
 
 Wallace là một sinh viên kiêm trợ giảng, người đứng đầu Khoa Rèn luyện Thể chất, và từng là một cầu thủ bóng chày bán chuyên nghiệp. Trông anh ta đúng là mang dáng dấp ấy, và người anh ta nồng nặc mùi dầu xoa bóp.
 
-“Đúng thế”, Elmer đồng tình. “Này, tao đã... tao từng tổ chức một buổi truyền giảng ở Grauten, bang Kansas, vào mùa hè năm ngoái, có một thằng đần cứ đứng lên phá đám, thế là tao liền nhảy ùm từ bục giảng xuống tiến thẳng đến chỗ nó, rồi nó bảo: ‘Này, thưa Mục sư, ông có thể cho chúng tôi biết Đấng Toàn Năng muốn chúng ta làm gì về Lệnh Cấm rượu không, khi mà Ngài từng bảo Phao-lô hãy uống chút rượu vì cái dạ dày?’ ‘Tao chịu, tao không biết có làm được thế không,’ tao bảo, ‘nhưng mày nên nhớ Ngài cũng ra lệnh cho chúng ta phải trừ quỷ chứ’, và tao tóm cổ cái gã ngu ngốc đó lôi bật khỏi ghế rồi tống cổ nó ra ngoài một cú, thế là, cả đám đông... à, dĩ nhiên ở đó không có quá nhiều người, nhưng bọn họ quả nhiên đã cười vào mặt nó một trận thả phanh. Mày cứ tin đi. Việc có một cơ thể vạm vỡ luôn tạo được tiếng vang lớn với toàn thể giáo chúng, cả đàn ông lẫn phụ nữ. Nhưng có khối vị mục sư cao sang kiếm được bục giảng chỉ vì mấy ông chấp sự cảm thấy gã có thể đấm vỡ mồm họ. Dĩ nhiên cầu nguyện hay mấy thứ tương tự thì đều ổn cả, nhưng cậu phải thực tế. Chúng ta ở đây để làm việc thiện, nhưng trước tiên cậu phải chớp lấy một cái ghế mà cậu có thể làm việc thiện trong đó chứ.”
+“Đúng thế”, Elmer đồng tình. “Này, tao đã... tao từng tổ chức một buổi truyền giảng ở Grauten, bang Kansas, vào mùa hè năm ngoái, có một thằng đần cứ đứng lên phá đám, thế là tao liền nhảy ùm từ bục giảng xuống tiến thẳng đến chỗ nó, rồi nó bảo: ‘Này, thưa Mục sư, ông có thể cho chúng tôi biết Đấng Toàn Năng muốn chúng ta làm gì về Lệnh Cấm rượu không, khi mà Ngài từng bảo Phao-lô hãy uống chút rượu vì cái dạ dày?’ ‘Tao chịu, tao không biết có làm được thế không’, tao bảo, ‘nhưng mày nên nhớ Ngài cũng ra lệnh cho chúng ta phải trừ quỷ chứ’, và tao tóm cổ cái gã ngu ngốc đó lôi bật khỏi ghế rồi tống cổ nó ra ngoài một cú, thế là, cả đám đông... à, dĩ nhiên ở đó không có quá nhiều người, nhưng bọn họ quả nhiên đã cười vào mặt nó một trận thả phanh. Mày cứ tin đi. Việc có một cơ thể vạm vỡ luôn tạo được tiếng vang lớn với toàn thể giáo chúng, cả đàn ông lẫn phụ nữ. Nhưng có khối vị mục sư cao sang kiếm được bục giảng chỉ vì mấy ông chấp sự cảm thấy gã có thể đấm vỡ mồm họ. Dĩ nhiên cầu nguyện hay mấy thứ tương tự thì đều ổn cả, nhưng cậu phải thực tế. Chúng ta ở đây để làm việc thiện, nhưng trước tiên cậu phải chớp lấy một cái ghế mà cậu có thể làm việc thiện trong đó chứ.”
 
-“Cậu thực dụng quá đấy.” Eddie Fislinger phản đối, còn Frank Shallard thì lên tiếng: “Lạy Chúa, Gantry, tôn giáo đối với cậu chỉ có từng đó thôi sao?”
+“Cậu thực dụng quá đấy”, Eddie Fislinger phản đối, còn Frank Shallard thì lên tiếng: “Lạy Chúa, Gantry, tôn giáo đối với cậu chỉ có từng đó thôi sao?”
 
 “Hơn nữa”, Horace Carp nói, “cậu sai phương pháp rồi. Không phải thứ vũ lực thô bạo mới thu hút được phụ nữ... hay giáo chúng, mà là một chất giọng tuyệt vời. Tôi không màng đến thể hình vạm vỡ của cậu đâu, Elmer... hơn nữa, rồi cậu sẽ phát phì cho mà xem...”
 
@@ -42,7 +42,7 @@ Wallace là một sinh viên kiêm trợ giảng, người đứng đầu Khoa R
 
 Horace Carp là tín đồ Anh giáo thuần thành duy nhất trong Chủng viện Thần học Mizpah. Cậu ta là một thanh niên trông giống hệt một chú chó spaniel lông nước, kẻ giấu những bức tượng các thánh, hương trầm cùng một dải gấm đỏ rực trong phòng riêng, và thường mặc chiếc áo khoác nhung màu tía chuyên dùng khi hút thuốc. Cậu ta luôn cáu tiết vì người cha vốn là một thợ sửa ống nước giàu có và sùng đạo đã đe dọa tống cổ cậu ra khỏi nhà nếu cậu dám bước chân vào một chủng viện Anh giáo thay vì một pháo đài Báp-tít.
 
-“Ừ, chắc cậu sẽ ngâm thơ cho họ nghe thật đấy.” Elmer nói. “Đó là cái thói dở hơi của mấy gã màu mè các cậu. Cứ nghĩ rằng có thể câu dẫn thiên hạ bằng dăm ba cái thứ thơ thẩn vớ vẩn. Thứ giữ chân được họ và kéo họ đến ghế băng mỗi ngày Chúa nhật chính là phúc âm thuần túy... và việc dọa họ phải sống lương thiện bằng cái hỏa ngục truyền thống tốt đẹp chẳng hại gì đâu.”
+“Ừ, chắc cậu sẽ ngâm thơ cho họ nghe thật đấy”, Elmer nói. “Đó là cái thói dở hơi của mấy gã màu mè các cậu. Cứ nghĩ rằng có thể câu dẫn thiên hạ bằng dăm ba cái thứ thơ thẩn vớ vẩn. Thứ giữ chân được họ và kéo họ đến ghế băng mỗi ngày Chúa nhật chính là phúc âm thuần túy... và việc dọa họ phải sống lương thiện bằng cái hỏa ngục truyền thống tốt đẹp chẳng hại gì đâu.”
 
 “Cậu nói chuẩn đấy... miễn là cậu khích lệ họ giữ gìn thể hình cho thật sung sức”, Wallace Umstead ra điều bề trên ban ơn. “Thôi, tôi không muốn nói với tư cách là một giáo sư... dù sao tôi vẫn mừng vì mình vẫn chỉ là một trong số các sư huynh thôi... nhưng sáng mai cậu sẽ chẳng thể phát huy nổi một chút công suất cầu nguyện nào nếu không chịu ngủ đủ giấc đâu. Còn tôi xin phép đi vùi đầu vào chiếc giường êm ái đây. Chúc ngủ ngon.”
 
@@ -60,15 +60,15 @@ Zenz ngắt lời những tiếng phản đối của họ:
 
 “Thế ra các cậu đều là một lũ Erasmus cả đấy. Các cậu hẳn phải rõ lắm chứ. Và chẳng có chút đạo đức giả nào trong những điều chúng ta dạy và ra giảng đâu nhỉ. Chúng ta là một nhóm Parsifal được tuyển chọn đặc biệt... đẹp đẽ trong mắt, rộn rã bên tai và tràn ngập kiến thức về những gì Chúa đã thì thầm với Chúa Thánh Thần <i lang="la" xml:lang="la">in camera</i> vào lúc chín giờ mười sáu phút sáng thứ Tư tuần trước. Tất cả chúng ta đều đang hừng hực khí thế xông ra ngoài để ra giảng cái giáo lý Báp-tít quý giá mang tên ‘Hoặc nhúng nước, hoặc biến’. Chúng ta đúng là những kỳ quan. Chính chúng ta cũng phải công nhận điều đó. Và thiên hạ vẫn cứ ngồi há hốc mồm lắng nghe chúng ta mà không hề bị nghẹn họng. Tôi đoán họ bị choáng ngợp bởi cái mặt dày của chúng ta đấy. Và chúng ta bắt buộc phải mặt dày, nếu không thì chẳng bao giờ chúng ta dám bước lên bục giảng một lần nữa. Chúng ta sẽ bỏ cuộc, và cầu xin Chúa tha thứ vì đã dám đứng lên ở đó rồi giả vờ rằng mình đại diện cho Ngài, rằng chúng ta có thể giải thích được những điều mà chính chúng ta cũng thừa nhận là những bí ẩn không thể giải thích nổi. Nhưng tôi vẫn cứ cho rằng có những vị mục sư còn chẳng có nổi sự thánh thiện như chúng ta cơ đấy. Tại sao giới tăng lữ lại hay vướng vào các tội ác tình dục đến thế nhỉ?”
 
-“Đâu có thật.” cậu ta kêu lên.
+“Đâu có thật”, Eddie Fislinger phản đối.
 
-“Đừng nói kiểu đó chứ.” Don Pickens nài nỉ. Cậu ta là bạn cùng phòng với Frank: một thiếu niên mảnh khảnh, hiền lành và tình cảm đến mức ngay cả con sư tử hung hãn của sự công chính là ông Trosper cũng động lòng mà tha cho cậu ta.
+“Đừng nói kiểu đó chứ”, Don Pickens nài nỉ. Don là bạn cùng phòng với Frank: một thiếu niên mảnh khảnh, hiền lành và tình cảm đến mức ngay cả con sư tử hung hãn của sự công chính là ông Trosper cũng động lòng mà tha cho cậu ta.
 
-Harry Zenz vỗ nhẹ lên tay cậu ta. “Ồ, cậu đấy, Don... cậu sẽ mãi là một tu sĩ thôi. Nhưng nếu cậu không tin, anh hãy nhìn vào thống kê về năm nghìn tội ác lớn nhỏ do các giáo sĩ thực hiện... nghĩa là những kẻ bị bắt... kể từ thập niên tám mươi, và để ý đến tỷ lệ các tội tình dục... cưỡng hiếp, loạn luân, song hôn, dụ dỗ thiếu nữ... ôi, một thành tích đáng yêu làm sao.”
+Harry Zenz vỗ nhẹ lên tay cậu ta. “Ồ, cậu đấy, Don... cậu sẽ mãi là một tu sĩ thôi. Nhưng nếu cậu không tin, Fislinger, hãy nhìn vào thống kê về năm nghìn tội ác lớn nhỏ do các giáo sĩ thực hiện... nghĩa là những kẻ bị bắt... kể từ thập niên tám mươi, và để ý đến tỷ lệ các tội tình dục... cưỡng hiếp, loạn luân, song hôn, dụ dỗ thiếu nữ... ôi, một thành tích đáng yêu làm sao.”
 
 Elmer ngáp dài: “Lạy Chúa, tôi ngán đến tận cổ mấy cậu cứ ngồi đây lải nhải, tranh cãi và bàn luận. Mọi chuyện hoàn toàn đơn giản... có lẽ tụi tôi những kẻ đi tu không hoàn hảo, chẳng giả vờ làm thánh tướng làm gì, nhưng chúng tôi làm được khối việc thiện.”
 
-“Đúng thế”, cậu ta hưởng ứng. “Nhưng có lẽ sự thật là... Cạm bẫy của xác thịt thật kinh khủng đến nỗi ngay cả các mục sư của phúc âm cũng sập bẫy. Và giải pháp hoàn toàn đơn giản là sự tiết chế... cứ trút nó vào lời cầu nguyện và những bài tập thể lực thật hăng say.”
+“Đúng thế”, Eddie hưởng ứng. “Nhưng có lẽ sự thật là... Cạm bẫy của xác thịt thật kinh khủng đến nỗi ngay cả các mục sư của phúc âm cũng sập bẫy. Và giải pháp hoàn toàn đơn giản là sự tiết chế... cứ trút nó vào lời cầu nguyện và những bài tập thể lực thật hăng say.”
 
 “Ồ, chắc chắn rồi, Eddie, cậu nói chuẩn, cậu sẽ trở thành một chỗ dựa hữu ích biết bao cho các thanh niên trong nhà thờ của cậu”, Harry Zenz cất giọng mỉa mai.
 
@@ -76,7 +76,7 @@ Frank Shallard đang trầm ngâm đầy bất mãn. “Rốt cuộc tại sao c
 
 “Ồ, không phải dối trá đâu, Frank... chỉ là thực tế thôi, như Elmer đã diễn đạt. Còn tôi thì đơn giản. Tôi không có tham vọng. Tôi không thèm khát tiền tài đến mức phải bươn chải vì nó. Tôi thích ngồi đọc sách. Tôi thích những màn nhào lộn trí tuệ mà chẳng phải đổ mồ hôi sôi nước mắt. Và cậu có thể có tất cả những thứ đó trong bộ máy giáo hội... trừ khi cậu thuộc số mấy tên ngốc dựng lên mấy cái tổ chức cồng kềnh rồi tự vắt kiệt sức mình chỉ để đổi lấy tiếng tăm.”
 
-“Cậu đúng là có một cái nhìn cao đẹp tuyệt vời về chức mục sư nhỉ.” Elmer cáu kỉnh cằn nhằn.
+“Cậu đúng là có một cái nhìn cao đẹp tuyệt vời về chức mục sư nhỉ”, Elmer cáu kỉnh cằn nhằn.
 
 “Thôi được rồi, thế mục đích cao đẹp của cậu khi trở thành một Con Người của Chúa là gì hả Sư huynh Gantry?”
 
@@ -90,19 +90,19 @@ Horace Carp phẩy tay ra vẻ điệu đà: “Dĩ nhiên là không một kẻ
 
 “Ừ nhỉ. Chắc chắn là nó phải làm cho tầng lớp bình dân cảm thấy quê mùa làm sao khi nghe Sư huynh Gantry huyên thuyên về những sai lầm của thuyết định mệnh trước tạo thế.”
 
-“Tôi có bao giờ giảng về cái thứ quái quỷ đó đâu.” Elmer phẫn nộ thanh minh. “Tôi chỉ tặng họ một bài giảng hữu ích, bổ ích, có pha chút trò đùa cho nó sinh động và dăm ba chuyện về kịch trường hay thứ gì đó có thể khiến họ giật mình một chút, đánh thức họ dậy và giúp họ hướng tới một cuộc sống hàng ngày tốt đẹp và trọn vẹn hơn.”
+“Tôi có bao giờ giảng về cái thứ quái quỷ đó đâu”, Elmer phẫn nộ thanh minh. “Tôi chỉ tặng họ một bài giảng hữu ích, bổ ích, có pha chút trò đùa cho nó sinh động và dăm ba chuyện về kịch trường hay thứ gì đó có thể khiến họ giật mình một chút, đánh thức họ dậy và giúp họ hướng tới một cuộc sống hàng ngày tốt đẹp và trọn vẹn hơn.”
 
-“Ồ, thế hả, cưng.” Harry Zenz châm chọc. “Tôi nhầm. Tôi cứ tưởng anh mang đến cho họ vô số lời khuyên hữu ích về thuộc tính <i lang="la" xml:lang="la">innascibilitas</i> và bí tích <i lang="la" xml:lang="la">res sacramenti</i> cơ đấy. Nào, Frank, sao anh lại đâm đầu vào học thần học thế?”
+“Ồ, thế hả, cưng”, Harry Zenz châm chọc. “Tôi nhầm. Tôi cứ tưởng anh mang đến cho họ vô số lời khuyên hữu ích về thuộc tính <i lang="la" xml:lang="la">innascibilitas</i> và bí tích <i lang="la" xml:lang="la">res sacramenti</i> cơ đấy. Nào, Frank, sao anh lại đâm đầu vào học thần học thế?”
 
 “Tôi không thể kể cho anh nghe khi anh hỏi với cái giọng điệu giễu cợt đó đâu. Tôi tin rằng có những trải nghiệm thần bí mà người ta chỉ có thể lĩnh hội nếu thực sự được chọn lựa riêng.”
 
-“Ừm, tôi thì biết tại sao mình lại có mặt ở đây”, cậu ta lên tiếng. “Bố tôi bắt tôi đến đấy chứ.”
+“Ừm, tôi thì biết tại the sao mình lại có mặt ở đây”, Don Pickens lên tiếng. “Bố tôi bắt tôi đến đấy chứ.”
 
-“Bố tôi cũng thế.” Horace Carp càu nhàu. “Nhưng điều tôi không sao hiểu nổi là: Tại sao bất cứ ai trong chúng ta lại chui vào một ngôi trường Báp-tít quái gở này nhỉ? Một giáo phái kinh khủng... toàn những cái nhà thờ cũ rích mốc meo như cái chuồng lợn, rồi đám đông cất tiếng hò hòa mấy bài thánh ca dốt nát, và mấy gã mục sư dài dòng văn tự luôn ném ra một ý tưởng sáng chói mới mẻ kiểu như ‘Tất cả những gì thế giới cần để giải quyết các vấn đề của mình là quay trở lại với phúc âm của Chúa Giê-su Ki-tô.’ Nhà thờ duy nhất đáng giá là nhà thờ Giám mục Anh giáo. Âm nhạc. Lễ phục. Những lời cầu nguyện trang nghiêm. Kiến trúc tuyệt mỹ. Sự uy nghi. Quyền lực. Tin tôi đi, ngay khi có cơ hội thoát thân, tôi sẽ chuyển sang theo phái Giám mục Anh giáo. Và khi đó tôi sẽ có địa vị xã hội, và có thể cưới được một cô vợ giàu có xinh đẹp.”
+“Bố tôi cũng thế”, Horace Carp càu nhàu. “Nhưng điều tôi không sao hiểu nổi là: Tại sao bất cứ ai trong chúng ta lại chui vào một ngôi trường Báp-tít quái gở này nhỉ? Một giáo phái kinh khủng... toàn những cái nhà thờ cũ rích mốc meo như cái chuồng lợn, rồi đám đông cất tiếng hò hòa mấy bài thánh ca dốt nát, và mấy gã mục sư dài dòng văn tự luôn ném ra một ý tưởng sáng chói mới mẻ kiểu như ‘Tất cả những gì thế giới cần để giải quyết các vấn đề của mình là quay trở lại với phúc âm của Chúa Giê-su Ki-tô.’ Nhà thờ duy nhất đáng giá là nhà thờ Giám mục Anh giáo. Âm nhạc. Lễ phục. Những lời cầu nguyện trang nghiêm. Kiến trúc tuyệt mỹ. Sự uy nghi. Quyền lực. Tin tôi đi, ngay khi có cơ hội thoát thân, tôi sẽ chuyển sang theo phái Giám mục Anh giáo. Và khi đó tôi sẽ có địa vị xã hội, và có thể cưới được một cô vợ giàu có xinh đẹp.”
 
 “Không, anh lầm rồi”, Harry Zenz phản bác. “Giáo hội Báp-tít là giáo phái duy nhất đáng giá, ngoại trừ có lẽ là Giáo hội Giám lý.”
 
-“Tôi rất mừng khi nghe anh nói vậy đấy”, cậu ta ngạc nhiên thốt lên.
+“Tôi rất mừng khi nghe anh nói vậy đấy”, Eddie Fislinger ngạc nhiên thốt lên.
 
 “Bởi vì người Báp-tít và người Giám lý gom hết mọi kẻ đần độn... ngoại trừ những kẻ gia nhập Giáo hội Công giáo và các giáo phái lụp xụp khác... và thế là ngay cả anh, Horace, cũng có thể phăng phở qua mặt thiên hạ để làm một nhà tiên tri. Vẫn có một số người thông minh trong Giáo hội Giám mục Anh giáo và Giáo hội Cải cách, cùng với một vài bầy chiên theo phái Campbell, và họ sẽ soi mói kiểm tra anh. Dĩ nhiên tất cả những người theo phái Chấp sự cũng là lũ thiểu năng nốt, nhưng họ có một học thuyết chuẩn mực, và họ có thể giăng bẫy tóm lấy anh trong một phiên tòa dị giáo. Nhưng trong Giáo hội Báp-tít và Giáo hội Giám lý ấy hả, trời ơi. Đó mới là cái ổ lý tưởng cho những triết gia như tôi và mấy con cú mèo như anh, Eddie ạ. Tất cả những gì anh phải làm với người Báp-tít và người Giám lý, đúng như Cha Carp gợi ý...”
 
@@ -110,29 +110,29 @@ Horace Carp phẩy tay ra vẻ điệu đà: “Dĩ nhiên là không một kẻ
 
 “Tất cả những gì anh phải làm”, Harry Zenz tiếp lời, “là tóm lấy một học thuyết vững chắc nào đó hoàn toàn vô nghĩa rồi cứ thế lặp đi lặp lại. Anh sẽ chẳng làm giáo dân thấy chán ngấy đâu... trên thực tế, điều duy nhất khiến họ bực bội là một thứ gì đó thực sự mới mẻ, buộc họ phải vận dụng bộ não của mình. Ồ không, Cha Carp ạ... bục giảng của phái Giám mục Anh giáo dành cho những diễn viên tồi không đủ sức lên sân khấu kịch, thế nhưng cái máng lợn Báp-tít thân yêu mới là chỗ cho những kẻ theo chủ nghĩa hiện thực.”
 
-“Anh làm tôi phát mệt lên được, Harry.” cậu ta phàn nàn. “Anh chỉ muốn làm màu ra vẻ thôi, có thế thôi. Anh thực ra là một tín đồ Báp-tít tốt hơn nhiều và một Cơ Đốc nhân tốt hơn nhiều so với cái vẻ ngoài anh đang bày đặt, và tôi có thể chứng minh điều đó. Thiên hạ sẽ không đời nào tiếp tục ngồi nghe mấy bài giảng của anh trừ khi chúng mang lại sự thức tỉnh thực sự. Không đời nào. Anh có thể lừa bịp mọi người một hoặc hai lần bằng một đống từ ngữ kêu vang lừng lẫy, nhưng về lâu về dài thì sự chân thành mới là thứ họ tìm kiếm. Và có một điều làm tôi chắc chắn rằng anh đang đứng về phía đúng đắn, đó là anh không thực hành Tiệc Thánh mở rộng. Chúa ơi, tôi cảm thấy tất cả những gì chúng ta, những người Báp-tít, đại diện đang bị đe dọa bởi lũ người tự xưng là tự do chủ nghĩa chết tiệt đó đang bắt đầu thực hành Tiệc Thánh mở rộng.”
+“Anh làm tôi phát mệt lên được, Harry”, Eddie phàn nàn. “Anh chỉ muốn làm màu ra vẻ thôi, có thế thôi. Anh thực ra là một tín đồ Báp-tít tốt hơn nhiều và một Cơ Đốc nhân tốt hơn nhiều so với cái vẻ ngoài anh đang bày đặt, và tôi có thể chứng minh điều đó. Thiên hạ sẽ không đời nào tiếp tục ngồi nghe mấy bài giảng của anh trừ khi chúng mang lại sự thức tỉnh thực sự. Không đời nào. Anh có thể lừa bịp mọi người một hoặc hai lần bằng một đống từ ngữ kêu vang lừng lẫy, nhưng về lâu về dài thì sự chân thành mới là thứ họ tìm kiếm. Và có một điều làm tôi chắc chắn rằng anh đang đứng về phía đúng đắn, đó là anh không thực hành Tiệc Thánh mở rộng. Chúa ơi, tôi cảm thấy tất cả những gì chúng ta, những người Báp-tít, đại diện đang bị đe dọa bởi lũ người tự xưng là tự do chủ nghĩa chết tiệt đó đang bắt đầu thực hành Tiệc Thánh mở rộng.”
 
-“Đồ khốn.” Harry làu bàu. “Trong tất cả những thói kiêu ngạo ngu ngốc của dân Báp-tít, Tiệc Thánh khép kín là tệ hại nhất. Chẳng có ai ngoài những người mà <i>chúng ta</i> coi là được cứu rỗi mới được phép dự Tiệc Thánh cùng chúng ta cả. Chẳng ai có thể gặp được Chúa trừ khi chính chúng ta giới thiệu họ. Mấy kẻ tự phong là người canh giữ huyết và thân thể của Chúa Giê-su Ki-tô. Choáng thật đấy.”
+“Đồ khốn”, Harry làu bàu. “Trong tất cả những thói kiêu ngạo ngu ngốc của dân Báp-tít, Tiệc Thánh khép kín là tệ hại nhất. Chẳng có ai ngoài những người mà <i>chúng ta</i> coi là được cứu rỗi mới được phép dự Tiệc Thánh cùng chúng ta cả. Chẳng ai có thể gặp được Chúa trừ khi chính chúng ta giới thiệu họ. Mấy kẻ tự phong là người canh giữ huyết và thân thể của Chúa Giê-su Ki-tô. Choáng thật đấy.”
 
 “Chuẩn không cần chỉnh”, Horace Carp phụ họa. “Và tuyệt đối chẳng có cơ sở Kinh Thánh nào cho cái gọi là Tiệc Thánh khép kín cả.”
 
-“Chắc chắn là có chứ.” cậu ta hét lên. “Frank, Kinh Thánh của cậu đâu rồi?”
+“Chắc chắn là có chứ”, Eddie hét lên. “Frank, Kinh Thánh của cậu đâu rồi?”
 
 “Trời ạ, tôi để nó ở phòng sinh hoạt rồi. Còn của cậu đâu, Don?”
 
-“Chà, đúng là quái quỷ. Tớ vừa để cái quái xế này ở đây ngay tối nay cơ mà”, cậu ta than thở sau một hồi lục lọi.
+“Chà, đúng là quái quỷ. Tớ vừa để cuốn sách ấy ở đây ngay tối nay cơ mà”, Don Pickens than thở sau một hồi lục lọi.
 
 “À, tôi nhớ ra rồi. Tôi dùng nó để đập con gián. Nó nằm trên nóc tủ quần áo của cậu kìa”, Elmer nói.
 
-“Trời đất, thật đấy, cậu không nên dùng Kinh Thánh để đập gián chứ.” cậu ta tiếc rẻ. “Này, Kinh Thánh đây rồi, rành mạch và chuẩn xác về Tiệc Thánh khép kín nhé, Harry. Sách Cô-rin-tô thư thứ nhất, chương 11, câu 27 và 29 có ghi: ‘Kẻ nào ăn bánh hoặc uống chén của Chúa cách bất xứng, thì sẽ phạm đến thân và huyết của Chúa. Vì kẻ nào ăn và uống mà không phân biệt thân Chúa, ấy là ăn và uống sự phán xét cho chính mình.’ Và làm sao có thể có một người Cơ Đốc xứng đáng nếu anh ta chưa từng chịu Phép báp-têm dìm mình chứ?”
+“Trời đất, thật đấy, cậu không nên dùng Kinh Thánh để đập gián chứ”, Eddie tiếc rẻ. “Này, Kinh Thánh đây rồi, rành mạch và chuẩn xác về Tiệc Thánh khép kín nhé, Harry. Sách Cô-rin-tô thư thứ nhất, chương 11, câu 27 và 29 có ghi: ‘Kẻ nào ăn bánh hoặc uống chén của Chúa cách bất xứng, thì sẽ phạm đến thân và huyết của Chúa. Vì kẻ nào ăn và uống mà không phân biệt thân Chúa, ấy là ăn và uống sự phán xét cho chính mình.’ Và làm sao có thể có một người Cơ Đốc xứng đáng nếu anh ta chưa từng chịu Phép báp-têm dìm mình chứ?”
 
 “Đôi khi tớ tự hỏi”, Frank Shallard trầm ngâm, “liệu chúng ta có hơi bất kính hay không, những tín đồ Báp-tít chúng ta, khi cứ tự đặt mình làm kẻ gác cổng của Chúa, quyết định xem ai mới là người công chính, ai mới xứng đáng dự Tiệc Thánh.”
 
-“Nhưng chúng ta chẳng thể làm gì khác được”, cậu ta giải thích. “Giáo hội Báp-tít, với tư cách là hội thánh thuần khiết duy nhất theo đúng Kinh Thánh, chính là hội thánh đích thực duy nhất của Chúa, và chúng ta không tự nâng mình lên đâu, chúng ta chỉ đang tuân theo các thánh lệ của Chúa mà thôi.”
+“Nhưng chúng ta chẳng thể làm gì khác được”, Eddie giải thích. “Giáo hội Báp-tít, với tư cách là hội thánh thuần khiết duy nhất theo đúng Kinh Thánh, chính là hội thánh đích thực duy nhất của Chúa, và chúng ta không tự nâng mình lên đâu, chúng ta chỉ đang tuân theo các thánh lệ của Chúa mà thôi.”
 
 Horace Carp lúc ấy cũng đang say sưa tận hưởng trò chơi quen thuộc tại Chủng viện Thần học Mizpah là tra cứu các đoạn Kinh Thánh để chứng minh cho một quan điểm đã có sẵn từ trước. “Tớ chẳng tìm thấy chữ nào nói về người Báp-tít ở đây cả”, anh ta nói.
 
-“Cả mấy gã Giám mục theo đạo Episcopal quái quỷ của cậu nữa, cũng chẳng có đâu, lũ kiêu kỳ chết tiệt. Mà đám mục sư còn mặc cả áo ngủ đi giảng nữa chứ.” cậu ta cãi lại.
+“Cả mấy gã Giám mục theo đạo Episcopal quái quỷ của cậu nữa, cũng chẳng có đâu, lũ kiêu kỳ chết tiệt. Mà đám mục sư còn mặc cả áo ngủ đi giảng nữa chứ”, Eddie cãi lại.
 
 “Cậu cứ chờ mà xem, thể nào chẳng có đoạn nhắc tới, nó nói về các giám mục, và điều đó có nghĩa là các giám mục Episcopal, còn bọn theo giáo hoàng và bọn Giám lý chỉ là những giám mục không đúng giáo luật thôi”, Horace đắc ý. “Tớ cá với cậu hai đô-la sáu mươi bảy xu rằng tớ sẽ kết thúc cuộc đời mình với chức vụ giám mục Episcopal, và hãy tin tớ đi, tớ sẽ làm một gã theo phái cao giáo sùng đạo đến tận cùng, thắp đầy nến trên bàn thờ cho cậu xem.”
 
@@ -154,7 +154,7 @@ Nhưng sẽ thật hoài công thương hại nếu thở dài ái ngại cho S�
 
 “Này, mấy gã các cậu chẳng lẽ không biết làm gì khác ngoài việc ngồi tụm lại tranh cãi, bàn ra tán vào rồi kêu ca phàn nàn nữa hay sao?” ông quát lớn. “Chúa ơi, tớ có thể nghe thấy tiếng mấy cậu cãi nhau vang vọng tận cuối hành lang đấy. Sẽ tốt hơn cho mấy gã trẻ tuổi các cậu biết bao nếu chịu quên đi cái thói tranh cãi ra điều hiểu biết ấy và dành cả buổi tối quỳ gối cầu nguyện. Ôi dào, các cậu đúng là một đám công tử bột học đòi sang chảnh, nhưng rồi các cậu sẽ sáng mắt ra khi phải bước ra ngoài kia và vật lộn với lão Sa-tan để tranh giành những linh hồn chưa được cải đạo cho mà xem. Rốt cuộc thì mấy cái miệng dọc các cậu đang cãi nhau chuyện gì thế hả?”
 
-“Harry bảo rằng”, cậu ta mếu máo, “trong Kinh Thánh chẳng có câu nào bắt buộc tín đồ Cơ Đốc phải có nhà thờ hay mục sư cả.”
+“Harry bảo rằng”, Eddie Fislinger mếu máo, “trong Kinh Thánh chẳng có câu nào bắt buộc tín đồ Cơ Đốc phải có nhà thờ hay mục sư cả.”
 
 “Hừ. Thế mà cứ tưởng mình học thức lắm cơ đấy. Kinh Thánh đâu?”
 
@@ -164,23 +164,23 @@ Nó lúc đó đang nằm trong tay Elmer, người nãy giờ vẫn đang chăm
 
 “Thưa người anh em thân mến trong Chúa”, Harry nói, “điều duy nhất được gợi ý ở đó là một hội nhóm giống như Huynh đoàn Plymouth, chẳng có mấy vị mục sư nhận lương chính thức nào cả. Như tôi đang giải thích cho Eddie Fislinger: Bản thân tôi đây vốn là một kẻ mộ đạo Kinh Thánh đến mức đang tính lập ra một giáo phái, nơi tất cả chúng ta cùng nhau hát một bài thánh ca, rồi cứ thế ngồi đọc Kinh Thánh suốt cả ngày, chẳng cần dính dáng đến bất kỳ vị mục sư nào đứng chắn giữa chúng ta với Lời Chúa toàn năng. Tôi mong ông cũng sẽ tham gia, Sư huynh Karkis, trừ phi ông lại là một trong số những kẻ phê bình Kinh Thánh bẩn thỉu muốn phá hủy Kinh Thánh.”
 
-“Ồ, ông làm tôi phát ốm lên được”, cậu ta nói.
+“Ồ, ông làm tôi phát ốm lên được”, Eddie nói.
 
 “Cậu mới là kẻ làm tôi phát ốm... cứ luôn mồm bóp méo những mệnh lệnh rành rành của Kinh Thánh”, Sư huynh Karkis nói rồi đóng sầm cửa lại... rất nặng nề, và đóng từ phía bên ngoài.
 
-“Tất cả các cậu đều làm tôi phát ốm. Lạy Chúa, sao mấy ông tướng các cậu lại có thể cãi cọ giỏi thế nhỉ.” Elmer vừa nói vừa nhai điếu xì gà Pittsburgh của mình.
+“Tất cả các cậu đều làm tôi phát ốm. Lạy Chúa, sao mấy ông tướng các cậu lại có thể cãi cọ giỏi thế nhỉ”, Elmer vừa nói vừa nhai điếu xì gà Pittsburgh của mình.
 
-Căn phòng giờ đây đặc quánh khói thuốc lá. Dù tại Chủng viện Thần học Mizpah, việc hút thuốc vốn bị coi là chướng tai gai mắt, hầu như bị cấm theo lệ thường, nhưng toàn bộ đám người sùng đạo ấy, ngoại trừ cậu ta, đều đang phì phèo nhả khói.
+Căn phòng giờ đây đặc quánh khói thuốc lá. Dù tại Chủng viện Thần học Mizpah, việc hút thuốc vốn bị coi là chướng tai gai mắt, hầu như bị cấm theo lệ thường, nhưng toàn bộ đám người sùng đạo ấy, ngoại trừ Eddie Fislinger, đều đang phì phèo nhả khói.
 
-Cậu ta càu nhàu: “Không khí ở đây tệ hại thật đấy. Sao mấy cậu lại có thể dây dưa với cái thứ cỏ dại gớm ghiếc đó cơ chứ... Sâu bọ và loài người là những sinh vật duy nhất ham hố thuốc lá. Tôi phải chuồn khỏi đây thôi.”
+Eddie càu nhàu: “Không khí ở đây tệ hại thật đấy. Sao mấy cậu lại có thể dây dưa với cái thứ cỏ dại gớm ghiếc đó cơ chứ... Sâu bọ và loài người là những sinh vật duy nhất ham hố thuốc lá. Tôi phải chuồn khỏi đây thôi.”
 
 Chẳng ngờ lại có rất ít tiếng lầm bầm phản đối.
 
 Thoát khỏi Eddie, đám người còn lại quay sang chủ đề muôn thuở của họ: thứ mà họ gọi là “tình dục”.
 
-Frank Shallard và cậu ta vẫn còn là những kẻ trinh nguyên, vừa rụt rè vừa bị mê hoặc, đầy kính trọng lẫn thèm khát, Horace Carp đã có một lần trải nghiệm lóng ngóng vụng dại kiểu thiếu niên mới lớn, và cả ba đang chăm chú lắng nghe với sự háo hức đầy bồn chồn trước những chiến tích của Elmer và Harry Zenz. Đêm nay, tâm trí Elmer sực nức mùi xác thịt, và gã, kẻ vốn ngậm miệng ăn tiền suốt buổi cãi vã giáo lý hồi nãy, giờ lại tuôn ra không dứt. Mấy tên nhóc thở dốc khi nghe gã kể lể về những cuộc gặp gỡ với một cô nữ tu sĩ trong ca đoàn đầy dễ dãi vào mùa hè năm ngoái.
+Frank Shallard và Don Pickens vẫn còn là những kẻ trinh nguyên, vừa rụt rè vừa bị mê hoặc, đầy kính trọng lẫn thèm khát, Horace Carp đã có một lần trải nghiệm lóng ngóng vụng dại kiểu thiếu niên mới lớn, và cả ba đang chăm chú lắng nghe với sự háo hức đầy bồn chồn trước những chiến tích của Elmer và Harry Zenz. Đêm nay, tâm trí Elmer sực nức mùi xác thịt, và gã, kẻ vốn ngậm miệng ăn tiền suốt buổi cãi vã giáo lý hồi nãy, giờ lại tuôn ra không dứt. Mấy tên nhóc thở dốc khi nghe gã kể lể về những cuộc gặp gỡ với một cô nữ tu sĩ trong ca đoàn đầy dễ dãi vào mùa hè năm ngoái.
 
-“Nói tao nghe xem... nói tao nghe xem nào”, cậu ta bứt rứt. “Liệu con gái... ồ... những cô gái tử tế... liệu họ có thực sự bao giờ... ừm... qua lại với một ông mục sư không? Và bộ anh không thấy ngượng ngùng khi phải giáp mặt họ sau đó ở nhà thờ sao?”
+“Nói tao nghe xem... nói tao nghe xem nào”, Don bứt rứt. “Liệu con gái... ồ... những cô gái tử tế... liệu họ có thực sự bao giờ... ừm... qua lại với một ông mục sư không? Và bộ anh không thấy ngượng ngùng khi phải giáp mặt họ sau đó ở nhà thờ sao?”
 
 “Hừ”, Harry Zenz lẩm bẩm, và “Ngượng ngùng á? Bọn họ tôn sùng anh sái cổ ấy chứ”, Elmer quả quyết. “Họ đứng về phía anh theo cách mà chẳng người vợ nào đời nào làm được... miễn là họ đã phải lòng anh. Chà, cô bé này... Ồ, mà thôi, cô ta ca hát tuyệt cú mèo.”
 
@@ -188,7 +188,7 @@ Gã kết luận mập mờ, mang đầy vẻ hoài niệm. Đột nhiên gã c�
 
 “Đi đâu đấy?” Frank Shallard hỏi.
 
-Elmer tạo dáng ngay trước cửa, miệng cười nhếch mép nửa miệng, hai tay chống nạnh vào hông: “Ồ, không. Chẳng đi đâu cả.” Gã nhìn đồng hồ. Đó là một chiếc trông hệt như chính bản thân Elmer: to bản, dày cộp, bóng loáng, với lớp vỏ mạ vàng giả. “Tôi chỉ có hẹn hò với một cô em, thế thôi.”
+Elmer tạo dáng ngay trước cửa, miệng cười nhếch mép nửa miệng, hai tay chống nạnh vào hông: “Ồ, không. Chẳng đi đâu cả.” Gã nhìn đồng hồ. (Đó là một chiếc đồng hồ gợi nhắc chính bản thân Elmer: to bản, dày cộp, bóng loáng, với lớp vỏ mạ vàng giả.) “Tôi chỉ có hẹn hò với một cô em, thế thôi.”
 
 Gã đang bịa đặt, nhưng chính những câu chuyện của mình đã làm gã hừng hực khí thế, và gã sẵn sàng đánh đổi cả một năm tuổi thọ nếu lời khoác lác đó là thật. Gã quay trở về căn phòng đơn độc của mình trong cơn sốt ruột cồn cào. “Chúa ơi, giá mà Juanita có ở đây lúc này, hay Agatha, hoặc chí ít là cô hầu phòng bé nhỏ ở Solomon Junction... hồi đó em ấy tên quái nào nhỉ?”, gã thèm thuồng ao ước.
 

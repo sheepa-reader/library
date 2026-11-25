@@ -4,15 +4,15 @@
 
 <p class="para-en">The relations of Brother Gantry and Brother Shallard were not ardent, toward Chrismastide, even in the intimacy of pumping a handcar.</p>
 
-<p class="para-vi-sub">Mối quan hệ giữa Elmer Gantry và Frank Shallard chẳng hề nồng ấm chút nào vào dịp lễ Giáng sinh, ngay cả khi cả hai đang hì hục bơm chiếc Xe goòng đẩy tay.</p>
+<p class="para-vi-sub">Mối quan hệ giữa Elmer Gantry và Frank Shallard chẳng hề nồng ấm chút nào vào dịp lễ Giáng sinh, ngay cả khi cả hai đang hì hục bơm chiếc xe goòng đẩy tay.</p>
 
 <p class="para-en">Frank complained while they were laboring along the track after church at Schoenheim:</p>
 
-<p class="para-vi-sub">Anh phàn nàn trong lúc họ đang nhọc nhằn đẩy xe dọc đường ray sau buổi lễ ở Làng Schoenheim:</p>
+<p class="para-vi-sub">Frank phàn nàn trong lúc họ đang nhọc nhằn đẩy xe dọc đường ray sau buổi lễ ở Làng Schoenheim:</p>
 
 <p class="para-en">“Look here, Gantry, something’s got to be done. I’m not satisfied about you and Lulu. I’ve caught you looking at each other. And I suspect you’ve been talking to the dean about <abbr epub:type="z3998:name-title">Dr.</abbr> Zechlin. I’m afraid I’ve got to go to the dean myself. You’re not fit to have a pastorate.”</p>
 
-<p class="para-vi-sub">“Này Elmer, phải có cách giải quyết chứ. Tôi không hài lòng về cậu và Lulu đâu. Tôi đã bắt gặp hai người liếc mắt đưa tình với nhau. Và tôi nghi ngờ cậu đã mách nước với ông Trosper về Bruno Zechlin. Tôi e là chính tôi phải đến gặp ông ấy thôi. Cậu không đủ tư cách để quản nhiệm một giáo xứ đâu.”</p>
+<p class="para-vi-sub">“Này Gantry, phải có cách giải quyết chứ. Tôi không hài lòng về cậu và Lulu đâu. Tôi đã bắt gặp hai người liếc mắt đưa tình với nhau. Và tôi nghi ngờ cậu đã mách nước với viện trưởng về Tiến sĩ Zechlin. Tôi e là chính tôi phải đến gặp viện trưởng thôi. Cậu không đủ tư cách để quản nhiệm một giáo xứ đâu.”</p>
 
 <p class="para-en">Elmer stopped pumping, glared, rubbed his mittened hands on his thighs, and spoke steadily:</p>
 
@@ -28,19 +28,19 @@
 
 <p class="para-en">“Then you simply haven’t got brains enough to see what you’re doing, and there’s no place for you in any Christian pulpit! It’s me that ought to go to Pop Trosper complaining! Just today, when that girl came to you worrying about her pa’s giving up family-prayers, you let on like it didn’t matter much. You may have started that poor young lady on the doubt-paved road that leads to everlasting Hell!”</p>
 
-<p class="para-vi-sub">“Thế thì cậu đơn giản là không đủ óc nhận thức để thấy mình đang làm gì, và chẳng có chỗ nào cho cậu trên bất kỳ bục giảng Cơ Đốc nào cả. Tôi mới là người phải đến gặp Jacob Trosper để phàn nàn đấy. Ngay ngày hôm nay, khi cô gái đó đến chỗ cậu với nỗi lo lắng vì bố cô ấy bỏ lễ cầu nguyện gia đình, cậu lại tỏ ra như chẳng có chuyện gì quan trọng. Cậu có thể đã đẩy người thiếu nữ tội nghiệp ấy vào con đường rải đầy hoài nghi dẫn đến Địa ngục đời đời đấy.”</p>
+<p class="para-vi-sub">“Thế thì cậu đơn giản là không đủ óc nhận thức để thấy mình đang làm gì, và chẳng có chỗ nào cho cậu trên bất kỳ bục giảng Cơ Đốc nào cả. Tôi mới là người phải đến gặp Jacob Trosper để phàn nàn đấy. Ngay ngày hôm nay, khi cô gái đó đến chỗ cậu với nỗi lo lắng vì bố cô ấy bỏ lễ cầu nguyện gia đình, cậu lại tỏ ra như chẳng có chuyện gì quan trọng. Cậu có thể đã đẩy người thiếu nữ tội nghiệp ấy vào con đường rải đầy hoài nghi dẫn đến địa ngục đời đời đấy.”</p>
 
 <p class="para-en">And all the way to Mizpah Frank worried and explained.</p>
 
-<p class="para-vi-sub">Và suốt dọc đường về Chủng viện Thần học Mizpah, anh cứ lo lắng và thanh minh mãi.</p>
+<p class="para-vi-sub">Và suốt dọc đường về Mizpah, Frank cứ lo lắng và thanh minh mãi.</p>
 
 <p class="para-en">And at Mizpah Elmer graciously permitted him to resign his place at Schoenheim, and advised him to repent and seek the direction of the Holy Spirit before he should ever attempt another pastorate.</p>
 
-<p class="para-vi-sub">Đến Chủng viện Thần học Mizpah, Elmer rộng lượng cho phép anh từ bỏ chân phụ trách giáo xứ ở Làng Schoenheim, đồng thời khuyên anh nên ăn năn và tìm kiếm sự dẫn dắt của Chúa Thánh Linh trước khi dám mạo muội thử sức với bất kỳ giáo xứ nào khác.</p>
+<p class="para-vi-sub">Đến Mizpah, Elmer rộng lượng cho phép anh từ bỏ chân phụ trách giáo xứ ở Làng Schoenheim, đồng thời khuyên anh nên ăn năn và tìm kiếm sự dẫn dắt của Chúa Thánh Linh trước khi dám mạo muội thử sức với bất kỳ giáo xứ nào khác.</p>
 
 <p class="para-en">Elmer sat in his rooms flaming with his evangelistic triumph. He was so sincere about it that not for minutes did he reflect that Frank would no longer be an obstacle to his relations with Lulu Bains.</p>
 
-<p class="para-vi-sub">Elmer ngồi trong phòng mình, sục sôi niềm kiêu hãnh chiến thắng của một nhà truyền giảng. Gã thành tâm đến mức phải mất một lúc lâu mới nhớ ra rằng từ nay anh sẽ không còn là vật cản cho mối quan hệ giữa gã và Lulu Bains nữa.</p>
+<p class="para-vi-sub">Elmer ngồi trong phòng mình, sục sôi niềm kiêu hãnh chiến thắng của một nhà truyền giảng. Gã thành tâm đến mức phải mất một lúc lâu mới nhớ ra rằng từ nay Frank sẽ không còn là vật cản cho mối quan hệ giữa gã và Lulu Bains nữa.</p>
 
 ### II
 
@@ -58,7 +58,7 @@
 
 <p class="para-en">She sent him whining little notes at Mizpah. Suppose somebody found one of ’em! Golly! She wrote to him that she was just living till their next meeting﻿—trying to bother him and distract his attention when he had a man’s work to do. She mooned up at him with her foolish soft mushy eyes all through his sermons﻿—absolutely spoiled his style. She was wearing him out, and he’d have to get rid of her.</p>
 
-<p class="para-vi-sub">Cô ta cứ gửi cho gã mấy bức thư nũng nịu tội nghiệp đến Chủng viện Thần học Mizpah. Lỡ ai vớ được một bức thì sao chứ. Choáng váng thật đấy. Cô ta viết cho gã rằng cô ta chỉ đang sống từng ngày chờ đến buổi gặp mặt tiếp theo, cốt để quấy rầy và làm gã phân tâm khi gã đang bận gánh vác việc lớn của nam nhi. Cô ta cứ ngước nhìn gã bằng cái ánh mắt ngây dại, mềm oặt và sến súa suốt những buổi giảng đạo, làm hỏng bét phong cách của gã. Cô ta đang vắt kiệt sức lực của gã, và gã buộc phải vứt bỏ cô ta thôi.</p>
+<p class="para-vi-sub">Cô ta cứ gửi cho gã mấy bức thư nũng nịu tội nghiệp đến Mizpah. Lỡ ai vớ được một bức thì sao chứ. Choáng váng thật đấy. Cô ta viết cho gã rằng cô ta chỉ đang sống từng ngày chờ đến buổi gặp mặt tiếp theo, cốt để quấy rầy và làm gã phân tâm khi gã đang bận gánh vác việc lớn của nam nhi. Cô ta cứ ngước nhìn gã bằng cái ánh mắt ngây dại, mềm oặt và sến súa suốt những buổi giảng đạo, làm hỏng bét phong cách của gã. Cô ta đang vắt kiệt sức lực của gã, và gã buộc phải vứt bỏ cô ta thôi.</p>
 
 <p class="para-en">Hated to do it. Always <em>had</em> been nice to girls﻿—to everybody. But it was for her sake just as much as his﻿—</p>
 
@@ -96,19 +96,19 @@
 
 <p class="para-en">“Elmer!” Too hurt in her gay affection, too shocked in her rustic sense of propriety, for resentment.</p>
 
-<p class="para-vi-sub">“Elmer.” Tổn thương sâu sắc trong tình cảm vui tươi của mình, quá bàng hoàng trước sự thô thiển trong quan niệm thuần phong mỹ tục của gã, cô chẳng còn lòng dạ nào mà giận dữ nữa.</p>
+<p class="para-vi-sub">“Elmer!” Tổn thương sâu sắc trong tình cảm vui tươi của mình, quá bàng hoàng trước sự thô thiển trong quan niệm thuần phong mỹ tục của gã, cô chẳng còn lòng dạ nào mà giận dữ nữa.</p>
 
 <p class="para-en">“Well, that’s just about how you acted! Making me wait here when I’ve got to be back in town﻿—important meeting﻿—and me having to pump that handcar all alone! I do wish you wouldn’t act like a ten-year-old kid <em>all</em> the time!”</p>
 
-<p class="para-vi-sub">“Thì anh cư xử đúng là như thế đấy. Bắt em phải đợi ở đây trong khi em phải về lại thị trấn vì có cuộc họp quan trọng, lại còn phải tự mình hì hục bơm chiếc Xe goòng đẩy tay đó nữa. Em thực sự ước gì anh đừng có lúc nào cũng hành xử như một đứa nhóc mười tuổi thế chứ.”</p>
+<p class="para-vi-sub">“Thì anh cư xử đúng là như thế đấy. Bắt em phải đợi ở đây trong khi em phải về lại thị trấn vì có cuộc họp quan trọng, lại còn phải tự mình hì hục bơm chiếc xe goòng đẩy tay đó nữa. Em thực sự ước gì anh đừng có lúc nào cũng hành xử như một đứa nhóc mười tuổi thế chứ.”</p>
 
 <p class="para-en">“Elmer!”</p>
 
-<p class="para-vi-sub">“Elmer.”</p>
+<p class="para-vi-sub">“Elmer!”</p>
 
 <p class="para-en">“Oh, Elmer, Elmer, Elmer! That’s all very well. I like to play around and be foolish jus’ as well’s anybody, but all this﻿—all this﻿—All the <em>time</em>!”</p>
 
-<p class="para-vi-sub">“Ôi, Elmer, Elmer, Elmer. Nói thế nào cũng được. Anh thích đùa giỡn và ngớ ngẩn một chút cũng giống như bất kỳ ai khác, nhưng tất cả chuyện này, tất cả chuyện này, lúc nào cũng vậy.”</p>
+<p class="para-vi-sub">“Ôi, Elmer, Elmer, Elmer! Nói thế nào cũng được. Anh thích đùa giỡn và ngớ ngẩn một chút cũng giống như bất kỳ ai khác, nhưng tất cả chuyện này, tất cả chuyện này, lúc nào cũng vậy.”</p>
 
 <p class="para-en">She fled round to the front of the pew and knelt by him, her childish hand on his knee, prattling in an imitation of babytalk which infuriated him:</p>
 
@@ -116,31 +116,31 @@
 
 <p class="para-en">“Oh, issums such cwoss old bear! Issums bad old bear! So cwoss with Lulukins!”</p>
 
-<p class="para-vi-sub">“Ôi, chú gấu già giận hờn dỗi dăi kia chứ lị. Chú gấu già hư đốn. Sao mà cáu kỉnh với Lulukins thế cơ chứ.”</p>
+<p class="para-vi-sub">“Ôi, chú gấu già giận hờn dỗi dăi kia chứ lị! Chú gấu già hư đốn! Sao mà cáu kỉnh với Lulukins thế cơ chứ.”</p>
 
 <p class="para-en">“Lulukins! Great John God!”</p>
 
-<p class="para-vi-sub">“Lulukins. Lạy Chúa trên cao.”</p>
+<p class="para-vi-sub">“Lulukins! Great John God!”</p>
 
 <p class="para-en">“Why, Elmer Gantry!” It was the Sunday School teacher who was shocked now. She sat up on her knees.</p>
 
-<p class="para-vi-sub">“Sao cơ, Elmer Gantry.” Giờ thì đến lượt cô giáo Trường Chủ nhật bị sốc nặng. Cô ngồi chồm hổm trên đầu gối.</p>
+<p class="para-vi-sub">“Sao cơ, Elmer Gantry!” Giờ thì đến lượt cô giáo Trường Chủ nhật bị sốc nặng. Cô ngồi chồm hổm trên đầu gối.</p>
 
 <p class="para-en">“Lulukins! Of all the damned fool babytalk I ever heard that takes the cake! That’s got ’em all beat! For God’s sake try to talk like a human being! And don’t go squatting there. Suppose somebody came in. Are you deliberately going to work to ruin me?﻿ ﻿… <em>Lulukins</em>!”</p>
 
-<p class="para-vi-sub">“Lulukins. Trong tất cả những kiểu nói giọng trẻ con ngu ngốc chết tiệt mà anh từng nghe thì cái này là vô địch. Đỉnh cao của mọi sự ngớ ngẩn. Vì Chúa, hãy tập nói chuyện giống như một con người bình thường xem nào. Và đừng có ngồi xổm ở đấy. Lỡ có ai bước vào thì sao. Em có cố tình định phá hoại đời anh không vậy?... <i>Lulukins</i>.”</p>
+<p class="para-vi-sub">“Lulukins! Trong tất cả những kiểu nói giọng trẻ con ngu ngốc chết tiệt mà anh từng nghe thì cái này là vô địch! Đỉnh cao của mọi sự ngớ ngẩn! Vì Chúa, hãy tập nói chuyện giống như một con người bình thường xem nào! Và đừng có ngồi xổm ở đấy. Lỡ có ai bước vào thì sao. Em có cố tình định phá hoại đời anh không vậy?... <i>Lulukins</i>.”</p>
 
 <p class="para-en">She stood up, fists tight. “What have I done? I didn’t mean to hurt you! Oh, I didn’t, dearest! Please forgive me! I just came in to s’prise you!”</p>
 
-<p class="para-vi-sub">Cô đứng bật dậy, hai tay nắm chặt: “Em đã làm gì sai chứ? Em đâu có ý định làm tổn thương anh. Ôi, em thực sự không có ý đó mà, người yêu ơi. Xin anh hãy tha thứ cho em. Em chỉ ghé qua để làm anh ngạc nhiên thôi mà.”</p>
+<p class="para-vi-sub">Cô đứng bật dậy, hai tay nắm chặt: “Em đã làm gì sai chứ? Em đâu có ý định làm tổn thương anh. Ôi, em thực sự không có ý đó mà, người yêu ơi! Xin anh hãy tha thứ cho em! Em chỉ ghé qua để làm anh ngạc nhiên thôi mà.”</p>
 
 <p class="para-en">“Huh! You s’<em>prised</em> me all right!”</p>
 
-<p class="para-vi-sub">“Hừ. Em làm anh ngạc nhiên <i>thật</i> đấy còn gì.”</p>
+<p class="para-vi-sub">“Hừ! Em làm anh ngạc nhiên <i>thật</i> đấy còn gì.”</p>
 
 <p class="para-en">“Dear! Please! I’m so sorry. Why, you called me Lulukins yourself!”</p>
 
-<p class="para-vi-sub">“Anh yêu. Xin anh đấy. Em rất xin lỗi. Mà chính anh cũng từng gọi em là Lulukins còn gì.”</p>
+<p class="para-vi-sub">“Anh yêu! Xin anh đấy! Em rất xin lỗi. Mà chính anh cũng từng gọi em là Lulukins còn gì.”</p>
 
 <p class="para-en">“I never did!”</p>
 
@@ -160,7 +160,7 @@
 
 <p class="para-en">“Oh, hell!” He sprang up, hat in hand, groping for his overcoat. “If you can’t understand, I can’t waste my time explaining!” And was gone, relieved but not altogether proud.</p>
 
-<p class="para-vi-sub">“Ôi, chết tiệt.” Gã vùng đứng dậy, tay cầm mũ, quờ quạng tìm chiếc áo khoác của mình. “Nếu em đã không thể hiểu nổi, thì anh cũng chẳng mất thời gian giải thích làm gì.” Và gã bỏ đi, trong lòng thấy nhẹ nhõm nhưng chẳng mấy tự hào cho lắm.</p>
+<p class="para-vi-sub">“Ôi, chết tiệt!” Gã vùng đứng dậy, tay cầm mũ, quờ quạng tìm chiếc áo khoác của mình. “Nếu em đã không thể hiểu nổi, thì anh cũng chẳng mất thời gian giải thích làm gì!” Và gã bỏ đi, trong lòng thấy nhẹ nhõm nhưng chẳng mấy tự hào cho lắm.</p>
 
 <p class="para-en">But by Tuesday he admired himself for his resolution.</p>
 
@@ -184,7 +184,7 @@
 
 <p class="para-en">He saw that she was loitering at the door, behind her parents, after the service, but he left half his congregation unhandshaken and unshriven, muttered to Deacon Bains, “Sorry gotta hurry ’way,” and fled toward the railroad tracks.</p>
 
-<p class="para-vi-sub">Gã thấy cô cứ lảng vảng ở cửa, nấp sau bố mẹ mình sau buổi lễ, nhưng gã bỏ mặc một nửa số giáo dân không thèm bắt tay hay ban ơn, lầm bầm với ông Bains rằng “Xin lỗi phải đi gấp đây” rồi cất bước chuồn thẳng về phía đường ray xe lửa.</p>
+<p class="para-vi-sub">Gã thấy cô cứ lảng vảng ở cửa, nấp sau bố mẹ mình sau buổi lễ, nhưng gã bỏ mặc một nửa số giáo dân không thèm bắt tay hay ban ơn, lầm bầm với chấp sự Bains rằng “Xin lỗi phải đi gấp đây” rồi cất bước chuồn thẳng về phía đường ray xe lửa.</p>
 
 <p class="para-en">“If you’re going to act this way and deliberately <em>persecute</em> me,” he raged, “I’ll just have to have a good talk with you, my fine young lady!”</p>
 
@@ -200,7 +200,7 @@
 
 <p class="para-en">“Suppose she’s told her father!” he groaned.</p>
 
-<p class="para-vi-sub">“Lỡ cô ta đã mách bố mình rồi thì sao.” gã rên rỉ.</p>
+<p class="para-vi-sub">“Lỡ cô ta đã mách bố mình rồi thì sao”, gã rên rỉ.</p>
 
 <p class="para-en">He hated her.</p>
 
@@ -212,11 +212,11 @@
 
 <p class="para-en">“Well, well, well, Lulu, this <em>is</em> a pleasant surprise! And where’s Papa?”</p>
 
-<p class="para-vi-sub">“Ồ, chà chà, Lulu, đây quả là một bất ngờ thú vị đấy. Thế còn tía đâu rồi em?”</p>
+<p class="para-vi-sub">“Ồ, chà chà, Lulu, đây quả là một bất ngờ thú vị đấy! Thế còn tía đâu rồi em?”</p>
 
 <p class="para-en">“He and Ma are up in the doctor’s office﻿—about Ma’s earache. I said I’d meet them at the Boston Bazaar. Elmer!” Her voice was like stretched quivering wire. “I’ve <em>got</em> to talk to you! You’ve got to﻿—Walk down the street with me.”</p>
 
-<p class="para-vi-sub">“Bố và má đang ở phòng khám của bác sĩ vì chứng đau tai của má. Em nói là sẽ gặp họ ở Chợ Boston. Elmer.” Giọng cô nghe như một sợi dây đàn bị căng đến mức run rẩy. “Em <i>phải</i> nói chuyện với anh. Anh phải... Đi dạo xuống phố với em.”</p>
+<p class="para-vi-sub">“Bố và má đang ở phòng khám của bác sĩ vì chứng đau tai của má. Em nói là sẽ gặp họ ở Chợ Boston. Elmer!” Giọng cô nghe như một sợi dây đàn bị căng đến mức run rẩy. “Em <i>phải</i> nói chuyện với anh! Anh phải... Đi dạo xuống phố với em.”</p>
 
 <p class="para-en">He saw that she had tried to rouge her cheeks. It was not customary in rural Midwest in 1906. She had done it badly.</p>
 
@@ -236,11 +236,11 @@
 
 <p class="para-en">“Oh, good God Almighty! Hell!” said the Reverend Elmer Gantry. “And I suppose you’ve gone squealing to your old man and the old woman!”</p>
 
-<p class="para-vi-sub">“Ôi, lạy Chúa toàn năng. Chết tiệt.” Mục sư Elmer Gantry thốt lên. “Và chắc là cô đã chạy đi khóc lóc mách lẻo với ông già bà cả nhà cô rồi chứ gì.”</p>
+<p class="para-vi-sub">“Ôi, lạy Chúa toàn năng! Chết tiệt!” Mục sư Elmer Gantry thốt lên. “Và chắc là cô đã chạy đi khóc lóc mách lẻo với ông già bà cả nhà cô rồi chứ gì.”</p>
 
 <p class="para-en">“No, I haven’t.” She was quiet, and dignified﻿—dignified as a bedraggled gray kitten could be.</p>
 
-<p class="para-vi-sub">“Không, em chưa.” Cô điềm tĩnh và đầy vẻ tôn nghiêm... tôn nghiêm như một chú mèo con xám xịt ướt sũng vậy.</p>
+<p class="para-vi-sub">“Không, em chưa.” Cô điềm tĩnh và đầy vẻ tôn nghiêm, tôn nghiêm như một chú mèo con xám xịt ướt sũng vậy.</p>
 
 <p class="para-en">“Well, that’s good, anyway. Well, I suppose I’ll have to do something about it. Damn!”</p>
 
@@ -248,19 +248,19 @@
 
 <p class="para-en">He thought rapidly. From the ladies of joy whom he knew in the city of Monarch he could obtain information﻿—But﻿—</p>
 
-<p class="para-vi-sub">Gã suy nghĩ nhanh chóng. Từ những cô gái làng chơi mà gã quen biết ở Thành phố Monarch, gã có thể thu thập thông tin... Nhưng mà...</p>
+<p class="para-vi-sub">Gã suy nghĩ nhanh chóng. Từ những cô gái làng chơi mà gã quen biết ở thành phố Monarch, gã có thể thu thập thông tin... Nhưng mà...</p>
 
 <p class="para-en">“You look here now!” he snarled. “It isn’t possible!” He faced her, on the brick walk through the courthouse lawn, under the cast-iron wings of the rusty Justice. “What are you trying to pull? God knows I most certainly intend to stand by you in every way. But I don’t intend to be bamboozled, not by anybody! What makes you think you’re pregnant?”</p>
 
-<p class="para-vi-sub">“Cô nghe đây này”, gã gầm gừ. “Chuyện đó là không thể nào.” Gã đối diện với cô, ngay trên lối đi lát gạch xuyên qua bãi cỏ tòa án, dưới đôi cánh bằng gang của bức tượng Nữ thần Công lý gỉ sét. “Cô đang giở trò gì thế hả? Chúa biết là tôi hoàn toàn có ý định ở bên cô về mọi mặt. Nhưng tôi không định để ai bịp bợm đâu, không đời nào. Dựa vào đâu mà cô nghĩ mình có thai?”</p>
+<p class="para-vi-sub">“Cô nghe đây này”, gã gầm gừ. “Chuyện đó là không thể nào!” Gã đối diện với cô, ngay trên lối đi lát gạch xuyên qua bãi cỏ tòa án, dưới đôi cánh bằng gang của bức tượng Nữ thần Công lý gỉ sét. “Cô đang giở trò gì thế hả? Chúa biết là tôi hoàn toàn có ý định ở bên cô về mọi mặt. Nhưng tôi không định để ai bịp bợm đâu, không đời nào! Dựa vào đâu mà cô nghĩ mình có thai?”</p>
 
 <p class="para-en">“Please, dear! Don’t use that word!”</p>
 
-<p class="para-vi-sub">“Làm ơn đi anh yêu. Đừng dùng từ đó.”</p>
+<p class="para-vi-sub">“Làm ơn đi anh yêu! Đừng dùng từ đó!”</p>
 
 <p class="para-en">“Huh! Say, that’s pretty good, that is! Come across now. What makes you think so?”</p>
 
-<p class="para-vi-sub">“Hừ. Này, khá lắm nhỉ, hay thật đấy. Khai mau đi. Dựa vào cái gì mà cô lại nghĩ thế?”</p>
+<p class="para-vi-sub">“Hừ! Này, khá lắm nhỉ, hay thật đấy! Khai mau đi. Dựa vào cái gì mà cô lại nghĩ thế?”</p>
 
 <p class="para-en">She could not look at him; she looked only at the ground; and his virtuous indignation swooped down on her as she stammered her reasons. Now no one had taught Lulu Bains much physiology; and it was evident that she was making up what she considered sound symptoms. She could only mumble again and again, while tears mucked her clumsy rouge, while her bent fingers trembled at her chin, “Oh, it’s﻿—I feel so bad﻿—oh, please, dear, don’t make me go on explaining.”</p>
 
@@ -272,11 +272,11 @@
 
 <p class="para-en">“Lulu, you’re lying! You have a dirty, lying, deceitful heart! I wondered what it was about you that bothered me and kept me from marrying you. Now I know! Thank God I’ve found out in time! You’re lying!”</p>
 
-<p class="para-vi-sub">“Lulu, cô đang nói dối. Cô mang một tâm địa dơ bẩn, dối trá và lật lọng. Tôi cứ tự hỏi điều gì ở cô cứ làm tôi vướng bận và ngăn cản tôi cưới cô. Giờ thì tôi đã rõ. Tạ ơn Chúa vì tôi đã nhận ra kịp thời. Cô đang nói dối.”</p>
+<p class="para-vi-sub">“Lulu, cô đang nói dối! Cô mang một tâm địa dơ bẩn, dối trá và lật lọng! Tôi cứ tự hỏi điều gì ở cô cứ làm tôi vướng bận và ngăn cản tôi cưới cô. Giờ thì tôi đã rõ! Tạ ơn Chúa vì tôi đã nhận ra kịp thời! Cô đang nói dối!”</p>
 
 <p class="para-en">“Oh, dear, I’m not. Oh, please!”</p>
 
-<p class="para-vi-sub">“Ôi trời ơi, em không mà. Ôi, xin anh đấy.”</p>
+<p class="para-vi-sub">“Ôi trời ơi, em không mà! Ôi, xin anh đấy!”</p>
 
 <p class="para-en">“Look here. I’m going to take you to a doctor’s. Right now. We’ll get the truth.”</p>
 
@@ -284,7 +284,7 @@
 
 <p class="para-en">“Oh, no, no, no! Please, no! I can’t.”</p>
 
-<p class="para-vi-sub">“Ôi, không, không, không. Xin anh đừng. Em không thể.”</p>
+<p class="para-vi-sub">“Ôi, không, không, không! Xin anh đừng! Em không thể.”</p>
 
 <p class="para-en">“Why can’t you?”</p>
 
@@ -292,11 +292,11 @@
 
 <p class="para-en">“Oh, please!”</p>
 
-<p class="para-vi-sub">“Ôi, xin anh.”</p>
+<p class="para-vi-sub">“Ôi, xin anh!”</p>
 
 <p class="para-en">“Uh-huh! And that’s all you’ve got to say for yourself! Come here! Look up at me!”</p>
 
-<p class="para-vi-sub">“Ừm hừm. Và đó là tất cả những gì cô có thể thốt ra để biện minh cho mình sao. Lại đây. Ngước mặt lên nhìn tôi.”</p>
+<p class="para-vi-sub">“Ừm hừm! Và đó là tất cả những gì cô có thể thốt ra để biện minh cho mình sao! Lại đây. Ngước mặt lên nhìn tôi.”</p>
 
 <p class="para-en">They must have hurt, his meaty fingers digging into her shoulder, but then, he felt righteous, he felt like the Old Testament prophets whom his sect admired. And he had found something about which he really could quarrel with her.</p>
 
@@ -312,15 +312,15 @@
 
 <p class="para-en">“Oh, I was! Oh, dearest, how can you hurt me like you do?” He released his grip, and looked polite. “Oh, I don’t mean hurting my shoulder. That doesn’t matter. I mean hurting <em>me</em>! So cold to me! And I thought maybe if we were married﻿—I’d do everything to make you happy. I’d go wherever you did. I wouldn’t mind if we had the tiniest little small house﻿—”</p>
 
-<p class="para-vi-sub">“Ôi, em đã nói dối. Ôi, người yêu dấu, sao anh nỡ làm tổn thương em thế này chứ?” Gã buông tay ra rồi làm bộ điệu lịch sự. “Ôi, ý anh không phải là làm đau vai em. Chuyện đó chẳng có gì quan trọng cả. Ý anh là làm tổn thương <i>chính mình</i> ấy. Sao em lại lạnh lùng với anh đến thế. Và anh đã nghĩ rằng giả như chúng ta kết hôn, anh sẽ làm mọi cách để em được hạnh phúc. Anh sẽ đi bất cứ nơi nào cùng em. Anh chẳng bận tâm nếu chúng ta có một ngôi nhà nhỏ xíu xiu...”</p>
+<p class="para-vi-sub">“Ôi, em đã nói dối! Ôi, người yêu dấu, sao anh nỡ làm tổn thương em thế này chứ?” Gã buông tay ra rồi làm bộ điệu lịch sự. “Ôi, ý anh không phải là làm đau vai em. Chuyện đó chẳng có gì quan trọng cả. Ý anh là làm tổn thương <i>chính mình</i> ấy! Sao em lại lạnh lùng với anh đến thế! Và anh đã nghĩ rằng giả như chúng ta kết hôn, anh sẽ làm mọi cách để em được hạnh phúc. Anh sẽ đi bất cứ nơi nào cùng em. Anh chẳng bận tâm nếu chúng ta có một ngôi nhà nhỏ xíu xiu...”</p>
 
 <p class="para-en">“And you﻿—<em>you</em>﻿—expect a minister of the gospel to share <em>any</em> house with a liar! Oh, you viper that﻿—Oh, hell, I won’t talk like a preacher. I don’t suppose I have done altogether right, maybe. Though I noticed you were glad enough to sneak out and meet me places! But when a woman, a Christian, deliberately lies and tries to deceive a man in his deepest feelings﻿—That’s too much no matter what I did! Don’t you ever dare to speak to me again! And if you tell your father about this, and force me into marriage, I’ll﻿—I’ll﻿—I’ll kill myself!”</p>
 
-<p class="para-vi-sub">“Còn cô, lại mong đợi một mục sư của lời Chúa chung sống dưới bất kỳ mái nhà nào với một kẻ dối trá sao. Ôi, cái con rắn độc mà... Ôi, chết tiệt, tôi không thèm nói chuyện như một ông thầy giảng nữa. Tôi đoán là bản thân cũng chẳng hoàn toàn đúng đắn cho lắm, có lẽ vậy. Dẫu cho tôi thấy cô cũng đủ hân hoan khi lén lút chuồn đi gặp tôi ở khắp mọi nơi đấy thôi. Nhưng khi một người đàn bà, một tín đồ Cơ Đốc, lại cố tình nói dối và mưu toan lừa gạt một người đàn ông trong những tình cảm sâu kín nhất của anh ta, thế thì thật quá sức chịu đựng dù tôi có làm gì đi nữa. Đừng bao giờ dám bén mảng tới nói chuyện với tôi nữa. Và nếu cô kể chuyện này với cha mình rồi ép buộc tôi vào cuộc hôn nhân đó, thì tôi sẽ, tôi sẽ, tôi sẽ tự sát.”</p>
+<p class="para-vi-sub">“Còn cô, lại mong đợi một mục sư của lời Chúa chung sống dưới bất kỳ mái nhà nào với một kẻ dối trá sao! Ôi, cái con rắn độc mà... Ôi, chết tiệt, tôi không thèm nói chuyện như một ông thầy giảng nữa. Tôi đoán là bản thân cũng chẳng hoàn toàn đúng đắn cho lắm, có lẽ vậy. Dẫu cho tôi thấy cô cũng đủ hân hoan khi lén lút chuồn đi gặp tôi ở khắp mọi nơi đấy thôi! Nhưng khi một người đàn bà, một tín đồ Cơ Đốc, lại cố tình nói dối và mưu toan lừa gạt một người đàn ông trong những tình cảm sâu kín nhất của anh ta, thế thì thật quá sức chịu đựng dù tôi có làm gì đi nữa! Đừng bao giờ dám bén mảng tới nói chuyện với tôi nữa! Và nếu cô kể chuyện này với cha mình rồi ép buộc tôi vào cuộc hôn nhân đó, thì tôi sẽ, tôi sẽ, tôi sẽ tự sát!”</p>
 
 <p class="para-en">“Oh, I won’t! Honest, I won’t!”</p>
 
-<p class="para-vi-sub">“Ôi, em sẽ không đâu. Thật lòng là em không đời nào làm thế.”</p>
+<p class="para-vi-sub">“Ôi, em sẽ không đâu! Thật lòng là em không đời nào làm thế!”</p>
 
 <p class="para-en">“I’ll repent my own fault in bitter tears and as for you, young woman﻿—Go and sin no more.”</p>
 
@@ -338,11 +338,11 @@
 
 <p class="para-en">Deacon Bains and his good wife had noticed how pale and absentminded was their normally bouncing daughter.</p>
 
-<p class="para-vi-sub">Ông Bains cùng người vợ hiền của ông đã sớm nhận ra đứa con gái vốn dĩ hoạt bát nhảy nhót của họ sao lại trở nên tái nhợt và lơ đễnh đến thế.</p>
+<p class="para-vi-sub">Chấp sự Bains cùng người vợ hiền của ông đã sớm nhận ra đứa con gái vốn dĩ hoạt bát nhảy nhót của họ sao lại trở nên tái nhợt và lơ đễnh đến thế.</p>
 
 <p class="para-en">“Guess she’s in love with that new preacher. Well, let’s keep our hands off. Be a nice match for her. Never knew a young preacher that was so filled with the power. Talks like a house afire, by golly,” said the deacon, as they yawned and stretched in the vast billowy old bed.</p>
 
-<p class="para-vi-sub">“Chắc là nó đang phải lòng vị mục sư mới rồi. Thôi kệ, chúng ta cứ để mặc chúng tự nhiên đi. Xứng đôi vừa lứa đấy chứ. Cha chưa từng thấy vị mục sư trẻ nào lại tràn đầy quyền năng đến thế. Nói năng hùng hồn như lửa đốt ấy chứ lị”, ông vừa ngáp vừa vươn vai trên chiếc giường lớn bồng bềnh cổ kính, nói.</p>
+<p class="para-vi-sub">“Chắc là nó đang phải lòng vị mục sư mới rồi. Thôi kệ, chúng ta cứ để mặc chúng tự nhiên đi. Xứng đôi vừa lứa đấy chứ. Cha chưa từng thấy vị mục sư trẻ nào lại tràn đầy quyền năng đến thế. Nói năng hùng hồn như lửa đốt ấy chứ lị”, chấp sự vừa ngáp vừa vươn vai trên chiếc giường lớn bồng bềnh cổ kính, nói.</p>
 
 <p class="para-en">Then Floyd Naylor came fretting to the deacon.</p>
 
@@ -350,11 +350,11 @@
 
 <p class="para-en">Floyd was a kinsman of the family; a gangling man of twenty-five, immensely strong, rather stupid, a poor farmer, very loyal. For years he had buzzed about Lulu. It would be over-romantic to say that he had eaten his faithful heart out in lone reverence. But he had always considered Lulu the most beautiful, sparkling, and profound girl in the universe. Lulu considered him a stick, and Deacon Bains held in aversion his opinions on alfalfa. He was a familiar of the household; rather like a neighbor’s dog.</p>
 
-<p class="para-vi-sub">Floyd là một người họ hàng của gia đình, một gã thanh niên lêu nghêu tuổi đôi mươi, khỏe như voi, có phần đần độn, làm nông kém cỏi nhưng lại cực kỳ trung chí. Từ nhiều năm nay, gã ta cứ lảng vảng quanh Lulu như con ruồi bâu. Sẽ là quá mức lãng mạn nếu nói rằng gã ta đã héo mòn trái tim trung tình trong nỗi tôn kính đơn phương. Nhưng trong thâm tâm, Floyd luôn coi Lulu là cô gái xinh đẹp, rực rỡ và sâu sắc nhất trên cõi đời này. Ngược lại, cô thì coi gã ta chẳng khác nào khúc gỗ mục, và ông Bains cũng cực kỳ ngứa mắt với những quan điểm của gã ta về cây cỏ linh lăng. Dù sao đi nữa, gã ta cũng là chỗ thân quen trong nhà, xét cho cùng thì y hệt như con chó của nhà hàng xóm vậy.</p>
+<p class="para-vi-sub">Floyd là một người họ hàng của gia đình, một gã thanh niên lêu nghêu tuổi đôi mươi, khỏe như voi, có phần đần độn, làm nông kém cỏi nhưng lại cực kỳ trung chí. Từ nhiều năm nay, gã ta cứ lảng vảng quanh Lulu như con ruồi bâu. Sẽ là quá mức lãng mạn nếu nói rằng gã ta đã héo mòn trái tim trung tình trong nỗi tôn kính đơn phương. Nhưng trong thâm tâm, Floyd luôn coi Lulu là cô gái xinh đẹp, rực rỡ và sâu sắc nhất trên cõi đời này. Ngược lại, cô thì coi gã ta chẳng khác nào khúc gỗ mục, và chấp sự Bains cũng cực kỳ ngứa mắt với những quan điểm của gã ta về cây cỏ linh lăng. Dù sao đi nữa, gã ta cũng là chỗ thân quen trong nhà, xét cho cùng thì y hệt như con chó của nhà hàng xóm vậy.</p>
 
 <p class="para-en">Floyd found Deacon Bains in the barnyard mending a whiffletree, and grunted, “Say, Cousin Barney, I’m kind of worried about Lulu.”</p>
 
-<p class="para-vi-sub">Floyd bắt gặp ông đang ở ngoài sân rẫy để sửa lại cái Xe goòng đẩy tay, liền càu nhàu: “Này, anh họ Barney, cháu thấy lo lắng cho Lulu thế nào ấy.”</p>
+<p class="para-vi-sub">Floyd bắt gặp chấp sự đang ở ngoài sân rẫy để sửa lại cái xe goòng đẩy tay, liền càu nhàu: “Này, anh họ Barney, cháu thấy lo lắng cho Lulu thế nào ấy.”</p>
 
 <p class="para-en">“Oh, guess she’s in love with this new preacher. Can’t tell; they might get hitched.”</p>
 
@@ -366,11 +366,11 @@
 
 <p class="para-en">“Rats, you don’t appreciate preachers. You never was in a real state of grace. Never did get reborn of the spirit proper.”</p>
 
-<p class="para-vi-sub">“Nhảm nhí, cậu thì biết cái quái gì về mấy ông mục sư. Cậu có bao giờ thực sự đạt đến Tình trạng ân sủng đâu. Cậu có được tái sinh bởi tinh thần đàng hoàng bao giờ đâu cơ chứ.”</p>
+<p class="para-vi-sub">“Nhảm nhí, cậu thì biết cái quái gì về mấy ông mục sư! Cậu có bao giờ thực sự đạt đến trạng thái ân sủng đâu! Cậu có được tái sinh bởi tinh thần đàng hoàng bao giờ đâu cơ chứ.”</p>
 
 <p class="para-en">“Like hell I didn’t! Got just as reborn as you did! Preachers are all right, most of ’em. But this fella Gantry﻿—Say, here ’long about two months ago I seen him and Lulu walking down the brick schoolhouse road, and they was hugging and kissing like all get-out, and he was calling her Sweetheart.”</p>
 
-<p class="para-vi-sub">“Khỉ thật, cháu không á? Cháu cũng được tái sinh hệt như bác đấy thôi. Mấy ông mục sư thì ai chẳng thế, phần lớn đều tốt cả. Nhưng mà cái gã Gantry này cơ, này nhé, cách đây độ chừng hai tháng, cháu tận mắt thấy hắn và Lulu đang đi dạo trên con đường đất nung cạnh trường học, hai đứa ôm hôn nhau thắm thiết như thể chết đi sống lại, và hắn còn gọi Lulu là Cục Cưng nữa cơ đấy.”</p>
+<p class="para-vi-sub">“Khỉ thật, cháu không á? Cháu cũng được tái sinh hệt như bác đấy thôi! Mấy ông mục sư thì ai chẳng thế, phần lớn đều tốt cả. Nhưng mà cái gã Gantry này cơ, này nhé, cách đây độ chừng hai tháng, cháu tận mắt thấy hắn và Lulu đang đi dạo trên con đường đất nung cạnh trường học, hai đứa ôm hôn nhau thắm thiết như thể chết đi sống lại, và hắn còn gọi Lulu là Cục Cưng nữa cơ đấy.”</p>
 
 <p class="para-en">“Heh? Sure it was them?”</p>
 
@@ -378,7 +378,7 @@
 
 <p class="para-en">“Dead certain. I was, uh﻿—Well, fact is, another fella and me﻿—”</p>
 
-<p class="para-vi-sub">“Chắc như đinh đóng cột ấy chứ. Cháu lúc đó, ừ thì, thực ra là thế này, có một cậu nữa cùng với cháu...”</p>
+<p class="para-vi-sub">“Chắc như đinh đóng cột ấy chứ! Cháu lúc đó, ừ thì, thực ra là thế này, có một cậu nữa cùng với cháu...”</p>
 
 <p class="para-en">“Who was she?”</p>
 
@@ -394,7 +394,7 @@
 
 <p class="para-en">Bains had never been very observant of his daughter, but Floyd Naylor was not a liar, and it was with sharpened eyes that the deacon stumped into the house and found her standing by the churn, her arms hanging limp.</p>
 
-<p class="para-vi-sub">Ông Bains từ trước đến nay vốn chẳng mấy khi để ý sát sao đến cô con gái rượu của mình, nhưng Floyd Naylor lại không phải là kẻ nói dối, thế nên ông vừa chống gậy lững thững bước vào nhà với ánh mắt sắc bén hơn hẳn, và bắt gặp cô đang đứng thẫn thờ cạnh chiếc máy quay bơ, đôi tay buông thõng xuống vô lực.</p>
+<p class="para-vi-sub">Chấp sự Bains từ trước đến nay vốn chẳng mấy khi để ý sát sao đến cô con gái rượu của mình, nhưng Floyd Naylor lại không phải là kẻ nói dối, thế nên ông vừa chống gậy lững thững bước vào nhà với ánh mắt sắc bén hơn hẳn, và bắt gặp cô đang đứng thẫn thờ cạnh chiếc máy quay bơ, đôi tay buông thõng xuống vô lực.</p>
 
 <p class="para-en">“Say, uh, say, uh, Lu, how’s things going with you and Brother Gantry?”</p>
 
@@ -446,7 +446,7 @@
 
 <p class="para-en">“There, there, Lu! Your dad’ll do something about it.”</p>
 
-<p class="para-vi-sub">“Thôi nào, thôi nào Lu. Bố con sẽ lo chuyện này mà.”</p>
+<p class="para-vi-sub">“Thôi nào, thôi nào Lu! Bố con sẽ lo chuyện này mà.”</p>
 
 <p class="para-en">Floyd was waiting in the farmyard.</p>
 
@@ -454,7 +454,7 @@
 
 <p class="para-en">There were, in those parts and those days, not infrequent ceremonies known as “shotgun weddings.”</p>
 
-<p class="para-vi-sub">Vào những vùng đất ấy và trong những năm tháng ấy, thường hay diễn ra những nghi thức được gọi là Đám cưới chạy bầu.</p>
+<p class="para-vi-sub">Vào những vùng đất ấy và trong những năm tháng ấy, thường hay diễn ra những nghi thức được gọi là đám cưới chạy bầu.</p>
 
 ### V
 
@@ -464,11 +464,11 @@
 
 <p class="para-en">“Why, good evening, Brother Bains﻿—Brother Naylor! This is a pleasant surprise. I was, uh﻿—Did you ever see this horrible rag? About actoresses. An invention of the devil himself. I was thinking of denouncing it next Sunday. I hope you never read it﻿—won’t you sit down, gentlemen?﻿—take this chair﻿—I hope you never read it, Brother Floyd, because the footsteps of﻿—”</p>
 
-<p class="para-vi-sub">“Ố chà, chào buổi tối, Sư huynh Bains... Sư huynh Naylor. Thật là một bất ngờ thú vị. Tôi đang... ơ... Các anh đã bao giờ thấy tờ báo rác kinh khủng này chưa? Viết về mấy cô đào hát. Đúng là phát minh của chính quỷ dữ. Tôi đang định sẽ lên án nó vào Chủ nhật tới đây. Tôi hy vọng các anh chưa bao giờ đọc nó... các anh ngồi xuống đi chứ?... ngồi chiếc ghế này đi... Tôi hy vọng các anh chưa bao giờ đọc nó, Sư huynh Floyd, bởi vì bước chân của...”</p>
+<p class="para-vi-sub">“Ố chà, chào buổi tối, chấp sự Bains... Sư huynh Naylor! Thật là một bất ngờ thú vị. Tôi đang... ơ... Các anh đã bao giờ thấy tờ báo rác kinh khủng này chưa? Viết về mấy cô đào hát. Đúng là phát minh của chính quỷ dữ. Tôi đang định sẽ lên án nó vào Chủ nhật tới đây. Tôi hy vọng các anh chưa bao giờ đọc nó... các anh ngồi xuống đi chứ?... ngồi chiếc ghế này đi... Tôi hy vọng các anh chưa bao giờ đọc nó, Sư huynh Floyd, bởi vì bước chân của...”</p>
 
 <p class="para-en">“Gantry,” exploded Deacon Bains, “I want you to take your footsteps right now and turn ’em toward my house! You’ve been fooling with my daughter, and either you’re going to marry her, or Floyd and me are going to take it out of your hide, and way I feel just now, don’t much care which it is.”</p>
 
-<p class="para-vi-sub">“Gantry”, ông Bains gầm lên, “tôi muốn anh cất bước chân ngay lập tức và hướng nó về phía nhà tôi. Anh đã dám chơi đùa với con gái tôi, và hoặc là anh sẽ cưới nó, hoặc Floyd và tôi sẽ lột da anh ra, và với tâm trạng của tôi lúc này, tôi chẳng màng đến việc nào trong hai điều đó đâu.”</p>
+<p class="para-vi-sub">“Gantry”, chấp sự Bains gầm lên, “tôi muốn anh cất bước chân ngay lập tức và hướng nó về phía nhà tôi! Anh đã dám chơi đùa với con gái tôi, và hoặc là anh sẽ cưới nó, hoặc Floyd và tôi sẽ lột da anh ra, và với tâm trạng của tôi lúc này, tôi chẳng màng đến việc nào trong hai điều đó đâu.”</p>
 
 <p class="para-en">“You mean to say that Lulu has been pretending﻿—”</p>
 
@@ -476,7 +476,7 @@
 
 <p class="para-en">“Naw, Lulu ain’t said nothing. God, I wonder if I ought to <em>let</em> the girl marry a fellow like you? But I got to protect her good name, and guess Floyd and me can see to it you give her a square deal after the marriage. Now I’ve sent out word to invite all the neighbors to the house tonight for a little sociable to tell ’em Lulu and you are engaged, and you’re going to put on your Sunday-go-to-meeting suit and come with us, right now.”</p>
 
-<p class="para-vi-sub">“Không, Lulu chẳng nói gì cả. Chúa ơi, tự hỏi không biết tôi có nên <i>để</i> con bé cưới một gã như anh không nữa. Nhưng tôi phải bảo vệ danh tiếng trong sạch của nó, và chắc Floyd với tôi sẽ lo được chuyện anh phải đối xử sòng phẳng với nó sau lễ cưới. Giờ tôi đã cho gọi tất cả hàng xóm tối nay đến nhà để dự một buổi họp mặt thân mật, thông báo cho họ biết Lulu và anh đã đính hôn, và anh sẽ mặc bộ quần áo đi lễ Chủ nhật rồi đi cùng chúng tôi, ngay bây giờ.”</p>
+<p class="para-vi-sub">“Không, Lulu chẳng nói gì cả. Chúa ơi, tự hỏi không biết tôi có nên <i>để</i> con bé cưới một gã như anh không nữa! Nhưng tôi phải bảo vệ danh tiếng trong sạch của nó, và chắc Floyd với tôi sẽ lo được chuyện anh phải đối xử sòng phẳng với nó sau lễ cưới. Giờ tôi đã cho gọi tất cả hàng xóm tối nay đến nhà để dự một buổi họp mặt thân mật, thông báo cho họ biết Lulu và anh đã đính hôn, và anh sẽ mặc bộ quần áo đi lễ Chủ nhật rồi đi cùng chúng tôi, ngay bây giờ.”</p>
 
 <p class="para-en">“You can’t bully me into anything﻿—”</p>
 
@@ -484,7 +484,7 @@
 
 <p class="para-en">“Take that side of him, Floyd, but I get the first lick. You get what’s left.”</p>
 
-<p class="para-vi-sub">“Tóm lấy bên đó của nó đi Floyd, nhưng tôi giành cú đấm đầu tiên. Cậu cứ lấy phần còn lại.”</p>
+<p class="para-vi-sub">“Tóm lấy bên đó đi Floyd, nhưng tôi giành cú đấm đầu tiên. Cậu cứ lấy phần còn lại.”</p>
 
 <p class="para-en">They ranged up beside him. They were shorter, less broad, but their faces were like tanned hard leather, their eyes were hard﻿—</p>
 
@@ -492,7 +492,7 @@
 
 <p class="para-en">“You’re a big cuss, Brother Gantry, but guess you don’t get enough exercise no more. Pretty soft,” considered Deacon Bains.</p>
 
-<p class="para-vi-sub">“Anh đúng là một thằng to xác, Mục sư Gantry, nhưng chắc anh chẳng chịu tập tành gì nữa rồi. Mềm nhũn ra phết”, ông Bains lẩm bẩm.</p>
+<p class="para-vi-sub">“Anh đúng là một thằng to xác, Mục sư Gantry, nhưng chắc anh chẳng chịu tập tành gì nữa rồi. Mềm nhũn ra phết”, chấp sự Bains lẩm bẩm.</p>
 
 <p class="para-en">His fist was dropping down, down to his knee; his shoulder sloped down; his fist was coming up﻿—and Floyd had suddenly pinioned Elmer’s arms.</p>
 
@@ -500,7 +500,7 @@
 
 <p class="para-en">“I’ll do it! All right! All right!” Elmer shrieked.</p>
 
-<p class="para-vi-sub">“Tôi làm. Được rồi. Được rồi.” Elmer thét lên.</p>
+<p class="para-vi-sub">“Tôi làm! Được rồi! Được rồi!” Elmer thét lên.</p>
 
 <p class="para-en">He’d find a way to break the engagement. Already he was recovering his poise.</p>
 
@@ -508,11 +508,11 @@
 
 <p class="para-en">“Now you fellows listen to me! I’m in love with Lulu, and I intended to ask her the moment I finish here﻿—less than three months now﻿—and get my first church. And then you two butt in and try to spoil this romance!”</p>
 
-<p class="para-vi-sub">“Giờ thì hai ông nghe tôi nói đây. Tôi yêu Lulu, và tôi đã định hỏi cưới cô ấy ngay khi tôi hoàn thành việc học ở đây... chưa đầy ba tháng nữa thôi... rồi nhận giáo xứ đầu tiên của mình. Thế mà hai ông lại xen vào phá đám và cố tình làm hỏng mối tình lãng mạn này.”</p>
+<p class="para-vi-sub">“Giờ thì hai ông nghe tôi nói đây! Tôi yêu Lulu, và tôi đã định hỏi cưới cô ấy ngay khi tôi hoàn thành việc học ở đây... chưa đầy ba tháng nữa thôi... rồi nhận giáo xứ đầu tiên của mình. Thế mà hai ông lại xen vào phá đám và cố tình làm hỏng mối tình lãng mạn này!”</p>
 
 <p class="para-en">“Hum, yes, I guess so,” Bains droned, inexpressible contempt in his dragging voice. “You save all them pretty words for Lulu. You’re going to be married the middle of May﻿—that’ll give time enough after the engagement so’s the neighbors won’t think there’s anything wrong. Now into them clothes. Buggy waiting outside. We’ll treat you right. If you use Lulu like you ought to, and honey her up and make her feel happy again, maybe Floyd and me won’t kill you the night of your wedding. We’ll see. And we’ll always treat you fine in public﻿—won’t even laugh when we hear you preaching. Now git, hear me?”</p>
 
-<p class="para-vi-sub">“Hừm, đúng thế, chắc là vậy rồi”, ông Bains càu nhàu, giọng điệu kéo dài chan chứa vẻ khinh miệt khôn tả. “Anh hãy để dành tất cả những lời mật ngọt đó cho Lulu đi. Anh sẽ kết hôn vào giữa tháng Năm... thế là đủ thời gian sau lễ đính hôn để hàng xóm không mờ ám nghi ngờ gì nữa. Giờ thì xỏ chân vào bộ quần áo đó đi. Xe ngựa đang đợi ngoài cửa kìa. Chúng tôi sẽ đối xử tử tế với anh. Nếu anh đối xử với Lulu đúng mực như lẽ ra phải thế, chiều chuộng và làm cho con bé vui vẻ trở lại, biết đâu Floyd và tôi sẽ không giết anh vào đêm tân hôn đâu. Để xem đã. Và chúng tôi sẽ luôn đối xử tốt với anh trước mặt mọi người... thậm chí sẽ chẳng cười khi nghe anh giảng đạo đâu. Giờ thì xéo đi, nghe rõ chưa?”</p>
+<p class="para-vi-sub">“Hừm, đúng thế, chắc là vậy rồi”, chấp sự Bains càu nhàu, giọng điệu kéo dài chan chứa vẻ khinh miệt khôn tả. “Anh hãy để dành tất cả những lời mật ngọt đó cho Lulu đi. Anh sẽ kết hôn vào giữa tháng Năm... thế là đủ thời gian sau lễ đính hôn để hàng xóm không mờ ám nghi ngờ gì nữa. Giờ thì xỏ chân vào bộ quần áo đó đi. Xe ngựa đang đợi ngoài cửa kìa. Chúng tôi sẽ đối xử tử tế với anh. Nếu anh đối xử với Lulu đúng mực như lẽ ra phải thế, chiều chuộng và làm cho con bé vui vẻ trở lại, biết đâu Floyd và tôi sẽ không giết anh vào đêm tân hôn đâu. Để xem đã. Và chúng tôi sẽ luôn đối xử tốt với anh trước mặt mọi người... thậm chí sẽ chẳng cười khi nghe anh giảng đạo đâu. Giờ thì xéo đi, nghe rõ chưa?”</p>
 
 <p class="para-en">While he dressed, Elmer was able to keep his face turned from them, able to compose himself, so that he could suddenly whirl on them with his handsomest, his most manly and winning smile.</p>
 
@@ -520,7 +520,7 @@
 
 <p class="para-en">“Brother Bains, I want to thank Cousin Floyd and you. You’re dead wrong about thinking I wouldn’t have done right by Lulu. But I rejoice, sir, <em>rejoice</em>, that she is blessed by having such loyal relatives!” That puzzled rather than captured them, but he fetched them complete with a jovial, “And such husky ones! I’m pretty strong myself﻿—keep up my exercise lot more’n you think﻿—but I guess I wouldn’t be one-two-three with you folks! Good thing for ole Elmer you never let loose that darn mule-kick of yours, Brother Bains! And you’re right. No sense putting off the wedding. May fifteenth will be fine. Now I want to ask one thing: Let me have ten minutes alone with Lu before you make the announcement. I want to console her﻿—make her happy. Oh, you can tell if I keep faith﻿—the eagle eye of a father will know.”</p>
 
-<p class="para-vi-sub">“Sư huynh Bains, tôi muốn cảm ơn họ hàng Floyd và ông. Ông đã hoàn toàn sai lầm khi nghĩ rằng tôi sẽ không đối xử tử tế với Lulu. Nhưng tôi vô cùng vui mừng, <i>vô cùng vui mừng</i>, vì con bé thật có phúc khi có được những người thân trung thành như vậy.” Câu nói ấy khiến họ ngạc nhiên hơn là bị thu hút, nhưng gã đã hoàn toàn chinh phục họ bằng một câu cười xòa khoáng đạt: “Và lại vô cùng lực lưỡng nữa chứ. Bản thân tôi cũng khá khỏe... vẫn duy trì việc tập luyện nhiều hơn các ông tưởng... nhưng chắc tôi chẳng thấm vào đâu so với các người. Thật may cho Elmer là các ông chưa tung ra cái cú đá hậu trứ danh giống như loài la của ông đấy, Sư huynh Bains. Và ông nói đúng. Chẳng có lý do gì phải hoãn đám cưới cả. Ngày mười lăm tháng Năm sẽ rất tuyệt. Giờ tôi muốn xin một điều: hãy cho tôi mười phút ở riêng với Lu trước khi ông đưa ra thông báo. Tôi muốn an ủi cô ấy... mang lại niềm vui cho cô ấy. Ồ, các ông có thể kiểm chứng xem tôi có giữ trọn đức tin không... đôi mắt tinh tường của một người cha sẽ nhận ra ngay mà.”</p>
+<p class="para-vi-sub">“Chấp sự Bains, tôi muốn cảm ơn họ hàng Floyd và ông. Ông đã hoàn toàn sai lầm khi nghĩ rằng tôi sẽ không đối xử tử tế với Lulu. Nhưng tôi vô cùng vui mừng, <i>vô cùng vui mừng</i>, vì con bé thật có phúc khi có được những người thân trung thành như vậy!” Câu nói ấy khiến họ ngạc nhiên hơn là bị thu hút, nhưng gã đã hoàn toàn chinh phục họ bằng một câu cười xòa khoáng đạt: “Và lại vô cùng lực lưỡng nữa chứ! Bản thân tôi cũng khá khỏe... vẫn duy trì việc tập luyện nhiều hơn các ông tưởng... nhưng chắc tôi chẳng thấm vào đâu so với các người! Thật may cho Elmer là các ông chưa tung ra cái cú đá hậu trứ danh giống như loài la của ông đấy, chấp sự Bains! Và ông nói đúng. Chẳng có lý do gì phải hoãn đám cưới cả. Ngày mười lăm tháng Năm sẽ rất tuyệt. Giờ tôi muốn xin một điều: hãy cho tôi mười phút ở riêng với Lu trước khi ông đưa ra thông báo. Tôi muốn an ủi cô ấy... mang lại niềm vui cho cô ấy. Ồ, các ông có thể kiểm chứng xem tôi có giữ trọn đức tin không... đôi mắt tinh tường của một người cha sẽ nhận ra ngay mà.”</p>
 
 <p class="para-en">“Well, my father’s eagle eye ain’t been working none too good lately, but I guess it’ll be all right for you to see her.”</p>
 
@@ -528,7 +528,7 @@
 
 <p class="para-en">“Now, will you shake hands? Please!”</p>
 
-<p class="para-vi-sub">“Nào, hai ông có muốn bắt tay không? Làm ơn đi.”</p>
+<p class="para-vi-sub">“Nào, hai ông có muốn bắt tay không? Làm ơn đi!”</p>
 
 <p class="para-en">He was so big, so radiant, so confident. They looked sheepish, grinned like farmers flattered by a politician, and shook hands.</p>
 
@@ -536,11 +536,11 @@
 
 <p class="para-en">There was a multitude at the Bainses’, also fried chicken and watermelon pickles.</p>
 
-<p class="para-vi-sub">Có rất đông người tụ tập ở nhà ông Bains, cùng với thịt gà rán và dưa chuột muối dưa hấu.</p>
+<p class="para-vi-sub">Có rất đông người tụ tập ở nhà chấp sự Bains, cùng với thịt gà rán và dưa chuột muối dưa hấu.</p>
 
 <p class="para-en">The deacon brought Lulu to Elmer in the spare room and left her.</p>
 
-<p class="para-vi-sub">Ông đưa cô vào phòng khách gặp Elmer rồi bỏ đi.</p>
+<p class="para-vi-sub">Chấp sự đưa cô vào phòng khách gặp Elmer rồi bỏ đi.</p>
 
 <p class="para-en">Elmer was at ease on the sofa; she stood before him, trembling, red-eyed.</p>
 
@@ -560,7 +560,7 @@
 
 <p class="para-en">He considered, meanwhile, “That ought to hold you, damn you! Now I’ll figure out some way of getting out of this mess.”</p>
 
-<p class="para-vi-sub">Trong khi đó, gã thầm nghĩ: “Thế là đủ để trói buộc các người rồi đấy, khỉ thật. Giờ thì mình phải tính cách chuồn khỏi cái vũng lầy này thôi.”</p>
+<p class="para-vi-sub">Trong khi đó, gã thầm nghĩ: “Thế là đủ để trói buộc các người rồi đấy, khỉ thật! Giờ thì mình phải tính cách chuồn khỏi cái vũng lầy này thôi.”</p>
 
 <p class="para-en">At the announcement of Lulu’s engagement to a Man of God, the crowd gave hoarse and holy cheers.</p>
 
@@ -572,7 +572,7 @@
 
 <p class="para-en">“Go on, Brother! Kiss her!” they clamored.</p>
 
-<p class="para-vi-sub">“Đi nào, Sư huynh. Hôn cô ấy đi.” bọn họ hò reo.</p>
+<p class="para-vi-sub">“Đi nào, Sư huynh! Hôn cô ấy đi!” bọn họ hò reo.</p>
 
 <p class="para-en">He did, heartily; so heartily that he felt curious stirrings.</p>
 
@@ -580,25 +580,25 @@
 
 <p class="para-en">He spent the night there, and was so full of holy affection that when the family was asleep, he crept into Lulu’s bedroom. She stirred on the pillow and whispered, “Oh, my darling! And you forgave me! Oh I do love you so!” as he kissed her fragrant hair.</p>
 
-<p class="para-vi-sub">Gã ngủ lại đó qua đêm, và vì tràn trề ái tình thánh thiện nên khi cả nhà đã chìm vào giấc ngủ, gã liền lẻn vào phòng ngủ của cô. Cô cựa mình trên gối rồi thì thào: “Ôi, người yêu dấu của anh. Và anh đã tha thứ cho em. Ôi, em yêu anh biết bao” trong khi gã hôn mái tóc thơm ngát của cô.</p>
+<p class="para-vi-sub">Gã ngủ lại đó qua đêm, và vì tràn trề ái tình thánh thiện nên khi cả nhà đã chìm vào giấc ngủ, gã liền lẻn vào phòng ngủ của cô. Cô cựa mình trên gối rồi thì thào: “Ôi, người yêu dấu của anh! Và anh đã tha thứ cho em! Ôi, em yêu anh biết bao” trong khi gã hôn mái tóc thơm ngát của cô.</p>
 
 ### VI
 
 <p class="para-en">It was usual for the students of Mizpah to let Dean Trosper know if they should become engaged. The dean recommended them for ministerial appointments, and the status of marriage made a difference. Bachelors were more likely to become assistants in large city churches; married men, particularly those whose wives had lively piety and a knowledge of cooking, were usually sent to small churches of their own.</p>
 
-<p class="para-vi-sub">Các sinh viên Chủng viện Thần học Mizpah thường có thói quen báo cho ông Trosper biết nếu họ đính hôn. Ông là người giới thiệu họ nhận các chức vụ mục sư, và tình trạng hôn nhân có ảnh hưởng không nhỏ. Những kẻ độc thân dễ trở thành trợ lý tại các nhà thờ lớn trong thành phố hơn, còn những người đã kết hôn, đặc biệt là những ai có vợ nết na sùng đạo cùng tay nghề nấu nướng đảm đang, thường được cử về các nhà thờ nhỏ tự quản.</p>
+<p class="para-vi-sub">Các sinh viên Mizpah thường có thói quen báo cho Viện trưởng Trosper biết nếu họ đính hôn. Viện trưởng là người giới thiệu họ nhận các chức vụ mục sư, và tình trạng hôn nhân có ảnh hưởng không nhỏ. Những kẻ độc thân dễ trở thành trợ lý tại các nhà thờ lớn trong thành phố hơn, còn những người đã kết hôn, đặc biệt là những ai có vợ nết na sùng đạo cùng tay nghề nấu nướng đảm đang, thường được cử về các nhà thờ nhỏ tự quản.</p>
 
 <p class="para-en">The dean summoned Elmer to his gloomy house on the edge of the campus﻿—it was a house which smelled of cabbage and wet ashes﻿—and demanded:</p>
 
-<p class="para-vi-sub">Ông triệu tập Elmer đến ngôi nhà u ám của ông ở rìa khuôn viên trường, một ngôi nhà thoang thoảng mùi bắp cải và tro ẩm, rồi gặng hỏi:</p>
+<p class="para-vi-sub">Viện trưởng triệu tập Elmer đến ngôi nhà u ám của ông ở rìa khuôn viên trường, một ngôi nhà thoang thoảng mùi bắp cải và tro ẩm, rồi gặng hỏi:</p>
 
 <p class="para-en">“Gantry, just what is this business about you and some girl at Schoenheim?”</p>
 
-<p class="para-vi-sub">“Gantry, rốt cuộc cái vụ giữa cậu với cô gái nào ở Làng Schoenheim là thế nào đây?”</p>
+<p class="para-vi-sub">“Gantry, rốt potassium... rốt cuộc cái vụ giữa cậu với cô gái nào ở Làng Schoenheim là thế nào đây?”</p>
 
 <p class="para-en">“Why, Dean,” in hurt rectitude, “I’m engaged to a fine young lady there﻿—daughter of one of my deacons.”</p>
 
-<p class="para-vi-sub">“Thưa Khoa trưởng”, với vẻ đầy tổn thương vì sự ngay thẳng, “tôi đã đính hôn với một thiếu nữ đoan trang ở trỏng, con gái của một chấp sự trong giáo xứ.”</p>
+<p class="para-vi-sub">“Thưa Viện trưởng”, với vẻ đầy tổn thương vì sự ngay thẳng, “tôi đã đính hôn với một thiếu nữ đoan trang ở trỏng, con gái của một chấp sự trong giáo xứ.”</p>
 
 <p class="para-en">“Well, that’s good. It’s better to marry than to burn﻿—or at least so it is stated in the Scriptures. Now I don’t want any monkey-business about this. A preacher must walk circumspectly. You must shun the very appearance of evil. I hope you’ll love and cherish her, and seems to me it would be well not only to be engaged to her but even to marry her. Thaddeldo.”</p>
 
@@ -620,7 +620,7 @@
 
 <p class="para-en">He spent as much time in Schoenheim as possible, not only with Lulu but with Floyd. He played all his warm incandescence on Floyd, and turned that trusting drudge from enemy into admiring friend. One day when Floyd and he were walking together to the handcar Elmer purred:</p>
 
-<p class="para-vi-sub">Gã dành thời gian ở Làng Schoenheim nhiều nhất có thể, không chỉ với cô mà cả với Floyd. Gã trút mọi thứ nhiệt tình nồng ấm của mình lên Floyd, biến gã lao động cả tin ấy từ một kẻ thù thành một người bạn ngưỡng mộ. Một hôm, khi hai người đang cùng đi bộ đến chiếc Xe goòng đẩy tay, Elmer ngọt nhạt:</p>
+<p class="para-vi-sub">Gã dành thời gian ở Làng Schoenheim nhiều nhất có thể, không chỉ với cô mà cả với Floyd. Gã trút mọi thứ nhiệt tình nồng ấm của mình lên Floyd, biến gã lao động cả tin ấy từ một kẻ thù thành một người bạn ngưỡng mộ. Một hôm, khi hai người đang cùng đi bộ đến chiếc xe goòng đẩy tay, Elmer ngọt nhạt:</p>
 
 <p class="para-en">“Say, Floydy, some ways it’s kind of a shame Lu’s going to marry me and not you. You’re so steady and hardworking and patient. I fly off the handle too easy.”</p>
 
@@ -632,7 +632,7 @@
 
 <p class="para-en">“But I guess you liked her pretty well yourself, eh? You ought to! Sweetest girl in the whole world. You kind of liked her?”</p>
 
-<p class="para-vi-sub">“Nhưng chắc cậu cũng thích cô ấy lắm phải không? Phải vậy chứ. Người con gái ngọt ngào nhất trên đời. Cậu có thích cô ấy chứ?”</p>
+<p class="para-vi-sub">“Nhưng chắc cậu cũng thích cô ấy lắm phải không? Phải vậy chứ! Người con gái ngọt ngào nhất trên đời. Cậu có thích cô ấy chứ?”</p>
 
 <p class="para-en">“Yuh, I guess I did. I﻿—Oh, well rats, I ain’t good enough for her, God bless her!”</p>
 
@@ -648,7 +648,7 @@
 
 <p class="para-en">Then he had a week in Schoenheim, the whole week before Easter. The Baptists of Schoenheim, with their abhorrence of popery, did not make much of Easter as Easter; they called it “The Festival of Christ’s Resurrection,” but they did like daily meetings during what the heretical world knew as Holy Week. Elmer stayed with the Bainses and labored mightily both against sin and against getting married. Indeed he was so stirred and so eloquent that he led two sixteen-year-old girls out of their sins, and converted the neighborhood object-lesson, a patriarch who drank hard cider and had not been converted for two years.</p>
 
-<p class="para-vi-sub">Rồi gã có một tuần ở Làng Schoenheim, trọn vẹn một tuần trước lễ Phục sinh. Những tín đồ Báp-tít ở Làng Schoenheim, với sự căm ghét đối với các giáo điều của Giáo hoàng, không quá coi trọng lễ Phục sinh như một dịp lễ lớn, họ gọi đó là “Lễ kỷ niệm Chúa Phục sinh”, nhưng họ lại rất thích các buổi tụ họp hằng ngày trong khoảng thời gian mà thế giới dị giáo gọi là Tuần Thánh. Elmer ở nhà gia đình ông Bains và nỗ lực hết mình chống lại cả tội lỗi lẫn việc phải kết hôn. Quả thật, gã vô cùng hào hứng và hùng biện đến mức đã cứu vớt hai thiếu nữ mười sáu tuổi khỏi tội lỗi, đồng thời cải đạo được nhân vật tiêu biểu cho thói hư tật xấu của vùng, một lão già gân hay uống rượu táo lên men và đã hai năm nay chưa chịu cải đạo.</p>
+<p class="para-vi-sub">Rồi gã có một tuần ở Làng Schoenheim, trọn vẹn một tuần trước lễ Phục sinh. Những tín đồ Báp-tít ở Làng Schoenheim, với sự căm ghét đối với các giáo điều của giáo hoàng, không quá coi trọng lễ Phục sinh như một dịp lễ lớn, họ gọi đó là “Lễ kỷ niệm Chúa Phục sinh”, nhưng họ lại rất thích các buổi tụ họp hằng ngày trong khoảng thời gian mà thế giới dị giáo gọi là Tuần Thánh. Elmer ở nhà gia đình chấp sự Bains và nỗ lực hết mình chống lại cả tội lỗi lẫn việc phải kết hôn. Quả thật, gã vô cùng hào hứng và hùng biện đến mức đã cứu vớt hai thiếu nữ mười sáu tuổi khỏi tội lỗi, đồng thời cải đạo được nhân vật tiêu biểu cho thói hư tật xấu của vùng, một lão già gân hay uống rượu táo lên men và đã hai năm nay chưa chịu cải đạo.</p>
 
 <p class="para-en">Elmer knew by now that though Floyd Naylor was not exactly a virgin, his achievements and his resolution were considerably less than his desires, and he set to work to improve that resolution. He took Floyd off to the pasture and, after benignly admitting that perhaps a preacher oughtn’t to talk of such things, he narrated his amorous conquests till Floyd’s eyes were hungrily bulging. Then, with giggling apologies, Elmer showed his collection of what he called Art Photographs.</p>
 
@@ -664,11 +664,11 @@
 
 <p class="para-en">On Friday Elmer held morning meeting instead of evening meeting, and arranged that Lulu and Floyd and he should have picnic supper in the sycamore grove near the Bains house. He suggested it in a jocund idyllic way, and Lulu brightened. On their way to the grove with their baskets she sighed to him, as they walked behind Floyd, “Oh, why have you been so cold to me? Have I offended you again, dear?”</p>
 
-<p class="para-vi-sub">Vào thứ Sáu, Elmer tổ chức buổi họp mặt vào buổi sáng thay vì buổi tối, và sắp xếp để Lulu, Floyd cùng gã có một bữa ăn dã ngoại trong rừng sung gần nhà gia đình ông Bains. Gã đề xuất điều đó với một vẻ hứng khởi đầy chất đồng quê, và gương mặt cô bừng sáng. Trên đường đến khu rừng mang theo những chiếc giỏ đựng đồ, cô đi sau Floyd và khẽ thở dài với hắn: “Ôi, sao anh ấy lại lạnh nhạt với em thế? Em lại làm gì trái ý anh ấy nữa à, anh yêu?”</p>
+<p class="para-vi-sub">Vào thứ Sáu, Elmer tổ chức buổi họp mặt vào buổi sáng thay vì buổi tối, và sắp xếp để Lulu, Floyd cùng gã có một bữa ăn dã ngoại trong rừng sung gần nhà gia đình chấp sự Bains. Gã đề xuất điều đó với một vẻ hứng khởi đầy chất đồng quê, và gương mặt cô bừng sáng. Trên đường đến khu rừng mang theo những chiếc giỏ đựng đồ, cô đi sau Floyd và khẽ thở dài với hắn: “Ôi, sao anh ấy lại lạnh nhạt với em thế? Em lại làm gì trái ý anh ấy nữa à, anh yêu?”</p>
 
 <p class="para-en">He let her have it, brutally: “Oh, don’t be such a damned whiner! Can’t you act as if you had <em>some</em> brains, just for once?”</p>
 
-<p class="para-vi-sub">Gã tung ngay một đòn phũ phàng: “Ôi, đừng có rên rỉ chết tiệt như thế nữa chứ. Bộ em không thể cư xử như thể mình có chút óc khôn ngoan nào, dù chỉ một lần thôi sao?”</p>
+<p class="para-vi-sub">Gã tung ngay một đòn phũ phàng: “Ôi, đừng có rên rỉ chết tiệt như thế nữa chứ! Bộ em không thể cư xử như thể mình có chút óc khôn ngoan nào, dù chỉ một lần thôi sao?”</p>
 
 <p class="para-en">When they spread the picnic supper, she was barely keeping hold of her sobs.</p>
 
@@ -696,7 +696,7 @@
 
 <p class="para-en">“Elmer said I should think of you as a sister, and I could kiss you﻿—Oh, my God, Lulu, I do love you so terrible!”</p>
 
-<p class="para-vi-sub">“Elmer bảo anh phải coi em như em gái, và anh có quyền hôn em mà... Ôi Chúa ơi, Lulu, anh yêu em nhiều khủng khiếp.”</p>
+<p class="para-vi-sub">“Elmer bảo anh phải coi em như em gái, và anh có quyền hôn em mà... Ôi Chúa ơi, Lulu, anh yêu em nhiều khủng khiếp!”</p>
 
 <p class="para-en">“Oh, we oughtn’t﻿—” Then silence.</p>
 
@@ -704,7 +704,7 @@
 
 <p class="para-en">Elmer fled into the barnyard, found Deacon Bains, and demanded harshly, “Come here! I want you to see what Floyd and Lulu are doing! Put that lantern down. I’ve got one of these electric dinguses here.”</p>
 
-<p class="para-vi-sub">Elmer chuồn thẳng ra khu vực sân chuồng, tìm gặp ông Bains và lớn tiếng hách dịch: “Đến đây mau. Tôi muốn ông tận mắt chứng kiến những gì Floyd và Lulu đang làm. Đặt cái đèn lồng xuống đi. Tôi có sẵn một thiết bị điện ở đây rồi.”</p>
+<p class="para-vi-sub">Elmer chuồn thẳng ra khu vực sân chuồng, tìm gặp chấp sự Bains và lớn tiếng hách dịch: “Đến đây mau! Tôi muốn ông tận mắt chứng kiến những gì Floyd và Lulu đang làm! Đặt cái đèn lồng xuống đi. Tôi có sẵn một thiết bị điện ở đây rồi.”</p>
 
 <p class="para-en">He had. He had bought it for this purpose. He also had a revolver in his pocket.</p>
 
@@ -712,19 +712,19 @@
 
 <p class="para-en">When Elmer and the bewildered <abbr epub:type="z3998:name-title">Mr.</abbr> Bains burst upon them, saw them in the circle from the electric flashlight, Lulu and Floyd were deep in a devastating kiss.</p>
 
-<p class="para-vi-sub">Khi Elmer và ông Bains đang ngơ ngác xông bổ vào họ, rọi thẳng vòng sáng từ chiếc đèn pin điện, Lulu và Floyd đang chìm đắm trong một nụ hôn đến cháy lòng cháy dạ.</p>
+<p class="para-vi-sub">Khi Elmer và chấp sự Bains đang ngơ ngác xông bổ vào họ, rọi thẳng vòng sáng từ chiếc đèn pin điện, Lulu và Floyd đang chìm đắm trong một nụ hôn đến cháy lòng cháy dạ.</p>
 
 <p class="para-en">“There!” bellowed the outraged Elmer. “Now you see why I hesitated to be engaged to that woman! I’ve suspected it all along! Oh, abomination﻿—abomination, and she that committeth it shall be cut off!”</p>
 
-<p class="para-vi-sub">“Kia kìa.” Elmer gầm lên vẻ đầy căm phẫn. “Giờ thì ông đã thấy lý do tại sao tôi lại chần chừ không muốn đính hôn với cô gái đó rồi chứ. Tôi đã hoài nghi chuyện này từ lâu. Ôi, đúng là sự ghê tởm, sự ghê tởm tột cùng, và kẻ nào nhúng chàm vào đó sẽ phải chịu sự trừng phạt đích đáng.”</p>
+<p class="para-vi-sub">“Kia kìa!” Elmer gầm lên vẻ đầy căm phẫn. “Giờ thì ông đã thấy lý do tại sao tôi lại chần chừ không muốn đính hôn với cô gái đó rồi chứ! Tôi đã hoài nghi chuyện này từ lâu! Ôi, đúng là sự ghê tởm, sự ghê tởm tột cùng, và kẻ nào nhúng chàm vào đó sẽ phải chịu sự trừng phạt đích đáng!”</p>
 
 <p class="para-en">Floyd sprang up, a fighting hound. Elmer could doubtless have handled him, but it was Deacon Bains who with one maniac blow knocked Floyd down. The deacon turned to Elmer then, with the first tears he had known since boyhood: “Forgive me and mine, Brother! We have sinned against you. This woman shall suffer for it, always. She’ll never enter my house again. She’ll by God marry Floyd. And he’s the shiftlessest damn fool farmer in ten counties!”</p>
 
-<p class="para-vi-sub">Floyd chồm dậy như một con chó săn dữ tợn. Elmer thừa sức xử lý hắn, nhưng chính ông Bains mới là người tung ra một cú đấm điên cuồng quật ngã Floyd xuống đất. Vị chấp sự quay sang phía Elmer, đôi mắt rớm những giọt nước mắt đầu tiên kể từ thời thơ ấu: “Xin hãy tha thứ cho con và gia đình mình, Mục sư. Chúng tôi đã đắc tội với thầy. Con bé này sẽ phải trả giá cho hành động đó, mãi mãi. Nó sẽ không bao giờ được bước chân vào nhà tôi thêm lần nào nữa. Nó thề có Chúa sẽ phải cưới Floyd. Dù hắn là tay nông dân vô tích sự và ngốc nghếch nhất trong vòng mười hạt.”</p>
+<p class="para-vi-sub">Floyd chồm dậy như một con chó săn dữ tợn. Elmer thừa sức xử lý hắn, nhưng chính chấp sự Bains mới là người tung ra một cú đấm điên cuồng quật ngã Floyd xuống đất. Vị chấp sự quay sang phía Elmer, đôi mắt rớm những giọt nước mắt đầu tiên kể từ thời thơ ấu: “Xin hãy tha thứ cho con và gia đình mình, Mục sư! Chúng tôi đã đắc tội với thầy. Con bé này sẽ phải trả giá cho hành động đó, mãi mãi. Nó sẽ không bao giờ được bước chân vào nhà tôi thêm lần nào nữa. Nó thề có Chúa sẽ phải cưới Floyd. Dù hắn là tay nông dân vô tích sự và ngốc nghếch nhất trong vòng mười hạt!”</p>
 
 <p class="para-en">“I’m going. I can’t stand this. I’ll send you another preacher. I’ll never see any of you again!” said Elmer.</p>
 
-<p class="para-vi-sub">“Tôi đi đây. Tôi không thể chịu đựng nổi cảnh này nữa. Tôi sẽ cử một mục sư khác đến thay thế. Tôi sẽ chẳng bao giờ gặp lại bất kỳ ai trong số các người nữa.” Elmer tuyên bố.</p>
+<p class="para-vi-sub">“Tôi đi đây. Tôi không thể chịu đựng nổi cảnh này nữa. Tôi sẽ cử một mục sư khác đến thay thế. Tôi sẽ chẳng bao giờ gặp lại bất kỳ ai trong số các người nữa”, Elmer tuyên bố.</p>
 
 <p class="para-en">“I don’t blame you. Try to forgive us, Brother.” The deacon was sobbing now, dusty painful sobbing, bewildered sobs of anger.</p>
 

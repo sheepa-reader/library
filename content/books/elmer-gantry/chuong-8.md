@@ -2,7 +2,7 @@
 
 ### I
 
-Sự nhiệt tình của Lulu, niềm kiêu hãnh khi có nhà thờ riêng tại Làng Schoenheim, niềm vui khi ngắm nhìn Frank Shallard thở hồng hộc đầy đau khổ trên chiếc Xe goòng đẩy tay, tất cả những điều đó vẫn không bù đắp nổi cho Elmer nỗi chán ngán tột cùng trong các giờ học ở chủng viện từ thứ Hai đến thứ Sáu, thứ cảm giác chán ngán mà ngoại trừ một vài mục sư đồng quê ham mê thể thao, một vài quản lý của các nhà thờ có quy mô như nhà máy, bất kỳ mục sư nào cũng phải chịu đựng suốt cả cuộc đời.
+Sự nhiệt tình của Lulu, niềm kiêu hãnh khi có nhà thờ riêng tại Làng Schoenheim, niềm vui khi ngắm nhìn Frank Shallard thở hồng hộc đầy đau khổ trên chiếc xe goòng đẩy tay, tất cả những điều đó vẫn không bù đắp nổi cho Elmer nỗi chán ngán tột cùng trong các giờ học ở chủng viện từ thứ Hai đến thứ Sáu, thứ cảm giác chán ngán mà ngoại trừ một vài mục sư đồng quê ham mê thể thao, một vài quản lý của các nhà thờ có quy mô như nhà máy, bất kỳ mục sư nào cũng phải chịu đựng suốt cả cuộc đời.
 
 Nhiều lúc gã nghĩ đến chuyện từ chức và chuyển sang làm kinh doanh. Vì những lời đường mật cùng phong thái bề thế cũng có giá trị trong kinh doanh chẳng khác gì ở nhà thờ, nên lớp học mà gã dành sự chú ý cung kính nhất chính là lớp của ông Ben T. Bohnsock, Giáo sư Hùng biện và Văn học, kiêm Giảng viên Huấn luyện Giọng nói. Dưới sự hướng dẫn của ông, Elmer đã học được phong cách giảng đạo ngày càng dát vàng nhưng lại sắc bén tựa thép, học cách không ngắt quãng các mệnh đề vô định hình trước công chúng, và học được rằng việc trích dẫn Dickens, Victor Hugo, James Whitcomb Riley, Josh Billings cùng Michelangelo sẽ mang lại cho bài giảng một bầu không khí Chicago rất thời thượng.
 

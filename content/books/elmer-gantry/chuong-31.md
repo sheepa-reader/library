@@ -2,23 +2,23 @@
 
 ### I
 
-Suốt hơn một năm qua, trong thế giới nhà thờ râm ran lời đồn đại rằng không có diễn giả nào hữu ích cho tổ chức cải cách hơn Mục sư Tiến sĩ Elmer Gantry ở Thành phố Zenith. Giáo hội của chính gã cảm thấy tiếc nuối khi phải để gã vắng mặt liên tục, nhưng họ vẫn kiêu hãnh nghe tin gã đang diễn thuyết ở Thành phố New York, ở Los Angeles, ở Toronto.
+Suốt hơn một năm qua, trong thế giới nhà thờ râm ran lời đồn đại rằng không có diễn giả nào hữu ích cho tổ chức cải cách hơn Mục sư Tiến sĩ Elmer Gantry ở Zenith. Giáo hội của chính gã cảm thấy tiếc nuối khi phải để gã vắng mặt liên tục, nhưng họ vẫn kiêu hãnh nghe tin gã đang diễn thuyết ở Thành phố New York, ở Los Angeles, ở Toronto.
 
-Người ta đồn rằng khi ông J. E. North rút lui khỏi Hiệp hội Quốc gia Thanh lọc Nghệ thuật và Báo chí do bận rộn với công việc kinh doanh riêng, Tiến sĩ Gantry sẽ được bầu làm tổng thư ký điều hành của hiệp hội thay thế cho ông ta. Người ta đồn rằng không ai ở nước Mỹ là kẻ thù không khoan nhượng hơn gã đối với cái gọi là chủ nghĩa tự do trong thần học và những hành vi sai trái trong đời sống riêng tư.
+Người ta đồn rằng khi ông J. E. North rút lui khỏi Napap do bận rộn với công việc kinh doanh riêng, ông ta là chủ sở hữu tờ <i>Times-Scimitar</i> ở Eppsburg, New York, Tiến sĩ Gantry sẽ được bầu làm tổng thư ký điều hành của Napap thay thế cho ông ta. Người ta đồn rằng không ai ở nước Mỹ là kẻ thù không khoan nhượng hơn Tiến sĩ Gantry đối với cái gọi là chủ nghĩa tự do trong thần học và những hành vi sai trái trong đời sống riêng tư.
 
-Người ta đồn rằng Tiến sĩ Gantry đã từ chối sự hậu thuẫn để tranh cử chức giám mục tại Hội nghị Thường niên năm 1928 của Giáo hội Giám lý Miền Bắc, diễn ra hai năm nữa. Và người ta biết chắc chắn rằng gã đã từ chối chiếc ghế hiệu trưởng Đại học Swenson ở Bang Nebraska.
+Người ta đồn rằng Tiến sĩ Gantry đã từ chối sự hậu thuẫn để tranh cử chức giám mục tại Hội nghị Thường niên năm 1928 của Giáo hội Giám lý Miền Bắc, diễn ra hai năm nữa. Và người ta biết chắc chắn rằng gã đã từ chối chiếc ghế hiệu trưởng Đại học Swenson ở Nebraska.
 
-Nhưng người ta cũng biết chắc chắn một điều, than ôi, rằng gã có khả năng được mời về quản nhiệm Nhà thờ Giám lý Yorkville tại Thành phố New York, nơi có các thành viên gồm Tiến sĩ Wilkie Bannister, vị tín đồ theo Chủ nghĩa Chính thống cứng rắn, đồng thời là một trong những bác sĩ phẫu thuật nổi tiếng nhất cả nước, cùng Peter F. Durbar, triệu phú dầu mỏ, và Jackie Oaks, danh hài kịch ca nhạc. Vị giám mục giáo hạt New York sẵn sàng trao cho Tiến sĩ Gantry chức vụ đó. Nhưng chà... có những câu chuyện mâu thuẫn; một phiên bản nói rằng Tiến sĩ Gantry chưa quyết định nhận chức vụ ở Yorkville; phiên bản kia lại nói rằng Yorkville, tức là Tiến sĩ Bannister, chưa quyết định nhận Tiến sĩ Gantry. Dù thế nào đi nữa, bầy chiên ở Wellspring vẫn hy vọng rằng vị mục sư, người bảo hộ tâm linh, người bạn và người anh em của họ sẽ không rời bỏ họ.
+Nhưng người ta cũng biết chắc chắn một điều, than ôi, rằng gã có khả năng được mời về quản nhiệm Nhà thờ Giám lý Yorkville tại Thành phố New York, nơi có các thành viên gồm Tiến sĩ Wilkie Bannister, vị tín đồ theo Chủ nghĩa Chính thống cứng rắn, đồng thời là một trong những bác sĩ phẫu thuật nổi tiếng nhất cả nước, Peter F. Durbar, triệu phú dầu mỏ, và Jackie Oaks, danh hài kịch ca nhạc. Vị giám mục giáo hạt New York sẵn sàng trao cho Tiến sĩ Gantry chức vụ đó. Nhưng, chà, có những câu chuyện mâu thuẫn; một phiên bản nói rằng Tiến sĩ Gantry chưa quyết định nhận chức vụ ở Yorkville; phiên bản kia lại nói rằng Yorkville, tức là Tiến sĩ Bannister, chưa quyết định nhận Tiến sĩ Gantry. Dù thế nào đi nữa, bầy chiên ở Wellspring vẫn hy vọng rằng vị mục sư, người bảo hộ tâm linh, người bạn và người anh em của họ sẽ không rời bỏ họ.
 
 ### II
 
-Sau khi sa thải cô Bundle, thư ký nhà thờ, và đó là một khoảnh khắc thật dễ chịu, cô ta khóc lóc trông đến là buồn cười, Elmer đành phải dựa vào một loạt những cô gái bất tài; họ là những tín đồ Giám lý ngoan đạo nhưng lại là những tay đánh máy tồi tệ.
+Sau khi sa thải cô Bundle, thư ký nhà thờ, và đó là một khoảnh khắc thật dễ chịu, cô ta khóc lóc trông đến là buồn cười, Elmer đành phải dựa vào một loạt những cô gái bất tài, họ là những tín đồ Giám lý ngoan đạo nhưng lại là những tay đánh máy tồi tệ.
 
-Gã gần như muốn phì cười khi nghĩ rằng trong khi mọi người đều đinh ninh gã đang có những khoảng thời gian tuyệt vời với danh tiếng mới, thì thực chất gã lại đang gặp phải vận đen tồi tệ. Lão J. E. North chết tiệt này, với tất cả sự thân thiết giả tạo, cứ khất lần việc từ chức ở hiệp hội. Tiến sĩ Wilkie Bannister, cái tên ngốc kiêu căng, một kẻ tưởng mình hiểu biết về thần học hơn cả mục sư, lại cứ chần chừ trong việc tham mưu cho Ban Chấp sự Chính thức của Nhà thờ Giám lý Yorkville mời Elmer. Và đám thư ký thì làm gã phát điên lên được. Một trong số họ đã hoảng hốt khi gã chỉ lỡ thốt ra một từ quỷ tha ma bắt nhỏ xíu.
+Gã gần như muốn phì cười khi nghĩ rằng trong khi mọi người đều đinh ninh gã đang có những khoảng thời gian tuyệt vời với danh tiếng mới, thì thực chất gã lại đang gặp phải vận đen tồi tệ. Lão J. E. North chết tiệt này, với tất cả sự thân thiết giả tạo, cứ khất lần việc từ chức ở Napap. Tiến sĩ Wilkie Bannister, cái tên ngốc kiêu căng, một kẻ tưởng mình hiểu biết về thần học hơn cả mục sư, lại cứ chần chừ trong việc tham mưu cho Ban Chấp sự Chính thức của Nhà thờ Yorkville mời Elmer. Và đám thư ký thì làm gã phát điên lên được. Một trong số họ đã hoảng hốt khi gã chỉ lỡ thốt ra một từ "chết tiệt" nhỏ xíu!
 
 Chẳng ai thấu hiểu những phiền muộn của một kẻ được định sẵn sẽ cai trị nước Mỹ; chẳng ai biết gã đang phải hy sinh những gì trong chiến dịch vì đạo đức của mình.
 
-Và gã đã mệt mỏi biết bao với sự sùng kính quê mùa và thiếu trí tưởng tượng của Lulu Bains! Nếu cô ta còn thốt lên bằng giọng ngọng nghịu rằng “Ôi, Elmer, anh mạnh mẽ làm sao,” dù chỉ một lần nữa thôi, gã sẽ đấm cho cô ta một cú tơi bời.
+Và gã đã mệt mỏi biết bao với sự sùng kính quê mùa và thiếu trí tưởng tượng của Lulu Bains! Nếu cô ta còn thốt lên bằng giọng ngọng nghịu rằng “Ôi, Elmer, anh mạnh mẽ làm sao!” dù chỉ một lần nữa thôi, gã sẽ đấm cho cô ta một cú tơi bời!
 
 ### III
 
@@ -26,19 +26,19 @@ Trong dòng người xếp hàng tiến lên sau buổi lễ ban sáng để b�
 
 Cô đứng ở cuối hàng, và họ nói chuyện mà không có bất kỳ kẻ tọc mạch nào nghe lén.
 
-Nếu một vị hầu tước thế kỷ thứ mười bảy có thể hóa thân thành một cô gái tầm hai mươi lăm tuổi, vừa hoàn toàn nồng nhiệt mang nữ tính nhưng lại sở hữu chiếc cằm kiêu hãnh, chiếc mũi khoằm thanh tú, ánh mắt hống hách của ngài hầu tước, thì đó chính là người phụ nữ đang nắm lấy bàn tay Elmer và cất lời:
+Nếu một vị Ngài Hầu tước thế kỷ thứ mười bảy có thể hóa thân thành một cô gái tầm hai mươi lăm tuổi, hoàn toàn nồng nhiệt mang nữ tính nhưng lại sở hữu cái đầu kiêu hãnh, chiếc mũi khoằm thanh tú, ánh mắt hống hách của Ngài Hầu tước, thì đó chính là người phụ nữ đang nắm lấy bàn tay Elmer và cất lời:
 
-“Thưa Tiến sĩ, em có thể nói rằng ngài là người đầu tiên trong đời đã mang lại cho em cảm giác chân thực về tôn giáo không?”
+“Thưa Tiến sĩ, em có thể nói rằng anh là người đầu tiên trong cả cuộc đời em đã mang lại cho em cảm giác chân thực về tôn giáo không?”
 
-“Thưa cô, tôi vô cùng biết ơn,” Mục sư Tiến sĩ Gantry đáp lời, trong khi Elmer thầm nghĩ trong bụng: “Này, cô em là một nhóc anh rất muốn làm quen đấy.”
+“Thưa cô, tôi vô cùng biết ơn,” Mục sư Tiến sĩ Gantry đáp lời, trong khi Elmer thầm nghĩ trong bụng: “Chà, cô em là một nhóc mình rất muốn làm quen đấy!”
 
-“Thưa Tiến sĩ Gantry, ngoài lời ca tụng của em, vốn hoàn toàn chân thành, em còn có một mục đích hoàn toàn chẳng từ thủ đoạn nào khi đến đây và trò chuyện với ngài. Tên em là Hettie Dowler, và rất tiếc là vẫn độc thân! Em đã có hai năm học tại Đại học Wisconsin. Em làm thư ký cho ông Labenheim thuộc Công ty Bảo hiểm Nhân thọ Tallahassee trong suốt năm qua, nhưng ông ấy đã thuyên chuyển sang Detroit. Em thực sự là một cô thư ký khá giỏi. Và em là một tín đồ Giám lý, thuộc giáo hội Trung tâm, nhưng em đang tính chuyển sang Wellspring. Vấn đề em muốn nói là: Nếu ngài vô tình cần đến một thư ký trong vài tháng tới, em hiện đang làm thư ký tạm thời tại khách sạn Thornleigh...”
+“Thưa Tiến sĩ Gantry, ngoài lời ca tụng của em, vốn hoàn toàn chân thành, em còn có một mục đích hoàn toàn chẳng từ thủ đoạn nào khi đến đây và trò chuyện với anh. Tên em là Hettie Dowler, và rất tiếc là vẫn độc thân! Em đã có hai năm học tại Đại học Wisconsin. Em làm thư ký cho ông Labenheim thuộc Công ty Bảo hiểm Nhân thọ Tallahassee trong suốt năm qua, nhưng ông ấy đã thuyên chuyển sang Detroit. Em thực sự là một cô thư ký khá giỏi. Và em là một tín đồ Giám lý, thuộc giáo hội Trung tâm, nhưng em đang tính chuyển sang Wellspring. Vấn đề em muốn nói là: Nếu anh vô tình cần đến một thư ký trong vài tháng tới, em hiện đang làm thư ký tạm thời tại khách sạn Thornleigh...”
 
 Họ nhìn nhau, không chút nao núng, đầy thấu hiểu. Họ bắt tay lại một lần nữa, chặt chẽ hơn.
 
 “Cô Dowler, cô chính là thư ký của tôi ngay từ phút này,” Elmer nói. “Sẽ mất khoảng một tuần để sắp xếp mọi chuyện.”
 
-“Em cảm ơn ngài.”
+“Em cảm ơn anh.”
 
 “Tôi có thể đưa cô về nhà được chứ?”
 
@@ -48,15 +48,15 @@ Họ nhìn nhau, không chút nao núng, đầy thấu hiểu. Họ bắt tay l�
 
 Ngay cả những đêm họ làm việc cùng nhau, cô độc trong nhà thờ, cũng không thể hồi hộp bằng những nụ hôn trêu ngươi chớp nhoáng giữa các buổi tiếp đón những giáo dân nghiêm nghị. Được lao vụt qua phòng làm việc để hôn lên thái dương mềm mại của cô sau khi một góa phụ sầu thảm lê bước đi, và nghe cô thì thầm, “Anh yêu, anh thật sự quá tuyệt vời đối với mụ gà mái già khủng khiếp đó; ôi, anh thật đáng yêu làm sao!”, đó mới chính là cuộc sống đối với gã.
 
-Gã thường xuyên đến căn hộ của Hettie Dowler vào buổi tối, một dãy phòng màu trắng và xanh dễ chịu nằm trong một trong những khách sạn căn hộ mới xây, có một góc bếp ngớ ngẩn và tủ lạnh chạy điện. Cô cuộn tròn người trong những đường cong mềm mại như báo hoa mai trên chiếc ghế bành bọc gấm, trong khi gã sải bước qua lại để luyện tập các bài giảng và dừng lại để nhận phần thưởng là những nụ hôn của cô.
+Gã thường xuyên đến căn hộ của Hettie Dowler vào buổi tối, một dãy phòng màu trắng và xanh dễ chịu nằm trong một trong những khách sạn căn hộ mới xây, có một góc bếp nhỏ xinh và tủ lạnh chạy điện. Cô cuộn tròn người trong những đường cong mềm mại như báo hoa mai trên chiếc ghế bành bọc gấm, trong khi gã sải bước qua lại để luyện tập các bài giảng và dừng lại để nhận phần thưởng là những nụ hôn của cô.
 
 Lúc nào gã cũng tạt xuống phòng chứa thức ăn trong nhà để gọi điện chúc ngủ ngon cho cô trước khi đi ngủ, và khi cô phải ở nhà vì ốm đau, gã gọi điện cho cô từ phòng làm việc của mình mỗi tiếng một lần hoặc nguệch ngoạc viết những tấm thiệp gửi cho cô. Đó là điều cô thích nhất. “Những bức thư của anh mới đáng yêu, ngộ nghĩnh và ngọt ngào làm sao,” cô nói với gã. Thế là gã viết bằng thứ chữ viết chưa nên hồn của mình:
 
-> <p class="p0">Cục cưng thỏ con bé bỏng nhất đời anh, anh đúng là một cục vàng, anh tôn thờ em, anh chẳng còn quái quỷ gì để nói nữa đâu nhưng anh sẽ nói câu đó sáu trăm triệu tỉ lần. Elmer.</p>
+> <p class="p0">Cục cưng thỏ con bé bỏng nhất đời anh, em đúng là một thiên thần, anh tôn thờ em, anh chẳng còn cái quái gì để nói nữa nhưng anh sẽ nói câu đó sáu trăm triệu tỉ lần. Elmer.</p>
 
 <i>Nhưng</i>, và nếu không thì gã đã chẳng bao giờ cho phép mình yêu cô, bởi tham vọng trở thành nhà quản lý đạo đức hàng đầu của đất nước còn lớn hơn cả niềm vui sướng mà cô mang lại, Hettie Dowler suốt thời gian ấy vẫn là một nữ thư ký xuất sắc.
 
-Không tốc ký nào nhanh quá mức với cô; cô hiếm khi mắc lỗi; cô biến một trang bản thảo đánh máy thành một tác phẩm đẹp đẽ; cô ghi chép lại cho gã số điện thoại của những người gọi đến trong lúc gã vắng mặt; và cô có cách cư xử điềm tĩnh, đầy cảm thông để tống khứ lũ ngốc đến làm phiền Mục sư <abbr epub:type="z3998:name-title">Tiến sĩ</abbr> Gantry bằng những nỗi buồn không đâu của chúng. Và cô lại có những gợi ý vô cùng kích thích cho các bài giảng. Trong ngần ấy năm, chưa từng có ai như Cleo hay Lulu đưa ra được một gợi ý bài giảng nào đáng giá ngoài một tiếng thở dài, thế mà Hettie, chà, chính cô là người phác thảo bài giảng về “Sự ngu ngốc của danh tiếng” từng gây ra tiếng vang lớn tại Đại học Terwillinger khi Elmer nhận bằng <abbr epub:type="z3998:name-title">LL.D.</abbr>, được chụp ảnh đang đặt vòng hoa lên mộ cố Hiệu trưởng Willoughby Quarles, và nói chung là tạo được tiếng tăm cho chính bản thân cũng như cho “ngôi trường thân yêu cũ” của gã.
+Không tốc ký nào nhanh quá mức với cô; cô hiếm khi mắc lỗi; cô biến một trang bản thảo đánh máy thành một tác phẩm đẹp đẽ; cô ghi chép lại cho gã số điện thoại của những người gọi đến trong lúc gã vắng mặt; và cô có cách cư xử điềm tĩnh, đầy cảm thông để tống khứ lũ ngốc đến làm phiền Mục sư <abbr epub:type="z3998:name-title">Tiến sĩ</abbr> Gantry bằng những nỗi buồn không đâu của chúng. Và cô lại có những gợi ý vô cùng kích thích cho các bài giảng. Trong ngần ấy năm, chưa từng có Cleo hay Lulu đưa ra được một gợi ý bài giảng nào đáng giá ngoài một tiếng thở dài, thế mà Hettie, chà, chính cô là người phác thảo bài giảng về “Sự ngu ngốc của danh tiếng” từng gây ra tiếng vang lớn tại Đại học Terwillinger khi Elmer nhận bằng <abbr epub:type="z3998:name-title">LL.D.</abbr>, được chụp ảnh đang đặt vòng hoa lên mộ cố Hiệu trưởng Willoughby Quarles, và nói chung là tạo được tiếng tăm cho chính bản thân cũng như cho “ngôi trường thân yêu cũ” của gã.
 
 Có những lúc, gã cảm thấy Hettie chính là sự đầu thai của Sharon.
 
@@ -66,7 +66,7 @@ Và còn có năng lực gây ấn tượng hệt như thế trong việc ứng 
 
 Nếu có điều gì có thể làm tăng thêm lòng trung thành của <abbr epub:type="z3998:given-name">T. J.</abbr> Rigg đối với Elmer và nhà thờ, thì đó chính là cách Hettie, bằng bản năng thấu hiểu tầm quan trọng của Rigg, đã nịnh nọt ông ta, đùa giỡn với ông ta và khuyến khích ông ta la cà ở văn phòng nhà thờ mặc dù ông ta làm gián đoạn công việc của cô và bắt cô phải ở lại muộn hơn vào ban đêm.
 
-Cô còn gánh vác một nhiệm vụ khó khăn và quan trọng hơn, đó là khích lệ William Dollinger Styles, người chưa bao giờ tỏ ra thân thiện như Rigg. Cô nói với ông ta rằng ông ta là một vị hoàng đế tài chính của giới kinh doanh. Cô suýt đi quá giới hạn trong sự quan tâm dành cho Styles; cô đã đi ăn trưa riêng với ông ta. Elmer phản đối đầy ghen tuông, và cô đã vui vẻ đồng ý không bao giờ gặp lại Styles bên ngoài nhà thờ nữa.
+Cô còn gánh vác một nhiệm vụ khó khăn và quan trọng hơn, đó là khích lệ William Dollinger Styles, người chưa bao giờ tỏ ra thân thiện như Rigg. Cô nói với ông ta rằng ông ta là một Napoleon của giới tài chính. Cô suýt đi quá giới hạn trong sự quan tâm dành cho Styles; cô đã đi ăn trưa riêng với ông ta. Elmer phản đối đầy ghen tuông, và cô đã vui vẻ đồng ý không bao giờ gặp lại Styles bên ngoài nhà thờ nữa.
 
 ### V
 
@@ -80,7 +80,7 @@ Vào tối thứ Ba sau buổi gặp đầu tiên với Hettie, khi Lulu rụt r
 
 Trông cô thật nhỏ bé, thật quê mùa làm sao dẫu cho chiếc áo đầm mới tinh, khi cô run rẩy trên một chiếc ghế thẳng lưng xấu xí.
 
-“Lulu, anh có điều kinh khủng muốn nói với em. Bất chấp sự cẩn trọng của chúng ta, Cleo, <abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry, đã phát hiện ra chuyện của chúng ta rồi. Anh đau đớn đến tan nát cõi lòng, nhưng chúng ta phải dừng việc gặp gỡ riêng tư lại. Thật sự là...”
+“Lulu, anh có điều kinh khủng muốn nói với em. Bất chấp sự cẩn trọng của chúng ta, Cleo, <abbr epub:type="z3998:name-title">Mrs.</abbr> Gantry, đã phát hiện ra chuyện của chúng ta rồi. Anh đau đòn đến tan nát cõi lòng, nhưng chúng ta phải dừng việc gặp gỡ riêng tư lại. Thật sự là...”
 
 “Ôi, Elmer, Elmer, ôi người tình của em, <i>làm ơn</i>!”
 
@@ -88,7 +88,7 @@ Trông cô thật nhỏ bé, thật quê mùa làm sao dẫu cho chiếc áo đ�
 
 “Nhưng cô ấy đã nói gì, cô ấy đã <i>nói</i> gì? Em căm ghét cô ấy! Em căm ghét vợ anh đến thế là cùng! Em sẽ không cuồng loạn đâu nhưng mà... em căm ghét cô ấy! Cô ấy đã nói gì cơ chứ?”
 
-“Chà, tối qua cô ấy điềm tĩnh nói với anh rằng... Em có thể tưởng tượng anh ngạc nhiên đến thế nào đấy; cứ như sét đánh ngang tai! Cô ấy nói, vợ anh nói thế này, ‘Ừ, ngày mai chắc anh lại đi gặp cái cô dạy nấu ăn đó nữa rồi về nhà muộn như thường lệ cho mà xem!’ Chà, anh đã tìm cách kéo dài thời gian để né tránh, và anh phát hiện ra cô ấy thực sự đang tính thuê thám tử theo dõi chúng ta đấy!”
+“Chà, tối qua cô ấy điềm tĩnh nói với anh rằng, em có thể tưởng tượng anh ngạc nhiên đến thế nào đấy, cứ như sét đánh ngang tai! Cô ấy nói, vợ anh nói thế này, ‘Ừ, ngày mai chắc anh lại đi gặp cái cô dạy nấu ăn đó nữa rồi về nhà muộn như thường lệ cho mà xem!’ Chà, anh đã tìm cách kéo dài thời gian để né tránh, và anh phát hiện ra cô ấy thực sự đang tính thuê thám tử theo dõi chúng ta đấy!”
 
 “Ôi anh yêu của em, tội nghiệp anh yêu của em quá! Em sẽ không bao giờ được gặp lại anh nữa sao! Anh không được phép bị bôi nhọ, với danh tiếng lẫy lừng tuyệt vời của anh mà em vẫn luôn tự hào biết bao!”
 
@@ -96,7 +96,7 @@ Trông cô thật nhỏ bé, thật quê mùa làm sao dẫu cho chiếc áo đ�
 
 “Vâng, chắc anh ấy cũng làm thế thật... Em không biết mình có còn bận tâm lắm không. Thế còn dễ chịu hơn là tự tử...”
 
-“Này cô gái, cô nghe đây! Tôi không muốn nghe thêm bất kỳ lời bàn nhảm nhí nào về việc tự tử nữa!” Gã đã chồm dậy; gã đứng sừng sững trước mặt cô, ra dáng một vị tư tế đầy uy nghi. “Việc nghĩ đến chuyện tự sát là hoàn toàn đi ngược lại mọi điều răn của Thượng Đế, đấng đã ban cho chúng ta sự sống để phục vụ và làm vinh danh Ngài! Chà, tôi chưa bao giờ có thể tưởng tượng nổi rằng cô lại thốt ra một điều tồi tệ, tồi tệ, <i>tồi tệ</i> đến thế!”
+“Này cô gái, cô nghe đây! Tôi không chấp nhận bất kỳ lời bàn nhảm nhí nào về việc tự tử nữa!” Gã đã chồm dậy; gã đứng sừng sững trước mặt cô, ra dáng một vị tư tế đầy uy nghi. “Việc nghĩ đến chuyện tự sát là hoàn toàn đi ngược lại mọi điều răn của Thượng Đế, đấng đã ban cho chúng ta sự sống để phục vụ và làm vinh danh Ngài! Chà, tôi chưa bao giờ có thể tưởng tượng nổi rằng cô lại thốt ra một điều tồi tệ, tồi tệ, <i>tồi tệ</i> đến thế!”
 
 Một lúc sau, cô lầm lũi bò ra ngoài, là một bóng hình nhỏ bé khoác chiếc áo khoác ngoài sờn cũ bên ngoài chiếc áo đầm mới kiêu hãnh của mình. Cô đứng chờ xe điện, đơn độc dưới ánh đèn đường, mân mê chiếc ví đính hạt mới tinh mà cô yêu quý vì Ngài đã ban nó cho cô trong sự hào phóng của mình. Thỉnh thoảng cô lại lau mắt rồi xì mũi, và suốt khoảng thời gian đó cô cứ lẩm bẩm ngớ ngẩn, “Ôi anh yêu của em, anh yêu dấu của em, nghĩ đến việc em gây rắc rối cho anh... ôi anh yêu, người yêu dấu nhất đời em!”
 
@@ -122,9 +122,9 @@ Elmer ngồi xuống đầy uy quyền, hơi nhoài người về phía trước
 
 “Này, giờ thì nghe đây, thưa Mục sư! Chẳng có ai muốn tôi phải đi thi hành cái...”
 
-“Chẳng ai ư? Không một ai ư? Chỉ có vài trăm nghìn công dân và tín đồ nhà thờ thôi! Các chủ ngân hàng, luật sư, bác sĩ, những con người tử tế! Và chỉ có chừng ấy cái đám dân Ý, dân lao động chân tay, dân Do Thái, vô thần và dân ngoại giáo muốn anh để cho ngày Sa-bát bị bôi nhọ thôi! Giờ thì anh nghe cho rõ đây, Edelstein! Trừ khi anh tóm cổ từng mống một, từ chủ rạp chiếu phim, nhân viên vận hành, người soát vé cho đến toàn bộ cái dây chuyền chịu trách nhiệm cho cái tệ nạn nhơ nhuốc và bất hợp pháp của những buổi chiếu phim ngày Chủ nhật này, nếu không ta sẽ triệu tập một buổi đại hội quần chúng của tất cả các công dân tốt đẹp trong thị trấn này, và ta sẽ nói với họ về chủ rạp chiếu phim thì ít mà sẽ nói về <i>chính anh</i> thì nhiều, và khi hai trăm nghìn cử tri của hạt này (cùng đám dân đàng hoàng cất công đi bỏ phiếu) đã nhắm vào cái mạng của anh thì chà, anh cứ mơ đi mà mong được tái đắc cử...”
+“Chẳng ai ư? Không một ai ư? Chỉ có vài trăm nghìn công dân và tín đồ nhà thờ thôi! Các chủ ngân hàng, luật sư, bác sĩ, những con người tử tế! Và chỉ có chừng ấy cái đám dân Ý, dân lao động chân tay, dân Do Thái, vô thần và dân ngoại giáo muốn anh để cho ngày Sa-bát bị bôi nhọ thôi! Giờ thì anh nghe cho rõ đây, Edelstein! Trừ khi anh tóm cổ từng mống một, từ chủ rạp chiếu phim, nhân viên vận hành, người soát vé cho đến toàn bộ cái dây chuyền chịu trách nhiệm cho cái tệ nạn nhơ nhuốc và bất hợp pháp của những buổi chiếu phim ngày Chủ nhật này, nếu không tôi sẽ triệu tập một buổi đại hội quần chúng của tất cả các công dân tốt đẹp trong thị trấn này, và tôi sẽ nói với họ về chủ rạp chiếu phim thì ít mà sẽ nói về <i>chính anh</i> thì nhiều, và khi hai trăm nghìn cử tri của hạt này (cùng đám dân đàng hoàng cất công đi bỏ phiếu) đã nhắm vào cái mạng của anh thì chà, anh cứ mơ đi mà mong được tái đắc cử...”
 
-“Này, anh tưởng ai đang điều hành hạt này hả? Mấy gã Giám lý, Báp-tít và Giáo hội Tự trị chắc?”
+“Này, anh tưởng ai đang điều hành hạt này hả? Mấy gã Giám lý, Báp-tít và Giáo hội Trưởng lão chắc?”
 
 “Tất nhiên rồi!”
 
@@ -178,6 +178,6 @@ Và gã đã cầu nguyện thật; gã quỳ sụp bên giường, vầng trán
 
 Gã chồm dậy.
 
-“Quỷ tha ma bắt!” gã thốt lên. “Mấy người phụ nữ này muốn biến ta thành một con chó giữ nhà chắc! Mặc thây họ! Không! Không phải với mẹ, nhưng... Ôi chết tiệt, rồi bà ấy sẽ hiểu khi ta trở thành quản nhiệm của Yorkville! Lạy Chúa, sao Cleo không chết quách đi, để con có thể cưới Hettie!”
+“Quỷ tha ma bắt!” gã thốt lên. “Mấy người phụ nữ này muốn biến gã thành một con chó giữ nhà chắc! Mặc thây họ! Không! Không phải với mẹ, nhưng... Ôi chết tiệt, rồi bà ấy sẽ hiểu khi gã trở thành quản nhiệm của Yorkville! Lạy Chúa, sao Cleo không chết quách đi, để con có thể cưới Hettie!”
 
 Hai phút sau, gã đang thì thầm với Hettie Dowler qua chiếc điện thoại đặt ở phòng đựng thức ăn, trong khi người đầu bếp đang càu nhàu và nhặt khoai dưới tầng hầm: “Em yêu, em hãy nói với anh điều gì đó thật ngọt ngào đi, bất cứ điều gì... bất cứ điều gì cũng được!”

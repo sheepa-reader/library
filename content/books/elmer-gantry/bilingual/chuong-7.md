@@ -16,7 +16,7 @@
 
 <p class="para-en">“God! Frank’s been tattling about my doings with women!”</p>
 
-<p class="para-vi-sub">“Chúa ơi. Chắc chắn là Frank đã mách lẻo chuyện trăng hoa của mình rồi.”</p>
+<p class="para-vi-sub">“Chúa ơi, chắc chắn là Frank đã mách lẻo chuyện trăng hoa của mình rồi.”</p>
 
 <p class="para-en">“Brother Gantry,” said the dean.</p>
 
@@ -28,7 +28,7 @@
 
 <p class="para-en">“I have an appointment which should give you experience and a little extra money. It’s a country church down at Schoenheim, eleven miles from here, on the spur line of the Ontario, Omaha and Pittsburgh. You will hold regular Sunday morning services and Sunday School; if you are able to work up afternoon or evening services and prayer meeting, so much the better. The pay will be ten dollars a Sunday. If there’s to be anything extra for extra work﻿—that’s up to you and your flock. I’d suggest that you go down there on a handcar. I’m sure you can get the section-gang boss here to lend you one, as it’s for the Lord’s work, and the boss’ brother does a lot of gardening here. I’m going to send Brother Shallard with you to conduct the Sunday School and get some experience. He has a particularly earnest spirit﻿—which it wouldn’t entirely hurt you to emulate, Brother Gantry﻿—but he’s somewhat shy in contact with sin-hardened common people.</p>
 
-<p class="para-vi-sub">“Tôi có một phân công công tác có thể mang lại cho cậu kinh nghiệm cùng một khoản tiền thù lao nho nhỏ. Đó là một nhà thờ nông thôn ở Làng Schoenheim, cách đây mười một dặm, nằm trên nhánh đường ray của tuyến Ontario, Omaha và Pittsburgh. Cậu sẽ phụ trách các buổi lễ thường kỳ vào sáng Chúa nhật và Trường Chủ nhật, nếu cậu có thể tổ chức thêm các buổi lễ vào buổi chiều hoặc buổi tối cùng các buổi cầu nguyện thì lại càng tuyệt vời hơn. Mức thù lao là mười đô la cho mỗi ngày Chúa nhật. Nếu có thêm khoản nào cho công việc phát sinh ngoài giờ thì đó là tùy thuộc vào khả năng của cậu và bầy chiên của mình. Tôi đề nghị cậu nên di chuyển xuống đó bằng Xe goòng đẩy tay. Tôi chắc chắn cậu có thể mượn được một chiếc từ đội trưởng đội công nhân bảo trì đường ray ở đây, vì đây là công việc phụng sự nhà Chúa, mà anh trai của viên đội trưởng ấy lại là người làm vườn rất tích cực ở đây. Tôi sẽ cử Sư huynh Shallard đi cùng để phụ trách Trường Chủ nhật và tích lũy thêm kinh nghiệm. Cậu ấy mang một tâm hồn vô cùng khẩn khoản, chí ít thì cậu cũng không hề thừa thãi nếu học tập tinh thần đó, Sư huynh Gantry, nhưng cậu ấy lại hơi rụt rè khi tiếp xúc với những con người bình dân đã bị chai sạn vì tội lỗi.</p>
+<p class="para-vi-sub">“Tôi có một phân công công tác có thể mang lại cho cậu kinh nghiệm cùng một khoản tiền thù lao nho nhỏ. Đó là một nhà thờ nông thôn ở làng Schoenheim, cách đây mười một dặm, nằm trên nhánh đường ray của tuyến Ontario, Omaha và Pittsburgh. Cậu sẽ phụ trách các buổi lễ thường kỳ vào sáng Chúa nhật và Trường Chủ nhật, nếu cậu có thể tổ chức thêm các buổi lễ vào buổi chiều hoặc buổi tối cùng các buổi cầu nguyện thì lại càng tuyệt vời hơn. Mức thù lao là mười đô la cho mỗi ngày Chúa nhật. Nếu có thêm khoản nào cho công việc phát sinh ngoài giờ thì đó là tùy thuộc vào khả năng của cậu và bầy chiên của mình. Tôi đề nghị cậu nên di chuyển xuống đó bằng xe goòng đẩy tay. Tôi chắc chắn cậu có thể mượn được một chiếc từ đội trưởng đội công nhân bảo trì đường ray ở đây, vì đây là công việc phụng sự nhà Chúa, mà anh trai của viên đội trưởng ấy lại là người làm vườn rất tích cực ở đây. Tôi sẽ cử Sư huynh Shallard đi cùng để phụ trách Trường Chủ nhật và tích lũy thêm kinh nghiệm. Cậu ấy mang một tâm hồn vô cùng khẩn khoản, chí ít thì cậu cũng không hề thừa thãi nếu học tập tinh thần đó, Sư huynh Gantry, nhưng cậu ấy lại hơi rụt rè khi tiếp xúc với những con người bình dân đã bị chai sạn vì tội lỗi.”</p>
 
 <p class="para-en">“Now, boys, this is just a small church, but never forget that it’s priceless souls that I’m entrusting to your keeping; and who knows but that you may kindle there such a fire as may some day illumine all the world﻿ ﻿… providing, Brother Gantry, you eliminate the worldly things I suspect you of indulging in!”</p>
 
@@ -44,7 +44,7 @@
 
 <p class="para-en">It would be mighty handy to have the extra ten a week﻿—and maybe more if he could kid the Schoenheim deacons properly.</p>
 
-<p class="para-vi-sub">Có thêm mười đô la mỗi tuần quả thực vô cùng tiện lợi, và biết đâu còn kiếm được nhiều hơn thế nếu gã khéo léo nịnh bợ đám chấp sự ở Làng Schoenheim.</p>
+<p class="para-vi-sub">Có thêm mười đô la mỗi tuần quả thực vô cùng tiện lợi, và biết đâu còn kiếm được nhiều hơn thế nếu gã khéo léo nịnh bợ đám chấp sự ở làng Schoenheim.</p>
 
 <p class="para-en">His first church﻿ ﻿… his own﻿ ﻿… and Frank had to take his orders!</p>
 
@@ -54,11 +54,11 @@
 
 <p class="para-en">In the virginal days of 1905 section gangs went out to work on the railway line not by gasoline power but on a handcar, a platform with two horizontal bars worked up and down like pump-handles.</p>
 
-<p class="para-vi-sub">Vào những ngày tháng trong lành năm 1905, các đội công nhân bảo trì ra tuyến đường sắt làm việc không phải bằng động cơ xăng mà bằng một chiếc Xe goòng đẩy tay, một mặt sàn có gắn hai thanh đòn ngang chuyển động lên xuống như cần bơm nước.</p>
+<p class="para-vi-sub">Vào những ngày tháng trong lành năm 1905, các đội công nhân bảo trì ra tuyến đường sắt làm việc không phải bằng động cơ xăng mà bằng một chiếc xe goòng đẩy tay, một mặt sàn có gắn hai thanh đòn ngang chuyển động lên xuống như cần bơm nước.</p>
 
 <p class="para-en">On a handcar Elmer and Frank Shallard set out for their first charge. They did not look particularly clerical as they sawed at the handles; it was a chilly November Sunday morning, and they wore shabby greatcoats. Elmer had a moth-eaten plush cap over his ears, Frank exhibited absurd earmuffs under a more absurd derby, and both had borrowed red flannel mittens from the section gang.</p>
 
-<p class="para-vi-sub">Trên một chiếc Xe goòng đẩy tay, Elmer và Frank Shallard lên đường đến nhiệm sở đầu tiên của mình. Trông họ chẳng có chút dáng vẻ nào của những người làm công tác mục vụ khi đang cặm cụi bóp cần bơm, đó là một buổi sáng Chúa nhật tháng Mười một lạnh buốt, và cả hai đều mặc những chiếc áo khoác dày dặn nhưng đã sờn cũ. Elmer đội một chiếc mũ lông cừu đã bị mọt ăn che kín cả tai, anh diện món phụ kiện bịt tai lố bịch bên dưới chiếc mũ phớt còn lố bịch hơn, và cả hai đều mượn những đôi găng tay nỉ đỏ từ đám công nhân đường sắt.</p>
+<p class="para-vi-sub">Trên một chiếc xe goòng đẩy tay, Elmer và Frank Shallard lên đường đến nhiệm sở đầu tiên của mình. Trông họ chẳng có chút dáng vẻ nào của những người làm công tác mục vụ khi đang cặm cụi bóp cần bơm, đó là một buổi sáng Chúa nhật tháng Mười một lạnh buốt, và cả hai đều mặc những chiếc áo khoác dày dặn nhưng đã sờn cũ. Elmer đội một chiếc mũ lông cừu đã bị mọt ăn che kín cả tai, anh diện món phụ kiện bịt tai lố bịch bên dưới chiếc mũ phớt còn lố bịch hơn, và cả hai đều mượn những đôi găng tay nỉ đỏ từ đám công nhân đường sắt.</p>
 
 <p class="para-en">The morning was icily brilliant. Apple orchards glistened in the frost, and among the rattling weed-stalks by the worm-fences quail were whistling.</p>
 
@@ -66,7 +66,7 @@
 
 <p class="para-en">Elmer felt his lungs free of library dust as he pumped. He broadened his shoulders, rejoiced in sweating, felt that his ministry among real men and living life was begun. He pitied the pale Frank a little, and pumped the harder﻿ ﻿… and made Frank pump the harder﻿ ﻿… up and down, up and down, up and down. It was agony to the small of his back and shoulders, now growing soft, to labor on the upgrade, where the shining rails toiled round the curves through gravel cuts. But downhill, swooping toward frosty meadows and the sound of cowbells in the morning sun, he whooped with exhilaration, and struck up a boisterous:</p>
 
-<p class="para-vi-sub">Elmer cảm thấy lồng ngực mình trống trải không còn chút bụi bặm thư viện nào khi gã nhún nhảy bơm cần. Gã ưỡn rộng lồng ngực, tận hưởng cảm giác đổ mồ hôi, cảm thấy sứ mệnh mục vụ của mình giữa những con người bằng xương bằng thịt và cuộc đời thực sự đã bắt đầu. Gã thầm thương hại anh có phần xanh xao và càng gắng sức bơm mạnh hơn... đồng thời bắt anh phải bơm mạnh hơn nữa... lên rồi xuống, lên rồi xuống, lên rồi xuống. Đó là một cực hình đối với phần thắt lưng và vai gáy vốn đang dần trở nên yếu ớt của gã khi phải vật lộn trên đoạn đường dốc ngược, nơi những đường ray sáng loáng uốn lượn quanh các khúc cua xuyên qua những tầng đá sỏi. Thế nhưng khi lao xuống dốc, băng vù vù hướng về những đồng cỏ phủ sương giá cùng tiếng lục lạc bò vang vọng trong ánh nắng ban mai, gã reo lên phấn khích và cất giọng hát vang một bài thánh ca đầy hào sảng:</p>
+<p class="para-vi-sub">Elmer cảm thấy lồng ngực mình trống trải không còn chút bụi bặm thư viện nào khi gã nhún nhảy bơm cần. Gã ưỡn rộng lồng ngực, tận hưởng cảm giác đổ mồ hôi, cảm thấy sứ mệnh mục vụ của mình giữa những con người bằng xương bằng thịt và cuộc đời thực sự đã bắt đầu. Gã thầm thương hại anh có phần xanh xao và càng gắng sức bơm mạnh hơn, đồng thời bắt anh phải bơm mạnh hơn nữa, lên rồi xuống, lên rồi xuống, lên rồi xuống. Đó là một cực hình đối với phần thắt lưng và vai gáy vốn đang dần trở nên yếu ớt của gã khi phải vật lộn trên đoạn đường dốc ngược, nơi những đường ray sáng loáng uốn lượn quanh các khúc cua xuyên qua những tầng đá sỏi. Thế nhưng khi lao xuống dốc, băng vù vù hướng về những đồng cỏ phủ sương giá cùng tiếng lục lạc bò vang vọng trong ánh nắng ban mai, gã reo lên phấn khích và cất giọng hát vang một bài thánh ca đầy hào sảng:</p>
 
 <p class="para-en"><em><p class="p"> <span>There is power, power, wonder-working power</span> <br/> <span>In the blood</span> <br/> <span>Of the Lamb﻿—</span> </p></em></p>
 
@@ -74,11 +74,11 @@
 
 <p class="para-en">The Schoenheim church was a dingy brown box with a toy steeple, in a settlement consisting of the church, the station, a blacksmith shop, two stores, and half a dozen houses. But at least thirty buggies were gathered along the rutty street or in the carriage-sheds behind the church; at least seventy people had come to inspect their new pastor; and they stood in gaping circles, staring between frosty damp mufflers and visored fur caps.</p>
 
-<p class="para-vi-sub">Nhà thờ Làng Schoenheim là một khối hộp màu nâu xám kỹ lưỡng với cái tháp chuông đồ chơi, nằm lọt thỏm trong một khu dân cư chỉ gồm nhà thờ, ga tàu, một xưởng rèn, hai cửa hiệu và chừng nửa tá ngôi nhà. Thế nhưng có ít nhất ba mươi cỗ xe ngựa đang đậu dọc theo con đường lầy lội hoặc trong các mái che xe ngựa phía sau nhà thờ, ít nhất bảy mươi con người đã có mặt để diện kiến vị mục sư mới của họ, và họ đứng thành những vòng tròn ngơ ngác, trân trân nhìn nhau qua những chiếc khăn quàng cổ ẩm ướt vì sương giá cùng những chiếc mũ lông có vành.</p>
+<p class="para-vi-sub">Nhà thờ làng Schoenheim là một khối hộp màu nâu xám kỹ lưỡng với cái tháp chuông đồ chơi, nằm lọt thỏm trong một khu dân cư chỉ gồm nhà thờ, ga tàu, một xưởng rèn, hai cửa hiệu và chừng nửa tá ngôi nhà. Thế nhưng có ít nhất ba mươi cỗ xe ngựa đang đậu dọc theo con đường lầy lội hoặc trong các mái che xe ngựa phía sau nhà thờ, ít nhất bảy mươi con người đã có mặt để diện kiến vị mục sư mới của họ, và họ đứng thành những vòng tròn ngơ ngác, trân trân nhìn nhau qua những chiếc khăn quàng cổ ẩm ướt vì sương giá cùng những chiếc mũ lông có vành.</p>
 
 <p class="para-en">“I’m scared to death!” murmured Frank, as they strode up the one street from the station, but Elmer felt healthy, proud, expansive. His own church, small but somehow﻿—somehow different from these ordinary country meetinghouses﻿—quite a nice-shaped steeple﻿—not one of those shacks with no steeple at all! And his people, waiting for him, their attention flowing into him and swelling him﻿—</p>
 
-<p class="para-vi-sub">“Tôi sợ chết khiếp đi được”, anh thì thầm khi hai người rảo bước dọc theo con đường duy nhất từ nhà ga tới, trong khi Elmer lại cảm thấy vô cùng khỏe khoắn, kiêu hãnh và phơi phới. Nhà thờ của riêng gã, dẫu nhỏ bé nhưng dẫu sao... dẫu sao vẫn khác biệt so với mấy cái nhà nguyện thôn quê bình thường này... có cái tháp chuông hình dáng khá đẹp mắt chứ không phải thứ lều tranh chẳng có lấy một cái tháp chuông nào. Và giáo dân của gã đang chờ đợi gã, sự chú ý của họ đang đổ dồn vào gã và làm gã phình to lên...</p>
+<p class="para-vi-sub">“Tôi sợ chết khiếp đi được”, anh thì thầm khi hai người rảo bước dọc theo con đường duy nhất từ nhà ga tới, trong khi Elmer lại cảm thấy vô cùng khỏe khoắn, kiêu hãnh và phơi phới. Nhà thờ của riêng gã, dẫu nhỏ bé nhưng dẫu sao... dẫu sao vẫn khác biệt so với mấy cái nhà nguyện thôn quê bình thường này... có cái tháp chuông hình dáng khá đẹp mắt chứ không phải thứ lều tranh chẳng có lấy một cái tháp chuông nào. Và giáo dân của gã đang chờ đợi gã, sự chú ý của họ đang đổ dồn vào gã và làm gã phình to lên.</p>
 
 <p class="para-en">He threw open his overcoat, held it back with his hand imperially poised on his left hip, and let them see not only the black broadcloth suit bought this last summer for his ordination but something choice he had added since﻿—elegant white piping at the opening of his vest.</p>
 
@@ -90,7 +90,7 @@
 
 <p class="para-en">Frank had begun to worry, “Well, what I feel is﻿—” when Elmer interrupted him with a very painful bunt in the side, and chanted with holy joy:</p>
 
-<p class="para-vi-sub">Anh bắt đầu lo lắng: “Ừm, điều tôi cảm thấy là...”, thì Elmer ngắt lời bằng một cú huých khá đau vào sườn, rồi cất giọng sang sảng với niềm hoan hỉ thiêng liêng:</p>
+<p class="para-vi-sub">Frank bắt đầu lo lắng: “Ừm, điều tôi cảm thấy là...”, thì Elmer ngắt lời bằng một cú huých khá đau vào sườn, rồi cất giọng sang sảng với niềm hoan hỉ thiêng liêng:</p>
 
 <p class="para-en">“Pleased meet you, Brother Bains. Oh, Brother Shallard and I are absolutely sound both on immersion and close communion. We trust you will pray for us, Brother, that the Holy Ghost may be present in this work today, and that all the brethren may rejoice in a great awakening and a bountiful harvest!”</p>
 
@@ -142,7 +142,7 @@
 
 <p class="para-en">He closed by lowering his voice to a maternal whisper and relating a totally imaginary but most improving experience with a sinful old gentleman who on his bed of pain had admitted, to Elmer’s urging, that he ought to repent immediately, but who put it off too long, died amid his virtuous and grief-stricken daughters, and presumably went straight to the devil.</p>
 
-<p class="para-vi-sub">Gã khép lại bài giảng bằng cách hạ thấp giọng xuống thành một tiếng thì thầm mang âm hưởng mẫu tử, kể lại một trải nghiệm hoàn toàn tưởng tượng nhưng cực kỳ mang tính giáo hóa với một ông lão tội lỗi, người mà trên giường bệnh, trước những lời thúc giục của Elmer, đã thừa nhận rằng ông ta nên ăn năn ngay lập tức, nhưng lại cứ trì hoãn quá lâu, để rồi qua đời giữa những người con gái hiếu thảo và đau đớn khôn nguôi, và có lẽ đã thẳng tiến xuống địa phương của quỷ dữ.</p>
+<p class="para-vi-sub">Gã khép lại bài giảng bằng cách hạ thấp giọng xuống thành một tiếng thì thầm mang âm hưởng mẫu tử, kể lại một trải nghiệm hoàn toàn tưởng tượng nhưng cực kỳ mang tính giáo hóa với một ông lão tội lỗi, người mà trên giường bệnh, trước những lời thúc giục của Elmer, đã thừa nhận rằng ông ta nên ăn năn ngay lập tức, nhưng lại cứ trì hoãn quá lâu, để rồi qua đời giữa những người con gái hiếu thảo và đau đớn khôn nguôi, và có lẽ đã thẳng tiến xuống địa ngục của quỷ dữ.</p>
 
 <p class="para-en">When Elmer had galloped down to the door to shake hands with such as did not remain for Sabbath School, sixteen several auditors said in effect, “Brother, that was a most helpful sermon and elegantly expressed,” and he wrung their hands with a boyish gratitude beautiful to see.</p>
 
@@ -174,11 +174,11 @@
 
 <p class="para-en">“Oh, Sister Lulu, come see the handcar Frank and I﻿—Brother Shallard and I﻿—came down on. The <em>fun</em>-niest! Just laugh your head off!”</p>
 
-<p class="para-vi-sub">“Ồ, Sư tỷ Lulu, ra xem cái Xe goòng đẩy tay mà Frank và anh... Sư huynh Shallard và anh... vừa đi xuống đây này. Thú vị phải biết. Cười vỡ cả bụng ấy chứ.”</p>
+<p class="para-vi-sub">“Ồ, Sư tỷ Lulu, ra xem cái xe goòng đẩy tay mà Frank và anh... Sư huynh Shallard và anh... vừa đi xuống đây này. Thú vị phải biết. Cười vỡ cả bụng ấy chứ.”</p>
 
 <p class="para-en">As the section gang passed through Schoenheim at least ten times a week, handcars could have been no astounding novelty to Lulu, but she trotted beside him, and stared prettily, and caroled, “Oh, hon‑est! Did you come down on <em>that</em>? Well, I never!”</p>
 
-<p class="para-vi-sub">Vì đội công nhân đường sắt chạy qua Làng Schoenheim ít nhất mười lần một tuần, những chiếc Xe goòng đẩy tay hẳn chẳng phải là thứ mới mẻ gì kinh ngạc đối với Lulu, thế mà cô vẫn lon ton bước theo gã, trố mắt ra nhìn đầy bộ dạng xinh xắn, rồi reo lên:<br/>“Ôi, thật á? Các anh đi bằng cái đó xuống đây thật sao? Chà, em chịu đấy.”</p>
+<p class="para-vi-sub">Vì đội công nhân đường sắt chạy qua làng Schoenheim ít nhất mười lần một tuần, những chiếc xe goòng đẩy tay hẳn chẳng phải là thứ mới mẻ gì kinh ngạc đối với Lulu, thế mà cô vẫn lon ton bước theo gã, trố mắt ra nhìn đầy bộ dạng xinh xắn, rồi reo lên:<br/>“Ôi, thật á? Các anh đi bằng cái đó xuống đây thật sao? Chà, em chịu đấy.”</p>
 
 <p class="para-en">She shook hands cheerfully with both of them. He thought jealously that she was as cordial to Frank as to himself.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-en">“He better watch out and not go fooling round <em>my</em> girl!” Elmer reflected, as they pumped back toward Babylon.</p>
 
-<p class="para-vi-sub">“Frank tốt nhất là nên cẩn thận, đừng có mà lân la quanh cô gái của mình.”, Elmer thầm nghĩ trong lúc hai người dùng cần bơm xe goòng quay trở lại Thị trấn Babylon.</p>
+<p class="para-vi-sub">“Frank tốt nhất là nên cẩn thận, đừng có mà lân la quanh cô gái của mình”, Elmer thầm nghĩ trong lúc hai người dùng cần bơm xe goòng quay trở lại thị trấn Babylon.</p>
 
 <p class="para-en">He did not congratulate Frank on having overcome his dread of stolid country audiences (Frank had always lived in cities) or on having made Solomon’s temple not merely a depressing object composed of a substance called “cubits” but an actual shrine in which dwelt an active and terrifying god.</p>
 
@@ -264,7 +264,7 @@
 
 <p class="para-en">“No, honest there aren’t. Oh, I go round some with a second cousin of mine﻿—Floyd Naylor﻿—but, my! he’s so slow, he’s no fun.”</p>
 
-<p class="para-vi-sub">“Không, thật sự là không có đâu ạ. Ồ, em thỉnh thoảng cũng đi lại với một người bà con đời thứ hai của em... Floyd Naylor... nhưng mà chà, anh ta chậm chạp lắm, chẳng có chút thú vị nào cả.”</p>
+<p class="para-vi-sub">“Không, thật sự là không có đâu ạ. Ồ, em thỉnh thoảng cũng đi lại với một người bà con đời thứ hai của em, Floyd Naylor, nhưng mà chà, anh ta chậm chạp lắm, chẳng có chút thú vị nào cả.”</p>
 
 <p class="para-en">The <abbr epub:type="z3998:name-title">Rev.</abbr> <abbr epub:type="z3998:name-title">Mr.</abbr> Gantry planned to provide fun.</p>
 
@@ -274,7 +274,7 @@
 
 <p class="para-en">Elmer and Frank had gone down on Saturday afternoon to decorate the church for the Thanksgiving service. To save the trip to Babylon and back, they were to spend Saturday night in the broad farmhouse of Deacon Bains, and Lulu Bains and her spinster cousin, Miss Baldwin, were assisting in the decoration﻿—in other words doing it. They were stringing pine boughs across the back of the hall, and arranging a harvest feast of pumpkins, yellow corn, and velvety sumach in front of the pulpit.</p>
 
-<p class="para-vi-sub">Elmer và Frank đã xuống đây từ chiều thứ Bảy để trang hoàng nhà thờ cho buổi lễ Tạ ơn. Để đỡ tốn công đi lại về Thị trấn Babylon, họ sẽ qua đêm thứ Bảy tại trang trại rộng thênh thang của ông Bains, và Lulu Bains cùng người cô họ độc thân là cô Baldwin đang phụ trợ việc trang trí... hay nói đúng hơn là làm thay toàn bộ. Họ đang giăng những cành thông vắt ngang phần sau hội trường, và sắp đặt một mâm cỗ mừng thu hoạch gồm bí ngô, ngô vàng và quả sumach mượt mà ngay trước bục giảng.</p>
+<p class="para-vi-sub">Elmer và Frank đã xuống đây từ chiều thứ Bảy để trang hoàng nhà thờ cho buổi lễ Tạ ơn. Để đỡ tốn công đi lại về thị trấn Babylon, họ sẽ qua đêm thứ Bảy tại trang trại rộng thênh thang của ông Bains, và Lulu Bains cùng người cô họ độc thân là cô Baldwin đang phụ trợ việc trang trí... hay nói đúng hơn là làm thay toàn bộ. Họ đang giăng những cành thông vắt ngang phần sau hội trường, và sắp đặt một mâm cỗ mừng thu hoạch gồm bí ngô, ngô vàng và quả sumach mượt mà ngay trước bục giảng.</p>
 
 <p class="para-en">“I want your advice, Lulu﻿—Sister Lulu. Don’t you think in my sermon tomorrow it might be helpful to explain﻿—”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-en">Frank and Miss Baldwin had sat down, and they were in an intolerably long discussion as to what ought to be done about that terrible little Cutler boy who said that he didn’t believe that the ravens brought any bread and meat to Elijah, not if he knew anything about these ole crows! Frank explained that he did not wish to rebuke honest doubt; but when this boy went and made a regular business of cutting up and asking foolish questions﻿—</p>
 
-<p class="para-vi-sub">Frank và cô Baldwin đã ngồi xuống, và họ đang vướng vào một cuộc tranh luận dài dòng đến mức khó chịu về những việc cần phải làm đối với thằng bé nhà Cutler khốn kiếp, kẻ dám tuyên bố rằng nó chẳng đời nào tin lũ quạ lại mang bánh mì và thịt đến cho Ê-li, nếu như nó còn chút hiểu biết gì về đám quạ đen đó. Anh giải thích rằng anh không hề muốn quở trách những mối nghi ngờ thành thật, nhưng khi thằng bé này cứ biến việc quậy phá và đặt ra những câu hỏi ngớ ngẩn thành một thói quen thường trực...</p>
+<p class="para-vi-sub">Frank và cô Baldwin đã ngồi xuống, và họ đang vướng vào một cuộc tranh luận dài dòng đến mức khó chịu về những việc cần phải làm đối với thằng bé nhà Cutler khốn kiếp, kẻ dám tuyên bố rằng nó chẳng đời nào tin lũ quạ lại mang bánh mì và thịt đến cho Ê-li, nếu như nó còn chút hiểu biết gì về đám quạ đen đó. Frank giải thích rằng anh không hề muốn quở trách những mối nghi ngờ thành thật, nhưng khi thằng bé này cứ biến việc quậy phá và đặt ra những câu hỏi ngớ ngẩn thành một thói quen thường trực...</p>
 
 <p class="para-en">“Lulu!” Elmer urged. “Skip back in the other room with me a second. There’s something about the church work I want to ask you, and I don’t want them to hear.”</p>
 
@@ -314,7 +314,7 @@
 
 <p class="para-en">There were two rooms in the Schoenheim church: the auditorium and a large closet for the storage of hymnbooks, mops, brooms, folding chairs, communion cups. It was lighted by a dusty window.</p>
 
-<p class="para-vi-sub">Nhà thờ Làng Schoenheim có hai phòng: phòng giảng chính và một nhà kho rộng lớn dùng để chứa sách thánh ca, chổi lau nhà, chổi quét nhà, ghế xếp, và chén thánh. Nơi này được chiếu sáng bởi một ô cửa sổ bám đầy bụi.</p>
+<p class="para-vi-sub">Nhà thờ làng Schoenheim có hai phòng: phòng giảng chính và một nhà kho rộng lớn dùng để chứa sách thánh ca, chổi lau nhà, chổi quét nhà, ghế xếp, và chén thánh. Nơi này được chiếu sáng bởi một ô cửa sổ bám đầy bụi.</p>
 
 <p class="para-en">“Sister Bains and I are going to look over the Sunday School lesson-charts,” Elmer called largely and brightly.</p>
 
@@ -362,7 +362,7 @@
 
 <p class="para-en">“But you see, I’d have to come down on that ole handcar.”</p>
 
-<p class="para-vi-sub">“Nhưng cô thấy đấy, tôi lại phải xuống đây bằng cái chiếc Xe goòng đẩy tay khổ sở đó.”</p>
+<p class="para-vi-sub">“Nhưng cô thấy đấy, tôi lại phải xuống đây bằng chiếc xe goòng đẩy tay khổ sở đó.”</p>
 
 <p class="para-en">“That’s so.”</p>
 
@@ -622,7 +622,7 @@
 
 <p class="para-en">Deacon and <abbr epub:type="z3998:name-title">Mrs.</abbr> Bains﻿—an angry-faced, generous, grasping, horsy, black-mustached man he was, and she a dumpling﻿—managed to treat Frank and Elmer simultaneously as professors of the sacred mysteries and as two hungry boys who were starved at Mizpah and who were going to catch up tonight. Fried chicken, creamed chipped beef, homemade sausages, pickles and mince pie in which Elmer suspected, and gratefully suspected, the presence of unrighteous brandy, were only part of the stout trencher-work required of the young prophets. <abbr epub:type="z3998:name-title">Mr.</abbr> Bains roared every three minutes at the swollen and suffering Frank, “Nonsense, nonsense, Brother, you haven’t begun to eat yet! What’s the matter with you? Pass up your plate for another helpin’.”</p>
 
-<p class="para-vi-sub">Ông Bains và vợ, một người đàn ông có gương mặt cau có, hào phóng, vụ lợi, dáng người giống hệt dân buôn ngựa với bộ ria mép đen sì, còn vợ ông thì tròn vo như chiếc bánh bao, đã khéo léo tiếp đón Frank Shallard và Elmer Gantry vừa như những bậc thầy thấu triệt các điều huyền bí linh thiêng, lại vừa như hai thằng nhóc đang tuổi ăn tuổi lớn bị bỏ đói ở Chủng viện Thần học Mizpah và nay được dịp ăn bù cho thỏa thích. Gà rán, thịt bò băm sốt kem, xúc xích tự làm, dưa chuột muối và bánh nướng nhân thịt mà Elmer nghi ngờ, và đầy biết điều là nghi ngờ có lẫn cả chút rượu mạnh bất kính, chỉ là một phần trong số những món ăn ê hề bắt buộc hai vị tiên tri trẻ tuổi phải càn quét. Barney Bains cứ cách ba phút lại oang oang cái giọng cười hềnh hệch với anh đang vừa nghẹn ngào vừa khổ sở: “Vớ vẩn thật đấy, vớ vẩn hết chỗ nói, Sư huynh, cậu đã bắt đầu ăn uống gì đâu nào. Cậu bị làm sao thế hả? Đưa đĩa đây tôi xới thêm phần nữa cho.”</p>
+<p class="para-vi-sub">Ông Bains và vợ, một người đàn ông có gương mặt cau có, hào phóng, vụ lợi, dáng người giống hệt dân buôn ngựa với bộ ria mép đen sì, còn vợ ông thì tròn vo như chiếc bánh bao, đã khéo léo tiếp đón Frank Shallard và Elmer Gantry vừa như những bậc thầy thấu triệt các điều huyền bí linh thiêng, lại vừa như hai thằng nhóc đang tuổi ăn tuổi lớn bị bỏ đói ở Chủng viện Thần học Mizpah và nay được dịp ăn bù cho thỏa thích. Gà rán, thịt bò băm sốt kem, xúc xích tự làm, dưa chuột muối và bánh nướng nhân thịt mà Elmer nghi ngờ, và đầy biết điều là nghi ngờ có lẫn cả chút rượu mạnh bất kính, chỉ là một phần trong số những món ăn ê hề bắt buộc hai vị tiên tri trẻ tuổi phải càn quét. Barney Bains cứ cách ba phút lại oang oang cái giọng cười hềnh hệch với Frank đang vừa nghẹn ngào vừa khổ sở: “Vớ vẩn thật đấy, vớ vẩn hết chỗ nói, Sư huynh, cậu đã bắt đầu ăn uống gì đâu nào. Cậu bị làm sao thế hả? Đưa đĩa đây tôi xới thêm phần nữa cho.”</p>
 
 <p class="para-en">Miss Baldwin, the spinster, two other deacons and their wives and a young man from a nearby farm, one Floyd Naylor, were present, and the clergy were also expected to be instructive. The theories were that they cared to talk of nothing save theology and the church and, second, that such talk was somehow beneficial in the tricky business of enjoying your sleep and buggy-riding and vittles, and still getting into heaven.</p>
 
@@ -634,7 +634,7 @@
 
 <p class="para-en">“Oh, look here now, Brother Bains!” Frank Shallard protested. “You don’t mean to say you think that the Lord Jesus isn’t going to save one single solitary person who isn’t an orthodox Baptist?”</p>
 
-<p class="para-vi-sub">“Ối dào, nghe này, Sư huynh Bains.” anh phản đối. “Ý ông không lẽ cho rằng Chúa Giê-su sẽ không cứu rỗi lấy một con người đơn độc nào không phải là một tín đồ Báp-tít chính thống ư?”</p>
+<p class="para-vi-sub">“Ối dào, nghe này, Sư huynh Bains”, Frank Shallard phản đối. “Ý ông không lẽ cho rằng Chúa Giê-su sẽ không cứu rỗi lấy một con người đơn độc nào không phải là một tín đồ Báp-tít chính thống ư?”</p>
 
 <p class="para-en">“Well, I don’t perfess to know all these things myself, like I was a high-toned preacher. But way I see it: Oh, yes, maybe if a fellow ain’t ever had a chance to see the light﻿—say he was brought up a Methodist or a Mormon, and never <em>heard</em> a real dyed-in-the-wool Baptist explain the complete truth, then maybe God might forgive him ’cause he was ignorant. But one thing I do know, absolute: All these ‘advanced thinkers’ and ‘higher critics’ are going to the hottest pit of hell! What do you think about it, Brother Gantry?”</p>
 
@@ -646,17 +646,17 @@
 
 <p class="para-en">Elmer had recovered. He enjoyed defying lightning, provided it was lightning no more dynamic than Frank was likely to furnish. He looked at Frank squarely.﻿ ﻿… It was perhaps half an hour since their talk in the bedroom.</p>
 
-<p class="para-vi-sub">Elmer đã hồi phục tinh thần. Gã rất thích thú với việc thách thức sấm sét, miễn là thứ sấm sét đó chẳng năng động hơn những gì anh có thể tạo ra. Gã nhìn thẳng vào anh. Tính ra chắc cũng phải nửa tiếng kể từ cuộc trò chuyện của họ trong phòng ngủ.</p>
+<p class="para-vi-sub">Elmer đã hồi phục tinh thần. Gã rất thích thú với việc thách thức sấm sét, miễn là thứ sấm sét đó chẳng năng động hơn những gì Frank có thể tạo ra. Gã nhìn thẳng vào Frank. Tính ra chắc cũng phải nửa tiếng kể từ cuộc trò chuyện của họ trong phòng ngủ.</p>
 
 <p class="para-en">Frank opened his mouth twice, and closed it. Then it was too late. Deacon Bains was already overwhelming him with regeneration and mince pie.</p>
 
-<p class="para-vi-sub">Anh mở miệng hai lần rồi lại ngậm lại. Sau đó thì đã quá muộn. Ông Bains đã kịp vùi dập anh bằng màn cải đạo và bánh nướng nhân thịt.</p>
+<p class="para-vi-sub">Frank mở miệng hai lần rồi lại ngậm lại. Sau đó thì đã quá muộn. Ông Bains đã kịp vùi dập anh bằng màn cải đạo và bánh nướng nhân thịt.</p>
 
 ### VII
 
 <p class="para-en">Lulu was at the other end of the table from Elmer. He was rather relieved. He despised Frank’s weakness, but he was never, as with Eddie Fislinger, sure what Frank would do or say, and he determined to be cautious. Once or twice he glanced at Lulu intimately, but he kept all his conversation (which, for Lulu’s admiration, he tried to make learned yet virile) for <abbr epub:type="z3998:name-title">Mr.</abbr> Bains and the other deacons.</p>
 
-<p class="para-vi-sub">Lulu ngồi ở đầu bàn bên kia, cách xa Elmer. Gã thấy khá nhẹ nhõm. Gã khinh thường sự yếu đuối của anh, nhưng không giống như Eddie Fislinger, gã chẳng bao giờ đoán trước được anh sẽ làm gì hay nói gì, và gã tự nhủ phải thận trọng. Một hai lần, gã liếc nhìn cô đầy tình tứ, nhưng toàn bộ câu chuyện của gã (mà vì muốn làm cô ngưỡng mộ, gã cố tỏ ra uyên bác nhưng không kém phần nam tính) đều dành hết cho ông Bains và những vị chấp sự khác.</p>
+<p class="para-vi-sub">Lulu ngồi ở đầu bàn bên kia, cách xa Elmer. Gã thấy khá nhẹ nhõm. Gã khinh thường sự yếu đuối của Frank, nhưng không giống như Eddie Fislinger, gã chẳng bao giờ đoán trước được Frank sẽ làm gì hay nói gì, và gã tự nhủ phải thận trọng. Một hai lần, gã liếc nhìn cô đầy tình tứ, nhưng toàn bộ câu chuyện của gã (mà vì muốn làm cô ngưỡng mộ, gã cố tỏ ra uyên bác nhưng không kém phần nam tính) đều dành hết cho ông Bains và những vị chấp sự khác.</p>
 
 <p class="para-en">“There!” he reflected. “Now Shallard, the damned fool, ought to see that I’m not trying to grab off the kid.﻿ ﻿… If he makes any breaks about ‘what are my intentions’ to her, I’ll just be astonished, and get <abbr epub:type="z3998:name-title">Mr.</abbr> Frank Shallard in bad, curse him and his dirty sneaking suspicions!”</p>
 
@@ -664,7 +664,7 @@
 
 <p class="para-en">But: “God, I’ve <em>got</em> to have her!” said all the tumultuous smoky beings in the lowest layer of his mind, and he answered them only with an apprehensive, “Watch out! Be careful! Dean Trosper would bust you! Old Bains would grab his shotgun.﻿ ﻿… Be careful!﻿ ﻿… <em>Wait</em>!”</p>
 
-<p class="para-vi-sub">Nhưng: “Chúa ơi, mình bắt buộc phải có được cô ấy.” tất cả những sinh thể hỗn độn mờ mịt ở tầng sâu nhất trong tâm trí gã đồng thanh gào thét, và gã chỉ đáp lại chúng bằng một sự cảnh giác đầy lo sợ: “Cẩn thận chứ. Giữ mình đi. Ông Trosper sẽ tống cổ mày ra đường đấy. Ông Bains sẽ với lấy khẩu súng săn cho xem... Cẩn thận. Đợi đã.”</p>
+<p class="para-vi-sub">Nhưng: “Chúa ơi, mình bắt buộc phải có được cô ấy”, tất cả những sinh thể hỗn độn mờ mịt ở tầng sâu nhất trong tâm trí gã đồng thanh gào thét, và gã chỉ đáp lại chúng bằng một sự cảnh giác đầy lo sợ: “Cẩn thận chứ. Giữ mình đi. Ông Trosper sẽ tống cổ mày ra đường đấy. Ông Bains sẽ với lấy khẩu súng săn cho xem... Cẩn thận. Đợi đã.”</p>
 
 <p class="para-en">Not till an hour after supper, when the others were bending over the corn-popper, did he have the chance to whisper to her:</p>
 
@@ -712,11 +712,11 @@
 
 <p class="para-en">And encircling that squashy and billowing waist, he thrice whirled her round, while she blushed, and giggled, “Why, the very idee!” The others applauded with unsparing plow-hardened hands, cracking the shy ears of Frank Shallard.</p>
 
-<p class="para-vi-sub">Vừa nói, gã vừa vòng tay ôm lấy cái vòng eo tròn lẳn và phì nhiêu ấy, xoay bà ta liền ba vòng trong lúc bà vừa thẹn thùng vừa cười khúc khích: “Úi chà, lại còn vẽ chuyện nữa.” Những người khác vỗ tay bôm bốp bằng đôi bàn tay chai sạn vì cày bừa, khiến đôi tai nhút nhát của anh phải đỏ bừng lên.</p>
+<p class="para-vi-sub">Vừa nói, gã vừa vòng tay ôm lấy cái vòng eo tròn lẳn và phì nhiêu ấy, xoay bà ta liền ba vòng trong lúc bà vừa thẹn thùng vừa cười khúc khích: “Úi chà, lại còn vẽ chuyện nữa.” Những người khác vỗ tay bôm bốp bằng đôi bàn tay chai sạn vì cày bừa, khiến đôi tai nhút nhát của Frank phải đỏ bừng lên.</p>
 
 <p class="para-en">Always Frank had been known as an uncommonly amiable youth, but tonight he was sour as alum.</p>
 
-<p class="para-vi-sub">Từ trước tới nay, anh vẫn luôn nổi tiếng là một thanh niên hiền lành đặc biệt, thế nhưng tối nay mặt mũi anh lại xầm xì như cục phèn chua.</p>
+<p class="para-vi-sub">Từ trước tới nay, Frank vẫn luôn nổi tiếng là một thanh niên hiền lành đặc biệt, thế nhưng tối nay mặt mũi anh lại xầm xì như cục phèn chua.</p>
 
 <p class="para-en">It was Elmer who told them stories of the pioneer Kansas he knew so well, from reading. It was Elmer who started them popping corn in the parlor-stove after their first uneasiness at being human in the presence of Men of God. During this festivity, when even the most decorous deacon chuckled and admonished <abbr epub:type="z3998:name-title">Mr.</abbr> Bains, “Hey, who you shovin’ there, Barney?” Elmer was able to evade publicity and make his rendezvous with Lulu.</p>
 
@@ -868,7 +868,7 @@
 
 <p class="para-en">During their handcar return to Babylon and the Seminary, Elmer and Frank had little to say.</p>
 
-<p class="para-vi-sub">Trong suốt chuyến đi bằng Xe goòng đẩy tay trở về Thị trấn Babylon và Chủng viện Thần học Mizpah, Elmer và anh chẳng nói với nhau mấy câu.</p>
+<p class="para-vi-sub">Trong suốt chuyến đi bằng xe goòng đẩy tay trở về thị trấn Babylon và Chủng viện Thần học Mizpah, Elmer và Frank chẳng nói với nhau mấy câu.</p>
 
 <p class="para-en">“Don’t be such a grouch. Honest, I’m not trying to get funny with little Lulu,” Elmer grumbled, panting as he pumped the handcar, grotesque in cap and muffler.</p>
 
@@ -876,15 +876,15 @@
 
 <p class="para-en">“All right. Forget it,” said Frank.</p>
 
-<p class="para-vi-sub">“Được rồi. Quên chuyện đó đi”, anh nói.</p>
+<p class="para-vi-sub">“Được rồi. Quên chuyện đó đi”, Frank nói.</p>
 
 <p class="para-en">Elmer endured it till Wednesday. For two days he had been hag-ridden by plans to capture Lulu. They became so plain to him that he seemed to be living them, as he slumped on the edge of his cot, his fists clenched, his eyes absent.﻿ ﻿… In his dream he squandered a whole two dollars and a half for a “livery rig” for the evening, and drove to Schoenheim. He hitched it at that big oak, a quarter of a mile from the Bains farmhouse. In the moonlight he could see the rounded and cratered lump on the oak trunk where a limb had been cut off. He crept to the farmyard, hid by the corncrib, cold but excited. She came to the door with a dishpan of water﻿—stood sidewise in the light, her gingham work-dress molded to the curve from shoulder to breast. He whistled to her; she started; came toward him with doubtful feet, cried with gladness when she saw who it was.</p>
 
-<p class="para-vi-sub">Elmer cứ chịu đựng tâm trạng ấy cho đến tận thứ Tư. Suốt hai ngày trời, gã bị ám ảnh bởi những kế hoạch tóm gọn cô. Chúng hiện lên rõ mồn một trong đầu đến mức gã có cảm giác như mình đang thực sự sống trong đó, khi gã ngồi gục bên mép giường cá nhân, hai tay siết chặt, ánh mắt ngẩn ngơ... Trong giấc mơ của mình, gã tiêu hoang hẳn hai đô-la rưỡi để thuê một chiếc xe ngựa cho buổi tối và lái thẳng đến Làng Schoenheim. Gã cột ngựa vào gốc cây sồi lớn cách trang trại nhà ông Bains tầm một phần tư dặm. Dưới ánh trăng, gã có thể nhìn thấy khối u tròn sần sùi trên thân cây sồi nơi một cành cây đã bị chặt đứt. Gã lẻn vào sân trang trại, ẩn nấp bên chuồng ngô, lạnh cót nhưng đầy phấn khích. Cô bước ra cửa với một chậu rửa bát trên tay, đứng nghiêng người dưới ánh sáng, chiếc váy vải gingham đi làm ôm sát lấy đường cong từ vai xuống bầu ngực. Gã huýt sáo gọi cô, cô giật mình, rụt rè bước về phía gã, rồi kêu lên đầy hạnh phúc khi nhận ra đó là ai.</p>
+<p class="para-vi-sub">Elmer cứ chịu đựng tâm trạng ấy cho đến tận thứ Tư. Suốt hai ngày trời, gã bị ám ảnh bởi những kế hoạch tóm gọn cô. Chúng hiện lên rõ mồn một trong đầu đến mức gã có cảm giác như mình đang thực sự sống trong đó, khi gã ngồi gục bên mép giường cá nhân, hai tay siết chặt, ánh mắt ngẩn ngơ... Trong giấc mơ của mình, gã tiêu hoang hẳn hai đô-la rưỡi để thuê một chiếc xe ngựa cho buổi tối và lái thẳng đến làng Schoenheim. Gã cột ngựa vào gốc cây sồi lớn cách trang trại nhà ông Bains tầm một phần tư dặm. Dưới ánh trăng, gã có thể nhìn thấy khối u tròn sần sùi trên thân cây sồi nơi một cành cây đã bị chặt đứt. Gã lẻn vào sân trang trại, ẩn nấp bên chuồng ngô, lạnh cót nhưng đầy phấn khích. Cô bước ra cửa với một chậu rửa bát trên tay, đứng nghiêng người dưới ánh sáng, chiếc váy vải gingham đi làm ôm sát lấy đường cong từ vai xuống bầu ngực. Gã huýt sáo gọi cô, cô giật mình, rụt rè bước về phía gã, rồi kêu lên đầy hạnh phúc khi nhận ra đó là ai.</p>
 
 <p class="para-en">She could not stay with him till the work was done, but she insisted that he wait in the stable. There was the warmth of the cows, their sweet odor, and a scent of hay. He sat on a manger-edge in the darkness, enraptured yet so ardent that he trembled as with fear. The barn door edged open with a flash of moonlight; she came toward him, reluctant, fascinated. He did not stir. She moved, entranced, straight into his arms; they sat together on a pile of hay, taut with passion, unspeaking, and his hand smoothed her ankle. And again, in his fancies, it was at the church that she yielded; for some reason not quite planned, he was there without Frank, on a weekday evening, and she sat beside him on a pew. He could hear himself arguing that she was to trust him, that their love partook of the divine, even while he was fondling her.</p>
 
-<p class="para-vi-sub">Cô không thể ở lại với gã cho đến khi công việc hoàn tất, nhưng cô nài nỉ gã đợi trong chuồng ngựa. Nơi ấy có hơi ấm của những con bò, mùi thơm ngọt ngào của chúng và hương cỏ khô thoang thoảng. Gã ngồi trên mép máng ăn trong bóng tối, vừa ngây ngất vừa nồng nhiệt đến mức run lẩy bẩy như vì sợ hãi. Cánh cửa chuồng hé mở cùng một vệt trăng chiếu rọi, cô bước về phía gã, đầy lưu luyến và bị thôi miên. Gã không nhúc nhích. Cô bước tới, chìm đắm trong cơn mê, lao thẳng vào vòng tay gã, họ ngồi bên nhau trên một đống cỏ khô, căng tràn niềm đam mê, lặng câm không nói, và bàn tay gã mơn trớn cổ chân cô. Và rồi, trong trí tưởng tượng của gã, nơi cô chịu nhượng bộ lại chính là nhà thờ, vì một lý do nào đó chưa được tính toán kỹ, gã có mặt ở đó mà không có anh vào một buổi tối trong tuần, và cô ngồi cạnh gã trên băng ghế dài. Gã có thể nghe thấy chính mình đang thuyết phục rằng cô hãy tin tưởng gã, rằng tình yêu của họ mang hơi hướng thần thánh, ngay cả khi gã đang vuốt ve cô.</p>
+<p class="para-vi-sub">Cô không thể ở lại với gã cho đến khi công việc hoàn tất, nhưng cô nài nỉ gã đợi trong chuồng ngựa. Nơi ấy có hơi ấm của những con bò, mùi thơm ngọt ngào của chúng và hương cỏ khô thoang thoảng. Gã ngồi trên mép máng ăn trong bóng tối, vừa ngây ngất vừa nồng nhiệt đến mức run lẩy bẩy như vì sợ hãi. Cánh cửa chuồng hé mở cùng một vệt trăng chiếu rọi, cô bước về phía gã, đầy lưu luyến và bị thôi miên. Gã không nhúc nhích. Cô bước tới, chìm đắm trong cơn mê, lao thẳng vào vòng tay gã, họ ngồi bên nhau trên một đống cỏ khô, căng tràn niềm đam mê, lặng câm không nói, và bàn tay gã mơn trớn cổ chân cô. Và rồi, trong trí tưởng tượng của gã, nơi cô chịu nhượng bộ lại chính là nhà thờ, vì một lý do nào đó chưa được tính toán kỹ, gã có mặt ở đó mà không có Frank vào một buổi tối trong tuần, và cô ngồi cạnh gã trên băng ghế dài. Gã có thể nghe thấy chính mình đang thuyết phục rằng cô hãy tin tưởng gã, rằng tình yêu của họ mang hơi hướng thần thánh, ngay cả khi gã đang vuốt ve cô.</p>
 
 <p class="para-en">But﻿—Suppose it were Deacon Bains who came to his whistle, and found him sneaking in the barnyard? Suppose she declined to be romantic in cow-barns? And just what excuse had he for spending an evening with her at the church?</p>
 
@@ -900,7 +900,7 @@
 
 <p class="para-en">Nor did he spend any two dollars and a half for a carriage. Despite his florid magnificence, he was really a very poor young man. He walked to Schoenheim (not in vision now, but in reality), starting at five in the afternoon, carrying a ham sandwich for his supper; walked the railroad track, the cold ties echoing under his heavy tread.</p>
 
-<p class="para-vi-sub">Gã cũng chẳng túng thiếu đến mức bỏ ra hai đô-la rưỡi để thuê xe ngựa. Dù mang vẻ hào nhoáng phô trương, thực chất gã chỉ là một thanh niên nghèo túng. Gã đi bộ đến Làng Schoenheim, không còn trong mộng tưởng nữa, mà là thực tại, xuất phát lúc năm giờ chiều, mang theo một chiếc bánh mì kẹp thịt giăm-bông để ăn tối, gã đi dọc theo đường ray xe lửa, những thanh tà vạt lạnh ngắt vang lên kèn kẹt dưới bước chân nặng nề của gã.</p>
+<p class="para-vi-sub">Gã cũng chẳng túng thiếu đến mức bỏ ra hai đô-la rưỡi để thuê xe ngựa. Dù mang vẻ hào nhoáng phô trương, thực chất gã chỉ là một thanh niên nghèo túng. Gã đi bộ đến làng Schoenheim, không còn trong mộng tưởng nữa, mà là thực tại, xuất phát lúc năm giờ chiều, mang theo một chiếc bánh mì kẹp thịt giăm-bông để ăn tối, gã đi dọc theo đường ray xe lửa, những thanh tà vạt lạnh ngắt vang lên kèn kẹt dưới bước chân nặng nề của gã.</p>
 
 <p class="para-en">He arrived at eight. He was certain that, coming so very late, her parents would not stay up to annoy him for more than an hour. They were likely to ask him to remain for the night, and there would be no snooping Cousin Adeline Baldwin about.</p>
 
@@ -968,7 +968,7 @@
 
 <p class="para-en">“Oh, I’m frightened!” she whimpered.</p>
 
-<p class="para-vi-sub">“Ôi, em sợ lắm.” Cô rên rỉ.</p>
+<p class="para-vi-sub">“Ôi, em sợ lắm”, cô rên rỉ.</p>
 
 <p class="para-en">He tried to pat her comfortingly, but there was not much heat in him now.</p>
 

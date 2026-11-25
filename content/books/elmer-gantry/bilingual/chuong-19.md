@@ -8,15 +8,15 @@
 
 <p class="para-en">The train wandered through orchard-land and cornfields﻿—two seedy day-coaches and a baggage car. Hurry and efficiency had not yet been discovered on this branch line, and it took five hours to travel the hundred and twenty miles from Zenith to Banjo Crossing.</p>
 
-<p class="para-vi-sub">Con tàu hỏa lầm lũi lăn bánh qua những vùng vườn tỏi và cánh đồng ngô, kéo theo hai toa hành khách xập xệ và một toa hành lý. Sự vội vã và hiệu quả vẫn chưa từng được biết đến trên tuyến đường sắt nhánh này, và phải mất tới năm tiếng đồng hồ để vượt qua quãng đường một trăm hai mươi dặm từ Thành phố Zenith đến Thị trấn Banjo Crossing.</p>
+<p class="para-vi-sub">Con tàu hỏa lầm lũi lăn bánh qua những vùng vườn cây ăn trái và những cánh đồng ngô, kéo theo hai toa hành khách xập xệ và một toa hành lý. Sự vội vã và hiệu quả vẫn chưa từng được biết đến trên tuyến đường sắt nhánh này, và phải mất tới năm tiếng đồng hồ để vượt qua quãng đường một trăm hai mươi dặm từ Zenith đến Banjo Crossing.</p>
 
 <p class="para-en">The Reverend Elmer Gantry was in a state of grace. Having resolved henceforth to be pure and humble and humanitarian, he was benevolent to all his traveling companions, he was mothering the world, whether the world liked it or not.</p>
 
-<p class="para-vi-sub">Mục sư Elmer Gantry đang chìm đắm trong tình trạng ân sủng. Đã hạ quyết tâm từ nay về sau phải sống trong thanh sạch, khiêm nhường và bác ái, gã tỏ ra niềm nở với mọi bạn đồng hành, gã muốn ôm trọn cả thế giới vào lòng, mặc cho thế giới có muốn hay không.</p>
+<p class="para-vi-sub">Mục sư Elmer Gantry đang chìm đắm trong trạng thái ân sủng. Đã hạ quyết tâm từ nay về sau phải sống trong thanh sạch, khiêm nhường và bác ái, gã tỏ ra niềm nở với mọi bạn đồng hành, gã muốn ôm trọn cả thế giới vào lòng, mặc cho thế giới có muốn hay không.</p>
 
 <p class="para-en">But he did not insist on any outward distinction as a parson, a Professional Good Man. He wore a quietly modest gray sack suit, a modestly rich maroon tie. Not just as a minister, but as a citizen, he told himself, it was his duty to make life breezier and brighter for his fellow wayfarers.</p>
 
-<p class="para-vi-sub">Nhưng gã không hề khăng khăng đòi hỏi một sự phân biệt rạch ròi nào bề ngoài về tư cách một mục sư, một Con Người Lương Thiện Chuyên Nghiệp. Gã diện một bộ com-lê túi rời màu xám điềm đạm, nhã nhặn cùng chiếc cà vạt màu đỏ sẫm sang trọng kín đáo. Gã tự nhủ rằng không chỉ với tư cách một mục sư mà còn là một công dân, nhiệm vụ của gã là làm cho cuộc sống của những người bạn đồng hành trở nên khoáng đạt và rực rỡ hơn.</p>
+<p class="para-vi-sub">Nhưng gã không khăng khăng đòi hỏi bất kỳ sự phân biệt rạch ròi nào bên ngoài về tư cách một mục sư, một Con Người Lương Thiện Chuyên Nghiệp. Gã diện một bộ com-lê túi rời màu xám điềm đạm, nhã nhặn cùng chiếc cà vạt màu đỏ sẫm sang trọng kín đáo. Không chỉ với tư cách một mục sư mà còn là một công dân, gã tự nhủ rằng nhiệm vụ của gã là làm cho cuộc sống của những người bạn đồng hành trở nên khoáng đạt và rực rỡ hơn.</p>
 
 <p class="para-en">The aged conductor knew most of his passengers by their first names, and they hailed him as “Uncle Ben,” but he resented strangers on their home train. When Elmer shouted, “Lovely day, Brother!” Uncle Ben looked at him as if to say “Well, ’tain’t my fault!” But Elmer continued his philadelphian violences till the old man sent in the brakeman to collect the tickets the rest of the way.</p>
 
@@ -24,7 +24,7 @@
 
 <p class="para-en">At a traveling salesman who tried to borrow a match, Elmer roared, “I don’t smoke, Brother, and I don’t believe George Washington did either!” His benignancies were received with so little gratitude that he almost wearied of good works, but when he carried an old woman’s suitcase off the train, she fluttered at him with the admiration he deserved, and he was moved to pat children upon the head﻿—to their terror﻿—and to explain crop-rotation to an ancient who had been farming for forty-seven years.</p>
 
-<p class="para-vi-sub">Trước mặt một nhân viên bán hàng lưu động đang ngỏ ý mượn một cây diêm, Elmer gầm lên “Tôi không hút thuốc, Sư huynh ạ, và tôi tin George Washington cũng chẳng làm thế đâu!”. Những cử chỉ từ thiện của gã đón nhận quá ít sự biết ơn khiến gã suýt chán ngấy việc thiện, nhưng khi gã xách giúp chiếc va-li của một bà cụ xuống tàu, bà liền rối rít bày tỏ sự ngưỡng mộ xứng đáng dành cho gã, và gã lại cảm động đến mức xoa đầu mấy đứa trẻ, dẫu chúng sợ hãi phát khiếp, rồi say sưa giảng giải về phương pháp luân canh cây trồng cho một lão nông đã làm nghề nông suốt bốn mươi bảy năm trời.</p>
+<p class="para-vi-sub">Trước một nhân viên bán hàng lưu động đang ngỏ ý mượn một cây diêm, Elmer gầm lên “Tôi không hút thuốc, Sư huynh ạ, và tôi tin George Washington cũng chẳng làm thế đâu!”. Những cử chỉ từ thiện của gã đón nhận quá ít sự biết ơn khiến gã suýt chán ngấy việc thiện, nhưng khi gã xách giúp chiếc va-li của một bà cụ xuống tàu, bà liền rối rít bày tỏ sự ngưỡng mộ xứng đáng dành cho gã, và gã lại cảm động đến mức xoa đầu mấy đứa trẻ, dẫu chúng sợ hãi phát khiếp, rồi say sưa giảng giải về phương pháp luân canh cây trồng cho một lão nông đã làm nghề nông suốt bốn mươi bảy năm trời.</p>
 
 <p class="para-en">Anyway, he satisfied the day’s lust for humanitarianism, and he turned back the seat in front of his, stretched out his legs, looked sleepy so that no one would crowd in beside him, and rejoiced in having taken up a life of holiness and authority.</p>
 
@@ -32,7 +32,7 @@
 
 <p class="para-en">He glanced out at the patchy country with satisfaction. Rustic, yes, but simple, and the simple honest hearts of his congregation would yearn toward him as the bookkeepers could not be depended upon to do in Prosperity Classes. He pictured his hearty reception at Banjo Crossing. He knew that his district superintendent (a district superintendent is a lieutenant-bishop in the Methodist Church﻿—formerly called a presiding elder) had written the hour of his coming to <abbr epub:type="z3998:name-title">Mr.</abbr> Nathaniel Benham of Banjo Crossing, and he knew that <abbr epub:type="z3998:name-title">Mr.</abbr> Benham, the leading trustee of the local church, was the chief general merchant in the Banjo Valley. Yes, he would shake hands with all of his flock, even the humblest, at the station; he would look into their clear and trusting eyes, and rejoice to be their shepherd, leading them on and upward, for at least a year.</p>
 
-<p class="para-vi-sub">Gã phóng tầm mắt ra khung cảnh đồng quê loang lổ với vẻ thỏa mãn. Mộc mạc đấy, vâng, nhưng giản dị, và những trái tim chân chất, thành thật trong giáo đoàn của gã sẽ hướng về gã bằng sự khao khát điều mà đám nhân viên kế toán ở các Lớp học Thịnh vượng không tài nào mang lại nổi. Gã hình dung ra màn đón tiếp nồng nhiệt dành cho mình tại Banjo Crossing. Gã thừa biết rằng vị giám thị hạt của mình đã viết thư thông báo giờ đến cho ông Nathaniel Benham ở Banjo Crossing, và gã cũng biết rằng ông Benham, chấp sự kỳ cựu của nhà thờ địa phương, chính là nhà đại thương lớn nhất khắp Thung lũng Banjo. Phải, gã sẽ bắt tay với toàn bộ chiên đàn của mình ngay tại nhà ga, dẫu là kẻ hèn mọn nhất; gã sẽ nhìn sâu vào đôi mắt trong veo, đầy tin tưởng của họ, và hân hoan làm người chăn dắt họ, dẫn dắt họ tiến bước và vươn lên, ít nhất là trong một năm trời.</p>
+<p class="para-vi-sub">Gã phóng tầm mắt ra khung cảnh đồng quê loang lổ với vẻ thỏa mãn. Mộc mạc đấy, vâng, nhưng giản dị, và những trái tim chân chất, thành thật trong giáo đoàn của gã sẽ hướng về gã bằng sự khao khát điều mà đám nhân viên kế toán ở các Lớp học Thịnh vượng không tài nào mang lại nổi. Gã hình dung ra màn đón tiếp nồng nhiệt dành cho mình tại Banjo Crossing. Gã thừa biết rằng vị giám thị hạt của mình (giám thị hạt là phó giám mục trong Giáo hội Giám lý, trước đây gọi là quản hạt) đã viết thư thông báo giờ đến cho ông Nathaniel Benham ở Banjo Crossing, và gã cũng biết rằng ông Benham, chấp sự kỳ cựu của nhà thờ địa phương, chính là nhà đại thương lớn nhất khắp Thung lũng Banjo. Phải, gã sẽ bắt tay với toàn bộ chiên đàn của mình ngay tại nhà ga, dẫu là kẻ hèn mọn nhất; gã sẽ nhìn sâu vào đôi mắt trong veo, đầy tin tưởng của họ, và hân hoan làm người chăn dắt họ, dẫn dắt họ tiến bước và vươn lên, ít nhất là trong một năm trời.</p>
 
 <p class="para-en">Banjo Crossing seemed very small as the train staggered into it. There were back porches with washtubs and broken-down chairs; there were wooden sidewalks.</p>
 
@@ -44,7 +44,7 @@
 
 <p class="para-en">“Where,” demanded Elmer, “is <abbr epub:type="z3998:name-title">Mr.</abbr> Benham, <abbr epub:type="z3998:name-title">Mr.</abbr> Nathaniel Benham?”</p>
 
-<p class="para-vi-sub">“Ở đâu,” Elmer hách dịch đòi hỏi, “là nhà của ông Benham, ông Nathaniel Benham?”</p>
+<p class="para-vi-sub">“Ông Benham, ông Nathaniel Benham ở đâu?” Elmer hách dịch hỏi.</p>
 
 <p class="para-en">“Old Nat? Ain’t seen him today. Guess yuh’ll find him at the store, ’bout as usual, seeing if he can’t do some farmer out of two cents on a batch of eggs. Traveling man?”</p>
 
@@ -64,7 +64,7 @@
 
 <p class="para-en">Altogether depressed now, he expected to find the establishment of Brother Benham a littered and squalid crossroads store, but he came to a two-story brick structure with plate-glass windows and, in the alley, the half-dozen trucks with which <abbr epub:type="z3998:name-title">Mr.</abbr> Benham supplied the farmers for twenty miles up and down the Banjo Valley. Respectful, Elmer walked through broad aisles, past counters trim as a small department-store, and found <abbr epub:type="z3998:name-title">Mr.</abbr> Benham dictating letters.</p>
 
-<p class="para-vi-sub">Giờ thì hoàn toàn chán nản, gã cứ đinh ninh cơ ngơi của Sư huynh Benham sẽ là một cửa hàng ngã ba ngã tư lộn xộn, nhếch nhác, nhưng gã lại bắt gặp một tòa nhà gạch hai tầng với những ô cửa kính khổ lớn và ở phía ngõ sau là nửa tá xe tải mà ông Benham dùng để cung cấp hàng hóa cho nông dân suốt dọc hai mươi dặm Thung lũng Banjo. Với vẻ cung kính, Elmer bước qua những lối đi rộng rãi, lướt qua những quầy hàng ngăn nắp chẳng khác gì một cửa hàng bách hóa thu nhỏ, và tìm thấy ông Benham đang đọc thư cho thư ký đánh máy.</p>
+<p class="para-vi-sub">Giờ đây hoàn toàn chán nản, gã cứ đinh ninh cơ ngơi của Sư huynh Benham sẽ là một cửa hàng ngã ba ngã tư lộn xộn, nhếch nhác, nhưng gã lại bắt gặp một tòa nhà gạch hai tầng với những ô cửa kính khổ lớn và ở phía ngõ sau là nửa tá xe tải mà ông Benham dùng để cung cấp hàng hóa cho nông dân suốt dọc hai mươi dặm Thung lũng Banjo. Với vẻ cung kính, Elmer bước qua những lối đi rộng rãi, lướt qua những quầy hàng ngăn nắp chẳng khác gì một cửa hàng bách hóa thu nhỏ, và tìm thấy ông Benham đang đọc thư cho thư ký đánh máy.</p>
 
 <p class="para-en">If in a small way Nathaniel Benham had commercial genius, it did not show in his aspect. He wore a beard like a bath sponge, and in his voice was a righteous twang.</p>
 
@@ -80,7 +80,7 @@
 
 <p class="para-en">Benham rose, not too nimbly, and shook hands dryly. “Oh, yes. The presiding elder said you were coming today. Glad you’ve come, Brother, and I hope the blessing of the Lord will attend your labors. You’re to board at the Widow Clark’s﻿—anybody’ll show you where it is.”</p>
 
-<p class="para-vi-sub">Benham đứng dậy, không lấy gì làm lẹ làng cho lắm, và lạnh nhạt bắt tay gã. “À, phải. Chủ tọa trưởng có báo là hôm nay anh đến. Mừng anh đã đến, Sư huynh, và tôi hy vọng ơn phước của Chúa sẽ phù hợp cho công việc của anh. Anh sẽ trọ ở nhà góa phụ Clark, ai chỉ đường cho cũng được.”</p>
+<p class="para-vi-sub">Benham đứng dậy, không lấy gì làm lẹ làng cho lắm, và lạnh nhạt bắt tay gã. “À, phải. Vị giám thị hạt có báo là hôm nay anh đến. Mừng anh đã đến, Sư huynh, và tôi hy vọng ơn phước của Chúa sẽ phù hộ cho công việc của anh. Anh sẽ trọ ở nhà góa phụ Clark, ai chỉ đường cho cũng được.”</p>
 
 <p class="para-en">Apparently he had nothing else to say.</p>
 
@@ -148,7 +148,7 @@
 
 <p class="para-en">As he walked toward the house of the widow Clark, to which a loafer directed him, he hated the shabby village, hated the chicken-coops in the yards, the frowsy lawns, the old buggies staggering by, the women with plump aprons and wet red arms﻿—women who made his delights of amorous adventures seem revolting﻿—and all the plodding yokels with their dead eyes and sagging jaws and sudden guffawing.</p>
 
-<p class="para-vi-sub">Khi bước về phía ngôi nhà của gã đàn ông tên Clark mà một kẻ lang thang đã chỉ đường, gã căm ghét cái ngôi làng tồi tàn ấy, căm ghét những chuồng gà sau sân, những bãi cỏ xơ xác, những cỗ xe ngựa già nua cọt kẹt chạy qua, những người đàn bà đeo tạp dề phúng phính với đôi cánh tay đỏ hỏn ướt sũng, những người đàn bà khiến cho những cuộc phiêu lưu ái tình đầy hoan lạc của gã bỗng trở nên thật ghê tởm, và toàn bộ những gã nhà quê cù bất cù bơ với đôi mắt vô hồn, cái cằm trễ xuống cùng những tràng cười hô hố bất chợt.</p>
+<p class="para-vi-sub">Khi bước về phía ngôi nhà của góa phụ Clark mà một kẻ lang thang đã chỉ đường, gã căm ghét cái ngôi làng tồi tàn ấy, căm ghét những chuồng gà sau sân, những bãi cỏ xơ xác, những cỗ xe ngựa già nua cọt kẹt chạy qua, những người đàn bà đeo tạp dề phúng phính với đôi cánh tay đỏ hỏn ướt sũng, những người đàn bà khiến cho những cuộc phiêu lưu ái tình đầy hoan lạc của gã bỗng trở nên thật ghê tởm, và toàn bộ những gã nhà quê cù bất cù bơ với đôi mắt vô hồn, cái cằm trễ xuống cùng những tràng cười hô hố bất chợt.</p>
 
 <p class="para-en">Fallen to this. And at thirty-two. A failure!</p>
 
@@ -156,7 +156,7 @@
 
 <p class="para-en">As he waited on the stoop of the square, white, characterless house of the Widow Clark, he wanted to dash back to the station and take the first train﻿—anywhere. In that moment he decided to return to farm implements and the bleak lonely freedom of the traveling man. Then the screen door was opened by a jolly ringleted girl of fourteen or fifteen, who caroled, “Oh, is it Reverend Gantry! My, and I kept you waiting! I’m terrible sorry! Ma’s just sick she can’t be here to welcome you, but she had to go over to Cousin Etta’s﻿—Cousin Etta busted her leg. Oh, please do come in. My, I didn’t guess we’d have a young preacher this time!”</p>
 
-<p class="para-vi-sub">Khi đứng chờ trên bậc thềm của ngôi nhà gỗ màu trắng, vuông vức và vô hồn của Clark, gã chỉ muốn quay quắt chạy thốc ra nhà ga để đón chuyến tàu đầu tiên, đi bất cứ đâu. Trong khoảnh khắc đó, gã đã định quay lại với nghề bán nông cụ và sự tự do lạnh lẽo, cô độc của một nhân viên bán hàng lưu động. Thế rồi cánh cửa lưới bật mở bởi một cô bé mười bốn mươi lăm tuổi với mái tóc xoăn tít trông rất vui vẻ, cô bé reo lên: “Ôi, có phải Mục sư Gantry đấy không ạ! Chà, thế mà cháu lại để ngài phải đợi! Cháu xin lỗi lắm lắm nhé! Mẹ cháu buồn lắm vì không thể ở đây đón tiếp ngài, nhưng mẹ phải sang nhà Cô Etta, Cô Etta vừa bị gãy chân rồi. Ồ, xin mời ngài vào nhà ạ. Chà, cháu cứ đoán là đợt này chúng ta sẽ không có một vị mục sư trẻ tuổi cơ chứ!”</p>
+<p class="para-vi-sub">Khi đứng chờ trên bậc thềm của ngôi nhà gỗ màu trắng, vuông vức và nhạt nhẽo của góa phụ Clark, gã chỉ muốn quay quắt chạy thốc ra nhà ga để đón chuyến tàu đầu tiên, đi bất cứ đâu. Trong khoảnh khắc đó, gã đã định quay lại với nghề bán nông cụ và sự tự do lạnh lẽo, cô độc của một nhân viên bán hàng lưu động. Thế rồi cánh cửa lưới bật mở bởi một cô bé mười bốn mươi lăm tuổi với mái tóc xoăn tít trông rất vui vẻ, cô bé reo lên: “Ôi, có phải Mục sư Gantry đấy không ạ! Chà, thế mà cháu lại để ngài phải đợi! Cháu xin lỗi lắm lắm nhé! Mẹ cháu buồn lắm vì không thể ở đây đón tiếp ngài, nhưng mẹ phải sang nhà Cô Etta, Cô Etta vừa bị gãy chân rồi. Ồ, xin mời ngài vào nhà ạ. Chà, cháu cứ đoán là đợt này chúng ta sẽ không có một vị mục sư trẻ tuổi cơ chứ!”</p>
 
 <p class="para-en">She was charming in her excited innocence.</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-en">He felt at home now, warmed, restored. His chamber was agreeable﻿—Turkey-red carpet, stove a perfect shrine of polished nickel, and in the bow-window, a deep armchair. On the four-poster bed was a crazy-quilt, and pillow-shams embroidered with lambs and rabbits and the motto, “God Bless Our Slumbers.”</p>
 
-<p class="para-vi-sub">Giờ đây gã đã cảm thấy thân thuộc, ấm áp và được phục hồi tinh thần. Căn phòng của gã rất dễ chịu, tấm thảm đỏ Thổ Nhĩ Kỳ, chiếc lò sưởi trông như một ngôi đền thu nhỏ bằng niken đánh bóng, và ở ô cửa sổ lồi, một chiếc bành tọa êm ái. Trên chiếc giường bốn cột trải một tấm chắp vá đầy màu sắc, cùng những chiếc vỏ gối thêu hình cừu, thỏ kèm theo câu khẩu hiệu: “Xin Chúa Ban Phước Cho Giấc Ngủ Của Chúng Ta.”</p>
+<p class="para-vi-sub">Giờ đây gã đã cảm thấy thân thuộc, ấm áp và được phục hồi tinh thần. Căn phòng của gã rất dễ chịu, tấm thảm đỏ Thổ Nhĩ Kỳ, chiếc bếp lò như một am thờ thu nhỏ bằng niken đánh bóng, và ở ô cửa sổ lồi, một chiếc bành tọa êm ái. Trên chiếc giường bốn cột trải một tấm chắp vá đầy màu sắc, cùng những chiếc vỏ gối thêu hình cừu, thỏ kèm theo câu khẩu hiệu: “Xin Chúa Ban Phước Cho Giấc Ngủ Của Chúng Ta.”</p>
 
 <p class="para-en">“This is going to be all right. Kinda like home, after these doggone hotels,” he meditated.</p>
 
@@ -262,63 +262,63 @@
 
 <p class="para-en">They shook hands with ceremony and sat beaming at each other in a front pew. He informed her that he was certain there was “going to be a great spiritual awakening here,” and she told him what lovely people there were in the congregation, in the village, in the entire surrounding country. And her panting breast told him that she, the daughter of the village magnate, had instantly fallen in love with him.</p>
 
-<p class="para-vi-sub">Họ bắt tay nhau đầy vẻ trang trọng và ngồi nhìn nhau cười rạng rỡ trên một chiếc ghế băng ở hàng đầu. Elmer thông báo với Cleo rằng gã tin chắc là “sắp có một sự bùng nổ tâm linh lớn diễn ra ở đây”, còn Cleo kể cho gã nghe về những con người đáng yêu trong hội thánh, trong làng, và ở cả vùng nông thôn xung quanh. Và lồng ngực phập phồng của Cleo thì thầm với gã rằng cô, ái nữ của ông trùm tài phiệt trong làng, đã lập tức đem lòng yêu Elmer.</p>
+<p class="para-vi-sub">Họ bắt tay nhau đầy vẻ trang trọng và ngồi nhìn nhau cười rạng rỡ trên một chiếc ghế băng ở hàng đầu. Elmer thông báo với cô rằng gã tin chắc là “sắp có một sự bùng nổ tâm linh lớn diễn ra ở đây”, còn cô kể cho gã nghe về những con người đáng yêu trong hội thánh, trong làng, và ở cả vùng nông thôn xung quanh. Và lồng ngực phập phồng của cô thì thầm với gã rằng cô, ái nữ của ông trùm tài phiệt trong làng, đã lập tức đem lòng yêu gã.</p>
 
 ### III
 
 <p class="para-en">Cleo Benham had spent three years in the Sparta Women’s College, specializing in piano, organ, French, English literature, strictly expurgated, and study of the Bible. Returned to Banjo Crossing, she was a fervent church-worker. She played the organ and rehearsed the choir; she was the superintendent of the juvenile department in the Sunday School; she decorated the church for Easter, for funerals, for the Halloween Supper.</p>
 
-<p class="para-vi-sub">Cleo Benham đã trải qua ba năm tại Cao đẳng Nữ sinh Sparta, chuyên tu về piano, đàn organ, tiếng Pháp, văn học Anh (loại đã được kiểm duyệt nghiêm ngặt), và nghiên cứu Kinh Thánh. Khi trở về Banjo Crossing, Cleo là một tín đồ nhiệt thành tích cực trong các công việc nhà thờ. Cô chơi đàn organ và luyện tập cho dàn hợp xướng; Cleo là giám sát viên ban thiếu nhi trong Trường Chúa nhật; cô trang trí nhà thờ cho lễ Phục sinh, cho các đám tang, và cho bữa tiệc đêm hội Halloween.</p>
+<p class="para-vi-sub">Cleo Benham đã trải qua ba năm tại Cao đẳng Nữ sinh Sparta, chuyên tu về piano, đàn organ, tiếng Pháp, văn học Anh (loại đã được kiểm duyệt nghiêm ngặt), và nghiên cứu Kinh Thánh. Khi trở về Banjo Crossing, cô là một tín đồ nhiệt thành tích cực trong các công việc nhà thờ. Cô chơi đàn organ và luyện tập cho dàn hợp xướng; cô là giám sát viên ban thiếu nhi trong Trường Chúa nhật; cô trang trí nhà thờ cho lễ Phục sinh, cho các đám tang, và cho bữa tiệc đêm hội Halloween.</p>
 
 <p class="para-en">She was twenty-seven, five years younger than Elmer.</p>
 
-<p class="para-vi-sub">Cleo hai mươi bảy tuổi, kém Elmer năm tuổi.</p>
+<p class="para-vi-sub">Cô hai mươi bảy tuổi, kém Elmer năm tuổi.</p>
 
 <p class="para-en">Though she was not very lively in summer-evening front-porch chatter, though on the few occasions when she sinned against the Discipline and danced she seemed a little heavy on her feet, though she had a corseted purity which was dismaying to the earthy young men of Banjo Crossing, yet she was handsome, she was kind, and her father was reputed to be worth not a cent less than seventy-five thousand dollars. So almost every eligible male in the vicinity had hinted at proposing to her.</p>
 
-<p class="para-vi-sub">Dù Cleo không mấy sôi nổi trong những buổi trò chuyện ngoài hiên nhà vào các tối mùa hè, dù trong một vài dịp hiếm hoi phạm giới luật mà khiêu vũ, trông Cleo có vẻ hơi nặng nề bước chân, dù Cleo mang một sự trong trắng bị bó buộc trong chiếc áo nẹp ngực khiến những thanh niên phàm tục ở Banjo Crossing phải chùn bước, nhưng Cleo xinh đẹp, nhân hậu, và bố Cleo nổi tiếng có khối tài sản không dưới bảy mươi lăm nghìn đô-la. Thế nên hầu như mọi chàng trai độc thân đủ điều kiện trong vùng đều từng đánh tiếng ngỏ lời cầu hôn Cleo.</p>
+<p class="para-vi-sub">Dù cô không mấy sôi nổi trong những buổi trò chuyện ngoài hiên nhà vào các tối mùa hè, dù trong một vài dịp hiếm hoi phạm giới luật mà khiêu vũ, trông cô có vẻ hơi nặng nề bước chân, dù cô mang một sự trong trắng bị bó buộc trong chiếc áo nẹp ngực khiến những thanh niên phàm tục ở Banjo Crossing phải chùn bước, nhưng cô xinh đẹp, nhân hậu, và bố cô nổi tiếng có khối tài sản không dưới bảy mươi lăm nghìn đô-la. Thế nên hầu như mọi chàng trai độc thân đủ điều kiện trong vùng đều từng đánh tiếng ngỏ lời cầu hôn cô.</p>
 
 <p class="para-en">Gently and compassionately she had rejected them one by one. Marriage must, she felt, be a sacrament; she must be the helpmate of someone who was “doing a tremendous amount of good in the world.” This good she identified with medicine or preaching.</p>
 
-<p class="para-vi-sub">Dịu dàng và đầy trắc ẩn, Cleo đã từ chối từng người một. Cleo cảm thấy hôn nhân phải là một bí tích; Cleo phải là người vợ hiền phò trợ cho một ai đó đang “làm được vô số việc thiện ích cho đời”. Cleo đồng nhất sự tốt lành ấy với nghề y hoặc nghề giảng đạo.</p>
+<p class="para-vi-sub">Dịu dàng và đầy trắc ẩn, cô đã từ chối từng người một. Cô cảm thấy hôn nhân phải là một bí tích; cô phải là người vợ hiền phò trợ cho một ai đó đang “làm được vô số việc thiện ích cho đời”. Cô đồng nhất sự tốt lành ấy với nghề y hoặc nghề giảng đạo.</p>
 
 <p class="para-en">Her friends assured her, “My! With your Bible training and your music and all, you’d make a perfect pastor’s wife. Just dandy! You’d be such a help to him.”</p>
 
-<p class="para-vi-sub">Bạn bè quả quyết với Cleo rằng: “Trời ơi! Với vốn kiến thức Kinh Thánh và âm nhạc cùng mọi thứ của Cleo, Cleo sẽ làm một người vợ mục sư hoàn hảo. Quá tuyệt vời luôn! Cleo sẽ là trợ thủ đắc lực cho anh ấy đấy.”</p>
+<p class="para-vi-sub">Bạn bè quả quyết với cô rằng: “Trời ơi! Với vốn kiến thức Kinh Thánh và âm nhạc cùng mọi thứ của Cleo, cậu sẽ làm một người vợ mục sư hoàn hảo. Quá tuyệt vời luôn! Cậu sẽ là trợ thủ đắc lực cho anh ấy đấy.”</p>
 
 <p class="para-en">But no detached preacher or doctor had happened along, and she had remained insulated, a little puzzled, hungry over the children of her friends, each year more passionately given to hymnody and agonized solitary prayer.</p>
 
-<p class="para-vi-sub">Nhưng chẳng có vị mục sư hay bác sĩ tự do nào ghé qua, và Cleo vẫn cứ sống trong sự cô lập, có chút bơ vơ, khao khát lũ trẻ con của bạn bè, và mỗi năm lại càng đắm chìm cuồng nhiệt hơn vào những khúc thánh ca cùng những lời cầu nguyện đơn độc đầy ray rứt.</p>
+<p class="para-vi-sub">Nhưng chẳng có vị mục sư hay bác sĩ tự do nào ghé qua, và cô vẫn cứ sống trong sự cô lập, có chút bơ vơ, khao khát lũ trẻ con của bạn bè, và mỗi năm lại càng đắm chìm cuồng nhiệt hơn vào những khúc thánh ca cùng những lời cầu nguyện đơn độc đầy ray rứt.</p>
 
 <p class="para-en">Now, with innocent boldness, she was exclaiming to Elmer: “We were so afraid the bishop would send us some pastor that was old and worn-out. The people here are lovely, but they’re kind of slow-going; they need somebody to wake them up. I’m so glad he sent somebody that was young and attractive﻿—Oh, my, I shouldn’t have said that! I was just thinking of the church, you understand.”</p>
 
-<p class="para-vi-sub">Giờ đây, với vẻ bạo dạn ngây thơ, Cleo đang thốt lên với Elmer: “Chúng em cứ sợ ngài giám mục sẽ cử đến một vị mục sư nào đã già nua và mệt mỏi. Người dân ở đây đáng yêu lắm, nhưng họ hơi chậm chạp; họ cần ai đó thức tỉnh họ. Em thật mừng vì ngài ấy đã cử đến một người trẻ tuổi và hấp dẫn... Ồ, chà, em không nên nói thế! Ý em chỉ nghĩ đến nhà thờ thôi, anh hiểu mà.”</p>
+<p class="para-vi-sub">Giờ đây, với vẻ bạo dạn ngây thơ, cô đang thốt lên với Elmer: “Chúng em cứ sợ ngài giám mục sẽ cử đến một vị mục sư nào đã già nua và mệt mỏi. Người dân ở đây đáng yêu lắm, nhưng họ hơi chậm chạp; họ cần ai đó thức tỉnh họ. Em thật mừng vì ngài ấy đã cử đến một người trẻ tuổi và hấp dẫn... Ồ, chà, em không nên nói thế! Ý em chỉ nghĩ đến nhà thờ thôi, anh hiểu mà.”</p>
 
 <p class="para-en">Her eyes said that she had not been just thinking of the church.</p>
 
-<p class="para-vi-sub">Đôi mắt Cleo nói rằng cô không hề chỉ nghĩ đến nhà thờ.</p>
+<p class="para-vi-sub">Đôi mắt cô nói rằng cô không hề chỉ nghĩ đến nhà thờ.</p>
 
 <p class="para-en">She looked at her wristwatch (the first in Banjo Crossing) and chanted, “Why, my gracious, it’s six o’clock! Would you like to walk home with me instead of going to <abbr epub:type="z3998:name-title">Mrs.</abbr> Clark’s﻿—you could wash up at Papa’s.”</p>
 
-<p class="para-vi-sub">Cleo nhìn đồng hồ đeo tay (chiếc đầu tiên ở Banjo Crossing) rồi thốt lên: “Ôi chao, đã sáu giờ rồi! Anh có muốn đi bộ về nhà cùng em thay vì ghé nhà bà Clark không... anh có thể rửa mặt ở nhà bố em mà.”</p>
+<p class="para-vi-sub">Cô nhìn đồng hồ đeo tay (chiếc đầu tiên ở Banjo Crossing) rồi thốt lên: “Ôi chao, đã sáu giờ rồi! Anh có muốn đi bộ về nhà cùng em thay vì ghé nhà bà Clark không, anh có thể rửa mặt ở nhà bố em mà.”</p>
 
 <p class="para-en">“You can’t lose me!” exulted Elmer, hastily amending, “﻿—as the slangy youngers say! Yes, indeed, I should be very pleased to have the pleasure of walking home with you.”</p>
 
-<p class="para-vi-sub">“Em không thể thoát khỏi anh đâu!” Elmer reo lên, rồi vội vàng sửa lại: “...như đám thanh niên hay nói ấy mà! À vâng, tất nhiên rồi, anh rất vinh hạnh và vui mừng được đi bộ về cùng em.”</p>
+<p class="para-vi-sub">“Em không thể thoát khỏi anh đâu!” Elmer reo lên, rồi vội vàng sửa lại, “như đám thanh niên hay nói ấy mà! À vâng, tất nhiên rồi, anh rất vinh hạnh và vui mừng được đi bộ về cùng em.”</p>
 
 <p class="para-en">Under the elms, past the rosebushes, through dust emblazoned by the declining sun, he walked with his stately abbess.</p>
 
-<p class="para-vi-sub">Dưới hàng cây du, qua những khóm hồng, xuyên qua lớp bụi mờ được rọi sáng bởi ánh hoàng hôn đang buông xuống, Elmer bước đi bên vị nữ tư tế uy nghi của mình.</p>
+<p class="para-vi-sub">Dưới hàng cây du, qua những khóm hồng, xuyên qua lớp bụi mờ được rọi sáng bởi ánh hoàng hôn đang buông xuống, gã bước đi bên vị nữ tư tế uy nghi của mình.</p>
 
 <p class="para-en">He knew that she was the sort of wife who would help him to capture a bishopric. He persuaded himself that, with all her virtue, she would eventually be interesting to kiss. He noted that they “made a fine couple.” He told himself that she was the first woman he had ever found who was worthy of him.﻿ ﻿… Then he remembered Sharon.﻿ ﻿… But the pang lasted only a moment, in the secure village peace, in the gentle flow of Cleo’s voice.</p>
 
-<p class="para-vi-sub">Elmer thừa biết Cleo chính là hình mẫu người vợ có thể giúp gã giành lấy một ghế giám mục. Elmer tự thuyết phục bản thân rằng, bên cạnh tất cả đức hạnh ấy, cuối cùng thì Cleo cũng sẽ rất thú vị để hôn. Elmer thầm nhận xét rằng họ trông “thật xứng đôi vừa lứa”. Elmer tự nhủ rằng Cleo là người phụ nữ đầu tiên gã từng tìm thấy xứng đáng với mình... Thế rồi Elmer chợt nhớ đến Sharon... Nhưng nỗi ray rứt ấy chỉ kéo dài trong khoảnh khắc giữa khung cảnh làng quê yên bình, trong dòng âm thanh dịu dàng phát ra từ giọng nói của Cleo.</p>
+<p class="para-vi-sub">Gã thừa biết cô chính là hình mẫu người vợ có thể giúp gã giành lấy một ghế giám mục. Gã tự thuyết phục bản thân rằng, bên cạnh tất cả đức hạnh ấy, cuối cùng thì cô cũng sẽ rất thú vị để hôn. Gã thầm nhận xét rằng họ trông “thật xứng đôi vừa lứa”. Gã tự nhủ rằng cô là người phụ nữ đầu tiên gã từng tìm thấy xứng đáng với mình... Thế rồi gã chợt nhớ đến Sharon... Nhưng nỗi ray rứt ấy chỉ kéo dài trong khoảnh khắc giữa khung cảnh làng quê yên bình, trong dòng âm thanh dịu dàng phát ra từ giọng nói của cô.</p>
 
 ### IV
 
 <p class="para-en">Once he was out of the sacred briskness of his store, <abbr epub:type="z3998:name-title">Mr.</abbr> Nathaniel Benham forgot discounts and became an affable host. He said, “Well, well, Brother,” ever so many times, and shook hands profusely. <abbr epub:type="z3998:name-title">Mrs.</abbr> Benham﻿—she was a large woman, rather handsome; she wore figured foulard, with an apron over it, as she had been helping in the kitchen﻿—<abbr epub:type="z3998:name-title">Mrs.</abbr> Benham was equally cordial. “I’ll just bet you’re hungry, Brother!” cried she.</p>
 
-<p class="para-vi-sub">Ngay khi bước ra khỏi sự bận rộn thiêng liêng ở cửa hàng của mình, ông Nathaniel Benham liền gạt phăng đi những con số chiết khấu để hóa thân thành một gia chủ cởi mở. Ông thốt lên câu “Chà chà, thưa Sư huynh” hết lần này đến lần khác và bắt tay nồng nhiệt. Bà Benham... một phụ nữ vóc dáng đẫy đà, trông khá ưa nhìn, mặc chiếc áo đầm vải foulard có họa tiết hoa văn và thắt chiếc tạp dề bên ngoài vì vừa ở trong bếp phụ giúp... bà Benham cũng niềm nở không kém. “Tôi cá là cậu đang đói bụng rồi đấy, thưa Sư huynh!” bà lớn tiếng kêu lên.</p>
+<p class="para-vi-sub">Ngay khi bước ra khỏi sự bận rộn thiêng liêng ở cửa hàng của mình, ông Nathaniel Benham liền gạt phăng đi những con số chiết khấu để hóa thân thành một gia chủ cởi mở. Ông thốt lên câu “Chà chà, thưa Sư huynh” hết lần này đến lần khác và bắt tay nồng nhiệt. Bà Benham, một phụ nữ vóc dáng đẫy đà, trông khá ưa nhìn, mặc chiếc áo đầm vải foulard có họa tiết hoa văn và thắt chiếc tạp dề bên ngoài vì vừa ở trong bếp phụ giúp, bà Benham cũng niềm nở không kém. “Tôi cá là cậu đang đói bụng rồi đấy, thưa Sư huynh!” bà lớn tiếng kêu lên.</p>
 
 <p class="para-en">He was, after a lunch of ham sandwich and coffee at a station lunchroom on the way down.</p>
 
@@ -330,15 +330,15 @@
 
 <p class="para-en">The Benham supper was as replete with fried chicken and theological questions as Elmer’s first supper with Deacon Bains in Schoenheim. But here was wealth, for which Elmer had a touching reverence, and here was Cleo.</p>
 
-<p class="para-vi-sub">Bữa tối nhà Benham ngập tràn gà rán và những vấn đề thần học chẳng khác nào bữa tối đầu tiên của Elmer với Chấp sự Bains ở Làng Schoenheim. Nhưng ở đây có sự giàu sang mà Elmer dành cho một sự kính trọng đầy cảm động, và ở đây có Cleo.</p>
+<p class="para-vi-sub">Bữa tối nhà Benham ngập tràn gà rán và những vấn đề thần học chẳng khác nào bữa tối đầu tiên của Elmer với Chấp sự Bains ở Làng Schoenheim. Nhưng ở đây có sự giàu sang mà gã dành cho một sự kính trọng đầy cảm động, và ở đây có Cleo.</p>
 
 <p class="para-en">Lulu Bains had been a tempting mouthful; Cleo Benham was of the race of queens. To possess her, Elmer gloated, would in itself be an empire, worth any battling.﻿ ﻿… And yet he did not itch to get her in a corner and buss her, as he had Lulu; the slope of her proud shoulders did not make his fingers taut.</p>
 
-<p class="para-vi-sub">Lulu Bains từng là một miếng mồi ngon đầy cám dỗ; còn Cleo Benham lại thuộc dòng dõi nữ hoàng. Sở hữu được cô, Elmer thầm đắc ý, tự thân điều đó đã là một đế chế, đáng giá cho mọi cuộc chiến đấu... Thế nhưng gã lại không thấy ngứa ngáy muốn lùa cô vào góc rồi hôn ngấu nghiến như từng làm với Lulu; đường cong kiêu hãnh trên đôi vai cô không làm những đầu ngón tay gã phải bồn chồn.</p>
+<p class="para-vi-sub">Lulu Bains từng là một miếng mồi ngon đầy cám dỗ; còn Cleo Benham lại thuộc dòng dõi nữ hoàng. Sở hữu được cô, gã thầm đắc ý, tự thân điều đó đã là một đế chế, đáng giá cho mọi cuộc chiến đấu... Thế nhưng gã lại không thấy ngứa ngáy muốn lùa cô vào góc rồi hôn ngấu nghiến như từng làm với Lulu; đường cong kiêu hãnh trên đôi vai cô không làm những đầu ngón tay gã phải bồn chồn.</p>
 
 <p class="para-en">After supper, on the screened porch pleasant by dusk, <abbr epub:type="z3998:name-title">Mr.</abbr> Benham demanded, “What charges have you been holding, Brother Gantry?”</p>
 
-<p class="para-vi-sub">Sau bữa tối, ngoài hiên nhà lộng gió mát rượi lúc chạng vạng, ông Benham liền cất tiếng hỏi: “Cậu đã phụ trách những giáo xứ nào rồi, thưa Sư huynh Gantry?”</p>
+<p class="para-vi-sub">Sau bữa tối, ngoài hiên nhà lộng gió mát rượi lúc chạng vạng, ông Benham liền cất tiếng hỏi: “Chú đã từng phụ trách những giáo xứ nào rồi, thưa Sư huynh Gantry?”</p>
 
 <p class="para-en">Elmer modestly let him know how important he had been in the work of Sister Falconer; he admitted his scholarly research at Mizpah Seminary; he made quite enough of his success at Schoenheim; he let it be known that he had been practically assistant sales-manager of the Pequot Farm Implement Company.</p>
 
@@ -346,7 +346,7 @@
 
 <p class="para-en"><abbr epub:type="z3998:name-title">Mr.</abbr> Benham grunted with surprised admiration. <abbr epub:type="z3998:name-title">Mrs.</abbr> Benham gurgled, “My, we’re lucky to have a real high-class preacher for once!” And Cleo﻿—she leaned toward Elmer, in a deep willow chair, and her nearness was a charm.</p>
 
-<p class="para-vi-sub">Ông Benham gừ lên đầy ngạc nhiên và thán phục. Bà Benham thốt lên lanh lảnh: “Ôi chao, phen này chúng ta thật may mắn khi có được một vị mục sư thực sự đẳng cấp!” Còn Cleo... cô nghiêng người về phía Elmer trên chiếc ghế mây sâu lòng, và sự gần gũi của cô mang sức hút mê hồn.</p>
+<p class="para-vi-sub">Ông Benham gừ lên đầy ngạc nhiên và thán phục. Bà Benham thốt lên lanh lảnh: “Ôi chao, phen này chúng ta thật may mắn khi có được một vị mục sư thực sự đẳng cấp!” Còn Cleo, cô nghiêng người về phía Elmer trên chiếc ghế mây sâu lòng, và sự gần gũi của cô mang sức hút mê hồn.</p>
 
 <p class="para-en">He walked back happily in the June darkness; he felt neighborly when an unknown muttered, “Evening, Reverend!” and all the way he saw Cleo, proud as Athena yet pliant as golden-skinned Aphrodite.</p>
 
