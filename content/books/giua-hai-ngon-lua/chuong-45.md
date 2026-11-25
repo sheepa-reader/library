@@ -1,6 +1,6 @@
 *Phần V*
 
-# Chương Bốn Mươi: Về Sự Giáng Lâm CủaĐạo Binh Thiên Đàng
+# Chương Bốn Mươi: Về Sự Giáng Lâm Của Đạo Binh Thiên Đàng
 
 Robert Hanicotte lắc đầu.
 
@@ -12,19 +12,19 @@ Anh bò dưới những chiếc bàn và chạy về phía cổng, nhưng rồi 
 
 Một thứ quái thai ghê tởm đang đuổi theo họ.
 
-<i>Hóa ra đó là thứ nằm trong khu người Do Thái.</i>
+Hóa ra đó là thứ nằm trong khu người Do Thái.
 
 Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó; người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân; thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.
 
 Tiếng hét của Robert chuyển thành tiếng cười.
 
-<i>Ồ, thế này thì tuyệt quá, tuyệt thật đấy, Địa Ngục đã ở ngay đây và đây chính là kỵ binh của nó!</i>
+Ồ, thế này thì tuyệt quá, tuyệt thật đấy, Địa Ngục đã ở ngay đây và đây chính là kỵ binh của nó!
 
 Ở phía bên trái anh, những con ác quỷ cao bằng tòa nhà đang tàn sát binh lính.
 
 Anh thà đối đầu với bọn chúng còn hơn là phải giáp mặt với sự phỉ báng sống động này.
 
-<i>Không. Mình phải chạy! Mình phải sống!</i>
+Không. Mình phải chạy! Mình phải sống!
 
 Anh chạy cùng những người khác, cố gắng chen vào nhà nguyện, nhưng cánh cửa đã bị chặn lại. Những bức tượng thiên thần và ác quỷ bằng đá thản nhiên nhìn vô cảm từ trên vòm cổng xuống.
 
@@ -82,7 +82,7 @@ Tuy nhiên, vị thiên thần đã vật ngã bọn chúng ra để dọn chỗ
 
 Vị thiên thần này là một trong những đấng hùng mạnh nhất.
 
-<i>Zephon</i>
+Zephon
 
 Cơ bắp cuồn cuộn nhưng chẳng cần đến cơ bắp, vừa cổ kính vừa tràn trề sức sống thanh xuân, lại một lần nữa đẫm trong sức nóng của các vì sao và sự nhẫn nại của những ngọn núi sừng sững.
 
@@ -92,7 +92,7 @@ Tiếng động kinh hoàng làm vỡ nát tâm trí giờ đây đã bị chín
 
 Một vị thiên sứ khác xuất hiện.
 
-<i>Uriel</i>
+Uriel
 
 Cái tên vang lên trong đầu Robert đẹp đẽ tựa như tên của một người tình đã mất.
 
@@ -108,11 +108,11 @@ Và một vị nữa.
 
 Nhà nguyện được mang tên ngài.
 
-<i>Thánh Michael</i>
+Thánh Michael
 
 Robert không thể nhìn thấy vị thiên thần ở vị trí ngài hạ xuống, nhưng anh thấy ngài bay vụt qua với đôi cánh đại bàng trắng to lớn như những cánh buồm, để lại phía sau những lăng kính ánh sáng, những lăng kính mang sắc màu mới khiến cho những màu sắc cũ trở nên xám xịt.
 
-<i>Michael, ta đang nhìn thấy Tổng lãnh thiên thần Michael.</i>
+Michael, ta đang nhìn thấy Tổng lãnh thiên thần Michael.
 
 Ngài cất tiếng hát từ vị trí trên mái nhà, và đó là âm thanh tuyệt vời nhất mà Robert từng được nghe trong đời. Giờ đây, những kẻ sống sót trong khoảng sân phát ra những tiếng động đầy nhẹ nhõm và biết ơn, một tiếng gào khàn đặc vượt quá giới hạn ngôn từ có thể diễn tả. Một số người đan tay vào nhau và quỳ xuống khóc nghẹn; một số khác ôm chầm lấy nhau.
 
@@ -140,9 +140,9 @@ Một bàn tay siết chặt lấy tay anh khi sự sống đang rời bỏ cơ 
 
 Anh cứ nghĩ đó là tay của Matthieu.
 
-<i>Ta xin lỗi, Robert-của-những-bụi-cây.</i>
+Ta xin lỗi, Robert-của-những-bụi-cây.
 
-<i>Ta xin lỗi.</i>
+Ta xin lỗi.
 
 Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà! Ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.
 

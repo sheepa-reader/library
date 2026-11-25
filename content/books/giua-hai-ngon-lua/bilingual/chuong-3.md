@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Hai: Về Mật Ongvà Cây Thánh Giá Bị Gãy
+# Chương Hai: Về Mật Ong và Cây Thánh Giá Bị Gãy
 
 <p class="para-en">Thomas and the girl slept in the barn on separate piles of rotten hay with the droopy-eyed man tied up in the donkey’s old stall. He didn’t make trouble in the evening because he knew how close to dying he had been, but near morning he forgot and woke Thomas up.</p>
 
@@ -54,7 +54,7 @@
 
 <p class="para-vi-sub">“Sao ngài có thể ngủ được khi lũ chim chóc cứ kêu râm ran thế? Lại thêm hai kẻ đang nằm chết kìa. Ít ra ngài cũng phải vuốt mắt cho họ chứ?”</p>
 
-<p class="para-en"><a id="page16"></a>“No. They’ll want to see Jesus coming.”</p>
+<p class="para-en">“No. They’ll want to see Jesus coming.”</p>
 
 <p class="para-vi-sub">“Không. Bọn họ sẽ muốn nhìn thấy Chúa Jesus đang đến.”</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-vi-sub">“Và ai đã nhắc đến quỷ sứ cơ chứ?”</p>
 
-<p class="para-en"><a id="page17"></a>“You did, in your sleep.”</p>
+<p class="para-en">“You did, in your sleep.”</p>
 
 <p class="para-vi-sub">“Chính mày đấy, trong lúc ngủ mơ.”</p>
 
@@ -206,7 +206,7 @@
 
 <p class="para-vi-sub">“Mặc kệ chứ. Ta thích thề thế nào thì thề.”</p>
 
-<p class="para-en"><a id="page18"></a>“It’s…”</p>
+<p class="para-en">“It’s…”</p>
 
 <p class="para-vi-sub">“Thật là…”</p>
 
@@ -248,7 +248,7 @@
 
 <p class="para-en">“Our Lord also said to render unto Caesar what was Caesar’s. My sword belongs to my seigneur. Or did, until the English feathered him at Crécy. Feathered me, too, but I lived. God, in His wisdom, made me a fighting man.”</p>
 
-<p class="para-vi-sub">“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn2">[2]</a>. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”</p>
+<p class="para-vi-sub">“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”</p>
 
 <p class="para-en">“Yet you ride with a man who kills from far away. So what were you doing on the road with these men?”</p>
 
@@ -294,7 +294,7 @@
 
 <p class="para-vi-sub">“Cháu cần…”</p>
 
-<p class="para-en"><a id="page19"></a>“I know. Your dead father. But girls shouldn’t come up to soldiers. You know that now. Right?”</p>
+<p class="para-en">“I know. Your dead father. But girls shouldn’t come up to soldiers. You know that now. Right?”</p>
 
 <p class="para-vi-sub">“Ta biết rồi. Người cha đã khuất của mày. Nhưng con gái không nên đến gần những tên lính. Giờ thì mày biết điều đó rồi chứ? Phải không?”</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-vi-sub">Công việc này sắp sửa vô cùng kinh khủng, thế nên anh bắt gã có đôi mắt sụp mí phải làm việc đó. Thomas đứng bên ngoài ngôi nhà với thanh kiếm vác trên vai, nhìn vào bên trong, trong khi Jacquot bẻ các chân chiếc bàn rồi dùng tấm vải liệm lót dưới người chết để kéo ông ta lên đó. Jacquot hoảng loạn đến độ nửa điên dại, quấn vạt trùm đầu quanh mặt và nhét một túi thơm thảo mộc gồm hoa đinh hương lẫn hoa oải hương cạnh mũi để ngăn luồng không khí độc hại lọt vào.</p>
 
-<p class="para-en"><a id="page20"></a>“A lot of good the pomander did them,” Jacquot said, heaving the corpse onto the board. He was barely audible through the cloth and over the flies. “I mean, by Saint Louis and his whoring oak tree. If this goddamned thing worked, he’d be out here dancing a jig with us. Instead he’s reeking to God’s feet, and ready to split for the worms in him, and I’m next. You’ve murdered me, making me do this.”</p>
+<p class="para-en">“A lot of good the pomander did them,” Jacquot said, heaving the corpse onto the board. He was barely audible through the cloth and over the flies. “I mean, by Saint Louis and his whoring oak tree. If this goddamned thing worked, he’d be out here dancing a jig with us. Instead he’s reeking to God’s feet, and ready to split for the worms in him, and I’m next. You’ve murdered me, making me do this.”</p>
 
 <p class="para-vi-sub">“Túi thơm thảo mộc có ích gì cho bọn họ đâu chứ,” Jacquot vừa lầm bầm vừa khuân cái xác lên tấm ván. Giọng hắn gần như không thể nghe rõ qua lớp vải và tiếng vo ve của ruồi nhặng. “Ý tôi là, nhân danh Thánh Louis cùng cái cây sồi đĩ thõa của ngài, nếu cái quái quỷ này có tác dụng thì ông ta đã ở ngoài này nhảy múa tung tăng cùng chúng ta rồi. Thay vào đó, ông ta đang thối rữa đến tận gót chân của Chúa, sắp sửa bị bầy giòi ăn nát cả người, còn tôi là kẻ tiếp theo. Ngài đã giết tôi khi bắt tôi làm việc này đấy.”</p>
 
@@ -402,9 +402,9 @@
 
 <p class="para-vi-sub">“Thế nên chúng ta lãng phí nửa ngày để chôn cất một kẻ xa lạ và bỏ mặc những người bạn của mình như lũ súc vật sao?”</p>
 
-<p class="para-en">“Our friends <em>were</em> animals. We’re doing this for the girl. Now shut up.”</p>
+<p class="para-en">“Our friends were animals. We’re doing this for the girl. Now shut up.”</p>
 
-<p class="para-vi-sub">“Bạn bè của chúng ta <i>đích thị</i> là lũ súc vật rồi. Chúng ta đang làm điều này vì con bé. Giờ thì câm miệng lại đi.”</p>
+<p class="para-vi-sub">“Bạn bè của chúng ta đích thị là lũ súc vật rồi. Chúng ta đang làm điều này vì con bé. Giờ thì câm miệng lại đi.”</p>
 
 <p class="para-en">“What are you going to do? Punch me out again? Then who’ll roll this geezer into his hole? You will, that’s who.”</p>
 
@@ -450,7 +450,7 @@
 
 <p class="para-vi-sub">“Chẳng đùa đâu,” Jacquot đáp, rồi ho vào tấm vải che mặt mà hắn chuẩn bị tháo ra khi Thomas ra hiệu về phía đống đất.</p>
 
-<p class="para-en"><a id="page21"></a>“Oh, come on. Let me take a rest.”</p>
+<p class="para-en">“Oh, come on. Let me take a rest.”</p>
 
 <p class="para-vi-sub">“Ôi, thôi nào. Cho tôi nghỉ ngơi một lát đi.”</p>
 
@@ -522,7 +522,7 @@
 
 <p class="para-vi-sub">“Cái gì?”</p>
 
-<p class="para-en"><a id="page22"></a>“You ate my donkey.”</p>
+<p class="para-en">“You ate my donkey.”</p>
 
 <p class="para-vi-sub">“Các người đã ăn con lừa của cháu.”</p>
 
@@ -578,13 +578,13 @@
 
 <p class="para-vi-sub">Cô bé chỉ ngước nhìn Thomas.</p>
 
-<p class="para-en"><a id="page23"></a>He squinted at the letters and sounded them out.</p>
+<p class="para-en">He squinted at the letters and sounded them out.</p>
 
 <p class="para-vi-sub">Gã nheo mắt nhìn các chữ cái và đánh vần chúng.</p>
 
 <p class="para-en">“Thomas Aquinas? Really?”</p>
 
-<p class="para-vi-sub">“Thomas Aquinas<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn3">[3]</a> ư? Thật á?”</p>
+<p class="para-vi-sub">“Thomas Aquinas[3] ư? Thật á?”</p>
 
 <p class="para-en">She nodded.</p>
 
@@ -614,7 +614,7 @@
 
 <p class="para-vi-sub">“Mày chưa gặp nhiều hiệp sĩ rồi. Hầu hết bọn họ chỉ viết đủ giỏi để không phải vẽ hình con gà làm chữ ký, chứ chẳng có học thức gì sất.”</p>
 
-<p class="para-en">“Thomas Aquinas is Papa’s favorite. Because he could have been a lord but chose to renounce the world. Although I much prefer Saint Francis<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn1" id="bodyftn1">[1]</a>.”</p>
+<p class="para-en">“Thomas Aquinas is Papa’s favorite. Because he could have been a lord but chose to renounce the world. Although I much prefer Saint Francis[1].”</p>
 
 <p class="para-vi-sub">“Thomas Aquinas là tác giả yêu thích của cha cháu. Vì ngài ấy đáng lẽ có thể làm lãnh chúa nhưng lại chọn từ bỏ thế gian. Dù cháu thích Thánh Francis hơn nhiều.”</p>
 
@@ -682,7 +682,7 @@
 
 <p class="para-vi-sub">Gã lại gừ lên một tiếng.</p>
 
-<p class="para-en"><a id="page24"></a>She answered him by blowing into her toy, managing to look both innocent and defiant, the whistle sputtering out its cheerful birdsong.</p>
+<p class="para-en">She answered him by blowing into her toy, managing to look both innocent and defiant, the whistle sputtering out its cheerful birdsong.</p>
 
 <p class="para-vi-sub">Cô bé đáp lại bằng cách thổi vào món đồ chơi của mình, vừa trông có vẻ ngây thơ vừa thách thức, trong khi chiếc còi phát ra những âm thanh vui tươi như tiếng chim.</p>
 
@@ -770,7 +770,7 @@
 
 <p class="para-vi-sub">“Ừ, lúc nào cũng thế. Nhưng chắc là trừ mày phải không? Chà, vậy nó thế nào? Có sừng với chân dê nhỏ không? Ta là ác quỷ chắc?”</p>
 
-<p class="para-en"><a id="page25"></a>“No. But there’s one near you. There’s always one near you. They want you.”</p>
+<p class="para-en">“No. But there’s one near you. There’s always one near you. They want you.”</p>
 
 <p class="para-vi-sub">“Không. Nhưng có một kẻ đang ở gần ngài. Lúc nào cũng có kẻ ở gần ngài. Bọn chúng muốn ngài.”</p>
 

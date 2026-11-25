@@ -20,7 +20,7 @@ Rinaldo Carbonelli có đôi lông mày rậm, sắc nét che trên đôi mắt 
 
 Ánh nhìn của em quá đỗi đắm đuối khiến chàng thương gia trẻ người Tuscany nhận ra. Anh mỉm cười, hất cằm và nháy mắt đầy biểu cảm về phía những người khác để ra hiệu.
 
-Anh nói: <i>“Ragazza,”</i> như thể điều đó đã giải thích tất cả, khiến Thomas phải bật cười khúc khích.
+Anh nói: “Ragazza,” như thể điều đó đã giải thích tất cả, khiến Thomas phải bật cười khúc khích.
 
 Cha Matthieu cất lời: “Anh có thể đi cùng chúng tôi. Ít nhất là đến tận Avignon.” Chàng trai người Ý hiểu ý, từ từ gật đầu ngẫm nghĩ.
 
@@ -62,13 +62,13 @@ Con hươu nghe thấy tiếng động gì đó đang chuyển động trong b�
 
 Tiếng động lại vang lên, tiếng lá xào xạc, lần này lớn hơn. Con hươu bỏ đi, không phải bằng một cú chạy thục mạng, mà đủ nhanh để người Ý không kịp điều chỉnh cả chuyển động của nó lẫn những thân cây non mà nó khuất sau đó. Rinaldo nhăn mặt với cái miệng hé mở, hơi thở bốc khói nghi ngút giữa hai hàm răng nghiến chặt, vẫn dõi theo con hươu đực phòng khi nó quay đầu, nhưng có vẻ điều đó khó mà xảy ra.
 
-Rinaldo cảm thấy bàn tay của Thomas đặt lên vai mình và miễn cưỡng quay đầu rời khỏi con hươu đỏ đang khuất dần. Thomas đang nhìn anh như muốn nói, <i>Anh có tin nổi chuyện này không?</i>
+Rinaldo cảm thấy bàn tay của Thomas đặt lên vai mình và miễn cưỡng quay đầu rời khỏi con hươu đỏ đang khuất dần. Thomas đang nhìn anh như muốn nói, Anh có tin nổi chuyện này không?
 
 Trong thời buổi nạn đói hoành hành, khi luật săn trộm bị lãng quên và con người đã vét cạn gần như toàn bộ thú rừng trong các khu rừng, thì một con mồi chiến lợi phẩm tráng lệ lại được cứu thoát nhờ một con thú thứ hai.
 
 Một con lợn rừng đang hếch mõm hít hà trong bụi rậm, vẫn chưa hề hay biết gì về sự hiện diện của những kẻ thợ săn.
 
-<i>“Porca troia,”</i> Rinaldo thì thầm, giương cung lần nữa rồi thả tay.
+“Porca troia,” Rinaldo thì thầm, giương cung lần nữa rồi thả tay.
 
 Mũi tên của anh cắm phập vào má con lợn rừng, khiến nó rít lên và quẫy đạp tứ phía bằng cái mõm có ngà. Rinaldo rút mũi tên thứ hai, và đó là lúc đôi mắt đen láy nhỏ xíu của con vật khóa chặt lấy anh, xác định anh chính là cội nguồn nỗi đau của nó.
 

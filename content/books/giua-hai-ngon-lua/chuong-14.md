@@ -12,7 +12,7 @@ Jehan thì thầm vào tai Thomas: “Chúng đến rồi. Ở ngay trong khu ph
 
 Hai vợ chồng đăm đăm nhìn những ô cửa sổ cài then và những cánh cửa chốt kín, lắng nghe tiếng gõ cửa đang rõ ràng tiến lại gần hơn. Thomas cầm chiếc áo giáp xích lên và bắt đầu luồn người mặc vào. Anh cũng đeo cả găng tay giáp xích. Annette đọc một lời kinh Kính Mừng, chồng chị và vị linh mục liền đọc theo, dẫu Père Matthieu vẫn đang dõi theo Delphine.
 
-Delphine cúi sát ngọn bấc trong vũng mỡ bò nay đã trở thành một nghĩa địa nhão nhoét của loài bướm đêm; những con bướm đậu trên mái tóc cô bé và bay lượn xung quanh khi cô bé mở chiếc ống mà Người Do Thái bán thánh tích đã trao cho mình. Bản lề của nó rất nhỏ và tinh xảo, nhưng đôi bàn tay nhỏ bé của cô bé sinh ra là để mở những thứ như vậy. Bên trong ống được lót một lớp da màu nâu, trên đó phần thân bằng sắt rỗ màu bùn đất hầu như chẳng thể nhìn thấy rõ. Delphine cầm nó lên trong tay. Nó không giống như những gì cô bé mong đợi; không có lưỡi sắc hay hình tam giác như ngọn giáo săn lợn; trái lại, nó là một thanh kim loại mỏng thuôn nhẹ dần về phía đầu nhọn, giống một cái que cời lửa hơn là một ngọn giáo thực thụ. Cô bé thử đầu nhọn bằng ngón tay cái và thấy nó vẫn đủ sắc bén khiến cô bé phải há hốc miệng vì nghẹn thở. Liệu mảnh kim loại này có thực sự từng bị đâm xuyên qua một trong những chiếc xương sườn của Ngài hay không? Dường như thật bất khả thi khi bất cứ thứ gì hay bất kỳ ai còn trên cõi đời này thực sự từng chạm vào Ngài. Nhưng nó đúng là như vậy. Chính là nó. Delphine hôn lên đầu ngọn giáo và niêm phong nó trở lại trong vỏ đựng. Từ <i>mũi lao La Mã</i> xuất hiện trong đầu cô bé, và cô bé tự hỏi liệu mình đã đọc được nó từ những cuốn sách của cha mình, hay nó đơn giản đến với cô bé như rất nhiều từ ngữ dạo gần đây.
+Delphine cúi sát ngọn bấc trong vũng mỡ bò nay đã trở thành một nghĩa địa nhão nhoét của loài bướm đêm; những con bướm đậu trên mái tóc cô bé và bay lượn xung quanh khi cô bé mở chiếc ống mà Người Do Thái bán thánh tích đã trao cho mình. Bản lề của nó rất nhỏ và tinh xảo, nhưng đôi bàn tay nhỏ bé của cô bé sinh ra là để mở những thứ như vậy. Bên trong ống được lót một lớp da màu nâu, trên đó phần thân bằng sắt rỗ màu bùn đất hầu như chẳng thể nhìn thấy rõ. Delphine cầm nó lên trong tay. Nó không giống như những gì cô bé mong đợi; không có lưỡi sắc hay hình tam giác như ngọn giáo săn lợn; trái lại, nó là một thanh kim loại mỏng thuôn nhẹ dần về phía đầu nhọn, giống một cái que cời lửa hơn là một ngọn giáo thực thụ. Cô bé thử đầu nhọn bằng ngón tay cái và thấy nó vẫn đủ sắc bén khiến cô bé phải há hốc miệng vì nghẹn thở. Liệu mảnh kim loại này có thực sự từng bị đâm xuyên qua một trong những chiếc xương sườn của Ngài hay không? Dường như thật bất khả thi khi bất cứ thứ gì hay bất kỳ ai còn trên cõi đời này thực sự từng chạm vào Ngài. Nhưng nó đúng là như vậy. Chính là nó. Delphine hôn lên đầu ngọn giáo và niêm phong nó trở lại trong vỏ đựng. Từ mũi lao La Mã xuất hiện trong đầu cô bé, và cô bé tự hỏi liệu mình đã đọc được nó từ những cuốn sách của cha mình, hay nó đơn giản đến với cô bé như rất nhiều từ ngữ dạo gần đây.
 
 “Đó là gì vậy?” Père Matthieu cất lời.
 
@@ -88,7 +88,7 @@ Cánh cửa mở ra để lộ bức tượng Đức Mẹ Thánh Thiện cao sá
 
 Cuộc chiến thật khủng khiếp. Thật khó để nhìn rõ trong không gian gần như tối đen của xưởng làm việc chỉ có ánh nến. Delphine lắc đầu, cố gắng tỉnh lại khỏi thứ không thể nào xảy ra này; Đức Mẹ báng bổ đang túm lấy cánh tay Annette. Cánh tay gãy vụn. Nó cắn đứt thứ gì đó trên mặt Annette và nhổ vào Jehan. Nó đập nát hộp sọ của Jehan bằng cây quyền trượng.
 
-<i>Chúa ơi, Chúa ơi, tại sao lại là Annette ngọt ngào?</i>
+Chúa ơi, Chúa ơi, tại sao lại là Annette ngọt ngào?
 
 “Không!” Delphine cố hét lên, nhưng âm thanh phát ra chỉ giống như tiếng kêu meo méo của một con mèo con.
 
@@ -98,7 +98,7 @@ Một bộ ba tượng Đức Mẹ bằng gỗ dường như đang bất lực c
 
 Giờ thì Tượng đá gõ cửa ban đêm đang lao về phía hiệp sĩ. Thomas dồn hết sức vào một cú vạt thấp, chém gãy một chân của nó, nhưng nó lập tức quỳ sụp bằng cả bốn chi, cắn xé và húc vào anh, làm đổ nhào các bức tượng gỗ, tàn phá mọi thứ xung quanh. Nó vung quyền trượng đánh mạnh vào chân anh, suýt làm anh ngã quỵ. Anh gầm lên vì đau đớn, rồi vung kiếm chém xuống gãy đôi cây quyền trượng.
 
-<i>Lấy ngọn giáo đi.</i>
+Lấy ngọn giáo đi.
 
 Delphine chạy đến cái bàn nơi chiếc hộp hình ống sáo đựng mũi giáo đang nằm, và cô bé vớ lấy nó ngay trước khi con la hoảng loạn hất tung chiếc bàn, suýt đè bẹp người mình. Cô bé mở chiếc hộp. Cha Matthieu gọi tên cô bé; cô trao mũi lao La Mã cho ông và ông hiểu ngay.
 
@@ -140,7 +140,7 @@ Hỡi chim, đã đến lúc bay,
 
 Nghe cha cất tiếng gọi mời,
 
-Đã đến lúc lướt lên trời cao xanh?
+Đã đến lúc lướt lên trời cao xanh.
 
 Người duy nhất họ nhìn thấy là một người phụ nữ đang kéo cụ ông ra khỏi nhà và đặt cụ ngồi bên cửa; bà chật vật mãi mới dựng cụ lên được, nhưng cuối cùng cũng làm xong. Khi nhìn thấy chiếc xe đẩy, bà nói: “Làm ơn mang ông ấy đi đi! Tôi sẽ trả tiền! Tôi có củ cải, các người cứ lấy! Ông ấy đối xử tốt với tôi và tôi muốn chôn cất ông ấy. Làm ơn đi!”
 
@@ -172,15 +172,15 @@ Bên cạnh bức tượng Đức Mẹ rùng rợn, những bức tượng các 
 
 Thánh Phaolô quay cái đầu bằng đá và trừng mắt nhìn thẳng vào cha Matthieu. Cha Matthieu cảm thấy như có một ngón tay lạnh ngắt đâm thẳng vào tim, và rồi đầu ông như nổ tung trong cơn đau đớn khi Thánh Phaolô tấn công ông bằng một tiếng gầm không lời:
 
-<i>MÀY CÓ THÍCH THẰNG KHỐN NÀY KHÔNG HỠI LINH MỤC BỌN TA ĐÃ LÀM ĐIỀU NÀY VÌ MÀY ĐẤY ĐỒ BẠN BIẾN CHẤT ĐỒ KÊ GIAN SÓDÔM NÁT RƯỢU MÀY NGHĨ MÀY ĐANG LỪA AI HẢ MÀY CÓ MUỐN TRÈO LÊN ĐÂY VỚI TA VÀ KÉO MẤY CÁI TÀ ÁO ĐÓ LÊN HOC EST ENIM VERGUM MEUM</i>
+MÀY CÓ THÍCH THẰNG KHỐN NÀY KHÔNG HỠI LINH MỤC BỌN TA ĐÃ LÀM ĐIỀU NÀY VÌ MÀY ĐẤY ĐỒ BẠN BIẾN CHẤT ĐỒ KÊ GIAN SÓDÔM NÁT RƯỢU MÀY NGHĨ MÀY ĐANG LỪA AI HẢ MÀY CÓ MUỐN TRÈO LÊN ĐÂY VỚI TA VÀ KÉO MẤY CÁI TÀ ÁO ĐÓ LÊN HOC EST ENIM VERGUM MEUM
 
 Cha Matthieu buông thõng dây cương và đưa hai tay ôm lấy tai, nhưng chẳng ích gì. Cùng lúc đó, bức tượng Thánh Martin chĩa thanh kiếm về phía Thomas và bổ thẳng vào đầu Thomas bằng một luồng tư tưởng:
 
-<i>ĐỒ HÈN NHÁT MÀY ĐÃ CƯỠNG HIẾP CON NHỎ ĐÓ CHƯA VÌ RỒI MÀY SẼ LÀM THẾ BỌN TA SẼ BẮT MÀY CHƠI NÓ ĐẰNG SAU NHƯNG KHÔNG ĐƯỢC PHÁ TRINH NÓ ĐỂ NÓ CÒN NGUYÊN VẸN KHI MÀY CẮT CỔ NÓ DÂNG CHO CHỦ NHÂN CỦA MÀY VÀ MÀY BIẾT ĐÓ LÀ AI RỒI ĐÚNG KHÔNG</i>
+ĐỒ HÈN NHÁT MÀY ĐÃ CƯỠNG HIẾP CON NHỎ ĐÓ CHƯA VÌ RỒI MÀY SẼ LÀM THẾ BỌN TA SẼ BẮT MÀY CHƠI NÓ ĐẰNG SAU NHƯNG KHÔNG ĐƯỢC PHÁ TRINH NÓ ĐỂ NÓ CÒN NGUYÊN VẸN KHI MÀY CẮT CỔ NÓ DÂNG CHO CHỦ NHÂN CỦA MÀY VÀ MÀY BIẾT ĐÓ LÀ AI RỒI ĐÚNG KHÔNG
 
 Thánh Anna khom người như thể chực lao vào Delphine và thét lên trong tâm trí em:
 
-<i>TẤT CẢ NHỮNG AI NGƯƠI YÊU THƯƠNG SẼ CHẾT VỊ LINH MỤC NÀY VÀ TÊN HIỆP SĨ NÀY CẢ HAI SẼ CHẾT VÌ NGƯƠI CHÚNG TA SẼ GIẾT HỌ CHÚNG TA KHÔNG BIẾT NGƯƠI LÀ THỨ GÌ NHƯNG CHÚNG TA SẼ TÌM RA CHO DÙ CHÚNG TA PHẢI RẠCH NGƯƠI RA VÀ MÓN ĐỒ CHƠI ĐÓ SẼ KHÔNG CỨU ĐƯỢC NGƯƠI ĐÂU</i>
+TẤT CẢ NHỮNG AI NGƯƠI YÊU THƯƠNG SẼ CHẾT VỊ LINH MỤC NÀY VÀ TÊN HIỆP SĨ NÀY CẢ HAI SẼ CHẾT VÌ NGƯƠI CHÚNG TA SẼ GIẾT HỌ CHÚNG TA KHÔNG BIẾT NGƯƠI LÀ THỨ GÌ NHƯNG CHÚNG TA SẼ TÌM RA CHO DÙ CHÚNG TA PHẢI RẠCH NGƯƠI RA VÀ MÓN ĐỒ CHƠI ĐÓ SẼ KHÔNG CỨU ĐƯỢC NGƯƠI ĐÂU
 
 Chiếc xe kéo lăn bánh không người lái trong lúc cả ba oằn mình chịu đựng những lời ác ý ném vào họ. Rồi, vượt qua những dãy nhà phía đông và ẩn khuất sau những tầng mây, mặt trời mọc lên chẳng ai hay và những giọng nói liền ngớt đi. Cha Matthieu đổ gục vào bờ vai vững chãi của Thomas và chìm vào trạng thái tựa như giấc ngủ.
 

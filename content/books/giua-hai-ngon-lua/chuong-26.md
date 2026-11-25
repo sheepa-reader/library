@@ -10,7 +10,7 @@ Ban đầu, việc điều khiển chiếc bè không hề dễ dàng đối v�
 
 Khuôn mặt Thomas tối sầm lại khi nhớ đến vị hiệp sĩ cùng đoàn tùy tùng từng đi lướt qua họ gần Auxerre.
 
-<i>Một con quỷ và một binh đoàn người chết.</i>
+Một con quỷ và một binh đoàn người chết.
 
 “Trông mặt ngươi kì cục chưa kìa. Ngươi không thích ý nghĩ Jerusalem lại thuộc về tín đồ Kitô giáo sao? Biết đâu đó lại là điều vừa khéo để dập tắt cơn thịnh nộ của Chúa đối với chúng ta.”
 
@@ -34,7 +34,7 @@ Thomas tiếp lời: “Chúng ta cũng chịu nạn đói, chồng chất lên 
 
 “Tình cảm binh đao,” vị linh mục nói.
 
-“Tình đồng chí là đủ rồi,” Guillaume nói, gật đầu về phía cha Matthieu như muốn bảo rằng, <i>ngươi có tin nổi ông ta không?</i> Thế rồi Thomas chợt thấy buồn cười và phá lên cười, ánh mắt không nhìn cha Matthieu mà hướng về Guillaume.
+“Tình đồng chí là đủ rồi,” Guillaume nói, gật đầu về phía cha Matthieu như muốn bảo rằng, ngươi có tin nổi ông ta không? Thế rồi Thomas chợt thấy buồn cười và phá lên cười, ánh mắt không nhìn cha Matthieu mà hướng về Guillaume.
 
 Vị linh mục cũng cười theo.
 
@@ -156,7 +156,7 @@ Anh không còn thời gian nữa.
 
 Những chiếc xúc tu giật mạnh hơn, kéo chiếc bè nghiêng hẳn sang một góc nhọn, khiến một phần hàng hóa trên bè trượt về phía trước. Một thùng vũ khí trượt tỏm xuống nước, lúc này những kiện muối được bọc kín cũng đang dịch chuyển.
 
-<i>Muối!</i>
+Muối!
 
 Cha Matthieu lao về phía đống muối và bắt đầu gỡ sợi dây thừng buộc lớp bọc chống thấm dầu của nó.
 
@@ -164,7 +164,7 @@ Delphine lùi lại, vung giáo đánh vào con quái vật gớm ghiếc đầu
 
 Tệ hơn cả những cú chích của nó chính là những lời mà nó thốt ra: nó nói chuyện với cô bé, và dẫu cái miệng trên cái đầu của viên thuyền trưởng vẫn động đậy bên trong lớp vỏ nhờn nhợt của nó, em không chắc rằng giọng nói đó chỉ vang lên trong tâm trí mình hay không:
 
-<i>TA LÀ CAROLUS KẺ ĐÃ NHẬN MÓN QUÀ TỪ CAROLUS CAROLUS VÀ TÊN CỦA NGƯƠI LÀ GÌ NGƯƠI SẼ NÓI CHO TA BIẾT KHI TA ĐƯA CÁI ĐẦU CỦA NGƯƠI CÙNG TA XUỐNG ĐÁY BIỂN XINH ĐẸP KHÔNG CÓ ÁNH SÁNG NƠI NHỮNG KẺ CHẾT ĐUỐI SẼ KẾT HÔN VỚI CHÚNG TA</i>
+TA LÀ CAROLUS KẺ ĐÃ NHẬN MÓN QUÀ TỪ CAROLUS CAROLUS VÀ TÊN CỦA NGƯƠI LÀ GÌ NGƯƠI SẼ NÓI CHO TA BIẾT KHI TA ĐƯA CÁI ĐẦU CỦA NGƯƠI CÙNG TA XUỐNG ĐÁY BIỂN XINH ĐẸP KHÔNG CÓ ÁNH SÁNG NƠI NHỮNG KẺ CHẾT ĐUỐI SẼ KẾT HÔN VỚI CHÚNG TA
 
 Guillaume chộp lấy một chiếc rìu và bổ vào những sợi dây thừng màu vàng nhạt đang kéo chìm chiếc bè, nhưng một vài sợi trong số đó quật lại và chích cả gã. Thomas lẩn tránh sinh vật dạng thạch thứ hai, vốn chẳng hề uyển chuyển khi lên cạn, và nhìn thấy việc vị linh mục đang làm. Anh bước tới và cắt đứt sợi dây thừng. Cha Matthieu mở một chiếc túi và vung tay ném bột muối ra, hy vọng rằng phỏng đoán của mình về đặc tính của nó là chính xác.
 

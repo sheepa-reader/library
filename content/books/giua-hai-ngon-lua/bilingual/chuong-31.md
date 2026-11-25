@@ -6,13 +6,13 @@
 
 <p class="para-vi-sub">Thomas chạy theo đám kỵ binh cho đến khi sức nặng của chiếc áo giáp xích và cái nóng ban ngày khiến gã chậm lại thành một bước đi nhanh. Thomas thừa biết họ đang đi đâu. Và gã hoàn toàn không có ý tưởng gì về việc mình sẽ làm nếu bắt kịp họ, dù là ở Avignon hay trên đường đi. Gã thích ở trên đường hơn.</p>
 
-<p class="para-en"><em>I should have taken one of those goddamned horses.</em></p>
+<p class="para-en">I should have taken one of those goddamned horses.</p>
 
-<p class="para-vi-sub"><i>Lẽ ra ta nên lấy một trong những con ngựa chết tiệt đó.</i></p>
+<p class="para-vi-sub">Lẽ ra ta nên lấy một trong những con ngựa chết tiệt đó.</p>
 
-<p class="para-en"><em>But then I would have been in front of them.</em></p>
+<p class="para-en">But then I would have been in front of them.</p>
 
-<p class="para-vi-sub"><i>Nhưng rồi ta sẽ lại ở phía trước bọn họ.</i></p>
+<p class="para-vi-sub">Nhưng rồi ta sẽ lại ở phía trước bọn họ.</p>
 
 <p class="para-en">It was when he came around a limestone bluff that he saw the stream. The road humped in front of him to form a small bridge that went over a stream feeding the Rhône. It was an old stream, then, one that soldiers had likely been stopping at for years to water their horses.</p>
 
@@ -22,7 +22,7 @@
 
 <p class="para-vi-sub">Những kẻ mang huy hiệu chia bốn phần của xứ Navarre này cũng đã dừng chân ở đây. Chrétien và thuộc hạ của y đều ở đây, tất cả mười sáu tên mà Thomas đã thấy cưỡi ngựa qua. Chúng đang đội mũ giáp và leo lên những con chiến mã Tây Ban Nha và xứ Norman tuyệt đẹp của mình. Chúng chuẩn bị lên đường trở lại. Nếu Thomas định làm gì đó, thì phải là ngay bây giờ.</p>
 
-<p class="para-en"><a id="page295"></a>But what?</p>
+<p class="para-en">But what?</p>
 
 <p class="para-vi-sub">Nhưng làm gì đây?</p>
 
@@ -30,23 +30,23 @@
 
 <p class="para-vi-sub">Một bụi cây rậm rạp và một ngọn đồi nhỏ bao bọc lấy bãi đất trống bên con suối; sẽ rất dễ dàng nếu tiếp cận với một lực lượng lớn và giáng cho những kẻ này một trận phục kích, nhưng một kẻ đơn độc thì làm được gì?</p>
 
-<p class="para-en"><em>Stop thinking of ambushes and stealth.</em></p>
+<p class="para-en">Stop thinking of ambushes and stealth.</p>
 
-<p class="para-vi-sub"><i>Hãy ngừng nghĩ về những cuộc phục kích và sự lén lút.</i></p>
+<p class="para-vi-sub">Hãy ngừng nghĩ về những cuộc phục kích và sự lén lút.</p>
 
-<p class="para-en"><em>You are a knight again, not a brigand.</em></p>
+<p class="para-en">You are a knight again, not a brigand.</p>
 
-<p class="para-vi-sub"><i>Ngươi lại là một hiệp sĩ rồi, không phải một tên cướp đâu.</i></p>
+<p class="para-vi-sub">Ngươi lại là một hiệp sĩ rồi, không phải một tên cướp đâu.</p>
 
-<p class="para-en"><em>Act like a knight.</em></p>
+<p class="para-en">Act like a knight.</p>
 
-<p class="para-vi-sub"><i>Hãy hành xử như một hiệp sĩ.</i></p>
+<p class="para-vi-sub">Hãy hành xử như một hiệp sĩ.</p>
 
 <p class="para-en">“I seek an audience with Sire Chrétien d’Évreux. It is a matter of honor,” he said in his war voice, walking up to the men, staring at the comte.</p>
 
 <p class="para-vi-sub">“Ta muốn yết kiến Ngài Chrétien d’Évreux. Đây là một vấn đề danh dự,” Thomas cất giọng chiến trận nói, bước tới chỗ mấy tên lính và trừng trừng nhìn vị bá tước.</p>
 
-<p class="para-en">A squire, holding his helmet in one hand and leading his horse with the other, walked closer to Thomas, looked at him from his boots to his head, and then called behind him, “Sire, there is a sort of <em>routier</em> or raggedy-man here who speaks of honor.”</p>
+<p class="para-en">A squire, holding his helmet in one hand and leading his horse with the other, walked closer to Thomas, looked at him from his boots to his head, and then called behind him, “Sire, there is a sort of routier or raggedy-man here who speaks of honor.”</p>
 
 <p class="para-vi-sub">Một tên tùy tùng, một tay cầm mũ giáp và tay kia dắt ngựa, bước đến gần Thomas hơn, nhìn gã từ đầu đến chân rồi gọi giật ra sau: “Thưa ngài, có một tên lính đánh thuê rách rưới nào đây đang nói chuyện danh dự này.”</p>
 
@@ -66,17 +66,17 @@
 
 <p class="para-vi-sub">Một tên to con giật dây cương cho ngựa tiến lại gần hơn. Hắn ta suýt nữa thì đủ tầm để giáng cho Thomas một nhát rìu. Tay Thomas vô thức đưa về phía chuôi kiếm.</p>
 
-<p class="para-en"><em>Don’t.</em></p>
+<p class="para-en">Don’t.</p>
 
-<p class="para-vi-sub"><i>Đừng.</i></p>
+<p class="para-vi-sub">Đừng.</p>
 
 <p class="para-en">It was Delphine’s voice in his head.</p>
 
 <p class="para-vi-sub">Đó là giọng của Delphine vang lên trong đầu Thomas.</p>
 
-<p class="para-en"><em>Don’t.</em></p>
+<p class="para-en">Don’t.</p>
 
-<p class="para-vi-sub"><i>Đừng.</i></p>
+<p class="para-vi-sub">Đừng.</p>
 
 <p class="para-en">Thomas did not unsheathe his sword.</p>
 
@@ -86,7 +86,7 @@
 
 <p class="para-vi-sub">Vị bá tước, vẫn cách ba chiều dài ngựa, rướn người về phía trước trên yên ngựa để nhìn chăm chăm vào Thomas. Thomas chưa từng gặp mặt y bao giờ; gã chỉ nhận ra y qua hiệu kỳ. Y là một kẻ to lớn, giống như Thomas, nhưng nét mặt non choẹt và còn rất trẻ, chưa đầy hai mươi lăm tuổi. Vợ gã thực sự đã chung chăn gối với cái tên ranh con này sao?</p>
 
-<p class="para-en"><a id="page296"></a>He was a resplendent puppy, though; that armor was the ransom of a village.</p>
+<p class="para-en">He was a resplendent puppy, though; that armor was the ransom of a village.</p>
 
 <p class="para-vi-sub">Tuy nhiên, y là một tên ranh con lộng lẫy; bộ giáp đó trị giá bằng tiền chuộc cả một ngôi làng.</p>
 
@@ -134,25 +134,25 @@
 
 <p class="para-vi-sub">Tên của con ngựa là gì nhỉ? Thomas mới chỉ cưỡi nó có hai lần.</p>
 
-<p class="para-en"><em>Jibreel, Arab for Gabriel.</em></p>
+<p class="para-en">Jibreel, Arab for Gabriel.</p>
 
-<p class="para-vi-sub"><i>Jibreel, tiếng Ả Rập có nghĩa là Gabriel.</i></p>
+<p class="para-vi-sub">Jibreel, tiếng Ả Rập có nghĩa là Gabriel.</p>
 
-<p class="para-en"><em>Though this was a warhorse, no Arab.</em></p>
+<p class="para-en">Though this was a warhorse, no Arab.</p>
 
-<p class="para-vi-sub"><i>Dù đây là một con chiến mã, không phải ngựa Ả Rập.</i></p>
+<p class="para-vi-sub">Dù đây là một con chiến mã, không phải ngựa Ả Rập.</p>
 
-<p class="para-en"><em>My goddamned horse.</em></p>
+<p class="para-en">My goddamned horse.</p>
 
-<p class="para-vi-sub"><i>Con ngựa chết tiệt của ta.</i></p>
+<p class="para-vi-sub">Con ngựa chết tiệt của ta.</p>
 
-<p class="para-en"><em>And my squire.</em></p>
+<p class="para-en">And my squire.</p>
 
-<p class="para-vi-sub"><i>Và người cận vệ của ta.</i></p>
+<p class="para-vi-sub">Và người cận vệ của ta.</p>
 
-<p class="para-en"><em>André. I hope your dubbing was the best day of your life. How could you serve this bastard now?</em></p>
+<p class="para-en">André. I hope your dubbing was the best day of your life. How could you serve this bastard now?</p>
 
-<p class="para-vi-sub"><i>André. Ta hy vọng nghi thức phong tước của cậu là ngày tuyệt vời nhất trong đời cậu. Sao cậu có thể phục vụ cái tên khốn này bây giờ chứ?</i></p>
+<p class="para-vi-sub">André. Ta hy vọng nghi thức phong tước của cậu là ngày tuyệt vời nhất trong đời cậu. Sao cậu có thể phục vụ cái tên khốn này bây giờ chứ?</p>
 
 <p class="para-en">The squire did not lower his eyes, but those eyes moistened with shame.</p>
 
@@ -162,7 +162,7 @@
 
 <p class="para-vi-sub">Tên to con cầm rìu đã len lỏi áp sát Thomas hơn và giờ đang húc vào người Thomas bằng phần đầu của vũ khí.</p>
 
-<p class="para-en"><a id="page297"></a>“Leave him,” the comte said.</p>
+<p class="para-en">“Leave him,” the comte said.</p>
 
 <p class="para-vi-sub">“Để mặc hắn,” vị bá tước lên tiếng.</p>
 
@@ -174,9 +174,9 @@
 
 <p class="para-vi-sub">Thomas thừa biết tên trẻ tuổi đó đang nghĩ gì: Làm thế nào để rũ bỏ sự dơ bẩn này mà vẫn giữ được vẻ ngoài cao quý? Thomas từng là một người được kính trọng. Ai nấy đều biết rằng lệnh Sự Rút phép Thông công của Thomas là bất công và đất đai của gã đã bị cướp đoạt. Mọi kẻ phục vụ một vị vua hoặc một lãnh chúa đều nhìn vào sự phản bội đối với Thomas và tự hỏi khi nào một tai nạn của lòng trung thành và chiến tranh sẽ khiến họ trở nên dễ bị tổn thương trước một kẻ cơ hội hùng mạnh như d’Évreux.</p>
 
-<p class="para-en"><em>His hands and more were up your wife’s gown she loved it she loved a pretty young man in her bed and he is pretty not a scarred old bullock like you have you seen your ridiculous beard you look like a whoring prophet</em></p>
+<p class="para-en">His hands and more were up your wife’s gown she loved it she loved a pretty young man in her bed and he is pretty not a scarred old bullock like you have you seen your ridiculous beard you look like a whoring prophet</p>
 
-<p class="para-vi-sub"><i>Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa</i></p>
+<p class="para-vi-sub">Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa</p>
 
 <p class="para-en">Thomas blinked his eyes hard to bring him back to now; this was not a time to let his thoughts wander.</p>
 
@@ -186,9 +186,9 @@
 
 <p class="para-vi-sub">“Ngươi muốn gì?” d’Évreux cất lời.</p>
 
-<p class="para-en"><em>Your Christless head lying in the grass for me to kick into that stream.</em></p>
+<p class="para-en">Your Christless head lying in the grass for me to kick into that stream.</p>
 
-<p class="para-vi-sub"><i>Cái đầu lìa cổ của ngươi nằm trên bãi cỏ để Thomas đá xuống con suối kia.</i></p>
+<p class="para-vi-sub">Cái đầu lìa cổ của ngươi nằm trên bãi cỏ để Thomas đá xuống con suối kia.</p>
 
 <p class="para-en">“Justice.”</p>
 
@@ -202,9 +202,9 @@
 
 <p class="para-vi-sub">“Và ta có thể ban cho ngươi loại công lý nào giữa một cánh đồng ở Provence, ngoài lãnh địa của ta?”</p>
 
-<p class="para-en"><em>Some of which are my lands</em></p>
+<p class="para-en">Some of which are my lands</p>
 
-<p class="para-vi-sub"><i>Vài nơi trong số đó là lãnh địa của ta</i></p>
+<p class="para-vi-sub">Vài nơi trong số đó là lãnh địa của ta</p>
 
 <p class="para-en">The crow again.</p>
 
@@ -238,7 +238,7 @@
 
 <p class="para-vi-sub">Tiếng quạ lại vang lên.</p>
 
-<p class="para-en">Now all eyes were on the comte. He had mishandled this—he desperately <a id="page298"></a>wished he had shoved this man aside before he could say his piece; but now the words were hanging there, and none of these men would forget them. Particularly not the young man, recently knighted, who had served as squire to Thomas of Picardy. Chrétien had once delighted in the theft of this man’s fealty, on top of everything else he had taken; but now he thought the former squire’s true allegiance lay where it always had.</p>
+<p class="para-en">Now all eyes were on the comte. He had mishandled this—he desperately wished he had shoved this man aside before he could say his piece; but now the words were hanging there, and none of these men would forget them. Particularly not the young man, recently knighted, who had served as squire to Thomas of Picardy. Chrétien had once delighted in the theft of this man’s fealty, on top of everything else he had taken; but now he thought the former squire’s true allegiance lay where it always had.</p>
 
 <p class="para-vi-sub">Lúc này mọi ánh mắt đều đổ dồn về phía bá tước. Hắn đã xử lý vụ này thật tệ hại; hắn vô cùng ước gì mình đã đẩy quách gã này sang một bên trước khi gã kịp thốt ra lời; nhưng giờ đây những lời đó cứ lơ lửng ở đó, và không ai trong số những kẻ này quên được chúng. Nhất là cậu thanh niên trẻ tuổi vừa mới được phong tước hiệp sĩ, người từng phục vụ làm cận vệ cho Thomas. d’Évreux từng rất đắc ý vì cướp được lòng trung thành của cậu ta, bên cạnh tất cả những thứ khác mà hắn đã chiếm đoạt; nhưng giờ đây hắn nghĩ rằng lòng trung thành thực sự của cựu cận vệ kia vẫn luôn thuộc về nơi cũ.</p>
 
@@ -254,7 +254,7 @@
 
 <p class="para-vi-sub">Giá như con quạ khốn kiếp kia chịu im miệng.</p>
 
-<p class="para-en">“This man is excommunicate,” he declared, “and cut off from honor, and the rights and privileges that come with it…” He felt the gazes on him now, and they were not kind. They weren’t going to let him dismiss this man now that they knew who he was. If Chrétien opened the gates of Jerusalem with one hand and burned down Acre with the other, these men would remember his cowardice here, by this stream, and they would speak of it. His father had been cousin to the king; his blood was royal on his mother’s side, too. He would be king of Navarre when she died. Death was promiscuous now; it was not impossible that the crown of France might fall to him, <em>him</em>, if he had enough support. If he was not thought a coward.</p>
+<p class="para-en">“This man is excommunicate,” he declared, “and cut off from honor, and the rights and privileges that come with it…” He felt the gazes on him now, and they were not kind. They weren’t going to let him dismiss this man now that they knew who he was. If Chrétien opened the gates of Jerusalem with one hand and burned down Acre with the other, these men would remember his cowardice here, by this stream, and they would speak of it. His father had been cousin to the king; his blood was royal on his mother’s side, too. He would be king of Navarre when she died. Death was promiscuous now; it was not impossible that the crown of France might fall to him, him, if he had enough support. If he was not thought a coward.</p>
 
 <p class="para-vi-sub">“Tên này đã bị Sự Rút phép Thông công,” hắn lớn tiếng tuyên bố, “và bị tước đoạt danh dự cùng những quyền lợi, đặc ân đi kèm…” Hắn cảm nhận được những ánh mắt đang đổ dồn vào mình lúc này, và chúng chẳng mấy thiện cảm. Bọn họ sẽ không để hắn phớt lờ gã này một khi đã biết gã là ai. Dù Chrétien có mở được cổng Jerusalem bằng một tay và thiêu trụi Acre bằng tay kia, những kẻ này vẫn sẽ ghi nhớ sự hèn nhát của hắn tại đây, bên con suối này, và họ sẽ bàn tán về nó. Cha hắn là họ hàng của nhà vua; dòng máu hoàng gia cũng chảy trong huyết quản bên phía mẹ hắn. Hắn sẽ là vua xứ Navarre khi bà qua đời. Cái chết giờ đây thật bừa bãi; không loại trừ khả năng vương miện nước Pháp có thể thuộc về hắn, chính là hắn, nếu hắn có đủ sự hậu thuận. Nếu người ta không coi hắn là kẻ hèn nhát.</p>
 
@@ -274,7 +274,7 @@
 
 <p class="para-vi-sub">“Dù vậy đi nữa,” hắn đổi giọng, “ta không muốn bất kỳ ai ở đây nói rằng Bá tước d’Évreux và người thừa kế ngai vàng Navarre lại trốn tránh sau những lời lẽ đó, nhất là trước một kẻ dám lăng mạ hắn trước mặt các bậc quyền quý. Nhiều kẻ đòi công lý nhưng lại hối hận khi nhận được nó, và ngươi cũng sẽ thế thôi.”</p>
 
-<p class="para-en">Don Eduardo de Burgos, the oldest of the four knights, a Spanish vassal of d’Évreux’s father and a veteran of battles with the Moor, <a id="page299"></a>shook his head at the young man’s foolishness. It was always best to avoid a fight that would cost much and gain little. The man in the rusty armor was a serious man.</p>
+<p class="para-en">Don Eduardo de Burgos, the oldest of the four knights, a Spanish vassal of d’Évreux’s father and a veteran of battles with the Moor, shook his head at the young man’s foolishness. It was always best to avoid a fight that would cost much and gain little. The man in the rusty armor was a serious man.</p>
 
 <p class="para-vi-sub">Don Eduardo de Burgos, người lớn tuổi nhất trong số bốn hiệp sĩ, một chư hầu người Tây Ban Nha của cha d’Évreux và là một cựu binh từng giao chiến với người Moor, lắc đầu trước sự ngớ ngẩn của thanh niên. Tốt nhất là luôn tránh một trận chiến tốn kém nhiều thứ mà chẳng thu lại được bao nhiêu. Gã trong bộ giáp gỉ sét kia là một kẻ đáng gờm.</p>
 
@@ -294,7 +294,7 @@
 
 <p class="para-vi-sub">Những kẻ đối đầu bước vào vị trí.</p>
 
-<p class="para-en">Thomas in his bad hauberk, bareheaded, his legs unarmored as his <em>cuisses</em> and greaves had sunk in the Rhône.</p>
+<p class="para-en">Thomas in his bad hauberk, bareheaded, his legs unarmored as his cuisses and greaves had sunk in the Rhône.</p>
 
 <p class="para-vi-sub">Thomas mặc chiếc áo giáp xích tồi tàn, đầu trần, đôi chân để trần vì giáp đùi và giáp ống chân của anh đã chìm nghỉm dưới sông Rhône.</p>
 
@@ -338,7 +338,7 @@
 
 <p class="para-vi-sub">Thomas vẫn không nói gì.</p>
 
-<p class="para-en"><a id="page300"></a>He knew the man would speak again.</p>
+<p class="para-en">He knew the man would speak again.</p>
 
 <p class="para-vi-sub">Anh thừa biết gã này sẽ còn nói tiếp.</p>
 
@@ -382,7 +382,7 @@
 
 <p class="para-vi-sub">“Ngươi sẽ có cơ hội của mình thôi,” tên người Tây Ban Nha nói với vẻ tiếc nuối, “nhưng ta phải đảm bảo giáp của hắn không bị hư hại đến mức không thể tự vệ. Vì điều đó không có sự cao thượng.”</p>
 
-<p class="para-en">He took his time about checking the articulation of the injured man’s armor, giving him plenty of time to catch his breath. Several of <a id="page301"></a>the squires and even the little page were shaking their heads at this, but it continued.</p>
+<p class="para-en">He took his time about checking the articulation of the injured man’s armor, giving him plenty of time to catch his breath. Several of the squires and even the little page were shaking their heads at this, but it continued.</p>
 
 <p class="para-vi-sub">Hắn thong thả kiểm tra các khớp nối trên bộ giáp của kẻ bị thương, cho đối phương thừa thời gian để lấy lại nhịp thở. Vài gã hầu cận và thậm chí cả chú tiểu đồng nhỏ tuổi đều đang lắc đầu ngán ngẩm trước cảnh này, nhưng mọi việc vẫn tiếp diễn.</p>
 
@@ -418,7 +418,7 @@
 
 <p class="para-vi-sub">Thomas không có ý định cho vị bá tước thời gian để đứng dậy trong bộ giáp đó.</p>
 
-<p class="para-en"><a id="page302"></a>He circled now; it was only a matter of seconds before he would see the correct angle for the killing blow.</p>
+<p class="para-en">He circled now; it was only a matter of seconds before he would see the correct angle for the killing blow.</p>
 
 <p class="para-vi-sub">Anh bây giờ lượn vòng quanh; chỉ còn vài giây nữa là anh sẽ tìm thấy góc độ chính xác cho một đòn kết liễu.</p>
 
@@ -462,7 +462,7 @@
 
 <p class="para-vi-sub">Thomas cũng ngã quỵ khi cơn chóng mặt ập đến, giữa lúc khoảng đất trống vang lên tiếng hú và tiếng rít của những mũi tên cắm phập vào mục tiêu, cùng tiếng la hét của những kẻ trúng tên.</p>
 
-<p class="para-en">The last sounds he heard were the brutish grunts and drawls of English as the <em>routiers</em> came out of the trees to finish their work.</p>
+<p class="para-en">The last sounds he heard were the brutish grunts and drawls of English as the routiers came out of the trees to finish their work.</p>
 
 <p class="para-vi-sub">Những âm thanh cuối cùng Thomas nghe thấy là tiếng hừ hừ thô lỗ và giọng kéo dài của người Anh khi lũ lính đánh thuê xông ra từ hàng cây để hoàn tất công việc.</p>
 
@@ -470,7 +470,7 @@
 
 <p class="para-vi-sub">Janus Blount, thủ lĩnh của đám cướp người Anh và Gascony, dẫn đàn em vượt qua hàng cây dốc thoải hướng xuống khoảng đất trống. Lão đã đếm được hai mươi con ngựa trước khi trận chiến bắt đầu, và mười lăm con vẫn đang đứng gần dòng suối, chờ được dắt đi hoặc cưỡi bởi những kẻ giờ đã nằm xuống.</p>
 
-<p class="para-en"><a id="page303"></a>“Shite,” he called, “Who shot the page?”</p>
+<p class="para-en">“Shite,” he called, “Who shot the page?”</p>
 
 <p class="para-vi-sub">“Mẹ kiếp,” lão quát lên, “đứa nào bắn chết đứa hầu rồi?”</p>
 
@@ -478,7 +478,7 @@
 
 <p class="para-vi-sub">Không ai trả lời. Cậu thiếu niên nằm co quắp quanh vết thương trước ngực, vẫn còn thở nhưng đang chết dần. Janus cúi nhìn đứa trẻ đẫm nước mắt đang run lẩy bẩy và nhận ra vết thương của nó đã vô phương cứu chữa. Lão biết có một tu viện với vài tu sĩ vẫn còn sống ở gần đó, nhưng con chim non này đã lún quá sâu để có thể thực hiện chuyến hành trình. Nó sẽ chết trong vài phút nữa, và đó sẽ là những phút dài đằng đẵng. Tên cướp áp lòng bàn tay chai sần lên má mềm mại của cậu thiếu niên và nói: “Xin lỗi nhé, nhóc.” Lão đâm ngập con dao găm tròn dưới xương ức của đứa trẻ, và khi nó cuối cùng nằm bất động, lão dùng ngón cái khép mi mắt nó lại.</p>
 
-<p class="para-en">“Christ!” he roared. “Did you see what I just had to do because of one of you blind pricks? And I’ll do the same to any man that looses on a woman or a child again, understand? You <em>look</em> first. This doesn’t fucking go, you hear?” The thirty Englishmen, many of whom had served under him when he was a centenar under King Edward, all said, “Aye, sir.” His Gascon second in command repeated the order in French, and the dozen Gascons nodded, too.</p>
+<p class="para-en">“Christ!” he roared. “Did you see what I just had to do because of one of you blind pricks? And I’ll do the same to any man that looses on a woman or a child again, understand? You look first. This doesn’t fucking go, you hear?” The thirty Englishmen, many of whom had served under him when he was a centenar under King Edward, all said, “Aye, sir.” His Gascon second in command repeated the order in French, and the dozen Gascons nodded, too.</p>
 
 <p class="para-vi-sub">“Chúa ơi!” lão gầm lên. “Chúng mày có thấy tao vừa phải làm gì chỉ vì một thằng mù dở nào trong lũ chúng mày không? Và tao sẽ làm điều tương tự với bất kỳ kẻ nào còn dám ra tay với phụ nữ hay trẻ em một lần nữa, hiểu chưa? Phải nhìn cho kỹ vào. Trò này đéo được phép làm thế, nghe rõ chưa?” Ba mươi tên lính Anh, nhiều kẻ từng phục vụ dưới quyền lão khi lão làm đội trưởng dưới thời Vua Edward, đồng thanh đáp: “Vâng, thưa ngài.” Tên phó tướng người Gascony của lão lặp lại mệnh lệnh bằng tiếng Pháp, và chục tên lính Gascony cũng gật đầu.</p>
 
@@ -494,19 +494,19 @@
 
 <p class="para-vi-sub">Bộ râu ấy.</p>
 
-<p class="para-en"><em>“Attends!”</em> he said.</p>
+<p class="para-en">“Attends!” he said.</p>
 
-<p class="para-vi-sub"><i>“Attends!”</i> lão nói.</p>
+<p class="para-vi-sub">“Attends!” lão nói.</p>
 
 <p class="para-en">The Gascon looked at him, still holding a fistful of greasy longish hair, so comfortable with killing that he might as well have been holding a flower he was about to be asked not to gather.</p>
 
 <p class="para-vi-sub">Tên người Gascony nhìn lão, tay vẫn nắm một búi tóc bết mồ hôi và dầu mỡ, thản nhiên với việc giết chóc như thể hắn đang cầm một bông hoa và chuẩn bị được yêu cầu đừng hái nó.</p>
 
-<p class="para-en"><em>“Je regards son visage,”</em> Blount said.</p>
+<p class="para-en">“Je regards son visage,” Blount said.</p>
 
-<p class="para-vi-sub"><i>“Je regarde son visage,”</i> Blount nói.</p>
+<p class="para-vi-sub">“Je regarde son visage,” Blount nói.</p>
 
-<p class="para-en"><a id="page304"></a>The Gascon lifted the head higher, the eyes in it rolling white.</p>
+<p class="para-en">The Gascon lifted the head higher, the eyes in it rolling white.</p>
 
 <p class="para-vi-sub">Tên người Gascony kéo ngược đầu gã kia lên cao hơn, tròng mắt đảo ngược lộ rõ tròng trắng.</p>
 
@@ -518,7 +518,7 @@
 
 <p class="para-vi-sub">Tên người Pháp vạm vỡ đã bước vào Tiệm Tắm Vòm Cổng tựa như một con gấu chết tiệt và khiến tất cả bọn chúng sợ suýt tè ra quần. Gã hoàn toàn có thể giết một nửa số bọn chúng, thậm chí là tất cả, nhưng lại không làm thế.</p>
 
-<p class="para-en">Blount had no idea what had stayed the Frenchy’s hand, but <em>quid pro quo</em> was one of the few Latin terms he knew and he was a big believer in it.</p>
+<p class="para-en">Blount had no idea what had stayed the Frenchy’s hand, but quid pro quo was one of the few Latin terms he knew and he was a big believer in it.</p>
 
 <p class="para-vi-sub">Blount không tài nào hiểu nổi điều gì đã ngăn cản tay gã người Pháp, nhưng nguyên lý có qua có lại là một trong số ít thuật ngữ tiếng Latinh mà lão biết và lão cực kỳ tin tưởng vào điều đó.</p>
 
@@ -526,11 +526,11 @@
 
 <p class="para-vi-sub">“Không phải hắn,” lão nói. Sau đó, phòng hờ có kẻ khác bất ngờ sà tới, lão hét lớn và chỉ tay xuống gã đàn ông.</p>
 
-<p class="para-en"><em>Not him.</em></p>
+<p class="para-en">Not him.</p>
 
-<p class="para-vi-sub"><i>Không phải hắn.</i></p>
+<p class="para-vi-sub">Không phải hắn.</p>
 
-<p class="para-en">Now the <em>routiers</em> killed the rest, took their money and horses, and melted back into the woods.</p>
+<p class="para-en">Now the routiers killed the rest, took their money and horses, and melted back into the woods.</p>
 
 <p class="para-vi-sub">Giờ thì lũ lính đánh thuê đã kết liễu số còn lại, lấy đi tiền bạc cùng những con ngựa rồi hòa mình biến mất vào những tán rừng.</p>
 
@@ -578,7 +578,7 @@
 
 <p class="para-vi-sub">Delphine đã nhóm một đống lửa thật đẹp và ấm áp bằng củi cây bụi gai đen, và trên ngọn lửa ấy, cô bé đang luộc cỏ xạ hương, củ cải đường cùng cải Thụy Sĩ bên trong chiếc mũ vành rộng của lính đánh thuê. Gã nghe thấy một âm thanh thoạt đầu có vẻ rất đỗi tự nhiên, nhưng sau đó gã chợt nhận ra đó là một âm thanh kỳ diệu.</p>
 
-<p class="para-en"><a id="page305"></a>A horse’s whinny.</p>
+<p class="para-en">A horse’s whinny.</p>
 
 <p class="para-vi-sub">Tiếng ngựa hí.</p>
 
@@ -662,7 +662,7 @@
 
 <p class="para-vi-sub">“Ôi mẹ kiếp,” gã lẩm bẩm.</p>
 
-<p class="para-en">“You’re not <em>that</em> different, are you?”</p>
+<p class="para-en">“You’re not that different, are you?”</p>
 
 <p class="para-vi-sub">“Chú cũng đâu có khác biệt đến thế, phải không?”</p>
 
@@ -694,7 +694,7 @@
 
 <p class="para-vi-sub">“Cháu bắt đầu có ngực rồi đấy.”</p>
 
-<p class="para-en"><a id="page306"></a>She shook her head slowly at him.</p>
+<p class="para-en">She shook her head slowly at him.</p>
 
 <p class="para-vi-sub">Delphine chậm rãi lắc đầu nhìn gã.</p>
 
@@ -790,7 +790,7 @@
 
 <p class="para-vi-sub">Thomas lại chần chừ, và cô bé kiên nhẫn chờ đợi.</p>
 
-<p class="para-en"><a id="page307"></a>“My wife,” he said.</p>
+<p class="para-en">“My wife,” he said.</p>
 
 <p class="para-vi-sub">“Vợ chú,” gã nói.</p>
 
@@ -886,7 +886,7 @@
 
 <p class="para-vi-sub">“Đợi đã,” gã nói. “Delphine.”</p>
 
-<p class="para-en"><a id="page308"></a>She looked at him with that drowsy look he had come to dread; the look that meant she was about to speak words that weren’t her own.</p>
+<p class="para-en">She looked at him with that drowsy look he had come to dread; the look that meant she was about to speak words that weren’t her own.</p>
 
 <p class="para-vi-sub">Cô bé nhìn gã với ánh mắt lờ đờ mà Thomas đã bắt đầu thấy sợ; ánh mắt báo hiệu rằng em sắp thốt ra những lời không phải của chính mình.</p>
 
@@ -906,18 +906,18 @@
 
 <p class="para-vi-sub">Thomas nhắm nghiền mắt lại và hình dung ra khuôn mặt sưng húp vì bị côn trùng đốt của vị linh mục, đang mỉm cười yếu ớt khi nghĩ về người anh trai của ông.</p>
 
-<p class="para-en"><em>If you see Robert, tell him</em></p>
+<p class="para-en">If you see Robert, tell him</p>
 
-<p class="para-vi-sub"><i>Nếu gặp Robert, hãy nhắn với anh ấy</i></p>
+<p class="para-vi-sub">Nếu gặp Robert, hãy nhắn với anh ấy</p>
 
-<p class="para-en"><em>Tell him</em></p>
+<p class="para-en">Tell him</p>
 
-<p class="para-vi-sub"><i>Hãy nhắn rằng</i></p>
+<p class="para-vi-sub">Hãy nhắn rằng</p>
 
-<p class="para-en"><em>I don’t know</em></p>
+<p class="para-en">I don’t know</p>
 
-<p class="para-vi-sub"><i>Tôi không biết</i></p>
+<p class="para-vi-sub">Tôi không biết</p>
 
-<p class="para-en"><em>Do you forgive her?</em></p>
+<p class="para-en">Do you forgive her?</p>
 
 <p class="para-vi-sub">Thomas có tha thứ cho cô bé không?</p>

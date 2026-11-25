@@ -6,25 +6,25 @@ Cậu thiếu niên phục vụ cho vị y sư của Đức Giáo Hoàng thức 
 
 Đây là cơn ác mộng tồi tệ nhất từ trước tới nay.
 
-Cậu rướn người lại gần để quan sát, nhưng cẩn thận không để sáp nến nhỏ lên đôi má đầy đặn hay chiếc mũi to của người đàn ông. Việc đó sẽ giống như câu chuyện mà ông từng kể cho cậu nghe về một người phụ nữ tò mò đã xua đuổi một vị thiên thần. Có phải là thiên thần không? Có lẽ chỉ là một cậu bé có đôi cánh. Vị <i>maître</i> đã kể cho cậu quá nhiều câu chuyện đến mức cậu không thể nhớ rạch ròi tất cả.
+Cậu rướn người lại gần để quan sát, nhưng cẩn thận không để sáp nến nhỏ lên đôi má đầy đặn hay chiếc mũi to của người đàn ông. Việc đó sẽ giống như câu chuyện mà ông từng kể cho cậu nghe về một người phụ nữ tò mò đã xua đuổi một vị thiên thần. Có phải là thiên thần không? Có lẽ chỉ là một cậu bé có đôi cánh. Vị maître đã kể cho cậu quá nhiều câu chuyện đến mức cậu không thể nhớ rạch ròi tất cả.
 
-<i>“Maître?”</i> cậu cất lời, nhưng rất khẽ.
+“Maître?” cậu cất lời, nhưng rất khẽ.
 
-Cậu đã học được cách không đánh thức ông trong những lúc như thế này, nhưng cậu rất muốn chấm dứt giấc mơ cụ thể ấy. Con người có chết vì những giấc mơ không? Cậu sẽ cố gắng nhớ để hỏi bác sĩ vào buổi sáng. Tuy nhiên, không phải tối nay, cậu thầm nghĩ. Cậu đứng đó với ngọn nến sẵn sàng soi đường cho bất cứ thứ gì vị <i>maître</i> có thể yêu cầu.
+Cậu đã học được cách không đánh thức ông trong những lúc như thế này, nhưng cậu rất muốn chấm dứt giấc mơ cụ thể ấy. Con người có chết vì những giấc mơ không? Cậu sẽ cố gắng nhớ để hỏi bác sĩ vào buổi sáng. Tuy nhiên, không phải tối nay, cậu thầm nghĩ. Cậu đứng đó với ngọn nến sẵn sàng soi đường cho bất cứ thứ gì vị maître có thể yêu cầu.
 
-<i>Rượu,</i> cậu bé nghĩ.
+Rượu, cậu bé nghĩ.
 
-<i>Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.</i>
+Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.
 
-<i>Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.</i>
+Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.
 
-<i>Hãy rót rượu đi, Tristan.</i>
+Hãy rót rượu đi, Tristan.
 
 Cậu cầm một chiếc cốc nhỏ tráng men trên kệ và rót rượu từ một chiếc bình thiếc có ba chân gà. Cậu rất thích chiếc bình đó, cũng như rất thích mùi hương của rượu. Dù vậy, dạo gần đây thì không hẳn. Có gì đó không ổn, giống như một chút mùi thối rữa. Phải chăng họ đã đợi quá muộn mới thu hoạch nho? Cậu từng làm phụ việc cho một thợ làm bánh, và từng nghĩ đến chuyện phấn đấu để trở thành quản gia kiêm trông coi hầm trái cây của Đức Giáo Hoàng nằm dưới chân tháp nhà bếp, bởi cậu rất giỏi trong việc đánh hơi thấy sự mục rữa. Mẹ cậu nói rằng cậu sở hữu chiếc mũi của một chú chó. Nhưng vị bác sĩ vĩ đại đã nhận ra cậu là một đứa trẻ lanh lợi thế nào và kéo cậu rời khỏi nhà bếp để thay thế cho người phụ việc trước đó đã chết vì bệnh dịch hạch.
 
 Thực ra, ba trợ lý của bác sĩ đã chết vì bệnh dịch hạch, nhưng vị bác sĩ nhân hậu thì chưa từng mắc phải.
 
-<i>Vẫn chưa,</i> ông hẳn đã đính chính như vậy. Hoặc ông có thể đã nói <i>insh’allah</i>, một từ mà cậu học được từ các văn bản tiếng Ả Rập. Nó có nghĩa đại loại như <i>Nguyện xin ơn trên chứng giám</i>, nhưng Tristan không hiểu tại sao ông không nói thẳng như thế cho rồi.
+Vẫn chưa, ông hẳn đã đính chính như vậy. Hoặc ông có thể đã nói insh’allah, một từ mà cậu học được từ các văn bản tiếng Ả Rập. Nó có nghĩa đại loại như Nguyện xin ơn trên chứng giám, nhưng Tristan không hiểu tại sao ông không nói thẳng như thế cho rồi.
 
 “Tristan.”
 
@@ -32,7 +32,7 @@ Vị bác sĩ lúc này đã ngồi dậy, đôi mắt to thân thiện của ô
 
 “Tristan, giúp ta mặc y phục.”
 
-“Vâng, thưa <i>maître</i>. Ngài có chắc không? Vẫn còn lâu mới đến sáng.”
+“Vâng, thưa maître. Ngài có chắc không? Vẫn còn lâu mới đến sáng.”
 
 “Cứ chuẩn bị quần áo giúp ta, làm ơn.”
 
@@ -62,11 +62,11 @@ Giờ thì họ lại rời đi, cậu bé vội vã rảo bước để theo k�
 
 Một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.
 
-<i>Hầm ngục.</i>
+Hầm ngục.
 
-<i>Đây chính là hầm ngục.</i>
+Đây chính là hầm ngục.
 
-<i>Họ nhốt những tên trộm và phù thủy ở đây.</i>
+Họ nhốt những tên trộm và phù thủy ở đây.
 
 Tristan vốn đặt trọn niềm tin sâu sắc vào Maître de Chauliac, nên mãi cho đến khoảnh khắc ấy, cậu mới cảm thấy sợ hãi.
 
@@ -98,7 +98,7 @@ Sournois tiến lại gần vị bác sĩ hơn, nhưng vị bác sĩ không hề
 
 Vị bác sĩ nhận thức rõ lớp mồ hôi lạnh bắt đầu túa ra bên dưới lớp áo choàng.
 
-<i>Xin chớ đến lúc này, làm ơn đừng đến lúc này,</i> insh’allah.
+Xin chớ đến lúc này, làm ơn đừng đến lúc này, insh’allah.
 
 “Còn ta có lệnh từ vị Clement nhân từ rằng d’Évreux phải rời đi cùng ta. Chắc ngươi nhận ra con dấu đó chứ,” vị bác sĩ nói, đồng thời trao tờ giấy da cho đối phương, người đã nhận ra tên mình ở mặt ngoài và bẻ gãy con dấu.
 

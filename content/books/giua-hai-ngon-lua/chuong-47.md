@@ -1,6 +1,6 @@
 *Phần V*
 
-# Chương Bốn Mươi Hai: Về CuộcCàn Quét Địa Ngục
+# Chương Bốn Mươi Hai: Về Cuộc Càn Quét Địa Ngục
 
 Thomas quên mất tên mình. Việc gã đã ở đó bao lâu chẳng còn mang chút ý nghĩa nào nữa. Gã bị ném từ cực hình này sang cực hình khác, bắt đầu bằng nỗi đau thể xác rồi chuyển thành tan nát cõi lòng; gã bị lột da rồi bắt phải kéo tấm da của chính mình đi phía sau, sau đó lại bị ép phải tự khâu tấm da ấy vào người, với thứ bùn đất và sỏi đá mà nó đã vơ vét nay nằm ngổn ngang bên dưới; gã bị xé tơi ra từng mảnh nhỏ, bị nhồi đầy gai nhọn rồi buộc phải khạc chúng ra, bị nhồi nhét chung với những đám đông trần truồng rồi bị luộc sôi, bị ép phải tranh giành từng ngụm nước mát hay một thoáng nhìn thấy bầu trời, và khi bọn chúng nhận ra Thomas thích đấu tranh, bọn chúng liền bắt gã phải chiến đấu hết lần này đến lần khác vì mọi thứ, suốt nhiều năm trời, cho đến khi ngay cả cơn giận dữ của gã cũng bị bẻ gãy, để rồi gã chỉ biết khóc lóc và khuất phục khi đối mặt; gã bị phản bội và sát hại bởi những kẻ gã yêu thương, rồi lại bị bắt phải sát hại và phản bội họ, rồi báng bổ họ, phanh thây họ, nôn mửa họ ra. Chẳng có gì là không bị bỏ sót.
 
@@ -72,13 +72,13 @@ Thứ từng là Thomas cất tiếng kêu khàn đục qua cái miệng há h�
 
 Thomas chưa từng chứng kiến cảnh tượng nào đẹp đẽ đến thế; gã đã quên mất vẻ đẹp thực sự là gì.
 
-<i>Lại một sự phản bội nữa</i>
+Lại một sự phản bội nữa
 
-<i>Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức</i>
+Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức
 
-<i>Và ký ức chính là nỗi đau</i>
+Và ký ức chính là nỗi đau
 
-<i>Sự thật duy nhất ở chốn này</i>
+Sự thật duy nhất ở chốn này
 
 Thomas nhắm nghiền mắt lại trước bọn chúng và chờ đợi những đợt tra tấn tiếp theo bắt đầu. Gã cảm nhận được sự ấm áp từ Delphine đang đến gần hơn, quỳ xuống ngay trước mặt gã.
 
@@ -104,23 +104,23 @@ Thomas nổi giận.
 
 Thomas mở mắt, và Delphine vẫn ở đó.
 
-<i>TA NHÌN THẤY MÀY ĐỒ KHỐN</i>
+TA NHÌN THẤY MÀY ĐỒ KHỐN
 
 Thomas nhổ nước bọt vào mặt Delphine và cô bé mỉm cười.
 
-<i>Ta hiểu mà.</i>
+Ta hiểu mà.
 
-<i>Biến đi.</i>
+Biến đi.
 
-<i>Không thể thiếu ngươi được, Thomas.</i>
+Không thể thiếu ngươi được, Thomas.
 
-<i>Mày vừa gọi tao là gì?</i>
+Mày vừa gọi tao là gì?
 
-<i>Tên của ngươi. Ngươi có muốn nghe lại lần nữa không?</i>
+Tên của ngươi. Ngươi có muốn nghe lại lần nữa không?
 
-<i>Tao không sập bẫy đâu.</i>
+Tao không sập bẫy đâu.
 
-<i>Ta sẽ đợi.</i>
+Ta sẽ đợi.
 
 Những sinh vật ghê rợn gầm rú sau lưng Delphine, chồm lên cắn xé, nhưng chẳng con nào dám bước vào thứ ánh sáng tỏa ra bao bọc lấy cô bé và chiếc xe bò. Thomas trân trân nhìn Delphine suốt một ngày một đêm, hoặc có vẻ như dài đằng đẵng là thế ở chốn này, nơi thời gian đã bị đày ải đến mức chẳng còn hình thù gì nữa.
 
@@ -130,17 +130,17 @@ Những thứ gớm ghiếc xung quanh ngừng gầm rú, quay phắt lại nhì
 
 Sáu vị vương công Địa Ngục, mỗi kẻ cao bằng bức tường thành bên ngoài, giáng xuống từ vòm trời, mang theo thi thể đang bốc khói của một vị thiên thần đẹp đến mức vượt quá sức tưởng tượng của con người, tấm thân rũ rượi buông thõng như một vị tử đạo trong vòng tay chúng khi chúng nghiến ken két hàm răng rồi mang người lao xuống qua lòng đất, tiến thẳng vào những hầm mộ sâu thẳm nhất, kín đáo nhất và an toàn nhất của Địa Ngục.
 
-<i>Làn da tái nhợt của vị thiên thần.</i>
+Làn da tái nhợt của vị thiên thần.
 
-<i>Đôi cánh của người bốc khói hệt như tờ giấy sắp bén lửa.</i>
+Đôi cánh của người bốc khói hệt như tờ giấy sắp bén lửa.
 
-<i>Lucifer đã sa ngã.</i>
+Lucifer đã sa ngã.
 
-<i>Mammon giờ là Chúa tể ở đây.</i>
+Mammon giờ là Chúa tể ở đây.
 
 Cuối cùng, Delphine nhìn thấy một tia tin tưởng le lói xuất hiện trong đôi mắt của Thomas.
 
-<i>Ngươi đã sẵn sàng chưa?</i>
+Ngươi đã sẵn sàng chưa?
 
 Thomas gật đầu.
 
@@ -150,57 +150,57 @@ Delphine hà hơi vào đôi bàn tay Thomas để sưởi ấm sự sống tr�
 
 Cô bé mang hương thơm của gỗ tuyết tùng và của biển cả.
 
-<i>Ngài là Ngài ấy.</i>
+Ngài là Ngài ấy.
 
-<i>Chẳng có ngài ấy hay cô ấy nào cả.</i>
+Chẳng có ngài ấy hay cô ấy nào cả.
 
-<i>Tại sao ngài không hiện diện trong hình hài mà con có thể nhận ra?</i>
+Tại sao ngài không hiện diện trong hình hài mà con có thể nhận ra?
 
-<i>Ta đã đến trong hình hài mà con sẽ đi theo ta. Ta đã đến trong hình hài mà con sẽ yêu thương ta bằng sự ngây thơ thuần khiết.</i>
+Ta đã đến trong hình hài mà con sẽ đi theo ta. Ta đã đến trong hình hài mà con sẽ yêu thương ta bằng sự ngây thơ thuần khiết.
 
-<i>Tại sao lại là con?</i>
+Tại sao lại là con?
 
-<i>Câu hỏi đó chưa từng có ai trả lời mà làm vừa lòng tất cả. Nhưng con là kẻ cuối cùng. Kẻ cuối cùng mà ta vẫn còn có thể cứu vãn.</i>
+Câu hỏi đó chưa từng có ai trả lời mà làm vừa lòng tất cả. Nhưng con là kẻ cuối cùng. Kẻ cuối cùng mà ta vẫn còn có thể cứu vãn.
 
-<i>Nhưng đây lại là Địa Ngục. Con đang ở đây mà.</i>
+Nhưng đây lại là Địa Ngục. Con đang ở đây mà.
 
-<i>Sẽ không lâu đâu.</i>
+Sẽ không lâu đâu.
 
-<i>Con đã bị đọa đày.</i>
+Con đã bị đọa đày.
 
-<i>Không còn nữa.</i>
+Không còn nữa.
 
 Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn anh.
 
-<i>Ta muốn hỏi ngươi một câu, Thomas.</i>
+Ta muốn hỏi ngươi một câu, Thomas.
 
-<i>Được.</i>
+Được.
 
-<i>Ngươi có muốn nhớ lại không?</i>
+Ngươi có muốn nhớ lại không?
 
 Đôi mắt Thomas ngấn lệ và anh lắc đầu, khuôn mặt méo mó vì sắp nức nở.
 
-<i>Không phải Địa Ngục. Ý ta là ta. Là chúng ta.</i>
+Không phải Địa Ngục. Ý ta là ta. Là chúng ta.
 
-<i>Con bé ư?</i>
+Con bé ư?
 
-<i>Cô bé ấy. Delphine.</i>
+Cô bé ấy. Delphine.
 
-<i>Tôi không biết. Ngài là gì?</i>
+Tôi không biết. Ngài là gì?
 
-<i>Ta từng là hai thực thể hòa làm một. Rồi thành một. Giờ lại là hai, tách rời nhau.</i>
+Ta từng là hai thực thể hòa làm một. Rồi thành một. Giờ lại là hai, tách rời nhau.
 
-<i>Tôi không hiểu.</i>
+Tôi không hiểu.
 
-<i>Ngươi không cần phải hiểu. Ngươi chỉ cần nói có hoặc không. Nhưng sẽ khó khăn hơn cho ngươi nếu ngươi nhớ lại. Tình yêu luôn luôn khó khăn hơn thế. Tình yêu đồng nghĩa với việc gánh chịu những đòn roi vì người khác mà chẳng màng đếm xỉa. Tình yêu là sự đánh mất bản ngã, đánh mất đối phương, và là niềm tin đối diện với mất mát.</i>
+Ngươi không cần phải hiểu. Ngươi chỉ cần nói có hoặc không. Nhưng sẽ khó khăn hơn cho ngươi nếu ngươi nhớ lại. Tình yêu luôn luôn khó khăn hơn thế. Tình yêu đồng nghĩa với việc gánh chịu những đòn roi vì người khác mà chẳng màng đếm xỉa. Tình yêu là sự đánh mất bản ngã, đánh mất đối phương, và là niềm tin đối diện với mất mát.
 
 Đôi mắt xám ấy.
 
 Đôi mắt xám ấy thấu suốt từng ngóc ngách trong tâm hồn Thomas, ôm ấp cả những phần mạnh mẽ lẫn những phần yếu đuối bằng một sự bao dung đồng điệu.
 
-<i>Có.</i>
+Có.
 
-<i>Tôi đồng ý.</i>
+Tôi đồng ý.
 
 Delphine bước lên phía trước xe bò và cầm lấy dây cương.
 

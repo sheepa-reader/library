@@ -46,7 +46,7 @@ Thomas vuốt lại mái tóc được cắt tỉa sát da đầu vốn chẳng 
 
 Cả bàn tiệc bên dưới bật cười phá lên.
 
-“Don Eduardo de Burgos đâu rồi?” một kẻ khác gào lên. “Hắn sẽ dùng rượu <i>jerez</i> để tống sạch thứ đó ra khỏi người ngài cho xem!”
+“Don Eduardo de Burgos đâu rồi?” một kẻ khác gào lên. “Hắn sẽ dùng rượu jerez để tống sạch thứ đó ra khỏi người ngài cho xem!”
 
 Thomas nuốt khan khi nghe câu nói đó.
 
@@ -98,13 +98,13 @@ Delphine ôm chặt lấy chiếc hộp đựng Mũi giáo Thánh.
 
 Thomas cầm lấy thanh kiếm còn Delphine trừng mắt lắc đầu nhìn anh.
 
-<i>Vậy phải làm sao?</i> anh thì thầm.
+Vậy phải làm sao? anh thì thầm.
 
-<i>Con không biết, nhưng tuyệt đối không phải cách đó!</i>
+Con không biết, nhưng tuyệt đối không phải cách đó!
 
 Gã đàn ông bên ngoài lao người tông vào cánh cửa; đó là một cánh cửa mới và được đóng rất chắc chắn.
 
-“Nếu mày buộc tao phải dùng rìu chặt nát cái thứ khốn kiếp này, mày sẽ không thể tự bước chân ra khỏi đây đâu. <i>Mở cửa ra!</i>”
+“Nếu mày buộc tao phải dùng rìu chặt nát cái thứ khốn kiếp này, mày sẽ không thể tự bước chân ra khỏi đây đâu. Mở cửa ra!”
 
 Đôi mắt Delphine trở nên nặng trĩu.
 
@@ -124,27 +124,27 @@ Anh phải để bọn chúng bắt giữ.
 
 “Hãy để bọn chúng bắt ngài đi,” cô bé nghe thấy chính mình cất lời.
 
-<i>Hãy để bọn chúng bắt con đi, Peter.</i>
+Hãy để bọn chúng bắt con đi, Peter.
 
-<i>Đi nào, Delphine.</i>
+Đi nào, Delphine.
 
-<i>Tai hắn đứt rồi kìa! Tai hắn đấy!</i>
+Tai hắn đứt rồi kìa! Tai hắn đấy!
 
 Cô bé nhắm nghiền mắt lại.
 
-<i>Còn Thomas thì sao!</i>
+Còn Thomas thì sao!
 
 Cô bé ngửi thấy mùi hương hoa.
 
-<i>Lại một mùi hương nữa.</i>
+Lại một mùi hương nữa.
 
-<i>Nồng nàn hơn của con bé.</i>
+Nồng nàn hơn của con bé.
 
-<i>Nó sẽ bảo vệ con bé.</i>
+Nó sẽ bảo vệ con bé.
 
-<i>CÒN THOMAS THÌ SAO?</i>
+CÒN THOMAS THÌ SAO?
 
-<i>Đi thôi, Vầng trăng nhỏ của ta.</i>
+Đi thôi, Vầng trăng nhỏ của ta.
 
 Cô bé lộn người lao ra khỏi khung cửa sổ.
 
@@ -166,25 +166,25 @@ Thomas rút gươm.
 
 Cô bé quay mặt đi khỏi anh.
 
-Rồi cô bé lộn người lao qua cửa sổ, nhưng anh chưa từng nghe thấy tiếng cô bé chạm đất.
+Rồi cô bé lộn người lao qua cửa sổ, nhưng anh chưa từng nghe thấy tiếng cô bé rơi xuống đất.
 
 Anh cứ ngỡ mình nghe thấy tiếng vỗ cánh.
 
 Thomas lao thẳng vào gã vừa phá cửa xông vào, định bụng húc ngã hắn, với hy vọng sẽ tóm được một tên nhỏ con hơn ở phía sau. Anh lao vào tên lính to lớn, nhưng lực va chạm vẫn chưa đủ mạnh.
 
-<i>Ta cứ tưởng đã tóm được hắn</i>
+Ta cứ tưởng đã tóm được hắn
 
-<i>Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa</i>
+Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa
 
 Gã đàn ông lảo đảo ngã ngửa vào tường nhưng nhanh chóng lấy lại thăng bằng, vung phần chuôi rìu nện thẳng vào mặt d’Évreux, làm gãy rụng cả răng.
 
-<i>Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA</i>
+Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA
 
 Thomas ngã gục.
 
 Anh quơ tay tìm kiếm thanh kiếm của mình, nhưng chẳng thấy đâu.
 
-<i>LẠY CHÚA</i>
+LẠY CHÚA
 
 Bọn chúng lại giáng đòn lên người anh.
 

@@ -18,9 +18,9 @@
 
 <p class="para-vi-sub">Khuôn mặt Thomas tối sầm lại khi nhớ đến vị hiệp sĩ cùng đoàn tùy tùng từng đi lướt qua họ gần Auxerre.</p>
 
-<p class="para-en"><em>A devil and a host of the dead</em></p>
+<p class="para-en">A devil and a host of the dead</p>
 
-<p class="para-vi-sub"><i>Một con quỷ và một binh đoàn người chết.</i></p>
+<p class="para-vi-sub">Một con quỷ và một binh đoàn người chết.</p>
 
 <p class="para-en">“Some face you pull. Do you not love the thought of Jerusalem in Christian hands again? It might be just the thing to quench God’s wrath at us.”</p>
 
@@ -30,7 +30,7 @@
 
 <p class="para-vi-sub">“Về chuyện đó,” Thomas nói. “Chúng ta đã làm gì khiến Chúa nổi giận đến thế? Chúng ta đã làm gì mà cha ông chúng ta chưa từng làm?”</p>
 
-<p class="para-en"><a id="page256"></a>“They were punished, too. The year I was born, the famine near made my mother’s milk dry.”</p>
+<p class="para-en">“They were punished, too. The year I was born, the famine near made my mother’s milk dry.”</p>
 
 <p class="para-vi-sub">“Họ cũng bị trừng phạt mà. Năm ta ra đời, nạn đói suýt làm sữa mẹ ta khô cạn.”</p>
 
@@ -66,9 +66,9 @@
 
 <p class="para-vi-sub">“Tình cảm binh đao,” vị linh mục nói.</p>
 
-<p class="para-en">“Fellowship will do,” said Guillaume, nodding his head at the priest as if to say, <em>Can you believe him?</em> Then Thomas was struck funny and laughed, looking not at the priest but at Guillaume.</p>
+<p class="para-en">“Fellowship will do,” said Guillaume, nodding his head at the priest as if to say, Can you believe him? Then Thomas was struck funny and laughed, looking not at the priest but at Guillaume.</p>
 
-<p class="para-vi-sub">“Tình đồng chí là đủ rồi,” Guillaume nói, gật đầu về phía cha Matthieu như muốn bảo rằng, <i>ngươi có tin nổi ông ta không?</i> Thế rồi Thomas chợt thấy buồn cười và phá lên cười, ánh mắt không nhìn cha Matthieu mà hướng về Guillaume.</p>
+<p class="para-vi-sub">“Tình đồng chí là đủ rồi,” Guillaume nói, gật đầu về phía cha Matthieu như muốn bảo rằng, ngươi có tin nổi ông ta không? Thế rồi Thomas chợt thấy buồn cười và phá lên cười, ánh mắt không nhìn cha Matthieu mà hướng về Guillaume.</p>
 
 <p class="para-en">The priest laughed, too.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-vi-sub">“Cho dù chúng ta có tồi tệ đi chăng nữa…” Thomas nói, nhưng Guillaume đã ngắt lời.</p>
 
-<p class="para-en"><a id="page257"></a>“<em>Everyone</em> is wicked.”</p>
+<p class="para-en">“Everyone is wicked.”</p>
 
 <p class="para-vi-sub">“Ai cũng tồi tệ cả.”</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-vi-sub">“Ta chuẩn bị chèo cái dầm đĩ thõa của ta đây,” người lính nói.</p>
 
-<p class="para-en"><a id="page258"></a>“Me too,” said the knight.</p>
+<p class="para-en">“Me too,” said the knight.</p>
 
 <p class="para-vi-sub">“Ta cũng vậy,” Thomas hưởng ứng.</p>
 
@@ -222,7 +222,7 @@
 
 <p class="para-vi-sub">Vào cuối ngày thứ ba sau trận chiến, đúng lúc chập tối, họ đến một con đập chắn ngang sông. Ban đầu, trông nó giống như thứ gì đó do con người tạo nên bằng những khúc gỗ, nhưng khi tiến lại gần hơn, rõ ràng vật cản ấy chủ yếu được cấu thành từ xác bò, cừu, cùng thi thể của cả đàn ông lẫn phụ nữ. Cá chết, chất thành từng đống, cũng lấp lánh dưới những tia nắng cuối cùng của ngày.</p>
 
-<p class="para-en">“How the Christ are we to get around <em>that</em>?” Thomas said.</p>
+<p class="para-en">“How the Christ are we to get around that?” Thomas said.</p>
 
 <p class="para-vi-sub">Thomas thốt lên: “Chúa ơi, làm thế nào mà chúng ta vượt qua cái thứ đó được đây?”</p>
 
@@ -262,7 +262,7 @@
 
 <p class="para-vi-sub">Delphine rên rỉ và cầm lấy chiếc hộp hình ống sáo đeo trước ngực, bật mở những chiếc bản lề nhỏ xíu. Cha Matthieu làm dấu thánh rồi nhìn qua mạn thuyền; một vật gì đó trắng bệch đang nhấp nhô ngay bên dưới mặt nước, và dường như một chất dịch nhờn đục ngầu đã kết thành những sợi dài. Thứ đó chính là thứ đang giữ chiếc bè; chính là thứ đang kéo nó lại gần.</p>
 
-<p class="para-en">Other white things bobbed as well; one of them now rushed past <a id="page259"></a>the vessel, and the priest saw it was a sheep’s head—but the head was encased in a kind of gelatinous creature the size and shape of a large basket; it pulsed itself to move, opening and closing itself like a flower, its rim fringed with reddish purple tendrils that trailed behind it.</p>
+<p class="para-en">Other white things bobbed as well; one of them now rushed past the vessel, and the priest saw it was a sheep’s head—but the head was encased in a kind of gelatinous creature the size and shape of a large basket; it pulsed itself to move, opening and closing itself like a flower, its rim fringed with reddish purple tendrils that trailed behind it.</p>
 
 <p class="para-vi-sub">Những vật thể trắng bệch khác cũng đang nhấp nhô; một trong số chúng lúc này lao vụt qua con thuyền, và cha Matthieu nhìn thấy đó là đầu của một con cừu, nhưng phần đầu lại bị bao bọc trong một sinh vật dạng thạch có kích thước và hình dáng tương tự một chiếc giỏ lớn; nó tự co thắt để di chuyển, mở ra rồi khép lại như một đóa hoa, viền xung quanh được tua tủa những xúc tu màu tía đỏ kéo lê phía sau.</p>
 
@@ -306,13 +306,13 @@
 
 <p class="para-vi-sub">Anh không còn thời gian nữa.</p>
 
-<p class="para-en"><a id="page260"></a>The tendrils yanked harder, pulling the raft at a sharper angle, causing some of their cargo to slide forward. A case of weapons slid into the water; now the wrapped salt cases were moving, too.</p>
+<p class="para-en">The tendrils yanked harder, pulling the raft at a sharper angle, causing some of their cargo to slide forward. A case of weapons slid into the water; now the wrapped salt cases were moving, too.</p>
 
 <p class="para-vi-sub">Những chiếc xúc tu giật mạnh hơn, kéo chiếc bè nghiêng hẳn sang một góc nhọn, khiến một phần hàng hóa trên bè trượt về phía trước. Một thùng vũ khí trượt tỏm xuống nước, lúc này những kiện muối được bọc kín cũng đang dịch chuyển.</p>
 
-<p class="para-en"><em>Salt!</em></p>
+<p class="para-en">Salt!</p>
 
-<p class="para-vi-sub"><i>Muối!</i></p>
+<p class="para-vi-sub">Muối!</p>
 
 <p class="para-en">The priest ran for the salt and began working at the twine that kept the oiled cover on it.</p>
 
@@ -326,9 +326,9 @@
 
 <p class="para-vi-sub">Tệ hơn cả những cú chích của nó chính là những lời mà nó thốt ra: nó nói chuyện với cô bé, và dẫu cái miệng trên cái đầu của viên thuyền trưởng vẫn động đậy bên trong lớp vỏ nhờn nhợt của nó, em không chắc rằng giọng nói đó chỉ vang lên trong tâm trí mình hay không:</p>
 
-<p class="para-en"><em>I AM CAROLUS THAT WAS A GIFT FROM CAROLUS CAROLUS AND WHAT IS YOUR NAME YOU’LL TELL ME WHEN I TAKE YOUR HEAD UNDER WITH ME TO THE BEAUTIFUL THE LIGHTLESS BOTTOM OF THE SEA WHERE THE DROWNED WILL MARRY US</em></p>
+<p class="para-en">I AM CAROLUS THAT WAS A GIFT FROM CAROLUS CAROLUS AND WHAT IS YOUR NAME YOU’LL TELL ME WHEN I TAKE YOUR HEAD UNDER WITH ME TO THE BEAUTIFUL THE LIGHTLESS BOTTOM OF THE SEA WHERE THE DROWNED WILL MARRY US</p>
 
-<p class="para-vi-sub"><i>TA LÀ CAROLUS KẺ ĐÃ NHẬN MÓN QUÀ TỪ CAROLUS CAROLUS VÀ TÊN CỦA NGƯƠI LÀ GÌ NGƯƠI SẼ NÓI CHO TA BIẾT KHI TA ĐƯA CÁI ĐẦU CỦA NGƯƠI CÙNG TA XUỐNG ĐÁY BIỂN XINH ĐẸP KHÔNG CÓ ÁNH SÁNG NƠI NHỮNG KẺ CHẾT ĐUỐI SẼ KẾT HÔN VỚI CHÚNG TA</i></p>
+<p class="para-vi-sub">TA LÀ CAROLUS KẺ ĐÃ NHẬN MÓN QUÀ TỪ CAROLUS CAROLUS VÀ TÊN CỦA NGƯƠI LÀ GÌ NGƯƠI SẼ NÓI CHO TA BIẾT KHI TA ĐƯA CÁI ĐẦU CỦA NGƯƠI CÙNG TA XUỐNG ĐÁY BIỂN XINH ĐẸP KHÔNG CÓ ÁNH SÁNG NƠI NHỮNG KẺ CHẾT ĐUỐI SẼ KẾT HÔN VỚI CHÚNG TA</p>
 
 <p class="para-en">Guillaume grabbed an axe and hacked at the jaundiced ropes hauling the raft under, but some of these lashed about and stung him, too. Thomas sidestepped the second of the jellied things, which were not graceful out of water, and saw what the priest was doing. He stepped over and cut the twine. The priest opened a sack and flung it now, hoping he was right about its properties.</p>
 
@@ -354,7 +354,7 @@
 
 <p class="para-vi-sub">Mặt trời đã lặn từ lâu, và bóng tối đang buông xuống trùm lấy họ.</p>
 
-<p class="para-en"><a id="page261"></a>The water shone with phosphorescence; it would have been impossible to count the number of them moving about in the river.</p>
+<p class="para-en">The water shone with phosphorescence; it would have been impossible to count the number of them moving about in the river.</p>
 
 <p class="para-vi-sub">Mặt nước lấp lánh ánh lân tinh; sẽ là bất khả thi nếu muốn đếm số lượng bọn chúng đang di chuyển khắp nơi dưới dòng sông.</p>
 
@@ -398,7 +398,7 @@
 
 <p class="para-vi-sub">Gã vẫn đang đẩy Thomas tiến về phía trước, nhưng đám sinh vật kia đã châm chích vào phần háng và đôi chân chìm dưới nước của gã vô số lần, khiến gã bị tụt lại phía sau, giật nảy lên sau mỗi vết chích.</p>
 
-<p class="para-en"><a id="page262"></a>Three or four of them crowded around him now and brushed him all over with their frills.</p>
+<p class="para-en">Three or four of them crowded around him now and brushed him all over with their frills.</p>
 
 <p class="para-vi-sub">Ba hoặc bốn con trong số đó giờ đây đã bu quanh gã và dùng phần diềm của chúng cọ xát khắp người gã.</p>
 

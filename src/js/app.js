@@ -1188,6 +1188,9 @@
         ((viText.startsWith('<em>') || viText.startsWith('<strong>') || viText.startsWith('*')) && viPlain.length < 120 && !/[.?!]{2,}/.test(viPlain))
       );
 
+      // Nhận diện số thứ tự phụ đề phân đoạn trong chương (I, II, III, IV... hoặc 1, 2, 3...) ở mọi vị trí
+      const isSubheadingNumber = /^(?:[IVXLCDM]{1,8}|\d{1,3}|[A-Z]\.)$/i.test(viPlain) && /^(?:[IVXLCDM]{1,8}|\d{1,3}|[A-Z]\.)$/i.test(enPlain);
+
       // Bỏ qua Drop Cap nếu cặp đoạn này nằm trong khối Epigraph hoặc mang class Epigraph / Lời đề từ
       const beforeMatch = typeof offset === 'number' ? html.slice(0, offset) : '';
       const isInsideEpigraph = beforeMatch && (
@@ -1198,14 +1201,14 @@
                              /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(viText) ||
                              /class=["'][^"']*\b(epigraph|attribution|citation|quote-source)\b[^"']/i.test(enText);
 
-      const isMetaHeaderPair = isTitleOrNamePair || isExcerptPair || isPartOrCoursePair || isSubtitleOrTimePair || isEpigraphPair;
+      const isMetaHeaderPair = isTitleOrNamePair || isExcerptPair || isPartOrCoursePair || isSubtitleOrTimePair || isEpigraphPair || isSubheadingNumber;
 
       let pairExtraClass = '';
       if (isTitleOrNamePair) {
         pairExtraClass = ' chapter-title-pair text-center';
       } else if (isExcerptPair) {
         pairExtraClass = ' excerpt-pair text-center';
-      } else if (isPartOrCoursePair || isSubtitleOrTimePair) {
+      } else if (isPartOrCoursePair || isSubtitleOrTimePair || isSubheadingNumber) {
         pairExtraClass = ' chapter-subtitle-pair text-center';
       }
 

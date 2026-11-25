@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Ba: Trong khu vườncủa Giáo hoàng
+# Chương Ba Mươi Ba: Trong khu vườn của Giáo hoàng
 
 <p class="para-en">Robert Hanicotte held the bright little flower in his hand, noting its fragility; he had seen this variety before, of course, jabs of them clustered in vivid yellow in this garden or that, but he had never had a mind for herbs and flowers. He struggled to remember its name.</p>
 
@@ -18,17 +18,17 @@
 
 <p class="para-vi-sub">Giáo hoàng Clement mỉm cười trước biểu cảm trên khuôn mặt anh, một phản ứng nửa như bừng ngộ nửa như ghê tởm.</p>
 
-<p class="para-en">“That’s it exactly. Its fragrance rushes at us, strikes us, and leaves us uncertain how to feel about it. So much power in something so tiny. Orange blossoms are similarly potent; I had the pleasure of smelling some brought from Naples when Queen Joanna was here; but they simply please where tansy bewilders. <em>You</em> seem bewildered, young Robert. What is it that you wanted to see me about?”</p>
+<p class="para-en">“That’s it exactly. Its fragrance rushes at us, strikes us, and leaves us uncertain how to feel about it. So much power in something so tiny. Orange blossoms are similarly potent; I had the pleasure of smelling some brought from Naples when Queen Joanna was here; but they simply please where tansy bewilders. You seem bewildered, young Robert. What is it that you wanted to see me about?”</p>
 
 <p class="para-vi-sub">“Đúng thế thật. Hương thơm của nó ùa đến, đánh sực vào ta, khiến ta chẳng biết nên cảm nhận thế nào cho phải. Sức mạnh lớn lao nhường ấy lại nằm trong một sinh vật nhỏ bé nhường này. Hoa cam cũng có sức mạnh tương tự; ta từng có dịp thưởng ngoạn hương thơm của những bông hoa được mang đến từ Naples khi Nữ hoàng Joanna ở đây; nhưng chúng chỉ mang lại sự dễ chịu trong khi cúc tansy lại khiến người ta bối rối. Robert trẻ tuổi, con có vẻ bối rối đấy. Con muốn gặp ta vì chuyện gì nào?”</p>
 
-<p class="para-en">The air was cool in the garden, whose high walls thankfully sheltered <a id="page343"></a>it from the wind whipping through the alleys of Avignon and blinding its citizens with grit.</p>
+<p class="para-en">The air was cool in the garden, whose high walls thankfully sheltered it from the wind whipping through the alleys of Avignon and blinding its citizens with grit.</p>
 
 <p class="para-vi-sub">Không khí trong vườn rất mát mẻ, những bức tường cao may sao đã che chắn nơi này khỏi những cơn gió đang gầm thét qua các con hẻm ở Avignon và quất đầy bụi cát vào mắt người dân.</p>
 
-<p class="para-en">In the distance, in the duller section of the papal gardens where food was grown, women gathered onions and turnips bound for the <em>pignotte</em>, where the pope showed his magnanimity by feeding Avignon’s poor. An easier task now that the plague had thinned them so; it had raged mercilessly in the poorer quarters, leaving some streets entirely empty of the living.</p>
+<p class="para-en">In the distance, in the duller section of the papal gardens where food was grown, women gathered onions and turnips bound for the pignotte, where the pope showed his magnanimity by feeding Avignon’s poor. An easier task now that the plague had thinned them so; it had raged mercilessly in the poorer quarters, leaving some streets entirely empty of the living.</p>
 
-<p class="para-vi-sub">Ở phía xa, trong khu vực tẻ nhạt hơn của khu vườn giáo hoàng, nơi trồng rau củ, những người phụ nữ đang thu hoạch hành và củ cải để đưa đến <i>pignotte</i>, nơi Đức Giáo Hoàng thể hiện lòng bác ái rộng lượng của mình bằng cách nuôi sống những người nghèo khổ ở Avignon. Công việc giờ đây đã dễ dàng hơn phần nào khi đại dịch đã càn quét bớt một lượng lớn dân số; nó hoành hành không thương tiếc ở các khu nghèo đói, khiến một số con đường hoàn toàn vắng bóng người sống.</p>
+<p class="para-vi-sub">Ở phía xa, trong khu vực tẻ nhạt hơn của khu vườn giáo hoàng, nơi trồng rau củ, những người phụ nữ đang thu hoạch hành và củ cải để đưa đến pignotte, nơi Đức Giáo Hoàng thể hiện lòng bác ái rộng lượng của mình bằng cách nuôi sống những người nghèo khổ ở Avignon. Công việc giờ đây đã dễ dàng hơn phần nào khi đại dịch đã càn quét bớt một lượng lớn dân số; nó hoành hành không thương tiếc ở các khu nghèo đói, khiến một số con đường hoàn toàn vắng bóng người sống.</p>
 
 <p class="para-en">A lion roared.</p>
 
@@ -46,7 +46,7 @@
 
 <p class="para-vi-sub">“Thưa Thánh phụ, con vừa có một giấc mơ khiến con bận lòng. Lẽ ra con không nên để những chuyện thế này làm phiền đến sự bình yên của mình.”</p>
 
-<p class="para-en">The pope floated his hand before Robert’s gaze, which was focused somewhere left of the Holy Father’s foot, and lifted that hand gracefully, <a id="page344"></a>taking the younger man’s attention with it until he found himself looking into the pope’s ocean-blue eyes. It was a gesture he knew from his days as cubicular; this pope did not insist on the same sort of deference other powerful men did.</p>
+<p class="para-en">The pope floated his hand before Robert’s gaze, which was focused somewhere left of the Holy Father’s foot, and lifted that hand gracefully, taking the younger man’s attention with it until he found himself looking into the pope’s ocean-blue eyes. It was a gesture he knew from his days as cubicular; this pope did not insist on the same sort of deference other powerful men did.</p>
 
 <p class="para-vi-sub">Đức Giáo Hoàng khẽ khum tay lướt qua tầm nhìn của Robert, người đang dán mắt vào khoảng không bên trái đôi giày của Đức Thánh Cha, rồi uyển chuyển nhấc bàn tay ấy lên, hướng sự chú ý của người thanh niên theo đó cho đến khi anh buộc phải nhìn thẳng vào đôi mắt xanh thẳm như đại dương của ngài. Đó là một cử chỉ mà anh đã quen thuộc từ những ngày còn làm hầu cận; vị giáo hoàng này không đòi hỏi thứ lễ nghi cách biệt như những kẻ quyền lực khác.</p>
 
@@ -94,9 +94,9 @@
 
 <p class="para-vi-sub">Đức Thánh Cha cất lời: “Cha rất tiếc phải thốt ra từ này, nhưng ta nghĩ con có thể đoán được.”</p>
 
-<p class="para-en"><em>Witchcraft.</em></p>
+<p class="para-en">Witchcraft.</p>
 
-<p class="para-vi-sub"><i>Phù thủy.</i></p>
+<p class="para-vi-sub">Phù thủy.</p>
 
 <p class="para-en">The word leapt into being and disappeared again as swiftly as the fly had.</p>
 
@@ -110,7 +110,7 @@
 
 <p class="para-vi-sub">“Không có gì là bí mật khi chúng ta đang tiến hành chiến dịch mạnh mẽ chống lại ách thống trị của Kẻ Kiêu Ngạo trên thế giới này. Liệu có quá vô lý khi hắn tìm cách ngăn cản đại nghiệp của chúng ta không? Và liệu có vô lý khi hắn tìm cách bôi nhọ danh dự của chúng ta bằng những tà thuật của mình? Con nhỏ trong giấc mơ của con đã phô bày những thói hư tật xấu của chính nó để làm con hoang mang đấy.”</p>
 
-<p class="para-en"><a id="page345"></a>“Do you think they mean you some harm, Papa?”</p>
+<p class="para-en">“Do you think they mean you some harm, Papa?”</p>
 
 <p class="para-vi-sub">“Ngài có nghĩ chúng mang lại điều bất trắc cho ngài không, thưa Cha?”</p>
 
@@ -154,11 +154,11 @@
 
 <p class="para-vi-sub">Nhận lệnh cáo lui, vị hồng y và chàng thanh niên bước ra khỏi khu vườn, đi ngang qua những chiếc chuồng trong vườn thú của Đức Giáo Hoàng.</p>
 
-<p class="para-en"><em>We shall return your every kindness to him tenfold</em></p>
+<p class="para-en">We shall return your every kindness to him tenfold</p>
 
-<p class="para-vi-sub"><i>Chúng ta sẽ đền đáp gấp mười lần mọi sự tử tế mà ông dành cho cậu ta</i></p>
+<p class="para-vi-sub">Chúng ta sẽ đền đáp gấp mười lần mọi sự tử tế mà ông dành cho cậu ta</p>
 
-<p class="para-en">The cardinal moved his lips as he silently repeated the pope’s words, trying to plumb them for their true meaning. He glanced past his self-satisfied lover, whose expression was not so bold it could be called a smile, and at the enclosures of the Holy Father’s bestiary. <a id="page346"></a>Something was wrong with the lions. It took him a moment to register what it was.</p>
+<p class="para-en">The cardinal moved his lips as he silently repeated the pope’s words, trying to plumb them for their true meaning. He glanced past his self-satisfied lover, whose expression was not so bold it could be called a smile, and at the enclosures of the Holy Father’s bestiary. Something was wrong with the lions. It took him a moment to register what it was.</p>
 
 <p class="para-vi-sub">Vị hồng y mấp máy môi khi thầm nhắc lại lời của Đức Giáo Hoàng, cố gắng dò xét tầng ý nghĩa thực sự ẩn giấu bên trong. Ông liếc nhìn qua người tình đang đắc ý của mình, kẻ có biểu cảm chưa đến mức dám gọi là một nụ cười, rồi hướng về phía những lồng chuồng trong khu thú hoang của Đức Thánh Cha. Có gì đó không ổn với bầy sư tử. Ông mất một thoáng mới nhận ra đó là điều gì.</p>
 
@@ -174,9 +174,9 @@
 
 <p class="para-vi-sub">Một luồng khí lạnh chạy dọc sườn trái vị hồng y.</p>
 
-<p class="para-en"><em>Those cages don’t communicate.</em></p>
+<p class="para-en">Those cages don’t communicate.</p>
 
-<p class="para-vi-sub"><i>Những chiếc chuồng đó đâu có thông nhau.</i></p>
+<p class="para-vi-sub">Những chiếc chuồng đó đâu có thông nhau.</p>
 
 <p class="para-en">He blinked his eyes, sure they must have deceived him earlier.</p>
 

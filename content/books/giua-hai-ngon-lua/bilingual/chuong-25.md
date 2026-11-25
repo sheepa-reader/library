@@ -4,7 +4,7 @@
 
 <p class="para-en">“I told you to go to sleep,” Thomas whispered to the priest.</p>
 
-<p class="para-vi-sub"><span class="drop-2">“T</span>ôi đã bảo cha đi ngủ cơ mà,” Thomas thì thầm với vị linh mục.</p>
+<p class="para-vi-sub">“Tôi đã bảo cha đi ngủ cơ mà,” Thomas thì thầm với vị linh mục.</p>
 
 <p class="para-en">They stood in the front of the raft, watching the fat orange sun sink on their right.</p>
 
@@ -26,7 +26,7 @@
 
 <p class="para-vi-sub">“Vì tình yêu với Chúa, thưa cha…”</p>
 
-<p class="para-en">“Perhaps <em>you</em> should sleep now and keep watch later.”</p>
+<p class="para-en">“Perhaps you should sleep now and keep watch later.”</p>
 
 <p class="para-vi-sub">“Có lẽ Thomas nên ngủ bây giờ và canh gác sau.”</p>
 
@@ -38,11 +38,11 @@
 
 <p class="para-vi-sub">Cả hai người đàn ông quay lại nhìn những kẻ đang cầm bánh lái, những người đang đẩy qua đẩy lại bằng đôi tay nâu vạm vỡ để tăng thêm chút tốc độ. Người trẻ hơn trong hai kẻ đó bị cụt một tai.</p>
 
-<p class="para-en"><em>A thief.</em></p>
+<p class="para-en">A thief.</p>
 
-<p class="para-vi-sub"><i>Một tên trộm.</i></p>
+<p class="para-vi-sub">Một tên trộm.</p>
 
-<p class="para-en">The captain sat atop the cabin, eating salted herring and drinking beer from a goatskin. He was a lanky, untrustworthy, but highly intelligent fellow with the most decisively separated walleyes Thomas had ever seen. While negotiating the outrageous price of passage <a id="page242"></a>with these river men, who were clearly more pirates than raftsmen, it had been difficult to figure out where the captain was resting his gaze. He had undoubtedly used this to his advantage in business as well as war, though he was clearly not half the warrior his first mate was.</p>
+<p class="para-en">The captain sat atop the cabin, eating salted herring and drinking beer from a goatskin. He was a lanky, untrustworthy, but highly intelligent fellow with the most decisively separated walleyes Thomas had ever seen. While negotiating the outrageous price of passage with these river men, who were clearly more pirates than raftsmen, it had been difficult to figure out where the captain was resting his gaze. He had undoubtedly used this to his advantage in business as well as war, though he was clearly not half the warrior his first mate was.</p>
 
 <p class="para-vi-sub">Gã thuyền trưởng ngồi trên đỉnh cabin, ăn cá trích muối và uống bia từ một cái túi da dê. Gã là một kẻ gầy gò, không đáng tin nhưng cực kỳ thông minh với đôi mắt lác cách biệt rõ rệt nhất mà Thomas từng thấy. Trong lúc thương lượng cái giá cắt cổ cho chuyến vượt sông với những kẻ đi sông này — rõ ràng bọn chúng giống cướp hơn là phu lái bè — thật khó để nhận ra gã thuyền trưởng đang đặt ánh mắt ở đâu. Gã chắc chắn đã tận dụng lợi thế này trong kinh doanh cũng như chiến tranh, mặc dù gã rõ ràng không bằng một nửa chiến binh như gã phó thuyền của mình.</p>
 
@@ -82,7 +82,7 @@
 
 <p class="para-vi-sub">“Chào những người bạn!” gã thuyền trưởng hét lớn với họ. “Đó chẳng phải là một ngày vui vẻ để cho cá ăn sao? Càng vui hơn, vì các ngươi cho một kẻ đánh cá người ăn đấy!”</p>
 
-<p class="para-en"><a id="page243"></a>The carters looked up, one of them twitching his arm as though he thought to make a rude gesture but reconsidered when he saw the yellow fish on red strung over the cabin; this was the sigil of the Guild of Simon Peter, the disarming name used by the ring of pirates that controlled the Saône all the way to Lyon.</p>
+<p class="para-en">The carters looked up, one of them twitching his arm as though he thought to make a rude gesture but reconsidered when he saw the yellow fish on red strung over the cabin; this was the sigil of the Guild of Simon Peter, the disarming name used by the ring of pirates that controlled the Saône all the way to Lyon.</p>
 
 <p class="para-vi-sub">Những kẻ đẩy xe ngước nhìn lên, một trong số đó giật giật cánh tay như thể hắn định làm một cử chỉ thô lỗ nhưng rồi suy nghĩ lại khi nhìn thấy con cá vàng trên nền đỏ căng qua cabin; đây là huy hiệu của Bang hội Thánh Phêrô, cái tên mang tính đánh lạc hướng được sử dụng bởi băng nhóm hải tặc kiểm soát toàn bộ sông Saône cho đến tận Lyon.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-vi-sub">Gã thuyền trưởng chuyển sự chú ý đến nơi vị tu sĩ đang nổi ngửa, cứ như thể đang thảnh thơi, với đôi tay buông thõng hai bên. Gương mặt vị tu sĩ, mặc dù trắng bệch vì bệnh tật, trông thật đẹp đẽ dưới làn nước màu cam lăn tăn. Gã thuyền trưởng dùng cây sào của mình đẩy xác chết ra xa hơn.</p>
 
-<p class="para-en">“You would have liked to float with your arms outstretched like <a id="page244"></a>Our Lord, would you not? Float to glory like Our Lord? Maybe you weren’t such a good monk as you thought. Go and ask Saint Philibert, sad dolphin.” Now he called back at the oarsman, “It is Saint Philibert, that abbey?”</p>
+<p class="para-en">“You would have liked to float with your arms outstretched like Our Lord, would you not? Float to glory like Our Lord? Maybe you weren’t such a good monk as you thought. Go and ask Saint Philibert, sad dolphin.” Now he called back at the oarsman, “It is Saint Philibert, that abbey?”</p>
 
 <p class="para-vi-sub">“Ngài hẳn là thích được nổi lềnh bềnh với hai tay dang rộng giống như Chúa của chúng ta phải không? Nổi lên chốn vinh quang giống như Chúa của chúng ta ư? Có lẽ ngài không phải là một tu sĩ tốt như ngài từng nghĩ. Hãy đi mà hỏi Thánh Philibert, chú cá heo đáng thương.” Bây giờ hắn gọi với về phía người chèo thuyền, “Đó là tu viện Thánh Philibert phải không?”</p>
 
@@ -174,7 +174,7 @@
 
 <p class="para-vi-sub">“Cờ hiệu của tụi bay đâu?”</p>
 
-<p class="para-en"><a id="page245"></a>The bargeman said nothing.</p>
+<p class="para-en">The bargeman said nothing.</p>
 
 <p class="para-vi-sub">Tên thủy thủ xà lồng không nói gì.</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-vi-sub">Tên thuyền trưởng liền đánh rơi cái vẻ mặt ngoắt đuôi như chó và giọng nói của hắn cũng trút bỏ đi lớp vỏ bọc thân thiện giả tạo.</p>
 
-<p class="para-en"><a id="page246"></a>“I’m a better friend than you know, you fat, whoring slug. You’ve been very lucky today, and only because of my Christian spirit. If you’d like to remember me at Mass, my name is Carolus.”</p>
+<p class="para-en">“I’m a better friend than you know, you fat, whoring slug. You’ve been very lucky today, and only because of my Christian spirit. If you’d like to remember me at Mass, my name is Carolus.”</p>
 
 <p class="para-vi-sub">“Ta là một người bạn tốt hơn ngươi tưởng đấy, cái đồ sên béo ú, chuyên nghề điếm đàng. Ngươi đã rất may mắn vào ngày hôm nay, và điều đó chỉ nhờ có tinh thần Thiên Chúa giáo của ta mà thôi. Nếu ngươi muốn tưởng nhớ đến ta trong thánh lễ, tên ta là Carolus.”</p>
 
@@ -282,7 +282,7 @@
 
 <p class="para-vi-sub">Thomas gật đầu.</p>
 
-<p class="para-en">“I was there,” big-arms said. “French crossbowmen mixed in with <a id="page247"></a>the Salamis. I’ve got one of those, too,” he said, pointing at the scar again, “but I won’t show you where.”</p>
+<p class="para-en">“I was there,” big-arms said. “French crossbowmen mixed in with the Salamis. I’ve got one of those, too,” he said, pointing at the scar again, “but I won’t show you where.”</p>
 
 <p class="para-vi-sub">“Ta có ở đó,” gã tay to nói. “Những tay nỏ người Pháp hòa lẫn vào đám quân Salamis. Ta cũng có một vết sẹo như thế,” hắn nói, lại chỉ vào vết sẹo, “nhưng ta sẽ không cho ngươi thấy nó ở đâu đâu.”</p>
 
@@ -306,67 +306,67 @@
 
 <p class="para-vi-sub">Tuy nhiên, cha Matthieu thực sự đã hát, khi người thổi kèn rời khỏi các điệu nhảy của dân lái bè và bắt đầu tấu một bài hát thu hoạch ở vùng Normandy. Delphine cũng cất giọng hát theo, hòa vào đoạn thơ thứ hai.</p>
 
-<p class="para-en"><em>For soon the winter’s breath shall breathe</em></p>
+<p class="para-en">For soon the winter’s breath shall breathe</p>
 
 <p class="para-vi-sub">Đông về, gió lạnh tràn sang,</p>
 
-<p class="para-en"><em>the summer’s greens away-O</em></p>
+<p class="para-en">the summer’s greens away-O</p>
 
 <p class="para-vi-sub">Cuốn phăng sắc biếc mùa vàng hè xanh.</p>
 
-<p class="para-en"><em>but what care we with bread enough</em></p>
+<p class="para-en">but what care we with bread enough</p>
 
 <p class="para-vi-sub">Lo chi, ta cứ an lành,</p>
 
-<p class="para-en"><em>and instruments to play-O</em></p>
+<p class="para-en">and instruments to play-O</p>
 
 <p class="para-vi-sub">Bánh mì đã đủ, đàn sành cứ chơi.</p>
 
-<p class="para-en"><em>Jean will cut us sheaves of wheat</em></p>
+<p class="para-en">Jean will cut us sheaves of wheat</p>
 
 <p class="para-vi-sub">Jean kia gặt lúa đầy vơi,</p>
 
-<p class="para-en"><em>and his two sons will bind them</em></p>
+<p class="para-en">and his two sons will bind them</p>
 
 <p class="para-vi-sub">Hai con trai bó từng đôi lúa vàng.</p>
 
-<p class="para-en"><em>while his daughters hide away</em></p>
+<p class="para-en">while his daughters hide away</p>
 
 <p class="para-vi-sub">Con gái chẳng biết đi đàng,</p>
 
-<p class="para-en"><em>where none of us can find them</em></p>
+<p class="para-en">where none of us can find them</p>
 
 <p class="para-vi-sub">Trốn đâu chẳng thấy, tìm càng chẳng ra.</p>
 
-<p class="para-en"><em>Swing-ho, swing your scythe</em></p>
+<p class="para-en">Swing-ho, swing your scythe</p>
 
 <p class="para-vi-sub">Hò dô, lưỡi hái vung xa,</p>
 
-<p class="para-en"><em>For God is in His Heaven</em></p>
+<p class="para-en">For God is in His Heaven</p>
 
 <p class="para-vi-sub">Chúa ngồi Thiên giới, bao la cõi trời.</p>
 
-<p class="para-en"><a id="page248"></a><em>And if we do not work He will</em></p>
+<p class="para-en">And if we do not work He will</p>
 
 <p class="para-vi-sub">Không làm, bánh chẳng có rồi,</p>
 
-<p class="para-en"><em>not give us bread to leaven</em></p>
+<p class="para-en">not give us bread to leaven</p>
 
 <p class="para-vi-sub">Bột không men ủ, bánh thời nở đâu?</p>
 
-<p class="para-en"><em>Swing-ho, swing your scythe,</em></p>
+<p class="para-en">Swing-ho, swing your scythe,</p>
 
 <p class="para-vi-sub">Hò dô, lưỡi hái vung mau,</p>
 
-<p class="para-en"><em>For Mother Mary loves you</em></p>
+<p class="para-en">For Mother Mary loves you</p>
 
 <p class="para-vi-sub">Mẹ Maria vẫn trước sau thương người.</p>
 
-<p class="para-en"><em>And as you sing your working song</em></p>
+<p class="para-en">And as you sing your working song</p>
 
 <p class="para-vi-sub">Ta ca khúc hát vui tươi,</p>
 
-<p class="para-en"><em>She sings along above you.</em></p>
+<p class="para-en">She sings along above you.</p>
 
 <p class="para-vi-sub">Trên cao Mẹ cũng cất lời hát theo.</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-vi-sub">Số chiến lợi phẩm thật chẳng có gì ấn tượng.</p>
 
-<p class="para-en">A few coins, a small drum, some extra clothes, and three finches <a id="page249"></a>in wooden cages; the oarsman put his foot exactly next to the foot of the wounded man and then made him remove his leather boots.</p>
+<p class="para-en">A few coins, a small drum, some extra clothes, and three finches in wooden cages; the oarsman put his foot exactly next to the foot of the wounded man and then made him remove his leather boots.</p>
 
 <p class="para-vi-sub">Một vài đồng tiền xu, một cái trống nhỏ, dăm bộ quần áo dự phòng, và ba con chim sẻ trong lồng gỗ; tay chèo đặt chân mình sát cạnh chân kẻ bị thương rồi ép hắn cởi đôi giày da ra.</p>
 
@@ -438,7 +438,7 @@
 
 <p class="para-vi-sub">“Hài lòng đến mức ta muốn ị đây,” anh nói, vừa đút thanh kiếm vào bao.</p>
 
-<p class="para-en"><a id="page250"></a>Big-arms got back on the raft. The uninjured man tended his friend’s scalp.</p>
+<p class="para-en">Big-arms got back on the raft. The uninjured man tended his friend’s scalp.</p>
 
 <p class="para-vi-sub">Gã tay to quay trở lại bè. Kẻ không bị thương đang chăm sóc vết thương trên đầu bạn mình.</p>
 
@@ -478,7 +478,7 @@
 
 <p class="para-vi-sub">Thuyền trưởng đã đồng ý, nhưng Guillaume thừa biết hắn đang nói dối.</p>
 
-<p class="para-en"><a id="page251"></a>And now it had begun.</p>
+<p class="para-en">And now it had begun.</p>
 
 <p class="para-vi-sub">Và giờ thì mọi chuyện đã bắt đầu.</p>
 
@@ -518,7 +518,7 @@
 
 <p class="para-vi-sub">Thomas trượt người về phía trước bằng mông và đá mạnh làm mất đà gã tay chèo đang bối rối, trong khi tên bị thương xoay xở chạm được vào phần lông vũ của mũi tên cắm trên người, nỗi đau khiến hắn nôn thốc nôn tháo lên người mình. Hắn ngã phịch xuống rồi nằm bất động.</p>
 
-<p class="para-en"><a id="page252"></a>Thomas just had time to get to his feet, taking a slash from the falchion that numbed his mailed forearm and then kicked the captain in the hip to push him back. He used his still-sheathed sword to slap the younger oarsman across the head, knocking him down, and then he drew his weapon.</p>
+<p class="para-en">Thomas just had time to get to his feet, taking a slash from the falchion that numbed his mailed forearm and then kicked the captain in the hip to push him back. He used his still-sheathed sword to slap the younger oarsman across the head, knocking him down, and then he drew his weapon.</p>
 
 <p class="para-vi-sub">Thomas vừa kịp đứng dậy, hứng trọn nhát chém từ thanh mã tấu khiến cẳng tay mang giáp tê dại, rồi tung cước đá vào hông thuyền trưởng để đẩy gã lùi lại. Gã dùng thanh kiếm vẫn còn nằm trong bao để vả một cú mạnh ngang đầu tay chèo trẻ tuổi khiến hắn ngã lăn ra, sau đó mới rút vũ khí của mình.</p>
 
@@ -550,9 +550,9 @@
 
 <p class="para-vi-sub">“Bỏ kiếm xuống nếu không tao rạch cổ nó!” tay chèo nói.</p>
 
-<p class="para-en">“Don’t kill them, <em>please</em>!” the girl yelled, as if she were not the one closest to death. Her hands were on the man’s knife arm, but they were little more use than a cat’s paws would have been.</p>
+<p class="para-en">“Don’t kill them, please!” the girl yelled, as if she were not the one closest to death. Her hands were on the man’s knife arm, but they were little more use than a cat’s paws would have been.</p>
 
-<p class="para-vi-sub">“Đừng giết họ, <i>làm ơn</i>!” Delphine hét lên, cứ như thể bản thân không phải là người đang đứng kề cận cái chết nhất. Hai tay cô bé đặt lên cánh tay đang cầm dao của gã đàn ông, nhưng chúng chẳng có chút tác dụng nào khác gì móng vuốt của một con mèo.</p>
+<p class="para-vi-sub">“Đừng giết họ, làm ơn!” Delphine hét lên, cứ như thể bản thân không phải là người đang đứng kề cận cái chết nhất. Hai tay cô bé đặt lên cánh tay đang cầm dao của gã đàn ông, nhưng chúng chẳng có chút tác dụng nào khác gì móng vuốt của một con mèo.</p>
 
 <p class="para-en">Then she shut her eyes because she felt the oarsman’s arms tense and knew he was about to cut her throat.</p>
 
@@ -566,11 +566,11 @@
 
 <p class="para-vi-sub">Guillaume vạm vỡ, chớp chớp đôi mắt dính đầy máu, đã bò tới và giờ đang giữ chặt hai tay tên chèo thuyền từ bên ngoài, kéo chúng ra xa với sức mạnh chậm rãi và không thể cưỡng lại như một con sao biển đang cạy vỏ một con nghêu, bám chặt hết sức có thể với hy vọng đôi tay trơn tuột vì máu vẫn giữ được độ bám; nếu sảy tay, con dao của gã kia suýt chút nữa đã cắt đứt cổ cô bé.</p>
 
-<p class="para-en"><em>“Don’t!”</em> she yelled again, still at Thomas, who was coming at the captain, ducking his spear slashes laterally, but unable to get inside because the other man circled so quickly.</p>
+<p class="para-en">“Don’t!” she yelled again, still at Thomas, who was coming at the captain, ducking his spear slashes laterally, but unable to get inside because the other man circled so quickly.</p>
 
-<p class="para-vi-sub"><i>“Đừng mà!”</i> Delphine lại hét lên, hướng về phía Thomas, người đang lao về phía tên thuyền trưởng, né những cú vung giáo theo chiều ngang nhưng không thể áp sát vì gã di chuyển vòng tròn quá nhanh.</p>
+<p class="para-vi-sub">“Đừng mà!” Delphine lại hét lên, hướng về phía Thomas, người đang lao về phía tên thuyền trưởng, né những cú vung giáo theo chiều ngang nhưng không thể áp sát vì gã di chuyển vòng tròn quá nhanh.</p>
 
-<p class="para-en">Guillaume had the oarsman spread-armed now, and the priest hit <a id="page253"></a>him in the face with his wooden bowl so hard he broke it; the oarsman dropped his knife. Guillaume let the man’s arms go, then heaved him over the side, passing out as he did so that one arm trailed in the cold water.</p>
+<p class="para-en">Guillaume had the oarsman spread-armed now, and the priest hit him in the face with his wooden bowl so hard he broke it; the oarsman dropped his knife. Guillaume let the man’s arms go, then heaved him over the side, passing out as he did so that one arm trailed in the cold water.</p>
 
 <p class="para-vi-sub">Guillaume lúc này đã giữ hai tay tên chèo thuyền dang rộng, và cha Matthieu đập thẳng cái bát gỗ vào mặt hắn mạnh đến mức làm nó vỡ vụn; tên chèo thuyền đánh rơi con dao. Guillaume buông tay hắn ra, rồi hất ngã hắn xuống mạn thuyền, ngất lịm đi ngay trên mạn bè với một cánh tay buông thõng trong làn nước lạnh.</p>
 
@@ -622,7 +622,7 @@
 
 <p class="para-vi-sub">Delphine thét lên, “Khônggggg!” rồi chỉ thốt lên, “Không,” và để cha Matthieu ôm vào lòng mặc dù những giọt nước mắt mà cô bé tưởng sắp tuôn rơi lại chẳng hề rơi xuống.</p>
 
-<p class="para-en"><a id="page254"></a>The captain fell so his head lolled back and his open throat bled into the river. Thomas watched this for a moment, then wiped his sword.</p>
+<p class="para-en">The captain fell so his head lolled back and his open throat bled into the river. Thomas watched this for a moment, then wiped his sword.</p>
 
 <p class="para-vi-sub">Tên thuyền trưởng ngã ngửa ra sau, đầu ngả hẳn ra và phần cổ họng bị rách toác chảy máu xuống dòng sông. Thomas đứng nhìn cảnh đó một lát rồi lau sạch thanh kiếm.</p>
 
@@ -642,9 +642,9 @@
 
 <p class="para-vi-sub">“Cháu thì chưa,” em nói, và nhìn chằm chằm xuống mặt nước. Thomas đẩy cái xác mềm oặt của tên thuyền trưởng khỏi chiếc bè, và nó chìm nghỉm như thể bị ai đó kéo xuống.</p>
 
-<p class="para-en"><em>A fucking hand!</em></p>
+<p class="para-en">A fucking hand!</p>
 
-<p class="para-vi-sub"><i>Đúng là một lũ khốn!</i></p>
+<p class="para-vi-sub">Đúng là một lũ khốn!</p>
 
 <p class="para-en">The raft drifted sideways and into the darkness.</p>
 

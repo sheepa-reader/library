@@ -26,7 +26,7 @@
 
 <p class="para-vi-sub">“Tao không.”</p>
 
-<p class="para-en"><a id="page27"></a>“But you might if you knew my name and other things about me so I wasn’t just ‘girl.’ Is that why?”</p>
+<p class="para-en">“But you might if you knew my name and other things about me so I wasn’t just ‘girl.’ Is that why?”</p>
 
 <p class="para-vi-sub">“Nhưng nhỡ ngài biết tên cháu và những chuyện khác về cháu để cháu không chỉ đơn thuần là con bé thì sao? Có phải vì thế không?”</p>
 
@@ -42,7 +42,7 @@
 
 <p class="para-vi-sub">Gã ngước nhìn lên ngọn tháp. Leo lên ngọn đồi đó để quan sát con đường và thị trấn sẽ rất hữu ích. Ngọn tháp thật thu hút, nhưng cũng đầy rủi ro. Cánh cửa nặng nề dường như đang hé mở. Một lời mời chào ư? Đó sẽ là một ổ phục kích tuyệt vời nếu có kẻ nào nổi máu; mười phần chắc đến chín là nó trống không nhưng chính cái phần mười còn lại ấy mới là thứ gây ra bao nỗi thống khổ.</p>
 
-<p class="para-en"><em>I’m not carrying anything worth robbing</em></p>
+<p class="para-en">I’m not carrying anything worth robbing</p>
 
 <p class="para-vi-sub">Thomas thầm nghĩ, gã chẳng mang theo thứ gì đáng giá để cướp bóc cả.</p>
 
@@ -50,7 +50,7 @@
 
 <p class="para-vi-sub">Cô bé ngước nhìn lên gã, mái tóc giờ đây đã khô ráo và ngập tràn ánh nắng, ngả sang sắc vàng óng ả hơn cả sợi lanh.</p>
 
-<p class="para-en"><em>Yes you are</em></p>
+<p class="para-en">Yes you are</p>
 
 <p class="para-vi-sub">Thomas tự nhủ, mày có đấy chứ.</p>
 
@@ -62,21 +62,21 @@
 
 <p class="para-vi-sub">Lẽ ra gã đã có thể đi vào lùng sục bên trong ngọn tháp, nhưng gã không muốn bước qua hai cái xác nữ gia nhân đang ngồi gục gần cổng. Lũ quạ đã cấu xé họ và chúng nhe hàm răng cười trơ trọi với hốc mắt đen ngòm nhìn gã, đầu tựa vào nhau gần như đầy trìu mến. Gã lê bước dọc theo bức tường trong tiếng quạ kêu chế nhạo cho đến khi tới một vị trí có thể nhìn bao quát con đường họ vừa đi qua. Gã ngồi xuống dưới bóng râm của bức tường trong vài khoảnh khắc và dán mắt ra con đường, chắc chắn rằng không có kẻ bám đuôi nào theo sau họ.</p>
 
-<p class="para-en">It was unlikely that Jacquot had gotten loose so quickly. Thomas <a id="page28"></a>had found him stuffing his underpants with the gold chains from around Godefroy’s neck and the silver coins left in the fat one’s leather bag; another beating had followed, mitigated by the girl, but then Thomas had decided it would be fitting to leave Jacquot tied to the tree he had fetched the girl out of. He also posed a wooden sign around his neck, which the girl wrote upon in charcoal at Thomas’s instruction.</p>
+<p class="para-en">It was unlikely that Jacquot had gotten loose so quickly. Thomas had found him stuffing his underpants with the gold chains from around Godefroy’s neck and the silver coins left in the fat one’s leather bag; another beating had followed, mitigated by the girl, but then Thomas had decided it would be fitting to leave Jacquot tied to the tree he had fetched the girl out of. He also posed a wooden sign around his neck, which the girl wrote upon in charcoal at Thomas’s instruction.</p>
 
 <p class="para-vi-sub">Thật khó lòng tin rằng Jacquot có thể xổng chuỗi nhanh đến thế. Thomas đã tóm được hắn đang nhét đầy những chiếc dây chuyền vàng giật từ cổ Godefroy và những đồng bạc trong chiếc túi da của gã béo vào quần lót; một trận đòn nhừ tử nữa lại giáng xuống, được nương tay đôi chút nhờ sự can thiệp của cô bé, nhưng rồi Thomas đã quyết định rằng thật thích hợp khi để Jacquot bị trói vào chính cái cây mà gã đã lôi cô bé ra. Gã còn treo trước ngực hắn một tấm biển gỗ, thứ mà cô bé đã dùng than viết lên theo đúng chỉ thị của Thomas.</p>
 
-<p class="para-en"><span class="caps">DO WITH ME<br/>AS SEEMS RIGHT TO YOU<br/>TO DO WITH THIEVES</span></p>
+<p class="para-en">DO WITH MEAS SEEMS RIGHT TO YOUTO DO WITH THIEVES</p>
 
-<p class="para-vi-sub"><span class="caps">HÃY XỬ LÝ TA<br/>NHƯ NHỮNG GÌ MÀY THẤY LÀ ĐÚNG<br/>ĐỐI VỚI LŨ TRỘM CƯỚP</span></p>
+<p class="para-vi-sub">HÃY XỬ LÝ TANHƯ NHỮNG GÌ MÀY THẤY LÀ ĐÚNGĐỐI VỚI LŨ TRỘM CƯỚP</p>
 
 <p class="para-en">That was what Thomas commanded her to write, at least. Knowing he could read, but not well, she translated this somewhat liberally.</p>
 
 <p class="para-vi-sub">Ít nhất thì đó là những gì Thomas ra lệnh cho cô bé viết. Biết rằng hắn đọc được chữ nhưng lại không sõi cho lắm, cô bé đã dịch lại có phần phóng tay hơn.</p>
 
-<p class="para-en"><span class="caps">WE THIEVES SHALL DO<br/>THE SAME TO YOU<br/>IF WE CATCH YOU</span></p>
+<p class="para-en">WE THIEVES SHALL DOTHE SAME TO YOUIF WE CATCH YOU</p>
 
-<p class="para-vi-sub"><span class="caps">LŨ TRỘM CHÚNG TA SẼ LÀM<br/>ĐIỀU TƯƠNG TỰ VỚI MÀY<br/>NẾU TÚM ĐƯỢC MÀY</span></p>
+<p class="para-vi-sub">LŨ TRỘM CHÚNG TA SẼ LÀMĐIỀU TƯƠNG TỰ VỚI MÀYNẾU TÚM ĐƯỢC MÀY</p>
 
 <p class="para-en">Jacquot’s crossbow had been hidden in the tree near him, hanging like evil fruit with the little sack of quarrels. He had bitched at them while Thomas bound his limbs with rope the girl got from the house, crying that it was too tight, that he wouldn’t live the night out, or that wild dogs would come and eat him.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-vi-sub">Rồi Thomas quay lưng đi thẳng.</p>
 
-<p class="para-en"><a id="page29"></a>“PLEASE!” Jacquot had yelled, causing the girl to stop.</p>
+<p class="para-en">“PLEASE!” Jacquot had yelled, causing the girl to stop.</p>
 
 <p class="para-vi-sub">“LÀM ƠN!” Jacquot hét lên, khiến cô bé khựng lại.</p>
 
@@ -126,9 +126,9 @@
 
 <p class="para-vi-sub">Khi Thomas và cô bé đã đi ra xa gần hết tầm với của tiếng gọi, Jacquot kịp vớt vát bằng một câu đầy cay độc: “Chúa ban phúc cho cả hai tụi mày vì điều này đấy,” rồi gào thét cho đến khi khản đặc cả giọng.</p>
 
-<p class="para-en">As they passed a house with a yellow-green, newly thatched roof, a woman coughed wetly from inside and then launched into a loud <em>Pater Noster</em> punctuated with more coughing. The girl went toward the window, but Thomas plucked her back by the sleeve.</p>
+<p class="para-en">As they passed a house with a yellow-green, newly thatched roof, a woman coughed wetly from inside and then launched into a loud Pater Noster punctuated with more coughing. The girl went toward the window, but Thomas plucked her back by the sleeve.</p>
 
-<p class="para-vi-sub">Khi họ đi ngang qua một ngôi nhà lợp mái tranh ngả màu vàng lục, từ bên trong vọng ra tiếng một người phụ nữ ho sặc sụa ướt át, rồi bà cất giọng đọc lớn bài kinh <i>Pater Noster</i> ngắt quãng bởi những tiếng ho dữ dội hơn. Cô bé định bước về phía cửa sổ, nhưng Thomas đã tóm tay áo giật con bé lại.</p>
+<p class="para-vi-sub">Khi họ đi ngang qua một ngôi nhà lợp mái tranh ngả màu vàng lục, từ bên trong vọng ra tiếng một người phụ nữ ho sặc sụa ướt át, rồi bà cất giọng đọc lớn bài kinh Pater Noster ngắt quãng bởi những tiếng ho dữ dội hơn. Cô bé định bước về phía cửa sổ, nhưng Thomas đã tóm tay áo giật con bé lại.</p>
 
 <p class="para-en">“I know her,” the girl said. “She puts out a table on feast days and sells cakes with honey and walnuts. She’s nice.”</p>
 
@@ -170,7 +170,7 @@
 
 <p class="para-vi-sub">“Nếu tìm thấy lão, tao sẽ bỏ mày lại cho lão đấy.”</p>
 
-<p class="para-en">Fresh graves pocked the churchyard, and just past that a big pit yawned with a heap of dirt near it. He knew what was in the pit. Every town had something similar. The first dead had been given Christian burials, and then the ones who had buried them needed <a id="page30"></a>burying, and then there were so many a pit was dug, and then there was nobody willing even to take them to the pit.</p>
+<p class="para-en">Fresh graves pocked the churchyard, and just past that a big pit yawned with a heap of dirt near it. He knew what was in the pit. Every town had something similar. The first dead had been given Christian burials, and then the ones who had buried them needed burying, and then there were so many a pit was dug, and then there was nobody willing even to take them to the pit.</p>
 
 <p class="para-vi-sub">Những ngôi mộ mới đào chi chít ngoài nghĩa trang nhà thờ, và ngay sát đó là một hố chôn tập thể há miệng rộng hoác với một đống đất chất đống bên cạnh. Thomas thừa biết thứ gì nằm trong cái hố ấy. Thị trấn nào cũng có cảnh tượng tương tự. Những người chết đầu tiên đã được chôn cất theo nghi thức Thiên Chúa giáo, rồi đến lượt những kẻ chôn cất họ cũng cần được chôn, và rồi số người chết nhiều đến mức người ta đào một cái hố chôn chung, để rồi chẳng còn ai chịu nổi việc đem xác họ vứt xuống hố nữa.</p>
 
@@ -218,9 +218,9 @@
 
 <p class="para-vi-sub">“Xem ra tao phải dính lấy mày thêm một thời gian nữa rồi. Đêm nay chúng ta sẽ ngủ ở nhà thờ này. May ra chưa có ai chết ở trong đây.”</p>
 
-<p class="para-en">During the night he heard the girl speaking, but not in French. Latin. He thought he heard her say “Avignon.” He thought about shaking her, but instead got up and went outside to walk in the cool air and look at the stars. A comet had appeared last week, near Cygnus, and he looked to see where it was moving. It would not be long before it cut the neck of the pretty swan in the east. He knew it was wicked, a plague token in a sick sky, but it was so beautiful he couldn’t stop looking at it. There had been others before it. Three at once had shared April’s sky, one so bright it washed out the stars near it; this was before the plague had come to Normandy, but it had already started spreading elsewhere, and everyone was talking about Judgment Day. He remembered the tales of the travelers they met, and often robbed; an earthquake in Italy, dwarfed by the earthquakes and <a id="page31"></a>freak storms that punished India; how the earth had cracked in the land of the Mongols, all the way down to Hell, and it was Hell that burped up this pestilence.</p>
+<p class="para-en">During the night he heard the girl speaking, but not in French. Latin. He thought he heard her say “Avignon.” He thought about shaking her, but instead got up and went outside to walk in the cool air and look at the stars. A comet had appeared last week, near Cygnus, and he looked to see where it was moving. It would not be long before it cut the neck of the pretty swan in the east. He knew it was wicked, a plague token in a sick sky, but it was so beautiful he couldn’t stop looking at it. There had been others before it. Three at once had shared April’s sky, one so bright it washed out the stars near it; this was before the plague had come to Normandy, but it had already started spreading elsewhere, and everyone was talking about Judgment Day. He remembered the tales of the travelers they met, and often robbed; an earthquake in Italy, dwarfed by the earthquakes and freak storms that punished India; how the earth had cracked in the land of the Mongols, all the way down to Hell, and it was Hell that burped up this pestilence.</p>
 
-<p class="para-vi-sub">Giữa đêm, Thomas nghe thấy cô bé lẩm bẩm nói chuyện, nhưng không phải bằng tiếng Pháp. Tiếng Latinh. Gã phảng phất nghe thấy con bé thốt lên từ “Avignon<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn4">[4]</a>.” Thomas định lay con bé dậy, nhưng rồi lại thôi; gã đứng dậy bước ra ngoài hít thở không khí mát lạnh và ngắm nhìn các vì sao. Một ngôi sao chổi đã xuất hiện vào tuần trước, gần chòm sao Thiên Nga, và gã ngước lên để xem nó đang dịch chuyển đến đâu. Sẽ chẳng lâu nữa đâu nó sẽ cắt ngang cổ con thiên nga xinh đẹp ở phương Đông. Gã thừa nhận điều này thật tà ác, một dấu ấn dịch hạch giữa bầu trời bệnh hoạn, nhưng nó quá đỗi rực rỡ khiến gã không sao rời mắt nổi. Trước đó đã từng có những điềm báo khác. Từng có ba ngôi sao chổi cùng xuất hiện trên bầu trời tháng Tư, một ngôi sáng rực đến mức lu mờ cả những vì sao xung quanh; đó là thời điểm trước khi dịch bệnh tràn đến xứ Normandy, nhưng nó đã bắt đầu lan rộng ở những vùng đất khác, và đi đến đâu người ta cũng bàn tán về Ngày Phán Xét. Gã nhớ lại những câu chuyện từ những kẻ lữ hành mà bọn gã từng chạm trán, rồi cướp bóc; một trận động đất ở Ý, hoàn toàn lu mờ trước những trận động đất và cuồng phong quái dị tàn phá Ấn Độ; cách mà mặt đất ở xứ sở người Mông Cổ nứt toác xuống tận Địa Ngục, và chính Địa Ngục đã ợ lên thứ ôn dịch này.</p>
+<p class="para-vi-sub">Giữa đêm, Thomas nghe thấy cô bé lẩm bẩm nói chuyện, nhưng không phải bằng tiếng Pháp. Tiếng Latinh. Gã phảng phất nghe thấy con bé thốt lên từ “Avignon[4].” Thomas định lay con bé dậy, nhưng rồi lại thôi; gã đứng dậy bước ra ngoài hít thở không khí mát lạnh và ngắm nhìn các vì sao. Một ngôi sao chổi đã xuất hiện vào tuần trước, gần chòm sao Thiên Nga, và gã ngước lên để xem nó đang dịch chuyển đến đâu. Sẽ chẳng lâu nữa đâu nó sẽ cắt ngang cổ con thiên nga xinh đẹp ở phương Đông. Gã thừa nhận điều này thật tà ác, một dấu ấn dịch hạch giữa bầu trời bệnh hoạn, nhưng nó quá đỗi rực rỡ khiến gã không sao rời mắt nổi. Trước đó đã từng có những điềm báo khác. Từng có ba ngôi sao chổi cùng xuất hiện trên bầu trời tháng Tư, một ngôi sáng rực đến mức lu mờ cả những vì sao xung quanh; đó là thời điểm trước khi dịch bệnh tràn đến xứ Normandy, nhưng nó đã bắt đầu lan rộng ở những vùng đất khác, và đi đến đâu người ta cũng bàn tán về Ngày Phán Xét. Gã nhớ lại những câu chuyện từ những kẻ lữ hành mà bọn gã từng chạm trán, rồi cướp bóc; một trận động đất ở Ý, hoàn toàn lu mờ trước những trận động đất và cuồng phong quái dị tàn phá Ấn Độ; cách mà mặt đất ở xứ sở người Mông Cổ nứt toác xuống tận Địa Ngục, và chính Địa Ngục đã ợ lên thứ ôn dịch này.</p>
 
 <p class="para-en">The comets had been just another indication that something in Heaven’s mechanism was sprung. Several of the other brigands under Godefroy had melted away before the sickness pared them down from twenty to the four they had been when they found the girl’s donkey. Those who left had thought to save their souls by quitting the pack of thieves but had probably saved their lives. The company had gotten sick after robbing merchants with a wagonload of furs; no sooner had they abandoned one sick one to his death than another started whimpering in his sleep from a swelling in his armpit or groin.</p>
 
@@ -274,7 +274,7 @@
 
 <p class="para-vi-sub">“Bọn chúng sẽ mang kìm nung ra kẹp thịt mày đấy. Mày có thích thế không?”</p>
 
-<p class="para-en"><a id="page32"></a>“You didn’t answer my question.”</p>
+<p class="para-en">“You didn’t answer my question.”</p>
 
 <p class="para-vi-sub">“Ngài vẫn chưa trả lời câu hỏi của cháu.”</p>
 
@@ -366,7 +366,7 @@
 
 <p class="para-vi-sub">Cô bé co hai gối lên như một con mèo nhỏ và chìm vào giấc ngủ gần như ngay lập tức.</p>
 
-<p class="para-en">Thomas waited until he heard her soft snoring and then quietly gathered his things. The girl was a liability; he would have a better chance on his own. He could travel faster, hide more easily; if he needed to do something brutal, he wouldn’t have her knowing, flint-colored eyes on him, making him hesitate and perhaps dying because <a id="page33"></a>he had. This world wasn’t made for children, particularly girl children, and most particularly those without fathers. That wasn’t his fault. If God wanted her protected, He could do it Himself. He was about to leave her in the church when he saw something red by his foot. It had not been there before. When he saw what it was, he crossed himself for the first time in months and flung it outside. Then he put his gear down. His heart was pounding in his ears.</p>
+<p class="para-en">Thomas waited until he heard her soft snoring and then quietly gathered his things. The girl was a liability; he would have a better chance on his own. He could travel faster, hide more easily; if he needed to do something brutal, he wouldn’t have her knowing, flint-colored eyes on him, making him hesitate and perhaps dying because he had. This world wasn’t made for children, particularly girl children, and most particularly those without fathers. That wasn’t his fault. If God wanted her protected, He could do it Himself. He was about to leave her in the church when he saw something red by his foot. It had not been there before. When he saw what it was, he crossed himself for the first time in months and flung it outside. Then he put his gear down. His heart was pounding in his ears.</p>
 
 <p class="para-vi-sub">Thomas đợi cho đến khi nghe thấy tiếng thở khẽ của cô bé rồi lặng lẽ thu gom đồ đạc. Con bé này là một gánh nặng; gã sẽ có cơ hội sống sót cao hơn nếu đi một mình. Gã có thể di chuyển nhanh hơn, ẩn nấp dễ dàng hơn; nếu cần làm chuyện gì tàn nhẫn, gã sẽ không phải chịu đựng đôi mắt xám màu đá lửa của con bé nhìn vào mình, khiến gã chần chừ rồi có lẽ phải bỏ mạng vì sự chần chừ đó. Thế giới này vốn không dành cho trẻ con, đặc biệt là lũ trẻ gái, và nhất là những đứa không có cha. Đó không phải lỗi của gã. Nếu Chúa muốn bảo vệ cô bé, Ngài có thể tự thực hiện. Gã đang định bỏ lại con bé trong nhà thờ thì nhìn thấy thứ gì đó màu đỏ nằm ngay dưới chân mình. Nó vốn không ở đó trước lúc này. Khi nhận ra đó là thứ gì, Thomas liền làm dấu thánh lần đầu tiên sau nhiều tháng trời và ném phắt nó ra ngoài. Rồi gã đặt trang bị xuống. Tim gã đang đập thình thịch bên tai.</p>
 

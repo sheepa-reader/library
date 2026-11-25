@@ -2,13 +2,13 @@
 
 # Chương Mười Ba: Về Những Giọt Mưa Và Hình Hài Của Tử Thần
 
-<p class="para-en">The rain started almost as soon as they went out the Port St. Bernard and left Paris behind, the girl thinking of the tale of Lot’s wife, telling herself not to look back at the dying city and then doing it anyway. A column of smoke above Paris bade them farewell, as another column of smoke had once greeted them; this one, however, was in the city, where the fire at the woodcarver’s would burn his whole block, sending the healthy into the streets, consuming the sick and the dead. The drops of cold rain that fell on Delphine’s face were the vanguard of the deluge that would save the Left Bank from burning but flood the marshy land on the Right Bank all the way to the Place de Grèves. Bells tolled in the Latin Quarter; there were enough hands, at least, to pull a rope or two. Delphine tried to picture the people ringing those bells; a lone Dominican monk or a paid ringer for the convent; another priest like Père Matthieu, too scared to minister to his flock but trying to save what was left of his soul by warning them about fire. Or were the dead ringing their own bells? If statues could walk, why not them? She felt more tears coming for Annette, and also for herself; when would <a id="page158"></a>she feel a woman’s love again? Had Annette died because Delphine had wanted to stay with her? The words of the wicked statues rang in her head again, and she looked at the men in the front of the cart.</p>
+<p class="para-en">The rain started almost as soon as they went out the Port St. Bernard and left Paris behind, the girl thinking of the tale of Lot’s wife, telling herself not to look back at the dying city and then doing it anyway. A column of smoke above Paris bade them farewell, as another column of smoke had once greeted them; this one, however, was in the city, where the fire at the woodcarver’s would burn his whole block, sending the healthy into the streets, consuming the sick and the dead. The drops of cold rain that fell on Delphine’s face were the vanguard of the deluge that would save the Left Bank from burning but flood the marshy land on the Right Bank all the way to the Place de Grèves. Bells tolled in the Latin Quarter; there were enough hands, at least, to pull a rope or two. Delphine tried to picture the people ringing those bells; a lone Dominican monk or a paid ringer for the convent; another priest like Père Matthieu, too scared to minister to his flock but trying to save what was left of his soul by warning them about fire. Or were the dead ringing their own bells? If statues could walk, why not them? She felt more tears coming for Annette, and also for herself; when would she feel a woman’s love again? Had Annette died because Delphine had wanted to stay with her? The words of the wicked statues rang in her head again, and she looked at the men in the front of the cart.</p>
 
 <p class="para-vi-sub">Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau; Delphine nghĩ về câu chuyện người vợ của ông Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần rồi cuối cùng vẫn làm vậy. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây; tuy nhiên, cột khói lần này nằm ở trong thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt của Delphine chính là toán quân tiên phong của trận mưa như trút nước cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh; ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện; một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân họ? Nếu các bức tượng có thể đi bộ, hà cớ gì bọn chúng lại không thể? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân mình; đến bao giờ em mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên chị? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.</p>
 
-<p class="para-en"><em>Please don’t let them die because of me, God.</em></p>
+<p class="para-en">Please don’t let them die because of me, God.</p>
 
-<p class="para-vi-sub"><i>Lạy Chúa, xin đừng để họ phải chết vì con.</i></p>
+<p class="para-vi-sub">Lạy Chúa, xin đừng để họ phải chết vì con.</p>
 
 <p class="para-en">And now the rain fell, and fell, and fell.</p>
 
@@ -30,9 +30,9 @@
 
 <p class="para-vi-sub">Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn của lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.</p>
 
-<p class="para-en"><em>Good God, he means to eat me.</em></p>
+<p class="para-en">Good God, he means to eat me.</p>
 
-<p class="para-vi-sub"><i>Lạy Chúa tôi, lão định ăn thịt mình kìa.</i></p>
+<p class="para-vi-sub">Lạy Chúa tôi, lão định ăn thịt mình kìa.</p>
 
 <p class="para-en">Then Thomas and Delphine walked in, Thomas with his sword unsheathed, and the man bolted out the other door, falling when the edge of the scythe clipped the door frame and slipped from his hand, but scampering to his feet again almost instantly. He ran straight across the puddled field and kept running, his bare feet kicking up water all the way, disappearing not in the direction of the house, but toward the tree line past the field.</p>
 
@@ -54,7 +54,7 @@
 
 <p class="para-vi-sub">Giờ thì cô bé cũng bật cười, và âm thanh ấy vang lên nghe thật ấm lòng trong căn kho.</p>
 
-<p class="para-en"><a id="page159"></a>They built a fire and took off as many of their clothes as decency allowed, hanging these on sticks to dry. When they had, they changed out of their underlinens and then hung them, putting the cozy, dry ones back on, glad for once not to be cold and soaked. The weather had changed, and where the days had been warm and the nights cool, now the days were cool and the nights cold. They agreed to stay in the barn until morning, then scout the fields for fruit or nut trees, or whatever they could find. In the meantime, they set out their cups and bowls, as well as Thomas’s helmet and thigh armor, to catch enough water to keep their bellies full, which somewhat eased the pain of their hunger.</p>
+<p class="para-en">They built a fire and took off as many of their clothes as decency allowed, hanging these on sticks to dry. When they had, they changed out of their underlinens and then hung them, putting the cozy, dry ones back on, glad for once not to be cold and soaked. The weather had changed, and where the days had been warm and the nights cool, now the days were cool and the nights cold. They agreed to stay in the barn until morning, then scout the fields for fruit or nut trees, or whatever they could find. In the meantime, they set out their cups and bowls, as well as Thomas’s helmet and thigh armor, to catch enough water to keep their bellies full, which somewhat eased the pain of their hunger.</p>
 
 <p class="para-vi-sub">Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép lịch sự rồi treo lên những cây gậy để hơ khô. Xong xuôi, họ thay lớp lót bên trong, đem phơi rồi mặc lại những bộ đồ khô ráo, ấm cúng, thầm biết ơn vì không còn phải chịu cảnh lạnh lẽo và ướt sũng. Thời tiết đã thay đổi; nếu ban ngày từng ấm áp còn ban đêm mát mẻ, thì nay ban ngày se lạnh còn ban đêm buốt giá. Họ đồng ý ở lại trong kho đến sáng rồi sẽ tỏa ra các cánh đồng tìm cây ăn quả, cây có hạt hoặc bất cứ thứ gì có thể kiếm được. Trong lúc chờ đợi, họ bày cốc, bát cùng mũ trụ và giáp đùi của Thomas ra hứng nước mưa nhằm làm dịu cái bụng cồn cào và vơi bớt cơn đau do đói khát.</p>
 
@@ -94,7 +94,7 @@
 
 <p class="para-vi-sub">“Chẳng hạn như trống. Hoặc kèn túi.”</p>
 
-<p class="para-en"><a id="page160"></a>“That’s what I’d like to hear. A drum and a cornemuse.”</p>
+<p class="para-en">“That’s what I’d like to hear. A drum and a cornemuse.”</p>
 
 <p class="para-vi-sub">“Đó mới là thứ tôi muốn nghe. Tiếng trống và kèn túi.”</p>
 
@@ -178,7 +178,7 @@
 
 <p class="para-vi-sub">“Ồ?”</p>
 
-<p class="para-en"><a id="page161"></a>“Father used to tell it.”</p>
+<p class="para-en">“Father used to tell it.”</p>
 
 <p class="para-vi-sub">“Cha hay kể câu chuyện đó lắm.”</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-vi-sub">“Chú cực kỳ thích dị bản này rồi đấy. Mụ vợ lăng loàn bị cắn và hành hạ,” Thomas nói.</p>
 
-<p class="para-en"><a id="page162"></a>“And the king commands the bad knight to bring the good knight’s clothes. Wait…he’s wearing them. So he just takes them off.”</p>
+<p class="para-en">“And the king commands the bad knight to bring the good knight’s clothes. Wait…he’s wearing them. So he just takes them off.”</p>
 
 <p class="para-vi-sub">“Và nhà vua ra lệnh cho gã hiệp sĩ tồi tệ mang quần áo của gã hiệp sĩ tốt tới. Khoan đã… hắn đang mặc chúng trên người mà. Thế nên hắn chỉ việc cởi chúng ra.”</p>
 
@@ -290,7 +290,7 @@
 
 <p class="para-vi-sub">“Hai người có muốn nghe nữa không hả?” cô bé nói.</p>
 
-<p class="para-en">“So we have a shivering knight with a shrinking <em>bitte</em>.”</p>
+<p class="para-en">“So we have a shivering knight with a shrinking bitte.”</p>
 
 <p class="para-vi-sub">“Thế là chúng ta có một gã hiệp sĩ run lẩy bẩy cùng cái củ cải nhỏ xíu đang teo lại.”</p>
 
@@ -350,7 +350,7 @@
 
 <p class="para-vi-sub">“Vị cố vấn thông thái bảo rằng hiệp sĩ cảm thấy xấu hổ khi phải thay đồ trước mặt họ. Thế là họ nhốt con quái thú vào một phòng ngủ cùng với đống quần áo. Nó đi vào bằng bốn chân và bước ra bằng hai chân.”</p>
 
-<p class="para-en"><a id="page163"></a>They both looked at her expectantly.</p>
+<p class="para-en">They both looked at her expectantly.</p>
 
 <p class="para-vi-sub">Cả hai cùng nhìn Delphine với vẻ đầy trông đợi.</p>
 
@@ -426,7 +426,7 @@
 
 <p class="para-vi-sub">Chẳng có chuyện Thomas bắt kịp được lão ta.</p>
 
-<p class="para-en"><a id="page164"></a>The knight slept poorly.</p>
+<p class="para-en">The knight slept poorly.</p>
 
 <p class="para-vi-sub">Vị hiệp sĩ có một giấc ngủ chẳng mấy yên giấc.</p>
 
@@ -460,7 +460,7 @@
 
 <p class="para-en">“I know. Stupid question. Hardly worthy of William of Ockham. I should have asked if you had bad dreams. I did. Would you like to know what about?”</p>
 
-<p class="para-vi-sub">“Tôi biết rồi. Câu hỏi ngớ ngẩn thật. Chẳng đáng tầm vóc của William xứ Ockham<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn11">[11]</a> gì cả. Đáng ra tôi nên hỏi là ngài có gặp ác mộng không. Tôi có đấy. Ngài có muốn biết nội dung là gì không?”</p>
+<p class="para-vi-sub">“Tôi biết rồi. Câu hỏi ngớ ngẩn thật. Chẳng đáng tầm vóc của William xứ Ockham[11] gì cả. Đáng ra tôi nên hỏi là ngài có gặp ác mộng không. Tôi có đấy. Ngài có muốn biết nội dung là gì không?”</p>
 
 <p class="para-en">Thomas didn’t speak.</p>
 
@@ -490,7 +490,7 @@
 
 <p class="para-vi-sub">“Thế ngài thực sự mơ thấy gì?”</p>
 
-<p class="para-en"><a id="page165"></a>“I dreamed my brother had no legs.”</p>
+<p class="para-en">“I dreamed my brother had no legs.”</p>
 
 <p class="para-vi-sub">“Tôi mơ thấy con trai mình bị cụt cả hai chân.”</p>
 
@@ -590,7 +590,7 @@
 
 <p class="para-vi-sub">“Cha chúng tôi thường nói, ‘Vì Chúa chỉ ban cho ta toàn con gái, ta sẽ sai những đứa có râu đi thụ phong linh mục, và những đứa còn lại đi bắt các chàng trai về.’”</p>
 
-<p class="para-en"><a id="page166"></a>Thomas chuckled.</p>
+<p class="para-en">Thomas chuckled.</p>
 
 <p class="para-vi-sub">Thomas khúc khích cười.</p>
 

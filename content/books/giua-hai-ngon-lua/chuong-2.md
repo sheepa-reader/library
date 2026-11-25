@@ -34,7 +34,7 @@ Câu nói sau nghe có vẻ thân thiện nếu như Godefroy không vỗ vỗ v
 
 Những kẻ còn lại bật cười.
 
-“Cái mồm của mày đấy, Thomas,” Godefroy nói, ngân dài âm chữ <i>s</i> ở cuối câu mà người mẹ mang dòng máu nửa Tây Ban Nha của Thomas cứ khăng khăng bắt phát âm cho đúng. “Đúng là sinh ra ở chốn lầu xanh.”
+“Cái mồm của mày đấy, Thomas,” Godefroy nói, ngân dài âm chữ s ở cuối câu mà người mẹ mang dòng máu nửa Tây Ban Nha của Thomas cứ khăng khăng bắt phát âm cho đúng. “Đúng là sinh ra ở chốn lầu xanh.”
 
 “Hôm nay là thứ Sáu à?” tên mập nói. Cả Thomas lẫn Jacquot, gã có bên mắt sụp mí, đều gật đầu.
 
@@ -48,9 +48,9 @@ Chỉ có Thomas vẫn tiếp tục ăn. Những kẻ còn lại dán mắt vào
 
 Dạo này chẳng ai muốn người lạ đến gần; cô bé bắt đầu nhận ra có điều gì đó đen tối ẩn chứa trong tâm trí gã đàn ông này.
 
-<i>từ đó là cưỡng hiếp hắn sẽ cưỡng hiếp mình</i>
+từ đó là cưỡng hiếp hắn sẽ cưỡng hiếp mình
 
-Cô thoáng nghĩ đến việc quay đầu chạy thục mạng về phía cái cây của mình, nhưng vị thiên thần hộ mệnh của cô đã dẫn dắt đám người này đến đây và chỉ tay về phía cái kho. Cô bé biết đó là một vị thiên thần bởi mái tóc hung đẹp đẽ của người chẳng hề dính lấy một giọt mưa, và bởi người trông vừa giống đàn ông lại vừa giống đàn bà, nhưng còn xinh đẹp hơn cả hai giới ấy; người chỉ ngón tay về phía này và bảo: <i>Hãy đến mà xem</i>. Khi vị thiên thần hộ mệnh của cô cất lời với cô, và cô đã từng thấy có lẽ là ba vị, họ đều nói cùng một thứ tiếng Pháp vùng Normandy giống như cô, và điều đó khiến cô lấy làm lạ. Lẽ nào giọng họ không nên giống như người xứ khác hay sao?
+Cô thoáng nghĩ đến việc quay đầu chạy thục mạng về phía cái cây của mình, nhưng vị thiên thần hộ mệnh của cô đã dẫn dắt đám người này đến đây và chỉ tay về phía cái kho. Cô bé biết đó là một vị thiên thần bởi mái tóc hung đẹp đẽ của người chẳng hề dính lấy một giọt mưa, và bởi người trông vừa giống đàn ông lại vừa giống đàn bà, nhưng còn xinh đẹp hơn cả hai giới ấy; người chỉ ngón tay về phía này và bảo: Hãy đến mà xem. Khi vị thiên thần hộ mệnh của cô cất lời với cô, và cô đã từng thấy có lẽ là ba vị, họ đều nói cùng một thứ tiếng Pháp vùng Normandy giống như cô, và điều đó khiến cô lấy làm lạ. Lẽ nào giọng họ không nên giống như người xứ khác hay sao?
 
 Cô đặt trọn niềm tin vào vị thiên thần hộ mệnh của mình dẫu cho người lúc này đã biến mất. Đó chính là vị thiên thần mà cô hay nhìn thấy nhất, và cô rất thích nghĩ rằng người là của riêng mình.
 
@@ -140,7 +140,7 @@ Cô bé lẩn nhanh ra cửa.
 
 “Mấy ả điếm chết sạch rồi còn đâu,” Jacquot lên tiếng.
 
-“Chắc chắn không phải tất cả đâu,” Thomas nói, cố gắng thêm một lần cuối. “Và nếu nước Pháp vẫn còn mười cành hoa phấn nào giữ được cái <i>chatte</i> ấm áp, Godefroy kiểu gì cũng ngửi thấy mùi cho xem.”
+“Chắc chắn không phải tất cả đâu,” Thomas nói, cố gắng thêm một lần cuối. “Và nếu nước Pháp vẫn còn mười cành hoa phấn nào giữ được cái chatte ấm áp, Godefroy kiểu gì cũng ngửi thấy mùi cho xem.”
 
 “Mày làm tao buồn cười thật đấy, Thomas,” Godefroy nói, mặt không hề cười. “Nhưng tao đang ngứa ngáy muốn đút thứ gì vào lắm rồi. Đi bắt con bé đó lại cho tao.”
 

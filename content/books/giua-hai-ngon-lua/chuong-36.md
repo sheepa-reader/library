@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Hai: Bàn Về Những KẻLàm Rượu Đêm
+# Chương Ba Mươi Hai: Bàn Về Những Kẻ Làm Rượu Đêm
 
 Đó là một con giòi.
 
@@ -14,7 +14,7 @@ Robert Hanicotte lẩm bẩm: “Biết đâu tao sẽ làm thế thật,” nh�
 
 Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với anh bằng thứ tiếng Pháp xứ Normandy của chính anh.
 
-Và con ngựa có vẻ quý Delphine. Thề có Chúa, dường như nó thực sự <i>thích</i> cô bé.
+Và con ngựa có vẻ quý Delphine. Thề có Chúa, dường như nó thực sự thích cô bé.
 
 Lời nói của cô bé vô cùng minh mẫn, thế nhưng đôi mắt trĩu nặng lại trông như đang ngái ngủ.
 
@@ -68,27 +68,27 @@ Robert Hanicotte lại há hốc mồm.
 
 Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi anh điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…
 
-<i>Để làm gì?</i>
+Để làm gì?
 
-<i>Để dâng lên Chúa</i>
+Để dâng lên Chúa
 
-<i>Chúa đã quay mặt đi rồi</i>
+Chúa đã quay mặt đi rồi
 
-<i>Vậy thì dâng lên các thiên thần của Ngài</i>
+Vậy thì dâng lên các thiên thần của Ngài
 
 Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ anh sẽ dễ dàng nhận lời như vậy. Rất có thể anh vẫn sẽ làm điều mà cô muốn.
 
-<i>Điều mà các ngài ấy muốn ở anh</i>
+Điều mà các ngài ấy muốn ở anh
 
-<i>Ta cũng sợ họ lắm chứ, gần như sợ cả những người anh em hắc ám của họ vậy; họ cứ quay cuồng chống đối lẫn nhau thì con người có xá gì trong mắt họ cơ chứ?</i>
+Ta cũng sợ họ lắm chứ, gần như sợ cả những người anh em hắc ám của họ vậy; họ cứ quay cuồng chống đối lẫn nhau thì con người có xá gì trong mắt họ cơ chứ?
 
-<i>Chẳng mấy chốc nữa ta sẽ chết</i>
+Chẳng mấy chốc nữa ta sẽ chết
 
 Delphine lắc đầu để xua đi mối hoài nghi trong lòng.
 
-<i>Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết</i>
+Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết
 
-<i>Và ta sắp sửa phải chứng kiến chúng rồi</i>
+Và ta sắp sửa phải chứng kiến chúng rồi
 
 Con ngựa vấp phải những hòn đá dăm khiến mắt cô bừng mở ngay dưới bóng tòa tháp khổng lồ do Philippe the Fair cho xây dựng nhằm uy hiếp thành phố của các giáo hoàng cách đó chừng bốn mươi năm; Villeneuve thuộc địa phận nước Pháp chứ không phải Provence, trong khi Avignon vừa được chính giáo hoàng mua đứt, biến ngài thành một vị quân vương trần thế. Ngọn tháp ấy được dựng lên bởi một vị vua hách dịch nhằm chèn ép một đời giáo hoàng yếu đuối; giờ đây cả hai đều đã chết và Pháp với Avignon đã chung chăn gối cùng nhau, dường như là mãi mãi. Những ô cửa chớp để phóng tên của ngọn tháp tối thui, khác hẳn với rất nhiều ô cửa sổ phía sau lưng cô; giấc ngủ chẳng hề dễ dàng gì đối với thành phố của các hồng y, nơi những kẻ có quyền lực thừa sức mua nến để thắp suốt đêm chống lại những cơn ác mộng. Người dân Villeneuve hoàn toàn không hay biết những cơn ác mộng ấy đang đến gần nhường nào để chuẩn bị giáng thế vào cõi đời này.
 
@@ -154,7 +154,7 @@ Bọn chúng đang thu hẹp khoảng cách.
 
 Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ
 
-<i>bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu</i>
+bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu
 
 bị tóm gọn.
 
@@ -222,7 +222,7 @@ Gã gật đầu.
 
 Thomas khẽ cười trước câu nói ấy.
 
-“Nghe thật nực cười khi nghe con thốt ra những lời đó. Một đứa trẻ mồ côi đến từ Normandy và một tên trộm đến từ Picardy lại đi cứu giáo hoàng. Lại còn là một vị <i>giáo hoàng</i> ăn chơi trác táng.”
+“Nghe thật nực cười khi nghe con thốt ra những lời đó. Một đứa trẻ mồ côi đến từ Normandy và một tên trộm đến từ Picardy lại đi cứu giáo hoàng. Lại còn là một vị giáo hoàng ăn chơi trác táng.”
 
 “Ngài biết rõ là khi ngài thề thốt, con sẽ bảo xin đừng thề rồi sau đó ngài sẽ nhịn một thời gian mà. Sao ngài không chịu bỏ thói quen thề thốt ngay từ đầu cho rồi? Nhưng chắc là con đang đòi hỏi quá sức khi bảo một con ngựa đừng hí vang. Dù sao thì, ngài đâu phải là tên trộm. Và chừng nào còn ở bên ngài, con cũng chẳng phải đứa trẻ mồ côi.”
 
@@ -254,7 +254,7 @@ Bàn tay Thomas giật bắn lên, nhưng gã vẫn không sao đưa tay lên l�
 
 “Thiếu nữ nào?”
 
-“Những người hầu gái trong Đại sảnh Grand Tinel. Họ đã được chuẩn bị sẵn trước lò sưởi lớn trong phòng chứa đồ <i>dressoir</i>, khuất tầm mắt mọi người. Xác họ được tẩm nước hoa rồi bơm đầy dầu ô-liu ấm cùng mật ong, sau đó được áp sát vào lò sưởi để làm ấm phần hông. Người ta nhét đồng thau nóng vào miệng và tay họ để làm ấm những bộ phận đó. Nhờ vậy sẽ chẳng ai nhận ra rằng… họ đã chết. Các hiệp sĩ và hồng y đã ân ái với người chết.”
+“Những người hầu gái trong Đại sảnh Grand Tinel. Họ đã được chuẩn bị sẵn trước lò sưởi lớn trong phòng chứa đồ dressoir, khuất tầm mắt mọi người. Xác họ được tẩm nước hoa rồi bơm đầy dầu ô-liu ấm cùng mật ong, sau đó được áp sát vào lò sưởi để làm ấm phần hông. Người ta nhét đồng thau nóng vào miệng và tay họ để làm ấm những bộ phận đó. Nhờ vậy sẽ chẳng ai nhận ra rằng… họ đã chết. Các hiệp sĩ và hồng y đã ân ái với người chết.”
 
 Lúc này Thomas quay người lại, bóng dáng cao lớn che khuất ánh trăng, nhưng không thể ngăn được ngọn gió mát lạnh lùa qua khung cửa sổ.
 

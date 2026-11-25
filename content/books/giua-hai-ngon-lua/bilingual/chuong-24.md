@@ -10,7 +10,7 @@
 
 <p class="para-vi-sub">Đêm đó và ngày hôm sau mang đến cho họ vận may lớn.</p>
 
-<p class="para-en">The town of Chagny had not admitted them, but three miles on they were able to find a functioning inn that was actually willing to rent <a id="page237"></a>them a room, and use of a dry stable. The man who ran the inn was a former Franciscan monk who had left orders and taken a wife, the very same who now served them watery radish soup with some bitter green in it. Outside, near the well, a statue of the saint, covered in little stone birds and well shat on by living ones, looked toward the gate; it was the innkeeper’s avowed belief that the saint himself protected his house from plague, as well as from the things that had hammered their way into Beaune, and sometimes ranged as far south as Chagny.</p>
+<p class="para-en">The town of Chagny had not admitted them, but three miles on they were able to find a functioning inn that was actually willing to rent them a room, and use of a dry stable. The man who ran the inn was a former Franciscan monk who had left orders and taken a wife, the very same who now served them watery radish soup with some bitter green in it. Outside, near the well, a statue of the saint, covered in little stone birds and well shat on by living ones, looked toward the gate; it was the innkeeper’s avowed belief that the saint himself protected his house from plague, as well as from the things that had hammered their way into Beaune, and sometimes ranged as far south as Chagny.</p>
 
 <p class="para-vi-sub">Thị trấn Chagny đã không cho họ vào thành, nhưng cách đó ba dặm, họ tìm được một quán trọ còn hoạt động, thậm chí sẵn sàng cho họ thuê một căn phòng và sử dụng chuồng ngựa khô ráo. Người chủ quán trọ từng là một tu sĩ dòng Phanxicô đã hoàn tục và lấy vợ, chính là người phụ nữ vừa mang ra cho họ bát súp củ cải loãng toẹt thả dăm cọng rau xanh đắng nghét. Bên ngoài, gần cái giếng nước, bức tượng vị thánh được bao phủ bởi những con chim đá nhỏ và chi chít phân chim thật đang hướng ánh nhìn về phía cổng thành. Chủ quán trọ một mực tin rằng chính vị thánh bảo hộ này đã gìn giữ nhà trọ của ông tránh khỏi dịch hạch, cũng như khỏi những thứ từng đập phá để xông vào Beaune và thỉnh thoảng lang thang xuống tận phía nam đến Chagny.</p>
 
@@ -38,9 +38,9 @@
 
 <p class="para-vi-sub">Ánh nhìn của em quá đỗi đắm đuối khiến chàng thương gia trẻ người Tuscany nhận ra. Anh mỉm cười, hất cằm và nháy mắt đầy biểu cảm về phía những người khác để ra hiệu.</p>
 
-<p class="para-en"><a id="page238"></a><em>“Ragazza,”</em> he said, as if that explained everything, eliciting a chuckle from Thomas.</p>
+<p class="para-en">“Ragazza,” he said, as if that explained everything, eliciting a chuckle from Thomas.</p>
 
-<p class="para-vi-sub">Anh nói: <i>“Ragazza,”</i> như thể điều đó đã giải thích tất cả, khiến Thomas phải bật cười khúc khích.</p>
+<p class="para-vi-sub">Anh nói: “Ragazza,” như thể điều đó đã giải thích tất cả, khiến Thomas phải bật cười khúc khích.</p>
 
 <p class="para-en">“You could come with us,” the priest said at one point. “As far as Avignon, at least.” The Italian understood, and nodded slowly, considering.</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-vi-sub">Chàng trai người Ý đi cùng họ đến tận Chalon-sur-Saône, sải những bước chân lanh lẹ đồng hành bên chiếc xe kéo. Anh mang theo một cây cung và trong ống tên vẫn còn sáu mũi. Ngay sau khi khởi hành, anh đồng ý cùng Thomas bước vào một khoảnh rừng nhỏ để săn bắn. Khi tháo bỏ áo giáp gần chiếc xe kéo, Thomas đoán qua các cử chỉ của Rinaldo rằng anh định bắn một mũi tên duy nhất, và dù có chuyện gì xảy ra đi nữa, anh tuyệt đối sẽ không bắn mũi thứ hai. Nếu đó thực sự là những gì anh định nói, thì anh đã chứng minh bản thân là kẻ nói dối.</p>
 
-<p class="para-en">They moved as silently as they could in the brown leaves, following a sort of path in the undergrowth that less experienced hunters than the Italian might have missed. To his eye, the broken twigs, missing leaves and bent grass were as plain as a Roman highway; the trail led to a lush dip in the land where crabapple trees had been savaged for <a id="page239"></a>their fruit. He pointed and winked at Thomas, splaying his fingers over his head to suggest horns. As if this gesture summoned them, antler marks appeared on the bark of a chestnut tree, with little bits of velvet adhering.</p>
+<p class="para-en">They moved as silently as they could in the brown leaves, following a sort of path in the undergrowth that less experienced hunters than the Italian might have missed. To his eye, the broken twigs, missing leaves and bent grass were as plain as a Roman highway; the trail led to a lush dip in the land where crabapple trees had been savaged for their fruit. He pointed and winked at Thomas, splaying his fingers over his head to suggest horns. As if this gesture summoned them, antler marks appeared on the bark of a chestnut tree, with little bits of velvet adhering.</p>
 
 <p class="para-vi-sub">Họ di chuyển lặng lẽ nhất có thể giữa lớp lá khô, lần theo một dạng lối mòn trong bụi rậm mà những thợ săn ít kinh nghiệm hơn người Ý có thể đã bỏ sót. Dưới mắt Rinaldo Carbonelli, những nhành cây gãy, lá rụng và thảm cỏ bị dập rõ mồn một như một con đường lát đá thời La Mã; dấu vết dẫn đến một vùng trũng màu mỡ nơi những cây táo dại đã bị tàn phá vì quả của chúng. Rinaldo chỉ tay rồi nháy mắt với Thomas, xòe các ngón tay trên đầu để ra hiệu hình sừng thú. Như thể cử động này đã triệu hồi chúng, những dấu vết gạc hươu xuất hiện trên vỏ một cây dẻ, với những mẩu nhung nhỏ còn dính lại.</p>
 
@@ -122,11 +122,11 @@
 
 <p class="para-vi-sub">Tiếng động lại vang lên, tiếng lá xào xạc, lần này lớn hơn. Con hươu bỏ đi, không phải bằng một cú chạy thục mạng, mà đủ nhanh để người Ý không kịp điều chỉnh cả chuyển động của nó lẫn những thân cây non mà nó khuất sau đó. Rinaldo nhăn mặt với cái miệng hé mở, hơi thở bốc khói nghi ngút giữa hai hàm răng nghiến chặt, vẫn dõi theo con hươu đực phòng khi nó quay đầu, nhưng có vẻ điều đó khó mà xảy ra.</p>
 
-<p class="para-en">He felt Thomas’s hand on his shoulder and reluctantly turned his head away from the disappearing red deer. Thomas was looking at him as if to say, <em>Can you believe this?</em></p>
+<p class="para-en">He felt Thomas’s hand on his shoulder and reluctantly turned his head away from the disappearing red deer. Thomas was looking at him as if to say, Can you believe this?</p>
 
-<p class="para-vi-sub">Rinaldo cảm thấy bàn tay của Thomas đặt lên vai mình và miễn cưỡng quay đầu rời khỏi con hươu đỏ đang khuất dần. Thomas đang nhìn anh như muốn nói, <i>Anh có tin nổi chuyện này không?</i></p>
+<p class="para-vi-sub">Rinaldo cảm thấy bàn tay của Thomas đặt lên vai mình và miễn cưỡng quay đầu rời khỏi con hươu đỏ đang khuất dần. Thomas đang nhìn anh như muốn nói, Anh có tin nổi chuyện này không?</p>
 
-<p class="para-en"><a id="page240"></a>In a time of famine, when poaching laws were forgotten and men had all but emptied the woods of game, one magnificent trophy animal had been saved by a second.</p>
+<p class="para-en">In a time of famine, when poaching laws were forgotten and men had all but emptied the woods of game, one magnificent trophy animal had been saved by a second.</p>
 
 <p class="para-vi-sub">Trong thời buổi nạn đói hoành hành, khi luật săn trộm bị lãng quên và con người đã vét cạn gần như toàn bộ thú rừng trong các khu rừng, thì một con mồi chiến lợi phẩm tráng lệ lại được cứu thoát nhờ một con thú thứ hai.</p>
 
@@ -134,9 +134,9 @@
 
 <p class="para-vi-sub">Một con lợn rừng đang hếch mõm hít hà trong bụi rậm, vẫn chưa hề hay biết gì về sự hiện diện của những kẻ thợ săn.</p>
 
-<p class="para-en"><em>“Porca troia,”</em> Rinaldo whispered, drawing the bow again and loosing.</p>
+<p class="para-en">“Porca troia,” Rinaldo whispered, drawing the bow again and loosing.</p>
 
-<p class="para-vi-sub"><i>“Porca troia,”</i> Rinaldo thì thầm, giương cung lần nữa rồi thả tay.</p>
+<p class="para-vi-sub">“Porca troia,” Rinaldo thì thầm, giương cung lần nữa rồi thả tay.</p>
 
 <p class="para-en">His arrow sank into the cheek of the wild boar, causing it to squeal and lash out in all directions with its tusked snout. He drew a second arrow, and that was when it locked its black little eyes on him and identified him as the source of its pain.</p>
 

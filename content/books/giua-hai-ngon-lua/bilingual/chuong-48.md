@@ -38,21 +38,21 @@
 
 <p class="para-vi-sub">Lại tiếng Provençal, nhưng lần này thì vượt quá khả năng hiểu của anh.</p>
 
-<p class="para-en"><a id="page413"></a><em>I thought the big one’s arm was off.</em></p>
+<p class="para-en">I thought the big one’s arm was off.</p>
 
-<p class="para-vi-sub"><i>Ta cứ nghĩ cánh tay của gã to con đó bị đứt lìa cơ chứ.</i></p>
+<p class="para-vi-sub">Ta cứ nghĩ cánh tay của gã to con đó bị đứt lìa cơ chứ.</p>
 
-<p class="para-en"><em>It was, I saw it too. He was deader than hell. Another miracle.</em></p>
+<p class="para-en">It was, I saw it too. He was deader than hell. Another miracle.</p>
 
-<p class="para-vi-sub"><i>Đúng thế thật, ta cũng thấy vậy. Lão ta đã chết ngắt từ đời nào rồi. Lại thêm một phép màu nữa.</i></p>
+<p class="para-vi-sub">Đúng thế thật, ta cũng thấy vậy. Lão ta đã chết ngắt từ đời nào rồi. Lại thêm một phép màu nữa.</p>
 
-<p class="para-en"><em>What do we do?</em></p>
+<p class="para-en">What do we do?</p>
 
-<p class="para-vi-sub"><i>Chúng ta phải làm gì đây?</i></p>
+<p class="para-vi-sub">Chúng ta phải làm gì đây?</p>
 
-<p class="para-en"><em>Help him, idiot.</em></p>
+<p class="para-en">Help him, idiot.</p>
 
-<p class="para-vi-sub"><i>Đỡ anh ta dậy đi, đồ ngốc.</i></p>
+<p class="para-vi-sub">Đỡ anh ta dậy đi, đồ ngốc.</p>
 
 <p class="para-en">Now arms hooked under his and lifted him out of the pit of bodies.</p>
 
@@ -90,9 +90,9 @@
 
 <p class="para-vi-sub">“Vâng, thưa ngài. Sao ngài lại biết cháu?”</p>
 
-<p class="para-en"><em>I had a different face then!</em></p>
+<p class="para-en">I had a different face then!</p>
 
-<p class="para-vi-sub"><i>Khi đó ta mang một khuôn mặt khác mà!</i></p>
+<p class="para-vi-sub">Khi đó ta mang một khuôn mặt khác mà!</p>
 
 <p class="para-en">“I don’t know.”</p>
 
@@ -130,21 +130,21 @@
 
 <p class="para-vi-sub">“Chúng cháu tìm thấy ngài trong đống đổ nát của cung điện. Cùng với những thứ này. Động đất.”</p>
 
-<p class="para-en"><em>Earthquake?</em></p>
+<p class="para-en">Earthquake?</p>
 
-<p class="para-vi-sub"><i>Động đất ư?</i></p>
+<p class="para-vi-sub">Động đất ư?</p>
 
-<p class="para-en"><em>Was that what had happened?</em></p>
+<p class="para-en">Was that what had happened?</p>
 
-<p class="para-vi-sub"><i>Đó là những gì đã xảy ra sao?</i></p>
+<p class="para-vi-sub">Đó là những gì đã xảy ra sao?</p>
 
-<p class="para-en"><em>No.</em></p>
+<p class="para-en">No.</p>
 
-<p class="para-vi-sub"><i>Không.</i></p>
+<p class="para-vi-sub">Không.</p>
 
-<p class="para-en"><em>But it was what men could stand to remember.</em></p>
+<p class="para-en">But it was what men could stand to remember.</p>
 
-<p class="para-vi-sub"><i>Nhưng đó là điều con người có thể chịu đựng để nhớ đến.</i></p>
+<p class="para-vi-sub">Nhưng đó là điều con người có thể chịu đựng để nhớ đến.</p>
 
 <p class="para-en">Thomas got to his feet, painfully, dusting himself off.</p>
 
@@ -162,7 +162,7 @@
 
 <p class="para-vi-sub">“Nhiều lắm ạ.”</p>
 
-<p class="para-en"><a id="page414"></a>“Or the page. Have you seen the page that served the comte in the Elysium House? Your little friend?”</p>
+<p class="para-en">“Or the page. Have you seen the page that served the comte in the Elysium House? Your little friend?”</p>
 
 <p class="para-vi-sub">“Hoặc là cậu tiểu đồng. Cậu có thấy cậu tiểu đồng phục vụ cho bá tước tại Dinh Thự Elysium không? Người bạn nhỏ của cậu ấy?”</p>
 
@@ -182,7 +182,7 @@
 
 <p class="para-vi-sub">Người đàn ông bắt đầu rắc vôi bột lên những xác chết.</p>
 
-<p class="para-en">Villeneuve had fallen into the river; it seemed in places to have <em>melted</em> into the river, the stone having turned liquid and then back to stone. And the Rhône had diverted through Avignon. The city walls on the west side had crumbled, as had half the palace. Thomas looked for the girl, asked about her; nobody knew a thing. He returned to the Franciscan abbey, and the Alsatian told him the girl had not come back, but that his horse was waiting for him.</p>
+<p class="para-en">Villeneuve had fallen into the river; it seemed in places to have melted into the river, the stone having turned liquid and then back to stone. And the Rhône had diverted through Avignon. The city walls on the west side had crumbled, as had half the palace. Thomas looked for the girl, asked about her; nobody knew a thing. He returned to the Franciscan abbey, and the Alsatian told him the girl had not come back, but that his horse was waiting for him.</p>
 
 <p class="para-vi-sub">Villeneuve đã sụp xuống dòng sông; có những nơi dường như nó đã tan chảy vào lòng sông, những hòn đá hóa lỏng rồi sau đó lại đông cứng trở lại thành đá. Và sông Rhône đã đổi dòng chảy xuyên qua Avignon. Những bức tường thành ở phía tây đã đổ nát, giống như một nửa cung điện vậy. Thomas tìm kiếm cô bé, hỏi thăm về cô bé; không một ai biết điều gì cả. Anh quay trở lại tu viện dòng Phanxicô, và người đàn ông gốc Alsace nói với anh rằng cô bé đã không quay lại, nhưng con ngựa của anh thì vẫn đang đợi sẵn.</p>
 
@@ -194,23 +194,23 @@
 
 <p class="para-vi-sub">Trong số những người chết có ba vị hồng y, một trong số đó là Hanicotte, anh trai của vị linh mục, người vừa được phong chức vào đêm hôm trước.</p>
 
-<p class="para-en"><em>Was it just last night?</em></p>
+<p class="para-en">Was it just last night?</p>
 
-<p class="para-vi-sub"><i>Có phải mới chỉ là đêm qua thôi không?</i></p>
+<p class="para-vi-sub">Có phải mới chỉ là đêm qua thôi không?</p>
 
-<p class="para-en"><em>So much happened since then.</em></p>
+<p class="para-en">So much happened since then.</p>
 
-<p class="para-vi-sub"><i>Quá nhiều chuyện đã xảy ra kể từ lúc đó.</i></p>
+<p class="para-vi-sub">Quá nhiều chuyện đã xảy ra kể từ lúc đó.</p>
 
-<p class="para-en"><em>But what?</em></p>
+<p class="para-en">But what?</p>
 
-<p class="para-vi-sub"><i>Nhưng rốt cuộc là chuyện gì?</i></p>
+<p class="para-vi-sub">Nhưng rốt cuộc là chuyện gì?</p>
 
 <p class="para-en">Cardinal Hanicotte had been crushed near the entrance to the chapel, where many had tried to hide, his robes and fine gloves matted with blood. One of many, alike in death, wedded together under the stone angels and devils that had arched over the door.</p>
 
 <p class="para-vi-sub">Hồng y Hanicotte đã bị đè bẹp gần lối vào nhà nguyện, nơi rất nhiều người đã cố trốn tránh, bộ lễ phục và đôi găng tay tinh xảo của anh bết dính máu. Anh chỉ là một trong số rất nhiều người, giống hệt nhau trong cái chết, gắn kết với nhau dưới những bức tượng thiên thần và ác quỷ bằng đá uốn cong phía trên cánh cửa.</p>
 
-<p class="para-en"><a id="page415"></a>But Hanicotte was at the center.</p>
+<p class="para-en">But Hanicotte was at the center.</p>
 
 <p class="para-vi-sub">Nhưng Hanicotte nằm ở ngay chính giữa.</p>
 
@@ -226,9 +226,9 @@
 
 <p class="para-vi-sub">Thomas ngủ trên một cánh đồng cùng với những công nhân khác.</p>
 
-<p class="para-en">He ate food from the <em>pignotte</em>.</p>
+<p class="para-en">He ate food from the pignotte.</p>
 
-<p class="para-vi-sub">Anh ăn thức ăn từ nhà tế bần <i>pignotte</i>.</p>
+<p class="para-vi-sub">Anh ăn thức ăn từ nhà tế bần pignotte.</p>
 
 <p class="para-en">He threw his coat of mail in the river and worked in the simple hose and long shirt of a laborer.</p>
 
@@ -254,7 +254,7 @@
 
 <p class="para-vi-sub">Nó đã rơi xuống một rãnh nước và bị gãy.</p>
 
-<p class="para-en"><a id="page416"></a>He looked at the blade, the notches in it, trying to remember where the deepest ones had come from. Blurry images of brigandage and war came to him, but he did not try to sharpen them. He let them fall away. Thomas pressed his lips to the ruined blade, not in fondness for the harm it had done, but for the trace of the girl’s blood that still remained on it. After a long crouch, he left it where it lay; some peddler would find it and sell it for scrap, all of it; blade, quillons, tang, pommel, the wooden handle, and the deerskin wrap.</p>
+<p class="para-en">He looked at the blade, the notches in it, trying to remember where the deepest ones had come from. Blurry images of brigandage and war came to him, but he did not try to sharpen them. He let them fall away. Thomas pressed his lips to the ruined blade, not in fondness for the harm it had done, but for the trace of the girl’s blood that still remained on it. After a long crouch, he left it where it lay; some peddler would find it and sell it for scrap, all of it; blade, quillons, tang, pommel, the wooden handle, and the deerskin wrap.</p>
 
 <p class="para-vi-sub">Thomas nhìn lưỡi gươm với những vết mẻ trên đó, cố gắng nhớ xem những vết sâu nhất bắt nguồn từ đâu. Những hình ảnh mờ ảo về nạn cướp bóc và chiến tranh hiện về trong tâm trí, nhưng anh không cố làm cho chúng rõ hơn. Anh để chúng trôi đi. Thomas áp môi vào lưỡi gươm tàn tạ, không phải vì tiếc nuối những tổn hại mà nó từng gây ra, mà vì vết máu của cô bé vẫn còn vương lại trên đó. Sau một hồi ngồi xổm lâu, anh cứ để nó nằm lại nơi ấy; thế nào cũng có một kẻ lang thang nào đó nhặt được và đem bán nó làm phế liệu, tất cả mọi thứ: từ lưỡi gươm, ngàm bảo vệ, chuôi tang, núm chuôi, phần tay cầm bằng gỗ, cho đến lớp da nai quấn quanh.</p>
 
@@ -302,7 +302,7 @@
 
 <p class="para-vi-sub">Cô bé nhìn thấy bốn người đàn ông trong những bộ đồ rách rưới và tạp dề đang đi xuống con đường, mang theo dụng cụ và bao tải. Khi trời mưa, họ tiến vào nhà kho của cô bé để trú ẩn. Họ hoàn toàn có thể được tha thứ khi nghĩ rằng vùng đất này đã bị bỏ hoang; cánh đồng thì hoang vu, và tất cả các trang trại trong bán kính hàng dặm đều chìm trong tĩnh lặng. Thảm họa đã giáng xuống vùng Normandy này vào mùa hè, cướp đi người mẹ trước và sau đó là người cha ngọt ngào của cô bé. Đó là ký ức cuối cùng mà cô bé còn nhớ được.</p>
 
-<p class="para-en"><a id="page417"></a>She had awakened in her tree this morning, bitterly cold.</p>
+<p class="para-en">She had awakened in her tree this morning, bitterly cold.</p>
 
 <p class="para-vi-sub">Cô bé đã tỉnh dậy trên cây của mình vào sáng nay trong cái lạnh buốt giá.</p>
 
@@ -390,7 +390,7 @@
 
 <p class="para-vi-sub">Vào buổi sáng, cô bé rời đi cùng họ, cưỡi trên con lừa của mình trong khi họ đi xung quanh cô bé.</p>
 
-<p class="para-en"><a id="page418"></a>The tall one walked nearest.</p>
+<p class="para-en">The tall one walked nearest.</p>
 
 <p class="para-vi-sub">Gã cao lớn đi ở sát nhất.</p>
 
@@ -490,6 +490,6 @@
 
 <p class="para-vi-sub">Đây sẽ là một bí mật.</p>
 
-<p class="para-en"><em>Little Moon.</em></p>
+<p class="para-en">Little Moon.</p>
 
 <p class="para-vi-sub">Vầng trăng nhỏ.</p>

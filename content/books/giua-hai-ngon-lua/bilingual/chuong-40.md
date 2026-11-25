@@ -1,10 +1,10 @@
 *Phần IV*
 
-# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khívà Đêm Canh Thức
+# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
 
 <p class="para-en">“Isnard!”</p>
 
-<p class="para-vi-sub"><span class="drop-2">“I</span>snard.”</p>
+<p class="para-vi-sub">“Isnard.”</p>
 
 <p class="para-en">The chamber boy at Elysium House peered out the window and down at the street, the darkness of which still resisted the prying of the low morning sun between the close buildings.</p>
 
@@ -46,7 +46,7 @@
 
 <p class="para-vi-sub">“Chuyện gì thế?” Cậu bảo. “Và làm ơn nhanh lên.”</p>
 
-<p class="para-en"><a id="page362"></a>Why was Diego in his nightclothes?</p>
+<p class="para-en">Why was Diego in his nightclothes?</p>
 
 <p class="para-vi-sub">Tại sao Diego lại mặc nguyên đồ ngủ thế kia?</p>
 
@@ -94,7 +94,7 @@
 
 <p class="para-vi-sub">Cậu ta ngẫm nghĩ điều này.</p>
 
-<p class="para-en">“All the same, they’ll <em>kill</em> me! Then they’ll turn me out, and my father will kill me again!”</p>
+<p class="para-en">“All the same, they’ll kill me! Then they’ll turn me out, and my father will kill me again!”</p>
 
 <p class="para-vi-sub">“Dù thế nào đi nữa, họ cũng sẽ giết tôi. Rồi họ sẽ đuổi cổ tôi ra đường, và cha tôi sẽ đánh chết tôi thêm lần nữa cho mà xem.”</p>
 
@@ -150,7 +150,7 @@
 
 <p class="para-vi-sub">“Trên đó có khắc hình các thiên thần đấy.”</p>
 
-<p class="para-en"><a id="page363"></a>Isnard liked angels.</p>
+<p class="para-en">Isnard liked angels.</p>
 
 <p class="para-vi-sub">Isnard rất thích thiên thần.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-vi-sub">Huynh đoàn Phanxicô sinh hoạt trong một tòa nhà bề thế và uy nghi, xứng tầm với thành phố lớn và kiêu hãnh mà họ phụ vụ; điều này lại không mấy vừa lòng tất cả các tu sĩ trong dòng, những người gia nhập tu hội vì tinh thần khó nghèo theo lời Chúa nhiều hơn là vì sự xa hoa của giáo hội. Dẫu vậy, đây chính là thủ đô của thế giới Thiên Chúa giáo, và đây là nơi họ có thể làm được nhiều nhất để bảo vệ tu hội khỏi những cáo buộc dị giáo. Thà để các giáo hoàng xây cho họ những nhà thờ tráng lệ còn hơn bị thiêu cháy trên những giàn hỏa thiêu nghèo hèn. Họ cho phép những kẻ giàu có được chôn cất người chết trong nghĩa trang nhà thờ, cứ như thể Ác quỷ quá ư đơn giản để không thể tìm ra một củ hành thối trong mảnh đất tốt màu mỡ vậy; và khi giới giàu có tìm cách chuộc lại quãng đời ho phí của mình, trút vô số tiền bạc từ giường bệnh lên các tu sĩ, hội tu sĩ lại dùng của cải ấy để truyền bá lời dạy của Đấng Christ khó nghèo.</p>
 
-<p class="para-en"><a id="page364"></a>They never closed their doors to anyone, and their hospitality during these months of pestilence had exacted a heavy toll.</p>
+<p class="para-en">They never closed their doors to anyone, and their hospitality during these months of pestilence had exacted a heavy toll.</p>
 
 <p class="para-vi-sub">Họ chưa từng đóng cửa với bất kỳ ai, và lòng hiếu khách của họ trong những tháng ngày dịch bệnh hoành hành này đã phải trả một cái giá đắt đỏ.</p>
 
@@ -204,7 +204,7 @@
 
 <p class="para-en">He showed them to a room where they could sleep through midday, and then showed them to the altar of the Virgin, where they could pray.</p>
 
-<p class="para-vi-sub">Thầy dẫn họ đến một căn phòng để có thể ngủ qua quãng trưa, rồi sau đó đưa họ đến trước bàn thờ Đức Mẹ để cầu nguyện.</p>
+<p class="para-vi-sub">Thầy dẫn họ đến một căn phòng để có thể ngủ qua đêm.</p>
 
 <p class="para-en">They told him they wished to have strong bodies and pure hearts.</p>
 
@@ -266,7 +266,7 @@
 
 <p class="para-vi-sub">Delphine rút thanh kiếm của Thomas ra khỏi vỏ.</p>
 
-<p class="para-en"><a id="page365"></a>“What are you going to do, break it so I won’t hurt anybody?” he joked. She gave him that dry, tight-lipped head shake he knew so well. Then she did something that made him gasp.</p>
+<p class="para-en">“What are you going to do, break it so I won’t hurt anybody?” he joked. She gave him that dry, tight-lipped head shake he knew so well. Then she did something that made him gasp.</p>
 
 <p class="para-vi-sub">“Con định làm gì thế, bẻ gãy nó để ta không làm tổn thương ai nữa à?” anh đùa cợt. Delphine tặng anh cái lắc đầu khô khốc, mím chặt môi mà anh đã quá đỗi quen thuộc, rồi làm một hành động khiến Thomas phải hít một hơi thật sâu.</p>
 
@@ -286,49 +286,49 @@
 
 <p class="para-vi-sub">Tựa như đó là dầu thánh.</p>
 
-<p class="para-en"><em>It is.</em></p>
+<p class="para-en">It is.</p>
 
-<p class="para-vi-sub"><i>Đúng là thế.</i></p>
+<p class="para-vi-sub">Đúng là thế.</p>
 
 <p class="para-en">He gasped again, but this was a gasp of recognition.</p>
 
 <p class="para-vi-sub">Thomas lại hít một hơi, nhưng lần này là cái thở dốc của sự nhận ra.</p>
 
-<p class="para-en"><em>Jesus whoring Christ, do I have to watch you every second?</em></p>
+<p class="para-en">Jesus whoring Christ, do I have to watch you every second?</p>
 
-<p class="para-vi-sub"><i>Chúa Kitô bán phấn buôn hương ơi, ta có phải canh chừng con bé từng giây từng phút không hả?</i></p>
+<p class="para-vi-sub">Chúa Kitô bán phấn buôn hương ơi, ta có phải canh chừng con bé từng giây từng phút không hả?</p>
 
-<p class="para-en"><em>You bleeding all over my things doesn’t help me, you, or anybody. Understand?</em></p>
+<p class="para-en">You bleeding all over my things doesn’t help me, you, or anybody. Understand?</p>
 
-<p class="para-vi-sub"><i>Con bé bê bết máu lên đồ đạc của ta thì chẳng giúp ích gì cho ta, cho nó hay bất kỳ ai đâu. Hiểu không hả?</i></p>
+<p class="para-vi-sub">Con bé bê bết máu lên đồ đạc của ta thì chẳng giúp ích gì cho ta, cho nó hay bất kỳ ai đâu. Hiểu không hả?</p>
 
 <p class="para-en">The thing in the murk had not been bothered by the billhook or the boar spear; it recoiled only when struck by his sword. His sword had killed it.</p>
 
 <p class="para-vi-sub">Thứ nằm dưới lớp bùn nhão kia chẳng hề nao núng trước chiếc rìu chiến hay ngọn giáo săn lợn; nó chỉ lùi lại khi bị thanh kiếm của anh chém trúng. Thanh kiếm của anh đã giết chết nó.</p>
 
-<p class="para-en"><em>Her blood killed it.</em></p>
+<p class="para-en">Her blood killed it.</p>
 
-<p class="para-vi-sub"><i>Máu của con bé đã giết chết nó.</i></p>
+<p class="para-vi-sub">Máu của con bé đã giết chết nó.</p>
 
-<p class="para-en"><em>Her blood in its heart.</em></p>
+<p class="para-en">Her blood in its heart.</p>
 
-<p class="para-vi-sub"><i>Máu của con bé nằm trong tim nó.</i></p>
+<p class="para-vi-sub">Máu của con bé nằm trong tim nó.</p>
 
 <p class="para-en">The armorer at the night tourney would not touch it.</p>
 
 <p class="para-vi-sub">Gã thợ rèn áo giáp tại buổi cấm phòng ban đêm đã chẳng dám chạm vào nó.</p>
 
-<p class="para-en"><em>Christ, what the hell is on this thing?</em></p>
+<p class="para-en">Christ, what the hell is on this thing?</p>
 
-<p class="para-vi-sub"><i>Chúa ơi, quái quỷ gì dính trên thứ này thế không biết?</i></p>
+<p class="para-vi-sub">Chúa ơi, quái quỷ gì dính trên thứ này thế không biết?</p>
 
-<p class="para-en"><em>I killed something foul in a river.</em></p>
+<p class="para-en">I killed something foul in a river.</p>
 
-<p class="para-vi-sub"><i>Ta đã tiêu diệt một thứ ô uế dưới lòng sông.</i></p>
+<p class="para-vi-sub">Ta đã tiêu diệt một thứ ô uế dưới lòng sông.</p>
 
-<p class="para-en"><em>Hey, Jacmel, you want any of this?</em></p>
+<p class="para-en">Hey, Jacmel, you want any of this?</p>
 
-<p class="para-vi-sub"><i>Này, Jacquot, mày có muốn chút nào từ thứ này không?</i></p>
+<p class="para-vi-sub">Này, Jacquot, mày có muốn chút nào từ thứ này không?</p>
 
 <p class="para-en">He kissed the bloody sword now, and put it in its sheath.</p>
 
@@ -346,11 +346,11 @@
 
 <p class="para-vi-sub">Delphine kéo đầu Thomas xuống và hôn lên má anh.</p>
 
-<p class="para-en"><em>Daughter witch page saint prophet angel what are you what are you You</em></p>
+<p class="para-en">Daughter witch page saint prophet angel what are you what are you You</p>
 
 <p class="para-vi-sub">Con gái phù thủy tu sinh thánh tiên tri thiên thần con là cái quái gì con là gì hỡi nhóc</p>
 
-<p class="para-en"><em>Delphine</em></p>
+<p class="para-en">Delphine</p>
 
 <p class="para-vi-sub">Delphine</p>
 
@@ -358,7 +358,7 @@
 
 <p class="para-vi-sub">“Con là gì vậy?” Thomas cất lời.</p>
 
-<p class="para-en"><a id="page366"></a>“Two things, I think. But soon I’ll be just one.”</p>
+<p class="para-en">“Two things, I think. But soon I’ll be just one.”</p>
 
 <p class="para-vi-sub">“Hai thứ, con nghĩ thế. Nhưng chẳng mấy chốc con sẽ chỉ còn là một.”</p>
 
@@ -366,9 +366,9 @@
 
 <p class="para-vi-sub">Thomas lắc đầu để ngăn bản thân không bật khóc.</p>
 
-<p class="para-en">He could not, he <em>would</em> not watch her be hurt.</p>
+<p class="para-en">He could not, he would not watch her be hurt.</p>
 
-<p class="para-vi-sub">Anh không thể, anh <i>sẽ không</i> thể nhìn Delphine chịu tổn thương.</p>
+<p class="para-vi-sub">Anh không thể, anh sẽ không thể nhìn Delphine chịu tổn thương.</p>
 
 <p class="para-en">Not if it meant his soul.</p>
 

@@ -1,8 +1,8 @@
 *Phần IV*
 
-# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khívà Đêm Canh Thức
+# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
 
-<span class="drop-2">“I</span>snard.”
+“Isnard.”
 
 Cậu bé phục vụ tại nhà trọ Elysium ngó đầu ra cửa sổ nhìn xuống đường phố, nơi bóng tối vẫn đang chống cự lại những tia nắng sớm yếu ớt len lỏi giữa các dãy nhà sát vách.
 
@@ -102,7 +102,7 @@ Thầy tu Albrecht, một người gốc Alsace đang chớm bị bệnh cườm
 
 Thầy giúp họ cất ngựa vào chuồng.
 
-Thầy dẫn họ đến một căn phòng để có thể ngủ qua quãng trưa, rồi sau đó đưa họ đến trước bàn thờ Đức Mẹ để cầu nguyện.
+Thầy dẫn họ đến một căn phòng để có thể ngủ qua đêm.
 
 Họ nói với thầy rằng họ mong muốn có được thân thể tráng kiện và tâm hồn thanh tịnh.
 
@@ -144,27 +144,27 @@ Delphine bôi máu của mình lên cả hai mặt lưỡi kiếm, miết dọc 
 
 Tựa như đó là dầu thánh.
 
-<i>Đúng là thế.</i>
+Đúng là thế.
 
 Thomas lại hít một hơi, nhưng lần này là cái thở dốc của sự nhận ra.
 
-<i>Chúa Kitô bán phấn buôn hương ơi, ta có phải canh chừng con bé từng giây từng phút không hả?</i>
+Chúa Kitô bán phấn buôn hương ơi, ta có phải canh chừng con bé từng giây từng phút không hả?
 
-<i>Con bé bê bết máu lên đồ đạc của ta thì chẳng giúp ích gì cho ta, cho nó hay bất kỳ ai đâu. Hiểu không hả?</i>
+Con bé bê bết máu lên đồ đạc của ta thì chẳng giúp ích gì cho ta, cho nó hay bất kỳ ai đâu. Hiểu không hả?
 
 Thứ nằm dưới lớp bùn nhão kia chẳng hề nao núng trước chiếc rìu chiến hay ngọn giáo săn lợn; nó chỉ lùi lại khi bị thanh kiếm của anh chém trúng. Thanh kiếm của anh đã giết chết nó.
 
-<i>Máu của con bé đã giết chết nó.</i>
+Máu của con bé đã giết chết nó.
 
-<i>Máu của con bé nằm trong tim nó.</i>
+Máu của con bé nằm trong tim nó.
 
 Gã thợ rèn áo giáp tại buổi cấm phòng ban đêm đã chẳng dám chạm vào nó.
 
-<i>Chúa ơi, quái quỷ gì dính trên thứ này thế không biết?</i>
+Chúa ơi, quái quỷ gì dính trên thứ này thế không biết?
 
-<i>Ta đã tiêu diệt một thứ ô uế dưới lòng sông.</i>
+Ta đã tiêu diệt một thứ ô uế dưới lòng sông.
 
-<i>Này, Jacquot, mày có muốn chút nào từ thứ này không?</i>
+Này, Jacquot, mày có muốn chút nào từ thứ này không?
 
 Giờ đây, Thomas hôn lên thanh kiếm đẫm máu rồi đút vào vỏ.
 
@@ -184,7 +184,7 @@ Delphine
 
 Thomas lắc đầu để ngăn bản thân không bật khóc.
 
-Anh không thể, anh <i>sẽ không</i> thể nhìn Delphine chịu tổn thương.
+Anh không thể, anh sẽ không thể nhìn Delphine chịu tổn thương.
 
 Kể cả khi điều đó đánh đổi bằng linh hồn anh.
 

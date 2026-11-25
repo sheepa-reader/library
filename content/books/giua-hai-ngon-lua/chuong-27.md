@@ -108,7 +108,7 @@ Delphine cất giọng hát.
 
 Đó là một giai điệu mà Thomas mang theo những ký ức mờ nhạt từ bữa tiệc cưới của mình, khi ánh mắt người vợ nhìn gã đầy trìu mến; gã đã bốc một nắm các loại hạt tẩm đường bỏ vào miệng, và chiếc nhẫn nặng nề mới tinh đã va vào răng khiến gã phải thề thốt, làm nàng bật cười. Cả bàn tiệc đã cười vang.
 
-Kể từ ngày đó trở đi, ba tiếng gõ nhẫn của nàng lên bất cứ vật gì có nghĩa là, <i>Anh có nhớ ngày cưới của chúng ta không?</i> và ba tiếng gõ đáp lại từ phía Thomas có nghĩa là, <i>Thiên Chúa ơi, có chứ</i>.
+Kể từ ngày đó trở đi, ba tiếng gõ nhẫn của nàng lên bất cứ vật gì có nghĩa là, Anh có nhớ ngày cưới của chúng ta không? và ba tiếng gõ đáp lại từ phía Thomas có nghĩa là, Thiên Chúa ơi, có chứ.
 
 Thomas nhớ lại tất cả vô cùng rõ nét: mùi hương cam bergamot vương trên mái tóc nàng, chiếc cổ trắng ngần, đôi mắt sắc xanh như màu quả lê, và chiếc giường tân hôn ngọt ngào làm sao. Cả việc, ngay cả sau nhiều năm bôn ba ân ái với những phụ nữ theo quân ngũ và đám nữ tỳ trong bếp, gã vẫn đứng đầy hồi hộp khi các bà lão tháo những dải ruy băng trên chiếc quần chẽn của gã, ngắm nhìn người đẹp có chiếc bụng nhạt màu, đáng yêu ấy để gã sinh ra những đứa trẻ và có đôi môi để gã hôn suốt phần đời còn lại của nàng.
 
@@ -144,7 +144,7 @@ Gã hy vọng trên Thiên Đàng của ông có rượu.
 
 Liệu một kẻ đoạn tụ có thể lên Thiên Đàng không? Gã nhớ lại cảnh vị linh mục nâng cô bé lên khỏi mặt nước khi những sinh vật gớm ghiếc kia rút cạn sự sống của ông.
 
-<i>Hoc est corpus meum.</i>
+Hoc est corpus meum.
 
 Nếu điều đó vẫn chưa đủ, thì chẳng có gì là đủ cả.
 
@@ -184,15 +184,15 @@ Delphine ngước nhìn ông, ngạc nhiên vì ông đang hướng ánh mắt v
 
 Cô bé nhìn họ với ánh mắt cùng nụ cười buồn khiến cụ già bối rối, nhưng Thomas đã chứng kiến đủ nhiều từ em để có thể thấu hiểu.
 
-<i>Con bé không biết chơi.</i>
+Con bé không biết chơi.
 
-<i>Không phải con bé là người đã chơi đàn.</i>
+Không phải con bé là người đã chơi đàn.
 
 Đêm hôm sau, trong lúc cụ già và Thomas tranh thủ chợp mắt vài tiếng, Delphine tiến lại gần thi thể lạnh ngắt của cha Matthieu. Em đưa ngón tay đặt dưới mũi ông và chẳng cảm nhận được gì. Cô bé cảm thấy bản thân đang đứng bên bờ vực của một tội ác báng bổ tột cùng, nhưng nỗi phẫn nộ trước cái chết của vị linh mục nhân hậu lớn đến mức em chẳng màng việc làm Chúa nổi giận ngay lúc này nữa.
 
 Ngài đáng bị như vậy lắm.
 
-<i>Mình không thể suy nghĩ như thế được.</i>
+Mình không thể suy nghĩ như thế được.
 
 Em cầu nguyện.
 
@@ -204,7 +204,7 @@ Chẳng có gì xảy ra cả.
 
 Em cố gắng gợi lại cảm giác con chim sẻ đang đập cánh trong lồng ngực mình; em tưởng rằng mình đã làm được, nhưng lại chẳng chắc chắn. Cô bé cảm thấy bản thân suýt thì làm được việc này, rằng chỉ cần thêm một chút trợ giúp nữa thôi…
 
-<i>Đây có phải là tội lỗi không?</i>
+Đây có phải là tội lỗi không?
 
 Delphine lại thổi hơi vào miệng ông một lần nữa.
 
@@ -216,23 +216,23 @@ Cô bé suýt bật cười vì sung sướng.
 
 Và rồi bàn tay ấy buông thõng.
 
-<i>Không!</i>
+Không!
 
 Cô bé lại thổi hơi vào miệng ông lần nữa.
 
 Vẫn không có gì.
 
-<i>LÀM ƠN,</i> em thầm nghĩ, <i>cha tốt như vậy con cần cha xin hãy làm ơn con yêu cha!</i>
+LÀM ƠN, em thầm nghĩ, cha tốt như vậy con cần cha xin hãy làm ơn con yêu cha!
 
 Lúc này cánh chim đập loạn nhịp lại xuất hiện, khác hẳn với nhịp tim đang dồn dập của cô bé.
 
 Và câu trả lời vang lên.
 
-<i>Hãy để ông ấy ở lại với chúng ta đi, Vầng trăng nhỏ bé ạ.</i>
+Hãy để ông ấy ở lại với chúng ta đi, Vầng trăng nhỏ bé ạ.
 
-<i>Em chưa đủ mạnh mẽ để làm việc đó đâu.</i>
+Em chưa đủ mạnh mẽ để làm việc đó đâu.
 
-<i>Vẫn chưa đến lúc.</i>
+Vẫn chưa đến lúc.
 
 Cô bé nguầy nguậy lắc đầu từ chối sự thật ấy.
 

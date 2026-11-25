@@ -1,14 +1,14 @@
 *Phần III*
 
-# Chương Hai Mươi Lăm: Về Delphinevà Con Bù Nhìn
+# Chương Hai Mươi Lăm: Về Delphine và Con Bù Nhìn
 
 Delphine khẽ lướt những ngón tay trên gương mặt Thomas đang ngủ say.
 
-<i>Thomas. Thomas. Thomas. Thomas.</i>
+Thomas. Thomas. Thomas. Thomas.
 
 Cô bé chạm vào anh nhẹ đến mức biết chắc anh sẽ chẳng màng tỉnh giấc; anh ngủ hệt như một người lính, luôn trong tư thế sẵn sàng bật dậy trước bất kỳ âm thanh lạ nào, nhưng dường như anh biết đó là bàn tay đang chạm lên mặt mình, và rằng em chẳng hề mang lại mối đe dọa nào cho anh.
 
-<i>Nhưng mình lại chính là mối đe dọa ấy.</i>
+Nhưng mình lại chính là mối đe dọa ấy.
 
 Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Trận mưa cuối cùng đã rơi từ khi họ rời khỏi ngôi nhà của lão già, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.
 
@@ -38,25 +38,25 @@ Những ngón tay của em hãy còn lưu lại ngay dưới mũi anh, và cảm
 
 Nếu Chúa muốn em đến Avignon, Ngài sẽ phải đưa em đến đó an toàn mà không cần lợi dụng Thomas rồi vứt bỏ anh khi anh không còn giá trị.
 
-<i>Liệu mình đang thử thách Chúa hay đang làm theo ý Ngài?</i>
+Liệu mình đang thử thách Chúa hay đang làm theo ý Ngài?
 
-<i>Mẹ Maria, xin hãy cứu rỗi con.</i>
+Mẹ Maria, xin hãy cứu rỗi con.
 
 Cô bé trèo lên đỉnh một mỏm đá lởm chởm sắc màu đất son, mọc đầy những bụi cây gai và những loài cây có mặt dưới lá ánh lên sắc bạc mỗi khi cơn gió thổi qua. Và gió thổi ở đây thực sự dữ dội, không hẳn là lạnh buốt, nhưng cũng chẳng ấm áp. Chỉ là một thứ gió buốt giá khô khốc. Em quấn tấm chăn ngựa mới lấy từ chuồng của lão già lên bờ vai. Một ngọn núi sừng sững hiện lên ở phía nam, hơi mờ ảo trong làn sương mù, được che chở bởi một dải núi nhỏ hơn và sắc nhọn hơn, tựa hồ sẵn sàng chặn đứng bất cứ kẻ nào dám toan tính tiếp cận ngọn núi lớn kia. Em nhìn thấy con sông Rhône uốn lượn chảy về phía nam ở bên tay phải, mang sắc xanh đến là đánh lừa thị giác.
 
-<i>Lại đây lấy chiếc bè của cô bé đi nào, cục cưng.</i>
+Lại đây lấy chiếc bè của cô bé đi nào, cục cưng.
 
-<i>Hãy theo ta về thành phố nơi cô bé sẽ bỏ mạng.</i>
+Hãy theo ta về thành phố nơi cô bé sẽ bỏ mạng.
 
 Cô bé muốn khóc nghẹn nhưng cố nén lại và ngẩng cao cằm.
 
 Đôi giày của Delphine đã rách tả tơi gần hết. Con đường từng đày đọa đôi bàn chân em nằm sát bên dòng sông.
 
-<i>Người La Mã đã tạo nên con đường đó.</i>
+Người La Mã đã tạo nên con đường đó.
 
-<i>Làm sao mà Delphine lại biết điều này nhỉ?</i>
+Làm sao mà Delphine lại biết điều này nhỉ?
 
-<i>Em đang dần biến thành một thứ gì đó mất rồi.</i>
+Em đang dần biến thành một thứ gì đó mất rồi.
 
 Delphine quay đầu nhìn lại phía sau để tìm kiếm Thomas, lòng đầy mâu thuẫn không biết mình có hy vọng nhìn thấy anh hay không. Cô bé biết anh chắc chắn sẽ bám theo mình, chẳng có gì bí ẩn về việc cô bé đang đi đâu, nhưng em tin chắc mình đã có một khoảng cách xuất phát khá xa. Trái tim cô bé bỗng chùng xuống một chút khi nhận ra con đường phía sau hãy còn trống hoác.
 
@@ -68,15 +68,15 @@ Khi buổi chiều tà dần buông xuống, cô bé tìm thấy một ngôi nh�
 
 Có rất ít nước đọng lại dưới đáy giếng ấy, hoàn toàn không đủ để ngập qua phần lớn bộ hài cốt đã trơ xương nằm chồng chất ở đáy, tấm lưng vẹo vọ khiến hộp sọ và lồng ngực quay ngoắt về hướng sai lệch, những hốc mắt trũng sâu đang ngược nhìn lên phía cô bé.
 
-<i>Một tai nạn ư? Con người ta vẫn chết vì những chuyện thế này sao?</i>
+Một tai nạn ư? Con người ta vẫn chết vì những chuyện thế này sao?
 
 Rồi Delphine nhìn thấy chiếc hộp sọ của một đứa trẻ, chỉ lộ ra phần đỉnh đầu và một bên mắt, cùng một bàn chân nhỏ xíu đang tì lên một hòn đá.
 
-<i>Không. Ông ta đã ném cái xác xuống đây rồi tự nhảy theo.</i>
+Không. Ông ta đã ném cái xác xuống đây rồi tự nhảy theo.
 
-<i>Xin Chúa hãy tha thứ cho ông ấy, vì ông ấy chẳng thể tha thứ cho Chúa.</i>
+Xin Chúa hãy tha thứ cho ông ấy, vì ông ấy chẳng thể tha thứ cho Chúa.
 
-<i>Liệu con có thể không?</i>
+Liệu con có thể không?
 
 Delphine làm dấu thánh giá.
 
@@ -84,7 +84,7 @@ Phải chăng hộp sọ của đứa trẻ vừa cử động?
 
 Phải chăng hai hốc mắt giờ đây đã có thể nhìn thấy được?
 
-<i>Hãy gia nhập cùng chúng ta! Hãy kể cho chúng ta nghe những câu chuyện về thế giới nơi mặt trời chiếu sáng suốt cả ngày!</i>
+Hãy gia nhập cùng chúng ta! Hãy kể cho chúng ta nghe những câu chuyện về thế giới nơi mặt trời chiếu sáng suốt cả ngày!
 
 Delphine quay trở lại hướng con đường lớn.
 
@@ -122,17 +122,17 @@ Delphine cảm thấy mình khẽ mỉm cười lần đầu tiên kể từ khi
 
 Delphine giật mình tỉnh giấc với cảm giác có ai đó đang dõi theo mình. Cô bé mở mắt ra, nhưng màn đêm tối mịt mùng khiến chúng trở nên vô dụng.
 
-<i>Mình đang ở đâu thế này?</i>
+Mình đang ở đâu thế này?
 
-<i>Suy nghĩ đi!</i>
+Suy nghĩ đi!
 
-<i>Nhà của lão già ư?</i>
+Nhà của lão già ư?
 
 Không phải.
 
 Bây giờ Delphine mới nhớ lại; vị linh mục đã chết và cô bé đã rời bỏ Thomas, em hoàn toàn cô độc. Nhưng là ở đâu?
 
-<i>Tu viện.</i>
+Tu viện.
 
 Gió thét gào bên ngoài, rên rỉ trong những ngóc ngách nhỏ của tòa nhà bằng đá. Delphine thở dốc, sợ hãi bóng tối, sợ hãi sự cô độc của chính mình.
 
@@ -310,13 +310,13 @@ Tiếng rít lạo xạo lại vang lên.
 
 Thứ trong căn phòng buông bỏ hoàn toàn lớp vỏ ngụy trang giọng nói của con người.
 
-<i>Đưa cho tao cái hộp chết tiệt đó.</i>
+Đưa cho tao cái hộp chết tiệt đó.
 
 “Ta từ chối.”
 
 Có cái gì đó ngoạm sát ngay trước mặt em, mùi ẩm mốc, bụi bặm và cái chết lâu ngày phả ngập ngụa trùm lên cô bé.
 
-Delphine bèn đứng dậy. Những bàn tay quờ quạng túm lấy em, <i>nhiều hơn hai bàn tay</i>, nhưng cô bé hất phăng chúng đi và vẫn đứng thẳng lên được. Giờ thì em mở nắp hộp và lấy mũi lao La Mã ra. Thứ đó lùi phắt lại với một tiếng động khô khốc, sột soạt.
+Delphine bèn đứng dậy. Những bàn tay quờ quạng túm lấy em, nhiều hơn hai bàn tay, nhưng cô bé hất phăng chúng đi và vẫn đứng thẳng lên được. Giờ thì em mở nắp hộp và lấy mũi lao La Mã ra. Thứ đó lùi phắt lại với một tiếng động khô khốc, sột soạt.
 
 “Ta tin rằng ngươi chỉ có thể làm với ta những gì ta cho phép. Ta cấm ngươi chạm vào ta lần nữa.”
 
@@ -326,7 +326,7 @@ Cô bé dò dẫm tìm đường ra cửa và bước ra ngoài trời gió; nh�
 
 Thứ đó đi theo em ra tận bên ngoài và đến tận gốc cây, nhưng nó đã quấn quanh người chiếc chăn của cô bé, thứ mà em đã để quên bên trong, và em không thể nhìn rõ nó là gì; cô bé tưởng chừng như mình nhìn thấy một khuôn mặt đen sì và một nhúm tóc rối.
 
-<i>Mày đúng là con đĩ Norman ngu ngốc tối nay mày sẽ chết trong giấc ngủ và rơi từ cái cây đó xuống như một quả trái thối rữa</i>
+Mày đúng là con đĩ Norman ngu ngốc tối nay mày sẽ chết trong giấc ngủ và rơi từ cái cây đó xuống như một quả trái thối rữa
 
 “Ta sẽ không rơi xuống. Và ngươi cũng sẽ không còn ở đây vào buổi sáng mai. Có những thứ tà ác đủ mạnh để làm hại ta, nhưng ngươi không phải là một trong số đó. Ngươi chỉ là một con bù nhìn. Ngươi được tạo ra từ những lời dối trá, và sự tạo tác ấy chẳng ra làm sao cả. Ta từng sợ ngươi, nhưng giờ ta thương hại cho sự khốn cùng của ngươi. Chúc ngươi ngủ ngon.”
 
@@ -334,6 +334,6 @@ Thứ đó đi theo em ra tận bên ngoài và đến tận gốc cây, nhưng 
 
 Rồi chẳng mấy chốc cô bé đã chìm vào giấc ngủ.
 
-Vào buổi sáng, Delphine nhìn thấy chiếc chăn của mình nằm ở gốc cây. Một sự phỉ báng kỳ quái nằm vắt vẻo trên đó, nhưng lại là một thứ vô cùng thảm hại, được kết từ một cây chổi, ba thanh gỗ bắt chéo, và đôi tay bị mất tích của thi thể các nữ tu trong khu vườn. Một chiếc hộp sọ đội mái tóc màu xám đỏ nằm chễm chệ trên đỉnh cây chổi. Cô bé kéo chiếc chăn về phía khu vườn, rồi tháo rời thứ đó ra, dùng chiếc cưa tìm thấy trong nhà nguyện để cắt đứt sợi dây thừng buộc chúng lại với nhau. Delphine đặt những phần di cốt con người vào khu vườn và đọc một lời cầu nguyện <i>Ave Maria</i> cho họ. Em dùng chổi quét sạch nhà nguyện rồi dựng nó vào cửa nhà nguyện.
+Vào buổi sáng, Delphine nhìn thấy chiếc chăn của mình nằm ở gốc cây. Một sự phỉ báng kỳ quái nằm vắt vẻo trên đó, nhưng lại là một thứ vô cùng thảm hại, được kết từ một cây chổi, ba thanh gỗ bắt chéo, và đôi tay bị mất tích của thi thể các nữ tu trong khu vườn. Một chiếc hộp sọ đội mái tóc màu xám đỏ nằm chễm chệ trên đỉnh cây chổi. Cô bé kéo chiếc chăn về phía khu vườn, rồi tháo rời thứ đó ra, dùng chiếc cưa tìm thấy trong nhà nguyện để cắt đứt sợi dây thừng buộc chúng lại với nhau. Delphine đặt những phần di cốt con người vào khu vườn và đọc một lời cầu nguyện Ave Maria cho họ. Em dùng chổi quét sạch nhà nguyện rồi dựng nó vào cửa nhà nguyện.
 
 Delphine rũ sạch chiếc chăn, quàng lên vai, rồi bước đi trên con đường dẫn tới Orange và sau đó hướng về thành phố của đức giáo hoàng.

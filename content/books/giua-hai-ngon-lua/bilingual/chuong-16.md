@@ -14,7 +14,7 @@
 
 <p class="para-vi-sub">Ông thậm chí còn có thể phân biệt tiếng ho của Michel Hébert với phần còn lại của giáo đoàn.</p>
 
-<p class="para-en">On this particular day, the object was wearing his best gray cotehardie buttoned snugly up his trunk, and standing with one leg in the <a id="page168"></a>aisle, which the others took for rascality, but which was in fact to better display his bright red stocking and the long, well-calved leg in it.</p>
+<p class="para-en">On this particular day, the object was wearing his best gray cotehardie buttoned snugly up his trunk, and standing with one leg in the aisle, which the others took for rascality, but which was in fact to better display his bright red stocking and the long, well-calved leg in it.</p>
 
 <p class="para-vi-sub">Vào ngày hôm đặc biệt đó, Michel Hébert đang mặc chiếc áo khoác ngắn cotehardie màu xám đẹp nhất được cài khuy gọn gàng ôm sát thân người, một chân bước ra lối đi, hành động mà những người khác coi là sự ngỗ ngược nhưng thực ra là để khoe khéo chiếc vớ đỏ rực cùng bắp chân dài và săn chắc bên trong.</p>
 
@@ -42,7 +42,7 @@
 
 <p class="para-vi-sub">Nó đã bắt đầu tàn phá Avignon, nơi người ta đồn rằng đức giáo hoàng tiếp kiến giữa hai ngọn lửa để đốt cháy bầu không khí dịch bệnh, và đang gặm nhấm Paris, nơi những hộ gia đình nhiễm bệnh đầu tiên đang cố gắng che giấu người nhà bị bệnh để không bị hàng xóm xa lánh.</p>
 
-<p class="para-en"><a id="page169"></a>The priest knew his congregation was hungry for news about the disease and its progress; he knew they craved some reassurance that St. Martin-le-Preux would be spared, whether for its holiness or because they had suffered enough under the hand of their greedy seigneur, but he could not summon up the words. The truth was that he knew nothing. He did not know how it was spread, what had caused it, where it would go, or what could be done for the ill. What troubled him most was his feeling that God could see into his heart and knew that his love was twisted. God would weigh his most secret thoughts and, finding them repulsive, would take an even heavier toll on the villeins of his flock. He would have thrown himself into the river, but a suicide priest might be worse in God’s eyes than a would-be sodomite.</p>
+<p class="para-en">The priest knew his congregation was hungry for news about the disease and its progress; he knew they craved some reassurance that St. Martin-le-Preux would be spared, whether for its holiness or because they had suffered enough under the hand of their greedy seigneur, but he could not summon up the words. The truth was that he knew nothing. He did not know how it was spread, what had caused it, where it would go, or what could be done for the ill. What troubled him most was his feeling that God could see into his heart and knew that his love was twisted. God would weigh his most secret thoughts and, finding them repulsive, would take an even heavier toll on the villeins of his flock. He would have thrown himself into the river, but a suicide priest might be worse in God’s eyes than a would-be sodomite.</p>
 
 <p class="para-vi-sub">Vị linh mục biết rằng giáo đoàn của mình đang khao khát tin tức về căn bệnh cùng sự tiến triển của nó; ông biết họ mong mỏi một sự trấn an rằng St. Martin-le-Preux sẽ được dung tha, dù là vì sự thánh thiện của nơi này hay vì họ đã phải chịu đựng quá đủ dưới bàn tay của vị lãnh chúa tham lam, nhưng ông chẳng thể thốt nên lời. Sự thật là ông chẳng biết gì cả. Ông không biết căn bệnh lây lan thế nào, nguyên nhân do đâu, nó sẽ đi đến đâu, hay có thể làm gì cho những người bệnh. Điều khiến ông phiền muộn nhất là cảm giác rằng Chúa có thể thấu tận tâm can và biết rằng tình yêu của ông là một thứ tình yêu lệch lạc. Chúa sẽ cân nhắc những suy nghĩ thầm kín nhất và khi nhận ra chúng thật gớm ghiếc, Ngài sẽ giáng một đòn trừng phạt nặng nề hơn nữa lên những người tá điền trong giáo đoàn của ông. Ông đã muốn lao mình xuống sông, nhưng một linh mục tự sát có lẽ còn tồi tệ hơn trong mắt Chúa so với một kẻ mang ý đồ phạm tội đoạn tụ.</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-vi-sub">“Phải. Ta biết bản thân tìm kiếm sự khuây khỏa từ rượu nhiều hơn mức nên có; ngay cả những mục tử của Chúa cũng chẳng thể vô tội. Nhưng có kẻ nào trong số các ngươi từng thấy nó khiến ta trở thành kẻ hay gây gổ chưa? Người đánh xe của chúng ta đây thường có đôi mắt thâm tím hơn cả lũ bò của hắn đấy.”</p>
 
-<p class="para-en"><a id="page170"></a>He glanced at the object, who was smiling now at his skillful riposte, then cut his eyes quickly away to make it look as though he were surveying all of them. For every time he sneaked a glance at Michel Hébert, he made himself look ten more parishioners in the face.</p>
+<p class="para-en">He glanced at the object, who was smiling now at his skillful riposte, then cut his eyes quickly away to make it look as though he were surveying all of them. For every time he sneaked a glance at Michel Hébert, he made himself look ten more parishioners in the face.</p>
 
 <p class="para-vi-sub">Ông liếc nhìn đối tượng vừa được nhắc đến, kẻ giờ đây đang mỉm cười trước màn đáp trả khôn khéo của ông, rồi nhanh chóng quay đi để tạo cảm giác như thể ông đang quan sát tất cả mọi người. Cứ mỗi lần lén nhìn Michel Hébert, ông lại tự ép mình phải ngẩng lên đối mặt với mười giáo dân khác.</p>
 
@@ -98,17 +98,17 @@
 
 <p class="para-vi-sub">Nếu thực sự tồn tại lũ quỷ.</p>
 
-<p class="para-en"><em>If that boy is Satan’s instrument, God, show me some sign. Let him look back at me.</em></p>
+<p class="para-en">If that boy is Satan’s instrument, God, show me some sign. Let him look back at me.</p>
 
-<p class="para-vi-sub"><i>Nếu thằng bé đó là công cụ của Satan, lạy Chúa, xin hãy cho con thấy một dấu hiệu. Hãy để nó quay lại nhìn con.</i></p>
+<p class="para-vi-sub">Nếu thằng bé đó là công cụ của Satan, lạy Chúa, xin hãy cho con thấy một dấu hiệu. Hãy để nó quay lại nhìn con.</p>
 
 <p class="para-en">But he wanted that backward glance so much that he couldn’t bear to attach wickedness to it, so he confounded himself.</p>
 
 <p class="para-vi-sub">Nhưng ông lại khao khát cái liếc nhìn ngoảnh lại ấy đến mức không chịu nổi việc gán cho nó sự tà ác, thế là ông tự làm rối trí chính mình.</p>
 
-<p class="para-en"><em>Rather, let him look back at me if there are no devils in him.</em></p>
+<p class="para-en">Rather, let him look back at me if there are no devils in him.</p>
 
-<p class="para-vi-sub"><i>Hơn thế nữa, hãy để nó quay lại nhìn con nếu trong người nó không chứa chấp ác quỷ nào cả.</i></p>
+<p class="para-vi-sub">Hơn thế nữa, hãy để nó quay lại nhìn con nếu trong người nó không chứa chấp ác quỷ nào cả.</p>
 
 <p class="para-en">The boy did look back over his shoulder at him. Just once, and only for an instant, but it was enough.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-vi-sub">Ông sẽ luôn đinh ninh rằng mọi chuyện đã bắt đầu từ ngày hôm đó.</p>
 
-<p class="para-en"><a id="page171"></a>Each night became a battle for Matthieu Hanicotte. He was in danger of losing his belief, if not his soul. Were there souls at all? Was there really a naked, invisible little version of himself hiding under his skin, so valuable to Heaven and Hell that each would send emissaries down to fight for it?</p>
+<p class="para-en">Each night became a battle for Matthieu Hanicotte. He was in danger of losing his belief, if not his soul. Were there souls at all? Was there really a naked, invisible little version of himself hiding under his skin, so valuable to Heaven and Hell that each would send emissaries down to fight for it?</p>
 
 <p class="para-vi-sub">Mỗi đêm trôi qua đều trở thành một cuộc chiến đối với Matthieu Hanicotte. Ông đứng trước nguy cơ đánh mất niềm tin, nếu không muốn nói là cả linh hồn mình. Liệu có thực sự tồn tại linh hồn không? Liệu có thực sự ẩn giấu một phiên bản tí hon trần trụi và vô hình của chính ông dưới lớp da thịt này, một linh hồn quý giá đối với Thiên Đàng lẫn Địa Ngục đến mức mỗi nơi đều phải cử sứ giả xuống để tranh giành nó hay sao?</p>
 
@@ -138,7 +138,7 @@
 
 <p class="para-vi-sub">Chính gần một trong những cây liễu đó, một dải ánh trăng rực rỡ quét qua đống quần áo bị vứt bừa bãi. Père Matthieu không thể kìm lại sự tò mò bèn liếc nhìn xuống sông, nơi ông đinh ninh rằng mình sẽ bắt gặp một người đang tắm. Ông đã không phải thất vọng. Thực ra, có tới hai người, và họ ở vị trí gần đống quần áo hơn rất nhiều.</p>
 
-<p class="para-en">Seeing him, a girl inexpertly stifled a squeal, then thrashed out of <a id="page172"></a>the water, covering her breasts and running for her homespun dress. She was plump and pale. God help him, it was Mélisande.</p>
+<p class="para-en">Seeing him, a girl inexpertly stifled a squeal, then thrashed out of the water, covering her breasts and running for her homespun dress. She was plump and pale. God help him, it was Mélisande.</p>
 
 <p class="para-vi-sub">Nhìn thấy ông, một cô gái vụng về nén tiếng kêu chít chít, rồi quẫy đạp bò lên khỏi mặt nước, dùng tay che ngực và chạy thục mạng về phía chiếc váy vải thô của mình. Cô ta mũm mĩm và tái nhợt. Chúa phù hộ ông, đó chính là Mélisande.</p>
 
@@ -186,9 +186,9 @@
 
 <p class="para-vi-sub">“Đó chính là cái hay của việc trần truồng dưới sông; cha chẳng là ai cả. Cha muốn là ai cũng được. Đó chỉ là một giấc mơ.”</p>
 
-<p class="para-en"><em>You used the same words to get the girl in there.</em></p>
+<p class="para-en">You used the same words to get the girl in there.</p>
 
-<p class="para-vi-sub"><i>Ngươi từng dùng chính những lời đó để dụ cô gái xuống dưới này.</i></p>
+<p class="para-vi-sub">Ngươi từng dùng chính những lời đó để dụ cô gái xuống dưới này.</p>
 
 <p class="para-en">The priest opened and closed his mouth.</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-vi-sub">Và ông đã bước vào.</p>
 
-<p class="para-en">The Great Death got close in June, and the bridge leading to Paris was burned on the seigneur’s command. Little groups of armed farmers hid in the woods and frightened off those coming overland from <a id="page173"></a>the other side; they soon found that the days off from farm labor were to their liking. They also found that, with no wives to nag them, they could drink all the beer and cider they cared to. They fashioned masks of river reeds and clay, raven’s feathers, and the teeth of foxes to make themselves terrifying, and also to remind them not to look anyone in the eyes—it was widely believed that the plague leapt from one man to another by means of a deadly beam from the eyes. They called themselves the Brotherhood of St. Martin’s Arse. They drank themselves into such a state of belligerence that even groups of strangers who agreed to turn around found themselves cudgeled so they would remember not to try again.</p>
+<p class="para-en">The Great Death got close in June, and the bridge leading to Paris was burned on the seigneur’s command. Little groups of armed farmers hid in the woods and frightened off those coming overland from the other side; they soon found that the days off from farm labor were to their liking. They also found that, with no wives to nag them, they could drink all the beer and cider they cared to. They fashioned masks of river reeds and clay, raven’s feathers, and the teeth of foxes to make themselves terrifying, and also to remind them not to look anyone in the eyes—it was widely believed that the plague leapt from one man to another by means of a deadly beam from the eyes. They called themselves the Brotherhood of St. Martin’s Arse. They drank themselves into such a state of belligerence that even groups of strangers who agreed to turn around found themselves cudgeled so they would remember not to try again.</p>
 
 <p class="para-vi-sub">Năm 1348 tiến đến sát nút vào tháng Sáu, và cây cầu dẫn đến Paris đã bị thiêu rụi theo lệnh của lãnh chúa. Những nhóm nông dân có vũ trang nhỏ lẻ trốn trong rừng và dọa nạt những ai đi đường bộ từ phía bên kia tới; họ sớm nhận ra rằng những ngày nghỉ lao động đồng áng rất hợp ý mình. Họ cũng nhận ra rằng, không có vợ lải nhải bên tai, họ có thể uống thỏa thích bia và rượu táo tùy ý muốn. Họ tự chế những chiếc mặt nạ bằng sậy ven sông và đất sét, lông quạ, cùng răng cáo để khiến bản thân trông thật đáng sợ, đồng thời để nhắc nhở mình không được nhìn thẳng vào mắt bất kỳ ai vì người ta truyền tai nhau rằng bệnh dịch có thể nhảy từ người này sang người khác qua một tia sáng chí mạng từ đôi mắt. Họ tự gọi mình là Hội Huynh Đệ Mông Thánh Martin. Họ uống say sưa đến mức sinh sự hung hăng, đến nỗi ngay cả những nhóm người lạ mặt đồng ý quay đầu bỏ đi cũng bị gậy gộc nện cho nhừ tử để họ nhớ đời mà không dám quay lại lần nữa.</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-vi-sub">Chẳng mấy chốc, họ mang những trò hề đó trở lại thị trấn; Élise Planchette, người phụ nữ góa chồng điều hành quán rượu, chẳng bao lâu sau đã học được cách căm ghét những tiếng hò hét và khoác lác báo hiệu sự trở về sau buổi tuần tra của hội huynh đệ. Đóng cửa cũng chẳng ích gì; họ sẽ làm phiền cho đến khi nào chị mở cửa thì thôi, rồi đòi uống rượu miễn phí vì công sức trang nghiêm bảo vệ thị trấn khỏi dịch bệnh của họ. Hầu như ngày nào người ta cũng thấy họ ngồi bên những chiếc bàn của người góa phụ, chơi súc sắc và chè chén với những chiếc mặt nạ lật ngược lên trán; những kẻ canh gác ban ngày lại đến vào buổi tối. Những kẻ canh gác ban tối lại đến vào ban ngày. Đồng ruộng của họ tiêu điều khi vợ và cha họ phải thay thế việc bón phân, làm cỏ và bừa đất, nhưng những người đàn ông trong hội huynh đệ đã quá say mê địa vị lính dân phòng mới mẻ đến mức chẳng thể dùng lý lẽ để nói chuyện với họ được nữa. Lý trưởng không thể bắt họ làm việc. Linh mục không thể khuyên họ từ bỏ sự ngu ngốc ấy. Số lượng của họ có suy giảm đôi chút khi vài người, như Sanson Bertier, bỏ cuộc; nhưng rồi lại tăng lên khi những kẻ côn đồ nhìn thấy một con đường trốn tránh lao động.</p>
 
-<p class="para-en">When one of them stole wood from the widow’s house, saying his duties left him no time for chopping, she tried to block his way out but found herself pushed down on her backside. She complained to the herald. This herald promised to take the matter before their lord, but nothing was done. The seigneur, terrified of plague, had suspended court sessions and shut himself away with his retinue. Only the herald was seen, arching his painted eyebrows and reading unenforceable <a id="page174"></a>proclamations from the back of his palfrey. Men-at-arms could be seen walking the parapet of the keep, their armor winking in the early summer light; but they never came down anymore. The Brotherhood of St. Martin’s Arse was all the justice there was in St. Martin-le-Preux.</p>
+<p class="para-en">When one of them stole wood from the widow’s house, saying his duties left him no time for chopping, she tried to block his way out but found herself pushed down on her backside. She complained to the herald. This herald promised to take the matter before their lord, but nothing was done. The seigneur, terrified of plague, had suspended court sessions and shut himself away with his retinue. Only the herald was seen, arching his painted eyebrows and reading unenforceable proclamations from the back of his palfrey. Men-at-arms could be seen walking the parapet of the keep, their armor winking in the early summer light; but they never came down anymore. The Brotherhood of St. Martin’s Arse was all the justice there was in St. Martin-le-Preux.</p>
 
 <p class="para-vi-sub">Khi một kẻ trong bọn trộm củi từ nhà người góa phụ với lý do nhiệm vụ không cho phép hắn có thời gian bổ củi, chị định chặn đường hắn lại nhưng lại bị xô ngã ngửa ra đất. Chị bèn đi kiện vị sứ giả. Vị sứ giả này hứa sẽ đưa vụ việc lên lãnh chúa của họ, nhưng chẳng có chuyện gì được giải quyết cả. Lãnh chúa, vì quá khiếp sợ dịch bệnh, đã đình chỉ các phiên tòa và tự giam mình trong thành cùng tùy tùng. Chỉ có mình sứ giả là xuất hiện, nhướng cặp chân mày được vẽ phác và đọc những bản tuyên cáo không thể thi hành trên lưng con ngựa lùn. Người ta có thể thấy lính gác đi lại trên bờ tường của tòa tháp, áo giáp lóe lên trong ánh nắng đầu hạ; nhưng họ chẳng bao giờ đi xuống nữa. Hội Huynh Đệ Mông Thánh Martin chính là tất cả công lý tồn tại ở St. Martin-le-Preux.</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-vi-sub">Không ai trong số chúng nhúc nhích trong một khoảnh khắc dài. Rồi một tên nhổ nước bọt vào ông. Rồi thêm một tên nữa. Khi tất cả bọn chúng đã làm vậy, chúng quay người, cười cợt, rồi bước ngược lên bờ sông và tiến vào thị trấn để loan tin.</p>
 
-<p class="para-en">So it was that when the plague came, only a dozen souls were coming to Mass. Père Matthieu’s assistant and bell ringer, a stocky, busy, black-haired child everyone called Bourdon, performed his duties <a id="page175"></a>without his former energy. Hardly any received the priest when he came to anoint their loved ones in death. Only a handful sought confession. Soon the reeve’s son died, and the reeve, and nearly the whole village. Heartbroken yet afraid for his life, the priest stopped going to church at all, shutting himself up in his house with his wine. It was not until the monster moved into the river that the villagers sought their shepherd out and shamed him into helping them. There was no one else they could go to. So he tried. He went house to house seeking men who could use a weapon. When he saw how strong the thing was and knew he did not have enough healthy men to fight it, he took up the place where the brotherhood used to wait, and sat with his lantern, praying for soldiers to come down the road.</p>
+<p class="para-en">So it was that when the plague came, only a dozen souls were coming to Mass. Père Matthieu’s assistant and bell ringer, a stocky, busy, black-haired child everyone called Bourdon, performed his duties without his former energy. Hardly any received the priest when he came to anoint their loved ones in death. Only a handful sought confession. Soon the reeve’s son died, and the reeve, and nearly the whole village. Heartbroken yet afraid for his life, the priest stopped going to church at all, shutting himself up in his house with his wine. It was not until the monster moved into the river that the villagers sought their shepherd out and shamed him into helping them. There was no one else they could go to. So he tried. He went house to house seeking men who could use a weapon. When he saw how strong the thing was and knew he did not have enough healthy men to fight it, he took up the place where the brotherhood used to wait, and sat with his lantern, praying for soldiers to come down the road.</p>
 
 <p class="para-vi-sub">Thế là khi Đại Diệt Vong bùng phát, chỉ có khoảng chục linh hồn đến dự lễ Misa. Phụ tá kiêm người gióng chuông của cha Matthieu, một đứa trẻ vạm vỡ, nhanh nhẹn và có mái tóc đen mà mọi người thường gọi là Bourdon, đã thực hiện nhiệm vụ của mình mà không còn sự hăng hái như trước. Hầu như chẳng còn ai đón tiếp vị linh mục khi ông đến xức dầu cho những người thân yêu sắp qua đời của họ. Chỉ một nhúm người tìm đến để xưng tội. Chẳng mấy chốc, con trai của lý trưởng qua đời, rồi đến lượt lý trưởng, và gần như toàn bộ ngôi làng. Vừa đau lòng vừa sợ hãi cho tính mạng của chính mình, vị linh mục hoàn toàn bỏ dở việc đến nhà thờ, tự giam mình trong nhà cùng với những vại rượu. Phải đợi đến khi con quái vật di chuyển xuống con sông, dân làng mới tìm đến vị chủ chăn của họ và dùng sự hổ thẹn để ép ông phải giúp đỡ họ. Chẳng còn ai khác để họ có thể cầu cứu nữa. Thế là ông đã thử. Ông đi từng nhà để tìm những người đàn ông biết sử dụng vũ khí. Khi nhìn thấy sinh vật đó mạnh đến nhường nào và biết rằng mình không có đủ những người đàn ông khỏe mạnh để chiến đấu với nó, ông đã chiếm lấy vị trí mà hội huynh đệ từng canh gác, ngồi đó cùng chiếc đèn lồng và cầu nguyện cho những người lính đi xuống con đường.</p>
 

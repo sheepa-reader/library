@@ -18,7 +18,7 @@
 
 <p class="para-vi-sub">“Đừng có chết đấy, đồ khốn,” anh nói, rồi nhấc bổng cô bé lên và lội qua bãi cỏ cao cùng những loài hoa dại để hướng về phía ngôi nhà nhỏ.</p>
 
-<p class="para-en"><a id="page264"></a>Dogs barked at him from inside, and he heard a goat bleat as well. A shadow blocked the firelit gaps in the shutters as someone inside peeked at him. He held the girl out as if she were his bond of peace.</p>
+<p class="para-en">Dogs barked at him from inside, and he heard a goat bleat as well. A shadow blocked the firelit gaps in the shutters as someone inside peeked at him. He held the girl out as if she were his bond of peace.</p>
 
 <p class="para-vi-sub">Những con chó sủa vang từ bên trong, và anh cũng nghe thấy tiếng dê kêu be be. Một cái bóng che khuất những khoảng trống hắt ánh lửa qua khe cửa chớp khi ai đó bên trong đang liếc nhìn ra ngoài. Anh chìa cô bé ra như thể Delphine là tín vật hòa bình của mình.</p>
 
@@ -98,7 +98,7 @@
 
 <p class="para-vi-sub">Ông lão ngước lên quan sát Thomas một lượt rồi thở dài, đi đến kết luận rằng ông chẳng còn gì để mất khi đặt niềm tin vào gã; cái chết dưới tay gã khổng lồ này có lẽ còn nhân từ hơn những gì sắp giáng xuống trong một hoặc hai ngày tới.</p>
 
-<p class="para-en"><a id="page265"></a>And it would be nice to see a priest.</p>
+<p class="para-en">And it would be nice to see a priest.</p>
 
 <p class="para-vi-sub">Và được nhìn thấy cha Matthieu trước lúc lâm chung cũng là một điều an ủi.</p>
 
@@ -170,7 +170,7 @@
 
 <p class="para-vi-sub">Người đàn ông trèo lên một khúc gỗ và nhấc nhạc cụ xuống khỏi mấy cái móc treo, thổi bay một làn bụi bám trên đó. Ông cố gắng lên dây đàn, nhưng đôi bàn tay thương tật chẳng thể làm nổi; ông khảy vài nốt lạc điệu và khập khiễng hoàn thành nửa bài tình ca vùng Provence bằng chất giọng khàn đặc của mình; rồi ông không thể chịu nổi âm thanh phát ra từ chính mình nữa nên đành dừng lại.</p>
 
-<p class="para-en"><a id="page266"></a>He sneezed, wincing, putting his finger to his neck and feeling for the first time the exquisitely painful, acorn-sized lump there.</p>
+<p class="para-en">He sneezed, wincing, putting his finger to his neck and feeling for the first time the exquisitely painful, acorn-sized lump there.</p>
 
 <p class="para-vi-sub">Ông hắt hơi, nhăn mặt vì đau đớn, đưa ngón tay chạm lên cổ và lần đầu tiên cảm nhận được khối u đau đớn tột cùng to bằng quả sồi ở đó.</p>
 
@@ -214,11 +214,11 @@
 
 <p class="para-vi-sub">Đó là một giai điệu mà Thomas mang theo những ký ức mờ nhạt từ bữa tiệc cưới của mình, khi ánh mắt người vợ nhìn gã đầy trìu mến; gã đã bốc một nắm các loại hạt tẩm đường bỏ vào miệng, và chiếc nhẫn nặng nề mới tinh đã va vào răng khiến gã phải thề thốt, làm nàng bật cười. Cả bàn tiệc đã cười vang.</p>
 
-<p class="para-en">From that day forward, three taps of her ring on anything meant, <em>Do you remember our wedding day?</em> and three taps on his part meant, <em>God, yes</em>.</p>
+<p class="para-en">From that day forward, three taps of her ring on anything meant, Do you remember our wedding day? and three taps on his part meant, God, yes.</p>
 
-<p class="para-vi-sub">Kể từ ngày đó trở đi, ba tiếng gõ nhẫn của nàng lên bất cứ vật gì có nghĩa là, <i>Anh có nhớ ngày cưới của chúng ta không?</i> và ba tiếng gõ đáp lại từ phía Thomas có nghĩa là, <i>Thiên Chúa ơi, có chứ</i>.</p>
+<p class="para-vi-sub">Kể từ ngày đó trở đi, ba tiếng gõ nhẫn của nàng lên bất cứ vật gì có nghĩa là, Anh có nhớ ngày cưới của chúng ta không? và ba tiếng gõ đáp lại từ phía Thomas có nghĩa là, Thiên Chúa ơi, có chứ.</p>
 
-<p class="para-en">He recalled it all quite sharply: the smell of bergamot in her hair, the whiteness of her neck, her eyes pear-green, how sweet the marriage bed had been. How, even after years of amorous tusslings with camp women and kitchen girls, he had stood nervously while the old women took the ribbons off his <em>verge</em>, looking at this beauty whose pale, lovely belly was his to put children in and whose mouth was his to kiss for as long as she lived.</p>
+<p class="para-en">He recalled it all quite sharply: the smell of bergamot in her hair, the whiteness of her neck, her eyes pear-green, how sweet the marriage bed had been. How, even after years of amorous tusslings with camp women and kitchen girls, he had stood nervously while the old women took the ribbons off his verge, looking at this beauty whose pale, lovely belly was his to put children in and whose mouth was his to kiss for as long as she lived.</p>
 
 <p class="para-vi-sub">Thomas nhớ lại tất cả vô cùng rõ nét: mùi hương cam bergamot vương trên mái tóc nàng, chiếc cổ trắng ngần, đôi mắt sắc xanh như màu quả lê, và chiếc giường tân hôn ngọt ngào làm sao. Cả việc, ngay cả sau nhiều năm bôn ba ân ái với những phụ nữ theo quân ngũ và đám nữ tỳ trong bếp, gã vẫn đứng đầy hồi hộp khi các bà lão tháo những dải ruy băng trên chiếc quần chẽn của gã, ngắm nhìn người đẹp có chiếc bụng nhạt màu, đáng yêu ấy để gã sinh ra những đứa trẻ và có đôi môi để gã hôn suốt phần đời còn lại của nàng.</p>
 
@@ -226,7 +226,7 @@
 
 <p class="para-vi-sub">Hoặc, hóa ra là cho đến khi Thomas lên đường ra trận.</p>
 
-<p class="para-en"><a id="page267"></a>The old man knew this song, too; it was the one he had learned in Valence his seventeenth year, in the music teacher’s studio above a candle shop, where those gorgeous sounds had married themselves to the smell of tallow such that even fifty years later he could not smell candles in church without being transported. It was this song, more than any other, that made him want to travel with his lute; it was this one he played to seduce the chestnut-haired girl whose pregnancy anchored him on this little patch of land forever.</p>
+<p class="para-en">The old man knew this song, too; it was the one he had learned in Valence his seventeenth year, in the music teacher’s studio above a candle shop, where those gorgeous sounds had married themselves to the smell of tallow such that even fifty years later he could not smell candles in church without being transported. It was this song, more than any other, that made him want to travel with his lute; it was this one he played to seduce the chestnut-haired girl whose pregnancy anchored him on this little patch of land forever.</p>
 
 <p class="para-vi-sub">Người đàn ông cũng biết bài hát này; đó là giai điệu ông đã học được ở Valence vào năm mười bảy tuổi, trong phòng thu của thầy dạy nhạc nằm phía trên một tiệm bán nến, nơi những âm thanh tuyệt mỹ ấy quyện hòa vào mùi mỡ nến đến mức dẫu năm mươi năm sau, ông vẫn không thể ngửi thấy mùi nến trong nhà thờ mà không bị đưa về quá khứ. Chính bài hát này, hơn bất cứ thứ gì khác, đã khiến ông muốn mang theo cây đàn luýt trên mọi nẻo đường; chính khúc ca này ông đã chơi để quyến rũ cô gái tóc nâu hạt dẻ, người mà cái thai đã neo giữ ông lại trên mảnh đất nhỏ bé này mãi mãi.</p>
 
@@ -242,7 +242,7 @@
 
 <p class="para-vi-sub">Hai ngày tiếp theo sẽ vô cùng khó khăn.</p>
 
-<p class="para-en">Thomas would dig Père Matthieu’s grave as their host burned with fever and lost his reason; he would pull Matthieu from under the arms while his feet dragged and the girl cried and he got a last noseful of the priest’s woolly, winey, lonely smell. The following day Thomas would dig another grave and lay the old man in it without ever learning his name, though he knew the name of the wife, because it was to her the old man addressed his last words. On the third day, he and the girl would make for Avignon, pulling the little goat on a rope, trying to call the dogs to follow them; but the male would stay whimpering in his master’s house and the female would lie on his <a id="page268"></a>grave, wagging her tail at them until their forward motion eclipsed her behind a stand of goldenrod.</p>
+<p class="para-en">Thomas would dig Père Matthieu’s grave as their host burned with fever and lost his reason; he would pull Matthieu from under the arms while his feet dragged and the girl cried and he got a last noseful of the priest’s woolly, winey, lonely smell. The following day Thomas would dig another grave and lay the old man in it without ever learning his name, though he knew the name of the wife, because it was to her the old man addressed his last words. On the third day, he and the girl would make for Avignon, pulling the little goat on a rope, trying to call the dogs to follow them; but the male would stay whimpering in his master’s house and the female would lie on his grave, wagging her tail at them until their forward motion eclipsed her behind a stand of goldenrod.</p>
 
 <p class="para-vi-sub">Thomas sẽ đào huyệt cho cha Matthieu trong lúc chủ nhà đang quằn quại vì cơn sốt mê sảng và mất đi lý trí; gã sẽ xách nách Matthieu trong khi đôi chân ông lê lết còn cô bé thì khóc nức nở, và gã hít trọn hơi thở cuối cùng sực mùi len dạ, mùi rượu vang và sự cô độc của vị linh mục. Ngày hôm sau, Thomas sẽ đào một cái huyệt khác và hạ thổ lão già mà chẳng bao giờ biết tên lão, dù gã biết tên người vợ, bởi chính là với bà mà lão già đã gửi gắm những lời trăn trối cuối cùng. Vào ngày thứ ba, gã và cô bé sẽ lên đường đi Avignon, dắt theo con dê nhỏ bằng sợi thừng, cố gọi bầy chó đi theo; nhưng con đực sẽ ở lại rên rỉ trong ngôi nhà của chủ nhân còn con cái sẽ nằm rạp lên nấm mồ của ông, nguẩy đuôi chào họ cho đến khi bước chân họ tiến về phía trước khuất lấp nó đằng sau khóm cúc vàng.</p>
 
@@ -286,9 +286,9 @@
 
 <p class="para-vi-sub">Liệu một kẻ đoạn tụ có thể lên Thiên Đàng không? Gã nhớ lại cảnh vị linh mục nâng cô bé lên khỏi mặt nước khi những sinh vật gớm ghiếc kia rút cạn sự sống của ông.</p>
 
-<p class="para-en"><em>Hoc est corpus meum.</em></p>
+<p class="para-en">Hoc est corpus meum.</p>
 
-<p class="para-vi-sub"><i>Hoc est corpus meum.</i></p>
+<p class="para-vi-sub">Hoc est corpus meum.</p>
 
 <p class="para-en">If that was not good enough, nothing would be.</p>
 
@@ -318,7 +318,7 @@
 
 <p class="para-vi-sub">“Bảo anh ấy điều gì?”</p>
 
-<p class="para-en"><a id="page269"></a>The priest worked one eye open again and looked at Thomas, breathing with great difficulty.</p>
+<p class="para-en">The priest worked one eye open again and looked at Thomas, breathing with great difficulty.</p>
 
 <p class="para-vi-sub">Vị linh mục cố mở một con mắt và nhìn Thomas, hơi thở nặng nhọc và đứt quãng.</p>
 
@@ -366,13 +366,13 @@
 
 <p class="para-vi-sub">Cô bé nhìn họ với ánh mắt cùng nụ cười buồn khiến cụ già bối rối, nhưng Thomas đã chứng kiến đủ nhiều từ em để có thể thấu hiểu.</p>
 
-<p class="para-en"><em>She doesn’t know how.</em></p>
+<p class="para-en">She doesn’t know how.</p>
 
-<p class="para-vi-sub"><i>Con bé không biết chơi.</i></p>
+<p class="para-vi-sub">Con bé không biết chơi.</p>
 
-<p class="para-en"><em>It wasn’t her who played.</em></p>
+<p class="para-en">It wasn’t her who played.</p>
 
-<p class="para-vi-sub"><i>Không phải con bé là người đã chơi đàn.</i></p>
+<p class="para-vi-sub">Không phải con bé là người đã chơi đàn.</p>
 
 <p class="para-en">Later that night, while the old man and Thomas stole a few hours’ sleep, Delphine went to Matthieu’s cold body. She put her finger below his nose and felt nothing. She sensed herself on the verge of some great blasphemy but felt so angered at the sweet priest’s death that she didn’t care if she made God angry now.</p>
 
@@ -382,9 +382,9 @@
 
 <p class="para-vi-sub">Ngài đáng bị như vậy lắm.</p>
 
-<p class="para-en"><em>I can’t think like that.</em></p>
+<p class="para-en">I can’t think like that.</p>
 
-<p class="para-vi-sub"><i>Mình không thể suy nghĩ như thế được.</i></p>
+<p class="para-vi-sub">Mình không thể suy nghĩ như thế được.</p>
 
 <p class="para-en">She prayed.</p>
 
@@ -398,7 +398,7 @@
 
 <p class="para-vi-sub">Cô bé cạy bờ môi đã cứng đờ của vị linh mục ra rồi thổi hơi vào đó, tựa như chính Đức Chúa Trời đang hà hơi ban sự sống vào khối đất sét vô tri của Adam.</p>
 
-<p class="para-en"><a id="page270"></a>Nothing.</p>
+<p class="para-en">Nothing.</p>
 
 <p class="para-vi-sub">Chẳng có gì xảy ra cả.</p>
 
@@ -406,9 +406,9 @@
 
 <p class="para-vi-sub">Em cố gắng gợi lại cảm giác con chim sẻ đang đập cánh trong lồng ngực mình; em tưởng rằng mình đã làm được, nhưng lại chẳng chắc chắn. Cô bé cảm thấy bản thân suýt thì làm được việc này, rằng chỉ cần thêm một chút trợ giúp nữa thôi…</p>
 
-<p class="para-en"><em>Is this a sin?</em></p>
+<p class="para-en">Is this a sin?</p>
 
-<p class="para-vi-sub"><i>Đây có phải là tội lỗi không?</i></p>
+<p class="para-vi-sub">Đây có phải là tội lỗi không?</p>
 
 <p class="para-en">Delphine breathed into his mouth again.</p>
 
@@ -430,9 +430,9 @@
 
 <p class="para-vi-sub">Và rồi bàn tay ấy buông thõng.</p>
 
-<p class="para-en"><em>No!</em></p>
+<p class="para-en">No!</p>
 
-<p class="para-vi-sub"><i>Không!</i></p>
+<p class="para-vi-sub">Không!</p>
 
 <p class="para-en">She breathed into his mouth again.</p>
 
@@ -442,9 +442,9 @@
 
 <p class="para-vi-sub">Vẫn không có gì.</p>
 
-<p class="para-en"><em>PLEASE,</em> she thought, <em>he’s so good I need him please I love him!</em></p>
+<p class="para-en">PLEASE, she thought, he’s so good I need him please I love him!</p>
 
-<p class="para-vi-sub"><i>LÀM ƠN,</i> em thầm nghĩ, <i>cha tốt như vậy con cần cha xin hãy làm ơn con yêu cha!</i></p>
+<p class="para-vi-sub">LÀM ƠN, em thầm nghĩ, cha tốt như vậy con cần cha xin hãy làm ơn con yêu cha!</p>
 
 <p class="para-en">Now the fluttering, different from her racing heart.</p>
 
@@ -454,17 +454,17 @@
 
 <p class="para-vi-sub">Và câu trả lời vang lên.</p>
 
-<p class="para-en"><em>Leave him with us, little moon.</em></p>
+<p class="para-en">Leave him with us, little moon.</p>
 
-<p class="para-vi-sub"><i>Hãy để ông ấy ở lại với chúng ta đi, Vầng trăng nhỏ bé ạ.</i></p>
+<p class="para-vi-sub">Hãy để ông ấy ở lại với chúng ta đi, Vầng trăng nhỏ bé ạ.</p>
 
-<p class="para-en"><em>You’re not strong enough for that.</em></p>
+<p class="para-en">You’re not strong enough for that.</p>
 
-<p class="para-vi-sub"><i>Em chưa đủ mạnh mẽ để làm việc đó đâu.</i></p>
+<p class="para-vi-sub">Em chưa đủ mạnh mẽ để làm việc đó đâu.</p>
 
-<p class="para-en"><em>Not yet.</em></p>
+<p class="para-en">Not yet.</p>
 
-<p class="para-vi-sub"><i>Vẫn chưa đến lúc.</i></p>
+<p class="para-vi-sub">Vẫn chưa đến lúc.</p>
 
 <p class="para-en">She shook her head against this denial.</p>
 

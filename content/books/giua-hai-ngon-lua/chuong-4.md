@@ -34,11 +34,11 @@ Lẽ ra gã đã có thể đi vào lùng sục bên trong ngọn tháp, nhưng 
 
 Thật khó lòng tin rằng Jacquot có thể xổng chuỗi nhanh đến thế. Thomas đã tóm được hắn đang nhét đầy những chiếc dây chuyền vàng giật từ cổ Godefroy và những đồng bạc trong chiếc túi da của gã béo vào quần lót; một trận đòn nhừ tử nữa lại giáng xuống, được nương tay đôi chút nhờ sự can thiệp của cô bé, nhưng rồi Thomas đã quyết định rằng thật thích hợp khi để Jacquot bị trói vào chính cái cây mà gã đã lôi cô bé ra. Gã còn treo trước ngực hắn một tấm biển gỗ, thứ mà cô bé đã dùng than viết lên theo đúng chỉ thị của Thomas.
 
-<span class="caps">HÃY XỬ LÝ TA<br/>NHƯ NHỮNG GÌ MÀY THẤY LÀ ĐÚNG<br/>ĐỐI VỚI LŨ TRỘM CƯỚP</span>
+HÃY XỬ LÝ TANHƯ NHỮNG GÌ MÀY THẤY LÀ ĐÚNGĐỐI VỚI LŨ TRỘM CƯỚP
 
 Ít nhất thì đó là những gì Thomas ra lệnh cho cô bé viết. Biết rằng hắn đọc được chữ nhưng lại không sõi cho lắm, cô bé đã dịch lại có phần phóng tay hơn.
 
-<span class="caps">LŨ TRỘM CHÚNG TA SẼ LÀM<br/>ĐIỀU TƯƠNG TỰ VỚI MÀY<br/>NẾU TÚM ĐƯỢC MÀY</span>
+LŨ TRỘM CHÚNG TA SẼ LÀMĐIỀU TƯƠNG TỰ VỚI MÀYNẾU TÚM ĐƯỢC MÀY
 
 Cây nỏ của Jacquot đã được giấu trên cái cây ngay gần đó, treo lủng lẳng như thứ quả quái đản cùng chiếc túi nhỏ đựng những mũi tên ngắn. Hắn ta từng la lối om sòm khi Thomas dùng sợi dây thừng mà cô bé xin được trong nhà để trói siết chân tay hắn, gào thét rằng dây quá chặt, rằng hắn sẽ chẳng sống nổi qua đêm nay, hoặc lũ chó hoang sẽ đến và xé xác hắn ra ăn thịt.
 
@@ -64,7 +64,7 @@ Cô bé cúi gằm mặt và tiếp bước.
 
 Khi Thomas và cô bé đã đi ra xa gần hết tầm với của tiếng gọi, Jacquot kịp vớt vát bằng một câu đầy cay độc: “Chúa ban phúc cho cả hai tụi mày vì điều này đấy,” rồi gào thét cho đến khi khản đặc cả giọng.
 
-Khi họ đi ngang qua một ngôi nhà lợp mái tranh ngả màu vàng lục, từ bên trong vọng ra tiếng một người phụ nữ ho sặc sụa ướt át, rồi bà cất giọng đọc lớn bài kinh <i>Pater Noster</i> ngắt quãng bởi những tiếng ho dữ dội hơn. Cô bé định bước về phía cửa sổ, nhưng Thomas đã tóm tay áo giật con bé lại.
+Khi họ đi ngang qua một ngôi nhà lợp mái tranh ngả màu vàng lục, từ bên trong vọng ra tiếng một người phụ nữ ho sặc sụa ướt át, rồi bà cất giọng đọc lớn bài kinh Pater Noster ngắt quãng bởi những tiếng ho dữ dội hơn. Cô bé định bước về phía cửa sổ, nhưng Thomas đã tóm tay áo giật con bé lại.
 
 “Cháu quen người phụ nữ này,” cô bé nói. “Vào những ngày lễ, bà hay bày bàn bán bánh ngọt tẩm mật ong và quả óc chó. Bà ấy tốt tính lắm.”
 
@@ -110,7 +110,7 @@ Cô bé nhíu mày.
 
 “Xem ra tao phải dính lấy mày thêm một thời gian nữa rồi. Đêm nay chúng ta sẽ ngủ ở nhà thờ này. May ra chưa có ai chết ở trong đây.”
 
-Giữa đêm, Thomas nghe thấy cô bé lẩm bẩm nói chuyện, nhưng không phải bằng tiếng Pháp. Tiếng Latinh. Gã phảng phất nghe thấy con bé thốt lên từ “Avignon<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn4">[4]</a>.” Thomas định lay con bé dậy, nhưng rồi lại thôi; gã đứng dậy bước ra ngoài hít thở không khí mát lạnh và ngắm nhìn các vì sao. Một ngôi sao chổi đã xuất hiện vào tuần trước, gần chòm sao Thiên Nga, và gã ngước lên để xem nó đang dịch chuyển đến đâu. Sẽ chẳng lâu nữa đâu nó sẽ cắt ngang cổ con thiên nga xinh đẹp ở phương Đông. Gã thừa nhận điều này thật tà ác, một dấu ấn dịch hạch giữa bầu trời bệnh hoạn, nhưng nó quá đỗi rực rỡ khiến gã không sao rời mắt nổi. Trước đó đã từng có những điềm báo khác. Từng có ba ngôi sao chổi cùng xuất hiện trên bầu trời tháng Tư, một ngôi sáng rực đến mức lu mờ cả những vì sao xung quanh; đó là thời điểm trước khi dịch bệnh tràn đến xứ Normandy, nhưng nó đã bắt đầu lan rộng ở những vùng đất khác, và đi đến đâu người ta cũng bàn tán về Ngày Phán Xét. Gã nhớ lại những câu chuyện từ những kẻ lữ hành mà bọn gã từng chạm trán, rồi cướp bóc; một trận động đất ở Ý, hoàn toàn lu mờ trước những trận động đất và cuồng phong quái dị tàn phá Ấn Độ; cách mà mặt đất ở xứ sở người Mông Cổ nứt toác xuống tận Địa Ngục, và chính Địa Ngục đã ợ lên thứ ôn dịch này.
+Giữa đêm, Thomas nghe thấy cô bé lẩm bẩm nói chuyện, nhưng không phải bằng tiếng Pháp. Tiếng Latinh. Gã phảng phất nghe thấy con bé thốt lên từ “Avignon[4].” Thomas định lay con bé dậy, nhưng rồi lại thôi; gã đứng dậy bước ra ngoài hít thở không khí mát lạnh và ngắm nhìn các vì sao. Một ngôi sao chổi đã xuất hiện vào tuần trước, gần chòm sao Thiên Nga, và gã ngước lên để xem nó đang dịch chuyển đến đâu. Sẽ chẳng lâu nữa đâu nó sẽ cắt ngang cổ con thiên nga xinh đẹp ở phương Đông. Gã thừa nhận điều này thật tà ác, một dấu ấn dịch hạch giữa bầu trời bệnh hoạn, nhưng nó quá đỗi rực rỡ khiến gã không sao rời mắt nổi. Trước đó đã từng có những điềm báo khác. Từng có ba ngôi sao chổi cùng xuất hiện trên bầu trời tháng Tư, một ngôi sáng rực đến mức lu mờ cả những vì sao xung quanh; đó là thời điểm trước khi dịch bệnh tràn đến xứ Normandy, nhưng nó đã bắt đầu lan rộng ở những vùng đất khác, và đi đến đâu người ta cũng bàn tán về Ngày Phán Xét. Gã nhớ lại những câu chuyện từ những kẻ lữ hành mà bọn gã từng chạm trán, rồi cướp bóc; một trận động đất ở Ý, hoàn toàn lu mờ trước những trận động đất và cuồng phong quái dị tàn phá Ấn Độ; cách mà mặt đất ở xứ sở người Mông Cổ nứt toác xuống tận Địa Ngục, và chính Địa Ngục đã ợ lên thứ ôn dịch này.
 
 Những ngôi sao chổi ấy suy cho cùng chỉ là một dấu hiệu nữa cho thấy cỗ máy của Thiên Đàng đang gặp trục trặc. Vài tên cướp trong băng của Godefroy đã tản mác trốn chạy từ trước khi căn bệnh dịch tỉa tót bọn chúng từ con số hai mươi tụt xuống chỉ còn bốn mạng lúc bọn chúng chộp được con lừa của cô bé. Những kẻ bỏ trốn tưởng rằng mình có thể cứu vãn linh hồn bằng cách rời bỏ băng cướp, nhưng thực chất bọn chúng đã giữ được cái mạng nhỏ. Cả đám đã ngã bệnh sau khi cướp bóc mấy thương nhân chở một xe đầy đồ lông thú; vừa vứt bỏ một tên phát bệnh cho đến chết thì lại có tên khác bắt đầu rên rỉ trong cơn ngủ mê vì một khối u sưng vù ở nách hay bẹn.
 

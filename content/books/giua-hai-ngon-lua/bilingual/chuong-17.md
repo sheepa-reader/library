@@ -4,7 +4,7 @@
 
 <p class="para-en">“So I damned half my village. My weakness made them hate me, so they stayed away from Mass. They were cut off from the sacraments.”</p>
 
-<p class="para-vi-sub"><span class="drop-2">“T</span>hế là tôi đã đày đọa một nửa giáo dân của mình. Sự yếu đuối của tôi khiến họ căm ghét tôi, nên họ tránh xa thánh lễ. Họ bị cắt đứt khỏi các bí tích.”</p>
+<p class="para-vi-sub">“Thế là tôi đã đày đọa một nửa giáo dân của mình. Sự yếu đuối của tôi khiến họ căm ghét tôi, nên họ tránh xa thánh lễ. Họ bị cắt đứt khỏi các bí tích.”</p>
 
 <p class="para-en">Thomas furrowed his brow at the priest.</p>
 
@@ -38,7 +38,7 @@
 
 <p class="para-vi-sub">“Xưng tội thì có ích gì nếu cha nói dối?”</p>
 
-<p class="para-en">“Everyone lies at confession. Around the edges, at least. A man who fornicates with his brother’s wife will say it was a whore. A <a id="page177"></a>woman will say she was glad in her heart that her blind and deaf baby died, when what she means is that she drowned it. But I wasn’t lying. Because a man of war like you cannot travel with a known sodomite.”</p>
+<p class="para-en">“Everyone lies at confession. Around the edges, at least. A man who fornicates with his brother’s wife will say it was a whore. A woman will say she was glad in her heart that her blind and deaf baby died, when what she means is that she drowned it. But I wasn’t lying. Because a man of war like you cannot travel with a known sodomite.”</p>
 
 <p class="para-vi-sub">“Ai mà chẳng nói dối khi xưng tội. Ít nhất là ở những phần rìa. Một kẻ gian dâm với vợ của anh trai mình sẽ nói rằng đó là một ả điếm. Một người phụ nữ sẽ nói rằng cô ta cảm thấy vui mừng trong lòng khi đứa con mù và điếc của mình chết đi, trong khi ý cô ta là chính tay cô ta đã dìm chết nó. Nhưng tôi không hề nói dối. Bởi vì một kẻ từng trải trận mạc như Thomas không thể đi lại với một kẻ đồi bại nổi danh.”</p>
 
@@ -90,7 +90,7 @@
 
 <p class="para-vi-sub">Nó ngẩng đầu lên, rồi chết trân tại chỗ.</p>
 
-<p class="para-en">It came through the straw thatching on the roof, forcing its way <a id="page178"></a>between the fibers, at once liquid and not liquid. She had never seen tentacles, but that was what it was: a mass of tentacles that knotted on itself again and again to move. It had no head at all; to her, it looked like a nest of snakes’ tails.</p>
+<p class="para-en">It came through the straw thatching on the roof, forcing its way between the fibers, at once liquid and not liquid. She had never seen tentacles, but that was what it was: a mass of tentacles that knotted on itself again and again to move. It had no head at all; to her, it looked like a nest of snakes’ tails.</p>
 
 <p class="para-vi-sub">Thứ đó chui qua lớp tranh rơm trên mái nhà, lách mình qua các sợi rơm, vừa có vẻ lỏng lẻo lại vừa không phải chất lỏng. Nó chưa bao giờ nhìn thấy xúc tu, nhưng đó chính là thứ đó: một khối xúc tu cuộn xoắn vào nhau hết lần này đến lần khác để di chuyển. Nó hoàn toàn không có đầu; đối với con chuột, trông nó giống như một ổ đuôi rắn.</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-vi-sub">Thomas từng nghe nói rằng những kẻ ngoại giáo dưới quyền Saladin đã thiêu rụi bãi cỏ tại các Sừng Hattin để khiến quân thập tự chinh phát điên vì khát trước khi hắn nghiền nát họ trong trận chiến, đẩy họ ra khỏi Đất Thánh, và Thomas nghĩ rằng mình đang ở nơi đó. Gần Jerusalem, ở vùng Levant. Tuy nhiên, những hình bóng đang nhóm lửa kia trông không giống con người, thậm chí chẳng giống người theo đạo Hồi.</p>
 
-<p class="para-en">“Goddamn it, stop that!” he tried to shout, but the words caught in his throat as if they had hooks. His throat was unbearably dry, and he knew he might die of thirst. It was the figures who were doing this <a id="page179"></a>to him; if he could reach them and kill them, it would stop. But they were so very far away, and his sword was so rusted it looked as though it would break if it struck anything hard. He clenched his teeth and moved forward, but then one of his teeth broke; he pulled a mailed glove off and pulled the tooth out. The action of doing this dislodged another one so it wobbled in his gums, then another; soon his whole mouth was full of loose teeth as dry and fragile as kindling. He opened his mouth to try to get some air in it, but then he realized that was a mistake. Almost as soon as the idea came to him that the sun was so hot it might light his teeth on fire, it did exactly that. They smoldered painfully in his gums, even after he shut his mouth, and he looked around for anything at all that might give him relief.</p>
+<p class="para-en">“Goddamn it, stop that!” he tried to shout, but the words caught in his throat as if they had hooks. His throat was unbearably dry, and he knew he might die of thirst. It was the figures who were doing this to him; if he could reach them and kill them, it would stop. But they were so very far away, and his sword was so rusted it looked as though it would break if it struck anything hard. He clenched his teeth and moved forward, but then one of his teeth broke; he pulled a mailed glove off and pulled the tooth out. The action of doing this dislodged another one so it wobbled in his gums, then another; soon his whole mouth was full of loose teeth as dry and fragile as kindling. He opened his mouth to try to get some air in it, but then he realized that was a mistake. Almost as soon as the idea came to him that the sun was so hot it might light his teeth on fire, it did exactly that. They smoldered painfully in his gums, even after he shut his mouth, and he looked around for anything at all that might give him relief.</p>
 
 <p class="para-vi-sub">“Mẹ kiếp, dừng lại!” Thomas cố thét lên, nhưng những từ ngữ nghẹn lại trong cổ họng như thể chúng có ngàm gai. Cổ họng gã khô khốc đến mức không chịu nổi, và gã biết mình có thể chết vì khát. Chính những hình nhân kia đang gây ra điều này cho gã; nếu gã có thể đến gần và tiêu diệt chúng, mọi chuyện sẽ chấm dứt. Nhưng chúng ở quá xa, và thanh kiếm của gã đã rỉ sét đến mức trông như thể sẽ gãy vụn nếu đập vào bất cứ vật gì cứng rắn. Gã nghiến răng tiến về phía trước, nhưng rồi một chiếc răng của gã gãy ngang; gã lột chiếc găng xích ra và nhổ chiếc răng đó đi. Hành động này làm lung lay một chiếc khác khiến nó lỏng lẻo trong lợi, rồi thêm một chiếc nữa; chẳng mấy chốc toàn bộ khoang miệng gã đầy những chiếc răng lung lay khô khốc và dễ vỡ như củi khô. Gã hé miệng để cố hít chút không khí vào trong, nhưng rồi gã nhận ra đó là một sai lầm. Gần như ngay khi ý nghĩ đó xuất hiện trong đầu rằng mặt trời nóng đến mức có thể làm bén lửa những chiếc răng của gã, thì chuyện đó xảy ra y như vậy. Chúng âm ỉ đau đớn trong lợi của gã, ngay cả sau khi gã đã ngậm miệng lại, và gã đảo mắt tìm kiếm bất cứ thứ gì có thể mang lại cho mình chút dịu giãi.</p>
 
@@ -134,19 +134,19 @@
 
 <p class="para-vi-sub">Nó cao khoảng ngang xương sườn gã, với những chiếc gai dài và sắc nhọn. Toàn bộ bụi cây dường như uốn cong quanh một thứ ở chính giữa: một quả lê. Nhưng không phải quả lê nào cũng thế. Đây là quả lê béo ngậy và ngọt ngào nhất mà gã từng thấy, với một chiếc lá trên cuống xanh đến mức khó tin. Gã biết rằng nó chứa đầy thứ mật ngọt mọng nước đến mức chỉ một miếng cắn cũng không chỉ làm dịu cơn đau, mà còn tiếp thêm sức mạnh cho tứ chi để gã có thể bắt tay vào việc tiêu diệt những kẻ tạo ra ngọn lửa mờ ảo ở phía chân trời.</p>
 
-<p class="para-en">He put his glove back on against the thorns and knelt down before the bush, picking gently at the needled twigs encasing the fruit. How like ribs around a heart they were. He had to be delicate so he didn’t rupture the pear, but this was hard. The thorns were so long and slender they slid deeply into his fingers even through the links of his mail. He had to make the thorn bush want to yield the pear, so he tried to say <em>Please</em>, but all that came through his ruined mouth was a grunt. Smoke came from his nose. The arrowhead was lodged in his tongue again. He couldn’t speak; he would never speak. He would never be understood by anyone or anything again. He jerked more roughly at the branches, but they pulled back.</p>
+<p class="para-en">He put his glove back on against the thorns and knelt down before the bush, picking gently at the needled twigs encasing the fruit. How like ribs around a heart they were. He had to be delicate so he didn’t rupture the pear, but this was hard. The thorns were so long and slender they slid deeply into his fingers even through the links of his mail. He had to make the thorn bush want to yield the pear, so he tried to say Please, but all that came through his ruined mouth was a grunt. Smoke came from his nose. The arrowhead was lodged in his tongue again. He couldn’t speak; he would never speak. He would never be understood by anyone or anything again. He jerked more roughly at the branches, but they pulled back.</p>
 
-<p class="para-vi-sub">Gã đeo lại găng tay để chống lại gai góc và quỳ xuống trước bụi cây, nhẹ nhàng bứt những cành cây tua tủa đang bao bọc lấy quả. Chúng thật giống như những chiếc xương sườn bao bọc lấy trái tim. Gã phải thật khéo léo để không làm rách quả lê, nhưng điều này thật khó khăn. Những chiếc gai quá dài và mảnh mai đến mức chúng đâm sâu vào các ngón tay gã xuyên qua cả những vòng xích áo giáp. Gã phải khiến bụi cây gai muốn nhường lại quả lê, nên gã cố nói <i>Làm ơn</i>, nhưng tất cả những gì phát ra qua cái miệng tơi tả của gã chỉ là một tiếng gầm gừ. Khói bốc ra từ mũi gã. Đầu mũi tên lại cắm sâu vào lưỡi gã. Gã không thể nói; gã sẽ không bao giờ có thể nói được nữa. Chẳng một ai hay bất cứ thứ gì trên đời còn có thể hiểu nổi gã nữa. Gã giật mạnh hơn vào các cành cây, nhưng chúng lại kéo lùi lại.</p>
+<p class="para-vi-sub">Gã đeo lại găng tay để chống lại gai góc và quỳ xuống trước bụi cây, nhẹ nhàng bứt những cành cây tua tủa đang bao bọc lấy quả. Chúng thật giống như những chiếc xương sườn bao bọc lấy trái tim. Gã phải thật khéo léo để không làm rách quả lê, nhưng điều này thật khó khăn. Những chiếc gai quá dài và mảnh mai đến mức chúng đâm sâu vào các ngón tay gã xuyên qua cả những vòng xích áo giáp. Gã phải khiến bụi cây gai muốn nhường lại quả lê, nên gã cố nói Làm ơn, nhưng tất cả những gì phát ra qua cái miệng tơi tả của gã chỉ là một tiếng gầm gừ. Khói bốc ra từ mũi gã. Đầu mũi tên lại cắm sâu vào lưỡi gã. Gã không thể nói; gã sẽ không bao giờ có thể nói được nữa. Chẳng một ai hay bất cứ thứ gì trên đời còn có thể hiểu nổi gã nữa. Gã giật mạnh hơn vào các cành cây, nhưng chúng lại kéo lùi lại.</p>
 
-<p class="para-en"><em>Rip it open. Use your strength. Destroy it and eat the pulp. You can’t know how sweet it is!</em></p>
+<p class="para-en">Rip it open. Use your strength. Destroy it and eat the pulp. You can’t know how sweet it is!</p>
 
-<p class="para-vi-sub"><i>Xé toạc nó ra. Dùng sức mạnh của ngươi đi. Phá hủy nó và ăn phần thịt quả đi. Ngươi không thể biết nó ngọt ngào đến nhường nào đâu!</i></p>
+<p class="para-vi-sub">Xé toạc nó ra. Dùng sức mạnh của ngươi đi. Phá hủy nó và ăn phần thịt quả đi. Ngươi không thể biết nó ngọt ngào đến nhường nào đâu!</p>
 
 <p class="para-en">Lies.</p>
 
 <p class="para-vi-sub">Toàn là dối trá.</p>
 
-<p class="para-en"><a id="page180"></a>He was being lied to.</p>
+<p class="para-en">He was being lied to.</p>
 
 <p class="para-vi-sub">Thomas đang bị lừa dối.</p>
 
@@ -190,9 +190,9 @@
 
 <p class="para-vi-sub">Một thứ gì đó chạy vụt qua đùi gã, một thứ gì đó nhờ nhờ và tối tăm,</p>
 
-<p class="para-en"><em>die with her then you limp weak prick</em></p>
+<p class="para-en">die with her then you limp weak prick</p>
 
-<p class="para-vi-sub"><i>cứ chết cùng nó đi đồ yếu đuối vô tích sự</i></p>
+<p class="para-vi-sub">cứ chết cùng nó đi đồ yếu đuối vô tích sự</p>
 
 <p class="para-en">and it rained itself upward somehow through the planks of the loft above them.</p>
 
@@ -206,7 +206,7 @@
 
 <p class="para-vi-sub">Hay đó là máu?</p>
 
-<p class="para-en">His breeches were down and his <em>verge</em> was half erect.</p>
+<p class="para-en">His breeches were down and his verge was half erect.</p>
 
 <p class="para-vi-sub">Quần chẽn của gã đã tuột xuống và dương vật của gã đang nửa cứng.</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-vi-sub">“Chú không làm thế,” cô bé nói. “Chú đã dừng lại. Nó cố ép chú, và chú có thể đã làm, nhưng chú đã dừng lại.”</p>
 
-<p class="para-en"><a id="page181"></a>He blinked dumbly at her dark outline with the sound of the rain dripping.</p>
+<p class="para-en">He blinked dumbly at her dark outline with the sound of the rain dripping.</p>
 
 <p class="para-vi-sub">Gã ngẩn ngơ chớp mắt nhìn bóng hình tối tăm của cô bé giữa tiếng mưa rơi rả rích.</p>
 
@@ -282,7 +282,7 @@
 
 <p class="para-vi-sub">Giấc mơ vừa rồi giống như những giấc mơ tiên tri khác. Cô bé mơ thấy Thomas có một con cua đen trong đầu đang điều khiển chú như người ta điều khiển xe bò, và con cua này muốn chú làm hại mình. Cô bé đã bừng tỉnh trong bóng tối và thấy chú đang cởi quần áo của mình, thoạt đầu rất dịu dàng, nhưng sau đó thì thô bạo, ánh mắt vô hồn. Nhưng khi cô bé cố lùi ra xa, chú hắt xì một cái thật mạnh và có thứ gì đó thoát ra khỏi người chú. Chú đã đẩy nó ra khỏi cơ thể mình. Hơn nữa, cơn đau nằm ở vùng bụng, chứ không phải ở nơi đáng lẽ phải đau nếu cô bé đã bị xâm hại.</p>
 
-<p class="para-en"><a id="page182"></a>No, the blood was not from the loss of her maidenhead.</p>
+<p class="para-en">No, the blood was not from the loss of her maidenhead.</p>
 
 <p class="para-vi-sub">Không, vết máu đó không phải do việc mất đi trinh tiết.</p>
 

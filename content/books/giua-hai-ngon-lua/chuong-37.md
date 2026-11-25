@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Ba: Trong khu vườncủa Giáo hoàng
+# Chương Ba Mươi Ba: Trong khu vườn của Giáo hoàng
 
 Robert Hanicotte cầm đóa hoa nhỏ rực rỡ trong tay, thầm nhận ra sự mỏng manh của nó; anh từng thấy loài này rồi, tất nhiên, từng chùm hoa vàng rực mọc chen chúc trong khu vườn này hay khu vườn khác, nhưng anh chưa bao giờ bận tâm đến thảo mộc và hoa lá. Anh cố gắng nhớ lại tên của nó.
 
@@ -14,7 +14,7 @@ Giáo hoàng Clement mỉm cười trước biểu cảm trên khuôn mặt anh,
 
 Không khí trong vườn rất mát mẻ, những bức tường cao may sao đã che chắn nơi này khỏi những cơn gió đang gầm thét qua các con hẻm ở Avignon và quất đầy bụi cát vào mắt người dân.
 
-Ở phía xa, trong khu vực tẻ nhạt hơn của khu vườn giáo hoàng, nơi trồng rau củ, những người phụ nữ đang thu hoạch hành và củ cải để đưa đến <i>pignotte</i>, nơi Đức Giáo Hoàng thể hiện lòng bác ái rộng lượng của mình bằng cách nuôi sống những người nghèo khổ ở Avignon. Công việc giờ đây đã dễ dàng hơn phần nào khi đại dịch đã càn quét bớt một lượng lớn dân số; nó hoành hành không thương tiếc ở các khu nghèo đói, khiến một số con đường hoàn toàn vắng bóng người sống.
+Ở phía xa, trong khu vực tẻ nhạt hơn của khu vườn giáo hoàng, nơi trồng rau củ, những người phụ nữ đang thu hoạch hành và củ cải để đưa đến pignotte, nơi Đức Giáo Hoàng thể hiện lòng bác ái rộng lượng của mình bằng cách nuôi sống những người nghèo khổ ở Avignon. Công việc giờ đây đã dễ dàng hơn phần nào khi đại dịch đã càn quét bớt một lượng lớn dân số; nó hoành hành không thương tiếc ở các khu nghèo đói, khiến một số con đường hoàn toàn vắng bóng người sống.
 
 Một tiếng sư tử gầm vang lên.
 
@@ -48,7 +48,7 @@ Có cái gì đó nhột nhột trên tay, anh đưa lên nhìn thì thấy mộ
 
 Đức Thánh Cha cất lời: “Cha rất tiếc phải thốt ra từ này, nhưng ta nghĩ con có thể đoán được.”
 
-<i>Phù thủy.</i>
+Phù thủy.
 
 Từ ấy bật ra trong đầu rồi biến mất nhanh chóng y như con ruồi kia vậy.
 
@@ -78,7 +78,7 @@ Hơi thở của Robert nghẹn lại trong lồng ngực vì phấn khích và 
 
 Nhận lệnh cáo lui, vị hồng y và chàng thanh niên bước ra khỏi khu vườn, đi ngang qua những chiếc chuồng trong vườn thú của Đức Giáo Hoàng.
 
-<i>Chúng ta sẽ đền đáp gấp mười lần mọi sự tử tế mà ông dành cho cậu ta</i>
+Chúng ta sẽ đền đáp gấp mười lần mọi sự tử tế mà ông dành cho cậu ta
 
 Vị hồng y mấp máy môi khi thầm nhắc lại lời của Đức Giáo Hoàng, cố gắng dò xét tầng ý nghĩa thực sự ẩn giấu bên trong. Ông liếc nhìn qua người tình đang đắc ý của mình, kẻ có biểu cảm chưa đến mức dám gọi là một nụ cười, rồi hướng về phía những lồng chuồng trong khu thú hoang của Đức Thánh Cha. Có gì đó không ổn với bầy sư tử. Ông mất một thoáng mới nhận ra đó là điều gì.
 
@@ -88,7 +88,7 @@ Con sư tử bờm đen mới đến ngồi uy nghi trên đôi chân sau, trong
 
 Một luồng khí lạnh chạy dọc sườn trái vị hồng y.
 
-<i>Những chiếc chuồng đó đâu có thông nhau.</i>
+Những chiếc chuồng đó đâu có thông nhau.
 
 Ông chớp mắt, chắc chắn rằng thị giác của mình vừa đánh lừa ông.
 

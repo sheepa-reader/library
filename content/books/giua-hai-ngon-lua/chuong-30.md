@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Bảy: BọnRoutiers
+# Chương Hai Mươi Bảy: Bọn Routiers
 
 Thành phố Orange nằm khuất sau một vòm cổng La Mã to lớn như muốn che chở cho con đường mà nó bắc qua, con đường dẫn thẳng đến các cổng thành. Những cửa hàng và ngôi nhà mọc lên san sát bên ngoài tường thành tựa lưng vào những bức tường đó, hoặc tựa vào nhau, nhưng một khoảng không gian mang tính tôn kính vẫn được chừa lại quanh vòm cổng. Cứ như thể vị hoàng đế hoặc vị tướng từng hạ lệnh dựng nên nó vẫn đang được kính trọng sâu sắc đến mức vòm cổng của ông vẫn được để lại nguyên vẹn, ngay cả khi những kẻ tìm kiếm đá xây nhà tha hồ khoét lấy từ nhà hát lộ thiên sát sườn đồi.
 
@@ -8,7 +8,7 @@ Nhà tắm công cộng nằm gần vòm cổng hơn bất kỳ công trình nà
 
 Khách du lịch từ khắp vùng Provence và Langue d’Oc đều biết về Tiệm Tắm Vòm Cổng, tên gọi của nhà tắm công cộng, và về những người phụ nữ làm việc ở đó; có lẽ họ không phải là những bông hoa rực rỡ nhất của Orange, bởi những người đẹp nhất đã được gửi đến Avignon; đây là những cô gái xinh đẹp có chút tỳ vết nhẹ, những người suýt được đưa về phương nam nếu không vì một nốt ruồi hay cái cằm kém thon gọn. Những cô gái chưa lấy chồng vì bị cha mẹ đẩy ra ngoài kiếm tiền, hoặc những cô gái đã kết hôn nhưng thấy cuộc sống quá cay đắng, nên đã đến sống dưới cái bóng của vòm cổng. Những cô gái biết thế nào là hoan lạc và dạy cho người khác điều đó.
 
-Mặt trời vừa lặn xuống khi Thomas đến gần vòm cổng La Mã đồ sộ cùng thị trấn nhỏ nằm bên ngoài phố thị. Anh có rất ít tiền, nên chẳng có lý do gì để tiến đến các cổng thành Orange vốn đang đóng kín, hay đến cụm quán trọ và tiệm rượu nằm ngay qua khỏi vòm cổng, nơi những chiếc đèn lồng đang mời chào khách vào buôn bán. Dù vậy, anh vẫn muốn nhìn ngắm thị trấn; anh từng nghe tên thành phố này lần đầu tiên trong một khúc anh hùng ca mang tên <i>La Prise d’Orange</i>, trong đó một nữ hoàng Ả Rập lộng lẫy đã phản bội chồng và đức tin của mình để dâng thành phố cho người Frank.
+Mặt trời vừa lặn xuống khi Thomas đến gần vòm cổng La Mã đồ sộ cùng thị trấn nhỏ nằm bên ngoài phố thị. Anh có rất ít tiền, nên chẳng có lý do gì để tiến đến các cổng thành Orange vốn đang đóng kín, hay đến cụm quán trọ và tiệm rượu nằm ngay qua khỏi vòm cổng, nơi những chiếc đèn lồng đang mời chào khách vào buôn bán. Dù vậy, anh vẫn muốn nhìn ngắm thị trấn; anh từng nghe tên thành phố này lần đầu tiên trong một khúc anh hùng ca mang tên La Prise d’Orange, trong đó một nữ hoàng Ả Rập lộng lẫy đã phản bội chồng và đức tin của mình để dâng thành phố cho người Frank.
 
 “Tụi mày đứa nào cũng như nhau cả, phải không?”
 
@@ -70,21 +70,21 @@ Anh cảm thấy có thứ gì đó khẽ chạm vào tim mình, tựa như nh�
 
 Những giọng nói vọng đến bên anh, nghe như từ một cõi xa xăm.
 
-<i>Đừng giết hắn.</i>
+Đừng giết hắn.
 
-<i>Đừng tước đoạt sinh mạng bất kỳ ai nữa.</i>
+Đừng tước đoạt sinh mạng bất kỳ ai nữa.
 
-<i>Thomas.</i>
+Thomas.
 
-<i>Ngài Thomas.</i>
+Ngài Thomas.
 
-<i>Chúng ta sẽ phải trả giá cho việc đó.</i>
+Chúng ta sẽ phải trả giá cho việc đó.
 
-<i>Hãy tìm anh ấy… hãy nói với anh ấy…</i>
+Hãy tìm anh ấy… hãy nói với anh ấy…
 
-<i>Ngươi có thề mang công lý của Chúa đến cho họ không?</i>
+Ngươi có thề mang công lý của Chúa đến cho họ không?
 
-<i>Ta thề.</i>
+Ta thề.
 
 Anh hít một hơi sâu rồi hạ thấp hông, những gã đàn ông ở gần hơn lập tức lặn ngụp xuống nước, một trong số những ả điếm thét lên, nhưng anh đã khựng lại. Anh vốn đã đinh ninh sẽ bắt đầu chém giết và khoét mắt những gã đàn ông bất lực này ngay trong bốn cái vạc tắm khổng lồ.
 
@@ -104,17 +104,17 @@ Tất cả bọn chúng.
 
 Và chúng thừa biết điều đó.
 
-Đêm đó, Thomas ngủ lại trong tháp chuông của một ngôi nhà thờ nhỏ hoang phế nhìn ra con đường cái quan; anh hồ nghi liệu lũ lính đánh thuê có đuổi theo mình không, nhưng bao giờ hành xử như thể tình huống tồi tệ nhất sắp xảy ra cũng là điều khôn ngoan hơn cả. Trên đường rời khỏi khu nhà tắm, anh đã đi ngang qua chuồng ngựa và thấy chúng chật kín; anh khao khát đến xé lòng cảm giác được cưỡi trên lưng ngựa, nhưng một giọng nói nhỏ bé vang lên trong thâm tâm bảo rằng <i>không</i>, và bằng cách nào đó, anh biết đó chính là giọng nói của cô bé. Anh một mình rời khỏi khu chuồng ngựa, rẽ khỏi con đường lớn để bước vào những cánh đồng.
+Đêm đó, Thomas ngủ lại trong tháp chuông của một ngôi nhà thờ nhỏ hoang phế nhìn ra con đường cái quan; anh hồ nghi liệu lũ lính đánh thuê có đuổi theo mình không, nhưng bao giờ hành xử như thể tình huống tồi tệ nhất sắp xảy ra cũng là điều khôn ngoan hơn cả. Trên đường rời khỏi khu nhà tắm, anh đã đi ngang qua chuồng ngựa và thấy chúng chật kín; anh khao khát đến xé lòng cảm giác được cưỡi trên lưng ngựa, nhưng một giọng nói nhỏ bé vang lên trong thâm tâm bảo rằng không, và bằng cách nào đó, anh biết đó chính là giọng nói của cô bé. Anh một mình rời khỏi khu chuồng ngựa, rẽ khỏi con đường lớn để bước vào những cánh đồng.
 
 Ngọn tháp chuông này là một vị trí đắc địa.
 
 Dĩ nhiên, ngoài lũ cướp bóc, anh còn đang ngóng chờ cô bé, người mà anh linh cảm rằng mình đã bỏ lại phía sau. Anh chợt nghĩ rằng rất có thể anh đã gián tiếp gây hại cho cô bé khi tha mạng cho những kẻ đó; rốt cuộc thì chúng sẽ làm gì em nếu tìm thấy em? Thế nhưng, mong muốn của cô bé là điều không thể nhầm lẫn.
 
-<i>Mệnh lệnh của cô bé.</i>
+Mệnh lệnh của cô bé.
 
-<i>Ừ thì, con bé là cái thá gì mà dám ra lệnh cho ta?</i>
+Ừ thì, con bé là cái thá gì mà dám ra lệnh cho ta?
 
-<i>Còn ngươi là ai mà dám chống lại cô bé?</i>
+Còn ngươi là ai mà dám chống lại cô bé?
 
 Anh cố gắng tìm câu trả lời, nhưng rồi chỉ thốt lên một tiếng, “Hừ.”
 
@@ -124,7 +124,7 @@ Thế mà.
 
 Nếu anh kể cho bất kỳ ai nghe về cô bé này — người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành — họ sẽ thốt lên…
 
-<i>Phù thủy.</i>
+Phù thủy.
 
 Đó chính là những gì họ sẽ nói.
 

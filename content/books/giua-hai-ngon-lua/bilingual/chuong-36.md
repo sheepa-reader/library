@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Hai: Bàn Về Những KẻLàm Rượu Đêm
+# Chương Ba Mươi Hai: Bàn Về Những Kẻ Làm Rượu Đêm
 
 <p class="para-en">“What are you doing here?” Robert Hanicotte said.</p>
 
@@ -26,9 +26,9 @@
 
 <p class="para-vi-sub">Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với anh bằng thứ tiếng Pháp xứ Normandy của chính anh.</p>
 
-<p class="para-en">And the horse liked her. Goddamn if he didn’t seem to <em>like</em> her.</p>
+<p class="para-en">And the horse liked her. Goddamn if he didn’t seem to like her.</p>
 
-<p class="para-vi-sub">Và con ngựa có vẻ quý Delphine. Thề có Chúa, dường như nó thực sự <i>thích</i> cô bé.</p>
+<p class="para-vi-sub">Và con ngựa có vẻ quý Delphine. Thề có Chúa, dường như nó thực sự thích cô bé.</p>
 
 <p class="para-en">Her words were lucid, but her heavy-lidded eyes looked half asleep.</p>
 
@@ -42,7 +42,7 @@
 
 <p class="para-vi-sub">“Gì cơ?”</p>
 
-<p class="para-en"><a id="page334"></a>“You heard me, Robert-of-the-bushes.”</p>
+<p class="para-en">“You heard me, Robert-of-the-bushes.”</p>
 
 <p class="para-vi-sub">Delphine tiếp lời: “Anh nghe rõ rồi đấy, hỡi Robert-của-những-bụi-cây.”</p>
 
@@ -130,53 +130,53 @@
 
 <p class="para-vi-sub">“Rồi anh sẽ thấy.”</p>
 
-<p class="para-en">Delphine sat before the handsome, perfumed man as he cantered the horse through the steep streets of Villeneuve, just across the river <a id="page335"></a>from Avignon. It was in this city, away from the press of workers’ houses, Jewish ghettos, market stalls, and ordure, that Cardinal Cyriac kept his great stone house with its tiles and garden and fountain. Most of the cardinals lived here. This was a city of ivy and warm stone and plane trees. Delphine closed her eyes so the beauty of Villeneuve would not distract her—it was going to be so hard to turn this man, she would need to be a clear vessel for…</p>
+<p class="para-en">Delphine sat before the handsome, perfumed man as he cantered the horse through the steep streets of Villeneuve, just across the river from Avignon. It was in this city, away from the press of workers’ houses, Jewish ghettos, market stalls, and ordure, that Cardinal Cyriac kept his great stone house with its tiles and garden and fountain. Most of the cardinals lived here. This was a city of ivy and warm stone and plane trees. Delphine closed her eyes so the beauty of Villeneuve would not distract her—it was going to be so hard to turn this man, she would need to be a clear vessel for…</p>
 
 <p class="para-vi-sub">Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi anh điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…</p>
 
-<p class="para-en"><em>For what?</em></p>
+<p class="para-en">For what?</p>
 
-<p class="para-vi-sub"><i>Để làm gì?</i></p>
+<p class="para-vi-sub">Để làm gì?</p>
 
-<p class="para-en"><em>For God</em></p>
+<p class="para-en">For God</p>
 
-<p class="para-vi-sub"><i>Để dâng lên Chúa</i></p>
+<p class="para-vi-sub">Để dâng lên Chúa</p>
 
-<p class="para-en"><em>God is gone</em></p>
+<p class="para-en">God is gone</p>
 
-<p class="para-vi-sub"><i>Chúa đã quay mặt đi rồi</i></p>
+<p class="para-vi-sub">Chúa đã quay mặt đi rồi</p>
 
-<p class="para-en"><em>For His angels then</em></p>
+<p class="para-en">For His angels then</p>
 
-<p class="para-vi-sub"><i>Vậy thì dâng lên các thiên thần của Ngài</i></p>
+<p class="para-vi-sub">Vậy thì dâng lên các thiên thần của Ngài</p>
 
 <p class="para-en">But Robert had agreed to come with her, and she had not thought he would. He might yet do what she wanted of him.</p>
 
 <p class="para-vi-sub">Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ anh sẽ dễ dàng nhận lời như vậy. Rất có thể anh vẫn sẽ làm điều mà cô muốn.</p>
 
-<p class="para-en"><em>What they want of him</em></p>
+<p class="para-en">What they want of him</p>
 
-<p class="para-vi-sub"><i>Điều mà các ngài ấy muốn ở anh</i></p>
+<p class="para-vi-sub">Điều mà các ngài ấy muốn ở anh</p>
 
-<p class="para-en"><em>I’m scared of them, too, almost as much as I am of their dark brothers; they’re so bent against each other how can man matter to them?</em></p>
+<p class="para-en">I’m scared of them, too, almost as much as I am of their dark brothers; they’re so bent against each other how can man matter to them?</p>
 
-<p class="para-vi-sub"><i>Ta cũng sợ họ lắm chứ, gần như sợ cả những người anh em hắc ám của họ vậy; họ cứ quay cuồng chống đối lẫn nhau thì con người có xá gì trong mắt họ cơ chứ?</i></p>
+<p class="para-vi-sub">Ta cũng sợ họ lắm chứ, gần như sợ cả những người anh em hắc ám của họ vậy; họ cứ quay cuồng chống đối lẫn nhau thì con người có xá gì trong mắt họ cơ chứ?</p>
 
-<p class="para-en"><em>I’m going to die soon</em></p>
+<p class="para-en">I’m going to die soon</p>
 
-<p class="para-vi-sub"><i>Chẳng mấy chốc nữa ta sẽ chết</i></p>
+<p class="para-vi-sub">Chẳng mấy chốc nữa ta sẽ chết</p>
 
 <p class="para-en">Delphine shook her head against her doubt.</p>
 
 <p class="para-vi-sub">Delphine lắc đầu để xua đi mối hoài nghi trong lòng.</p>
 
-<p class="para-en"><em>There are far, far worse things than dying</em></p>
+<p class="para-en">There are far, far worse things than dying</p>
 
-<p class="para-vi-sub"><i>Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết</i></p>
+<p class="para-vi-sub">Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết</p>
 
-<p class="para-en"><em>And I’m about to see them</em></p>
+<p class="para-en">And I’m about to see them</p>
 
-<p class="para-vi-sub"><i>Và ta sắp sửa phải chứng kiến chúng rồi</i></p>
+<p class="para-vi-sub">Và ta sắp sửa phải chứng kiến chúng rồi</p>
 
 <p class="para-en">The horse stumbled on loose stones and jarred her eyes open just beneath the massive tower Phillip the Fair had built to menace the city of the popes some forty years before; Villeneuve was in France, not Provence, while Avignon had just been bought outright by the pope himself, making an earthly sovereign of him. The tower had been built by a bullying king to bully a weak pope; now both were dead and France and Avignon were in bed together, for good it seemed. The tower’s murder-slits were dark, unlike many windows behind her; sleep was not coming easily to the city of cardinals, where important men could afford candles to burn against their nightmares. The people of Villeneuve did not know how close those nightmares were to birthing themselves in the world.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-vi-sub">Họ cưỡi ngựa vượt qua cây cầu rực ánh đuốc để tiến vào Avignon, rồi rẽ qua cổng phía bắc hướng về Sorgues và Châteauneuf.</p>
 
-<p class="para-en"><a id="page336"></a>Delphine had walked this way with Thomas after his transformation; she had seen the handsome ramparts and great square towers of Châteauneuf by day. She had seen the vineyards that provided the last wine in Provence lying still and had not thought to return by night. Unlike Sorgues, which lay dead and open, no part of it still working save the papal mint, Châteauneuf was alive—alive enough to shut the Porte d’Avignon at night as it had even before the plague struck. Delphine’s business was not in the city, however.</p>
+<p class="para-en">Delphine had walked this way with Thomas after his transformation; she had seen the handsome ramparts and great square towers of Châteauneuf by day. She had seen the vineyards that provided the last wine in Provence lying still and had not thought to return by night. Unlike Sorgues, which lay dead and open, no part of it still working save the papal mint, Châteauneuf was alive—alive enough to shut the Porte d’Avignon at night as it had even before the plague struck. Delphine’s business was not in the city, however.</p>
 
 <p class="para-vi-sub">Delphine từng đi con đường này cùng Thomas sau khi anh biến đổi; cô đã tận mắt chiêm ngưỡng những bức tường thành tráng lệ cùng các tòa tháp vuông vức vĩ đại của Châteauneuf dưới ánh ban ngày. Cô từng nhìn thấy những vườn nho sản xuất ra mẻ rượu vang cuối cùng ở Provence nằm yên lìm và chưa từng nghĩ có ngày mình sẽ quay lại đây vào ban đêm. Không giống như Sorgues đã lụi tàn và rộng mở hoang hoác, chẳng còn hoạt động nào duy trì ngoại trừ xưởng đúc tiền của giáo hoàng, Châteauneuf vẫn tràn đầy sức sống, đủ sức sống để đóng chặt Cổng Avignon vào ban đêm y như cách họ vẫn làm từ trước khi đại dịch bùng phát. Dù vậy, mục đích của Delphine không phải ở trong thành phố.</p>
 
@@ -194,7 +194,7 @@
 
 <p class="para-vi-sub">Mà là ở những vườn nho bao bọc xung quanh nó.</p>
 
-<p class="para-en">They steered Guêpe off the Grand Chemin de Sorgues and onto the small paths between the <em>lieux-dits</em>, bearing names like Bois Renard, Beau Renard, and Mont Redon; these were among the most beautiful vineyards in the world.</p>
+<p class="para-en">They steered Guêpe off the Grand Chemin de Sorgues and onto the small paths between the lieux-dits, bearing names like Bois Renard, Beau Renard, and Mont Redon; these were among the most beautiful vineyards in the world.</p>
 
 <p class="para-vi-sub">Họ điều khiển Guêpe rời khỏi con đường lớn Grand Chemin de Sorgues để rẽ vào những lối nhỏ đan cài giữa các vùng đất trồng nho, mang những cái tên như Bois Renard, Beau Renard và Mont Redon; đây vốn là một trong những chốn quy tụ các vườn nho đẹp đẽ nhất trên trần gian.</p>
 
@@ -238,7 +238,7 @@
 
 <p class="para-vi-sub">Delphine dẫn họ tiến lại gần hơn, rón rén bước đi thật khẽ dọc theo luống nho.</p>
 
-<p class="para-en">To Robert’s surprise, however, she led them past the gatherers altogether, following three women with huge baskets of grapes on <a id="page337"></a>their backs. The women made for a stone farmhouse, just outside which a dozen workers tromped in a wine press.</p>
+<p class="para-en">To Robert’s surprise, however, she led them past the gatherers altogether, following three women with huge baskets of grapes on their backs. The women made for a stone farmhouse, just outside which a dozen workers tromped in a wine press.</p>
 
 <p class="para-vi-sub">Thế nhưng, điều khiến Robert ngạc nhiên là cô dẫn họ đi qua hẳn đám người hái nho, bám theo ba người phụ nữ đang vác trên lưng những chiếc giỏ đựng đầy ắp nho. Những người phụ nữ tiến về phía một ngôi nhà đá nông thôn, ngay bên ngoài đó, khoảng chừng một tá công nhân đang dậm chân trong một cối ép rượu.</p>
 
@@ -302,13 +302,13 @@
 
 <p class="para-vi-sub">Bọn chúng đang thu hẹp khoảng cách.</p>
 
-<p class="para-en">Guêpe bucked and reared at the smell of them, or perhaps at the <a id="page338"></a>sound of them rushing through the leaves and butting against one another, and his rope threatened to come loose—if he ran off without them, Robert and Delphine would be</p>
+<p class="para-en">Guêpe bucked and reared at the smell of them, or perhaps at the sound of them rushing through the leaves and butting against one another, and his rope threatened to come loose—if he ran off without them, Robert and Delphine would be</p>
 
 <p class="para-vi-sub">Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ</p>
 
-<p class="para-en"><em>hung like pigs with cut throats to bleed out into the vats</em></p>
+<p class="para-en">hung like pigs with cut throats to bleed out into the vats</p>
 
-<p class="para-vi-sub"><i>bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu</i></p>
+<p class="para-vi-sub">bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu</p>
 
 <p class="para-en">caught.</p>
 
@@ -350,7 +350,7 @@
 
 <p class="para-vi-sub">“Cô bé muốn gì từ ta?” Robert hỏi.</p>
 
-<p class="para-en"><a id="page339"></a>“The…Holy Father trusts you.”</p>
+<p class="para-en">“The…Holy Father trusts you.”</p>
 
 <p class="para-vi-sub">“Đức Thánh Cha… đặt niềm tin nơi anh.”</p>
 
@@ -434,7 +434,7 @@
 
 <p class="para-vi-sub">“Và điều đó là gì?”</p>
 
-<p class="para-en"><a id="page340"></a>“We’ll save the pope.”</p>
+<p class="para-en">“We’ll save the pope.”</p>
 
 <p class="para-vi-sub">“Chúng ta sẽ giải cứu giáo hoàng.”</p>
 
@@ -442,9 +442,9 @@
 
 <p class="para-vi-sub">Thomas khẽ cười trước câu nói ấy.</p>
 
-<p class="para-en">“It sounds ridiculous when you say it like that. An orphan from Normandy and a thief from Picardy saving the pope. The whoring <em>pope</em>.”</p>
+<p class="para-en">“It sounds ridiculous when you say it like that. An orphan from Normandy and a thief from Picardy saving the pope. The whoring pope.”</p>
 
-<p class="para-vi-sub">“Nghe thật nực cười khi nghe con thốt ra những lời đó. Một đứa trẻ mồ côi đến từ Normandy và một tên trộm đến từ Picardy lại đi cứu giáo hoàng. Lại còn là một vị <i>giáo hoàng</i> ăn chơi trác táng.”</p>
+<p class="para-vi-sub">“Nghe thật nực cười khi nghe con thốt ra những lời đó. Một đứa trẻ mồ côi đến từ Normandy và một tên trộm đến từ Picardy lại đi cứu giáo hoàng. Lại còn là một vị giáo hoàng ăn chơi trác táng.”</p>
 
 <p class="para-en">“You know when you swear that I’ll say ‘don’t swear,’ and then you won’t for a while. Why not just not swear in the first place? But I suppose that’s asking a horse not to whinny. Anyway, you’re not a thief. And as long as you’re with me, I’m not an orphan.”</p>
 
@@ -506,15 +506,15 @@
 
 <p class="para-vi-sub">“Thiếu nữ nào?”</p>
 
-<p class="para-en">“The stags in the Grand Tinel. They were readied before the great hearth in the <em>dressoir</em>, out of sight. They were perfumed and then filled with warm olive oil and honey, and then they were all backed up against the fire to heat their loins. Hot brass was put in their mouths and hands to warm those. So nobody would notice. That they were dead. The knights and cardinals had intercourse with the dead.”</p>
+<p class="para-en">“The stags in the Grand Tinel. They were readied before the great hearth in the dressoir, out of sight. They were perfumed and then filled with warm olive oil and honey, and then they were all backed up against the fire to heat their loins. Hot brass was put in their mouths and hands to warm those. So nobody would notice. That they were dead. The knights and cardinals had intercourse with the dead.”</p>
 
-<p class="para-vi-sub">“Những người hầu gái trong Đại sảnh Grand Tinel. Họ đã được chuẩn bị sẵn trước lò sưởi lớn trong phòng chứa đồ <i>dressoir</i>, khuất tầm mắt mọi người. Xác họ được tẩm nước hoa rồi bơm đầy dầu ô-liu ấm cùng mật ong, sau đó được áp sát vào lò sưởi để làm ấm phần hông. Người ta nhét đồng thau nóng vào miệng và tay họ để làm ấm những bộ phận đó. Nhờ vậy sẽ chẳng ai nhận ra rằng… họ đã chết. Các hiệp sĩ và hồng y đã ân ái với người chết.”</p>
+<p class="para-vi-sub">“Những người hầu gái trong Đại sảnh Grand Tinel. Họ đã được chuẩn bị sẵn trước lò sưởi lớn trong phòng chứa đồ dressoir, khuất tầm mắt mọi người. Xác họ được tẩm nước hoa rồi bơm đầy dầu ô-liu ấm cùng mật ong, sau đó được áp sát vào lò sưởi để làm ấm phần hông. Người ta nhét đồng thau nóng vào miệng và tay họ để làm ấm những bộ phận đó. Nhờ vậy sẽ chẳng ai nhận ra rằng… họ đã chết. Các hiệp sĩ và hồng y đã ân ái với người chết.”</p>
 
 <p class="para-en">Thomas turned around now, his massive silhouette blocking the moonlight, but not the cool breeze that blew in the window.</p>
 
 <p class="para-vi-sub">Lúc này Thomas quay người lại, bóng dáng cao lớn che khuất ánh trăng, nhưng không thể ngăn được ngọn gió mát lạnh lùa qua khung cửa sổ.</p>
 
-<p class="para-en"><a id="page341"></a>“The devil in the pope’s robes…does he have a name?”</p>
+<p class="para-en">“The devil in the pope’s robes…does he have a name?”</p>
 
 <p class="para-vi-sub">“Tên ác ma khoác áo giáo hoàng ấy… hắn có tên không?”</p>
 

@@ -14,7 +14,7 @@ Bọn lính vượt qua họ gần thị trấn Nemours, ngay lúc những khu r
 
 “Ta phải ăn thứ gì đó chứ. Ta sắp phát điên vì cái sự đói khát khốn kiếp này rồi.”
 
-“<i>KHÔNG</i> được ăn con la,” cô bé nói, và điều đó đã chấm dứt câu chuyện.
+“KHÔNG được ăn con la,” cô bé nói, và điều đó đã chấm dứt câu chuyện.
 
 Bọn lính xuất hiện ngay sau đó, đúng vào lúc rạng sáng. Không dưới sáu hiệp sĩ và thêm khoảng hai mươi lính chiến tiến đến chỗ họ, tiếng móng ngựa làm rung chuyển cả con đường. Một giọng nói thét lên: “Tránh cái xe hàng đó ra,” vừa vặn cho họ chút ít thời gian để nép sang bên, làm cho cha Matthieu giật mình đến mức ông giật mạnh dây cương con la, khiến một bên bánh xe lệch khỏi mặt đường và tất cả bọn họ bị những cành cây thấp quất vào người. Một trong số các hiệp sĩ hô lên: “Hooo,” kìm ngựa lại cho đến khi dừng hẳn và buộc những người khác cũng phải dừng lại theo.
 
@@ -34,11 +34,11 @@ Thomas quằn quại vì hổ thẹn trước bộ giáp tồi tàn cùng chiế
 
 Gã đàn ông trừng mắt nhìn Thomas một lúc trong khi hắn cân nhắc xem lời của anh là một lời nói đùa hay một sự sỉ nhục. Cuối cùng hắn quyết định đó chỉ là một lời nói đùa.
 
-<i>“Ha!”</i> hắn phá lên cười. “Ngươi đang làm gì trên chiếc xe đó thế, hở bạn?”
+“Ha!” hắn phá lên cười. “Ngươi đang làm gì trên chiếc xe đó thế, hở bạn?”
 
 “Chúng tôi đang đến Đất Thánh để mang Thập Giá Thật trở về.”
 
-<i>“Ha!</i> Đúng là một gã hay đùa cợt. Gã có thể làm cuộc hành trình của chúng ta bớt nhàm chán với mấy trò tiêu khiển nếu gã chịu đi cùng chúng ta đấy.”
+“Ha! Đúng là một gã hay đùa cợt. Gã có thể làm cuộc hành trình của chúng ta bớt nhàm chán với mấy trò tiêu khiển nếu gã chịu đi cùng chúng ta đấy.”
 
 “Mặc kệ hắn đi,” một hiệp sĩ trẻ tuổi có mái tóc vàng óng lên tiếng. “Anh không thấy hắn đã sa cơ lỡ vận rồi sao? Tên này chẳng qua chỉ là một tên cướp.”
 
@@ -80,25 +80,25 @@ Tên hiệp sĩ rướn người lại gần, đảo mắt nhìn vị linh mục
 
 “Cứ đi đường các người đi,” Thomas lạnh lùng nói, “còn ta sẽ đi đường của ta.”
 
-<i>Mũi tên hiệp sĩ vừa nhăn lại giống như mũi sư tử phải không?</i>
+Mũi tên hiệp sĩ vừa nhăn lại giống như mũi sư tử phải không?
 
 Áo giáp khoác ngoài của gã giờ đã khác; phía sau hình chữ V, một con sư tử đứng bằng hai chân sau đang xé xác một ông già trong đấu trường.
 
-<i>Những con khỉ đang ăn thịt một con ngựa mắt trợn trừng.</i>
+Những con khỉ đang ăn thịt một con ngựa mắt trợn trừng.
 
-<i>Cái lưng đầy nốt ruồi của người phụ nữ đã chết dưới hố sâu.</i>
+Cái lưng đầy nốt ruồi của người phụ nữ đã chết dưới hố sâu.
 
 “Con nhỏ đó là ai vậy?” tên hiệp sĩ cất lời hỏi.
 
 “Chỉ là một đứa trẻ mồ côi thôi.”
 
-“Nó <i>thực sự</i> là ai?”
+“Nó thực sự là ai?”
 
 “Hỏi mẹ ngươi ấy.”
 
 “Ha.”
 
-Bàn tay Thomas lại lướt tìm cán kiếm, và một lần nữa Delphine lại gạt tay anh ra, thì thầm trong miệng: <i>“Đó là điều chúng muốn. Bọn chúng chỉ là những cái bóng, nhưng sự giận dữ của chú đang tiếp thêm sức mạnh cho chúng đấy. Hãy vứt bỏ nó đi.”</i>
+Bàn tay Thomas lại lướt tìm cán kiếm, và một lần nữa Delphine lại gạt tay anh ra, thì thầm trong miệng: “Đó là điều chúng muốn. Bọn chúng chỉ là những cái bóng, nhưng sự giận dữ của chú đang tiếp thêm sức mạnh cho chúng đấy. Hãy vứt bỏ nó đi.”
 
 “Ha,” Thomas thốt lên. Sau đó, anh tưởng tượng mũi của tên hiệp sĩ chính là cái đuôi của một con ngựa. Anh hình dung nó đang nhấc lên và một đống phân ngựa rơi ra từ miệng tên hiệp sĩ. Tiếng cười thách thức “Ha” của anh biến thành một tiếng cười thực sự, và anh thả lỏng để mặc mình cười sảng khoái.
 
@@ -200,4 +200,4 @@ Khu rừng lại trở nên rậm rạp, và dưới những cành cây của m�
 
 Vị linh mục run rẩy và làm dấu thánh giá.
 
-<span class="caps">KẺ HIẾP DÂM</span>
+KẺ HIẾP DÂM

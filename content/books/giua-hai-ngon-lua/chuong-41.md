@@ -1,10 +1,10 @@
 *Phần IV*
 
-# Chương Ba Mươi Bảy: Về cuộc viếng thămtại Villeneuve
+# Chương Ba Mươi Bảy: Về cuộc viếng thăm tại Villeneuve
 
 Robert Hanicotte trải qua đêm trước ngày thăng chức trong trạng thái sung sướng, chỉ bị pha loãng đôi chút bởi ký ức về những gì bản thân đã nhìn thấy ngoài vườn nho. Anh ăn thịt gia cầm cùng xúc xích, thậm chí còn uống cả loại rượu vang ngọt ngào vì được thu hoạch muộn, thoảng chút hương vị của thứ
 
-<i>bàn chân chết chóc bàn chân tử thi</i>
+bàn chân chết chóc bàn chân tử thi
 
 gì đó khác. Thứ khác ấy dễ dàng bị quên lãng, dẫu nó cứ chực trồi lên và đòi hỏi Robert phải cố tình phớt lờ. Cuộc đời này đòi hỏi con người ta phải thỏa hiệp với những sự thật hiển nhiên biết bao, chẳng hạn, ta không thể để nỗi thống khổ của những người phụ nữ trong bếp làm hỏng vị ngon của món thịt gà tơ. Những người phụ nữ đó cũng chẳng bận tâm đến việc con chuột đang gặm nhấm khúc xúc xích mùa hè; cứ cắt khúc đầu vứt đi rồi dọn phần còn lại lên là xong.
 
@@ -12,9 +12,9 @@ Lặng thầm.
 
 Bây giờ, Robert không còn biết bản thân đã nhìn thấy gì ở Châteauneuf-du-Pape nữa, nhưng điều đó chẳng đáng để suy nghĩ thêm. Anh đã làm đúng khi cảnh báo Đức Giáo Hoàng về ả phù thủy nhỏ.
 
-<i>sự lương thiện tỏa ra từ cô bé con bé nhân hậu giống hệt Matthieu linh mục của ngươi ngươi đã phản bội một con chiên trong đoàn tu sĩ của huynh trưởng mình</i>
+sự lương thiện tỏa ra từ cô bé con bé nhân hậu giống hệt Matthieu linh mục của ngươi ngươi đã phản bội một con chiên trong đoàn tu sĩ của huynh trưởng mình
 
-<i>ta không biết con bé là thiện hay ác ta chẳng thể nào biết được điều đó</i>
+ta không biết con bé là thiện hay ác ta chẳng thể nào biết được điều đó
 
 Một suy nghĩ khác mà Robert phải dằn xuống từng hồi chính là việc bản thân hoàn toàn không đủ phẩm chất để giữ chức vụ giáo hội cao cấp. Ồ, anh từng là linh mục trong một khoảng thời gian ngắn; Đức Giáo Hoàng rất thích thảo luận các vấn đề kinh thánh trước khi đi ngủ, thế nên ngài thích tìm kiếm những người hầu phòng xuất thân từ các tu viện và hàng giáo sĩ bậc thấp. Vẻ ngoài khôi ngô của Robert khơi gợi sự ấm áp và thân mật tức thì ngay cả ở những kẻ vốn không có thói ái nam ái nữ, và những năm tháng sống dưới ách cai trị của người cha bạo ngược đã mài giũa phong thái ôn hòa, dễ chịu của anh. Vị giám mục của Robert đã cử vị linh mục non tay ấy về phương nam với ý định dâng hiến cho Clement. Giờ đây, khoảng thời gian kể từ ngày đèn sách đã quá lâu khiến anh cảm thấy kinh hãi trước lá thư đầu tiên mà bản thân có thể được yêu cầu soạn thảo, hoặc tệ hơn là bài luận bằng tiếng Latinh đầu tiên mà anh được kỳ vọng sẽ trình bày.
 
@@ -22,11 +22,11 @@ Robert suýt chìm trong tuyệt vọng nếu không có tấm gương của Pie
 
 Anh rời khỏi chiếc nệm rơm đã trải sẵn trong phòng làm việc, anh sẽ không bao giờ ngủ chung giường với kẻ có tật ngủ ngáy nũng nịu ấy nữa, rồi bước xuống chiếc cầu thang xoắn ốc đi ra khu vườn. Anh đã cãi nhau với vị hồng y sau khi khách ra về, làm cho lão ta hiểu rõ rằng những hành vi suy đồi tiếp theo giữa hai người sẽ không phù hợp với chức vụ mới của anh. Lão già muốn tống cổ Robert ra đường, và suýt nữa đã làm vậy nếu không vì sợ làm phật ý Đức Giáo Hoàng Clement, kẻ đã có những bước đi vội vã nhằm nâng đỡ anh.
 
-<i>Đức Thánh Cha yêu thương ta</i>
+Đức Thánh Cha yêu thương ta
 
-<i>Đó không phải là ngài và ngươi thừa biết điều đó</i>
+Đó không phải là ngài và ngươi thừa biết điều đó
 
-<i>Ta không biết và ta cũng chẳng thèm quan tâm</i>
+Ta không biết và ta cũng chẳng thèm quan tâm
 
 Robert nghe thấy tiếng một con ngựa Ả Rập hí lên và tự hỏi liệu đó có phải là Guêpe hay không; anh muốn đến xem thử, nhưng nhỡ ả phù thủy nhỏ lại xuất hiện ở đó thì sao, chờ để quở trách anh (là nhẹ nhất) và biết đâu lại làm cho nam tính của anh khô héo đi bằng vài thứ bùa chú?
 
@@ -106,7 +106,7 @@ Bây giờ anh bước vào trong nhà, đi đến khu vực soạn đồ gần 
 
 Anh nghe tiếng ván sàn kẽo kẹt, nhưng không phát ra từ cầu thang; nó phát ra từ phòng ngủ của Đức Hồng Y.
 
-Anh cố nghĩ xem mình có thể đi đâu khác và lại căm ghét sự hèn nhát của chính mình; anh có thể đến căn hộ của tay huấn luyện chim ưng, nhưng anh sẽ nói gì đây? <i>Robert nghĩ có kẻ vừa đột nhập vào nhà, nhưng Robert quyết định bỏ rơi Đức Hồng Y để tự cứu lấy thân mình sao?</i>
+Anh cố nghĩ xem mình có thể đi đâu khác và lại căm ghét sự hèn nhát của chính mình; anh có thể đến căn hộ của tay huấn luyện chim ưng, nhưng anh sẽ nói gì đây? Robert nghĩ có kẻ vừa đột nhập vào nhà, nhưng Robert quyết định bỏ rơi Đức Hồng Y để tự cứu lấy thân mình sao?
 
 Chẳng còn cách nào khác ngoài việc đến đó tận mắt chứng kiến.
 

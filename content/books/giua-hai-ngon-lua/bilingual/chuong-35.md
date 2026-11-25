@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Mốt: Về bữa tiệcvà cuộc săn hươu
+# Chương Ba Mươi Mốt: Về bữa tiệc và cuộc săn hươu
 
 <p class="para-en">The page of the Comte d’Évreux had turned so pale that the Valois Duc sitting to their right asked if the young man was well.</p>
 
@@ -18,7 +18,7 @@
 
 <p class="para-vi-sub">D’Évreux đáp: “Chúng tôi thật không xứng đáng với lòng tốt nhường ấy, thưa đại nhân,” đồng thời nhận ngay một cú vỗ mạnh đến điếng người vào bả vai từ vị lãnh chúa lớn tuổi trước khi cả hai cùng ngước lên nhìn bữa tiệc đang được dọn ra từ khu vực chuẩn bị món ăn.</p>
 
-<p class="para-en">It seemed that every creature that flew, swam, or walked had found its way to the trestle tables in the Grand Tinel. Swans with their necks twisted together as if in love floated amid armadas of game hens and quail, sails of swan, dove and peacock feathers jutting above them; these fleets cut through blue-plated “waters” of crabs and prawns and <a id="page328"></a>every imaginable fish, repeated every two yards so that each diner might reach his preferred dish. Before the diners ate, however, the steward walked both lengths of trestles, inclining over each plate a strange little coral tree hung with shark’s teeth and the horns of narwhal; the pendants were said to shiver in the presence of poison. They did not shiver. The pope rang a small bell calling for the meal to start, and conversation died in the room as the sounds of eating rose up.</p>
+<p class="para-en">It seemed that every creature that flew, swam, or walked had found its way to the trestle tables in the Grand Tinel. Swans with their necks twisted together as if in love floated amid armadas of game hens and quail, sails of swan, dove and peacock feathers jutting above them; these fleets cut through blue-plated “waters” of crabs and prawns and every imaginable fish, repeated every two yards so that each diner might reach his preferred dish. Before the diners ate, however, the steward walked both lengths of trestles, inclining over each plate a strange little coral tree hung with shark’s teeth and the horns of narwhal; the pendants were said to shiver in the presence of poison. They did not shiver. The pope rang a small bell calling for the meal to start, and conversation died in the room as the sounds of eating rose up.</p>
 
 <p class="para-vi-sub">Có cảm giác như mọi sinh vật biết bay, biết bơi hoặc biết đi đều đã hội tụ trên những chiếc bàn dài ở Đại sảnh Grand Tinel. Những con thiên nga với cổ quấn xoắn vào nhau như đang đắm chìm trong tình yêu lơ lửng giữa vô số gà lôi và chim cút, với những chiếc cánh bằng lông thiên nga, chim bồ câu và chim công dựng đứng lên phía trên; những hạm đội này lướt qua một “vùng nước” xanh lam làm bằng vỏ cua, tôm và mọi loại cá có thể tưởng tượng được, cứ mỗi hai thước lại lặp lại một lần để bất kỳ thực khách nào cũng có thể với tới món ăn ưa thích của mình. Tuy nhiên, trước khi thực khách dùng bữa, vị quản gia đã đi dọc theo hai dãy bàn dài, nghiêng trên mỗi đĩa ăn một nhành san hô nhỏ kỳ lạ được treo đầy răng cá mập và sừng kỳ lân biển; người ta đồn rằng những chiếc mặt dây chuyền này sẽ rung lên khi có sự hiện diện của độc dược. Chúng chẳng hề rung lên chút nào. Giáo hoàng rung một chiếc chuông nhỏ ra hiệu bắt đầu bữa ăn, và tiếng trò chuyện trong phòng liền lắng xuống nhường chỗ cho âm thanh ăn uống vang lên.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-vi-sub">Thomas vừa kịp lau một giọt rượu trên khóe môi thì thấy một nghệ sĩ chơi đàn vi-ô-lông, người được giới thiệu là giỏi nhất xứ Aragon, sải bước ra giữa sảnh đường ngay khi vừa dứt tiếng chỉnh dây. Hắn bắt đầu chơi, lấp đầy căn phòng bằng những giai điệu buồn bã, kỳ lạ cùng các nốt biến tấu phức tạp. Thomas quen thuộc với khúc nhạc đó, cũng như quen thuộc với chính con người kia. Đó chính xác là khúc nhạc từ lâu đài trong đêm hội võ nghệ. Giống như trong bữa tiệc dạo trước, người đàn ông ấy đi từ vị khách này sang vị khách khác, và Thomas cảm thấy dạ dày mình lạnh toát trước viễn cảnh bị nhận ra.</p>
 
-<p class="para-en">The musician did look Thomas directly in the face, but no longer <a id="page329"></a>than he had at the Valois Duc; he must have seen only the smug, youthful face of the Comte d’Évreux. When the man passed, his hips rolling with the music he bowed out of the viol, Thomas breathed out in relief and drained his goblet.</p>
+<p class="para-en">The musician did look Thomas directly in the face, but no longer than he had at the Valois Duc; he must have seen only the smug, youthful face of the Comte d’Évreux. When the man passed, his hips rolling with the music he bowed out of the viol, Thomas breathed out in relief and drained his goblet.</p>
 
 <p class="para-vi-sub">Người nhạc sĩ thực sự đã nhìn thẳng vào mặt Thomas, nhưng thời gian còn ngắn hơn cả lúc hắn nhìn vị công tước nhà Valois; hẳn hắn chỉ nhìn thấy khuôn mặt kiêu kỳ, trẻ trung của d’Évreux mà thôi. Khi người đó bước qua, với phần hông uyển chuyển theo nhịp điệu phát ra từ cây đàn vi-ô-lông, Thomas mới thở phào nhẹ nhõm và cạn sạch cốc rượu của mình.</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-vi-sub">“Bây giờ, hãy để những khu rừng ở Provence mọc lên dưới các vì sao, và hãy để những bằng hữu của Chúa được nếm trước những niềm vui đang chờ đợi họ ở vương quốc mà họ đã nhọc công phụng sự.”</p>
 
-<p class="para-en">Servants wheeled out a number of trees whose leaves had been replaced with very thin, masterfully worked leaves of gold; golden and silver <a id="page330"></a>fruits and other precious objects winked in their midst. Now tapestried couches were rolled out and placed in nooks of the golden forest such that they were partly or fully hidden.</p>
+<p class="para-en">Servants wheeled out a number of trees whose leaves had been replaced with very thin, masterfully worked leaves of gold; golden and silver fruits and other precious objects winked in their midst. Now tapestried couches were rolled out and placed in nooks of the golden forest such that they were partly or fully hidden.</p>
 
 <p class="para-vi-sub">Đám gia nhân đẩy ra một số cái cây có phần lá đã được thay thế bằng những chiếc lá vàng rất mỏng, được chế tác vô cùng tinh xảo; những quả bằng vàng, bằng bạc cùng các vật quý giá khác lấp lánh giữa những tán lá ấy. Lúc này, những chiếc ghế bọc thảm lộng lẫy được đẩy ra và đặt vào các hốc của khu rừng vàng sao cho chúng bị che khuất một phần hoặc hoàn toàn.</p>
 
@@ -166,7 +166,7 @@
 
 <p class="para-vi-sub">Một làn hương nước hoa nồng nặc xộc vào mũi Thomas, những mùi hương phương Đông mà gã không thể gọi tên như bạch đậu khấu, gỗ đàn hương và hoắc hương, nhưng chúng lại mang đến cho gã sự dễ chịu và kích thích.</p>
 
-<p class="para-en"><a id="page331"></a>He began to stiffen against his silk and woolen tights, pushing at the bottom of his red cotehardie. The stag noticed and lined herself up to grind the center of her on that. She was very good at it. Had he been nude, he would have entered her; the tip of his <em>verge</em> had nearly entered her even through the cloth.</p>
+<p class="para-en">He began to stiffen against his silk and woolen tights, pushing at the bottom of his red cotehardie. The stag noticed and lined herself up to grind the center of her on that. She was very good at it. Had he been nude, he would have entered her; the tip of his verge had nearly entered her even through the cloth.</p>
 
 <p class="para-vi-sub">Thomas bắt đầu căng cứng lên bên trong lớp vải lụa và vải len, thúc vào phần vạt dưới của chiếc áo khoác ngắn màu đỏ. Con hươu nhận ra điều đó và ép sát người lại để cọ xát phần hạ bộ của ả vào chỗ đó của gã. Ả ta làm việc đó rất cừ. Giá mà Thomas khỏa thân, gã đã có thể đâm ngập vào người ả; phần đầu vật nam tính của gã suýt chút nữa đã chạm sâu vào trong ả ngay cả qua lớp vải vóc.</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-vi-sub">Thomas quay lưng lại và dùng thân mình che chắn cho cô bé khỏi tầm mắt của người khác.</p>
 
-<p class="para-en"><a id="page332"></a>“You didn’t touch any of those deer, did you?” she said.</p>
+<p class="para-en">“You didn’t touch any of those deer, did you?” she said.</p>
 
 <p class="para-vi-sub">Cô bé cất lời: “Chú không chạm vào bất kỳ con hươu nào trong số đó chứ?”</p>
 

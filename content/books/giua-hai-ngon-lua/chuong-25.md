@@ -2,7 +2,7 @@
 
 # Chương Hai Mươi Hai: Về Những Kẻ Đánh Cá Người
 
-<span class="drop-2">“T</span>ôi đã bảo cha đi ngủ cơ mà,” Thomas thì thầm với vị linh mục.
+“Tôi đã bảo cha đi ngủ cơ mà,” Thomas thì thầm với vị linh mục.
 
 Họ đứng ở phần đầu của chiếc bè, nhìn mặt trời cam béo tròn đang chìm dần về phía bên phải.
 
@@ -20,7 +20,7 @@ Họ đứng ở phần đầu của chiếc bè, nhìn mặt trời cam béo tr
 
 Cả hai người đàn ông quay lại nhìn những kẻ đang cầm bánh lái, những người đang đẩy qua đẩy lại bằng đôi tay nâu vạm vỡ để tăng thêm chút tốc độ. Người trẻ hơn trong hai kẻ đó bị cụt một tai.
 
-<i>Một tên trộm.</i>
+Một tên trộm.
 
 Gã thuyền trưởng ngồi trên đỉnh cabin, ăn cá trích muối và uống bia từ một cái túi da dê. Gã là một kẻ gầy gò, không đáng tin nhưng cực kỳ thông minh với đôi mắt lác cách biệt rõ rệt nhất mà Thomas từng thấy. Trong lúc thương lượng cái giá cắt cổ cho chuyến vượt sông với những kẻ đi sông này — rõ ràng bọn chúng giống cướp hơn là phu lái bè — thật khó để nhận ra gã thuyền trưởng đang đặt ánh mắt ở đâu. Gã chắc chắn đã tận dụng lợi thế này trong kinh doanh cũng như chiến tranh, mặc dù gã rõ ràng không bằng một nửa chiến binh như gã phó thuyền của mình.
 
@@ -276,7 +276,7 @@ Tay chèo trẻ tuổi, cũng đang choáng váng, lắc đầu lấy lại tỉ
 
 “Bỏ kiếm xuống nếu không tao rạch cổ nó!” tay chèo nói.
 
-“Đừng giết họ, <i>làm ơn</i>!” Delphine hét lên, cứ như thể bản thân không phải là người đang đứng kề cận cái chết nhất. Hai tay cô bé đặt lên cánh tay đang cầm dao của gã đàn ông, nhưng chúng chẳng có chút tác dụng nào khác gì móng vuốt của một con mèo.
+“Đừng giết họ, làm ơn!” Delphine hét lên, cứ như thể bản thân không phải là người đang đứng kề cận cái chết nhất. Hai tay cô bé đặt lên cánh tay đang cầm dao của gã đàn ông, nhưng chúng chẳng có chút tác dụng nào khác gì móng vuốt của một con mèo.
 
 Rồi cô bé nhắm nghiền mắt lại vì cảm thấy bắp tay của tay chèo đang căng cứng và biết rằng hắn chuẩn bị cắt cổ mình.
 
@@ -284,7 +284,7 @@ Ngoại trừ việc hắn đã không làm thế.
 
 Guillaume vạm vỡ, chớp chớp đôi mắt dính đầy máu, đã bò tới và giờ đang giữ chặt hai tay tên chèo thuyền từ bên ngoài, kéo chúng ra xa với sức mạnh chậm rãi và không thể cưỡng lại như một con sao biển đang cạy vỏ một con nghêu, bám chặt hết sức có thể với hy vọng đôi tay trơn tuột vì máu vẫn giữ được độ bám; nếu sảy tay, con dao của gã kia suýt chút nữa đã cắt đứt cổ cô bé.
 
-<i>“Đừng mà!”</i> Delphine lại hét lên, hướng về phía Thomas, người đang lao về phía tên thuyền trưởng, né những cú vung giáo theo chiều ngang nhưng không thể áp sát vì gã di chuyển vòng tròn quá nhanh.
+“Đừng mà!” Delphine lại hét lên, hướng về phía Thomas, người đang lao về phía tên thuyền trưởng, né những cú vung giáo theo chiều ngang nhưng không thể áp sát vì gã di chuyển vòng tròn quá nhanh.
 
 Guillaume lúc này đã giữ hai tay tên chèo thuyền dang rộng, và cha Matthieu đập thẳng cái bát gỗ vào mặt hắn mạnh đến mức làm nó vỡ vụn; tên chèo thuyền đánh rơi con dao. Guillaume buông tay hắn ra, rồi hất ngã hắn xuống mạn thuyền, ngất lịm đi ngay trên mạn bè với một cánh tay buông thõng trong làn nước lạnh.
 
@@ -322,7 +322,7 @@ Tên thuyền trưởng ngã ngửa ra sau, đầu ngả hẳn ra và phần c�
 
 “Cháu thì chưa,” em nói, và nhìn chằm chằm xuống mặt nước. Thomas đẩy cái xác mềm oặt của tên thuyền trưởng khỏi chiếc bè, và nó chìm nghỉm như thể bị ai đó kéo xuống.
 
-<i>Đúng là một lũ khốn!</i>
+Đúng là một lũ khốn!
 
 Chiếc bè trôi dạt sang một bên rồi chìm vào bóng tối.
 

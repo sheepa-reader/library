@@ -6,11 +6,11 @@ Paris hiện ra lần đầu bằng một cột khói cuồn cuộn bốc lên t
 
 Tất cả những gì đang cháy chỉ là một cánh đồng lúa mì, và ngọn lửa cũng đang dần lụi tàn, tự tắt ngấm dọc theo bờ sông Seine. Vài ngôi nhà đã biến thành những bộ khung đen thui, cùng với hai con bò. Một con bê cất tiếng kêu nghé ọ từ một gò đất, gần như bị che khuất sau bức màn khói trắng bao quanh; ngọn lửa sẽ tha mạng cho con thú này. Tuy nhiên, tám bóng người rách rưới xung quanh nó thì không. Chúng đã bắt đầu thử dò dẫm trên lớp đất còn đang bốc khói xem liệu nó có làm cháy xuyên qua những thứ giẻ rách và giày dép rách nát dưới chân chúng hay không. Chúng đã bắt đầu xách rìu và dao găm lên. Trông chúng chẳng giống nông dân chút nào. Thomas đảo mắt nhìn cánh đồng và thấy một đôi chân nhô ra từ một đám lúa mì chưa bị cháy. Vậy là có án mạng. Thomas bỗng chắc chắn rằng chính những kẻ này đã phóng hỏa. Lẽ ra anh nên chờ đợi và quan sát lâu hơn trước khi đến gần; nhưng giờ thì đã quá muộn. Vài kẻ sát nhân liếc nhìn chiếc xe kéo khi nó đi qua, nhưng chẳng có gì trên xe có thể thu hút sự chú ý của chúng bằng con bê cả. Một trong số chúng nhìn Thomas, và anh đón nhận ánh mắt của tên đó, không phải để đe dọa, mà để cho hắn biết rằng anh sẽ chiến đấu nếu buộc phải làm vậy. Tên cướp nhanh chóng đánh giá rằng bọn chúng có thể cướp chiếc xe, nhưng sẽ phải trả giá đắt. Hắn quay lại nhìn lên gò đất. Giờ đây, Thomas hạ mắt xuống trong nỗi hổ thẹn khi nhớ rằng, nếu mọi chuyện diễn ra theo một hướng khác, rất có thể anh cũng đang đứng trong nhóm người đó, cùng với Godefroy và Jacquot, chờ đợi để xẻ thịt con bê của người đã khuất.
 
-<i>Ta đã nhìn thấy nó.</i>
+Ta đã nhìn thấy nó.
 
-<i>Cái gì cơ?</i>
+Cái gì cơ?
 
-<i>Linh hồn của ngươi.</i>
+Linh hồn của ngươi.
 
 Thomas nhớ lại mùa đông cuối cùng ở cùng Godefroy, khi băng nhóm của gã là những kẻ cướp đáng sợ nhất ở Thượng Normandy. Vào những tháng thời tiết khá hơn, chúng chỉ hạn chế ở việc cướp bóc thương nhân, đặc biệt là trên các con đường dẫn về phía nam và phía đông hướng tới các hội chợ Champagne, kéo theo những chiếc xe chở đầy thực phẩm và len ở chiều đi, cùng vàng và gia vị ở chiều về. Tuy nhiên, tháng Mười hai đã đến, mang theo những trận mưa và mưa đá trong nắm đấm cùng cái lạnh tê tái đến tận chân. Lương thực trở nên khan hiếm và tiếng tăm của chúng lúc này lại phản tác dụng đối với chúng; những thương nhân nào đi lại vào thời điểm đó đều mang theo vũ khí. Các ngôi làng cắt cử người canh gác và giấu lúa mì trong các hang động, đằng sau những cánh cửa ngầm tinh vi cùng các hố cất giấu trên cánh đồng. Những đồng xu ít ỏi cùng các vật dụng nhỏ nhặt khác của họ đều được ném xuống giếng hoặc giấu trong những chiếc rương chôn dưới lớp rơm rạ. Bản thân họ cũng trốn kỹ, bởi họ thừa biết Godefroy, kẻ mà họ gọi là “con mèo đen”, sẽ không từ bất kỳ thủ đoạn nào, kể cả tra tấn, để khai ra nơi họ giấu những món tài sản nghèo nàn của họ.
 
@@ -44,9 +44,9 @@ Thông thường, vài tên trong bọn sẽ nhạo báng lại, nhưng những 
 
 Chưa đầy sáu tháng sau, Đại Diệt Vong ập đến, cướp đi sinh mạng của hầu hết bọn trộm cướp.
 
-<i>Và cả những người khác nữa.</i>
+Và cả những người khác nữa.
 
-<i>Chẳng còn gì quan trọng trên đời này nữa.</i>
+Chẳng còn gì quan trọng trên đời này nữa.
 
 Thomas xua đi những bóng ma quá khứ và dời ánh nhìn về phía Paris. Những bức tường thành mang sắc trắng ngả vàng nhợt nhạt của xương cốt, các pháo đài sừng sững kiêu hãnh, mỗi tháp canh cách nhau chừng một tầm tên bắn uể oải. Anh có thể nhận ra nơi hẳn là điện Louvre, pháo đài của nhà vua, kiên cố và trắng muốt, được tạc từ cùng một loại đá với tường thành. Những ngọn tháp nhà thờ chọc thủng bầu trời, mái nhà của các cửa hiệu và nhà cửa tựa sát vào nhau. Ngay cả khi đã chết, nếu quả thực thành phố này đã chết, Paris vẫn tạo nên một thây ma kiều diễm.
 
@@ -78,7 +78,7 @@ Họ sẽ phải băng qua tầm sát thương ấy.
 
 “Bọn tao không bắn linh mục,” một kẻ trong số đó đáp.
 
-“À thì, <i>hắn</i> thì không,” kẻ kia tiếp lời.
+“À thì, hắn thì không,” kẻ kia tiếp lời.
 
 “Này, cha xứ! Hãy dang tay vẽ một vòng tròn đi! Một vòng tròn thật lớn vào!”
 
@@ -168,7 +168,7 @@ Cô bé tưởng như ngửi thấy mùi tỏi bay ra từ ngôi nhà.
 
 Tia nắng cuối cùng tuột khỏi bàn chân người phụ nữ và giờ đang lóe lên trên chiếc thìa bạc dắt ở thắt lưng.
 
-“Mười đồng denier<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn9">[9]</a>.”
+“Mười đồng denier[9].”
 
 “Hả! Đúng là một tay linh mục nhà quê,” ả bảo gã thanh niên, kẻ có bộ móng tay chẳng sạch hơn chút nào dù cứ cạo mãi bằng con dao. “Lần đầu tiên đến thành phố lớn phải không, hử?”
 
@@ -254,13 +254,13 @@ Gã đá văng cánh cửa bước vào trong nhà, nơi một phụ nữ trẻ 
 
 Một người đàn ông gầy guộc với cái bụng phình to kỳ dị từ trên lầu bước xuống, lăm lăm thanh gươm trên tay, nhưng rồi anh ta cũng khựng lại chết trân.
 
-<i>Cướp sạch chúng nó đi! Bắt chúng giao hết những gì có trong tay!</i>
+Cướp sạch chúng nó đi! Bắt chúng giao hết những gì có trong tay!
 
 Thomas giật mình lắc đầu xua đi giọng nói độc ác ấy.
 
 Người đàn ông trên cầu thang khua kiếm về phía Thomas, nhưng vì quá sợ hãi nên anh ta vẫn giữ khoảng cách an toàn, chẳng dám tiến lên đánh hay chịu đòn.
 
-“Cút ra!” gã cầm dao chặt thịt quát, khuôn mặt tái mét. “Cút <i>ngay</i>!” người mẹ thét lên, vẫn ôm chặt đứa con đang khóc thét. Người phụ nữ đứng cạnh nồi cháo liền hắt cả vá cháo nóng bỏng, đầy váng mỡ vào người gã.
+“Cút ra!” gã cầm dao chặt thịt quát, khuôn mặt tái mét. “Cút ngay!” người mẹ thét lên, vẫn ôm chặt đứa con đang khóc thét. Người phụ nữ đứng cạnh nồi cháo liền hắt cả vá cháo nóng bỏng, đầy váng mỡ vào người gã.
 
 Thomas nhận ra trong ánh mắt của người cha trẻ rằng anh ta đang cố lấy hết can đảm để vung một nhát dao thật lực vào người mình, và nếu chuyện đó xảy ra thì máu sẽ đổ. Rất nhiều máu.
 
@@ -310,25 +310,25 @@ Vị thiên thần vẫn nài nỉ cô bé hát.
 
 Cô bé cất giọng hát.
 
-<i>Này chim cổ đỏ nhỏ xinh, hây-hô</i>
+Này chim cổ đỏ nhỏ xinh, hây-hô
 
-<i>Có cất lời ca vì ta, hây-hô?</i>
+Có cất lời ca vì ta, hây-hô?
 
-<i>Trong bộ xiêm y Phục Sinh</i>
+Trong bộ xiêm y Phục Sinh
 
-<i>Cùng chiếc ngực hồng xinh xinh,</i>
+Cùng chiếc ngực hồng xinh xinh,
 
-<i>Có cất lời ca vì ta, hây-hô?</i>
+Có cất lời ca vì ta, hây-hô?
 
-<i>Này chim cổ đỏ hát vang, hây-hò</i>
+Này chim cổ đỏ hát vang, hây-hò
 
-<i>Có bay về tổ ngập tràn, hây-hò?</i>
+Có bay về tổ ngập tràn, hây-hò?
 
-<i>Về mái nhà bằng cành cây</i>
+Về mái nhà bằng cành cây
 
-<i>Cùng mấy đứa con thơ ngây,</i>
+Cùng mấy đứa con thơ ngây,
 
-<i>Có bay về tổ ngập tràn, hây-hò?</i>
+Có bay về tổ ngập tràn, hây-hò?
 
 “Này người ở dưới kia!” một người đàn ông cất giọng từ cửa sổ tầng hai. “Ta biết bài hát đó. Các người là người vùng Normandy à?”
 
@@ -416,7 +416,7 @@ Chai rượu chẳng mấy chốc đã cạn khô, và những tàn lửa trong 
 
 Vị linh mục và Thomas đưa mắt nhìn nhau, cả hai cùng đang nghĩ đến một điều.
 
-<i>Con bé đã về nhà. Đây chính là mái nhà của con bé từ nay về sau.</i>
+Con bé đã về nhà. Đây chính là mái nhà của con bé từ nay về sau.
 
 Khi những người đàn ông đã yên vị trên mặt đất nện chặt đầy đất cát, Jehan hạ giọng thì thầm với họ.
 

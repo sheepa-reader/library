@@ -1,14 +1,14 @@
 *Phần IV*
 
-# Chương Ba Mươi Bảy: Về cuộc viếng thămtại Villeneuve
+# Chương Ba Mươi Bảy: Về cuộc viếng thăm tại Villeneuve
 
 <p class="para-en">Robert Hanicotte spent the night before his elevation in a state of bliss only mildly tempered by the memory of the things he had seen in the vineyard. He ate the game fowl and sausages and even drank the wine, sweet from its late harvest, and with just a hint of something</p>
 
 <p class="para-vi-sub">Robert Hanicotte trải qua đêm trước ngày thăng chức trong trạng thái sung sướng, chỉ bị pha loãng đôi chút bởi ký ức về những gì bản thân đã nhìn thấy ngoài vườn nho. Anh ăn thịt gia cầm cùng xúc xích, thậm chí còn uống cả loại rượu vang ngọt ngào vì được thu hoạch muộn, thoảng chút hương vị của thứ</p>
 
-<p class="para-en"><em>dead feet corpses’ feet</em></p>
+<p class="para-en">dead feet corpses’ feet</p>
 
-<p class="para-vi-sub"><i>bàn chân chết chóc bàn chân tử thi</i></p>
+<p class="para-vi-sub">bàn chân chết chóc bàn chân tử thi</p>
 
 <p class="para-en">else. The something else was easily forgotten, though it tended to bob back up again, requiring further attention at inattention. So much of life demanded a kind of truce with perceived facts—one could not allow the suffering of the kitchen women, for example, to spoil the taste of capon. Neither would those women trouble themselves about the gnawings of a rat at the summer sausage; just cut that end off and serve the rest.</p>
 
@@ -22,13 +22,13 @@
 
 <p class="para-vi-sub">Bây giờ, Robert không còn biết bản thân đã nhìn thấy gì ở Châteauneuf-du-Pape nữa, nhưng điều đó chẳng đáng để suy nghĩ thêm. Anh đã làm đúng khi cảnh báo Đức Giáo Hoàng về ả phù thủy nhỏ.</p>
 
-<p class="para-en"><a id="page368"></a><em>goodness came from her she was benevolent like Matthieu her priest you betrayed one of your brother’s flock</em></p>
+<p class="para-en">goodness came from her she was benevolent like Matthieu her priest you betrayed one of your brother’s flock</p>
 
-<p class="para-vi-sub"><i>sự lương thiện tỏa ra từ cô bé con bé nhân hậu giống hệt Matthieu linh mục của ngươi ngươi đã phản bội một con chiên trong đoàn tu sĩ của huynh trưởng mình</i></p>
+<p class="para-vi-sub">sự lương thiện tỏa ra từ cô bé con bé nhân hậu giống hệt Matthieu linh mục của ngươi ngươi đã phản bội một con chiên trong đoàn tu sĩ của huynh trưởng mình</p>
 
-<p class="para-en"><em>I don’t know if she was good or evil I can’t know that</em></p>
+<p class="para-en">I don’t know if she was good or evil I can’t know that</p>
 
-<p class="para-vi-sub"><i>ta không biết con bé là thiện hay ác ta chẳng thể nào biết được điều đó</i></p>
+<p class="para-vi-sub">ta không biết con bé là thiện hay ác ta chẳng thể nào biết được điều đó</p>
 
 <p class="para-en">Another thought that he had to step on from time to time was the knowledge that he was completely unfit for high ecclesiastic office. Oh, he had been a priest briefly; the pope liked to discuss biblical matters before bed, so it pleased him to seek cubiculars from among the monasteries and minor clergy. Robert’s good looks inspired even those not given to love men to a sort of instant warmth and familiarity, and his years under a tyrannical father had clarified his mild, pleasant manner. His bishop had sent the newly minted priest south with Clement in mind. Now so long had passed since his studies that he dreaded the first letter he might be asked to draft or, worse, the first Latin discourse he might be expected to give.</p>
 
@@ -42,19 +42,19 @@
 
 <p class="para-vi-sub">Anh rời khỏi chiếc nệm rơm đã trải sẵn trong phòng làm việc, anh sẽ không bao giờ ngủ chung giường với kẻ có tật ngủ ngáy nũng nịu ấy nữa, rồi bước xuống chiếc cầu thang xoắn ốc đi ra khu vườn. Anh đã cãi nhau với vị hồng y sau khi khách ra về, làm cho lão ta hiểu rõ rằng những hành vi suy đồi tiếp theo giữa hai người sẽ không phù hợp với chức vụ mới của anh. Lão già muốn tống cổ Robert ra đường, và suýt nữa đã làm vậy nếu không vì sợ làm phật ý Đức Giáo Hoàng Clement, kẻ đã có những bước đi vội vã nhằm nâng đỡ anh.</p>
 
-<p class="para-en"><em>The Holy Father loves me</em></p>
+<p class="para-en">The Holy Father loves me</p>
 
-<p class="para-vi-sub"><i>Đức Thánh Cha yêu thương ta</i></p>
+<p class="para-vi-sub">Đức Thánh Cha yêu thương ta</p>
 
-<p class="para-en"><em>That is not him and you know it</em></p>
+<p class="para-en">That is not him and you know it</p>
 
-<p class="para-vi-sub"><i>Đó không phải là ngài và ngươi thừa biết điều đó</i></p>
+<p class="para-vi-sub">Đó không phải là ngài và ngươi thừa biết điều đó</p>
 
-<p class="para-en"><em>I don’t know and I don’t care</em></p>
+<p class="para-en">I don’t know and I don’t care</p>
 
-<p class="para-vi-sub"><i>Ta không biết và ta cũng chẳng thèm quan tâm</i></p>
+<p class="para-vi-sub">Ta không biết và ta cũng chẳng thèm quan tâm</p>
 
-<p class="para-en">He heard one of the Arabs whinny and wondered if it was Guêpe; he wanted to go and see, but what if the little witch was there again, <a id="page369"></a>waiting to reprove him (at best) and perhaps to wither his manhood with some spell?</p>
+<p class="para-en">He heard one of the Arabs whinny and wondered if it was Guêpe; he wanted to go and see, but what if the little witch was there again, waiting to reprove him (at best) and perhaps to wither his manhood with some spell?</p>
 
 <p class="para-vi-sub">Robert nghe thấy tiếng một con ngựa Ả Rập hí lên và tự hỏi liệu đó có phải là Guêpe hay không; anh muốn đến xem thử, nhưng nhỡ ả phù thủy nhỏ lại xuất hiện ở đó thì sao, chờ để quở trách anh (là nhẹ nhất) và biết đâu lại làm cho nam tính của anh khô héo đi bằng vài thứ bùa chú?</p>
 
@@ -94,7 +94,7 @@
 
 <p class="para-vi-sub">“Robert,” cậu bé thì thầm, vẻ mặt đầy bấn loạn.</p>
 
-<p class="para-en">While Robert had not held up the wafer in more than ten years, <em>Père</em> was the best title the boy could hang on his master’s concubine.</p>
+<p class="para-en">While Robert had not held up the wafer in more than ten years, Père was the best title the boy could hang on his master’s concubine.</p>
 
 <p class="para-vi-sub">Dù Robert đã không còn dâng bánh thánh trong hơn mười năm qua, cậu bé vẫn quen gọi thẳng tên anh một cách dè dặt như thế.</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-vi-sub">Tâm trí Robert quay cuồng.</p>
 
-<p class="para-en"><a id="page370"></a>He remembered the squire whose duty it was to protect the cardinal.</p>
+<p class="para-en">He remembered the squire whose duty it was to protect the cardinal.</p>
 
 <p class="para-vi-sub">Anh nhớ đến tay cận vệ có nhiệm vụ bảo vệ vị hồng y.</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-vi-sub">Anh tìm thấy thanh kiếm cậu thiếu niên để lại rồi nhặt nó lên, cảm thấy thật nực cười. Anh còn chẳng biết cách cầm nó ra sao, nói gì đến chuyện vung lên chém người. Anh đành đặt nó xuống lại.</p>
 
-<p class="para-en"><a id="page371"></a>He walked into the house now, going to the dressing area near the kitchen hearth and taking up a carving knife. He clutched it to his chest and stood there, unsure what to do. He listened. Hearing nothing, he made for the stairs, taking them slowly, quietly.</p>
+<p class="para-en">He walked into the house now, going to the dressing area near the kitchen hearth and taking up a carving knife. He clutched it to his chest and stood there, unsure what to do. He listened. Hearing nothing, he made for the stairs, taking them slowly, quietly.</p>
 
 <p class="para-vi-sub">Bây giờ anh bước vào trong nhà, đi đến khu vực soạn đồ gần lò sưởi nhà bếp và vớ lấy một con dao lóc thịt. Anh ôm chặt nó trước ngực và đứng ngây ra ở đó, chẳng biết phải làm gì tiếp theo. Anh lắng nghe. Không nghe thấy động tĩnh gì, anh tiến về phía cầu thang, bước lên từng bậc thật chậm rãi, lặng lẽ.</p>
 
@@ -210,9 +210,9 @@
 
 <p class="para-vi-sub">Anh nghe tiếng ván sàn kẽo kẹt, nhưng không phát ra từ cầu thang; nó phát ra từ phòng ngủ của Đức Hồng Y.</p>
 
-<p class="para-en">He tried to think of where else he might go and hated his own cowardice; he could go the falconer’s apartment, but what would he say? <em>I think someone may have broken into the house, but I decided to leave the cardinal and save myself?</em></p>
+<p class="para-en">He tried to think of where else he might go and hated his own cowardice; he could go the falconer’s apartment, but what would he say? I think someone may have broken into the house, but I decided to leave the cardinal and save myself?</p>
 
-<p class="para-vi-sub">Anh cố nghĩ xem mình có thể đi đâu khác và lại căm ghét sự hèn nhát của chính mình; anh có thể đến căn hộ của tay huấn luyện chim ưng, nhưng anh sẽ nói gì đây? <i>Robert nghĩ có kẻ vừa đột nhập vào nhà, nhưng Robert quyết định bỏ rơi Đức Hồng Y để tự cứu lấy thân mình sao?</i></p>
+<p class="para-vi-sub">Anh cố nghĩ xem mình có thể đi đâu khác và lại căm ghét sự hèn nhát của chính mình; anh có thể đến căn hộ của tay huấn luyện chim ưng, nhưng anh sẽ nói gì đây? Robert nghĩ có kẻ vừa đột nhập vào nhà, nhưng Robert quyết định bỏ rơi Đức Hồng Y để tự cứu lấy thân mình sao?</p>
 
 <p class="para-en">There was nothing for it but to go and see.</p>
 
@@ -274,7 +274,7 @@
 
 <p class="para-vi-sub">Robert đánh rơi con dao rồi lẳng lặng bỏ đi.</p>
 
-<p class="para-en"><a id="page372"></a>He lay on his pallet listening to soft noises coming from the other room.</p>
+<p class="para-en">He lay on his pallet listening to soft noises coming from the other room.</p>
 
 <p class="para-vi-sub">Robert nằm dài trên tấm nệm rơm của mình, lắng nghe những âm thanh khẽ khàng phát ra từ căn phòng bên cạnh.</p>
 

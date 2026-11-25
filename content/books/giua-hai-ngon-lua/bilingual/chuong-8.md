@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Bảy: Về Trận ChiếnTại Chanson-des-Anges
+# Chương Bảy: Về Trận Chiến Tại Chanson-des-Anges
 
 <p class="para-en">In the morning, the girl told the priest that the three of them were going to the shrine of the Virgin of the White Rock, ten miles north. She was granting miracles to some, and she would rid Thomas of the plague.</p>
 
@@ -30,7 +30,7 @@
 
 <p class="para-vi-sub">“Không,” vị linh mục quả quyết nói. “Chúng ta phải ở lại đây. Nếu Thiên Chúa muốn người bạn của chúng ta sống, Ngài sẽ ban ân huệ đó cho anh ấy bất kể anh ấy đang ở đâu.”</p>
 
-<p class="para-en"><a id="page68"></a>Her insides fluttered as though a small bird were near her heart. Words came to her. She closed her eyes and said them.</p>
+<p class="para-en">Her insides fluttered as though a small bird were near her heart. Words came to her. She closed her eyes and said them.</p>
 
 <p class="para-vi-sub">Bên trong cô bé xao động như thể có một chú chim nhỏ đang ở gần trái tim mình. Những lời nói hiện lên trong tâm trí cô bé. Cô bé nhắm mắt lại và thốt lên chúng.</p>
 
@@ -58,7 +58,7 @@
 
 <p class="para-vi-sub">Khi đến gần hơn, họ vượt qua những người khác đang chở người bệnh và người sắp chết đến Rochelle-la-Blanche.</p>
 
-<p class="para-en"><a id="page69"></a>It was midday when they saw the town.</p>
+<p class="para-en">It was midday when they saw the town.</p>
 
 <p class="para-vi-sub">Đó là lúc giữa trưa khi họ nhìn thấy thị trấn.</p>
 
@@ -114,7 +114,7 @@
 
 <p class="para-vi-sub">“Thật xấu hổ cho huynh, thưa huynh đệ,” cha Matthieu nói.</p>
 
-<p class="para-en"><a id="page70"></a>The girl stood now, wide-eyed, and said, “You’ve got devils with you. Right now, with you.”</p>
+<p class="para-en">The girl stood now, wide-eyed, and said, “You’ve got devils with you. Right now, with you.”</p>
 
 <p class="para-vi-sub">Cô bé bây giờ đứng bật dậy, mắt mở lớn, và nói: “Các người đang mang theo lũ quỷ đấy. Ngay lúc này, ở ngay cạnh các người.”</p>
 
@@ -140,7 +140,7 @@
 
 <p class="para-en">Even though it took place at Rochelle-la-Blanche, the battle would henceforth be known as the battle of Chanson-des-Anges, because the attackers shouted that again and again. They shouted it as they waded into and pushed aside the crowd of sick and penitent pilgrims that surrounded the statue. They shouted it as they broke the arm of the priest of Rochelle-la-Blanche, who threw himself in front of his Blessed Lady to defend her. They shouted it as they broke the pretty, white-stone statue from its nook in the white rock beside the church, leaving a piece of her foot. They shouted it at the group of men who began to form in the market square nearby, now six, now a dozen, shouting and pointing and summoning others.</p>
 
-<p class="para-vi-sub">Mặc dù diễn ra tại Rochelle-la-Blanche, trận chiến sau đó sẽ được biết đến với tên gọi trận chiến Chanson-des-Anges, bởi vì những kẻ tấn công đã hô vang điều đó hết lần này đến lần khác. Chúng hô lên khi lội vào và đẩy dạt đám đông những người hành hương đau ốm và sám hối<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn5">[5]</a> đang vây quanh bức tượng. Chúng hô lên khi bẻ gãy cánh tay của vị linh mục xứ Rochelle-la-Blanche, người đã lao mình ra trước Đức Mẹ Chí Thánh để bảo vệ Người. Chúng hô lên khi đập vỡ bức tượng đá trắng xinh xắn khỏi hốc đá trắng bên cạnh nhà thờ, để lại một phần bàn chân của Người. Chúng hô lên với nhóm đàn ông bắt đầu tụ tập ở quảng trường chợ gần đó, lúc này là sáu người, lúc khác là một tá, vừa hò hét, vừa chỉ trỏ và gọi thêm những người khác.</p>
+<p class="para-vi-sub">Mặc dù diễn ra tại Rochelle-la-Blanche, trận chiến sau đó sẽ được biết đến với tên gọi trận chiến Chanson-des-Anges, bởi vì những kẻ tấn công đã hô vang điều đó hết lần này đến lần khác. Chúng hô lên khi lội vào và đẩy dạt đám đông những người hành hương đau ốm và sám hối[5] đang vây quanh bức tượng. Chúng hô lên khi bẻ gãy cánh tay của vị linh mục xứ Rochelle-la-Blanche, người đã lao mình ra trước Đức Mẹ Chí Thánh để bảo vệ Người. Chúng hô lên khi đập vỡ bức tượng đá trắng xinh xắn khỏi hốc đá trắng bên cạnh nhà thờ, để lại một phần bàn chân của Người. Chúng hô lên với nhóm đàn ông bắt đầu tụ tập ở quảng trường chợ gần đó, lúc này là sáu người, lúc khác là một tá, vừa hò hét, vừa chỉ trỏ và gọi thêm những người khác.</p>
 
 <p class="para-en">Then one in the Chanson mob said, “Do not let them gather!”</p>
 
@@ -150,7 +150,7 @@
 
 <p class="para-vi-sub">Không ai chắc chắn kẻ nào đã nói câu đó, bởi vì chỉ có cô bé mới nhìn thấy thứ ô uế đã thốt ra những lời ấy.</p>
 
-<p class="para-en">A stone flew. Then a brick. Someone shot an arrow. Then the <a id="page71"></a>invading mob rushed at the outnumbered men in the square, and a horrible melee began. The Rochelle townsmen scattered, but more were coming. The Virgin must have been working true miracles here. More healthy men were gathering than the priest or the girl had seen in one place since the sickness first came. Now a hunchback in a blacksmith’s apron ran toward the Rochelle men, dragging a box, from which they began to pull swords, axes, and hammers.</p>
+<p class="para-en">A stone flew. Then a brick. Someone shot an arrow. Then the invading mob rushed at the outnumbered men in the square, and a horrible melee began. The Rochelle townsmen scattered, but more were coming. The Virgin must have been working true miracles here. More healthy men were gathering than the priest or the girl had seen in one place since the sickness first came. Now a hunchback in a blacksmith’s apron ran toward the Rochelle men, dragging a box, from which they began to pull swords, axes, and hammers.</p>
 
 <p class="para-vi-sub">Một viên đá bay tới. Rồi một viên gạch. Ai đó bắn một mũi tên. Sau đó, đám đông xâm lược lao vào nhóm đàn ông yếu thế hơn ở quảng trường, và một cuộc hỗn chiến kinh hoàng bắt đầu. Những người dân thị trấn Rochelle tản ra, nhưng nhiều người nữa đang kéo đến. Đức Mẹ hẳn đã làm những phép lạ thực sự ở đây. Nhiều người khỏe mạnh tụ tập lại hơn bất kỳ nơi nào mà vị linh mục hoặc cô bé từng thấy kể từ khi căn bệnh bùng phát. Lúc này, một kẻ gù lưng mặc tạp dề thợ rèn chạy về phía những người dân Rochelle, kéo theo một cái hộp, từ đó họ bắt đầu rút ra kiếm, rìu và búa.</p>
 
@@ -206,7 +206,7 @@
 
 <p class="para-vi-sub">Và Cái Chết đã đáp lại lời triệu hồi của hắn.</p>
 
-<p class="para-en"><a id="page72"></a>None from Chanson-des-Anges was left alive.</p>
+<p class="para-en">None from Chanson-des-Anges was left alive.</p>
 
 <p class="para-vi-sub">Không một ai từ Chanson-des-Anges còn sống sót.</p>
 
@@ -242,9 +242,9 @@
 
 <p class="para-vi-sub">Và rồi gã chìm vào giấc ngủ.</p>
 
-<p class="para-en">Thomas woke up and thought something was horribly wrong. A dream in which his mother wove at her loom and sung a <em>chanson de toile<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn2" id="bodyftn2">[2]</a></em> about a common woman who loved a great seigneur dissolved; now an angel was rubbing his head with a cool cloth; he had died, he was sure of that, but under no circumstances should he be in Heaven.</p>
+<p class="para-en">Thomas woke up and thought something was horribly wrong. A dream in which his mother wove at her loom and sung a chanson de toile[2] about a common woman who loved a great seigneur dissolved; now an angel was rubbing his head with a cool cloth; he had died, he was sure of that, but under no circumstances should he be in Heaven.</p>
 
-<p class="para-vi-sub">Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn6">[6]</a> và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến; giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát; gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.</p>
+<p class="para-vi-sub">Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi[6] và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến; giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát; gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.</p>
 
 <p class="para-en">He turned his eyes to look at the angel, and saw that it was only the girl. Her very gray eyes were on him, waiting to see if he would speak.</p>
 
@@ -254,7 +254,7 @@
 
 <p class="para-vi-sub">“Ta đã chết,” anh nói.</p>
 
-<p class="para-en"><a id="page73"></a>“Almost.”</p>
+<p class="para-en">“Almost.”</p>
 
 <p class="para-vi-sub">“Gần như thế.”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-vi-sub">Cô bé thay miếng vải đắp trên trán Thomas và xoa nhẹ thái dương anh lần nữa. Cảm giác thật mát lạnh và dễ chịu làm sao. Anh nhắm nghiền mắt và thở dài một hơi thật dài đầy mãn nguyện. Đây là lúc anh cảm thấy khỏe khoắn nhất kể từ… kể từ khi chuyện tồi tệ nào đó xảy ra. Chuyện gì vậy chứ? Một thứ gì đó dưới dòng sông.</p>
 
-<p class="para-en">“What I can’t stop thinking about,” the priest went on, “is wine. I never thought it would just run out. I thought men would always make wine, as bees make honey and cows make milk. That I would <a id="page74"></a>one day find nobody, not one person, with a skin or cask or pitcher of wine to sell, had never occurred to me.”</p>
+<p class="para-en">“What I can’t stop thinking about,” the priest went on, “is wine. I never thought it would just run out. I thought men would always make wine, as bees make honey and cows make milk. That I would one day find nobody, not one person, with a skin or cask or pitcher of wine to sell, had never occurred to me.”</p>
 
 <p class="para-vi-sub">“Điều khiến tôi cứ ngẫm nghĩ mãi không thôi,” vị linh mục nói tiếp, “chính là rượu vang. Tôi chưa từng nghĩ nó lại có lúc cạn kiệt. Tôi cứ tưởng con người sẽ luôn làm ra rượu vang, giống như loài ong làm mật và loài bò cho sữa. Việc tôi một ngày nào đó chẳng thể tìm thấy dù chỉ một người, dẫu chỉ một người duy nhất, mang theo bầu da, thùng hay vò rượu để bán, là điều chưa từng xuất hiện trong đầu tôi.”</p>
 
@@ -398,13 +398,13 @@
 
 <p class="para-vi-sub">“Không.”</p>
 
-<p class="para-en"><a id="page75"></a>“Which is it?”</p>
+<p class="para-en">“Which is it?”</p>
 
 <p class="para-vi-sub">“Thế rốt cuộc là thế nào?”</p>
 
-<p class="para-en">“I’ll go to Paris. You asked me if I would <em>like</em> to go to Paris. I would not. But I’m out of food, wine, and parishioners. So, like it or not, I have to leave my pleasant little house. If she’s a saint, this is a holy pilgrimage. If she’s a witch, I might try to mitigate her wickedness.”</p>
+<p class="para-en">“I’ll go to Paris. You asked me if I would like to go to Paris. I would not. But I’m out of food, wine, and parishioners. So, like it or not, I have to leave my pleasant little house. If she’s a saint, this is a holy pilgrimage. If she’s a witch, I might try to mitigate her wickedness.”</p>
 
-<p class="para-vi-sub">“Tôi sẽ đến Paris. Ngài vừa hỏi là tôi có <i>muốn</i> đi Paris hay không mà. Tôi không muốn. Nhưng tôi đã cạn sạch thức ăn, rượu vang và cả giáo dân rồi. Thế nên, dù thích hay không, tôi buộc phải rời khỏi ngôi nhà nhỏ dễ chịu của mình. Nếu cô bé là thánh nữ, đây sẽ là một cuộc hành hương thánh thiện. Nếu cô bé là phù thủy, tôi có thể sẽ tìm cách giảm bớt sự độc ác của nó.”</p>
+<p class="para-vi-sub">“Tôi sẽ đến Paris. Ngài vừa hỏi là tôi có muốn đi Paris hay không mà. Tôi không muốn. Nhưng tôi đã cạn sạch thức ăn, rượu vang và cả giáo dân rồi. Thế nên, dù thích hay không, tôi buộc phải rời khỏi ngôi nhà nhỏ dễ chịu của mình. Nếu cô bé là thánh nữ, đây sẽ là một cuộc hành hương thánh thiện. Nếu cô bé là phù thủy, tôi có thể sẽ tìm cách giảm bớt sự độc ác của nó.”</p>
 
 <p class="para-en">They left on the first day of September.</p>
 

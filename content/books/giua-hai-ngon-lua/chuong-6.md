@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Năm: Bàn về Con vậttrong Vũng Lầy
+# Chương Năm: Bàn về Con vật trong Vũng Lầy
 
 Thomas ngủ không ngon giấc; thứ rượu vang kia khiến dạ dày gã nóng rát, và khi chợp mắt, gã mơ thấy mình đang lội trong làn nước sền sệt bùn nhão, tìm kiếm những món đồ đã đánh rơi. Gã bỏ cuộc từ rạng sáng, miệng vẫn ợ ra thứ vị rượu chua loét, rồi bắt đầu mặc giáp.
 
@@ -84,7 +84,7 @@ Gã vặn quặt cánh tay nó đau đớn để bắt nó nhìn bàn tay đang 
 
 “Việc mày bê bết máu lên đồ đạc của tao chẳng giúp gì cho tao, cho mày, hay cho bất kỳ ai cả. Hiểu chưa?”
 
-Nó gật đầu, cố kìm không để khóc, và Thomas nhận ra mình vẫn đang nắm chặt cổ tay nó, lúc này trông vô cùng nhỏ bé và mỏng manh trong bàn tay to lớn của gã. Gã buông tay ra. Cô bé muốn xoa lấy cổ tay nhưng lại cảm thấy xấu hổ nên đành giấu nó ra sau lưng, ngước nhìn lên gã. Thomas suýt nữa thì quát toáng lên, <i>Mày còn muốn cái gì nữa?</i>, nhưng rồi gã chợt suy nghĩ lại và nhận ra nó đang hy vọng nhận được một lời nói tử tế nào đó từ gã. Thomas lục lọi trong đầu tìm một câu.
+Nó gật đầu, cố kìm không để khóc, và Thomas nhận ra mình vẫn đang nắm chặt cổ tay nó, lúc này trông vô cùng nhỏ bé và mỏng manh trong bàn tay to lớn của gã. Gã buông tay ra. Cô bé muốn xoa lấy cổ tay nhưng lại cảm thấy xấu hổ nên đành giấu nó ra sau lưng, ngước nhìn lên gã. Thomas suýt nữa thì quát toáng lên, Mày còn muốn cái gì nữa?, nhưng rồi gã chợt suy nghĩ lại và nhận ra nó đang hy vọng nhận được một lời nói tử tế nào đó từ gã. Thomas lục lọi trong đầu tìm một câu.
 
 “Đi… đi tìm vị linh mục đi,” gã bảo, giọng dịu dàng nhất có thể. “Ông ấy có lẽ có một miếng vải để băng vết cắt nhỏ đó lại. Rồi nhét thêm ít cỏ thi vào, vì mày biết đó là thứ gì cơ mà.”
 
@@ -162,7 +162,7 @@ Sanson Bertier đứng há hốc mồm, đoạn nôn mửa. Nhưng gã không ch
 
 “Lau cái cằm của mày đi,” Thomas nói.
 
-<i>Giờ thì sao đây?</i>
+Giờ thì sao đây?
 
 Thomas mặc giáp quá nặng nên không dám tiến sâu xuống nước, nhưng khi những cú đập phẳng lưỡi kiếm xuống mặt nước cùng tiếng thét “Này! Này bay! Lôi cái thây đen sì của chúng mày dưới nước lên đây mà đấu tay đôi với tao!” không thể dụ được nó trồi lên, gã bèn liều lĩnh bước một chân rồi đến chân kia xuống vùng nước đục ngầu đang chảy êm đềm. Người nông dân to lớn đứng cạnh gã, mắt trợn trừng, tỉnh cả rượu, hai tay căng cứng đến mức đầu mũi lao La Mã cứ run bần bật.
 
@@ -186,7 +186,7 @@ Một phần thân mình của thứ đó đang cuộn mình lướt qua dòng n
 
 Thomas lao về phía nó với ngọn lao, vặn mình tung đòn bằng thứ sức mạnh tàn bạo mà hàng giờ luyện tập trên bãi chiến đã biến thành bản năng tự nhiên như việc đi đứng. Mũi lao đâm ngập sâu; cú lao đó đủ sức xiên thủng một con người và giết chết cả kẻ đứng sau hắn, nhưng đây không phải con người. Thứ đó cuộn tròn người lại, uốn lượn tháo chạy thật nhanh, giật phăng mũi lao khỏi tay gã. Gã dùng hết sức bình sinh đứng dậy, bộ áo giáp xích ngấm nước nặng trĩu chực kéo gã chìm xuống, rồi lao nhào về phía thanh kiếm rơi.
 
-Gã thấy cô bé cũng đang tìm nó, nước ngập đến đùi, đôi chân nhỏ bé trắng ngợm nổi bật giữa dòng sông và bầu trời sẫm tối. Con bé cúi hẳn người xuống nước, đầu ngập ngụa như đang mò bắt rùa. Gã định thét lên <i>Tránh ra!</i> với con bé nhưng chỉ ho sù sù, thế là gã với tay xuống nước, túm lấy một nắm tóc vàng của nó rồi giật thốc lên hướng bờ sông. Con bé đang nắm lấy lưỡi kiếm, lại bị cắt vào tay khi ngã xuống và buông rơi nó. Dù vậy, gã vẫn nhìn thấy chỗ thanh kiếm rơi và thấy con bé đang lấm lem bùn đất lết lên bờ. Père Matthieu Hanicotte đang chạy đến đỡ lấy nó. Thomas chộp lấy thanh kiếm rồi xoay phắt người lại phía dòng sông, cảm giác như gã đã quay lưng về phía nó quá lâu trong cái khoảng thời gian tính bằng dăm giây ngắn ngủi ấy.
+Gã thấy cô bé cũng đang tìm nó, nước ngập đến đùi, đôi chân nhỏ bé trắng ngợm nổi bật giữa dòng sông và bầu trời sẫm tối. Con bé cúi hẳn người xuống nước, đầu ngập ngụa như đang mò bắt rùa. Gã định thét lên Tránh ra! với con bé nhưng chỉ ho sù sù, thế là gã với tay xuống nước, túm lấy một nắm tóc vàng của nó rồi giật thốc lên hướng bờ sông. Con bé đang nắm lấy lưỡi kiếm, lại bị cắt vào tay khi ngã xuống và buông rơi nó. Dù vậy, gã vẫn nhìn thấy chỗ thanh kiếm rơi và thấy con bé đang lấm lem bùn đất lết lên bờ. Père Matthieu Hanicotte đang chạy đến đỡ lấy nó. Thomas chộp lấy thanh kiếm rồi xoay phắt người lại phía dòng sông, cảm giác như gã đã quay lưng về phía nó quá lâu trong cái khoảng thời gian tính bằng dăm giây ngắn ngủi ấy.
 
 “Trông chừng! Trông chừng kìa!” Père Matthieu Hanicotte hét lớn át tiếng mưa.
 
@@ -196,23 +196,23 @@ Cái đầu của con vật giờ đã nhô hẳn lên khỏi mặt nước, nh�
 
 Ngay khi vừa tầm với, nó lại ngoi lên mặt nước, chồm hẳn dậy để phơi cái bụng trắng hếu, trên đó chi chít những chiếc gai màu đen, cong ngược hướng và dài bằng những con dao gọt hoa quả, xếp hàng đều đặn như núm vú. Nó rít lên về phía hai người, những chiếc gai co giãn và rỉ ra thứ dịch đen ngòm khắp vùng bụng. Hai bên cổ nó mọc những chiếc vây đẫm dầu kết thúc bằng hàng gai nhọn hoắt. Giờ thì cái đuôi của nó vươn lên khỏi mặt nước, và người nông dân làm dấu thánh rồi rên rỉ. Tận cùng của cái đuôi ấy mọc một bàn tay người. Nó trắng đến mức gần như trong suốt, nổi bật rực rỡ giữa bầu trời đen kịt.
 
-<i>Đúng là một bàn tay chết tiệt!</i>
+Đúng là một bàn tay chết tiệt!
 
 Cái đuôi trườn về phía trước, bàn tay quơ quào dọc theo thân con vật cho đến khi nắm được ngọn giáo đang găm trên người nó, rồi giật phăng ra. Tiếng sấm gầm gừ vang lên sau lưng.
 
 Người nông dân bắt đầu lẩm bẩm cầu kinh kính mừng Maria, và con vật nghiêng đầu lắng nghe, những chiếc râu giật giật đầy hào hứng. Thomas nện mạnh nắm đấm vào vai gã đàn ông vạm vỡ để bắt hắn im miệng, nhưng hắn chỉ càng đọc kinh to hơn. Không báo trước, một làn sóng co giật chạy dọc thân con vật và đầu chiếc đuôi quất vụt đi như một chiếc roi da. Bàn tay buông ngọn giáo lớn ra và phóng thẳng về phía người nông dân tựa như được bắn ra từ một cây nỏ lớn. Nó đã xuyên thủng qua cái miệng đang cầu kinh của gã nếu Thomas không kịp xô hắn ra. Dù vậy, ngọn giáo vẫn rạch toác má và thái dương gã, khiến hắn thét lên một tiếng kinh hoàng.
 
-Rồi sinh vật đó làm điều tồi tệ nhất mà Thomas từng chứng kiến; <i>nó há miệng và nhại lại y hệt tiếng thét của người nông dân.</i>
+Rồi sinh vật đó làm điều tồi tệ nhất mà Thomas từng chứng kiến; nó há miệng và nhại lại y hệt tiếng thét của người nông dân.
 
 Nó lại tiến về phía hai người đàn ông. Gã nông dân cứ thế gào thét, dẫu cho con vật đang chế giễu mình, một tay ôm chặt lấy cái đầu đang tuôn máu xối xả dưới làn mưa.
 
-Thomas chưa bao giờ sợ hãi đến thế. Gã thầm nghĩ bản thân không thể chống đỡ nổi nữa, ngay cả khi đang lê đôi chân lao qua lớp bùn lầy để đối đầu với nó. Thomas vung kiếm chém mạnh vào đầu nó, nhưng chỉ đánh trúng một nhát sượt khi nó lao qua người gã và tóm lấy gã nông dân đang la hét, bóp nghẹt tiếng gào của hắn khi nó ngoạm trọn đầu và vai gã đàn ông vào trong khoang miệng với một tiếng vỗ nước nhão nhoét, bạo liệt. Giờ thì nó siết chặt các thớ cơ ở cổ và nhấc bổng gã nông dân nặng nề lên khỏi mặt nước, chĩa đôi chân đang giãy giụa lên bầu trời và nuốt chửng hắn qua từng đợt ực liên hồi, <i>ỤC, ỤC, ỤC</i>, giống như một con bồ nông đang nuốt một con cá lớn.
+Thomas chưa bao giờ sợ hãi đến thế. Gã thầm nghĩ bản thân không thể chống đỡ nổi nữa, ngay cả khi đang lê đôi chân lao qua lớp bùn lầy để đối đầu với nó. Thomas vung kiếm chém mạnh vào đầu nó, nhưng chỉ đánh trúng một nhát sượt khi nó lao qua người gã và tóm lấy gã nông dân đang la hét, bóp nghẹt tiếng gào của hắn khi nó ngoạm trọn đầu và vai gã đàn ông vào trong khoang miệng với một tiếng vỗ nước nhão nhoét, bạo liệt. Giờ thì nó siết chặt các thớ cơ ở cổ và nhấc bổng gã nông dân nặng nề lên khỏi mặt nước, chĩa đôi chân đang giãy giụa lên bầu trời và nuốt chửng hắn qua từng đợt ực liên hồi, ỤC, ỤC, ỤC, giống như một con bồ nông đang nuốt một con cá lớn.
 
 Thomas nhìn thấy phần cán chiếc dao phát bờ rào của người nông dân đang nhô lên khỏi mặt nước. Gã giắt vội thanh kiếm vào vỏ để khỏi đánh rơi, rồi lội bì bõm tới tóm lấy vũ khí cán dài. Con vật đang gặp khó khăn trong việc nuốt trọn người nông dân. Thomas vung dao chém tới tấp bằng toàn bộ sức lực to lớn của mình, khoét ra những vết rách đủ sức mổ bụng một con bò mộng. Một trong những nhát chém nhắm thẳng lên cao đã tạo ra một lỗ thủng ngay gần chỗ phình ra mà con vật đang cố nuốt xuống, và Thomas chứng kiến cảnh khuôn mặt trắng bệch của người nông dân đang quay vòng khi bị đẩy sâu hơn vào thực quản nó. Tuy nhiên, nó không thể phớt lờ gã đàn ông vạm vỡ đang đâm chém vào người mình nữa, nên nó quay cái đầu mù lòa về phía Thomas, với đôi chân của nạn nhân vẫn lòi ra khỏi miệng. Nó quẫy những chiếc râu để dò tìm Thomas, rồi luồn cái đuôi có bàn tay quấn chặt lấy chân gã. Nó hạ đầu và cổ xuống nước, tiếp tục quấn thêm những vòng thân mình quanh kẻ phiền phức vừa dám chém phạt nó. Nó khuấy tung mặt nước bằng những cơn co giật trong lúc vẫn cố nuốt chửng bữa ăn, nhưng giờ thì nửa thân sau của nó đã được giải phóng để chiến đấu.
 
 Thomas dùng mũi vũ khí đâm thọc dưới nước, khoét vào người nó khiến dòng máu đặc quánh mùi dầu nổi bồng bềnh lên, nhưng ngay sau đó cái bàn tay trắng bệch kinh tởm áp lên mặt gã, bấu chặt vào má gã đến buốt nhói và mò mẫm móc vào mắt. Gã lắc mạnh đầu qua lại, rồi cắm ngập vũ khí xuống lòng sông để có thể lần lại phần cán. Dù vậy, gã vẫn không đủ sức gạt bàn tay đó khỏi mặt mình, và gã cảm thấy thứ gì đó sắc bén cạo sượt qua lớp giáp đùi khi con vật siết chặt lấy chân gã.
 
-<i>“Mấy cái gai khốn kiếp,”</i> gã rít lên điên cuồng, dạng chân đứng trụ và chật vật giữ thăng bằng, đoạn dùng sức bẻ ngược ngón cái của bàn tay kia hệt như cách người ta bẻ gãy khớp tay một kẻ địch. Bằng tay còn lại, gã rút con dao giắt bên hông và bắt đầu cưa vào chỗ phần đuôi nối liền với bàn tay. Lưỡi dao của gã cắm ngập sâu, khiến nó phải rụt bàn tay lại để bảo vệ, rồi giật thót người, kéo phăng Thomas chìm nghỉm xuống nước.
+“Mấy cái gai khốn kiếp,” gã rít lên điên cuồng, dạng chân đứng trụ và chật vật giữ thăng bằng, đoạn dùng sức bẻ ngược ngón cái của bàn tay kia hệt như cách người ta bẻ gãy khớp tay một kẻ địch. Bằng tay còn lại, gã rút con dao giắt bên hông và bắt đầu cưa vào chỗ phần đuôi nối liền với bàn tay. Lưỡi dao của gã cắm ngập sâu, khiến nó phải rụt bàn tay lại để bảo vệ, rồi giật thót người, kéo phăng Thomas chìm nghỉm xuống nước.
 
 Gã thầm chắc mình sẽ chết tới nơi, nhưng gã không hề bỏ cuộc.
 
@@ -232,6 +232,6 @@ Mưa đá.
 
 Trời đang đổ mưa đá.
 
-<i>Hóa ra đây là ngày tận thế,</i> gã thầm nghĩ, cảm thấy buồn nôn và chỉ mong sao được ngất đi cho rồi.
+Hóa ra đây là ngày tận thế, gã thầm nghĩ, cảm thấy buồn nôn và chỉ mong sao được ngất đi cho rồi.
 
 Và gã lịm đi.

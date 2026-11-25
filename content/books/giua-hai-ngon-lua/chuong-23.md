@@ -2,7 +2,7 @@
 
 # Chương Hai Mươi: Về vị tu sĩ áo trắng
 
-<span class="drop-2">“C</span>húng ta phải đóng một chiếc bè.”
+“Chúng ta phải đóng một chiếc bè.”
 
 “Gì cơ?”
 
@@ -86,11 +86,11 @@ Thomas gầm gừ. “Kể tên thị trấn khác.”
 
 Cuộc trò chuyện cứ tiếp diễn như thế cho đến khi cô bé thiếp ngủ, vị linh mục quá say không thể dắt nổi con lừa, và Thomas đành phải cầm lấy dây cương. Chẳng mấy chốc con đường rẽ đôi, và một tấm biển đứng sừng sững ở nhánh rẽ bên phải, dẫn vào một khu rừng vô cùng đẹp đẽ với những chiếc lá đang chuyển sang màu vàng dịu và đỏ rực đến giật mình.
 
-<span class="caps"><i>VÉZELAY MORTIS EST</i></span>
+VÉZELAY MORTIS EST
 
 Vị linh mục đang nôn thốc nôn tháo bên mạn xe, khổ sở tột cùng, cố gắng vô vọng để không làm vấy bẩn áo choàng của mình. Dù vậy, vốn tiếng Latinh của Thomas vẫn đủ để đọc hiểu, và anh lẩm nhẩm theo từng âm tiết.
 
-<span class="caps">VÉZELAY ĐÃ CHẾT</span>
+VÉZELAY ĐÃ CHẾT
 
 “Chúng ta sẽ không đến Vézelay đâu,” Thomas lẩm bẩm, dù chỉ có con lừa là khẽ giật vành tai về phía anh như thể đang lắng nghe. “Hy vọng mày không trông chờ tìm được một cô lừa cái xinh đẹp ở đó nhé, cái đồ khốn chuyên ăn cỏ.”
 
@@ -104,7 +104,7 @@ Con lừa chẳng thèm đáp lại.
 
 “Cái gì cơ?”
 
-“Sông Saône đổ vào sông Rhône,” cô bé nói trong mơ màng. “Con đường này dẫn đến Beaune. Một con đường khác dẫn đến Chalon-sur-Saône. <i>Beaune-Saône-Rhône.</i>”
+“Sông Saône đổ vào sông Rhône,” cô bé nói trong mơ màng. “Con đường này dẫn đến Beaune. Một con đường khác dẫn đến Chalon-sur-Saône. Beaune-Saône-Rhône.”
 
 “Beaune-Saône-Rhône,” Thomas lặp lại. “Đến ta cũng có thể nhớ được cái tên đó.”
 
@@ -126,7 +126,7 @@ Một con suối. Căn gác xép này nằm gần một con suối.
 
 “Xin Chúa tha thứ cho sự phung phí của con,” ông thì thầm, “và con sẽ cố gắng không bao giờ uống quá chén thế này nữa.”
 
-“<i>Cố gắng</i> là từ ngữ khiến cha vấp ngã đấy, người anh em.”
+“Cố gắng là từ ngữ khiến cha vấp ngã đấy, người anh em.”
 
 Vị linh mục vụng về kéo vạt áo lại rồi dò dẫm tìm kiếm nguồn phát ra giọng nói. Một tu sĩ thuộc Dòng Xitô mặc tu phục trắng đang đứng gần đó, với vòng tóc trắng như bạc quanh đỉnh đầu hói.
 
@@ -158,7 +158,7 @@ Vị linh mục bật cười đầy trìu mến. “Chính xác là thế.”
 
 Cha Matthieu vụt tắt nụ cười trước ngụ ý của người đối diện.
 
-“Con bé <i>thực sự</i> đến từ Chúa. Tôi dám lấy linh hồn mình ra để đánh cược.”
+“Con bé thực sự đến từ Chúa. Tôi dám lấy linh hồn mình ra để đánh cược.”
 
 “Và cha đã làm thế rồi còn gì.”
 
@@ -220,11 +220,11 @@ Vị lão giả đứng dậy và bước xuống sườn đồi. Ông ta không
 
 Vị tu sĩ già lúc này bước đi rất nhanh, nhanh đến mức vị linh mục phải nhảy cẫng lên ở mỗi bước thứ ba mới bắt kịp. Họ băng qua một bức tường đá thấp và đi ngang qua một con bê còn sống, thứ mà vị linh mục đã lâu lắm rồi chưa từng được thấy. Đó là một con bê giống Charolais trắng muốt, thản nhiên bước đi chẳng mảy may bận tâm đến sự hiện diện của họ. Con bò mẹ đang rống lên ở gần đó, âm thanh mờ ảo trong đêm tối như vầng trăng nhỏ ban ngày, và chú bê con đã rảo bước tiến về phía mẹ. Ông ngẩn ngơ ngắm nhìn sinh thể kỳ diệu ấy lâu đến mức suýt thì đánh mất bóng dáng người dẫn đường.
 
-<i>Ngươi là ai</i>
+Ngươi là ai
 
-<i>Ngươi là ai</i>
+Ngươi là ai
 
-<i>Là ai</i>
+Là ai
 
 “Cha có phải là…?” vị tu sĩ Xitô cất lời khi vị linh mục tiến lại gần.
 
@@ -236,7 +236,7 @@ Vị linh mục không đáp nhưng vẫn lầm lũi bám theo, bấy giờ đan
 
 “Anh vào đi,” người phụ nữ vừa nói, vừa nhìn vị linh mục bằng ánh mắt thắm thiết và nắm lấy bàn tay ông. “Bố kìa!” một đứa trẻ ngồi bên bàn thốt lên, nhún nhảy phấn khích trên chiếc ghế dài; con bé có khuôn mặt dài giống hệt ông, giống hệt anh trai ông. “Bố ơi,” một đứa bé khác nhỏ tuổi hơn nữa vang lên hòa nhịp, cả hai đều mừng rỡ tột cùng khi nhìn thấy ông. “Mẹ bảo là bố không về cơ mà!”
 
-Họ không gọi chữ <i>Bố</i> theo kiểu gọi linh mục, mà là <i>Bố</i> theo nghĩa người cha sinh thành.
+Họ không gọi chữ Bố theo kiểu gọi linh mục, mà là Bố theo nghĩa người cha sinh thành.
 
 Nó giống như một trò đùa quái ác.
 
@@ -370,21 +370,21 @@ Và bậc thứ hai.
 
 Đến bậc thứ ba, hạ bộ của ông đông cứng thành băng.
 
-<i>Tên hiệp sĩ sẽ giết ta.</i>
+Tên hiệp sĩ sẽ giết ta.
 
-<i>CÁI THỨ KẺ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI HÃY LÀM ĐI</i>
+CÁI THỨ KẺ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI HÃY LÀM ĐI
 
 Ông bước lên một nấc thang nữa. Rồi một nấc nữa. Và vị linh mục đứng trên gác xép, nhìn xuống đứa trẻ.
 
-<i>Không có gì trong số này là thật cả</i>
+Không có gì trong số này là thật cả
 
 Ông cầm chuôi kiếm, chúc mũi kiếm xuống dưới, bàn tay này chồng lên bàn tay kia, đầu gối chùng xuống như một kẻ chuẩn bị đóng cọc xuống đất.
 
-<i>Làm nhanh lên để con bé không đau</i>
+Làm nhanh lên để con bé không đau
 
-<i>Làm sao mà đau được nếu nó không phải là thật</i>
+Làm sao mà đau được nếu nó không phải là thật
 
-<i>Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm</i>
+Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm
 
 Con bé nấc cụt trong giấc ngủ.
 
@@ -398,9 +398,9 @@ Cha Matthieu bật cười bất chấp chính mình ngay cả khi nước mắt
 
 Ông thở ra một hơi và sực tỉnh.
 
-<i>Lạy Chúa Cha, ta đang làm cái quái gì thế này</i>
+Lạy Chúa Cha, ta đang làm cái quái gì thế này
 
-<i>THẰNG HOẠN QUAN KHỐN KIẾP LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI</i>
+THẰNG HOẠN QUAN KHỐN KIẾP LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI
 
 Vị linh mục quay đầu trèo xuống thang.
 
@@ -416,7 +416,7 @@ Chúng đồng thanh cất lời trong khi cái miệng bên dưới mũi gã c�
 
 Gã giật lấy thanh kiếm khỏi tay vị linh mục rồi văng mạnh nó đi khiến nó quay mòng mòng cho đến khi khuất tầm mắt.
 
-<i>Ta sẽ chẳng bao giờ được cầm kiếm nữa.</i>
+Ta sẽ chẳng bao giờ được cầm kiếm nữa.
 
 Rồi gã chộp lấy khuôn mặt vị linh mục bằng bàn tay lạnh ngắt và cứng ngắc như một chiếc móng ngựa, thọc hai ngón tay đầu tiên của bàn tay kia vào miệng vị linh mục rồi móc sâu xuống cổ họng, khiến ông buồn nôn ọe ọe.
 

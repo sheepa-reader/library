@@ -18,11 +18,11 @@
 
 <p class="para-vi-sub">Cha Matthieu Hanicotte liếm môi rồi ngước nhìn bầu trời.</p>
 
-<p class="para-en">A tar-black cloud of sorts bled up from Auxerre, tapered from the ground like a snake’s tail, spinning. He had heard of such a thing before; a sailor had told him of spouts that came down from the clouds and played on the face of the sea. But this one did not dip down from clouds; it rose from the ground and spread, <em>making</em> clouds where there had been none, blackening the faint green of the sky like ink polluting water. The tapered cloud, spinning ever faster, swayed now like a seductress at her dance, kicking up debris at its base.</p>
+<p class="para-en">A tar-black cloud of sorts bled up from Auxerre, tapered from the ground like a snake’s tail, spinning. He had heard of such a thing before; a sailor had told him of spouts that came down from the clouds and played on the face of the sea. But this one did not dip down from clouds; it rose from the ground and spread, making clouds where there had been none, blackening the faint green of the sky like ink polluting water. The tapered cloud, spinning ever faster, swayed now like a seductress at her dance, kicking up debris at its base.</p>
 
 <p class="para-vi-sub">Một thứ mây đen sì như nhựa đường rỉ ra từ Auxerre, thuôn nhọn từ mặt đất vươn lên giống như cái đuôi rắn, cuồn cuộn xoay tít. Ông từng nghe kể về hiện tượng như vậy; một thủy thủ từng thuật lại cho ông nghe về những cột nước từ trên mây sà xuống quẫy đạp trên mặt biển. Nhưng lần này nó không sà xuống từ những đám mây; nó mọc lên từ mặt đất rồi lan rộng ra, tạo nên mây ở những nơi vốn chẳng có đám mây nào, làm bầu trời xanh lục nhạt tối sầm lại như mực đổ vào nước. Cột mây thuôn nhọn, xoay ngày càng nhanh, giờ đây đung đưa hệt như một ả lẳng lơ đang múa lượn, đá văng những mảnh vụn ở phần chân.</p>
 
-<p class="para-en">The two men thought they heard the sound of screaming, but it <a id="page214"></a>was impossible to tell if it was coming from Auxerre or the awful wind, which blew harder now, sucking in, blowing out.</p>
+<p class="para-en">The two men thought they heard the sound of screaming, but it was impossible to tell if it was coming from Auxerre or the awful wind, which blew harder now, sucking in, blowing out.</p>
 
 <p class="para-vi-sub">Hai người đàn ông tưởng chừng nghe thấy tiếng thét, nhưng chẳng thể phân biệt nổi âm thanh đó phát ra từ Auxerre hay từ ngọn gió kinh hoàng đang thổi mạnh hơn, húp lấy húp để rồi thở ra.</p>
 
@@ -38,9 +38,9 @@
 
 <p class="para-vi-sub">Mặt đất bỗng rung chuyển, tựa như có vật gì đó nặng đến không thể tưởng tượng nổi vừa rơi xuống. Một góc ngôi nhà đá bên tay phải họ đổ sụp xuống, và gió càng thổi mạnh hơn, kéo tốc độ của hai người xuống chậm như đang leo một con dốc đứng. Những cành cây sắc nhọn cùng các mảnh vụn nhỏ khác quất vào người họ, rồi một cành cây từ trên trời rơi xuống, nện trúng đỉnh đầu vị linh mục khiến ông ngã quỵ. Thomas nắm lấy tay ông kéo đứng dậy; họ lê bước tiến về phía đoạn đường cao hơn. Dùng tay che mặt hết sức có thể, họ thấy một cột mây xoáy thứ hai đã nhập vào cột mây đầu tiên, cả hai đang nhổ bật gốc những cây cối trên mặt đất rồi hút ngược lên trời. Tiếng một người đàn ông hét lên từ một trang trại gần đó, và họ hiểu nguyên nhân: hai cột mây đã rời khỏi mặt đất. Phần đáy thuôn nhọn của chúng biến thành những chiếc đuôi, còn phần đỉnh dày hơn dường như hóa thành những đôi cánh. Một trong hai đám mây mọc ra hai chiếc cánh đen khổng lồ, và đám mây kia mọc ra sáu cánh dường như đang cụp vào nhau.</p>
 
-<p class="para-en"><em>Seraph good sweet Lord a fallen seraph</em></p>
+<p class="para-en">Seraph good sweet Lord a fallen seraph</p>
 
-<p class="para-vi-sub"><i>Thiên thần Seraphim hiền từ ngọt ngào lạy Chúa một vị thiên thần sa ngã</i></p>
+<p class="para-vi-sub">Thiên thần Seraphim hiền từ ngọt ngào lạy Chúa một vị thiên thần sa ngã</p>
 
 <p class="para-en">and, just like that, both of them bled themselves up into the larger cloud that now covered most of the sky.</p>
 
@@ -50,9 +50,9 @@
 
 <p class="para-vi-sub">Vị linh mục kiệt sức ngừng chạy và quỵ xuống hai đầu gối.</p>
 
-<p class="para-en"><em>God God God</em></p>
+<p class="para-en">God God God</p>
 
-<p class="para-vi-sub"><i>Chúa ơi Chúa ơi Chúa ơi</i></p>
+<p class="para-vi-sub">Chúa ơi Chúa ơi Chúa ơi</p>
 
 <p class="para-en">“Where are you?” the priest said.</p>
 
@@ -62,15 +62,15 @@
 
 <p class="para-vi-sub">“Ở đây!” Thomas nói, nhưng cha Matthieu đang ngước nhìn bầu trời.</p>
 
-<p class="para-en"><em>“WHERE ARE YOU?”</em> the priest now screamed, gnashing his teeth.</p>
+<p class="para-en">“WHERE ARE YOU?” the priest now screamed, gnashing his teeth.</p>
 
-<p class="para-vi-sub"><i>“NGÀI Ở ĐÂU?”</i> vị linh mục gào lên, nghiến ken két hàm răng.</p>
+<p class="para-vi-sub">“NGÀI Ở ĐÂU?” vị linh mục gào lên, nghiến ken két hàm răng.</p>
 
 <p class="para-en">Thomas yanked him up, but he pulled away, shaking his head. Finally he collapsed against a tree and wrapped his arms around it, refusing to move farther.</p>
 
 <p class="para-vi-sub">Thomas lôi ông đứng dậy, nhưng ông giằng ra, lắc đầu. Cuối cùng vị linh mục gục vào một thân cây rồi vòng tay ôm chặt lấy nó, nhất quyết không chịu di chuyển thêm bước nào.</p>
 
-<p class="para-en"><a id="page215"></a>Thomas left him and trudged on for Auxerre, where the bells of the cathedral were ringing with great urgency.</p>
+<p class="para-en">Thomas left him and trudged on for Auxerre, where the bells of the cathedral were ringing with great urgency.</p>
 
 <p class="para-vi-sub">Thomas bỏ mặc cha Matthieu và lê bước tiến về hướng Auxerre, nơi những quả chuông nhà thờ đang đổ hồi đầy khẩn thiết.</p>
 
@@ -110,13 +110,13 @@
 
 <p class="para-vi-sub">Nó lượn hai vòng rồi khựng lại. Nó chẳng giống chim chóc chút nào, dẫu nó có cánh, hoặc ít ra dùng đôi cánh ấy để giải thích sự hiện diện của mình; không một loài chim nào có thể cứ lơ lửng trên trời hệt như một bức ảnh tĩnh của chính nó. Nó dòm ngó xuống các cánh đồng, khuôn mặt gần giống loài mèo nhưng lại vô cùng quái dị, với bộ hàm đen ngòm trong chiếc miệng phát sáng bệnh hoạn. Nó gầm lên, và tiếng gầm ấy vô cùng quen thuộc: tiếng gầm sư tử mang nét biến dạng lố bịch.</p>
 
-<p class="para-en"><em>An angel of wrath</em></p>
+<p class="para-en">An angel of wrath</p>
 
-<p class="para-vi-sub"><i>Một thiên sứ thịnh nộ</i></p>
+<p class="para-vi-sub">Một thiên sứ thịnh nộ</p>
 
-<p class="para-en"><em>A lion tearing an old man in an arena</em></p>
+<p class="para-en">A lion tearing an old man in an arena</p>
 
-<p class="para-vi-sub"><i>Một con sư tử đang xé xác một ông già giữa đấu trường</i></p>
+<p class="para-vi-sub">Một con sư tử đang xé xác một ông già giữa đấu trường</p>
 
 <p class="para-en">It saw something that interested it; a great black limb, now an arm, now a sort of paw, reached down impossibly far and picked something up.</p>
 
@@ -126,9 +126,9 @@
 
 <p class="para-vi-sub">Một đứa trẻ.</p>
 
-<p class="para-en"><em>Christ, no, no, not her.</em></p>
+<p class="para-en">Christ, no, no, not her.</p>
 
-<p class="para-vi-sub"><i>Chúa ơi, không, không, đừng là con bé.</i></p>
+<p class="para-vi-sub">Chúa ơi, không, không, đừng là con bé.</p>
 
 <p class="para-en">But it was not her.</p>
 
@@ -142,7 +142,7 @@
 
 <p class="para-vi-sub">Nó đã đến gần hơn, và một thứ mùi hôi thối nồng nặc phả xuống từ bầu trời, vừa chua lét vừa khét lẹt. Nó vẫn dòm xuống các cánh đồng, giật tung mái nhà, hất lật các cỗ xe để soi mói bên dưới.</p>
 
-<p class="para-en"><a id="page216"></a>A flung cart hit the road near Thomas, its wheel flying off and striking the knight above the eye, knocking him to all fours.</p>
+<p class="para-en">A flung cart hit the road near Thomas, its wheel flying off and striking the knight above the eye, knocking him to all fours.</p>
 
 <p class="para-vi-sub">Một chiếc xe đẩy bị ném văng rơi xuống con đường gần chỗ Thomas, bánh xe văng ra đập trúng vị hiệp sĩ ở vùng trán phía trên mắt, quật ngã anh xuống đất.</p>
 
@@ -230,17 +230,17 @@
 
 <p class="para-vi-sub">Gió lại thổi mạnh lên.</p>
 
-<p class="para-en">The priest prayed silently, forming his mouth around the unvoiced Latin but giving no thought to the words; his mind was on the sky above them and he listened, as she did, to the awful noise battering them from <a id="page217"></a>above. Growing closer. The stink pouring down on them was as bad as the noise, and he fought hard not to retch, for fear that if he started he wouldn’t stop until he had fallen from the limb he clung to. The noise grew louder and closer yet, banging like fists inside his skull. He squared his mouth to scream, but Delphine’s small hand stoppered it. He looked up at her where she perched on the small branch above his. She pulsed her hand and shook her head no. Tears wet her cheeks, and her mouth, too, was a rictus, but she did not cry out.</p>
+<p class="para-en">The priest prayed silently, forming his mouth around the unvoiced Latin but giving no thought to the words; his mind was on the sky above them and he listened, as she did, to the awful noise battering them from above. Growing closer. The stink pouring down on them was as bad as the noise, and he fought hard not to retch, for fear that if he started he wouldn’t stop until he had fallen from the limb he clung to. The noise grew louder and closer yet, banging like fists inside his skull. He squared his mouth to scream, but Delphine’s small hand stoppered it. He looked up at her where she perched on the small branch above his. She pulsed her hand and shook her head no. Tears wet her cheeks, and her mouth, too, was a rictus, but she did not cry out.</p>
 
 <p class="para-vi-sub">Vị linh mục thầm cầu nguyện, mấp máy môi đọc những câu tiếng Latinh không thành tiếng nhưng chẳng màng gì đến ý nghĩa; tâm trí ông hướng về bầu trời phía trên và ông lắng nghe, giống như Delphine, thứ âm thanh kinh hoàng đang giáng xuống từ trên đầu họ. Đang đến gần hơn. Mùi hôi thối dội xuống đậm đặc chẳng kém gì tiếng động, và ông phải cố gắng gồng mình để không nôn thốc nôn tháo, vì sợ rằng nếu đã bắt đầu thì ông sẽ không ngừng lại được cho đến khi rơi khỏi cành cây đang bám lấy. Tiếng động ngày một lớn hơn và cận kề hơn, giáng xuống như những cú đấm nện vào hộp sọ. Ông mím miệng định thét lên, nhưng bàn tay nhỏ nhắn của Delphine đã bịt chặt lấy miệng ông. Ông ngẩng lên nhìn con bé đang nép mình trên chiếc cành nhỏ ngay phía trên cành của ông. Delphine khẽ cử động bàn tay và lắc đầu ra hiệu không. Nước mắt đầm đìa trên má, và miệng con bé cũng mím chặt thành một đường cong cứng đờ, nhưng Delphine không hề phát ra tiếng khóc.</p>
 
-<p class="para-en"><em>Don’t,</em> her eyes said.</p>
+<p class="para-en">Don’t, her eyes said.</p>
 
-<p class="para-vi-sub"><i>Đừng,</i> ánh mắt con bé đang bảo vậy.</p>
+<p class="para-vi-sub">Đừng, ánh mắt con bé đang bảo vậy.</p>
 
-<p class="para-en"><em>Please.</em></p>
+<p class="para-en">Please.</p>
 
-<p class="para-vi-sub"><i>Xin cha đấy.</i></p>
+<p class="para-vi-sub">Xin cha đấy.</p>
 
 <p class="para-en">He choked back the sound in his throat and clung tighter to the rough branch that swayed wildly in his arms and between his knees. The wind raged, needling his face and hands with small debris. He was becoming dizzy. Squinting, he glanced up to make sure the girl was still holding on, too.</p>
 
@@ -262,23 +262,23 @@
 
 <p class="para-vi-sub">Tiếng thét điên dại trong đầu ông bỗng cấu thành từ ngữ.</p>
 
-<p class="para-en"><em>WHERE ARE YOU LITTLE WHORE WE’LL FIND YOU IF WE HAVE TO PRY UP EVERY ROOF FROM HERE TO THE SEA AND YANK UP EVERY TREE THAT’S IT ISN’T IT YOU’RE IN A TREE WE SMELL YOUR FEAR CLOSE YOUR THOUGHTS OF HOW YOUR DEATH WILL BE BUT IT WILL BE WORSE AND DEATH ISN’T THE END OF IT YES! HERE!</em> We see you.</p>
+<p class="para-en">WHERE ARE YOU LITTLE WHORE WE’LL FIND YOU IF WE HAVE TO PRY UP EVERY ROOF FROM HERE TO THE SEA AND YANK UP EVERY TREE THAT’S IT ISN’T IT YOU’RE IN A TREE WE SMELL YOUR FEAR CLOSE YOUR THOUGHTS OF HOW YOUR DEATH WILL BE BUT IT WILL BE WORSE AND DEATH ISN’T THE END OF IT YES! HERE! We see you.</p>
 
-<p class="para-vi-sub"><i>MÀY Ở ĐÂU CON ĐĨ NHỎ BỌN TA SẼ TÌM RA MÀY DÙ CÓ PHẢI CẠY BẬT MỌI MÁI NHÀ TỪ ĐÂY RA ĐẾN BIỂN VÀ NHỔ BỨNG MỌI CÂY CỐI LÊN ĐÚNG THẾ RỒI PHẢI KHÔNG MÀY ĐANG TRÊN MÂY PHẢI KHÔNG CÂY CHỨ GÌ BỌN TA NGỬI THẤY MÙI SỢ HÃI CỦA MÀY HÃY GHI NHỚ CÁI CHẾT SẼ ĐẾN VỚI MÀY NHƯ THẾ NÀO NHƯNG NÓ SẼ CÒN TỆ HƠN NỮA VÀ CÁI CHẾT KHÔNG PHẢI LÀ HẾT ĐÂU PHẢI RỒI! Ở ĐÂY!</i> Bọn tao thấy mày rồi.</p>
+<p class="para-vi-sub">MÀY Ở ĐÂU CON ĐĨ NHỎ BỌN TA SẼ TÌM RA MÀY DÙ CÓ PHẢI CẠY BẬT MỌI MÁI NHÀ TỪ ĐÂY RA ĐẾN BIỂN VÀ NHỔ BỨNG MỌI CÂY CỐI LÊN ĐÚNG THẾ RỒI PHẢI KHÔNG MÀY ĐANG TRÊN MÂY PHẢI KHÔNG CÂY CHỨ GÌ BỌN TA NGỬI THẤY MÙI SỢ HÃI CỦA MÀY HÃY GHI NHỚ CÁI CHẾT SẼ ĐẾN VỚI MÀY NHƯ THẾ NÀO NHƯNG NÓ SẼ CÒN TỆ HƠN NỮA VÀ CÁI CHẾT KHÔNG PHẢI LÀ HẾT ĐÂU PHẢI RỒI! Ở ĐÂY! Bọn tao thấy mày rồi.</p>
 
 <p class="para-en">Now a white hand</p>
 
 <p class="para-vi-sub">Giờ thì một bàn tay trắng bệch</p>
 
-<p class="para-en"><em>A fucking hand!</em></p>
+<p class="para-en">A fucking hand!</p>
 
-<p class="para-vi-sub"><i>Một bàn tay khốn kiếp!</i></p>
+<p class="para-vi-sub">Một bàn tay khốn kiếp!</p>
 
 <p class="para-en">the size of a pony snaked down from the sky on the end of an arm with far too many joints. It pulled branches from their tree. Now the priest did scream. As did Delphine. More hands. Five? Six?</p>
 
 <p class="para-vi-sub">to bằng cả một con ngựa con từ trên trời thò xuống ở tận cùng của một cánh tay có quá nhiều khớp xương. Nó giật tung những cành cây khỏi thân cây của họ. Lúc này thì vị linh mục đã thét lên. Delphine cũng vậy. Thêm những bàn tay nữa. Năm ư? Sáu ư?</p>
 
-<p class="para-en">They grabbed the tree now and heaved and shuddered it up from the earth. It turned upside down, turning around Père Matthieu as he fell, buffeting him with branches and what leaves remained, but slowing his fall so when the earth rose and whacked his side and head <a id="page218"></a>and banged his knees together, he lost the wind from his lungs but broke nothing.</p>
+<p class="para-en">They grabbed the tree now and heaved and shuddered it up from the earth. It turned upside down, turning around Père Matthieu as he fell, buffeting him with branches and what leaves remained, but slowing his fall so when the earth rose and whacked his side and head and banged his knees together, he lost the wind from his lungs but broke nothing.</p>
 
 <p class="para-vi-sub">Bọn chúng giờ đây túm lấy cái cây, giật mạnh và bứng phăng nó lên khỏi mặt đất. Thân cây lộn ngược lại, xoay vòng quanh cha Matthieu khi ông rơi xuống, quất vào người ông những cành cây và số lá còn sót lại, nhưng điều đó lại làm chậm cú rơi để khi mặt đất lao lên đập vào sườn, đầu và va đập hai đầu gối vào nhau, vị linh mục bị tước sạch hơi thở trong lồng ngực nhưng không gãy chiếc xương nào.</p>
 
@@ -286,9 +286,9 @@
 
 <p class="para-vi-sub">Ông nhìn theo cái cây đang lùi dần lên phía trên, khuôn mặt cô bé trắng bệch giữa đám lá lùm xùm, đôi chân kẹp chặt vào cành cây như chiếc khóa.</p>
 
-<p class="para-en"><em>NO!</em> he tried to scream, but his flat lungs allowed only a croak.</p>
+<p class="para-en">NO! he tried to scream, but his flat lungs allowed only a croak.</p>
 
-<p class="para-vi-sub"><i>KHÔNG!</i> ông cố thét lên, nhưng lồng ngực xẹp lép chỉ bật ra được một tiếng khò khè.</p>
+<p class="para-vi-sub">KHÔNG! ông cố thét lên, nhưng lồng ngực xẹp lép chỉ bật ra được một tiếng khò khè.</p>
 
 <p class="para-en">The thing above him held the tree like a toy.</p>
 
@@ -310,9 +310,9 @@
 
 <p class="para-vi-sub">Giờ thì nó đang xé toạc cái cây ra.</p>
 
-<p class="para-en"><em>Why must you hurt her she’s so small</em></p>
+<p class="para-en">Why must you hurt her she’s so small</p>
 
-<p class="para-vi-sub"><i>Sao tụi mày lại cứ phải hành hạ con bé nhỏ bé nhường ấy</i></p>
+<p class="para-vi-sub">Sao tụi mày lại cứ phải hành hạ con bé nhỏ bé nhường ấy</p>
 
 <p class="para-en">Twelve eyes glowing and a round mouth of fire.</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-vi-sub">Cái cây bị bỏ quên rơi nhào lộn, chậm rãi, tựa như trong một giấc mơ.</p>
 
-<p class="para-en"><a id="page219"></a>The angel, yanked backward, lost its grip on the girl, and she fell again; something from the other (a tail?) grabbed for her and missed.</p>
+<p class="para-en">The angel, yanked backward, lost its grip on the girl, and she fell again; something from the other (a tail?) grabbed for her and missed.</p>
 
 <p class="para-vi-sub">Vị thiên thần bị giật ngược ra sau, tuột mất tay khỏi người cô bé, và Delphine lại rơi xuống; một thứ gì đó từ kẻ thù quờ quạng vồ lấy con bé nhưng hụt mất.</p>
 
@@ -418,9 +418,9 @@
 
 <p class="para-vi-sub">Hình bóng con bé phóng đại nhanh chóng, lao thẳng về phía ông.</p>
 
-<p class="para-en"><em>Please, God.</em></p>
+<p class="para-en">Please, God.</p>
 
-<p class="para-vi-sub"><i>Lạy Chúa, xin thương xót.</i></p>
+<p class="para-vi-sub">Lạy Chúa, xin thương xót.</p>
 
 <p class="para-en">He caught her, mostly.</p>
 
@@ -458,7 +458,7 @@
 
 <p class="para-vi-sub">Ngày tận thế.</p>
 
-<p class="para-en">The battle pitched through the sky, careening over Auxerre, then back over the fields. Now a light, golden-orange and lovely, just the sort the sun casts through clouds before it sinks, broke and lit up the river and the eastern part of town. Then everything went black, and the light shone only in flashes, painting scenes that formed in instants and dissolved into darkness again. Now a mass of black tentacles roped around the source of the light; now a beautiful arm glowing with pale light flashed down with a sword, cutting some of these, and causing the firmament to shudder like a ripple going through a pan of water. Thomas knew somehow that what he was seeing was not precisely true, but a translation; he had no way to understand what he was seeing, so his <a id="page220"></a>mind painted its own pictures. Now one black, winged thing tore at the beautiful winged thing with a mouth like a lion’s mouth, over which its two eyes blazed with insanity and rage. Now the six-winged darkness wheeled down, and fire from its round mouth spouted against the beautiful one, in a huge gout that impacted against its target and was deflected, flowering and raining down all over the fields, lighting up the countryside here and there in a multitude of small fires. Everything went black again until the three figures locked together, the black ones driving the illuminated one down and down, into a field of barley not far from the river. A screaming sound that was at once animalistic and mechanical shocked Thomas’s ears and raised all the small hairs on his body.</p>
+<p class="para-en">The battle pitched through the sky, careening over Auxerre, then back over the fields. Now a light, golden-orange and lovely, just the sort the sun casts through clouds before it sinks, broke and lit up the river and the eastern part of town. Then everything went black, and the light shone only in flashes, painting scenes that formed in instants and dissolved into darkness again. Now a mass of black tentacles roped around the source of the light; now a beautiful arm glowing with pale light flashed down with a sword, cutting some of these, and causing the firmament to shudder like a ripple going through a pan of water. Thomas knew somehow that what he was seeing was not precisely true, but a translation; he had no way to understand what he was seeing, so his mind painted its own pictures. Now one black, winged thing tore at the beautiful winged thing with a mouth like a lion’s mouth, over which its two eyes blazed with insanity and rage. Now the six-winged darkness wheeled down, and fire from its round mouth spouted against the beautiful one, in a huge gout that impacted against its target and was deflected, flowering and raining down all over the fields, lighting up the countryside here and there in a multitude of small fires. Everything went black again until the three figures locked together, the black ones driving the illuminated one down and down, into a field of barley not far from the river. A screaming sound that was at once animalistic and mechanical shocked Thomas’s ears and raised all the small hairs on his body.</p>
 
 <p class="para-vi-sub">Cuộc giao tranh xé toạc bầu trời, lướt qua Auxerre rồi vòng ngược lại phía đồng ruộng. Bỗng một luồng ánh sáng vàng cam rực rỡ và kiều diễm, tựa thứ ánh nắng xuyên qua mây trời trước lúc hoàng hôn, lóe lên soi sáng dòng sông và khu vực phía đông thị trấn. Rồi vạn vật chìm vào bóng tối, ánh sáng chỉ còn lóe lên từng hồi, vẽ nên những khung cảnh hình thành trong chớp mắt rồi lại tan biến vào màn đêm. Khi thì một đám xúc tu đen ngòm quấn lấy nguồn phát sáng; lúc lại một cánh tay tuyệt mỹ phát ra thứ ánh sáng nhợt nhạt vung kiếm chém đứt phăng vài chiếc xúc tu ấy, khiến bầu trời rung chuyển như gợn sóng lăn tăn trong chậu nước. Thomas lờ mờ hiểu rằng những gì mình đang chứng kiến không hoàn toàn là sự thật nguyên bản, mà chỉ là một bản dịch qua lăng kính nhận thức; anh chẳng có cách nào hiểu nổi những gì đang diễn ra trước mắt, thế nên tâm trí tự khắc vẽ nên những hình thù của riêng mình. Lúc này, một sinh vật đen đúa có cánh đang cắn xé sinh vật mang cánh tuyệt đẹp kia bằng cái miệng giống hệt miệng sư tử, hai con mắt lồi lên sùng sục vẻ cuồng loạn và thịnh nộ. Khi thì cõi tối tăm sáu cánh nhào xuống, khói lửa từ chiếc miệng rộng phun thẳng vào thực thể thuần khiết kia, một luồng nhiệt áp đảo dội thẳng vào mục tiêu rồi bị hất ngược trở lại, bùng nở và tung tóe khắp đồng ruộng, thắp lên vô số ngọn lửa nhỏ dọc khắp vùng quê. Mọi thứ lại chìm vào bóng tối cho đến khi ba bóng đen quấn lấy nhau, những kẻ hắc ám dìm thực thể được chiếu rọi xuống mãi, xuống mãi, sâu vào một cánh đồng đại mạch cách con sông không xa. Tiếng thét vừa mang âm hưởng dã thú vừa lạnh lẽo cơ học giội vào tai Thomas, dựng đứng từng chiếc lông tơ trên cơ thể anh.</p>
 

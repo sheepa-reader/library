@@ -6,21 +6,21 @@
 
 <p class="para-vi-sub">Paris hiện ra lần đầu bằng một cột khói cuồn cuộn bốc lên trên đỉnh đồi. Họ biết mình đã đến gần, vì họ đã xuôi theo dòng sông từ phía Tây, và cả Thomas lẫn vị linh mục đều tự hỏi liệu toàn bộ thành phố có đang bốc cháy hay không. Khi họ lên đến đỉnh đồi, Thomas cảm thấy hổ thẹn vì sự ngây thơ của mình; thành phố lớn hơn ngọn lửa kia rất nhiều, vốn dĩ ngọn lửa ấy nằm ở bên ngoài tường thành. Một ngọn lửa đủ lớn để thiêu rụi thành phố đó hẳn sẽ sánh ngang với những lò luyện của Địa Ngục, và khói từ nó sẽ làm đen kịt cả phần dưới của những đám mây.</p>
 
-<p class="para-en">All that was burning was a wheat field, and the fire was at its end, burning itself out against the banks of the Seine. Several houses had been reduced to blackened skeletons, as had two cows. One calf lowed from a hillock, barely visible from behind the curtain of white smoke that surrounded it; the fire would spare this beast. The octet of ragged figures around it, however, would not. Already they were testing the smoking earth to see if it would burn them through the rags and bad shoes on their feet. Already they were hefting their axes and daggers. They didn’t look like farmers. Thomas scanned the fields <a id="page106"></a>and saw a pair of legs jutting from a patch of unburned wheat. Murder, then. Thomas was suddenly sure these men had set the fire. He should have waited and watched longer before they approached; but it was too late now. Several of the killers looked at the cart as it passed, but nothing in the cart could possibly interest them as much as the calf. One of them looked at Thomas, and he met the man’s gaze, not in threat, but to let him know he would fight if he had to. The man quickly assessed that they could take the cart, but not without cost. He looked back up the hillock. Now Thomas lowered his eyes in shame to remember that, had things fallen out differently, he might be standing in that group, along with Godefroy and Jacquot, waiting to carve the dead man’s calf.</p>
+<p class="para-en">All that was burning was a wheat field, and the fire was at its end, burning itself out against the banks of the Seine. Several houses had been reduced to blackened skeletons, as had two cows. One calf lowed from a hillock, barely visible from behind the curtain of white smoke that surrounded it; the fire would spare this beast. The octet of ragged figures around it, however, would not. Already they were testing the smoking earth to see if it would burn them through the rags and bad shoes on their feet. Already they were hefting their axes and daggers. They didn’t look like farmers. Thomas scanned the fields and saw a pair of legs jutting from a patch of unburned wheat. Murder, then. Thomas was suddenly sure these men had set the fire. He should have waited and watched longer before they approached; but it was too late now. Several of the killers looked at the cart as it passed, but nothing in the cart could possibly interest them as much as the calf. One of them looked at Thomas, and he met the man’s gaze, not in threat, but to let him know he would fight if he had to. The man quickly assessed that they could take the cart, but not without cost. He looked back up the hillock. Now Thomas lowered his eyes in shame to remember that, had things fallen out differently, he might be standing in that group, along with Godefroy and Jacquot, waiting to carve the dead man’s calf.</p>
 
 <p class="para-vi-sub">Tất cả những gì đang cháy chỉ là một cánh đồng lúa mì, và ngọn lửa cũng đang dần lụi tàn, tự tắt ngấm dọc theo bờ sông Seine. Vài ngôi nhà đã biến thành những bộ khung đen thui, cùng với hai con bò. Một con bê cất tiếng kêu nghé ọ từ một gò đất, gần như bị che khuất sau bức màn khói trắng bao quanh; ngọn lửa sẽ tha mạng cho con thú này. Tuy nhiên, tám bóng người rách rưới xung quanh nó thì không. Chúng đã bắt đầu thử dò dẫm trên lớp đất còn đang bốc khói xem liệu nó có làm cháy xuyên qua những thứ giẻ rách và giày dép rách nát dưới chân chúng hay không. Chúng đã bắt đầu xách rìu và dao găm lên. Trông chúng chẳng giống nông dân chút nào. Thomas đảo mắt nhìn cánh đồng và thấy một đôi chân nhô ra từ một đám lúa mì chưa bị cháy. Vậy là có án mạng. Thomas bỗng chắc chắn rằng chính những kẻ này đã phóng hỏa. Lẽ ra anh nên chờ đợi và quan sát lâu hơn trước khi đến gần; nhưng giờ thì đã quá muộn. Vài kẻ sát nhân liếc nhìn chiếc xe kéo khi nó đi qua, nhưng chẳng có gì trên xe có thể thu hút sự chú ý của chúng bằng con bê cả. Một trong số chúng nhìn Thomas, và anh đón nhận ánh mắt của tên đó, không phải để đe dọa, mà để cho hắn biết rằng anh sẽ chiến đấu nếu buộc phải làm vậy. Tên cướp nhanh chóng đánh giá rằng bọn chúng có thể cướp chiếc xe, nhưng sẽ phải trả giá đắt. Hắn quay lại nhìn lên gò đất. Giờ đây, Thomas hạ mắt xuống trong nỗi hổ thẹn khi nhớ rằng, nếu mọi chuyện diễn ra theo một hướng khác, rất có thể anh cũng đang đứng trong nhóm người đó, cùng với Godefroy và Jacquot, chờ đợi để xẻ thịt con bê của người đã khuất.</p>
 
-<p class="para-en"><em>I saw it.</em></p>
+<p class="para-en">I saw it.</p>
 
-<p class="para-vi-sub"><i>Ta đã nhìn thấy nó.</i></p>
+<p class="para-vi-sub">Ta đã nhìn thấy nó.</p>
 
-<p class="para-en"><em>What?</em></p>
+<p class="para-en">What?</p>
 
-<p class="para-vi-sub"><i>Cái gì cơ?</i></p>
+<p class="para-vi-sub">Cái gì cơ?</p>
 
-<p class="para-en"><em>Your soul.</em></p>
+<p class="para-en">Your soul.</p>
 
-<p class="para-vi-sub"><i>Linh hồn của ngươi.</i></p>
+<p class="para-vi-sub">Linh hồn của ngươi.</p>
 
 <p class="para-en">Thomas remembered the last winter with Godefroy, when his were the most feared brigands in High Normandy. In the better months they had restricted themselves to robbing merchants, particularly on the roads leading south and east toward the Champagne fairs, trundling away carts laden with food and wool on the way down and gold and spices on the way up. December came, however, with rain and sleet in its fists and breath that numbed them to their feet. Food ran scarce and their reputation now worked against them—what merchants traveled then did so under arms. Villages set watches for them and hid their grain in caves and under clever hidden doors and pits in the fields. Their very few coins and other small goods went down wells or in coffers buried under straw. They hid themselves, too, because they knew that Godefroy, whom they called “the black cat,” would stop at nothing, even torture, to learn where they hid their meager treasures.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-vi-sub">Để đáp trả, Godefroy học cách hành động lén lút.</p>
 
-<p class="para-en">Near Gisors, just before the Christmas feasts began, the brigands stopped outside a village they would all remember, though they never <a id="page107"></a>knew its name. Two men stayed with the horses; the rest waited until almost sundown and walked two miles through the woods to the most isolated farmhouse. Everyone inside was likely to be asleep; peasants slept long hours in the winter to save strength. The thieves muddied their faces and crawled on their bellies until they were close enough for Jacquot to shoot the guard dog. The windows were hung with sheepskins to keep the heat of the fire in, and the cold thieves coveted the warmth nearly as much as the food they hoped to find.</p>
+<p class="para-en">Near Gisors, just before the Christmas feasts began, the brigands stopped outside a village they would all remember, though they never knew its name. Two men stayed with the horses; the rest waited until almost sundown and walked two miles through the woods to the most isolated farmhouse. Everyone inside was likely to be asleep; peasants slept long hours in the winter to save strength. The thieves muddied their faces and crawled on their bellies until they were close enough for Jacquot to shoot the guard dog. The windows were hung with sheepskins to keep the heat of the fire in, and the cold thieves coveted the warmth nearly as much as the food they hoped to find.</p>
 
 <p class="para-vi-sub">Gần Gisors, ngay trước khi lễ Giáng sinh bắt đầu, bọn cướp dừng chân bên ngoài một ngôi làng mà tất cả bọn chúng sẽ mãi ghi nhớ, dù chẳng bao giờ biết tên nó. Hai tên ở lại trông ngựa; số còn lại chờ cho đến sát hoàng hôn rồi đi bộ hai dặm xuyên qua rừng để đến ngôi nhà nông trại hẻo lánh nhất. Mọi người bên trong có lẽ đều đã chìm vào giấc ngủ; nông dân thường ngủ rất lâu vào mùa đông để tiết kiệm sức lực. Những tên trộm bôi bùn lên mặt và bò bằng bụng cho đến khi đủ gần để Jacquot bắn hạ con chó canh gác. Các ô cửa sổ được che bằng da cừu để giữ lại hơi ấm từ lò sưởi, và những kẻ trộm đang chết cóng khao khát hơi ấm đó chẳng kém gì số thức ăn mà chúng hy vọng tìm thấy.</p>
 
@@ -50,7 +50,7 @@
 
 <p class="para-vi-sub">Godefroy nhận thấy một trong số những người trên giường là một cô gái ưa nhìn khoảng mười bốn tuổi. Có lẽ đã lấy chồng rồi. Gã túm chân lôi cô khỏi giường trong khi Pepin vẫn đang lảng vảng quanh những người còn lại với con dao lăm lăm trên tay.</p>
 
-<p class="para-en">They took the girl and the beasts out; Thomas carried the goat over his neck, and Jacquot led the calf, but the real prize was a milk cow on the other side of the house. They butchered her that night in the hills, along with the other animals, smoked the meat, and rode off before the local lord could muster sufficient men to deal with them. <a id="page108"></a>Just before they left, they let the girl stumble back into town, mostly intact on the outside.</p>
+<p class="para-en">They took the girl and the beasts out; Thomas carried the goat over his neck, and Jacquot led the calf, but the real prize was a milk cow on the other side of the house. They butchered her that night in the hills, along with the other animals, smoked the meat, and rode off before the local lord could muster sufficient men to deal with them. Just before they left, they let the girl stumble back into town, mostly intact on the outside.</p>
 
 <p class="para-vi-sub">Họ lôi cô bé và bầy súc vật ra ngoài; Thomas vác con dê trên cổ, còn Jacquot dắt con bê, nhưng món hời thực sự là một con bò sữa ở phía bên kia ngôi nhà. Đêm đó, chúng mổ thịt con bò trên đồi cùng với mấy con vật khác, xông khói thịt rồi tẩu thoát trước khi lãnh chúa địa phương kịp tập hợp đủ người để vây đánh. Ngay trước khi rời đi, bọn chúng thả cho cô bé lết về lại thị trấn, bề ngoài xem như vẫn lành lặn.</p>
 
@@ -86,19 +86,19 @@
 
 <p class="para-vi-sub">Chưa đầy sáu tháng sau, Đại Diệt Vong ập đến, cướp đi sinh mạng của hầu hết bọn trộm cướp.</p>
 
-<p class="para-en"><em>And everybody else.</em></p>
+<p class="para-en">And everybody else.</p>
 
-<p class="para-vi-sub"><i>Và cả những người khác nữa.</i></p>
+<p class="para-vi-sub">Và cả những người khác nữa.</p>
 
-<p class="para-en"><em>Nothing matters anymore.</em></p>
+<p class="para-en">Nothing matters anymore.</p>
 
-<p class="para-vi-sub"><i>Chẳng còn gì quan trọng trên đời này nữa.</i></p>
+<p class="para-vi-sub">Chẳng còn gì quan trọng trên đời này nữa.</p>
 
 <p class="para-en">Thomas shook away his ghosts and turned his eyes now to Paris. Her walls were the faintly yellowed white of bones, and her turrets stood proudly, each a lazy bowshot from its neighbor. He could see what must have been the Louvre, the king’s fortress, strong and white, cut from the same stone as the city walls. The spires of cathedrals poked at the sky, and the roofs of the shops and houses tumbled against one another. Even dead, if she was dead, Paris made a lovely corpse.</p>
 
 <p class="para-vi-sub">Thomas xua đi những bóng ma quá khứ và dời ánh nhìn về phía Paris. Những bức tường thành mang sắc trắng ngả vàng nhợt nhạt của xương cốt, các pháo đài sừng sững kiêu hãnh, mỗi tháp canh cách nhau chừng một tầm tên bắn uể oải. Anh có thể nhận ra nơi hẳn là điện Louvre, pháo đài của nhà vua, kiên cố và trắng muốt, được tạc từ cùng một loại đá với tường thành. Những ngọn tháp nhà thờ chọc thủng bầu trời, mái nhà của các cửa hiệu và nhà cửa tựa sát vào nhau. Ngay cả khi đã chết, nếu quả thực thành phố này đã chết, Paris vẫn tạo nên một thây ma kiều diễm.</p>
 
-<p class="para-en"><a id="page109"></a>And yet Thomas wished she had burned. He would have embraced any excuse to keep going, as they had been, on small roads or no roads, meeting few living souls, foraging as best they could. How long could they live like that? Until winter. But what then?</p>
+<p class="para-en">And yet Thomas wished she had burned. He would have embraced any excuse to keep going, as they had been, on small roads or no roads, meeting few living souls, foraging as best they could. How long could they live like that? Until winter. But what then?</p>
 
 <p class="para-vi-sub">Thế mà Thomas lại ước gì nó đã cháy trụi. Anh sẽ chào đón bất kỳ cái cớ nào để tiếp tục hành trình, giống như những gì họ từng làm, đi trên những con đường mòn nhỏ hoặc chẳng có đường nào, gặp gỡ rất ít sinh linh còn sống, bới móc tìm đồ ăn thức uống bất cứ khi nào có thể. Họ có thể sống như thế được bao lâu? Đến mùa đông. Nhưng rồi sau đó thì sao?</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-vi-sub">Chẳng một kẻ còn sống nào muốn đón tiếp họ, và những kẻ chết thì chẳng thèm lên tiếng.</p>
 
-<p class="para-en">They wound through the narrow, muddy streets, at turns disgusted by the filth beneath their feet and awed by the soaring spires of churches or the houses of the very rich. On some streets the houses and shops were so close they nearly touched heads together over the muddy paths, throwing everything into shadow. Some bodies, at least, <a id="page110"></a>were being picked up in tumbrils pushed mostly by desperate-looking fellows who had as much to fear from hunger as from the murderous, stale air around the dead.</p>
+<p class="para-en">They wound through the narrow, muddy streets, at turns disgusted by the filth beneath their feet and awed by the soaring spires of churches or the houses of the very rich. On some streets the houses and shops were so close they nearly touched heads together over the muddy paths, throwing everything into shadow. Some bodies, at least, were being picked up in tumbrils pushed mostly by desperate-looking fellows who had as much to fear from hunger as from the murderous, stale air around the dead.</p>
 
 <p class="para-vi-sub">Họ luồn lách qua những con đường chật hẹp, đầy bùn đất, lúc thì ghê tởm trước đống rác rưởi dưới chân, lúc lại trầm trồ trước những ngọn tháp nhà thờ vút cao hay dinh thự của giới thượng lưu giàu có. Trên một số con đường, nhà cửa và cửa hiệu san sát đến mức gần như chạm đầu vào nhau bên trên những lối đi lầy lội, phủ lên vạn vật một màn bóng râm u ám. Ít ra thì những cỗ xe chở xác cũng đang đi thu gom thi thể, do những gã có vẻ mặt tuyệt vọng đẩy đi, những kẻ sợ đói khát chẳng kém gì cái không khí chết chóc, tù đọng quanh những cỗ thi hài.</p>
 
@@ -142,7 +142,7 @@
 
 <p class="para-vi-sub">Trên hòn đảo, họ đi ngang qua những bức tường trắng kiên cố của cung điện hoàng gia, bên trên có vài cung thủ đang cười lớn, bắn tên vào thứ gì đó ở phố St. Barthélemy. Khi đi qua một đống thùng rượu trống rỗng đã đổ nát, ngay gần nhà thờ St. Barthélemy, họ nhìn thấy tấm bia ngắm bắn; một xác chết béo múp míp bị cắm tới ba, bốn mươi mũi tên trên người, và còn nhiều mũi nữa cắm xuống bùn hoặc nằm rải rác với phần đầu nhọn bị gãy do đập vào bức tường đá phía sau.</p>
 
-<p class="para-en"><a id="page111"></a>They would have to cross the field of fire.</p>
+<p class="para-en">They would have to cross the field of fire.</p>
 
 <p class="para-vi-sub">Họ sẽ phải băng qua tầm sát thương ấy.</p>
 
@@ -154,9 +154,9 @@
 
 <p class="para-vi-sub">“Bọn tao không bắn linh mục,” một kẻ trong số đó đáp.</p>
 
-<p class="para-en">“Well, <em>he</em> doesn’t,” said the other.</p>
+<p class="para-en">“Well, he doesn’t,” said the other.</p>
 
-<p class="para-vi-sub">“À thì, <i>hắn</i> thì không,” kẻ kia tiếp lời.</p>
+<p class="para-vi-sub">“À thì, hắn thì không,” kẻ kia tiếp lời.</p>
 
 <p class="para-en">“Hey, Father! Make a circle with your arms! A big circle!”</p>
 
@@ -238,11 +238,11 @@
 
 <p class="para-vi-sub">“Tao làm việc hiệu quả hơn khi có vật cản.”</p>
 
-<p class="para-en">Past the palace and St. Barthélemy church, they went right on rue de La Vielle Draperie, and then right on La Juiverie, named for Jews now absent, having been expelled from the city yet again nearly thirty years before. Soon, seeing the twin square towers of Nôtre Dame off to his left, Thomas tilted his head back and spat toward the great cathedral, <a id="page112"></a>watching the white spittle arc and separate in the air; he imagined it was a stone tossed by a trebuchet and that it would knock a hole in the gorgeous round window over the doors, but it just fell in the mud.</p>
+<p class="para-en">Past the palace and St. Barthélemy church, they went right on rue de La Vielle Draperie, and then right on La Juiverie, named for Jews now absent, having been expelled from the city yet again nearly thirty years before. Soon, seeing the twin square towers of Nôtre Dame off to his left, Thomas tilted his head back and spat toward the great cathedral, watching the white spittle arc and separate in the air; he imagined it was a stone tossed by a trebuchet and that it would knock a hole in the gorgeous round window over the doors, but it just fell in the mud.</p>
 
 <p class="para-vi-sub">Vượt qua cung điện và nhà thờ St. Barthélemy, họ rẽ phải vào phố de La Vielle Draperie, rồi lại rẽ phải vào phố La Juiverie, cái tên được đặt theo những người Do Thái giờ đây không còn bóng dáng, bởi họ đã bị trục xuất khỏi thành phố này một lần nữa từ gần ba mươi năm trước. Chẳng mấy chốc, nhìn thấy hai ngọn tháp vuông của nhà thờ Nôtre Dame ở phía bên trái, Thomas ngẩng đầu lên và nhổ một bãi nước bọt về phía nhà thờ lớn, nhìn vòi nước bọt trắng đục vạch thành một đường cong rồi tan ra trong không khí; gã tưởng tượng đó là một hòn đá do máy bắn đá phóng đi và nó sẽ đập thủng một lỗ trên ô cửa sổ tròn lộng lẫy ngay phía trên cửa ra vào, nhưng bãi nước bọt ấy chỉ rơi tõm xuống vũng bùn.</p>
 
-<p class="para-en">They were coming to the southern part of Île de la Cité, where the Hôtel Dieu stood near the Petit Pont that led to the Latin Quarter. The Hôtel-Dieu would have let any poor travelers stay one night, as was its custom, had the great hospital not been overwhelmed with those dying of plague. A staggering heap of bodies lay outside awaiting removal, two of them <em>filles blanches</em>, young nuns in white who had been taking care of the sick. A glimpse through an open door revealed a hell of vomiting, coughing, and sobbing with a very few wretched figures in white trying to ease the torments of far, far too many.</p>
+<p class="para-en">They were coming to the southern part of Île de la Cité, where the Hôtel Dieu stood near the Petit Pont that led to the Latin Quarter. The Hôtel-Dieu would have let any poor travelers stay one night, as was its custom, had the great hospital not been overwhelmed with those dying of plague. A staggering heap of bodies lay outside awaiting removal, two of them filles blanches, young nuns in white who had been taking care of the sick. A glimpse through an open door revealed a hell of vomiting, coughing, and sobbing with a very few wretched figures in white trying to ease the torments of far, far too many.</p>
 
 <p class="para-vi-sub">Họ đang tiến đến khu vực phía nam của Île de la Cité, nơi Bệnh viện Hôtel-Dieu tọa lạc gần cây cầu Petit Pont dẫn sang Khu phố La Tinh. Bệnh viện Hôtel-Dieu vốn sẵn lòng cho bất kỳ lữ khách nghèo nào trọ lại một đêm theo phong tục, ngặt nỗi bệnh viện lớn này đang quá tải bởi những người chết vì dịch hạch. Một đống thi thể chất cao như núi nằm bên ngoài đang chờ được mang đi, trong đó có hai thi thể là nữ tu áo trắng, những cô gái trẻ mặc tu phục trắng đã tận tụy chăm sóc người bệnh. Liếc nhìn qua cánh cửa đang mở rộng, người ta có thể thấy một khung cảnh địa ngục tràn ngập tiếng nôn mửa, ho hắng và tiếng khóc nức nở, với vô số những bóng hình tiều tụy mặc áo trắng đang chật vật tìm cách xoa dịu nỗi thống khổ cho một lượng bệnh nhân quá đỗi, quá đỗi đông đúc.</p>
 
@@ -262,7 +262,7 @@
 
 <p class="para-vi-sub">Nhưng người phụ nữ thì có.</p>
 
-<p class="para-en">They wheeled along in the butchers’ quarter, where the mud stank with the blood and viscera of slaughtered animals, a few of which were <a id="page113"></a>still being butchered despite the paralysis that gripped so much of the city. A man grinned a nearly toothless grin at them as he cut the throat of a suckling pig he had just tied up by its feet, its blood jetting on his stiff leather apron and into the pail he had placed beneath it. He called out the price of the pig, but they couldn’t hear it over its squeals. The men of rue de La Bucherie seemed to be doing better than the dyers on Gobelins, just nearby, where nothing was moving at all.</p>
+<p class="para-en">They wheeled along in the butchers’ quarter, where the mud stank with the blood and viscera of slaughtered animals, a few of which were still being butchered despite the paralysis that gripped so much of the city. A man grinned a nearly toothless grin at them as he cut the throat of a suckling pig he had just tied up by its feet, its blood jetting on his stiff leather apron and into the pail he had placed beneath it. He called out the price of the pig, but they couldn’t hear it over its squeals. The men of rue de La Bucherie seemed to be doing better than the dyers on Gobelins, just nearby, where nothing was moving at all.</p>
 
 <p class="para-vi-sub">Họ lê bánh xe qua khu lò mổ, nơi bùn đất nồng nặc mùi máu cùng nội tạng của những con súc vật bị giết thịt, dẫu cho thành phố đang chìm trong tê liệt thì vẫn có vài con đang bị xẻ thịt. Một gã cười toe toét không còn mấy cái răng về phía họ trong lúc cắt cổ một con lợn sữa vừa bị trói quặt chân, máu phun xối xả lên chiếc tạp dề da cứng ngắc và vào cái xô gã đặt bên dưới. Gã hét lớn giá tiền con lợn, nhưng họ chẳng thể nghe thấy gì giữa tiếng kêu eng éc của nó. Đám thợ ở phố La Bucherie có vẻ khá khẩm hơn những thợ nhuộm ở vùng Gobelins sát bên, nơi mọi thứ hoàn toàn chết lặng.</p>
 
@@ -286,7 +286,7 @@
 
 <p class="para-vi-sub">Thomas nhận thấy người phụ nữ là một kẻ vạm vỡ với đôi bàn tay cùng bờ vai lực lưỡng, đủ lớn tuổi để gã thanh niên đứng gần có thể là con trai bà, và rằng bà đang đội một chiếc mũ đẹp, một chiếc mũ nỉ vành chụp rộng của kẻ giàu có đính ghim vàng. Chắc chắn thành phố này có nhiều mũ đẹp hơn là những cái đầu còn sống để đội chúng, và xét đến một mức độ nào đó thì việc vơ vét chúng khó lòng bị coi là cướp bóc nữa.</p>
 
-<p class="para-en">The girl noticed her eyes. They seemed kind to her, despite the woman’s rough look. Out of nowhere, she wanted the woman to hold her. It had been so long since she had smelled a woman’s skin that even a dirty woman’s embrace would have been welcome. She was still disturbed by the sight of the dead young nuns near the hospital and she wanted a woman to hold her and tell her that the whole world didn’t yet belong to Death, masculine Death with his hourglass and his holes for eyes. Death with his bony arms that only embraced to <a id="page114"></a>take you away, like a lamb from market. Like the pig on La Bucherie. How did Heaven come into all of this? Heaven was life, not death. Heaven was a woman holding your head in the crook of her arm and looking down at you. Heaven was a warm hand on your cheek and the smell of soup with garlic on the fire.</p>
+<p class="para-en">The girl noticed her eyes. They seemed kind to her, despite the woman’s rough look. Out of nowhere, she wanted the woman to hold her. It had been so long since she had smelled a woman’s skin that even a dirty woman’s embrace would have been welcome. She was still disturbed by the sight of the dead young nuns near the hospital and she wanted a woman to hold her and tell her that the whole world didn’t yet belong to Death, masculine Death with his hourglass and his holes for eyes. Death with his bony arms that only embraced to take you away, like a lamb from market. Like the pig on La Bucherie. How did Heaven come into all of this? Heaven was life, not death. Heaven was a woman holding your head in the crook of her arm and looking down at you. Heaven was a warm hand on your cheek and the smell of soup with garlic on the fire.</p>
 
 <p class="para-vi-sub">Cô bé để ý đến đôi mắt bà. Chúng có vẻ hiền từ, dẫu cho diện mạo người phụ nữ này trông bặm trợn. Chẳng hiểu sao, cô bé lại muốn được người phụ nữ ấy ôm lấy. Đã lâu lắm rồi cô bé không ngửi thấy mùi da thịt của một người phụ nữ, đến nỗi ngay cả cái ôm của một ả đàn bà bẩn thỉu cũng trở nên đáng quý. Cô bé vẫn còn hoảng loạn trước cảnh tượng những nữ tu trẻ tuổi đã chết gần bệnh viện, và cô bé muốn có một người phụ nữ ôm lấy mình, bảo rằng toàn bộ thế giới này vẫn chưa thuộc về Thần Chết, vị Thần Chết nam tính với chiếc đồng hồ cát cùng những hốc mắt trống hoác. Thần Chết với đôi tay xương xẩu chỉ ôm ấp để đưa con người đi xa, như một con cừu bị lùa khỏi chợ. Như con lợn ở phố La Bucherie. Thiên Đàng dính líu gì đến tất cả những chuyện này? Thiên Đàng là sự sống, chứ không phải cái chết. Thiên Đàng là một người phụ nữ ôm lấy đầu bạn vào khuỷu tay và cúi xuống nhìn bạn. Thiên Đàng là một bàn tay ấm áp áp lên má bạn và mùi súp tỏi đun trên bếp.</p>
 
@@ -336,7 +336,7 @@
 
 <p class="para-en">“Ten deniers.”</p>
 
-<p class="para-vi-sub">“Mười đồng denier<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn9">[9]</a>.”</p>
+<p class="para-vi-sub">“Mười đồng denier[9].”</p>
 
 <p class="para-en">“Ha! That’s a country priest for you,” she said to the young man, whose nails didn’t really look any cleaner for all his knifing under them. “First time in the big city, eh?”</p>
 
@@ -358,7 +358,7 @@
 
 <p class="para-vi-sub">Ả nheo mắt lại và hất ngón cái về phía gã, nhưng ánh mắt vẫn nhìn vị linh mục.</p>
 
-<p class="para-en"><a id="page115"></a>“I don’t like him.”</p>
+<p class="para-en">“I don’t like him.”</p>
 
 <p class="para-vi-sub">“Ta không ưa hắn.”</p>
 
@@ -454,7 +454,7 @@
 
 <p class="para-vi-sub">Cúm rúm vì thèm thuồng, cô bé cất tiếng hỏi: “Bà còn chút gừng nào nữa không?”</p>
 
-<p class="para-en"><a id="page116"></a>The woman shook her head and flicked her hand at them.</p>
+<p class="para-en">The woman shook her head and flicked her hand at them.</p>
 
 <p class="para-vi-sub">Ả ta lắc đầu rồi phẩy tay xua họ đi.</p>
 
@@ -502,13 +502,13 @@
 
 <p class="para-vi-sub">“Chúng mày đang giấu mụ ta,” Thomas nói, dù chính gã cũng chẳng tin điều đó. Mụ già lừa đảo chẳng dính dáng gì đến những con người này cả. Số tiền đã mất tăm rồi.</p>
 
-<p class="para-en"><a id="page117"></a>A thin-limbed man with a strangely protruding belly came from upstairs with a sword, but he froze, too.</p>
+<p class="para-en">A thin-limbed man with a strangely protruding belly came from upstairs with a sword, but he froze, too.</p>
 
 <p class="para-vi-sub">Một người đàn ông gầy guộc với cái bụng phình to kỳ dị từ trên lầu bước xuống, lăm lăm thanh gươm trên tay, nhưng rồi anh ta cũng khựng lại chết trân.</p>
 
-<p class="para-en"><em>Rob them! Make them give you what they have!</em></p>
+<p class="para-en">Rob them! Make them give you what they have!</p>
 
-<p class="para-vi-sub"><i>Cướp sạch chúng nó đi! Bắt chúng giao hết những gì có trong tay!</i></p>
+<p class="para-vi-sub">Cướp sạch chúng nó đi! Bắt chúng giao hết những gì có trong tay!</p>
 
 <p class="para-en">Thomas shook that wicked voice out of his head.</p>
 
@@ -518,9 +518,9 @@
 
 <p class="para-vi-sub">Người đàn ông trên cầu thang khua kiếm về phía Thomas, nhưng vì quá sợ hãi nên anh ta vẫn giữ khoảng cách an toàn, chẳng dám tiến lên đánh hay chịu đòn.</p>
 
-<p class="para-en">“Get out!” said the man with the cleaver, his face very pale now. “Get <em>out</em>!” said the mother, still holding the hurt child. The woman at the pot threw a ladleful of hot, oily pottage at him.</p>
+<p class="para-en">“Get out!” said the man with the cleaver, his face very pale now. “Get out!” said the mother, still holding the hurt child. The woman at the pot threw a ladleful of hot, oily pottage at him.</p>
 
-<p class="para-vi-sub">“Cút ra!” gã cầm dao chặt thịt quát, khuôn mặt tái mét. “Cút <i>ngay</i>!” người mẹ thét lên, vẫn ôm chặt đứa con đang khóc thét. Người phụ nữ đứng cạnh nồi cháo liền hắt cả vá cháo nóng bỏng, đầy váng mỡ vào người gã.</p>
+<p class="para-vi-sub">“Cút ra!” gã cầm dao chặt thịt quát, khuôn mặt tái mét. “Cút ngay!” người mẹ thét lên, vẫn ôm chặt đứa con đang khóc thét. Người phụ nữ đứng cạnh nồi cháo liền hắt cả vá cháo nóng bỏng, đầy váng mỡ vào người gã.</p>
 
 <p class="para-en">Thomas could see in the young father’s eyes that he was working himself up to take a real swing at him with the cleaver, and there would be blood if that happened. A lot of blood.</p>
 
@@ -578,7 +578,7 @@
 
 <p class="para-vi-sub">“Nếu nó làm con cười được, thì xem như nó không hoàn toàn vô giá trị,” ông mỉm cười đáp lại.</p>
 
-<p class="para-en"><a id="page118"></a>“I’m glad you two are so goddamned happy,” Thomas said.</p>
+<p class="para-en">“I’m glad you two are so goddamned happy,” Thomas said.</p>
 
 <p class="para-vi-sub">“Tao mừng là hai người đang vui sướng ra mặt thế đấy,” Thomas chì chiết.</p>
 
@@ -618,51 +618,51 @@
 
 <p class="para-vi-sub">Cô bé cất giọng hát.</p>
 
-<p class="para-en"><em>Hey little robin, hey-ho</em></p>
+<p class="para-en">Hey little robin, hey-ho</p>
 
-<p class="para-vi-sub"><i>Này chim cổ đỏ nhỏ xinh, hây-hô</i></p>
+<p class="para-vi-sub">Này chim cổ đỏ nhỏ xinh, hây-hô</p>
 
-<p class="para-en"><em>Do you sing for me, hey-ho?</em></p>
+<p class="para-en">Do you sing for me, hey-ho?</p>
 
-<p class="para-vi-sub"><i>Có cất lời ca vì ta, hây-hô?</i></p>
+<p class="para-vi-sub">Có cất lời ca vì ta, hây-hô?</p>
 
-<p class="para-en"><em>In your Easter best</em></p>
+<p class="para-en">In your Easter best</p>
 
-<p class="para-vi-sub"><i>Trong bộ xiêm y Phục Sinh</i></p>
+<p class="para-vi-sub">Trong bộ xiêm y Phục Sinh</p>
 
-<p class="para-en"><em>With your pretty red chest,</em></p>
+<p class="para-en">With your pretty red chest,</p>
 
-<p class="para-vi-sub"><i>Cùng chiếc ngực hồng xinh xinh,</i></p>
+<p class="para-vi-sub">Cùng chiếc ngực hồng xinh xinh,</p>
 
-<p class="para-en"><em>Do you sing for me, hey-ho?</em></p>
+<p class="para-en">Do you sing for me, hey-ho?</p>
 
-<p class="para-vi-sub"><i>Có cất lời ca vì ta, hây-hô?</i></p>
+<p class="para-vi-sub">Có cất lời ca vì ta, hây-hô?</p>
 
-<p class="para-en"><em>Hey little robin sing-hey</em></p>
+<p class="para-en">Hey little robin sing-hey</p>
 
-<p class="para-vi-sub"><i>Này chim cổ đỏ hát vang, hây-hò</i></p>
+<p class="para-vi-sub">Này chim cổ đỏ hát vang, hây-hò</p>
 
-<p class="para-en"><em>Do you fly to your nest, sing-hey?</em></p>
+<p class="para-en">Do you fly to your nest, sing-hey?</p>
 
-<p class="para-vi-sub"><i>Có bay về tổ ngập tràn, hây-hò?</i></p>
+<p class="para-vi-sub">Có bay về tổ ngập tràn, hây-hò?</p>
 
-<p class="para-en"><em>To your house of sticks</em></p>
+<p class="para-en">To your house of sticks</p>
 
-<p class="para-vi-sub"><i>Về mái nhà bằng cành cây</i></p>
+<p class="para-vi-sub">Về mái nhà bằng cành cây</p>
 
-<p class="para-en"><em>And your pretty little chicks,</em></p>
+<p class="para-en">And your pretty little chicks,</p>
 
-<p class="para-vi-sub"><i>Cùng mấy đứa con thơ ngây,</i></p>
+<p class="para-vi-sub">Cùng mấy đứa con thơ ngây,</p>
 
-<p class="para-en"><em>Do you fly to your nest, sing-hey?</em></p>
+<p class="para-en">Do you fly to your nest, sing-hey?</p>
 
-<p class="para-vi-sub"><i>Có bay về tổ ngập tràn, hây-hò?</i></p>
+<p class="para-vi-sub">Có bay về tổ ngập tràn, hây-hò?</p>
 
 <p class="para-en">“Hey down there!” said a man from a second-floor window. “I know that song. Are you from Normandy?”</p>
 
 <p class="para-vi-sub">“Này người ở dưới kia!” một người đàn ông cất giọng từ cửa sổ tầng hai. “Ta biết bài hát đó. Các người là người vùng Normandy à?”</p>
 
-<p class="para-en"><a id="page119"></a>The girl nodded.</p>
+<p class="para-en">The girl nodded.</p>
 
 <p class="para-vi-sub">Cô bé gật đầu.</p>
 
@@ -746,7 +746,7 @@
 
 <p class="para-vi-sub">Jehan chuyền chiếc bát đi quanh bàn. Thứ rượu ấy thắp lên một ngọn lửa nhỏ ấm áp trong dạ dày họ.</p>
 
-<p class="para-en"><a id="page120"></a>The priest set in praising the artisan’s figures. Thomas, who recognized their long-headed style, said “Did you make the Christ on this side of the bridge?”</p>
+<p class="para-en">The priest set in praising the artisan’s figures. Thomas, who recognized their long-headed style, said “Did you make the Christ on this side of the bridge?”</p>
 
 <p class="para-vi-sub">Vị linh mục bắt đầu cất lời ca ngợi những tác phẩm của người thợ thủ công. Thomas, kẻ vốn nhận ra phong cách tạc đầu dài đặc trưng ấy, bèn cất tiếng hỏi: “Có phải anh đã làm bức tượng Chúa Kitô ở phía bên kia cầu không?”</p>
 
@@ -798,7 +798,7 @@
 
 <p class="para-vi-sub">“Chúng ta không biết. Chẳng ai nhìn thấy chúng mà còn sống sót cả.”</p>
 
-<p class="para-en">Jehan’s wife, Annette, brought out stale bread trenchers with the last of their thin soup. “Don’t be shy about finishing it; we’ve had ours,” she said. Overcome with emotion at her kindness and her plain, handsome face, the girl kissed her hand. The wife stroked her hair. The girl suddenly felt the hurt in the woman, how it mirrored her own hurt. One had lost a daughter, the other a mother. Each saw a flicker of the dead one. It was bitter but very sweet and good. Annette took her <a id="page121"></a>head into her bosom, tentatively at first, but then with great emotion, and cried down into her hair.</p>
+<p class="para-en">Jehan’s wife, Annette, brought out stale bread trenchers with the last of their thin soup. “Don’t be shy about finishing it; we’ve had ours,” she said. Overcome with emotion at her kindness and her plain, handsome face, the girl kissed her hand. The wife stroked her hair. The girl suddenly felt the hurt in the woman, how it mirrored her own hurt. One had lost a daughter, the other a mother. Each saw a flicker of the dead one. It was bitter but very sweet and good. Annette took her head into her bosom, tentatively at first, but then with great emotion, and cried down into her hair.</p>
 
 <p class="para-vi-sub">Vợ của Jehan, Annette, bưng ra mấy lát bánh mì khô cứng kèm theo phần súp loãng cuối cùng của họ. “Đừng ngại ăn cho sạch nhé; chúng tôi đã ăn phần của mình rồi,” chị nói. Bị dằn vặt bởi cảm xúc dâng trào trước sự tử tế cùng gương mặt mộc mạc mà hiền hậu của người phụ nữ, cô bé liền cúi xuống hôn lên tay chị. Annette dịu dàng vuốt tóc cô bé. Đứa trẻ bỗng cảm nhận được nỗi đau ẩn giấu trong lòng người phụ nữ ấy, nỗi đau sao mà giống hệt nỗi đau của chính mình đến thế. Một người vừa mất đi đứa con gái, người kia vừa mất đi người mẹ. Cả hai đều tìm thấy bóng dáng người thân đã khuất lấp ló ở đối phương. Cảm giác ấy cay đắng nhường nào, nhưng cũng thật ngọt ngào và tốt đẹp biết bao. Annette kéo đầu cô bé vào ngực mình, thoạt đầu còn ngập ngừng, nhưng rồi siết chặt lại với nỗi xúc động khôn tả, và bật khóc thấm đẫm vào mái tóc em.</p>
 
@@ -830,9 +830,9 @@
 
 <p class="para-vi-sub">Vị linh mục và Thomas đưa mắt nhìn nhau, cả hai cùng đang nghĩ đến một điều.</p>
 
-<p class="para-en"><em>She’s home. This is her home now.</em></p>
+<p class="para-en">She’s home. This is her home now.</p>
 
-<p class="para-vi-sub"><i>Con bé đã về nhà. Đây chính là mái nhà của con bé từ nay về sau.</i></p>
+<p class="para-vi-sub">Con bé đã về nhà. Đây chính là mái nhà của con bé từ nay về sau.</p>
 
 <p class="para-en">When the men were all settled on the tightly packed dirt floor, Jehan spoke to them in a whisper.</p>
 
@@ -862,7 +862,7 @@
 
 <p class="para-vi-sub">“Sao cô ta lại chắc chắn đó là đá? Biết đâu bọn chúng chỉ là lũ trộm cắp.”</p>
 
-<p class="para-en"><a id="page122"></a>“There was stone dust and bits of stone in the house from where Humbert’s son tried to fight them. And I reckon you could tell a stone man from a man of flesh even in the dark. And what thieves bite people to death?”</p>
+<p class="para-en">“There was stone dust and bits of stone in the house from where Humbert’s son tried to fight them. And I reckon you could tell a stone man from a man of flesh even in the dark. And what thieves bite people to death?”</p>
 
 <p class="para-vi-sub">“Trong nhà có bụi đá và những mảnh đá vương vãi từ chỗ con trai Humbert cố gắng chống trả bọn chúng. Và tôi đoán rằng ngài có thể phân biệt được một gã người đá với một kẻ bằng xương bằng thịt ngay cả trong bóng tối. Lại có quân trộm cắp nào cắn người đến chết chứ?”</p>
 
@@ -918,7 +918,7 @@
 
 <p class="para-vi-sub">“Đâu?”</p>
 
-<p class="para-en"><a id="page123"></a>“Hadn’t thought about it yet.”</p>
+<p class="para-en">“Hadn’t thought about it yet.”</p>
 
 <p class="para-vi-sub">“Tôi chưa nghĩ đến.”</p>
 
@@ -990,7 +990,7 @@
 
 <p class="para-vi-sub">“Ngài… ngài đã bị rút phép thông công thật sao?”</p>
 
-<p class="para-en">Thomas nodded, then stood up from the floor without the use of his hands, as a fit young squire might have; as if his anger made him youthful. With his brow creased and his eyes set belligerently he <a id="page124"></a>looked thirty, not forty. He looked like figures of Mars. Or Lucifer. He got his sword and sharpening stone and squatted nimbly back on his heels.</p>
+<p class="para-en">Thomas nodded, then stood up from the floor without the use of his hands, as a fit young squire might have; as if his anger made him youthful. With his brow creased and his eyes set belligerently he looked thirty, not forty. He looked like figures of Mars. Or Lucifer. He got his sword and sharpening stone and squatted nimbly back on his heels.</p>
 
 <p class="para-vi-sub">Thomas gật đầu, rồi đứng phắt dậy từ dưới sàn mà không cần dùng đến tay để chống, giống như một gã cận vệ trẻ tuổi khỏe mạnh; cứ như thể sự tức giận đã mang lại cho anh vẻ trẻ trung. Với đôi mày cau lại và ánh mắt đầy vẻ hiếu chiến, trông anh chỉ mới ba mươi chứ không phải bốn mươi tuổi. Trông anh hệt như bức tượng của vị thần chiến tranh Mars. Hoặc Lucifer. Anh với lấy thanh kiếm cùng hòn đá mài rồi lẹ làng ngồi xổm xuống trên đôi gót chân.</p>
 

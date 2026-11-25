@@ -1,6 +1,6 @@
 *Phần V*
 
-# Chương Bốn Mươi: Về Sự Giáng Lâm CủaĐạo Binh Thiên Đàng
+# Chương Bốn Mươi: Về Sự Giáng Lâm Của Đạo Binh Thiên Đàng
 
 <p class="para-en">Robert Hanicotte shook his head.</p>
 
@@ -22,11 +22,11 @@
 
 <p class="para-vi-sub">Một thứ quái thai ghê tởm đang đuổi theo họ.</p>
 
-<p class="para-en"><em>So that’s what was in the Jewish quarter.</em></p>
+<p class="para-en">So that’s what was in the Jewish quarter.</p>
 
-<p class="para-vi-sub"><i>Hóa ra đó là thứ nằm trong khu người Do Thái.</i></p>
+<p class="para-vi-sub">Hóa ra đó là thứ nằm trong khu người Do Thái.</p>
 
-<p class="para-en">A surge of corpses squeezed into the courtyard, not separately; they moved as one thing. Once inside, it re-formed itself. Four legs, or three, at its pleasure, composed entirely of stacked corpses. It moved around the courtyard gathering up fleeing people with its horrid mouth. It was fast. Human ribs as teeth. A light in the middle of it its sentience. When the bodies that formed the ends of its legs wore out, it left them behind and newer ones moved down, upside down, their arms clutching at whatever it wanted clutched at, their backs and chests taking its weight, unmindful of their broken necks. It fed <a id="page397"></a>found bodies into itself, or killed living ones. All manner of dead seethed in its frame; Jews and Christians, soldiers and midwives, the clothed and the nude; even a woman with a stag’s head turned in the top of a limb, waiting her turn to be moved to the end to clutch at others and bear weight.</p>
+<p class="para-en">A surge of corpses squeezed into the courtyard, not separately; they moved as one thing. Once inside, it re-formed itself. Four legs, or three, at its pleasure, composed entirely of stacked corpses. It moved around the courtyard gathering up fleeing people with its horrid mouth. It was fast. Human ribs as teeth. A light in the middle of it its sentience. When the bodies that formed the ends of its legs wore out, it left them behind and newer ones moved down, upside down, their arms clutching at whatever it wanted clutched at, their backs and chests taking its weight, unmindful of their broken necks. It fed found bodies into itself, or killed living ones. All manner of dead seethed in its frame; Jews and Christians, soldiers and midwives, the clothed and the nude; even a woman with a stag’s head turned in the top of a limb, waiting her turn to be moved to the end to clutch at others and bear weight.</p>
 
 <p class="para-vi-sub">Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó; người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân; thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.</p>
 
@@ -34,9 +34,9 @@
 
 <p class="para-vi-sub">Tiếng hét của Robert chuyển thành tiếng cười.</p>
 
-<p class="para-en"><em>Oh this is good this is really good Hell is here and here is its cavalry!</em></p>
+<p class="para-en">Oh this is good this is really good Hell is here and here is its cavalry!</p>
 
-<p class="para-vi-sub"><i>Ồ, thế này thì tuyệt quá, tuyệt thật đấy, Địa Ngục đã ở ngay đây và đây chính là kỵ binh của nó!</i></p>
+<p class="para-vi-sub">Ồ, thế này thì tuyệt quá, tuyệt thật đấy, Địa Ngục đã ở ngay đây và đây chính là kỵ binh của nó!</p>
 
 <p class="para-en">Off to his left, devils the size of towers killed soldiers.</p>
 
@@ -46,9 +46,9 @@
 
 <p class="para-vi-sub">Anh thà đối đầu với bọn chúng còn hơn là phải giáp mặt với sự phỉ báng sống động này.</p>
 
-<p class="para-en"><em>No. I must run! I must live!</em></p>
+<p class="para-en">No. I must run! I must live!</p>
 
-<p class="para-vi-sub"><i>Không. Mình phải chạy! Mình phải sống!</i></p>
+<p class="para-vi-sub">Không. Mình phải chạy! Mình phải sống!</p>
 
 <p class="para-en">He ran with others, trying to get into the chapel, but the door was barred. Stone angels and devils looked impassively from the arch.</p>
 
@@ -114,7 +114,7 @@
 
 <p class="para-vi-sub">Một luồng ánh sáng phát ra từ người cô bé.</p>
 
-<p class="para-en"><a id="page398"></a>It shone into the sky, up and up, as warm and heartbreaking as the first finger of dawn.</p>
+<p class="para-en">It shone into the sky, up and up, as warm and heartbreaking as the first finger of dawn.</p>
 
 <p class="para-vi-sub">Nó chiếu rọi lên bầu trời, càng lúc càng vươn lên cao, ấm áp và bóp nghẹt lồng ngực chẳng khác nào tia nắng đầu tiên của buổi bình minh.</p>
 
@@ -130,7 +130,7 @@
 
 <p class="para-vi-sub">Đó không phải là cánh của Delphine.</p>
 
-<p class="para-en">It came <em>through</em> her.</p>
+<p class="para-en">It came through her.</p>
 
 <p class="para-vi-sub">Nó trồi lên xuyên qua thể xác cô bé.</p>
 
@@ -162,9 +162,9 @@
 
 <p class="para-vi-sub">Vị thiên thần này là một trong những đấng hùng mạnh nhất.</p>
 
-<p class="para-en"><em>Zephon</em></p>
+<p class="para-en">Zephon</p>
 
-<p class="para-vi-sub"><i>Zephon</i></p>
+<p class="para-vi-sub">Zephon</p>
 
 <p class="para-en">Muscled and without need of muscle, ancient and exuberantly youthful, full again of the heat of stars and the patience of pushing mountains.</p>
 
@@ -182,9 +182,9 @@
 
 <p class="para-vi-sub">Một vị thiên sứ khác xuất hiện.</p>
 
-<p class="para-en"><em>Uriel</em></p>
+<p class="para-en">Uriel</p>
 
-<p class="para-vi-sub"><i>Uriel</i></p>
+<p class="para-vi-sub">Uriel</p>
 
 <p class="para-en">Its name in Robert’s head as beautiful as a lost lover’s name.</p>
 
@@ -214,17 +214,17 @@
 
 <p class="para-vi-sub">Nhà nguyện được mang tên ngài.</p>
 
-<p class="para-en"><a id="page399"></a><em>St. Michel</em></p>
+<p class="para-en">St. Michel</p>
 
-<p class="para-vi-sub"><i>Thánh Michael</i></p>
+<p class="para-vi-sub">Thánh Michael</p>
 
 <p class="para-en">Robert could not see it where it landed, but he saw it fly brilliantly past on white eagle’s wings the size of sails, prisms in its wake, prisms of new colors that made the old ones look gray.</p>
 
 <p class="para-vi-sub">Robert không thể nhìn thấy vị thiên thần ở vị trí ngài hạ xuống, nhưng anh thấy ngài bay vụt qua với đôi cánh đại bàng trắng to lớn như những cánh buồm, để lại phía sau những lăng kính ánh sáng, những lăng kính mang sắc màu mới khiến cho những màu sắc cũ trở nên xám xịt.</p>
 
-<p class="para-en"><em>Michael I’m seeing the archangel Michael.</em></p>
+<p class="para-en">Michael I’m seeing the archangel Michael.</p>
 
-<p class="para-vi-sub"><i>Michael, ta đang nhìn thấy Tổng lãnh thiên thần Michael.</i></p>
+<p class="para-vi-sub">Michael, ta đang nhìn thấy Tổng lãnh thiên thần Michael.</p>
 
 <p class="para-en">It sang from its place on the roof, and it was the most beautiful thing Robert had ever heard. Now those who had survived in the courtyard made a noise of relief and thanks, a hoarse shout that lay beyond the power of words to contain. Some clasped hands and knelt, crying; some embraced one another.</p>
 
@@ -278,15 +278,15 @@
 
 <p class="para-vi-sub">Anh cứ nghĩ đó là tay của Matthieu.</p>
 
-<p class="para-en"><em>I’m sorry, Robert-of-the-bushes.</em></p>
+<p class="para-en">I’m sorry, Robert-of-the-bushes.</p>
 
-<p class="para-vi-sub"><i>Ta xin lỗi, Robert-của-những-bụi-cây.</i></p>
+<p class="para-vi-sub">Ta xin lỗi, Robert-của-những-bụi-cây.</p>
 
-<p class="para-en"><em>I’m sorry.</em></p>
+<p class="para-en">I’m sorry.</p>
 
-<p class="para-vi-sub"><i>Ta xin lỗi.</i></p>
+<p class="para-vi-sub">Ta xin lỗi.</p>
 
-<p class="para-en">The light of them was so bright it made a wildly careening amber day of sorts all over the city. Maître de Chauliac watched what he could of it from the windows of the pope’s study, the pope himself raving that this was his fault, ordering his ermines burned. Ha! Who could carry all of them, enough of them to carpet the palace, and what would <a id="page400"></a>they be burned with? The candles, hearth, and brazier were out, so the men and women in this room huddled together in panting near-darkness, striped at times by lights from outside swinging as though on pendulums. The doctor ordered his men to keep the pontiff here, in this smallish room in the Tower of Angels. The singing from the roof had given him the idea that it, at least, might not fall.</p>
+<p class="para-en">The light of them was so bright it made a wildly careening amber day of sorts all over the city. Maître de Chauliac watched what he could of it from the windows of the pope’s study, the pope himself raving that this was his fault, ordering his ermines burned. Ha! Who could carry all of them, enough of them to carpet the palace, and what would they be burned with? The candles, hearth, and brazier were out, so the men and women in this room huddled together in panting near-darkness, striped at times by lights from outside swinging as though on pendulums. The doctor ordered his men to keep the pontiff here, in this smallish room in the Tower of Angels. The singing from the roof had given him the idea that it, at least, might not fall.</p>
 
 <p class="para-vi-sub">Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà! Ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.</p>
 

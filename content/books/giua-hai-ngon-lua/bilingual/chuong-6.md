@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Năm: Bàn về Con vậttrong Vũng Lầy
+# Chương Năm: Bàn về Con vật trong Vũng Lầy
 
 <p class="para-en">Thomas slept poorly; the wine had given him a burning stomach, and when he slept he dreamed of wading in mucky water, looking for things he had dropped. He gave up at first light, still belching sour wine, and began to put his armor on.</p>
 
@@ -10,7 +10,7 @@
 
 <p class="para-vi-sub">“Chúa ơi, lúc ném vào cổ thì ngon nghẻ thế cơ chứ.”</p>
 
-<p class="para-en">He had slept in his filthy padded leather gambeson, as he had for months now, so he started right in putting on his armor, starting with his <em>cuisses</em>. He had finished buckling his second thigh piece when he stopped. The priest was sleeping heavily on his short bed with his knees drawn up and his ankles crossed. Thomas shook him awake. The smaller man looked frightened at first to see the large, strong shadow over him, but then he remembered he had a guest.</p>
+<p class="para-en">He had slept in his filthy padded leather gambeson, as he had for months now, so he started right in putting on his armor, starting with his cuisses. He had finished buckling his second thigh piece when he stopped. The priest was sleeping heavily on his short bed with his knees drawn up and his ankles crossed. Thomas shook him awake. The smaller man looked frightened at first to see the large, strong shadow over him, but then he remembered he had a guest.</p>
 
 <p class="para-vi-sub">Gã đã ngủ trong bộ áo đệm da nhồi bẩn thỉu của mình, y như suốt mấy tháng nay, thế nên gã xỏ luôn vào bộ giáp, bắt đầu từ phần giáp đùi. Gã vừa buộc xong chiếc khóa giáp đùi thứ hai thì khựng lại. Vị linh mục đang ngủ say trên chiếc giường ngắn của ông với đôi đầu gối co lên và hai cổ chân vắt chéo. Thomas lay ông dậy. Người đàn ông nhỏ thó thoạt đầu có vẻ hoảng sợ khi nhìn thấy cái bóng to lớn, lực lưỡng đang trùm lên người mình, nhưng rồi ông nhớ ra rằng mình đang có khách.</p>
 
@@ -38,7 +38,7 @@
 
 <p class="para-vi-sub">“Mẹ kiếp,” Thomas lầm bầm.</p>
 
-<p class="para-en"><a id="page49"></a>“You’re really going to the river, then?”</p>
+<p class="para-en">“You’re really going to the river, then?”</p>
 
 <p class="para-vi-sub">“Ngài thực sự định ra sông đấy à?”</p>
 
@@ -118,7 +118,7 @@
 
 <p class="para-vi-sub">Vị linh mục bật cười.</p>
 
-<p class="para-en"><a id="page50"></a>Thomas put his surcoat on over everything; it was filthy and blue and had no coat of arms on it.</p>
+<p class="para-en">Thomas put his surcoat on over everything; it was filthy and blue and had no coat of arms on it.</p>
 
 <p class="para-vi-sub">Thomas mặc chiếc áo khoác ngoài đè lên tất cả; nó bẩn thỉu, có màu xanh và chẳng mang phù hiệu nào cả.</p>
 
@@ -166,11 +166,11 @@
 
 <p class="para-vi-sub">“Việc mày bê bết máu lên đồ đạc của tao chẳng giúp gì cho tao, cho mày, hay cho bất kỳ ai cả. Hiểu chưa?”</p>
 
-<p class="para-en">She nodded, trying not to cry, and he noticed he was still holding her wrist, which suddenly looked very small and fragile in his big hand. He let it go. She wanted to rub it, but she was embarrassed and hid it behind her instead, looking up at him. He was about to bark, <em>What do you want now?</em> at her, but he thought about it and saw that she was hoping to get some kind word from him. He fished around in his head for one.</p>
+<p class="para-en">She nodded, trying not to cry, and he noticed he was still holding her wrist, which suddenly looked very small and fragile in his big hand. He let it go. She wanted to rub it, but she was embarrassed and hid it behind her instead, looking up at him. He was about to bark, What do you want now? at her, but he thought about it and saw that she was hoping to get some kind word from him. He fished around in his head for one.</p>
 
-<p class="para-vi-sub">Nó gật đầu, cố kìm không để khóc, và Thomas nhận ra mình vẫn đang nắm chặt cổ tay nó, lúc này trông vô cùng nhỏ bé và mỏng manh trong bàn tay to lớn của gã. Gã buông tay ra. Cô bé muốn xoa lấy cổ tay nhưng lại cảm thấy xấu hổ nên đành giấu nó ra sau lưng, ngước nhìn lên gã. Thomas suýt nữa thì quát toáng lên, <i>Mày còn muốn cái gì nữa?</i>, nhưng rồi gã chợt suy nghĩ lại và nhận ra nó đang hy vọng nhận được một lời nói tử tế nào đó từ gã. Thomas lục lọi trong đầu tìm một câu.</p>
+<p class="para-vi-sub">Nó gật đầu, cố kìm không để khóc, và Thomas nhận ra mình vẫn đang nắm chặt cổ tay nó, lúc này trông vô cùng nhỏ bé và mỏng manh trong bàn tay to lớn của gã. Gã buông tay ra. Cô bé muốn xoa lấy cổ tay nhưng lại cảm thấy xấu hổ nên đành giấu nó ra sau lưng, ngước nhìn lên gã. Thomas suýt nữa thì quát toáng lên, Mày còn muốn cái gì nữa?, nhưng rồi gã chợt suy nghĩ lại và nhận ra nó đang hy vọng nhận được một lời nói tử tế nào đó từ gã. Thomas lục lọi trong đầu tìm một câu.</p>
 
-<p class="para-en">“Go…go see the priest,” he said, as gently as he could. “He may <a id="page51"></a>have a cloth to bind that little cut. And put some yarrow in it, since you know what that is.”</p>
+<p class="para-en">“Go…go see the priest,” he said, as gently as he could. “He may have a cloth to bind that little cut. And put some yarrow in it, since you know what that is.”</p>
 
 <p class="para-vi-sub">“Đi… đi tìm vị linh mục đi,” gã bảo, giọng dịu dàng nhất có thể. “Ông ấy có lẽ có một miếng vải để băng vết cắt nhỏ đó lại. Rồi nhét thêm ít cỏ thi vào, vì mày biết đó là thứ gì cơ mà.”</p>
 
@@ -202,7 +202,7 @@
 
 <p class="para-vi-sub">Hai người đàn ông từ thị trấn đi cùng họ; một người trẻ tuổi để râu rậm rạp mang theo một cây giáo săn heo cổ xưa, người còn lại là một nông dân béo lùn, tóc vàng với những sợi râu lún phún như lông heo trên má, tay thủ sẵn một con dao phát bờ rào. Cả hai đều đội nón rơm. Người đàn ông thấp bé trông có vẻ sợ hãi, và vị linh mục cũng vậy. Cả hai đều đã ra tận bờ sông để tận mắt chứng kiến những dấu hiệu của con quái vật. Trừ gã nông dân ra. Gã nông dân thì say mèm. Thomas tự nhủ phải đứng thật xa gã nếu một cuộc ẩu đả nổ ra, bởi gã lực lưỡng, vai u thịt bắp và rất dễ đâm lòi ruột cả bạn lẫn thù như nhau. Một trong những bài học cay đắng nhất mà đời trộm cướp đã dạy cho Thomas là nông dân rất khỏe, thường còn khỏe hơn cả những kẻ kỵ mã khinh miệt họ, và họ sống sát nút bờ vực chết đói đến mức sẽ chiến đấu như những con gấu để giữ lấy từng vụn bánh, từng mẩu gỗ hay miếng da thuộc ít ỏi mà họ sở hữu.</p>
 
-<p class="para-en">If the priest hoped their procession would draw fresh recruits from the houses they passed, he was disappointed. A few women peered at them <a id="page52"></a>from windows, all crossing themselves, and, on the outskirts of town, one bare-ribbed dog looked up at them briefly before going back to breakfast on the foot of a corpse leaned up against a sheep wall. The body had a flour sack over its head at least, but it had stained the sack and it stank even in the cool rain. Sheep’s bones littered the field past the wall—sheep had fared as poorly as men in this scourge—and the seigneur’s keep came into view around a stand of alder trees.</p>
+<p class="para-en">If the priest hoped their procession would draw fresh recruits from the houses they passed, he was disappointed. A few women peered at them from windows, all crossing themselves, and, on the outskirts of town, one bare-ribbed dog looked up at them briefly before going back to breakfast on the foot of a corpse leaned up against a sheep wall. The body had a flour sack over its head at least, but it had stained the sack and it stank even in the cool rain. Sheep’s bones littered the field past the wall—sheep had fared as poorly as men in this scourge—and the seigneur’s keep came into view around a stand of alder trees.</p>
 
 <p class="para-vi-sub">Nếu vị linh mục hy vọng đoàn rước của họ sẽ thu hút thêm những tân binh từ những ngôi nhà họ đi qua, thì ông đã phải thất vọng. Một vài người phụ nữ hé nhìn họ từ các khung cửa sổ, ai nấy đều làm dấu thánh, và ở vùng ngoại ô thị trấn, một con chó gầy giơ xương chớp mắt nhìn họ một thoáng trước khi quay lại tiếp tục bữa sáng dang dở trên cái chân của một cái xác đang dựa vào bức tường đá chắn cừu. Cái xác ít nhất cũng được trùm một chiếc bao đựng bột mì lên đầu, nhưng máu đã thấm đẫm chiếc bao và nó bốc mùi hôi thối ngay cả trong tiết trời mưa lạnh. Xương cừu vương vãi khắp cánh đồng qua khỏi bức tường đá, loài cừu cũng chịu chung số phận hẩm hiu như con người trong trận đại dịch này, và pháo đài của vị lãnh chúa bắt đầu hiện ra sau một lùm cây tùng quân.</p>
 
@@ -258,7 +258,7 @@
 
 <p class="para-vi-sub">“Vậy thì bảo chủ nhân của ngươi rút cái con cu bé tí ra khỏi người vợ hắn đi và xuống đây giúp chúng ta tiêu diệt thứ dưới sông.”</p>
 
-<p class="para-en"><a id="page53"></a>“You common bastard!” the herald yelled. “I’ll have you know we still have men-at-arms in here.”</p>
+<p class="para-en">“You common bastard!” the herald yelled. “I’ll have you know we still have men-at-arms in here.”</p>
 
 <p class="para-vi-sub">“Đồ thứ dân khốn nạn!” tên sứ giả gào lên. “Tao cho mày biết là chúng ta vẫn còn đầy lính tráng ở trong này đấy.”</p>
 
@@ -294,7 +294,7 @@
 
 <p class="para-vi-sub">Thomas khựng lại khi có vật gì đó chuyển động dưới làn nước gần những cột trụ của chiếc cầu đã sập, trông giống như một cánh tay đen đúa đầy dầu mỡ nhưng bề ngang phải bằng cả ngực một con ngựa thồ. Gã không hoàn toàn chắc chắn là mình đã nhìn thấy nó.</p>
 
-<p class="para-en"><a id="page54"></a>Then all of them said some variant of “My God” when its head broke the water’s surface.</p>
+<p class="para-en">Then all of them said some variant of “My God” when its head broke the water’s surface.</p>
 
 <p class="para-vi-sub">Rồi tất cả bọn họ đều thốt lên những câu đại loại như “Lạy Chúa” khi cái đầu của nó nhô lên khỏi mặt nước.</p>
 
@@ -322,9 +322,9 @@
 
 <p class="para-vi-sub">“Lau cái cằm của mày đi,” Thomas nói.</p>
 
-<p class="para-en"><em>Now what?</em></p>
+<p class="para-en">Now what?</p>
 
-<p class="para-vi-sub"><i>Giờ thì sao đây?</i></p>
+<p class="para-vi-sub">Giờ thì sao đây?</p>
 
 <p class="para-en">He was so heavily armored he dared not go far into the water, but, when his slapping the water with the flat of his blade and his shouts of “Ho! Ho, there! Bring your black ass out of the water and fight me!” failed to rouse it, he ventured first one leg and then the other into the softly flowing murk. The big farmer stood near him, wide-eyed, shocked sober, his arms so tense the end of the billhook quivered.</p>
 
@@ -342,7 +342,7 @@
 
 <p class="para-vi-sub">Gã nhìn những cây cột trụ bị cháy đen, tự hỏi liệu nó có làm tổ dưới đó, uốn mình quấn quanh chúng hay không. Có lẽ gã nên lội ra tới chỗ đó; gã có thể bám vào chúng để giữ cho đầu mình khỏi ngập nước.</p>
 
-<p class="para-en">The wind blew harder, and the rain came now, threatening to snuff <a id="page55"></a>the girl’s censer, which she still swung dutifully. The priest’s Latin prayers were harder to hear.</p>
+<p class="para-en">The wind blew harder, and the rain came now, threatening to snuff the girl’s censer, which she still swung dutifully. The priest’s Latin prayers were harder to hear.</p>
 
 <p class="para-vi-sub">Gió thổi mạnh hơn, và mưa bắt đầu trút xuống, đe dọa dập tắt chiếc bình hương mà cô bé vẫn đang tận tụy đu đưa. Những lời cầu nguyện bằng tiếng Latinh của vị linh mục vì thế mà càng khó nghe hơn.</p>
 
@@ -370,9 +370,9 @@
 
 <p class="para-vi-sub">Thomas lao về phía nó với ngọn lao, vặn mình tung đòn bằng thứ sức mạnh tàn bạo mà hàng giờ luyện tập trên bãi chiến đã biến thành bản năng tự nhiên như việc đi đứng. Mũi lao đâm ngập sâu; cú lao đó đủ sức xiên thủng một con người và giết chết cả kẻ đứng sau hắn, nhưng đây không phải con người. Thứ đó cuộn tròn người lại, uốn lượn tháo chạy thật nhanh, giật phăng mũi lao khỏi tay gã. Gã dùng hết sức bình sinh đứng dậy, bộ áo giáp xích ngấm nước nặng trĩu chực kéo gã chìm xuống, rồi lao nhào về phía thanh kiếm rơi.</p>
 
-<p class="para-en">He saw that the girl was looking for it, too, up to her thighs in dirty water, her little limbs white against the river and darker sky. She bent down fully into the water now, her face submerged as though she were hunting turtles. He tried to yell <em>Get back!</em> at her but could only cough, so he reached into the water, grabbed a fistful of her blond hair, and jerked her up and toward the bank. She had the sword by the blade, getting cut again as she fell and dropped it. He saw <a id="page56"></a>where it fell, though, and saw her clambering through the mud and up to the bank. The priest was running to fetch her. Thomas grabbed the sword and wheeled around to the river, sensing he had had his back to it for far too long a fall of seconds.</p>
+<p class="para-en">He saw that the girl was looking for it, too, up to her thighs in dirty water, her little limbs white against the river and darker sky. She bent down fully into the water now, her face submerged as though she were hunting turtles. He tried to yell Get back! at her but could only cough, so he reached into the water, grabbed a fistful of her blond hair, and jerked her up and toward the bank. She had the sword by the blade, getting cut again as she fell and dropped it. He saw where it fell, though, and saw her clambering through the mud and up to the bank. The priest was running to fetch her. Thomas grabbed the sword and wheeled around to the river, sensing he had had his back to it for far too long a fall of seconds.</p>
 
-<p class="para-vi-sub">Gã thấy cô bé cũng đang tìm nó, nước ngập đến đùi, đôi chân nhỏ bé trắng ngợm nổi bật giữa dòng sông và bầu trời sẫm tối. Con bé cúi hẳn người xuống nước, đầu ngập ngụa như đang mò bắt rùa. Gã định thét lên <i>Tránh ra!</i> với con bé nhưng chỉ ho sù sù, thế là gã với tay xuống nước, túm lấy một nắm tóc vàng của nó rồi giật thốc lên hướng bờ sông. Con bé đang nắm lấy lưỡi kiếm, lại bị cắt vào tay khi ngã xuống và buông rơi nó. Dù vậy, gã vẫn nhìn thấy chỗ thanh kiếm rơi và thấy con bé đang lấm lem bùn đất lết lên bờ. Père Matthieu Hanicotte đang chạy đến đỡ lấy nó. Thomas chộp lấy thanh kiếm rồi xoay phắt người lại phía dòng sông, cảm giác như gã đã quay lưng về phía nó quá lâu trong cái khoảng thời gian tính bằng dăm giây ngắn ngủi ấy.</p>
+<p class="para-vi-sub">Gã thấy cô bé cũng đang tìm nó, nước ngập đến đùi, đôi chân nhỏ bé trắng ngợm nổi bật giữa dòng sông và bầu trời sẫm tối. Con bé cúi hẳn người xuống nước, đầu ngập ngụa như đang mò bắt rùa. Gã định thét lên Tránh ra! với con bé nhưng chỉ ho sù sù, thế là gã với tay xuống nước, túm lấy một nắm tóc vàng của nó rồi giật thốc lên hướng bờ sông. Con bé đang nắm lấy lưỡi kiếm, lại bị cắt vào tay khi ngã xuống và buông rơi nó. Dù vậy, gã vẫn nhìn thấy chỗ thanh kiếm rơi và thấy con bé đang lấm lem bùn đất lết lên bờ. Père Matthieu Hanicotte đang chạy đến đỡ lấy nó. Thomas chộp lấy thanh kiếm rồi xoay phắt người lại phía dòng sông, cảm giác như gã đã quay lưng về phía nó quá lâu trong cái khoảng thời gian tính bằng dăm giây ngắn ngủi ấy.</p>
 
 <p class="para-en">“Watch! Watch!” the priest was yelling over the rain.</p>
 
@@ -390,47 +390,47 @@
 
 <p class="para-vi-sub">Ngay khi vừa tầm với, nó lại ngoi lên mặt nước, chồm hẳn dậy để phơi cái bụng trắng hếu, trên đó chi chít những chiếc gai màu đen, cong ngược hướng và dài bằng những con dao gọt hoa quả, xếp hàng đều đặn như núm vú. Nó rít lên về phía hai người, những chiếc gai co giãn và rỉ ra thứ dịch đen ngòm khắp vùng bụng. Hai bên cổ nó mọc những chiếc vây đẫm dầu kết thúc bằng hàng gai nhọn hoắt. Giờ thì cái đuôi của nó vươn lên khỏi mặt nước, và người nông dân làm dấu thánh rồi rên rỉ. Tận cùng của cái đuôi ấy mọc một bàn tay người. Nó trắng đến mức gần như trong suốt, nổi bật rực rỡ giữa bầu trời đen kịt.</p>
 
-<p class="para-en"><em>A fucking hand!</em></p>
+<p class="para-en">A fucking hand!</p>
 
-<p class="para-vi-sub"><i>Đúng là một bàn tay chết tiệt!</i></p>
+<p class="para-vi-sub">Đúng là một bàn tay chết tiệt!</p>
 
-<p class="para-en"><a id="page57"></a>The tail slithered forward now, and the hand groped the side of the thing until it found the spear stuck in it, which it pulled out. Thunder grumbled behind it.</p>
+<p class="para-en">The tail slithered forward now, and the hand groped the side of the thing until it found the spear stuck in it, which it pulled out. Thunder grumbled behind it.</p>
 
 <p class="para-vi-sub">Cái đuôi trườn về phía trước, bàn tay quơ quào dọc theo thân con vật cho đến khi nắm được ngọn giáo đang găm trên người nó, rồi giật phăng ra. Tiếng sấm gầm gừ vang lên sau lưng.</p>
 
-<p class="para-en">The farmer started whimpering an <em>Ave Maria</em>, and it cocked its head, listening, its whiskers whipping excitedly. Thomas banged his fist heavily on the stout man’s shoulder to shut him up, but he only prayed louder. Without warning, a ripple went through the thing and the end of its tail lashed like the end of a whip. The hand released the boar spear and it flew at the farmer as though it had been shot from an arbalest. It would have skewered him right through his praying mouth had not Thomas shoved him. As it was, it laid open his cheek and his temple and he screamed horribly.</p>
+<p class="para-en">The farmer started whimpering an Ave Maria, and it cocked its head, listening, its whiskers whipping excitedly. Thomas banged his fist heavily on the stout man’s shoulder to shut him up, but he only prayed louder. Without warning, a ripple went through the thing and the end of its tail lashed like the end of a whip. The hand released the boar spear and it flew at the farmer as though it had been shot from an arbalest. It would have skewered him right through his praying mouth had not Thomas shoved him. As it was, it laid open his cheek and his temple and he screamed horribly.</p>
 
 <p class="para-vi-sub">Người nông dân bắt đầu lẩm bẩm cầu kinh kính mừng Maria, và con vật nghiêng đầu lắng nghe, những chiếc râu giật giật đầy hào hứng. Thomas nện mạnh nắm đấm vào vai gã đàn ông vạm vỡ để bắt hắn im miệng, nhưng hắn chỉ càng đọc kinh to hơn. Không báo trước, một làn sóng co giật chạy dọc thân con vật và đầu chiếc đuôi quất vụt đi như một chiếc roi da. Bàn tay buông ngọn giáo lớn ra và phóng thẳng về phía người nông dân tựa như được bắn ra từ một cây nỏ lớn. Nó đã xuyên thủng qua cái miệng đang cầu kinh của gã nếu Thomas không kịp xô hắn ra. Dù vậy, ngọn giáo vẫn rạch toác má và thái dương gã, khiến hắn thét lên một tiếng kinh hoàng.</p>
 
-<p class="para-en">Then the creature did the worst thing Thomas had seen yet; <em>it opened its mouth and exactly imitated the farmer’s scream.</em></p>
+<p class="para-en">Then the creature did the worst thing Thomas had seen yet; it opened its mouth and exactly imitated the farmer’s scream.</p>
 
-<p class="para-vi-sub">Rồi sinh vật đó làm điều tồi tệ nhất mà Thomas từng chứng kiến; <i>nó há miệng và nhại lại y hệt tiếng thét của người nông dân.</i></p>
+<p class="para-vi-sub">Rồi sinh vật đó làm điều tồi tệ nhất mà Thomas từng chứng kiến; nó há miệng và nhại lại y hệt tiếng thét của người nông dân.</p>
 
 <p class="para-en">It moved toward the men again. The farmer just kept screaming, even as it mocked him, holding his hand against his head where the blood ran out thin and fast in the rain.</p>
 
 <p class="para-vi-sub">Nó lại tiến về phía hai người đàn ông. Gã nông dân cứ thế gào thét, dẫu cho con vật đang chế giễu mình, một tay ôm chặt lấy cái đầu đang tuôn máu xối xả dưới làn mưa.</p>
 
-<p class="para-en">Thomas had never been so afraid. <em>I can’t I can’t I can’t,</em> he thought, even as he drove his legs forward through the muck to meet it. Thomas swung hard at its head, but he only hit it a glancing blow as it lunged past him and grabbed the screaming farmer, cutting off his screams as it took the man’s head and shoulders into its mouth with a violent, wet slapping sound. It contracted the muscles in its neck now and lifted the heavy farmer out of the water, pointing his kicking feet at the sky and trying to swallow him in repeated gulps, <em>BAMF, BAMF, BAMF</em>, like a pelican taking a big fish.</p>
+<p class="para-en">Thomas had never been so afraid. I can’t I can’t I can’t, he thought, even as he drove his legs forward through the muck to meet it. Thomas swung hard at its head, but he only hit it a glancing blow as it lunged past him and grabbed the screaming farmer, cutting off his screams as it took the man’s head and shoulders into its mouth with a violent, wet slapping sound. It contracted the muscles in its neck now and lifted the heavy farmer out of the water, pointing his kicking feet at the sky and trying to swallow him in repeated gulps, BAMF, BAMF, BAMF, like a pelican taking a big fish.</p>
 
-<p class="para-vi-sub">Thomas chưa bao giờ sợ hãi đến thế. Gã thầm nghĩ bản thân không thể chống đỡ nổi nữa, ngay cả khi đang lê đôi chân lao qua lớp bùn lầy để đối đầu với nó. Thomas vung kiếm chém mạnh vào đầu nó, nhưng chỉ đánh trúng một nhát sượt khi nó lao qua người gã và tóm lấy gã nông dân đang la hét, bóp nghẹt tiếng gào của hắn khi nó ngoạm trọn đầu và vai gã đàn ông vào trong khoang miệng với một tiếng vỗ nước nhão nhoét, bạo liệt. Giờ thì nó siết chặt các thớ cơ ở cổ và nhấc bổng gã nông dân nặng nề lên khỏi mặt nước, chĩa đôi chân đang giãy giụa lên bầu trời và nuốt chửng hắn qua từng đợt ực liên hồi, <i>ỤC, ỤC, ỤC</i>, giống như một con bồ nông đang nuốt một con cá lớn.</p>
+<p class="para-vi-sub">Thomas chưa bao giờ sợ hãi đến thế. Gã thầm nghĩ bản thân không thể chống đỡ nổi nữa, ngay cả khi đang lê đôi chân lao qua lớp bùn lầy để đối đầu với nó. Thomas vung kiếm chém mạnh vào đầu nó, nhưng chỉ đánh trúng một nhát sượt khi nó lao qua người gã và tóm lấy gã nông dân đang la hét, bóp nghẹt tiếng gào của hắn khi nó ngoạm trọn đầu và vai gã đàn ông vào trong khoang miệng với một tiếng vỗ nước nhão nhoét, bạo liệt. Giờ thì nó siết chặt các thớ cơ ở cổ và nhấc bổng gã nông dân nặng nề lên khỏi mặt nước, chĩa đôi chân đang giãy giụa lên bầu trời và nuốt chửng hắn qua từng đợt ực liên hồi, ỤC, ỤC, ỤC, giống như một con bồ nông đang nuốt một con cá lớn.</p>
 
-<p class="para-en">Thomas saw the end of the farmer’s billhook sticking out of the water. He sheathed his sword so not to lose it, then sloshed over to grab the pole arm. The thing was having trouble getting the farmer down. Thomas slashed at it with all his considerable strength, gouging tears in it that would have gutted an ox. One of these, driven high, opened a hole near the lump the thing was trying to swallow, and Thomas was treated to the sight of the farmer’s white face turning as he went farther into its gullet. It could no longer ignore the strong <a id="page58"></a>man tearing at it, though, so it turned its blind face toward him, the other man’s feet sticking out of its mouth. It lashed its whiskers at Thomas to find him, then slithered the tail-hand up around his leg. It dropped its head and neck into the water now and slithered more of its coils around the nuisance who had been chopping at it. It foamed the water with its spasms as it continued trying to swallow its meal, but now its back half was free to fight.</p>
+<p class="para-en">Thomas saw the end of the farmer’s billhook sticking out of the water. He sheathed his sword so not to lose it, then sloshed over to grab the pole arm. The thing was having trouble getting the farmer down. Thomas slashed at it with all his considerable strength, gouging tears in it that would have gutted an ox. One of these, driven high, opened a hole near the lump the thing was trying to swallow, and Thomas was treated to the sight of the farmer’s white face turning as he went farther into its gullet. It could no longer ignore the strong man tearing at it, though, so it turned its blind face toward him, the other man’s feet sticking out of its mouth. It lashed its whiskers at Thomas to find him, then slithered the tail-hand up around his leg. It dropped its head and neck into the water now and slithered more of its coils around the nuisance who had been chopping at it. It foamed the water with its spasms as it continued trying to swallow its meal, but now its back half was free to fight.</p>
 
 <p class="para-vi-sub">Thomas nhìn thấy phần cán chiếc dao phát bờ rào của người nông dân đang nhô lên khỏi mặt nước. Gã giắt vội thanh kiếm vào vỏ để khỏi đánh rơi, rồi lội bì bõm tới tóm lấy vũ khí cán dài. Con vật đang gặp khó khăn trong việc nuốt trọn người nông dân. Thomas vung dao chém tới tấp bằng toàn bộ sức lực to lớn của mình, khoét ra những vết rách đủ sức mổ bụng một con bò mộng. Một trong những nhát chém nhắm thẳng lên cao đã tạo ra một lỗ thủng ngay gần chỗ phình ra mà con vật đang cố nuốt xuống, và Thomas chứng kiến cảnh khuôn mặt trắng bệch của người nông dân đang quay vòng khi bị đẩy sâu hơn vào thực quản nó. Tuy nhiên, nó không thể phớt lờ gã đàn ông vạm vỡ đang đâm chém vào người mình nữa, nên nó quay cái đầu mù lòa về phía Thomas, với đôi chân của nạn nhân vẫn lòi ra khỏi miệng. Nó quẫy những chiếc râu để dò tìm Thomas, rồi luồn cái đuôi có bàn tay quấn chặt lấy chân gã. Nó hạ đầu và cổ xuống nước, tiếp tục quấn thêm những vòng thân mình quanh kẻ phiền phức vừa dám chém phạt nó. Nó khuấy tung mặt nước bằng những cơn co giật trong lúc vẫn cố nuốt chửng bữa ăn, nhưng giờ thì nửa thân sau của nó đã được giải phóng để chiến đấu.</p>
 
-<p class="para-en">Thomas dug at it underwater with the point of his weapon, gouging it so its oily blood floated up, but then the awful white hand was on his face, grabbing his cheek excruciatingly, digging for his eyes. He wrenched his head back and forth, then drove the weapon into the riverbed so he could find the shaft again. He was not strong enough to pull the hand away from his face, however, and he felt something sharp scrape his <em>cuisse</em> as the thing constricted around his leg.</p>
+<p class="para-en">Thomas dug at it underwater with the point of his weapon, gouging it so its oily blood floated up, but then the awful white hand was on his face, grabbing his cheek excruciatingly, digging for his eyes. He wrenched his head back and forth, then drove the weapon into the riverbed so he could find the shaft again. He was not strong enough to pull the hand away from his face, however, and he felt something sharp scrape his cuisse as the thing constricted around his leg.</p>
 
 <p class="para-vi-sub">Thomas dùng mũi vũ khí đâm thọc dưới nước, khoét vào người nó khiến dòng máu đặc quánh mùi dầu nổi bồng bềnh lên, nhưng ngay sau đó cái bàn tay trắng bệch kinh tởm áp lên mặt gã, bấu chặt vào má gã đến buốt nhói và mò mẫm móc vào mắt. Gã lắc mạnh đầu qua lại, rồi cắm ngập vũ khí xuống lòng sông để có thể lần lại phần cán. Dù vậy, gã vẫn không đủ sức gạt bàn tay đó khỏi mặt mình, và gã cảm thấy thứ gì đó sắc bén cạo sượt qua lớp giáp đùi khi con vật siết chặt lấy chân gã.</p>
 
-<p class="para-en"><em>“Whoring spines,”</em> he squealed crazily, standing wide and struggling to keep his footing, now jerking the hand’s thumb back as he would to break a man’s grip. With the other hand he found the knife on his belt and began to saw where the hand joined the tail. His knife bit deep, and it withdrew the hand to save it, then jerked, pulling Thomas underwater.</p>
+<p class="para-en">“Whoring spines,” he squealed crazily, standing wide and struggling to keep his footing, now jerking the hand’s thumb back as he would to break a man’s grip. With the other hand he found the knife on his belt and began to saw where the hand joined the tail. His knife bit deep, and it withdrew the hand to save it, then jerked, pulling Thomas underwater.</p>
 
-<p class="para-vi-sub"><i>“Mấy cái gai khốn kiếp,”</i> gã rít lên điên cuồng, dạng chân đứng trụ và chật vật giữ thăng bằng, đoạn dùng sức bẻ ngược ngón cái của bàn tay kia hệt như cách người ta bẻ gãy khớp tay một kẻ địch. Bằng tay còn lại, gã rút con dao giắt bên hông và bắt đầu cưa vào chỗ phần đuôi nối liền với bàn tay. Lưỡi dao của gã cắm ngập sâu, khiến nó phải rụt bàn tay lại để bảo vệ, rồi giật thót người, kéo phăng Thomas chìm nghỉm xuống nước.</p>
+<p class="para-vi-sub">“Mấy cái gai khốn kiếp,” gã rít lên điên cuồng, dạng chân đứng trụ và chật vật giữ thăng bằng, đoạn dùng sức bẻ ngược ngón cái của bàn tay kia hệt như cách người ta bẻ gãy khớp tay một kẻ địch. Bằng tay còn lại, gã rút con dao giắt bên hông và bắt đầu cưa vào chỗ phần đuôi nối liền với bàn tay. Lưỡi dao của gã cắm ngập sâu, khiến nó phải rụt bàn tay lại để bảo vệ, rồi giật thót người, kéo phăng Thomas chìm nghỉm xuống nước.</p>
 
 <p class="para-en">He felt sure he would die now, but he didn’t give up.</p>
 
 <p class="para-vi-sub">Gã thầm chắc mình sẽ chết tới nơi, nhưng gã không hề bỏ cuộc.</p>
 
-<p class="para-en">He wrestled and arched, and managed to get half his sword free, though it was no easy task with the black coils around his legs and those evil spines scraping his chain mail, and he bent into a coil of it and started using his weight behind the half-exposed blade to cut. It thrashed, jerking him around madly on the muddy bottom, though his head broke the water and he managed to get a breath in him. His sword came out of its scabbard and he held on to it for his life. It was then that one of the spines on the bottom of it found purchase and punched through his armor at the groin, where a few snapped links of chain he had meant to have mended allowed a small opening. It was enough. He ground his teeth together against the pain and nearly lost the last of his air, but instead drove his sword into it hard, causing it to <a id="page59"></a>release him entirely. He broke the surface of the water and got heavily to his feet just as the thing’s head came up, its first meal now down nearer the middle of it, but it was Thomas who moved first, lunging at its neck.</p>
+<p class="para-en">He wrestled and arched, and managed to get half his sword free, though it was no easy task with the black coils around his legs and those evil spines scraping his chain mail, and he bent into a coil of it and started using his weight behind the half-exposed blade to cut. It thrashed, jerking him around madly on the muddy bottom, though his head broke the water and he managed to get a breath in him. His sword came out of its scabbard and he held on to it for his life. It was then that one of the spines on the bottom of it found purchase and punched through his armor at the groin, where a few snapped links of chain he had meant to have mended allowed a small opening. It was enough. He ground his teeth together against the pain and nearly lost the last of his air, but instead drove his sword into it hard, causing it to release him entirely. He broke the surface of the water and got heavily to his feet just as the thing’s head came up, its first meal now down nearer the middle of it, but it was Thomas who moved first, lunging at its neck.</p>
 
 <p class="para-vi-sub">Thomas vật lộn, uốn cong người và xoay xở rút được một nửa thanh kiếm ra ngoài, dù đó không phải là chuyện dễ dàng gì khi những vòng cuộn đen ngòm bám chặt lấy đôi chân cùng những chiếc gai độc ác cào rách áo giáp xích của gã. Gã rướn người vào một vòng cuộn của con quái vật rồi dùng trọng lượng cơ thể đè lên phần lưỡi kiếm lộ ra để chém. Nó quằn quại, giật cục gã điên cuồng dưới lớp bùn sâu, dẫu vậy đầu Thomas vẫn ngoi lên được mặt nước và gã hớp kịp một ngụm không khí. Thanh kiếm tuột khỏi vỏ và gã nắm chặt lấy nó như thể nắm giữ sinh mạng của chính mình. Đúng lúc đó, một chiếc gai dưới bụng con quái vật tìm được điểm tựa và đâm thủng bộ giáp ở vùng háng của Thomas, nơi có vài mắt xích bị đứt mà gã định bụng đem đi sửa đã tạo ra một khoảng hở nhỏ. Thế là đủ. Gã nghiến chặt răng để kìm nén cơn đau và suýt đánh rơi hơi thở cuối cùng, nhưng thay vào đó, gã đâm phập thanh kiếm vào người nó với một lực cực mạnh, buộc nó phải thả gã ra hoàn toàn. Gã phá mặt nước trồi lên và lảo đảo đứng dậy đúng lúc cái đầu của con quái vật ngóc lên, bữa ăn đầu tiên của nó giờ đã dịch xuống gần phần giữa thân, nhưng Thomas mới là kẻ ra tay trước, lao bổ về phía cổ nó.</p>
 
@@ -446,7 +446,7 @@
 
 <p class="para-vi-sub">Thomas vùng vẫy để giữ đầu nổi trên mặt nước, thầm cầu mong vị linh mục sẽ lôi gã lên bờ. Nhưng gã chỉ có một mình và đang cận kề cái chết, với bộ giáp nặng trịch kéo trĩu người dưới lòng sông. Gã buộc phải tự cứu lấy chính mình. Gã nghe thấy tiếng nó quẫy đạp, rồi tiếng quẫy đạp ấy bỗng im bặt. Gã nghĩ rằng con quái vật đã chết nhưng không tin là mình còn đủ sức để vừa quay đầu nhìn lại nó, vừa ngăn bản thân chìm nghỉm xuống dòng nước. Gã lê lết bò về phía vùng nước nông và suýt ngã quỵ, nhưng gã thừa biết nếu làm thế thì mình vẫn sẽ chết đuối. Thế là, với cái chân đang tê dại vì vết gai cắm vào háng, cùng dòng sông và bầu trời đen kịt đang quay cuồng quanh gã cứ như thể gã chỉ là một con quay đồ chơi, Thomas lê lườn qua lớp bùn bằng ba chiếc chi còn dùng được cho đến khi khuôn mặt đã nhô lên khỏi mặt nước đủ xa để gã biết chắc mình sẽ không nuốt phải một ngụm nước nào nữa.</p>
 
-<p class="para-en"><a id="page60"></a>His legs were still in the water. If it wasn’t dead, it would drag him under. But he didn’t care now.</p>
+<p class="para-en">His legs were still in the water. If it wasn’t dead, it would drag him under. But he didn’t care now.</p>
 
 <p class="para-vi-sub">Đôi chân gã vẫn ngâm trong nước. Nếu con quái vật chưa chết, nó sẽ kéo chìm gã xuống. Nhưng lúc này thì gã mặc thây nó rồi.</p>
 
@@ -462,9 +462,9 @@
 
 <p class="para-vi-sub">Trời đang đổ mưa đá.</p>
 
-<p class="para-en"><em>So this is the end of the world,</em> he thought, feeling nauseated, hoping to pass out.</p>
+<p class="para-en">So this is the end of the world, he thought, feeling nauseated, hoping to pass out.</p>
 
-<p class="para-vi-sub"><i>Hóa ra đây là ngày tận thế,</i> gã thầm nghĩ, cảm thấy buồn nôn và chỉ mong sao được ngất đi cho rồi.</p>
+<p class="para-vi-sub">Hóa ra đây là ngày tận thế, gã thầm nghĩ, cảm thấy buồn nôn và chỉ mong sao được ngất đi cho rồi.</p>
 
 <p class="para-en">And he passed out.</p>
 

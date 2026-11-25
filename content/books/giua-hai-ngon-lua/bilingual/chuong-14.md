@@ -18,13 +18,13 @@
 
 <p class="para-vi-sub">“Chúng ở rất gần.”</p>
 
-<p class="para-en">The husband and wife stared at the shuttered windows and bolted doors, listening to the sounds of knocking, which were unmistakably drawing nearer. Thomas picked up his chain mail hauberk and began slithering into it. He put on his mail gloves as well. Annette said an <em>Ave Maria</em>, which her husband and the priest joined in, though the priest was watching the girl.</p>
+<p class="para-en">The husband and wife stared at the shuttered windows and bolted doors, listening to the sounds of knocking, which were unmistakably drawing nearer. Thomas picked up his chain mail hauberk and began slithering into it. He put on his mail gloves as well. Annette said an Ave Maria, which her husband and the priest joined in, though the priest was watching the girl.</p>
 
 <p class="para-vi-sub">Hai vợ chồng đăm đăm nhìn những ô cửa sổ cài then và những cánh cửa chốt kín, lắng nghe tiếng gõ cửa đang rõ ràng tiến lại gần hơn. Thomas cầm chiếc áo giáp xích lên và bắt đầu luồn người mặc vào. Anh cũng đeo cả găng tay giáp xích. Annette đọc một lời kinh Kính Mừng, chồng chị và vị linh mục liền đọc theo, dẫu Père Matthieu vẫn đang dõi theo Delphine.</p>
 
-<p class="para-en">Delphine inclined near the wick in tallow, which was now a soupy graveyard for moths; moths lighted in her hair and flitted about her as she opened the tube the Jew had given her. Its hinges were tiny and <a id="page149"></a>delicate, but her small hands were made to open such things. The inside of the tube was cushioned with brown leather, upon which the mud-colored shaft of pitted iron was hardly visible. She took it in her hand. It was not what she expected; not leaf-bladed or triangular like a boar spear; rather, it was a thin rod that flared gently to a point at the end; more of a fire poker than a proper spear. She tested the point with her thumb and found it still sharp enough to make her gasp in a hitch of air. Had this piece of metal really been driven under one of His ribs? It seemed impossible that anything or anyone still in the world had actually touched Him. But it had. This was it. She kissed the spearhead and sealed it back in its case. The word <em>pilum</em> occurred to her, and she wondered if she had read it in her father’s books, or if it simply came to her as so many words had lately.</p>
+<p class="para-en">Delphine inclined near the wick in tallow, which was now a soupy graveyard for moths; moths lighted in her hair and flitted about her as she opened the tube the Jew had given her. Its hinges were tiny and delicate, but her small hands were made to open such things. The inside of the tube was cushioned with brown leather, upon which the mud-colored shaft of pitted iron was hardly visible. She took it in her hand. It was not what she expected; not leaf-bladed or triangular like a boar spear; rather, it was a thin rod that flared gently to a point at the end; more of a fire poker than a proper spear. She tested the point with her thumb and found it still sharp enough to make her gasp in a hitch of air. Had this piece of metal really been driven under one of His ribs? It seemed impossible that anything or anyone still in the world had actually touched Him. But it had. This was it. She kissed the spearhead and sealed it back in its case. The word pilum occurred to her, and she wondered if she had read it in her father’s books, or if it simply came to her as so many words had lately.</p>
 
-<p class="para-vi-sub">Delphine cúi sát ngọn bấc trong vũng mỡ bò nay đã trở thành một nghĩa địa nhão nhoét của loài bướm đêm; những con bướm đậu trên mái tóc cô bé và bay lượn xung quanh khi cô bé mở chiếc ống mà Người Do Thái bán thánh tích đã trao cho mình. Bản lề của nó rất nhỏ và tinh xảo, nhưng đôi bàn tay nhỏ bé của cô bé sinh ra là để mở những thứ như vậy. Bên trong ống được lót một lớp da màu nâu, trên đó phần thân bằng sắt rỗ màu bùn đất hầu như chẳng thể nhìn thấy rõ. Delphine cầm nó lên trong tay. Nó không giống như những gì cô bé mong đợi; không có lưỡi sắc hay hình tam giác như ngọn giáo săn lợn; trái lại, nó là một thanh kim loại mỏng thuôn nhẹ dần về phía đầu nhọn, giống một cái que cời lửa hơn là một ngọn giáo thực thụ. Cô bé thử đầu nhọn bằng ngón tay cái và thấy nó vẫn đủ sắc bén khiến cô bé phải há hốc miệng vì nghẹn thở. Liệu mảnh kim loại này có thực sự từng bị đâm xuyên qua một trong những chiếc xương sườn của Ngài hay không? Dường như thật bất khả thi khi bất cứ thứ gì hay bất kỳ ai còn trên cõi đời này thực sự từng chạm vào Ngài. Nhưng nó đúng là như vậy. Chính là nó. Delphine hôn lên đầu ngọn giáo và niêm phong nó trở lại trong vỏ đựng. Từ <i>mũi lao La Mã</i> xuất hiện trong đầu cô bé, và cô bé tự hỏi liệu mình đã đọc được nó từ những cuốn sách của cha mình, hay nó đơn giản đến với cô bé như rất nhiều từ ngữ dạo gần đây.</p>
+<p class="para-vi-sub">Delphine cúi sát ngọn bấc trong vũng mỡ bò nay đã trở thành một nghĩa địa nhão nhoét của loài bướm đêm; những con bướm đậu trên mái tóc cô bé và bay lượn xung quanh khi cô bé mở chiếc ống mà Người Do Thái bán thánh tích đã trao cho mình. Bản lề của nó rất nhỏ và tinh xảo, nhưng đôi bàn tay nhỏ bé của cô bé sinh ra là để mở những thứ như vậy. Bên trong ống được lót một lớp da màu nâu, trên đó phần thân bằng sắt rỗ màu bùn đất hầu như chẳng thể nhìn thấy rõ. Delphine cầm nó lên trong tay. Nó không giống như những gì cô bé mong đợi; không có lưỡi sắc hay hình tam giác như ngọn giáo săn lợn; trái lại, nó là một thanh kim loại mỏng thuôn nhẹ dần về phía đầu nhọn, giống một cái que cời lửa hơn là một ngọn giáo thực thụ. Cô bé thử đầu nhọn bằng ngón tay cái và thấy nó vẫn đủ sắc bén khiến cô bé phải há hốc miệng vì nghẹn thở. Liệu mảnh kim loại này có thực sự từng bị đâm xuyên qua một trong những chiếc xương sườn của Ngài hay không? Dường như thật bất khả thi khi bất cứ thứ gì hay bất kỳ ai còn trên cõi đời này thực sự từng chạm vào Ngài. Nhưng nó đúng là như vậy. Chính là nó. Delphine hôn lên đầu ngọn giáo và niêm phong nó trở lại trong vỏ đựng. Từ mũi lao La Mã xuất hiện trong đầu cô bé, và cô bé tự hỏi liệu mình đã đọc được nó từ những cuốn sách của cha mình, hay nó đơn giản đến với cô bé như rất nhiều từ ngữ dạo gần đây.</p>
 
 <p class="para-en">“What is that?” Père Matthieu said.</p>
 
@@ -50,7 +50,7 @@
 
 <p class="para-vi-sub">Lúc này có vật gì đó đang cào vào khung cửa sổ đóng kín.</p>
 
-<p class="para-en"><em>“Please God, please angels, do not leave me alone,”</em> she prayed.</p>
+<p class="para-en">“Please God, please angels, do not leave me alone,” she prayed.</p>
 
 <p class="para-vi-sub">“Xin Chúa hãy thương xót, xin các thiên thần, xin đừng bỏ lại con một mình,” Delphine cầu nguyện.</p>
 
@@ -62,11 +62,11 @@
 
 <p class="para-vi-sub">Thứ ở bên ngoài đang gõ nhẹ lên khung cửa sổ. Delphine nắm chặt ngón tay Père Matthieu đến mức suýt làm ông đau nếu như ông không quá hoảng loạn để mà cảm nhận được điều đó. Tiếng gõ vang lên lần nữa, dồn dập hơn. Tất cả mọi người trừ Thomas và Delphine đều làm dấu thánh.</p>
 
-<p class="para-en"><em>“Come Saint Michael, come Saint Sebastian, do not leave us alone,”</em> <a id="page150"></a>Delphine whispered, but she felt abandoned; they were going to be killed now by some wicked thing, and God would not or could not interfere.</p>
+<p class="para-en">“Come Saint Michael, come Saint Sebastian, do not leave us alone,” Delphine whispered, but she felt abandoned; they were going to be killed now by some wicked thing, and God would not or could not interfere.</p>
 
 <p class="para-vi-sub">“Xin Thánh Michael hãy đến, xin Thánh Sebastian hãy đến, xin đừng bỏ mặc chúng con một mình,” Delphine thì thầm nhưng cô bé cảm thấy mình đã bị bỏ rơi; họ sắp bị giết chết bởi một thứ ác độc nào đó, và Chúa không muốn hoặc không thể can thiệp.</p>
 
-<p class="para-en">The thing outside took two heavy steps and now banged on the door. Hard. Delphine squealed. Jehan put his free hand over his wife’s mouth to stop her from whimpering, but then <em>he</em> whimpered. Delphine heard Thomas breathing in and out like a bellows, preparing to fight; she knew that for all his faults, he would die before he let harm come to her. She felt safer.</p>
+<p class="para-en">The thing outside took two heavy steps and now banged on the door. Hard. Delphine squealed. Jehan put his free hand over his wife’s mouth to stop her from whimpering, but then he whimpered. Delphine heard Thomas breathing in and out like a bellows, preparing to fight; she knew that for all his faults, he would die before he let harm come to her. She felt safer.</p>
 
 <p class="para-vi-sub">Thứ bên ngoài bước hai bước nặng nề rồi nện mạnh lên cửa. Thật mạnh. Delphine rít lên một tiếng nhỏ. Jehan đặt bàn tay rảnh rỗi lên miệng Annette để ngăn vợ không rên rỉ, nhưng rồi chính anh cũng phát ra tiếng rên rỉ. Delphine nghe thấy tiếng thở ra hít vào của Thomas như tiếng bễ thổi trong lò rèn, chuẩn bị cho trận chiến; cô bé biết rằng dù có bao nhiêu khuyết điểm đi nữa, Thomas vẫn sẽ chết trước khi để bất kỳ tổn hại nào giáng xuống người cô bé. Delphine cảm thấy an toàn hơn.</p>
 
@@ -122,7 +122,7 @@
 
 <p class="para-vi-sub">“Làm ơn,” giọng nói cầu xin.</p>
 
-<p class="para-en"><a id="page151"></a>Annette struggled with her husband, but he kept her back.</p>
+<p class="para-en">Annette struggled with her husband, but he kept her back.</p>
 
 <p class="para-vi-sub">Annette giằng co với chồng, nhưng Jehan vẫn chặn chị lại.</p>
 
@@ -170,19 +170,19 @@
 
 <p class="para-vi-sub">“Hãy cứu con tôi,” bức tượng cất lời, cái miệng chuyển động giật cục. Nó cúi chiếc vương miện xuống và bước vào phòng với tiếng cối xay đá nghiến ken két, khiến tất cả mọi người lùi lại vì kinh hãi. Giờ thì bức tượng văng đứa trẻ về phía Thomas mạnh đến mức hất văng anh ngã ngửa ra sau. Delphine trợn tròn mắt nhìn nó; khi di chuyển, trông nó cứ như một bức tượng được nhìn thấy qua những khoảnh khắc chớp nhoáng; nó di chuyển rất nhanh nhưng giật cục. Thật là phi lý.</p>
 
-<p class="para-en">The fight was awful. It was hard to see in the near-darkness of the candlelit workshop. Delphine shook her head, trying to wake up from what couldn’t be happening; the unholy Virgin had Annette by the arm. <a id="page152"></a>The arm broke. It bit something off her face and spat it at Jehan. It stove her head in with its scepter.</p>
+<p class="para-en">The fight was awful. It was hard to see in the near-darkness of the candlelit workshop. Delphine shook her head, trying to wake up from what couldn’t be happening; the unholy Virgin had Annette by the arm. The arm broke. It bit something off her face and spat it at Jehan. It stove her head in with its scepter.</p>
 
 <p class="para-vi-sub">Cuộc chiến thật khủng khiếp. Thật khó để nhìn rõ trong không gian gần như tối đen của xưởng làm việc chỉ có ánh nến. Delphine lắc đầu, cố gắng tỉnh lại khỏi thứ không thể nào xảy ra này; Đức Mẹ báng bổ đang túm lấy cánh tay Annette. Cánh tay gãy vụn. Nó cắn đứt thứ gì đó trên mặt Annette và nhổ vào Jehan. Nó đập nát hộp sọ của Jehan bằng cây quyền trượng.</p>
 
-<p class="para-en"><em>God, God, why sweet Annette?</em></p>
+<p class="para-en">God, God, why sweet Annette?</p>
 
-<p class="para-vi-sub"><i>Chúa ơi, Chúa ơi, tại sao lại là Annette ngọt ngào?</i></p>
+<p class="para-vi-sub">Chúa ơi, Chúa ơi, tại sao lại là Annette ngọt ngào?</p>
 
 <p class="para-en">“No!” Delphine tried to scream, but it came out like a kitten’s mew.</p>
 
 <p class="para-vi-sub">“Không!” Delphine cố hét lên, nhưng âm thanh phát ra chỉ giống như tiếng kêu meo méo của một con mèo con.</p>
 
-<p class="para-en">The priest pulled Delphine behind him again, saying a <em>Pater Noster</em>, but she looked around his robes; Thomas had flipped his sword, holding it near the point, bludgeoning the living statue, making sparks and chipping it, but he could not stop it. It wanted the woodcarver now. Jehan’s mallet knocked a point off the crown, but then it lowered its head like a bull and gored him against the wall, again and again, shaking the building with the force of it.</p>
+<p class="para-en">The priest pulled Delphine behind him again, saying a Pater Noster, but she looked around his robes; Thomas had flipped his sword, holding it near the point, bludgeoning the living statue, making sparks and chipping it, but he could not stop it. It wanted the woodcarver now. Jehan’s mallet knocked a point off the crown, but then it lowered its head like a bull and gored him against the wall, again and again, shaking the building with the force of it.</p>
 
 <p class="para-vi-sub">Vị linh mục lại kéo Delphine nấp sau lưng mình, miệng đọc Kinh Lạy Cha, nhưng con bé nhìn qua vạt áo của ông; Thomas đã lật ngược thanh kiếm, cầm gần mũi kiếm, dùng làm gậy nện vào bức tượng sống, tạo ra những tia lửa và làm mẻ nó, nhưng anh không thể chặn đứng nó lại được. Giờ thì nó muốn nhắm vào người thợ mộc. Chiếc vồ gỗ của Jehan làm mẻ một góc vương miện, nhưng rồi bức tượng hạ thấp đầu xuống như một con bò tót và húc anh vào tường, hết lần này đến lần khác, làm rung chuyển cả tòa nhà bởi lực va đập.</p>
 
@@ -194,9 +194,9 @@
 
 <p class="para-vi-sub">Giờ thì Tượng đá gõ cửa ban đêm đang lao về phía hiệp sĩ. Thomas dồn hết sức vào một cú vạt thấp, chém gãy một chân của nó, nhưng nó lập tức quỳ sụp bằng cả bốn chi, cắn xé và húc vào anh, làm đổ nhào các bức tượng gỗ, tàn phá mọi thứ xung quanh. Nó vung quyền trượng đánh mạnh vào chân anh, suýt làm anh ngã quỵ. Anh gầm lên vì đau đớn, rồi vung kiếm chém xuống gãy đôi cây quyền trượng.</p>
 
-<p class="para-en"><em>Get the spear.</em></p>
+<p class="para-en">Get the spear.</p>
 
-<p class="para-vi-sub"><i>Lấy ngọn giáo đi.</i></p>
+<p class="para-vi-sub">Lấy ngọn giáo đi.</p>
 
 <p class="para-en">Delphine ran to the table where the flute-shaped case held the spearhead, and she grabbed it just before the panicked mule kicked the table over, almost on top of her. She opened the case. The priest said her name; she handed him the spear and he understood.</p>
 
@@ -226,7 +226,7 @@
 
 <p class="para-vi-sub">Thomas dồn hết sinh lực vung kiếm trúng ngay chính giữa mặt nó bằng phần chuôi kiếm và ngấn kiếm nặng nề, đánh bay chiếc mũi đá của nó.</p>
 
-<p class="para-en"><a id="page153"></a>The priest poked at it with the spear, and it scuttled backward out the door.</p>
+<p class="para-en">The priest poked at it with the spear, and it scuttled backward out the door.</p>
 
 <p class="para-vi-sub">Vị linh mục dùng mũi lao La Mã chọc vào nó, và nó lùi lũi bò giật lùi ra cửa.</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-vi-sub">Làn khói đen đặc nghẹn thở lùa lên qua các khe ván sàn phòng ngủ, nhưng anh đã tìm thấy chiếc túi của Delphine, tập tễnh bước xuống cầu thang, lướt qua những bức tượng gỗ giờ đang âm ỉ cháy và đi qua nhà bếp. Ho sặc sụa, nước mắt trào ra còn khuôn mặt thì bám đầy nhọ nồi, Thomas gắng sức nhấc bản thân và hành trang của họ lên xe.</p>
 
-<p class="para-en">He patted out with his mailed hand the edge of the priest’s linen <a id="page154"></a>robes where they glowed orange and curled, just on the verge of breaking out in flames.</p>
+<p class="para-en">He patted out with his mailed hand the edge of the priest’s linen robes where they glowed orange and curled, just on the verge of breaking out in flames.</p>
 
 <p class="para-vi-sub">Anh dùng bàn tay đeo găng sắt vỗ tắt phần gấu tà áo choàng vải lanh của vị linh mục đang cháy rực ánh cam và quăn lại, ngay bên bờ vực bùng lên thành ngọn lửa.</p>
 
@@ -262,25 +262,25 @@
 
 <p class="para-vi-sub">Họ thận trọng quan sát xung quanh trong suốt chặng đường, đề phòng một nỗi kinh hoàng mới nào đó lao vào họ từ bóng tối của một con hẻm. Thomas ho từng hồi, cha Matthieu vụng về vỗ lưng anh. Delphine ôm chặt mũi lao La Mã, tự đánh lạc hướng bản thân bằng cách vừa hát vừa khóc:</p>
 
-<p class="para-en"><em>Hey little Robin, sing hey</em></p>
+<p class="para-en">Hey little Robin, sing hey</p>
 
 <p class="para-vi-sub">Hỡi chú chim non, cất tiếng hót ca,</p>
 
-<p class="para-en"><em>Is it time to fly away</em></p>
+<p class="para-en">Is it time to fly away</p>
 
 <p class="para-vi-sub">Hỡi chim, đã đến lúc bay,</p>
 
-<p class="para-en"><em>with your strong, young wings</em></p>
+<p class="para-en">with your strong, young wings</p>
 
 <p class="para-vi-sub">Đôi cánh non khỏe, tung mây giữa trời.</p>
 
-<p class="para-en"><em>as your father sings,</em></p>
+<p class="para-en">as your father sings,</p>
 
 <p class="para-vi-sub">Nghe cha cất tiếng gọi mời,</p>
 
-<p class="para-en"><em>Is it time to fly away?</em></p>
+<p class="para-en">Is it time to fly away?</p>
 
-<p class="para-vi-sub">Đã đến lúc lướt lên trời cao xanh?</p>
+<p class="para-vi-sub">Đã đến lúc lướt lên trời cao xanh.</p>
 
 <p class="para-en">The only person they saw was a woman who dragged an old man out of her house and sat him by the door; she had trouble propping him up, but finally managed. When she saw the cart, she said, “Take him, please! I’ll pay! I have radishes, you can have them! He was good to me and I want him buried. Please!”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-vi-sub">Cha Matthieu nói “Tôi xin lỗi,” bằng giọng quá khẽ để người phụ nữ có thể nghe thấy, rồi tiếp tục cho xe chạy dù bà vẫn cố đuổi theo vài bước và khẩn khoản xin xỏ. Delphine, người lẽ ra có thể lên tiếng phản đối, chỉ hát lại bài ca của mình rồi nhắm nghiền mắt lại.</p>
 
-<p class="para-en">On their way out of the quarter, they passed a church whose stone walls were covered with mold and whose stained-glass windows had <a id="page155"></a>been broken out. Deep tracks from all directions pocked the ground around the building, which stank so badly of rot and mold that all of them gagged. The life-sized statue of the Virgin stood by the door, with a bloody, broken crown, a missing foot, and no nose. She held the broken haft of a scepter and cradled the abused form of a child dead of plague.</p>
+<p class="para-en">On their way out of the quarter, they passed a church whose stone walls were covered with mold and whose stained-glass windows had been broken out. Deep tracks from all directions pocked the ground around the building, which stank so badly of rot and mold that all of them gagged. The life-sized statue of the Virgin stood by the door, with a bloody, broken crown, a missing foot, and no nose. She held the broken haft of a scepter and cradled the abused form of a child dead of plague.</p>
 
 <p class="para-vi-sub">Trên đường rời khỏi khu phố, họ đi ngang qua một nhà thờ có những bức tường đá phủ đầy rêu mốc và những ô cửa sổ kính màu đã bị đập phá. Những vệt bánh xe sâu hoắm từ mọi hướng hằn đầy trên mặt đất quanh tòa nhà, nơi bốc lên thứ mùi hôi thối của sự mục rữa và ẩm mốc đến mức cả ba đều buồn nôn. Bức tượng Đức Mẹ bằng người thật đứng cạnh cửa, với chiếc vương miện đẫm máu bị vỡ, cụt một bàn chân và không còn mũi. Bà cầm phần cán gãy của một quyền trượng và ôm lấy hình hài tội nghiệp của một đứa trẻ đã chết vì dịch hạch.</p>
 
@@ -330,7 +330,7 @@
 
 <p class="para-vi-sub">Ngôi nhà thờ thật kinh hoàng; nếu nơi đây từng thuộc về Thiên Đàng, thì giờ đây không còn nữa, và không khí xung quanh đặc quánh những ruồi là ruồi. Con la liên tục quất đuôi hoặc giật nhẹ lớp da ở sườn để xua đuổi vô số con ruồi đang bám vào mình. Ruồi bò nhung nhúc đến phát điên trên đám lông tay cha Matthieu hoặc bậu gần miệng Thomas.</p>
 
-<p class="para-en">They drew closer, hugging as tightly as they could to the shops on the other side of the narrow street, but still coming uncomfortably close to the spoiled <em>église</em>.</p>
+<p class="para-en">They drew closer, hugging as tightly as they could to the shops on the other side of the narrow street, but still coming uncomfortably close to the spoiled église.</p>
 
 <p class="para-vi-sub">Họ tiến lại gần hơn, cố né sát hết mức có thể vào các cửa tiệm ở bên kia con phố hẹp, nhưng vẫn đến mức khó chịu sát bên ngôi thánh đường đã bị uế tạp.</p>
 
@@ -338,29 +338,29 @@
 
 <p class="para-vi-sub">Bên cạnh bức tượng Đức Mẹ rùng rợn, những bức tượng các vị thánh, vua chúa và tông đồ khác vẫn đứng trên bệ của mình, có màu sáng hơn lớp màng xanh đen phủ kín các bức tường, tay chân và khuôn mặt của chúng cũng lác đác dính đầy những vệt máu. Dù rất khó nhìn trong ánh sáng mờ ảo của buổi bình minh, nhưng những giọt máu trông vẫn đỏ tươi và mới mẻ; chúng vừa mới trở về sau cuộc săn mồi. Phải chăng một thiên thần bị cụt cánh vừa mới cựa mình? Phải chăng một bức tượng đầu quỷ gargoile vừa liếm bàn chân trước như loài chó? Một vài bức tượng đang cầm những hình thù nhỏ bé mà khi chiếc xe tiến lại gần, Thomas, cha Matthieu và Delphine đều cảm thấy kinh hoàng khi nhận ra đó là những đứa trẻ đã chết. Thánh tông đồ Phaolô với cái miệng đẫm máu tay cầm cuốn sách bằng đá, còn tay kia túm lấy đầu một đứa bé trai rũ rượi giơ cao lên không trung như thể vị thánh đang được phục vụ chuyện chăn gối, đôi tay của cậu bé đã biến mất hoàn toàn, đôi chân tái nhợt lủng lẳng nhẹ nhàng hệt như một kẻ tử tù bị treo cổ.</p>
 
-<p class="para-en">St. Paul turned his stone head and looked squarely at Père Matthieu. <a id="page156"></a>The priest felt an icy finger in his heart, and then his head exploded in pain as St. Paul assaulted him with a wordless shout:</p>
+<p class="para-en">St. Paul turned his stone head and looked squarely at Père Matthieu. The priest felt an icy finger in his heart, and then his head exploded in pain as St. Paul assaulted him with a wordless shout:</p>
 
 <p class="para-vi-sub">Thánh Phaolô quay cái đầu bằng đá và trừng mắt nhìn thẳng vào cha Matthieu. Cha Matthieu cảm thấy như có một ngón tay lạnh ngắt đâm thẳng vào tim, và rồi đầu ông như nổ tung trong cơn đau đớn khi Thánh Phaolô tấn công ông bằng một tiếng gầm không lời:</p>
 
-<p class="para-en"><em>DO YOU LIKE THIS BUGGER PRIEST WE DID THIS FOR YOU YOU FILTHY BUGGER SODOMITE DRUNK WHO THE FUCK DO YOU THINK YOU’RE FOOLING WOULD YOU LIKE TO CLIMB UP HERE WITH ME AND HOIST THOSE ROBES HOC EST ENIM VERGUM MEUM</em></p>
+<p class="para-en">DO YOU LIKE THIS BUGGER PRIEST WE DID THIS FOR YOU YOU FILTHY BUGGER SODOMITE DRUNK WHO THE FUCK DO YOU THINK YOU’RE FOOLING WOULD YOU LIKE TO CLIMB UP HERE WITH ME AND HOIST THOSE ROBES HOC EST ENIM VERGUM MEUM</p>
 
-<p class="para-vi-sub"><i>MÀY CÓ THÍCH THẰNG KHỐN NÀY KHÔNG HỠI LINH MỤC BỌN TA ĐÃ LÀM ĐIỀU NÀY VÌ MÀY ĐẤY ĐỒ BẠN BIẾN CHẤT ĐỒ KÊ GIAN SÓDÔM NÁT RƯỢU MÀY NGHĨ MÀY ĐANG LỪA AI HẢ MÀY CÓ MUỐN TRÈO LÊN ĐÂY VỚI TA VÀ KÉO MẤY CÁI TÀ ÁO ĐÓ LÊN HOC EST ENIM VERGUM MEUM</i></p>
+<p class="para-vi-sub">MÀY CÓ THÍCH THẰNG KHỐN NÀY KHÔNG HỠI LINH MỤC BỌN TA ĐÃ LÀM ĐIỀU NÀY VÌ MÀY ĐẤY ĐỒ BẠN BIẾN CHẤT ĐỒ KÊ GIAN SÓDÔM NÁT RƯỢU MÀY NGHĨ MÀY ĐANG LỪA AI HẢ MÀY CÓ MUỐN TRÈO LÊN ĐÂY VỚI TA VÀ KÉO MẤY CÁI TÀ ÁO ĐÓ LÊN HOC EST ENIM VERGUM MEUM</p>
 
 <p class="para-en">The priest let drop the reins and put his hands over his ears, but it didn’t help. At the same time, a statue of St. Martin pointed his sword at Thomas and split his head with:</p>
 
 <p class="para-vi-sub">Cha Matthieu buông thõng dây cương và đưa hai tay ôm lấy tai, nhưng chẳng ích gì. Cùng lúc đó, bức tượng Thánh Martin chĩa thanh kiếm về phía Thomas và bổ thẳng vào đầu Thomas bằng một luồng tư tưởng:</p>
 
-<p class="para-en"><em>COWARD HAVE YOU RAPED THE GIRL YET BECAUSE YOU WILL WE WILL MAKE YOU RAPE HER IN THE ASS BUT NOT THE CUNT BECAUSE SHE WILL BE A VIRGIN WHEN YOU CUT HER THROAT FOR YOUR MASTER AND YOU KNOW WHO THAT IS DON’T YOU</em></p>
+<p class="para-en">COWARD HAVE YOU RAPED THE GIRL YET BECAUSE YOU WILL WE WILL MAKE YOU RAPE HER IN THE ASS BUT NOT THE CUNT BECAUSE SHE WILL BE A VIRGIN WHEN YOU CUT HER THROAT FOR YOUR MASTER AND YOU KNOW WHO THAT IS DON’T YOU</p>
 
-<p class="para-vi-sub"><i>ĐỒ HÈN NHÁT MÀY ĐÃ CƯỠNG HIẾP CON NHỎ ĐÓ CHƯA VÌ RỒI MÀY SẼ LÀM THẾ BỌN TA SẼ BẮT MÀY CHƠI NÓ ĐẰNG SAU NHƯNG KHÔNG ĐƯỢC PHÁ TRINH NÓ ĐỂ NÓ CÒN NGUYÊN VẸN KHI MÀY CẮT CỔ NÓ DÂNG CHO CHỦ NHÂN CỦA MÀY VÀ MÀY BIẾT ĐÓ LÀ AI RỒI ĐÚNG KHÔNG</i></p>
+<p class="para-vi-sub">ĐỒ HÈN NHÁT MÀY ĐÃ CƯỠNG HIẾP CON NHỎ ĐÓ CHƯA VÌ RỒI MÀY SẼ LÀM THẾ BỌN TA SẼ BẮT MÀY CHƠI NÓ ĐẰNG SAU NHƯNG KHÔNG ĐƯỢC PHÁ TRINH NÓ ĐỂ NÓ CÒN NGUYÊN VẸN KHI MÀY CẮT CỔ NÓ DÂNG CHO CHỦ NHÂN CỦA MÀY VÀ MÀY BIẾT ĐÓ LÀ AI RỒI ĐÚNG KHÔNG</p>
 
 <p class="para-en">St. Anne crouched as though she might leap at the girl and thought-screamed into her head:</p>
 
 <p class="para-vi-sub">Thánh Anna khom người như thể chực lao vào Delphine và thét lên trong tâm trí em:</p>
 
-<p class="para-en"><em>EVERYONE YOU LOVE WILL DIE THIS PRIEST AND THIS KNIGHT BOTH OF THEM WILL DIE BECAUSE OF YOU WE WILL KILL THEM WE DON’T KNOW WHAT YOU ARE BUT WE WILL FIND OUT EVEN IF WE HAVE TO CUT YOU OPEN AND THAT TOY WON’T HELP YOU</em></p>
+<p class="para-en">EVERYONE YOU LOVE WILL DIE THIS PRIEST AND THIS KNIGHT BOTH OF THEM WILL DIE BECAUSE OF YOU WE WILL KILL THEM WE DON’T KNOW WHAT YOU ARE BUT WE WILL FIND OUT EVEN IF WE HAVE TO CUT YOU OPEN AND THAT TOY WON’T HELP YOU</p>
 
-<p class="para-vi-sub"><i>TẤT CẢ NHỮNG AI NGƯƠI YÊU THƯƠNG SẼ CHẾT VỊ LINH MỤC NÀY VÀ TÊN HIỆP SĨ NÀY CẢ HAI SẼ CHẾT VÌ NGƯƠI CHÚNG TA SẼ GIẾT HỌ CHÚNG TA KHÔNG BIẾT NGƯƠI LÀ THỨ GÌ NHƯNG CHÚNG TA SẼ TÌM RA CHO DÙ CHÚNG TA PHẢI RẠCH NGƯƠI RA VÀ MÓN ĐỒ CHƠI ĐÓ SẼ KHÔNG CỨU ĐƯỢC NGƯƠI ĐÂU</i></p>
+<p class="para-vi-sub">TẤT CẢ NHỮNG AI NGƯƠI YÊU THƯƠNG SẼ CHẾT VỊ LINH MỤC NÀY VÀ TÊN HIỆP SĨ NÀY CẢ HAI SẼ CHẾT VÌ NGƯƠI CHÚNG TA SẼ GIẾT HỌ CHÚNG TA KHÔNG BIẾT NGƯƠI LÀ THỨ GÌ NHƯNG CHÚNG TA SẼ TÌM RA CHO DÙ CHÚNG TA PHẢI RẠCH NGƯƠI RA VÀ MÓN ĐỒ CHƠI ĐÓ SẼ KHÔNG CỨU ĐƯỢC NGƯƠI ĐÂU</p>
 
 <p class="para-en">The cart wandered unguided as the three of them writhed under the words hurled at them. Then, beyond the buildings to the east and behind the clouds, the sun rose unseen and the voices stopped. The priest collapsed against the good weight of the knight and did something like sleeping.</p>
 

@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Hai: Về Mật Ongvà Cây Thánh Giá Bị Gãy
+# Chương Hai: Về Mật Ong và Cây Thánh Giá Bị Gãy
 
 Thomas và cô bé ngủ trong một cái kho lúa trên những đống cỏ khô mục nát khác nhau, còn Jacquot bị trói trong chuồng lừa cũ. Gã không gây rắc rối vào buổi tối vì gã biết mình đã suýt chết đến nhường nào, nhưng gần sáng gã quên mất và đánh thức Thomas dậy.
 
@@ -124,7 +124,7 @@ Cây cung sẽ rất hữu ích cho việc săn bắn nếu Thomas có chút tà
 
 “Chúa của chúng ta đã dạy rằng tuyệt đối không được giết người. Vậy thì có gì khác biệt?”
 
-“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn2">[2]</a>. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”
+“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”
 
 “Thế mà ngài lại đi cùng một kẻ giết người từ khoảng cách xa. Vậy ngài làm gì trên con đường này cùng với những kẻ đó?”
 
@@ -202,7 +202,7 @@ Jacquot càu nhàu khi kéo gánh nặng của mình qua ngưỡng cửa.
 
 “Thế nên chúng ta lãng phí nửa ngày để chôn cất một kẻ xa lạ và bỏ mặc những người bạn của mình như lũ súc vật sao?”
 
-“Bạn bè của chúng ta <i>đích thị</i> là lũ súc vật rồi. Chúng ta đang làm điều này vì con bé. Giờ thì câm miệng lại đi.”
+“Bạn bè của chúng ta đích thị là lũ súc vật rồi. Chúng ta đang làm điều này vì con bé. Giờ thì câm miệng lại đi.”
 
 “Ngài định làm gì nào? Lại đấm tôi nữa à? Vậy lúc đó ai sẽ lăn lão già này xuống huyệt của lão? Chính ngài chứ ai.”
 
@@ -292,7 +292,7 @@ Cô bé chỉ ngước nhìn Thomas.
 
 Gã nheo mắt nhìn các chữ cái và đánh vần chúng.
 
-“Thomas Aquinas<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn3">[3]</a> ư? Thật á?”
+“Thomas Aquinas[3] ư? Thật á?”
 
 Cô bé gật đầu.
 

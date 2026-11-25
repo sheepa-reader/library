@@ -1,10 +1,10 @@
 *Phần III*
 
-# Chương Hai Mươi Sáu: Về Thomas,và một lời thềđã khất quá lâu
+# Chương Hai Mươi Sáu: Về Thomas, và một lời thề đã khất quá lâu
 
 Cô bé đã đi mất.
 
-Thomas lùng sục khắp nơi quanh trại để tìm dấu vết cho thấy Delphine bị bắt đi, nhưng không thấy gì cả.
+Thomas lùng sục khắp nơi quanh trại để tìm dấu vết cho thấy Delphine bị bắt đi, nhưng chẳng thấy gì cả.
 
 Anh chắc chắn cô bé đã bỏ đi.
 

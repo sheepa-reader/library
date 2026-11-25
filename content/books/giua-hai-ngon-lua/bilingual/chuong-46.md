@@ -6,45 +6,45 @@
 
 <p class="para-vi-sub">Thomas quỵ xuống. Thế giới chìm trong một màu đen ngòm. Gã biết mình sắp chết, cảm giác trôi dạt ấy lại ùa về, và gã vẫn cố nhìn xem cô bé ở đâu, liệu con bé có an toàn không. Gã không thể nhìn qua lũ ác quỷ với đôi cánh xòe rộng đằng sau, dù gã biết chúng đang tàn sát. Tạo ra nhiều kẻ giống như gã hơn. Những xác chết. Những thể xác tàn tạ. Tầm nhìn của gã vụt tắt và một bức màn đen sập xuống; gã cảm thấy những viên gạch ở sân chầu phẳng lì bên dưới mình lúc này, gương mặt áp lên đó. Lạnh lẽo. Gã ngửi thấy mùi hôi thối của những thiên thần sa ngã, tàn bạo và buồn nôn. Gã lắng nghe nhịp đập trái tim mình nhưng chỉ nghe thấy sự im lặng trong lồng ngực. Cánh tay của gã đã đứt lìa, điều đó gã còn nhớ, nhưng gã chẳng thể cảm nhận được bất kỳ thớ bắp thịt nào nữa. Gã có cảm giác dạ dày mình đang trống rỗng trào qua đường miệng, nhưng gã không thở, thế nên gã chẳng sợ bị nghẹn. Rồi gã cảm thấy ruột gan và bàng quang của mình đang trút sạch. Sau đó gã xuất tinh, hầu như chẳng cảm nhận được gì, đó là khoái cảm cuối cùng và mờ nhạt của cơ thể gã. Những hình ảnh và lời nói hiện lên trong đầu gã dồn dập, bên trong tâm trí gã nhưng còn lớn hơn cả tiếng rít điên cuồng vang lên bên ngoài, một âm thanh mà gã đã từng nghe trước đây, nhưng giờ thì nó xa xăm, lùi xa dần và chẳng còn quan trọng nữa.</p>
 
-<p class="para-en"><a id="page402"></a><em>That’s how the poor bastards sing</em></p>
+<p class="para-en">That’s how the poor bastards sing</p>
 
-<p class="para-vi-sub"><i>Lũ khốn kiếp đó hát ca như vậy đấy</i></p>
+<p class="para-vi-sub">Lũ khốn kiếp đó hát ca như vậy đấy</p>
 
 <p class="para-en">He smiled at that, or thought he did, but he was beyond the power to move any part of himself, even the tiny muscles that pulled his mouth. His hearing winked out, leaving only thoughts.</p>
 
 <p class="para-vi-sub">Gã mỉm cười trước ý nghĩ đó, hoặc nghĩ rằng mình đã cười, nhưng gã đã vượt quá khả năng cử động bất kỳ phần nào trên cơ thể, thậm chí là những cơ bắp nhỏ xíu kéo khóe miệng. Thính giác của gã chớp tắt, chỉ để lại những suy nghĩ.</p>
 
-<p class="para-en"><em>Is this it?</em></p>
+<p class="para-en">Is this it?</p>
 
-<p class="para-vi-sub"><i>Thế này là hết sao?</i></p>
+<p class="para-vi-sub">Thế này là hết sao?</p>
 
-<p class="para-en"><em>When does even this stop?</em></p>
+<p class="para-en">When does even this stop?</p>
 
-<p class="para-vi-sub"><i>Đến cái này rồi cũng sẽ dừng lại khi nào?</i></p>
+<p class="para-vi-sub">Đến cái này rồi cũng sẽ dừng lại khi nào?</p>
 
-<p class="para-en"><em>Is this how it was for the ones I killed?</em></p>
+<p class="para-en">Is this how it was for the ones I killed?</p>
 
-<p class="para-vi-sub"><i>Những kẻ ta từng giết đã trải qua chuyện này thế nào?</i></p>
+<p class="para-vi-sub">Những kẻ ta từng giết đã trải qua chuyện này thế nào?</p>
 
 <p class="para-en">Something in him broke free, and he got his vision back. He saw himself as if from above in a spreading pool of blood. His eyes, which he had thought were closed, were not.</p>
 
 <p class="para-vi-sub">Một thứ gì đó trong người gã buông lỏng, và thị lực của gã đã hồi phục. Gã nhìn thấy chính mình tựa như từ trên cao nhìn xuống trong một vũng máu đang loang rộng. Đôi mắt của gã, thứ mà gã nghĩ đã nhắm nghiền, kỳ thực không phải vậy.</p>
 
-<p class="para-en"><em>I’m old,</em> he thought. <em>When did I get old?</em></p>
+<p class="para-en">I’m old, he thought. When did I get old?</p>
 
-<p class="para-vi-sub"><i>Ta già rồi,</i> gã nghĩ. <i>Ta già đi tự bao giờ thế?</i></p>
+<p class="para-vi-sub">Ta già rồi, gã nghĩ. Ta già đi tự bao giờ thế?</p>
 
-<p class="para-en"><em>Blood in my white beard.</em></p>
+<p class="para-en">Blood in my white beard.</p>
 
-<p class="para-vi-sub"><i>Máu dính trên bộ râu trắng.</i></p>
+<p class="para-vi-sub">Máu dính trên bộ râu trắng.</p>
 
-<p class="para-en"><em>Vomit under it.</em></p>
+<p class="para-en">Vomit under it.</p>
 
-<p class="para-vi-sub"><i>Bãi nôn nằm bên dưới đó.</i></p>
+<p class="para-vi-sub">Bãi nôn nằm bên dưới đó.</p>
 
-<p class="para-en"><em>I’m ugly.</em></p>
+<p class="para-en">I’m ugly.</p>
 
-<p class="para-vi-sub"><i>Trông ta thật gớm ghiếc.</i></p>
+<p class="para-vi-sub">Trông ta thật gớm ghiếc.</p>
 
 <p class="para-en">He wanted to touch his face but had nothing to touch it with.</p>
 
@@ -78,13 +78,13 @@
 
 <p class="para-vi-sub">Thomas lúc này chỉ là một cậu bé, ngước nhìn lên một sinh thể trông thật ghê tởm, nhưng cậu nghĩ nó sẽ không làm hại mình.</p>
 
-<p class="para-en"><em>That’s not its job</em></p>
+<p class="para-en">That’s not its job</p>
 
-<p class="para-vi-sub"><i>Đó không phải việc của nó</i></p>
+<p class="para-vi-sub">Đó không phải việc của nó</p>
 
-<p class="para-en"><em>It’s just a clerk</em></p>
+<p class="para-en">It’s just a clerk</p>
 
-<p class="para-vi-sub"><i>Nó chỉ là một tên thư lại</i></p>
+<p class="para-vi-sub">Nó chỉ là một tên thư lại</p>
 
 <p class="para-en">The room was small and dim, and he was not sure where the light came from: no sconce, no niche, no hearth, no window.</p>
 
@@ -94,13 +94,13 @@
 
 <p class="para-vi-sub">Không có cửa ra vào.</p>
 
-<p class="para-en"><em>How will I get out?</em></p>
+<p class="para-en">How will I get out?</p>
 
-<p class="para-vi-sub"><i>Làm sao ta thoát ra đây?</i></p>
+<p class="para-vi-sub">Làm sao ta thoát ra đây?</p>
 
-<p class="para-en"><a id="page403"></a><em>Will I get out?</em></p>
+<p class="para-en">Will I get out?</p>
 
-<p class="para-vi-sub"><i>Liệu ta có thoát nổi không?</i></p>
+<p class="para-vi-sub">Liệu ta có thoát nổi không?</p>
 
 <p class="para-en">He was not as tall as the table. The other consulted a book and other documents, hobbling around the table on its ankles, its feet turned on their sides like a cripple’s; it carried a stool upon which it sat every third or fourth step, clearly in pain. Thomas had to keep moving around to see it past the big table. It was as if it wanted to hide itself from him, as if it knew it was hideous, its eyes just holes in its gray, formless head, its skin blotched and moldy. So it shuffled painfully and kept the table between them, checking the book, checking parchments against one another; its arms had two elbows each, so it was hard to tell what it would reach for next.</p>
 
@@ -130,7 +130,7 @@
 
 <p class="para-vi-sub">Bàn tay của một cậu bé.</p>
 
-<p class="para-en"><a id="page404"></a>A polished mirror on the wall, a stone wall as in a castle, let him see himself.</p>
+<p class="para-en">A polished mirror on the wall, a stone wall as in a castle, let him see himself.</p>
 
 <p class="para-vi-sub">Một chiếc gương sáng bóng trên tường, bức tường đá giống như trong lâu đài, cho phép cậu nhìn thấy chính mình.</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-vi-sub">“Ngươi là một đứa trẻ thông minh. Ngươi nghĩ bằng cách nào?”</p>
 
-<p class="para-en"><a id="page405"></a>“I don’t know.”</p>
+<p class="para-en">“I don’t know.”</p>
 
 <p class="para-vi-sub">“Con không biết.”</p>
 
@@ -258,9 +258,9 @@
 
 <p class="para-vi-sub">Những cái miệng không chỉ mở ra trên bụng nó, mà còn ở rất nhiều nơi khác.</p>
 
-<p class="para-en">“No! <em>No!</em>”</p>
+<p class="para-en">“No! No!”</p>
 
-<p class="para-vi-sub">“Không! <i>Không!</i>”</p>
+<p class="para-vi-sub">“Không! Không!”</p>
 
 <p class="para-en">It ate him.</p>
 
@@ -274,9 +274,9 @@
 
 <p class="para-vi-sub">Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu</p>
 
-<p class="para-en"><em>Thomas de Givras, I damn thee</em></p>
+<p class="para-en">Thomas de Givras, I damn thee</p>
 
-<p class="para-vi-sub"><i>Thomas de Givras, ta đày đọa ngươi</i></p>
+<p class="para-vi-sub">Thomas de Givras, ta đày đọa ngươi</p>
 
 <p class="para-en">and then chewing him down alive.</p>
 
@@ -286,17 +286,17 @@
 
 <p class="para-vi-sub">Cậu run lẩy bẩy và để mặc nó làm vậy.</p>
 
-<p class="para-en"><em>I damn thee</em></p>
+<p class="para-en">I damn thee</p>
 
-<p class="para-vi-sub"><i>Ta đày đọa ngươi</i></p>
+<p class="para-vi-sub">Ta đày đọa ngươi</p>
 
 <p class="para-en">He cried and let it.</p>
 
 <p class="para-vi-sub">Cậu khóc nức nở và để mặc nó làm vậy.</p>
 
-<p class="para-en"><em>I damn thee</em></p>
+<p class="para-en">I damn thee</p>
 
-<p class="para-vi-sub"><i>Ta đày đọa ngươi</i></p>
+<p class="para-vi-sub">Ta đày đọa ngươi</p>
 
 <p class="para-en">And then he just let it.</p>
 

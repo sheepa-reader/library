@@ -20,19 +20,19 @@ Hai người đàn ông tưởng chừng nghe thấy tiếng thét, nhưng chẳ
 
 Mặt đất bỗng rung chuyển, tựa như có vật gì đó nặng đến không thể tưởng tượng nổi vừa rơi xuống. Một góc ngôi nhà đá bên tay phải họ đổ sụp xuống, và gió càng thổi mạnh hơn, kéo tốc độ của hai người xuống chậm như đang leo một con dốc đứng. Những cành cây sắc nhọn cùng các mảnh vụn nhỏ khác quất vào người họ, rồi một cành cây từ trên trời rơi xuống, nện trúng đỉnh đầu vị linh mục khiến ông ngã quỵ. Thomas nắm lấy tay ông kéo đứng dậy; họ lê bước tiến về phía đoạn đường cao hơn. Dùng tay che mặt hết sức có thể, họ thấy một cột mây xoáy thứ hai đã nhập vào cột mây đầu tiên, cả hai đang nhổ bật gốc những cây cối trên mặt đất rồi hút ngược lên trời. Tiếng một người đàn ông hét lên từ một trang trại gần đó, và họ hiểu nguyên nhân: hai cột mây đã rời khỏi mặt đất. Phần đáy thuôn nhọn của chúng biến thành những chiếc đuôi, còn phần đỉnh dày hơn dường như hóa thành những đôi cánh. Một trong hai đám mây mọc ra hai chiếc cánh đen khổng lồ, và đám mây kia mọc ra sáu cánh dường như đang cụp vào nhau.
 
-<i>Thiên thần Seraphim hiền từ ngọt ngào lạy Chúa một vị thiên thần sa ngã</i>
+Thiên thần Seraphim hiền từ ngọt ngào lạy Chúa một vị thiên thần sa ngã
 
 và chỉ trong chớp mắt, cả hai hòa lẫn vào đám mây lớn hơn đang che kín phần lớn bầu trời.
 
 Vị linh mục kiệt sức ngừng chạy và quỵ xuống hai đầu gối.
 
-<i>Chúa ơi Chúa ơi Chúa ơi</i>
+Chúa ơi Chúa ơi Chúa ơi
 
 “Ngài ở đâu?” cha Matthieu nói.
 
 “Ở đây!” Thomas nói, nhưng cha Matthieu đang ngước nhìn bầu trời.
 
-<i>“NGÀI Ở ĐÂU?”</i> vị linh mục gào lên, nghiến ken két hàm răng.
+“NGÀI Ở ĐÂU?” vị linh mục gào lên, nghiến ken két hàm răng.
 
 Thomas lôi ông đứng dậy, nhưng ông giằng ra, lắc đầu. Cuối cùng vị linh mục gục vào một thân cây rồi vòng tay ôm chặt lấy nó, nhất quyết không chịu di chuyển thêm bước nào.
 
@@ -56,15 +56,15 @@ Một mảng đen kịt khổng lồ nổi bật giữa bầu trời.
 
 Nó lượn hai vòng rồi khựng lại. Nó chẳng giống chim chóc chút nào, dẫu nó có cánh, hoặc ít ra dùng đôi cánh ấy để giải thích sự hiện diện của mình; không một loài chim nào có thể cứ lơ lửng trên trời hệt như một bức ảnh tĩnh của chính nó. Nó dòm ngó xuống các cánh đồng, khuôn mặt gần giống loài mèo nhưng lại vô cùng quái dị, với bộ hàm đen ngòm trong chiếc miệng phát sáng bệnh hoạn. Nó gầm lên, và tiếng gầm ấy vô cùng quen thuộc: tiếng gầm sư tử mang nét biến dạng lố bịch.
 
-<i>Một thiên sứ thịnh nộ</i>
+Một thiên sứ thịnh nộ
 
-<i>Một con sư tử đang xé xác một ông già giữa đấu trường</i>
+Một con sư tử đang xé xác một ông già giữa đấu trường
 
 Nó nhìn thấy thứ gì đó thu hút sự chú ý; một chiếc chi đen đúa khổng lồ, lúc thì như cánh tay, lúc lại giống một dạng bàn chân, vươn xuống bất thường rồi tóm lấy một vật.
 
 Một đứa trẻ.
 
-<i>Chúa ơi, không, không, đừng là con bé.</i>
+Chúa ơi, không, không, đừng là con bé.
 
 Nhưng đó không phải là con bé.
 
@@ -118,9 +118,9 @@ Gió lại thổi mạnh lên.
 
 Vị linh mục thầm cầu nguyện, mấp máy môi đọc những câu tiếng Latinh không thành tiếng nhưng chẳng màng gì đến ý nghĩa; tâm trí ông hướng về bầu trời phía trên và ông lắng nghe, giống như Delphine, thứ âm thanh kinh hoàng đang giáng xuống từ trên đầu họ. Đang đến gần hơn. Mùi hôi thối dội xuống đậm đặc chẳng kém gì tiếng động, và ông phải cố gắng gồng mình để không nôn thốc nôn tháo, vì sợ rằng nếu đã bắt đầu thì ông sẽ không ngừng lại được cho đến khi rơi khỏi cành cây đang bám lấy. Tiếng động ngày một lớn hơn và cận kề hơn, giáng xuống như những cú đấm nện vào hộp sọ. Ông mím miệng định thét lên, nhưng bàn tay nhỏ nhắn của Delphine đã bịt chặt lấy miệng ông. Ông ngẩng lên nhìn con bé đang nép mình trên chiếc cành nhỏ ngay phía trên cành của ông. Delphine khẽ cử động bàn tay và lắc đầu ra hiệu không. Nước mắt đầm đìa trên má, và miệng con bé cũng mím chặt thành một đường cong cứng đờ, nhưng Delphine không hề phát ra tiếng khóc.
 
-<i>Đừng,</i> ánh mắt con bé đang bảo vậy.
+Đừng, ánh mắt con bé đang bảo vậy.
 
-<i>Xin cha đấy.</i>
+Xin cha đấy.
 
 Ông nghẹn ứ tiếng kêu trong cổ họng và bám thật chặt lấy cành cây thô ráp đang oằn mình lắc lư dữ dội trong tay và giữa hai đầu gối. Gió thét gào, quất vào mặt và tay ông đầy những mảnh vụn nhỏ li ti. Ông bắt đầu thấy hoa mắt chóng mặt. Nheo mắt lại, ông liếc nhìn lên để chắc chắn rằng cô bé vẫn đang bám trụ.
 
@@ -132,11 +132,11 @@ Cái miệng tròn vo bằng lửa hừng hực hiện ra phía sau những chi�
 
 Tiếng thét điên dại trong đầu ông bỗng cấu thành từ ngữ.
 
-<i>MÀY Ở ĐÂU CON ĐĨ NHỎ BỌN TA SẼ TÌM RA MÀY DÙ CÓ PHẢI CẠY BẬT MỌI MÁI NHÀ TỪ ĐÂY RA ĐẾN BIỂN VÀ NHỔ BỨNG MỌI CÂY CỐI LÊN ĐÚNG THẾ RỒI PHẢI KHÔNG MÀY ĐANG TRÊN MÂY PHẢI KHÔNG CÂY CHỨ GÌ BỌN TA NGỬI THẤY MÙI SỢ HÃI CỦA MÀY HÃY GHI NHỚ CÁI CHẾT SẼ ĐẾN VỚI MÀY NHƯ THẾ NÀO NHƯNG NÓ SẼ CÒN TỆ HƠN NỮA VÀ CÁI CHẾT KHÔNG PHẢI LÀ HẾT ĐÂU PHẢI RỒI! Ở ĐÂY!</i> Bọn tao thấy mày rồi.
+MÀY Ở ĐÂU CON ĐĨ NHỎ BỌN TA SẼ TÌM RA MÀY DÙ CÓ PHẢI CẠY BẬT MỌI MÁI NHÀ TỪ ĐÂY RA ĐẾN BIỂN VÀ NHỔ BỨNG MỌI CÂY CỐI LÊN ĐÚNG THẾ RỒI PHẢI KHÔNG MÀY ĐANG TRÊN MÂY PHẢI KHÔNG CÂY CHỨ GÌ BỌN TA NGỬI THẤY MÙI SỢ HÃI CỦA MÀY HÃY GHI NHỚ CÁI CHẾT SẼ ĐẾN VỚI MÀY NHƯ THẾ NÀO NHƯNG NÓ SẼ CÒN TỆ HƠN NỮA VÀ CÁI CHẾT KHÔNG PHẢI LÀ HẾT ĐÂU PHẢI RỒI! Ở ĐÂY! Bọn tao thấy mày rồi.
 
 Giờ thì một bàn tay trắng bệch
 
-<i>Một bàn tay khốn kiếp!</i>
+Một bàn tay khốn kiếp!
 
 to bằng cả một con ngựa con từ trên trời thò xuống ở tận cùng của một cánh tay có quá nhiều khớp xương. Nó giật tung những cành cây khỏi thân cây của họ. Lúc này thì vị linh mục đã thét lên. Delphine cũng vậy. Thêm những bàn tay nữa. Năm ư? Sáu ư?
 
@@ -144,7 +144,7 @@ Bọn chúng giờ đây túm lấy cái cây, giật mạnh và bứng phăng n
 
 Ông nhìn theo cái cây đang lùi dần lên phía trên, khuôn mặt cô bé trắng bệch giữa đám lá lùm xùm, đôi chân kẹp chặt vào cành cây như chiếc khóa.
 
-<i>KHÔNG!</i> ông cố thét lên, nhưng lồng ngực xẹp lép chỉ bật ra được một tiếng khò khè.
+KHÔNG! ông cố thét lên, nhưng lồng ngực xẹp lép chỉ bật ra được một tiếng khò khè.
 
 Thứ ở phía trên đầu đang cầm cái cây như một món đồ chơi.
 
@@ -156,7 +156,7 @@ Sáu cánh tay.
 
 Giờ thì nó đang xé toạc cái cây ra.
 
-<i>Sao tụi mày lại cứ phải hành hạ con bé nhỏ bé nhường ấy</i>
+Sao tụi mày lại cứ phải hành hạ con bé nhỏ bé nhường ấy
 
 Mười hai con mắt đang rực sáng và một cái miệng tròn bằng lửa.
 
@@ -210,7 +210,7 @@ Gần chỗ vị linh mục.
 
 Hình bóng con bé phóng đại nhanh chóng, lao thẳng về phía ông.
 
-<i>Lạy Chúa, xin thương xót.</i>
+Lạy Chúa, xin thương xót.
 
 Ông đã tóm được Delphine, dẫu sức đỡ không được trọn vẹn cho lắm.
 

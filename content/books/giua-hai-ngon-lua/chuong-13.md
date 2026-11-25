@@ -2,7 +2,7 @@
 
 # Chương Mười Một: Về khu chợ trên phố Mont-Fetard
 
-<span class="drop-2">“C</span>huyện gì đã xảy ra với người hầu của ngài thế?” vị linh mục hỏi.
+“Chuyện gì đã xảy ra với người hầu của ngài thế?” vị linh mục hỏi.
 
 “Tôi chịu chết không biết cậu ta đi đâu. Tôi đuổi cậu ta đi còn hơn là kéo cậu ta xuống Địa Ngục cùng mình, nhưng có lẽ cậu ta đã tìm thấy một địa ngục khác rồi. Chắc hẳn cậu ta đã lấy một cô gái người Anh và đẻ sòn sòn một lũ nhóc bám víu vào ngực vợ mình.”
 
@@ -46,7 +46,7 @@ Thỏ, bồ câu, cáo thướt tha gợi tình.
 
 Delphine, người nãy giờ vẫn đi sát nhóm người trong suốt chặng đường qua những con phố chết chóc, giờ đây để mặc bản thân bị kéo đi hết hướng này đến hướng khác, lúc thì tụt lại phía sau nhóm, lúc lại lững thững bước về phía trước vụng về do chưa quen đi guốc gỗ đi bùn. Cô bé có cảm giác rằng bất cứ thứ gì mình đang tìm kiếm ở Paris đều sẽ ở đây, ngay tại khu chợ này, nhưng em yêu vẻ lộng lẫy của khu chợ bằng tình yêu của một đứa trẻ đã phải giữ im lặng quá lâu. Em yêu những sắc màu và nhịp điệu của hoạt động thương mại, nhưng đặc biệt nhất là những thứ âm thanh ồn ào ấy. Âm thanh của những thứ tiếng nước ngoài làm Delphine vô cùng thích thú, nhắc nhở em rằng một thế giới rộng lớn vẫn đang tồn tại vượt ra ngoài chân trời của Normandy và Paris: một thế giới của muôn vàn tỉnh thành cùng vô số thị trấn và làng mạc có lẽ vẫn chưa hoàn toàn chết chóc.
 
-Người nước ngoài không hề thiếu tại khu chợ Mont-Fetard; những người Đức đang còng lưng bên những chồng sắt, phun cả bọt bia qua lớp ria mép khi họ cất tiếng gọi mời. Người Tây Ban Nha hát vang bài <i>Cuero, cuero, cuero de Córdoba</i> bên những tấm da giày tinh xảo đến mức người ta suýt nhìn xuyên qua được ánh sáng. Những người Bohemia gõ nhịp lên những thanh chì và hát những bài ca khó hiểu, chủ yếu để tự giải trí hơn là để thu hút khách hàng.
+Người nước ngoài không hề thiếu tại khu chợ Mont-Fetard; những người Đức đang còng lưng bên những chồng sắt, phun cả bọt bia qua lớp ria mép khi họ cất tiếng gọi mời. Người Tây Ban Nha hát vang bài Cuero, cuero, cuero de Córdoba bên những tấm da giày tinh xảo đến mức người ta suýt nhìn xuyên qua được ánh sáng. Những người Bohemia gõ nhịp lên những thanh chì và hát những bài ca khó hiểu, chủ yếu để tự giải trí hơn là để thu hút khách hàng.
 
 Delphine yêu tất cả những điều đó.
 

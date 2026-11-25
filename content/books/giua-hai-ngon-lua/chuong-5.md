@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Bốn: Về Tu Viện vàThứ Rượu Ngon NhấtTrong Vòng Bảy Năm
+# Chương Bốn: Về Tu Viện và Thứ Rượu Ngon Nhất Trong Vòng Bảy Năm
 
 Họ cùng nhau hành trình trong hai ngày, và vào ngày đầu tiên họ không thấy bóng người nào, chỉ ăn mấy cọng cỏ xanh, một củ cải dại cô bé bứt lên từ mặt đất với vạt áo quấn quanh tay, một con châu chấu con bé vồ được, cùng một chút xíu mật ong. Họ đang hướng về phía Paris, dù cô bé chẳng thể nói rõ lý do tại sao. Bất chấp chiếc sừng quỷ mà Thomas đã thấy tối hôm trước, gã đã nghĩ đến việc bỏ rơi cô bé không dưới chục lần, và vì mục đích đó, gã hầu như chẳng buồn đáp lại những nỗ lực trò chuyện của con bé. Cô bé có giọng nói dễ thương cùng phép tắc lịch sự, và Thomas chắc chắn sẽ dễ dàng nảy sinh tình cảm với con bé nếu gã buông lơi bản thân, nhưng gã quyết định không làm thế.
 
@@ -100,7 +100,7 @@ Họ nhìn thấy tu viện vào ngày thứ hai, và chỉ vì họ đi vào r�
 
 “Ồ, Chúa nhân từ, xin hãy ban may mắn cho chúng con,” Thomas nói, rồi cả hai tiến về phía cổng. Đó là một chiếc cổng đơn giản được đan bằng những cành cây, đang mở rộng. Một tấm biển gỗ treo trên cổng đề bằng chữ Latinh được khắc cháy:
 
-<span class="caps">CỔNG NÀY RỘNG MỞ<br/>CHO TẤT CẢ NHỮNG AI BƯỚC VÀO<br/>TRONG SỰ BÌNH AN CỦA CHÚA KITÔ</span>
+CỔNG NÀY RỘNG MỞCHO TẤT CẢ NHỮNG AI BƯỚC VÀOTRONG SỰ BÌNH AN CỦA CHÚA KITÔ
 
 Thomas rút kiếm ra và bước vào.
 
@@ -132,17 +132,17 @@ Cô bé đi về phía khu vườn thảo mộc và ra hiệu cho Thomas đi the
 
 “Gì thế? Sao lại thế?”
 
-Cô bé dùng ngón tay viết chữ <i>ô đầu</i> lên nền đất.
+Cô bé dùng ngón tay viết chữ ô đầu lên nền đất.
 
 Thomas nheo mày đọc lại, đánh vần từng chữ cái một.
 
-<i>Ô đầu</i>.
+Ô đầu.
 
 Độc dược.
 
 “Ồ. Cảm ơn nhé. Thế nào, mày không nói chuyện nữa à?”
 
-<i>Không ở đây.</i>
+Không ở đây.
 
 Thomas cũng đánh vần từng chữ cái này, vừa đọc vừa chỉ vào từng chữ.
 
@@ -152,7 +152,7 @@ Cô bé gật đầu.
 
 “Mày có tuyên khấn gì đâu.”
 
-<i>Có chứ</i>, cô bé viết. <i>Trước nhà thờ. Trong tim cháu.</i>
+Có chứ, cô bé viết. Trước nhà thờ. Trong tim cháu.
 
 Thomas đọc mất nhiều thời gian quá nên con bé đành chỉ thẳng vào nhà thờ rồi đặt tay lên ngực mình.
 
@@ -174,25 +174,25 @@ Họ ăn chỗ rau xanh và những bông hoa rực rỡ trong xô. Cùng với 
 
 “Cái này là gì thế?”
 
-<i>Chua me đất</i>, cô bé viết.
+Chua me đất, cô bé viết.
 
 Thomas dùng ngón tay dò theo từng con chữ, phát âm từng âm tiết ngập ngừng như dáng đi của một chú ngựa con tập bước. Cô bé gật đầu khi gã ghép các chữ lại với nhau chính xác.
 
 “Ngon phết. Giống như chanh ấy, nhưng mà ngon. Thế còn cái này?”
 
-<i>Đương quy</i>
+Đương quy
 
 “Cái này?”
 
-<i>Liên mộc</i>
+Liên mộc
 
 “Cái này thì tao biết. Đừng có ăn hết đấy. Sáng mai đi hái thêm đi, nếu còn nhiều. Loại này đắp vào vết thương thì cầm máu rất tốt.”
 
-<i>Cỏ thi</i>
+Cỏ thi
 
 “Sao mày rành mấy thứ này thế?”
 
-<i>Mẹ</i>, cô bé viết, và một nụ cười khẽ nở trên gương mặt đến mức Thomas phải cắn chặt lưỡi để kìm nén cơn khóc nghẹn cho chính người mẹ của mình.
+Mẹ, cô bé viết, và một nụ cười khẽ nở trên gương mặt đến mức Thomas phải cắn chặt lưỡi để kìm nén cơn khóc nghẹn cho chính người mẹ của mình.
 
 Họ ngủ ngoài trời ngay trong khu tu viện, gần các bức tượng của Thánh Bernard xứ Clairvaux, Thánh Genevieve xứ Paris, cùng hai vị tổng lãnh thiên thần Michael và Gabriel. Thomas tỉnh dậy giữa đêm và ra ngắm ngôi sao chổi của mình. Nó đã di chuyển đến vùng cổ của chòm sao Thiên Nga, và đầu sao chổi có vẻ ánh lên sắc đỏ, tựa như có một tia máu nhỏ xíu bên trong. Gã dụi mắt rồi quay đi, nhưng khi nhìn lại thì nó vẫn nằm ở đó. Giờ đây gã lại nhận ra thêm một ngôi sao chổi thứ hai nữa, nằm sát bên cạnh và rất mờ ảo.
 
@@ -212,7 +212,7 @@ Hai tốp người đứng cách nhau năm mươi bước chân và Thomas cùng
 
 Cây cầu mà Thomas muốn qua được đồn là nằm ngay bên kia một thị trấn ven sông mang tên St. Martin-le-Preux, nhưng khi gã và cô bé đến gần thị trấn, họ bắt gặp một chiếc xe kéo tay bị lật ngửa và không còn bánh xe; ở phần đáy xe, một kẻ kém tài chính tả đã dùng thứ trông giống như máu để vẽ lên dòng chữ:
 
-<span class="caps">QUAY LẠI</span>
+QUAY LẠI
 
 Vì đây là cây cầu duy nhất mà họ biết, họ vẫn tiếp tục tiến bước, mặc dù Thomas đã đổi chiếc mũ rơm lấy chiếc mũ sắt và vác trần thanh kiếm trên vai. Cô bé lôi chiếc còi chim của mình ra, đổ một chút nước vào rồi bắt đầu thổi lên những tiếng chim hót.
 

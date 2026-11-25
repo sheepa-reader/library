@@ -20,13 +20,13 @@ Anh gầm lên một tiếng lớn.
 
 Lại tiếng Provençal, nhưng lần này thì vượt quá khả năng hiểu của anh.
 
-<i>Ta cứ nghĩ cánh tay của gã to con đó bị đứt lìa cơ chứ.</i>
+Ta cứ nghĩ cánh tay của gã to con đó bị đứt lìa cơ chứ.
 
-<i>Đúng thế thật, ta cũng thấy vậy. Lão ta đã chết ngắt từ đời nào rồi. Lại thêm một phép màu nữa.</i>
+Đúng thế thật, ta cũng thấy vậy. Lão ta đã chết ngắt từ đời nào rồi. Lại thêm một phép màu nữa.
 
-<i>Chúng ta phải làm gì đây?</i>
+Chúng ta phải làm gì đây?
 
-<i>Đỡ anh ta dậy đi, đồ ngốc.</i>
+Đỡ anh ta dậy đi, đồ ngốc.
 
 Bây giờ những cánh tay luồn dưới nách Thomas và kéo anh ra khỏi hố thi thể.
 
@@ -46,7 +46,7 @@ Từ Dinh Thự Elysium.
 
 “Vâng, thưa ngài. Sao ngài lại biết cháu?”
 
-<i>Khi đó ta mang một khuôn mặt khác mà!</i>
+Khi đó ta mang một khuôn mặt khác mà!
 
 “Ta không biết nữa.”
 
@@ -66,13 +66,13 @@ Cuộc chiến trên Thiên Đàng đã xoay chuyển cục diện.
 
 “Chúng cháu tìm thấy ngài trong đống đổ nát của cung điện. Cùng với những thứ này. Động đất.”
 
-<i>Động đất ư?</i>
+Động đất ư?
 
-<i>Đó là những gì đã xảy ra sao?</i>
+Đó là những gì đã xảy ra sao?
 
-<i>Không.</i>
+Không.
 
-<i>Nhưng đó là điều con người có thể chịu đựng để nhớ đến.</i>
+Nhưng đó là điều con người có thể chịu đựng để nhớ đến.
 
 Thomas đứng dậy với vẻ đau đớn, phủi sạch bụi bẩn trên người.
 
@@ -98,11 +98,11 @@ Thomas đưa Jibreel vào thị trấn. Không dễ dàng gì để thuyết ph�
 
 Trong số những người chết có ba vị hồng y, một trong số đó là Hanicotte, anh trai của vị linh mục, người vừa được phong chức vào đêm hôm trước.
 
-<i>Có phải mới chỉ là đêm qua thôi không?</i>
+Có phải mới chỉ là đêm qua thôi không?
 
-<i>Quá nhiều chuyện đã xảy ra kể từ lúc đó.</i>
+Quá nhiều chuyện đã xảy ra kể từ lúc đó.
 
-<i>Nhưng rốt cuộc là chuyện gì?</i>
+Nhưng rốt cuộc là chuyện gì?
 
 Hồng y Hanicotte đã bị đè bẹp gần lối vào nhà nguyện, nơi rất nhiều người đã cố trốn tránh, bộ lễ phục và đôi găng tay tinh xảo của anh bết dính máu. Anh chỉ là một trong số rất nhiều người, giống hệt nhau trong cái chết, gắn kết với nhau dưới những bức tượng thiên thần và ác quỷ bằng đá uốn cong phía trên cánh cửa.
 
@@ -114,7 +114,7 @@ Một vị thánh bằng đá nắm lấy tay anh.
 
 Thomas ngủ trên một cánh đồng cùng với những công nhân khác.
 
-Anh ăn thức ăn từ nhà tế bần <i>pignotte</i>.
+Anh ăn thức ăn từ nhà tế bần pignotte.
 
 Anh vứt chiếc áo giáp xích của mình xuống sông và làm việc trong bộ quần áo tất liền chân cùng chiếc áo sơ mi dài giản dị của một phu phen.
 

@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Sáu: Về Thomas,và một lời thềđã khất quá lâu
+# Chương Hai Mươi Sáu: Về Thomas, và một lời thề đã khất quá lâu
 
 <p class="para-en">The girl was gone.</p>
 
@@ -8,7 +8,7 @@
 
 <p class="para-en">The knight looked around their camp for signs that she had been taken, but found nothing.</p>
 
-<p class="para-vi-sub">Thomas lùng sục khắp nơi quanh trại để tìm dấu vết cho thấy Delphine bị bắt đi, nhưng không thấy gì cả.</p>
+<p class="para-vi-sub">Thomas lùng sục khắp nơi quanh trại để tìm dấu vết cho thấy Delphine bị bắt đi, nhưng chẳng thấy gì cả.</p>
 
 <p class="para-en">He was sure she had left.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-vi-sub">“Mẹ kiếp,” anh lẩm bẩm, cảm thấy thực sự lạc lõng lần đầu tiên kể từ khi mọi chuyện bắt đầu. Anh bây giờ là ai, nếu thiếu đi băng cướp của mình, thiếu đi cô bé cùng những lời tiên tri về phù hiệu trên ngực áo, thiếu cả một con ngựa hay mảy may một ý niệm quái quỷ nào về việc mình sẽ làm nếu không bao giờ gặp lại Delphine nữa?</p>
 
-<p class="para-en"><a id="page283"></a>“Goddamn it.”</p>
+<p class="para-en">“Goddamn it.”</p>
 
 <p class="para-vi-sub">“Mẹ kiếp.”</p>
 
@@ -54,7 +54,7 @@
 
 <p class="para-vi-sub">Chẳng cách nào đính chính được sự hiểu lầm ấy.</p>
 
-<p class="para-en">From then on, Thomas said, “I’m looking for my daughter—have you seen a young blond girl?” but those were too many words for the others he caught sight of. They either cupped a hand to an ear and shook their heads, or else they fired their own language back at him, causing him to cup <em>his</em> hand and shake <em>his</em> head.</p>
+<p class="para-en">From then on, Thomas said, “I’m looking for my daughter—have you seen a young blond girl?” but those were too many words for the others he caught sight of. They either cupped a hand to an ear and shook their heads, or else they fired their own language back at him, causing him to cup his hand and shake his head.</p>
 
 <p class="para-vi-sub">Từ đó về sau, Thomas đổi giọng: “Tôi đang tìm con gái mình, các người có thấy một cô bé tóc vàng nào không?” nhưng ngần ấy từ ngữ quá sức đối với những kẻ khác mà anh lướt nhìn. Hoặc họ đưa tay khum lên tai rồi lắc đầu, hoặc họ bắn ngược lại anh thứ ngôn ngữ của riêng họ, khiến anh cũng phải đưa tay khum lên tai rồi lắc đầu.</p>
 
@@ -70,7 +70,7 @@
 
 <p class="para-vi-sub">Lâu đài trên ngọn đồi gần Mornas treo lá cờ hiệu hình hai chìa khóa chéo báo hiệu nơi này thuộc quyền sở hữu của giáo hoàng. Khi anh cố gắng tiếp cận thành phố có tường bao bọc, anh bị quát tháo đuổi đi ngay cả cơ hội hỏi han về cô bé cũng không có.</p>
 
-<p class="para-en"><a id="page284"></a>“Goddamn it.”</p>
+<p class="para-en">“Goddamn it.”</p>
 
 <p class="para-vi-sub">“Mẹ kiếp.”</p>
 
@@ -138,7 +138,7 @@
 
 <p class="para-vi-sub">“Tôi không giết những người này!”</p>
 
-<p class="para-en"><a id="page285"></a>He was hit several times, once with the end of a rake, and a remarkably quick little boy took Thomas’s sword from his sheath, running away with it, its edge making sparks on the ground.</p>
+<p class="para-en">He was hit several times, once with the end of a rake, and a remarkably quick little boy took Thomas’s sword from his sheath, running away with it, its edge making sparks on the ground.</p>
 
 <p class="para-vi-sub">Anh bị đánh túi bụi vài bận, có lần trúng cả cán cào, và một thằng nhóc lém lỉnh chạy nhanh như chớp đã giật lấy thanh kiếm trong bao của Thomas, cắm cổ chạy tít đi, lưỡi kiếm mài sát mặt đất tóe ra những tia lửa.</p>
 
@@ -186,7 +186,7 @@
 
 <p class="para-vi-sub">Đôi mắt vị linh mục nheo lại, rồi ông lắc đầu, tỏ vẻ nghi ngờ đây chỉ là một trò đánh lạc hướng.</p>
 
-<p class="para-en">“You are not with these English <em>routiers</em>?” he said now, showing Thomas the bloody arrow. Priest or not, he looked capable of shoving it into Thomas’s eye.</p>
+<p class="para-en">“You are not with these English routiers?” he said now, showing Thomas the bloody arrow. Priest or not, he looked capable of shoving it into Thomas’s eye.</p>
 
 <p class="para-vi-sub">“Ngươi không đi cùng lũ lính đánh thuê người Anh đó chứ?” ông cất lời, giơ mũi tên dính máu ra trước mặt Thomas. Dù là linh mục hay không, trông ông hoàn toàn đủ sức nhét nó vào mắt Thomas.</p>
 
@@ -222,7 +222,7 @@
 
 <p class="para-vi-sub">“Vâng. Tôi xin thề.”</p>
 
-<p class="para-en"><a id="page286"></a>“By Saint Michael and Saint Denis?”</p>
+<p class="para-en">“By Saint Michael and Saint Denis?”</p>
 
 <p class="para-vi-sub">“Dưới danh nghĩa Thánh Michael và Thánh Denis?”</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-vi-sub">“Dưới danh nghĩa Thánh Michael và Thánh Denis, tôi thề mình là một hiệp sĩ.”</p>
 
-<p class="para-en">“Are you a knight turned <em>routier</em>? Brigand?”</p>
+<p class="para-en">“Are you a knight turned routier? Brigand?”</p>
 
 <p class="para-vi-sub">“Ngươi có phải là hiệp sĩ đã biến chất thành lính đánh thuê? Kẻ cướp không?”</p>
 
@@ -246,7 +246,7 @@
 
 <p class="para-vi-sub">“Tôi thề tôi không phải kẻ cướp, không tước đoạt tài sản hay mạng sống của bất kỳ ai. Tôi thề mình là một hiệp sĩ trung thành của nước Pháp, là tôi tớ của Chúa và nhà vua, đồng thời là bạn của xứ Provence.”</p>
 
-<p class="para-en">“These men who come…with the long bows. <em>They</em> are <em>routiers</em>. If you see them, and you are able, you give them God’s justice? You will find others and give them justice?”</p>
+<p class="para-en">“These men who come…with the long bows. They are routiers. If you see them, and you are able, you give them God’s justice? You will find others and give them justice?”</p>
 
 <p class="para-vi-sub">“Những kẻ đến… mang theo trường cung. Bọn chúng chính là lính đánh thuê. Nếu ngươi trông thấy chúng, và có khả năng, ngươi sẽ thay Chúa trừng trị chúng chứ? Ngươi sẽ tìm những kẻ khác và mang công lý đến cho chúng chứ?”</p>
 

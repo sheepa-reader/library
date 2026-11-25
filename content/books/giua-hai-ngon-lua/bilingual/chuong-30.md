@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Bảy: BọnRoutiers
+# Chương Hai Mươi Bảy: Bọn Routiers
 
 <p class="para-en">The city of Orange sat behind a big Roman arch that seemed to guard the road it straddled, the road leading up to the gates. Shops and houses that had sprung up outside the city walls leaned against those walls, or against one another, but a reverential space had been left around the arch. It was as if the emperor or general who had commanded it to be raised were still held in such awe that his arch was left unmarred, even when men seeking stone for houses poached freely from the amphitheater against the hill.</p>
 
@@ -10,13 +10,13 @@
 
 <p class="para-vi-sub">Nhà tắm công cộng nằm gần vòm cổng hơn bất kỳ công trình nào khác, và những cô gái làm việc ở đó rất yêu quý di tích cổ kính này. Họ nhổ dây leo bám trên đó và bứt những cây non mà rễ có thể một ngày nào đó làm tổn hại đến phần móng. Họ đến ngồi tựa lưng vào những phiến đá mát lạnh của vòm cổng mỗi khi phải rời khỏi làn hơi nước nghi ngút. Giống như chính di tích ấy, những cô gái này ai cũng quen mặt.</p>
 
-<p class="para-en">Travelers from all over Provence and Langue d’Oc knew about the Stews of the Arch, as the bathhouse was called, and about the women who worked there; not the fairest flowers of Orange, perhaps, for <a id="page288"></a>those were sent to Avignon; these were the gently flawed pretty ones that would have gone south but for a mole or the weakness of a chin. Girls who had not married because their fathers put them out to get money, or girls who had married, found it bitter, and came to live in the shadow of the arch. Girls who knew pleasure and taught it.</p>
+<p class="para-en">Travelers from all over Provence and Langue d’Oc knew about the Stews of the Arch, as the bathhouse was called, and about the women who worked there; not the fairest flowers of Orange, perhaps, for those were sent to Avignon; these were the gently flawed pretty ones that would have gone south but for a mole or the weakness of a chin. Girls who had not married because their fathers put them out to get money, or girls who had married, found it bitter, and came to live in the shadow of the arch. Girls who knew pleasure and taught it.</p>
 
 <p class="para-vi-sub">Khách du lịch từ khắp vùng Provence và Langue d’Oc đều biết về Tiệm Tắm Vòm Cổng, tên gọi của nhà tắm công cộng, và về những người phụ nữ làm việc ở đó; có lẽ họ không phải là những bông hoa rực rỡ nhất của Orange, bởi những người đẹp nhất đã được gửi đến Avignon; đây là những cô gái xinh đẹp có chút tỳ vết nhẹ, những người suýt được đưa về phương nam nếu không vì một nốt ruồi hay cái cằm kém thon gọn. Những cô gái chưa lấy chồng vì bị cha mẹ đẩy ra ngoài kiếm tiền, hoặc những cô gái đã kết hôn nhưng thấy cuộc sống quá cay đắng, nên đã đến sống dưới cái bóng của vòm cổng. Những cô gái biết thế nào là hoan lạc và dạy cho người khác điều đó.</p>
 
-<p class="para-en">The sun had just gone down when Thomas approached the hulking Roman arch and the small town outside the town. He had little money, so there was no point in going up to the gates of Orange, which were closed in any case, or to the cluster of inns and wine shops just past the arch, whose lanterns advertised they were open for commerce. He did want a look at the town, though; he had first heard the name of this city in a <em>chanson de geste</em> called “<em>La Prise d’Orange</em>,” in which a splendid Arab queen betrayed her husband and her faith to deliver the city to the Franks.</p>
+<p class="para-en">The sun had just gone down when Thomas approached the hulking Roman arch and the small town outside the town. He had little money, so there was no point in going up to the gates of Orange, which were closed in any case, or to the cluster of inns and wine shops just past the arch, whose lanterns advertised they were open for commerce. He did want a look at the town, though; he had first heard the name of this city in a chanson de geste called “La Prise d’Orange,” in which a splendid Arab queen betrayed her husband and her faith to deliver the city to the Franks.</p>
 
-<p class="para-vi-sub">Mặt trời vừa lặn xuống khi Thomas đến gần vòm cổng La Mã đồ sộ cùng thị trấn nhỏ nằm bên ngoài phố thị. Anh có rất ít tiền, nên chẳng có lý do gì để tiến đến các cổng thành Orange vốn đang đóng kín, hay đến cụm quán trọ và tiệm rượu nằm ngay qua khỏi vòm cổng, nơi những chiếc đèn lồng đang mời chào khách vào buôn bán. Dù vậy, anh vẫn muốn nhìn ngắm thị trấn; anh từng nghe tên thành phố này lần đầu tiên trong một khúc anh hùng ca mang tên <i>La Prise d’Orange</i>, trong đó một nữ hoàng Ả Rập lộng lẫy đã phản bội chồng và đức tin của mình để dâng thành phố cho người Frank.</p>
+<p class="para-vi-sub">Mặt trời vừa lặn xuống khi Thomas đến gần vòm cổng La Mã đồ sộ cùng thị trấn nhỏ nằm bên ngoài phố thị. Anh có rất ít tiền, nên chẳng có lý do gì để tiến đến các cổng thành Orange vốn đang đóng kín, hay đến cụm quán trọ và tiệm rượu nằm ngay qua khỏi vòm cổng, nơi những chiếc đèn lồng đang mời chào khách vào buôn bán. Dù vậy, anh vẫn muốn nhìn ngắm thị trấn; anh từng nghe tên thành phố này lần đầu tiên trong một khúc anh hùng ca mang tên La Prise d’Orange, trong đó một nữ hoàng Ả Rập lộng lẫy đã phản bội chồng và đức tin của mình để dâng thành phố cho người Frank.</p>
 
 <p class="para-en">“You’re all alike, aren’t you?”</p>
 
@@ -50,7 +50,7 @@
 
 <p class="para-vi-sub">Thomas khựng lại chết sững.</p>
 
-<p class="para-en"><a id="page289"></a>These were the killers he had sworn to give God’s justice, drunk on wine purchased with the blood of the last village. They would enjoy these women and be on their way in the morning, before news of the massacre reached Orange and the girls of this place stopped laughing with them. From the number of dead in the last town, these archers were likely only one wing of the company—the others would have secured a camp and fanned out to find other entertainments. If this was the only brothel, they would come here in shifts.</p>
+<p class="para-en">These were the killers he had sworn to give God’s justice, drunk on wine purchased with the blood of the last village. They would enjoy these women and be on their way in the morning, before news of the massacre reached Orange and the girls of this place stopped laughing with them. From the number of dead in the last town, these archers were likely only one wing of the company—the others would have secured a camp and fanned out to find other entertainments. If this was the only brothel, they would come here in shifts.</p>
 
 <p class="para-vi-sub">Đó chính là những tên sát nhân mà anh từng thề sẽ mang công lý của Chúa đến cho chúng, đang say mèm vì thứ rượu mua bằng máu của ngôi làng cuối cùng. Bọn chúng sẽ thỏa mãn với những người phụ nữ này và lên đường vào sáng hôm sau, trước khi tin tức về vụ tàn sát truyền đến Orange và những cô gái ở chốn này thôi cười đùa với chúng. Dựa vào số lượng người chết ở ngôi làng trước, những tên cung thủ này có lẽ chỉ là một cánh quân của đoàn binh, phần còn lại đã chiếm cứ một trại quân và tản ra xung quanh để tìm những trò giải trí khác. Nếu đây là nhà thổ duy nhất, chúng sẽ đến đây theo ca.</p>
 
@@ -78,7 +78,7 @@
 
 <p class="para-vi-sub">Anh bước qua khung cửa, tiến vào một không gian ngập tràn nến nhấp nháy và hơi nước ấm áp như lòng mẹ. Đầu gối anh khuỵu xuống khi bước vào, tấm áo giáp xích cạ vào một thanh xà kêu lạo xạo.</p>
 
-<p class="para-en"><a id="page290"></a>He carried his sword over his shoulder, one hand on the pommel, the other under the quillons; he was ready to kill with it.</p>
+<p class="para-en">He carried his sword over his shoulder, one hand on the pommel, the other under the quillons; he was ready to kill with it.</p>
 
 <p class="para-vi-sub">Anh vác thanh kiếm trên vai, một tay đặt lên đốc kiếm, tay kia giữ lấy phần ngạnh bảo vệ; anh đã sẵn sàng dùng nó để tước đoạt sinh mạng.</p>
 
@@ -110,7 +110,7 @@
 
 <p class="para-vi-sub">Thomas bước sâu hơn vào trong, di chuyển sao cho lưng không bị hướng ra cánh cửa mở toang. Một tên lính Anh liếc nhìn tấm ván bắc ngang thùng tắm của hắn, nơi đặt phần thừa của một con gà lôi và hai cốc rượu; liệu hắn có thể giật phăng tấm ván lên để dùng làm gậy chiến lẫn khiên đỡ không? Hắn sẽ chẳng có điểm tựa nào trong thùng tắm, và đầu hắn sẽ lìa khỏi cổ trước khi kịp trèo ra ngoài.</p>
 
-<p class="para-en">The man in the tub nearest Thomas prepared to splash water in his face, clamber over the girl next to him, and roll over the edge, hoping to find his dagger on his belt among his clothes, drunk and in the half darkness; but the girl, sensing his tension, grabbed his <em>bitte</em> underwater as if to hold him fast by it. Even had she not, the plan seemed so clumsy to him that he couldn’t gather the nerve to move.</p>
+<p class="para-en">The man in the tub nearest Thomas prepared to splash water in his face, clamber over the girl next to him, and roll over the edge, hoping to find his dagger on his belt among his clothes, drunk and in the half darkness; but the girl, sensing his tension, grabbed his bitte underwater as if to hold him fast by it. Even had she not, the plan seemed so clumsy to him that he couldn’t gather the nerve to move.</p>
 
 <p class="para-vi-sub">Gã đàn ông trong thùng tắm ở gần Thomas nhất toan hắt nước vào mặt anh, leo qua người ả đàn bà bên cạnh và lăn khỏi mép thùng, hy vọng tìm thấy con dao găm giắt ở thắt lưng lẫn trong đống quần áo giữa cảnh say xỉn và bóng tối mập mờ; nhưng ả đàn bà, đánh hơi thấy sự căng thẳng của hắn, liền tóm chặt lấy hạ bộ của hắn dưới làn nước như muốn ghì chặt hắn lại. Dẫu ả không làm thế, mưu đồ ấy đối với hắn cũng quá luộm thuộm đến mức hắn chẳng thể tụ tập nổi can đảm để nhúc nhích.</p>
 
@@ -134,43 +134,43 @@
 
 <p class="para-vi-sub">Anh cảm thấy có thứ gì đó khẽ chạm vào tim mình, tựa như những ngón tay nhỏ xíu đang đặt lên đó, nâng niu nhẹ nhàng hệt như cách người ta cầm một chú chim.</p>
 
-<p class="para-en"><a id="page291"></a>Voices came to him, as if from far away.</p>
+<p class="para-en">Voices came to him, as if from far away.</p>
 
 <p class="para-vi-sub">Những giọng nói vọng đến bên anh, nghe như từ một cõi xa xăm.</p>
 
-<p class="para-en"><em>Don’t kill him.</em></p>
+<p class="para-en">Don’t kill him.</p>
 
-<p class="para-vi-sub"><i>Đừng giết hắn.</i></p>
+<p class="para-vi-sub">Đừng giết hắn.</p>
 
-<p class="para-en"><em>Don’t kill anyone else again.</em></p>
+<p class="para-en">Don’t kill anyone else again.</p>
 
-<p class="para-vi-sub"><i>Đừng tước đoạt sinh mạng bất kỳ ai nữa.</i></p>
+<p class="para-vi-sub">Đừng tước đoạt sinh mạng bất kỳ ai nữa.</p>
 
-<p class="para-en"><em>Thomas.</em></p>
+<p class="para-en">Thomas.</p>
 
-<p class="para-vi-sub"><i>Thomas.</i></p>
+<p class="para-vi-sub">Thomas.</p>
 
-<p class="para-en"><em>Sir Thomas.</em></p>
+<p class="para-en">Sir Thomas.</p>
 
-<p class="para-vi-sub"><i>Ngài Thomas.</i></p>
+<p class="para-vi-sub">Ngài Thomas.</p>
 
-<p class="para-en"><em>We’re going to pay for that.</em></p>
+<p class="para-en">We’re going to pay for that.</p>
 
-<p class="para-vi-sub"><i>Chúng ta sẽ phải trả giá cho việc đó.</i></p>
+<p class="para-vi-sub">Chúng ta sẽ phải trả giá cho việc đó.</p>
 
-<p class="para-en"><em>Find my brother…tell my brother…</em></p>
+<p class="para-en">Find my brother…tell my brother…</p>
 
-<p class="para-vi-sub"><i>Hãy tìm anh ấy… hãy nói với anh ấy…</i></p>
+<p class="para-vi-sub">Hãy tìm anh ấy… hãy nói với anh ấy…</p>
 
-<p class="para-en"><em>Do you swear to give them God’s justice?</em></p>
+<p class="para-en">Do you swear to give them God’s justice?</p>
 
-<p class="para-vi-sub"><i>Ngươi có thề mang công lý của Chúa đến cho họ không?</i></p>
+<p class="para-vi-sub">Ngươi có thề mang công lý của Chúa đến cho họ không?</p>
 
-<p class="para-en"><em>I swear.</em></p>
+<p class="para-en">I swear.</p>
 
-<p class="para-vi-sub"><i>Ta thề.</i></p>
+<p class="para-vi-sub">Ta thề.</p>
 
-<p class="para-en">He breathed in and cocked his hips, and the nearer men ducked underwater, one of the <em>filles de joie</em> screamed, but he stopped. He had fully intended to start lopping and gouging these helpless men in their four huge vats.</p>
+<p class="para-en">He breathed in and cocked his hips, and the nearer men ducked underwater, one of the filles de joie screamed, but he stopped. He had fully intended to start lopping and gouging these helpless men in their four huge vats.</p>
 
 <p class="para-vi-sub">Anh hít một hơi sâu rồi hạ thấp hông, những gã đàn ông ở gần hơn lập tức lặn ngụp xuống nước, một trong số những ả điếm thét lên, nhưng anh đã khựng lại. Anh vốn đã đinh ninh sẽ bắt đầu chém giết và khoét mắt những gã đàn ông bất lực này ngay trong bốn cái vạc tắm khổng lồ.</p>
 
@@ -206,29 +206,29 @@
 
 <p class="para-vi-sub">Và chúng thừa biết điều đó.</p>
 
-<p class="para-en">Thomas slept that night in the belfry of a small, dead church that overlooked the road; he doubted the <em>routiers</em> would follow him, but it was always better to act as though the worst might happen. On his way out of the stews, he had walked by the stables and seen them full; how desperately he longed for the feel of a horse under him, but a little voice in him said <em>no</em> and he knew it was her voice somehow. He left the stable alone and veered off the road and into the fields.</p>
+<p class="para-en">Thomas slept that night in the belfry of a small, dead church that overlooked the road; he doubted the routiers would follow him, but it was always better to act as though the worst might happen. On his way out of the stews, he had walked by the stables and seen them full; how desperately he longed for the feel of a horse under him, but a little voice in him said no and he knew it was her voice somehow. He left the stable alone and veered off the road and into the fields.</p>
 
-<p class="para-vi-sub">Đêm đó, Thomas ngủ lại trong tháp chuông của một ngôi nhà thờ nhỏ hoang phế nhìn ra con đường cái quan; anh hồ nghi liệu lũ lính đánh thuê có đuổi theo mình không, nhưng bao giờ hành xử như thể tình huống tồi tệ nhất sắp xảy ra cũng là điều khôn ngoan hơn cả. Trên đường rời khỏi khu nhà tắm, anh đã đi ngang qua chuồng ngựa và thấy chúng chật kín; anh khao khát đến xé lòng cảm giác được cưỡi trên lưng ngựa, nhưng một giọng nói nhỏ bé vang lên trong thâm tâm bảo rằng <i>không</i>, và bằng cách nào đó, anh biết đó chính là giọng nói của cô bé. Anh một mình rời khỏi khu chuồng ngựa, rẽ khỏi con đường lớn để bước vào những cánh đồng.</p>
+<p class="para-vi-sub">Đêm đó, Thomas ngủ lại trong tháp chuông của một ngôi nhà thờ nhỏ hoang phế nhìn ra con đường cái quan; anh hồ nghi liệu lũ lính đánh thuê có đuổi theo mình không, nhưng bao giờ hành xử như thể tình huống tồi tệ nhất sắp xảy ra cũng là điều khôn ngoan hơn cả. Trên đường rời khỏi khu nhà tắm, anh đã đi ngang qua chuồng ngựa và thấy chúng chật kín; anh khao khát đến xé lòng cảm giác được cưỡi trên lưng ngựa, nhưng một giọng nói nhỏ bé vang lên trong thâm tâm bảo rằng không, và bằng cách nào đó, anh biết đó chính là giọng nói của cô bé. Anh một mình rời khỏi khu chuồng ngựa, rẽ khỏi con đường lớn để bước vào những cánh đồng.</p>
 
 <p class="para-en">This belfry was a good spot.</p>
 
 <p class="para-vi-sub">Ngọn tháp chuông này là một vị trí đắc địa.</p>
 
-<p class="para-en">More than for the brigands, of course, he was watching for the girl, <a id="page292"></a>whom he suspected he had passed up. It had occurred to him that he might have harmed her indirectly by letting those men live—what would they do with her, after all, if they found her? Yet her wishes were unmistakable.</p>
+<p class="para-en">More than for the brigands, of course, he was watching for the girl, whom he suspected he had passed up. It had occurred to him that he might have harmed her indirectly by letting those men live—what would they do with her, after all, if they found her? Yet her wishes were unmistakable.</p>
 
 <p class="para-vi-sub">Dĩ nhiên, ngoài lũ cướp bóc, anh còn đang ngóng chờ cô bé, người mà anh linh cảm rằng mình đã bỏ lại phía sau. Anh chợt nghĩ rằng rất có thể anh đã gián tiếp gây hại cho cô bé khi tha mạng cho những kẻ đó; rốt cuộc thì chúng sẽ làm gì em nếu tìm thấy em? Thế nhưng, mong muốn của cô bé là điều không thể nhầm lẫn.</p>
 
-<p class="para-en"><em>Her command.</em></p>
+<p class="para-en">Her command.</p>
 
-<p class="para-vi-sub"><i>Mệnh lệnh của cô bé.</i></p>
+<p class="para-vi-sub">Mệnh lệnh của cô bé.</p>
 
-<p class="para-en"><em>Well, who is she to command me?</em></p>
+<p class="para-en">Well, who is she to command me?</p>
 
-<p class="para-vi-sub"><i>Ừ thì, con bé là cái thá gì mà dám ra lệnh cho ta?</i></p>
+<p class="para-vi-sub">Ừ thì, con bé là cái thá gì mà dám ra lệnh cho ta?</p>
 
-<p class="para-en"><em>Who are you to resist her?</em></p>
+<p class="para-en">Who are you to resist her?</p>
 
-<p class="para-vi-sub"><i>Còn ngươi là ai mà dám chống lại cô bé?</i></p>
+<p class="para-vi-sub">Còn ngươi là ai mà dám chống lại cô bé?</p>
 
 <p class="para-en">He tried to answer that, but only said, “Huh.”</p>
 
@@ -246,9 +246,9 @@
 
 <p class="para-vi-sub">Nếu anh kể cho bất kỳ ai nghe về cô bé này — người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành — họ sẽ thốt lên…</p>
 
-<p class="para-en"><em>Witch.</em></p>
+<p class="para-en">Witch.</p>
 
-<p class="para-vi-sub"><i>Phù thủy.</i></p>
+<p class="para-vi-sub">Phù thủy.</p>
 
 <p class="para-en">That was what they would say.</p>
 
@@ -286,7 +286,7 @@
 
 <p class="para-vi-sub">Anh thiếp đi khi đang ngóng chờ cô bé, rồi chìm thẳng vào một giấc mơ thấy em đang bước đi trên chính con đường này, tay cầm một giỏ hoa dại và rải chúng dọc đường đi. Anh cảm thấy tự hào như một người cha khi thấy những việc cô bé đang làm. Thật thông minh làm sao khi em nghĩ ra cách rải hoa dại lại phía sau; anh mỉm cười trong giấc ngủ. Giờ thì anh có thể tìm thấy cô bé rồi.</p>
 
-<p class="para-en"><a id="page293"></a>The traffic on the road to Avignon astounded him.</p>
+<p class="para-en">The traffic on the road to Avignon astounded him.</p>
 
 <p class="para-vi-sub">Lượng người qua lại trên con đường dẫn đến Avignon khiến anh kinh ngạc.</p>
 

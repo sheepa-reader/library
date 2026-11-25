@@ -1,6 +1,6 @@
 *Phần V*
 
-# Chương Bốn Mươi Hai: Về CuộcCàn Quét Địa Ngục
+# Chương Bốn Mươi Hai: Về Cuộc Càn Quét Địa Ngục
 
 <p class="para-en">He forgot his name. How long he had been there stopped meaning anything. He went from one torment to another, starting with bodily pain and going on to heartbreak; he was skinned and then made to drag his skin behind him, then made to sew this skin back on himself, with the dirt and gravel it had picked up now under it; he was shredded slowly, crammed with thorns and made to eject them, crowded in with naked throngs and scalded, made to fight for cool water or a glimpse of sky, and when they saw that he liked fighting, they made him fight again and again for everything, for years, until even his rage was broken, and he wept and succumbed when confronted; he was murdered and betrayed by those he loved, and then made to murder and betray them, then desecrate them, cannibalize them, regurgitate them. Nothing was left out.</p>
 
@@ -14,7 +14,7 @@
 
 <p class="para-vi-sub">Vì sự kiêu ngạo đối với sức mạnh của bản thân, gã bị biến thành một món đồ chơi. Vì bản năng xác thịt của mình, gã bị tước bỏ mọi giới tính.</p>
 
-<p class="para-en">He was made to live each oath he’d spoken, no matter how ridiculous, <a id="page407"></a>lapping Christ’s wounds, drowned with Christ in shit, boiled in Mary’s sour milk, sodomized by the cocks of the Apostles, until he had been stripped of his capacity for laughter, or even the capacity to disbelieve the outrageous. They took his humor from him not because they themselves were humorless—they most certainly were not—but because it so offended them that man had been given this, too.</p>
+<p class="para-en">He was made to live each oath he’d spoken, no matter how ridiculous, lapping Christ’s wounds, drowned with Christ in shit, boiled in Mary’s sour milk, sodomized by the cocks of the Apostles, until he had been stripped of his capacity for laughter, or even the capacity to disbelieve the outrageous. They took his humor from him not because they themselves were humorless—they most certainly were not—but because it so offended them that man had been given this, too.</p>
 
 <p class="para-vi-sub">Gã buộc phải sống lại từng lời thề mà mình từng thốt ra, dù nó có ngớ ngẩn đến đâu, liếm láp những vết thương của Chúa Kitô, chết đuối cùng Chúa Kitô trong đống phân, bị luộc chín trong dòng sữa chua của Đức Mẹ, bị đâm thọc hậu môn bởi dương vật của các Tông đồ, cho đến khi gã bị tước sạch khả năng cười cợt, hay thậm chí cả khả năng hoài nghi trước những điều quái đản nhất. Bọn chúng tước đi sự hài hước của Thomas không phải vì bản thân bọn chúng thiếu vắng sự hài hước, chắc chắn là không, mà bởi vì bọn chúng vô cùng căm phẫn khi con người lại được ban cho cả đặc ân đó.</p>
 
@@ -74,7 +74,7 @@
 
 <p class="para-vi-sub">Ánh sáng ở cái xứ Paris địa ngục này vốn mờ ảo, giống như một ngày mưa dầm hoặc khoảnh khắc vừa chợp tắt sau hoàng hôn, nhưng lúc này, một thứ ánh sáng thực thụ đang tiến đến.</p>
 
-<p class="para-en">The guards on the wall looked at its source, then began firing their arrows at it. They lost the lie of their human shapes, tails snaking out behind them. More devils came, leveling cruel, barbed weapons. A <a id="page408"></a>wheel of sorts made entirely of severed arms and legs rolled up and formed itself into something worse, taking up arrows with which to stab whatever was coming.</p>
+<p class="para-en">The guards on the wall looked at its source, then began firing their arrows at it. They lost the lie of their human shapes, tails snaking out behind them. More devils came, leveling cruel, barbed weapons. A wheel of sorts made entirely of severed arms and legs rolled up and formed itself into something worse, taking up arrows with which to stab whatever was coming.</p>
 
 <p class="para-vi-sub">Mấy tên lính gác trên tường thành nhìn về phía nguồn sáng, rồi bắt đầu xả tên về hướng đó. Bọn chúng đánh mất hình hài con người vốn có, những cái đuôi ngoằn ngoèo quấn quất phía sau. Thêm nhiều ác quỷ xuất hiện, lăm lăm những thứ vũ khí tàn độc, đầy ngạnh sắc. Một chiếc bánh xe kỳ lạ cấu thành hoàn toàn từ những cánh tay và cẳng chân bị chặt đứt lăn tới rồi tự biến đổi thành một thứ gớm ghiếc hơn, nhặt lấy những mũi tên để đâm chém bất cứ thứ gì đang đến gần.</p>
 
@@ -142,23 +142,23 @@
 
 <p class="para-vi-sub">Thomas chưa từng chứng kiến cảnh tượng nào đẹp đẽ đến thế; gã đã quên mất vẻ đẹp thực sự là gì.</p>
 
-<p class="para-en"><em>Another betrayal</em></p>
+<p class="para-en">Another betrayal</p>
 
-<p class="para-vi-sub"><i>Lại một sự phản bội nữa</i></p>
+<p class="para-vi-sub">Lại một sự phản bội nữa</p>
 
-<p class="para-en"><em>These are false shapes sent to bring memory</em></p>
+<p class="para-en">These are false shapes sent to bring memory</p>
 
-<p class="para-vi-sub"><i>Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức</i></p>
+<p class="para-vi-sub">Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức</p>
 
-<p class="para-en"><em>And memory is pain</em></p>
+<p class="para-en">And memory is pain</p>
 
-<p class="para-vi-sub"><i>Và ký ức chính là nỗi đau</i></p>
+<p class="para-vi-sub">Và ký ức chính là nỗi đau</p>
 
-<p class="para-en"><em>The only truth here</em></p>
+<p class="para-en">The only truth here</p>
 
-<p class="para-vi-sub"><i>Sự thật duy nhất ở chốn này</i></p>
+<p class="para-vi-sub">Sự thật duy nhất ở chốn này</p>
 
-<p class="para-en"><a id="page409"></a>He shut his eyes against them and waited for the next tortures to begin. He sensed her drawing warmly closer, kneeling before him.</p>
+<p class="para-en">He shut his eyes against them and waited for the next tortures to begin. He sensed her drawing warmly closer, kneeling before him.</p>
 
 <p class="para-vi-sub">Thomas nhắm nghiền mắt lại trước bọn chúng và chờ đợi những đợt tra tấn tiếp theo bắt đầu. Gã cảm nhận được sự ấm áp từ Delphine đang đến gần hơn, quỳ xuống ngay trước mặt gã.</p>
 
@@ -206,41 +206,41 @@
 
 <p class="para-vi-sub">Thomas mở mắt, và Delphine vẫn ở đó.</p>
 
-<p class="para-en"><em>I SEE THROUGH YOU YOU CUNT</em></p>
+<p class="para-en">I SEE THROUGH YOU YOU CUNT</p>
 
-<p class="para-vi-sub"><i>TA NHÌN THẤY MÀY ĐỒ KHỐN</i></p>
+<p class="para-vi-sub">TA NHÌN THẤY MÀY ĐỒ KHỐN</p>
 
 <p class="para-en">He spat in her face and she smiled.</p>
 
 <p class="para-vi-sub">Thomas nhổ nước bọt vào mặt Delphine và cô bé mỉm cười.</p>
 
-<p class="para-en"><em>I understand.</em></p>
+<p class="para-en">I understand.</p>
 
-<p class="para-vi-sub"><i>Ta hiểu mà.</i></p>
+<p class="para-vi-sub">Ta hiểu mà.</p>
 
-<p class="para-en"><em>Go away.</em></p>
+<p class="para-en">Go away.</p>
 
-<p class="para-vi-sub"><i>Biến đi.</i></p>
+<p class="para-vi-sub">Biến đi.</p>
 
-<p class="para-en"><em>Not without you, Thomas.</em></p>
+<p class="para-en">Not without you, Thomas.</p>
 
-<p class="para-vi-sub"><i>Không thể thiếu ngươi được, Thomas.</i></p>
+<p class="para-vi-sub">Không thể thiếu ngươi được, Thomas.</p>
 
-<p class="para-en"><em>What did you call me?</em></p>
+<p class="para-en">What did you call me?</p>
 
-<p class="para-vi-sub"><i>Mày vừa gọi tao là gì?</i></p>
+<p class="para-vi-sub">Mày vừa gọi tao là gì?</p>
 
-<p class="para-en"><em>Your name. Would you like to hear it again?</em></p>
+<p class="para-en">Your name. Would you like to hear it again?</p>
 
-<p class="para-vi-sub"><i>Tên của ngươi. Ngươi có muốn nghe lại lần nữa không?</i></p>
+<p class="para-vi-sub">Tên của ngươi. Ngươi có muốn nghe lại lần nữa không?</p>
 
-<p class="para-en"><em>I’m not falling for it.</em></p>
+<p class="para-en">I’m not falling for it.</p>
 
-<p class="para-vi-sub"><i>Tao không sập bẫy đâu.</i></p>
+<p class="para-vi-sub">Tao không sập bẫy đâu.</p>
 
-<p class="para-en"><em>I’ll wait.</em></p>
+<p class="para-en">I’ll wait.</p>
 
-<p class="para-vi-sub"><i>Ta sẽ đợi.</i></p>
+<p class="para-vi-sub">Ta sẽ đợi.</p>
 
 <p class="para-en">Horrid things raged behind her, bit at her, yet none came within the light that pooled around her and around the cart. He watched her for a day and a night, or what seemed like it in this place where time had been beaten beyond recognition.</p>
 
@@ -250,7 +250,7 @@
 
 <p class="para-vi-sub">Đột ngột, vạn vật rung chuyển.</p>
 
-<p class="para-en"><a id="page410"></a>The horrors around them stopped raging and turned to see.</p>
+<p class="para-en">The horrors around them stopped raging and turned to see.</p>
 
 <p class="para-vi-sub">Những thứ gớm ghiếc xung quanh ngừng gầm rú, quay phắt lại nhìn.</p>
 
@@ -258,29 +258,29 @@
 
 <p class="para-vi-sub">Sáu vị vương công Địa Ngục, mỗi kẻ cao bằng bức tường thành bên ngoài, giáng xuống từ vòm trời, mang theo thi thể đang bốc khói của một vị thiên thần đẹp đến mức vượt quá sức tưởng tượng của con người, tấm thân rũ rượi buông thõng như một vị tử đạo trong vòng tay chúng khi chúng nghiến ken két hàm răng rồi mang người lao xuống qua lòng đất, tiến thẳng vào những hầm mộ sâu thẳm nhất, kín đáo nhất và an toàn nhất của Địa Ngục.</p>
 
-<p class="para-en"><em>His (her?) pale skin.</em></p>
+<p class="para-en">His (her?) pale skin.</p>
 
-<p class="para-vi-sub"><i>Làn da tái nhợt của vị thiên thần.</i></p>
+<p class="para-vi-sub">Làn da tái nhợt của vị thiên thần.</p>
 
-<p class="para-en"><em>His wings smoking like paper about to catch.</em></p>
+<p class="para-en">His wings smoking like paper about to catch.</p>
 
-<p class="para-vi-sub"><i>Đôi cánh của người bốc khói hệt như tờ giấy sắp bén lửa.</i></p>
+<p class="para-vi-sub">Đôi cánh của người bốc khói hệt như tờ giấy sắp bén lửa.</p>
 
-<p class="para-en"><em>Lucifer is fallen.</em></p>
+<p class="para-en">Lucifer is fallen.</p>
 
-<p class="para-vi-sub"><i>Lucifer đã sa ngã.</i></p>
+<p class="para-vi-sub">Lucifer đã sa ngã.</p>
 
-<p class="para-en"><em>Mammon is Lord here now.</em></p>
+<p class="para-en">Mammon is Lord here now.</p>
 
-<p class="para-vi-sub"><i>Mammon giờ là Chúa tể ở đây.</i></p>
+<p class="para-vi-sub">Mammon giờ là Chúa tể ở đây.</p>
 
 <p class="para-en">At last she saw a kernel of trust come into Thomas’s eyes.</p>
 
 <p class="para-vi-sub">Cuối cùng, Delphine nhìn thấy một tia tin tưởng le lói xuất hiện trong đôi mắt của Thomas.</p>
 
-<p class="para-en"><em>Are you ready?</em></p>
+<p class="para-en">Are you ready?</p>
 
-<p class="para-vi-sub"><i>Ngươi đã sẵn sàng chưa?</i></p>
+<p class="para-vi-sub">Ngươi đã sẵn sàng chưa?</p>
 
 <p class="para-en">He nodded.</p>
 
@@ -298,93 +298,93 @@
 
 <p class="para-vi-sub">Cô bé mang hương thơm của gỗ tuyết tùng và của biển cả.</p>
 
-<p class="para-en"><em>You’re Him.</em></p>
+<p class="para-en">You’re Him.</p>
 
-<p class="para-vi-sub"><i>Ngài là Ngài ấy.</i></p>
+<p class="para-vi-sub">Ngài là Ngài ấy.</p>
 
-<p class="para-en"><em>There is no him or her.</em></p>
+<p class="para-en">There is no him or her.</p>
 
-<p class="para-vi-sub"><i>Chẳng có ngài ấy hay cô ấy nào cả.</i></p>
+<p class="para-vi-sub">Chẳng có ngài ấy hay cô ấy nào cả.</p>
 
-<p class="para-en"><em>Why did you not come as I would know you?</em></p>
+<p class="para-en">Why did you not come as I would know you?</p>
 
-<p class="para-vi-sub"><i>Tại sao ngài không hiện diện trong hình hài mà con có thể nhận ra?</i></p>
+<p class="para-vi-sub">Tại sao ngài không hiện diện trong hình hài mà con có thể nhận ra?</p>
 
-<p class="para-en"><em>I came as you would follow me. I came as you would love me in innocence.</em></p>
+<p class="para-en">I came as you would follow me. I came as you would love me in innocence.</p>
 
-<p class="para-vi-sub"><i>Ta đã đến trong hình hài mà con sẽ đi theo ta. Ta đã đến trong hình hài mà con sẽ yêu thương ta bằng sự ngây thơ thuần khiết.</i></p>
+<p class="para-vi-sub">Ta đã đến trong hình hài mà con sẽ đi theo ta. Ta đã đến trong hình hài mà con sẽ yêu thương ta bằng sự ngây thơ thuần khiết.</p>
 
-<p class="para-en"><em>Why me?</em></p>
+<p class="para-en">Why me?</p>
 
-<p class="para-vi-sub"><i>Tại sao lại là con?</i></p>
+<p class="para-vi-sub">Tại sao lại là con?</p>
 
-<p class="para-en"><em>That question has never been answered to anyone’s satisfaction. But you were the last one. The last one I could still save.</em></p>
+<p class="para-en">That question has never been answered to anyone’s satisfaction. But you were the last one. The last one I could still save.</p>
 
-<p class="para-vi-sub"><i>Câu hỏi đó chưa từng có ai trả lời mà làm vừa lòng tất cả. Nhưng con là kẻ cuối cùng. Kẻ cuối cùng mà ta vẫn còn có thể cứu vãn.</i></p>
+<p class="para-vi-sub">Câu hỏi đó chưa từng có ai trả lời mà làm vừa lòng tất cả. Nhưng con là kẻ cuối cùng. Kẻ cuối cùng mà ta vẫn còn có thể cứu vãn.</p>
 
-<p class="para-en"><em>And yet this is Hell. I’m here.</em></p>
+<p class="para-en">And yet this is Hell. I’m here.</p>
 
-<p class="para-vi-sub"><i>Nhưng đây lại là Địa Ngục. Con đang ở đây mà.</i></p>
+<p class="para-vi-sub">Nhưng đây lại là Địa Ngục. Con đang ở đây mà.</p>
 
-<p class="para-en"><em>Not for long.</em></p>
+<p class="para-en">Not for long.</p>
 
-<p class="para-vi-sub"><i>Sẽ không lâu đâu.</i></p>
+<p class="para-vi-sub">Sẽ không lâu đâu.</p>
 
-<p class="para-en"><em>I’m damned.</em></p>
+<p class="para-en">I’m damned.</p>
 
-<p class="para-vi-sub"><i>Con đã bị đọa đày.</i></p>
+<p class="para-vi-sub">Con đã bị đọa đày.</p>
 
-<p class="para-en"><em>Not anymore.</em></p>
+<p class="para-en">Not anymore.</p>
 
-<p class="para-vi-sub"><i>Không còn nữa.</i></p>
+<p class="para-vi-sub">Không còn nữa.</p>
 
 <p class="para-en">Night lay behind her head, but true night, with stars in their proper places, and no comets to trouble them. He was in the cart. She looked down at him.</p>
 
 <p class="para-vi-sub">Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn anh.</p>
 
-<p class="para-en"><a id="page411"></a><em>I want you to answer a question, Thomas.</em></p>
+<p class="para-en">I want you to answer a question, Thomas.</p>
 
-<p class="para-vi-sub"><i>Ta muốn hỏi ngươi một câu, Thomas.</i></p>
+<p class="para-vi-sub">Ta muốn hỏi ngươi một câu, Thomas.</p>
 
-<p class="para-en"><em>Yes.</em></p>
+<p class="para-en">Yes.</p>
 
-<p class="para-vi-sub"><i>Được.</i></p>
+<p class="para-vi-sub">Được.</p>
 
-<p class="para-en"><em>Do you want to remember?</em></p>
+<p class="para-en">Do you want to remember?</p>
 
-<p class="para-vi-sub"><i>Ngươi có muốn nhớ lại không?</i></p>
+<p class="para-vi-sub">Ngươi có muốn nhớ lại không?</p>
 
 <p class="para-en">His eyes welled with tears and he shook his head, his mouth contorting to sob.</p>
 
 <p class="para-vi-sub">Đôi mắt Thomas ngấn lệ và anh lắc đầu, khuôn mặt méo mó vì sắp nức nở.</p>
 
-<p class="para-en"><em>Not Hell. I mean me. Us.</em></p>
+<p class="para-en">Not Hell. I mean me. Us.</p>
 
-<p class="para-vi-sub"><i>Không phải Địa Ngục. Ý ta là ta. Là chúng ta.</i></p>
+<p class="para-vi-sub">Không phải Địa Ngục. Ý ta là ta. Là chúng ta.</p>
 
-<p class="para-en"><em>You?</em></p>
+<p class="para-en">You?</p>
 
-<p class="para-vi-sub"><i>Con bé ư?</i></p>
+<p class="para-vi-sub">Con bé ư?</p>
 
-<p class="para-en"><em>Her. Delphine.</em></p>
+<p class="para-en">Her. Delphine.</p>
 
-<p class="para-vi-sub"><i>Cô bé ấy. Delphine.</i></p>
+<p class="para-vi-sub">Cô bé ấy. Delphine.</p>
 
-<p class="para-en"><em>I don’t know. What are you?</em></p>
+<p class="para-en">I don’t know. What are you?</p>
 
-<p class="para-vi-sub"><i>Tôi không biết. Ngài là gì?</i></p>
+<p class="para-vi-sub">Tôi không biết. Ngài là gì?</p>
 
-<p class="para-en"><em>I was two things together. Then one. Now two again, apart.</em></p>
+<p class="para-en">I was two things together. Then one. Now two again, apart.</p>
 
-<p class="para-vi-sub"><i>Ta từng là hai thực thể hòa làm một. Rồi thành một. Giờ lại là hai, tách rời nhau.</i></p>
+<p class="para-vi-sub">Ta từng là hai thực thể hòa làm một. Rồi thành một. Giờ lại là hai, tách rời nhau.</p>
 
-<p class="para-en"><em>I don’t understand.</em></p>
+<p class="para-en">I don’t understand.</p>
 
-<p class="para-vi-sub"><i>Tôi không hiểu.</i></p>
+<p class="para-vi-sub">Tôi không hiểu.</p>
 
-<p class="para-en"><em>You don’t have to. You just have to say yes or no. But it will be harder for you if you remember. Love is always harder. Love means weathering blows for another’s sake and not counting them. Love is loss of self, loss of other, and faith in the death of loss.</em></p>
+<p class="para-en">You don’t have to. You just have to say yes or no. But it will be harder for you if you remember. Love is always harder. Love means weathering blows for another’s sake and not counting them. Love is loss of self, loss of other, and faith in the death of loss.</p>
 
-<p class="para-vi-sub"><i>Ngươi không cần phải hiểu. Ngươi chỉ cần nói có hoặc không. Nhưng sẽ khó khăn hơn cho ngươi nếu ngươi nhớ lại. Tình yêu luôn luôn khó khăn hơn thế. Tình yêu đồng nghĩa với việc gánh chịu những đòn roi vì người khác mà chẳng màng đếm xỉa. Tình yêu là sự đánh mất bản ngã, đánh mất đối phương, và là niềm tin đối diện với mất mát.</i></p>
+<p class="para-vi-sub">Ngươi không cần phải hiểu. Ngươi chỉ cần nói có hoặc không. Nhưng sẽ khó khăn hơn cho ngươi nếu ngươi nhớ lại. Tình yêu luôn luôn khó khăn hơn thế. Tình yêu đồng nghĩa với việc gánh chịu những đòn roi vì người khác mà chẳng màng đếm xỉa. Tình yêu là sự đánh mất bản ngã, đánh mất đối phương, và là niềm tin đối diện với mất mát.</p>
 
 <p class="para-en">Those gray eyes.</p>
 
@@ -394,13 +394,13 @@
 
 <p class="para-vi-sub">Đôi mắt xám ấy thấu suốt từng ngóc ngách trong tâm hồn Thomas, ôm ấp cả những phần mạnh mẽ lẫn những phần yếu đuối bằng một sự bao dung đồng điệu.</p>
 
-<p class="para-en"><em>Yes.</em></p>
+<p class="para-en">Yes.</p>
 
-<p class="para-vi-sub"><i>Có.</i></p>
+<p class="para-vi-sub">Có.</p>
 
-<p class="para-en"><em>I say yes.</em></p>
+<p class="para-en">I say yes.</p>
 
-<p class="para-vi-sub"><i>Tôi đồng ý.</i></p>
+<p class="para-vi-sub">Tôi đồng ý.</p>
 
 <p class="para-en">She got in the front of the cart and took up the reins.</p>
 

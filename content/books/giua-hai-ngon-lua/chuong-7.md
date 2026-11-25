@@ -106,4 +106,4 @@ Thomas vẫn cảm nhận rõ dấu ấn của ngón cái cứng rắn ấy.
 
 Thomas chìm vào giấc ngủ.
 
-Nhưng không quên lẩm bẩm, <i>“Sebastian. Thánh Sebastian, xin hãy cứu con.”</i>
+Nhưng không quên lẩm bẩm, “Sebastian. Thánh Sebastian, xin hãy cứu con.”

@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Bốn: Về Tu Viện vàThứ Rượu Ngon NhấtTrong Vòng Bảy Năm
+# Chương Bốn: Về Tu Viện và Thứ Rượu Ngon Nhất Trong Vòng Bảy Năm
 
 <p class="para-en">They marched together for two days, and on the first day they saw no people and ate only green stems, a parsnip she pulled out of the ground (using the end of her dress wrapped around her hand), a grasshopper she managed to catch, and a very little honey. They were making for Paris, though the girl couldn’t say why. Despite the devil’s horns he had seen the night before, he thought about abandoning her no less than a dozen times, and, to that end, he hardly responded to her attempts to speak to him. She had a pretty voice, and decent manners, and he would easily feel affection for her if he let himself, but he determined not to.</p>
 
@@ -30,7 +30,7 @@
 
 <p class="para-vi-sub">“Một thị trấn lớn à?”</p>
 
-<p class="para-en"><a id="page35"></a>“Just a town.”</p>
+<p class="para-en">“Just a town.”</p>
 
 <p class="para-vi-sub">“Chỉ là một thị trấn thôi.”</p>
 
@@ -146,7 +146,7 @@
 
 <p class="para-vi-sub">“Thảo nào. Giờ thì ngậm miệng lại đi.”</p>
 
-<p class="para-en"><a id="page36"></a>“You’ll never get a wife being so mean.”</p>
+<p class="para-en">“You’ll never get a wife being so mean.”</p>
 
 <p class="para-vi-sub">“Ngài sẽ chẳng bao giờ lấy được vợ nếu cứ cư xử tệ bạc như thế.”</p>
 
@@ -198,9 +198,9 @@
 
 <p class="para-vi-sub">“Ồ, Chúa nhân từ, xin hãy ban may mắn cho chúng con,” Thomas nói, rồi cả hai tiến về phía cổng. Đó là một chiếc cổng đơn giản được đan bằng những cành cây, đang mở rộng. Một tấm biển gỗ treo trên cổng đề bằng chữ Latinh được khắc cháy:</p>
 
-<p class="para-en"><span class="caps">THIS GATE OPENS<br/>TO ALL WHO ENTER<br/>IN CHRIST’S PEACE</span></p>
+<p class="para-en">THIS GATE OPENSTO ALL WHO ENTERIN CHRIST’S PEACE</p>
 
-<p class="para-vi-sub"><span class="caps">CỔNG NÀY RỘNG MỞ<br/>CHO TẤT CẢ NHỮNG AI BƯỚC VÀO<br/>TRONG SỰ BÌNH AN CỦA CHÚA KITÔ</span></p>
+<p class="para-vi-sub">CỔNG NÀY RỘNG MỞCHO TẤT CẢ NHỮNG AI BƯỚC VÀOTRONG SỰ BÌNH AN CỦA CHÚA KITÔ</p>
 
 <p class="para-en">He drew his sword and went in.</p>
 
@@ -210,7 +210,7 @@
 
 <p class="para-vi-sub">Cô bé bước theo sau anh với hai tay đan vào nhau như đang cầu nguyện, rồi vượt qua anh và tiến thẳng đến nhà thờ đá nhỏ, phớt lờ tiếng “Này! Chờ đã!” của Thomas. Gã mặc kệ con bé, lắc đầu ngán ngẩm rồi bắt đầu đánh giá khu vực xung quanh.</p>
 
-<p class="para-en">It was a small monastery, home to no more than twenty brothers <a id="page37"></a>from the look of it. Only the church and the outer walls were stone; the cloisters and dormitory were wattle and daub. Another hare, or the same one, darted from the garden, but Thomas didn’t even try to lunge at it, instead making straight for the earthen cellar where he suspected the buttery would be. It had already been emptied. Considerately, respectfully, and quite thoroughly emptied.</p>
+<p class="para-en">It was a small monastery, home to no more than twenty brothers from the look of it. Only the church and the outer walls were stone; the cloisters and dormitory were wattle and daub. Another hare, or the same one, darted from the garden, but Thomas didn’t even try to lunge at it, instead making straight for the earthen cellar where he suspected the buttery would be. It had already been emptied. Considerately, respectfully, and quite thoroughly emptied.</p>
 
 <p class="para-vi-sub">Đó là một tu viện nhỏ, thoạt nhìn có lẽ không quá hai mươi tu sĩ sinh sống. Chỉ có nhà thờ và những bức tường bên ngoài làm bằng đá; các hành lang tu viện và khu ký túc xá đều làm bằng phên trát bùn. Một con thỏ khác, hoặc chính là con thỏ đó, phóng vụt ra từ khu vườn, nhưng Thomas thậm chí còn chẳng thèm lao tới bắt nó, thay vào đó gã đi thẳng đến căn hầm đất nơi gã phỏng đoán là phòng đựng thức ăn. Nơi đó đã trống hoác. Được dọn sạch chu đáo, tôn trọng và triệt để.</p>
 
@@ -254,7 +254,7 @@
 
 <p class="para-vi-sub">Khi cô bé làm lễ xong, Thomas nói: “Không có đồ ăn đâu. Bọn chúng lấy hết kho dự trữ rồi, còn dọn sạch cả ao cá lẫn chuồng bồ câu. Chúng có một cái lò nướng, nhưng đã nguội từ lâu lắm rồi. Khu vườn trồng rau thì bị xới tung lên hết. Tất cả những gì chúng có chỉ là toàn cỏ với hoa chết tiệt.”</p>
 
-<p class="para-en"><a id="page38"></a>The girl went to the herb garden and motioned for Thomas to follow. She handed him a bucket from the well and walked him through the garden, filling it with flowers and greens she tore expertly with her small, white hands. He started grabbing at everything, but she stopped him before he grabbed one green stem. She shook her head at him urgently.</p>
+<p class="para-en">The girl went to the herb garden and motioned for Thomas to follow. She handed him a bucket from the well and walked him through the garden, filling it with flowers and greens she tore expertly with her small, white hands. He started grabbing at everything, but she stopped him before he grabbed one green stem. She shook her head at him urgently.</p>
 
 <p class="para-vi-sub">Cô bé đi về phía khu vườn thảo mộc và ra hiệu cho Thomas đi theo. Con bé đưa cho gã một chiếc xô lấy từ giếng nước rồi dẫn gã đi quanh vườn, hái đầy hoa cùng rau xanh bằng đôi bàn tay nhỏ nhắn, trắng trẻo của mình thành thạo. Thomas bắt đầu vươn tay tóm lấy mọi thứ, nhưng cô bé đã kịp ngăn gã lại trước khi gã chạm vào một nhánh cây xanh. Con bé nghiêm khắc lắc đầu với gã.</p>
 
@@ -262,17 +262,17 @@
 
 <p class="para-vi-sub">“Gì thế? Sao lại thế?”</p>
 
-<p class="para-en">She used her finger to write <em>monkshood</em> in the dirt.</p>
+<p class="para-en">She used her finger to write monkshood in the dirt.</p>
 
-<p class="para-vi-sub">Cô bé dùng ngón tay viết chữ <i>ô đầu</i> lên nền đất.</p>
+<p class="para-vi-sub">Cô bé dùng ngón tay viết chữ ô đầu lên nền đất.</p>
 
 <p class="para-en">He furrowed his brow to read it, sounding out each letter.</p>
 
 <p class="para-vi-sub">Thomas nheo mày đọc lại, đánh vần từng chữ cái một.</p>
 
-<p class="para-en"><em>Monkshood</em>.</p>
+<p class="para-en">Monkshood.</p>
 
-<p class="para-vi-sub"><i>Ô đầu</i>.</p>
+<p class="para-vi-sub">Ô đầu.</p>
 
 <p class="para-en">Poison.</p>
 
@@ -282,9 +282,9 @@
 
 <p class="para-vi-sub">“Ồ. Cảm ơn nhé. Thế nào, mày không nói chuyện nữa à?”</p>
 
-<p class="para-en"><em>Not here.</em></p>
+<p class="para-en">Not here.</p>
 
-<p class="para-vi-sub"><i>Không ở đây.</i></p>
+<p class="para-vi-sub">Không ở đây.</p>
 
 <p class="para-en">He sounded this out, too, pointing at each letter.</p>
 
@@ -302,9 +302,9 @@
 
 <p class="para-vi-sub">“Mày có tuyên khấn gì đâu.”</p>
 
-<p class="para-en"><em>Yes I did</em>, she wrote. <em>By the church. In my heart.</em></p>
+<p class="para-en">Yes I did, she wrote. By the church. In my heart.</p>
 
-<p class="para-vi-sub"><i>Có chứ</i>, cô bé viết. <i>Trước nhà thờ. Trong tim cháu.</i></p>
+<p class="para-vi-sub">Có chứ, cô bé viết. Trước nhà thờ. Trong tim cháu.</p>
 
 <p class="para-en">It was taking him so long to read this that she just pointed at the church and placed her hand over her chest.</p>
 
@@ -338,7 +338,7 @@
 
 <p class="para-vi-sub">Con bé với tay vào xô, vốc một nắm lá ẩm ném thẳng vào mặt Thomas. Có một chiếc lá dính chặt trên trán khiến cô bé bật cười bất chấp ý định giữ im lặng và thân phận tạm thời là một nữ tu dòng Xitô của mình.</p>
 
-<p class="para-en">They ate their bucket of greens and bright flowers. Along with the buttery little crowns of calendula, which he remembered now from his mother’s garden—she used to mix it with chickens’ grain to make <a id="page39"></a>their egg yolks darker and, she said, better for the blood—Thomas kept picking out one broadish leaf, nodding his head as he tasted it.</p>
+<p class="para-en">They ate their bucket of greens and bright flowers. Along with the buttery little crowns of calendula, which he remembered now from his mother’s garden—she used to mix it with chickens’ grain to make their egg yolks darker and, she said, better for the blood—Thomas kept picking out one broadish leaf, nodding his head as he tasted it.</p>
 
 <p class="para-vi-sub">Họ ăn chỗ rau xanh và những bông hoa rực rỡ trong xô. Cùng với những phần đài hoa cúc vạn thọ nhỏ nhắn béo ngậy mà giờ đây Thomas mới nhớ ra từ khu vườn của mẹ mình, bà thường trộn nó với thức ăn cho gà để lòng đỏ trứng đậm màu hơn và, theo lời bà, tốt cho máu hơn, Thomas cứ nhặt ra một chiếc lá hơi bản rộng, vừa nếm thử vừa gật gù.</p>
 
@@ -346,9 +346,9 @@
 
 <p class="para-vi-sub">“Cái này là gì thế?”</p>
 
-<p class="para-en"><em>Sorrel</em>, she wrote.</p>
+<p class="para-en">Sorrel, she wrote.</p>
 
-<p class="para-vi-sub"><i>Chua me đất</i>, cô bé viết.</p>
+<p class="para-vi-sub">Chua me đất, cô bé viết.</p>
 
 <p class="para-en">He followed the letters with his finger, pronouncing each syllable as shakily as a foal walks. She nodded when he pieced them together correctly.</p>
 
@@ -358,33 +358,33 @@
 
 <p class="para-vi-sub">“Ngon phết. Giống như chanh ấy, nhưng mà ngon. Thế còn cái này?”</p>
 
-<p class="para-en"><em>Lovage</em></p>
+<p class="para-en">Lovage</p>
 
-<p class="para-vi-sub"><i>Đương quy</i></p>
+<p class="para-vi-sub">Đương quy</p>
 
 <p class="para-en">“This?”</p>
 
 <p class="para-vi-sub">“Cái này?”</p>
 
-<p class="para-en"><em>Comfrey</em></p>
+<p class="para-en">Comfrey</p>
 
-<p class="para-vi-sub"><i>Liên mộc</i></p>
+<p class="para-vi-sub">Liên mộc</p>
 
 <p class="para-en">“This one I know. Don’t eat it all. And get more of it in the morning, if there is more. It’s good to pack in a wound to stop bleeding.”</p>
 
 <p class="para-vi-sub">“Cái này thì tao biết. Đừng có ăn hết đấy. Sáng mai đi hái thêm đi, nếu còn nhiều. Loại này đắp vào vết thương thì cầm máu rất tốt.”</p>
 
-<p class="para-en"><em>Yarrow</em></p>
+<p class="para-en">Yarrow</p>
 
-<p class="para-vi-sub"><i>Cỏ thi</i></p>
+<p class="para-vi-sub">Cỏ thi</p>
 
 <p class="para-en">“How do you know all this?”</p>
 
 <p class="para-vi-sub">“Sao mày rành mấy thứ này thế?”</p>
 
-<p class="para-en"><em>Mother</em>, she wrote, and a smile broke so gently on her face that Thomas bit his tongue viciously to keep from weeping for his own.</p>
+<p class="para-en">Mother, she wrote, and a smile broke so gently on her face that Thomas bit his tongue viciously to keep from weeping for his own.</p>
 
-<p class="para-vi-sub"><i>Mẹ</i>, cô bé viết, và một nụ cười khẽ nở trên gương mặt đến mức Thomas phải cắn chặt lưỡi để kìm nén cơn khóc nghẹn cho chính người mẹ của mình.</p>
+<p class="para-vi-sub">Mẹ, cô bé viết, và một nụ cười khẽ nở trên gương mặt đến mức Thomas phải cắn chặt lưỡi để kìm nén cơn khóc nghẹn cho chính người mẹ của mình.</p>
 
 <p class="para-en">They slept in the open air of the cloisters, near statues of St. Bernard of Clairvaux, St. Genevieve of Paris, and the Archangels Michael and Gabriel. Thomas woke up in the middle of the night and went to look at his comet. It was across Cygnus’s neck now, and seemed to be reddish at the tip, as if there were a tiny vein of blood in it. He rubbed his eyes and looked away, but when he looked back it was still there. He noticed a second comet now, close to it and very faint.</p>
 
@@ -410,7 +410,7 @@
 
 <p class="para-vi-sub">Cả hai người họ đều đã được phủ đầy những cánh hoa.</p>
 
-<p class="para-en"><a id="page40"></a>They met travelers the next day: a cloth merchant from Bruges, his family, and two Flemish men-at-arms, with five horses between them. All seemed to be in good health. Thomas would have been glad to meet them two months before, with Godefroy and his band of killers behind him; the horses were young, the cart promised excellent pickings, and Godefroy would not have raped this woman.</p>
+<p class="para-en">They met travelers the next day: a cloth merchant from Bruges, his family, and two Flemish men-at-arms, with five horses between them. All seemed to be in good health. Thomas would have been glad to meet them two months before, with Godefroy and his band of killers behind him; the horses were young, the cart promised excellent pickings, and Godefroy would not have raped this woman.</p>
 
 <p class="para-vi-sub">Hôm sau, họ gặp những lữ khách: một thương gia buôn vải đến từ thành Bruges, gia đình ông ta, cùng hai binh sĩ người Flem, tính cả thảy có năm con ngựa. Tất cả trông đều khỏe mạnh. Hẳn Thomas đã rất vui mừng khi gặp họ từ hai tháng trước, lúc Godefroy cùng đám sát thủ của hắn còn bám đuổi theo sau; những con ngựa còn trẻ, cỗ xe hứa hẹn những món đồ cướp bóc tuyệt vời, và Godefroy sẽ chẳng đời nào hãm hiếp cô bé.</p>
 
@@ -422,9 +422,9 @@
 
 <p class="para-vi-sub">Cây cầu mà Thomas muốn qua được đồn là nằm ngay bên kia một thị trấn ven sông mang tên St. Martin-le-Preux, nhưng khi gã và cô bé đến gần thị trấn, họ bắt gặp một chiếc xe kéo tay bị lật ngửa và không còn bánh xe; ở phần đáy xe, một kẻ kém tài chính tả đã dùng thứ trông giống như máu để vẽ lên dòng chữ:</p>
 
-<p class="para-en"><span class="caps">GO BACK</span></p>
+<p class="para-en">GO BACK</p>
 
-<p class="para-vi-sub"><span class="caps">QUAY LẠI</span></p>
+<p class="para-vi-sub">QUAY LẠI</p>
 
 <p class="para-en">As this was the only bridge they knew of, they continued forward, although Thomas traded his straw hat for the helmet and carried the sword naked across his shoulders. The girl took her bird whistle out, poured a little of her water, and began to make birdsong with it.</p>
 
@@ -434,7 +434,7 @@
 
 <p class="para-vi-sub">“Câm miệng ngay,” gã rít lên.</p>
 
-<p class="para-en"><a id="page41"></a>“I just don’t want to surprise anyone. And I thought this would let them know we’re friendly.”</p>
+<p class="para-en">“I just don’t want to surprise anyone. And I thought this would let them know we’re friendly.”</p>
 
 <p class="para-vi-sub">“Cháu chỉ không muốn làm ai giật mình thôi. Và cháu nghĩ thế này sẽ cho họ biết chúng ta là người thân thiện.”</p>
 
@@ -522,7 +522,7 @@
 
 <p class="para-vi-sub">“Từ lâu lắm rồi.”</p>
 
-<p class="para-en"><a id="page42"></a>“We just want to cross the bridge.”</p>
+<p class="para-en">“We just want to cross the bridge.”</p>
 
 <p class="para-vi-sub">“Chúng tôi chỉ muốn qua cầu.”</p>
 
@@ -550,7 +550,7 @@
 
 <p class="para-vi-sub">Sau đó, một thứ khác đã di chuyển đến, thứ cũng thích ăn những gì mà lũ lươn đã ăn đến béo múp. Những ngư dân phóng lao hoặc thả lưới bắt cá hồi, lươn và cá chó bắt đầu biến mất, ngay cả khi họ đi theo nhóm hai hoặc ba người.</p>
 
-<p class="para-en">Nobody knew what was happening until a young boy sprinted back to town and said that his father and uncle had been eaten by a “great black fish or snake” with a “flat mouth” that hid in the murky shallows. It had lashed at them with the end of its tail and pulled the men in, then tore them with spines, and then its great, froggy mouth had opened and clamped down on their heads, swallowing each of them whole in several fast gulps. The boy had stood transfixed until he saw that it was slithering up the bank toward him, and then he had run screaming for the road. The monster would have caught him, but his <a id="page43"></a>panicked flight had startled his uncle’s mule, still tied to its cart, causing it to buck and catch the thing’s attention. It wanted the mule more than the boy, so it coiled all around the poor animal and bit its head off, dragging the body, cart and all, back down the bank and into the river.</p>
+<p class="para-en">Nobody knew what was happening until a young boy sprinted back to town and said that his father and uncle had been eaten by a “great black fish or snake” with a “flat mouth” that hid in the murky shallows. It had lashed at them with the end of its tail and pulled the men in, then tore them with spines, and then its great, froggy mouth had opened and clamped down on their heads, swallowing each of them whole in several fast gulps. The boy had stood transfixed until he saw that it was slithering up the bank toward him, and then he had run screaming for the road. The monster would have caught him, but his panicked flight had startled his uncle’s mule, still tied to its cart, causing it to buck and catch the thing’s attention. It wanted the mule more than the boy, so it coiled all around the poor animal and bit its head off, dragging the body, cart and all, back down the bank and into the river.</p>
 
 <p class="para-vi-sub">Không ai biết chuyện gì đang xảy ra cho đến khi một cậu bé chạy thục mạng trở về thị trấn và kể rằng cha và chú của cậu đã bị ăn thịt bởi một Thủy quái sông St. Martin với một cái miệng dẹt ẩn nấp trong vùng nước nông đục ngầu. Nó đã quất phần đuôi vào họ và kéo những người đàn ông xuống, sau đó xé họ bằng những chiếc gai, rồi cái miệng lớn như loài ếch của nó mở ra và ngoạm lấy đầu họ, nuốt chửng từng người một trong vài ngụm nhanh chóng. Cậu bé đứng chết trân cho đến khi thấy nó đang trườn lên bờ về phía mình, và rồi cậu cắm cổ chạy bán sống bán chết ra đường cái. Quái vật đã tóm được cậu, nhưng cuộc trốn chạy hoảng loạn của cậu đã làm con la của chú cậu hoảng sợ, khi đó vẫn đang bị cột vào xe đẩy, khiến nó lồng lên và thu hút sự chú ý của sinh vật đó. Nó muốn con la hơn là cậu bé, vì vậy nó cuộn tròn xung quanh con vật tội nghiệp và cắn đứt đầu nó, kéo cả thi thể lẫn xe đẩy lùi xuống bờ sông.</p>
 
@@ -590,7 +590,7 @@
 
 <p class="para-vi-sub">Không ai trong số họ phản đối.</p>
 
-<p class="para-en">“What about the seigneur?” asked Thomas, leaning toward the priest over his modest table. “If he’s well enough to issue orders about <a id="page44"></a>letting in strangers, he should have enough spunk to buckle on his armor and put a sword in that thing.”</p>
+<p class="para-en">“What about the seigneur?” asked Thomas, leaning toward the priest over his modest table. “If he’s well enough to issue orders about letting in strangers, he should have enough spunk to buckle on his armor and put a sword in that thing.”</p>
 
 <p class="para-vi-sub">“Thế còn vị lãnh chúa thì sao?” Thomas hỏi, chồm người về phía vị linh mục qua chiếc bàn khiêm tốn của ông. “Nếu lão ta đủ khỏe để ra lệnh về việc cho phép người lạ vào thành, thì lão ta cũng phải đủ gan dạ để khoác áo giáp và tự tay cầm gươm xử lý thứ đó chứ.”</p>
 
@@ -634,7 +634,7 @@
 
 <p class="para-vi-sub">“Biết đâu con bé đang hy vọng thức dậy khỏi cơn ác mộng này.”</p>
 
-<p class="para-en"><a id="page45"></a>“If so, she’s smarter than both of us.”</p>
+<p class="para-en">“If so, she’s smarter than both of us.”</p>
 
 <p class="para-vi-sub">“Nếu vậy, nó khôn ngoan hơn cả hai chúng ta.”</p>
 
@@ -726,7 +726,7 @@
 
 <p class="para-vi-sub">“Họ chết hết rồi. May ra vài kẻ trốn thoát được.”</p>
 
-<p class="para-en">“Ah,” the priest said. His Adam’s apple bobbed as he swallowed <a id="page46"></a>hard twice, and his eyes moistened. He nodded. He looked as if he wanted to reach out for Thomas’s hand, but he didn’t.</p>
+<p class="para-en">“Ah,” the priest said. His Adam’s apple bobbed as he swallowed hard twice, and his eyes moistened. He nodded. He looked as if he wanted to reach out for Thomas’s hand, but he didn’t.</p>
 
 <p class="para-vi-sub">“À,” vị linh mục thốt lên. Yết hầu của ông động đậy khi nuốt khan hai lần, và đôi mắt ngấn lệ. Ông gật đầu. Trông ông như muốn vươn tay ra nắm lấy tay Thomas, nhưng lại thôi.</p>
 
@@ -810,7 +810,7 @@
 
 <p class="para-vi-sub">“Tôi cũng chẳng trách ngài nếu đó là tôi.”</p>
 
-<p class="para-en"><a id="page47"></a>“No, it’s…No. There’s no point.”</p>
+<p class="para-en">“No, it’s…No. There’s no point.”</p>
 
 <p class="para-vi-sub">“Không, là… Không. Chẳng có ích gì đâu.”</p>
 

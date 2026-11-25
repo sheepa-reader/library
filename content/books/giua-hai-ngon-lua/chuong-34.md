@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi: Về Người Em TraiCủa Vị Linh Mục
+# Chương Ba Mươi: Về Người Em Trai Của Vị Linh Mục
 
 Robert Hanicotte đứng trong chuồng ngựa, bẻ nhỏ một nắm cỏ khô cho một trong sáu con tuấn mã Ả Rập lông đen của Đức Hồng Y. Con ngựa này mang tên Guêpe vì nó nhỏ con, thắt đáy lưng ong và hung dữ như một con ong bắp cày; tốc độ chạy thẳng không bằng mấy con khác, nhưng lại có khả năng xoay người ngoạn mục cùng những cú nhảy chóng mặt. Nó không phải là con vật cưng yêu thích nhất của Đức Hồng Y, nhưng Robert yêu nó hơn bất cứ thứ gì ở cái thành phố này. Tuy nhiên, anh sẽ không bao giờ để lão già đó biết điều này, nếu không quyền cưỡi nó sẽ bị lợi dụng làm đòn bẩy.
 
@@ -18,9 +18,9 @@ Anh lầm bầm trong miệng: “Lão già nhàm chán,” ý chỉ cả ngư�
 
 Anh nghe thấy một thứ âm thanh vọng lên từ những con phố bên dưới, phía ngoài bức tường cao của ngôi nhà, vượt qua cả vườn cây cam chua Tây Ban Nha nhỏ bé mà Đức Hồng Y năm nào cũng cho trồng vào tháng Năm để rồi bị gió mistral thổi chết vào mỗi tháng Chạp.
 
-Tiếng một người phụ nữ khóc lóc, rồi quát lên: “Không! Không! <i>Không</i>,” đấm mạnh một cú xuống tấm ván gỗ để nhấn mạnh từng từ, và một người phụ nữ khác, khóc nhỏ hơn, đang cố gắng dỗ dành cô ta.
+Tiếng một người phụ nữ khóc lóc, rồi quát lên: “Không! Không! Không,” đấm mạnh một cú xuống tấm ván gỗ để nhấn mạnh từng từ, và một người phụ nữ khác, khóc nhỏ hơn, đang cố gắng dỗ dành cô ta.
 
-Lại một cái chết vì dịch hạch, cũng chẳng có gì lạ, càng nhức nhối hơn khi căn bệnh thực ra đang nới lỏng bàn tay khỏi thành phố, mỗi tuần chỉ cướp đi vài chục sinh mạng thay vì hàng trăm người. Robert ghét khoảng thời gian này, ít vì sợ cái chết mà chủ yếu vì Đức Hồng Y sợ điều đó; và vì Đức Hồng Y sợ, ngài đã cấm tình nhân của mình bước chân ra đường mà không có ngài đi cùng. Ngài muốn canh chừng mọi cử động của người đàn ông trẻ tuổi, để đảm bảo rằng anh giữ khoảng cách an toàn với những kẻ lạ mặt, rằng anh không đến nhà tắm công cộng, rằng anh không la cà quá lâu ở khu chợ để rồi có nguy cơ mang <i>căn bệnh đó</i> về nhà. Anh đã từng hắt hơi một lần vào vài ngày trước, và lão già đã nhìn anh lạnh lùng đến mức anh tưởng lão sẽ tống cổ mình khỏi nhà nếu anh hắt hơi lần thứ hai.
+Lại một cái chết vì dịch hạch, cũng chẳng có gì lạ, càng nhức nhối hơn khi căn bệnh thực ra đang nới lỏng bàn tay khỏi thành phố, mỗi tuần chỉ cướp đi vài chục sinh mạng thay vì hàng trăm người. Robert ghét khoảng thời gian này, ít vì sợ cái chết mà chủ yếu vì Đức Hồng Y sợ điều đó; và vì Đức Hồng Y sợ, ngài đã cấm tình nhân của mình bước chân ra đường mà không có ngài đi cùng. Ngài muốn canh chừng mọi cử động của người đàn ông trẻ tuổi, để đảm bảo rằng anh giữ khoảng cách an toàn với những kẻ lạ mặt, rằng anh không đến nhà tắm công cộng, rằng anh không la cà quá lâu ở khu chợ để rồi có nguy cơ mang căn bệnh đó về nhà. Anh đã từng hắt hơi một lần vào vài ngày trước, và lão già đã nhìn anh lạnh lùng đến mức anh tưởng lão sẽ tống cổ mình khỏi nhà nếu anh hắt hơi lần thứ hai.
 
 Anh đã không làm thế.
 
@@ -76,7 +76,7 @@ Và là một người rất được trân quý.
 
 Cậu thiếu niên nãy giờ vẫn đứng quan sát mọi chuyện trong lúc chờ phụ giúp Đức Hồng Y cởi y phục liền vui vẻ rời khỏi phòng.
 
-<i>Ba… bốn… năm…</i>
+Ba… bốn… năm…
 
 “Hơn nữa, các bàn tiệc tại Đại sảnh Grand Tinel sẽ chật kín các hiệp sĩ, toàn là những nhân vật có địa vị cao trọng. Cậu sẽ không phải ngồi gần ai trong số họ đâu, nhưng hãy cố gắng đừng… chạm mặt họ. Họ sẽ nhận ra bản tính lệch lạc của cậu qua cách nói chuyện và sẽ căm ghét cậu vì điều đó đấy.”
 
@@ -84,7 +84,7 @@ Vị hồng y đã nhại lại giọng điệu của Robert trong thói quen ng
 
 Khuôn mặt của cha anh hiện lên trong đầu, khiến anh suýt nheo mắt lại.
 
-<i>Mười hai… mười ba… mười bốn</i>
+Mười hai… mười ba… mười bốn
 
 “Sao con lại bĩu cái môi dưới với ta như thế? Con là lạc đà của Đức Thánh Cha đấy à?”
 
@@ -136,13 +136,13 @@ Giọng nói của Clement tuôn trào vào sảnh Grand Tinel tựa như dòng 
 
 “Vì tụ họp trong đại sảnh này là những con người được Chúa yêu thương bởi lòng bác ái của binh đao; khi con người cầm gươm để mưu cầu lợi ích riêng, họ lại làm tuôn chảy máu của Chúa Cứu Thế một lần nữa; nhưng khi họ cầm vũ khí vì hiền thê của Ngài là Giáo hội, họ đang chữa lành năm vết thương của Ngài, và đây chính là lòng bác ái uyên thâm nhất. Đã quá lâu rồi các vị vua Cơ Đốc giao tranh lẫn nhau, ai nấy đều tìm cách làm giàu cho vương quốc của mình bằng cách làm nghèo đi kẻ khác. Không phải ngẫu nhiên mà Đại Diệt Vong này nối tiếp các cuộc chiến tranh, và chiến tranh lại nối tiếp nạn đói; qua từng bước ngoặt, chúng ta đã càng lúc càng thấy rõ hơn sự phẫn nộ của Người Cha có Con Trai đang bị bỏ mặc, có Thập Tự Giá và Máng Cỏ bị giẫm đạp bởi những kẻ không chịu uống dòng máu mà Ngài ban tặng. Ta đang muốn nói đến người Thổ, những kẻ với tội ác đẫm máu chống lại những người bạn của hòa bình đang bị nguyền rủa ở mọi vùng đất tử tế. Trong tay trái của ta là bức thư từ Edward, vua nước Anh đồng thời là lãnh chúa vùng Aquitaine. Trong tay phải của ta là bức thư từ Phillip, nhờ ân sủng của Chúa mà làm vua nước Pháp. Cả hai bức thư, được thề nguyện trước sự chứng kiến của các giám mục, đều cam kết vương miện Anh và Pháp sẽ hướng tới một nền hòa bình tương hỗ, với một mục tiêu duy nhất: Jerusalem, Thành phố của Chúa. Jerusalem, viên đá linh thiêng nhất trong vương miện trần thế. Ngay lúc này đây, các xưởng đóng tàu ở Marseille đang rộn vang tiếng búa. Hãy để những kẻ tin vào lời dối trá của Mahomet phải run sợ. Chúng ta sẽ lấy lại Jerusalem.”
 
-Nghe vậy, các hiệp sĩ bèn đập cốc vào những chiếc bàn được sơn vẽ trước mặt họ. Một người hô lớn, <i>“Deus vult!”</i> và một người khác hưởng ứng theo, chẳng mấy chốc Đại sảnh Grand Tinel vang dội tiếng <i>“Chúa muốn điều đó!”</i> Khi tiếng vọng tắt dần, vị giáo hoàng lại tiếp tục.
+Nghe vậy, các hiệp sĩ bèn đập cốc vào những chiếc bàn được sơn vẽ trước mặt họ. Một người hô lớn, “Deus vult!” và một người khác hưởng ứng theo, chẳng mấy chốc Đại sảnh Grand Tinel vang dội tiếng “Chúa muốn điều đó!” Khi tiếng vọng tắt dần, vị giáo hoàng lại tiếp tục.
 
 “Những con tàu đầu tiên sẽ nhổ buồm đến Síp vào Ngày lễ Giáng Sinh.”
 
 Lần nữa họ hoan hô.
 
-“Và,” vị giáo hoàng nói, bước lên phía trước và xòe đôi tay ra, “một vấn đề nữa cũng liên quan đến chúng ta. Những lời trước đây của chúng ta nhằm bảo vệ một khu vực nào đó, nay chúng ta tin rằng, là sai lầm. Rất nhiều người, những người khôn ngoan hơn chúng ta từng nghĩ, đã nói rằng chúng ta không thể đuổi con chuột cống ra khỏi kho thóc trong khi con chuột nhắt lại lẻn vào phòng đựng thức ăn. Ta bảo với số ít các ngươi đang đội vương miện hoặc ngồi gần những chiếc vương miện rằng hãy chuẩn bị cho bản thân và vương quốc của mình trong bí mật; chẳng bao lâu nữa chúng ta sẽ thu hồi sắc lệnh của mình, <i>Sicut Judaeis</i>, vốn bảo vệ dòng dõi người Do Thái, và ban hành một sắc lệnh khác trao cho bất kỳ tín đồ Cơ Đốc nào quyền được ra tay với bất kỳ người Do Thái nào, và được tước đoạt từ họ bất kỳ tài sản nào hắn muốn, kể cả nhà cửa và động sản. Rất nhanh thôi, kể từ ngày lễ thánh Martin xứ Tours, việc sát hại một người Do Thái sẽ không còn là tội lỗi hơn việc săn một con hươu đực. Hãy ghi nhớ từ này, <i>hươu đực</i>. Vì một số người trong các ngươi chẳng mấy chốc sẽ có lý do để yêu mến từ này.”
+“Và,” vị giáo hoàng nói, bước lên phía trước và xòe đôi tay ra, “một vấn đề nữa cũng liên quan đến chúng ta. Những lời trước đây của chúng ta nhằm bảo vệ một khu vực nào đó, nay chúng ta tin rằng, là sai lầm. Rất nhiều người, những người khôn ngoan hơn chúng ta từng nghĩ, đã nói rằng chúng ta không thể đuổi con chuột cống ra khỏi kho thóc trong khi con chuột nhắt lại lẻn vào phòng đựng thức ăn. Ta bảo với số ít các ngươi đang đội vương miện hoặc ngồi gần những chiếc vương miện rằng hãy chuẩn bị cho bản thân và vương quốc của mình trong bí mật; chẳng bao lâu nữa chúng ta sẽ thu hồi sắc lệnh của mình, Sicut Judaeis, vốn bảo vệ dòng dõi người Do Thái, và ban hành một sắc lệnh khác trao cho bất kỳ tín đồ Cơ Đốc nào quyền được ra tay với bất kỳ người Do Thái nào, và được tước đoạt từ họ bất kỳ tài sản nào hắn muốn, kể cả nhà cửa và động sản. Rất nhanh thôi, kể từ ngày lễ thánh Martin xứ Tours, việc sát hại một người Do Thái sẽ không còn là tội lỗi hơn việc săn một con hươu đực. Hãy ghi nhớ từ này, hươu đực. Vì một số người trong các ngươi chẳng mấy chốc sẽ có lý do để yêu mến từ này.”
 
 “Nhân danh Ngài, và vì mục đích thánh thiện của Ngài, chúng ta hãy nhổ tận gốc cỏ dại, cả ở xa lẫn ở gần, những thứ đã bóp nghẹt khu vườn của Ngài quá lâu rồi.”
 

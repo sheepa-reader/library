@@ -1,28 +1,28 @@
 *Phần III*
 
-# Chương Hai Mươi Lăm: Về Delphinevà Con Bù Nhìn
+# Chương Hai Mươi Lăm: Về Delphine và Con Bù Nhìn
 
 <p class="para-en">Delphine traced her fingers on the sleeping knight’s face.</p>
 
 <p class="para-vi-sub">Delphine khẽ lướt những ngón tay trên gương mặt Thomas đang ngủ say.</p>
 
-<p class="para-en"><em>ThomasThomasThomasThomas.</em></p>
+<p class="para-en">ThomasThomasThomasThomas.</p>
 
-<p class="para-vi-sub"><i>Thomas. Thomas. Thomas. Thomas.</i></p>
+<p class="para-vi-sub">Thomas. Thomas. Thomas. Thomas.</p>
 
 <p class="para-en">She touched him lightly enough that she knew he would not stir; he slept like a soldier, always set to spring awake at a strange sound, but he seemed to know it was her hand upon his face, and that she was no threat to him.</p>
 
 <p class="para-vi-sub">Cô bé chạm vào anh nhẹ đến mức biết chắc anh sẽ chẳng màng tỉnh giấc; anh ngủ hệt như một người lính, luôn trong tư thế sẵn sàng bật dậy trước bất kỳ âm thanh lạ nào, nhưng dường như anh biết đó là bàn tay đang chạm lên mặt mình, và rằng em chẳng hề mang lại mối đe dọa nào cho anh.</p>
 
-<p class="para-en"><em>But I am.</em></p>
+<p class="para-en">But I am.</p>
 
-<p class="para-vi-sub"><i>Nhưng mình lại chính là mối đe dọa ấy.</i></p>
+<p class="para-vi-sub">Nhưng mình lại chính là mối đe dọa ấy.</p>
 
 <p class="para-en">The land was drier now, rockier. Warmer. The sky blazoned its unquenchable Provençal blue over plane trees with yellow-green leaves and bark like linen. It had not rained since they left the old man’s house, and the vines were still green here. They had stopped in a shallow cave near a stream, exhausted after two days on foot. They had sold the goat to a Provençal family the day before, Thomas gesturing his way through much of the exchange, getting in return a hot meal and a small pouch of silver that wouldn’t get them far.</p>
 
 <p class="para-vi-sub">Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Trận mưa cuối cùng đã rơi từ khi họ rời khỏi ngôi nhà của lão già, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.</p>
 
-<p class="para-en">Thomas had told her flatly that he intended to steal the first horse they saw, but they saw horses only when troops of men, sometimes <a id="page272"></a>soldiers, sometimes laborers, headed south and past them. It had not seemed plausible that any of these groups would turn their horses over to one man, no matter how big and dangerous he looked, so Thomas stole nothing.</p>
+<p class="para-en">Thomas had told her flatly that he intended to steal the first horse they saw, but they saw horses only when troops of men, sometimes soldiers, sometimes laborers, headed south and past them. It had not seemed plausible that any of these groups would turn their horses over to one man, no matter how big and dangerous he looked, so Thomas stole nothing.</p>
 
 <p class="para-vi-sub">Thomas đã nói thẳng với cô bé rằng anh định cướp con ngựa đầu tiên họ nhìn thấy, nhưng họ chỉ thấy ngựa khi những đoàn người — đôi khi là binh lính, đôi khi là phu phen lao động — kéo nhau đi về hướng nam vượt qua họ. Chẳng có vẻ gì là hợp lý khi một trong số những nhóm người đó sẽ nhường ngựa cho một kẻ độc hành, cho dù trông gã có cao lớn và nguy hiểm đến đâu đi nữa, thế nên Thomas chẳng cướp bóc gì cả.</p>
 
@@ -74,25 +74,25 @@
 
 <p class="para-vi-sub">Nếu Chúa muốn em đến Avignon, Ngài sẽ phải đưa em đến đó an toàn mà không cần lợi dụng Thomas rồi vứt bỏ anh khi anh không còn giá trị.</p>
 
-<p class="para-en"><em>Am I tempting God or doing His will?</em></p>
+<p class="para-en">Am I tempting God or doing His will?</p>
 
-<p class="para-vi-sub"><i>Liệu mình đang thử thách Chúa hay đang làm theo ý Ngài?</i></p>
+<p class="para-vi-sub">Liệu mình đang thử thách Chúa hay đang làm theo ý Ngài?</p>
 
-<p class="para-en"><em>Mother Mary, help me.</em></p>
+<p class="para-en">Mother Mary, help me.</p>
 
-<p class="para-vi-sub"><i>Mẹ Maria, xin hãy cứu rỗi con.</i></p>
+<p class="para-vi-sub">Mẹ Maria, xin hãy cứu rỗi con.</p>
 
-<p class="para-en"><a id="page273"></a>She climbed to the top of a rocky outjut full of ocher and crowned with thorny bushes and bushes whose leaves flashed silver undersides when the wind blew. And the wind did blow here, not quite cool, but neither warm. Just hard. She gathered her new horse blanket, the one from the old man’s stable, around her shoulders. A mountain rose to the south, slightly blurred with haze, protected by a pack of smaller, sharp mountains that seemed ready to intercept anyone who tried to approach the large one. She saw the Rhône snaking south to her right, deceptively blue.</p>
+<p class="para-en">She climbed to the top of a rocky outjut full of ocher and crowned with thorny bushes and bushes whose leaves flashed silver undersides when the wind blew. And the wind did blow here, not quite cool, but neither warm. Just hard. She gathered her new horse blanket, the one from the old man’s stable, around her shoulders. A mountain rose to the south, slightly blurred with haze, protected by a pack of smaller, sharp mountains that seemed ready to intercept anyone who tried to approach the large one. She saw the Rhône snaking south to her right, deceptively blue.</p>
 
 <p class="para-vi-sub">Cô bé trèo lên đỉnh một mỏm đá lởm chởm sắc màu đất son, mọc đầy những bụi cây gai và những loài cây có mặt dưới lá ánh lên sắc bạc mỗi khi cơn gió thổi qua. Và gió thổi ở đây thực sự dữ dội, không hẳn là lạnh buốt, nhưng cũng chẳng ấm áp. Chỉ là một thứ gió buốt giá khô khốc. Em quấn tấm chăn ngựa mới lấy từ chuồng của lão già lên bờ vai. Một ngọn núi sừng sững hiện lên ở phía nam, hơi mờ ảo trong làn sương mù, được che chở bởi một dải núi nhỏ hơn và sắc nhọn hơn, tựa hồ sẵn sàng chặn đứng bất cứ kẻ nào dám toan tính tiếp cận ngọn núi lớn kia. Em nhìn thấy con sông Rhône uốn lượn chảy về phía nam ở bên tay phải, mang sắc xanh đến là đánh lừa thị giác.</p>
 
-<p class="para-en"><em>Come get your raft dear</em></p>
+<p class="para-en">Come get your raft dear</p>
 
-<p class="para-vi-sub"><i>Lại đây lấy chiếc bè của cô bé đi nào, cục cưng.</i></p>
+<p class="para-vi-sub">Lại đây lấy chiếc bè của cô bé đi nào, cục cưng.</p>
 
-<p class="para-en"><em>Follow me to the city of your dying</em></p>
+<p class="para-en">Follow me to the city of your dying</p>
 
-<p class="para-vi-sub"><i>Hãy theo ta về thành phố nơi cô bé sẽ bỏ mạng.</i></p>
+<p class="para-vi-sub">Hãy theo ta về thành phố nơi cô bé sẽ bỏ mạng.</p>
 
 <p class="para-en">She wanted to cry but pushed that down and lifted her chin.</p>
 
@@ -102,17 +102,17 @@
 
 <p class="para-vi-sub">Đôi giày của Delphine đã rách tả tơi gần hết. Con đường từng đày đọa đôi bàn chân em nằm sát bên dòng sông.</p>
 
-<p class="para-en"><em>Romans made that.</em></p>
+<p class="para-en">Romans made that.</p>
 
-<p class="para-vi-sub"><i>Người La Mã đã tạo nên con đường đó.</i></p>
+<p class="para-vi-sub">Người La Mã đã tạo nên con đường đó.</p>
 
-<p class="para-en"><em>How do I know this?</em></p>
+<p class="para-en">How do I know this?</p>
 
-<p class="para-vi-sub"><i>Làm sao mà Delphine lại biết điều này nhỉ?</i></p>
+<p class="para-vi-sub">Làm sao mà Delphine lại biết điều này nhỉ?</p>
 
-<p class="para-en"><em>I’m becoming something.</em></p>
+<p class="para-en">I’m becoming something.</p>
 
-<p class="para-vi-sub"><i>Em đang dần biến thành một thứ gì đó mất rồi.</i></p>
+<p class="para-vi-sub">Em đang dần biến thành một thứ gì đó mất rồi.</p>
 
 <p class="para-en">She turned now and looked for Thomas, conflicted about whether she hoped to see him. She knew he would be following her—there was no mystery about where she was going—but she was sure she had a long head start. Her heart sank just a little to see that the road behind her was empty.</p>
 
@@ -126,7 +126,7 @@
 
 <p class="para-vi-sub">Delphine lại lê bước tiếp.</p>
 
-<p class="para-en">As late afternoon came on, she found a pretty little farmhouse roofed with the lazy U-shaped tiles they used here. Whoever had been here <a id="page274"></a>must have left; she found nothing in the house but furniture and tools. She went to the well in the back, her throat parched, and started lowering the bucket. She stopped, though, when she first smelled, then saw how rancid the well was.</p>
+<p class="para-en">As late afternoon came on, she found a pretty little farmhouse roofed with the lazy U-shaped tiles they used here. Whoever had been here must have left; she found nothing in the house but furniture and tools. She went to the well in the back, her throat parched, and started lowering the bucket. She stopped, though, when she first smelled, then saw how rancid the well was.</p>
 
 <p class="para-vi-sub">Khi buổi chiều tà dần buông xuống, cô bé tìm thấy một ngôi nhà nông trang nhỏ xinh xắn lợp ngói hình chữ U trũng xuống mà người dân xứ này hay dùng. Bất cứ ai từng sống ở đây hẳn đã bỏ đi; Delphine chẳng tìm thấy gì trong nhà ngoài đồ đạc và dăm dụng cụ lao động. Khát khô cả cổ, cô bé tiến ra cái giếng ở phía sau và bắt đầu thả gàu xuống. Thế nhưng, em khựng lại ngay khi ngửi thấy, rồi nhìn thấy dòng nước trong giếng đã hôi thối và biến chất đến nhường nào.</p>
 
@@ -134,25 +134,25 @@
 
 <p class="para-vi-sub">Có rất ít nước đọng lại dưới đáy giếng ấy, hoàn toàn không đủ để ngập qua phần lớn bộ hài cốt đã trơ xương nằm chồng chất ở đáy, tấm lưng vẹo vọ khiến hộp sọ và lồng ngực quay ngoắt về hướng sai lệch, những hốc mắt trũng sâu đang ngược nhìn lên phía cô bé.</p>
 
-<p class="para-en"><em>An accident? Did people still die of those?</em></p>
+<p class="para-en">An accident? Did people still die of those?</p>
 
-<p class="para-vi-sub"><i>Một tai nạn ư? Con người ta vẫn chết vì những chuyện thế này sao?</i></p>
+<p class="para-vi-sub">Một tai nạn ư? Con người ta vẫn chết vì những chuyện thế này sao?</p>
 
 <p class="para-en">Then she saw the child’s skull, just the top and one eye visible, one small foot perched on a rock.</p>
 
 <p class="para-vi-sub">Rồi Delphine nhìn thấy chiếc hộp sọ của một đứa trẻ, chỉ lộ ra phần đỉnh đầu và một bên mắt, cùng một bàn chân nhỏ xíu đang tì lên một hòn đá.</p>
 
-<p class="para-en"><em>No. He threw the body in and jumped.</em></p>
+<p class="para-en">No. He threw the body in and jumped.</p>
 
-<p class="para-vi-sub"><i>Không. Ông ta đã ném cái xác xuống đây rồi tự nhảy theo.</i></p>
+<p class="para-vi-sub">Không. Ông ta đã ném cái xác xuống đây rồi tự nhảy theo.</p>
 
-<p class="para-en"><em>May God forgive him, since he couldn’t forgive God.</em></p>
+<p class="para-en">May God forgive him, since he couldn’t forgive God.</p>
 
-<p class="para-vi-sub"><i>Xin Chúa hãy tha thứ cho ông ấy, vì ông ấy chẳng thể tha thứ cho Chúa.</i></p>
+<p class="para-vi-sub">Xin Chúa hãy tha thứ cho ông ấy, vì ông ấy chẳng thể tha thứ cho Chúa.</p>
 
-<p class="para-en"><em>Can I?</em></p>
+<p class="para-en">Can I?</p>
 
-<p class="para-vi-sub"><i>Liệu con có thể không?</i></p>
+<p class="para-vi-sub">Liệu con có thể không?</p>
 
 <p class="para-en">She crossed herself.</p>
 
@@ -166,9 +166,9 @@
 
 <p class="para-vi-sub">Phải chăng hai hốc mắt giờ đây đã có thể nhìn thấy được?</p>
 
-<p class="para-en"><em>Join us! Tell us stories about the world where the sun shines all day!</em></p>
+<p class="para-en">Join us! Tell us stories about the world where the sun shines all day!</p>
 
-<p class="para-vi-sub"><i>Hãy gia nhập cùng chúng ta! Hãy kể cho chúng ta nghe những câu chuyện về thế giới nơi mặt trời chiếu sáng suốt cả ngày!</i></p>
+<p class="para-vi-sub">Hãy gia nhập cùng chúng ta! Hãy kể cho chúng ta nghe những câu chuyện về thế giới nơi mặt trời chiếu sáng suốt cả ngày!</p>
 
 <p class="para-en">She went back toward the road.</p>
 
@@ -198,7 +198,7 @@
 
 <p class="para-vi-sub">Delphine tự trách bản thân vì đã ngóng trông.</p>
 
-<p class="para-en"><a id="page275"></a>One house was occupied, its shutters flung wide, but two men quarreled there; she saw their shapes move in the darkness of the house, their angry, bearded faces illuminated in flashes as they circled each other and took turns passing through a swath of sunlight where roof tiles were missing. Likewise, she could understand only flashes of their southern language, which was like French but not French:</p>
+<p class="para-en">One house was occupied, its shutters flung wide, but two men quarreled there; she saw their shapes move in the darkness of the house, their angry, bearded faces illuminated in flashes as they circled each other and took turns passing through a swath of sunlight where roof tiles were missing. Likewise, she could understand only flashes of their southern language, which was like French but not French:</p>
 
 <p class="para-vi-sub">Có một ngôi nhà có người ở, các ô cửa chớp mở toang, nhưng bên trong có hai người đàn ông đang cãi vã; Delphine nhìn thấy bóng dáng họ di chuyển trong bóng tối của ngôi nhà, những khuôn mặt cáu kỉnh, có râu của họ bừng sáng trong chớp nhoáng khi họ lượn quanh nhau và lần lượt lọt qua một vạt nắng chiếu xuống từ phần mái ngói bị thủng. Tương tự như vậy, cô bé chỉ có thể hiểu được vài từ rời rạc trong phương ngữ miền nam của họ, thứ ngôn ngữ giống tiếng Pháp nhưng lại chẳng phải tiếng Pháp:</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-vi-sub">Delphine cởi bỏ đôi giày cứng nhắc, hầu như chẳng có hình thù gì của mình, thật nhẹ nhàng để không làm đứt đoạn dây thừng quấn quanh mắt cá chân, rồi ngâm đôi chân xuống nước.</p>
 
-<p class="para-en"><a id="page276"></a>It was good.</p>
+<p class="para-en">It was good.</p>
 
 <p class="para-vi-sub">Thật tuyệt vời.</p>
 
@@ -242,17 +242,17 @@
 
 <p class="para-vi-sub">Delphine giật mình tỉnh giấc với cảm giác có ai đó đang dõi theo mình. Cô bé mở mắt ra, nhưng màn đêm tối mịt mùng khiến chúng trở nên vô dụng.</p>
 
-<p class="para-en"><em>Where am I?</em></p>
+<p class="para-en">Where am I?</p>
 
-<p class="para-vi-sub"><i>Mình đang ở đâu thế này?</i></p>
+<p class="para-vi-sub">Mình đang ở đâu thế này?</p>
 
-<p class="para-en"><em>Think!</em></p>
+<p class="para-en">Think!</p>
 
-<p class="para-vi-sub"><i>Suy nghĩ đi!</i></p>
+<p class="para-vi-sub">Suy nghĩ đi!</p>
 
-<p class="para-en"><em>The old man’s house?</em></p>
+<p class="para-en">The old man’s house?</p>
 
-<p class="para-vi-sub"><i>Nhà của lão già ư?</i></p>
+<p class="para-vi-sub">Nhà của lão già ư?</p>
 
 <p class="para-en">No.</p>
 
@@ -262,15 +262,15 @@
 
 <p class="para-vi-sub">Bây giờ Delphine mới nhớ lại; vị linh mục đã chết và cô bé đã rời bỏ Thomas, em hoàn toàn cô độc. Nhưng là ở đâu?</p>
 
-<p class="para-en"><em>The convent.</em></p>
+<p class="para-en">The convent.</p>
 
-<p class="para-vi-sub"><i>Tu viện.</i></p>
+<p class="para-vi-sub">Tu viện.</p>
 
 <p class="para-en">The wind whipped outside, moaning in little nooks of the stone building. She panted, scared of the dark, scared of her solitude.</p>
 
 <p class="para-vi-sub">Gió thét gào bên ngoài, rên rỉ trong những ngóc ngách nhỏ của tòa nhà bằng đá. Delphine thở dốc, sợ hãi bóng tối, sợ hãi sự cô độc của chính mình.</p>
 
-<p class="para-en">But someone <em>was</em> watching her—she was sure of it.</p>
+<p class="para-en">But someone was watching her—she was sure of it.</p>
 
 <p class="para-vi-sub">Nhưng quả thực có ai đó đang dõi theo cô bé, em chắc chắn là như vậy.</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-vi-sub">“Con chẳng cần phải thở hổn hển như một con thú bị săn đuổi thế đâu. Đêm nay con đang nghỉ ngơi trong vòng tay của Chúa mà.”</p>
 
-<p class="para-en">She was in the chapel. She remembered now, an old stone dome <a id="page277"></a>near rows of lavender past its blooming time, and a palm tree! She had never seen a palm tree before. The wind made its leaves rattle, and it was browner than she thought a healthy one should be, though not from thirst, surely? It inclined gently toward a statue of Mary with neither crown nor scepter nor babe.</p>
+<p class="para-en">She was in the chapel. She remembered now, an old stone dome near rows of lavender past its blooming time, and a palm tree! She had never seen a palm tree before. The wind made its leaves rattle, and it was browner than she thought a healthy one should be, though not from thirst, surely? It inclined gently toward a statue of Mary with neither crown nor scepter nor babe.</p>
 
 <p class="para-vi-sub">Delphine đang ở trong nhà nguyện. Giờ thì cô bé mới nhớ ra rồi, một mái vòm bằng đá cổ kính nằm gần những luống hoa oải hương đã qua mùa nở hoa, và cả một cây cọ nữa! Delphine chưa từng nhìn thấy cây cọ nào trước đây. Gió làm những chiếc lá của nó kêu lạo xạo, và nó có màu nâu sậm hơn so với những gì em nghĩ về một cái cây khỏe mạnh, mặc dù chắc chắn không phải vì khát nước chứ? Nó nghiêng mình nhẹ nhàng về phía bức tượng Đức Mẹ không vương miện, không quyền trượng cũng chẳng có hài nhi.</p>
 
@@ -398,7 +398,7 @@
 
 <p class="para-vi-sub">“Này,” giọng người phụ nữ cất lên, “con đoán đây là cái gì?”</p>
 
-<p class="para-en"><a id="page278"></a>An object was placed in Delphine’s hand. It was round and thin and made of metal.</p>
+<p class="para-en">An object was placed in Delphine’s hand. It was round and thin and made of metal.</p>
 
 <p class="para-vi-sub">Một vật được đặt vào lòng bàn tay Delphine. Nó tròn, mỏng và bằng kim loại.</p>
 
@@ -462,7 +462,7 @@
 
 <p class="para-vi-sub">“Con không muốn làm ngài giận.”</p>
 
-<p class="para-en">“And I don’t want to <em>be</em> angry. We’re friends, aren’t we?”</p>
+<p class="para-en">“And I don’t want to be angry. We’re friends, aren’t we?”</p>
 
 <p class="para-vi-sub">“Và ta cũng không muốn phải giận. Chúng ta là bạn mà, phải không?”</p>
 
@@ -478,7 +478,7 @@
 
 <p class="para-vi-sub">“Con đoán xem đó là gì?”</p>
 
-<p class="para-en"><a id="page279"></a>She struggled to control her breathing.</p>
+<p class="para-en">She struggled to control her breathing.</p>
 
 <p class="para-vi-sub">Cô bé chật vật kiểm soát nhịp thở của mình.</p>
 
@@ -562,7 +562,7 @@
 
 <p class="para-vi-sub">Cô bé với tay tìm chiếc hộp và bắt đầu mở những chiếc khóa cài nhỏ xíu của nó.</p>
 
-<p class="para-en"><a id="page280"></a>“If you open that case, I’ll bite your fucking thumbs off.”</p>
+<p class="para-en">“If you open that case, I’ll bite your fucking thumbs off.”</p>
 
 <p class="para-vi-sub">“Nếu mày dám mở chiếc hộp đó, ta sẽ cắn đứt toi mấy ngón cái chó má của mày đấy.”</p>
 
@@ -618,9 +618,9 @@
 
 <p class="para-vi-sub">Thứ trong căn phòng buông bỏ hoàn toàn lớp vỏ ngụy trang giọng nói của con người.</p>
 
-<p class="para-en"><em>Give me that fucking case.</em></p>
+<p class="para-en">Give me that fucking case.</p>
 
-<p class="para-vi-sub"><i>Đưa cho tao cái hộp chết tiệt đó.</i></p>
+<p class="para-vi-sub">Đưa cho tao cái hộp chết tiệt đó.</p>
 
 <p class="para-en">“I refuse.”</p>
 
@@ -630,9 +630,9 @@
 
 <p class="para-vi-sub">Có cái gì đó ngoạm sát ngay trước mặt em, mùi ẩm mốc, bụi bặm và cái chết lâu ngày phả ngập ngụa trùm lên cô bé.</p>
 
-<p class="para-en">Delphine stood up now. Hands groped and clutched at her, <em>more than two hands</em>, but she pushed them off and stood up anyway. Now she opened the case and took the spearhead out. The thing scuttled back with a dry, scratching sound.</p>
+<p class="para-en">Delphine stood up now. Hands groped and clutched at her, more than two hands, but she pushed them off and stood up anyway. Now she opened the case and took the spearhead out. The thing scuttled back with a dry, scratching sound.</p>
 
-<p class="para-vi-sub">Delphine bèn đứng dậy. Những bàn tay quờ quạng túm lấy em, <i>nhiều hơn hai bàn tay</i>, nhưng cô bé hất phăng chúng đi và vẫn đứng thẳng lên được. Giờ thì em mở nắp hộp và lấy mũi lao La Mã ra. Thứ đó lùi phắt lại với một tiếng động khô khốc, sột soạt.</p>
+<p class="para-vi-sub">Delphine bèn đứng dậy. Những bàn tay quờ quạng túm lấy em, nhiều hơn hai bàn tay, nhưng cô bé hất phăng chúng đi và vẫn đứng thẳng lên được. Giờ thì em mở nắp hộp và lấy mũi lao La Mã ra. Thứ đó lùi phắt lại với một tiếng động khô khốc, sột soạt.</p>
 
 <p class="para-en">“I believe you are only able to do to me what I permit. I forbid you to touch me again.”</p>
 
@@ -642,7 +642,7 @@
 
 <p class="para-vi-sub">Căn phòng bỗng bùng nổ trong cơn cuồng nộ của những đồ vật bị ném tung tóe khi có thứ gì đó lao đi khắp phòng, đập phá bàn thờ, đánh vỡ những mảnh kính còn sót lại trên ô cửa sổ, và một tiếng thét khô khốc dội ngược vào các bức tường, làm đau cả tai của Delphine.</p>
 
-<p class="para-en">She felt her way to the door and stepped out into the wind; the stars were out, and she could see well enough to walk toward a tree. <a id="page281"></a>She climbed it, the spear in her teeth, and found a branch she could sleep on.</p>
+<p class="para-en">She felt her way to the door and stepped out into the wind; the stars were out, and she could see well enough to walk toward a tree. She climbed it, the spear in her teeth, and found a branch she could sleep on.</p>
 
 <p class="para-vi-sub">Cô bé dò dẫm tìm đường ra cửa và bước ra ngoài trời gió; những vì sao đã hiện lên, và trời đủ sáng để em nhìn đường mà bước về phía một gốc cây. Delphine trèo lên đó, ngậm mũi giáo trong miệng, và tìm được một cành cây có thể ngả lưng.</p>
 
@@ -650,9 +650,9 @@
 
 <p class="para-vi-sub">Thứ đó đi theo em ra tận bên ngoài và đến tận gốc cây, nhưng nó đã quấn quanh người chiếc chăn của cô bé, thứ mà em đã để quên bên trong, và em không thể nhìn rõ nó là gì; cô bé tưởng chừng như mình nhìn thấy một khuôn mặt đen sì và một nhúm tóc rối.</p>
 
-<p class="para-en"><em>You stupid Norman cunt you’ll die in your sleep tonight and fall from that tree like rotten fruit</em></p>
+<p class="para-en">You stupid Norman cunt you’ll die in your sleep tonight and fall from that tree like rotten fruit</p>
 
-<p class="para-vi-sub"><i>Mày đúng là con đĩ Norman ngu ngốc tối nay mày sẽ chết trong giấc ngủ và rơi từ cái cây đó xuống như một quả trái thối rữa</i></p>
+<p class="para-vi-sub">Mày đúng là con đĩ Norman ngu ngốc tối nay mày sẽ chết trong giấc ngủ và rơi từ cái cây đó xuống như một quả trái thối rữa</p>
 
 <p class="para-en">“I will not fall. And you will not be here in the morning. There are wicked things strong enough to harm me, but you are not one of them. You’re a scarecrow. You are made of lies, and you are not made well. I feared you, but now I pity your suffering. Good night.”</p>
 
@@ -666,9 +666,9 @@
 
 <p class="para-vi-sub">Rồi chẳng mấy chốc cô bé đã chìm vào giấc ngủ.</p>
 
-<p class="para-en">In the morning, she saw her blanket at the bottom of the tree. A profanity of sorts lay atop it, but a very sad one, made from a broom, three cross-sticks, and the missing arms from the nuns in the garden. A skull crowned with reddish-gray hair sat atop the broom. She dragged the blanket over to the garden, then took the thing apart, using the saw she found in the chapel to cut the twine that bound it together. She put the human remains in the garden and said an <em>Ave Maria</em> over them. She used the broom to sweep the chapel out and then leaned it against the chapel door.</p>
+<p class="para-en">In the morning, she saw her blanket at the bottom of the tree. A profanity of sorts lay atop it, but a very sad one, made from a broom, three cross-sticks, and the missing arms from the nuns in the garden. A skull crowned with reddish-gray hair sat atop the broom. She dragged the blanket over to the garden, then took the thing apart, using the saw she found in the chapel to cut the twine that bound it together. She put the human remains in the garden and said an Ave Maria over them. She used the broom to sweep the chapel out and then leaned it against the chapel door.</p>
 
-<p class="para-vi-sub">Vào buổi sáng, Delphine nhìn thấy chiếc chăn của mình nằm ở gốc cây. Một sự phỉ báng kỳ quái nằm vắt vẻo trên đó, nhưng lại là một thứ vô cùng thảm hại, được kết từ một cây chổi, ba thanh gỗ bắt chéo, và đôi tay bị mất tích của thi thể các nữ tu trong khu vườn. Một chiếc hộp sọ đội mái tóc màu xám đỏ nằm chễm chệ trên đỉnh cây chổi. Cô bé kéo chiếc chăn về phía khu vườn, rồi tháo rời thứ đó ra, dùng chiếc cưa tìm thấy trong nhà nguyện để cắt đứt sợi dây thừng buộc chúng lại với nhau. Delphine đặt những phần di cốt con người vào khu vườn và đọc một lời cầu nguyện <i>Ave Maria</i> cho họ. Em dùng chổi quét sạch nhà nguyện rồi dựng nó vào cửa nhà nguyện.</p>
+<p class="para-vi-sub">Vào buổi sáng, Delphine nhìn thấy chiếc chăn của mình nằm ở gốc cây. Một sự phỉ báng kỳ quái nằm vắt vẻo trên đó, nhưng lại là một thứ vô cùng thảm hại, được kết từ một cây chổi, ba thanh gỗ bắt chéo, và đôi tay bị mất tích của thi thể các nữ tu trong khu vườn. Một chiếc hộp sọ đội mái tóc màu xám đỏ nằm chễm chệ trên đỉnh cây chổi. Cô bé kéo chiếc chăn về phía khu vườn, rồi tháo rời thứ đó ra, dùng chiếc cưa tìm thấy trong nhà nguyện để cắt đứt sợi dây thừng buộc chúng lại với nhau. Delphine đặt những phần di cốt con người vào khu vườn và đọc một lời cầu nguyện Ave Maria cho họ. Em dùng chổi quét sạch nhà nguyện rồi dựng nó vào cửa nhà nguyện.</p>
 
 <p class="para-en">Delphine shook out her blanket and put it around her shoulders, walking down the road that led to Orange and then to the city of the pope.</p>
 

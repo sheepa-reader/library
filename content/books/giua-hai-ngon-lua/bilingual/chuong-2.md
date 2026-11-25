@@ -10,7 +10,7 @@
 
 <p class="para-vi-sub">Nó nhìn chúng đầy hy vọng từ dưới gốc cây liễu, quật đuôi xua đám ruồi. Godefroy, chẳng ai hiểu sao hắn vẫn giữ được thân hình béo tốt ấy, cầm lấy cây búa chiến định đập chết nó, nhưng Thomas đã ngăn gã lại. Thomas chỉ tay về phía cái kho. Khôn ngoan hơn cả là dắt nó vào kho trước, nơi bọn họ có thể tránh cơn mưa sắp tới. Godefroy gật đầu đồng ý.</p>
 
-<p class="para-en">The four men had been on the road in their rags and rusty armor without a good meal for many weeks, living on spoiled food from houses, watercress and cattail tops from ditches, worms, bugs, acorns, and even a rotten cat. They had all eaten so much grass that they had green piss. The disease was ruthless here; it had killed so many farmers that there was no bread even in this fertile valley. There were not enough hands to swing scythes, nor enough women willing to gather for the threshing, nor any miller to grind, nor bakers to stoke the <a id="page6"></a>ovens. The sickness, which they called the Great Death, passed mysteriously but surely from one to the other as easily as men might clasp hands, or a child might call a friend’s name, or two women might share a glance. Now none looked at their neighbors, nor spoke to them. It had fallen so heavily upon this part of Normandy that the dead could not be buried; they were piled outside in their dirty long shirts and they stank in the August sun and the flies swarmed around them. They lay in weed-choked fields of rye and oats where they had fled in delirium. They lay pitifully in the shadow of the town church where they had crawled hoping that last gesture would lessen their time in purgatory, stuck like glued birds to the limestone where they had tried to cool their fevered heads. Some fouled in houses because they were the last and there was no one to put them out. Those with means had fled, but many times it dogged them even into the hills and swamps and manors and killed them there.</p>
+<p class="para-en">The four men had been on the road in their rags and rusty armor without a good meal for many weeks, living on spoiled food from houses, watercress and cattail tops from ditches, worms, bugs, acorns, and even a rotten cat. They had all eaten so much grass that they had green piss. The disease was ruthless here; it had killed so many farmers that there was no bread even in this fertile valley. There were not enough hands to swing scythes, nor enough women willing to gather for the threshing, nor any miller to grind, nor bakers to stoke the ovens. The sickness, which they called the Great Death, passed mysteriously but surely from one to the other as easily as men might clasp hands, or a child might call a friend’s name, or two women might share a glance. Now none looked at their neighbors, nor spoke to them. It had fallen so heavily upon this part of Normandy that the dead could not be buried; they were piled outside in their dirty long shirts and they stank in the August sun and the flies swarmed around them. They lay in weed-choked fields of rye and oats where they had fled in delirium. They lay pitifully in the shadow of the town church where they had crawled hoping that last gesture would lessen their time in purgatory, stuck like glued birds to the limestone where they had tried to cool their fevered heads. Some fouled in houses because they were the last and there was no one to put them out. Those with means had fled, but many times it dogged them even into the hills and swamps and manors and killed them there.</p>
 
 <p class="para-vi-sub">Bốn người đàn ông đã lê bước trên đường trong những bộ quần áo rách rưới và áo giáp gỉ sét suốt nhiều tuần liền mà không có nổi một bữa ăn đàng hoàng, sống qua ngày bằng thức ăn ôi thiu nhặt từ các ngôi nhà, rau dền nước và ngọn búp bồ công anh dưới mương, giun, côn trùng, hạt sồi, thậm chí cả một con mèo thối. Tất cả bọn họ đã ăn quá nhiều cỏ đến mức nước tiểu có màu xanh lá. Căn bệnh ở đây thật tàn nhẫn; nó cướp đi sinh mạng của biết bao nông dân đến mức chẳng còn lấy một mẩu bánh mì ngay cả ở vùng thung lũng màu mỡ này. Không còn đủ nhân lực để vung liềm, chẳng đủ phụ nữ chịu tụ tập để tuốt lúa, cũng chẳng có thợ xay để nghiền bột hay thợ làm bánh để nhóm lò. Căn bệnh mà họ gọi là Đại Diệt Vong lây lan bí ẩn nhưng chắc chắn từ người này sang người khác, dễ dàng như cái bắt tay của những người đàn ông, hay tiếng một đứa trẻ gọi tên bạn, hoặc ánh mắt giao thoa giữa hai người phụ nữ. Giờ đây, không ai dám nhìn hay nói chuyện với hàng xóm của mình nữa. Nó giáng xuống phần đất này của Normandy nặng nề đến mức những kẻ chết chẳng thể chôn cất; họ bị chất đống bên ngoài trong những chiếc áo dài bẩn thỉu, bốc mùi nồng nặc dưới cái nắng tháng Tám và ruồi nhặng bu đen kín xung quanh. Họ nằm ngổn ngang trong những cánh đồng lúa mạch đen và lúa yến mạch cỏ dại mọc đầy, nơi họ đã chạy trốn trong cơn mê sảng. Họ nằm thảm hại dưới bóng mát của nhà thờ thị trấn, nơi họ lê lết tới với hy vọng cử chỉ cuối cùng ấy sẽ làm giảm bớt thời gian trong luyện ngục, dính chặt như những con chim bị bám keo vào bức tường đá vôi khi họ cố làm dịu cái đầu đang hầm hập sốt. Vài kẻ phóng uế ngay trong nhà bởi họ là những người cuối cùng còn sống và chẳng có ai mang họ ra ngoài. Những kẻ có điều kiện đã tháo chạy, nhưng nhiều lần cơn dịch vẫn bám đuổi họ tận lên đồi núi, đầm lầy lẫn điền trang rồi tước đi mạng sống của họ ở đó.</p>
 
@@ -34,7 +34,7 @@
 
 <p class="para-vi-sub">Cô bé đang ở độ tuổi thật oái oăm để gặp những gã này; vừa quá lớn để được an toàn và vừa quá nhỏ để hiểu lý do tại sao. Mái tóc vàng nhạt, thứ vốn dĩ có thể xinh xắn nếu không bết bát và ẩm ướt, rũ rượi áp vào cổ cô, và đôi bàn chân đang trong độ tuổi phát triển to hơn phần còn lại của cơ thể, trông quá khổ so với đôi chân gầy guộc như que củi.</p>
 
-<p class="para-en"><a id="page7"></a>“Hello,” she said again.</p>
+<p class="para-en">“Hello,” she said again.</p>
 
 <p class="para-vi-sub">“Cháu chào các chú,” cô bé lại nói thêm lần nữa.</p>
 
@@ -66,9 +66,9 @@
 
 <p class="para-vi-sub">Những kẻ còn lại bật cười.</p>
 
-<p class="para-en">“The mouth on you, Thomas,” Godefroy said, lingering on the final <em>s</em>, which Thomas’s half-Spanish mother had insisted on pronouncing. “To the whoring manor born.”</p>
+<p class="para-en">“The mouth on you, Thomas,” Godefroy said, lingering on the final s, which Thomas’s half-Spanish mother had insisted on pronouncing. “To the whoring manor born.”</p>
 
-<p class="para-vi-sub">“Cái mồm của mày đấy, Thomas,” Godefroy nói, ngân dài âm chữ <i>s</i> ở cuối câu mà người mẹ mang dòng máu nửa Tây Ban Nha của Thomas cứ khăng khăng bắt phát âm cho đúng. “Đúng là sinh ra ở chốn lầu xanh.”</p>
+<p class="para-vi-sub">“Cái mồm của mày đấy, Thomas,” Godefroy nói, ngân dài âm chữ s ở cuối câu mà người mẹ mang dòng máu nửa Tây Ban Nha của Thomas cứ khăng khăng bắt phát âm cho đúng. “Đúng là sinh ra ở chốn lầu xanh.”</p>
 
 <p class="para-en">“Is it Friday?” the fat one said. Both Thomas and Jacquot, the one with the drooping eye, nodded.</p>
 
@@ -94,13 +94,13 @@
 
 <p class="para-vi-sub">Dạo này chẳng ai muốn người lạ đến gần; cô bé bắt đầu nhận ra có điều gì đó đen tối ẩn chứa trong tâm trí gã đàn ông này.</p>
 
-<p class="para-en"><em>the word is rape he’ll rape me</em></p>
+<p class="para-en">the word is rape he’ll rape me</p>
 
-<p class="para-vi-sub"><i>từ đó là cưỡng hiếp hắn sẽ cưỡng hiếp mình</i></p>
+<p class="para-vi-sub">từ đó là cưỡng hiếp hắn sẽ cưỡng hiếp mình</p>
 
-<p class="para-en">She thought about turning and running to her tree, but an angel had shown her these men, and pointed to the barn. She knew it was an angel because his (her?) pretty auburn hair didn’t seem to get wet in the rain, and because he (she?) looked like something between a <a id="page8"></a>man and a woman, but more beautiful than either; it just pointed and said, <em>Go and see</em>. When angels spoke to her, and she had seen perhaps three, they spoke the same Norman French she spoke, and she found that odd. Shouldn’t they sound like foreigners?</p>
+<p class="para-en">She thought about turning and running to her tree, but an angel had shown her these men, and pointed to the barn. She knew it was an angel because his (her?) pretty auburn hair didn’t seem to get wet in the rain, and because he (she?) looked like something between a man and a woman, but more beautiful than either; it just pointed and said, Go and see. When angels spoke to her, and she had seen perhaps three, they spoke the same Norman French she spoke, and she found that odd. Shouldn’t they sound like foreigners?</p>
 
-<p class="para-vi-sub">Cô thoáng nghĩ đến việc quay đầu chạy thục mạng về phía cái cây của mình, nhưng vị thiên thần hộ mệnh của cô đã dẫn dắt đám người này đến đây và chỉ tay về phía cái kho. Cô bé biết đó là một vị thiên thần bởi mái tóc hung đẹp đẽ của người chẳng hề dính lấy một giọt mưa, và bởi người trông vừa giống đàn ông lại vừa giống đàn bà, nhưng còn xinh đẹp hơn cả hai giới ấy; người chỉ ngón tay về phía này và bảo: <i>Hãy đến mà xem</i>. Khi vị thiên thần hộ mệnh của cô cất lời với cô, và cô đã từng thấy có lẽ là ba vị, họ đều nói cùng một thứ tiếng Pháp vùng Normandy giống như cô, và điều đó khiến cô lấy làm lạ. Lẽ nào giọng họ không nên giống như người xứ khác hay sao?</p>
+<p class="para-vi-sub">Cô thoáng nghĩ đến việc quay đầu chạy thục mạng về phía cái cây của mình, nhưng vị thiên thần hộ mệnh của cô đã dẫn dắt đám người này đến đây và chỉ tay về phía cái kho. Cô bé biết đó là một vị thiên thần bởi mái tóc hung đẹp đẽ của người chẳng hề dính lấy một giọt mưa, và bởi người trông vừa giống đàn ông lại vừa giống đàn bà, nhưng còn xinh đẹp hơn cả hai giới ấy; người chỉ ngón tay về phía này và bảo: Hãy đến mà xem. Khi vị thiên thần hộ mệnh của cô cất lời với cô, và cô đã từng thấy có lẽ là ba vị, họ đều nói cùng một thứ tiếng Pháp vùng Normandy giống như cô, và điều đó khiến cô lấy làm lạ. Lẽ nào giọng họ không nên giống như người xứ khác hay sao?</p>
 
 <p class="para-en">She put her faith in the angel even though it was gone now. It was that angel whom she saw most often, and she liked to think it was hers.</p>
 
@@ -162,7 +162,7 @@
 
 <p class="para-vi-sub">“Khoan đã,” Godefroy lên tiếng, phớt lờ Thomas, rồi quay sang hỏi cô bé. “Nó đáng giá bao nhiêu với mày?”</p>
 
-<p class="para-en"><a id="page9"></a>Brigands. That was the word for what these men were; men who were soldiers before the war with the English, but who now traveled the roads, or hid in the woods and robbed people. Even before the plague had come, her papa had spoken with their neighbors about what to do if brigands came.</p>
+<p class="para-en">Brigands. That was the word for what these men were; men who were soldiers before the war with the English, but who now traveled the roads, or hid in the woods and robbed people. Even before the plague had come, her papa had spoken with their neighbors about what to do if brigands came.</p>
 
 <p class="para-vi-sub">Bọn cướp đường. Đó chính xác là từ dùng để chỉ đám người này; những kẻ từng là binh lính trước khi cuộc chiến với người Anh nổ ra, nhưng giờ đây lại lang thang trên các con đường cái quan, hoặc ẩn nấp trong rừng sâu để cướp bóc dân lành. Ngay cả trước khi trận Đại Diệt Vong ập đến, ba của cô từng bàn tán với những người hàng xóm về việc phải làm gì nếu bọn cướp xuất hiện.</p>
 
@@ -242,7 +242,7 @@
 
 <p class="para-vi-sub">“Tôi phải đi đây.”</p>
 
-<p class="para-en"><a id="page10"></a>“We’ll all be your husbands. We’re good husbands.”</p>
+<p class="para-en">“We’ll all be your husbands. We’re good husbands.”</p>
 
 <p class="para-vi-sub">“Tụi tao đều sẽ làm chồng mày hết. Tụi tao là những ông chồng tốt mà.”</p>
 
@@ -278,9 +278,9 @@
 
 <p class="para-vi-sub">“Mấy ả điếm chết sạch rồi còn đâu,” Jacquot lên tiếng.</p>
 
-<p class="para-en">“Surely not all of them,” said Thomas, trying one last time. “And if one whore in France still has a warm <em>chatte</em>, Godefroy will smell it out.”</p>
+<p class="para-en">“Surely not all of them,” said Thomas, trying one last time. “And if one whore in France still has a warm chatte, Godefroy will smell it out.”</p>
 
-<p class="para-vi-sub">“Chắc chắn không phải tất cả đâu,” Thomas nói, cố gắng thêm một lần cuối. “Và nếu nước Pháp vẫn còn mười cành hoa phấn nào giữ được cái <i>chatte</i> ấm áp, Godefroy kiểu gì cũng ngửi thấy mùi cho xem.”</p>
+<p class="para-vi-sub">“Chắc chắn không phải tất cả đâu,” Thomas nói, cố gắng thêm một lần cuối. “Và nếu nước Pháp vẫn còn mười cành hoa phấn nào giữ được cái chatte ấm áp, Godefroy kiểu gì cũng ngửi thấy mùi cho xem.”</p>
 
 <p class="para-en">“You make me laugh, Thomas,” Godefroy said, not laughing. “But I need to fuck something. Go get that girl.”</p>
 
@@ -306,7 +306,7 @@
 
 <p class="para-vi-sub">Một giọt mồ hôi lăn xuống sống mũi Godefroy.</p>
 
-<p class="para-en">“I’ll get her,” Jacquot said, proud of himself for thinking of a compromise. <a id="page11"></a>He went out of the barn into the rain, pulling his coarse red hood up. He held the hood’s long tail over his nose and mouth against the smell pouring out of the house as he pushed the door open with his foot. The sun was almost down now, but the house was still full of trapped heat. The smell was blinding. Wan light coming from the polished horn slats in the windows shone on the rictus of a very bloated dead man who had stained his sheets atop a mess of straw that could no longer be called a bed; he had kicked hard at the end of it. His face was black. His shirt rippled; maggots crawled exuberantly on him, as well as on two goats and a pig that had wandered into the single-room dwelling to die.</p>
+<p class="para-en">“I’ll get her,” Jacquot said, proud of himself for thinking of a compromise. He went out of the barn into the rain, pulling his coarse red hood up. He held the hood’s long tail over his nose and mouth against the smell pouring out of the house as he pushed the door open with his foot. The sun was almost down now, but the house was still full of trapped heat. The smell was blinding. Wan light coming from the polished horn slats in the windows shone on the rictus of a very bloated dead man who had stained his sheets atop a mess of straw that could no longer be called a bed; he had kicked hard at the end of it. His face was black. His shirt rippled; maggots crawled exuberantly on him, as well as on two goats and a pig that had wandered into the single-room dwelling to die.</p>
 
 <p class="para-vi-sub">“Tao sẽ bắt nó,” Jacquot nói, tự mãn vì nghĩ ra được một giải pháp thỏa hiệp. Jacquot bước ra khỏi chuồng ngựa dưới làn mưa, kéo chiếc mũ trùm đầu màu đỏ thô ráp lên cao. Gã dùng vạt dài của chiếc mũ che kín mũi và miệng để tránh mùi hôi thối nồng nặc bốc ra từ ngôi nhà khi dùng chân đẩy cửa bước vào. Mặt trời lúc này đã gần lặn hẳn, nhưng bên trong ngôi nhà vẫn sực nức hơi nóng tù đọng. Mùi hôi thối gay gắt đến lóa mắt. Ánh sáng mờ ảo xuyên qua những tấm sừng bò được đánh bóng trên cửa sổ rọi vào cái xác chết đã trương phồng đến biến dạng, đang nằm làm bẩn cả ga giường trên một đống rơm rạ chẳng còn ra hình thù gì nữa; gã đàn ông xấu số đã co giật dữ dội trước lúc trút hơi thở cuối cùng. Khuôn mặt gã đen sì. Chiếc áo sơ mi phập phồng; dòi bọ lúc nhúc bò lổm ngổm trên người gã, cùng với xác của hai con dê và một con lợn đã đi lạc vào căn nhà một gian này để chết.</p>
 
@@ -334,7 +334,7 @@
 
 <p class="para-vi-sub">Và tại sao họ lại chẳng giúp đỡ bất cứ ai khi ngã bệnh?</p>
 
-<p class="para-en"><a id="page12"></a>Why had they let her father die so horribly?</p>
+<p class="para-en">Why had they let her father die so horribly?</p>
 
 <p class="para-vi-sub">Tại sao họ lại để cha cô bé chết thảm khốc đến vậy?</p>
 
@@ -422,7 +422,7 @@
 
 <p class="para-vi-sub">“Xin anh đừng làm thế.”</p>
 
-<p class="para-en"><a id="page13"></a>“Then come down.”</p>
+<p class="para-en">“Then come down.”</p>
 
 <p class="para-vi-sub">“Vậy thì trèo xuống đi.”</p>
 
@@ -486,7 +486,7 @@
 
 <p class="para-vi-sub">“Tao thả đây.”</p>
 
-<p class="para-en"><a id="page14"></a>The sword’s point poked Jacquot’s woolen hood and settled just behind his ear. He knew the man wielding it could drive it through both hood and skull as easily as into a squash.</p>
+<p class="para-en">The sword’s point poked Jacquot’s woolen hood and settled just behind his ear. He knew the man wielding it could drive it through both hood and skull as easily as into a squash.</p>
 
 <p class="para-vi-sub">Mũi kiếm của Thomas chạm khẽ vào chiếc mũ trùm bằng vải dạ của Jacquot và dừng lại ngay sau vành tai hắn. Jacquot thừa biết kẻ đang cầm thanh kiếm ấy có thể đâm xuyên qua cả mũ trùm lẫn hộp sọ dễ dàng chẳng khác gì bổ một quả bí.</p>
 

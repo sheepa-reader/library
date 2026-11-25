@@ -4,7 +4,7 @@
 
 <p class="para-en">“What became of your squire?” said the priest.</p>
 
-<p class="para-vi-sub"><span class="drop-2">“C</span>huyện gì đã xảy ra với người hầu của ngài thế?” vị linh mục hỏi.</p>
+<p class="para-vi-sub">“Chuyện gì đã xảy ra với người hầu của ngài thế?” vị linh mục hỏi.</p>
 
 <p class="para-en">“I’ve no whoring idea. I sent him off rather than take him to Hell with me, but he’s like to have found another hell. Probably married an English girl and hung a mess of brats off her dugs.”</p>
 
@@ -26,7 +26,7 @@
 
 <p class="para-vi-sub">Thomas hít một hơi sâu như muốn thở ra một lời thề thốt, nhưng tâm trạng anh đã dịu lại sau khi kể câu chuyện của mình. Thomas để vị linh mục đặt tay lên vai mình, đoạn cúi gằm đầu xuống. Giờ đây, người thợ khắc gỗ ngồi dậy và cũng đặt tay lên người Thomas.</p>
 
-<p class="para-en">Jehan the woodcarver was nearly out of food, so he had to go to market. Normally he would have done this on his own, wearing a yoke with two baskets and wearing a cloth about his face, taking care to <a id="page135"></a>stay as far away from others as he could; but today Delphine insisted on coming along. Which meant Thomas would go as well. The priest was half dying for want of wine, and things had gotten so bad in the quarter that Annette didn’t want to be left alone. Neither did the mule, but it wasn’t asked.</p>
+<p class="para-en">Jehan the woodcarver was nearly out of food, so he had to go to market. Normally he would have done this on his own, wearing a yoke with two baskets and wearing a cloth about his face, taking care to stay as far away from others as he could; but today Delphine insisted on coming along. Which meant Thomas would go as well. The priest was half dying for want of wine, and things had gotten so bad in the quarter that Annette didn’t want to be left alone. Neither did the mule, but it wasn’t asked.</p>
 
 <p class="para-vi-sub">Jehan người thợ khắc gỗ gần như cạn sạch lương thực nên buộc phải ra chợ. Bình thường anh sẽ tự mình đi, mang một cái đòn gánh với hai chiếc giỏ và quấn khăn che mặt, cẩn thận tránh xa những người khác nhất có thể; nhưng hôm nay Delphine nằng nặc đòi đi theo. Điều đó có nghĩa là Thomas cũng sẽ đi cùng. Vị linh mục đang thèm rượu đến phát điên, và tình hình trong khu phố đã trở nên tệ đến mức Annette không muốn ở lại một mình. Con la cũng vậy, nhưng chẳng ai hỏi ý kiến nó.</p>
 
@@ -58,31 +58,31 @@
 
 <p class="para-vi-sub">Những chú chim hoàng yến vàng hót líu lo và vỗ cánh trong lồng; một nữ nghệ sĩ nhào lộn đi giật lùi trên đôi tay với đôi mắt được vẽ trên mông và đôi găng tay ngoại cỡ ở chân; một người Tây Ban Nha đang lớn tiếng mắng mỏ hai chú chó nhỏ đã mệt mỏi vì cứ phải quay tròn bằng hai chân sau trong lúc gã thổi kèn.</p>
 
-<p class="para-en">People yelled and bargained as they had before the sickness; they <a id="page136"></a>just did it farther away from each other. Hawkers called to the group in singsong chants:</p>
+<p class="para-en">People yelled and bargained as they had before the sickness; they just did it farther away from each other. Hawkers called to the group in singsong chants:</p>
 
 <p class="para-vi-sub">Mọi người la hét và ngả giá mua bán hệt như trước khi dịch bệnh bùng phát; họ chỉ đứng cách xa nhau hơn mà thôi. Những người rao hàng gọi với theo nhóm người bằng những lời ca đều đều như hát:</p>
 
-<p class="para-en"><em>Salt from Brittany, and the Franche-Comté,</em></p>
+<p class="para-en">Salt from Brittany, and the Franche-Comté,</p>
 
 <p class="para-vi-sub">Muối từ Brittany, Franche-Comté,</p>
 
-<p class="para-en"><em>who’ll save your flesh if you walk away?</em></p>
+<p class="para-en">who’ll save your flesh if you walk away?</p>
 
 <p class="para-vi-sub">Bỏ đi, ai cứu thân này cho ngươi?</p>
 
-<p class="para-en"><em>Indigo, indigo, precious and blue</em></p>
+<p class="para-en">Indigo, indigo, precious and blue</p>
 
 <p class="para-vi-sub">Chàm xanh, chàm quý, chàm tươi,</p>
 
-<p class="para-en"><em>as the peacock’s chest and his proud tail, too.</em></p>
+<p class="para-en">as the peacock’s chest and his proud tail, too.</p>
 
 <p class="para-vi-sub">Như công ngực thắm, đuôi xòe kiêu sa.</p>
 
-<p class="para-en"><em>Who’ll buy my musk? Who wants to make love?</em></p>
+<p class="para-en">Who’ll buy my musk? Who wants to make love?</p>
 
 <p class="para-vi-sub">Ai mua xạ quý thơm xa?</p>
 
-<p class="para-en"><em>The rabbit, the fox and, in his turn, the dove.</em></p>
+<p class="para-en">The rabbit, the fox and, in his turn, the dove.</p>
 
 <p class="para-vi-sub">Thỏ, bồ câu, cáo thướt tha gợi tình.</p>
 
@@ -90,15 +90,15 @@
 
 <p class="para-vi-sub">Delphine, người nãy giờ vẫn đi sát nhóm người trong suốt chặng đường qua những con phố chết chóc, giờ đây để mặc bản thân bị kéo đi hết hướng này đến hướng khác, lúc thì tụt lại phía sau nhóm, lúc lại lững thững bước về phía trước vụng về do chưa quen đi guốc gỗ đi bùn. Cô bé có cảm giác rằng bất cứ thứ gì mình đang tìm kiếm ở Paris đều sẽ ở đây, ngay tại khu chợ này, nhưng em yêu vẻ lộng lẫy của khu chợ bằng tình yêu của một đứa trẻ đã phải giữ im lặng quá lâu. Em yêu những sắc màu và nhịp điệu của hoạt động thương mại, nhưng đặc biệt nhất là những thứ âm thanh ồn ào ấy. Âm thanh của những thứ tiếng nước ngoài làm Delphine vô cùng thích thú, nhắc nhở em rằng một thế giới rộng lớn vẫn đang tồn tại vượt ra ngoài chân trời của Normandy và Paris: một thế giới của muôn vàn tỉnh thành cùng vô số thị trấn và làng mạc có lẽ vẫn chưa hoàn toàn chết chóc.</p>
 
-<p class="para-en">Foreigners were in no short supply at the Mont-Fetard market; Germans hunched over stacks of iron, spraying beer through their whiskers as they called out. Spaniards sang “<em>Cuero, cuero, cuero de Córdoba</em>” over shoe leather so fine one could almost see light through it. Bohemians tapped bars of lead in rhythm and sang inscrutable songs, more to amuse themselves than to draw custom.</p>
+<p class="para-en">Foreigners were in no short supply at the Mont-Fetard market; Germans hunched over stacks of iron, spraying beer through their whiskers as they called out. Spaniards sang “Cuero, cuero, cuero de Córdoba” over shoe leather so fine one could almost see light through it. Bohemians tapped bars of lead in rhythm and sang inscrutable songs, more to amuse themselves than to draw custom.</p>
 
-<p class="para-vi-sub">Người nước ngoài không hề thiếu tại khu chợ Mont-Fetard; những người Đức đang còng lưng bên những chồng sắt, phun cả bọt bia qua lớp ria mép khi họ cất tiếng gọi mời. Người Tây Ban Nha hát vang bài <i>Cuero, cuero, cuero de Córdoba</i> bên những tấm da giày tinh xảo đến mức người ta suýt nhìn xuyên qua được ánh sáng. Những người Bohemia gõ nhịp lên những thanh chì và hát những bài ca khó hiểu, chủ yếu để tự giải trí hơn là để thu hút khách hàng.</p>
+<p class="para-vi-sub">Người nước ngoài không hề thiếu tại khu chợ Mont-Fetard; những người Đức đang còng lưng bên những chồng sắt, phun cả bọt bia qua lớp ria mép khi họ cất tiếng gọi mời. Người Tây Ban Nha hát vang bài Cuero, cuero, cuero de Córdoba bên những tấm da giày tinh xảo đến mức người ta suýt nhìn xuyên qua được ánh sáng. Những người Bohemia gõ nhịp lên những thanh chì và hát những bài ca khó hiểu, chủ yếu để tự giải trí hơn là để thu hút khách hàng.</p>
 
 <p class="para-en">Delphine loved it all.</p>
 
 <p class="para-vi-sub">Delphine yêu tất cả những điều đó.</p>
 
-<p class="para-en">The Florentines had the biggest and most beautiful stall; they had lived in the city and had grown rich selling the bright red wool of Florence in bolts that drew the eye from thirty paces. Now they wore plague masks that made them look like awful birds. A table sat before <a id="page137"></a>them with a bowl of water in which one was to place money, as it was believed this would cleanse it of bad air. These merchants had grown adept at showing their cloth by means of two sticks, and they rolled and fluttered it before Annette as she came near, though she could only come so near; little stacks of bricks marked the boundary past which customers’ feet were not to step.</p>
+<p class="para-en">The Florentines had the biggest and most beautiful stall; they had lived in the city and had grown rich selling the bright red wool of Florence in bolts that drew the eye from thirty paces. Now they wore plague masks that made them look like awful birds. A table sat before them with a bowl of water in which one was to place money, as it was believed this would cleanse it of bad air. These merchants had grown adept at showing their cloth by means of two sticks, and they rolled and fluttered it before Annette as she came near, though she could only come so near; little stacks of bricks marked the boundary past which customers’ feet were not to step.</p>
 
 <p class="para-vi-sub">Người Florence có quầy hàng lớn nhất và đẹp nhất; họ đã sinh sống trong thành phố và trở nên giàu có nhờ buôn bán loại len đỏ rực từ Florence được cuộn thành từng súc thu hút ánh mắt người qua lại từ khoảng cách ba mươi bước chân. Giờ đây họ đeo những chiếc mặt nạ chống dịch khiến họ trông giống như những loài chim kỳ dị. Một chiếc bàn được đặt trước mặt họ với một bát nước mà ai nấy đều phải thả tiền vào đó, vì người ta tin rằng điều này sẽ tẩy sạch không khí xấu bám trên đồng tiền. Những thương nhân này đã trở thành chuyên gia trong việc trưng bày vải vóc bằng cách dùng hai chiếc gậy, và họ cuộn rồi giũ tấm vải trước mặt Annette khi chị đến gần, mặc dù Annette chỉ có thể đứng cách một khoảng nhất định; những chồng gạch nhỏ đánh dấu ranh giới mà bước chân khách hàng không được phép vượt qua.</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-vi-sub">Nhưng thức ăn ở đâu chứ?</p>
 
-<p class="para-en">When the priest, whose stomach was rumbling noisily, asked Jehan where the food sellers were, the woodcarver pointed up ahead, past a group of bickering men. As they approached, they saw a <em>sergent</em> with his baton of office yelling through a handkerchief at a shrugging merchant who sold tortoises and tiny owls and other exotic animals. The officer gestured at a miserable-looking monkey in a cage.</p>
+<p class="para-en">When the priest, whose stomach was rumbling noisily, asked Jehan where the food sellers were, the woodcarver pointed up ahead, past a group of bickering men. As they approached, they saw a sergent with his baton of office yelling through a handkerchief at a shrugging merchant who sold tortoises and tiny owls and other exotic animals. The officer gestured at a miserable-looking monkey in a cage.</p>
 
 <p class="para-vi-sub">Khi cha Matthieu, vị linh mục đang có cái bụng sôi lên sùng sục ồn ào, hỏi Jehan xem những người bán đồ ăn ở đâu, người thợ mộc chỉ tay về phía trước, vượt qua một nhóm đàn ông đang cãi vã. Khi họ đến gần, họ nhìn thấy một viên cảnh sát đang cầm chiếc gậy công vụ quát tháo qua một chiếc khăn tay vào một thương nhân đang nhún vai, kẻ chuyên bán rùa, cú mèo nhỏ cùng các loài động vật ngoại lai khác. Viên sĩ quan ra hiệu về phía một con khỉ trông vô cùng thảm hại đang bị nhốt trong lồng.</p>
 
@@ -138,7 +138,7 @@
 
 <p class="para-vi-sub">“Da sói đây!” hắn ta lớn tiếng gọi họ, giờ đây ra hiệu về phía một chồng da thú ấn tượng. “Mùa đông không còn xa nữa đâu, biết không. Các người sẽ cần những tấm lông thú đẹp cho cô bé đấy.” Vị linh mục lịch sự xua tay từ chối lời mời chào của người đàn ông, khiến hắn ta gầm gừ trong cổ họng thầm lặng.</p>
 
-<p class="para-en"><a id="page138"></a>Next were the fishmongers, their carp and sturgeons and black bass laid out on wet straw, the sellers stinking of the river, wearing aprons brown with blood and glittering with scales. Thomas went to a large carp, but Jehan pulled him away.</p>
+<p class="para-en">Next were the fishmongers, their carp and sturgeons and black bass laid out on wet straw, the sellers stinking of the river, wearing aprons brown with blood and glittering with scales. Thomas went to a large carp, but Jehan pulled him away.</p>
 
 <p class="para-vi-sub">Tiếp theo là những người bán cá, cá chép, cá tầm và cá vược đen của họ được bày biện trên lớp rơm ướt, những người bán hàng nồng nặc mùi sông nước, mặc những chiếc tạp dề màu nâu dính đầy máu và lấp lánh vảy cá. Thomas tiến lại gần một con cá chép lớn, nhưng Jehan đã kéo anh đi.</p>
 
@@ -158,7 +158,7 @@
 
 <p class="para-vi-sub">“Đó là lời bịa đặt!” người đàn ông nói.</p>
 
-<p class="para-en">“Since when is an <em>oink</em> a lie?”</p>
+<p class="para-en">“Since when is an oink a lie?”</p>
 
 <p class="para-vi-sub">“Từ khi nào mà tiếng ục ục lại là lời nói dối hả?”</p>
 
@@ -178,7 +178,7 @@
 
 <p class="para-vi-sub">“Làm sạch áo giáp cho ngài nhé, thưa lãnh chúa?” một người đàn ông đã quá già so với những bộ trang phục diêm dúa viền đăng ten mà ông ta đang mặc liền cất giọng hát vang khi ông ta quay một cái tay quay làm xoay tròn một chiếc thùng đầy cát và giấm. “Mười phút trong này và áo giáp của ngài sẽ sáng bóng như răng của Chúa.” Ông ta mang phong thái của một thiếu niên hầu cận, có lẽ là người có lãnh chúa đã qua đời. Khi thấy Thomas đã bị thu hút, ông ta nói tiếp, “Hai đồng denier để biến nó trông như mới, thưa ngài. Ngài sẽ chẳng tìm đâu được dịch vụ nào tốt hơn hay rẻ hơn thế này đâu.”</p>
 
-<p class="para-en">Thomas had just begun stripping off his belt and surcoat when the girl yelled, “Père Matthieu! Please come!” with such urgency that he <a id="page139"></a>ran with one hand holding the belt closed and the other on the hilt of his sword.</p>
+<p class="para-en">Thomas had just begun stripping off his belt and surcoat when the girl yelled, “Père Matthieu! Please come!” with such urgency that he ran with one hand holding the belt closed and the other on the hilt of his sword.</p>
 
 <p class="para-vi-sub">Thomas vừa mới bắt đầu cởi thắt lưng và áo khoác ngoài của mình thì cô bé bỗng hét lên, “Père Matthieu! Xin hãy đến đây!” với sự khẩn cấp lớn đến mức anh phải vội vã chạy đến, một tay giữ thắt lưng cho khỏi tuột còn tay kia nắm lấy chuôi kiếm.</p>
 
@@ -206,7 +206,7 @@
 
 <p class="para-vi-sub">“Chắc chắn là thế rồi. Và ta cá là đó chính là chiếc búa đã đóng những cái đinh vào thập giá,” Thomas nói, vừa ra hiệu về phía một chiếc vồ bằng gỗ mộc đơn giản.</p>
 
-<p class="para-en">“No, actually,” the seller said, “it’s the hammer that fixed the axle of this cart. But…” he continued, producing a carpenter’s plane, “<em>this</em> is the plane used by the carpenter Joseph, father of Our Lord; the very one sweet Jesu learned to use as a boy. It is said that any beam planed with this is proof against fire, and no two such beams might ever be separated. Imagine! A house that would never burn and never fall!”</p>
+<p class="para-en">“No, actually,” the seller said, “it’s the hammer that fixed the axle of this cart. But…” he continued, producing a carpenter’s plane, “this is the plane used by the carpenter Joseph, father of Our Lord; the very one sweet Jesu learned to use as a boy. It is said that any beam planed with this is proof against fire, and no two such beams might ever be separated. Imagine! A house that would never burn and never fall!”</p>
 
 <p class="para-vi-sub">“Không, thực ra thì,” Người Do Thái bán thánh tích nói, “đó là chiếc búa đã cố định trục của cỗ xe này. Nhưng…” ông tiếp tục, lấy ra một chiếc bào thợ mộc, “đây mới là chiếc bào được sử dụng bởi thợ mộc Giuse, cha của Chúa chúng ta; chính là chiếc mà Chúa Kitô dịu dàng đã học dùng khi còn nhỏ. Người ta nói rằng bất kỳ thanh xà nào được bào bằng thứ này đều có khả năng chống lại lửa, và không hai thanh xà nào như vậy có thể bị tách rời. Hãy tưởng tượng xem! Một ngôi nhà sẽ không bao giờ cháy và không bao giờ sụp đổ!”</p>
 
@@ -230,7 +230,7 @@
 
 <p class="para-vi-sub">“Ông đã gặp con ngựa này à?”</p>
 
-<p class="para-en">“He was described to me, as I have described him to you, as it was described to him that sold it to me, and on backward to antiquity. Ride with this in your saddlebag, sir knight, and your horse will never <a id="page140"></a>stumble in a river, nor throw a shoe save within thirty yards of a farrier. Also, you will never lose your way again, for Saint Christopher himself will lead your horse by the nose, even to the tavern door.”</p>
+<p class="para-en">“He was described to me, as I have described him to you, as it was described to him that sold it to me, and on backward to antiquity. Ride with this in your saddlebag, sir knight, and your horse will never stumble in a river, nor throw a shoe save within thirty yards of a farrier. Also, you will never lose your way again, for Saint Christopher himself will lead your horse by the nose, even to the tavern door.”</p>
 
 <p class="para-vi-sub">“Nó được miêu tả cho tôi, như tôi đã miêu tả cho ngài, đúng như đã được miêu tả cho kẻ đã bán nó cho tôi, và cứ thế ngược về thời cổ đại. Hãy mang thứ này trong túi yên ngựa của ngài, thưa hiệp sĩ, và ngựa của ngài sẽ không bao giờ vấp ngã dưới sông, cũng không bao giờ tuột móng trừ phi ở trong khoảng ba mươi thước tính từ lò rèn. Thêm nữa, ngài sẽ không bao giờ lạc đường nữa, vì chính Thánh Christopher sẽ dẫn dắt con ngựa của ngài đi, thậm chí đến tận cửa quán rượu.”</p>
 
@@ -302,7 +302,7 @@
 
 <p class="para-vi-sub">“Phân của tổng lãnh thiên sứ Gabriel? Bô đựng nước tiểu của Chúa ư?”</p>
 
-<p class="para-en"><a id="page141"></a>“Oh, much better.”</p>
+<p class="para-en">“Oh, much better.”</p>
 
 <p class="para-vi-sub">“Ồ, tuyệt vời hơn nhiều.”</p>
 
@@ -362,7 +362,7 @@
 
 <p class="para-vi-sub">Một kẻ trong số đó thốt lên từ “Người Do Thái.”</p>
 
-<p class="para-en">The <em>sergent</em> who had been arguing with the monkey seller was now being pushed along by the crowd, who seemed intent on making him do some duty or other regarding the little man and his cart.</p>
+<p class="para-en">The sergent who had been arguing with the monkey seller was now being pushed along by the crowd, who seemed intent on making him do some duty or other regarding the little man and his cart.</p>
 
 <p class="para-vi-sub">Viên cảnh sát từng tranh cãi với kẻ bán khỉ giờ đây đang bị đám đông xô đẩy đi tới, dường như họ quyết tâm bắt anh ta phải thực thi một nhiệm vụ nào đó liên quan đến người đàn ông nhỏ bé và chiếc xe đẩy của ông.</p>
 
@@ -370,7 +370,7 @@
 
 <p class="para-vi-sub">“Chúng ta phải xéo khỏi đây thôi,” Thomas nói. “Ngay bây giờ.”</p>
 
-<p class="para-en"><a id="page142"></a>The priest nodded, sweating now from more than want of wine, and tugged gently at the girl, who shook her head stubbornly and kept a tight grip on the wheel, shutting her eyes against the approaching group. She was frightened, too.</p>
+<p class="para-en">The priest nodded, sweating now from more than want of wine, and tugged gently at the girl, who shook her head stubbornly and kept a tight grip on the wheel, shutting her eyes against the approaching group. She was frightened, too.</p>
 
 <p class="para-vi-sub">Vị linh mục gật đầu, lúc này đang đổ mồ hôi không chỉ vì thèm rượu, rồi nhẹ nhàng kéo Delphine, nhưng cô bé ngoan cố lắc đầu và vẫn bám chặt lấy bánh xe, nhắm nghiền mắt lại trước đám đông đang tiến tới gần. Delphine cũng đang sợ hãi.</p>
 
@@ -386,7 +386,7 @@
 
 <p class="para-vi-sub">Người Do Thái đã thu dọn đồ đạc, dẫu có hơi luộm thuộm, và lúc này đang kéo các thanh gỗ của chiếc xe để di chuyển. Ba hoặc bốn người đàn ông bước ra chặn trước mặt ông, một trong số họ cầm chân bàn làm gậy. Ông cố phớt lờ họ và đi qua, nhưng một kẻ đã đặt tay lên mặt ông và đẩy ngã ông xuống. Việc đó chẳng mấy khó khăn.</p>
 
-<p class="para-en">A paunchy, middle-aged fellow with a beakish nose and ginger hair took off his straw hat and faced the <em>sergent</em>.</p>
+<p class="para-en">A paunchy, middle-aged fellow with a beakish nose and ginger hair took off his straw hat and faced the sergent.</p>
 
 <p class="para-vi-sub">Một gã trung niên bụng phệ với chiếc mũi khoằm và mái tóc màu gừng cởi chiếc mũ rơm ra và đối mặt với viên cảnh sát.</p>
 
@@ -398,7 +398,7 @@
 
 <p class="para-vi-sub">“Tôi cũng biết rõ ông ta là người Do Thái,” một lão già hét lên. “Tôi từng nhìn thấy ông ta tại Chợ Nóng ở Troyes.”</p>
 
-<p class="para-en">The <em>sergent</em>, who saw far less harm in the little man than he had in the sick monkey, sighed and said, “How do you know this? He wears no yellow circle.”</p>
+<p class="para-en">The sergent, who saw far less harm in the little man than he had in the sick monkey, sighed and said, “How do you know this? He wears no yellow circle.”</p>
 
 <p class="para-vi-sub">Viên cảnh sát, người thấy tiểu thương này vô hại hơn nhiều so với con khỉ bệnh, thở dài và nói: “Sao các người biết điều này? Ông ta có đeo vòng vàng đâu.”</p>
 
@@ -418,7 +418,7 @@
 
 <p class="para-vi-sub">“Phải, hỏi tên ông ta đi,” kẻ khác phụ họa.</p>
 
-<p class="para-en">“What is your name?” said the <em>sergent</em>, not unkindly.</p>
+<p class="para-en">“What is your name?” said the sergent, not unkindly.</p>
 
 <p class="para-vi-sub">“Tên ngươi là gì?” viên cảnh sát hỏi, giọng không mấy ác ý.</p>
 
@@ -426,7 +426,7 @@
 
 <p class="para-vi-sub">Người Do Thái không nói gì.</p>
 
-<p class="para-en"><a id="page143"></a>“Tell me your name,” said the <em>sergent</em>, beginning to shed his benevolence.</p>
+<p class="para-en">“Tell me your name,” said the sergent, beginning to shed his benevolence.</p>
 
 <p class="para-vi-sub">“Nói cho ta biết tên ngươi,” viên cảnh sát nói, bắt đầu mất đi vẻ ôn hòa.</p>
 
@@ -438,7 +438,7 @@
 
 <p class="para-vi-sub">Lúc này Jehan de Rouen cùng Annette đã tìm thấy Thomas, cha Matthieu và Delphine. Tất cả đứng chết trân trước cảnh tượng đang diễn ra trên phố Mont-Fetard, cùng với rất nhiều người khác, phần lớn đã quên mất sự nguy hiểm của dịch hạch mà xúm lại gần nhau để xem.</p>
 
-<p class="para-en">“Christians have names,” said the <em>sergent</em>. “What is yours?”</p>
+<p class="para-en">“Christians have names,” said the sergent. “What is yours?”</p>
 
 <p class="para-vi-sub">“Người Kitô giáo đều có tên,” viên cảnh sát nói. “Tên ngươi là gì?”</p>
 
@@ -458,7 +458,7 @@
 
 <p class="para-vi-sub">“Chúng ta cần bằng chứng nào nữa chứ?” gã buôn ân xá nói.</p>
 
-<p class="para-en">“I’m a convert,” pleaded the man, and he began to say a <em>Pater Noster</em> but was shoved again to the ground. Now several kicks were aimed at him, but the <em>sergent</em> and his man interposed themselves.</p>
+<p class="para-en">“I’m a convert,” pleaded the man, and he began to say a Pater Noster but was shoved again to the ground. Now several kicks were aimed at him, but the sergent and his man interposed themselves.</p>
 
 <p class="para-vi-sub">“Tôi là người cải đạo,” người đàn ông van xin, và bắt đầu đọc một bài Kinh Lạy Cha nhưng lại bị đẩy ngã nhào xuống đất. Giờ đây vài cú đá nhắm thẳng vào ông, nhưng viên cảnh sát và thuộc hạ của ông ta đã xông vào ngăn cản.</p>
 
@@ -482,7 +482,7 @@
 
 <p class="para-vi-sub">“Cháu bị làm sao thế, chim nhỏ?” vợ thợ mộc cất lời hỏi.</p>
 
-<p class="para-en"><a id="page144"></a>“What will they do with the Jew?”</p>
+<p class="para-en">“What will they do with the Jew?”</p>
 
 <p class="para-vi-sub">“Họ sẽ làm gì ông người Do Thái đó ạ?”</p>
 
@@ -518,7 +518,7 @@
 
 <p class="para-vi-sub">“Cháu nghĩ cái quái gì mà đòi đi đến đó?”</p>
 
-<p class="para-en"><a id="page145"></a>“To help the Jew,” she said, peeking again to make sure he hadn’t started running.</p>
+<p class="para-en">“To help the Jew,” she said, peeking again to make sure he hadn’t started running.</p>
 
 <p class="para-vi-sub">“Để giúp ông người Do Thái,” con bé đáp, lại ngoái nhìn để chắc chắn rằng gã chưa bắt đầu chạy.</p>
 
@@ -562,7 +562,7 @@
 
 <p class="para-vi-sub">Thomas hoàn toàn không nhận ra mùi cây bách xù lấn át cả những mùi hôi thối tầm thường dưới rãnh cống.</p>
 
-<p class="para-en">“I know you,” the Jew said as he regarded the small girl before him. The pillories stood deserted in the square, not far from the relic cart, which had been completely picked over. The guard had stayed with it until as near dark as he dared, with no word back from the abbot and no orders from the <em>sergent</em>, and by the time he left for his house, nobody wanted to be burdened with the weight of the cart, which was heavier empty than it should have been full.</p>
+<p class="para-en">“I know you,” the Jew said as he regarded the small girl before him. The pillories stood deserted in the square, not far from the relic cart, which had been completely picked over. The guard had stayed with it until as near dark as he dared, with no word back from the abbot and no orders from the sergent, and by the time he left for his house, nobody wanted to be burdened with the weight of the cart, which was heavier empty than it should have been full.</p>
 
 <p class="para-vi-sub">“Ta biết cô bé,” người Do Thái nói khi nhìn chằm chằm vào đứa trẻ đứng trước mặt mình. Những chiếc gông cùm nằm hoang phế ở quảng trường, cách chiếc xe đựng thánh tích không xa, thứ đã bị lục lọi sạch bách. Người lính canh đã ở lại canh chừng cho đến tận khi trời tối hẳn như gã dám làm, chẳng có tin tức gì từ vị viện phụ cũng như lệnh lạc nào từ viên cảnh sát trưởng, và đến lúc gã bỏ về nhà, chẳng ai muốn gánh lấy sức nặng của chiếc xe vốn nặng hơn bình thường dù đang trống không.</p>
 
@@ -590,7 +590,7 @@
 
 <p class="para-vi-sub">“Cháu mặc kệ.”</p>
 
-<p class="para-en"><a id="page146"></a>Now the Jew called her over, saying, “Girl. Look at me. In the eyes.”</p>
+<p class="para-en">Now the Jew called her over, saying, “Girl. Look at me. In the eyes.”</p>
 
 <p class="para-vi-sub">Lúc này, người Do Thái gọi cô bé lại gần, bảo rằng, “Lại đây, con bé. Nhìn ta này. Nhìn thẳng vào mắt ta.”</p>
 
@@ -650,7 +650,7 @@
 
 <p class="para-vi-sub">“Hãy mở ổ khóa cho tôi đi. Xin ngài đấy,” gã bán gia vị rên rỉ.</p>
 
-<p class="para-en">Thomas reached for her, but she moved away from him, and he only grabbed the back of her shirt, which ripped, and the ribbon around her neck, which broke. The key that had been at the end of it fell onto the wooden platform with a <em>tink</em>. She bent to grab it as Thomas grabbed her hips.</p>
+<p class="para-en">Thomas reached for her, but she moved away from him, and he only grabbed the back of her shirt, which ripped, and the ribbon around her neck, which broke. The key that had been at the end of it fell onto the wooden platform with a tink. She bent to grab it as Thomas grabbed her hips.</p>
 
 <p class="para-vi-sub">Thomas với tay tóm lấy cô bé, nhưng cô lùi ra xa khiến anh chỉ túm được phần lưng áo làm rách toạc một mảng, và cả sợi ruy băng quanh cổ cô bé cũng đứt tung. Chiếc chìa khóa được buộc ở đầu sợi dây rơi xuống bục gỗ kêu lanh một tiếng. Cô bé cúi xuống nhặt lấy trong lúc Thomas chộp lấy hông cô.</p>
 
@@ -678,11 +678,11 @@
 
 <p class="para-vi-sub">“Xin ngài,” cô bé nói nhỏ hơn.</p>
 
-<p class="para-en"><a id="page147"></a>“Goddamn it,” Thomas said, setting her down and taking the key from her. He was about to pitch it in the muck.</p>
+<p class="para-en">“Goddamn it,” Thomas said, setting her down and taking the key from her. He was about to pitch it in the muck.</p>
 
 <p class="para-vi-sub">“Khỉ thật,” Thomas càu nhàu, đặt cô bé xuống đất và giật lấy chiếc chìa khóa từ tay cô. Anh định ném thẳng nó xuống bãi bùn.</p>
 
-<p class="para-en">“Please, <em>sire</em>. <em>Sir</em> Thomas,” she whispered.</p>
+<p class="para-en">“Please, sire. Sir Thomas,” she whispered.</p>
 
 <p class="para-vi-sub">“Xin ngài, thưa ngài hiệp sĩ,” cô bé thì thầm.</p>
 

@@ -4,9 +4,9 @@
 
 Thomas chạy theo đám kỵ binh cho đến khi sức nặng của chiếc áo giáp xích và cái nóng ban ngày khiến gã chậm lại thành một bước đi nhanh. Thomas thừa biết họ đang đi đâu. Và gã hoàn toàn không có ý tưởng gì về việc mình sẽ làm nếu bắt kịp họ, dù là ở Avignon hay trên đường đi. Gã thích ở trên đường hơn.
 
-<i>Lẽ ra ta nên lấy một trong những con ngựa chết tiệt đó.</i>
+Lẽ ra ta nên lấy một trong những con ngựa chết tiệt đó.
 
-<i>Nhưng rồi ta sẽ lại ở phía trước bọn họ.</i>
+Nhưng rồi ta sẽ lại ở phía trước bọn họ.
 
 Đó là lúc Thomas vòng qua một mỏm đá vôi và nhìn thấy con suối. Con đường gồ lên trước mặt gã tạo thành một chiếc cầu nhỏ bắc qua một dòng suối đổ nước vào sông Rhône. Đó là một con suối cổ xưa, nơi mà những người lính có lẽ đã dừng chân suốt bao năm qua để cho ngựa uống nước.
 
@@ -16,11 +16,11 @@ Nhưng làm gì đây?
 
 Một bụi cây rậm rạp và một ngọn đồi nhỏ bao bọc lấy bãi đất trống bên con suối; sẽ rất dễ dàng nếu tiếp cận với một lực lượng lớn và giáng cho những kẻ này một trận phục kích, nhưng một kẻ đơn độc thì làm được gì?
 
-<i>Hãy ngừng nghĩ về những cuộc phục kích và sự lén lút.</i>
+Hãy ngừng nghĩ về những cuộc phục kích và sự lén lút.
 
-<i>Ngươi lại là một hiệp sĩ rồi, không phải một tên cướp đâu.</i>
+Ngươi lại là một hiệp sĩ rồi, không phải một tên cướp đâu.
 
-<i>Hãy hành xử như một hiệp sĩ.</i>
+Hãy hành xử như một hiệp sĩ.
 
 “Ta muốn yết kiến Ngài Chrétien d’Évreux. Đây là một vấn đề danh dự,” Thomas cất giọng chiến trận nói, bước tới chỗ mấy tên lính và trừng trừng nhìn vị bá tước.
 
@@ -34,11 +34,11 @@ Lúc này những kẻ khác đã vây quanh vị bá tước, rút gươm ra v�
 
 Một tên to con giật dây cương cho ngựa tiến lại gần hơn. Hắn ta suýt nữa thì đủ tầm để giáng cho Thomas một nhát rìu. Tay Thomas vô thức đưa về phía chuôi kiếm.
 
-<i>Đừng.</i>
+Đừng.
 
 Đó là giọng của Delphine vang lên trong đầu Thomas.
 
-<i>Đừng.</i>
+Đừng.
 
 Thomas không rút kiếm.
 
@@ -68,15 +68,15 @@ Thomas liếc mắt sắc lẹm về phía người này.
 
 Tên của con ngựa là gì nhỉ? Thomas mới chỉ cưỡi nó có hai lần.
 
-<i>Jibreel, tiếng Ả Rập có nghĩa là Gabriel.</i>
+Jibreel, tiếng Ả Rập có nghĩa là Gabriel.
 
-<i>Dù đây là một con chiến mã, không phải ngựa Ả Rập.</i>
+Dù đây là một con chiến mã, không phải ngựa Ả Rập.
 
-<i>Con ngựa chết tiệt của ta.</i>
+Con ngựa chết tiệt của ta.
 
-<i>Và người cận vệ của ta.</i>
+Và người cận vệ của ta.
 
-<i>André. Ta hy vọng nghi thức phong tước của cậu là ngày tuyệt vời nhất trong đời cậu. Sao cậu có thể phục vụ cái tên khốn này bây giờ chứ?</i>
+André. Ta hy vọng nghi thức phong tước của cậu là ngày tuyệt vời nhất trong đời cậu. Sao cậu có thể phục vụ cái tên khốn này bây giờ chứ?
 
 Người cận vệ cũ không hạ mắt xuống, nhưng đôi mắt ấy ngấn lệ vì hổ thẹn.
 
@@ -88,13 +88,13 @@ Thomas dời ánh mắt trở lại vị bá tước.
 
 Thomas thừa biết tên trẻ tuổi đó đang nghĩ gì: Làm thế nào để rũ bỏ sự dơ bẩn này mà vẫn giữ được vẻ ngoài cao quý? Thomas từng là một người được kính trọng. Ai nấy đều biết rằng lệnh Sự Rút phép Thông công của Thomas là bất công và đất đai của gã đã bị cướp đoạt. Mọi kẻ phục vụ một vị vua hoặc một lãnh chúa đều nhìn vào sự phản bội đối với Thomas và tự hỏi khi nào một tai nạn của lòng trung thành và chiến tranh sẽ khiến họ trở nên dễ bị tổn thương trước một kẻ cơ hội hùng mạnh như d’Évreux.
 
-<i>Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa</i>
+Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa
 
 Thomas chớp mắt liên hồi để kéo bản thân trở về thực tại; đây không phải lúc để tâm trí lang thang.
 
 “Ngươi muốn gì?” d’Évreux cất lời.
 
-<i>Cái đầu lìa cổ của ngươi nằm trên bãi cỏ để Thomas đá xuống con suối kia.</i>
+Cái đầu lìa cổ của ngươi nằm trên bãi cỏ để Thomas đá xuống con suối kia.
 
 “Công lý.”
 
@@ -102,7 +102,7 @@ Một con quạ kêu lên trên vòm cây.
 
 “Và ta có thể ban cho ngươi loại công lý nào giữa một cánh đồng ở Provence, ngoài lãnh địa của ta?”
 
-<i>Vài nơi trong số đó là lãnh địa của ta</i>
+Vài nơi trong số đó là lãnh địa của ta
 
 Tiếng quạ lại vang lên.
 
@@ -248,11 +248,11 @@ Lão bước đến cái xác của một hiệp sĩ rất giàu có, một tên
 
 Bộ râu ấy.
 
-<i>“Attends!”</i> lão nói.
+“Attends!” lão nói.
 
 Tên người Gascony nhìn lão, tay vẫn nắm một búi tóc bết mồ hôi và dầu mỡ, thản nhiên với việc giết chóc như thể hắn đang cầm một bông hoa và chuẩn bị được yêu cầu đừng hái nó.
 
-<i>“Je regarde son visage,”</i> Blount nói.
+“Je regarde son visage,” Blount nói.
 
 Tên người Gascony kéo ngược đầu gã kia lên cao hơn, tròng mắt đảo ngược lộ rõ tròng trắng.
 
@@ -264,7 +264,7 @@ Blount không tài nào hiểu nổi điều gì đã ngăn cản tay gã ngư�
 
 “Không phải hắn,” lão nói. Sau đó, phòng hờ có kẻ khác bất ngờ sà tới, lão hét lớn và chỉ tay xuống gã đàn ông.
 
-<i>Không phải hắn.</i>
+Không phải hắn.
 
 Giờ thì lũ lính đánh thuê đã kết liễu số còn lại, lấy đi tiền bạc cùng những con ngựa rồi hòa mình biến mất vào những tán rừng.
 
@@ -454,10 +454,10 @@ Thomas đứng lặng nhìn cô bé, và em cũng nhìn gã, trong khi màn đê
 
 Thomas nhắm nghiền mắt lại và hình dung ra khuôn mặt sưng húp vì bị côn trùng đốt của vị linh mục, đang mỉm cười yếu ớt khi nghĩ về người anh trai của ông.
 
-<i>Nếu gặp Robert, hãy nhắn với anh ấy</i>
+Nếu gặp Robert, hãy nhắn với anh ấy
 
-<i>Hãy nhắn rằng</i>
+Hãy nhắn rằng
 
-<i>Tôi không biết</i>
+Tôi không biết
 
 Thomas có tha thứ cho cô bé không?

@@ -8,9 +8,9 @@
 
 <p class="para-vi-sub">“Khu bếp ở hướng kia.” Gã chỉ tay, nhưng vị tu sĩ không thèm ngẩng lên nhìn hướng đi. Ông chỉ gật đầu với gã rồi cất tiếng cảm ơn, nhọc nhằn vòng qua phía tây của tòa pháo đài, nơi một cậu bé trong bộ y phục sang trọng đang khua thanh kiếm gỗ về phía ông. Vị tu sĩ giả vờ sợ hãi trước cậu bé, khiến thằng bé khúc khích cười rồi phi nước đại lao tới, dồn dập tấn công.</p>
 
-<p class="para-en">“We don’t charge at men of God,” said a young nobleman. The lord of the castle, a minor seigneur. A big man, broad through the chest, fearsome in aspect, yet shod in the fashionable long-toed <em>poulaines</em> that had become the object of ridicule for older knights and a frequent subject of sermons. Perhaps he expected to receive one from the friar; his verdant gaze was wary, dismissive. Or perhaps he feared the itinerant might carry more than a begging bowl; the plague had returned, though not in its former strength. Only the lumps, not the blood-coughing. Villages were tithing a tenth of their number, not two-thirds, but the tenth it chose was especially hard. Some were <a id="page420"></a>already calling this the children’s plague. Carpenters all over France had grown skilled at making small coffins.</p>
+<p class="para-en">“We don’t charge at men of God,” said a young nobleman. The lord of the castle, a minor seigneur. A big man, broad through the chest, fearsome in aspect, yet shod in the fashionable long-toed poulaines that had become the object of ridicule for older knights and a frequent subject of sermons. Perhaps he expected to receive one from the friar; his verdant gaze was wary, dismissive. Or perhaps he feared the itinerant might carry more than a begging bowl; the plague had returned, though not in its former strength. Only the lumps, not the blood-coughing. Villages were tithing a tenth of their number, not two-thirds, but the tenth it chose was especially hard. Some were already calling this the children’s plague. Carpenters all over France had grown skilled at making small coffins.</p>
 
-<p class="para-vi-sub">“Chúng ta không được tấn công người của Chúa,” một nhà quý tộc trẻ tuổi lên tiếng. Lãnh chúa của tòa thành, một vị tiểu lãnh chúa. Một gã đàn ông vạm vỡ, ngực nở nang, diện mạo đáng sợ, vậy mà lại đi đôi giày mũi dài thời thượng <i>poulaines</i> vốn đã trở thành trò cười cho những hiệp sĩ lớn tuổi và là đề tài bàn tán thường trực trong các bài giảng đạo. Có lẽ hắn đang chờ đợi một lời khiển trách từ vị tu sĩ; ánh mắt xanh biếc của hắn đầy cảnh giác và khinh miệt. Hoặc có lẽ hắn sợ kẻ hành khất này mang theo thứ gì đó nặng nề hơn một chiếc bát khất thực; dịch hạch đã quay trở lại, dù không còn dữ dội như trước. Chỉ có những khối u bẹn, chứ không còn những cơn ho ra máu. Các ngôi làng phải dâng nộp một phần mười dân số, chứ không phải hai phần ba, nhưng cái phần mười mà căn bệnh chọn lấy lại đặc biệt cay đắng. Một số nơi đã bắt đầu gọi đây là đợt dịch của trẻ em. Thợ mộc trên khắp nước Pháp đã trở nên thành thạo việc đóng những cỗ quan tài nhỏ.</p>
+<p class="para-vi-sub">“Chúng ta không được tấn công người của Chúa,” một nhà quý tộc trẻ tuổi lên tiếng. Lãnh chúa của tòa thành, một vị tiểu lãnh chúa. Một gã đàn ông vạm vỡ, ngực nở nang, diện mạo đáng sợ, vậy mà lại đi đôi giày mũi dài thời thượng poulaines vốn đã trở thành trò cười cho những hiệp sĩ lớn tuổi và là đề tài bàn tán thường trực trong các bài giảng đạo. Có lẽ hắn đang chờ đợi một lời khiển trách từ vị tu sĩ; ánh mắt xanh biếc của hắn đầy cảnh giác và khinh miệt. Hoặc có lẽ hắn sợ kẻ hành khất này mang theo thứ gì đó nặng nề hơn một chiếc bát khất thực; dịch hạch đã quay trở lại, dù không còn dữ dội như trước. Chỉ có những khối u bẹn, chứ không còn những cơn ho ra máu. Các ngôi làng phải dâng nộp một phần mười dân số, chứ không phải hai phần ba, nhưng cái phần mười mà căn bệnh chọn lấy lại đặc biệt cay đắng. Một số nơi đã bắt đầu gọi đây là đợt dịch của trẻ em. Thợ mộc trên khắp nước Pháp đã trở nên thành thạo việc đóng những cỗ quan tài nhỏ.</p>
 
 <p class="para-en">“The door’s there. Marie will fill your bowl. Prayers are welcome, but keep them short. And don’t touch anything.”</p>
 
@@ -88,7 +88,7 @@
 
 <p class="para-vi-sub">“À. Có. Những vết thương mùa xuân sẽ bị lãng quên vào mùa hè, nhưng lại nhói lên khi mùa đông đến.”</p>
 
-<p class="para-en">She looked back at him, noting again the pit in his cheek. Injuries, <a id="page421"></a>indeed. Probably an old soldier. He had the size, even if old age had stooped him.</p>
+<p class="para-en">She looked back at him, noting again the pit in his cheek. Injuries, indeed. Probably an old soldier. He had the size, even if old age had stooped him.</p>
 
 <p class="para-vi-sub">Cô quay đầu nhìn ông, lại một lần nữa chú ý đến vết lõm trên má ông. Vết thương thì có đấy. Chắc hẳn là một cựu binh. Ông có vóc dáng ấy, dẫu tuổi già đã khiến lưng ông còng xuống.</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-vi-sub">“Tôi không thấy cậu ta xấc láo đâu, thưa phu nhân.”</p>
 
-<p class="para-en">“Then your hearing is not as good as mine. He is not so wise or <a id="page422"></a>kind as he is brave. His voice is harsh, like his father’s before him. Did you know the lord of this place? My late husband?”</p>
+<p class="para-en">“Then your hearing is not as good as mine. He is not so wise or kind as he is brave. His voice is harsh, like his father’s before him. Did you know the lord of this place? My late husband?”</p>
 
 <p class="para-vi-sub">“Vậy thính lực của ông không tốt bằng ta rồi. Nó không khôn ngoan hay tử tế bằng sự dũng cảm của mình. Giọng nó gay gắt, y hệt cha nó trước kia. Ông có biết vị lãnh chúa của vùng này chứ? Phu quân quá cố của ta ấy?”</p>
 
@@ -276,7 +276,7 @@
 
 <p class="para-vi-sub">“Và nếu tâm trí Chúa là điều không thể thấu hiểu, thì ý muốn của Ngài khác gì may rủi?”</p>
 
-<p class="para-en"><a id="page423"></a>“It is a question of faith. When I pray for the boy, shall I pray for luck?”</p>
+<p class="para-en">“It is a question of faith. When I pray for the boy, shall I pray for luck?”</p>
 
 <p class="para-vi-sub">“Đó là vấn đề về đức tin. Khi tôi cầu nguyện cho đứa nhỏ, tôi có nên cầu cho nó được may mắn không?”</p>
 

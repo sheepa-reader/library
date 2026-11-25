@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Bảy: Về Trận ChiếnTại Chanson-des-Anges
+# Chương Bảy: Về Trận Chiến Tại Chanson-des-Anges
 
 Vào buổi sáng, cô bé nói với vị linh mục rằng ba người họ sẽ đến điện thờ Trinh Nữ Đá Trắng, cách đó mười dặm về phía bắc. Người đang ban phép lạ cho một số người, và Người sẽ giải trừ dịch hạch cho Thomas.
 
@@ -70,7 +70,7 @@ Cô bé bây giờ đứng bật dậy, mắt mở lớn, và nói: “Các ngư
 
 “Mặc kệ chúng nó,” người phụ nữ nói. “Hãy lấy lại Đức Mẹ của chúng ta nào. Chanson-des-Anges!” người phụ nữ thét lên. Đám đông hò reo hưởng ứng tiếng thét của bà, và họ lao về phía ngôi làng, kéo theo vị linh mục đang khóc lóc.
 
-Mặc dù diễn ra tại Rochelle-la-Blanche, trận chiến sau đó sẽ được biết đến với tên gọi trận chiến Chanson-des-Anges, bởi vì những kẻ tấn công đã hô vang điều đó hết lần này đến lần khác. Chúng hô lên khi lội vào và đẩy dạt đám đông những người hành hương đau ốm và sám hối<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn5">[5]</a> đang vây quanh bức tượng. Chúng hô lên khi bẻ gãy cánh tay của vị linh mục xứ Rochelle-la-Blanche, người đã lao mình ra trước Đức Mẹ Chí Thánh để bảo vệ Người. Chúng hô lên khi đập vỡ bức tượng đá trắng xinh xắn khỏi hốc đá trắng bên cạnh nhà thờ, để lại một phần bàn chân của Người. Chúng hô lên với nhóm đàn ông bắt đầu tụ tập ở quảng trường chợ gần đó, lúc này là sáu người, lúc khác là một tá, vừa hò hét, vừa chỉ trỏ và gọi thêm những người khác.
+Mặc dù diễn ra tại Rochelle-la-Blanche, trận chiến sau đó sẽ được biết đến với tên gọi trận chiến Chanson-des-Anges, bởi vì những kẻ tấn công đã hô vang điều đó hết lần này đến lần khác. Chúng hô lên khi lội vào và đẩy dạt đám đông những người hành hương đau ốm và sám hối[5] đang vây quanh bức tượng. Chúng hô lên khi bẻ gãy cánh tay của vị linh mục xứ Rochelle-la-Blanche, người đã lao mình ra trước Đức Mẹ Chí Thánh để bảo vệ Người. Chúng hô lên khi đập vỡ bức tượng đá trắng xinh xắn khỏi hốc đá trắng bên cạnh nhà thờ, để lại một phần bàn chân của Người. Chúng hô lên với nhóm đàn ông bắt đầu tụ tập ở quảng trường chợ gần đó, lúc này là sáu người, lúc khác là một tá, vừa hò hét, vừa chỉ trỏ và gọi thêm những người khác.
 
 Rồi một kẻ trong đám đông Chanson nói, “Đừng để chúng tập hợp lại!”
 
@@ -122,7 +122,7 @@ Thomas há hốc miệng thở dốc rồi mở mắt ra.
 
 Và rồi gã chìm vào giấc ngủ.
 
-Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn6">[6]</a> và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến; giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát; gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.
+Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi[6] và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến; giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát; gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.
 
 Anh quay đầu nhìn vị thiên thần, và nhận ra đó chỉ là cô bé. Đôi mắt xám đậm của con bé đang nhìn anh, chờ xem anh có nói gì không.
 
@@ -202,7 +202,7 @@ Thomas khỏe lại từ từ, nhưng nhanh hơn bất kỳ ai trong số ít �
 
 “Thế rốt cuộc là thế nào?”
 
-“Tôi sẽ đến Paris. Ngài vừa hỏi là tôi có <i>muốn</i> đi Paris hay không mà. Tôi không muốn. Nhưng tôi đã cạn sạch thức ăn, rượu vang và cả giáo dân rồi. Thế nên, dù thích hay không, tôi buộc phải rời khỏi ngôi nhà nhỏ dễ chịu của mình. Nếu cô bé là thánh nữ, đây sẽ là một cuộc hành hương thánh thiện. Nếu cô bé là phù thủy, tôi có thể sẽ tìm cách giảm bớt sự độc ác của nó.”
+“Tôi sẽ đến Paris. Ngài vừa hỏi là tôi có muốn đi Paris hay không mà. Tôi không muốn. Nhưng tôi đã cạn sạch thức ăn, rượu vang và cả giáo dân rồi. Thế nên, dù thích hay không, tôi buộc phải rời khỏi ngôi nhà nhỏ dễ chịu của mình. Nếu cô bé là thánh nữ, đây sẽ là một cuộc hành hương thánh thiện. Nếu cô bé là phù thủy, tôi có thể sẽ tìm cách giảm bớt sự độc ác của nó.”
 
 Họ khởi hành vào ngày đầu tiên của tháng Chín.
 

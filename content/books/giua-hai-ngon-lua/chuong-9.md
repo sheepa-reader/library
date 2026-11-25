@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Tám: Về Bữa Tiệc vàCuộc Đấu Thương Đêm
+# Chương Tám: Về Bữa Tiệc và Cuộc Đấu Thương Đêm
 
 Lâu đài trông có vẻ gần nhưng thực chất lại ở rất xa; nó sừng sững trên ngọn đồi xanh nhạt suốt nửa ngày trời, thoạt nhìn xa xôi tựa một tinh thể trên bầu trời, thế rồi khi chiều tà buông xuống, nó bỗng hiện ra ngay trước mặt với những bức tường trắng kiêu hãnh và các tháp canh sừng sững. Cờ hiệu của lãnh chúa tung bay trên tòa tháp chính, và những người lính đang thong thả rảo bước trên đỉnh nhà cổng, nơi chiếc cầu treo được hạ xuống để chào đón khách. Có lẽ dịch bệnh đã bỏ qua nơi này.
 
@@ -180,7 +180,7 @@ Bàn tay Thomas buông thõng xuống chỗ thanh kiếm dắt bên hông. Gã c
 
 Thomas nhe răng cười với Théobald, bỗng nhiên cảm thấy phấn khích như một thiếu niên trước viễn cảnh gã sắp được vung vũ khí vào mặt tên này lúc canh ba.
 
-Đồ ăn thì phong phú đến mức khó tin và cách bày biện cũng vô cùng khéo léo. Món khai vị xuất hiện được quản gia xướng tên là “Lạc thú Cathar<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn7">[7]</a>”. Những chiếc bánh ngọt hình một ngọn tháp nhỏ được chia đều cho đến khi xuất hiện một vết vỡ hé lộ bên trong ngọn tháp một bức tượng bằng bột nhão hình người phụ nữ khỏa thân được tô vẽ cẩn thận, đang bị trói vào một cái cọc giữa những “ngọn lửa” làm bằng mật ong kết tinh và gừng, thực khách có thể bẻ ra để ngậm. Bức tượng người phụ nữ do thợ làm thô kệch, ngực phẳng lỳ, chỉ có thể nhận ra đó là phụ nữ nhờ mái tóc vàng óng ả.
+Đồ ăn thì phong phú đến mức khó tin và cách bày biện cũng vô cùng khéo léo. Món khai vị xuất hiện được quản gia xướng tên là “Lạc thú Cathar[7]”. Những chiếc bánh ngọt hình một ngọn tháp nhỏ được chia đều cho đến khi xuất hiện một vết vỡ hé lộ bên trong ngọn tháp một bức tượng bằng bột nhão hình người phụ nữ khỏa thân được tô vẽ cẩn thận, đang bị trói vào một cái cọc giữa những “ngọn lửa” làm bằng mật ong kết tinh và gừng, thực khách có thể bẻ ra để ngậm. Bức tượng người phụ nữ do thợ làm thô kệch, ngực phẳng lỳ, chỉ có thể nhận ra đó là phụ nữ nhờ mái tóc vàng óng ả.
 
 “Ta bảo đảm với tất cả các ngươi, cụ cố của ta là một kẻ chuyên tiêu diệt dị giáo nổi tiếng,” vị lãnh chúa khoác lác, “nhưng có lẽ ngài nên tha cho ả này.” Những ngọn lửa đã tan chảy hết, thế là hắn nhấc bổng bức tượng người phụ nữ lên và liếm láp phần bụng dính nhầy trơ trẽn, rồi cắn đứt hai chân ả.
 
@@ -218,13 +218,13 @@ Vị linh mục trông có vẻ sửng sốt.
 
 “Không, bằng tiếng Flem khốn kiếp ấy. Latinh, Latinh chứ! Còn hỏi cái gì khác được một linh mục đồng tính cơ chứ?”
 
-“À thì. <i>Hoc est cerebrum meum.</i> Nhưng câu đó nghe khó chịu và gần giống với…”
+“À thì. Hoc est cerebrum meum. Nhưng câu đó nghe khó chịu và gần giống với…”
 
 “Một con khỉ cũng có thể nói tiếng Latinh, đúng chứ?”
 
 “Nếu một con khỉ mà nói được, thì tôi đoán là vậy.”
 
-Gã lãnh chúa lại húp thêm một thìa từ cái đầu khỉ, rồi cất giọng nhái lại bằng thứ âm thanh eo éo giống khỉ nhất có thể: <i>“Hoc est cerebrum meum.”</i> Bây giờ hắn nhúng chiếc thìa trở lại vào đầu con khỉ và cầm nguyên một thìa óc khỉ tiến thẳng đến trước môi vị linh mục. “Nói đi,” hắn ra lệnh.
+Gã lãnh chúa lại húp thêm một thìa từ cái đầu khỉ, rồi cất giọng nhái lại bằng thứ âm thanh eo éo giống khỉ nhất có thể: “Hoc est cerebrum meum.” Bây giờ hắn nhúng chiếc thìa trở lại vào đầu con khỉ và cầm nguyên một thìa óc khỉ tiến thẳng đến trước môi vị linh mục. “Nói đi,” hắn ra lệnh.
 
 “Tôi không muốn nói đâu,” vị linh mục vừa nói vừa co rúm người lại đầy khó chịu.
 
@@ -236,7 +236,7 @@ Tên quý tộc ép chiếc thìa sát vào môi dưới của vị linh mục.
 
 “Tôi… tôi… xin ngài tha thứ, nhưng không.”
 
-“Thưa <i>ngài</i>,” Thomas nói, dịch chiếc ghế lùi lại một chút. Ở phía bên kia sảnh tiệc, Théobald de Barentin cũng dịch ghế lùi lại.
+“Thưa ngài,” Thomas nói, dịch chiếc ghế lùi lại một chút. Ở phía bên kia sảnh tiệc, Théobald de Barentin cũng dịch ghế lùi lại.
 
 Cả đại sảnh chìm vào tĩnh lặng.
 
@@ -248,7 +248,7 @@ Nói đoạn, hắn quay lưng đi và mang chiếc thìa quay trở lại chỗ
 
 Vị linh mục hắng giọng.
 
-<i>“Hoc… Hoc est cerebrum meum,”</i> cha Matthieu nhỏ giọng nói.
+“Hoc… Hoc est cerebrum meum,” cha Matthieu nhỏ giọng nói.
 
 Lúc này, gã lãnh chúa xoay ngoắt người lại, miệng mỉm cười nhẹ nhàng, rồi đưa chiếc thìa đến tận miệng vị linh mục. Ông há miệng, đón lấy thìa thịt mằn mặn vương mùi tỏi.
 
@@ -408,7 +408,7 @@ Thomas cảm thấy mặt mình nóng bừng lên, gã kìm nén bản năng mu�
 
 Théobald cúi đầu chào.
 
-“Hô-hô!” vị lãnh chúa cất tiếng. “Thế thì ta đố bảo đời nào lại bỏ lỡ buổi đấu thương ban đêm cho đặng. Chẳng bỏ lỡ một con mẹ <i>gì</i> sất.”
+“Hô-hô!” vị lãnh chúa cất tiếng. “Thế thì ta đố bảo đời nào lại bỏ lỡ buổi đấu thương ban đêm cho đặng. Chẳng bỏ lỡ một con mẹ gì sất.”
 
 Lão cười toe toét để lộ hàm răng đen sì.
 
@@ -438,7 +438,7 @@ Gã xách thanh kiếm rồi bỏ đi.
 
 Chẳng mấy chốc gã lại lạc vào mê cung của những hành lang đá, nơi những ngọn nến nhỏ giọt sáp và đuốc cháy xèo xèo. Cuối cùng gã cũng cảm nhận được luồng không khí mát lạnh và bước ra khoảng sân tối bên ngoài; ở đó, những con người vẫn xúng xính trang phục dạ tiệc từ bữa tiệc đang di chuyển trong bóng tối, và vài kẻ lúc này cũng vừa bước ra từ cánh cửa mà gã vừa rời khỏi. Người đàn bà nằm chung giường với gã là một trong số đó, chiếc mũ trùm đầu lại được đội ngay ngắn trên vầng trán cao, con chó nhỏ ác ôn nằm gọn trong vòng tay, bộ đầm xanh lá lấp lánh ánh nhìn.
 
-<i>Làm sao mà cô ta thay đồ nhanh thế nhỉ?</i>
+Làm sao mà cô ta thay đồ nhanh thế nhỉ?
 
 Cô ta phớt lờ gã khi lướt qua, rồi ngoảnh đầu lại nói: “Anh lo mà tìm lấy bộ giáp của mình đi. Và tôi hy vọng anh cưỡi ngựa giỏi hơn cái khoản giường chiếu. Théobald vượt trội hơn anh về khoản đó nhiều đấy.” Mọi người xung quanh đều nghe thấy và cười rộ lên.
 
@@ -450,7 +450,7 @@ Gã cảm thấy tay áo mình bị kéo nhẹ và nhìn thấy thằng bé Simo
 
 “Thợ giáp muốn gặp ngài.”
 
-<i>Chạy đi! Biến khỏi nơi này ngay!</i>
+Chạy đi! Biến khỏi nơi này ngay!
 
 Thợ giáp.
 
@@ -492,7 +492,7 @@ Ngay lúc đó, tiếng kèn vang lên và vị sứ giả cất tiếng công b
 
 Thomas bước ra khỏi lều và nhìn thấy con chiến mã đốm mà gã phải cưỡi. Một tên cận vệ tóc hoa râm, mặt dài lê thê mặc chiếc áo chẽn chật ních và quần bó lỏng lẻo đang cầm dây cương, gã say khướt đến mức đứng còn chẳng vững. Nhìn kỹ lại tên cận vệ nực cười ấy, Thomas nhận ra đó chính là Père Matthieu, vị linh mục.
 
-Âm thanh của thứ gì đó đâm xuyên qua áo giáp vang lên từ bãi đấu, và đám đông thốt lên một tiếng <i>HOOOOOOAAAAA!</i> đầy kinh ngạc.
+Âm thanh của thứ gì đó đâm xuyên qua áo giáp vang lên từ bãi đấu, và đám đông thốt lên một tiếng HOOOOOOAAAAA! đầy kinh ngạc.
 
 Con ngựa đi mượn của Thomas quay đầu nhìn gã, và Père Matthieu ra hiệu về phía yên ngựa. Thomas leo lên yên.
 
@@ -500,7 +500,7 @@ Con ngựa đi mượn của Thomas quay đầu nhìn gã, và Père Matthieu ra
 
 “Ta không biết,” Père Matthieu ngọng nghịu nói, “nhưng ta khá chắc là ngoài kia có một con quỷ đấy.”
 
-Một tiếng thét kinh hoàng bỗng vang lên từ bãi đấu. Đám đông phát ra tiếng “<i>HO-ooooooooo</i>”, đúng cái cách mà đám đông hay làm khi điều gì đó khủng khiếp vừa giáng xuống một con người. Tên cận vệ kiêm linh mục chộp lấy một cây giáo dựa vào hàng rào đưa cho Thomas, tiện thể cầm theo cả hai cây giáo dự phòng. Thomas nhìn dọc theo thân cán xuống mũi giáo; đó là một mũi giáo chiến, sắc bén và chết chóc, chứ không phải bốn cục u tày dùng trong các trận đấu thương thông thường.
+Một tiếng thét kinh hoàng bỗng vang lên từ bãi đấu. Đám đông phát ra tiếng “HO-ooooooooo”, đúng cái cách mà đám đông hay làm khi điều gì đó khủng khiếp vừa giáng xuống một con người. Tên cận vệ kiêm linh mục chộp lấy một cây giáo dựa vào hàng rào đưa cho Thomas, tiện thể cầm theo cả hai cây giáo dự phòng. Thomas nhìn dọc theo thân cán xuống mũi giáo; đó là một mũi giáo chiến, sắc bén và chết chóc, chứ không phải bốn cục u tày dùng trong các trận đấu thương thông thường.
 
 “Được thôi,” Thomas nói. “Đi chết nào, thưa cha.”
 
@@ -518,7 +518,7 @@ Có hai kỵ sĩ đang ở trên bãi đấu, và một kẻ thứ ba đang đ�
 
 Ngay sau đó, một con khỉ từ dưới khán đài chạy ra, loài khỉ y hệt ba con đã bị quay chín trong bữa tối, bắt đầu nhặt nhạnh trên lớp cát và ăn những thứ vừa văng ra từ đầu người đàn ông. Khi đã vét sạch những gì tìm thấy trên cát, nó thoăn thoắt leo lên người con ngựa rồi trèo lên bộ giáp của cái xác gã người Pháp lai Đức cụt nửa đầu, bắt đầu ăn trực tiếp từ phần hộp sọ trống hoác còn lại của hắn.
 
-<i>“Hoooooooooo!”</i> đám đông hò reo.
+“Hoooooooooo!” đám đông hò reo.
 
 Giờ thì con khỉ dùng chân đá vào bộ giáp của tên hiệp sĩ đã chết mà nó đang ngồi vắt vẻo lên trên, khiến thi thể tên hiệp sĩ giật nảy lên và thúc con ngựa bước đi lững thững rời khỏi bãi đấu để ăn cỏ. Xác tên hiệp sĩ trượt nặng nề khỏi yên ngựa, và con khỉ lại lủi thủi chạy tót về dưới gầm khán đài.
 
@@ -528,7 +528,7 @@ Lãnh chúa, vẫn đang lượn vòng trên lưng con Grisâtre, giơ cây rìu
 
 Thomas kìm nén một cái rùng mình.
 
-<i>Ta không thể, không thể, không thể nào làm được,</i> Thomas thầm nghĩ, rồi thúc ngựa phóng lên để chiếm lấy vị trí ở phần sân của mình.
+Ta không thể, không thể, không thể nào làm được, Thomas thầm nghĩ, rồi thúc ngựa phóng lên để chiếm lấy vị trí ở phần sân của mình.
 
 “Giáo hay kiếm?” Thomas gầm lên với lãnh chúa.
 
@@ -550,7 +550,7 @@ Cả hai người đều giữ được giáo, liền quay đầu ngựa lại v
 
 Thế nhưng lần này, Thomas cảm thấy con ngựa của mình đang chậm dần bên dưới. Gã chửi thề và thúc cựa giày, thế nhưng Belâtre vẫn cứ ì ra, ngay cả khi gã hiệp sĩ kia hiện ra ngày càng lớn hơn và nguy hiểm hơn qua khe hở trên mũ giáp của Thomas. Con ngựa dừng hẳn lại.
 
-“Đồ con <i>đĩ</i>!” Thomas nói với con ngựa của mình ngay lúc mũi giáo của Théobald hạ xuống và đâm sầm vào ngực Belâtre. Con ngựa hí lên, chồm đứng bằng hai chân sau rồi hất văng Thomas xuống. Gã rơi mạnh xuống đất bằng lưng, một luồng đau đớn chạy dọc từ thắt lưng xuống tận gót chân. Gã ngồi dậy và thấy con ngựa đang hấp hối đổ vật sang một bên, bốn chân giãy giụa giữa không trung. Nó vừa chạm đất thì có ít nhất hai chục bóng đen từ dưới khán đài lao ra túm lấy nó. Lũ khỉ. Chỉ có điều lần này Thomas không chắc chúng có phải là khỉ hay không. Dù chúng là gì đi nữa, chúng cũng kéo con ngựa đi, vừa lôi đi vừa moi ruột nó.
+“Đồ con đĩ!” Thomas nói với con ngựa của mình ngay lúc mũi giáo của Théobald hạ xuống và đâm sầm vào ngực Belâtre. Con ngựa hí lên, chồm đứng bằng hai chân sau rồi hất văng Thomas xuống. Gã rơi mạnh xuống đất bằng lưng, một luồng đau đớn chạy dọc từ thắt lưng xuống tận gót chân. Gã ngồi dậy và thấy con ngựa đang hấp hối đổ vật sang một bên, bốn chân giãy giụa giữa không trung. Nó vừa chạm đất thì có ít nhất hai chục bóng đen từ dưới khán đài lao ra túm lấy nó. Lũ khỉ. Chỉ có điều lần này Thomas không chắc chúng có phải là khỉ hay không. Dù chúng là gì đi nữa, chúng cũng kéo con ngựa đi, vừa lôi đi vừa moi ruột nó.
 
 “Thứ lỗi cho ta, Sir Thomas,” vị lãnh chúa nói. “Ta không biết con ngựa của mình lại là một kẻ hèn nhát khốn nạn đến thế.”
 
@@ -562,7 +562,7 @@ Lãnh chúa thét lớn, “Xuống đấu giáp lá cà!” và lúc này Thoma
 
 Gã lao về phía Théobald trước, vừa chạy vừa đâm thốc mũi kiếm vào mặt đối phương. Gã hiệp sĩ xoay người né sang một bên, vung chiếc chùy giáng thẳng vào lưng Thomas, làm gãy một chiếc xương sườn. Thomas thuận đà lao về phía trước để tránh bị bồi thêm đòn thứ hai. Tên thợ giáp nói không sai. Théobald rất nhanh.
 
-<i>Nhanh như một con cá trồi ra từ hộp sọ của kẻ chết.</i>
+Nhanh như một con cá trồi ra từ hộp sọ của kẻ chết.
 
 Gã nghe tiếng giáp xột xoạt đằng sau và cảm nhận được chiếc chùy vừa sượt qua cách đầu gã chưa đầy nửa gang tay.
 
@@ -570,7 +570,7 @@ Nhưng Thomas cũng có mánh khóe của riêng mình; gã trụ chân lại r�
 
 Tấm lưng của gã đang đau nhói như muốn gãy làm đôi.
 
-<i>Có phải nước vừa rỉ ra từ bộ giáp của Théobald không?</i>
+Có phải nước vừa rỉ ra từ bộ giáp của Théobald không?
 
 Thomas không có thời gian để rút kiếm lại tung một đòn vung đúng nghĩa, thế nên gã chém ngang tầm ngực, nhắm vào phần tay trong của Théobald để đánh văng chiếc chùy; gã gạt được cánh tay cầm chùy lệch sang một bên, nhưng kẻ thù vẫn giữ chặt được vũ khí, thuận đà vung vòng qua đầu rồi đánh ngược bạt tai vào tay Thomas, khiến cánh tay gã tê dại.
 
@@ -578,7 +578,7 @@ Nước biển tràn vào mắt gã. Théobald rõ ràng đang rỉ ra nước m
 
 Lúc này Thomas mới nhìn thấy bàn tay đang lộ ra trắng bệch đến nhường nào. Trắng đến mức gần như trong suốt.
 
-<i>Một bàn tay khốn kiếp!</i>
+Một bàn tay khốn kiếp!
 
 Gã vung lưỡi kiếm một lần nữa và chém trúng mang tai Théobald. Nước biển, chứ không phải máu, phun xối xả ra từ vết thương. Nó bốc mùi hôi thối. Théobald trông có vẻ thích thú. Gã há miệng ra và một tiếng thét vang lên, nhưng đó không phải tiếng thét của gã. Đó là tiếng thét của tên nông dân béo mập đã chết dưới sông. Đó là tiếng thét mà con quái vật dưới sông từng bắt chước.
 
@@ -596,19 +596,19 @@ Théobald nhe răng cười với Thomas, và những con giun biển nhỏ li t
 
 Và hắn hôi thối, hôi thối nồng nặc.
 
-<i>Théobald de Barentin, Théobald…</i>
+Théobald de Barentin, Théobald…
 
-<i>Đã tử trận tại Sluys<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn8">[8]</a>.</i>
+Đã tử trận tại Sluys[8].
 
-<i>Hắn ngã xuống biển khi một chiến thuyền Anh đâm sầm vào con tàu hắn đang đứng. Hắn là chiến thủ cự phách nhất xứ Normandy, nhưng hắn không hề bị đâm hay trúng tên. Hắn chỉ trượt chân trên boong tàu ướt sũng rồi rơi xuống nước, nơi bộ giáp nặng nề kéo chìm hắn xuống đáy. Lãnh chúa của Thomas từng dặn dò binh lính trước khi đối đầu với quân Anh ở Crécy, để nhắc nhở họ rằng không có cái chết nào là nhục nhã khi ngã xuống trên chiến trường.</i>
+Hắn ngã xuống biển khi một chiến thuyền Anh đâm sầm vào con tàu hắn đang đứng. Hắn là chiến thủ cự phách nhất xứ Normandy, nhưng hắn không hề bị đâm hay trúng tên. Hắn chỉ trượt chân trên boong tàu ướt sũng rồi rơi xuống nước, nơi bộ giáp nặng nề kéo chìm hắn xuống đáy. Lãnh chúa của Thomas từng dặn dò binh lính trước khi đối đầu với quân Anh ở Crécy, để nhắc nhở họ rằng không có cái chết nào là nhục nhã khi ngã xuống trên chiến trường.
 
 Ánh sáng đang rọi lên bầu trời.
 
 “Mau lên!” một phụ nữ từ khán đài hét lên, và tiếng thét đó được hưởng ứng bởi những khán giả khác, tất cả lúc này đều bắt đầu phân hủy. Vài kẻ gào lên “Giết nó đi!” hoặc “Mặt trời kìa!” Lãnh chúa của lâu đài cũng thét lên “MAU LÊN!”, rồi cố thét thêm lần nữa, nhưng từ đó biến thành tiếng gầm của một con sư tử. Thomas liếc nhìn hắn và thấy rằng thân hình hắn đang cao lớn dần, vươn căng vượt ra ngoài bộ giáp, khiến da thịt lộ ra giữa các mảnh giáp. Đầu hắn giờ đây là đầu sư tử, nhưng cục mịch và thối rữa, tròng trành khó coi trên đống thịt và giáp trụ kỳ dị mà hắn đã biến thành.
 
-<i>Một con quỷ.</i>
+Một con quỷ.
 
-<i>Một con quỷ đến từ Địa Ngục và triều đình của những kẻ bị nguyền rủa.</i>
+Một con quỷ đến từ Địa Ngục và triều đình của những kẻ bị nguyền rủa.
 
 Thứ từng là lãnh chúa bắt đầu lê những bước giật cục tiến về phía bọn họ.
 

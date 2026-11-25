@@ -2,7 +2,7 @@
 
 # Chương Mười Lăm: Về cuộc viếng thăm trong chuồng ngựa
 
-<span class="drop-2">“T</span>hế là tôi đã đày đọa một nửa giáo dân của mình. Sự yếu đuối của tôi khiến họ căm ghét tôi, nên họ tránh xa thánh lễ. Họ bị cắt đứt khỏi các bí tích.”
+“Thế là tôi đã đày đọa một nửa giáo dân của mình. Sự yếu đuối của tôi khiến họ căm ghét tôi, nên họ tránh xa thánh lễ. Họ bị cắt đứt khỏi các bí tích.”
 
 Thomas cau mày nhìn vị linh mục.
 
@@ -68,9 +68,9 @@ Thomas từng nghe nói rằng những kẻ ngoại giáo dưới quyền Saladi
 
 Nó cao khoảng ngang xương sườn gã, với những chiếc gai dài và sắc nhọn. Toàn bộ bụi cây dường như uốn cong quanh một thứ ở chính giữa: một quả lê. Nhưng không phải quả lê nào cũng thế. Đây là quả lê béo ngậy và ngọt ngào nhất mà gã từng thấy, với một chiếc lá trên cuống xanh đến mức khó tin. Gã biết rằng nó chứa đầy thứ mật ngọt mọng nước đến mức chỉ một miếng cắn cũng không chỉ làm dịu cơn đau, mà còn tiếp thêm sức mạnh cho tứ chi để gã có thể bắt tay vào việc tiêu diệt những kẻ tạo ra ngọn lửa mờ ảo ở phía chân trời.
 
-Gã đeo lại găng tay để chống lại gai góc và quỳ xuống trước bụi cây, nhẹ nhàng bứt những cành cây tua tủa đang bao bọc lấy quả. Chúng thật giống như những chiếc xương sườn bao bọc lấy trái tim. Gã phải thật khéo léo để không làm rách quả lê, nhưng điều này thật khó khăn. Những chiếc gai quá dài và mảnh mai đến mức chúng đâm sâu vào các ngón tay gã xuyên qua cả những vòng xích áo giáp. Gã phải khiến bụi cây gai muốn nhường lại quả lê, nên gã cố nói <i>Làm ơn</i>, nhưng tất cả những gì phát ra qua cái miệng tơi tả của gã chỉ là một tiếng gầm gừ. Khói bốc ra từ mũi gã. Đầu mũi tên lại cắm sâu vào lưỡi gã. Gã không thể nói; gã sẽ không bao giờ có thể nói được nữa. Chẳng một ai hay bất cứ thứ gì trên đời còn có thể hiểu nổi gã nữa. Gã giật mạnh hơn vào các cành cây, nhưng chúng lại kéo lùi lại.
+Gã đeo lại găng tay để chống lại gai góc và quỳ xuống trước bụi cây, nhẹ nhàng bứt những cành cây tua tủa đang bao bọc lấy quả. Chúng thật giống như những chiếc xương sườn bao bọc lấy trái tim. Gã phải thật khéo léo để không làm rách quả lê, nhưng điều này thật khó khăn. Những chiếc gai quá dài và mảnh mai đến mức chúng đâm sâu vào các ngón tay gã xuyên qua cả những vòng xích áo giáp. Gã phải khiến bụi cây gai muốn nhường lại quả lê, nên gã cố nói Làm ơn, nhưng tất cả những gì phát ra qua cái miệng tơi tả của gã chỉ là một tiếng gầm gừ. Khói bốc ra từ mũi gã. Đầu mũi tên lại cắm sâu vào lưỡi gã. Gã không thể nói; gã sẽ không bao giờ có thể nói được nữa. Chẳng một ai hay bất cứ thứ gì trên đời còn có thể hiểu nổi gã nữa. Gã giật mạnh hơn vào các cành cây, nhưng chúng lại kéo lùi lại.
 
-<i>Xé toạc nó ra. Dùng sức mạnh của ngươi đi. Phá hủy nó và ăn phần thịt quả đi. Ngươi không thể biết nó ngọt ngào đến nhường nào đâu!</i>
+Xé toạc nó ra. Dùng sức mạnh của ngươi đi. Phá hủy nó và ăn phần thịt quả đi. Ngươi không thể biết nó ngọt ngào đến nhường nào đâu!
 
 Toàn là dối trá.
 
@@ -96,7 +96,7 @@ Với tiếng mưa rơi trên mái nhà và tiếng sấm gầm gừ bên ngoài
 
 Một thứ gì đó chạy vụt qua đùi gã, một thứ gì đó nhờ nhờ và tối tăm,
 
-<i>cứ chết cùng nó đi đồ yếu đuối vô tích sự</i>
+cứ chết cùng nó đi đồ yếu đuối vô tích sự
 
 và cơn mưa ấy bằng cách nào đó lại hắt ngược lên trên qua các khe ván của gác xép phía trên họ.
 

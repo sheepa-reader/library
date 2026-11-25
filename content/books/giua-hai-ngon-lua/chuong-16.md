@@ -50,11 +50,11 @@ Từ chốn tòa giải tội, ông thừa biết Michel từng tư thông với
 
 Nếu thực sự tồn tại lũ quỷ.
 
-<i>Nếu thằng bé đó là công cụ của Satan, lạy Chúa, xin hãy cho con thấy một dấu hiệu. Hãy để nó quay lại nhìn con.</i>
+Nếu thằng bé đó là công cụ của Satan, lạy Chúa, xin hãy cho con thấy một dấu hiệu. Hãy để nó quay lại nhìn con.
 
 Nhưng ông lại khao khát cái liếc nhìn ngoảnh lại ấy đến mức không chịu nổi việc gán cho nó sự tà ác, thế là ông tự làm rối trí chính mình.
 
-<i>Hơn thế nữa, hãy để nó quay lại nhìn con nếu trong người nó không chứa chấp ác quỷ nào cả.</i>
+Hơn thế nữa, hãy để nó quay lại nhìn con nếu trong người nó không chứa chấp ác quỷ nào cả.
 
 Cậu thanh niên thực sự đã quay đầu nhìn lại về phía ông. Chỉ một lần duy nhất, và chỉ trong tích tắc, nhưng thế là quá đủ.
 
@@ -94,7 +94,7 @@ Cậu đang nhìn thẳng vào vị linh mục, người vẫn đứng như chô
 
 “Đó chính là cái hay của việc trần truồng dưới sông; cha chẳng là ai cả. Cha muốn là ai cũng được. Đó chỉ là một giấc mơ.”
 
-<i>Ngươi từng dùng chính những lời đó để dụ cô gái xuống dưới này.</i>
+Ngươi từng dùng chính những lời đó để dụ cô gái xuống dưới này.
 
 Vị linh mục há miệng rồi lại ngậm lại.
 

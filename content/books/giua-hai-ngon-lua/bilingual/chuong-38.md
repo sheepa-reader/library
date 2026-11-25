@@ -6,7 +6,7 @@
 
 <p class="para-vi-sub">Khu nhà trọ do Đức Giáo Hoàng bố trí cho Chrétien, Bá tước d’Évreux cùng tiểu đồng của hắn nằm lọt thỏm ngay dưới cái bóng sừng sững của cung điện, sát cạnh nhà thờ Thánh Phêrô. Dãy nhà xập xệ, xiêu vẹo của những người lao động từng mọc lên ở chốn này đã bị triệt hạ từ bốn năm trước, gỗ tận dụng được chở thẳng về cung điện để rồi vui vẻ rực cháy trong những gian bếp và dưới các phòng tắm của họ hệt như thể cung điện đã nuốt chửng lấy cả khu dân cư ấy. Đức Giáo Hoàng Clement vẫn tiếp tục duy trì chính sách của vị tiền nhiệm, biến một Avignon bằng gỗ thành một Avignon bằng đá, và Ngôi nhà Elysium chính là một minh chứng xuất sắc cho sự xa hoa mới mẻ đó.</p>
 
-<p class="para-en">Thomas and Delphine had sequestered themselves in their room, having excused themselves from the midday feast that an English duke was putting on in the courtyard. The sounds of revelry had been floating up to them for nearly an hour, and, as the revelers emptied pitcher after pitcher of the pope’s wine down their gullets, more and more often the Valois and English lords who had once faced each other across battlefields now united in good-natured mockery directed <a id="page348"></a>at the window of the man they took for the Comte d’Évreux and his Navarrese page. This was precisely what Thomas had feared—though he bore the face and body of the dead man, he did not share his memories, and the world of high-placed men, though embracing all of Europe, was as small and incestuous as a village.</p>
+<p class="para-en">Thomas and Delphine had sequestered themselves in their room, having excused themselves from the midday feast that an English duke was putting on in the courtyard. The sounds of revelry had been floating up to them for nearly an hour, and, as the revelers emptied pitcher after pitcher of the pope’s wine down their gullets, more and more often the Valois and English lords who had once faced each other across battlefields now united in good-natured mockery directed at the window of the man they took for the Comte d’Évreux and his Navarrese page. This was precisely what Thomas had feared—though he bore the face and body of the dead man, he did not share his memories, and the world of high-placed men, though embracing all of Europe, was as small and incestuous as a village.</p>
 
 <p class="para-vi-sub">Thomas và Delphine tự giam mình trong căn phòng, cáo từ bữa tiệc trưa do một vị công tước người Anh khoản đãi dưới khoảng sân trong. Tiếng cười nói hân hoan vẳng lên đến tai họ suốt gần một giờ đồng hồ, và khi những kẻ dự tiệc dốc hết vò rượu này đến vò rượu khác của Đức Giáo Hoàng vào cổ họng, các lãnh chúa nhà Valois cùng người Anh, những kẻ từng chĩa vũ khí vào mặt nhau ở hai chiến tuyến, nay lại càng thêm hùa vào trêu chọc hướng về phía ô cửa sổ của người mà họ đinh ninh là Chrétien, Bá tước d’Évreux cùng tiểu đồng người Navarre. Đây chính xác là điều Thomas vẫn luôn sợ hãi; dù mang khuôn mặt và thể xác của kẻ đã khuất, anh lại chẳng hề có lấy một ký ức nào của hắn, và thế giới của những kẻ đứng ở đỉnh cao quyền lực, dù trải dài khắp châu Âu, vẫn nhỏ bé và hẹp hòi chẳng khác nào một ngôi làng.</p>
 
@@ -50,19 +50,19 @@
 
 <p class="para-vi-sub">Một sứ giả đã đến vào hôm qua, hô hoán tin tức dưới mọi khung cửa sổ: Vì dịch hạch đã cướp đi sinh mạng của quá nhiều hồng y, một vị hồng y mới sẽ được sắc phong vào tối mai; buổi lễ được tổ chức ngoài trời, tại khoảng sân chung của cung điện và rộng mở cho tất cả mọi người.</p>
 
-<p class="para-en">Now Delphine traced the legs of a knight, skipped chastely past his middle, and rejoined the outline at his belly. Past the tapestry knight, a young girl and her father bent in the field, their faces turned <a id="page349"></a>away, gathering sheaves. She traced them, too. It soothed her to keep her hands busy while she waited for a helpful thought to come. For once, Thomas would have been grateful to see the heavy-lidded gaze that meant she was about to use words that were somehow not hers. Neither of them knew quite what to do while waiting for an invitation to see the pope, an invitation that might not come at all.</p>
+<p class="para-en">Now Delphine traced the legs of a knight, skipped chastely past his middle, and rejoined the outline at his belly. Past the tapestry knight, a young girl and her father bent in the field, their faces turned away, gathering sheaves. She traced them, too. It soothed her to keep her hands busy while she waited for a helpful thought to come. For once, Thomas would have been grateful to see the heavy-lidded gaze that meant she was about to use words that were somehow not hers. Neither of them knew quite what to do while waiting for an invitation to see the pope, an invitation that might not come at all.</p>
 
 <p class="para-vi-sub">Lúc này, Delphine đang dò theo đường chân của một hiệp sĩ, lướt qua phần giữa kín đáo, rồi nối lại đường nét ở vùng bụng của hắn. Vượt qua tấm thảm thêu hình hiệp sĩ, một thiếu nữ và người cha đang cúi mình trên đồng áng, đầu quay đi chỗ khác để thu gom những bó lúa mì. Cô bé cũng dò theo những đường nét ấy. Việc giữ cho đôi tay bận rộn trong lúc chờ đợi một ý tưởng hữu ích xuất hiện mang lại cho cô bé sự tĩnh tâm. Đã có lúc Thomas vô cùng biết ơn cái ánh nhìn lim dim ấy, thứ báo hiệu rằng cô bé sắp sửa cất lời bằng những từ ngữ chẳng hiểu sao lại không phải của chính mình. Cả hai người đều chẳng biết phải làm gì trong lúc mòn mỏi chờ đợi lời mời yết kiến Đức Giáo Hoàng, một lời mời có lẽ chẳng bao giờ tới.</p>
 
-<p class="para-en">He shuddered at the thought of trying to stab the false pope <em>in camera</em>, let alone in front of a table full of knights and a company of guards.</p>
+<p class="para-en">He shuddered at the thought of trying to stab the false pope in camera, let alone in front of a table full of knights and a company of guards.</p>
 
 <p class="para-vi-sub">Thomas rùng mình khi nghĩ đến viễn cảnh phải đâm chết tên giáo hoàng giả mạo ngay trong phòng riêng, chứ chưa nói đến việc làm điều đó trước một bàn tiệc đầy rẫy các hiệp sĩ và một đội cận vệ hùng hậu.</p>
 
-<p class="para-en"><em>It doesn’t matter.</em></p>
+<p class="para-en">It doesn’t matter.</p>
 
 <p class="para-vi-sub">Chẳng quan trọng nữa.</p>
 
-<p class="para-en"><em>I’ve come here to die.</em></p>
+<p class="para-en">I’ve come here to die.</p>
 
 <p class="para-vi-sub">Ta đến đây là để chết cơ mà.</p>
 
@@ -90,9 +90,9 @@
 
 <p class="para-vi-sub">Cả bàn tiệc bên dưới bật cười phá lên.</p>
 
-<p class="para-en">“Where’s Don Eduardo de Burgos?” another shouted. “He’ll purge it out of you with <em>jerez</em>!”</p>
+<p class="para-en">“Where’s Don Eduardo de Burgos?” another shouted. “He’ll purge it out of you with jerez!”</p>
 
-<p class="para-vi-sub">“Don Eduardo de Burgos đâu rồi?” một kẻ khác gào lên. “Hắn sẽ dùng rượu <i>jerez</i> để tống sạch thứ đó ra khỏi người ngài cho xem!”</p>
+<p class="para-vi-sub">“Don Eduardo de Burgos đâu rồi?” một kẻ khác gào lên. “Hắn sẽ dùng rượu jerez để tống sạch thứ đó ra khỏi người ngài cho xem!”</p>
 
 <p class="para-en">Thomas swallowed hard at this.</p>
 
@@ -114,7 +114,7 @@
 
 <p class="para-vi-sub">Thomas làm bộ như sắp nôn mửa, khiến cả bàn tiệc vang lên một tiếng “Hoooo” đầy phấn khích, rồi anh rụt đầu lại và đóng sập chớp cửa. Một vật gì đó nghe như quả mận vừa nện thẳng vào khung cửa.</p>
 
-<p class="para-en"><a id="page350"></a>Delphine raised an eyebrow, impressed.</p>
+<p class="para-en">Delphine raised an eyebrow, impressed.</p>
 
 <p class="para-vi-sub">Delphine nhướng một bên mày, tỏ ý thán phục.</p>
 
@@ -190,25 +190,25 @@
 
 <p class="para-vi-sub">“Thật kỳ lạ là đám người mà bọn ta ghé thăm đều sắp mắc dịch hạch cả. Mở cửa ra nếu không tao phá nát nó đấy. Và mày sẽ không thích thú gì chuyến đi đến giáo cung đâu nếu tao phải làm thế.”</p>
 
-<p class="para-en"><a id="page351"></a>Thomas took up his sword and Delphine shook her head at him, wide eyed.</p>
+<p class="para-en">Thomas took up his sword and Delphine shook her head at him, wide eyed.</p>
 
 <p class="para-vi-sub">Thomas cầm lấy thanh kiếm còn Delphine trừng mắt lắc đầu nhìn anh.</p>
 
-<p class="para-en"><em>“What, then?”</em> he whispered.</p>
+<p class="para-en">“What, then?” he whispered.</p>
 
-<p class="para-vi-sub"><i>Vậy phải làm sao?</i> anh thì thầm.</p>
+<p class="para-vi-sub">Vậy phải làm sao? anh thì thầm.</p>
 
-<p class="para-en"><em>“I don’t know, but not that!”</em></p>
+<p class="para-en">“I don’t know, but not that!”</p>
 
-<p class="para-vi-sub"><i>Con không biết, nhưng tuyệt đối không phải cách đó!</i></p>
+<p class="para-vi-sub">Con không biết, nhưng tuyệt đối không phải cách đó!</p>
 
 <p class="para-en">The man outside the door flung himself against it; it was a new door, and solidly built.</p>
 
 <p class="para-vi-sub">Gã đàn ông bên ngoài lao người tông vào cánh cửa; đó là một cánh cửa mới và được đóng rất chắc chắn.</p>
 
-<p class="para-en">“If you make me axe through this whoring thing, you won’t walk out of here. <em>Open this door!</em>”</p>
+<p class="para-en">“If you make me axe through this whoring thing, you won’t walk out of here. Open this door!”</p>
 
-<p class="para-vi-sub">“Nếu mày buộc tao phải dùng rìu chặt nát cái thứ khốn kiếp này, mày sẽ không thể tự bước chân ra khỏi đây đâu. <i>Mở cửa ra!</i>”</p>
+<p class="para-vi-sub">“Nếu mày buộc tao phải dùng rìu chặt nát cái thứ khốn kiếp này, mày sẽ không thể tự bước chân ra khỏi đây đâu. Mở cửa ra!”</p>
 
 <p class="para-en">Delphine’s eyes got heavy.</p>
 
@@ -246,55 +246,55 @@
 
 <p class="para-vi-sub">“Hãy để bọn chúng bắt ngài đi,” cô bé nghe thấy chính mình cất lời.</p>
 
-<p class="para-en"><em>Let them take me, Peter.</em></p>
+<p class="para-en">Let them take me, Peter.</p>
 
-<p class="para-vi-sub"><i>Hãy để bọn chúng bắt con đi, Peter.</i></p>
+<p class="para-vi-sub">Hãy để bọn chúng bắt con đi, Peter.</p>
 
-<p class="para-en"><em>Come on, Delphine.</em></p>
+<p class="para-en">Come on, Delphine.</p>
 
-<p class="para-vi-sub"><i>Đi nào, Delphine.</i></p>
+<p class="para-vi-sub">Đi nào, Delphine.</p>
 
-<p class="para-en"><em>His ear’s off! His ear!</em></p>
+<p class="para-en">His ear’s off! His ear!</p>
 
-<p class="para-vi-sub"><i>Tai hắn đứt rồi kìa! Tai hắn đấy!</i></p>
+<p class="para-vi-sub">Tai hắn đứt rồi kìa! Tai hắn đấy!</p>
 
 <p class="para-en">She closed her eyes.</p>
 
 <p class="para-vi-sub">Cô bé nhắm nghiền mắt lại.</p>
 
-<p class="para-en"><em>What about Thomas!</em></p>
+<p class="para-en">What about Thomas!</p>
 
-<p class="para-vi-sub"><i>Còn Thomas thì sao!</i></p>
+<p class="para-vi-sub">Còn Thomas thì sao!</p>
 
 <p class="para-en">She smelled flowers.</p>
 
 <p class="para-vi-sub">Cô bé ngửi thấy mùi hương hoa.</p>
 
-<p class="para-en"><em>Another one.</em></p>
+<p class="para-en">Another one.</p>
 
-<p class="para-vi-sub"><i>Lại một mùi hương nữa.</i></p>
+<p class="para-vi-sub">Lại một mùi hương nữa.</p>
 
-<p class="para-en"><em>Stronger than mine.</em></p>
+<p class="para-en">Stronger than mine.</p>
 
-<p class="para-vi-sub"><i>Nồng nàn hơn của con bé.</i></p>
+<p class="para-vi-sub">Nồng nàn hơn của con bé.</p>
 
-<p class="para-en"><em>It would protect her.</em></p>
+<p class="para-en">It would protect her.</p>
 
-<p class="para-vi-sub"><i>Nó sẽ bảo vệ con bé.</i></p>
+<p class="para-vi-sub">Nó sẽ bảo vệ con bé.</p>
 
-<p class="para-en"><em>WHAT ABOUT THOMAS?</em></p>
+<p class="para-en">WHAT ABOUT THOMAS?</p>
 
-<p class="para-vi-sub"><i>CÒN THOMAS THÌ SAO?</i></p>
+<p class="para-vi-sub">CÒN THOMAS THÌ SAO?</p>
 
-<p class="para-en"><em>Come on, little moon.</em></p>
+<p class="para-en">Come on, little moon.</p>
 
-<p class="para-vi-sub"><i>Đi thôi, Vầng trăng nhỏ của ta.</i></p>
+<p class="para-vi-sub">Đi thôi, Vầng trăng nhỏ của ta.</p>
 
 <p class="para-en">She rolled out the window.</p>
 
 <p class="para-vi-sub">Cô bé lộn người lao ra khỏi khung cửa sổ.</p>
 
-<p class="para-en"><a id="page352"></a>Thomas still had his sword in his hand, though sheathed.</p>
+<p class="para-en">Thomas still had his sword in his hand, though sheathed.</p>
 
 <p class="para-vi-sub">Thomas vẫn cầm thanh kiếm trong tay, dù nó hãy còn nằm trong vỏ.</p>
 
@@ -332,7 +332,7 @@
 
 <p class="para-en">She rolled out the window then, but he never heard her hit the ground.</p>
 
-<p class="para-vi-sub">Rồi cô bé lộn người lao qua cửa sổ, nhưng anh chưa từng nghe thấy tiếng cô bé chạm đất.</p>
+<p class="para-vi-sub">Rồi cô bé lộn người lao qua cửa sổ, nhưng anh chưa từng nghe thấy tiếng cô bé rơi xuống đất.</p>
 
 <p class="para-en">He thought he heard wings.</p>
 
@@ -342,21 +342,21 @@
 
 <p class="para-vi-sub">Thomas lao thẳng vào gã vừa phá cửa xông vào, định bụng húc ngã hắn, với hy vọng sẽ tóm được một tên nhỏ con hơn ở phía sau. Anh lao vào tên lính to lớn, nhưng lực va chạm vẫn chưa đủ mạnh.</p>
 
-<p class="para-en"><em>I thought I had him</em></p>
+<p class="para-en">I thought I had him</p>
 
-<p class="para-vi-sub"><i>Ta cứ tưởng đã tóm được hắn</i></p>
+<p class="para-vi-sub">Ta cứ tưởng đã tóm được hắn</p>
 
-<p class="para-en"><em>I’m in the comte’s body I’m not as strong</em></p>
+<p class="para-en">I’m in the comte’s body I’m not as strong</p>
 
-<p class="para-vi-sub"><i>Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa</i></p>
+<p class="para-vi-sub">Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa</p>
 
 <p class="para-en">The man reeled back against the wall but gathered himself and gave the Comte d’Évreux the back end of his axe, breaking teeth.</p>
 
 <p class="para-vi-sub">Gã đàn ông lảo đảo ngã ngửa vào tường nhưng nhanh chóng lấy lại thăng bằng, vung phần chuôi rìu nện thẳng vào mặt d’Évreux, làm gãy rụng cả răng.</p>
 
-<p class="para-en"><em>His body but I feel it GOD</em></p>
+<p class="para-en">His body but I feel it GOD</p>
 
-<p class="para-vi-sub"><i>Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA</i></p>
+<p class="para-vi-sub">Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA</p>
 
 <p class="para-en">He fell.</p>
 
@@ -366,9 +366,9 @@
 
 <p class="para-vi-sub">Anh quơ tay tìm kiếm thanh kiếm của mình, nhưng chẳng thấy đâu.</p>
 
-<p class="para-en"><em>GOD</em></p>
+<p class="para-en">GOD</p>
 
-<p class="para-vi-sub"><i>LẠY CHÚA</i></p>
+<p class="para-vi-sub">LẠY CHÚA</p>
 
 <p class="para-en">They hit him again.</p>
 

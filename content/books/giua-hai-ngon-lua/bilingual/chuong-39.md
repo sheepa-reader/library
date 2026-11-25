@@ -10,33 +10,33 @@
 
 <p class="para-vi-sub">Đây là cơn ác mộng tồi tệ nhất từ trước tới nay.</p>
 
-<p class="para-en">He leaned close to look, but made sure he did not let the candle drip on the man’s full cheeks or big nose. That would be like a story he had told him about a curious woman who drove away an angel. Was it an angel? Maybe just a boy with wings. The <em>maître</em> told him too many stories to keep them all separate.</p>
+<p class="para-en">He leaned close to look, but made sure he did not let the candle drip on the man’s full cheeks or big nose. That would be like a story he had told him about a curious woman who drove away an angel. Was it an angel? Maybe just a boy with wings. The maître told him too many stories to keep them all separate.</p>
 
-<p class="para-vi-sub">Cậu rướn người lại gần để quan sát, nhưng cẩn thận không để sáp nến nhỏ lên đôi má đầy đặn hay chiếc mũi to của người đàn ông. Việc đó sẽ giống như câu chuyện mà ông từng kể cho cậu nghe về một người phụ nữ tò mò đã xua đuổi một vị thiên thần. Có phải là thiên thần không? Có lẽ chỉ là một cậu bé có đôi cánh. Vị <i>maître</i> đã kể cho cậu quá nhiều câu chuyện đến mức cậu không thể nhớ rạch ròi tất cả.</p>
+<p class="para-vi-sub">Cậu rướn người lại gần để quan sát, nhưng cẩn thận không để sáp nến nhỏ lên đôi má đầy đặn hay chiếc mũi to của người đàn ông. Việc đó sẽ giống như câu chuyện mà ông từng kể cho cậu nghe về một người phụ nữ tò mò đã xua đuổi một vị thiên thần. Có phải là thiên thần không? Có lẽ chỉ là một cậu bé có đôi cánh. Vị maître đã kể cho cậu quá nhiều câu chuyện đến mức cậu không thể nhớ rạch ròi tất cả.</p>
 
-<p class="para-en"><em>“Maître?”</em> he said, but very quietly.</p>
+<p class="para-en">“Maître?” he said, but very quietly.</p>
 
-<p class="para-vi-sub"><i>“Maître?”</i> cậu cất lời, nhưng rất khẽ.</p>
+<p class="para-vi-sub">“Maître?” cậu cất lời, nhưng rất khẽ.</p>
 
-<p class="para-en">He had learned not to wake him in these times, but he dearly wanted to end this particular dream. Did men die of dreams? He would try to remember to ask the doctor in the morning. Not tonight, <a id="page354"></a>though. He stood with the candle ready to light him to whatever the <em>maître</em> might ask him for.</p>
+<p class="para-en">He had learned not to wake him in these times, but he dearly wanted to end this particular dream. Did men die of dreams? He would try to remember to ask the doctor in the morning. Not tonight, though. He stood with the candle ready to light him to whatever the maître might ask him for.</p>
 
-<p class="para-vi-sub">Cậu đã học được cách không đánh thức ông trong những lúc như thế này, nhưng cậu rất muốn chấm dứt giấc mơ cụ thể ấy. Con người có chết vì những giấc mơ không? Cậu sẽ cố gắng nhớ để hỏi bác sĩ vào buổi sáng. Tuy nhiên, không phải tối nay, cậu thầm nghĩ. Cậu đứng đó với ngọn nến sẵn sàng soi đường cho bất cứ thứ gì vị <i>maître</i> có thể yêu cầu.</p>
+<p class="para-vi-sub">Cậu đã học được cách không đánh thức ông trong những lúc như thế này, nhưng cậu rất muốn chấm dứt giấc mơ cụ thể ấy. Con người có chết vì những giấc mơ không? Cậu sẽ cố gắng nhớ để hỏi bác sĩ vào buổi sáng. Tuy nhiên, không phải tối nay, cậu thầm nghĩ. Cậu đứng đó với ngọn nến sẵn sàng soi đường cho bất cứ thứ gì vị maître có thể yêu cầu.</p>
 
-<p class="para-en"><em>Wine,</em> the boy thought.</p>
+<p class="para-en">Wine, the boy thought.</p>
 
-<p class="para-vi-sub"><i>Rượu,</i> cậu bé nghĩ.</p>
+<p class="para-vi-sub">Rượu, cậu bé nghĩ.</p>
 
-<p class="para-en"><em>The worst ones always wake him and he asks me for wine.</em></p>
+<p class="para-en">The worst ones always wake him and he asks me for wine.</p>
 
-<p class="para-vi-sub"><i>Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.</i></p>
+<p class="para-vi-sub">Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.</p>
 
-<p class="para-en"><em>But if I pour the wine and he does not wake, I shall have to put it back in the jug and clean the goblet so the little bugs don’t get in it.</em></p>
+<p class="para-en">But if I pour the wine and he does not wake, I shall have to put it back in the jug and clean the goblet so the little bugs don’t get in it.</p>
 
-<p class="para-vi-sub"><i>Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.</i></p>
+<p class="para-vi-sub">Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.</p>
 
-<p class="para-en"><em>Pour the wine, Tristan.</em></p>
+<p class="para-en">Pour the wine, Tristan.</p>
 
-<p class="para-vi-sub"><i>Hãy rót rượu đi, Tristan.</i></p>
+<p class="para-vi-sub">Hãy rót rượu đi, Tristan.</p>
 
 <p class="para-en">He took a little enameled goblet from its shelf and poured wine from a pewter jug with three rooster’s feet. He was fond of that jug, as he was fond of the smell of wine. Not lately, though. Something was off, like a hint of rot. Had they waited too late to get the grapes in? He had worked as assistant to a baker, and thought to work his way up to being a butler and minding the pope’s fruit cellar at the foot of the kitchen tower, so good was he at ferreting out rottenness. His mother said he had the nose of a dog. But the great doctor had seen what a clever boy he was and pulled him from the kitchens to replace his former boy, who had died of the plague.</p>
 
@@ -46,9 +46,9 @@
 
 <p class="para-vi-sub">Thực ra, ba trợ lý của bác sĩ đã chết vì bệnh dịch hạch, nhưng vị bác sĩ nhân hậu thì chưa từng mắc phải.</p>
 
-<p class="para-en"><em>Not yet,</em> he would have corrected. Or he might have said <em>insh’allah</em>, a word he had learned from Arab texts. It meant something like <em>So God be pleased</em>, but Tristan didn’t understand why he didn’t just say that.</p>
+<p class="para-en">Not yet, he would have corrected. Or he might have said insh’allah, a word he had learned from Arab texts. It meant something like So God be pleased, but Tristan didn’t understand why he didn’t just say that.</p>
 
-<p class="para-vi-sub"><i>Vẫn chưa,</i> ông hẳn đã đính chính như vậy. Hoặc ông có thể đã nói <i>insh’allah</i>, một từ mà cậu học được từ các văn bản tiếng Ả Rập. Nó có nghĩa đại loại như <i>Nguyện xin ơn trên chứng giám</i>, nhưng Tristan không hiểu tại sao ông không nói thẳng như thế cho rồi.</p>
+<p class="para-vi-sub">Vẫn chưa, ông hẳn đã đính chính như vậy. Hoặc ông có thể đã nói insh’allah, một từ mà cậu học được từ các văn bản tiếng Ả Rập. Nó có nghĩa đại loại như Nguyện xin ơn trên chứng giám, nhưng Tristan không hiểu tại sao ông không nói thẳng như thế cho rồi.</p>
 
 <p class="para-en">“Tristan.”</p>
 
@@ -62,15 +62,15 @@
 
 <p class="para-vi-sub">“Tristan, giúp ta mặc y phục.”</p>
 
-<p class="para-en">“Yes, <em>maître</em>. Are you sure? It is still long before morning.”</p>
+<p class="para-en">“Yes, maître. Are you sure? It is still long before morning.”</p>
 
-<p class="para-vi-sub">“Vâng, thưa <i>maître</i>. Ngài có chắc không? Vẫn còn lâu mới đến sáng.”</p>
+<p class="para-vi-sub">“Vâng, thưa maître. Ngài có chắc không? Vẫn còn lâu mới đến sáng.”</p>
 
 <p class="para-en">“Just get my clothes together, please.”</p>
 
 <p class="para-vi-sub">“Cứ chuẩn bị quần áo giúp ta, làm ơn.”</p>
 
-<p class="para-en">The man and the boy went into one of the grand, vaulted hallways of the palace, and the physician stopped, considering. He looked left, in <a id="page355"></a>the direction that led to the pope’s bedroom and adjoining study. The boy waited with the candle, looking very much like a small dog waiting for its master to open a door.</p>
+<p class="para-en">The man and the boy went into one of the grand, vaulted hallways of the palace, and the physician stopped, considering. He looked left, in the direction that led to the pope’s bedroom and adjoining study. The boy waited with the candle, looking very much like a small dog waiting for its master to open a door.</p>
 
 <p class="para-vi-sub">Người đàn ông và cậu bé bước vào một trong những hành lang vòm tráng lệ của cung điện, rồi vị y sư dừng lại, trầm ngâm suy nghĩ. Ông nhìn sang bên trái, hướng dẫn đến phòng ngủ và phòng làm việc liền kề của Đức Giáo Hoàng. Cậu bé đứng đợi cùng ngọn nến, trông rất giống một chú chó nhỏ đang chờ chủ nhân mở cửa.</p>
 
@@ -114,7 +114,7 @@
 
 <p class="para-vi-sub">Giờ thì họ lại rời đi, cậu bé vội vã rảo bước để theo kịp những bước chân có mục đích rõ ràng của chủ nhân. Lần này ông rẽ phải và mở một cánh cửa dẫn đến một lối cầu thang mà Tristan vốn biết nhưng đã được cảnh báo là không bao giờ được đi theo.</p>
 
-<p class="para-en">“I know you wonder why I’m going to this ghastly place, let alone taking you. The truth is I cannot say. Except that the people who work <a id="page356"></a>their art down here are the sort of men who might need two pairs of eyes on them to do the right thing.”</p>
+<p class="para-en">“I know you wonder why I’m going to this ghastly place, let alone taking you. The truth is I cannot say. Except that the people who work their art down here are the sort of men who might need two pairs of eyes on them to do the right thing.”</p>
 
 <p class="para-vi-sub">“Ta biết con đang tự hỏi tại sao ta lại đến cái nơi khủng khiếp này, chứ chưa nói đến chuyện kéo cả con theo. Sự thật là ta không thể nói được. Ngoại trừ việc những kẻ thực hiện ngón nghề của chúng dưới địa ngục trần gian này là kiểu người cần đến hai cặp mắt giám sát để làm cho đúng đắn.”</p>
 
@@ -122,17 +122,17 @@
 
 <p class="para-vi-sub">Một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.</p>
 
-<p class="para-en"><em>The dungeon.</em></p>
+<p class="para-en">The dungeon.</p>
 
-<p class="para-vi-sub"><i>Hầm ngục.</i></p>
+<p class="para-vi-sub">Hầm ngục.</p>
 
-<p class="para-en"><em>This is the dungeon.</em></p>
+<p class="para-en">This is the dungeon.</p>
 
-<p class="para-vi-sub"><i>Đây chính là hầm ngục.</i></p>
+<p class="para-vi-sub">Đây chính là hầm ngục.</p>
 
-<p class="para-en"><em>They put thieves and sorcerers here.</em></p>
+<p class="para-en">They put thieves and sorcerers here.</p>
 
-<p class="para-vi-sub"><i>Họ nhốt những tên trộm và phù thủy ở đây.</i></p>
+<p class="para-vi-sub">Họ nhốt những tên trộm và phù thủy ở đây.</p>
 
 <p class="para-en">It had not occurred to Tristan, who had the deepest confidence in Maître de Chauliac, to be afraid until just that moment.</p>
 
@@ -174,7 +174,7 @@
 
 <p class="para-vi-sub">“Hạ hắn xuống đi.”</p>
 
-<p class="para-en"><a id="page357"></a>“And put him where?” the gaoler said, growing suspicious.</p>
+<p class="para-en">“And put him where?” the gaoler said, growing suspicious.</p>
 
 <p class="para-vi-sub">“Rồi đem thả vào đâu?” Tên cai ngục cất lời, bắt đầu hoài nghi.</p>
 
@@ -194,9 +194,9 @@
 
 <p class="para-vi-sub">Vị bác sĩ nhận thức rõ lớp mồ hôi lạnh bắt đầu túa ra bên dưới lớp áo choàng.</p>
 
-<p class="para-en"><em>He will not come yet please not yet</em> insh’allah.</p>
+<p class="para-en">He will not come yet please not yet insh’allah.</p>
 
-<p class="para-vi-sub"><i>Xin chớ đến lúc này, làm ơn đừng đến lúc này,</i> insh’allah.</p>
+<p class="para-vi-sub">Xin chớ đến lúc này, làm ơn đừng đến lúc này, insh’allah.</p>
 
 <p class="para-en">“And I have it from the good Clement that he is to leave with me. You might recognize that seal,” the doctor said, handing his parchment to the other, who recognized his name on the outside and snapped the seal.</p>
 
@@ -234,7 +234,7 @@
 
 <p class="para-vi-sub">Thomas đau đớn dữ dội ở rất nhiều nơi đến mức một thứ cảm giác tê dại kỳ lạ đã bao trùm lấy cơ thể anh. Nỗi khổ lớn nhất của anh lúc này là cái lạnh, thứ cảm giác như thể sẽ chẳng bao giờ chịu rời khỏi người anh.</p>
 
-<p class="para-en">He did not know who the man was that wheeled him out of the oubliettes and through a door meant for horses and carts, but he sensed that he would have died had he remained. Not of his injuries. <a id="page358"></a>Something had been coming for him, and he had just escaped. Had he remained, he would not only have died, he would have died spectacularly.</p>
+<p class="para-en">He did not know who the man was that wheeled him out of the oubliettes and through a door meant for horses and carts, but he sensed that he would have died had he remained. Not of his injuries. Something had been coming for him, and he had just escaped. Had he remained, he would not only have died, he would have died spectacularly.</p>
 
 <p class="para-vi-sub">Thomas không biết kẻ đã đẩy xe đưa anh ra khỏi hầm ngục tối và đi qua một cánh cửa dành cho ngựa với xe là ai, nhưng anh linh cảm rằng mình đã chết nếu cứ ở lại đó. Không phải vì những vết thương. Có cái gì đó đang tìm đến anh, và anh vừa mới trốn thoát được. Nếu ở lại, anh không chỉ chết, mà sẽ chết ngoạn mục.</p>
 
@@ -310,7 +310,7 @@
 
 <p class="para-vi-sub">“Hãy ghi nhớ điều này, con,” vị bác sĩ nói với cậu thiếu niên mà Thomas chưa từng thấy trước đó, người cũng đang trân trân nhìn Delphine với đôi mắt mở lớn.</p>
 
-<p class="para-en"><a id="page359"></a>What were they seeing?</p>
+<p class="para-en">What were they seeing?</p>
 
 <p class="para-vi-sub">Bọn họ đang nhìn thấy gì vậy?</p>
 
@@ -366,7 +366,7 @@
 
 <p class="para-vi-sub">Một người đàn ông vạm vỡ với bộ râu điểm bạc và khuôn mặt đầy sẹo.</p>
 
-<p class="para-en"><em>Him.</em></p>
+<p class="para-en">Him.</p>
 
 <p class="para-vi-sub">Đó chính là anh.</p>
 
@@ -414,7 +414,7 @@
 
 <p class="para-vi-sub">Anh mở mắt ra.</p>
 
-<p class="para-en">The body of the comte twitched now, once, then twice, only now it was under him. His mouth, his actual mouth, was on the dead man, and he pulled up. He breathed in, his strong lungs filling with air, his hands <a id="page360"></a>clutching, ready to grab weapons or levers or to brace against the pillars of the temple. He was strong again. He ran his hand through his full beard, and tugged on his longish hair.</p>
+<p class="para-en">The body of the comte twitched now, once, then twice, only now it was under him. His mouth, his actual mouth, was on the dead man, and he pulled up. He breathed in, his strong lungs filling with air, his hands clutching, ready to grab weapons or levers or to brace against the pillars of the temple. He was strong again. He ran his hand through his full beard, and tugged on his longish hair.</p>
 
 <p class="para-vi-sub">Thi thể của vị bá tước giờ đây giật nảy lên một cái, rồi hai cái, chỉ có điều lúc này nó đang nằm ở bên dưới anh. Cái miệng của anh, cái miệng thực sự của anh, đang áp lên cái xác chết, và anh ngẩng phắt dậy. Anh hít một hơi thật sâu, bầu không khí tràn ngập vào buồng phổi lực lưỡng, hai bàn tay bấu chặt lại, sẵn sàng vớ lấy vũ khí hay cần gạt hoặc bám víu vào những trụ cột của ngôi đền. Anh đã mạnh mẽ trở lại. Anh luồn tay cào qua bộ râu rậm rạp và giật nhẹ mái tóc dài của mình.</p>
 

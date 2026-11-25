@@ -4,7 +4,7 @@
 
 Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau; Delphine nghĩ về câu chuyện người vợ của ông Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần rồi cuối cùng vẫn làm vậy. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây; tuy nhiên, cột khói lần này nằm ở trong thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt của Delphine chính là toán quân tiên phong của trận mưa như trút nước cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh; ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện; một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân họ? Nếu các bức tượng có thể đi bộ, hà cớ gì bọn chúng lại không thể? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân mình; đến bao giờ em mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên chị? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.
 
-<i>Lạy Chúa, xin đừng để họ phải chết vì con.</i>
+Lạy Chúa, xin đừng để họ phải chết vì con.
 
 Và rồi trời cứ mưa, mưa mãi, và mưa không dứt.
 
@@ -16,7 +16,7 @@ Cái kho không hề bỏ hoang.
 
 Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn của lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.
 
-<i>Lạy Chúa tôi, lão định ăn thịt mình kìa.</i>
+Lạy Chúa tôi, lão định ăn thịt mình kìa.
 
 Ngay lúc đó Thomas và Delphine bước vào, Thomas với thanh kiếm đã tuốt trần, và gã đàn ông liền tháo chạy qua cánh cửa bên kia, ngã nhào khi cạnh của lưỡi hái vướng vào khung cửa rồi tuột khỏi tay lão, nhưng gần như ngay lập tức lão lại lồm cồm bò dậy được. Lão chạy thục mạng băng qua cánh đồng đọng đầy nước và cứ thế chạy miết, đôi chân trần tung nước bắn tung tóe suốt dọc đường, biến mất không phải theo hướng ngôi nhà, mà hướng về phía rặng cây ở phía bên kia cánh đồng.
 
@@ -230,7 +230,7 @@ Thomas lại ngước nhìn bầu trời.
 
 Thomas không đáp.
 
-“Tôi biết rồi. Câu hỏi ngớ ngẩn thật. Chẳng đáng tầm vóc của William xứ Ockham<a class="noteanchor" epub:type="noteref" href="footnotes.xhtml#ftn11">[11]</a> gì cả. Đáng ra tôi nên hỏi là ngài có gặp ác mộng không. Tôi có đấy. Ngài có muốn biết nội dung là gì không?”
+“Tôi biết rồi. Câu hỏi ngớ ngẩn thật. Chẳng đáng tầm vóc của William xứ Ockham[11] gì cả. Đáng ra tôi nên hỏi là ngài có gặp ác mộng không. Tôi có đấy. Ngài có muốn biết nội dung là gì không?”
 
 Thomas vẫn im lặng.
 

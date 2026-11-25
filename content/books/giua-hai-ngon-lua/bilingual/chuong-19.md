@@ -26,11 +26,11 @@
 
 <p class="para-vi-sub">“Ta phải ăn thứ gì đó chứ. Ta sắp phát điên vì cái sự đói khát khốn kiếp này rồi.”</p>
 
-<p class="para-en">“<em>NOT</em> the mule,” she said, and that put an end to it.</p>
+<p class="para-en">“NOT the mule,” she said, and that put an end to it.</p>
 
-<p class="para-vi-sub">“<i>KHÔNG</i> được ăn con la,” cô bé nói, và điều đó đã chấm dứt câu chuyện.</p>
+<p class="para-vi-sub">“KHÔNG được ăn con la,” cô bé nói, và điều đó đã chấm dứt câu chuyện.</p>
 
-<p class="para-en">The soldiers came then, just at first light. No fewer than six knights and another twenty men-at-arms rode up on them, the horses’ hooves shaking the road. A voice shouted, “Get that cart out of the way,” barely leaving them enough time to do so, startling Père Matthieu so that he <a id="page189"></a>reined the mule hard, taking one wheel off the road and causing them all to be buffeted by low branches. One of the knights called, “Hooo,” slowing his horse to a stop and obliging the rest to stop as well.</p>
+<p class="para-en">The soldiers came then, just at first light. No fewer than six knights and another twenty men-at-arms rode up on them, the horses’ hooves shaking the road. A voice shouted, “Get that cart out of the way,” barely leaving them enough time to do so, startling Père Matthieu so that he reined the mule hard, taking one wheel off the road and causing them all to be buffeted by low branches. One of the knights called, “Hooo,” slowing his horse to a stop and obliging the rest to stop as well.</p>
 
 <p class="para-vi-sub">Bọn lính xuất hiện ngay sau đó, đúng vào lúc rạng sáng. Không dưới sáu hiệp sĩ và thêm khoảng hai mươi lính chiến tiến đến chỗ họ, tiếng móng ngựa làm rung chuyển cả con đường. Một giọng nói thét lên: “Tránh cái xe hàng đó ra,” vừa vặn cho họ chút ít thời gian để nép sang bên, làm cho cha Matthieu giật mình đến mức ông giật mạnh dây cương con la, khiến một bên bánh xe lệch khỏi mặt đường và tất cả bọn họ bị những cành cây thấp quất vào người. Một trong số các hiệp sĩ hô lên: “Hooo,” kìm ngựa lại cho đến khi dừng hẳn và buộc những người khác cũng phải dừng lại theo.</p>
 
@@ -66,17 +66,17 @@
 
 <p class="para-vi-sub">Gã đàn ông trừng mắt nhìn Thomas một lúc trong khi hắn cân nhắc xem lời của anh là một lời nói đùa hay một sự sỉ nhục. Cuối cùng hắn quyết định đó chỉ là một lời nói đùa.</p>
 
-<p class="para-en"><em>“Ha!”</em> he barked. “What are you doing in that cart, man?”</p>
+<p class="para-en">“Ha!” he barked. “What are you doing in that cart, man?”</p>
 
-<p class="para-vi-sub"><i>“Ha!”</i> hắn phá lên cười. “Ngươi đang làm gì trên chiếc xe đó thế, hở bạn?”</p>
+<p class="para-vi-sub">“Ha!” hắn phá lên cười. “Ngươi đang làm gì trên chiếc xe đó thế, hở bạn?”</p>
 
 <p class="para-en">“We’re going to the Holy Land to fetch back the True Cross.”</p>
 
 <p class="para-vi-sub">“Chúng tôi đang đến Đất Thánh để mang Thập Giá Thật trở về.”</p>
 
-<p class="para-en">“<em>Ha!</em> This is a man of levity. He might lighten our journey with his japes if he were of a mind to come with us.”</p>
+<p class="para-en">“Ha! This is a man of levity. He might lighten our journey with his japes if he were of a mind to come with us.”</p>
 
-<p class="para-vi-sub"><i>“Ha!</i> Đúng là một gã hay đùa cợt. Gã có thể làm cuộc hành trình của chúng ta bớt nhàm chán với mấy trò tiêu khiển nếu gã chịu đi cùng chúng ta đấy.”</p>
+<p class="para-vi-sub">“Ha! Đúng là một gã hay đùa cợt. Gã có thể làm cuộc hành trình của chúng ta bớt nhàm chán với mấy trò tiêu khiển nếu gã chịu đi cùng chúng ta đấy.”</p>
 
 <p class="para-en">“Never mind him,” said a youthful knight with golden locks. “Can’t you see he’s fallen? This man is a brigand.”</p>
 
@@ -106,7 +106,7 @@
 
 <p class="para-vi-sub">“Các ngươi định đi đâu?”</p>
 
-<p class="para-en"><a id="page190"></a>“Avignon. His Holiness has summoned certain knights to him. There’s talk of a new crusade.”</p>
+<p class="para-en">“Avignon. His Holiness has summoned certain knights to him. There’s talk of a new crusade.”</p>
 
 <p class="para-vi-sub">“Avignon. Đức Thánh Cha đã triệu tập một số hiệp sĩ diện kiến ngài. Đang có bàn tán về một cuộc thập tự chinh mới.”</p>
 
@@ -158,21 +158,21 @@
 
 <p class="para-vi-sub">“Cứ đi đường các người đi,” Thomas lạnh lùng nói, “còn ta sẽ đi đường của ta.”</p>
 
-<p class="para-en"><em>Did that knight’s nose just wrinkle like a lion’s?</em></p>
+<p class="para-en">Did that knight’s nose just wrinkle like a lion’s?</p>
 
-<p class="para-vi-sub"><i>Mũi tên hiệp sĩ vừa nhăn lại giống như mũi sư tử phải không?</i></p>
+<p class="para-vi-sub">Mũi tên hiệp sĩ vừa nhăn lại giống như mũi sư tử phải không?</p>
 
 <p class="para-en">His surcoat was different now; behind the chevron, a lion rampant tore an old man in an arena.</p>
 
 <p class="para-vi-sub">Áo giáp khoác ngoài của gã giờ đã khác; phía sau hình chữ V, một con sư tử đứng bằng hai chân sau đang xé xác một ông già trong đấu trường.</p>
 
-<p class="para-en"><em>Monkeys eating a wild-eyed horse.</em></p>
+<p class="para-en">Monkeys eating a wild-eyed horse.</p>
 
-<p class="para-vi-sub"><i>Những con khỉ đang ăn thịt một con ngựa mắt trợn trừng.</i></p>
+<p class="para-vi-sub">Những con khỉ đang ăn thịt một con ngựa mắt trợn trừng.</p>
 
-<p class="para-en"><em>The dead woman’s moley back in the pit.</em></p>
+<p class="para-en">The dead woman’s moley back in the pit.</p>
 
-<p class="para-vi-sub"><i>Cái lưng đầy nốt ruồi của người phụ nữ đã chết dưới hố sâu.</i></p>
+<p class="para-vi-sub">Cái lưng đầy nốt ruồi của người phụ nữ đã chết dưới hố sâu.</p>
 
 <p class="para-en">“Who is the girl?” the knight said.</p>
 
@@ -182,9 +182,9 @@
 
 <p class="para-vi-sub">“Chỉ là một đứa trẻ mồ côi thôi.”</p>
 
-<p class="para-en">“Who is she <em>really</em>?”</p>
+<p class="para-en">“Who is she really?”</p>
 
-<p class="para-vi-sub">“Nó <i>thực sự</i> là ai?”</p>
+<p class="para-vi-sub">“Nó thực sự là ai?”</p>
 
 <p class="para-en">“Ask your mother.”</p>
 
@@ -194,11 +194,11 @@
 
 <p class="para-vi-sub">“Ha.”</p>
 
-<p class="para-en">Thomas’s hand drifted for the handle again, and again Delphine steered it away, saying under her breath, <em>“It’s what they want. These are only shades, but your anger is feeding them. Get rid of it.”</em></p>
+<p class="para-en">Thomas’s hand drifted for the handle again, and again Delphine steered it away, saying under her breath, “It’s what they want. These are only shades, but your anger is feeding them. Get rid of it.”</p>
 
-<p class="para-vi-sub">Bàn tay Thomas lại lướt tìm cán kiếm, và một lần nữa Delphine lại gạt tay anh ra, thì thầm trong miệng: <i>“Đó là điều chúng muốn. Bọn chúng chỉ là những cái bóng, nhưng sự giận dữ của chú đang tiếp thêm sức mạnh cho chúng đấy. Hãy vứt bỏ nó đi.”</i></p>
+<p class="para-vi-sub">Bàn tay Thomas lại lướt tìm cán kiếm, và một lần nữa Delphine lại gạt tay anh ra, thì thầm trong miệng: “Đó là điều chúng muốn. Bọn chúng chỉ là những cái bóng, nhưng sự giận dữ của chú đang tiếp thêm sức mạnh cho chúng đấy. Hãy vứt bỏ nó đi.”</p>
 
-<p class="para-en">“Ha,” Thomas said. Then he imagined the knight’s nose was the <a id="page191"></a>tail of a horse. He pictured it lifting and a pile of road apples falling out of the knight’s mouth. His defiant “Ha” turned into an actual laugh, and he let himself laugh freely.</p>
+<p class="para-en">“Ha,” Thomas said. Then he imagined the knight’s nose was the tail of a horse. He pictured it lifting and a pile of road apples falling out of the knight’s mouth. His defiant “Ha” turned into an actual laugh, and he let himself laugh freely.</p>
 
 <p class="para-vi-sub">“Ha,” Thomas thốt lên. Sau đó, anh tưởng tượng mũi của tên hiệp sĩ chính là cái đuôi của một con ngựa. Anh hình dung nó đang nhấc lên và một đống phân ngựa rơi ra từ miệng tên hiệp sĩ. Tiếng cười thách thức “Ha” của anh biến thành một tiếng cười thực sự, và anh thả lỏng để mặc mình cười sảng khoái.</p>
 
@@ -254,11 +254,11 @@
 
 <p class="para-vi-sub">“Chúng tôi có thể tìm thức ăn ở đâu?”</p>
 
-<p class="para-en">“Wait till one of you starves,” he advised. “Then eat that one. That’s how we’re managing. We call it <em>Gigot de Nemours</em>. But no one comes in, and by God no one goes out.”</p>
+<p class="para-en">“Wait till one of you starves,” he advised. “Then eat that one. That’s how we’re managing. We call it Gigot de Nemours. But no one comes in, and by God no one goes out.”</p>
 
 <p class="para-vi-sub">“Hãy đợi cho đến khi một trong số các người chết đói,” hắn khuyên. “Rồi ăn kẻ đó. Chúng tôi vẫn đang xoay xở như thế đấy. Bọn tôi gọi đó là Món đùi người Nemours. Nhưng không một ai được bước vào, và thề có Chúa là không một ai được bước ra.”</p>
 
-<p class="para-en">On the other side of the town, near the banks of the Loing, they came across an encampment of twenty or so men and women hauling in <a id="page192"></a>nets and working little patches of field. It was unusual to see such industry now. Something was cooking in a large stew pot, and it smelled like hot, greasy heaven. The priest pulled the cart up to the rough-hewn new-wood fence.</p>
+<p class="para-en">On the other side of the town, near the banks of the Loing, they came across an encampment of twenty or so men and women hauling in nets and working little patches of field. It was unusual to see such industry now. Something was cooking in a large stew pot, and it smelled like hot, greasy heaven. The priest pulled the cart up to the rough-hewn new-wood fence.</p>
 
 <p class="para-vi-sub">Ở phía bên kia thị trấn, gần bờ sông Loing, họ bắt gặp một trại khoảng hai mươi người cả nam lẫn nữ đang kéo lưới và làm việc trên những mảnh ruộng nhỏ. Thật hiếm hoi khi thấy cảnh làm ăn chăm chỉ đến thế vào lúc này. Có thứ gì đó đang sôi sục trong một cái nồi hầm lớn, và nó sực nức mùi thơm béo ngậy tựa như mùi thức ăn nóng hổi từ Thiên Đàng. Vị linh mục kéo chiếc xe kéo lại gần hàng rào gỗ mới dựng sơ sài.</p>
 
@@ -318,7 +318,7 @@
 
 <p class="para-vi-sub">“Chúng tôi đang chết đói. Bà có thể giúp chúng tôi không?”</p>
 
-<p class="para-en"><a id="page193"></a>The woman scratched her chin, looking them over.</p>
+<p class="para-en">The woman scratched her chin, looking them over.</p>
 
 <p class="para-vi-sub">Người phụ nữ gãi cằm, đưa mắt săm soi họ.</p>
 
@@ -374,7 +374,7 @@
 
 <p class="para-vi-sub">Và đúng vào khoảnh khắc đó, một con chim sẻ đậu trên cành cây ngay phía trên đầu Thomas đã phóng uế vào bát thức ăn của gã.</p>
 
-<p class="para-en"><a id="page194"></a>They slept in a threshing room that still smelled like last year’s barley, and in the morning they got back into the cart. The woman gave them a sack of blueberries and a squash to take with them, and told them there was a town three miles downriver with a wooden bridge still standing.</p>
+<p class="para-en">They slept in a threshing room that still smelled like last year’s barley, and in the morning they got back into the cart. The woman gave them a sack of blueberries and a squash to take with them, and told them there was a town three miles downriver with a wooden bridge still standing.</p>
 
 <p class="para-vi-sub">Họ ngủ trong một căn phòng đập lúa vẫn còn thoang thoảng mùi lúa mạch của năm ngoái, và vào buổi sáng, họ lại trèo lên chiếc xe kéo. Người phụ nữ đưa cho họ một túi quả việt quất cùng một quả bí ngô mang theo đường, đồng thời bảo họ rằng cách đó ba dặm xuôi dòng sông có một thị trấn vẫn còn cây cầu gỗ đứng vững.</p>
 
@@ -398,6 +398,6 @@
 
 <p class="para-vi-sub">Vị linh mục run rẩy và làm dấu thánh giá.</p>
 
-<p class="para-en"><span class="caps">RAPIST</span></p>
+<p class="para-en">RAPIST</p>
 
-<p class="para-vi-sub"><span class="caps">KẺ HIẾP DÂM</span></p>
+<p class="para-vi-sub">KẺ HIẾP DÂM</p>

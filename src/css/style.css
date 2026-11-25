@@ -2047,6 +2047,19 @@ button {
   text-align: center !important;
 }
 
+.bilingual-pair.chapter-subtitle-pair {
+  margin-top: 2.5rem !important;
+  margin-bottom: 1.5rem !important;
+  text-align: center !important;
+}
+
+.bilingual-pair.chapter-subtitle-pair .bilingual-vi-content,
+.bilingual-pair.chapter-subtitle-pair .bilingual-en-content {
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 1.25rem;
+}
+
 .reader-content p {
   margin-bottom: 1.35rem;
   text-align: justify;

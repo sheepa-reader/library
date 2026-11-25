@@ -4,25 +4,25 @@
 
 Thomas quỵ xuống. Thế giới chìm trong một màu đen ngòm. Gã biết mình sắp chết, cảm giác trôi dạt ấy lại ùa về, và gã vẫn cố nhìn xem cô bé ở đâu, liệu con bé có an toàn không. Gã không thể nhìn qua lũ ác quỷ với đôi cánh xòe rộng đằng sau, dù gã biết chúng đang tàn sát. Tạo ra nhiều kẻ giống như gã hơn. Những xác chết. Những thể xác tàn tạ. Tầm nhìn của gã vụt tắt và một bức màn đen sập xuống; gã cảm thấy những viên gạch ở sân chầu phẳng lì bên dưới mình lúc này, gương mặt áp lên đó. Lạnh lẽo. Gã ngửi thấy mùi hôi thối của những thiên thần sa ngã, tàn bạo và buồn nôn. Gã lắng nghe nhịp đập trái tim mình nhưng chỉ nghe thấy sự im lặng trong lồng ngực. Cánh tay của gã đã đứt lìa, điều đó gã còn nhớ, nhưng gã chẳng thể cảm nhận được bất kỳ thớ bắp thịt nào nữa. Gã có cảm giác dạ dày mình đang trống rỗng trào qua đường miệng, nhưng gã không thở, thế nên gã chẳng sợ bị nghẹn. Rồi gã cảm thấy ruột gan và bàng quang của mình đang trút sạch. Sau đó gã xuất tinh, hầu như chẳng cảm nhận được gì, đó là khoái cảm cuối cùng và mờ nhạt của cơ thể gã. Những hình ảnh và lời nói hiện lên trong đầu gã dồn dập, bên trong tâm trí gã nhưng còn lớn hơn cả tiếng rít điên cuồng vang lên bên ngoài, một âm thanh mà gã đã từng nghe trước đây, nhưng giờ thì nó xa xăm, lùi xa dần và chẳng còn quan trọng nữa.
 
-<i>Lũ khốn kiếp đó hát ca như vậy đấy</i>
+Lũ khốn kiếp đó hát ca như vậy đấy
 
 Gã mỉm cười trước ý nghĩ đó, hoặc nghĩ rằng mình đã cười, nhưng gã đã vượt quá khả năng cử động bất kỳ phần nào trên cơ thể, thậm chí là những cơ bắp nhỏ xíu kéo khóe miệng. Thính giác của gã chớp tắt, chỉ để lại những suy nghĩ.
 
-<i>Thế này là hết sao?</i>
+Thế này là hết sao?
 
-<i>Đến cái này rồi cũng sẽ dừng lại khi nào?</i>
+Đến cái này rồi cũng sẽ dừng lại khi nào?
 
-<i>Những kẻ ta từng giết đã trải qua chuyện này thế nào?</i>
+Những kẻ ta từng giết đã trải qua chuyện này thế nào?
 
 Một thứ gì đó trong người gã buông lỏng, và thị lực của gã đã hồi phục. Gã nhìn thấy chính mình tựa như từ trên cao nhìn xuống trong một vũng máu đang loang rộng. Đôi mắt của gã, thứ mà gã nghĩ đã nhắm nghiền, kỳ thực không phải vậy.
 
-<i>Ta già rồi,</i> gã nghĩ. <i>Ta già đi tự bao giờ thế?</i>
+Ta già rồi, gã nghĩ. Ta già đi tự bao giờ thế?
 
-<i>Máu dính trên bộ râu trắng.</i>
+Máu dính trên bộ râu trắng.
 
-<i>Bãi nôn nằm bên dưới đó.</i>
+Bãi nôn nằm bên dưới đó.
 
-<i>Trông ta thật gớm ghiếc.</i>
+Trông ta thật gớm ghiếc.
 
 Gã muốn chạm vào khuôn mặt mình nhưng chẳng còn thứ gì để chạm vào nữa.
 
@@ -40,17 +40,17 @@ Và khoảng sân tan biến đi tựa như chưa từng tồn tại.
 
 Thomas lúc này chỉ là một cậu bé, ngước nhìn lên một sinh thể trông thật ghê tởm, nhưng cậu nghĩ nó sẽ không làm hại mình.
 
-<i>Đó không phải việc của nó</i>
+Đó không phải việc của nó
 
-<i>Nó chỉ là một tên thư lại</i>
+Nó chỉ là một tên thư lại
 
 Căn phòng nhỏ bé và mờ tối, và cậu chẳng chắc ánh sáng xuất phát từ đâu: không có giá nến, không có hốc tường, không có lò sưởi, không có cửa sổ.
 
 Không có cửa ra vào.
 
-<i>Làm sao ta thoát ra đây?</i>
+Làm sao ta thoát ra đây?
 
-<i>Liệu ta có thoát nổi không?</i>
+Liệu ta có thoát nổi không?
 
 Cậu cao chưa tới mặt bàn. Kẻ kia đang tra cứu một cuốn sách cùng các tài liệu khác, khập khiễng lê bước quanh cái bàn dựa vào đôi mắt cá chân, bàn chân quặp sang một bên như kẻ thọt; nó mang theo một chiếc ghế đẩu để ngồi xuống cứ sau mỗi ba hoặc bốn bước đi, rõ ràng là đang rất đau đớn. Thomas cứ phải di chuyển vòng quanh để nhìn nó qua chiếc bàn lớn. Cứ như thể nó muốn giấu mình đi trước mặt cậu, như thể nó biết bản thân mình thật gớm ghiếc, đôi mắt chỉ là hai cái hố trên cái đầu xám xịt, vô định hình, làn da loang lổ và mốc meo. Thế nên nó lê bước đau đớn và giữ cái bàn nằm giữa hai bên, kiểm tra cuốn sách, đối chiếu các tấm giấy da cừu với nhau; tay của nó mỗi bên có tận hai khuỷu tay, vậy nên thật khó để đoán xem tiếp theo nó sẽ với lấy thứ gì.
 
@@ -130,7 +130,7 @@ Nói đoạn, nó tóm lấy cánh tay gầy guộc của cậu bé.
 
 Những cái miệng không chỉ mở ra trên bụng nó, mà còn ở rất nhiều nơi khác.
 
-“Không! <i>Không!</i>”
+“Không! Không!”
 
 Nó ăn tươi nuốt sống cậu bé.
 
@@ -138,17 +138,17 @@ Thật đau đớn.
 
 Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu
 
-<i>Thomas de Givras, ta đày đọa ngươi</i>
+Thomas de Givras, ta đày đọa ngươi
 
 và rồi nhai nuốt cậu khi vẫn còn sống.
 
 Cậu run lẩy bẩy và để mặc nó làm vậy.
 
-<i>Ta đày đọa ngươi</i>
+Ta đày đọa ngươi
 
 Cậu khóc nức nở và để mặc nó làm vậy.
 
-<i>Ta đày đọa ngươi</i>
+Ta đày đọa ngươi
 
 Và rồi cậu cứ thế để mặc nó làm vậy.
 

@@ -1,3 +1,3 @@
 # Phần V
 
-Chúa Trời <br/>cất lời đáp
+Chúa Trời cất lời đáp
