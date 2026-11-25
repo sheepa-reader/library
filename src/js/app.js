@@ -1847,17 +1847,23 @@
             <!-- Unified Rating & Awards Showcase Card -->
             ${(book.rating || (Array.isArray(book.awards) && book.awards.length > 0)) ? `
               <div class="detail-showcase-card">
-                ${book.rating ? `
+                ${book.rating ? (() => {
+                  const rScore = typeof book.rating === 'object' ? parseFloat(book.rating.score) : parseFloat(book.rating);
+                  const validScore = isNaN(rScore) ? 0 : rScore;
+                  const rCount = typeof book.rating === 'object' ? (book.rating.count || book.ratingsCount) : (book.ratingsCount || '');
+                  const displayScore = validScore.toFixed(validScore % 1 === 0 ? 1 : 2);
+                  return `
                   <div class="showcase-rating-row">
                     <span class="showcase-brand">GOODREADS</span>
                     ${renderGoodreadsRating(book.rating, { layout: 'raw-stars', size: 15, gap: 2.5 })}
                     <div class="showcase-score-group">
-                      <span class="showcase-score">${(parseFloat(book.rating.score) || 0).toFixed((parseFloat(book.rating.score) || 0) % 1 === 0 ? 1 : 2)}</span>
+                      <span class="showcase-score">${displayScore}</span>
                       <span class="showcase-max">/ 5</span>
                     </div>
-                    ${book.rating.count ? `<span class="showcase-count">(${formatVoteCount(book.rating.count)} đánh giá)</span>` : ''}
+                    ${rCount ? `<span class="showcase-count">(${formatVoteCount(rCount)} đánh giá)</span>` : ''}
                   </div>
-                ` : ''}
+                  `;
+                })() : ''}
                 ${(Array.isArray(book.awards) && book.awards.length > 0) ? `
                   <div class="showcase-awards-list ${book.rating ? 'has-rating-divider' : ''}">
                     ${book.awards.map(award => `
