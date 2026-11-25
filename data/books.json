@@ -9767,5 +9767,229 @@
       "Kỳ Ảo"
     ],
     "teaser": "content/books/giua-hai-ngon-lua/video/teaser.mp4"
+  },
+  {
+    "id": "quai-dieu-giua-man-dem",
+    "title": "Quái Điểu Giữa Màn Đêm",
+    "originalTitle": "The Obscene Bird of Night (El obsceno pájaro de la noche)",
+    "authorId": "jose-donoso",
+    "author": "José Donoso",
+    "cover": "content/books/quai-dieu-giua-man-dem/cover.jpg",
+    "rating": 4.21,
+    "ratingsCount": "5.5k",
+    "description": "“Nếu bạn là kẻ vô danh, cách duy nhất để tồn tại là biến mình thành một cái bóng sống ký sinh trong cuộc đời kẻ khác — hoặc tự khâu kín mọi giác quan để hóa thành một con quái vật câm lặng.”\n\nGiữa dòng chảy rực rỡ của làn sóng văn học Mỹ Latinh thế kỷ XX (Latin American Boom), nếu Gabriel García Márquez dựng nên một Macondo đầy nắng gió huyền thoại, thì nhà văn Chile José Donoso lại kéo người đọc xuống tầng hầm ẩm mốc của ký ức, nơi ranh giới giữa thực tại và hoang tưởng vỡ vụn thành những mảnh gương méo mó. The Obscene Bird of Night (El obsceno pájaro de la noche — tạm dịch: Quái Điểu Giữa Màn Đêm Ô Uế) không phải là một cuốn tiểu thuyết để đọc giải trí nhẹ nhàng; nó là một mê cung Gothic ngột ngạt, đầy ám ảnh và vĩ đại bậc nhất của văn chương hiện đại.",
+    "awards": [
+      "Harold Bloom's Western Canon — Tác phẩm thiết yếu trong danh sách Kinh điển phương Tây của Harold Bloom",
+      "PEN Translation Prize (1974) — Giải thưởng Dịch thuật Văn học PEN",
+      "Premio Nacional de Literatura de Chile (1990) — Giải thưởng Văn học Quốc gia Chile",
+      "Kiệt tác đỉnh cao của làn sóng Bùng nổ Văn học Mỹ Latinh (El Boom)"
+    ],
+    "downloads": {
+      "epub": "content/downloads/quai-dieu-giua-man-dem.epub",
+      "bilingualEpub": "content/downloads/quai-dieu-giua-man-dem-song-ngu.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Lời Tựa Của Dịch Giả",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-1.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Lời Giới Thiệu",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-2.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "Đánh Giá",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-3.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-3.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 1",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-4.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-4.md"
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 2",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-5.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-5.md"
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 3",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-6.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-6.md"
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 4",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-7.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-7.md"
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 5",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-8.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-8.md"
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 6",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-9.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-9.md"
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 7",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-10.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-10.md"
+      },
+      {
+        "id": "chuong-11",
+        "title": "Chương 8",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-11.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-11.md"
+      },
+      {
+        "id": "chuong-12",
+        "title": "Chương 9",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-12.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-12.md"
+      },
+      {
+        "id": "chuong-13",
+        "title": "Chương 10",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-13.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-13.md"
+      },
+      {
+        "id": "chuong-14",
+        "title": "Chương 11",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-14.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-14.md"
+      },
+      {
+        "id": "chuong-15",
+        "title": "Chương 12",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-15.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-15.md"
+      },
+      {
+        "id": "chuong-16",
+        "title": "Chương 13",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-16.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-16.md"
+      },
+      {
+        "id": "chuong-17",
+        "title": "Chương 14",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-17.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-17.md"
+      },
+      {
+        "id": "chuong-18",
+        "title": "Chương 15",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-18.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-18.md"
+      },
+      {
+        "id": "chuong-19",
+        "title": "Chương 16",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-19.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-19.md"
+      },
+      {
+        "id": "chuong-20",
+        "title": "Chương 17",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-20.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-20.md"
+      },
+      {
+        "id": "chuong-21",
+        "title": "Chương 18",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-21.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-21.md"
+      },
+      {
+        "id": "chuong-22",
+        "title": "Chương 19",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-22.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-22.md"
+      },
+      {
+        "id": "chuong-23",
+        "title": "Chương 20",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-23.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-23.md"
+      },
+      {
+        "id": "chuong-24",
+        "title": "Chương 21",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-24.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-24.md"
+      },
+      {
+        "id": "chuong-25",
+        "title": "Chương 22",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-25.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-25.md"
+      },
+      {
+        "id": "chuong-26",
+        "title": "Chương 23",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-26.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-26.md"
+      },
+      {
+        "id": "chuong-27",
+        "title": "Chương 24",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-27.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-27.md"
+      },
+      {
+        "id": "chuong-28",
+        "title": "Chương 25",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-28.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-28.md"
+      },
+      {
+        "id": "chuong-29",
+        "title": "Chương 26",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-29.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-29.md"
+      },
+      {
+        "id": "chuong-30",
+        "title": "Chương 27",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-30.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-30.md"
+      },
+      {
+        "id": "chuong-31",
+        "title": "Chương 28",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-31.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-31.md"
+      },
+      {
+        "id": "chuong-32",
+        "title": "Chương 29",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-32.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-32.md"
+      },
+      {
+        "id": "chuong-33",
+        "title": "Chương 30",
+        "path": "content/books/quai-dieu-giua-man-dem/chuong-33.md",
+        "bilingualPath": "content/books/quai-dieu-giua-man-dem/bilingual/chuong-33.md"
+      }
+    ]
   }
 ]

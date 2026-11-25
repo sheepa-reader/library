@@ -1978,6 +1978,7 @@ button {
 }
 
 .reader-content h2 {
+  text-align: center !important;
   font-size: 1.45rem;
   font-weight: 700;
   margin-top: 2rem;

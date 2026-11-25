@@ -221,5 +221,13 @@
     ],
     "bio": "Sinclair Lewis (1885–1951) là một trong những gương mặt tiêu biểu nhất của văn học hiện thực trào phúng Mỹ giai đoạn đầu thế kỷ XX và là nhà văn Mỹ đầu tiên giành giải Nobel Văn học (năm 1930). Ông nổi tiếng với khả năng quan sát tỉ mỉ đời sống thường nhật, ngôn ngữ đối thoại sắc sảo và nghệ thuật mổ xẻ những định kiến, thói trưởng giả lẫn cơ chế vận hành quyền lực trong các thiết chế xã hội tại các thị trấn nhỏ và đô thị Trung Tây Hoa Kỳ.",
     "avatar": "public/authors/sinclair-lewis.png"
+  },
+  {
+    "id": "jose-donoso",
+    "name": "José Donoso",
+    "country": "Chile",
+    "period": "1924 – 1996",
+    "avatar": "public/authors/jose-donoso.png",
+    "bio": "José Donoso (Chile, 1924 – 1996) — một trong những trụ cột lớn của làn sóng văn học Mỹ Latinh (El Boom), tác phẩm được nhà phê bình Harold Bloom đưa vào danh sách những kiệt tác thiết yếu của văn học phương Tây thế kỷ XX."
   }
 ]
