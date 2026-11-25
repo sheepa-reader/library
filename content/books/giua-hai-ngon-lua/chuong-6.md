@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Năm: Bàn về Con vật trong Vũng Lầy
+# CHƯƠNG NĂM: Bàn về Con vật trong Vũng Lầy
 
 Thomas ngủ không ngon giấc; thứ rượu vang kia khiến dạ dày gã nóng rát, và khi chợp mắt, gã mơ thấy mình đang lội trong làn nước sền sệt bùn nhão, tìm kiếm những món đồ đã đánh rơi. Gã bỏ cuộc từ rạng sáng, miệng vẫn ợ ra thứ vị rượu chua loét, rồi bắt đầu mặc giáp.
 

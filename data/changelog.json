@@ -1,14 +1,14 @@
 [
   {
     "id": "log-20261125-04",
-    "timestamp": "2026-11-25T16:30:00+07:00",
+    "timestamp": "2026-11-25T17:45:00+07:00",
     "bookId": "giua-hai-ngon-lua",
     "bookTitle": "Giữa Hai Ngọn Lửa",
     "type": "chapter_update",
-    "typeName": "Hoàn thiện QA & Tái xuất bản",
+    "typeName": "Hoàn thiện QA lần 2 & Tái xuất bản",
     "badgeClass": "badge-chapter",
-    "title": "Tái xuất bản bản hoàn thiện QA Giữa Hai Ngọn Lửa (Between Two Fires)",
-    "description": "Hoàn thiện rà soát toàn bộ tác phẩm sau vòng QA kỹ lưỡng: hiệu đính và đồng bộ đối chiếu 100% từng câu/đoạn giữa bản tiếng Việt đã duyệt và bản tiếng Anh gốc; xử lý hoàn hảo các đoạn thơ trường ca, phục hồi 6 phân đoạn bị thiếu, chuẩn hóa tách câu chính xác; cập nhật 50 chương/phần đơn ngữ và song ngữ trên trình đọc online; căn giữa toàn bộ hệ thống tiêu đề chương và phụ đề thẩm mỹ; đóng gói lại 2 file tải về EPUB (đơn ngữ & song ngữ) cho thành viên."
+    "title": "Tái xuất bản bản hoàn thiện QA lần 2 Giữa Hai Ngọn Lửa (Between Two Fires)",
+    "description": "Hoàn tất biên tập & QA lần 2 kiệt tác Giữa Hai Ngọn Lửa (Between Two Fires - Christopher Buehlman): khôi phục và chuẩn hóa toàn diện 50 chương/phần bản đọc tiếng Việt & bản đọc song ngữ online; đồng bộ 100% ngữ pháp, đại từ xưng hô theo bối cảnh nước Pháp thế kỷ XIV (chuẩn hóa xưng hô con - ngài, loại bỏ triệt để từ ngữ lệch phong cách); căn giữa thẩm mỹ toàn bộ tiêu đề; cập nhật file tải về EPUB tiếng Việt & song ngữ mới nhất cho độc giả."
   },
   {
     "id": "log-20261125-03",

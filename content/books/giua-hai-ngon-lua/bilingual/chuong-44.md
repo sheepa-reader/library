@@ -1,6 +1,6 @@
 *Phần V*
 
-# Chương Ba Mươi Chín: Về Cặp Song Sinh và Sự Lật Mặt
+# CHƯƠNG BA MƯƠI CHÍN: Về Cặp Song Sinh và Sự Lật Mặt
 
 <p class="para-en">Jacquot squinted his eyes, waiting for the smoke from the pope’s twin braziers to drift in another direction. His post as papal guard would not allow him to rest his loaded crossbow, nor could he wipe his tearing eyes. Neither could he fetch the untouched quail that mocked him from the plate of the new bugger cardinal just in front of him, despite its tempting crust of herbs and his desperately rumbling stomach.</p>
 
@@ -8,7 +8,7 @@
 
 <p class="para-en">Fuck off, smoke.</p>
 
-<p class="para-vi-sub">Cút đi, đồ khói quỷ quái.</p>
+<p class="para-vi-sub">Cút đi, làn khói quỷ quái.</p>
 
 <p class="para-en">The smoke persisted.</p>
 
@@ -16,11 +16,11 @@
 
 <p class="para-en">He fought the urge to turn his head away, fearing to draw attention to himself. His duty was to remain still. Thus far, his duty was proving indistinguishable from that of a pillar.</p>
 
-<p class="para-vi-sub">Gã gồng mình nén cơn thèm quay phắt đi, sợ rằng sẽ rước lấy sự chú ý không đáng có. Nhiệm vụ của gã là phải đứng im như tượng. Cho đến lúc này, nhiệm vụ đó chẳng khác mẹ gì một cái cột nhà.</p>
+<p class="para-vi-sub">Gã gồng mình nén cơn thèm quay phắt đi, sợ rằng sẽ rước lấy sự chú ý không đáng có. Nhiệm vụ của gã là phải đứng im như tượng. Cho đến lúc này, nhiệm vụ đó khiến gã chẳng khác nào một cái cột nhà.</p>
 
 <p class="para-en">He had not worn the crossed-key insignia of the guard for very long; it was less than two weeks since he rode into Avignon with the troop of Breton archers that had pulled him from his Norman tree, all of them slavering for Jerusalem gold and the absolution that going on crusade would bring. Yet his ability to quarrel a crabapple off a stump at thirty yards had so impressed the quartermaster that the captain of the guard had sent for him.</p>
 
-<p class="para-vi-sub">Gã gia nhập hàng ngũ cận vệ mang huy hiệu chìa khóa chéo chưa được bao lâu; mới chỉ chưa đầy hai tuần kể từ khi gã cưỡi ngựa tiến vào Avignon cùng đoàn cung thủ xứ Breton, những kẻ đã lôi gã ra khỏi cái xó xỉnh ở Normandy với đôi mắt thèm thuồng vàng ròng Jerusalem và ơn xá tội mà cuộc thập tự chinh mang lại. Thế nhưng, tài nã bay quả táo gai trên gốc cây từ khoảng cách ba mươi thước của gã đã làm vị quản kho ấn tượng đến mức đội trưởng cận vệ phải cho người gọi gã tới.</p>
+<p class="para-vi-sub">Gã gia nhập hàng ngũ cận vệ mang huy hiệu chìa khóa chéo chưa được bao lâu, mới chỉ chưa đầy hai tuần kể từ khi gã cưỡi ngựa tiến vào Avignon cùng đoàn cung thủ xứ Breton, những kẻ đã lôi gã ra khỏi cái xó xỉnh ở Normandy với đôi mắt thèm thuồng vàng ròng Jerusalem và ơn xá tội mà cuộc thập tự chinh mang lại. Thế nhưng, tài nã bay quả táo gai trên gốc cây từ khoảng cách ba mươi thước của gã đã làm vị quản kho ấn tượng đến mức đội trưởng cận vệ phải cho người gọi gã tới.</p>
 
 <p class="para-en">Now this.</p>
 
@@ -40,7 +40,7 @@
 
 <p class="para-en">A second pope had entered the courtyard; Jacquot’s watery eyes were unsure, but this pope seemed a perfect twin to the one who sat before him, save for his white robes and miter. A troop of soldiers in cross-key tabards, the captain of the guard among them, marched at this white pope’s side. His right hand held a crosier and a peasant girl held his left.</p>
 
-<p class="para-vi-sub">Một vị giáo hoàng thứ hai vừa bước vào sân; đôi mắt nhòe lệ của Jacquot không dám chắc, nhưng vị giáo hoàng này trông giống hệt như đúc vị đang ngồi trên ngai phía trước, ngoại trừ bộ chiến bào và mũ tế đều thuần một màu trắng muốt. Một đội binh lính mang áo giáp thêu huy hiệu chìa khóa chéo, đi đầu là đội trưởng cận vệ, đang bước đều bên cạnh vị giáo hoàng áo trắng. Tay phải ngài chống gậy mục tử, và Delphine đang nắm lấy tay trái ngài.</p>
+<p class="para-vi-sub">Một vị giáo hoàng thứ hai vừa bước vào sân. Đôi mắt nhòe lệ của Jacquot không dám chắc, nhưng vị giáo hoàng này trông giống hệt như đúc vị đang ngồi trên ngai phía trước, ngoại trừ bộ chiến bào và mũ tế đều thuần một màu trắng muốt. Một đội binh lính mang áo giáp thêu huy hiệu chìa khóa chéo, đi đầu là đội trưởng cận vệ, đang bước đều bên cạnh vị giáo hoàng áo trắng. Tay phải ngài chống gậy mục tử, và Delphine đang nắm lấy tay trái ngài.</p>
 
 <p class="para-en">The seated pope, wearing ruby-littered robes of burnt orange and a miter with three crowns of gold, looked right at his geminus but remained seated. The guards around the nearer pope, like him, were all new recruits culled from those who had drifted south, and none of them had the first idea what to make of this.</p>
 
@@ -48,11 +48,11 @@
 
 <p class="para-en">The men near the pope in white had their gazes fixed. They had been prepared for what they would see. Most of those were veterans of the palace, kept farther away from His Holiness these last months, but now standing together near the pretender.</p>
 
-<p class="para-vi-sub">Những tên lính đứng gần vị giáo hoàng áo trắng đều dán chặt mắt về phía trước. Bọn chúng đã được chuẩn bị sẵn tinh thần cho những gì sắp mục sở thị. Hầu hết bọn chúng là cựu binh trong cung điện, những kẻ đã bị cách ly khỏi Đức Thánh Cha trong suốt mấy tháng qua, nhưng giờ lại đang tề tựu bên cạnh kẻ mạo danh.</p>
+<p class="para-vi-sub">Những tên lính đứng gần vị giáo hoàng áo trắng đều dán chặt mắt về phía trước. Bọn chúng đã được chuẩn bị sẵn tinh thần cho những gì sắp mục sở thị. Hầu hết bọn chúng là cựu binh trong cung điện, những kẻ đã bị cách ly khỏi Đức Thánh Cha trong suốt mấy tháng qua, nhưng giờ lại đang tề tựu bên cạnh vị giáo hoàng chân thật vừa trở về.</p>
 
 <p class="para-en">Sweet Christ there’s going to be a fight and fuck this fucking smoke.</p>
 
-<p class="para-vi-sub">Chúa Trời ơi, sắp có một trận can qua đến nơi rồi và mặc kệ cái làn khói chết tiệt này đi.</p>
+<p class="para-vi-sub">Chúa Trời ơi, sắp có một trận can qua đến nơi rồi, mặc kệ cái làn khói chết tiệt này đi.</p>
 
 <p class="para-en">He stepped back out of the smoke’s path and wiped his eyes in case he had to shoot.</p>
 
@@ -72,7 +72,7 @@
 
 <p class="para-en">“Tell them what lord you mean,” said the little girl. Her voice seemed familiar to Jacquot. He wanted to wipe his eyes again to get a better look at her, but now the knight who had lately accompanied the pope and all but taken over the duties of the captain of the guard, a harsh seigneur with a leonine face and black teeth, growled, “Crossbows ready.”</p>
 
-<p class="para-vi-sub">“Hỏi xem ý hắn nhắc đến vị chúa nào đi,” Delphine cất lời. Giọng nói ấy nghe quen quen với Jacquot. Gã lại muốn dụi mắt lần nữa để nhìn cho rõ mặt cô bé, nhưng lúc này, Thomas, viên hiệp sĩ vừa mới tháp tùng Đức Giáo Hoàng và thâu tóm toàn bộ quyền lực của đội trưởng cận vệ, một gã lãnh chúa dữ tợn với khuôn mặt trông như sư tử và hàm răng đen sì, đang gầm lên: “Lên nỏ!”</p>
+<p class="para-vi-sub">“Hỏi xem ý hắn nhắc đến vị chúa nào đi,” Delphine cất lời. Giọng nói ấy nghe quen quen với Jacquot. Gã lại muốn dụi mắt lần nữa để nhìn cho rõ mặt cô bé, nhưng lúc này, tên chỉ huy cận vệ của kẻ mạo danh, một gã dữ tợn với khuôn mặt trông như sư tử và hàm răng đen sì, đang gầm lên: “Lên nỏ!”</p>
 
 <p class="para-en">Jacquot raised his weapon.</p>
 
@@ -120,11 +120,11 @@
 
 <p class="para-en">The lion-faced knight turned, faster than Thomas had hoped, his axe already out. Recognition flashed in his little black eyes; he did not alert the others—he wanted to handle this himself.</p>
 
-<p class="para-vi-sub">Viên hiệp sĩ mặt sư tử quay phắt lại, nhanh hơn những gì Thomas hằng mong đợi, chiếc rìu chiến đã nằm gọn trong tay. Sự nhận diện lóe lên trong đôi mắt đen láy ti hí của hắn; hắn không thèm hô hào cảnh báo kẻ khác, hắn muốn tự mình giải quyết chuyện này.</p>
+<p class="para-vi-sub">Viên hiệp sĩ mặt sư tử quay phắt lại, nhanh hơn những gì Thomas hằng mong đợi, chiếc rìu chiến đã nằm gọn trong tay. Sự nhận diện lóe lên trong đôi mắt đen láy ti hí của hắn, hắn không thèm hô hào cảnh báo kẻ khác, hắn muốn tự mình giải quyết chuyện này.</p>
 
 <p class="para-en">YOU FUCKING THIEF YOU WANT DEATH AND HERE IT COMES</p>
 
-<p class="para-vi-sub">ĐỒ KẺ CẮP KHỐN KIẾP MÀY THÈM CHẾT VÀ CÁI CHẾT ĐÂY RỒI</p>
+<p class="para-vi-sub">ĐỒ KẺ CẮP KHỐN KIẾP, MÀY THÈM CHẾT VÀ CÁI CHẾT ĐÂY RỒI!</p>
 
 <p class="para-en">The devil-knight leapt upon the cardinal’s table, just where Thomas had planned to jump. It squatted and slashed with its axe, but Thomas ducked and turned so it bit through his habit and glanced off his backplate, continuing his turn so the point of his sword wheeled around and into the lion-knight’s face. It continued through the back of the head. The stabbed knight screamed, but it was also a roar.</p>
 
@@ -180,7 +180,7 @@
 
 <p class="para-en">Another bolt flew from farther down the table; this one clipped his neck, but got no cords.</p>
 
-<p class="para-vi-sub">Một mũi tên khác bay từ phía cuối bàn tới; mũi này sượt qua cổ anh nhưng không trúng động mạch.</p>
+<p class="para-vi-sub">Một mũi tên khác bay từ phía cuối bàn tới, mũi này sượt qua cổ anh nhưng không trúng động mạch.</p>
 
 <p class="para-en">The first one, though.</p>
 
@@ -188,11 +188,11 @@
 
 <p class="para-en">He looked down at the goose-feather fletching where the quarrel stood from the dimple in the comte’s armor, the dimple Thomas’s final axe-blow had made in their fight by the stream. It would have clanked off otherwise, for such was the art of the Milanese at curving and hammering their armor.</p>
 
-<p class="para-vi-sub">Anh cúi xuống nhìn phần lông ngỗng làm đuôi tên đang cắm phập vào vết lõm trên bộ giáp của vị bá tước, chính là vết lõm mà cú vung rìu cuối cùng của Thomas đã tạo ra trong trận chiến bên bờ suối. Nếu không có nó, mũi tên đã văng ra ngoài, bởi đó là sự tinh xảo của những thợ rèn Milan trong việc gò và uốn cong áo giáp.</p>
+<p class="para-vi-sub">Anh cúi xuống nhìn phần lông ngỗng làm đuôi tên đang cắm phập vào vết lõm trên bộ giáp của vị bá tước, chính là vết lõm mà cú vung rìu của gã hiệp sĩ quỷ vừa tạo ra trên tấm giáp lưng của anh. Nếu không có nó, mũi tên đã văng ra ngoài, bởi đó là sự tinh xảo của những thợ rèn Milan trong việc gò và uốn cong áo giáp.</p>
 
 <p class="para-en">Dead dead I’m dead now</p>
 
-<p class="para-vi-sub">Chết chết mình chết rồi</p>
+<p class="para-vi-sub">Chết rồi, mình chết rồi...</p>
 
 <p class="para-en">“Thomas!” the crossbowman said desperately. “I’ve killed you!”</p>
 
@@ -208,7 +208,7 @@
 
 <p class="para-en">“Jesus Christ, forgive me,” Jacquot said.</p>
 
-<p class="para-vi-sub">“Chúa Giê-su hỡi, xin hãy tha thứ cho tôi,” Jacquot nói.</p>
+<p class="para-vi-sub">“Chúa Giê-su hỡi, xin hãy tha thứ cho tôi!” Jacquot gào lên.</p>
 
 <p class="para-en">The old cardinal near him disliked his words so much he unhinged his jaw and bit Jacquot’s face, dragging the skin from it and leaving his lidless eyes staring in disbelief.</p>
 
@@ -228,7 +228,7 @@
 
 <p class="para-en">Through the bone the point tickling the heart I feel it</p>
 
-<p class="para-vi-sub">Xuyên qua xương mũi nhọn đang mơn trớn trái tim cô cảm nhận được nó</p>
+<p class="para-vi-sub">Mũi tên nhọn đâm xuyên qua xương, mơn trớn trái tim anh, và ở phía xa, cô bé cảm nhận được điều đó.</p>
 
 <p class="para-en">Panic in the courtyard.</p>
 
@@ -244,7 +244,7 @@
 
 <p class="para-en">I can’t I can’t I can’t</p>
 
-<p class="para-vi-sub">Cô không thể cô không thể cô không thể</p>
+<p class="para-vi-sub">Cô không thể, cô không thể, cô không thể...</p>
 
 <p class="para-en">Thomas gathered strength in his mighty thighs and leapt up on the cardinals’ table. Cardinal Cyriac grew larger. Blood on his face like a dog at the stag. Growing new eyes. Growing bird’s legs beneath his robes.</p>
 
@@ -268,7 +268,7 @@
 
 <p class="para-en">The girl’s blood hurt it.</p>
 
-<p class="para-vi-sub">Máu của cô bé đã làm nó bị thương.</p>
+<p class="para-vi-sub">Máu của cô bé trên lưỡi kiếm đã làm nó bị thương.</p>
 
 <p class="para-en">Three more loping steps to the pope’s cathedra.</p>
 
@@ -320,7 +320,7 @@
 
 <p class="para-en">His sword went all the way to the chin and the man’s eyes rolled back white and dead, the wound smoking. The arms, though. One of them (not an arm so much as a fly’s limb) grabbed the sword by the blade and yanked it. It spun in the air and away, over the walls of the courtyard. Thomas saw it for an instant, moonlight on it.</p>
 
-<p class="para-vi-sub">Thanh kiếm ngập sâu tới tận cằm và đôi mắt gã đàn ông lật ngược trắng dã, chết ngắt, vết thương bốc khói. Nhưng đôi tay thì khác. Một trong hai tay (không hẳn là tay mà giống chi của loài ruồi hơn) đã chộp lấy lưỡi kiếm và giật phăng đi. Nó xoay tít trên không trung rồi bay vụt qua những bức tường của khoảng sân. Thomas thoáng thấy nó lóe lên dưới ánh trăng.</p>
+<p class="para-vi-sub">Thanh kiếm ngập sâu tới tận cằm và đôi mắt gã đàn ông lật ngược trắng dã, chết ngắt, vết thương bốc khói. Nhưng đôi tay thì khác. Một trong hai tay, không hẳn là tay mà giống chi của loài ruồi hơn, đã chộp lấy lưỡi kiếm và giật phăng đi. Nó xoay tít trên không trung rồi bay vụt qua những bức tường của khoảng sân. Thomas thoáng thấy nó lóe lên dưới ánh trăng.</p>
 
 <p class="para-en">You’ll never hold a sword again</p>
 
@@ -388,7 +388,7 @@
 
 <p class="para-en">Intomyheart!!! but i can still do this ican still</p>
 
-<p class="para-vi-sub">Xuyên vào tim cô! nhưng cô vẫn làm được cô vẫn có thể</p>
+<p class="para-vi-sub">Mũi giáo đâm vào tim nó! Nhưng cô bé vẫn làm được, cô bé vẫn có thể...</p>
 
 <p class="para-en">He blew out of his nose, bloody now.</p>
 
@@ -396,11 +396,11 @@
 
 <p class="para-en">This is what i’m for i do this i drive it home i’m strong</p>
 
-<p class="para-vi-sub">Đây là sứ mệnh của cô cô làm việc này cô đâm thấu đích cô rất khỏe</p>
+<p class="para-vi-sub">Đây là sứ mệnh của cô bé, cô làm việc này, cô đâm thấu đích, cô rất khỏe...</p>
 
 <p class="para-en">strong please</p>
 
-<p class="para-vi-sub">khỏe xin hãy</p>
+<p class="para-vi-sub">Khỏe, xin hãy...</p>
 
 <p class="para-en">He hammered down the spear in his fist with all his might, his hips in it.</p>
 
@@ -440,7 +440,7 @@
 
 <p class="para-en">The other devil had it.</p>
 
-<p class="para-vi-sub">Con quỷ thứ kia đã đoạt lấy nó.</p>
+<p class="para-vi-sub">Con quỷ kia đã đoạt lấy nó.</p>
 
 <p class="para-en">The lionish one, his wound almost gone.</p>
 
@@ -448,35 +448,35 @@
 
 <p class="para-en">i never had a chance did i</p>
 
-<p class="para-vi-sub">mình chưa từng có cơ hội nào phải không</p>
+<p class="para-vi-sub">Mình chưa từng có cơ hội nào, phải không...</p>
 
 <p class="para-en">DO YOU KNOW WHAT WE ARE</p>
 
-<p class="para-vi-sub">NGƯƠI CÓ BIẾT CHÚNG TA LÀ AI KHÔNG</p>
+<p class="para-vi-sub">NGƯƠI CÓ BIẾT CHÚNG TA LÀ AI KHÔNG?</p>
 
 <p class="para-en">ONLY ONE IS OLDER</p>
 
-<p class="para-vi-sub">CHỈ CÓ MỘT KẺ LÀ CỔ XƯA HƠN</p>
+<p class="para-vi-sub">CHỈ CÓ MỘT KẺ LÀ CỔ XƯA HƠN!</p>
 
 <p class="para-en">ONLY ONE IS STRONGER</p>
 
-<p class="para-vi-sub">CHỈ CÓ MỘT KẺ LÀ MẠNH MẼ HƠN</p>
+<p class="para-vi-sub">CHỈ CÓ MỘT KẺ LÀ MẠNH MẼ HƠN!</p>
 
 <p class="para-en">AND HE HAS LEFT YOU TO US</p>
 
-<p class="para-vi-sub">VÀ HẮN ĐÃ GIAO NGƯƠI CHO CHÚNG TA</p>
+<p class="para-vi-sub">VÀ HẮN ĐÃ GIAO NGƯƠI CHO CHÚNG TA!</p>
 
 <p class="para-en">I’LL SHOW YOU</p>
 
-<p class="para-vi-sub">TA SẼ CHO NGƯƠI THẤY</p>
+<p class="para-vi-sub">TA SẼ CHO NGƯƠI THẤY!</p>
 
 <p class="para-en">YOUR HEART HAS TWELVE BEATS LEFT</p>
 
-<p class="para-vi-sub">TIM NGƯƠI CHỈ CÒN MƯỜI HAI NHỊP ĐẬP</p>
+<p class="para-vi-sub">TIM NGƯƠI CHỈ CÒN MƯỜI HAI NHỊP ĐẬP!</p>
 
 <p class="para-en">TRY TO LIVE LONG ENOUGH TO WATCH THIS</p>
 
-<p class="para-vi-sub">HÃY CỐ SỐNG ĐỦ LÂU ĐỂ CHỨNG KIẾN ĐIỀU NÀY</p>
+<p class="para-vi-sub">HÃY CỐ SỐNG ĐỦ LÂU ĐỂ CHỨNG KIẾN ĐIỀU NÀY!</p>
 
 <p class="para-en">Delphine saw Thomas run for the false pope and her hands went to her mouth. She wanted to run toward him, help him, save him, but she knew she would never reach him. Could not stand against them. She kept her place near Pope Clement, holding his hand to strengthen him. He was shaking, but he did not run.</p>
 
@@ -488,7 +488,7 @@
 
 <p class="para-en">So strong he’s so strong</p>
 
-<p class="para-vi-sub">Anh khỏe làm sao, khỏe làm sao</p>
+<p class="para-vi-sub">Anh khỏe làm sao, khỏe làm sao...</p>
 
 <p class="para-en">but the nature of her scream changed as the thing in the orange robes changed. She screamed Thomas’s name over and over again and fell to her knees watching his arm ripped from him, watching him fall on the table like a pile of laundry, then roll onto the flagstones.</p>
 
@@ -604,7 +604,7 @@
 
 <p class="para-en">WHAT ARE YOU WE’LL FIND OUT NOW</p>
 
-<p class="para-vi-sub">MÀY LÀ THỨ GÌ THẾ RỒI TA SẼ BIẾT NGAY THÔI</p>
+<p class="para-vi-sub">MÀY LÀ THỨ GÌ THẾ? RỒI TA SẼ BIẾT NGAY THÔI!</p>
 
 <p class="para-en">For the first time she knew the answer.</p>
 
@@ -628,11 +628,11 @@
 
 <p class="para-en">THAT.</p>
 
-<p class="para-vi-sub">LÀ THỨ ĐÓ HẢ.</p>
+<p class="para-vi-sub">LÀ THỨ ĐÓ HẢ?</p>
 
 <p class="para-en">The lion-faced one used the knight’s arm like a pick.</p>
 
-<p class="para-vi-sub">Con quỷ mặt sư tử dùng cánh tay của vị hiệp sĩ làm cây xà beng.</p>
+<p class="para-vi-sub">Con quỷ mặt sư tử dùng chính cánh tay đứt lìa của vị hiệp sĩ làm một đòn bẩy.</p>
 
 <p class="para-en">The fist still holding the spear.</p>
 
@@ -640,7 +640,7 @@
 
 <p class="para-en">THEN YOU SHOULD REMEMBER THIS.</p>
 
-<p class="para-vi-sub">VẬY THÌ NGƯƠI NÊN NHỚ CHO KỸ ĐIỀU NÀY.</p>
+<p class="para-vi-sub">VẬY THÌ NGƯƠI NÊN NHỚ CHO KỸ ĐIỀU NÀY!</p>
 
 <p class="para-en">It whipped the knight’s arm, driving the spear into her side.</p>
 

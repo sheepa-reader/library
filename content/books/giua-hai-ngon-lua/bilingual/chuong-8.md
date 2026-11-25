@@ -1,10 +1,10 @@
 *Phần I*
 
-# Chương Bảy: Về Trận Chiến Tại Chanson-des-Anges
+# CHƯƠNG BẢY: Về Trận Chiến Tại Chanson-des-Anges
 
 <p class="para-en">In the morning, the girl told the priest that the three of them were going to the shrine of the Virgin of the White Rock, ten miles north. She was granting miracles to some, and she would rid Thomas of the plague.</p>
 
-<p class="para-vi-sub">Vào buổi sáng, cô bé nói với vị linh mục rằng ba người họ sẽ đến điện thờ Trinh Nữ Đá Trắng, cách đó mười dặm về phía bắc. Người đang ban phép lạ cho một số người, và Người sẽ giải trừ dịch hạch cho Thomas.</p>
+<p class="para-vi-sub">Vào buổi sáng, cô bé nói với vị linh mục rằng ba người họ sẽ đến điện thờ Trinh Nữ Đá Trắng, cách đó mười dặm về phía bắc. Nơi đó Đức Mẹ đang ban phép lạ cho vài người, và Người sẽ giải trừ dịch hạch cho Thomas.</p>
 
 <p class="para-en">“But, child,” the priest said, “this man cannot travel. And the bishop heard rumors of this shrine many years ago, and visited it and declared that, while it was a holy place and Christians should pray there, they should expect no miracles.”</p>
 
@@ -12,11 +12,11 @@
 
 <p class="para-en">A saint had told her. She bit her lip, wondering if she should let them know one spoke to her. It seemed better to keep that secret.</p>
 
-<p class="para-vi-sub">Một vị thánh đã nói với cô bé. Cô bé cắn môi, tự hỏi liệu mình có nên cho họ biết có đấng đã trò chuyện với mình hay không. Dường như việc giữ bí mật đó thì tốt hơn.</p>
+<p class="para-vi-sub">Một vị thiên thần đã nói với cô bé. Cô bé cắn môi, tự hỏi liệu mình có nên cho họ biết có đấng đã trò chuyện với mình hay không. Dường như việc giữ bí mật đó thì tốt hơn.</p>
 
 <p class="para-en">“A higher power than the bishop says the shrine is healing people. And we can take the knight upon a cart.”</p>
 
-<p class="para-vi-sub">“Một quyền năng cao cả hơn Đức Giám Mục nói rằng điện thờ đang chữa lành cho mọi người. Và chúng ta có thể đưa hiệp sĩ lên một cỗ xe.”</p>
+<p class="para-vi-sub">“Một quyền năng cao cả hơn Đức Giám Mục nói rằng điện thờ đang chữa lành cho mọi người. Và chúng ta có thể đưa ngài hiệp sĩ lên một cỗ xe.”</p>
 
 <p class="para-en">“If I had a cart.”</p>
 
@@ -32,11 +32,11 @@
 
 <p class="para-en">Her insides fluttered as though a small bird were near her heart. Words came to her. She closed her eyes and said them.</p>
 
-<p class="para-vi-sub">Bên trong cô bé xao động như thể có một chú chim nhỏ đang ở gần trái tim mình. Những lời nói hiện lên trong tâm trí cô bé. Cô bé nhắm mắt lại và thốt lên chúng.</p>
+<p class="para-vi-sub">Bên trong cô bé xao động như thể có một chú chim nhỏ đang vỗ cánh gần trái tim mình. Những lời nói hiện lên trong tâm trí cô bé. Cô nhắm mắt lại và thốt lên chúng.</p>
 
 <p class="para-en">“Matthieu Hanicotte,” she said, calling the priest by his true name, which he had never told her, “you say these words because you fear to leave your little home. But I turn your words upon you; if Death means to take you, he may do it here as easily as on the road. He is already in this house.”</p>
 
-<p class="para-vi-sub">“Matthieu Hanicotte,” cô bé nói, gọi vị linh mục bằng tên thật của ông, cái tên mà ông chưa từng kể cho cô nghe, “cha nói những lời này vì cha sợ rời bỏ ngôi nhà nhỏ của mình. Nhưng con xin xoay ngược lời cha lại; nếu Tử Thần định bắt cha đi, hắn có thể làm điều đó ở đây dễ dàng như trên đường đi. Hắn đã ở sẵn trong ngôi nhà này rồi.”</p>
+<p class="para-vi-sub">“Matthieu Hanicotte,” cô bé nói, gọi vị linh mục bằng tên thật của ông, cái tên mà ông chưa từng kể cho cô nghe, “cha nói những lời này vì cha sợ rời bỏ ngôi nhà nhỏ của mình. Nhưng con xin xoay ngược lời cha lại, nếu Tử Thần định bắt cha đi, hắn có thể làm điều đó ở đây dễ dàng như trên đường đi. Hắn đã ở sẵn trong ngôi nhà này rồi.”</p>
 
 <p class="para-en">A chill passed through the priest, and he said meekly, “Watch over our friend. I am going to the orchard.”</p>
 
@@ -44,7 +44,7 @@
 
 <p class="para-en">The dead man’s cart was in good repair, and the three of them were soon upon the road to Rochelle-la-Blanche, a hill village where granite was quarried. The priest drove the fine cart, while Thomas lay feverish in the back of it. The girl held a cross over him with one hand and lay her other hand upon his burning chest. The priest was certain she was a saint. He had no other way to explain his discovery in the orchard.</p>
 
-<p class="para-vi-sub">Cỗ xe của người chết vẫn còn rất tốt, và ba người họ chẳng mấy chốc đã lên đường đến Rochelle-la-Blanche, một ngôi làng trên đồi nơi người ta khai thác đá hoa cương. Vị linh mục đánh cỗ xe đẹp đẽ, trong khi Thomas nằm sốt cao mê man ở phía sau xe. Cô bé một tay cầm cây thánh giá che chở cho anh và đặt bàn tay kia lên lồng ngực đang nóng như lửa của anh. Vị linh mục chắc mẩm rằng cô bé là một vị thánh. Ông không còn cách nào khác để giải thích cho phát hiện của mình ở trong vườn hạnh đào.</p>
+<p class="para-vi-sub">Cỗ xe của người chết vẫn còn rất tốt, và ba người họ chẳng mấy chốc đã lên đường đến Rochelle-la-Blanche, một ngôi làng trên đồi nơi người ta khai thác đá hoa cương. Vị linh mục đánh cỗ xe đẹp đẽ, trong khi Thomas nằm sốt cao mê man ở phía sau xe. Cô bé một tay cầm cây thánh giá che chở cho gã và đặt bàn tay kia lên lồng ngực đang nóng như lửa của gã. Vị linh mục chắc mẩm rằng cô bé là một vị thánh. Ông không còn cách nào khác để giải thích cho phát hiện của mình ở trong vườn hạnh đào.</p>
 
 <p class="para-en">The cart’s owner had broken his neck trying to stand on the wheel of the cart and beat the last almonds from a high branch. The body was still warm when the priest found him. A chill had gone through Matthieu Hanicotte, and for a moment he had wondered if the girl was diabolic in nature. He thought not. Then he had a moment to wonder whether God had slain this man to provide them a cart, or if He had merely directed Matthieu to the scene of this sad event, already foreordained. What was the difference? Everything served God’s will, and here, at last, after months of senseless deaths and unending tears, was a tragedy that bore some fruit. The priest had blessed the man, then cried and thanked God for at last revealing His face to him. For all those thanks, however, the mule was stubborn, and it had taken the priest nearly half an hour to get it moving.</p>
 
@@ -88,11 +88,11 @@
 
 <p class="para-en">Père Matthieu felt a shock of ice in his heart, and he nearly froze with fear. The knight could have made the mob think twice, but he was dying. Then an idea came to Matthieu and he leapt to his feet, standing tall in the cart, and, though his knees shook, he kept his voice firm.</p>
 
-<p class="para-vi-sub">Cha Matthieu cảm thấy một luồng băng giá nhói lên trong tim, và ông gần như chết cứng vì sợ hãi. Vị hiệp sĩ có thể khiến đám đông phải suy nghĩ lại, nhưng anh đang hấp hối. Lúc đó một ý chợt lóe lên trong đầu cha Matthieu và ông bật dậy, đứng thẳng người trên cỗ xe, và mặc dù đôi đầu gối run lẩy bẩy, ông vẫn giữ giọng nói thật kiên quyết.</p>
+<p class="para-vi-sub">Cha Matthieu cảm thấy một luồng băng giá nhói lên trong tim, và ông gần như chết cứng vì sợ hãi. Vị hiệp sĩ có thể khiến đám đông phải suy nghĩ lại, nhưng gã đang hấp hối. Lúc đó một ý chợt lóe lên trong đầu cha Matthieu và ông bật dậy, đứng thẳng người trên cỗ xe, và mặc dù đôi đầu gối run lẩy bẩy, ông vẫn giữ giọng nói thật kiên quyết.</p>
 
 <p class="para-en">“He who wants the plague, come and take this mule. For plague is upon this man you see here. He who wants his soul in Hell, come and take this mule unlawfully from one of God’s priests, and stop us on our pilgrimage.”</p>
 
-<p class="para-vi-sub">“Kẻ nào muốn dịch hạch, hãy đến mà mang con la này đi. Bởi vì bệnh dịch đang hiện diện trên người mà các ngươi thấy ở đây. Kẻ nào muốn linh hồn mình rơi xuống Địa Ngục, hãy đến cướp đoạt con la này trái phép từ một trong những vị linh mục của Thiên Chúa, và cản trở cuộc hành hương của chúng ta.”</p>
+<p class="para-vi-sub">“Kẻ nào muốn dịch hạch, hãy đến mà mang con la này đi! Bởi vì bệnh dịch đang hiện diện trên người mà các ngươi thấy ở đây. Kẻ nào muốn linh hồn mình rơi xuống Địa Ngục, hãy đến cướp đoạt con la này trái phép từ một trong những vị linh mục của Thiên Chúa, và cản trở cuộc hành hương của chúng ta!”</p>
 
 <p class="para-en">This halted their frightening surge toward the cart.</p>
 
@@ -104,7 +104,7 @@
 
 <p class="para-en">“What?” said the priest. He now noticed a stocky, cow-eyed priest among the farmers; he was holding a pewter candlestick like a club, and he seemed abashed to have encountered another of his sort. He shook this off and spoke.</p>
 
-<p class="para-vi-sub">“Cái gì?” vị linh mục nói. Bây giờ ông mới nhận ra có một vị linh mục thấp đậm, mắt bò đang đứng giữa những người nông dân; hắn đang cầm một cây nến bằng thiếc trông như cái chùy, và hắn có vẻ bẽn lẽn khi chạm trán với một người đồng môn của mình. Hắn xua đi vẻ ngượng ngùng đó và cất lời.</p>
+<p class="para-vi-sub">“Cái gì?” vị linh mục nói. Bây giờ ông mới nhận ra có một vị linh mục thấp đậm, mắt bò đang đứng giữa những người nông dân, hắn đang cầm một cây nến bằng thiếc trông như cái chùy, và hắn có vẻ bẽn lẽn khi chạm trán với một người đồng môn của mình. Hắn xua đi vẻ ngượng ngùng đó và cất lời.</p>
 
 <p class="para-en">“Yes, brother. We’re taking our Virgin back. She was stolen from our village, Chanson-des-Anges, by those bastards of Rochellela-Blanche during the Great Hunger of ’17. Since then God has smiled upon them and pissed upon us for not defending her. Help us in our rightful suit.”</p>
 
@@ -172,7 +172,7 @@
 
 <p class="para-en">“If we won’t have her, you won’t either! Fuck her,” she said, and smashed the Virgin’s arm from her body.</p>
 
-<p class="para-vi-sub">“Nếu chúng ta không có được Người, các người cũng đừng hòng có! Mặc kệ Người luôn đi,” người phụ nữ nói, và đập gãy rời cánh tay của Đức Mẹ khỏi thân mình.</p>
+<p class="para-vi-sub">“Nếu chúng ta không có được Người, các người cũng đừng hòng có! Phá nát Người đi!” người phụ nữ nói, và đập gãy rời cánh tay của Đức Mẹ khỏi thân mình.</p>
 
 <p class="para-en">Back in Père Matthieu’s cart, the girl screamed.</p>
 
@@ -184,7 +184,7 @@
 
 <p class="para-en">“Fuck her! Fuck her!” the woman screamed, wide-eyed.</p>
 
-<p class="para-vi-sub">“Mặc kệ Người! Mặc kệ Người!” người phụ nữ thét lên với đôi mắt trợn trừng.</p>
+<p class="para-vi-sub">“Phá nát Người! Phá nát Người!” người phụ nữ thét lên với đôi mắt trợn trừng.</p>
 
 <p class="para-en">The hammer fell again and the Virgin’s nose was busted.</p>
 
@@ -216,7 +216,7 @@
 
 <p class="para-en">Afterward, the survivors took the wounded off and the people of Rochelle-la-Blanche cleared as far away from the killing field as they could. The girl tore herself away from Père Matthieu and walked through the twisted bodies, toward the ruin of the Virgin of the White Rock. She was shaking and weeping, looking far smaller and younger than she had. She bent near the cart and picked up the statue’s arm, hugging it to her.</p>
 
-<p class="para-vi-sub">Sau đó, những người sống sót đưa những kẻ bị thương đi và người dân Rochelle-la-Blanche di tản ra xa bãi chiến trường nhất có thể. Cô bé dứt ra khỏi cha Matthieu và bước đi giữa những xác chết quằn quại, tiến về phía đống đổ nát của bức tượng Đức Mẹ Đá Trắng. Con bé đang run rẩy và khóc nức nở, trông nhỏ thó và trẻ con hơn rất nhiều so với trước đó. Nó cúi xuống gần chiếc xe đẩy và nhặt cánh tay của bức tượng lên, ôm chặt vào ngực.</p>
+<p class="para-vi-sub">Sau đó, những người sống sót đưa những kẻ bị thương đi và người dân Rochelle-la-Blanche di tản ra xa bãi chiến trường nhất có thể. Cô bé dứt ra khỏi cha Matthieu và bước đi giữa những xác chết quằn quại, tiến về phía đống đổ nát của bức tượng Đức Mẹ Đá Trắng. Cô bé đang run rẩy và khóc nức nở, trông nhỏ thó và trẻ con hơn rất nhiều so với trước đó. Cô cúi xuống gần chiếc xe đẩy và nhặt cánh tay của bức tượng lên, ôm chặt vào ngực.</p>
 
 <p class="para-en">The priest helped her up into his cart now, where Thomas lay very still, breathing his last. He had the impression that something with a cold, fishy mouth was tugging at him. His bladder loosed and he breathed out, his chest rattling. He did not inhale.</p>
 
@@ -224,11 +224,11 @@
 
 <p class="para-en">The girl took the Virgin’s hand and forearm up and pressed the two stone fingers, held out in benediction, against the knight’s forehead, just where he had felt St. Sebastian’s thumb the night before.</p>
 
-<p class="para-vi-sub">Cô bé cầm lấy bàn tay và cẳng tay của Đức Mẹ, ấn hai ngón tay bằng đá đang giơ lên ban phước vào trán người hiệp sĩ, ngay đúng chỗ mà anh cảm nhận được ngón cái của Thánh Sebastian vào đêm hôm trước.</p>
+<p class="para-vi-sub">Cô bé cầm lấy bàn tay và cẳng tay của Đức Mẹ, ấn hai ngón tay bằng đá đang giơ lên ban phước vào trán người hiệp sĩ, ngay đúng chỗ mà gã cảm nhận được ngón cái của Thánh Sebastian vào đêm hôm trước.</p>
 
 <p class="para-en">She pressed hard.</p>
 
-<p class="para-vi-sub">Con bé ấn thật mạnh.</p>
+<p class="para-vi-sub">Cô bé ấn thật mạnh.</p>
 
 <p class="para-en">The thing with the fishy mouth left.</p>
 
@@ -244,15 +244,15 @@
 
 <p class="para-en">Thomas woke up and thought something was horribly wrong. A dream in which his mother wove at her loom and sung a chanson de toile[2] about a common woman who loved a great seigneur dissolved; now an angel was rubbing his head with a cool cloth; he had died, he was sure of that, but under no circumstances should he be in Heaven.</p>
 
-<p class="para-vi-sub">Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi[6] và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến; giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát; gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.</p>
+<p class="para-vi-sub">Thomas tỉnh dậy và nghĩ rằng có điều gì đó vô cùng tồi tệ đang xảy ra. Một giấc mơ trong đó mẹ gã đang dệt vải bên khung cửi[6] và hát một bài thơ ca ngợi về một người phụ nữ bình dân đem lòng yêu một vị lãnh chúa vĩ đại bỗng tan biến, giờ đây một thiên thần đang xoa đầu gã bằng một chiếc khăn mát, gã đã chết, gã chắc chắn về điều đó, nhưng trong bất kỳ hoàn cảnh nào gã cũng không được phép ở lại Thiên Đàng.</p>
 
 <p class="para-en">He turned his eyes to look at the angel, and saw that it was only the girl. Her very gray eyes were on him, waiting to see if he would speak.</p>
 
-<p class="para-vi-sub">Anh quay đầu nhìn vị thiên thần, và nhận ra đó chỉ là cô bé. Đôi mắt xám đậm của con bé đang nhìn anh, chờ xem anh có nói gì không.</p>
+<p class="para-vi-sub">Gã quay đầu nhìn vị thiên thần, và nhận ra đó chỉ là cô bé. Đôi mắt xám đậm của cô bé đang nhìn gã, chờ xem gã có nói gì không.</p>
 
 <p class="para-en">“I died,” he said.</p>
 
-<p class="para-vi-sub">“Ta đã chết,” anh nói.</p>
+<p class="para-vi-sub">“Ta đã chết,” gã nói.</p>
 
 <p class="para-en">“Almost.”</p>
 
@@ -260,7 +260,7 @@
 
 <p class="para-en">“You…saved me?”</p>
 
-<p class="para-vi-sub">“Nhóc… đã cứu ta sao?”</p>
+<p class="para-vi-sub">“Nhóc... đã cứu ta sao?”</p>
 
 <p class="para-en">“God did. With the hand of the Virgin. It was her last miracle.”</p>
 
@@ -272,7 +272,7 @@
 
 <p class="para-en">“I stink,” he said.</p>
 
-<p class="para-vi-sub">“Ta hôi thối quá,” anh nói.</p>
+<p class="para-vi-sub">“Ta hôi thối quá,” gã nói.</p>
 
 <p class="para-en">The priest, who was near the hearth, said, “Not like you did. What’s stinking now is just the bedstraw. Some of your sickness went into that, I think. One thing you never get used to is the way the sick ones smell. As if we needed any further proof this curse fell from the heavens to show us how corrupt we are.” He went back to stirring the pot on the fire.</p>
 
@@ -292,7 +292,7 @@
 
 <p class="para-en">“But I won’t tell anyone if you won’t. ‘What’s to eat?’ he says. Nothing but the worst soup in Christendom; grasses, flowers, twigs, some fungus from the sides of trees, a blighted radish, and, the best of all, four baby birds I broke free from their eggs. I was hoping just to get the yolks and whites, but the chicks were nearly ready to enter this sad world. Now they’re in soup. You’ll have to eat one, bones and all.”</p>
 
-<p class="para-vi-sub">“Nhưng tôi sẽ chẳng nói với ai nếu ngài cũng giữ bí mật. ‘Có gì để ăn thế?’ ngài hỏi vậy đấy. Chẳng có gì ngoài món súp tệ nhất trong thế giới Kitô giáo; cỏ dại, hoa tươi, cành cây nhỏ, chút nấm mọc bên thân cây, một củ cải sâu bệnh, và tuyệt vời nhất là bốn chú chim non tôi vừa bóc ra khỏi trứng. Tôi vốn chỉ định lấy lòng đỏ và lòng trắng, nhưng lũ chim non đã suýt sửa soạn chào đời trong thế giới buồn thảm này rồi. Giờ thì chúng nằm gọn trong nồi súp. Ngài sẽ phải nuốt chửng cả con đấy, nguyên cả xương lẫn thịt.”</p>
+<p class="para-vi-sub">“Nhưng tôi sẽ chẳng nói với ai nếu ngài cũng giữ bí mật. ‘Có gì để ăn thế?’ ngài hỏi vậy đấy. Chẳng có gì ngoài món súp tệ nhất trong thế giới Kitô giáo, cỏ dại, hoa tươi, cành cây nhỏ, chút nấm mọc bên thân cây, một củ cải sâu bệnh, và tuyệt vời nhất là bốn chú chim non tôi vừa bóc ra khỏi trứng. Tôi vốn chỉ định lấy lòng đỏ và lòng trắng, nhưng lũ chim non đã suýt sửa soạn chào đời trong thế giới buồn thảm này rồi. Giờ thì chúng nằm gọn trong nồi súp. Ngài sẽ phải nuốt chửng cả con đấy, nguyên cả xương lẫn thịt.”</p>
 
 <p class="para-en">“I’ve had worse.”</p>
 
@@ -304,7 +304,7 @@
 
 <p class="para-en">The girl changed the water in Thomas’s cloth and rubbed his temples again. It was so cool and so good. He closed his eyes and breathed a long, contented sigh. This was the best he had felt since…since something awful happened. What? Something in a river.</p>
 
-<p class="para-vi-sub">Cô bé thay miếng vải đắp trên trán Thomas và xoa nhẹ thái dương anh lần nữa. Cảm giác thật mát lạnh và dễ chịu làm sao. Anh nhắm nghiền mắt và thở dài một hơi thật dài đầy mãn nguyện. Đây là lúc anh cảm thấy khỏe khoắn nhất kể từ… kể từ khi chuyện tồi tệ nào đó xảy ra. Chuyện gì vậy chứ? Một thứ gì đó dưới dòng sông.</p>
+<p class="para-vi-sub">Cô bé thay miếng vải đắp trên trán Thomas và xoa nhẹ thái dương gã lần nữa. Cảm giác thật mát lạnh và dễ chịu làm sao. Gã nhắm nghiền mắt và thở dài một hơi thật dài đầy mãn nguyện. Đây là lúc gã cảm thấy khỏe khoắn nhất kể từ... kể từ khi chuyện tồi tệ nào đó xảy ra. Chuyện gì vậy chứ? Một thứ gì đó dưới dòng sông.</p>
 
 <p class="para-en">“What I can’t stop thinking about,” the priest went on, “is wine. I never thought it would just run out. I thought men would always make wine, as bees make honey and cows make milk. That I would one day find nobody, not one person, with a skin or cask or pitcher of wine to sell, had never occurred to me.”</p>
 
@@ -328,11 +328,11 @@
 
 <p class="para-en">Thomas got better slowly, but more quickly than any of those few the priest had seen survive the plague. He took walks in the priest’s yard, slurped bad soup, cracked the few stray almonds left in the cart, and savored the last of the girl’s honey.</p>
 
-<p class="para-vi-sub">Thomas khỏe lại từ từ, nhưng nhanh hơn bất kỳ ai trong số ít ỏi những người mà vị linh mục từng chứng kiến sống sót qua trận dịch hạch. Anh đi dạo trong sân nhà linh mục, húp món súp dở tệ, đập vỡ vài hạt hạnh nhân sót lại trong xe kéo, và tận hưởng giọt mật ong cuối cùng của cô bé.</p>
+<p class="para-vi-sub">Thomas khỏe lại từ từ, nhưng nhanh hơn bất kỳ ai trong số ít ỏi những người mà vị linh mục từng chứng kiến sống sót qua trận dịch hạch. Gã đi dạo trong sân nhà linh mục, húp món súp dở tệ, đập vỡ vài hạt hạnh nhân sót lại trong xe kéo, và tận hưởng giọt mật ong cuối cùng của cô bé.</p>
 
 <p class="para-en">By the end of August she was asking if he felt well enough to travel.</p>
 
-<p class="para-vi-sub">Đến cuối tháng Tám, cô bé hỏi xem anh đã thấy đủ khỏe để lên đường chưa.</p>
+<p class="para-vi-sub">Đến cuối tháng Tám, cô bé hỏi xem gã đã thấy đủ khỏe để lên đường chưa.</p>
 
 <p class="para-en">“Let me guess. Paris, then Avignon.”</p>
 

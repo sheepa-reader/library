@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Hai: Về Những Kẻ Đánh Cá Người
+# CHƯƠNG HAI MƯƠI HAI: Về Những Kẻ Đánh Cá Người
 
 <p class="para-en">“I told you to go to sleep,” Thomas whispered to the priest.</p>
 

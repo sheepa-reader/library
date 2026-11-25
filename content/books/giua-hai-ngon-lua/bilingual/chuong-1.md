@@ -1,4 +1,4 @@
-# Phần I
+# PHẦN I
 
 <p class="para-en">Now in these days the Lord God had turned His face from the business of men; and the angels who had remained loyal to Him said to one another, we must look after the children of Adam. And they did so, as best they could.</p>
 

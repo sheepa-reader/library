@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Hai: Bàn Về Những Kẻ Làm Rượu Đêm
+# CHƯƠNG BA MƯƠI HAI: Bàn Về Những Kẻ Làm Rượu Đêm
 
 <p class="para-en">“What are you doing here?” Robert Hanicotte said.</p>
 
@@ -8,7 +8,7 @@
 
 <p class="para-en">He had come for his nocturnal visit with Guêpe and had nearly leapt out of his skin to see the small girl in her dirty gown hugging her knees in the back corner of the Arab’s stall.</p>
 
-<p class="para-vi-sub">Robert Hanicotte vừa đến thăm Guêpe trong đêm và suýt ngã ngửa khi nhìn thấy Delphine mặc chiếc áo dài dơ bẩn đang ôm đầu gối ngồi co ro ở góc trong cùng chuồng ngựa của con tuấn mã Ả Rập.</p>
+<p class="para-vi-sub">Robert Hanicotte vừa đến thăm Guêpe trong đêm và suýt nữa ngã ngửa khi nhìn thấy Delphine, trong chiếc áo dài lấm lem, đang ôm đầu gối ngồi co ro ở góc trong cùng chuồng ngựa của con tuấn mã Ả Rập.</p>
 
 <p class="para-en">“You’re going to get stepped on,” he said. “Besides the beating you’ll get if the stablehands find you.”</p>
 
@@ -20,11 +20,11 @@
 
 <p class="para-en">“I just might,” he said, but not even the horse was convinced.</p>
 
-<p class="para-vi-sub">Robert Hanicotte lẩm bẩm: “Biết đâu tao sẽ làm thế thật,” nhưng đến cả con ngựa cũng chẳng thèm tin lời anh.</p>
+<p class="para-vi-sub">Robert Hanicotte lẩm bẩm: “Biết đâu tao sẽ làm thế thật,” nhưng đến cả con ngựa cũng chẳng thèm tin lời gã.</p>
 
 <p class="para-en">She was an odd-looking little bird: long-legged with outsized feet and short hair. A peasant girl, but not from here. She spoke to him in his own Norman French.</p>
 
-<p class="para-vi-sub">Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với anh bằng thứ tiếng Pháp xứ Normandy của chính anh.</p>
+<p class="para-vi-sub">Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với gã bằng thứ tiếng Pháp xứ Normandy của chính gã.</p>
 
 <p class="para-en">And the horse liked her. Goddamn if he didn’t seem to like her.</p>
 
@@ -36,7 +36,7 @@
 
 <p class="para-en">“Robert Hanicotte,” she said, causing him to start at the sound of his last name, which nobody had bothered to say for some time, “your brother died bringing me here.”</p>
 
-<p class="para-vi-sub">“Robert Hanicotte,” cô bé nói, khiến anh giật nảy mình khi nghe thấy họ của mình được cất lên, một cái tên mà chẳng ai thèm đoái hoài gọi đến từ lâu lắm rồi, “anh trai anh đã bỏ mạng khi đưa tôi đến đây.”</p>
+<p class="para-vi-sub">“Robert Hanicotte,” cô bé nói, khiến gã giật nảy mình khi nghe thấy họ của mình được cất lên, một cái tên mà chẳng ai thèm đoái hoài gọi đến từ lâu lắm rồi, “anh trai anh đã bỏ mạng khi đưa tôi đến đây.”</p>
 
 <p class="para-en">“What?”</p>
 
@@ -48,15 +48,15 @@
 
 <p class="para-en">Matthieu’s name for him when he hid from his chores in the bushes behind their house. Matthieu, eight years older, who had done what he could to deflect their martial father’s scorn from the younger and even more feminine brother.</p>
 
-<p class="para-vi-sub">Đó là biệt danh mà Père Matthieu Hanicotte đặt cho anh mỗi khi anh trốn việc nhà để chui rúc vào những bụi cây sau nhà. Père Matthieu Hanicotte, người anh hơn anh tám tuổi, kẻ đã làm mọi cách để gạt đi cơn thịnh nộ của người cha thượng võ nhắm vào đứa em trai mềm mỏng và có phần yểu điệu hơn.</p>
+<p class="para-vi-sub">Đó là biệt danh mà Père Matthieu Hanicotte đặt cho gã mỗi khi gã trốn việc nhà để chui rúc vào những bụi cây sau nhà. Père Matthieu Hanicotte, người anh hơn gã tám tuổi, kẻ đã làm mọi cách để gạt đi cơn thịnh nộ của người cha thượng võ nhắm vào đứa em trai mềm mỏng và có phần yểu điệu hơn.</p>
 
 <p class="para-en">She had used his childhood nickname.</p>
 
-<p class="para-vi-sub">Delphine vừa gọi đúng cái tên thời thơ ấu của anh.</p>
+<p class="para-vi-sub">Delphine vừa gọi đúng cái tên thời thơ ấu của gã.</p>
 
 <p class="para-en">He shook this off. Nothing he wanted to hear would come from this girl’s mouth. He just wanted to be left alone.</p>
 
-<p class="para-vi-sub">Robert Hanicotte xua tay gạt phăng ý nghĩ đó đi. Chẳng có điều gì tốt lành mà anh muốn nghe lại thốt ra từ cái miệng của con ranh này cả. Anh chỉ muốn được yên thân.</p>
+<p class="para-vi-sub">Robert Hanicotte xua tay gạt phăng ý nghĩ đó đi. Chẳng có điều gì tốt lành mà gã muốn nghe lại thốt ra từ cái miệng của đứa trẻ này cả. Gã chỉ muốn được yên thân.</p>
 
 <p class="para-en">“How dare you come to me and tell me my brother is dead? What can you know about it, you dirty little thing?”</p>
 
@@ -64,11 +64,11 @@
 
 <p class="para-en">He turned his head to shout down the stables for the napping boy who was supposed to be watching the horses.</p>
 
-<p class="para-vi-sub">Anh quay phắt đầu định thét gọi tên thợ phụ đang ngủ gật ngoài chuồng ngựa, kẻ có nhiệm vụ canh gác đám ngựa.</p>
+<p class="para-vi-sub">Gã quay phắt đầu định thét gọi tên thợ phụ đang ngủ gật ngoài chuồng ngựa, kẻ có nhiệm vụ canh gác đám ngựa.</p>
 
 <p class="para-en">Only when he turned his head, she was standing where he looked.</p>
 
-<p class="para-vi-sub">Nhưng ngay khi anh quay đầu lại, Delphine đã đứng sừng sững ở ngay hướng nhìn của anh.</p>
+<p class="para-vi-sub">Nhưng ngay khi gã quay đầu lại, Delphine đã đứng sừng sững ở ngay hướng nhìn của gã.</p>
 
 <p class="para-en">“Saddle that horse,” she said.</p>
 
@@ -84,7 +84,7 @@
 
 <p class="para-en">“I…the cardinal won’t like it.”</p>
 
-<p class="para-vi-sub">“Tôi… đức hồng y sẽ không thích điều đó đâu.”</p>
+<p class="para-vi-sub">“Ta… đức hồng y sẽ không thích điều đó đâu.”</p>
 
 <p class="para-en">“The cardinal serves a devil.”</p>
 
@@ -92,7 +92,7 @@
 
 <p class="para-en">“How do I know you’re not the devil?”</p>
 
-<p class="para-vi-sub">“Làm sao tôi biết được mày không phải là ác quỷ?”</p>
+<p class="para-vi-sub">“Làm sao ta biết được mày không phải là ác quỷ?”</p>
 
 <p class="para-en">“If you were not deaf to your own heart you would know.”</p>
 
@@ -132,7 +132,7 @@
 
 <p class="para-en">Delphine sat before the handsome, perfumed man as he cantered the horse through the steep streets of Villeneuve, just across the river from Avignon. It was in this city, away from the press of workers’ houses, Jewish ghettos, market stalls, and ordure, that Cardinal Cyriac kept his great stone house with its tiles and garden and fountain. Most of the cardinals lived here. This was a city of ivy and warm stone and plane trees. Delphine closed her eyes so the beauty of Villeneuve would not distract her—it was going to be so hard to turn this man, she would need to be a clear vessel for…</p>
 
-<p class="para-vi-sub">Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi anh điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…</p>
+<p class="para-vi-sub">Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi gã điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…</p>
 
 <p class="para-en">For what?</p>
 
@@ -140,23 +140,23 @@
 
 <p class="para-en">For God</p>
 
-<p class="para-vi-sub">Để dâng lên Chúa</p>
+<p class="para-vi-sub">Để dâng lên Chúa.</p>
 
 <p class="para-en">God is gone</p>
 
-<p class="para-vi-sub">Chúa đã quay mặt đi rồi</p>
+<p class="para-vi-sub">Chúa đã quay mặt đi rồi.</p>
 
 <p class="para-en">For His angels then</p>
 
-<p class="para-vi-sub">Vậy thì dâng lên các thiên thần của Ngài</p>
+<p class="para-vi-sub">Vậy thì dâng lên các thiên thần của Ngài.</p>
 
 <p class="para-en">But Robert had agreed to come with her, and she had not thought he would. He might yet do what she wanted of him.</p>
 
-<p class="para-vi-sub">Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ anh sẽ dễ dàng nhận lời như vậy. Rất có thể anh vẫn sẽ làm điều mà cô muốn.</p>
+<p class="para-vi-sub">Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ gã sẽ dễ dàng nhận lời như vậy. Rất có thể gã vẫn sẽ làm điều mà cô muốn.</p>
 
 <p class="para-en">What they want of him</p>
 
-<p class="para-vi-sub">Điều mà các ngài ấy muốn ở anh</p>
+<p class="para-vi-sub">Điều mà các ngài ấy muốn ở anh.</p>
 
 <p class="para-en">I’m scared of them, too, almost as much as I am of their dark brothers; they’re so bent against each other how can man matter to them?</p>
 
@@ -164,7 +164,7 @@
 
 <p class="para-en">I’m going to die soon</p>
 
-<p class="para-vi-sub">Chẳng mấy chốc nữa ta sẽ chết</p>
+<p class="para-vi-sub">Chẳng mấy chốc nữa ta sẽ chết.</p>
 
 <p class="para-en">Delphine shook her head against her doubt.</p>
 
@@ -172,11 +172,11 @@
 
 <p class="para-en">There are far, far worse things than dying</p>
 
-<p class="para-vi-sub">Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết</p>
+<p class="para-vi-sub">Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết,</p>
 
 <p class="para-en">And I’m about to see them</p>
 
-<p class="para-vi-sub">Và ta sắp sửa phải chứng kiến chúng rồi</p>
+<p class="para-vi-sub">Và ta sắp sửa phải chứng kiến chúng rồi.</p>
 
 <p class="para-en">The horse stumbled on loose stones and jarred her eyes open just beneath the massive tower Phillip the Fair had built to menace the city of the popes some forty years before; Villeneuve was in France, not Provence, while Avignon had just been bought outright by the pope himself, making an earthly sovereign of him. The tower had been built by a bullying king to bully a weak pope; now both were dead and France and Avignon were in bed together, for good it seemed. The tower’s murder-slits were dark, unlike many windows behind her; sleep was not coming easily to the city of cardinals, where important men could afford candles to burn against their nightmares. The people of Villeneuve did not know how close those nightmares were to birthing themselves in the world.</p>
 
@@ -204,7 +204,7 @@
 
 <p class="para-en">Robert started to speak, but she pinched him to keep him silent, pointing at the rows of vines lying under the nearly full moon.</p>
 
-<p class="para-vi-sub">Robert định cất lời, nhưng Delphine liền véo anh một cái để bắt anh giữ im lặng, đoạn chỉ tay về phía những luống nho đang nằm phơi mình dưới ánh trăng gần như tròn vành vạnh.</p>
+<p class="para-vi-sub">Robert định cất lời, nhưng Delphine liền véo gã một cái để bắt gã giữ im lặng, đoạn chỉ tay về phía những luống nho đang nằm phơi mình dưới ánh trăng gần như tròn vành vạnh.</p>
 
 <p class="para-en">“What?” he said.</p>
 
@@ -228,7 +228,7 @@
 
 <p class="para-en">“I still don’t…” he started to whisper, and then he did see. The harvest was on. These vines were Grenache, an October grape, sweet, the latest to go in the basket. Now the backs and heads of men and women bobbed like so many black shadows in the moonlit vines. They hunched to gather, then shuffled to the next plant, shearing clusters of grapes off with the curved iron knives of their trade.</p>
 
-<p class="para-vi-sub">“Ta vẫn chẳng…” Robert bắt đầu thì thầm, rồi anh chợt nhìn thấy thật. Mùa thu hoạch đang diễn ra. Những giàn nho này thuộc giống Grenache, loại quả chín muộn vào tháng Mười, vị ngọt lịm và là những trái cuối cùng được hái bỏ vào giỏ. Lúc này, bóng lưng và đầu của những người đàn ông lẫn phụ nữ đang nhấp nhô tựa vô số chiếc bóng đen ngòm giữa các luống nho dưới ánh trăng. Họ cúi rạp người để thu hoạch, rồi lê bước sang cây tiếp theo, dùng những con dao sắt cong vút vốn là dụng cụ mưu sinh của họ để cắt lìa từng chùm nho.</p>
+<p class="para-vi-sub">“Ta vẫn chẳng…” Robert bắt đầu thì thầm, rồi gã chợt nhìn thấy thật. Mùa thu hoạch đang diễn ra. Những giàn nho này thuộc giống Grenache, loại quả chín muộn vào tháng Mười, vị ngọt lịm và là những trái cuối cùng được hái bỏ vào giỏ. Lúc này, bóng lưng và đầu của những người đàn ông lẫn phụ nữ đang nhấp nhô tựa vô số chiếc bóng đen ngòm giữa các luống nho dưới ánh trăng. Họ cúi rạp người để thu hoạch, rồi lê bước sang cây tiếp theo, dùng những con dao sắt cong vút vốn là dụng cụ mưu sinh của họ để cắt lìa từng chùm nho.</p>
 
 <p class="para-en">“So what?” he said. “There’s moon enough to see. Perhaps they fear a frost and work night and day to save the crop.”</p>
 
@@ -276,11 +276,11 @@
 
 <p class="para-en">This child who did not speak as a child was bewitching him.</p>
 
-<p class="para-vi-sub">Đứa trẻ không nói chuyện như một đứa trẻ này đang bỏ bùa mê thuốc lú cho anh.</p>
+<p class="para-vi-sub">Đứa trẻ không nói chuyện như một đứa trẻ này đang bỏ bùa mê thuốc lú cho gã.</p>
 
 <p class="para-en">He turned to leave and ran directly into a man bearing grapes on his back. Robert began to excuse himself, and then the smell hit him. He had walked directly into a dead man, whose lower jaw was missing and whose eyes had collapsed in on themselves. The dead man pushed by Robert, and then, as if it had struck him that something wrong had just happened, he turned. His black stub of a tongue worked and he pointed at them.</p>
 
-<p class="para-vi-sub">Anh quay đầu định bỏ đi thì đâm sầm vào một gã đang vác nho trên lưng. Robert vừa định cất lời xin lỗi thì luồng mùi xộc thẳng vào mũi anh. Anh đã bước thẳng vào một xác chết, kẻ mà phần hàm dưới đã biến mất và đôi mắt thì thụt sâu vào trong hốc. Xác chết lướt qua người Robert, rồi như thể chợt nhận ra vừa có điều gì đó bất thường xảy ra, nó quay đầu lại. Chiếc lưỡi đen đúa cụt lủn cử động ngoằn ngoèo và nó đưa tay chỉ thẳng về phía họ.</p>
+<p class="para-vi-sub">Gã quay đầu định bỏ đi thì đâm sầm vào một gã đang vác nho trên lưng. Robert vừa định cất lời xin lỗi thì luồng mùi xộc thẳng vào mũi gã. Gã đã bước thẳng vào một xác chết, kẻ mà phần hàm dưới đã biến mất và đôi mắt thì thụt sâu vào trong hốc. Xác chết lướt qua người Robert, rồi như thể chợt nhận ra vừa có điều gì đó bất thường xảy ra, nó quay đầu lại. Chiếc lưỡi đen đúa cụt lủn cử động ngoằn ngoèo và nó đưa tay chỉ thẳng về phía họ.</p>
 
 <p class="para-en">Neither Delphine nor Robert had to tell the other to run.</p>
 
@@ -304,7 +304,7 @@
 
 <p class="para-en">Guêpe bucked and reared at the smell of them, or perhaps at the sound of them rushing through the leaves and butting against one another, and his rope threatened to come loose—if he ran off without them, Robert and Delphine would be</p>
 
-<p class="para-vi-sub">Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ</p>
+<p class="para-vi-sub">Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ bị tóm gọn và bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu.</p>
 
 <p class="para-en">hung like pigs with cut throats to bleed out into the vats</p>
 
@@ -312,11 +312,11 @@
 
 <p class="para-en">caught.</p>
 
-<p class="para-vi-sub">bị tóm gọn.</p>
+<p class="para-vi-sub">Chính cô bé là người đã chộp lấy dây cương, vỗ về con ngựa trong lúc Robert đang lúi húi gỡ nút thắt.</p>
 
 <p class="para-en">It was the girl who grabbed his reins, calming him while Robert fumbled with the knot.</p>
 
-<p class="para-vi-sub">Chính cô bé là người đã chộp lấy dây cương, vỗ về con ngựa trong lúc Robert đang lúi húi gỡ nút thắt.</p>
+<p class="para-vi-sub">Chính cô bé là người đã chộp lấy dây cương, vỗ về con ngựa trong lúc Thomas đang lúi húi gỡ nút thắt.</p>
 
 <p class="para-en">“Hurry!” she said.</p>
 
@@ -328,7 +328,7 @@
 
 <p class="para-en">Robert mounted and nearly bolted without her, but he wheeled and scooped her up just as the dead swarmed over the fence. She would never forget their faces—even as their bodies rushed to do violence, what remained of their faces betrayed sadness, even apology for the murder they were being compelled to commit.</p>
 
-<p class="para-vi-sub">Robert nhảy lên yên và suýt phóng đi một mình, nhưng anh kịp xoay đầu ngựa và với tay vớt cô lên đúng khoảnh khắc lũ xác sống ùa qua hàng rào. Cô sẽ chẳng bao giờ quên được gương mặt của chúng, ngay cả khi thân xác chúng đang lao đi thực hiện hành vi bạo lực, những gì còn lại trên khuôn mặt chúng vẫn ánh lên vẻ buồn bã, thậm chí là sự ăn năn vì tội ác mà chúng bị sai khiến phải làm.</p>
+<p class="para-vi-sub">Robert nhảy lên yên và suýt phóng đi một mình, nhưng gã kịp xoay đầu ngựa và với tay vớt cô lên đúng khoảnh khắc lũ xác sống ùa qua hàng rào. Cô sẽ chẳng bao giờ quên được gương mặt của chúng, ngay cả khi thân xác chúng đang lao đi thực hiện hành vi bạo lực, những gì còn lại trên khuôn mặt chúng vẫn ánh lên vẻ buồn bã, thậm chí là sự ăn năn vì tội ác mà chúng bị sai khiến phải làm.</p>
 
 <p class="para-en">Their knives were out, and the first ones grabbed for the reins. Guêpe jumped one way and then another avoiding the flashing knives; he back-kicked one man whose head fell mostly off, causing him to flail his arms wildly, and then the horse found his footing and bolted down the Grand Chemin de Sorgues.</p>
 
@@ -340,7 +340,7 @@
 
 <p class="para-en">The bridge was nearly deserted as Robert and the girl cantered across. She did not have long left to convince him.</p>
 
-<p class="para-vi-sub">Cây cầu gần như vắng tanh khi Robert và cô bé phi nước kiệu băng qua. Cô chẳng còn nhiều thời gian để thuyết phục anh nữa.</p>
+<p class="para-vi-sub">Cây cầu gần như vắng tanh khi Robert và cô bé phi nước kiệu băng qua. Cô chẳng còn nhiều thời gian để thuyết phục gã nữa.</p>
 
 <p class="para-en">“If you insist on blinding yourself to what you have seen, you’ll have peace for a time. But they will come for you; and then you, too, will stomp in the wine press. Or you will go to Marseilles and sew sails with those who do not flinch when the needle pricks them. Or they’ll strip your flesh from your bones for sport; you have no idea how much they hate you, though they smile.”</p>
 
@@ -372,7 +372,7 @@
 
 <p class="para-en">Robert sighed heavily, pushing the air out, still shaken by the night vintners. He shook his head, though she could not see him behind her.</p>
 
-<p class="para-vi-sub">Robert thở dài nặng nề, trút hết hơi trong lồng ngực, vẫn chưa hết bàng hoàng vì đám người làm rượu ban đêm. Anh lắc đầu, dù cô bé không thể nhìn thấy anh ở phía sau.</p>
+<p class="para-vi-sub">Robert thở dài nặng nề, trút hết hơi trong lồng ngực, vẫn chưa hết bàng hoàng vì đám người làm rượu ban đêm. Gã lắc đầu, dù cô bé không thể nhìn thấy gã ở phía sau.</p>
 
 <p class="para-en">“Something about this smells.”</p>
 
@@ -540,7 +540,7 @@
 
 <p class="para-en">“And what are we going to do with this…Baal’Zebud?”</p>
 
-<p class="para-vi-sub">“Và chúng ta sẽ làm gì với cái tên… Baal’Zebud này đây?”</p>
+<p class="para-vi-sub">“Và chúng ta sẽ làm gì với cái tên… Baal-Zebuth này đây?”</p>
 
 <p class="para-en">“Zebuth.”</p>
 

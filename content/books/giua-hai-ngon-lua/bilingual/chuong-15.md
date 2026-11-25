@@ -1,10 +1,10 @@
 *Phần II*
 
-# Chương Mười Ba: Về Những Giọt Mưa Và Hình Hài Của Tử Thần
+# CHƯƠNG MƯỜI BA: Về Những Giọt Mưa Và Hình Hài Của Tử Thần
 
 <p class="para-en">The rain started almost as soon as they went out the Port St. Bernard and left Paris behind, the girl thinking of the tale of Lot’s wife, telling herself not to look back at the dying city and then doing it anyway. A column of smoke above Paris bade them farewell, as another column of smoke had once greeted them; this one, however, was in the city, where the fire at the woodcarver’s would burn his whole block, sending the healthy into the streets, consuming the sick and the dead. The drops of cold rain that fell on Delphine’s face were the vanguard of the deluge that would save the Left Bank from burning but flood the marshy land on the Right Bank all the way to the Place de Grèves. Bells tolled in the Latin Quarter; there were enough hands, at least, to pull a rope or two. Delphine tried to picture the people ringing those bells; a lone Dominican monk or a paid ringer for the convent; another priest like Père Matthieu, too scared to minister to his flock but trying to save what was left of his soul by warning them about fire. Or were the dead ringing their own bells? If statues could walk, why not them? She felt more tears coming for Annette, and also for herself; when would she feel a woman’s love again? Had Annette died because Delphine had wanted to stay with her? The words of the wicked statues rang in her head again, and she looked at the men in the front of the cart.</p>
 
-<p class="para-vi-sub">Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau; Delphine nghĩ về câu chuyện người vợ của ông Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần rồi cuối cùng vẫn làm vậy. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây; tuy nhiên, cột khói lần này nằm ở trong thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt của Delphine chính là toán quân tiên phong của trận mưa như trút nước cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh; ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện; một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân họ? Nếu các bức tượng có thể đi bộ, hà cớ gì bọn chúng lại không thể? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân mình; đến bao giờ em mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên chị? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.</p>
+<p class="para-vi-sub">Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau. Delphine nghĩ về câu chuyện người vợ của Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần, nhưng rồi cuối cùng em vẫn ngoái lại. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây. Tuy nhiên, cột khói lần này nằm ở trong lòng thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt Delphine chính là toán quân tiên phong của trận mưa như trút nước, cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh, ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện, một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân mình? Nếu các bức tượng có thể bước đi, hà cớ gì bọn chúng lại không thể kéo chuông? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân em... đến bao giờ cô bé mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên cô? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.</p>
 
 <p class="para-en">Please don’t let them die because of me, God.</p>
 
@@ -16,11 +16,11 @@
 
 <p class="para-en">On the third day of it, and their second day without food, the priest saw a stone barn and a cottage and hoped they would be deserted. What had things come to when a man of God wished misfortune on a family because he coveted their roof?</p>
 
-<p class="para-vi-sub">Vào ngày thứ ba mưa tầm tã, cũng là ngày thứ hai họ không có gì bỏ bụng, vị linh mục nhìn thấy một cái kho bằng đá cùng một ngôi nhà nhỏ và hy vọng chúng đã bị bỏ hoang. Mọi chuyện đã đi đến mức nào rồi khi một người của Chúa lại đi cầu mong bất hạnh giáng xuống một gia đình chỉ vì thèm thuồng mái che của họ chứ?</p>
+<p class="para-vi-sub">Vào ngày thứ ba mưa tầm tã, cũng là ngày thứ hai họ không có gì bỏ bụng, vị linh mục nhìn thấy một cái kho bằng đá cùng một ngôi nhà nhỏ và hy vọng chúng đã bị bỏ hoang. Mọi chuyện đã đi đến mức nào rồi khi một người của Chúa lại đi cầu mong bất hạnh giáng xuống một gia đình chỉ vì thèm thuồng mái che của họ cơ chứ?</p>
 
 <p class="para-en">The door to the cottage was open, but they made for the barn, as they would have more room for the mule, and none of them were in the mood to find bodies.</p>
 
-<p class="para-vi-sub">Cửa ngôi nhà nhỏ đang để ngỏ, nhưng họ tiến thẳng về phía cái kho, vì ở đó sẽ có nhiều chỗ hơn cho con la, và chẳng ai trong số họ có tâm trạng đi tìm những cỗ thây cả.</p>
+<p class="para-vi-sub">Cửa ngôi nhà nhỏ đang để ngỏ, nhưng họ tiến thẳng về phía cái kho, vì ở đó sẽ có nhiều chỗ hơn cho con la, và chẳng ai trong số họ có tâm trạng đi tìm những cỗ thây người.</p>
 
 <p class="para-en">The barn was not deserted.</p>
 
@@ -28,7 +28,7 @@
 
 <p class="para-en">The priest walked in first and found a naked man on all fours, stuffing hay into his mouth. An abundance of hay and grasses were knotted into his white beard and hair. His ribs were showing, and he was grimed over and wet, whether with rain or the sweat of some fever was unclear. His eyes were wild, though. And he was not frail. He picked up a rusty scythe with a broken shaft from a pile of farming tools and started toward the priest.</p>
 
-<p class="para-vi-sub">Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn của lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.</p>
+<p class="para-vi-sub">Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.</p>
 
 <p class="para-en">Good God, he means to eat me.</p>
 
@@ -36,11 +36,11 @@
 
 <p class="para-en">Then Thomas and Delphine walked in, Thomas with his sword unsheathed, and the man bolted out the other door, falling when the edge of the scythe clipped the door frame and slipped from his hand, but scampering to his feet again almost instantly. He ran straight across the puddled field and kept running, his bare feet kicking up water all the way, disappearing not in the direction of the house, but toward the tree line past the field.</p>
 
-<p class="para-vi-sub">Ngay lúc đó Thomas và Delphine bước vào, Thomas với thanh kiếm đã tuốt trần, và gã đàn ông liền tháo chạy qua cánh cửa bên kia, ngã nhào khi cạnh của lưỡi hái vướng vào khung cửa rồi tuột khỏi tay lão, nhưng gần như ngay lập tức lão lại lồm cồm bò dậy được. Lão chạy thục mạng băng qua cánh đồng đọng đầy nước và cứ thế chạy miết, đôi chân trần tung nước bắn tung tóe suốt dọc đường, biến mất không phải theo hướng ngôi nhà, mà hướng về phía rặng cây ở phía bên kia cánh đồng.</p>
+<p class="para-vi-sub">Ngay lúc đó Thomas và Delphine bước vào, Thomas với thanh kiếm đã tuốt trần. Gã đàn ông liền tháo chạy qua cánh cửa bên kia, ngã nhào khi cạnh của lưỡi hái vướng vào khung cửa rồi tuột khỏi tay lão, nhưng gần như ngay lập tức lão lại lồm cồm bò dậy được. Lão chạy thục mạng băng qua cánh đồng đọng đầy nước và cứ thế chạy miết, đôi chân trần tung nước bắn tung tóe suốt dọc đường, biến mất không phải theo hướng ngôi nhà, mà hướng về phía rặng cây ở phía bên kia cánh đồng.</p>
 
 <p class="para-en">Thomas broke the silence that followed by saying, “So that’s what the reaper looks like without his robes.”</p>
 
-<p class="para-vi-sub">Thomas phá vỡ sự im lặng bao trùm bằng câu nói, “Hóa ra Thần Chết lúc không mặc áo choàng trông là như thế đấy.”</p>
+<p class="para-vi-sub">Thomas phá vỡ sự im lặng bao trùm bằng một câu cảm thán, “Hóa ra Thần Chết lúc không mặc áo choàng trông là như thế đấy.”</p>
 
 <p class="para-en">The priest laughed after a pause, but the girl just blinked rain out of her eyes and looked at them for an explanation.</p>
 
@@ -48,15 +48,15 @@
 
 <p class="para-en">“Death, girl. Death,” said the priest.</p>
 
-<p class="para-vi-sub">“Cái chết đấy, con bé ạ. Tử thần,” vị linh mục đáp.</p>
+<p class="para-vi-sub">“Cái chết đấy, con ạ. Tử thần đấy,” vị linh mục đáp.</p>
 
 <p class="para-en">Now she laughed, too, and the sound of it was good in the barn.</p>
 
-<p class="para-vi-sub">Giờ thì cô bé cũng bật cười, và âm thanh ấy vang lên nghe thật ấm lòng trong căn kho.</p>
+<p class="para-vi-sub">Giờ thì cô bé cũng bật cười, và âm thanh ấy vang lên nghe thật ấm lòng trong căn kho tối.</p>
 
 <p class="para-en">They built a fire and took off as many of their clothes as decency allowed, hanging these on sticks to dry. When they had, they changed out of their underlinens and then hung them, putting the cozy, dry ones back on, glad for once not to be cold and soaked. The weather had changed, and where the days had been warm and the nights cool, now the days were cool and the nights cold. They agreed to stay in the barn until morning, then scout the fields for fruit or nut trees, or whatever they could find. In the meantime, they set out their cups and bowls, as well as Thomas’s helmet and thigh armor, to catch enough water to keep their bellies full, which somewhat eased the pain of their hunger.</p>
 
-<p class="para-vi-sub">Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép lịch sự rồi treo lên những cây gậy để hơ khô. Xong xuôi, họ thay lớp lót bên trong, đem phơi rồi mặc lại những bộ đồ khô ráo, ấm cúng, thầm biết ơn vì không còn phải chịu cảnh lạnh lẽo và ướt sũng. Thời tiết đã thay đổi; nếu ban ngày từng ấm áp còn ban đêm mát mẻ, thì nay ban ngày se lạnh còn ban đêm buốt giá. Họ đồng ý ở lại trong kho đến sáng rồi sẽ tỏa ra các cánh đồng tìm cây ăn quả, cây có hạt hoặc bất cứ thứ gì có thể kiếm được. Trong lúc chờ đợi, họ bày cốc, bát cùng mũ trụ và giáp đùi của Thomas ra hứng nước mưa nhằm làm dịu cái bụng cồn cào và vơi bớt cơn đau do đói khát.</p>
+<p class="para-vi-sub">Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép lịch sự rồi treo lên những cây gậy để hơ khô. Xong xuôi, họ thay lớp lót bên trong, đem phơi rồi mặc lại những bộ đồ khô ráo, ấm cúng, thầm biết ơn vì không còn phải chịu cảnh lạnh lẽo và ướt sũng. Thời tiết đã thay đổi, nếu ban ngày từng ấm áp còn ban đêm mát mẻ, thì nay ban ngày se lạnh còn ban đêm buốt giá. Họ đồng ý ở lại trong kho đến sáng rồi sẽ tỏa ra các cánh đồng tìm cây ăn quả, cây có hạt hoặc bất cứ thứ gì có thể kiếm được. Trong lúc chờ đợi, họ bày cốc, bát cùng mũ trụ và giáp đùi của Thomas ra hứng nước mưa nhằm làm dịu cái bụng cồn cào và vơi bớt cơn đau do đói khát.</p>
 
 <p class="para-en">“I wish we had music,” the priest said, poking at the glowing logs with the broken end of the scythe he was nearly killed with.</p>
 
@@ -64,7 +64,7 @@
 
 <p class="para-en">“I don’t. You might be tempted to sing,” Thomas said, inspecting his leg where the thing had hit him with her scepter. He suspected the bone of the shin was chipped; a truly ugly bruise had formed, and the flesh around his ankle was swollen and bruised as well. The damned thing had gotten him right where the horse had broken his leg at Crécy.</p>
 
-<p class="para-vi-sub">“Tôi thì không. Cha lại nổi hứng cất giọng ca hát cho mà xem,” Thomas vừa nói vừa kiểm tra phần chân bị thứ quái quỷ kia dùng vương trượng quật trúng. Anh nghi ngờ xương ống chân đã nứt; một vết thâm tím tệ hại hình thành, vùng thịt xung quanh mắt cá sưng vù đầy bầm dập. Thứ chết tiệt đó đã đánh trúng ngay chỗ con ngựa từng làm gãy chân anh tại Trận Crécy.</p>
+<p class="para-vi-sub">“Tôi thì không. Cha lại nổi hứng cất giọng ca hát cho mà xem,” Thomas vừa nói vừa kiểm tra phần chân bị thứ quái quỷ kia dùng vương trượng quật trúng. Gã nghi ngờ xương ống chân đã nứt, một vết thâm tím tệ hại hình thành, vùng thịt xung quanh mắt cá sưng vù đầy bầm dập. Thứ chết tiệt đó đã đánh trúng ngay chỗ con ngựa từng làm gãy chân gã tại Trận Crécy.</p>
 
 <p class="para-en">“Perhaps the girl will sing,” the priest said.</p>
 
@@ -72,7 +72,7 @@
 
 <p class="para-en">“I don’t feel like it,” she said in a nasal little mew. She was getting sick. She had no fever, but she sniffled and complained of an ache near her hips. She had been in enough cold and wet that neither man suspected her of plague. “But what kind of music would you like to hear if you could choose?” she asked Père Matthieu.</p>
 
-<p class="para-vi-sub">“Con chẳng có tâm trạng đâu ạ,” cô bé cất giọng rên rỉ qua giọng mũi. Con bé đang ngả bệnh. Không sốt, nhưng con bé sụt sịt và phàn nàn về những cơn đau nhức gần vùng hông. Con bé đã dầm mình trong cái lạnh và nước ẩm đủ lâu để không ai trong hai người đàn ông phải nghi ngờ con bé mắc dịch hạch. “Nhưng nếu được chọn thì cha muốn nghe loại nhạc gì cơ chứ?” cô bé hỏi cha Matthieu.</p>
+<p class="para-vi-sub">“Con chẳng có tâm trạng đâu ạ,” cô bé cất giọng rên rỉ qua giọng mũi. Con bé đang ngả bệnh. Không sốt, nhưng con bé sụt sịt và phàn nàn về những cơn đau nhức gần vùng hông. Con bé đã dầm mình trong cái lạnh và nước ẩm đủ lâu để không ai trong hai người đàn ông phải nghi ngờ em mắc dịch hạch. “Nhưng nếu được chọn thì cha muốn nghe loại nhạc gì cơ chứ?” cô bé hỏi cha Matthieu.</p>
 
 <p class="para-en">“Oh. A lute. Most certainly a lute. And you, sir knight?”</p>
 
@@ -112,7 +112,7 @@
 
 <p class="para-en">The priest began, telling the story of a knight who was actually a werewolf, but a very considerate one who removed himself into the forest to change his skin. His wife, however, betrayed him by hiding his clothes so he could not change back; in this way, her husband was thought to have disappeared and she was able to marry her lover.</p>
 
-<p class="para-vi-sub">Vị linh mục cất lời trước, kể về một hiệp sĩ thực chất là người sói, nhưng lại là một người sói chu đáo khi tự lui vào rừng sâu để lột xác. Tuy nhiên, người vợ lại phản bội anh ta bằng cách giấu quần áo đi khiến anh ta không thể biến trở lại dạng người; cứ thế, người chồng bị coi là mất tích và mụ ta đường hoàng kết hôn với tình nhân.</p>
+<p class="para-vi-sub">Vị linh mục cất lời trước, kể về một hiệp sĩ thực chất là người sói, nhưng lại là một người sói chu đáo khi tự lui vào rừng sâu để lột xác. Tuy nhiên, người vợ lại phản bội anh ta bằng cách giấu quần áo đi khiến anh ta không thể biến trở lại dạng người, cứ thế, người chồng bị coi là mất tích và mụ ta đường hoàng kết hôn với tình nhân.</p>
 
 <p class="para-en">“Go on,” Thomas said. “Finish it.”</p>
 
@@ -188,7 +188,7 @@
 
 <p class="para-en">“The knight went into the woods as a beast,” Delphine said, and here she made the sound of a beast. “And one day the king and his hunting party found him. They were about to slay him, but then the big wolf bowed to the king.”</p>
 
-<p class="para-vi-sub">Delphine vừa nói vừa phát ra tiếng kêu của dã thú: “Gã hiệp sĩ bước vào rừng trong hình hài một con thú. Và rồi một ngày nọ nhà vua cùng đoàn thợ săn đã tìm thấy hắn. Bọn họ định giết hắn, nhưng rồi con sói lớn lại cúi đầu trước nhà vua.”</p>
+<p class="para-vi-sub">Delphine vừa nói vừa phát ra tiếng kêu của dã thú, “Gã hiệp sĩ bước vào rừng trong hình hài một con thú. Và rồi một ngày nọ nhà vua cùng đoàn thợ săn đã tìm thấy gã. Bọn họ định giết gã, nhưng rồi con sói lớn lại cúi đầu trước nhà vua.”</p>
 
 <p class="para-en">“I like it better already,” Thomas said, nudging the priest.</p>
 
@@ -196,7 +196,7 @@
 
 <p class="para-en">“Now the king decided to make a pet of him, and he took him home to the castle. Everyone came to marvel at the beast, who was so tame and courtly. Until one day the wife and the knight came…wait, I forgot something.”</p>
 
-<p class="para-vi-sub">“Bây giờ nhà vua quyết định nuôi nó làm thú cưng, và ngài mang nó về lâu đài. Mọi người đều đến trầm trồ trước con thú vô cùng thuần hóa và lịch thiệp ấy. Cho đến một ngày nọ người vợ và gã hiệp sĩ bước vào… đợi đã, cháu quên mất một chi tiết.”</p>
+<p class="para-vi-sub">“Bây giờ nhà vua quyết định nuôi nó làm thú cưng, và ngài mang nó về lâu đài. Mọi người đều đến trầm trồ trước con thú vô cùng thuần hóa và lịch thiệp ấy. Cho đến một ngày nọ người vợ và gã hiệp sĩ bước vào... đợi đã, cháu quên mất một chi tiết.”</p>
 
 <p class="para-en">“Are you sure you know this story?” the priest said, but Thomas nudged him again, a bit harder.</p>
 
@@ -208,7 +208,7 @@
 
 <p class="para-en">“When the king found the beast, the knight who had married his wife was there, and the beast growled at him.”</p>
 
-<p class="para-vi-sub">“Khi nhà vua tìm thấy con thú, gã hiệp sĩ đã cưới người vợ của hắn cũng ở đó, và con thú liền gầm gừ với hắn ta.”</p>
+<p class="para-vi-sub">“Khi nhà vua tìm thấy con thú, kẻ đã cưới người vợ của gã hiệp sĩ cũng ở đó, và con thú liền gầm gừ với hắn ta.”</p>
 
 <p class="para-en">She growled and gnashed her teeth, causing both men to laugh.</p>
 
@@ -216,7 +216,7 @@
 
 <p class="para-en">“They wanted to kill it, and that’s when it went up and licked the king’s hand. So, now we are back at the castle. And when the wife and the bad knight come in, the beast bites her nose…”</p>
 
-<p class="para-vi-sub">“Bọn họ muốn giết nó, và đó là lúc nó tiến lại liếm tay nhà vua. Thế là, bây giờ chúng ta đã quay trở lại lâu đài. Và khi người vợ cùng gã hiệp sĩ tồi tệ bước vào, con thú liền cắn vào mũi mụ ta…”</p>
+<p class="para-vi-sub">“Bọn họ muốn giết nó, và đó là lúc nó tiến lại liếm tay nhà vua. Thế là, bây giờ chúng ta đã quay trở lại lâu đài. Và khi người vợ cùng gã hiệp sĩ tồi tệ bước vào, con thú liền cắn vào mũi mụ ta...”</p>
 
 <p class="para-en">Delphine trailed off and the priest knew what she was beginning to remember, so he clapped his hands twice, startling her.</p>
 
@@ -224,11 +224,11 @@
 
 <p class="para-en">“The story, the story,” he said. She nodded and blinked her tears away, wiping at them with her sleeve and snuffling.</p>
 
-<p class="para-vi-sub">“Chuyện kể tiếp đi, kể tiếp đi,” ông giục. Cô bé gật đầu và chớp mắt xua đi những giọt nước mắt, dùng tay áo lau xừ và sụt sịt mũi.</p>
+<p class="para-vi-sub">“Kể tiếp đi con, kể tiếp đi,” ông giục. Cô bé gật đầu và chớp mắt xua đi những giọt nước mắt, dùng tay áo lau mũi rồi sụt sịt.</p>
 
 <p class="para-en">“It bites her. He bites her. The knight.”</p>
 
-<p class="para-vi-sub">“Nó cắn mụ ta. Hắn cắn mụ ta. Gã hiệp sĩ ấy.”</p>
+<p class="para-vi-sub">“Nó cắn mụ ta. Gã cắn mụ ta. Gã hiệp sĩ ấy.”</p>
 
 <p class="para-en">“Yes, I think we have it.”</p>
 
@@ -252,11 +252,11 @@
 
 <p class="para-en">“And the king commands the bad knight to bring the good knight’s clothes. Wait…he’s wearing them. So he just takes them off.”</p>
 
-<p class="para-vi-sub">“Và nhà vua ra lệnh cho gã hiệp sĩ tồi tệ mang quần áo của gã hiệp sĩ tốt tới. Khoan đã… hắn đang mặc chúng trên người mà. Thế nên hắn chỉ việc cởi chúng ra.”</p>
+<p class="para-vi-sub">“Và nhà vua ra lệnh cho gã hiệp sĩ tồi tệ mang quần áo của gã hiệp sĩ tốt tới. Khoan đã... hắn đang mặc chúng trên người mà. Thế nên hắn chỉ việc cởi chúng ra.”</p>
 
 <p class="para-en">“Now he’s naked.”</p>
 
-<p class="para-vi-sub">“Giờ thì hắn truồng cời rồi.”</p>
+<p class="para-vi-sub">“Giờ thì hắn trần như nhộng rồi.”</p>
 
 <p class="para-en">“I guess so. Yes.”</p>
 
@@ -280,7 +280,7 @@
 
 <p class="para-en">“Ha! There’s your lawyer father. I knew he’d come visit.”</p>
 
-<p class="para-vi-sub">“Ha! Bố của luật sư nhà cháu đây rồi. Chú biết thể nào ông ấy cũng ghé thăm mà.”</p>
+<p class="para-vi-sub">“Ha! Lại cái giọng văn luật sư của cháu đấy rồi. Chú biết thể nào ông ấy cũng ghé thăm mà.”</p>
 
 <p class="para-en">She sighed sharply in exasperation.</p>
 
@@ -344,7 +344,7 @@
 
 <p class="para-en">Thomas removed his hand and said, “Did it…?” but she cut him off with a “Ssst!” and pointed her finger again. He replaced his hand.</p>
 
-<p class="para-vi-sub">Thomas rụt tay lại và nói, “Nó có…?” nhưng cô bé ngắt lời anh bằng một tiếng “Suỵt!” và lại chỉ ngón tay về phía trước. Anh đành đặt tay lại chỗ cũ.</p>
+<p class="para-vi-sub">Thomas rụt tay lại và nói, “Nó có...?” nhưng cô bé ngắt lời gã bằng một tiếng “Suỵt!” và lại chỉ ngón tay về phía trước. Gã đành đặt tay lại chỗ cũ.</p>
 
 <p class="para-en">“The wise counselor said that the knight was ashamed to change in front of them. So they put the beast in a bedroom with the clothes. He went in on four legs and came out on two.”</p>
 
@@ -364,7 +364,7 @@
 
 <p class="para-en">“I did. He became a man again.”</p>
 
-<p class="para-vi-sub">“Cháu kể rồi đấy thôi. Hắn lại biến thành con người.”</p>
+<p class="para-vi-sub">“Cháu kể rồi đấy thôi. Gã lại biến thành con người.”</p>
 
 <p class="para-en">“What about the bastard knight and the whore wife? Were they killed?”</p>
 
@@ -396,7 +396,7 @@
 
 <p class="para-en">“Fine,” she said. “I’ll finish it to your tastes. The knight takes his sword and cuts the heads off both of them. Blood goes everywhere. Blood, blood, blood. Then he cuts the head off the king, too. Bloody blood-blood. And he puts the crown on his own head, so he’s king. And the wise counselor gives him his pretty daughter to marry, even though she’s only fifteen years old, and they have lots of babies, and then die and go to Heaven. How do you like that, Sir Thomas?”</p>
 
-<p class="para-vi-sub">“Được rồi,” cô bé nói. “Cháu sẽ kết thúc nó theo ý thích của chú. Hắn rút kiếm chém đứt đầu cả hai đứa chúng nó. Máu văng tung tóe khắp nơi. Máu, máu và máu. Sau đó hắn cũng chém đứt đầu nhà vua luôn. Máu me đầm đìa bê bết. Và hắn tự đội vương miện lên đầu mình, thế là hắn làm vua. Rồi vị cố vấn thông thái gả cô con gái xinh đẹp cho hắn, mặc dù cô bé mới chỉ có mười lăm tuổi, và họ sinh rất nhiều đứa con, rồi chết đi và lên Thiên Đàng. Chú thấy thế nào hở ngài Thomas?”</p>
+<p class="para-vi-sub">“Được rồi,” cô bé nói. “Cháu sẽ kết thúc nó theo ý thích của chú. Gã rút kiếm chém đứt đầu cả hai đứa chúng nó. Máu văng tung tóe khắp nơi. Máu, máu và máu. Sau đó gã cũng chém đứt đầu nhà vua luôn. Máu me đầm đìa bê bết. Và gã tự đội vương miện lên đầu mình, thế là gã làm vua. Rồi vị cố vấn thông thái gả cô con gái xinh đẹp cho gã, mặc dù cô bé mới chỉ có mười lăm tuổi, và họ sinh rất nhiều đứa con, rồi chết đi và lên Thiên Đàng. Chú thấy thế nào hở ngài Thomas?”</p>
 
 <p class="para-en">He clapped his hands and hooted.</p>
 
@@ -404,11 +404,11 @@
 
 <p class="para-en">“Now that’s a cunting story!” he said.</p>
 
-<p class="para-vi-sub">“Thế mới đúng là một câu chuyện khốn kiếp chứ!” anh nói.</p>
+<p class="para-vi-sub">“Thế mới đúng là một câu chuyện khốn kiếp chứ!” gã nói.</p>
 
 <p class="para-en">“Uh…I think we have a visitor,” the priest said, pointing at the barn window, where a pair of eyes peeked at them below a mane of tangled, wet hair knotted with grass.</p>
 
-<p class="para-vi-sub">“Ừm… Tôi nghĩ chúng ta có khách,” vị linh mục lên tiếng, chỉ về phía cửa sổ nhà kho, nơi có một cặp mắt đang lén nhìn họ bên dưới mái tóc rối bù, ướt sũng bết dính những cọng cỏ.</p>
+<p class="para-vi-sub">“Ừm... Tôi nghĩ chúng ta có khách,” vị linh mục lên tiếng, chỉ về phía cửa sổ nhà kho, nơi có một cặp mắt đang lén nhìn họ bên dưới mái tóc rối bù, ướt sũng bết dính những cọng cỏ.</p>
 
 <p class="para-en">Thomas threw a log from the fire, and it hit the wall next to the window, showering sparks.</p>
 
@@ -416,11 +416,11 @@
 
 <p class="para-en">“Go on!” he shouted, reaching for his sword, but the eyes just blinked at him. He got up, and the face disappeared; they saw the naked old man run by the door, looking wildly in at them.</p>
 
-<p class="para-vi-sub">“Biến đi!” anh quát lớn, với tay lấy thanh kiếm, nhưng cặp mắt kia chỉ chớp chớp nhìn anh. Thomas đứng phắt dậy, và khuôn mặt đó biến mất; họ nhìn thấy lão già khỏa thân chạy xẹt qua cửa, ánh mắt đảo điên nhìn trân trân vào trong.</p>
+<p class="para-vi-sub">“Biến đi!” gã quát lớn, với tay lấy thanh kiếm, nhưng cặp mắt kia chỉ chớp chớp nhìn gã. Thomas đứng phắt dậy, và khuôn mặt đó biến mất, họ nhìn thấy lão già khỏa thân chạy xẹt qua cửa, ánh mắt đảo điên nhìn trân trân vào trong.</p>
 
 <p class="para-en">“This is MY BARN!” he said, outraged, and ran into the rain again.</p>
 
-<p class="para-vi-sub">“Đây là NHÀ KHO CỦA TA!” anh phẫn nộ gầm lên, rồi lại lao mình vào màn mưa.</p>
+<p class="para-vi-sub">“Đây là NHÀ KHO CỦA TA!” gã phẫn nộ gầm lên, rồi lại lao mình vào màn mưa.</p>
 
 <p class="para-en">There was no question of Thomas catching him.</p>
 
@@ -432,15 +432,15 @@
 
 <p class="para-en">He woke panting in darkness from a dream about riding his horse through a field of brambles, and tried to remember where he was. When he did, he noticed that the rain had stopped, and he walked outside to look up at the sky. The half-moon flirted with him through gouges in slow-moving clouds that still held water, but he would not be able to look for his comet. He thought it might be out of sight now, having murdered its stellar swan, but he had no doubt that others had come; this had been a promiscuous summer for comets.</p>
 
-<p class="para-vi-sub">Thomas giật mình tỉnh dậy trong bóng tối với tiếng thở hổn hển sau một cơn ác mộng về việc cưỡi ngựa phi qua cánh đồng rậm rạp gai góc, và cố gắng nhớ xem mình đang ở đâu. Khi đã nhớ ra, anh nhận thấy cơn mưa đã ngớt, và anh bước ra ngoài để ngước nhìn bầu trời. Vầng trăng khuyết lấp ló trêu chọc anh qua những kẽ rách của tầng mây di chuyển chậm chạp vẫn còn ngậm nước, nhưng anh sẽ chẳng thể tìm kiếm được ngôi sao chổi của mình nữa. Anh nghĩ có lẽ nó đã khuất tầm nhìn sau khi tước đoạt mạng sống của thiên nga sao trời, nhưng anh không mảy may nghi ngờ rằng những vị khách khác đã kéo đến; đây là một mùa hè bừa bãi của những ngôi sao chổi.</p>
+<p class="para-vi-sub">Thomas giật mình tỉnh dậy trong bóng tối với tiếng thở hổn hển sau một cơn ác mộng về việc cưỡi ngựa phi qua cánh đồng rậm rạp gai góc, và cố gắng nhớ xem mình đang ở đâu. Khi đã nhớ ra, gã nhận thấy cơn mưa đã ngớt, và gã bước ra ngoài để ngước nhìn bầu trời. Vầng trăng khuyết lấp ló trêu chọc gã qua những kẽ rách của tầng mây di chuyển chậm chạp vẫn còn ngậm nước, nhưng gã sẽ chẳng thể tìm kiếm được ngôi sao chổi của mình nữa. Gã nghĩ có lẽ nó đã khuất tầm nhìn sau khi tước đoạt mạng sống của thiên nga sao trời, nhưng gã không mảy may nghi ngờ rằng những vị khách khác đã kéo đến, đây là một mùa hè bừa bãi của những ngôi sao chổi.</p>
 
 <p class="para-en">Only it wasn’t summer anymore. His breath plumed out in front of him. It was nearing mid-September, but it was cold like October.</p>
 
-<p class="para-vi-sub">Chỉ là trời không còn là mùa hè nữa. Hơi thở của anh phả ra thành từng làn khói trắng trước mặt. Thời điểm này đã gần giữa tháng Chín, nhưng trời lạnh giá chẳng khác gì tháng Mười.</p>
+<p class="para-vi-sub">Chỉ là trời không còn là mùa hè nữa. Hơi thở của gã phả ra thành từng làn khói trắng trước mặt. Thời điểm này đã gần giữa tháng Chín, nhưng trời lạnh giá chẳng khác gì tháng Mười.</p>
 
 <p class="para-en">He heard movement behind him, and then a sound of mild displeasure; he turned to see the priest stooping to drink from the bowl he had set out.</p>
 
-<p class="para-vi-sub">Thomas nghe thấy tiếng động phía sau, rồi tiếp theo là một âm thanh tỏ vẻ khó chịu nhẹ; anh quay lại và thấy cha Matthieu đang cúi xuống uống nước từ chiếc bát mà anh đã đặt sẵn.</p>
+<p class="para-vi-sub">Thomas nghe thấy tiếng động phía sau, rồi tiếp theo là một âm thanh tỏ vẻ khó chịu nhẹ, gã quay lại và thấy cha Matthieu đang cúi xuống uống nước từ chiếc bát mà gã đã đặt sẵn.</p>
 
 <p class="para-en">“It’s musty,” he said. “My bowl could do with a scrubbing.”</p>
 

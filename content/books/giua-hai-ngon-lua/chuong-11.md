@@ -1,10 +1,10 @@
 *Phần II*
 
-# Chương Chín: Về Thành Phố Paris
+# CHƯƠNG CHÍN: Về Thành Phố Paris
 
 Paris hiện ra lần đầu bằng một cột khói cuồn cuộn bốc lên trên đỉnh đồi. Họ biết mình đã đến gần, vì họ đã xuôi theo dòng sông từ phía Tây, và cả Thomas lẫn vị linh mục đều tự hỏi liệu toàn bộ thành phố có đang bốc cháy hay không. Khi họ lên đến đỉnh đồi, Thomas cảm thấy hổ thẹn vì sự ngây thơ của mình; thành phố lớn hơn ngọn lửa kia rất nhiều, vốn dĩ ngọn lửa ấy nằm ở bên ngoài tường thành. Một ngọn lửa đủ lớn để thiêu rụi thành phố đó hẳn sẽ sánh ngang với những lò luyện của Địa Ngục, và khói từ nó sẽ làm đen kịt cả phần dưới của những đám mây.
 
-Tất cả những gì đang cháy chỉ là một cánh đồng lúa mì, và ngọn lửa cũng đang dần lụi tàn, tự tắt ngấm dọc theo bờ sông Seine. Vài ngôi nhà đã biến thành những bộ khung đen thui, cùng với hai con bò. Một con bê cất tiếng kêu nghé ọ từ một gò đất, gần như bị che khuất sau bức màn khói trắng bao quanh; ngọn lửa sẽ tha mạng cho con thú này. Tuy nhiên, tám bóng người rách rưới xung quanh nó thì không. Chúng đã bắt đầu thử dò dẫm trên lớp đất còn đang bốc khói xem liệu nó có làm cháy xuyên qua những thứ giẻ rách và giày dép rách nát dưới chân chúng hay không. Chúng đã bắt đầu xách rìu và dao găm lên. Trông chúng chẳng giống nông dân chút nào. Thomas đảo mắt nhìn cánh đồng và thấy một đôi chân nhô ra từ một đám lúa mì chưa bị cháy. Vậy là có án mạng. Thomas bỗng chắc chắn rằng chính những kẻ này đã phóng hỏa. Lẽ ra anh nên chờ đợi và quan sát lâu hơn trước khi đến gần; nhưng giờ thì đã quá muộn. Vài kẻ sát nhân liếc nhìn chiếc xe kéo khi nó đi qua, nhưng chẳng có gì trên xe có thể thu hút sự chú ý của chúng bằng con bê cả. Một trong số chúng nhìn Thomas, và anh đón nhận ánh mắt của tên đó, không phải để đe dọa, mà để cho hắn biết rằng anh sẽ chiến đấu nếu buộc phải làm vậy. Tên cướp nhanh chóng đánh giá rằng bọn chúng có thể cướp chiếc xe, nhưng sẽ phải trả giá đắt. Hắn quay lại nhìn lên gò đất. Giờ đây, Thomas hạ mắt xuống trong nỗi hổ thẹn khi nhớ rằng, nếu mọi chuyện diễn ra theo một hướng khác, rất có thể anh cũng đang đứng trong nhóm người đó, cùng với Godefroy và Jacquot, chờ đợi để xẻ thịt con bê của người đã khuất.
+Tất cả những gì đang cháy chỉ là một cánh đồng lúa mì, và ngọn lửa cũng đang dần lụi tàn, tự tắt ngấm dọc theo bờ sông Seine. Vài ngôi nhà đã biến thành những bộ khung đen thui, cùng với hai con bò. Một con bê cất tiếng kêu nghé ọ từ một gò đất, gần như bị che khuất sau bức màn khói trắng bao quanh; ngọn lửa sẽ tha mạng cho con thú này. Tuy nhiên, tám bóng người rách rưới xung quanh nó thì không. Chúng đã bắt đầu thử dò dẫm trên lớp đất còn đang bốc khói xem liệu nó có làm cháy xuyên qua những thứ giẻ rách và giày dép rách nát dưới chân chúng hay không. Chúng đã bắt đầu xách rìu và dao găm lên. Trông chúng chẳng giống nông dân chút nào. Thomas đảo mắt nhìn cánh đồng và thấy một đôi chân nhô ra từ một đám lúa mì chưa bị cháy. Vậy là có án mạng. Thomas bỗng chắc chắn rằng chính những kẻ này đã phóng hỏa. Lẽ ra anh nên chờ đợi và quan sát lâu hơn trước khi đến gần, nhưng giờ thì đã quá muộn. Vài kẻ sát nhân liếc nhìn chiếc xe kéo khi nó đi qua, nhưng chẳng có gì trên xe có thể thu hút sự chú ý của chúng bằng con bê cả. Một trong số chúng nhìn Thomas, và anh đón nhận ánh mắt của tên đó, không phải để đe dọa, mà để cho hắn biết rằng anh sẽ chiến đấu nếu buộc phải làm vậy. Tên cướp nhanh chóng đánh giá rằng bọn chúng có thể cướp chiếc xe, nhưng sẽ phải trả giá đắt. Hắn quay lại nhìn lên gò đất. Giờ đây, Thomas hạ mắt xuống trong nỗi hổ thẹn khi nhớ rằng, nếu mọi chuyện diễn ra theo một hướng khác, rất có thể anh cũng đang đứng trong nhóm người đó, cùng với Godefroy và Jacquot, chờ đợi để xẻ thịt con bê của người đã khuất.
 
 Ta đã nhìn thấy nó.
 
@@ -58,7 +58,7 @@ Cổng Port du Louvre là cánh cổng gần nhất, và thật may mắn, là m
 
 Những tên lính gác trên đỉnh tường thành trông chẳng khỏe mạnh chút nào. Chúng thiếu ngủ, xám xịt và cáu kỉnh, dẫu chẳng đủ năng lượng để gây sự thêm. Chúng bảo cô bé vén nách, cổ và bẹn lên cho chúng kiểm tra, nhưng chẳng thèm bắt Thomas phải cởi bỏ áo giáp, đồng thời cũng bảo cha Matthieu cứ giữ nguyên áo choàng. Cha Matthieu lắc đầu ngán ngẩm nhìn chúng. Một tên lính thờ thẫn ném một hòn đá nhỏ về phía ông. Chúng vẫy tay cho chiếc xe đi qua.
 
-“Bây giờ là lúc thích hợp để nói cho chúng ta biết cháu đang tìm gì rồi đấy,” Thomas nói. Cô bé gật đầu. Trông con bé có vẻ sợ hãi. Trông chẳng giống một kẻ biết chút gì về lý do tại sao họ lại có mặt ở đây.
+“Bây giờ là lúc thích hợp để nói cho ta biết cháu đang tìm gì rồi đấy,” Thomas nói. Cô bé gật đầu. Trông con bé có vẻ sợ hãi. Trông chẳng giống một kẻ biết chút gì về lý do tại sao họ lại có mặt ở đây.
 
 “Việc đầu tiên là phải tìm chỗ trọ đã,” cha Matthieu nói.
 
@@ -94,7 +94,7 @@ Bọn chúng đều đang say rượu.
 
 “Cược một cốc rượu táo đi, chắc chắn anh ta là hiệp sĩ.”
 
-“Lại càng có lý do để phóng một mũi tên vào hắn. Biết đâu hắn lại là một trong đám thiến lợn đã để người Anh bôi nhọ chúng ta tại Crécy.”
+“Lại càng có lý do để phóng một mũi tên vào hắn. Biết đâu hắn lại là một trong đám thiến lợn đã để người Anh làm nhục chúng ta tại Crécy.”
 
 “Đừng để Sir Jean nghe thấy mày nói thế.”
 
@@ -120,13 +120,13 @@ Một mũi tên xé gió bay sượt qua sau đầu họ rồi cắm phập vào
 
 “Tao làm việc hiệu quả hơn khi có vật cản.”
 
-Vượt qua cung điện và nhà thờ St. Barthélemy, họ rẽ phải vào phố de La Vielle Draperie, rồi lại rẽ phải vào phố La Juiverie, cái tên được đặt theo những người Do Thái giờ đây không còn bóng dáng, bởi họ đã bị trục xuất khỏi thành phố này một lần nữa từ gần ba mươi năm trước. Chẳng mấy chốc, nhìn thấy hai ngọn tháp vuông của nhà thờ Nôtre Dame ở phía bên trái, Thomas ngẩng đầu lên và nhổ một bãi nước bọt về phía nhà thờ lớn, nhìn vòi nước bọt trắng đục vạch thành một đường cong rồi tan ra trong không khí; gã tưởng tượng đó là một hòn đá do máy bắn đá phóng đi và nó sẽ đập thủng một lỗ trên ô cửa sổ tròn lộng lẫy ngay phía trên cửa ra vào, nhưng bãi nước bọt ấy chỉ rơi tõm xuống vũng bùn.
+Vượt qua cung điện và nhà thờ St. Barthélemy, họ rẽ phải vào phố de La Vielle Draperie, rồi lại rẽ phải vào phố La Juiverie, cái tên được đặt theo những người Do Thái giờ đây không còn bóng dáng, bởi họ đã bị trục xuất khỏi thành phố này một lần nữa từ gần ba mươi năm trước. Chẳng mấy chốc, nhìn thấy hai ngọn tháp vuông của nhà thờ Notre Dame ở phía bên trái, Thomas ngẩng đầu lên và nhổ một bãi nước bọt về phía nhà thờ lớn, nhìn vòi nước bọt trắng đục vạch thành một đường cong rồi tan ra trong không khí; gã tưởng tượng đó là một hòn đá do máy bắn đá phóng đi và nó sẽ đập thủng một lỗ trên ô cửa sổ tròn lộng lẫy ngay phía trên cửa ra vào, nhưng bãi nước bọt ấy chỉ rơi tõm xuống vũng bùn.
 
 Họ đang tiến đến khu vực phía nam của Île de la Cité, nơi Bệnh viện Hôtel-Dieu tọa lạc gần cây cầu Petit Pont dẫn sang Khu phố La Tinh. Bệnh viện Hôtel-Dieu vốn sẵn lòng cho bất kỳ lữ khách nghèo nào trọ lại một đêm theo phong tục, ngặt nỗi bệnh viện lớn này đang quá tải bởi những người chết vì dịch hạch. Một đống thi thể chất cao như núi nằm bên ngoài đang chờ được mang đi, trong đó có hai thi thể là nữ tu áo trắng, những cô gái trẻ mặc tu phục trắng đã tận tụy chăm sóc người bệnh. Liếc nhìn qua cánh cửa đang mở rộng, người ta có thể thấy một khung cảnh địa ngục tràn ngập tiếng nôn mửa, ho hắng và tiếng khóc nức nở, với vô số những bóng hình tiều tụy mặc áo trắng đang chật vật tìm cách xoa dịu nỗi thống khổ cho một lượng bệnh nhân quá đỗi, quá đỗi đông đúc.
 
 Cô bé nức nở và vị linh mục ôm lấy em. Bàn tay Thomas giật bắn lên theo phản xạ đã bị kìm nén từ lâu là đưa lên làm dấu thánh, nhưng gã đã không làm thế. Gã nghiến răng và lắc đầu.
 
-Khi họ đến gần cây cầu dẫn sang Tả ngạn, cô bé ngồi dậy khỏi vòng tay vị linh mục và nhìn dòng nước xám xịt của sông Seine đang cuồn cuộn chảy bên dưới. Một con cừu chết trôi qua nhưng bị vướng lại không thể trôi tiếp sang phía bên kia. Cha Matthieu tự hỏi không biết nó có mắc kẹt vào đống rác rưởi dưới chân trụ cầu hay không, và liệu đống rác rưởi ấy có bao gồm cả xác người hay không, rồi ông ngạc nhiên khi thấy bản thân chẳng mảy may cảm thấy điều gì trước cảnh tượng đó. Ở phía bên kia, lối vào Khu phố La Tinh, họ đi ngang qua bức tượng gỗ vẽ hình Chúa Kitô được đặt trên bệ đá, dưới chân bệ là một người phụ nữ đang sốt cao ngời ngời, mồ hôi nhễ nhại, ôm trọn một con mèo chết trong lòng. Thomas ngẩng nhìn bức tượng Chúa có phần đầu dài và cất lời, không hẳn là thì thầm: “Ngài cũng chết rồi phải không? Nếu chưa, hãy bước xuống khỏi cái thứ đĩ điếm đó và làm gì đi chứ. Hoặc ít nhất hãy nháy mắt với tôi một cái. Chừng đó chắc ngài làm được chứ?”
+Khi họ đến gần cây cầu dẫn sang Tả ngạn, cô bé ngồi dậy khỏi vòng tay vị linh mục và nhìn dòng nước xám xịt của sông Seine đang cuồn cuộn chảy bên dưới. Một con cừu chết trôi qua nhưng bị vướng lại không thể trôi tiếp sang phía bên kia. Cha Matthieu tự hỏi không biết nó có mắc kẹt vào đống rác rưởi dưới chân trụ cầu hay không, và liệu đống rác rưởi ấy có bao gồm cả xác người hay không, rồi ông ngạc nhiên khi thấy bản thân chẳng mảy may cảm thấy điều gì trước cảnh tượng đó. Ở phía bên kia, lối vào Khu phố La Tinh, họ đi ngang qua bức tượng gỗ vẽ hình Chúa Kitô được đặt trên bệ đá, dưới chân bệ là một người phụ nữ đang sốt cao ngời ngời, mồ hôi nhễ nhại, ôm trọn một con mèo chết trong lòng. Thomas ngẩng nhìn bức tượng Chúa có phần đầu dài và cất lời, không hẳn là thì thầm: “Ngài cũng chết rồi phải không? Nếu chưa, hãy bước xuống khỏi cái bệ đá đĩ đõa đó và làm gì đi chứ. Hoặc ít nhất hãy nháy mắt với tôi một cái. Chừng đó chắc ngài làm được chứ?”
 
 Ngài không nháy mắt.
 
@@ -136,15 +136,15 @@ Họ lê bánh xe qua khu lò mổ, nơi bùn đất nồng nặc mùi máu cùn
 
 Họ lại lạc lối trong những con hẻm ngoằn ngoèo như mê cung và bắt đầu tuyệt vọng về việc tìm chỗ trọ. Mặt trời đã hạ thấp đến mức chỉ thỉnh thoảng mới lọt được những tia sáng giữa các dãy nhà để rọi thứ ánh sáng vàng vợt, lạnh lẽo xuống lớp bùn. Chính một luồng sáng như thế đang chiếu vào bàn chân của người phụ nữ mang dáng dấp đàn ông. Bà ngồi trước ngưỡng cửa của một ngôi nhà gỗ xiêu vẹo với lớp sơn đang bong tróc. Một tên thanh niên có gương mặt xảo quyệt đứng gần đó, dùng con dao gỉ sét cạo móng tay.
 
-“Trông hai người có vẻ lạc đường,” bà bảo họ.
+“Trông hai người có vẻ lạc đường,” mụ bảo họ.
 
-Père Matthieu liếc nhìn đôi tất xanh bám đầy mỡ của bà trước, rồi ngước lên mái tóc rối bù, và cuối cùng dừng lại ở khuôn mặt. Bà mang vẻ mặt của một con chó ngao cảnh giác. Bà còn có chùm râu mép trông hợp với một đứa con trai mười ba tuổi hơn.
+Père Matthieu liếc nhìn đôi tất xanh bám đầy mỡ của mụ trước, rồi ngước lên mái tóc rối bù, và cuối cùng dừng lại ở khuôn mặt. Mụ mang vẻ mặt của một con chó ngao cảnh giác. Mụ còn có chùm râu mép trông hợp với một đứa con trai mười ba tuổi hơn.
 
 “Đúng thế thật,” cha Matthieu đáp.
 
-Thomas nhận thấy người phụ nữ là một kẻ vạm vỡ với đôi bàn tay cùng bờ vai lực lưỡng, đủ lớn tuổi để gã thanh niên đứng gần có thể là con trai bà, và rằng bà đang đội một chiếc mũ đẹp, một chiếc mũ nỉ vành chụp rộng của kẻ giàu có đính ghim vàng. Chắc chắn thành phố này có nhiều mũ đẹp hơn là những cái đầu còn sống để đội chúng, và xét đến một mức độ nào đó thì việc vơ vét chúng khó lòng bị coi là cướp bóc nữa.
+Thomas nhận thấy người phụ nữ là một kẻ vạm vỡ với đôi bàn tay cùng bờ vai lực lưỡng, đủ lớn tuổi để gã thanh niên đứng gần có thể là con trai mụ, và rằng mụ đang đội một chiếc mũ đẹp, một chiếc mũ nỉ vành chụp rộng của kẻ giàu có đính ghim vàng. Chắc chắn thành phố này có nhiều mũ đẹp hơn là những cái đầu còn sống để đội chúng, và xét đến một mức độ nào đó thì việc vơ vét chúng khó lòng bị coi là cướp bóc nữa.
 
-Cô bé để ý đến đôi mắt bà. Chúng có vẻ hiền từ, dẫu cho diện mạo người phụ nữ này trông bặm trợn. Chẳng hiểu sao, cô bé lại muốn được người phụ nữ ấy ôm lấy. Đã lâu lắm rồi cô bé không ngửi thấy mùi da thịt của một người phụ nữ, đến nỗi ngay cả cái ôm của một ả đàn bà bẩn thỉu cũng trở nên đáng quý. Cô bé vẫn còn hoảng loạn trước cảnh tượng những nữ tu trẻ tuổi đã chết gần bệnh viện, và cô bé muốn có một người phụ nữ ôm lấy mình, bảo rằng toàn bộ thế giới này vẫn chưa thuộc về Thần Chết, vị Thần Chết nam tính với chiếc đồng hồ cát cùng những hốc mắt trống hoác. Thần Chết với đôi tay xương xẩu chỉ ôm ấp để đưa con người đi xa, như một con cừu bị lùa khỏi chợ. Như con lợn ở phố La Bucherie. Thiên Đàng dính líu gì đến tất cả những chuyện này? Thiên Đàng là sự sống, chứ không phải cái chết. Thiên Đàng là một người phụ nữ ôm lấy đầu bạn vào khuỷu tay và cúi xuống nhìn bạn. Thiên Đàng là một bàn tay ấm áp áp lên má bạn và mùi súp tỏi đun trên bếp.
+Cô bé để ý đến đôi mắt mụ. Chúng có vẻ hiền từ, dẫu cho diện mạo người phụ nữ này trông bặm trợn. Chẳng hiểu sao, cô bé lại muốn được người phụ nữ ấy ôm lấy. Đã lâu lắm rồi cô bé không ngửi thấy mùi da thịt của một người phụ nữ, đến nỗi ngay cả cái ôm của một ả đàn bà bẩn thỉu cũng trở nên đáng quý. Cô bé vẫn còn hoảng loạn trước cảnh tượng những nữ tu trẻ tuổi đã chết gần bệnh viện, và cô bé muốn có một người phụ nữ ôm lấy mình, bảo rằng toàn bộ thế giới này vẫn chưa thuộc về Thần Chết, vị Thần Chết nam tính với chiếc đồng hồ cát cùng những hốc mắt trống hoác. Thần Chết với đôi tay xương xẩu chỉ ôm ấp để đưa con người đi xa, như một con cừu bị lùa khỏi chợ. Như con lợn ở phố La Bucherie. Thiên Đàng dính líu gì đến tất cả những chuyện này? Thiên Đàng là sự sống, chứ không phải cái chết. Thiên Đàng là một người phụ nữ ôm lấy đầu bạn vào khuỷu tay và cúi xuống nhìn bạn. Thiên Đàng là một bàn tay ấm áp áp lên má bạn và mùi súp tỏi đun trên bếp.
 
 Làm sao con người ta có thể tận hưởng bất cứ điều gì trên Thiên Đàng khi mũi đã thối rữa, tai đầy bùn đất cùng giòi bọ, chẳng còn đôi má, chẳng còn bàn tay để đặt lên gò má nữa?
 
@@ -182,7 +182,7 @@ Tia nắng cuối cùng tuột khỏi bàn chân người phụ nữ và giờ �
 
 “Ta không ưa hắn.”
 
-Père Matthieu liền nói: “Hắn hơi cộc cằn lúc đầu thôi, nhưng có một trái tim nhân hậu. Một đồng sou rưỡi thì sao?”
+Père Matthieu liền nói: “Anh ta hơi cộc cằn lúc đầu thôi, nhưng có một trái tim nhân hậu. Một đồng sou rưỡi thì sao?”
 
 “Ta không phải là kẻ phải kỳ kèo mặc cả. Là ba đồng sou.”
 
@@ -234,7 +234,7 @@ Họ rời đi.
 
 Cách đó chừng sáu mươi bước chân, họ dừng xe lại gần một vũng nước lớn đọng lại ngay chỗ sụt lún giữa đường. Vị linh mục tiến đến cánh cửa màu xanh mà ả ta đã chỉ, đưa chìa khóa vào ổ. Rõ ràng là nó quá nhỏ so với ổ khóa, thế nhưng cánh cửa vẫn tự bật mở.
 
-Căn phòng đặc quánh những ruồi.
+Căn phòng đặc quánh ruồi nhặng.
 
 Ba cỗ tử thi đã phân hủy nặng nằm trong phòng, bốc lên mùi hôi thối nồng nặc, lẫn với mùi ẩm mốc vì mái nhà đã sập, mùi nước tiểu và phân; vài đống phân chất đống gần khung cửa sổ mở toang rõ ràng là có kẻ đã ngồi trên bệ cửa để đại tiện hoặc tè thẳng qua ô trống. Sàn đất còn vương vãi xương động vật, vỏ trứng, vảy cá cùng đủ loại rác rưởi khác. Họ vừa được bán cho quyền được ngủ chung với nhà xác, hố xí và bãi rác của khu này. Vị linh mục nôn ọe, cô bé rên rỉ, còn Thomas bước vội về phía xe kéo lấy thanh gươm ra khỏi vỏ. Gã chạy ngược lại sáu mươi bước chân đến trước thềm nhà, nhưng dĩ nhiên là mụ đàn bà kia cùng kẻ đồng bọn đã cao chạy xa bay.
 
@@ -280,7 +280,7 @@ Gã nhổ một bãi nước bọt xuống đất rồi giậm chân thình th�
 
 Không một ai bám theo gã.
 
-Thomas vừa quay lại chiếc xe thì thấy vị linh mục chuẩn bị vứt chiếc chìa khóa vô tích sự xuống đường, nhưng cô bé liền cất tiếng: “Cha cho con được không?”
+Thomas vừa quay lại chiếc xe thì thấy vị linh mục chuẩn bị vứt chiếc chìa khóa vô tích sự xuống đường, nhưng cô bé liền cất tiếng: “Cha cho con xin được không?”
 
 “Con xin nó làm gì?”
 
@@ -290,11 +290,11 @@ Sự ngây thơ của cô bé khiến Père Matthieu ngượng ngùng vì cơn g
 
 “Nếu nó làm con cười được, thì xem như nó không hoàn toàn vô giá trị,” ông mỉm cười đáp lại.
 
-“Tao mừng là hai người đang vui sướng ra mặt thế đấy,” Thomas chì chiết.
+“Ta mừng là hai người đang vui sướng ra mặt thế đấy,” Thomas chì chiết.
 
-“Ngài mang bộ mặt đưa đám kìa,” cô bé bảo.
+“Chú mang bộ mặt đưa đám kìa,” cô bé bảo.
 
-“Tao từng mang những bộ mặt thảm hại hơn thế. Giờ thì sao đây?”
+“Ta từng mang những bộ mặt thảm hại hơn thế. Giờ thì sao đây?”
 
 “Chắc là chúng ta ngủ trên xe thôi,” vị linh mục đáp.
 
@@ -400,7 +400,7 @@ Jehan liếc nhanh về phía cô bé, rồi lắc đầu và hít một hơi th
 
 “Chúng ta không biết. Chẳng ai nhìn thấy chúng mà còn sống sót cả.”
 
-Vợ của Jehan, Annette, bưng ra mấy lát bánh mì khô cứng kèm theo phần súp loãng cuối cùng của họ. “Đừng ngại ăn cho sạch nhé; chúng tôi đã ăn phần của mình rồi,” chị nói. Bị dằn vặt bởi cảm xúc dâng trào trước sự tử tế cùng gương mặt mộc mạc mà hiền hậu của người phụ nữ, cô bé liền cúi xuống hôn lên tay chị. Annette dịu dàng vuốt tóc cô bé. Đứa trẻ bỗng cảm nhận được nỗi đau ẩn giấu trong lòng người phụ nữ ấy, nỗi đau sao mà giống hệt nỗi đau của chính mình đến thế. Một người vừa mất đi đứa con gái, người kia vừa mất đi người mẹ. Cả hai đều tìm thấy bóng dáng người thân đã khuất lấp ló ở đối phương. Cảm giác ấy cay đắng nhường nào, nhưng cũng thật ngọt ngào và tốt đẹp biết bao. Annette kéo đầu cô bé vào ngực mình, thoạt đầu còn ngập ngừng, nhưng rồi siết chặt lại với nỗi xúc động khôn tả, và bật khóc thấm đẫm vào mái tóc em.
+Vợ của Jehan, Annette, bưng ra mấy lát bánh mì khô cứng kèm theo phần súp loãng cuối cùng của họ. “Đừng ngại ăn cho sạch nhé, chúng tôi đã ăn phần của mình rồi,” chị nói. Bị dằn vặt bởi cảm xúc dâng trào trước sự tử tế cùng gương mặt mộc mạc mà hiền hậu của người phụ nữ, cô bé liền cúi xuống hôn lên tay chị. Annette dịu dàng vuốt tóc cô bé. Đứa trẻ bỗng cảm nhận được nỗi đau ẩn giấu trong lòng người phụ nữ ấy, nỗi đau sao mà giống hệt nỗi đau của chính mình đến thế. Một người vừa mất đi đứa con gái, người kia vừa mất đi người mẹ. Cả hai đều tìm thấy bóng dáng người thân đã khuất lấp ló ở đối phương. Cảm giác ấy cay đắng nhường nào, nhưng cũng thật ngọt ngào và tốt đẹp biết bao. Annette kéo đầu cô bé vào ngực mình, thoạt đầu còn ngập ngừng, nhưng rồi siết chặt lại với nỗi xúc động khôn tả, và bật khóc thấm đẫm vào mái tóc em.
 
 “Tên con là gì thế, chú chim nhỏ?”
 
@@ -420,15 +420,15 @@ Con bé đã về nhà. Đây chính là mái nhà của con bé từ nay về s
 
 Khi những người đàn ông đã yên vị trên mặt đất nện chặt đầy đất cát, Jehan hạ giọng thì thầm với họ.
 
-“Không phải là không có ai từng nhìn thấy những kẻ hay gõ cửa đó; mà là vì những gì họ nhìn thấy quá sức kinh hoàng.”
+“Không phải là không có ai từng nhìn thấy những kẻ hay gõ cửa đó, mà là vì những gì họ nhìn thấy quá sức kinh hoàng.”
 
 “Nói tiếp đi,” Thomas cất tiếng giục.
 
-“Maude, một nữ thợ làm mũ góa chồng ở con phố kế bên, đã nghe tiếng gõ cửa nhưng không mở. Nhưng ả nghe thấy tiếng người hàng xóm là Humbert mở cửa cho chúng rồi hét lên. Nhà ả ta cổ kính nên ả có thể nhìn ra ngoài qua một khe hở giữa xà nhà và lớp trát vữa. Ả bảo rằng một gã người đá đã túm lấy tóc Humbert và cắn đứt mũi hắn. Rồi bọn chúng bước vào, tiếp theo là một ả đàn bà đá khác. Cả gia đình đã bị sát hại: bị đánh đập dã man và cắn xé tơi bời. Đó là việc làm của ác quỷ.”
+“Maude, một nữ thợ làm mũ góa chồng ở con phố kế bên, đã nghe tiếng gõ cửa nhưng không mở. Nhưng ả nghe thấy tiếng người hàng xóm là Humbert mở cửa cho chúng rồi hét lên. Nhà ả ta cổ kính nên ả có thể nhìn ra ngoài qua một khe hở giữa xà nhà và lớp trát vữa. Ả bảo rằng một gã người đá đã túm lấy tóc Humbert và cắn đứt mũi hắn. Rồi bọn chúng bước vào, tiếp theo là một ả đàn bà đá khác. Cả gia đình đã bị sát hại, bị đánh đập dã man và cắn xé tơi bời. Đó là việc làm của ác quỷ.”
 
 “Trời tối phải không anh?” vị linh mục lên tiếng hỏi.
 
-“Tất nhiên rồi chứ; chúng chỉ xuất hiện vào ban đêm thôi.”
+“Tất nhiên rồi chứ, chúng chỉ xuất hiện vào ban đêm thôi.”
 
 “Sao cô ta lại chắc chắn đó là đá? Biết đâu bọn chúng chỉ là lũ trộm cắp.”
 
@@ -438,7 +438,7 @@ Khi những người đàn ông đã yên vị trên mặt đất nện chặt �
 
 Câu đùa nhạt nhẽo của Thomas lơ lửng trong bóng tối đặc quánh của xưởng mộc một hồi lâu, cho đến khi con la thản nhiên phóng một bãi phân to tướng xuống sàn nhà của người thợ mộc. Thomas bắt đầu khúc khích cười, rồi chẳng mấy chốc vị linh mục và Jehan cũng khúc khích cười theo, để rồi cả ba người bất thành trong việc kìm nén tiếng cười giống như những đứa trẻ hư đốn trong nhà thờ.
 
-“Có chuyện gì mà vui thế dưới đó vậy?” Annette gọi vọng xuống.
+“Có chuyện gì mà vui thế dưới đó hả?” Annette gọi vọng xuống.
 
 “Ồ, không có gì đâu,” Jehan nói. “Một vị khách của chúng ta bảo rằng hắn rất thích bữa tối.”
 
@@ -450,11 +450,11 @@ Buổi sáng đã đến. Bầu trời mang một màu xám rực rỡ chẳng �
 
 Vị linh mục ngồi sát bên Thomas và thì thầm nhỏ vào tai anh.
 
-“Ngài định làm gì nếu con bé ở lại?”
+“Sir Thomas, chú định làm gì nếu con bé ở lại?”
 
 “Nó sẽ ở lại thôi, chắc chắn thế. Nó đang rải cỏ lau cùng người phụ nữ kia và giúp chị ấy bắt bọ chét trên tấm khăn trải giường rồi kìa.”
 
-“Vậy ngài sẽ làm gì?”
+“Vậy chú sẽ làm gì?”
 
 “Như trước đây thôi. Tiếp tục lên đường.”
 
@@ -464,11 +464,11 @@ Vị linh mục ngồi sát bên Thomas và thì thầm nhỏ vào tai anh.
 
 “Tôi thì có rồi. Tôi nghĩ mình vẫn muốn đến Avignon.”
 
-“Gặp linh mục đồng tính của cha à?”
+“Gặp gã linh mục đồng tính của cha à?”
 
 Vị linh mục nhăn mặt trước câu nói đó nhưng rồi vẫn gật đầu nhẹ. Sáng nay Thomas có cái gì đó vô cùng cứng cỏi và sắc bén.
 
-“Ngài có thể đi cùng tôi.”
+“Ngài hiệp sĩ có thể đi cùng tôi.”
 
 “Trên chiếc xe kéo của cha á?”
 
@@ -484,9 +484,9 @@ Vị linh mục nhăn mặt trước câu nói đó nhưng rồi vẫn gật đ�
 
 “Tôi thích nói thế nào là quyền của tôi. Và đừng có làm cái vẻ mặt tổn thương vì chiếc xe kéo đó thế. Chỉ vì cha ra vườn cây ăn trái và tìm thấy nó thì không có nghĩa nó là của cha đâu.”
 
-“Tôi không tranh cãi chuyện đó. Tôi chỉ nghĩ là…”
+“Tôi không tranh cãi chuyện đó. Tôi chỉ nghĩ là...”
 
-“Thôi, đừng nghĩ ngợi gì sất. Tôi ở một mình sẽ tốt hơn, thế thôi. Tôi cũng chẳng biết tại sao từ đầu mình lại đi theo đuôi con bé phù thủy nhỏ bé đó nữa. Hay đi cùng với cha. Dù sao tôi cũng bị đày xuống Địa Ngục rồi, và cha cũng vậy thôi, mặc dù cha không nhận ra điều đó chỉ vì cha đang khoác tu phục, đeo thánh giá và tụng kinh bằng tiếng Latinh. Tôi chỉ… không muốn có bất kỳ ai dòm ngó đến mình. Nếu tôi buộc phải làm mọi thứ để sinh tồn.”
+“Thôi, đừng nghĩ ngợi gì sất. Tôi ở một mình sẽ tốt hơn, thế thôi. Tôi cũng chẳng biết tại sao từ đầu mình lại đi theo đuôi con bé phù thủy nhỏ bé đó nữa. Hay đi cùng với cha. Dù sao tôi cũng bị đày xuống Địa Ngục rồi, và cha cũng vậy thôi, mặc dù cha không nhận ra điều đó chỉ vì cha đang khoác tu phục, đeo thánh giá và tụng kinh bằng tiếng Latinh. Tôi chỉ... không muốn có bất kỳ ai dòm ngó đến mình, nếu tôi buộc phải làm mọi thứ để sinh tồn.”
 
 “Tôi hiểu.”
 
@@ -494,7 +494,7 @@ Vị linh mục nhăn mặt trước câu nói đó nhưng rồi vẫn gật đ�
 
 Người thợ mộc cựa quậy người giây lát, nhưng rồi lại tiếp tục ngáy khò khò.
 
-“Ngài… ngài đã bị rút phép thông công thật sao?”
+“Sir Thomas... chú đã bị rút phép thông công thật sao?”
 
 Thomas gật đầu, rồi đứng phắt dậy từ dưới sàn mà không cần dùng đến tay để chống, giống như một gã cận vệ trẻ tuổi khỏe mạnh; cứ như thể sự tức giận đã mang lại cho anh vẻ trẻ trung. Với đôi mày cau lại và ánh mắt đầy vẻ hiếu chiến, trông anh chỉ mới ba mươi chứ không phải bốn mươi tuổi. Trông anh hệt như bức tượng của vị thần chiến tranh Mars. Hoặc Lucifer. Anh với lấy thanh kiếm cùng hòn đá mài rồi lẹ làng ngồi xổm xuống trên đôi gót chân.
 
@@ -502,11 +502,11 @@ Thomas gật đầu, rồi đứng phắt dậy từ dưới sàn mà không c�
 
 “Chuyện đó quan trọng lắm à?”
 
-“Tôi chỉ tò mò thôi. Chuyện đó… nó mang tính chung kết quá.”
+“Tôi chỉ tò mò thôi. Chuyện đó... nó mang tính chung kết quá.”
 
 “Tôi nghĩ mình nên cho cha biết trước khi cha phải khóc lóc quá nhiều vì sắp phải chia tay tôi.”
 
-“Tại sao họ lại làm thế với ngài?”
+“Tại sao họ lại làm thế với chú?”
 
 “Cha muốn nghe lý do người ta đưa ra? Hay lý do thật sự?”
 
@@ -514,11 +514,11 @@ Thomas gật đầu, rồi đứng phắt dậy từ dưới sàn mà không c�
 
 “Dị giáo, kê gian, phạm thượng. Những cái cớ quen thuộc để biến ngôi làng của một lãnh chúa nhỏ thành kẻ thù của hắn.”
 
-“Trông ngài đâu giống một kẻ kê gian.”
+“Trông chú đâu giống một kẻ kê gian.”
 
 “Ồ, nhưng dị giáo và tội phạm thượng thì nghe hợp lý lắm phải không?”
 
-“Có lẽ là tội phạm thượng. Ngài đúng là có cách diễn đạt sự bất mãn rất phong phú. Nhưng tại sao họ lại thật sự rút phép thông công của ngài?”
+“Có lẽ là tội phạm thượng. Chú đúng là có cách diễn đạt sự bất mãn rất phong phú. Nhưng tại sao họ lại thật sự rút phép thông công của chú?”
 
 “Để chiếm đoạt đất đai của tôi. Còn vì lý do gì nữa?”
 
@@ -526,7 +526,7 @@ Thomas gật đầu, rồi đứng phắt dậy từ dưới sàn mà không c�
 
 “Lời này lại thốt ra từ cái miệng của kẻ từng chịu lễ ban thánh thể từ đầu một con khỉ sao.”
 
-“Chuyện đó có thật á?”
+“Chuyện đó là thật sao?”
 
 “Nếu cả hai chúng ta đều nhớ về nó, thì tôi xin trả lời là có.”
 

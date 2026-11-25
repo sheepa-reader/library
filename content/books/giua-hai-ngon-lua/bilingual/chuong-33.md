@@ -1,4 +1,4 @@
-# Phần IV
+# PHẦN IV
 
 <p class="para-en">The walls of God’s kingdom held. And though the devils despaired of breaking the walls and burning the deep architecture of Heaven, yet were the angels stoppered in and could not come safely out; and so, unchallenged in the middle lands, the wicked ones delighted in what they wrought there. So they resolved among them to hold the plains and the mountains in their fist, and not to suffer the cities of men to live; but rather to reign there, on the thrones of their second Hell, with the first as their footstool and the angels of God trapped above.</p>
 

@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Tám: Về Bữa Tiệc và Cuộc Đấu Thương Đêm
+# CHƯƠNG TÁM: Về Bữa Tiệc và Cuộc Đấu Thương Đêm
 
 <p class="para-en">The castle was deceptive in its proximity; it floated on its pale green hill for the last half of the day, seeming as distant as a celestial body, and then at dusk it was upon them, with its proud white walls and turrets. The banners of the seigneur flew from the square keep, and men walked at ease atop the gatehouse, where the drawbridge was down in welcome. Perhaps the plague had spared this place.</p>
 
@@ -16,7 +16,7 @@
 
 <p class="para-en">“And still you won’t say why.”</p>
 
-<p class="para-vi-sub">“Và đến giờ mày vẫn không chịu nói lý do.”</p>
+<p class="para-vi-sub">“Và đến giờ cháu vẫn không chịu nói lý do.”</p>
 
 <p class="para-en">“I don’t know yet.”</p>
 
@@ -24,7 +24,7 @@
 
 <p class="para-en">“I counter what you don’t know with what I do know. We are hungry, and being fed is better than being hungry.”</p>
 
-<p class="para-vi-sub">“Ta đem những gì mày chưa biết ra đối trọng với những gì ta đã rõ. Chúng ta đang đói, và được ăn thì vẫn hơn là chịu đói.”</p>
+<p class="para-vi-sub">“Ta đem những gì cháu chưa biết ra đối trọng với những gì ta đã rõ. Chúng ta đang đói, và được ăn thì vẫn hơn là chịu đói.”</p>
 
 <p class="para-en">“Not always,” she said.</p>
 
@@ -148,7 +148,7 @@
 
 <p class="para-en">“No!” the girl said, and Thomas shot her a cold look.</p>
 
-<p class="para-vi-sub">“Không!” cô bé thốt lên, và Thomas trừng mắt nhìn con bé bằng ánh mắt lạnh lùng.</p>
+<p class="para-vi-sub">“Không!” cô bé thốt lên, và Thomas trừng mắt nhìn cô bé bằng ánh mắt lạnh lùng.</p>
 
 <p class="para-en">“Yes,” he said.</p>
 
@@ -180,7 +180,7 @@
 
 <p class="para-en">“We’ve been eating twigs and earwax for a week. Now we have the chance to really fill our bellies, and you do this.”</p>
 
-<p class="para-vi-sub">“Chúng ta đã phải nhai cành cây và ráy tai suốt cả tuần nay rồi. Giờ thì có cơ hội để thực sự lấp đầy cái bụng đói, vậy mà mày lại làm trò này.”</p>
+<p class="para-vi-sub">“Chúng ta đã phải nhai cành cây và ráy tai suốt cả tuần nay rồi. Giờ thì có cơ hội để thực sự lấp đầy cái bụng đói, vậy mà cháu lại làm trò này.”</p>
 
 <p class="para-en">Nothing.</p>
 
@@ -188,7 +188,7 @@
 
 <p class="para-en">“Stop being headstrong and get in that cart! It’s getting dark. Goddamn it, don’t make me leave you out here. And don’t think I won’t.”</p>
 
-<p class="para-vi-sub">“Thôi ngay cái thói bướng bỉnh đó đi và trèo lên xe mau! Trời sắp tối rồi đấy. Mẹ kiếp, đừng có ép ta phải bỏ mặc mày ở lại đây. Và đừng có tưởng là ta không dám làm thế thật.”</p>
+<p class="para-vi-sub">“Thôi ngay cái thói bướng bỉnh đó đi và trèo lên xe mau! Trời sắp tối rồi đấy. Mẹ kiếp, đừng có ép ta phải bỏ mặc cháu ở lại đây. Và đừng có tưởng là ta không dám làm thế thật.”</p>
 
 <p class="para-en">Nothing.</p>
 
@@ -196,7 +196,7 @@
 
 <p class="para-en">“Suit yourself,” Thomas said, and turned to follow the herald, who was politely waiting just out of earshot. The priest sat in the cart alone, torn between the two of them.</p>
 
-<p class="para-vi-sub">“Tùy mày vậy,” Thomas nói rồi quay sang đi theo viên sứ giả, người đang lịch sự đứng chờ ngoài tầm nghe. Cha Matthieu ngồi thẫn thờ một mình trên xe, bị giằng xé giữa hai bên.</p>
+<p class="para-vi-sub">“Tùy cháu vậy,” Thomas nói rồi quay sang đi theo viên sứ giả, người đang lịch sự đứng chờ ngoài tầm nghe. Cha Matthieu ngồi thẫn thờ một mình trên xe, bị giằng xé giữa hai bên.</p>
 
 <p class="para-en">“Go with him, Père Matthieu,” she said from her perch. He could see only her feet.</p>
 
@@ -700,7 +700,7 @@
 
 <p class="para-en">“I’ll sleep in the whoring stable, then,” he said, and kept moving.</p>
 
-<p class="para-vi-sub">“Vậy tao sẽ ngủ trong chuồng ngựa dơ dáy này,” Thomas lẩm bẩm rồi tiếp tục lê bước.</p>
+<p class="para-vi-sub">“Vậy ta sẽ ngủ trong chuồng ngựa dơ dáy này,” Thomas lẩm bẩm rồi tiếp tục lê bước.</p>
 
 <p class="para-en">He felt his way along the straight wall for what felt like an hour, passing many exquisite tapestries with bizarre motifs. One stopped him and made him stand swaying before it, trying to comprehend; it seemed to show a noblewoman from the previous century bathing an infant; but she was holding it by its legs head-down into the tub. Bored angels in clouds above received the infant’s drowsy, winged soul, while at the bottom of the tapestry, black devils with tusks coming from the bottoms of their mouths, and even stranger devils in a great variety, received the ecstatically grinning soul of the mother. A lionish thing with human hands felt the woman’s breast. Next to it, the largest of the devils had twelve eyes and a round, fiery mouth. It seemed to stand on owl’s legs. Its black hand was between the legs of the woman’s soul, two fingers in her up to the knuckle.</p>
 
@@ -772,7 +772,7 @@
 
 <p class="para-en">“And let us not forget our friend, Sir Thomas…of Picardy?” he said. “Although I cannot remember what town in Picardy. But I believe I met you near Cambrai, ten years ago.”</p>
 
-<p class="para-vi-sub">“Và chúng ta đừng quên người bạn của chúng ta, Thomas… xứ Picardy nhỉ?” hắn cất lời. “Dù ta không tài nào nhớ nổi ngài đến từ thị trấn nào ở Picardy. Nhưng ta tin là mình từng gặp ngài gần Cambrai mười năm trước.”</p>
+<p class="para-vi-sub">“Và chúng ta đừng quên người bạn của chúng ta, Thomas... xứ Picardy nhỉ?” hắn cất lời. “Dù ta không tài nào nhớ nổi ngài đến từ thị trấn nào ở Picardy. Nhưng ta tin là mình từng gặp ngài gần Cambrai mười năm trước.”</p>
 
 <p class="para-en">Thomas felt his face flush, and he resisted the urge to look down.</p>
 
@@ -996,7 +996,7 @@
 
 <p class="para-en">“I don’t know,” he slurred, “but I’m fairly sure there’s a devil out there.”</p>
 
-<p class="para-vi-sub">“Ta không biết,” Père Matthieu ngọng nghịu nói, “nhưng ta khá chắc là ngoài kia có một con quỷ đấy.”</p>
+<p class="para-vi-sub">“Tôi không biết,” Père Matthieu ngọng nghịu nói, “nhưng tôi khá chắc là ngoài kia có một con quỷ đấy.”</p>
 
 <p class="para-en">A horrible shriek came from the field then. The crowd went, “HO-ooooooooo,” the way a crowd will when something awful has happened to a man. The squire-priest grabbed a lance from where it leaned against a rail and handed it to Thomas, taking up two spares as well. Thomas looked down the shaft at the point; it was a war point, sharp and deadly, not the blunted quartet of knobs one used in tourneys.</p>
 
@@ -1008,7 +1008,7 @@
 
 <p class="para-en">“I wish that were all we risked here,” Matthieu said.</p>
 
-<p class="para-vi-sub">“Ta ước gì đó là tất cả những gì chúng ta đang mạo hiểm ở đây,” Père Matthieu nói.</p>
+<p class="para-vi-sub">“Tôi ước gì đó là tất cả những gì chúng ta đang mạo hiểm ở đây,” Père Matthieu nói.</p>
 
 <p class="para-en">He turned the horse and brought it onto the trampled sod of the list.</p>
 
@@ -1024,7 +1024,7 @@
 
 <p class="para-en">What must have been a hundred torches burned, and burned the image into his mind; the German-looking Frenchman from the feast was sitting dead in the saddle, a lance through his side. His helmet was off. The seigneur, also sans helmet, circled his horse around him, then spurred it close, using a one-handed war axe to split the man’s head laterally, from nose to the back of his skull, the contents of which flew all over the sand.</p>
 
-<p class="para-vi-sub">Ánh sáng của khoảng một trăm ngọn đuốc đang cháy rực khắc sâu hình ảnh đó vào tâm trí Thomas; gã người Pháp có vẻ ngoài giống người Đức trong bữa tiệc đang ngồi bất động trên yên ngựa với một mũi giáo đâm xuyên qua mạn sườn. Mũ của hắn đã bị tháo ra. Lãnh chúa, cũng không đội mũ giáp, điều khiển ngựa lượn quanh hắn, rồi thúc ngựa sát lại, dùng một chiếc rìu chiến một tay chém ngang đầu tên kia từ mũi ra đến tận sau gáy, khiến óc não bắn tung tóe khắp lớp cát.</p>
+<p class="para-vi-sub">Ánh sáng của khoảng một trăm ngọn đuốc đang cháy rực khắc sâu hình ảnh đó vào tâm trí Thomas; gã người Pháp có vẻ ngoài giống người Đức trong bữa tiệc đang ngồi bất động trên yên ngựa với một mũi giáo đâm xuyên qua mạn sườn. Mũ của hắn đã bị tháo ra. Lãnh chúa, cũng không đội mũ giáp, điều khiển ngựa lượn quanh hắn, rồi thúc ngựa sát lại, dùng một chiếc rìu chiến một tay chém ngang đầu tên kia từ mũi ra đến tận sau gáy, khiến óc nào bắn tung tóe khắp lớp cát.</p>
 
 <p class="para-en">The crowd screamed its approval.</p>
 
@@ -1064,7 +1064,7 @@
 
 <p class="para-en">“LANCE!” he bellowed, “But not me. Him!”</p>
 
-<p class="para-vi-sub">“GIÁO!” lãnh chúa quát to, “Nhưng không phải tao. Hắn!”</p>
+<p class="para-vi-sub">“GIÁO!” lãnh chúa quát to, “Nhưng không phải ta. Hắn!”</p>
 
 <p class="para-en">Théobald de Barentin was in position now, placing his tournament helm and taking his lance. He sat a whitish horse that couldn’t wait to run. His dandy squire handed him his first lance.</p>
 
@@ -1108,7 +1108,7 @@
 
 <p class="para-en">Thomas crabbed his way to his feet. Why wasn’t his squire helping him up? He removed his borrowed helmet and looked back down the list. He saw Matthieu now, lolling against a rail, his head tipped back. The viol player from before was pouring wine down his throat, his free hand rubbing the older man’s crotch.</p>
 
-<p class="para-vi-sub">Thomas lết người đứng dậy bằng cả tay lẫn chân. Sao tên cận vệ của gã lại không ra đỡ cơ chứ? Gã tháo chiếc mũ giáp mượn tạm ra và nhìn ngược về phía bãi đấu. Gã thấy Père Matthieu lúc này đang ngả người ra lan can, đầu ngửa về phía sau. Tên chơi đàn vĩ cầm hồi nãy đang rót rượu vào cổ họng vị linh mục, tay kia thì xoa bóp đũng quần của ông già.</p>
+<p class="para-vi-sub">Thomas lết người đứng dậy bằng cả tay lẫn chân. Sao tên cận vệ của ta lại không ra đỡ cơ chứ? Gã tháo chiếc mũ giáp mượn tạm ra và nhìn ngược về phía bãi đấu. Gã thấy Père Matthieu lúc này đang ngả người ra lan can, đầu ngửa về phía sau. Tên chơi đàn vĩ cầm hồi nãy đang rót rượu vào cổ họng vị linh mục, tay kia thì xoa bóp đũng quần của ông già.</p>
 
 <p class="para-en">The lord barked, “On foot!” and now Thomas turned and saw the other knight stomping toward him, swinging a flanged mace, his helmet also off.</p>
 
@@ -1208,7 +1208,7 @@
 
 <p class="para-en">“Hurry!” screamed a woman from the stands, and the cry was picked up by the other spectators, all of whom were beginning to rot now. Some yelled “Kill him!” or “The sun!” The lord of the castle shouted “HURRY!” as well, and tried to shout it again, but the word changed into the roar of a lion. Thomas spared a glance at him, and saw that he was growing taller, stretching out of his armor, so that his skin showed between sections. His head was a lion’s head now, but lumpy and corrupt, balanced badly on the ungainly stack of flesh and armor he had become.</p>
 
-<p class="para-vi-sub">“Mau lên!” một phụ nữ từ khán đài hét lên, và tiếng thét đó được hưởng ứng bởi những khán giả khác, tất cả lúc này đều bắt đầu phân hủy. Vài kẻ gào lên “Giết nó đi!” hoặc “Mặt trời kìa!” Lãnh chúa của lâu đài cũng thét lên “MAU LÊN!”, rồi cố thét thêm lần nữa, nhưng từ đó biến thành tiếng gầm của một con sư tử. Thomas liếc nhìn hắn và thấy rằng thân hình hắn đang cao lớn dần, vươn căng vượt ra ngoài bộ giáp, khiến da thịt lộ ra giữa các mảnh giáp. Đầu hắn giờ đây là đầu sư tử, nhưng cục mịch và thối rữa, tròng trành khó coi trên đống thịt và giáp trụ kỳ dị mà hắn đã biến thành.</p>
+<p class="para-vi-sub">“Mau lên!” một phụ nữ từ khán đài hét lên, và tiếng thét đó được hưởng ứng bởi những khán giả khác, tất cả lúc này đều bắt đầu phân hủy. Vải kẻ gào lên “Giết nó đi!” hoặc “Mặt trời kìa!” Lãnh chúa của lâu đài cũng thét lên “MAU LÊN!”, rồi cố thét thêm lần nữa, nhưng từ đó biến thành tiếng gầm của một con sư tử. Thomas liếc nhìn hắn và thấy rằng thân hình hắn đang cao lớn dần, vươn căng vượt ra ngoài bộ giáp, khiến da thịt lộ ra giữa các mảnh giáp. Đầu hắn giờ đây là đầu sư tử, nhưng cục mịch và thối rữa, tròng trành khó coi trên đống thịt và giáp trụ kỳ dị mà hắn đã biến thành.</p>
 
 <p class="para-en">A devil.</p>
 

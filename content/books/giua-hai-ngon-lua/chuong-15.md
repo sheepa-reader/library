@@ -1,42 +1,42 @@
 *Phần II*
 
-# Chương Mười Ba: Về Những Giọt Mưa Và Hình Hài Của Tử Thần
+# CHƯƠNG MƯỜI BA: Về Những Giọt Mưa Và Hình Hài Của Tử Thần
 
-Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau; Delphine nghĩ về câu chuyện người vợ của ông Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần rồi cuối cùng vẫn làm vậy. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây; tuy nhiên, cột khói lần này nằm ở trong thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt của Delphine chính là toán quân tiên phong của trận mưa như trút nước cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh; ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện; một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân họ? Nếu các bức tượng có thể đi bộ, hà cớ gì bọn chúng lại không thể? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân mình; đến bao giờ em mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên chị? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.
+Cơn mưa bắt đầu hầu như ngay khi họ qua khỏi cổng St. Bernard và bỏ lại Paris ở phía sau. Delphine nghĩ về câu chuyện người vợ của Lot, tự nhủ lòng mình không được ngoái đầu nhìn lại thành phố đang chết dần, nhưng rồi cuối cùng em vẫn ngoái lại. Một cột khói lơ lửng phía trên Paris cất lời tiễn biệt họ, y như một cột khói khác từng chào đón họ trước đây. Tuy nhiên, cột khói lần này nằm ở trong lòng thành phố, nơi ngọn lửa tại xưởng của người thợ mộc thiêu rụi cả dãy nhà, đẩy những kẻ khỏe mạnh ra đường, đồng thời nuốt chửng những người đau bệnh và kẻ đã khuất. Những giọt nước mưa lạnh buốt rơi trên khuôn mặt Delphine chính là toán quân tiên phong của trận mưa như trút nước, cứu khu Tả ngạn khỏi bị thiêu rụi nhưng lại làm ngập úng vùng đất lầy lội ở Hữu ngạn kéo dài tuốt đến quảng trường Place de Grève. Tiếng chuông ngân vang khắp Khu phố La Tinh, ít ra thì vẫn còn đủ người để kéo lấy một vài sợi dây chuông. Delphine cố hình dung ra những con người đang gióng lên những hồi chuông ấy: một tu sĩ dòng Đa Minh cô độc hay một kẻ gióng chuông được thuê cho tu viện, một vị linh mục khác giống như cha Matthieu, quá khiếp sợ để chăm sóc cho bầy chiên của mình nhưng lại đang cố cứu vãn phần linh hồn còn sót lại bằng cách cảnh báo họ về hỏa hoạn. Hay chính những kẻ chết đang tự gióng lên hồi chuông cho bản thân mình? Nếu các bức tượng có thể bước đi, hà cớ gì bọn chúng lại không thể kéo chuông? Cô bé cảm thấy những giọt nước mắt chực trào vì Annette, và cũng vì chính bản thân em... đến bao giờ cô bé mới lại cảm nhận được tình yêu của một người phụ nữ đây? Phải chăng Annette đã chết chỉ vì Delphine muốn ở lại bên cô? Những lời của các bức tượng độc ác lại vang lên trong đầu Delphine, và cô bé nhìn về phía hai người đàn ông ở phía trước chiếc xe kéo.
 
 Lạy Chúa, xin đừng để họ phải chết vì con.
 
 Và rồi trời cứ mưa, mưa mãi, và mưa không dứt.
 
-Vào ngày thứ ba mưa tầm tã, cũng là ngày thứ hai họ không có gì bỏ bụng, vị linh mục nhìn thấy một cái kho bằng đá cùng một ngôi nhà nhỏ và hy vọng chúng đã bị bỏ hoang. Mọi chuyện đã đi đến mức nào rồi khi một người của Chúa lại đi cầu mong bất hạnh giáng xuống một gia đình chỉ vì thèm thuồng mái che của họ chứ?
+Vào ngày thứ ba mưa tầm tã, cũng là ngày thứ hai họ không có gì bỏ bụng, vị linh mục nhìn thấy một cái kho bằng đá cùng một ngôi nhà nhỏ và hy vọng chúng đã bị bỏ hoang. Mọi chuyện đã đi đến mức nào rồi khi một người của Chúa lại đi cầu mong bất hạnh giáng xuống một gia đình chỉ vì thèm thuồng mái che của họ cơ chứ?
 
-Cửa ngôi nhà nhỏ đang để ngỏ, nhưng họ tiến thẳng về phía cái kho, vì ở đó sẽ có nhiều chỗ hơn cho con la, và chẳng ai trong số họ có tâm trạng đi tìm những cỗ thây cả.
+Cửa ngôi nhà nhỏ đang để ngỏ, nhưng họ tiến thẳng về phía cái kho, vì ở đó sẽ có nhiều chỗ hơn cho con la, và chẳng ai trong số họ có tâm trạng đi tìm những cỗ thây người.
 
 Cái kho không hề bỏ hoang.
 
-Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn của lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.
+Vị linh mục bước vào trước và bắt gặp một người đàn ông khỏa thân đang quỳ bốn chi xuống đất, nhét đầy cỏ khô vào miệng. Vô số cỏ rác vón cục lại trong bộ râu và mái tóc trắng bệch của lão ta. Xương sườn lão hô hác lộ ra ngoài, người ngợm đầy chất bẩn và ướt sũng, không rõ là do mưa hay do mồ hôi của cơn sốt nào đó. Thế nhưng đôi mắt lão lại vô cùng hoang dại. Và lão không hề suy nhược chút nào. Lão nhặt một lưỡi hái gỉ sét có cán bị gãy từ một đống dụng cụ làm nông rồi bắt đầu lao về phía vị linh mục.
 
 Lạy Chúa tôi, lão định ăn thịt mình kìa.
 
-Ngay lúc đó Thomas và Delphine bước vào, Thomas với thanh kiếm đã tuốt trần, và gã đàn ông liền tháo chạy qua cánh cửa bên kia, ngã nhào khi cạnh của lưỡi hái vướng vào khung cửa rồi tuột khỏi tay lão, nhưng gần như ngay lập tức lão lại lồm cồm bò dậy được. Lão chạy thục mạng băng qua cánh đồng đọng đầy nước và cứ thế chạy miết, đôi chân trần tung nước bắn tung tóe suốt dọc đường, biến mất không phải theo hướng ngôi nhà, mà hướng về phía rặng cây ở phía bên kia cánh đồng.
+Ngay lúc đó Thomas và Delphine bước vào, Thomas với thanh kiếm đã tuốt trần. Gã đàn ông liền tháo chạy qua cánh cửa bên kia, ngã nhào khi cạnh của lưỡi hái vướng vào khung cửa rồi tuột khỏi tay lão, nhưng gần như ngay lập tức lão lại lồm cồm bò dậy được. Lão chạy thục mạng băng qua cánh đồng đọng đầy nước và cứ thế chạy miết, đôi chân trần tung nước bắn tung tóe suốt dọc đường, biến mất không phải theo hướng ngôi nhà, mà hướng về phía rặng cây ở phía bên kia cánh đồng.
 
-Thomas phá vỡ sự im lặng bao trùm bằng câu nói, “Hóa ra Thần Chết lúc không mặc áo choàng trông là như thế đấy.”
+Thomas phá vỡ sự im lặng bao trùm bằng một câu cảm thán, “Hóa ra Thần Chết lúc không mặc áo choàng trông là như thế đấy.”
 
 Vị linh mục bật cười sau một nhịp khựng lại, nhưng cô bé chỉ chớp chớp mắt gạt nước mưa ra rồi nhìn họ để chờ được giải thích.
 
-“Cái chết đấy, con bé ạ. Tử thần,” vị linh mục đáp.
+“Cái chết đấy, con ạ. Tử thần đấy,” vị linh mục đáp.
 
-Giờ thì cô bé cũng bật cười, và âm thanh ấy vang lên nghe thật ấm lòng trong căn kho.
+Giờ thì cô bé cũng bật cười, và âm thanh ấy vang lên nghe thật ấm lòng trong căn kho tối.
 
-Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép lịch sự rồi treo lên những cây gậy để hơ khô. Xong xuôi, họ thay lớp lót bên trong, đem phơi rồi mặc lại những bộ đồ khô ráo, ấm cúng, thầm biết ơn vì không còn phải chịu cảnh lạnh lẽo và ướt sũng. Thời tiết đã thay đổi; nếu ban ngày từng ấm áp còn ban đêm mát mẻ, thì nay ban ngày se lạnh còn ban đêm buốt giá. Họ đồng ý ở lại trong kho đến sáng rồi sẽ tỏa ra các cánh đồng tìm cây ăn quả, cây có hạt hoặc bất cứ thứ gì có thể kiếm được. Trong lúc chờ đợi, họ bày cốc, bát cùng mũ trụ và giáp đùi của Thomas ra hứng nước mưa nhằm làm dịu cái bụng cồn cào và vơi bớt cơn đau do đói khát.
+Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép lịch sự rồi treo lên những cây gậy để hơ khô. Xong xuôi, họ thay lớp lót bên trong, đem phơi rồi mặc lại những bộ đồ khô ráo, ấm cúng, thầm biết ơn vì không còn phải chịu cảnh lạnh lẽo và ướt sũng. Thời tiết đã thay đổi, nếu ban ngày từng ấm áp còn ban đêm mát mẻ, thì nay ban ngày se lạnh còn ban đêm buốt giá. Họ đồng ý ở lại trong kho đến sáng rồi sẽ tỏa ra các cánh đồng tìm cây ăn quả, cây có hạt hoặc bất cứ thứ gì có thể kiếm được. Trong lúc chờ đợi, họ bày cốc, bát cùng mũ trụ và giáp đùi của Thomas ra hứng nước mưa nhằm làm dịu cái bụng cồn cào và vơi bớt cơn đau do đói khát.
 
 “Ước gì chúng ta có âm nhạc,” vị linh mục lên tiếng, dùng đoạn cán gãy của chiếc lưỡi hái suýt tước đoạt mạng sống của ông để khều khều những khúc gỗ đang rực hồng.
 
-“Tôi thì không. Cha lại nổi hứng cất giọng ca hát cho mà xem,” Thomas vừa nói vừa kiểm tra phần chân bị thứ quái quỷ kia dùng vương trượng quật trúng. Anh nghi ngờ xương ống chân đã nứt; một vết thâm tím tệ hại hình thành, vùng thịt xung quanh mắt cá sưng vù đầy bầm dập. Thứ chết tiệt đó đã đánh trúng ngay chỗ con ngựa từng làm gãy chân anh tại Trận Crécy.
+“Tôi thì không. Cha lại nổi hứng cất giọng ca hát cho mà xem,” Thomas vừa nói vừa kiểm tra phần chân bị thứ quái quỷ kia dùng vương trượng quật trúng. Gã nghi ngờ xương ống chân đã nứt, một vết thâm tím tệ hại hình thành, vùng thịt xung quanh mắt cá sưng vù đầy bầm dập. Thứ chết tiệt đó đã đánh trúng ngay chỗ con ngựa từng làm gãy chân gã tại Trận Crécy.
 
 “Biết đâu con bé đây sẽ hát thì sao,” vị linh mục gợi ý.
 
-“Con chẳng có tâm trạng đâu ạ,” cô bé cất giọng rên rỉ qua giọng mũi. Con bé đang ngả bệnh. Không sốt, nhưng con bé sụt sịt và phàn nàn về những cơn đau nhức gần vùng hông. Con bé đã dầm mình trong cái lạnh và nước ẩm đủ lâu để không ai trong hai người đàn ông phải nghi ngờ con bé mắc dịch hạch. “Nhưng nếu được chọn thì cha muốn nghe loại nhạc gì cơ chứ?” cô bé hỏi cha Matthieu.
+“Con chẳng có tâm trạng đâu ạ,” cô bé cất giọng rên rỉ qua giọng mũi. Con bé đang ngả bệnh. Không sốt, nhưng con bé sụt sịt và phàn nàn về những cơn đau nhức gần vùng hông. Con bé đã dầm mình trong cái lạnh và nước ẩm đủ lâu để không ai trong hai người đàn ông phải nghi ngờ em mắc dịch hạch. “Nhưng nếu được chọn thì cha muốn nghe loại nhạc gì cơ chứ?” cô bé hỏi cha Matthieu.
 
 “Ồ. Đàn lia. Chắc chắn là đàn lia rồi. Thế còn ngài hiệp sĩ thì sao?”
 
@@ -56,7 +56,7 @@ Họ nhóm đống lửa, cởi bớt quần áo trong giới hạn của phép 
 
 Khi màn đêm buông xuống, họ bắt đầu kể chuyện để giết thời gian.
 
-Vị linh mục cất lời trước, kể về một hiệp sĩ thực chất là người sói, nhưng lại là một người sói chu đáo khi tự lui vào rừng sâu để lột xác. Tuy nhiên, người vợ lại phản bội anh ta bằng cách giấu quần áo đi khiến anh ta không thể biến trở lại dạng người; cứ thế, người chồng bị coi là mất tích và mụ ta đường hoàng kết hôn với tình nhân.
+Vị linh mục cất lời trước, kể về một hiệp sĩ thực chất là người sói, nhưng lại là một người sói chu đáo khi tự lui vào rừng sâu để lột xác. Tuy nhiên, người vợ lại phản bội anh ta bằng cách giấu quần áo đi khiến anh ta không thể biến trở lại dạng người, cứ thế, người chồng bị coi là mất tích và mụ ta đường hoàng kết hôn với tình nhân.
 
 “Kể tiếp đi,” Thomas nói. “Kể cho hết đi chứ.”
 
@@ -94,27 +94,27 @@ Lần này Thomas phì cười và vị linh mục thở phào nhẹ nhõm.
 
 “Nào, hãy cho chú nghe thử xem,” Thomas nói.
 
-Delphine vừa nói vừa phát ra tiếng kêu của dã thú: “Gã hiệp sĩ bước vào rừng trong hình hài một con thú. Và rồi một ngày nọ nhà vua cùng đoàn thợ săn đã tìm thấy hắn. Bọn họ định giết hắn, nhưng rồi con sói lớn lại cúi đầu trước nhà vua.”
+Delphine vừa nói vừa phát ra tiếng kêu của dã thú, “Gã hiệp sĩ bước vào rừng trong hình hài một con thú. Và rồi một ngày nọ nhà vua cùng đoàn thợ săn đã tìm thấy gã. Bọn họ định giết gã, nhưng rồi con sói lớn lại cúi đầu trước nhà vua.”
 
 “Chú bắt đầu thấy thích rồi đấy,” Thomas nói, huých nhẹ vào người vị linh mục.
 
-“Bây giờ nhà vua quyết định nuôi nó làm thú cưng, và ngài mang nó về lâu đài. Mọi người đều đến trầm trồ trước con thú vô cùng thuần hóa và lịch thiệp ấy. Cho đến một ngày nọ người vợ và gã hiệp sĩ bước vào… đợi đã, cháu quên mất một chi tiết.”
+“Bây giờ nhà vua quyết định nuôi nó làm thú cưng, và ngài mang nó về lâu đài. Mọi người đều đến trầm trồ trước con thú vô cùng thuần hóa và lịch thiệp ấy. Cho đến một ngày nọ người vợ và gã hiệp sĩ bước vào... đợi đã, cháu quên mất một chi tiết.”
 
 “Con có chắc là mình biết câu chuyện này không đấy?” vị linh mục hỏi, nhưng Thomas lại huých ông một cái nữa, mạnh hơn một chút.
 
 “Có chứ,” cô bé đáp với vẻ mặt nghiêm túc, nhìn chằm chằm cha Matthieu cho đến khi ông giơ hai lòng bàn tay lên chịu thua. Cô bé hắt xì một cái, rồi bắt đầu kể lại từ đầu.
 
-“Khi nhà vua tìm thấy con thú, gã hiệp sĩ đã cưới người vợ của hắn cũng ở đó, và con thú liền gầm gừ với hắn ta.”
+“Khi nhà vua tìm thấy con thú, kẻ đã cưới người vợ của gã hiệp sĩ cũng ở đó, và con thú liền gầm gừ với hắn ta.”
 
 Cô bé gầm gừ và nghiến răng ken két, khiến cả hai người đàn ông phì cười.
 
-“Bọn họ muốn giết nó, và đó là lúc nó tiến lại liếm tay nhà vua. Thế là, bây giờ chúng ta đã quay trở lại lâu đài. Và khi người vợ cùng gã hiệp sĩ tồi tệ bước vào, con thú liền cắn vào mũi mụ ta…”
+“Bọn họ muốn giết nó, và đó là lúc nó tiến lại liếm tay nhà vua. Thế là, bây giờ chúng ta đã quay trở lại lâu đài. Và khi người vợ cùng gã hiệp sĩ tồi tệ bước vào, con thú liền cắn vào mũi mụ ta...”
 
 Giọng Delphine nhỏ dần và vị linh mục nhận ra cô bé sắp nhớ lại chuyện gì, thế nên ông vỗ tay hai cái để đánh động khiến con bé giật mình.
 
-“Chuyện kể tiếp đi, kể tiếp đi,” ông giục. Cô bé gật đầu và chớp mắt xua đi những giọt nước mắt, dùng tay áo lau xừ và sụt sịt mũi.
+“Kể tiếp đi con, kể tiếp đi,” ông giục. Cô bé gật đầu và chớp mắt xua đi những giọt nước mắt, dùng tay áo lau mũi rồi sụt sịt.
 
-“Nó cắn mụ ta. Hắn cắn mụ ta. Gã hiệp sĩ ấy.”
+“Nó cắn mụ ta. Gã cắn mụ ta. Gã hiệp sĩ ấy.”
 
 “Ừ, chú nghĩ chúng ta đã nắm được mạch truyện.”
 
@@ -126,9 +126,9 @@ Giọng Delphine nhỏ dần và vị linh mục nhận ra cô bé sắp nhớ l
 
 “Chú cực kỳ thích dị bản này rồi đấy. Mụ vợ lăng loàn bị cắn và hành hạ,” Thomas nói.
 
-“Và nhà vua ra lệnh cho gã hiệp sĩ tồi tệ mang quần áo của gã hiệp sĩ tốt tới. Khoan đã… hắn đang mặc chúng trên người mà. Thế nên hắn chỉ việc cởi chúng ra.”
+“Và nhà vua ra lệnh cho gã hiệp sĩ tồi tệ mang quần áo của gã hiệp sĩ tốt tới. Khoan đã... hắn đang mặc chúng trên người mà. Thế nên hắn chỉ việc cởi chúng ra.”
 
-“Giờ thì hắn truồng cời rồi.”
+“Giờ thì hắn trần như nhộng rồi.”
 
 “Chắc vậy. Đúng thế.”
 
@@ -140,7 +140,7 @@ Giọng Delphine nhỏ dần và vị linh mục nhận ra cô bé sắp nhớ l
 
 “Cháu chưa từng bước lên thuyền bao giờ, nhưng cháu biết chúng có buồm.”
 
-“Ha! Bố của luật sư nhà cháu đây rồi. Chú biết thể nào ông ấy cũng ghé thăm mà.”
+“Ha! Lại cái giọng văn luật sư của cháu đấy rồi. Chú biết thể nào ông ấy cũng ghé thăm mà.”
 
 Cô bé thở dài đầy bực dọc.
 
@@ -172,7 +172,7 @@ Cuối cùng cô bé cũng chịu quay về chỗ cũ nhưng giơ ngón tay nh�
 
 “Thế là nhà vua bày quần áo ra cho con quái thú, nhưng nó chỉ hít hít rồi ngồi xuống.”
 
-Thomas rụt tay lại và nói, “Nó có…?” nhưng cô bé ngắt lời anh bằng một tiếng “Suỵt!” và lại chỉ ngón tay về phía trước. Anh đành đặt tay lại chỗ cũ.
+Thomas rụt tay lại và nói, “Nó có...?” nhưng cô bé ngắt lời gã bằng một tiếng “Suỵt!” và lại chỉ ngón tay về phía trước. Gã đành đặt tay lại chỗ cũ.
 
 “Vị cố vấn thông thái bảo rằng hiệp sĩ cảm thấy xấu hổ khi phải thay đồ trước mặt họ. Thế là họ nhốt con quái thú vào một phòng ngủ cùng với đống quần áo. Nó đi vào bằng bốn chân và bước ra bằng hai chân.”
 
@@ -182,7 +182,7 @@ Cả hai cùng nhìn Delphine với vẻ đầy trông đợi.
 
 “Kể nốt đi chứ,” Thomas nói.
 
-“Cháu kể rồi đấy thôi. Hắn lại biến thành con người.”
+“Cháu kể rồi đấy thôi. Gã lại biến thành con người.”
 
 “Thế còn tên hiệp sĩ khốn nạn và ả vợ lẳng lơ thì sao? Bọn chúng có bị giết không?”
 
@@ -198,29 +198,29 @@ Cả hai cùng nhìn Delphine với vẻ đầy trông đợi.
 
 “Nhưng chúng ta vẫn còn những khúc mắc chưa được giải quyết.”
 
-“Được rồi,” cô bé nói. “Cháu sẽ kết thúc nó theo ý thích của chú. Hắn rút kiếm chém đứt đầu cả hai đứa chúng nó. Máu văng tung tóe khắp nơi. Máu, máu và máu. Sau đó hắn cũng chém đứt đầu nhà vua luôn. Máu me đầm đìa bê bết. Và hắn tự đội vương miện lên đầu mình, thế là hắn làm vua. Rồi vị cố vấn thông thái gả cô con gái xinh đẹp cho hắn, mặc dù cô bé mới chỉ có mười lăm tuổi, và họ sinh rất nhiều đứa con, rồi chết đi và lên Thiên Đàng. Chú thấy thế nào hở ngài Thomas?”
+“Được rồi,” cô bé nói. “Cháu sẽ kết thúc nó theo ý thích của chú. Gã rút kiếm chém đứt đầu cả hai đứa chúng nó. Máu văng tung tóe khắp nơi. Máu, máu và máu. Sau đó gã cũng chém đứt đầu nhà vua luôn. Máu me đầm đìa bê bết. Và gã tự đội vương miện lên đầu mình, thế là gã làm vua. Rồi vị cố vấn thông thái gả cô con gái xinh đẹp cho gã, mặc dù cô bé mới chỉ có mười lăm tuổi, và họ sinh rất nhiều đứa con, rồi chết đi và lên Thiên Đàng. Chú thấy thế nào hở ngài Thomas?”
 
 Thomas vỗ tay bộp bộp rồi hú lên một tiếng.
 
-“Thế mới đúng là một câu chuyện khốn kiếp chứ!” anh nói.
+“Thế mới đúng là một câu chuyện khốn kiếp chứ!” gã nói.
 
-“Ừm… Tôi nghĩ chúng ta có khách,” vị linh mục lên tiếng, chỉ về phía cửa sổ nhà kho, nơi có một cặp mắt đang lén nhìn họ bên dưới mái tóc rối bù, ướt sũng bết dính những cọng cỏ.
+“Ừm... Tôi nghĩ chúng ta có khách,” vị linh mục lên tiếng, chỉ về phía cửa sổ nhà kho, nơi có một cặp mắt đang lén nhìn họ bên dưới mái tóc rối bù, ướt sũng bết dính những cọng cỏ.
 
 Thomas vung một khúc củi từ đống lửa ném đi, khúc củi đập trúng bức tường ngay cạnh cửa sổ và làm văng ra một chùm tia lửa.
 
-“Biến đi!” anh quát lớn, với tay lấy thanh kiếm, nhưng cặp mắt kia chỉ chớp chớp nhìn anh. Thomas đứng phắt dậy, và khuôn mặt đó biến mất; họ nhìn thấy lão già khỏa thân chạy xẹt qua cửa, ánh mắt đảo điên nhìn trân trân vào trong.
+“Biến đi!” gã quát lớn, với tay lấy thanh kiếm, nhưng cặp mắt kia chỉ chớp chớp nhìn gã. Thomas đứng phắt dậy, và khuôn mặt đó biến mất, họ nhìn thấy lão già khỏa thân chạy xẹt qua cửa, ánh mắt đảo điên nhìn trân trân vào trong.
 
-“Đây là NHÀ KHO CỦA TA!” anh phẫn nộ gầm lên, rồi lại lao mình vào màn mưa.
+“Đây là NHÀ KHO CỦA TA!” gã phẫn nộ gầm lên, rồi lại lao mình vào màn mưa.
 
 Chẳng có chuyện Thomas bắt kịp được lão ta.
 
 Vị hiệp sĩ có một giấc ngủ chẳng mấy yên giấc.
 
-Thomas giật mình tỉnh dậy trong bóng tối với tiếng thở hổn hển sau một cơn ác mộng về việc cưỡi ngựa phi qua cánh đồng rậm rạp gai góc, và cố gắng nhớ xem mình đang ở đâu. Khi đã nhớ ra, anh nhận thấy cơn mưa đã ngớt, và anh bước ra ngoài để ngước nhìn bầu trời. Vầng trăng khuyết lấp ló trêu chọc anh qua những kẽ rách của tầng mây di chuyển chậm chạp vẫn còn ngậm nước, nhưng anh sẽ chẳng thể tìm kiếm được ngôi sao chổi của mình nữa. Anh nghĩ có lẽ nó đã khuất tầm nhìn sau khi tước đoạt mạng sống của thiên nga sao trời, nhưng anh không mảy may nghi ngờ rằng những vị khách khác đã kéo đến; đây là một mùa hè bừa bãi của những ngôi sao chổi.
+Thomas giật mình tỉnh dậy trong bóng tối với tiếng thở hổn hển sau một cơn ác mộng về việc cưỡi ngựa phi qua cánh đồng rậm rạp gai góc, và cố gắng nhớ xem mình đang ở đâu. Khi đã nhớ ra, gã nhận thấy cơn mưa đã ngớt, và gã bước ra ngoài để ngước nhìn bầu trời. Vầng trăng khuyết lấp ló trêu chọc gã qua những kẽ rách của tầng mây di chuyển chậm chạp vẫn còn ngậm nước, nhưng gã sẽ chẳng thể tìm kiếm được ngôi sao chổi của mình nữa. Gã nghĩ có lẽ nó đã khuất tầm nhìn sau khi tước đoạt mạng sống của thiên nga sao trời, nhưng gã không mảy may nghi ngờ rằng những vị khách khác đã kéo đến, đây là một mùa hè bừa bãi của những ngôi sao chổi.
 
-Chỉ là trời không còn là mùa hè nữa. Hơi thở của anh phả ra thành từng làn khói trắng trước mặt. Thời điểm này đã gần giữa tháng Chín, nhưng trời lạnh giá chẳng khác gì tháng Mười.
+Chỉ là trời không còn là mùa hè nữa. Hơi thở của gã phả ra thành từng làn khói trắng trước mặt. Thời điểm này đã gần giữa tháng Chín, nhưng trời lạnh giá chẳng khác gì tháng Mười.
 
-Thomas nghe thấy tiếng động phía sau, rồi tiếp theo là một âm thanh tỏ vẻ khó chịu nhẹ; anh quay lại và thấy cha Matthieu đang cúi xuống uống nước từ chiếc bát mà anh đã đặt sẵn.
+Thomas nghe thấy tiếng động phía sau, rồi tiếp theo là một âm thanh tỏ vẻ khó chịu nhẹ, gã quay lại và thấy cha Matthieu đang cúi xuống uống nước từ chiếc bát mà gã đã đặt sẵn.
 
 “Nó có mùi mốc,” vị linh mục nói. “Chiếc bát của tôi chắc phải đem đi cọ rửa lại cho sạch sẽ.”
 

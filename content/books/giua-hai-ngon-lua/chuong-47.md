@@ -1,10 +1,10 @@
 *Phần V*
 
-# Chương Bốn Mươi Hai: Về Cuộc Càn Quét Địa Ngục
+# CHƯƠNG BỐN MƯƠI HAI: Về Cuộc Càn Quét Địa Ngục
 
-Thomas quên mất tên mình. Việc gã đã ở đó bao lâu chẳng còn mang chút ý nghĩa nào nữa. Gã bị ném từ cực hình này sang cực hình khác, bắt đầu bằng nỗi đau thể xác rồi chuyển thành tan nát cõi lòng; gã bị lột da rồi bắt phải kéo tấm da của chính mình đi phía sau, sau đó lại bị ép phải tự khâu tấm da ấy vào người, với thứ bùn đất và sỏi đá mà nó đã vơ vét nay nằm ngổn ngang bên dưới; gã bị xé tơi ra từng mảnh nhỏ, bị nhồi đầy gai nhọn rồi buộc phải khạc chúng ra, bị nhồi nhét chung với những đám đông trần truồng rồi bị luộc sôi, bị ép phải tranh giành từng ngụm nước mát hay một thoáng nhìn thấy bầu trời, và khi bọn chúng nhận ra Thomas thích đấu tranh, bọn chúng liền bắt gã phải chiến đấu hết lần này đến lần khác vì mọi thứ, suốt nhiều năm trời, cho đến khi ngay cả cơn giận dữ của gã cũng bị bẻ gãy, để rồi gã chỉ biết khóc lóc và khuất phục khi đối mặt; gã bị phản bội và sát hại bởi những kẻ gã yêu thương, rồi lại bị bắt phải sát hại và phản bội họ, rồi báng bổ họ, phanh thây họ, nôn mửa họ ra. Chẳng có gì là không bị bỏ sót.
+Thomas quên mất tên mình. Việc gã đã ở đó bao lâu chẳng còn mang chút ý nghĩa nào nữa. Gã bị ném từ cực hình này sang cực hình khác, bắt đầu bằng nỗi đau thể xác rồi chuyển thành tan nát cõi lòng; gã bị lột da rồi bắt phải kéo tấm da của chính mình đi phía sau, sau đó lại bị ép phải tự khâu tấm da ấy vào người, với thứ bùn đất và sỏi đá mà nó đã vơ vét nay nằm ngổn ngang bên dưới; gã bị xé tơi ra từng mảnh nhỏ, bị nhồi đầy gai nhọn rồi buộc phải khạc chúng ra, bị nhồi nhét chung với những đám đông trần truồng rồi bị luộc sôi, bị ép phải tranh giành từng ngụm nước mát hay một thoáng nhìn thấy bầu trời, và khi bọn chúng nhận ra Thomas thích đấu tranh, bọn chúng liền bắt gã phải chiến đấu hết lần này đến lần khác vì mọi thứ, suốt nhiều năm trời, cho đến khi ngay cả cơn giận dữ của gã cũng bị bẻ gãy, để rồi gã chỉ biết khóc lóc và khuất phục khi đối mặt; gã bị phản bội và sát hại bởi những kẻ gã yêu thương, rồi lại bị bắt phải sát hại và phản bội họ, rồi báng bổ họ, phanh thây họ, nôn mửa họ ra. Không một ngóc ngách nào của nỗi đau bị bỏ sót.
 
-Không một điểm yếu nào lọt khỏi tầm ngắm.
+Không một góc khuất yếu mềm nào thoát khỏi nanh nanh ác quỷ.
 
 Vì sự kiêu ngạo đối với sức mạnh của bản thân, gã bị biến thành một món đồ chơi. Vì bản năng xác thịt của mình, gã bị tước bỏ mọi giới tính.
 
@@ -72,13 +72,13 @@ Thứ từng là Thomas cất tiếng kêu khàn đục qua cái miệng há h�
 
 Thomas chưa từng chứng kiến cảnh tượng nào đẹp đẽ đến thế; gã đã quên mất vẻ đẹp thực sự là gì.
 
-Lại một sự phản bội nữa
+Lại một sự phản bội nữa.
 
-Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức
+Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức.
 
-Và ký ức chính là nỗi đau
+Và ký ức chính là nỗi đau.
 
-Sự thật duy nhất ở chốn này
+Sự thật duy nhất ở chốn này.
 
 Thomas nhắm nghiền mắt lại trước bọn chúng và chờ đợi những đợt tra tấn tiếp theo bắt đầu. Gã cảm nhận được sự ấm áp từ Delphine đang đến gần hơn, quỳ xuống ngay trước mặt gã.
 
@@ -100,11 +100,11 @@ Người mà Thomas từng yêu thương như con gái, và hơn thế nữa, n�
 
 Thomas nổi giận.
 
-Đây là ảo ảnh hoàn hảo nhất mà bọn chúng từng tạo ra, nhưng không phải lần đầu tiên. Đã bao nhiêu lần chúng sai Delphine đến vẫy gọi rồi lại bỏ rơi anh, đã bao nhiêu lần đôi tay anh khước từ mọi mệnh lệnh phải dừng lại trong lúc anh bóp nghẹt sự sống khỏi cô bé, cưỡng bức cô bé hay xẻ thịt cô bé như một con cừu non?
+Đây là ảo ảnh hoàn hảo nhất mà bọn chúng từng tạo ra, nhưng không phải lần đầu tiên. Đã bao nhiêu lần chúng sai Delphine đến vẫy gọi rồi lại bỏ rơi gã, đã bao nhiêu lần đôi tay gã khước từ mọi mệnh lệnh phải dừng lại trong lúc gã bóp nghẹt sự sống khỏi cô bé, cưỡng bức cô bé hay xẻ thịt cô bé như một con cừu non?
 
 Thomas mở mắt, và Delphine vẫn ở đó.
 
-TA NHÌN THẤY MÀY ĐỒ KHỐN
+TA NHÌN THẤY MÀY, ĐỒ KHỐN!
 
 Thomas nhổ nước bọt vào mặt Delphine và cô bé mỉm cười.
 
@@ -144,9 +144,9 @@ Ngươi đã sẵn sàng chưa?
 
 Thomas gật đầu.
 
-Khẽ khàng đến mức khó nhận ra, nhưng anh đã gật đầu.
+Khẽ khàng đến mức khó nhận ra, nhưng gã đã gật đầu.
 
-Delphine hà hơi vào đôi bàn tay Thomas để sưởi ấm sự sống trở lại. Cô bé hôn lên đôi bàn chân anh. Cô bé hôn lên trán anh.
+Delphine hà hơi vào đôi bàn tay Thomas để sưởi ấm sự sống trở lại. Cô bé hôn lên đôi bàn chân gã. Cô bé hôn lên trán gã.
 
 Cô bé mang hương thơm của gỗ tuyết tùng và của biển cả.
 
@@ -170,7 +170,7 @@ Con đã bị đọa đày.
 
 Không còn nữa.
 
-Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn anh.
+Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn gã.
 
 Ta muốn hỏi ngươi một câu, Thomas.
 
@@ -178,7 +178,7 @@ Ta muốn hỏi ngươi một câu, Thomas.
 
 Ngươi có muốn nhớ lại không?
 
-Đôi mắt Thomas ngấn lệ và anh lắc đầu, khuôn mặt méo mó vì sắp nức nở.
+Đôi mắt Thomas ngấn lệ và gã lắc đầu, khuôn mặt méo mó vì sắp nức nở.
 
 Không phải Địa Ngục. Ý ta là ta. Là chúng ta.
 
@@ -186,7 +186,7 @@ Con bé ư?
 
 Cô bé ấy. Delphine.
 
-Tôi không biết. Ngài là gì?
+Tôi không biết... Ngài rốt cuộc là ai?
 
 Ta từng là hai thực thể hòa làm một. Rồi thành một. Giờ lại là hai, tách rời nhau.
 

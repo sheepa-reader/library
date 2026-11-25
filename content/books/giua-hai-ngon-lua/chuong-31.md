@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Tám: Về Vấn Đề Danh Dự
+# CHƯƠNG HAI MƯƠI TÁM: Về Vấn Đề Danh Dự
 
 Thomas chạy theo đám kỵ binh cho đến khi sức nặng của chiếc áo giáp xích và cái nóng ban ngày khiến gã chậm lại thành một bước đi nhanh. Thomas thừa biết họ đang đi đâu. Và gã hoàn toàn không có ý tưởng gì về việc mình sẽ làm nếu bắt kịp họ, dù là ở Avignon hay trên đường đi. Gã thích ở trên đường hơn.
 
@@ -88,7 +88,7 @@ Thomas dời ánh mắt trở lại vị bá tước.
 
 Thomas thừa biết tên trẻ tuổi đó đang nghĩ gì: Làm thế nào để rũ bỏ sự dơ bẩn này mà vẫn giữ được vẻ ngoài cao quý? Thomas từng là một người được kính trọng. Ai nấy đều biết rằng lệnh Sự Rút phép Thông công của Thomas là bất công và đất đai của gã đã bị cướp đoạt. Mọi kẻ phục vụ một vị vua hoặc một lãnh chúa đều nhìn vào sự phản bội đối với Thomas và tự hỏi khi nào một tai nạn của lòng trung thành và chiến tranh sẽ khiến họ trở nên dễ bị tổn thương trước một kẻ cơ hội hùng mạnh như d’Évreux.
 
-Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa
+Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas. Ả thích điều đó, ả thích một gã trai trẻ đẹp đẽ trên giường, và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas. Ngươi đã nhìn thấy bộ râu lố bịch của mình chưa, ngươi trông giống như một tên tiên tri đĩ thõa.
 
 Thomas chớp mắt liên hồi để kéo bản thân trở về thực tại; đây không phải lúc để tâm trí lang thang.
 
@@ -102,7 +102,7 @@ Một con quạ kêu lên trên vòm cây.
 
 “Và ta có thể ban cho ngươi loại công lý nào giữa một cánh đồng ở Provence, ngoài lãnh địa của ta?”
 
-Vài nơi trong số đó là lãnh địa của ta
+Vài nơi trong số đó là lãnh địa của ta.
 
 Tiếng quạ lại vang lên.
 
@@ -112,7 +112,7 @@ Tiếng quạ lại vang lên.
 
 “Ngươi đang đe dọa ta đấy à?” d’Évreux nói, rướn người về phía trước một chút với hy vọng gã lớn tuổi sẽ sập bẫy.
 
-“Ta đang cho ngươi cơ hội để chuộc lại danh dự của ngươi, và của cả ta, trong một trận quyết đấu vũ trang. Ngay tại đây, dưới sự chứng kiến của người phàm và…”
+“Ta đang cho ngươi cơ hội để chuộc lại danh dự của ngươi, và của cả ta, trong một trận quyết đấu vũ trang. Ngay tại đây, dưới sự chứng kiến của người phàm và...”
 
 “Và cái gì?”
 
@@ -128,7 +128,7 @@ Hắn ước gì mình đang ở cùng họ lúc này.
 
 Giá như con quạ khốn kiếp kia chịu im miệng.
 
-“Tên này đã bị Sự Rút phép Thông công,” hắn lớn tiếng tuyên bố, “và bị tước đoạt danh dự cùng những quyền lợi, đặc ân đi kèm…” Hắn cảm nhận được những ánh mắt đang đổ dồn vào mình lúc này, và chúng chẳng mấy thiện cảm. Bọn họ sẽ không để hắn phớt lờ gã này một khi đã biết gã là ai. Dù Chrétien có mở được cổng Jerusalem bằng một tay và thiêu trụi Acre bằng tay kia, những kẻ này vẫn sẽ ghi nhớ sự hèn nhát của hắn tại đây, bên con suối này, và họ sẽ bàn tán về nó. Cha hắn là họ hàng của nhà vua; dòng máu hoàng gia cũng chảy trong huyết quản bên phía mẹ hắn. Hắn sẽ là vua xứ Navarre khi bà qua đời. Cái chết giờ đây thật bừa bãi; không loại trừ khả năng vương miện nước Pháp có thể thuộc về hắn, chính là hắn, nếu hắn có đủ sự hậu thuận. Nếu người ta không coi hắn là kẻ hèn nhát.
+“Tên này đã bị Sự Rút phép Thông công,” hắn lớn tiếng tuyên bố, “và bị tước đoạt danh dự cùng những quyền lợi, đặc ân đi kèm...” Hắn cảm nhận được những ánh mắt đang đổ dồn vào mình lúc này, và chúng chẳng mấy thiện cảm. Bọn họ sẽ không để hắn phớt lờ gã này một khi đã biết gã là ai. Dù Chrétien có mở được cổng Jerusalem bằng một tay và thiêu trụi Acre bằng tay kia, những kẻ này vẫn sẽ ghi nhớ sự hèn nhát của hắn tại đây, bên con suối này, và họ sẽ bàn tán về nó. Cha hắn là họ hàng của nhà vua; dòng máu hoàng gia cũng chảy trong huyết quản bên phía mẹ hắn. Hắn sẽ là vua xứ Navarre khi bà qua đời. Cái chết giờ đây thật bừa bãi; không loại trừ khả năng vương miện nước Pháp có thể thuộc về hắn, chính là hắn, nếu hắn có đủ sự hậu thuận. Nếu người ta không coi hắn là kẻ hèn nhát.
 
 Hắn sẽ buộc phải chiến đấu.
 
@@ -172,7 +172,7 @@ Thomas vẫn không nói gì.
 
 Anh thừa biết gã này sẽ còn nói tiếp.
 
-“Ngươi hãy chuẩn bị đón nhận công lý mà…” hắn vừa mở lời, nhưng Thomas liền lao đến ngay khoảnh khắc anh biết đối phương buộc phải hít một hơi vào ngực. Thomas mạnh hơn gã bá tước rất nhiều, mạnh hơn hẳn, lại còn nhẹ hơn vì mặc rất ít giáp. Gã bá tước tự vệ, sự huấn luyện đã lấn át nỗi sợ đủ để không bị kết liễu ngay lập tức, dù chỉ trong đường tơ kẽ tóc. Tấm giáp ngực của hắn đỡ được một cú đâm nhắm vào nách, thứ vốn có thể bẻ gãy xương sườn xuyên qua lớp áo xích. Hắn thở hồng hộc và lùi lại, lấy lại tư thế thủ.
+“Ngươi hãy chuẩn bị đón nhận công lý mà...” hắn vừa mở lời, nhưng Thomas liền lao đến ngay khoảnh khắc anh biết đối phương buộc phải hít một hơi vào ngực. Thomas mạnh hơn gã bá tước rất nhiều, mạnh hơn hẳn, lại còn nhẹ hơn vì mặc rất ít giáp. Gã bá tước tự vệ, sự huấn luyện đã lấn át nỗi sợ đủ để không bị kết liễu ngay lập tức, dù chỉ trong đường tơ kẽ tóc. Tấm giáp ngực của hắn đỡ được một cú đâm nhắm vào nách, thứ vốn có thể bẻ gãy xương sườn xuyên qua lớp áo xích. Hắn thở hồng hộc và lùi lại, lấy lại tư thế thủ.
 
 “Còn gì trối trăn nữa không?” Thomas hỏi, nhưng lần này gã trẻ tuổi giữ im lặng. Hắn vung mũi kiếm chém nhanh về phía Thomas, tầm với dài đến mức có thể tóm được một kẻ chậm chạp hơn, nhưng Thomas gạt phăng đi, giáng một đòn hiểm hóc từ dưới lên trúng mũ trụ của gã thanh niên, rồi lại đánh gạt kiếm của hắn xuống một lần nữa. Vị bá tước cố sức giữ lấy thanh gươm, dùng nó để đỡ đòn đánh nhắm vào chân mình. Cứ thế trận đấu tiếp diễn. Thomas tìm cách làm kiệt sức kẻ địch được mặc giáp kín kẽ hơn, đánh gạt thanh kiếm của đối thủ sáu lần liền, khiến tên hiệp sĩ nọ, với thanh kiếm ngày càng trở nên nặng trịch, trở nên hoảng loạn và quờ quạng lung tung. Thomas né một cú vung đã mệt mỏi và lần này khéo léo cắm thẳng mũi kiếm vào nách vị bá tước; lớp áo xích đã ngăn không cho cú đâm tước đoạt mạng sống của hắn, nhưng cơ bắp đã bị rách và vị bá tước thét lên đau đớn.
 
@@ -240,7 +240,7 @@ Janus Blount, thủ lĩnh của đám cướp người Anh và Gascony, dẫn đ
 
 Không ai trả lời. Cậu thiếu niên nằm co quắp quanh vết thương trước ngực, vẫn còn thở nhưng đang chết dần. Janus cúi nhìn đứa trẻ đẫm nước mắt đang run lẩy bẩy và nhận ra vết thương của nó đã vô phương cứu chữa. Lão biết có một tu viện với vài tu sĩ vẫn còn sống ở gần đó, nhưng con chim non này đã lún quá sâu để có thể thực hiện chuyến hành trình. Nó sẽ chết trong vài phút nữa, và đó sẽ là những phút dài đằng đẵng. Tên cướp áp lòng bàn tay chai sần lên má mềm mại của cậu thiếu niên và nói: “Xin lỗi nhé, nhóc.” Lão đâm ngập con dao găm tròn dưới xương ức của đứa trẻ, và khi nó cuối cùng nằm bất động, lão dùng ngón cái khép mi mắt nó lại.
 
-“Chúa ơi!” lão gầm lên. “Chúng mày có thấy tao vừa phải làm gì chỉ vì một thằng mù dở nào trong lũ chúng mày không? Và tao sẽ làm điều tương tự với bất kỳ kẻ nào còn dám ra tay với phụ nữ hay trẻ em một lần nữa, hiểu chưa? Phải nhìn cho kỹ vào. Trò này đéo được phép làm thế, nghe rõ chưa?” Ba mươi tên lính Anh, nhiều kẻ từng phục vụ dưới quyền lão khi lão làm đội trưởng dưới thời Vua Edward, đồng thanh đáp: “Vâng, thưa ngài.” Tên phó tướng người Gascony của lão lặp lại mệnh lệnh bằng tiếng Pháp, và chục tên lính Gascony cũng gật đầu.
+“Chúa ơi!” lão gầm lên. “Chúng mày có thấy tao vừa phải làm gì chỉ vì một thằng mù dở nào trong lũ chúng mày không? Và tao sẽ làm điều tương tự với bất kỳ kẻ nào còn dám ra tay với phụ nữ hay trẻ em một lần nữa, hiểu chưa? Phải nhìn cho kỹ vào. Trò này không được phép làm thế, nghe rõ chưa?” Ba mươi tên lính Anh, nhiều kẻ từng phục vụ dưới quyền lão khi lão làm đội trưởng dưới thời Vua Edward, đồng thanh đáp: “Vâng, thưa ngài.” Tên phó tướng người Gascony của lão lặp lại mệnh lệnh bằng tiếng Pháp, và chục tên lính Gascony cũng gật đầu.
 
 Lão bước đến cái xác của một hiệp sĩ rất giàu có, một tên trẻ tuổi vạm vỡ trong bộ giáp tinh xảo nhưng rốt cuộc vẫn không ngăn được mũi tên xuyên qua cổ áo giáp dưới cằm. Lão lục lọi chiếc túi trên thắt lưng gã đàn ông và lấy ra số tiền vàng, tiện tay vứt bỏ một cuộn da cừu được buộc bằng dải ruy băng dệt kim tuyến.
 
@@ -378,7 +378,7 @@ Thomas chớp mắt nhìn cô bé, không hiểu trò đùa của em là gì.
 
 Cô bé đi đến chỗ tên bá tước đã chết, tháo chiếc mũ trụ đang sáng bóng của hắn ra và kéo nó khỏi đầu hắn. Em mang chiếc mũ đến chỗ Thomas.
 
-“Làm sao chú có thể ăn uống được nếu lúc nào cũng đội cái mũ sắt chết tiệt này chứ? Hoặc nói chuyện? Hoặc là…”
+“Làm sao chú có thể ăn uống được nếu lúc nào cũng đội cái mũ sắt chết tiệt này chứ? Hoặc nói chuyện? Hoặc là...”
 
 Cô bé giơ chiếc mũ lên trước mặt gã.
 
@@ -428,7 +428,7 @@ Em cầm chiếc bát của gã cùng chiếc mũ trụ rồi bước ra bờ su
 
 “Nó vốn dĩ quan trọng mà,” cô bé đáp.
 
-“Dù chúng ta phải làm gì ở cái thành phố đó đi chăng nữa — và chú thú thật là chú rất sợ cái thành phố ấy, chú chẳng có gì phải xấu hổ khi nói ra điều đó cả — nhưng nó sẽ giết chết chúng ta mất, đúng không? Chừng đó vẫn chưa đủ sao?”
+“Dù chúng ta phải làm gì ở cái thành phố đó đi chăng nữa, và chú thú thật là chú rất sợ cái thành phố ấy, chú chẳng có gì phải xấu hổ khi nói ra điều đó cả, nhưng nó sẽ giết chết chúng ta mất, đúng không? Chừng đó vẫn chưa đủ sao?”
 
 Cô bé nhíu mày suy nghĩ.
 

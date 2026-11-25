@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Một: Về Quái Vật và Những Lời Chúc Lành
+# CHƯƠNG HAI MƯƠI MỘT: Về Quái Vật và Những Lời Chúc Lành
 
 Dù tránh xa thành Beaune một khoảng cách an toàn, họ vẫn chứng kiến dấu vết của đám quái vật mà Delphine từng thấy trong mơ ở những cánh đồng ngay phía nam thị trấn. Một cái cây đứng trơ trọi giữa đồng bị vặt trụi sạch lá, cành cây lúc lỉu treo đầy người và súc vật, tất cả đều cứng đờ như cá trích phơi khô. Một đốm lửa nhỏ nhấp nháy dưới gốc cây. Chúng đang được xông khói. Một đống quần áo nằm ngay gần đó, bên cạnh là một chồng củi dự trữ để đắp vào lò. Một cái hố lớn vừa được đào sâu hoắm bên sườn một gò đất nhỏ không xa cái cây. Bóng tối bên trong cái hố ấy đen đặc đến kỳ lạ, như muốn đẩy lùi cả ánh ban ngày. Nó đủ rộng để một kẻ đi cà kheo bước vào mà không phải cúi đầu. Ngay cửa hố là la liệt những bàn chân bị vứt bỏ. Dù đó là thứ gì đi nữa, nó hình như không ưa bàn chân. Một vật gì đó chuyển động trong bóng tối của cái hố, rồi họ nghe thấy một thứ âm thanh lơ lửng giữa tiếng rên rỉ lục bục và tiếng vo ve của côn trùng. Con la tự động cất bước chạy nhanh hơn mà không cần người đánh xe phải giục giã.
 

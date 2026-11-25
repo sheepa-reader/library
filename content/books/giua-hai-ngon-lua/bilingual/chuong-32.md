@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Chín: Về Marguerite de Péronne
+# CHƯƠNG HAI MƯƠI CHÍN: Về Marguerite de Péronne
 
 <p class="para-en">Thomas de Givras married Marguerite de Péronne on a sleeting Candlemas Day, 1341. The daughter of a minor seigneur of the lagoons, she still brought a decent dowry: a cedar chest, three mares, two tapestries, ten gold livres, and a much-coveted recipe for pâté of smoked eel. Her true dowry was twofold. First, her connections—her mother’s sister had married into the family of the great Enguerrand de Coucy. Next, and more troublesome, was her beauty. Many lords and not a few merchants had sought her hand, and yet her father had held out, hoping to thicken his descendancy with a drop or two of royal blood. It never came. By the time he lowered his standards, Marguerite was twenty.</p>
 

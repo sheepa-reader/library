@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Bảy: Bọn Routiers
+# CHƯƠNG HAI MƯƠI BẢY: Bọn Routiers
 
 <p class="para-en">The city of Orange sat behind a big Roman arch that seemed to guard the road it straddled, the road leading up to the gates. Shops and houses that had sprung up outside the city walls leaned against those walls, or against one another, but a reverential space had been left around the arch. It was as if the emperor or general who had commanded it to be raised were still held in such awe that his arch was left unmarred, even when men seeking stone for houses poached freely from the amphitheater against the hill.</p>
 
@@ -60,7 +60,7 @@
 
 <p class="para-en">Thomas faded between two houses before the drunk sentinel turned his attention back to the road. The knight crouched down in an alley and watched, batting away an orange cat that purred and rubbed itself against him.</p>
 
-<p class="para-vi-sub">Thomas lẩn khuất giữa hai ngôi nhà trước khi tên lính canh say xỉn quay sự chú ý trở lại con đường. Vị hiệp sĩ khom người trong một con hẻm nhỏ và quan sát, xua tay gạt một con mèo cam đang cọ quẫy và rên gừ gừ vào người mình.</p>
+<p class="para-vi-sub">Thomas lẩn khuất giữa hai ngôi nhà trước khi tên lính canh say xỉn quay sự chú ý trở lại con đường. Vị hiệp sĩ khom người trong một con hẻm nhỏ quan sát, tay xua một con mèo cam đang cọ mình rên gừ gừ.</p>
 
 <p class="para-en">It was not long before the watchman went to piss.</p>
 
@@ -84,7 +84,7 @@
 
 <p class="para-en">Several of the men in the tubs gasped. They all stared at him, none of them daring to speak.</p>
 
-<p class="para-vi-sub">Một vài gã trong các thùng tắm hộc lên kinh ngạc. Tất cả đều trân trân nhìn anh, không một kẻ nào dám mở miệng.</p>
+<p class="para-vi-sub">Một vài gã trong các thùng tắm hộc lên kinh ngạc. Tất cả đều trân trân nhìn anh, chẳng một ai thốt nổi một lời.</p>
 
 <p class="para-en">They saw that this man was lethal.</p>
 
@@ -160,7 +160,7 @@
 
 <p class="para-en">Find my brother…tell my brother…</p>
 
-<p class="para-vi-sub">Hãy tìm anh ấy… hãy nói với anh ấy…</p>
+<p class="para-vi-sub">Hãy tìm anh ấy... hãy nói với anh ấy...</p>
 
 <p class="para-en">Do you swear to give them God’s justice?</p>
 
@@ -244,7 +244,7 @@
 
 <p class="para-en">If he told anyone of this girl who spoke languages she did not speak and played instruments she did not play, they would say…</p>
 
-<p class="para-vi-sub">Nếu anh kể cho bất kỳ ai nghe về cô bé này — người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành — họ sẽ thốt lên…</p>
+<p class="para-vi-sub">Nếu anh kể cho bất kỳ ai nghe về cô bé này, người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành, họ sẽ thốt lên...</p>
 
 <p class="para-en">Witch.</p>
 
@@ -296,7 +296,7 @@
 
 <p class="para-en">“A whoring ox,” he said, waving as they went by.</p>
 
-<p class="para-vi-sub">“Một con bò đĩ điếm,” anh nói, vẫy tay chào khi họ đi qua.</p>
+<p class="para-vi-sub">“Đúng là một con bò đĩ điếm,” gã lẩm bẩm, vẫy tay chào khi họ đi qua.</p>
 
 <p class="para-en">Later that morning he was walking in the road because the ground on the shoulders was loose and gravelly; he did not want to turn his ankle and hobble the rest of the way into Avignon. A man shouted at him to clear a path, and he obliged, shielding his eyes against the sun as the most recent of several military processions he had seen cantered by. Four knights headed this one, followed by a dozen men-at-arms.</p>
 

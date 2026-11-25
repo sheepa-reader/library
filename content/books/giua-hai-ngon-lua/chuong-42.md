@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Tám: Bàn về các Chiếc nhẫn của Lazarus và những Kẻ tắm mình
+# CHƯƠNG BA MƯƠI TÁM: Bàn về các Chiếc nhẫn của Lazarus và những Kẻ tắm mình
 
 Vị linh mục lớn mặc áo trùm đầu và cô bé tóc ngắn hòa vào dòng người nghèo khổ ở Avignon, những kẻ đổ xô về phía cung điện giống như dòng sông Rhône thứ hai tràn ngập áo trùm đầu, áo choàng và mũ đủ màu sắc. Nếu như nhiều người mặc trang phục của những kẻ giàu có đã chết, thì tất cả bọn họ đều mang theo cơn đói của chính mình; điều đó khiến họ quên đi nỗi sợ hãi về Kỷ Nguyên Đại Diệt Vong, hoặc ít nhất là không bận tâm đến nó ngoài những chiếc giẻ che mặt trong lúc họ chen chúc tiến về phía bàn ăn của Đức Giáo Hoàng. Họ đã từng nếm trải lòng hào phóng của ngài tại điểm phát chẩn pignotte, nhưng ở đó họ chỉ nhận được rau củ và bánh mì, và không đủ cho tất cả mọi người; còn ở đây, tại quảng trường bên ngoài cung điện sừng sững, bên dưới những ngọn tháp nhọn hoắt chọc trời như sừng dê, mùi thịt nướng đã làm họ phát cuồng và khiến nước bọt túa ra đầy miệng.
 

@@ -1,6 +1,6 @@
 *Phần II*
 
-# Chương Mười Bốn: Về vị linh mục mang vết nhơ và sự trả thù của góa phụ
+# CHƯƠNG MƯỜI BỐN: Về vị linh mục mang vết nhơ và sự trả thù của góa phụ
 
 Hai tháng trước khi bệnh dịch bùng phát tại St. Martin-le-Preux, cha Matthieu Hanicotte đang chìm đắm trong tình yêu. Đôi tay ông run rẩy khi mặc chiếc áo lễ chasuble rồi chuẩn bị nến cùng hương trầm, và lúc ông giảng đạo, vùng nách bên trái của ông đẫm mồ hôi lạnh dù những buổi sáng tháng Năm ấy vẫn còn se lạnh. Ông thấy thật kỳ lạ khi chỉ có mỗi nách trái là đổ mồ hôi, có lẽ, ông thầm nghĩ, là vì trái tim được cho là nằm lệch về phía trái một chút. Và tội lỗi của ông, tính đến sáng hôm nay, vẫn chỉ nằm sâu trong tim.
 

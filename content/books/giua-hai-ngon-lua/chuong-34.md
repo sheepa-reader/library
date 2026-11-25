@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi: Về Người Em Trai Của Vị Linh Mục
+# CHƯƠNG BA MƯƠI: Về Người Em Trai Của Vị Linh Mục
 
 Robert Hanicotte đứng trong chuồng ngựa, bẻ nhỏ một nắm cỏ khô cho một trong sáu con tuấn mã Ả Rập lông đen của Đức Hồng Y. Con ngựa này mang tên Guêpe vì nó nhỏ con, thắt đáy lưng ong và hung dữ như một con ong bắp cày; tốc độ chạy thẳng không bằng mấy con khác, nhưng lại có khả năng xoay người ngoạn mục cùng những cú nhảy chóng mặt. Nó không phải là con vật cưng yêu thích nhất của Đức Hồng Y, nhưng Robert yêu nó hơn bất cứ thứ gì ở cái thành phố này. Tuy nhiên, anh sẽ không bao giờ để lão già đó biết điều này, nếu không quyền cưỡi nó sẽ bị lợi dụng làm đòn bẩy.
 

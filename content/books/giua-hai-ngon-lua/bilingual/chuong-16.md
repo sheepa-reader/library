@@ -1,6 +1,6 @@
 *Phần II*
 
-# Chương Mười Bốn: Về vị linh mục mang vết nhơ và sự trả thù của góa phụ
+# CHƯƠNG MƯỜI BỐN: Về vị linh mục mang vết nhơ và sự trả thù của góa phụ
 
 <p class="para-en">Two months before the plague came to St. Martin-le-Preux, Père Matthieu Hanicotte was in love. His hands shook as he put on his chasuble and prepared the candles and the incense, and when he preached his sermon, his left armpit ran cold with sweat, even though the mornings were still cool that May. It seemed curious to him that only the left armpit was affected; perhaps, he thought, because the heart was supposed to sit just a little to the left. And his sin, as of this morning, was still only in his heart.</p>
 

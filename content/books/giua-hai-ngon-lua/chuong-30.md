@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Bảy: Bọn Routiers
+# CHƯƠNG HAI MƯƠI BẢY: Bọn Routiers
 
 Thành phố Orange nằm khuất sau một vòm cổng La Mã to lớn như muốn che chở cho con đường mà nó bắc qua, con đường dẫn thẳng đến các cổng thành. Những cửa hàng và ngôi nhà mọc lên san sát bên ngoài tường thành tựa lưng vào những bức tường đó, hoặc tựa vào nhau, nhưng một khoảng không gian mang tính tôn kính vẫn được chừa lại quanh vòm cổng. Cứ như thể vị hoàng đế hoặc vị tướng từng hạ lệnh dựng nên nó vẫn đang được kính trọng sâu sắc đến mức vòm cổng của ông vẫn được để lại nguyên vẹn, ngay cả khi những kẻ tìm kiếm đá xây nhà tha hồ khoét lấy từ nhà hát lộ thiên sát sườn đồi.
 
@@ -30,7 +30,7 @@ Thomas khựng lại chết sững.
 
 Liệu chúng có mảy may bận tâm nếu tin tức truyền đến Orange trong lúc chúng vẫn còn ở đây? Khó mà có chuyện quan trấn lãnh của thị trấn hay lãnh chúa địa phương có thể tập hợp đủ người để thách thức băng nhóm này. Dịch hạch ở đây đang suy giảm, nhưng nó đã làm xong việc của mình. Những ngôi nhà bỏ trống nhiều hơn là có người ở, và cứ mỗi cô gái đang cười đùa trong tiệm tắm, thì có lẽ có đến hai người đã bị xúc xuống một hố chôn chung gần đó, hoặc bị vứt xuống sông.
 
-Thomas lẩn khuất giữa hai ngôi nhà trước khi tên lính canh say xỉn quay sự chú ý trở lại con đường. Vị hiệp sĩ khom người trong một con hẻm nhỏ và quan sát, xua tay gạt một con mèo cam đang cọ quẫy và rên gừ gừ vào người mình.
+Thomas lẩn khuất giữa hai ngôi nhà trước khi tên lính canh say xỉn quay sự chú ý trở lại con đường. Vị hiệp sĩ khom người trong một con hẻm nhỏ quan sát, tay xua một con mèo cam đang cọ mình rên gừ gừ.
 
 Chẳng mấy chốc thì tên lính gác đi tiểu.
 
@@ -42,7 +42,7 @@ Anh bước qua khung cửa, tiến vào một không gian ngập tràn nến nh
 
 Anh vác thanh kiếm trên vai, một tay đặt lên đốc kiếm, tay kia giữ lấy phần ngạnh bảo vệ; anh đã sẵn sàng dùng nó để tước đoạt sinh mạng.
 
-Một vài gã trong các thùng tắm hộc lên kinh ngạc. Tất cả đều trân trân nhìn anh, không một kẻ nào dám mở miệng.
+Một vài gã trong các thùng tắm hộc lên kinh ngạc. Tất cả đều trân trân nhìn anh, chẳng một ai thốt nổi một lời.
 
 Họ thấy gã đàn ông này mang theo sự chết chóc.
 
@@ -80,7 +80,7 @@ Ngài Thomas.
 
 Chúng ta sẽ phải trả giá cho việc đó.
 
-Hãy tìm anh ấy… hãy nói với anh ấy…
+Hãy tìm anh ấy... hãy nói với anh ấy...
 
 Ngươi có thề mang công lý của Chúa đến cho họ không?
 
@@ -122,7 +122,7 @@ Vì lẽ gì mà anh cứ mãi vờ vịt rằng cô bé không phải là một
 
 Thế mà.
 
-Nếu anh kể cho bất kỳ ai nghe về cô bé này — người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành — họ sẽ thốt lên…
+Nếu anh kể cho bất kỳ ai nghe về cô bé này, người nói được những thứ tiếng mà em không hề biết và chơi được những loại nhạc cụ mà em không hề rành, họ sẽ thốt lên...
 
 Phù thủy.
 
@@ -148,7 +148,7 @@ Lượng người qua lại trên con đường dẫn đến Avignon khiến anh
 
 Anh đã không còn nhìn thấy đông đảo người đến thế kể từ khi Đại Diệt Vong giáng xuống họ từ vài tháng trước nhưng dài đằng đẵng như cả thế kỷ. Một chiếc xe chở đoàn diễn kịch tôn giáo dân gian đi qua, tiếng trống dồn dập, hai người đàn ông mang mặt nạ đầu lâu đang nhún nhảy để thể hiện rằng họ đã sống lại, một thiên thần Gabriel thổi tù và trong khi chiếc hào quang lố bịch, được sơn nhũ vàng nhưng bị cào xước để lộ ra phần gỗ bên dưới, cứ chòng chành đằng sau đầu. Một con bò, thật lạ lùng làm sao, lại là con vật kéo xe.
 
-“Một con bò đĩ điếm,” anh nói, vẫy tay chào khi họ đi qua.
+“Đúng là một con bò đĩ điếm,” gã lẩm bẩm, vẫy tay chào khi họ đi qua.
 
 Sáng hôm đó, Thomas bước ở giữa lòng đường vì đất ở hai bên lề vừa tơi xốp lại lắm sỏi đá; anh không muốn trật khớp cổ chân và phải tập tễnh bước nốt quãng đường còn lại vào Avignon. Một người đàn ông quát lớn bảo anh dạt sang một bên để nhường đường, và anh đã làm theo, lấy tay che mắt tránh ánh mặt trời khi đoàn quân sự mới nhất trong số vài đoàn mà anh nhìn thấy vừa phi nước kiệu ngang qua. Dẫn đầu tốp này là bốn hiệp sĩ, theo sau là một tá lính bộ binh vũ trang.
 

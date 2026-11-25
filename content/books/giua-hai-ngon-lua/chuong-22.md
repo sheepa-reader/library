@@ -1,4 +1,4 @@
-# Phần III
+# PHẦN III
 
 Vì chúng đã ở lại quá lâu trong những tầng sâu thẳm, lũ phản nghịch đã tự dựng lên vương quốc của riêng mình tại đó và tự xưng là chúa tể của cõi ấy. Ngay từ những ngày đầu bị đày ải, chúng đã thắp lên những vì tinh tú giả tạo trên vòm trời Địa Ngục để nhạo báng những gì thuộc về thượng giới. Chúng đã đào những dòng sông chết và khoét những vùng biển bốc khói và phồng rộp; chúng đã dựng lên những ngọn đồi tàn độc; chúng đặt những khu rừng bằng sắt dưới vầng trăng lửa.
 

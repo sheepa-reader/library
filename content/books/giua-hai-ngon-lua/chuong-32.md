@@ -1,6 +1,6 @@
 *Phần III*
 
-# Chương Hai Mươi Chín: Về Marguerite de Péronne
+# CHƯƠNG HAI MƯƠI CHÍN: Về Marguerite de Péronne
 
 Thomas de Givras kết hôn với Marguerite de Péronne vào một ngày lễ nến mưa tuyết mịt mùng năm 1341. Là con gái của một lãnh chúa cấp thấp miền đầm lầy, nàng vẫn mang theo một số hồi môn kha khá: một chiếc rương gỗ tuyết tùng, ba con ngựa cái, hai tấm thảm treo tường, mười đồng livre vàng, cùng một công thức làm món paté lươn xông khói được săn lùng ráo riết. Hồi môn thực sự của nàng gồm hai phần. Đầu tiên là các mối quan hệ gia thế, chị gái của mẹ nàng đã kết hôn với dòng tộc của vị đại quý tộc Enguerrand de Coucy. Tiếp theo, và cũng là điều rắc rối hơn, chính là nhan sắc của nàng. Rất nhiều lãnh chúa và không ít thương gia đã dạm hỏi nàng, thế nhưng cha nàng vẫn kiên quyết chờ đợi, với hy vọng làm cho dòng dõi gia tộc thêm phần vinh quang bằng một hai giọt máu hoàng gia. Điều đó chẳng bao giờ thành hiện thực. Đến khi ông chịu hạ thấp tiêu chuẩn xuống, Marguerite đã tròn hai mươi tuổi.
 

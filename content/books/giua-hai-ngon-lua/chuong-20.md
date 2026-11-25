@@ -1,26 +1,26 @@
 *Phần II*
 
-# Chương Mười Tám: Bàn về Tín đồ Hành xác và về Auxerre
+# CHƯƠNG MƯỜI TÁM: Bàn về Tín đồ Hành xác và về Auxerre
 
 Dấu hiệu đầu tiên cho thấy nhóm người họ đang bám theo chính là những vết tích. Họ để lại những dấu chân lún sâu trên mặt đường ẩm ướt giống như bất kỳ nhóm đông người nào đi qua, nhưng cứ cách khoảng một trăm thước thì lại có một vết hằn giống như thể tất cả bọn họ đã ngã xuống và ấn cơ thể mình vào lớp bùn lầy. Thêm vào đó, Thomas cũng nhận thấy những phần gốc cây bị gãy trắng phau, tươi rói ở những cái cây ven đường, kèm theo những dấu chân dẫn thẳng đến các gốc cây ấy. Khi họ tiến đến thị trấn Ponchelvert, một cảnh tượng kỳ lạ đã đập vào mắt họ.
 
 Ai đó đã đóng đinh một người lùn lên cây thập giá.
 
-Tuy nhiên, anh ta vẫn còn rất sống.
+Tuy nhiên, gã vẫn còn sống sờ sờ.
 
-Khi chiếc xe kéo đến gần hơn, họ nhìn thấy anh ta được buộc chặt vào cây nhiều hơn là bị đóng đinh, và đôi chân anh ta đứng trên một chiếc bệ nhỏ, dù anh ta đang đội một chiếc vương miện làm bằng gai thật sự. Một chiếc thang nằm trên bãi cỏ gần chỗ anh ta, cùng với một xô nước đặt cạnh một miếng bọt biển cắm trên một chiếc gậy dài.
+Khi chiếc xe kéo đến gần hơn, họ nhìn thấy gã được buộc chặt vào cây nhiều hơn là bị đóng đinh, và đôi chân gã đứng trên một chiếc bệ nhỏ, dù gã đang đội một chiếc vương miện làm bằng gai thật sự. Một chiếc thang nằm trên bãi cỏ gần chỗ gã, cùng với một xô nước đặt cạnh một miếng bọt biển cắm trên một chiếc gậy dài.
 
-Người lùn không nói gì với họ khi họ đến gần, dẫu cho anh ta vẫn dán mắt theo họ trên suốt chặng đường. Cha Matthieu dừng con la lại và tất cả bọn họ sững sờ nhìn anh ta.
+Người lùn không nói gì với họ khi họ đến gần, dẫu cho đôi mắt gã vẫn dán chặt theo họ trên suốt chặng đường. Cha Matthieu dừng con la lại và tất cả bọn họ sững sờ nhìn gã.
 
-Anh ta hất cằm về phía xô nước.
+Gã hất cằm về phía xô nước.
 
-Delphine trèo khỏi xe kéo, nhúng ướt miếng bọt biển rồi đưa lên miệng anh ta. Anh ta mím môi vào miếng bọt biển theo cách khiến cô bé liên tưởng đến một con cừu.
+Delphine trèo khỏi xe kéo, nhúng ướt miếng bọt biển rồi đưa lên miệng gã. Gã mím môi vào miếng bọt biển theo cách khiến cô bé liên tưởng đến một con cừu.
 
-“Anh có muốn xuống không?” Delphine hỏi.
+“Bác có muốn xuống không?” Delphine hỏi.
 
 Người lùn lắc đầu.
 
-“Anh đã thề giữ im lặng à?”
+“Bác đã thề giữ im lặng à?”
 
 “Không,” người lùn đáp. “Họ không hề nói gì về chuyện đó cả.”
 
@@ -32,15 +32,15 @@ Người lùn lắc đầu.
 
 “Không có gì.”
 
-Lúc này anh ta nhắm nghiền mắt lại, đôi môi mấp máy cầu nguyện trong im lặng.
+Lúc này gã nhắm nghiền mắt lại, đôi môi mấp máy cầu nguyện trong im lặng.
 
-“Thứ lỗi cho tôi,” Delphine lên tiếng.
+“Thứ lỗi cho cháu,” Delphine lên tiếng.
 
 “Gì chứ?”
 
-“Anh nên xuống đi,” Delphine nói. “Việc đó chẳng tốt lành gì cho anh đâu.”
+“Bác nên xuống đi,” Delphine nói. “Việc đó chẳng tốt lành gì cho bác đâu.”
 
-“Tôi còn hai ngày nữa. Tôi mới chỉ bước sang ngày đầu tiên của mình, và mỗi thị trấn phải đóng đinh một người trong ba ngày. Cô không biết gì sao?”
+“Tôi còn hai ngày nữa. Tôi mới chỉ bước sang ngày đầu tiên của mình, và mỗi thị trấn phải đóng đinh một người trong ba ngày. Cô bé không biết gì sao?”
 
 “Không,” Delphine đáp.
 
@@ -48,7 +48,7 @@ Lúc này anh ta nhắm nghiền mắt lại, đôi môi mấp máy cầu nguy�
 
 “Con đường duy nhất cho việc gì?”
 
-“Nếu cô định bắt tôi nói chuyện, hãy cho tôi thêm nước đi. Cổ họng tôi đau quá.”
+“Nếu cô bé định bắt tôi nói chuyện, hãy cho tôi thêm nước đi. Cổ họng tôi đau quá.”
 
 Delphine lại nhúng miếng bọt biển rồi giơ cao lên cho người lùn.
 
@@ -58,15 +58,15 @@ Delphine lại nhúng miếng bọt biển rồi giơ cao lên cho người lùn
 
 “Những thị trấn vô cùng tội lỗi phải đóng đinh ba người. Nhưng chúng tôi chẳng tốt hơn hay tệ hơn hầu hết những nơi khác là mấy.”
 
-“Ai quyết định thị trấn của anh tội lỗi đến mức nào thế?” cha Matthieu hỏi với vẻ đầy tò mò.
+“Ai quyết định thị trấn của bác tội lỗi đến mức nào thế?” cha Matthieu hỏi với vẻ đầy tò mò.
 
 “Bọn họ.”
 
-“Anh có phải ở ngoài trời trong trận mưa không?” Delphine hỏi.
+“Bác có phải ở ngoài trời trong trận mưa không?” Delphine hỏi.
 
 “Họ đến sau cơn mưa. Họ đến vào ngày hôm qua.”
 
-“Anh có phải ở ngoài suốt cả đêm không?” Delphine nói.
+“Bác có phải ở ngoài suốt cả đêm không?” Delphine nói.
 
 Người lùn cố phớt lờ cô bé để quay trở lại với những lời cầu nguyện của mình, nhưng Delphine vẫn lặp lại câu hỏi.
 
@@ -80,57 +80,57 @@ Người lùn cố phớt lờ cô bé để quay trở lại với những lờ
 
 Người lùn lắc đầu.
 
-“Tại sao lại là anh?”
+“Tại sao lại là bác?”
 
-“Gì chứ?” anh ta lại hỏi, rõ là tỏ vẻ khó chịu.
+“Gì chứ?” gã lại hỏi, rõ là tỏ vẻ khó chịu.
 
-“Tại sao họ lại chọn anh? Anh tự nguyện à?”
+“Tại sao họ lại chọn bác? Bác tự nguyện à?”
 
 “Cả thị trấn chọn. Họ bỏ phiếu. Đó là một vinh dự lớn.”
 
-Thomas bật cười, và người lùn ném cho Thomas một cái nhìn đầy bực dọc.
+Thomas bật cười, và người lùn ném cho gã một cái nhìn đầy bực dọc.
 
-“Anh có chắc là họ sẽ quay lại tìm anh không đấy?” Thomas nói, vẫn giữ vẻ thích thú.
+“Bác có chắc là họ sẽ quay lại tìm bác không đấy?” Thomas nói, vẫn giữ vẻ thích thú.
 
 Người lùn quay trở lại với những lời cầu nguyện của mình.
 
 “DEUS meus, ex toto corde poenitet me omnium meorum peccatorum, eaque detestor, quia peccando, non solum poenas…”
 
-“Bởi vì nếu là tôi ở trên đó, tôi sẽ bắt đầu nghĩ rằng có lẽ những con người lương thiện kia sẽ bỏ mặc tôi trên cây thập giá để chắc chắn rằng Chúa được vui lòng. Anh đã nghĩ đến điều đó chưa?”
+“Bởi vì nếu tao ở trên đó, tao sẽ bắt đầu nghĩ rằng có lẽ những con người lương thiện kia sẽ bỏ mặc tao trên cây thập giá để chắc chắn rằng Chúa được vui lòng. Bác đã nghĩ đến điều đó chưa?”
 
 “…non solum poenas a Te iuste statutas promeritus sum, sed praesertim quia offendi…”
 
 Delphine nhìn Thomas.
 
-“Cháu nghĩ chú nên đưa anh ta xuống.”
+“Cháu nghĩ chú nên đưa bác ấy xuống.”
 
-“Rõ ràng là anh ta muốn ở lại đó mà,” vị linh mục nói.
+“Rõ ràng là gã muốn ở lại đó mà,” vị linh mục nói.
 
-Thomas mỉm cười. Anh biết cô bé muốn bảo vệ người đàn ông này khỏi tổn thương; Thomas thích ý tưởng đó ít phải vì lý do ấy và nhiều hơn là vì anh biết người lùn sẽ làm ầm lên vì chuyện này, và anh rất vui được làm một việc tốt mà lại vừa mang tính giải trí.
+Thomas mỉm cười. Gã biết cô bé muốn bảo vệ người đàn ông này khỏi tổn thương; Thomas thích ý tưởng đó ít phải vì lý do ấy và nhiều hơn là vì gã biết người lùn sẽ làm ầm lên vì chuyện này, và gã rất vui được làm một việc tốt mà lại vừa mang tính giải trí.
 
-Tuy nhiên, anh không ngờ mình lại gặp phải sự kháng cự dữ dội đến thế. Ngay khi anh cởi trói cho đôi chân của người lùn, gã đàn ông thấp bé bắt đầu tung cước đá vào Thomas mạnh đến mức làm cây thánh giá chao đảo; Thomas phải chật vật hết sức mới giữ cho chiếc thang đứng vững, nhất là khi anh cứ cười nắc nẻ suốt cả quãng thời gian đó. Delphine chau mày trước thái độ của Thomas, còn vị linh mục thì bồn chồn đi qua đi lại, sợ rằng một trong hai người bọn họ sẽ bị thương.
+Tuy nhiên, gã không ngờ mình lại gặp phải sự kháng cự dữ dội đến thế. Ngay khi gã cởi trói cho đôi chân của người lùn, gã đàn ông thấp bé bắt đầu tung cước đá vào Thomas mạnh đến mức làm cây thánh giá chao đảo; Thomas phải chật vật hết sức mới giữ cho chiếc thang đứng vững, nhất là khi gã cứ cười nắc nẻ suốt cả quãng thời gian đó. Delphine chau mày trước thái độ của Thomas, còn vị linh mục thì bồn chồn đi qua đi lại, sợ rằng một trong hai người bọn họ sẽ bị thương.
 
-Thomas đã vác được người lùn lên vai và gần như đưa được xuống tới chân thang thì gã đang gánh trên vai vùng vẫy đá mạnh vào cạnh cây thánh giá làm chiếc thang nghiêng ngả, hất cả hai ngã nhào xuống thảm cỏ ướt sũng.
+Thomas đã vác được người lùn lên vai và gần như đưa được xuống tới chân thang thì kẻ đang gánh trên vai vùng vẫy đá mạnh vào cạnh cây thánh giá làm chiếc thang nghiêng ngả, hất cả hai ngã nhào xuống thảm cỏ ướt sũng.
 
 “Đồ khốn kiếp,” Thomas bực bội lên tiếng.
 
 Gã đàn ông thấp bé hậm hực lườm anh từ chỗ ngồi trên đám cỏ cao. Vị linh mục liên tưởng đến một con thỏ cau có và khẽ bật cười vào lòng bàn tay bất chấp mọi sự kiềm chế.
 
-Gã người lùn cố leo lên cây thập giá để quay lại vị trí cũ, nhưng Thomas tóm lấy quần hắn và lôi xềnh xệch xuống đất.
+Gã người lùn cố leo lên cây thập giá để quay lại vị trí cũ, nhưng Thomas tóm lấy quần gã và lôi xềnh xệch xuống đất.
 
 “Tôi muốn cứu thị trấn của mình!” gã người lùn hét lên, với những giọt nước mắt bất lực đọng lại trong khóe mắt, và trò đùa lúc này đã mất đi vẻ hài hước ngay cả đối với Thomas.
 
-“Anh thực sự muốn quay lại trên đó lắm à?” Thomas hỏi.
+“Bác thực sự muốn quay lại trên đó lắm à?” Thomas hỏi.
 
 Gã ngồi bệt xuống thảm cỏ với vẻ mặt ngơ ngác.
 
-Gã nói: “Ta không biết. Nhưng ngươi không thấy sao? Đây là việc duy nhất ta có thể làm tốt như bất kỳ ai khác. Ta không thể cày bừa. Ta không thể xây cất. Nhưng ta có thể chịu đựng. Chúa muốn sự chịu đựng vào lúc này.”
+Gã nói: “Tôi không biết. Nhưng ông không thấy sao? Đây là việc duy nhất tôi có thể làm tốt như bất kỳ ai khác. Tôi không thể cày bừa. Tôi không thể xây cất. Nhưng tôi có thể chịu đựng. Chúa muốn sự chịu đựng vào lúc này.”
 
 Vị linh mục há miệng định phản bác gã, nhưng chẳng thốt ra được lời nào.
 
-“Chết tiệt,” Thomas thốt lên.
+“Mẹ kiếp,” Thomas thốt lên.
 
-Rồi anh lôi gã lùn ngược lên thập tự giá và trói chặt lại.
+Rồi gã lôi người lùn ngược lên thập tự giá và trói chặt lại.
 
 Emma LaTour nhìn ra từ bóng tối trong ngôi nhà của mình, bàng hoàng trước vẻ đẹp của ngày hôm nay; ngoại trừ những lần ra giếng múc nước, bà đã không rời khỏi nhà kể từ khi Richard của bà bị những cơn đau hành hạ bên hàng rào rồi ngã xuống ở đó. Vào những giờ phút cuối cùng, ông đã ôm chặt lấy đôi đầu gối, và giờ đây các khớp xương đã đông cứng ông lại trong một tư thế kỳ quái giống như lúc sinh nở, sưng phồng lên như một con chó hay con chó con đã chết. Làm sao bà có thể tin con người là một sinh thể đặc biệt nào đó khi trông họ chẳng khác gì bất kỳ loài động vật nào khác khi chết đi? Ông chỉ là một cái xác tàn tạ đẫm nước mưa, cứ như thể ông chưa từng hôn bà, cứ như thể ông chưa từng khiêu vũ. Bầu trời xanh thẳm đẹp đẽ dường như đang chế giễu ông, cũng giống như khối kiến trúc sừng sững của nhà thờ lớn St. Etienne và ngọn tháp của tu viện, cả hai cùng chọc thẳng lên bầu trời từ vùng đất cao bên kia sông ở Auxerre. Chẳng có gì ngoài những lời hứa hão huyền nằm ở bên kia sông, hoặc tận trên bầu trời cao.
 
@@ -144,13 +144,21 @@ Nó thuộc về một thiên thần.
 
 Bà nhìn thấy cậu bé tóc vàng người Đức đang chạy băng qua lối mòn cỏ dại, mặc một chiếc váy trắng quái lạ được kéo xốc lên tận thắt lưng để tiện cho việc chạy nhảy, ngực trần và chân đất. Đó là một đứa con trai. Nhanh nhẹn như một con cáo, và trông đáng yêu làm sao khi mái tóc vàng rối bù cứ nảy tưng lên theo từng bước chạy. Đứa trẻ mang hình hài thiên thần đã nhảy tót lên hàng rào làm bằng những cành cây lồi lõm và thăng bằng suốt chiều dài của nó, cất tiếng gọi hướng về phía khung cửa sổ bằng một thứ giọng hát thánh ca lảnh lót, đậm đặc âm hưởng địa phương, cứ như thể nó có thể nhìn thấy bà đang co ro trong bóng tối.
 
-Thiên thần mở ấn nhiệm màu, Auxerre muôn nẻo cùng nhau ngước nhìn.
+Thiên thần mở ấn nhiệm màu,
 
-Dẫu lòng khiếp sợ, lặng thinh, Người thiêng nay đã hiện hình nơi đây.
+Auxerre muôn nẻo cùng nhau ngước nhìn.
 
-Ơn thiêng từ Chúa trời mây, Giáng bao phép lạ giữa ngay quảng trường.
+Dẫu lòng khiếp sợ, lặng thinh,
 
-Mau mau hãy đến mà tường, Đến xem phép lạ phi thường hiện ra!
+Người thiêng nay đã hiện hình nơi đây.
+
+Ơn thiêng từ Chúa trời mây,
+
+Giáng bao phép lạ giữa ngay quảng trường.
+
+Mau mau hãy đến mà tường,
+
+Đến xem phép lạ phi thường hiện ra!
 
 Trước thềm nhà thờ nguy nga,
 
@@ -171,18 +179,6 @@ Tín đồ Hành xác đã đến Auxerre.
 Sáu mươi người gồm nông dân, thợ mộc, thợ dệt vải, chủ tiệm rượu, những người vợ và các cô con gái đang đứng dưới ánh nắng dịu nhẹ gần nhà thờ lớn St. Etienne đều được triệu tập bởi đứa trẻ tuấn tú ấy. Nó tập hợp họ bằng những bài ca và vũ điệu, nhưng đặc biệt nhất là bằng những lời hứa về phép lạ chống lại bệnh dịch hạch. Những kẻ bịp bợm đủ mọi thành phần từng cố gắng kiếm chác từ căn bệnh này, nhất là trong những ngày đầu tiên, trước khi chính chúng cũng ngã bệnh hoặc trở nên khiếp sợ; rất nhiều kẻ buôn bán thánh tích và thầy thuốc đã kéo đến đến mức chẳng mấy chốc, bất kỳ kẻ lạ mặt nào mang theo một chiếc hòm thuốc và ánh mắt gian xảo đều có nguy cơ bị đánh đập nhừ tử rồi ném xuống sông Yonne, cùng với những thứ nước thuốc thơm ngọt, xương nai, lông vũ thần kỳ, bánh Galen, hay nhựa cây từ rừng tuyết tùng Lebanon của chúng.
 
 Khi dịch bệnh hoành hành dữ dội và những cái chết bắt đầu chồng chất, thị trấn bị bỏ mặc tự sinh tự diệt, mặc dù các cổng thành vẫn mở toang. Vị giám mục từng nói, khi được hỏi ý kiến về việc có nên áp đặt lệnh giới nghiêm hay không, rằng bất cứ ai đã chịu lễ xưng tội và rước lễ đều không việc gì phải sợ cơn dịch bệnh.
-
-Nhưng giờ đây cậu bé đã đến, và cậu hoàn toàn khác biệt.
-
-Cậu hoàn toàn đáng tin trong vai trò sứ giả của một vị tiên tri, với đôi mắt xanh thẳm như đại dương phương bắc và nụ cười lúm đồng tiền. Ngay cả chất giọng Đức của cậu, thứ vốn là một rào cản trong thời buổi bài ngoại này, cũng mang lại cho cậu vẻ quyến rũ kỳ lạ; rốt cuộc, nếu có phương thuốc thần thánh nào đến được Auxerre, nó chắc chắn không xuất phát từ xứ Burgundy. Tại sao lại không thể là những cánh rừng thông phương bắc cơ chứ?
-
-Nhưng cậu bé này không bán thuốc chữa bệnh.
-
-Cậu không hề đả động gì đến tiền bạc.
-
-“Khoan đã!” cậu nói, thu hút người nghe bằng một ngón tay giơ lên và cái nghiêng đầu đầy kịch tính. “Tôi tin là mình đã nghe thấy họ. Nhưng có lẽ quý vị cũng sẽ nghe thấy họ, nếu quý vị cùng hô vang der Alleluia.”
-
-Không ai lên tiếng.
 
 “Hỡi các con của Chúa, hãy cất lời der ALLELUIA!”
 
@@ -248,11 +244,11 @@ Rutger the Fair cất tiếng nói.
 
 Emma kinh ngạc quan sát khi người bán thịt cùng một chủ quán rượu tên là Jules, kẻ từng tán tỉnh chị gái bà, đến mang theo một chiếc xe hai bánh. Họ đặt người chồng tội nghiệp với thân hình cứng đờ của ông lên xe, mang trong lòng sự ghê tởm trước quá trình phân hủy của xác chết nhưng dường như chẳng hề sợ hãi căn bệnh của ông. Tại sao họ lại không gọi tên bà? Bởi vì bà đang ngồi trong bóng râm và họ nghĩ rằng bà cũng đã chết rồi, giống như hầu hết mọi người ở phía bên này sông Yonne. Hoặc họ nghĩ rằng bà đã bỏ trốn mất tăm.
 
-“Các ngươi đưa ông ấy đi đâu vậy?” Emma hỏi, để một chút ánh sáng mặt trời chiếu lên khuôn mặt để họ có thể nhìn thấy mình. Bà nhăn mặt vì ánh sáng mặt trời cũng nhiều như vì sợ hãi phản ứng của họ trước sắc diện của mình, nhưng bà không làm họ giật mình. Nếu họ nghĩ bà có làn da ngả vàng, thì họ tỏ ra rất lịch sự về điều đó.
+“Các người đưa ông ấy đi đâu vậy?” Emma hỏi, để một chút ánh sáng mặt trời chiếu lên khuôn mặt để họ có thể nhìn thấy mình. Bà nhăn mặt vì ánh sáng mặt trời cũng nhiều như vì sợ hãi phản ứng của họ trước sắc diện của mình, nhưng bà không làm họ giật mình. Nếu họ nghĩ bà có làn da ngả vàng, thì họ tỏ ra rất lịch sự về điều đó.
 
 “Nhà thờ lớn,” Jules nói. “Bà sẽ muốn chứng kiến cảnh này đấy, Emma.”
 
-“Các ngươi đang chôn cất ông ấy sao?”
+“Các người đang chôn cất ông ấy sao?”
 
 “Không, Emma. Hãy đến Saint Etienne.”
 
@@ -266,7 +262,7 @@ Auxerre đã cố gắng làm đẹp lòng Chúa bằng những tang lễ theo �
 
 Chiếc xe đang tiến lại gần Auxerre; ngọn tháp vuông của nhà thờ lớn vẫy gọi họ khi họ lên đến đỉnh một ngọn đồi gần Perigny, nhưng vì chỉ còn lại một giờ nắng, họ quyết định hạ trại gần bức tường của một tu viện cũ, đã bỏ hoang từ lâu và giờ đây phủ đầy dây thường xuân đang chuyển sang màu đỏ rực. Tất cả dây thường xuân ở ngôi làng bỏ hoang Perigny đều bò về hướng Auxerre, như thể đang vươn những ngón tay mềm mại ra để chạm tới nơi đó.
 
-Delphine ngủ rất say và không ai muốn đánh thức cô bé dậy khỏi giấc ngủ. Thomas đắp chiếc chăn ngựa của họ lên người Delphine, rồi anh và vị linh mục rời đi, đi vào khu rừng ẩm ướt giáp ranh với cánh đồng để tìm những cành cây khô đủ sức đốt cháy.
+Delphine ngủ rất say và không ai muốn đánh thức cô bé dậy khỏi giấc ngủ. Thomas đắp chiếc chăn ngựa của họ lên người Delphine, rồi gã và vị linh mục rời đi, đi vào khu rừng ẩm ướt giáp ranh với cánh đồng để tìm những cành cây khô đủ sức đốt cháy.
 
 Delphine tỉnh dậy một mình trên chiếc xe kéo, trái tim đập loạn nhịp vì một giấc mơ rằng có một con quỷ đang ở Auxerre biến con người thành những con rối. Trong giấc mơ, em có thể ngăn chặn điều đó, nhưng con quỷ có quá nhiều mắt lại vô cùng tức giận, và nó đã đuổi theo cô bé. Đó là lúc Delphine thức giấc. Em biết giấc mơ là sự thật, và điều này làm cô bé sợ hãi đến mức kéo chăn trùm kín đầu; rồi em nghĩ về cha mẹ mình, và về cảm giác của bản thân khi thấy một trong hai người biến thành món đồ chơi của quỷ dữ. Delphine gom chiếc chăn lại quanh người, ý định cất bước xuống đường, biết rằng mình không còn nhiều ánh sáng ban ngày để đi nốt vài dặm cuối cùng.
 
@@ -300,7 +296,7 @@ Làm ơn đấy, vị thiên thần cất lời phía sau cô bé, và Delphine 
 
 Vị thiên thần đã biến mất.
 
-Thomas phát hiện chiếc xe trống không, với những dòng chữ viết trên thành xe. Anh đặt bó củi nhỏ và hạt dẻ của mình xuống đất rồi gọi vị linh mục lại.
+Thomas phát hiện chiếc xe trống không, với những dòng chữ viết trên thành xe. Gã đặt bó củi nhỏ và hạt dẻ của mình xuống đất rồi gọi vị linh mục lại.
 
 Vị linh mục đọc lớn dòng chữ đó.
 
@@ -404,15 +400,15 @@ Emma, người nãy giờ theo dõi toàn bộ sự việc như trong một gi�
 
 Rutger nhìn thấy Emma, và nói: “Người đàn bà này sợ chồng mình, hệt như người ta từng sợ Lazarus. Nhưng người đàn ông của bà ấy sẽ được chữa lành và yêu thương bà ấy một lần nữa. Tất cả những kẻ đã khuất này sẽ được hồi phục sức khỏe. Nếu các ngươi tin tưởng.”
 
-“Thế này là sai trái!” Emma hét lên, chỉ trỏ cây gậy của mình. Và rồi, với một giọng điệu đầy thảm hại, bà tiếp tục: “Hãy để mặc ông ấy.”
+“Điều này là sai trái!” Emma hét lên, chỉ trỏ cây gậy của mình. Và rồi, với một giọng điệu đầy thảm hại, bà tiếp tục: “Hãy để mặc ông ấy.”
 
 “Sai trái ư? Làm sao có thể sai trái khi điều này xuất phát từ Chúa Tể?”
 
-“Chỉ có Đấng Christ mới có quyền làm cho kẻ chết sống lại. Và ta không cho rằng ngươi chính là Ngài.”
+“Chỉ có Đấng Christ mới có quyền làm cho kẻ chết sống lại. Và tôi không nghĩ ngươi chính là Ngài.”
 
-“Bà chắc chứ? Không có chỗ đứng ở giữa đâu, ngươi biết đấy. Tốt hơn là bà nên chắc chắn đi.”
+“Bà chắc chứ? Không có chỗ đứng ở giữa đâu. Tốt hơn là bà nên chắc chắn đi.”
 
-Emma nói: “Nếu ông là một người của Chúa, hãy đọc kinh Pater Noster đi.”
+Emma nói: “Nếu ngươi là một người của Chúa, hãy đọc kinh Pater Noster đi.”
 
 Rutger mỉm cười và cử động ngón tay trỏ về phía Emma, làm như thể bà là một đứa trẻ hư đốn.
 
@@ -440,7 +436,7 @@ Ngay khi cô bé vừa làm vậy, lão ngã quỵ xuống và trở lại với
 
 Rutger thét lên: “Không!”
 
-Cậu bé tóc vàng người Đức chạy đến chỗ cô bé, cuồng loạn hét lớn: “Was tust du?! Was tust du?” Em phớt lờ lời cậu bé và hất vai gạt cậu bé sang một bên, lúc này đang hôn lên bàn tay của thiếu nữ bán rượu, người cũng biết ơn mà sụp đổ xuống.
+Cậu bé tóc vàng người Đức chạy đến chỗ cô bé, cuồng loạn hét lớn: “Was tust du?! Was tust du?” Em phớt lờ lời cậu bé và hất vai gạt cậu sang một bên, rồi hôn lên bàn tay của thiếu nữ bán rượu, người cũng biết ơn mà sụp đổ xuống.
 
 Bấy giờ cậu bé tóc vàng người Đức đẩy mạnh cô bé từ phía sau, nhưng thay vì ngã, em nương theo đà lao về phía Yvette, người vẫn bị trói hai tay trong tấm vải liệm. Cô bé quỳ xuống và hôn lên một bàn chân trần của Yvette, khiến mụ ta cũng ngã lăn ra.
 
@@ -448,7 +444,7 @@ Cậu bé tóc vàng người Đức quay ngoắt cô bé lại.
 
 “WAS TUST DU, HEXE!?”
 
-Delphine nhìn cậu bé, ánh mắt buồn bã và sáng rực sắc xám xuyên thấu qua cả cậu bé, rồi dịu dàng nói: “Ta rất tiếc. Đó không phải lỗi của ngươi. Nhưng ngươi cũng đã chết rồi.”
+Delphine nhìn cậu bé, ánh mắt buồn bã và sáng rực sắc xám xuyên thấu qua cả cậu, rồi dịu dàng nói: “Ta rất tiếc. Đó không phải lỗi của ngươi. Nhưng ngươi cũng đã chết rồi.”
 
 Em hôn lên má cậu bé tóc vàng người Đức và cậu thở ra một tiếng khò khè kéo dài, rồi không bao giờ hít vào nữa. Thay vào đó, cậu trở lại thành cái xác mang đầy vết hạch dịch hạch mà Rutger từng tìm thấy, và ngã nhào vào vòng tay Delphine như thể đã kiệt sức. Cô bé đặt cậu nằm xuống và nhẹ nhàng nhắm mắt cậu lại.
 

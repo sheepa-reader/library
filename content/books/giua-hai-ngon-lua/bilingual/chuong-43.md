@@ -1,4 +1,4 @@
-# Phần V
+# PHẦN V
 
 <p class="para-en">The Lord made answer.</p>
 

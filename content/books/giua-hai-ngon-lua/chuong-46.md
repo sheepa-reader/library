@@ -1,16 +1,16 @@
 *Phần V*
 
-# Chương Bốn Mươi Mốt: Về cái chết của hiệp sĩ, và về sự phán xét
+# CHƯƠNG BỐN MƯƠI MỐT: Về cái chết của hiệp sĩ, và về sự phán xét
 
 Thomas quỵ xuống. Thế giới chìm trong một màu đen ngòm. Gã biết mình sắp chết, cảm giác trôi dạt ấy lại ùa về, và gã vẫn cố nhìn xem cô bé ở đâu, liệu con bé có an toàn không. Gã không thể nhìn qua lũ ác quỷ với đôi cánh xòe rộng đằng sau, dù gã biết chúng đang tàn sát. Tạo ra nhiều kẻ giống như gã hơn. Những xác chết. Những thể xác tàn tạ. Tầm nhìn của gã vụt tắt và một bức màn đen sập xuống; gã cảm thấy những viên gạch ở sân chầu phẳng lì bên dưới mình lúc này, gương mặt áp lên đó. Lạnh lẽo. Gã ngửi thấy mùi hôi thối của những thiên thần sa ngã, tàn bạo và buồn nôn. Gã lắng nghe nhịp đập trái tim mình nhưng chỉ nghe thấy sự im lặng trong lồng ngực. Cánh tay của gã đã đứt lìa, điều đó gã còn nhớ, nhưng gã chẳng thể cảm nhận được bất kỳ thớ bắp thịt nào nữa. Gã có cảm giác dạ dày mình đang trống rỗng trào qua đường miệng, nhưng gã không thở, thế nên gã chẳng sợ bị nghẹn. Rồi gã cảm thấy ruột gan và bàng quang của mình đang trút sạch. Sau đó gã xuất tinh, hầu như chẳng cảm nhận được gì, đó là khoái cảm cuối cùng và mờ nhạt của cơ thể gã. Những hình ảnh và lời nói hiện lên trong đầu gã dồn dập, bên trong tâm trí gã nhưng còn lớn hơn cả tiếng rít điên cuồng vang lên bên ngoài, một âm thanh mà gã đã từng nghe trước đây, nhưng giờ thì nó xa xăm, lùi xa dần và chẳng còn quan trọng nữa.
 
-Lũ khốn kiếp đó hát ca như vậy đấy
+Lũ khốn kiếp đó hát ca như vậy đấy.
 
 Gã mỉm cười trước ý nghĩ đó, hoặc nghĩ rằng mình đã cười, nhưng gã đã vượt quá khả năng cử động bất kỳ phần nào trên cơ thể, thậm chí là những cơ bắp nhỏ xíu kéo khóe miệng. Thính giác của gã chớp tắt, chỉ để lại những suy nghĩ.
 
 Thế này là hết sao?
 
-Đến cái này rồi cũng sẽ dừng lại khi nào?
+Đến khi nào điều này mới dừng lại?
 
 Những kẻ ta từng giết đã trải qua chuyện này thế nào?
 
@@ -28,9 +28,9 @@ Gã muốn chạm vào khuôn mặt mình nhưng chẳng còn thứ gì để ch
 
 Gã muốn ngước tầm mắt lên để xem điều gì đang xảy ra ngoài sân, gã muốn nhìn thấy cô bé.
 
-NGƯƠI CÓ THỂ QUÊN ĐI ĐƯỢC RỒI ĐẤY
+NGƯƠI CÓ THỂ QUÊN ĐI ĐƯỢC RỒI ĐẤY.
 
-NGƯƠI LÀ CỦA CHÚNG TA
+NGƯƠI LÀ CỦA CHÚNG TA.
 
 Và khoảng sân tan biến đi tựa như chưa từng tồn tại.
 
@@ -40,9 +40,9 @@ Và khoảng sân tan biến đi tựa như chưa từng tồn tại.
 
 Thomas lúc này chỉ là một cậu bé, ngước nhìn lên một sinh thể trông thật ghê tởm, nhưng cậu nghĩ nó sẽ không làm hại mình.
 
-Đó không phải việc của nó
+Đó không phải việc của nó.
 
-Nó chỉ là một tên thư lại
+Nó chỉ là một tên thư lại.
 
 Căn phòng nhỏ bé và mờ tối, và cậu chẳng chắc ánh sáng xuất phát từ đâu: không có giá nến, không có hốc tường, không có lò sưởi, không có cửa sổ.
 
@@ -68,7 +68,7 @@ Bàn tay của một cậu bé.
 
 Một chiếc gương sáng bóng trên tường, bức tường đá giống như trong lâu đài, cho phép cậu nhìn thấy chính mình.
 
-Con trai anh.
+Con trai gã.
 
 Cậu chính là đứa con trai hãy còn rất nhỏ của mình, y như diện mạo của thằng bé lần cuối cùng Thomas nhìn thấy.
 
@@ -136,19 +136,19 @@ Nó ăn tươi nuốt sống cậu bé.
 
 Thật đau đớn.
 
-Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu
+Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu:
 
-Thomas de Givras, ta đày đọa ngươi
+Thomas de Givras, ta đày đọa ngươi,
 
 và rồi nhai nuốt cậu khi vẫn còn sống.
 
 Cậu run lẩy bẩy và để mặc nó làm vậy.
 
-Ta đày đọa ngươi
+Ta đày đọa ngươi.
 
 Cậu khóc nức nở và để mặc nó làm vậy.
 
-Ta đày đọa ngươi
+Ta đày đọa ngươi.
 
 Và rồi cậu cứ thế để mặc nó làm vậy.
 

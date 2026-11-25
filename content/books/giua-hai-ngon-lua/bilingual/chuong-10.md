@@ -1,4 +1,4 @@
-# Phần II
+# PHẦN II
 
 <p class="para-en">Now the great plague had stilled the hearths in the countryside, and darkened the windows of the cities of man; Death’s hand sat upon the brow of the king and also the farmer; Death took the beggar and the cardinal, the money changer and the milkmaid. The babe died on the breast, and sailors brought their ships to port with dead hands. And the wickedness of man was laid bare, so great was his fear of this pestilence; for the mother fled her children and the son nailed shut his father’s door, and the priest betrayed his flock. Still other men said, “God is gone from us, or never was at all; let us do as we will, and take pleasure as we may, for all is lost.” And so the wicked went in bands and took the daughter’s maidenhead, and killed others for their sport. And some shut themselves away in walled towns, and let none pass; when the bread was gone, they drew lots, and some were given to the butcher that the rest might live. Some righteous men and women yet held faith, but they were scattered so far that none could see the other’s light, and it seemed the darkness had no end.</p>
 

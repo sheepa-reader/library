@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
+# CHƯƠNG BA MƯƠI SÁU: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
 
 <p class="para-en">“Isnard!”</p>
 
@@ -16,7 +16,7 @@
 
 <p class="para-en">He wrinkled his nose and put down the piss-pot he had been about to chuck. Was that his new friend, the page? And had not that page served the arrested knight?</p>
 
-<p class="para-vi-sub">Cậu nhăn mũi, hạ chiếc bô đi tiểu mà bản thân chuẩn bị hắt xuống. Có phải người gọi là tay tiểu đồng, người bạn mới của cậu ta không? Và chẳng phải tên tiểu đồng đó từng hầu hạ cho vị hiệp sĩ bị bắt giam hay sao?</p>
+<p class="para-vi-sub">Cậu nhăn mũi, hạ chiếc bô đi tiểu mà bản thân chuẩn bị hắt xuống. Có phải người gọi là tay tiểu đồng, người bạn mới của cậu không? Và chẳng phải tên tiểu đồng đó từng hầu hạ cho vị hiệp sĩ vừa bị bắt giam hay sao?</p>
 
 <p class="para-en">“Diego?” he called down in a carefully measured whisper.</p>
 
@@ -40,7 +40,7 @@
 
 <p class="para-en">“I need a favor.”</p>
 
-<p class="para-vi-sub">“Ta cần một ân huệ.”</p>
+<p class="para-vi-sub">“Tôi cần một ân huệ.”</p>
 
 <p class="para-en">“What is it?” he said. “And be quick!”</p>
 
@@ -52,7 +52,7 @@
 
 <p class="para-en">“My master’s things—have they been taken?”</p>
 
-<p class="para-vi-sub">“Đồ đạc của chủ ta, chúng đã bị tịch thu chưa?”</p>
+<p class="para-vi-sub">“Đồ đạc của chủ tôi, chúng đã bị tịch thu chưa?”</p>
 
 <p class="para-en">“No. The room is as it was. The carpenter is coming tomorrow to fix the door.”</p>
 
@@ -60,7 +60,7 @@
 
 <p class="para-en">“And my master’s horse?”</p>
 
-<p class="para-vi-sub">“Thế còn con ngựa của chủ ta?”</p>
+<p class="para-vi-sub">“Thế còn con ngựa của chủ tôi?”</p>
 
 <p class="para-en">“In the stables, eating twice his share of hay. The English lord means to take him.”</p>
 
@@ -68,7 +68,7 @@
 
 <p class="para-en">“Open the door for me.”</p>
 
-<p class="para-vi-sub">“Mở cửa cho ta đi.”</p>
+<p class="para-vi-sub">“Mở cửa cho tôi đi.”</p>
 
 <p class="para-en">“What? I can’t!”</p>
 
@@ -76,7 +76,7 @@
 
 <p class="para-en">“Yes you can. Open the door, and help me fetch out my master’s armor and horse.”</p>
 
-<p class="para-vi-sub">“Cậu làm được mà. Mở cửa ra, rồi giúp ta khuân áo giáp và dắt ngựa của chủ ta ra ngoài.”</p>
+<p class="para-vi-sub">“Cậu làm được mà. Mở cửa ra, rồi giúp tôi khuân áo giáp và dắt ngựa của chủ tôi ra ngoài.”</p>
 
 <p class="para-en">He looked behind him again.</p>
 
@@ -88,7 +88,7 @@
 
 <p class="para-en">“It’s not stealing. The horse belongs to us.”</p>
 
-<p class="para-vi-sub">“Không phải ăn cắp. Con ngựa đó thuộc về bọn ta.”</p>
+<p class="para-vi-sub">“Không phải ăn cắp. Con ngựa đó thuộc về chúng tôi.”</p>
 
 <p class="para-en">He considered this.</p>
 
@@ -100,11 +100,11 @@
 
 <p class="para-en">“They won’t turn you out. You speak French, Italian, and Provençal. How many times have they used you to translate? Just let me in, and I’ll do most of it.”</p>
 
-<p class="para-vi-sub">“Họ sẽ không đuổi cậu đâu. Cậu nói được tiếng Pháp, tiếng Ý và tiếng Provençal. Đã bao nhiêu lần họ phải nhờ cậu làm phiên dịch rồi? Cứ để ta vào đi, phần lớn việc còn lại ta sẽ tự lo.”</p>
+<p class="para-vi-sub">“Họ sẽ không đuổi cậu đâu. Cậu nói được tiếng Pháp, tiếng Ý và tiếng Provençal. Đã bao nhiêu lần họ phải nhờ cậu làm phiên dịch rồi? Cứ để tôi vào đi, phần lớn việc còn lại tôi sẽ tự lo.”</p>
 
 <p class="para-en">“They’ll see you.”</p>
 
-<p class="para-vi-sub">“Họ sẽ thấy cô đấy.”</p>
+<p class="para-vi-sub">“Họ sẽ thấy cậu đấy.”</p>
 
 <p class="para-en">“Not if you distract them.”</p>
 
@@ -116,7 +116,7 @@
 
 <p class="para-en">“I don’t know. Fall down the stairs with something loud. A pan or something.”</p>
 
-<p class="para-vi-sub">“Ta không biết. Ngã nhào xuống cầu thang kèm theo tiếng động thật lớn vào. Lấy cái chảo hay thứ gì đó chẳng hạn.”</p>
+<p class="para-vi-sub">“Tôi không biết. Ngã nhào xuống cầu thang kèm theo tiếng động thật lớn vào. Lấy cái chảo hay thứ gì đó chẳng hạn.”</p>
 
 <p class="para-en">This was beginning to sound fun.</p>
 
@@ -136,7 +136,7 @@
 
 <p class="para-en">“If you do, I’ll give you this ivory comb I found in the street.”</p>
 
-<p class="para-vi-sub">“Nếu cậu làm, ta sẽ cho cậu chiếc lược ngà voi này mà ta nhặt được ngoài đường.”</p>
+<p class="para-vi-sub">“Nếu cậu làm, tôi sẽ cho cậu chiếc lược ngà voi này mà tôi nhặt được ngoài đường.”</p>
 
 <p class="para-en">He licked his lips.</p>
 
@@ -184,7 +184,7 @@
 
 <p class="para-en">The Franciscan brotherhood lived in a large, proud building, as befit the large, proud city it served; this did not sit well with all of the brothers, whose attraction to the order had more to do with Christian poverty than ecclesiastic pomp. And yet, here was the capital of Christianity, and here they could do the most to protect their order from charges of heresy. Better to let the popes build them fine churches than to be burned on humble pyres. They allowed the rich to bury their dead in the churchyard, as though the Devil were too simple to find a bad onion in good soil; and when the affluent tried to buy back their wasted lives, showering the monks with money from their deathbeds, the brothers used their wealth to spread the word of the impoverished Christ.</p>
 
-<p class="para-vi-sub">Huynh đoàn Phanxicô sinh hoạt trong một tòa nhà bề thế và uy nghi, xứng tầm với thành phố lớn và kiêu hãnh mà họ phụ vụ; điều này lại không mấy vừa lòng tất cả các tu sĩ trong dòng, những người gia nhập tu hội vì tinh thần khó nghèo theo lời Chúa nhiều hơn là vì sự xa hoa của giáo hội. Dẫu vậy, đây chính là thủ đô của thế giới Thiên Chúa giáo, và đây là nơi họ có thể làm được nhiều nhất để bảo vệ tu hội khỏi những cáo buộc dị giáo. Thà để các giáo hoàng xây cho họ những nhà thờ tráng lệ còn hơn bị thiêu cháy trên những giàn hỏa thiêu nghèo hèn. Họ cho phép những kẻ giàu có được chôn cất người chết trong nghĩa trang nhà thờ, cứ như thể Ác quỷ quá ư đơn giản để không thể tìm ra một củ hành thối trong mảnh đất tốt màu mỡ vậy; và khi giới giàu có tìm cách chuộc lại quãng đời ho phí của mình, trút vô số tiền bạc từ giường bệnh lên các tu sĩ, hội tu sĩ lại dùng của cải ấy để truyền bá lời dạy của Đấng Christ khó nghèo.</p>
+<p class="para-vi-sub">Huynh đoàn Phanxicô sinh hoạt trong một tòa nhà bề thế và uy nghi, xứng tầm với thành phố lớn và kiêu hãnh mà họ phục vụ; điều này lại không mấy vừa lòng tất cả các tu sĩ trong dòng, những người gia nhập tu hội vì tinh thần khó nghèo theo lời Chúa nhiều hơn là vì sự xa hoa của giáo hội. Dẫu vậy, đây chính là thủ đô của thế giới Thiên Chúa giáo, và đây là nơi họ có thể làm được nhiều nhất để bảo vệ tu hội khỏi những cáo buộc dị giáo. Thà để các giáo hoàng xây cho họ những nhà thờ tráng lệ còn hơn bị thiêu cháy trên những giàn hỏa thiêu nghèo hèn. Họ cho phép những kẻ giàu có được chôn cất người chết trong nghĩa trang nhà thờ, cứ như thể Ác quỷ quá ư đơn giản để không thể tìm ra một củ hành thối trong mảnh đất tốt màu mỡ vậy; và khi giới giàu có tìm cách chuộc lại quãng đời ho phí của mình, trút vô số tiền bạc từ giường bệnh lên các tu sĩ, hội tu sĩ lại dùng của cải ấy để truyền bá lời dạy của Đấng Christ khó nghèo.</p>
 
 <p class="para-en">They never closed their doors to anyone, and their hospitality during these months of pestilence had exacted a heavy toll.</p>
 
@@ -196,15 +196,15 @@
 
 <p class="para-en">Brother Albrecht, an Alsatian with the beginnings of cataracts, welcomed the knight and his daughter.</p>
 
-<p class="para-vi-sub">Thầy tu Albrecht, một người gốc Alsace đang chớm bị bệnh cườm mắt, đã chào đón vị hiệp sĩ cùng con gái ông.</p>
+<p class="para-vi-sub">Tu sĩ Albrecht, một người gốc Alsace đang chớm bị bệnh cườm mắt, đã chào đón vị hiệp sĩ cùng con gái anh.</p>
 
 <p class="para-en">He helped them stable their horses.</p>
 
-<p class="para-vi-sub">Thầy giúp họ cất ngựa vào chuồng.</p>
+<p class="para-vi-sub">Thầy giúp họ cất ngựa vào chuồng, dẫn họ đến một căn phòng để có thể ngủ qua quãng trưa, rồi sau đó đưa họ đến trước bàn thờ Đức Mẹ để cầu nguyện.</p>
 
 <p class="para-en">He showed them to a room where they could sleep through midday, and then showed them to the altar of the Virgin, where they could pray.</p>
 
-<p class="para-vi-sub">Thầy dẫn họ đến một căn phòng để có thể ngủ qua đêm.</p>
+<p class="para-vi-sub">Thầy dẫn họ đến một căn phòng để có thể ngủ qua quãng trưa, rồi sau đó dẫn họ đến trước bàn thờ Đức Mẹ để cầu nguyện.</p>
 
 <p class="para-en">They told him they wished to have strong bodies and pure hearts.</p>
 
@@ -232,7 +232,7 @@
 
 <p class="para-en">“You’re not going to do anything to shame the order, are you?”</p>
 
-<p class="para-vi-sub">“Ngươi sẽ không làm điều gì mang nhục đến dòng tu chứ?”</p>
+<p class="para-vi-sub">“Con sẽ không làm điều gì mang nhục đến dòng tu chứ?”</p>
 
 <p class="para-en">“No,” the big man said.</p>
 
@@ -268,7 +268,7 @@
 
 <p class="para-en">“What are you going to do, break it so I won’t hurt anybody?” he joked. She gave him that dry, tight-lipped head shake he knew so well. Then she did something that made him gasp.</p>
 
-<p class="para-vi-sub">“Con định làm gì thế, bẻ gãy nó để ta không làm tổn thương ai nữa à?” anh đùa cợt. Delphine tặng anh cái lắc đầu khô khốc, mím chặt môi mà anh đã quá đỗi quen thuộc, rồi làm một hành động khiến Thomas phải hít một hơi thật sâu.</p>
+<p class="para-vi-sub">“Con định làm gì thế, bẻ gãy nó để chú không làm tổn thương ai nữa à?” anh đùa cợt. Delphine tặng anh cái lắc đầu khô khốc, mím chặt môi mà anh đã quá đỗi quen thuộc, rồi làm một hành động khiến Thomas phải hít một hơi thật sâu.</p>
 
 <p class="para-en">She cut her hands on the blade.</p>
 
@@ -348,19 +348,19 @@
 
 <p class="para-en">Daughter witch page saint prophet angel what are you what are you You</p>
 
-<p class="para-vi-sub">Con gái phù thủy tu sinh thánh tiên tri thiên thần con là cái quái gì con là gì hỡi nhóc</p>
+<p class="para-vi-sub">Con gái phù thủy tu sinh thánh tiên tri thiên thần con là cái quái gì con là gì hỡi nhóc Delphine</p>
 
 <p class="para-en">Delphine</p>
 
-<p class="para-vi-sub">Delphine</p>
+<p class="para-vi-sub">“Con là gì vậy?” Thomas cất lời.</p>
 
 <p class="para-en">“What are you?” he said.</p>
 
-<p class="para-vi-sub">“Con là gì vậy?” Thomas cất lời.</p>
+<p class="para-vi-sub">“Hai thứ, con nghĩ thế. Nhưng chẳng mấy chốc con sẽ chỉ còn là một.”</p>
 
 <p class="para-en">“Two things, I think. But soon I’ll be just one.”</p>
 
-<p class="para-vi-sub">“Hai thứ, con nghĩ thế. Nhưng chẳng mấy chốc con sẽ chỉ còn là một.”</p>
+<p class="para-vi-sub">“Hai thứ, em nghĩ thế. Nhưng chẳng mấy chốc em sẽ chỉ còn là một.”</p>
 
 <p class="para-en">He shook his head to keep from crying.</p>
 
@@ -376,7 +376,7 @@
 
 <p class="para-en">“Am I still not to kill anyone?”</p>
 
-<p class="para-vi-sub">“Ta vẫn không được phép giết bất kỳ ai sao?”</p>
+<p class="para-vi-sub">“Chú vẫn không được phép giết bất kỳ ai sao?”</p>
 
 <p class="para-en">“Not men.”</p>
 

@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Bảy: Về cuộc viếng thăm tại Villeneuve
+# CHƯƠNG BA MƯƠI BẢY: Về cuộc viếng thăm tại Villeneuve
 
 Robert Hanicotte trải qua đêm trước ngày thăng chức trong trạng thái sung sướng, chỉ bị pha loãng đôi chút bởi ký ức về những gì bản thân đã nhìn thấy ngoài vườn nho. Anh ăn thịt gia cầm cùng xúc xích, thậm chí còn uống cả loại rượu vang ngọt ngào vì được thu hoạch muộn, thoảng chút hương vị của thứ
 

@@ -1,6 +1,6 @@
 *Phần IV*
 
-# Chương Ba Mươi Sáu: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
+# CHƯƠNG BA MƯƠI SÁU: Về Việc Trang Bị Vũ Khí và Đêm Canh Thức
 
 “Isnard.”
 
@@ -8,7 +8,7 @@ Cậu bé phục vụ tại nhà trọ Elysium ngó đầu ra cửa sổ nhìn x
 
 “Isnard, ở đây này.”
 
-Cậu nhăn mũi, hạ chiếc bô đi tiểu mà bản thân chuẩn bị hắt xuống. Có phải người gọi là tay tiểu đồng, người bạn mới của cậu ta không? Và chẳng phải tên tiểu đồng đó từng hầu hạ cho vị hiệp sĩ bị bắt giam hay sao?
+Cậu nhăn mũi, hạ chiếc bô đi tiểu mà bản thân chuẩn bị hắt xuống. Có phải người gọi là tay tiểu đồng, người bạn mới của cậu không? Và chẳng phải tên tiểu đồng đó từng hầu hạ cho vị hiệp sĩ vừa bị bắt giam hay sao?
 
 “Diego?” Cậu đáp lời bằng một giọng thì thầm được cân nhắc kỹ lưỡng.
 
@@ -20,45 +20,45 @@ Cô bé cũng là một chuyên gia thì thầm.
 
 Cậu quay người nhìn lại phía sau để chắc chắn không có bàn tay nào đang vươn tới tóm tai mình vì tội lười nhác.
 
-“Ta cần một ân huệ.”
+“Tôi cần một ân huệ.”
 
 “Chuyện gì thế?” Cậu bảo. “Và làm ơn nhanh lên.”
 
 Tại sao Diego lại mặc nguyên đồ ngủ thế kia?
 
-“Đồ đạc của chủ ta, chúng đã bị tịch thu chưa?”
+“Đồ đạc của chủ tôi, chúng đã bị tịch thu chưa?”
 
 “Chưa. Căn phòng vẫn y nguyên như cũ. Thợ mộc sẽ đến vào ngày mai để sửa lại cánh cửa.”
 
-“Thế còn con ngựa của chủ ta?”
+“Thế còn con ngựa của chủ tôi?”
 
 “Ở trong chuồng, đang ăn lượng cỏ khô gấp đôi khẩu phần. Lãnh chúa người Anh định chiếm lấy nó đấy.”
 
-“Mở cửa cho ta đi.”
+“Mở cửa cho tôi đi.”
 
 “Gì cơ? Tôi không thể.”
 
-“Cậu làm được mà. Mở cửa ra, rồi giúp ta khuân áo giáp và dắt ngựa của chủ ta ra ngoài.”
+“Cậu làm được mà. Mở cửa ra, rồi giúp tôi khuân áo giáp và dắt ngựa của chủ tôi ra ngoài.”
 
 Cậu lại quay đầu nhìn phía sau một lần nữa.
 
 “Ngựa á? Họ sẽ treo cổ tôi vì tội ăn cắp ngựa mất.”
 
-“Không phải ăn cắp. Con ngựa đó thuộc về bọn ta.”
+“Không phải ăn cắp. Con ngựa đó thuộc về chúng tôi.”
 
 Cậu ta ngẫm nghĩ điều này.
 
 “Dù thế nào đi nữa, họ cũng sẽ giết tôi. Rồi họ sẽ đuổi cổ tôi ra đường, và cha tôi sẽ đánh chết tôi thêm lần nữa cho mà xem.”
 
-“Họ sẽ không đuổi cậu đâu. Cậu nói được tiếng Pháp, tiếng Ý và tiếng Provençal. Đã bao nhiêu lần họ phải nhờ cậu làm phiên dịch rồi? Cứ để ta vào đi, phần lớn việc còn lại ta sẽ tự lo.”
+“Họ sẽ không đuổi cậu đâu. Cậu nói được tiếng Pháp, tiếng Ý và tiếng Provençal. Đã bao nhiêu lần họ phải nhờ cậu làm phiên dịch rồi? Cứ để tôi vào đi, phần lớn việc còn lại tôi sẽ tự lo.”
 
-“Họ sẽ thấy cô đấy.”
+“Họ sẽ thấy cậu đấy.”
 
 “Sẽ không nếu cậu đánh lạc hướng họ.”
 
 “Bằng cách nào?”
 
-“Ta không biết. Ngã nhào xuống cầu thang kèm theo tiếng động thật lớn vào. Lấy cái chảo hay thứ gì đó chẳng hạn.”
+“Tôi không biết. Ngã nhào xuống cầu thang kèm theo tiếng động thật lớn vào. Lấy cái chảo hay thứ gì đó chẳng hạn.”
 
 Việc này bắt đầu nghe có vẻ thú vị rồi đây.
 
@@ -68,7 +68,7 @@ Và cậu cũng khá mến cậu tiểu đồng người Tây Ban Nha có giọn
 
 “Tại sao tôi phải làm thế chứ?”
 
-“Nếu cậu làm, ta sẽ cho cậu chiếc lược ngà voi này mà ta nhặt được ngoài đường.”
+“Nếu cậu làm, tôi sẽ cho cậu chiếc lược ngà voi này mà tôi nhặt được ngoài đường.”
 
 Cậu ta liếm môi.
 
@@ -92,17 +92,15 @@ Bộ giáp tuyệt đẹp mà anh từng mặc trong một thân xác khác hầ
 
 Họ rời thành phố qua cổng Imbert, nhưng không đi quá xa. Thực chất, họ ghé vào tòa nhà lớn đầu tiên mà họ tìm thấy, nằm ngay sát bờ sông.
 
-Huynh đoàn Phanxicô sinh hoạt trong một tòa nhà bề thế và uy nghi, xứng tầm với thành phố lớn và kiêu hãnh mà họ phụ vụ; điều này lại không mấy vừa lòng tất cả các tu sĩ trong dòng, những người gia nhập tu hội vì tinh thần khó nghèo theo lời Chúa nhiều hơn là vì sự xa hoa của giáo hội. Dẫu vậy, đây chính là thủ đô của thế giới Thiên Chúa giáo, và đây là nơi họ có thể làm được nhiều nhất để bảo vệ tu hội khỏi những cáo buộc dị giáo. Thà để các giáo hoàng xây cho họ những nhà thờ tráng lệ còn hơn bị thiêu cháy trên những giàn hỏa thiêu nghèo hèn. Họ cho phép những kẻ giàu có được chôn cất người chết trong nghĩa trang nhà thờ, cứ như thể Ác quỷ quá ư đơn giản để không thể tìm ra một củ hành thối trong mảnh đất tốt màu mỡ vậy; và khi giới giàu có tìm cách chuộc lại quãng đời ho phí của mình, trút vô số tiền bạc từ giường bệnh lên các tu sĩ, hội tu sĩ lại dùng của cải ấy để truyền bá lời dạy của Đấng Christ khó nghèo.
+Huynh đoàn Phanxicô sinh hoạt trong một tòa nhà bề thế và uy nghi, xứng tầm với thành phố lớn và kiêu hãnh mà họ phục vụ; điều này lại không mấy vừa lòng tất cả các tu sĩ trong dòng, những người gia nhập tu hội vì tinh thần khó nghèo theo lời Chúa nhiều hơn là vì sự xa hoa của giáo hội. Dẫu vậy, đây chính là thủ đô của thế giới Thiên Chúa giáo, và đây là nơi họ có thể làm được nhiều nhất để bảo vệ tu hội khỏi những cáo buộc dị giáo. Thà để các giáo hoàng xây cho họ những nhà thờ tráng lệ còn hơn bị thiêu cháy trên những giàn hỏa thiêu nghèo hèn. Họ cho phép những kẻ giàu có được chôn cất người chết trong nghĩa trang nhà thờ, cứ như thể Ác quỷ quá ư đơn giản để không thể tìm ra một củ hành thối trong mảnh đất tốt màu mỡ vậy; và khi giới giàu có tìm cách chuộc lại quãng đời ho phí của mình, trút vô số tiền bạc từ giường bệnh lên các tu sĩ, hội tu sĩ lại dùng của cải ấy để truyền bá lời dạy của Đấng Christ khó nghèo.
 
 Họ chưa từng đóng cửa với bất kỳ ai, và lòng hiếu khách của họ trong những tháng ngày dịch bệnh hoành hành này đã phải trả một cái giá đắt đỏ.
 
 Chỉ còn lại bảy tu sĩ trên tổng số bốn mươi người.
 
-Thầy tu Albrecht, một người gốc Alsace đang chớm bị bệnh cườm mắt, đã chào đón vị hiệp sĩ cùng con gái ông.
+Tu sĩ Albrecht, một người gốc Alsace đang chớm bị bệnh cườm mắt, đã chào đón vị hiệp sĩ cùng con gái anh.
 
-Thầy giúp họ cất ngựa vào chuồng.
-
-Thầy dẫn họ đến một căn phòng để có thể ngủ qua đêm.
+Thầy giúp họ cất ngựa vào chuồng, dẫn họ đến một căn phòng để có thể ngủ qua quãng trưa, rồi sau đó đưa họ đến trước bàn thờ Đức Mẹ để cầu nguyện.
 
 Họ nói với thầy rằng họ mong muốn có được thân thể tráng kiện và tâm hồn thanh tịnh.
 
@@ -116,7 +114,7 @@ Có vẻ kỳ lạ khi gã hiệp sĩ lại muốn mượn một bộ tu phục,
 
 Chúa thừa biết giờ đây họ có nhiều tu phục hơn cả số người sống để mặc chúng.
 
-“Ngươi sẽ không làm điều gì mang nhục đến dòng tu chứ?”
+“Con sẽ không làm điều gì mang nhục đến dòng tu chứ?”
 
 “Không,” gã đàn ông lực lưỡng đáp.
 
@@ -134,7 +132,7 @@ Trời đang sập tối.
 
 Delphine rút thanh kiếm của Thomas ra khỏi vỏ.
 
-“Con định làm gì thế, bẻ gãy nó để ta không làm tổn thương ai nữa à?” anh đùa cợt. Delphine tặng anh cái lắc đầu khô khốc, mím chặt môi mà anh đã quá đỗi quen thuộc, rồi làm một hành động khiến Thomas phải hít một hơi thật sâu.
+“Con định làm gì thế, bẻ gãy nó để chú không làm tổn thương ai nữa à?” anh đùa cợt. Delphine tặng anh cái lắc đầu khô khốc, mím chặt môi mà anh đã quá đỗi quen thuộc, rồi làm một hành động khiến Thomas phải hít một hơi thật sâu.
 
 Cô bé cứa đôi bàn tay lên lưỡi kiếm.
 
@@ -174,9 +172,7 @@ Thomas quẳng con dao găm xuống sàn rồi nhét Mũi giáo Thánh vào vỏ
 
 Delphine kéo đầu Thomas xuống và hôn lên má anh.
 
-Con gái phù thủy tu sinh thánh tiên tri thiên thần con là cái quái gì con là gì hỡi nhóc
-
-Delphine
+Con gái phù thủy tu sinh thánh tiên tri thiên thần con là cái quái gì con là gì hỡi nhóc Delphine
 
 “Con là gì vậy?” Thomas cất lời.
 
@@ -188,7 +184,7 @@ Anh không thể, anh sẽ không thể nhìn Delphine chịu tổn thương.
 
 Kể cả khi điều đó đánh đổi bằng linh hồn anh.
 
-“Ta vẫn không được phép giết bất kỳ ai sao?”
+“Chú vẫn không được phép giết bất kỳ ai sao?”
 
 “Không phải con người.”
 

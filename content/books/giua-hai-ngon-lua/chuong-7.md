@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Sáu: Về Hôn Lễ Trên Bờ Sông Và Cuộc Viếng Thăm Trong Chuồng Ngựa
+# CHƯƠNG SÁU: Về Hôn Lễ Trên Bờ Sông Và Cuộc Viếng Thăm Trong Chuồng Ngựa
 
 Người phụ nữ lảo đảo bước xuống con đường lầy lội, cố nhớ đường ra sông. Bà đã sống ở St. Martin-le-Preux cả đời, nhưng cơn sốt khiến bà lú lẫn và liên tục lạc đường. Trận mưa đá đã đánh thức bà khỏi giấc ngủ có lẽ là cuối cùng của cuộc đời, và khi tỉnh dậy, bà thấy khát dữ dội đến mức chỉ có nước sông mới giải tỏa được. Thêm vào đó, có một con quỷ đang ở trong nhà bà. Không phải là Ác Quỷ đích thực, mà là một con quỷ nhỏ. Một con dê con với chiếc đuôi giật giật trèo lên giường với bà và cố cướp đi hơi thở mỗi khi bà chìm vào giấc ngủ. Nó nhảy vụt đi khi bà tỉnh giấc và ẩn nấp trong bóng tối, chờ bà buồn ngủ trở lại. Lần này bà sẽ lừa được nó; bà biết nó sẽ không đi theo bà ra sông. Bà bước ra ngoài trời mưa đá và chịu đựng những đòn roi từ nó, nhưng rồi cơn mưa đá cũng nhanh chóng tạnh và chuyển thành những giọt mưa lạnh buốt, nhói buốt.
 

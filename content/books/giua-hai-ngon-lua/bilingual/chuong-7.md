@@ -1,6 +1,6 @@
 *Phần I*
 
-# Chương Sáu: Về Hôn Lễ Trên Bờ Sông Và Cuộc Viếng Thăm Trong Chuồng Ngựa
+# CHƯƠNG SÁU: Về Hôn Lễ Trên Bờ Sông Và Cuộc Viếng Thăm Trong Chuồng Ngựa
 
 <p class="para-en">The woman stumbled down the muddy road, trying to remember how to get to the river. She had lived in St. Martin-le-Preux her whole life, but the fever made her forgetful and she kept losing her way. The hail had woken her up from what might have been her last sleep, and when she woke she had such thirst that only the river could slake it. Besides, a devil was in her house. Not the Devil himself, but a small one. A goat kid with a twitching tail that climbed on the bed with her and tried to steal her breath when she got sleepy. It leapt away when she woke, and hid in the shadows, waiting for her to get sleepy again. She would cheat it this time; she knew it wouldn’t follow her to the river. She went out into the hail and took a beating from it, but it stopped soon and turned to cold, stinging rain.</p>
 

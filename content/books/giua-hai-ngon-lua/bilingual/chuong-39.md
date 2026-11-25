@@ -1,10 +1,10 @@
 *Phần IV*
 
-# Chương Ba Mươi Lăm: Về vị Bác sĩ
+# CHƯƠNG BA MƯƠI LĂM: Về vị Bác sĩ
 
 <p class="para-en">The boy who served the pope’s physician woke from his little bed at the other end of the room and brought a candle over to his master, who whimpered and thrashed in the grips of another nightmare. How many nights in a row had he seen him disturbed by one of these? He knew the physician, Maître de Chauliac, to be a good man, and wondered what devils could trouble one so kind.</p>
 
-<p class="para-vi-sub">Cậu thiếu niên phục vụ cho vị y sư của Đức Giáo Hoàng thức dậy từ chiếc giường nhỏ ở đầu bên kia căn phòng và cầm một cây nến bước đến chỗ chủ nhân, người đang rên rỉ và oằn mình trong một cơn ác mộng khác. Đã bao nhiêu đêm liên tiếp cậu thấy ông bị làm phiền bởi những giấc mơ như thế này? Cậu biết vị y sư, Maître de Chauliac, là một người tốt, và tự hỏi những ác quỷ nào có thể hành hạ một con người nhân hậu đến vậy.</p>
+<p class="para-vi-sub">Cậu thiếu niên phụ việc cho vị y sư của Đức Giáo hoàng thức dậy từ chiếc giường nhỏ ở đầu bên kia căn phòng và cầm một cây nến bước đến chỗ chủ nhân, người đang rên rỉ và oằn mình trong một cơn ác mộng khác. Đã bao nhiêu đêm liên tiếp cậu thấy ông bị quấy rầy bởi những giấc mơ như thế này? Cậu biết vị y sư, Maître de Chauliac, là một người tốt, và tự hỏi những con quỷ nào lại có thể hành hạ một con người nhân hậu đến vậy.</p>
 
 <p class="para-en">This was the worst nightmare yet.</p>
 
@@ -28,11 +28,11 @@
 
 <p class="para-en">The worst ones always wake him and he asks me for wine.</p>
 
-<p class="para-vi-sub">Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.</p>
+<p class="para-vi-sub">Những giấc mơ tồi tệ nhất luôn khiến ông giật mình thức giấc và đòi mình rót rượu.</p>
 
 <p class="para-en">But if I pour the wine and he does not wake, I shall have to put it back in the jug and clean the goblet so the little bugs don’t get in it.</p>
 
-<p class="para-vi-sub">Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.</p>
+<p class="para-vi-sub">Nhưng nếu mình rót rượu mà ông ấy không tỉnh giấc, mình sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.</p>
 
 <p class="para-en">Pour the wine, Tristan.</p>
 
@@ -40,7 +40,7 @@
 
 <p class="para-en">He took a little enameled goblet from its shelf and poured wine from a pewter jug with three rooster’s feet. He was fond of that jug, as he was fond of the smell of wine. Not lately, though. Something was off, like a hint of rot. Had they waited too late to get the grapes in? He had worked as assistant to a baker, and thought to work his way up to being a butler and minding the pope’s fruit cellar at the foot of the kitchen tower, so good was he at ferreting out rottenness. His mother said he had the nose of a dog. But the great doctor had seen what a clever boy he was and pulled him from the kitchens to replace his former boy, who had died of the plague.</p>
 
-<p class="para-vi-sub">Cậu cầm một chiếc cốc nhỏ tráng men trên kệ và rót rượu từ một chiếc bình thiếc có ba chân gà. Cậu rất thích chiếc bình đó, cũng như rất thích mùi hương của rượu. Dù vậy, dạo gần đây thì không hẳn. Có gì đó không ổn, giống như một chút mùi thối rữa. Phải chăng họ đã đợi quá muộn mới thu hoạch nho? Cậu từng làm phụ việc cho một thợ làm bánh, và từng nghĩ đến chuyện phấn đấu để trở thành quản gia kiêm trông coi hầm trái cây của Đức Giáo Hoàng nằm dưới chân tháp nhà bếp, bởi cậu rất giỏi trong việc đánh hơi thấy sự mục rữa. Mẹ cậu nói rằng cậu sở hữu chiếc mũi của một chú chó. Nhưng vị bác sĩ vĩ đại đã nhận ra cậu là một đứa trẻ lanh lợi thế nào và kéo cậu rời khỏi nhà bếp để thay thế cho người phụ việc trước đó đã chết vì bệnh dịch hạch.</p>
+<p class="para-vi-sub">Cậu cầm một chiếc cốc nhỏ tráng men trên kệ và rót rượu từ một chiếc bình thiếc có ba chân gà. Cậu rất thích chiếc bình đó, cũng như rất thích mùi hương của rượu. Dù vậy, dạo gần đây thì không hẳn. Có gì đó không ổn, giống như một chút mùi thối rữa. Phải chăng họ đã đợi quá muộn mới thu hoạch nho? Cậu từng làm phụ việc cho một thợ làm bánh, và từng nghĩ đến chuyện phấn đấu để trở thành quản gia kiêm trông coi hầm trái cây của Đức Giáo hoàng nằm dưới chân tháp nhà bếp, bởi cậu rất giỏi trong việc đánh hơi thấy sự mục rữa. Mẹ cậu nói rằng cậu sở hữu chiếc mũi của một chú chó. Nhưng vị bác sĩ vĩ đại đã nhận ra cậu là một đứa trẻ lanh lợi thế nào và kéo cậu rời khỏi nhà bếp để thay thế cho người phụ việc trước đó đã chết vì bệnh dịch hạch.</p>
 
 <p class="para-en">Actually, three of the doctor’s assistants had died of the plague, but the good doctor had not caught it himself.</p>
 
@@ -72,7 +72,7 @@
 
 <p class="para-en">The man and the boy went into one of the grand, vaulted hallways of the palace, and the physician stopped, considering. He looked left, in the direction that led to the pope’s bedroom and adjoining study. The boy waited with the candle, looking very much like a small dog waiting for its master to open a door.</p>
 
-<p class="para-vi-sub">Người đàn ông và cậu bé bước vào một trong những hành lang vòm tráng lệ của cung điện, rồi vị y sư dừng lại, trầm ngâm suy nghĩ. Ông nhìn sang bên trái, hướng dẫn đến phòng ngủ và phòng làm việc liền kề của Đức Giáo Hoàng. Cậu bé đứng đợi cùng ngọn nến, trông rất giống một chú chó nhỏ đang chờ chủ nhân mở cửa.</p>
+<p class="para-vi-sub">Người đàn ông và cậu bé bước vào một trong những hành lang vòm tráng lệ của cung điện, rồi vị y sư dừng lại, trầm ngâm suy nghĩ. Ông nhìn sang bên trái, hướng dẫn đến phòng ngủ và phòng làm việc liền kề của Đức Giáo hoàng. Cậu bé đứng đợi cùng ngọn nến, trông rất giống một chú chó nhỏ đang chờ chủ nhân mở cửa.</p>
 
 <p class="para-en">“Is the Holy Father well?” Tristan said.</p>
 
@@ -104,7 +104,7 @@
 
 <p class="para-en">Tristan watched, fascinated, as the doctor sorted through the writs in his desk, many of which came directly from the pope. When he found one that seemed to suit his purpose, he fetched one of his chirurgical knives and, as delicately as though he were cutting live flesh, lifted the two separated parts of the wax seal from it. He then fetched a fresh sheet of parchment and wrote something in a very careful hand. When he had finished, he rolled it and, to the boy’s astonishment, heated his knife in the candle flame and used it to graft the two halves of the seal together again.</p>
 
-<p class="para-vi-sub">Tristan chăm chú theo dõi đầy kinh ngạc khi vị bác sĩ lục tìm các văn kiện trong bàn làm việc của ông, phần lớn trong số đó đến thẳng từ chỗ Đức Giáo Hoàng. Khi tìm thấy một văn kiện có vẻ phù hợp với mục đích của mình, ông với lấy một con dao phẫu thuật rồi nhẹ nhàng hệt như đang cắt vào da thịt sống, tách hai phần của con dấu sáp ra khỏi văn bản. Sau đó, ông lấy một tờ giấy da mới và viết thứ gì đó bằng một nét chữ vô cùng cẩn trọng. Khi đã hoàn tất, ông cuộn nó lại và trước sự kinh ngạc của cậu bé, hơ nóng con dao của mình trên ngọn lửa nến rồi dùng nó để hàn gắn hai nửa con dấu lại với nhau như cũ.</p>
+<p class="para-vi-sub">Tristan chăm chú theo dõi đầy kinh ngạc khi vị bác sĩ lục tìm các văn kiện trong bàn làm việc của ông, phần lớn trong số đó đến thẳng từ chỗ Đức Giáo hoàng. Khi tìm thấy một văn kiện có vẻ phù hợp với mục đích của mình, ông với lấy một con dao phẫu thuật rồi nhẹ nhàng hệt như đang cắt vào da thịt sống, tách hai phần của con dấu sáp ra khỏi văn bản. Sau đó, ông lấy một tờ giấy da mới và viết thứ gì đó bằng một nét chữ vô cùng cẩn trọng. Khi đã hoàn tất, ông cuộn nó lại và trước sự kinh ngạc của cậu bé, hơ nóng con dao của mình trên ngọn lửa nến rồi dùng nó để hàn gắn hai nửa con dấu lại với nhau như cũ.</p>
 
 <p class="para-en">“I see your mind frothing with questions, and yet, recognizing the delicacy of the situation, you don’t ask them. Instead, you watch for yourself and come to your own conclusions. I think you have a future, Tristan. I think you will make yourself very useful.”</p>
 
@@ -120,7 +120,7 @@
 
 <p class="para-en">A man groaned in the darkness ahead of them.</p>
 
-<p class="para-vi-sub">Một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.</p>
+<p class="para-vi-sub">Tiếng một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.</p>
 
 <p class="para-en">The dungeon.</p>
 
@@ -228,15 +228,15 @@
 
 <p class="para-en">Thomas was cold.</p>
 
-<p class="para-vi-sub">Thomas thấy lạnh buốt.</p>
+<p class="para-vi-sub">Gã thấy lạnh buốt.</p>
 
 <p class="para-en">He hurt so badly in so many places that a strange sort of numbness had settled into him. His chief complaint was the cold, which felt as though it would never be out of him.</p>
 
-<p class="para-vi-sub">Thomas đau đớn dữ dội ở rất nhiều nơi đến mức một thứ cảm giác tê dại kỳ lạ đã bao trùm lấy cơ thể anh. Nỗi khổ lớn nhất của anh lúc này là cái lạnh, thứ cảm giác như thể sẽ chẳng bao giờ chịu rời khỏi người anh.</p>
+<p class="para-vi-sub">Thomas đau đớn dữ dội ở rất nhiều nơi, đến mức cảm giác tê dại kỳ lạ bao trùm lấy cơ thể anh. Nỗi khổ lớn nhất của anh lúc này là cái lạnh, thứ cảm giác như thể sẽ chẳng bao giờ chịu rời khỏi người anh.</p>
 
 <p class="para-en">He did not know who the man was that wheeled him out of the oubliettes and through a door meant for horses and carts, but he sensed that he would have died had he remained. Not of his injuries. Something had been coming for him, and he had just escaped. Had he remained, he would not only have died, he would have died spectacularly.</p>
 
-<p class="para-vi-sub">Thomas không biết kẻ đã đẩy xe đưa anh ra khỏi hầm ngục tối và đi qua một cánh cửa dành cho ngựa với xe là ai, nhưng anh linh cảm rằng mình đã chết nếu cứ ở lại đó. Không phải vì những vết thương. Có cái gì đó đang tìm đến anh, và anh vừa mới trốn thoát được. Nếu ở lại, anh không chỉ chết, mà sẽ chết ngoạn mục.</p>
+<p class="para-vi-sub">Gã không biết kẻ đã đẩy xe đưa mình ra khỏi hầm ngục tối và đi qua cánh cửa dành cho xe ngựa là ai, nhưng gã linh cảm rằng mình đã chết nếu cứ ở lại đó. Không phải vì những vết thương. Có cái gì đó đang tìm đến anh, và anh vừa mới trốn thoát được. Nếu ở lại, anh không chỉ chết, mà sẽ chết một cách ngoạn mục.</p>
 
 <p class="para-en">Horribly.</p>
 
@@ -248,11 +248,11 @@
 
 <p class="para-en">He shivered.</p>
 
-<p class="para-vi-sub">Thomas rùng mình.</p>
+<p class="para-vi-sub">Gã rùng mình.</p>
 
 <p class="para-en">He looked up at the man wheeling him, and the man looked down at him with kind eyes. He wanted to ask him who he was, but he didn’t have the strength.</p>
 
-<p class="para-vi-sub">Thomas ngước nhìn người đàn ông đang đẩy xe cho mình, và người đó nhìn xuống anh bằng ánh mắt hiền từ. Thomas muốn hỏi đối phương là ai, nhưng lại chẳng còn chút sức lực nào.</p>
+<p class="para-vi-sub">Thomas ngước nhìn người đàn ông đang đẩy xe cho mình, và người đó nhìn xuống anh bằng ánh mắt hiền từ. Anh muốn hỏi đối phương là ai, nhưng lại chẳng còn chút sức lực nào.</p>
 
 <p class="para-en">When he saw that Thomas was still shivering, despite the garments that had been laid across him, the wheeling man stopped and removed his robes, revealing a long shirt that bore the irremovable stains of surgeries.</p>
 
@@ -288,7 +288,7 @@
 
 <p class="para-en">He lost consciousness.</p>
 
-<p class="para-vi-sub">Thomas ngất đi.</p>
+<p class="para-vi-sub">Gã ngất đi.</p>
 
 <p class="para-en">When he came to again, a girl was looking at the wheeling man.</p>
 
@@ -316,7 +316,7 @@
 
 <p class="para-en">Delphine put her fingers to her lips, and the man and the boy left.</p>
 
-<p class="para-vi-sub">Delphine đặt những ngón tay lên môi, rồi người đàn ông và cậu thiếu niên rời đi.</p>
+<p class="para-vi-sub">Delphine đặt ngón tay lên môi, rồi người đàn ông và cậu thiếu niên rời đi.</p>
 
 <p class="para-en">Now she looked down at Thomas, smiling.</p>
 
@@ -324,11 +324,11 @@
 
 <p class="para-en">Those gray eyes.</p>
 
-<p class="para-vi-sub">Ánh mắt xám ngắt ấy.</p>
+<p class="para-vi-sub">Đôi mắt xám ngắt ấy.</p>
 
 <p class="para-en">She cooled his brow with her sleeve, which had been dunked in the Rhône.</p>
 
-<p class="para-vi-sub">Cô bé lau mát vầng trán anh bằng ống tay áo đã được nhúng dòng sông Rhône.</p>
+<p class="para-vi-sub">Cô bé lau mát vầng trán anh bằng ống tay áo đã nhúng nước sông Rhône.</p>
 
 <p class="para-en">“I’m going to die,” he managed.</p>
 
@@ -336,11 +336,11 @@
 
 <p class="para-en">“You already did die, remember? You’re the dead one.”</p>
 
-<p class="para-vi-sub">“Ngài đã chết rồi còn gì, quên sao? Ngài mới là kẻ đã chết cơ mà.”</p>
+<p class="para-vi-sub">“Ngài đã chết rồi còn gì, ngài quên sao? Ngài mới là người đã chết cơ mà.”</p>
 
 <p class="para-en">He felt his spirit coming loose, like a ship from its moorings, but she lifted his head and pointed.</p>
 
-<p class="para-vi-sub">Thomas cảm thấy linh hồn mình đang tuột ra ngoài, giống như con tàu đứt neo, nhưng Delphine đã nâng đầu anh lên và chỉ tay về phía trước.</p>
+<p class="para-vi-sub">Thomas cảm thấy linh hồn mình đang tuột ra ngoài, tựa như con tàu đứt neo, nhưng Delphine đã nâng đầu anh lên và chỉ tay về phía trước.</p>
 
 <p class="para-en">“Hold on,” the girl said, “just for a moment.”</p>
 
@@ -348,11 +348,11 @@
 
 <p class="para-en">She put her hand behind his head and lifted so he could see.</p>
 
-<p class="para-vi-sub">Delphine đặt tay sau đầu anh và nhấc lên để anh có thể nhìn rõ.</p>
+<p class="para-vi-sub">Delphine đặt tay sau đầu anh, nhấc lên để anh có thể nhìn rõ.</p>
 
 <p class="para-en">Something was coming out of the river, lit by the moon.</p>
 
-<p class="para-vi-sub">Có thứ gì đó đang nhô lên từ dưới sông, được ánh trăng chiếu rọi.</p>
+<p class="para-vi-sub">Có thứ gì đó đang nhô lên từ dưới dòng sông, được ánh trăng chiếu rọi.</p>
 
 <p class="para-en">A man.</p>
 
@@ -376,11 +376,11 @@
 
 <p class="para-en">Thomas de Givras stepped dripping from the river, eyes closed, a sleepwalker.</p>
 
-<p class="para-vi-sub">Thân xác thật của Thomas bước lên từ dòng sông trong trạng thái nhỏ giọt nước, đôi mắt nhắm nghiền như kẻ mộng du.</p>
+<p class="para-vi-sub">Thân xác thật của Thomas bước lên từ dòng sông trong trạng thái nước chảy tòng tòng, đôi mắt nhắm nghiền như kẻ mộng du.</p>
 
 <p class="para-en">Delphine got out of the dripping revenant’s way, and he came to the cart. Thomas was afraid. Was he already dead?</p>
 
-<p class="para-vi-sub">Delphine tránh đường cho bóng hình đang rỉ nước ấy, và nó tiến đến chiếc xe kéo. Thomas đang sợ hãi. Phải chăng anh đã chết rồi sao?</p>
+<p class="para-vi-sub">Delphine tránh đường cho bóng hình đang rỉ nước ấy, và nó tiến đến chiếc xe kéo. Thomas đang sợ hãi. Phải chăng anh đã chết thật rồi sao?</p>
 
 <p class="para-en">He watched himself bend over, getting closer.</p>
 
@@ -404,7 +404,7 @@
 
 <p class="para-en">The ship of his soul lurched away from his false body.</p>
 
-<p class="para-vi-sub">Con tàu linh hồn của anh tròng trành rời khỏi cái thân xác giả tạo kia.</p>
+<p class="para-vi-sub">Con tàu linh hồn của anh tròng trành rời khỏi thân xác giả tạo kia.</p>
 
 <p class="para-en">And into his true one.</p>
 
@@ -416,7 +416,7 @@
 
 <p class="para-en">The body of the comte twitched now, once, then twice, only now it was under him. His mouth, his actual mouth, was on the dead man, and he pulled up. He breathed in, his strong lungs filling with air, his hands clutching, ready to grab weapons or levers or to brace against the pillars of the temple. He was strong again. He ran his hand through his full beard, and tugged on his longish hair.</p>
 
-<p class="para-vi-sub">Thi thể của vị bá tước giờ đây giật nảy lên một cái, rồi hai cái, chỉ có điều lúc này nó đang nằm ở bên dưới anh. Cái miệng của anh, cái miệng thực sự của anh, đang áp lên cái xác chết, và anh ngẩng phắt dậy. Anh hít một hơi thật sâu, bầu không khí tràn ngập vào buồng phổi lực lưỡng, hai bàn tay bấu chặt lại, sẵn sàng vớ lấy vũ khí hay cần gạt hoặc bám víu vào những trụ cột của ngôi đền. Anh đã mạnh mẽ trở lại. Anh luồn tay cào qua bộ râu rậm rạp và giật nhẹ mái tóc dài của mình.</p>
+<p class="para-vi-sub">Thi thể của vị bá tước giờ đây giật nảy lên một cái, rồi hai cái, chỉ có điều lúc này nó đang nằm bên dưới anh. Cái miệng của anh, cái miệng thực sự của anh, đang áp lên cái xác chết, và anh ngẩng phắt dậy. Anh hít một hơi thật sâu, bầu không khí tràn ngập vào buồng phổi lực lưỡng, hai bàn tay bấu chặt lại, sẵn sàng vớ lấy vũ khí hay cần gạt hoặc bám víu vào những trụ cột của ngôi đền. Anh đã mạnh mẽ trở lại. Anh luồn tay cào qua bộ râu rậm rạp và giật nhẹ mái tóc dài của mình.</p>
 
 <p class="para-en">He laughed, and Delphine laughed, too, shushing him as he put the doctor’s robes on over his cold, wet armor.</p>
 
