@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261126-01",
+    "timestamp": "2026-11-26T09:47:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm",
+    "type": "audio_update",
+    "typeName": "Cập nhật Sách nói",
+    "badgeClass": "badge-audio",
+    "title": "Cập nhật audio & highlight đồng bộ chương 26 đến 33 tác phẩm Đường Về Miền Dịu Êm",
+    "description": "Hoàn tất tải lên 8 chương audio mới (từ chương 26 đến 33) cho tác phẩm Đường Về Miền Dịu Êm (The Road to Tender Hearts - Annie Hartnett). Toàn bộ hệ thống highlight từng câu chữ khi nghe audio đã được phân tích và đồng bộ chuẩn xác 100% với văn bản bản dịch QA mới nhất."
+  },
+  {
     "id": "log-20261125-05",
     "timestamp": "2026-11-25T21:30:00+07:00",
     "bookId": "duong-ve-mien-diu-em",
