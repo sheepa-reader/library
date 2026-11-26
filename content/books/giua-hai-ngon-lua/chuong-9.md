@@ -1,6 +1,6 @@
 *Phần I*
 
-# CHƯƠNG TÁM: Về Bữa Tiệc và Cuộc Đấu Thương Đêm
+# CHƯƠNG TÁM
 
 Lâu đài trông có vẻ gần nhưng thực chất lại ở rất xa; nó sừng sững trên ngọn đồi xanh nhạt suốt nửa ngày trời, thoạt nhìn xa xôi tựa một tinh thể trên bầu trời, thế rồi khi chiều tà buông xuống, nó bỗng hiện ra ngay trước mặt với những bức tường trắng kiêu hãnh và các tháp canh sừng sững. Cờ hiệu của lãnh chúa tung bay trên tòa tháp chính, và những người lính đang thong thả rảo bước trên đỉnh nhà cổng, nơi chiếc cầu treo được hạ xuống để chào đón khách. Có lẽ dịch bệnh đã bỏ qua nơi này.
 
@@ -8,11 +8,11 @@ Thomas nói: “Chúng ta hãy dừng chân ở đây và xem có kiếm đượ
 
 Cô bé đáp: “Cháu phải đến Paris.”
 
-“Và đến giờ cháu vẫn không chịu nói lý do.”
+“Và đến giờ mày vẫn không chịu nói lý do.”
 
 “Cháu chưa biết.”
 
-“Ta đem những gì cháu chưa biết ra đối trọng với những gì ta đã rõ. Chúng ta đang đói, và được ăn thì vẫn hơn là chịu đói.”
+“Ta đem những gì mày chưa biết ra đối trọng với những gì ta đã rõ. Chúng ta đang đói, và được ăn thì vẫn hơn là chịu đói.”
 
 Cô bé nói: “Không phải lúc nào cũng vậy.”
 
@@ -74,7 +74,7 @@ Thomas mỉm cười, để lộ hàm răng trắng. Gã nói: “Tôi rất mu�
 
 “Chúng tôi có thể tìm cho ngài một con. Trông ngài giống một kẻ từng phi ngựa đâm vòng gỗ dăm ba bận, và thú thật là, số lượng hiệp sĩ của chúng tôi không đến nỗi quá dồi dào để có thể chê bai bất kỳ kỵ sĩ tài năng nào. Lãnh chúa của chúng tôi đã triệu hồi một cuộc đấu thương, và chúng tôi sẽ tổ chức nó tốt nhất có thể. Ngài có muốn chiến đấu không?”
 
-“Không!” cô bé thốt lên, và Thomas trừng mắt nhìn cô bé bằng ánh mắt lạnh lùng.
+“Không!” cô bé thốt lên, và Thomas trừng mắt nhìn con bé bằng ánh mắt lạnh lùng.
 
 “Có,” gã đáp.
 
@@ -90,15 +90,15 @@ Thomas ra lệnh, cha Matthieu khẩn khoản, và cuối cùng con bé tót lê
 
 Im lặng.
 
-“Chúng ta đã phải nhai cành cây và ráy tai suốt cả tuần nay rồi. Giờ thì có cơ hội để thực sự lấp đầy cái bụng đói, vậy mà cháu lại làm trò này.”
+“Chúng ta đã phải nhai cành cây và ráy tai suốt cả tuần nay rồi. Giờ thì có cơ hội để thực sự lấp đầy cái bụng đói, vậy mà mày lại làm trò này.”
 
 Im lặng.
 
-“Thôi ngay cái thói bướng bỉnh đó đi và trèo lên xe mau! Trời sắp tối rồi đấy. Mẹ kiếp, đừng có ép ta phải bỏ mặc cháu ở lại đây. Và đừng có tưởng là ta không dám làm thế thật.”
+“Thôi ngay cái thói bướng bỉnh đó đi và trèo lên xe mau! Trời sắp tối rồi đấy. Mẹ kiếp, đừng có ép ta phải bỏ mặc mày ở lại đây. Và đừng có tưởng là ta không dám làm thế thật.”
 
 Im lặng.
 
-“Tùy cháu vậy,” Thomas nói rồi quay sang đi theo viên sứ giả, người đang lịch sự đứng chờ ngoài tầm nghe. Cha Matthieu ngồi thẫn thờ một mình trên xe, bị giằng xé giữa hai bên.
+“Tùy mày vậy,” Thomas nói rồi quay sang đi theo viên sứ giả, người đang lịch sự đứng chờ ngoài tầm nghe. Cha Matthieu ngồi thẫn thờ một mình trên xe, bị giằng xé giữa hai bên.
 
 “Cứ đi cùng ngài ấy đi, cha Matthieu,” cô bé nói từ trên cành cây. Ông chỉ có thể nhìn thấy đôi bàn chân của con bé.
 
@@ -350,7 +350,7 @@ Thomas đá thốc ngược chân ra sau nhắm vào gã chơi đàn vĩ cầm, 
 
 Thomas lết được tới khung cửa rồi bước ra hành lang tối tăm hơn, phía sau vẫn văng vẳng tiếng cười nói và âm nhạc. Gã dò dẫm bám vào bức tường để lấy chỗ trụ vững, lúc này mới nhận ra nếu không có đứa trẻ đã dẫn mình đến đây thì chẳng có hy vọng nào tìm nổi căn phòng của mình.
 
-“Vậy ta sẽ ngủ trong chuồng ngựa dơ dáy này,” Thomas lẩm bẩm rồi tiếp tục lê bước.
+“Vậy tao sẽ ngủ trong chuồng ngựa dơ dáy này,” Thomas lẩm bẩm rồi tiếp tục lê bước.
 
 Gã cứ dò dẫm dọc theo bức tường thẳng tắp suốt khoảng một tiếng đồng hồ, ngang qua rất nhiều tấm thảm thêu tinh xảo với những họa tiết kỳ quái. Có một tấm thảm khiến gã khựng lại, đứng lảo đảo trước mặt để cố ngẫm nghĩ cho ra; dường như nó vẽ lại cảnh một nữ quý tộc từ thế kỷ trước đang tắm cho một đứa trẻ sơ sinh; nhưng mụ lại cầm hai chân đứa bé dốc ngược đầu xuống chậu nước. Những thiên thần chán chường trên đám mây phía trên đang đón lấy linh hồn ngái ngủ có đôi cánh của đứa bé, trong khi ở phía dưới tấm thảm, những con ác quỷ màu đen với cặp nanh chìa ra từ khóe miệng, cùng vô số những con quỷ kỳ dị khác, lại đang đón lấy linh hồn đang cười hoan hỷ đến phát cuồng của người mẹ. Một sinh vật trông như sư tử với đôi bàn tay người đang sờ mó bộ ngực người phụ nữ. Ngay bên cạnh đó, con quỷ lớn nhất có tới mười hai con mắt cùng cái miệng tròn bốc lửa. Nó đứng trên đôi chân của loài cú. Bàn tay đen đúa của nó luồn vào giữa hai chân linh hồn người phụ nữ, ngập đến tận đốt ngón tay.
 
@@ -386,7 +386,7 @@ Cô hầu bàn lúc này đang rót đầy cúp rượu cho gã. Gã thoáng th�
 
 Ở phía bên kia sảnh, Théobald de Barentin đã đứng bật dậy, đôi mắt lồi hau háu nhìn chằm chằm vào Thomas.
 
-“Và chúng ta đừng quên người bạn của chúng ta, Thomas... xứ Picardy nhỉ?” hắn cất lời. “Dù ta không tài nào nhớ nổi ngài đến từ thị trấn nào ở Picardy. Nhưng ta tin là mình từng gặp ngài gần Cambrai mười năm trước.”
+“Và chúng ta đừng quên người bạn của chúng ta, Thomas… xứ Picardy nhỉ?” hắn cất lời. “Dù ta không tài nào nhớ nổi ngài đến từ thị trấn nào ở Picardy. Nhưng ta tin là mình từng gặp ngài gần Cambrai mười năm trước.”
 
 Thomas cảm thấy mặt mình nóng bừng lên, gã kìm nén bản năng muốn cúi gằm mặt xuống.
 
@@ -498,13 +498,13 @@ Con ngựa đi mượn của Thomas quay đầu nhìn gã, và Père Matthieu ra
 
 “Ngươi là chính mình, hay là một con quỷ?” Thomas hỏi, vừa đội chiếc mũ giáp đấu trường lên đầu.
 
-“Tôi không biết,” Père Matthieu ngọng nghịu nói, “nhưng tôi khá chắc là ngoài kia có một con quỷ đấy.”
+“Ta không biết,” Père Matthieu ngọng nghịu nói, “nhưng ta khá chắc là ngoài kia có một con quỷ đấy.”
 
 Một tiếng thét kinh hoàng bỗng vang lên từ bãi đấu. Đám đông phát ra tiếng “HO-ooooooooo”, đúng cái cách mà đám đông hay làm khi điều gì đó khủng khiếp vừa giáng xuống một con người. Tên cận vệ kiêm linh mục chộp lấy một cây giáo dựa vào hàng rào đưa cho Thomas, tiện thể cầm theo cả hai cây giáo dự phòng. Thomas nhìn dọc theo thân cán xuống mũi giáo; đó là một mũi giáo chiến, sắc bén và chết chóc, chứ không phải bốn cục u tày dùng trong các trận đấu thương thông thường.
 
 “Được thôi,” Thomas nói. “Đi chết nào, thưa cha.”
 
-“Tôi ước gì đó là tất cả những gì chúng ta đang mạo hiểm ở đây,” Père Matthieu nói.
+“Ta ước gì đó là tất cả những gì chúng ta đang mạo hiểm ở đây,” Père Matthieu nói.
 
 Père Matthieu quay đầu con ngựa và thúc nó tiến vào bãi cỏ đã bị giày xéo của đấu trường.
 
@@ -512,7 +512,7 @@ Père Matthieu quay đầu con ngựa và thúc nó tiến vào bãi cỏ đã b
 
 Có hai kỵ sĩ đang ở trên bãi đấu, và một kẻ thứ ba đang đứng chờ ở phía bên kia.
 
-Ánh sáng của khoảng một trăm ngọn đuốc đang cháy rực khắc sâu hình ảnh đó vào tâm trí Thomas; gã người Pháp có vẻ ngoài giống người Đức trong bữa tiệc đang ngồi bất động trên yên ngựa với một mũi giáo đâm xuyên qua mạn sườn. Mũ của hắn đã bị tháo ra. Lãnh chúa, cũng không đội mũ giáp, điều khiển ngựa lượn quanh hắn, rồi thúc ngựa sát lại, dùng một chiếc rìu chiến một tay chém ngang đầu tên kia từ mũi ra đến tận sau gáy, khiến óc nào bắn tung tóe khắp lớp cát.
+Ánh sáng của khoảng một trăm ngọn đuốc đang cháy rực khắc sâu hình ảnh đó vào tâm trí Thomas; gã người Pháp có vẻ ngoài giống người Đức trong bữa tiệc đang ngồi bất động trên yên ngựa với một mũi giáo đâm xuyên qua mạn sườn. Mũ của hắn đã bị tháo ra. Lãnh chúa, cũng không đội mũ giáp, điều khiển ngựa lượn quanh hắn, rồi thúc ngựa sát lại, dùng một chiếc rìu chiến một tay chém ngang đầu tên kia từ mũi ra đến tận sau gáy, khiến óc não bắn tung tóe khắp lớp cát.
 
 Đám đông la hét tán thưởng.
 
@@ -532,7 +532,7 @@ Ta không thể, không thể, không thể nào làm được, Thomas thầm ng
 
 “Giáo hay kiếm?” Thomas gầm lên với lãnh chúa.
 
-“GIÁO!” lãnh chúa quát to, “Nhưng không phải ta. Hắn!”
+“GIÁO!” lãnh chúa quát to, “Nhưng không phải tao. Hắn!”
 
 Théobald de Barentin giờ đã vào vị trí, đội mũ giáp đấu trường lên và cầm lấy cây giáo. Théobald ngồi trên một con ngựa màu ngà đang chồm lên chực chạy. Tên cận vệ bảnh chọe trao cho Théobald cây giáo đầu tiên.
 
@@ -554,7 +554,7 @@ Thế nhưng lần này, Thomas cảm thấy con ngựa của mình đang chậm
 
 “Thứ lỗi cho ta, Sir Thomas,” vị lãnh chúa nói. “Ta không biết con ngựa của mình lại là một kẻ hèn nhát khốn nạn đến thế.”
 
-Thomas lết người đứng dậy bằng cả tay lẫn chân. Sao tên cận vệ của ta lại không ra đỡ cơ chứ? Gã tháo chiếc mũ giáp mượn tạm ra và nhìn ngược về phía bãi đấu. Gã thấy Père Matthieu lúc này đang ngả người ra lan can, đầu ngửa về phía sau. Tên chơi đàn vĩ cầm hồi nãy đang rót rượu vào cổ họng vị linh mục, tay kia thì xoa bóp đũng quần của ông già.
+Thomas lết người đứng dậy bằng cả tay lẫn chân. Sao tên cận vệ của gã lại không ra đỡ cơ chứ? Gã tháo chiếc mũ giáp mượn tạm ra và nhìn ngược về phía bãi đấu. Gã thấy Père Matthieu lúc này đang ngả người ra lan can, đầu ngửa về phía sau. Tên chơi đàn vĩ cầm hồi nãy đang rót rượu vào cổ họng vị linh mục, tay kia thì xoa bóp đũng quần của ông già.
 
 Lãnh chúa thét lớn, “Xuống đấu giáp lá cà!” và lúc này Thomas quay đầu lại thì thấy gã hiệp sĩ kia đang dậm chân bước tới, tay vung chiếc chùy có gờ, mũ giáp cũng đã tháo ra.
 
@@ -604,7 +604,7 @@ Hắn ngã xuống biển khi một chiến thuyền Anh đâm sầm vào con t�
 
 Ánh sáng đang rọi lên bầu trời.
 
-“Mau lên!” một phụ nữ từ khán đài hét lên, và tiếng thét đó được hưởng ứng bởi những khán giả khác, tất cả lúc này đều bắt đầu phân hủy. Vải kẻ gào lên “Giết nó đi!” hoặc “Mặt trời kìa!” Lãnh chúa của lâu đài cũng thét lên “MAU LÊN!”, rồi cố thét thêm lần nữa, nhưng từ đó biến thành tiếng gầm của một con sư tử. Thomas liếc nhìn hắn và thấy rằng thân hình hắn đang cao lớn dần, vươn căng vượt ra ngoài bộ giáp, khiến da thịt lộ ra giữa các mảnh giáp. Đầu hắn giờ đây là đầu sư tử, nhưng cục mịch và thối rữa, tròng trành khó coi trên đống thịt và giáp trụ kỳ dị mà hắn đã biến thành.
+“Mau lên!” một phụ nữ từ khán đài hét lên, và tiếng thét đó được hưởng ứng bởi những khán giả khác, tất cả lúc này đều bắt đầu phân hủy. Vài kẻ gào lên “Giết nó đi!” hoặc “Mặt trời kìa!” Lãnh chúa của lâu đài cũng thét lên “MAU LÊN!”, rồi cố thét thêm lần nữa, nhưng từ đó biến thành tiếng gầm của một con sư tử. Thomas liếc nhìn hắn và thấy rằng thân hình hắn đang cao lớn dần, vươn căng vượt ra ngoài bộ giáp, khiến da thịt lộ ra giữa các mảnh giáp. Đầu hắn giờ đây là đầu sư tử, nhưng cục mịch và thối rữa, tròng trành khó coi trên đống thịt và giáp trụ kỳ dị mà hắn đã biến thành.
 
 Một con quỷ.
 

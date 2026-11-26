@@ -1,8 +1,8 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI TƯ: Về Vụ Bắt Giữ
+# CHƯƠNG BA MƯƠI TƯ
 
-Khu nhà trọ do Đức Giáo Hoàng bố trí cho Chrétien, Bá tước d’Évreux cùng tiểu đồng của gã nằm lọt thỏm ngay dưới cái bóng sừng sững của cung điện, sát cạnh nhà thờ Thánh Phêrô. Dãy nhà xập xệ, xiêu vẹo của những người lao động từng mọc lên ở chốn này đã bị triệt hạ từ bốn năm trước, gỗ tận dụng được chở thẳng về cung điện để rồi vui vẻ rực cháy trong những gian bếp và dưới các phòng tắm của họ hệt như thể cung điện đã nuốt chửng lấy cả khu dân cư ấy. Đức Giáo Hoàng Clement vẫn tiếp tục duy trì chính sách của vị tiền nhiệm, biến một Avignon bằng gỗ thành một Avignon bằng đá, và Ngôi nhà Elysium chính là một minh chứng xuất sắc cho sự xa hoa mới mẻ đó.
+Khu nhà trọ do Đức Giáo Hoàng bố trí cho Chrétien, Bá tước d’Évreux cùng tiểu đồng của hắn nằm lọt thỏm ngay dưới cái bóng sừng sững của cung điện, sát cạnh nhà thờ Thánh Phêrô. Dãy nhà xập xệ, xiêu vẹo của những người lao động từng mọc lên ở chốn này đã bị triệt hạ từ bốn năm trước, gỗ tận dụng được chở thẳng về cung điện để rồi vui vẻ rực cháy trong những gian bếp và dưới các phòng tắm của họ hệt như thể cung điện đã nuốt chửng lấy cả khu dân cư ấy. Đức Giáo Hoàng Clement vẫn tiếp tục duy trì chính sách của vị tiền nhiệm, biến một Avignon bằng gỗ thành một Avignon bằng đá, và Ngôi nhà Elysium chính là một minh chứng xuất sắc cho sự xa hoa mới mẻ đó.
 
 Thomas và Delphine tự giam mình trong căn phòng, cáo từ bữa tiệc trưa do một vị công tước người Anh khoản đãi dưới khoảng sân trong. Tiếng cười nói hân hoan vẳng lên đến tai họ suốt gần một giờ đồng hồ, và khi những kẻ dự tiệc dốc hết vò rượu này đến vò rượu khác của Đức Giáo Hoàng vào cổ họng, các lãnh chúa nhà Valois cùng người Anh, những kẻ từng chĩa vũ khí vào mặt nhau ở hai chiến tuyến, nay lại càng thêm hùa vào trêu chọc hướng về phía ô cửa sổ của người mà họ đinh ninh là Chrétien, Bá tước d’Évreux cùng tiểu đồng người Navarre. Đây chính xác là điều Thomas vẫn luôn sợ hãi; dù mang khuôn mặt và thể xác của kẻ đã khuất, anh lại chẳng hề có lấy một ký ức nào của hắn, và thế giới của những kẻ đứng ở đỉnh cao quyền lực, dù trải dài khắp châu Âu, vẫn nhỏ bé và hẹp hòi chẳng khác nào một ngôi làng.
 
@@ -10,7 +10,7 @@ Thomas đang đứng bên bờ vực nguy hiểm, suýt thì bại lộ thân ph
 
 “Lãnh chúa xứ Navarre của chúng ta ngã bệnh rồi sao?” William Montacute trẻ tuổi, Bá tước xứ Salisbury, lớn tiếng gào lên bằng thứ tiếng Pháp thô kệch, ngắn ngủn của giới quý tộc Anh. “Ta cứ tưởng hắn sẽ muốn vật nhau với ta một trận chứ.”
 
-Delphine dùng đầu chiếc lược vạch những đường nét trên viền chiếc váy của người phụ nữ in trên tấm thảm treo tường gần cửa sổ. Đó chỉ là chiếc lược đơn giản của người mẹ quá cố mang theo từ Normandy, chiếc lược ngà voi từ khu rừng săn hươu đã bị cô bé ném thẳng xuống con đường bùn lầy ngay khoảnh khắc Thomas trao nó cho cô bé.
+Delphine dùng đầu chiếc lược vạch những đường nét trên viền chiếc váy của người phụ nữ in trên tấm thảm treo tường gần cửa sổ. Đó chỉ là chiếc lược đơn giản của người mẹ quá cố mang theo từ vùng Normandy, chiếc lược ngà voi từ khu rừng săn hươu đã bị cô bé ném thẳng xuống con đường bùn lầy ngay khoảnh khắc Thomas trao nó cho cô bé.
 
 “Không đâu, thưa bá tước Salisbury, ngài ấy sẽ không vật lộn với ngài đâu. Ngài ấy vốn chỉ quen vật lộn với đứa em trai bé bỏng của mình cho đến khi Charles mọc ria mép. Giờ thì ngài ấy chỉ đi vật vợ của những người đàn ông khác thôi.”
 
@@ -170,19 +170,19 @@ Anh cứ ngỡ mình nghe thấy tiếng vỗ cánh.
 
 Thomas lao thẳng vào gã vừa phá cửa xông vào, định bụng húc ngã hắn, với hy vọng sẽ tóm được một tên nhỏ con hơn ở phía sau. Anh lao vào tên lính to lớn, nhưng lực va chạm vẫn chưa đủ mạnh.
 
-Ta cứ tưởng đã tóm được hắn.
+Ta cứ tưởng đã tóm được hắn
 
-Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa.
+Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa
 
 Gã đàn ông lảo đảo ngã ngửa vào tường nhưng nhanh chóng lấy lại thăng bằng, vung phần chuôi rìu nện thẳng vào mặt d’Évreux, làm gãy rụng cả răng.
 
-Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA.
+Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA
 
 Thomas ngã gục.
 
 Anh quơ tay tìm kiếm thanh kiếm của mình, nhưng chẳng thấy đâu.
 
-LẠY CHÚA.
+LẠY CHÚA
 
 Bọn chúng lại giáng đòn lên người anh.
 

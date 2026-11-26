@@ -1,6 +1,6 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI MỘT: Về khu chợ trên phố Mont-Fetard
+# CHƯƠNG MƯỜI MỘT
 
 “Chuyện gì đã xảy ra với người hầu của ngài thế?” vị linh mục hỏi.
 
@@ -90,7 +90,7 @@ Thomas vui vẻ nhắm nháp một khúc dồi huyết mà gã mua được vớ
 
 “Làm sạch áo giáp cho ngài nhé, thưa lãnh chúa?” một người đàn ông đã quá già so với những bộ trang phục diêm dúa viền đăng ten mà ông ta đang mặc liền cất giọng hát vang khi ông ta quay một cái tay quay làm xoay tròn một chiếc thùng đầy cát và giấm. “Mười phút trong này và áo giáp của ngài sẽ sáng bóng như răng của Chúa.” Ông ta mang phong thái của một thiếu niên hầu cận, có lẽ là người có lãnh chúa đã qua đời. Khi thấy Thomas đã bị thu hút, ông ta nói tiếp, “Hai đồng denier để biến nó trông như mới, thưa ngài. Ngài sẽ chẳng tìm đâu được dịch vụ nào tốt hơn hay rẻ hơn thế này đâu.”
 
-Thomas vừa mới bắt đầu cởi thắt lưng và áo khoác ngoài của mình thì cô bé bỗng hét lên, “Cha Matthieu! Xin hãy đến đây!” với sự khẩn cấp lớn đến mức anh phải vội vã chạy đến, một tay giữ thắt lưng cho khỏi tuột còn tay kia nắm lấy chuôi kiếm.
+Thomas vừa mới bắt đầu cởi thắt lưng và áo khoác ngoài của mình thì cô bé bỗng hét lên, “Père Matthieu! Xin hãy đến đây!” với sự khẩn cấp lớn đến mức anh phải vội vã chạy đến, một tay giữ thắt lưng cho khỏi tuột còn tay kia nắm lấy chuôi kiếm.
 
 Vị linh mục và Thomas đến nơi cùng một lúc và phát hiện Delphine đang đứng cạnh một chiếc xe đẩy thuộc về Người Do Thái bán thánh tích, một người đàn ông nhỏ con gù lưng, da tái mét với mái tóc đen nhánh, người dường như luôn mỉm cười trước mọi thứ, thậm chí là cả trước ánh nhìn đằng đằng sát khí của Thomas đang sải bước tiến về phía ông.
 
@@ -190,7 +190,7 @@ Vị linh mục gật đầu, lúc này đang đổ mồ hôi không chỉ vì t
 
 Thomas không mảy may quan tâm. Gã đẩy vị linh mục sang một bên và gỡ tay Delphine ra khỏi bánh xe dù cái nắm tay của gã làm cô bé đau và bật khóc.
 
-“Mẹ kiếp, cháu sẽ đi theo ta cho dù ta có phải lôi cả cái bánh xe khốn kiếp này đi cùng cháu,” gã nói, và chẳng mấy chốc đã vác cô bé lên vai mặc cho cô bé khóc lóc và đấm đá vào người gã. Vị linh mục đã tránh ra từ trước, và giờ đây Thomas bước sang một bên khi đám đông nhỏ tụ tập lại gần chiếc xe đẩy.
+“Mẹ kiếp, cháu sẽ đi theo ta cho dù ta có phải lôi cả cái bánh xe đĩ thõng này đi cùng cháu,” gã nói, và chẳng mấy chốc đã vác cô bé lên vai mặc cho cô bé khóc lóc và đấm đá vào người gã. Vị linh mục đã tránh ra từ trước, và giờ đây Thomas bước sang một bên khi đám đông nhỏ tụ tập lại gần chiếc xe đẩy.
 
 Người Do Thái đã thu dọn đồ đạc, dẫu có hơi luộm thuộm, và lúc này đang kéo các thanh gỗ của chiếc xe để di chuyển. Ba hoặc bốn người đàn ông bước ra chặn trước mặt ông, một trong số họ cầm chân bàn làm gậy. Ông cố phớt lờ họ và đi qua, nhưng một kẻ đã đặt tay lên mặt ông và đẩy ngã ông xuống. Việc đó chẳng mấy khó khăn.
 
@@ -256,7 +256,7 @@ Delphine nhìn chằm chằm ra cửa.
 
 Cô bé chạy chân trần, guốc gỗ đi bùn và vớ bị bỏ lại trong phòng Annette, và Thomas chạy đuổi theo sau, hét lớn “Ở yên đấy!” với những người còn lại. Áo giáp của gã đã được cởi ra, chất đống ở góc xưởng, thế nên khi mặc chiếc áo chần bông, gã gần như đủ nhẹ để có thể tóm được con bé trong một cú nước rút. Gần như thế. Mấy ngón tay của gã suýt chạm qua mái tóc đang bồng bềnh của con bé, thứ mà gã định túm lấy một nắm để chặn cô lại, nhưng rồi gã bắt đầu giảm tốc và khoảng cách giữa họ ngày càng nới rộng. Gã gầm gừ và thở hắt ra một tràng những lời nguyền rủa phía sau con bé, khiến cô phải ngoái lại hét lên với gã rằng: “Ngài không nên thề thốt như thế.”
 
-Đường phố vắng lặng và tiêu điều hơn trước khi họ rảo bước tới khu chợ trong ánh chiều chạng vạng; giờ đây không còn con chuột nào chạy qua, thậm chí chẳng có lấy một tiếng chó sủa hòa vào tiếng thở hổn hển của Thomas. Cuối cùng, gã giảm tốc độ chạy xuống thành bước sải dài; cô bé, từ nãy vẫn thỉnh thoáng ngoái nhìn lại phía gã, cũng giảm tốc độ thành đi bộ. Dù đang mệt và tức giận, gã vẫn thấy may vì guốc gỗ đi bùn đã giúp gã không phải cảm nhận cái dơ bẩn của bùn nhão Paris giữa các ngón chân, và chắc hẳn cô bé cũng vậy.
+Đường phố vắng lặng và tiêu điều hơn trước khi họ rảo bước tới khu chợ trong ánh chiều chạng vạng; giờ đây không còn con chuột nào chạy qua, thậm chí chẳng có lấy một tiếng chó sủa hòa vào tiếng thở hổn hển của Thomas. Cuối cùng, gã giảm tốc độ chạy xuống thành bước sải dài; cô bé, từ nãy vẫn thỉnh thoảng ngoái nhìn lại phía gã, cũng giảm tốc độ thành đi bộ. Dù đang mệt và tức giận, gã vẫn thấy may vì guốc gỗ đi bùn đã giúp gã không phải cảm nhận cái dơ bẩn của bùn nhão Paris giữa các ngón chân, và chắc hẳn cô bé cũng vậy.
 
 “Cháu nghĩ cái quái gì mà đòi đi đến đó?”
 
@@ -282,9 +282,9 @@ Họ cứ tiếp tục đi cho đến tận phố Mont-Fetard, con bé đi ở p
 
 Thomas hoàn toàn không nhận ra mùi cây bách xù lấn át cả những mùi hôi thối tầm thường dưới rãnh cống.
 
-“Ta biết con,” người Do Thái nói khi nhìn chằm chằm vào đứa trẻ đứng trước mặt mình. Những chiếc gông cùm nằm hoang phế ở quảng trường, cách chiếc xe đựng thánh tích không xa, thứ đã bị lục lọi sạch bách. Người lính canh đã ở lại canh chừng cho đến tận khi trời tối hẳn như gã dám làm, chẳng có tin tức gì từ vị viện phụ cũng như lệnh lạc nào từ viên cảnh sát trưởng, và đến lúc gã bỏ về nhà, chẳng ai muốn gánh lấy sức nặng của chiếc xe vốn nặng hơn bình thường dù đang trống không.
+“Ta biết cô bé,” người Do Thái nói khi nhìn chằm chằm vào đứa trẻ đứng trước mặt mình. Những chiếc gông cùm nằm hoang phế ở quảng trường, cách chiếc xe đựng thánh tích không xa, thứ đã bị lục lọi sạch bách. Người lính canh đã ở lại canh chừng cho đến tận khi trời tối hẳn như gã dám làm, chẳng có tin tức gì từ vị viện phụ cũng như lệnh lạc nào từ viên cảnh sát trưởng, và đến lúc gã bỏ về nhà, chẳng ai muốn gánh lấy sức nặng của chiếc xe vốn nặng hơn bình thường dù đang trống không.
 
-“Sao bác biết cháu? Từ hôm nay ạ?” cô bé hỏi.
+“Sao bác biết cháu? Từ hôm nay à?” cô bé hỏi.
 
 “Không.”
 
@@ -296,7 +296,7 @@ Gã bán gia vị phớt lờ cô bé, cứ lắc đầu liên hồi như con ng
 
 “Cháu mặc kệ.”
 
-Lúc này, người Do Thái gọi cô bé lại gần, bảo rằng, “Lại đây, con. Nhìn ta này. Nhìn thẳng vào mắt ta.”
+Lúc này, người Do Thái gọi cô bé lại gần, bảo rằng, “Lại đây, con bé. Nhìn ta này. Nhìn thẳng vào mắt ta.”
 
 Cô bé làm theo.
 

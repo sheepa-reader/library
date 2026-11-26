@@ -1,6 +1,6 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI TÁM: Bàn về Tín đồ Hành xác và về Auxerre
+# CHƯƠNG MƯỜI TÁM
 
 <p class="para-en">The first sign of the group they were following was their tracks. They had pocked the damp ground of the road with their footprints, as any large group walking would have; but every hundred yards or so they left an imprint where it seemed as though they had all fallen and pressed their bodies into the mud. Also, Thomas had noticed the white stumps of freshly snapped branches on trees near the road, with tracks leading up to those trees. When they got to the town of Ponchelvert, a strange sight greeted them.</p>
 
@@ -12,27 +12,27 @@
 
 <p class="para-en">He was still very much alive, however.</p>
 
-<p class="para-vi-sub">Tuy nhiên, gã vẫn còn sống sờ sờ.</p>
+<p class="para-vi-sub">Tuy nhiên, anh ta vẫn còn rất sống.</p>
 
 <p class="para-en">As the cart drew closer, they saw that he had been tied in place rather than nailed there, and his feet rested on a little platform, although he was wearing a crown of very real thorns. A ladder lay in the grass near him, as well as a bucket of water with a sponge on a long stick.</p>
 
-<p class="para-vi-sub">Khi chiếc xe kéo đến gần hơn, họ nhìn thấy gã được buộc chặt vào cây nhiều hơn là bị đóng đinh, và đôi chân gã đứng trên một chiếc bệ nhỏ, dù gã đang đội một chiếc vương miện làm bằng gai thật sự. Một chiếc thang nằm trên bãi cỏ gần chỗ gã, cùng với một xô nước đặt cạnh một miếng bọt biển cắm trên một chiếc gậy dài.</p>
+<p class="para-vi-sub">Khi chiếc xe kéo đến gần hơn, họ nhìn thấy anh ta được buộc chặt vào cây nhiều hơn là bị đóng đinh, và đôi chân anh ta đứng trên một chiếc bệ nhỏ, dù anh ta đang đội một chiếc vương miện làm bằng gai thật sự. Một chiếc thang nằm trên bãi cỏ gần chỗ anh ta, cùng với một xô nước đặt cạnh một miếng bọt biển cắm trên một chiếc gậy dài.</p>
 
 <p class="para-en">He did not speak to them as they approached, though he watched them the whole way. Père Matthieu stopped the mule and they all looked at him, dumbstruck.</p>
 
-<p class="para-vi-sub">Người lùn không nói gì với họ khi họ đến gần, dẫu cho đôi mắt gã vẫn dán chặt theo họ trên suốt chặng đường. Cha Matthieu dừng con la lại và tất cả bọn họ sững sờ nhìn gã.</p>
+<p class="para-vi-sub">Người lùn không nói gì với họ khi họ đến gần, dẫu cho anh ta vẫn dán mắt theo họ trên suốt chặng đường. Cha Matthieu dừng con la lại và tất cả bọn họ sững sờ nhìn anh ta.</p>
 
 <p class="para-en">He nodded at the bucket.</p>
 
-<p class="para-vi-sub">Gã hất cằm về phía xô nước.</p>
+<p class="para-vi-sub">Anh ta hất cằm về phía xô nước.</p>
 
 <p class="para-en">Delphine clambered out of the cart and soaked the sponge, which she then held up to his mouth. He lipped at the sponge in a way that made her think of a sheep.</p>
 
-<p class="para-vi-sub">Delphine trèo khỏi xe kéo, nhúng ướt miếng bọt biển rồi đưa lên miệng gã. Gã mím môi vào miếng bọt biển theo cách khiến cô bé liên tưởng đến một con cừu.</p>
+<p class="para-vi-sub">Delphine trèo khỏi xe kéo, nhúng ướt miếng bọt biển rồi đưa lên miệng anh ta. Anh ta mím môi vào miếng bọt biển theo cách khiến cô bé liên tưởng đến một con cừu.</p>
 
 <p class="para-en">“Do you want to come down?” she said.</p>
 
-<p class="para-vi-sub">“Bác có muốn xuống không?” Delphine hỏi.</p>
+<p class="para-vi-sub">“Anh có muốn xuống không?” Delphine hỏi.</p>
 
 <p class="para-en">He shook his head.</p>
 
@@ -40,7 +40,7 @@
 
 <p class="para-en">“Are you sworn to silence?”</p>
 
-<p class="para-vi-sub">“Bác đã thề giữ im lặng à?”</p>
+<p class="para-vi-sub">“Anh đã thề giữ im lặng à?”</p>
 
 <p class="para-en">“No,” he said. “They didn’t say anything about that.”</p>
 
@@ -64,11 +64,11 @@
 
 <p class="para-en">He closed his eyes now, moving his lips silently in prayer.</p>
 
-<p class="para-vi-sub">Lúc này gã nhắm nghiền mắt lại, đôi môi mấp máy cầu nguyện trong im lặng.</p>
+<p class="para-vi-sub">Lúc này anh ta nhắm nghiền mắt lại, đôi môi mấp máy cầu nguyện trong im lặng.</p>
 
 <p class="para-en">“Pardon me,” Delphine said.</p>
 
-<p class="para-vi-sub">“Thứ lỗi cho cháu,” Delphine lên tiếng.</p>
+<p class="para-vi-sub">“Thứ lỗi cho tôi,” Delphine lên tiếng.</p>
 
 <p class="para-en">“What?”</p>
 
@@ -76,11 +76,11 @@
 
 <p class="para-en">“You should come down,” she said. “That can’t be good for you.”</p>
 
-<p class="para-vi-sub">“Bác nên xuống đi,” Delphine nói. “Việc đó chẳng tốt lành gì cho bác đâu.”</p>
+<p class="para-vi-sub">“Anh nên xuống đi,” Delphine nói. “Việc đó chẳng tốt lành gì cho anh đâu.”</p>
 
 <p class="para-en">“I have two days to go. I’m only on my first day, and each town is to crucify someone for three days. Don’t you know?”</p>
 
-<p class="para-vi-sub">“Tôi còn hai ngày nữa. Tôi mới chỉ bước sang ngày đầu tiên của mình, và mỗi thị trấn phải đóng đinh một người trong ba ngày. Cô bé không biết gì sao?”</p>
+<p class="para-vi-sub">“Tôi còn hai ngày nữa. Tôi mới chỉ bước sang ngày đầu tiên của mình, và mỗi thị trấn phải đóng đinh một người trong ba ngày. Cô không biết gì sao?”</p>
 
 <p class="para-en">“No,” she said.</p>
 
@@ -96,7 +96,7 @@
 
 <p class="para-en">“If you’re going to make me talk, give me more water. My throat hurts.”</p>
 
-<p class="para-vi-sub">“Nếu cô bé định bắt tôi nói chuyện, hãy cho tôi thêm nước đi. Cổ họng tôi đau quá.”</p>
+<p class="para-vi-sub">“Nếu cô định bắt tôi nói chuyện, hãy cho tôi thêm nước đi. Cổ họng tôi đau quá.”</p>
 
 <p class="para-en">She dipped the sponge again and held it aloft for him.</p>
 
@@ -116,7 +116,7 @@
 
 <p class="para-en">“Who decides how wicked your town is?” said Père Matthieu, fascinated.</p>
 
-<p class="para-vi-sub">“Ai quyết định thị trấn của bác tội lỗi đến mức nào thế?” cha Matthieu hỏi với vẻ đầy tò mò.</p>
+<p class="para-vi-sub">“Ai quyết định thị trấn của anh tội lỗi đến mức nào thế?” cha Matthieu hỏi với vẻ đầy tò mò.</p>
 
 <p class="para-en">“They do.”</p>
 
@@ -124,7 +124,7 @@
 
 <p class="para-en">“Were you out in the rain?” Delphine asked.</p>
 
-<p class="para-vi-sub">“Bác có phải ở ngoài trời trong trận mưa không?” Delphine hỏi.</p>
+<p class="para-vi-sub">“Anh có phải ở ngoài trời trong trận mưa không?” Delphine hỏi.</p>
 
 <p class="para-en">“They came after the rain. They came yesterday.”</p>
 
@@ -132,7 +132,7 @@
 
 <p class="para-en">“Do you have to stay out all night?” she said.</p>
 
-<p class="para-vi-sub">“Bác có phải ở ngoài suốt cả đêm không?” Delphine nói.</p>
+<p class="para-vi-sub">“Anh có phải ở ngoài suốt cả đêm không?” Delphine nói.</p>
 
 <p class="para-en">He tried to ignore her and return to his prayers, but she repeated her question.</p>
 
@@ -160,15 +160,15 @@
 
 <p class="para-en">“Why you?”</p>
 
-<p class="para-vi-sub">“Tại sao lại là bác?”</p>
+<p class="para-vi-sub">“Tại sao lại là anh?”</p>
 
 <p class="para-en">“What?” he said again, clearly annoyed.</p>
 
-<p class="para-vi-sub">“Gì chứ?” gã lại hỏi, rõ là tỏ vẻ khó chịu.</p>
+<p class="para-vi-sub">“Gì chứ?” anh ta lại hỏi, rõ là tỏ vẻ khó chịu.</p>
 
 <p class="para-en">“Why did they pick you? Did you volunteer?”</p>
 
-<p class="para-vi-sub">“Tại sao họ lại chọn bác? Bác tự nguyện à?”</p>
+<p class="para-vi-sub">“Tại sao họ lại chọn anh? Anh tự nguyện à?”</p>
 
 <p class="para-en">“The town picks. They vote. It’s a big honor.”</p>
 
@@ -176,11 +176,11 @@
 
 <p class="para-en">Thomas laughed, and the dwarf gave him a dirty look.</p>
 
-<p class="para-vi-sub">Thomas bật cười, và người lùn ném cho gã một cái nhìn đầy bực dọc.</p>
+<p class="para-vi-sub">Thomas bật cười, và người lùn ném cho Thomas một cái nhìn đầy bực dọc.</p>
 
 <p class="para-en">“Are you sure they’re coming back for you?” Thomas said, still amused.</p>
 
-<p class="para-vi-sub">“Bác có chắc là họ sẽ quay lại tìm bác không đấy?” Thomas nói, vẫn giữ vẻ thích thú.</p>
+<p class="para-vi-sub">“Anh có chắc là họ sẽ quay lại tìm anh không đấy?” Thomas nói, vẫn giữ vẻ thích thú.</p>
 
 <p class="para-en">The dwarf went back to his prayers.</p>
 
@@ -192,7 +192,7 @@
 
 <p class="para-en">“Because if it were me up there, I’d start thinking maybe the good people would leave me on the cross to make sure God was happy. Did you think of that?”</p>
 
-<p class="para-vi-sub">“Bởi vì nếu tao ở trên đó, tao sẽ bắt đầu nghĩ rằng có lẽ những con người lương thiện kia sẽ bỏ mặc tao trên cây thập giá để chắc chắn rằng Chúa được vui lòng. Bác đã nghĩ đến điều đó chưa?”</p>
+<p class="para-vi-sub">“Bởi vì nếu là tôi ở trên đó, tôi sẽ bắt đầu nghĩ rằng có lẽ những con người lương thiện kia sẽ bỏ mặc tôi trên cây thập giá để chắc chắn rằng Chúa được vui lòng. Anh đã nghĩ đến điều đó chưa?”</p>
 
 <p class="para-en">“…non solum poenas a Te iuste statutas promeritus sum, sed praesertim quia offendi…”</p>
 
@@ -204,23 +204,23 @@
 
 <p class="para-en">“I think you should take him down.”</p>
 
-<p class="para-vi-sub">“Cháu nghĩ chú nên đưa bác ấy xuống.”</p>
+<p class="para-vi-sub">“Cháu nghĩ chú nên đưa anh ta xuống.”</p>
 
 <p class="para-en">“He clearly wants to stay there,” the priest said.</p>
 
-<p class="para-vi-sub">“Rõ ràng là gã muốn ở lại đó mà,” vị linh mục nói.</p>
+<p class="para-vi-sub">“Rõ ràng là anh ta muốn ở lại đó mà,” vị linh mục nói.</p>
 
 <p class="para-en">Thomas smiled. He knew the girl wanted to keep the man from harm; Thomas liked the idea less for that reason and more because he knew the dwarf would fuss about it, and he was glad to do something good that was also entertaining.</p>
 
-<p class="para-vi-sub">Thomas mỉm cười. Gã biết cô bé muốn bảo vệ người đàn ông này khỏi tổn thương; Thomas thích ý tưởng đó ít phải vì lý do ấy và nhiều hơn là vì gã biết người lùn sẽ làm ầm lên vì chuyện này, và gã rất vui được làm một việc tốt mà lại vừa mang tính giải trí.</p>
+<p class="para-vi-sub">Thomas mỉm cười. Anh biết cô bé muốn bảo vệ người đàn ông này khỏi tổn thương; Thomas thích ý tưởng đó ít phải vì lý do ấy và nhiều hơn là vì anh biết người lùn sẽ làm ầm lên vì chuyện này, và anh rất vui được làm một việc tốt mà lại vừa mang tính giải trí.</p>
 
 <p class="para-en">He didn’t expect the fight he got, though. As soon as he untied the dwarf’s feet, the small man started kicking at Thomas so hard he made the cross rock; it was all Thomas could do to keep the ladder upright, especially since he was laughing the whole time. Delphine furrowed her brow at Thomas’s attitude, and the priest paced restlessly, afraid one of them would be hurt.</p>
 
-<p class="para-vi-sub">Tuy nhiên, gã không ngờ mình lại gặp phải sự kháng cự dữ dội đến thế. Ngay khi gã cởi trói cho đôi chân của người lùn, gã đàn ông thấp bé bắt đầu tung cước đá vào Thomas mạnh đến mức làm cây thánh giá chao đảo; Thomas phải chật vật hết sức mới giữ cho chiếc thang đứng vững, nhất là khi gã cứ cười nắc nẻ suốt cả quãng thời gian đó. Delphine chau mày trước thái độ của Thomas, còn vị linh mục thì bồn chồn đi qua đi lại, sợ rằng một trong hai người bọn họ sẽ bị thương.</p>
+<p class="para-vi-sub">Tuy nhiên, anh không ngờ mình lại gặp phải sự kháng cự dữ dội đến thế. Ngay khi anh cởi trói cho đôi chân của người lùn, gã đàn ông thấp bé bắt đầu tung cước đá vào Thomas mạnh đến mức làm cây thánh giá chao đảo; Thomas phải chật vật hết sức mới giữ cho chiếc thang đứng vững, nhất là khi anh cứ cười nắc nẻ suốt cả quãng thời gian đó. Delphine chau mày trước thái độ của Thomas, còn vị linh mục thì bồn chồn đi qua đi lại, sợ rằng một trong hai người bọn họ sẽ bị thương.</p>
 
 <p class="para-en">Thomas had the dwarf over his shoulder and nearly down the ladder when his burden kicked against the side of the cross and tipped the ladder, spilling them both into the soggy grass.</p>
 
-<p class="para-vi-sub">Thomas đã vác được người lùn lên vai và gần như đưa được xuống tới chân thang thì kẻ đang gánh trên vai vùng vẫy đá mạnh vào cạnh cây thánh giá làm chiếc thang nghiêng ngả, hất cả hai ngã nhào xuống thảm cỏ ướt sũng.</p>
+<p class="para-vi-sub">Thomas đã vác được người lùn lên vai và gần như đưa được xuống tới chân thang thì gã đang gánh trên vai vùng vẫy đá mạnh vào cạnh cây thánh giá làm chiếc thang nghiêng ngả, hất cả hai ngã nhào xuống thảm cỏ ướt sũng.</p>
 
 <p class="para-en">“You little bastard,” Thomas said, angry now.</p>
 
@@ -232,7 +232,7 @@
 
 <p class="para-en">The dwarf tried to climb the cross and resume his place, but Thomas grabbed him by the britches and hauled him down again.</p>
 
-<p class="para-vi-sub">Gã người lùn cố leo lên cây thập giá để quay lại vị trí cũ, nhưng Thomas tóm lấy quần gã và lôi xềnh xệch xuống đất.</p>
+<p class="para-vi-sub">Gã người lùn cố leo lên cây thập giá để quay lại vị trí cũ, nhưng Thomas tóm lấy quần hắn và lôi xềnh xệch xuống đất.</p>
 
 <p class="para-en">“I want to save my town!” the dwarf screamed, with tears of frustration in his eyes, and the game lost its humor even for Thomas.</p>
 
@@ -240,7 +240,7 @@
 
 <p class="para-en">“Do you really want to go back up there?” Thomas asked.</p>
 
-<p class="para-vi-sub">“Bác thực sự muốn quay lại trên đó lắm à?” Thomas hỏi.</p>
+<p class="para-vi-sub">“Anh thực sự muốn quay lại trên đó lắm à?” Thomas hỏi.</p>
 
 <p class="para-en">The man sat down in the grass and looked bewildered.</p>
 
@@ -248,7 +248,7 @@
 
 <p class="para-en">“I don’t know,” he said. “But don’t you see? This is the one thing I can do as well as anyone else. I can’t plow. I can’t build. But I can suffer. God wants suffering now.”</p>
 
-<p class="para-vi-sub">Gã nói: “Tôi không biết. Nhưng ông không thấy sao? Đây là việc duy nhất tôi có thể làm tốt như bất kỳ ai khác. Tôi không thể cày bừa. Tôi không thể xây cất. Nhưng tôi có thể chịu đựng. Chúa muốn sự chịu đựng vào lúc này.”</p>
+<p class="para-vi-sub">Gã nói: “Ta không biết. Nhưng ngươi không thấy sao? Đây là việc duy nhất ta có thể làm tốt như bất kỳ ai khác. Ta không thể cày bừa. Ta không thể xây cất. Nhưng ta có thể chịu đựng. Chúa muốn sự chịu đựng vào lúc này.”</p>
 
 <p class="para-en">The priest opened his mouth to contradict the man, but nothing came out.</p>
 
@@ -256,11 +256,11 @@
 
 <p class="para-en">“Shit,” Thomas said.</p>
 
-<p class="para-vi-sub">“Mẹ kiếp,” Thomas thốt lên.</p>
+<p class="para-vi-sub">“Chết tiệt,” Thomas thốt lên.</p>
 
 <p class="para-en">And then he hauled the dwarf back up the cross and tied him fast.</p>
 
-<p class="para-vi-sub">Rồi gã lôi người lùn ngược lên thập tự giá và trói chặt lại.</p>
+<p class="para-vi-sub">Rồi anh lôi gã lùn ngược lên thập tự giá và trói chặt lại.</p>
 
 <p class="para-en">Emma LaTour looked out from the darkness of her house, stunned by the beauty of the day; except for visits to the well, she had not left her home since her Richard had been racked with pains by the fence and died there. At the end, he had been grabbing his knees, and now his joints had locked him in a parody of childbirth, bloated like a dead dog or sheep. How was she to believe man was anything special when he looked so much like any other animal in death? He was just a rained-on, ruined carcass, as if he had never kissed her, as if he had never danced. The beautiful blue sky seemed to mock him, as did the bulk of the St. Etienne cathedral and the spire of the abbey, both of these stabbing upward from the high ground across the river in Auxerre. Nothing but false promises lay across the river, or up in the sky.</p>
 
@@ -288,19 +288,19 @@
 
 <p class="para-en">And der angel open der seal, and all of Auxerre behold</p>
 
-<p class="para-vi-sub">Thiên thần mở ấn nhiệm màu, Auxerre muôn nẻo cùng nhau ngước nhìn.</p>
+<p class="para-vi-sub">Thiên thần mở ấn nhiệm màu,</p>
 
 <p class="para-en">For they are afraid, but now der holy men are come</p>
 
-<p class="para-vi-sub">Dẫu lòng khiếp sợ, lặng thinh,</p>
+<p class="para-vi-sub">Auxerre muôn nẻo cùng nhau ngước nhìn. Dẫu lòng khiếp sợ, lặng thinh,</p>
 
 <p class="para-en">So holy from Gott in Heaven, to make miracles on der square,</p>
 
-<p class="para-vi-sub">Người thiêng nay đã hiện hình nơi đây. Ơn thiêng từ Chúa trời mây,</p>
+<p class="para-vi-sub">Người thiêng nay đã hiện hình nơi đây.</p>
 
 <p class="para-en">Come and see!</p>
 
-<p class="para-vi-sub">Giáng bao phép lạ giữa ngay quảng trường.</p>
+<p class="para-vi-sub">Ơn thiêng từ Chúa trời mây, Giáng bao phép lạ giữa ngay quảng trường.</p>
 
 <p class="para-en">In front of der church,</p>
 
@@ -308,19 +308,19 @@
 
 <p class="para-en">but not in it,</p>
 
-<p class="para-vi-sub">Đến xem phép lạ phi thường hiện ra! Trước thềm nhà thờ nguy nga,</p>
+<p class="para-vi-sub">Đến xem phép lạ phi thường hiện ra!</p>
 
 <p class="para-en">for thrown down are the priests</p>
 
-<p class="para-vi-sub">Chứ không bên trong, hãy ra mà nhìn.</p>
+<p class="para-vi-sub">Trước thềm nhà thờ nguy nga, Chứ không bên trong, hãy ra mà nhìn.</p>
 
 <p class="para-en">and dead are der bishops.</p>
 
-<p class="para-vi-sub">Linh mục đã ngã, lặng im, Giám mục cũng đã nằm im bên đường.</p>
+<p class="para-vi-sub">Linh mục đã ngã, lặng im,</p>
 
 <p class="para-en">Come and see! Come and see!</p>
 
-<p class="para-vi-sub">Đến xem! Hãy đến mà tường!</p>
+<p class="para-vi-sub">Giám mục cũng đã nằm im bên đường. Đến xem! Hãy đến mà tường!</p>
 
 <p class="para-en">People of Auxerre, come and see!</p>
 
@@ -472,7 +472,7 @@
 
 <p class="para-en">“Speak on!” someone yelled.</p>
 
-<p class="para-vi-sub">“Các người đưa ông ấy đi đâu vậy?” Emma hỏi, để một chút ánh sáng mặt trời chiếu lên khuôn mặt để họ có thể nhìn thấy mình. Bà nhăn mặt vì ánh sáng mặt trời cũng nhiều như vì sợ hãi phản ứng của họ trước sắc diện của mình, nhưng bà không làm họ giật mình. Nếu họ nghĩ bà có làn da ngả vàng, thì họ tỏ ra rất lịch sự về điều đó.</p>
+<p class="para-vi-sub">“Các ngươi đưa ông ấy đi đâu vậy?” Emma hỏi, để một chút ánh sáng mặt trời chiếu lên khuôn mặt để họ có thể nhìn thấy mình. Bà nhăn mặt vì ánh sáng mặt trời cũng nhiều như vì sợ hãi phản ứng của họ trước sắc diện của mình, nhưng bà không làm họ giật mình. Nếu họ nghĩ bà có làn da ngả vàng, thì họ tỏ ra rất lịch sự về điều đó.</p>
 
 <p class="para-en">Another repeated it.</p>
 
@@ -480,7 +480,7 @@
 
 <p class="para-en">“Hup!” Rutger said, and the cruciform Penitents behind him stood, arms out, faces lifted to the sky.</p>
 
-<p class="para-vi-sub">“Các người đang chôn cất ông ấy sao?”</p>
+<p class="para-vi-sub">“Các ngươi đang chôn cất ông ấy sao?”</p>
 
 <p class="para-en">Some of them were sobbing.</p>
 
@@ -508,7 +508,7 @@
 
 <p class="para-en">“No, Emma. Come to Saint Etienne.”</p>
 
-<p class="para-vi-sub">Delphine ngủ rất say và không ai muốn đánh thức cô bé dậy khỏi giấc ngủ. Thomas đắp chiếc chăn ngựa của họ lên người Delphine, rồi gã và vị linh mục rời đi, đi vào khu rừng ẩm ướt giáp ranh với cánh đồng để tìm những cành cây khô đủ sức đốt cháy.</p>
+<p class="para-vi-sub">Delphine ngủ rất say và không ai muốn đánh thức cô bé dậy khỏi giấc ngủ. Thomas đắp chiếc chăn ngựa của họ lên người Delphine, rồi anh và vị linh mục rời đi, đi vào khu rừng ẩm ướt giáp ranh với cánh đồng để tìm những cành cây khô đủ sức đốt cháy.</p>
 
 <p class="para-en">So saying, they carted her Richard away, his knees still locked against his chest, the little blond boy now visible, skipping before them through the thistles and singing a song in German.</p>
 
@@ -576,7 +576,7 @@
 
 <p class="para-en">What would happen to the souls in Heaven if the angels lost? Would they have to go back to their bodies? Now she imagined her mother and father at the end of a stick, jerking beneath a devil’s hand in a parody of a dance.</p>
 
-<p class="para-vi-sub">Thomas phát hiện chiếc xe trống không, với những dòng chữ viết trên thành xe. Gã đặt bó củi nhỏ và hạt dẻ của mình xuống đất rồi gọi vị linh mục lại.</p>
+<p class="para-vi-sub">Thomas phát hiện chiếc xe trống không, với những dòng chữ viết trên thành xe. Anh đặt bó củi nhỏ và hạt dẻ của mình xuống đất rồi gọi vị linh mục lại.</p>
 
 <p class="para-en">Stay in the cart.</p>
 
@@ -784,7 +784,7 @@
 
 <p class="para-en">Death, will you release this man?</p>
 
-<p class="para-vi-sub">“Điều này là sai trái!” Emma hét lên, chỉ trỏ cây gậy của mình. Và rồi, với một giọng điệu đầy thảm hại, bà tiếp tục: “Hãy để mặc ông ấy.”</p>
+<p class="para-vi-sub">“Thế này là sai trái!” Emma hét lên, chỉ trỏ cây gậy của mình. Và rồi, với một giọng điệu đầy thảm hại, bà tiếp tục: “Hãy để mặc ông ấy.”</p>
 
 <p class="para-en">—YES, LOVE, YES!</p>
 
@@ -792,15 +792,15 @@
 
 <p class="para-en">After three savage whip blows, Richard unbent his legs and rolled over on his stomach. He lacked the strength in his limbs to stand unaided, so the acolytes helped him. He swayed there, his simple cap still tied below his chin, moving his ruined jaw as if to speak, but nothing came out. Another half dozen broke and ran, including two shirtless Penitents who had come from the last town.</p>
 
-<p class="para-vi-sub">“Chỉ có Đấng Christ mới có quyền làm cho kẻ chết sống lại. Và tôi không nghĩ ngươi chính là Ngài.”</p>
+<p class="para-vi-sub">“Chỉ có Đấng Christ mới có quyền làm cho kẻ chết sống lại. Và ta không cho rằng ngươi chính là Ngài.”</p>
 
 <p class="para-en">“When these sisters and this brother are strong enough, I will send them to find the unbelievers who ran from this holy place. They are very good at finding. And all of you who march with me shall be proof against the plague; for if you die, I will make you live again, as you have seen with your own eyes.”</p>
 
-<p class="para-vi-sub">“Bà chắc chứ? Không có chỗ đứng ở giữa đâu. Tốt hơn là bà nên chắc chắn đi.”</p>
+<p class="para-vi-sub">“Bà chắc chứ? Không có chỗ đứng ở giữa đâu, ngươi biết đấy. Tốt hơn là bà nên chắc chắn đi.”</p>
 
 <p class="para-en">Emma, who had been watching all of this as if in a dream, moved forward shouting, “No!”</p>
 
-<p class="para-vi-sub">Emma nói: “Nếu ngươi là một người của Chúa, hãy đọc kinh Pater Noster đi.”</p>
+<p class="para-vi-sub">Emma nói: “Nếu ông là một người của Chúa, hãy đọc kinh Pater Noster đi.”</p>
 
 <p class="para-en">Rutger saw her, and said, “This woman fears her husband, even as Lazarus was feared. But her man will heal and love her once more. All these departed shall be restored to health. If you believe.”</p>
 
@@ -856,7 +856,7 @@
 
 <p class="para-en">Now a voice from the crowd spoke up.</p>
 
-<p class="para-vi-sub">Cậu bé tóc vàng người Đức chạy đến chỗ cô bé, cuồng loạn hét lớn: “Was tust du?! Was tust du?” Em phớt lờ lời cậu bé và hất vai gạt cậu sang một bên, rồi hôn lên bàn tay của thiếu nữ bán rượu, người cũng biết ơn mà sụp đổ xuống.</p>
+<p class="para-vi-sub">Cậu bé tóc vàng người Đức chạy đến chỗ cô bé, cuồng loạn hét lớn: “Was tust du?! Was tust du?” Em phớt lờ lời cậu bé và hất vai gạt cậu bé sang một bên, lúc này đang hôn lên bàn tay của thiếu nữ bán rượu, người cũng biết ơn mà sụp đổ xuống.</p>
 
 <p class="para-en">“Stop it!”</p>
 
@@ -872,7 +872,7 @@
 
 <p class="para-en">As soon as she did, he collapsed and returned to death.</p>
 
-<p class="para-vi-sub">Delphine nhìn cậu bé, ánh mắt buồn bã và sáng rực sắc xám xuyên thấu qua cả cậu, rồi dịu dàng nói: “Ta rất tiếc. Đó không phải lỗi của ngươi. Nhưng ngươi cũng đã chết rồi.”</p>
+<p class="para-vi-sub">Delphine nhìn cậu bé, ánh mắt buồn bã và sáng rực sắc xám xuyên thấu qua cả cậu bé, rồi dịu dàng nói: “Ta rất tiếc. Đó không phải lỗi của ngươi. Nhưng ngươi cũng đã chết rồi.”</p>
 
 <p class="para-en">“No!” Rutger shouted.</p>
 
@@ -988,24 +988,24 @@
 
 <p class="para-en">Rutger, who was a head taller than he had been, started moving toward Delphine, flinging the blind out of his way; his eyes seemed to be multiplying, now four, now eight. The ghastly horse at the far end of the square reared, the hands at the ends of its forelegs grasping at the air.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Người nhìn thẳng vào cô bé.</p>
 
 <p class="para-en">Now Delphine saw the angel; it stood in an alley, unseen by the devils in the square, more purely itself than it had been upon the mule. Its beauty crushed something inside Delphine and made nectar of it.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Sau đó, với một chút sức lực dường như rất nhỏ, vị thiên thần xô sập cửa hàng của người thợ làm găng tay nằm sát bên cạnh, một người phụ nữ hét lên từ tầng trên; tòa nhà đổ sập nặng nề giữa Delphine và lũ quỷ, che khuất tầm nhìn của chúng đối với cô bé.</p>
 
 <p class="para-en">It looked right at her.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Vị thiên thần chỉ thốt ra đúng một từ.</p>
 
 <p class="para-en">Then, with what seemed very little effort, it pushed over the glover’s shop it stood next to, a woman screaming from the top floor; the building fell heavily between Delphine and the devils, shielding her from their view.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Người bảo, Chạy đi.</p>
 
 <p class="para-en">The angel said only one word.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Người bảo, Chạy đi.</p>
 
 <p class="para-en">It said, Run.</p>
 
-<p class="para-vi-sub"></p>
+<p class="para-vi-sub">Người bảo, Chạy đi.</p>

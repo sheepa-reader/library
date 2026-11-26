@@ -1,6 +1,6 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI CHÍN: Về Cuộc Chiến Đang Đến Gần
+# CHƯƠNG MƯỜI CHÍN
 
 <p class="para-en">The wind picked up, now rushing north, then turning hard south as though something massive were sucking air in and blowing it out again. Thomas and the priest looked at one another, the sound of the rustling leaves thick around them and the sky seeming to glow faintly green, though the sun was well down.</p>
 

@@ -1,10 +1,10 @@
 *Phần I*
 
-# CHƯƠNG MỘT: Về con lừa
+# CHƯƠNG MỘT
 
-Lũ lính tìm thấy con lừa vào ngày thứ Sáu. Nó bị thọt chân và những chiếc xương sườn dễ dàng đếm được; nó quá yếu để chạy trốn chúng hay thậm chí bật ra một tiếng kêu, nhưng dường như nó không mắc bệnh. Nó chỉ đơn giản là già.
+Lũ lính tìm thấy con lừa vào ngày thứ Sáu. Nó bị thọt chân và những chiếc xương sườn dễ dàng đếm được; nó quá yếu để chạy trốn chúng hay thậm chí để kêu la, nhưng dường như nó không mắc bệnh. Nó chỉ đơn giản là già.
 
-Nó nhìn chúng đầy hy vọng từ dưới gốc cây liễu, quật đuôi xua đám ruồi. Godefroy, kẻ chẳng ai hiểu sao vẫn giữ được thân hình béo tốt ấy, cầm lấy cây búa chiến định đập chết nó, nhưng Thomas đã ngăn gã lại. Thomas chỉ tay về phía cái kho. Khôn ngoan hơn cả là dắt nó vào kho trước, nơi bọn họ có thể tránh cơn mưa sắp tới. Godefroy gật đầu đồng ý.
+Nó nhìn chúng đầy hy vọng từ dưới gốc cây liễu, quật đuôi xua đám ruồi. Godefroy, chẳng ai hiểu sao hắn vẫn giữ được thân hình béo tốt ấy, cầm lấy cây búa chiến định đập chết nó, nhưng Thomas đã ngăn gã lại. Thomas chỉ tay về phía cái kho. Khôn ngoan hơn cả là dắt nó vào kho trước, nơi bọn họ có thể tránh cơn mưa sắp tới. Godefroy gật đầu đồng ý.
 
 Bốn người đàn ông đã lê bước trên đường trong những bộ quần áo rách rưới và áo giáp gỉ sét suốt nhiều tuần liền mà không có nổi một bữa ăn đàng hoàng, sống qua ngày bằng thức ăn ôi thiu nhặt từ các ngôi nhà, rau dền nước và ngọn búp bồ công anh dưới mương, giun, côn trùng, hạt sồi, thậm chí cả một con mèo thối. Tất cả bọn họ đã ăn quá nhiều cỏ đến mức nước tiểu có màu xanh lá. Căn bệnh ở đây thật tàn nhẫn; nó cướp đi sinh mạng của biết bao nông dân đến mức chẳng còn lấy một mẩu bánh mì ngay cả ở vùng thung lũng màu mỡ này. Không còn đủ nhân lực để vung liềm, chẳng đủ phụ nữ chịu tụ tập để tuốt lúa, cũng chẳng có thợ xay để nghiền bột hay thợ làm bánh để nhóm lò. Căn bệnh mà họ gọi là Đại Diệt Vong lây lan bí ẩn nhưng chắc chắn từ người này sang người khác, dễ dàng như cái bắt tay của những người đàn ông, hay tiếng một đứa trẻ gọi tên bạn, hoặc ánh mắt giao thoa giữa hai người phụ nữ. Giờ đây, không ai dám nhìn hay nói chuyện với hàng xóm của mình nữa. Nó giáng xuống phần đất này của Normandy nặng nề đến mức những kẻ chết chẳng thể chôn cất; họ bị chất đống bên ngoài trong những chiếc áo dài bẩn thỉu, bốc mùi nồng nặc dưới cái nắng tháng Tám và ruồi nhặng bu đen kín xung quanh. Họ nằm ngổn ngang trong những cánh đồng lúa mạch đen và lúa yến mạch cỏ dại mọc đầy, nơi họ đã chạy trốn trong cơn mê sảng. Họ nằm thảm hại dưới bóng mát của nhà thờ thị trấn, nơi họ lê lết tới với hy vọng cử chỉ cuối cùng ấy sẽ làm giảm bớt thời gian trong luyện ngục, dính chặt như những con chim bị bám keo vào bức tường đá vôi khi họ cố làm dịu cái đầu đang hầm hập sốt. Vài kẻ phóng uế ngay trong nhà bởi họ là những người cuối cùng còn sống và chẳng có ai mang họ ra ngoài. Những kẻ có điều kiện đã tháo chạy, nhưng nhiều lần cơn dịch vẫn bám đuổi họ tận lên đồi núi, đầm lầy lẫn điền trang rồi tước đi mạng sống của họ ở đó.
 
@@ -12,19 +12,19 @@ Lũ lính nhóm một đống lửa trong kho, ngay sát một con suối nhỏ 
 
 Mặt trời đang lặn xuống nhuộm một màu cam rực rỡ bên dưới khe hở của tầng mây xám chì vừa chớm rắc những giọt mưa đầu tiên thì cô bé thò đầu vào cửa kho.
 
-“Con chào các ngài,” cô bé nói.
+“Cháu chào các chú,” cô bé nói.
 
 Tất cả những người đàn ông đều ngừng nhai, ngoại trừ Thomas.
 
 Cô bé đang ở độ tuổi thật oái oăm để gặp những gã này; vừa quá lớn để được an toàn và vừa quá nhỏ để hiểu lý do tại sao. Mái tóc vàng nhạt, thứ vốn dĩ có thể xinh xắn nếu không bết bát và ẩm ướt, rũ rượi áp vào cổ cô, và đôi bàn chân đang trong độ tuổi phát triển to hơn phần còn lại của cơ thể, trông quá khổ so với đôi chân gầy guộc như que củi.
 
-“Con chào các ngài,” cô bé lại nói thêm lần nữa.
+“Cháu chào các chú,” cô bé lại nói thêm lần nữa.
 
-“Chào cô bé,” Godefroy nói, rướn thân hình gầy đét về phía cô như một con mèo đang giương mắt nhìn chim.
+“Chào cô nhóc,” Godefroy nói, rướn thân hình gầy đét về phía cô như một con mèo đang giương mắt nhìn chim.
 
-“Các ngài đang ăn con Củ Cải đấy à,” cô bé nói với giọng tỉnh bơ.
+“Các chú đang ăn con Củ Cải đấy à,” cô bé nói với giọng tỉnh bơ.
 
-“Đây là thịt lừa. Con có muốn ăn một miếng không?”
+“Đây là thịt lừa. Cháu có muốn ăn một miếng không?”
 
 Câu nói sau nghe có vẻ thân thiện nếu như Godefroy không vỗ vỗ vào thanh xà mục nát mà hắn đang ngồi. Cô bé nên đến ngồi gần hắn nếu muốn có đồ ăn.
 
@@ -40,9 +40,9 @@ Những kẻ còn lại bật cười.
 
 Chỉ có Thomas vẫn tiếp tục ăn. Những kẻ còn lại dán mắt vào cô bé. Cô bé vẫn đứng chôn chân ở đó.
 
-“Lại đây ngồi gần tao nào,” Godefroy nói, lại vỗ vỗ vào thanh xà. Bằng bàn tay kia, hắn hất lọn tóc đen xơ xác sang một bên. Hắn đeo những món trang sức chẳng hề phù hợp với một kẻ bẩn thỉu như vậy. Ánh mắt cô bé dán chặt vào cây thánh giá bằng đá jasper trên chiếc vòng cổ bằng vàng, thứ mà chỉ vợ của lãnh chúa mới mang.
+“Lại đây ngồi gần tao nào,” Godefroy nói, lại vỗ vỗ vào thanh xà. Bằng bàn tay kia, hắn hất lọn tóc đen xơ xác sang một bên. Hắn đeo những món trang sức chẳng hề phù hợp với một kẻ bẩn thỉu như vậy. Ánh mắt cô bé dán chặt vào cây thánh giá bằng đá jasper trên chiếc vòng cổ bằng vàng; thứ mà chỉ vợ của lãnh chúa mới mang.
 
-“Con cần giúp đỡ,” cô bé nói.
+“Cháu cần giúp đỡ,” cô bé nói.
 
 “Lại đây ngồi xuống rồi kể cho tao nghe nào.”
 
@@ -56,7 +56,7 @@ Cô đặt trọn niềm tin vào vị thiên thần hộ mệnh của mình d�
 
 Cô không chạy.
 
-“Con cần người giúp chôn cất cha con.”
+“Tôi cần người giúp chôn cất ba tôi.”
 
 “Đồ con ranh ngốc nghếch, chẳng còn ai lo chôn cất nữa đâu. Tất cả chúng ta đang ở trong một cái huyệt mả rồi đây. Cứ ném xác ổng ra ngoài đó. Sẽ có kẻ đến dọn thôi.”
 
@@ -64,11 +64,11 @@ Cô không chạy.
 
 “Tao làm sao mà quỷ tha ma bắt biết được? Đây là cái làng khốn khổ thảm hại của mày cơ mà. Chắc là dăm mụ sơ hay mấy lão tu sĩ gì đó. Mà thôi, ai nấy cũng toàn vứt xác ra ngoài đường hết rồi.”
 
-“Con không nhấc nổi ổng lên.”
+“Tôi không nhấc nổi ổng lên.”
 
 “Ồ, thế thì tao cũng chẳng nhấc đâu. Tao sống đến tầm này không phải để vác mấy cái xác nông dân chết tiệt mà chuốc lấy thứ dịch bệnh đó vào người.”
 
-“Cha con không phải nông dân.”
+“Ba tôi không phải nông dân.”
 
 “Tao thực sự đéo quan tâm đâu.”
 
@@ -82,13 +82,13 @@ Cô bé thấy mến Thomas.
 
 “Khoan đã,” Godefroy lên tiếng, phớt lờ Thomas, rồi quay sang hỏi cô bé. “Nó đáng giá bao nhiêu với mày?”
 
-Bọn cướp đường. Đó chính xác là từ dùng để chỉ đám người này; những kẻ từng là binh lính trước khi cuộc chiến với người Anh nổ ra, nhưng giờ đây lại lang thang trên các con đường cái quan, hoặc ẩn nấp trong rừng sâu để cướp bóc dân lành. Ngay cả trước khi trận Đại Diệt Vong ập đến, cha của cô từng bàn tán với những người hàng xóm về việc phải làm gì nếu bọn cướp xuất hiện.
+Bọn cướp đường. Đó chính xác là từ dùng để chỉ đám người này; những kẻ từng là binh lính trước khi cuộc chiến với người Anh nổ ra, nhưng giờ đây lại lang thang trên các con đường cái quan, hoặc ẩn nấp trong rừng sâu để cướp bóc dân lành. Ngay cả trước khi trận Đại Diệt Vong ập đến, ba của cô từng bàn tán với những người hàng xóm về việc phải làm gì nếu bọn cướp xuất hiện.
 
 Giờ thì chúng đã ở đây và chẳng một ai có thể cứu giúp cô.
 
 Tại sao vị thiên thần hộ mệnh của cô lại bỏ đi? Tại sao người lại đẩy cô về phía những tên trộm cắp này?
 
-“Chúng con chỉ có chút ít bạc,” cô nói, “và vài cuốn sách.”
+“Chúng tôi chỉ có chút ít bạc,” cô nói, “và vài cuốn sách.”
 
 “Tao không cần bạc.”
 
@@ -96,7 +96,7 @@ Tại sao vị thiên thần hộ mệnh của cô lại bỏ đi? Tại sao ng�
 
 “Sách để tao chùi đít thì được. Tao muốn vàng.”
 
-“Con không có.”
+“Tôi không có.”
 
 “Chắc chắn là mày có.”
 
@@ -126,7 +126,7 @@ Tên mập là kẻ duy nhất bật cười, nhưng nụ cười đó thật nh
 
 “Con bé có thể đang mang mầm bệnh đấy,” tên mập cất tiếng cảnh báo, vừa nói vừa cặm cụi ăn tiếp.
 
-“Tao thà vớ lấy con bé còn hơn là vác cái xác của lão cha nó.”
+“Tao thà vớ lấy nó còn hơn là vác cái xác của lão ba nó.”
 
 “Buông con bé ra,” Thomas nói, và lần này đó không phải là một lời đề nghị. Gã đặt chiếc mũ rơm xuống bên cạnh mình. Gã cố làm điều đó bình thản nhất có thể, nhưng tên mập đã nhìn thấy và cũng cố tỏ ra thận trọng bằng cách nhổ phắt miếng thịt lừa quá khổ mà hắn vừa nhét vào miệng ra, rồi đặt phần còn lại lên chiếc túi da của mình.
 
@@ -174,13 +174,13 @@ Và giờ thì gã đàn ông có đôi mắt sụp mí đã nhìn thấy cô b�
 
 Tại sao thiên thần của cô lại không trừng phạt gã đàn ông này đến mù lòa, giống như cách họ từng làm với những kẻ tội lỗi ở Sodom và Gomorrah?
 
-“Trèo xuống đi, chim non,” Jacquot nói. “Tôi sẽ không làm cô bé đau đâu.”
+“Trèo xuống đi, chim non,” Jacquot nói. “Bọn ta sẽ không làm cô bé đau đâu.”
 
-“Có, anh sẽ làm thế,” cô bé nói, cố kéo chân giấu gọn dưới tà váy hết mức có thể.
+“Có, các người sẽ làm thế,” cô bé nói, cố kéo chân giấu gọn dưới tà váy hết mức có thể.
 
-“Được rồi, tôi sẽ làm thế. Nhưng không nhiều lắm và cũng chẳng lâu đâu. Có lẽ chỉ một đêm và một buổi sáng thôi. Rồi bọn tôi sẽ lên đường. Hoặc, tuyệt hơn nữa, bọn tôi có thể đưa cô bé đi cùng. Cô bé thích thế chứ? Bốn người chồng lực lưỡng và một lối thoát khỏi thị trấn này?”
+“Được rồi, tao sẽ làm thế. Nhưng không nhiều lắm và cũng chẳng lâu đâu. Có lẽ chỉ một đêm và một buổi sáng thôi. Rồi bọn tao sẽ lên đường. Hoặc, tuyệt hơn nữa! Bọn tao có thể đưa mày đi cùng. Mày thích thế chứ? Bốn người chồng lực lưỡng và một lối thoát khỏi thị trấn này?”
 
-“Không, cảm ơn anh.”
+“Không, cảm ơn các người.”
 
 Jacquot nhảy phốc lên một cành cây thấp và chắc chắn, giờ thì cao gần tới chỗ chân cô bé rồi, nhưng cô bé lại trèo cao hơn nữa. Cô bé nhẹ cân hơn gã rất nhiều. Gã sẽ thua trong trò chơi này mất.
 
@@ -188,25 +188,25 @@ Jacquot nhảy phốc lên một cành cây thấp và chắc chắn, giờ thì
 
 “Đừng cưỡng hiếp tôi,” cô bé nói.
 
-“Sẽ không gọi là cưỡng hiếp nếu cô bé đồng ý.”
+“Sẽ không gọi là cưỡng hiếp nếu mày đồng ý.”
 
 “Có chứ. Bởi vì tôi chỉ đồng ý để tránh bị bạo hành thôi.”
 
-“Thế thì rõ rồi đấy. Cô bé sẽ đồng ý để tránh bị đau đớn. Rất tốt. Trèo xuống đây mau, không thì tôi cho cô bé đau thật đấy.”
+“Thế thì rõ rồi đấy. Mày sẽ đồng ý để tránh bị đau đớn. Rất tốt. Trèo xuống đây mau, không thì tao cho mày đau thật đấy.”
 
 Jacquot bèn nhảy tùm xuống lại mặt đất.
 
 “Anh không nói thật đâu,” cô bé nói.
 
-“Tôi nói thật đấy.”
+“Tao nói thật đấy.”
 
 “Anh không phải là một kẻ xấu. Tôi không tin anh là thế.”
 
-“Tôi e rằng tôi chính là thế đấy.”
+“Tao e rằng tao chính là thế đấy.”
 
 “Nhưng anh đâu buộc phải làm thế!”
 
-“Xin lỗi nhé. Đã lỡ thành ra thế rồi. Giờ tôi thấy mấy hòn đá đẹp phết ở cạnh con suối kìa. Hay là tôi ra đó nhặt về rồi ném vào người cô bé cho đến khi chịu trèo xuống nhỉ?”
+“Xin lỗi nhé. Đã lỡ thành ra thế rồi. Giờ tao thấy mấy hòn đá đẹp phết ở cạnh con suối kìa. Hay là tao ra đó nhặt về rồi ném vào người mày cho đến khi mày chịu trèo xuống nhỉ?”
 
 Tán lá rậm rạp sẽ chẳng cho phép việc ném đá diễn ra thuận lợi, và Jacquot cũng không chắc mình có thể nhẫn tâm ném đá vào cô bé hay không, nhưng gã vẫn thốt lên như thể mình thực sự định làm vậy. Gã linh cảm rằng mình phải nhanh chóng đưa cô bé về chuồng ngựa.
 
@@ -224,11 +224,11 @@ Tán lá rậm rạp sẽ chẳng cho phép việc ném đá diễn ra thuận l
 
 “Không, ổng chưa chết.”
 
-“Đủ trò mèo rồi đấy. Trèo xuống mau, không thì tôi lấy đá ném cho rớt xuống đấy.”
+“Đủ trò mèo rồi đấy. Trèo xuống mau, không thì tao lấy đá ném cho rớt xuống đấy.”
 
 Cô bé đang khóc nghẹn. Jacquot tưởng cô sẽ vạch trần trò lừa bịp của mình, nhưng chẳng mấy chốc, cô đã tìm đến một cành cây thấp hơn bằng đôi chân dài lóng ngóng. Gã đỡ cô xuống và cảm nhận rõ cơ thể cô đang run lẩy bẩy. Gã thấy buồn nôn vì những gì mình đang làm, nhưng vẫn cố dằn lòng mình cho chai sạn. Gã quyết định nói chuyện với cô trong lúc xốc cô lên vai rồi quay bước trở về hướng chuồng ngựa.
 
-“Tôi biết việc này trông có vẻ tồi tệ, nhưng thực ra không phải vậy đâu. Nếu Chúa Trời muốn trật tự và lòng tốt ngự trị trên thế gian, Ngài đã chẳng làm mọi thứ trở nên quá khắc nghiệt với chúng ta như thế. Hết thảy chúng ta đều là những kẻ phải chết, cả đàn ông lẫn đàn bà. Ngài muốn hỗn mang và sự chết chăng? Vậy thì Ngài sẽ nhận lấy chúng, và chúng ta có quyền uy gì trong chuyện này cơ chứ? Tất cả những gì chúng ta có thể làm là cố gắng tận hưởng chút niềm vui trước khi kẻ cắt cỏ đến tìm chúng ta, phải thế không? Và hắn chắc chắn sẽ đến tìm chúng ta. Nếu cô thả lỏng ra, có lẽ cô sẽ thấy mọi chuyện không đến nỗi tệ lắm đâu.”
+“Ta biết việc này trông có vẻ tồi tệ, nhưng thực ra không phải vậy đâu. Nếu Chúa Trời muốn trật tự và lòng tốt ngự trị trên thế gian, Ngài đã chẳng làm mọi thứ trở nên quá khắc nghiệt với chúng ta như thế. Hết thảy chúng ta đều là những kẻ phải chết, cả đàn ông lẫn đàn bà. Ngài muốn hỗn mang và sự chết chăng? Vậy thì Ngài sẽ nhận lấy chúng, và chúng ta có quyền uy gì trong chuyện này cơ chứ? Tất cả những gì chúng ta có thể làm là cố gắng tận hưởng chút niềm vui trước khi kẻ cắt cỏ đến tìm chúng ta, phải thế không? Và hắn chắc chắn sẽ đến tìm chúng ta. Nếu cô thả lỏng ra, có lẽ cô sẽ thấy mọi chuyện không đến nỗi tệ lắm đâu.”
 
 “Anh chỉ nói những điều này để bản thân cảm thấy dễ chịu hơn mà thôi,” cô thốt lên, thở dốc trong nỗi sợ hãi trước những gì sắp xảy đến.
 
@@ -242,7 +242,7 @@ Godefroy đang trút những hơi thở cuối cùng, thô ráp và đứt quãn
 
 “Thả con bé xuống,” Thomas nói.
 
-“Tôi thả đây.”
+“Tao thả đây.”
 
 Mũi kiếm của Thomas chạm khẽ vào chiếc mũ trùm bằng vải dạ của Jacquot và dừng lại ngay sau vành tai hắn. Jacquot thừa biết kẻ đang cầm thanh kiếm ấy có thể đâm xuyên qua cả mũ trùm lẫn hộp sọ dễ dàng chẳng khác gì bổ một quả bí.
 
@@ -258,7 +258,7 @@ Mũi kiếm của Thomas chạm khẽ vào chiếc mũ trùm bằng vải dạ c
 
 “Xin lỗi nhé, Jacquot.”
 
-“Ngài có thể rời đi mà.”
+“Anh có thể rời đi mà.”
 
 “Tao quá mệt rồi. Và mày cũng sẽ tìm ra tao thôi.”
 
@@ -272,7 +272,7 @@ Mũi kiếm của Thomas chạm khẽ vào chiếc mũ trùm bằng vải dạ c
 
 Jacquot thả cô xuống, đoạn đưa hai tay ôm lấy mặt. Nhưng trong lúc Thomas đang cố chắp vá lại ý chí để ra tay, cô bé liền đứng chắn ngay trước mặt gã đàn ông thấp bé.
 
-“Xin ngài đừng giết ông ấy,” cô bé nói.
+“Đừng giết anh ta,” cô nói.
 
 Cô ngước nhìn Thomas, và gã chợt nhận ra đôi mắt cô mới nhạt và xám làm sao. Trông như những viên đá lửa trên bức tường chuồng ngựa, nhưng lại rực lên thứ ánh sáng dịu nhẹ. Giống như bầu trời âm u lúc sắp chuyển sang màu xanh biếc.
 

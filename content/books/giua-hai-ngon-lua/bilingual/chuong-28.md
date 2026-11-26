@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI LĂM: Về Delphine và Con Bù Nhìn
+# CHƯƠNG HAI MƯƠI LĂM
 
 <p class="para-en">Delphine traced her fingers on the sleeping knight’s face.</p>
 
@@ -20,11 +20,11 @@
 
 <p class="para-en">The land was drier now, rockier. Warmer. The sky blazoned its unquenchable Provençal blue over plane trees with yellow-green leaves and bark like linen. It had not rained since they left the old man’s house, and the vines were still green here. They had stopped in a shallow cave near a stream, exhausted after two days on foot. They had sold the goat to a Provençal family the day before, Thomas gesturing his way through much of the exchange, getting in return a hot meal and a small pouch of silver that wouldn’t get them far.</p>
 
-<p class="para-vi-sub">Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Cơn mưa cuối cùng trút xuống kể từ lúc họ rời khỏi ngôi nhà của ông lão, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.</p>
+<p class="para-vi-sub">Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Trận mưa cuối cùng đã rơi từ khi họ rời khỏi ngôi nhà của lão già, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.</p>
 
 <p class="para-en">Thomas had told her flatly that he intended to steal the first horse they saw, but they saw horses only when troops of men, sometimes soldiers, sometimes laborers, headed south and past them. It had not seemed plausible that any of these groups would turn their horses over to one man, no matter how big and dangerous he looked, so Thomas stole nothing.</p>
 
-<p class="para-vi-sub">Thomas đã nói thẳng với cô bé rằng anh định cướp con ngựa đầu tiên họ nhìn thấy, nhưng họ chỉ thấy ngựa khi những đoàn người, đôi khi là binh lính, đôi khi là phu phen lao động, kéo nhau đi về hướng nam vượt qua họ. Chẳng có vẻ gì là hợp lý khi một trong số những nhóm người đó sẽ nhường ngựa cho một kẻ độc hành, cho dù trông gã có cao lớn và nguy hiểm đến đâu đi nữa, thế nên Thomas chẳng cướp bóc gì cả.</p>
+<p class="para-vi-sub">Thomas đã nói thẳng với cô bé rằng anh định cướp con ngựa đầu tiên họ nhìn thấy, nhưng họ chỉ thấy ngựa khi những đoàn người — đôi khi là binh lính, đôi khi là phu phen lao động — kéo nhau đi về hướng nam vượt qua họ. Chẳng có vẻ gì là hợp lý khi một trong số những nhóm người đó sẽ nhường ngựa cho một kẻ độc hành, cho dù trông gã có cao lớn và nguy hiểm đến đâu đi nữa, thế nên Thomas chẳng cướp bóc gì cả.</p>
 
 <p class="para-en">It wasn’t going to work like this.</p>
 
@@ -60,7 +60,7 @@
 
 <p class="para-en">Her father would not bring this knight any farther to kill or, worse, get killed himself. And what was she becoming now, to think it better if Thomas killed another than that any harm should come to him? That was the way everyone thought, protecting the beloved at the cost of the stranger.</p>
 
-<p class="para-vi-sub">Cha em sẽ không bao giờ lôi kéo vị hiệp sĩ này đi xa hơn nữa để rồi phải giết chóc hay tệ hơn là chính anh phải bỏ mạng. Và giờ đây em đang trở thành thứ gì thế này, khi lại nghĩ rằng thà để Thomas giết thêm một kẻ khác còn hơn là để bất kỳ tai họa nào giáng xuống đầu anh? Đó là cách suy nghĩ của tất cả mọi kẻ trên đời, luôn bảo vệ người mình thương yêu bằng cái giá của một kẻ xa lạ.</p>
+<p class="para-vi-sub">Cha em sẽ không bao giờ kéo vị kỵ sĩ này đi xa hơn nữa để rồi phải giết chóc hay tệ hơn là chính anh phải bỏ mạng. Và giờ đây em đang trở thành thứ gì thế này, khi lại nghĩ rằng thà để Thomas giết thêm một kẻ khác còn hơn là để bất kỳ tai họa nào giáng xuống đầu anh? Đó là cách suy nghĩ của tất cả mọi kẻ trên đời, luôn bảo vệ người mình thương yêu bằng cái giá của một kẻ xa lạ.</p>
 
 <p class="para-en">She would go on alone.</p>
 
@@ -608,7 +608,7 @@
 
 <p class="para-en">“Friends don’t terrorize one another. If you’re really my friend, leave me in peace.”</p>
 
-<p class="para-vi-sub">“Bạn bè không đe dọa, làm bấn loạn nhau. Nếu ngài thực sự là bạn tôi, hãy để tôi được yên.”</p>
+<p class="para-vi-sub">“Bạn bè không khủng bố tinh thần nhau. Nếu ngài thực sự là bạn tôi, hãy để tôi được yên.”</p>
 
 <p class="para-en">The rattling hiss came.</p>
 

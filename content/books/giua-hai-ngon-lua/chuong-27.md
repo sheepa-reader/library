@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI TƯ: Về Ngôi Nhà Nhỏ Và Về Khúc Ca
+# CHƯƠNG HAI MƯƠI TƯ
 
 Thomas bế Delphine khỏi tay cha Matthieu, vác cô bé lên vai hệt như cách Jacquot từng làm từ rất lâu trước đó vào buổi chiều mưa ở vùng Normandy. Ngã rẽ nhọc nhằn, người hiệp sĩ kéo cánh tay vị linh mục đi chừng nào mà ông còn có thể tự bước đi, vốn chẳng được bao xa; ông đang chật vật thở và khuôn mặt đã sưng tấy đến mức đôi mắt khép tịt lại. Trông ông chẳng khác nào một tử thi. Cha Matthieu ngã quỵ xuống một cánh đồng cách không xa một ngôi nhà có ánh lửa lò sưởi hắt qua những ô cửa chớp đang khép kín.
 

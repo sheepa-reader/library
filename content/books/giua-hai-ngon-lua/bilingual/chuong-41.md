@@ -1,6 +1,6 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI BẢY: Về cuộc viếng thăm tại Villeneuve
+# CHƯƠNG BA MƯƠI BẢY
 
 <p class="para-en">Robert Hanicotte spent the night before his elevation in a state of bliss only mildly tempered by the memory of the things he had seen in the vineyard. He ate the game fowl and sausages and even drank the wine, sweet from its late harvest, and with just a hint of something</p>
 

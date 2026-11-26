@@ -1,6 +1,6 @@
 *Phần I*
 
-# CHƯƠNG NĂM: Bàn về Con vật trong Vũng Lầy
+# CHƯƠNG NĂM
 
 <p class="para-en">Thomas slept poorly; the wine had given him a burning stomach, and when he slept he dreamed of wading in mucky water, looking for things he had dropped. He gave up at first light, still belching sour wine, and began to put his armor on.</p>
 

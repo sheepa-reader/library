@@ -1,6 +1,6 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI TÁM: Bàn về các Chiếc nhẫn của Lazarus và những Kẻ tắm mình
+# CHƯƠNG BA MƯƠI TÁM
 
 <p class="para-en">The large, hooded friar and the short-haired girl packed in with the poor of Avignon, who flowed toward the palace like a second Rhône of cowls and mantles and hats of many colors. If many wore the clothes of the wealthy dead, all of them bore their own hunger; it made them forget their fear of the Great Death, or, at least, to concede no more to it than rags held over faces while they pressed in together toward the pope’s table. They had already tasted the pope’s generosity at the pignotte, but there they got vegetables and bread, and not enough for all; here, in the square outside the hulking palace, beneath the little pointed towers that jabbed up like goats’ horns, the smell of roasted meat maddened them and brought water to their mouths.</p>
 

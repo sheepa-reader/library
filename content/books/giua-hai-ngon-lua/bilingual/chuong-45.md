@@ -1,6 +1,6 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI: Về Sự Giáng Lâm Của Đạo Binh Thiên Đàng
+# CHƯƠNG BỐN MƯƠI
 
 <p class="para-en">Robert Hanicotte shook his head.</p>
 
@@ -12,7 +12,7 @@
 
 <p class="para-en">His silk gloves were spattered with blood.</p>
 
-<p class="para-vi-sub">Robert bò dưới những chiếc bàn và chạy về phía cổng, nhưng rồi lại bị đẩy ngược trở lại khi những kẻ từng cố gắng thoát ra ngoài lúc này đang tràn ngược vào trong.</p>
+<p class="para-vi-sub">Anh bò dưới những chiếc bàn và chạy về phía cổng, nhưng rồi lại bị đẩy ngược trở lại khi những kẻ từng cố gắng thoát ra ngoài lúc này đang tràn ngược vào trong.</p>
 
 <p class="para-en">He crawled under the tables and ran for the gates, but he found himself pushed back as those who had tried to get out the gates now flooded back in.</p>
 
@@ -28,7 +28,7 @@
 
 <p class="para-en">A surge of corpses squeezed into the courtyard, not separately; they moved as one thing. Once inside, it re-formed itself. Four legs, or three, at its pleasure, composed entirely of stacked corpses. It moved around the courtyard gathering up fleeing people with its horrid mouth. It was fast. Human ribs as teeth. A light in the middle of it its sentience. When the bodies that formed the ends of its legs wore out, it left them behind and newer ones moved down, upside down, their arms clutching at whatever it wanted clutched at, their backs and chests taking its weight, unmindful of their broken necks. It fed found bodies into itself, or killed living ones. All manner of dead seethed in its frame; Jews and Christians, soldiers and midwives, the clothed and the nude; even a woman with a stag’s head turned in the top of a limb, waiting her turn to be moved to the end to clutch at others and bear weight.</p>
 
-<p class="para-vi-sub">Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó, người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân, thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.</p>
+<p class="para-vi-sub">Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó; người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân; thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.</p>
 
 <p class="para-en">Robert’s screaming turned into laughter.</p>
 
@@ -48,7 +48,7 @@
 
 <p class="para-en">No. I must run! I must live!</p>
 
-<p class="para-vi-sub">Không. Ta phải chạy! Ta phải sống!</p>
+<p class="para-vi-sub">Không. Mình phải chạy! Mình phải sống!</p>
 
 <p class="para-en">He ran with others, trying to get into the chapel, but the door was barred. Stone angels and devils looked impassively from the arch.</p>
 
@@ -64,7 +64,7 @@
 
 <p class="para-en">It stood alone in the courtyard, near what remained of the girl. The girl from the vineyards. She really was holy, then.</p>
 
-<p class="para-vi-sub">Nó đứng một mình trong khoảng sân, gần chỗ phần còn lại của Delphine. Delphine vùng trồng nho. Hóa ra cô bé thực sự là một vị thánh.</p>
+<p class="para-vi-sub">Nó đứng một mình trong khoảng sân, gần chỗ phần còn lại của Delphine. Cô bé đến từ những vườn nho. Hóa ra cô bé thực sự là một vị thánh.</p>
 
 <p class="para-en">It picked her up, meaning to assimilate her.</p>
 
@@ -228,7 +228,7 @@
 
 <p class="para-en">It sang from its place on the roof, and it was the most beautiful thing Robert had ever heard. Now those who had survived in the courtyard made a noise of relief and thanks, a hoarse shout that lay beyond the power of words to contain. Some clasped hands and knelt, crying; some embraced one another.</p>
 
-<p class="para-vi-sub">Ngài cất tiếng hát từ vị trí trên mái nhà, và đó là âm thanh tuyệt vời nhất mà Robert từng được nghe trong đời. Giờ đây, những kẻ sống sót trong khoảng sân phát ra những tiếng động đầy nhẹ nhõm và biết ơn, một tiếng gào khàn đặc vượt quá giới hạn ngôn từ có thể diễn tả. Một số người đan tay vào nhau và quỳ xuống khóc nghẹn, một số khác ôm chầm lấy nhau.</p>
+<p class="para-vi-sub">Ngài cất tiếng hát từ vị trí trên mái nhà, và đó là âm thanh tuyệt vời nhất mà Robert từng được nghe trong đời. Giờ đây, những kẻ sống sót trong khoảng sân phát ra những tiếng động đầy nhẹ nhõm và biết ơn, một tiếng gào khàn đặc vượt quá giới hạn ngôn từ có thể diễn tả. Một số người đan tay vào nhau và quỳ xuống khóc nghẹn; một số khác ôm chầm lấy nhau.</p>
 
 <p class="para-en">And still the angels came, a host of them.</p>
 
@@ -280,7 +280,7 @@
 
 <p class="para-en">I’m sorry, Robert-of-the-bushes.</p>
 
-<p class="para-vi-sub">Ta xin lỗi, Robert của những bụi cây.</p>
+<p class="para-vi-sub">Ta xin lỗi, Robert-của-những-bụi-cây.</p>
 
 <p class="para-en">I’m sorry.</p>
 
@@ -288,7 +288,7 @@
 
 <p class="para-en">The light of them was so bright it made a wildly careening amber day of sorts all over the city. Maître de Chauliac watched what he could of it from the windows of the pope’s study, the pope himself raving that this was his fault, ordering his ermines burned. Ha! Who could carry all of them, enough of them to carpet the palace, and what would they be burned with? The candles, hearth, and brazier were out, so the men and women in this room huddled together in panting near-darkness, striped at times by lights from outside swinging as though on pendulums. The doctor ordered his men to keep the pontiff here, in this smallish room in the Tower of Angels. The singing from the roof had given him the idea that it, at least, might not fall.</p>
 
-<p class="para-vi-sub">Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà, ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.</p>
+<p class="para-vi-sub">Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà! Ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.</p>
 
 <p class="para-en">A horrible noise came from the direction of Villeneuve, across the river. He could not see from his angle, and he was glad. He looked out the window, trying to control his breathing.</p>
 
@@ -296,7 +296,7 @@
 
 <p class="para-en">The spectacle he beheld was less a battle after all, and more an ineluctable pushing back of darkness, the habit of the sun, the birthright of light. More devils came, streaking down like stones on fire, trying to hold this earthly redoubt since the war in Heaven had soured. In their anger and impotence, they ruined the cities of Avignon, Villeneuve, and Carpentras, and killed men in the thousands, but their position against the angels was hopeless. They raged and bit at beings so calm, beautiful, and deliberate that it seemed they and the devils occupied two entirely different realities. One scene stayed with de Chauliac forever, obsessing him, even though, mercifully, the rest would blur; he saw a devil with wide black wings gripped by two angels, who drove it down and seemed to speak in its ears as they fell; they hit the bend of the Rhône, sending up a great, illuminated plume of water visible from Orange.</p>
 
-<p class="para-vi-sub">Cảnh tượng mà ông chứng kiến rốt cuộc ít giống một trận chiến hơn, mà giống như một cuộc đẩy lùi bóng tối không thể tránh khỏi, thói quen của mặt trời, quyền thừa kế của ánh sáng. Nhiều ác quỷ hơn xuất hiện, lao vút xuống như những hòn đá bốc cháy, cố gắng giữ lấy cứ điểm trần gian này kể từ khi cuộc chiến trên Thiên Đàng trở nên bất lợi. Trong cơn thịnh nộ và sự bất lực của mình, chúng tàn phá các thành phố Avignon, Villeneuve và Carpentras, giết hại hàng ngàn người, nhưng vị thế của chúng trước các thiên thần là vô vọng. Chúng gầm thét và cắn xé những sinh thể điềm tĩnh, xinh đẹp và ung dung đến mức tưởng chừng như chúng và lũ ác quỷ đang tồn tại trong hai thực tại hoàn toàn khác nhau. Có một cảnh tượng đọng lại mãi mãi trong tâm trí de Chauliac, ám ảnh ông, dẫu cho ơn phúc thay, phần còn lại sẽ phai mờ, ông nhìn thấy một con ác quỷ với đôi cánh đen rộng bị hai thiên thần tóm lấy, họ đè nó xuống và dường như thì thầm vào tai nó khi cả bọn đang rơi xuống, chúng đâm sầm vào khúc quanh của sông Rhône, tạo nên một cột nước sáng rực khổng lồ có thể nhìn thấy tận từ Orange.</p>
+<p class="para-vi-sub">Cảnh tượng mà ông chứng kiến rốt cuộc ít giống một trận chiến hơn, mà giống như một cuộc đẩy lùi bóng tối không thể tránh khỏi, thói quen của mặt trời, quyền thừa kế của ánh sáng. Nhiều ác quỷ hơn xuất hiện, lao vút xuống như những hòn đá bốc cháy, cố gắng giữ lấy cứ điểm trần gian này kể từ khi cuộc chiến trên Thiên Đàng trở nên bất lợi. Trong cơn thịnh nộ và sự bất lực của mình, chúng tàn phá các thành phố Avignon, Villeneuve và Carpentras, giết hại hàng ngàn người, nhưng vị thế của chúng trước các thiên thần là vô vọng. Chúng gầm thét và cắn xé những sinh thể điềm tĩnh, xinh đẹp và ung dung đến mức tưởng chừng như chúng và lũ ác quỷ đang tồn tại trong hai thực tại hoàn toàn khác nhau. Có một cảnh tượng đọng lại mãi mãi trong tâm trí de Chauliac, ám ảnh ông, dẫu cho ơn phúc thay, phần còn lại sẽ phai mờ; ông nhìn thấy một con ác quỷ với đôi cánh đen rộng bị hai thiên thần tóm lấy, họ đè nó xuống và dường như thì thầm vào tai nó khi cả bọn đang rơi xuống; chúng đâm sầm vào khúc quanh của sông Rhône, tạo nên một cột nước sáng rực khổng lồ có thể nhìn thấy tận từ Orange.</p>
 
 <p class="para-en">Two angels and a devil had tumbled into the water.</p>
 

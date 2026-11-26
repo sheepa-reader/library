@@ -1,6 +1,6 @@
 *Phần I*
 
-# CHƯƠNG HAI: Về Mật Ong và Cây Thánh Giá Bị Gãy
+# CHƯƠNG HAI
 
 <p class="para-en">Thomas and the girl slept in the barn on separate piles of rotten hay with the droopy-eyed man tied up in the donkey’s old stall. He didn’t make trouble in the evening because he knew how close to dying he had been, but near morning he forgot and woke Thomas up.</p>
 
@@ -128,7 +128,7 @@
 
 <p class="para-en">“You did, in your sleep.”</p>
 
-<p class="para-vi-sub">“Chính nhóc đấy, trong lúc ngủ mơ.”</p>
+<p class="para-vi-sub">“Chính mày đấy, trong lúc ngủ mơ.”</p>
 
 <p class="para-en">“I know I was having a bad dream, but I don’t remember devils.”</p>
 
@@ -136,7 +136,7 @@
 
 <p class="para-en">“Stop saying it. You call their attention when you speak of them.”</p>
 
-<p class="para-vi-sub">“Đừng nói nữa. Nhóc sẽ thu hút sự chú ý của bọn chúng khi nhắc đến chúng đấy.”</p>
+<p class="para-vi-sub">“Đừng nói nữa. Mày sẽ thu hút sự chú ý của bọn chúng khi nhắc đến chúng đấy.”</p>
 
 <p class="para-en">“Yes,” she said. “I think that’s true.”</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-en">“How do you figure?”</p>
 
-<p class="para-vi-sub">“Nhóc tính thế nào?”</p>
+<p class="para-vi-sub">“Mày tính thế nào?”</p>
 
 <p class="para-en">“I’m coming with you.”</p>
 
@@ -220,7 +220,7 @@
 
 <p class="para-en">“Well there’s a big word. You can read, can’t you?”</p>
 
-<p class="para-vi-sub">“Chà, đúng là một từ đao to búa lớn. Nhóc biết chữ, phải không?”</p>
+<p class="para-vi-sub">“Chà, đúng là một từ đao to búa lớn. Mày biết chữ, phải không?”</p>
 
 <p class="para-en">“Yes. French and Latin. Not Greek.”</p>
 
@@ -228,7 +228,7 @@
 
 <p class="para-en">“Anyway, what’s this about you coming with me?”</p>
 
-<p class="para-vi-sub">“Dù sao đi nữa, chuyện nhóc đòi đi theo ta là thế nào?”</p>
+<p class="para-vi-sub">“Dù sao đi nữa, chuyện mày đòi đi theo ta là thế nào?”</p>
 
 <p class="para-en">“Why don’t you take the bow?”</p>
 
@@ -248,7 +248,7 @@
 
 <p class="para-en">“Our Lord also said to render unto Caesar what was Caesar’s. My sword belongs to my seigneur. Or did, until the English feathered him at Crécy. Feathered me, too, but I lived. God, in His wisdom, made me a fighting man.”</p>
 
-<p class="para-vi-sub">“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng ta sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến ta thành một kẻ chiến đấu.”</p>
+<p class="para-vi-sub">“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”</p>
 
 <p class="para-en">“Yet you ride with a man who kills from far away. So what were you doing on the road with these men?”</p>
 
@@ -264,7 +264,7 @@
 
 <p class="para-en">“You were asking about the bow, and I was trying to tell you.”</p>
 
-<p class="para-vi-sub">“Nhóc đang hỏi về cây cung, và ta đang cố kể cho nhóc nghe.”</p>
+<p class="para-vi-sub">“Mày đang hỏi về cây cung, và ta đang cố kể cho mày nghe.”</p>
 
 <p class="para-en">“You could sell it.”</p>
 
@@ -280,7 +280,7 @@
 
 <p class="para-en">“What a pain in the ass you are! Anyway, I don’t ride with him. Not anymore. You settled that.”</p>
 
-<p class="para-vi-sub">“Đúng là một con nhóc phiền toái hết chỗ nói! Dù sao đi nữa, ta đâu có đi cùng hắn. Không đời nào nữa. Nhóc đã giải quyết chuyện đó rồi còn gì.”</p>
+<p class="para-vi-sub">“Đúng là một con nhóc phiền toái hết chỗ nói! Dù sao đi nữa, ta đâu có đi cùng hắn. Không đời nào nữa. Mày đã giải quyết chuyện đó rồi còn gì.”</p>
 
 <p class="para-en">She looked down at her feet, using her toe to move a straw around in the dirt.</p>
 
@@ -288,7 +288,7 @@
 
 <p class="para-en">“What were you doing coming up to us? That was stupid.”</p>
 
-<p class="para-vi-sub">“Sao nhóc lại dám đi thẳng về phía bọn ta chứ? Thật là ngốc nghếch.”</p>
+<p class="para-vi-sub">“Sao mày lại dám đi thẳng về phía bọn tao chứ? Thật là ngốc nghếch.”</p>
 
 <p class="para-en">“I needed…”</p>
 
@@ -296,7 +296,7 @@
 
 <p class="para-en">“I know. Your dead father. But girls shouldn’t come up to soldiers. You know that now. Right?”</p>
 
-<p class="para-vi-sub">“Ta biết rồi. Người cha đã khuất của nhóc. Nhưng con gái không nên đến gần những tên lính. Giờ thì nhóc biết điều đó rồi chứ? Phải không?”</p>
+<p class="para-vi-sub">“Ta biết rồi. Người cha đã khuất của mày. Nhưng con gái không nên đến gần những tên lính. Giờ thì mày biết điều đó rồi chứ? Phải không?”</p>
 
 <p class="para-en">“I know that now.”</p>
 
@@ -316,7 +316,7 @@
 
 <p class="para-en">“You are alone.”</p>
 
-<p class="para-vi-sub">“Nhóc đang ở một mình đấy chứ.”</p>
+<p class="para-vi-sub">“Mày đang ở một mình đấy chứ.”</p>
 
 <p class="para-en">“No. I’m coming with you.”</p>
 
@@ -492,11 +492,11 @@
 
 <p class="para-en">“One town,” Thomas said, holding up a thick, callused finger. “I’ll take you along until we come to the next town, and keep you safe until then. But if you cry, bitch, or moan on the way there, I’ll leave you flat. If you behave tolerably, I’ll dump you in the lap of the first live abbess or even whoring novice nun I see.”</p>
 
-<p class="para-vi-sub">“Một thị trấn,” Thomas nói, giơ một ngón tay dày và chai sạn lên. “Ta sẽ dẫn nhóc đi cho đến khi tới thị trấn tiếp theo, và bảo vệ nhóc bình an cho đến lúc đó. Nhưng nếu nhóc khóc lóc, cằn nhằn, hay rên rỉ dọc đường, ta sẽ vứt nhóc nằm bẹp dí ở đó. Nếu nhóc biết điều một chút, ta sẽ ném nhóc vào lòng vị nữ viện trưởng đầu tiên hoặc thậm chí mụ tập sinh hư hỏng nào ta gặp.”</p>
+<p class="para-vi-sub">“Một thị trấn,” Thomas nói, giơ một ngón tay dày và chai sạn lên. “Ta sẽ dẫn mày đi cho đến khi tới thị trấn tiếp theo, và bảo vệ mày bình an cho đến lúc đó. Nhưng nếu mày khóc lóc, cằn nhằn, hay rên rỉ dọc đường, ta sẽ vứt mày nằm bẹp dí ở đó. Nếu mày biết điều một chút, ta sẽ ném mày vào lòng vị nữ viện trưởng đầu tiên hoặc thậm chí mụ tập sinh hư hỏng nào ta gặp.”</p>
 
 <p class="para-en">She squinted her eyes at his profanity, but he moved his finger closer to her face, saying, “And I’ll swear as I please. By the Virgin, by her sour milk, by the hair of dead pigs, whatever the devil puts in my mouth. And the more you complain about it, the worse I’ll get.”</p>
 
-<p class="para-vi-sub">Cô bé nheo mắt trước những lời thô tục của Thomas, nhưng gã đưa ngón tay lại gần mặt con bé hơn và bảo, “Và ta sẽ chửi thề tùy thích. Nhân danh Đức Mẹ, nhân danh dòng sữa chua của Người, nhân danh bộ lông của những con lợn chết, bất cứ thứ gì quỷ quái mà miệng ta thốt ra. Nhóc càng phàn nàn về điều đó, ta lại càng chửi bới tệ hơn.”</p>
+<p class="para-vi-sub">Cô bé nheo mắt trước những lời thô tục của Thomas, nhưng gã đưa ngón tay lại gần mặt con bé hơn và bảo, “Và ta sẽ chửi thề tùy thích. Nhân danh Đức Mẹ, nhân danh dòng sữa chua của Người, nhân danh bộ lông của những con lợn chết, bất cứ thứ gì quỷ quái mà miệng ta thốt ra. Mày càng phàn nàn về điều đó, ta lại càng chửi bới tệ hơn.”</p>
 
 <p class="para-en">She narrowed her eyes yet further at him, which made him think her papa had a slow hand for hitting.</p>
 
@@ -504,7 +504,7 @@
 
 <p class="para-en">“Don’t pull a face at me. Hand me that sack you brought out.”</p>
 
-<p class="para-vi-sub">“Đừng có làm mặt quạu với ta. Đưa cái túi nhóc mang theo đây.”</p>
+<p class="para-vi-sub">“Đừng có làm mặt quạu với ta. Đưa cái túi mày mang theo đây.”</p>
 
 <p class="para-en">“Why?”</p>
 
@@ -532,7 +532,7 @@
 
 <p class="para-en">“Fancy,” he said. “No serf has wax candles. What did your papa do?”</p>
 
-<p class="para-vi-sub">“Sang trọng phết,” gã nói. “Chẳng có nông nô nào có nến sáp cả. Cha nhóc làm nghề gì?”</p>
+<p class="para-vi-sub">“Sang trọng phết,” gã nói. “Chẳng có nông nô nào có nến sáp cả. Cha mày làm nghề gì?”</p>
 
 <p class="para-en">“He’s a lawyer. And he keeps bees. Kept bees, I mean. He traded honey and comb for them with the chandler. Soon after people started getting sick, some apprentices came and burned the hives up, saying that the bees had brought it here, flying to sick towns, and towns where Jews were. Later, they came back starving and asking for honey, but Papa told them they burned it up, so they threatened to kill him, but only hit him. But he wasn’t hurt much. Only he did have some left.”</p>
 
@@ -612,7 +612,7 @@
 
 <p class="para-en">“You haven’t met many knights. Most can write enough so they don’t have to draw a chicken for a signature, but nothing…scholarly.”</p>
 
-<p class="para-vi-sub">“Nhóc chưa gặp nhiều hiệp sĩ rồi. Hầu hết bọn họ chỉ viết đủ giỏi để không phải vẽ hình con gà làm chữ ký, chứ chẳng có học thức gì sất.”</p>
+<p class="para-vi-sub">“Mày chưa gặp nhiều hiệp sĩ rồi. Hầu hết bọn họ chỉ viết đủ giỏi để không phải vẽ hình con gà làm chữ ký, chứ chẳng có học thức gì sất.”</p>
 
 <p class="para-en">“Thomas Aquinas is Papa’s favorite. Because he could have been a lord but chose to renounce the world. Although I much prefer Saint Francis[1].”</p>
 
@@ -644,7 +644,7 @@
 
 <p class="para-en">“You’ll begin by carrying it and then I’ll carry it. If your papa loved it, leave it with him. And this? What the hell is this?”</p>
 
-<p class="para-vi-sub">“Nhóc sẽ bắt đầu bằng việc mang nó rồi sau đó ta sẽ phải mang thay. Nếu cha nhóc yêu quý nó, hãy cứ để nó lại cùng ông ấy. Còn cái này? Cái quái gì thế này?”</p>
+<p class="para-vi-sub">“Mày sẽ bắt đầu bằng việc mang nó rồi sau đó ta sẽ phải mang thay. Nếu cha mày yêu quý nó, hãy cứ để nó lại cùng ông ấy. Còn cái này? Cái quái gì thế này?”</p>
 
 <p class="para-en">He held up a small deer-bone instrument of sorts with a stem and a bulb at the end. She took it from him, took it to the water pail, and put some in. Then she blew into the stem and it chirped agreeably, sounding just like a bird.</p>
 
@@ -664,7 +664,7 @@
 
 <p class="para-en">“Making you happy is not my job.”</p>
 
-<p class="para-vi-sub">“Làm cho nhóc vui không phải là việc của ta.”</p>
+<p class="para-vi-sub">“Làm cho mày vui không phải là việc của ta.”</p>
 
 <p class="para-en">“I know. That’s why I want the whistle.”</p>
 
@@ -688,7 +688,7 @@
 
 <p class="para-en">“But you’re leaving this,” he said, displaying for her a cross of pine and lead.</p>
 
-<p class="para-vi-sub">“Nhưng cái này thì nhóc phải bỏ lại,” Thomas nói, trưng ra cho con bé xem một cây thánh giá bằng gỗ thông và chì.</p>
+<p class="para-vi-sub">“Nhưng cái này thì mày phải bỏ lại,” Thomas nói, trưng ra cho con bé xem một cây thánh giá bằng gỗ thông và chì.</p>
 
 <p class="para-en">She stopped chirping.</p>
 
@@ -708,7 +708,7 @@
 
 <p class="para-en">“For a fistful of silver and a long leer at your mother, if I know my Franciscans.”</p>
 
-<p class="para-vi-sub">“Vì một nắm bạc và một cái liếc dài nhìn mẹ nhóc, nếu ta hiểu rõ đám tu sĩ Phanxicô.”</p>
+<p class="para-vi-sub">“Vì một nắm bạc và một cái liếc dài nhìn mẹ mày, nếu ta hiểu rõ đám tu sĩ Phanxicô.”</p>
 
 <p class="para-en">“Please don’t talk dirtily about my mother. For all your other swearing, please don’t do that.”</p>
 
@@ -728,7 +728,7 @@
 
 <p class="para-en">“It’s just the weight of it,” he said. “We’ll find you a smaller one.”</p>
 
-<p class="para-vi-sub">“Chỉ vì nó quá nặng thôi,” Thomas nói. “Chúng ta sẽ tìm cho nhóc một cái nhỏ hơn.”</p>
+<p class="para-vi-sub">“Chỉ vì nó quá nặng thôi,” Thomas nói. “Chúng ta sẽ tìm cho mày một cái nhỏ hơn.”</p>
 
 <p class="para-en">Still she sobbed.</p>
 
@@ -752,7 +752,7 @@
 
 <p class="para-en">“You saw what?”</p>
 
-<p class="para-vi-sub">“Nhóc thấy cái gì?”</p>
+<p class="para-vi-sub">“Mày thấy cái gì?”</p>
 
 <p class="para-en">“Your soul.”</p>
 
@@ -768,7 +768,7 @@
 
 <p class="para-en">“Yes, always. But not for you, eh? Well, how was it? Horns and little goat’s feet? Am I a devil?”</p>
 
-<p class="para-vi-sub">“Ừ, lúc nào cũng thế. Nhưng chắc là trừ nhóc phải không? Chà, vậy nó thế nào? Có sừng với chân dê nhỏ không? Ta là ác quỷ chắc?”</p>
+<p class="para-vi-sub">“Ừ, lúc nào cũng thế. Nhưng chắc là trừ mày phải không? Chà, vậy nó thế nào? Có sừng với chân dê nhỏ không? Ta là ác quỷ chắc?”</p>
 
 <p class="para-en">“No. But there’s one near you. There’s always one near you. They want you.”</p>
 

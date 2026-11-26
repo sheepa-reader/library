@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI MỘT: Về Quái Vật và Những Lời Chúc Lành
+# CHƯƠNG HAI MƯƠI MỘT
 
 <p class="para-en">Despite the wide berth they gave the city of Beaune, they did see evidence of Delphine’s monsters in the farmlands just south of the town; a tree in the middle of a field had all the leaves stripped from it, and now its branches hung with people and animals, all still as herrings. A fire twinkled at the base of the tree. They were being smoked. A heap of clothes lay nearby, as well as a separate pile of logs to feed the fire. A large, recently dug hole gaped in the side of a hillock not far from the tree; the darkness of this hole was preternatural, seeming to push back against the daylight. It was big enough for a man on stilts to have entered without ducking. At the entrance to the hole was a scattering of feet. Whatever it was, it didn’t like feet. Something moved in the darkness of the hole, and then they heard a sound that was somewhere between a rattling groan and an insect’s buzz. The mule sped up his trot with no encouragement from his driver.</p>
 

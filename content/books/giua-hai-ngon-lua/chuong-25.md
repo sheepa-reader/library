@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI HAI: Về Những Kẻ Đánh Cá Người
+# CHƯƠNG HAI MƯƠI HAI
 
 “Tôi đã bảo cha đi ngủ cơ mà,” Thomas thì thầm với vị linh mục.
 

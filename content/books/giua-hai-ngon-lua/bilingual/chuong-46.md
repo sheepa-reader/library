@@ -1,6 +1,6 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI MỐT: Về cái chết của hiệp sĩ, và về sự phán xét
+# CHƯƠNG BỐN MƯƠI MỐT
 
 <p class="para-en">Thomas went to his knees. The world swam with black. He knew he was dying, that unmooring feeling came again, and still he tried to see where the girl was, if she was safe. He could not see past the devils, their wings fanned out behind them, though he knew they were killing. Making more like him. Dead men. Ruined bodies. His vision failed him and a curtain of blackness fell; he felt the bricks of the courtyard flat beneath him now, his face on them. Cold. He smelled the stink of the wicked angels, brutal and nauseating. He listened for his heartbeat but heard only silence in his chest. His arm was off, that he remembered, but he could not feel any of his limbs. He had the impression that his stomach emptied itself through his mouth, but he was not breathing, so he had no fear of choking. Then he felt his bowels and bladder voiding. Then he ejaculated, barely feeling it, his body’s final, muted pleasure. Images and words came to him in an urgent jumble, inside his head but louder than the sound of shrill madness that rose up outside, a sound that he had heard before, but now it was distant, receding, unimportant.</p>
 
@@ -8,7 +8,7 @@
 
 <p class="para-en">That’s how the poor bastards sing</p>
 
-<p class="para-vi-sub">Lũ khốn kiếp đó hát ca như vậy đấy.</p>
+<p class="para-vi-sub">Lũ khốn kiếp đó hát ca như vậy đấy</p>
 
 <p class="para-en">He smiled at that, or thought he did, but he was beyond the power to move any part of himself, even the tiny muscles that pulled his mouth. His hearing winked out, leaving only thoughts.</p>
 
@@ -20,7 +20,7 @@
 
 <p class="para-en">When does even this stop?</p>
 
-<p class="para-vi-sub">Đến khi nào điều này mới dừng lại?</p>
+<p class="para-vi-sub">Đến cái này rồi cũng sẽ dừng lại khi nào?</p>
 
 <p class="para-en">Is this how it was for the ones I killed?</p>
 
@@ -56,11 +56,11 @@
 
 <p class="para-en">YOU CAN FORGET THAT</p>
 
-<p class="para-vi-sub">NGƯƠI CÓ THỂ QUÊN ĐI ĐƯỢC RỒI ĐẤY.</p>
+<p class="para-vi-sub">NGƯƠI CÓ THỂ QUÊN ĐI ĐƯỢC RỒI ĐẤY</p>
 
 <p class="para-en">YOU’RE OURS</p>
 
-<p class="para-vi-sub">NGƯƠI LÀ CỦA CHÚNG TA.</p>
+<p class="para-vi-sub">NGƯƠI LÀ CỦA CHÚNG TA</p>
 
 <p class="para-en">And the courtyard melted away as if it had never been.</p>
 
@@ -80,11 +80,11 @@
 
 <p class="para-en">That’s not its job</p>
 
-<p class="para-vi-sub">Đó không phải việc của nó.</p>
+<p class="para-vi-sub">Đó không phải việc của nó</p>
 
 <p class="para-en">It’s just a clerk</p>
 
-<p class="para-vi-sub">Nó chỉ là một tên thư lại.</p>
+<p class="para-vi-sub">Nó chỉ là một tên thư lại</p>
 
 <p class="para-en">The room was small and dim, and he was not sure where the light came from: no sconce, no niche, no hearth, no window.</p>
 
@@ -136,7 +136,7 @@
 
 <p class="para-en">His son.</p>
 
-<p class="para-vi-sub">Con trai gã.</p>
+<p class="para-vi-sub">Con trai anh.</p>
 
 <p class="para-en">He was his very young son, as he looked the last time Thomas had seen him.</p>
 
@@ -272,11 +272,11 @@
 
 <p class="para-en">This scene played out innumerable times, with every sort of variation, but always ending the same way. Each time, he tried to reason with it, or to fight it, or to otherwise avoid the excruciating finale. He told himself not to try, that the end was inevitable, but even after he resolved to give up, still he ran away from it, or tried to use the table to block it, or any other ploy he could devise, because it hurt just that much. At length, when he gave up trying and even speaking, the interaction shortened to nothing more than its reading off his name and sentence</p>
 
-<p class="para-vi-sub">Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu:</p>
+<p class="para-vi-sub">Cảnh tượng này tái diễn vô số lần, với đủ mọi biến thể, nhưng lúc nào cũng kết thúc theo cùng một cách. Mỗi lần, cậu đều cố gắng lý luận với nó, hoặc chống trả nó, hay tìm cách tránh né cái kết cục đau đớn thấu xương tủy kia. Cậu tự nhủ đừng cố nữa, rằng hồi kết là điều không thể tránh khỏi, nhưng ngay cả sau khi đã quyết tâm buông xuôi, cậu vẫn chạy trốn khỏi nó, hoặc cố dùng chiếc bàn để cản đường nó, hay bất kỳ mưu mẹo nào khác có thể nghĩ ra, bởi vì nó quá ư đau đớn. Cuối cùng, khi cậu từ bỏ việc cố gắng hay thậm chí là cất lời, cuộc giáp mặt thu gọn lại chẳng khác gì việc nó đọc lên tên và bản án của cậu</p>
 
 <p class="para-en">Thomas de Givras, I damn thee</p>
 
-<p class="para-vi-sub">Thomas de Givras, ta đày đọa ngươi,</p>
+<p class="para-vi-sub">Thomas de Givras, ta đày đọa ngươi</p>
 
 <p class="para-en">and then chewing him down alive.</p>
 
@@ -288,7 +288,7 @@
 
 <p class="para-en">I damn thee</p>
 
-<p class="para-vi-sub">Ta đày đọa ngươi.</p>
+<p class="para-vi-sub">Ta đày đọa ngươi</p>
 
 <p class="para-en">He cried and let it.</p>
 
@@ -296,7 +296,7 @@
 
 <p class="para-en">I damn thee</p>
 
-<p class="para-vi-sub">Ta đày đọa ngươi.</p>
+<p class="para-vi-sub">Ta đày đọa ngươi</p>
 
 <p class="para-en">And then he just let it.</p>
 

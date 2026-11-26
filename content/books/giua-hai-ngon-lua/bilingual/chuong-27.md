@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI TƯ: Về Ngôi Nhà Nhỏ Và Về Khúc Ca
+# CHƯƠNG HAI MƯƠI TƯ
 
 <p class="para-en">Thomas took the girl from Père Matthieu, hoisting her over his shoulder in the same way that Jacquot had so long ago on that rainy afternoon in Normandy. The knight pulled the priest along by the arm for as far as the cleric could walk, which was not far; he was struggling to breathe, and his face had swollen so badly his eyes had shut. He looked dead already. He collapsed in a field not far from a house where the light of a hearth fire danced behind closed shutters.</p>
 

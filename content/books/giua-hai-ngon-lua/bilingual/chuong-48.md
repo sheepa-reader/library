@@ -1,6 +1,6 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI BA: Về Ngày Cuối Tháng Mười, và Về Tháng Mười Một
+# CHƯƠNG BỐN MƯƠI BA
 
 <p class="para-en">Thomas became aware of his body again, became aware of pain. Breathing was difficult because of the weight jostling on top of him as the cart rolled, some fabric half-covering his nose and mouth. Wet. Everything was wet. The stink of day-old blood and the ejecta of death were everywhere. A dog barked. Two dogs. The cart stopped.</p>
 
@@ -416,15 +416,15 @@
 
 <p class="para-en">“What is your name, good sir?” she said.</p>
 
-<p class="para-vi-sub">“Tên chú là gì vậy ạ?” cô bé nói.</p>
+<p class="para-vi-sub">“Tên ngài là gì vậy, thưa quý ông?” cô bé nói.</p>
 
 <p class="para-en">“Thomas. And not a ‘sir.’”</p>
 
-<p class="para-vi-sub">“Thomas. Và đừng gọi chú là ‘ngài’.”</p>
+<p class="para-vi-sub">“Thomas. Và đừng gọi ta là ‘quý ông’.”</p>
 
 <p class="para-en">“May I ask where you come from?”</p>
 
-<p class="para-vi-sub">“Cháu có thể hỏi chú đến từ đâu không?”</p>
+<p class="para-vi-sub">“Cháu có thể hỏi ngài đến từ đâu không?”</p>
 
 <p class="para-en">He turned a mirthful eye to her.</p>
 
@@ -436,7 +436,7 @@
 
 <p class="para-en">“Yes, but what is the town called?”</p>
 
-<p class="para-vi-sub">“Vâng, nhưng thị trấn đó tên là gì ạ?”</p>
+<p class="para-vi-sub">“Vâng, nhưng thị trấn đó tên là gì?”</p>
 
 <p class="para-en">“Town.”</p>
 
@@ -448,7 +448,7 @@
 
 <p class="para-en">“Mine is. Townville-sur-…Town.”</p>
 
-<p class="para-vi-sub">“Của chú thì có đấy. Thị trấn trên... Thị trấn.”</p>
+<p class="para-vi-sub">“Của ta thì có đấy. Thị-Trấn-trên-…Thị-Trấn.”</p>
 
 <p class="para-en">She laughed.</p>
 
@@ -460,15 +460,15 @@
 
 <p class="para-en">“Givras,” he said. “I am from Givras.”</p>
 
-<p class="para-vi-sub">“Givras,” gã đáp. “Chú đến từ Givras.”</p>
+<p class="para-vi-sub">“Givras,” gã đáp. “Ta đến từ Givras.”</p>
 
 <p class="para-en">“Which rhymes with Thomas. Would you like to know my name?” she said.</p>
 
-<p class="para-vi-sub">“Nghe vần với Thomas thật đấy. Chú có muốn biết tên cháu không?” cô bé nói.</p>
+<p class="para-vi-sub">“Nghe vần với Thomas thật đấy. Ngài có muốn biết tên cháu không?” cô bé nói.</p>
 
 <p class="para-en">“I already do.”</p>
 
-<p class="para-vi-sub">“Chú biết rồi.”</p>
+<p class="para-vi-sub">“Ta biết rồi.”</p>
 
 <p class="para-en">She smiled impishly.</p>
 
@@ -480,7 +480,7 @@
 
 <p class="para-en">“Then tell me.”</p>
 
-<p class="para-vi-sub">“Vậy chú hãy nói cho cháu nghe đi.”</p>
+<p class="para-vi-sub">“Vậy ngài hãy nói cho cháu nghe đi.”</p>
 
 <p class="para-en">He bent toward her.</p>
 

@@ -1,206 +1,203 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI BẢY: Về Thánh Lazarus và Quả Trái Mục Rữa
+# CHƯƠNG MƯỜI BẢY
 
-Toán lính đi qua họ gần thị trấn Nemours, ngay khi khu rừng rậm rạp, giá lạnh nhường chỗ cho những trang trại hoang hoắt mọc đầy cỏ dại. Họ vừa mới nhổ trại, và cơn đói bắt đầu cào xé ruột gan. Họ đã bắt đầu bàn đến khả năng ăn thịt con lừa. Nói đúng hơn là Thomas bắt đầu đề xuất chuyện đó, vấp phải sự phản đối dữ dội từ Delphine và khiến vị linh mục phải thốt lên, “Tôi thà chết đói còn hơn là phải đi bộ.”
+Bọn lính vượt qua họ gần thị trấn Nemours, ngay lúc những khu rừng sâu và lạnh giá nhường chỗ cho những trang trại hoang phế cỏ mọc um tùm. Chúng vừa dỡ trại, và cơn đói đang cào xé ruột gan họ. Họ bắt đầu bàn về khả năng ăn thịt con la của mình. Đúng hơn, Thomas đã khơi mào câu chuyện đó, vấp phải sự phản kháng quyết liệt từ Delphine và khiến vị linh mục phải thốt lên rằng: “Tôi thà chịu chết đói còn hơn là phải đi bộ.”
 
-“Tất cả chúng ta đều giơ hết cả xương sườn ra rồi. Thế này không ổn. Chúng ta có thể hun khói gã khốn này rồi ăn uống phủ phê như vua chúa cả tuần liền.”
+“Tất cả chúng ta đều thấy xương sườn mình lộ cả ra rồi. Thế này là không ổn. Chúng ta có thể xông khói con khốn kiếp này và ăn uống như vua chúa suốt một tuần.”
 
 “Chú có thấy tai nó giật giật không?” Delphine nói. “Nó nghe thấy chú nói đấy.”
 
-“Ta chẳng thèm quan tâm nó có nghe thấy hay không.”
+“Ta chẳng quan tâm nếu nó nghe thấy.”
 
-“Chú không thể thực sự muốn ăn thịt bạn của chúng ta chứ? Nó đã trung thành đến thế cơ mà.”
+“Chú không thể thực sự muốn ăn thịt người bạn của chúng ta chứ? Nó rất trung thành mà.”
 
-“Ta phải nhét cái gì đó vào bụng. Ta phát điên đến nơi rồi.”
+“Ta phải ăn thứ gì đó chứ. Ta sắp phát điên vì cái sự đói khát khốn kiếp này rồi.”
 
-“KHÔNG ĐƯỢC ăn con lừa,” cô bé nói, và câu đó đã chấm dứt cuộc tranh cãi.
+“KHÔNG được ăn con la,” cô bé nói, và điều đó đã chấm dứt câu chuyện.
 
-Rồi toán lính kéo đến, ngay khi hằn lên những tia sáng đầu tiên của hừng đông. Không dưới sáu hiệp sĩ cùng khoảng hai mươi lính chiến cưỡi ngựa lao tới, tiếng vó ngựa làm rung chuyển cả mặt đường. Một giọng nói oang oang gạt phắt, “Đánh cái xe tránh ra khỏi đường mau,” hầu như chẳng cho họ đủ thời gian để dẹp vào, làm cha Matthieu giật mình giật mạnh dây cương con lừa, khiến một bên bánh xe sạt ra khỏi lòng đường và cả ba người bị những cành cây thấp quật túi bụi vào người. Một trong số các hiệp sĩ hô to, “Hồôô,” ghìm ngựa dừng lại và buộc cả đoàn cũng phải dừng theo.
+Bọn lính xuất hiện ngay sau đó, đúng vào lúc rạng sáng. Không dưới sáu hiệp sĩ và thêm khoảng hai mươi lính chiến tiến đến chỗ họ, tiếng móng ngựa làm rung chuyển cả con đường. Một giọng nói thét lên: “Tránh cái xe hàng đó ra,” vừa vặn cho họ chút ít thời gian để nép sang bên, làm cho cha Matthieu giật mình đến mức ông giật mạnh dây cương con la, khiến một bên bánh xe lệch khỏi mặt đường và tất cả bọn họ bị những cành cây thấp quất vào người. Một trong số các hiệp sĩ hô lên: “Hooo,” kìm ngựa lại cho đến khi dừng hẳn và buộc những người khác cũng phải dừng lại theo.
 
-“Ta biết người đàn ông đó,” vị hiệp sĩ nói, quay đầu ngựa lại để nhìn kĩ Thomas thêm lần nữa. Thomas cũng nhận ra gã, dù anh không thể nhớ nổi tên hay tước hiệu của đối phương; chiếc áo khoác giáp của gã mang hình chữ V ngược màu đỏ cắt ngang một con quái vật đầu chim ưng mình sư tử màu bạc đang chồm lên trên nền khiên màu xanh lam.
+“Ta biết kẻ đó,” tên hiệp sĩ nói, quay ngựa lại để nhìn Thomas rõ hơn. Thomas cũng nhận ra hắn, dù anh không thể nhớ nổi tên hay tước hiệu của hắn; áo giáp khoác ngoài của hắn có hình chữ V màu đỏ cắt đôi một con sư tử có cánh bằng bạc trên nền xanh.
 
-“Người đó từng chiến đấu ở Crécy, và lại còn cực kỳ dũng cảm nữa.”
+“Gã đó từng chiến đấu ở Crécy, và chiến đấu rất dũng cảm nữa.”
 
-Thomas cựa quậy đầy xấu hổ vì bộ giáp tồi tàn cùng cỗ xe lừa của mình, chỉ mong sao toán quân này nhanh chóng đi tiếp.
+Thomas quằn quại vì hổ thẹn trước bộ giáp tồi tàn cùng chiếc xe la của mình, và chỉ ước gì đoàn quân ấy cứ thế phi đi.
 
-“Ta nói có đúng không? Ngươi đã ở bên cạnh Bá tước de Givras khi ngài ngã xuống.”
+“Ta nhớ không lầm chứ? Ngươi đã đứng cạnh Bá tước xứ Givras khi ngài ngã xuống.”
 
 “Đúng vậy.”
 
-“Áo khoác huy hiệu của ngươi đâu rồi?”
+“Huy hiệu áo giáp của ngươi đâu?”
 
-“Tôi thua sạch trên bàn xúc xắc rồi.”
+“Ta thua canh súc sắc mất rồi.”
 
-Tên hiệp sĩ chằm chằm nhìn anh trong chốc lát để phân định xem lời đáp của Thomas là một trò đùa hay một lời lăng mạ. Gã quyết định đó là một trò đùa.
+Gã đàn ông trừng mắt nhìn Thomas một lúc trong khi hắn cân nhắc xem lời của anh là một lời nói đùa hay một sự sỉ nhục. Cuối cùng hắn quyết định đó chỉ là một lời nói đùa.
 
-“Hà!” gã oang oang. “Ngươi đang làm cái quái gì trên cỗ xe đó thế hả, người anh em?”
+“Ha!” hắn phá lên cười. “Ngươi đang làm gì trên chiếc xe đó thế, hở bạn?”
 
-“Chúng tôi đang trên đường đến Đất Thánh để rước Thánh Giá Thật về.”
+“Chúng tôi đang đến Đất Thánh để mang Thập Giá Thật trở về.”
 
-“Hà! Đúng là một kẻ tếu táo. Ngươi có thể làm hành trình của chúng ta bớt nhàm chán bằng mấy trò đùa cợt nếu ngươi có ý định đi cùng chúng ta đấy.”
+“Ha! Đúng là một gã hay đùa cợt. Gã có thể làm cuộc hành trình của chúng ta bớt nhàm chán với mấy trò tiêu khiển nếu gã chịu đi cùng chúng ta đấy.”
 
-“Kệ xác gã đi,” một hiệp sĩ trẻ tuổi với mái tóc vàng óng ả cất lời. “Anh không thấy gã đã thân tàn danh bại rồi sao? Tên này là một kẻ cướp.”
+“Mặc kệ hắn đi,” một hiệp sĩ trẻ tuổi có mái tóc vàng óng lên tiếng. “Anh không thấy hắn đã sa cơ lỡ vận rồi sao? Tên này chẳng qua chỉ là một tên cướp.”
 
-Thomas tức tối, nhưng Delphine đã đặt tay lên tay anh trước khi anh kịp đặt nó lên chuôi kiếm.
+Thomas phát bực, nhưng Delphine đã đặt tay lên tay anh trước khi anh kịp đặt tay lên chuôi kiếm.
 
-“Thời buổi này thì thế nào mới gọi là kẻ cướp? Trong số các ngươi có kẻ nào là không thu phí qua đường của lữ khách? Và tai họa sẽ ập xuống đầu những kẻ không chịu trả phí, đúng không? Mẹ kiếp, ta sẽ không để ngươi lăng mạ một người từng cưỡi ngựa xông lên ngọn đồi đó trong khi ngươi còn đang ẵm búp bê ở Évry đâu.”
+“Thời buổi này thì ai chẳng là cướp? Trong số các anh có ai là kẻ không thu tiền mãi lộ của khách qua đường không? Và khốn thay cho những kẻ không chịu nộp đủ, phải thế không? Thề có Chúa, ta sẽ không để các anh sỉ nhục một người từng xông pha lên ngọn đồi đó trong khi các anh chỉ lo ôm búp bê ở Évry.”
 
-Tên hiệp sĩ tóc vàng nhăn mặt nhưng không đáp lại.
+Tên hiệp sĩ tóc vàng nhăn mặt nhưng không đáp lời.
 
-“Thế nào hả anh bạn? Chúng ta có một con ngựa dự phòng. Nó là của ngươi nếu ngươi chịu cưỡi cùng chúng ta.”
+“Ý ngươi sao, bạn hiền? Chúng ta có một con ngựa thừa. Nó là của ngươi nếu ngươi chịu đi cùng chúng ta.”
 
-Bàn tay Delphine siết chặt tay Thomas hơn, nhưng anh gạt tay cô bé ra.
+Bàn tay của Delphine siết chặt tay Thomas hơn, nhưng anh đã gạt tay cô bé ra.
 
-“Các ông định đi đâu?”
+“Các ngươi định đi đâu?”
 
-“Avignon. Đức Giáo hoàng đã triệu tập một số hiệp sĩ đến chầu. Đang có lời đồn về một cuộc Thập tự quân mới.”
+“Avignon. Đức Thánh Cha đã triệu tập một số hiệp sĩ diện kiến ngài. Đang có bàn tán về một cuộc thập tự chinh mới.”
 
-“Jerusalem sao?”
+“Jerusalem ư?”
 
-“Phải. Người ta xì xầm như thế. Ngài sẽ không ban sắc lệnh cho đến khi người Anh tuyên bố sẽ tham gia cùng chúng ta, dẫu nghe đâu nhà vua của họ đã hứa rồi.”
+“Phải. Người ta đang rỉ tai nhau thế. Ngài sẽ chưa ban chiếu chỉ cho đến khi người Anh tuyên bố họ sẽ tham gia cùng chúng ta, mặc dù có tin đồn rằng vua của họ đã hứa rồi.”
 
-Thomas cân nhắc điều này.
+Thomas trầm ngâm suy nghĩ.
 
-“Chúng tôi cũng đang hướng về Avignon.”
+“Chúng tôi cũng đang hướng đến Avignon.”
 
-“Thế thì quyết định vậy đi! Dẫn con hồng mã lên đây.”
+“Thế thì quyết định vậy đi! Dắt con ngựa tía lên đây.”
 
-Một gã cận vệ mặt đầy mụn bọc mặc chiếc áo cotehardie màu vàng nghệ cưỡi ngựa tiến lên, tay dắt chiếc dây cương của một con ngựa đực tía tuyệt đẹp.
+Một tên hầu cận mặt đầy mụn nhọt mặc áo màu vàng nghệ cưỡi ngựa tiến lại gần, tay cầm dây cương của một con tuấn mã màu tía rất đẹp.
 
-“Những người bạn đồng hành của tôi sẽ ngồi ở đâu?”
+“Bạn đồng hành của ta sẽ đi đâu?”
 
-Tên hiệp sĩ ghé sát lại, quan sát vị linh mục và cô bé.
+Tên hiệp sĩ rướn người lại gần, đảo mắt nhìn vị linh mục và cô bé từ đầu đến chân.
 
-“Trên cỗ xe chứ đâu nữa, sao cho đúng với địa vị của họ. Chúng ta sẽ tới Avignon trước nửa tháng. Còn cỗ xe này thì đến Giáng sinh vẫn đang lóc cóc trên đường đấy. Lên ngựa đi anh bạn, rồi để họ gặp ngươi ở đó.”
+“Ngồi trên xe chứ sao, cho đúng với thân phận của họ. Chúng ta sẽ đến Avignon trước nửa tháng. Chiếc xe này thì đến lễ Giáng sinh vẫn còn lóc cóc ở đâu đó cho mà xem. Lên ngựa đi, hở bạn, và để họ gặp lại ngươi ở đó.”
 
-“Tôi...”
+“Ta…”
 
-“Tôi, tôi, tôi. Đâu phải lúc diễn thuyết hả ngài hiệp sĩ. Lên ngựa để được đứng đái, hoặc chui vào cỗ xe mà ngồi xổm.”
+“Ta với chả tới. Giờ không phải lúc để thuyết giáo đâu, thưa ngài. Lên ngựa rồi đứng mà đi tiểu, hoặc ngồi xó trên xe mà giải quyết nỗi buồn đi.”
 
-“Các người cứ đi đường của mình đi,” Thomas lạnh lùng nói, “còn ta sẽ đi đường của ta.”
+“Cứ đi đường các người đi,” Thomas lạnh lùng nói, “còn ta sẽ đi đường của ta.”
 
-Có phải mũi của tên hiệp sĩ đó vừa nhăn lại như mũi sư tử không?
+Mũi tên hiệp sĩ vừa nhăn lại giống như mũi sư tử phải không?
 
-Áo khoác giáp của gã giờ đã khác; phía sau dải chữ V đỏ, một con sư tử chồm lên đang xé xác một ông lão giữa đấu trường.
+Áo giáp khoác ngoài của gã giờ đã khác; phía sau hình chữ V, một con sư tử đứng bằng hai chân sau đang xé xác một ông già trong đấu trường.
 
-Bầy khỉ đang ăn thịt một con ngựa mắt cuồng dại.
+Những con khỉ đang ăn thịt một con ngựa mắt trợn trừng.
 
-Tấm lưng đầy nốt mụn mủ của người đàn bà đã chết dưới cái hố.
+Cái lưng đầy nốt ruồi của người phụ nữ đã chết dưới hố sâu.
 
-“Con bé kia là ai?” tên hiệp sĩ hỏi.
+“Con nhỏ đó là ai vậy?” tên hiệp sĩ cất lời hỏi.
 
-“Chỉ là một đứa trẻ mồ côi.”
+“Chỉ là một đứa trẻ mồ côi thôi.”
 
-“Rốt cuộc nó là ai?”
+“Nó thực sự là ai?”
 
-“Đi mà hỏi mẹ ngươi ấy.”
+“Hỏi mẹ ngươi ấy.”
 
-“Hà.”
+“Ha.”
 
-Bàn tay Thomas lại tìm về phía chuôi kiếm, và một lần nữa Delphine lại gạt ra, thì thầm nhỏ đến mức chỉ đủ cho anh nghe thấy, “Đó là điều bọn chúng muốn đấy. Đây chỉ là những ảo ảnh bóng ma thôi, nhưng sự giận dữ của chú đang tiếp sức cho bọn chúng. Hãy gạt bỏ nó đi.”
+Bàn tay Thomas lại lướt tìm cán kiếm, và một lần nữa Delphine lại gạt tay anh ra, thì thầm trong miệng: “Đó là điều chúng muốn. Bọn chúng chỉ là những cái bóng, nhưng sự giận dữ của chú đang tiếp thêm sức mạnh cho chúng đấy. Hãy vứt bỏ nó đi.”
 
-“Hà,” Thomas nói. Rồi anh hình dung chiếc mũi của tên hiệp sĩ chính là cái đuôi ngựa. Anh tưởng tượng cái đuôi nhấc lên và một đống phân ngựa tuôn ra từ miệng tên hiệp sĩ. Tiếng “Hà” thách thức của anh biến thành một tiếng cười thực sự, và anh thả sức cười khoái trá.
+“Ha,” Thomas thốt lên. Sau đó, anh tưởng tượng mũi của tên hiệp sĩ chính là cái đuôi của một con ngựa. Anh hình dung nó đang nhấc lên và một đống phân ngựa rơi ra từ miệng tên hiệp sĩ. Tiếng cười thách thức “Ha” của anh biến thành một tiếng cười thực sự, và anh thả lỏng để mặc mình cười sảng khoái.
 
-Mặt tên hiệp sĩ đỏ gay.
+Khuôn mặt tên hiệp sĩ đỏ bừng lên.
 
-Gã nhe răng ra trong chớp mắt.
+Hắn nhe răng ra trong chớp mắt.
 
-Thomas càng cười to hơn.
+Thomas càng cười lớn hơn.
 
-Tên hiệp sĩ nén giận để lên tiếng, giọng run lên vì kìm nén.
+Tên hiệp sĩ cố lấy lại bình tĩnh để cất lời lần nữa, giọng hắn run rẩy.
 
-“Giá mà chúng ta có nhiều thời gian hơn. Ta rất muốn thảo luận thêm về điều này với ngươi. Nhưng có người đang đợi chúng ta rồi. Có lẽ đường đời của chúng ta sẽ còn giao nhau, khi ấy chúng ta có thể tận hưởng tình huynh đệ hiệp sĩ lâu hơn.”
+“Ước gì chúng ta có nhiều thời gian hơn. Ta rất muốn thảo luận thêm về chuyện này với các ngươi. Nhưng chúng ta có việc phải đi. Có lẽ đường đi lối về của chúng ta sẽ lại giao nhau, khi ấy chúng ta có thể nán lại trong tình bằng hữu hiệp sĩ.”
 
-“Chúc các ông may mắn với cuộc Thập tự quân,” vị linh mục nói thêm vào.
+“Chúc ngài thượng lộ bình an,” vị linh mục đáp lời.
 
-“Đi chết đi,” gã cận vệ mặc áo vàng thốt lên, vô thức sờ vào một nốt mụn nhọt trên mặt.
+“Cút xuống Địa Ngục mà hỏi nhau,” gã cận vệ mặc áo vàng nói, tay vô thức mân mê một nốt mụn trên mặt.
 
-Bọn chúng quay đầu ngựa rồi phóng tháo chạy ầm ầm xuống con đường dẫn tới Nemours, dẫm đạp những chiếc lá vàng đầu thu xuống lớp bùn đen đúa bên dưới.
+Họ quay đầu ngựa và phi nước đại rầm rập xuống con đường dẫn tới Nemours, giày xéo những chiếc lá vàng đầu mùa thu xuống lớp bùn đen bên dưới.
 
-Bọn chúng còn chưa đi khuất tầm mắt quá độ dài một khúc ca hát rong thì ánh mặt trời đã nhô lên giữa những vòm cây.
+Họ vừa đi khuất tầm mắt trong khoảng thời gian bằng một đoạn thơ của lãng tử thì mặt trời ló rạng giữa những tán cây.
 
-Nemours không cho cả ba người họ vào thành. Cổng thành đóng chặt, và một gã đàn ông gầy gò giơ xương trên bức tường thành bảo rằng họ sẽ bị bắn hạ nếu dám cưỡi xe lại gần hơn.
+Nemours không cho ba người họ vào. Các cổng thành đã bị chặn bít, và gã đàn ông gầy đét trên bốt phòng thủ bảo rằng họ sẽ bị bắn nếu cứ cố tiến lại gần.
 
-“Thế chúng tôi có thể lội qua sông ở đâu? Nếu chúng tôi không được dùng cầu của các người?”
+“Vậy chúng tôi có thể qua sông ở đâu? Nếu chúng tôi không được dùng cầu của các anh?”
 
-“Ta không biết.”
+“Tôi không biết.”
 
 “Chúng tôi có thể tìm thức ăn ở đâu?”
 
-“Chờ cho đến khi một đứa trong các người chết đói đi,” gã khuyên. “Rồi ăn thịt đứa đó. Chúng ta ở đây cũng đang xoay xở như thế đấy. Chúng ta gọi đó là món Gigot de Nemours. Nhưng không một ai được vào, và thề có Chúa, cũng chẳng có kẻ nào được ra.”
+“Hãy đợi cho đến khi một trong số các người chết đói,” hắn khuyên. “Rồi ăn kẻ đó. Chúng tôi vẫn đang xoay xở như thế đấy. Bọn tôi gọi đó là Món đùi người Nemours. Nhưng không một ai được bước vào, và thề có Chúa là không một ai được bước ra.”
 
-Bên kia thị trấn, gần bờ sông Loing, họ bắt gặp một khu cắm trại gồm khoảng hai mươi người nam nữ đang kéo lưới và canh tác trên những mảnh ruộng nhỏ. Thời buổi này thật hiếm thấy cảnh siêng năng cần cù đến vậy. Có thứ gì đó đang được ninh trong một chiếc nồi hầm lớn, tỏa ra mùi thơm béo ngậy như thiên đường. Vị linh mục đánh xe lừa dừng lại trước bức rào chắn bằng gỗ mới đẽo thô.
+Ở phía bên kia thị trấn, gần bờ sông Loing, họ bắt gặp một trại khoảng hai mươi người cả nam lẫn nữ đang kéo lưới và làm việc trên những mảnh ruộng nhỏ. Thật hiếm hoi khi thấy cảnh làm ăn chăm chỉ đến thế vào lúc này. Có thứ gì đó đang sôi sục trong một cái nồi hầm lớn, và nó sực nức mùi thơm béo ngậy tựa như mùi thức ăn nóng hổi từ Thiên Đàng. Vị linh mục kéo chiếc xe kéo lại gần hàng rào gỗ mới dựng sơ sài.
 
-Một người đàn bà với đôi má đỏ gay cùng chiếc mũi hằn rõ những tia máu ra hiệu cho hai người đàn ông tiến lại. Họ vốn đang cưa gỗ bằng chiếc cưa hai người cầm, nhưng giờ họ đặt cưa xuống và vác những chiếc rìu đốn gỗ lên, hờ hững vắt qua vai rồi đứng cạnh người phụ nữ.
+Người phụ nữ có đôi má đỏ au và chiếc mũi nổi gân ra hiệu cho hai người đàn ông lại gần. Nãy giờ họ đang cưa gỗ bằng chiếc cưa hai người, nhưng giờ họ đã đặt nó xuống và vác những chiếc rìu đốn củi, thõng tay giữ hững hờ trên vai khi đứng cạnh người phụ nữ.
 
-Ba người đó tiến lại gần cỗ xe đến mức bất thường, thời này người ta chẳng còn ai ngẫu nhiên bước tới gần người lạ như thế nữa. Vị linh mục vô thức ngả người về phía sau tránh né.
+Bộ ba tiến lại gần chiếc xe lạ thường; thời buổi này người ta chẳng còn đi thẳng đến chỗ người lạ như thế nữa. Vị linh mục vô thức ngả người tránh xa họ.
 
-“Các người có khỏe mạnh không?” vị linh mục hỏi.
+“Các anh chị có khỏe mạnh không?” vị linh mục hỏi.
 
-“Tôi đếch cần quan tâm họ có khỏe hay không,” Thomas nói. “Chúng ta sẽ xin họ thức ăn, dù tôi có phải ăn nó từ bàn tay của một kẻ phong cùi đi chăng nữa.”
+“Tôi cóc quan tâm họ có khỏe hay không,” Thomas nói. “Chúng ta đang xin đồ ăn của họ, dù tôi có phải bốc nó từ tay một kẻ phong hủi đi chăng nữa.”
 
-“Bây giờ chúng tôi khỏe mạnh rồi,” người đàn bà nói.
+“Bây giờ thì chúng tôi khỏe mạnh,” người phụ nữ nói.
 
-“Nếu cô không phiền cho tôi hỏi, điều đó nghĩa là sao?”
+“Nếu bà không phiền khi tôi hỏi, điều đó có nghĩa là gì?”
 
-“Nghĩa là tất cả chúng tôi ở đây đều đã từng bị bệnh rồi.”
+“Nó có nghĩa là chúng tôi đã trải qua dịch bệnh ở đây rồi.”
 
-“Và bệnh dịch đã biến mất rồi sao?”
+“Và nó đã qua đi ư?”
 
-“Nó chẳng bao giờ biến mất cả. Ý tôi là tất cả chúng tôi đều đã mắc bệnh. Và đã sống sót. Không ai bị nhiễm lại lần thứ hai. Chúng tôi gọi thị trấn của mình là Saint Lazarus; lũ khốn kiếp đằng sau bức tường thành kia đã không cho vợ chồng tôi vào. Chồng tôi đã chết. Tôi thì không, và các con trai tôi cũng vậy. Nhưng các con gái tôi thì chết rồi. Cả bốn đứa. Những người khác tìm đến đây. Giờ thì Nemours đầy rẫy những bù nhìn rơm cùng lũ ăn thịt người, và cứ khoảng một tuần chúng tôi lại đón nhận thêm những người sống sót. Chúng tôi sẽ cho các người ở lại nếu các người chấp nhận trải qua đêm đầu tiên trong một chiếc chăn của người bệnh. Trong các người có ai từng mắc bệnh chưa?”
+“Nó không bao giờ qua đi cả. Ý tôi là tất cả chúng tôi đều đã mắc bệnh và đã sống sót. Không ai bị nhiễm nó đến lần thứ hai. Chúng tôi gọi thị trấn của mình là Thánh Lazarus; đám khốn nạn sau những bức tường thành đã không cho chồng tôi và tôi bước vào. Ông ấy đã chết. Tôi thì không, và các con trai tôi cũng vậy. Mấy đứa con gái thì chết rồi. Bốn đứa. Những người khác đã tới. Giờ thì Nemours đầy rẫy bù nhìn rơm cùng những kẻ ăn thịt người, và tuần nào chúng tôi cũng đón nhận thêm những người sống sót. Chúng tôi sẽ cho các người dọn vào ở nếu các người sẵn sàng trải qua đêm đầu tiên trên một chiếc chăn mang mầm bệnh. Có ai trong số các người từng mắc bệnh này chưa?”
 
-“Chỉ có anh ta thôi,” vị linh mục nói, chỉ tay về phía Thomas.
+“Chỉ một mình anh ấy thôi,” vị linh mục nói, ra hiệu về phía Thomas.
 
-“Ừ. Trông anh ta có vẻ khỏe mạnh, dù chẳng thể lúc nào cũng nhìn vào đó mà đoán được. Chúng tôi nghĩ cứ năm người thì có một người qua khỏi, miễn là loại bệnh mưng mủ sưng tấy. Còn lũ ho ra máu thì chết sạch. Những kẻ người biến thành màu đen cũng chết nốt. Mà lại còn chết rất nhanh.”
+“Đúng thế. Trông gã có vẻ khỏe mạnh, mặc dù bạn không phải lúc nào cũng có thể đoán được qua bề ngoài đó. Chúng tôi nghĩ cứ năm người thì có một người qua khỏi, miễn là loại bệnh sưng phù. Những kẻ ho ra máu đều chết hết. Những kẻ chuyển sang màu đen cũng chết. Và chết rất nhanh.”
 
-“Ở thị trấn của tôi không có loại bệnh đó.”
+“Thị trấn của tôi không có ai bị những triệu chứng đó cả.”
 
 “Các người may mắn đấy.”
 
-“Chúng tôi đang chết đói. Cô có thể giúp chúng tôi không?”
+“Chúng tôi đang chết đói. Bà có thể giúp chúng tôi không?”
 
-Người đàn bà gãi cằm, ngắm nghía họ một lượt.
+Người phụ nữ gãi cằm, đưa mắt săm soi họ.
 
 “Các người có chịu làm việc để đổi lấy thức ăn không?”
 
 “Lạy Chúa, có chứ.”
 
-“Các người làm được gì?”
+“Các người làm được những gì?”
 
-“Anh ta biết giết người. Tôi biết đọc tiếng Latinh. Còn cô bé thì biết đặt câu hỏi. Và cũng biết đọc tiếng Latinh nữa.”
+“Thomas giết người. Tôi đọc được tiếng Latinh. Cô bé này hay đặt câu hỏi, và cũng đọc được tiếng Latinh.”
 
-“Được rồi. Gã to con giúp dựng hàng rào. Ông cũng vậy. Còn cô bé thì vá lưới. Các người làm cho chúng tôi nửa ngày công và chúng tôi sẽ cho các người ăn tối nay. Nhưng rồi ngày mai các người phải lên đường. Chúng tôi không muốn bắt đầu quý mến các người rồi đùng một cái thấy các người lăn đùng ra chết đâu.”
+“Được rồi. Gã to con sẽ phụ giúp dựng hàng rào. Cả vị linh mục nữa. Còn cô bé thì vá lưới. Các người làm việc nửa ngày và tối nay chúng tôi sẽ cho các người ăn. Nhưng sau đó ngày mai các người phải lên đường. Chúng tôi không muốn bắt đầu quý mến các người để rồi các người lại lăn ra chết trên tay chúng tôi đâu.”
 
-“Thỏa thuận như thế nhé. Cô có muốn tôi làm một lễ Mễ-sa cho các người vào buổi sáng không?”
+“Thỏa thuận vậy đi. Bà có muốn tôi dâng lễ Misa vào buổi sáng cho mọi người không?”
 
-“Cái gì, Chúa-trên-Trời sao? Điều duy nhất tôi nói với Chúa là tên các con gái tôi. Và đó chẳng phải lời cầu nguyện. Đó là lời trách hờn. Chúng tôi rất biết ơn nếu ông không đọc bất kỳ lời chúc tụng ban phước nào trong bữa tối.”
+“Gì cơ, Chúa trên Thiên Đàng á? Thứ duy nhất tôi nói với Chúa là tên những đứa con gái của tôi. Và đó không phải là một lời cầu nguyện, đó là một lời trách mắng. Chúng tôi sẽ cảm ơn nếu ngài không đọc bất kỳ lời cầu ban phước nào vào bữa tối.”
 
-Công việc vất vả, nhưng rất tốt lành. Delphine học được những kỹ thuật vá lưới tinh xảo từ một cậu bé có cha mẹ đã qua đời, và người cha trong cơn mê sảng vì sốt cao từng cố dùng một thanh sắt nung đỏ để làm đực mắt cậu, sao cho cậu bé không bị lây bệnh qua đường mắt. Ông ta chỉ kịp làm hỏng một bên mắt trước khi cậu bé, vốn đã nhiễm bệnh từ trước, chạy đến nhà người chú và mang mầm bệnh tới đó. Cậu tỉnh dậy sau những cơn sốt và nhận ra mình cô độc trong một căn nhà đầy xác chết. Chẳng ai khác chịu nhận cậu, thế nên cậu đã đi bộ đến Nemours. Rồi sau đó là Saint Lazarus.
+Công việc rất vất vả nhưng hữu ích. Delphine học được những mẹo khéo léo trong việc vá lưới từ một cậu bé mồ côi cha mẹ. Người cha của cậu vì phát cơn sốt điên dại đã cố chọc mù mắt cậu bằng một thanh củi đang cháy đỏ để cậu bé không bị lây bệnh qua đường thị giác. Ông ta chỉ kịp làm hỏng một bên mắt trước khi cậu bé, lúc đó đã bị nhiễm bệnh, chạy đến nhà chú mình và mang mầm bệnh tới đó. Cậu tỉnh dậy sau những cơn sốt và thấy mình cô độc trong nhà quàn. Không ai khác chịu nhận cậu, thế là cậu đi bộ đến Nemours, rồi đến Thánh Lazarus.
 
-Người đàn bà ăn trước cùng các con trai. Sau đó họ dọn đồ ăn cho những người còn lại, đong đếm từng giọt sao cho ai cũng nhận được phần ăn bằng nhau.
+Người phụ nữ ăn trước cùng các con trai của bà. Sau đó họ phục vụ những người còn lại, đong đếm từng giọt để ai cũng nhận được phần ăn như nhau.
 
-“Món hầm này tuyệt hảo thật đấy,” vị linh mục nói. “Có những gì trong này vậy?”
+“Món hầm này thật xuất sắc,” vị linh mục nói. “Trong đó có gì vậy?”
 
-Người đàn bà kể cho ông nghe.
+Người phụ nữ liền bảo cho ông biết.
 
-Bắp cải. Củ cải. Nấm. Thịt ba chỉ heo. Và vài nhúm hạt tiêu thật.
+Bắp cải. Củ cải trắng. Nấm. Thịt ba rọi heo. Và vài nhúm tiêu thật.
 
-Và đúng vào khoảnh khắc đó, một con chim sẻ trên vòm cây phía trên Thomas đã thả một bãi phân vào bát của anh.
+Và đúng vào khoảnh khắc đó, một con chim sẻ đậu trên cành cây ngay phía trên đầu Thomas đã phóng uế vào bát thức ăn của gã.
 
+Họ ngủ trong một căn phòng đập lúa vẫn còn thoang thoảng mùi lúa mạch của năm ngoái, và vào buổi sáng, họ lại trèo lên chiếc xe kéo. Người phụ nữ đưa cho họ một túi quả việt quất cùng một quả bí ngô mang theo đường, đồng thời bảo họ rằng cách đó ba dặm xuôi dòng sông có một thị trấn vẫn còn cây cầu gỗ đứng vững.
 
-<div class="scene-break text-center" style="text-align: center; margin: 2rem 0; font-size: 1.2rem; letter-spacing: 0.5em;">* * *</div>
+“Tên nó là gì vậy?” vị linh mục hỏi.
 
-Họ ngủ trong một căn phòng đập lúa vẫn còn thoang thoảng mùi đại mạch của vụ mùa năm ngoái, và đến buổi sáng họ trở lại cỗ xe lừa. Người đàn bà đưa cho họ một bao quả việt quất cùng một quả bí ngô để mang theo, rồi bảo họ rằng có một thị trấn cách đó ba dặm về phía hạ lưu vẫn còn giữ được một cỗ cầu gỗ.
+“Không quan trọng đâu. Mọi người đều chết cả rồi. Nơi này sẽ mọc đầy cỏ dại trong vòng một năm nữa, ngoại trừ cái tháp chuông. Ồ, và nếu các ngươi thấy bất kỳ loại quả màu vàng nào trên cây, đừng có ăn nó. Nó thối rữa cả rồi.”
 
-“Thị trấn đó tên gì?” vị linh mục hỏi.
+Bà cười khó hiểu trước câu nói đó, rồi vỗ vào mông con la để thúc nó di chuyển, giơ lòng bàn tay chai sần lên vẫy chào tạm biệt khi họ lóc cóc bỏ đi.
 
-“Chẳng quan trọng đâu. Ai nấy đều chết cả rồi. Chỉ trong một năm nữa nơi đó sẽ mọc đầy cỏ dại, ngoại trừ tháp chuông nhà thờ. Ồ, và nếu các người có nhìn thấy bất kỳ thứ quả màu vàng nào trên cây, đừng có ăn. Nó thối rồi đấy.”
+Khu rừng lại trở nên rậm rạp, và dưới những cành cây của một cội sồi rất cổ thụ, họ nhìn thấy một ánh vàng lóe lên. Khi đến gần hơn, họ nhận ra đó là một chiếc áo chẽn dài màu vàng nghệ, đang khoác lên cái xác đã trương phềnh từ một tuần trước và đang nhe răng cười của một tên cận vệ bị treo cổ; tất cả bọn họ đều nhận ra chiếc áo chẽn dài đó, và biết rằng chủ nhân của nó từng có rất nhiều mụn nhọt quanh mặt. Có một tấm biển treo quanh cổ hắn.
 
-Bà ta nở một nụ cười bí hiểm sau câu nói đó, rồi vỗ vào mông con lừa để nó di chuyển, giơ bàn tay chai sạn ra vẫy chào khi họ lóc cóc rời đi.
-
-Khu rừng lại trở nên rậm rạp, và dưới những cành của một cây sồi già xù xì, họ nhìn thấy một vệt màu vàng thoáng qua. Khi tiến lại gần hơn, họ nhận ra đó là một chiếc áo cotehardie màu vàng nghệ, khoác trên cái xác chết treo cổ nghiến răng cười đã được một tuần của gã cận vệ; tất cả bọn họ đều nhận ra chiếc áo cotehardie đó, và biết rằng chủ nhân của nó từng có một khuôn mặt đầy mụn nhọt. Có một tấm bảng treo quanh cổ gã.
-
-Vị linh mục rùng mình và làm dấu thánh giá.
+Vị linh mục run rẩy và làm dấu thánh giá.
 
 KẺ HIẾP DÂM

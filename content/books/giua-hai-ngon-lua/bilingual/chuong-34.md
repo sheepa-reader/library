@@ -1,6 +1,6 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI: Về Người Em Trai Của Vị Linh Mục
+# CHƯƠNG BA MƯƠI
 
 <p class="para-en">Robert Hanicotte stood in the stables, breaking up a leaf of hay for one of the cardinal’s six black Arabian stallions. This one bore the name Guêpe because he was small and wasp-waisted, mean like a wasp; not as fast as the others at a straight run, but capable of breathtaking turns and giddy leaps. He was not the cardinal’s favorite, but Robert loved him more than perhaps anything in this city. He would never let the old man know, though, or permission to ride him would be used as leverage.</p>
 

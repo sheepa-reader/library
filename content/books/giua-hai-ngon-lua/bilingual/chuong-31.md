@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI TÁM: Về Vấn Đề Danh Dự
+# CHƯƠNG HAI MƯƠI TÁM
 
 <p class="para-en">He trotted after the horsemen until the weight of his hauberk and the warmth of the day slowed him to a fast walk. He knew where they were going, of course. And he had no idea what he would do if he caught up with them, whether in Avignon or on the road. He would prefer the road.</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-en">His hands and more were up your wife’s gown she loved it she loved a pretty young man in her bed and he is pretty not a scarred old bullock like you have you seen your ridiculous beard you look like a whoring prophet</p>
 
-<p class="para-vi-sub">Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas. Ả thích điều đó, ả thích một gã trai trẻ đẹp đẽ trên giường, và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas. Ngươi đã nhìn thấy bộ râu lố bịch của mình chưa, ngươi trông giống như một tên tiên tri đĩ thõa.</p>
+<p class="para-vi-sub">Hai tay và hơn thế nữa của ngươi đang nằm trong chiếc váy của vợ Thomas ả thích điều đó ả thích một gã trai trẻ đẹp đẽ trên giường và hắn đẹp thật chứ không phải một con bò mộng sẹo lẹo như Thomas đã nhìn thấy bộ râu lố bịch của mình chưa ngươi trông giống như một tên tiên tri đĩ thõa</p>
 
 <p class="para-en">Thomas blinked his eyes hard to bring him back to now; this was not a time to let his thoughts wander.</p>
 
@@ -204,7 +204,7 @@
 
 <p class="para-en">Some of which are my lands</p>
 
-<p class="para-vi-sub">Vài nơi trong số đó là lãnh địa của ta.</p>
+<p class="para-vi-sub">Vài nơi trong số đó là lãnh địa của ta</p>
 
 <p class="para-en">The crow again.</p>
 
@@ -224,7 +224,7 @@
 
 <p class="para-en">“I am offering you the chance to redeem your honor, and mine, in an affair of arms. Here, in the sight of witnesses, both men and…”</p>
 
-<p class="para-vi-sub">“Ta đang cho ngươi cơ hội để chuộc lại danh dự của ngươi, và của cả ta, trong một trận quyết đấu vũ trang. Ngay tại đây, dưới sự chứng kiến của người phàm và...”</p>
+<p class="para-vi-sub">“Ta đang cho ngươi cơ hội để chuộc lại danh dự của ngươi, và của cả ta, trong một trận quyết đấu vũ trang. Ngay tại đây, dưới sự chứng kiến của người phàm và…”</p>
 
 <p class="para-en">“And what?”</p>
 
@@ -256,7 +256,7 @@
 
 <p class="para-en">“This man is excommunicate,” he declared, “and cut off from honor, and the rights and privileges that come with it…” He felt the gazes on him now, and they were not kind. They weren’t going to let him dismiss this man now that they knew who he was. If Chrétien opened the gates of Jerusalem with one hand and burned down Acre with the other, these men would remember his cowardice here, by this stream, and they would speak of it. His father had been cousin to the king; his blood was royal on his mother’s side, too. He would be king of Navarre when she died. Death was promiscuous now; it was not impossible that the crown of France might fall to him, him, if he had enough support. If he was not thought a coward.</p>
 
-<p class="para-vi-sub">“Tên này đã bị Sự Rút phép Thông công,” hắn lớn tiếng tuyên bố, “và bị tước đoạt danh dự cùng những quyền lợi, đặc ân đi kèm...” Hắn cảm nhận được những ánh mắt đang đổ dồn vào mình lúc này, và chúng chẳng mấy thiện cảm. Bọn họ sẽ không để hắn phớt lờ gã này một khi đã biết gã là ai. Dù Chrétien có mở được cổng Jerusalem bằng một tay và thiêu trụi Acre bằng tay kia, những kẻ này vẫn sẽ ghi nhớ sự hèn nhát của hắn tại đây, bên con suối này, và họ sẽ bàn tán về nó. Cha hắn là họ hàng của nhà vua; dòng máu hoàng gia cũng chảy trong huyết quản bên phía mẹ hắn. Hắn sẽ là vua xứ Navarre khi bà qua đời. Cái chết giờ đây thật bừa bãi; không loại trừ khả năng vương miện nước Pháp có thể thuộc về hắn, chính là hắn, nếu hắn có đủ sự hậu thuận. Nếu người ta không coi hắn là kẻ hèn nhát.</p>
+<p class="para-vi-sub">“Tên này đã bị Sự Rút phép Thông công,” hắn lớn tiếng tuyên bố, “và bị tước đoạt danh dự cùng những quyền lợi, đặc ân đi kèm…” Hắn cảm nhận được những ánh mắt đang đổ dồn vào mình lúc này, và chúng chẳng mấy thiện cảm. Bọn họ sẽ không để hắn phớt lờ gã này một khi đã biết gã là ai. Dù Chrétien có mở được cổng Jerusalem bằng một tay và thiêu trụi Acre bằng tay kia, những kẻ này vẫn sẽ ghi nhớ sự hèn nhát của hắn tại đây, bên con suối này, và họ sẽ bàn tán về nó. Cha hắn là họ hàng của nhà vua; dòng máu hoàng gia cũng chảy trong huyết quản bên phía mẹ hắn. Hắn sẽ là vua xứ Navarre khi bà qua đời. Cái chết giờ đây thật bừa bãi; không loại trừ khả năng vương miện nước Pháp có thể thuộc về hắn, chính là hắn, nếu hắn có đủ sự hậu thuận. Nếu người ta không coi hắn là kẻ hèn nhát.</p>
 
 <p class="para-en">He would have to fight.</p>
 
@@ -344,7 +344,7 @@
 
 <p class="para-en">“Then prepare yourself for the justice you—” he started, but Thomas launched himself at just the moment he knew the other man would have to inhale. He was stronger than the comte, much stronger, and lighter, too, since he had little armor. The comte defended himself, his training overriding his fear enough to keep from being killed, though only just. His breastplate deflected a thrust, aimed at the armpit, that would have broken his ribs through chain mail. He panted and gave ground, setting himself again.</p>
 
-<p class="para-vi-sub">“Ngươi hãy chuẩn bị đón nhận công lý mà...” hắn vừa mở lời, nhưng Thomas liền lao đến ngay khoảnh khắc anh biết đối phương buộc phải hít một hơi vào ngực. Thomas mạnh hơn gã bá tước rất nhiều, mạnh hơn hẳn, lại còn nhẹ hơn vì mặc rất ít giáp. Gã bá tước tự vệ, sự huấn luyện đã lấn át nỗi sợ đủ để không bị kết liễu ngay lập tức, dù chỉ trong đường tơ kẽ tóc. Tấm giáp ngực của hắn đỡ được một cú đâm nhắm vào nách, thứ vốn có thể bẻ gãy xương sườn xuyên qua lớp áo xích. Hắn thở hồng hộc và lùi lại, lấy lại tư thế thủ.</p>
+<p class="para-vi-sub">“Ngươi hãy chuẩn bị đón nhận công lý mà…” hắn vừa mở lời, nhưng Thomas liền lao đến ngay khoảnh khắc anh biết đối phương buộc phải hít một hơi vào ngực. Thomas mạnh hơn gã bá tước rất nhiều, mạnh hơn hẳn, lại còn nhẹ hơn vì mặc rất ít giáp. Gã bá tước tự vệ, sự huấn luyện đã lấn át nỗi sợ đủ để không bị kết liễu ngay lập tức, dù chỉ trong đường tơ kẽ tóc. Tấm giáp ngực của hắn đỡ được một cú đâm nhắm vào nách, thứ vốn có thể bẻ gãy xương sườn xuyên qua lớp áo xích. Hắn thở hồng hộc và lùi lại, lấy lại tư thế thủ.</p>
 
 <p class="para-en">“Anything else to say?” Thomas asked, but this time the younger man kept quiet. He licked out at Thomas with the point of his sword, and his reach was so long it might have caught a slower man, but Thomas batted it down, struck the young man a vicious upswing against his helm, and then knocked his sword down again. The comte managed to hold on to it, using it to block the blow that came at his legs. And so it went. Thomas worked at exhausting his better-armored foe, battering down his sword six times, causing the other knight, whose sword was getting very heavy, to panic and flail. Thomas ducked one fatigued upswing and this time planted his sword deftly in the comte’s armpit; the chain kept it from killing him, but he tore muscle, and the comte cried out.</p>
 
@@ -480,7 +480,7 @@
 
 <p class="para-en">“Christ!” he roared. “Did you see what I just had to do because of one of you blind pricks? And I’ll do the same to any man that looses on a woman or a child again, understand? You look first. This doesn’t fucking go, you hear?” The thirty Englishmen, many of whom had served under him when he was a centenar under King Edward, all said, “Aye, sir.” His Gascon second in command repeated the order in French, and the dozen Gascons nodded, too.</p>
 
-<p class="para-vi-sub">“Chúa ơi!” lão gầm lên. “Chúng mày có thấy tao vừa phải làm gì chỉ vì một thằng mù dở nào trong lũ chúng mày không? Và tao sẽ làm điều tương tự với bất kỳ kẻ nào còn dám ra tay với phụ nữ hay trẻ em một lần nữa, hiểu chưa? Phải nhìn cho kỹ vào. Trò này không được phép làm thế, nghe rõ chưa?” Ba mươi tên lính Anh, nhiều kẻ từng phục vụ dưới quyền lão khi lão làm đội trưởng dưới thời Vua Edward, đồng thanh đáp: “Vâng, thưa ngài.” Tên phó tướng người Gascony của lão lặp lại mệnh lệnh bằng tiếng Pháp, và chục tên lính Gascony cũng gật đầu.</p>
+<p class="para-vi-sub">“Chúa ơi!” lão gầm lên. “Chúng mày có thấy tao vừa phải làm gì chỉ vì một thằng mù dở nào trong lũ chúng mày không? Và tao sẽ làm điều tương tự với bất kỳ kẻ nào còn dám ra tay với phụ nữ hay trẻ em một lần nữa, hiểu chưa? Phải nhìn cho kỹ vào. Trò này đéo được phép làm thế, nghe rõ chưa?” Ba mươi tên lính Anh, nhiều kẻ từng phục vụ dưới quyền lão khi lão làm đội trưởng dưới thời Vua Edward, đồng thanh đáp: “Vâng, thưa ngài.” Tên phó tướng người Gascony của lão lặp lại mệnh lệnh bằng tiếng Pháp, và chục tên lính Gascony cũng gật đầu.</p>
 
 <p class="para-en">He walked to the body of a very rich knight, a big, young fellow in exquisite armor that had nonetheless failed to stop the arrow that went through his aventail under the chin. He sorted through the pouch on the fellow’s belt and took the coins out, tossing aside a piece of rolled parchment bound with a cloth-of-gold ribbon.</p>
 
@@ -756,7 +756,7 @@
 
 <p class="para-en">“How am I supposed to eat if I keep a whoring helmet on all the time? Or speak? Or…”</p>
 
-<p class="para-vi-sub">“Làm sao chú có thể ăn uống được nếu lúc nào cũng đội cái mũ sắt chết tiệt này chứ? Hoặc nói chuyện? Hoặc là...”</p>
+<p class="para-vi-sub">“Làm sao chú có thể ăn uống được nếu lúc nào cũng đội cái mũ sắt chết tiệt này chứ? Hoặc nói chuyện? Hoặc là…”</p>
 
 <p class="para-en">She held up the helmet to him.</p>
 
@@ -856,7 +856,7 @@
 
 <p class="para-en">“Whatever we have to do in that city—and I’m frightened of that city, I’m not ashamed to tell you—it’s going to get us killed, right? Isn’t that enough?”</p>
 
-<p class="para-vi-sub">“Dù chúng ta phải làm gì ở cái thành phố đó đi chăng nữa, và chú thú thật là chú rất sợ cái thành phố ấy, chú chẳng có gì phải xấu hổ khi nói ra điều đó cả, nhưng nó sẽ giết chết chúng ta mất, đúng không? Chừng đó vẫn chưa đủ sao?”</p>
+<p class="para-vi-sub">“Dù chúng ta phải làm gì ở cái thành phố đó đi chăng nữa — và chú thú thật là chú rất sợ cái thành phố ấy, chú chẳng có gì phải xấu hổ khi nói ra điều đó cả — nhưng nó sẽ giết chết chúng ta mất, đúng không? Chừng đó vẫn chưa đủ sao?”</p>
 
 <p class="para-en">She furrowed her brow, thinking.</p>
 

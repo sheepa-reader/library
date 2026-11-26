@@ -1,6 +1,6 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI CHÍN: Về Cuộc Chiến Đang Đến Gần
+# CHƯƠNG MƯỜI CHÍN
 
 Gió nổi lên, lúc thốc ngược về phương bắc, lúc quật mạnh xuống hướng nam cứ như thể có một sinh vật khổng lồ nào đó đang nuốt lấy không khí rồi thổi phì ra. Thomas và vị linh mục nhìn nhau, âm thanh lá cây xào xạc bao trùm lấy họ đặc quánh và bầu trời dường như ánh lên một màu xanh lục nhạt, dẫu mặt trời đã lặn hẳn.
 

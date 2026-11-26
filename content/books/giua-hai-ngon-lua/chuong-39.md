@@ -1,8 +1,8 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI LĂM: Về vị Bác sĩ
+# CHƯƠNG BA MƯƠI LĂM
 
-Cậu thiếu niên phụ việc cho vị y sư của Đức Giáo hoàng thức dậy từ chiếc giường nhỏ ở đầu bên kia căn phòng và cầm một cây nến bước đến chỗ chủ nhân, người đang rên rỉ và oằn mình trong một cơn ác mộng khác. Đã bao nhiêu đêm liên tiếp cậu thấy ông bị quấy rầy bởi những giấc mơ như thế này? Cậu biết vị y sư, Maître de Chauliac, là một người tốt, và tự hỏi những con quỷ nào lại có thể hành hạ một con người nhân hậu đến vậy.
+Cậu thiếu niên phục vụ cho vị y sư của Đức Giáo Hoàng thức dậy từ chiếc giường nhỏ ở đầu bên kia căn phòng và cầm một cây nến bước đến chỗ chủ nhân, người đang rên rỉ và oằn mình trong một cơn ác mộng khác. Đã bao nhiêu đêm liên tiếp cậu thấy ông bị làm phiền bởi những giấc mơ như thế này? Cậu biết vị y sư, Maître de Chauliac, là một người tốt, và tự hỏi những ác quỷ nào có thể hành hạ một con người nhân hậu đến vậy.
 
 Đây là cơn ác mộng tồi tệ nhất từ trước tới nay.
 
@@ -14,13 +14,13 @@ Cậu đã học được cách không đánh thức ông trong những lúc nh�
 
 Rượu, cậu bé nghĩ.
 
-Những giấc mơ tồi tệ nhất luôn khiến ông giật mình thức giấc và đòi mình rót rượu.
+Những giấc mơ tồi tệ nhất luôn đánh thức ông ấy và ông sẽ đòi ta rót rượu.
 
-Nhưng nếu mình rót rượu mà ông ấy không tỉnh giấc, mình sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.
+Nhưng nếu ta rót rượu mà ông ấy không tỉnh giấc, ta sẽ phải đổ nó lại vào bình và cọ rửa chiếc cốc để mấy con côn trùng nhỏ không chui vào đó.
 
 Hãy rót rượu đi, Tristan.
 
-Cậu cầm một chiếc cốc nhỏ tráng men trên kệ và rót rượu từ một chiếc bình thiếc có ba chân gà. Cậu rất thích chiếc bình đó, cũng như rất thích mùi hương của rượu. Dù vậy, dạo gần đây thì không hẳn. Có gì đó không ổn, giống như một chút mùi thối rữa. Phải chăng họ đã đợi quá muộn mới thu hoạch nho? Cậu từng làm phụ việc cho một thợ làm bánh, và từng nghĩ đến chuyện phấn đấu để trở thành quản gia kiêm trông coi hầm trái cây của Đức Giáo hoàng nằm dưới chân tháp nhà bếp, bởi cậu rất giỏi trong việc đánh hơi thấy sự mục rữa. Mẹ cậu nói rằng cậu sở hữu chiếc mũi của một chú chó. Nhưng vị bác sĩ vĩ đại đã nhận ra cậu là một đứa trẻ lanh lợi thế nào và kéo cậu rời khỏi nhà bếp để thay thế cho người phụ việc trước đó đã chết vì bệnh dịch hạch.
+Cậu cầm một chiếc cốc nhỏ tráng men trên kệ và rót rượu từ một chiếc bình thiếc có ba chân gà. Cậu rất thích chiếc bình đó, cũng như rất thích mùi hương của rượu. Dù vậy, dạo gần đây thì không hẳn. Có gì đó không ổn, giống như một chút mùi thối rữa. Phải chăng họ đã đợi quá muộn mới thu hoạch nho? Cậu từng làm phụ việc cho một thợ làm bánh, và từng nghĩ đến chuyện phấn đấu để trở thành quản gia kiêm trông coi hầm trái cây của Đức Giáo Hoàng nằm dưới chân tháp nhà bếp, bởi cậu rất giỏi trong việc đánh hơi thấy sự mục rữa. Mẹ cậu nói rằng cậu sở hữu chiếc mũi của một chú chó. Nhưng vị bác sĩ vĩ đại đã nhận ra cậu là một đứa trẻ lanh lợi thế nào và kéo cậu rời khỏi nhà bếp để thay thế cho người phụ việc trước đó đã chết vì bệnh dịch hạch.
 
 Thực ra, ba trợ lý của bác sĩ đã chết vì bệnh dịch hạch, nhưng vị bác sĩ nhân hậu thì chưa từng mắc phải.
 
@@ -36,7 +36,7 @@ Vị bác sĩ lúc này đã ngồi dậy, đôi mắt to thân thiện của ô
 
 “Cứ chuẩn bị quần áo giúp ta, làm ơn.”
 
-Người đàn ông và cậu bé bước vào một trong những hành lang vòm tráng lệ của cung điện, rồi vị y sư dừng lại, trầm ngâm suy nghĩ. Ông nhìn sang bên trái, hướng dẫn đến phòng ngủ và phòng làm việc liền kề của Đức Giáo hoàng. Cậu bé đứng đợi cùng ngọn nến, trông rất giống một chú chó nhỏ đang chờ chủ nhân mở cửa.
+Người đàn ông và cậu bé bước vào một trong những hành lang vòm tráng lệ của cung điện, rồi vị y sư dừng lại, trầm ngâm suy nghĩ. Ông nhìn sang bên trái, hướng dẫn đến phòng ngủ và phòng làm việc liền kề của Đức Giáo Hoàng. Cậu bé đứng đợi cùng ngọn nến, trông rất giống một chú chó nhỏ đang chờ chủ nhân mở cửa.
 
 “Đức Thánh Cha có khỏe không ạ?” Tristan cất lời.
 
@@ -52,7 +52,7 @@ Người đàn ông và cậu bé bước vào một trong những hành lang v�
 
 Bây giờ ông quay người bước đi và trở về phòng của mình.
 
-Tristan chăm chú theo dõi đầy kinh ngạc khi vị bác sĩ lục tìm các văn kiện trong bàn làm việc của ông, phần lớn trong số đó đến thẳng từ chỗ Đức Giáo hoàng. Khi tìm thấy một văn kiện có vẻ phù hợp với mục đích của mình, ông với lấy một con dao phẫu thuật rồi nhẹ nhàng hệt như đang cắt vào da thịt sống, tách hai phần của con dấu sáp ra khỏi văn bản. Sau đó, ông lấy một tờ giấy da mới và viết thứ gì đó bằng một nét chữ vô cùng cẩn trọng. Khi đã hoàn tất, ông cuộn nó lại và trước sự kinh ngạc của cậu bé, hơ nóng con dao của mình trên ngọn lửa nến rồi dùng nó để hàn gắn hai nửa con dấu lại với nhau như cũ.
+Tristan chăm chú theo dõi đầy kinh ngạc khi vị bác sĩ lục tìm các văn kiện trong bàn làm việc của ông, phần lớn trong số đó đến thẳng từ chỗ Đức Giáo Hoàng. Khi tìm thấy một văn kiện có vẻ phù hợp với mục đích của mình, ông với lấy một con dao phẫu thuật rồi nhẹ nhàng hệt như đang cắt vào da thịt sống, tách hai phần của con dấu sáp ra khỏi văn bản. Sau đó, ông lấy một tờ giấy da mới và viết thứ gì đó bằng một nét chữ vô cùng cẩn trọng. Khi đã hoàn tất, ông cuộn nó lại và trước sự kinh ngạc của cậu bé, hơ nóng con dao của mình trên ngọn lửa nến rồi dùng nó để hàn gắn hai nửa con dấu lại với nhau như cũ.
 
 “Ta thấy tâm trí con đang sục sôi những thắc mắc, thế nhưng, vì nhận thức được sự tế nhị của hoàn cảnh, con lại không hề cất lời hỏi. Thay vào đó, con tự mình quan sát và rút ra kết luận của riêng mình. Ta nghĩ con có một tương lai rộng mở, Tristan. Ta nghĩ con sẽ trở nên cực kỳ hữu dụng đấy.”
 
@@ -60,7 +60,7 @@ Giờ thì họ lại rời đi, cậu bé vội vã rảo bước để theo k�
 
 “Ta biết con đang tự hỏi tại sao ta lại đến cái nơi khủng khiếp này, chứ chưa nói đến chuyện kéo cả con theo. Sự thật là ta không thể nói được. Ngoại trừ việc những kẻ thực hiện ngón nghề của chúng dưới địa ngục trần gian này là kiểu người cần đến hai cặp mắt giám sát để làm cho đúng đắn.”
 
-Tiếng một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.
+Một người đàn ông rên rỉ vang lên trong bóng tối phía trước họ.
 
 Hầm ngục.
 
@@ -114,19 +114,19 @@ Sournois đút tờ sắc lệnh vào túi.
 
 “Mặc thây nó,” Sournois lẩm bẩm, rồi đi lấy một chiếc xe cút kít.
 
-Gã thấy lạnh buốt.
+Thomas thấy lạnh buốt.
 
-Thomas đau đớn dữ dội ở rất nhiều nơi, đến mức cảm giác tê dại kỳ lạ bao trùm lấy cơ thể anh. Nỗi khổ lớn nhất của anh lúc này là cái lạnh, thứ cảm giác như thể sẽ chẳng bao giờ chịu rời khỏi người anh.
+Thomas đau đớn dữ dội ở rất nhiều nơi đến mức một thứ cảm giác tê dại kỳ lạ đã bao trùm lấy cơ thể anh. Nỗi khổ lớn nhất của anh lúc này là cái lạnh, thứ cảm giác như thể sẽ chẳng bao giờ chịu rời khỏi người anh.
 
-Gã không biết kẻ đã đẩy xe đưa mình ra khỏi hầm ngục tối và đi qua cánh cửa dành cho xe ngựa là ai, nhưng gã linh cảm rằng mình đã chết nếu cứ ở lại đó. Không phải vì những vết thương. Có cái gì đó đang tìm đến anh, và anh vừa mới trốn thoát được. Nếu ở lại, anh không chỉ chết, mà sẽ chết một cách ngoạn mục.
+Thomas không biết kẻ đã đẩy xe đưa anh ra khỏi hầm ngục tối và đi qua một cánh cửa dành cho ngựa với xe là ai, nhưng anh linh cảm rằng mình đã chết nếu cứ ở lại đó. Không phải vì những vết thương. Có cái gì đó đang tìm đến anh, và anh vừa mới trốn thoát được. Nếu ở lại, anh không chỉ chết, mà sẽ chết ngoạn mục.
 
 Kinh hoàng.
 
 Kẻ có đầu loài ruồi chắc chắn đã cắn anh rồi.
 
-Gã rùng mình.
+Thomas rùng mình.
 
-Thomas ngước nhìn người đàn ông đang đẩy xe cho mình, và người đó nhìn xuống anh bằng ánh mắt hiền từ. Anh muốn hỏi đối phương là ai, nhưng lại chẳng còn chút sức lực nào.
+Thomas ngước nhìn người đàn ông đang đẩy xe cho mình, và người đó nhìn xuống anh bằng ánh mắt hiền từ. Thomas muốn hỏi đối phương là ai, nhưng lại chẳng còn chút sức lực nào.
 
 Khi thấy Thomas vẫn đang run rẩy, mặc cho những lớp áo khoác đã đắp lên người, người đẩy xe dừng lại rồi cởi bỏ tấm áo choàng bên ngoài, để lộ chiếc áo sơ mi dài mang những vết bẩn không thể giặt sạch từ các ca phẫu thuật.
 
@@ -144,7 +144,7 @@ Và chẳng có người vợ nào đang chờ đợi anh cả.
 
 Thomas nhăn mặt như muốn khóc, nhưng lại kìm nén không buông xuôi.
 
-Gã ngất đi.
+Thomas ngất đi.
 
 Khi tỉnh lại lần nữa, Delphine đang nhìn người đẩy xe.
 
@@ -158,25 +158,25 @@ Tóc cô bé ngắn.
 
 Bọn họ đang nhìn thấy gì vậy?
 
-Delphine đặt ngón tay lên môi, rồi người đàn ông và cậu thiếu niên rời đi.
+Delphine đặt những ngón tay lên môi, rồi người đàn ông và cậu thiếu niên rời đi.
 
 Bây giờ cô bé cúi xuống nhìn Thomas, mỉm cười.
 
-Đôi mắt xám ngắt ấy.
+Ánh mắt xám ngắt ấy.
 
-Cô bé lau mát vầng trán anh bằng ống tay áo đã nhúng nước sông Rhône.
+Cô bé lau mát vầng trán anh bằng ống tay áo đã được nhúng dòng sông Rhône.
 
 “Ta sắp chết rồi,” Thomas thều thào.
 
-“Ngài đã chết rồi còn gì, ngài quên sao? Ngài mới là người đã chết cơ mà.”
+“Ngài đã chết rồi còn gì, quên sao? Ngài mới là kẻ đã chết cơ mà.”
 
-Thomas cảm thấy linh hồn mình đang tuột ra ngoài, tựa như con tàu đứt neo, nhưng Delphine đã nâng đầu anh lên và chỉ tay về phía trước.
+Thomas cảm thấy linh hồn mình đang tuột ra ngoài, giống như con tàu đứt neo, nhưng Delphine đã nâng đầu anh lên và chỉ tay về phía trước.
 
 “Cố chịu đựng một lát,” cô bé nói, “chỉ một chút nữa thôi.”
 
-Delphine đặt tay sau đầu anh, nhấc lên để anh có thể nhìn rõ.
+Delphine đặt tay sau đầu anh và nhấc lên để anh có thể nhìn rõ.
 
-Có thứ gì đó đang nhô lên từ dưới dòng sông, được ánh trăng chiếu rọi.
+Có thứ gì đó đang nhô lên từ dưới sông, được ánh trăng chiếu rọi.
 
 Một người đàn ông.
 
@@ -188,9 +188,9 @@ Một người đàn ông vạm vỡ với bộ râu điểm bạc và khuôn m�
 
 Thomas yếu ớt lắc cái đầu tơi tả vốn không thực sự là của mình.
 
-Thân xác thật của Thomas bước lên từ dòng sông trong trạng thái nước chảy tòng tòng, đôi mắt nhắm nghiền như kẻ mộng du.
+Thân xác thật của Thomas bước lên từ dòng sông trong trạng thái nhỏ giọt nước, đôi mắt nhắm nghiền như kẻ mộng du.
 
-Delphine tránh đường cho bóng hình đang rỉ nước ấy, và nó tiến đến chiếc xe kéo. Thomas đang sợ hãi. Phải chăng anh đã chết thật rồi sao?
+Delphine tránh đường cho bóng hình đang rỉ nước ấy, và nó tiến đến chiếc xe kéo. Thomas đang sợ hãi. Phải chăng anh đã chết rồi sao?
 
 Thomas nhìn chính mình cúi người xuống, tiến lại gần hơn.
 
@@ -202,13 +202,13 @@ Lúc này, anh đang được chính cái miệng của mình hôn, không phả
 
 Anh thở ra từ buồng phổi của vị bá tước và hít vào buồng phổi của chính mình.
 
-Con tàu linh hồn của anh tròng trành rời khỏi thân xác giả tạo kia.
+Con tàu linh hồn của anh tròng trành rời khỏi cái thân xác giả tạo kia.
 
 Và nhập vào thân xác thật của mình.
 
 Anh mở mắt ra.
 
-Thi thể của vị bá tước giờ đây giật nảy lên một cái, rồi hai cái, chỉ có điều lúc này nó đang nằm bên dưới anh. Cái miệng của anh, cái miệng thực sự của anh, đang áp lên cái xác chết, và anh ngẩng phắt dậy. Anh hít một hơi thật sâu, bầu không khí tràn ngập vào buồng phổi lực lưỡng, hai bàn tay bấu chặt lại, sẵn sàng vớ lấy vũ khí hay cần gạt hoặc bám víu vào những trụ cột của ngôi đền. Anh đã mạnh mẽ trở lại. Anh luồn tay cào qua bộ râu rậm rạp và giật nhẹ mái tóc dài của mình.
+Thi thể của vị bá tước giờ đây giật nảy lên một cái, rồi hai cái, chỉ có điều lúc này nó đang nằm ở bên dưới anh. Cái miệng của anh, cái miệng thực sự của anh, đang áp lên cái xác chết, và anh ngẩng phắt dậy. Anh hít một hơi thật sâu, bầu không khí tràn ngập vào buồng phổi lực lưỡng, hai bàn tay bấu chặt lại, sẵn sàng vớ lấy vũ khí hay cần gạt hoặc bám víu vào những trụ cột của ngôi đền. Anh đã mạnh mẽ trở lại. Anh luồn tay cào qua bộ râu rậm rạp và giật nhẹ mái tóc dài của mình.
 
 Anh bật cười, và Delphine cũng cười theo, ra hiệu bảo anh giữ im lặng khi anh khoác chiếc áo choàng của thầy thuốc ra ngoài bộ giáp lạnh lẽo còn đang ướt sũng.
 

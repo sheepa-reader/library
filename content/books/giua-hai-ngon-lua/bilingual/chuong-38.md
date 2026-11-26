@@ -1,10 +1,10 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI TƯ: Về Vụ Bắt Giữ
+# CHƯƠNG BA MƯƠI TƯ
 
 <p class="para-en">The lodgings at which the pope had placed the Comte d’Évreux and his page sat practically in the shadow of the hulking palace, quite near St. Peter’s church. The series of slanting and hunch-shouldered workers’ houses that had occupied the place before had been pulled down four years earlier, the lumber carted to the palace and cheerfully burned in its kitchens and beneath its baths—it was as though the palace had eaten them. Pope Clement had continued his predecessor’s policy of building up a stone Avignon to replace the wooden one, and the Elysium House was a fine example of the new extravagance.</p>
 
-<p class="para-vi-sub">Khu nhà trọ do Đức Giáo Hoàng bố trí cho Chrétien, Bá tước d’Évreux cùng tiểu đồng của gã nằm lọt thỏm ngay dưới cái bóng sừng sững của cung điện, sát cạnh nhà thờ Thánh Phêrô. Dãy nhà xập xệ, xiêu vẹo của những người lao động từng mọc lên ở chốn này đã bị triệt hạ từ bốn năm trước, gỗ tận dụng được chở thẳng về cung điện để rồi vui vẻ rực cháy trong những gian bếp và dưới các phòng tắm của họ hệt như thể cung điện đã nuốt chửng lấy cả khu dân cư ấy. Đức Giáo Hoàng Clement vẫn tiếp tục duy trì chính sách của vị tiền nhiệm, biến một Avignon bằng gỗ thành một Avignon bằng đá, và Ngôi nhà Elysium chính là một minh chứng xuất sắc cho sự xa hoa mới mẻ đó.</p>
+<p class="para-vi-sub">Khu nhà trọ do Đức Giáo Hoàng bố trí cho Chrétien, Bá tước d’Évreux cùng tiểu đồng của hắn nằm lọt thỏm ngay dưới cái bóng sừng sững của cung điện, sát cạnh nhà thờ Thánh Phêrô. Dãy nhà xập xệ, xiêu vẹo của những người lao động từng mọc lên ở chốn này đã bị triệt hạ từ bốn năm trước, gỗ tận dụng được chở thẳng về cung điện để rồi vui vẻ rực cháy trong những gian bếp và dưới các phòng tắm của họ hệt như thể cung điện đã nuốt chửng lấy cả khu dân cư ấy. Đức Giáo Hoàng Clement vẫn tiếp tục duy trì chính sách của vị tiền nhiệm, biến một Avignon bằng gỗ thành một Avignon bằng đá, và Ngôi nhà Elysium chính là một minh chứng xuất sắc cho sự xa hoa mới mẻ đó.</p>
 
 <p class="para-en">Thomas and Delphine had sequestered themselves in their room, having excused themselves from the midday feast that an English duke was putting on in the courtyard. The sounds of revelry had been floating up to them for nearly an hour, and, as the revelers emptied pitcher after pitcher of the pope’s wine down their gullets, more and more often the Valois and English lords who had once faced each other across battlefields now united in good-natured mockery directed at the window of the man they took for the Comte d’Évreux and his Navarrese page. This was precisely what Thomas had feared—though he bore the face and body of the dead man, he did not share his memories, and the world of high-placed men, though embracing all of Europe, was as small and incestuous as a village.</p>
 
@@ -20,7 +20,7 @@
 
 <p class="para-en">Delphine used the tip of her comb to trace the hem of a woman’s dress on the wall hanging near the window. It was the simple comb of her mother’s, brought from Normandy—she had flung the ivory comb from the stag orchard into the muddy street the instant Thomas had given it to her.</p>
 
-<p class="para-vi-sub">Delphine dùng đầu chiếc lược vạch những đường nét trên viền chiếc váy của người phụ nữ in trên tấm thảm treo tường gần cửa sổ. Đó chỉ là chiếc lược đơn giản của người mẹ quá cố mang theo từ Normandy, chiếc lược ngà voi từ khu rừng săn hươu đã bị cô bé ném thẳng xuống con đường bùn lầy ngay khoảnh khắc Thomas trao nó cho cô bé.</p>
+<p class="para-vi-sub">Delphine dùng đầu chiếc lược vạch những đường nét trên viền chiếc váy của người phụ nữ in trên tấm thảm treo tường gần cửa sổ. Đó chỉ là chiếc lược đơn giản của người mẹ quá cố mang theo từ vùng Normandy, chiếc lược ngà voi từ khu rừng săn hươu đã bị cô bé ném thẳng xuống con đường bùn lầy ngay khoảnh khắc Thomas trao nó cho cô bé.</p>
 
 <p class="para-en">“No, my lord Salisbury, he will not wrestle you. He was only wont to wrestle his little brother until Charles grew a moustache. Now he wrestles other men’s wives.”</p>
 
@@ -344,11 +344,11 @@
 
 <p class="para-en">I thought I had him</p>
 
-<p class="para-vi-sub">Ta cứ tưởng đã tóm được hắn.</p>
+<p class="para-vi-sub">Ta cứ tưởng đã tóm được hắn</p>
 
 <p class="para-en">I’m in the comte’s body I’m not as strong</p>
 
-<p class="para-vi-sub">Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa.</p>
+<p class="para-vi-sub">Ta đang ở trong thể xác vị bá tước nên sức lực chẳng được như xưa</p>
 
 <p class="para-en">The man reeled back against the wall but gathered himself and gave the Comte d’Évreux the back end of his axe, breaking teeth.</p>
 
@@ -356,7 +356,7 @@
 
 <p class="para-en">His body but I feel it GOD</p>
 
-<p class="para-vi-sub">Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA.</p>
+<p class="para-vi-sub">Xác của hắn nhưng ta cảm nhận được tất cả, LẠY CHÚA</p>
 
 <p class="para-en">He fell.</p>
 
@@ -368,7 +368,7 @@
 
 <p class="para-en">GOD</p>
 
-<p class="para-vi-sub">LẠY CHÚA.</p>
+<p class="para-vi-sub">LẠY CHÚA</p>
 
 <p class="para-en">They hit him again.</p>
 

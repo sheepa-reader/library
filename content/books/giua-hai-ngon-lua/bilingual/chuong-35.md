@@ -1,6 +1,6 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI MỐT: Về bữa tiệc và cuộc săn hươu
+# CHƯƠNG BA MƯƠI MỐT
 
 <p class="para-en">The page of the Comte d’Évreux had turned so pale that the Valois Duc sitting to their right asked if the young man was well.</p>
 

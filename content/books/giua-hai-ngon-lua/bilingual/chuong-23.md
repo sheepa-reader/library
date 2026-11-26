@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI: Về vị tu sĩ áo trắng
+# CHƯƠNG HAI MƯƠI
 
 <p class="para-en">“We have to build a raft.”</p>
 
@@ -12,7 +12,7 @@
 
 <p class="para-en">“A raft. Build one or find one.”</p>
 
-<p class="para-vi-sub">“Một chiếc bè. Tự đóng lấy một chiếc hoặc tìm lấy một chiếc.”</p>
+<p class="para-vi-sub">“Một chiếc bè. Đóng lấy một chiếc hoặc tìm một chiếc.”</p>
 
 <p class="para-en">Thomas looked at the girl.</p>
 
@@ -20,11 +20,11 @@
 
 <p class="para-en">A brisk wind had just blown a shower of brown leaves on them, and one perfectly shaped maple leaf, stippled red on its points, perched in Delphine’s hair. Thomas removed it and chewed on the stem, trying to keep his balance in the pitching cart; the road, if it could be called that after the rains had furrowed it, was quite rough here. He had found them near dawn. They had gone to town together, but now they were in the cart again and moving south and east. His head throbbed from the blow it had sustained last night; he touched the egg above his eye, remembering how gently the girl had wiped the dried blood from it. He was drunk. The priest, bearing two black eyes from catching the girl, was worse. And the girl was not sober.</p>
 
-<p class="para-vi-sub">Một cơn gió lất phất vừa thổi tung một trận mưa lá nâu vào họ, và một chiếc lá phong có hình dáng hoàn hảo, điểm những đốm đỏ ở các đầu lá, đang vương trên mái tóc của Delphine. Thomas gỡ nó xuống rồi ngậm lấy cuống lá, cố giữ thăng bằng trên chiếc xe kéo đang tròng trành; con đường ở đoạn này khá gồ ghề, nếu còn có thể gọi đây là đường sau khi những cơn mưa cày xới nó lên. Gã đã tìm thấy họ vào lúc gần sáng. Cả hai từng cùng nhau vào thị trấn, nhưng giờ họ lại ngồi trên xe kéo, di chuyển về hướng Nam và Đông. Đầu gã nhức buốt vì cú đánh phải nhận vào tối qua; gã chạm tay vào vết sưng to bằng quả trứng trên trán, nhớ lại sự dịu dàng mà Delphine đã dùng để lau sạch vết máu khô trên đó. Thomas đang say. Cha Matthieu Hanicotte, với đôi mắt thâm tím vì cố đỡ lấy cô bé, thậm chí còn tồi tệ hơn. Và Delphine thì chẳng hề tỉnh táo chút nào.</p>
+<p class="para-vi-sub">Một cơn gió lất phất vừa thổi tung một trận mưa lá nâu vào họ, và một chiếc lá phong có hình dáng hoàn hảo, điểm những đốm đỏ ở các đầu lá, đang vương trên mái tóc của Delphine. Thomas gỡ nó xuống rồi ngậm lấy cuống lá, cố giữ thăng bằng trên chiếc xe kéo đang tròng trành; con đường ở đoạn này khá gồ ghề, nếu còn có thể gọi đây là đường sau khi những cơn mưa cày xới nó lên. Anh đã tìm thấy họ vào lúc gần sáng. Cả hai từng cùng nhau vào thị trấn, nhưng giờ họ lại ngồi trên xe kéo, di chuyển về hướng Nam và Đông. Đầu anh nhức buốt vì cú đánh phải nhận vào tối qua; anh chạm tay vào vết sưng to bằng quả trứng trên trán, nhớ lại sự dịu dàng mà Delphine đã dùng để lau sạch vết máu khô trên đó. Thomas đang say. Cha Matthieu Hanicotte, với đôi mắt thâm tím vì cố ngăn cô bé lại, thậm chí còn tồi tệ hơn. Và Delphine thì chẳng hề tỉnh táo chút nào.</p>
 
 <p class="para-en">Their tour through the ruins of Auxerre had yielded a cask of good wine; it had been the priest who spied it among the timbers and wattle of a fallen wine shop. It had not seemed wrong to him to take it, nor to ask the girl to help him roll it past the fallen buildings, past the dead Penitents (all of them, it seemed—none of those zealots moved among the injured and dazed, though he saw one hand clutching a hooked whip, its owner obscured beneath stones). He had said Mass again for the first time in months, given last rites, issued wafer, issued wine. The remaining Auxerrois had even helped hoist the barrel into his cart; they had seen the angel, too. Even though catastrophe had visited them, the long months of death and suffering at last seemed to mean something: Good was fighting back. They knew the girl was blessed. As the cart pulled away, a woman had touched Delphine’s sleeve with a hand as yellow as an onion’s skin, and its proper color had been restored, though Delphine had been unaware of this.</p>
 
-<p class="para-vi-sub">Chuyến ghé qua những tàn tích của Auxerre đã mang lại một thùng rượu vang hảo hạng; chính cha Matthieu là người đã phát hiện ra nó giữa những khúc gỗ và vách bện của một quán rượu đã sụp đổ. Vị linh mục không thấy có gì sai trái khi lấy nó, hay khi nhờ Delphine giúp lăn nó qua những tòa nhà đổ nát, qua xác của những Tín đồ Hành xác (dường như tất cả bọn chúng đều đã chết, chẳng còn tên cuồng tín nào lê bước giữa những kẻ bị thương và ngơ ngác, mặc dù gã nhìn thấy một bàn tay đang bấu chặt lấy một chiếc roi gắn móc sắt, còn chủ nhân của nó thì bị vùi lấp bên dưới những đống đá). Ông đã dâng lễ Misa lần đầu tiên sau nhiều tháng, thực hiện các nghi thức cuối cùng, phát bánh thánh, phát rượu. Những người dân Auxerre còn sống sót thậm chí còn giúp củng cố chiếc thùng lên xe của vị linh mục; họ cũng đã nhìn thấy vị thiên thần. Mặc dù thảm họa đã giáng xuống đầu họ, nhưng những tháng ngày dài đằng đẵng chìm trong cái chết và đau khổ cuối cùng dường như cũng mang một ý nghĩa nào đó: Cái Thiện đang vùng lên phản kháng. Họ biết Delphine đã được ban phước. Khi chiếc xe lăn bánh rời đi, một người phụ nữ đã chạm vào tay áo của cô bé bằng bàn tay vàng vọt như vỏ hành tây, và sắc da nguyên bản của nó đã được phục hồi, dẫu Delphine hoàn toàn không hề hay biết điều đó.</p>
+<p class="para-vi-sub">Chuyến ghé qua những tàn tích của Auxerre đã mang lại một thùng rượu vang hảo hạng; chính cha Matthieu là người đã phát hiện ra nó giữa những khúc gỗ và vách bện của một quán rượu đã sụp đổ. Vị linh mục không thấy có gì sai trái khi lấy nó, hay khi nhờ Delphine giúp lăn nó qua những tòa nhà đổ nát, qua xác của những Tín đồ Hành xác (dường như tất cả bọn chúng đều đã chết, chẳng còn tên cuồng tín nào lê bước giữa những kẻ bị thương và ngơ ngác, mặc dù anh nhìn thấy một bàn tay đang bấu chặt lấy một chiếc roi gắn móc sắt, còn chủ nhân của nó thì bị vùi lấp bên dưới những đống đá). Ông đã dâng lễ Misa lần đầu tiên sau nhiều tháng, thực hiện các nghi thức cuối cùng, phát bánh thánh, phát rượu. Những người dân Auxerre còn sống sót thậm chí còn giúp củng cố chiếc thùng lên xe của vị linh mục; họ cũng đã nhìn thấy vị thiên thần. Mặc dù thảm họa đã giáng xuống đầu họ, nhưng những tháng ngày dài đằng đẵng chìm trong cái chết và đau khổ cuối cùng dường như cũng mang một ý nghĩa nào đó: Cái Thiện đang vùng lên phản kháng. Họ biết Delphine đã được ban phước. Khi chiếc xe lăn bánh rời đi, một người phụ nữ đã chạm vào tay áo của cô bé bằng bàn tay vàng vọt như vỏ hành tây, và sắc da nguyên bản của nó đã được phục hồi, dẫu Delphine hoàn toàn không hề hay biết điều đó.</p>
 
 <p class="para-en">And now this talk of a raft.</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-en">The priest was puking over the side, oblivious, trying vainly not to get any on his robes. Thomas had enough Latin for this one, though, and he mouthed each syllable.</p>
 
-<p class="para-vi-sub">Vị linh mục đang nôn thốc nôn tháo bên mạn xe, khổ sở tột cùng, cố gắng vô vọng để không làm vấy bẩn áo choàng của mình. Dù vậy, vốn tiếng Latinh của Thomas vẫn đủ để đọc hiểu, và gã lẩm nhẩm theo từng âm tiết.</p>
+<p class="para-vi-sub">Vị linh mục đang nôn thốc nôn tháo bên mạn xe, khổ sở tột cùng, cố gắng vô vọng để không làm vấy bẩn áo choàng của mình. Dù vậy, vốn tiếng Latinh của Thomas vẫn đủ để đọc hiểu, và anh lẩm nhẩm theo từng âm tiết.</p>
 
 <p class="para-en">VÉZELAY IS DEAD</p>
 
@@ -184,7 +184,7 @@
 
 <p class="para-en">“We won’t be going to Vézelay,” Thomas said, though only the mule, who twitched an ear in his direction, seemed to hear him. “Hope you weren’t counting on finding a nice jenny-ass there, you grass-eating bastard.”</p>
 
-<p class="para-vi-sub">“Chúng ta sẽ không đến Vézelay đâu,” Thomas lẩm bẩm, dù chỉ có con lừa là khẽ giật vành tai về phía gã như thể đang lắng nghe. “Hy vọng mày không trông chờ tìm được một cô lừa cái xinh đẹp ở đó nhé, cái đồ khốn chuyên ăn cỏ.”</p>
+<p class="para-vi-sub">“Chúng ta sẽ không đến Vézelay đâu,” Thomas lẩm bẩm, dù chỉ có con lừa là khẽ giật vành tai về phía anh như thể đang lắng nghe. “Hy vọng mày không trông chờ tìm được một cô lừa cái xinh đẹp ở đó nhé, cái đồ khốn chuyên ăn cỏ.”</p>
 
 <p class="para-en">The mule made no reply.</p>
 
@@ -388,7 +388,7 @@
 
 <p class="para-en">The weight of the old monk’s stare yoked him, and he rubbed his neck. At length he said, “She is good. We travel with a knight…”</p>
 
-<p class="para-vi-sub">Sức nặng từ cái nhìn chằm chằm của vị tu sĩ già đè nặng lên vai ông, khiến ông phải đưa tay xoa cổ. Cuối cùng, ông cất lời: “Con bé là người lương thiện. Chúng tôi đang đồng hành cùng một gã hiệp sĩ...”</p>
+<p class="para-vi-sub">Sức nặng từ cái nhìn chằm chằm của vị tu sĩ già đè nặng lên vai ông, khiến ông phải đưa tay xoa cổ. Cuối cùng, ông cất lời: “Con bé là người lương thiện. Chúng tôi đang đồng hành cùng một gã hiệp sĩ…”</p>
 
 <p class="para-en">“A thief.”</p>
 
@@ -404,7 +404,7 @@
 
 <p class="para-en">“My point was…”</p>
 
-<p class="para-vi-sub">“Ý của tôi là...”</p>
+<p class="para-vi-sub">“Ý của tôi là…”</p>
 
 <p class="para-en">“What was your point, brother?”</p>
 
@@ -412,7 +412,7 @@
 
 <p class="para-en">“She is good. She…loves.”</p>
 
-<p class="para-vi-sub">“Con bé rất nhân hậu. Nó... biết yêu thương.”</p>
+<p class="para-vi-sub">“Con bé rất nhân hậu. Nó… biết yêu thương.”</p>
 
 <p class="para-en">“As Salomé loved Herod.”</p>
 
@@ -452,7 +452,7 @@
 
 <p class="para-en">“Are you?” the old Cistercian said as the priest drew near him.</p>
 
-<p class="para-vi-sub">“Cha có phải là...?” vị tu sĩ Xitô cất lời khi vị linh mục tiến lại gần.</p>
+<p class="para-vi-sub">“Cha có phải là…?” vị tu sĩ Xitô cất lời khi vị linh mục tiến lại gần.</p>
 
 <p class="para-en">“Pardon me?”</p>
 
@@ -488,7 +488,7 @@
 
 <p class="para-en">“Wait,” he said. “You can’t…”</p>
 
-<p class="para-vi-sub">“Khoan đã,” ông nói. “Cô không thể...”</p>
+<p class="para-vi-sub">“Khoan đã,” ông nói. “Cô không thể…”</p>
 
 <p class="para-en">The woman put her finger to her lips to silence him.</p>
 
@@ -500,7 +500,7 @@
 
 <p class="para-en">Except that…</p>
 
-<p class="para-vi-sub">Chỉ có điều...</p>
+<p class="para-vi-sub">Chỉ có điều…</p>
 
 <p class="para-en">“Mama said you almost went to Hell because you were a bugger. And that you were following a wicked little girl to commit murder. Is that true, Papa?”</p>
 
@@ -576,7 +576,7 @@
 
 <p class="para-en">“No…I suppose not. You’re a very smart child.”</p>
 
-<p class="para-vi-sub">“Không... cha cho là vậy. Con là một đứa trẻ rất khôn ngoan.”</p>
+<p class="para-vi-sub">“Không… cha cho là vậy. Con là một đứa trẻ rất khôn ngoan.”</p>
 
 <p class="para-en">“And quit being a priest.”</p>
 
@@ -604,7 +604,7 @@
 
 <p class="para-en">“Did you say…stop her?”</p>
 
-<p class="para-vi-sub">“Ý con là... bảo cha ngăn con bé đó lại ư?”</p>
+<p class="para-vi-sub">“Ý con là… bảo cha ngăn con bé đó lại ư?”</p>
 
 <p class="para-en">Both girls nodded now, and the elder spoke.</p>
 
@@ -696,7 +696,7 @@
 
 <p class="para-en">“But…”</p>
 
-<p class="para-vi-sub">“Nhưng...”</p>
+<p class="para-vi-sub">“Nhưng…”</p>
 
 <p class="para-en">“The knight will sleep through it.”</p>
 
@@ -704,7 +704,7 @@
 
 <p class="para-en">“Michel…I…”</p>
 
-<p class="para-vi-sub">“Michel... cha...”</p>
+<p class="para-vi-sub">“Michel… cha…”</p>
 
 <p class="para-en">He tried to kiss the boy, but the boy smiled and moved his mouth away.</p>
 
@@ -744,7 +744,7 @@
 
 <p class="para-en">THE FUCKING THIEF WILL FUCKING SLEEP NOW DO IT</p>
 
-<p class="para-vi-sub">GÃ HIỆP SĨ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI, HÃY LÀM ĐI!</p>
+<p class="para-vi-sub">CÁI THỨ KẺ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI HÃY LÀM ĐI</p>
 
 <p class="para-en">He took another rung. And another. And he stood in the loft, looking down at the girl.</p>
 
@@ -752,7 +752,7 @@
 
 <p class="para-en">None of this is real</p>
 
-<p class="para-vi-sub">Không có gì trong số này là thật cả.</p>
+<p class="para-vi-sub">Không có gì trong số này là thật cả</p>
 
 <p class="para-en">He held the sword by the hilt, point down, one hand over the other, his knees bent like a man about to drive a stake into the ground.</p>
 
@@ -760,15 +760,15 @@
 
 <p class="para-en">Quick so it doesn’t hurt</p>
 
-<p class="para-vi-sub">Làm nhanh lên để con bé không đau.</p>
+<p class="para-vi-sub">Làm nhanh lên để con bé không đau</p>
 
 <p class="para-en">How can it hurt if it’s not real</p>
 
-<p class="para-vi-sub">Làm sao mà đau được nếu nó không phải là thật?</p>
+<p class="para-vi-sub">Làm sao mà đau được nếu nó không phải là thật</p>
 
 <p class="para-en">Should have wiped the mud off the end at least</p>
 
-<p class="para-vi-sub">Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm.</p>
+<p class="para-vi-sub">Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm</p>
 
 <p class="para-en">The girl hiccupped in her sleep.</p>
 
@@ -796,11 +796,11 @@
 
 <p class="para-en">Good Lord what am I doing</p>
 
-<p class="para-vi-sub">Lạy Chúa Cha, ta đang làm cái quái gì thế này?</p>
+<p class="para-vi-sub">Lạy Chúa Cha, ta đang làm cái quái gì thế này</p>
 
 <p class="para-en">MISERABLE EUNUCH DO IT NOW OR DIE WITH THEM</p>
 
-<p class="para-vi-sub">GÃ HOẠN QUAN KHỐN KIẾP, LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI!</p>
+<p class="para-vi-sub">THẰNG HOẠN QUAN KHỐN KIẾP LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI</p>
 
 <p class="para-en">He went back down the ladder.</p>
 
@@ -924,7 +924,7 @@
 
 <p class="para-en">“But, surely a saint…”</p>
 
-<p class="para-vi-sub">“Nhưng... chắc chắn một vị thánh thì không thể...”</p>
+<p class="para-vi-sub">“Nhưng… chắc chắn một vị thánh thì không thể…”</p>
 
 <p class="para-en">“He’s not really a saint.”</p>
 

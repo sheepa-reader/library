@@ -1,18 +1,18 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI: Về vị tu sĩ áo trắng
+# CHƯƠNG HAI MƯƠI
 
 “Chúng ta phải đóng một chiếc bè.”
 
 “Gì cơ?”
 
-“Một chiếc bè. Tự đóng lấy một chiếc hoặc tìm lấy một chiếc.”
+“Một chiếc bè. Đóng lấy một chiếc hoặc tìm một chiếc.”
 
 Thomas nhìn cô bé.
 
-Một cơn gió lất phất vừa thổi tung một trận mưa lá nâu vào họ, và một chiếc lá phong có hình dáng hoàn hảo, điểm những đốm đỏ ở các đầu lá, đang vương trên mái tóc của Delphine. Thomas gỡ nó xuống rồi ngậm lấy cuống lá, cố giữ thăng bằng trên chiếc xe kéo đang tròng trành; con đường ở đoạn này khá gồ ghề, nếu còn có thể gọi đây là đường sau khi những cơn mưa cày xới nó lên. Gã đã tìm thấy họ vào lúc gần sáng. Cả hai từng cùng nhau vào thị trấn, nhưng giờ họ lại ngồi trên xe kéo, di chuyển về hướng Nam và Đông. Đầu gã nhức buốt vì cú đánh phải nhận vào tối qua; gã chạm tay vào vết sưng to bằng quả trứng trên trán, nhớ lại sự dịu dàng mà Delphine đã dùng để lau sạch vết máu khô trên đó. Thomas đang say. Cha Matthieu Hanicotte, với đôi mắt thâm tím vì cố đỡ lấy cô bé, thậm chí còn tồi tệ hơn. Và Delphine thì chẳng hề tỉnh táo chút nào.
+Một cơn gió lất phất vừa thổi tung một trận mưa lá nâu vào họ, và một chiếc lá phong có hình dáng hoàn hảo, điểm những đốm đỏ ở các đầu lá, đang vương trên mái tóc của Delphine. Thomas gỡ nó xuống rồi ngậm lấy cuống lá, cố giữ thăng bằng trên chiếc xe kéo đang tròng trành; con đường ở đoạn này khá gồ ghề, nếu còn có thể gọi đây là đường sau khi những cơn mưa cày xới nó lên. Anh đã tìm thấy họ vào lúc gần sáng. Cả hai từng cùng nhau vào thị trấn, nhưng giờ họ lại ngồi trên xe kéo, di chuyển về hướng Nam và Đông. Đầu anh nhức buốt vì cú đánh phải nhận vào tối qua; anh chạm tay vào vết sưng to bằng quả trứng trên trán, nhớ lại sự dịu dàng mà Delphine đã dùng để lau sạch vết máu khô trên đó. Thomas đang say. Cha Matthieu Hanicotte, với đôi mắt thâm tím vì cố ngăn cô bé lại, thậm chí còn tồi tệ hơn. Và Delphine thì chẳng hề tỉnh táo chút nào.
 
-Chuyến ghé qua những tàn tích của Auxerre đã mang lại một thùng rượu vang hảo hạng; chính cha Matthieu là người đã phát hiện ra nó giữa những khúc gỗ và vách bện của một quán rượu đã sụp đổ. Vị linh mục không thấy có gì sai trái khi lấy nó, hay khi nhờ Delphine giúp lăn nó qua những tòa nhà đổ nát, qua xác của những Tín đồ Hành xác (dường như tất cả bọn chúng đều đã chết, chẳng còn tên cuồng tín nào lê bước giữa những kẻ bị thương và ngơ ngác, mặc dù gã nhìn thấy một bàn tay đang bấu chặt lấy một chiếc roi gắn móc sắt, còn chủ nhân của nó thì bị vùi lấp bên dưới những đống đá). Ông đã dâng lễ Misa lần đầu tiên sau nhiều tháng, thực hiện các nghi thức cuối cùng, phát bánh thánh, phát rượu. Những người dân Auxerre còn sống sót thậm chí còn giúp củng cố chiếc thùng lên xe của vị linh mục; họ cũng đã nhìn thấy vị thiên thần. Mặc dù thảm họa đã giáng xuống đầu họ, nhưng những tháng ngày dài đằng đẵng chìm trong cái chết và đau khổ cuối cùng dường như cũng mang một ý nghĩa nào đó: Cái Thiện đang vùng lên phản kháng. Họ biết Delphine đã được ban phước. Khi chiếc xe lăn bánh rời đi, một người phụ nữ đã chạm vào tay áo của cô bé bằng bàn tay vàng vọt như vỏ hành tây, và sắc da nguyên bản của nó đã được phục hồi, dẫu Delphine hoàn toàn không hề hay biết điều đó.
+Chuyến ghé qua những tàn tích của Auxerre đã mang lại một thùng rượu vang hảo hạng; chính cha Matthieu là người đã phát hiện ra nó giữa những khúc gỗ và vách bện của một quán rượu đã sụp đổ. Vị linh mục không thấy có gì sai trái khi lấy nó, hay khi nhờ Delphine giúp lăn nó qua những tòa nhà đổ nát, qua xác của những Tín đồ Hành xác (dường như tất cả bọn chúng đều đã chết, chẳng còn tên cuồng tín nào lê bước giữa những kẻ bị thương và ngơ ngác, mặc dù anh nhìn thấy một bàn tay đang bấu chặt lấy một chiếc roi gắn móc sắt, còn chủ nhân của nó thì bị vùi lấp bên dưới những đống đá). Ông đã dâng lễ Misa lần đầu tiên sau nhiều tháng, thực hiện các nghi thức cuối cùng, phát bánh thánh, phát rượu. Những người dân Auxerre còn sống sót thậm chí còn giúp củng cố chiếc thùng lên xe của vị linh mục; họ cũng đã nhìn thấy vị thiên thần. Mặc dù thảm họa đã giáng xuống đầu họ, nhưng những tháng ngày dài đằng đẵng chìm trong cái chết và đau khổ cuối cùng dường như cũng mang một ý nghĩa nào đó: Cái Thiện đang vùng lên phản kháng. Họ biết Delphine đã được ban phước. Khi chiếc xe lăn bánh rời đi, một người phụ nữ đã chạm vào tay áo của cô bé bằng bàn tay vàng vọt như vỏ hành tây, và sắc da nguyên bản của nó đã được phục hồi, dẫu Delphine hoàn toàn không hề hay biết điều đó.
 
 Và giờ lại là chuyện đóng bè này.
 
@@ -88,11 +88,11 @@ Cuộc trò chuyện cứ tiếp diễn như thế cho đến khi cô bé thiế
 
 VÉZELAY MORTIS EST
 
-Vị linh mục đang nôn thốc nôn tháo bên mạn xe, khổ sở tột cùng, cố gắng vô vọng để không làm vấy bẩn áo choàng của mình. Dù vậy, vốn tiếng Latinh của Thomas vẫn đủ để đọc hiểu, và gã lẩm nhẩm theo từng âm tiết.
+Vị linh mục đang nôn thốc nôn tháo bên mạn xe, khổ sở tột cùng, cố gắng vô vọng để không làm vấy bẩn áo choàng của mình. Dù vậy, vốn tiếng Latinh của Thomas vẫn đủ để đọc hiểu, và anh lẩm nhẩm theo từng âm tiết.
 
 VÉZELAY ĐÃ CHẾT
 
-“Chúng ta sẽ không đến Vézelay đâu,” Thomas lẩm bẩm, dù chỉ có con lừa là khẽ giật vành tai về phía gã như thể đang lắng nghe. “Hy vọng mày không trông chờ tìm được một cô lừa cái xinh đẹp ở đó nhé, cái đồ khốn chuyên ăn cỏ.”
+“Chúng ta sẽ không đến Vézelay đâu,” Thomas lẩm bẩm, dù chỉ có con lừa là khẽ giật vành tai về phía anh như thể đang lắng nghe. “Hy vọng mày không trông chờ tìm được một cô lừa cái xinh đẹp ở đó nhé, cái đồ khốn chuyên ăn cỏ.”
 
 Con lừa chẳng thèm đáp lại.
 
@@ -194,7 +194,7 @@ Père Matthieu đưa tay xoa thái dương, dẫu cho chúng đã ngớt đau t�
 
 Vị linh mục lắc đầu, hé miệng định nói rồi lại ngậm chặt lại.
 
-Sức nặng từ cái nhìn chằm chằm của vị tu sĩ già đè nặng lên vai ông, khiến ông phải đưa tay xoa cổ. Cuối cùng, ông cất lời: “Con bé là người lương thiện. Chúng tôi đang đồng hành cùng một gã hiệp sĩ...”
+Sức nặng từ cái nhìn chằm chằm của vị tu sĩ già đè nặng lên vai ông, khiến ông phải đưa tay xoa cổ. Cuối cùng, ông cất lời: “Con bé là người lương thiện. Chúng tôi đang đồng hành cùng một gã hiệp sĩ…”
 
 “Một tên trộm.”
 
@@ -202,11 +202,11 @@ Sức nặng từ cái nhìn chằm chằm của vị tu sĩ già đè nặng l�
 
 “Một gã hiệp sĩ đã bị Giáo hội nhổ nước bọt hắt hủi. Giờ hắn chẳng còn là hiệp sĩ nữa.”
 
-“Ý của tôi là...”
+“Ý của tôi là…”
 
 “Ý cha là gì, người anh em?”
 
-“Con bé rất nhân hậu. Nó... biết yêu thương.”
+“Con bé rất nhân hậu. Nó… biết yêu thương.”
 
 “Giống như cách Salomé yêu Herod vậy.”
 
@@ -226,7 +226,7 @@ Ngươi là ai
 
 Là ai
 
-“Cha có phải là...?” vị tu sĩ Xitô cất lời khi vị linh mục tiến lại gần.
+“Cha có phải là…?” vị tu sĩ Xitô cất lời khi vị linh mục tiến lại gần.
 
 “Ngươi vừa nói gì cơ?”
 
@@ -244,13 +244,13 @@ Vị linh mục quay sang tìm lão tu sĩ, nhưng lão đã biến đi đằng 
 
 Người phụ nữ cởi chiếc áo lễ cùng áo choàng dài của ông ra rồi ném thẳng vào lò sưởi.
 
-“Khoan đã,” ông nói. “Cô không thể...”
+“Khoan đã,” ông nói. “Cô không thể…”
 
 Người phụ nữ đặt ngón tay lên môi ra hiệu bảo ông im lặng.
 
 Cô mang tới một chiếc áo sơ mi bằng len thô và giúp ông mặc vào. Ông tự nhủ đây chỉ là một giấc mơ và giờ thì cứ phó mặc xem nó dẫn mình đi đến đâu. Cảm giác ấy cũng chẳng có gì là khó chịu.
 
-Chỉ có điều...
+Chỉ có điều…
 
 “Mẹ bảo suýt nữa thì bố đã xuống Địa Ngục vì tội danh linh mục đồng tính. Và rằng bố đang đi theo một con ranh tàn độc để mưu sát người ta. Có thật thế không hả bố?”
 
@@ -288,7 +288,7 @@ Bàn tay ông khựng lại gần chiếc cốc.
 
 “Con không thể chào đời trừ phi cha từ bỏ thói ái nam ái nữ của mình.”
 
-“Không... cha cho là vậy. Con là một đứa trẻ rất khôn ngoan.”
+“Không… cha cho là vậy. Con là một đứa trẻ rất khôn ngoan.”
 
 “Và thôi làm linh mục đi.”
 
@@ -302,7 +302,7 @@ Căn phòng bỗng tối sầm đi một chút khi khói bốc lên từ bộ tu
 
 “Delphine. Nó tự gọi mình là Delphine. Nhưng đó không phải tên thật của nó.”
 
-“Ý con là... bảo cha ngăn con bé đó lại ư?”
+“Ý con là… bảo cha ngăn con bé đó lại ư?”
 
 Cả hai cô con gái đều gật đầu, và đứa lớn cất lời.
 
@@ -348,11 +348,11 @@ Con mắt bên trái.
 
 Cha Matthieu ngửi thấy hơi thở của Michel, đâu đó lợn cợn giữa mùi hơi thở trẻ con và đinh hương. Ông không bao giờ thấy đủ cái hơi thở phả vào mặt mình ấy.
 
-“Nhưng...”
+“Nhưng…”
 
 “Tên hiệp sĩ sẽ ngủ say như chết suốt quãng thời gian đó.”
 
-“Michel... cha...”
+“Michel… cha…”
 
 Ông toan hôn cậu thiếu niên, nhưng Michel mỉm cười rồi quay mặt đi.
 
@@ -372,19 +372,19 @@ Và bậc thứ hai.
 
 Tên hiệp sĩ sẽ giết ta.
 
-GÃ HIỆP SĨ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI, HÃY LÀM ĐI!
+CÁI THỨ KẺ CẮP KHỐN KIẾP ĐÓ GIỜ ĐANG NGỦ SAY NHƯ CHẾT RỒI HÃY LÀM ĐI
 
 Ông bước lên một nấc thang nữa. Rồi một nấc nữa. Và vị linh mục đứng trên gác xép, nhìn xuống đứa trẻ.
 
-Không có gì trong số này là thật cả.
+Không có gì trong số này là thật cả
 
 Ông cầm chuôi kiếm, chúc mũi kiếm xuống dưới, bàn tay này chồng lên bàn tay kia, đầu gối chùng xuống như một kẻ chuẩn bị đóng cọc xuống đất.
 
-Làm nhanh lên để con bé không đau.
+Làm nhanh lên để con bé không đau
 
-Làm sao mà đau được nếu nó không phải là thật?
+Làm sao mà đau được nếu nó không phải là thật
 
-Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm.
+Lẽ ra ít nhất phải lau sạch bùn đất trên đầu mũi kiếm
 
 Con bé nấc cụt trong giấc ngủ.
 
@@ -398,9 +398,9 @@ Cha Matthieu bật cười bất chấp chính mình ngay cả khi nước mắt
 
 Ông thở ra một hơi và sực tỉnh.
 
-Lạy Chúa Cha, ta đang làm cái quái gì thế này?
+Lạy Chúa Cha, ta đang làm cái quái gì thế này
 
-GÃ HOẠN QUAN KHỐN KIẾP, LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI!
+THẰNG HOẠN QUAN KHỐN KIẾP LÀM NGAY ĐI HOẶC CHẾT CÙNG CHÚNG NÓ ĐI
 
 Vị linh mục quay đầu trèo xuống thang.
 
@@ -462,7 +462,7 @@ Bất chấp không khí giá lạnh, ông vẫn vã mồ hôi hột.
 
 Hạ bộ của vị linh mục, vốn vừa mới ấm lên đôi chút, lại lạnh toát trở lại.
 
-“Nhưng... chắc chắn một vị thánh thì không thể...”
+“Nhưng… chắc chắn một vị thánh thì không thể…”
 
 “Ngài ấy không thực sự là một vị thánh.”
 

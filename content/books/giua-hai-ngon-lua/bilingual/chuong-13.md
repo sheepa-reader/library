@@ -1,6 +1,6 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI MỘT: Về khu chợ trên phố Mont-Fetard
+# CHƯƠNG MƯỜI MỘT
 
 <p class="para-en">“What became of your squire?” said the priest.</p>
 
@@ -180,7 +180,7 @@
 
 <p class="para-en">Thomas had just begun stripping off his belt and surcoat when the girl yelled, “Père Matthieu! Please come!” with such urgency that he ran with one hand holding the belt closed and the other on the hilt of his sword.</p>
 
-<p class="para-vi-sub">Thomas vừa mới bắt đầu cởi thắt lưng và áo khoác ngoài của mình thì cô bé bỗng hét lên, “Cha Matthieu! Xin hãy đến đây!” với sự khẩn cấp lớn đến mức anh phải vội vã chạy đến, một tay giữ thắt lưng cho khỏi tuột còn tay kia nắm lấy chuôi kiếm.</p>
+<p class="para-vi-sub">Thomas vừa mới bắt đầu cởi thắt lưng và áo khoác ngoài của mình thì cô bé bỗng hét lên, “Père Matthieu! Xin hãy đến đây!” với sự khẩn cấp lớn đến mức anh phải vội vã chạy đến, một tay giữ thắt lưng cho khỏi tuột còn tay kia nắm lấy chuôi kiếm.</p>
 
 <p class="para-en">The priest and Thomas arrived at the same time to find Delphine standing near a cart belonging to a seller of religious articles, a hunched, pale little man with very black hair who seemed to smile at everything, even the sight of Thomas stomping toward him.</p>
 
@@ -380,7 +380,7 @@
 
 <p class="para-en">“Goddamn it, you’ll come with me if I have to pull the whoring wheel off with you,” he said, and soon had her over his shoulder even though she cried and slapped at him. The priest had already gotten clear, and now Thomas stepped out of the way as the small mob reached the cart.</p>
 
-<p class="para-vi-sub">“Mẹ kiếp, cháu sẽ đi theo ta cho dù ta có phải lôi cả cái bánh xe khốn kiếp này đi cùng cháu,” gã nói, và chẳng mấy chốc đã vác cô bé lên vai mặc cho cô bé khóc lóc và đấm đá vào người gã. Vị linh mục đã tránh ra từ trước, và giờ đây Thomas bước sang một bên khi đám đông nhỏ tụ tập lại gần chiếc xe đẩy.</p>
+<p class="para-vi-sub">“Mẹ kiếp, cháu sẽ đi theo ta cho dù ta có phải lôi cả cái bánh xe đĩ thõng này đi cùng cháu,” gã nói, và chẳng mấy chốc đã vác cô bé lên vai mặc cho cô bé khóc lóc và đấm đá vào người gã. Vị linh mục đã tránh ra từ trước, và giờ đây Thomas bước sang một bên khi đám đông nhỏ tụ tập lại gần chiếc xe đẩy.</p>
 
 <p class="para-en">The relic seller had packed away his things, if sloppily, and was now pulling at the spars of the cart to get it going. Three or four men stepped in front of him, one of them bearing a table leg as a club. He tried to ignore them and move past them, but one of them put his hand on the man’s face and pushed him down. It wasn’t very hard to do.</p>
 
@@ -512,7 +512,7 @@
 
 <p class="para-en">The streets were stiller and emptier than before as they made their way to the market in the twilight; no rats ran now, and not even a dog’s bark competed with the sound of Thomas’s panting. At length he slowed his run to a loping walk; the girl, who had been peeking back at him at intervals, slowed to a walk as well. Even winded and angry, it occurred to him to be glad for the boots that saved him from feeling the filth of the Parisian muck between his toes, as she doubtless was.</p>
 
-<p class="para-vi-sub">Đường phố vắng lặng và tiêu điều hơn trước khi họ rảo bước tới khu chợ trong ánh chiều chạng vạng; giờ đây không còn con chuột nào chạy qua, thậm chí chẳng có lấy một tiếng chó sủa hòa vào tiếng thở hổn hển của Thomas. Cuối cùng, gã giảm tốc độ chạy xuống thành bước sải dài; cô bé, từ nãy vẫn thỉnh thoáng ngoái nhìn lại phía gã, cũng giảm tốc độ thành đi bộ. Dù đang mệt và tức giận, gã vẫn thấy may vì guốc gỗ đi bùn đã giúp gã không phải cảm nhận cái dơ bẩn của bùn nhão Paris giữa các ngón chân, và chắc hẳn cô bé cũng vậy.</p>
+<p class="para-vi-sub">Đường phố vắng lặng và tiêu điều hơn trước khi họ rảo bước tới khu chợ trong ánh chiều chạng vạng; giờ đây không còn con chuột nào chạy qua, thậm chí chẳng có lấy một tiếng chó sủa hòa vào tiếng thở hổn hển của Thomas. Cuối cùng, gã giảm tốc độ chạy xuống thành bước sải dài; cô bé, từ nãy vẫn thỉnh thoảng ngoái nhìn lại phía gã, cũng giảm tốc độ thành đi bộ. Dù đang mệt và tức giận, gã vẫn thấy may vì guốc gỗ đi bùn đã giúp gã không phải cảm nhận cái dơ bẩn của bùn nhão Paris giữa các ngón chân, và chắc hẳn cô bé cũng vậy.</p>
 
 <p class="para-en">“Where the hell do you think you’re going?”</p>
 
@@ -564,11 +564,11 @@
 
 <p class="para-en">“I know you,” the Jew said as he regarded the small girl before him. The pillories stood deserted in the square, not far from the relic cart, which had been completely picked over. The guard had stayed with it until as near dark as he dared, with no word back from the abbot and no orders from the sergent, and by the time he left for his house, nobody wanted to be burdened with the weight of the cart, which was heavier empty than it should have been full.</p>
 
-<p class="para-vi-sub">“Ta biết con,” người Do Thái nói khi nhìn chằm chằm vào đứa trẻ đứng trước mặt mình. Những chiếc gông cùm nằm hoang phế ở quảng trường, cách chiếc xe đựng thánh tích không xa, thứ đã bị lục lọi sạch bách. Người lính canh đã ở lại canh chừng cho đến tận khi trời tối hẳn như gã dám làm, chẳng có tin tức gì từ vị viện phụ cũng như lệnh lạc nào từ viên cảnh sát trưởng, và đến lúc gã bỏ về nhà, chẳng ai muốn gánh lấy sức nặng của chiếc xe vốn nặng hơn bình thường dù đang trống không.</p>
+<p class="para-vi-sub">“Ta biết cô bé,” người Do Thái nói khi nhìn chằm chằm vào đứa trẻ đứng trước mặt mình. Những chiếc gông cùm nằm hoang phế ở quảng trường, cách chiếc xe đựng thánh tích không xa, thứ đã bị lục lọi sạch bách. Người lính canh đã ở lại canh chừng cho đến tận khi trời tối hẳn như gã dám làm, chẳng có tin tức gì từ vị viện phụ cũng như lệnh lạc nào từ viên cảnh sát trưởng, và đến lúc gã bỏ về nhà, chẳng ai muốn gánh lấy sức nặng của chiếc xe vốn nặng hơn bình thường dù đang trống không.</p>
 
 <p class="para-en">“How do you know me? From today?” she said.</p>
 
-<p class="para-vi-sub">“Sao bác biết cháu? Từ hôm nay ạ?” cô bé hỏi.</p>
+<p class="para-vi-sub">“Sao bác biết cháu? Từ hôm nay à?” cô bé hỏi.</p>
 
 <p class="para-en">“No.”</p>
 
@@ -592,7 +592,7 @@
 
 <p class="para-en">Now the Jew called her over, saying, “Girl. Look at me. In the eyes.”</p>
 
-<p class="para-vi-sub">Lúc này, người Do Thái gọi cô bé lại gần, bảo rằng, “Lại đây, con. Nhìn ta này. Nhìn thẳng vào mắt ta.”</p>
+<p class="para-vi-sub">Lúc này, người Do Thái gọi cô bé lại gần, bảo rằng, “Lại đây, con bé. Nhìn ta này. Nhìn thẳng vào mắt ta.”</p>
 
 <p class="para-en">She did.</p>
 

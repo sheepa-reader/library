@@ -1,14 +1,14 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI HAI: Về Cuộc Càn Quét Địa Ngục
+# CHƯƠNG BỐN MƯƠI HAI
 
 <p class="para-en">He forgot his name. How long he had been there stopped meaning anything. He went from one torment to another, starting with bodily pain and going on to heartbreak; he was skinned and then made to drag his skin behind him, then made to sew this skin back on himself, with the dirt and gravel it had picked up now under it; he was shredded slowly, crammed with thorns and made to eject them, crowded in with naked throngs and scalded, made to fight for cool water or a glimpse of sky, and when they saw that he liked fighting, they made him fight again and again for everything, for years, until even his rage was broken, and he wept and succumbed when confronted; he was murdered and betrayed by those he loved, and then made to murder and betray them, then desecrate them, cannibalize them, regurgitate them. Nothing was left out.</p>
 
-<p class="para-vi-sub">Thomas quên mất tên mình. Việc gã đã ở đó bao lâu chẳng còn mang chút ý nghĩa nào nữa. Gã bị ném từ cực hình này sang cực hình khác, bắt đầu bằng nỗi đau thể xác rồi chuyển thành tan nát cõi lòng; gã bị lột da rồi bắt phải kéo tấm da của chính mình đi phía sau, sau đó lại bị ép phải tự khâu tấm da ấy vào người, với thứ bùn đất và sỏi đá mà nó đã vơ vét nay nằm ngổn ngang bên dưới; gã bị xé tơi ra từng mảnh nhỏ, bị nhồi đầy gai nhọn rồi buộc phải khạc chúng ra, bị nhồi nhét chung với những đám đông trần truồng rồi bị luộc sôi, bị ép phải tranh giành từng ngụm nước mát hay một thoáng nhìn thấy bầu trời, và khi bọn chúng nhận ra Thomas thích đấu tranh, bọn chúng liền bắt gã phải chiến đấu hết lần này đến lần khác vì mọi thứ, suốt nhiều năm trời, cho đến khi ngay cả cơn giận dữ của gã cũng bị bẻ gãy, để rồi gã chỉ biết khóc lóc và khuất phục khi đối mặt; gã bị phản bội và sát hại bởi những kẻ gã yêu thương, rồi lại bị bắt phải sát hại và phản bội họ, rồi báng bổ họ, phanh thây họ, nôn mửa họ ra. Không một ngóc ngách nào của nỗi đau bị bỏ sót.</p>
+<p class="para-vi-sub">Thomas quên mất tên mình. Việc gã đã ở đó bao lâu chẳng còn mang chút ý nghĩa nào nữa. Gã bị ném từ cực hình này sang cực hình khác, bắt đầu bằng nỗi đau thể xác rồi chuyển thành tan nát cõi lòng; gã bị lột da rồi bắt phải kéo tấm da của chính mình đi phía sau, sau đó lại bị ép phải tự khâu tấm da ấy vào người, với thứ bùn đất và sỏi đá mà nó đã vơ vét nay nằm ngổn ngang bên dưới; gã bị xé tơi ra từng mảnh nhỏ, bị nhồi đầy gai nhọn rồi buộc phải khạc chúng ra, bị nhồi nhét chung với những đám đông trần truồng rồi bị luộc sôi, bị ép phải tranh giành từng ngụm nước mát hay một thoáng nhìn thấy bầu trời, và khi bọn chúng nhận ra Thomas thích đấu tranh, bọn chúng liền bắt gã phải chiến đấu hết lần này đến lần khác vì mọi thứ, suốt nhiều năm trời, cho đến khi ngay cả cơn giận dữ của gã cũng bị bẻ gãy, để rồi gã chỉ biết khóc lóc và khuất phục khi đối mặt; gã bị phản bội và sát hại bởi những kẻ gã yêu thương, rồi lại bị bắt phải sát hại và phản bội họ, rồi báng bổ họ, phanh thây họ, nôn mửa họ ra. Chẳng có gì là không bị bỏ sót.</p>
 
 <p class="para-en">No weakness was overlooked.</p>
 
-<p class="para-vi-sub">Không một góc khuất yếu mềm nào thoát khỏi nanh nanh ác quỷ.</p>
+<p class="para-vi-sub">Không một điểm yếu nào lọt khỏi tầm ngắm.</p>
 
 <p class="para-en">For pride in his strength he was made a plaything. For his carnality he was rendered sexless.</p>
 
@@ -144,19 +144,19 @@
 
 <p class="para-en">Another betrayal</p>
 
-<p class="para-vi-sub">Lại một sự phản bội nữa.</p>
+<p class="para-vi-sub">Lại một sự phản bội nữa</p>
 
 <p class="para-en">These are false shapes sent to bring memory</p>
 
-<p class="para-vi-sub">Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức.</p>
+<p class="para-vi-sub">Đây chỉ là những hình thù giả dối được phái đến để khơi gợi ký ức</p>
 
 <p class="para-en">And memory is pain</p>
 
-<p class="para-vi-sub">Và ký ức chính là nỗi đau.</p>
+<p class="para-vi-sub">Và ký ức chính là nỗi đau</p>
 
 <p class="para-en">The only truth here</p>
 
-<p class="para-vi-sub">Sự thật duy nhất ở chốn này.</p>
+<p class="para-vi-sub">Sự thật duy nhất ở chốn này</p>
 
 <p class="para-en">He shut his eyes against them and waited for the next tortures to begin. He sensed her drawing warmly closer, kneeling before him.</p>
 
@@ -200,7 +200,7 @@
 
 <p class="para-en">This was the best illusion of her they had sent, but it was not the first. How many times had they sent her to beckon and then abandon him, how many times had his limbs refused his commands to stop as he choked the life from her or violated her or butchered her like a lamb?</p>
 
-<p class="para-vi-sub">Đây là ảo ảnh hoàn hảo nhất mà bọn chúng từng tạo ra, nhưng không phải lần đầu tiên. Đã bao nhiêu lần chúng sai Delphine đến vẫy gọi rồi lại bỏ rơi gã, đã bao nhiêu lần đôi tay gã khước từ mọi mệnh lệnh phải dừng lại trong lúc gã bóp nghẹt sự sống khỏi cô bé, cưỡng bức cô bé hay xẻ thịt cô bé như một con cừu non?</p>
+<p class="para-vi-sub">Đây là ảo ảnh hoàn hảo nhất mà bọn chúng từng tạo ra, nhưng không phải lần đầu tiên. Đã bao nhiêu lần chúng sai Delphine đến vẫy gọi rồi lại bỏ rơi anh, đã bao nhiêu lần đôi tay anh khước từ mọi mệnh lệnh phải dừng lại trong lúc anh bóp nghẹt sự sống khỏi cô bé, cưỡng bức cô bé hay xẻ thịt cô bé như một con cừu non?</p>
 
 <p class="para-en">He opened his eyes, and still she remained.</p>
 
@@ -208,7 +208,7 @@
 
 <p class="para-en">I SEE THROUGH YOU YOU CUNT</p>
 
-<p class="para-vi-sub">TA NHÌN THẤY MÀY, ĐỒ KHỐN!</p>
+<p class="para-vi-sub">TA NHÌN THẤY MÀY ĐỒ KHỐN</p>
 
 <p class="para-en">He spat in her face and she smiled.</p>
 
@@ -288,11 +288,11 @@
 
 <p class="para-en">Barely perceptibly, but he nodded.</p>
 
-<p class="para-vi-sub">Khẽ khàng đến mức khó nhận ra, nhưng gã đã gật đầu.</p>
+<p class="para-vi-sub">Khẽ khàng đến mức khó nhận ra, nhưng anh đã gật đầu.</p>
 
 <p class="para-en">She blew into his hands to warm them back to life. She kissed his feet. She kissed his forehead.</p>
 
-<p class="para-vi-sub">Delphine hà hơi vào đôi bàn tay Thomas để sưởi ấm sự sống trở lại. Cô bé hôn lên đôi bàn chân gã. Cô bé hôn lên trán gã.</p>
+<p class="para-vi-sub">Delphine hà hơi vào đôi bàn tay Thomas để sưởi ấm sự sống trở lại. Cô bé hôn lên đôi bàn chân anh. Cô bé hôn lên trán anh.</p>
 
 <p class="para-en">She smelled of cedar and of the sea.</p>
 
@@ -340,7 +340,7 @@
 
 <p class="para-en">Night lay behind her head, but true night, with stars in their proper places, and no comets to trouble them. He was in the cart. She looked down at him.</p>
 
-<p class="para-vi-sub">Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn gã.</p>
+<p class="para-vi-sub">Bóng tối ngự trị phía sau đầu Delphine, nhưng đó là màn đêm đích thực, với những vì sao nằm đúng vị trí của chúng, chẳng có sao chổi nào đến quấy rầy. Thomas đang nằm trên xe bò. Delphine cúi xuống nhìn anh.</p>
 
 <p class="para-en">I want you to answer a question, Thomas.</p>
 
@@ -356,7 +356,7 @@
 
 <p class="para-en">His eyes welled with tears and he shook his head, his mouth contorting to sob.</p>
 
-<p class="para-vi-sub">Đôi mắt Thomas ngấn lệ và gã lắc đầu, khuôn mặt méo mó vì sắp nức nở.</p>
+<p class="para-vi-sub">Đôi mắt Thomas ngấn lệ và anh lắc đầu, khuôn mặt méo mó vì sắp nức nở.</p>
 
 <p class="para-en">Not Hell. I mean me. Us.</p>
 
@@ -372,7 +372,7 @@
 
 <p class="para-en">I don’t know. What are you?</p>
 
-<p class="para-vi-sub">Tôi không biết... Ngài rốt cuộc là ai?</p>
+<p class="para-vi-sub">Tôi không biết. Ngài là gì?</p>
 
 <p class="para-en">I was two things together. Then one. Now two again, apart.</p>
 

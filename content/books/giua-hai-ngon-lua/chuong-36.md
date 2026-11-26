@@ -1,40 +1,40 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI HAI: Bàn Về Những Kẻ Làm Rượu Đêm
+# CHƯƠNG BA MƯƠI HAI
 
 Đó là một con giòi.
 
-Robert Hanicotte vừa đến thăm Guêpe trong đêm và suýt nữa ngã ngửa khi nhìn thấy Delphine, trong chiếc áo dài lấm lem, đang ôm đầu gối ngồi co ro ở góc trong cùng chuồng ngựa của con tuấn mã Ả Rập.
+Robert Hanicotte vừa đến thăm Guêpe trong đêm và suýt ngã ngửa khi nhìn thấy Delphine mặc chiếc áo dài dơ bẩn đang ôm đầu gối ngồi co ro ở góc trong cùng chuồng ngựa của con tuấn mã Ả Rập.
 
 Robert Hanicotte bảo rằng: “Mày sắp bị giẫm bẹp dí đến nơi rồi đấy. Chưa kể mày còn ăn đòn nhừ tử nếu đám nài ngựa phát hiện ra mày ở đây.”
 
 Delphine đáp: “Sao anh không đánh tôi đi? Anh tìm thấy tôi rồi còn gì.”
 
-Robert Hanicotte lẩm bẩm: “Biết đâu tao sẽ làm thế thật,” nhưng đến cả con ngựa cũng chẳng thèm tin lời gã.
+Robert Hanicotte lẩm bẩm: “Biết đâu tao sẽ làm thế thật,” nhưng đến cả con ngựa cũng chẳng thèm tin lời anh.
 
-Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với gã bằng thứ tiếng Pháp xứ Normandy của chính gã.
+Cô bé trông tựa như một con chim sẻ kỳ dị: đôi chân dài với bàn chân to quá khổ cùng mái tóc ngắn cũn cỡn. Một đứa trẻ nhà quê, nhưng không phải người vùng này. Delphine đang nói chuyện với anh bằng thứ tiếng Pháp xứ Normandy của chính anh.
 
 Và con ngựa có vẻ quý Delphine. Thề có Chúa, dường như nó thực sự thích cô bé.
 
 Lời nói của cô bé vô cùng minh mẫn, thế nhưng đôi mắt trĩu nặng lại trông như đang ngái ngủ.
 
-“Robert Hanicotte,” cô bé nói, khiến gã giật nảy mình khi nghe thấy họ của mình được cất lên, một cái tên mà chẳng ai thèm đoái hoài gọi đến từ lâu lắm rồi, “anh trai anh đã bỏ mạng khi đưa tôi đến đây.”
+“Robert Hanicotte,” cô bé nói, khiến anh giật nảy mình khi nghe thấy họ của mình được cất lên, một cái tên mà chẳng ai thèm đoái hoài gọi đến từ lâu lắm rồi, “anh trai anh đã bỏ mạng khi đưa tôi đến đây.”
 
 “Gì cơ?”
 
 Delphine tiếp lời: “Anh nghe rõ rồi đấy, hỡi Robert-của-những-bụi-cây.”
 
-Đó là biệt danh mà Père Matthieu Hanicotte đặt cho gã mỗi khi gã trốn việc nhà để chui rúc vào những bụi cây sau nhà. Père Matthieu Hanicotte, người anh hơn gã tám tuổi, kẻ đã làm mọi cách để gạt đi cơn thịnh nộ của người cha thượng võ nhắm vào đứa em trai mềm mỏng và có phần yểu điệu hơn.
+Đó là biệt danh mà Père Matthieu Hanicotte đặt cho anh mỗi khi anh trốn việc nhà để chui rúc vào những bụi cây sau nhà. Père Matthieu Hanicotte, người anh hơn anh tám tuổi, kẻ đã làm mọi cách để gạt đi cơn thịnh nộ của người cha thượng võ nhắm vào đứa em trai mềm mỏng và có phần yểu điệu hơn.
 
-Delphine vừa gọi đúng cái tên thời thơ ấu của gã.
+Delphine vừa gọi đúng cái tên thời thơ ấu của anh.
 
-Robert Hanicotte xua tay gạt phăng ý nghĩ đó đi. Chẳng có điều gì tốt lành mà gã muốn nghe lại thốt ra từ cái miệng của đứa trẻ này cả. Gã chỉ muốn được yên thân.
+Robert Hanicotte xua tay gạt phăng ý nghĩ đó đi. Chẳng có điều gì tốt lành mà anh muốn nghe lại thốt ra từ cái miệng của con ranh này cả. Anh chỉ muốn được yên thân.
 
 “Mày lấy tư cách gì mà dám đến trước mặt tao rồi bịa đặt chuyện anh trai tao đã chết? Mày thì biết quái gì chứ, hả cái đồ dơ dáy này?”
 
-Gã quay phắt đầu định thét gọi tên thợ phụ đang ngủ gật ngoài chuồng ngựa, kẻ có nhiệm vụ canh gác đám ngựa.
+Anh quay phắt đầu định thét gọi tên thợ phụ đang ngủ gật ngoài chuồng ngựa, kẻ có nhiệm vụ canh gác đám ngựa.
 
-Nhưng ngay khi gã quay đầu lại, Delphine đã đứng sừng sững ở ngay hướng nhìn của gã.
+Nhưng ngay khi anh quay đầu lại, Delphine đã đứng sừng sững ở ngay hướng nhìn của anh.
 
 Delphine bảo rằng: “Lắp yên cho con ngựa đó đi.”
 
@@ -42,11 +42,11 @@ Robert Hanicotte há hốc mồm nhưng chẳng thốt lên được lời nào.
 
 “Père Matthieu cũng từng há cái miệng ra y hệt thế mỗi khi muốn nói gì nhưng lại chẳng tìm nổi từ ngữ. Giờ thì lắp yên cho con ong bắp cày của anh đi. Tôi có cái này muốn cho anh xem.”
 
-“Ta… đức hồng y sẽ không thích điều đó đâu.”
+“Tôi… đức hồng y sẽ không thích điều đó đâu.”
 
 “Đức hồng y đang phụng sự một tên ác quỷ.”
 
-“Làm sao ta biết được mày không phải là ác quỷ?”
+“Làm sao tôi biết được mày không phải là ác quỷ?”
 
 “Nếu anh không phớt lờ tiếng nói trong sâu thẳm trái tim mình thì anh đã thừa biết.”
 
@@ -66,29 +66,29 @@ Robert Hanicotte lại há hốc mồm.
 
 “Rồi anh sẽ thấy.”
 
-Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi gã điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…
+Delphine ngồi phía trước người đàn ông tuấn tú và thơm phức mùi nước hoa khi anh điều khiển con ngựa phi nước đại qua những con đường dốc đứng ở Villeneuve, nằm ngay bên kia con sông đối diện với Avignon. Chính tại thành phố này, tách biệt khỏi sự xô bồ của những khu nhà thợ mỏ, khu ổ chuột của người Do Thái, các sạp hàng ở chợ và rác rưởi, Hồng y Cyriac đã xây dựng dinh cơ bằng đá đồ sộ có lợp ngói, kèm theo khu vườn và đài phun nước. Hầu hết các hồng y đều sinh sống ở đây. Nơi này là một thành phố của dây thường xuân, những bức tường đá ấm áp và hàng cây phong. Delphine nhắm nghiền đôi mắt lại để vẻ đẹp của Villeneuve không làm cô phân tâm, bởi việc lay chuyển người đàn ông này sẽ vô cùng khó khăn, cô cần phải trở thành một chiếc bình thanh sạch để…
 
 Để làm gì?
 
-Để dâng lên Chúa.
+Để dâng lên Chúa
 
-Chúa đã quay mặt đi rồi.
+Chúa đã quay mặt đi rồi
 
-Vậy thì dâng lên các thiên thần của Ngài.
+Vậy thì dâng lên các thiên thần của Ngài
 
-Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ gã sẽ dễ dàng nhận lời như vậy. Rất có thể gã vẫn sẽ làm điều mà cô muốn.
+Thế nhưng Robert đã đồng ý đi cùng Delphine, và cô chưa từng nghĩ anh sẽ dễ dàng nhận lời như vậy. Rất có thể anh vẫn sẽ làm điều mà cô muốn.
 
-Điều mà các ngài ấy muốn ở anh.
+Điều mà các ngài ấy muốn ở anh
 
 Ta cũng sợ họ lắm chứ, gần như sợ cả những người anh em hắc ám của họ vậy; họ cứ quay cuồng chống đối lẫn nhau thì con người có xá gì trong mắt họ cơ chứ?
 
-Chẳng mấy chốc nữa ta sẽ chết.
+Chẳng mấy chốc nữa ta sẽ chết
 
 Delphine lắc đầu để xua đi mối hoài nghi trong lòng.
 
-Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết,
+Vẫn còn vô vàn, vô vàn thứ tồi tệ hơn cái chết
 
-Và ta sắp sửa phải chứng kiến chúng rồi.
+Và ta sắp sửa phải chứng kiến chúng rồi
 
 Con ngựa vấp phải những hòn đá dăm khiến mắt cô bừng mở ngay dưới bóng tòa tháp khổng lồ do Philippe the Fair cho xây dựng nhằm uy hiếp thành phố của các giáo hoàng cách đó chừng bốn mươi năm; Villeneuve thuộc địa phận nước Pháp chứ không phải Provence, trong khi Avignon vừa được chính giáo hoàng mua đứt, biến ngài thành một vị quân vương trần thế. Ngọn tháp ấy được dựng lên bởi một vị vua hách dịch nhằm chèn ép một đời giáo hoàng yếu đuối; giờ đây cả hai đều đã chết và Pháp với Avignon đã chung chăn gối cùng nhau, dường như là mãi mãi. Những ô cửa chớp để phóng tên của ngọn tháp tối thui, khác hẳn với rất nhiều ô cửa sổ phía sau lưng cô; giấc ngủ chẳng hề dễ dàng gì đối với thành phố của các hồng y, nơi những kẻ có quyền lực thừa sức mua nến để thắp suốt đêm chống lại những cơn ác mộng. Người dân Villeneuve hoàn toàn không hay biết những cơn ác mộng ấy đang đến gần nhường nào để chuẩn bị giáng thế vào cõi đời này.
 
@@ -102,7 +102,7 @@ Họ điều khiển Guêpe rời khỏi con đường lớn Grand Chemin de Sor
 
 Nhưng có điều gì đó đang sai trái vô cùng ở nơi này.
 
-Robert định cất lời, nhưng Delphine liền véo gã một cái để bắt gã giữ im lặng, đoạn chỉ tay về phía những luống nho đang nằm phơi mình dưới ánh trăng gần như tròn vành vạnh.
+Robert định cất lời, nhưng Delphine liền véo anh một cái để bắt anh giữ im lặng, đoạn chỉ tay về phía những luống nho đang nằm phơi mình dưới ánh trăng gần như tròn vành vạnh.
 
 “Gì thế?” Robert hỏi.
 
@@ -114,7 +114,7 @@ Robert cũng vội vã xuống ngựa.
 
 Cô lại đưa tay chỉ.
 
-“Ta vẫn chẳng…” Robert bắt đầu thì thầm, rồi gã chợt nhìn thấy thật. Mùa thu hoạch đang diễn ra. Những giàn nho này thuộc giống Grenache, loại quả chín muộn vào tháng Mười, vị ngọt lịm và là những trái cuối cùng được hái bỏ vào giỏ. Lúc này, bóng lưng và đầu của những người đàn ông lẫn phụ nữ đang nhấp nhô tựa vô số chiếc bóng đen ngòm giữa các luống nho dưới ánh trăng. Họ cúi rạp người để thu hoạch, rồi lê bước sang cây tiếp theo, dùng những con dao sắt cong vút vốn là dụng cụ mưu sinh của họ để cắt lìa từng chùm nho.
+“Ta vẫn chẳng…” Robert bắt đầu thì thầm, rồi anh chợt nhìn thấy thật. Mùa thu hoạch đang diễn ra. Những giàn nho này thuộc giống Grenache, loại quả chín muộn vào tháng Mười, vị ngọt lịm và là những trái cuối cùng được hái bỏ vào giỏ. Lúc này, bóng lưng và đầu của những người đàn ông lẫn phụ nữ đang nhấp nhô tựa vô số chiếc bóng đen ngòm giữa các luống nho dưới ánh trăng. Họ cúi rạp người để thu hoạch, rồi lê bước sang cây tiếp theo, dùng những con dao sắt cong vút vốn là dụng cụ mưu sinh của họ để cắt lìa từng chùm nho.
 
 “Thì sao chứ?” Robert nói. “Trăng sáng thế này là đủ để nhìn rõ đường rồi. Có lẽ họ sợ sương giá nên phải làm việc cả ngày lẫn đêm để cứu lấy mùa màng.”
 
@@ -138,9 +138,9 @@ Robert hoàn toàn không thích cảnh tượng này chút nào và chẳng mu�
 
 Lúc này Robert đang tức lộn ruột.
 
-Đứa trẻ không nói chuyện như một đứa trẻ này đang bỏ bùa mê thuốc lú cho gã.
+Đứa trẻ không nói chuyện như một đứa trẻ này đang bỏ bùa mê thuốc lú cho anh.
 
-Gã quay đầu định bỏ đi thì đâm sầm vào một gã đang vác nho trên lưng. Robert vừa định cất lời xin lỗi thì luồng mùi xộc thẳng vào mũi gã. Gã đã bước thẳng vào một xác chết, kẻ mà phần hàm dưới đã biến mất và đôi mắt thì thụt sâu vào trong hốc. Xác chết lướt qua người Robert, rồi như thể chợt nhận ra vừa có điều gì đó bất thường xảy ra, nó quay đầu lại. Chiếc lưỡi đen đúa cụt lủn cử động ngoằn ngoèo và nó đưa tay chỉ thẳng về phía họ.
+Anh quay đầu định bỏ đi thì đâm sầm vào một gã đang vác nho trên lưng. Robert vừa định cất lời xin lỗi thì luồng mùi xộc thẳng vào mũi anh. Anh đã bước thẳng vào một xác chết, kẻ mà phần hàm dưới đã biến mất và đôi mắt thì thụt sâu vào trong hốc. Xác chết lướt qua người Robert, rồi như thể chợt nhận ra vừa có điều gì đó bất thường xảy ra, nó quay đầu lại. Chiếc lưỡi đen đúa cụt lủn cử động ngoằn ngoèo và nó đưa tay chỉ thẳng về phía họ.
 
 Cả Delphine lẫn Robert đều chẳng cần phải bảo nhau câu nào mà cắm cổ chạy.
 
@@ -152,7 +152,11 @@ Tất cả bọn chúng quay phắt lại nhìn người đàn ông và đứa t
 
 Bọn chúng đang thu hẹp khoảng cách.
 
-Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ bị tóm gọn và bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu.
+Guêpe lồng lên và chồm hai chân trước dậy khi ngửi thấy mùi của chúng, hoặc có lẽ do tiếng động chúng tạo ra khi ào ạt rẽ lá lao đến và va vào nhau, khiến sợi dây thừng buộc nó có nguy cơ tuột ra, nếu nó bỏ chạy mà không có họ, Robert và Delphine sẽ
+
+bị treo ngược như lợn cắt tiết để máu chảy cạn vào các thùng rượu
+
+bị tóm gọn.
 
 Chính cô bé là người đã chộp lấy dây cương, vỗ về con ngựa trong lúc Robert đang lúi húi gỡ nút thắt.
 
@@ -160,13 +164,13 @@ Chính cô bé là người đã chộp lấy dây cương, vỗ về con ngựa
 
 Sợi dây thừng đã được tháo tung.
 
-Robert nhảy lên yên và suýt phóng đi một mình, nhưng gã kịp xoay đầu ngựa và với tay vớt cô lên đúng khoảnh khắc lũ xác sống ùa qua hàng rào. Cô sẽ chẳng bao giờ quên được gương mặt của chúng, ngay cả khi thân xác chúng đang lao đi thực hiện hành vi bạo lực, những gì còn lại trên khuôn mặt chúng vẫn ánh lên vẻ buồn bã, thậm chí là sự ăn năn vì tội ác mà chúng bị sai khiến phải làm.
+Robert nhảy lên yên và suýt phóng đi một mình, nhưng anh kịp xoay đầu ngựa và với tay vớt cô lên đúng khoảnh khắc lũ xác sống ùa qua hàng rào. Cô sẽ chẳng bao giờ quên được gương mặt của chúng, ngay cả khi thân xác chúng đang lao đi thực hiện hành vi bạo lực, những gì còn lại trên khuôn mặt chúng vẫn ánh lên vẻ buồn bã, thậm chí là sự ăn năn vì tội ác mà chúng bị sai khiến phải làm.
 
 Những con dao của chúng đã tuốt trần, và những kẻ đi đầu chồm tới chộp lấy dây cương. Guêpe nhảy sang bên này rồi nép sang bên kia để tránh những lưỡi dao lóe sáng; nó đá hậu một gã khiến cái đầu gần như rơi đứt lìa, làm gã quơ quào tay chân loạn xạ, và rồi con ngựa cũng tìm lại được thế đứng vững vàng để phi thẳng xuống con đường lớn Grand Chemin de Sorgues.
 
 Phía sau họ, tiếng gầm thét của sáu mươi cái xác cất lên từ lồng ngực và cổ họng bị xé toác vang vọng cả một vùng, và ở phía trên cao, vầng trăng vẫn đang đùa giỡn với những dải mây chậm chạp, tả tơi như thể vạn vật bên dưới kia chưa từng rơi vào cơn hỗn loạn.
 
-Cây cầu gần như vắng tanh khi Robert và cô bé phi nước kiệu băng qua. Cô chẳng còn nhiều thời gian để thuyết phục gã nữa.
+Cây cầu gần như vắng tanh khi Robert và cô bé phi nước kiệu băng qua. Cô chẳng còn nhiều thời gian để thuyết phục anh nữa.
 
 “Nếu anh cứ khăng khăng che mắt trước những gì mình đã chứng kiến, anh sẽ được bình yên trong chốc lát. Nhưng rồi chúng sẽ tìm đến anh; và khi đó, chính anh cũng sẽ phải dậm chân trong cối ép rượu. Hoặc anh sẽ đến Marseille và ngồi khâu buồm cùng những kẻ không hề chớp mắt khi kim đâm vào thịt da. Hoặc chúng sẽ lột sạch da thịt khỏi bộ xương của anh để làm trò tiêu khiển; anh chẳng thể hình dung được chúng căm ghét anh đến nhường nào đâu, dẫu cho ngoài mặt chúng vẫn đang mỉm cười.”
 
@@ -182,7 +186,7 @@ Cây cầu gần như vắng tanh khi Robert và cô bé phi nước kiệu băn
 
 “Bởi vì cuộc gặp gỡ này bắt buộc phải diễn ra, và nó phải diễn ra trong vài ngày tới. Tôi không còn thời gian để chuyển lời qua các thư ký nữa.”
 
-Robert thở dài nặng nề, trút hết hơi trong lồng ngực, vẫn chưa hết bàng hoàng vì đám người làm rượu ban đêm. Gã lắc đầu, dù cô bé không thể nhìn thấy gã ở phía sau.
+Robert thở dài nặng nề, trút hết hơi trong lồng ngực, vẫn chưa hết bàng hoàng vì đám người làm rượu ban đêm. Anh lắc đầu, dù cô bé không thể nhìn thấy anh ở phía sau.
 
 “Có gì đó mờ ám trong chuyện này.”
 
@@ -266,7 +270,7 @@ Gió thổi một chiếc lá khô của cây phong quất vào khung cửa sổ
 
 Thomas khép cánh chớp lại rồi hạ then cài xuống.
 
-“Và chúng ta sẽ làm gì với cái tên… Baal-Zebuth này đây?”
+“Và chúng ta sẽ làm gì với cái tên… Baal’Zebud này đây?”
 
 “Zebuth.”
 

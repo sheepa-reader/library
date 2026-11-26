@@ -1,6 +1,6 @@
 *Phần IV*
 
-# CHƯƠNG BA MƯƠI MỐT: Về bữa tiệc và cuộc săn hươu
+# CHƯƠNG BA MƯƠI MỐT
 
 Tiểu đồng của d’Évreux tái mặt đi đến mức vị công tước nhà Valois ngồi bên phải gã phải hỏi xem chàng trai trẻ có cảm thấy trong người ổn không.
 

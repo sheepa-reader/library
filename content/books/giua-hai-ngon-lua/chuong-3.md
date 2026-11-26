@@ -1,6 +1,6 @@
 *Phần I*
 
-# CHƯƠNG HAI: Về Mật Ong và Cây Thánh Giá Bị Gãy
+# CHƯƠNG HAI
 
 Thomas và cô bé ngủ trong một cái kho lúa trên những đống cỏ khô mục nát khác nhau, còn Jacquot bị trói trong chuồng lừa cũ. Gã không gây rắc rối vào buổi tối vì gã biết mình đã suýt chết đến nhường nào, nhưng gần sáng gã quên mất và đánh thức Thomas dậy.
 
@@ -64,11 +64,11 @@ Con bé đứng dậy, phủi rơm bám trên mái tóc rối bù.
 
 “Và ai đã nhắc đến quỷ sứ cơ chứ?”
 
-“Chính nhóc đấy, trong lúc ngủ mơ.”
+“Chính mày đấy, trong lúc ngủ mơ.”
 
 “Cháu biết mình gặp ác mộng, nhưng cháu không nhớ gì về quỷ sứ cả.”
 
-“Đừng nói nữa. Nhóc sẽ thu hút sự chú ý của bọn chúng khi nhắc đến chúng đấy.”
+“Đừng nói nữa. Mày sẽ thu hút sự chú ý của bọn chúng khi nhắc đến chúng đấy.”
 
 “Vâng,” con bé nói. “Cháu nghĩ điều đó đúng.”
 
@@ -88,7 +88,7 @@ Thomas bước đến chỗ bàn tay bị đứt lìa của gã béo vẫn đang
 
 “Cả của cháu nữa.”
 
-“Nhóc tính thế nào?”
+“Mày tính thế nào?”
 
 “Cháu đi cùng ngài.”
 
@@ -110,11 +110,11 @@ Con bé bước đến gần Thomas hơn.
 
 “Thô lỗ.”
 
-“Chà, đúng là một từ đao to búa lớn. Nhóc biết chữ, phải không?”
+“Chà, đúng là một từ đao to búa lớn. Mày biết chữ, phải không?”
 
 “Vâng. Tiếng Pháp và tiếng Latinh. Không biết tiếng Hy Lạp.”
 
-“Dù sao đi nữa, chuyện nhóc đòi đi theo ta là thế nào?”
+“Dù sao đi nữa, chuyện mày đòi đi theo ta là thế nào?”
 
 “Sao ngài không mang theo cây nỏ?”
 
@@ -124,7 +124,7 @@ Cây cung sẽ rất hữu ích cho việc săn bắn nếu Thomas có chút tà
 
 “Chúa của chúng ta đã dạy rằng tuyệt đối không được giết người. Vậy thì có gì khác biệt?”
 
-“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng ta sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến ta thành một kẻ chiến đấu.”
+“Chúa của chúng ta cũng bảo hãy dâng cho Caesar những gì thuộc về Caesar. Thanh kiếm của Thomas thuộc về lãnh chúa. Hoặc từng thuộc về ông ấy, cho đến khi người Anh bắn hạ ông ấy bằng mưa tên tại Crécy[2]. Họ cũng bắn cả Thomas, nhưng anh sống sót. Chúa, với sự khôn ngoan của Ngài, đã biến anh thành một kẻ chiến đấu.”
 
 “Thế mà ngài lại đi cùng một kẻ giết người từ khoảng cách xa. Vậy ngài làm gì trên con đường này cùng với những kẻ đó?”
 
@@ -132,7 +132,7 @@ Cây cung sẽ rất hữu ích cho việc săn bắn nếu Thomas có chút tà
 
 “Cháu đang hỏi đấy.”
 
-“Nhóc đang hỏi về cây cung, và ta đang cố kể cho nhóc nghe.”
+“Mày đang hỏi về cây cung, và ta đang cố kể cho mày nghe.”
 
 “Ngài có thể bán nó đi.”
 
@@ -140,15 +140,15 @@ Cây cung sẽ rất hữu ích cho việc săn bắn nếu Thomas có chút tà
 
 “Ngài cũng chẳng khỏe gì nếu cứ đi cùng hắn.”
 
-“Đúng là một con nhóc phiền toái hết chỗ nói! Dù sao đi nữa, ta đâu có đi cùng hắn. Không đời nào nữa. Nhóc đã giải quyết chuyện đó rồi còn gì.”
+“Đúng là một con nhóc phiền toái hết chỗ nói! Dù sao đi nữa, ta đâu có đi cùng hắn. Không đời nào nữa. Mày đã giải quyết chuyện đó rồi còn gì.”
 
 Con bé nhìn xuống đôi chân mình, dùng mũi giày di chuyển một cọng rơm trên mặt đất.
 
-“Sao nhóc lại dám đi thẳng về phía bọn ta chứ? Thật là ngốc nghếch.”
+“Sao mày lại dám đi thẳng về phía bọn tao chứ? Thật là ngốc nghếch.”
 
 “Cháu cần…”
 
-“Ta biết rồi. Người cha đã khuất của nhóc. Nhưng con gái không nên đến gần những tên lính. Giờ thì nhóc biết điều đó rồi chứ? Phải không?”
+“Ta biết rồi. Người cha đã khuất của mày. Nhưng con gái không nên đến gần những tên lính. Giờ thì mày biết điều đó rồi chứ? Phải không?”
 
 “Bây giờ thì cháu biết rồi.”
 
@@ -158,7 +158,7 @@ Con bé dùng ngón chân cái và ngón kế bên để nhấc cọng rơm lên
 
 “Nhưng nếu cháu không đến gặp các người, cháu sẽ chỉ có một mình.”
 
-“Nhóc đang ở một mình đấy chứ.”
+“Mày đang ở một mình đấy chứ.”
 
 “Không. Cháu đi theo ngài.”
 
@@ -246,13 +246,13 @@ Trong lúc Jacquot vừa đổ mồ hôi, vừa cằn nhằn rồi dần dần l
 
 “Vậy được rồi. Đi hướng Nam,” cô bé nói.
 
-“Một thị trấn,” Thomas nói, giơ một ngón tay dày và chai sạn lên. “Ta sẽ dẫn nhóc đi cho đến khi tới thị trấn tiếp theo, và bảo vệ nhóc bình an cho đến lúc đó. Nhưng nếu nhóc khóc lóc, cằn nhằn, hay rên rỉ dọc đường, ta sẽ vứt nhóc nằm bẹp dí ở đó. Nếu nhóc biết điều một chút, ta sẽ ném nhóc vào lòng vị nữ viện trưởng đầu tiên hoặc thậm chí mụ tập sinh hư hỏng nào ta gặp.”
+“Một thị trấn,” Thomas nói, giơ một ngón tay dày và chai sạn lên. “Ta sẽ dẫn mày đi cho đến khi tới thị trấn tiếp theo, và bảo vệ mày bình an cho đến lúc đó. Nhưng nếu mày khóc lóc, cằn nhằn, hay rên rỉ dọc đường, ta sẽ vứt mày nằm bẹp dí ở đó. Nếu mày biết điều một chút, ta sẽ ném mày vào lòng vị nữ viện trưởng đầu tiên hoặc thậm chí mụ tập sinh hư hỏng nào ta gặp.”
 
-Cô bé nheo mắt trước những lời thô tục của Thomas, nhưng gã đưa ngón tay lại gần mặt con bé hơn và bảo, “Và ta sẽ chửi thề tùy thích. Nhân danh Đức Mẹ, nhân danh dòng sữa chua của Người, nhân danh bộ lông của những con lợn chết, bất cứ thứ gì quỷ quái mà miệng ta thốt ra. Nhóc càng phàn nàn về điều đó, ta lại càng chửi bới tệ hơn.”
+Cô bé nheo mắt trước những lời thô tục của Thomas, nhưng gã đưa ngón tay lại gần mặt con bé hơn và bảo, “Và ta sẽ chửi thề tùy thích. Nhân danh Đức Mẹ, nhân danh dòng sữa chua của Người, nhân danh bộ lông của những con lợn chết, bất cứ thứ gì quỷ quái mà miệng ta thốt ra. Mày càng phàn nàn về điều đó, ta lại càng chửi bới tệ hơn.”
 
 Cô bé lại càng nheo mắt nhìn Thomas nhiều hơn, điều đó khiến gã nghĩ rằng cha con bé là một kẻ ra đòn không mấy nhanh nhẹn.
 
-“Đừng có làm mặt quạu với ta. Đưa cái túi nhóc mang theo đây.”
+“Đừng có làm mặt quạu với ta. Đưa cái túi mày mang theo đây.”
 
 “Để làm gì?”
 
@@ -266,7 +266,7 @@ Cô bé lại càng nheo mắt nhìn Thomas nhiều hơn, điều đó khiến g
 
 Thomas gừ lên với cô bé và bắt đầu lục lọi mọi thứ bên trong, bắt đầu bằng sáu cây nến sáp ong vàng.
 
-“Sang trọng phết,” gã nói. “Chẳng có nông nô nào có nến sáp cả. Cha nhóc làm nghề gì?”
+“Sang trọng phết,” gã nói. “Chẳng có nông nô nào có nến sáp cả. Cha mày làm nghề gì?”
 
 “Ông ấy là luật sư. Và ông ấy nuôi ong. Ý cháu là từng nuôi ong. Ông ấy đổi mật và sáp ong lấy hàng hóa với thương nhân nến. Ngay sau khi mọi người bắt đầu ngã bệnh, một số thợ học việc đã đến đốt phá các tổ ong, nói rằng chính lũ ong đã mang dịch bệnh đến đây khi bay tới những thị trấn có người nhiễm bệnh và những nơi có người Do Thái. Sau đó, họ quay lại trong cảnh đói kém và xin mật ong, nhưng cha cháu bảo rằng họ đã đốt sạch chúng rồi, thế nên họ đe dọa sẽ giết ông, nhưng cuối cùng chỉ đánh ông thôi. Tuy nhiên ông ấy không bị thương quá nặng. Chỉ là ông ấy vẫn còn giữ lại được một ít.”
 
@@ -306,7 +306,7 @@ Cô bé gật đầu.
 
 “Trông ngài giống hiệp sĩ mà.”
 
-“Nhóc chưa gặp nhiều hiệp sĩ rồi. Hầu hết bọn họ chỉ viết đủ giỏi để không phải vẽ hình con gà làm chữ ký, chứ chẳng có học thức gì sất.”
+“Mày chưa gặp nhiều hiệp sĩ rồi. Hầu hết bọn họ chỉ viết đủ giỏi để không phải vẽ hình con gà làm chữ ký, chứ chẳng có học thức gì sất.”
 
 “Thomas Aquinas là tác giả yêu thích của cha cháu. Vì ngài ấy đáng lẽ có thể làm lãnh chúa nhưng lại chọn từ bỏ thế gian. Dù cháu thích Thánh Francis hơn nhiều.”
 
@@ -322,7 +322,7 @@ Cô bé gật đầu.
 
 “Cháu sẽ mang nó.”
 
-“Nhóc sẽ bắt đầu bằng việc mang nó rồi sau đó ta sẽ phải mang thay. Nếu cha nhóc yêu quý nó, hãy cứ để nó lại cùng ông ấy. Còn cái này? Cái quái gì thế này?”
+“Mày sẽ bắt đầu bằng việc mang nó rồi sau đó ta sẽ phải mang thay. Nếu cha mày yêu quý nó, hãy cứ để nó lại cùng ông ấy. Còn cái này? Cái quái gì thế này?”
 
 Thomas giơ lên một dụng cụ nhỏ bằng xương hươu với một phần cuống và một quả cầu phình ra ở đầu. Cô bé giật lấy nó từ tay gã, mang đến chỗ xô nước rồi múc một ít vào. Sau đó con bé thổi vào phần cuống và nó kêu ríu rít rất vui tai, nghe hệt như tiếng chim hót.
 
@@ -332,7 +332,7 @@ Gã định bẻ gãy nó, nhưng cô bé đặt tay lên tay gã.
 
 “Tại sao chứ? Nó có nặng chút nào đâu. Và nó làm cháu vui.”
 
-“Làm cho nhóc vui không phải là việc của ta.”
+“Làm cho mày vui không phải là việc của ta.”
 
 “Cháu biết. Đó là lý do tại sao cháu muốn giữ cái còi.”
 
@@ -344,7 +344,7 @@ Gã lại gừ lên một tiếng.
 
 Cô bé đáp lại bằng cách thổi vào món đồ chơi của mình, vừa trông có vẻ ngây thơ vừa thách thức, trong khi chiếc còi phát ra những âm thanh vui tươi như tiếng chim.
 
-“Nhưng cái này thì nhóc phải bỏ lại,” Thomas nói, trưng ra cho con bé xem một cây thánh giá bằng gỗ thông và chì.
+“Nhưng cái này thì mày phải bỏ lại,” Thomas nói, trưng ra cho con bé xem một cây thánh giá bằng gỗ thông và chì.
 
 Cô bé ngừng thổi còi.
 
@@ -354,7 +354,7 @@ Cô bé ngừng thổi còi.
 
 “Nó được một tu sĩ dòng Phanxicô trao cho chúng cháu.”
 
-“Vì một nắm bạc và một cái liếc dài nhìn mẹ nhóc, nếu ta hiểu rõ đám tu sĩ Phanxicô.”
+“Vì một nắm bạc và một cái liếc dài nhìn mẹ mày, nếu ta hiểu rõ đám tu sĩ Phanxicô.”
 
 “Xin đừng nói những lời nhơ bẩn về mẹ cháu. Dù ngài có văng tục bao nhiêu đi nữa, xin đừng làm thế.”
 
@@ -364,7 +364,7 @@ Nói rồi, Thomas đứng dậy và ném cây thánh giá xuống một cánh �
 
 “Mẹ kiếp,” Thomas lẩm bẩm khi con bé mang trả lại. Gã lại giật lấy từ tay con bé rồi ném thẳng vào một thân cây, khiến nó gãy thành hai mảnh. Cô bé nhìn Thomas rồi nức nở khóc và đưa cổ tay lên cắn chặt.
 
-“Chỉ vì nó quá nặng thôi,” Thomas nói. “Chúng ta sẽ tìm cho nhóc một cái nhỏ hơn.”
+“Chỉ vì nó quá nặng thôi,” Thomas nói. “Chúng ta sẽ tìm cho mày một cái nhỏ hơn.”
 
 Cô bé vẫn tiếp tục nức nở.
 
@@ -376,7 +376,7 @@ Cô bé vẫn tiếp tục nức nở.
 
 “Chỉ trong một khoảnh khắc thôi. Cháu đã nhìn thấy nó.”
 
-“Nhóc thấy cái gì?”
+“Mày thấy cái gì?”
 
 “Linh hồn của ngài.”
 
@@ -384,7 +384,7 @@ Cô bé vẫn tiếp tục nức nở.
 
 “Không phải lúc nào cũng vậy.”
 
-“Ừ, lúc nào cũng thế. Nhưng chắc là trừ nhóc phải không? Chà, vậy nó thế nào? Có sừng với chân dê nhỏ không? Ta là ác quỷ chắc?”
+“Ừ, lúc nào cũng thế. Nhưng chắc là trừ mày phải không? Chà, vậy nó thế nào? Có sừng với chân dê nhỏ không? Ta là ác quỷ chắc?”
 
 “Không. Nhưng có một kẻ đang ở gần ngài. Lúc nào cũng có kẻ ở gần ngài. Bọn chúng muốn ngài.”
 

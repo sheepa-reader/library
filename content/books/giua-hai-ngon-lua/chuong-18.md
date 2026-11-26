@@ -1,10 +1,10 @@
 *Phần II*
 
-# CHƯƠNG MƯỜI SÁU: Về Cây Phong
+# CHƯƠNG MƯỜI SÁU
 
-Delphine cảm thấy quá bứt rứt không thể ngồi yên trên xe kéo, thế nên cô bé bước đi bên cạnh trong lúc hai người đàn ông lớn tuổi ngồi phía sau. Những dải vải em quấn quanh vùng eo rất thô ráp và cọ xát vào da thịt, nhưng em vẫn thấy may mắn vì tìm được chúng trong ngôi nhà nông trang; người phụ nữ xấu số trong căn nhà đó đang làm dở chiếc váy cho chính mình thì cơn dịch hạch ập đến khiến bà phải buông kim khâu xuống. Họ tìm thấy bà gục người bên cửa sổ, đã qua đời tròn một tháng nên da thịt hầu như chỉ còn lại xương, phần cổ rũ xuống sẫm màu như thể đã tan chảy vào vách tường. Delphine nghĩ rằng cơn sốt có lẽ đã khiến người phụ nữ ấy thèm khát chút không khí trong những giây phút cuối đời. Cô bé cũng đoán rằng cả gia đình đã ngã bệnh cùng một lúc, một thi thể nhỏ bé ôm chặt lấy thi thể khác ở góc nhà đối diện, đứa nhỏ hơn đang ôm khư khư con búp bê vải có đôi mắt làm bằng vỏ ốc sên. Người phụ nữ đã quá suy kiệt để chôn cất họ khi họ qua đời. Thế còn người đàn ông của gia đình thì sao? Có phải là lão già trong chuồng ngựa không? Hay ông ta là cha của người phụ nữ? Cô bé đoán đó chính là người cha, và rằng ông ta đã hóa điên từ trước nên họ phải giam giữ ông ta trong chuồng ngựa, nhưng rồi em chợt nghĩ rằng có lẽ ông ta đã tự ẩn náu nơi đó để bảo toàn tính mạng, biết đâu còn dùng chiếc lưỡi hái han gỉ kia để xua đuổi kẻ khác, rồi tại đó mà phát cuồng. Còn người chồng? Phải chăng ông ta đã chết trước khi dịch hạch tràn đến, có lẽ trong chiến trận, hay đã bỏ trốn để giữ lấy mạng sống? Em từng nghe biết bao câu chuyện phản bội và ích kỷ như thế từ ngôi làng của mình, dẫu em cũng tường tận những giai thoại về lòng trung thành và lòng dũng cảm cao cả. Cơn dịch bệnh này thiêu rụi mọi lớp vỏ ngụy tạo và phơi bày tâm hồn con người, chắc chắn hệt như cách nó cuối cùng sẽ phơi bày những bộ xương khô.
+Delphine cảm thấy quá bứt rứt không thể ngồi yên trên xe kéo, thế nên cô bé bước đi bên cạnh trong lúc hai người đàn ông lớn tuổi ngồi trên xe. Những dải vải em quấn quanh vùng eo rất thô ráp và cọ xát vào da thịt, nhưng em vẫn thấy may mắn vì tìm được chúng trong ngôi nhà nông trang; người phụ nữ của gia đình xấu số trong đó đang làm dở dang một chiếc váy cho chính mình thì cơn dịch hạch ập đến khiến bà phải buông kim khâu xuống. Họ tìm thấy bà gục người bên cửa sổ, đã qua đời tròn một tháng nên da thịt hầu như chỉ còn lại xương, phần cổ rũ xuống sẫm màu như thể đã tan chảy vào vách tường. Delphine nghĩ rằng cơn sốt có lẽ đã khiến người phụ nữ ấy thèm khát chút không khí trong những giây phút cuối đời. Cô bé cũng đoán rằng cả gia đình đã ngã bệnh cùng một lúc; một thi thể nhỏ bé ôm chặt lấy thi thể khác ở góc nhà đối diện, đứa nhỏ hơn đang ôm khư khư một con búp bê vải có đôi mắt làm bằng vỏ ốc sên. Người phụ nữ đã quá suy kiệt để chôn cất họ khi họ qua đời. Thế còn người đàn ông của gia đình thì sao? Có phải là lão già trong chuồng ngựa không? Hay ông ta là cha của người phụ nữ? Cô bé đoán đó chính là người cha, và rằng ông ta đã hóa điên từ trước nên họ phải giam giữ ông ta trong chuồng ngựa; nhưng rồi em chợt nghĩ rằng có lẽ ông ta đã tự ẩn náu nơi đó để bảo toàn tính mạng, biết đâu còn dùng chiếc lưỡi hái han gỉ kia để xua đuổi kẻ khác, rồi tại đó mà phát cuồng. Còn người chồng? Phải chăng ông ta đã chết trước khi dịch hạch tràn đến, có lẽ trong chiến trận, hay đã bỏ trốn để giữ lấy mạng sống? Em từng nghe biết bao câu chuyện phản bội và ích kỷ như thế từ ngôi làng của mình, dẫu em cũng tường tận những giai thoại về lòng trung thành và lòng dũng cảm cao cả. Cơn dịch bệnh này thiêu rụi mọi lớp vỏ ngụy tạo và phơi bày tâm hồn con người, chắc chắn hệt như cách nó cuối cùng sẽ phơi bày những bộ xương khô.
 
-“Cháu đang bận tâm điều gì đăm chiêu thế hả?” Thomas lên tiếng. Kể từ biến cố trong chuồng ngựa, gã đã đối xử với cô bé dịu dàng hơn. Em tự hỏi sự thay đổi ấy sẽ kéo dài được bao lâu.
+“Cháu đang bận tâm điều gì đăm chiêu thế hả?” Thomas lên tiếng. Kể từ biến cố trong chuồng ngựa, anh đã đối xử với cô bé dịu dàng hơn. Em tự hỏi sự thay đổi ấy sẽ kéo dài được bao lâu.
 
 “Cái chết ạ,” cô bé đáp.
 
@@ -14,9 +14,9 @@ Cô bé phớt lờ câu nói đó.
 
 “Không hát hò gì sao? Vậy chắc cháu sẽ nhún nhảy cho chúng ta xem một màn vũ điệu vui tươi nhỉ? Cha xứ và chú bắt đầu thấy chán ngấy cảnh ngắm nhìn cái mông con la này lúc lắc rồi đấy.”
 
-Cô bé nhăn nhó khuôn miệng, cố gắng không tỏ ra cổ vũ sự thô tục của gã bằng cách mỉm cười trước những lời đó. Thay vào đó, em cúi xuống nhặt một cục bùn rồi ném về phía anh, dẫu nó bay lệch hẳn ra sau và rơi tõm vào trong xe kéo.
+Cô bé nhăn nhó khuôn miệng, cố gắng không tỏ ra cổ vũ sự thô tục của chú bằng cách mỉm cười trước những lời đó. Thay vào đó, em cúi xuống nhặt một cục bùn rồi ném về phía anh, dẫu nó bay lệch hẳn ra sau và rơi tõm vào trong xe kéo.
 
-“Ha!” gã cười vang chế nhạo cô bé. “Giờ đã là một thiếu nữ rồi, cháu không còn làm được những trò mà bọn con trai vẫn làm nữa phải không? Một thằng nhóc thì đã ném trúng phóc vào giữa trán chú rồi đấy.”
+“Ha!” anh cười vang chế nhạo cô bé. “Giờ đã là một thiếu nữ rồi, cháu không còn làm được những trò mà bọn con trai vẫn làm nữa phải không? Một thằng nhóc thì đã ném trúng phóc vào giữa trán chú rồi đấy.”
 
 Cô bé gầm gừ với anh rồi rảo bước nhanh hơn, len lên đi trước con la.
 
@@ -24,7 +24,7 @@ Cô bé gầm gừ với anh rồi rảo bước nhanh hơn, len lên đi trư�
 
 Cô bé bước nhanh hơn, thả lỏng để bản thân mỉm cười khi gã hiệp sĩ thô lỗ kia không thể nhìn thấy sự thỏa mãn đó.
 
-Père Matthieu Hanicotte thừa biết có điều gì đó vừa diễn ra giữa gã hiệp sĩ và cô bé, nhưng bản chất của sự thay đổi ấy lại khiến ông bối rối. Nếu Thomas đã cưỡng bức em, liệu em còn tiếp tục đồng hành cùng họ không? Có lẽ là để giữ lấy mạng sống, nhưng chắc chắn em sẽ chẳng thể đùa giỡn và mỉm cười nhiều đến thế. Giả sử cô bé đã thuận theo gã thì sao? Hoặc đã tự tìm đến gã? Dù sao đi nữa, em cũng đang ở độ tuổi bắt đầu nghĩ ngợi đến những chuyện đó, nhất là khi em đã mang trên mình dấu ấn của Eva. Nếu thực sự là như vậy, chắc chắn vị linh mục sẽ nhận ra điều đó qua một cái vuốt ve vô tình hay một ánh nhìn kéo dài quá mức; quả thực họ nhìn nhau nhiều hơn, nhưng hầu như giống như cách cha và con gái cư xử với nhau khi người cha cưng chiều đứa trẻ làm tâm điểm rồi trêu chọc nó tinh nghịch. Nó chẳng có vẻ gì là nhục dục cả; ông đã tự rèn luyện cho bản thân khả năng phán đoán khi nào những giáo dân của mình phạm tội tà dâm để có thể dễ bề dỗ dành họ gột rửa linh hồn qua phép xưng tội.
+Père Matthieu Hanicotte thừa biết có điều gì đó vừa diễn ra giữa người hiệp sĩ và cô bé, nhưng bản chất của sự thay đổi ấy lại khiến ông bối rối. Nếu Thomas đã cưỡng bức em, liệu em còn tiếp tục đồng hành cùng họ không? Có lẽ là để giữ lấy mạng sống, nhưng chắc chắn em sẽ chẳng thể đùa giỡn và mỉm cười nhiều đến thế. Giả sử cô bé đã thuận theo anh thì sao? Hoặc đã tự tìm đến anh? Dù sao đi nữa, em cũng đang ở độ tuổi bắt đầu nghĩ ngợi đến những chuyện đó, nhất là khi em đã mang trên mình dấu ấn của Eva. Nếu thực sự là như vậy, chắc chắn vị linh mục sẽ nhận ra điều đó qua một cái vuốt ve vô tình hay một ánh nhìn kéo dài quá mức; quả thực họ nhìn nhau nhiều hơn, nhưng hầu như giống như cách cha và con gái cư xử với nhau khi người cha cưng chiều đứa trẻ làm tâm điểm rồi trêu chọc nó tinh nghịch. Nó chẳng có vẻ gì là nhục dục cả; ông đã tự rèn luyện cho bản thân khả năng phán đoán khi nào những giáo dân của mình phạm tội tà dâm để có thể dễ bề dỗ dành họ gột rửa linh hồn qua phép xưng tội.
 
 Nhưng ông là ai mà dám phán xét bất kỳ ai, hay đề ra phương thuốc chữa lành cho tội lỗi chứ?
 
@@ -46,7 +46,7 @@ Không tìm được câu đáp lại, Delphine tìm một gốc cây rồi dùn
 
 “Bọn trẻ con sẽ được lên thẳng Thiên Đàng,” lúc này cô bé mới cất lời.
 
-Thomas không ngẩng đầu lên khỏi công việc xếp đá bờ suối để nhóm lửa. “Những đứa trẻ hư thì không,” gã nói.
+Thomas không ngẩng đầu lên khỏi công việc xếp đá bờ suối để nhóm lửa. “Những đứa trẻ hư thì không,” anh nói.
 
 “Chẳng có đứa trẻ nào hư cả,” Delphine nói. “Chúng còn nhỏ nên đâu biết gì.”
 
@@ -90,4 +90,4 @@ Ngay trước khi rời khỏi khu cắm trại, cha Matthieu tìm thấy một 
 
 Họ mệt mỏi leo lên xe kéo rồi rời đi.
 
-Không một ai trong số họ nhận ra rằng chồi cây phong nhỏ nơi Delphine đã tựa đầu nghỉ ngơi đêm trước nay đã đâm chồi vươn mình lớn thành một thân cây vạm vỡ cao sang.
+Không một ai trong số họ nhận ra rằng cái gốc cây phong mà Delphine đã tựa đầu ngủ hôm trước nay đã vươn mình lớn thành một thân cây cao lớn.

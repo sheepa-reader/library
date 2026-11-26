@@ -1,18 +1,18 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI: Về Sự Giáng Lâm Của Đạo Binh Thiên Đàng
+# CHƯƠNG BỐN MƯƠI
 
 Robert Hanicotte lắc đầu.Tâm trí anh đang dần suy sụp.
 
 Những chiếc găng tay lụa của anh vấy đầy máu.
 
-Robert bò dưới những chiếc bàn và chạy về phía cổng, nhưng rồi lại bị đẩy ngược trở lại khi những kẻ từng cố gắng thoát ra ngoài lúc này đang tràn ngược vào trong.
+Anh bò dưới những chiếc bàn và chạy về phía cổng, nhưng rồi lại bị đẩy ngược trở lại khi những kẻ từng cố gắng thoát ra ngoài lúc này đang tràn ngược vào trong.
 
 Một thứ quái thai ghê tởm đang đuổi theo họ.
 
 Hóa ra đó là thứ nằm trong khu người Do Thái.
 
-Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó, người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân, thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.
+Một làn sóng xác chết chen chúc tràn vào khoảng sân, không phải rời rạc mà di chuyển như một thể thống nhất. Khi đã ở bên trong, nó tự tái định hình. Bốn chân, hoặc ba chân, tùy ý nó muốn, được cấu thành hoàn toàn từ những thây ma chồng chất lên nhau. Nó di chuyển quanh khoảng sân, thu gom những kẻ đang hoảng loạn trốn chạy bằng cái miệng kinh hợm của mình. Nó rất nhanh. Răng của nó là những chiếc xương sườn của con người. Ở giữa nó là một luồng ánh sáng biểu thị ý thức. Khi những cái xác tạo nên phần tận cùng của đôi chân bị mòn rã, nó bỏ chúng lại phía sau và những cái xác mới hơn tiến xuống, lộn ngược đầu, đôi tay bấu víu vào bất cứ thứ gì nó muốn bấu víu, lưng và ngực gánh chịu sức nặng của nó, hoàn toàn không bận tâm đến những chiếc cổ đã gãy. Nó nhét những cái xác tìm thấy vào cơ thể mình, hoặc giết chết những kẻ còn sống. Đủ loại xác chết cuồn cuộn trong bộ khung của nó; người Do Thái và tín đồ Thiên Chúa giáo, binh lính và bà mụ, kẻ mặc quần áo và người khỏa thân; thậm chí cả một người phụ nữ với cái đầu hươu đực mọc ngược ở phần trên của một chi, đang chờ đến lượt mình được chuyển xuống dưới cùng để bấu víu vào kẻ khác và gánh chịu sức nặng.
 
 Tiếng hét của Robert chuyển thành tiếng cười.
 
@@ -22,7 +22,7 @@ Tiếng hét của Robert chuyển thành tiếng cười.
 
 Anh thà đối đầu với bọn chúng còn hơn là phải giáp mặt với sự phỉ báng sống động này.
 
-Không. Ta phải chạy! Ta phải sống!
+Không. Mình phải chạy! Mình phải sống!
 
 Anh chạy cùng những người khác, cố gắng chen vào nhà nguyện, nhưng cánh cửa đã bị chặn lại. Những bức tượng thiên thần và ác quỷ bằng đá thản nhiên nhìn vô cảm từ trên vòm cổng xuống.
 
@@ -30,7 +30,7 @@ Anh bị kẹt chặt giữa đám đông, ngạt thở.
 
 Anh quay lại để xem nó đang ở đâu.
 
-Nó đứng một mình trong khoảng sân, gần chỗ phần còn lại của Delphine. Delphine vùng trồng nho. Hóa ra cô bé thực sự là một vị thánh.
+Nó đứng một mình trong khoảng sân, gần chỗ phần còn lại của Delphine. Cô bé đến từ những vườn nho. Hóa ra cô bé thực sự là một vị thánh.
 
 Nó nhấc Delphine lên với ý định đồng hóa cô bé.
 
@@ -112,7 +112,7 @@ Robert không thể nhìn thấy vị thiên thần ở vị trí ngài hạ xu�
 
 Michael, ta đang nhìn thấy Tổng lãnh thiên thần Michael.
 
-Ngài cất tiếng hát từ vị trí trên mái nhà, và đó là âm thanh tuyệt vời nhất mà Robert từng được nghe trong đời. Giờ đây, những kẻ sống sót trong khoảng sân phát ra những tiếng động đầy nhẹ nhõm và biết ơn, một tiếng gào khàn đặc vượt quá giới hạn ngôn từ có thể diễn tả. Một số người đan tay vào nhau và quỳ xuống khóc nghẹn, một số khác ôm chầm lấy nhau.
+Ngài cất tiếng hát từ vị trí trên mái nhà, và đó là âm thanh tuyệt vời nhất mà Robert từng được nghe trong đời. Giờ đây, những kẻ sống sót trong khoảng sân phát ra những tiếng động đầy nhẹ nhõm và biết ơn, một tiếng gào khàn đặc vượt quá giới hạn ngôn từ có thể diễn tả. Một số người đan tay vào nhau và quỳ xuống khóc nghẹn; một số khác ôm chầm lấy nhau.
 
 Và những vị thiên thần vẫn tiếp tục kéo đến, một đạo binh hùng hậu.
 
@@ -138,15 +138,15 @@ Một bàn tay siết chặt lấy tay anh khi sự sống đang rời bỏ cơ 
 
 Anh cứ nghĩ đó là tay của Matthieu.
 
-Ta xin lỗi, Robert của những bụi cây.
+Ta xin lỗi, Robert-của-những-bụi-cây.
 
 Ta xin lỗi.
 
-Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà, ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.
+Ánh sáng từ bọn họ chói lọi đến mức tạo ra một ban ngày rực sắc vàng hổ phách chao đảo điên cuồng khắp cả thành phố. Maître de Chauliac quan sát những gì có thể thấy từ các cửa sổ trong phòng làm việc của Đức Giáo Hoàng, bản thân Đức Giáo Hoàng thì la hét điên cuồng rằng đây là lỗi của mình, ra lệnh đem đốt hết áo lông chồn. Chà! Ai có thể mang hết số áo đó, đủ để trải thảm cả cung điện, và chúng sẽ bị đốt bằng cái gì chứ? Nến, lò sưởi và chậu than đều đã tắt, thế nên những người đàn ông và đàn bà trong căn phòng này túm tụm lại với nhau trong bóng tối ngập tràn tiếng thở hổn hển, đôi khi bị cắt ngang bởi những luồng ánh sáng từ bên ngoài dao động như thể đang treo trên con lắc. Vị bác sĩ ra lệnh cho người của mình giữ Đức Giáo Hoàng ở lại đây, trong căn phòng khá nhỏ này tại Tháp Thiên Sứ. Tiếng hát cất lên từ mái nhà đã gợi cho ông ý rằng ít nhất nơi đây có lẽ sẽ không sụp đổ.
 
 Một tiếng động khủng khiếp phát ra từ hướng Villeneuve, bên kia sông. Ông không thể nhìn thấy từ góc độ của mình, và ông thấy thật may mắn vì điều đó. Ông nhìn ra ngoài cửa sổ, cố gắng kiểm soát nhịp thở.
 
-Cảnh tượng mà ông chứng kiến rốt cuộc ít giống một trận chiến hơn, mà giống như một cuộc đẩy lùi bóng tối không thể tránh khỏi, thói quen của mặt trời, quyền thừa kế của ánh sáng. Nhiều ác quỷ hơn xuất hiện, lao vút xuống như những hòn đá bốc cháy, cố gắng giữ lấy cứ điểm trần gian này kể từ khi cuộc chiến trên Thiên Đàng trở nên bất lợi. Trong cơn thịnh nộ và sự bất lực của mình, chúng tàn phá các thành phố Avignon, Villeneuve và Carpentras, giết hại hàng ngàn người, nhưng vị thế của chúng trước các thiên thần là vô vọng. Chúng gầm thét và cắn xé những sinh thể điềm tĩnh, xinh đẹp và ung dung đến mức tưởng chừng như chúng và lũ ác quỷ đang tồn tại trong hai thực tại hoàn toàn khác nhau. Có một cảnh tượng đọng lại mãi mãi trong tâm trí de Chauliac, ám ảnh ông, dẫu cho ơn phúc thay, phần còn lại sẽ phai mờ, ông nhìn thấy một con ác quỷ với đôi cánh đen rộng bị hai thiên thần tóm lấy, họ đè nó xuống và dường như thì thầm vào tai nó khi cả bọn đang rơi xuống, chúng đâm sầm vào khúc quanh của sông Rhône, tạo nên một cột nước sáng rực khổng lồ có thể nhìn thấy tận từ Orange.
+Cảnh tượng mà ông chứng kiến rốt cuộc ít giống một trận chiến hơn, mà giống như một cuộc đẩy lùi bóng tối không thể tránh khỏi, thói quen của mặt trời, quyền thừa kế của ánh sáng. Nhiều ác quỷ hơn xuất hiện, lao vút xuống như những hòn đá bốc cháy, cố gắng giữ lấy cứ điểm trần gian này kể từ khi cuộc chiến trên Thiên Đàng trở nên bất lợi. Trong cơn thịnh nộ và sự bất lực của mình, chúng tàn phá các thành phố Avignon, Villeneuve và Carpentras, giết hại hàng ngàn người, nhưng vị thế của chúng trước các thiên thần là vô vọng. Chúng gầm thét và cắn xé những sinh thể điềm tĩnh, xinh đẹp và ung dung đến mức tưởng chừng như chúng và lũ ác quỷ đang tồn tại trong hai thực tại hoàn toàn khác nhau. Có một cảnh tượng đọng lại mãi mãi trong tâm trí de Chauliac, ám ảnh ông, dẫu cho ơn phúc thay, phần còn lại sẽ phai mờ; ông nhìn thấy một con ác quỷ với đôi cánh đen rộng bị hai thiên thần tóm lấy, họ đè nó xuống và dường như thì thầm vào tai nó khi cả bọn đang rơi xuống; chúng đâm sầm vào khúc quanh của sông Rhône, tạo nên một cột nước sáng rực khổng lồ có thể nhìn thấy tận từ Orange.
 
 Hai thiên thần và một ác quỷ đã rơi ùm xuống nước.
 

@@ -1,6 +1,6 @@
 *Phần V*
 
-# CHƯƠNG BỐN MƯƠI BA: Về Ngày Cuối Tháng Mười, và Về Tháng Mười Một
+# CHƯƠNG BỐN MƯƠI BA
 
 Thomas lại nhận thức được cơ thể mình, nhận thức được nỗi đau. Việc thở rất khó khăn vì sức nặng xô đẩy đè lên người khi chiếc xe bò lăn bánh, một mảnh vải che nửa mũi và miệng anh. Ướt đẫm. Mọi thứ đều ướt đẫm. Mùi hôi thối của máu từ hôm qua và chất thải của cái chết hiện hữu khắp nơi. Một con chó sủa lên. Hai con. Xe bò dừng lại.
 
@@ -208,39 +208,39 @@ Sẽ là quá táo bạo nếu mở lời nhờ cậy chỉ sau một ngày quen
 
 Gã không phải là một người học rộng hiểu sâu như cha cô bé, nhưng sự lương thiện lại tỏa ra từ gã tựa như ánh mặt trời ẩn giấu.
 
-“Tên chú là gì vậy ạ?” cô bé nói.
+“Tên ngài là gì vậy, thưa quý ông?” cô bé nói.
 
-“Thomas. Và đừng gọi chú là ‘ngài’.”
+“Thomas. Và đừng gọi ta là ‘quý ông’.”
 
-“Cháu có thể hỏi chú đến từ đâu không?”
+“Cháu có thể hỏi ngài đến từ đâu không?”
 
 Gã quay sang nhìn cô bé bằng ánh mắt đượm ý cười.
 
 “Một thị trấn.”
 
-“Vâng, nhưng thị trấn đó tên là gì ạ?”
+“Vâng, nhưng thị trấn đó tên là gì?”
 
 “Thị trấn.”
 
 “Làm gì có thị trấn nào tên là Thị trấn.”
 
-“Của chú thì có đấy. Thị trấn trên... Thị trấn.”
+“Của ta thì có đấy. Thị-Trấn-trên-…Thị-Trấn.”
 
 Cô bé bật cười.
 
 “Thị trấn này có nằm gần ngọn núi nào không?”
 
-“Givras,” gã đáp. “Chú đến từ Givras.”
+“Givras,” gã đáp. “Ta đến từ Givras.”
 
-“Nghe vần với Thomas thật đấy. Chú có muốn biết tên cháu không?” cô bé nói.
+“Nghe vần với Thomas thật đấy. Ngài có muốn biết tên cháu không?” cô bé nói.
 
-“Chú biết rồi.”
+“Ta biết rồi.”
 
 Cô bé mỉm cười tinh nghịch.
 
 Cô bé thích trò chơi này.
 
-“Vậy chú hãy nói cho cháu nghe đi.”
+“Vậy ngài hãy nói cho cháu nghe đi.”
 
 Gã cúi người về phía cô bé.
 

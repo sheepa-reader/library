@@ -1,6 +1,6 @@
 *Phần III*
 
-# CHƯƠNG HAI MƯƠI LĂM: Về Delphine và Con Bù Nhìn
+# CHƯƠNG HAI MƯƠI LĂM
 
 Delphine khẽ lướt những ngón tay trên gương mặt Thomas đang ngủ say.
 
@@ -10,9 +10,9 @@ Cô bé chạm vào anh nhẹ đến mức biết chắc anh sẽ chẳng màng 
 
 Nhưng mình lại chính là mối đe dọa ấy.
 
-Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Cơn mưa cuối cùng trút xuống kể từ lúc họ rời khỏi ngôi nhà của ông lão, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.
+Vùng đất giờ đây khô cằn hơn, lởm chởm đá và oi ả hơn. Bầu trời trải rộng sắc xanh Provence bất tận trên những hàng cây bạch dương với tán lá xanh ngả vàng và lớp vỏ cây sần sùi như vải lanh. Trận mưa cuối cùng đã rơi từ khi họ rời khỏi ngôi nhà của lão già, và những giàn nho ở đây vẫn còn xanh mướt. Họ đã dừng chân tại một hang động nông cạnh dòng suối, kiệt sức sau hai ngày ròng rã đi bộ. Hôm qua, họ đã bán con dê cho một gia đình người Provence, Thomas phải dùng cử chỉ để trao đổi gần hết mọi thứ, đổi lại được một bữa ăn nóng cùng một túi bạc nhỏ chẳng thể đi được bao xa.
 
-Thomas đã nói thẳng với cô bé rằng anh định cướp con ngựa đầu tiên họ nhìn thấy, nhưng họ chỉ thấy ngựa khi những đoàn người, đôi khi là binh lính, đôi khi là phu phen lao động, kéo nhau đi về hướng nam vượt qua họ. Chẳng có vẻ gì là hợp lý khi một trong số những nhóm người đó sẽ nhường ngựa cho một kẻ độc hành, cho dù trông gã có cao lớn và nguy hiểm đến đâu đi nữa, thế nên Thomas chẳng cướp bóc gì cả.
+Thomas đã nói thẳng với cô bé rằng anh định cướp con ngựa đầu tiên họ nhìn thấy, nhưng họ chỉ thấy ngựa khi những đoàn người — đôi khi là binh lính, đôi khi là phu phen lao động — kéo nhau đi về hướng nam vượt qua họ. Chẳng có vẻ gì là hợp lý khi một trong số những nhóm người đó sẽ nhường ngựa cho một kẻ độc hành, cho dù trông gã có cao lớn và nguy hiểm đến đâu đi nữa, thế nên Thomas chẳng cướp bóc gì cả.
 
 Mọi chuyện không thể cứ tiếp diễn thế này được.
 
@@ -30,7 +30,7 @@ Thậm chí cả một vị thiên thần của Chúa.
 
 Đấy là chưa tính đến ba kẻ mà Thomas đã ra tay hạ sát.
 
-Cha em sẽ không bao giờ lôi kéo vị hiệp sĩ này đi xa hơn nữa để rồi phải giết chóc hay tệ hơn là chính anh phải bỏ mạng. Và giờ đây em đang trở thành thứ gì thế này, khi lại nghĩ rằng thà để Thomas giết thêm một kẻ khác còn hơn là để bất kỳ tai họa nào giáng xuống đầu anh? Đó là cách suy nghĩ của tất cả mọi kẻ trên đời, luôn bảo vệ người mình thương yêu bằng cái giá của một kẻ xa lạ.
+Cha em sẽ không bao giờ kéo vị kỵ sĩ này đi xa hơn nữa để rồi phải giết chóc hay tệ hơn là chính anh phải bỏ mạng. Và giờ đây em đang trở thành thứ gì thế này, khi lại nghĩ rằng thà để Thomas giết thêm một kẻ khác còn hơn là để bất kỳ tai họa nào giáng xuống đầu anh? Đó là cách suy nghĩ của tất cả mọi kẻ trên đời, luôn bảo vệ người mình thương yêu bằng cái giá của một kẻ xa lạ.
 
 Cô bé sẽ tiếp tục lên đường một mình.
 
@@ -304,7 +304,7 @@ Im lặng.
 
 Delphine hít một hơi thật sâu. Khi cô bé cất lời lần nữa, giọng em đã vững vàng hơn.
 
-“Bạn bè không đe dọa, làm bấn loạn nhau. Nếu ngài thực sự là bạn tôi, hãy để tôi được yên.”
+“Bạn bè không khủng bố tinh thần nhau. Nếu ngài thực sự là bạn tôi, hãy để tôi được yên.”
 
 Tiếng rít lạo xạo lại vang lên.
 

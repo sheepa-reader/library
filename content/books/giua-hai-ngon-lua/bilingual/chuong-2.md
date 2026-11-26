@@ -1,14 +1,14 @@
 *Phần I*
 
-# CHƯƠNG MỘT: Về con lừa
+# CHƯƠNG MỘT
 
 <p class="para-en">The soldiers found the donkey on Friday. It was lame and its ribs were easy to count; it was too weak to run from them or even to bray at them, but it didn’t seem to have the disease. It was just old.</p>
 
-<p class="para-vi-sub">Lũ lính tìm thấy con lừa vào ngày thứ Sáu. Nó bị thọt chân và những chiếc xương sườn dễ dàng đếm được; nó quá yếu để chạy trốn chúng hay thậm chí bật ra một tiếng kêu, nhưng dường như nó không mắc bệnh. Nó chỉ đơn giản là già.</p>
+<p class="para-vi-sub">Lũ lính tìm thấy con lừa vào ngày thứ Sáu. Nó bị thọt chân và những chiếc xương sườn dễ dàng đếm được; nó quá yếu để chạy trốn chúng hay thậm chí để kêu la, nhưng dường như nó không mắc bệnh. Nó chỉ đơn giản là già.</p>
 
 <p class="para-en">It looked at them hopefully from beneath a willow tree, swishing its tail against the flies. The fat one, and nobody knew how he stayed fat, took his war hammer up, meaning to brain it, but Thomas stopped him. He pointed at the barn. It would be smarter to walk it to the barn first, where they could shelter against the coming rain. Godefroy nodded his agreement.</p>
 
-<p class="para-vi-sub">Nó nhìn chúng đầy hy vọng từ dưới gốc cây liễu, quật đuôi xua đám ruồi. Godefroy, kẻ chẳng ai hiểu sao vẫn giữ được thân hình béo tốt ấy, cầm lấy cây búa chiến định đập chết nó, nhưng Thomas đã ngăn gã lại. Thomas chỉ tay về phía cái kho. Khôn ngoan hơn cả là dắt nó vào kho trước, nơi bọn họ có thể tránh cơn mưa sắp tới. Godefroy gật đầu đồng ý.</p>
+<p class="para-vi-sub">Nó nhìn chúng đầy hy vọng từ dưới gốc cây liễu, quật đuôi xua đám ruồi. Godefroy, chẳng ai hiểu sao hắn vẫn giữ được thân hình béo tốt ấy, cầm lấy cây búa chiến định đập chết nó, nhưng Thomas đã ngăn gã lại. Thomas chỉ tay về phía cái kho. Khôn ngoan hơn cả là dắt nó vào kho trước, nơi bọn họ có thể tránh cơn mưa sắp tới. Godefroy gật đầu đồng ý.</p>
 
 <p class="para-en">The four men had been on the road in their rags and rusty armor without a good meal for many weeks, living on spoiled food from houses, watercress and cattail tops from ditches, worms, bugs, acorns, and even a rotten cat. They had all eaten so much grass that they had green piss. The disease was ruthless here; it had killed so many farmers that there was no bread even in this fertile valley. There were not enough hands to swing scythes, nor enough women willing to gather for the threshing, nor any miller to grind, nor bakers to stoke the ovens. The sickness, which they called the Great Death, passed mysteriously but surely from one to the other as easily as men might clasp hands, or a child might call a friend’s name, or two women might share a glance. Now none looked at their neighbors, nor spoke to them. It had fallen so heavily upon this part of Normandy that the dead could not be buried; they were piled outside in their dirty long shirts and they stank in the August sun and the flies swarmed around them. They lay in weed-choked fields of rye and oats where they had fled in delirium. They lay pitifully in the shadow of the town church where they had crawled hoping that last gesture would lessen their time in purgatory, stuck like glued birds to the limestone where they had tried to cool their fevered heads. Some fouled in houses because they were the last and there was no one to put them out. Those with means had fled, but many times it dogged them even into the hills and swamps and manors and killed them there.</p>
 
@@ -24,7 +24,7 @@
 
 <p class="para-en">“Hello,” she said.</p>
 
-<p class="para-vi-sub">“Con chào các ngài,” cô bé nói.</p>
+<p class="para-vi-sub">“Cháu chào các chú,” cô bé nói.</p>
 
 <p class="para-en">All of the men stopped chewing except Thomas.</p>
 
@@ -36,19 +36,19 @@
 
 <p class="para-en">“Hello,” she said again.</p>
 
-<p class="para-vi-sub">“Con chào các ngài,” cô bé lại nói thêm lần nữa.</p>
+<p class="para-vi-sub">“Cháu chào các chú,” cô bé lại nói thêm lần nữa.</p>
 
 <p class="para-en">“Hello, yourself,” Godefroy said, leaning his lanky body toward her like a cat sighting on a bird.</p>
 
-<p class="para-vi-sub">“Chào cô bé,” Godefroy nói, rướn thân hình gầy đét về phía cô như một con mèo đang giương mắt nhìn chim.</p>
+<p class="para-vi-sub">“Chào cô nhóc,” Godefroy nói, rướn thân hình gầy đét về phía cô như một con mèo đang giương mắt nhìn chim.</p>
 
 <p class="para-en">“You’re eating Parsnip,” she said matter-of-factly.</p>
 
-<p class="para-vi-sub">“Các ngài đang ăn con Củ Cải đấy à,” cô bé nói với giọng tỉnh bơ.</p>
+<p class="para-vi-sub">“Các chú đang ăn con Củ Cải đấy à,” cô bé nói với giọng tỉnh bơ.</p>
 
 <p class="para-en">“It’s donkey. Would you like some?”</p>
 
-<p class="para-vi-sub">“Đây là thịt lừa. Con có muốn ăn một miếng không?”</p>
+<p class="para-vi-sub">“Đây là thịt lừa. Cháu có muốn ăn một miếng không?”</p>
 
 <p class="para-en">This last would have sounded friendly except that Godefroy patted the rotten beam he was sitting on. She should sit near him if she wanted food.</p>
 
@@ -80,11 +80,11 @@
 
 <p class="para-en">“Come sit near me,” Godefroy said, patting the beam again. With his other hand he brushed back a wick of his stringy, black hair. He wore jewelry that didn’t seem to belong on such a dirty man. Her eyes fixed on a cross of jasper on a gold necklace; something the seigneur’s wife might wear.</p>
 
-<p class="para-vi-sub">“Lại đây ngồi gần tao nào,” Godefroy nói, lại vỗ vỗ vào thanh xà. Bằng bàn tay kia, hắn hất lọn tóc đen xơ xác sang một bên. Hắn đeo những món trang sức chẳng hề phù hợp với một kẻ bẩn thỉu như vậy. Ánh mắt cô bé dán chặt vào cây thánh giá bằng đá jasper trên chiếc vòng cổ bằng vàng, thứ mà chỉ vợ của lãnh chúa mới mang.</p>
+<p class="para-vi-sub">“Lại đây ngồi gần tao nào,” Godefroy nói, lại vỗ vỗ vào thanh xà. Bằng bàn tay kia, hắn hất lọn tóc đen xơ xác sang một bên. Hắn đeo những món trang sức chẳng hề phù hợp với một kẻ bẩn thỉu như vậy. Ánh mắt cô bé dán chặt vào cây thánh giá bằng đá jasper trên chiếc vòng cổ bằng vàng; thứ mà chỉ vợ của lãnh chúa mới mang.</p>
 
 <p class="para-en">“I need help,” she said.</p>
 
-<p class="para-vi-sub">“Con cần giúp đỡ,” cô bé nói.</p>
+<p class="para-vi-sub">“Cháu cần giúp đỡ,” cô bé nói.</p>
 
 <p class="para-en">“Come sit here and tell me about it.”</p>
 
@@ -112,7 +112,7 @@
 
 <p class="para-en">“I need help putting Papa in a grave.”</p>
 
-<p class="para-vi-sub">“Con cần người giúp chôn cất cha con.”</p>
+<p class="para-vi-sub">“Tôi cần người giúp chôn cất ba tôi.”</p>
 
 <p class="para-en">“Silly bitch, there aren’t any graves anymore. We’re in a grave already, all of us. Just stack his bones outside. Someone will get him.”</p>
 
@@ -128,7 +128,7 @@
 
 <p class="para-en">“I can’t lift him.”</p>
 
-<p class="para-vi-sub">“Con không nhấc nổi ổng lên.”</p>
+<p class="para-vi-sub">“Tôi không nhấc nổi ổng lên.”</p>
 
 <p class="para-en">“Well, I won’t lift him. I didn’t live this long to catch it by hauling around dead serfs.”</p>
 
@@ -136,7 +136,7 @@
 
 <p class="para-en">“He’s not a serf.”</p>
 
-<p class="para-vi-sub">“Cha con không phải nông dân.”</p>
+<p class="para-vi-sub">“Ba tôi không phải nông dân.”</p>
 
 <p class="para-en">“I really don’t give a shit.”</p>
 
@@ -164,7 +164,7 @@
 
 <p class="para-en">Brigands. That was the word for what these men were; men who were soldiers before the war with the English, but who now traveled the roads, or hid in the woods and robbed people. Even before the plague had come, her papa had spoken with their neighbors about what to do if brigands came.</p>
 
-<p class="para-vi-sub">Bọn cướp đường. Đó chính xác là từ dùng để chỉ đám người này; những kẻ từng là binh lính trước khi cuộc chiến với người Anh nổ ra, nhưng giờ đây lại lang thang trên các con đường cái quan, hoặc ẩn nấp trong rừng sâu để cướp bóc dân lành. Ngay cả trước khi trận Đại Diệt Vong ập đến, cha của cô từng bàn tán với những người hàng xóm về việc phải làm gì nếu bọn cướp xuất hiện.</p>
+<p class="para-vi-sub">Bọn cướp đường. Đó chính xác là từ dùng để chỉ đám người này; những kẻ từng là binh lính trước khi cuộc chiến với người Anh nổ ra, nhưng giờ đây lại lang thang trên các con đường cái quan, hoặc ẩn nấp trong rừng sâu để cướp bóc dân lành. Ngay cả trước khi trận Đại Diệt Vong ập đến, ba của cô từng bàn tán với những người hàng xóm về việc phải làm gì nếu bọn cướp xuất hiện.</p>
 
 <p class="para-en">Now they were here and no one could help her.</p>
 
@@ -176,7 +176,7 @@
 
 <p class="para-en">“We only have a little silver,” she said, “and some books.”</p>
 
-<p class="para-vi-sub">“Chúng con chỉ có chút ít bạc,” cô nói, “và vài cuốn sách.”</p>
+<p class="para-vi-sub">“Chúng tôi chỉ có chút ít bạc,” cô nói, “và vài cuốn sách.”</p>
 
 <p class="para-en">“I don’t want silver.”</p>
 
@@ -192,7 +192,7 @@
 
 <p class="para-en">“I don’t have any.”</p>
 
-<p class="para-vi-sub">“Con không có.”</p>
+<p class="para-vi-sub">“Tôi không có.”</p>
 
 <p class="para-en">“Of course you do.”</p>
 
@@ -252,7 +252,7 @@
 
 <p class="para-en">“I’d rather get it from her than her papa.”</p>
 
-<p class="para-vi-sub">“Tao thà vớ lấy con bé còn hơn là vác cái xác của lão cha nó.”</p>
+<p class="para-vi-sub">“Tao thà vớ lấy nó còn hơn là vác cái xác của lão ba nó.”</p>
 
 <p class="para-en">“Leave her alone,” Thomas said, and this time it wasn’t a request. He put his straw hat beside him. He tried to do it casually, but the fat one saw it and, also trying to be circumspect, spat out the overlarge piece of donkey he had just taken and set the rest on his leather bag.</p>
 
@@ -348,19 +348,19 @@
 
 <p class="para-en">“Come down, little bird,” Jacquot said. “We won’t hurt you.”</p>
 
-<p class="para-vi-sub">“Trèo xuống đi, chim non,” Jacquot nói. “Tôi sẽ không làm cô bé đau đâu.”</p>
+<p class="para-vi-sub">“Trèo xuống đi, chim non,” Jacquot nói. “Bọn ta sẽ không làm cô bé đau đâu.”</p>
 
 <p class="para-en">“Yes you will,” she said, gathering her leg up under her gown as well as she could.</p>
 
-<p class="para-vi-sub">“Có, anh sẽ làm thế,” cô bé nói, cố kéo chân giấu gọn dưới tà váy hết mức có thể.</p>
+<p class="para-vi-sub">“Có, các người sẽ làm thế,” cô bé nói, cố kéo chân giấu gọn dưới tà váy hết mức có thể.</p>
 
 <p class="para-en">“All right, we will. But not much and not for long. Maybe just a night and a morning. Then we’ll be on our way. Or, better yet! We might take you with us. Would you like that? Four strong husbands and passage out of town?”</p>
 
-<p class="para-vi-sub">“Được rồi, tôi sẽ làm thế. Nhưng không nhiều lắm và cũng chẳng lâu đâu. Có lẽ chỉ một đêm và một buổi sáng thôi. Rồi bọn tôi sẽ lên đường. Hoặc, tuyệt hơn nữa, bọn tôi có thể đưa cô bé đi cùng. Cô bé thích thế chứ? Bốn người chồng lực lưỡng và một lối thoát khỏi thị trấn này?”</p>
+<p class="para-vi-sub">“Được rồi, tao sẽ làm thế. Nhưng không nhiều lắm và cũng chẳng lâu đâu. Có lẽ chỉ một đêm và một buổi sáng thôi. Rồi bọn tao sẽ lên đường. Hoặc, tuyệt hơn nữa! Bọn tao có thể đưa mày đi cùng. Mày thích thế chứ? Bốn người chồng lực lưỡng và một lối thoát khỏi thị trấn này?”</p>
 
 <p class="para-en">“No, thank you.”</p>
 
-<p class="para-vi-sub">“Không, cảm ơn anh.”</p>
+<p class="para-vi-sub">“Không, cảm ơn các người.”</p>
 
 <p class="para-en">He leapt up onto a strong, low branch, almost high enough now to reach her foot, but she climbed higher. She was much lighter than he. He would lose this game.</p>
 
@@ -376,7 +376,7 @@
 
 <p class="para-en">“It won’t be rape if you agree.”</p>
 
-<p class="para-vi-sub">“Sẽ không gọi là cưỡng hiếp nếu cô bé đồng ý.”</p>
+<p class="para-vi-sub">“Sẽ không gọi là cưỡng hiếp nếu mày đồng ý.”</p>
 
 <p class="para-en">“Yes it will. Because I’ll only agree to avoid being hurt.”</p>
 
@@ -384,7 +384,7 @@
 
 <p class="para-en">“So there we have it. You’ll agree to avoid being hurt. Very well. Come down or I’ll hurt you.”</p>
 
-<p class="para-vi-sub">“Thế thì rõ rồi đấy. Cô bé sẽ đồng ý để tránh bị đau đớn. Rất tốt. Trèo xuống đây mau, không thì tôi cho cô bé đau thật đấy.”</p>
+<p class="para-vi-sub">“Thế thì rõ rồi đấy. Mày sẽ đồng ý để tránh bị đau đớn. Rất tốt. Trèo xuống đây mau, không thì tao cho mày đau thật đấy.”</p>
 
 <p class="para-en">He dropped back down to the ground now.</p>
 
@@ -396,7 +396,7 @@
 
 <p class="para-en">“I do.”</p>
 
-<p class="para-vi-sub">“Tôi nói thật đấy.”</p>
+<p class="para-vi-sub">“Tao nói thật đấy.”</p>
 
 <p class="para-en">“You’re not a bad man. I don’t believe you are.”</p>
 
@@ -404,7 +404,7 @@
 
 <p class="para-en">“I’m afraid I am.”</p>
 
-<p class="para-vi-sub">“Tôi e rằng tôi chính là thế đấy.”</p>
+<p class="para-vi-sub">“Tao e rằng tao chính là thế đấy.”</p>
 
 <p class="para-en">“But you don’t have to be!”</p>
 
@@ -412,7 +412,7 @@
 
 <p class="para-en">“Sorry. Already am. Now I see a bunch of lovely stones by the stream. What say I go get them and throw them at you until you come down?”</p>
 
-<p class="para-vi-sub">“Xin lỗi nhé. Đã lỡ thành ra thế rồi. Giờ tôi thấy mấy hòn đá đẹp phết ở cạnh con suối kìa. Hay là tôi ra đó nhặt về rồi ném vào người cô bé cho đến khi chịu trèo xuống nhỉ?”</p>
+<p class="para-vi-sub">“Xin lỗi nhé. Đã lỡ thành ra thế rồi. Giờ tao thấy mấy hòn đá đẹp phết ở cạnh con suối kìa. Hay là tao ra đó nhặt về rồi ném vào người mày cho đến khi mày chịu trèo xuống nhỉ?”</p>
 
 <p class="para-en">The foliage wouldn’t allow for much stone-throwing, and he wasn’t sure he could make himself throw a stone at her in any case, but he said it as if he meant it. He sensed he had to get her to the barn quickly.</p>
 
@@ -448,7 +448,7 @@
 
 <p class="para-en">“Enough games. Come down or I knock you down with stones.”</p>
 
-<p class="para-vi-sub">“Đủ trò mèo rồi đấy. Trèo xuống mau, không thì tôi lấy đá ném cho rớt xuống đấy.”</p>
+<p class="para-vi-sub">“Đủ trò mèo rồi đấy. Trèo xuống mau, không thì tao lấy đá ném cho rớt xuống đấy.”</p>
 
 <p class="para-en">She was crying now. He thought she would call his bluff, but soon she probed for a lower branch with her long, ungainly foot. He helped her down and felt her trembling. He felt sick about what he was doing, but hardened his heart. He decided to talk to her about it while he hoisted her up on his shoulder and walked back toward the barn.</p>
 
@@ -456,7 +456,7 @@
 
 <p class="para-en">“I know this seems awful, but it really isn’t. If God wanted order and goodness in the world, He shouldn’t have made things quite so hard on us. We’re all dead men, and women. He wants chaos and death? He gets them, and what say do we have in it? All we can do is try to have a little fun before the mower comes for us, eh? And he will come for us. If you relax, you might not have such a bad time.”</p>
 
-<p class="para-vi-sub">“Tôi biết việc này trông có vẻ tồi tệ, nhưng thực ra không phải vậy đâu. Nếu Chúa Trời muốn trật tự và lòng tốt ngự trị trên thế gian, Ngài đã chẳng làm mọi thứ trở nên quá khắc nghiệt với chúng ta như thế. Hết thảy chúng ta đều là những kẻ phải chết, cả đàn ông lẫn đàn bà. Ngài muốn hỗn mang và sự chết chăng? Vậy thì Ngài sẽ nhận lấy chúng, và chúng ta có quyền uy gì trong chuyện này cơ chứ? Tất cả những gì chúng ta có thể làm là cố gắng tận hưởng chút niềm vui trước khi kẻ cắt cỏ đến tìm chúng ta, phải thế không? Và hắn chắc chắn sẽ đến tìm chúng ta. Nếu cô thả lỏng ra, có lẽ cô sẽ thấy mọi chuyện không đến nỗi tệ lắm đâu.”</p>
+<p class="para-vi-sub">“Ta biết việc này trông có vẻ tồi tệ, nhưng thực ra không phải vậy đâu. Nếu Chúa Trời muốn trật tự và lòng tốt ngự trị trên thế gian, Ngài đã chẳng làm mọi thứ trở nên quá khắc nghiệt với chúng ta như thế. Hết thảy chúng ta đều là những kẻ phải chết, cả đàn ông lẫn đàn bà. Ngài muốn hỗn mang và sự chết chăng? Vậy thì Ngài sẽ nhận lấy chúng, và chúng ta có quyền uy gì trong chuyện này cơ chứ? Tất cả những gì chúng ta có thể làm là cố gắng tận hưởng chút niềm vui trước khi kẻ cắt cỏ đến tìm chúng ta, phải thế không? Và hắn chắc chắn sẽ đến tìm chúng ta. Nếu cô thả lỏng ra, có lẽ cô sẽ thấy mọi chuyện không đến nỗi tệ lắm đâu.”</p>
 
 <p class="para-en">“You’re just saying these things to make yourself feel better,” she said, breathing hard in fear for what was about to happen.</p>
 
@@ -484,7 +484,7 @@
 
 <p class="para-en">“I will.”</p>
 
-<p class="para-vi-sub">“Tôi thả đây.”</p>
+<p class="para-vi-sub">“Tao thả đây.”</p>
 
 <p class="para-en">The sword’s point poked Jacquot’s woolen hood and settled just behind his ear. He knew the man wielding it could drive it through both hood and skull as easily as into a squash.</p>
 
@@ -516,7 +516,7 @@
 
 <p class="para-en">“You could leave.”</p>
 
-<p class="para-vi-sub">“Ngài có thể rời đi mà.”</p>
+<p class="para-vi-sub">“Anh có thể rời đi mà.”</p>
 
 <p class="para-en">“I’m too tired. And you would find me.”</p>
 
@@ -544,7 +544,7 @@
 
 <p class="para-en">“Don’t kill him,” she said.</p>
 
-<p class="para-vi-sub">“Xin ngài đừng giết ông ấy,” cô bé nói.</p>
+<p class="para-vi-sub">“Đừng giết anh ta,” cô nói.</p>
 
 <p class="para-en">She looked up at Thomas, and he noticed how very light and gray her eyes were. Like the flint in the walls of the barn, but luminous. Like an overcast sky on the verge of turning blue.</p>
 

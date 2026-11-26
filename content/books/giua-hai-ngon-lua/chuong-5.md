@@ -1,409 +1,398 @@
 *Phần I*
 
-# CHƯƠNG BỐN: Về Tu Viện và Thứ Rượu Ngon Nhất Trong Vòng Bảy Năm
+# CHƯƠNG BỐN
 
-Họ cùng nhau hành quân suốt hai ngày. Ngày đầu tiên, họ chẳng gặp một bóng người và chỉ ăn toàn những cọng cây xanh, một củ cải dại do cô bé bới lên từ lòng đất (dùng vạt áo bọc quanh tay để nhổ), một con cào cào cô bé chộp được, cùng một chút mật ong ít ỏi. Họ nhắm hướng Paris mà đi, dù cô bé chẳng thể giải thích được lý do tại sao. Bất chấp cặp sừng quỷ mà gã nhìn thấy đêm trước, Thomas đã nảy ra ý định bỏ rơi cô bé không dưới chục lần, và vì lẽ đó, gã hầu như chẳng buồn đáp lại những lời cố làm quen của cô bé. Cô bé có một giọng nói trong trẻo cùng cung cách cư xử lịch thiệp, gã sẽ rất dễ mến cô bé nếu gỡ bỏ rào cản lòng mình, nhưng gã quyết tâm không để điều đó xảy ra.
+Họ cùng nhau hành trình trong hai ngày, và vào ngày đầu tiên họ không thấy bóng người nào, chỉ ăn mấy cọng cỏ xanh, một củ cải dại cô bé bứt lên từ mặt đất với vạt áo quấn quanh tay, một con châu chấu con bé vồ được, cùng một chút xíu mật ong. Họ đang hướng về phía Paris, dù cô bé chẳng thể nói rõ lý do tại sao. Bất chấp chiếc sừng quỷ mà Thomas đã thấy tối hôm trước, gã đã nghĩ đến việc bỏ rơi cô bé không dưới chục lần, và vì mục đích đó, gã hầu như chẳng buồn đáp lại những nỗ lực trò chuyện của con bé. Cô bé có giọng nói dễ thương cùng phép tắc lịch sự, và Thomas chắc chắn sẽ dễ dàng nảy sinh tình cảm với con bé nếu gã buông lơi bản thân, nhưng gã quyết định không làm thế.
 
-Có điều sự quyết tâm ấy chẳng mấy thành công.
+Với đôi chút thành công.
 
-“Ngài sinh ra ở đâu?” cô bé hỏi khi hai người lên tới đỉnh một ngọn đồi dưới bầu trời xanh rực nắng ấm áp.
+“Ngài sinh ra ở đâu thế?” cô bé cất lời khi họ lên đến đỉnh một ngọn đồi dưới bầu trời xanh ấm áp dễ chịu.
 
 “Picardy.”
 
-“Ở thị trấn nào?”
+“Thị trấn nào?”
 
 “Một thị trấn.”
 
-“Một thị trấn lớn ạ?”
+“Một thị trấn lớn à?”
 
 “Chỉ là một thị trấn thôi.”
 
-“Tên là gì vậy ngài?”
+“Tên là gì?”
 
-“Thị Trấn.”
+“Thị trấn.”
 
-“Thị trấn này... có nằm gần núi không?”
-
-“Không.”
-
-“Thế thì gần đồi chứ ạ?”
+“Thị trấn này ấy à. Nó có nằm gần ngọn núi nào không?”
 
 “Không.”
 
-“Gần hồ nước?”
+“Thế còn đồi thì sao?”
 
 “Không.”
 
-“Gần trang trại?”
+“Một cái hồ nước?”
 
 “Không.”
 
-“Thị trấn nào mà chẳng nằm gần trang trại.”
-
-Gã trừng mắt nhìn xuống cô bé, nhưng cô bé chỉ đáp lại bằng ánh mắt già dặn trước tuổi đến bình thản. Sự thông minh trong đôi mắt ấy như chọc giận gã, gợi cho gã nhớ về một người khác.
-
-Một người từng làm tổn thương gã.
-
-“Thế thì có,” gã nói.
-
-“Gần trang trại đúng không ạ?”
-
-“Đúng.”
-
-“Tốt rồi. Ít ra chúng ta cũng tiến triển được chút ít. Cây cối thì sao? Thị trấn có gần rừng cây không?”
-
-“Chắc thế.”
-
-“Cháu muốn hỏi lại chuyện ngọn đồi. Vì lúc nãy ngài trông có vẻ không chắc chắn.”
-
-“Ừ, nó nằm gần một ngọn đồi.”
-
-“Nhưng ngài có vẻ chắc chắn về chuyện ngọn núi. Vậy là không có núi.”
+“Những cánh đồng?”
 
 “Không.”
 
-“Còn cái tên?”
+“Mọi thị trấn đều nằm gần các cánh đồng.”
 
-“Ta đã bảo là Thị Trấn rồi.”
+Thomas cau mày nhìn xuống cô bé, nhưng con bé gạt phắt đi bằng một vẻ già dặn điềm tĩnh. Sự thông minh trong đôi mắt cô bé khiêu khích Thomas, gợi cho gã nhớ đến một người khác.
 
-“Chẳng có thị trấn nào tên là Thị Trấn cả.”
+Một kẻ đã tổn thương Thomas.
 
-“Thị trấn của ta tên thế đấy. Thị-Trấn-Lồn-Mẹ-Nó. Cha con làm nghề gì nhắc lại ta nghe xem?”
+“Vậy thì, phải,” Thomas nói.
 
-“Ông ấy là luật sư ạ.”
+“Gần các cánh đồng.”
 
-“Thảo nào vặn vẹo thế. Giờ thì im miệng đi.”
+“Phải.”
 
-“Cộc lốc thế này ngài chẳng bao giờ cưới được vợ đâu.”
+“Tốt. Giờ thì chúng ta đang tiến triển rồi đấy. Cây cối thì sao? Thị trấn đó có gần rừng cây không?”
 
-“Ta từng có một đời vợ rồi.”
+“Ta đoán là có.”
 
-“Chuyện gì đã xảy ra với cô ấy ạ?”
+“Cháu muốn quay lại câu hỏi về ngọn đồi. Bởi vì trông ngài có vẻ không chắc chắn lắm.”
 
-“Ta giết cô ta vì tội nói nhiều.”
+“Đúng, nó nằm gần một ngọn đồi.”
 
-Cô bé khúc khích cười trước câu đáp ấy.
+“Nhưng ngài có vẻ chắc chắn về ngọn núi. Vậy là không có núi.”
 
-“Và cô ấy có được chôn ở Thị-Trấn-Lồn-Mẹ-Nó không ngài?”
+“Không.”
 
-“Im miệng.”
+“Còn tên của nó?”
 
-“Cháu đoán ngài cũng giết luôn cả con cái mình rồi.”
+“Thị trấn, ta đã nói thế mà.”
 
-“Giết sạch không sót đứa nào.”
+“Chẳng có thị trấn nào tên là Thị trấn cả.”
 
-“Tên chúng là gì ạ?”
+“Của ta thì có đấy. Làng Thị-Trấn-Bên-Khe-Núi-Chết-Tiệt. Thế cha của mày làm nghề gì nào?”
 
-“Đứa lớn, đứa nhỡ, đứa nhỏ và im đi.”
+“Ông ấy là luật sư.”
 
-Họ nhìn thấy tu viện vào ngày thứ hai, và cũng chỉ nhờ ghé vào rừng tìm thức ăn. Cả hai kiếm chưa đầy một nắm quả mộng chua lè, nhưng khi chuẩn bị rời đi, Thomas phát hiện một con thỏ rừng và đuổi theo nó dọc theo lối mòn đi sâu vào lòng rừng. Con thỏ dĩ nhiên đã tẩu thoát, nhưng cánh rừng mở ra một ngọn đồi nhỏ, và từ trên đồi gã nhìn thấy những bức tường đá thấp, mái tranh, cùng một khoảng khoảng như khu vườn.
+“Thảo nào. Giờ thì ngậm miệng lại đi.”
 
-“Ôi, Chúa Giê-su nhân từ, xin cho vận may mỉm cười với chúng con,” gã nói, rồi cả hai tiến về phía cổng. Đó là một cánh cổng đơn sơ đan bằng những cành cây khô, đang rộng mở. Một biển hiệu bằng gỗ phía trên cổng có khắc dòng chữ Latinh đốt cháy vào gỗ:
+“Ngài sẽ chẳng bao giờ lấy được vợ nếu cứ cư xử tệ bạc như thế.”
 
-CÁNH CỔNG NÀY MỞ RA
+“Ta từng có một người rồi.”
 
-ĐÓN CHÀO TẤT CẢ NHỮNG AI BƯỚC VÀO
+“Chuyện gì đã xảy ra với bà ấy?”
 
-TRONG THÀNH KÍNH BÌNH AN CỦA CHÚA KHI-TÔ
+“Ta đã giết ả vì tội nói nhiều.”
 
-Gã rút kiếm ra và bước vào.
+Cô bé khúc khích cười trước câu nói đó.
 
-Cô bé bước theo sau, hai tay chắp lại như thể đang cầu nguyện, rồi vụt vượt qua gã và hướng thẳng tới ngôi nhà nguyện nhỏ bằng đá, phớt lờ tiếng hô “Này! Chờ đã!” của gã. Gã để cô bé đi, vừa lắc đầu vừa đánh giá toàn bộ khuôn viên.
+“Và bà ấy được chôn ở Làng-Thị-Trấn-Bên-Thị-Trấn à?”
 
-Đó là một tu viện nhỏ, nhìn qua chỉ là nơi trú ngụ của không quá hai mươi tu sĩ. Chỉ có nhà nguyện và tường bao ngoài được xây bằng đá; khu hành lang và phòng ngủ tập thể đều làm bằng đất trát đan tre. Một con thỏ khác, hoặc chính là con ban nãy, lao ra từ khu vườn, nhưng Thomas chẳng buồn vồ lấy nó, thay vào đó đi thẳng xuống hầm đất nơi gã nghi là hầm chứa lương thực. Nơi này đã bị vét sạch. Một cuộc dọn dẹp chu đáo, tôn trọng và vô cùng triệt để.
+“Câm miệng.”
 
-“Chẳng có chút may mắn nào,” gã nói, rồi nén cảm giác muốn nhổ bọt.
+“Cháu đoán là ngài cũng giết cả lũ trẻ nhà mình rồi.”
 
-Phòng ngủ trống rỗng, ngoại trừ mười chiếc giường rơm, một vài chiếc trong số đó còn dính vết ố của dịch bệnh. Gã nhanh chóng lùi ra ngoài.
+“Tất cả chúng.”
 
-Gã thấy cô bé đang quỳ bên ngoài nhà nguyện, lặng lẽ cầu nguyện vào đôi bàn tay chắp lại, đôi má ướt đẫm nước mắt.
+“Tên chúng là gì?”
 
-“Sao con không vào trong?” gã hỏi.
+“Thằng bé, thằng bé, con bé, và câm mồm.”
 
-Cô bé chỉ nhìn gã rồi gạt đi nước mắt trên má.
+Họ nhìn thấy tu viện vào ngày thứ hai, và chỉ vì họ đi vào rừng để kiếm ăn. Họ thu được chưa đầy một nắm quả mọng chua chát cho cả hai, nhưng khi chuẩn bị rời đi, Thomas phát hiện ra một con thỏ và đuổi theo nó dọc theo một lối mòn dẫn sâu hơn vào rừng. Tất nhiên con thỏ đã trốn thoát, nhưng khu rừng mở ra ở một ngọn đồi nhỏ, và từ ngọn đồi đó Thomas nhìn thấy những bức tường đá thấp cùng mái tranh, và thứ trông giống như một khu vườn.
 
-Và rồi gã ngửi thấy mùi của chúng.
+“Ồ, Chúa nhân từ, xin hãy ban may mắn cho chúng con,” Thomas nói, rồi cả hai tiến về phía cổng. Đó là một chiếc cổng đơn giản được đan bằng những cành cây, đang mở rộng. Một tấm biển gỗ treo trên cổng đề bằng chữ Latinh được khắc cháy:
 
-Gã ghé mắt qua cánh cửa, vẩy tay xua ruồi nhặng khỏi mặt, và nhìn thấy bốn cái xác sưng phồng nằm trong gian nát nhà thờ, khoác trên mình bộ áo dòng bằng wool thô chưa nhuộm màu trắng đục. Ba cái xác nằm ngửa, còn cái xác cuối cùng, một ông lão, co quắp như đứa trẻ gần đó. Tay ông vẫn cầm chiếc dao ăn, áo dòng mở tung một bên. Nền nhà dưới thân ông dính nhớp. Ông đã chết trong lúc cố chọc vỡ một trong những u nhọt kinh hoàng đó. Hoa được rải khắp lên người họ.
+CỔNG NÀY RỘNG MỞCHO TẤT CẢ NHỮNG AI BƯỚC VÀOTRONG SỰ BÌNH AN CỦA CHÚA KITÔ
+
+Thomas rút kiếm ra và bước vào.
+
+Cô bé bước theo sau anh với hai tay đan vào nhau như đang cầu nguyện, rồi vượt qua anh và tiến thẳng đến nhà thờ đá nhỏ, phớt lờ tiếng “Này! Chờ đã!” của Thomas. Gã mặc kệ con bé, lắc đầu ngán ngẩm rồi bắt đầu đánh giá khu vực xung quanh.
+
+Đó là một tu viện nhỏ, thoạt nhìn có lẽ không quá hai mươi tu sĩ sinh sống. Chỉ có nhà thờ và những bức tường bên ngoài làm bằng đá; các hành lang tu viện và khu ký túc xá đều làm bằng phên trát bùn. Một con thỏ khác, hoặc chính là con thỏ đó, phóng vụt ra từ khu vườn, nhưng Thomas thậm chí còn chẳng thèm lao tới bắt nó, thay vào đó gã đi thẳng đến căn hầm đất nơi gã phỏng đoán là phòng đựng thức ăn. Nơi đó đã trống hoác. Được dọn sạch chu đáo, tôn trọng và triệt để.
+
+“Chẳng có chút may mắn nào,” Thomas lẩm bẩm, nén lại cơn muốn nhổ nước bọt bực dọc.
+
+Khu ký túc xá trống không, ngoại trừ mười chiếc giường rơm mà trên vài chiếc vẫn còn hằn lại những vết tích của dịch bệnh. Thomas vội vã lùi ra ngoài.
+
+Gã tìm thấy cô bé đang quỳ gối bên ngoài nhà thờ, lặng lẽ cầu nguyện với hai bàn tay đan chặt, đôi má đẫm nước mắt.
+
+“Sao mày không vào trong?” Thomas hỏi.
+
+Cô bé chỉ nhìn gã và lau má.
+
+Và rồi Thomas ngửi thấy mùi đó.
+
+Gã hé nhìn qua cửa, xua đuổi ruồi nhặng đang bu quanh mặt, và nhìn thấy bốn cỗ thi thể sưng phồng nằm giữa gian thánh, vẫn mặc những bộ tu phục bằng len thô màu trắng ngà chưa nhuộm. Ba người nằm ngửa, và người cuối cùng, một lão già, nằm cuộn tròn như đứa trẻ ở gần đó. Lão cầm con dao ăn trên tay, và bộ tu phục bị mở toang một bên. Sàn nhà dính nháp bên dưới người lão. Lão đã chết khi đang cố chích vỡ một trong những khối u khủng khiếp đó. Những bông hoa được rải lên khắp người họ.
 
 “Dòng Xitô,” Thomas nói.
 
-Những mô đất mới đắp phía sau bao phủ những tu sĩ đầu tiên ngã xuống, nhưng chỉ có bốn mô. Nếu mỗi người một mộ, và nếu tất cả giường đều đã từng có người nằm, thì vẫn còn vài người chưa rõ tung tích; có lẽ là những kẻ đã vét sạch hầm lương thực. Có thể họ nghĩ sẽ đến một đan viện khác. Thomas chẳng hề ghen tị với việc họ cố gắng di chuyển mà không có vũ khí cùng chiếc xe chở lương thực cuối cùng trong thung lũng.
+Những nắp mồ đất mới đắp ở phía sau dùng để chôn cất những tu sĩ ngã xuống đầu tiên, nhưng chỉ có bốn ngôi mộ. Nếu họ được chôn mỗi người một huyệt và nếu tất cả những chiếc giường đều có người nằm, thì vẫn có vài người không rõ tung tích; có lẽ là những kẻ đã dọn sạch phòng đựng thức ăn. Biết đâu họ nghĩ rằng mình có thể đến một tu viện khác. Thomas không hề ganh tị với việc họ cố gắng di chuyển mà không có vũ khí cùng cỗ xe lương thực cuối cùng trong thung lũng.
 
-Khi cô bé cầu nguyện xong, Thomas nói: “Không có thức ăn. Họ đã lấy sạch kho dự trữ, cạn cả hồ cá lẫn chuồng bồ câu. Họ có lò nướng, nhưng đã nguội lạnh từ lâu. Khu vườn trồng thức ăn thì bị xới tung lên hết. Tất cả những gì họ có chỉ là mấy thứ thảo dược cùng hoa hoét quỷ quái.”
+Khi cô bé làm lễ xong, Thomas nói: “Không có đồ ăn đâu. Bọn chúng lấy hết kho dự trữ rồi, còn dọn sạch cả ao cá lẫn chuồng bồ câu. Chúng có một cái lò nướng, nhưng đã nguội từ lâu lắm rồi. Khu vườn trồng rau thì bị xới tung lên hết. Tất cả những gì chúng có chỉ là toàn cỏ với hoa chết tiệt.”
 
-Cô bé đi tới vườn thảo dược và ra hiệu cho Thomas đi theo. Cô bé đưa cho gã chiếc xô lấy từ giếng nước rồi dẫn gã đi quanh vườn, nhặt đầy xô những bông hoa cùng cọng rau xanh mà cô bé khéo léo ngắt bằng đôi tay nhỏ nhắn, trắng trẻo. Gã bắt đầu vơ vét mọi thứ, nhưng cô bé đã ngăn gã lại trước khi gã chạm vào một cọng cây xanh. Cô bé lắc đầu dồn dập với gã.
+Cô bé đi về phía khu vườn thảo mộc và ra hiệu cho Thomas đi theo. Con bé đưa cho gã một chiếc xô lấy từ giếng nước rồi dẫn gã đi quanh vườn, hái đầy hoa cùng rau xanh bằng đôi bàn tay nhỏ nhắn, trắng trẻo của mình thành thạo. Thomas bắt đầu vươn tay tóm lấy mọi thứ, nhưng cô bé đã kịp ngăn gã lại trước khi gã chạm vào một nhánh cây xanh. Con bé nghiêm khắc lắc đầu với gã.
 
-“Sao thế? Tại sao?”
+“Gì thế? Sao lại thế?”
 
-Cô bé dùng ngón tay viết chữ lên mặt đất:
+Cô bé dùng ngón tay viết chữ ô đầu lên nền đất.
 
-ô đầu
-
-Gã nhíu mày đọc, đánh vần từng chữ một.
+Thomas nheo mày đọc lại, đánh vần từng chữ cái một.
 
 Ô đầu.
 
-Cây có độc.
+Độc dược.
 
-“Ồ. Cảm ơn con. Thế ra con không thèm nói chuyện nữa à?”
+“Ồ. Cảm ơn nhé. Thế nào, mày không nói chuyện nữa à?”
 
-Không phải ở đây.
+Không ở đây.
 
-Gã lại đánh vần dòng chữ này, chỉ tay vào từng ký tự.
+Thomas cũng đánh vần từng chữ cái này, vừa đọc vừa chỉ vào từng chữ.
 
-“Sao, vì đây là tu viện à?”
+“Sao cơ, vì đây là tu viện à?”
 
 Cô bé gật đầu.
 
-“Con đâu có tuyên thệ.”
+“Mày có tuyên khấn gì đâu.”
 
-Con có chứ, cô bé viết.
+Có chứ, cô bé viết. Trước nhà thờ. Trong tim cháu.
 
-Bên nhà nguyện. Trong tim con.
+Thomas đọc mất nhiều thời gian quá nên con bé đành chỉ thẳng vào nhà thờ rồi đặt tay lên ngực mình.
 
-Gã mất quá nhiều thời gian để đọc những dòng này khiến cô bé đành chỉ tay về phía nhà nguyện rồi đặt tay lên ngực mình.
+Thomas càu nhàu.
 
-Gã hắng giọng.
-
-“Lời tuyên thệ này là cho suốt phần đời còn lại của con đấy à?” gã hỏi.
+“Lời thề này giữ trong suốt phần đời còn lại của mày à?” gã hỏi.
 
 Cô bé lắc đầu.
 
-“Chỉ trong thời gian chúng ta ở đây thôi sao?”
+“Chỉ trong lúc chúng ta ở đây thôi ư?”
 
 Cô bé gật đầu.
 
-“Nếu vậy, chắc chắn chúng ta sẽ ở lại đây qua đêm. Có khi cả tuần đấy.”
+“Nếu thế thì chúng ta nhất định sẽ ở lại qua đêm đấy. Hoặc có lẽ là cả tuần luôn.”
 
-Cô bé thò tay vào xô và ném mấy chiếc lá ướt vào mặt gã. Một chiếc dính ngay trên trán gã và cô bé không nén được tiếng cười bất chấp thân phận tu sĩ dòng Xitô tạm thời của mình.
+Con bé với tay vào xô, vốc một nắm lá ẩm ném thẳng vào mặt Thomas. Có một chiếc lá dính chặt trên trán khiến cô bé bật cười bất chấp ý định giữ im lặng và thân phận tạm thời là một nữ tu dòng Xitô của mình.
 
-Họ ăn hết xô rau xanh cùng những bông hoa rực rỡ. Bên cạnh những vương miện nhỏ nhắn béo ngậy của hoa cúc vạn thọ, thứ gã nhớ lại từ khu vườn của mẹ mình, bà thường trộn nó với ngũ cốc của gà để làm lòng đỏ trứng đậm màu hơn và, theo lời bà, tốt cho máu hơn, Thomas liên tục nhặt ra một loại lá khá rộng, gật gù khi nếm thử.
+Họ ăn chỗ rau xanh và những bông hoa rực rỡ trong xô. Cùng với những phần đài hoa cúc vạn thọ nhỏ nhắn béo ngậy mà giờ đây Thomas mới nhớ ra từ khu vườn của mẹ mình, bà thường trộn nó với thức ăn cho gà để lòng đỏ trứng đậm màu hơn và, theo lời bà, tốt cho máu hơn, Thomas cứ nhặt ra một chiếc lá hơi bản rộng, vừa nếm thử vừa gật gù.
 
-“Cây này là cây gì?”
+“Cái này là gì thế?”
 
-Rau chua, cô bé viết.
+Chua me đất, cô bé viết.
 
-Gã dò ngón tay theo các chữ cái, phát âm từng âm tiết chập chững như chú ngựa con tập đi. Cô bé gật đầu khi gã ghép đúng chữ.
+Thomas dùng ngón tay dò theo từng con chữ, phát âm từng âm tiết ngập ngừng như dáng đi của một chú ngựa con tập bước. Cô bé gật đầu khi gã ghép các chữ lại với nhau chính xác.
 
-“Ngon đấy. Vị như chanh, nhưng ngon. Còn cây này?”
+“Ngon phết. Giống như chanh ấy, nhưng mà ngon. Thế còn cái này?”
 
-Cần tây dại
+Đương quy
 
-“Cây này?”
+“Cái này?”
 
-Cây liên mộc
+Liên mộc
 
-“Cây này ta biết. Đừng ăn hết. Sáng mai hái thêm đi, nếu còn. Nó rất tốt để đắp vào vết thương cầm máu.”
+“Cái này thì tao biết. Đừng có ăn hết đấy. Sáng mai đi hái thêm đi, nếu còn nhiều. Loại này đắp vào vết thương thì cầm máu rất tốt.”
 
 Cỏ thi
 
-“Sao con biết tất cả những thứ này?”
+“Sao mày rành mấy thứ này thế?”
 
-Mẹ dạy, cô bé viết, và một nụ cười rạng rỡ dịu dàng nở trên môi cô bé đến mức Thomas phải cắn chặt lưỡi để ngăn mình không bật khóc thương cho người mẹ của chính gã.
+Mẹ, cô bé viết, và một nụ cười khẽ nở trên gương mặt đến mức Thomas phải cắn chặt lưỡi để kìm nén cơn khóc nghẹn cho chính người mẹ của mình.
 
-Họ ngủ dưới bầu trời thoáng đãng ở khu hành lang, gần tượng Thánh Bernard xứ Clairvaux, Thánh Genevieve xứ Paris, cùng các Tổng Lãnh Thiên Thần Michael và Gabriel. Thomas tỉnh dậy vào giữa đêm và bước ra ngắm nhìn ngôi sao chổi của mình. Giờ đây nó đã băng qua cổ chòm sao Thiên Nga, và phần đỉnh có vẻ mang sắc đỏ, như thể có một huyết mạch nhỏ lăn tăn bên trong. Gã dụi mắt rồi nhìn đi chỗ khác, nhưng khi nhìn lại nó vẫn ở đó. Gã nhận ra một ngôi sao chổi thứ hai gần đó, rất mờ nhạt.
+Họ ngủ ngoài trời ngay trong khu tu viện, gần các bức tượng của Thánh Bernard xứ Clairvaux, Thánh Genevieve xứ Paris, cùng hai vị tổng lãnh thiên thần Michael và Gabriel. Thomas tỉnh dậy giữa đêm và ra ngắm ngôi sao chổi của mình. Nó đã di chuyển đến vùng cổ của chòm sao Thiên Nga, và đầu sao chổi có vẻ ánh lên sắc đỏ, tựa như có một tia máu nhỏ xíu bên trong. Gã dụi mắt rồi quay đi, nhưng khi nhìn lại thì nó vẫn nằm ở đó. Giờ đây gã lại nhận ra thêm một ngôi sao chổi thứ hai nữa, nằm sát bên cạnh và rất mờ ảo.
 
-“Giết sạch tất cả chúng tôi đi,” gã nói. “Còn chờ đợi điều gì nữa?”
+“Giết quách tất cả chúng tao đi cho rồi,” gã nói. “Mày còn chờ cái gì nữa?”
 
-Sau đó gã ngủ rất sâu, và mơ thấy các tu sĩ đang hát những bản bình歌. Gã tỉnh dậy trong ánh sáng màu đào ngay trước lúc bình minh. Không khí se lạnh, và cô bé vẫn đang ngủ.
+Sau đó gã ngủ say thiếp đi, mơ thấy các tu sĩ đang hát thánh ca đơn âm. Gã tỉnh dậy trong ánh sáng màu hoa đào buông xuống ngay trước lúc bình minh. Không khí trời se lạnh, và cô bé vẫn đang ngủ say.
 
-Không khí phảng phất mùi mận gai, dù gã chẳng thấy bụi mận gai nào quanh đó.
+Không khí thoang thoảng mùi cây bách xù, dù gã chẳng nhìn thấy bụi bách xù nào quanh đây.
 
-Nó cũng phảng phất mùi hoa dại.
+Nó cũng mang hương thơm của những loài hoa dại.
 
-Cả hai người họ đều đã được phủ đầy những bông hoa.
+Cả hai người họ đều đã được phủ đầy những cánh hoa.
 
+Hôm sau, họ gặp những lữ khách: một thương gia buôn vải đến từ thành Bruges, gia đình ông ta, cùng hai binh sĩ người Flem, tính cả thảy có năm con ngựa. Tất cả trông đều khỏe mạnh. Hẳn Thomas đã rất vui mừng khi gặp họ từ hai tháng trước, lúc Godefroy cùng đám sát thủ của hắn còn bám đuổi theo sau; những con ngựa còn trẻ, cỗ xe hứa hẹn những món đồ cướp bóc tuyệt vời, và Godefroy sẽ chẳng đời nào hãm hiếp cô bé.
 
-<div class="scene-break text-center" style="text-align: center; margin: 2rem 0; font-size: 1.2rem; letter-spacing: 0.5em;">* * *</div>
+Hai tốp người đứng cách nhau năm mươi bước chân và Thomas cùng viên thương gia lần lượt hét lớn để trao đổi tin tức về những gì ở phía sau lưng mỗi người. Tin tức theo cả hai chiều đều chẳng mấy tốt lành gì. Sau đó người đàn ông ngỏ ý muốn mua đồ ăn. Thomas đáp rằng gã không có gì để bán, và gã cũng sẽ trả lời y như vậy dù cái túi của cô bé có đang nhét đầy xúc xích và đậu đi chăng nữa; tiền bạc dạo này chẳng còn giá trị như trước. Viên thương gia nhìn vào cái túi. Người lớn tuổi hơn trong hai binh sĩ người Flem chợt tỏ ra lo lắng, và Thomas đoán rằng gã sợ viên thương gia sẽ ra lệnh lục soát chiếc túi. Chẳng ai trong số họ muốn dây dưa với Thomas cả. Viên thương gia, kẻ thực chất đang đánh giá con người Thomas, sau khi quan sát xong bèn chào gã và thúc đoàn người tiếp tục lên đường.
 
-Họ gặp những người lữ hành vào ngày hôm sau: một thương nhân buôn vải đến từ Bruges cùng gia đình, và hai lính đánh thuê người Flemish, sở hữu tổng cộng năm con ngựa. Tất cả trông đều khỏe mạnh. Thomas hẳn sẽ rất vui mừng nếu gặp họ hai tháng trước, khi gã còn có Godefroy và băng cướp tàn bạo bọc lót phía sau; những con ngựa còn trẻ, chiếc xe hứa hẹn những món bồi dưỡng tuyệt vời, và Godefroy hẳn sẽ không bỏ qua người phụ nữ này.
+Cây cầu mà Thomas muốn qua được đồn là nằm ngay bên kia một thị trấn ven sông mang tên St. Martin-le-Preux, nhưng khi gã và cô bé đến gần thị trấn, họ bắt gặp một chiếc xe kéo tay bị lật ngửa và không còn bánh xe; ở phần đáy xe, một kẻ kém tài chính tả đã dùng thứ trông giống như máu để vẽ lên dòng chữ:
 
-Hai bên giữ khoảng cách 50 bước chân, Thomas và người thương nhân hô to trao đổi tin tức về những gì ở phía sau họ. Tin tức chẳng mấy lành lặn ở cả hai hướng. Sau đó, người thương nhân ngỏ ý muốn mua thức ăn. Thomas bảo gã chẳng có dư thừa, và gã cũng sẽ nói thế dù bao tải của cô bé có đầy xúc xích hay đậu đi chăng nữa; tiền bạc giờ chẳng còn giá trị như trước. Người thương nhân nhìn vào cái bao tải. Người lính Flemish lớn tuổi hơn đột nhiên trông có vẻ bồn chồn, và Thomas đoán rằng gã ta sợ người thương nhân có thể ra lệnh cho họ lục soát cái bao. Cả hai gã lính đều không muốn đụng độ với Thomas. Người thương nhân, vốn thực ra đang đánh giá Thomas, kết thúc cuộc trao đổi, chào gã rồi dẫn đoàn người tiếp tục lên đường.
+QUAY LẠI
 
-Cây cầu mà Thomas muốn qua được cho là nằm ngay phía bên kia một thị trấn ven sông có tên St. Martin-le-Preux. Nhưng khi gã và cô bé đến gần thị trấn, họ bắt gặp một chiếc xe kéo tay bị lật úp và mất bánh, trên đáy xe có ai đó viết chữ không chuẩn chính tả đã sơn lên, bằng thứ trông như máu:
+Vì đây là cây cầu duy nhất mà họ biết, họ vẫn tiếp tục tiến bước, mặc dù Thomas đã đổi chiếc mũ rơm lấy chiếc mũ sắt và vác trần thanh kiếm trên vai. Cô bé lôi chiếc còi chim của mình ra, đổ một chút nước vào rồi bắt đầu thổi lên những tiếng chim hót.
 
-QUAY LẠI ĐI
+“Câm miệng ngay,” gã rít lên.
 
-Vì đây là cây cầu duy nhất họ biết, họ vẫn tiếp tục tiến về phía trước, dù Thomas đã đổi chiếc mũ rơm lấy mũ sắt và vác thanh kiếm trần trên vai. Cô bé lấy chiếc còi chim ra, rót một ít nước của mình vào, rồi bắt đầu thổi lên những tiếng chim hót.
-
-“Thôi ngay,” gã rít lên.
-
-“Con chỉ không muốn làm ai giật mình thôi. Và con nghĩ thế này sẽ cho họ biết chúng ta thân thiện.”
+“Cháu chỉ không muốn làm ai giật mình thôi. Và cháu nghĩ thế này sẽ cho họ biết chúng ta là người thân thiện.”
 
 “Ta không thân thiện.”
 
-“Nhưng con thân thiện, và con là người cầm còi.”
+“Nhưng cháu thân thiện, và cháu là người giữ chiếc còi.”
 
-Gã định giật lấy chiếc còi thì một vị linh mục bước ra đón họ, dễ dàng nhận ra trong chiếc áo alb bằng vải lanh trắng, tay cầm chiếc đèn lồng bằng sừng. Trời vẫn đủ sáng để nhìn đường, nhưng vị linh mục vẫn giữ chiếc đèn lồng sát mũi và miệng mình.
+Thomas vừa định giật lấy nó từ tay con bé thì một vị linh mục bước ra đón họ, nổi bật trong bộ áo dài trắng bằng vải lanh, tay cầm một chiếc đèn lồng bằng sừng. Trời vẫn còn đủ sáng để nhìn rõ, nhưng vị linh mục cứ để chiếc đèn lồng sát mũi và miệng.
 
-Ông bước ra từ một hốc ẩn trong rừng gần đó, nơi những sọ động vật được đóng đinh vào thân cây.
+Ông bước ra từ một hốc khuất trong khu rừng, nơi có những hộp sọ động vật bị đóng đinh lên thân cây.
 
-“Dừng lại. Làm ơn,” vị linh mục nói, giơ một bàn tay trông rất mảnh mai lên.
+“Dừng lại. Xin hãy dừng lại,” vị linh mục nói, giơ lên một bàn tay trông rất mảnh dẻ.
 
-Thomas rất vui lòng giữ khoảng cách; gã quay đầu sang trái sang phải để đảm bảo không có ai di chuyển áp sát sườn họ. Vị linh mục lúc này cũng nhìn sang phải rồi sang trái, phân vân không biết gã lính có đồng bọn nào đang lén lút tiếp cận hai bên hay không.
+Thomas vui lòng giữ khoảng cách; gã quay đầu sang trái và phải để chắc chắn không có ai đang di chuyển ở hai bên sườn họ. Vị linh mục lúc này cũng nhìn sang phải và trái, tự hỏi liệu tên lính có đồng bọn đang rình rập ở các góc khuất hay không.
 
-“Cha không phải sợ đâu ạ,” cô bé gọi với tới vị linh mục, nhưng Thomas véo mạnh vào tay cô bé.
+“Cha không phải sợ đâu,” cô bé gọi lớn với vị linh mục, nhưng Thomas liền véo mạnh tay con bé.
 
-“Khi nào ta bảo mới được nói,” gã bảo cô bé. Rồi gã gọi vị linh mục, “Chúng tôi không bị bệnh.”
+“Nói khi tao bảo nói,” gã bảo con bé. Sau đó gã gọi với sang vị linh mục, “Chúng tôi không bị bệnh.”
 
-“Ngài có hứa không?” ông hỏi.
+“Anh hứa chứ?” ông nói.
 
-“Lấy danh dự ra đảm bảo,” Thomas nói. “Cha đi một mình à?”
+“Bằng danh dự của tôi,” Thomas nói. “Cha ở một mình à?”
 
-“Ồ, đúng vậy. Hoàn toàn một mình.”
+“Ồ, phải. Hoàn toàn một mình.”
 
 Vị linh mục hạ chiếc đèn lồng xuống.
 
 “Tôi cũng không bị bệnh.”
 
-“Chúng tôi đã thấy tấm biển của cha.”
+“Chúng tôi đã thấy biển hiệu của cha.”
 
-“Tấm biển ư?”
+“Biển hiệu?”
 
-“Quay lại đi.”
+“Quay lại.”
 
-“À. Đó chắc là công của lực lượng dân quân.”
+“À. Chắc đó là do đám dân quân rồi.”
 
 “Họ đâu rồi?”
 
-“Vì tôi là người giải tội cho họ, tôi e rằng họ đã bỏ qua ngục luyện tội để đi thẳng xuống chảo dầu rồi.”
+“Vì tôi là cha xứ của họ, tôi e rằng họ có lẽ đã bỏ qua luyện ngục để đi thẳng xuống vạc dầu rồi.”
 
-“Chết hết rồi sao?”
+“Chết rồi ư?”
 
-“Được một thời gian rồi.”
+“Từ lâu lắm rồi.”
 
-“Chúng tôi chỉ muốn qua cầu thôi.”
+“Chúng tôi chỉ muốn qua cầu.”
 
-“Chuyện đó rắc rối đấy.”
+“Việc đó có vấn đề đấy.”
 
-“Tại sao? Đâu có thu phí qua cầu đúng không?”
+“Sao lại thế? Không phải đóng phí qua cầu chứ?”
 
-“Làm gì còn cầu nữa. Lần cuối ngài uống rượu vang là khi nào? Ý tôi là rượu vang ngon ấy.”
+“Không có cây cầu nào cả. Lần cuối cùng ngài hiệp sĩ uống rượu là khi nào? Ý tôi là rượu ngon ấy.”
 
-Thomas nở nụ cười rộng đến mang tai, để lộ hàm răng còn rất tốt so với độ tuổi của gã. Hàm răng mà gã sẽ rất vui lòng được nhuộm thành màu tím.
+Thomas cười lớn, để lộ hàm răng vẫn còn ở trạng thái đáng ngạc nhiên so với tuổi của anh. Những chiếc răng mà anh rất sẵn lòng nhuộm cho nó thành màu tím.
 
-Dân chúng trong thị trấn ven sông đã đốt cầu để cố tự cách ly mình, nhưng Cái Chết hiện diện ở cả hai bên bờ và vẫn tìm thấy họ. Một gã bán dạo đã trả tiền cho một nông dân để được ngủ trong chuồng trại của ông ta, bất chấp mệnh lệnh của vị lãnh chúa, nhưng sáng hôm sau người nông dân thấy gã nằm đó với khuôn mặt đông cứng trong đau đớn và sợ hãi, cùng chất ô uế từ những u nhọt kinh hoàng làm ố cả nách áo. Người nông dân có bảy đứa con, chúng làm việc và chơi đùa trên đồng ruộng với lũ trẻ xóm giềng và phụ giúp ở quán rượu của người phụ nữ góa. Chẳng mấy chốc, một nửa số gia đình ở phía đông thị trấn bị nhiễm bệnh, cùng với người phụ nữ góa. Nạn dịch bắt đầu, như vẫn luôn thế, với những người tốt bụng đứng ra chăm sóc người bệnh và chôn cất người chết, cùng những kẻ tụ tập ở quán rượu, bao gồm cả lực lượng dân quân. Khi nghĩa trang giáo xứ đầy ngập, các gia đình quăng xác xuống sông và lũ lươn rỉa thịt họ.
+Người dân ở thị trấn gần con sông đã đốt cháy cây cầu để cố gắng tự cô lập mình, nhưng Thần Chết ở cả hai bên và vẫn tìm thấy họ. Một kẻ buôn hàng rong đã trả tiền cho một người nông dân để được ngủ nhờ trong chuồng ngựa, bất chấp lệnh của lãnh chúa, nhưng sáng hôm sau người nông dân phát hiện gã nằm ở đó với khuôn mặt đông cứng vì đau đớn và sợ hãi, cùng với chất dịch bẩn từ những vết sưng hạch khủng khiếp làm bẩn phần nách áo. Người nông dân có bảy đứa con, những đứa trẻ làm việc và vui chơi trên đồng ruộng với con cái nhà hàng xóm và giúp việc tại quán rượu của góa phụ. Chẳng mấy chốc, một nửa số gia đình ở phía đông thị trấn đã ngã bệnh, cùng với người góa phụ. Cơn đại dịch bắt đầu, như mọi khi, với những người tốt bụng đến chăm sóc người bệnh và chôn cất người chết, cùng với những người tụ tập tại quán rượu, bao gồm cả đám dân quân. Khi nghĩa trang đã đầy, các gia đình ném các thi thể xuống sông và lũ lươn ăn thịt họ.
 
-Rồi một thứ khác mò tới, cũng thích ăn những gì làm cho lũ lươn béo mầm. Những người thợ câu dùng giáo hay quăng lưới bắt cá hồi, lươn, cá măng bắt đầu biến mất, ngay cả khi họ đi thành từng nhóm hai ba người.
+Sau đó, một thứ khác đã di chuyển đến, thứ cũng thích ăn những gì mà lũ lươn đã ăn đến béo múp. Những ngư dân phóng lao hoặc thả lưới bắt cá hồi, lươn và cá chó bắt đầu biến mất, ngay cả khi họ đi theo nhóm hai hoặc ba người.
 
-Chẳng ai biết chuyện gì đang xảy ra cho đến khi một cậu bé hốt hoảng chạy ngược về thị trấn và nói rằng cha và chú của cậu đã bị một “con cá lớn hoặc con rắn đen khổng lồ” với cái “miệng bẹt” ẩn nấp trong vùng nước nông đục ngầu ăn thịt. Nó đã quật đuôi kéo hai người đàn ông xuống nước, rồi xé rách họ bằng những chiếc gai nhọn, và rồi cái miệng lớn như miệng ếch của nó mở ra, ngoạm lấy đầu họ, nuốt chửng từng người một trong vài ngụm nhanh gọn. Cậu bé đứng chết trân cho đến khi thấy nó trườn lên bờ về phía mình, và rồi cậu vừa chạy vừa gào khóc lao ra đường. Con quái vật hẳn đã bắt được cậu, nhưng cuộc tháo chạy hoảng loạn của cậu làm con lừa của người chú giật mình, nó vẫn đang buộc vào xe kéo, khiến con vật chồm lên và thu hút sự chú ý của con quái vật. Nó thèm thịt lừa hơn thịt cậu bé, nên đã cuộn chặt lấy con vật tội nghiệp rồi cắn đứt đầu nó, kéo cả cái xác lẫn chiếc xe xuống bờ sông rồi mất hút dưới nước.
+Không ai biết chuyện gì đang xảy ra cho đến khi một cậu bé chạy thục mạng trở về thị trấn và kể rằng cha và chú của cậu đã bị ăn thịt bởi một Thủy quái sông St. Martin với một cái miệng dẹt ẩn nấp trong vùng nước nông đục ngầu. Nó đã quất phần đuôi vào họ và kéo những người đàn ông xuống, sau đó xé họ bằng những chiếc gai, rồi cái miệng lớn như loài ếch của nó mở ra và ngoạm lấy đầu họ, nuốt chửng từng người một trong vài ngụm nhanh chóng. Cậu bé đứng chết trân cho đến khi thấy nó đang trườn lên bờ về phía mình, và rồi cậu cắm cổ chạy bán sống bán chết ra đường cái. Quái vật đã tóm được cậu, nhưng cuộc trốn chạy hoảng loạn của cậu đã làm con la của chú cậu hoảng sợ, khi đó vẫn đang bị cột vào xe đẩy, khiến nó lồng lên và thu hút sự chú ý của sinh vật đó. Nó muốn con la hơn là cậu bé, vì vậy nó cuộn tròn xung quanh con vật tội nghiệp và cắn đứt đầu nó, kéo cả thi thể lẫn xe đẩy lùi xuống bờ sông.
 
-“Nó dài bao nhiêu, hả cậu bé?” vị linh mục hỏi.
+“Nó dài bao nhiêu, hả con?” vị linh mục hỏi.
 
 “Con không biết.”
 
-“Nghĩ kỹ xem. Con thấy nó vồ lấy con lừa. Thế thì dĩ nhiên nó phải dài hơn con lừa rồi. Có khi dài bằng ba con lừa không?”
+“Hãy nghĩ xem. Con đã thấy nó bắt con la. Vậy chắc chắn nó phải dài hơn một con la chứ. Dài bằng ba con la thì sao?”
 
 Cậu bé lắc đầu.
 
-“Thế thì bằng mấy con?”
+“Vậy thì mấy con?”
 
-Cậu bé giơ tám ngón tay lên, rồi sửa lại thành chín ngón.
+Cậu bé giơ tám ngón tay lên, rồi sửa lại thành chín.
 
-Vài người đàn ông trong thị trấn vẫn còn khỏe mạnh và đủ dũng cảm rời nhà đã tụ tập tại quán rượu, uống cho đến khi có đủ dũng khí ra bờ sông tìm nó. Họ mang theo rìu, đập lúa bằng gỗ, gậy gộc và liềm, rồi thề trước các Thánh Martin, Michael và Denis sẽ băm đôi con vật hoặc hy sinh trong nỗ lực đó. Vị linh mục, người uống cùng họ, đã chứng kiến những lời thề này, và đồng ý đi cùng họ, cầm theo chiếc gậy mục giọt rước lễ có hình Chúa Kito chịu hình nạn. Nhưng tất cả lòng dũng cảm nhờ rượu đã bốc hơi sạch khi họ tới bờ sông và thấy đống đổ nát của chiếc xe kéo, cùng những đống phân con quái vật để lại trên bờ, đầy những ủng, xương, công cụ gãy, và thậm chí cả tấm áo giáp ngực bị xé rách của một người lính. Có vẻ như ngay cả khi cầu đã sập, vẫn có những kẻ cố vượt sông. Nhưng họ đã chẳng thể tới được bờ bên kia.
+Một số người đàn ông trong thị trấn vẫn còn khỏe mạnh và đủ dũng cảm để rời khỏi nhà đã tụ tập tại quán rượu và uống cho đến khi họ có đủ dũng khí đi xuống sông để tìm kiếm nó. Họ mang theo rìu và gậy gộc bằng gỗ, gậy tầm vong và lưỡi hái, và họ thề trước các Thánh Martin, Michael và Denis rằng sẽ chẻ đôi sinh vật đó hoặc chết trong lúc cố gắng. Vị linh mục, người uống rượu cùng họ, đã chứng kiến những lời thề này, và đồng ý đi cùng họ, mang theo cây gậy mục vụ có hình Chúa Jesus đang chịu nỗi đau đớn thống khổ để che chở cho những người đàn ông. Tất cả sự dũng cảm nhờ hơi men của họ đều biến mất khi họ ra đến bờ sông và nhìn thấy đống đổ nát của chiếc xe đẩy, cùng những đống phân mà sinh vật đó để lại trên bờ, đầy những chiếc ủng, xương xẩu, dụng cụ bị hỏng, và thậm chí cả bộ giáp ngực rách nát của một tráng sĩ. Ngay cả khi cây cầu đã sập, dường như vẫn có một số kẻ đang cố gắng băng qua sông. Nhưng họ đã không thể sang được bờ bên kia.
 
-“Chuyện này vượt quá sức chúng ta rồi, các anh em,” vị linh mục nói. “Chúa sẽ tha thứ cho những lời thề chúng ta thốt ra trong sự thiếu hiểu biết. Hãy trở về thị trấn trước khi chúng ta làm con quái vật mạnh thêm bằng mỡ và máu của chính mình.”
+“Việc này vượt quá sức chúng ta, các anh em,” vị linh mục nói. “Chúa tha thứ cho những lời thề chúng ta lỡ thốt ra trong sự thiếu hiểu biết. Hãy quay lại thị trấn trước khi chúng ta chuốc lấy họa vào thân bởi chính mỡ và máu của mình.”
 
-Chẳng ai phản đối.
+Không ai trong số họ phản đối.
 
-“Thế còn vị lãnh chúa thì sao?” Thomas hỏi, chồm người về phía vị linh mục qua chiếc bàn đơn sơ của ông. “Nếu ông ta đủ khỏe để ban hành mệnh lệnh về việc cho người lạ vào, ông ta phải có đủ khí lính để mặc giáp và đâm một nhát kiếm vào con vật đó chứ.”
+“Thế còn vị lãnh chúa thì sao?” Thomas hỏi, chồm người về phía vị linh mục qua chiếc bàn khiêm tốn của ông. “Nếu lão ta đủ khỏe để ra lệnh về việc cho phép người lạ vào thành, thì lão ta cũng phải đủ gan dạ để khoác áo giáp và tự tay cầm gươm xử lý thứ đó chứ.”
 
-Vị linh mục nở nụ cười buồn đặc trưng, làm những nếp nhăn quen thuộc quanh mắt ông sâu thêm. Ông có lẽ chỉ lớn hơn Thomas một hoặc hai tuổi, nhưng rượu đắng và cuộc sống nhung lụa khiến ông trông giống năm mươi hơn là bốn mươi; những vết rượu vang mờ trên ngực áo alb của ông, dù đã cố giặt sạch nhưng chỉ mờ đi đôi chút, là minh chứng cho cái chết của người thợ giặt trong thị trấn. Bất chấp hàng lông mày rậm và chiếc cằm nam tính, nét mặt của vị giáo sĩ vẫn có điều gì đó mang tính nữ, gần như giống như một người vợ.
+Vị linh mục mỉm cười với nụ cười đặc trưng và đượm buồn của ông, khiến những nếp nhăn hằn sâu quanh khóe mắt càng thêm rõ nét. Ông có lẽ lớn hơn Thomas một hoặc hai tuổi, nhưng việc chè chén và sống nhàn hạ khiến ông trông gần năm mươi hơn là bốn mươi tuổi; những vết rượu loang lổ đã phai màu trên ngực chiếc áo lễ, chỉ mờ đi phần nào nhờ những nỗ lực giặt giũ của ông, là minh chứng cho cái chết của người thợ giặt trong thị trấn. Bất chấp đôi lông mày rậm rạp và chiếc cằm nam tính, vị giáo sĩ vẫn phảng phất nét gì đó yểu điệu, gần giống như một người vợ.
 
-“Lãnh chúa của chúng tôi là người mà ngài có thể gọi là...”
+“Lãnh chúa của chúng tôi là người mà ngài có thể gọi là…”
 
-“Một gã nhát gan khốn nạn?”
+“Một tên hèn nhát rách việc?”
 
-“Nếu ngài không nghĩ ra từ nào rộng lượng hơn. Ông ta đã tự nhốt mình cùng đám tùy tùng trong tháp đài. Sứ giả của ông ta xuống đây vào các ngày thứ Sáu và đọc các cáo thị, nhưng chẳng ai buồn bận tâm. Gã ta chẳng bao giờ bước xuống khỏi lưng ngựa. Một người đàn ông đã thú tội với tôi rằng gã định ném một bô chất thải vào sứ giả trong lần tới, và xin tôi xá tội trước. Tôi bảo gã rằng hành động đó sẽ đưa gã tiến gần hơn một bô chất thải tới Thiên Đàng. Thà gã sứ giả nhận một bô phân vào mặt vào ngày mai còn hơn là nhận một cán rìu ngang mũi vào tuần tới. Mọi chuyện đang đi theo hướng đó đấy. Chúng tôi chết đói dưới này, thậm chí chẳng thể kéo được con cá nào từ dưới sông lên, trong khi chủ nhân của chúng tôi sở hữu cối xoay nước cùng các lò nướng và đã tích trữ đủ ngũ cốc để tự nuôi sống mình cho đến ngày tận thế.”
+“Nếu ngài không tìm được từ nào hào phóng hơn. Ngài ấy đã tự nhốt mình cùng đoàn tùy tùng trong tháp. Sứ giả của ngài xuống thành vào các ngày thứ Sáu để đọc những sắc lệnh mà chẳng ai thèm đoái hoài. Lão ta không bao giờ chịu xuống ngựa. Có người đã thú nhận với tôi rằng hắn định ném một bô nước tiểu vào mặt vị sứ giả vào lần tới khi lão ta đến, và xin tôi tha tội trước. Tôi bảo hắn rằng hành động đó sẽ đưa hắn tiến thêm một bô nước tiểu gần hơn tới Thiên Đàng. Tốt hơn là ngày mai sứ giả nên ăn trọn một bãi cứt vào mặt còn hơn là ăn một lưỡi rìu vào sống mũi vào tuần tới. Mọi chuyện đang tiến triển theo hướng đó đấy. Chúng tôi chết đói ở cái xứ này, thậm chí bây giờ còn chẳng thể kéo nổi một con cá từ dưới sông lên, trong khi chủ nhân của chúng tôi lại nắm trong tay cối xay nước cùng các lò bánh và đã tích trữ đủ lượng lúa mì để tự nuôi sống bản thân cho đến tận ngày tận thế.”
 
-“Vậy là còn đủ cho một tuần nữa sao?”
+“Vậy tính ra chỉ đủ cho một tuần thôi nhỉ?”
 
-Vị linh mục cười lớn và định vỗ vào tay Thomas tỏ vẻ thân tình, nhưng Thomas rụt cánh tay bọc giáp xích lại với tiếng động như tiếng tiền bị rút khỏi một ván bài. Gã vẫy một ngón tay cảnh báo nhưng vẫn đang cười. Vị linh mục cũng vậy.
+Vị linh mục cười lớn và định vỗ tay Thomas để bày tỏ tình thân ái, nhưng Thomas rụt cánh tay bọc giáp của mình lại với âm thanh giống như tiếng tiền được rút ra từ một ván bài ngửa. Anh giơ ngón tay ra hiệu cảnh báo nhưng vẫn đang cười. Vị linh mục cũng vậy.
 
-Vị linh mục nhận ra những vết muối bám trên bộ trang phục tối màu của gã hiệp sĩ và vết gỉ sắt trên những thứ màu sáng. Gã từng có tiểu đồng và hầu cận sao? Một người vợ? Hay gã đã bẩn thỉu thế này từ trước khi Cái Chết tới?
+Vị linh mục nhận ra những vết muối bám trên y phục tối màu của người hiệp sĩ và những vết rỉ sét trên bộ đồ sáng màu hơn của anh. Liệu anh từng có tiểu đồng và cận vệ không? Hay một người vợ? Hoặc anh đã nhếch nhác thế này từ trước khi Đại Diệt Vong bùng phát?
 
-“Cô bé đó là gì với ngài?” vị linh mục hỏi, chỉ về phía cô bé đang nằm ngủ trên tấm nệm rơm. “Và đừng bảo là con gái ngài nhé.”
+“Cô bé đó là gì của ngài?” vị linh mục hỏi, hất cằm về phía nơi con bé đang nằm ngủ trên chiếc nệm rơm. “Và đừng có nói là con gái ngài đấy nhé.”
 
-“Tôi không biết con bé là ai. Nhưng con bé ngủ rất nhiều.”
+“Tôi không biết nó là ai. Nhưng nó ngủ nhiều lắm.”
 
-“Có lẽ nó hy vọng sẽ tỉnh dậy khỏi cơn ác mộng này.”
+“Biết đâu con bé đang hy vọng thức dậy khỏi cơn ác mộng này.”
 
-“Nếu vậy, con bé còn thông minh hơn cả hai chúng ta.”
+“Nếu vậy, nó khôn ngoan hơn cả hai chúng ta.”
 
-“Tôi chẳng còn biết thế nào là thông minh nữa. Thêm chút rượu nhé?”
+“Tôi chẳng biết thế nào là khôn ngoan nữa rồi. Thêm chút rượu nhé?”
 
 “Rất hân hạnh.”
 
-“Ngon đúng không?”
+“Ngon phải không?”
 
-“Ngon nhất. Đen như lòng đàn bà và ngọt ngào như...”
+“Tuyệt nhất. Đen như lòng dạ đàn bà và ngọt ngào như…”
 
-“Sao cơ?” vị linh mục hỏi, vẻ thích thú.
+“Gì cơ?” vị linh mục hỏi, ra chiều thích thú.
 
-“Trái tim thứ hai của cô ta.”
+“Một trái tim khác.”
 
-Vị linh mục nghiêng thùng rượu nhỏ để những giọt chất lỏng màu đỏ đẹp đẽ cuối cùng bắn ra rơi vào chiếc bình phục vụ.
+Vị linh mục nghiêng thùng rượu nhỏ để những giọt chất lỏng màu đỏ đẹp đẽ cuối cùng nhỏ giọt ra ngoài và chảy vào chiếc bình rót.
 
-“Rượu vang này từ Beaune, nhưng đến qua ngả Avignon, lấy từ kho riêng của Đức Giáo Hoàng.”
+“Rượu này xuất xứ từ Beaune, nhưng được chuyển qua ngả Avignon, lấy từ kho rượu riêng của Đức Thánh Cha.”
 
-“Nhưng làm sao...?”
+“Nhưng sao lại thế…”
 
-“Nơi em trai tôi làm người quản gia; một trong những kẻ mặc đồ cho Đức Giáo Hoàng, hoặc đã từng. Giờ đây chức vụ của chú ấy bớt... trang trọng hơn.”
+“Nơi em trai tôi làm quản gia kiểu như vậy; một trong những kẻ chuyên mặc y phục cho Đức Thánh Cha, hoặc từng là thế. Chức vụ bây giờ của nó thì kém phần… trang trọng hơn.”
 
-“Nhưng, dù sao thì...”
+“Nhưng mà, dù sao đi nữa…”
 
-“Đứa em trai rất đẹp trai của tôi. Kém tôi tám tuổi, nhưng trông còn trẻ hơn. Một vị Hồng y nào đó... rất thích vẻ đẹp nam tính. Và Đức Giáo Hoàng này nổi tiếng là người rộng lượng. Ngay cả với những thói xấu mà Ngài không hề chia sẻ.”
+“Cậu em trai vô cùng khôi ngô tuấn tú của tôi. Kém tôi tám tuổi, nhưng trông vẫn trẻ hơn nhiều. Một vị hồng y nọ rất… ưa chuộng vẻ đẹp nam tính. Và vị giáo hoàng này vốn nổi tiếng rộng lượng. Ngay cả khi đối mặt với những thói hư tật xấu mà ngài không hề chia sẻ.”
 
 “À.”
 
-“Quả đúng vậy.”
+“Phải thế đấy.”
 
-Thomas bật cười.
+Thomas cười lớn.
 
-“Vậy là cha đang uống thành quả từ sự đọa lạc của em trai cha sao?”
+“Thế ra cha đang uống thành quả từ sự đọa đày của em trai mình à?”
 
-“Chỉ một thùng thôi. Tôi tin Chúa có lòng bao dung để bỏ qua sự bỏ qua của tôi.”
+“Chỉ một thùng này thôi. Tôi tin rằng Chúa thừa lòng bao dung để tha thứ cho sự làm ngơ của tôi.”
 
-“Cha chỉ có một thùng này thôi sao? Sao lại uống sạch vào tối nay?”
+“Cha chỉ có đúng một thùng này thôi sao? Sao lại đem ra uống sạch vào tối nay?”
 
-“Sao lại không? Cơn thèm bất ngờ đến với tôi. Đó là thùng rượu cuối cùng trong thị trấn. Đáng lẽ tôi nên dùng nó trong Lễ Mát-sa, nhưng chẳng còn bánh thánh hay bánh mì nào để dùng kèm. Tôi nghĩ những tu sĩ làm bánh thánh cho tôi đều đã chết rồi.”
+“Tại sao lại không chứ? Cơn thèm bỗng dưng nổi lên thôi. Đây là giọt rượu cuối cùng trong thị trấn rồi. Lẽ ra tôi nên dùng nó cho lễ Thánh Thể, nhưng chẳng còn lấy một miếng bánh thánh hay bánh mì nào để ăn kèm nữa. Tôi nghĩ đám tu sĩ làm bánh thánh cho tôi chắc chết sạch cả rồi.”
 
-“Tu sĩ dòng Xitô sao? Cách đây nửa ngày đường ấy à?”
+“Dòng Xitô à? Cách đây nửa ngày đường ấy hả?”
 
-“Đúng vậy,” vị linh mục nói với vẻ đầy hy vọng.
+“Đúng vậy,” vị linh mục nói với một tia hy vọng.
 
-“Họ chết sạch rồi. Vài người có lẽ đã bỏ chạy.”
+“Họ chết hết rồi. May ra vài kẻ trốn thoát được.”
 
-“À,” vị linh mục nói. Yết hầu của ông nhấp nhô khi nuốt ực hai ngụm lớn, và mắt ông rơm rớm. Ông gật đầu. Trông ông như muốn vươn tay nắm lấy tay Thomas, nhưng ông đã không làm vậy.
+“À,” vị linh mục thốt lên. Yết hầu của ông động đậy khi nuốt khan hai lần, và đôi mắt ngấn lệ. Ông gật đầu. Trông ông như muốn vươn tay ra nắm lấy tay Thomas, nhưng lại thôi.
 
-“Dù sao thì, giờ chẳng còn ai tới nữa. Tôi thậm chí còn không vào nhà thờ suốt hai tuần nay. Tôi cũng sợ vào đó như họ vậy.”
+“Dù sao đi nữa, giờ chẳng còn ai đến đây cả. Tôi còn chẳng bén mảng tới nhà thờ suốt hai tuần nay rồi. Tôi sợ đến đó chẳng kém gì bọn họ đâu.”
 
-“Nếu cha không vào nhà thờ, làm sao cha biết họ không tới tìm cha?”
+“Nếu cha không đến nhà thờ, sao cha biết bọn họ không đến tìm cha?”
 
-Vị linh mục nhìn xuống hai bàn tay mình, nơi các ngón tay đang bấu chặt lấy nhau.
+Vị linh mục cúi nhìn đôi bàn tay đang siết chặt lấy nhau.
 
-“Họ biết tôi sống ở đâu. Một số người vẫn tới xin giải tội; họ hét lên những tội lỗi của mình từ lối đi và tôi hét lại mức sám hối từ cửa sổ. Dù ngay cả chuyện đó cũng đã gần một tuần rồi. Dù sao thì cũng không còn Lễ Mát-sa nữa. Và rượu vang có thể phục vụ một mục đích thiêng liêng hơn trong bụng ngài đấy.”
+“Họ biết tôi ở đâu mà. Vài kẻ vẫn đến xưng tội; họ hét tội lỗi của mình từ ngoài lối đi và tôi hét phần hình phạt từ cửa sổ nhà mình. Dù rằng chuyện đó cũng ngưng được gần một tuần nay rồi. Dù thế nào đi nữa thì cũng chẳng còn lễ lạt gì sảng khoái nữa. Và chỗ rượu này có lẽ đang phục vụ một mục đích thiêng liêng hơn trong cái bụng của ngài đấy.”
 
-“Ồ?”
+“Thế à?”
 
-“Tôi đã hy vọng một vài ly rượu có thể rút ra một lời thề hiệp sĩ từ ngài. Ngài là một hiệp sĩ đúng không? Hoặc đã từng?”
+“Tôi đã hy vọng một hoặc hai chén có thể nặn ra được chút lời thề hiệp sĩ nào đó từ ngài. Ngài là hiệp sĩ chứ? Hay từng là thế?”
 
-“Tôi đã từng. Tôi đoán giờ tôi vẫn vậy. Nhưng tôi cảm thấy giống như mình đã từng hơn. Cảm giác như chuyện từ lâu lắm rồi.”
+“Tôi từng là thế. Tôi đoán bây giờ vẫn thế. Nhưng có cảm giác như tôi chỉ là cựu hiệp sĩ thì đúng hơn. Chuyện đó cứ như thể từ rất lâu rồi.”
 
-“Ngài có thể trở lại làm hiệp sĩ mà.”
+“Ngài có thể làm hiệp sĩ lần nữa mà.”
 
-“Tôi nghi ngờ điều đó. Tôi đã làm những chuyện...”
+“Tôi ngờ là không. Tôi đã làm nhiều chuyện lắm rồi.”
 
-“Những chuyện gì?”
+“Chuyện gì cơ?”
 
-“Tôi bị tước đoạt đất phong.”
+“Tôi bị tước đoạt sản nghiệp.”
 
-“Bởi người Anh sao?”
+“Bọn Anh hả?”
 
 Thomas lắc đầu.
 
-“Tồi tệ hơn. Một gã Norman. Bá tước d'Évreux, kẻ đã thương lượng với người Anh sau thất bại của chúng tôi ở Crécy. Pháo đài của tôi nằm gần Givras. Tôi... tuyệt vọng về công lý. Tôi dấn thân vào con đường này và sống bằng sức mạnh của cánh tay mình. Tôi tìm kiếm những gã tồi tệ hơn cả bản thân mình. Tôi muốn trả thù hắn. Tôi vẫn muốn.”
+“Còn tệ hơn thế. Một tên Norman. Bá tước d’Évreux, kẻ đã thông đồng với người Anh sau thất bại của chúng tôi ở Crécy. Thành trì của tôi ở gần Givras. Tôi đã tuyệt vọng về công lý. Tôi bước chân ra đường và sống bằng sức mạnh của đôi tay. Tôi đi tìm những kẻ còn tệ hại hơn cả bản thân mình. Tôi muốn trả thù hắn. Tôi vẫn còn muốn thế.”
 
 Thomas im lặng.
 
@@ -411,22 +400,22 @@ Thomas im lặng.
 
 “Không.”
 
-“Không muốn xưng tội với tôi sao, hử?”
+“Không phải với tôi à?”
 
-“Chỉ là tôi không muốn thôi.”
+“Tôi chỉ không muốn thế thôi.”
 
-“Tôi sẽ không trách ngài nếu là tại tôi đâu.”
+“Tôi cũng chẳng trách ngài nếu đó là tôi.”
 
-“Không, là... Không. Chẳng có ý nghĩa gì cả.”
+“Không, là… Không. Chẳng có ích gì đâu.”
 
-“Hãy tiêu diệt con quái vật dưới sông và Chúa sẽ biến ngài thành một hiệp sĩ lần nữa.”
+“Hãy tiêu diệt dị vật ở dưới sông và Chúa sẽ ban lại cho ngài tước hiệu hiệp sĩ.”
 
-“Tôi thà rằng Ngài thưởng cho tôi một ly rượu này nữa thì hơn.”
+“Tôi thà để Ngài cho tôi thêm một cốc rượu này còn hơn.”
 
-“Không,” vị linh mục nói. “Ngài sẽ không muốn một ly rượu hơn là giành lại danh dự của mình đâu. Lời nói đùa của ngài rất dễ chịu, nhưng nó không thể che đậy khoảng trống trong lòng ngài.”
+“Không,” vị linh mục nói. “Ngài không đời nào thà chọn một cốc rượu vang thay vì lấy lại danh dự của mình đâu. Trò đùa của ngài nghe hay đấy, nhưng nó chẳng che giấu được sự trống rỗng trong con người ngài.”
 
-Thomas né tránh ánh mắt ấm áp của vị linh mục.
+Thomas quay mặt đi trước ánh nhìn ấm áp của vị linh mục.
 
-Gã suýt chút nữa không cầm được nước mắt. Gã nén lại bằng cách tự làm bản thân tức giận với Chúa vì đã bắt gã chịu đựng và trả giá cho những tội lỗi mà gã bị dồn vào thế dồn ép. Chúa bao vây ngài bằng lũ chó săn và dồn ngài vào thế bí, rồi đâm ngài khi lưng ngài tựa vào cây. Khi Thomas cất lời, gã bĩu môi, và những lời thốt ra tựa như một tiếng gầm gừ khe khẽ.
+Gã suýt nữa thì không kìm được nước mắt. Gã làm được điều đó bằng cách tự chuốc lấy sự tức giận với Chúa vì đã bắt gã phải chịu đựng và trả giá cho những tội lỗi mà gã bị dồn vào chân tường phải phạm phải. Chúa vây quanh ngươi bằng những con chó săn rồi dồn ngươi vào góc, sau đó đâm giáo vào ngươi khi lưng đã dán chặt vào thân cây. Khi Thomas cất lời, khóe miệng gã trễ xuống, và những lời gã thốt ra trầm đục như một tiếng gầm gừ.
 
-“Tôi sẽ giết con vật điếm đàng đó.”
+“Ta sẽ giết cái thứ đĩ điếm đó.”
