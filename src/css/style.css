@@ -1682,6 +1682,29 @@ button {
   font-size: 1rem;
 }
 
+.detail-blurb-quote {
+  font-size: 0.96rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  border-left: 3.5px solid var(--accent);
+  padding: 0.75rem 1.15rem;
+  margin: 0 0 1.25rem 0;
+  line-height: 1.7;
+  background: var(--bg-secondary);
+  border-radius: 0 8px 8px 0;
+}
+
+.detail-blurb-para {
+  color: var(--text-secondary);
+  line-height: 1.75;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.detail-blurb-para:last-child {
+  margin-bottom: 0;
+}
+
 /* Chapters Table of Contents */
 .detail-toc-box {
   background: var(--bg-card);

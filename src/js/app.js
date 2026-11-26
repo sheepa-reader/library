@@ -1786,6 +1786,23 @@
     if (heroMascot) heroMascot.addEventListener('click', randomizeQuote);
   }
 
+  // Render book description with support for dedicated blockquote for quote paragraphs
+  function renderBookDescriptionHtml(description) {
+    if (!description) return '';
+    const paragraphs = description.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean);
+    if (paragraphs.length === 0) return '';
+
+    return paragraphs.map((p, idx) => {
+      const startsWithQuote = p.startsWith('“') || p.startsWith('"') || p.startsWith('”');
+      const endsWithQuote = p.endsWith('”') || p.endsWith('"') || p.endsWith('“');
+      const isQuote = (startsWithQuote && endsWithQuote) || (idx === 0 && startsWithQuote);
+      if (isQuote) {
+        return `<blockquote class="detail-blurb-quote">${escapeHtml(p)}</blockquote>`;
+      }
+      return `<p class="detail-blurb-para">${escapeHtml(p)}</p>`;
+    }).join('');
+  }
+
   // --- VIEW 2: BOOK DETAIL ---
   function renderBookDetailView(bookId) {
     document.querySelector('.site-header').style.display = 'block';
@@ -1942,7 +1959,9 @@
             <img src="public/icons/09_quill_inkwell.png" alt="Intro">
             Giới thiệu & Lời tựa
           </h2>
-          <p>${escapeHtml(book.description)}</p>
+          <div class="detail-blurb-content">
+            ${renderBookDescriptionHtml(book.description)}
+          </div>
         </div>
 
         <!-- Chapters Table of Contents -->
