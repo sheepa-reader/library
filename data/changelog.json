@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261126-03",
+    "timestamp": "2026-11-26T11:50:00+07:00",
+    "bookId": "elmer-gantry",
+    "bookTitle": "Elmer Gantry",
+    "type": "video_update",
+    "typeName": "Phát hành Video Teaser",
+    "badgeClass": "badge-video",
+    "title": "Phát hành video Teaser / Giới thiệu tác phẩm Elmer Gantry (Sinclair Lewis)",
+    "description": "Chính thức ra mắt video Teaser giới thiệu cốt truyện & thông điệp sâu sắc của kiệt tác văn học Elmer Gantry của văn hào đoạt giải Nobel Sinclair Lewis. Độc giả có thể thưởng thức video trực tiếp ngay trên trang bìa và trang chi tiết tác phẩm."
+  },
+  {
     "id": "log-20261126-02",
     "timestamp": "2026-11-26T10:55:00+07:00",
     "bookId": "giua-hai-ngon-lua",
