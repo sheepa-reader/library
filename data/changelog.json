@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261126-04",
+    "timestamp": "2026-11-26T21:20:00+07:00",
+    "bookId": "tam-tru-noi-dia-nguc",
+    "bookTitle": "Tạm Trú Nơi Địa Ngục",
+    "type": "new_book",
+    "typeName": "Phát hành sách mới",
+    "badgeClass": "badge-bilingual",
+    "title": "Phát hành truyện vừa triết học: Tạm Trú Nơi Địa Ngục (A Short Stay in Hell)",
+    "description": "Bổ sung trọn bộ truyện vừa nổi tiếng của Steven L. Peck gồm 9 chương (bản dịch tiếng Việt đã QA và bản song ngữ đối chiếu liên tục từng đoạn chuẩn xác). Cung cấp đầy đủ file tải EPUB độc quyền và chế độ đọc online tiện lợi."
+  },
+  {
     "id": "log-20261126-03",
     "timestamp": "2026-11-26T11:50:00+07:00",
     "bookId": "elmer-gantry",

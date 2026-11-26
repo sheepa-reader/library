@@ -1,5 +1,115 @@
 [
   {
+    "id": "tam-tru-noi-dia-nguc",
+    "title": "Tạm Trú Nơi Địa Ngục",
+    "originalTitle": "A Short Stay in Hell",
+    "authorId": "steven-l-peck",
+    "author": "Steven L. Peck",
+    "cover": "content/books/tam-tru-noi-dia-nguc/cover.jpg",
+    "rating": {
+      "score": 4.11,
+      "count": "134.5k"
+    },
+    "description": "“Địa ngục không phải là những ngọn lửa thiêu đốt vĩnh cửu — mà là một căn phòng vô tận, nơi bạn phải tìm một cuốn sách có chứa câu chuyện đời mình giữa hàng tỷ tỷ tỷ cuốn sách khác.”\n\nCó những cuốn sách bạn đọc trong chưa đầy hai tiếng đồng hồ, nhưng dư âm toán học và siêu hình của nó lại ám ảnh bạn suốt nhiều tuần liền. Tạm Trú Nơi Địa Ngục của nhà văn Steven L. Peck là một tác phẩm như thế: một truyện vừa ngắn gọn, súc tích đến mức tàn nhẫn, biến ý niệm cổ điển về địa ngục thành một bài toán xác suất lạnh gáy, đặt con người đối diện với sự nhỏ bé tuyệt đối trước thời gian và sự vô tận.",
+    "awards": [
+      "Smith-Pettit Award for Outstanding Contribution to Mormon Letters (2021)",
+      "Đề cử AML Award cho hạng mục Tiểu thuyết xuất sắc nhất",
+      "Tác phẩm giả tưởng triết học được đánh giá cao nhất lấy cảm hứng từ Thư viện Babel của Borges"
+    ],
+    "downloads": {
+      "epub": "content/downloads/tam-tru-noi-dia-nguc.epub",
+      "bilingualEpub": "content/downloads/tam-tru-noi-dia-nguc-song-ngu.epub",
+      "bilingual": "content/downloads/tam-tru-noi-dia-nguc-song-ngu.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Lời Khen Tặng",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-1.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Mở Đầu",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-2.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-2.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-3",
+        "title": "1. Sự Khởi Đầu",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-3.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-3.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-4",
+        "title": "2. Tuần Đầu Tiên ở Địa Ngục",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-4.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-4.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-5",
+        "title": "3. Năm Thứ 102: Văn Bản Ý Nghĩa Nhất",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-5.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-5.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-6",
+        "title": "4. Năm 1145: Mất Mát Lớn Lao",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-6.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-6.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-7",
+        "title": "5. Vực Thẳm Sâu Nhất",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-7.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-7.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-8",
+        "title": "Phụ Lục: Thư Viện Babel",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-8.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-8.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-9",
+        "title": "Về Tác Giả",
+        "path": "content/books/tam-tru-noi-dia-nguc/chuong-9.md",
+        "bilingualPath": "content/books/tam-tru-noi-dia-nguc/bilingual/chuong-9.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-26",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "series": "",
+    "volume": "",
+    "translator": "Sheepa",
+    "year": "2012",
+    "category": "Khoa Học Viễn Tưởng • Kỳ Ảo • Tâm Lý",
+    "tags": [
+      "Khoa Học Viễn Tưởng",
+      "Kỳ Ảo",
+      "Tâm Lý",
+      "Đen Tối"
+    ],
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Kỳ Ảo",
+      "Tâm Lý",
+      "Đen Tối"
+    ],
+    "hasBilingual": true
+  },
+  {
     "id": "quai-dieu-giua-man-dem",
     "title": "Quái Điểu Giữa Màn Đêm",
     "originalTitle": "The Obscene Bird of Night (El obsceno pájaro de la noche)",

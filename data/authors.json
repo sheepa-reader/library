@@ -229,5 +229,25 @@
     "period": "1924 – 1996",
     "avatar": "public/authors/jose-donoso.png",
     "bio": "José Donoso (Chile, 1924 – 1996) — một trong những trụ cột lớn của làn sóng văn học Mỹ Latinh (El Boom), tác phẩm được nhà phê bình Harold Bloom đưa vào danh sách những kiệt tác thiết yếu của văn học phương Tây thế kỷ XX."
+  },
+  {
+    "id": "steven-l-peck",
+    "name": "Steven L. Peck",
+    "penName": "Steven L. Peck",
+    "birthYear": "1957",
+    "deathYear": "",
+    "nationality": "Mỹ",
+    "avatar": "public/authors/steven-l-peck.png",
+    "genres": [
+      "Khoa Học Viễn Tưởng",
+      "Kỳ Ảo",
+      "Triết Học"
+    ],
+    "bio": "Steven L. Peck (sinh ngày 25 tháng 7 năm 1957) là một nhà sinh thái học tiến hóa kiêm giáo sư sinh học tại Đại học Brigham Young (BYU), sở hữu bằng tiến sĩ về toán sinh học và côn trùng học. Bên cạnh sự nghiệp khoa học xuất sắc, ông là tác giả của nhiều tác phẩm văn học mang đậm tính triết học, siêu hình và kỳ ảo. Ông từng được trao giải thưởng Thành tựu Trọn đời Smith-Pettit (2021) vì những đóng góp nổi bật cho văn học, cùng nhiều giải thưởng của Hiệp hội Văn học Mormon (AML Awards).",
+    "notableWorks": [
+      "A Short Stay in Hell (Tạm Trú Nơi Địa Ngục)",
+      "The Scholar of Moab",
+      "Wandering Realities"
+    ]
   }
 ]
