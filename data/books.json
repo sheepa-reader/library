@@ -1,5 +1,116 @@
 [
   {
+    "id": "loi-ra-so-8",
+    "title": "Lối Ra Số 8",
+    "originalTitle": "8番出口 (The Exit 8)",
+    "authorId": "genki-kawamura",
+    "author": "Genki Kawamura",
+    "cover": "content/books/loi-ra-so-8/cover.jpg",
+    "rating": {
+      "score": 3.47,
+      "count": "5.2k"
+    },
+    "description": "“Nếu có dị thường, hãy lập tức quay đầu lại; nếu không có dị thường, đừng ngoái nhìn mà hãy bước tiếp tới Lối ra số 8 — chỉ một phút lơ là, hành lang trắng toát ấy sẽ nuốt chửng bạn vào vòng lặp vô tận.”\n\nTừ một hành lang tàu điện ngầm Nhật Bản tưởng chừng vô thưởng vô phạt, Exit 8 mở ra một cơn ác mộng tâm lý rợn gáy khi biến từng bước chân thường nhật thành bài kiểm tra sinh tồn của sự quan sát và lý trí. Chuyển thể tiểu thuyết từ tựa game độc lập gây bão toàn cầu The Exit 8, tác phẩm kéo người đọc bước vào không gian liminal space ngột ngạt, nơi sự lạnh lẽo không nằm ở những con quái vật gào thét mà ở những vết nứt nhỏ xíu xuất hiện giữa thực tại quen thuộc.",
+    "awards": [
+      "Tiểu thuyết chuyển thể chính thức từ hiện tượng game kinh dị độc lập The Exit 8 (KOTAKE CREATE)",
+      "Tác phẩm mới nhất của Genki Kawamura — tác giả bestseller 'Nếu loài mèo biến mất khỏi thế giới' và nhà sản xuất phim 'Your Name'",
+      "Bestseller tâm lý giật gân Nhật Bản, chuyển thể song song tác phẩm điện ảnh cùng tên"
+    ],
+    "downloads": {
+      "epub": "content/downloads/loi-ra-so-8.epub",
+      "pdf": ""
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Lời Tựa & Bản Đồ Ga Ngầm",
+        "path": "content/books/loi-ra-so-8/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương 0: Tàu Điện Ngầm",
+        "path": "content/books/loi-ra-so-8/chuong-2.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương 1: Kẻ Lạc Đường",
+        "path": "content/books/loi-ra-so-8/chuong-3.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 2: Người Yêu",
+        "path": "content/books/loi-ra-so-8/chuong-4.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 3: Người Đàn Ông Bước Đi",
+        "path": "content/books/loi-ra-so-8/chuong-5.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 4: Cậu Bé",
+        "path": "content/books/loi-ra-so-8/chuong-6.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương 5: Tội",
+        "path": "content/books/loi-ra-so-8/chuong-7.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-8",
+        "title": "Chương 6: Biển",
+        "path": "content/books/loi-ra-so-8/chuong-8.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-9",
+        "title": "Chương 7: Lối Ra Số 8",
+        "path": "content/books/loi-ra-so-8/chuong-9.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-10",
+        "title": "Chương 8: Một Lối Ra Số 8 Khác",
+        "path": "content/books/loi-ra-so-8/chuong-10.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-11",
+        "title": "Về Tác Giả",
+        "path": "content/books/loi-ra-so-8/chuong-11.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-27",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "series": "",
+    "volume": "",
+    "translator": "Sheepa",
+    "year": "2024",
+    "category": "Kinh Dị • Bí Ẩn • Giật Gân • Tâm Lý",
+    "tags": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân",
+      "Tâm Lý"
+    ],
+    "genres": [
+      "Kinh Dị",
+      "Bí Ẩn",
+      "Giật Gân",
+      "Tâm Lý"
+    ],
+    "hasBilingual": false
+  },
+  {
     "id": "tam-tru-noi-dia-nguc",
     "title": "Tạm Trú Nơi Địa Ngục",
     "originalTitle": "A Short Stay in Hell",

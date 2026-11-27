@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261127-01",
+    "timestamp": "2026-11-27T16:15:00+07:00",
+    "bookId": "loi-ra-so-8",
+    "bookTitle": "Lối Ra Số 8",
+    "type": "new_book",
+    "typeName": "Phát hành sách mới",
+    "badgeClass": "badge-new",
+    "title": "Phát hành tiểu thuyết kinh dị tâm lý: Lối Ra Số 8 (Genki Kawamura)",
+    "description": "Chính thức ra mắt tiểu thuyết chuyển thể từ tựa game indie hiện tượng toàn cầu The Exit 8 của nhà văn/nhà sản xuất lừng danh Genki Kawamura. Trọn bộ 11 chương đọc online hấp dẫn kèm file tải EPUB chuẩn xuất bản."
+  },
+  {
     "id": "log-20261126-04",
     "timestamp": "2026-11-26T21:20:00+07:00",
     "bookId": "tam-tru-noi-dia-nguc",

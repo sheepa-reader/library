@@ -249,5 +249,27 @@
       "The Scholar of Moab",
       "Wandering Realities"
     ]
+  },
+  {
+    "id": "genki-kawamura",
+    "name": "Genki Kawamura",
+    "penName": "Kawamura Genki (川村 元気)",
+    "birthYear": "1979",
+    "deathYear": "",
+    "nationality": "Nhật Bản",
+    "avatar": "public/authors/genki-kawamura.png",
+    "genres": [
+      "Kỳ Ảo",
+      "Tâm Lý",
+      "Kinh Dị",
+      "Giật Gân"
+    ],
+    "bio": "Genki Kawamura (sinh ngày 12 tháng 3 năm 1979 tại Yokohama, Nhật Bản) là một nhà văn, biên kịch, đạo diễn và nhà sản xuất điện ảnh xuất chúng của hãng Toho. Ông là người đứng sau thành công vang dội của các siêu phẩm anime tỷ đô như 'Your Name', 'Đứa con của thời tiết', 'Suzume' và 'Mirai'. Với tư cách tiểu thuyết gia, ông là tác giả của các tác phẩm ăn khách toàn cầu như 'Nếu loài mèo biến mất khỏi thế giới', 'Người đàn ông triệu đô', 'Tháng Tư người sẽ đến' và 'Bách hoa'. Ông từng nhận giải thưởng Nhà sản xuất phim Fujimoto danh giá và đoạt giải Đạo diễn xuất sắc nhất tại LHP Quốc tế San Sebastián.",
+    "notableWorks": [
+      "Lối Ra Số 8 (8番出口)",
+      "Nếu loài mèo biến mất khỏi thế giới",
+      "Người đàn ông triệu đô",
+      "Tháng Tư người sẽ đến"
+    ]
   }
 ]
