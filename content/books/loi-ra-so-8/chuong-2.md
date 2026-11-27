@@ -1,9 +1,5 @@
 # Chương 0: Tàu Điện Ngầm
 
-<h3 class="text-center" align="center">0</h3>
-
-<h4 class="text-center" align="center"><em>Tàu Điện Ngầm</em></h4>
-
 Tôi nghe thấy một tiếng khóc tựa tiếng trẻ sơ sinh chào đời.
 
 Tôi tháo tai nghe, đưa mắt về phía phát ra âm thanh. Trên chiếc ghế ưu tiên, một đứa bé đang khóc trong vòng tay người mẹ. Khoang tàu điện ngầm đông nghẹt người, những hành khách đang bám vào tay vịn hay cột đứng đều cắm mặt vào màn hình điện thoại, như thể chẳng hề nghe thấy tiếng khóc của đứa trẻ, dửng dưng không chút nhúc nhích.

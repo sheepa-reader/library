@@ -1,9 +1,5 @@
 # Chương 6: Biển
 
-<h3 class="text-center" align="center">6</h3>
-
-<h4 class="text-center" align="center"><em>Biển</em></h4>
-
 Tôi đưa tay che ánh mặt trời chói chang.Qua kẽ năm ngón tay, những vệt sáng vàng óng rọi thẳng xuống.
 
 Từ bên cạnh vang lên tiếng cười.

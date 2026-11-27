@@ -1,9 +1,5 @@
 # Chương 5: Tội
 
-<h3 class="text-center" align="center">5</h3>
-
-<h4 class="text-center" align="center"><em>Tội</em></h4>
-
 “Mẹ ơi?”Cậu bé lẩm bẩm bên cạnh tôi.
 
 “Mẹ… con xin lỗi.”

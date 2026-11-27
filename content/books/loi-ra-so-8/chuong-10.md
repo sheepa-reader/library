@@ -1,9 +1,5 @@
 # Chương 8: Một Lối Ra Số 8 Khác
 
-<h3 class="text-center" align="center">8</h3>
-
-<h4 class="text-center" align="center"><em>Một Lối Ra Số 8 Khác</em></h4>
-
 “Lần cuối rồi…”Nhìn thấy bảng chỉ dẫn [Lối ra số 8], tôi lẩm bẩm.
 
 Đã bao nhiêu tiếng trôi qua kể từ khi tôi bị dòng sóng thần cuốn đi rồi nhỉ?

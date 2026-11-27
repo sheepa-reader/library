@@ -1,9 +1,5 @@
 # Chương 7: Lối Ra Số 8
 
-<h3 class="text-center" align="center">7</h3>
-
-<h4 class="text-center" align="center"><em>Lối Ra Số 8</em></h4>
-
 Tất cả đều một màu xám xịt.Trôi dạt giữa dòng nước bùn đục ngầu.
 
 Ngạt thở quá. Không thở nổi. Cứ như bị quăng vào trong máy giặt, tay chân có lẽ sắp rời ra từng mảnh rồi.Mẹ ơi con xin lỗi. Tại vì con cố tình đi lạc nên mới bị trừng phạt thế này. Mẹ ơi con xin lỗi. Xin lỗi mẹ. Xin lỗi mẹ. Cứu con với.

@@ -1,9 +1,5 @@
 # Chương 3: Người Đàn Ông Bước Đi
 
-<h3 class="text-center" align="center">3</h3>
-
-<h4 class="text-center" align="center"><em>Người Đàn Ông Bước Đi</em></h4>
-
 Khỉ thật, sao lại thành ra thế này chứ.Đi mãi đi hoài, rốt cuộc vẫn cứ quay cuồng quanh một chỗ.
 
 Rốt cuộc chuyện này là thế nào?

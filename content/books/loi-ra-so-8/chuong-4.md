@@ -1,9 +1,5 @@
 # Chương 2: Người Yêu
 
-<h3 class="text-center" align="center">2</h3>
-
-<h4 class="text-center" align="center"><em>Người Yêu</em></h4>
-
 Cô ấy và tôi lớn lên ở một thị trấn nhỏ ven biển.
 
 Chúng tôi là bạn cùng lớp thời tiểu học (mà thực ra cả trường cũng chỉ có độc một lớp). Thầy giáo chủ nhiệm rất yêu âm nhạc, đã dạy chúng tôi chơi đủ loại nhạc cụ như guitar cổ điển, piano, trombone.

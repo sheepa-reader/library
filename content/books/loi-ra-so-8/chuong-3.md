@@ -1,9 +1,5 @@
 # Chương 1: Kẻ Lạc Đường
 
-<h3 class="text-center" align="center">1</h3>
-
-<h4 class="text-center" align="center"><em>Kẻ Lạc Đường</em></h4>
-
 Tôi lao vụt đến tấm áp phích của Escher. Vũng máu ban nãy hoàn toàn không còn tăm tích.
 
 Trước mắt tôi là một lối đi ngầm trắng xóa kéo dài. Trên trần nhà là tấm biển 【← Lối ra 8】. Trần nhà, tường và cả sàn nhà đều trông như vừa được cọ rửa hoàn hảo đến mức vết máu đã biến sạch không còn một dấu vết. Tôi mở hai bàn tay ra xem, tuyệt nhiên không dính chút máu nào, cũng chẳng ngửi thấy mùi sắt gỉ.

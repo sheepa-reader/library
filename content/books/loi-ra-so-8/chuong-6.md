@@ -1,9 +1,5 @@
 # Chương 4: Cậu Bé
 
-<h3 class="text-center" align="center">4</h3>
-
-<h4 class="text-center" align="center"><em>Cậu Bé</em></h4>
-
 Má tôi nóng rát như lửa đốt.Đưa tay chạm thử, ngón trỏ dính đầy máu.
 
 Chắc là lúc ngã cầu thang khi nãy, tôi bị trầy da mất rồi.
