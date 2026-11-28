@@ -864,6 +864,9 @@
     const isDropCapLocked = isChapterDropCapLocked(chapter, targetBook);
     let text = mdText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 
+    // 0. Bảo vệ cấu trúc bảng HTML: loại bỏ dòng trống bên trong <table>...</table> để tránh bị tách thành các thẻ <p> rời rạc
+    text = text.replace(/<table\b[\s\S]*?<\/table>/gi, match => match.replace(/\n\s*\n+/g, '\n'));
+
     // 1. Tự động khắc phục lỗi ngắt rơi số chương (ví dụ 'CHƯƠNG\n2' -> 'CHƯƠNG 2')
     text = text.replace(/((?:^|\n)[#\*_]*[ \t]*(?:CHƯƠNG|HỒI|CHAPTER|Phần)[ \t]*)[ \t]*\n+[ \t]*(\d+)/gi, '$1 $2')
                .replace(/<h[1-6][^>]*>\s*(CHƯƠNG|HỒI|CHAPTER)\s*<br\s*\/?>\s*(?:<span[^>]*>)?\s*(\d+)\s*(?:<\/span>)?\s*<\/h[1-6]>/gi, '<h2>$1 $2</h2>');
