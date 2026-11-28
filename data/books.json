@@ -1,5 +1,106 @@
 [
   {
+    "id": "dua-con-cam-ky",
+    "title": "Đứa Con Cấm Kỵ",
+    "originalTitle": "禁忌の子 (Kinki no Ko - Forbidden Child)",
+    "authorId": "mio-yamaguchi",
+    "author": "Yamaguchi Mio",
+    "cover": "content/books/dua-con-cam-ky/cover.jpg",
+    "rating": {
+      "score": 3.91,
+      "count": "161"
+    },
+    "description": "“Trên bàn cấp cứu là một thi thể vô danh vừa vớt lên từ mặt nước — và khi nhìn vào khuôn mặt ấy, vị bác sĩ cấp cứu nhận ra chính mình đang nằm đó.”\n\nCó những bí ẩn không bắt đầu từ một vụ án mạng đẫm máu, mà từ khoảnh khắc bản sắc và nguồn gốc của một con người bị rung chuyển tận gốc rễ. Đứa Con Cấm Kỵ của Yamaguchi Mio là một tác phẩm trinh thám chính thống (honkaku mystery) pha trộn sắc thái y khoa đầy căng thẳng, đưa người đọc lần theo những manh mối tưởng chừng tách biệt để đối mặt với một bí mật nhức nhối chạm tới ranh giới đạo đức, gia đình và y học hiện đại.",
+    "awards": [
+      "Giải thưởng Ayukawa Tetsuya lần thứ 34 (鮎川哲也賞 - 2024) — Tác phẩm trinh thám đầu tay xuất sắc nhất",
+      "Đề cử Giải thưởng Honya Taisho (本屋大賞 - 2025) — Giải thưởng Người bán sách Nhật Bản"
+    ],
+    "downloads": {
+      "epub": "content/downloads/dua-con-cam-ky.epub"
+    },
+    "chapters": [
+      {
+        "id": "chuong-1",
+        "title": "Sơ Đồ Nhân Vật & Bản Đồ",
+        "path": "content/books/dua-con-cam-ky/chuong-1.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-2",
+        "title": "Chương 1: Khởi Đầu",
+        "path": "content/books/dua-con-cam-ky/chuong-2.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-3",
+        "title": "Chương 2: Chuỗi Liên Hoàn",
+        "path": "content/books/dua-con-cam-ky/chuong-3.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-4",
+        "title": "Chương 3: Căn Phòng Kín",
+        "path": "content/books/dua-con-cam-ky/chuong-4.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-5",
+        "title": "Chương 4: Phân Số",
+        "path": "content/books/dua-con-cam-ky/chuong-5.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-6",
+        "title": "Chương 5: Sự Thật",
+        "path": "content/books/dua-con-cam-ky/chuong-6.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-7",
+        "title": "Chương Kết: Phù Du",
+        "path": "content/books/dua-con-cam-ky/chuong-7.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-8",
+        "title": "Lời Cảm Ơn",
+        "path": "content/books/dua-con-cam-ky/chuong-8.md",
+        "noDropcap": false
+      },
+      {
+        "id": "chuong-9",
+        "title": "Tài Liệu Tham Khảo",
+        "path": "content/books/dua-con-cam-ky/chuong-9.md",
+        "noDropcap": true
+      },
+      {
+        "id": "chuong-10",
+        "title": "Về Tác Giả",
+        "path": "content/books/dua-con-cam-ky/chuong-10.md",
+        "noDropcap": true
+      }
+    ],
+    "publishedAt": "2026-11-28",
+    "status": "completed",
+    "statusText": "Hoàn thành",
+    "category": "Trinh Thám • Bí Ẩn • Giật Gân",
+    "tags": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Giật Gân",
+      "Tâm Lý"
+    ],
+    "genres": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Giật Gân",
+      "Tâm Lý"
+    ],
+    "hasBilingual": false,
+    "year": 2024,
+    "translator": "Sheepa"
+  },
+  {
     "id": "loi-ra-so-8",
     "title": "Lối Ra Số 8",
     "originalTitle": "8番出口 (The Exit 8)",

@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261128-01",
+    "timestamp": "2026-11-28T13:30:00+07:00",
+    "bookId": "dua-con-cam-ky",
+    "bookTitle": "Đứa Con Cấm Kỵ",
+    "type": "new_book",
+    "typeName": "Phát hành sách mới",
+    "badgeClass": "badge-new",
+    "title": "Phát hành tiểu thuyết trinh thám y khoa: Đứa Con Cấm Kỵ (Yamaguchi Mio)",
+    "description": "Chính thức ra mắt tác phẩm đoạt giải thưởng Ayukawa Tetsuya lần thứ 34 của bác sĩ kiêm tiểu thuyết gia Yamaguchi Mio. Trọn bộ 10 chương đọc online chất lượng cao kèm sơ đồ nhân vật, bản đồ và file tải EPUB chuẩn xuất bản."
+  },
+  {
     "id": "log-20261127-01",
     "timestamp": "2026-11-27T16:15:00+07:00",
     "bookId": "loi-ra-so-8",

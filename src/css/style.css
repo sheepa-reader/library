@@ -7901,3 +7901,71 @@ body.teaser-modal-open {
     font-size: 0.9rem;
   }
 }
+
+/* --- CHARACTER RELATIONSHIP TABLE (SƠ ĐỒ NHÂN VẬT EBOOK) --- */
+.char-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2rem 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.char-table thead th {
+  font-weight: 700;
+  text-align: left;
+  padding: 0.65rem 0.85rem;
+  border-top: 2px solid var(--accent, #8b2635);
+  border-bottom: 2px solid var(--accent, #8b2635);
+  background-color: var(--bg-secondary);
+  color: var(--text-main);
+}
+
+.char-table th.col-name {
+  width: 34%;
+}
+
+.char-table th.col-role {
+  width: 66%;
+}
+
+.char-table tbody tr:not(.group-row) td {
+  padding: 0.6rem 0.85rem;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+.char-table tbody tr:nth-child(even):not(.group-row) {
+  background-color: var(--bg-hover);
+}
+
+.char-table tbody tr.group-row td {
+  font-weight: 700;
+  font-size: 1.02rem;
+  background-color: var(--bg-secondary);
+  color: var(--text-main);
+  padding: 0.75rem 0.85rem;
+  border-top: 1px solid var(--accent, #8b2635);
+  border-bottom: 1px solid var(--accent, #8b2635);
+}
+
+.char-table td.char-name {
+  font-weight: 600;
+  color: var(--text-main);
+  white-space: nowrap;
+}
+
+span.badge-dead {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #dc2626;
+  border: 1px solid rgba(220, 38, 38, 0.45);
+  background: rgba(220, 38, 38, 0.08);
+  border-radius: 4px;
+  padding: 0.1rem 0.35rem;
+  margin-left: 0.35rem;
+  vertical-align: middle;
+}
+

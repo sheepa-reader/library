@@ -271,5 +271,24 @@
       "Người đàn ông triệu đô",
       "Tháng Tư người sẽ đến"
     ]
+  },
+  {
+    "id": "mio-yamaguchi",
+    "name": "Yamaguchi Mio",
+    "penName": "Mio Yamaguchi (山口 未桜)",
+    "birthYear": "1987",
+    "deathYear": "",
+    "nationality": "Nhật Bản",
+    "avatar": "public/authors/mio-yamaguchi.png",
+    "genres": [
+      "Trinh Thám",
+      "Bí Ẩn",
+      "Giật Gân",
+      "Tâm Lý"
+    ],
+    "bio": "Sinh năm 1987 tại tỉnh Hyogo. Tốt nghiệp Đại học Kobe. Hiện đang làm bác sĩ đồng thời sáng tác tiểu thuyết. Năm 2024, cô giành giải thưởng Ayukawa Tetsuya lần thứ 34 với tác phẩm đầu tay Đứa Con Cấm Kỵ (禁忌の子).",
+    "notableWorks": [
+      "Đứa Con Cấm Kỵ (禁忌の子)"
+    ]
   }
 ]
