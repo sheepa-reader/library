@@ -1,0 +1,751 @@
+[
+  {
+    "p": 0,
+    "s": 0,
+    "start": 0.0,
+    "end": 11.2,
+    "text": "Sophie đang ở phòng ăn của Cộng đồng Hưu"
+  },
+  {
+    "p": 0,
+    "s": 1,
+    "start": 11.2,
+    "end": 13.56,
+    "text": "“Alo, chú Fred,” cô nhấc máy nhanh nhất "
+  },
+  {
+    "p": 0,
+    "s": 2,
+    "start": 13.56,
+    "end": 15.32,
+    "text": "“Mọi chuyện ổn cả chứ ạ?”"
+  },
+  {
+    "p": 1,
+    "s": 0,
+    "start": 15.32,
+    "end": 16.76,
+    "text": "“Bố cháu có ở đó không?”"
+  },
+  {
+    "p": 1,
+    "s": 1,
+    "start": 16.76,
+    "end": 19.32,
+    "text": "Fred hỏi."
+  },
+  {
+    "p": 2,
+    "s": 0,
+    "start": 19.32,
+    "end": 21.24,
+    "text": "“Bố cháu rất xin lỗi về chiếc Volvo...”"
+  },
+  {
+    "p": 3,
+    "s": 0,
+    "start": 21.24,
+    "end": 23.12,
+    "text": "“Đưa máy cho bố cháu đi.”"
+  },
+  {
+    "p": 4,
+    "s": 0,
+    "start": 23.12,
+    "end": 26.08,
+    "text": "“Bố không ở cùng cháu.”"
+  },
+  {
+    "p": 4,
+    "s": 1,
+    "start": 26.08,
+    "end": 28.76,
+    "text": "Bố cô đang ở trên lầu với Natasha Eskols"
+  },
+  {
+    "p": 5,
+    "s": 0,
+    "start": 28.76,
+    "end": 29.52,
+    "text": "“Vậy đi tìm ông ấy đi,” Fred nói."
+  },
+  {
+    "p": 5,
+    "s": 1,
+    "start": 29.52,
+    "end": 31.96,
+    "text": "“Chú cần nói chuyện với ông ấy.”"
+  },
+  {
+    "p": 6,
+    "s": 0,
+    "start": 31.96,
+    "end": 33.96,
+    "text": "Trên lầu, Natasha Eskolsky chào đón Soph"
+  },
+  {
+    "p": 6,
+    "s": 1,
+    "start": 33.96,
+    "end": 38.84,
+    "text": "“Ồ, bé Sophia thân mến, thật mừng vì chá"
+  },
+  {
+    "p": 6,
+    "s": 2,
+    "start": 38.84,
+    "end": 42.2,
+    "text": "Cô pha cho cháu chén trà nhé?”"
+  },
+  {
+    "p": 7,
+    "s": 0,
+    "start": 42.2,
+    "end": 43.92,
+    "text": "Sophie chẳng muốn uống trà chút nào."
+  },
+  {
+    "p": 7,
+    "s": 1,
+    "start": 43.92,
+    "end": 46.84,
+    "text": "Cô đưa điện thoại cho bố."
+  },
+  {
+    "p": 7,
+    "s": 2,
+    "start": 46.84,
+    "end": 48.76,
+    "text": "“Chú Fred đấy bố.”"
+  },
+  {
+    "p": 8,
+    "s": 0,
+    "start": 48.76,
+    "end": 51.24,
+    "text": "“Freddy à?"
+  },
+  {
+    "p": 8,
+    "s": 1,
+    "start": 51.24,
+    "end": 58.36,
+    "text": "Con đã bảo với chú ấy là bố xin lỗi vụ c"
+  },
+  {
+    "p": 9,
+    "s": 0,
+    "start": 58.36,
+    "end": 60.56,
+    "text": "“Rồi ạ, bố ơi, chú ấy biết rồi.”"
+  },
+  {
+    "p": 10,
+    "s": 0,
+    "start": 60.56,
+    "end": 62.36,
+    "text": "“Freddy là bạn thân nhất của anh,” ông n"
+  },
+  {
+    "p": 10,
+    "s": 1,
+    "start": 62.36,
+    "end": 65.36,
+    "text": "“Cậu ấy sắp cưới vợ cũ của anh vào mùa t"
+  },
+  {
+    "p": 10,
+    "s": 2,
+    "start": 65.36,
+    "end": 67.12,
+    "text": "Anh sẽ cần một người đi cùng."
+  },
+  {
+    "p": 10,
+    "s": 3,
+    "start": 67.12,
+    "end": 68.76,
+    "text": "Em có chiếc váy nào không?”"
+  },
+  {
+    "p": 11,
+    "s": 0,
+    "start": 68.76,
+    "end": 69.76,
+    "text": "“Dĩ nhiên rồi, em có váy chứ,” Natasha đ"
+  },
+  {
+    "p": 12,
+    "s": 0,
+    "start": 69.76,
+    "end": 72.4,
+    "text": "“Fred, Freddy, Fred,” PJ nói vào điện th"
+  },
+  {
+    "p": 12,
+    "s": 1,
+    "start": 72.4,
+    "end": 83.92,
+    "text": "“Tôi thực sự xin lỗi về chiếc xe, tôi rấ"
+  },
+  {
+    "p": 12,
+    "s": 2,
+    "start": 83.92,
+    "end": 86.04,
+    "text": "Cái gì?"
+  },
+  {
+    "p": 12,
+    "s": 3,
+    "start": 86.04,
+    "end": 90.24,
+    "text": "Anh không..."
+  },
+  {
+    "p": 12,
+    "s": 4,
+    "start": 90.24,
+    "end": 91.68,
+    "text": "tại sao chứ?”"
+  },
+  {
+    "p": 12,
+    "s": 5,
+    "start": 91.68,
+    "end": 93.56,
+    "text": "Ông nhìn sang Sophie."
+  },
+  {
+    "p": 12,
+    "s": 6,
+    "start": 93.56,
+    "end": 96.76,
+    "text": "Cô quay mặt đi nơi khác."
+  },
+  {
+    "p": 12,
+    "s": 7,
+    "start": 96.76,
+    "end": 102.84,
+    "text": "“Ivy,” ông nói."
+  },
+  {
+    "p": 12,
+    "s": 8,
+    "start": 102.84,
+    "end": 105.44,
+    "text": "“Không phải Ivy của tôi.”"
+  },
+  {
+    "p": 12,
+    "s": 9,
+    "start": 105.44,
+    "end": 109.56,
+    "text": "Ông đặt điện thoại xuống rồi nằm bẹp trê"
+  },
+  {
+    "p": 12,
+    "s": 10,
+    "start": 109.56,
+    "end": 112.6,
+    "text": "“Không phải Ivy của tôi,” ông cứ lặp đi "
+  },
+  {
+    "p": 13,
+    "s": 0,
+    "start": 112.6,
+    "end": 113.0,
+    "text": "“Ông ấy ổn chứ?”"
+  },
+  {
+    "p": 13,
+    "s": 1,
+    "start": 113.0,
+    "end": 116.64,
+    "text": "Natasha Eskolsky hỏi từ ngoài cửa."
+  },
+  {
+    "p": 13,
+    "s": 2,
+    "start": 116.64,
+    "end": 118.0,
+    "text": "Bà vừa bước ra khỏi phòng ngủ với ba chi"
+  },
+  {
+    "p": 13,
+    "s": 3,
+    "start": 118.0,
+    "end": 119.16,
+    "text": "“Ivy là vợ cũ của ông ấy sao?”"
+  },
+  {
+    "p": 14,
+    "s": 0,
+    "start": 119.16,
+    "end": 123.4,
+    "text": "“Bố cháu sẽ ổn thôi,” Sophie nói."
+  },
+  {
+    "p": 14,
+    "s": 1,
+    "start": 123.4,
+    "end": 125.0,
+    "text": "“Bố chỉ cần một phút để biến mọi chuyện "
+  },
+  {
+    "p": 15,
+    "s": 0,
+    "start": 125.0,
+    "end": 126.84,
+    "text": "Mẹ của Sophie chưa chết, ít nhất là chưa"
+  },
+  {
+    "p": 16,
+    "s": 0,
+    "start": 126.84,
+    "end": 130.56,
+    "text": "Tất cả mọi người đã giấu PJ chuyện đó su"
+  },
+  {
+    "p": 16,
+    "s": 1,
+    "start": 130.56,
+    "end": 135.2,
+    "text": "PJ không được hay biết, vì Ivy nghĩ PJ k"
+  },
+  {
+    "p": 17,
+    "s": 0,
+    "start": 135.2,
+    "end": 138.76,
+    "text": "Ivy bị ung thư não."
+  },
+  {
+    "p": 17,
+    "s": 1,
+    "start": 138.76,
+    "end": 141.76,
+    "text": "Không thể phẫu thuật."
+  },
+  {
+    "p": 17,
+    "s": 2,
+    "start": 141.76,
+    "end": 147.2,
+    "text": "Hai mươi năm sau khi bà chiến thắng căn "
+  },
+  {
+    "p": 18,
+    "s": 0,
+    "start": 147.2,
+    "end": 150.4,
+    "text": "Ivy và Fred chỉ đến Alaska trong mười ng"
+  },
+  {
+    "p": 18,
+    "s": 1,
+    "start": 150.4,
+    "end": 158.24,
+    "text": "Đó là kỳ nghỉ lớn của họ, một chuyến đi "
+  },
+  {
+    "p": 18,
+    "s": 2,
+    "start": 158.24,
+    "end": 166.44,
+    "text": "Họ giả vờ như không thể liên lạc được, b"
+  },
+  {
+    "p": 18,
+    "s": 3,
+    "start": 166.44,
+    "end": 167.88,
+    "text": "Bà không thể cứ nghe điện thoại của PJ g"
+  },
+  {
+    "p": 18,
+    "s": 4,
+    "start": 167.88,
+    "end": 174.04,
+    "text": "Cơ hội sống sót của bà không cao, nhưng "
+  },
+  {
+    "p": 18,
+    "s": 5,
+    "start": 174.04,
+    "end": 177.96,
+    "text": "Fred đã nài nỉ Ivy hãy xây một bức tường"
+  },
+  {
+    "p": 18,
+    "s": 6,
+    "start": 177.96,
+    "end": 187.28,
+    "text": "Ông đã nài nỉ bà để ông che chở bà khỏi "
+  },
+  {
+    "p": 18,
+    "s": 7,
+    "start": 187.28,
+    "end": 199.84,
+    "text": "Sophie được dặn không được gọi cho họ, p"
+  },
+  {
+    "p": 18,
+    "s": 8,
+    "start": 199.84,
+    "end": 205.12,
+    "text": "Họ đặt biệt danh cho khối u brain cancer"
+  },
+  {
+    "p": 18,
+    "s": 9,
+    "start": 205.12,
+    "end": 211.08,
+    "text": "Họ sẽ không thể liên lạc được vì đang ở "
+  },
+  {
+    "p": 19,
+    "s": 0,
+    "start": 211.08,
+    "end": 213.56,
+    "text": "Nhưng họ đã trở về Pondville từ lâu trướ"
+  },
+  {
+    "p": 19,
+    "s": 1,
+    "start": 213.56,
+    "end": 224.16,
+    "text": "Mọi chuyện đã rõ mười mươi chỉ sau vài t"
+  },
+  {
+    "p": 19,
+    "s": 2,
+    "start": 224.16,
+    "end": 229.56,
+    "text": "Khối u đã phình to gấp đôi."
+  },
+  {
+    "p": 19,
+    "s": 3,
+    "start": 229.56,
+    "end": 236.8,
+    "text": "“Lẽ ra chúng ta nên đặt tên nó theo một "
+  },
+  {
+    "p": 19,
+    "s": 4,
+    "start": 236.8,
+    "end": 245.24,
+    "text": "“Lẽ ra chúng ta nên gọi nó là Rhode Isla"
+  },
+  {
+    "p": 19,
+    "s": 5,
+    "start": 245.24,
+    "end": 248.12,
+    "text": "Sau này PJ và Sophie sẽ còn nghe bà kể l"
+  },
+  {
+    "p": 20,
+    "s": 0,
+    "start": 248.12,
+    "end": 250.44,
+    "text": "Sophie nhận ra khi bố cô đang nghe điện "
+  },
+  {
+    "p": 20,
+    "s": 1,
+    "start": 250.44,
+    "end": 258.08,
+    "text": "Ông không gọi chỉ để thông báo cho PJ; ô"
+  },
+  {
+    "p": 20,
+    "s": 2,
+    "start": 258.08,
+    "end": 263.4,
+    "text": "Cô thừa biết cơ hội mong manh đến nhường"
+  },
+  {
+    "p": 20,
+    "s": 3,
+    "start": 263.4,
+    "end": 271.04,
+    "text": "Cô nghĩ rằng trên đời này phải có ai đó "
+  },
+  {
+    "p": 20,
+    "s": 4,
+    "start": 271.04,
+    "end": 275.96,
+    "text": "Sophie cần ra ngoài hít thở chút không k"
+  },
+  {
+    "p": 20,
+    "s": 5,
+    "start": 275.96,
+    "end": 279.16,
+    "text": "Hoặc có lẽ cô cần xuống lầu, ngụp đầu xu"
+  },
+  {
+    "p": 20,
+    "s": 6,
+    "start": 279.16,
+    "end": 281.56,
+    "text": "Mẹ cô sắp chết rồi."
+  },
+  {
+    "p": 20,
+    "s": 7,
+    "start": 281.56,
+    "end": 285.2,
+    "text": "Mọi thứ đã thất bại."
+  },
+  {
+    "p": 20,
+    "s": 8,
+    "start": 285.2,
+    "end": 291.96,
+    "text": "Điều tồi tệ nhất đang đến."
+  },
+  {
+    "p": 20,
+    "s": 9,
+    "start": 291.96,
+    "end": 294.72,
+    "text": "Cô để lại chiếc điện thoại cùng bố cho N"
+  },
+  {
+    "p": 20,
+    "s": 10,
+    "start": 294.72,
+    "end": 295.92,
+    "text": "Cô sẽ tìm một cư dân nào đó thích phê cầ"
+  },
+  {
+    "p": 21,
+    "s": 0,
+    "start": 295.92,
+    "end": 297.56,
+    "text": "“Khi nào thì anh mới định nói cho tôi bi"
+  },
+  {
+    "p": 21,
+    "s": 1,
+    "start": 297.56,
+    "end": 302.64,
+    "text": "PJ hỏi Fred, vẫn nằm bẹp trên sàn nhưng "
+  },
+  {
+    "p": 21,
+    "s": 2,
+    "start": 302.64,
+    "end": 307.96,
+    "text": "Fred đã kiên nhẫn chờ ở đầu dây bên kia "
+  },
+  {
+    "p": 21,
+    "s": 3,
+    "start": 307.96,
+    "end": 310.56,
+    "text": "Fred biết mình phải thật kiên nhẫn với P"
+  },
+  {
+    "p": 22,
+    "s": 0,
+    "start": 310.56,
+    "end": 313.0,
+    "text": "“Tôi đang nói cho anh biết đây,” Fred nó"
+  },
+  {
+    "p": 22,
+    "s": 1,
+    "start": 313.0,
+    "end": 315.16,
+    "text": "“Ivy đã sẵn sàng nói cho anh biết rồi."
+  },
+  {
+    "p": 22,
+    "s": 2,
+    "start": 315.16,
+    "end": 316.36,
+    "text": "Bà ấy muốn anh về nhà.”"
+  },
+  {
+    "p": 23,
+    "s": 0,
+    "start": 316.36,
+    "end": 317.24,
+    "text": "“Về để làm gì?”"
+  },
+  {
+    "p": 23,
+    "s": 1,
+    "start": 317.24,
+    "end": 319.48,
+    "text": "PJ hỏi, bực bội vì bị gạt ra ngoài."
+  },
+  {
+    "p": 23,
+    "s": 2,
+    "start": 319.48,
+    "end": 323.96,
+    "text": "“Vì anh cần chiếc xe chắc?"
+  },
+  {
+    "p": 23,
+    "s": 3,
+    "start": 323.96,
+    "end": 326.92,
+    "text": "Này Fred, tôi làm gì còn chiếc xe đó nữa"
+  },
+  {
+    "p": 24,
+    "s": 0,
+    "start": 326.92,
+    "end": 328.52,
+    "text": "“Có một chiếc xe thì vẫn tốt hơn."
+  },
+  {
+    "p": 24,
+    "s": 1,
+    "start": 328.52,
+    "end": 331.08,
+    "text": "Nhưng chúng tôi cần anh về nhà vì chúng "
+  },
+  {
+    "p": 24,
+    "s": 2,
+    "start": 331.08,
+    "end": 336.04,
+    "text": "Chúng tôi muốn tổ chức khi bà ấy vẫn còn"
+  },
+  {
+    "p": 24,
+    "s": 3,
+    "start": 336.04,
+    "end": 339.96,
+    "text": "Anh nên bay về đi."
+  },
+  {
+    "p": 24,
+    "s": 4,
+    "start": 339.96,
+    "end": 342.28,
+    "text": "Bay về ngay ngày mai và giúp chúng tôi c"
+  },
+  {
+    "p": 25,
+    "s": 0,
+    "start": 342.28,
+    "end": 343.16,
+    "text": "“Tôi không thích đi máy bay lắm...”"
+  },
+  {
+    "p": 26,
+    "s": 0,
+    "start": 343.16,
+    "end": 345.52,
+    "text": "“Bay về đi."
+  },
+  {
+    "p": 26,
+    "s": 1,
+    "start": 345.52,
+    "end": 347.52,
+    "text": "Tôi không phải đang hỏi ý kiến anh."
+  },
+  {
+    "p": 26,
+    "s": 2,
+    "start": 347.52,
+    "end": 348.52,
+    "text": "Tôi đang yêu cầu anh đấy.”"
+  },
+  {
+    "p": 27,
+    "s": 0,
+    "start": 348.52,
+    "end": 349.4,
+    "text": "“Được rồi."
+  },
+  {
+    "p": 27,
+    "s": 1,
+    "start": 349.4,
+    "end": 351.56,
+    "text": "Được rồi.”"
+  },
+  {
+    "p": 27,
+    "s": 2,
+    "start": 351.56,
+    "end": 355.96,
+    "text": "Và rồi PJ hít một hơi thật sâu, kể cho F"
+  },
+  {
+    "p": 27,
+    "s": 3,
+    "start": 355.96,
+    "end": 361.52,
+    "text": "Độ tuổi chín và mười, Ollie và Luna Meek"
+  },
+  {
+    "p": 28,
+    "s": 0,
+    "start": 361.52,
+    "end": 363.52,
+    "text": "“Anh mua lũ cháu này ở đâu thế?”"
+  },
+  {
+    "p": 28,
+    "s": 1,
+    "start": 363.52,
+    "end": 364.24,
+    "text": "Fred hỏi, nhưng ông chỉ đang nói đùa."
+  },
+  {
+    "p": 28,
+    "s": 2,
+    "start": 364.24,
+    "end": 375.16,
+    "text": "Fred và Ivy đã trở về Pondville vài ngày"
+  },
+  {
+    "p": 28,
+    "s": 3,
+    "start": 375.16,
+    "end": 376.08,
+    "text": "Cả chiếc bạt nhún lò xo ở sân sau nữa."
+  },
+  {
+    "p": 28,
+    "s": 4,
+    "start": 376.08,
+    "end": 384.76,
+    "text": "Sau đó, họ thấy cả thị trấn đang bàn tán"
+  },
+  {
+    "p": 28,
+    "s": 5,
+    "start": 384.76,
+    "end": 387.4,
+    "text": "Gần như một vị thánh."
+  },
+  {
+    "p": 29,
+    "s": 0,
+    "start": 387.4,
+    "end": 389.76,
+    "text": "“Là tôi đấy,” PJ đồng tình, lấy tay quệt"
+  },
+  {
+    "p": 29,
+    "s": 1,
+    "start": 389.76,
+    "end": 394.31,
+    "text": "“Tôi là người luôn sống vì người khác mà"
+  }
+]

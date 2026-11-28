@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261128-02",
+    "timestamp": "2026-11-28T14:35:00+07:00",
+    "bookId": "duong-ve-mien-diu-em",
+    "bookTitle": "Đường Về Miền Dịu Êm",
+    "type": "audio_update",
+    "typeName": "Cập nhật Sách nói",
+    "badgeClass": "badge-audio",
+    "title": "Cập nhật audio & highlight đồng bộ chương 34 đến 53 tác phẩm Đường Về Miền Dịu Êm",
+    "description": "Hoàn tất tải lên trọn bộ 20 chương audio cuối cùng (từ chương 34 đến chương 53) cho tác phẩm Đường Về Miền Dịu Êm (The Road to Tender Hearts - Annie Hartnett), chính thức hoàn thiện 100% toàn bộ 53 chương sách nói của tác phẩm. Hệ thống highlight từng câu chữ khi nghe audio đã được phân tích và đồng bộ chuẩn xác với giọng đọc."
+  },
+  {
     "id": "log-20261128-01",
     "timestamp": "2026-11-28T13:30:00+07:00",
     "bookId": "dua-con-cam-ky",
