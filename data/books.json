@@ -813,7 +813,7 @@
         "bilingualPath": "content/books/elmer-gantry/bilingual/chuong-33.md"
       }
     ],
-    "teaser": "content/books/elmer-gantry/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/elmer-gantry/video/teaser.mp4"
   },
   {
     "id": "cuon-sach-nay-khien-anh-nho-em",
@@ -1405,7 +1405,7 @@
         "noDropcap": true
       }
     ],
-    "teaser": "content/books/cuon-sach-nay-khien-anh-nho-em/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/cuon-sach-nay-khien-anh-nho-em/video/teaser.mp4"
   },
   {
     "id": "duong-ve-mien-diu-em",
@@ -1470,84 +1470,84 @@
         "title": "Chương 1",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-6.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter1.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter1.mp3"
       },
       {
         "id": "chuong-7",
         "title": "Chương 2",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-7.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter2.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter2.mp3"
       },
       {
         "id": "chuong-8",
         "title": "Chương 3",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-8.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter3.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter3.mp3"
       },
       {
         "id": "chuong-9",
         "title": "Chương 4",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-9.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter4.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter4.mp3"
       },
       {
         "id": "chuong-10",
         "title": "Chương 5",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-10.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter5.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter5.mp3"
       },
       {
         "id": "chuong-11",
         "title": "Chương 6",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-11.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter6.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter6.mp3"
       },
       {
         "id": "chuong-12",
         "title": "Chương 7",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-12.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter7.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter7.mp3"
       },
       {
         "id": "chuong-13",
         "title": "Chương 8",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-13.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter8.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter8.mp3"
       },
       {
         "id": "chuong-14",
         "title": "Chương 9",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-14.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter9.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter9.mp3"
       },
       {
         "id": "chuong-15",
         "title": "Chương 10",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-15.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter10.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter10.mp3"
       },
       {
         "id": "chuong-16",
         "title": "Chương 11",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-16.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter11.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter11.mp3"
       },
       {
         "id": "chuong-17",
         "title": "Chương 12",
         "part": "Phần I: Tri Thức Cổ Xưa",
         "path": "content/books/duong-ve-mien-diu-em/chuong-17.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter12.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter12.mp3"
       },
       {
         "id": "chuong-18",
@@ -1568,42 +1568,42 @@
         "title": "Chương 13",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-20.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter13.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter13.mp3"
       },
       {
         "id": "chuong-21",
         "title": "Chương 14",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-21.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter14.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter14.mp3"
       },
       {
         "id": "chuong-22",
         "title": "Chương 15",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-22.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter15.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter15.mp3"
       },
       {
         "id": "chuong-23",
         "title": "Chương 16",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-23.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter16.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter16.mp3"
       },
       {
         "id": "chuong-24",
         "title": "Chương 17",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-24.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter17.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter17.mp3"
       },
       {
         "id": "chuong-25",
         "title": "Chương 18",
         "part": "Phần II: Rời Pondville • Ngày Đầu Tiên: Thứ Ba",
         "path": "content/books/duong-ve-mien-diu-em/chuong-25.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter18.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter18.mp3"
       },
       {
         "id": "chuong-26",
@@ -1617,42 +1617,42 @@
         "title": "Chương 19",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-27.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter19.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter19.mp3"
       },
       {
         "id": "chuong-28",
         "title": "Chương 20",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-28.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter20.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter20.mp3"
       },
       {
         "id": "chuong-29",
         "title": "Chương 21",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-29.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter21.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter21.mp3"
       },
       {
         "id": "chuong-30",
         "title": "Chương 22",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-30.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter22.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter22.mp3"
       },
       {
         "id": "chuong-31",
         "title": "Chương 23",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-31.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter23.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter23.mp3"
       },
       {
         "id": "chuong-32",
         "title": "Chương 24",
         "part": "Phần II: Rời Pondville • Ngày Thứ Hai: Thứ Tư",
         "path": "content/books/duong-ve-mien-diu-em/chuong-32.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter24.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter24.mp3"
       },
       {
         "id": "chuong-33",
@@ -1666,42 +1666,42 @@
         "title": "Chương 25",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-34.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter25.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter25.mp3"
       },
       {
         "id": "chuong-35",
         "title": "Chương 26",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-35.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter26.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter26.mp3"
       },
       {
         "id": "chuong-36",
         "title": "Chương 27",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-36.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter27.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter27.mp3"
       },
       {
         "id": "chuong-37",
         "title": "Chương 28",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-37.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter28.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter28.mp3"
       },
       {
         "id": "chuong-38",
         "title": "Chương 29",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-38.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter29.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter29.mp3"
       },
       {
         "id": "chuong-39",
         "title": "Chương 30",
         "part": "Phần II: Rời Pondville • Ngày Thứ Ba: Thứ Năm",
         "path": "content/books/duong-ve-mien-diu-em/chuong-39.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter30.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter30.mp3"
       },
       {
         "id": "chuong-40",
@@ -1715,56 +1715,56 @@
         "title": "Chương 31",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-41.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter31.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter31.mp3"
       },
       {
         "id": "chuong-42",
         "title": "Chương 32",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-42.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter32.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter32.mp3"
       },
       {
         "id": "chuong-43",
         "title": "Chương 33",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-43.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter33.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter33.mp3"
       },
       {
         "id": "chuong-44",
         "title": "Chương 34",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-44.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter34.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter34.mp3"
       },
       {
         "id": "chuong-45",
         "title": "Chương 35",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-45.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter35.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter35.mp3"
       },
       {
         "id": "chuong-46",
         "title": "Chương 36",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-46.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter36.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter36.mp3"
       },
       {
         "id": "chuong-47",
         "title": "Chương 37",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-47.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter37.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter37.mp3"
       },
       {
         "id": "chuong-48",
         "title": "Chương 38",
         "part": "Phần II: Rời Pondville • Ngày Thứ Tư: Thứ Sáu",
         "path": "content/books/duong-ve-mien-diu-em/chuong-48.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter38.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter38.mp3"
       },
       {
         "id": "chuong-49",
@@ -1778,49 +1778,49 @@
         "title": "Chương 39",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-50.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter39.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter39.mp3"
       },
       {
         "id": "chuong-51",
         "title": "Chương 40",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-51.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter40.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter40.mp3"
       },
       {
         "id": "chuong-52",
         "title": "Chương 41",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-52.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter41.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter41.mp3"
       },
       {
         "id": "chuong-53",
         "title": "Chương 42",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-53.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter42.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter42.mp3"
       },
       {
         "id": "chuong-54",
         "title": "Chương 43",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-54.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter43.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter43.mp3"
       },
       {
         "id": "chuong-55",
         "title": "Chương 44",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-55.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter44.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter44.mp3"
       },
       {
         "id": "chuong-56",
         "title": "Chương 45",
         "part": "Phần II: Rời Pondville • Ngày Thứ Năm: Thứ Bảy",
         "path": "content/books/duong-ve-mien-diu-em/chuong-56.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter45.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter45.mp3"
       },
       {
         "id": "chuong-57",
@@ -1834,14 +1834,14 @@
         "title": "Chương 46",
         "part": "Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết",
         "path": "content/books/duong-ve-mien-diu-em/chuong-58.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter46.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter46.mp3"
       },
       {
         "id": "chuong-59",
         "title": "Chương 47",
         "part": "Phần III: Thêm Một Ngày Gần Hơn Đến Hồi Kết",
         "path": "content/books/duong-ve-mien-diu-em/chuong-59.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter47.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter47.mp3"
       },
       {
         "id": "chuong-60",
@@ -1855,14 +1855,14 @@
         "title": "Chương 48",
         "part": "Phần III • Ngày Thứ Sáu: Chủ Nhật",
         "path": "content/books/duong-ve-mien-diu-em/chuong-61.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter48.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter48.mp3"
       },
       {
         "id": "chuong-62",
         "title": "Chương 49",
         "part": "Phần III • Ngày Thứ Sáu: Chủ Nhật",
         "path": "content/books/duong-ve-mien-diu-em/chuong-62.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter49.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter49.mp3"
       },
       {
         "id": "chuong-63",
@@ -1876,28 +1876,28 @@
         "title": "Chương 50",
         "part": "Phần III • Hai Tuần Tiếp Theo",
         "path": "content/books/duong-ve-mien-diu-em/chuong-64.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter50.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter50.mp3"
       },
       {
         "id": "chuong-65",
         "title": "Chương 51",
         "part": "Phần III • Hai Tuần Tiếp Theo",
         "path": "content/books/duong-ve-mien-diu-em/chuong-65.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter51.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter51.mp3"
       },
       {
         "id": "chuong-66",
         "title": "Chương 52",
         "part": "Phần III • Hai Tuần Tiếp Theo",
         "path": "content/books/duong-ve-mien-diu-em/chuong-66.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter52.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter52.mp3"
       },
       {
         "id": "chuong-67",
         "title": "Chương 53",
         "part": "Phần III • Hai Tuần Tiếp Theo",
         "path": "content/books/duong-ve-mien-diu-em/chuong-67.md",
-        "audio": "content/books/duong-ve-mien-diu-em/audio/chapter53.mp3"
+        "audio": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/audio/chapter53.mp3"
       },
       {
         "id": "chuong-68",
@@ -1929,7 +1929,7 @@
       "bilingualEpub": "content/downloads/duong-ve-mien-diu-em-song-ngu.epub"
     },
     "hasAudio": true,
-    "teaser": "content/books/duong-ve-mien-diu-em/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/duong-ve-mien-diu-em/video/teaser.mp4"
   },
   {
     "id": "toi-nguoi-chua-tung-biet-toi-dan-ong",
@@ -2010,7 +2010,7 @@
       "Cổ Điển",
       "Bí Ẩn"
     ],
-    "teaser": "content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/toi-nguoi-chua-tung-biet-toi-dan-ong/video/teaser.mp4"
   },
   {
     "id": "cau-chuyen-nay-co-the-cuu-mang-ban",
@@ -2383,7 +2383,7 @@
       "Lãng Mạn",
       "Bí Ẩn"
     ],
-    "teaser": "content/books/cau-chuyen-nay-co-the-cuu-mang-ban/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/cau-chuyen-nay-co-the-cuu-mang-ban/video/teaser.mp4"
   },
   {
     "id": "chiec-chen-hoen-o",
@@ -8268,7 +8268,7 @@
       "Khoa Học Viễn Tưởng",
       "Phiêu Lưu"
     ],
-    "teaser": "content/books/senlin-vuot-thap/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/senlin-vuot-thap/video/teaser.mp4"
   },
   {
     "id": "canh-tay-nhan-su",
@@ -8607,7 +8607,7 @@
       "Khoa Học Viễn Tưởng",
       "Phiêu Lưu"
     ],
-    "teaser": "content/books/canh-tay-nhan-su/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/canh-tay-nhan-su/video/teaser.mp4"
   },
   {
     "id": "vua-phu-kieu",
@@ -8984,7 +8984,7 @@
       "Phiêu Lưu",
       "Kỳ Ảo"
     ],
-    "teaser": "content/books/vua-phu-kieu/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/vua-phu-kieu/video/teaser.mp4"
   },
   {
     "id": "su-sup-do-cua-thap-babel",
@@ -9453,7 +9453,7 @@
       "Phiêu Lưu",
       "Kỳ Ảo"
     ],
-    "teaser": "content/books/su-sup-do-cua-thap-babel/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/su-sup-do-cua-thap-babel/video/teaser.mp4"
   },
   {
     "id": "the-wedding-people",
@@ -9670,7 +9670,7 @@
       "Tâm Lý",
       "Lãng Mạn"
     ],
-    "teaser": "content/books/the-wedding-people/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/the-wedding-people/video/teaser.mp4"
   },
   {
     "id": "cau-lac-bo-tai-uong",
@@ -10019,7 +10019,7 @@
       "Giật Gân",
       "Lịch Sử"
     ],
-    "teaser": "content/books/cau-lac-bo-tai-uong/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/cau-lac-bo-tai-uong/video/teaser.mp4"
   },
   {
     "id": "giua-hai-ngon-lua",
@@ -10414,6 +10414,6 @@
       "Đen Tối",
       "Kỳ Ảo"
     ],
-    "teaser": "content/books/giua-hai-ngon-lua/video/teaser.mp4"
+    "teaser": "https://pub-96fe040e00e641018903ac7208976e0f.r2.dev/content/books/giua-hai-ngon-lua/video/teaser.mp4"
   }
 ]
