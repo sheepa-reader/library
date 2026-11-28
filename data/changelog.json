@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261128-04",
+    "timestamp": "2026-11-28T17:45:00+07:00",
+    "bookId": "tam-tru-noi-dia-nguc",
+    "bookTitle": "Tạm Trú Nơi Địa Ngục",
+    "type": "video_update",
+    "typeName": "Phát hành Video Teaser",
+    "badgeClass": "badge-video",
+    "title": "Phát hành video Teaser / Giới thiệu tác phẩm Tạm Trú Nơi Địa Ngục (Arthur Rimbaud)",
+    "description": "Chính thức ra mắt video Teaser giới thiệu thi phẩm bất hủ Tạm Trú Nơi Địa Ngục (Une Saison en Enfer) của thần đồng thơ ca Pháp Arthur Rimbaud. Độc giả có thể thưởng thức video trực tiếp ngay trên bìa sách và trang chi tiết tác phẩm."
+  },
+  {
     "id": "log-20261128-03",
     "timestamp": "2026-11-28T16:45:00+07:00",
     "bookId": "quai-dieu-giua-man-dem",
