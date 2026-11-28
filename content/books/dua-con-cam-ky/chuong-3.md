@@ -70,7 +70,7 @@ Kinosaki ngẩng đầu lên với vẻ mặt hoàn toàn nghiêm túc.
 
 Kinosaki im bặt, khiến anh cảm thấy vớt vát lại chút thể diện, thầm hả hê đôi chút vì đã phản bác thành công.
 
-Thực ra, không phải chưa từng có ai ám chỉ rằng anh chẳng có nét nào giống cả bố lẫn mẹ. Nhưng mỗi lần gặp mặt, ông bà nội lại luôn xuýt xoa khen tôi trông y hệt hồi bố Koji còn nhỏ rồi cưng nựng, nên anh chưa từng bận tâm về điều đó.
+Thực ra, không phải chưa từng có ai ám chỉ rằng anh chẳng có nét nào giống cả bố lẫn mẹ. Nhưng mỗi lần gặp mặt, ông bà nội lại luôn xuýt xoa khen anh trông y hệt hồi bố Koji còn nhỏ rồi cưng nựng, nên anh chưa từng bận tâm về điều đó.
 
 Lấy lại tinh thần, anh tiếp tục lật giở album ảnh thì bất ngờ bị kéo tay áo. “Gì thế.”
 
@@ -388,7 +388,7 @@ Cái gì cơ?
 
 Mắt anh chữ O mồm chữ A. Tên này, hết chuyện để nói rồi hay sao mà đến một bệnh viện lần đầu đặt chân tới lại buông ra những lời thế này chứ.
 
-Này, cậu đợi tôi đã chứ, anh vừa định lên tiếng thì Hoàng Tín Nhất đã nở nụ cười thấu hiểu rồi gật đầu, ra hiệu cho hai người lại gần và ghé sát tai vào.
+Này, cậu đợi anh đã chứ, anh vừa định lên tiếng thì Hoàng Tín Nhất đã nở nụ cười thấu hiểu rồi gật đầu, ra hiệu cho hai người lại gần và ghé sát tai vào.
 
 “Quý khách là Takahashi Yuichi-sama phải không ạ? Nếu vậy, tôi sẽ xác nhận lại với Chủ tịch ngay lập tức.”
 
@@ -900,9 +900,9 @@ Vừa bước ra ngoài, anh vừa mở phong bì vừa nhận được, bên tr
 
 Kính gửi Bác sĩ Takeda Wataru, Bác sĩ Kinosaki Kyosuke,
 
-Tôi đã đọc thư của anh. Tôi nghĩ anh có quyền được biết sự thật.
+Anh đã đọc thư của anh. Anh nghĩ anh có quyền được biết sự thật.
 
-Ngày 6 tháng 5, lúc hai giờ chiều. Nếu thuận tiện, tôi sẽ kể cho anh nghe mọi chuyện, xin hãy đến phòng Chủ tịch.
+Ngày 6 tháng 5, lúc hai giờ chiều. Nếu thuận tiện, anh sẽ kể cho anh nghe mọi chuyện, xin hãy đến phòng Chủ tịch.
 
 Nếu không thuận tiện xin hãy liên lạc lại để chúng ta đổi lịch.
 
@@ -1162,7 +1162,7 @@ Thời gian trôi qua từng giây nặng nề, đến hai giờ ba mươi lăm 
 
 Cất cao giọng, gã đàn ông mang nét mặt lai Tây với vẻ hốt hoảng biến dạng đang lao tới. Chính là Ikushima Sohei.
 
-Chẳng thèm liếc mắt nhìn chúng tôi lấy một cái, anh ta chạy xộc tới chỗ Hoàng Tín Nhất, rồi vội vã chạy ra phía sau quầy tiếp tân và quay lại với chùm chìa khóa trên tay.
+Chẳng thèm liếc mắt nhìn hai người lấy một cái, anh ta chạy xộc tới chỗ Hoàng Tín Nhất, rồi vội vã chạy ra phía sau quầy tiếp tân và quay lại với chùm chìa khóa trên tay.
 
 Tất cả mọi người rầm rộ bám theo phía sau khi hai người chạy hộc tốc về phía cuối hành lang.
 

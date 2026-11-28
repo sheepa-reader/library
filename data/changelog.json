@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261128-06",
+    "timestamp": "2026-11-28T22:50:00+07:00",
+    "bookId": "dua-con-cam-ky",
+    "bookTitle": "Đứa Con Cấm Kỵ",
+    "type": "chapter_update",
+    "typeName": "Chuẩn hóa Đại từ & Tái xuất bản",
+    "badgeClass": "badge-chapter",
+    "title": "Hiệu đính toàn diện đại từ nhân xưng tác phẩm Đứa Con Cấm Kỵ (Yamaguchi Mio)",
+    "description": "Cập nhật lại toàn bộ nội dung đọc online và file tải về EPUB cho tiểu thuyết trinh thám y khoa Đứa Con Cấm Kỵ. Toàn bộ hệ thống ngôi kể và đại từ nhân xưng đã được chuẩn hóa đồng bộ sang ngôi thứ ba (Anh / Wataru), bám sát nguyên tác tiếng Nhật của tác giả Yamaguchi Mio, mang lại trải nghiệm đọc chân thực và cuốn hút nhất."
+  },
+  {
     "id": "log-20261128-05",
     "timestamp": "2026-11-28T20:35:00+07:00",
     "bookId": "dua-con-cam-ky",

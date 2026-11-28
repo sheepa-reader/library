@@ -302,7 +302,7 @@ Kanayama Ayano lại cất cao giọng, nhưng rồi đáp lại một tiếng �
 
 Với một tiếng ra lệnh giải tán tạm thời, mọi người hãy quay lại công việc của mình đi của Ikushima Sohei, từng người một bước ra khỏi phòng với những bước chân nặng trịch.
 
-Ikushima Sohei đứng tiễn tấm lưng của những người đang rời đi rồi quay người lại, liếc nhìn về phía này. Anh ta dẫn chúng tôi sang góc phòng cùng Kinosaki. Trái ngược với vẻ mặt đầy suy tư, giọng điệu của anh ta tương đối bình tĩnh.
+Ikushima Sohei đứng tiễn tấm lưng của những người đang rời đi rồi quay người lại, liếc nhìn về phía này. Anh ta dẫn hai người sang góc phòng cùng Kinosaki. Trái ngược với vẻ mặt đầy suy tư, giọng điệu của anh ta tương đối bình tĩnh.
 
 “Sau khi khám nghiệm xong, liệu các anh có thể cho tôi biết những gì đã tìm ra được không?... À với lại, tôi còn một việc muốn nhờ nữa.”
 
@@ -332,7 +332,7 @@ Sôhei bày tỏ sự biết ơn với vẻ mặt rõ ràng đã trút được 
 
 Sôhei giương gương mặt ngớ ra như bị ma trêu. “Hả? À... chỉ có máy tính trong phòng chủ tịch thôi. Máy tính phòng chủ tịch là đồ tư của mẹ tôi mà... Còn máy tính ở các phòng khám khác đều chỉ là bệnh án điện tử đơn thuần. Để coi trọng tính bảo mật, chúng tôi không nối mạng internet vào hệ thống bệnh án.”
 
-Kinosaki gật đầu bảo đã rõ, Sôhei nói nhanh “cứ tùy ý trong khả năng không gượng ép là được,” rồi dúi chiếc thẻ an ninh vào tay bọn tôi bảo chốc nữa trả lại cũng được, đoạn bước thẳng ra cửa. Có vẻ như cầm thẻ này thì có thể ra vào cả lối đi dành cho nhân viên.
+Kinosaki gật đầu bảo đã rõ, Sôhei nói nhanh “cứ tùy ý trong khả năng không gượng ép là được,” rồi dúi chiếc thẻ an ninh vào tay hai người bảo chốc nữa trả lại cũng được, đoạn bước thẳng ra cửa. Có vẻ như cầm thẻ này thì có thể ra vào cả lối đi dành cho nhân viên.
 
 Tiễn tấm lưng mang dáng dấp có phần không giống người Nhật ấy đi khuất, anh thì thầm vào tai Kinosaki.
 
@@ -512,11 +512,11 @@ Vừa định gật đầu “Vâng, đại loại là thế,” anh đưa tay g
 
 Đội ngũ cảnh sát vừa kéo đến gồm chừng mười mấy người, người chịu trách nhiệm mang cấp bậc thanh tra tập sự thuộc đội hình sự đồn Fukushima, tên là Fukuyama. Một người đàn ông da ngăm đen, cằm bạnh, ánh mắt sắc lẹm đan xen tóc bạc, chắcạc chừng tuổi bốn mươi. Trông anh ta đích thị là hình mẫu cảnh sát mặt sắt đen sì thường thấy. Đồng hành cùng Fukuyama là một viên cảnh sát trẻ tên Wakasa, một thanh niên mang kính trông như dân tri thức. Cậu ta có lẽ vẫn chưa vượt ngưỡng đôi mươi.
 
-Sau khi cùng Ikushima Sohei hợp tác khai báo mọi chuyện, nhờ sở hữu bằng chứng ngoại phạm vững như bàn thạch cùng động cơ gây án hoàn toàn không tồn tại, thái độ của phía cảnh sát đối với chúng tôi cũng trở nên ôn hòa hơn đáng kể. Thế nhưng, khi nghe nói với tư cách là nhân chứng, lát nữa bọn họ sẽ phải nộp cả dấu vân tay, anh lại thấy căng thẳng một cách kỳ lạ.
+Sau khi cùng Ikushima Sohei hợp tác khai báo mọi chuyện, nhờ sở hữu bằng chứng ngoại phạm vững như bàn thạch cùng động cơ gây án hoàn toàn không tồn tại, thái độ của phía cảnh sát đối với hai người cũng trở nên ôn hòa hơn đáng kể. Thế nhưng, khi nghe nói với tư cách là nhân chứng, lát nữa bọn họ sẽ phải nộp cả dấu vân tay, anh lại thấy căng thẳng một cách kỳ lạ.
 
 Giống như bác sĩ, cảnh sát cũng có sự phân chia chuyên môn rõ rệt; người chuyên bảo vệ hiện trường, nhân viên tổ giám định, người chuyên phụ trách lấy lời khai... họ chia nhau ra để đẩy nhanh tiến độ điều tra. Sau khi bàn bạc, cả hai quyết định sẽ ở lại hiện trường để hỗ trợ tổ giám định tiến hành khám nghiệm tử thi. Đến bước này thì mọi chuyện hoàn toàn diễn ra theo đúng tính toán của Kinosaki.
 
-Người ra đón tiếp chúng tôi trong phòng chủ tịch là một nhân viên giám định tầm mươi tuổi, dáng người hơi tròn trịa, ánh mắt hiền lành thân thiện tên là Munakata. Trông có vẻ là người đứng đầu, trong khi vài thanh niên còn lại đang cặm cụi lấy dấu vân tay hay say sưa chụp ảnh lại những vật chứng như gói thuốc hay chiếc thắt lưng mà chúng tôi vừa xác nhận lúc nãy.
+Người ra đón tiếp hai người trong phòng chủ tịch là một nhân viên giám định tầm mươi tuổi, dáng người hơi tròn trịa, ánh mắt hiền lành thân thiện tên là Munakata. Trông có vẻ là người đứng đầu, trong khi vài thanh niên còn lại đang cặm cụi lấy dấu vân tay hay say sưa chụp ảnh lại những vật chứng như gói thuốc hay chiếc thắt lưng mà hai người vừa xác nhận lúc nãy.
 
 Trong lòng anh lúc đầu vô cùng căng thẳng, sợ rằng sẽ bị mắng vì đã tự ý di chuyển thi thể, ngặt nỗi nhân viên giám định lại tỏ ra vô cùng ghi nhận công sức hồi sức của họ.
 
@@ -768,7 +768,7 @@ Chẳng biết phải đáp lại thế nào, anh chỉ đành thốt lên câu:
 
 Cuối cùng, Midorikawa cũng nở nụ cười nhẹ, khiến anh cảm thấy nhẹ nhõm hơn đôi chút.
 
-Đúng lúc đó, tiếng cửa mở vang lên, cả ba cùng đứng dậy bước ra khỏi khu vực vách ngăn. Akasaka vừa hay bước lướt qua trước mặt họ. Người vừa xuất hiện từ phòng khám số 4 chính là viên cảnh sát trẻ mang kính, Wakasa. Cậu ta mỉm cười giơ tay chào chúng tôi một cách nhẹ nhàng.
+Đúng lúc đó, tiếng cửa mở vang lên, cả ba cùng đứng dậy bước ra khỏi khu vực vách ngăn. Akasaka vừa hay bước lướt qua trước mặt họ. Người vừa xuất hiện từ phòng khám số 4 chính là viên cảnh sát trẻ mang kính, Wakasa. Cậu ta mỉm cười giơ tay chào hai người một cách nhẹ nhàng.
 
 “Cậu Kuroda vẫn ở gần đây chứ? Vừa nãy cậu ấy có nhắc đến việc đang giữ hóa đơn. Chúng tôi muốn xác minh vật thật.”
 
@@ -1068,7 +1068,7 @@ Nếu Akasaka có mặt ở đây thì chắc chắn anh ta đang ở tầng ba,
 
 Tầng ba bao gồm cơ sở nuôi cấy phôi, cơ sở điều chỉnh và nghiên cứu tinh trùng, thiết bị xét nghiệm máu, cùng phòng thay đồ và phòng nghỉ nhân viên. Khác hẳn với tầng một và tầng hai, tầng ba mang một vẻ hoang vắng đến lạnh lẽo, nội thất mang hơi hướng bệnh viện đại học quen thuộc được chiếu sáng bởi thứ ánh sáng vô cơ. Sàn nhà lót nhựa vinyl thoang thoảng mùi cresol xộc thẳng vào mũi.
 
-Khi gõ cửa phòng nghiên cứu, một phản ứng chậm chạp vang lên và Akasaka trong chiếc áo blouse đã mở cửa. Đôi mắt đỏ ngầu, trên má vẫn còn vương vết nước mắt khiến anh ta trông già đi trước tuổi đến ngỡ ngàng. Trông thấy chúng tôi, Akasaka chẳng mảy tỏ vẻ khó chịu mà thản nhiên mời bước vào phòng, miệng không quên chào hỏi “Vất vả rồi hai cậu.”
+Khi gõ cửa phòng nghiên cứu, một phản ứng chậm chạp vang lên và Akasaka trong chiếc áo blouse đã mở cửa. Đôi mắt đỏ ngầu, trên má vẫn còn vương vết nước mắt khiến anh ta trông già đi trước tuổi đến ngỡ ngàng. Trông thấy hai người, Akasaka chẳng mảy tỏ vẻ khó chịu mà thản nhiên mời bước vào phòng, miệng không quên chào hỏi “Vất vả rồi hai cậu.”
 
 Không gian bên trong lộn xộn và chật hẹp hơn tưởng tượng, thoang thoảng mùi hóa chất lẫn mùi giấy cũ. Trong không gian mờ ảo là hàng loạt giá sách chất đầy tài liệu, bàn thí nghiệm cùng vài chiếc máy tính, trên bàn còn trang bị hẳn một chiếc kính hiển vi.
 
@@ -1198,7 +1198,7 @@ Hoàng Tín Nhất đáp lại mà chẳng hề mảy may đổi sắc mặt, r�
 
 “Vậy tôi xin đi thẳng vào vấn đề. Từ mười một giờ rưỡi cho đến một giờ rưỡi, anh đã làm gì ở đâu? Thêm nữa, anh có nhìn thấy kẻ nào khả nghi xuất hiện không?”
 
-Dẫu cho anh ta có nổi giận mắng mỏ rằng chúng tôi chẳng phải cảnh sát mà sao lại dám hỏi những điều này thì cũng là chuyện đương nhiên, nhưng Hoàng Tín Nhất lại đáp lời bất ngờ thẳng thắn. Có lẽ anh ta nghĩ rằng việc cứ hạch sách đôi co từng chuyện một sẽ chỉ rước thêm phiền phức vào người.
+Dẫu cho anh ta có nổi giận mắng mỏ rằng hai người chẳng phải cảnh sát mà sao lại dám hỏi những điều này thì cũng là chuyện đương nhiên, nhưng Hoàng Tín Nhất lại đáp lời bất ngờ thẳng thắn. Có lẽ anh ta nghĩ rằng việc cứ hạch sách đôi co từng chuyện một sẽ chỉ rước thêm phiền phức vào người.
 
 “Cho đến mười một giờ rưỡi, tôi vẫn làm việc ở đây, còn từ mười một giờ rưỡi đến mười hai giờ, tôi đổi ca cho nhân viên khác và nghỉ giải lao tại phòng nghỉ nhân viên ở tầng ba. Đúng vậy, tôi đã gặp vài người nên có thể chứng thực được điều đó. Sau khi quay lại quầy tiếp tân, tôi túc trực ở đây suốt nhưng hoàn toàn không thấy bóng dáng kẻ khả nghi nào cả.”
 
@@ -1220,7 +1220,7 @@ Vừa dứt lời đáp, Hoàng Tín Nhất cầm ống nghe lên với vẻ m�
 
 “À, tôi quên mất, xin bổ sung thêm một điều nữa.”
 
-Vừa dứt lời, Kinosaki liền cất tiếng khiến Hoàng Tín Nhất khựng lại động tác, trừng mắt nhìn thẳng về phía chúng tôi. “Chuyện gì nữa đây?”
+Vừa dứt lời, Kinosaki liền cất tiếng khiến Hoàng Tín Nhất khựng lại động tác, trừng mắt nhìn thẳng về phía hai người. “Chuyện gì nữa đây?”
 
 “Hoàng này, chẳng phải anh vốn không có chút cảm tình nào với Takahashi, kẻ có gương mặt trông y đúc như Takeda, phải không? Hay là anh đã biết trước những chuyện được bàn tán trong phòng chủ tịch rồi?”
 
@@ -1232,7 +1232,7 @@ Từng câu chữ được lựa chọn vô cùng cẩn trọng, và sự bình 
 
 Chỉ có một điều duy nhất giờ đây anh đã nắm rõ. Đúng như bọn họ từng suy đoán qua câu nói mơ hồ “đã thỏa thuận xong”, việc Takahashi từng đặt chân đến đây quả thực không chỉ diễn ra một lần duy nhất.
 
-Khi gõ cửa phòng khám số 3, Ikushima Sohei đã tự tay mở cửa lùa và mời chúng tôi bước vào. Cấu trúc bên trong hoàn toàn y hệt phòng khám số 4 mà chúng tôi vừa mới được lấy lời khai khi nãy. Qua bức cửa lùa, không gian phía sau thông liền với khu vực làm việc kiêm lối đi dành cho nhân viên, đường di chuyển hoàn toàn giống với phòng khám của các bệnh viện thông thường chứ không hề có thiết kế nào khác lạ. Tại phòng số 4 bên cạnh, quá trình lấy lời khai hẳn vẫn đang diễn ra, nhưng chúng tôi hoàn toàn không nghe thấy âm thanh nào lọt ra ngoài.
+Khi gõ cửa phòng khám số 3, Ikushima Sohei đã tự tay mở cửa lùa và mời hai người bước vào. Cấu trúc bên trong hoàn toàn y hệt phòng khám số 4 mà hai người vừa mới được lấy lời khai khi nãy. Qua bức cửa lùa, không gian phía sau thông liền với khu vực làm việc kiêm lối đi dành cho nhân viên, đường di chuyển hoàn toàn giống với phòng khám của các bệnh viện thông thường chứ không hề có thiết kế nào khác lạ. Tại phòng số 4 bên cạnh, quá trình lấy lời khai hẳn vẫn đang diễn ra, nhưng hai người hoàn toàn không nghe thấy âm thanh nào lọt ra ngoài.
 
 “Cảm ơn các anh rất nhiều vì đã hợp tác. Xin mời ngồi đây.”
 
@@ -1274,7 +1274,7 @@ Trước câu hỏi của Kinosaki, Sohei thoáng chốc ngập ngừng, ra đi�
 
 Cái tên Taiga từng xuất hiện trong nội dung tin nhắn chính là đứa trẻ này sao. Vừa thốt lên lời xin lỗi, Ikushima Sohei vừa quay ngoắt người đi, dùng chiếc khăn tay để lau vội khóe mắt đang ướt đẫm. “Xin lỗi các anh, đầu óc tôi lúc này vẫn chưa tài nào tiếp nhận nổi thực tại. Thật xấu hổ khi để các anh chứng kiến cảnh tượng này.”
 
-Người bạn của tôi, kẻ sở hữu tài năng xoa dịu những tâm hồn đang tổn thương tài tình đến mức tựa như ác quỷ, bèn đứng dậy, đưa tay vỗ về tấm lưng Ikushima Sohei và nhẹ nhàng an ủi. Khi những giọt nước mắt của Ikushima Sohei dần lắng xuống, Kinosaki liền chớp lấy thời cơ xin phép đặt câu hỏi.
+Người bạn của anh, kẻ sở hữu tài năng xoa dịu những tâm hồn đang tổn thương tài tình đến mức tựa như ác quỷ, bèn đứng dậy, đưa tay vỗ về tấm lưng Ikushima Sohei và nhẹ nhàng an ủi. Khi những giọt nước mắt của Ikushima Sohei dần lắng xuống, Kinosaki liền chớp lấy thời cơ xin phép đặt câu hỏi.
 
 “Lần cuối cùng anh gặp bác sĩ Kyoko là khi nào? Liệu có điều gì bất thường không?”
 
@@ -1302,7 +1302,7 @@ Dẫu biết đây là chuyện riêng tư nên anh rất áي ngại, nhưng n�
 
 “Vậy tại sao hai anh lại muốn gặp mẹ tôi?”
 
-Biểu cảm của Ikushima Sohei vô cùng cứng nhắc. Ra là vậy, phe bên kia cũng đang ngấm ngầm dò la chúng tôi đây mà.
+Biểu cảm của Ikushima Sohei vô cùng cứng nhắc. Ra là vậy, phe bên kia cũng đang ngấm ngầm dò la hai người đây mà.
 
 Đến bước này, việc nên tiết lộ đến mức độ nào khiến anh có chút do dự. Anh liếc sang Kinosaki, và cậu ấy khẽ gật đầu một cái.
 

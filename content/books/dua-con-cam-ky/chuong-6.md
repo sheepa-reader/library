@@ -832,7 +832,7 @@ Cổ họng anh nghẹn đắng. Erika vẫn im lặng cúi gằm mặt.
 
 “Vậy, bây giờ chúng ta hãy thử tưởng tượng dưới góc độ của Nakagawa Shinya xem sao. Có được tên của ba người sinh ra từ năm phôi nang, hắn sẽ làm gì? Một kẻ thiếu thốn tình cảm lẫn sự kết nối như hắn, việc muốn tìm hiểu về những người anh chị em chưa từng gặp mặt là điều hết sức tự nhiên. Việc đầu tiên hắn làm chắc chắn là tìm kiếm tên của hai người. Thời đại bây giờ có cả mạng xã hội dùng tên thật, bệnh viện cũng đăng tải tên bác sĩ lên mà.”
 
-Và thế là, Nakagawa Shinya đã biết ư? Về chúng tôi.
+Và thế là, Nakagawa Shinya đã biết ư? Về hai người.
 
 “Ban đầu có lẽ hắn chỉ tò mò chứ không mang ác ý gì lớn. Thế nhưng, hắn đã biết được rằng Takeda-kun và Erika-san đang sống hạnh phúc. Được bao bọc trong tình yêu thương của cha mẹ, trải qua những năm tháng học sinh bình thường, tận hưởng các câu lạc bộ, kết hôn và sắp sinh con.
 
@@ -1138,7 +1138,7 @@ Về chuyện xảy ra sau khi ra tay, anh đã chuẩn bị sẵn tinh thần r
 
 Dù nghĩ thế nào thì chiếc BMW của Kinosaki cũng rất khó xử lý. Thế nên, anh định cùng thi thể của cậu ta lái thẳng chiếc xe lao xuống vùng biển sâu nào đó. Sẽ thật hoàn hảo nếu cả hai được xem như mất tích.
 
-Xin lỗi nhé, Kinosaki. Đã lôi cậu vào chuyện này, thật xin lỗi. Tôi cũng sẽ đuổi theo ngay đây thôi.
+Xin lỗi nhé, Kinosaki. Đã lôi cậu vào chuyện này, thật xin lỗi. Anh cũng sẽ đuổi theo ngay đây thôi.
 
 Chỉ cần Erika và đứa con trong bụng được sống sót, thế là đủ.
 
@@ -1302,7 +1302,7 @@ Yashiro bảo hai vợ chồng hãy bàn bạc lại với nhau, rồi viện c�
 
 Âm thanh tút tút ngắt quãng vang lên trong không gian tĩnh lặng.
 
-Hành vi của Kanayama suy cho cùng thế nào đi nữa cũng là bất thường. Nhưng nếu là một kẻ đã ngấm ngầm thực hiện những hành vi trừng phạt tha nhân dựa trên một cái tôi lệch lạc và méo mó, thì cô ta hoàn toàn có khả năng làm ra chuyện đó, và logic hành động của cô ta cũng hoàn toàn nhất quán theo cách riêng của mình.
+Hành vi của Kanayama suy cho cùng thế nào đi nữa cũng là bất thường. Nhưng nếu là một kẻ đã ngấm ngầm thực hiện những hành vi trừng phạt tha nhân dựa trên một cái anh lệch lạc và méo mó, thì cô ta hoàn toàn có khả năng làm ra chuyện đó, và logic hành động của cô ta cũng hoàn toàn nhất quán theo cách riêng của mình.
 
 “Hiện tại, mọi chuyện có thật không? Những gì Kanayama nói có chính xác không, Erika?”
 
@@ -1324,7 +1324,7 @@ Anh hít một hơi. “Cái gì cơ!”
 
 Cô đã từng gặp bác sĩ Ikushima Kyoko rồi phải không?
 
-...Tôi chưa từng gặp, có chuyện gì sao ạ?
+...Anh chưa từng gặp, có chuyện gì sao ạ?
 
 Dù có chút ngập ngừng trong giây lát, nhưng Erika vẫn điềm tĩnh đáp lời, và cuộc trò chuyện kết thúc ngay sau đó.
 
@@ -1398,7 +1398,7 @@ Anh không nói nên lời. Tiếng Erika nuốt nước bọt vang lên rõ m�
 
 “Dẫu sự việc được xử lý như một vụ tai nạn, nhưng tôi vẫn không sao gạt bỏ được suy nghĩ rằng nỗi bất an của cô bé ấy hoàn toàn không liên quan gì đến thảm kịch đó. Chính vào khoảnh khắc ấy, lần đầu tiên tôi nhận thức được rằng trên thế giới này tồn tại những thứ gọi là tàn dư của cảm xúc mà logic thông thường không thể đong đếm được, và chính những thứ đó đôi khi lại đẩy con người ta vào bước đường cùng của cái chết.”
 
-Gương mặt nghiêng của người bạn được rọi sáng bởi ánh đèn vàng phảng phất nét u ám, khiến anh có cảm giác như mình vừa thoáng nhìn thấy sự cô độc trong thế giới mà Kinosaki đang sinh sống. Tôi muốn tìm hiểu tận cùng những cuộn sóng cảm xúc ẩn sâu trong vụ án này.
+Gương mặt nghiêng của người bạn được rọi sáng bởi ánh đèn vàng phảng phất nét u ám, khiến anh có cảm giác như mình vừa thoáng nhìn thấy sự cô độc trong thế giới mà Kinosaki đang sinh sống. Anh muốn tìm hiểu tận cùng những cuộn sóng cảm xúc ẩn sâu trong vụ án này.
 
 Phải chăng khát khao thôi thúc Kinosaki dấn thân vào những bí ẩn chính là hành vi bản thân cậu ta, một kẻ mang những cảm xúc chẳng giống người thường, đang cố gắng xích lại gần hơn với thế giới loài người?
 

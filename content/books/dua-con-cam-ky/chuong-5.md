@@ -140,7 +140,7 @@ Lồng ngực anh như thắt lại nghẹt thở. Chẳng lẽ anh phải tự 
 
 “……Dù gọi là cấy phôi nang, nhưng suy cho cùng vì đã cấy vào tử cung nên giữa tôi và mẹ, chúng tôi đã từng được kết nối bằng dây rốn, phải không?”
 
-Đó là một sự níu kéo đầy tuyệt vọng với sợi dây liên kết mong manh với người mẹ mà anh vừa mới nghĩ ra. Người bạn của tôi,
+Đó là một sự níu kéo đầy tuyệt vọng với sợi dây liên kết mong manh với người mẹ mà anh vừa mới nghĩ ra. Người bạn của anh,
 
 “Đúng vậy. Dù khác biệt về mặt di truyền, nhưng hai người chắc chắn là mẹ con ruột thịt có gắn kết máu mủ.”
 
@@ -150,7 +150,7 @@ Trong cái đầu đang tê liệt vì cú sốc, nỗi buồn và sự phẫn n
 
 Lúc được cảnh sát thả ra và bước chân ra khỏi bệnh viện thì đồng hồ đã điểm hơn chín giờ tối.
 
-Rốt cuộc, ngay tại thời điểm đó, chúng tôi vẫn chưa đưa ra được kết luận cuối cùng về việc có tiến hành giám định ADN hay không. Kinosaki tạm thời mang chiếc ống đi, và quyết định rằng một khi đã thực sự định đoạt được tâm can, cậu sẽ mang theo cả mẫu tóc của mẹ, Takeda Miyuki, đến bệnh viện rồi gửi bưu điện cho công ty dịch vụ.
+Rốt cuộc, ngay tại thời điểm đó, hai người vẫn chưa đưa ra được kết luận cuối cùng về việc có tiến hành giám định ADN hay không. Kinosaki tạm thời mang chiếc ống đi, và quyết định rằng một khi đã thực sự định đoạt được tâm can, cậu sẽ mang theo cả mẫu tóc của mẹ, Takeda Miyuki, đến bệnh viện rồi gửi bưu điện cho công ty dịch vụ.
 
 Đường về nhà đi bộ từ ga tàu se lạnh. Trong bóng tối, ánh đèn từ ngôi nhà trông giống như ngọn hải đăng vậy.
 
@@ -380,7 +380,7 @@ Dù sao thì cũng nhân cơ hội này, anh quyết định hỏi thử phía m
 
 “Hừm. Thú thật là vì tôi chỉ làm thuê thời vụ nên các mối quan hệ nhân sự trong nội bộ tôi chẳng nắm được gì đâu. Chỉ là…… ừm thì…… dẫu cho các phạm vi áp dụng bảo hiểm trong điều trị hiếm muộn năm ngoái đã được mở rộng, nhưng vẫn có những giới hạn về độ tuổi hay số lần, nên cũng có nhiều người không chịu từ bỏ. Có lẽ cũng có người ôm hận chăng.”
 
-Mà, gạt chuyện điều trị sang một bên thì tôi cũng đang trong giai đoạn tiến đến hôn nhân cơ mà, cô ấy ngượng ngùng mỉm cười. Vì có hẹn vào giờ nghỉ trưa, biết đâu cô ấy sẽ đi ăn cùng người thương của mình cũng nên.
+Mà, gạt chuyện điều trị sang một bên thì anh cũng đang trong giai đoạn tiến đến hôn nhân cơ mà, cô ấy ngượng ngùng mỉm cười. Vì có hẹn vào giờ nghỉ trưa, biết đâu cô ấy sẽ đi ăn cùng người thương của mình cũng nên.
 
 Tiễn Yamada bước ra khỏi phòng khám, Sohei liền liên lạc yêu cầu hai người đến phòng khám số 3. Khi mở cửa bước vào, cũng giống như Yamada, Sohei đứng phắt dậy cúi đầu chào. Hôm nay anh ta cũng mặc bộ scrubs tương tự và khoác áo blouse trắng. So với ngày Kyoko vướng vào cái chết tức tưởi ấy, sắc mặt anh ta có vẻ khá hơn chút ít, nhưng nỗi thống khổ hằn sâu trên gương mặt lai Tây lại có vẻ càng tăng thêm.
 
@@ -428,7 +428,7 @@ Cùng Kinosaki nhìn nhau, cả hai lập tức gật đầu. Sohei lúc này m�
 
 Nhìn kỹ lại, dưới chiếc bàn khám đặt hệ thống bệnh án điện tử có một chiếc thùng các-tông, và Sohei đã kéo nó ra. “Tôi đã mang tang vật đến đây. Chính là cái này.”
 
-Xác nhận bằng ánh mắt thấy Sohei gật đầu, tôi hiểu rằng mình được phép mở nó ra, liền đưa tay chạm vào chiếc thùng. Ngay khoảnh khắc nắp thùng được mở ra, mùi giấy cổ phảng phất bay lên.
+Xác nhận bằng ánh mắt thấy Sohei gật đầu, anh hiểu rằng mình được phép mở nó ra, liền đưa tay chạm vào chiếc thùng. Ngay khoảnh khắc nắp thùng được mở ra, mùi giấy cổ phảng phất bay lên.
 
 Năm 1989, năm 1990, năm 1991…….
 
@@ -594,11 +594,11 @@ Sau thời điểm Midorikawa rời bệnh viện là lúc các chuyển động
 
 Lúc một giờ năm mươi lăm phút. Bộ đôi với diện mạo quen thuộc bước vào trong viện.
 
-Lúc hai giờ mười lăm phút, gần như trùng khớp với thời điểm Kuroda bước vào phòng khám, bộ đôi với sắc mặt tái mét hộc tốc lao vụt ra từ bên trong. Đó chính là khoảnh khắc chúng tôi chạy đi kiểm tra khung cửa sổ. Ngay sau đó Midorikawa bước vào trong viện, và một chốc sau khi chúng tôi quay trở lại bên trong thì Akasaka bước ra từ 'Magenta', rồi khuất dạng ngay cửa vào.
+Lúc hai giờ mười lăm phút, gần như trùng khớp với thời điểm Kuroda bước vào phòng khám, bộ đôi với sắc mặt tái mét hộc tốc lao vụt ra từ bên trong. Đó chính là khoảnh khắc hai người chạy đi kiểm tra khung cửa sổ. Ngay sau đó Midorikawa bước vào trong viện, và một chốc sau khi hai người quay trở lại bên trong thì Akasaka bước ra từ 'Magenta', rồi khuất dạng ngay cửa vào.
 
 Lúc hai giờ ba mươi lăm phút, Sohei bước xuống từ taxi rồi lao vào viện, theo sau ngay sát là Kanayama. Một lúc sau khi Kanayama bước vào, một người phụ nữ, có lẽ là người tên Yagi mà Hoàng đã liên lạc, quay trở lại, cô bắt đầu cùng các nhân viên khác đứng ngoài cửa an ủi những vị bệnh nhân đang hoang mang vì phòng khám mãi vẫn chưa mở cửa dù đã đến giờ. Người cuối cùng bước vào trong viện chính là Kanayama.
 
-Để sắp xếp lại suy nghĩ, tôi đưa mắt nhìn xuống cuốn sổ tay vừa ghi chép xong.
+Để sắp xếp lại suy nghĩ, anh đưa mắt nhìn xuống cuốn sổ tay vừa ghi chép xong.
 
 Midorikawa…… Rời đi lúc 12:45　Quay lại lúc 2:16
 
@@ -626,15 +626,15 @@ Nhìn Sohei gật đầu với vẻ mặt đăm chiêu, Kinosaki cất lời.
 
 “Ngoài chuyện đó ra, còn rất nhiều điểm khó hiểu khác.”
 
-Vừa dứt lời, cậu ta liền khoanh tay đăm chiêu trầm ngâm điều gì đó, rồi bất ngờ hướng câu hỏi sang tôi: “Cậu có nắm được động tĩnh của mọi người vào đêm ngày 16 tháng 4 không?” Lại là màn kiểm tra bằng chứng ngoại phạm cho vụ án đầu tiên đây mà.
+Vừa dứt lời, cậu ta liền khoanh tay đăm chiêu trầm ngâm điều gì đó, rồi bất ngờ hướng câu hỏi sang anh: “Cậu có nắm được động tĩnh của mọi người vào đêm ngày 16 tháng 4 không?” Lại là màn kiểm tra bằng chứng ngoại phạm cho vụ án đầu tiên đây mà.
 
 “Ngày 16 tháng 4 ư?” Sohei trưng ra bộ mặt ngơ ngác như gà mắc tóc, nhưng rồi anh ta lật lật cuốn sổ tay của mình và thì thầm “Tìm thấy rồi.”
 
 “Vào ngày hôm đó, tôi tham dự một buổi hội thảo chuyên đề được tổ chức tại 'Hotel Grand Koshien' cho đến tận khoảng mười rưỡi tối đấy chứ.”
 
-Tôi giật mình ngạc nhiên trước thông tin vừa được thả lỏng một cách vô tình.
+Anh giật mình ngạc nhiên trước thông tin vừa được thả lỏng một cách vô tình.
 
-'Hotel Grand Koshien'? Chẳng phải cách bãi biển Narumiya chỉ trong gang tấc thôi sao? Đi xe chắc chưa tới mười phút là đến nơi. Tôi thậm chí còn chồm người lên hơn cả Kinosaki.
+'Hotel Grand Koshien'? Chẳng phải cách bãi biển Narumiya chỉ trong gang tấc thôi sao? Đi xe chắc chưa tới mười phút là đến nơi. Anh thậm chí còn chồm người lên hơn cả Kinosaki.
 
 “Buổi hội thảo đó, có lẽ nào Kyoko-sensei cũng tham dự không?”
 
@@ -656,7 +656,7 @@ Sohei vốn đang mang vẻ mặt ngạc nhiên, nhưng sau khi nghe Kinosaki gi
 
 “Cảnh sát đang tiến hành điều tra đến đâu rồi? Còn vụ email thì sao?”
 
-Khi tôi cất tiếng hỏi lúc chuẩn bị rời đi vì đã hoàn thành xong xuôi mọi việc, Sohei nhún vai thở dài. Động tác ấy trông hệt như một diễn viên phim truyền hình nước ngoài và khá hợp với anh ta.
+Khi anh cất tiếng hỏi lúc chuẩn bị rời đi vì đã hoàn thành xong xuôi mọi việc, Sohei nhún vai thở dài. Động tác ấy trông hệt như một diễn viên phim truyền hình nước ngoài và khá hợp với anh ta.
 
 “Chẳng có tiến triển gì mấy. Máy tính của mẹ cũng bị tịch thu luôn rồi, chẳng có thông tin chi tiết nào lọt ra cả. Dường như thanh tra Fukuyama vẫn muốn khép lại vụ án theo hướng tự sát.”
 
@@ -666,31 +666,31 @@ Khi tôi cất tiếng hỏi lúc chuẩn bị rời đi vì đã hoàn thành x
 
 “Dấu vân tay?”
 
-Tôi bất giác hỏi vặn lại. Vấn đề đó thì có liên quan gì chứ?
+Anh bất giác hỏi vặn lại. Vấn đề đó thì có liên quan gì chứ?
 
 “Cả bàn làm việc lẫn tay nắm cửa trong phòng chủ tịch đều có dấu hiệu từng được lau chùi sạch sẽ, và dấu vân tay của chính mẹ hoàn toàn không bị phát hiện.”
 
 “……Nói cách khác, có kẻ nào đó đã lau sạch dấu vân tay để phi tang dấu vết, nên ngay cả dấu vân tay của Kyoko-sensei cũng bị xóa sạch theo. Khả năng cao là vậy, đúng không?”
 
-Vâng, Sohei đáp gọn lỏn. Fukuyama tuyệt đối không phải là một viên cảnh sát vô dụng. Cầu mong sao cuộc điều tra sẽ có bước tiến triển mới, chúng tôi cùng nhau rời khỏi phòng khám.
+Vâng, Sohei đáp gọn lỏn. Fukuyama tuyệt đối không phải là một viên cảnh sát vô dụng. Cầu mong sao cuộc điều tra sẽ có bước tiến triển mới, hai người cùng nhau rời khỏi phòng khám.
 
-Kết quả giám định ADN dự kiến sẽ được gửi đến vào ngày thứ Tư, 17 tháng 5. Càng đến gần ngày X-day, cảm giác bất an và bứt rứt khó tả, giống như có thứ gì đó thôi thúc muốn cào xé lồng ngực, lại càng dâng trào mạnh mẽ hơn trong tôi.
+Kết quả giám định ADN dự kiến sẽ được gửi đến vào ngày thứ Tư, 17 tháng 5. Càng đến gần ngày X-day, cảm giác bất an và bứt rứt khó tả, giống như có thứ gì đó thôi thúc muốn cào xé lồng ngực, lại càng dâng trào mạnh mẽ hơn trong anh.
 
 ――Sắp trả kết quả rồi. Cuối cùng thì câu trả lời cũng sẽ ngã ngũ.
 
 “Sensei, hôm nay trông sắc mặt anh tệ lắm đấy. Không ngủ được phải không, nghỉ ngơi một lát đi chứ.”
 
-Ngày 17 tháng 5. Dù trời vẫn còn đang buổi sáng, nhưng hễ cứ có cơ hội là tôi lại lén lút mở điện thoại ra xem rồi thở dài ôm đầu, có lẽ vì chứng kiến cảnh tượng đó quá rõ ràng nên Komiyama đã cất tiếng nhắc nhở.
+Ngày 17 tháng 5. Dù trời vẫn còn đang buổi sáng, nhưng hễ cứ có cơ hội là anh lại lén lút mở điện thoại ra xem rồi thở dài ôm đầu, có lẽ vì chứng kiến cảnh tượng đó quá rõ ràng nên Komiyama đã cất tiếng nhắc nhở.
 
-Vừa cảm ơn vừa nở nụ cười biết ơn, tôi lại lén lút dán mắt vào hộp thư đến. Vẫn chưa thấy gửi tới.
+Vừa cảm ơn vừa nở nụ cười biết ơn, anh lại lén lút dán mắt vào hộp thư đến. Vẫn chưa thấy gửi tới.
 
-Vì lo ngại cứ đà này có khi mình gây ra tai nạn y khoa mất, nên tuân thủ theo lời khuyên của Komiyama, tôi tạm thời giao lại ca cấp cứu đầu vào cho bác sĩ nội trú rồi ngoan ngoãn lui về phòng trực một mình. Ngồi xuống chỗ ngồi của mình, ngay khoảnh khắc tôi vừa rút chiếc điện thoại thông minh ra khỏi túi áo, suýt chút nữa thì làm nó tuột khỏi tay rơi xuống đất.
+Vì lo ngại cứ đà này có khi mình gây ra tai nạn y khoa mất, nên tuân thủ theo lời khuyên của Komiyama, anh tạm thời giao lại ca cấp cứu đầu vào cho bác sĩ nội trú rồi ngoan ngoãn lui về phòng trực một mình. Ngồi xuống chỗ ngồi của mình, ngay khoảnh khắc anh vừa rút chiếc điện thoại thông minh ra khỏi túi áo, suýt chút nữa thì làm nó tuột khỏi tay rơi xuống đất.
 
 Có thông báo mới. Một email. Người gửi, Tập đoàn A.
 
-Nó đã về rồi. Câu trả lời hằng mong mỏi giờ đây đang nằm gọn trong lòng bàn tay tôi.
+Nó đã về rồi. Câu trả lời hằng mong mỏi giờ đây đang nằm gọn trong lòng bàn tay anh.
 
-Cảm giác như trái tim chực nhảy ngược ra khỏi lồng họng. Sau khi hít một hơi thật sâu nhiều lần, tôi dùng đôi tay run rẩy mở email.
+Cảm giác như trái tim chực nhảy ngược ra khỏi lồng họng. Sau khi hít một hơi thật sâu nhiều lần, anh dùng đôi tay run rẩy mở email.
 
 Kết quả thứ nhất.
 
@@ -726,11 +726,11 @@ Vào khoảnh khắc đó, tâm trạng của mẹ rốt cuộc là thế nào n
 
 Đúng thế…… những điều quan trọng chính là sự gắn kết và tình yêu thương thực sự vẫn luôn hiện hữu trong gia đình này. Chẳng phải vậy sao? Dẫu có không cùng huyết thống đi chăng nữa. Thế nhưng, mẹ, bố, họ thực sự đã yêu thương mình. Chẳng phải vì thế nên lúc cuối đời, bà mới chỉ truyền đạt lại mỗi điều đó thôi sao? Cho đến tận ngày hôm hôm nay, chẳng phải anh đã tự nhủ đi nhủ lại điều ấy biết bao lần để rồi lấy hết dũng khí đối mặt hay sao? Phải thế không chứ?
 
-Tỉnh táo lại đi nào. Đừng gục ngã, tôi ơi. Vừa siết chặt bàn tay đến mức móng tay hằn sâu vào da thịt, tôi vừa từ từ điều hòa nhịp thở. Cơn run rẩy dần dịu xuống, và tiếng ồn ào xung quanh bắt đầu lọt vào tai.
+Tỉnh táo lại đi nào. Đừng gục ngã, anh ơi. Vừa siết chặt bàn tay đến mức móng tay hằn sâu vào da thịt, anh vừa từ từ điều hòa nhịp thở. Cơn run rẩy dần dịu xuống, và tiếng ồn ào xung quanh bắt đầu lọt vào tai.
 
 Việc Ikushima Kyoko là mẹ về mặt di truyền, và Kyukyu 12 tức Nakagawa Shinya chính là người anh em song sinh với mình giờ đây đã trở thành một sự thật rành rành không thể chối cãi.
 
-Sau khi đã phần nào vực dậy tinh thần sau cú sốc, tôi quay trở lại trung tâm cấp cứu. Dù bị Komiyama và vài người khác hỏi han lo lắng, tôi vẫn dùng nụ cười gượng gạo để qua loa cho qua chuyện, quay trở lại trạng thái hoạt động bình thường bề ngoài. Bận rộn tay chân vẫn hơn là ở một mình đối diện với nỗi cô độc, ít ra thì nó giúp tôi đỡ phải suy nghĩ vẩn vơ hơn.
+Sau khi đã phần nào vực dậy tinh thần sau cú sốc, anh quay trở lại trung tâm cấp cứu. Dù bị Komiyama và vài người khác hỏi han lo lắng, anh vẫn dùng nụ cười gượng gạo để qua loa cho qua chuyện, quay trở lại trạng thái hoạt động bình thường bề ngoài. Bận rộn tay chân vẫn hơn là ở một mình đối diện với nỗi cô độc, ít ra thì nó giúp anh đỡ phải suy nghĩ vẩn vơ hơn.
 
 Khi ca ngày sắp kết thúc, một email nữa lại được gửi đến: Là từ Sohei. Anh ta thông báo đã nắm được động tĩnh ngày 16 tháng 4.
 
@@ -740,21 +740,21 @@ Kanayama, Kuroda và Hoàng, cả ba đều là người độc thân sống m�
 
 “Chỉ còn cách nói lại với Kinosaki thôi sao.”
 
-Vừa lẩm bẩm một mình, một nữ điều dưỡng đi ngang qua chợt ngoái đầu nhìn, nhưng vì bắt gặp ánh mắt tôi nên cô ấy ngại ngùng bước đi. việc cứ mãi phụ thuộc vào người bạn kỳ quặc ấy cũng khiến tôi thấy chạnh lòng, ngặt nỗi bản thân lại chẳng có nổi sự nhạy bén cần thiết để tự mình giải quyết lấy.
+Vừa lẩm bẩm một mình, một nữ điều dưỡng đi ngang qua chợt ngoái đầu nhìn, nhưng vì bắt gặp ánh mắt anh nên cô ấy ngại ngùng bước đi. việc cứ mãi phụ thuộc vào người bạn kỳ quặc ấy cũng khiến anh thấy chạnh lòng, ngặt nỗi bản thân lại chẳng có nổi sự nhạy bén cần thiết để tự mình giải quyết lấy.
 
-Khi ca làm ngày kết thúc và hoàn tất bàn giao cho bác sĩ trực ban, tôi nhấc điện thoại gọi vào PHS của Kinosaki. Người nhấc máy là thư ký khoa tiêu hóa.
+Khi ca làm ngày kết thúc và hoàn tất bàn giao cho bác sĩ trực ban, anh nhấc điện thoại gọi vào PHS của Kinosaki. Người nhấc máy là thư ký khoa tiêu hóa.
 
 ――Kinosaki-sensei hiện đang giải thích tình trạng bệnh cho bệnh nhân và gia đình tại phòng khám ngoại khoa.
 
-Nghe vậy, tôi quyết định cất bước đi thẳng đến khoa khám ngoại tiêu hóa.
+Nghe vậy, anh quyết định cất bước đi thẳng đến khoa khám ngoại tiêu hóa.
 
 Bệnh viện đa khoa sau năm giờ chiều đã vắng bóng tiếng ồn ào ban ngày, trở nên trống trải đến lạ thường. Trung tâm cấp cứu nằm ở tầng hầm B1, còn khoa tiêu hóa ở tầng hai. Vì giờ khám ngoại trú đã hầu như kết thúc nên hệ thống đèn cũng được vặn nhỏ lại. Ánh nắng chiều hắt qua khung cửa sổ nhuộm đỏ hành lang bệnh viện tối lờ mờ, trông chẳng khác nào đáy biển đỏ rực.
 
-Tôi đảo mắt nhìn về phía băng ghế chờ trước phòng khám của Kinosaki. Cứ đinh ninh là sẽ chẳng có ai ngồi đó đâu, hóa ra lại có bóng dáng một người đang trơ trọi ngồi chờ. Là ai thế nhỉ, vừa tiến lại gần tôi liền nhận ra ngay lập tức.
+Anh đảo mắt nhìn về phía băng ghế chờ trước phòng khám của Kinosaki. Cứ đinh ninh là sẽ chẳng có ai ngồi đó đâu, hóa ra lại có bóng dáng một người đang trơ trọi ngồi chờ. Là ai thế nhỉ, vừa tiến lại gần anh liền nhận ra ngay lập tức.
 
 “Á, Takeda-sensei. Anh vất vả rồi. Cảm ơn anh vì chuyện hôm trước nhé.”
 
-Vẻ lễ phép đứng dậy cúi đầu chào là một người mang phong thái thiếu nữ. Chính là nữ bác sĩ Tachibana, người từng cùng tôi cầm máu dạo trước.
+Vẻ lễ phép đứng dậy cúi đầu chào là một người mang phong thái thiếu nữ. Chính là nữ bác sĩ Tachibana, người từng cùng anh cầm máu dạo trước.
 
 “Tôi mới phải cảm ơn cô đây, cô cũng có việc tìm Kinosaki à?”
 
@@ -770,7 +770,7 @@ Cô ấy ân cần nhường nhịn.
 
 Khi Takeda đáp lời, Tachibana liên tục cúi đầu nói cảm ơn xin phép vào trước.
 
-Đúng là một đứa trẻ ngoan, tôi thầm nghĩ. Dù rõ ràng cô ấy là người đến chờ trước.
+Đúng là một đứa trẻ ngoan, anh thầm nghĩ. Dù rõ ràng cô ấy là người đến chờ trước.
 
 “Bác sĩ Takeda vốn dĩ quen biết với Kinosaki-sensei từ trước rồi à?”
 
@@ -794,11 +794,11 @@ Ngoại hình của Kinosaki rất nổi bật, nên việc bàn tán chuyện �
 
 “Em cứ có cảm giác có thể tưởng tượng ra được luôn.”
 
-Cô ấy khúc khích cười. Nhìn biểu cảm ấy, tôi lại đâm ra lo lắng ngược lại.
+Cô ấy khúc khích cười. Nhìn biểu cảm ấy, anh lại đâm ra lo lắng ngược lại.
 
 Có ổn không đấy. Cậu đừng có dây dưa với tên đó. Thích hắn bao nhiêu thì chỉ chuốc lấy tổn thương bấy nhiêu thôi. Xét cho cùng, Kinosaki vốn là kẻ hoàn toàn không có khả năng thấu cảm với cảm xúc của người khác kia mà.
 
-Thế nên, nhân cơ hội này tôi tốt bụng tung ra một cú đòn gió cảnh báo.
+Thế nên, nhân cơ hội này anh tốt bụng tung ra một cú đòn gió cảnh báo.
 
 “Để tôi bật mí cho cô một chuyện thú vị nhé.”
 
@@ -810,13 +810,13 @@ Thế nên, nhân cơ hội này tôi tốt bụng tung ra một cú đòn gió 
 
 “Biết đâu cậu ta chỉ đang giả vờ tốt bụng thôi thì sao.”
 
-Cố tình nói với giọng điệu nửa đùa nửa thật. Tôi thầm nghĩ Tachibana sẽ bất ngờ đôi chút, nhưng phản ứng lại hoàn toàn nằm ngoài dự đoán.
+Cố tình nói với giọng điệu nửa đùa nửa thật. Anh thầm nghĩ Tachibana sẽ bất ngờ đôi chút, nhưng phản ứng lại hoàn toàn nằm ngoài dự đoán.
 
 Tachibana lại bật cười rạng rỡ.
 
 “Nghe hệt như cách Kinosaki-sensei thường nói vậy.”
 
-Tôi ngẩn người không tin nổi vào tai mình.
+Anh ngẩn người không tin nổi vào tai mình.
 
 “Cậu ta từng nói với cô những lời thế á?”
 
@@ -862,9 +862,9 @@ Mỉm cười nhẹ nhàng một lần nữa, cô ấy khép lại câu chuyện
 
 Vừa dứt lời thì cánh cửa bật mở, bệnh nhân và người nhà bệnh nhân bước ra khỏi phòng khám, Tachibana liền cúi đầu chào nhẹ Takeda rồi bước vào phòng khám thay thế vị trí.
 
-Có lẽ Tachibana nhìn thấy được một Kinosaki mà tôi chưa từng thấy chăng, tôi thầm nghĩ. Nếu là cô ấy, với sự thấu cảm của mình, có lẽ cô ấy thực sự có thể trở thành tri kỷ thấu hiểu một kẻ chuyên mô phỏng cảm xúc bằng sự quan sát như Kinosaki cũng nên... Hay là mình đang suy diễn quá đà rồi nhỉ?
+Có lẽ Tachibana nhìn thấy được một Kinosaki mà anh chưa từng thấy chăng, anh thầm nghĩ. Nếu là cô ấy, với sự thấu cảm của mình, có lẽ cô ấy thực sự có thể trở thành tri kỷ thấu hiểu một kẻ chuyên mô phỏng cảm xúc bằng sự quan sát như Kinosaki cũng nên... Hay là mình đang suy diễn quá đà rồi nhỉ?
 
-Nếu có thể nên duyên với một người như Tachibana, thì có lẽ Kinosaki, theo một ý nghĩa nào đó, sẽ không bao giờ phải cô đơn nữa…… ý nghĩ ấy vừa chớm nở trong đầu thì tôi lại nhận ra rằng Kinosaki vốn dĩ chẳng bao giờ biết cô đơn là gì cả. Dẫu có cảm thấy cô quạnh trong tích tắc, cậu ta cũng sẽ quên bẵng cảm xúc ấy ngay ở khoảnh khắc tiếp theo.
+Nếu có thể nên duyên với một người như Tachibana, thì có lẽ Kinosaki, theo một ý nghĩa nào đó, sẽ không bao giờ phải cô đơn nữa…… ý nghĩ ấy vừa chớm nở trong đầu thì anh lại nhận ra rằng Kinosaki vốn dĩ chẳng bao giờ biết cô đơn là gì cả. Dẫu có cảm thấy cô quạnh trong tích tắc, cậu ta cũng sẽ quên bẵng cảm xúc ấy ngay ở khoảnh khắc tiếp theo.
 
 Sự bình lặng bao trùm thế giới của cậu ta quá sâu thẳm và đáng sợ đối với người thường.
 
@@ -874,21 +874,21 @@ Vừa thẩn thơ suy nghĩ vẩn vơ, Tachibana có lẽ đã giải quyết xo
 
 Bên trong khoảng không gian ngăn cách chừng sáu chiếu tatami chỉ có mỗi một mình Kinosaki. Cậu ta bảo rằng đã cho phép điều dưỡng và nhân viên về trước rồi. Vừa nói, Kinosaki vừa lấy từ chiếc tủ lạnh trang bị sẵn ở phòng khám ra một hộp cà phê sữa đá, cho thêm đá từ máy làm đá vào hai chiếc cốc giấy rồi rót chia đều cho cả hai. Khi cầm lên, cái lạnh buốt của đá xuyên qua lớp giấy lan tỏa vào lòng bàn tay.
 
-Tự nhiên như nhiên, cậu ta lần lượt mở nắp từng gói si-rô đường, điêu luyện xoay vòng đổ năm phần si-rô vào ly cà phê của mình, rồi tung ra ánh nhìn nghiêm nghị hướng thẳng về phía tôi.
+Tự nhiên như nhiên, cậu ta lần lượt mở nắp từng gói si-rô đường, điêu luyện xoay vòng đổ năm phần si-rô vào ly cà phê của mình, rồi tung ra ánh nhìn nghiêm nghị hướng thẳng về phía anh.
 
 “Cậu đã tìm ra được gì rồi đúng không.”
 
-Dù tôi đến đây mang theo tâm thế sẽ kể lại mọi chuyện cho cậu ta nghe, nhưng ngặt nỗi lúc đối diện thì lời nói lại chẳng tài nào thốt ra nổi. Ngụm cà phê đen đắng ngắt làm trôi đi cảm giác khô khốc ở cổ họng, tôi thả người thở dài một hơi dài rồi mới chịu cất lời.
+Dù anh đến đây mang theo tâm thế sẽ kể lại mọi chuyện cho cậu ta nghe, nhưng ngặt nỗi lúc đối diện thì lời nói lại chẳng tài nào thốt ra nổi. Ngụm cà phê đen đắng ngắt làm trôi đi cảm giác khô khốc ở cổ họng, anh thả người thở dài một hơi dài rồi mới chịu cất lời.
 
 “……Kết quả giám định ADN đã trả về. Đúng như những gì cậu dự đoán.”
 
-Vậy sao, Kinosaki chỉ đáp gọn lỏn. Sự phản hồi ngắn gọn ấy lúc này lại trở thành một ân huệ lớn lao. Giả sử cậu ta bày tỏ sự đồng cảm thừa thãi nào đó, chắc tôi lại càng cảm thấy tủi thân hơn mà thôi. Tôi vô thức kéo chiếc ghế dành cho bệnh nhân được gợi ý rồi lặng lẽ ngồi xuống.
+Vậy sao, Kinosaki chỉ đáp gọn lỏn. Sự phản hồi ngắn gọn ấy lúc này lại trở thành một ân huệ lớn lao. Giả sử cậu ta bày tỏ sự đồng cảm thừa thãi nào đó, chắc anh lại càng cảm thấy tủi thân hơn mà thôi. Anh vô thức kéo chiếc ghế dành cho bệnh nhân được gợi ý rồi lặng lẽ ngồi xuống.
 
-Vừa cố gắng ra vẻ bình tĩnh nhất có thể, vừa trưng ra hai bức thư điện tử, tôi chầm chậm kể lại mọi chuyện. Đến khi câu chuyện kết thúc thì sắc trời phía Tây nhìn qua ô cửa sổ đã phủ một màu tối mịt. Lại một lần nữa đưa tay cầm lấy chiếc cốc giấy, tôi chợt nhận ra những viên đá bên trong đã tan chảy hết từ lúc nào.
+Vừa cố gắng ra vẻ bình tĩnh nhất có thể, vừa trưng ra hai bức thư điện tử, anh chầm chậm kể lại mọi chuyện. Đến khi câu chuyện kết thúc thì sắc trời phía Tây nhìn qua ô cửa sổ đã phủ một màu tối mịt. Lại một lần nữa đưa tay cầm lấy chiếc cốc giấy, anh chợt nhận ra những viên đá bên trong đã tan chảy hết từ lúc nào.
 
 “Xin lỗi nhé. Tan đá hết cả rồi, cà phê loãng toẹt ra rồi đây này.”
 
-Ngay khoảnh khắc tôi vô tình thốt lên câu ấy, sắc mặt của Kinosaki bỗng thay đổi rõ rệt.
+Ngay khoảnh khắc anh vô tình thốt lên câu ấy, sắc mặt của Kinosaki bỗng thay đổi rõ rệt.
 
 “Takeda-kun, cậu vừa nói gì cơ?”
 
@@ -906,17 +906,17 @@ Thay vào đó, cậu ta nhắm nghiền mí mắt suy tư điều gì đó mộ
 
 “Thật á? Chuyện gì thế?”
 
-Tôi bất giác chồm người lên. “Có phải trong vụ án có dùng đến đá không? Đúng thế phải không?”
+Anh bất giác chồm người lên. “Có phải trong vụ án có dùng đến đá không? Đúng thế phải không?”
 
 “……Không, đá không liên quan.”
 
 “Thế là gì? Cậu đã nhận ra điều gì cơ chứ?”
 
-Kinosaki mỉm cười mơ hồ tìm cách lảng tránh, nhưng rồi cuối cùng chịu thua trước sự nài nỉ của tôi, cậu ta chỉ lẩm bẩm.
+Kinosaki mỉm cười mơ hồ tìm cách lảng tránh, nhưng rồi cuối cùng chịu thua trước sự nài nỉ của anh, cậu ta chỉ lẩm bẩm.
 
 “Nó mang tính đối xứng.”
 
-Nghe xong câu nói đầy vẻ thần bí, tôi gặng hỏi chi tiết bao nhiêu lần đi nữa, nhưng Kinosaki chỉ lặp lại câu nói “Cậu cũng đang nhìn thấy những thứ giống tớ mà thôi” rồi quyết không hé răng nửa lời.
+Nghe xong câu nói đầy vẻ thần bí, anh gặng hỏi chi tiết bao nhiêu lần đi nữa, nhưng Kinosaki chỉ lặp lại câu nói “Cậu cũng đang nhìn thấy những thứ giống tớ mà thôi” rồi quyết không hé răng nửa lời.
 
 “Chuyện tớ vừa nhớ ra chính là chiếc chìa khóa quan trọng để giải mã vụ án này. Tớ nghĩ bức tranh tổng thể coi như đã rõ mười mươi. Chỉ là, vẫn còn thiếu một mảnh ghép, nên hiện tại tớ chẳng thể nói cho cậu nghe bất cứ điều gì cả. Mảnh ghép còn thiếu đó có lẽ…… chỉ còn đúng một miếng nữa mà thôi.”
 
@@ -932,7 +932,7 @@ Kinosaki tuyên bố một cách điềm tĩnh và đầy quả quyết.
 
 Takeda khoanh tay. Phải. Nhân vật trung tâm của chuỗi vụ án liên tiếp, mẹ của Nakagawa Shinya, người phụ nữ chắc chắn tường tận chi tiết về thủ thuật chuyển phôi nang đông lạnh rã đông. Còn Nakagawa Shinya rốt cuộc là con người thế nào? Tại sao hắn lại cất công đến Osaka?
 
-Tôi đã xác nhận bưu phẩm bảo đảm đã được giao đến tay đối phương, nhưng cho đến hiện tại vẫn hoàn toàn bặt vô âm tín.
+Anh đã xác nhận bưu phẩm bảo đảm đã được giao đến tay đối phương, nhưng cho đến hiện tại vẫn hoàn toàn bặt vô âm tín.
 
 “Chỉ đành cầu nguyện vào phản hồi từ đối phương thôi nhỉ.”
 
@@ -942,15 +942,15 @@ Chiếc điện thoại di động đặt trên bàn bỗng rung lên bần bậ
 
 “Số lạ hoắc.”
 
-Đôi tròng mắt màu xám đậm gần như đen tuyền của Kinosaki liếc nhìn sang, giúp tôi củng cố thêm quyết tâm.
+Đôi tròng mắt màu xám đậm gần như đen tuyền của Kinosaki liếc nhìn sang, giúp anh củng cố thêm quyết tâm.
 
-Kìm nén nhịp hồi hộp đang dồn dập, tôi nhấn nút nghe. Để Kinosaki cũng có thể nghe thấy, tôi chuyển sang chế độ loa ngoài.
+Kìm nén nhịp hồi hộp đang dồn dập, anh nhấn nút nghe. Để Kinosaki cũng có thể nghe thấy, anh chuyển sang chế độ loa ngoài.
 
 “Ai đấy ạ?”
 
 “……Tôi là Nakagawa Keiko. Xin hỏi có phải anh Takeda, à không, có phải bác sĩ Takeda đó không ạ?”
 
-Tôi bất giác đưa mắt nhìn Kinosaki.
+Anh bất giác đưa mắt nhìn Kinosaki.
 
 Bà ấy chính là Nakagawa Keiko sao? Là một người phụ nữ cất chất giọng yếu ớt như sắp tan biến vào hư vô.
 
@@ -958,13 +958,13 @@ Bà ấy chính là Nakagawa Keiko sao? Là một người phụ nữ cất ch�
 
 “……Vâng. Dù đắn đo rất nhiều, nhưng tôi nghĩ dẫu sao mình cũng nên liên lạc lại.”
 
-Sau khi gửi gắm những lời chia buồn theo lệ thường và đan xen vài câu chuyện xã giao an toàn, tôi quyết định bước thẳng vào vấn đề chính.
+Sau khi gửi gắm những lời chia buồn theo lệ thường và đan xen vài câu chuyện xã giao an toàn, anh quyết định bước thẳng vào vấn đề chính.
 
 “Vì câu chuyện khá phức tạp, nên nếu có thể, tôi rất muốn được trực tiếp gặp mặt bà để trao đổi. Không biết có ngày nào thuận tiện cho lịch trình của bà không?”
 
 “À vâng, nếu là ngày Chủ nhật thì tôi nghỉ làm bán thời gian.”
 
-Tôi liên tục nói lời xin lỗi vì đã làm phiền bà phải cất công đi xa, sau đó chốt lại ngày giờ hẹn gặp với Nakagawa Keiko. Vào ngày 21, lúc mười một giờ, tại nhà riêng của Nakagawa Keiko.
+Anh liên tục nói lời xin lỗi vì đã làm phiền bà phải cất công đi xa, sau đó chốt lại ngày giờ hẹn gặp với Nakagawa Keiko. Vào ngày 21, lúc mười một giờ, tại nhà riêng của Nakagawa Keiko.
 
 Liếc sang bên cạnh, Kinosaki đang khoanh tay đăm chiêu.
 
@@ -976,11 +976,11 @@ Nghe vậy, cậu bạn thân nhíu mày gọn gàng, chỉ đáp lại một c�
 
 Ngày 21 tháng 5 trời quang mây tạnh. Bầu trời xanh ngắt không một gợn mây, cùng cơn gió dễ chịu không nóng không lạnh. Một thời tiết tuyệt vời đến mức chỉ muốn xách dã ngoại ra nằm lăn lộn trên bãi cỏ. Chắc tiết trời tháng 5 đẹp nhất là dùng để chỉ những ngày thế này đây.
 
-Bởi vì chẳng biết nên mặc trang phục thế nào cho phải, nhưng ngặt nỗi diện nguyên bộ tang phục đi thì có vẻ kém duyên, thế nên cuối cùng tôi quyết định phối một chiếc áo sơ mi đen khoác ngoài áo khoác tối màu cùng chiếc quần tây sẫm màu để trông thật lịch sự và an toàn.
+Bởi vì chẳng biết nên mặc trang phục thế nào cho phải, nhưng ngặt nỗi diện nguyên bộ tang phục đi thì có vẻ kém duyên, thế nên cuối cùng anh quyết định phối một chiếc áo sơ mi đen khoác ngoài áo khoác tối màu cùng chiếc quần tây sẫm màu để trông thật lịch sự và an toàn.
 
 “Bánh cá taiyaki, ăn phần đầu hay phần đuôi trước?”
 
-Takeda Erika bất ngờ cất lời khi tiễn tôi ra tận gara. Hôm nay cô ấy diện chiếc đầm bầu ren trắng rộng rãi, khoác ngoài chiếc cardigan cùng màu.
+Takeda Erika bất ngờ cất lời khi tiễn anh ra tận gara. Hôm nay cô ấy diện chiếc đầm bầu ren trắng rộng rãi, khoác ngoài chiếc cardigan cùng màu.
 
 “Anh chọn phần đuôi.”
 
@@ -990,35 +990,35 @@ Takeda Erika bất ngờ cất lời khi tiễn tôi ra tận gara. Hôm nay cô
 
 “Nhắc đến Gifu thì phải là bánh ngọt vị cá Ayu chứ lỵ. Vậy nên, thưa bác sĩ phái ăn từ đuôi trước, em rất mong chờ quà mang về đấy nhé.”
 
-Takeda Erika mỉm cười tinh nghịch. Chiếc bụng bầu bước sang tuần thứ hai mươi hai dạo gần đây ngày càng nhô ra phía trước trông có vẻ nặng nề. Tôi viện cớ chuyến đi Gifu lần này là để tham dự hội thảo.
+Takeda Erika mỉm cười tinh nghịch. Chiếc bụng bầu bước sang tuần thứ hai mươi hai dạo gần đây ngày càng nhô ra phía trước trông có vẻ nặng nề. Anh viện cớ chuyến đi Gifu lần này là để tham dự hội thảo.
 
-Hôn lên gò má Takeda Erika khi cô vẫy tay bảo anh đi nhé, tôi ngồi vào ghế lái chiếc xe Prius và thắt dây an toàn. Ánh nắng rọi chiếu dần qua cánh cửa cuốn đang từ từ mở ra khiến tôi hơi chói mắt.... Nào, lái xe một chuyến đến Gifu thôi.
+Hôn lên gò má Takeda Erika khi cô vẫy tay bảo anh đi nhé, anh ngồi vào ghế lái chiếc xe Prius và thắt dây an toàn. Ánh nắng rọi chiếu dần qua cánh cửa cuốn đang từ từ mở ra khiến anh hơi chói mắt.... Nào, lái xe một chuyến đến Gifu thôi.
 
-Kể từ sau khi nhìn thấy cái xác có khuôn mặt y hệt mình đó, thế giới mà tôi vẫn hằng tin tưởng bỗng lung lay dữ dội, mang lại cho tôi cảm giác như một mảnh ghép quan trọng trong tâm hồn đã bị khuyết thiếu.
+Kể từ sau khi nhìn thấy cái xác có khuôn mặt y hệt mình đó, thế giới mà anh vẫn hằng tin tưởng bỗng lung lay dữ dội, mang lại cho anh cảm giác như một mảnh ghép quan trọng trong tâm hồn đã bị khuyết thiếu.
 
-Kết quả giám định ADN mang lại cú sốc không nhỏ, nhưng khi bình tâm suy ngẫm lại, điều kỳ lạ là tôi lại cảm thấy một sự an tâm tựa như một phần khuyết thiếu đã được lấp đầy. Hóa ra cội nguồn sinh học lại là một nhân tố vô cùng quan trọng cấu thành nên bản ngã, tôi thầm nghĩ.
+Kết quả giám định ADN mang lại cú sốc không nhỏ, nhưng khi bình tâm suy ngẫm lại, điều kỳ lạ là anh lại cảm thấy một sự an tâm tựa như một phần khuyết thiếu đã được lấp đầy. Hóa ra cội nguồn sinh học lại là một nhân tố vô cùng quan trọng cấu thành nên bản ngã, anh thầm nghĩ.
 
-Chính nhờ biết được kết quả ấy, tôi mới dũng cảm mở lại cuốn album gia đình thêm một lần nữa. Khi đã tường tận mọi thứ, nhìn lại mới thấy buồn cười làm sao khi bản thân và cha mẹ chẳng có lấy một điểm nào giống nhau.
+Chính nhờ biết được kết quả ấy, anh mới dũng cảm mở lại cuốn album gia đình thêm một lần nữa. Khi đã tường tận mọi thứ, nhìn lại mới thấy buồn cười làm sao khi bản thân và cha mẹ chẳng có lấy một điểm nào giống nhau.
 
-Vào đêm hôm đó, để tránh bị Takeda Erika phát hiện, tôi ôm cuốn album trốn trong phòng mẹ suốt đêm, vừa khóc vừa cười, cười rồi lại khóc. Những bậc phụ huynh trong cuốn album nhìn góc nào cũng thấy ngập tràn hạnh phúc, đong đầy yêu thương, chẳng hề để lộ dù chỉ một chút tì vết nào của bí mật đang ngấm ngầm gặm nhấm ở tầng sâu đáy vực.
+Vào đêm hôm đó, để tránh bị Takeda Erika phát hiện, anh ôm cuốn album trốn trong phòng mẹ suốt đêm, vừa khóc vừa cười, cười rồi lại khóc. Những bậc phụ huynh trong cuốn album nhìn góc nào cũng thấy ngập tràn hạnh phúc, đong đầy yêu thương, chẳng hề để lộ dù chỉ một chút tì vết nào của bí mật đang ngấm ngầm gặm nhấm ở tầng sâu đáy vực.
 
-Giờ đây, tôi lên đường để tìm kiếm mảnh ghép cuối cùng, tôi tự nhủ. Việc một mình lái xe hướng về Gifu cũng mang ý nghĩa của một sự chuộc lỗi.
+Giờ đây, anh lên đường để tìm kiếm mảnh ghép cuối cùng, anh tự nhủ. Việc một mình lái xe hướng về Gifu cũng mang ý nghĩa của một sự chuộc lỗi.
 
-Cả cha mẹ nuôi dưỡng tôi lẫn cha mẹ sinh học giờ đây đều không còn trên cõi đời này nữa. Thế nên, tôi phải tự tay mình đi tìm kiếm mảnh ghép ấy. Rốt cuộc đã có chuyện gì xảy ra vào ba mươi ba năm về trước. Ikushima Kyoko, Nakagawa Shinya, họ đã trải qua cuộc đời như thế nào.
+Cả cha mẹ nuôi dưỡng anh lẫn cha mẹ sinh học giờ đây đều không còn trên cõi đời này nữa. Thế nên, anh phải tự tay mình đi tìm kiếm mảnh ghép ấy. Rốt cuộc đã có chuyện gì xảy ra vào ba mươi ba năm về trước. Ikushima Kyoko, Nakagawa Shinya, họ đã trải qua cuộc đời như thế nào.
 
-Chỉ khi tường tận điều đó, có lẽ tôi mới có thể đàng hoàng bước đi lại cuộc đời của chính mình……
+Chỉ khi tường tận điều đó, có lẽ anh mới có thể đàng hoàng bước đi lại cuộc đời của chính mình……
 
 Vừa miên man suy nghĩ vừa đạp ga. Đường cao tốc hướng về Gifu vô cùng thông thoáng. May mắn thay, chiếc xe Prius cỗi cằn cũng đang ngoan ngoãn lăn bánh bon bon. Gió lùa qua ô cửa sổ hé mở mang lại cảm giác dễ chịu trên da thịt. Cảnh vật lướt qua ngoài khung cửa là những thửa ruộng đồng trải dài vô tận cùng những dãy núi điểm xuyết tô điểm, mang đậm phong vị cảnh sắc nguyên sơ của đất nước Nhật Bản.
 
-Khi bước vào địa phận thành phố Gifu, các tòa nhà bắt đầu dày đặc hơn hẳn. Quẹo qua mấy ngã rẽ, tôi hướng thẳng về phía dọc bờ sông Nagara. Địa chỉ được chỉ định chắc hẳn nằm đâu đó quanh khu vực này.
+Khi bước vào địa phận thành phố Gifu, các tòa nhà bắt đầu dày đặc hơn hẳn. Quẹo qua mấy ngã rẽ, anh hướng thẳng về phía dọc bờ sông Nagara. Địa chỉ được chỉ định chắc hẳn nằm đâu đó quanh khu vực này.
 
-Lái xe một lúc hướng về phía núi Kinka có thể nhìn thấy từ toàn thành phố, Công viên Gifu dần hiện ra dưới chân núi. Sắc xanh tươi mát của ngọn núi Kinka rợp bóng râm vô cùng chói mắt, và lâu đài Gifu uy nghi sừng sững trên đỉnh. Vì đến hơi sớm nên tôi quyết định đỗ xe gần công viên, thong thả đi bộ dọc theo bờ sông Nagara để hướng về điểm đến.
+Lái xe một lúc hướng về phía núi Kinka có thể nhìn thấy từ toàn thành phố, Công viên Gifu dần hiện ra dưới chân núi. Sắc xanh tươi mát của ngọn núi Kinka rợp bóng râm vô cùng chói mắt, và lâu đài Gifu uy nghi sừng sững trên đỉnh. Vì đến hơi sớm nên anh quyết định đỗ xe gần công viên, thong thả đi bộ dọc theo bờ sông Nagara để hướng về điểm đến.
 
-Vừa tản bộ vừa giết thời gian, đúng mười một giờ tôi đã đặt chân đến ngôi nhà dân cần tìm.
+Vừa tản bộ vừa giết thời gian, đúng mười một giờ anh đã đặt chân đến ngôi nhà dân cần tìm.
 
-Một ngôi nhà kiến trúc gỗ lợp ngói, bao bọc bốn bề bằng tường đá, với chiếc cổng ra vào vô cùng bề thế của một đại gia đình. Trên tấm đá ở trụ cổng có khắc hai chữ ‘Nakagawa’. Chính là nơi này. Nhìn trộm vào bên trong qua khe hở của cánh cổng, tôi thấy khu vườn có đặt đèn lồng đá và một căn nhà phụ nằm ở phía bên trái. Không gian bên trong quả nhiên rộng rãi hơn nhiều so với những gì tôi tưởng tượng.
+Một ngôi nhà kiến trúc gỗ lợp ngói, bao bọc bốn bề bằng tường đá, với chiếc cổng ra vào vô cùng bề thế của một đại gia đình. Trên tấm đá ở trụ cổng có khắc hai chữ ‘Nakagawa’. Chính là nơi này. Nhìn trộm vào bên trong qua khe hở của cánh cổng, anh thấy khu vườn có đặt đèn lồng đá và một căn nhà phụ nằm ở phía bên trái. Không gian bên trong quả nhiên rộng rãi hơn nhiều so với những gì anh tưởng tượng.
 
-Cơn gió lướt qua mặt sông Nagara thổi tung tán cây phía trên đầu, tạo nên âm thanh xào xạc. Chỉ có tiếng lá cây cọ sát vào nhau vang vọng khắp không gian. Đầu ngón tay lạnh ngắt. Vô thức thở ra làn hơi để kiểm tra xem chúng có còn run rẩy không, Takeda bấm chuông cửa. Nhấn hai lần, một giọng nói từng nghe qua điện thoại vang lên đáp lại, và bảo rằng tôi sẽ ra ngay đây thôi.
+Cơn gió lướt qua mặt sông Nagara thổi tung tán cây phía trên đầu, tạo nên âm thanh xào xạc. Chỉ có tiếng lá cây cọ sát vào nhau vang vọng khắp không gian. Đầu ngón tay lạnh ngắt. Vô thức thở ra làn hơi để kiểm tra xem chúng có còn run rẩy không, Takeda bấm chuông cửa. Nhấn hai lần, một giọng nói từng nghe qua điện thoại vang lên đáp lại, và bảo rằng anh sẽ ra ngay đây thôi.
 
 Dù đã hạ quyết tâm, nhưng hễ đến sát nút là tim lại đập thình thịch căng thẳng. Chẳng mấy chốc, âm thanh kéo cửa lùa từ phía trong vang lên. Tiếng dép lê lê lết trên sàn tiến lại gần hơn.
 
@@ -1028,15 +1028,15 @@ Thân hình mình hạc xương mai bọc trong chiếc áo blouse màu be cùng
 
 ――Bà ấy chính là Nakagawa Keiko sao?
 
-Ngay khoảnh khắc tôi vừa hé miệng định cất lời, bà lão ngẩng đầu lên và ánh mắt chạm phải tôi. Ngay lập tức, từ đôi tròng mắt của bà lão, những giọt nước mắt lớn tuôn rơi lã chã.
+Ngay khoảnh khắc anh vừa hé miệng định cất lời, bà lão ngẩng đầu lên và ánh mắt chạm phải anh. Ngay lập tức, từ đôi tròng mắt của bà lão, những giọt nước mắt lớn tuôn rơi lã chã.
 
 “Shinya……”
 
-Nghĩ kỹ lại thì đây có lẽ là một kết cục hiển nhiên. Thế nhưng, vừa cúi đầu nhìn bà lão đang che mặt khóc nức nở, trong lòng tôi lại dâng lên một cảm giác lạnh sống lưng vượt xa sự đồng cảm, và tôi chẳng thể tài nào kìm giữ được cơn rùng mình dọc sống lưng.
+Nghĩ kỹ lại thì đây có lẽ là một kết cục hiển nhiên. Thế nhưng, vừa cúi đầu nhìn bà lão đang che mặt khóc nức nở, trong lòng anh lại dâng lên một cảm giác lạnh sống lưng vượt xa sự đồng cảm, và anh chẳng thể tài nào kìm giữ được cơn rùng mình dọc sống lưng.
 
-Nakagawa Shinya, kẻ mang chung ADN với tôi, thực sự đã từng sinh sống tại ngôi nhà này.
+Nakagawa Shinya, kẻ mang chung ADN với anh, thực sự đã từng sinh sống tại ngôi nhà này.
 
-Nâng đỡ Nakagawa Keiko, người đang bủn rủn đầu gối tưởng chừng sắp quỵ ngã, tôi chật vật dìu bà bước lên đến thềm nhà, rồi cả hai cùng ngồi phịch xuống. Đúng phong cách kiến trúc nhà cổ Nhật Bản, phần hiên nhà có độ cao đáng kể.
+Nâng đỡ Nakagawa Keiko, người đang bủn rủn đầu gối tưởng chừng sắp quỵ ngã, anh chật vật dìu bà bước lên đến thềm nhà, rồi cả hai cùng ngồi phịch xuống. Đúng phong cách kiến trúc nhà cổ Nhật Bản, phần hiên nhà có độ cao đáng kể.
 
 Ngay khoảnh khắc bước qua cánh cửa lùa, mùi tatami và hương trầm phảng phất xộc vào khứu giác.
 
@@ -1054,31 +1054,31 @@ Phòng thờ nằm sâu hơn phòng khách một bậc. Ở đó đặt trang ng
 
 Di ảnh của Nakagawa Shinya.
 
-Gương mặt y hệt tôi.
+Gương mặt y hệt anh.
 
-Trái tim tôi đập thình thịch từng nhịp nặng nề. Âm thanh máu chảy rào rào bên tai vô cùng ồn ào.
+Trái tim anh đập thình thịch từng nhịp nặng nề. Âm thanh máu chảy rào rào bên tai vô cùng ồn ào.
 
-Theo phản xạ, tôi vội đảo mắt đi chỗ khác rồi nhìn lại di ảnh thêm lần nữa, và lúc ấy tôi nhận ra sự bất thường kỳ lạ.
+Theo phản xạ, anh vội đảo mắt đi chỗ khác rồi nhìn lại di ảnh thêm lần nữa, và lúc ấy anh nhận ra sự bất thường kỳ lạ.
 
-Bức di ảnh rõ ràng là bị mờ. Hơn nữa trông còn rất trẻ. Nhìn kỹ lại thì anh ta mặc đồng phục học sinh, và bên cạnh còn có bờ vai của ai đó lấp ló, có lẽ đây là một bức ảnh tập thể được cắt ra rồi phóng to lên. Cậu thiếu niên trong di ảnh đang trừng trừng nhìn tôi với ánh mắt hằn học hệt như thể coi cả thế giới này là kẻ thù.
+Bức di ảnh rõ ràng là bị mờ. Hơn nữa trông còn rất trẻ. Nhìn kỹ lại thì anh ta mặc đồng phục học sinh, và bên cạnh còn có bờ vai của ai đó lấp ló, có lẽ đây là một bức ảnh tập thể được cắt ra rồi phóng to lên. Cậu thiếu niên trong di ảnh đang trừng trừng nhìn anh với ánh mắt hằn học hệt như thể coi cả thế giới này là kẻ thù.
 
-Có lẽ nhận ra tôi đang chăm chú nhìn di ảnh, Nakagawa Keiko vội vàng giải thích bằng giọng điệu gấp gáp: “Vì Shinya cực kỳ ghét chụp ảnh...”
+Có lẽ nhận ra anh đang chăm chú nhìn di ảnh, Nakagawa Keiko vội vàng giải thích bằng giọng điệu gấp gáp: “Vì Shinya cực kỳ ghét chụp ảnh...”
 
-Tôi thắp hương, gõ chiếc chuông nhỏ rồi chắp tay cầu nguyện. Khi xong xuôi, Takeda lại cúi đầu thật sâu trước Nakagawa Keiko thêm lần nữa.
+Anh thắp hương, gõ chiếc chuông nhỏ rồi chắp tay cầu nguyện. Khi xong xuôi, Takeda lại cúi đầu thật sâu trước Nakagawa Keiko thêm lần nữa.
 
 “Bác theo phái Tây hay phái Đông vậy ạ?”
 
-Ngay lúc tôi đang băn khoăn không biết nên mở lời từ đâu, Nakagawa Keiko là người phá vỡ sự im lặng. Có vẻ như bà cũng đang vắt óc tìm kiếm chủ đề để trò chuyện.
+Ngay lúc anh đang băn khoăn không biết nên mở lời từ đâu, Nakagawa Keiko là người phá vỡ sự im lặng. Có vẻ như bà cũng đang vắt óc tìm kiếm chủ đề để trò chuyện.
 
 Dẫu vậy, phái Tây hay phái Đông rốt cuộc là có ý gì cơ chứ?
 
-Vì chẳng hiểu gì sất, tôi chớp chớp mắt nhìn, Nakagawa Keiko liền nở nụ cười nhẹ xòa mặt, à lên một tiếng rồi gật đầu.
+Vì chẳng hiểu gì sất, anh chớp chớp mắt nhìn, Nakagawa Keiko liền nở nụ cười nhẹ xòa mặt, à lên một tiếng rồi gật đầu.
 
 “Bác sĩ từ vùng Kansai đến mà nhỉ. Tôi lúc trước cũng sống ở Osaka, nhưng ở Gifu lâu quá nên quên bén mất. Ở đây người ta hay hỏi câu đó như một lời chào xã giao vậy. Phái Tây nghĩa là Nishi Hongan-ji, còn phái Đông là Higashi Hongan-ji, ý là vậy đấy.”
 
-À, tôi thầm gật đầu thán phục. Quả nhiên là vùng đất sát sườn Sekigahara, cội nguồn của Oda Nobunaga có khác.
+À, anh thầm gật đầu thán phục. Quả nhiên là vùng đất sát sườn Sekigahara, cội nguồn của Oda Nobunaga có khác.
 
-Vì chẳng rành phái Tây hay phái Đông, tôi đành chuyển sang hỏi chuyện khác.
+Vì chẳng rành phái Tây hay phái Đông, anh đành chuyển sang hỏi chuyện khác.
 
 “Bà từng sống ở Osaka cơ à?”
 
@@ -1086,29 +1086,29 @@ Vì chẳng rành phái Tây hay phái Đông, tôi đành chuyển sang hỏi c
 
 Mọi thứ đã được kết nối. Quả nhiên, Nakagawa Keiko chính là bạn của Ikushima Kyoko.
 
-Mời ngồi, Nakagawa Keiko vừa nói vừa dẫn Takeda vào phòng khách. Ngồi xuống chiếc đệm theo lời mời. Nakagawa Keiko đi ra rồi quay trở lại với chiếc khay đựng hai cốc trà lúa mạch và bánh ngọt Ayu. Khi nhìn kỹ cách bà đi, tôi nhận thấy chân phải của bà hơi khập khiễng.
+Mời ngồi, Nakagawa Keiko vừa nói vừa dẫn Takeda vào phòng khách. Ngồi xuống chiếc đệm theo lời mời. Nakagawa Keiko đi ra rồi quay trở lại với chiếc khay đựng hai cốc trà lúa mạch và bánh ngọt Ayu. Khi nhìn kỹ cách bà đi, anh nhận thấy chân phải của bà hơi khập khiễng.
 
-Nói lời cảm ơn rồi nhận lấy, tôi tháo khẩu trang để nhấp ngụm trà lúa mạch cho đỡ khát, Nakagawa Keiko liền khẽ thở dài “Chà.”
+Nói lời cảm ơn rồi nhận lấy, anh tháo khẩu trang để nhấp ngụm trà lúa mạch cho đỡ khát, Nakagawa Keiko liền khẽ thở dài “Chà.”
 
 “Giống thế không biết.” Vừa nói, bà cũng tháo khẩu trang ra đặt cạnh ly nước. “Thật sự, giống y đúc.”
 
-Tôi đưa mắt dò xét dung mạo của bà sau khi tháo khẩu trang. Là bạn cùng lớp của Ikushima Kyoko, tính ra bà cũng trạc tuổi, chắc sắp sang tuổi sáu mươi chín. Trái ngược với một Ikushima Kyoko lộng lẫy, trẻ trung dẫu bước qua ngưỡng tuổi lục tuần, Nakagawa Keiko lại mang vẻ bề ngoài hoàn toàn đối lập.
+Anh đưa mắt dò xét dung mạo của bà sau khi tháo khẩu trang. Là bạn cùng lớp của Ikushima Kyoko, tính ra bà cũng trạc tuổi, chắc sắp sang tuổi sáu mươi chín. Trái ngược với một Ikushima Kyoko lộng lẫy, trẻ trung dẫu bước qua ngưỡng tuổi lục tuần, Nakagawa Keiko lại mang vẻ bề ngoài hoàn toàn đối lập.
 
 Nếp nhăn hằn sâu khóe mắt, khóe miệng, tóc thưa thớt, mái tóc bạc chưa nhuộm hết khiến bà trông già hơn tuổi thật rất nhiều. Thân hình gầy gò, yếu ớt. Dù làn da trắng và nếu nhìn kỹ thì đường nét khuôn mặt rất thanh tú, nhưng ngặt nỗi thiếu hụt sinh khí trầm trọng khiến bà trông chẳng khác nào một bà lão tàn tạ.
 
 “Trông giống lắm phải không ạ?” Takeda cũng bất giác thở dài phụ họa theo. “Hồi đầu mới nhìn thấy, tôi cũng thực sự kinh ngạc. Thế nhưng chính nhờ cơ duyên đó mà tôi mới biết đến sự tồn tại của người anh sinh đôi Nakagawa Shinya, và việc có thể đến đây ngày hôm nay thực sự là một may mắn lớn đối với tôi.”
 
-Đôi mắt Nakagawa Keiko mở trừng trừng, khẩu hình miệng mấp máy hai chữ 'sinh đôi', tôi liền vội vàng lên tiếng bổ sung.
+Đôi mắt Nakagawa Keiko mở trừng trừng, khẩu hình miệng mấp máy hai chữ 'sinh đôi', anh liền vội vàng lên tiếng bổ sung.
 
 “À. Chắc tôi chưa kể với bà nhỉ. Lúc viết thư tôi vẫn chưa rõ, nhưng cách đây ít hôm kết quả giám định ADN giữa tôi và Shinya đã trùng khớp một trăm phần trăm, và xác định chúng tôi chính là anh em sinh đôi cùng trứng. Còn giữa tôi và mẹ ruột nuôi nấng không có quan hệ huyết thống. Tôi không có ý định trách cứ ai, hay nói với ai chuyện này cả. Chỉ là tôi muốn biết…… Rốt cuộc đã xảy ra chuyện gì vào ba mươi ba năm về trước. Và…… Shinya đã trải qua cuộc đời như thế nào.”
 
-Khoảng lặng đằng đẵng gợi nhắc về chặng đường ba mươi ba năm trôi qua. Giữa không gian tĩnh lặng, tiếng nước chảy của chiếc shishi-odoshi vang lên khiến tôi giật mình. Lé mắt nhìn sang khu vườn thoáng qua, Nakagawa Keiko lúc này mới nặng nhề mở miệng.
+Khoảng lặng đằng đẵng gợi nhắc về chặng đường ba mươi ba năm trôi qua. Giữa không gian tĩnh lặng, tiếng nước chảy của chiếc shishi-odoshi vang lên khiến anh giật mình. Lé mắt nhìn sang khu vườn thoáng qua, Nakagawa Keiko lúc này mới nặng nhề mở miệng.
 
 “……Tôi đã đắn đo rất nhiều không biết có nên gọi điện cho bác sĩ hay không. Nhưng trước khi gọi, hình như tôi đã hạ quyết tâm rồi. Tôi sẽ kể hết cho anh nghe.…… Thật lòng mà nói, có lẽ tôi cũng muốn trút bỏ gánh nặng này để được thanh thản phần nào. Bác sĩ à. Đây chính là sự hối hận và sám hối của tôi. Dẫu vậy, anh vẫn muốn nghe chứ?”
 
-Nakagawa Keiko ngước lên nhìn thẳng vào tôi. Ánh mắt ánh lên thứ sinh khí hừng hực tựa như được tái sinh. Ánh mắt của một kẻ đã hạ quyết tâm kể chuyện đời.
+Nakagawa Keiko ngước lên nhìn thẳng vào anh. Ánh mắt ánh lên thứ sinh khí hừng hực tựa như được tái sinh. Ánh mắt của một kẻ đã hạ quyết tâm kể chuyện đời.
 
-Như bị áp đảo, tôi hít một hơi thật sâu rồi đáp lời: Vâng, xin bà hãy kể đi.
+Như bị áp đảo, anh hít một hơi thật sâu rồi đáp lời: Vâng, xin bà hãy kể đi.
 
 Sugawara Keiko sinh ra tại thành phố Gifu, theo chân cha chuyển công tác đến Osaka vào năm lớp Một tiểu học. Đó là năm 1961. Người mà cô gặp ở trường tiểu học chính là Ikushima Kyoko.
 
@@ -1188,7 +1188,7 @@ Mãn kinh sớm ư?
 
 Dù nhiều nguyên nhân khác nhau đã được chỉ ra, nhưng phần lớn các trường hợp vẫn nằm trong diện vô căn. Phác đồ điều trị duy nhất thích hợp để có thể mang thai lúc bấy giờ, lẽ ra chính là thụ tinh trong ống nghiệm sử dụng trứng hiến tặng.
 
-Vào khoảng thời gian chìm trong tuyệt vọng khi nghĩ rằng mọi con đường đã bị chặn đứng, bà chợt nhớ đến thông báo do chính Ikushima Kyoko gửi tới với dòng chữ: 'Tôi đã khai trương Phòng khám Sinh sản Ikushima, nơi thực hiện các phương pháp điều trị vô sinh tiên tiến nhất'.
+Vào khoảng thời gian chìm trong tuyệt vọng khi nghĩ rằng mọi con đường đã bị chặn đứng, bà chợt nhớ đến thông báo do chính Ikushima Kyoko gửi tới với dòng chữ: 'Anh đã khai trương Phòng khám Sinh sản Ikushima, nơi thực hiện các phương pháp điều trị vô sinh tiên tiến nhất'.
 
 Lúc ấy, đúng là bấu víu vào bất cứ cọng rơm cứu mạng nào, tâm trí bà hoàn toàn trống rỗng chẳng nghĩ được gì nữa, Nakagawa Keiko hồi tưởng.
 
@@ -1208,7 +1208,7 @@ Khi hay tin, Nakagawa Goro đã chịu một cú sốc vô cùng nặng nề và
 
 Dù đối phương có cất lời xin lỗi, thì tình hình vẫn chẳng thể giải quyết được triệt để. Đối với Nakagawa Keiko, người luôn đinh ninh rằng nếu không sinh được con thì bản thân sẽ vĩnh viễn không thể thoát khỏi địa ngục trần gian này, thì chẩn đoán cả hai vợ chồng đều có khiếm khuyết chẳng khác nào một bản án tử hình.
 
-Rằng không còn cách nào khác sao, chẳng phải mối thâm tình giữa Kyoko và tôi sâu đậm lắm hay sao, Nakagawa Keiko đã nghẹn ngào giãi bày toàn bộ đầu đuôi sự việc với Ikushima Kyoko. Vào buổi hôm ấy, Ikushima Kyoko chỉ im lặng lắng nghe rồi an ủi bà, nhưng trước khi ra về, bà ấy đã dặn dò rằng hãy quay lại đây vào ngày kia.
+Rằng không còn cách nào khác sao, chẳng phải mối thâm tình giữa Kyoko và anh sâu đậm lắm hay sao, Nakagawa Keiko đã nghẹn ngào giãi bày toàn bộ đầu đuôi sự việc với Ikushima Kyoko. Vào buổi hôm ấy, Ikushima Kyoko chỉ im lặng lắng nghe rồi an ủi bà, nhưng trước khi ra về, bà ấy đã dặn dò rằng hãy quay lại đây vào ngày kia.
 
 Ngày kia.
 
@@ -1256,7 +1256,7 @@ Với vóc dáng nhỏ bé của Nakagawa Keiko, kích thước khung xương c�
 
 Chỉ đúng một lần duy nhất sau khi sinh con, Nakagawa Keiko đáp. Khi xuất viện và bồng đứa trẻ đến buổi thăm khám cuối cùng, Ikushima Kyoko đã cất lời,
 
-――Cậu có thể cho tôi bồng nó một lần được không.
+――Cậu có thể cho anh bồng nó một lần được không.
 
 Bà cất lời khẩn khoản với vẻ ngập ngừng. Gật đầu đồng ý và trao đứa trẻ cho Ikushima Kyoko,
 
@@ -1356,7 +1356,7 @@ Trong căn phòng bệnh đơn côi, Nakagawa Keiko lặng lẽ rơi lệ. Vì �
 
 Các y bác sĩ đã đến bên an ủi và thủ thỉ với người phụ nữ đang đầm đìa nước mắt.
 
-――Chắc là đau đớn lắm phải không chị. Chúng tôi hiểu mà. Thế nhưng, chị phải cảm thấy biết ơn vì chí ít mình vẫn giữ được tính mạng chứ. Suýt chút nữa là ngay cả chị Nakagawa cũng không qua khỏi rồi. Vẫn còn có Nakagawa Shinya cơ mà. Xin hãy dành trọn tình yêu thương cho thằng bé, tính cả phần của đứa con đã mất nhé.
+――Chắc là đau đớn lắm phải không chị. Hai người hiểu mà. Thế nhưng, chị phải cảm thấy biết ơn vì chí ít mình vẫn giữ được tính mạng chứ. Suýt chút nữa là ngay cả chị Nakagawa cũng không qua khỏi rồi. Vẫn còn có Nakagawa Shinya cơ mà. Xin hãy dành trọn tình yêu thương cho thằng bé, tính cả phần của đứa con đã mất nhé.
 
 Thế nhưng, dẫu có nghe bao nhiêu lần đi nữa, trái tim Nakagawa Keiko cũng chẳng thể nào được vỗ về. Thậm chí, bà còn thấm thía rằng trên cõi đời này chẳng có lấy một ai thấu hiểu nỗi đau đớn của lòng mình.
 
@@ -1442,7 +1442,7 @@ Mỗi khi men rượu vơi đi và hoàn hồn sau cơn say, người chồng l�
 
 Chim tu hú thường đẻ trứng vào tổ loài khác, mổ vỡ những quả trứng sẵn có trong tổ rồi buộc chim bố mẹ nuôi dưỡng mỗi mình nó. Trong mắt Goro, Shinya trông chẳng khác nào một con mãnh thú hại người, Nakagawa Keiko kể lại.
 
-Takeda suýt thốt lên câu 'xin hãy chờ chút đã, đang nói nhảm gì thế', nhưng kịp thời mím chặt môi nén lại. Sự ghê tởm dâng lên cuồn cuộn như muốn nôn mửa. Bản thân hắn, Nakagawa Shinya, đâu có tự nguyện xin được cấy ghép. Dẫu rằng nếu không có lần cấy ghép đó thì mình đã chẳng thể chào đời, thế nhưng việc chọn sinh ra tôi và Shinya rõ ràng là quyết định từ phía cha mẹ.
+Takeda suýt thốt lên câu 'xin hãy chờ chút đã, đang nói nhảm gì thế', nhưng kịp thời mím chặt môi nén lại. Sự ghê tởm dâng lên cuồn cuộn như muốn nôn mửa. Bản thân hắn, Nakagawa Shinya, đâu có tự nguyện xin được cấy ghép. Dẫu rằng nếu không có lần cấy ghép đó thì mình đã chẳng thể chào đời, thế nhưng việc chọn sinh ra anh và Shinya rõ ràng là quyết định từ phía cha mẹ.
 
 Những hệ quả phát sinh từ quyết định ấy quả thực là chuỗi bất hạnh, nhưng việc trút bỏ trách nhiệm lên đầu một đứa trẻ chào đời trước tiên chẳng phải là hành vi quá đỗi ích kỷ hay sao……
 
@@ -1530,11 +1530,11 @@ Takeda bất giác nhớ lại quãng thời gian dậy thì của chính mình.
 
 “Chắc anh đang khinh bỉ tôi lắm phải không?”
 
-Nhìn chằm chằm vào đôi mắt tôi, Nakagawa Keiko cất lời.
+Nhìn chằm chằm vào đôi mắt anh, Nakagawa Keiko cất lời.
 
 “Chứng kiến mọi thứ sụp đổ từ từ, mà tôi thì chẳng mảy may làm gì cả, chỉ vì bảo vệ sự ích kỷ của bản thân nên cứ thế nhắm mắt làm ngơ.”
 
-Nakagawa Keiko lúc này trông vô cùng già nua, nhỏ thó, và toát lên vẻ đáng thương đến tội nghiệp. Trên cánh tay phải lấp ló qua lớp áo blouse có một vết sẹo cũ, có lẽ đó là dấu tích để lại từ những trận đòn roi thuở trước. Nhận ra điều đó, ngọn lửa giận dữ hừng hực trong lòng tôi phút chốc bỗng chùng xuống chẳng biết trút vào đâu.
+Nakagawa Keiko lúc này trông vô cùng già nua, nhỏ thó, và toát lên vẻ đáng thương đến tội nghiệp. Trên cánh tay phải lấp ló qua lớp áo blouse có một vết sẹo cũ, có lẽ đó là dấu tích để lại từ những trận đòn roi thuở trước. Nhận ra điều đó, ngọn lửa giận dữ hừng hực trong lòng anh phút chốc bỗng chùng xuống chẳng biết trút vào đâu.
 
 “Chồng tôi vốn là người thuộc thế hệ cũ, vóc dáng cũng khá nhỏ nhắn. Chỉ cao tầm mét sáu mươi. Dù lúc nổi giận rất đáng sợ, nhưng người ngợm gầy guộc. Đến khi Shinya tốt nghiệp tiểu học, vóc dáng thằng bé rõ ràng đã vượt trội hơn hẳn bố nó.”
 
@@ -1596,13 +1596,13 @@ Nakagawa Keiko ngập ngừng. “Xin hãy kể cho tôi nghe đi.” Takeda d�
 
 “Shinya hồi học cấp ba từng ép một nữ sinh mang thai rồi bắt cô ấy phá thai. Đó là một đứa trẻ học lớp giáo dục đặc biệt.”
 
-Tai tôi như ù đi.
+Tai anh như ù đi.
 
 Là cưỡng hiếp ư?
 
 “Chuyện đó…… ừm…… xin phép được hỏi một câu có phần thất lễ…… tại sao cảnh sát không can thiệp?”
 
-Ngay khoảnh khắc thốt lên, tôi chợt nhận ra. Đúng rồi. Goto từng nói.
+Ngay khoảnh khắc thốt lên, anh chợt nhận ra. Đúng rồi. Goto từng nói.
 
 Nakagawa Shinya chưa từng có tiền án tiền sự.
 
@@ -1610,7 +1610,7 @@ Cho đến tận trước thời điểm bỏ mạng, hắn vẫn luôn khéo l�
 
 “Con bé gần như chẳng thể nói năng lưu loát. Thế nên tôi tất nhiên cũng có hoài nghi. Nhưng ngặt nỗi làm gì có chứng cứ. Bọn chúng phè phỡn cười cợt bảo rằng hai đứa tự nguyện yêu nhau thắm thiết, bên phía gia đình nạn nhân cũng chẳng biết phải làm sao. Thế nên hai bên đành nhắm mắt làm ngơ chọn cách xuôi theo lời khai của Shinya. Lựa chọn câu chuyện mà họ muốn tin là thật nhất.”
 
-Lồng ngực tôi thắt lại đau đớn.
+Lồng ngực anh thắt lại đau đớn.
 
 “Tại sao, tại sao lại có thể nhẫn tâm đến thế……”
 
@@ -1682,7 +1682,7 @@ Nói đến đây, Nakagawa Keiko chính thức khép lại câu chuyện dài �
 
 “……Sau khi chia tay, bà có còn giữ liên lạc với Shinya nữa không?”
 
-Không gian ngập tràn bầu không khí u ám nặng nề khiến tôi buộc phải lên tiếng hỏi để phá vỡ sự tĩnh lặng.
+Không gian ngập tràn bầu không khí u ám nặng nề khiến anh buộc phải lên tiếng hỏi để phá vỡ sự tĩnh lặng.
 
 “Shinya khoảng hai tháng gọi điện một lần, đòi chuyển khoản số tiền này đến tài khoản nọ trước thời hạn này thời hạn kia. Thế nhưng, mãi đến bước sang tháng 3 mà vẫn chẳng thấy tăm tích đâu. Lâu lắm rồi không thấy liên lạc nên vào đầu tháng 4 tôi có gọi lại cho nó một lần.”
 
@@ -1704,11 +1704,11 @@ Cúi gằm mặt sát xuống sàn nhà, bà chậm rãi gật đầu.
 
 “……Bà có nhớ nó lỡ thốt ra từ ngữ hay biểu cảm nào bất thường không?”
 
-Tôi thầm nghĩ với cái đà này chắc chẳng thu thập được thông tin gì hữu ích đâu, thế nhưng Nakagawa Keiko lại đưa ngón tay lên ấn thái dương, nhắm nghiền mắt trầm ngâm suy nghĩ.
+Anh thầm nghĩ với cái đà này chắc chẳng thu thập được thông tin gì hữu ích đâu, thế nhưng Nakagawa Keiko lại đưa ngón tay lên ấn thái dương, nhắm nghiền mắt trầm ngâm suy nghĩ.
 
 “……Năm phần ba”
 
-Ể, tôi bất giác kêu lên.
+Ể, anh bất giác kêu lên.
 
 “Bà vừa nói gì cơ?”
 
@@ -1730,25 +1730,25 @@ Hoàn toàn vô nghĩa.
 
 Nói xong câu nói mang giọng điệu cứng nhắc, Nakagawa Keiko ngậm tóm lấy bờ môi. Dù gặng hỏi thế nào đi nữa, Nakagawa Keiko vẫn khẳng định bà hoàn toàn không có chút manh mối nào về cụm từ 'Năm phần ba', và từ khoảnh khắc đó, cả hai chìm trong im lặng, chỉ thỉnh thoảng trao đổi dăm ba câu nhạt nhẽo cho đến khi thời gian trôi qua.
 
-Rốt cuộc, tôi đã không nói cho Nakagawa Keiko biết sự thật.
+Rốt cuộc, anh đã không nói cho Nakagawa Keiko biết sự thật.
 
 Rằng Takeda, rằng Nakagawa Shinya, chính là huyết mạch mang dòng máu của Ikushima Kyoko.
 
-Làm sao tôi có thể thốt lên được cơ chứ? Rằng đứa con trai mang dòng máu của Ikushima Kyoko, người bạn mà bà từng hết lòng tin tưởng gửi gắm, kẻ đã bị chính gia đình bạo hành đến mức lệch lạc nhân cách rồi bỏ mạng với tư cách là một tử thi vô danh chính là Shinya, người con trai mà bà đã dứt ruột sinh ra?
+Làm sao anh có thể thốt lên được cơ chứ? Rằng đứa con trai mang dòng máu của Ikushima Kyoko, người bạn mà bà từng hết lòng tin tưởng gửi gắm, kẻ đã bị chính gia đình bạo hành đến mức lệch lạc nhân cách rồi bỏ mạng với tư cách là một tử thi vô danh chính là Shinya, người con trai mà bà đã dứt ruột sinh ra?
 
 Takeda thừa hiểu rằng dẫu có nói ra đi chăng nữa thì người phụ nữ cô độc bất hạnh này cũng chỉ càng thêm đau khổ. Dẫu Nakagawa Keiko thực sự có một phần trách nhiệm trong việc đẩy Shinya vào bước đường cùng, nhưng ngẫm lại, dường như bà cũng đã chịu đựng đủ những hình phạt cay đắng nhất rồi.
 
-Sau khi kết thúc mọi câu chuyện, khi tôi chạy trốn hay rời đi khỏi nhà để đi giày, Nakagawa Keiko đột ngột cất tiếng gọi.
+Sau khi kết thúc mọi câu chuyện, khi anh chạy trốn hay rời đi khỏi nhà để đi giày, Nakagawa Keiko đột ngột cất tiếng gọi.
 
 “Bác sĩ đã có gia đình, có con cái gì chưa ạ?”
 
-Thoáng chốc không biết nên đáp thế nào, sau vài giây chần chừ, tôi quyết định nói sự thật.
+Thoáng chốc không biết nên đáp thế nào, sau vài giây chần chừ, anh quyết định nói sự thật.
 
 “Thật ra vợ tôi đang mang thai, dự sinh là vào tháng 9 này.”
 
 “...Vậy sao. Nếu đứa trẻ bình an chào đời, bác sĩ hãy yêu thương nó nhé. Hãy cho nó một cuộc sống hạnh phúc, sống bù cho cả phần của Shinya...”
 
-Bất giác, tôi đăm đăm nhìn vào gương mặt Nakagawa Keiko. Ánh nắng xuyên qua cánh cửa kính trượt, phủ một vệt bóng mờ lên những vệt thời gian hằn sâu trên trán bà.
+Bất giác, anh đăm đăm nhìn vào gương mặt Nakagawa Keiko. Ánh nắng xuyên qua cánh cửa kính trượt, phủ một vệt bóng mờ lên những vệt thời gian hằn sâu trên trán bà.
 
 “Bác sĩ à... Trước khi gặp bác sĩ, tôi đã luôn trốn chạy.”
 
@@ -1764,11 +1764,11 @@ Những giọt nước mắt trong suốt lặng lẽ lăn dài trên gò má nh
 
 “Bác sĩ à, mai này có dịp, xin hãy đến thắp cho nó nén hương, cùng với gia đình bác sĩ... Tôi sẽ mòn mỏi đợi ngày được gặp lại bác sĩ một lần nữa.”
 
-Chẳng biết đâu là câu trả lời đúng đắn, tôi đành lắng nghe theo bản năng. Tôi đứng dậy tiến lại gần, Keiko lập tức gục vào ngực tôi mà òa khóc nức nở như một con đập vừa vỡ bờ. Tôi đứng ngẩn người, chỉ biết lặng im nhìn xoáy tóc điểm bạc của bà cụ đang rung lên bần bật.
+Chẳng biết đâu là câu trả lời đúng đắn, anh đành lắng nghe theo bản năng. Anh đứng dậy tiến lại gần, Keiko lập tức gục vào ngực anh mà òa khóc nức nở như một con đập vừa vỡ bờ. Anh đứng ngẩn người, chỉ biết lặng im nhìn xoáy tóc điểm bạc của bà cụ đang rung lên bần bật.
 
-Bước ra khỏi ngôi nhà, không khí ấm áp của tiết xuân lập tức ôm trọn lấy cơ thể tôi. Tiếng chim oanh líu lo đâu đó từ phía xa. Cảm giác như vừa được kéo từ một dị giới trở về với thực tại, tâm trí tôi như nhẹ nhõm hơn đôi phần. Những tàn dư tình cảm đen thẫm chìm đọng trong khắp ngôi nhà của Nakagawa Keiko, dù chỉ lưu lại vỏn vẹn vài tiếng đồng hồ, đã như thứ độc tố bào mòn toàn bộ cơ thể tôi.
+Bước ra khỏi ngôi nhà, không khí ấm áp của tiết xuân lập tức ôm trọn lấy cơ thể anh. Tiếng chim oanh líu lo đâu đó từ phía xa. Cảm giác như vừa được kéo từ một dị giới trở về với thực tại, tâm trí anh như nhẹ nhõm hơn đôi phần. Những tàn dư tình cảm đen thẫm chìm đọng trong khắp ngôi nhà của Nakagawa Keiko, dù chỉ lưu lại vỏn vẹn vài tiếng đồng hồ, đã như thứ độc tố bào mòn toàn bộ cơ thể anh.
 
-Tôi ngẫm về cuộc đời quá đỗi nghiệt ngã của Nakagawa Shinya. Tôi nghĩ về người thiếu nữ câm lặng chịu đựng vết thương lòng sâu thẳm theo suốt cuộc đời do hắn gây ra. Tôi nghĩ về nửa kia của cặp song sinh mang cùng ADN hoàn hảo, người anh trai đã chia rẽ vận mệnh theo xác suất 50%. Và về Kyukyu-12, kẻ có lẽ đã bị ai đó sát hại rồi thả xác xuống lòng biển lạnh giá.
+Anh ngẫm về cuộc đời quá đỗi nghiệt ngã của Nakagawa Shinya. Anh nghĩ về người thiếu nữ câm lặng chịu đựng vết thương lòng sâu thẳm theo suốt cuộc đời do hắn gây ra. Anh nghĩ về nửa kia của cặp song sinh mang cùng ADN hoàn hảo, người anh trai đã chia rẽ vận mệnh theo xác suất 50%. Và về Kyukyu-12, kẻ có lẽ đã bị ai đó sát hại rồi thả xác xuống lòng biển lạnh giá.
 
 Cậu bé năm xưa, dẫu sống trong đòn bạo hành tàn khốc vẫn giữ lại lòng thương yêu dịu dàng dành cho chú thỏ con, chẳng biết tự bao giờ đã trở thành kẻ dùng bạo lực chà đạp lên những số phận yếu thế hơn mình.
 
@@ -1776,11 +1776,11 @@ Kể từ cột mốc mùa đông năm ba tuổi, thứ tình thương từng ba
 
 Cưỡng hiếp? Nếu đúng là vậy, hành vi mà Nakagawa Shinya đã gây ra là tội ác tuyệt đối không thể dung thứ, nhất định phải bị pháp luật và đạo đức nghiêm trị. Thế nhưng, có lẽ hắn chưa từng được dạy để hiểu. Hắn không biết cách thiết lập một mối quan hệ gắn bó thân mật với người khác giới, hay rộng hơn là với một con người, càng không hề biết rằng hành vi ân ái vốn phải là kết tinh nảy nở từ tình yêu thương bồi đắp qua tháng ngày...
 
-Lồng ngực tôi thắt lại đau đớn. Ngay lúc này, tôi thậm chí còn nảy ra khao khát muốn ôm lấy đứa trẻ Nakagawa Shinya của năm xưa, ôm lấy cậu bé Shinya tội nghiệp khi chú thỏ cưng bị đánh chết. Phải chi ngày đó có ai làm vậy, phải chi tình yêu thương vây quanh cuộc đời hắn, có lẽ thiếu nữ kia đã chẳng phải chịu nỗi đau đớn gặm nhấm, và bản thân hắn cũng đâu đến mức phải trôi dạt vô hồn trên mặt biển lạnh giá...
+Lồng ngực anh thắt lại đau đớn. Ngay lúc này, anh thậm chí còn nảy ra khao khát muốn ôm lấy đứa trẻ Nakagawa Shinya của năm xưa, ôm lấy cậu bé Shinya tội nghiệp khi chú thỏ cưng bị đánh chết. Phải chi ngày đó có ai làm vậy, phải chi tình yêu thương vây quanh cuộc đời hắn, có lẽ thiếu nữ kia đã chẳng phải chịu nỗi đau đớn gặm nhấm, và bản thân hắn cũng đâu đến mức phải trôi dạt vô hồn trên mặt biển lạnh giá...
 
-Tôi nhắn cho Kinosaki một dòng tin nhắn nhờ cậu ấy liên lạc lại ngay khi có thể, rồi ghé vào một quán soba còn mở cửa gần đó gọi một bát hiyashi tanuki soba mát lạnh. Có vẻ đây là một quán ăn hút khách trong vùng, bởi dù đã quá giờ cơm trưa khá lâu, bên trong vẫn chật kín người.
+Anh nhắn cho Kinosaki một dòng tin nhắn nhờ cậu ấy liên lạc lại ngay khi có thể, rồi ghé vào một quán soba còn mở cửa gần đó gọi một bát hiyashi tanuki soba mát lạnh. Có vẻ đây là một quán ăn hút khách trong vùng, bởi dù đã quá giờ cơm trưa khá lâu, bên trong vẫn chật kín người.
 
-Mua xong hộp bánh ngọt hình cá ayu như đã hứa tại cửa hàng quà lưu niệm dọc sông Nagara, tôi thong thả tản bộ bờ sông để quay lại bãi đậu xe. Vừa bước đi, tôi vừa cẩn thận xâu chuỗi lại từng manh mối, thả cho dòng suy nghĩ xoay chuyển liên hồi.
+Mua xong hộp bánh ngọt hình cá ayu như đã hứa tại cửa hàng quà lưu niệm dọc sông Nagara, anh thong thả tản bộ bờ sông để quay lại bãi đậu xe. Vừa bước đi, anh vừa cẩn thận xâu chuỗi lại từng manh mối, thả cho dòng suy nghĩ xoay chuyển liên hồi.
 
 Việc Nakagawa Shinya tìm đến nhà Ikushima Kyoko chắc chắn là vì hắn đã đọc được bản sao giấy cam kết và nhận ra bí mật về gốc tích của chính mình.
 
@@ -1790,7 +1790,7 @@ Lấy danh xưng Takahashi Yuichi, giả làm kẻ đại diện xuất hiện t
 
 Ikushima Kyoko hẳn đã thấu suốt gã đàn ông tự xưng Takahashi Yuichi thực chất chính là Nakagawa Shinya. Thế nhưng, bà đã cố tình không vạch thắt hay gạn hỏi.
 
-Thử đặt mình vào tâm trạng của Ikushima Kyoko lúc ấy, lồng ngực tôi lại dâng lên một nỗi xót xa nghẹn ngào.
+Thử đặt mình vào tâm trạng của Ikushima Kyoko lúc ấy, lồng ngực anh lại dâng lên một nỗi xót xa nghẹn ngào.
 
 Đứa trẻ mang dòng máu di truyền của bà, đứa trẻ mà bà từng đinh ninh đã gửi gắm trọn vẹn cho người bạn thân nhất để nó có một đời an yên hạnh phúc. Dù không gặp lại, cũng chẳng có ý định chủ động công khai mối quan hệ ruột thịt, nhưng thâm tâm bà chắc chắn chưa từng nguôi ngoai khắc khoải. Liệu Kyoko cũng đã tường tận về chuỗi ngày tuổi thơ cay đắng của hắn?
 
@@ -1798,9 +1798,9 @@ Bị bạn thân phản bội, bị chính đứa con đẻ miệt thị và t�
 
 Về mối quan hệ huyết thống di truyền với Shinya, liệu Ikushima Kyoko đã đưa ra câu trả lời hay chưa?
 
-Đáp án mà tôi đúc kết được là: CÓ.
+Đáp án mà anh đúc kết được là: CÓ.
 
-Qua những gì thu thập được, chân dung Ikushima Kyoko hiện lên là một phụ nữ cực kỳ thông tuệ, luôn kiên định sống và hành động theo chính nghĩa cùng niềm tin của bản thân. Một người như thế từng khẳng định với tôi rằng “con người có quyền được biết sự thật”. Vậy thì đối với Nakagawa Shinya, chắc chắn bà cũng sẽ giữ nguyên nguyên tắc ấy.
+Qua những gì thu thập được, chân dung Ikushima Kyoko hiện lên là một phụ nữ cực kỳ thông tuệ, luôn kiên định sống và hành động theo chính nghĩa cùng niềm tin của bản thân. Một người như thế từng khẳng định với anh rằng “con người có quyền được biết sự thật”. Vậy thì đối với Nakagawa Shinya, chắc chắn bà cũng sẽ giữ nguyên nguyên tắc ấy.
 
 Động cơ sát hại Nakagawa Shinya có thể coi là tồn tại ở tất cả mọi người, bao gồm cả chính Ikushima Kyoko. Xét dưới bất kỳ góc độ nào, hắn cũng là một phần tử nguy hiểm đầy rẫy thù oán. Đặc biệt là Ikushima Kyoko, người trực tiếp bị tống tiền, cùng đứa con trai Sohei của bà hẳn phải sở hữu động cơ sát nhân mạnh mẽ hơn cả.
 
@@ -1810,23 +1810,23 @@ Tại sao lại như vậy? Trong khi Nakagawa Shinya vốn dĩ đã bỏ mạng
 
 Nếu mục đích phạm tội là để bảo vệ danh tiếng phòng khám, thì việc thủ tiêu Kyoko trở nên hoàn toàn vô lý. Phải chăng đã xảy ra một biến cố bất ngờ ngoài dự tính liên quan tới vụ sát hại Nakagawa Shinya?
 
-Vừa suy ngẫm tới đây, một sinh vật nhỏ có cánh chợt chao qua trước mắt tôi. Mải chìm đắm trong dòng suy tưởng trong lúc cảo bước, tôi đã đi một đoạn đường dài từ lúc nào chẳng hay, và khi bừng tỉnh thì nhận ra mình đang đứng trên cây cầu bắc ngang sông Nagara.
+Vừa suy ngẫm tới đây, một sinh vật nhỏ có cánh chợt chao qua trước mắt anh. Mải chìm đắm trong dòng suy tưởng trong lúc cảo bước, anh đã đi một đoạn đường dài từ lúc nào chẳng hay, và khi bừng tỉnh thì nhận ra mình đang đứng trên cây cầu bắc ngang sông Nagara.
 
 Sinh vật ấy lơ lửng chao chao rồi nhẹ nhàng đậu xuống lan can cầu.
 
 Đôi cánh mỏng dính trong suốt. Từ thân hình mảnh dẻ kiệt cùng của nó vươn ra ba sợi đuôi dài.
 
-Là một con phù du. Ngay khoảnh khắc tôi vừa nhận ra, nó đã cất cánh bay vút đi, chao xuống mặt sông phía dưới. Nheo mắt nhìn kỹ, tôi bàng hoàng nhận ra trên mặt nước sông Nagara lúc này là hàng vạn con phù du đang vũ điệu điên cuồng. Con phù du đơn độc vừa rồi đã hòa lẫn vào biển sinh thể ấy, lập tức chìm nghỉm không còn tung tích.
+Là một con phù du. Ngay khoảnh khắc anh vừa nhận ra, nó đã cất cánh bay vút đi, chao xuống mặt sông phía dưới. Nheo mắt nhìn kỹ, anh bàng hoàng nhận ra trên mặt nước sông Nagara lúc này là hàng vạn con phù du đang vũ điệu điên cuồng. Con phù du đơn độc vừa rồi đã hòa lẫn vào biển sinh thể ấy, lập tức chìm nghỉm không còn tung tích.
 
 Ký ức về lời thầy giáo sinh học năm xưa chợt ùa về. Khi đã lột xác thành côn trùng trưởng thành, loài phù du chỉ có thể sống vỏn vẹn trong vài giờ đồng hồ ngắn ngủi. Trong khoảng thời gian ít ỏi đó, chúng phải hoàn tất việc giao phối, sà xuống mặt nước để đẻ trứng. Bằng phương thức nghiệt ngã ấy, chúng đã duy trì nòi giống suốt ba trăm triệu năm. Phù du chính là một hóa thạch sống...
 
-Nakagawa Shinya liệu cũng từng ngắm nhìn dòng sông Nagara này? Như Oda Nobunaga từng dõi mắt nhìn xưa kia? Và như Takeda tôi đang thu vào tầm mắt lúc này? Nếu chiếu theo dòng chảy đằng đẵng vô tận của lịch sử Trái Đất, sinh mệnh của con người có lẽ cũng mỏng manh chẳng khác nào loài phù du kia. Ngay cả hành vi chở chất liệu gen trên con thuyền sinh thể để trao truyền lại ngọn đuốc mầm sống qua các thế hệ cũng vậy.
+Nakagawa Shinya liệu cũng từng ngắm nhìn dòng sông Nagara này? Như Oda Nobunaga từng dõi mắt nhìn xưa kia? Và như Takeda anh đang thu vào tầm mắt lúc này? Nếu chiếu theo dòng chảy đằng đẵng vô tận của lịch sử Trái Đất, sinh mệnh của con người có lẽ cũng mỏng manh chẳng khác nào loài phù du kia. Ngay cả hành vi chở chất liệu gen trên con thuyền sinh thể để trao truyền lại ngọn đuốc mầm sống qua các thế hệ cũng vậy.
 
 《Thật xót xa làm sao...》
 
-Bất giác, giai điệu ngậm ngùi ấy khẽ ngân vang trong một góc tâm trí tôi.
+Bất giác, giai điệu ngậm ngùi ấy khẽ ngân vang trong một góc tâm trí anh.
 
-Tôi đã từng đọc được điều đó ở đâu nhỉ? Về nỗi bi tráng mỏng manh của kiếp phù du, và của cả kiếp người...
+Anh đã từng đọc được điều đó ở đâu nhỉ? Về nỗi bi tráng mỏng manh của kiếp phù du, và của cả kiếp người...
 
 Đang mải mê thả hồn theo dòng hồi tưởng, chuông điện thoại reo vang như muốn cắt đứt cơn mộng mị. Là Kinosaki gọi.
 
@@ -1834,19 +1834,19 @@ Tôi đã từng đọc được điều đó ở đâu nhỉ? Về nỗi bi tr�
 
 “Tớ vừa xong ca thủ thuật, giờ đúng lúc đang rảnh tay. Có thời gian nói chuyện đấy.”
 
-Giọng điệu Kinosaki đầy vẻ điềm tĩnh. Sự ôn tồn quen thuộc ấy truyền cho tôi thêm dũng khí để mở lời.
+Giọng điệu Kinosaki đầy vẻ điềm tĩnh. Sự ôn tồn quen thuộc ấy truyền cho anh thêm dũng khí để mở lời.
 
 “Thực ra là...”
 
-Tôi đem toàn bộ những thông tin vừa nghe được từ Nakagawa Keiko tóm lược lại các điểm mấu chốt rồi lần lượt truyền đạt cho Kinosaki. Thân thế của Nakagawa Shinya. Chân dung con người hắn. Kinosaki thỉnh thoảng lại chen vào vài câu hỏi ngắt đoạn để lắng nghe, thế nhưng...
+Anh đem toàn bộ những thông tin vừa nghe được từ Nakagawa Keiko tóm lược lại các điểm mấu chốt rồi lần lượt truyền đạt cho Kinosaki. Thân thế của Nakagawa Shinya. Chân dung con người hắn. Kinosaki thỉnh thoảng lại chen vào vài câu hỏi ngắt đoạn để lắng nghe, thế nhưng...
 
 “Ba phần năm.”
 
-Ngay khoảnh khắc cụm từ ấy vừa bật ra khỏi miệng tôi, tôi có thể cảm nhận rõ ràng tiếng hít sâu thảng thốt nín thở của cậu ấy ở đầu dây bên kia.
+Ngay khoảnh khắc cụm từ ấy vừa bật ra khỏi miệng anh, anh có thể cảm nhận rõ ràng tiếng hít sâu thảng thốt nín thở của cậu ấy ở đầu dây bên kia.
 
 “Sao thế cậu?”
 
-Không thể chịu nổi sự im lặng kéo dài đến mức nghẹt thở, tôi đành cất tiếng gọi Kinosaki một lần nữa.
+Không thể chịu nổi sự im lặng kéo dài đến mức nghẹt thở, anh đành cất tiếng gọi Kinosaki một lần nữa.
 
 “...Hóa ra là vậy. Hóa ra là như thế sao.”
 
@@ -1858,29 +1858,29 @@ Không thể chịu nổi sự im lặng kéo dài đến mức nghẹt thở, t
 
 “Cả hung thủ, động cơ, lẫn lý do vì sao vụ án này lại xảy ra, tất cả tớ đều đã tường tỏ. Chìa khóa cuối cùng chính là phân số. Tất cả nằm ở chính điều đó.”
 
-Ở đầu dây bên kia, trong khi tôi siết chặt chiếc điện thoại đến mức không thốt nên lời,
+Ở đầu dây bên kia, trong khi anh siết chặt chiếc điện thoại đến mức không thốt nên lời,
 
 “Chìa khóa của căn phòng kín đã được mở ra.”
 
 Kinosaki trầm ngâm cất lời thông báo.
 
-Tôi khẩn khoản giục cậu ấy hãy cho tôi biết sự thật, nhưng Kinosaki lại thoái thác với lý do vẫn còn một vài điều cần phải kiểm chứng thêm. Cậu ấy quả quyết hẹn sẽ gọi lại ngay khi tôi về tới địa phận Hyogo rồi chủ động dập máy.
+Anh khẩn khoản giục cậu ấy hãy cho anh biết sự thật, nhưng Kinosaki lại thoái thác với lý do vẫn còn một vài điều cần phải kiểm chứng thêm. Cậu ấy quả quyết hẹn sẽ gọi lại ngay khi anh về tới địa phận Hyogo rồi chủ động dập máy.
 
 Ba phần năm. Phân số.
 
-Dù có vắt óc suy nghĩ bao nhiêu lần, tôi vẫn hoàn toàn mơ hồ không hiểu tại sao chỉ nghe đến đó mà cậu ấy lại phá giải được tất cả. Rốt cuộc trong đầu gã đó chứa đựng những gì vậy chứ?
+Dù có vắt óc suy nghĩ bao nhiêu lần, anh vẫn hoàn toàn mơ hồ không hiểu tại sao chỉ nghe đến đó mà cậu ấy lại phá giải được tất cả. Rốt cuộc trong đầu gã đó chứa đựng những gì vậy chứ?
 
-Tôi bước lên chiếc Prius và lăn bánh rời khỏi thành phố Gifu khi đồng hồ vừa điểm gần bốn giờ chiều.
+Anh bước lên chiếc Prius và lăn bánh rời khỏi thành phố Gifu khi đồng hồ vừa điểm gần bốn giờ chiều.
 
-Tôi vội vã nhấn ga lao về phía căn nhà của mình với tốc độ đụng trần cho phép để không bị cảnh sát tuýt còi. Đang đắm mình trong bản tình ca hoài niệm “Sakura” của nhóm Kobukuro phát ra từ hệ thống loa xe hơi, giai điệu da diết ấy bỗng nhiên vỡ khựng, thay vào đó là tiếng chuông điện thoại dồn dập vang lên.
+Anh vội vã nhấn ga lao về phía căn nhà của mình với tốc độ đụng trần cho phép để không bị cảnh sát tuýt còi. Đang đắm mình trong bản tình ca hoài niệm “Sakura” của nhóm Kobukuro phát ra từ hệ thống loa xe hơi, giai điệu da diết ấy bỗng nhiên vỡ khựng, thay vào đó là tiếng chuông điện thoại dồn dập vang lên.
 
-Chẳng hiểu sao, một cảm giác bất an dữ dội đột ngột xâm chiếm lồng ngực. Tôi nhấn nút nghe.
+Chẳng hiểu sao, một cảm giác bất an dữ dội đột ngột xâm chiếm lồng ngực. Anh nhấn nút nghe.
 
 Đầu dây bên kia là vô số âm thanh hỗn tạp, ồn ào náo nhiệt. Tiếng còi và tiếng bánh xe lửa nghiến trên đường ray vang lên rất gần. Chẳng lẽ là ở ga tàu?
 
 “Tôi là Takano, nhân viên ga JR Ashiya. Xin hỏi có phải tôi đang nói chuyện với chồng của cô Takeda Erika không ạ?”
 
-Sống lưng tôi lạnh ngắt.
+Sống lưng anh lạnh ngắt.
 
 “Tôi là Wataru, chồng cô ấy đây. Erika... cô ấy làm sao vậy?”
 

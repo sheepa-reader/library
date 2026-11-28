@@ -1,10 +1,10 @@
 # Chương Kết: Phù Du
 
-Sau khi Kinosaki ra về, tôi đã trò chuyện với Takeda Erika cho đến tận lúc trời hửng sáng, như để khỏa lấp khoảng trống hai tháng trời của đôi bên. Tôi không biết liệu việc thấu hiểu cuộc đời của kẻ mà mình đã tước đoạt mạng sống trong đêm tối kinh hoàng ấy có mang lại điều gì tích cực cho Takeda Erika hay không, nhưng cô vẫn mong muốn được biết. Khi tôi kể chuyện đã đến ngôi nhà thời thơ ấu của Nakagawa Shinya, Takeda Erika lộ vẻ chấn động, nhưng đến khi nghe xong câu chuyện mà Nakagawa Keiko đã kể lại, cô chắp tay như đang cầu nguyện rồi khép mi mắt lại.
+Sau khi Kinosaki ra về, anh đã trò chuyện với Takeda Erika cho đến tận lúc trời hửng sáng, như để khỏa lấp khoảng trống hai tháng trời của đôi bên. Anh không biết liệu việc thấu hiểu cuộc đời của kẻ mà mình đã tước đoạt mạng sống trong đêm tối kinh hoàng ấy có mang lại điều gì tích cực cho Takeda Erika hay không, nhưng cô vẫn mong muốn được biết. Khi anh kể chuyện đã đến ngôi nhà thời thơ ấu của Nakagawa Shinya, Takeda Erika lộ vẻ chấn động, nhưng đến khi nghe xong câu chuyện mà Nakagawa Keiko đã kể lại, cô chắp tay như đang cầu nguyện rồi khép mi mắt lại.
 
-Kẹp mái tóc đen dài ra sau vành tai, gương mặt nghiêng cúi gằm của Takeda Erika đẹp đến nao lòng, hệt như khoảnh khắc chúng tôi gặp gỡ và tôi đã yêu cô ngay từ cái nhìn đầu tiên.
+Kẹp mái tóc đen dài ra sau vành tai, gương mặt nghiêng cúi gằm của Takeda Erika đẹp đến nao lòng, hệt như khoảnh khắc hai người gặp gỡ và anh đã yêu cô ngay từ cái nhìn đầu tiên.
 
-Nhận ra điều đó, tôi thấy choáng váng. Không thể nào. Phải chăng nguyên nhân lớn nhất khiến Nakagawa Shinya trút nỗi căm hờn lên tôi và tấn công Takeda Erika chính là vì... Lẽ nào anh ta cũng...
+Nhận ra điều đó, anh thấy choáng váng. Không thể nào. Phải chăng nguyên nhân lớn nhất khiến Nakagawa Shinya trút nỗi căm hờn lên anh và tấn công Takeda Erika chính là vì... Lẽ nào anh ta cũng...
 
 “Em sao thế?”
 
@@ -12,19 +12,19 @@ Nhận ra điều đó, tôi thấy choáng váng. Không thể nào. Phải ch�
 
 Mọi thứ chỉ là phỏng đoán. Bày ra vẻ mặt bình thản để trấn an, Erika chỉ mỉm cười nhạt.
 
-Nếu mang xác suất năm mươi phần trăm gánh chịu hoàn cảnh sống hệt như Nakagawa Shinya, liệu bản thân tôi sẽ trở thành một kẻ thế nào? Liệu tôi có thể không căm hận người kia nổi chăng? Thật chẳng thể tưởng tượng nổi.
+Nếu mang xác suất năm mươi phần trăm gánh chịu hoàn cảnh sống hệt như Nakagawa Shinya, liệu bản thân anh sẽ trở thành một kẻ thế nào? Liệu anh có thể không căm hận người kia nổi chăng? Thật chẳng thể tưởng tượng nổi.
 
 “Khi nào tâm lý ổn định lại, chúng ta đi tảo mộ nhé.”
 
 Nói đoạn, Takeda Erika lặng lẽ gật đầu.
 
-Trước kia, tôi từng đọc được ở đâu đó rằng việc cầu siêu miếu mồ suy cho cùng là vì người sống, đó là hành vi để xoa dịu tâm hồn và để sám hối.
+Trước kia, anh từng đọc được ở đâu đó rằng việc cầu siêu miếu mồ suy cho cùng là vì người sống, đó là hành vi để xoa dịu tâm hồn và để sám hối.
 
-Dù chúng tôi có đến viếng, chắc gì Nakagawa Shinya đã vui lòng.
+Dù hai người có đến viếng, chắc gì Nakagawa Shinya đã vui lòng.
 
-Thế nhưng, chúng tôi chỉ còn cách sống tiếp, cả đời cầu siêu cho anh ta và chuộc lại lỗi lầm. Vì anh ta, vì Nakagawa Keiko, và vì cả Ikushima Kyoko. Để thực hiện trọn vẹn lời hứa.
+Thế nhưng, hai người chỉ còn cách sống tiếp, cả đời cầu siêu cho anh ta và chuộc lại lỗi lầm. Vì anh ta, vì Nakagawa Keiko, và vì cả Ikushima Kyoko. Để thực hiện trọn vẹn lời hứa.
 
-Takeda Erika cũng kể cho tôi nghe về những gì cô đã trò chuyện cùng Ikushima Kyoko. Takeda Erika chính là người cuối cùng gặp mặt Ikushima Kyoko khi bà còn sống.
+Takeda Erika cũng kể cho anh nghe về những gì cô đã trò chuyện cùng Ikushima Kyoko. Takeda Erika chính là người cuối cùng gặp mặt Ikushima Kyoko khi bà còn sống.
 
 Mọi chuyện đại khái giống hệt như phỏng đoán của Kinosaki. Ikushima Kyoko đã kể chuyện mình từng thổ lộ tên thật với Nakagawa Shinya, và ngỏ lời xin lỗi Takeda Erika.
 
@@ -38,7 +38,7 @@ Khi Takeda Erika định bước ra khỏi phòng, Ikushima Kyoko đã gọi v�
 
 Cuộc trò chuyện tạm lắng xuống, Takeda Erika khẽ thốt lên. “Dù Kinosaki cũng biết chuyện đó rồi.”
 
-Vừa đáp lời, tôi vừa ngẫm nghĩ. Quả là một bí mật quá đỗi nặng nề, nhưng việc gìn giữ bí mật này chắc chắn cũng là một phần của quá trình chuộc tội, để bảo vệ tương lai hạnh phúc của đứa trẻ sắp chào đời. Liệu có nên hé lộ mối quan hệ của chúng tôi cho đứa trẻ biết không? Tôi chẳng thể định đoạt được. Có lẽ chúng tôi chỉ còn cách tiếp tục suy ngẫm với tất cả sự chân thành và tự tìm lấy câu trả lời mà thôi.
+Vừa đáp lời, anh vừa ngẫm nghĩ. Quả là một bí mật quá đỗi nặng nề, nhưng việc gìn giữ bí mật này chắc chắn cũng là một phần của quá trình chuộc tội, để bảo vệ tương lai hạnh phúc của đứa trẻ sắp chào đời. Liệu có nên hé lộ mối quan hệ của hai người cho đứa trẻ biết không? Anh chẳng thể định đoạt được. Có lẽ hai người chỉ còn cách tiếp tục suy ngẫm với tất cả sự chân thành và tự tìm lấy câu trả lời mà thôi.
 
 “Anh xin lỗi nhé.”
 
@@ -48,13 +48,13 @@ Không thể kìm nén thêm, sau khoảng lặng chìm trong thinh lặng, Take
 
 “Thì là... chuyện anh là anh trai của em.”
 
-Vừa thốt lên, lồng ngực tôi lại thắt lại. Takeda Erika vẫn ngấn đầy nước mắt nhưng vẫn mỉm cười.
+Vừa thốt lên, lồng ngực anh lại thắt lại. Takeda Erika vẫn ngấn đầy nước mắt nhưng vẫn mỉm cười.
 
 “Hồi đó, có phải anh vừa tan ca trực về nhà là ôm chầm lấy em hôn ngay với vẻ mặt đầy đăm chiêu phải không?”
 
 “Ừ.”
 
-Đó là một đêm hạnh phúc. Nghĩ lại thì, ngày hôm đó, tại sao Takeda Erika lại chấp nhận tôi?
+Đó là một đêm hạnh phúc. Nghĩ lại thì, ngày hôm đó, tại sao Takeda Erika lại chấp nhận anh?
 
 “...Em không sợ sao?”
 
@@ -62,13 +62,13 @@ Takeda Erika đáp lời mang theo chút đùa cợt rằng, thú thật với a
 
 “Nhưng mà nhé, em đã hỏi anh rằng 'Anh không sao chứ? Wataru'. Lúc đó, em đã nghĩ: à, đây chính là anh Wataru mà mình yêu thương. Là anh trai hay là chồng, sao cũng được hết. Em chỉ muốn được ở cạnh con người này thôi, em đã nghĩ như thế đấy.”
 
-Takeda Erika... Takeda Erika ơi. Không kiềm chế được nữa, tôi vươn tay ôm lấy tấm lưng cô vào lòng. Nhìn thấy chiếc gáy trắng ngần. Cảm nhận rõ nhịp đập từ lồng ngực đang phập phồng. Chiếc bụng nhô cao chạm vào người tôi, truyền tới hơi ấm áp nồng nàn.
+Takeda Erika... Takeda Erika ơi. Không kiềm chế được nữa, anh vươn tay ôm lấy tấm lưng cô vào lòng. Nhìn thấy chiếc gáy trắng ngần. Cảm nhận rõ nhịp đập từ lồng ngực đang phập phồng. Chiếc bụng nhô cao chạm vào người anh, truyền tới hơi ấm áp nồng nàn.
 
 “Cảm ơn em.”
 
-Takeda Erika siết chặt vòng tay đang ôm lấy eo tôi. Ngước mặt lên, đôi trẻ nhìn chăm chú vào nhau trong chốc lát rồi Takeda Erika khép hờ mi mắt.
+Takeda Erika siết chặt vòng tay đang ôm lấy eo anh. Ngước mặt lên, đôi trẻ nhìn chăm chú vào nhau trong chốc lát rồi Takeda Erika khép hờ mi mắt.
 
-Tôi thầm nghĩ, mình yêu Takeda Erika biết bao. Em gái tôi. Người vợ thương yêu nhất, người cùng tôi chia sẻ bí mật. Để bảo vệ đứa con, để bảo vệ tôi, cô ấy đã buộc phải phạm tội. Chúng tôi chỉ còn cách vượt qua tất cả. Đối mặt với câu hỏi không có đáp án ấy bằng cả cuộc đời của hai người. Có lẽ đây là điều đã được sắp đặt sẵn trong bộ gen. Hoặc có thể là một sự cấm kỵ. Dẫu vậy, ít nhất cảm xúc hiện hữu nơi đây lúc này là chân thật...
+Anh thầm nghĩ, mình yêu Takeda Erika biết bao. Em gái anh. Người vợ thương yêu nhất, người cùng anh chia sẻ bí mật. Để bảo vệ đứa con, để bảo vệ anh, cô ấy đã buộc phải phạm tội. Hai người chỉ còn cách vượt qua tất cả. Đối mặt với câu hỏi không có đáp án ấy bằng cả cuộc đời của hai người. Có lẽ đây là điều đã được sắp đặt sẵn trong bộ gen. Hoặc có thể là một sự cấm kỵ. Dẫu vậy, ít nhất cảm xúc hiện hữu nơi đây lúc này là chân thật...
 
 Và rồi, môi họ chạm vào nhau.
 
@@ -82,21 +82,21 @@ Hình như Midorikawa Ai đã quyết định ly hôn.
 
 Một thông báo báo tin đó đã âm thầm được gửi đến qua ứng dụng Line. Dù chưa biết tính sao với Kuroda, nhưng có vẻ như cô ấy đã hạ quyết tâm tiến lên phía trước một bước.
 
-Khi mọi chuyện đã đâu vào đấy, Takeda tìm đến gặp Ikushima Sohei. Bởi tôi nghĩ mình phải làm thế. Tôi thuật lại cho Ikushima Sohei nghe những suy luận của Kinosaki một lần nữa.
+Khi mọi chuyện đã đâu vào đấy, Takeda tìm đến gặp Ikushima Sohei. Bởi anh nghĩ mình phải làm thế. Anh thuật lại cho Ikushima Sohei nghe những suy luận của Kinosaki một lần nữa.
 
-Về mối quan hệ giữa bốn người cùng chia sẻ chung một hệ gen gồm Ikushima Sohei, Takeda, Takeda Erika và Nakagawa Shinya thì tôi giữ kín không nhắc đến. Đó là kết luận mà chúng tôi đã đưa ra.
+Về mối quan hệ giữa bốn người cùng chia sẻ chung một hệ gen gồm Ikushima Sohei, Takeda, Takeda Erika và Nakagawa Shinya thì anh giữ kín không nhắc đến. Đó là kết luận mà hai người đã đưa ra.
 
-Nghe xong câu chuyện tại phòng khám, Ikushima Sohei thở dài thật sâu rồi cất lời cảm ơn. Vốn là một người thông minh, có lẽ đôi khi anh cũng láng mang nhận ra chúng tôi đang giấu giếm điều gì đó. Thế nhưng, anh đã cố tình không gặng hỏi.
+Nghe xong câu chuyện tại phòng khám, Ikushima Sohei thở dài thật sâu rồi cất lời cảm ơn. Vốn là một người thông minh, có lẽ đôi khi anh cũng láng mang nhận ra hai người đang giấu giếm điều gì đó. Thế nhưng, anh đã cố tình không gặng hỏi.
 
 Lúc chuẩn bị ra về, Ikushima Sohei mở lời như thể đã hạ quyết tâm điều gì.
 
 “Sau vụ đó, cháu đã tìm hiểu xem mẹ mình đã định làm những gì trong khoảng thời gian từ tháng Ba đến tháng Tư.”
 
-Phải chăng đó là những việc cuối cùng mà Ikushima Kyoko đã làm khi tinh thần trở nên bất ổn? Tim tôi đập dồn dập.
+Phải chăng đó là những việc cuối cùng mà Ikushima Kyoko đã làm khi tinh thần trở nên bất ổn? Tim anh đập dồn dập.
 
 “Xin chú hãy xem cái này ạ.” Ikushima Sohei lấy từ ngăn kéo bàn làm việc ra một cuốn sách.
 
-Nhìn vào tựa đề, lồng ngực tôi càng thêm quặn thắt. Đó là cuốn phóng sự viết về những đứa trẻ ra đời từ phương pháp thụ tinh trong ống nghiệm ngoài hôn nhân.
+Nhìn vào tựa đề, lồng ngực anh càng thêm quặn thắt. Đó là cuốn phóng sự viết về những đứa trẻ ra đời từ phương pháp thụ tinh trong ống nghiệm ngoài hôn nhân.
 
 “Có vẻ như trước khi qua đời, mẹ đã rất chăm chú đọc những cuốn sách thế này.”
 
@@ -104,19 +104,19 @@ Nhìn vào tựa đề, lồng ngực tôi càng thêm quặn thắt. Đó là c
 
 Phải chăng chúng ta vì quá mải mê thỏa mãn ước nguyện có con của các cặp vợ chồng mà đã vô tình phớt lờ quyền lợi, nhân quyền của những đứa trẻ sinh ra đời?
 
-Nhìn dòng chữ được in đậm ấy, tôi nghẹn lời không thốt nên câu, chết sững trong chốc lát.
+Nhìn dòng chữ được in đậm ấy, anh nghẹn lời không thốt nên câu, chết sững trong chốc lát.
 
 “Trước đây, việc che giấu thông tin về người hiến tặng là điều hiển nhiên, và cháu cũng từng cho đó là đương nhiên. Khi nghe tin số lượng người hiến tặng sụt giảm thê thảm sau khi quyền được biết nguồn gốc của trẻ được dấy lên, thậm chí cháu còn nghĩ, nghe thật xấu hổ làm sao, đáng đời lắm, ai bảo bày đặt vẽ chuyện rắc rối, thật là đáng tiếc mà.”
 
-“Vậy sao,” cuối cùng tôi cũng cất tiếng hùa theo, dù bản thân chẳng biết gương mặt mình lúc ấy đang biểu cảm thế nào.
+“Vậy sao,” cuối cùng anh cũng cất tiếng hùa theo, dù bản thân chẳng biết gương mặt mình lúc ấy đang biểu cảm thế nào.
 
 “Trong sách viết rất rõ những dằn vặt và khổ đau của những đứa trẻ sinh ra bằng phương pháp thụ tinh trong ống nghiệm ngoài hôn nhân. Cú sốc khi phát hiện bản thân không hề có quan hệ huyết thống với cha mẹ. Sự bất an tột độ khi không biết cội nguồn sinh học của mình ở đâu. Thêm vào đó... nỗi sợ hãi bất giác không biết mình có đang yêu nhầm anh chị em ruột thịt hay không. Thậm chí còn có cả báo cáo về những trường hợp anh chị em ruột kết hôn với nhau, và sự thật chỉ vỡ lở sau khi họ đã sinh con.”
 
-Không chỉ riêng chúng tôi. Rốt cuộc cặp anh em đó đã ra sao? Liệu họ có chọn tiếp tục sống cùng nhau hay không? Giống như chúng tôi vậy.
+Không chỉ riêng hai người. Rốt cuộc cặp anh em đó đã ra sao? Liệu họ có chọn tiếp tục sống cùng nhau hay không? Giống như hai người vậy.
 
 “Đó là lý do mẹ sắp xếp lại các bệnh án cũ và thông tin người hiến tặng vào cơ sở dữ liệu. Để khi nào có đứa trẻ nào đó tìm đến, mẹ có thể đáp lại tâm nguyện của chúng. Cháu nghĩ mẹ coi đó là cách để tự trọn nghĩa vụ của mình.”
 
-Ikushima Sohei hít một hơi thật sâu. Gương mặt nghiêng ấy mang nét đẹp lai rõ rệt... nhưng thấp thoáng trong đó, tôi nhìn thấy hình bóng của Ikushima Kyoko. Sự viếng thăm của Nakagawa Shinya, dẫu là một cú sốc đối với Ikushima Kyoko... nhưng đồng thời cũng là cơ hội để bà đối diện với quá khứ của chính mình và hệ thống đạo đức mà bà từng tin tưởng.
+Ikushima Sohei hít một hơi thật sâu. Gương mặt nghiêng ấy mang nét đẹp lai rõ rệt... nhưng thấp thoáng trong đó, anh nhìn thấy hình bóng của Ikushima Kyoko. Sự viếng thăm của Nakagawa Shinya, dẫu là một cú sốc đối với Ikushima Kyoko... nhưng đồng thời cũng là cơ hội để bà đối diện với quá khứ của chính mình và hệ thống đạo đức mà bà từng tin tưởng.
 
 “Bọn trẻ không hề đòi hỏi quá nhiều điều. Người hiến tặng chỉ cần để lại chữ cái viết tắt, thông tin về bệnh di truyền, hoặc vài lời nhắn gửi cho đứa trẻ là đủ. Thế nhưng ở Nhật Bản, công tác lập khung pháp lý để bảo vệ trẻ em và người hiến tặng gần như dậm chân tại chỗ. Chính vì thế mà cuối cùng, ngân hàng tinh trùng vốn có độ an toàn cao nay buộc phải tạm ngừng hoạt động, khiến tình trạng mua bán tinh trùng qua mạng xã hội hay ra nước ngoài mua trứng và phôi trở nên hoành hành.”
 
@@ -166,13 +166,13 @@ Thai tuần thứ ba mươi sáu, ba ngày.
 
 Ư... ư... ư... đau quá, đau quá, đau quá...
 
-Nhìn Takeda Erika mở miệng ra là chỉ kêu đau, tôi chỉ biết luống cuống đứng chôn chân một chỗ.
+Nhìn Takeda Erika mở miệng ra là chỉ kêu đau, anh chỉ biết luống cuống đứng chôn chân một chỗ.
 
 Dán mắt vào màn hình máy đo CTG (biểu đồ nhịp tim thai) gắn trên bụng em dẫu chẳng hiểu gì sảng, anh chỉ biết bấu víu vào hy vọng duy nhất là con vẫn còn sống, vừa tự nhủ vừa xoa lưng cho vợ.
 
-Nghe nói xoa vùng hông sẽ đỡ đau nên tôi thử làm theo, nhưng cô ấy cáu gắt bảo không phải chỗ đó rồi rụt tay tôi lại. Trông cô hoàn toàn khác ngày thường. Hệt như một con thú hoang bị thương.
+Nghe nói xoa vùng hông sẽ đỡ đau nên anh thử làm theo, nhưng cô ấy cáu gắt bảo không phải chỗ đó rồi rụt tay anh lại. Trông cô hoàn toàn khác ngày thường. Hệt như một con thú hoang bị thương.
 
-Suốt cả đêm, vừa nơm nớp lo sợ vừa xoa bóp và động viên cô, chẳng mấy chốc mà trời đã sáng rõ lúc năm giờ. Việc sinh nở lại gian nan đến nhường này ư. Ngoài sự kính sợ ra, tôi chẳng còn cảm xúc nào khác.
+Suốt cả đêm, vừa nơm nớp lo sợ vừa xoa bóp và động viên cô, chẳng mấy chốc mà trời đã sáng rõ lúc năm giờ. Việc sinh nở lại gian nan đến nhường này ư. Ngoài sự kính sợ ra, anh chẳng còn cảm xúc nào khác.
 
 Cánh cửa phòng sinh mở ra.
 
@@ -182,7 +182,7 @@ Bước vào trong, Erika đang ngồi trên bàn sinh. Chiếc bàn nghiêng g�
 
 Từ chiếc áo choàng sinh xộc xệch, chiếc bụng căng tròn như sắp nứt cùng làn da trắng ngần tựa tuyết hiện ra.
 
-Ngay khoảnh khắc ấy, ký ức về loài phù du bên sông Nagara chợt lóe lên trong đầu tôi như một cuốn phim quay chậm.
+Ngay khoảnh khắc ấy, ký ức về loài phù du bên sông Nagara chợt lóe lên trong đầu anh như một cuốn phim quay chậm.
 
 Đó hình như là bài thơ có trong sách giáo khoa cấp ba.
 
@@ -196,7 +196,7 @@ Nghe những lời của cậu thiếu niên, người cha liền kể cho cậu
 
 《Thật xót xa làm sao.》
 
-Hóa ra là câu thơ này đây. Hình ảnh về loài phù du đã gợi cho tôi nhớ đến điều đó.
+Hóa ra là câu thơ này đây. Hình ảnh về loài phù du đã gợi cho anh nhớ đến điều đó.
 
 Phải rồi. Mẹ của cậu thiếu niên trong bài thơ đã qua đời ngay sau khi sinh hạ cậu ấy...
 
@@ -206,7 +206,7 @@ Nữ hộ sinh hướng dẫn. Erika rưng rưng nước mắt, ngoan ngoãn là
 
 “Cố lên em, thêm một hơi nữa thôi.”
 
-Tôi đặt cả hai tay lên đôi bàn tay đang siết chặt thanh tay cầm của Erika. Cố lên em, cố lên.
+Anh đặt cả hai tay lên đôi bàn tay đang siết chặt thanh tay cầm của Erika. Cố lên em, cố lên.
 
 “Đau quá, đau quá, đau quá...”
 
@@ -218,7 +218,7 @@ Nhờ lời động viên của nữ hộ sinh mà Erika như được tiếp th
 
 Lần thứ hai, thứ ba, thứ tư, thứ năm.
 
-Từ bao giờ, những giọt nước mắt đã lăn dài trên má tôi.
+Từ bao giờ, những giọt nước mắt đã lăn dài trên má anh.
 
 Việc sinh ra trên đời mới kỳ diệu làm sao.
 
@@ -230,7 +230,7 @@ Liệu mai sau con có biết được không? Mối quan hệ giữa anh và Er
 
 Điều đó có thể khiến một đứa trẻ vô tội như con phải khổ sở. Thế nhưng, dẫu có là ích kỷ đi chăng nữa, anh vẫn mong tương lai của con sẽ là một ngày con cảm thấy thật biết ơn khi được sinh ra dưới mái nhà của chúng ta.
 
-Giống như việc tôi vẫn luôn yêu thương cha mẹ nuôi dẫu không cùng dòng máu. Giống như việc dẫu biết sự thật, tình cảm tôi dành cho Erika chưa từng lay chuyển. Anh xin lỗi con nhé. Nhưng anh sẽ bảo vệ con bằng tất cả những gì anh có, thế nên hãy đến với bọn anh nhé.
+Giống như việc anh vẫn luôn yêu thương cha mẹ nuôi dẫu không cùng dòng máu. Giống như việc dẫu biết sự thật, tình cảm anh dành cho Erika chưa từng lay chuyển. Anh xin lỗi con nhé. Nhưng anh sẽ bảo vệ con bằng tất cả những gì anh có, thế nên hãy đến với bọn anh nhé.
 
 Tiếng hò reo của nữ hộ sinh vang lên: “Được rồi, đầu ra rồi!”
 
@@ -248,13 +248,13 @@ Erika mỉm cười hiền từ như một người mẹ. Biểu cảm dịu dà
 
 “Bố cũng vất vả rồi ạ. Bố có muốn bế thử không.”
 
-Như đã được hướng dẫn kỹ qua video, tôi lóng ngóng vụng về dùng một tay đỡ cổ, tay kia đỡ mông, bế đứa con của chính mình lên.
+Như đã được hướng dẫn kỹ qua video, anh lóng ngóng vụng về dùng một tay đỡ cổ, tay kia đỡ mông, bế đứa con của chính mình lên.
 
 Con nhẹ bẫng đến ngỡ ngàng. Mỏng manh tựa một thứ đồ dễ vỡ.
 
 Khuôn mặt đỏ hỏn, đôi mắt nhắm nghiền. Tóc tai cũng đã mọc đầy đủ cả. Gương mặt này... trông giống anh hơn nhỉ?
 
-Tôi khẽ chạm vào tay con và thì thầm “Mong con giúp đỡ nhé,” con bé liền nắm chặt lấy ngón tay tôi.
+Anh khẽ chạm vào tay con và thì thầm “Mong con giúp đỡ nhé,” con bé liền nắm chặt lấy ngón tay anh.
 
 Nữ hộ sinh đón lấy đứa trẻ một lần nữa, nhanh nhẹn lau sạch người rồi tiến hành đo chiều dài và cân nặng. Trong lúc đó, bác sĩ sản phụ khoa đã hoàn tất việc xử lý nhau thai vừa được tống xuất và khâu lại vết rách.
 
@@ -264,10 +264,10 @@ Mọi việc hoàn tất, ánh đèn trong phòng được hạ thấp mờ ảo
 
 Cánh mũi của đứa trẻ chưa mở mắt khẽ động đậy, miệng nhỏ chúm chím mò mẫm tìm bầu vú mẹ. Rồi cứ thế ngậm lấy và bú từng ngụm sữa.
 
-Tôi nhìn sang Takeda Erika, ánh mắt hai người giao nhau.
+Anh nhìn sang Takeda Erika, ánh mắt hai người giao nhau.
 
 Ngọn đuốc sự sống, đã thực sự được trao truyền.
 
-<div class="text-right" style="text-align: right; margin: 1.5rem 0; font-style: italic;">Ngày 30 tháng 8 năm 2023, sáu giờ mười phút sáng.</div>
+Ngày 30 tháng 8 năm 2023, sáu giờ mười phút sáng.
 
 Đứa Con Cấm Kỵ nay đã trở thành một phần của gia đình.
