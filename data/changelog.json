@@ -1,5 +1,16 @@
 [
   {
+    "id": "log-20261128-05",
+    "timestamp": "2026-11-28T20:35:00+07:00",
+    "bookId": "dua-con-cam-ky",
+    "bookTitle": "Đứa Con Cấm Kỵ",
+    "type": "video_update",
+    "typeName": "Phát hành Video Teaser",
+    "badgeClass": "badge-video",
+    "title": "Phát hành video Teaser / Giới thiệu tác phẩm Đứa Con Cấm Kỵ (Yamaguchi Mio)",
+    "description": "Chính thức ra mắt video Teaser giới thiệu không khí kịch tính, nghẹt thở của tiểu thuyết trinh thám y khoa đoạt giải Ayukawa Tetsuya “Đứa Con Cấm Kỵ” (Yamaguchi Mio). Độc giả có thể thưởng thức video trực tiếp ngay trên bìa sách và trang chi tiết tác phẩm."
+  },
+  {
     "id": "log-20261128-04",
     "timestamp": "2026-11-28T17:45:00+07:00",
     "bookId": "tam-tru-noi-dia-nguc",
